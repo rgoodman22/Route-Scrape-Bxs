@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 from selenium import webdriver
 from constants import constants
 from selenium.webdriver.common.keys import Keys
@@ -45,7 +47,7 @@ class menuSelect:
         myBoxes = []
         myElements = self.driver.find_elements_by_xpath('//*[@target="TURNER_BOX"]')
         for element in myElements:
-            myBoxes.append(element)
+            myBoxes.append(element.get_attribute('data-href'))
         return myBoxes
         
         

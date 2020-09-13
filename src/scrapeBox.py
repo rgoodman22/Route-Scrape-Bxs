@@ -1,4 +1,5 @@
 from selenium import webdriver
+import time
 #webdriverwait related imports
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -13,8 +14,9 @@ class scrapeBox:
         self.moveToBox()
 
     def moveToBox(self):
-        currentTab = self.driver.find_element_by_id('gamecenterAppTabs')
-        #### WEBDRIVER WAIT RELATED LOGIC
-        boxTab = currentTab.find_element_by_link_text('Box Score')
-        boxTab.click()
+        newUrl = (self.driver.current_url).replace('#', '/')
+        self.driver.get(newUrl)
+
+
+
 m = scrapeBox()

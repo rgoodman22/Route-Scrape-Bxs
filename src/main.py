@@ -1,6 +1,6 @@
 from menuSelect import menuSelect
 from constants import constants
-from os import time
+import time
 
 dates = constants.dates
 divs = constants.divDict
@@ -22,6 +22,7 @@ class main:
                     continue
                 else:
                     last = cur
+                    print(cur)
                     gameLinks.append(cur)
 
 
