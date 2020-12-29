@@ -1,20 +1,22 @@
 from menuSelect import menuSelect
 from constants import constants
 import time
+from scrapeBox import scrapeBox
+from chromeSync import driver
 
 dates = constants.dates
 divs = constants.divDict
 class main:
-    def __init__(self):
+    def __init__(self, driver):
         gameLinks = []
-        m = menuSelect()
+        m = menuSelect(driver)
         for div in divs:
             m.selectDivision(div)
             last = None
             for date in dates:
                 time.sleep(.2)
                 if '08/1/' in date:
-                    year = date[5::]
+                    year = date[5:]
                     m.yearSelect(year)
                 m.changeDate(date)
                 cur = m.getBoxes()
@@ -22,11 +24,13 @@ class main:
                     continue
                 else:
                     last = cur
-                    print(cur)
+                    for link in cur:
+                        scrapeBox(link, driver)
+                    m.toHome()
                     gameLinks.append(cur)
 
 
-main()
+main(driver)
 
                 
 

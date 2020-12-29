@@ -1,19 +1,17 @@
 # -*- coding: utf-8 -*-
-
-from selenium import webdriver
 from constants import constants
 from selenium.webdriver.common.keys import Keys
+
 
 #Constants
 yearDict = constants.yearDict
 divDict = constants.divDict
 
 class menuSelect:
-    def __init__(self):
-        chromedriver = "/Users/rgoodman/Desktop/ROUTE/Route-Scrape-Bxs/src/chromedriver"
-        self.driver = webdriver.Chrome(chromedriver)
-        url = "https://stats.ncaa.org/season_divisions/11480/scoreboards?utf8=✓&season_division_id=&game_date=09%2F05%2F2013&conference_id=0&tournament_id=&commit=Submit"
-        self.driver.get(url)
+    def __init__(self, driver):
+        self.driver = driver
+        self.url = "https://stats.ncaa.org/season_divisions/11480/scoreboards?utf8=✓&season_division_id=&game_date=09%2F05%2F2013&conference_id=0&tournament_id=&commit=Submit"
+        self.driver.get(self.url)
 
 
     #year menu logix
@@ -47,8 +45,10 @@ class menuSelect:
         myBoxes = []
         myElements = self.driver.find_elements_by_xpath('//*[@target="TURNER_BOX"]')
         for element in myElements:
-            myBoxes.append(element.get_attribute('data-href'))
+            myBoxes.append(element.get_attribute('href'))
         return myBoxes
+    def toHome(self):
+        self.driver.get(self.url)
         
         
 

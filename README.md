@@ -2,12 +2,11 @@
 
 Code to scrape all box scores from www.ncaa.com
 
-## Current Task
+# Functionality
 
-GetBoxes function in menuSelect
-
-## To Do:
+# To Do:
 
 1. scrape Boxes
-3. sort data
-4.
+   1. Switch team function
+   2. get all data, outlined in scrapeboxes
+2. sort data
