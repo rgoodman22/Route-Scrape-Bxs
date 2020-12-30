@@ -10,7 +10,7 @@ divDict = constants.divDict
 class menuSelect:
     def __init__(self, driver):
         self.driver = driver
-        self.url = "https://stats.ncaa.org/season_divisions/11480/scoreboards?utf8=✓&season_division_id=&game_date=09%2F05%2F2013&conference_id=0&tournament_id=&commit=Submit"
+        self.url = "https://stats.ncaa.org/season_divisions/11420/scoreboards?utf8=%E2%9C%93&season_division_id=&game_date=08%2F01%2F2013&conference_id=0&tournament_id=&commit=Submit"
         self.driver.get(self.url)
 
 

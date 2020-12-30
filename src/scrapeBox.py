@@ -1,7 +1,12 @@
-from selenium.webdriver.common.keys import Keys
 from chromeSync import driver
 import time
 import csv
+from selenium.common.exceptions import NoSuchElementException 
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.common.exceptions import TimeoutException
+
 
 monthDict = {
     "JANUARY" : "1",
@@ -32,6 +37,8 @@ class scrapeBox:
         self.url = url
         self.div = div
         self.moveToBox()
+        
+        #if not self.check404():
         self.getTeams()
         self.getDetails()
 
@@ -43,6 +50,14 @@ class scrapeBox:
         self.parseBox(1)
         self.write()
         
+    def check404(self):
+        errors = self.driver.find_elements_by_class_name("error-page error-404")
+        print(errors)
+        if len(errors) == 0:
+            return False
+        else:
+            print(self.url)
+            return True
 
     def moveToBox(self):
         if 'boxscore' in self.url:
@@ -98,14 +113,19 @@ class scrapeBox:
 
 
     def getTeams(self):
-        self.teams = []
-        myXpath = "//div[@class='boxscore-team-selector-team awayTeam-bg-primary_color homeTeam-border-primary_color away active']"
-        away = self.driver.find_element_by_xpath(myXpath)
-        self.teams.append(away.text)
-
-        myXpath = "//div[@class='boxscore-team-selector-team homeTeam-bg-primary_color awayTeam-border-primary_color home']"
-        home = self.driver.find_element_by_xpath(myXpath)
-        self.teams.append(home.text)
+        try:
+            self.teams = []
+            myXpath = "//div[@class='boxscore-team-selector-team awayTeam-bg-primary_color homeTeam-border-primary_color away active']"
+            away = WebDriverWait(driver, 4).until(EC.presence_of_element_located((By.XPATH, myXpath)))
+            self.teams.append(away.text)
+            myXpath = "//div[@class='boxscore-team-selector-team homeTeam-bg-primary_color awayTeam-border-primary_color home']"
+            home = self.driver.find_element_by_xpath(myXpath)
+            self.teams.append(home.text)
+        except TimeoutException:
+            pathName = "../data/errorLinks.txt"
+            file = open(pathName, "a+")
+            file.write(self.url + "\r\n")
+            file.close()
 
     def getDetails(self):
         myXpath = "//span[@class='venue']"
