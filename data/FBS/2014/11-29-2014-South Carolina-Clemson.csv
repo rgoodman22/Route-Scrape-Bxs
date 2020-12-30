@@ -1,0 +1,169 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1666001,11/29/2014,FBS,South Carolina,Clemson,RUSHING,Mike,Davis,ATT,12
+1666002,11/29/2014,FBS,South Carolina,Clemson,RUSHING,Mike,Davis,YDS,39
+1666003,11/29/2014,FBS,South Carolina,Clemson,RUSHING,Mike,Davis,TD,0
+1666004,11/29/2014,FBS,South Carolina,Clemson,RUSHING,Mike,Davis,LONG,16
+1666005,11/29/2014,FBS,South Carolina,Clemson,RUSHING,Pharoh,Cooper,ATT,2
+1666006,11/29/2014,FBS,South Carolina,Clemson,RUSHING,Pharoh,Cooper,YDS,18
+1666007,11/29/2014,FBS,South Carolina,Clemson,RUSHING,Pharoh,Cooper,TD,1
+1666008,11/29/2014,FBS,South Carolina,Clemson,RUSHING,Pharoh,Cooper,LONG,20
+1666009,11/29/2014,FBS,South Carolina,Clemson,RUSHING,David,Williams,ATT,7
+1666010,11/29/2014,FBS,South Carolina,Clemson,RUSHING,David,Williams,YDS,15
+1666011,11/29/2014,FBS,South Carolina,Clemson,RUSHING,David,Williams,TD,0
+1666012,11/29/2014,FBS,South Carolina,Clemson,RUSHING,David,Williams,LONG,10
+1666013,11/29/2014,FBS,South Carolina,Clemson,RUSHING,Brandon,Wilds,ATT,2
+1666014,11/29/2014,FBS,South Carolina,Clemson,RUSHING,Brandon,Wilds,YDS,11
+1666015,11/29/2014,FBS,South Carolina,Clemson,RUSHING,Brandon,Wilds,TD,0
+1666016,11/29/2014,FBS,South Carolina,Clemson,RUSHING,Brandon,Wilds,LONG,9
+1666017,11/29/2014,FBS,South Carolina,Clemson,RUSHING,Shon,Carson,ATT,1
+1666018,11/29/2014,FBS,South Carolina,Clemson,RUSHING,Shon,Carson,YDS,1
+1666019,11/29/2014,FBS,South Carolina,Clemson,RUSHING,Shon,Carson,TD,0
+1666020,11/29/2014,FBS,South Carolina,Clemson,RUSHING,Shon,Carson,LONG,1
+1666021,11/29/2014,FBS,South Carolina,Clemson,RUSHING,Dylan,Thompson,ATT,9
+1666022,11/29/2014,FBS,South Carolina,Clemson,RUSHING,Dylan,Thompson,YDS,-21
+1666023,11/29/2014,FBS,South Carolina,Clemson,RUSHING,Dylan,Thompson,TD,0
+1666024,11/29/2014,FBS,South Carolina,Clemson,RUSHING,Dylan,Thompson,LONG,8
+1666025,11/29/2014,FBS,South Carolina,Clemson,PASSING,Dylan,Thompson,CP-ATT-INT,21-39-0
+1666026,11/29/2014,FBS,South Carolina,Clemson,PASSING,Dylan,Thompson,YDS,249
+1666027,11/29/2014,FBS,South Carolina,Clemson,PASSING,Dylan,Thompson,TD,1
+1666028,11/29/2014,FBS,South Carolina,Clemson,PASSING,Dylan,Thompson,LONG,59
+1666029,11/29/2014,FBS,South Carolina,Clemson,PASSING,Pharoh,Cooper,CP-ATT-INT,2-2-0
+1666030,11/29/2014,FBS,South Carolina,Clemson,PASSING,Pharoh,Cooper,YDS,27
+1666031,11/29/2014,FBS,South Carolina,Clemson,PASSING,Pharoh,Cooper,TD,0
+1666032,11/29/2014,FBS,South Carolina,Clemson,PASSING,Pharoh,Cooper,LONG,20
+1666033,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,David,Williams,REC,4
+1666034,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,David,Williams,YDS,70
+1666035,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,David,Williams,TD,0
+1666036,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,David,Williams,LONG,59
+1666037,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,Pharoh,Cooper,REC,2
+1666038,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,Pharoh,Cooper,YDS,45
+1666039,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,Pharoh,Cooper,TD,0
+1666040,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,Pharoh,Cooper,LONG,46
+1666041,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,Rory,Anderson,REC,2
+1666042,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,Rory,Anderson,YDS,29
+1666043,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,Rory,Anderson,TD,0
+1666044,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,Rory,Anderson,LONG,24
+1666045,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,Mike,Davis,REC,4
+1666046,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,Mike,Davis,YDS,28
+1666047,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,Mike,Davis,TD,0
+1666048,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,Mike,Davis,LONG,17
+1666049,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,Shaq,Roland,REC,3
+1666050,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,Shaq,Roland,YDS,26
+1666051,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,Shaq,Roland,TD,0
+1666052,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,Shaq,Roland,LONG,12
+1666053,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,Jerell,Adams,REC,3
+1666054,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,Jerell,Adams,YDS,23
+1666055,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,Jerell,Adams,TD,0
+1666056,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,Jerell,Adams,LONG,11
+1666057,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,K.J.,Brent,REC,1
+1666058,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,K.J.,Brent,YDS,20
+1666059,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,K.J.,Brent,TD,0
+1666060,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,K.J.,Brent,LONG,20
+1666061,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,Shon,Carson,REC,2
+1666062,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,Shon,Carson,YDS,19
+1666063,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,Shon,Carson,TD,0
+1666064,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,Shon,Carson,LONG,10
+1666065,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,Damiere,Byrd,REC,1
+1666066,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,Damiere,Byrd,YDS,12
+1666067,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,Damiere,Byrd,TD,1
+1666068,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,Damiere,Byrd,LONG,12
+1666069,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,Nick,Jones,REC,1
+1666070,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,Nick,Jones,YDS,4
+1666071,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,Nick,Jones,TD,0
+1666072,11/29/2014,FBS,South Carolina,Clemson,RECEIVING,Nick,Jones,LONG,4
+1666073,11/29/2014,FBS,South Carolina,Clemson,KICKING,Elliot,Fry,FG-FGA,1/2
+1666074,11/29/2014,FBS,South Carolina,Clemson,KICKING,Elliot,Fry,LONG,47
+1666075,11/29/2014,FBS,South Carolina,Clemson,KICKING,Elliot,Fry,XP,2
+1666076,11/29/2014,FBS,South Carolina,Clemson,KICKING,Elliot,Fry,PTS,5
+1666077,11/29/2014,FBS,South Carolina,Clemson,PUNTING,Tyler,Hull,NO,5
+1666078,11/29/2014,FBS,South Carolina,Clemson,PUNTING,Tyler,Hull,YDS,195
+1666079,11/29/2014,FBS,South Carolina,Clemson,PUNTING,Tyler,Hull,AVG,39.0
+1666080,11/29/2014,FBS,South Carolina,Clemson,PUNTING,Tyler,Hull,LONG,48
+1666081,11/29/2014,FBS,South Carolina,Clemson,PUNT RETURNS,Pharoh,Cooper,NO,1
+1666082,11/29/2014,FBS,South Carolina,Clemson,PUNT RETURNS,Pharoh,Cooper,YDS,13
+1666083,11/29/2014,FBS,South Carolina,Clemson,PUNT RETURNS,Pharoh,Cooper,AVG,13.0
+1666084,11/29/2014,FBS,South Carolina,Clemson,PUNT RETURNS,Pharoh,Cooper,LONG,13
+1666085,11/29/2014,FBS,South Carolina,Clemson,PUNT RETURNS,Nick,Jones,NO,1
+1666086,11/29/2014,FBS,South Carolina,Clemson,PUNT RETURNS,Nick,Jones,YDS,1
+1666087,11/29/2014,FBS,South Carolina,Clemson,PUNT RETURNS,Nick,Jones,AVG,1.0
+1666088,11/29/2014,FBS,South Carolina,Clemson,PUNT RETURNS,Nick,Jones,LONG,1
+1666089,11/29/2014,FBS,South Carolina,Clemson,KICK RETURNS,Shon,Carson,NO,2
+1666090,11/29/2014,FBS,South Carolina,Clemson,KICK RETURNS,Shon,Carson,YDS,49
+1666091,11/29/2014,FBS,South Carolina,Clemson,KICK RETURNS,Shon,Carson,AVG,24.5
+1666092,11/29/2014,FBS,South Carolina,Clemson,KICK RETURNS,Shon,Carson,LONG,28
+1666093,11/29/2014,FBS,Clemson,South Carolina,RUSHING,Wayne,Gallman,ATT,27
+1666094,11/29/2014,FBS,Clemson,South Carolina,RUSHING,Wayne,Gallman,YDS,191
+1666095,11/29/2014,FBS,Clemson,South Carolina,RUSHING,Wayne,Gallman,TD,1
+1666096,11/29/2014,FBS,Clemson,South Carolina,RUSHING,Wayne,Gallman,LONG,32
+1666097,11/29/2014,FBS,Clemson,South Carolina,RUSHING,Artavis,Scott,ATT,3
+1666098,11/29/2014,FBS,Clemson,South Carolina,RUSHING,Artavis,Scott,YDS,13
+1666099,11/29/2014,FBS,Clemson,South Carolina,RUSHING,Artavis,Scott,TD,0
+1666100,11/29/2014,FBS,Clemson,South Carolina,RUSHING,Artavis,Scott,LONG,6
+1666101,11/29/2014,FBS,Clemson,South Carolina,RUSHING,Deshaun,Watson,ATT,5
+1666102,11/29/2014,FBS,Clemson,South Carolina,RUSHING,Deshaun,Watson,YDS,13
+1666103,11/29/2014,FBS,Clemson,South Carolina,RUSHING,Deshaun,Watson,TD,2
+1666104,11/29/2014,FBS,Clemson,South Carolina,RUSHING,Deshaun,Watson,LONG,9
+1666105,11/29/2014,FBS,Clemson,South Carolina,RUSHING,Adam,Humphries,ATT,2
+1666106,11/29/2014,FBS,Clemson,South Carolina,RUSHING,Adam,Humphries,YDS,8
+1666107,11/29/2014,FBS,Clemson,South Carolina,RUSHING,Adam,Humphries,TD,0
+1666108,11/29/2014,FBS,Clemson,South Carolina,RUSHING,Adam,Humphries,LONG,6
+1666109,11/29/2014,FBS,Clemson,South Carolina,RUSHING,Cole,Stoudt,ATT,1
+1666110,11/29/2014,FBS,Clemson,South Carolina,RUSHING,Cole,Stoudt,YDS,1
+1666111,11/29/2014,FBS,Clemson,South Carolina,RUSHING,Cole,Stoudt,TD,0
+1666112,11/29/2014,FBS,Clemson,South Carolina,RUSHING,Cole,Stoudt,LONG,1
+1666113,11/29/2014,FBS,Clemson,South Carolina,RUSHING,Tyshon,Dye,ATT,1
+1666114,11/29/2014,FBS,Clemson,South Carolina,RUSHING,Tyshon,Dye,YDS,0
+1666115,11/29/2014,FBS,Clemson,South Carolina,RUSHING,Tyshon,Dye,TD,0
+1666116,11/29/2014,FBS,Clemson,South Carolina,RUSHING,Tyshon,Dye,LONG,0
+1666117,11/29/2014,FBS,Clemson,South Carolina,RUSHING,,Team,ATT,1
+1666118,11/29/2014,FBS,Clemson,South Carolina,RUSHING,,Team,YDS,-1
+1666119,11/29/2014,FBS,Clemson,South Carolina,RUSHING,,Team,TD,0
+1666120,11/29/2014,FBS,Clemson,South Carolina,RUSHING,,Team,LONG,-1
+1666121,11/29/2014,FBS,Clemson,South Carolina,PASSING,Deshaun,Watson,CP-ATT-INT,14-19-0
+1666122,11/29/2014,FBS,Clemson,South Carolina,PASSING,Deshaun,Watson,YDS,269
+1666123,11/29/2014,FBS,Clemson,South Carolina,PASSING,Deshaun,Watson,TD,2
+1666124,11/29/2014,FBS,Clemson,South Carolina,PASSING,Deshaun,Watson,LONG,70
+1666125,11/29/2014,FBS,Clemson,South Carolina,PASSING,Cole,Stoudt,CP-ATT-INT,1-2-1
+1666126,11/29/2014,FBS,Clemson,South Carolina,PASSING,Cole,Stoudt,YDS,-3
+1666127,11/29/2014,FBS,Clemson,South Carolina,PASSING,Cole,Stoudt,TD,0
+1666128,11/29/2014,FBS,Clemson,South Carolina,PASSING,Cole,Stoudt,LONG,0
+1666129,11/29/2014,FBS,Clemson,South Carolina,RECEIVING,Artavis,Scott,REC,7
+1666130,11/29/2014,FBS,Clemson,South Carolina,RECEIVING,Artavis,Scott,YDS,185
+1666131,11/29/2014,FBS,Clemson,South Carolina,RECEIVING,Artavis,Scott,TD,2
+1666132,11/29/2014,FBS,Clemson,South Carolina,RECEIVING,Artavis,Scott,LONG,70
+1666133,11/29/2014,FBS,Clemson,South Carolina,RECEIVING,Mike,Williams,REC,3
+1666134,11/29/2014,FBS,Clemson,South Carolina,RECEIVING,Mike,Williams,YDS,59
+1666135,11/29/2014,FBS,Clemson,South Carolina,RECEIVING,Mike,Williams,TD,0
+1666136,11/29/2014,FBS,Clemson,South Carolina,RECEIVING,Mike,Williams,LONG,25
+1666137,11/29/2014,FBS,Clemson,South Carolina,RECEIVING,Jordan,Leggett,REC,2
+1666138,11/29/2014,FBS,Clemson,South Carolina,RECEIVING,Jordan,Leggett,YDS,13
+1666139,11/29/2014,FBS,Clemson,South Carolina,RECEIVING,Jordan,Leggett,TD,0
+1666140,11/29/2014,FBS,Clemson,South Carolina,RECEIVING,Jordan,Leggett,LONG,7
+1666141,11/29/2014,FBS,Clemson,South Carolina,RECEIVING,Adam,Humphries,REC,1
+1666142,11/29/2014,FBS,Clemson,South Carolina,RECEIVING,Adam,Humphries,YDS,10
+1666143,11/29/2014,FBS,Clemson,South Carolina,RECEIVING,Adam,Humphries,TD,0
+1666144,11/29/2014,FBS,Clemson,South Carolina,RECEIVING,Adam,Humphries,LONG,10
+1666145,11/29/2014,FBS,Clemson,South Carolina,RECEIVING,Stanton,Seckinger,REC,1
+1666146,11/29/2014,FBS,Clemson,South Carolina,RECEIVING,Stanton,Seckinger,YDS,2
+1666147,11/29/2014,FBS,Clemson,South Carolina,RECEIVING,Stanton,Seckinger,TD,0
+1666148,11/29/2014,FBS,Clemson,South Carolina,RECEIVING,Stanton,Seckinger,LONG,2
+1666149,11/29/2014,FBS,Clemson,South Carolina,RECEIVING,Wayne,Gallman,REC,1
+1666150,11/29/2014,FBS,Clemson,South Carolina,RECEIVING,Wayne,Gallman,YDS,-3
+1666151,11/29/2014,FBS,Clemson,South Carolina,RECEIVING,Wayne,Gallman,TD,0
+1666152,11/29/2014,FBS,Clemson,South Carolina,RECEIVING,Wayne,Gallman,LONG,-3
+1666153,11/29/2014,FBS,Clemson,South Carolina,KICKING,Ammon,Lakip,FG-FGA,0/1
+1666154,11/29/2014,FBS,Clemson,South Carolina,KICKING,Ammon,Lakip,LONG,0
+1666155,11/29/2014,FBS,Clemson,South Carolina,KICKING,Ammon,Lakip,XP,5
+1666156,11/29/2014,FBS,Clemson,South Carolina,KICKING,Ammon,Lakip,PTS,5
+1666157,11/29/2014,FBS,Clemson,South Carolina,PUNTING,Bradley,Pinion,NO,5
+1666158,11/29/2014,FBS,Clemson,South Carolina,PUNTING,Bradley,Pinion,YDS,202
+1666159,11/29/2014,FBS,Clemson,South Carolina,PUNTING,Bradley,Pinion,AVG,40.4
+1666160,11/29/2014,FBS,Clemson,South Carolina,PUNTING,Bradley,Pinion,LONG,45
+1666161,11/29/2014,FBS,Clemson,South Carolina,PUNT RETURNS,Adam,Humphries,NO,1
+1666162,11/29/2014,FBS,Clemson,South Carolina,PUNT RETURNS,Adam,Humphries,YDS,-1
+1666163,11/29/2014,FBS,Clemson,South Carolina,PUNT RETURNS,Adam,Humphries,AVG,-
+1666164,11/29/2014,FBS,Clemson,South Carolina,PUNT RETURNS,Adam,Humphries,LONG,0
+1666165,11/29/2014,FBS,Clemson,South Carolina,KICK RETURNS,Artavis,Scott,NO,1
+1666166,11/29/2014,FBS,Clemson,South Carolina,KICK RETURNS,Artavis,Scott,YDS,19
+1666167,11/29/2014,FBS,Clemson,South Carolina,KICK RETURNS,Artavis,Scott,AVG,19.0
+1666168,11/29/2014,FBS,Clemson,South Carolina,KICK RETURNS,Artavis,Scott,LONG,19

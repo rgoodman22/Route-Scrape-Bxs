@@ -1,0 +1,133 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1341001,10/18/2014,FBS,Purdue,Minnesota,RUSHING,Raheem,Mostert,ATT,5
+1341002,10/18/2014,FBS,Purdue,Minnesota,RUSHING,Raheem,Mostert,YDS,115
+1341003,10/18/2014,FBS,Purdue,Minnesota,RUSHING,Raheem,Mostert,TD,1
+1341004,10/18/2014,FBS,Purdue,Minnesota,RUSHING,Raheem,Mostert,LONG,69
+1341005,10/18/2014,FBS,Purdue,Minnesota,RUSHING,Akeem,Hunt,ATT,17
+1341006,10/18/2014,FBS,Purdue,Minnesota,RUSHING,Akeem,Hunt,YDS,98
+1341007,10/18/2014,FBS,Purdue,Minnesota,RUSHING,Akeem,Hunt,TD,0
+1341008,10/18/2014,FBS,Purdue,Minnesota,RUSHING,Akeem,Hunt,LONG,31
+1341009,10/18/2014,FBS,Purdue,Minnesota,RUSHING,Austin,Appleby,ATT,10
+1341010,10/18/2014,FBS,Purdue,Minnesota,RUSHING,Austin,Appleby,YDS,79
+1341011,10/18/2014,FBS,Purdue,Minnesota,RUSHING,Austin,Appleby,TD,1
+1341012,10/18/2014,FBS,Purdue,Minnesota,RUSHING,Austin,Appleby,LONG,25
+1341013,10/18/2014,FBS,Purdue,Minnesota,RUSHING,Danny,Anthrop,ATT,2
+1341014,10/18/2014,FBS,Purdue,Minnesota,RUSHING,Danny,Anthrop,YDS,7
+1341015,10/18/2014,FBS,Purdue,Minnesota,RUSHING,Danny,Anthrop,TD,0
+1341016,10/18/2014,FBS,Purdue,Minnesota,RUSHING,Danny,Anthrop,LONG,5
+1341017,10/18/2014,FBS,Purdue,Minnesota,RUSHING,,Team,ATT,1
+1341018,10/18/2014,FBS,Purdue,Minnesota,RUSHING,,Team,YDS,-1
+1341019,10/18/2014,FBS,Purdue,Minnesota,RUSHING,,Team,TD,0
+1341020,10/18/2014,FBS,Purdue,Minnesota,RUSHING,,Team,LONG,-1
+1341021,10/18/2014,FBS,Purdue,Minnesota,PASSING,Austin,Appleby,CP-ATT-INT,16-26-2
+1341022,10/18/2014,FBS,Purdue,Minnesota,PASSING,Austin,Appleby,YDS,153
+1341023,10/18/2014,FBS,Purdue,Minnesota,PASSING,Austin,Appleby,TD,3
+1341024,10/18/2014,FBS,Purdue,Minnesota,PASSING,Austin,Appleby,LONG,55
+1341025,10/18/2014,FBS,Purdue,Minnesota,RECEIVING,Danny,Anthrop,REC,4
+1341026,10/18/2014,FBS,Purdue,Minnesota,RECEIVING,Danny,Anthrop,YDS,67
+1341027,10/18/2014,FBS,Purdue,Minnesota,RECEIVING,Danny,Anthrop,TD,1
+1341028,10/18/2014,FBS,Purdue,Minnesota,RECEIVING,Danny,Anthrop,LONG,55
+1341029,10/18/2014,FBS,Purdue,Minnesota,RECEIVING,Akeem,Hunt,REC,5
+1341030,10/18/2014,FBS,Purdue,Minnesota,RECEIVING,Akeem,Hunt,YDS,24
+1341031,10/18/2014,FBS,Purdue,Minnesota,RECEIVING,Akeem,Hunt,TD,0
+1341032,10/18/2014,FBS,Purdue,Minnesota,RECEIVING,Akeem,Hunt,LONG,9
+1341033,10/18/2014,FBS,Purdue,Minnesota,RECEIVING,Justin,Sinz,REC,2
+1341034,10/18/2014,FBS,Purdue,Minnesota,RECEIVING,Justin,Sinz,YDS,20
+1341035,10/18/2014,FBS,Purdue,Minnesota,RECEIVING,Justin,Sinz,TD,0
+1341036,10/18/2014,FBS,Purdue,Minnesota,RECEIVING,Justin,Sinz,LONG,11
+1341037,10/18/2014,FBS,Purdue,Minnesota,RECEIVING,Raheem,Mostert,REC,2
+1341038,10/18/2014,FBS,Purdue,Minnesota,RECEIVING,Raheem,Mostert,YDS,19
+1341039,10/18/2014,FBS,Purdue,Minnesota,RECEIVING,Raheem,Mostert,TD,0
+1341040,10/18/2014,FBS,Purdue,Minnesota,RECEIVING,Raheem,Mostert,LONG,10
+1341041,10/18/2014,FBS,Purdue,Minnesota,RECEIVING,Gabe,Holmes,REC,1
+1341042,10/18/2014,FBS,Purdue,Minnesota,RECEIVING,Gabe,Holmes,YDS,13
+1341043,10/18/2014,FBS,Purdue,Minnesota,RECEIVING,Gabe,Holmes,TD,1
+1341044,10/18/2014,FBS,Purdue,Minnesota,RECEIVING,Gabe,Holmes,LONG,13
+1341045,10/18/2014,FBS,Purdue,Minnesota,RECEIVING,DeAngelo,Yancey,REC,1
+1341046,10/18/2014,FBS,Purdue,Minnesota,RECEIVING,DeAngelo,Yancey,YDS,8
+1341047,10/18/2014,FBS,Purdue,Minnesota,RECEIVING,DeAngelo,Yancey,TD,1
+1341048,10/18/2014,FBS,Purdue,Minnesota,RECEIVING,DeAngelo,Yancey,LONG,8
+1341049,10/18/2014,FBS,Purdue,Minnesota,RECEIVING,Jordan,Jurasevich,REC,1
+1341050,10/18/2014,FBS,Purdue,Minnesota,RECEIVING,Jordan,Jurasevich,YDS,2
+1341051,10/18/2014,FBS,Purdue,Minnesota,RECEIVING,Jordan,Jurasevich,TD,0
+1341052,10/18/2014,FBS,Purdue,Minnesota,RECEIVING,Jordan,Jurasevich,LONG,2
+1341053,10/18/2014,FBS,Purdue,Minnesota,KICKING,Paul,Griggs,FG-FGA,1/1
+1341054,10/18/2014,FBS,Purdue,Minnesota,KICKING,Paul,Griggs,LONG,26
+1341055,10/18/2014,FBS,Purdue,Minnesota,KICKING,Paul,Griggs,XP,5
+1341056,10/18/2014,FBS,Purdue,Minnesota,KICKING,Paul,Griggs,PTS,8
+1341057,10/18/2014,FBS,Purdue,Minnesota,PUNTING,Thomas,Meadows,NO,3
+1341058,10/18/2014,FBS,Purdue,Minnesota,PUNTING,Thomas,Meadows,YDS,126
+1341059,10/18/2014,FBS,Purdue,Minnesota,PUNTING,Thomas,Meadows,AVG,42.0
+1341060,10/18/2014,FBS,Purdue,Minnesota,PUNTING,Thomas,Meadows,LONG,47
+1341061,10/18/2014,FBS,Purdue,Minnesota,PUNT RETURNS,Raheem,Mostert,NO,1
+1341062,10/18/2014,FBS,Purdue,Minnesota,PUNT RETURNS,Raheem,Mostert,YDS,4
+1341063,10/18/2014,FBS,Purdue,Minnesota,PUNT RETURNS,Raheem,Mostert,AVG,4.0
+1341064,10/18/2014,FBS,Purdue,Minnesota,PUNT RETURNS,Raheem,Mostert,LONG,4
+1341065,10/18/2014,FBS,Purdue,Minnesota,KICK RETURNS,Raheem,Mostert,NO,6
+1341066,10/18/2014,FBS,Purdue,Minnesota,KICK RETURNS,Raheem,Mostert,YDS,136
+1341067,10/18/2014,FBS,Purdue,Minnesota,KICK RETURNS,Raheem,Mostert,AVG,22.7
+1341068,10/18/2014,FBS,Purdue,Minnesota,KICK RETURNS,Raheem,Mostert,LONG,37
+1341069,10/18/2014,FBS,Minnesota,Purdue,RUSHING,David,Cobb,ATT,35
+1341070,10/18/2014,FBS,Minnesota,Purdue,RUSHING,David,Cobb,YDS,194
+1341071,10/18/2014,FBS,Minnesota,Purdue,RUSHING,David,Cobb,TD,1
+1341072,10/18/2014,FBS,Minnesota,Purdue,RUSHING,David,Cobb,LONG,19
+1341073,10/18/2014,FBS,Minnesota,Purdue,RUSHING,Mitch,Leidner,ATT,13
+1341074,10/18/2014,FBS,Minnesota,Purdue,RUSHING,Mitch,Leidner,YDS,84
+1341075,10/18/2014,FBS,Minnesota,Purdue,RUSHING,Mitch,Leidner,TD,1
+1341076,10/18/2014,FBS,Minnesota,Purdue,RUSHING,Mitch,Leidner,LONG,19
+1341077,10/18/2014,FBS,Minnesota,Purdue,RUSHING,Donnell,Kirkwood,ATT,3
+1341078,10/18/2014,FBS,Minnesota,Purdue,RUSHING,Donnell,Kirkwood,YDS,8
+1341079,10/18/2014,FBS,Minnesota,Purdue,RUSHING,Donnell,Kirkwood,TD,1
+1341080,10/18/2014,FBS,Minnesota,Purdue,RUSHING,Donnell,Kirkwood,LONG,5
+1341081,10/18/2014,FBS,Minnesota,Purdue,RUSHING,,Team,ATT,1
+1341082,10/18/2014,FBS,Minnesota,Purdue,RUSHING,,Team,YDS,-1
+1341083,10/18/2014,FBS,Minnesota,Purdue,RUSHING,,Team,TD,0
+1341084,10/18/2014,FBS,Minnesota,Purdue,RUSHING,,Team,LONG,-1
+1341085,10/18/2014,FBS,Minnesota,Purdue,PASSING,Mitch,Leidner,CP-ATT-INT,9-18-0
+1341086,10/18/2014,FBS,Minnesota,Purdue,PASSING,Mitch,Leidner,YDS,165
+1341087,10/18/2014,FBS,Minnesota,Purdue,PASSING,Mitch,Leidner,TD,2
+1341088,10/18/2014,FBS,Minnesota,Purdue,PASSING,Mitch,Leidner,LONG,45
+1341089,10/18/2014,FBS,Minnesota,Purdue,RECEIVING,Isaac,Fruechte,REC,1
+1341090,10/18/2014,FBS,Minnesota,Purdue,RECEIVING,Isaac,Fruechte,YDS,45
+1341091,10/18/2014,FBS,Minnesota,Purdue,RECEIVING,Isaac,Fruechte,TD,0
+1341092,10/18/2014,FBS,Minnesota,Purdue,RECEIVING,Isaac,Fruechte,LONG,45
+1341093,10/18/2014,FBS,Minnesota,Purdue,RECEIVING,Donovahn,Jones,REC,1
+1341094,10/18/2014,FBS,Minnesota,Purdue,RECEIVING,Donovahn,Jones,YDS,42
+1341095,10/18/2014,FBS,Minnesota,Purdue,RECEIVING,Donovahn,Jones,TD,0
+1341096,10/18/2014,FBS,Minnesota,Purdue,RECEIVING,Donovahn,Jones,LONG,42
+1341097,10/18/2014,FBS,Minnesota,Purdue,RECEIVING,KJ,Maye,REC,1
+1341098,10/18/2014,FBS,Minnesota,Purdue,RECEIVING,KJ,Maye,YDS,37
+1341099,10/18/2014,FBS,Minnesota,Purdue,RECEIVING,KJ,Maye,TD,1
+1341100,10/18/2014,FBS,Minnesota,Purdue,RECEIVING,KJ,Maye,LONG,37
+1341101,10/18/2014,FBS,Minnesota,Purdue,RECEIVING,Maxx,Williams,REC,3
+1341102,10/18/2014,FBS,Minnesota,Purdue,RECEIVING,Maxx,Williams,YDS,22
+1341103,10/18/2014,FBS,Minnesota,Purdue,RECEIVING,Maxx,Williams,TD,1
+1341104,10/18/2014,FBS,Minnesota,Purdue,RECEIVING,Maxx,Williams,LONG,11
+1341105,10/18/2014,FBS,Minnesota,Purdue,RECEIVING,Drew,Wolitarsky,REC,2
+1341106,10/18/2014,FBS,Minnesota,Purdue,RECEIVING,Drew,Wolitarsky,YDS,19
+1341107,10/18/2014,FBS,Minnesota,Purdue,RECEIVING,Drew,Wolitarsky,TD,0
+1341108,10/18/2014,FBS,Minnesota,Purdue,RECEIVING,Drew,Wolitarsky,LONG,12
+1341109,10/18/2014,FBS,Minnesota,Purdue,RECEIVING,David,Cobb,REC,1
+1341110,10/18/2014,FBS,Minnesota,Purdue,RECEIVING,David,Cobb,YDS,0
+1341111,10/18/2014,FBS,Minnesota,Purdue,RECEIVING,David,Cobb,TD,0
+1341112,10/18/2014,FBS,Minnesota,Purdue,RECEIVING,David,Cobb,LONG,0
+1341113,10/18/2014,FBS,Minnesota,Purdue,KICKING,Ryan,Santoso,FG-FGA,2/2
+1341114,10/18/2014,FBS,Minnesota,Purdue,KICKING,Ryan,Santoso,LONG,52
+1341115,10/18/2014,FBS,Minnesota,Purdue,KICKING,Ryan,Santoso,XP,3
+1341116,10/18/2014,FBS,Minnesota,Purdue,KICKING,Ryan,Santoso,PTS,9
+1341117,10/18/2014,FBS,Minnesota,Purdue,PUNTING,Peter,Mortell,NO,4
+1341118,10/18/2014,FBS,Minnesota,Purdue,PUNTING,Peter,Mortell,YDS,188
+1341119,10/18/2014,FBS,Minnesota,Purdue,PUNTING,Peter,Mortell,AVG,47.0
+1341120,10/18/2014,FBS,Minnesota,Purdue,PUNTING,Peter,Mortell,LONG,55
+1341121,10/18/2014,FBS,Minnesota,Purdue,PUNT RETURNS,Craig,James,NO,1
+1341122,10/18/2014,FBS,Minnesota,Purdue,PUNT RETURNS,Craig,James,YDS,19
+1341123,10/18/2014,FBS,Minnesota,Purdue,PUNT RETURNS,Craig,James,AVG,19.0
+1341124,10/18/2014,FBS,Minnesota,Purdue,PUNT RETURNS,Craig,James,LONG,19
+1341125,10/18/2014,FBS,Minnesota,Purdue,KICK RETURNS,Jalen,Myrick,NO,6
+1341126,10/18/2014,FBS,Minnesota,Purdue,KICK RETURNS,Jalen,Myrick,YDS,116
+1341127,10/18/2014,FBS,Minnesota,Purdue,KICK RETURNS,Jalen,Myrick,AVG,19.3
+1341128,10/18/2014,FBS,Minnesota,Purdue,KICK RETURNS,Jalen,Myrick,LONG,27
+1341129,10/18/2014,FBS,Minnesota,Purdue,KICK RETURNS,Nate,Wozniak,NO,1
+1341130,10/18/2014,FBS,Minnesota,Purdue,KICK RETURNS,Nate,Wozniak,YDS,0
+1341131,10/18/2014,FBS,Minnesota,Purdue,KICK RETURNS,Nate,Wozniak,AVG,-
+1341132,10/18/2014,FBS,Minnesota,Purdue,KICK RETURNS,Nate,Wozniak,LONG,0

@@ -1,0 +1,149 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1354001,10/18/2014,FBS,Georgia,Arkansas,RUSHING,Nick,Chubb,ATT,30
+1354002,10/18/2014,FBS,Georgia,Arkansas,RUSHING,Nick,Chubb,YDS,202
+1354003,10/18/2014,FBS,Georgia,Arkansas,RUSHING,Nick,Chubb,TD,2
+1354004,10/18/2014,FBS,Georgia,Arkansas,RUSHING,Nick,Chubb,LONG,43
+1354005,10/18/2014,FBS,Georgia,Arkansas,RUSHING,Brendan,Douglas,ATT,3
+1354006,10/18/2014,FBS,Georgia,Arkansas,RUSHING,Brendan,Douglas,YDS,10
+1354007,10/18/2014,FBS,Georgia,Arkansas,RUSHING,Brendan,Douglas,TD,0
+1354008,10/18/2014,FBS,Georgia,Arkansas,RUSHING,Brendan,Douglas,LONG,7
+1354009,10/18/2014,FBS,Georgia,Arkansas,RUSHING,,Team,ATT,2
+1354010,10/18/2014,FBS,Georgia,Arkansas,RUSHING,,Team,YDS,-2
+1354011,10/18/2014,FBS,Georgia,Arkansas,RUSHING,,Team,TD,0
+1354012,10/18/2014,FBS,Georgia,Arkansas,RUSHING,,Team,LONG,-1
+1354013,10/18/2014,FBS,Georgia,Arkansas,RUSHING,Hutson,Mason,ATT,4
+1354014,10/18/2014,FBS,Georgia,Arkansas,RUSHING,Hutson,Mason,YDS,-3
+1354015,10/18/2014,FBS,Georgia,Arkansas,RUSHING,Hutson,Mason,TD,1
+1354016,10/18/2014,FBS,Georgia,Arkansas,RUSHING,Hutson,Mason,LONG,1
+1354017,10/18/2014,FBS,Georgia,Arkansas,PASSING,Hutson,Mason,CP-ATT-INT,10-17-0
+1354018,10/18/2014,FBS,Georgia,Arkansas,PASSING,Hutson,Mason,YDS,179
+1354019,10/18/2014,FBS,Georgia,Arkansas,PASSING,Hutson,Mason,TD,2
+1354020,10/18/2014,FBS,Georgia,Arkansas,PASSING,Hutson,Mason,LONG,48
+1354021,10/18/2014,FBS,Georgia,Arkansas,RECEIVING,Chris,Conley,REC,5
+1354022,10/18/2014,FBS,Georgia,Arkansas,RECEIVING,Chris,Conley,YDS,128
+1354023,10/18/2014,FBS,Georgia,Arkansas,RECEIVING,Chris,Conley,TD,1
+1354024,10/18/2014,FBS,Georgia,Arkansas,RECEIVING,Chris,Conley,LONG,48
+1354025,10/18/2014,FBS,Georgia,Arkansas,RECEIVING,Michael,Bennett,REC,3
+1354026,10/18/2014,FBS,Georgia,Arkansas,RECEIVING,Michael,Bennett,YDS,31
+1354027,10/18/2014,FBS,Georgia,Arkansas,RECEIVING,Michael,Bennett,TD,1
+1354028,10/18/2014,FBS,Georgia,Arkansas,RECEIVING,Michael,Bennett,LONG,18
+1354029,10/18/2014,FBS,Georgia,Arkansas,RECEIVING,Malcolm,Mitchell,REC,1
+1354030,10/18/2014,FBS,Georgia,Arkansas,RECEIVING,Malcolm,Mitchell,YDS,12
+1354031,10/18/2014,FBS,Georgia,Arkansas,RECEIVING,Malcolm,Mitchell,TD,0
+1354032,10/18/2014,FBS,Georgia,Arkansas,RECEIVING,Malcolm,Mitchell,LONG,12
+1354033,10/18/2014,FBS,Georgia,Arkansas,RECEIVING,Nick,Chubb,REC,1
+1354034,10/18/2014,FBS,Georgia,Arkansas,RECEIVING,Nick,Chubb,YDS,8
+1354035,10/18/2014,FBS,Georgia,Arkansas,RECEIVING,Nick,Chubb,TD,0
+1354036,10/18/2014,FBS,Georgia,Arkansas,RECEIVING,Nick,Chubb,LONG,8
+1354037,10/18/2014,FBS,Georgia,Arkansas,KICKING,Marshall,Morgan,FG-FGA,1/1
+1354038,10/18/2014,FBS,Georgia,Arkansas,KICKING,Marshall,Morgan,LONG,37
+1354039,10/18/2014,FBS,Georgia,Arkansas,KICKING,Marshall,Morgan,XP,6
+1354040,10/18/2014,FBS,Georgia,Arkansas,KICKING,Marshall,Morgan,PTS,9
+1354041,10/18/2014,FBS,Georgia,Arkansas,PUNTING,Collin,Barber,NO,2
+1354042,10/18/2014,FBS,Georgia,Arkansas,PUNTING,Collin,Barber,YDS,71
+1354043,10/18/2014,FBS,Georgia,Arkansas,PUNTING,Collin,Barber,AVG,35.5
+1354044,10/18/2014,FBS,Georgia,Arkansas,PUNTING,Collin,Barber,LONG,41
+1354045,10/18/2014,FBS,Georgia,Arkansas,PUNTING,Adam,Erickson,NO,1
+1354046,10/18/2014,FBS,Georgia,Arkansas,PUNTING,Adam,Erickson,YDS,34
+1354047,10/18/2014,FBS,Georgia,Arkansas,PUNTING,Adam,Erickson,AVG,34.0
+1354048,10/18/2014,FBS,Georgia,Arkansas,PUNTING,Adam,Erickson,LONG,34
+1354049,10/18/2014,FBS,Georgia,Arkansas,PUNT RETURNS,Reggie,Davis,NO,0
+1354050,10/18/2014,FBS,Georgia,Arkansas,PUNT RETURNS,Reggie,Davis,YDS,0
+1354051,10/18/2014,FBS,Georgia,Arkansas,PUNT RETURNS,Reggie,Davis,AVG,-
+1354052,10/18/2014,FBS,Georgia,Arkansas,PUNT RETURNS,Reggie,Davis,LONG,0
+1354053,10/18/2014,FBS,Georgia,Arkansas,PUNT RETURNS,Isaiah,McKenzie,NO,0
+1354054,10/18/2014,FBS,Georgia,Arkansas,PUNT RETURNS,Isaiah,McKenzie,YDS,0
+1354055,10/18/2014,FBS,Georgia,Arkansas,PUNT RETURNS,Isaiah,McKenzie,AVG,-
+1354056,10/18/2014,FBS,Georgia,Arkansas,PUNT RETURNS,Isaiah,McKenzie,LONG,0
+1354057,10/18/2014,FBS,Georgia,Arkansas,KICK RETURNS,Isaiah,McKenzie,NO,3
+1354058,10/18/2014,FBS,Georgia,Arkansas,KICK RETURNS,Isaiah,McKenzie,YDS,93
+1354059,10/18/2014,FBS,Georgia,Arkansas,KICK RETURNS,Isaiah,McKenzie,AVG,31.0
+1354060,10/18/2014,FBS,Georgia,Arkansas,KICK RETURNS,Isaiah,McKenzie,LONG,48
+1354061,10/18/2014,FBS,Georgia,Arkansas,KICK RETURNS,Quayvon,Hicks,NO,1
+1354062,10/18/2014,FBS,Georgia,Arkansas,KICK RETURNS,Quayvon,Hicks,YDS,0
+1354063,10/18/2014,FBS,Georgia,Arkansas,KICK RETURNS,Quayvon,Hicks,AVG,-
+1354064,10/18/2014,FBS,Georgia,Arkansas,KICK RETURNS,Quayvon,Hicks,LONG,0
+1354065,10/18/2014,FBS,Arkansas,Georgia,RUSHING,Jonathan,Williams,ATT,18
+1354066,10/18/2014,FBS,Arkansas,Georgia,RUSHING,Jonathan,Williams,YDS,108
+1354067,10/18/2014,FBS,Arkansas,Georgia,RUSHING,Jonathan,Williams,TD,0
+1354068,10/18/2014,FBS,Arkansas,Georgia,RUSHING,Jonathan,Williams,LONG,24
+1354069,10/18/2014,FBS,Arkansas,Georgia,RUSHING,Alex,Collins,ATT,11
+1354070,10/18/2014,FBS,Arkansas,Georgia,RUSHING,Alex,Collins,YDS,31
+1354071,10/18/2014,FBS,Arkansas,Georgia,RUSHING,Alex,Collins,TD,2
+1354072,10/18/2014,FBS,Arkansas,Georgia,RUSHING,Alex,Collins,LONG,6
+1354073,10/18/2014,FBS,Arkansas,Georgia,RUSHING,Kody,Walker,ATT,3
+1354074,10/18/2014,FBS,Arkansas,Georgia,RUSHING,Kody,Walker,YDS,15
+1354075,10/18/2014,FBS,Arkansas,Georgia,RUSHING,Kody,Walker,TD,0
+1354076,10/18/2014,FBS,Arkansas,Georgia,RUSHING,Kody,Walker,LONG,6
+1354077,10/18/2014,FBS,Arkansas,Georgia,RUSHING,Hunter,Henry,ATT,0
+1354078,10/18/2014,FBS,Arkansas,Georgia,RUSHING,Hunter,Henry,YDS,0
+1354079,10/18/2014,FBS,Arkansas,Georgia,RUSHING,Hunter,Henry,TD,0
+1354080,10/18/2014,FBS,Arkansas,Georgia,RUSHING,Hunter,Henry,LONG,0
+1354081,10/18/2014,FBS,Arkansas,Georgia,RUSHING,Brandon,Allen,ATT,5
+1354082,10/18/2014,FBS,Arkansas,Georgia,RUSHING,Brandon,Allen,YDS,-28
+1354083,10/18/2014,FBS,Arkansas,Georgia,RUSHING,Brandon,Allen,TD,0
+1354084,10/18/2014,FBS,Arkansas,Georgia,RUSHING,Brandon,Allen,LONG,4
+1354085,10/18/2014,FBS,Arkansas,Georgia,PASSING,Brandon,Allen,CP-ATT-INT,28-45-2
+1354086,10/18/2014,FBS,Arkansas,Georgia,PASSING,Brandon,Allen,YDS,296
+1354087,10/18/2014,FBS,Arkansas,Georgia,PASSING,Brandon,Allen,TD,3
+1354088,10/18/2014,FBS,Arkansas,Georgia,PASSING,Brandon,Allen,LONG,38
+1354089,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,Hunter,Henry,REC,5
+1354090,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,Hunter,Henry,YDS,92
+1354091,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,Hunter,Henry,TD,1
+1354092,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,Hunter,Henry,LONG,38
+1354093,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,AJ,Derby,REC,3
+1354094,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,AJ,Derby,YDS,45
+1354095,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,AJ,Derby,TD,0
+1354096,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,AJ,Derby,LONG,23
+1354097,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,Jared,Cornelius,REC,4
+1354098,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,Jared,Cornelius,YDS,38
+1354099,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,Jared,Cornelius,TD,0
+1354100,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,Jared,Cornelius,LONG,14
+1354101,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,Keon,Hatcher,REC,5
+1354102,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,Keon,Hatcher,YDS,36
+1354103,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,Keon,Hatcher,TD,1
+1354104,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,Keon,Hatcher,LONG,10
+1354105,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,Demetrius,Wilson,REC,3
+1354106,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,Demetrius,Wilson,YDS,29
+1354107,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,Demetrius,Wilson,TD,0
+1354108,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,Demetrius,Wilson,LONG,16
+1354109,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,Cody,Hollister,REC,2
+1354110,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,Cody,Hollister,YDS,21
+1354111,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,Cody,Hollister,TD,0
+1354112,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,Cody,Hollister,LONG,17
+1354113,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,Drew,Morgan,REC,1
+1354114,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,Drew,Morgan,YDS,18
+1354115,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,Drew,Morgan,TD,0
+1354116,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,Drew,Morgan,LONG,18
+1354117,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,Jonathan,Williams,REC,3
+1354118,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,Jonathan,Williams,YDS,12
+1354119,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,Jonathan,Williams,TD,0
+1354120,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,Jonathan,Williams,LONG,6
+1354121,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,Kendrick,Edwards,REC,1
+1354122,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,Kendrick,Edwards,YDS,4
+1354123,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,Kendrick,Edwards,TD,1
+1354124,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,Kendrick,Edwards,LONG,4
+1354125,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,Alex,Collins,REC,1
+1354126,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,Alex,Collins,YDS,1
+1354127,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,Alex,Collins,TD,0
+1354128,10/18/2014,FBS,Arkansas,Georgia,RECEIVING,Alex,Collins,LONG,1
+1354129,10/18/2014,FBS,Arkansas,Georgia,KICKING,Adam,McFain,FG-FGA,0/0
+1354130,10/18/2014,FBS,Arkansas,Georgia,KICKING,Adam,McFain,LONG,-
+1354131,10/18/2014,FBS,Arkansas,Georgia,KICKING,Adam,McFain,XP,2
+1354132,10/18/2014,FBS,Arkansas,Georgia,KICKING,Adam,McFain,PTS,2
+1354133,10/18/2014,FBS,Arkansas,Georgia,KICKING,John,Henson,FG-FGA,0/0
+1354134,10/18/2014,FBS,Arkansas,Georgia,KICKING,John,Henson,LONG,-
+1354135,10/18/2014,FBS,Arkansas,Georgia,KICKING,John,Henson,XP,0
+1354136,10/18/2014,FBS,Arkansas,Georgia,KICKING,John,Henson,PTS,0
+1354137,10/18/2014,FBS,Arkansas,Georgia,PUNTING,Sam,Irwin-Hill,NO,3
+1354138,10/18/2014,FBS,Arkansas,Georgia,PUNTING,Sam,Irwin-Hill,YDS,99
+1354139,10/18/2014,FBS,Arkansas,Georgia,PUNTING,Sam,Irwin-Hill,AVG,33.0
+1354140,10/18/2014,FBS,Arkansas,Georgia,PUNTING,Sam,Irwin-Hill,LONG,37
+1354141,10/18/2014,FBS,Arkansas,Georgia,PUNT RETURNS,D.J.,Dean,NO,0
+1354142,10/18/2014,FBS,Arkansas,Georgia,PUNT RETURNS,D.J.,Dean,YDS,0
+1354143,10/18/2014,FBS,Arkansas,Georgia,PUNT RETURNS,D.J.,Dean,AVG,-
+1354144,10/18/2014,FBS,Arkansas,Georgia,PUNT RETURNS,D.J.,Dean,LONG,0
+1354145,10/18/2014,FBS,Arkansas,Georgia,KICK RETURNS,Eric,Hawkins,NO,3
+1354146,10/18/2014,FBS,Arkansas,Georgia,KICK RETURNS,Eric,Hawkins,YDS,65
+1354147,10/18/2014,FBS,Arkansas,Georgia,KICK RETURNS,Eric,Hawkins,AVG,21.7
+1354148,10/18/2014,FBS,Arkansas,Georgia,KICK RETURNS,Eric,Hawkins,LONG,27

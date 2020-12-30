@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1000001,9/6/2014,FBS,Michigan State,Oregon,RUSHING,Jeremy,Langford,ATT,24
+1000002,9/6/2014,FBS,Michigan State,Oregon,RUSHING,Jeremy,Langford,YDS,86
+1000003,9/6/2014,FBS,Michigan State,Oregon,RUSHING,Jeremy,Langford,TD,1
+1000004,9/6/2014,FBS,Michigan State,Oregon,RUSHING,Jeremy,Langford,LONG,16
+1000005,9/6/2014,FBS,Michigan State,Oregon,RUSHING,R.J.,Shelton,ATT,1
+1000006,9/6/2014,FBS,Michigan State,Oregon,RUSHING,R.J.,Shelton,YDS,30
+1000007,9/6/2014,FBS,Michigan State,Oregon,RUSHING,R.J.,Shelton,TD,0
+1000008,9/6/2014,FBS,Michigan State,Oregon,RUSHING,R.J.,Shelton,LONG,30
+1000009,9/6/2014,FBS,Michigan State,Oregon,RUSHING,Nick,Hill,ATT,7
+1000010,9/6/2014,FBS,Michigan State,Oregon,RUSHING,Nick,Hill,YDS,14
+1000011,9/6/2014,FBS,Michigan State,Oregon,RUSHING,Nick,Hill,TD,0
+1000012,9/6/2014,FBS,Michigan State,Oregon,RUSHING,Nick,Hill,LONG,8
+1000013,9/6/2014,FBS,Michigan State,Oregon,RUSHING,Connor,Cook,ATT,4
+1000014,9/6/2014,FBS,Michigan State,Oregon,RUSHING,Connor,Cook,YDS,-7
+1000015,9/6/2014,FBS,Michigan State,Oregon,RUSHING,Connor,Cook,TD,0
+1000016,9/6/2014,FBS,Michigan State,Oregon,RUSHING,Connor,Cook,LONG,4
+1000017,9/6/2014,FBS,Michigan State,Oregon,PASSING,Connor,Cook,CP-ATT-INT,29-47-2
+1000018,9/6/2014,FBS,Michigan State,Oregon,PASSING,Connor,Cook,YDS,343
+1000019,9/6/2014,FBS,Michigan State,Oregon,PASSING,Connor,Cook,TD,2
+1000020,9/6/2014,FBS,Michigan State,Oregon,PASSING,Connor,Cook,LONG,34
+1000021,9/6/2014,FBS,Michigan State,Oregon,RECEIVING,Tony,Lippett,REC,11
+1000022,9/6/2014,FBS,Michigan State,Oregon,RECEIVING,Tony,Lippett,YDS,133
+1000023,9/6/2014,FBS,Michigan State,Oregon,RECEIVING,Tony,Lippett,TD,1
+1000024,9/6/2014,FBS,Michigan State,Oregon,RECEIVING,Tony,Lippett,LONG,34
+1000025,9/6/2014,FBS,Michigan State,Oregon,RECEIVING,R.J.,Shelton,REC,4
+1000026,9/6/2014,FBS,Michigan State,Oregon,RECEIVING,R.J.,Shelton,YDS,58
+1000027,9/6/2014,FBS,Michigan State,Oregon,RECEIVING,R.J.,Shelton,TD,0
+1000028,9/6/2014,FBS,Michigan State,Oregon,RECEIVING,R.J.,Shelton,LONG,24
+1000029,9/6/2014,FBS,Michigan State,Oregon,RECEIVING,Josiah,Price,REC,5
+1000030,9/6/2014,FBS,Michigan State,Oregon,RECEIVING,Josiah,Price,YDS,51
+1000031,9/6/2014,FBS,Michigan State,Oregon,RECEIVING,Josiah,Price,TD,1
+1000032,9/6/2014,FBS,Michigan State,Oregon,RECEIVING,Josiah,Price,LONG,17
+1000033,9/6/2014,FBS,Michigan State,Oregon,RECEIVING,Aaron,Burbridge,REC,2
+1000034,9/6/2014,FBS,Michigan State,Oregon,RECEIVING,Aaron,Burbridge,YDS,30
+1000035,9/6/2014,FBS,Michigan State,Oregon,RECEIVING,Aaron,Burbridge,TD,0
+1000036,9/6/2014,FBS,Michigan State,Oregon,RECEIVING,Aaron,Burbridge,LONG,22
+1000037,9/6/2014,FBS,Michigan State,Oregon,RECEIVING,Keith,Mumphery,REC,2
+1000038,9/6/2014,FBS,Michigan State,Oregon,RECEIVING,Keith,Mumphery,YDS,23
+1000039,9/6/2014,FBS,Michigan State,Oregon,RECEIVING,Keith,Mumphery,TD,0
+1000040,9/6/2014,FBS,Michigan State,Oregon,RECEIVING,Keith,Mumphery,LONG,15
+1000041,9/6/2014,FBS,Michigan State,Oregon,RECEIVING,Macgarrett,Kings,REC,2
+1000042,9/6/2014,FBS,Michigan State,Oregon,RECEIVING,Macgarrett,Kings,YDS,20
+1000043,9/6/2014,FBS,Michigan State,Oregon,RECEIVING,Macgarrett,Kings,TD,0
+1000044,9/6/2014,FBS,Michigan State,Oregon,RECEIVING,Macgarrett,Kings,LONG,17
+1000045,9/6/2014,FBS,Michigan State,Oregon,RECEIVING,AJ,Troup,REC,1
+1000046,9/6/2014,FBS,Michigan State,Oregon,RECEIVING,AJ,Troup,YDS,19
+1000047,9/6/2014,FBS,Michigan State,Oregon,RECEIVING,AJ,Troup,TD,0
+1000048,9/6/2014,FBS,Michigan State,Oregon,RECEIVING,AJ,Troup,LONG,19
+1000049,9/6/2014,FBS,Michigan State,Oregon,RECEIVING,Delton,Williams,REC,1
+1000050,9/6/2014,FBS,Michigan State,Oregon,RECEIVING,Delton,Williams,YDS,10
+1000051,9/6/2014,FBS,Michigan State,Oregon,RECEIVING,Delton,Williams,TD,0
+1000052,9/6/2014,FBS,Michigan State,Oregon,RECEIVING,Delton,Williams,LONG,10
+1000053,9/6/2014,FBS,Michigan State,Oregon,RECEIVING,Jeremy,Langford,REC,1
+1000054,9/6/2014,FBS,Michigan State,Oregon,RECEIVING,Jeremy,Langford,YDS,-1
+1000055,9/6/2014,FBS,Michigan State,Oregon,RECEIVING,Jeremy,Langford,TD,0
+1000056,9/6/2014,FBS,Michigan State,Oregon,RECEIVING,Jeremy,Langford,LONG,0
+1000057,9/6/2014,FBS,Michigan State,Oregon,KICKING,Michael,Geiger,FG-FGA,2/2
+1000058,9/6/2014,FBS,Michigan State,Oregon,KICKING,Michael,Geiger,LONG,42
+1000059,9/6/2014,FBS,Michigan State,Oregon,KICKING,Michael,Geiger,XP,3
+1000060,9/6/2014,FBS,Michigan State,Oregon,KICKING,Michael,Geiger,PTS,9
+1000061,9/6/2014,FBS,Michigan State,Oregon,PUNTING,Mike,Sadler,NO,6
+1000062,9/6/2014,FBS,Michigan State,Oregon,PUNTING,Mike,Sadler,YDS,256
+1000063,9/6/2014,FBS,Michigan State,Oregon,PUNTING,Mike,Sadler,AVG,42.7
+1000064,9/6/2014,FBS,Michigan State,Oregon,PUNTING,Mike,Sadler,LONG,49
+1000065,9/6/2014,FBS,Michigan State,Oregon,PUNT RETURNS,Macgarrett,Kings,NO,3
+1000066,9/6/2014,FBS,Michigan State,Oregon,PUNT RETURNS,Macgarrett,Kings,YDS,4
+1000067,9/6/2014,FBS,Michigan State,Oregon,PUNT RETURNS,Macgarrett,Kings,AVG,1.3
+1000068,9/6/2014,FBS,Michigan State,Oregon,PUNT RETURNS,Macgarrett,Kings,LONG,3
+1000069,9/6/2014,FBS,Michigan State,Oregon,KICK RETURNS,R.J.,Shelton,NO,5
+1000070,9/6/2014,FBS,Michigan State,Oregon,KICK RETURNS,R.J.,Shelton,YDS,121
+1000071,9/6/2014,FBS,Michigan State,Oregon,KICK RETURNS,R.J.,Shelton,AVG,24.2
+1000072,9/6/2014,FBS,Michigan State,Oregon,KICK RETURNS,R.J.,Shelton,LONG,59
+1000073,9/6/2014,FBS,Oregon,Michigan State,RUSHING,Royce,Freeman,ATT,13
+1000074,9/6/2014,FBS,Oregon,Michigan State,RUSHING,Royce,Freeman,YDS,89
+1000075,9/6/2014,FBS,Oregon,Michigan State,RUSHING,Royce,Freeman,TD,2
+1000076,9/6/2014,FBS,Oregon,Michigan State,RUSHING,Royce,Freeman,LONG,38
+1000077,9/6/2014,FBS,Oregon,Michigan State,RUSHING,Marcus,Mariota,ATT,9
+1000078,9/6/2014,FBS,Oregon,Michigan State,RUSHING,Marcus,Mariota,YDS,42
+1000079,9/6/2014,FBS,Oregon,Michigan State,RUSHING,Marcus,Mariota,TD,0
+1000080,9/6/2014,FBS,Oregon,Michigan State,RUSHING,Marcus,Mariota,LONG,40
+1000081,9/6/2014,FBS,Oregon,Michigan State,RUSHING,Thomas,Tyner,ATT,13
+1000082,9/6/2014,FBS,Oregon,Michigan State,RUSHING,Thomas,Tyner,YDS,33
+1000083,9/6/2014,FBS,Oregon,Michigan State,RUSHING,Thomas,Tyner,TD,1
+1000084,9/6/2014,FBS,Oregon,Michigan State,RUSHING,Thomas,Tyner,LONG,11
+1000085,9/6/2014,FBS,Oregon,Michigan State,RUSHING,Byron,Marshall,ATT,5
+1000086,9/6/2014,FBS,Oregon,Michigan State,RUSHING,Byron,Marshall,YDS,9
+1000087,9/6/2014,FBS,Oregon,Michigan State,RUSHING,Byron,Marshall,TD,0
+1000088,9/6/2014,FBS,Oregon,Michigan State,RUSHING,Byron,Marshall,LONG,3
+1000089,9/6/2014,FBS,Oregon,Michigan State,PASSING,Marcus,Mariota,CP-ATT-INT,17-28-0
+1000090,9/6/2014,FBS,Oregon,Michigan State,PASSING,Marcus,Mariota,YDS,318
+1000091,9/6/2014,FBS,Oregon,Michigan State,PASSING,Marcus,Mariota,TD,3
+1000092,9/6/2014,FBS,Oregon,Michigan State,PASSING,Marcus,Mariota,LONG,70
+1000093,9/6/2014,FBS,Oregon,Michigan State,RECEIVING,Devon,Allen,REC,3
+1000094,9/6/2014,FBS,Oregon,Michigan State,RECEIVING,Devon,Allen,YDS,110
+1000095,9/6/2014,FBS,Oregon,Michigan State,RECEIVING,Devon,Allen,TD,2
+1000096,9/6/2014,FBS,Oregon,Michigan State,RECEIVING,Devon,Allen,LONG,70
+1000097,9/6/2014,FBS,Oregon,Michigan State,RECEIVING,Darren,Carrington,REC,2
+1000098,9/6/2014,FBS,Oregon,Michigan State,RECEIVING,Darren,Carrington,YDS,66
+1000099,9/6/2014,FBS,Oregon,Michigan State,RECEIVING,Darren,Carrington,TD,0
+1000100,9/6/2014,FBS,Oregon,Michigan State,RECEIVING,Darren,Carrington,LONG,64
+1000101,9/6/2014,FBS,Oregon,Michigan State,RECEIVING,Keanon,Lowe,REC,3
+1000102,9/6/2014,FBS,Oregon,Michigan State,RECEIVING,Keanon,Lowe,YDS,58
+1000103,9/6/2014,FBS,Oregon,Michigan State,RECEIVING,Keanon,Lowe,TD,1
+1000104,9/6/2014,FBS,Oregon,Michigan State,RECEIVING,Keanon,Lowe,LONG,37
+1000105,9/6/2014,FBS,Oregon,Michigan State,RECEIVING,Byron,Marshall,REC,3
+1000106,9/6/2014,FBS,Oregon,Michigan State,RECEIVING,Byron,Marshall,YDS,36
+1000107,9/6/2014,FBS,Oregon,Michigan State,RECEIVING,Byron,Marshall,TD,0
+1000108,9/6/2014,FBS,Oregon,Michigan State,RECEIVING,Byron,Marshall,LONG,22
+1000109,9/6/2014,FBS,Oregon,Michigan State,RECEIVING,Royce,Freeman,REC,2
+1000110,9/6/2014,FBS,Oregon,Michigan State,RECEIVING,Royce,Freeman,YDS,22
+1000111,9/6/2014,FBS,Oregon,Michigan State,RECEIVING,Royce,Freeman,TD,0
+1000112,9/6/2014,FBS,Oregon,Michigan State,RECEIVING,Royce,Freeman,LONG,17
+1000113,9/6/2014,FBS,Oregon,Michigan State,RECEIVING,Dwayne,Stanford,REC,2
+1000114,9/6/2014,FBS,Oregon,Michigan State,RECEIVING,Dwayne,Stanford,YDS,19
+1000115,9/6/2014,FBS,Oregon,Michigan State,RECEIVING,Dwayne,Stanford,TD,0
+1000116,9/6/2014,FBS,Oregon,Michigan State,RECEIVING,Dwayne,Stanford,LONG,15
+1000117,9/6/2014,FBS,Oregon,Michigan State,RECEIVING,Thomas,Tyner,REC,2
+1000118,9/6/2014,FBS,Oregon,Michigan State,RECEIVING,Thomas,Tyner,YDS,7
+1000119,9/6/2014,FBS,Oregon,Michigan State,RECEIVING,Thomas,Tyner,TD,0
+1000120,9/6/2014,FBS,Oregon,Michigan State,RECEIVING,Thomas,Tyner,LONG,7
+1000121,9/6/2014,FBS,Oregon,Michigan State,KICKING,Matt,Wogan,FG-FGA,1/1
+1000122,9/6/2014,FBS,Oregon,Michigan State,KICKING,Matt,Wogan,LONG,28
+1000123,9/6/2014,FBS,Oregon,Michigan State,KICKING,Matt,Wogan,XP,5
+1000124,9/6/2014,FBS,Oregon,Michigan State,KICKING,Matt,Wogan,PTS,8
+1000125,9/6/2014,FBS,Oregon,Michigan State,PUNTING,Ian,Wheeler,NO,7
+1000126,9/6/2014,FBS,Oregon,Michigan State,PUNTING,Ian,Wheeler,YDS,301
+1000127,9/6/2014,FBS,Oregon,Michigan State,PUNTING,Ian,Wheeler,AVG,43.0
+1000128,9/6/2014,FBS,Oregon,Michigan State,PUNTING,Ian,Wheeler,LONG,53
+1000129,9/6/2014,FBS,Oregon,Michigan State,PUNT RETURNS,Ifo,Ekpre-Olomu,NO,3
+1000130,9/6/2014,FBS,Oregon,Michigan State,PUNT RETURNS,Ifo,Ekpre-Olomu,YDS,40
+1000131,9/6/2014,FBS,Oregon,Michigan State,PUNT RETURNS,Ifo,Ekpre-Olomu,AVG,13.3
+1000132,9/6/2014,FBS,Oregon,Michigan State,PUNT RETURNS,Ifo,Ekpre-Olomu,LONG,30
+1000133,9/6/2014,FBS,Oregon,Michigan State,KICK RETURNS,Devon,Allen,NO,3
+1000134,9/6/2014,FBS,Oregon,Michigan State,KICK RETURNS,Devon,Allen,YDS,69
+1000135,9/6/2014,FBS,Oregon,Michigan State,KICK RETURNS,Devon,Allen,AVG,23.0
+1000136,9/6/2014,FBS,Oregon,Michigan State,KICK RETURNS,Devon,Allen,LONG,26

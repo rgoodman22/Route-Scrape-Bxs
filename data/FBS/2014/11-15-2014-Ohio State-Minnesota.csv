@@ -1,0 +1,121 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1566001,11/15/2014,FBS,Ohio State,Minnesota,RUSHING,J.T.,Barrett,ATT,17
+1566002,11/15/2014,FBS,Ohio State,Minnesota,RUSHING,J.T.,Barrett,YDS,189
+1566003,11/15/2014,FBS,Ohio State,Minnesota,RUSHING,J.T.,Barrett,TD,1
+1566004,11/15/2014,FBS,Ohio State,Minnesota,RUSHING,J.T.,Barrett,LONG,86
+1566005,11/15/2014,FBS,Ohio State,Minnesota,RUSHING,Ezekiel,Elliott,ATT,18
+1566006,11/15/2014,FBS,Ohio State,Minnesota,RUSHING,Ezekiel,Elliott,YDS,91
+1566007,11/15/2014,FBS,Ohio State,Minnesota,RUSHING,Ezekiel,Elliott,TD,0
+1566008,11/15/2014,FBS,Ohio State,Minnesota,RUSHING,Ezekiel,Elliott,LONG,22
+1566009,11/15/2014,FBS,Ohio State,Minnesota,RUSHING,Jalin,Marshall,ATT,1
+1566010,11/15/2014,FBS,Ohio State,Minnesota,RUSHING,Jalin,Marshall,YDS,12
+1566011,11/15/2014,FBS,Ohio State,Minnesota,RUSHING,Jalin,Marshall,TD,0
+1566012,11/15/2014,FBS,Ohio State,Minnesota,RUSHING,Jalin,Marshall,LONG,12
+1566013,11/15/2014,FBS,Ohio State,Minnesota,RUSHING,,Team,ATT,2
+1566014,11/15/2014,FBS,Ohio State,Minnesota,RUSHING,,Team,YDS,-3
+1566015,11/15/2014,FBS,Ohio State,Minnesota,RUSHING,,Team,TD,0
+1566016,11/15/2014,FBS,Ohio State,Minnesota,RUSHING,,Team,LONG,-1
+1566017,11/15/2014,FBS,Ohio State,Minnesota,PASSING,J.T.,Barrett,CP-ATT-INT,15-25-1
+1566018,11/15/2014,FBS,Ohio State,Minnesota,PASSING,J.T.,Barrett,YDS,200
+1566019,11/15/2014,FBS,Ohio State,Minnesota,PASSING,J.T.,Barrett,TD,3
+1566020,11/15/2014,FBS,Ohio State,Minnesota,PASSING,J.T.,Barrett,LONG,57
+1566021,11/15/2014,FBS,Ohio State,Minnesota,RECEIVING,Jalin,Marshall,REC,5
+1566022,11/15/2014,FBS,Ohio State,Minnesota,RECEIVING,Jalin,Marshall,YDS,95
+1566023,11/15/2014,FBS,Ohio State,Minnesota,RECEIVING,Jalin,Marshall,TD,1
+1566024,11/15/2014,FBS,Ohio State,Minnesota,RECEIVING,Jalin,Marshall,LONG,57
+1566025,11/15/2014,FBS,Ohio State,Minnesota,RECEIVING,Michael,Thomas,REC,4
+1566026,11/15/2014,FBS,Ohio State,Minnesota,RECEIVING,Michael,Thomas,YDS,45
+1566027,11/15/2014,FBS,Ohio State,Minnesota,RECEIVING,Michael,Thomas,TD,1
+1566028,11/15/2014,FBS,Ohio State,Minnesota,RECEIVING,Michael,Thomas,LONG,30
+1566029,11/15/2014,FBS,Ohio State,Minnesota,RECEIVING,Evan,Spencer,REC,1
+1566030,11/15/2014,FBS,Ohio State,Minnesota,RECEIVING,Evan,Spencer,YDS,22
+1566031,11/15/2014,FBS,Ohio State,Minnesota,RECEIVING,Evan,Spencer,TD,1
+1566032,11/15/2014,FBS,Ohio State,Minnesota,RECEIVING,Evan,Spencer,LONG,22
+1566033,11/15/2014,FBS,Ohio State,Minnesota,RECEIVING,Nick,Vannett,REC,1
+1566034,11/15/2014,FBS,Ohio State,Minnesota,RECEIVING,Nick,Vannett,YDS,19
+1566035,11/15/2014,FBS,Ohio State,Minnesota,RECEIVING,Nick,Vannett,TD,0
+1566036,11/15/2014,FBS,Ohio State,Minnesota,RECEIVING,Nick,Vannett,LONG,19
+1566037,11/15/2014,FBS,Ohio State,Minnesota,RECEIVING,Ezekiel,Elliott,REC,2
+1566038,11/15/2014,FBS,Ohio State,Minnesota,RECEIVING,Ezekiel,Elliott,YDS,19
+1566039,11/15/2014,FBS,Ohio State,Minnesota,RECEIVING,Ezekiel,Elliott,TD,0
+1566040,11/15/2014,FBS,Ohio State,Minnesota,RECEIVING,Ezekiel,Elliott,LONG,11
+1566041,11/15/2014,FBS,Ohio State,Minnesota,RECEIVING,Corey,Smith,REC,2
+1566042,11/15/2014,FBS,Ohio State,Minnesota,RECEIVING,Corey,Smith,YDS,0
+1566043,11/15/2014,FBS,Ohio State,Minnesota,RECEIVING,Corey,Smith,TD,0
+1566044,11/15/2014,FBS,Ohio State,Minnesota,RECEIVING,Corey,Smith,LONG,2
+1566045,11/15/2014,FBS,Ohio State,Minnesota,KICKING,Sean,Nuernberger,FG-FGA,1/1
+1566046,11/15/2014,FBS,Ohio State,Minnesota,KICKING,Sean,Nuernberger,LONG,22
+1566047,11/15/2014,FBS,Ohio State,Minnesota,KICKING,Sean,Nuernberger,XP,4
+1566048,11/15/2014,FBS,Ohio State,Minnesota,KICKING,Sean,Nuernberger,PTS,7
+1566049,11/15/2014,FBS,Ohio State,Minnesota,PUNTING,Cameron,Johnston,NO,4
+1566050,11/15/2014,FBS,Ohio State,Minnesota,PUNTING,Cameron,Johnston,YDS,147
+1566051,11/15/2014,FBS,Ohio State,Minnesota,PUNTING,Cameron,Johnston,AVG,36.8
+1566052,11/15/2014,FBS,Ohio State,Minnesota,PUNTING,Cameron,Johnston,LONG,46
+1566053,11/15/2014,FBS,Ohio State,Minnesota,PUNT RETURNS,Jalin,Marshall,NO,3
+1566054,11/15/2014,FBS,Ohio State,Minnesota,PUNT RETURNS,Jalin,Marshall,YDS,0
+1566055,11/15/2014,FBS,Ohio State,Minnesota,PUNT RETURNS,Jalin,Marshall,AVG,-
+1566056,11/15/2014,FBS,Ohio State,Minnesota,PUNT RETURNS,Jalin,Marshall,LONG,3
+1566057,11/15/2014,FBS,Ohio State,Minnesota,KICK RETURNS,Curtis,Samuel,NO,3
+1566058,11/15/2014,FBS,Ohio State,Minnesota,KICK RETURNS,Curtis,Samuel,YDS,77
+1566059,11/15/2014,FBS,Ohio State,Minnesota,KICK RETURNS,Curtis,Samuel,AVG,25.7
+1566060,11/15/2014,FBS,Ohio State,Minnesota,KICK RETURNS,Curtis,Samuel,LONG,38
+1566061,11/15/2014,FBS,Minnesota,Ohio State,RUSHING,David,Cobb,ATT,27
+1566062,11/15/2014,FBS,Minnesota,Ohio State,RUSHING,David,Cobb,YDS,145
+1566063,11/15/2014,FBS,Minnesota,Ohio State,RUSHING,David,Cobb,TD,3
+1566064,11/15/2014,FBS,Minnesota,Ohio State,RUSHING,David,Cobb,LONG,30
+1566065,11/15/2014,FBS,Minnesota,Ohio State,RUSHING,Mitch,Leidner,ATT,12
+1566066,11/15/2014,FBS,Minnesota,Ohio State,RUSHING,Mitch,Leidner,YDS,56
+1566067,11/15/2014,FBS,Minnesota,Ohio State,RUSHING,Mitch,Leidner,TD,0
+1566068,11/15/2014,FBS,Minnesota,Ohio State,RUSHING,Mitch,Leidner,LONG,31
+1566069,11/15/2014,FBS,Minnesota,Ohio State,RUSHING,Donnell,Kirkwood,ATT,2
+1566070,11/15/2014,FBS,Minnesota,Ohio State,RUSHING,Donnell,Kirkwood,YDS,13
+1566071,11/15/2014,FBS,Minnesota,Ohio State,RUSHING,Donnell,Kirkwood,TD,0
+1566072,11/15/2014,FBS,Minnesota,Ohio State,RUSHING,Donnell,Kirkwood,LONG,12
+1566073,11/15/2014,FBS,Minnesota,Ohio State,RUSHING,KJ,Maye,ATT,3
+1566074,11/15/2014,FBS,Minnesota,Ohio State,RUSHING,KJ,Maye,YDS,4
+1566075,11/15/2014,FBS,Minnesota,Ohio State,RUSHING,KJ,Maye,TD,0
+1566076,11/15/2014,FBS,Minnesota,Ohio State,RUSHING,KJ,Maye,LONG,8
+1566077,11/15/2014,FBS,Minnesota,Ohio State,PASSING,Mitch,Leidner,CP-ATT-INT,7-19-2
+1566078,11/15/2014,FBS,Minnesota,Ohio State,PASSING,Mitch,Leidner,YDS,85
+1566079,11/15/2014,FBS,Minnesota,Ohio State,PASSING,Mitch,Leidner,TD,0
+1566080,11/15/2014,FBS,Minnesota,Ohio State,PASSING,Mitch,Leidner,LONG,36
+1566081,11/15/2014,FBS,Minnesota,Ohio State,PASSING,KJ,Maye,CP-ATT-INT,0-0-0
+1566082,11/15/2014,FBS,Minnesota,Ohio State,PASSING,KJ,Maye,YDS,0
+1566083,11/15/2014,FBS,Minnesota,Ohio State,PASSING,KJ,Maye,TD,0
+1566084,11/15/2014,FBS,Minnesota,Ohio State,PASSING,KJ,Maye,LONG,0
+1566085,11/15/2014,FBS,Minnesota,Ohio State,PASSING,,Team,CP-ATT-INT,0-1-0
+1566086,11/15/2014,FBS,Minnesota,Ohio State,PASSING,,Team,YDS,0
+1566087,11/15/2014,FBS,Minnesota,Ohio State,PASSING,,Team,TD,0
+1566088,11/15/2014,FBS,Minnesota,Ohio State,PASSING,,Team,LONG,0
+1566089,11/15/2014,FBS,Minnesota,Ohio State,RECEIVING,Maxx,Williams,REC,3
+1566090,11/15/2014,FBS,Minnesota,Ohio State,RECEIVING,Maxx,Williams,YDS,47
+1566091,11/15/2014,FBS,Minnesota,Ohio State,RECEIVING,Maxx,Williams,TD,0
+1566092,11/15/2014,FBS,Minnesota,Ohio State,RECEIVING,Maxx,Williams,LONG,36
+1566093,11/15/2014,FBS,Minnesota,Ohio State,RECEIVING,Isaac,Fruechte,REC,3
+1566094,11/15/2014,FBS,Minnesota,Ohio State,RECEIVING,Isaac,Fruechte,YDS,28
+1566095,11/15/2014,FBS,Minnesota,Ohio State,RECEIVING,Isaac,Fruechte,TD,0
+1566096,11/15/2014,FBS,Minnesota,Ohio State,RECEIVING,Isaac,Fruechte,LONG,15
+1566097,11/15/2014,FBS,Minnesota,Ohio State,RECEIVING,Miles,Thomas,REC,1
+1566098,11/15/2014,FBS,Minnesota,Ohio State,RECEIVING,Miles,Thomas,YDS,10
+1566099,11/15/2014,FBS,Minnesota,Ohio State,RECEIVING,Miles,Thomas,TD,0
+1566100,11/15/2014,FBS,Minnesota,Ohio State,RECEIVING,Miles,Thomas,LONG,10
+1566101,11/15/2014,FBS,Minnesota,Ohio State,KICKING,Ryan,Santoso,FG-FGA,1/2
+1566102,11/15/2014,FBS,Minnesota,Ohio State,KICKING,Ryan,Santoso,LONG,34
+1566103,11/15/2014,FBS,Minnesota,Ohio State,KICKING,Ryan,Santoso,XP,3
+1566104,11/15/2014,FBS,Minnesota,Ohio State,KICKING,Ryan,Santoso,PTS,6
+1566105,11/15/2014,FBS,Minnesota,Ohio State,PUNTING,Peter,Mortell,NO,5
+1566106,11/15/2014,FBS,Minnesota,Ohio State,PUNTING,Peter,Mortell,YDS,259
+1566107,11/15/2014,FBS,Minnesota,Ohio State,PUNTING,Peter,Mortell,AVG,51.8
+1566108,11/15/2014,FBS,Minnesota,Ohio State,PUNTING,Peter,Mortell,LONG,64
+1566109,11/15/2014,FBS,Minnesota,Ohio State,PUNT RETURNS,Craig,James,NO,0
+1566110,11/15/2014,FBS,Minnesota,Ohio State,PUNT RETURNS,Craig,James,YDS,0
+1566111,11/15/2014,FBS,Minnesota,Ohio State,PUNT RETURNS,Craig,James,AVG,-
+1566112,11/15/2014,FBS,Minnesota,Ohio State,PUNT RETURNS,Craig,James,LONG,0
+1566113,11/15/2014,FBS,Minnesota,Ohio State,KICK RETURNS,Jalen,Myrick,NO,4
+1566114,11/15/2014,FBS,Minnesota,Ohio State,KICK RETURNS,Jalen,Myrick,YDS,92
+1566115,11/15/2014,FBS,Minnesota,Ohio State,KICK RETURNS,Jalen,Myrick,AVG,23.0
+1566116,11/15/2014,FBS,Minnesota,Ohio State,KICK RETURNS,Jalen,Myrick,LONG,31
+1566117,11/15/2014,FBS,Minnesota,Ohio State,KICK RETURNS,KJ,Maye,NO,0
+1566118,11/15/2014,FBS,Minnesota,Ohio State,KICK RETURNS,KJ,Maye,YDS,4
+1566119,11/15/2014,FBS,Minnesota,Ohio State,KICK RETURNS,KJ,Maye,AVG,-
+1566120,11/15/2014,FBS,Minnesota,Ohio State,KICK RETURNS,KJ,Maye,LONG,4

@@ -1,0 +1,149 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1579001,11/19/2014,FBS,Bowling Green,Toledo,RUSHING,Ronnie,Moore,ATT,12
+1579002,11/19/2014,FBS,Bowling Green,Toledo,RUSHING,Ronnie,Moore,YDS,64
+1579003,11/19/2014,FBS,Bowling Green,Toledo,RUSHING,Ronnie,Moore,TD,1
+1579004,11/19/2014,FBS,Bowling Green,Toledo,RUSHING,Ronnie,Moore,LONG,31
+1579005,11/19/2014,FBS,Bowling Green,Toledo,RUSHING,Andre,Givens,ATT,19
+1579006,11/19/2014,FBS,Bowling Green,Toledo,RUSHING,Andre,Givens,YDS,55
+1579007,11/19/2014,FBS,Bowling Green,Toledo,RUSHING,Andre,Givens,TD,0
+1579008,11/19/2014,FBS,Bowling Green,Toledo,RUSHING,Andre,Givens,LONG,14
+1579009,11/19/2014,FBS,Bowling Green,Toledo,RUSHING,James,Knapke,ATT,2
+1579010,11/19/2014,FBS,Bowling Green,Toledo,RUSHING,James,Knapke,YDS,0
+1579011,11/19/2014,FBS,Bowling Green,Toledo,RUSHING,James,Knapke,TD,0
+1579012,11/19/2014,FBS,Bowling Green,Toledo,RUSHING,James,Knapke,LONG,3
+1579013,11/19/2014,FBS,Bowling Green,Toledo,RUSHING,Cody,Callaway,ATT,5
+1579014,11/19/2014,FBS,Bowling Green,Toledo,RUSHING,Cody,Callaway,YDS,-15
+1579015,11/19/2014,FBS,Bowling Green,Toledo,RUSHING,Cody,Callaway,TD,0
+1579016,11/19/2014,FBS,Bowling Green,Toledo,RUSHING,Cody,Callaway,LONG,4
+1579017,11/19/2014,FBS,Bowling Green,Toledo,PASSING,Cody,Callaway,CP-ATT-INT,5-13-0
+1579018,11/19/2014,FBS,Bowling Green,Toledo,PASSING,Cody,Callaway,YDS,96
+1579019,11/19/2014,FBS,Bowling Green,Toledo,PASSING,Cody,Callaway,TD,1
+1579020,11/19/2014,FBS,Bowling Green,Toledo,PASSING,Cody,Callaway,LONG,32
+1579021,11/19/2014,FBS,Bowling Green,Toledo,PASSING,James,Knapke,CP-ATT-INT,7-24-0
+1579022,11/19/2014,FBS,Bowling Green,Toledo,PASSING,James,Knapke,YDS,71
+1579023,11/19/2014,FBS,Bowling Green,Toledo,PASSING,James,Knapke,TD,0
+1579024,11/19/2014,FBS,Bowling Green,Toledo,PASSING,James,Knapke,LONG,16
+1579025,11/19/2014,FBS,Bowling Green,Toledo,RECEIVING,Gehrig,Dieter,REC,5
+1579026,11/19/2014,FBS,Bowling Green,Toledo,RECEIVING,Gehrig,Dieter,YDS,68
+1579027,11/19/2014,FBS,Bowling Green,Toledo,RECEIVING,Gehrig,Dieter,TD,0
+1579028,11/19/2014,FBS,Bowling Green,Toledo,RECEIVING,Gehrig,Dieter,LONG,32
+1579029,11/19/2014,FBS,Bowling Green,Toledo,RECEIVING,Ronnie,Moore,REC,3
+1579030,11/19/2014,FBS,Bowling Green,Toledo,RECEIVING,Ronnie,Moore,YDS,46
+1579031,11/19/2014,FBS,Bowling Green,Toledo,RECEIVING,Ronnie,Moore,TD,1
+1579032,11/19/2014,FBS,Bowling Green,Toledo,RECEIVING,Ronnie,Moore,LONG,17
+1579033,11/19/2014,FBS,Bowling Green,Toledo,RECEIVING,Ryan,Burbrink,REC,1
+1579034,11/19/2014,FBS,Bowling Green,Toledo,RECEIVING,Ryan,Burbrink,YDS,30
+1579035,11/19/2014,FBS,Bowling Green,Toledo,RECEIVING,Ryan,Burbrink,TD,0
+1579036,11/19/2014,FBS,Bowling Green,Toledo,RECEIVING,Ryan,Burbrink,LONG,30
+1579037,11/19/2014,FBS,Bowling Green,Toledo,RECEIVING,Roger,Lewis,REC,2
+1579038,11/19/2014,FBS,Bowling Green,Toledo,RECEIVING,Roger,Lewis,YDS,16
+1579039,11/19/2014,FBS,Bowling Green,Toledo,RECEIVING,Roger,Lewis,TD,0
+1579040,11/19/2014,FBS,Bowling Green,Toledo,RECEIVING,Roger,Lewis,LONG,9
+1579041,11/19/2014,FBS,Bowling Green,Toledo,RECEIVING,Andre,Givens,REC,1
+1579042,11/19/2014,FBS,Bowling Green,Toledo,RECEIVING,Andre,Givens,YDS,7
+1579043,11/19/2014,FBS,Bowling Green,Toledo,RECEIVING,Andre,Givens,TD,0
+1579044,11/19/2014,FBS,Bowling Green,Toledo,RECEIVING,Andre,Givens,LONG,7
+1579045,11/19/2014,FBS,Bowling Green,Toledo,KICKING,Tyler,Tate,FG-FGA,2/2
+1579046,11/19/2014,FBS,Bowling Green,Toledo,KICKING,Tyler,Tate,LONG,31
+1579047,11/19/2014,FBS,Bowling Green,Toledo,KICKING,Tyler,Tate,XP,2
+1579048,11/19/2014,FBS,Bowling Green,Toledo,KICKING,Tyler,Tate,PTS,8
+1579049,11/19/2014,FBS,Bowling Green,Toledo,PUNTING,Joe,Davidson,NO,8
+1579050,11/19/2014,FBS,Bowling Green,Toledo,PUNTING,Joe,Davidson,YDS,296
+1579051,11/19/2014,FBS,Bowling Green,Toledo,PUNTING,Joe,Davidson,AVG,37.0
+1579052,11/19/2014,FBS,Bowling Green,Toledo,PUNTING,Joe,Davidson,LONG,44
+1579053,11/19/2014,FBS,Bowling Green,Toledo,PUNT RETURNS,Ryan,Burbrink,NO,0
+1579054,11/19/2014,FBS,Bowling Green,Toledo,PUNT RETURNS,Ryan,Burbrink,YDS,0
+1579055,11/19/2014,FBS,Bowling Green,Toledo,PUNT RETURNS,Ryan,Burbrink,AVG,-
+1579056,11/19/2014,FBS,Bowling Green,Toledo,PUNT RETURNS,Ryan,Burbrink,LONG,0
+1579057,11/19/2014,FBS,Bowling Green,Toledo,KICK RETURNS,Clint,Stephens,NO,4
+1579058,11/19/2014,FBS,Bowling Green,Toledo,KICK RETURNS,Clint,Stephens,YDS,88
+1579059,11/19/2014,FBS,Bowling Green,Toledo,KICK RETURNS,Clint,Stephens,AVG,22.0
+1579060,11/19/2014,FBS,Bowling Green,Toledo,KICK RETURNS,Clint,Stephens,LONG,36
+1579061,11/19/2014,FBS,Toledo,Bowling Green,RUSHING,Kareem,Hunt,ATT,30
+1579062,11/19/2014,FBS,Toledo,Bowling Green,RUSHING,Kareem,Hunt,YDS,265
+1579063,11/19/2014,FBS,Toledo,Bowling Green,RUSHING,Kareem,Hunt,TD,2
+1579064,11/19/2014,FBS,Toledo,Bowling Green,RUSHING,Kareem,Hunt,LONG,91
+1579065,11/19/2014,FBS,Toledo,Bowling Green,RUSHING,Dwight,Macon,ATT,8
+1579066,11/19/2014,FBS,Toledo,Bowling Green,RUSHING,Dwight,Macon,YDS,30
+1579067,11/19/2014,FBS,Toledo,Bowling Green,RUSHING,Dwight,Macon,TD,2
+1579068,11/19/2014,FBS,Toledo,Bowling Green,RUSHING,Dwight,Macon,LONG,17
+1579069,11/19/2014,FBS,Toledo,Bowling Green,RUSHING,Corey,Jones,ATT,3
+1579070,11/19/2014,FBS,Toledo,Bowling Green,RUSHING,Corey,Jones,YDS,22
+1579071,11/19/2014,FBS,Toledo,Bowling Green,RUSHING,Corey,Jones,TD,0
+1579072,11/19/2014,FBS,Toledo,Bowling Green,RUSHING,Corey,Jones,LONG,12
+1579073,11/19/2014,FBS,Toledo,Bowling Green,RUSHING,Terry,Swanson,ATT,6
+1579074,11/19/2014,FBS,Toledo,Bowling Green,RUSHING,Terry,Swanson,YDS,14
+1579075,11/19/2014,FBS,Toledo,Bowling Green,RUSHING,Terry,Swanson,TD,0
+1579076,11/19/2014,FBS,Toledo,Bowling Green,RUSHING,Terry,Swanson,LONG,13
+1579077,11/19/2014,FBS,Toledo,Bowling Green,RUSHING,Kishon,Wilcher,ATT,1
+1579078,11/19/2014,FBS,Toledo,Bowling Green,RUSHING,Kishon,Wilcher,YDS,5
+1579079,11/19/2014,FBS,Toledo,Bowling Green,RUSHING,Kishon,Wilcher,TD,0
+1579080,11/19/2014,FBS,Toledo,Bowling Green,RUSHING,Kishon,Wilcher,LONG,5
+1579081,11/19/2014,FBS,Toledo,Bowling Green,RUSHING,,Team,ATT,1
+1579082,11/19/2014,FBS,Toledo,Bowling Green,RUSHING,,Team,YDS,-1
+1579083,11/19/2014,FBS,Toledo,Bowling Green,RUSHING,,Team,TD,0
+1579084,11/19/2014,FBS,Toledo,Bowling Green,RUSHING,,Team,LONG,-1
+1579085,11/19/2014,FBS,Toledo,Bowling Green,RUSHING,Logan,Woodside,ATT,4
+1579086,11/19/2014,FBS,Toledo,Bowling Green,RUSHING,Logan,Woodside,YDS,-10
+1579087,11/19/2014,FBS,Toledo,Bowling Green,RUSHING,Logan,Woodside,TD,0
+1579088,11/19/2014,FBS,Toledo,Bowling Green,RUSHING,Logan,Woodside,LONG,1
+1579089,11/19/2014,FBS,Toledo,Bowling Green,PASSING,Logan,Woodside,CP-ATT-INT,8-18-2
+1579090,11/19/2014,FBS,Toledo,Bowling Green,PASSING,Logan,Woodside,YDS,53
+1579091,11/19/2014,FBS,Toledo,Bowling Green,PASSING,Logan,Woodside,TD,0
+1579092,11/19/2014,FBS,Toledo,Bowling Green,PASSING,Logan,Woodside,LONG,13
+1579093,11/19/2014,FBS,Toledo,Bowling Green,PASSING,Dwight,Macon,CP-ATT-INT,1-2-0
+1579094,11/19/2014,FBS,Toledo,Bowling Green,PASSING,Dwight,Macon,YDS,10
+1579095,11/19/2014,FBS,Toledo,Bowling Green,PASSING,Dwight,Macon,TD,0
+1579096,11/19/2014,FBS,Toledo,Bowling Green,PASSING,Dwight,Macon,LONG,10
+1579097,11/19/2014,FBS,Toledo,Bowling Green,RECEIVING,Alonzo,Russell,REC,2
+1579098,11/19/2014,FBS,Toledo,Bowling Green,RECEIVING,Alonzo,Russell,YDS,19
+1579099,11/19/2014,FBS,Toledo,Bowling Green,RECEIVING,Alonzo,Russell,TD,0
+1579100,11/19/2014,FBS,Toledo,Bowling Green,RECEIVING,Alonzo,Russell,LONG,13
+1579101,11/19/2014,FBS,Toledo,Bowling Green,RECEIVING,Corey,Jones,REC,2
+1579102,11/19/2014,FBS,Toledo,Bowling Green,RECEIVING,Corey,Jones,YDS,14
+1579103,11/19/2014,FBS,Toledo,Bowling Green,RECEIVING,Corey,Jones,TD,0
+1579104,11/19/2014,FBS,Toledo,Bowling Green,RECEIVING,Corey,Jones,LONG,10
+1579105,11/19/2014,FBS,Toledo,Bowling Green,RECEIVING,Justin,Olack,REC,1
+1579106,11/19/2014,FBS,Toledo,Bowling Green,RECEIVING,Justin,Olack,YDS,9
+1579107,11/19/2014,FBS,Toledo,Bowling Green,RECEIVING,Justin,Olack,TD,0
+1579108,11/19/2014,FBS,Toledo,Bowling Green,RECEIVING,Justin,Olack,LONG,9
+1579109,11/19/2014,FBS,Toledo,Bowling Green,RECEIVING,Kishon,Wilcher,REC,1
+1579110,11/19/2014,FBS,Toledo,Bowling Green,RECEIVING,Kishon,Wilcher,YDS,8
+1579111,11/19/2014,FBS,Toledo,Bowling Green,RECEIVING,Kishon,Wilcher,TD,0
+1579112,11/19/2014,FBS,Toledo,Bowling Green,RECEIVING,Kishon,Wilcher,LONG,8
+1579113,11/19/2014,FBS,Toledo,Bowling Green,RECEIVING,Cody,Thompson,REC,1
+1579114,11/19/2014,FBS,Toledo,Bowling Green,RECEIVING,Cody,Thompson,YDS,8
+1579115,11/19/2014,FBS,Toledo,Bowling Green,RECEIVING,Cody,Thompson,TD,0
+1579116,11/19/2014,FBS,Toledo,Bowling Green,RECEIVING,Cody,Thompson,LONG,8
+1579117,11/19/2014,FBS,Toledo,Bowling Green,RECEIVING,Kareem,Hunt,REC,1
+1579118,11/19/2014,FBS,Toledo,Bowling Green,RECEIVING,Kareem,Hunt,YDS,8
+1579119,11/19/2014,FBS,Toledo,Bowling Green,RECEIVING,Kareem,Hunt,TD,0
+1579120,11/19/2014,FBS,Toledo,Bowling Green,RECEIVING,Kareem,Hunt,LONG,8
+1579121,11/19/2014,FBS,Toledo,Bowling Green,RECEIVING,Terry,Swanson,REC,1
+1579122,11/19/2014,FBS,Toledo,Bowling Green,RECEIVING,Terry,Swanson,YDS,-3
+1579123,11/19/2014,FBS,Toledo,Bowling Green,RECEIVING,Terry,Swanson,TD,0
+1579124,11/19/2014,FBS,Toledo,Bowling Green,RECEIVING,Terry,Swanson,LONG,-3
+1579125,11/19/2014,FBS,Toledo,Bowling Green,KICKING,Jeremiah,Detmer,FG-FGA,0/1
+1579126,11/19/2014,FBS,Toledo,Bowling Green,KICKING,Jeremiah,Detmer,LONG,0
+1579127,11/19/2014,FBS,Toledo,Bowling Green,KICKING,Jeremiah,Detmer,XP,3
+1579128,11/19/2014,FBS,Toledo,Bowling Green,KICKING,Jeremiah,Detmer,PTS,3
+1579129,11/19/2014,FBS,Toledo,Bowling Green,PUNTING,Nick,Ellis,NO,6
+1579130,11/19/2014,FBS,Toledo,Bowling Green,PUNTING,Nick,Ellis,YDS,222
+1579131,11/19/2014,FBS,Toledo,Bowling Green,PUNTING,Nick,Ellis,AVG,37.0
+1579132,11/19/2014,FBS,Toledo,Bowling Green,PUNTING,Nick,Ellis,LONG,51
+1579133,11/19/2014,FBS,Toledo,Bowling Green,PUNT RETURNS,Corey,Jones,NO,2
+1579134,11/19/2014,FBS,Toledo,Bowling Green,PUNT RETURNS,Corey,Jones,YDS,8
+1579135,11/19/2014,FBS,Toledo,Bowling Green,PUNT RETURNS,Corey,Jones,AVG,4.0
+1579136,11/19/2014,FBS,Toledo,Bowling Green,PUNT RETURNS,Corey,Jones,LONG,8
+1579137,11/19/2014,FBS,Toledo,Bowling Green,KICK RETURNS,Kishon,Wilcher,NO,3
+1579138,11/19/2014,FBS,Toledo,Bowling Green,KICK RETURNS,Kishon,Wilcher,YDS,127
+1579139,11/19/2014,FBS,Toledo,Bowling Green,KICK RETURNS,Kishon,Wilcher,AVG,42.3
+1579140,11/19/2014,FBS,Toledo,Bowling Green,KICK RETURNS,Kishon,Wilcher,LONG,77
+1579141,11/19/2014,FBS,Toledo,Bowling Green,KICK RETURNS,Ja'Wuan,Woodley,NO,1
+1579142,11/19/2014,FBS,Toledo,Bowling Green,KICK RETURNS,Ja'Wuan,Woodley,YDS,28
+1579143,11/19/2014,FBS,Toledo,Bowling Green,KICK RETURNS,Ja'Wuan,Woodley,AVG,28.0
+1579144,11/19/2014,FBS,Toledo,Bowling Green,KICK RETURNS,Ja'Wuan,Woodley,LONG,28
+1579145,11/19/2014,FBS,Toledo,Bowling Green,KICK RETURNS,Mike,Ebert,NO,1
+1579146,11/19/2014,FBS,Toledo,Bowling Green,KICK RETURNS,Mike,Ebert,YDS,12
+1579147,11/19/2014,FBS,Toledo,Bowling Green,KICK RETURNS,Mike,Ebert,AVG,12.0
+1579148,11/19/2014,FBS,Toledo,Bowling Green,KICK RETURNS,Mike,Ebert,LONG,12

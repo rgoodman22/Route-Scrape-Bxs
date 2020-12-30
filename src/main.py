@@ -17,7 +17,11 @@ class main:
         for div in divs:
             m.selectDivision(div)
             last = None
-            for date in dates:
+            curDates = dates
+            # if div == "FBS":
+            #     curDates = dates[308:]
+            #     m.yearSelect('2014')
+            for date in curDates:
                 time.sleep(.2)
                 if '08/1/' in date:
                     year = date[5:]

@@ -1,0 +1,153 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1556001,11/15/2014,FBS,Virginia Tech,Duke,RUSHING,J.C.,Coleman,ATT,20
+1556002,11/15/2014,FBS,Virginia Tech,Duke,RUSHING,J.C.,Coleman,YDS,95
+1556003,11/15/2014,FBS,Virginia Tech,Duke,RUSHING,J.C.,Coleman,TD,0
+1556004,11/15/2014,FBS,Virginia Tech,Duke,RUSHING,J.C.,Coleman,LONG,12
+1556005,11/15/2014,FBS,Virginia Tech,Duke,RUSHING,Brenden,Motley,ATT,3
+1556006,11/15/2014,FBS,Virginia Tech,Duke,RUSHING,Brenden,Motley,YDS,36
+1556007,11/15/2014,FBS,Virginia Tech,Duke,RUSHING,Brenden,Motley,TD,0
+1556008,11/15/2014,FBS,Virginia Tech,Duke,RUSHING,Brenden,Motley,LONG,24
+1556009,11/15/2014,FBS,Virginia Tech,Duke,RUSHING,Cam,Phillips,ATT,3
+1556010,11/15/2014,FBS,Virginia Tech,Duke,RUSHING,Cam,Phillips,YDS,33
+1556011,11/15/2014,FBS,Virginia Tech,Duke,RUSHING,Cam,Phillips,TD,0
+1556012,11/15/2014,FBS,Virginia Tech,Duke,RUSHING,Cam,Phillips,LONG,21
+1556013,11/15/2014,FBS,Virginia Tech,Duke,RUSHING,Deon,Newsome,ATT,2
+1556014,11/15/2014,FBS,Virginia Tech,Duke,RUSHING,Deon,Newsome,YDS,13
+1556015,11/15/2014,FBS,Virginia Tech,Duke,RUSHING,Deon,Newsome,TD,0
+1556016,11/15/2014,FBS,Virginia Tech,Duke,RUSHING,Deon,Newsome,LONG,8
+1556017,11/15/2014,FBS,Virginia Tech,Duke,RUSHING,Marshawn,Williams,ATT,5
+1556018,11/15/2014,FBS,Virginia Tech,Duke,RUSHING,Marshawn,Williams,YDS,6
+1556019,11/15/2014,FBS,Virginia Tech,Duke,RUSHING,Marshawn,Williams,TD,0
+1556020,11/15/2014,FBS,Virginia Tech,Duke,RUSHING,Marshawn,Williams,LONG,7
+1556021,11/15/2014,FBS,Virginia Tech,Duke,RUSHING,Sam,Rogers,ATT,1
+1556022,11/15/2014,FBS,Virginia Tech,Duke,RUSHING,Sam,Rogers,YDS,3
+1556023,11/15/2014,FBS,Virginia Tech,Duke,RUSHING,Sam,Rogers,TD,0
+1556024,11/15/2014,FBS,Virginia Tech,Duke,RUSHING,Sam,Rogers,LONG,3
+1556025,11/15/2014,FBS,Virginia Tech,Duke,RUSHING,,Team,ATT,1
+1556026,11/15/2014,FBS,Virginia Tech,Duke,RUSHING,,Team,YDS,-2
+1556027,11/15/2014,FBS,Virginia Tech,Duke,RUSHING,,Team,TD,0
+1556028,11/15/2014,FBS,Virginia Tech,Duke,RUSHING,,Team,LONG,-2
+1556029,11/15/2014,FBS,Virginia Tech,Duke,RUSHING,Michael,Brewer,ATT,14
+1556030,11/15/2014,FBS,Virginia Tech,Duke,RUSHING,Michael,Brewer,YDS,-39
+1556031,11/15/2014,FBS,Virginia Tech,Duke,RUSHING,Michael,Brewer,TD,0
+1556032,11/15/2014,FBS,Virginia Tech,Duke,RUSHING,Michael,Brewer,LONG,14
+1556033,11/15/2014,FBS,Virginia Tech,Duke,PASSING,Michael,Brewer,CP-ATT-INT,12-23-1
+1556034,11/15/2014,FBS,Virginia Tech,Duke,PASSING,Michael,Brewer,YDS,138
+1556035,11/15/2014,FBS,Virginia Tech,Duke,PASSING,Michael,Brewer,TD,2
+1556036,11/15/2014,FBS,Virginia Tech,Duke,PASSING,Michael,Brewer,LONG,26
+1556037,11/15/2014,FBS,Virginia Tech,Duke,PASSING,A.J.,Hughes,CP-ATT-INT,1-1-0
+1556038,11/15/2014,FBS,Virginia Tech,Duke,PASSING,A.J.,Hughes,YDS,10
+1556039,11/15/2014,FBS,Virginia Tech,Duke,PASSING,A.J.,Hughes,TD,0
+1556040,11/15/2014,FBS,Virginia Tech,Duke,PASSING,A.J.,Hughes,LONG,10
+1556041,11/15/2014,FBS,Virginia Tech,Duke,RECEIVING,Bucky,Hodges,REC,6
+1556042,11/15/2014,FBS,Virginia Tech,Duke,RECEIVING,Bucky,Hodges,YDS,57
+1556043,11/15/2014,FBS,Virginia Tech,Duke,RECEIVING,Bucky,Hodges,TD,1
+1556044,11/15/2014,FBS,Virginia Tech,Duke,RECEIVING,Bucky,Hodges,LONG,26
+1556045,11/15/2014,FBS,Virginia Tech,Duke,RECEIVING,Isaiah,Ford,REC,4
+1556046,11/15/2014,FBS,Virginia Tech,Duke,RECEIVING,Isaiah,Ford,YDS,48
+1556047,11/15/2014,FBS,Virginia Tech,Duke,RECEIVING,Isaiah,Ford,TD,1
+1556048,11/15/2014,FBS,Virginia Tech,Duke,RECEIVING,Isaiah,Ford,LONG,15
+1556049,11/15/2014,FBS,Virginia Tech,Duke,RECEIVING,Cam,Phillips,REC,1
+1556050,11/15/2014,FBS,Virginia Tech,Duke,RECEIVING,Cam,Phillips,YDS,19
+1556051,11/15/2014,FBS,Virginia Tech,Duke,RECEIVING,Cam,Phillips,TD,0
+1556052,11/15/2014,FBS,Virginia Tech,Duke,RECEIVING,Cam,Phillips,LONG,19
+1556053,11/15/2014,FBS,Virginia Tech,Duke,RECEIVING,Joshua,Stanford,REC,1
+1556054,11/15/2014,FBS,Virginia Tech,Duke,RECEIVING,Joshua,Stanford,YDS,14
+1556055,11/15/2014,FBS,Virginia Tech,Duke,RECEIVING,Joshua,Stanford,TD,0
+1556056,11/15/2014,FBS,Virginia Tech,Duke,RECEIVING,Joshua,Stanford,LONG,14
+1556057,11/15/2014,FBS,Virginia Tech,Duke,RECEIVING,Josh,Trimble,REC,1
+1556058,11/15/2014,FBS,Virginia Tech,Duke,RECEIVING,Josh,Trimble,YDS,10
+1556059,11/15/2014,FBS,Virginia Tech,Duke,RECEIVING,Josh,Trimble,TD,0
+1556060,11/15/2014,FBS,Virginia Tech,Duke,RECEIVING,Josh,Trimble,LONG,10
+1556061,11/15/2014,FBS,Virginia Tech,Duke,KICKING,Joey,Slye,FG-FGA,1/1
+1556062,11/15/2014,FBS,Virginia Tech,Duke,KICKING,Joey,Slye,LONG,35
+1556063,11/15/2014,FBS,Virginia Tech,Duke,KICKING,Joey,Slye,XP,2
+1556064,11/15/2014,FBS,Virginia Tech,Duke,KICKING,Joey,Slye,PTS,5
+1556065,11/15/2014,FBS,Virginia Tech,Duke,PUNTING,A.J.,Hughes,NO,8
+1556066,11/15/2014,FBS,Virginia Tech,Duke,PUNTING,A.J.,Hughes,YDS,283
+1556067,11/15/2014,FBS,Virginia Tech,Duke,PUNTING,A.J.,Hughes,AVG,35.4
+1556068,11/15/2014,FBS,Virginia Tech,Duke,PUNTING,A.J.,Hughes,LONG,49
+1556069,11/15/2014,FBS,Virginia Tech,Duke,PUNT RETURNS,Greg,Stroman,NO,5
+1556070,11/15/2014,FBS,Virginia Tech,Duke,PUNT RETURNS,Greg,Stroman,YDS,-9
+1556071,11/15/2014,FBS,Virginia Tech,Duke,PUNT RETURNS,Greg,Stroman,AVG,-
+1556072,11/15/2014,FBS,Virginia Tech,Duke,PUNT RETURNS,Greg,Stroman,LONG,3
+1556073,11/15/2014,FBS,Virginia Tech,Duke,KICK RETURNS,Demitri,Knowles,NO,2
+1556074,11/15/2014,FBS,Virginia Tech,Duke,KICK RETURNS,Demitri,Knowles,YDS,35
+1556075,11/15/2014,FBS,Virginia Tech,Duke,KICK RETURNS,Demitri,Knowles,AVG,17.5
+1556076,11/15/2014,FBS,Virginia Tech,Duke,KICK RETURNS,Demitri,Knowles,LONG,18
+1556077,11/15/2014,FBS,Virginia Tech,Duke,KICK RETURNS,Deon,Newsome,NO,1
+1556078,11/15/2014,FBS,Virginia Tech,Duke,KICK RETURNS,Deon,Newsome,YDS,18
+1556079,11/15/2014,FBS,Virginia Tech,Duke,KICK RETURNS,Deon,Newsome,AVG,18.0
+1556080,11/15/2014,FBS,Virginia Tech,Duke,KICK RETURNS,Deon,Newsome,LONG,18
+1556081,11/15/2014,FBS,Duke,Virginia Tech,RUSHING,Josh,Snead,ATT,9
+1556082,11/15/2014,FBS,Duke,Virginia Tech,RUSHING,Josh,Snead,YDS,54
+1556083,11/15/2014,FBS,Duke,Virginia Tech,RUSHING,Josh,Snead,TD,1
+1556084,11/15/2014,FBS,Duke,Virginia Tech,RUSHING,Josh,Snead,LONG,18
+1556085,11/15/2014,FBS,Duke,Virginia Tech,RUSHING,Shaquille,Powell,ATT,11
+1556086,11/15/2014,FBS,Duke,Virginia Tech,RUSHING,Shaquille,Powell,YDS,34
+1556087,11/15/2014,FBS,Duke,Virginia Tech,RUSHING,Shaquille,Powell,TD,0
+1556088,11/15/2014,FBS,Duke,Virginia Tech,RUSHING,Shaquille,Powell,LONG,13
+1556089,11/15/2014,FBS,Duke,Virginia Tech,RUSHING,Anthony,Boone,ATT,14
+1556090,11/15/2014,FBS,Duke,Virginia Tech,RUSHING,Anthony,Boone,YDS,34
+1556091,11/15/2014,FBS,Duke,Virginia Tech,RUSHING,Anthony,Boone,TD,0
+1556092,11/15/2014,FBS,Duke,Virginia Tech,RUSHING,Anthony,Boone,LONG,17
+1556093,11/15/2014,FBS,Duke,Virginia Tech,RUSHING,Shaun,Wilson,ATT,6
+1556094,11/15/2014,FBS,Duke,Virginia Tech,RUSHING,Shaun,Wilson,YDS,18
+1556095,11/15/2014,FBS,Duke,Virginia Tech,RUSHING,Shaun,Wilson,TD,0
+1556096,11/15/2014,FBS,Duke,Virginia Tech,RUSHING,Shaun,Wilson,LONG,10
+1556097,11/15/2014,FBS,Duke,Virginia Tech,RUSHING,Thomas,Sirk,ATT,1
+1556098,11/15/2014,FBS,Duke,Virginia Tech,RUSHING,Thomas,Sirk,YDS,1
+1556099,11/15/2014,FBS,Duke,Virginia Tech,RUSHING,Thomas,Sirk,TD,0
+1556100,11/15/2014,FBS,Duke,Virginia Tech,RUSHING,Thomas,Sirk,LONG,1
+1556101,11/15/2014,FBS,Duke,Virginia Tech,PASSING,Anthony,Boone,CP-ATT-INT,18-40-2
+1556102,11/15/2014,FBS,Duke,Virginia Tech,PASSING,Anthony,Boone,YDS,181
+1556103,11/15/2014,FBS,Duke,Virginia Tech,PASSING,Anthony,Boone,TD,0
+1556104,11/15/2014,FBS,Duke,Virginia Tech,PASSING,Anthony,Boone,LONG,21
+1556105,11/15/2014,FBS,Duke,Virginia Tech,PASSING,Thomas,Sirk,CP-ATT-INT,1-1-0
+1556106,11/15/2014,FBS,Duke,Virginia Tech,PASSING,Thomas,Sirk,YDS,4
+1556107,11/15/2014,FBS,Duke,Virginia Tech,PASSING,Thomas,Sirk,TD,0
+1556108,11/15/2014,FBS,Duke,Virginia Tech,PASSING,Thomas,Sirk,LONG,4
+1556109,11/15/2014,FBS,Duke,Virginia Tech,RECEIVING,Jamison,Crowder,REC,6
+1556110,11/15/2014,FBS,Duke,Virginia Tech,RECEIVING,Jamison,Crowder,YDS,73
+1556111,11/15/2014,FBS,Duke,Virginia Tech,RECEIVING,Jamison,Crowder,TD,0
+1556112,11/15/2014,FBS,Duke,Virginia Tech,RECEIVING,Jamison,Crowder,LONG,20
+1556113,11/15/2014,FBS,Duke,Virginia Tech,RECEIVING,Max,McCaffrey,REC,3
+1556114,11/15/2014,FBS,Duke,Virginia Tech,RECEIVING,Max,McCaffrey,YDS,47
+1556115,11/15/2014,FBS,Duke,Virginia Tech,RECEIVING,Max,McCaffrey,TD,0
+1556116,11/15/2014,FBS,Duke,Virginia Tech,RECEIVING,Max,McCaffrey,LONG,21
+1556117,11/15/2014,FBS,Duke,Virginia Tech,RECEIVING,Issac,Blakeney,REC,5
+1556118,11/15/2014,FBS,Duke,Virginia Tech,RECEIVING,Issac,Blakeney,YDS,44
+1556119,11/15/2014,FBS,Duke,Virginia Tech,RECEIVING,Issac,Blakeney,TD,0
+1556120,11/15/2014,FBS,Duke,Virginia Tech,RECEIVING,Issac,Blakeney,LONG,18
+1556121,11/15/2014,FBS,Duke,Virginia Tech,RECEIVING,Shaquille,Powell,REC,2
+1556122,11/15/2014,FBS,Duke,Virginia Tech,RECEIVING,Shaquille,Powell,YDS,14
+1556123,11/15/2014,FBS,Duke,Virginia Tech,RECEIVING,Shaquille,Powell,TD,0
+1556124,11/15/2014,FBS,Duke,Virginia Tech,RECEIVING,Shaquille,Powell,LONG,10
+1556125,11/15/2014,FBS,Duke,Virginia Tech,RECEIVING,David,Reeves,REC,1
+1556126,11/15/2014,FBS,Duke,Virginia Tech,RECEIVING,David,Reeves,YDS,10
+1556127,11/15/2014,FBS,Duke,Virginia Tech,RECEIVING,David,Reeves,TD,0
+1556128,11/15/2014,FBS,Duke,Virginia Tech,RECEIVING,David,Reeves,LONG,10
+1556129,11/15/2014,FBS,Duke,Virginia Tech,RECEIVING,Erich,Schneider,REC,1
+1556130,11/15/2014,FBS,Duke,Virginia Tech,RECEIVING,Erich,Schneider,YDS,3
+1556131,11/15/2014,FBS,Duke,Virginia Tech,RECEIVING,Erich,Schneider,TD,0
+1556132,11/15/2014,FBS,Duke,Virginia Tech,RECEIVING,Erich,Schneider,LONG,3
+1556133,11/15/2014,FBS,Duke,Virginia Tech,RECEIVING,Johnell,Barnes,REC,1
+1556134,11/15/2014,FBS,Duke,Virginia Tech,RECEIVING,Johnell,Barnes,YDS,-6
+1556135,11/15/2014,FBS,Duke,Virginia Tech,RECEIVING,Johnell,Barnes,TD,0
+1556136,11/15/2014,FBS,Duke,Virginia Tech,RECEIVING,Johnell,Barnes,LONG,0
+1556137,11/15/2014,FBS,Duke,Virginia Tech,KICKING,Ross,Martin,FG-FGA,3/5
+1556138,11/15/2014,FBS,Duke,Virginia Tech,KICKING,Ross,Martin,LONG,48
+1556139,11/15/2014,FBS,Duke,Virginia Tech,KICKING,Ross,Martin,XP,1
+1556140,11/15/2014,FBS,Duke,Virginia Tech,KICKING,Ross,Martin,PTS,10
+1556141,11/15/2014,FBS,Duke,Virginia Tech,PUNTING,Will,Monday,NO,5
+1556142,11/15/2014,FBS,Duke,Virginia Tech,PUNTING,Will,Monday,YDS,200
+1556143,11/15/2014,FBS,Duke,Virginia Tech,PUNTING,Will,Monday,AVG,40.0
+1556144,11/15/2014,FBS,Duke,Virginia Tech,PUNTING,Will,Monday,LONG,48
+1556145,11/15/2014,FBS,Duke,Virginia Tech,PUNT RETURNS,Jamison,Crowder,NO,2
+1556146,11/15/2014,FBS,Duke,Virginia Tech,PUNT RETURNS,Jamison,Crowder,YDS,6
+1556147,11/15/2014,FBS,Duke,Virginia Tech,PUNT RETURNS,Jamison,Crowder,AVG,3.0
+1556148,11/15/2014,FBS,Duke,Virginia Tech,PUNT RETURNS,Jamison,Crowder,LONG,6
+1556149,11/15/2014,FBS,Duke,Virginia Tech,KICK RETURNS,DeVon,Edwards,NO,3
+1556150,11/15/2014,FBS,Duke,Virginia Tech,KICK RETURNS,DeVon,Edwards,YDS,57
+1556151,11/15/2014,FBS,Duke,Virginia Tech,KICK RETURNS,DeVon,Edwards,AVG,19.0
+1556152,11/15/2014,FBS,Duke,Virginia Tech,KICK RETURNS,DeVon,Edwards,LONG,24

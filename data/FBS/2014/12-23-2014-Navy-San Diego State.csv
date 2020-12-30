@@ -1,0 +1,117 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1720001,12/23/2014,FBS,Navy,San Diego State,RUSHING,Chris,Swain,ATT,8
+1720002,12/23/2014,FBS,Navy,San Diego State,RUSHING,Chris,Swain,YDS,72
+1720003,12/23/2014,FBS,Navy,San Diego State,RUSHING,Chris,Swain,TD,0
+1720004,12/23/2014,FBS,Navy,San Diego State,RUSHING,Chris,Swain,LONG,24
+1720005,12/23/2014,FBS,Navy,San Diego State,RUSHING,Ryan,Williams-Jenkins,ATT,8
+1720006,12/23/2014,FBS,Navy,San Diego State,RUSHING,Ryan,Williams-Jenkins,YDS,67
+1720007,12/23/2014,FBS,Navy,San Diego State,RUSHING,Ryan,Williams-Jenkins,TD,0
+1720008,12/23/2014,FBS,Navy,San Diego State,RUSHING,Ryan,Williams-Jenkins,LONG,28
+1720009,12/23/2014,FBS,Navy,San Diego State,RUSHING,Noah,Copeland,ATT,12
+1720010,12/23/2014,FBS,Navy,San Diego State,RUSHING,Noah,Copeland,YDS,63
+1720011,12/23/2014,FBS,Navy,San Diego State,RUSHING,Noah,Copeland,TD,0
+1720012,12/23/2014,FBS,Navy,San Diego State,RUSHING,Noah,Copeland,LONG,15
+1720013,12/23/2014,FBS,Navy,San Diego State,RUSHING,DeBrandon,Sanders,ATT,4
+1720014,12/23/2014,FBS,Navy,San Diego State,RUSHING,DeBrandon,Sanders,YDS,24
+1720015,12/23/2014,FBS,Navy,San Diego State,RUSHING,DeBrandon,Sanders,TD,0
+1720016,12/23/2014,FBS,Navy,San Diego State,RUSHING,DeBrandon,Sanders,LONG,9
+1720017,12/23/2014,FBS,Navy,San Diego State,RUSHING,Geoffrey,Whiteside,ATT,6
+1720018,12/23/2014,FBS,Navy,San Diego State,RUSHING,Geoffrey,Whiteside,YDS,20
+1720019,12/23/2014,FBS,Navy,San Diego State,RUSHING,Geoffrey,Whiteside,TD,0
+1720020,12/23/2014,FBS,Navy,San Diego State,RUSHING,Geoffrey,Whiteside,LONG,10
+1720021,12/23/2014,FBS,Navy,San Diego State,RUSHING,Keenan,Reynolds,ATT,19
+1720022,12/23/2014,FBS,Navy,San Diego State,RUSHING,Keenan,Reynolds,YDS,9
+1720023,12/23/2014,FBS,Navy,San Diego State,RUSHING,Keenan,Reynolds,TD,2
+1720024,12/23/2014,FBS,Navy,San Diego State,RUSHING,Keenan,Reynolds,LONG,8
+1720025,12/23/2014,FBS,Navy,San Diego State,RUSHING,,Team,ATT,1
+1720026,12/23/2014,FBS,Navy,San Diego State,RUSHING,,Team,YDS,-1
+1720027,12/23/2014,FBS,Navy,San Diego State,RUSHING,,Team,TD,0
+1720028,12/23/2014,FBS,Navy,San Diego State,RUSHING,,Team,LONG,-1
+1720029,12/23/2014,FBS,Navy,San Diego State,PASSING,Keenan,Reynolds,CP-ATT-INT,3-7-0
+1720030,12/23/2014,FBS,Navy,San Diego State,PASSING,Keenan,Reynolds,YDS,17
+1720031,12/23/2014,FBS,Navy,San Diego State,PASSING,Keenan,Reynolds,TD,0
+1720032,12/23/2014,FBS,Navy,San Diego State,PASSING,Keenan,Reynolds,LONG,9
+1720033,12/23/2014,FBS,Navy,San Diego State,RECEIVING,Brendan,Dudeck,REC,2
+1720034,12/23/2014,FBS,Navy,San Diego State,RECEIVING,Brendan,Dudeck,YDS,15
+1720035,12/23/2014,FBS,Navy,San Diego State,RECEIVING,Brendan,Dudeck,TD,0
+1720036,12/23/2014,FBS,Navy,San Diego State,RECEIVING,Brendan,Dudeck,LONG,9
+1720037,12/23/2014,FBS,Navy,San Diego State,RECEIVING,Geoffrey,Whiteside,REC,1
+1720038,12/23/2014,FBS,Navy,San Diego State,RECEIVING,Geoffrey,Whiteside,YDS,2
+1720039,12/23/2014,FBS,Navy,San Diego State,RECEIVING,Geoffrey,Whiteside,TD,0
+1720040,12/23/2014,FBS,Navy,San Diego State,RECEIVING,Geoffrey,Whiteside,LONG,2
+1720041,12/23/2014,FBS,Navy,San Diego State,KICKING,Austin,Grebe,FG-FGA,1/1
+1720042,12/23/2014,FBS,Navy,San Diego State,KICKING,Austin,Grebe,LONG,24
+1720043,12/23/2014,FBS,Navy,San Diego State,KICKING,Austin,Grebe,XP,2
+1720044,12/23/2014,FBS,Navy,San Diego State,KICKING,Austin,Grebe,PTS,5
+1720045,12/23/2014,FBS,Navy,San Diego State,PUNTING,Pablo,Beltran,NO,4
+1720046,12/23/2014,FBS,Navy,San Diego State,PUNTING,Pablo,Beltran,YDS,171
+1720047,12/23/2014,FBS,Navy,San Diego State,PUNTING,Pablo,Beltran,AVG,42.8
+1720048,12/23/2014,FBS,Navy,San Diego State,PUNTING,Pablo,Beltran,LONG,54
+1720049,12/23/2014,FBS,Navy,San Diego State,PUNT RETURNS,DeBrandon,Sanders,NO,1
+1720050,12/23/2014,FBS,Navy,San Diego State,PUNT RETURNS,DeBrandon,Sanders,YDS,3
+1720051,12/23/2014,FBS,Navy,San Diego State,PUNT RETURNS,DeBrandon,Sanders,AVG,3.0
+1720052,12/23/2014,FBS,Navy,San Diego State,PUNT RETURNS,DeBrandon,Sanders,LONG,3
+1720053,12/23/2014,FBS,Navy,San Diego State,KICK RETURNS,Ryan,Williams-Jenkins,NO,3
+1720054,12/23/2014,FBS,Navy,San Diego State,KICK RETURNS,Ryan,Williams-Jenkins,YDS,58
+1720055,12/23/2014,FBS,Navy,San Diego State,KICK RETURNS,Ryan,Williams-Jenkins,AVG,19.3
+1720056,12/23/2014,FBS,Navy,San Diego State,KICK RETURNS,Ryan,Williams-Jenkins,LONG,30
+1720057,12/23/2014,FBS,San Diego State,Navy,RUSHING,Donnel,Pumphrey,ATT,21
+1720058,12/23/2014,FBS,San Diego State,Navy,RUSHING,Donnel,Pumphrey,YDS,112
+1720059,12/23/2014,FBS,San Diego State,Navy,RUSHING,Donnel,Pumphrey,TD,1
+1720060,12/23/2014,FBS,San Diego State,Navy,RUSHING,Donnel,Pumphrey,LONG,14
+1720061,12/23/2014,FBS,San Diego State,Navy,RUSHING,Chase,Price,ATT,11
+1720062,12/23/2014,FBS,San Diego State,Navy,RUSHING,Chase,Price,YDS,69
+1720063,12/23/2014,FBS,San Diego State,Navy,RUSHING,Chase,Price,TD,0
+1720064,12/23/2014,FBS,San Diego State,Navy,RUSHING,Chase,Price,LONG,24
+1720065,12/23/2014,FBS,San Diego State,Navy,RUSHING,Quinn,Kaehler,ATT,1
+1720066,12/23/2014,FBS,San Diego State,Navy,RUSHING,Quinn,Kaehler,YDS,5
+1720067,12/23/2014,FBS,San Diego State,Navy,RUSHING,Quinn,Kaehler,TD,0
+1720068,12/23/2014,FBS,San Diego State,Navy,RUSHING,Quinn,Kaehler,LONG,5
+1720069,12/23/2014,FBS,San Diego State,Navy,RUSHING,Darrell,Greene,ATT,0
+1720070,12/23/2014,FBS,San Diego State,Navy,RUSHING,Darrell,Greene,YDS,0
+1720071,12/23/2014,FBS,San Diego State,Navy,RUSHING,Darrell,Greene,TD,0
+1720072,12/23/2014,FBS,San Diego State,Navy,RUSHING,Darrell,Greene,LONG,0
+1720073,12/23/2014,FBS,San Diego State,Navy,PASSING,Quinn,Kaehler,CP-ATT-INT,11-27-2
+1720074,12/23/2014,FBS,San Diego State,Navy,PASSING,Quinn,Kaehler,YDS,141
+1720075,12/23/2014,FBS,San Diego State,Navy,PASSING,Quinn,Kaehler,TD,0
+1720076,12/23/2014,FBS,San Diego State,Navy,PASSING,Quinn,Kaehler,LONG,32
+1720077,12/23/2014,FBS,San Diego State,Navy,RECEIVING,Larry,Clark,REC,3
+1720078,12/23/2014,FBS,San Diego State,Navy,RECEIVING,Larry,Clark,YDS,45
+1720079,12/23/2014,FBS,San Diego State,Navy,RECEIVING,Larry,Clark,TD,0
+1720080,12/23/2014,FBS,San Diego State,Navy,RECEIVING,Larry,Clark,LONG,24
+1720081,12/23/2014,FBS,San Diego State,Navy,RECEIVING,Donnel,Pumphrey,REC,4
+1720082,12/23/2014,FBS,San Diego State,Navy,RECEIVING,Donnel,Pumphrey,YDS,42
+1720083,12/23/2014,FBS,San Diego State,Navy,RECEIVING,Donnel,Pumphrey,TD,0
+1720084,12/23/2014,FBS,San Diego State,Navy,RECEIVING,Donnel,Pumphrey,LONG,16
+1720085,12/23/2014,FBS,San Diego State,Navy,RECEIVING,Eric,Judge,REC,1
+1720086,12/23/2014,FBS,San Diego State,Navy,RECEIVING,Eric,Judge,YDS,32
+1720087,12/23/2014,FBS,San Diego State,Navy,RECEIVING,Eric,Judge,TD,0
+1720088,12/23/2014,FBS,San Diego State,Navy,RECEIVING,Eric,Judge,LONG,32
+1720089,12/23/2014,FBS,San Diego State,Navy,RECEIVING,Chase,Favreau,REC,1
+1720090,12/23/2014,FBS,San Diego State,Navy,RECEIVING,Chase,Favreau,YDS,13
+1720091,12/23/2014,FBS,San Diego State,Navy,RECEIVING,Chase,Favreau,TD,0
+1720092,12/23/2014,FBS,San Diego State,Navy,RECEIVING,Chase,Favreau,LONG,13
+1720093,12/23/2014,FBS,San Diego State,Navy,RECEIVING,Chase,Price,REC,2
+1720094,12/23/2014,FBS,San Diego State,Navy,RECEIVING,Chase,Price,YDS,9
+1720095,12/23/2014,FBS,San Diego State,Navy,RECEIVING,Chase,Price,TD,0
+1720096,12/23/2014,FBS,San Diego State,Navy,RECEIVING,Chase,Price,LONG,5
+1720097,12/23/2014,FBS,San Diego State,Navy,KICKING,Donny,Hageman,FG-FGA,3/4
+1720098,12/23/2014,FBS,San Diego State,Navy,KICKING,Donny,Hageman,LONG,43
+1720099,12/23/2014,FBS,San Diego State,Navy,KICKING,Donny,Hageman,XP,1
+1720100,12/23/2014,FBS,San Diego State,Navy,KICKING,Donny,Hageman,PTS,10
+1720101,12/23/2014,FBS,San Diego State,Navy,PUNTING,Joel,Alesi,NO,3
+1720102,12/23/2014,FBS,San Diego State,Navy,PUNTING,Joel,Alesi,YDS,103
+1720103,12/23/2014,FBS,San Diego State,Navy,PUNTING,Joel,Alesi,AVG,34.3
+1720104,12/23/2014,FBS,San Diego State,Navy,PUNTING,Joel,Alesi,LONG,44
+1720105,12/23/2014,FBS,San Diego State,Navy,PUNT RETURNS,Lloyd,Mills,NO,1
+1720106,12/23/2014,FBS,San Diego State,Navy,PUNT RETURNS,Lloyd,Mills,YDS,0
+1720107,12/23/2014,FBS,San Diego State,Navy,PUNT RETURNS,Lloyd,Mills,AVG,-
+1720108,12/23/2014,FBS,San Diego State,Navy,PUNT RETURNS,Lloyd,Mills,LONG,0
+1720109,12/23/2014,FBS,San Diego State,Navy,KICK RETURNS,Rashaad,Penny,NO,3
+1720110,12/23/2014,FBS,San Diego State,Navy,KICK RETURNS,Rashaad,Penny,YDS,107
+1720111,12/23/2014,FBS,San Diego State,Navy,KICK RETURNS,Rashaad,Penny,AVG,35.7
+1720112,12/23/2014,FBS,San Diego State,Navy,KICK RETURNS,Rashaad,Penny,LONG,57
+1720113,12/23/2014,FBS,San Diego State,Navy,KICK RETURNS,Kendrick,Mathis,NO,1
+1720114,12/23/2014,FBS,San Diego State,Navy,KICK RETURNS,Kendrick,Mathis,YDS,33
+1720115,12/23/2014,FBS,San Diego State,Navy,KICK RETURNS,Kendrick,Mathis,AVG,33.0
+1720116,12/23/2014,FBS,San Diego State,Navy,KICK RETURNS,Kendrick,Mathis,LONG,33

@@ -1,0 +1,169 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1481001,11/7/2014,FBS,Memphis,Temple,RUSHING,Brandon,Hayes,ATT,26
+1481002,11/7/2014,FBS,Memphis,Temple,RUSHING,Brandon,Hayes,YDS,75
+1481003,11/7/2014,FBS,Memphis,Temple,RUSHING,Brandon,Hayes,TD,0
+1481004,11/7/2014,FBS,Memphis,Temple,RUSHING,Brandon,Hayes,LONG,13
+1481005,11/7/2014,FBS,Memphis,Temple,RUSHING,Roderick,Proctor,ATT,2
+1481006,11/7/2014,FBS,Memphis,Temple,RUSHING,Roderick,Proctor,YDS,4
+1481007,11/7/2014,FBS,Memphis,Temple,RUSHING,Roderick,Proctor,TD,0
+1481008,11/7/2014,FBS,Memphis,Temple,RUSHING,Roderick,Proctor,LONG,4
+1481009,11/7/2014,FBS,Memphis,Temple,RUSHING,Jarvis,Cooper,ATT,3
+1481010,11/7/2014,FBS,Memphis,Temple,RUSHING,Jarvis,Cooper,YDS,4
+1481011,11/7/2014,FBS,Memphis,Temple,RUSHING,Jarvis,Cooper,TD,0
+1481012,11/7/2014,FBS,Memphis,Temple,RUSHING,Jarvis,Cooper,LONG,4
+1481013,11/7/2014,FBS,Memphis,Temple,RUSHING,Mose,Frazier,ATT,1
+1481014,11/7/2014,FBS,Memphis,Temple,RUSHING,Mose,Frazier,YDS,2
+1481015,11/7/2014,FBS,Memphis,Temple,RUSHING,Mose,Frazier,TD,0
+1481016,11/7/2014,FBS,Memphis,Temple,RUSHING,Mose,Frazier,LONG,2
+1481017,11/7/2014,FBS,Memphis,Temple,RUSHING,Paxton,Lynch,ATT,7
+1481018,11/7/2014,FBS,Memphis,Temple,RUSHING,Paxton,Lynch,YDS,-1
+1481019,11/7/2014,FBS,Memphis,Temple,RUSHING,Paxton,Lynch,TD,0
+1481020,11/7/2014,FBS,Memphis,Temple,RUSHING,Paxton,Lynch,LONG,4
+1481021,11/7/2014,FBS,Memphis,Temple,RUSHING,,Team,ATT,1
+1481022,11/7/2014,FBS,Memphis,Temple,RUSHING,,Team,YDS,-2
+1481023,11/7/2014,FBS,Memphis,Temple,RUSHING,,Team,TD,0
+1481024,11/7/2014,FBS,Memphis,Temple,RUSHING,,Team,LONG,-2
+1481025,11/7/2014,FBS,Memphis,Temple,PASSING,Paxton,Lynch,CP-ATT-INT,21-28-0
+1481026,11/7/2014,FBS,Memphis,Temple,PASSING,Paxton,Lynch,YDS,230
+1481027,11/7/2014,FBS,Memphis,Temple,PASSING,Paxton,Lynch,TD,1
+1481028,11/7/2014,FBS,Memphis,Temple,PASSING,Paxton,Lynch,LONG,42
+1481029,11/7/2014,FBS,Memphis,Temple,RECEIVING,Mose,Frazier,REC,8
+1481030,11/7/2014,FBS,Memphis,Temple,RECEIVING,Mose,Frazier,YDS,110
+1481031,11/7/2014,FBS,Memphis,Temple,RECEIVING,Mose,Frazier,TD,0
+1481032,11/7/2014,FBS,Memphis,Temple,RECEIVING,Mose,Frazier,LONG,42
+1481033,11/7/2014,FBS,Memphis,Temple,RECEIVING,Keiwone,Malone,REC,3
+1481034,11/7/2014,FBS,Memphis,Temple,RECEIVING,Keiwone,Malone,YDS,36
+1481035,11/7/2014,FBS,Memphis,Temple,RECEIVING,Keiwone,Malone,TD,0
+1481036,11/7/2014,FBS,Memphis,Temple,RECEIVING,Keiwone,Malone,LONG,22
+1481037,11/7/2014,FBS,Memphis,Temple,RECEIVING,Brandon,Hayes,REC,2
+1481038,11/7/2014,FBS,Memphis,Temple,RECEIVING,Brandon,Hayes,YDS,24
+1481039,11/7/2014,FBS,Memphis,Temple,RECEIVING,Brandon,Hayes,TD,1
+1481040,11/7/2014,FBS,Memphis,Temple,RECEIVING,Brandon,Hayes,LONG,17
+1481041,11/7/2014,FBS,Memphis,Temple,RECEIVING,Adrian,Henderson,REC,1
+1481042,11/7/2014,FBS,Memphis,Temple,RECEIVING,Adrian,Henderson,YDS,22
+1481043,11/7/2014,FBS,Memphis,Temple,RECEIVING,Adrian,Henderson,TD,0
+1481044,11/7/2014,FBS,Memphis,Temple,RECEIVING,Adrian,Henderson,LONG,22
+1481045,11/7/2014,FBS,Memphis,Temple,RECEIVING,Tevin,Jones,REC,2
+1481046,11/7/2014,FBS,Memphis,Temple,RECEIVING,Tevin,Jones,YDS,18
+1481047,11/7/2014,FBS,Memphis,Temple,RECEIVING,Tevin,Jones,TD,0
+1481048,11/7/2014,FBS,Memphis,Temple,RECEIVING,Tevin,Jones,LONG,12
+1481049,11/7/2014,FBS,Memphis,Temple,RECEIVING,Phil,Mayhue,REC,2
+1481050,11/7/2014,FBS,Memphis,Temple,RECEIVING,Phil,Mayhue,YDS,11
+1481051,11/7/2014,FBS,Memphis,Temple,RECEIVING,Phil,Mayhue,TD,0
+1481052,11/7/2014,FBS,Memphis,Temple,RECEIVING,Phil,Mayhue,LONG,9
+1481053,11/7/2014,FBS,Memphis,Temple,RECEIVING,Roderick,Proctor,REC,1
+1481054,11/7/2014,FBS,Memphis,Temple,RECEIVING,Roderick,Proctor,YDS,5
+1481055,11/7/2014,FBS,Memphis,Temple,RECEIVING,Roderick,Proctor,TD,0
+1481056,11/7/2014,FBS,Memphis,Temple,RECEIVING,Roderick,Proctor,LONG,5
+1481057,11/7/2014,FBS,Memphis,Temple,RECEIVING,Alan,Cross,REC,2
+1481058,11/7/2014,FBS,Memphis,Temple,RECEIVING,Alan,Cross,YDS,4
+1481059,11/7/2014,FBS,Memphis,Temple,RECEIVING,Alan,Cross,TD,0
+1481060,11/7/2014,FBS,Memphis,Temple,RECEIVING,Alan,Cross,LONG,3
+1481061,11/7/2014,FBS,Memphis,Temple,KICKING,Jake,Elliott,FG-FGA,3/4
+1481062,11/7/2014,FBS,Memphis,Temple,KICKING,Jake,Elliott,LONG,42
+1481063,11/7/2014,FBS,Memphis,Temple,KICKING,Jake,Elliott,XP,1
+1481064,11/7/2014,FBS,Memphis,Temple,KICKING,Jake,Elliott,PTS,10
+1481065,11/7/2014,FBS,Memphis,Temple,PUNTING,Spencer,Smith,NO,6
+1481066,11/7/2014,FBS,Memphis,Temple,PUNTING,Spencer,Smith,YDS,215
+1481067,11/7/2014,FBS,Memphis,Temple,PUNTING,Spencer,Smith,AVG,35.8
+1481068,11/7/2014,FBS,Memphis,Temple,PUNTING,Spencer,Smith,LONG,47
+1481069,11/7/2014,FBS,Memphis,Temple,PUNTING,Nick,Jacobs,NO,2
+1481070,11/7/2014,FBS,Memphis,Temple,PUNTING,Nick,Jacobs,YDS,70
+1481071,11/7/2014,FBS,Memphis,Temple,PUNTING,Nick,Jacobs,AVG,35.0
+1481072,11/7/2014,FBS,Memphis,Temple,PUNTING,Nick,Jacobs,LONG,36
+1481073,11/7/2014,FBS,Memphis,Temple,PUNT RETURNS,Keiwone,Malone,NO,2
+1481074,11/7/2014,FBS,Memphis,Temple,PUNT RETURNS,Keiwone,Malone,YDS,8
+1481075,11/7/2014,FBS,Memphis,Temple,PUNT RETURNS,Keiwone,Malone,AVG,4.0
+1481076,11/7/2014,FBS,Memphis,Temple,PUNT RETURNS,Keiwone,Malone,LONG,8
+1481077,11/7/2014,FBS,Memphis,Temple,PUNT RETURNS,B.J.,Ross,NO,1
+1481078,11/7/2014,FBS,Memphis,Temple,PUNT RETURNS,B.J.,Ross,YDS,-5
+1481079,11/7/2014,FBS,Memphis,Temple,PUNT RETURNS,B.J.,Ross,AVG,-
+1481080,11/7/2014,FBS,Memphis,Temple,PUNT RETURNS,B.J.,Ross,LONG,-5
+1481081,11/7/2014,FBS,Memphis,Temple,KICK RETURNS,Joe,Craig,NO,3
+1481082,11/7/2014,FBS,Memphis,Temple,KICK RETURNS,Joe,Craig,YDS,57
+1481083,11/7/2014,FBS,Memphis,Temple,KICK RETURNS,Joe,Craig,AVG,19.0
+1481084,11/7/2014,FBS,Memphis,Temple,KICK RETURNS,Joe,Craig,LONG,22
+1481085,11/7/2014,FBS,Memphis,Temple,KICK RETURNS,Bobby,McCain,NO,1
+1481086,11/7/2014,FBS,Memphis,Temple,KICK RETURNS,Bobby,McCain,YDS,17
+1481087,11/7/2014,FBS,Memphis,Temple,KICK RETURNS,Bobby,McCain,AVG,17.0
+1481088,11/7/2014,FBS,Memphis,Temple,KICK RETURNS,Bobby,McCain,LONG,17
+1481089,11/7/2014,FBS,Temple,Memphis,RUSHING,Kenneth,Harper,ATT,17
+1481090,11/7/2014,FBS,Temple,Memphis,RUSHING,Kenneth,Harper,YDS,116
+1481091,11/7/2014,FBS,Temple,Memphis,RUSHING,Kenneth,Harper,TD,1
+1481092,11/7/2014,FBS,Temple,Memphis,RUSHING,Kenneth,Harper,LONG,75
+1481093,11/7/2014,FBS,Temple,Memphis,RUSHING,P.J.,Walker,ATT,9
+1481094,11/7/2014,FBS,Temple,Memphis,RUSHING,P.J.,Walker,YDS,28
+1481095,11/7/2014,FBS,Temple,Memphis,RUSHING,P.J.,Walker,TD,0
+1481096,11/7/2014,FBS,Temple,Memphis,RUSHING,P.J.,Walker,LONG,33
+1481097,11/7/2014,FBS,Temple,Memphis,RUSHING,Jahad,Thomas,ATT,4
+1481098,11/7/2014,FBS,Temple,Memphis,RUSHING,Jahad,Thomas,YDS,9
+1481099,11/7/2014,FBS,Temple,Memphis,RUSHING,Jahad,Thomas,TD,0
+1481100,11/7/2014,FBS,Temple,Memphis,RUSHING,Jahad,Thomas,LONG,7
+1481101,11/7/2014,FBS,Temple,Memphis,RUSHING,Brandon,Shippen,ATT,1
+1481102,11/7/2014,FBS,Temple,Memphis,RUSHING,Brandon,Shippen,YDS,7
+1481103,11/7/2014,FBS,Temple,Memphis,RUSHING,Brandon,Shippen,TD,0
+1481104,11/7/2014,FBS,Temple,Memphis,RUSHING,Brandon,Shippen,LONG,7
+1481105,11/7/2014,FBS,Temple,Memphis,RUSHING,Jamie,Gilmore,ATT,1
+1481106,11/7/2014,FBS,Temple,Memphis,RUSHING,Jamie,Gilmore,YDS,-2
+1481107,11/7/2014,FBS,Temple,Memphis,RUSHING,Jamie,Gilmore,TD,0
+1481108,11/7/2014,FBS,Temple,Memphis,RUSHING,Jamie,Gilmore,LONG,-2
+1481109,11/7/2014,FBS,Temple,Memphis,PASSING,P.J.,Walker,CP-ATT-INT,16-37-1
+1481110,11/7/2014,FBS,Temple,Memphis,PASSING,P.J.,Walker,YDS,140
+1481111,11/7/2014,FBS,Temple,Memphis,PASSING,P.J.,Walker,TD,0
+1481112,11/7/2014,FBS,Temple,Memphis,PASSING,P.J.,Walker,LONG,31
+1481113,11/7/2014,FBS,Temple,Memphis,RECEIVING,Jalen,Fitzpatrick,REC,5
+1481114,11/7/2014,FBS,Temple,Memphis,RECEIVING,Jalen,Fitzpatrick,YDS,64
+1481115,11/7/2014,FBS,Temple,Memphis,RECEIVING,Jalen,Fitzpatrick,TD,0
+1481116,11/7/2014,FBS,Temple,Memphis,RECEIVING,Jalen,Fitzpatrick,LONG,31
+1481117,11/7/2014,FBS,Temple,Memphis,RECEIVING,John,Christopher,REC,3
+1481118,11/7/2014,FBS,Temple,Memphis,RECEIVING,John,Christopher,YDS,23
+1481119,11/7/2014,FBS,Temple,Memphis,RECEIVING,John,Christopher,TD,0
+1481120,11/7/2014,FBS,Temple,Memphis,RECEIVING,John,Christopher,LONG,11
+1481121,11/7/2014,FBS,Temple,Memphis,RECEIVING,Colin,Thompson,REC,2
+1481122,11/7/2014,FBS,Temple,Memphis,RECEIVING,Colin,Thompson,YDS,14
+1481123,11/7/2014,FBS,Temple,Memphis,RECEIVING,Colin,Thompson,TD,0
+1481124,11/7/2014,FBS,Temple,Memphis,RECEIVING,Colin,Thompson,LONG,9
+1481125,11/7/2014,FBS,Temple,Memphis,RECEIVING,Romond,Deloatch,REC,1
+1481126,11/7/2014,FBS,Temple,Memphis,RECEIVING,Romond,Deloatch,YDS,12
+1481127,11/7/2014,FBS,Temple,Memphis,RECEIVING,Romond,Deloatch,TD,0
+1481128,11/7/2014,FBS,Temple,Memphis,RECEIVING,Romond,Deloatch,LONG,12
+1481129,11/7/2014,FBS,Temple,Memphis,RECEIVING,Kenneth,Harper,REC,2
+1481130,11/7/2014,FBS,Temple,Memphis,RECEIVING,Kenneth,Harper,YDS,11
+1481131,11/7/2014,FBS,Temple,Memphis,RECEIVING,Kenneth,Harper,TD,0
+1481132,11/7/2014,FBS,Temple,Memphis,RECEIVING,Kenneth,Harper,LONG,7
+1481133,11/7/2014,FBS,Temple,Memphis,RECEIVING,Nate,Hairston,REC,1
+1481134,11/7/2014,FBS,Temple,Memphis,RECEIVING,Nate,Hairston,YDS,9
+1481135,11/7/2014,FBS,Temple,Memphis,RECEIVING,Nate,Hairston,TD,0
+1481136,11/7/2014,FBS,Temple,Memphis,RECEIVING,Nate,Hairston,LONG,9
+1481137,11/7/2014,FBS,Temple,Memphis,RECEIVING,Brodrick,Yancy,REC,1
+1481138,11/7/2014,FBS,Temple,Memphis,RECEIVING,Brodrick,Yancy,YDS,4
+1481139,11/7/2014,FBS,Temple,Memphis,RECEIVING,Brodrick,Yancy,TD,0
+1481140,11/7/2014,FBS,Temple,Memphis,RECEIVING,Brodrick,Yancy,LONG,4
+1481141,11/7/2014,FBS,Temple,Memphis,RECEIVING,Brandon,Shippen,REC,1
+1481142,11/7/2014,FBS,Temple,Memphis,RECEIVING,Brandon,Shippen,YDS,3
+1481143,11/7/2014,FBS,Temple,Memphis,RECEIVING,Brandon,Shippen,TD,0
+1481144,11/7/2014,FBS,Temple,Memphis,RECEIVING,Brandon,Shippen,LONG,3
+1481145,11/7/2014,FBS,Temple,Memphis,KICKING,Austin,Jones,FG-FGA,2/3
+1481146,11/7/2014,FBS,Temple,Memphis,KICKING,Austin,Jones,LONG,45
+1481147,11/7/2014,FBS,Temple,Memphis,KICKING,Austin,Jones,XP,1
+1481148,11/7/2014,FBS,Temple,Memphis,KICKING,Austin,Jones,PTS,7
+1481149,11/7/2014,FBS,Temple,Memphis,PUNTING,Alex,Starzyk,NO,5
+1481150,11/7/2014,FBS,Temple,Memphis,PUNTING,Alex,Starzyk,YDS,139
+1481151,11/7/2014,FBS,Temple,Memphis,PUNTING,Alex,Starzyk,AVG,23.2
+1481152,11/7/2014,FBS,Temple,Memphis,PUNTING,Alex,Starzyk,LONG,42
+1481153,11/7/2014,FBS,Temple,Memphis,PUNTING,Tyler,Mayes,NO,2
+1481154,11/7/2014,FBS,Temple,Memphis,PUNTING,Tyler,Mayes,YDS,66
+1481155,11/7/2014,FBS,Temple,Memphis,PUNTING,Tyler,Mayes,AVG,33.0
+1481156,11/7/2014,FBS,Temple,Memphis,PUNTING,Tyler,Mayes,LONG,34
+1481157,11/7/2014,FBS,Temple,Memphis,PUNT RETURNS,Nate,L.Smith,NO,1
+1481158,11/7/2014,FBS,Temple,Memphis,PUNT RETURNS,Nate,L.Smith,YDS,21
+1481159,11/7/2014,FBS,Temple,Memphis,PUNT RETURNS,Nate,L.Smith,AVG,21.0
+1481160,11/7/2014,FBS,Temple,Memphis,PUNT RETURNS,Nate,L.Smith,LONG,21
+1481161,11/7/2014,FBS,Temple,Memphis,PUNT RETURNS,John,Christopher,NO,1
+1481162,11/7/2014,FBS,Temple,Memphis,PUNT RETURNS,John,Christopher,YDS,-1
+1481163,11/7/2014,FBS,Temple,Memphis,PUNT RETURNS,John,Christopher,AVG,-
+1481164,11/7/2014,FBS,Temple,Memphis,PUNT RETURNS,John,Christopher,LONG,0
+1481165,11/7/2014,FBS,Temple,Memphis,KICK RETURNS,Jahad,Thomas,NO,1
+1481166,11/7/2014,FBS,Temple,Memphis,KICK RETURNS,Jahad,Thomas,YDS,17
+1481167,11/7/2014,FBS,Temple,Memphis,KICK RETURNS,Jahad,Thomas,AVG,17.0
+1481168,11/7/2014,FBS,Temple,Memphis,KICK RETURNS,Jahad,Thomas,LONG,17

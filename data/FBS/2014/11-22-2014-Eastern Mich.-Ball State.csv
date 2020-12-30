@@ -1,0 +1,165 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1588001,11/22/2014,FBS,Eastern Mich.,Ball State,RUSHING,Reginald,Bell,ATT,18
+1588002,11/22/2014,FBS,Eastern Mich.,Ball State,RUSHING,Reginald,Bell,YDS,101
+1588003,11/22/2014,FBS,Eastern Mich.,Ball State,RUSHING,Reginald,Bell,TD,0
+1588004,11/22/2014,FBS,Eastern Mich.,Ball State,RUSHING,Reginald,Bell,LONG,22
+1588005,11/22/2014,FBS,Eastern Mich.,Ball State,RUSHING,Darius,Jackson,ATT,6
+1588006,11/22/2014,FBS,Eastern Mich.,Ball State,RUSHING,Darius,Jackson,YDS,18
+1588007,11/22/2014,FBS,Eastern Mich.,Ball State,RUSHING,Darius,Jackson,TD,0
+1588008,11/22/2014,FBS,Eastern Mich.,Ball State,RUSHING,Darius,Jackson,LONG,13
+1588009,11/22/2014,FBS,Eastern Mich.,Ball State,RUSHING,Bronson,Hill,ATT,6
+1588010,11/22/2014,FBS,Eastern Mich.,Ball State,RUSHING,Bronson,Hill,YDS,13
+1588011,11/22/2014,FBS,Eastern Mich.,Ball State,RUSHING,Bronson,Hill,TD,0
+1588012,11/22/2014,FBS,Eastern Mich.,Ball State,RUSHING,Bronson,Hill,LONG,11
+1588013,11/22/2014,FBS,Eastern Mich.,Ball State,RUSHING,Ryan,Brumfield,ATT,5
+1588014,11/22/2014,FBS,Eastern Mich.,Ball State,RUSHING,Ryan,Brumfield,YDS,4
+1588015,11/22/2014,FBS,Eastern Mich.,Ball State,RUSHING,Ryan,Brumfield,TD,0
+1588016,11/22/2014,FBS,Eastern Mich.,Ball State,RUSHING,Ryan,Brumfield,LONG,3
+1588017,11/22/2014,FBS,Eastern Mich.,Ball State,RUSHING,,Team,ATT,1
+1588018,11/22/2014,FBS,Eastern Mich.,Ball State,RUSHING,,Team,YDS,-42
+1588019,11/22/2014,FBS,Eastern Mich.,Ball State,RUSHING,,Team,TD,0
+1588020,11/22/2014,FBS,Eastern Mich.,Ball State,RUSHING,,Team,LONG,-42
+1588021,11/22/2014,FBS,Eastern Mich.,Ball State,PASSING,Reginald,Bell,CP-ATT-INT,36-49-0
+1588022,11/22/2014,FBS,Eastern Mich.,Ball State,PASSING,Reginald,Bell,YDS,409
+1588023,11/22/2014,FBS,Eastern Mich.,Ball State,PASSING,Reginald,Bell,TD,3
+1588024,11/22/2014,FBS,Eastern Mich.,Ball State,PASSING,Reginald,Bell,LONG,30
+1588025,11/22/2014,FBS,Eastern Mich.,Ball State,RECEIVING,Dustin,Creel,REC,14
+1588026,11/22/2014,FBS,Eastern Mich.,Ball State,RECEIVING,Dustin,Creel,YDS,152
+1588027,11/22/2014,FBS,Eastern Mich.,Ball State,RECEIVING,Dustin,Creel,TD,0
+1588028,11/22/2014,FBS,Eastern Mich.,Ball State,RECEIVING,Dustin,Creel,LONG,30
+1588029,11/22/2014,FBS,Eastern Mich.,Ball State,RECEIVING,Tyreese,Russell,REC,8
+1588030,11/22/2014,FBS,Eastern Mich.,Ball State,RECEIVING,Tyreese,Russell,YDS,113
+1588031,11/22/2014,FBS,Eastern Mich.,Ball State,RECEIVING,Tyreese,Russell,TD,1
+1588032,11/22/2014,FBS,Eastern Mich.,Ball State,RECEIVING,Tyreese,Russell,LONG,23
+1588033,11/22/2014,FBS,Eastern Mich.,Ball State,RECEIVING,Kris,Strange,REC,4
+1588034,11/22/2014,FBS,Eastern Mich.,Ball State,RECEIVING,Kris,Strange,YDS,41
+1588035,11/22/2014,FBS,Eastern Mich.,Ball State,RECEIVING,Kris,Strange,TD,1
+1588036,11/22/2014,FBS,Eastern Mich.,Ball State,RECEIVING,Kris,Strange,LONG,12
+1588037,11/22/2014,FBS,Eastern Mich.,Ball State,RECEIVING,Darius,Jackson,REC,4
+1588038,11/22/2014,FBS,Eastern Mich.,Ball State,RECEIVING,Darius,Jackson,YDS,33
+1588039,11/22/2014,FBS,Eastern Mich.,Ball State,RECEIVING,Darius,Jackson,TD,1
+1588040,11/22/2014,FBS,Eastern Mich.,Ball State,RECEIVING,Darius,Jackson,LONG,13
+1588041,11/22/2014,FBS,Eastern Mich.,Ball State,RECEIVING,Bronson,Hill,REC,1
+1588042,11/22/2014,FBS,Eastern Mich.,Ball State,RECEIVING,Bronson,Hill,YDS,26
+1588043,11/22/2014,FBS,Eastern Mich.,Ball State,RECEIVING,Bronson,Hill,TD,0
+1588044,11/22/2014,FBS,Eastern Mich.,Ball State,RECEIVING,Bronson,Hill,LONG,26
+1588045,11/22/2014,FBS,Eastern Mich.,Ball State,RECEIVING,Kray'shawn,Brewer,REC,2
+1588046,11/22/2014,FBS,Eastern Mich.,Ball State,RECEIVING,Kray'shawn,Brewer,YDS,21
+1588047,11/22/2014,FBS,Eastern Mich.,Ball State,RECEIVING,Kray'shawn,Brewer,TD,0
+1588048,11/22/2014,FBS,Eastern Mich.,Ball State,RECEIVING,Kray'shawn,Brewer,LONG,14
+1588049,11/22/2014,FBS,Eastern Mich.,Ball State,RECEIVING,David,Gibson,REC,2
+1588050,11/22/2014,FBS,Eastern Mich.,Ball State,RECEIVING,David,Gibson,YDS,15
+1588051,11/22/2014,FBS,Eastern Mich.,Ball State,RECEIVING,David,Gibson,TD,0
+1588052,11/22/2014,FBS,Eastern Mich.,Ball State,RECEIVING,David,Gibson,LONG,10
+1588053,11/22/2014,FBS,Eastern Mich.,Ball State,RECEIVING,Cole,Gardner,REC,1
+1588054,11/22/2014,FBS,Eastern Mich.,Ball State,RECEIVING,Cole,Gardner,YDS,8
+1588055,11/22/2014,FBS,Eastern Mich.,Ball State,RECEIVING,Cole,Gardner,TD,0
+1588056,11/22/2014,FBS,Eastern Mich.,Ball State,RECEIVING,Cole,Gardner,LONG,8
+1588057,11/22/2014,FBS,Eastern Mich.,Ball State,KICKING,Dylan,Mulder,FG-FGA,3/3
+1588058,11/22/2014,FBS,Eastern Mich.,Ball State,KICKING,Dylan,Mulder,LONG,36
+1588059,11/22/2014,FBS,Eastern Mich.,Ball State,KICKING,Dylan,Mulder,XP,3
+1588060,11/22/2014,FBS,Eastern Mich.,Ball State,KICKING,Dylan,Mulder,PTS,12
+1588061,11/22/2014,FBS,Eastern Mich.,Ball State,PUNTING,Owen,Dubiel,NO,4
+1588062,11/22/2014,FBS,Eastern Mich.,Ball State,PUNTING,Owen,Dubiel,YDS,156
+1588063,11/22/2014,FBS,Eastern Mich.,Ball State,PUNTING,Owen,Dubiel,AVG,39.0
+1588064,11/22/2014,FBS,Eastern Mich.,Ball State,PUNTING,Owen,Dubiel,LONG,44
+1588065,11/22/2014,FBS,Eastern Mich.,Ball State,PUNT RETURNS,Dustin,Creel,NO,0
+1588066,11/22/2014,FBS,Eastern Mich.,Ball State,PUNT RETURNS,Dustin,Creel,YDS,0
+1588067,11/22/2014,FBS,Eastern Mich.,Ball State,PUNT RETURNS,Dustin,Creel,AVG,-
+1588068,11/22/2014,FBS,Eastern Mich.,Ball State,PUNT RETURNS,Dustin,Creel,LONG,0
+1588069,11/22/2014,FBS,Eastern Mich.,Ball State,PUNT RETURNS,Jalen,Williams,NO,0
+1588070,11/22/2014,FBS,Eastern Mich.,Ball State,PUNT RETURNS,Jalen,Williams,YDS,0
+1588071,11/22/2014,FBS,Eastern Mich.,Ball State,PUNT RETURNS,Jalen,Williams,AVG,-
+1588072,11/22/2014,FBS,Eastern Mich.,Ball State,PUNT RETURNS,Jalen,Williams,LONG,0
+1588073,11/22/2014,FBS,Eastern Mich.,Ball State,KICK RETURNS,Ryan,Brumfield,NO,4
+1588074,11/22/2014,FBS,Eastern Mich.,Ball State,KICK RETURNS,Ryan,Brumfield,YDS,62
+1588075,11/22/2014,FBS,Eastern Mich.,Ball State,KICK RETURNS,Ryan,Brumfield,AVG,15.5
+1588076,11/22/2014,FBS,Eastern Mich.,Ball State,KICK RETURNS,Ryan,Brumfield,LONG,20
+1588077,11/22/2014,FBS,Ball State,Eastern Mich.,RUSHING,Jahwan,Edwards,ATT,19
+1588078,11/22/2014,FBS,Ball State,Eastern Mich.,RUSHING,Jahwan,Edwards,YDS,131
+1588079,11/22/2014,FBS,Ball State,Eastern Mich.,RUSHING,Jahwan,Edwards,TD,1
+1588080,11/22/2014,FBS,Ball State,Eastern Mich.,RUSHING,Jahwan,Edwards,LONG,29
+1588081,11/22/2014,FBS,Ball State,Eastern Mich.,RUSHING,Jack,Milas,ATT,2
+1588082,11/22/2014,FBS,Ball State,Eastern Mich.,RUSHING,Jack,Milas,YDS,57
+1588083,11/22/2014,FBS,Ball State,Eastern Mich.,RUSHING,Jack,Milas,TD,1
+1588084,11/22/2014,FBS,Ball State,Eastern Mich.,RUSHING,Jack,Milas,LONG,54
+1588085,11/22/2014,FBS,Ball State,Eastern Mich.,RUSHING,Horactio,Banks,ATT,6
+1588086,11/22/2014,FBS,Ball State,Eastern Mich.,RUSHING,Horactio,Banks,YDS,19
+1588087,11/22/2014,FBS,Ball State,Eastern Mich.,RUSHING,Horactio,Banks,TD,0
+1588088,11/22/2014,FBS,Ball State,Eastern Mich.,RUSHING,Horactio,Banks,LONG,5
+1588089,11/22/2014,FBS,Ball State,Eastern Mich.,RUSHING,Teddy,Williamson,ATT,6
+1588090,11/22/2014,FBS,Ball State,Eastern Mich.,RUSHING,Teddy,Williamson,YDS,13
+1588091,11/22/2014,FBS,Ball State,Eastern Mich.,RUSHING,Teddy,Williamson,TD,0
+1588092,11/22/2014,FBS,Ball State,Eastern Mich.,RUSHING,Teddy,Williamson,LONG,8
+1588093,11/22/2014,FBS,Ball State,Eastern Mich.,RUSHING,Corey,Lacanaria,ATT,1
+1588094,11/22/2014,FBS,Ball State,Eastern Mich.,RUSHING,Corey,Lacanaria,YDS,12
+1588095,11/22/2014,FBS,Ball State,Eastern Mich.,RUSHING,Corey,Lacanaria,TD,0
+1588096,11/22/2014,FBS,Ball State,Eastern Mich.,RUSHING,Corey,Lacanaria,LONG,12
+1588097,11/22/2014,FBS,Ball State,Eastern Mich.,RUSHING,Ozzie,Mann,ATT,1
+1588098,11/22/2014,FBS,Ball State,Eastern Mich.,RUSHING,Ozzie,Mann,YDS,2
+1588099,11/22/2014,FBS,Ball State,Eastern Mich.,RUSHING,Ozzie,Mann,TD,0
+1588100,11/22/2014,FBS,Ball State,Eastern Mich.,RUSHING,Ozzie,Mann,LONG,2
+1588101,11/22/2014,FBS,Ball State,Eastern Mich.,RUSHING,,Team,ATT,3
+1588102,11/22/2014,FBS,Ball State,Eastern Mich.,RUSHING,,Team,YDS,-11
+1588103,11/22/2014,FBS,Ball State,Eastern Mich.,RUSHING,,Team,TD,0
+1588104,11/22/2014,FBS,Ball State,Eastern Mich.,RUSHING,,Team,LONG,-1
+1588105,11/22/2014,FBS,Ball State,Eastern Mich.,PASSING,Jack,Milas,CP-ATT-INT,11-17-0
+1588106,11/22/2014,FBS,Ball State,Eastern Mich.,PASSING,Jack,Milas,YDS,169
+1588107,11/22/2014,FBS,Ball State,Eastern Mich.,PASSING,Jack,Milas,TD,2
+1588108,11/22/2014,FBS,Ball State,Eastern Mich.,PASSING,Jack,Milas,LONG,44
+1588109,11/22/2014,FBS,Ball State,Eastern Mich.,PASSING,Ozzie,Mann,CP-ATT-INT,4-7-0
+1588110,11/22/2014,FBS,Ball State,Eastern Mich.,PASSING,Ozzie,Mann,YDS,48
+1588111,11/22/2014,FBS,Ball State,Eastern Mich.,PASSING,Ozzie,Mann,TD,1
+1588112,11/22/2014,FBS,Ball State,Eastern Mich.,PASSING,Ozzie,Mann,LONG,20
+1588113,11/22/2014,FBS,Ball State,Eastern Mich.,RECEIVING,Jordan,Williams,REC,4
+1588114,11/22/2014,FBS,Ball State,Eastern Mich.,RECEIVING,Jordan,Williams,YDS,68
+1588115,11/22/2014,FBS,Ball State,Eastern Mich.,RECEIVING,Jordan,Williams,TD,0
+1588116,11/22/2014,FBS,Ball State,Eastern Mich.,RECEIVING,Jordan,Williams,LONG,44
+1588117,11/22/2014,FBS,Ball State,Eastern Mich.,RECEIVING,Darian,Green,REC,3
+1588118,11/22/2014,FBS,Ball State,Eastern Mich.,RECEIVING,Darian,Green,YDS,56
+1588119,11/22/2014,FBS,Ball State,Eastern Mich.,RECEIVING,Darian,Green,TD,0
+1588120,11/22/2014,FBS,Ball State,Eastern Mich.,RECEIVING,Darian,Green,LONG,28
+1588121,11/22/2014,FBS,Ball State,Eastern Mich.,RECEIVING,Jordan,Hogue,REC,1
+1588122,11/22/2014,FBS,Ball State,Eastern Mich.,RECEIVING,Jordan,Hogue,YDS,33
+1588123,11/22/2014,FBS,Ball State,Eastern Mich.,RECEIVING,Jordan,Hogue,TD,1
+1588124,11/22/2014,FBS,Ball State,Eastern Mich.,RECEIVING,Jordan,Hogue,LONG,33
+1588125,11/22/2014,FBS,Ball State,Eastern Mich.,RECEIVING,Corey,Lacanaria,REC,4
+1588126,11/22/2014,FBS,Ball State,Eastern Mich.,RECEIVING,Corey,Lacanaria,YDS,33
+1588127,11/22/2014,FBS,Ball State,Eastern Mich.,RECEIVING,Corey,Lacanaria,TD,1
+1588128,11/22/2014,FBS,Ball State,Eastern Mich.,RECEIVING,Corey,Lacanaria,LONG,19
+1588129,11/22/2014,FBS,Ball State,Eastern Mich.,RECEIVING,Jahwan,Edwards,REC,1
+1588130,11/22/2014,FBS,Ball State,Eastern Mich.,RECEIVING,Jahwan,Edwards,YDS,12
+1588131,11/22/2014,FBS,Ball State,Eastern Mich.,RECEIVING,Jahwan,Edwards,TD,0
+1588132,11/22/2014,FBS,Ball State,Eastern Mich.,RECEIVING,Jahwan,Edwards,LONG,12
+1588133,11/22/2014,FBS,Ball State,Eastern Mich.,RECEIVING,Chris,Shillings,REC,1
+1588134,11/22/2014,FBS,Ball State,Eastern Mich.,RECEIVING,Chris,Shillings,YDS,10
+1588135,11/22/2014,FBS,Ball State,Eastern Mich.,RECEIVING,Chris,Shillings,TD,0
+1588136,11/22/2014,FBS,Ball State,Eastern Mich.,RECEIVING,Chris,Shillings,LONG,10
+1588137,11/22/2014,FBS,Ball State,Eastern Mich.,RECEIVING,Dylan,Curry,REC,1
+1588138,11/22/2014,FBS,Ball State,Eastern Mich.,RECEIVING,Dylan,Curry,YDS,5
+1588139,11/22/2014,FBS,Ball State,Eastern Mich.,RECEIVING,Dylan,Curry,TD,1
+1588140,11/22/2014,FBS,Ball State,Eastern Mich.,RECEIVING,Dylan,Curry,LONG,5
+1588141,11/22/2014,FBS,Ball State,Eastern Mich.,KICKING,Scott,Secor,FG-FGA,1/1
+1588142,11/22/2014,FBS,Ball State,Eastern Mich.,KICKING,Scott,Secor,LONG,32
+1588143,11/22/2014,FBS,Ball State,Eastern Mich.,KICKING,Scott,Secor,XP,5
+1588144,11/22/2014,FBS,Ball State,Eastern Mich.,KICKING,Scott,Secor,PTS,8
+1588145,11/22/2014,FBS,Ball State,Eastern Mich.,KICKING,Cody,Dickson,FG-FGA,0/0
+1588146,11/22/2014,FBS,Ball State,Eastern Mich.,KICKING,Cody,Dickson,LONG,-
+1588147,11/22/2014,FBS,Ball State,Eastern Mich.,KICKING,Cody,Dickson,XP,1
+1588148,11/22/2014,FBS,Ball State,Eastern Mich.,KICKING,Cody,Dickson,PTS,1
+1588149,11/22/2014,FBS,Ball State,Eastern Mich.,PUNTING,Kyle,Schmidt,NO,5
+1588150,11/22/2014,FBS,Ball State,Eastern Mich.,PUNTING,Kyle,Schmidt,YDS,212
+1588151,11/22/2014,FBS,Ball State,Eastern Mich.,PUNTING,Kyle,Schmidt,AVG,42.4
+1588152,11/22/2014,FBS,Ball State,Eastern Mich.,PUNTING,Kyle,Schmidt,LONG,70
+1588153,11/22/2014,FBS,Ball State,Eastern Mich.,PUNTING,Scott,Secor,NO,1
+1588154,11/22/2014,FBS,Ball State,Eastern Mich.,PUNTING,Scott,Secor,YDS,37
+1588155,11/22/2014,FBS,Ball State,Eastern Mich.,PUNTING,Scott,Secor,AVG,37.0
+1588156,11/22/2014,FBS,Ball State,Eastern Mich.,PUNTING,Scott,Secor,LONG,37
+1588157,11/22/2014,FBS,Ball State,Eastern Mich.,PUNT RETURNS,Aaron,Hepp,NO,1
+1588158,11/22/2014,FBS,Ball State,Eastern Mich.,PUNT RETURNS,Aaron,Hepp,YDS,5
+1588159,11/22/2014,FBS,Ball State,Eastern Mich.,PUNT RETURNS,Aaron,Hepp,AVG,5.0
+1588160,11/22/2014,FBS,Ball State,Eastern Mich.,PUNT RETURNS,Aaron,Hepp,LONG,5
+1588161,11/22/2014,FBS,Ball State,Eastern Mich.,KICK RETURNS,KeVonn,Mabon,NO,1
+1588162,11/22/2014,FBS,Ball State,Eastern Mich.,KICK RETURNS,KeVonn,Mabon,YDS,32
+1588163,11/22/2014,FBS,Ball State,Eastern Mich.,KICK RETURNS,KeVonn,Mabon,AVG,32.0
+1588164,11/22/2014,FBS,Ball State,Eastern Mich.,KICK RETURNS,KeVonn,Mabon,LONG,32

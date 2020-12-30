@@ -1,0 +1,145 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1087001,9/13/2014,FBS,Wake Forest,Utah State,RUSHING,Isaiah,Robinson,ATT,9
+1087002,9/13/2014,FBS,Wake Forest,Utah State,RUSHING,Isaiah,Robinson,YDS,13
+1087003,9/13/2014,FBS,Wake Forest,Utah State,RUSHING,Isaiah,Robinson,TD,0
+1087004,9/13/2014,FBS,Wake Forest,Utah State,RUSHING,Isaiah,Robinson,LONG,11
+1087005,9/13/2014,FBS,Wake Forest,Utah State,RUSHING,Jordan,Garside,ATT,1
+1087006,9/13/2014,FBS,Wake Forest,Utah State,RUSHING,Jordan,Garside,YDS,0
+1087007,9/13/2014,FBS,Wake Forest,Utah State,RUSHING,Jordan,Garside,TD,0
+1087008,9/13/2014,FBS,Wake Forest,Utah State,RUSHING,Jordan,Garside,LONG,0
+1087009,9/13/2014,FBS,Wake Forest,Utah State,RUSHING,Orville,Reynolds,ATT,5
+1087010,9/13/2014,FBS,Wake Forest,Utah State,RUSHING,Orville,Reynolds,YDS,-6
+1087011,9/13/2014,FBS,Wake Forest,Utah State,RUSHING,Orville,Reynolds,TD,0
+1087012,9/13/2014,FBS,Wake Forest,Utah State,RUSHING,Orville,Reynolds,LONG,1
+1087013,9/13/2014,FBS,Wake Forest,Utah State,RUSHING,John,Wolford,ATT,9
+1087014,9/13/2014,FBS,Wake Forest,Utah State,RUSHING,John,Wolford,YDS,-32
+1087015,9/13/2014,FBS,Wake Forest,Utah State,RUSHING,John,Wolford,TD,0
+1087016,9/13/2014,FBS,Wake Forest,Utah State,RUSHING,John,Wolford,LONG,4
+1087017,9/13/2014,FBS,Wake Forest,Utah State,PASSING,John,Wolford,CP-ATT-INT,20-50-2
+1087018,9/13/2014,FBS,Wake Forest,Utah State,PASSING,John,Wolford,YDS,257
+1087019,9/13/2014,FBS,Wake Forest,Utah State,PASSING,John,Wolford,TD,2
+1087020,9/13/2014,FBS,Wake Forest,Utah State,PASSING,John,Wolford,LONG,36
+1087021,9/13/2014,FBS,Wake Forest,Utah State,RECEIVING,Cam,Serigne,REC,7
+1087022,9/13/2014,FBS,Wake Forest,Utah State,RECEIVING,Cam,Serigne,YDS,91
+1087023,9/13/2014,FBS,Wake Forest,Utah State,RECEIVING,Cam,Serigne,TD,0
+1087024,9/13/2014,FBS,Wake Forest,Utah State,RECEIVING,Cam,Serigne,LONG,21
+1087025,9/13/2014,FBS,Wake Forest,Utah State,RECEIVING,E.J.,Scott,REC,5
+1087026,9/13/2014,FBS,Wake Forest,Utah State,RECEIVING,E.J.,Scott,YDS,62
+1087027,9/13/2014,FBS,Wake Forest,Utah State,RECEIVING,E.J.,Scott,TD,1
+1087028,9/13/2014,FBS,Wake Forest,Utah State,RECEIVING,E.J.,Scott,LONG,23
+1087029,9/13/2014,FBS,Wake Forest,Utah State,RECEIVING,Matt,James,REC,3
+1087030,9/13/2014,FBS,Wake Forest,Utah State,RECEIVING,Matt,James,YDS,53
+1087031,9/13/2014,FBS,Wake Forest,Utah State,RECEIVING,Matt,James,TD,0
+1087032,9/13/2014,FBS,Wake Forest,Utah State,RECEIVING,Matt,James,LONG,36
+1087033,9/13/2014,FBS,Wake Forest,Utah State,RECEIVING,Jared,Crump,REC,4
+1087034,9/13/2014,FBS,Wake Forest,Utah State,RECEIVING,Jared,Crump,YDS,48
+1087035,9/13/2014,FBS,Wake Forest,Utah State,RECEIVING,Jared,Crump,TD,0
+1087036,9/13/2014,FBS,Wake Forest,Utah State,RECEIVING,Jared,Crump,LONG,23
+1087037,9/13/2014,FBS,Wake Forest,Utah State,RECEIVING,Isaiah,Robinson,REC,1
+1087038,9/13/2014,FBS,Wake Forest,Utah State,RECEIVING,Isaiah,Robinson,YDS,3
+1087039,9/13/2014,FBS,Wake Forest,Utah State,RECEIVING,Isaiah,Robinson,TD,1
+1087040,9/13/2014,FBS,Wake Forest,Utah State,RECEIVING,Isaiah,Robinson,LONG,3
+1087041,9/13/2014,FBS,Wake Forest,Utah State,KICKING,Mike,Weaver,FG-FGA,1/1
+1087042,9/13/2014,FBS,Wake Forest,Utah State,KICKING,Mike,Weaver,LONG,30
+1087043,9/13/2014,FBS,Wake Forest,Utah State,KICKING,Mike,Weaver,XP,3
+1087044,9/13/2014,FBS,Wake Forest,Utah State,KICKING,Mike,Weaver,PTS,6
+1087045,9/13/2014,FBS,Wake Forest,Utah State,PUNTING,Alexander,Kinal,NO,7
+1087046,9/13/2014,FBS,Wake Forest,Utah State,PUNTING,Alexander,Kinal,YDS,312
+1087047,9/13/2014,FBS,Wake Forest,Utah State,PUNTING,Alexander,Kinal,AVG,44.6
+1087048,9/13/2014,FBS,Wake Forest,Utah State,PUNTING,Alexander,Kinal,LONG,49
+1087049,9/13/2014,FBS,Wake Forest,Utah State,PUNT RETURNS,Jared,Crump,NO,1
+1087050,9/13/2014,FBS,Wake Forest,Utah State,PUNT RETURNS,Jared,Crump,YDS,0
+1087051,9/13/2014,FBS,Wake Forest,Utah State,PUNT RETURNS,Jared,Crump,AVG,-
+1087052,9/13/2014,FBS,Wake Forest,Utah State,PUNT RETURNS,Jared,Crump,LONG,0
+1087053,9/13/2014,FBS,Wake Forest,Utah State,KICK RETURNS,Tyler,Henderson,NO,2
+1087054,9/13/2014,FBS,Wake Forest,Utah State,KICK RETURNS,Tyler,Henderson,YDS,40
+1087055,9/13/2014,FBS,Wake Forest,Utah State,KICK RETURNS,Tyler,Henderson,AVG,20.0
+1087056,9/13/2014,FBS,Wake Forest,Utah State,KICK RETURNS,Tyler,Henderson,LONG,22
+1087057,9/13/2014,FBS,Utah State,Wake Forest,RUSHING,JoJo,Natson,ATT,8
+1087058,9/13/2014,FBS,Utah State,Wake Forest,RUSHING,JoJo,Natson,YDS,49
+1087059,9/13/2014,FBS,Utah State,Wake Forest,RUSHING,JoJo,Natson,TD,0
+1087060,9/13/2014,FBS,Utah State,Wake Forest,RUSHING,JoJo,Natson,LONG,16
+1087061,9/13/2014,FBS,Utah State,Wake Forest,RUSHING,Rashad,Hall,ATT,11
+1087062,9/13/2014,FBS,Utah State,Wake Forest,RUSHING,Rashad,Hall,YDS,14
+1087063,9/13/2014,FBS,Utah State,Wake Forest,RUSHING,Rashad,Hall,TD,0
+1087064,9/13/2014,FBS,Utah State,Wake Forest,RUSHING,Rashad,Hall,LONG,9
+1087065,9/13/2014,FBS,Utah State,Wake Forest,RUSHING,LaJuan,Hunt,ATT,6
+1087066,9/13/2014,FBS,Utah State,Wake Forest,RUSHING,LaJuan,Hunt,YDS,10
+1087067,9/13/2014,FBS,Utah State,Wake Forest,RUSHING,LaJuan,Hunt,TD,0
+1087068,9/13/2014,FBS,Utah State,Wake Forest,RUSHING,LaJuan,Hunt,LONG,6
+1087069,9/13/2014,FBS,Utah State,Wake Forest,RUSHING,Darell,Garretson,ATT,2
+1087070,9/13/2014,FBS,Utah State,Wake Forest,RUSHING,Darell,Garretson,YDS,2
+1087071,9/13/2014,FBS,Utah State,Wake Forest,RUSHING,Darell,Garretson,TD,0
+1087072,9/13/2014,FBS,Utah State,Wake Forest,RUSHING,Darell,Garretson,LONG,9
+1087073,9/13/2014,FBS,Utah State,Wake Forest,RUSHING,Joe,Hill,ATT,2
+1087074,9/13/2014,FBS,Utah State,Wake Forest,RUSHING,Joe,Hill,YDS,-4
+1087075,9/13/2014,FBS,Utah State,Wake Forest,RUSHING,Joe,Hill,TD,0
+1087076,9/13/2014,FBS,Utah State,Wake Forest,RUSHING,Joe,Hill,LONG,2
+1087077,9/13/2014,FBS,Utah State,Wake Forest,RUSHING,Chuckie,Keeton,ATT,4
+1087078,9/13/2014,FBS,Utah State,Wake Forest,RUSHING,Chuckie,Keeton,YDS,-5
+1087079,9/13/2014,FBS,Utah State,Wake Forest,RUSHING,Chuckie,Keeton,TD,0
+1087080,9/13/2014,FBS,Utah State,Wake Forest,RUSHING,Chuckie,Keeton,LONG,2
+1087081,9/13/2014,FBS,Utah State,Wake Forest,RUSHING,,Team,ATT,2
+1087082,9/13/2014,FBS,Utah State,Wake Forest,RUSHING,,Team,YDS,-6
+1087083,9/13/2014,FBS,Utah State,Wake Forest,RUSHING,,Team,TD,0
+1087084,9/13/2014,FBS,Utah State,Wake Forest,RUSHING,,Team,LONG,-2
+1087085,9/13/2014,FBS,Utah State,Wake Forest,PASSING,Chuckie,Keeton,CP-ATT-INT,20-27-1
+1087086,9/13/2014,FBS,Utah State,Wake Forest,PASSING,Chuckie,Keeton,YDS,166
+1087087,9/13/2014,FBS,Utah State,Wake Forest,PASSING,Chuckie,Keeton,TD,1
+1087088,9/13/2014,FBS,Utah State,Wake Forest,PASSING,Chuckie,Keeton,LONG,19
+1087089,9/13/2014,FBS,Utah State,Wake Forest,PASSING,Darell,Garretson,CP-ATT-INT,11-16-1
+1087090,9/13/2014,FBS,Utah State,Wake Forest,PASSING,Darell,Garretson,YDS,121
+1087091,9/13/2014,FBS,Utah State,Wake Forest,PASSING,Darell,Garretson,TD,1
+1087092,9/13/2014,FBS,Utah State,Wake Forest,PASSING,Darell,Garretson,LONG,42
+1087093,9/13/2014,FBS,Utah State,Wake Forest,PASSING,Ronald,Butler,CP-ATT-INT,1-1-0
+1087094,9/13/2014,FBS,Utah State,Wake Forest,PASSING,Ronald,Butler,YDS,44
+1087095,9/13/2014,FBS,Utah State,Wake Forest,PASSING,Ronald,Butler,TD,1
+1087096,9/13/2014,FBS,Utah State,Wake Forest,PASSING,Ronald,Butler,LONG,44
+1087097,9/13/2014,FBS,Utah State,Wake Forest,RECEIVING,Hunter,Sharp,REC,12
+1087098,9/13/2014,FBS,Utah State,Wake Forest,RECEIVING,Hunter,Sharp,YDS,138
+1087099,9/13/2014,FBS,Utah State,Wake Forest,RECEIVING,Hunter,Sharp,TD,0
+1087100,9/13/2014,FBS,Utah State,Wake Forest,RECEIVING,Hunter,Sharp,LONG,31
+1087101,9/13/2014,FBS,Utah State,Wake Forest,RECEIVING,JoJo,Natson,REC,6
+1087102,9/13/2014,FBS,Utah State,Wake Forest,RECEIVING,JoJo,Natson,YDS,78
+1087103,9/13/2014,FBS,Utah State,Wake Forest,RECEIVING,JoJo,Natson,TD,1
+1087104,9/13/2014,FBS,Utah State,Wake Forest,RECEIVING,JoJo,Natson,LONG,44
+1087105,9/13/2014,FBS,Utah State,Wake Forest,RECEIVING,Ronald,Butler,REC,4
+1087106,9/13/2014,FBS,Utah State,Wake Forest,RECEIVING,Ronald,Butler,YDS,58
+1087107,9/13/2014,FBS,Utah State,Wake Forest,RECEIVING,Ronald,Butler,TD,0
+1087108,9/13/2014,FBS,Utah State,Wake Forest,RECEIVING,Ronald,Butler,LONG,42
+1087109,9/13/2014,FBS,Utah State,Wake Forest,RECEIVING,Wyatt,Houston,REC,4
+1087110,9/13/2014,FBS,Utah State,Wake Forest,RECEIVING,Wyatt,Houston,YDS,32
+1087111,9/13/2014,FBS,Utah State,Wake Forest,RECEIVING,Wyatt,Houston,TD,1
+1087112,9/13/2014,FBS,Utah State,Wake Forest,RECEIVING,Wyatt,Houston,LONG,12
+1087113,9/13/2014,FBS,Utah State,Wake Forest,RECEIVING,Hayden,Weichers,REC,1
+1087114,9/13/2014,FBS,Utah State,Wake Forest,RECEIVING,Hayden,Weichers,YDS,9
+1087115,9/13/2014,FBS,Utah State,Wake Forest,RECEIVING,Hayden,Weichers,TD,0
+1087116,9/13/2014,FBS,Utah State,Wake Forest,RECEIVING,Hayden,Weichers,LONG,9
+1087117,9/13/2014,FBS,Utah State,Wake Forest,RECEIVING,Damoun,Patterson,REC,2
+1087118,9/13/2014,FBS,Utah State,Wake Forest,RECEIVING,Damoun,Patterson,YDS,9
+1087119,9/13/2014,FBS,Utah State,Wake Forest,RECEIVING,Damoun,Patterson,TD,0
+1087120,9/13/2014,FBS,Utah State,Wake Forest,RECEIVING,Damoun,Patterson,LONG,7
+1087121,9/13/2014,FBS,Utah State,Wake Forest,RECEIVING,Jefferson,Court,REC,2
+1087122,9/13/2014,FBS,Utah State,Wake Forest,RECEIVING,Jefferson,Court,YDS,7
+1087123,9/13/2014,FBS,Utah State,Wake Forest,RECEIVING,Jefferson,Court,TD,1
+1087124,9/13/2014,FBS,Utah State,Wake Forest,RECEIVING,Jefferson,Court,LONG,6
+1087125,9/13/2014,FBS,Utah State,Wake Forest,RECEIVING,Rashad,Hall,REC,1
+1087126,9/13/2014,FBS,Utah State,Wake Forest,RECEIVING,Rashad,Hall,YDS,0
+1087127,9/13/2014,FBS,Utah State,Wake Forest,RECEIVING,Rashad,Hall,TD,0
+1087128,9/13/2014,FBS,Utah State,Wake Forest,RECEIVING,Rashad,Hall,LONG,0
+1087129,9/13/2014,FBS,Utah State,Wake Forest,KICKING,Nick,Diaz,FG-FGA,1/2
+1087130,9/13/2014,FBS,Utah State,Wake Forest,KICKING,Nick,Diaz,LONG,26
+1087131,9/13/2014,FBS,Utah State,Wake Forest,KICKING,Nick,Diaz,XP,3
+1087132,9/13/2014,FBS,Utah State,Wake Forest,KICKING,Nick,Diaz,PTS,6
+1087133,9/13/2014,FBS,Utah State,Wake Forest,PUNTING,Jaron,Bentrude,NO,6
+1087134,9/13/2014,FBS,Utah State,Wake Forest,PUNTING,Jaron,Bentrude,YDS,264
+1087135,9/13/2014,FBS,Utah State,Wake Forest,PUNTING,Jaron,Bentrude,AVG,44.0
+1087136,9/13/2014,FBS,Utah State,Wake Forest,PUNTING,Jaron,Bentrude,LONG,52
+1087137,9/13/2014,FBS,Utah State,Wake Forest,PUNT RETURNS,JoJo,Natson,NO,2
+1087138,9/13/2014,FBS,Utah State,Wake Forest,PUNT RETURNS,JoJo,Natson,YDS,16
+1087139,9/13/2014,FBS,Utah State,Wake Forest,PUNT RETURNS,JoJo,Natson,AVG,8.0
+1087140,9/13/2014,FBS,Utah State,Wake Forest,PUNT RETURNS,JoJo,Natson,LONG,16
+1087141,9/13/2014,FBS,Utah State,Wake Forest,KICK RETURNS,Kennedy,Williams,NO,3
+1087142,9/13/2014,FBS,Utah State,Wake Forest,KICK RETURNS,Kennedy,Williams,YDS,72
+1087143,9/13/2014,FBS,Utah State,Wake Forest,KICK RETURNS,Kennedy,Williams,AVG,24.0
+1087144,9/13/2014,FBS,Utah State,Wake Forest,KICK RETURNS,Kennedy,Williams,LONG,30

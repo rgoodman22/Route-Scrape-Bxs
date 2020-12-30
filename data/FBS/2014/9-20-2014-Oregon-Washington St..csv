@@ -1,0 +1,129 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1098001,9/20/2014,FBS,Oregon,Washington St.,RUSHING,Royce,Freeman,ATT,20
+1098002,9/20/2014,FBS,Oregon,Washington St.,RUSHING,Royce,Freeman,YDS,75
+1098003,9/20/2014,FBS,Oregon,Washington St.,RUSHING,Royce,Freeman,TD,0
+1098004,9/20/2014,FBS,Oregon,Washington St.,RUSHING,Royce,Freeman,LONG,18
+1098005,9/20/2014,FBS,Oregon,Washington St.,RUSHING,Marcus,Mariota,ATT,13
+1098006,9/20/2014,FBS,Oregon,Washington St.,RUSHING,Marcus,Mariota,YDS,58
+1098007,9/20/2014,FBS,Oregon,Washington St.,RUSHING,Marcus,Mariota,TD,0
+1098008,9/20/2014,FBS,Oregon,Washington St.,RUSHING,Marcus,Mariota,LONG,41
+1098009,9/20/2014,FBS,Oregon,Washington St.,RUSHING,Byron,Marshall,ATT,2
+1098010,9/20/2014,FBS,Oregon,Washington St.,RUSHING,Byron,Marshall,YDS,22
+1098011,9/20/2014,FBS,Oregon,Washington St.,RUSHING,Byron,Marshall,TD,0
+1098012,9/20/2014,FBS,Oregon,Washington St.,RUSHING,Byron,Marshall,LONG,15
+1098013,9/20/2014,FBS,Oregon,Washington St.,RUSHING,Thomas,Tyner,ATT,5
+1098014,9/20/2014,FBS,Oregon,Washington St.,RUSHING,Thomas,Tyner,YDS,20
+1098015,9/20/2014,FBS,Oregon,Washington St.,RUSHING,Thomas,Tyner,TD,0
+1098016,9/20/2014,FBS,Oregon,Washington St.,RUSHING,Thomas,Tyner,LONG,7
+1098017,9/20/2014,FBS,Oregon,Washington St.,RUSHING,Tyrell,Crosby,ATT,0
+1098018,9/20/2014,FBS,Oregon,Washington St.,RUSHING,Tyrell,Crosby,YDS,0
+1098019,9/20/2014,FBS,Oregon,Washington St.,RUSHING,Tyrell,Crosby,TD,0
+1098020,9/20/2014,FBS,Oregon,Washington St.,RUSHING,Tyrell,Crosby,LONG,0
+1098021,9/20/2014,FBS,Oregon,Washington St.,RUSHING,,Team,ATT,2
+1098022,9/20/2014,FBS,Oregon,Washington St.,RUSHING,,Team,YDS,-3
+1098023,9/20/2014,FBS,Oregon,Washington St.,RUSHING,,Team,TD,0
+1098024,9/20/2014,FBS,Oregon,Washington St.,RUSHING,,Team,LONG,-1
+1098025,9/20/2014,FBS,Oregon,Washington St.,PASSING,Marcus,Mariota,CP-ATT-INT,21-25-0
+1098026,9/20/2014,FBS,Oregon,Washington St.,PASSING,Marcus,Mariota,YDS,329
+1098027,9/20/2014,FBS,Oregon,Washington St.,PASSING,Marcus,Mariota,TD,5
+1098028,9/20/2014,FBS,Oregon,Washington St.,PASSING,Marcus,Mariota,LONG,80
+1098029,9/20/2014,FBS,Oregon,Washington St.,RECEIVING,Devon,Allen,REC,7
+1098030,9/20/2014,FBS,Oregon,Washington St.,RECEIVING,Devon,Allen,YDS,142
+1098031,9/20/2014,FBS,Oregon,Washington St.,RECEIVING,Devon,Allen,TD,2
+1098032,9/20/2014,FBS,Oregon,Washington St.,RECEIVING,Devon,Allen,LONG,80
+1098033,9/20/2014,FBS,Oregon,Washington St.,RECEIVING,Keanon,Lowe,REC,5
+1098034,9/20/2014,FBS,Oregon,Washington St.,RECEIVING,Keanon,Lowe,YDS,104
+1098035,9/20/2014,FBS,Oregon,Washington St.,RECEIVING,Keanon,Lowe,TD,2
+1098036,9/20/2014,FBS,Oregon,Washington St.,RECEIVING,Keanon,Lowe,LONG,57
+1098037,9/20/2014,FBS,Oregon,Washington St.,RECEIVING,Byron,Marshall,REC,6
+1098038,9/20/2014,FBS,Oregon,Washington St.,RECEIVING,Byron,Marshall,YDS,45
+1098039,9/20/2014,FBS,Oregon,Washington St.,RECEIVING,Byron,Marshall,TD,0
+1098040,9/20/2014,FBS,Oregon,Washington St.,RECEIVING,Byron,Marshall,LONG,18
+1098041,9/20/2014,FBS,Oregon,Washington St.,RECEIVING,Pharaoh,Brown,REC,3
+1098042,9/20/2014,FBS,Oregon,Washington St.,RECEIVING,Pharaoh,Brown,YDS,38
+1098043,9/20/2014,FBS,Oregon,Washington St.,RECEIVING,Pharaoh,Brown,TD,1
+1098044,9/20/2014,FBS,Oregon,Washington St.,RECEIVING,Pharaoh,Brown,LONG,27
+1098045,9/20/2014,FBS,Oregon,Washington St.,KICKING,Matt,Wogan,FG-FGA,1/2
+1098046,9/20/2014,FBS,Oregon,Washington St.,KICKING,Matt,Wogan,LONG,34
+1098047,9/20/2014,FBS,Oregon,Washington St.,KICKING,Matt,Wogan,XP,5
+1098048,9/20/2014,FBS,Oregon,Washington St.,KICKING,Matt,Wogan,PTS,8
+1098049,9/20/2014,FBS,Oregon,Washington St.,PUNTING,Ian,Wheeler,NO,4
+1098050,9/20/2014,FBS,Oregon,Washington St.,PUNTING,Ian,Wheeler,YDS,144
+1098051,9/20/2014,FBS,Oregon,Washington St.,PUNTING,Ian,Wheeler,AVG,36.0
+1098052,9/20/2014,FBS,Oregon,Washington St.,PUNTING,Ian,Wheeler,LONG,41
+1098053,9/20/2014,FBS,Oregon,Washington St.,PUNT RETURNS,Charles,Nelson,NO,2
+1098054,9/20/2014,FBS,Oregon,Washington St.,PUNT RETURNS,Charles,Nelson,YDS,12
+1098055,9/20/2014,FBS,Oregon,Washington St.,PUNT RETURNS,Charles,Nelson,AVG,6.0
+1098056,9/20/2014,FBS,Oregon,Washington St.,PUNT RETURNS,Charles,Nelson,LONG,7
+1098057,9/20/2014,FBS,Oregon,Washington St.,KICK RETURNS,Thomas,Tyner,NO,4
+1098058,9/20/2014,FBS,Oregon,Washington St.,KICK RETURNS,Thomas,Tyner,YDS,80
+1098059,9/20/2014,FBS,Oregon,Washington St.,KICK RETURNS,Thomas,Tyner,AVG,20.0
+1098060,9/20/2014,FBS,Oregon,Washington St.,KICK RETURNS,Thomas,Tyner,LONG,30
+1098061,9/20/2014,FBS,Washington St.,Oregon,RUSHING,Gerard,Wicks,ATT,7
+1098062,9/20/2014,FBS,Washington St.,Oregon,RUSHING,Gerard,Wicks,YDS,36
+1098063,9/20/2014,FBS,Washington St.,Oregon,RUSHING,Gerard,Wicks,TD,0
+1098064,9/20/2014,FBS,Washington St.,Oregon,RUSHING,Gerard,Wicks,LONG,15
+1098065,9/20/2014,FBS,Washington St.,Oregon,RUSHING,Jamal,Morrow,ATT,9
+1098066,9/20/2014,FBS,Washington St.,Oregon,RUSHING,Jamal,Morrow,YDS,33
+1098067,9/20/2014,FBS,Washington St.,Oregon,RUSHING,Jamal,Morrow,TD,0
+1098068,9/20/2014,FBS,Washington St.,Oregon,RUSHING,Jamal,Morrow,LONG,12
+1098069,9/20/2014,FBS,Washington St.,Oregon,RUSHING,Connor,Halliday,ATT,1
+1098070,9/20/2014,FBS,Washington St.,Oregon,RUSHING,Connor,Halliday,YDS,-6
+1098071,9/20/2014,FBS,Washington St.,Oregon,RUSHING,Connor,Halliday,TD,0
+1098072,9/20/2014,FBS,Washington St.,Oregon,RUSHING,Connor,Halliday,LONG,-6
+1098073,9/20/2014,FBS,Washington St.,Oregon,PASSING,Connor,Halliday,CP-ATT-INT,43-63-0
+1098074,9/20/2014,FBS,Washington St.,Oregon,PASSING,Connor,Halliday,YDS,436
+1098075,9/20/2014,FBS,Washington St.,Oregon,PASSING,Connor,Halliday,TD,4
+1098076,9/20/2014,FBS,Washington St.,Oregon,PASSING,Connor,Halliday,LONG,45
+1098077,9/20/2014,FBS,Washington St.,Oregon,RECEIVING,River,Cracraft,REC,8
+1098078,9/20/2014,FBS,Washington St.,Oregon,RECEIVING,River,Cracraft,YDS,107
+1098079,9/20/2014,FBS,Washington St.,Oregon,RECEIVING,River,Cracraft,TD,1
+1098080,9/20/2014,FBS,Washington St.,Oregon,RECEIVING,River,Cracraft,LONG,37
+1098081,9/20/2014,FBS,Washington St.,Oregon,RECEIVING,Jamal,Morrow,REC,6
+1098082,9/20/2014,FBS,Washington St.,Oregon,RECEIVING,Jamal,Morrow,YDS,79
+1098083,9/20/2014,FBS,Washington St.,Oregon,RECEIVING,Jamal,Morrow,TD,0
+1098084,9/20/2014,FBS,Washington St.,Oregon,RECEIVING,Jamal,Morrow,LONG,45
+1098085,9/20/2014,FBS,Washington St.,Oregon,RECEIVING,Vince,Mayle,REC,7
+1098086,9/20/2014,FBS,Washington St.,Oregon,RECEIVING,Vince,Mayle,YDS,75
+1098087,9/20/2014,FBS,Washington St.,Oregon,RECEIVING,Vince,Mayle,TD,0
+1098088,9/20/2014,FBS,Washington St.,Oregon,RECEIVING,Vince,Mayle,LONG,34
+1098089,9/20/2014,FBS,Washington St.,Oregon,RECEIVING,Dom,Williams,REC,5
+1098090,9/20/2014,FBS,Washington St.,Oregon,RECEIVING,Dom,Williams,YDS,63
+1098091,9/20/2014,FBS,Washington St.,Oregon,RECEIVING,Dom,Williams,TD,2
+1098092,9/20/2014,FBS,Washington St.,Oregon,RECEIVING,Dom,Williams,LONG,19
+1098093,9/20/2014,FBS,Washington St.,Oregon,RECEIVING,Rickey,Galvin,REC,5
+1098094,9/20/2014,FBS,Washington St.,Oregon,RECEIVING,Rickey,Galvin,YDS,50
+1098095,9/20/2014,FBS,Washington St.,Oregon,RECEIVING,Rickey,Galvin,TD,1
+1098096,9/20/2014,FBS,Washington St.,Oregon,RECEIVING,Rickey,Galvin,LONG,22
+1098097,9/20/2014,FBS,Washington St.,Oregon,RECEIVING,Isiah,Myers,REC,6
+1098098,9/20/2014,FBS,Washington St.,Oregon,RECEIVING,Isiah,Myers,YDS,28
+1098099,9/20/2014,FBS,Washington St.,Oregon,RECEIVING,Isiah,Myers,TD,0
+1098100,9/20/2014,FBS,Washington St.,Oregon,RECEIVING,Isiah,Myers,LONG,8
+1098101,9/20/2014,FBS,Washington St.,Oregon,RECEIVING,Gerard,Wicks,REC,2
+1098102,9/20/2014,FBS,Washington St.,Oregon,RECEIVING,Gerard,Wicks,YDS,16
+1098103,9/20/2014,FBS,Washington St.,Oregon,RECEIVING,Gerard,Wicks,TD,0
+1098104,9/20/2014,FBS,Washington St.,Oregon,RECEIVING,Gerard,Wicks,LONG,11
+1098105,9/20/2014,FBS,Washington St.,Oregon,RECEIVING,Robert,Lewis,REC,2
+1098106,9/20/2014,FBS,Washington St.,Oregon,RECEIVING,Robert,Lewis,YDS,13
+1098107,9/20/2014,FBS,Washington St.,Oregon,RECEIVING,Robert,Lewis,TD,0
+1098108,9/20/2014,FBS,Washington St.,Oregon,RECEIVING,Robert,Lewis,LONG,9
+1098109,9/20/2014,FBS,Washington St.,Oregon,RECEIVING,Calvin,Green,REC,2
+1098110,9/20/2014,FBS,Washington St.,Oregon,RECEIVING,Calvin,Green,YDS,5
+1098111,9/20/2014,FBS,Washington St.,Oregon,RECEIVING,Calvin,Green,TD,0
+1098112,9/20/2014,FBS,Washington St.,Oregon,RECEIVING,Calvin,Green,LONG,3
+1098113,9/20/2014,FBS,Washington St.,Oregon,KICKING,Quentin,Breshears,FG-FGA,1/2
+1098114,9/20/2014,FBS,Washington St.,Oregon,KICKING,Quentin,Breshears,LONG,30
+1098115,9/20/2014,FBS,Washington St.,Oregon,KICKING,Quentin,Breshears,XP,4
+1098116,9/20/2014,FBS,Washington St.,Oregon,KICKING,Quentin,Breshears,PTS,7
+1098117,9/20/2014,FBS,Washington St.,Oregon,PUNTING,Jordan,Dascalo,NO,2
+1098118,9/20/2014,FBS,Washington St.,Oregon,PUNTING,Jordan,Dascalo,YDS,89
+1098119,9/20/2014,FBS,Washington St.,Oregon,PUNTING,Jordan,Dascalo,AVG,44.5
+1098120,9/20/2014,FBS,Washington St.,Oregon,PUNTING,Jordan,Dascalo,LONG,48
+1098121,9/20/2014,FBS,Washington St.,Oregon,PUNT RETURNS,Rickey,Galvin,NO,3
+1098122,9/20/2014,FBS,Washington St.,Oregon,PUNT RETURNS,Rickey,Galvin,YDS,10
+1098123,9/20/2014,FBS,Washington St.,Oregon,PUNT RETURNS,Rickey,Galvin,AVG,3.3
+1098124,9/20/2014,FBS,Washington St.,Oregon,PUNT RETURNS,Rickey,Galvin,LONG,11
+1098125,9/20/2014,FBS,Washington St.,Oregon,KICK RETURNS,Jamal,Morrow,NO,3
+1098126,9/20/2014,FBS,Washington St.,Oregon,KICK RETURNS,Jamal,Morrow,YDS,65
+1098127,9/20/2014,FBS,Washington St.,Oregon,KICK RETURNS,Jamal,Morrow,AVG,21.7
+1098128,9/20/2014,FBS,Washington St.,Oregon,KICK RETURNS,Jamal,Morrow,LONG,26

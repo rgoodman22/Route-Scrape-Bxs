@@ -1,0 +1,141 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1738001,12/31/2014,FBS,Mississippi St.,Georgia Tech,RUSHING,Josh,Robinson,ATT,13
+1738002,12/31/2014,FBS,Mississippi St.,Georgia Tech,RUSHING,Josh,Robinson,YDS,75
+1738003,12/31/2014,FBS,Mississippi St.,Georgia Tech,RUSHING,Josh,Robinson,TD,0
+1738004,12/31/2014,FBS,Mississippi St.,Georgia Tech,RUSHING,Josh,Robinson,LONG,18
+1738005,12/31/2014,FBS,Mississippi St.,Georgia Tech,RUSHING,Dak,Prescott,ATT,15
+1738006,12/31/2014,FBS,Mississippi St.,Georgia Tech,RUSHING,Dak,Prescott,YDS,47
+1738007,12/31/2014,FBS,Mississippi St.,Georgia Tech,RUSHING,Dak,Prescott,TD,1
+1738008,12/31/2014,FBS,Mississippi St.,Georgia Tech,RUSHING,Dak,Prescott,LONG,15
+1738009,12/31/2014,FBS,Mississippi St.,Georgia Tech,RUSHING,Ashton,Shumpert,ATT,4
+1738010,12/31/2014,FBS,Mississippi St.,Georgia Tech,RUSHING,Ashton,Shumpert,YDS,25
+1738011,12/31/2014,FBS,Mississippi St.,Georgia Tech,RUSHING,Ashton,Shumpert,TD,0
+1738012,12/31/2014,FBS,Mississippi St.,Georgia Tech,RUSHING,Ashton,Shumpert,LONG,13
+1738013,12/31/2014,FBS,Mississippi St.,Georgia Tech,RUSHING,Jameon,Lewis,ATT,1
+1738014,12/31/2014,FBS,Mississippi St.,Georgia Tech,RUSHING,Jameon,Lewis,YDS,5
+1738015,12/31/2014,FBS,Mississippi St.,Georgia Tech,RUSHING,Jameon,Lewis,TD,0
+1738016,12/31/2014,FBS,Mississippi St.,Georgia Tech,RUSHING,Jameon,Lewis,LONG,5
+1738017,12/31/2014,FBS,Mississippi St.,Georgia Tech,PASSING,Dak,Prescott,CP-ATT-INT,33-51-1
+1738018,12/31/2014,FBS,Mississippi St.,Georgia Tech,PASSING,Dak,Prescott,YDS,453
+1738019,12/31/2014,FBS,Mississippi St.,Georgia Tech,PASSING,Dak,Prescott,TD,3
+1738020,12/31/2014,FBS,Mississippi St.,Georgia Tech,PASSING,Dak,Prescott,LONG,42
+1738021,12/31/2014,FBS,Mississippi St.,Georgia Tech,RECEIVING,Joe,Morrow,REC,6
+1738022,12/31/2014,FBS,Mississippi St.,Georgia Tech,RECEIVING,Joe,Morrow,YDS,117
+1738023,12/31/2014,FBS,Mississippi St.,Georgia Tech,RECEIVING,Joe,Morrow,TD,0
+1738024,12/31/2014,FBS,Mississippi St.,Georgia Tech,RECEIVING,Joe,Morrow,LONG,35
+1738025,12/31/2014,FBS,Mississippi St.,Georgia Tech,RECEIVING,De'Runnya,Wilson,REC,9
+1738026,12/31/2014,FBS,Mississippi St.,Georgia Tech,RECEIVING,De'Runnya,Wilson,YDS,105
+1738027,12/31/2014,FBS,Mississippi St.,Georgia Tech,RECEIVING,De'Runnya,Wilson,TD,2
+1738028,12/31/2014,FBS,Mississippi St.,Georgia Tech,RECEIVING,De'Runnya,Wilson,LONG,18
+1738029,12/31/2014,FBS,Mississippi St.,Georgia Tech,RECEIVING,Fred,Ross,REC,6
+1738030,12/31/2014,FBS,Mississippi St.,Georgia Tech,RECEIVING,Fred,Ross,YDS,102
+1738031,12/31/2014,FBS,Mississippi St.,Georgia Tech,RECEIVING,Fred,Ross,TD,1
+1738032,12/31/2014,FBS,Mississippi St.,Georgia Tech,RECEIVING,Fred,Ross,LONG,42
+1738033,12/31/2014,FBS,Mississippi St.,Georgia Tech,RECEIVING,Jameon,Lewis,REC,5
+1738034,12/31/2014,FBS,Mississippi St.,Georgia Tech,RECEIVING,Jameon,Lewis,YDS,63
+1738035,12/31/2014,FBS,Mississippi St.,Georgia Tech,RECEIVING,Jameon,Lewis,TD,0
+1738036,12/31/2014,FBS,Mississippi St.,Georgia Tech,RECEIVING,Jameon,Lewis,LONG,18
+1738037,12/31/2014,FBS,Mississippi St.,Georgia Tech,RECEIVING,Malcolm,Johnson,REC,3
+1738038,12/31/2014,FBS,Mississippi St.,Georgia Tech,RECEIVING,Malcolm,Johnson,YDS,36
+1738039,12/31/2014,FBS,Mississippi St.,Georgia Tech,RECEIVING,Malcolm,Johnson,TD,0
+1738040,12/31/2014,FBS,Mississippi St.,Georgia Tech,RECEIVING,Malcolm,Johnson,LONG,14
+1738041,12/31/2014,FBS,Mississippi St.,Georgia Tech,RECEIVING,Robert,Johnson,REC,2
+1738042,12/31/2014,FBS,Mississippi St.,Georgia Tech,RECEIVING,Robert,Johnson,YDS,17
+1738043,12/31/2014,FBS,Mississippi St.,Georgia Tech,RECEIVING,Robert,Johnson,TD,0
+1738044,12/31/2014,FBS,Mississippi St.,Georgia Tech,RECEIVING,Robert,Johnson,LONG,9
+1738045,12/31/2014,FBS,Mississippi St.,Georgia Tech,RECEIVING,Gus,Walley,REC,1
+1738046,12/31/2014,FBS,Mississippi St.,Georgia Tech,RECEIVING,Gus,Walley,YDS,7
+1738047,12/31/2014,FBS,Mississippi St.,Georgia Tech,RECEIVING,Gus,Walley,TD,0
+1738048,12/31/2014,FBS,Mississippi St.,Georgia Tech,RECEIVING,Gus,Walley,LONG,7
+1738049,12/31/2014,FBS,Mississippi St.,Georgia Tech,RECEIVING,Fred,Brown,REC,1
+1738050,12/31/2014,FBS,Mississippi St.,Georgia Tech,RECEIVING,Fred,Brown,YDS,6
+1738051,12/31/2014,FBS,Mississippi St.,Georgia Tech,RECEIVING,Fred,Brown,TD,0
+1738052,12/31/2014,FBS,Mississippi St.,Georgia Tech,RECEIVING,Fred,Brown,LONG,6
+1738053,12/31/2014,FBS,Mississippi St.,Georgia Tech,KICKING,Evan,Sobiesk,FG-FGA,2/2
+1738054,12/31/2014,FBS,Mississippi St.,Georgia Tech,KICKING,Evan,Sobiesk,LONG,32
+1738055,12/31/2014,FBS,Mississippi St.,Georgia Tech,KICKING,Evan,Sobiesk,XP,4
+1738056,12/31/2014,FBS,Mississippi St.,Georgia Tech,KICKING,Evan,Sobiesk,PTS,10
+1738057,12/31/2014,FBS,Mississippi St.,Georgia Tech,PUNTING,Devon,Bell,NO,1
+1738058,12/31/2014,FBS,Mississippi St.,Georgia Tech,PUNTING,Devon,Bell,YDS,51
+1738059,12/31/2014,FBS,Mississippi St.,Georgia Tech,PUNTING,Devon,Bell,AVG,51.0
+1738060,12/31/2014,FBS,Mississippi St.,Georgia Tech,PUNTING,Devon,Bell,LONG,51
+1738061,12/31/2014,FBS,Mississippi St.,Georgia Tech,PUNT RETURNS,Fred,Ross,NO,2
+1738062,12/31/2014,FBS,Mississippi St.,Georgia Tech,PUNT RETURNS,Fred,Ross,YDS,51
+1738063,12/31/2014,FBS,Mississippi St.,Georgia Tech,PUNT RETURNS,Fred,Ross,AVG,25.5
+1738064,12/31/2014,FBS,Mississippi St.,Georgia Tech,PUNT RETURNS,Fred,Ross,LONG,34
+1738065,12/31/2014,FBS,Mississippi St.,Georgia Tech,KICK RETURNS,Robert,Johnson,NO,2
+1738066,12/31/2014,FBS,Mississippi St.,Georgia Tech,KICK RETURNS,Robert,Johnson,YDS,33
+1738067,12/31/2014,FBS,Mississippi St.,Georgia Tech,KICK RETURNS,Robert,Johnson,AVG,16.5
+1738068,12/31/2014,FBS,Mississippi St.,Georgia Tech,KICK RETURNS,Robert,Johnson,LONG,18
+1738069,12/31/2014,FBS,Mississippi St.,Georgia Tech,KICK RETURNS,Brandon,Holloway,NO,1
+1738070,12/31/2014,FBS,Mississippi St.,Georgia Tech,KICK RETURNS,Brandon,Holloway,YDS,19
+1738071,12/31/2014,FBS,Mississippi St.,Georgia Tech,KICK RETURNS,Brandon,Holloway,AVG,19.0
+1738072,12/31/2014,FBS,Mississippi St.,Georgia Tech,KICK RETURNS,Brandon,Holloway,LONG,19
+1738073,12/31/2014,FBS,Mississippi St.,Georgia Tech,KICK RETURNS,Brandon,Hill,NO,0
+1738074,12/31/2014,FBS,Mississippi St.,Georgia Tech,KICK RETURNS,Brandon,Hill,YDS,0
+1738075,12/31/2014,FBS,Mississippi St.,Georgia Tech,KICK RETURNS,Brandon,Hill,AVG,-
+1738076,12/31/2014,FBS,Mississippi St.,Georgia Tech,KICK RETURNS,Brandon,Hill,LONG,0
+1738077,12/31/2014,FBS,Georgia Tech,Mississippi St.,RUSHING,Synjyn,Days,ATT,21
+1738078,12/31/2014,FBS,Georgia Tech,Mississippi St.,RUSHING,Synjyn,Days,YDS,171
+1738079,12/31/2014,FBS,Georgia Tech,Mississippi St.,RUSHING,Synjyn,Days,TD,3
+1738080,12/31/2014,FBS,Georgia Tech,Mississippi St.,RUSHING,Synjyn,Days,LONG,69
+1738081,12/31/2014,FBS,Georgia Tech,Mississippi St.,RUSHING,Justin,Thomas,ATT,14
+1738082,12/31/2014,FBS,Georgia Tech,Mississippi St.,RUSHING,Justin,Thomas,YDS,121
+1738083,12/31/2014,FBS,Georgia Tech,Mississippi St.,RUSHING,Justin,Thomas,TD,3
+1738084,12/31/2014,FBS,Georgia Tech,Mississippi St.,RUSHING,Justin,Thomas,LONG,32
+1738085,12/31/2014,FBS,Georgia Tech,Mississippi St.,RUSHING,Zach,Laskey,ATT,10
+1738086,12/31/2014,FBS,Georgia Tech,Mississippi St.,RUSHING,Zach,Laskey,YDS,63
+1738087,12/31/2014,FBS,Georgia Tech,Mississippi St.,RUSHING,Zach,Laskey,TD,0
+1738088,12/31/2014,FBS,Georgia Tech,Mississippi St.,RUSHING,Zach,Laskey,LONG,20
+1738089,12/31/2014,FBS,Georgia Tech,Mississippi St.,RUSHING,Charles,Perkins,ATT,7
+1738090,12/31/2014,FBS,Georgia Tech,Mississippi St.,RUSHING,Charles,Perkins,YDS,59
+1738091,12/31/2014,FBS,Georgia Tech,Mississippi St.,RUSHING,Charles,Perkins,TD,0
+1738092,12/31/2014,FBS,Georgia Tech,Mississippi St.,RUSHING,Charles,Perkins,LONG,23
+1738093,12/31/2014,FBS,Georgia Tech,Mississippi St.,RUSHING,Deon,Hill,ATT,5
+1738094,12/31/2014,FBS,Georgia Tech,Mississippi St.,RUSHING,Deon,Hill,YDS,23
+1738095,12/31/2014,FBS,Georgia Tech,Mississippi St.,RUSHING,Deon,Hill,TD,0
+1738096,12/31/2014,FBS,Georgia Tech,Mississippi St.,RUSHING,Deon,Hill,LONG,14
+1738097,12/31/2014,FBS,Georgia Tech,Mississippi St.,RUSHING,B.J.,Bostic,ATT,2
+1738098,12/31/2014,FBS,Georgia Tech,Mississippi St.,RUSHING,B.J.,Bostic,YDS,15
+1738099,12/31/2014,FBS,Georgia Tech,Mississippi St.,RUSHING,B.J.,Bostic,TD,0
+1738100,12/31/2014,FBS,Georgia Tech,Mississippi St.,RUSHING,B.J.,Bostic,LONG,10
+1738101,12/31/2014,FBS,Georgia Tech,Mississippi St.,RUSHING,Dennis,Andrews,ATT,1
+1738102,12/31/2014,FBS,Georgia Tech,Mississippi St.,RUSHING,Dennis,Andrews,YDS,1
+1738103,12/31/2014,FBS,Georgia Tech,Mississippi St.,RUSHING,Dennis,Andrews,TD,0
+1738104,12/31/2014,FBS,Georgia Tech,Mississippi St.,RUSHING,Dennis,Andrews,LONG,1
+1738105,12/31/2014,FBS,Georgia Tech,Mississippi St.,RUSHING,Bryan,Chamberlain,ATT,0
+1738106,12/31/2014,FBS,Georgia Tech,Mississippi St.,RUSHING,Bryan,Chamberlain,YDS,0
+1738107,12/31/2014,FBS,Georgia Tech,Mississippi St.,RUSHING,Bryan,Chamberlain,TD,0
+1738108,12/31/2014,FBS,Georgia Tech,Mississippi St.,RUSHING,Bryan,Chamberlain,LONG,0
+1738109,12/31/2014,FBS,Georgia Tech,Mississippi St.,RUSHING,,Team,ATT,1
+1738110,12/31/2014,FBS,Georgia Tech,Mississippi St.,RUSHING,,Team,YDS,-1
+1738111,12/31/2014,FBS,Georgia Tech,Mississippi St.,RUSHING,,Team,TD,0
+1738112,12/31/2014,FBS,Georgia Tech,Mississippi St.,RUSHING,,Team,LONG,-1
+1738113,12/31/2014,FBS,Georgia Tech,Mississippi St.,PASSING,Justin,Thomas,CP-ATT-INT,7-12-1
+1738114,12/31/2014,FBS,Georgia Tech,Mississippi St.,PASSING,Justin,Thomas,YDS,125
+1738115,12/31/2014,FBS,Georgia Tech,Mississippi St.,PASSING,Justin,Thomas,TD,1
+1738116,12/31/2014,FBS,Georgia Tech,Mississippi St.,PASSING,Justin,Thomas,LONG,41
+1738117,12/31/2014,FBS,Georgia Tech,Mississippi St.,RECEIVING,Darren,Waller,REC,5
+1738118,12/31/2014,FBS,Georgia Tech,Mississippi St.,RECEIVING,Darren,Waller,YDS,114
+1738119,12/31/2014,FBS,Georgia Tech,Mississippi St.,RECEIVING,Darren,Waller,TD,1
+1738120,12/31/2014,FBS,Georgia Tech,Mississippi St.,RECEIVING,Darren,Waller,LONG,41
+1738121,12/31/2014,FBS,Georgia Tech,Mississippi St.,RECEIVING,Micheal,Summers,REC,2
+1738122,12/31/2014,FBS,Georgia Tech,Mississippi St.,RECEIVING,Micheal,Summers,YDS,11
+1738123,12/31/2014,FBS,Georgia Tech,Mississippi St.,RECEIVING,Micheal,Summers,TD,0
+1738124,12/31/2014,FBS,Georgia Tech,Mississippi St.,RECEIVING,Micheal,Summers,LONG,6
+1738125,12/31/2014,FBS,Georgia Tech,Mississippi St.,KICKING,Harrison,Butker,FG-FGA,0/0
+1738126,12/31/2014,FBS,Georgia Tech,Mississippi St.,KICKING,Harrison,Butker,LONG,-
+1738127,12/31/2014,FBS,Georgia Tech,Mississippi St.,KICKING,Harrison,Butker,XP,7
+1738128,12/31/2014,FBS,Georgia Tech,Mississippi St.,KICKING,Harrison,Butker,PTS,7
+1738129,12/31/2014,FBS,Georgia Tech,Mississippi St.,PUNTING,Ryan,Rodwell,NO,3
+1738130,12/31/2014,FBS,Georgia Tech,Mississippi St.,PUNTING,Ryan,Rodwell,YDS,101
+1738131,12/31/2014,FBS,Georgia Tech,Mississippi St.,PUNTING,Ryan,Rodwell,AVG,33.7
+1738132,12/31/2014,FBS,Georgia Tech,Mississippi St.,PUNTING,Ryan,Rodwell,LONG,48
+1738133,12/31/2014,FBS,Georgia Tech,Mississippi St.,PUNT RETURNS,Jamal,Golden,NO,0
+1738134,12/31/2014,FBS,Georgia Tech,Mississippi St.,PUNT RETURNS,Jamal,Golden,YDS,0
+1738135,12/31/2014,FBS,Georgia Tech,Mississippi St.,PUNT RETURNS,Jamal,Golden,AVG,-
+1738136,12/31/2014,FBS,Georgia Tech,Mississippi St.,PUNT RETURNS,Jamal,Golden,LONG,0
+1738137,12/31/2014,FBS,Georgia Tech,Mississippi St.,KICK RETURNS,Jamal,Golden,NO,2
+1738138,12/31/2014,FBS,Georgia Tech,Mississippi St.,KICK RETURNS,Jamal,Golden,YDS,34
+1738139,12/31/2014,FBS,Georgia Tech,Mississippi St.,KICK RETURNS,Jamal,Golden,AVG,17.0
+1738140,12/31/2014,FBS,Georgia Tech,Mississippi St.,KICK RETURNS,Jamal,Golden,LONG,25

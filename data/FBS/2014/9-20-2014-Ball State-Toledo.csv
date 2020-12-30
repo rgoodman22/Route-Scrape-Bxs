@@ -1,0 +1,125 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1108001,9/20/2014,FBS,Ball State,Toledo,RUSHING,Jahwan,Edwards,ATT,21
+1108002,9/20/2014,FBS,Ball State,Toledo,RUSHING,Jahwan,Edwards,YDS,125
+1108003,9/20/2014,FBS,Ball State,Toledo,RUSHING,Jahwan,Edwards,TD,0
+1108004,9/20/2014,FBS,Ball State,Toledo,RUSHING,Jahwan,Edwards,LONG,18
+1108005,9/20/2014,FBS,Ball State,Toledo,RUSHING,Horactio,Banks,ATT,13
+1108006,9/20/2014,FBS,Ball State,Toledo,RUSHING,Horactio,Banks,YDS,47
+1108007,9/20/2014,FBS,Ball State,Toledo,RUSHING,Horactio,Banks,TD,0
+1108008,9/20/2014,FBS,Ball State,Toledo,RUSHING,Horactio,Banks,LONG,13
+1108009,9/20/2014,FBS,Ball State,Toledo,RUSHING,Ozzie,Mann,ATT,6
+1108010,9/20/2014,FBS,Ball State,Toledo,RUSHING,Ozzie,Mann,YDS,2
+1108011,9/20/2014,FBS,Ball State,Toledo,RUSHING,Ozzie,Mann,TD,0
+1108012,9/20/2014,FBS,Ball State,Toledo,RUSHING,Ozzie,Mann,LONG,8
+1108013,9/20/2014,FBS,Ball State,Toledo,RUSHING,KeVonn,Mabon,ATT,1
+1108014,9/20/2014,FBS,Ball State,Toledo,RUSHING,KeVonn,Mabon,YDS,2
+1108015,9/20/2014,FBS,Ball State,Toledo,RUSHING,KeVonn,Mabon,TD,0
+1108016,9/20/2014,FBS,Ball State,Toledo,RUSHING,KeVonn,Mabon,LONG,2
+1108017,9/20/2014,FBS,Ball State,Toledo,RUSHING,,Team,ATT,1
+1108018,9/20/2014,FBS,Ball State,Toledo,RUSHING,,Team,YDS,-1
+1108019,9/20/2014,FBS,Ball State,Toledo,RUSHING,,Team,TD,0
+1108020,9/20/2014,FBS,Ball State,Toledo,RUSHING,,Team,LONG,0
+1108021,9/20/2014,FBS,Ball State,Toledo,PASSING,Ozzie,Mann,CP-ATT-INT,15-27-0
+1108022,9/20/2014,FBS,Ball State,Toledo,PASSING,Ozzie,Mann,YDS,176
+1108023,9/20/2014,FBS,Ball State,Toledo,PASSING,Ozzie,Mann,TD,2
+1108024,9/20/2014,FBS,Ball State,Toledo,PASSING,Ozzie,Mann,LONG,43
+1108025,9/20/2014,FBS,Ball State,Toledo,RECEIVING,KeVonn,Mabon,REC,3
+1108026,9/20/2014,FBS,Ball State,Toledo,RECEIVING,KeVonn,Mabon,YDS,78
+1108027,9/20/2014,FBS,Ball State,Toledo,RECEIVING,KeVonn,Mabon,TD,1
+1108028,9/20/2014,FBS,Ball State,Toledo,RECEIVING,KeVonn,Mabon,LONG,43
+1108029,9/20/2014,FBS,Ball State,Toledo,RECEIVING,Jordan,Williams,REC,7
+1108030,9/20/2014,FBS,Ball State,Toledo,RECEIVING,Jordan,Williams,YDS,58
+1108031,9/20/2014,FBS,Ball State,Toledo,RECEIVING,Jordan,Williams,TD,1
+1108032,9/20/2014,FBS,Ball State,Toledo,RECEIVING,Jordan,Williams,LONG,13
+1108033,9/20/2014,FBS,Ball State,Toledo,RECEIVING,Chris,Shillings,REC,5
+1108034,9/20/2014,FBS,Ball State,Toledo,RECEIVING,Chris,Shillings,YDS,40
+1108035,9/20/2014,FBS,Ball State,Toledo,RECEIVING,Chris,Shillings,TD,0
+1108036,9/20/2014,FBS,Ball State,Toledo,RECEIVING,Chris,Shillings,LONG,11
+1108037,9/20/2014,FBS,Ball State,Toledo,KICKING,Scott,Secor,FG-FGA,3/4
+1108038,9/20/2014,FBS,Ball State,Toledo,KICKING,Scott,Secor,LONG,49
+1108039,9/20/2014,FBS,Ball State,Toledo,KICKING,Scott,Secor,XP,2
+1108040,9/20/2014,FBS,Ball State,Toledo,KICKING,Scott,Secor,PTS,11
+1108041,9/20/2014,FBS,Ball State,Toledo,PUNTING,Kyle,Schmidt,NO,2
+1108042,9/20/2014,FBS,Ball State,Toledo,PUNTING,Kyle,Schmidt,YDS,86
+1108043,9/20/2014,FBS,Ball State,Toledo,PUNTING,Kyle,Schmidt,AVG,43.0
+1108044,9/20/2014,FBS,Ball State,Toledo,PUNTING,Kyle,Schmidt,LONG,44
+1108045,9/20/2014,FBS,Ball State,Toledo,PUNTING,Scott,Secor,NO,1
+1108046,9/20/2014,FBS,Ball State,Toledo,PUNTING,Scott,Secor,YDS,63
+1108047,9/20/2014,FBS,Ball State,Toledo,PUNTING,Scott,Secor,AVG,63.0
+1108048,9/20/2014,FBS,Ball State,Toledo,PUNTING,Scott,Secor,LONG,63
+1108049,9/20/2014,FBS,Ball State,Toledo,KICK RETURNS,Eric,Patterson,NO,4
+1108050,9/20/2014,FBS,Ball State,Toledo,KICK RETURNS,Eric,Patterson,YDS,93
+1108051,9/20/2014,FBS,Ball State,Toledo,KICK RETURNS,Eric,Patterson,AVG,23.2
+1108052,9/20/2014,FBS,Ball State,Toledo,KICK RETURNS,Eric,Patterson,LONG,27
+1108053,9/20/2014,FBS,Ball State,Toledo,KICK RETURNS,KeVonn,Mabon,NO,1
+1108054,9/20/2014,FBS,Ball State,Toledo,KICK RETURNS,KeVonn,Mabon,YDS,25
+1108055,9/20/2014,FBS,Ball State,Toledo,KICK RETURNS,KeVonn,Mabon,AVG,25.0
+1108056,9/20/2014,FBS,Ball State,Toledo,KICK RETURNS,KeVonn,Mabon,LONG,25
+1108057,9/20/2014,FBS,Toledo,Ball State,RUSHING,Kareem,Hunt,ATT,12
+1108058,9/20/2014,FBS,Toledo,Ball State,RUSHING,Kareem,Hunt,YDS,142
+1108059,9/20/2014,FBS,Toledo,Ball State,RUSHING,Kareem,Hunt,TD,1
+1108060,9/20/2014,FBS,Toledo,Ball State,RUSHING,Kareem,Hunt,LONG,43
+1108061,9/20/2014,FBS,Toledo,Ball State,RUSHING,Damion,Jones-Moore,ATT,11
+1108062,9/20/2014,FBS,Toledo,Ball State,RUSHING,Damion,Jones-Moore,YDS,62
+1108063,9/20/2014,FBS,Toledo,Ball State,RUSHING,Damion,Jones-Moore,TD,1
+1108064,9/20/2014,FBS,Toledo,Ball State,RUSHING,Damion,Jones-Moore,LONG,14
+1108065,9/20/2014,FBS,Toledo,Ball State,RUSHING,Terry,Swanson,ATT,9
+1108066,9/20/2014,FBS,Toledo,Ball State,RUSHING,Terry,Swanson,YDS,44
+1108067,9/20/2014,FBS,Toledo,Ball State,RUSHING,Terry,Swanson,TD,0
+1108068,9/20/2014,FBS,Toledo,Ball State,RUSHING,Terry,Swanson,LONG,7
+1108069,9/20/2014,FBS,Toledo,Ball State,RUSHING,Logan,Woodside,ATT,7
+1108070,9/20/2014,FBS,Toledo,Ball State,RUSHING,Logan,Woodside,YDS,43
+1108071,9/20/2014,FBS,Toledo,Ball State,RUSHING,Logan,Woodside,TD,2
+1108072,9/20/2014,FBS,Toledo,Ball State,RUSHING,Logan,Woodside,LONG,14
+1108073,9/20/2014,FBS,Toledo,Ball State,RUSHING,Marc,Remy,ATT,6
+1108074,9/20/2014,FBS,Toledo,Ball State,RUSHING,Marc,Remy,YDS,23
+1108075,9/20/2014,FBS,Toledo,Ball State,RUSHING,Marc,Remy,TD,0
+1108076,9/20/2014,FBS,Toledo,Ball State,RUSHING,Marc,Remy,LONG,7
+1108077,9/20/2014,FBS,Toledo,Ball State,RUSHING,Corey,Jones,ATT,1
+1108078,9/20/2014,FBS,Toledo,Ball State,RUSHING,Corey,Jones,YDS,5
+1108079,9/20/2014,FBS,Toledo,Ball State,RUSHING,Corey,Jones,TD,0
+1108080,9/20/2014,FBS,Toledo,Ball State,RUSHING,Corey,Jones,LONG,5
+1108081,9/20/2014,FBS,Toledo,Ball State,RUSHING,,Team,ATT,1
+1108082,9/20/2014,FBS,Toledo,Ball State,RUSHING,,Team,YDS,-1
+1108083,9/20/2014,FBS,Toledo,Ball State,RUSHING,,Team,TD,0
+1108084,9/20/2014,FBS,Toledo,Ball State,RUSHING,,Team,LONG,0
+1108085,9/20/2014,FBS,Toledo,Ball State,PASSING,Logan,Woodside,CP-ATT-INT,13-22-1
+1108086,9/20/2014,FBS,Toledo,Ball State,PASSING,Logan,Woodside,YDS,152
+1108087,9/20/2014,FBS,Toledo,Ball State,PASSING,Logan,Woodside,TD,1
+1108088,9/20/2014,FBS,Toledo,Ball State,PASSING,Logan,Woodside,LONG,35
+1108089,9/20/2014,FBS,Toledo,Ball State,RECEIVING,Justin,Olack,REC,3
+1108090,9/20/2014,FBS,Toledo,Ball State,RECEIVING,Justin,Olack,YDS,71
+1108091,9/20/2014,FBS,Toledo,Ball State,RECEIVING,Justin,Olack,TD,0
+1108092,9/20/2014,FBS,Toledo,Ball State,RECEIVING,Justin,Olack,LONG,35
+1108093,9/20/2014,FBS,Toledo,Ball State,RECEIVING,Alonzo,Russell,REC,3
+1108094,9/20/2014,FBS,Toledo,Ball State,RECEIVING,Alonzo,Russell,YDS,30
+1108095,9/20/2014,FBS,Toledo,Ball State,RECEIVING,Alonzo,Russell,TD,1
+1108096,9/20/2014,FBS,Toledo,Ball State,RECEIVING,Alonzo,Russell,LONG,26
+1108097,9/20/2014,FBS,Toledo,Ball State,RECEIVING,Dwight,Macon,REC,2
+1108098,9/20/2014,FBS,Toledo,Ball State,RECEIVING,Dwight,Macon,YDS,18
+1108099,9/20/2014,FBS,Toledo,Ball State,RECEIVING,Dwight,Macon,TD,0
+1108100,9/20/2014,FBS,Toledo,Ball State,RECEIVING,Dwight,Macon,LONG,13
+1108101,9/20/2014,FBS,Toledo,Ball State,RECEIVING,Corey,Jones,REC,4
+1108102,9/20/2014,FBS,Toledo,Ball State,RECEIVING,Corey,Jones,YDS,17
+1108103,9/20/2014,FBS,Toledo,Ball State,RECEIVING,Corey,Jones,TD,0
+1108104,9/20/2014,FBS,Toledo,Ball State,RECEIVING,Corey,Jones,LONG,17
+1108105,9/20/2014,FBS,Toledo,Ball State,RECEIVING,Marc,Remy,REC,1
+1108106,9/20/2014,FBS,Toledo,Ball State,RECEIVING,Marc,Remy,YDS,16
+1108107,9/20/2014,FBS,Toledo,Ball State,RECEIVING,Marc,Remy,TD,0
+1108108,9/20/2014,FBS,Toledo,Ball State,RECEIVING,Marc,Remy,LONG,16
+1108109,9/20/2014,FBS,Toledo,Ball State,KICKING,Jeremiah,Detmer,FG-FGA,0/0
+1108110,9/20/2014,FBS,Toledo,Ball State,KICKING,Jeremiah,Detmer,LONG,-
+1108111,9/20/2014,FBS,Toledo,Ball State,KICKING,Jeremiah,Detmer,XP,4
+1108112,9/20/2014,FBS,Toledo,Ball State,KICKING,Jeremiah,Detmer,PTS,4
+1108113,9/20/2014,FBS,Toledo,Ball State,PUNTING,Nick,Ellis,NO,2
+1108114,9/20/2014,FBS,Toledo,Ball State,PUNTING,Nick,Ellis,YDS,83
+1108115,9/20/2014,FBS,Toledo,Ball State,PUNTING,Nick,Ellis,AVG,41.5
+1108116,9/20/2014,FBS,Toledo,Ball State,PUNTING,Nick,Ellis,LONG,44
+1108117,9/20/2014,FBS,Toledo,Ball State,PUNT RETURNS,Corey,Jones,NO,2
+1108118,9/20/2014,FBS,Toledo,Ball State,PUNT RETURNS,Corey,Jones,YDS,66
+1108119,9/20/2014,FBS,Toledo,Ball State,PUNT RETURNS,Corey,Jones,AVG,33.0
+1108120,9/20/2014,FBS,Toledo,Ball State,PUNT RETURNS,Corey,Jones,LONG,35
+1108121,9/20/2014,FBS,Toledo,Ball State,KICK RETURNS,Corey,Jones,NO,4
+1108122,9/20/2014,FBS,Toledo,Ball State,KICK RETURNS,Corey,Jones,YDS,76
+1108123,9/20/2014,FBS,Toledo,Ball State,KICK RETURNS,Corey,Jones,AVG,19.0
+1108124,9/20/2014,FBS,Toledo,Ball State,KICK RETURNS,Corey,Jones,LONG,28

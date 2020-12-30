@@ -1,0 +1,165 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1735001,12/30/2014,FBS,Maryland,Stanford,RUSHING,Brandon,Ross,ATT,8
+1735002,12/30/2014,FBS,Maryland,Stanford,RUSHING,Brandon,Ross,YDS,32
+1735003,12/30/2014,FBS,Maryland,Stanford,RUSHING,Brandon,Ross,TD,0
+1735004,12/30/2014,FBS,Maryland,Stanford,RUSHING,Brandon,Ross,LONG,9
+1735005,12/30/2014,FBS,Maryland,Stanford,RUSHING,Wes,Brown,ATT,6
+1735006,12/30/2014,FBS,Maryland,Stanford,RUSHING,Wes,Brown,YDS,15
+1735007,12/30/2014,FBS,Maryland,Stanford,RUSHING,Wes,Brown,TD,1
+1735008,12/30/2014,FBS,Maryland,Stanford,RUSHING,Wes,Brown,LONG,5
+1735009,12/30/2014,FBS,Maryland,Stanford,RUSHING,Silvano,Altamirano,ATT,0
+1735010,12/30/2014,FBS,Maryland,Stanford,RUSHING,Silvano,Altamirano,YDS,0
+1735011,12/30/2014,FBS,Maryland,Stanford,RUSHING,Silvano,Altamirano,TD,0
+1735012,12/30/2014,FBS,Maryland,Stanford,RUSHING,Silvano,Altamirano,LONG,0
+1735013,12/30/2014,FBS,Maryland,Stanford,RUSHING,C.J.,Brown,ATT,13
+1735014,12/30/2014,FBS,Maryland,Stanford,RUSHING,C.J.,Brown,YDS,-30
+1735015,12/30/2014,FBS,Maryland,Stanford,RUSHING,C.J.,Brown,TD,1
+1735016,12/30/2014,FBS,Maryland,Stanford,RUSHING,C.J.,Brown,LONG,4
+1735017,12/30/2014,FBS,Maryland,Stanford,PASSING,C.J.,Brown,CP-ATT-INT,15-27-1
+1735018,12/30/2014,FBS,Maryland,Stanford,PASSING,C.J.,Brown,YDS,205
+1735019,12/30/2014,FBS,Maryland,Stanford,PASSING,C.J.,Brown,TD,0
+1735020,12/30/2014,FBS,Maryland,Stanford,PASSING,C.J.,Brown,LONG,32
+1735021,12/30/2014,FBS,Maryland,Stanford,RECEIVING,Stefon,Diggs,REC,10
+1735022,12/30/2014,FBS,Maryland,Stanford,RECEIVING,Stefon,Diggs,YDS,138
+1735023,12/30/2014,FBS,Maryland,Stanford,RECEIVING,Stefon,Diggs,TD,0
+1735024,12/30/2014,FBS,Maryland,Stanford,RECEIVING,Stefon,Diggs,LONG,32
+1735025,12/30/2014,FBS,Maryland,Stanford,RECEIVING,Deon,Long,REC,2
+1735026,12/30/2014,FBS,Maryland,Stanford,RECEIVING,Deon,Long,YDS,21
+1735027,12/30/2014,FBS,Maryland,Stanford,RECEIVING,Deon,Long,TD,0
+1735028,12/30/2014,FBS,Maryland,Stanford,RECEIVING,Deon,Long,LONG,12
+1735029,12/30/2014,FBS,Maryland,Stanford,RECEIVING,Amba,Etta-Tawo,REC,1
+1735030,12/30/2014,FBS,Maryland,Stanford,RECEIVING,Amba,Etta-Tawo,YDS,18
+1735031,12/30/2014,FBS,Maryland,Stanford,RECEIVING,Amba,Etta-Tawo,TD,0
+1735032,12/30/2014,FBS,Maryland,Stanford,RECEIVING,Amba,Etta-Tawo,LONG,18
+1735033,12/30/2014,FBS,Maryland,Stanford,RECEIVING,Juwann,Winfree,REC,1
+1735034,12/30/2014,FBS,Maryland,Stanford,RECEIVING,Juwann,Winfree,YDS,14
+1735035,12/30/2014,FBS,Maryland,Stanford,RECEIVING,Juwann,Winfree,TD,0
+1735036,12/30/2014,FBS,Maryland,Stanford,RECEIVING,Juwann,Winfree,LONG,14
+1735037,12/30/2014,FBS,Maryland,Stanford,RECEIVING,Wes,Brown,REC,1
+1735038,12/30/2014,FBS,Maryland,Stanford,RECEIVING,Wes,Brown,YDS,14
+1735039,12/30/2014,FBS,Maryland,Stanford,RECEIVING,Wes,Brown,TD,0
+1735040,12/30/2014,FBS,Maryland,Stanford,RECEIVING,Wes,Brown,LONG,14
+1735041,12/30/2014,FBS,Maryland,Stanford,KICKING,Brad,Craddock,FG-FGA,0/0
+1735042,12/30/2014,FBS,Maryland,Stanford,KICKING,Brad,Craddock,LONG,-
+1735043,12/30/2014,FBS,Maryland,Stanford,KICKING,Brad,Craddock,XP,3
+1735044,12/30/2014,FBS,Maryland,Stanford,KICKING,Brad,Craddock,PTS,3
+1735045,12/30/2014,FBS,Maryland,Stanford,PUNTING,Nathan,Renfro,NO,6
+1735046,12/30/2014,FBS,Maryland,Stanford,PUNTING,Nathan,Renfro,YDS,284
+1735047,12/30/2014,FBS,Maryland,Stanford,PUNTING,Nathan,Renfro,AVG,47.3
+1735048,12/30/2014,FBS,Maryland,Stanford,PUNTING,Nathan,Renfro,LONG,54
+1735049,12/30/2014,FBS,Maryland,Stanford,PUNT RETURNS,William,Likely,NO,1
+1735050,12/30/2014,FBS,Maryland,Stanford,PUNT RETURNS,William,Likely,YDS,7
+1735051,12/30/2014,FBS,Maryland,Stanford,PUNT RETURNS,William,Likely,AVG,7.0
+1735052,12/30/2014,FBS,Maryland,Stanford,PUNT RETURNS,William,Likely,LONG,7
+1735053,12/30/2014,FBS,Maryland,Stanford,KICK RETURNS,William,Likely,NO,4
+1735054,12/30/2014,FBS,Maryland,Stanford,KICK RETURNS,William,Likely,YDS,160
+1735055,12/30/2014,FBS,Maryland,Stanford,KICK RETURNS,William,Likely,AVG,40.0
+1735056,12/30/2014,FBS,Maryland,Stanford,KICK RETURNS,William,Likely,LONG,100
+1735057,12/30/2014,FBS,Stanford,Maryland,RUSHING,Christian,McCaffrey,ATT,7
+1735058,12/30/2014,FBS,Stanford,Maryland,RUSHING,Christian,McCaffrey,YDS,57
+1735059,12/30/2014,FBS,Stanford,Maryland,RUSHING,Christian,McCaffrey,TD,0
+1735060,12/30/2014,FBS,Stanford,Maryland,RUSHING,Christian,McCaffrey,LONG,22
+1735061,12/30/2014,FBS,Stanford,Maryland,RUSHING,Kevin,Hogan,ATT,7
+1735062,12/30/2014,FBS,Stanford,Maryland,RUSHING,Kevin,Hogan,YDS,50
+1735063,12/30/2014,FBS,Stanford,Maryland,RUSHING,Kevin,Hogan,TD,0
+1735064,12/30/2014,FBS,Stanford,Maryland,RUSHING,Kevin,Hogan,LONG,30
+1735065,12/30/2014,FBS,Stanford,Maryland,RUSHING,Remound,Wright,ATT,8
+1735066,12/30/2014,FBS,Stanford,Maryland,RUSHING,Remound,Wright,YDS,49
+1735067,12/30/2014,FBS,Stanford,Maryland,RUSHING,Remound,Wright,TD,3
+1735068,12/30/2014,FBS,Stanford,Maryland,RUSHING,Remound,Wright,LONG,35
+1735069,12/30/2014,FBS,Stanford,Maryland,RUSHING,Kelsey,Young,ATT,9
+1735070,12/30/2014,FBS,Stanford,Maryland,RUSHING,Kelsey,Young,YDS,25
+1735071,12/30/2014,FBS,Stanford,Maryland,RUSHING,Kelsey,Young,TD,0
+1735072,12/30/2014,FBS,Stanford,Maryland,RUSHING,Kelsey,Young,LONG,11
+1735073,12/30/2014,FBS,Stanford,Maryland,RUSHING,Ricky,Seale,ATT,4
+1735074,12/30/2014,FBS,Stanford,Maryland,RUSHING,Ricky,Seale,YDS,11
+1735075,12/30/2014,FBS,Stanford,Maryland,RUSHING,Ricky,Seale,TD,1
+1735076,12/30/2014,FBS,Stanford,Maryland,RUSHING,Ricky,Seale,LONG,7
+1735077,12/30/2014,FBS,Stanford,Maryland,RUSHING,Barry,Sanders,ATT,5
+1735078,12/30/2014,FBS,Stanford,Maryland,RUSHING,Barry,Sanders,YDS,11
+1735079,12/30/2014,FBS,Stanford,Maryland,RUSHING,Barry,Sanders,TD,0
+1735080,12/30/2014,FBS,Stanford,Maryland,RUSHING,Barry,Sanders,LONG,4
+1735081,12/30/2014,FBS,Stanford,Maryland,RUSHING,Daniel,Marx,ATT,2
+1735082,12/30/2014,FBS,Stanford,Maryland,RUSHING,Daniel,Marx,YDS,6
+1735083,12/30/2014,FBS,Stanford,Maryland,RUSHING,Daniel,Marx,TD,0
+1735084,12/30/2014,FBS,Stanford,Maryland,RUSHING,Daniel,Marx,LONG,5
+1735085,12/30/2014,FBS,Stanford,Maryland,RUSHING,Patrick,Skov,ATT,1
+1735086,12/30/2014,FBS,Stanford,Maryland,RUSHING,Patrick,Skov,YDS,1
+1735087,12/30/2014,FBS,Stanford,Maryland,RUSHING,Patrick,Skov,TD,0
+1735088,12/30/2014,FBS,Stanford,Maryland,RUSHING,Patrick,Skov,LONG,1
+1735089,12/30/2014,FBS,Stanford,Maryland,RUSHING,,Team,ATT,1
+1735090,12/30/2014,FBS,Stanford,Maryland,RUSHING,,Team,YDS,-1
+1735091,12/30/2014,FBS,Stanford,Maryland,RUSHING,,Team,TD,0
+1735092,12/30/2014,FBS,Stanford,Maryland,RUSHING,,Team,LONG,-1
+1735093,12/30/2014,FBS,Stanford,Maryland,RUSHING,Francis,Owusu,ATT,1
+1735094,12/30/2014,FBS,Stanford,Maryland,RUSHING,Francis,Owusu,YDS,-3
+1735095,12/30/2014,FBS,Stanford,Maryland,RUSHING,Francis,Owusu,TD,0
+1735096,12/30/2014,FBS,Stanford,Maryland,RUSHING,Francis,Owusu,LONG,-3
+1735097,12/30/2014,FBS,Stanford,Maryland,PASSING,Kevin,Hogan,CP-ATT-INT,14-20-0
+1735098,12/30/2014,FBS,Stanford,Maryland,PASSING,Kevin,Hogan,YDS,189
+1735099,12/30/2014,FBS,Stanford,Maryland,PASSING,Kevin,Hogan,TD,2
+1735100,12/30/2014,FBS,Stanford,Maryland,PASSING,Kevin,Hogan,LONG,37
+1735101,12/30/2014,FBS,Stanford,Maryland,PASSING,Evan,Crower,CP-ATT-INT,4-6-0
+1735102,12/30/2014,FBS,Stanford,Maryland,PASSING,Evan,Crower,YDS,19
+1735103,12/30/2014,FBS,Stanford,Maryland,PASSING,Evan,Crower,TD,0
+1735104,12/30/2014,FBS,Stanford,Maryland,PASSING,Evan,Crower,LONG,16
+1735105,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Austin,Hooper,REC,5
+1735106,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Austin,Hooper,YDS,71
+1735107,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Austin,Hooper,TD,0
+1735108,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Austin,Hooper,LONG,37
+1735109,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Devon,Cajuste,REC,4
+1735110,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Devon,Cajuste,YDS,47
+1735111,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Devon,Cajuste,TD,2
+1735112,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Devon,Cajuste,LONG,21
+1735113,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Greg,Taboada,REC,1
+1735114,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Greg,Taboada,YDS,28
+1735115,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Greg,Taboada,TD,0
+1735116,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Greg,Taboada,LONG,28
+1735117,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Jordan,Pratt,REC,2
+1735118,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Jordan,Pratt,YDS,17
+1735119,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Jordan,Pratt,TD,0
+1735120,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Jordan,Pratt,LONG,11
+1735121,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Barry,Sanders,REC,1
+1735122,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Barry,Sanders,YDS,16
+1735123,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Barry,Sanders,TD,0
+1735124,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Barry,Sanders,LONG,16
+1735125,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Michael,Rector,REC,1
+1735126,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Michael,Rector,YDS,15
+1735127,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Michael,Rector,TD,0
+1735128,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Michael,Rector,LONG,15
+1735129,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Remound,Wright,REC,1
+1735130,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Remound,Wright,YDS,6
+1735131,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Remound,Wright,TD,0
+1735132,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Remound,Wright,LONG,6
+1735133,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Dontonio,Jordan,REC,1
+1735134,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Dontonio,Jordan,YDS,5
+1735135,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Dontonio,Jordan,TD,0
+1735136,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Dontonio,Jordan,LONG,5
+1735137,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Eric,Cotton,REC,1
+1735138,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Eric,Cotton,YDS,3
+1735139,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Eric,Cotton,TD,0
+1735140,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Eric,Cotton,LONG,3
+1735141,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Christian,McCaffrey,REC,1
+1735142,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Christian,McCaffrey,YDS,0
+1735143,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Christian,McCaffrey,TD,0
+1735144,12/30/2014,FBS,Stanford,Maryland,RECEIVING,Christian,McCaffrey,LONG,0
+1735145,12/30/2014,FBS,Stanford,Maryland,KICKING,Jordan,Williamson,FG-FGA,1/2
+1735146,12/30/2014,FBS,Stanford,Maryland,KICKING,Jordan,Williamson,LONG,29
+1735147,12/30/2014,FBS,Stanford,Maryland,KICKING,Jordan,Williamson,XP,6
+1735148,12/30/2014,FBS,Stanford,Maryland,KICKING,Jordan,Williamson,PTS,9
+1735149,12/30/2014,FBS,Stanford,Maryland,PUNTING,Ben,Rhyne,NO,2
+1735150,12/30/2014,FBS,Stanford,Maryland,PUNTING,Ben,Rhyne,YDS,74
+1735151,12/30/2014,FBS,Stanford,Maryland,PUNTING,Ben,Rhyne,AVG,37.0
+1735152,12/30/2014,FBS,Stanford,Maryland,PUNTING,Ben,Rhyne,LONG,39
+1735153,12/30/2014,FBS,Stanford,Maryland,PUNT RETURNS,Christian,McCaffrey,NO,4
+1735154,12/30/2014,FBS,Stanford,Maryland,PUNT RETURNS,Christian,McCaffrey,YDS,81
+1735155,12/30/2014,FBS,Stanford,Maryland,PUNT RETURNS,Christian,McCaffrey,AVG,20.2
+1735156,12/30/2014,FBS,Stanford,Maryland,PUNT RETURNS,Christian,McCaffrey,LONG,31
+1735157,12/30/2014,FBS,Stanford,Maryland,KICK RETURNS,Patrick,Skov,NO,1
+1735158,12/30/2014,FBS,Stanford,Maryland,KICK RETURNS,Patrick,Skov,YDS,29
+1735159,12/30/2014,FBS,Stanford,Maryland,KICK RETURNS,Patrick,Skov,AVG,29.0
+1735160,12/30/2014,FBS,Stanford,Maryland,KICK RETURNS,Patrick,Skov,LONG,29
+1735161,12/30/2014,FBS,Stanford,Maryland,KICK RETURNS,Kelsey,Young,NO,1
+1735162,12/30/2014,FBS,Stanford,Maryland,KICK RETURNS,Kelsey,Young,YDS,20
+1735163,12/30/2014,FBS,Stanford,Maryland,KICK RETURNS,Kelsey,Young,AVG,20.0
+1735164,12/30/2014,FBS,Stanford,Maryland,KICK RETURNS,Kelsey,Young,LONG,20

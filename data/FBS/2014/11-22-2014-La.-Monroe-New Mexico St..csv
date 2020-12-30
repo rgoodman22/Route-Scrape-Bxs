@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1601001,11/22/2014,FBS,La.-Monroe,New Mexico St.,RUSHING,Centarius,Donald,ATT,13
+1601002,11/22/2014,FBS,La.-Monroe,New Mexico St.,RUSHING,Centarius,Donald,YDS,35
+1601003,11/22/2014,FBS,La.-Monroe,New Mexico St.,RUSHING,Centarius,Donald,TD,1
+1601004,11/22/2014,FBS,La.-Monroe,New Mexico St.,RUSHING,Centarius,Donald,LONG,6
+1601005,11/22/2014,FBS,La.-Monroe,New Mexico St.,RUSHING,Pete,Thomas,ATT,7
+1601006,11/22/2014,FBS,La.-Monroe,New Mexico St.,RUSHING,Pete,Thomas,YDS,16
+1601007,11/22/2014,FBS,La.-Monroe,New Mexico St.,RUSHING,Pete,Thomas,TD,0
+1601008,11/22/2014,FBS,La.-Monroe,New Mexico St.,RUSHING,Pete,Thomas,LONG,7
+1601009,11/22/2014,FBS,La.-Monroe,New Mexico St.,RUSHING,Tyler,Cain,ATT,5
+1601010,11/22/2014,FBS,La.-Monroe,New Mexico St.,RUSHING,Tyler,Cain,YDS,11
+1601011,11/22/2014,FBS,La.-Monroe,New Mexico St.,RUSHING,Tyler,Cain,TD,0
+1601012,11/22/2014,FBS,La.-Monroe,New Mexico St.,RUSHING,Tyler,Cain,LONG,8
+1601013,11/22/2014,FBS,La.-Monroe,New Mexico St.,RUSHING,Ajalen,Holley,ATT,1
+1601014,11/22/2014,FBS,La.-Monroe,New Mexico St.,RUSHING,Ajalen,Holley,YDS,9
+1601015,11/22/2014,FBS,La.-Monroe,New Mexico St.,RUSHING,Ajalen,Holley,TD,0
+1601016,11/22/2014,FBS,La.-Monroe,New Mexico St.,RUSHING,Ajalen,Holley,LONG,9
+1601017,11/22/2014,FBS,La.-Monroe,New Mexico St.,RUSHING,,Team,ATT,1
+1601018,11/22/2014,FBS,La.-Monroe,New Mexico St.,RUSHING,,Team,YDS,-1
+1601019,11/22/2014,FBS,La.-Monroe,New Mexico St.,RUSHING,,Team,TD,0
+1601020,11/22/2014,FBS,La.-Monroe,New Mexico St.,RUSHING,,Team,LONG,-1
+1601021,11/22/2014,FBS,La.-Monroe,New Mexico St.,PASSING,Pete,Thomas,CP-ATT-INT,35-50-1
+1601022,11/22/2014,FBS,La.-Monroe,New Mexico St.,PASSING,Pete,Thomas,YDS,350
+1601023,11/22/2014,FBS,La.-Monroe,New Mexico St.,PASSING,Pete,Thomas,TD,1
+1601024,11/22/2014,FBS,La.-Monroe,New Mexico St.,PASSING,Pete,Thomas,LONG,45
+1601025,11/22/2014,FBS,La.-Monroe,New Mexico St.,RECEIVING,Kenzee,Jackson,REC,13
+1601026,11/22/2014,FBS,La.-Monroe,New Mexico St.,RECEIVING,Kenzee,Jackson,YDS,108
+1601027,11/22/2014,FBS,La.-Monroe,New Mexico St.,RECEIVING,Kenzee,Jackson,TD,0
+1601028,11/22/2014,FBS,La.-Monroe,New Mexico St.,RECEIVING,Kenzee,Jackson,LONG,16
+1601029,11/22/2014,FBS,La.-Monroe,New Mexico St.,RECEIVING,Rashon,Ceaser,REC,6
+1601030,11/22/2014,FBS,La.-Monroe,New Mexico St.,RECEIVING,Rashon,Ceaser,YDS,91
+1601031,11/22/2014,FBS,La.-Monroe,New Mexico St.,RECEIVING,Rashon,Ceaser,TD,1
+1601032,11/22/2014,FBS,La.-Monroe,New Mexico St.,RECEIVING,Rashon,Ceaser,LONG,45
+1601033,11/22/2014,FBS,La.-Monroe,New Mexico St.,RECEIVING,Ajalen,Holley,REC,9
+1601034,11/22/2014,FBS,La.-Monroe,New Mexico St.,RECEIVING,Ajalen,Holley,YDS,81
+1601035,11/22/2014,FBS,La.-Monroe,New Mexico St.,RECEIVING,Ajalen,Holley,TD,0
+1601036,11/22/2014,FBS,La.-Monroe,New Mexico St.,RECEIVING,Ajalen,Holley,LONG,21
+1601037,11/22/2014,FBS,La.-Monroe,New Mexico St.,RECEIVING,Centarius,Donald,REC,1
+1601038,11/22/2014,FBS,La.-Monroe,New Mexico St.,RECEIVING,Centarius,Donald,YDS,30
+1601039,11/22/2014,FBS,La.-Monroe,New Mexico St.,RECEIVING,Centarius,Donald,TD,0
+1601040,11/22/2014,FBS,La.-Monroe,New Mexico St.,RECEIVING,Centarius,Donald,LONG,30
+1601041,11/22/2014,FBS,La.-Monroe,New Mexico St.,RECEIVING,Tyler,Cain,REC,4
+1601042,11/22/2014,FBS,La.-Monroe,New Mexico St.,RECEIVING,Tyler,Cain,YDS,27
+1601043,11/22/2014,FBS,La.-Monroe,New Mexico St.,RECEIVING,Tyler,Cain,TD,0
+1601044,11/22/2014,FBS,La.-Monroe,New Mexico St.,RECEIVING,Tyler,Cain,LONG,14
+1601045,11/22/2014,FBS,La.-Monroe,New Mexico St.,RECEIVING,Alec,Osborne,REC,2
+1601046,11/22/2014,FBS,La.-Monroe,New Mexico St.,RECEIVING,Alec,Osborne,YDS,13
+1601047,11/22/2014,FBS,La.-Monroe,New Mexico St.,RECEIVING,Alec,Osborne,TD,0
+1601048,11/22/2014,FBS,La.-Monroe,New Mexico St.,RECEIVING,Alec,Osborne,LONG,10
+1601049,11/22/2014,FBS,La.-Monroe,New Mexico St.,KICKING,Justin,Manton,FG-FGA,3/4
+1601050,11/22/2014,FBS,La.-Monroe,New Mexico St.,KICKING,Justin,Manton,LONG,28
+1601051,11/22/2014,FBS,La.-Monroe,New Mexico St.,KICKING,Justin,Manton,XP,3
+1601052,11/22/2014,FBS,La.-Monroe,New Mexico St.,KICKING,Justin,Manton,PTS,12
+1601053,11/22/2014,FBS,La.-Monroe,New Mexico St.,PUNTING,Justin,Manton,NO,7
+1601054,11/22/2014,FBS,La.-Monroe,New Mexico St.,PUNTING,Justin,Manton,YDS,332
+1601055,11/22/2014,FBS,La.-Monroe,New Mexico St.,PUNTING,Justin,Manton,AVG,47.4
+1601056,11/22/2014,FBS,La.-Monroe,New Mexico St.,PUNTING,Justin,Manton,LONG,62
+1601057,11/22/2014,FBS,La.-Monroe,New Mexico St.,PUNT RETURNS,Rashon,Ceaser,NO,1
+1601058,11/22/2014,FBS,La.-Monroe,New Mexico St.,PUNT RETURNS,Rashon,Ceaser,YDS,51
+1601059,11/22/2014,FBS,La.-Monroe,New Mexico St.,PUNT RETURNS,Rashon,Ceaser,AVG,51.0
+1601060,11/22/2014,FBS,La.-Monroe,New Mexico St.,PUNT RETURNS,Rashon,Ceaser,LONG,51
+1601061,11/22/2014,FBS,La.-Monroe,New Mexico St.,KICK RETURNS,Tyler,Cain,NO,2
+1601062,11/22/2014,FBS,La.-Monroe,New Mexico St.,KICK RETURNS,Tyler,Cain,YDS,44
+1601063,11/22/2014,FBS,La.-Monroe,New Mexico St.,KICK RETURNS,Tyler,Cain,AVG,22.0
+1601064,11/22/2014,FBS,La.-Monroe,New Mexico St.,KICK RETURNS,Tyler,Cain,LONG,25
+1601065,11/22/2014,FBS,New Mexico St.,La.-Monroe,RUSHING,Larry,RoseIII,ATT,35
+1601066,11/22/2014,FBS,New Mexico St.,La.-Monroe,RUSHING,Larry,RoseIII,YDS,229
+1601067,11/22/2014,FBS,New Mexico St.,La.-Monroe,RUSHING,Larry,RoseIII,TD,2
+1601068,11/22/2014,FBS,New Mexico St.,La.-Monroe,RUSHING,Larry,RoseIII,LONG,64
+1601069,11/22/2014,FBS,New Mexico St.,La.-Monroe,RUSHING,Tyler,Rogers,ATT,11
+1601070,11/22/2014,FBS,New Mexico St.,La.-Monroe,RUSHING,Tyler,Rogers,YDS,42
+1601071,11/22/2014,FBS,New Mexico St.,La.-Monroe,RUSHING,Tyler,Rogers,TD,0
+1601072,11/22/2014,FBS,New Mexico St.,La.-Monroe,RUSHING,Tyler,Rogers,LONG,27
+1601073,11/22/2014,FBS,New Mexico St.,La.-Monroe,RUSHING,Andrew,Allen,ATT,3
+1601074,11/22/2014,FBS,New Mexico St.,La.-Monroe,RUSHING,Andrew,Allen,YDS,3
+1601075,11/22/2014,FBS,New Mexico St.,La.-Monroe,RUSHING,Andrew,Allen,TD,0
+1601076,11/22/2014,FBS,New Mexico St.,La.-Monroe,RUSHING,Andrew,Allen,LONG,10
+1601077,11/22/2014,FBS,New Mexico St.,La.-Monroe,RUSHING,Derek,Ibekwe,ATT,1
+1601078,11/22/2014,FBS,New Mexico St.,La.-Monroe,RUSHING,Derek,Ibekwe,YDS,1
+1601079,11/22/2014,FBS,New Mexico St.,La.-Monroe,RUSHING,Derek,Ibekwe,TD,0
+1601080,11/22/2014,FBS,New Mexico St.,La.-Monroe,RUSHING,Derek,Ibekwe,LONG,1
+1601081,11/22/2014,FBS,New Mexico St.,La.-Monroe,RUSHING,Marquette,Washington,ATT,1
+1601082,11/22/2014,FBS,New Mexico St.,La.-Monroe,RUSHING,Marquette,Washington,YDS,1
+1601083,11/22/2014,FBS,New Mexico St.,La.-Monroe,RUSHING,Marquette,Washington,TD,0
+1601084,11/22/2014,FBS,New Mexico St.,La.-Monroe,RUSHING,Marquette,Washington,LONG,1
+1601085,11/22/2014,FBS,New Mexico St.,La.-Monroe,PASSING,Tyler,Rogers,CP-ATT-INT,15-32-1
+1601086,11/22/2014,FBS,New Mexico St.,La.-Monroe,PASSING,Tyler,Rogers,YDS,102
+1601087,11/22/2014,FBS,New Mexico St.,La.-Monroe,PASSING,Tyler,Rogers,TD,0
+1601088,11/22/2014,FBS,New Mexico St.,La.-Monroe,PASSING,Tyler,Rogers,LONG,14
+1601089,11/22/2014,FBS,New Mexico St.,La.-Monroe,RECEIVING,Teldrick,Morgan,REC,4
+1601090,11/22/2014,FBS,New Mexico St.,La.-Monroe,RECEIVING,Teldrick,Morgan,YDS,41
+1601091,11/22/2014,FBS,New Mexico St.,La.-Monroe,RECEIVING,Teldrick,Morgan,TD,0
+1601092,11/22/2014,FBS,New Mexico St.,La.-Monroe,RECEIVING,Teldrick,Morgan,LONG,14
+1601093,11/22/2014,FBS,New Mexico St.,La.-Monroe,RECEIVING,Joshua,Bowen,REC,2
+1601094,11/22/2014,FBS,New Mexico St.,La.-Monroe,RECEIVING,Joshua,Bowen,YDS,16
+1601095,11/22/2014,FBS,New Mexico St.,La.-Monroe,RECEIVING,Joshua,Bowen,TD,0
+1601096,11/22/2014,FBS,New Mexico St.,La.-Monroe,RECEIVING,Joshua,Bowen,LONG,13
+1601097,11/22/2014,FBS,New Mexico St.,La.-Monroe,RECEIVING,Adam,Shapiro,REC,2
+1601098,11/22/2014,FBS,New Mexico St.,La.-Monroe,RECEIVING,Adam,Shapiro,YDS,13
+1601099,11/22/2014,FBS,New Mexico St.,La.-Monroe,RECEIVING,Adam,Shapiro,TD,0
+1601100,11/22/2014,FBS,New Mexico St.,La.-Monroe,RECEIVING,Adam,Shapiro,LONG,8
+1601101,11/22/2014,FBS,New Mexico St.,La.-Monroe,RECEIVING,Jerrel,Brown,REC,2
+1601102,11/22/2014,FBS,New Mexico St.,La.-Monroe,RECEIVING,Jerrel,Brown,YDS,12
+1601103,11/22/2014,FBS,New Mexico St.,La.-Monroe,RECEIVING,Jerrel,Brown,TD,0
+1601104,11/22/2014,FBS,New Mexico St.,La.-Monroe,RECEIVING,Jerrel,Brown,LONG,6
+1601105,11/22/2014,FBS,New Mexico St.,La.-Monroe,RECEIVING,Andrew,Dean,REC,1
+1601106,11/22/2014,FBS,New Mexico St.,La.-Monroe,RECEIVING,Andrew,Dean,YDS,8
+1601107,11/22/2014,FBS,New Mexico St.,La.-Monroe,RECEIVING,Andrew,Dean,TD,0
+1601108,11/22/2014,FBS,New Mexico St.,La.-Monroe,RECEIVING,Andrew,Dean,LONG,8
+1601109,11/22/2014,FBS,New Mexico St.,La.-Monroe,RECEIVING,Joseph,Matthews,REC,1
+1601110,11/22/2014,FBS,New Mexico St.,La.-Monroe,RECEIVING,Joseph,Matthews,YDS,5
+1601111,11/22/2014,FBS,New Mexico St.,La.-Monroe,RECEIVING,Joseph,Matthews,TD,0
+1601112,11/22/2014,FBS,New Mexico St.,La.-Monroe,RECEIVING,Joseph,Matthews,LONG,5
+1601113,11/22/2014,FBS,New Mexico St.,La.-Monroe,RECEIVING,Gregory,Hogan,REC,2
+1601114,11/22/2014,FBS,New Mexico St.,La.-Monroe,RECEIVING,Gregory,Hogan,YDS,5
+1601115,11/22/2014,FBS,New Mexico St.,La.-Monroe,RECEIVING,Gregory,Hogan,TD,0
+1601116,11/22/2014,FBS,New Mexico St.,La.-Monroe,RECEIVING,Gregory,Hogan,LONG,3
+1601117,11/22/2014,FBS,New Mexico St.,La.-Monroe,RECEIVING,Larry,RoseIII,REC,1
+1601118,11/22/2014,FBS,New Mexico St.,La.-Monroe,RECEIVING,Larry,RoseIII,YDS,2
+1601119,11/22/2014,FBS,New Mexico St.,La.-Monroe,RECEIVING,Larry,RoseIII,TD,0
+1601120,11/22/2014,FBS,New Mexico St.,La.-Monroe,RECEIVING,Larry,RoseIII,LONG,2
+1601121,11/22/2014,FBS,New Mexico St.,La.-Monroe,KICKING,Maxwell,Johnson,FG-FGA,1/1
+1601122,11/22/2014,FBS,New Mexico St.,La.-Monroe,KICKING,Maxwell,Johnson,LONG,32
+1601123,11/22/2014,FBS,New Mexico St.,La.-Monroe,KICKING,Maxwell,Johnson,XP,2
+1601124,11/22/2014,FBS,New Mexico St.,La.-Monroe,KICKING,Maxwell,Johnson,PTS,5
+1601125,11/22/2014,FBS,New Mexico St.,La.-Monroe,PUNTING,Alex,Louthan,NO,5
+1601126,11/22/2014,FBS,New Mexico St.,La.-Monroe,PUNTING,Alex,Louthan,YDS,181
+1601127,11/22/2014,FBS,New Mexico St.,La.-Monroe,PUNTING,Alex,Louthan,AVG,30.2
+1601128,11/22/2014,FBS,New Mexico St.,La.-Monroe,PUNTING,Alex,Louthan,LONG,45
+1601129,11/22/2014,FBS,New Mexico St.,La.-Monroe,PUNTING,Kelly,Kingseed,NO,2
+1601130,11/22/2014,FBS,New Mexico St.,La.-Monroe,PUNTING,Kelly,Kingseed,YDS,89
+1601131,11/22/2014,FBS,New Mexico St.,La.-Monroe,PUNTING,Kelly,Kingseed,AVG,44.5
+1601132,11/22/2014,FBS,New Mexico St.,La.-Monroe,PUNTING,Kelly,Kingseed,LONG,56
+1601133,11/22/2014,FBS,New Mexico St.,La.-Monroe,PUNT RETURNS,Gregory,Hogan,NO,1
+1601134,11/22/2014,FBS,New Mexico St.,La.-Monroe,PUNT RETURNS,Gregory,Hogan,YDS,15
+1601135,11/22/2014,FBS,New Mexico St.,La.-Monroe,PUNT RETURNS,Gregory,Hogan,AVG,15.0
+1601136,11/22/2014,FBS,New Mexico St.,La.-Monroe,PUNT RETURNS,Gregory,Hogan,LONG,15

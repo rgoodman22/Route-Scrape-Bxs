@@ -1,0 +1,153 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1507001,11/8/2014,FBS,Ohio State,Michigan State,RUSHING,Ezekiel,Elliott,ATT,23
+1507002,11/8/2014,FBS,Ohio State,Michigan State,RUSHING,Ezekiel,Elliott,YDS,154
+1507003,11/8/2014,FBS,Ohio State,Michigan State,RUSHING,Ezekiel,Elliott,TD,2
+1507004,11/8/2014,FBS,Ohio State,Michigan State,RUSHING,Ezekiel,Elliott,LONG,47
+1507005,11/8/2014,FBS,Ohio State,Michigan State,RUSHING,J.T.,Barrett,ATT,14
+1507006,11/8/2014,FBS,Ohio State,Michigan State,RUSHING,J.T.,Barrett,YDS,86
+1507007,11/8/2014,FBS,Ohio State,Michigan State,RUSHING,J.T.,Barrett,TD,2
+1507008,11/8/2014,FBS,Ohio State,Michigan State,RUSHING,J.T.,Barrett,LONG,55
+1507009,11/8/2014,FBS,Ohio State,Michigan State,RUSHING,Jalin,Marshall,ATT,3
+1507010,11/8/2014,FBS,Ohio State,Michigan State,RUSHING,Jalin,Marshall,YDS,19
+1507011,11/8/2014,FBS,Ohio State,Michigan State,RUSHING,Jalin,Marshall,TD,0
+1507012,11/8/2014,FBS,Ohio State,Michigan State,RUSHING,Jalin,Marshall,LONG,14
+1507013,11/8/2014,FBS,Ohio State,Michigan State,RUSHING,Evan,Spencer,ATT,1
+1507014,11/8/2014,FBS,Ohio State,Michigan State,RUSHING,Evan,Spencer,YDS,9
+1507015,11/8/2014,FBS,Ohio State,Michigan State,RUSHING,Evan,Spencer,TD,0
+1507016,11/8/2014,FBS,Ohio State,Michigan State,RUSHING,Evan,Spencer,LONG,9
+1507017,11/8/2014,FBS,Ohio State,Michigan State,PASSING,J.T.,Barrett,CP-ATT-INT,16-26-0
+1507018,11/8/2014,FBS,Ohio State,Michigan State,PASSING,J.T.,Barrett,YDS,300
+1507019,11/8/2014,FBS,Ohio State,Michigan State,PASSING,J.T.,Barrett,TD,3
+1507020,11/8/2014,FBS,Ohio State,Michigan State,PASSING,J.T.,Barrett,LONG,79
+1507021,11/8/2014,FBS,Ohio State,Michigan State,RECEIVING,Devin,Smith,REC,6
+1507022,11/8/2014,FBS,Ohio State,Michigan State,RECEIVING,Devin,Smith,YDS,129
+1507023,11/8/2014,FBS,Ohio State,Michigan State,RECEIVING,Devin,Smith,TD,1
+1507024,11/8/2014,FBS,Ohio State,Michigan State,RECEIVING,Devin,Smith,LONG,44
+1507025,11/8/2014,FBS,Ohio State,Michigan State,RECEIVING,Michael,Thomas,REC,3
+1507026,11/8/2014,FBS,Ohio State,Michigan State,RECEIVING,Michael,Thomas,YDS,91
+1507027,11/8/2014,FBS,Ohio State,Michigan State,RECEIVING,Michael,Thomas,TD,1
+1507028,11/8/2014,FBS,Ohio State,Michigan State,RECEIVING,Michael,Thomas,LONG,79
+1507029,11/8/2014,FBS,Ohio State,Michigan State,RECEIVING,Jalin,Marshall,REC,2
+1507030,11/8/2014,FBS,Ohio State,Michigan State,RECEIVING,Jalin,Marshall,YDS,33
+1507031,11/8/2014,FBS,Ohio State,Michigan State,RECEIVING,Jalin,Marshall,TD,0
+1507032,11/8/2014,FBS,Ohio State,Michigan State,RECEIVING,Jalin,Marshall,LONG,20
+1507033,11/8/2014,FBS,Ohio State,Michigan State,RECEIVING,Dontre,Wilson,REC,2
+1507034,11/8/2014,FBS,Ohio State,Michigan State,RECEIVING,Dontre,Wilson,YDS,23
+1507035,11/8/2014,FBS,Ohio State,Michigan State,RECEIVING,Dontre,Wilson,TD,1
+1507036,11/8/2014,FBS,Ohio State,Michigan State,RECEIVING,Dontre,Wilson,LONG,16
+1507037,11/8/2014,FBS,Ohio State,Michigan State,RECEIVING,Evan,Spencer,REC,1
+1507038,11/8/2014,FBS,Ohio State,Michigan State,RECEIVING,Evan,Spencer,YDS,12
+1507039,11/8/2014,FBS,Ohio State,Michigan State,RECEIVING,Evan,Spencer,TD,0
+1507040,11/8/2014,FBS,Ohio State,Michigan State,RECEIVING,Evan,Spencer,LONG,12
+1507041,11/8/2014,FBS,Ohio State,Michigan State,RECEIVING,Jeff,Heuerman,REC,2
+1507042,11/8/2014,FBS,Ohio State,Michigan State,RECEIVING,Jeff,Heuerman,YDS,12
+1507043,11/8/2014,FBS,Ohio State,Michigan State,RECEIVING,Jeff,Heuerman,TD,0
+1507044,11/8/2014,FBS,Ohio State,Michigan State,RECEIVING,Jeff,Heuerman,LONG,7
+1507045,11/8/2014,FBS,Ohio State,Michigan State,KICKING,Sean,Nuernberger,FG-FGA,0/1
+1507046,11/8/2014,FBS,Ohio State,Michigan State,KICKING,Sean,Nuernberger,LONG,0
+1507047,11/8/2014,FBS,Ohio State,Michigan State,KICKING,Sean,Nuernberger,XP,7
+1507048,11/8/2014,FBS,Ohio State,Michigan State,KICKING,Sean,Nuernberger,PTS,7
+1507049,11/8/2014,FBS,Ohio State,Michigan State,PUNTING,Cameron,Johnston,NO,2
+1507050,11/8/2014,FBS,Ohio State,Michigan State,PUNTING,Cameron,Johnston,YDS,76
+1507051,11/8/2014,FBS,Ohio State,Michigan State,PUNTING,Cameron,Johnston,AVG,38.0
+1507052,11/8/2014,FBS,Ohio State,Michigan State,PUNTING,Cameron,Johnston,LONG,48
+1507053,11/8/2014,FBS,Ohio State,Michigan State,PUNT RETURNS,Jalin,Marshall,NO,1
+1507054,11/8/2014,FBS,Ohio State,Michigan State,PUNT RETURNS,Jalin,Marshall,YDS,26
+1507055,11/8/2014,FBS,Ohio State,Michigan State,PUNT RETURNS,Jalin,Marshall,AVG,26.0
+1507056,11/8/2014,FBS,Ohio State,Michigan State,PUNT RETURNS,Jalin,Marshall,LONG,26
+1507057,11/8/2014,FBS,Ohio State,Michigan State,PUNT RETURNS,Jeff,Greene,NO,1
+1507058,11/8/2014,FBS,Ohio State,Michigan State,PUNT RETURNS,Jeff,Greene,YDS,0
+1507059,11/8/2014,FBS,Ohio State,Michigan State,PUNT RETURNS,Jeff,Greene,AVG,-
+1507060,11/8/2014,FBS,Ohio State,Michigan State,PUNT RETURNS,Jeff,Greene,LONG,0
+1507061,11/8/2014,FBS,Ohio State,Michigan State,KICK RETURNS,Dontre,Wilson,NO,5
+1507062,11/8/2014,FBS,Ohio State,Michigan State,KICK RETURNS,Dontre,Wilson,YDS,116
+1507063,11/8/2014,FBS,Ohio State,Michigan State,KICK RETURNS,Dontre,Wilson,AVG,23.2
+1507064,11/8/2014,FBS,Ohio State,Michigan State,KICK RETURNS,Dontre,Wilson,LONG,29
+1507065,11/8/2014,FBS,Ohio State,Michigan State,KICK RETURNS,Curtis,Samuel,NO,1
+1507066,11/8/2014,FBS,Ohio State,Michigan State,KICK RETURNS,Curtis,Samuel,YDS,22
+1507067,11/8/2014,FBS,Ohio State,Michigan State,KICK RETURNS,Curtis,Samuel,AVG,22.0
+1507068,11/8/2014,FBS,Ohio State,Michigan State,KICK RETURNS,Curtis,Samuel,LONG,22
+1507069,11/8/2014,FBS,Michigan State,Ohio State,RUSHING,Jeremy,Langford,ATT,18
+1507070,11/8/2014,FBS,Michigan State,Ohio State,RUSHING,Jeremy,Langford,YDS,137
+1507071,11/8/2014,FBS,Michigan State,Ohio State,RUSHING,Jeremy,Langford,TD,3
+1507072,11/8/2014,FBS,Michigan State,Ohio State,RUSHING,Jeremy,Langford,LONG,33
+1507073,11/8/2014,FBS,Michigan State,Ohio State,RUSHING,Delton,Williams,ATT,4
+1507074,11/8/2014,FBS,Michigan State,Ohio State,RUSHING,Delton,Williams,YDS,20
+1507075,11/8/2014,FBS,Michigan State,Ohio State,RUSHING,Delton,Williams,TD,0
+1507076,11/8/2014,FBS,Michigan State,Ohio State,RUSHING,Delton,Williams,LONG,7
+1507077,11/8/2014,FBS,Michigan State,Ohio State,RUSHING,Connor,Cook,ATT,6
+1507078,11/8/2014,FBS,Michigan State,Ohio State,RUSHING,Connor,Cook,YDS,15
+1507079,11/8/2014,FBS,Michigan State,Ohio State,RUSHING,Connor,Cook,TD,0
+1507080,11/8/2014,FBS,Michigan State,Ohio State,RUSHING,Connor,Cook,LONG,7
+1507081,11/8/2014,FBS,Michigan State,Ohio State,RUSHING,Macgarrett,KingsJr.,ATT,1
+1507082,11/8/2014,FBS,Michigan State,Ohio State,RUSHING,Macgarrett,KingsJr.,YDS,7
+1507083,11/8/2014,FBS,Michigan State,Ohio State,RUSHING,Macgarrett,KingsJr.,TD,0
+1507084,11/8/2014,FBS,Michigan State,Ohio State,RUSHING,Macgarrett,KingsJr.,LONG,7
+1507085,11/8/2014,FBS,Michigan State,Ohio State,RUSHING,R.J.,Shelton,ATT,1
+1507086,11/8/2014,FBS,Michigan State,Ohio State,RUSHING,R.J.,Shelton,YDS,3
+1507087,11/8/2014,FBS,Michigan State,Ohio State,RUSHING,R.J.,Shelton,TD,0
+1507088,11/8/2014,FBS,Michigan State,Ohio State,RUSHING,R.J.,Shelton,LONG,3
+1507089,11/8/2014,FBS,Michigan State,Ohio State,RUSHING,Jack,Allen,ATT,0
+1507090,11/8/2014,FBS,Michigan State,Ohio State,RUSHING,Jack,Allen,YDS,0
+1507091,11/8/2014,FBS,Michigan State,Ohio State,RUSHING,Jack,Allen,TD,0
+1507092,11/8/2014,FBS,Michigan State,Ohio State,RUSHING,Jack,Allen,LONG,0
+1507093,11/8/2014,FBS,Michigan State,Ohio State,RUSHING,,Team,ATT,1
+1507094,11/8/2014,FBS,Michigan State,Ohio State,RUSHING,,Team,YDS,-1
+1507095,11/8/2014,FBS,Michigan State,Ohio State,RUSHING,,Team,TD,0
+1507096,11/8/2014,FBS,Michigan State,Ohio State,RUSHING,,Team,LONG,-1
+1507097,11/8/2014,FBS,Michigan State,Ohio State,RUSHING,Nick,Hill,ATT,3
+1507098,11/8/2014,FBS,Michigan State,Ohio State,RUSHING,Nick,Hill,YDS,-3
+1507099,11/8/2014,FBS,Michigan State,Ohio State,RUSHING,Nick,Hill,TD,0
+1507100,11/8/2014,FBS,Michigan State,Ohio State,RUSHING,Nick,Hill,LONG,3
+1507101,11/8/2014,FBS,Michigan State,Ohio State,PASSING,Connor,Cook,CP-ATT-INT,25-45-0
+1507102,11/8/2014,FBS,Michigan State,Ohio State,PASSING,Connor,Cook,YDS,358
+1507103,11/8/2014,FBS,Michigan State,Ohio State,PASSING,Connor,Cook,TD,2
+1507104,11/8/2014,FBS,Michigan State,Ohio State,PASSING,Connor,Cook,LONG,44
+1507105,11/8/2014,FBS,Michigan State,Ohio State,RECEIVING,Macgarrett,KingsJr.,REC,5
+1507106,11/8/2014,FBS,Michigan State,Ohio State,RECEIVING,Macgarrett,KingsJr.,YDS,79
+1507107,11/8/2014,FBS,Michigan State,Ohio State,RECEIVING,Macgarrett,KingsJr.,TD,0
+1507108,11/8/2014,FBS,Michigan State,Ohio State,RECEIVING,Macgarrett,KingsJr.,LONG,18
+1507109,11/8/2014,FBS,Michigan State,Ohio State,RECEIVING,Keith,Mumphery,REC,3
+1507110,11/8/2014,FBS,Michigan State,Ohio State,RECEIVING,Keith,Mumphery,YDS,72
+1507111,11/8/2014,FBS,Michigan State,Ohio State,RECEIVING,Keith,Mumphery,TD,1
+1507112,11/8/2014,FBS,Michigan State,Ohio State,RECEIVING,Keith,Mumphery,LONG,44
+1507113,11/8/2014,FBS,Michigan State,Ohio State,RECEIVING,Josiah,Price,REC,5
+1507114,11/8/2014,FBS,Michigan State,Ohio State,RECEIVING,Josiah,Price,YDS,72
+1507115,11/8/2014,FBS,Michigan State,Ohio State,RECEIVING,Josiah,Price,TD,1
+1507116,11/8/2014,FBS,Michigan State,Ohio State,RECEIVING,Josiah,Price,LONG,19
+1507117,11/8/2014,FBS,Michigan State,Ohio State,RECEIVING,Tony,Lippett,REC,5
+1507118,11/8/2014,FBS,Michigan State,Ohio State,RECEIVING,Tony,Lippett,YDS,64
+1507119,11/8/2014,FBS,Michigan State,Ohio State,RECEIVING,Tony,Lippett,TD,0
+1507120,11/8/2014,FBS,Michigan State,Ohio State,RECEIVING,Tony,Lippett,LONG,17
+1507121,11/8/2014,FBS,Michigan State,Ohio State,RECEIVING,Aaron,Burbridge,REC,4
+1507122,11/8/2014,FBS,Michigan State,Ohio State,RECEIVING,Aaron,Burbridge,YDS,41
+1507123,11/8/2014,FBS,Michigan State,Ohio State,RECEIVING,Aaron,Burbridge,TD,0
+1507124,11/8/2014,FBS,Michigan State,Ohio State,RECEIVING,Aaron,Burbridge,LONG,19
+1507125,11/8/2014,FBS,Michigan State,Ohio State,RECEIVING,R.J.,Shelton,REC,2
+1507126,11/8/2014,FBS,Michigan State,Ohio State,RECEIVING,R.J.,Shelton,YDS,15
+1507127,11/8/2014,FBS,Michigan State,Ohio State,RECEIVING,R.J.,Shelton,TD,0
+1507128,11/8/2014,FBS,Michigan State,Ohio State,RECEIVING,R.J.,Shelton,LONG,11
+1507129,11/8/2014,FBS,Michigan State,Ohio State,RECEIVING,Jeremy,Langford,REC,1
+1507130,11/8/2014,FBS,Michigan State,Ohio State,RECEIVING,Jeremy,Langford,YDS,15
+1507131,11/8/2014,FBS,Michigan State,Ohio State,RECEIVING,Jeremy,Langford,TD,0
+1507132,11/8/2014,FBS,Michigan State,Ohio State,RECEIVING,Jeremy,Langford,LONG,11
+1507133,11/8/2014,FBS,Michigan State,Ohio State,KICKING,Michael,Geiger,FG-FGA,1/2
+1507134,11/8/2014,FBS,Michigan State,Ohio State,KICKING,Michael,Geiger,LONG,40
+1507135,11/8/2014,FBS,Michigan State,Ohio State,KICKING,Michael,Geiger,XP,4
+1507136,11/8/2014,FBS,Michigan State,Ohio State,KICKING,Michael,Geiger,PTS,7
+1507137,11/8/2014,FBS,Michigan State,Ohio State,PUNTING,Mike,Sadler,NO,3
+1507138,11/8/2014,FBS,Michigan State,Ohio State,PUNTING,Mike,Sadler,YDS,127
+1507139,11/8/2014,FBS,Michigan State,Ohio State,PUNTING,Mike,Sadler,AVG,42.3
+1507140,11/8/2014,FBS,Michigan State,Ohio State,PUNTING,Mike,Sadler,LONG,48
+1507141,11/8/2014,FBS,Michigan State,Ohio State,PUNT RETURNS,RJ,Williamson,NO,1
+1507142,11/8/2014,FBS,Michigan State,Ohio State,PUNT RETURNS,RJ,Williamson,YDS,2
+1507143,11/8/2014,FBS,Michigan State,Ohio State,PUNT RETURNS,RJ,Williamson,AVG,2.0
+1507144,11/8/2014,FBS,Michigan State,Ohio State,PUNT RETURNS,RJ,Williamson,LONG,2
+1507145,11/8/2014,FBS,Michigan State,Ohio State,KICK RETURNS,R.J.,Shelton,NO,3
+1507146,11/8/2014,FBS,Michigan State,Ohio State,KICK RETURNS,R.J.,Shelton,YDS,60
+1507147,11/8/2014,FBS,Michigan State,Ohio State,KICK RETURNS,R.J.,Shelton,AVG,20.0
+1507148,11/8/2014,FBS,Michigan State,Ohio State,KICK RETURNS,R.J.,Shelton,LONG,26
+1507149,11/8/2014,FBS,Michigan State,Ohio State,KICK RETURNS,Trevon,Pendleton,NO,1
+1507150,11/8/2014,FBS,Michigan State,Ohio State,KICK RETURNS,Trevon,Pendleton,YDS,19
+1507151,11/8/2014,FBS,Michigan State,Ohio State,KICK RETURNS,Trevon,Pendleton,AVG,19.0
+1507152,11/8/2014,FBS,Michigan State,Ohio State,KICK RETURNS,Trevon,Pendleton,LONG,19

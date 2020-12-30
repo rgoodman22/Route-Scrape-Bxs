@@ -1,0 +1,125 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1591001,11/22/2014,FBS,Maryland,Michigan,RUSHING,C.J.,Brown,ATT,18
+1591002,11/22/2014,FBS,Maryland,Michigan,RUSHING,C.J.,Brown,YDS,87
+1591003,11/22/2014,FBS,Maryland,Michigan,RUSHING,C.J.,Brown,TD,1
+1591004,11/22/2014,FBS,Maryland,Michigan,RUSHING,C.J.,Brown,LONG,30
+1591005,11/22/2014,FBS,Maryland,Michigan,RUSHING,Wes,Brown,ATT,11
+1591006,11/22/2014,FBS,Maryland,Michigan,RUSHING,Wes,Brown,YDS,39
+1591007,11/22/2014,FBS,Maryland,Michigan,RUSHING,Wes,Brown,TD,1
+1591008,11/22/2014,FBS,Maryland,Michigan,RUSHING,Wes,Brown,LONG,9
+1591009,11/22/2014,FBS,Maryland,Michigan,RUSHING,Brandon,Ross,ATT,3
+1591010,11/22/2014,FBS,Maryland,Michigan,RUSHING,Brandon,Ross,YDS,16
+1591011,11/22/2014,FBS,Maryland,Michigan,RUSHING,Brandon,Ross,TD,0
+1591012,11/22/2014,FBS,Maryland,Michigan,RUSHING,Brandon,Ross,LONG,10
+1591013,11/22/2014,FBS,Maryland,Michigan,RUSHING,Jacquille,Veii,ATT,3
+1591014,11/22/2014,FBS,Maryland,Michigan,RUSHING,Jacquille,Veii,YDS,5
+1591015,11/22/2014,FBS,Maryland,Michigan,RUSHING,Jacquille,Veii,TD,0
+1591016,11/22/2014,FBS,Maryland,Michigan,RUSHING,Jacquille,Veii,LONG,3
+1591017,11/22/2014,FBS,Maryland,Michigan,PASSING,C.J.,Brown,CP-ATT-INT,13-24-0
+1591018,11/22/2014,FBS,Maryland,Michigan,PASSING,C.J.,Brown,YDS,165
+1591019,11/22/2014,FBS,Maryland,Michigan,PASSING,C.J.,Brown,TD,0
+1591020,11/22/2014,FBS,Maryland,Michigan,PASSING,C.J.,Brown,LONG,36
+1591021,11/22/2014,FBS,Maryland,Michigan,RECEIVING,Jacquille,Veii,REC,3
+1591022,11/22/2014,FBS,Maryland,Michigan,RECEIVING,Jacquille,Veii,YDS,45
+1591023,11/22/2014,FBS,Maryland,Michigan,RECEIVING,Jacquille,Veii,TD,0
+1591024,11/22/2014,FBS,Maryland,Michigan,RECEIVING,Jacquille,Veii,LONG,21
+1591025,11/22/2014,FBS,Maryland,Michigan,RECEIVING,Amba,Etta-Tawo,REC,2
+1591026,11/22/2014,FBS,Maryland,Michigan,RECEIVING,Amba,Etta-Tawo,YDS,45
+1591027,11/22/2014,FBS,Maryland,Michigan,RECEIVING,Amba,Etta-Tawo,TD,0
+1591028,11/22/2014,FBS,Maryland,Michigan,RECEIVING,Amba,Etta-Tawo,LONG,36
+1591029,11/22/2014,FBS,Maryland,Michigan,RECEIVING,Deon,Long,REC,4
+1591030,11/22/2014,FBS,Maryland,Michigan,RECEIVING,Deon,Long,YDS,39
+1591031,11/22/2014,FBS,Maryland,Michigan,RECEIVING,Deon,Long,TD,0
+1591032,11/22/2014,FBS,Maryland,Michigan,RECEIVING,Deon,Long,LONG,15
+1591033,11/22/2014,FBS,Maryland,Michigan,RECEIVING,Marcus,Leak,REC,2
+1591034,11/22/2014,FBS,Maryland,Michigan,RECEIVING,Marcus,Leak,YDS,21
+1591035,11/22/2014,FBS,Maryland,Michigan,RECEIVING,Marcus,Leak,TD,0
+1591036,11/22/2014,FBS,Maryland,Michigan,RECEIVING,Marcus,Leak,LONG,11
+1591037,11/22/2014,FBS,Maryland,Michigan,RECEIVING,Wes,Brown,REC,1
+1591038,11/22/2014,FBS,Maryland,Michigan,RECEIVING,Wes,Brown,YDS,17
+1591039,11/22/2014,FBS,Maryland,Michigan,RECEIVING,Wes,Brown,TD,0
+1591040,11/22/2014,FBS,Maryland,Michigan,RECEIVING,Wes,Brown,LONG,17
+1591041,11/22/2014,FBS,Maryland,Michigan,RECEIVING,Derrick,Hayward,REC,1
+1591042,11/22/2014,FBS,Maryland,Michigan,RECEIVING,Derrick,Hayward,YDS,-2
+1591043,11/22/2014,FBS,Maryland,Michigan,RECEIVING,Derrick,Hayward,TD,0
+1591044,11/22/2014,FBS,Maryland,Michigan,RECEIVING,Derrick,Hayward,LONG,0
+1591045,11/22/2014,FBS,Maryland,Michigan,KICKING,Brad,Craddock,FG-FGA,3/3
+1591046,11/22/2014,FBS,Maryland,Michigan,KICKING,Brad,Craddock,LONG,41
+1591047,11/22/2014,FBS,Maryland,Michigan,KICKING,Brad,Craddock,XP,2
+1591048,11/22/2014,FBS,Maryland,Michigan,KICKING,Brad,Craddock,PTS,11
+1591049,11/22/2014,FBS,Maryland,Michigan,PUNTING,Nathan,Renfro,NO,4
+1591050,11/22/2014,FBS,Maryland,Michigan,PUNTING,Nathan,Renfro,YDS,154
+1591051,11/22/2014,FBS,Maryland,Michigan,PUNTING,Nathan,Renfro,AVG,38.5
+1591052,11/22/2014,FBS,Maryland,Michigan,PUNTING,Nathan,Renfro,LONG,43
+1591053,11/22/2014,FBS,Maryland,Michigan,PUNT RETURNS,William,Likely,NO,1
+1591054,11/22/2014,FBS,Maryland,Michigan,PUNT RETURNS,William,Likely,YDS,28
+1591055,11/22/2014,FBS,Maryland,Michigan,PUNT RETURNS,William,Likely,AVG,28.0
+1591056,11/22/2014,FBS,Maryland,Michigan,PUNT RETURNS,William,Likely,LONG,28
+1591057,11/22/2014,FBS,Maryland,Michigan,KICK RETURNS,William,Likely,NO,1
+1591058,11/22/2014,FBS,Maryland,Michigan,KICK RETURNS,William,Likely,YDS,31
+1591059,11/22/2014,FBS,Maryland,Michigan,KICK RETURNS,William,Likely,AVG,31.0
+1591060,11/22/2014,FBS,Maryland,Michigan,KICK RETURNS,William,Likely,LONG,31
+1591061,11/22/2014,FBS,Maryland,Michigan,KICK RETURNS,Joe,Riddle,NO,1
+1591062,11/22/2014,FBS,Maryland,Michigan,KICK RETURNS,Joe,Riddle,YDS,16
+1591063,11/22/2014,FBS,Maryland,Michigan,KICK RETURNS,Joe,Riddle,AVG,16.0
+1591064,11/22/2014,FBS,Maryland,Michigan,KICK RETURNS,Joe,Riddle,LONG,16
+1591065,11/22/2014,FBS,Michigan,Maryland,RUSHING,Drake,Johnson,ATT,14
+1591066,11/22/2014,FBS,Michigan,Maryland,RUSHING,Drake,Johnson,YDS,94
+1591067,11/22/2014,FBS,Michigan,Maryland,RUSHING,Drake,Johnson,TD,0
+1591068,11/22/2014,FBS,Michigan,Maryland,RUSHING,Drake,Johnson,LONG,17
+1591069,11/22/2014,FBS,Michigan,Maryland,RUSHING,Devin,Gardner,ATT,14
+1591070,11/22/2014,FBS,Michigan,Maryland,RUSHING,Devin,Gardner,YDS,82
+1591071,11/22/2014,FBS,Michigan,Maryland,RUSHING,Devin,Gardner,TD,1
+1591072,11/22/2014,FBS,Michigan,Maryland,RUSHING,Devin,Gardner,LONG,24
+1591073,11/22/2014,FBS,Michigan,Maryland,RUSHING,Joe,Kerridge,ATT,1
+1591074,11/22/2014,FBS,Michigan,Maryland,RUSHING,Joe,Kerridge,YDS,52
+1591075,11/22/2014,FBS,Michigan,Maryland,RUSHING,Joe,Kerridge,TD,0
+1591076,11/22/2014,FBS,Michigan,Maryland,RUSHING,Joe,Kerridge,LONG,52
+1591077,11/22/2014,FBS,Michigan,Maryland,RUSHING,Justice,Hayes,ATT,6
+1591078,11/22/2014,FBS,Michigan,Maryland,RUSHING,Justice,Hayes,YDS,36
+1591079,11/22/2014,FBS,Michigan,Maryland,RUSHING,Justice,Hayes,TD,0
+1591080,11/22/2014,FBS,Michigan,Maryland,RUSHING,Justice,Hayes,LONG,13
+1591081,11/22/2014,FBS,Michigan,Maryland,RUSHING,De'Veon,Smith,ATT,10
+1591082,11/22/2014,FBS,Michigan,Maryland,RUSHING,De'Veon,Smith,YDS,28
+1591083,11/22/2014,FBS,Michigan,Maryland,RUSHING,De'Veon,Smith,TD,0
+1591084,11/22/2014,FBS,Michigan,Maryland,RUSHING,De'Veon,Smith,LONG,10
+1591085,11/22/2014,FBS,Michigan,Maryland,PASSING,Devin,Gardner,CP-ATT-INT,13-24-1
+1591086,11/22/2014,FBS,Michigan,Maryland,PASSING,Devin,Gardner,YDS,106
+1591087,11/22/2014,FBS,Michigan,Maryland,PASSING,Devin,Gardner,TD,0
+1591088,11/22/2014,FBS,Michigan,Maryland,PASSING,Devin,Gardner,LONG,23
+1591089,11/22/2014,FBS,Michigan,Maryland,RECEIVING,Devin,Funchess,REC,5
+1591090,11/22/2014,FBS,Michigan,Maryland,RECEIVING,Devin,Funchess,YDS,30
+1591091,11/22/2014,FBS,Michigan,Maryland,RECEIVING,Devin,Funchess,TD,0
+1591092,11/22/2014,FBS,Michigan,Maryland,RECEIVING,Devin,Funchess,LONG,7
+1591093,11/22/2014,FBS,Michigan,Maryland,RECEIVING,Amara,Darboh,REC,2
+1591094,11/22/2014,FBS,Michigan,Maryland,RECEIVING,Amara,Darboh,YDS,29
+1591095,11/22/2014,FBS,Michigan,Maryland,RECEIVING,Amara,Darboh,TD,0
+1591096,11/22/2014,FBS,Michigan,Maryland,RECEIVING,Amara,Darboh,LONG,23
+1591097,11/22/2014,FBS,Michigan,Maryland,RECEIVING,Jake,Butt,REC,4
+1591098,11/22/2014,FBS,Michigan,Maryland,RECEIVING,Jake,Butt,YDS,28
+1591099,11/22/2014,FBS,Michigan,Maryland,RECEIVING,Jake,Butt,TD,0
+1591100,11/22/2014,FBS,Michigan,Maryland,RECEIVING,Jake,Butt,LONG,17
+1591101,11/22/2014,FBS,Michigan,Maryland,RECEIVING,A.J.,Williams,REC,1
+1591102,11/22/2014,FBS,Michigan,Maryland,RECEIVING,A.J.,Williams,YDS,12
+1591103,11/22/2014,FBS,Michigan,Maryland,RECEIVING,A.J.,Williams,TD,0
+1591104,11/22/2014,FBS,Michigan,Maryland,RECEIVING,A.J.,Williams,LONG,12
+1591105,11/22/2014,FBS,Michigan,Maryland,RECEIVING,Joe,Kerridge,REC,1
+1591106,11/22/2014,FBS,Michigan,Maryland,RECEIVING,Joe,Kerridge,YDS,7
+1591107,11/22/2014,FBS,Michigan,Maryland,RECEIVING,Joe,Kerridge,TD,0
+1591108,11/22/2014,FBS,Michigan,Maryland,RECEIVING,Joe,Kerridge,LONG,7
+1591109,11/22/2014,FBS,Michigan,Maryland,KICKING,Matt,Wile,FG-FGA,3/4
+1591110,11/22/2014,FBS,Michigan,Maryland,KICKING,Matt,Wile,LONG,33
+1591111,11/22/2014,FBS,Michigan,Maryland,KICKING,Matt,Wile,XP,1
+1591112,11/22/2014,FBS,Michigan,Maryland,KICKING,Matt,Wile,PTS,10
+1591113,11/22/2014,FBS,Michigan,Maryland,PUNTING,Will,Hagerup,NO,2
+1591114,11/22/2014,FBS,Michigan,Maryland,PUNTING,Will,Hagerup,YDS,86
+1591115,11/22/2014,FBS,Michigan,Maryland,PUNTING,Will,Hagerup,AVG,43.0
+1591116,11/22/2014,FBS,Michigan,Maryland,PUNTING,Will,Hagerup,LONG,49
+1591117,11/22/2014,FBS,Michigan,Maryland,PUNT RETURNS,Dennis,Norfleet,NO,2
+1591118,11/22/2014,FBS,Michigan,Maryland,PUNT RETURNS,Dennis,Norfleet,YDS,17
+1591119,11/22/2014,FBS,Michigan,Maryland,PUNT RETURNS,Dennis,Norfleet,AVG,8.5
+1591120,11/22/2014,FBS,Michigan,Maryland,PUNT RETURNS,Dennis,Norfleet,LONG,9
+1591121,11/22/2014,FBS,Michigan,Maryland,KICK RETURNS,Dennis,Norfleet,NO,3
+1591122,11/22/2014,FBS,Michigan,Maryland,KICK RETURNS,Dennis,Norfleet,YDS,74
+1591123,11/22/2014,FBS,Michigan,Maryland,KICK RETURNS,Dennis,Norfleet,AVG,24.7
+1591124,11/22/2014,FBS,Michigan,Maryland,KICK RETURNS,Dennis,Norfleet,LONG,31

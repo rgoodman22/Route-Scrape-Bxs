@@ -1,0 +1,133 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1500001,11/8/2014,FBS,Virginia,Florida State,RUSHING,Kevin,Parks,ATT,15
+1500002,11/8/2014,FBS,Virginia,Florida State,RUSHING,Kevin,Parks,YDS,43
+1500003,11/8/2014,FBS,Virginia,Florida State,RUSHING,Kevin,Parks,TD,0
+1500004,11/8/2014,FBS,Virginia,Florida State,RUSHING,Kevin,Parks,LONG,11
+1500005,11/8/2014,FBS,Virginia,Florida State,RUSHING,Khalek,Shepherd,ATT,5
+1500006,11/8/2014,FBS,Virginia,Florida State,RUSHING,Khalek,Shepherd,YDS,26
+1500007,11/8/2014,FBS,Virginia,Florida State,RUSHING,Khalek,Shepherd,TD,0
+1500008,11/8/2014,FBS,Virginia,Florida State,RUSHING,Khalek,Shepherd,LONG,15
+1500009,11/8/2014,FBS,Virginia,Florida State,RUSHING,Taquan,Mizzell,ATT,2
+1500010,11/8/2014,FBS,Virginia,Florida State,RUSHING,Taquan,Mizzell,YDS,7
+1500011,11/8/2014,FBS,Virginia,Florida State,RUSHING,Taquan,Mizzell,TD,0
+1500012,11/8/2014,FBS,Virginia,Florida State,RUSHING,Taquan,Mizzell,LONG,5
+1500013,11/8/2014,FBS,Virginia,Florida State,RUSHING,Darius,Jennings,ATT,1
+1500014,11/8/2014,FBS,Virginia,Florida State,RUSHING,Darius,Jennings,YDS,3
+1500015,11/8/2014,FBS,Virginia,Florida State,RUSHING,Darius,Jennings,TD,0
+1500016,11/8/2014,FBS,Virginia,Florida State,RUSHING,Darius,Jennings,LONG,3
+1500017,11/8/2014,FBS,Virginia,Florida State,RUSHING,David,Watford,ATT,2
+1500018,11/8/2014,FBS,Virginia,Florida State,RUSHING,David,Watford,YDS,0
+1500019,11/8/2014,FBS,Virginia,Florida State,RUSHING,David,Watford,TD,0
+1500020,11/8/2014,FBS,Virginia,Florida State,RUSHING,David,Watford,LONG,2
+1500021,11/8/2014,FBS,Virginia,Florida State,RUSHING,Greyson,Lambert,ATT,7
+1500022,11/8/2014,FBS,Virginia,Florida State,RUSHING,Greyson,Lambert,YDS,-42
+1500023,11/8/2014,FBS,Virginia,Florida State,RUSHING,Greyson,Lambert,TD,0
+1500024,11/8/2014,FBS,Virginia,Florida State,RUSHING,Greyson,Lambert,LONG,2
+1500025,11/8/2014,FBS,Virginia,Florida State,PASSING,Greyson,Lambert,CP-ATT-INT,20-35-1
+1500026,11/8/2014,FBS,Virginia,Florida State,PASSING,Greyson,Lambert,YDS,220
+1500027,11/8/2014,FBS,Virginia,Florida State,PASSING,Greyson,Lambert,TD,3
+1500028,11/8/2014,FBS,Virginia,Florida State,PASSING,Greyson,Lambert,LONG,26
+1500029,11/8/2014,FBS,Virginia,Florida State,RECEIVING,Canaan,Severin,REC,4
+1500030,11/8/2014,FBS,Virginia,Florida State,RECEIVING,Canaan,Severin,YDS,56
+1500031,11/8/2014,FBS,Virginia,Florida State,RECEIVING,Canaan,Severin,TD,1
+1500032,11/8/2014,FBS,Virginia,Florida State,RECEIVING,Canaan,Severin,LONG,23
+1500033,11/8/2014,FBS,Virginia,Florida State,RECEIVING,Darius,Jennings,REC,4
+1500034,11/8/2014,FBS,Virginia,Florida State,RECEIVING,Darius,Jennings,YDS,45
+1500035,11/8/2014,FBS,Virginia,Florida State,RECEIVING,Darius,Jennings,TD,1
+1500036,11/8/2014,FBS,Virginia,Florida State,RECEIVING,Darius,Jennings,LONG,24
+1500037,11/8/2014,FBS,Virginia,Florida State,RECEIVING,Zachary,Swanson,REC,3
+1500038,11/8/2014,FBS,Virginia,Florida State,RECEIVING,Zachary,Swanson,YDS,44
+1500039,11/8/2014,FBS,Virginia,Florida State,RECEIVING,Zachary,Swanson,TD,0
+1500040,11/8/2014,FBS,Virginia,Florida State,RECEIVING,Zachary,Swanson,LONG,26
+1500041,11/8/2014,FBS,Virginia,Florida State,RECEIVING,Kevin,Parks,REC,4
+1500042,11/8/2014,FBS,Virginia,Florida State,RECEIVING,Kevin,Parks,YDS,27
+1500043,11/8/2014,FBS,Virginia,Florida State,RECEIVING,Kevin,Parks,TD,0
+1500044,11/8/2014,FBS,Virginia,Florida State,RECEIVING,Kevin,Parks,LONG,12
+1500045,11/8/2014,FBS,Virginia,Florida State,RECEIVING,Andre,Levrone,REC,1
+1500046,11/8/2014,FBS,Virginia,Florida State,RECEIVING,Andre,Levrone,YDS,16
+1500047,11/8/2014,FBS,Virginia,Florida State,RECEIVING,Andre,Levrone,TD,1
+1500048,11/8/2014,FBS,Virginia,Florida State,RECEIVING,Andre,Levrone,LONG,16
+1500049,11/8/2014,FBS,Virginia,Florida State,RECEIVING,Taquan,Mizzell,REC,2
+1500050,11/8/2014,FBS,Virginia,Florida State,RECEIVING,Taquan,Mizzell,YDS,14
+1500051,11/8/2014,FBS,Virginia,Florida State,RECEIVING,Taquan,Mizzell,TD,0
+1500052,11/8/2014,FBS,Virginia,Florida State,RECEIVING,Taquan,Mizzell,LONG,10
+1500053,11/8/2014,FBS,Virginia,Florida State,RECEIVING,Doni,Dowling,REC,1
+1500054,11/8/2014,FBS,Virginia,Florida State,RECEIVING,Doni,Dowling,YDS,13
+1500055,11/8/2014,FBS,Virginia,Florida State,RECEIVING,Doni,Dowling,TD,0
+1500056,11/8/2014,FBS,Virginia,Florida State,RECEIVING,Doni,Dowling,LONG,13
+1500057,11/8/2014,FBS,Virginia,Florida State,RECEIVING,Connor,Wingo-Reeves,REC,1
+1500058,11/8/2014,FBS,Virginia,Florida State,RECEIVING,Connor,Wingo-Reeves,YDS,5
+1500059,11/8/2014,FBS,Virginia,Florida State,RECEIVING,Connor,Wingo-Reeves,TD,0
+1500060,11/8/2014,FBS,Virginia,Florida State,RECEIVING,Connor,Wingo-Reeves,LONG,5
+1500061,11/8/2014,FBS,Virginia,Florida State,KICKING,Ian,Frye,FG-FGA,0/0
+1500062,11/8/2014,FBS,Virginia,Florida State,KICKING,Ian,Frye,LONG,-
+1500063,11/8/2014,FBS,Virginia,Florida State,KICKING,Ian,Frye,XP,2
+1500064,11/8/2014,FBS,Virginia,Florida State,KICKING,Ian,Frye,PTS,2
+1500065,11/8/2014,FBS,Virginia,Florida State,PUNTING,Alec,Vozenilek,NO,7
+1500066,11/8/2014,FBS,Virginia,Florida State,PUNTING,Alec,Vozenilek,YDS,292
+1500067,11/8/2014,FBS,Virginia,Florida State,PUNTING,Alec,Vozenilek,AVG,41.7
+1500068,11/8/2014,FBS,Virginia,Florida State,PUNTING,Alec,Vozenilek,LONG,50
+1500069,11/8/2014,FBS,Virginia,Florida State,PUNT RETURNS,Khalek,Shepherd,NO,1
+1500070,11/8/2014,FBS,Virginia,Florida State,PUNT RETURNS,Khalek,Shepherd,YDS,7
+1500071,11/8/2014,FBS,Virginia,Florida State,PUNT RETURNS,Khalek,Shepherd,AVG,7.0
+1500072,11/8/2014,FBS,Virginia,Florida State,PUNT RETURNS,Khalek,Shepherd,LONG,7
+1500073,11/8/2014,FBS,Virginia,Florida State,KICK RETURNS,Darius,Jennings,NO,1
+1500074,11/8/2014,FBS,Virginia,Florida State,KICK RETURNS,Darius,Jennings,YDS,33
+1500075,11/8/2014,FBS,Virginia,Florida State,KICK RETURNS,Darius,Jennings,AVG,33.0
+1500076,11/8/2014,FBS,Virginia,Florida State,KICK RETURNS,Darius,Jennings,LONG,33
+1500077,11/8/2014,FBS,Florida State,Virginia,RUSHING,Karlos,Williams,ATT,21
+1500078,11/8/2014,FBS,Florida State,Virginia,RUSHING,Karlos,Williams,YDS,70
+1500079,11/8/2014,FBS,Florida State,Virginia,RUSHING,Karlos,Williams,TD,2
+1500080,11/8/2014,FBS,Florida State,Virginia,RUSHING,Karlos,Williams,LONG,11
+1500081,11/8/2014,FBS,Florida State,Virginia,RUSHING,Dalvin,Cook,ATT,11
+1500082,11/8/2014,FBS,Florida State,Virginia,RUSHING,Dalvin,Cook,YDS,36
+1500083,11/8/2014,FBS,Florida State,Virginia,RUSHING,Dalvin,Cook,TD,0
+1500084,11/8/2014,FBS,Florida State,Virginia,RUSHING,Dalvin,Cook,LONG,8
+1500085,11/8/2014,FBS,Florida State,Virginia,RUSHING,Jameis,Winston,ATT,5
+1500086,11/8/2014,FBS,Florida State,Virginia,RUSHING,Jameis,Winston,YDS,16
+1500087,11/8/2014,FBS,Florida State,Virginia,RUSHING,Jameis,Winston,TD,1
+1500088,11/8/2014,FBS,Florida State,Virginia,RUSHING,Jameis,Winston,LONG,20
+1500089,11/8/2014,FBS,Florida State,Virginia,RUSHING,,Team,ATT,2
+1500090,11/8/2014,FBS,Florida State,Virginia,RUSHING,,Team,YDS,-7
+1500091,11/8/2014,FBS,Florida State,Virginia,RUSHING,,Team,TD,0
+1500092,11/8/2014,FBS,Florida State,Virginia,RUSHING,,Team,LONG,-3
+1500093,11/8/2014,FBS,Florida State,Virginia,PASSING,Jameis,Winston,CP-ATT-INT,22-35-2
+1500094,11/8/2014,FBS,Florida State,Virginia,PASSING,Jameis,Winston,YDS,261
+1500095,11/8/2014,FBS,Florida State,Virginia,PASSING,Jameis,Winston,TD,1
+1500096,11/8/2014,FBS,Florida State,Virginia,PASSING,Jameis,Winston,LONG,40
+1500097,11/8/2014,FBS,Florida State,Virginia,RECEIVING,Rashad,Greene,REC,13
+1500098,11/8/2014,FBS,Florida State,Virginia,RECEIVING,Rashad,Greene,YDS,136
+1500099,11/8/2014,FBS,Florida State,Virginia,RECEIVING,Rashad,Greene,TD,1
+1500100,11/8/2014,FBS,Florida State,Virginia,RECEIVING,Rashad,Greene,LONG,22
+1500101,11/8/2014,FBS,Florida State,Virginia,RECEIVING,Ermon,Lane,REC,2
+1500102,11/8/2014,FBS,Florida State,Virginia,RECEIVING,Ermon,Lane,YDS,53
+1500103,11/8/2014,FBS,Florida State,Virginia,RECEIVING,Ermon,Lane,TD,0
+1500104,11/8/2014,FBS,Florida State,Virginia,RECEIVING,Ermon,Lane,LONG,40
+1500105,11/8/2014,FBS,Florida State,Virginia,RECEIVING,Jesus,Wilson,REC,5
+1500106,11/8/2014,FBS,Florida State,Virginia,RECEIVING,Jesus,Wilson,YDS,46
+1500107,11/8/2014,FBS,Florida State,Virginia,RECEIVING,Jesus,Wilson,TD,0
+1500108,11/8/2014,FBS,Florida State,Virginia,RECEIVING,Jesus,Wilson,LONG,15
+1500109,11/8/2014,FBS,Florida State,Virginia,RECEIVING,Karlos,Williams,REC,2
+1500110,11/8/2014,FBS,Florida State,Virginia,RECEIVING,Karlos,Williams,YDS,26
+1500111,11/8/2014,FBS,Florida State,Virginia,RECEIVING,Karlos,Williams,TD,0
+1500112,11/8/2014,FBS,Florida State,Virginia,RECEIVING,Karlos,Williams,LONG,21
+1500113,11/8/2014,FBS,Florida State,Virginia,KICKING,Roberto,Aguayo,FG-FGA,2/2
+1500114,11/8/2014,FBS,Florida State,Virginia,KICKING,Roberto,Aguayo,LONG,43
+1500115,11/8/2014,FBS,Florida State,Virginia,KICKING,Roberto,Aguayo,XP,4
+1500116,11/8/2014,FBS,Florida State,Virginia,KICKING,Roberto,Aguayo,PTS,10
+1500117,11/8/2014,FBS,Florida State,Virginia,PUNTING,Cason,Beatty,NO,4
+1500118,11/8/2014,FBS,Florida State,Virginia,PUNTING,Cason,Beatty,YDS,194
+1500119,11/8/2014,FBS,Florida State,Virginia,PUNTING,Cason,Beatty,AVG,48.5
+1500120,11/8/2014,FBS,Florida State,Virginia,PUNTING,Cason,Beatty,LONG,67
+1500121,11/8/2014,FBS,Florida State,Virginia,PUNT RETURNS,Rashad,Greene,NO,1
+1500122,11/8/2014,FBS,Florida State,Virginia,PUNT RETURNS,Rashad,Greene,YDS,-2
+1500123,11/8/2014,FBS,Florida State,Virginia,PUNT RETURNS,Rashad,Greene,AVG,-
+1500124,11/8/2014,FBS,Florida State,Virginia,PUNT RETURNS,Rashad,Greene,LONG,0
+1500125,11/8/2014,FBS,Florida State,Virginia,KICK RETURNS,Jesus,Wilson,NO,1
+1500126,11/8/2014,FBS,Florida State,Virginia,KICK RETURNS,Jesus,Wilson,YDS,20
+1500127,11/8/2014,FBS,Florida State,Virginia,KICK RETURNS,Jesus,Wilson,AVG,20.0
+1500128,11/8/2014,FBS,Florida State,Virginia,KICK RETURNS,Jesus,Wilson,LONG,20
+1500129,11/8/2014,FBS,Florida State,Virginia,KICK RETURNS,Kermit,Whitfield,NO,1
+1500130,11/8/2014,FBS,Florida State,Virginia,KICK RETURNS,Kermit,Whitfield,YDS,15
+1500131,11/8/2014,FBS,Florida State,Virginia,KICK RETURNS,Kermit,Whitfield,AVG,15.0
+1500132,11/8/2014,FBS,Florida State,Virginia,KICK RETURNS,Kermit,Whitfield,LONG,15

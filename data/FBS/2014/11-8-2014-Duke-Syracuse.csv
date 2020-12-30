@@ -1,0 +1,141 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1497001,11/8/2014,FBS,Duke,Syracuse,RUSHING,Shaquille,Powell,ATT,17
+1497002,11/8/2014,FBS,Duke,Syracuse,RUSHING,Shaquille,Powell,YDS,68
+1497003,11/8/2014,FBS,Duke,Syracuse,RUSHING,Shaquille,Powell,TD,0
+1497004,11/8/2014,FBS,Duke,Syracuse,RUSHING,Shaquille,Powell,LONG,13
+1497005,11/8/2014,FBS,Duke,Syracuse,RUSHING,Josh,Snead,ATT,6
+1497006,11/8/2014,FBS,Duke,Syracuse,RUSHING,Josh,Snead,YDS,17
+1497007,11/8/2014,FBS,Duke,Syracuse,RUSHING,Josh,Snead,TD,0
+1497008,11/8/2014,FBS,Duke,Syracuse,RUSHING,Josh,Snead,LONG,7
+1497009,11/8/2014,FBS,Duke,Syracuse,RUSHING,Shaun,Wilson,ATT,3
+1497010,11/8/2014,FBS,Duke,Syracuse,RUSHING,Shaun,Wilson,YDS,7
+1497011,11/8/2014,FBS,Duke,Syracuse,RUSHING,Shaun,Wilson,TD,0
+1497012,11/8/2014,FBS,Duke,Syracuse,RUSHING,Shaun,Wilson,LONG,5
+1497013,11/8/2014,FBS,Duke,Syracuse,RUSHING,Jamison,Crowder,ATT,1
+1497014,11/8/2014,FBS,Duke,Syracuse,RUSHING,Jamison,Crowder,YDS,6
+1497015,11/8/2014,FBS,Duke,Syracuse,RUSHING,Jamison,Crowder,TD,0
+1497016,11/8/2014,FBS,Duke,Syracuse,RUSHING,Jamison,Crowder,LONG,6
+1497017,11/8/2014,FBS,Duke,Syracuse,RUSHING,Anthony,Boone,ATT,3
+1497018,11/8/2014,FBS,Duke,Syracuse,RUSHING,Anthony,Boone,YDS,4
+1497019,11/8/2014,FBS,Duke,Syracuse,RUSHING,Anthony,Boone,TD,0
+1497020,11/8/2014,FBS,Duke,Syracuse,RUSHING,Anthony,Boone,LONG,5
+1497021,11/8/2014,FBS,Duke,Syracuse,RUSHING,Thomas,Sirk,ATT,1
+1497022,11/8/2014,FBS,Duke,Syracuse,RUSHING,Thomas,Sirk,YDS,2
+1497023,11/8/2014,FBS,Duke,Syracuse,RUSHING,Thomas,Sirk,TD,0
+1497024,11/8/2014,FBS,Duke,Syracuse,RUSHING,Thomas,Sirk,LONG,2
+1497025,11/8/2014,FBS,Duke,Syracuse,RUSHING,,Team,ATT,2
+1497026,11/8/2014,FBS,Duke,Syracuse,RUSHING,,Team,YDS,-6
+1497027,11/8/2014,FBS,Duke,Syracuse,RUSHING,,Team,TD,0
+1497028,11/8/2014,FBS,Duke,Syracuse,RUSHING,,Team,LONG,-3
+1497029,11/8/2014,FBS,Duke,Syracuse,PASSING,Anthony,Boone,CP-ATT-INT,15-33-1
+1497030,11/8/2014,FBS,Duke,Syracuse,PASSING,Anthony,Boone,YDS,161
+1497031,11/8/2014,FBS,Duke,Syracuse,PASSING,Anthony,Boone,TD,2
+1497032,11/8/2014,FBS,Duke,Syracuse,PASSING,Anthony,Boone,LONG,54
+1497033,11/8/2014,FBS,Duke,Syracuse,RECEIVING,Issac,Blakeney,REC,3
+1497034,11/8/2014,FBS,Duke,Syracuse,RECEIVING,Issac,Blakeney,YDS,94
+1497035,11/8/2014,FBS,Duke,Syracuse,RECEIVING,Issac,Blakeney,TD,2
+1497036,11/8/2014,FBS,Duke,Syracuse,RECEIVING,Issac,Blakeney,LONG,54
+1497037,11/8/2014,FBS,Duke,Syracuse,RECEIVING,Jamison,Crowder,REC,9
+1497038,11/8/2014,FBS,Duke,Syracuse,RECEIVING,Jamison,Crowder,YDS,58
+1497039,11/8/2014,FBS,Duke,Syracuse,RECEIVING,Jamison,Crowder,TD,0
+1497040,11/8/2014,FBS,Duke,Syracuse,RECEIVING,Jamison,Crowder,LONG,17
+1497041,11/8/2014,FBS,Duke,Syracuse,RECEIVING,Shaun,Wilson,REC,2
+1497042,11/8/2014,FBS,Duke,Syracuse,RECEIVING,Shaun,Wilson,YDS,8
+1497043,11/8/2014,FBS,Duke,Syracuse,RECEIVING,Shaun,Wilson,TD,0
+1497044,11/8/2014,FBS,Duke,Syracuse,RECEIVING,Shaun,Wilson,LONG,5
+1497045,11/8/2014,FBS,Duke,Syracuse,RECEIVING,Max,McCaffrey,REC,1
+1497046,11/8/2014,FBS,Duke,Syracuse,RECEIVING,Max,McCaffrey,YDS,1
+1497047,11/8/2014,FBS,Duke,Syracuse,RECEIVING,Max,McCaffrey,TD,0
+1497048,11/8/2014,FBS,Duke,Syracuse,RECEIVING,Max,McCaffrey,LONG,1
+1497049,11/8/2014,FBS,Duke,Syracuse,KICKING,Ross,Martin,FG-FGA,2/2
+1497050,11/8/2014,FBS,Duke,Syracuse,KICKING,Ross,Martin,LONG,34
+1497051,11/8/2014,FBS,Duke,Syracuse,KICKING,Ross,Martin,XP,3
+1497052,11/8/2014,FBS,Duke,Syracuse,KICKING,Ross,Martin,PTS,9
+1497053,11/8/2014,FBS,Duke,Syracuse,PUNTING,Will,Monday,NO,7
+1497054,11/8/2014,FBS,Duke,Syracuse,PUNTING,Will,Monday,YDS,316
+1497055,11/8/2014,FBS,Duke,Syracuse,PUNTING,Will,Monday,AVG,45.1
+1497056,11/8/2014,FBS,Duke,Syracuse,PUNTING,Will,Monday,LONG,56
+1497057,11/8/2014,FBS,Duke,Syracuse,PUNT RETURNS,Jamison,Crowder,NO,6
+1497058,11/8/2014,FBS,Duke,Syracuse,PUNT RETURNS,Jamison,Crowder,YDS,106
+1497059,11/8/2014,FBS,Duke,Syracuse,PUNT RETURNS,Jamison,Crowder,AVG,17.7
+1497060,11/8/2014,FBS,Duke,Syracuse,PUNT RETURNS,Jamison,Crowder,LONG,52
+1497061,11/8/2014,FBS,Duke,Syracuse,KICK RETURNS,DeVon,Edwards,NO,2
+1497062,11/8/2014,FBS,Duke,Syracuse,KICK RETURNS,DeVon,Edwards,YDS,42
+1497063,11/8/2014,FBS,Duke,Syracuse,KICK RETURNS,DeVon,Edwards,AVG,21.0
+1497064,11/8/2014,FBS,Duke,Syracuse,KICK RETURNS,DeVon,Edwards,LONG,24
+1497065,11/8/2014,FBS,Duke,Syracuse,KICK RETURNS,Shaquille,Powell,NO,1
+1497066,11/8/2014,FBS,Duke,Syracuse,KICK RETURNS,Shaquille,Powell,YDS,15
+1497067,11/8/2014,FBS,Duke,Syracuse,KICK RETURNS,Shaquille,Powell,AVG,15.0
+1497068,11/8/2014,FBS,Duke,Syracuse,KICK RETURNS,Shaquille,Powell,LONG,15
+1497069,11/8/2014,FBS,Syracuse,Duke,RUSHING,Prince-Tyson,Gulley,ATT,9
+1497070,11/8/2014,FBS,Syracuse,Duke,RUSHING,Prince-Tyson,Gulley,YDS,42
+1497071,11/8/2014,FBS,Syracuse,Duke,RUSHING,Prince-Tyson,Gulley,TD,0
+1497072,11/8/2014,FBS,Syracuse,Duke,RUSHING,Prince-Tyson,Gulley,LONG,20
+1497073,11/8/2014,FBS,Syracuse,Duke,RUSHING,Mitch,Kimble,ATT,10
+1497074,11/8/2014,FBS,Syracuse,Duke,RUSHING,Mitch,Kimble,YDS,42
+1497075,11/8/2014,FBS,Syracuse,Duke,RUSHING,Mitch,Kimble,TD,1
+1497076,11/8/2014,FBS,Syracuse,Duke,RUSHING,Mitch,Kimble,LONG,10
+1497077,11/8/2014,FBS,Syracuse,Duke,RUSHING,Ervin,Philips,ATT,6
+1497078,11/8/2014,FBS,Syracuse,Duke,RUSHING,Ervin,Philips,YDS,36
+1497079,11/8/2014,FBS,Syracuse,Duke,RUSHING,Ervin,Philips,TD,0
+1497080,11/8/2014,FBS,Syracuse,Duke,RUSHING,Ervin,Philips,LONG,17
+1497081,11/8/2014,FBS,Syracuse,Duke,RUSHING,Adonis,Ameen-Moore,ATT,3
+1497082,11/8/2014,FBS,Syracuse,Duke,RUSHING,Adonis,Ameen-Moore,YDS,4
+1497083,11/8/2014,FBS,Syracuse,Duke,RUSHING,Adonis,Ameen-Moore,TD,0
+1497084,11/8/2014,FBS,Syracuse,Duke,RUSHING,Adonis,Ameen-Moore,LONG,3
+1497085,11/8/2014,FBS,Syracuse,Duke,RUSHING,Devante,McFarlane,ATT,3
+1497086,11/8/2014,FBS,Syracuse,Duke,RUSHING,Devante,McFarlane,YDS,4
+1497087,11/8/2014,FBS,Syracuse,Duke,RUSHING,Devante,McFarlane,TD,0
+1497088,11/8/2014,FBS,Syracuse,Duke,RUSHING,Devante,McFarlane,LONG,2
+1497089,11/8/2014,FBS,Syracuse,Duke,RUSHING,Austin,Wilson,ATT,6
+1497090,11/8/2014,FBS,Syracuse,Duke,RUSHING,Austin,Wilson,YDS,-9
+1497091,11/8/2014,FBS,Syracuse,Duke,RUSHING,Austin,Wilson,TD,0
+1497092,11/8/2014,FBS,Syracuse,Duke,RUSHING,Austin,Wilson,LONG,2
+1497093,11/8/2014,FBS,Syracuse,Duke,PASSING,Austin,Wilson,CP-ATT-INT,11-19-2
+1497094,11/8/2014,FBS,Syracuse,Duke,PASSING,Austin,Wilson,YDS,68
+1497095,11/8/2014,FBS,Syracuse,Duke,PASSING,Austin,Wilson,TD,0
+1497096,11/8/2014,FBS,Syracuse,Duke,PASSING,Austin,Wilson,LONG,14
+1497097,11/8/2014,FBS,Syracuse,Duke,PASSING,Mitch,Kimble,CP-ATT-INT,6-13-0
+1497098,11/8/2014,FBS,Syracuse,Duke,PASSING,Mitch,Kimble,YDS,37
+1497099,11/8/2014,FBS,Syracuse,Duke,PASSING,Mitch,Kimble,TD,0
+1497100,11/8/2014,FBS,Syracuse,Duke,PASSING,Mitch,Kimble,LONG,19
+1497101,11/8/2014,FBS,Syracuse,Duke,RECEIVING,Jarrod,West,REC,4
+1497102,11/8/2014,FBS,Syracuse,Duke,RECEIVING,Jarrod,West,YDS,45
+1497103,11/8/2014,FBS,Syracuse,Duke,RECEIVING,Jarrod,West,TD,0
+1497104,11/8/2014,FBS,Syracuse,Duke,RECEIVING,Jarrod,West,LONG,19
+1497105,11/8/2014,FBS,Syracuse,Duke,RECEIVING,Ben,Lewis,REC,6
+1497106,11/8/2014,FBS,Syracuse,Duke,RECEIVING,Ben,Lewis,YDS,30
+1497107,11/8/2014,FBS,Syracuse,Duke,RECEIVING,Ben,Lewis,TD,0
+1497108,11/8/2014,FBS,Syracuse,Duke,RECEIVING,Ben,Lewis,LONG,14
+1497109,11/8/2014,FBS,Syracuse,Duke,RECEIVING,Ervin,Philips,REC,4
+1497110,11/8/2014,FBS,Syracuse,Duke,RECEIVING,Ervin,Philips,YDS,16
+1497111,11/8/2014,FBS,Syracuse,Duke,RECEIVING,Ervin,Philips,TD,0
+1497112,11/8/2014,FBS,Syracuse,Duke,RECEIVING,Ervin,Philips,LONG,9
+1497113,11/8/2014,FBS,Syracuse,Duke,RECEIVING,Steve,Ishmael,REC,1
+1497114,11/8/2014,FBS,Syracuse,Duke,RECEIVING,Steve,Ishmael,YDS,7
+1497115,11/8/2014,FBS,Syracuse,Duke,RECEIVING,Steve,Ishmael,TD,0
+1497116,11/8/2014,FBS,Syracuse,Duke,RECEIVING,Steve,Ishmael,LONG,7
+1497117,11/8/2014,FBS,Syracuse,Duke,RECEIVING,Adrian,Flemming,REC,1
+1497118,11/8/2014,FBS,Syracuse,Duke,RECEIVING,Adrian,Flemming,YDS,7
+1497119,11/8/2014,FBS,Syracuse,Duke,RECEIVING,Adrian,Flemming,TD,0
+1497120,11/8/2014,FBS,Syracuse,Duke,RECEIVING,Adrian,Flemming,LONG,7
+1497121,11/8/2014,FBS,Syracuse,Duke,RECEIVING,Prince-Tyson,Gulley,REC,1
+1497122,11/8/2014,FBS,Syracuse,Duke,RECEIVING,Prince-Tyson,Gulley,YDS,0
+1497123,11/8/2014,FBS,Syracuse,Duke,RECEIVING,Prince-Tyson,Gulley,TD,0
+1497124,11/8/2014,FBS,Syracuse,Duke,RECEIVING,Prince-Tyson,Gulley,LONG,0
+1497125,11/8/2014,FBS,Syracuse,Duke,KICKING,Cole,Murphy,FG-FGA,1/1
+1497126,11/8/2014,FBS,Syracuse,Duke,KICKING,Cole,Murphy,LONG,27
+1497127,11/8/2014,FBS,Syracuse,Duke,KICKING,Cole,Murphy,XP,1
+1497128,11/8/2014,FBS,Syracuse,Duke,KICKING,Cole,Murphy,PTS,4
+1497129,11/8/2014,FBS,Syracuse,Duke,PUNTING,Riley,Dixon,NO,9
+1497130,11/8/2014,FBS,Syracuse,Duke,PUNTING,Riley,Dixon,YDS,416
+1497131,11/8/2014,FBS,Syracuse,Duke,PUNTING,Riley,Dixon,AVG,46.2
+1497132,11/8/2014,FBS,Syracuse,Duke,PUNTING,Riley,Dixon,LONG,58
+1497133,11/8/2014,FBS,Syracuse,Duke,PUNT RETURNS,Ritchy,Desir,NO,0
+1497134,11/8/2014,FBS,Syracuse,Duke,PUNT RETURNS,Ritchy,Desir,YDS,0
+1497135,11/8/2014,FBS,Syracuse,Duke,PUNT RETURNS,Ritchy,Desir,AVG,-
+1497136,11/8/2014,FBS,Syracuse,Duke,PUNT RETURNS,Ritchy,Desir,LONG,0
+1497137,11/8/2014,FBS,Syracuse,Duke,KICK RETURNS,Prince-Tyson,Gulley,NO,2
+1497138,11/8/2014,FBS,Syracuse,Duke,KICK RETURNS,Prince-Tyson,Gulley,YDS,34
+1497139,11/8/2014,FBS,Syracuse,Duke,KICK RETURNS,Prince-Tyson,Gulley,AVG,17.0
+1497140,11/8/2014,FBS,Syracuse,Duke,KICK RETURNS,Prince-Tyson,Gulley,LONG,19

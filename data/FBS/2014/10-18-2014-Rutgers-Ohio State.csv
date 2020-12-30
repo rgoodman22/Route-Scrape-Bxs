@@ -1,0 +1,161 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1327001,10/18/2014,FBS,Rutgers,Ohio State,RUSHING,Desmon,Peoples,ATT,15
+1327002,10/18/2014,FBS,Rutgers,Ohio State,RUSHING,Desmon,Peoples,YDS,83
+1327003,10/18/2014,FBS,Rutgers,Ohio State,RUSHING,Desmon,Peoples,TD,2
+1327004,10/18/2014,FBS,Rutgers,Ohio State,RUSHING,Desmon,Peoples,LONG,20
+1327005,10/18/2014,FBS,Rutgers,Ohio State,RUSHING,Justin,Goodwin,ATT,11
+1327006,10/18/2014,FBS,Rutgers,Ohio State,RUSHING,Justin,Goodwin,YDS,64
+1327007,10/18/2014,FBS,Rutgers,Ohio State,RUSHING,Justin,Goodwin,TD,0
+1327008,10/18/2014,FBS,Rutgers,Ohio State,RUSHING,Justin,Goodwin,LONG,28
+1327009,10/18/2014,FBS,Rutgers,Ohio State,RUSHING,Robert,Martin,ATT,5
+1327010,10/18/2014,FBS,Rutgers,Ohio State,RUSHING,Robert,Martin,YDS,23
+1327011,10/18/2014,FBS,Rutgers,Ohio State,RUSHING,Robert,Martin,TD,0
+1327012,10/18/2014,FBS,Rutgers,Ohio State,RUSHING,Robert,Martin,LONG,9
+1327013,10/18/2014,FBS,Rutgers,Ohio State,RUSHING,Gary,Nova,ATT,7
+1327014,10/18/2014,FBS,Rutgers,Ohio State,RUSHING,Gary,Nova,YDS,-21
+1327015,10/18/2014,FBS,Rutgers,Ohio State,RUSHING,Gary,Nova,TD,0
+1327016,10/18/2014,FBS,Rutgers,Ohio State,RUSHING,Gary,Nova,LONG,8
+1327017,10/18/2014,FBS,Rutgers,Ohio State,PASSING,Gary,Nova,CP-ATT-INT,17-28-1
+1327018,10/18/2014,FBS,Rutgers,Ohio State,PASSING,Gary,Nova,YDS,192
+1327019,10/18/2014,FBS,Rutgers,Ohio State,PASSING,Gary,Nova,TD,0
+1327020,10/18/2014,FBS,Rutgers,Ohio State,PASSING,Gary,Nova,LONG,40
+1327021,10/18/2014,FBS,Rutgers,Ohio State,PASSING,Chris,Laviano,CP-ATT-INT,1-1-0
+1327022,10/18/2014,FBS,Rutgers,Ohio State,PASSING,Chris,Laviano,YDS,4
+1327023,10/18/2014,FBS,Rutgers,Ohio State,PASSING,Chris,Laviano,TD,0
+1327024,10/18/2014,FBS,Rutgers,Ohio State,PASSING,Chris,Laviano,LONG,4
+1327025,10/18/2014,FBS,Rutgers,Ohio State,RECEIVING,Leonte,Carroo,REC,5
+1327026,10/18/2014,FBS,Rutgers,Ohio State,RECEIVING,Leonte,Carroo,YDS,100
+1327027,10/18/2014,FBS,Rutgers,Ohio State,RECEIVING,Leonte,Carroo,TD,0
+1327028,10/18/2014,FBS,Rutgers,Ohio State,RECEIVING,Leonte,Carroo,LONG,40
+1327029,10/18/2014,FBS,Rutgers,Ohio State,RECEIVING,Justin,Goodwin,REC,4
+1327030,10/18/2014,FBS,Rutgers,Ohio State,RECEIVING,Justin,Goodwin,YDS,28
+1327031,10/18/2014,FBS,Rutgers,Ohio State,RECEIVING,Justin,Goodwin,TD,0
+1327032,10/18/2014,FBS,Rutgers,Ohio State,RECEIVING,Justin,Goodwin,LONG,11
+1327033,10/18/2014,FBS,Rutgers,Ohio State,RECEIVING,Michael,Burton,REC,2
+1327034,10/18/2014,FBS,Rutgers,Ohio State,RECEIVING,Michael,Burton,YDS,22
+1327035,10/18/2014,FBS,Rutgers,Ohio State,RECEIVING,Michael,Burton,TD,0
+1327036,10/18/2014,FBS,Rutgers,Ohio State,RECEIVING,Michael,Burton,LONG,14
+1327037,10/18/2014,FBS,Rutgers,Ohio State,RECEIVING,Andrew,Turzilli,REC,1
+1327038,10/18/2014,FBS,Rutgers,Ohio State,RECEIVING,Andrew,Turzilli,YDS,17
+1327039,10/18/2014,FBS,Rutgers,Ohio State,RECEIVING,Andrew,Turzilli,TD,0
+1327040,10/18/2014,FBS,Rutgers,Ohio State,RECEIVING,Andrew,Turzilli,LONG,17
+1327041,10/18/2014,FBS,Rutgers,Ohio State,RECEIVING,Tyler,Kroft,REC,2
+1327042,10/18/2014,FBS,Rutgers,Ohio State,RECEIVING,Tyler,Kroft,YDS,17
+1327043,10/18/2014,FBS,Rutgers,Ohio State,RECEIVING,Tyler,Kroft,TD,0
+1327044,10/18/2014,FBS,Rutgers,Ohio State,RECEIVING,Tyler,Kroft,LONG,12
+1327045,10/18/2014,FBS,Rutgers,Ohio State,RECEIVING,Janarion,Grant,REC,3
+1327046,10/18/2014,FBS,Rutgers,Ohio State,RECEIVING,Janarion,Grant,YDS,8
+1327047,10/18/2014,FBS,Rutgers,Ohio State,RECEIVING,Janarion,Grant,TD,0
+1327048,10/18/2014,FBS,Rutgers,Ohio State,RECEIVING,Janarion,Grant,LONG,9
+1327049,10/18/2014,FBS,Rutgers,Ohio State,RECEIVING,Andre,Patton,REC,1
+1327050,10/18/2014,FBS,Rutgers,Ohio State,RECEIVING,Andre,Patton,YDS,4
+1327051,10/18/2014,FBS,Rutgers,Ohio State,RECEIVING,Andre,Patton,TD,0
+1327052,10/18/2014,FBS,Rutgers,Ohio State,RECEIVING,Andre,Patton,LONG,4
+1327053,10/18/2014,FBS,Rutgers,Ohio State,KICKING,Kyle,Federico,FG-FGA,1/1
+1327054,10/18/2014,FBS,Rutgers,Ohio State,KICKING,Kyle,Federico,LONG,42
+1327055,10/18/2014,FBS,Rutgers,Ohio State,KICKING,Kyle,Federico,XP,2
+1327056,10/18/2014,FBS,Rutgers,Ohio State,KICKING,Kyle,Federico,PTS,5
+1327057,10/18/2014,FBS,Rutgers,Ohio State,PUNTING,Tim,Gleeson,NO,6
+1327058,10/18/2014,FBS,Rutgers,Ohio State,PUNTING,Tim,Gleeson,YDS,218
+1327059,10/18/2014,FBS,Rutgers,Ohio State,PUNTING,Tim,Gleeson,AVG,36.3
+1327060,10/18/2014,FBS,Rutgers,Ohio State,PUNTING,Tim,Gleeson,LONG,50
+1327061,10/18/2014,FBS,Rutgers,Ohio State,PUNT RETURNS,Janarion,Grant,NO,0
+1327062,10/18/2014,FBS,Rutgers,Ohio State,PUNT RETURNS,Janarion,Grant,YDS,0
+1327063,10/18/2014,FBS,Rutgers,Ohio State,PUNT RETURNS,Janarion,Grant,AVG,-
+1327064,10/18/2014,FBS,Rutgers,Ohio State,PUNT RETURNS,Janarion,Grant,LONG,0
+1327065,10/18/2014,FBS,Rutgers,Ohio State,KICK RETURNS,Janarion,Grant,NO,6
+1327066,10/18/2014,FBS,Rutgers,Ohio State,KICK RETURNS,Janarion,Grant,YDS,105
+1327067,10/18/2014,FBS,Rutgers,Ohio State,KICK RETURNS,Janarion,Grant,AVG,17.5
+1327068,10/18/2014,FBS,Rutgers,Ohio State,KICK RETURNS,Janarion,Grant,LONG,25
+1327069,10/18/2014,FBS,Ohio State,Rutgers,RUSHING,J.T.,Barrett,ATT,7
+1327070,10/18/2014,FBS,Ohio State,Rutgers,RUSHING,J.T.,Barrett,YDS,107
+1327071,10/18/2014,FBS,Ohio State,Rutgers,RUSHING,J.T.,Barrett,TD,2
+1327072,10/18/2014,FBS,Ohio State,Rutgers,RUSHING,J.T.,Barrett,LONG,33
+1327073,10/18/2014,FBS,Ohio State,Rutgers,RUSHING,Ezekiel,Elliott,ATT,12
+1327074,10/18/2014,FBS,Ohio State,Rutgers,RUSHING,Ezekiel,Elliott,YDS,69
+1327075,10/18/2014,FBS,Ohio State,Rutgers,RUSHING,Ezekiel,Elliott,TD,1
+1327076,10/18/2014,FBS,Ohio State,Rutgers,RUSHING,Ezekiel,Elliott,LONG,18
+1327077,10/18/2014,FBS,Ohio State,Rutgers,RUSHING,Curtis,Samuel,ATT,4
+1327078,10/18/2014,FBS,Ohio State,Rutgers,RUSHING,Curtis,Samuel,YDS,59
+1327079,10/18/2014,FBS,Ohio State,Rutgers,RUSHING,Curtis,Samuel,TD,0
+1327080,10/18/2014,FBS,Ohio State,Rutgers,RUSHING,Curtis,Samuel,LONG,34
+1327081,10/18/2014,FBS,Ohio State,Rutgers,RUSHING,Cardale,Jones,ATT,5
+1327082,10/18/2014,FBS,Ohio State,Rutgers,RUSHING,Cardale,Jones,YDS,44
+1327083,10/18/2014,FBS,Ohio State,Rutgers,RUSHING,Cardale,Jones,TD,0
+1327084,10/18/2014,FBS,Ohio State,Rutgers,RUSHING,Cardale,Jones,LONG,14
+1327085,10/18/2014,FBS,Ohio State,Rutgers,RUSHING,Dontre,Wilson,ATT,4
+1327086,10/18/2014,FBS,Ohio State,Rutgers,RUSHING,Dontre,Wilson,YDS,21
+1327087,10/18/2014,FBS,Ohio State,Rutgers,RUSHING,Dontre,Wilson,TD,0
+1327088,10/18/2014,FBS,Ohio State,Rutgers,RUSHING,Dontre,Wilson,LONG,12
+1327089,10/18/2014,FBS,Ohio State,Rutgers,RUSHING,Rod,Smith,ATT,4
+1327090,10/18/2014,FBS,Ohio State,Rutgers,RUSHING,Rod,Smith,YDS,21
+1327091,10/18/2014,FBS,Ohio State,Rutgers,RUSHING,Rod,Smith,TD,1
+1327092,10/18/2014,FBS,Ohio State,Rutgers,RUSHING,Rod,Smith,LONG,13
+1327093,10/18/2014,FBS,Ohio State,Rutgers,RUSHING,Warren,Ball,ATT,1
+1327094,10/18/2014,FBS,Ohio State,Rutgers,RUSHING,Warren,Ball,YDS,7
+1327095,10/18/2014,FBS,Ohio State,Rutgers,RUSHING,Warren,Ball,TD,0
+1327096,10/18/2014,FBS,Ohio State,Rutgers,RUSHING,Warren,Ball,LONG,7
+1327097,10/18/2014,FBS,Ohio State,Rutgers,RUSHING,,Team,ATT,3
+1327098,10/18/2014,FBS,Ohio State,Rutgers,RUSHING,,Team,YDS,-4
+1327099,10/18/2014,FBS,Ohio State,Rutgers,RUSHING,,Team,TD,0
+1327100,10/18/2014,FBS,Ohio State,Rutgers,RUSHING,,Team,LONG,-1
+1327101,10/18/2014,FBS,Ohio State,Rutgers,PASSING,J.T.,Barrett,CP-ATT-INT,19-31-0
+1327102,10/18/2014,FBS,Ohio State,Rutgers,PASSING,J.T.,Barrett,YDS,261
+1327103,10/18/2014,FBS,Ohio State,Rutgers,PASSING,J.T.,Barrett,TD,3
+1327104,10/18/2014,FBS,Ohio State,Rutgers,PASSING,J.T.,Barrett,LONG,42
+1327105,10/18/2014,FBS,Ohio State,Rutgers,RECEIVING,Jalin,Marshall,REC,3
+1327106,10/18/2014,FBS,Ohio State,Rutgers,RECEIVING,Jalin,Marshall,YDS,58
+1327107,10/18/2014,FBS,Ohio State,Rutgers,RECEIVING,Jalin,Marshall,TD,0
+1327108,10/18/2014,FBS,Ohio State,Rutgers,RECEIVING,Jalin,Marshall,LONG,31
+1327109,10/18/2014,FBS,Ohio State,Rutgers,RECEIVING,Michael,Thomas,REC,4
+1327110,10/18/2014,FBS,Ohio State,Rutgers,RECEIVING,Michael,Thomas,YDS,55
+1327111,10/18/2014,FBS,Ohio State,Rutgers,RECEIVING,Michael,Thomas,TD,0
+1327112,10/18/2014,FBS,Ohio State,Rutgers,RECEIVING,Michael,Thomas,LONG,18
+1327113,10/18/2014,FBS,Ohio State,Rutgers,RECEIVING,Devin,Smith,REC,1
+1327114,10/18/2014,FBS,Ohio State,Rutgers,RECEIVING,Devin,Smith,YDS,42
+1327115,10/18/2014,FBS,Ohio State,Rutgers,RECEIVING,Devin,Smith,TD,0
+1327116,10/18/2014,FBS,Ohio State,Rutgers,RECEIVING,Devin,Smith,LONG,42
+1327117,10/18/2014,FBS,Ohio State,Rutgers,RECEIVING,Nick,Vannett,REC,2
+1327118,10/18/2014,FBS,Ohio State,Rutgers,RECEIVING,Nick,Vannett,YDS,38
+1327119,10/18/2014,FBS,Ohio State,Rutgers,RECEIVING,Nick,Vannett,TD,2
+1327120,10/18/2014,FBS,Ohio State,Rutgers,RECEIVING,Nick,Vannett,LONG,26
+1327121,10/18/2014,FBS,Ohio State,Rutgers,RECEIVING,Ezekiel,Elliott,REC,4
+1327122,10/18/2014,FBS,Ohio State,Rutgers,RECEIVING,Ezekiel,Elliott,YDS,28
+1327123,10/18/2014,FBS,Ohio State,Rutgers,RECEIVING,Ezekiel,Elliott,TD,0
+1327124,10/18/2014,FBS,Ohio State,Rutgers,RECEIVING,Ezekiel,Elliott,LONG,12
+1327125,10/18/2014,FBS,Ohio State,Rutgers,RECEIVING,Jeff,Heuerman,REC,1
+1327126,10/18/2014,FBS,Ohio State,Rutgers,RECEIVING,Jeff,Heuerman,YDS,16
+1327127,10/18/2014,FBS,Ohio State,Rutgers,RECEIVING,Jeff,Heuerman,TD,0
+1327128,10/18/2014,FBS,Ohio State,Rutgers,RECEIVING,Jeff,Heuerman,LONG,16
+1327129,10/18/2014,FBS,Ohio State,Rutgers,RECEIVING,Evan,Spencer,REC,2
+1327130,10/18/2014,FBS,Ohio State,Rutgers,RECEIVING,Evan,Spencer,YDS,10
+1327131,10/18/2014,FBS,Ohio State,Rutgers,RECEIVING,Evan,Spencer,TD,1
+1327132,10/18/2014,FBS,Ohio State,Rutgers,RECEIVING,Evan,Spencer,LONG,11
+1327133,10/18/2014,FBS,Ohio State,Rutgers,RECEIVING,Corey,Smith,REC,1
+1327134,10/18/2014,FBS,Ohio State,Rutgers,RECEIVING,Corey,Smith,YDS,7
+1327135,10/18/2014,FBS,Ohio State,Rutgers,RECEIVING,Corey,Smith,TD,0
+1327136,10/18/2014,FBS,Ohio State,Rutgers,RECEIVING,Corey,Smith,LONG,7
+1327137,10/18/2014,FBS,Ohio State,Rutgers,RECEIVING,Curtis,Samuel,REC,1
+1327138,10/18/2014,FBS,Ohio State,Rutgers,RECEIVING,Curtis,Samuel,YDS,7
+1327139,10/18/2014,FBS,Ohio State,Rutgers,RECEIVING,Curtis,Samuel,TD,0
+1327140,10/18/2014,FBS,Ohio State,Rutgers,RECEIVING,Curtis,Samuel,LONG,7
+1327141,10/18/2014,FBS,Ohio State,Rutgers,KICKING,Sean,Nuernberger,FG-FGA,0/0
+1327142,10/18/2014,FBS,Ohio State,Rutgers,KICKING,Sean,Nuernberger,LONG,-
+1327143,10/18/2014,FBS,Ohio State,Rutgers,KICKING,Sean,Nuernberger,XP,8
+1327144,10/18/2014,FBS,Ohio State,Rutgers,KICKING,Sean,Nuernberger,PTS,8
+1327145,10/18/2014,FBS,Ohio State,Rutgers,PUNTING,Cameron,Johnston,NO,1
+1327146,10/18/2014,FBS,Ohio State,Rutgers,PUNTING,Cameron,Johnston,YDS,53
+1327147,10/18/2014,FBS,Ohio State,Rutgers,PUNTING,Cameron,Johnston,AVG,53.0
+1327148,10/18/2014,FBS,Ohio State,Rutgers,PUNTING,Cameron,Johnston,LONG,53
+1327149,10/18/2014,FBS,Ohio State,Rutgers,PUNT RETURNS,Jalin,Marshall,NO,4
+1327150,10/18/2014,FBS,Ohio State,Rutgers,PUNT RETURNS,Jalin,Marshall,YDS,45
+1327151,10/18/2014,FBS,Ohio State,Rutgers,PUNT RETURNS,Jalin,Marshall,AVG,11.2
+1327152,10/18/2014,FBS,Ohio State,Rutgers,PUNT RETURNS,Jalin,Marshall,LONG,16
+1327153,10/18/2014,FBS,Ohio State,Rutgers,KICK RETURNS,Dontre,Wilson,NO,3
+1327154,10/18/2014,FBS,Ohio State,Rutgers,KICK RETURNS,Dontre,Wilson,YDS,68
+1327155,10/18/2014,FBS,Ohio State,Rutgers,KICK RETURNS,Dontre,Wilson,AVG,22.7
+1327156,10/18/2014,FBS,Ohio State,Rutgers,KICK RETURNS,Dontre,Wilson,LONG,33
+1327157,10/18/2014,FBS,Ohio State,Rutgers,KICK RETURNS,Jalin,Marshall,NO,1
+1327158,10/18/2014,FBS,Ohio State,Rutgers,KICK RETURNS,Jalin,Marshall,YDS,26
+1327159,10/18/2014,FBS,Ohio State,Rutgers,KICK RETURNS,Jalin,Marshall,AVG,26.0
+1327160,10/18/2014,FBS,Ohio State,Rutgers,KICK RETURNS,Jalin,Marshall,LONG,26

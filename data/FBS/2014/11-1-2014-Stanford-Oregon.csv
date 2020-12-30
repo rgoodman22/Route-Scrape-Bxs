@@ -1,0 +1,173 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1453001,11/1/2014,FBS,Stanford,Oregon,RUSHING,Kevin,Hogan,ATT,11
+1453002,11/1/2014,FBS,Stanford,Oregon,RUSHING,Kevin,Hogan,YDS,42
+1453003,11/1/2014,FBS,Stanford,Oregon,RUSHING,Kevin,Hogan,TD,0
+1453004,11/1/2014,FBS,Stanford,Oregon,RUSHING,Kevin,Hogan,LONG,15
+1453005,11/1/2014,FBS,Stanford,Oregon,RUSHING,Remound,Wright,ATT,11
+1453006,11/1/2014,FBS,Stanford,Oregon,RUSHING,Remound,Wright,YDS,33
+1453007,11/1/2014,FBS,Stanford,Oregon,RUSHING,Remound,Wright,TD,0
+1453008,11/1/2014,FBS,Stanford,Oregon,RUSHING,Remound,Wright,LONG,6
+1453009,11/1/2014,FBS,Stanford,Oregon,RUSHING,Kelsey,Young,ATT,4
+1453010,11/1/2014,FBS,Stanford,Oregon,RUSHING,Kelsey,Young,YDS,28
+1453011,11/1/2014,FBS,Stanford,Oregon,RUSHING,Kelsey,Young,TD,0
+1453012,11/1/2014,FBS,Stanford,Oregon,RUSHING,Kelsey,Young,LONG,15
+1453013,11/1/2014,FBS,Stanford,Oregon,RUSHING,Ty,Montgomery,ATT,3
+1453014,11/1/2014,FBS,Stanford,Oregon,RUSHING,Ty,Montgomery,YDS,26
+1453015,11/1/2014,FBS,Stanford,Oregon,RUSHING,Ty,Montgomery,TD,0
+1453016,11/1/2014,FBS,Stanford,Oregon,RUSHING,Ty,Montgomery,LONG,16
+1453017,11/1/2014,FBS,Stanford,Oregon,RUSHING,Barry,Sanders,ATT,6
+1453018,11/1/2014,FBS,Stanford,Oregon,RUSHING,Barry,Sanders,YDS,2
+1453019,11/1/2014,FBS,Stanford,Oregon,RUSHING,Barry,Sanders,TD,0
+1453020,11/1/2014,FBS,Stanford,Oregon,RUSHING,Barry,Sanders,LONG,5
+1453021,11/1/2014,FBS,Stanford,Oregon,RUSHING,Patrick,Skov,ATT,2
+1453022,11/1/2014,FBS,Stanford,Oregon,RUSHING,Patrick,Skov,YDS,2
+1453023,11/1/2014,FBS,Stanford,Oregon,RUSHING,Patrick,Skov,TD,1
+1453024,11/1/2014,FBS,Stanford,Oregon,RUSHING,Patrick,Skov,LONG,1
+1453025,11/1/2014,FBS,Stanford,Oregon,RUSHING,Christian,McCaffrey,ATT,1
+1453026,11/1/2014,FBS,Stanford,Oregon,RUSHING,Christian,McCaffrey,YDS,0
+1453027,11/1/2014,FBS,Stanford,Oregon,RUSHING,Christian,McCaffrey,TD,0
+1453028,11/1/2014,FBS,Stanford,Oregon,RUSHING,Christian,McCaffrey,LONG,0
+1453029,11/1/2014,FBS,Stanford,Oregon,RUSHING,,Team,ATT,1
+1453030,11/1/2014,FBS,Stanford,Oregon,RUSHING,,Team,YDS,-1
+1453031,11/1/2014,FBS,Stanford,Oregon,RUSHING,,Team,TD,0
+1453032,11/1/2014,FBS,Stanford,Oregon,RUSHING,,Team,LONG,-1
+1453033,11/1/2014,FBS,Stanford,Oregon,PASSING,Kevin,Hogan,CP-ATT-INT,21-29-1
+1453034,11/1/2014,FBS,Stanford,Oregon,PASSING,Kevin,Hogan,YDS,237
+1453035,11/1/2014,FBS,Stanford,Oregon,PASSING,Kevin,Hogan,TD,0
+1453036,11/1/2014,FBS,Stanford,Oregon,PASSING,Kevin,Hogan,LONG,42
+1453037,11/1/2014,FBS,Stanford,Oregon,PASSING,Evan,Crower,CP-ATT-INT,2-4-0
+1453038,11/1/2014,FBS,Stanford,Oregon,PASSING,Evan,Crower,YDS,59
+1453039,11/1/2014,FBS,Stanford,Oregon,PASSING,Evan,Crower,TD,0
+1453040,11/1/2014,FBS,Stanford,Oregon,PASSING,Evan,Crower,LONG,32
+1453041,11/1/2014,FBS,Stanford,Oregon,RECEIVING,Devon,Cajuste,REC,5
+1453042,11/1/2014,FBS,Stanford,Oregon,RECEIVING,Devon,Cajuste,YDS,116
+1453043,11/1/2014,FBS,Stanford,Oregon,RECEIVING,Devon,Cajuste,TD,0
+1453044,11/1/2014,FBS,Stanford,Oregon,RECEIVING,Devon,Cajuste,LONG,42
+1453045,11/1/2014,FBS,Stanford,Oregon,RECEIVING,Michael,Rector,REC,4
+1453046,11/1/2014,FBS,Stanford,Oregon,RECEIVING,Michael,Rector,YDS,63
+1453047,11/1/2014,FBS,Stanford,Oregon,RECEIVING,Michael,Rector,TD,0
+1453048,11/1/2014,FBS,Stanford,Oregon,RECEIVING,Michael,Rector,LONG,32
+1453049,11/1/2014,FBS,Stanford,Oregon,RECEIVING,Austin,Hooper,REC,5
+1453050,11/1/2014,FBS,Stanford,Oregon,RECEIVING,Austin,Hooper,YDS,62
+1453051,11/1/2014,FBS,Stanford,Oregon,RECEIVING,Austin,Hooper,TD,0
+1453052,11/1/2014,FBS,Stanford,Oregon,RECEIVING,Austin,Hooper,LONG,27
+1453053,11/1/2014,FBS,Stanford,Oregon,RECEIVING,Ty,Montgomery,REC,7
+1453054,11/1/2014,FBS,Stanford,Oregon,RECEIVING,Ty,Montgomery,YDS,35
+1453055,11/1/2014,FBS,Stanford,Oregon,RECEIVING,Ty,Montgomery,TD,0
+1453056,11/1/2014,FBS,Stanford,Oregon,RECEIVING,Ty,Montgomery,LONG,12
+1453057,11/1/2014,FBS,Stanford,Oregon,RECEIVING,Christian,McCaffrey,REC,1
+1453058,11/1/2014,FBS,Stanford,Oregon,RECEIVING,Christian,McCaffrey,YDS,10
+1453059,11/1/2014,FBS,Stanford,Oregon,RECEIVING,Christian,McCaffrey,TD,0
+1453060,11/1/2014,FBS,Stanford,Oregon,RECEIVING,Christian,McCaffrey,LONG,10
+1453061,11/1/2014,FBS,Stanford,Oregon,RECEIVING,Kelsey,Young,REC,1
+1453062,11/1/2014,FBS,Stanford,Oregon,RECEIVING,Kelsey,Young,YDS,10
+1453063,11/1/2014,FBS,Stanford,Oregon,RECEIVING,Kelsey,Young,TD,0
+1453064,11/1/2014,FBS,Stanford,Oregon,RECEIVING,Kelsey,Young,LONG,10
+1453065,11/1/2014,FBS,Stanford,Oregon,KICKING,Jordan,Williamson,FG-FGA,3/3
+1453066,11/1/2014,FBS,Stanford,Oregon,KICKING,Jordan,Williamson,LONG,47
+1453067,11/1/2014,FBS,Stanford,Oregon,KICKING,Jordan,Williamson,XP,1
+1453068,11/1/2014,FBS,Stanford,Oregon,KICKING,Jordan,Williamson,PTS,10
+1453069,11/1/2014,FBS,Stanford,Oregon,PUNTING,Ben,Rhyne,NO,2
+1453070,11/1/2014,FBS,Stanford,Oregon,PUNTING,Ben,Rhyne,YDS,70
+1453071,11/1/2014,FBS,Stanford,Oregon,PUNTING,Ben,Rhyne,AVG,35.0
+1453072,11/1/2014,FBS,Stanford,Oregon,PUNTING,Ben,Rhyne,LONG,40
+1453073,11/1/2014,FBS,Stanford,Oregon,PUNT RETURNS,Ty,Montgomery,NO,0
+1453074,11/1/2014,FBS,Stanford,Oregon,PUNT RETURNS,Ty,Montgomery,YDS,0
+1453075,11/1/2014,FBS,Stanford,Oregon,PUNT RETURNS,Ty,Montgomery,AVG,-
+1453076,11/1/2014,FBS,Stanford,Oregon,PUNT RETURNS,Ty,Montgomery,LONG,0
+1453077,11/1/2014,FBS,Stanford,Oregon,KICK RETURNS,Ty,Montgomery,NO,5
+1453078,11/1/2014,FBS,Stanford,Oregon,KICK RETURNS,Ty,Montgomery,YDS,110
+1453079,11/1/2014,FBS,Stanford,Oregon,KICK RETURNS,Ty,Montgomery,AVG,22.0
+1453080,11/1/2014,FBS,Stanford,Oregon,KICK RETURNS,Ty,Montgomery,LONG,35
+1453081,11/1/2014,FBS,Stanford,Oregon,KICK RETURNS,Christian,McCaffrey,NO,1
+1453082,11/1/2014,FBS,Stanford,Oregon,KICK RETURNS,Christian,McCaffrey,YDS,29
+1453083,11/1/2014,FBS,Stanford,Oregon,KICK RETURNS,Christian,McCaffrey,AVG,29.0
+1453084,11/1/2014,FBS,Stanford,Oregon,KICK RETURNS,Christian,McCaffrey,LONG,29
+1453085,11/1/2014,FBS,Oregon,Stanford,RUSHING,Royce,Freeman,ATT,19
+1453086,11/1/2014,FBS,Oregon,Stanford,RUSHING,Royce,Freeman,YDS,98
+1453087,11/1/2014,FBS,Oregon,Stanford,RUSHING,Royce,Freeman,TD,0
+1453088,11/1/2014,FBS,Oregon,Stanford,RUSHING,Royce,Freeman,LONG,19
+1453089,11/1/2014,FBS,Oregon,Stanford,RUSHING,Marcus,Mariota,ATT,9
+1453090,11/1/2014,FBS,Oregon,Stanford,RUSHING,Marcus,Mariota,YDS,85
+1453091,11/1/2014,FBS,Oregon,Stanford,RUSHING,Marcus,Mariota,TD,2
+1453092,11/1/2014,FBS,Oregon,Stanford,RUSHING,Marcus,Mariota,LONG,22
+1453093,11/1/2014,FBS,Oregon,Stanford,RUSHING,Thomas,Tyner,ATT,10
+1453094,11/1/2014,FBS,Oregon,Stanford,RUSHING,Thomas,Tyner,YDS,63
+1453095,11/1/2014,FBS,Oregon,Stanford,RUSHING,Thomas,Tyner,TD,2
+1453096,11/1/2014,FBS,Oregon,Stanford,RUSHING,Thomas,Tyner,LONG,21
+1453097,11/1/2014,FBS,Oregon,Stanford,RUSHING,Charles,Nelson,ATT,1
+1453098,11/1/2014,FBS,Oregon,Stanford,RUSHING,Charles,Nelson,YDS,11
+1453099,11/1/2014,FBS,Oregon,Stanford,RUSHING,Charles,Nelson,TD,0
+1453100,11/1/2014,FBS,Oregon,Stanford,RUSHING,Charles,Nelson,LONG,11
+1453101,11/1/2014,FBS,Oregon,Stanford,RUSHING,Kani,Benoit,ATT,3
+1453102,11/1/2014,FBS,Oregon,Stanford,RUSHING,Kani,Benoit,YDS,11
+1453103,11/1/2014,FBS,Oregon,Stanford,RUSHING,Kani,Benoit,TD,0
+1453104,11/1/2014,FBS,Oregon,Stanford,RUSHING,Kani,Benoit,LONG,6
+1453105,11/1/2014,FBS,Oregon,Stanford,RUSHING,Byron,Marshall,ATT,1
+1453106,11/1/2014,FBS,Oregon,Stanford,RUSHING,Byron,Marshall,YDS,1
+1453107,11/1/2014,FBS,Oregon,Stanford,RUSHING,Byron,Marshall,TD,0
+1453108,11/1/2014,FBS,Oregon,Stanford,RUSHING,Byron,Marshall,LONG,1
+1453109,11/1/2014,FBS,Oregon,Stanford,RUSHING,Kenny,Bassett,ATT,1
+1453110,11/1/2014,FBS,Oregon,Stanford,RUSHING,Kenny,Bassett,YDS,1
+1453111,11/1/2014,FBS,Oregon,Stanford,RUSHING,Kenny,Bassett,TD,0
+1453112,11/1/2014,FBS,Oregon,Stanford,RUSHING,Kenny,Bassett,LONG,1
+1453113,11/1/2014,FBS,Oregon,Stanford,RUSHING,,Team,ATT,2
+1453114,11/1/2014,FBS,Oregon,Stanford,RUSHING,,Team,YDS,-3
+1453115,11/1/2014,FBS,Oregon,Stanford,RUSHING,,Team,TD,0
+1453116,11/1/2014,FBS,Oregon,Stanford,RUSHING,,Team,LONG,-1
+1453117,11/1/2014,FBS,Oregon,Stanford,PASSING,Marcus,Mariota,CP-ATT-INT,19-30-1
+1453118,11/1/2014,FBS,Oregon,Stanford,PASSING,Marcus,Mariota,YDS,258
+1453119,11/1/2014,FBS,Oregon,Stanford,PASSING,Marcus,Mariota,TD,2
+1453120,11/1/2014,FBS,Oregon,Stanford,PASSING,Marcus,Mariota,LONG,30
+1453121,11/1/2014,FBS,Oregon,Stanford,PASSING,Jeff,Lockie,CP-ATT-INT,0-1-0
+1453122,11/1/2014,FBS,Oregon,Stanford,PASSING,Jeff,Lockie,YDS,0
+1453123,11/1/2014,FBS,Oregon,Stanford,PASSING,Jeff,Lockie,TD,0
+1453124,11/1/2014,FBS,Oregon,Stanford,PASSING,Jeff,Lockie,LONG,0
+1453125,11/1/2014,FBS,Oregon,Stanford,RECEIVING,Darren,Carrington,REC,4
+1453126,11/1/2014,FBS,Oregon,Stanford,RECEIVING,Darren,Carrington,YDS,58
+1453127,11/1/2014,FBS,Oregon,Stanford,RECEIVING,Darren,Carrington,TD,1
+1453128,11/1/2014,FBS,Oregon,Stanford,RECEIVING,Darren,Carrington,LONG,25
+1453129,11/1/2014,FBS,Oregon,Stanford,RECEIVING,Royce,Freeman,REC,3
+1453130,11/1/2014,FBS,Oregon,Stanford,RECEIVING,Royce,Freeman,YDS,52
+1453131,11/1/2014,FBS,Oregon,Stanford,RECEIVING,Royce,Freeman,TD,0
+1453132,11/1/2014,FBS,Oregon,Stanford,RECEIVING,Royce,Freeman,LONG,30
+1453133,11/1/2014,FBS,Oregon,Stanford,RECEIVING,Pharaoh,Brown,REC,2
+1453134,11/1/2014,FBS,Oregon,Stanford,RECEIVING,Pharaoh,Brown,YDS,36
+1453135,11/1/2014,FBS,Oregon,Stanford,RECEIVING,Pharaoh,Brown,TD,0
+1453136,11/1/2014,FBS,Oregon,Stanford,RECEIVING,Pharaoh,Brown,LONG,30
+1453137,11/1/2014,FBS,Oregon,Stanford,RECEIVING,Keanon,Lowe,REC,2
+1453138,11/1/2014,FBS,Oregon,Stanford,RECEIVING,Keanon,Lowe,YDS,31
+1453139,11/1/2014,FBS,Oregon,Stanford,RECEIVING,Keanon,Lowe,TD,0
+1453140,11/1/2014,FBS,Oregon,Stanford,RECEIVING,Keanon,Lowe,LONG,22
+1453141,11/1/2014,FBS,Oregon,Stanford,RECEIVING,Devon,Allen,REC,2
+1453142,11/1/2014,FBS,Oregon,Stanford,RECEIVING,Devon,Allen,YDS,30
+1453143,11/1/2014,FBS,Oregon,Stanford,RECEIVING,Devon,Allen,TD,0
+1453144,11/1/2014,FBS,Oregon,Stanford,RECEIVING,Devon,Allen,LONG,22
+1453145,11/1/2014,FBS,Oregon,Stanford,RECEIVING,Dwayne,Stanford,REC,3
+1453146,11/1/2014,FBS,Oregon,Stanford,RECEIVING,Dwayne,Stanford,YDS,27
+1453147,11/1/2014,FBS,Oregon,Stanford,RECEIVING,Dwayne,Stanford,TD,0
+1453148,11/1/2014,FBS,Oregon,Stanford,RECEIVING,Dwayne,Stanford,LONG,16
+1453149,11/1/2014,FBS,Oregon,Stanford,RECEIVING,Byron,Marshall,REC,2
+1453150,11/1/2014,FBS,Oregon,Stanford,RECEIVING,Byron,Marshall,YDS,18
+1453151,11/1/2014,FBS,Oregon,Stanford,RECEIVING,Byron,Marshall,TD,0
+1453152,11/1/2014,FBS,Oregon,Stanford,RECEIVING,Byron,Marshall,LONG,14
+1453153,11/1/2014,FBS,Oregon,Stanford,RECEIVING,Charles,Nelson,REC,1
+1453154,11/1/2014,FBS,Oregon,Stanford,RECEIVING,Charles,Nelson,YDS,6
+1453155,11/1/2014,FBS,Oregon,Stanford,RECEIVING,Charles,Nelson,TD,1
+1453156,11/1/2014,FBS,Oregon,Stanford,RECEIVING,Charles,Nelson,LONG,6
+1453157,11/1/2014,FBS,Oregon,Stanford,KICKING,Aidan,Schneider,FG-FGA,1/1
+1453158,11/1/2014,FBS,Oregon,Stanford,KICKING,Aidan,Schneider,LONG,40
+1453159,11/1/2014,FBS,Oregon,Stanford,KICKING,Aidan,Schneider,XP,6
+1453160,11/1/2014,FBS,Oregon,Stanford,KICKING,Aidan,Schneider,PTS,9
+1453161,11/1/2014,FBS,Oregon,Stanford,PUNTING,Ian,Wheeler,NO,2
+1453162,11/1/2014,FBS,Oregon,Stanford,PUNTING,Ian,Wheeler,YDS,75
+1453163,11/1/2014,FBS,Oregon,Stanford,PUNTING,Ian,Wheeler,AVG,37.5
+1453164,11/1/2014,FBS,Oregon,Stanford,PUNTING,Ian,Wheeler,LONG,41
+1453165,11/1/2014,FBS,Oregon,Stanford,PUNT RETURNS,Charles,Nelson,NO,1
+1453166,11/1/2014,FBS,Oregon,Stanford,PUNT RETURNS,Charles,Nelson,YDS,2
+1453167,11/1/2014,FBS,Oregon,Stanford,PUNT RETURNS,Charles,Nelson,AVG,2.0
+1453168,11/1/2014,FBS,Oregon,Stanford,PUNT RETURNS,Charles,Nelson,LONG,2
+1453169,11/1/2014,FBS,Oregon,Stanford,KICK RETURNS,Charles,Nelson,NO,1
+1453170,11/1/2014,FBS,Oregon,Stanford,KICK RETURNS,Charles,Nelson,YDS,17
+1453171,11/1/2014,FBS,Oregon,Stanford,KICK RETURNS,Charles,Nelson,AVG,17.0
+1453172,11/1/2014,FBS,Oregon,Stanford,KICK RETURNS,Charles,Nelson,LONG,17

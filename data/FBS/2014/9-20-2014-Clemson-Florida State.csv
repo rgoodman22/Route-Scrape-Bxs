@@ -1,0 +1,173 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1123001,9/20/2014,FBS,Clemson,Florida State,RUSHING,C.J.,Davidson,ATT,12
+1123002,9/20/2014,FBS,Clemson,Florida State,RUSHING,C.J.,Davidson,YDS,54
+1123003,9/20/2014,FBS,Clemson,Florida State,RUSHING,C.J.,Davidson,TD,0
+1123004,9/20/2014,FBS,Clemson,Florida State,RUSHING,C.J.,Davidson,LONG,14
+1123005,9/20/2014,FBS,Clemson,Florida State,RUSHING,Deshaun,Watson,ATT,12
+1123006,9/20/2014,FBS,Clemson,Florida State,RUSHING,Deshaun,Watson,YDS,30
+1123007,9/20/2014,FBS,Clemson,Florida State,RUSHING,Deshaun,Watson,TD,1
+1123008,9/20/2014,FBS,Clemson,Florida State,RUSHING,Deshaun,Watson,LONG,8
+1123009,9/20/2014,FBS,Clemson,Florida State,RUSHING,Cole,Stoudt,ATT,4
+1123010,9/20/2014,FBS,Clemson,Florida State,RUSHING,Cole,Stoudt,YDS,24
+1123011,9/20/2014,FBS,Clemson,Florida State,RUSHING,Cole,Stoudt,TD,0
+1123012,9/20/2014,FBS,Clemson,Florida State,RUSHING,Cole,Stoudt,LONG,14
+1123013,9/20/2014,FBS,Clemson,Florida State,RUSHING,Adam,Choice,ATT,6
+1123014,9/20/2014,FBS,Clemson,Florida State,RUSHING,Adam,Choice,YDS,9
+1123015,9/20/2014,FBS,Clemson,Florida State,RUSHING,Adam,Choice,TD,0
+1123016,9/20/2014,FBS,Clemson,Florida State,RUSHING,Adam,Choice,LONG,4
+1123017,9/20/2014,FBS,Clemson,Florida State,RUSHING,Wayne,Gallman,ATT,4
+1123018,9/20/2014,FBS,Clemson,Florida State,RUSHING,Wayne,Gallman,YDS,6
+1123019,9/20/2014,FBS,Clemson,Florida State,RUSHING,Wayne,Gallman,TD,0
+1123020,9/20/2014,FBS,Clemson,Florida State,RUSHING,Wayne,Gallman,LONG,4
+1123021,9/20/2014,FBS,Clemson,Florida State,RUSHING,D.J.,Howard,ATT,1
+1123022,9/20/2014,FBS,Clemson,Florida State,RUSHING,D.J.,Howard,YDS,1
+1123023,9/20/2014,FBS,Clemson,Florida State,RUSHING,D.J.,Howard,TD,1
+1123024,9/20/2014,FBS,Clemson,Florida State,RUSHING,D.J.,Howard,LONG,1
+1123025,9/20/2014,FBS,Clemson,Florida State,RUSHING,,Team,ATT,1
+1123026,9/20/2014,FBS,Clemson,Florida State,RUSHING,,Team,YDS,-23
+1123027,9/20/2014,FBS,Clemson,Florida State,RUSHING,,Team,TD,0
+1123028,9/20/2014,FBS,Clemson,Florida State,RUSHING,,Team,LONG,-23
+1123029,9/20/2014,FBS,Clemson,Florida State,PASSING,Deshaun,Watson,CP-ATT-INT,19-28-0
+1123030,9/20/2014,FBS,Clemson,Florida State,PASSING,Deshaun,Watson,YDS,266
+1123031,9/20/2014,FBS,Clemson,Florida State,PASSING,Deshaun,Watson,TD,0
+1123032,9/20/2014,FBS,Clemson,Florida State,PASSING,Deshaun,Watson,LONG,39
+1123033,9/20/2014,FBS,Clemson,Florida State,PASSING,Cole,Stoudt,CP-ATT-INT,3-5-0
+1123034,9/20/2014,FBS,Clemson,Florida State,PASSING,Cole,Stoudt,YDS,40
+1123035,9/20/2014,FBS,Clemson,Florida State,PASSING,Cole,Stoudt,TD,0
+1123036,9/20/2014,FBS,Clemson,Florida State,PASSING,Cole,Stoudt,LONG,32
+1123037,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Mike,Williams,REC,2
+1123038,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Mike,Williams,YDS,72
+1123039,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Mike,Williams,TD,0
+1123040,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Mike,Williams,LONG,39
+1123041,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Germone,Hopper,REC,2
+1123042,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Germone,Hopper,YDS,52
+1123043,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Germone,Hopper,TD,0
+1123044,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Germone,Hopper,LONG,28
+1123045,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Adam,Choice,REC,4
+1123046,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Adam,Choice,YDS,46
+1123047,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Adam,Choice,TD,0
+1123048,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Adam,Choice,LONG,14
+1123049,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Artavis,Scott,REC,2
+1123050,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Artavis,Scott,YDS,34
+1123051,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Artavis,Scott,TD,0
+1123052,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Artavis,Scott,LONG,32
+1123053,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Charone,Peake,REC,3
+1123054,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Charone,Peake,YDS,28
+1123055,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Charone,Peake,TD,0
+1123056,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Charone,Peake,LONG,17
+1123057,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Adam,Humphries,REC,2
+1123058,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Adam,Humphries,YDS,20
+1123059,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Adam,Humphries,TD,0
+1123060,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Adam,Humphries,LONG,18
+1123061,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Stanton,Seckinger,REC,1
+1123062,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Stanton,Seckinger,YDS,19
+1123063,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Stanton,Seckinger,TD,0
+1123064,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Stanton,Seckinger,LONG,19
+1123065,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Jordan,Leggett,REC,1
+1123066,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Jordan,Leggett,YDS,12
+1123067,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Jordan,Leggett,TD,0
+1123068,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Jordan,Leggett,LONG,12
+1123069,9/20/2014,FBS,Clemson,Florida State,RECEIVING,C.J.,Davidson,REC,2
+1123070,9/20/2014,FBS,Clemson,Florida State,RECEIVING,C.J.,Davidson,YDS,10
+1123071,9/20/2014,FBS,Clemson,Florida State,RECEIVING,C.J.,Davidson,TD,0
+1123072,9/20/2014,FBS,Clemson,Florida State,RECEIVING,C.J.,Davidson,LONG,7
+1123073,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Jay,JayMcCullough,REC,1
+1123074,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Jay,JayMcCullough,YDS,10
+1123075,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Jay,JayMcCullough,TD,0
+1123076,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Jay,JayMcCullough,LONG,10
+1123077,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Wayne,Gallman,REC,2
+1123078,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Wayne,Gallman,YDS,3
+1123079,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Wayne,Gallman,TD,0
+1123080,9/20/2014,FBS,Clemson,Florida State,RECEIVING,Wayne,Gallman,LONG,8
+1123081,9/20/2014,FBS,Clemson,Florida State,KICKING,Ammon,Lakip,FG-FGA,1/3
+1123082,9/20/2014,FBS,Clemson,Florida State,KICKING,Ammon,Lakip,LONG,30
+1123083,9/20/2014,FBS,Clemson,Florida State,KICKING,Ammon,Lakip,XP,1
+1123084,9/20/2014,FBS,Clemson,Florida State,KICKING,Ammon,Lakip,PTS,4
+1123085,9/20/2014,FBS,Clemson,Florida State,KICKING,Bradley,Pinion,FG-FGA,0/0
+1123086,9/20/2014,FBS,Clemson,Florida State,KICKING,Bradley,Pinion,LONG,-
+1123087,9/20/2014,FBS,Clemson,Florida State,KICKING,Bradley,Pinion,XP,1
+1123088,9/20/2014,FBS,Clemson,Florida State,KICKING,Bradley,Pinion,PTS,1
+1123089,9/20/2014,FBS,Clemson,Florida State,PUNTING,Bradley,Pinion,NO,7
+1123090,9/20/2014,FBS,Clemson,Florida State,PUNTING,Bradley,Pinion,YDS,302
+1123091,9/20/2014,FBS,Clemson,Florida State,PUNTING,Bradley,Pinion,AVG,43.1
+1123092,9/20/2014,FBS,Clemson,Florida State,PUNTING,Bradley,Pinion,LONG,57
+1123093,9/20/2014,FBS,Clemson,Florida State,PUNT RETURNS,Adam,Humphries,NO,1
+1123094,9/20/2014,FBS,Clemson,Florida State,PUNT RETURNS,Adam,Humphries,YDS,0
+1123095,9/20/2014,FBS,Clemson,Florida State,PUNT RETURNS,Adam,Humphries,AVG,-
+1123096,9/20/2014,FBS,Clemson,Florida State,PUNT RETURNS,Adam,Humphries,LONG,0
+1123097,9/20/2014,FBS,Clemson,Florida State,KICK RETURNS,C.J.,Davidson,NO,2
+1123098,9/20/2014,FBS,Clemson,Florida State,KICK RETURNS,C.J.,Davidson,YDS,25
+1123099,9/20/2014,FBS,Clemson,Florida State,KICK RETURNS,C.J.,Davidson,AVG,12.5
+1123100,9/20/2014,FBS,Clemson,Florida State,KICK RETURNS,C.J.,Davidson,LONG,13
+1123101,9/20/2014,FBS,Florida State,Clemson,RUSHING,Karlos,Williams,ATT,10
+1123102,9/20/2014,FBS,Florida State,Clemson,RUSHING,Karlos,Williams,YDS,45
+1123103,9/20/2014,FBS,Florida State,Clemson,RUSHING,Karlos,Williams,TD,1
+1123104,9/20/2014,FBS,Florida State,Clemson,RUSHING,Karlos,Williams,LONG,13
+1123105,9/20/2014,FBS,Florida State,Clemson,RUSHING,Mario,Pender,ATT,8
+1123106,9/20/2014,FBS,Florida State,Clemson,RUSHING,Mario,Pender,YDS,15
+1123107,9/20/2014,FBS,Florida State,Clemson,RUSHING,Mario,Pender,TD,1
+1123108,9/20/2014,FBS,Florida State,Clemson,RUSHING,Mario,Pender,LONG,7
+1123109,9/20/2014,FBS,Florida State,Clemson,RUSHING,Dalvin,Cook,ATT,1
+1123110,9/20/2014,FBS,Florida State,Clemson,RUSHING,Dalvin,Cook,YDS,3
+1123111,9/20/2014,FBS,Florida State,Clemson,RUSHING,Dalvin,Cook,TD,0
+1123112,9/20/2014,FBS,Florida State,Clemson,RUSHING,Dalvin,Cook,LONG,3
+1123113,9/20/2014,FBS,Florida State,Clemson,RUSHING,Rashad,Greene,ATT,1
+1123114,9/20/2014,FBS,Florida State,Clemson,RUSHING,Rashad,Greene,YDS,-2
+1123115,9/20/2014,FBS,Florida State,Clemson,RUSHING,Rashad,Greene,TD,0
+1123116,9/20/2014,FBS,Florida State,Clemson,RUSHING,Rashad,Greene,LONG,-2
+1123117,9/20/2014,FBS,Florida State,Clemson,RUSHING,,Team,ATT,1
+1123118,9/20/2014,FBS,Florida State,Clemson,RUSHING,,Team,YDS,-2
+1123119,9/20/2014,FBS,Florida State,Clemson,RUSHING,,Team,TD,0
+1123120,9/20/2014,FBS,Florida State,Clemson,RUSHING,,Team,LONG,-2
+1123121,9/20/2014,FBS,Florida State,Clemson,RUSHING,Sean,Maguire,ATT,6
+1123122,9/20/2014,FBS,Florida State,Clemson,RUSHING,Sean,Maguire,YDS,-46
+1123123,9/20/2014,FBS,Florida State,Clemson,RUSHING,Sean,Maguire,TD,0
+1123124,9/20/2014,FBS,Florida State,Clemson,RUSHING,Sean,Maguire,LONG,3
+1123125,9/20/2014,FBS,Florida State,Clemson,PASSING,Sean,Maguire,CP-ATT-INT,21-39-2
+1123126,9/20/2014,FBS,Florida State,Clemson,PASSING,Sean,Maguire,YDS,305
+1123127,9/20/2014,FBS,Florida State,Clemson,PASSING,Sean,Maguire,TD,1
+1123128,9/20/2014,FBS,Florida State,Clemson,PASSING,Sean,Maguire,LONG,74
+1123129,9/20/2014,FBS,Florida State,Clemson,PASSING,,Team,CP-ATT-INT,0-1-0
+1123130,9/20/2014,FBS,Florida State,Clemson,PASSING,,Team,YDS,0
+1123131,9/20/2014,FBS,Florida State,Clemson,PASSING,,Team,TD,0
+1123132,9/20/2014,FBS,Florida State,Clemson,PASSING,,Team,LONG,0
+1123133,9/20/2014,FBS,Florida State,Clemson,RECEIVING,Rashad,Greene,REC,9
+1123134,9/20/2014,FBS,Florida State,Clemson,RECEIVING,Rashad,Greene,YDS,135
+1123135,9/20/2014,FBS,Florida State,Clemson,RECEIVING,Rashad,Greene,TD,1
+1123136,9/20/2014,FBS,Florida State,Clemson,RECEIVING,Rashad,Greene,LONG,74
+1123137,9/20/2014,FBS,Florida State,Clemson,RECEIVING,Nick,O'Leary,REC,6
+1123138,9/20/2014,FBS,Florida State,Clemson,RECEIVING,Nick,O'Leary,YDS,78
+1123139,9/20/2014,FBS,Florida State,Clemson,RECEIVING,Nick,O'Leary,TD,0
+1123140,9/20/2014,FBS,Florida State,Clemson,RECEIVING,Nick,O'Leary,LONG,21
+1123141,9/20/2014,FBS,Florida State,Clemson,RECEIVING,Jesus,Wilson,REC,4
+1123142,9/20/2014,FBS,Florida State,Clemson,RECEIVING,Jesus,Wilson,YDS,56
+1123143,9/20/2014,FBS,Florida State,Clemson,RECEIVING,Jesus,Wilson,TD,0
+1123144,9/20/2014,FBS,Florida State,Clemson,RECEIVING,Jesus,Wilson,LONG,36
+1123145,9/20/2014,FBS,Florida State,Clemson,RECEIVING,Karlos,Williams,REC,1
+1123146,9/20/2014,FBS,Florida State,Clemson,RECEIVING,Karlos,Williams,YDS,27
+1123147,9/20/2014,FBS,Florida State,Clemson,RECEIVING,Karlos,Williams,TD,0
+1123148,9/20/2014,FBS,Florida State,Clemson,RECEIVING,Karlos,Williams,LONG,27
+1123149,9/20/2014,FBS,Florida State,Clemson,RECEIVING,Christian,Green,REC,1
+1123150,9/20/2014,FBS,Florida State,Clemson,RECEIVING,Christian,Green,YDS,9
+1123151,9/20/2014,FBS,Florida State,Clemson,RECEIVING,Christian,Green,TD,0
+1123152,9/20/2014,FBS,Florida State,Clemson,RECEIVING,Christian,Green,LONG,9
+1123153,9/20/2014,FBS,Florida State,Clemson,KICKING,Roberto,Aguayo,FG-FGA,1/1
+1123154,9/20/2014,FBS,Florida State,Clemson,KICKING,Roberto,Aguayo,LONG,50
+1123155,9/20/2014,FBS,Florida State,Clemson,KICKING,Roberto,Aguayo,XP,2
+1123156,9/20/2014,FBS,Florida State,Clemson,KICKING,Roberto,Aguayo,PTS,5
+1123157,9/20/2014,FBS,Florida State,Clemson,PUNTING,Cason,Beatty,NO,8
+1123158,9/20/2014,FBS,Florida State,Clemson,PUNTING,Cason,Beatty,YDS,322
+1123159,9/20/2014,FBS,Florida State,Clemson,PUNTING,Cason,Beatty,AVG,40.2
+1123160,9/20/2014,FBS,Florida State,Clemson,PUNTING,Cason,Beatty,LONG,50
+1123161,9/20/2014,FBS,Florida State,Clemson,PUNT RETURNS,Rashad,Greene,NO,1
+1123162,9/20/2014,FBS,Florida State,Clemson,PUNT RETURNS,Rashad,Greene,YDS,28
+1123163,9/20/2014,FBS,Florida State,Clemson,PUNT RETURNS,Rashad,Greene,AVG,28.0
+1123164,9/20/2014,FBS,Florida State,Clemson,PUNT RETURNS,Rashad,Greene,LONG,28
+1123165,9/20/2014,FBS,Florida State,Clemson,KICK RETURNS,Kermit,Whitfield,NO,3
+1123166,9/20/2014,FBS,Florida State,Clemson,KICK RETURNS,Kermit,Whitfield,YDS,56
+1123167,9/20/2014,FBS,Florida State,Clemson,KICK RETURNS,Kermit,Whitfield,AVG,18.7
+1123168,9/20/2014,FBS,Florida State,Clemson,KICK RETURNS,Kermit,Whitfield,LONG,29
+1123169,9/20/2014,FBS,Florida State,Clemson,KICK RETURNS,Kevin,Haplea,NO,1
+1123170,9/20/2014,FBS,Florida State,Clemson,KICK RETURNS,Kevin,Haplea,YDS,9
+1123171,9/20/2014,FBS,Florida State,Clemson,KICK RETURNS,Kevin,Haplea,AVG,9.0
+1123172,9/20/2014,FBS,Florida State,Clemson,KICK RETURNS,Kevin,Haplea,LONG,9

@@ -1,0 +1,141 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1602001,11/22/2014,FBS,Miami (Fla.),Virginia,RUSHING,Duke,Johnson,ATT,15
+1602002,11/22/2014,FBS,Miami (Fla.),Virginia,RUSHING,Duke,Johnson,YDS,88
+1602003,11/22/2014,FBS,Miami (Fla.),Virginia,RUSHING,Duke,Johnson,TD,0
+1602004,11/22/2014,FBS,Miami (Fla.),Virginia,RUSHING,Duke,Johnson,LONG,26
+1602005,11/22/2014,FBS,Miami (Fla.),Virginia,RUSHING,Joseph,Yearby,ATT,3
+1602006,11/22/2014,FBS,Miami (Fla.),Virginia,RUSHING,Joseph,Yearby,YDS,14
+1602007,11/22/2014,FBS,Miami (Fla.),Virginia,RUSHING,Joseph,Yearby,TD,0
+1602008,11/22/2014,FBS,Miami (Fla.),Virginia,RUSHING,Joseph,Yearby,LONG,6
+1602009,11/22/2014,FBS,Miami (Fla.),Virginia,RUSHING,Jon,Feliciano,ATT,0
+1602010,11/22/2014,FBS,Miami (Fla.),Virginia,RUSHING,Jon,Feliciano,YDS,0
+1602011,11/22/2014,FBS,Miami (Fla.),Virginia,RUSHING,Jon,Feliciano,TD,0
+1602012,11/22/2014,FBS,Miami (Fla.),Virginia,RUSHING,Jon,Feliciano,LONG,0
+1602013,11/22/2014,FBS,Miami (Fla.),Virginia,RUSHING,,Team,ATT,1
+1602014,11/22/2014,FBS,Miami (Fla.),Virginia,RUSHING,,Team,YDS,-5
+1602015,11/22/2014,FBS,Miami (Fla.),Virginia,RUSHING,,Team,TD,0
+1602016,11/22/2014,FBS,Miami (Fla.),Virginia,RUSHING,,Team,LONG,-5
+1602017,11/22/2014,FBS,Miami (Fla.),Virginia,RUSHING,Brad,Kaaya,ATT,4
+1602018,11/22/2014,FBS,Miami (Fla.),Virginia,RUSHING,Brad,Kaaya,YDS,-33
+1602019,11/22/2014,FBS,Miami (Fla.),Virginia,RUSHING,Brad,Kaaya,TD,0
+1602020,11/22/2014,FBS,Miami (Fla.),Virginia,RUSHING,Brad,Kaaya,LONG,-5
+1602021,11/22/2014,FBS,Miami (Fla.),Virginia,PASSING,Brad,Kaaya,CP-ATT-INT,20-33-1
+1602022,11/22/2014,FBS,Miami (Fla.),Virginia,PASSING,Brad,Kaaya,YDS,263
+1602023,11/22/2014,FBS,Miami (Fla.),Virginia,PASSING,Brad,Kaaya,TD,1
+1602024,11/22/2014,FBS,Miami (Fla.),Virginia,PASSING,Brad,Kaaya,LONG,47
+1602025,11/22/2014,FBS,Miami (Fla.),Virginia,RECEIVING,Clive,Walford,REC,7
+1602026,11/22/2014,FBS,Miami (Fla.),Virginia,RECEIVING,Clive,Walford,YDS,105
+1602027,11/22/2014,FBS,Miami (Fla.),Virginia,RECEIVING,Clive,Walford,TD,0
+1602028,11/22/2014,FBS,Miami (Fla.),Virginia,RECEIVING,Clive,Walford,LONG,32
+1602029,11/22/2014,FBS,Miami (Fla.),Virginia,RECEIVING,Phillip,Dorsett,REC,3
+1602030,11/22/2014,FBS,Miami (Fla.),Virginia,RECEIVING,Phillip,Dorsett,YDS,61
+1602031,11/22/2014,FBS,Miami (Fla.),Virginia,RECEIVING,Phillip,Dorsett,TD,1
+1602032,11/22/2014,FBS,Miami (Fla.),Virginia,RECEIVING,Phillip,Dorsett,LONG,47
+1602033,11/22/2014,FBS,Miami (Fla.),Virginia,RECEIVING,Duke,Johnson,REC,5
+1602034,11/22/2014,FBS,Miami (Fla.),Virginia,RECEIVING,Duke,Johnson,YDS,44
+1602035,11/22/2014,FBS,Miami (Fla.),Virginia,RECEIVING,Duke,Johnson,TD,0
+1602036,11/22/2014,FBS,Miami (Fla.),Virginia,RECEIVING,Duke,Johnson,LONG,25
+1602037,11/22/2014,FBS,Miami (Fla.),Virginia,RECEIVING,Herb,Waters,REC,1
+1602038,11/22/2014,FBS,Miami (Fla.),Virginia,RECEIVING,Herb,Waters,YDS,20
+1602039,11/22/2014,FBS,Miami (Fla.),Virginia,RECEIVING,Herb,Waters,TD,0
+1602040,11/22/2014,FBS,Miami (Fla.),Virginia,RECEIVING,Herb,Waters,LONG,20
+1602041,11/22/2014,FBS,Miami (Fla.),Virginia,RECEIVING,Malcolm,Lewis,REC,2
+1602042,11/22/2014,FBS,Miami (Fla.),Virginia,RECEIVING,Malcolm,Lewis,YDS,15
+1602043,11/22/2014,FBS,Miami (Fla.),Virginia,RECEIVING,Malcolm,Lewis,TD,0
+1602044,11/22/2014,FBS,Miami (Fla.),Virginia,RECEIVING,Malcolm,Lewis,LONG,12
+1602045,11/22/2014,FBS,Miami (Fla.),Virginia,RECEIVING,Stacy,Coley,REC,1
+1602046,11/22/2014,FBS,Miami (Fla.),Virginia,RECEIVING,Stacy,Coley,YDS,12
+1602047,11/22/2014,FBS,Miami (Fla.),Virginia,RECEIVING,Stacy,Coley,TD,0
+1602048,11/22/2014,FBS,Miami (Fla.),Virginia,RECEIVING,Stacy,Coley,LONG,12
+1602049,11/22/2014,FBS,Miami (Fla.),Virginia,RECEIVING,Braxton,Berrios,REC,1
+1602050,11/22/2014,FBS,Miami (Fla.),Virginia,RECEIVING,Braxton,Berrios,YDS,6
+1602051,11/22/2014,FBS,Miami (Fla.),Virginia,RECEIVING,Braxton,Berrios,TD,0
+1602052,11/22/2014,FBS,Miami (Fla.),Virginia,RECEIVING,Braxton,Berrios,LONG,6
+1602053,11/22/2014,FBS,Miami (Fla.),Virginia,KICKING,Michael,Badgley,FG-FGA,0/1
+1602054,11/22/2014,FBS,Miami (Fla.),Virginia,KICKING,Michael,Badgley,LONG,0
+1602055,11/22/2014,FBS,Miami (Fla.),Virginia,KICKING,Michael,Badgley,XP,1
+1602056,11/22/2014,FBS,Miami (Fla.),Virginia,KICKING,Michael,Badgley,PTS,1
+1602057,11/22/2014,FBS,Miami (Fla.),Virginia,PUNTING,Justin,Vogel,NO,4
+1602058,11/22/2014,FBS,Miami (Fla.),Virginia,PUNTING,Justin,Vogel,YDS,161
+1602059,11/22/2014,FBS,Miami (Fla.),Virginia,PUNTING,Justin,Vogel,AVG,40.2
+1602060,11/22/2014,FBS,Miami (Fla.),Virginia,PUNTING,Justin,Vogel,LONG,43
+1602061,11/22/2014,FBS,Miami (Fla.),Virginia,KICK RETURNS,Stacy,Coley,NO,3
+1602062,11/22/2014,FBS,Miami (Fla.),Virginia,KICK RETURNS,Stacy,Coley,YDS,61
+1602063,11/22/2014,FBS,Miami (Fla.),Virginia,KICK RETURNS,Stacy,Coley,AVG,20.3
+1602064,11/22/2014,FBS,Miami (Fla.),Virginia,KICK RETURNS,Stacy,Coley,LONG,23
+1602065,11/22/2014,FBS,Miami (Fla.),Virginia,KICK RETURNS,Phillip,Dorsett,NO,2
+1602066,11/22/2014,FBS,Miami (Fla.),Virginia,KICK RETURNS,Phillip,Dorsett,YDS,30
+1602067,11/22/2014,FBS,Miami (Fla.),Virginia,KICK RETURNS,Phillip,Dorsett,AVG,15.0
+1602068,11/22/2014,FBS,Miami (Fla.),Virginia,KICK RETURNS,Phillip,Dorsett,LONG,18
+1602069,11/22/2014,FBS,Virginia,Miami (Fla.),RUSHING,Khalek,Shepherd,ATT,22
+1602070,11/22/2014,FBS,Virginia,Miami (Fla.),RUSHING,Khalek,Shepherd,YDS,95
+1602071,11/22/2014,FBS,Virginia,Miami (Fla.),RUSHING,Khalek,Shepherd,TD,1
+1602072,11/22/2014,FBS,Virginia,Miami (Fla.),RUSHING,Khalek,Shepherd,LONG,28
+1602073,11/22/2014,FBS,Virginia,Miami (Fla.),RUSHING,Taquan,Mizzell,ATT,8
+1602074,11/22/2014,FBS,Virginia,Miami (Fla.),RUSHING,Taquan,Mizzell,YDS,55
+1602075,11/22/2014,FBS,Virginia,Miami (Fla.),RUSHING,Taquan,Mizzell,TD,0
+1602076,11/22/2014,FBS,Virginia,Miami (Fla.),RUSHING,Taquan,Mizzell,LONG,16
+1602077,11/22/2014,FBS,Virginia,Miami (Fla.),RUSHING,Darius,Jennings,ATT,6
+1602078,11/22/2014,FBS,Virginia,Miami (Fla.),RUSHING,Darius,Jennings,YDS,40
+1602079,11/22/2014,FBS,Virginia,Miami (Fla.),RUSHING,Darius,Jennings,TD,1
+1602080,11/22/2014,FBS,Virginia,Miami (Fla.),RUSHING,Darius,Jennings,LONG,17
+1602081,11/22/2014,FBS,Virginia,Miami (Fla.),RUSHING,Kevin,Parks,ATT,3
+1602082,11/22/2014,FBS,Virginia,Miami (Fla.),RUSHING,Kevin,Parks,YDS,6
+1602083,11/22/2014,FBS,Virginia,Miami (Fla.),RUSHING,Kevin,Parks,TD,0
+1602084,11/22/2014,FBS,Virginia,Miami (Fla.),RUSHING,Kevin,Parks,LONG,4
+1602085,11/22/2014,FBS,Virginia,Miami (Fla.),RUSHING,Greyson,Lambert,ATT,1
+1602086,11/22/2014,FBS,Virginia,Miami (Fla.),RUSHING,Greyson,Lambert,YDS,2
+1602087,11/22/2014,FBS,Virginia,Miami (Fla.),RUSHING,Greyson,Lambert,TD,0
+1602088,11/22/2014,FBS,Virginia,Miami (Fla.),RUSHING,Greyson,Lambert,LONG,2
+1602089,11/22/2014,FBS,Virginia,Miami (Fla.),RUSHING,,Team,ATT,3
+1602090,11/22/2014,FBS,Virginia,Miami (Fla.),RUSHING,,Team,YDS,-3
+1602091,11/22/2014,FBS,Virginia,Miami (Fla.),RUSHING,,Team,TD,0
+1602092,11/22/2014,FBS,Virginia,Miami (Fla.),RUSHING,,Team,LONG,-1
+1602093,11/22/2014,FBS,Virginia,Miami (Fla.),PASSING,Greyson,Lambert,CP-ATT-INT,17-25-1
+1602094,11/22/2014,FBS,Virginia,Miami (Fla.),PASSING,Greyson,Lambert,YDS,146
+1602095,11/22/2014,FBS,Virginia,Miami (Fla.),PASSING,Greyson,Lambert,TD,1
+1602096,11/22/2014,FBS,Virginia,Miami (Fla.),PASSING,Greyson,Lambert,LONG,23
+1602097,11/22/2014,FBS,Virginia,Miami (Fla.),RECEIVING,Canaan,Severin,REC,4
+1602098,11/22/2014,FBS,Virginia,Miami (Fla.),RECEIVING,Canaan,Severin,YDS,55
+1602099,11/22/2014,FBS,Virginia,Miami (Fla.),RECEIVING,Canaan,Severin,TD,1
+1602100,11/22/2014,FBS,Virginia,Miami (Fla.),RECEIVING,Canaan,Severin,LONG,23
+1602101,11/22/2014,FBS,Virginia,Miami (Fla.),RECEIVING,Darius,Jennings,REC,2
+1602102,11/22/2014,FBS,Virginia,Miami (Fla.),RECEIVING,Darius,Jennings,YDS,32
+1602103,11/22/2014,FBS,Virginia,Miami (Fla.),RECEIVING,Darius,Jennings,TD,0
+1602104,11/22/2014,FBS,Virginia,Miami (Fla.),RECEIVING,Darius,Jennings,LONG,23
+1602105,11/22/2014,FBS,Virginia,Miami (Fla.),RECEIVING,Andre,Levrone,REC,2
+1602106,11/22/2014,FBS,Virginia,Miami (Fla.),RECEIVING,Andre,Levrone,YDS,24
+1602107,11/22/2014,FBS,Virginia,Miami (Fla.),RECEIVING,Andre,Levrone,TD,0
+1602108,11/22/2014,FBS,Virginia,Miami (Fla.),RECEIVING,Andre,Levrone,LONG,19
+1602109,11/22/2014,FBS,Virginia,Miami (Fla.),RECEIVING,Khalek,Shepherd,REC,5
+1602110,11/22/2014,FBS,Virginia,Miami (Fla.),RECEIVING,Khalek,Shepherd,YDS,16
+1602111,11/22/2014,FBS,Virginia,Miami (Fla.),RECEIVING,Khalek,Shepherd,TD,0
+1602112,11/22/2014,FBS,Virginia,Miami (Fla.),RECEIVING,Khalek,Shepherd,LONG,6
+1602113,11/22/2014,FBS,Virginia,Miami (Fla.),RECEIVING,Zachary,Swanson,REC,1
+1602114,11/22/2014,FBS,Virginia,Miami (Fla.),RECEIVING,Zachary,Swanson,YDS,7
+1602115,11/22/2014,FBS,Virginia,Miami (Fla.),RECEIVING,Zachary,Swanson,TD,0
+1602116,11/22/2014,FBS,Virginia,Miami (Fla.),RECEIVING,Zachary,Swanson,LONG,7
+1602117,11/22/2014,FBS,Virginia,Miami (Fla.),RECEIVING,Taquan,Mizzell,REC,2
+1602118,11/22/2014,FBS,Virginia,Miami (Fla.),RECEIVING,Taquan,Mizzell,YDS,7
+1602119,11/22/2014,FBS,Virginia,Miami (Fla.),RECEIVING,Taquan,Mizzell,TD,0
+1602120,11/22/2014,FBS,Virginia,Miami (Fla.),RECEIVING,Taquan,Mizzell,LONG,5
+1602121,11/22/2014,FBS,Virginia,Miami (Fla.),RECEIVING,Keeon,Johnson,REC,1
+1602122,11/22/2014,FBS,Virginia,Miami (Fla.),RECEIVING,Keeon,Johnson,YDS,5
+1602123,11/22/2014,FBS,Virginia,Miami (Fla.),RECEIVING,Keeon,Johnson,TD,0
+1602124,11/22/2014,FBS,Virginia,Miami (Fla.),RECEIVING,Keeon,Johnson,LONG,5
+1602125,11/22/2014,FBS,Virginia,Miami (Fla.),KICKING,Ian,Frye,FG-FGA,3/4
+1602126,11/22/2014,FBS,Virginia,Miami (Fla.),KICKING,Ian,Frye,LONG,22
+1602127,11/22/2014,FBS,Virginia,Miami (Fla.),KICKING,Ian,Frye,XP,3
+1602128,11/22/2014,FBS,Virginia,Miami (Fla.),KICKING,Ian,Frye,PTS,12
+1602129,11/22/2014,FBS,Virginia,Miami (Fla.),PUNTING,Alec,Vozenilek,NO,2
+1602130,11/22/2014,FBS,Virginia,Miami (Fla.),PUNTING,Alec,Vozenilek,YDS,69
+1602131,11/22/2014,FBS,Virginia,Miami (Fla.),PUNTING,Alec,Vozenilek,AVG,23.0
+1602132,11/22/2014,FBS,Virginia,Miami (Fla.),PUNTING,Alec,Vozenilek,LONG,37
+1602133,11/22/2014,FBS,Virginia,Miami (Fla.),PUNT RETURNS,Khalek,Shepherd,NO,1
+1602134,11/22/2014,FBS,Virginia,Miami (Fla.),PUNT RETURNS,Khalek,Shepherd,YDS,17
+1602135,11/22/2014,FBS,Virginia,Miami (Fla.),PUNT RETURNS,Khalek,Shepherd,AVG,17.0
+1602136,11/22/2014,FBS,Virginia,Miami (Fla.),PUNT RETURNS,Khalek,Shepherd,LONG,17
+1602137,11/22/2014,FBS,Virginia,Miami (Fla.),KICK RETURNS,Darius,Jennings,NO,2
+1602138,11/22/2014,FBS,Virginia,Miami (Fla.),KICK RETURNS,Darius,Jennings,YDS,45
+1602139,11/22/2014,FBS,Virginia,Miami (Fla.),KICK RETURNS,Darius,Jennings,AVG,22.5
+1602140,11/22/2014,FBS,Virginia,Miami (Fla.),KICK RETURNS,Darius,Jennings,LONG,24

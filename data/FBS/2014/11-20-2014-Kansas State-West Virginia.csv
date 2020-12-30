@@ -1,0 +1,149 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1580001,11/20/2014,FBS,Kansas State,West Virginia,RUSHING,Jake,Waters,ATT,12
+1580002,11/20/2014,FBS,Kansas State,West Virginia,RUSHING,Jake,Waters,YDS,13
+1580003,11/20/2014,FBS,Kansas State,West Virginia,RUSHING,Jake,Waters,TD,0
+1580004,11/20/2014,FBS,Kansas State,West Virginia,RUSHING,Jake,Waters,LONG,8
+1580005,11/20/2014,FBS,Kansas State,West Virginia,RUSHING,Charles,Jones,ATT,7
+1580006,11/20/2014,FBS,Kansas State,West Virginia,RUSHING,Charles,Jones,YDS,4
+1580007,11/20/2014,FBS,Kansas State,West Virginia,RUSHING,Charles,Jones,TD,0
+1580008,11/20/2014,FBS,Kansas State,West Virginia,RUSHING,Charles,Jones,LONG,4
+1580009,11/20/2014,FBS,Kansas State,West Virginia,RUSHING,DeMarcus,Robinson,ATT,6
+1580010,11/20/2014,FBS,Kansas State,West Virginia,RUSHING,DeMarcus,Robinson,YDS,-7
+1580011,11/20/2014,FBS,Kansas State,West Virginia,RUSHING,DeMarcus,Robinson,TD,0
+1580012,11/20/2014,FBS,Kansas State,West Virginia,RUSHING,DeMarcus,Robinson,LONG,5
+1580013,11/20/2014,FBS,Kansas State,West Virginia,RUSHING,,Team,ATT,4
+1580014,11/20/2014,FBS,Kansas State,West Virginia,RUSHING,,Team,YDS,-9
+1580015,11/20/2014,FBS,Kansas State,West Virginia,RUSHING,,Team,TD,0
+1580016,11/20/2014,FBS,Kansas State,West Virginia,RUSHING,,Team,LONG,-2
+1580017,11/20/2014,FBS,Kansas State,West Virginia,PASSING,Jake,Waters,CP-ATT-INT,22-34-1
+1580018,11/20/2014,FBS,Kansas State,West Virginia,PASSING,Jake,Waters,YDS,400
+1580019,11/20/2014,FBS,Kansas State,West Virginia,PASSING,Jake,Waters,TD,1
+1580020,11/20/2014,FBS,Kansas State,West Virginia,PASSING,Jake,Waters,LONG,54
+1580021,11/20/2014,FBS,Kansas State,West Virginia,RECEIVING,Tyler,Lockett,REC,10
+1580022,11/20/2014,FBS,Kansas State,West Virginia,RECEIVING,Tyler,Lockett,YDS,196
+1580023,11/20/2014,FBS,Kansas State,West Virginia,RECEIVING,Tyler,Lockett,TD,0
+1580024,11/20/2014,FBS,Kansas State,West Virginia,RECEIVING,Tyler,Lockett,LONG,54
+1580025,11/20/2014,FBS,Kansas State,West Virginia,RECEIVING,Curry,Sexton,REC,5
+1580026,11/20/2014,FBS,Kansas State,West Virginia,RECEIVING,Curry,Sexton,YDS,76
+1580027,11/20/2014,FBS,Kansas State,West Virginia,RECEIVING,Curry,Sexton,TD,0
+1580028,11/20/2014,FBS,Kansas State,West Virginia,RECEIVING,Curry,Sexton,LONG,21
+1580029,11/20/2014,FBS,Kansas State,West Virginia,RECEIVING,Zach,Trujillo,REC,2
+1580030,11/20/2014,FBS,Kansas State,West Virginia,RECEIVING,Zach,Trujillo,YDS,67
+1580031,11/20/2014,FBS,Kansas State,West Virginia,RECEIVING,Zach,Trujillo,TD,0
+1580032,11/20/2014,FBS,Kansas State,West Virginia,RECEIVING,Zach,Trujillo,LONG,49
+1580033,11/20/2014,FBS,Kansas State,West Virginia,RECEIVING,Kody,Cook,REC,2
+1580034,11/20/2014,FBS,Kansas State,West Virginia,RECEIVING,Kody,Cook,YDS,42
+1580035,11/20/2014,FBS,Kansas State,West Virginia,RECEIVING,Kody,Cook,TD,0
+1580036,11/20/2014,FBS,Kansas State,West Virginia,RECEIVING,Kody,Cook,LONG,32
+1580037,11/20/2014,FBS,Kansas State,West Virginia,RECEIVING,DeMarcus,Robinson,REC,1
+1580038,11/20/2014,FBS,Kansas State,West Virginia,RECEIVING,DeMarcus,Robinson,YDS,7
+1580039,11/20/2014,FBS,Kansas State,West Virginia,RECEIVING,DeMarcus,Robinson,TD,1
+1580040,11/20/2014,FBS,Kansas State,West Virginia,RECEIVING,DeMarcus,Robinson,LONG,7
+1580041,11/20/2014,FBS,Kansas State,West Virginia,RECEIVING,Deante,Burton,REC,1
+1580042,11/20/2014,FBS,Kansas State,West Virginia,RECEIVING,Deante,Burton,YDS,7
+1580043,11/20/2014,FBS,Kansas State,West Virginia,RECEIVING,Deante,Burton,TD,0
+1580044,11/20/2014,FBS,Kansas State,West Virginia,RECEIVING,Deante,Burton,LONG,7
+1580045,11/20/2014,FBS,Kansas State,West Virginia,RECEIVING,Andre,Davis,REC,1
+1580046,11/20/2014,FBS,Kansas State,West Virginia,RECEIVING,Andre,Davis,YDS,5
+1580047,11/20/2014,FBS,Kansas State,West Virginia,RECEIVING,Andre,Davis,TD,0
+1580048,11/20/2014,FBS,Kansas State,West Virginia,RECEIVING,Andre,Davis,LONG,5
+1580049,11/20/2014,FBS,Kansas State,West Virginia,KICKING,Matthew,McCrane,FG-FGA,4/6
+1580050,11/20/2014,FBS,Kansas State,West Virginia,KICKING,Matthew,McCrane,LONG,44
+1580051,11/20/2014,FBS,Kansas State,West Virginia,KICKING,Matthew,McCrane,XP,2
+1580052,11/20/2014,FBS,Kansas State,West Virginia,KICKING,Matthew,McCrane,PTS,14
+1580053,11/20/2014,FBS,Kansas State,West Virginia,PUNTING,Nick,Walsh,NO,4
+1580054,11/20/2014,FBS,Kansas State,West Virginia,PUNTING,Nick,Walsh,YDS,167
+1580055,11/20/2014,FBS,Kansas State,West Virginia,PUNTING,Nick,Walsh,AVG,41.8
+1580056,11/20/2014,FBS,Kansas State,West Virginia,PUNTING,Nick,Walsh,LONG,45
+1580057,11/20/2014,FBS,Kansas State,West Virginia,PUNT RETURNS,Tyler,Lockett,NO,2
+1580058,11/20/2014,FBS,Kansas State,West Virginia,PUNT RETURNS,Tyler,Lockett,YDS,66
+1580059,11/20/2014,FBS,Kansas State,West Virginia,PUNT RETURNS,Tyler,Lockett,AVG,33.0
+1580060,11/20/2014,FBS,Kansas State,West Virginia,PUNT RETURNS,Tyler,Lockett,LONG,43
+1580061,11/20/2014,FBS,Kansas State,West Virginia,KICK RETURNS,Tyler,Lockett,NO,3
+1580062,11/20/2014,FBS,Kansas State,West Virginia,KICK RETURNS,Tyler,Lockett,YDS,59
+1580063,11/20/2014,FBS,Kansas State,West Virginia,KICK RETURNS,Tyler,Lockett,AVG,19.7
+1580064,11/20/2014,FBS,Kansas State,West Virginia,KICK RETURNS,Tyler,Lockett,LONG,22
+1580065,11/20/2014,FBS,West Virginia,Kansas State,RUSHING,Rushel,Shell,ATT,15
+1580066,11/20/2014,FBS,West Virginia,Kansas State,RUSHING,Rushel,Shell,YDS,60
+1580067,11/20/2014,FBS,West Virginia,Kansas State,RUSHING,Rushel,Shell,TD,0
+1580068,11/20/2014,FBS,West Virginia,Kansas State,RUSHING,Rushel,Shell,LONG,18
+1580069,11/20/2014,FBS,West Virginia,Kansas State,RUSHING,Dreamius,Smith,ATT,11
+1580070,11/20/2014,FBS,West Virginia,Kansas State,RUSHING,Dreamius,Smith,YDS,35
+1580071,11/20/2014,FBS,West Virginia,Kansas State,RUSHING,Dreamius,Smith,TD,0
+1580072,11/20/2014,FBS,West Virginia,Kansas State,RUSHING,Dreamius,Smith,LONG,11
+1580073,11/20/2014,FBS,West Virginia,Kansas State,RUSHING,Wendell,Smallwood,ATT,5
+1580074,11/20/2014,FBS,West Virginia,Kansas State,RUSHING,Wendell,Smallwood,YDS,27
+1580075,11/20/2014,FBS,West Virginia,Kansas State,RUSHING,Wendell,Smallwood,TD,0
+1580076,11/20/2014,FBS,West Virginia,Kansas State,RUSHING,Wendell,Smallwood,LONG,12
+1580077,11/20/2014,FBS,West Virginia,Kansas State,RUSHING,Skyler,Howard,ATT,3
+1580078,11/20/2014,FBS,West Virginia,Kansas State,RUSHING,Skyler,Howard,YDS,16
+1580079,11/20/2014,FBS,West Virginia,Kansas State,RUSHING,Skyler,Howard,TD,0
+1580080,11/20/2014,FBS,West Virginia,Kansas State,RUSHING,Skyler,Howard,LONG,16
+1580081,11/20/2014,FBS,West Virginia,Kansas State,RUSHING,Clint,Trickett,ATT,3
+1580082,11/20/2014,FBS,West Virginia,Kansas State,RUSHING,Clint,Trickett,YDS,-15
+1580083,11/20/2014,FBS,West Virginia,Kansas State,RUSHING,Clint,Trickett,TD,0
+1580084,11/20/2014,FBS,West Virginia,Kansas State,RUSHING,Clint,Trickett,LONG,0
+1580085,11/20/2014,FBS,West Virginia,Kansas State,PASSING,Skyler,Howard,CP-ATT-INT,15-23-0
+1580086,11/20/2014,FBS,West Virginia,Kansas State,PASSING,Skyler,Howard,YDS,198
+1580087,11/20/2014,FBS,West Virginia,Kansas State,PASSING,Skyler,Howard,TD,2
+1580088,11/20/2014,FBS,West Virginia,Kansas State,PASSING,Skyler,Howard,LONG,53
+1580089,11/20/2014,FBS,West Virginia,Kansas State,PASSING,Clint,Trickett,CP-ATT-INT,12-25-2
+1580090,11/20/2014,FBS,West Virginia,Kansas State,PASSING,Clint,Trickett,YDS,112
+1580091,11/20/2014,FBS,West Virginia,Kansas State,PASSING,Clint,Trickett,TD,0
+1580092,11/20/2014,FBS,West Virginia,Kansas State,PASSING,Clint,Trickett,LONG,18
+1580093,11/20/2014,FBS,West Virginia,Kansas State,RECEIVING,Mario,Alford,REC,4
+1580094,11/20/2014,FBS,West Virginia,Kansas State,RECEIVING,Mario,Alford,YDS,92
+1580095,11/20/2014,FBS,West Virginia,Kansas State,RECEIVING,Mario,Alford,TD,1
+1580096,11/20/2014,FBS,West Virginia,Kansas State,RECEIVING,Mario,Alford,LONG,53
+1580097,11/20/2014,FBS,West Virginia,Kansas State,RECEIVING,Daikiel,Shorts,REC,4
+1580098,11/20/2014,FBS,West Virginia,Kansas State,RECEIVING,Daikiel,Shorts,YDS,72
+1580099,11/20/2014,FBS,West Virginia,Kansas State,RECEIVING,Daikiel,Shorts,TD,0
+1580100,11/20/2014,FBS,West Virginia,Kansas State,RECEIVING,Daikiel,Shorts,LONG,29
+1580101,11/20/2014,FBS,West Virginia,Kansas State,RECEIVING,Kevin,White,REC,7
+1580102,11/20/2014,FBS,West Virginia,Kansas State,RECEIVING,Kevin,White,YDS,63
+1580103,11/20/2014,FBS,West Virginia,Kansas State,RECEIVING,Kevin,White,TD,1
+1580104,11/20/2014,FBS,West Virginia,Kansas State,RECEIVING,Kevin,White,LONG,18
+1580105,11/20/2014,FBS,West Virginia,Kansas State,RECEIVING,Wendell,Smallwood,REC,3
+1580106,11/20/2014,FBS,West Virginia,Kansas State,RECEIVING,Wendell,Smallwood,YDS,21
+1580107,11/20/2014,FBS,West Virginia,Kansas State,RECEIVING,Wendell,Smallwood,TD,0
+1580108,11/20/2014,FBS,West Virginia,Kansas State,RECEIVING,Wendell,Smallwood,LONG,10
+1580109,11/20/2014,FBS,West Virginia,Kansas State,RECEIVING,Jordan,Thompson,REC,2
+1580110,11/20/2014,FBS,West Virginia,Kansas State,RECEIVING,Jordan,Thompson,YDS,20
+1580111,11/20/2014,FBS,West Virginia,Kansas State,RECEIVING,Jordan,Thompson,TD,0
+1580112,11/20/2014,FBS,West Virginia,Kansas State,RECEIVING,Jordan,Thompson,LONG,11
+1580113,11/20/2014,FBS,West Virginia,Kansas State,RECEIVING,Dreamius,Smith,REC,2
+1580114,11/20/2014,FBS,West Virginia,Kansas State,RECEIVING,Dreamius,Smith,YDS,13
+1580115,11/20/2014,FBS,West Virginia,Kansas State,RECEIVING,Dreamius,Smith,TD,0
+1580116,11/20/2014,FBS,West Virginia,Kansas State,RECEIVING,Dreamius,Smith,LONG,13
+1580117,11/20/2014,FBS,West Virginia,Kansas State,RECEIVING,Rushel,Shell,REC,2
+1580118,11/20/2014,FBS,West Virginia,Kansas State,RECEIVING,Rushel,Shell,YDS,12
+1580119,11/20/2014,FBS,West Virginia,Kansas State,RECEIVING,Rushel,Shell,TD,0
+1580120,11/20/2014,FBS,West Virginia,Kansas State,RECEIVING,Rushel,Shell,LONG,13
+1580121,11/20/2014,FBS,West Virginia,Kansas State,RECEIVING,Cody,Clay,REC,1
+1580122,11/20/2014,FBS,West Virginia,Kansas State,RECEIVING,Cody,Clay,YDS,9
+1580123,11/20/2014,FBS,West Virginia,Kansas State,RECEIVING,Cody,Clay,TD,0
+1580124,11/20/2014,FBS,West Virginia,Kansas State,RECEIVING,Cody,Clay,LONG,9
+1580125,11/20/2014,FBS,West Virginia,Kansas State,RECEIVING,KJ,Myers,REC,2
+1580126,11/20/2014,FBS,West Virginia,Kansas State,RECEIVING,KJ,Myers,YDS,8
+1580127,11/20/2014,FBS,West Virginia,Kansas State,RECEIVING,KJ,Myers,TD,0
+1580128,11/20/2014,FBS,West Virginia,Kansas State,RECEIVING,KJ,Myers,LONG,5
+1580129,11/20/2014,FBS,West Virginia,Kansas State,KICKING,Josh,Lambert,FG-FGA,2/3
+1580130,11/20/2014,FBS,West Virginia,Kansas State,KICKING,Josh,Lambert,LONG,47
+1580131,11/20/2014,FBS,West Virginia,Kansas State,KICKING,Josh,Lambert,XP,2
+1580132,11/20/2014,FBS,West Virginia,Kansas State,KICKING,Josh,Lambert,PTS,8
+1580133,11/20/2014,FBS,West Virginia,Kansas State,PUNTING,Nick,O'Toole,NO,3
+1580134,11/20/2014,FBS,West Virginia,Kansas State,PUNTING,Nick,O'Toole,YDS,119
+1580135,11/20/2014,FBS,West Virginia,Kansas State,PUNTING,Nick,O'Toole,AVG,39.7
+1580136,11/20/2014,FBS,West Virginia,Kansas State,PUNTING,Nick,O'Toole,LONG,44
+1580137,11/20/2014,FBS,West Virginia,Kansas State,PUNT RETURNS,Vernon,Davis,NO,1
+1580138,11/20/2014,FBS,West Virginia,Kansas State,PUNT RETURNS,Vernon,Davis,YDS,0
+1580139,11/20/2014,FBS,West Virginia,Kansas State,PUNT RETURNS,Vernon,Davis,AVG,-
+1580140,11/20/2014,FBS,West Virginia,Kansas State,PUNT RETURNS,Vernon,Davis,LONG,0
+1580141,11/20/2014,FBS,West Virginia,Kansas State,KICK RETURNS,Shelton,Gibson,NO,6
+1580142,11/20/2014,FBS,West Virginia,Kansas State,KICK RETURNS,Shelton,Gibson,YDS,130
+1580143,11/20/2014,FBS,West Virginia,Kansas State,KICK RETURNS,Shelton,Gibson,AVG,21.7
+1580144,11/20/2014,FBS,West Virginia,Kansas State,KICK RETURNS,Shelton,Gibson,LONG,42
+1580145,11/20/2014,FBS,West Virginia,Kansas State,KICK RETURNS,Mario,Alford,NO,1
+1580146,11/20/2014,FBS,West Virginia,Kansas State,KICK RETURNS,Mario,Alford,YDS,16
+1580147,11/20/2014,FBS,West Virginia,Kansas State,KICK RETURNS,Mario,Alford,AVG,16.0
+1580148,11/20/2014,FBS,West Virginia,Kansas State,KICK RETURNS,Mario,Alford,LONG,16

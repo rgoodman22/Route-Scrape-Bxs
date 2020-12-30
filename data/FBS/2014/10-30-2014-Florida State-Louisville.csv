@@ -1,0 +1,149 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1423001,10/30/2014,FBS,Florida State,Louisville,RUSHING,Dalvin,Cook,ATT,9
+1423002,10/30/2014,FBS,Florida State,Louisville,RUSHING,Dalvin,Cook,YDS,110
+1423003,10/30/2014,FBS,Florida State,Louisville,RUSHING,Dalvin,Cook,TD,2
+1423004,10/30/2014,FBS,Florida State,Louisville,RUSHING,Dalvin,Cook,LONG,40
+1423005,10/30/2014,FBS,Florida State,Louisville,RUSHING,Karlos,Williams,ATT,16
+1423006,10/30/2014,FBS,Florida State,Louisville,RUSHING,Karlos,Williams,YDS,72
+1423007,10/30/2014,FBS,Florida State,Louisville,RUSHING,Karlos,Williams,TD,0
+1423008,10/30/2014,FBS,Florida State,Louisville,RUSHING,Karlos,Williams,LONG,14
+1423009,10/30/2014,FBS,Florida State,Louisville,RUSHING,Nick,O'Leary,ATT,0
+1423010,10/30/2014,FBS,Florida State,Louisville,RUSHING,Nick,O'Leary,YDS,0
+1423011,10/30/2014,FBS,Florida State,Louisville,RUSHING,Nick,O'Leary,TD,1
+1423012,10/30/2014,FBS,Florida State,Louisville,RUSHING,Nick,O'Leary,LONG,0
+1423013,10/30/2014,FBS,Florida State,Louisville,RUSHING,Jameis,Winston,ATT,3
+1423014,10/30/2014,FBS,Florida State,Louisville,RUSHING,Jameis,Winston,YDS,-3
+1423015,10/30/2014,FBS,Florida State,Louisville,RUSHING,Jameis,Winston,TD,0
+1423016,10/30/2014,FBS,Florida State,Louisville,RUSHING,Jameis,Winston,LONG,20
+1423017,10/30/2014,FBS,Florida State,Louisville,RUSHING,,Team,ATT,2
+1423018,10/30/2014,FBS,Florida State,Louisville,RUSHING,,Team,YDS,-6
+1423019,10/30/2014,FBS,Florida State,Louisville,RUSHING,,Team,TD,0
+1423020,10/30/2014,FBS,Florida State,Louisville,RUSHING,,Team,LONG,-3
+1423021,10/30/2014,FBS,Florida State,Louisville,PASSING,Jameis,Winston,CP-ATT-INT,25-48-3
+1423022,10/30/2014,FBS,Florida State,Louisville,PASSING,Jameis,Winston,YDS,401
+1423023,10/30/2014,FBS,Florida State,Louisville,PASSING,Jameis,Winston,TD,3
+1423024,10/30/2014,FBS,Florida State,Louisville,PASSING,Jameis,Winston,LONG,68
+1423025,10/30/2014,FBS,Florida State,Louisville,RECEIVING,Nick,O'Leary,REC,6
+1423026,10/30/2014,FBS,Florida State,Louisville,RECEIVING,Nick,O'Leary,YDS,76
+1423027,10/30/2014,FBS,Florida State,Louisville,RECEIVING,Nick,O'Leary,TD,0
+1423028,10/30/2014,FBS,Florida State,Louisville,RECEIVING,Nick,O'Leary,LONG,19
+1423029,10/30/2014,FBS,Florida State,Louisville,RECEIVING,Travis,Rudolph,REC,2
+1423030,10/30/2014,FBS,Florida State,Louisville,RECEIVING,Travis,Rudolph,YDS,76
+1423031,10/30/2014,FBS,Florida State,Louisville,RECEIVING,Travis,Rudolph,TD,1
+1423032,10/30/2014,FBS,Florida State,Louisville,RECEIVING,Travis,Rudolph,LONG,68
+1423033,10/30/2014,FBS,Florida State,Louisville,RECEIVING,Rashad,Greene,REC,6
+1423034,10/30/2014,FBS,Florida State,Louisville,RECEIVING,Rashad,Greene,YDS,62
+1423035,10/30/2014,FBS,Florida State,Louisville,RECEIVING,Rashad,Greene,TD,0
+1423036,10/30/2014,FBS,Florida State,Louisville,RECEIVING,Rashad,Greene,LONG,21
+1423037,10/30/2014,FBS,Florida State,Louisville,RECEIVING,Ermon,Lane,REC,2
+1423038,10/30/2014,FBS,Florida State,Louisville,RECEIVING,Ermon,Lane,YDS,58
+1423039,10/30/2014,FBS,Florida State,Louisville,RECEIVING,Ermon,Lane,TD,1
+1423040,10/30/2014,FBS,Florida State,Louisville,RECEIVING,Ermon,Lane,LONG,47
+1423041,10/30/2014,FBS,Florida State,Louisville,RECEIVING,Jesus,Wilson,REC,3
+1423042,10/30/2014,FBS,Florida State,Louisville,RECEIVING,Jesus,Wilson,YDS,49
+1423043,10/30/2014,FBS,Florida State,Louisville,RECEIVING,Jesus,Wilson,TD,0
+1423044,10/30/2014,FBS,Florida State,Louisville,RECEIVING,Jesus,Wilson,LONG,30
+1423045,10/30/2014,FBS,Florida State,Louisville,RECEIVING,Dalvin,Cook,REC,4
+1423046,10/30/2014,FBS,Florida State,Louisville,RECEIVING,Dalvin,Cook,YDS,40
+1423047,10/30/2014,FBS,Florida State,Louisville,RECEIVING,Dalvin,Cook,TD,0
+1423048,10/30/2014,FBS,Florida State,Louisville,RECEIVING,Dalvin,Cook,LONG,12
+1423049,10/30/2014,FBS,Florida State,Louisville,RECEIVING,Freddie,Stevenson,REC,1
+1423050,10/30/2014,FBS,Florida State,Louisville,RECEIVING,Freddie,Stevenson,YDS,35
+1423051,10/30/2014,FBS,Florida State,Louisville,RECEIVING,Freddie,Stevenson,TD,1
+1423052,10/30/2014,FBS,Florida State,Louisville,RECEIVING,Freddie,Stevenson,LONG,35
+1423053,10/30/2014,FBS,Florida State,Louisville,RECEIVING,Karlos,Williams,REC,1
+1423054,10/30/2014,FBS,Florida State,Louisville,RECEIVING,Karlos,Williams,YDS,5
+1423055,10/30/2014,FBS,Florida State,Louisville,RECEIVING,Karlos,Williams,TD,0
+1423056,10/30/2014,FBS,Florida State,Louisville,RECEIVING,Karlos,Williams,LONG,5
+1423057,10/30/2014,FBS,Florida State,Louisville,KICKING,Roberto,Aguayo,FG-FGA,0/1
+1423058,10/30/2014,FBS,Florida State,Louisville,KICKING,Roberto,Aguayo,LONG,0
+1423059,10/30/2014,FBS,Florida State,Louisville,KICKING,Roberto,Aguayo,XP,6
+1423060,10/30/2014,FBS,Florida State,Louisville,KICKING,Roberto,Aguayo,PTS,6
+1423061,10/30/2014,FBS,Florida State,Louisville,PUNTING,Cason,Beatty,NO,4
+1423062,10/30/2014,FBS,Florida State,Louisville,PUNTING,Cason,Beatty,YDS,181
+1423063,10/30/2014,FBS,Florida State,Louisville,PUNTING,Cason,Beatty,AVG,45.2
+1423064,10/30/2014,FBS,Florida State,Louisville,PUNTING,Cason,Beatty,LONG,54
+1423065,10/30/2014,FBS,Florida State,Louisville,PUNT RETURNS,Rashad,Greene,NO,2
+1423066,10/30/2014,FBS,Florida State,Louisville,PUNT RETURNS,Rashad,Greene,YDS,11
+1423067,10/30/2014,FBS,Florida State,Louisville,PUNT RETURNS,Rashad,Greene,AVG,5.5
+1423068,10/30/2014,FBS,Florida State,Louisville,PUNT RETURNS,Rashad,Greene,LONG,7
+1423069,10/30/2014,FBS,Florida State,Louisville,KICK RETURNS,Kermit,Whitfield,NO,4
+1423070,10/30/2014,FBS,Florida State,Louisville,KICK RETURNS,Kermit,Whitfield,YDS,78
+1423071,10/30/2014,FBS,Florida State,Louisville,KICK RETURNS,Kermit,Whitfield,AVG,19.5
+1423072,10/30/2014,FBS,Florida State,Louisville,KICK RETURNS,Kermit,Whitfield,LONG,26
+1423073,10/30/2014,FBS,Florida State,Louisville,KICK RETURNS,Jesus,Wilson,NO,1
+1423074,10/30/2014,FBS,Florida State,Louisville,KICK RETURNS,Jesus,Wilson,YDS,26
+1423075,10/30/2014,FBS,Florida State,Louisville,KICK RETURNS,Jesus,Wilson,AVG,26.0
+1423076,10/30/2014,FBS,Florida State,Louisville,KICK RETURNS,Jesus,Wilson,LONG,26
+1423077,10/30/2014,FBS,Louisville,Florida State,RUSHING,Michael,Dyer,ATT,28
+1423078,10/30/2014,FBS,Louisville,Florida State,RUSHING,Michael,Dyer,YDS,134
+1423079,10/30/2014,FBS,Louisville,Florida State,RUSHING,Michael,Dyer,TD,3
+1423080,10/30/2014,FBS,Louisville,Florida State,RUSHING,Michael,Dyer,LONG,20
+1423081,10/30/2014,FBS,Louisville,Florida State,RUSHING,L.J.,Scott,ATT,3
+1423082,10/30/2014,FBS,Louisville,Florida State,RUSHING,L.J.,Scott,YDS,30
+1423083,10/30/2014,FBS,Louisville,Florida State,RUSHING,L.J.,Scott,TD,0
+1423084,10/30/2014,FBS,Louisville,Florida State,RUSHING,L.J.,Scott,LONG,16
+1423085,10/30/2014,FBS,Louisville,Florida State,RUSHING,Brandon,Radcliff,ATT,1
+1423086,10/30/2014,FBS,Louisville,Florida State,RUSHING,Brandon,Radcliff,YDS,6
+1423087,10/30/2014,FBS,Louisville,Florida State,RUSHING,Brandon,Radcliff,TD,0
+1423088,10/30/2014,FBS,Louisville,Florida State,RUSHING,Brandon,Radcliff,LONG,6
+1423089,10/30/2014,FBS,Louisville,Florida State,RUSHING,Will,Gardner,ATT,1
+1423090,10/30/2014,FBS,Louisville,Florida State,RUSHING,Will,Gardner,YDS,-12
+1423091,10/30/2014,FBS,Louisville,Florida State,RUSHING,Will,Gardner,TD,0
+1423092,10/30/2014,FBS,Louisville,Florida State,RUSHING,Will,Gardner,LONG,-12
+1423093,10/30/2014,FBS,Louisville,Florida State,PASSING,Will,Gardner,CP-ATT-INT,20-38-1
+1423094,10/30/2014,FBS,Louisville,Florida State,PASSING,Will,Gardner,YDS,330
+1423095,10/30/2014,FBS,Louisville,Florida State,PASSING,Will,Gardner,TD,1
+1423096,10/30/2014,FBS,Louisville,Florida State,PASSING,Will,Gardner,LONG,71
+1423097,10/30/2014,FBS,Louisville,Florida State,RECEIVING,DeVante,Parker,REC,8
+1423098,10/30/2014,FBS,Louisville,Florida State,RECEIVING,DeVante,Parker,YDS,214
+1423099,10/30/2014,FBS,Louisville,Florida State,RECEIVING,DeVante,Parker,TD,0
+1423100,10/30/2014,FBS,Louisville,Florida State,RECEIVING,DeVante,Parker,LONG,71
+1423101,10/30/2014,FBS,Louisville,Florida State,RECEIVING,Kai,DeLaCruz,REC,4
+1423102,10/30/2014,FBS,Louisville,Florida State,RECEIVING,Kai,DeLaCruz,YDS,38
+1423103,10/30/2014,FBS,Louisville,Florida State,RECEIVING,Kai,DeLaCruz,TD,0
+1423104,10/30/2014,FBS,Louisville,Florida State,RECEIVING,Kai,DeLaCruz,LONG,12
+1423105,10/30/2014,FBS,Louisville,Florida State,RECEIVING,Gerald,Christian,REC,4
+1423106,10/30/2014,FBS,Louisville,Florida State,RECEIVING,Gerald,Christian,YDS,33
+1423107,10/30/2014,FBS,Louisville,Florida State,RECEIVING,Gerald,Christian,TD,1
+1423108,10/30/2014,FBS,Louisville,Florida State,RECEIVING,Gerald,Christian,LONG,11
+1423109,10/30/2014,FBS,Louisville,Florida State,RECEIVING,Eli,Rogers,REC,1
+1423110,10/30/2014,FBS,Louisville,Florida State,RECEIVING,Eli,Rogers,YDS,14
+1423111,10/30/2014,FBS,Louisville,Florida State,RECEIVING,Eli,Rogers,TD,0
+1423112,10/30/2014,FBS,Louisville,Florida State,RECEIVING,Eli,Rogers,LONG,14
+1423113,10/30/2014,FBS,Louisville,Florida State,RECEIVING,Charles,Standberry,REC,1
+1423114,10/30/2014,FBS,Louisville,Florida State,RECEIVING,Charles,Standberry,YDS,12
+1423115,10/30/2014,FBS,Louisville,Florida State,RECEIVING,Charles,Standberry,TD,0
+1423116,10/30/2014,FBS,Louisville,Florida State,RECEIVING,Charles,Standberry,LONG,12
+1423117,10/30/2014,FBS,Louisville,Florida State,RECEIVING,L.J.,Scott,REC,1
+1423118,10/30/2014,FBS,Louisville,Florida State,RECEIVING,L.J.,Scott,YDS,11
+1423119,10/30/2014,FBS,Louisville,Florida State,RECEIVING,L.J.,Scott,TD,0
+1423120,10/30/2014,FBS,Louisville,Florida State,RECEIVING,L.J.,Scott,LONG,11
+1423121,10/30/2014,FBS,Louisville,Florida State,RECEIVING,James,Quick,REC,1
+1423122,10/30/2014,FBS,Louisville,Florida State,RECEIVING,James,Quick,YDS,8
+1423123,10/30/2014,FBS,Louisville,Florida State,RECEIVING,James,Quick,TD,0
+1423124,10/30/2014,FBS,Louisville,Florida State,RECEIVING,James,Quick,LONG,8
+1423125,10/30/2014,FBS,Louisville,Florida State,KICKING,John,Wallace,FG-FGA,1/1
+1423126,10/30/2014,FBS,Louisville,Florida State,KICKING,John,Wallace,LONG,33
+1423127,10/30/2014,FBS,Louisville,Florida State,KICKING,John,Wallace,XP,4
+1423128,10/30/2014,FBS,Louisville,Florida State,KICKING,John,Wallace,PTS,7
+1423129,10/30/2014,FBS,Louisville,Florida State,PUNTING,Ryan,Johnson,NO,6
+1423130,10/30/2014,FBS,Louisville,Florida State,PUNTING,Ryan,Johnson,YDS,217
+1423131,10/30/2014,FBS,Louisville,Florida State,PUNTING,Ryan,Johnson,AVG,36.2
+1423132,10/30/2014,FBS,Louisville,Florida State,PUNTING,Ryan,Johnson,LONG,48
+1423133,10/30/2014,FBS,Louisville,Florida State,PUNT RETURNS,James,Quick,NO,1
+1423134,10/30/2014,FBS,Louisville,Florida State,PUNT RETURNS,James,Quick,YDS,0
+1423135,10/30/2014,FBS,Louisville,Florida State,PUNT RETURNS,James,Quick,AVG,-
+1423136,10/30/2014,FBS,Louisville,Florida State,PUNT RETURNS,James,Quick,LONG,0
+1423137,10/30/2014,FBS,Louisville,Florida State,PUNT RETURNS,Eli,Rogers,NO,0
+1423138,10/30/2014,FBS,Louisville,Florida State,PUNT RETURNS,Eli,Rogers,YDS,0
+1423139,10/30/2014,FBS,Louisville,Florida State,PUNT RETURNS,Eli,Rogers,AVG,-
+1423140,10/30/2014,FBS,Louisville,Florida State,PUNT RETURNS,Eli,Rogers,LONG,0
+1423141,10/30/2014,FBS,Louisville,Florida State,KICK RETURNS,Brandon,Radcliff,NO,2
+1423142,10/30/2014,FBS,Louisville,Florida State,KICK RETURNS,Brandon,Radcliff,YDS,29
+1423143,10/30/2014,FBS,Louisville,Florida State,KICK RETURNS,Brandon,Radcliff,AVG,14.5
+1423144,10/30/2014,FBS,Louisville,Florida State,KICK RETURNS,Brandon,Radcliff,LONG,19
+1423145,10/30/2014,FBS,Louisville,Florida State,KICK RETURNS,James,Quick,NO,1
+1423146,10/30/2014,FBS,Louisville,Florida State,KICK RETURNS,James,Quick,YDS,17
+1423147,10/30/2014,FBS,Louisville,Florida State,KICK RETURNS,James,Quick,AVG,17.0
+1423148,10/30/2014,FBS,Louisville,Florida State,KICK RETURNS,James,Quick,LONG,17

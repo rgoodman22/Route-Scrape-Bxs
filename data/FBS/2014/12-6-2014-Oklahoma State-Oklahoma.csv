@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1711001,12/6/2014,FBS,Oklahoma State,Oklahoma,RUSHING,Desmond,Roland,ATT,18
+1711002,12/6/2014,FBS,Oklahoma State,Oklahoma,RUSHING,Desmond,Roland,YDS,68
+1711003,12/6/2014,FBS,Oklahoma State,Oklahoma,RUSHING,Desmond,Roland,TD,2
+1711004,12/6/2014,FBS,Oklahoma State,Oklahoma,RUSHING,Desmond,Roland,LONG,13
+1711005,12/6/2014,FBS,Oklahoma State,Oklahoma,RUSHING,Tyreek,Hill,ATT,3
+1711006,12/6/2014,FBS,Oklahoma State,Oklahoma,RUSHING,Tyreek,Hill,YDS,38
+1711007,12/6/2014,FBS,Oklahoma State,Oklahoma,RUSHING,Tyreek,Hill,TD,0
+1711008,12/6/2014,FBS,Oklahoma State,Oklahoma,RUSHING,Tyreek,Hill,LONG,26
+1711009,12/6/2014,FBS,Oklahoma State,Oklahoma,RUSHING,Brandon,Sheperd,ATT,1
+1711010,12/6/2014,FBS,Oklahoma State,Oklahoma,RUSHING,Brandon,Sheperd,YDS,7
+1711011,12/6/2014,FBS,Oklahoma State,Oklahoma,RUSHING,Brandon,Sheperd,TD,0
+1711012,12/6/2014,FBS,Oklahoma State,Oklahoma,RUSHING,Brandon,Sheperd,LONG,7
+1711013,12/6/2014,FBS,Oklahoma State,Oklahoma,RUSHING,Mason,Rudolph,ATT,4
+1711014,12/6/2014,FBS,Oklahoma State,Oklahoma,RUSHING,Mason,Rudolph,YDS,-1
+1711015,12/6/2014,FBS,Oklahoma State,Oklahoma,RUSHING,Mason,Rudolph,TD,0
+1711016,12/6/2014,FBS,Oklahoma State,Oklahoma,RUSHING,Mason,Rudolph,LONG,7
+1711017,12/6/2014,FBS,Oklahoma State,Oklahoma,PASSING,Mason,Rudolph,CP-ATT-INT,19-35-1
+1711018,12/6/2014,FBS,Oklahoma State,Oklahoma,PASSING,Mason,Rudolph,YDS,273
+1711019,12/6/2014,FBS,Oklahoma State,Oklahoma,PASSING,Mason,Rudolph,TD,2
+1711020,12/6/2014,FBS,Oklahoma State,Oklahoma,PASSING,Mason,Rudolph,LONG,43
+1711021,12/6/2014,FBS,Oklahoma State,Oklahoma,RECEIVING,Brandon,Sheperd,REC,7
+1711022,12/6/2014,FBS,Oklahoma State,Oklahoma,RECEIVING,Brandon,Sheperd,YDS,156
+1711023,12/6/2014,FBS,Oklahoma State,Oklahoma,RECEIVING,Brandon,Sheperd,TD,2
+1711024,12/6/2014,FBS,Oklahoma State,Oklahoma,RECEIVING,Brandon,Sheperd,LONG,43
+1711025,12/6/2014,FBS,Oklahoma State,Oklahoma,RECEIVING,Jeremy,Seaton,REC,3
+1711026,12/6/2014,FBS,Oklahoma State,Oklahoma,RECEIVING,Jeremy,Seaton,YDS,51
+1711027,12/6/2014,FBS,Oklahoma State,Oklahoma,RECEIVING,Jeremy,Seaton,TD,0
+1711028,12/6/2014,FBS,Oklahoma State,Oklahoma,RECEIVING,Jeremy,Seaton,LONG,26
+1711029,12/6/2014,FBS,Oklahoma State,Oklahoma,RECEIVING,James,Washington,REC,2
+1711030,12/6/2014,FBS,Oklahoma State,Oklahoma,RECEIVING,James,Washington,YDS,25
+1711031,12/6/2014,FBS,Oklahoma State,Oklahoma,RECEIVING,James,Washington,TD,0
+1711032,12/6/2014,FBS,Oklahoma State,Oklahoma,RECEIVING,James,Washington,LONG,21
+1711033,12/6/2014,FBS,Oklahoma State,Oklahoma,RECEIVING,Tyreek,Hill,REC,6
+1711034,12/6/2014,FBS,Oklahoma State,Oklahoma,RECEIVING,Tyreek,Hill,YDS,22
+1711035,12/6/2014,FBS,Oklahoma State,Oklahoma,RECEIVING,Tyreek,Hill,TD,0
+1711036,12/6/2014,FBS,Oklahoma State,Oklahoma,RECEIVING,Tyreek,Hill,LONG,10
+1711037,12/6/2014,FBS,Oklahoma State,Oklahoma,RECEIVING,David,Glidden,REC,1
+1711038,12/6/2014,FBS,Oklahoma State,Oklahoma,RECEIVING,David,Glidden,YDS,19
+1711039,12/6/2014,FBS,Oklahoma State,Oklahoma,RECEIVING,David,Glidden,TD,0
+1711040,12/6/2014,FBS,Oklahoma State,Oklahoma,RECEIVING,David,Glidden,LONG,19
+1711041,12/6/2014,FBS,Oklahoma State,Oklahoma,KICKING,Ben,Grogan,FG-FGA,1/1
+1711042,12/6/2014,FBS,Oklahoma State,Oklahoma,KICKING,Ben,Grogan,LONG,21
+1711043,12/6/2014,FBS,Oklahoma State,Oklahoma,KICKING,Ben,Grogan,XP,5
+1711044,12/6/2014,FBS,Oklahoma State,Oklahoma,KICKING,Ben,Grogan,PTS,8
+1711045,12/6/2014,FBS,Oklahoma State,Oklahoma,PUNTING,Kip,Smith,NO,7
+1711046,12/6/2014,FBS,Oklahoma State,Oklahoma,PUNTING,Kip,Smith,YDS,244
+1711047,12/6/2014,FBS,Oklahoma State,Oklahoma,PUNTING,Kip,Smith,AVG,34.9
+1711048,12/6/2014,FBS,Oklahoma State,Oklahoma,PUNTING,Kip,Smith,LONG,44
+1711049,12/6/2014,FBS,Oklahoma State,Oklahoma,PUNT RETURNS,Tyreek,Hill,NO,3
+1711050,12/6/2014,FBS,Oklahoma State,Oklahoma,PUNT RETURNS,Tyreek,Hill,YDS,95
+1711051,12/6/2014,FBS,Oklahoma State,Oklahoma,PUNT RETURNS,Tyreek,Hill,AVG,31.7
+1711052,12/6/2014,FBS,Oklahoma State,Oklahoma,PUNT RETURNS,Tyreek,Hill,LONG,92
+1711053,12/6/2014,FBS,Oklahoma State,Oklahoma,KICK RETURNS,Tyreek,Hill,NO,1
+1711054,12/6/2014,FBS,Oklahoma State,Oklahoma,KICK RETURNS,Tyreek,Hill,YDS,31
+1711055,12/6/2014,FBS,Oklahoma State,Oklahoma,KICK RETURNS,Tyreek,Hill,AVG,31.0
+1711056,12/6/2014,FBS,Oklahoma State,Oklahoma,KICK RETURNS,Tyreek,Hill,LONG,31
+1711057,12/6/2014,FBS,Oklahoma State,Oklahoma,KICK RETURNS,Desmond,Roland,NO,1
+1711058,12/6/2014,FBS,Oklahoma State,Oklahoma,KICK RETURNS,Desmond,Roland,YDS,15
+1711059,12/6/2014,FBS,Oklahoma State,Oklahoma,KICK RETURNS,Desmond,Roland,AVG,15.0
+1711060,12/6/2014,FBS,Oklahoma State,Oklahoma,KICK RETURNS,Desmond,Roland,LONG,15
+1711061,12/6/2014,FBS,Oklahoma,Oklahoma State,RUSHING,Samaje,Perine,ATT,26
+1711062,12/6/2014,FBS,Oklahoma,Oklahoma State,RUSHING,Samaje,Perine,YDS,151
+1711063,12/6/2014,FBS,Oklahoma,Oklahoma State,RUSHING,Samaje,Perine,TD,2
+1711064,12/6/2014,FBS,Oklahoma,Oklahoma State,RUSHING,Samaje,Perine,LONG,42
+1711065,12/6/2014,FBS,Oklahoma,Oklahoma State,RUSHING,Keith,Ford,ATT,9
+1711066,12/6/2014,FBS,Oklahoma,Oklahoma State,RUSHING,Keith,Ford,YDS,91
+1711067,12/6/2014,FBS,Oklahoma,Oklahoma State,RUSHING,Keith,Ford,TD,0
+1711068,12/6/2014,FBS,Oklahoma,Oklahoma State,RUSHING,Keith,Ford,LONG,56
+1711069,12/6/2014,FBS,Oklahoma,Oklahoma State,RUSHING,Alex,Ross,ATT,13
+1711070,12/6/2014,FBS,Oklahoma,Oklahoma State,RUSHING,Alex,Ross,YDS,42
+1711071,12/6/2014,FBS,Oklahoma,Oklahoma State,RUSHING,Alex,Ross,TD,0
+1711072,12/6/2014,FBS,Oklahoma,Oklahoma State,RUSHING,Alex,Ross,LONG,17
+1711073,12/6/2014,FBS,Oklahoma,Oklahoma State,RUSHING,Michiah,Quick,ATT,3
+1711074,12/6/2014,FBS,Oklahoma,Oklahoma State,RUSHING,Michiah,Quick,YDS,12
+1711075,12/6/2014,FBS,Oklahoma,Oklahoma State,RUSHING,Michiah,Quick,TD,0
+1711076,12/6/2014,FBS,Oklahoma,Oklahoma State,RUSHING,Michiah,Quick,LONG,8
+1711077,12/6/2014,FBS,Oklahoma,Oklahoma State,RUSHING,K.J.,Young,ATT,1
+1711078,12/6/2014,FBS,Oklahoma,Oklahoma State,RUSHING,K.J.,Young,YDS,10
+1711079,12/6/2014,FBS,Oklahoma,Oklahoma State,RUSHING,K.J.,Young,TD,0
+1711080,12/6/2014,FBS,Oklahoma,Oklahoma State,RUSHING,K.J.,Young,LONG,10
+1711081,12/6/2014,FBS,Oklahoma,Oklahoma State,RUSHING,Sterling,Shepard,ATT,1
+1711082,12/6/2014,FBS,Oklahoma,Oklahoma State,RUSHING,Sterling,Shepard,YDS,4
+1711083,12/6/2014,FBS,Oklahoma,Oklahoma State,RUSHING,Sterling,Shepard,TD,0
+1711084,12/6/2014,FBS,Oklahoma,Oklahoma State,RUSHING,Sterling,Shepard,LONG,4
+1711085,12/6/2014,FBS,Oklahoma,Oklahoma State,RUSHING,Aaron,Ripkowski,ATT,2
+1711086,12/6/2014,FBS,Oklahoma,Oklahoma State,RUSHING,Aaron,Ripkowski,YDS,2
+1711087,12/6/2014,FBS,Oklahoma,Oklahoma State,RUSHING,Aaron,Ripkowski,TD,2
+1711088,12/6/2014,FBS,Oklahoma,Oklahoma State,RUSHING,Aaron,Ripkowski,LONG,1
+1711089,12/6/2014,FBS,Oklahoma,Oklahoma State,RUSHING,Cody,Thomas,ATT,8
+1711090,12/6/2014,FBS,Oklahoma,Oklahoma State,RUSHING,Cody,Thomas,YDS,-8
+1711091,12/6/2014,FBS,Oklahoma,Oklahoma State,RUSHING,Cody,Thomas,TD,0
+1711092,12/6/2014,FBS,Oklahoma,Oklahoma State,RUSHING,Cody,Thomas,LONG,10
+1711093,12/6/2014,FBS,Oklahoma,Oklahoma State,PASSING,Cody,Thomas,CP-ATT-INT,10-17-0
+1711094,12/6/2014,FBS,Oklahoma,Oklahoma State,PASSING,Cody,Thomas,YDS,120
+1711095,12/6/2014,FBS,Oklahoma,Oklahoma State,PASSING,Cody,Thomas,TD,1
+1711096,12/6/2014,FBS,Oklahoma,Oklahoma State,PASSING,Cody,Thomas,LONG,47
+1711097,12/6/2014,FBS,Oklahoma,Oklahoma State,RECEIVING,Blake,Bell,REC,2
+1711098,12/6/2014,FBS,Oklahoma,Oklahoma State,RECEIVING,Blake,Bell,YDS,59
+1711099,12/6/2014,FBS,Oklahoma,Oklahoma State,RECEIVING,Blake,Bell,TD,0
+1711100,12/6/2014,FBS,Oklahoma,Oklahoma State,RECEIVING,Blake,Bell,LONG,47
+1711101,12/6/2014,FBS,Oklahoma,Oklahoma State,RECEIVING,Keith,Ford,REC,3
+1711102,12/6/2014,FBS,Oklahoma,Oklahoma State,RECEIVING,Keith,Ford,YDS,34
+1711103,12/6/2014,FBS,Oklahoma,Oklahoma State,RECEIVING,Keith,Ford,TD,0
+1711104,12/6/2014,FBS,Oklahoma,Oklahoma State,RECEIVING,Keith,Ford,LONG,16
+1711105,12/6/2014,FBS,Oklahoma,Oklahoma State,RECEIVING,Samaje,Perine,REC,1
+1711106,12/6/2014,FBS,Oklahoma,Oklahoma State,RECEIVING,Samaje,Perine,YDS,12
+1711107,12/6/2014,FBS,Oklahoma,Oklahoma State,RECEIVING,Samaje,Perine,TD,0
+1711108,12/6/2014,FBS,Oklahoma,Oklahoma State,RECEIVING,Samaje,Perine,LONG,12
+1711109,12/6/2014,FBS,Oklahoma,Oklahoma State,RECEIVING,Jordan,Smallwood,REC,1
+1711110,12/6/2014,FBS,Oklahoma,Oklahoma State,RECEIVING,Jordan,Smallwood,YDS,11
+1711111,12/6/2014,FBS,Oklahoma,Oklahoma State,RECEIVING,Jordan,Smallwood,TD,0
+1711112,12/6/2014,FBS,Oklahoma,Oklahoma State,RECEIVING,Jordan,Smallwood,LONG,11
+1711113,12/6/2014,FBS,Oklahoma,Oklahoma State,RECEIVING,Aaron,Ripkowski,REC,2
+1711114,12/6/2014,FBS,Oklahoma,Oklahoma State,RECEIVING,Aaron,Ripkowski,YDS,6
+1711115,12/6/2014,FBS,Oklahoma,Oklahoma State,RECEIVING,Aaron,Ripkowski,TD,1
+1711116,12/6/2014,FBS,Oklahoma,Oklahoma State,RECEIVING,Aaron,Ripkowski,LONG,4
+1711117,12/6/2014,FBS,Oklahoma,Oklahoma State,RECEIVING,Michiah,Quick,REC,1
+1711118,12/6/2014,FBS,Oklahoma,Oklahoma State,RECEIVING,Michiah,Quick,YDS,-2
+1711119,12/6/2014,FBS,Oklahoma,Oklahoma State,RECEIVING,Michiah,Quick,TD,0
+1711120,12/6/2014,FBS,Oklahoma,Oklahoma State,RECEIVING,Michiah,Quick,LONG,-2
+1711121,12/6/2014,FBS,Oklahoma,Oklahoma State,KICKING,Michael,Hunnicutt,FG-FGA,0/1
+1711122,12/6/2014,FBS,Oklahoma,Oklahoma State,KICKING,Michael,Hunnicutt,LONG,0
+1711123,12/6/2014,FBS,Oklahoma,Oklahoma State,KICKING,Michael,Hunnicutt,XP,5
+1711124,12/6/2014,FBS,Oklahoma,Oklahoma State,KICKING,Michael,Hunnicutt,PTS,5
+1711125,12/6/2014,FBS,Oklahoma,Oklahoma State,PUNTING,Jed,Barnett,NO,6
+1711126,12/6/2014,FBS,Oklahoma,Oklahoma State,PUNTING,Jed,Barnett,YDS,225
+1711127,12/6/2014,FBS,Oklahoma,Oklahoma State,PUNTING,Jed,Barnett,AVG,37.5
+1711128,12/6/2014,FBS,Oklahoma,Oklahoma State,PUNTING,Jed,Barnett,LONG,45
+1711129,12/6/2014,FBS,Oklahoma,Oklahoma State,PUNT RETURNS,Zack,Sanchez,NO,0
+1711130,12/6/2014,FBS,Oklahoma,Oklahoma State,PUNT RETURNS,Zack,Sanchez,YDS,0
+1711131,12/6/2014,FBS,Oklahoma,Oklahoma State,PUNT RETURNS,Zack,Sanchez,AVG,-
+1711132,12/6/2014,FBS,Oklahoma,Oklahoma State,PUNT RETURNS,Zack,Sanchez,LONG,0
+1711133,12/6/2014,FBS,Oklahoma,Oklahoma State,KICK RETURNS,Alex,Ross,NO,4
+1711134,12/6/2014,FBS,Oklahoma,Oklahoma State,KICK RETURNS,Alex,Ross,YDS,110
+1711135,12/6/2014,FBS,Oklahoma,Oklahoma State,KICK RETURNS,Alex,Ross,AVG,27.5
+1711136,12/6/2014,FBS,Oklahoma,Oklahoma State,KICK RETURNS,Alex,Ross,LONG,36

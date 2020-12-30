@@ -1,0 +1,161 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+974001,9/6/2014,FBS,San Diego State,North Carolina,RUSHING,Donnel,Pumphrey,ATT,17
+974002,9/6/2014,FBS,San Diego State,North Carolina,RUSHING,Donnel,Pumphrey,YDS,100
+974003,9/6/2014,FBS,San Diego State,North Carolina,RUSHING,Donnel,Pumphrey,TD,2
+974004,9/6/2014,FBS,San Diego State,North Carolina,RUSHING,Donnel,Pumphrey,LONG,20
+974005,9/6/2014,FBS,San Diego State,North Carolina,RUSHING,Chase,Price,ATT,16
+974006,9/6/2014,FBS,San Diego State,North Carolina,RUSHING,Chase,Price,YDS,71
+974007,9/6/2014,FBS,San Diego State,North Carolina,RUSHING,Chase,Price,TD,0
+974008,9/6/2014,FBS,San Diego State,North Carolina,RUSHING,Chase,Price,LONG,29
+974009,9/6/2014,FBS,San Diego State,North Carolina,RUSHING,,Team,ATT,1
+974010,9/6/2014,FBS,San Diego State,North Carolina,RUSHING,,Team,YDS,-1
+974011,9/6/2014,FBS,San Diego State,North Carolina,RUSHING,,Team,TD,0
+974012,9/6/2014,FBS,San Diego State,North Carolina,RUSHING,,Team,LONG,-1
+974013,9/6/2014,FBS,San Diego State,North Carolina,RUSHING,Quinn,Kaehler,ATT,1
+974014,9/6/2014,FBS,San Diego State,North Carolina,RUSHING,Quinn,Kaehler,YDS,-2
+974015,9/6/2014,FBS,San Diego State,North Carolina,RUSHING,Quinn,Kaehler,TD,0
+974016,9/6/2014,FBS,San Diego State,North Carolina,RUSHING,Quinn,Kaehler,LONG,-2
+974017,9/6/2014,FBS,San Diego State,North Carolina,PASSING,Quinn,Kaehler,CP-ATT-INT,23-39-3
+974018,9/6/2014,FBS,San Diego State,North Carolina,PASSING,Quinn,Kaehler,YDS,341
+974019,9/6/2014,FBS,San Diego State,North Carolina,PASSING,Quinn,Kaehler,TD,1
+974020,9/6/2014,FBS,San Diego State,North Carolina,PASSING,Quinn,Kaehler,LONG,59
+974021,9/6/2014,FBS,San Diego State,North Carolina,RECEIVING,Eric,Judge,REC,3
+974022,9/6/2014,FBS,San Diego State,North Carolina,RECEIVING,Eric,Judge,YDS,94
+974023,9/6/2014,FBS,San Diego State,North Carolina,RECEIVING,Eric,Judge,TD,1
+974024,9/6/2014,FBS,San Diego State,North Carolina,RECEIVING,Eric,Judge,LONG,56
+974025,9/6/2014,FBS,San Diego State,North Carolina,RECEIVING,Ezell,Ruffin,REC,2
+974026,9/6/2014,FBS,San Diego State,North Carolina,RECEIVING,Ezell,Ruffin,YDS,64
+974027,9/6/2014,FBS,San Diego State,North Carolina,RECEIVING,Ezell,Ruffin,TD,0
+974028,9/6/2014,FBS,San Diego State,North Carolina,RECEIVING,Ezell,Ruffin,LONG,59
+974029,9/6/2014,FBS,San Diego State,North Carolina,RECEIVING,Dakota,Gordon,REC,3
+974030,9/6/2014,FBS,San Diego State,North Carolina,RECEIVING,Dakota,Gordon,YDS,42
+974031,9/6/2014,FBS,San Diego State,North Carolina,RECEIVING,Dakota,Gordon,TD,0
+974032,9/6/2014,FBS,San Diego State,North Carolina,RECEIVING,Dakota,Gordon,LONG,24
+974033,9/6/2014,FBS,San Diego State,North Carolina,RECEIVING,Larry,Clark,REC,3
+974034,9/6/2014,FBS,San Diego State,North Carolina,RECEIVING,Larry,Clark,YDS,42
+974035,9/6/2014,FBS,San Diego State,North Carolina,RECEIVING,Larry,Clark,TD,0
+974036,9/6/2014,FBS,San Diego State,North Carolina,RECEIVING,Larry,Clark,LONG,17
+974037,9/6/2014,FBS,San Diego State,North Carolina,RECEIVING,Robert,Craighead,REC,2
+974038,9/6/2014,FBS,San Diego State,North Carolina,RECEIVING,Robert,Craighead,YDS,33
+974039,9/6/2014,FBS,San Diego State,North Carolina,RECEIVING,Robert,Craighead,TD,0
+974040,9/6/2014,FBS,San Diego State,North Carolina,RECEIVING,Robert,Craighead,LONG,27
+974041,9/6/2014,FBS,San Diego State,North Carolina,RECEIVING,Lloyd,Mills,REC,2
+974042,9/6/2014,FBS,San Diego State,North Carolina,RECEIVING,Lloyd,Mills,YDS,22
+974043,9/6/2014,FBS,San Diego State,North Carolina,RECEIVING,Lloyd,Mills,TD,0
+974044,9/6/2014,FBS,San Diego State,North Carolina,RECEIVING,Lloyd,Mills,LONG,17
+974045,9/6/2014,FBS,San Diego State,North Carolina,RECEIVING,Adam,Roberts,REC,2
+974046,9/6/2014,FBS,San Diego State,North Carolina,RECEIVING,Adam,Roberts,YDS,21
+974047,9/6/2014,FBS,San Diego State,North Carolina,RECEIVING,Adam,Roberts,TD,0
+974048,9/6/2014,FBS,San Diego State,North Carolina,RECEIVING,Adam,Roberts,LONG,11
+974049,9/6/2014,FBS,San Diego State,North Carolina,RECEIVING,Donnel,Pumphrey,REC,5
+974050,9/6/2014,FBS,San Diego State,North Carolina,RECEIVING,Donnel,Pumphrey,YDS,18
+974051,9/6/2014,FBS,San Diego State,North Carolina,RECEIVING,Donnel,Pumphrey,TD,0
+974052,9/6/2014,FBS,San Diego State,North Carolina,RECEIVING,Donnel,Pumphrey,LONG,7
+974053,9/6/2014,FBS,San Diego State,North Carolina,RECEIVING,Paul,Pitts,REC,1
+974054,9/6/2014,FBS,San Diego State,North Carolina,RECEIVING,Paul,Pitts,YDS,5
+974055,9/6/2014,FBS,San Diego State,North Carolina,RECEIVING,Paul,Pitts,TD,0
+974056,9/6/2014,FBS,San Diego State,North Carolina,RECEIVING,Paul,Pitts,LONG,5
+974057,9/6/2014,FBS,San Diego State,North Carolina,KICKING,Donny,Hageman,FG-FGA,2/2
+974058,9/6/2014,FBS,San Diego State,North Carolina,KICKING,Donny,Hageman,LONG,49
+974059,9/6/2014,FBS,San Diego State,North Carolina,KICKING,Donny,Hageman,XP,3
+974060,9/6/2014,FBS,San Diego State,North Carolina,KICKING,Donny,Hageman,PTS,9
+974061,9/6/2014,FBS,San Diego State,North Carolina,PUNTING,Joel,Alesi,NO,4
+974062,9/6/2014,FBS,San Diego State,North Carolina,PUNTING,Joel,Alesi,YDS,173
+974063,9/6/2014,FBS,San Diego State,North Carolina,PUNTING,Joel,Alesi,AVG,43.2
+974064,9/6/2014,FBS,San Diego State,North Carolina,PUNTING,Joel,Alesi,LONG,50
+974065,9/6/2014,FBS,San Diego State,North Carolina,PUNT RETURNS,Lloyd,Mills,NO,1
+974066,9/6/2014,FBS,San Diego State,North Carolina,PUNT RETURNS,Lloyd,Mills,YDS,2
+974067,9/6/2014,FBS,San Diego State,North Carolina,PUNT RETURNS,Lloyd,Mills,AVG,2.0
+974068,9/6/2014,FBS,San Diego State,North Carolina,PUNT RETURNS,Lloyd,Mills,LONG,2
+974069,9/6/2014,FBS,San Diego State,North Carolina,KICK RETURNS,Rashaad,Penny,NO,1
+974070,9/6/2014,FBS,San Diego State,North Carolina,KICK RETURNS,Rashaad,Penny,YDS,11
+974071,9/6/2014,FBS,San Diego State,North Carolina,KICK RETURNS,Rashaad,Penny,AVG,11.0
+974072,9/6/2014,FBS,San Diego State,North Carolina,KICK RETURNS,Rashaad,Penny,LONG,11
+974073,9/6/2014,FBS,North Carolina,San Diego State,RUSHING,Marquise,Williams,ATT,12
+974074,9/6/2014,FBS,North Carolina,San Diego State,RUSHING,Marquise,Williams,YDS,63
+974075,9/6/2014,FBS,North Carolina,San Diego State,RUSHING,Marquise,Williams,TD,0
+974076,9/6/2014,FBS,North Carolina,San Diego State,RUSHING,Marquise,Williams,LONG,16
+974077,9/6/2014,FBS,North Carolina,San Diego State,RUSHING,T.J.,Logan,ATT,8
+974078,9/6/2014,FBS,North Carolina,San Diego State,RUSHING,T.J.,Logan,YDS,33
+974079,9/6/2014,FBS,North Carolina,San Diego State,RUSHING,T.J.,Logan,TD,0
+974080,9/6/2014,FBS,North Carolina,San Diego State,RUSHING,T.J.,Logan,LONG,11
+974081,9/6/2014,FBS,North Carolina,San Diego State,RUSHING,Elijah,Hood,ATT,6
+974082,9/6/2014,FBS,North Carolina,San Diego State,RUSHING,Elijah,Hood,YDS,26
+974083,9/6/2014,FBS,North Carolina,San Diego State,RUSHING,Elijah,Hood,TD,1
+974084,9/6/2014,FBS,North Carolina,San Diego State,RUSHING,Elijah,Hood,LONG,8
+974085,9/6/2014,FBS,North Carolina,San Diego State,RUSHING,Romar,Morris,ATT,5
+974086,9/6/2014,FBS,North Carolina,San Diego State,RUSHING,Romar,Morris,YDS,9
+974087,9/6/2014,FBS,North Carolina,San Diego State,RUSHING,Romar,Morris,TD,0
+974088,9/6/2014,FBS,North Carolina,San Diego State,RUSHING,Romar,Morris,LONG,8
+974089,9/6/2014,FBS,North Carolina,San Diego State,RUSHING,Ryan,Switzer,ATT,1
+974090,9/6/2014,FBS,North Carolina,San Diego State,RUSHING,Ryan,Switzer,YDS,1
+974091,9/6/2014,FBS,North Carolina,San Diego State,RUSHING,Ryan,Switzer,TD,0
+974092,9/6/2014,FBS,North Carolina,San Diego State,RUSHING,Ryan,Switzer,LONG,1
+974093,9/6/2014,FBS,North Carolina,San Diego State,RUSHING,,Team,ATT,1
+974094,9/6/2014,FBS,North Carolina,San Diego State,RUSHING,,Team,YDS,-1
+974095,9/6/2014,FBS,North Carolina,San Diego State,RUSHING,,Team,TD,0
+974096,9/6/2014,FBS,North Carolina,San Diego State,RUSHING,,Team,LONG,-1
+974097,9/6/2014,FBS,North Carolina,San Diego State,PASSING,Marquise,Williams,CP-ATT-INT,20-29-0
+974098,9/6/2014,FBS,North Carolina,San Diego State,PASSING,Marquise,Williams,YDS,255
+974099,9/6/2014,FBS,North Carolina,San Diego State,PASSING,Marquise,Williams,TD,2
+974100,9/6/2014,FBS,North Carolina,San Diego State,PASSING,Marquise,Williams,LONG,91
+974101,9/6/2014,FBS,North Carolina,San Diego State,PASSING,Mitch,Trubisky,CP-ATT-INT,1-2-1
+974102,9/6/2014,FBS,North Carolina,San Diego State,PASSING,Mitch,Trubisky,YDS,8
+974103,9/6/2014,FBS,North Carolina,San Diego State,PASSING,Mitch,Trubisky,TD,0
+974104,9/6/2014,FBS,North Carolina,San Diego State,PASSING,Mitch,Trubisky,LONG,8
+974105,9/6/2014,FBS,North Carolina,San Diego State,RECEIVING,Mack,Hollins,REC,2
+974106,9/6/2014,FBS,North Carolina,San Diego State,RECEIVING,Mack,Hollins,YDS,110
+974107,9/6/2014,FBS,North Carolina,San Diego State,RECEIVING,Mack,Hollins,TD,1
+974108,9/6/2014,FBS,North Carolina,San Diego State,RECEIVING,Mack,Hollins,LONG,91
+974109,9/6/2014,FBS,North Carolina,San Diego State,RECEIVING,Ryan,Switzer,REC,6
+974110,9/6/2014,FBS,North Carolina,San Diego State,RECEIVING,Ryan,Switzer,YDS,62
+974111,9/6/2014,FBS,North Carolina,San Diego State,RECEIVING,Ryan,Switzer,TD,0
+974112,9/6/2014,FBS,North Carolina,San Diego State,RECEIVING,Ryan,Switzer,LONG,24
+974113,9/6/2014,FBS,North Carolina,San Diego State,RECEIVING,Quinshad,Davis,REC,5
+974114,9/6/2014,FBS,North Carolina,San Diego State,RECEIVING,Quinshad,Davis,YDS,48
+974115,9/6/2014,FBS,North Carolina,San Diego State,RECEIVING,Quinshad,Davis,TD,1
+974116,9/6/2014,FBS,North Carolina,San Diego State,RECEIVING,Quinshad,Davis,LONG,12
+974117,9/6/2014,FBS,North Carolina,San Diego State,RECEIVING,Kendrick,Singleton,REC,3
+974118,9/6/2014,FBS,North Carolina,San Diego State,RECEIVING,Kendrick,Singleton,YDS,29
+974119,9/6/2014,FBS,North Carolina,San Diego State,RECEIVING,Kendrick,Singleton,TD,0
+974120,9/6/2014,FBS,North Carolina,San Diego State,RECEIVING,Kendrick,Singleton,LONG,10
+974121,9/6/2014,FBS,North Carolina,San Diego State,RECEIVING,T.J.,Logan,REC,2
+974122,9/6/2014,FBS,North Carolina,San Diego State,RECEIVING,T.J.,Logan,YDS,9
+974123,9/6/2014,FBS,North Carolina,San Diego State,RECEIVING,T.J.,Logan,TD,0
+974124,9/6/2014,FBS,North Carolina,San Diego State,RECEIVING,T.J.,Logan,LONG,5
+974125,9/6/2014,FBS,North Carolina,San Diego State,RECEIVING,Jack,Tabb,REC,1
+974126,9/6/2014,FBS,North Carolina,San Diego State,RECEIVING,Jack,Tabb,YDS,5
+974127,9/6/2014,FBS,North Carolina,San Diego State,RECEIVING,Jack,Tabb,TD,0
+974128,9/6/2014,FBS,North Carolina,San Diego State,RECEIVING,Jack,Tabb,LONG,5
+974129,9/6/2014,FBS,North Carolina,San Diego State,RECEIVING,Elijah,Hood,REC,1
+974130,9/6/2014,FBS,North Carolina,San Diego State,RECEIVING,Elijah,Hood,YDS,1
+974131,9/6/2014,FBS,North Carolina,San Diego State,RECEIVING,Elijah,Hood,TD,0
+974132,9/6/2014,FBS,North Carolina,San Diego State,RECEIVING,Elijah,Hood,LONG,1
+974133,9/6/2014,FBS,North Carolina,San Diego State,RECEIVING,Bug,Howard,REC,1
+974134,9/6/2014,FBS,North Carolina,San Diego State,RECEIVING,Bug,Howard,YDS,-1
+974135,9/6/2014,FBS,North Carolina,San Diego State,RECEIVING,Bug,Howard,TD,0
+974136,9/6/2014,FBS,North Carolina,San Diego State,RECEIVING,Bug,Howard,LONG,0
+974137,9/6/2014,FBS,North Carolina,San Diego State,KICKING,Nick,Weiler,FG-FGA,1/1
+974138,9/6/2014,FBS,North Carolina,San Diego State,KICKING,Nick,Weiler,LONG,23
+974139,9/6/2014,FBS,North Carolina,San Diego State,KICKING,Nick,Weiler,XP,3
+974140,9/6/2014,FBS,North Carolina,San Diego State,KICKING,Nick,Weiler,PTS,6
+974141,9/6/2014,FBS,North Carolina,San Diego State,KICKING,Thomas,Moore,FG-FGA,0/1
+974142,9/6/2014,FBS,North Carolina,San Diego State,KICKING,Thomas,Moore,LONG,0
+974143,9/6/2014,FBS,North Carolina,San Diego State,KICKING,Thomas,Moore,XP,1
+974144,9/6/2014,FBS,North Carolina,San Diego State,KICKING,Thomas,Moore,PTS,1
+974145,9/6/2014,FBS,North Carolina,San Diego State,PUNTING,Tommy,Hibbard,NO,5
+974146,9/6/2014,FBS,North Carolina,San Diego State,PUNTING,Tommy,Hibbard,YDS,194
+974147,9/6/2014,FBS,North Carolina,San Diego State,PUNTING,Tommy,Hibbard,AVG,38.8
+974148,9/6/2014,FBS,North Carolina,San Diego State,PUNTING,Tommy,Hibbard,LONG,50
+974149,9/6/2014,FBS,North Carolina,San Diego State,PUNT RETURNS,Ryan,Switzer,NO,3
+974150,9/6/2014,FBS,North Carolina,San Diego State,PUNT RETURNS,Ryan,Switzer,YDS,-2
+974151,9/6/2014,FBS,North Carolina,San Diego State,PUNT RETURNS,Ryan,Switzer,AVG,-
+974152,9/6/2014,FBS,North Carolina,San Diego State,PUNT RETURNS,Ryan,Switzer,LONG,0
+974153,9/6/2014,FBS,North Carolina,San Diego State,KICK RETURNS,T.J.,Logan,NO,4
+974154,9/6/2014,FBS,North Carolina,San Diego State,KICK RETURNS,T.J.,Logan,YDS,92
+974155,9/6/2014,FBS,North Carolina,San Diego State,KICK RETURNS,T.J.,Logan,AVG,23.0
+974156,9/6/2014,FBS,North Carolina,San Diego State,KICK RETURNS,T.J.,Logan,LONG,34
+974157,9/6/2014,FBS,North Carolina,San Diego State,KICK RETURNS,Ryan,Switzer,NO,1
+974158,9/6/2014,FBS,North Carolina,San Diego State,KICK RETURNS,Ryan,Switzer,YDS,17
+974159,9/6/2014,FBS,North Carolina,San Diego State,KICK RETURNS,Ryan,Switzer,AVG,17.0
+974160,9/6/2014,FBS,North Carolina,San Diego State,KICK RETURNS,Ryan,Switzer,LONG,17

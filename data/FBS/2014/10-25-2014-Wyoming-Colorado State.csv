@@ -1,0 +1,149 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1405001,10/25/2014,FBS,Wyoming,Colorado State,RUSHING,Brian,Hill,ATT,28
+1405002,10/25/2014,FBS,Wyoming,Colorado State,RUSHING,Brian,Hill,YDS,121
+1405003,10/25/2014,FBS,Wyoming,Colorado State,RUSHING,Brian,Hill,TD,2
+1405004,10/25/2014,FBS,Wyoming,Colorado State,RUSHING,Brian,Hill,LONG,40
+1405005,10/25/2014,FBS,Wyoming,Colorado State,RUSHING,Joshua,Tapscott,ATT,1
+1405006,10/25/2014,FBS,Wyoming,Colorado State,RUSHING,Joshua,Tapscott,YDS,3
+1405007,10/25/2014,FBS,Wyoming,Colorado State,RUSHING,Joshua,Tapscott,TD,0
+1405008,10/25/2014,FBS,Wyoming,Colorado State,RUSHING,Joshua,Tapscott,LONG,3
+1405009,10/25/2014,FBS,Wyoming,Colorado State,RUSHING,Shaun,Wick,ATT,1
+1405010,10/25/2014,FBS,Wyoming,Colorado State,RUSHING,Shaun,Wick,YDS,-2
+1405011,10/25/2014,FBS,Wyoming,Colorado State,RUSHING,Shaun,Wick,TD,0
+1405012,10/25/2014,FBS,Wyoming,Colorado State,RUSHING,Shaun,Wick,LONG,-2
+1405013,10/25/2014,FBS,Wyoming,Colorado State,RUSHING,Colby,Kirkegaard,ATT,8
+1405014,10/25/2014,FBS,Wyoming,Colorado State,RUSHING,Colby,Kirkegaard,YDS,-3
+1405015,10/25/2014,FBS,Wyoming,Colorado State,RUSHING,Colby,Kirkegaard,TD,0
+1405016,10/25/2014,FBS,Wyoming,Colorado State,RUSHING,Colby,Kirkegaard,LONG,6
+1405017,10/25/2014,FBS,Wyoming,Colorado State,PASSING,Colby,Kirkegaard,CP-ATT-INT,24-38-0
+1405018,10/25/2014,FBS,Wyoming,Colorado State,PASSING,Colby,Kirkegaard,YDS,335
+1405019,10/25/2014,FBS,Wyoming,Colorado State,PASSING,Colby,Kirkegaard,TD,2
+1405020,10/25/2014,FBS,Wyoming,Colorado State,PASSING,Colby,Kirkegaard,LONG,46
+1405021,10/25/2014,FBS,Wyoming,Colorado State,RECEIVING,Tanner,Gentry,REC,6
+1405022,10/25/2014,FBS,Wyoming,Colorado State,RECEIVING,Tanner,Gentry,YDS,96
+1405023,10/25/2014,FBS,Wyoming,Colorado State,RECEIVING,Tanner,Gentry,TD,1
+1405024,10/25/2014,FBS,Wyoming,Colorado State,RECEIVING,Tanner,Gentry,LONG,38
+1405025,10/25/2014,FBS,Wyoming,Colorado State,RECEIVING,Jalen,Claiborne,REC,5
+1405026,10/25/2014,FBS,Wyoming,Colorado State,RECEIVING,Jalen,Claiborne,YDS,88
+1405027,10/25/2014,FBS,Wyoming,Colorado State,RECEIVING,Jalen,Claiborne,TD,1
+1405028,10/25/2014,FBS,Wyoming,Colorado State,RECEIVING,Jalen,Claiborne,LONG,36
+1405029,10/25/2014,FBS,Wyoming,Colorado State,RECEIVING,Jake,Maulhardt,REC,3
+1405030,10/25/2014,FBS,Wyoming,Colorado State,RECEIVING,Jake,Maulhardt,YDS,57
+1405031,10/25/2014,FBS,Wyoming,Colorado State,RECEIVING,Jake,Maulhardt,TD,0
+1405032,10/25/2014,FBS,Wyoming,Colorado State,RECEIVING,Jake,Maulhardt,LONG,46
+1405033,10/25/2014,FBS,Wyoming,Colorado State,RECEIVING,Dominic,Rufran,REC,6
+1405034,10/25/2014,FBS,Wyoming,Colorado State,RECEIVING,Dominic,Rufran,YDS,52
+1405035,10/25/2014,FBS,Wyoming,Colorado State,RECEIVING,Dominic,Rufran,TD,0
+1405036,10/25/2014,FBS,Wyoming,Colorado State,RECEIVING,Dominic,Rufran,LONG,16
+1405037,10/25/2014,FBS,Wyoming,Colorado State,RECEIVING,Jacob,Hollister,REC,2
+1405038,10/25/2014,FBS,Wyoming,Colorado State,RECEIVING,Jacob,Hollister,YDS,20
+1405039,10/25/2014,FBS,Wyoming,Colorado State,RECEIVING,Jacob,Hollister,TD,0
+1405040,10/25/2014,FBS,Wyoming,Colorado State,RECEIVING,Jacob,Hollister,LONG,15
+1405041,10/25/2014,FBS,Wyoming,Colorado State,RECEIVING,Eric,Nzeocha,REC,1
+1405042,10/25/2014,FBS,Wyoming,Colorado State,RECEIVING,Eric,Nzeocha,YDS,13
+1405043,10/25/2014,FBS,Wyoming,Colorado State,RECEIVING,Eric,Nzeocha,TD,0
+1405044,10/25/2014,FBS,Wyoming,Colorado State,RECEIVING,Eric,Nzeocha,LONG,13
+1405045,10/25/2014,FBS,Wyoming,Colorado State,RECEIVING,Trey,Norman,REC,1
+1405046,10/25/2014,FBS,Wyoming,Colorado State,RECEIVING,Trey,Norman,YDS,9
+1405047,10/25/2014,FBS,Wyoming,Colorado State,RECEIVING,Trey,Norman,TD,0
+1405048,10/25/2014,FBS,Wyoming,Colorado State,RECEIVING,Trey,Norman,LONG,9
+1405049,10/25/2014,FBS,Wyoming,Colorado State,KICKING,Stuart,Williams,FG-FGA,1/2
+1405050,10/25/2014,FBS,Wyoming,Colorado State,KICKING,Stuart,Williams,LONG,31
+1405051,10/25/2014,FBS,Wyoming,Colorado State,KICKING,Stuart,Williams,XP,4
+1405052,10/25/2014,FBS,Wyoming,Colorado State,KICKING,Stuart,Williams,PTS,7
+1405053,10/25/2014,FBS,Wyoming,Colorado State,PUNTING,Ethan,Wood,NO,3
+1405054,10/25/2014,FBS,Wyoming,Colorado State,PUNTING,Ethan,Wood,YDS,120
+1405055,10/25/2014,FBS,Wyoming,Colorado State,PUNTING,Ethan,Wood,AVG,40.0
+1405056,10/25/2014,FBS,Wyoming,Colorado State,PUNTING,Ethan,Wood,LONG,43
+1405057,10/25/2014,FBS,Wyoming,Colorado State,KICK RETURNS,Tyran,Finley,NO,2
+1405058,10/25/2014,FBS,Wyoming,Colorado State,KICK RETURNS,Tyran,Finley,YDS,38
+1405059,10/25/2014,FBS,Wyoming,Colorado State,KICK RETURNS,Tyran,Finley,AVG,19.0
+1405060,10/25/2014,FBS,Wyoming,Colorado State,KICK RETURNS,Tyran,Finley,LONG,20
+1405061,10/25/2014,FBS,Colorado State,Wyoming,RUSHING,Dee,Hart,ATT,13
+1405062,10/25/2014,FBS,Colorado State,Wyoming,RUSHING,Dee,Hart,YDS,87
+1405063,10/25/2014,FBS,Colorado State,Wyoming,RUSHING,Dee,Hart,TD,0
+1405064,10/25/2014,FBS,Colorado State,Wyoming,RUSHING,Dee,Hart,LONG,46
+1405065,10/25/2014,FBS,Colorado State,Wyoming,RUSHING,Treyous,Jarrells,ATT,9
+1405066,10/25/2014,FBS,Colorado State,Wyoming,RUSHING,Treyous,Jarrells,YDS,50
+1405067,10/25/2014,FBS,Colorado State,Wyoming,RUSHING,Treyous,Jarrells,TD,1
+1405068,10/25/2014,FBS,Colorado State,Wyoming,RUSHING,Treyous,Jarrells,LONG,21
+1405069,10/25/2014,FBS,Colorado State,Wyoming,RUSHING,Charles,Lovett,ATT,1
+1405070,10/25/2014,FBS,Colorado State,Wyoming,RUSHING,Charles,Lovett,YDS,13
+1405071,10/25/2014,FBS,Colorado State,Wyoming,RUSHING,Charles,Lovett,TD,0
+1405072,10/25/2014,FBS,Colorado State,Wyoming,RUSHING,Charles,Lovett,LONG,13
+1405073,10/25/2014,FBS,Colorado State,Wyoming,RUSHING,Deron,Thompson,ATT,2
+1405074,10/25/2014,FBS,Colorado State,Wyoming,RUSHING,Deron,Thompson,YDS,2
+1405075,10/25/2014,FBS,Colorado State,Wyoming,RUSHING,Deron,Thompson,TD,0
+1405076,10/25/2014,FBS,Colorado State,Wyoming,RUSHING,Deron,Thompson,LONG,2
+1405077,10/25/2014,FBS,Colorado State,Wyoming,RUSHING,,Team,ATT,1
+1405078,10/25/2014,FBS,Colorado State,Wyoming,RUSHING,,Team,YDS,-2
+1405079,10/25/2014,FBS,Colorado State,Wyoming,RUSHING,,Team,TD,0
+1405080,10/25/2014,FBS,Colorado State,Wyoming,RUSHING,,Team,LONG,-2
+1405081,10/25/2014,FBS,Colorado State,Wyoming,RUSHING,Garrett,Grayson,ATT,4
+1405082,10/25/2014,FBS,Colorado State,Wyoming,RUSHING,Garrett,Grayson,YDS,-3
+1405083,10/25/2014,FBS,Colorado State,Wyoming,RUSHING,Garrett,Grayson,TD,0
+1405084,10/25/2014,FBS,Colorado State,Wyoming,RUSHING,Garrett,Grayson,LONG,9
+1405085,10/25/2014,FBS,Colorado State,Wyoming,PASSING,Garrett,Grayson,CP-ATT-INT,18-21-0
+1405086,10/25/2014,FBS,Colorado State,Wyoming,PASSING,Garrett,Grayson,YDS,390
+1405087,10/25/2014,FBS,Colorado State,Wyoming,PASSING,Garrett,Grayson,TD,5
+1405088,10/25/2014,FBS,Colorado State,Wyoming,PASSING,Garrett,Grayson,LONG,73
+1405089,10/25/2014,FBS,Colorado State,Wyoming,PASSING,Nick,Stevens,CP-ATT-INT,2-3-0
+1405090,10/25/2014,FBS,Colorado State,Wyoming,PASSING,Nick,Stevens,YDS,21
+1405091,10/25/2014,FBS,Colorado State,Wyoming,PASSING,Nick,Stevens,TD,0
+1405092,10/25/2014,FBS,Colorado State,Wyoming,PASSING,Nick,Stevens,LONG,11
+1405093,10/25/2014,FBS,Colorado State,Wyoming,RECEIVING,Rashard,Higgins,REC,5
+1405094,10/25/2014,FBS,Colorado State,Wyoming,RECEIVING,Rashard,Higgins,YDS,174
+1405095,10/25/2014,FBS,Colorado State,Wyoming,RECEIVING,Rashard,Higgins,TD,2
+1405096,10/25/2014,FBS,Colorado State,Wyoming,RECEIVING,Rashard,Higgins,LONG,73
+1405097,10/25/2014,FBS,Colorado State,Wyoming,RECEIVING,Joe,Hansley,REC,4
+1405098,10/25/2014,FBS,Colorado State,Wyoming,RECEIVING,Joe,Hansley,YDS,97
+1405099,10/25/2014,FBS,Colorado State,Wyoming,RECEIVING,Joe,Hansley,TD,1
+1405100,10/25/2014,FBS,Colorado State,Wyoming,RECEIVING,Joe,Hansley,LONG,65
+1405101,10/25/2014,FBS,Colorado State,Wyoming,RECEIVING,Xavier,Williams,REC,3
+1405102,10/25/2014,FBS,Colorado State,Wyoming,RECEIVING,Xavier,Williams,YDS,39
+1405103,10/25/2014,FBS,Colorado State,Wyoming,RECEIVING,Xavier,Williams,TD,1
+1405104,10/25/2014,FBS,Colorado State,Wyoming,RECEIVING,Xavier,Williams,LONG,21
+1405105,10/25/2014,FBS,Colorado State,Wyoming,RECEIVING,Treyous,Jarrells,REC,3
+1405106,10/25/2014,FBS,Colorado State,Wyoming,RECEIVING,Treyous,Jarrells,YDS,33
+1405107,10/25/2014,FBS,Colorado State,Wyoming,RECEIVING,Treyous,Jarrells,TD,0
+1405108,10/25/2014,FBS,Colorado State,Wyoming,RECEIVING,Treyous,Jarrells,LONG,12
+1405109,10/25/2014,FBS,Colorado State,Wyoming,RECEIVING,Deionte,Gaines,REC,2
+1405110,10/25/2014,FBS,Colorado State,Wyoming,RECEIVING,Deionte,Gaines,YDS,21
+1405111,10/25/2014,FBS,Colorado State,Wyoming,RECEIVING,Deionte,Gaines,TD,0
+1405112,10/25/2014,FBS,Colorado State,Wyoming,RECEIVING,Deionte,Gaines,LONG,26
+1405113,10/25/2014,FBS,Colorado State,Wyoming,RECEIVING,Dee,Hart,REC,1
+1405114,10/25/2014,FBS,Colorado State,Wyoming,RECEIVING,Dee,Hart,YDS,21
+1405115,10/25/2014,FBS,Colorado State,Wyoming,RECEIVING,Dee,Hart,TD,1
+1405116,10/25/2014,FBS,Colorado State,Wyoming,RECEIVING,Dee,Hart,LONG,21
+1405117,10/25/2014,FBS,Colorado State,Wyoming,RECEIVING,Nolan,Peralta,REC,1
+1405118,10/25/2014,FBS,Colorado State,Wyoming,RECEIVING,Nolan,Peralta,YDS,16
+1405119,10/25/2014,FBS,Colorado State,Wyoming,RECEIVING,Nolan,Peralta,TD,0
+1405120,10/25/2014,FBS,Colorado State,Wyoming,RECEIVING,Nolan,Peralta,LONG,16
+1405121,10/25/2014,FBS,Colorado State,Wyoming,RECEIVING,Steven,Walker,REC,1
+1405122,10/25/2014,FBS,Colorado State,Wyoming,RECEIVING,Steven,Walker,YDS,10
+1405123,10/25/2014,FBS,Colorado State,Wyoming,RECEIVING,Steven,Walker,TD,0
+1405124,10/25/2014,FBS,Colorado State,Wyoming,RECEIVING,Steven,Walker,LONG,10
+1405125,10/25/2014,FBS,Colorado State,Wyoming,KICKING,Jared,Roberts,FG-FGA,1/2
+1405126,10/25/2014,FBS,Colorado State,Wyoming,KICKING,Jared,Roberts,LONG,20
+1405127,10/25/2014,FBS,Colorado State,Wyoming,KICKING,Jared,Roberts,XP,6
+1405128,10/25/2014,FBS,Colorado State,Wyoming,KICKING,Jared,Roberts,PTS,9
+1405129,10/25/2014,FBS,Colorado State,Wyoming,PUNTING,Hayden,Hunt,NO,1
+1405130,10/25/2014,FBS,Colorado State,Wyoming,PUNTING,Hayden,Hunt,YDS,41
+1405131,10/25/2014,FBS,Colorado State,Wyoming,PUNTING,Hayden,Hunt,AVG,41.0
+1405132,10/25/2014,FBS,Colorado State,Wyoming,PUNTING,Hayden,Hunt,LONG,41
+1405133,10/25/2014,FBS,Colorado State,Wyoming,PUNT RETURNS,Joe,Hansley,NO,1
+1405134,10/25/2014,FBS,Colorado State,Wyoming,PUNT RETURNS,Joe,Hansley,YDS,-1
+1405135,10/25/2014,FBS,Colorado State,Wyoming,PUNT RETURNS,Joe,Hansley,AVG,-
+1405136,10/25/2014,FBS,Colorado State,Wyoming,PUNT RETURNS,Joe,Hansley,LONG,0
+1405137,10/25/2014,FBS,Colorado State,Wyoming,KICK RETURNS,Deionte,Gaines,NO,3
+1405138,10/25/2014,FBS,Colorado State,Wyoming,KICK RETURNS,Deionte,Gaines,YDS,107
+1405139,10/25/2014,FBS,Colorado State,Wyoming,KICK RETURNS,Deionte,Gaines,AVG,35.7
+1405140,10/25/2014,FBS,Colorado State,Wyoming,KICK RETURNS,Deionte,Gaines,LONG,61
+1405141,10/25/2014,FBS,Colorado State,Wyoming,KICK RETURNS,Bryce,Peters,NO,1
+1405142,10/25/2014,FBS,Colorado State,Wyoming,KICK RETURNS,Bryce,Peters,YDS,10
+1405143,10/25/2014,FBS,Colorado State,Wyoming,KICK RETURNS,Bryce,Peters,AVG,10.0
+1405144,10/25/2014,FBS,Colorado State,Wyoming,KICK RETURNS,Bryce,Peters,LONG,10
+1405145,10/25/2014,FBS,Colorado State,Wyoming,KICK RETURNS,Dee,Hart,NO,1
+1405146,10/25/2014,FBS,Colorado State,Wyoming,KICK RETURNS,Dee,Hart,YDS,1
+1405147,10/25/2014,FBS,Colorado State,Wyoming,KICK RETURNS,Dee,Hart,AVG,1.0
+1405148,10/25/2014,FBS,Colorado State,Wyoming,KICK RETURNS,Dee,Hart,LONG,1

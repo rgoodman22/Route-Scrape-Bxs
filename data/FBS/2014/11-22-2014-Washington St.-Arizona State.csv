@@ -1,0 +1,153 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1623001,11/22/2014,FBS,Washington St.,Arizona State,RUSHING,Jamal,Morrow,ATT,10
+1623002,11/22/2014,FBS,Washington St.,Arizona State,RUSHING,Jamal,Morrow,YDS,37
+1623003,11/22/2014,FBS,Washington St.,Arizona State,RUSHING,Jamal,Morrow,TD,0
+1623004,11/22/2014,FBS,Washington St.,Arizona State,RUSHING,Jamal,Morrow,LONG,13
+1623005,11/22/2014,FBS,Washington St.,Arizona State,RUSHING,Marcus,Mason,ATT,1
+1623006,11/22/2014,FBS,Washington St.,Arizona State,RUSHING,Marcus,Mason,YDS,5
+1623007,11/22/2014,FBS,Washington St.,Arizona State,RUSHING,Marcus,Mason,TD,0
+1623008,11/22/2014,FBS,Washington St.,Arizona State,RUSHING,Marcus,Mason,LONG,5
+1623009,11/22/2014,FBS,Washington St.,Arizona State,RUSHING,Jordan,Dascalo,ATT,1
+1623010,11/22/2014,FBS,Washington St.,Arizona State,RUSHING,Jordan,Dascalo,YDS,3
+1623011,11/22/2014,FBS,Washington St.,Arizona State,RUSHING,Jordan,Dascalo,TD,0
+1623012,11/22/2014,FBS,Washington St.,Arizona State,RUSHING,Jordan,Dascalo,LONG,3
+1623013,11/22/2014,FBS,Washington St.,Arizona State,RUSHING,Theron,West,ATT,2
+1623014,11/22/2014,FBS,Washington St.,Arizona State,RUSHING,Theron,West,YDS,1
+1623015,11/22/2014,FBS,Washington St.,Arizona State,RUSHING,Theron,West,TD,0
+1623016,11/22/2014,FBS,Washington St.,Arizona State,RUSHING,Theron,West,LONG,1
+1623017,11/22/2014,FBS,Washington St.,Arizona State,RUSHING,Luke,Falk,ATT,10
+1623018,11/22/2014,FBS,Washington St.,Arizona State,RUSHING,Luke,Falk,YDS,-25
+1623019,11/22/2014,FBS,Washington St.,Arizona State,RUSHING,Luke,Falk,TD,1
+1623020,11/22/2014,FBS,Washington St.,Arizona State,RUSHING,Luke,Falk,LONG,3
+1623021,11/22/2014,FBS,Washington St.,Arizona State,PASSING,Luke,Falk,CP-ATT-INT,45-74-4
+1623022,11/22/2014,FBS,Washington St.,Arizona State,PASSING,Luke,Falk,YDS,601
+1623023,11/22/2014,FBS,Washington St.,Arizona State,PASSING,Luke,Falk,TD,3
+1623024,11/22/2014,FBS,Washington St.,Arizona State,PASSING,Luke,Falk,LONG,50
+1623025,11/22/2014,FBS,Washington St.,Arizona State,PASSING,,Team,CP-ATT-INT,0-2-0
+1623026,11/22/2014,FBS,Washington St.,Arizona State,PASSING,,Team,YDS,0
+1623027,11/22/2014,FBS,Washington St.,Arizona State,PASSING,,Team,TD,0
+1623028,11/22/2014,FBS,Washington St.,Arizona State,PASSING,,Team,LONG,0
+1623029,11/22/2014,FBS,Washington St.,Arizona State,RECEIVING,Vince,Mayle,REC,15
+1623030,11/22/2014,FBS,Washington St.,Arizona State,RECEIVING,Vince,Mayle,YDS,252
+1623031,11/22/2014,FBS,Washington St.,Arizona State,RECEIVING,Vince,Mayle,TD,0
+1623032,11/22/2014,FBS,Washington St.,Arizona State,RECEIVING,Vince,Mayle,LONG,45
+1623033,11/22/2014,FBS,Washington St.,Arizona State,RECEIVING,Isiah,Myers,REC,7
+1623034,11/22/2014,FBS,Washington St.,Arizona State,RECEIVING,Isiah,Myers,YDS,111
+1623035,11/22/2014,FBS,Washington St.,Arizona State,RECEIVING,Isiah,Myers,TD,1
+1623036,11/22/2014,FBS,Washington St.,Arizona State,RECEIVING,Isiah,Myers,LONG,50
+1623037,11/22/2014,FBS,Washington St.,Arizona State,RECEIVING,Jamal,Morrow,REC,4
+1623038,11/22/2014,FBS,Washington St.,Arizona State,RECEIVING,Jamal,Morrow,YDS,58
+1623039,11/22/2014,FBS,Washington St.,Arizona State,RECEIVING,Jamal,Morrow,TD,0
+1623040,11/22/2014,FBS,Washington St.,Arizona State,RECEIVING,Jamal,Morrow,LONG,25
+1623041,11/22/2014,FBS,Washington St.,Arizona State,RECEIVING,Rickey,Galvin,REC,4
+1623042,11/22/2014,FBS,Washington St.,Arizona State,RECEIVING,Rickey,Galvin,YDS,43
+1623043,11/22/2014,FBS,Washington St.,Arizona State,RECEIVING,Rickey,Galvin,TD,1
+1623044,11/22/2014,FBS,Washington St.,Arizona State,RECEIVING,Rickey,Galvin,LONG,19
+1623045,11/22/2014,FBS,Washington St.,Arizona State,RECEIVING,Tyler,Baker,REC,4
+1623046,11/22/2014,FBS,Washington St.,Arizona State,RECEIVING,Tyler,Baker,YDS,41
+1623047,11/22/2014,FBS,Washington St.,Arizona State,RECEIVING,Tyler,Baker,TD,0
+1623048,11/22/2014,FBS,Washington St.,Arizona State,RECEIVING,Tyler,Baker,LONG,18
+1623049,11/22/2014,FBS,Washington St.,Arizona State,RECEIVING,Dom,Williams,REC,5
+1623050,11/22/2014,FBS,Washington St.,Arizona State,RECEIVING,Dom,Williams,YDS,36
+1623051,11/22/2014,FBS,Washington St.,Arizona State,RECEIVING,Dom,Williams,TD,1
+1623052,11/22/2014,FBS,Washington St.,Arizona State,RECEIVING,Dom,Williams,LONG,12
+1623053,11/22/2014,FBS,Washington St.,Arizona State,RECEIVING,River,Cracraft,REC,4
+1623054,11/22/2014,FBS,Washington St.,Arizona State,RECEIVING,River,Cracraft,YDS,33
+1623055,11/22/2014,FBS,Washington St.,Arizona State,RECEIVING,River,Cracraft,TD,0
+1623056,11/22/2014,FBS,Washington St.,Arizona State,RECEIVING,River,Cracraft,LONG,14
+1623057,11/22/2014,FBS,Washington St.,Arizona State,RECEIVING,Robert,Lewis,REC,1
+1623058,11/22/2014,FBS,Washington St.,Arizona State,RECEIVING,Robert,Lewis,YDS,25
+1623059,11/22/2014,FBS,Washington St.,Arizona State,RECEIVING,Robert,Lewis,TD,0
+1623060,11/22/2014,FBS,Washington St.,Arizona State,RECEIVING,Robert,Lewis,LONG,25
+1623061,11/22/2014,FBS,Washington St.,Arizona State,RECEIVING,Theron,West,REC,1
+1623062,11/22/2014,FBS,Washington St.,Arizona State,RECEIVING,Theron,West,YDS,2
+1623063,11/22/2014,FBS,Washington St.,Arizona State,RECEIVING,Theron,West,TD,0
+1623064,11/22/2014,FBS,Washington St.,Arizona State,RECEIVING,Theron,West,LONG,2
+1623065,11/22/2014,FBS,Washington St.,Arizona State,KICKING,Quentin,Breshears,FG-FGA,1/1
+1623066,11/22/2014,FBS,Washington St.,Arizona State,KICKING,Quentin,Breshears,LONG,27
+1623067,11/22/2014,FBS,Washington St.,Arizona State,KICKING,Quentin,Breshears,XP,4
+1623068,11/22/2014,FBS,Washington St.,Arizona State,KICKING,Quentin,Breshears,PTS,7
+1623069,11/22/2014,FBS,Washington St.,Arizona State,PUNTING,Jordan,Dascalo,NO,4
+1623070,11/22/2014,FBS,Washington St.,Arizona State,PUNTING,Jordan,Dascalo,YDS,150
+1623071,11/22/2014,FBS,Washington St.,Arizona State,PUNTING,Jordan,Dascalo,AVG,37.5
+1623072,11/22/2014,FBS,Washington St.,Arizona State,PUNTING,Jordan,Dascalo,LONG,43
+1623073,11/22/2014,FBS,Washington St.,Arizona State,PUNT RETURNS,Rickey,Galvin,NO,1
+1623074,11/22/2014,FBS,Washington St.,Arizona State,PUNT RETURNS,Rickey,Galvin,YDS,-3
+1623075,11/22/2014,FBS,Washington St.,Arizona State,PUNT RETURNS,Rickey,Galvin,AVG,-
+1623076,11/22/2014,FBS,Washington St.,Arizona State,PUNT RETURNS,Rickey,Galvin,LONG,-3
+1623077,11/22/2014,FBS,Washington St.,Arizona State,KICK RETURNS,Jamal,Morrow,NO,3
+1623078,11/22/2014,FBS,Washington St.,Arizona State,KICK RETURNS,Jamal,Morrow,YDS,46
+1623079,11/22/2014,FBS,Washington St.,Arizona State,KICK RETURNS,Jamal,Morrow,AVG,15.3
+1623080,11/22/2014,FBS,Washington St.,Arizona State,KICK RETURNS,Jamal,Morrow,LONG,18
+1623081,11/22/2014,FBS,Arizona State,Washington St.,RUSHING,D.J.,Foster,ATT,15
+1623082,11/22/2014,FBS,Arizona State,Washington St.,RUSHING,D.J.,Foster,YDS,96
+1623083,11/22/2014,FBS,Arizona State,Washington St.,RUSHING,D.J.,Foster,TD,3
+1623084,11/22/2014,FBS,Arizona State,Washington St.,RUSHING,D.J.,Foster,LONG,18
+1623085,11/22/2014,FBS,Arizona State,Washington St.,RUSHING,Deantre,Lewis,ATT,8
+1623086,11/22/2014,FBS,Arizona State,Washington St.,RUSHING,Deantre,Lewis,YDS,24
+1623087,11/22/2014,FBS,Arizona State,Washington St.,RUSHING,Deantre,Lewis,TD,0
+1623088,11/22/2014,FBS,Arizona State,Washington St.,RUSHING,Deantre,Lewis,LONG,7
+1623089,11/22/2014,FBS,Arizona State,Washington St.,RUSHING,Frederick,Gammage,ATT,1
+1623090,11/22/2014,FBS,Arizona State,Washington St.,RUSHING,Frederick,Gammage,YDS,5
+1623091,11/22/2014,FBS,Arizona State,Washington St.,RUSHING,Frederick,Gammage,TD,0
+1623092,11/22/2014,FBS,Arizona State,Washington St.,RUSHING,Frederick,Gammage,LONG,5
+1623093,11/22/2014,FBS,Arizona State,Washington St.,RUSHING,Demario,Richard,ATT,2
+1623094,11/22/2014,FBS,Arizona State,Washington St.,RUSHING,Demario,Richard,YDS,2
+1623095,11/22/2014,FBS,Arizona State,Washington St.,RUSHING,Demario,Richard,TD,0
+1623096,11/22/2014,FBS,Arizona State,Washington St.,RUSHING,Demario,Richard,LONG,2
+1623097,11/22/2014,FBS,Arizona State,Washington St.,RUSHING,Kalen,Ballage,ATT,1
+1623098,11/22/2014,FBS,Arizona State,Washington St.,RUSHING,Kalen,Ballage,YDS,0
+1623099,11/22/2014,FBS,Arizona State,Washington St.,RUSHING,Kalen,Ballage,TD,0
+1623100,11/22/2014,FBS,Arizona State,Washington St.,RUSHING,Kalen,Ballage,LONG,0
+1623101,11/22/2014,FBS,Arizona State,Washington St.,RUSHING,Taylor,Kelly,ATT,9
+1623102,11/22/2014,FBS,Arizona State,Washington St.,RUSHING,Taylor,Kelly,YDS,-29
+1623103,11/22/2014,FBS,Arizona State,Washington St.,RUSHING,Taylor,Kelly,TD,0
+1623104,11/22/2014,FBS,Arizona State,Washington St.,RUSHING,Taylor,Kelly,LONG,4
+1623105,11/22/2014,FBS,Arizona State,Washington St.,PASSING,Taylor,Kelly,CP-ATT-INT,15-25-0
+1623106,11/22/2014,FBS,Arizona State,Washington St.,PASSING,Taylor,Kelly,YDS,232
+1623107,11/22/2014,FBS,Arizona State,Washington St.,PASSING,Taylor,Kelly,TD,4
+1623108,11/22/2014,FBS,Arizona State,Washington St.,PASSING,Taylor,Kelly,LONG,67
+1623109,11/22/2014,FBS,Arizona State,Washington St.,RECEIVING,Cameron,Smith,REC,6
+1623110,11/22/2014,FBS,Arizona State,Washington St.,RECEIVING,Cameron,Smith,YDS,131
+1623111,11/22/2014,FBS,Arizona State,Washington St.,RECEIVING,Cameron,Smith,TD,2
+1623112,11/22/2014,FBS,Arizona State,Washington St.,RECEIVING,Cameron,Smith,LONG,67
+1623113,11/22/2014,FBS,Arizona State,Washington St.,RECEIVING,D.J.,Foster,REC,5
+1623114,11/22/2014,FBS,Arizona State,Washington St.,RECEIVING,D.J.,Foster,YDS,59
+1623115,11/22/2014,FBS,Arizona State,Washington St.,RECEIVING,D.J.,Foster,TD,0
+1623116,11/22/2014,FBS,Arizona State,Washington St.,RECEIVING,D.J.,Foster,LONG,42
+1623117,11/22/2014,FBS,Arizona State,Washington St.,RECEIVING,Deantre,Lewis,REC,1
+1623118,11/22/2014,FBS,Arizona State,Washington St.,RECEIVING,Deantre,Lewis,YDS,20
+1623119,11/22/2014,FBS,Arizona State,Washington St.,RECEIVING,Deantre,Lewis,TD,0
+1623120,11/22/2014,FBS,Arizona State,Washington St.,RECEIVING,Deantre,Lewis,LONG,20
+1623121,11/22/2014,FBS,Arizona State,Washington St.,RECEIVING,Frederick,Gammage,REC,1
+1623122,11/22/2014,FBS,Arizona State,Washington St.,RECEIVING,Frederick,Gammage,YDS,10
+1623123,11/22/2014,FBS,Arizona State,Washington St.,RECEIVING,Frederick,Gammage,TD,1
+1623124,11/22/2014,FBS,Arizona State,Washington St.,RECEIVING,Frederick,Gammage,LONG,10
+1623125,11/22/2014,FBS,Arizona State,Washington St.,RECEIVING,De'Marieya,Nelson,REC,1
+1623126,11/22/2014,FBS,Arizona State,Washington St.,RECEIVING,De'Marieya,Nelson,YDS,6
+1623127,11/22/2014,FBS,Arizona State,Washington St.,RECEIVING,De'Marieya,Nelson,TD,0
+1623128,11/22/2014,FBS,Arizona State,Washington St.,RECEIVING,De'Marieya,Nelson,LONG,6
+1623129,11/22/2014,FBS,Arizona State,Washington St.,RECEIVING,Kody,Kohl,REC,1
+1623130,11/22/2014,FBS,Arizona State,Washington St.,RECEIVING,Kody,Kohl,YDS,6
+1623131,11/22/2014,FBS,Arizona State,Washington St.,RECEIVING,Kody,Kohl,TD,1
+1623132,11/22/2014,FBS,Arizona State,Washington St.,RECEIVING,Kody,Kohl,LONG,6
+1623133,11/22/2014,FBS,Arizona State,Washington St.,KICKING,Zane,Gonzalez,FG-FGA,1/1
+1623134,11/22/2014,FBS,Arizona State,Washington St.,KICKING,Zane,Gonzalez,LONG,47
+1623135,11/22/2014,FBS,Arizona State,Washington St.,KICKING,Zane,Gonzalez,XP,7
+1623136,11/22/2014,FBS,Arizona State,Washington St.,KICKING,Zane,Gonzalez,PTS,10
+1623137,11/22/2014,FBS,Arizona State,Washington St.,PUNTING,Matt,Haack,NO,6
+1623138,11/22/2014,FBS,Arizona State,Washington St.,PUNTING,Matt,Haack,YDS,321
+1623139,11/22/2014,FBS,Arizona State,Washington St.,PUNTING,Matt,Haack,AVG,53.5
+1623140,11/22/2014,FBS,Arizona State,Washington St.,PUNTING,Matt,Haack,LONG,65
+1623141,11/22/2014,FBS,Arizona State,Washington St.,PUNTING,Taylor,Kelly,NO,1
+1623142,11/22/2014,FBS,Arizona State,Washington St.,PUNTING,Taylor,Kelly,YDS,49
+1623143,11/22/2014,FBS,Arizona State,Washington St.,PUNTING,Taylor,Kelly,AVG,49.0
+1623144,11/22/2014,FBS,Arizona State,Washington St.,PUNTING,Taylor,Kelly,LONG,49
+1623145,11/22/2014,FBS,Arizona State,Washington St.,PUNT RETURNS,Kyle,Middlebrooks,NO,1
+1623146,11/22/2014,FBS,Arizona State,Washington St.,PUNT RETURNS,Kyle,Middlebrooks,YDS,0
+1623147,11/22/2014,FBS,Arizona State,Washington St.,PUNT RETURNS,Kyle,Middlebrooks,AVG,-
+1623148,11/22/2014,FBS,Arizona State,Washington St.,PUNT RETURNS,Kyle,Middlebrooks,LONG,0
+1623149,11/22/2014,FBS,Arizona State,Washington St.,KICK RETURNS,Kyle,Middlebrooks,NO,4
+1623150,11/22/2014,FBS,Arizona State,Washington St.,KICK RETURNS,Kyle,Middlebrooks,YDS,86
+1623151,11/22/2014,FBS,Arizona State,Washington St.,KICK RETURNS,Kyle,Middlebrooks,AVG,21.5
+1623152,11/22/2014,FBS,Arizona State,Washington St.,KICK RETURNS,Kyle,Middlebrooks,LONG,28

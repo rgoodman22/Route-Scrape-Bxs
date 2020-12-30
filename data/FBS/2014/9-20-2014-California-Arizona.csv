@@ -1,0 +1,153 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1117001,9/20/2014,FBS,California,Arizona,RUSHING,Daniel,Lasco,ATT,20
+1117002,9/20/2014,FBS,California,Arizona,RUSHING,Daniel,Lasco,YDS,123
+1117003,9/20/2014,FBS,California,Arizona,RUSHING,Daniel,Lasco,TD,1
+1117004,9/20/2014,FBS,California,Arizona,RUSHING,Daniel,Lasco,LONG,44
+1117005,9/20/2014,FBS,California,Arizona,RUSHING,Khalfani,Muhammad,ATT,11
+1117006,9/20/2014,FBS,California,Arizona,RUSHING,Khalfani,Muhammad,YDS,95
+1117007,9/20/2014,FBS,California,Arizona,RUSHING,Khalfani,Muhammad,TD,2
+1117008,9/20/2014,FBS,California,Arizona,RUSHING,Khalfani,Muhammad,LONG,50
+1117009,9/20/2014,FBS,California,Arizona,RUSHING,Luke,Rubenzer,ATT,6
+1117010,9/20/2014,FBS,California,Arizona,RUSHING,Luke,Rubenzer,YDS,8
+1117011,9/20/2014,FBS,California,Arizona,RUSHING,Luke,Rubenzer,TD,0
+1117012,9/20/2014,FBS,California,Arizona,RUSHING,Luke,Rubenzer,LONG,5
+1117013,9/20/2014,FBS,California,Arizona,RUSHING,,Team,ATT,1
+1117014,9/20/2014,FBS,California,Arizona,RUSHING,,Team,YDS,-5
+1117015,9/20/2014,FBS,California,Arizona,RUSHING,,Team,TD,0
+1117016,9/20/2014,FBS,California,Arizona,RUSHING,,Team,LONG,-5
+1117017,9/20/2014,FBS,California,Arizona,RUSHING,Jared,Goff,ATT,4
+1117018,9/20/2014,FBS,California,Arizona,RUSHING,Jared,Goff,YDS,-28
+1117019,9/20/2014,FBS,California,Arizona,RUSHING,Jared,Goff,TD,0
+1117020,9/20/2014,FBS,California,Arizona,RUSHING,Jared,Goff,LONG,-4
+1117021,9/20/2014,FBS,California,Arizona,PASSING,Jared,Goff,CP-ATT-INT,18-30-1
+1117022,9/20/2014,FBS,California,Arizona,PASSING,Jared,Goff,YDS,380
+1117023,9/20/2014,FBS,California,Arizona,PASSING,Jared,Goff,TD,3
+1117024,9/20/2014,FBS,California,Arizona,PASSING,Jared,Goff,LONG,80
+1117025,9/20/2014,FBS,California,Arizona,RECEIVING,Bryce,Treggs,REC,5
+1117026,9/20/2014,FBS,California,Arizona,RECEIVING,Bryce,Treggs,YDS,119
+1117027,9/20/2014,FBS,California,Arizona,RECEIVING,Bryce,Treggs,TD,1
+1117028,9/20/2014,FBS,California,Arizona,RECEIVING,Bryce,Treggs,LONG,80
+1117029,9/20/2014,FBS,California,Arizona,RECEIVING,Chris,Harper,REC,2
+1117030,9/20/2014,FBS,California,Arizona,RECEIVING,Chris,Harper,YDS,71
+1117031,9/20/2014,FBS,California,Arizona,RECEIVING,Chris,Harper,TD,1
+1117032,9/20/2014,FBS,California,Arizona,RECEIVING,Chris,Harper,LONG,41
+1117033,9/20/2014,FBS,California,Arizona,RECEIVING,Raymond,Hudson,REC,2
+1117034,9/20/2014,FBS,California,Arizona,RECEIVING,Raymond,Hudson,YDS,57
+1117035,9/20/2014,FBS,California,Arizona,RECEIVING,Raymond,Hudson,TD,0
+1117036,9/20/2014,FBS,California,Arizona,RECEIVING,Raymond,Hudson,LONG,38
+1117037,9/20/2014,FBS,California,Arizona,RECEIVING,Stephen,Anderson,REC,2
+1117038,9/20/2014,FBS,California,Arizona,RECEIVING,Stephen,Anderson,YDS,43
+1117039,9/20/2014,FBS,California,Arizona,RECEIVING,Stephen,Anderson,TD,1
+1117040,9/20/2014,FBS,California,Arizona,RECEIVING,Stephen,Anderson,LONG,26
+1117041,9/20/2014,FBS,California,Arizona,RECEIVING,Darius,Powe,REC,2
+1117042,9/20/2014,FBS,California,Arizona,RECEIVING,Darius,Powe,YDS,32
+1117043,9/20/2014,FBS,California,Arizona,RECEIVING,Darius,Powe,TD,0
+1117044,9/20/2014,FBS,California,Arizona,RECEIVING,Darius,Powe,LONG,24
+1117045,9/20/2014,FBS,California,Arizona,RECEIVING,Kenny,Lawler,REC,2
+1117046,9/20/2014,FBS,California,Arizona,RECEIVING,Kenny,Lawler,YDS,29
+1117047,9/20/2014,FBS,California,Arizona,RECEIVING,Kenny,Lawler,TD,0
+1117048,9/20/2014,FBS,California,Arizona,RECEIVING,Kenny,Lawler,LONG,17
+1117049,9/20/2014,FBS,California,Arizona,RECEIVING,Trevor,Davis,REC,2
+1117050,9/20/2014,FBS,California,Arizona,RECEIVING,Trevor,Davis,YDS,20
+1117051,9/20/2014,FBS,California,Arizona,RECEIVING,Trevor,Davis,TD,0
+1117052,9/20/2014,FBS,California,Arizona,RECEIVING,Trevor,Davis,LONG,11
+1117053,9/20/2014,FBS,California,Arizona,RECEIVING,Khalfani,Muhammad,REC,1
+1117054,9/20/2014,FBS,California,Arizona,RECEIVING,Khalfani,Muhammad,YDS,9
+1117055,9/20/2014,FBS,California,Arizona,RECEIVING,Khalfani,Muhammad,TD,0
+1117056,9/20/2014,FBS,California,Arizona,RECEIVING,Khalfani,Muhammad,LONG,9
+1117057,9/20/2014,FBS,California,Arizona,KICKING,James,Langford,FG-FGA,1/2
+1117058,9/20/2014,FBS,California,Arizona,KICKING,James,Langford,LONG,45
+1117059,9/20/2014,FBS,California,Arizona,KICKING,James,Langford,XP,6
+1117060,9/20/2014,FBS,California,Arizona,KICKING,James,Langford,PTS,9
+1117061,9/20/2014,FBS,California,Arizona,PUNTING,Cole,Leininger,NO,5
+1117062,9/20/2014,FBS,California,Arizona,PUNTING,Cole,Leininger,YDS,211
+1117063,9/20/2014,FBS,California,Arizona,PUNTING,Cole,Leininger,AVG,42.2
+1117064,9/20/2014,FBS,California,Arizona,PUNTING,Cole,Leininger,LONG,53
+1117065,9/20/2014,FBS,California,Arizona,PUNT RETURNS,Trevor,Davis,NO,2
+1117066,9/20/2014,FBS,California,Arizona,PUNT RETURNS,Trevor,Davis,YDS,18
+1117067,9/20/2014,FBS,California,Arizona,PUNT RETURNS,Trevor,Davis,AVG,9.0
+1117068,9/20/2014,FBS,California,Arizona,PUNT RETURNS,Trevor,Davis,LONG,24
+1117069,9/20/2014,FBS,California,Arizona,PUNT RETURNS,Chris,Harper,NO,2
+1117070,9/20/2014,FBS,California,Arizona,PUNT RETURNS,Chris,Harper,YDS,4
+1117071,9/20/2014,FBS,California,Arizona,PUNT RETURNS,Chris,Harper,AVG,2.0
+1117072,9/20/2014,FBS,California,Arizona,PUNT RETURNS,Chris,Harper,LONG,7
+1117073,9/20/2014,FBS,California,Arizona,KICK RETURNS,Erik,Brown,NO,1
+1117074,9/20/2014,FBS,California,Arizona,KICK RETURNS,Erik,Brown,YDS,0
+1117075,9/20/2014,FBS,California,Arizona,KICK RETURNS,Erik,Brown,AVG,-
+1117076,9/20/2014,FBS,California,Arizona,KICK RETURNS,Erik,Brown,LONG,0
+1117077,9/20/2014,FBS,Arizona,California,RUSHING,Anu,Solomon,ATT,16
+1117078,9/20/2014,FBS,Arizona,California,RUSHING,Anu,Solomon,YDS,46
+1117079,9/20/2014,FBS,Arizona,California,RUSHING,Anu,Solomon,TD,0
+1117080,9/20/2014,FBS,Arizona,California,RUSHING,Anu,Solomon,LONG,14
+1117081,9/20/2014,FBS,Arizona,California,RUSHING,Nick,Wilson,ATT,11
+1117082,9/20/2014,FBS,Arizona,California,RUSHING,Nick,Wilson,YDS,33
+1117083,9/20/2014,FBS,Arizona,California,RUSHING,Nick,Wilson,TD,0
+1117084,9/20/2014,FBS,Arizona,California,RUSHING,Nick,Wilson,LONG,11
+1117085,9/20/2014,FBS,Arizona,California,RUSHING,Terris,Jones-Grigsby,ATT,5
+1117086,9/20/2014,FBS,Arizona,California,RUSHING,Terris,Jones-Grigsby,YDS,28
+1117087,9/20/2014,FBS,Arizona,California,RUSHING,Terris,Jones-Grigsby,TD,1
+1117088,9/20/2014,FBS,Arizona,California,RUSHING,Terris,Jones-Grigsby,LONG,9
+1117089,9/20/2014,FBS,Arizona,California,PASSING,Anu,Solomon,CP-ATT-INT,47-73-2
+1117090,9/20/2014,FBS,Arizona,California,PASSING,Anu,Solomon,YDS,520
+1117091,9/20/2014,FBS,Arizona,California,PASSING,Anu,Solomon,TD,5
+1117092,9/20/2014,FBS,Arizona,California,PASSING,Anu,Solomon,LONG,47
+1117093,9/20/2014,FBS,Arizona,California,PASSING,,Team,CP-ATT-INT,0-1-0
+1117094,9/20/2014,FBS,Arizona,California,PASSING,,Team,YDS,0
+1117095,9/20/2014,FBS,Arizona,California,PASSING,,Team,TD,0
+1117096,9/20/2014,FBS,Arizona,California,PASSING,,Team,LONG,0
+1117097,9/20/2014,FBS,Arizona,California,RECEIVING,Cayleb,Jones,REC,13
+1117098,9/20/2014,FBS,Arizona,California,RECEIVING,Cayleb,Jones,YDS,186
+1117099,9/20/2014,FBS,Arizona,California,RECEIVING,Cayleb,Jones,TD,3
+1117100,9/20/2014,FBS,Arizona,California,RECEIVING,Cayleb,Jones,LONG,41
+1117101,9/20/2014,FBS,Arizona,California,RECEIVING,Austin,Hill,REC,8
+1117102,9/20/2014,FBS,Arizona,California,RECEIVING,Austin,Hill,YDS,127
+1117103,9/20/2014,FBS,Arizona,California,RECEIVING,Austin,Hill,TD,2
+1117104,9/20/2014,FBS,Arizona,California,RECEIVING,Austin,Hill,LONG,47
+1117105,9/20/2014,FBS,Arizona,California,RECEIVING,Nate,Phillips,REC,8
+1117106,9/20/2014,FBS,Arizona,California,RECEIVING,Nate,Phillips,YDS,80
+1117107,9/20/2014,FBS,Arizona,California,RECEIVING,Nate,Phillips,TD,0
+1117108,9/20/2014,FBS,Arizona,California,RECEIVING,Nate,Phillips,LONG,16
+1117109,9/20/2014,FBS,Arizona,California,RECEIVING,Trey,Griffey,REC,5
+1117110,9/20/2014,FBS,Arizona,California,RECEIVING,Trey,Griffey,YDS,47
+1117111,9/20/2014,FBS,Arizona,California,RECEIVING,Trey,Griffey,TD,0
+1117112,9/20/2014,FBS,Arizona,California,RECEIVING,Trey,Griffey,LONG,12
+1117113,9/20/2014,FBS,Arizona,California,RECEIVING,DaVonte',Neal,REC,5
+1117114,9/20/2014,FBS,Arizona,California,RECEIVING,DaVonte',Neal,YDS,41
+1117115,9/20/2014,FBS,Arizona,California,RECEIVING,DaVonte',Neal,TD,0
+1117116,9/20/2014,FBS,Arizona,California,RECEIVING,DaVonte',Neal,LONG,23
+1117117,9/20/2014,FBS,Arizona,California,RECEIVING,David,Richards,REC,1
+1117118,9/20/2014,FBS,Arizona,California,RECEIVING,David,Richards,YDS,15
+1117119,9/20/2014,FBS,Arizona,California,RECEIVING,David,Richards,TD,0
+1117120,9/20/2014,FBS,Arizona,California,RECEIVING,David,Richards,LONG,15
+1117121,9/20/2014,FBS,Arizona,California,RECEIVING,Nick,Wilson,REC,4
+1117122,9/20/2014,FBS,Arizona,California,RECEIVING,Nick,Wilson,YDS,12
+1117123,9/20/2014,FBS,Arizona,California,RECEIVING,Nick,Wilson,TD,0
+1117124,9/20/2014,FBS,Arizona,California,RECEIVING,Nick,Wilson,LONG,7
+1117125,9/20/2014,FBS,Arizona,California,RECEIVING,Terris,Jones-Grigsby,REC,2
+1117126,9/20/2014,FBS,Arizona,California,RECEIVING,Terris,Jones-Grigsby,YDS,8
+1117127,9/20/2014,FBS,Arizona,California,RECEIVING,Terris,Jones-Grigsby,TD,0
+1117128,9/20/2014,FBS,Arizona,California,RECEIVING,Terris,Jones-Grigsby,LONG,5
+1117129,9/20/2014,FBS,Arizona,California,RECEIVING,Tyrell,Johnson,REC,1
+1117130,9/20/2014,FBS,Arizona,California,RECEIVING,Tyrell,Johnson,YDS,4
+1117131,9/20/2014,FBS,Arizona,California,RECEIVING,Tyrell,Johnson,TD,0
+1117132,9/20/2014,FBS,Arizona,California,RECEIVING,Tyrell,Johnson,LONG,4
+1117133,9/20/2014,FBS,Arizona,California,KICKING,Casey,Skowron,FG-FGA,3/4
+1117134,9/20/2014,FBS,Arizona,California,KICKING,Casey,Skowron,LONG,39
+1117135,9/20/2014,FBS,Arizona,California,KICKING,Casey,Skowron,XP,4
+1117136,9/20/2014,FBS,Arizona,California,KICKING,Casey,Skowron,PTS,13
+1117137,9/20/2014,FBS,Arizona,California,PUNTING,Drew,Riggleman,NO,6
+1117138,9/20/2014,FBS,Arizona,California,PUNTING,Drew,Riggleman,YDS,300
+1117139,9/20/2014,FBS,Arizona,California,PUNTING,Drew,Riggleman,AVG,50.0
+1117140,9/20/2014,FBS,Arizona,California,PUNTING,Drew,Riggleman,LONG,59
+1117141,9/20/2014,FBS,Arizona,California,PUNT RETURNS,Nate,Phillips,NO,0
+1117142,9/20/2014,FBS,Arizona,California,PUNT RETURNS,Nate,Phillips,YDS,0
+1117143,9/20/2014,FBS,Arizona,California,PUNT RETURNS,Nate,Phillips,AVG,-
+1117144,9/20/2014,FBS,Arizona,California,PUNT RETURNS,Nate,Phillips,LONG,0
+1117145,9/20/2014,FBS,Arizona,California,PUNT RETURNS,DaVonte',Neal,NO,1
+1117146,9/20/2014,FBS,Arizona,California,PUNT RETURNS,DaVonte',Neal,YDS,-3
+1117147,9/20/2014,FBS,Arizona,California,PUNT RETURNS,DaVonte',Neal,AVG,-
+1117148,9/20/2014,FBS,Arizona,California,PUNT RETURNS,DaVonte',Neal,LONG,0
+1117149,9/20/2014,FBS,Arizona,California,KICK RETURNS,Tra'Mayne,Bondurant,NO,1
+1117150,9/20/2014,FBS,Arizona,California,KICK RETURNS,Tra'Mayne,Bondurant,YDS,0
+1117151,9/20/2014,FBS,Arizona,California,KICK RETURNS,Tra'Mayne,Bondurant,AVG,-
+1117152,9/20/2014,FBS,Arizona,California,KICK RETURNS,Tra'Mayne,Bondurant,LONG,0

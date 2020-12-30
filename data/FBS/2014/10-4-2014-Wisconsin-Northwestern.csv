@@ -1,0 +1,145 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1261001,10/4/2014,FBS,Wisconsin,Northwestern,RUSHING,Melvin,Gordon,ATT,27
+1261002,10/4/2014,FBS,Wisconsin,Northwestern,RUSHING,Melvin,Gordon,YDS,259
+1261003,10/4/2014,FBS,Wisconsin,Northwestern,RUSHING,Melvin,Gordon,TD,1
+1261004,10/4/2014,FBS,Wisconsin,Northwestern,RUSHING,Melvin,Gordon,LONG,61
+1261005,10/4/2014,FBS,Wisconsin,Northwestern,RUSHING,Corey,Clement,ATT,6
+1261006,10/4/2014,FBS,Wisconsin,Northwestern,RUSHING,Corey,Clement,YDS,22
+1261007,10/4/2014,FBS,Wisconsin,Northwestern,RUSHING,Corey,Clement,TD,0
+1261008,10/4/2014,FBS,Wisconsin,Northwestern,RUSHING,Corey,Clement,LONG,13
+1261009,10/4/2014,FBS,Wisconsin,Northwestern,RUSHING,Tanner,McEvoy,ATT,1
+1261010,10/4/2014,FBS,Wisconsin,Northwestern,RUSHING,Tanner,McEvoy,YDS,8
+1261011,10/4/2014,FBS,Wisconsin,Northwestern,RUSHING,Tanner,McEvoy,TD,0
+1261012,10/4/2014,FBS,Wisconsin,Northwestern,RUSHING,Tanner,McEvoy,LONG,8
+1261013,10/4/2014,FBS,Wisconsin,Northwestern,RUSHING,Kenzel,Doe,ATT,2
+1261014,10/4/2014,FBS,Wisconsin,Northwestern,RUSHING,Kenzel,Doe,YDS,1
+1261015,10/4/2014,FBS,Wisconsin,Northwestern,RUSHING,Kenzel,Doe,TD,0
+1261016,10/4/2014,FBS,Wisconsin,Northwestern,RUSHING,Kenzel,Doe,LONG,1
+1261017,10/4/2014,FBS,Wisconsin,Northwestern,RUSHING,Joel,Stave,ATT,1
+1261018,10/4/2014,FBS,Wisconsin,Northwestern,RUSHING,Joel,Stave,YDS,-6
+1261019,10/4/2014,FBS,Wisconsin,Northwestern,RUSHING,Joel,Stave,TD,0
+1261020,10/4/2014,FBS,Wisconsin,Northwestern,RUSHING,Joel,Stave,LONG,-6
+1261021,10/4/2014,FBS,Wisconsin,Northwestern,PASSING,Joel,Stave,CP-ATT-INT,8-19-3
+1261022,10/4/2014,FBS,Wisconsin,Northwestern,PASSING,Joel,Stave,YDS,114
+1261023,10/4/2014,FBS,Wisconsin,Northwestern,PASSING,Joel,Stave,TD,1
+1261024,10/4/2014,FBS,Wisconsin,Northwestern,PASSING,Joel,Stave,LONG,24
+1261025,10/4/2014,FBS,Wisconsin,Northwestern,PASSING,Tanner,McEvoy,CP-ATT-INT,4-10-1
+1261026,10/4/2014,FBS,Wisconsin,Northwestern,PASSING,Tanner,McEvoy,YDS,24
+1261027,10/4/2014,FBS,Wisconsin,Northwestern,PASSING,Tanner,McEvoy,TD,0
+1261028,10/4/2014,FBS,Wisconsin,Northwestern,PASSING,Tanner,McEvoy,LONG,9
+1261029,10/4/2014,FBS,Wisconsin,Northwestern,RECEIVING,Alex,Erickson,REC,4
+1261030,10/4/2014,FBS,Wisconsin,Northwestern,RECEIVING,Alex,Erickson,YDS,45
+1261031,10/4/2014,FBS,Wisconsin,Northwestern,RECEIVING,Alex,Erickson,TD,0
+1261032,10/4/2014,FBS,Wisconsin,Northwestern,RECEIVING,Alex,Erickson,LONG,13
+1261033,10/4/2014,FBS,Wisconsin,Northwestern,RECEIVING,Kenzel,Doe,REC,4
+1261034,10/4/2014,FBS,Wisconsin,Northwestern,RECEIVING,Kenzel,Doe,YDS,34
+1261035,10/4/2014,FBS,Wisconsin,Northwestern,RECEIVING,Kenzel,Doe,TD,1
+1261036,10/4/2014,FBS,Wisconsin,Northwestern,RECEIVING,Kenzel,Doe,LONG,19
+1261037,10/4/2014,FBS,Wisconsin,Northwestern,RECEIVING,Sam,Arneson,REC,1
+1261038,10/4/2014,FBS,Wisconsin,Northwestern,RECEIVING,Sam,Arneson,YDS,24
+1261039,10/4/2014,FBS,Wisconsin,Northwestern,RECEIVING,Sam,Arneson,TD,0
+1261040,10/4/2014,FBS,Wisconsin,Northwestern,RECEIVING,Sam,Arneson,LONG,24
+1261041,10/4/2014,FBS,Wisconsin,Northwestern,RECEIVING,Corey,Clement,REC,1
+1261042,10/4/2014,FBS,Wisconsin,Northwestern,RECEIVING,Corey,Clement,YDS,15
+1261043,10/4/2014,FBS,Wisconsin,Northwestern,RECEIVING,Corey,Clement,TD,0
+1261044,10/4/2014,FBS,Wisconsin,Northwestern,RECEIVING,Corey,Clement,LONG,15
+1261045,10/4/2014,FBS,Wisconsin,Northwestern,RECEIVING,Troy,Fumagalli,REC,1
+1261046,10/4/2014,FBS,Wisconsin,Northwestern,RECEIVING,Troy,Fumagalli,YDS,11
+1261047,10/4/2014,FBS,Wisconsin,Northwestern,RECEIVING,Troy,Fumagalli,TD,0
+1261048,10/4/2014,FBS,Wisconsin,Northwestern,RECEIVING,Troy,Fumagalli,LONG,11
+1261049,10/4/2014,FBS,Wisconsin,Northwestern,RECEIVING,Austin,Ramesh,REC,1
+1261050,10/4/2014,FBS,Wisconsin,Northwestern,RECEIVING,Austin,Ramesh,YDS,9
+1261051,10/4/2014,FBS,Wisconsin,Northwestern,RECEIVING,Austin,Ramesh,TD,0
+1261052,10/4/2014,FBS,Wisconsin,Northwestern,RECEIVING,Austin,Ramesh,LONG,9
+1261053,10/4/2014,FBS,Wisconsin,Northwestern,KICKING,Rafael,Gaglianone,FG-FGA,0/1
+1261054,10/4/2014,FBS,Wisconsin,Northwestern,KICKING,Rafael,Gaglianone,LONG,0
+1261055,10/4/2014,FBS,Wisconsin,Northwestern,KICKING,Rafael,Gaglianone,XP,2
+1261056,10/4/2014,FBS,Wisconsin,Northwestern,KICKING,Rafael,Gaglianone,PTS,2
+1261057,10/4/2014,FBS,Wisconsin,Northwestern,PUNTING,Drew,Meyer,NO,4
+1261058,10/4/2014,FBS,Wisconsin,Northwestern,PUNTING,Drew,Meyer,YDS,158
+1261059,10/4/2014,FBS,Wisconsin,Northwestern,PUNTING,Drew,Meyer,AVG,39.5
+1261060,10/4/2014,FBS,Wisconsin,Northwestern,PUNTING,Drew,Meyer,LONG,52
+1261061,10/4/2014,FBS,Wisconsin,Northwestern,PUNT RETURNS,Kenzel,Doe,NO,2
+1261062,10/4/2014,FBS,Wisconsin,Northwestern,PUNT RETURNS,Kenzel,Doe,YDS,21
+1261063,10/4/2014,FBS,Wisconsin,Northwestern,PUNT RETURNS,Kenzel,Doe,AVG,10.5
+1261064,10/4/2014,FBS,Wisconsin,Northwestern,PUNT RETURNS,Kenzel,Doe,LONG,19
+1261065,10/4/2014,FBS,Wisconsin,Northwestern,KICK RETURNS,Kenzel,Doe,NO,4
+1261066,10/4/2014,FBS,Wisconsin,Northwestern,KICK RETURNS,Kenzel,Doe,YDS,81
+1261067,10/4/2014,FBS,Wisconsin,Northwestern,KICK RETURNS,Kenzel,Doe,AVG,20.2
+1261068,10/4/2014,FBS,Wisconsin,Northwestern,KICK RETURNS,Kenzel,Doe,LONG,24
+1261069,10/4/2014,FBS,Northwestern,Wisconsin,RUSHING,Justin,Jackson,ATT,33
+1261070,10/4/2014,FBS,Northwestern,Wisconsin,RUSHING,Justin,Jackson,YDS,162
+1261071,10/4/2014,FBS,Northwestern,Wisconsin,RUSHING,Justin,Jackson,TD,0
+1261072,10/4/2014,FBS,Northwestern,Wisconsin,RUSHING,Justin,Jackson,LONG,18
+1261073,10/4/2014,FBS,Northwestern,Wisconsin,RUSHING,Treyvon,Green,ATT,3
+1261074,10/4/2014,FBS,Northwestern,Wisconsin,RUSHING,Treyvon,Green,YDS,21
+1261075,10/4/2014,FBS,Northwestern,Wisconsin,RUSHING,Treyvon,Green,TD,0
+1261076,10/4/2014,FBS,Northwestern,Wisconsin,RUSHING,Treyvon,Green,LONG,14
+1261077,10/4/2014,FBS,Northwestern,Wisconsin,RUSHING,Miles,Shuler,ATT,1
+1261078,10/4/2014,FBS,Northwestern,Wisconsin,RUSHING,Miles,Shuler,YDS,16
+1261079,10/4/2014,FBS,Northwestern,Wisconsin,RUSHING,Miles,Shuler,TD,1
+1261080,10/4/2014,FBS,Northwestern,Wisconsin,RUSHING,Miles,Shuler,LONG,16
+1261081,10/4/2014,FBS,Northwestern,Wisconsin,RUSHING,Warren,Long,ATT,3
+1261082,10/4/2014,FBS,Northwestern,Wisconsin,RUSHING,Warren,Long,YDS,5
+1261083,10/4/2014,FBS,Northwestern,Wisconsin,RUSHING,Warren,Long,TD,0
+1261084,10/4/2014,FBS,Northwestern,Wisconsin,RUSHING,Warren,Long,LONG,2
+1261085,10/4/2014,FBS,Northwestern,Wisconsin,RUSHING,Trevor,Siemian,ATT,5
+1261086,10/4/2014,FBS,Northwestern,Wisconsin,RUSHING,Trevor,Siemian,YDS,1
+1261087,10/4/2014,FBS,Northwestern,Wisconsin,RUSHING,Trevor,Siemian,TD,0
+1261088,10/4/2014,FBS,Northwestern,Wisconsin,RUSHING,Trevor,Siemian,LONG,7
+1261089,10/4/2014,FBS,Northwestern,Wisconsin,RUSHING,,Team,ATT,1
+1261090,10/4/2014,FBS,Northwestern,Wisconsin,RUSHING,,Team,YDS,-2
+1261091,10/4/2014,FBS,Northwestern,Wisconsin,RUSHING,,Team,TD,0
+1261092,10/4/2014,FBS,Northwestern,Wisconsin,RUSHING,,Team,LONG,-2
+1261093,10/4/2014,FBS,Northwestern,Wisconsin,PASSING,Trevor,Siemian,CP-ATT-INT,15-29-0
+1261094,10/4/2014,FBS,Northwestern,Wisconsin,PASSING,Trevor,Siemian,YDS,182
+1261095,10/4/2014,FBS,Northwestern,Wisconsin,PASSING,Trevor,Siemian,TD,1
+1261096,10/4/2014,FBS,Northwestern,Wisconsin,PASSING,Trevor,Siemian,LONG,35
+1261097,10/4/2014,FBS,Northwestern,Wisconsin,RECEIVING,Kyle,Prater,REC,5
+1261098,10/4/2014,FBS,Northwestern,Wisconsin,RECEIVING,Kyle,Prater,YDS,55
+1261099,10/4/2014,FBS,Northwestern,Wisconsin,RECEIVING,Kyle,Prater,TD,0
+1261100,10/4/2014,FBS,Northwestern,Wisconsin,RECEIVING,Kyle,Prater,LONG,20
+1261101,10/4/2014,FBS,Northwestern,Wisconsin,RECEIVING,Tony,Jones,REC,1
+1261102,10/4/2014,FBS,Northwestern,Wisconsin,RECEIVING,Tony,Jones,YDS,35
+1261103,10/4/2014,FBS,Northwestern,Wisconsin,RECEIVING,Tony,Jones,TD,0
+1261104,10/4/2014,FBS,Northwestern,Wisconsin,RECEIVING,Tony,Jones,LONG,35
+1261105,10/4/2014,FBS,Northwestern,Wisconsin,RECEIVING,Dan,Vitale,REC,2
+1261106,10/4/2014,FBS,Northwestern,Wisconsin,RECEIVING,Dan,Vitale,YDS,21
+1261107,10/4/2014,FBS,Northwestern,Wisconsin,RECEIVING,Dan,Vitale,TD,1
+1261108,10/4/2014,FBS,Northwestern,Wisconsin,RECEIVING,Dan,Vitale,LONG,16
+1261109,10/4/2014,FBS,Northwestern,Wisconsin,RECEIVING,Jayme,Taylor,REC,1
+1261110,10/4/2014,FBS,Northwestern,Wisconsin,RECEIVING,Jayme,Taylor,YDS,18
+1261111,10/4/2014,FBS,Northwestern,Wisconsin,RECEIVING,Jayme,Taylor,TD,0
+1261112,10/4/2014,FBS,Northwestern,Wisconsin,RECEIVING,Jayme,Taylor,LONG,18
+1261113,10/4/2014,FBS,Northwestern,Wisconsin,RECEIVING,Austin,Carr,REC,1
+1261114,10/4/2014,FBS,Northwestern,Wisconsin,RECEIVING,Austin,Carr,YDS,18
+1261115,10/4/2014,FBS,Northwestern,Wisconsin,RECEIVING,Austin,Carr,TD,0
+1261116,10/4/2014,FBS,Northwestern,Wisconsin,RECEIVING,Austin,Carr,LONG,18
+1261117,10/4/2014,FBS,Northwestern,Wisconsin,RECEIVING,Mike,McHugh,REC,1
+1261118,10/4/2014,FBS,Northwestern,Wisconsin,RECEIVING,Mike,McHugh,YDS,15
+1261119,10/4/2014,FBS,Northwestern,Wisconsin,RECEIVING,Mike,McHugh,TD,0
+1261120,10/4/2014,FBS,Northwestern,Wisconsin,RECEIVING,Mike,McHugh,LONG,15
+1261121,10/4/2014,FBS,Northwestern,Wisconsin,RECEIVING,Miles,Shuler,REC,2
+1261122,10/4/2014,FBS,Northwestern,Wisconsin,RECEIVING,Miles,Shuler,YDS,11
+1261123,10/4/2014,FBS,Northwestern,Wisconsin,RECEIVING,Miles,Shuler,TD,0
+1261124,10/4/2014,FBS,Northwestern,Wisconsin,RECEIVING,Miles,Shuler,LONG,7
+1261125,10/4/2014,FBS,Northwestern,Wisconsin,RECEIVING,Warren,Long,REC,2
+1261126,10/4/2014,FBS,Northwestern,Wisconsin,RECEIVING,Warren,Long,YDS,9
+1261127,10/4/2014,FBS,Northwestern,Wisconsin,RECEIVING,Warren,Long,TD,0
+1261128,10/4/2014,FBS,Northwestern,Wisconsin,RECEIVING,Warren,Long,LONG,5
+1261129,10/4/2014,FBS,Northwestern,Wisconsin,KICKING,Jack,Mitchell,FG-FGA,2/2
+1261130,10/4/2014,FBS,Northwestern,Wisconsin,KICKING,Jack,Mitchell,LONG,22
+1261131,10/4/2014,FBS,Northwestern,Wisconsin,KICKING,Jack,Mitchell,XP,2
+1261132,10/4/2014,FBS,Northwestern,Wisconsin,KICKING,Jack,Mitchell,PTS,8
+1261133,10/4/2014,FBS,Northwestern,Wisconsin,PUNTING,Chris,Gradone,NO,7
+1261134,10/4/2014,FBS,Northwestern,Wisconsin,PUNTING,Chris,Gradone,YDS,251
+1261135,10/4/2014,FBS,Northwestern,Wisconsin,PUNTING,Chris,Gradone,AVG,35.9
+1261136,10/4/2014,FBS,Northwestern,Wisconsin,PUNTING,Chris,Gradone,LONG,41
+1261137,10/4/2014,FBS,Northwestern,Wisconsin,PUNT RETURNS,Miles,Shuler,NO,0
+1261138,10/4/2014,FBS,Northwestern,Wisconsin,PUNT RETURNS,Miles,Shuler,YDS,0
+1261139,10/4/2014,FBS,Northwestern,Wisconsin,PUNT RETURNS,Miles,Shuler,AVG,-
+1261140,10/4/2014,FBS,Northwestern,Wisconsin,PUNT RETURNS,Miles,Shuler,LONG,0
+1261141,10/4/2014,FBS,Northwestern,Wisconsin,KICK RETURNS,Miles,Shuler,NO,3
+1261142,10/4/2014,FBS,Northwestern,Wisconsin,KICK RETURNS,Miles,Shuler,YDS,46
+1261143,10/4/2014,FBS,Northwestern,Wisconsin,KICK RETURNS,Miles,Shuler,AVG,15.3
+1261144,10/4/2014,FBS,Northwestern,Wisconsin,KICK RETURNS,Miles,Shuler,LONG,21

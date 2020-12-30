@@ -1,0 +1,153 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1474001,11/1/2014,FBS,Florida,Georgia,RUSHING,Kelvin,Taylor,ATT,25
+1474002,11/1/2014,FBS,Florida,Georgia,RUSHING,Kelvin,Taylor,YDS,197
+1474003,11/1/2014,FBS,Florida,Georgia,RUSHING,Kelvin,Taylor,TD,2
+1474004,11/1/2014,FBS,Florida,Georgia,RUSHING,Kelvin,Taylor,LONG,65
+1474005,11/1/2014,FBS,Florida,Georgia,RUSHING,Matt,Jones,ATT,25
+1474006,11/1/2014,FBS,Florida,Georgia,RUSHING,Matt,Jones,YDS,192
+1474007,11/1/2014,FBS,Florida,Georgia,RUSHING,Matt,Jones,TD,2
+1474008,11/1/2014,FBS,Florida,Georgia,RUSHING,Matt,Jones,LONG,44
+1474009,11/1/2014,FBS,Florida,Georgia,RUSHING,Treon,Harris,ATT,6
+1474010,11/1/2014,FBS,Florida,Georgia,RUSHING,Treon,Harris,YDS,37
+1474011,11/1/2014,FBS,Florida,Georgia,RUSHING,Treon,Harris,TD,0
+1474012,11/1/2014,FBS,Florida,Georgia,RUSHING,Treon,Harris,LONG,12
+1474013,11/1/2014,FBS,Florida,Georgia,RUSHING,Michael,McNeely,ATT,1
+1474014,11/1/2014,FBS,Florida,Georgia,RUSHING,Michael,McNeely,YDS,21
+1474015,11/1/2014,FBS,Florida,Georgia,RUSHING,Michael,McNeely,TD,1
+1474016,11/1/2014,FBS,Florida,Georgia,RUSHING,Michael,McNeely,LONG,21
+1474017,11/1/2014,FBS,Florida,Georgia,RUSHING,Andre,Debose,ATT,1
+1474018,11/1/2014,FBS,Florida,Georgia,RUSHING,Andre,Debose,YDS,-5
+1474019,11/1/2014,FBS,Florida,Georgia,RUSHING,Andre,Debose,TD,0
+1474020,11/1/2014,FBS,Florida,Georgia,RUSHING,Andre,Debose,LONG,-5
+1474021,11/1/2014,FBS,Florida,Georgia,RUSHING,,Team,ATT,2
+1474022,11/1/2014,FBS,Florida,Georgia,RUSHING,,Team,YDS,-24
+1474023,11/1/2014,FBS,Florida,Georgia,RUSHING,,Team,TD,0
+1474024,11/1/2014,FBS,Florida,Georgia,RUSHING,,Team,LONG,-6
+1474025,11/1/2014,FBS,Florida,Georgia,PASSING,Treon,Harris,CP-ATT-INT,3-6-0
+1474026,11/1/2014,FBS,Florida,Georgia,PASSING,Treon,Harris,YDS,27
+1474027,11/1/2014,FBS,Florida,Georgia,PASSING,Treon,Harris,TD,0
+1474028,11/1/2014,FBS,Florida,Georgia,PASSING,Treon,Harris,LONG,13
+1474029,11/1/2014,FBS,Florida,Georgia,RECEIVING,Latroy,PittmanJr.,REC,1
+1474030,11/1/2014,FBS,Florida,Georgia,RECEIVING,Latroy,PittmanJr.,YDS,13
+1474031,11/1/2014,FBS,Florida,Georgia,RECEIVING,Latroy,PittmanJr.,TD,0
+1474032,11/1/2014,FBS,Florida,Georgia,RECEIVING,Latroy,PittmanJr.,LONG,13
+1474033,11/1/2014,FBS,Florida,Georgia,RECEIVING,Matt,Jones,REC,1
+1474034,11/1/2014,FBS,Florida,Georgia,RECEIVING,Matt,Jones,YDS,12
+1474035,11/1/2014,FBS,Florida,Georgia,RECEIVING,Matt,Jones,TD,0
+1474036,11/1/2014,FBS,Florida,Georgia,RECEIVING,Matt,Jones,LONG,12
+1474037,11/1/2014,FBS,Florida,Georgia,RECEIVING,Brandon,Powell,REC,1
+1474038,11/1/2014,FBS,Florida,Georgia,RECEIVING,Brandon,Powell,YDS,2
+1474039,11/1/2014,FBS,Florida,Georgia,RECEIVING,Brandon,Powell,TD,0
+1474040,11/1/2014,FBS,Florida,Georgia,RECEIVING,Brandon,Powell,LONG,2
+1474041,11/1/2014,FBS,Florida,Georgia,KICKING,Francisco,Velez,FG-FGA,1/1
+1474042,11/1/2014,FBS,Florida,Georgia,KICKING,Francisco,Velez,LONG,21
+1474043,11/1/2014,FBS,Florida,Georgia,KICKING,Francisco,Velez,XP,3
+1474044,11/1/2014,FBS,Florida,Georgia,KICKING,Francisco,Velez,PTS,6
+1474045,11/1/2014,FBS,Florida,Georgia,KICKING,Austin,Hardin,FG-FGA,0/0
+1474046,11/1/2014,FBS,Florida,Georgia,KICKING,Austin,Hardin,LONG,-
+1474047,11/1/2014,FBS,Florida,Georgia,KICKING,Austin,Hardin,XP,2
+1474048,11/1/2014,FBS,Florida,Georgia,KICKING,Austin,Hardin,PTS,2
+1474049,11/1/2014,FBS,Florida,Georgia,PUNTING,Kyle,Christy,NO,5
+1474050,11/1/2014,FBS,Florida,Georgia,PUNTING,Kyle,Christy,YDS,230
+1474051,11/1/2014,FBS,Florida,Georgia,PUNTING,Kyle,Christy,AVG,46.0
+1474052,11/1/2014,FBS,Florida,Georgia,PUNTING,Kyle,Christy,LONG,59
+1474053,11/1/2014,FBS,Florida,Georgia,PUNT RETURNS,Andre,Debose,NO,2
+1474054,11/1/2014,FBS,Florida,Georgia,PUNT RETURNS,Andre,Debose,YDS,38
+1474055,11/1/2014,FBS,Florida,Georgia,PUNT RETURNS,Andre,Debose,AVG,19.0
+1474056,11/1/2014,FBS,Florida,Georgia,PUNT RETURNS,Andre,Debose,LONG,38
+1474057,11/1/2014,FBS,Florida,Georgia,PUNT RETURNS,Vernon,HargreavesIII,NO,0
+1474058,11/1/2014,FBS,Florida,Georgia,PUNT RETURNS,Vernon,HargreavesIII,YDS,0
+1474059,11/1/2014,FBS,Florida,Georgia,PUNT RETURNS,Vernon,HargreavesIII,AVG,-
+1474060,11/1/2014,FBS,Florida,Georgia,PUNT RETURNS,Vernon,HargreavesIII,LONG,0
+1474061,11/1/2014,FBS,Florida,Georgia,KICK RETURNS,Andre,Debose,NO,1
+1474062,11/1/2014,FBS,Florida,Georgia,KICK RETURNS,Andre,Debose,YDS,27
+1474063,11/1/2014,FBS,Florida,Georgia,KICK RETURNS,Andre,Debose,AVG,27.0
+1474064,11/1/2014,FBS,Florida,Georgia,KICK RETURNS,Andre,Debose,LONG,27
+1474065,11/1/2014,FBS,Florida,Georgia,KICK RETURNS,Brandon,Powell,NO,1
+1474066,11/1/2014,FBS,Florida,Georgia,KICK RETURNS,Brandon,Powell,YDS,20
+1474067,11/1/2014,FBS,Florida,Georgia,KICK RETURNS,Brandon,Powell,AVG,20.0
+1474068,11/1/2014,FBS,Florida,Georgia,KICK RETURNS,Brandon,Powell,LONG,20
+1474069,11/1/2014,FBS,Florida,Georgia,KICK RETURNS,Hunter,Joyer,NO,1
+1474070,11/1/2014,FBS,Florida,Georgia,KICK RETURNS,Hunter,Joyer,YDS,0
+1474071,11/1/2014,FBS,Florida,Georgia,KICK RETURNS,Hunter,Joyer,AVG,-
+1474072,11/1/2014,FBS,Florida,Georgia,KICK RETURNS,Hunter,Joyer,LONG,0
+1474073,11/1/2014,FBS,Georgia,Florida,RUSHING,Nick,Chubb,ATT,21
+1474074,11/1/2014,FBS,Georgia,Florida,RUSHING,Nick,Chubb,YDS,156
+1474075,11/1/2014,FBS,Georgia,Florida,RUSHING,Nick,Chubb,TD,1
+1474076,11/1/2014,FBS,Georgia,Florida,RUSHING,Nick,Chubb,LONG,43
+1474077,11/1/2014,FBS,Georgia,Florida,RUSHING,Brendan,Douglas,ATT,4
+1474078,11/1/2014,FBS,Georgia,Florida,RUSHING,Brendan,Douglas,YDS,1
+1474079,11/1/2014,FBS,Georgia,Florida,RUSHING,Brendan,Douglas,TD,1
+1474080,11/1/2014,FBS,Georgia,Florida,RUSHING,Brendan,Douglas,LONG,2
+1474081,11/1/2014,FBS,Georgia,Florida,RUSHING,,Team,ATT,1
+1474082,11/1/2014,FBS,Georgia,Florida,RUSHING,,Team,YDS,0
+1474083,11/1/2014,FBS,Georgia,Florida,RUSHING,,Team,TD,0
+1474084,11/1/2014,FBS,Georgia,Florida,RUSHING,,Team,LONG,0
+1474085,11/1/2014,FBS,Georgia,Florida,RUSHING,Hutson,Mason,ATT,6
+1474086,11/1/2014,FBS,Georgia,Florida,RUSHING,Hutson,Mason,YDS,-16
+1474087,11/1/2014,FBS,Georgia,Florida,RUSHING,Hutson,Mason,TD,0
+1474088,11/1/2014,FBS,Georgia,Florida,RUSHING,Hutson,Mason,LONG,4
+1474089,11/1/2014,FBS,Georgia,Florida,PASSING,Hutson,Mason,CP-ATT-INT,26-41-0
+1474090,11/1/2014,FBS,Georgia,Florida,PASSING,Hutson,Mason,YDS,319
+1474091,11/1/2014,FBS,Georgia,Florida,PASSING,Hutson,Mason,TD,1
+1474092,11/1/2014,FBS,Georgia,Florida,PASSING,Hutson,Mason,LONG,34
+1474093,11/1/2014,FBS,Georgia,Florida,RECEIVING,Michael,Bennett,REC,6
+1474094,11/1/2014,FBS,Georgia,Florida,RECEIVING,Michael,Bennett,YDS,60
+1474095,11/1/2014,FBS,Georgia,Florida,RECEIVING,Michael,Bennett,TD,0
+1474096,11/1/2014,FBS,Georgia,Florida,RECEIVING,Michael,Bennett,LONG,20
+1474097,11/1/2014,FBS,Georgia,Florida,RECEIVING,Nick,Chubb,REC,5
+1474098,11/1/2014,FBS,Georgia,Florida,RECEIVING,Nick,Chubb,YDS,59
+1474099,11/1/2014,FBS,Georgia,Florida,RECEIVING,Nick,Chubb,TD,1
+1474100,11/1/2014,FBS,Georgia,Florida,RECEIVING,Nick,Chubb,LONG,18
+1474101,11/1/2014,FBS,Georgia,Florida,RECEIVING,Malcolm,Mitchell,REC,7
+1474102,11/1/2014,FBS,Georgia,Florida,RECEIVING,Malcolm,Mitchell,YDS,55
+1474103,11/1/2014,FBS,Georgia,Florida,RECEIVING,Malcolm,Mitchell,TD,0
+1474104,11/1/2014,FBS,Georgia,Florida,RECEIVING,Malcolm,Mitchell,LONG,15
+1474105,11/1/2014,FBS,Georgia,Florida,RECEIVING,Chris,Conley,REC,3
+1474106,11/1/2014,FBS,Georgia,Florida,RECEIVING,Chris,Conley,YDS,49
+1474107,11/1/2014,FBS,Georgia,Florida,RECEIVING,Chris,Conley,TD,0
+1474108,11/1/2014,FBS,Georgia,Florida,RECEIVING,Chris,Conley,LONG,25
+1474109,11/1/2014,FBS,Georgia,Florida,RECEIVING,Jeb,Blazevich,REC,2
+1474110,11/1/2014,FBS,Georgia,Florida,RECEIVING,Jeb,Blazevich,YDS,44
+1474111,11/1/2014,FBS,Georgia,Florida,RECEIVING,Jeb,Blazevich,TD,0
+1474112,11/1/2014,FBS,Georgia,Florida,RECEIVING,Jeb,Blazevich,LONG,34
+1474113,11/1/2014,FBS,Georgia,Florida,RECEIVING,Jordan,Davis,REC,1
+1474114,11/1/2014,FBS,Georgia,Florida,RECEIVING,Jordan,Davis,YDS,24
+1474115,11/1/2014,FBS,Georgia,Florida,RECEIVING,Jordan,Davis,TD,0
+1474116,11/1/2014,FBS,Georgia,Florida,RECEIVING,Jordan,Davis,LONG,24
+1474117,11/1/2014,FBS,Georgia,Florida,RECEIVING,Reggie,Davis,REC,1
+1474118,11/1/2014,FBS,Georgia,Florida,RECEIVING,Reggie,Davis,YDS,18
+1474119,11/1/2014,FBS,Georgia,Florida,RECEIVING,Reggie,Davis,TD,0
+1474120,11/1/2014,FBS,Georgia,Florida,RECEIVING,Reggie,Davis,LONG,18
+1474121,11/1/2014,FBS,Georgia,Florida,RECEIVING,Kenneth,Towns,REC,1
+1474122,11/1/2014,FBS,Georgia,Florida,RECEIVING,Kenneth,Towns,YDS,10
+1474123,11/1/2014,FBS,Georgia,Florida,RECEIVING,Kenneth,Towns,TD,0
+1474124,11/1/2014,FBS,Georgia,Florida,RECEIVING,Kenneth,Towns,LONG,10
+1474125,11/1/2014,FBS,Georgia,Florida,KICKING,Marshall,Morgan,FG-FGA,0/1
+1474126,11/1/2014,FBS,Georgia,Florida,KICKING,Marshall,Morgan,LONG,0
+1474127,11/1/2014,FBS,Georgia,Florida,KICKING,Marshall,Morgan,XP,2
+1474128,11/1/2014,FBS,Georgia,Florida,KICKING,Marshall,Morgan,PTS,2
+1474129,11/1/2014,FBS,Georgia,Florida,PUNTING,Adam,Erickson,NO,4
+1474130,11/1/2014,FBS,Georgia,Florida,PUNTING,Adam,Erickson,YDS,127
+1474131,11/1/2014,FBS,Georgia,Florida,PUNTING,Adam,Erickson,AVG,31.8
+1474132,11/1/2014,FBS,Georgia,Florida,PUNTING,Adam,Erickson,LONG,35
+1474133,11/1/2014,FBS,Georgia,Florida,PUNTING,Collin,Barber,NO,2
+1474134,11/1/2014,FBS,Georgia,Florida,PUNTING,Collin,Barber,YDS,71
+1474135,11/1/2014,FBS,Georgia,Florida,PUNTING,Collin,Barber,AVG,35.5
+1474136,11/1/2014,FBS,Georgia,Florida,PUNTING,Collin,Barber,LONG,39
+1474137,11/1/2014,FBS,Georgia,Florida,PUNT RETURNS,Isaiah,McKenzie,NO,2
+1474138,11/1/2014,FBS,Georgia,Florida,PUNT RETURNS,Isaiah,McKenzie,YDS,13
+1474139,11/1/2014,FBS,Georgia,Florida,PUNT RETURNS,Isaiah,McKenzie,AVG,6.5
+1474140,11/1/2014,FBS,Georgia,Florida,PUNT RETURNS,Isaiah,McKenzie,LONG,13
+1474141,11/1/2014,FBS,Georgia,Florida,PUNT RETURNS,Reggie,Davis,NO,0
+1474142,11/1/2014,FBS,Georgia,Florida,PUNT RETURNS,Reggie,Davis,YDS,0
+1474143,11/1/2014,FBS,Georgia,Florida,PUNT RETURNS,Reggie,Davis,AVG,-
+1474144,11/1/2014,FBS,Georgia,Florida,PUNT RETURNS,Reggie,Davis,LONG,0
+1474145,11/1/2014,FBS,Georgia,Florida,KICK RETURNS,Isaiah,McKenzie,NO,3
+1474146,11/1/2014,FBS,Georgia,Florida,KICK RETURNS,Isaiah,McKenzie,YDS,51
+1474147,11/1/2014,FBS,Georgia,Florida,KICK RETURNS,Isaiah,McKenzie,AVG,17.0
+1474148,11/1/2014,FBS,Georgia,Florida,KICK RETURNS,Isaiah,McKenzie,LONG,19
+1474149,11/1/2014,FBS,Georgia,Florida,KICK RETURNS,Reggie,Davis,NO,2
+1474150,11/1/2014,FBS,Georgia,Florida,KICK RETURNS,Reggie,Davis,YDS,41
+1474151,11/1/2014,FBS,Georgia,Florida,KICK RETURNS,Reggie,Davis,AVG,20.5
+1474152,11/1/2014,FBS,Georgia,Florida,KICK RETURNS,Reggie,Davis,LONG,29

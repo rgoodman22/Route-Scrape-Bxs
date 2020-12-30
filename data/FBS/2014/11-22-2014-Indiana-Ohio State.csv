@@ -1,0 +1,125 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1610001,11/22/2014,FBS,Indiana,Ohio State,RUSHING,Tevin,Coleman,ATT,27
+1610002,11/22/2014,FBS,Indiana,Ohio State,RUSHING,Tevin,Coleman,YDS,228
+1610003,11/22/2014,FBS,Indiana,Ohio State,RUSHING,Tevin,Coleman,TD,3
+1610004,11/22/2014,FBS,Indiana,Ohio State,RUSHING,Tevin,Coleman,LONG,90
+1610005,11/22/2014,FBS,Indiana,Ohio State,RUSHING,Zander,Diamont,ATT,6
+1610006,11/22/2014,FBS,Indiana,Ohio State,RUSHING,Zander,Diamont,YDS,42
+1610007,11/22/2014,FBS,Indiana,Ohio State,RUSHING,Zander,Diamont,TD,0
+1610008,11/22/2014,FBS,Indiana,Ohio State,RUSHING,Zander,Diamont,LONG,53
+1610009,11/22/2014,FBS,Indiana,Ohio State,RUSHING,Devine,Redding,ATT,1
+1610010,11/22/2014,FBS,Indiana,Ohio State,RUSHING,Devine,Redding,YDS,6
+1610011,11/22/2014,FBS,Indiana,Ohio State,RUSHING,Devine,Redding,TD,0
+1610012,11/22/2014,FBS,Indiana,Ohio State,RUSHING,Devine,Redding,LONG,6
+1610013,11/22/2014,FBS,Indiana,Ohio State,RUSHING,Shane,Wynn,ATT,1
+1610014,11/22/2014,FBS,Indiana,Ohio State,RUSHING,Shane,Wynn,YDS,6
+1610015,11/22/2014,FBS,Indiana,Ohio State,RUSHING,Shane,Wynn,TD,0
+1610016,11/22/2014,FBS,Indiana,Ohio State,RUSHING,Shane,Wynn,LONG,6
+1610017,11/22/2014,FBS,Indiana,Ohio State,RUSHING,D'Angelo,Roberts,ATT,1
+1610018,11/22/2014,FBS,Indiana,Ohio State,RUSHING,D'Angelo,Roberts,YDS,-1
+1610019,11/22/2014,FBS,Indiana,Ohio State,RUSHING,D'Angelo,Roberts,TD,0
+1610020,11/22/2014,FBS,Indiana,Ohio State,RUSHING,D'Angelo,Roberts,LONG,-1
+1610021,11/22/2014,FBS,Indiana,Ohio State,PASSING,Zander,Diamont,CP-ATT-INT,11-27-1
+1610022,11/22/2014,FBS,Indiana,Ohio State,PASSING,Zander,Diamont,YDS,114
+1610023,11/22/2014,FBS,Indiana,Ohio State,PASSING,Zander,Diamont,TD,0
+1610024,11/22/2014,FBS,Indiana,Ohio State,PASSING,Zander,Diamont,LONG,49
+1610025,11/22/2014,FBS,Indiana,Ohio State,RECEIVING,Shane,Wynn,REC,7
+1610026,11/22/2014,FBS,Indiana,Ohio State,RECEIVING,Shane,Wynn,YDS,93
+1610027,11/22/2014,FBS,Indiana,Ohio State,RECEIVING,Shane,Wynn,TD,0
+1610028,11/22/2014,FBS,Indiana,Ohio State,RECEIVING,Shane,Wynn,LONG,49
+1610029,11/22/2014,FBS,Indiana,Ohio State,RECEIVING,Dominique,Booth,REC,2
+1610030,11/22/2014,FBS,Indiana,Ohio State,RECEIVING,Dominique,Booth,YDS,18
+1610031,11/22/2014,FBS,Indiana,Ohio State,RECEIVING,Dominique,Booth,TD,0
+1610032,11/22/2014,FBS,Indiana,Ohio State,RECEIVING,Dominique,Booth,LONG,10
+1610033,11/22/2014,FBS,Indiana,Ohio State,RECEIVING,Tevin,Coleman,REC,2
+1610034,11/22/2014,FBS,Indiana,Ohio State,RECEIVING,Tevin,Coleman,YDS,3
+1610035,11/22/2014,FBS,Indiana,Ohio State,RECEIVING,Tevin,Coleman,TD,0
+1610036,11/22/2014,FBS,Indiana,Ohio State,RECEIVING,Tevin,Coleman,LONG,5
+1610037,11/22/2014,FBS,Indiana,Ohio State,KICKING,Griffin,Oakes,FG-FGA,2/2
+1610038,11/22/2014,FBS,Indiana,Ohio State,KICKING,Griffin,Oakes,LONG,37
+1610039,11/22/2014,FBS,Indiana,Ohio State,KICKING,Griffin,Oakes,XP,3
+1610040,11/22/2014,FBS,Indiana,Ohio State,KICKING,Griffin,Oakes,PTS,9
+1610041,11/22/2014,FBS,Indiana,Ohio State,PUNTING,Erich,Toth,NO,10
+1610042,11/22/2014,FBS,Indiana,Ohio State,PUNTING,Erich,Toth,YDS,449
+1610043,11/22/2014,FBS,Indiana,Ohio State,PUNTING,Erich,Toth,AVG,44.9
+1610044,11/22/2014,FBS,Indiana,Ohio State,PUNTING,Erich,Toth,LONG,57
+1610045,11/22/2014,FBS,Indiana,Ohio State,PUNT RETURNS,Shane,Wynn,NO,1
+1610046,11/22/2014,FBS,Indiana,Ohio State,PUNT RETURNS,Shane,Wynn,YDS,9
+1610047,11/22/2014,FBS,Indiana,Ohio State,PUNT RETURNS,Shane,Wynn,AVG,9.0
+1610048,11/22/2014,FBS,Indiana,Ohio State,PUNT RETURNS,Shane,Wynn,LONG,9
+1610049,11/22/2014,FBS,Indiana,Ohio State,PUNT RETURNS,J-Shun,HarrisII,NO,0
+1610050,11/22/2014,FBS,Indiana,Ohio State,PUNT RETURNS,J-Shun,HarrisII,YDS,0
+1610051,11/22/2014,FBS,Indiana,Ohio State,PUNT RETURNS,J-Shun,HarrisII,AVG,-
+1610052,11/22/2014,FBS,Indiana,Ohio State,PUNT RETURNS,J-Shun,HarrisII,LONG,0
+1610053,11/22/2014,FBS,Indiana,Ohio State,KICK RETURNS,J-Shun,HarrisII,NO,2
+1610054,11/22/2014,FBS,Indiana,Ohio State,KICK RETURNS,J-Shun,HarrisII,YDS,40
+1610055,11/22/2014,FBS,Indiana,Ohio State,KICK RETURNS,J-Shun,HarrisII,AVG,20.0
+1610056,11/22/2014,FBS,Indiana,Ohio State,KICK RETURNS,J-Shun,HarrisII,LONG,28
+1610057,11/22/2014,FBS,Indiana,Ohio State,KICK RETURNS,Ricky,Jones,NO,1
+1610058,11/22/2014,FBS,Indiana,Ohio State,KICK RETURNS,Ricky,Jones,YDS,20
+1610059,11/22/2014,FBS,Indiana,Ohio State,KICK RETURNS,Ricky,Jones,AVG,20.0
+1610060,11/22/2014,FBS,Indiana,Ohio State,KICK RETURNS,Ricky,Jones,LONG,20
+1610061,11/22/2014,FBS,Ohio State,Indiana,RUSHING,Ezekiel,Elliott,ATT,13
+1610062,11/22/2014,FBS,Ohio State,Indiana,RUSHING,Ezekiel,Elliott,YDS,107
+1610063,11/22/2014,FBS,Ohio State,Indiana,RUSHING,Ezekiel,Elliott,TD,1
+1610064,11/22/2014,FBS,Ohio State,Indiana,RUSHING,Ezekiel,Elliott,LONG,65
+1610065,11/22/2014,FBS,Ohio State,Indiana,RUSHING,J.T.,Barrett,ATT,20
+1610066,11/22/2014,FBS,Ohio State,Indiana,RUSHING,J.T.,Barrett,YDS,78
+1610067,11/22/2014,FBS,Ohio State,Indiana,RUSHING,J.T.,Barrett,TD,0
+1610068,11/22/2014,FBS,Ohio State,Indiana,RUSHING,J.T.,Barrett,LONG,20
+1610069,11/22/2014,FBS,Ohio State,Indiana,RUSHING,Curtis,Samuel,ATT,6
+1610070,11/22/2014,FBS,Ohio State,Indiana,RUSHING,Curtis,Samuel,YDS,40
+1610071,11/22/2014,FBS,Ohio State,Indiana,RUSHING,Curtis,Samuel,TD,0
+1610072,11/22/2014,FBS,Ohio State,Indiana,RUSHING,Curtis,Samuel,LONG,15
+1610073,11/22/2014,FBS,Ohio State,Indiana,PASSING,J.T.,Barrett,CP-ATT-INT,25-35-2
+1610074,11/22/2014,FBS,Ohio State,Indiana,PASSING,J.T.,Barrett,YDS,302
+1610075,11/22/2014,FBS,Ohio State,Indiana,PASSING,J.T.,Barrett,TD,4
+1610076,11/22/2014,FBS,Ohio State,Indiana,PASSING,J.T.,Barrett,LONG,54
+1610077,11/22/2014,FBS,Ohio State,Indiana,RECEIVING,Jalin,Marshall,REC,5
+1610078,11/22/2014,FBS,Ohio State,Indiana,RECEIVING,Jalin,Marshall,YDS,95
+1610079,11/22/2014,FBS,Ohio State,Indiana,RECEIVING,Jalin,Marshall,TD,3
+1610080,11/22/2014,FBS,Ohio State,Indiana,RECEIVING,Jalin,Marshall,LONG,54
+1610081,11/22/2014,FBS,Ohio State,Indiana,RECEIVING,Jeff,Heuerman,REC,5
+1610082,11/22/2014,FBS,Ohio State,Indiana,RECEIVING,Jeff,Heuerman,YDS,74
+1610083,11/22/2014,FBS,Ohio State,Indiana,RECEIVING,Jeff,Heuerman,TD,1
+1610084,11/22/2014,FBS,Ohio State,Indiana,RECEIVING,Jeff,Heuerman,LONG,32
+1610085,11/22/2014,FBS,Ohio State,Indiana,RECEIVING,Devin,Smith,REC,3
+1610086,11/22/2014,FBS,Ohio State,Indiana,RECEIVING,Devin,Smith,YDS,46
+1610087,11/22/2014,FBS,Ohio State,Indiana,RECEIVING,Devin,Smith,TD,0
+1610088,11/22/2014,FBS,Ohio State,Indiana,RECEIVING,Devin,Smith,LONG,33
+1610089,11/22/2014,FBS,Ohio State,Indiana,RECEIVING,Ezekiel,Elliott,REC,7
+1610090,11/22/2014,FBS,Ohio State,Indiana,RECEIVING,Ezekiel,Elliott,YDS,39
+1610091,11/22/2014,FBS,Ohio State,Indiana,RECEIVING,Ezekiel,Elliott,TD,0
+1610092,11/22/2014,FBS,Ohio State,Indiana,RECEIVING,Ezekiel,Elliott,LONG,14
+1610093,11/22/2014,FBS,Ohio State,Indiana,RECEIVING,Michael,Thomas,REC,2
+1610094,11/22/2014,FBS,Ohio State,Indiana,RECEIVING,Michael,Thomas,YDS,22
+1610095,11/22/2014,FBS,Ohio State,Indiana,RECEIVING,Michael,Thomas,TD,0
+1610096,11/22/2014,FBS,Ohio State,Indiana,RECEIVING,Michael,Thomas,LONG,16
+1610097,11/22/2014,FBS,Ohio State,Indiana,RECEIVING,Nick,Vannett,REC,1
+1610098,11/22/2014,FBS,Ohio State,Indiana,RECEIVING,Nick,Vannett,YDS,15
+1610099,11/22/2014,FBS,Ohio State,Indiana,RECEIVING,Nick,Vannett,TD,0
+1610100,11/22/2014,FBS,Ohio State,Indiana,RECEIVING,Nick,Vannett,LONG,15
+1610101,11/22/2014,FBS,Ohio State,Indiana,RECEIVING,Curtis,Samuel,REC,1
+1610102,11/22/2014,FBS,Ohio State,Indiana,RECEIVING,Curtis,Samuel,YDS,8
+1610103,11/22/2014,FBS,Ohio State,Indiana,RECEIVING,Curtis,Samuel,TD,0
+1610104,11/22/2014,FBS,Ohio State,Indiana,RECEIVING,Curtis,Samuel,LONG,8
+1610105,11/22/2014,FBS,Ohio State,Indiana,RECEIVING,Corey,Smith,REC,1
+1610106,11/22/2014,FBS,Ohio State,Indiana,RECEIVING,Corey,Smith,YDS,3
+1610107,11/22/2014,FBS,Ohio State,Indiana,RECEIVING,Corey,Smith,TD,0
+1610108,11/22/2014,FBS,Ohio State,Indiana,RECEIVING,Corey,Smith,LONG,3
+1610109,11/22/2014,FBS,Ohio State,Indiana,KICKING,Sean,Nuernberger,FG-FGA,0/1
+1610110,11/22/2014,FBS,Ohio State,Indiana,KICKING,Sean,Nuernberger,LONG,0
+1610111,11/22/2014,FBS,Ohio State,Indiana,KICKING,Sean,Nuernberger,XP,6
+1610112,11/22/2014,FBS,Ohio State,Indiana,KICKING,Sean,Nuernberger,PTS,6
+1610113,11/22/2014,FBS,Ohio State,Indiana,PUNTING,Cameron,Johnston,NO,5
+1610114,11/22/2014,FBS,Ohio State,Indiana,PUNTING,Cameron,Johnston,YDS,249
+1610115,11/22/2014,FBS,Ohio State,Indiana,PUNTING,Cameron,Johnston,AVG,49.8
+1610116,11/22/2014,FBS,Ohio State,Indiana,PUNTING,Cameron,Johnston,LONG,58
+1610117,11/22/2014,FBS,Ohio State,Indiana,PUNT RETURNS,Jalin,Marshall,NO,2
+1610118,11/22/2014,FBS,Ohio State,Indiana,PUNT RETURNS,Jalin,Marshall,YDS,56
+1610119,11/22/2014,FBS,Ohio State,Indiana,PUNT RETURNS,Jalin,Marshall,AVG,28.0
+1610120,11/22/2014,FBS,Ohio State,Indiana,PUNT RETURNS,Jalin,Marshall,LONG,54
+1610121,11/22/2014,FBS,Ohio State,Indiana,KICK RETURNS,Curtis,Samuel,NO,2
+1610122,11/22/2014,FBS,Ohio State,Indiana,KICK RETURNS,Curtis,Samuel,YDS,44
+1610123,11/22/2014,FBS,Ohio State,Indiana,KICK RETURNS,Curtis,Samuel,AVG,22.0
+1610124,11/22/2014,FBS,Ohio State,Indiana,KICK RETURNS,Curtis,Samuel,LONG,24

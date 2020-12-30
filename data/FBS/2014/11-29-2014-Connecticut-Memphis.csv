@@ -1,0 +1,161 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1662001,11/29/2014,FBS,Connecticut,Memphis,RUSHING,Ron,Johnson,ATT,22
+1662002,11/29/2014,FBS,Connecticut,Memphis,RUSHING,Ron,Johnson,YDS,67
+1662003,11/29/2014,FBS,Connecticut,Memphis,RUSHING,Ron,Johnson,TD,0
+1662004,11/29/2014,FBS,Connecticut,Memphis,RUSHING,Ron,Johnson,LONG,16
+1662005,11/29/2014,FBS,Connecticut,Memphis,RUSHING,Max,DeLorenzo,ATT,5
+1662006,11/29/2014,FBS,Connecticut,Memphis,RUSHING,Max,DeLorenzo,YDS,37
+1662007,11/29/2014,FBS,Connecticut,Memphis,RUSHING,Max,DeLorenzo,TD,0
+1662008,11/29/2014,FBS,Connecticut,Memphis,RUSHING,Max,DeLorenzo,LONG,26
+1662009,11/29/2014,FBS,Connecticut,Memphis,RUSHING,Joshua,Marriner,ATT,4
+1662010,11/29/2014,FBS,Connecticut,Memphis,RUSHING,Joshua,Marriner,YDS,8
+1662011,11/29/2014,FBS,Connecticut,Memphis,RUSHING,Joshua,Marriner,TD,0
+1662012,11/29/2014,FBS,Connecticut,Memphis,RUSHING,Joshua,Marriner,LONG,7
+1662013,11/29/2014,FBS,Connecticut,Memphis,RUSHING,Tim,Boyle,ATT,5
+1662014,11/29/2014,FBS,Connecticut,Memphis,RUSHING,Tim,Boyle,YDS,-5
+1662015,11/29/2014,FBS,Connecticut,Memphis,RUSHING,Tim,Boyle,TD,0
+1662016,11/29/2014,FBS,Connecticut,Memphis,RUSHING,Tim,Boyle,LONG,1
+1662017,11/29/2014,FBS,Connecticut,Memphis,PASSING,Tim,Boyle,CP-ATT-INT,12-24-1
+1662018,11/29/2014,FBS,Connecticut,Memphis,PASSING,Tim,Boyle,YDS,160
+1662019,11/29/2014,FBS,Connecticut,Memphis,PASSING,Tim,Boyle,TD,1
+1662020,11/29/2014,FBS,Connecticut,Memphis,PASSING,Tim,Boyle,LONG,39
+1662021,11/29/2014,FBS,Connecticut,Memphis,PASSING,Chandler,Whitmer,CP-ATT-INT,1-1-0
+1662022,11/29/2014,FBS,Connecticut,Memphis,PASSING,Chandler,Whitmer,YDS,2
+1662023,11/29/2014,FBS,Connecticut,Memphis,PASSING,Chandler,Whitmer,TD,0
+1662024,11/29/2014,FBS,Connecticut,Memphis,PASSING,Chandler,Whitmer,LONG,2
+1662025,11/29/2014,FBS,Connecticut,Memphis,PASSING,Deshon,Foxx,CP-ATT-INT,0-1-0
+1662026,11/29/2014,FBS,Connecticut,Memphis,PASSING,Deshon,Foxx,YDS,0
+1662027,11/29/2014,FBS,Connecticut,Memphis,PASSING,Deshon,Foxx,TD,0
+1662028,11/29/2014,FBS,Connecticut,Memphis,PASSING,Deshon,Foxx,LONG,0
+1662029,11/29/2014,FBS,Connecticut,Memphis,PASSING,,Team,CP-ATT-INT,0-1-0
+1662030,11/29/2014,FBS,Connecticut,Memphis,PASSING,,Team,YDS,0
+1662031,11/29/2014,FBS,Connecticut,Memphis,PASSING,,Team,TD,0
+1662032,11/29/2014,FBS,Connecticut,Memphis,PASSING,,Team,LONG,0
+1662033,11/29/2014,FBS,Connecticut,Memphis,RECEIVING,Geremy,Davis,REC,5
+1662034,11/29/2014,FBS,Connecticut,Memphis,RECEIVING,Geremy,Davis,YDS,62
+1662035,11/29/2014,FBS,Connecticut,Memphis,RECEIVING,Geremy,Davis,TD,0
+1662036,11/29/2014,FBS,Connecticut,Memphis,RECEIVING,Geremy,Davis,LONG,19
+1662037,11/29/2014,FBS,Connecticut,Memphis,RECEIVING,Noel,Thomas,REC,4
+1662038,11/29/2014,FBS,Connecticut,Memphis,RECEIVING,Noel,Thomas,YDS,41
+1662039,11/29/2014,FBS,Connecticut,Memphis,RECEIVING,Noel,Thomas,TD,0
+1662040,11/29/2014,FBS,Connecticut,Memphis,RECEIVING,Noel,Thomas,LONG,16
+1662041,11/29/2014,FBS,Connecticut,Memphis,RECEIVING,Arkeel,Newsome,REC,1
+1662042,11/29/2014,FBS,Connecticut,Memphis,RECEIVING,Arkeel,Newsome,YDS,39
+1662043,11/29/2014,FBS,Connecticut,Memphis,RECEIVING,Arkeel,Newsome,TD,1
+1662044,11/29/2014,FBS,Connecticut,Memphis,RECEIVING,Arkeel,Newsome,LONG,39
+1662045,11/29/2014,FBS,Connecticut,Memphis,RECEIVING,Max,DeLorenzo,REC,2
+1662046,11/29/2014,FBS,Connecticut,Memphis,RECEIVING,Max,DeLorenzo,YDS,18
+1662047,11/29/2014,FBS,Connecticut,Memphis,RECEIVING,Max,DeLorenzo,TD,0
+1662048,11/29/2014,FBS,Connecticut,Memphis,RECEIVING,Max,DeLorenzo,LONG,17
+1662049,11/29/2014,FBS,Connecticut,Memphis,RECEIVING,Deshon,Foxx,REC,1
+1662050,11/29/2014,FBS,Connecticut,Memphis,RECEIVING,Deshon,Foxx,YDS,2
+1662051,11/29/2014,FBS,Connecticut,Memphis,RECEIVING,Deshon,Foxx,TD,0
+1662052,11/29/2014,FBS,Connecticut,Memphis,RECEIVING,Deshon,Foxx,LONG,2
+1662053,11/29/2014,FBS,Connecticut,Memphis,KICKING,Bobby,Puyol,FG-FGA,1/2
+1662054,11/29/2014,FBS,Connecticut,Memphis,KICKING,Bobby,Puyol,LONG,45
+1662055,11/29/2014,FBS,Connecticut,Memphis,KICKING,Bobby,Puyol,XP,1
+1662056,11/29/2014,FBS,Connecticut,Memphis,KICKING,Bobby,Puyol,PTS,4
+1662057,11/29/2014,FBS,Connecticut,Memphis,PUNTING,Justin,Wain,NO,9
+1662058,11/29/2014,FBS,Connecticut,Memphis,PUNTING,Justin,Wain,YDS,332
+1662059,11/29/2014,FBS,Connecticut,Memphis,PUNTING,Justin,Wain,AVG,36.9
+1662060,11/29/2014,FBS,Connecticut,Memphis,PUNTING,Justin,Wain,LONG,59
+1662061,11/29/2014,FBS,Connecticut,Memphis,PUNT RETURNS,Deshon,Foxx,NO,0
+1662062,11/29/2014,FBS,Connecticut,Memphis,PUNT RETURNS,Deshon,Foxx,YDS,0
+1662063,11/29/2014,FBS,Connecticut,Memphis,PUNT RETURNS,Deshon,Foxx,AVG,-
+1662064,11/29/2014,FBS,Connecticut,Memphis,PUNT RETURNS,Deshon,Foxx,LONG,0
+1662065,11/29/2014,FBS,Connecticut,Memphis,KICK RETURNS,Arkeel,Newsome,NO,1
+1662066,11/29/2014,FBS,Connecticut,Memphis,KICK RETURNS,Arkeel,Newsome,YDS,16
+1662067,11/29/2014,FBS,Connecticut,Memphis,KICK RETURNS,Arkeel,Newsome,AVG,16.0
+1662068,11/29/2014,FBS,Connecticut,Memphis,KICK RETURNS,Arkeel,Newsome,LONG,16
+1662069,11/29/2014,FBS,Memphis,Connecticut,RUSHING,Brandon,Hayes,ATT,17
+1662070,11/29/2014,FBS,Memphis,Connecticut,RUSHING,Brandon,Hayes,YDS,60
+1662071,11/29/2014,FBS,Memphis,Connecticut,RUSHING,Brandon,Hayes,TD,0
+1662072,11/29/2014,FBS,Memphis,Connecticut,RUSHING,Brandon,Hayes,LONG,12
+1662073,11/29/2014,FBS,Memphis,Connecticut,RUSHING,Jarvis,Cooper,ATT,8
+1662074,11/29/2014,FBS,Memphis,Connecticut,RUSHING,Jarvis,Cooper,YDS,48
+1662075,11/29/2014,FBS,Memphis,Connecticut,RUSHING,Jarvis,Cooper,TD,1
+1662076,11/29/2014,FBS,Memphis,Connecticut,RUSHING,Jarvis,Cooper,LONG,18
+1662077,11/29/2014,FBS,Memphis,Connecticut,RUSHING,Paxton,Lynch,ATT,9
+1662078,11/29/2014,FBS,Memphis,Connecticut,RUSHING,Paxton,Lynch,YDS,40
+1662079,11/29/2014,FBS,Memphis,Connecticut,RUSHING,Paxton,Lynch,TD,0
+1662080,11/29/2014,FBS,Memphis,Connecticut,RUSHING,Paxton,Lynch,LONG,19
+1662081,11/29/2014,FBS,Memphis,Connecticut,RUSHING,Mose,Frazier,ATT,1
+1662082,11/29/2014,FBS,Memphis,Connecticut,RUSHING,Mose,Frazier,YDS,12
+1662083,11/29/2014,FBS,Memphis,Connecticut,RUSHING,Mose,Frazier,TD,0
+1662084,11/29/2014,FBS,Memphis,Connecticut,RUSHING,Mose,Frazier,LONG,12
+1662085,11/29/2014,FBS,Memphis,Connecticut,RUSHING,Drew,Bishop,ATT,1
+1662086,11/29/2014,FBS,Memphis,Connecticut,RUSHING,Drew,Bishop,YDS,6
+1662087,11/29/2014,FBS,Memphis,Connecticut,RUSHING,Drew,Bishop,TD,0
+1662088,11/29/2014,FBS,Memphis,Connecticut,RUSHING,Drew,Bishop,LONG,6
+1662089,11/29/2014,FBS,Memphis,Connecticut,RUSHING,Tearris,Wallace,ATT,2
+1662090,11/29/2014,FBS,Memphis,Connecticut,RUSHING,Tearris,Wallace,YDS,6
+1662091,11/29/2014,FBS,Memphis,Connecticut,RUSHING,Tearris,Wallace,TD,0
+1662092,11/29/2014,FBS,Memphis,Connecticut,RUSHING,Tearris,Wallace,LONG,4
+1662093,11/29/2014,FBS,Memphis,Connecticut,RUSHING,Robert,Davis,ATT,1
+1662094,11/29/2014,FBS,Memphis,Connecticut,RUSHING,Robert,Davis,YDS,3
+1662095,11/29/2014,FBS,Memphis,Connecticut,RUSHING,Robert,Davis,TD,0
+1662096,11/29/2014,FBS,Memphis,Connecticut,RUSHING,Robert,Davis,LONG,3
+1662097,11/29/2014,FBS,Memphis,Connecticut,RUSHING,Sam,Craft,ATT,4
+1662098,11/29/2014,FBS,Memphis,Connecticut,RUSHING,Sam,Craft,YDS,2
+1662099,11/29/2014,FBS,Memphis,Connecticut,RUSHING,Sam,Craft,TD,0
+1662100,11/29/2014,FBS,Memphis,Connecticut,RUSHING,Sam,Craft,LONG,3
+1662101,11/29/2014,FBS,Memphis,Connecticut,RUSHING,Roderick,Proctor,ATT,1
+1662102,11/29/2014,FBS,Memphis,Connecticut,RUSHING,Roderick,Proctor,YDS,1
+1662103,11/29/2014,FBS,Memphis,Connecticut,RUSHING,Roderick,Proctor,TD,0
+1662104,11/29/2014,FBS,Memphis,Connecticut,RUSHING,Roderick,Proctor,LONG,1
+1662105,11/29/2014,FBS,Memphis,Connecticut,PASSING,Paxton,Lynch,CP-ATT-INT,22-41-0
+1662106,11/29/2014,FBS,Memphis,Connecticut,PASSING,Paxton,Lynch,YDS,194
+1662107,11/29/2014,FBS,Memphis,Connecticut,PASSING,Paxton,Lynch,TD,4
+1662108,11/29/2014,FBS,Memphis,Connecticut,PASSING,Paxton,Lynch,LONG,21
+1662109,11/29/2014,FBS,Memphis,Connecticut,RECEIVING,Keiwone,Malone,REC,7
+1662110,11/29/2014,FBS,Memphis,Connecticut,RECEIVING,Keiwone,Malone,YDS,70
+1662111,11/29/2014,FBS,Memphis,Connecticut,RECEIVING,Keiwone,Malone,TD,2
+1662112,11/29/2014,FBS,Memphis,Connecticut,RECEIVING,Keiwone,Malone,LONG,19
+1662113,11/29/2014,FBS,Memphis,Connecticut,RECEIVING,Adrian,Henderson,REC,2
+1662114,11/29/2014,FBS,Memphis,Connecticut,RECEIVING,Adrian,Henderson,YDS,33
+1662115,11/29/2014,FBS,Memphis,Connecticut,RECEIVING,Adrian,Henderson,TD,0
+1662116,11/29/2014,FBS,Memphis,Connecticut,RECEIVING,Adrian,Henderson,LONG,17
+1662117,11/29/2014,FBS,Memphis,Connecticut,RECEIVING,Phil,Mayhue,REC,3
+1662118,11/29/2014,FBS,Memphis,Connecticut,RECEIVING,Phil,Mayhue,YDS,33
+1662119,11/29/2014,FBS,Memphis,Connecticut,RECEIVING,Phil,Mayhue,TD,1
+1662120,11/29/2014,FBS,Memphis,Connecticut,RECEIVING,Phil,Mayhue,LONG,21
+1662121,11/29/2014,FBS,Memphis,Connecticut,RECEIVING,Roderick,Proctor,REC,3
+1662122,11/29/2014,FBS,Memphis,Connecticut,RECEIVING,Roderick,Proctor,YDS,24
+1662123,11/29/2014,FBS,Memphis,Connecticut,RECEIVING,Roderick,Proctor,TD,0
+1662124,11/29/2014,FBS,Memphis,Connecticut,RECEIVING,Roderick,Proctor,LONG,11
+1662125,11/29/2014,FBS,Memphis,Connecticut,RECEIVING,Mose,Frazier,REC,5
+1662126,11/29/2014,FBS,Memphis,Connecticut,RECEIVING,Mose,Frazier,YDS,16
+1662127,11/29/2014,FBS,Memphis,Connecticut,RECEIVING,Mose,Frazier,TD,0
+1662128,11/29/2014,FBS,Memphis,Connecticut,RECEIVING,Mose,Frazier,LONG,5
+1662129,11/29/2014,FBS,Memphis,Connecticut,RECEIVING,Tevin,Jones,REC,1
+1662130,11/29/2014,FBS,Memphis,Connecticut,RECEIVING,Tevin,Jones,YDS,12
+1662131,11/29/2014,FBS,Memphis,Connecticut,RECEIVING,Tevin,Jones,TD,1
+1662132,11/29/2014,FBS,Memphis,Connecticut,RECEIVING,Tevin,Jones,LONG,12
+1662133,11/29/2014,FBS,Memphis,Connecticut,RECEIVING,Alan,Cross,REC,1
+1662134,11/29/2014,FBS,Memphis,Connecticut,RECEIVING,Alan,Cross,YDS,6
+1662135,11/29/2014,FBS,Memphis,Connecticut,RECEIVING,Alan,Cross,TD,0
+1662136,11/29/2014,FBS,Memphis,Connecticut,RECEIVING,Alan,Cross,LONG,6
+1662137,11/29/2014,FBS,Memphis,Connecticut,KICKING,Jake,Elliott,FG-FGA,2/2
+1662138,11/29/2014,FBS,Memphis,Connecticut,KICKING,Jake,Elliott,LONG,22
+1662139,11/29/2014,FBS,Memphis,Connecticut,KICKING,Jake,Elliott,XP,5
+1662140,11/29/2014,FBS,Memphis,Connecticut,KICKING,Jake,Elliott,PTS,11
+1662141,11/29/2014,FBS,Memphis,Connecticut,PUNTING,Spencer,Smith,NO,6
+1662142,11/29/2014,FBS,Memphis,Connecticut,PUNTING,Spencer,Smith,YDS,226
+1662143,11/29/2014,FBS,Memphis,Connecticut,PUNTING,Spencer,Smith,AVG,37.7
+1662144,11/29/2014,FBS,Memphis,Connecticut,PUNTING,Spencer,Smith,LONG,53
+1662145,11/29/2014,FBS,Memphis,Connecticut,PUNTING,Nick,Jacobs,NO,1
+1662146,11/29/2014,FBS,Memphis,Connecticut,PUNTING,Nick,Jacobs,YDS,30
+1662147,11/29/2014,FBS,Memphis,Connecticut,PUNTING,Nick,Jacobs,AVG,30.0
+1662148,11/29/2014,FBS,Memphis,Connecticut,PUNTING,Nick,Jacobs,LONG,30
+1662149,11/29/2014,FBS,Memphis,Connecticut,PUNT RETURNS,Keiwone,Malone,NO,1
+1662150,11/29/2014,FBS,Memphis,Connecticut,PUNT RETURNS,Keiwone,Malone,YDS,0
+1662151,11/29/2014,FBS,Memphis,Connecticut,PUNT RETURNS,Keiwone,Malone,AVG,-
+1662152,11/29/2014,FBS,Memphis,Connecticut,PUNT RETURNS,Keiwone,Malone,LONG,0
+1662153,11/29/2014,FBS,Memphis,Connecticut,KICK RETURNS,Joe,Craig,NO,2
+1662154,11/29/2014,FBS,Memphis,Connecticut,KICK RETURNS,Joe,Craig,YDS,32
+1662155,11/29/2014,FBS,Memphis,Connecticut,KICK RETURNS,Joe,Craig,AVG,16.0
+1662156,11/29/2014,FBS,Memphis,Connecticut,KICK RETURNS,Joe,Craig,LONG,16
+1662157,11/29/2014,FBS,Memphis,Connecticut,KICK RETURNS,Brandon,Hayes,NO,1
+1662158,11/29/2014,FBS,Memphis,Connecticut,KICK RETURNS,Brandon,Hayes,YDS,10
+1662159,11/29/2014,FBS,Memphis,Connecticut,KICK RETURNS,Brandon,Hayes,AVG,10.0
+1662160,11/29/2014,FBS,Memphis,Connecticut,KICK RETURNS,Brandon,Hayes,LONG,10

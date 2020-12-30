@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1687001,11/29/2014,FBS,Tennessee,Vanderbilt,RUSHING,Joshua,Dobbs,ATT,21
+1687002,11/29/2014,FBS,Tennessee,Vanderbilt,RUSHING,Joshua,Dobbs,YDS,91
+1687003,11/29/2014,FBS,Tennessee,Vanderbilt,RUSHING,Joshua,Dobbs,TD,2
+1687004,11/29/2014,FBS,Tennessee,Vanderbilt,RUSHING,Joshua,Dobbs,LONG,23
+1687005,11/29/2014,FBS,Tennessee,Vanderbilt,RUSHING,Marlin,Lane,ATT,16
+1687006,11/29/2014,FBS,Tennessee,Vanderbilt,RUSHING,Marlin,Lane,YDS,51
+1687007,11/29/2014,FBS,Tennessee,Vanderbilt,RUSHING,Marlin,Lane,TD,0
+1687008,11/29/2014,FBS,Tennessee,Vanderbilt,RUSHING,Marlin,Lane,LONG,18
+1687009,11/29/2014,FBS,Tennessee,Vanderbilt,RUSHING,Jalen,Hurd,ATT,5
+1687010,11/29/2014,FBS,Tennessee,Vanderbilt,RUSHING,Jalen,Hurd,YDS,21
+1687011,11/29/2014,FBS,Tennessee,Vanderbilt,RUSHING,Jalen,Hurd,TD,0
+1687012,11/29/2014,FBS,Tennessee,Vanderbilt,RUSHING,Jalen,Hurd,LONG,8
+1687013,11/29/2014,FBS,Tennessee,Vanderbilt,RUSHING,Pig,Howard,ATT,1
+1687014,11/29/2014,FBS,Tennessee,Vanderbilt,RUSHING,Pig,Howard,YDS,8
+1687015,11/29/2014,FBS,Tennessee,Vanderbilt,RUSHING,Pig,Howard,TD,0
+1687016,11/29/2014,FBS,Tennessee,Vanderbilt,RUSHING,Pig,Howard,LONG,8
+1687017,11/29/2014,FBS,Tennessee,Vanderbilt,RUSHING,Von,Pearson,ATT,1
+1687018,11/29/2014,FBS,Tennessee,Vanderbilt,RUSHING,Von,Pearson,YDS,0
+1687019,11/29/2014,FBS,Tennessee,Vanderbilt,RUSHING,Von,Pearson,TD,0
+1687020,11/29/2014,FBS,Tennessee,Vanderbilt,RUSHING,Von,Pearson,LONG,0
+1687021,11/29/2014,FBS,Tennessee,Vanderbilt,RUSHING,,Team,ATT,1
+1687022,11/29/2014,FBS,Tennessee,Vanderbilt,RUSHING,,Team,YDS,-1
+1687023,11/29/2014,FBS,Tennessee,Vanderbilt,RUSHING,,Team,TD,0
+1687024,11/29/2014,FBS,Tennessee,Vanderbilt,RUSHING,,Team,LONG,-1
+1687025,11/29/2014,FBS,Tennessee,Vanderbilt,PASSING,Joshua,Dobbs,CP-ATT-INT,11-20-2
+1687026,11/29/2014,FBS,Tennessee,Vanderbilt,PASSING,Joshua,Dobbs,YDS,92
+1687027,11/29/2014,FBS,Tennessee,Vanderbilt,PASSING,Joshua,Dobbs,TD,0
+1687028,11/29/2014,FBS,Tennessee,Vanderbilt,PASSING,Joshua,Dobbs,LONG,33
+1687029,11/29/2014,FBS,Tennessee,Vanderbilt,RECEIVING,Pig,Howard,REC,5
+1687030,11/29/2014,FBS,Tennessee,Vanderbilt,RECEIVING,Pig,Howard,YDS,55
+1687031,11/29/2014,FBS,Tennessee,Vanderbilt,RECEIVING,Pig,Howard,TD,0
+1687032,11/29/2014,FBS,Tennessee,Vanderbilt,RECEIVING,Pig,Howard,LONG,33
+1687033,11/29/2014,FBS,Tennessee,Vanderbilt,RECEIVING,Marlin,Lane,REC,3
+1687034,11/29/2014,FBS,Tennessee,Vanderbilt,RECEIVING,Marlin,Lane,YDS,25
+1687035,11/29/2014,FBS,Tennessee,Vanderbilt,RECEIVING,Marlin,Lane,TD,0
+1687036,11/29/2014,FBS,Tennessee,Vanderbilt,RECEIVING,Marlin,Lane,LONG,26
+1687037,11/29/2014,FBS,Tennessee,Vanderbilt,RECEIVING,Von,Pearson,REC,3
+1687038,11/29/2014,FBS,Tennessee,Vanderbilt,RECEIVING,Von,Pearson,YDS,12
+1687039,11/29/2014,FBS,Tennessee,Vanderbilt,RECEIVING,Von,Pearson,TD,0
+1687040,11/29/2014,FBS,Tennessee,Vanderbilt,RECEIVING,Von,Pearson,LONG,12
+1687041,11/29/2014,FBS,Tennessee,Vanderbilt,KICKING,Aaron,Medley,FG-FGA,1/1
+1687042,11/29/2014,FBS,Tennessee,Vanderbilt,KICKING,Aaron,Medley,LONG,36
+1687043,11/29/2014,FBS,Tennessee,Vanderbilt,KICKING,Aaron,Medley,XP,3
+1687044,11/29/2014,FBS,Tennessee,Vanderbilt,KICKING,Aaron,Medley,PTS,6
+1687045,11/29/2014,FBS,Tennessee,Vanderbilt,PUNTING,Matt,Darr,NO,7
+1687046,11/29/2014,FBS,Tennessee,Vanderbilt,PUNTING,Matt,Darr,YDS,339
+1687047,11/29/2014,FBS,Tennessee,Vanderbilt,PUNTING,Matt,Darr,AVG,48.4
+1687048,11/29/2014,FBS,Tennessee,Vanderbilt,PUNTING,Matt,Darr,LONG,60
+1687049,11/29/2014,FBS,Tennessee,Vanderbilt,PUNT RETURNS,Cameron,Sutton,NO,2
+1687050,11/29/2014,FBS,Tennessee,Vanderbilt,PUNT RETURNS,Cameron,Sutton,YDS,74
+1687051,11/29/2014,FBS,Tennessee,Vanderbilt,PUNT RETURNS,Cameron,Sutton,AVG,37.0
+1687052,11/29/2014,FBS,Tennessee,Vanderbilt,PUNT RETURNS,Cameron,Sutton,LONG,76
+1687053,11/29/2014,FBS,Tennessee,Vanderbilt,KICK RETURNS,Evan,Berry,NO,1
+1687054,11/29/2014,FBS,Tennessee,Vanderbilt,KICK RETURNS,Evan,Berry,YDS,11
+1687055,11/29/2014,FBS,Tennessee,Vanderbilt,KICK RETURNS,Evan,Berry,AVG,11.0
+1687056,11/29/2014,FBS,Tennessee,Vanderbilt,KICK RETURNS,Evan,Berry,LONG,11
+1687057,11/29/2014,FBS,Vanderbilt,Tennessee,RUSHING,Ralph,Webb,ATT,16
+1687058,11/29/2014,FBS,Vanderbilt,Tennessee,RUSHING,Ralph,Webb,YDS,55
+1687059,11/29/2014,FBS,Vanderbilt,Tennessee,RUSHING,Ralph,Webb,TD,1
+1687060,11/29/2014,FBS,Vanderbilt,Tennessee,RUSHING,Ralph,Webb,LONG,19
+1687061,11/29/2014,FBS,Vanderbilt,Tennessee,RUSHING,Patton,Robinette,ATT,12
+1687062,11/29/2014,FBS,Vanderbilt,Tennessee,RUSHING,Patton,Robinette,YDS,37
+1687063,11/29/2014,FBS,Vanderbilt,Tennessee,RUSHING,Patton,Robinette,TD,0
+1687064,11/29/2014,FBS,Vanderbilt,Tennessee,RUSHING,Patton,Robinette,LONG,20
+1687065,11/29/2014,FBS,Vanderbilt,Tennessee,RUSHING,Dallas,Rivers,ATT,5
+1687066,11/29/2014,FBS,Vanderbilt,Tennessee,RUSHING,Dallas,Rivers,YDS,23
+1687067,11/29/2014,FBS,Vanderbilt,Tennessee,RUSHING,Dallas,Rivers,TD,0
+1687068,11/29/2014,FBS,Vanderbilt,Tennessee,RUSHING,Dallas,Rivers,LONG,11
+1687069,11/29/2014,FBS,Vanderbilt,Tennessee,RUSHING,Johnny,McCrary,ATT,3
+1687070,11/29/2014,FBS,Vanderbilt,Tennessee,RUSHING,Johnny,McCrary,YDS,8
+1687071,11/29/2014,FBS,Vanderbilt,Tennessee,RUSHING,Johnny,McCrary,TD,0
+1687072,11/29/2014,FBS,Vanderbilt,Tennessee,RUSHING,Johnny,McCrary,LONG,4
+1687073,11/29/2014,FBS,Vanderbilt,Tennessee,PASSING,Patton,Robinette,CP-ATT-INT,11-22-2
+1687074,11/29/2014,FBS,Vanderbilt,Tennessee,PASSING,Patton,Robinette,YDS,131
+1687075,11/29/2014,FBS,Vanderbilt,Tennessee,PASSING,Patton,Robinette,TD,1
+1687076,11/29/2014,FBS,Vanderbilt,Tennessee,PASSING,Patton,Robinette,LONG,36
+1687077,11/29/2014,FBS,Vanderbilt,Tennessee,PASSING,Johnny,McCrary,CP-ATT-INT,2-7-1
+1687078,11/29/2014,FBS,Vanderbilt,Tennessee,PASSING,Johnny,McCrary,YDS,18
+1687079,11/29/2014,FBS,Vanderbilt,Tennessee,PASSING,Johnny,McCrary,TD,0
+1687080,11/29/2014,FBS,Vanderbilt,Tennessee,PASSING,Johnny,McCrary,LONG,9
+1687081,11/29/2014,FBS,Vanderbilt,Tennessee,PASSING,Josh,Grady,CP-ATT-INT,0-1-0
+1687082,11/29/2014,FBS,Vanderbilt,Tennessee,PASSING,Josh,Grady,YDS,0
+1687083,11/29/2014,FBS,Vanderbilt,Tennessee,PASSING,Josh,Grady,TD,0
+1687084,11/29/2014,FBS,Vanderbilt,Tennessee,PASSING,Josh,Grady,LONG,0
+1687085,11/29/2014,FBS,Vanderbilt,Tennessee,RECEIVING,Steven,Scheu,REC,3
+1687086,11/29/2014,FBS,Vanderbilt,Tennessee,RECEIVING,Steven,Scheu,YDS,62
+1687087,11/29/2014,FBS,Vanderbilt,Tennessee,RECEIVING,Steven,Scheu,TD,1
+1687088,11/29/2014,FBS,Vanderbilt,Tennessee,RECEIVING,Steven,Scheu,LONG,36
+1687089,11/29/2014,FBS,Vanderbilt,Tennessee,RECEIVING,Latevius,Rayford,REC,3
+1687090,11/29/2014,FBS,Vanderbilt,Tennessee,RECEIVING,Latevius,Rayford,YDS,35
+1687091,11/29/2014,FBS,Vanderbilt,Tennessee,RECEIVING,Latevius,Rayford,TD,0
+1687092,11/29/2014,FBS,Vanderbilt,Tennessee,RECEIVING,Latevius,Rayford,LONG,13
+1687093,11/29/2014,FBS,Vanderbilt,Tennessee,RECEIVING,Kris,Kentera,REC,1
+1687094,11/29/2014,FBS,Vanderbilt,Tennessee,RECEIVING,Kris,Kentera,YDS,18
+1687095,11/29/2014,FBS,Vanderbilt,Tennessee,RECEIVING,Kris,Kentera,TD,0
+1687096,11/29/2014,FBS,Vanderbilt,Tennessee,RECEIVING,Kris,Kentera,LONG,18
+1687097,11/29/2014,FBS,Vanderbilt,Tennessee,RECEIVING,Chandler,Dorrell,REC,2
+1687098,11/29/2014,FBS,Vanderbilt,Tennessee,RECEIVING,Chandler,Dorrell,YDS,14
+1687099,11/29/2014,FBS,Vanderbilt,Tennessee,RECEIVING,Chandler,Dorrell,TD,0
+1687100,11/29/2014,FBS,Vanderbilt,Tennessee,RECEIVING,Chandler,Dorrell,LONG,9
+1687101,11/29/2014,FBS,Vanderbilt,Tennessee,RECEIVING,Nathan,Marcus,REC,1
+1687102,11/29/2014,FBS,Vanderbilt,Tennessee,RECEIVING,Nathan,Marcus,YDS,11
+1687103,11/29/2014,FBS,Vanderbilt,Tennessee,RECEIVING,Nathan,Marcus,TD,0
+1687104,11/29/2014,FBS,Vanderbilt,Tennessee,RECEIVING,Nathan,Marcus,LONG,11
+1687105,11/29/2014,FBS,Vanderbilt,Tennessee,RECEIVING,Caleb,Scott,REC,1
+1687106,11/29/2014,FBS,Vanderbilt,Tennessee,RECEIVING,Caleb,Scott,YDS,5
+1687107,11/29/2014,FBS,Vanderbilt,Tennessee,RECEIVING,Caleb,Scott,TD,0
+1687108,11/29/2014,FBS,Vanderbilt,Tennessee,RECEIVING,Caleb,Scott,LONG,5
+1687109,11/29/2014,FBS,Vanderbilt,Tennessee,RECEIVING,Davis,Dudchock,REC,1
+1687110,11/29/2014,FBS,Vanderbilt,Tennessee,RECEIVING,Davis,Dudchock,YDS,4
+1687111,11/29/2014,FBS,Vanderbilt,Tennessee,RECEIVING,Davis,Dudchock,TD,0
+1687112,11/29/2014,FBS,Vanderbilt,Tennessee,RECEIVING,Davis,Dudchock,LONG,4
+1687113,11/29/2014,FBS,Vanderbilt,Tennessee,RECEIVING,Ralph,Webb,REC,1
+1687114,11/29/2014,FBS,Vanderbilt,Tennessee,RECEIVING,Ralph,Webb,YDS,0
+1687115,11/29/2014,FBS,Vanderbilt,Tennessee,RECEIVING,Ralph,Webb,TD,0
+1687116,11/29/2014,FBS,Vanderbilt,Tennessee,RECEIVING,Ralph,Webb,LONG,0
+1687117,11/29/2014,FBS,Vanderbilt,Tennessee,KICKING,Tommy,Openshaw,FG-FGA,1/1
+1687118,11/29/2014,FBS,Vanderbilt,Tennessee,KICKING,Tommy,Openshaw,LONG,36
+1687119,11/29/2014,FBS,Vanderbilt,Tennessee,KICKING,Tommy,Openshaw,XP,2
+1687120,11/29/2014,FBS,Vanderbilt,Tennessee,KICKING,Tommy,Openshaw,PTS,5
+1687121,11/29/2014,FBS,Vanderbilt,Tennessee,PUNTING,Colby,Cooke,NO,6
+1687122,11/29/2014,FBS,Vanderbilt,Tennessee,PUNTING,Colby,Cooke,YDS,276
+1687123,11/29/2014,FBS,Vanderbilt,Tennessee,PUNTING,Colby,Cooke,AVG,46.0
+1687124,11/29/2014,FBS,Vanderbilt,Tennessee,PUNTING,Colby,Cooke,LONG,55
+1687125,11/29/2014,FBS,Vanderbilt,Tennessee,PUNT RETURNS,Trey,Ellis,NO,2
+1687126,11/29/2014,FBS,Vanderbilt,Tennessee,PUNT RETURNS,Trey,Ellis,YDS,6
+1687127,11/29/2014,FBS,Vanderbilt,Tennessee,PUNT RETURNS,Trey,Ellis,AVG,3.0
+1687128,11/29/2014,FBS,Vanderbilt,Tennessee,PUNT RETURNS,Trey,Ellis,LONG,4
+1687129,11/29/2014,FBS,Vanderbilt,Tennessee,KICK RETURNS,Darrius,Sims,NO,3
+1687130,11/29/2014,FBS,Vanderbilt,Tennessee,KICK RETURNS,Darrius,Sims,YDS,47
+1687131,11/29/2014,FBS,Vanderbilt,Tennessee,KICK RETURNS,Darrius,Sims,AVG,15.7
+1687132,11/29/2014,FBS,Vanderbilt,Tennessee,KICK RETURNS,Darrius,Sims,LONG,26
+1687133,11/29/2014,FBS,Vanderbilt,Tennessee,KICK RETURNS,Dallas,Rivers,NO,0
+1687134,11/29/2014,FBS,Vanderbilt,Tennessee,KICK RETURNS,Dallas,Rivers,YDS,9
+1687135,11/29/2014,FBS,Vanderbilt,Tennessee,KICK RETURNS,Dallas,Rivers,AVG,-
+1687136,11/29/2014,FBS,Vanderbilt,Tennessee,KICK RETURNS,Dallas,Rivers,LONG,0

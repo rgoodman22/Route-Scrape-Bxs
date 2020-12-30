@@ -1,0 +1,185 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1330001,10/18/2014,FBS,Washington,Oregon,RUSHING,John,Ross,ATT,2
+1330002,10/18/2014,FBS,Washington,Oregon,RUSHING,John,Ross,YDS,44
+1330003,10/18/2014,FBS,Washington,Oregon,RUSHING,John,Ross,TD,0
+1330004,10/18/2014,FBS,Washington,Oregon,RUSHING,John,Ross,LONG,32
+1330005,10/18/2014,FBS,Washington,Oregon,RUSHING,Lavon,Coleman,ATT,12
+1330006,10/18/2014,FBS,Washington,Oregon,RUSHING,Lavon,Coleman,YDS,28
+1330007,10/18/2014,FBS,Washington,Oregon,RUSHING,Lavon,Coleman,TD,0
+1330008,10/18/2014,FBS,Washington,Oregon,RUSHING,Lavon,Coleman,LONG,7
+1330009,10/18/2014,FBS,Washington,Oregon,RUSHING,Troy,Williams,ATT,5
+1330010,10/18/2014,FBS,Washington,Oregon,RUSHING,Troy,Williams,YDS,28
+1330011,10/18/2014,FBS,Washington,Oregon,RUSHING,Troy,Williams,TD,1
+1330012,10/18/2014,FBS,Washington,Oregon,RUSHING,Troy,Williams,LONG,15
+1330013,10/18/2014,FBS,Washington,Oregon,RUSHING,Deontae,Cooper,ATT,5
+1330014,10/18/2014,FBS,Washington,Oregon,RUSHING,Deontae,Cooper,YDS,23
+1330015,10/18/2014,FBS,Washington,Oregon,RUSHING,Deontae,Cooper,TD,0
+1330016,10/18/2014,FBS,Washington,Oregon,RUSHING,Deontae,Cooper,LONG,8
+1330017,10/18/2014,FBS,Washington,Oregon,RUSHING,Cyler,Miles,ATT,6
+1330018,10/18/2014,FBS,Washington,Oregon,RUSHING,Cyler,Miles,YDS,13
+1330019,10/18/2014,FBS,Washington,Oregon,RUSHING,Cyler,Miles,TD,0
+1330020,10/18/2014,FBS,Washington,Oregon,RUSHING,Cyler,Miles,LONG,15
+1330021,10/18/2014,FBS,Washington,Oregon,RUSHING,Jaydon,Mickens,ATT,2
+1330022,10/18/2014,FBS,Washington,Oregon,RUSHING,Jaydon,Mickens,YDS,12
+1330023,10/18/2014,FBS,Washington,Oregon,RUSHING,Jaydon,Mickens,TD,0
+1330024,10/18/2014,FBS,Washington,Oregon,RUSHING,Jaydon,Mickens,LONG,9
+1330025,10/18/2014,FBS,Washington,Oregon,RUSHING,Marvin,Hall,ATT,1
+1330026,10/18/2014,FBS,Washington,Oregon,RUSHING,Marvin,Hall,YDS,-3
+1330027,10/18/2014,FBS,Washington,Oregon,RUSHING,Marvin,Hall,TD,0
+1330028,10/18/2014,FBS,Washington,Oregon,RUSHING,Marvin,Hall,LONG,-3
+1330029,10/18/2014,FBS,Washington,Oregon,RUSHING,,Team,ATT,1
+1330030,10/18/2014,FBS,Washington,Oregon,RUSHING,,Team,YDS,-4
+1330031,10/18/2014,FBS,Washington,Oregon,RUSHING,,Team,TD,0
+1330032,10/18/2014,FBS,Washington,Oregon,RUSHING,,Team,LONG,-4
+1330033,10/18/2014,FBS,Washington,Oregon,RUSHING,Dwayne,Washington,ATT,2
+1330034,10/18/2014,FBS,Washington,Oregon,RUSHING,Dwayne,Washington,YDS,-8
+1330035,10/18/2014,FBS,Washington,Oregon,RUSHING,Dwayne,Washington,TD,0
+1330036,10/18/2014,FBS,Washington,Oregon,RUSHING,Dwayne,Washington,LONG,-3
+1330037,10/18/2014,FBS,Washington,Oregon,PASSING,Cyler,Miles,CP-ATT-INT,19-28-1
+1330038,10/18/2014,FBS,Washington,Oregon,PASSING,Cyler,Miles,YDS,147
+1330039,10/18/2014,FBS,Washington,Oregon,PASSING,Cyler,Miles,TD,1
+1330040,10/18/2014,FBS,Washington,Oregon,PASSING,Cyler,Miles,LONG,31
+1330041,10/18/2014,FBS,Washington,Oregon,PASSING,Troy,Williams,CP-ATT-INT,5-10-0
+1330042,10/18/2014,FBS,Washington,Oregon,PASSING,Troy,Williams,YDS,37
+1330043,10/18/2014,FBS,Washington,Oregon,PASSING,Troy,Williams,TD,0
+1330044,10/18/2014,FBS,Washington,Oregon,PASSING,Troy,Williams,LONG,18
+1330045,10/18/2014,FBS,Washington,Oregon,RECEIVING,Deontae,Cooper,REC,6
+1330046,10/18/2014,FBS,Washington,Oregon,RECEIVING,Deontae,Cooper,YDS,48
+1330047,10/18/2014,FBS,Washington,Oregon,RECEIVING,Deontae,Cooper,TD,1
+1330048,10/18/2014,FBS,Washington,Oregon,RECEIVING,Deontae,Cooper,LONG,18
+1330049,10/18/2014,FBS,Washington,Oregon,RECEIVING,Lavon,Coleman,REC,3
+1330050,10/18/2014,FBS,Washington,Oregon,RECEIVING,Lavon,Coleman,YDS,34
+1330051,10/18/2014,FBS,Washington,Oregon,RECEIVING,Lavon,Coleman,TD,0
+1330052,10/18/2014,FBS,Washington,Oregon,RECEIVING,Lavon,Coleman,LONG,31
+1330053,10/18/2014,FBS,Washington,Oregon,RECEIVING,Dante,Pettis,REC,2
+1330054,10/18/2014,FBS,Washington,Oregon,RECEIVING,Dante,Pettis,YDS,23
+1330055,10/18/2014,FBS,Washington,Oregon,RECEIVING,Dante,Pettis,TD,0
+1330056,10/18/2014,FBS,Washington,Oregon,RECEIVING,Dante,Pettis,LONG,12
+1330057,10/18/2014,FBS,Washington,Oregon,RECEIVING,Jaydon,Mickens,REC,3
+1330058,10/18/2014,FBS,Washington,Oregon,RECEIVING,Jaydon,Mickens,YDS,22
+1330059,10/18/2014,FBS,Washington,Oregon,RECEIVING,Jaydon,Mickens,TD,0
+1330060,10/18/2014,FBS,Washington,Oregon,RECEIVING,Jaydon,Mickens,LONG,13
+1330061,10/18/2014,FBS,Washington,Oregon,RECEIVING,Dwayne,Washington,REC,3
+1330062,10/18/2014,FBS,Washington,Oregon,RECEIVING,Dwayne,Washington,YDS,20
+1330063,10/18/2014,FBS,Washington,Oregon,RECEIVING,Dwayne,Washington,TD,0
+1330064,10/18/2014,FBS,Washington,Oregon,RECEIVING,Dwayne,Washington,LONG,10
+1330065,10/18/2014,FBS,Washington,Oregon,RECEIVING,John,Ross,REC,3
+1330066,10/18/2014,FBS,Washington,Oregon,RECEIVING,John,Ross,YDS,15
+1330067,10/18/2014,FBS,Washington,Oregon,RECEIVING,John,Ross,TD,0
+1330068,10/18/2014,FBS,Washington,Oregon,RECEIVING,John,Ross,LONG,7
+1330069,10/18/2014,FBS,Washington,Oregon,RECEIVING,Brayden,Lenius,REC,2
+1330070,10/18/2014,FBS,Washington,Oregon,RECEIVING,Brayden,Lenius,YDS,9
+1330071,10/18/2014,FBS,Washington,Oregon,RECEIVING,Brayden,Lenius,TD,0
+1330072,10/18/2014,FBS,Washington,Oregon,RECEIVING,Brayden,Lenius,LONG,5
+1330073,10/18/2014,FBS,Washington,Oregon,RECEIVING,Joshua,Perkins,REC,1
+1330074,10/18/2014,FBS,Washington,Oregon,RECEIVING,Joshua,Perkins,YDS,8
+1330075,10/18/2014,FBS,Washington,Oregon,RECEIVING,Joshua,Perkins,TD,0
+1330076,10/18/2014,FBS,Washington,Oregon,RECEIVING,Joshua,Perkins,LONG,8
+1330077,10/18/2014,FBS,Washington,Oregon,RECEIVING,DiAndre,Campbell,REC,1
+1330078,10/18/2014,FBS,Washington,Oregon,RECEIVING,DiAndre,Campbell,YDS,5
+1330079,10/18/2014,FBS,Washington,Oregon,RECEIVING,DiAndre,Campbell,TD,0
+1330080,10/18/2014,FBS,Washington,Oregon,RECEIVING,DiAndre,Campbell,LONG,5
+1330081,10/18/2014,FBS,Washington,Oregon,KICKING,Cameron,VanWinkle,FG-FGA,2/2
+1330082,10/18/2014,FBS,Washington,Oregon,KICKING,Cameron,VanWinkle,LONG,40
+1330083,10/18/2014,FBS,Washington,Oregon,KICKING,Cameron,VanWinkle,XP,2
+1330084,10/18/2014,FBS,Washington,Oregon,KICKING,Cameron,VanWinkle,PTS,8
+1330085,10/18/2014,FBS,Washington,Oregon,PUNTING,Korey,Durkee,NO,3
+1330086,10/18/2014,FBS,Washington,Oregon,PUNTING,Korey,Durkee,YDS,132
+1330087,10/18/2014,FBS,Washington,Oregon,PUNTING,Korey,Durkee,AVG,44.0
+1330088,10/18/2014,FBS,Washington,Oregon,PUNTING,Korey,Durkee,LONG,50
+1330089,10/18/2014,FBS,Washington,Oregon,PUNTING,Cyler,Miles,NO,1
+1330090,10/18/2014,FBS,Washington,Oregon,PUNTING,Cyler,Miles,YDS,41
+1330091,10/18/2014,FBS,Washington,Oregon,PUNTING,Cyler,Miles,AVG,41.0
+1330092,10/18/2014,FBS,Washington,Oregon,PUNTING,Cyler,Miles,LONG,41
+1330093,10/18/2014,FBS,Washington,Oregon,PUNT RETURNS,Dante,Pettis,NO,1
+1330094,10/18/2014,FBS,Washington,Oregon,PUNT RETURNS,Dante,Pettis,YDS,4
+1330095,10/18/2014,FBS,Washington,Oregon,PUNT RETURNS,Dante,Pettis,AVG,4.0
+1330096,10/18/2014,FBS,Washington,Oregon,PUNT RETURNS,Dante,Pettis,LONG,4
+1330097,10/18/2014,FBS,Washington,Oregon,KICK RETURNS,John,Ross,NO,3
+1330098,10/18/2014,FBS,Washington,Oregon,KICK RETURNS,John,Ross,YDS,60
+1330099,10/18/2014,FBS,Washington,Oregon,KICK RETURNS,John,Ross,AVG,20.0
+1330100,10/18/2014,FBS,Washington,Oregon,KICK RETURNS,John,Ross,LONG,28
+1330101,10/18/2014,FBS,Oregon,Washington,RUSHING,Royce,Freeman,ATT,29
+1330102,10/18/2014,FBS,Oregon,Washington,RUSHING,Royce,Freeman,YDS,169
+1330103,10/18/2014,FBS,Oregon,Washington,RUSHING,Royce,Freeman,TD,4
+1330104,10/18/2014,FBS,Oregon,Washington,RUSHING,Royce,Freeman,LONG,37
+1330105,10/18/2014,FBS,Oregon,Washington,RUSHING,Byron,Marshall,ATT,5
+1330106,10/18/2014,FBS,Oregon,Washington,RUSHING,Byron,Marshall,YDS,30
+1330107,10/18/2014,FBS,Oregon,Washington,RUSHING,Byron,Marshall,TD,0
+1330108,10/18/2014,FBS,Oregon,Washington,RUSHING,Byron,Marshall,LONG,14
+1330109,10/18/2014,FBS,Oregon,Washington,RUSHING,Kenny,Bassett,ATT,6
+1330110,10/18/2014,FBS,Oregon,Washington,RUSHING,Kenny,Bassett,YDS,20
+1330111,10/18/2014,FBS,Oregon,Washington,RUSHING,Kenny,Bassett,TD,0
+1330112,10/18/2014,FBS,Oregon,Washington,RUSHING,Kenny,Bassett,LONG,12
+1330113,10/18/2014,FBS,Oregon,Washington,RUSHING,Thomas,Tyner,ATT,3
+1330114,10/18/2014,FBS,Oregon,Washington,RUSHING,Thomas,Tyner,YDS,0
+1330115,10/18/2014,FBS,Oregon,Washington,RUSHING,Thomas,Tyner,TD,0
+1330116,10/18/2014,FBS,Oregon,Washington,RUSHING,Thomas,Tyner,LONG,1
+1330117,10/18/2014,FBS,Oregon,Washington,RUSHING,Marcus,Mariota,ATT,7
+1330118,10/18/2014,FBS,Oregon,Washington,RUSHING,Marcus,Mariota,YDS,-1
+1330119,10/18/2014,FBS,Oregon,Washington,RUSHING,Marcus,Mariota,TD,0
+1330120,10/18/2014,FBS,Oregon,Washington,RUSHING,Marcus,Mariota,LONG,12
+1330121,10/18/2014,FBS,Oregon,Washington,PASSING,Marcus,Mariota,CP-ATT-INT,24-33-0
+1330122,10/18/2014,FBS,Oregon,Washington,PASSING,Marcus,Mariota,YDS,336
+1330123,10/18/2014,FBS,Oregon,Washington,PASSING,Marcus,Mariota,TD,2
+1330124,10/18/2014,FBS,Oregon,Washington,PASSING,Marcus,Mariota,LONG,66
+1330125,10/18/2014,FBS,Oregon,Washington,RECEIVING,Pharaoh,Brown,REC,3
+1330126,10/18/2014,FBS,Oregon,Washington,RECEIVING,Pharaoh,Brown,YDS,99
+1330127,10/18/2014,FBS,Oregon,Washington,RECEIVING,Pharaoh,Brown,TD,0
+1330128,10/18/2014,FBS,Oregon,Washington,RECEIVING,Pharaoh,Brown,LONG,66
+1330129,10/18/2014,FBS,Oregon,Washington,RECEIVING,Darren,Carrington,REC,5
+1330130,10/18/2014,FBS,Oregon,Washington,RECEIVING,Darren,Carrington,YDS,79
+1330131,10/18/2014,FBS,Oregon,Washington,RECEIVING,Darren,Carrington,TD,0
+1330132,10/18/2014,FBS,Oregon,Washington,RECEIVING,Darren,Carrington,LONG,25
+1330133,10/18/2014,FBS,Oregon,Washington,RECEIVING,Dwayne,Stanford,REC,5
+1330134,10/18/2014,FBS,Oregon,Washington,RECEIVING,Dwayne,Stanford,YDS,55
+1330135,10/18/2014,FBS,Oregon,Washington,RECEIVING,Dwayne,Stanford,TD,1
+1330136,10/18/2014,FBS,Oregon,Washington,RECEIVING,Dwayne,Stanford,LONG,16
+1330137,10/18/2014,FBS,Oregon,Washington,RECEIVING,Byron,Marshall,REC,5
+1330138,10/18/2014,FBS,Oregon,Washington,RECEIVING,Byron,Marshall,YDS,48
+1330139,10/18/2014,FBS,Oregon,Washington,RECEIVING,Byron,Marshall,TD,1
+1330140,10/18/2014,FBS,Oregon,Washington,RECEIVING,Byron,Marshall,LONG,23
+1330141,10/18/2014,FBS,Oregon,Washington,RECEIVING,Devon,Allen,REC,2
+1330142,10/18/2014,FBS,Oregon,Washington,RECEIVING,Devon,Allen,YDS,28
+1330143,10/18/2014,FBS,Oregon,Washington,RECEIVING,Devon,Allen,TD,0
+1330144,10/18/2014,FBS,Oregon,Washington,RECEIVING,Devon,Allen,LONG,16
+1330145,10/18/2014,FBS,Oregon,Washington,RECEIVING,Thomas,Tyner,REC,1
+1330146,10/18/2014,FBS,Oregon,Washington,RECEIVING,Thomas,Tyner,YDS,13
+1330147,10/18/2014,FBS,Oregon,Washington,RECEIVING,Thomas,Tyner,TD,0
+1330148,10/18/2014,FBS,Oregon,Washington,RECEIVING,Thomas,Tyner,LONG,13
+1330149,10/18/2014,FBS,Oregon,Washington,RECEIVING,Evan,Baylis,REC,1
+1330150,10/18/2014,FBS,Oregon,Washington,RECEIVING,Evan,Baylis,YDS,10
+1330151,10/18/2014,FBS,Oregon,Washington,RECEIVING,Evan,Baylis,TD,0
+1330152,10/18/2014,FBS,Oregon,Washington,RECEIVING,Evan,Baylis,LONG,10
+1330153,10/18/2014,FBS,Oregon,Washington,RECEIVING,Royce,Freeman,REC,2
+1330154,10/18/2014,FBS,Oregon,Washington,RECEIVING,Royce,Freeman,YDS,4
+1330155,10/18/2014,FBS,Oregon,Washington,RECEIVING,Royce,Freeman,TD,0
+1330156,10/18/2014,FBS,Oregon,Washington,RECEIVING,Royce,Freeman,LONG,7
+1330157,10/18/2014,FBS,Oregon,Washington,KICKING,Matt,Wogan,FG-FGA,1/2
+1330158,10/18/2014,FBS,Oregon,Washington,KICKING,Matt,Wogan,LONG,26
+1330159,10/18/2014,FBS,Oregon,Washington,KICKING,Matt,Wogan,XP,6
+1330160,10/18/2014,FBS,Oregon,Washington,KICKING,Matt,Wogan,PTS,9
+1330161,10/18/2014,FBS,Oregon,Washington,PUNTING,Ian,Wheeler,NO,1
+1330162,10/18/2014,FBS,Oregon,Washington,PUNTING,Ian,Wheeler,YDS,36
+1330163,10/18/2014,FBS,Oregon,Washington,PUNTING,Ian,Wheeler,AVG,36.0
+1330164,10/18/2014,FBS,Oregon,Washington,PUNTING,Ian,Wheeler,LONG,36
+1330165,10/18/2014,FBS,Oregon,Washington,PUNT RETURNS,Charles,Nelson,NO,1
+1330166,10/18/2014,FBS,Oregon,Washington,PUNT RETURNS,Charles,Nelson,YDS,1
+1330167,10/18/2014,FBS,Oregon,Washington,PUNT RETURNS,Charles,Nelson,AVG,1.0
+1330168,10/18/2014,FBS,Oregon,Washington,PUNT RETURNS,Charles,Nelson,LONG,1
+1330169,10/18/2014,FBS,Oregon,Washington,KICK RETURNS,Charles,Nelson,NO,2
+1330170,10/18/2014,FBS,Oregon,Washington,KICK RETURNS,Charles,Nelson,YDS,38
+1330171,10/18/2014,FBS,Oregon,Washington,KICK RETURNS,Charles,Nelson,AVG,19.0
+1330172,10/18/2014,FBS,Oregon,Washington,KICK RETURNS,Charles,Nelson,LONG,19
+1330173,10/18/2014,FBS,Oregon,Washington,KICK RETURNS,Devon,Allen,NO,1
+1330174,10/18/2014,FBS,Oregon,Washington,KICK RETURNS,Devon,Allen,YDS,21
+1330175,10/18/2014,FBS,Oregon,Washington,KICK RETURNS,Devon,Allen,AVG,21.0
+1330176,10/18/2014,FBS,Oregon,Washington,KICK RETURNS,Devon,Allen,LONG,21
+1330177,10/18/2014,FBS,Oregon,Washington,KICK RETURNS,Erick,Dargan,NO,1
+1330178,10/18/2014,FBS,Oregon,Washington,KICK RETURNS,Erick,Dargan,YDS,20
+1330179,10/18/2014,FBS,Oregon,Washington,KICK RETURNS,Erick,Dargan,AVG,20.0
+1330180,10/18/2014,FBS,Oregon,Washington,KICK RETURNS,Erick,Dargan,LONG,20
+1330181,10/18/2014,FBS,Oregon,Washington,KICK RETURNS,Thomas,Tyner,NO,1
+1330182,10/18/2014,FBS,Oregon,Washington,KICK RETURNS,Thomas,Tyner,YDS,15
+1330183,10/18/2014,FBS,Oregon,Washington,KICK RETURNS,Thomas,Tyner,AVG,15.0
+1330184,10/18/2014,FBS,Oregon,Washington,KICK RETURNS,Thomas,Tyner,LONG,15

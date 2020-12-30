@@ -1,0 +1,173 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1280001,10/11/2014,FBS,West Virginia,Texas Tech,RUSHING,Wendell,Smallwood,ATT,15
+1280002,10/11/2014,FBS,West Virginia,Texas Tech,RUSHING,Wendell,Smallwood,YDS,123
+1280003,10/11/2014,FBS,West Virginia,Texas Tech,RUSHING,Wendell,Smallwood,TD,0
+1280004,10/11/2014,FBS,West Virginia,Texas Tech,RUSHING,Wendell,Smallwood,LONG,25
+1280005,10/11/2014,FBS,West Virginia,Texas Tech,RUSHING,Rushel,Shell,ATT,24
+1280006,10/11/2014,FBS,West Virginia,Texas Tech,RUSHING,Rushel,Shell,YDS,110
+1280007,10/11/2014,FBS,West Virginia,Texas Tech,RUSHING,Rushel,Shell,TD,2
+1280008,10/11/2014,FBS,West Virginia,Texas Tech,RUSHING,Rushel,Shell,LONG,12
+1280009,10/11/2014,FBS,West Virginia,Texas Tech,RUSHING,Andrew,Buie,ATT,4
+1280010,10/11/2014,FBS,West Virginia,Texas Tech,RUSHING,Andrew,Buie,YDS,10
+1280011,10/11/2014,FBS,West Virginia,Texas Tech,RUSHING,Andrew,Buie,TD,0
+1280012,10/11/2014,FBS,West Virginia,Texas Tech,RUSHING,Andrew,Buie,LONG,7
+1280013,10/11/2014,FBS,West Virginia,Texas Tech,RUSHING,Dreamius,Smith,ATT,2
+1280014,10/11/2014,FBS,West Virginia,Texas Tech,RUSHING,Dreamius,Smith,YDS,7
+1280015,10/11/2014,FBS,West Virginia,Texas Tech,RUSHING,Dreamius,Smith,TD,0
+1280016,10/11/2014,FBS,West Virginia,Texas Tech,RUSHING,Dreamius,Smith,LONG,7
+1280017,10/11/2014,FBS,West Virginia,Texas Tech,RUSHING,Jordan,Thompson,ATT,1
+1280018,10/11/2014,FBS,West Virginia,Texas Tech,RUSHING,Jordan,Thompson,YDS,6
+1280019,10/11/2014,FBS,West Virginia,Texas Tech,RUSHING,Jordan,Thompson,TD,0
+1280020,10/11/2014,FBS,West Virginia,Texas Tech,RUSHING,Jordan,Thompson,LONG,6
+1280021,10/11/2014,FBS,West Virginia,Texas Tech,RUSHING,Cody,Clay,ATT,1
+1280022,10/11/2014,FBS,West Virginia,Texas Tech,RUSHING,Cody,Clay,YDS,4
+1280023,10/11/2014,FBS,West Virginia,Texas Tech,RUSHING,Cody,Clay,TD,0
+1280024,10/11/2014,FBS,West Virginia,Texas Tech,RUSHING,Cody,Clay,LONG,4
+1280025,10/11/2014,FBS,West Virginia,Texas Tech,RUSHING,Clint,Trickett,ATT,3
+1280026,10/11/2014,FBS,West Virginia,Texas Tech,RUSHING,Clint,Trickett,YDS,-11
+1280027,10/11/2014,FBS,West Virginia,Texas Tech,RUSHING,Clint,Trickett,TD,0
+1280028,10/11/2014,FBS,West Virginia,Texas Tech,RUSHING,Clint,Trickett,LONG,4
+1280029,10/11/2014,FBS,West Virginia,Texas Tech,PASSING,Clint,Trickett,CP-ATT-INT,28-44-0
+1280030,10/11/2014,FBS,West Virginia,Texas Tech,PASSING,Clint,Trickett,YDS,301
+1280031,10/11/2014,FBS,West Virginia,Texas Tech,PASSING,Clint,Trickett,TD,2
+1280032,10/11/2014,FBS,West Virginia,Texas Tech,PASSING,Clint,Trickett,LONG,56
+1280033,10/11/2014,FBS,West Virginia,Texas Tech,RECEIVING,Kevin,White,REC,13
+1280034,10/11/2014,FBS,West Virginia,Texas Tech,RECEIVING,Kevin,White,YDS,123
+1280035,10/11/2014,FBS,West Virginia,Texas Tech,RECEIVING,Kevin,White,TD,1
+1280036,10/11/2014,FBS,West Virginia,Texas Tech,RECEIVING,Kevin,White,LONG,26
+1280037,10/11/2014,FBS,West Virginia,Texas Tech,RECEIVING,Jordan,Thompson,REC,6
+1280038,10/11/2014,FBS,West Virginia,Texas Tech,RECEIVING,Jordan,Thompson,YDS,109
+1280039,10/11/2014,FBS,West Virginia,Texas Tech,RECEIVING,Jordan,Thompson,TD,1
+1280040,10/11/2014,FBS,West Virginia,Texas Tech,RECEIVING,Jordan,Thompson,LONG,56
+1280041,10/11/2014,FBS,West Virginia,Texas Tech,RECEIVING,Daikiel,Shorts,REC,2
+1280042,10/11/2014,FBS,West Virginia,Texas Tech,RECEIVING,Daikiel,Shorts,YDS,32
+1280043,10/11/2014,FBS,West Virginia,Texas Tech,RECEIVING,Daikiel,Shorts,TD,0
+1280044,10/11/2014,FBS,West Virginia,Texas Tech,RECEIVING,Daikiel,Shorts,LONG,23
+1280045,10/11/2014,FBS,West Virginia,Texas Tech,RECEIVING,Mario,Alford,REC,2
+1280046,10/11/2014,FBS,West Virginia,Texas Tech,RECEIVING,Mario,Alford,YDS,24
+1280047,10/11/2014,FBS,West Virginia,Texas Tech,RECEIVING,Mario,Alford,TD,0
+1280048,10/11/2014,FBS,West Virginia,Texas Tech,RECEIVING,Mario,Alford,LONG,21
+1280049,10/11/2014,FBS,West Virginia,Texas Tech,RECEIVING,Cody,Clay,REC,1
+1280050,10/11/2014,FBS,West Virginia,Texas Tech,RECEIVING,Cody,Clay,YDS,7
+1280051,10/11/2014,FBS,West Virginia,Texas Tech,RECEIVING,Cody,Clay,TD,0
+1280052,10/11/2014,FBS,West Virginia,Texas Tech,RECEIVING,Cody,Clay,LONG,7
+1280053,10/11/2014,FBS,West Virginia,Texas Tech,RECEIVING,Rushel,Shell,REC,2
+1280054,10/11/2014,FBS,West Virginia,Texas Tech,RECEIVING,Rushel,Shell,YDS,5
+1280055,10/11/2014,FBS,West Virginia,Texas Tech,RECEIVING,Rushel,Shell,TD,0
+1280056,10/11/2014,FBS,West Virginia,Texas Tech,RECEIVING,Rushel,Shell,LONG,7
+1280057,10/11/2014,FBS,West Virginia,Texas Tech,RECEIVING,Wendell,Smallwood,REC,2
+1280058,10/11/2014,FBS,West Virginia,Texas Tech,RECEIVING,Wendell,Smallwood,YDS,1
+1280059,10/11/2014,FBS,West Virginia,Texas Tech,RECEIVING,Wendell,Smallwood,TD,0
+1280060,10/11/2014,FBS,West Virginia,Texas Tech,RECEIVING,Wendell,Smallwood,LONG,2
+1280061,10/11/2014,FBS,West Virginia,Texas Tech,KICKING,Josh,Lambert,FG-FGA,3/4
+1280062,10/11/2014,FBS,West Virginia,Texas Tech,KICKING,Josh,Lambert,LONG,55
+1280063,10/11/2014,FBS,West Virginia,Texas Tech,KICKING,Josh,Lambert,XP,4
+1280064,10/11/2014,FBS,West Virginia,Texas Tech,KICKING,Josh,Lambert,PTS,13
+1280065,10/11/2014,FBS,West Virginia,Texas Tech,PUNTING,Nick,O'Toole,NO,4
+1280066,10/11/2014,FBS,West Virginia,Texas Tech,PUNTING,Nick,O'Toole,YDS,172
+1280067,10/11/2014,FBS,West Virginia,Texas Tech,PUNTING,Nick,O'Toole,AVG,43.0
+1280068,10/11/2014,FBS,West Virginia,Texas Tech,PUNTING,Nick,O'Toole,LONG,51
+1280069,10/11/2014,FBS,West Virginia,Texas Tech,PUNT RETURNS,Rushel,Shell,NO,1
+1280070,10/11/2014,FBS,West Virginia,Texas Tech,PUNT RETURNS,Rushel,Shell,YDS,3
+1280071,10/11/2014,FBS,West Virginia,Texas Tech,PUNT RETURNS,Rushel,Shell,AVG,3.0
+1280072,10/11/2014,FBS,West Virginia,Texas Tech,PUNT RETURNS,Rushel,Shell,LONG,3
+1280073,10/11/2014,FBS,West Virginia,Texas Tech,PUNT RETURNS,KJ,Myers,NO,0
+1280074,10/11/2014,FBS,West Virginia,Texas Tech,PUNT RETURNS,KJ,Myers,YDS,0
+1280075,10/11/2014,FBS,West Virginia,Texas Tech,PUNT RETURNS,KJ,Myers,AVG,-
+1280076,10/11/2014,FBS,West Virginia,Texas Tech,PUNT RETURNS,KJ,Myers,LONG,0
+1280077,10/11/2014,FBS,West Virginia,Texas Tech,KICK RETURNS,Mario,Alford,NO,2
+1280078,10/11/2014,FBS,West Virginia,Texas Tech,KICK RETURNS,Mario,Alford,YDS,47
+1280079,10/11/2014,FBS,West Virginia,Texas Tech,KICK RETURNS,Mario,Alford,AVG,23.5
+1280080,10/11/2014,FBS,West Virginia,Texas Tech,KICK RETURNS,Mario,Alford,LONG,32
+1280081,10/11/2014,FBS,West Virginia,Texas Tech,KICK RETURNS,KJ,Myers,NO,1
+1280082,10/11/2014,FBS,West Virginia,Texas Tech,KICK RETURNS,KJ,Myers,YDS,8
+1280083,10/11/2014,FBS,West Virginia,Texas Tech,KICK RETURNS,KJ,Myers,AVG,8.0
+1280084,10/11/2014,FBS,West Virginia,Texas Tech,KICK RETURNS,KJ,Myers,LONG,8
+1280085,10/11/2014,FBS,Texas Tech,West Virginia,RUSHING,DeAndre,Washington,ATT,29
+1280086,10/11/2014,FBS,Texas Tech,West Virginia,RUSHING,DeAndre,Washington,YDS,132
+1280087,10/11/2014,FBS,Texas Tech,West Virginia,RUSHING,DeAndre,Washington,TD,0
+1280088,10/11/2014,FBS,Texas Tech,West Virginia,RUSHING,DeAndre,Washington,LONG,16
+1280089,10/11/2014,FBS,Texas Tech,West Virginia,RUSHING,Justin,Stockton,ATT,5
+1280090,10/11/2014,FBS,Texas Tech,West Virginia,RUSHING,Justin,Stockton,YDS,80
+1280091,10/11/2014,FBS,Texas Tech,West Virginia,RUSHING,Justin,Stockton,TD,1
+1280092,10/11/2014,FBS,Texas Tech,West Virginia,RUSHING,Justin,Stockton,LONG,69
+1280093,10/11/2014,FBS,Texas Tech,West Virginia,RUSHING,Davis,Webb,ATT,2
+1280094,10/11/2014,FBS,Texas Tech,West Virginia,RUSHING,Davis,Webb,YDS,5
+1280095,10/11/2014,FBS,Texas Tech,West Virginia,RUSHING,Davis,Webb,TD,0
+1280096,10/11/2014,FBS,Texas Tech,West Virginia,RUSHING,Davis,Webb,LONG,9
+1280097,10/11/2014,FBS,Texas Tech,West Virginia,RUSHING,Quinton,White,ATT,2
+1280098,10/11/2014,FBS,Texas Tech,West Virginia,RUSHING,Quinton,White,YDS,0
+1280099,10/11/2014,FBS,Texas Tech,West Virginia,RUSHING,Quinton,White,TD,0
+1280100,10/11/2014,FBS,Texas Tech,West Virginia,RUSHING,Quinton,White,LONG,1
+1280101,10/11/2014,FBS,Texas Tech,West Virginia,PASSING,Davis,Webb,CP-ATT-INT,28-46-1
+1280102,10/11/2014,FBS,Texas Tech,West Virginia,PASSING,Davis,Webb,YDS,348
+1280103,10/11/2014,FBS,Texas Tech,West Virginia,PASSING,Davis,Webb,TD,3
+1280104,10/11/2014,FBS,Texas Tech,West Virginia,PASSING,Davis,Webb,LONG,76
+1280105,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,Devin,Lauderdale,REC,3
+1280106,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,Devin,Lauderdale,YDS,112
+1280107,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,Devin,Lauderdale,TD,2
+1280108,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,Devin,Lauderdale,LONG,76
+1280109,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,Jakeem,Grant,REC,5
+1280110,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,Jakeem,Grant,YDS,84
+1280111,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,Jakeem,Grant,TD,1
+1280112,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,Jakeem,Grant,LONG,43
+1280113,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,Bradley,Marquez,REC,5
+1280114,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,Bradley,Marquez,YDS,65
+1280115,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,Bradley,Marquez,TD,0
+1280116,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,Bradley,Marquez,LONG,19
+1280117,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,DeAndre,Washington,REC,4
+1280118,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,DeAndre,Washington,YDS,25
+1280119,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,DeAndre,Washington,TD,0
+1280120,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,DeAndre,Washington,LONG,8
+1280121,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,Dylan,Cantrell,REC,2
+1280122,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,Dylan,Cantrell,YDS,21
+1280123,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,Dylan,Cantrell,TD,0
+1280124,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,Dylan,Cantrell,LONG,16
+1280125,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,Reginald,Davis,REC,2
+1280126,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,Reginald,Davis,YDS,14
+1280127,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,Reginald,Davis,TD,0
+1280128,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,Reginald,Davis,LONG,11
+1280129,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,Cameron,Batson,REC,1
+1280130,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,Cameron,Batson,YDS,12
+1280131,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,Cameron,Batson,TD,0
+1280132,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,Cameron,Batson,LONG,12
+1280133,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,D.J.,Polite-Bray,REC,1
+1280134,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,D.J.,Polite-Bray,YDS,8
+1280135,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,D.J.,Polite-Bray,TD,0
+1280136,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,D.J.,Polite-Bray,LONG,8
+1280137,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,Quinton,White,REC,3
+1280138,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,Quinton,White,YDS,7
+1280139,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,Quinton,White,TD,0
+1280140,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,Quinton,White,LONG,6
+1280141,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,Justin,Stockton,REC,1
+1280142,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,Justin,Stockton,YDS,0
+1280143,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,Justin,Stockton,TD,0
+1280144,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,Justin,Stockton,LONG,0
+1280145,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,Rodney,Hall,REC,1
+1280146,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,Rodney,Hall,YDS,0
+1280147,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,Rodney,Hall,TD,0
+1280148,10/11/2014,FBS,Texas Tech,West Virginia,RECEIVING,Rodney,Hall,LONG,0
+1280149,10/11/2014,FBS,Texas Tech,West Virginia,KICKING,Ryan,Bustin,FG-FGA,2/2
+1280150,10/11/2014,FBS,Texas Tech,West Virginia,KICKING,Ryan,Bustin,LONG,25
+1280151,10/11/2014,FBS,Texas Tech,West Virginia,KICKING,Ryan,Bustin,XP,4
+1280152,10/11/2014,FBS,Texas Tech,West Virginia,KICKING,Ryan,Bustin,PTS,10
+1280153,10/11/2014,FBS,Texas Tech,West Virginia,PUNTING,Taylor,Symmank,NO,6
+1280154,10/11/2014,FBS,Texas Tech,West Virginia,PUNTING,Taylor,Symmank,YDS,270
+1280155,10/11/2014,FBS,Texas Tech,West Virginia,PUNTING,Taylor,Symmank,AVG,45.0
+1280156,10/11/2014,FBS,Texas Tech,West Virginia,PUNTING,Taylor,Symmank,LONG,55
+1280157,10/11/2014,FBS,Texas Tech,West Virginia,PUNT RETURNS,Cameron,Batson,NO,1
+1280158,10/11/2014,FBS,Texas Tech,West Virginia,PUNT RETURNS,Cameron,Batson,YDS,-1
+1280159,10/11/2014,FBS,Texas Tech,West Virginia,PUNT RETURNS,Cameron,Batson,AVG,-
+1280160,10/11/2014,FBS,Texas Tech,West Virginia,PUNT RETURNS,Cameron,Batson,LONG,0
+1280161,10/11/2014,FBS,Texas Tech,West Virginia,KICK RETURNS,Jakeem,Grant,NO,1
+1280162,10/11/2014,FBS,Texas Tech,West Virginia,KICK RETURNS,Jakeem,Grant,YDS,30
+1280163,10/11/2014,FBS,Texas Tech,West Virginia,KICK RETURNS,Jakeem,Grant,AVG,30.0
+1280164,10/11/2014,FBS,Texas Tech,West Virginia,KICK RETURNS,Jakeem,Grant,LONG,30
+1280165,10/11/2014,FBS,Texas Tech,West Virginia,KICK RETURNS,Justin,Stockton,NO,1
+1280166,10/11/2014,FBS,Texas Tech,West Virginia,KICK RETURNS,Justin,Stockton,YDS,24
+1280167,10/11/2014,FBS,Texas Tech,West Virginia,KICK RETURNS,Justin,Stockton,AVG,24.0
+1280168,10/11/2014,FBS,Texas Tech,West Virginia,KICK RETURNS,Justin,Stockton,LONG,24
+1280169,10/11/2014,FBS,Texas Tech,West Virginia,KICK RETURNS,Talor,Nunez,NO,1
+1280170,10/11/2014,FBS,Texas Tech,West Virginia,KICK RETURNS,Talor,Nunez,YDS,0
+1280171,10/11/2014,FBS,Texas Tech,West Virginia,KICK RETURNS,Talor,Nunez,AVG,-
+1280172,10/11/2014,FBS,Texas Tech,West Virginia,KICK RETURNS,Talor,Nunez,LONG,0

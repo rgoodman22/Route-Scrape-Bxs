@@ -1,0 +1,145 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1540001,11/15/2014,FBS,Pittsburgh,North Carolina,RUSHING,James,Conner,ATT,30
+1540002,11/15/2014,FBS,Pittsburgh,North Carolina,RUSHING,James,Conner,YDS,220
+1540003,11/15/2014,FBS,Pittsburgh,North Carolina,RUSHING,James,Conner,TD,4
+1540004,11/15/2014,FBS,Pittsburgh,North Carolina,RUSHING,James,Conner,LONG,56
+1540005,11/15/2014,FBS,Pittsburgh,North Carolina,RUSHING,Chad,Voytik,ATT,10
+1540006,11/15/2014,FBS,Pittsburgh,North Carolina,RUSHING,Chad,Voytik,YDS,41
+1540007,11/15/2014,FBS,Pittsburgh,North Carolina,RUSHING,Chad,Voytik,TD,0
+1540008,11/15/2014,FBS,Pittsburgh,North Carolina,RUSHING,Chad,Voytik,LONG,21
+1540009,11/15/2014,FBS,Pittsburgh,North Carolina,RUSHING,Chris,James,ATT,4
+1540010,11/15/2014,FBS,Pittsburgh,North Carolina,RUSHING,Chris,James,YDS,20
+1540011,11/15/2014,FBS,Pittsburgh,North Carolina,RUSHING,Chris,James,TD,0
+1540012,11/15/2014,FBS,Pittsburgh,North Carolina,RUSHING,Chris,James,LONG,16
+1540013,11/15/2014,FBS,Pittsburgh,North Carolina,RUSHING,Isaac,Bennett,ATT,5
+1540014,11/15/2014,FBS,Pittsburgh,North Carolina,RUSHING,Isaac,Bennett,YDS,15
+1540015,11/15/2014,FBS,Pittsburgh,North Carolina,RUSHING,Isaac,Bennett,TD,0
+1540016,11/15/2014,FBS,Pittsburgh,North Carolina,RUSHING,Isaac,Bennett,LONG,10
+1540017,11/15/2014,FBS,Pittsburgh,North Carolina,RUSHING,Rachid,Ibrahim,ATT,2
+1540018,11/15/2014,FBS,Pittsburgh,North Carolina,RUSHING,Rachid,Ibrahim,YDS,5
+1540019,11/15/2014,FBS,Pittsburgh,North Carolina,RUSHING,Rachid,Ibrahim,TD,0
+1540020,11/15/2014,FBS,Pittsburgh,North Carolina,RUSHING,Rachid,Ibrahim,LONG,3
+1540021,11/15/2014,FBS,Pittsburgh,North Carolina,RUSHING,Tyler,Boyd,ATT,1
+1540022,11/15/2014,FBS,Pittsburgh,North Carolina,RUSHING,Tyler,Boyd,YDS,5
+1540023,11/15/2014,FBS,Pittsburgh,North Carolina,RUSHING,Tyler,Boyd,TD,0
+1540024,11/15/2014,FBS,Pittsburgh,North Carolina,RUSHING,Tyler,Boyd,LONG,5
+1540025,11/15/2014,FBS,Pittsburgh,North Carolina,RUSHING,,Team,ATT,1
+1540026,11/15/2014,FBS,Pittsburgh,North Carolina,RUSHING,,Team,YDS,-1
+1540027,11/15/2014,FBS,Pittsburgh,North Carolina,RUSHING,,Team,TD,0
+1540028,11/15/2014,FBS,Pittsburgh,North Carolina,RUSHING,,Team,LONG,-1
+1540029,11/15/2014,FBS,Pittsburgh,North Carolina,PASSING,Chad,Voytik,CP-ATT-INT,11-16-0
+1540030,11/15/2014,FBS,Pittsburgh,North Carolina,PASSING,Chad,Voytik,YDS,218
+1540031,11/15/2014,FBS,Pittsburgh,North Carolina,PASSING,Chad,Voytik,TD,1
+1540032,11/15/2014,FBS,Pittsburgh,North Carolina,PASSING,Chad,Voytik,LONG,50
+1540033,11/15/2014,FBS,Pittsburgh,North Carolina,RECEIVING,Tyler,Boyd,REC,5
+1540034,11/15/2014,FBS,Pittsburgh,North Carolina,RECEIVING,Tyler,Boyd,YDS,160
+1540035,11/15/2014,FBS,Pittsburgh,North Carolina,RECEIVING,Tyler,Boyd,TD,1
+1540036,11/15/2014,FBS,Pittsburgh,North Carolina,RECEIVING,Tyler,Boyd,LONG,50
+1540037,11/15/2014,FBS,Pittsburgh,North Carolina,RECEIVING,J.P.,Holtz,REC,4
+1540038,11/15/2014,FBS,Pittsburgh,North Carolina,RECEIVING,J.P.,Holtz,YDS,31
+1540039,11/15/2014,FBS,Pittsburgh,North Carolina,RECEIVING,J.P.,Holtz,TD,0
+1540040,11/15/2014,FBS,Pittsburgh,North Carolina,RECEIVING,J.P.,Holtz,LONG,13
+1540041,11/15/2014,FBS,Pittsburgh,North Carolina,RECEIVING,Adonis,Jennings,REC,2
+1540042,11/15/2014,FBS,Pittsburgh,North Carolina,RECEIVING,Adonis,Jennings,YDS,27
+1540043,11/15/2014,FBS,Pittsburgh,North Carolina,RECEIVING,Adonis,Jennings,TD,0
+1540044,11/15/2014,FBS,Pittsburgh,North Carolina,RECEIVING,Adonis,Jennings,LONG,20
+1540045,11/15/2014,FBS,Pittsburgh,North Carolina,KICKING,Chris,Blewitt,FG-FGA,0/1
+1540046,11/15/2014,FBS,Pittsburgh,North Carolina,KICKING,Chris,Blewitt,LONG,0
+1540047,11/15/2014,FBS,Pittsburgh,North Carolina,KICKING,Chris,Blewitt,XP,5
+1540048,11/15/2014,FBS,Pittsburgh,North Carolina,KICKING,Chris,Blewitt,PTS,5
+1540049,11/15/2014,FBS,Pittsburgh,North Carolina,PUNTING,Ryan,Winslow,NO,4
+1540050,11/15/2014,FBS,Pittsburgh,North Carolina,PUNTING,Ryan,Winslow,YDS,153
+1540051,11/15/2014,FBS,Pittsburgh,North Carolina,PUNTING,Ryan,Winslow,AVG,38.2
+1540052,11/15/2014,FBS,Pittsburgh,North Carolina,PUNTING,Ryan,Winslow,LONG,51
+1540053,11/15/2014,FBS,Pittsburgh,North Carolina,PUNT RETURNS,Tyler,Boyd,NO,1
+1540054,11/15/2014,FBS,Pittsburgh,North Carolina,PUNT RETURNS,Tyler,Boyd,YDS,1
+1540055,11/15/2014,FBS,Pittsburgh,North Carolina,PUNT RETURNS,Tyler,Boyd,AVG,1.0
+1540056,11/15/2014,FBS,Pittsburgh,North Carolina,PUNT RETURNS,Tyler,Boyd,LONG,1
+1540057,11/15/2014,FBS,Pittsburgh,North Carolina,KICK RETURNS,Tyler,Boyd,NO,3
+1540058,11/15/2014,FBS,Pittsburgh,North Carolina,KICK RETURNS,Tyler,Boyd,YDS,58
+1540059,11/15/2014,FBS,Pittsburgh,North Carolina,KICK RETURNS,Tyler,Boyd,AVG,19.3
+1540060,11/15/2014,FBS,Pittsburgh,North Carolina,KICK RETURNS,Tyler,Boyd,LONG,20
+1540061,11/15/2014,FBS,North Carolina,Pittsburgh,RUSHING,Marquise,Williams,ATT,19
+1540062,11/15/2014,FBS,North Carolina,Pittsburgh,RUSHING,Marquise,Williams,YDS,122
+1540063,11/15/2014,FBS,North Carolina,Pittsburgh,RUSHING,Marquise,Williams,TD,3
+1540064,11/15/2014,FBS,North Carolina,Pittsburgh,RUSHING,Marquise,Williams,LONG,45
+1540065,11/15/2014,FBS,North Carolina,Pittsburgh,RUSHING,T.J.,Logan,ATT,18
+1540066,11/15/2014,FBS,North Carolina,Pittsburgh,RUSHING,T.J.,Logan,YDS,92
+1540067,11/15/2014,FBS,North Carolina,Pittsburgh,RUSHING,T.J.,Logan,TD,1
+1540068,11/15/2014,FBS,North Carolina,Pittsburgh,RUSHING,T.J.,Logan,LONG,14
+1540069,11/15/2014,FBS,North Carolina,Pittsburgh,RUSHING,Charles,Brunson,ATT,2
+1540070,11/15/2014,FBS,North Carolina,Pittsburgh,RUSHING,Charles,Brunson,YDS,17
+1540071,11/15/2014,FBS,North Carolina,Pittsburgh,RUSHING,Charles,Brunson,TD,1
+1540072,11/15/2014,FBS,North Carolina,Pittsburgh,RUSHING,Charles,Brunson,LONG,17
+1540073,11/15/2014,FBS,North Carolina,Pittsburgh,RUSHING,Khris,Francis,ATT,2
+1540074,11/15/2014,FBS,North Carolina,Pittsburgh,RUSHING,Khris,Francis,YDS,-1
+1540075,11/15/2014,FBS,North Carolina,Pittsburgh,RUSHING,Khris,Francis,TD,0
+1540076,11/15/2014,FBS,North Carolina,Pittsburgh,RUSHING,Khris,Francis,LONG,0
+1540077,11/15/2014,FBS,North Carolina,Pittsburgh,RUSHING,,Team,ATT,1
+1540078,11/15/2014,FBS,North Carolina,Pittsburgh,RUSHING,,Team,YDS,-1
+1540079,11/15/2014,FBS,North Carolina,Pittsburgh,RUSHING,,Team,TD,0
+1540080,11/15/2014,FBS,North Carolina,Pittsburgh,RUSHING,,Team,LONG,-1
+1540081,11/15/2014,FBS,North Carolina,Pittsburgh,RUSHING,Ryan,Switzer,ATT,1
+1540082,11/15/2014,FBS,North Carolina,Pittsburgh,RUSHING,Ryan,Switzer,YDS,-3
+1540083,11/15/2014,FBS,North Carolina,Pittsburgh,RUSHING,Ryan,Switzer,TD,0
+1540084,11/15/2014,FBS,North Carolina,Pittsburgh,RUSHING,Ryan,Switzer,LONG,-3
+1540085,11/15/2014,FBS,North Carolina,Pittsburgh,PASSING,Marquise,Williams,CP-ATT-INT,23-40-0
+1540086,11/15/2014,FBS,North Carolina,Pittsburgh,PASSING,Marquise,Williams,YDS,276
+1540087,11/15/2014,FBS,North Carolina,Pittsburgh,PASSING,Marquise,Williams,TD,1
+1540088,11/15/2014,FBS,North Carolina,Pittsburgh,PASSING,Marquise,Williams,LONG,63
+1540089,11/15/2014,FBS,North Carolina,Pittsburgh,RECEIVING,Ryan,Switzer,REC,3
+1540090,11/15/2014,FBS,North Carolina,Pittsburgh,RECEIVING,Ryan,Switzer,YDS,68
+1540091,11/15/2014,FBS,North Carolina,Pittsburgh,RECEIVING,Ryan,Switzer,TD,1
+1540092,11/15/2014,FBS,North Carolina,Pittsburgh,RECEIVING,Ryan,Switzer,LONG,63
+1540093,11/15/2014,FBS,North Carolina,Pittsburgh,RECEIVING,Quinshad,Davis,REC,6
+1540094,11/15/2014,FBS,North Carolina,Pittsburgh,RECEIVING,Quinshad,Davis,YDS,66
+1540095,11/15/2014,FBS,North Carolina,Pittsburgh,RECEIVING,Quinshad,Davis,TD,0
+1540096,11/15/2014,FBS,North Carolina,Pittsburgh,RECEIVING,Quinshad,Davis,LONG,23
+1540097,11/15/2014,FBS,North Carolina,Pittsburgh,RECEIVING,Mack,Hollins,REC,4
+1540098,11/15/2014,FBS,North Carolina,Pittsburgh,RECEIVING,Mack,Hollins,YDS,39
+1540099,11/15/2014,FBS,North Carolina,Pittsburgh,RECEIVING,Mack,Hollins,TD,0
+1540100,11/15/2014,FBS,North Carolina,Pittsburgh,RECEIVING,Mack,Hollins,LONG,12
+1540101,11/15/2014,FBS,North Carolina,Pittsburgh,RECEIVING,Bug,Howard,REC,3
+1540102,11/15/2014,FBS,North Carolina,Pittsburgh,RECEIVING,Bug,Howard,YDS,31
+1540103,11/15/2014,FBS,North Carolina,Pittsburgh,RECEIVING,Bug,Howard,TD,0
+1540104,11/15/2014,FBS,North Carolina,Pittsburgh,RECEIVING,Bug,Howard,LONG,16
+1540105,11/15/2014,FBS,North Carolina,Pittsburgh,RECEIVING,T.J.,Logan,REC,2
+1540106,11/15/2014,FBS,North Carolina,Pittsburgh,RECEIVING,T.J.,Logan,YDS,26
+1540107,11/15/2014,FBS,North Carolina,Pittsburgh,RECEIVING,T.J.,Logan,TD,0
+1540108,11/15/2014,FBS,North Carolina,Pittsburgh,RECEIVING,T.J.,Logan,LONG,17
+1540109,11/15/2014,FBS,North Carolina,Pittsburgh,RECEIVING,Jack,Tabb,REC,2
+1540110,11/15/2014,FBS,North Carolina,Pittsburgh,RECEIVING,Jack,Tabb,YDS,18
+1540111,11/15/2014,FBS,North Carolina,Pittsburgh,RECEIVING,Jack,Tabb,TD,0
+1540112,11/15/2014,FBS,North Carolina,Pittsburgh,RECEIVING,Jack,Tabb,LONG,12
+1540113,11/15/2014,FBS,North Carolina,Pittsburgh,RECEIVING,Kendrick,Singleton,REC,1
+1540114,11/15/2014,FBS,North Carolina,Pittsburgh,RECEIVING,Kendrick,Singleton,YDS,15
+1540115,11/15/2014,FBS,North Carolina,Pittsburgh,RECEIVING,Kendrick,Singleton,TD,0
+1540116,11/15/2014,FBS,North Carolina,Pittsburgh,RECEIVING,Kendrick,Singleton,LONG,15
+1540117,11/15/2014,FBS,North Carolina,Pittsburgh,RECEIVING,T.J.,Thorpe,REC,1
+1540118,11/15/2014,FBS,North Carolina,Pittsburgh,RECEIVING,T.J.,Thorpe,YDS,8
+1540119,11/15/2014,FBS,North Carolina,Pittsburgh,RECEIVING,T.J.,Thorpe,TD,0
+1540120,11/15/2014,FBS,North Carolina,Pittsburgh,RECEIVING,T.J.,Thorpe,LONG,8
+1540121,11/15/2014,FBS,North Carolina,Pittsburgh,RECEIVING,Austin,Proehl,REC,1
+1540122,11/15/2014,FBS,North Carolina,Pittsburgh,RECEIVING,Austin,Proehl,YDS,5
+1540123,11/15/2014,FBS,North Carolina,Pittsburgh,RECEIVING,Austin,Proehl,TD,0
+1540124,11/15/2014,FBS,North Carolina,Pittsburgh,RECEIVING,Austin,Proehl,LONG,5
+1540125,11/15/2014,FBS,North Carolina,Pittsburgh,KICKING,Thomas,Moore,FG-FGA,0/0
+1540126,11/15/2014,FBS,North Carolina,Pittsburgh,KICKING,Thomas,Moore,LONG,-
+1540127,11/15/2014,FBS,North Carolina,Pittsburgh,KICKING,Thomas,Moore,XP,2
+1540128,11/15/2014,FBS,North Carolina,Pittsburgh,KICKING,Thomas,Moore,PTS,2
+1540129,11/15/2014,FBS,North Carolina,Pittsburgh,PUNTING,Tommy,Hibbard,NO,5
+1540130,11/15/2014,FBS,North Carolina,Pittsburgh,PUNTING,Tommy,Hibbard,YDS,196
+1540131,11/15/2014,FBS,North Carolina,Pittsburgh,PUNTING,Tommy,Hibbard,AVG,39.2
+1540132,11/15/2014,FBS,North Carolina,Pittsburgh,PUNTING,Tommy,Hibbard,LONG,45
+1540133,11/15/2014,FBS,North Carolina,Pittsburgh,PUNT RETURNS,Ryan,Switzer,NO,1
+1540134,11/15/2014,FBS,North Carolina,Pittsburgh,PUNT RETURNS,Ryan,Switzer,YDS,-2
+1540135,11/15/2014,FBS,North Carolina,Pittsburgh,PUNT RETURNS,Ryan,Switzer,AVG,-
+1540136,11/15/2014,FBS,North Carolina,Pittsburgh,PUNT RETURNS,Ryan,Switzer,LONG,0
+1540137,11/15/2014,FBS,North Carolina,Pittsburgh,KICK RETURNS,Damien,Washington,NO,2
+1540138,11/15/2014,FBS,North Carolina,Pittsburgh,KICK RETURNS,Damien,Washington,YDS,36
+1540139,11/15/2014,FBS,North Carolina,Pittsburgh,KICK RETURNS,Damien,Washington,AVG,18.0
+1540140,11/15/2014,FBS,North Carolina,Pittsburgh,KICK RETURNS,Damien,Washington,LONG,21
+1540141,11/15/2014,FBS,North Carolina,Pittsburgh,KICK RETURNS,Khris,Francis,NO,1
+1540142,11/15/2014,FBS,North Carolina,Pittsburgh,KICK RETURNS,Khris,Francis,YDS,15
+1540143,11/15/2014,FBS,North Carolina,Pittsburgh,KICK RETURNS,Khris,Francis,AVG,15.0
+1540144,11/15/2014,FBS,North Carolina,Pittsburgh,KICK RETURNS,Khris,Francis,LONG,15

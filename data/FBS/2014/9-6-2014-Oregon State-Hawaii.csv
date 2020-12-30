@@ -1,0 +1,65 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+991001,9/6/2014,FBS,Oregon State,Hawaii,RUSHING,,Team,ATT,15
+991002,9/6/2014,FBS,Oregon State,Hawaii,RUSHING,,Team,YDS,124
+991003,9/6/2014,FBS,Oregon State,Hawaii,RUSHING,,Team,TD,2
+991004,9/6/2014,FBS,Oregon State,Hawaii,RUSHING,,Team,LONG,35
+991005,9/6/2014,FBS,Oregon State,Hawaii,RUSHING,,Team,ATT,3
+991006,9/6/2014,FBS,Oregon State,Hawaii,RUSHING,,Team,YDS,-6
+991007,9/6/2014,FBS,Oregon State,Hawaii,RUSHING,,Team,TD,0
+991008,9/6/2014,FBS,Oregon State,Hawaii,RUSHING,,Team,LONG,-2
+991009,9/6/2014,FBS,Oregon State,Hawaii,RUSHING,,Team,ATT,3
+991010,9/6/2014,FBS,Oregon State,Hawaii,RUSHING,,Team,YDS,-7
+991011,9/6/2014,FBS,Oregon State,Hawaii,RUSHING,,Team,TD,0
+991012,9/6/2014,FBS,Oregon State,Hawaii,RUSHING,,Team,LONG,7
+991013,9/6/2014,FBS,Oregon State,Hawaii,PASSING,,Team,CP-ATT-INT,26-37-1
+991014,9/6/2014,FBS,Oregon State,Hawaii,PASSING,,Team,YDS,300
+991015,9/6/2014,FBS,Oregon State,Hawaii,PASSING,,Team,TD,3
+991016,9/6/2014,FBS,Oregon State,Hawaii,PASSING,,Team,LONG,40
+991017,9/6/2014,FBS,Oregon State,Hawaii,RECEIVING,,Team,REC,11
+991018,9/6/2014,FBS,Oregon State,Hawaii,RECEIVING,,Team,YDS,119
+991019,9/6/2014,FBS,Oregon State,Hawaii,RECEIVING,,Team,TD,1
+991020,9/6/2014,FBS,Oregon State,Hawaii,RECEIVING,,Team,LONG,40
+991021,9/6/2014,FBS,Oregon State,Hawaii,KICKING,,Team,FG-FGA,1/1
+991022,9/6/2014,FBS,Oregon State,Hawaii,KICKING,,Team,LONG,27
+991023,9/6/2014,FBS,Oregon State,Hawaii,KICKING,,Team,XP,5
+991024,9/6/2014,FBS,Oregon State,Hawaii,KICKING,,Team,PTS,8
+991025,9/6/2014,FBS,Oregon State,Hawaii,PUNTING,,Team,NO,6
+991026,9/6/2014,FBS,Oregon State,Hawaii,PUNTING,,Team,YDS,243
+991027,9/6/2014,FBS,Oregon State,Hawaii,PUNTING,,Team,AVG,34.7
+991028,9/6/2014,FBS,Oregon State,Hawaii,PUNTING,,Team,LONG,47
+991029,9/6/2014,FBS,Oregon State,Hawaii,PUNT RETURNS,,Team,NO,1
+991030,9/6/2014,FBS,Oregon State,Hawaii,PUNT RETURNS,,Team,YDS,15
+991031,9/6/2014,FBS,Oregon State,Hawaii,PUNT RETURNS,,Team,AVG,15.0
+991032,9/6/2014,FBS,Oregon State,Hawaii,PUNT RETURNS,,Team,LONG,15
+991033,9/6/2014,FBS,Oregon State,Hawaii,KICK RETURNS,,Team,NO,1
+991034,9/6/2014,FBS,Oregon State,Hawaii,KICK RETURNS,,Team,YDS,20
+991035,9/6/2014,FBS,Oregon State,Hawaii,KICK RETURNS,,Team,AVG,20.0
+991036,9/6/2014,FBS,Oregon State,Hawaii,KICK RETURNS,,Team,LONG,20
+991037,9/6/2014,FBS,Hawaii,Oregon State,RUSHING,,Team,ATT,19
+991038,9/6/2014,FBS,Hawaii,Oregon State,RUSHING,,Team,YDS,54
+991039,9/6/2014,FBS,Hawaii,Oregon State,RUSHING,,Team,TD,3
+991040,9/6/2014,FBS,Hawaii,Oregon State,RUSHING,,Team,LONG,14
+991041,9/6/2014,FBS,Hawaii,Oregon State,PASSING,,Team,CP-ATT-INT,20-50-1
+991042,9/6/2014,FBS,Hawaii,Oregon State,PASSING,,Team,YDS,236
+991043,9/6/2014,FBS,Hawaii,Oregon State,PASSING,,Team,TD,0
+991044,9/6/2014,FBS,Hawaii,Oregon State,PASSING,,Team,LONG,41
+991045,9/6/2014,FBS,Hawaii,Oregon State,RECEIVING,,Team,REC,5
+991046,9/6/2014,FBS,Hawaii,Oregon State,RECEIVING,,Team,YDS,102
+991047,9/6/2014,FBS,Hawaii,Oregon State,RECEIVING,,Team,TD,0
+991048,9/6/2014,FBS,Hawaii,Oregon State,RECEIVING,,Team,LONG,41
+991049,9/6/2014,FBS,Hawaii,Oregon State,KICKING,,Team,FG-FGA,1/1
+991050,9/6/2014,FBS,Hawaii,Oregon State,KICKING,,Team,LONG,33
+991051,9/6/2014,FBS,Hawaii,Oregon State,KICKING,,Team,XP,3
+991052,9/6/2014,FBS,Hawaii,Oregon State,KICKING,,Team,PTS,6
+991053,9/6/2014,FBS,Hawaii,Oregon State,PUNTING,,Team,NO,7
+991054,9/6/2014,FBS,Hawaii,Oregon State,PUNTING,,Team,YDS,300
+991055,9/6/2014,FBS,Hawaii,Oregon State,PUNTING,,Team,AVG,42.9
+991056,9/6/2014,FBS,Hawaii,Oregon State,PUNTING,,Team,LONG,55
+991057,9/6/2014,FBS,Hawaii,Oregon State,PUNT RETURNS,,Team,NO,1
+991058,9/6/2014,FBS,Hawaii,Oregon State,PUNT RETURNS,,Team,YDS,22
+991059,9/6/2014,FBS,Hawaii,Oregon State,PUNT RETURNS,,Team,AVG,22.0
+991060,9/6/2014,FBS,Hawaii,Oregon State,PUNT RETURNS,,Team,LONG,22
+991061,9/6/2014,FBS,Hawaii,Oregon State,KICK RETURNS,,Team,NO,1
+991062,9/6/2014,FBS,Hawaii,Oregon State,KICK RETURNS,,Team,YDS,33
+991063,9/6/2014,FBS,Hawaii,Oregon State,KICK RETURNS,,Team,AVG,33.0
+991064,9/6/2014,FBS,Hawaii,Oregon State,KICK RETURNS,,Team,LONG,33

@@ -1,0 +1,169 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1126001,9/20/2014,FBS,Georgia State,Washington,RUSHING,Kyler,Neal,ATT,16
+1126002,9/20/2014,FBS,Georgia State,Washington,RUSHING,Kyler,Neal,YDS,57
+1126003,9/20/2014,FBS,Georgia State,Washington,RUSHING,Kyler,Neal,TD,0
+1126004,9/20/2014,FBS,Georgia State,Washington,RUSHING,Kyler,Neal,LONG,9
+1126005,9/20/2014,FBS,Georgia State,Washington,RUSHING,Duvall,Smith,ATT,9
+1126006,9/20/2014,FBS,Georgia State,Washington,RUSHING,Duvall,Smith,YDS,8
+1126007,9/20/2014,FBS,Georgia State,Washington,RUSHING,Duvall,Smith,TD,0
+1126008,9/20/2014,FBS,Georgia State,Washington,RUSHING,Duvall,Smith,LONG,4
+1126009,9/20/2014,FBS,Georgia State,Washington,RUSHING,Jonathan,Jean-Bart,ATT,2
+1126010,9/20/2014,FBS,Georgia State,Washington,RUSHING,Jonathan,Jean-Bart,YDS,7
+1126011,9/20/2014,FBS,Georgia State,Washington,RUSHING,Jonathan,Jean-Bart,TD,0
+1126012,9/20/2014,FBS,Georgia State,Washington,RUSHING,Jonathan,Jean-Bart,LONG,7
+1126013,9/20/2014,FBS,Georgia State,Washington,RUSHING,Dontavis,Crocker,ATT,3
+1126014,9/20/2014,FBS,Georgia State,Washington,RUSHING,Dontavis,Crocker,YDS,6
+1126015,9/20/2014,FBS,Georgia State,Washington,RUSHING,Dontavis,Crocker,TD,0
+1126016,9/20/2014,FBS,Georgia State,Washington,RUSHING,Dontavis,Crocker,LONG,4
+1126017,9/20/2014,FBS,Georgia State,Washington,RUSHING,,Team,ATT,1
+1126018,9/20/2014,FBS,Georgia State,Washington,RUSHING,,Team,YDS,-2
+1126019,9/20/2014,FBS,Georgia State,Washington,RUSHING,,Team,TD,0
+1126020,9/20/2014,FBS,Georgia State,Washington,RUSHING,,Team,LONG,-2
+1126021,9/20/2014,FBS,Georgia State,Washington,RUSHING,Nick,Arbuckle,ATT,10
+1126022,9/20/2014,FBS,Georgia State,Washington,RUSHING,Nick,Arbuckle,YDS,-8
+1126023,9/20/2014,FBS,Georgia State,Washington,RUSHING,Nick,Arbuckle,TD,0
+1126024,9/20/2014,FBS,Georgia State,Washington,RUSHING,Nick,Arbuckle,LONG,3
+1126025,9/20/2014,FBS,Georgia State,Washington,PASSING,Nick,Arbuckle,CP-ATT-INT,21-33-3
+1126026,9/20/2014,FBS,Georgia State,Washington,PASSING,Nick,Arbuckle,YDS,194
+1126027,9/20/2014,FBS,Georgia State,Washington,PASSING,Nick,Arbuckle,TD,2
+1126028,9/20/2014,FBS,Georgia State,Washington,PASSING,Nick,Arbuckle,LONG,24
+1126029,9/20/2014,FBS,Georgia State,Washington,PASSING,Ronnie,Bell,CP-ATT-INT,1-1-0
+1126030,9/20/2014,FBS,Georgia State,Washington,PASSING,Ronnie,Bell,YDS,11
+1126031,9/20/2014,FBS,Georgia State,Washington,PASSING,Ronnie,Bell,TD,0
+1126032,9/20/2014,FBS,Georgia State,Washington,PASSING,Ronnie,Bell,LONG,11
+1126033,9/20/2014,FBS,Georgia State,Washington,RECEIVING,Donovan,Harden,REC,7
+1126034,9/20/2014,FBS,Georgia State,Washington,RECEIVING,Donovan,Harden,YDS,64
+1126035,9/20/2014,FBS,Georgia State,Washington,RECEIVING,Donovan,Harden,TD,0
+1126036,9/20/2014,FBS,Georgia State,Washington,RECEIVING,Donovan,Harden,LONG,21
+1126037,9/20/2014,FBS,Georgia State,Washington,RECEIVING,Lynquez,Blair,REC,4
+1126038,9/20/2014,FBS,Georgia State,Washington,RECEIVING,Lynquez,Blair,YDS,42
+1126039,9/20/2014,FBS,Georgia State,Washington,RECEIVING,Lynquez,Blair,TD,0
+1126040,9/20/2014,FBS,Georgia State,Washington,RECEIVING,Lynquez,Blair,LONG,20
+1126041,9/20/2014,FBS,Georgia State,Washington,RECEIVING,Robert,Davis,REC,4
+1126042,9/20/2014,FBS,Georgia State,Washington,RECEIVING,Robert,Davis,YDS,40
+1126043,9/20/2014,FBS,Georgia State,Washington,RECEIVING,Robert,Davis,TD,1
+1126044,9/20/2014,FBS,Georgia State,Washington,RECEIVING,Robert,Davis,LONG,17
+1126045,9/20/2014,FBS,Georgia State,Washington,RECEIVING,Avery,Sweeting,REC,4
+1126046,9/20/2014,FBS,Georgia State,Washington,RECEIVING,Avery,Sweeting,YDS,40
+1126047,9/20/2014,FBS,Georgia State,Washington,RECEIVING,Avery,Sweeting,TD,0
+1126048,9/20/2014,FBS,Georgia State,Washington,RECEIVING,Avery,Sweeting,LONG,24
+1126049,9/20/2014,FBS,Georgia State,Washington,RECEIVING,Glenn,Smith,REC,2
+1126050,9/20/2014,FBS,Georgia State,Washington,RECEIVING,Glenn,Smith,YDS,17
+1126051,9/20/2014,FBS,Georgia State,Washington,RECEIVING,Glenn,Smith,TD,0
+1126052,9/20/2014,FBS,Georgia State,Washington,RECEIVING,Glenn,Smith,LONG,11
+1126053,9/20/2014,FBS,Georgia State,Washington,RECEIVING,Keith,Rucker,REC,1
+1126054,9/20/2014,FBS,Georgia State,Washington,RECEIVING,Keith,Rucker,YDS,2
+1126055,9/20/2014,FBS,Georgia State,Washington,RECEIVING,Keith,Rucker,TD,1
+1126056,9/20/2014,FBS,Georgia State,Washington,RECEIVING,Keith,Rucker,LONG,2
+1126057,9/20/2014,FBS,Georgia State,Washington,KICKING,Wil,Lutz,FG-FGA,0/0
+1126058,9/20/2014,FBS,Georgia State,Washington,KICKING,Wil,Lutz,LONG,-
+1126059,9/20/2014,FBS,Georgia State,Washington,KICKING,Wil,Lutz,XP,2
+1126060,9/20/2014,FBS,Georgia State,Washington,KICKING,Wil,Lutz,PTS,2
+1126061,9/20/2014,FBS,Georgia State,Washington,PUNTING,Matt,Hubbard,NO,4
+1126062,9/20/2014,FBS,Georgia State,Washington,PUNTING,Matt,Hubbard,YDS,158
+1126063,9/20/2014,FBS,Georgia State,Washington,PUNTING,Matt,Hubbard,AVG,39.5
+1126064,9/20/2014,FBS,Georgia State,Washington,PUNTING,Matt,Hubbard,LONG,45
+1126065,9/20/2014,FBS,Georgia State,Washington,PUNTING,Wil,Lutz,NO,4
+1126066,9/20/2014,FBS,Georgia State,Washington,PUNTING,Wil,Lutz,YDS,147
+1126067,9/20/2014,FBS,Georgia State,Washington,PUNTING,Wil,Lutz,AVG,36.8
+1126068,9/20/2014,FBS,Georgia State,Washington,PUNTING,Wil,Lutz,LONG,43
+1126069,9/20/2014,FBS,Georgia State,Washington,PUNT RETURNS,Donovan,Harden,NO,0
+1126070,9/20/2014,FBS,Georgia State,Washington,PUNT RETURNS,Donovan,Harden,YDS,0
+1126071,9/20/2014,FBS,Georgia State,Washington,PUNT RETURNS,Donovan,Harden,AVG,-
+1126072,9/20/2014,FBS,Georgia State,Washington,PUNT RETURNS,Donovan,Harden,LONG,0
+1126073,9/20/2014,FBS,Georgia State,Washington,KICK RETURNS,Chandon,Sullivan,NO,3
+1126074,9/20/2014,FBS,Georgia State,Washington,KICK RETURNS,Chandon,Sullivan,YDS,55
+1126075,9/20/2014,FBS,Georgia State,Washington,KICK RETURNS,Chandon,Sullivan,AVG,18.3
+1126076,9/20/2014,FBS,Georgia State,Washington,KICK RETURNS,Chandon,Sullivan,LONG,20
+1126077,9/20/2014,FBS,Georgia State,Washington,KICK RETURNS,Lynquez,Blair,NO,3
+1126078,9/20/2014,FBS,Georgia State,Washington,KICK RETURNS,Lynquez,Blair,YDS,45
+1126079,9/20/2014,FBS,Georgia State,Washington,KICK RETURNS,Lynquez,Blair,AVG,15.0
+1126080,9/20/2014,FBS,Georgia State,Washington,KICK RETURNS,Lynquez,Blair,LONG,20
+1126081,9/20/2014,FBS,Georgia State,Washington,KICK RETURNS,Glenn,Smith,NO,1
+1126082,9/20/2014,FBS,Georgia State,Washington,KICK RETURNS,Glenn,Smith,YDS,7
+1126083,9/20/2014,FBS,Georgia State,Washington,KICK RETURNS,Glenn,Smith,AVG,7.0
+1126084,9/20/2014,FBS,Georgia State,Washington,KICK RETURNS,Glenn,Smith,LONG,7
+1126085,9/20/2014,FBS,Washington,Georgia State,RUSHING,Dwayne,Washington,ATT,12
+1126086,9/20/2014,FBS,Washington,Georgia State,RUSHING,Dwayne,Washington,YDS,56
+1126087,9/20/2014,FBS,Washington,Georgia State,RUSHING,Dwayne,Washington,TD,0
+1126088,9/20/2014,FBS,Washington,Georgia State,RUSHING,Dwayne,Washington,LONG,11
+1126089,9/20/2014,FBS,Washington,Georgia State,RUSHING,Lavon,Coleman,ATT,13
+1126090,9/20/2014,FBS,Washington,Georgia State,RUSHING,Lavon,Coleman,YDS,44
+1126091,9/20/2014,FBS,Washington,Georgia State,RUSHING,Lavon,Coleman,TD,0
+1126092,9/20/2014,FBS,Washington,Georgia State,RUSHING,Lavon,Coleman,LONG,12
+1126093,9/20/2014,FBS,Washington,Georgia State,RUSHING,Deontae,Cooper,ATT,3
+1126094,9/20/2014,FBS,Washington,Georgia State,RUSHING,Deontae,Cooper,YDS,36
+1126095,9/20/2014,FBS,Washington,Georgia State,RUSHING,Deontae,Cooper,TD,0
+1126096,9/20/2014,FBS,Washington,Georgia State,RUSHING,Deontae,Cooper,LONG,33
+1126097,9/20/2014,FBS,Washington,Georgia State,RUSHING,Jeff,Lindquist,ATT,3
+1126098,9/20/2014,FBS,Washington,Georgia State,RUSHING,Jeff,Lindquist,YDS,35
+1126099,9/20/2014,FBS,Washington,Georgia State,RUSHING,Jeff,Lindquist,TD,2
+1126100,9/20/2014,FBS,Washington,Georgia State,RUSHING,Jeff,Lindquist,LONG,14
+1126101,9/20/2014,FBS,Washington,Georgia State,RUSHING,Marvin,Hall,ATT,1
+1126102,9/20/2014,FBS,Washington,Georgia State,RUSHING,Marvin,Hall,YDS,6
+1126103,9/20/2014,FBS,Washington,Georgia State,RUSHING,Marvin,Hall,TD,0
+1126104,9/20/2014,FBS,Washington,Georgia State,RUSHING,Marvin,Hall,LONG,6
+1126105,9/20/2014,FBS,Washington,Georgia State,RUSHING,Troy,Williams,ATT,1
+1126106,9/20/2014,FBS,Washington,Georgia State,RUSHING,Troy,Williams,YDS,5
+1126107,9/20/2014,FBS,Washington,Georgia State,RUSHING,Troy,Williams,TD,0
+1126108,9/20/2014,FBS,Washington,Georgia State,RUSHING,Troy,Williams,LONG,5
+1126109,9/20/2014,FBS,Washington,Georgia State,RUSHING,Cyler,Miles,ATT,7
+1126110,9/20/2014,FBS,Washington,Georgia State,RUSHING,Cyler,Miles,YDS,1
+1126111,9/20/2014,FBS,Washington,Georgia State,RUSHING,Cyler,Miles,TD,0
+1126112,9/20/2014,FBS,Washington,Georgia State,RUSHING,Cyler,Miles,LONG,10
+1126113,9/20/2014,FBS,Washington,Georgia State,RUSHING,,Team,ATT,1
+1126114,9/20/2014,FBS,Washington,Georgia State,RUSHING,,Team,YDS,-1
+1126115,9/20/2014,FBS,Washington,Georgia State,RUSHING,,Team,TD,0
+1126116,9/20/2014,FBS,Washington,Georgia State,RUSHING,,Team,LONG,-1
+1126117,9/20/2014,FBS,Washington,Georgia State,PASSING,Cyler,Miles,CP-ATT-INT,19-27-0
+1126118,9/20/2014,FBS,Washington,Georgia State,PASSING,Cyler,Miles,YDS,154
+1126119,9/20/2014,FBS,Washington,Georgia State,PASSING,Cyler,Miles,TD,3
+1126120,9/20/2014,FBS,Washington,Georgia State,PASSING,Cyler,Miles,LONG,26
+1126121,9/20/2014,FBS,Washington,Georgia State,RECEIVING,DiAndre,Campbell,REC,6
+1126122,9/20/2014,FBS,Washington,Georgia State,RECEIVING,DiAndre,Campbell,YDS,71
+1126123,9/20/2014,FBS,Washington,Georgia State,RECEIVING,DiAndre,Campbell,TD,0
+1126124,9/20/2014,FBS,Washington,Georgia State,RECEIVING,DiAndre,Campbell,LONG,26
+1126125,9/20/2014,FBS,Washington,Georgia State,RECEIVING,Jaydon,Mickens,REC,8
+1126126,9/20/2014,FBS,Washington,Georgia State,RECEIVING,Jaydon,Mickens,YDS,56
+1126127,9/20/2014,FBS,Washington,Georgia State,RECEIVING,Jaydon,Mickens,TD,1
+1126128,9/20/2014,FBS,Washington,Georgia State,RECEIVING,Jaydon,Mickens,LONG,11
+1126129,9/20/2014,FBS,Washington,Georgia State,RECEIVING,Kendyl,Taylor,REC,2
+1126130,9/20/2014,FBS,Washington,Georgia State,RECEIVING,Kendyl,Taylor,YDS,11
+1126131,9/20/2014,FBS,Washington,Georgia State,RECEIVING,Kendyl,Taylor,TD,1
+1126132,9/20/2014,FBS,Washington,Georgia State,RECEIVING,Kendyl,Taylor,LONG,10
+1126133,9/20/2014,FBS,Washington,Georgia State,RECEIVING,Brayden,Lenius,REC,1
+1126134,9/20/2014,FBS,Washington,Georgia State,RECEIVING,Brayden,Lenius,YDS,7
+1126135,9/20/2014,FBS,Washington,Georgia State,RECEIVING,Brayden,Lenius,TD,0
+1126136,9/20/2014,FBS,Washington,Georgia State,RECEIVING,Brayden,Lenius,LONG,7
+1126137,9/20/2014,FBS,Washington,Georgia State,RECEIVING,Lavon,Coleman,REC,1
+1126138,9/20/2014,FBS,Washington,Georgia State,RECEIVING,Lavon,Coleman,YDS,6
+1126139,9/20/2014,FBS,Washington,Georgia State,RECEIVING,Lavon,Coleman,TD,0
+1126140,9/20/2014,FBS,Washington,Georgia State,RECEIVING,Lavon,Coleman,LONG,6
+1126141,9/20/2014,FBS,Washington,Georgia State,RECEIVING,Kasen,Williams,REC,1
+1126142,9/20/2014,FBS,Washington,Georgia State,RECEIVING,Kasen,Williams,YDS,3
+1126143,9/20/2014,FBS,Washington,Georgia State,RECEIVING,Kasen,Williams,TD,1
+1126144,9/20/2014,FBS,Washington,Georgia State,RECEIVING,Kasen,Williams,LONG,3
+1126145,9/20/2014,FBS,Washington,Georgia State,KICKING,Cameron,VanWinkle,FG-FGA,1/1
+1126146,9/20/2014,FBS,Washington,Georgia State,KICKING,Cameron,VanWinkle,LONG,25
+1126147,9/20/2014,FBS,Washington,Georgia State,KICKING,Cameron,VanWinkle,XP,6
+1126148,9/20/2014,FBS,Washington,Georgia State,KICKING,Cameron,VanWinkle,PTS,9
+1126149,9/20/2014,FBS,Washington,Georgia State,PUNTING,Korey,Durkee,NO,5
+1126150,9/20/2014,FBS,Washington,Georgia State,PUNTING,Korey,Durkee,YDS,189
+1126151,9/20/2014,FBS,Washington,Georgia State,PUNTING,Korey,Durkee,AVG,37.8
+1126152,9/20/2014,FBS,Washington,Georgia State,PUNTING,Korey,Durkee,LONG,46
+1126153,9/20/2014,FBS,Washington,Georgia State,PUNTING,Cyler,Miles,NO,1
+1126154,9/20/2014,FBS,Washington,Georgia State,PUNTING,Cyler,Miles,YDS,35
+1126155,9/20/2014,FBS,Washington,Georgia State,PUNTING,Cyler,Miles,AVG,35.0
+1126156,9/20/2014,FBS,Washington,Georgia State,PUNTING,Cyler,Miles,LONG,35
+1126157,9/20/2014,FBS,Washington,Georgia State,PUNT RETURNS,Dante,Pettis,NO,4
+1126158,9/20/2014,FBS,Washington,Georgia State,PUNT RETURNS,Dante,Pettis,YDS,98
+1126159,9/20/2014,FBS,Washington,Georgia State,PUNT RETURNS,Dante,Pettis,AVG,24.5
+1126160,9/20/2014,FBS,Washington,Georgia State,PUNT RETURNS,Dante,Pettis,LONG,35
+1126161,9/20/2014,FBS,Washington,Georgia State,PUNT RETURNS,Jaydon,Mickens,NO,1
+1126162,9/20/2014,FBS,Washington,Georgia State,PUNT RETURNS,Jaydon,Mickens,YDS,15
+1126163,9/20/2014,FBS,Washington,Georgia State,PUNT RETURNS,Jaydon,Mickens,AVG,15.0
+1126164,9/20/2014,FBS,Washington,Georgia State,PUNT RETURNS,Jaydon,Mickens,LONG,15
+1126165,9/20/2014,FBS,Washington,Georgia State,KICK RETURNS,Deontae,Cooper,NO,1
+1126166,9/20/2014,FBS,Washington,Georgia State,KICK RETURNS,Deontae,Cooper,YDS,6
+1126167,9/20/2014,FBS,Washington,Georgia State,KICK RETURNS,Deontae,Cooper,AVG,6.0
+1126168,9/20/2014,FBS,Washington,Georgia State,KICK RETURNS,Deontae,Cooper,LONG,6

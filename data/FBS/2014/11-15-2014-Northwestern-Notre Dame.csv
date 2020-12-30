@@ -1,0 +1,169 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1545001,11/15/2014,FBS,Northwestern,Notre Dame,RUSHING,Justin,Jackson,ATT,23
+1545002,11/15/2014,FBS,Northwestern,Notre Dame,RUSHING,Justin,Jackson,YDS,149
+1545003,11/15/2014,FBS,Northwestern,Notre Dame,RUSHING,Justin,Jackson,TD,1
+1545004,11/15/2014,FBS,Northwestern,Notre Dame,RUSHING,Justin,Jackson,LONG,44
+1545005,11/15/2014,FBS,Northwestern,Notre Dame,RUSHING,Treyvon,Green,ATT,10
+1545006,11/15/2014,FBS,Northwestern,Notre Dame,RUSHING,Treyvon,Green,YDS,67
+1545007,11/15/2014,FBS,Northwestern,Notre Dame,RUSHING,Treyvon,Green,TD,0
+1545008,11/15/2014,FBS,Northwestern,Notre Dame,RUSHING,Treyvon,Green,LONG,45
+1545009,11/15/2014,FBS,Northwestern,Notre Dame,RUSHING,Trevor,Siemian,ATT,10
+1545010,11/15/2014,FBS,Northwestern,Notre Dame,RUSHING,Trevor,Siemian,YDS,32
+1545011,11/15/2014,FBS,Northwestern,Notre Dame,RUSHING,Trevor,Siemian,TD,1
+1545012,11/15/2014,FBS,Northwestern,Notre Dame,RUSHING,Trevor,Siemian,LONG,16
+1545013,11/15/2014,FBS,Northwestern,Notre Dame,RUSHING,Tony,Jones,ATT,1
+1545014,11/15/2014,FBS,Northwestern,Notre Dame,RUSHING,Tony,Jones,YDS,14
+1545015,11/15/2014,FBS,Northwestern,Notre Dame,RUSHING,Tony,Jones,TD,0
+1545016,11/15/2014,FBS,Northwestern,Notre Dame,RUSHING,Tony,Jones,LONG,14
+1545017,11/15/2014,FBS,Northwestern,Notre Dame,RUSHING,Warren,Long,ATT,1
+1545018,11/15/2014,FBS,Northwestern,Notre Dame,RUSHING,Warren,Long,YDS,4
+1545019,11/15/2014,FBS,Northwestern,Notre Dame,RUSHING,Warren,Long,TD,0
+1545020,11/15/2014,FBS,Northwestern,Notre Dame,RUSHING,Warren,Long,LONG,4
+1545021,11/15/2014,FBS,Northwestern,Notre Dame,RUSHING,,Team,ATT,1
+1545022,11/15/2014,FBS,Northwestern,Notre Dame,RUSHING,,Team,YDS,-1
+1545023,11/15/2014,FBS,Northwestern,Notre Dame,RUSHING,,Team,TD,0
+1545024,11/15/2014,FBS,Northwestern,Notre Dame,RUSHING,,Team,LONG,-1
+1545025,11/15/2014,FBS,Northwestern,Notre Dame,RUSHING,Matt,Alviti,ATT,2
+1545026,11/15/2014,FBS,Northwestern,Notre Dame,RUSHING,Matt,Alviti,YDS,-2
+1545027,11/15/2014,FBS,Northwestern,Notre Dame,RUSHING,Matt,Alviti,TD,1
+1545028,11/15/2014,FBS,Northwestern,Notre Dame,RUSHING,Matt,Alviti,LONG,2
+1545029,11/15/2014,FBS,Northwestern,Notre Dame,PASSING,Trevor,Siemian,CP-ATT-INT,30-48-2
+1545030,11/15/2014,FBS,Northwestern,Notre Dame,PASSING,Trevor,Siemian,YDS,284
+1545031,11/15/2014,FBS,Northwestern,Notre Dame,PASSING,Trevor,Siemian,TD,1
+1545032,11/15/2014,FBS,Northwestern,Notre Dame,PASSING,Trevor,Siemian,LONG,60
+1545033,11/15/2014,FBS,Northwestern,Notre Dame,RECEIVING,Cameron,Dickerson,REC,6
+1545034,11/15/2014,FBS,Northwestern,Notre Dame,RECEIVING,Cameron,Dickerson,YDS,97
+1545035,11/15/2014,FBS,Northwestern,Notre Dame,RECEIVING,Cameron,Dickerson,TD,0
+1545036,11/15/2014,FBS,Northwestern,Notre Dame,RECEIVING,Cameron,Dickerson,LONG,60
+1545037,11/15/2014,FBS,Northwestern,Notre Dame,RECEIVING,Kyle,Prater,REC,10
+1545038,11/15/2014,FBS,Northwestern,Notre Dame,RECEIVING,Kyle,Prater,YDS,81
+1545039,11/15/2014,FBS,Northwestern,Notre Dame,RECEIVING,Kyle,Prater,TD,1
+1545040,11/15/2014,FBS,Northwestern,Notre Dame,RECEIVING,Kyle,Prater,LONG,29
+1545041,11/15/2014,FBS,Northwestern,Notre Dame,RECEIVING,Dan,Vitale,REC,2
+1545042,11/15/2014,FBS,Northwestern,Notre Dame,RECEIVING,Dan,Vitale,YDS,24
+1545043,11/15/2014,FBS,Northwestern,Notre Dame,RECEIVING,Dan,Vitale,TD,0
+1545044,11/15/2014,FBS,Northwestern,Notre Dame,RECEIVING,Dan,Vitale,LONG,17
+1545045,11/15/2014,FBS,Northwestern,Notre Dame,RECEIVING,Tony,Jones,REC,4
+1545046,11/15/2014,FBS,Northwestern,Notre Dame,RECEIVING,Tony,Jones,YDS,21
+1545047,11/15/2014,FBS,Northwestern,Notre Dame,RECEIVING,Tony,Jones,TD,0
+1545048,11/15/2014,FBS,Northwestern,Notre Dame,RECEIVING,Tony,Jones,LONG,11
+1545049,11/15/2014,FBS,Northwestern,Notre Dame,RECEIVING,Warren,Long,REC,2
+1545050,11/15/2014,FBS,Northwestern,Notre Dame,RECEIVING,Warren,Long,YDS,18
+1545051,11/15/2014,FBS,Northwestern,Notre Dame,RECEIVING,Warren,Long,TD,0
+1545052,11/15/2014,FBS,Northwestern,Notre Dame,RECEIVING,Warren,Long,LONG,11
+1545053,11/15/2014,FBS,Northwestern,Notre Dame,RECEIVING,Garrett,Dickerson,REC,2
+1545054,11/15/2014,FBS,Northwestern,Notre Dame,RECEIVING,Garrett,Dickerson,YDS,14
+1545055,11/15/2014,FBS,Northwestern,Notre Dame,RECEIVING,Garrett,Dickerson,TD,0
+1545056,11/15/2014,FBS,Northwestern,Notre Dame,RECEIVING,Garrett,Dickerson,LONG,7
+1545057,11/15/2014,FBS,Northwestern,Notre Dame,RECEIVING,Treyvon,Green,REC,2
+1545058,11/15/2014,FBS,Northwestern,Notre Dame,RECEIVING,Treyvon,Green,YDS,10
+1545059,11/15/2014,FBS,Northwestern,Notre Dame,RECEIVING,Treyvon,Green,TD,0
+1545060,11/15/2014,FBS,Northwestern,Notre Dame,RECEIVING,Treyvon,Green,LONG,6
+1545061,11/15/2014,FBS,Northwestern,Notre Dame,RECEIVING,Tim,Hanrahan,REC,1
+1545062,11/15/2014,FBS,Northwestern,Notre Dame,RECEIVING,Tim,Hanrahan,YDS,10
+1545063,11/15/2014,FBS,Northwestern,Notre Dame,RECEIVING,Tim,Hanrahan,TD,0
+1545064,11/15/2014,FBS,Northwestern,Notre Dame,RECEIVING,Tim,Hanrahan,LONG,10
+1545065,11/15/2014,FBS,Northwestern,Notre Dame,RECEIVING,Justin,Jackson,REC,1
+1545066,11/15/2014,FBS,Northwestern,Notre Dame,RECEIVING,Justin,Jackson,YDS,9
+1545067,11/15/2014,FBS,Northwestern,Notre Dame,RECEIVING,Justin,Jackson,TD,0
+1545068,11/15/2014,FBS,Northwestern,Notre Dame,RECEIVING,Justin,Jackson,LONG,9
+1545069,11/15/2014,FBS,Northwestern,Notre Dame,KICKING,Jack,Mitchell,FG-FGA,4/5
+1545070,11/15/2014,FBS,Northwestern,Notre Dame,KICKING,Jack,Mitchell,LONG,46
+1545071,11/15/2014,FBS,Northwestern,Notre Dame,KICKING,Jack,Mitchell,XP,3
+1545072,11/15/2014,FBS,Northwestern,Notre Dame,KICKING,Jack,Mitchell,PTS,15
+1545073,11/15/2014,FBS,Northwestern,Notre Dame,PUNTING,Chris,Gradone,NO,1
+1545074,11/15/2014,FBS,Northwestern,Notre Dame,PUNTING,Chris,Gradone,YDS,47
+1545075,11/15/2014,FBS,Northwestern,Notre Dame,PUNTING,Chris,Gradone,AVG,47.0
+1545076,11/15/2014,FBS,Northwestern,Notre Dame,PUNTING,Chris,Gradone,LONG,47
+1545077,11/15/2014,FBS,Northwestern,Notre Dame,PUNT RETURNS,Tony,Jones,NO,0
+1545078,11/15/2014,FBS,Northwestern,Notre Dame,PUNT RETURNS,Tony,Jones,YDS,0
+1545079,11/15/2014,FBS,Northwestern,Notre Dame,PUNT RETURNS,Tony,Jones,AVG,-
+1545080,11/15/2014,FBS,Northwestern,Notre Dame,PUNT RETURNS,Tony,Jones,LONG,0
+1545081,11/15/2014,FBS,Northwestern,Notre Dame,PUNT RETURNS,Mike,McHugh,NO,1
+1545082,11/15/2014,FBS,Northwestern,Notre Dame,PUNT RETURNS,Mike,McHugh,YDS,-3
+1545083,11/15/2014,FBS,Northwestern,Notre Dame,PUNT RETURNS,Mike,McHugh,AVG,-
+1545084,11/15/2014,FBS,Northwestern,Notre Dame,PUNT RETURNS,Mike,McHugh,LONG,-3
+1545085,11/15/2014,FBS,Northwestern,Notre Dame,KICK RETURNS,Treyvon,Green,NO,5
+1545086,11/15/2014,FBS,Northwestern,Notre Dame,KICK RETURNS,Treyvon,Green,YDS,97
+1545087,11/15/2014,FBS,Northwestern,Notre Dame,KICK RETURNS,Treyvon,Green,AVG,19.4
+1545088,11/15/2014,FBS,Northwestern,Notre Dame,KICK RETURNS,Treyvon,Green,LONG,26
+1545089,11/15/2014,FBS,Notre Dame,Northwestern,RUSHING,Tarean,Folston,ATT,20
+1545090,11/15/2014,FBS,Notre Dame,Northwestern,RUSHING,Tarean,Folston,YDS,106
+1545091,11/15/2014,FBS,Notre Dame,Northwestern,RUSHING,Tarean,Folston,TD,1
+1545092,11/15/2014,FBS,Notre Dame,Northwestern,RUSHING,Tarean,Folston,LONG,13
+1545093,11/15/2014,FBS,Notre Dame,Northwestern,RUSHING,Everett,Golson,ATT,10
+1545094,11/15/2014,FBS,Notre Dame,Northwestern,RUSHING,Everett,Golson,YDS,78
+1545095,11/15/2014,FBS,Notre Dame,Northwestern,RUSHING,Everett,Golson,TD,1
+1545096,11/15/2014,FBS,Notre Dame,Northwestern,RUSHING,Everett,Golson,LONG,61
+1545097,11/15/2014,FBS,Notre Dame,Northwestern,RUSHING,Amir,Carlisle,ATT,1
+1545098,11/15/2014,FBS,Notre Dame,Northwestern,RUSHING,Amir,Carlisle,YDS,16
+1545099,11/15/2014,FBS,Notre Dame,Northwestern,RUSHING,Amir,Carlisle,TD,0
+1545100,11/15/2014,FBS,Notre Dame,Northwestern,RUSHING,Amir,Carlisle,LONG,16
+1545101,11/15/2014,FBS,Notre Dame,Northwestern,RUSHING,Cam,McDaniel,ATT,4
+1545102,11/15/2014,FBS,Notre Dame,Northwestern,RUSHING,Cam,McDaniel,YDS,12
+1545103,11/15/2014,FBS,Notre Dame,Northwestern,RUSHING,Cam,McDaniel,TD,0
+1545104,11/15/2014,FBS,Notre Dame,Northwestern,RUSHING,Cam,McDaniel,LONG,5
+1545105,11/15/2014,FBS,Notre Dame,Northwestern,RUSHING,Greg,Bryant,ATT,1
+1545106,11/15/2014,FBS,Notre Dame,Northwestern,RUSHING,Greg,Bryant,YDS,5
+1545107,11/15/2014,FBS,Notre Dame,Northwestern,RUSHING,Greg,Bryant,TD,0
+1545108,11/15/2014,FBS,Notre Dame,Northwestern,RUSHING,Greg,Bryant,LONG,5
+1545109,11/15/2014,FBS,Notre Dame,Northwestern,RUSHING,Chris,Brown,ATT,1
+1545110,11/15/2014,FBS,Notre Dame,Northwestern,RUSHING,Chris,Brown,YDS,5
+1545111,11/15/2014,FBS,Notre Dame,Northwestern,RUSHING,Chris,Brown,TD,0
+1545112,11/15/2014,FBS,Notre Dame,Northwestern,RUSHING,Chris,Brown,LONG,5
+1545113,11/15/2014,FBS,Notre Dame,Northwestern,RUSHING,C.J.,Prosise,ATT,2
+1545114,11/15/2014,FBS,Notre Dame,Northwestern,RUSHING,C.J.,Prosise,YDS,-3
+1545115,11/15/2014,FBS,Notre Dame,Northwestern,RUSHING,C.J.,Prosise,TD,0
+1545116,11/15/2014,FBS,Notre Dame,Northwestern,RUSHING,C.J.,Prosise,LONG,1
+1545117,11/15/2014,FBS,Notre Dame,Northwestern,RUSHING,,Team,ATT,1
+1545118,11/15/2014,FBS,Notre Dame,Northwestern,RUSHING,,Team,YDS,-8
+1545119,11/15/2014,FBS,Notre Dame,Northwestern,RUSHING,,Team,TD,0
+1545120,11/15/2014,FBS,Notre Dame,Northwestern,RUSHING,,Team,LONG,-8
+1545121,11/15/2014,FBS,Notre Dame,Northwestern,PASSING,Everett,Golson,CP-ATT-INT,21-40-1
+1545122,11/15/2014,FBS,Notre Dame,Northwestern,PASSING,Everett,Golson,YDS,287
+1545123,11/15/2014,FBS,Notre Dame,Northwestern,PASSING,Everett,Golson,TD,3
+1545124,11/15/2014,FBS,Notre Dame,Northwestern,PASSING,Everett,Golson,LONG,42
+1545125,11/15/2014,FBS,Notre Dame,Northwestern,RECEIVING,William,Fuller,REC,9
+1545126,11/15/2014,FBS,Notre Dame,Northwestern,RECEIVING,William,Fuller,YDS,159
+1545127,11/15/2014,FBS,Notre Dame,Northwestern,RECEIVING,William,Fuller,TD,3
+1545128,11/15/2014,FBS,Notre Dame,Northwestern,RECEIVING,William,Fuller,LONG,42
+1545129,11/15/2014,FBS,Notre Dame,Northwestern,RECEIVING,Chris,Brown,REC,5
+1545130,11/15/2014,FBS,Notre Dame,Northwestern,RECEIVING,Chris,Brown,YDS,60
+1545131,11/15/2014,FBS,Notre Dame,Northwestern,RECEIVING,Chris,Brown,TD,0
+1545132,11/15/2014,FBS,Notre Dame,Northwestern,RECEIVING,Chris,Brown,LONG,21
+1545133,11/15/2014,FBS,Notre Dame,Northwestern,RECEIVING,C.J.,Prosise,REC,1
+1545134,11/15/2014,FBS,Notre Dame,Northwestern,RECEIVING,C.J.,Prosise,YDS,33
+1545135,11/15/2014,FBS,Notre Dame,Northwestern,RECEIVING,C.J.,Prosise,TD,0
+1545136,11/15/2014,FBS,Notre Dame,Northwestern,RECEIVING,C.J.,Prosise,LONG,33
+1545137,11/15/2014,FBS,Notre Dame,Northwestern,RECEIVING,Ben,Koyack,REC,2
+1545138,11/15/2014,FBS,Notre Dame,Northwestern,RECEIVING,Ben,Koyack,YDS,22
+1545139,11/15/2014,FBS,Notre Dame,Northwestern,RECEIVING,Ben,Koyack,TD,0
+1545140,11/15/2014,FBS,Notre Dame,Northwestern,RECEIVING,Ben,Koyack,LONG,14
+1545141,11/15/2014,FBS,Notre Dame,Northwestern,RECEIVING,Corey,Robinson,REC,2
+1545142,11/15/2014,FBS,Notre Dame,Northwestern,RECEIVING,Corey,Robinson,YDS,14
+1545143,11/15/2014,FBS,Notre Dame,Northwestern,RECEIVING,Corey,Robinson,TD,0
+1545144,11/15/2014,FBS,Notre Dame,Northwestern,RECEIVING,Corey,Robinson,LONG,11
+1545145,11/15/2014,FBS,Notre Dame,Northwestern,RECEIVING,Tarean,Folston,REC,2
+1545146,11/15/2014,FBS,Notre Dame,Northwestern,RECEIVING,Tarean,Folston,YDS,-1
+1545147,11/15/2014,FBS,Notre Dame,Northwestern,RECEIVING,Tarean,Folston,TD,0
+1545148,11/15/2014,FBS,Notre Dame,Northwestern,RECEIVING,Tarean,Folston,LONG,0
+1545149,11/15/2014,FBS,Notre Dame,Northwestern,KICKING,Kyle,Brindza,FG-FGA,0/2
+1545150,11/15/2014,FBS,Notre Dame,Northwestern,KICKING,Kyle,Brindza,LONG,0
+1545151,11/15/2014,FBS,Notre Dame,Northwestern,KICKING,Kyle,Brindza,XP,4
+1545152,11/15/2014,FBS,Notre Dame,Northwestern,KICKING,Kyle,Brindza,PTS,4
+1545153,11/15/2014,FBS,Notre Dame,Northwestern,PUNTING,Kyle,Brindza,NO,4
+1545154,11/15/2014,FBS,Notre Dame,Northwestern,PUNTING,Kyle,Brindza,YDS,140
+1545155,11/15/2014,FBS,Notre Dame,Northwestern,PUNTING,Kyle,Brindza,AVG,35.0
+1545156,11/15/2014,FBS,Notre Dame,Northwestern,PUNTING,Kyle,Brindza,LONG,52
+1545157,11/15/2014,FBS,Notre Dame,Northwestern,PUNT RETURNS,Greg,Bryant,NO,1
+1545158,11/15/2014,FBS,Notre Dame,Northwestern,PUNT RETURNS,Greg,Bryant,YDS,0
+1545159,11/15/2014,FBS,Notre Dame,Northwestern,PUNT RETURNS,Greg,Bryant,AVG,-
+1545160,11/15/2014,FBS,Notre Dame,Northwestern,PUNT RETURNS,Greg,Bryant,LONG,0
+1545161,11/15/2014,FBS,Notre Dame,Northwestern,KICK RETURNS,Amir,Carlisle,NO,6
+1545162,11/15/2014,FBS,Notre Dame,Northwestern,KICK RETURNS,Amir,Carlisle,YDS,122
+1545163,11/15/2014,FBS,Notre Dame,Northwestern,KICK RETURNS,Amir,Carlisle,AVG,20.3
+1545164,11/15/2014,FBS,Notre Dame,Northwestern,KICK RETURNS,Amir,Carlisle,LONG,30
+1545165,11/15/2014,FBS,Notre Dame,Northwestern,KICK RETURNS,Justin,Utupo,NO,1
+1545166,11/15/2014,FBS,Notre Dame,Northwestern,KICK RETURNS,Justin,Utupo,YDS,11
+1545167,11/15/2014,FBS,Notre Dame,Northwestern,KICK RETURNS,Justin,Utupo,AVG,11.0
+1545168,11/15/2014,FBS,Notre Dame,Northwestern,KICK RETURNS,Justin,Utupo,LONG,11

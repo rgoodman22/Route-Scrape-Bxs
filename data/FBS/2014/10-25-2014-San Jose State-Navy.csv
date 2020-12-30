@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1419001,10/25/2014,FBS,San Jose State,Navy,RUSHING,Tyler,Ervin,ATT,19
+1419002,10/25/2014,FBS,San Jose State,Navy,RUSHING,Tyler,Ervin,YDS,72
+1419003,10/25/2014,FBS,San Jose State,Navy,RUSHING,Tyler,Ervin,TD,1
+1419004,10/25/2014,FBS,San Jose State,Navy,RUSHING,Tyler,Ervin,LONG,19
+1419005,10/25/2014,FBS,San Jose State,Navy,RUSHING,Tim,Crawley,ATT,3
+1419006,10/25/2014,FBS,San Jose State,Navy,RUSHING,Tim,Crawley,YDS,20
+1419007,10/25/2014,FBS,San Jose State,Navy,RUSHING,Tim,Crawley,TD,0
+1419008,10/25/2014,FBS,San Jose State,Navy,RUSHING,Tim,Crawley,LONG,14
+1419009,10/25/2014,FBS,San Jose State,Navy,RUSHING,Joe,Gray,ATT,3
+1419010,10/25/2014,FBS,San Jose State,Navy,RUSHING,Joe,Gray,YDS,8
+1419011,10/25/2014,FBS,San Jose State,Navy,RUSHING,Joe,Gray,TD,0
+1419012,10/25/2014,FBS,San Jose State,Navy,RUSHING,Joe,Gray,LONG,6
+1419013,10/25/2014,FBS,San Jose State,Navy,PASSING,Joe,Gray,CP-ATT-INT,33-46-1
+1419014,10/25/2014,FBS,San Jose State,Navy,PASSING,Joe,Gray,YDS,322
+1419015,10/25/2014,FBS,San Jose State,Navy,PASSING,Joe,Gray,TD,3
+1419016,10/25/2014,FBS,San Jose State,Navy,PASSING,Joe,Gray,LONG,37
+1419017,10/25/2014,FBS,San Jose State,Navy,RECEIVING,Tim,Crawley,REC,8
+1419018,10/25/2014,FBS,San Jose State,Navy,RECEIVING,Tim,Crawley,YDS,102
+1419019,10/25/2014,FBS,San Jose State,Navy,RECEIVING,Tim,Crawley,TD,1
+1419020,10/25/2014,FBS,San Jose State,Navy,RECEIVING,Tim,Crawley,LONG,33
+1419021,10/25/2014,FBS,San Jose State,Navy,RECEIVING,Andrew,Vollert,REC,3
+1419022,10/25/2014,FBS,San Jose State,Navy,RECEIVING,Andrew,Vollert,YDS,51
+1419023,10/25/2014,FBS,San Jose State,Navy,RECEIVING,Andrew,Vollert,TD,0
+1419024,10/25/2014,FBS,San Jose State,Navy,RECEIVING,Andrew,Vollert,LONG,37
+1419025,10/25/2014,FBS,San Jose State,Navy,RECEIVING,Billy,Freeman,REC,5
+1419026,10/25/2014,FBS,San Jose State,Navy,RECEIVING,Billy,Freeman,YDS,45
+1419027,10/25/2014,FBS,San Jose State,Navy,RECEIVING,Billy,Freeman,TD,1
+1419028,10/25/2014,FBS,San Jose State,Navy,RECEIVING,Billy,Freeman,LONG,16
+1419029,10/25/2014,FBS,San Jose State,Navy,RECEIVING,Tyler,Winston,REC,5
+1419030,10/25/2014,FBS,San Jose State,Navy,RECEIVING,Tyler,Winston,YDS,41
+1419031,10/25/2014,FBS,San Jose State,Navy,RECEIVING,Tyler,Winston,TD,0
+1419032,10/25/2014,FBS,San Jose State,Navy,RECEIVING,Tyler,Winston,LONG,11
+1419033,10/25/2014,FBS,San Jose State,Navy,RECEIVING,Hansell,Wilson,REC,4
+1419034,10/25/2014,FBS,San Jose State,Navy,RECEIVING,Hansell,Wilson,YDS,31
+1419035,10/25/2014,FBS,San Jose State,Navy,RECEIVING,Hansell,Wilson,TD,1
+1419036,10/25/2014,FBS,San Jose State,Navy,RECEIVING,Hansell,Wilson,LONG,15
+1419037,10/25/2014,FBS,San Jose State,Navy,RECEIVING,Tyler,Ervin,REC,3
+1419038,10/25/2014,FBS,San Jose State,Navy,RECEIVING,Tyler,Ervin,YDS,30
+1419039,10/25/2014,FBS,San Jose State,Navy,RECEIVING,Tyler,Ervin,TD,0
+1419040,10/25/2014,FBS,San Jose State,Navy,RECEIVING,Tyler,Ervin,LONG,12
+1419041,10/25/2014,FBS,San Jose State,Navy,RECEIVING,Jabari,Carr,REC,5
+1419042,10/25/2014,FBS,San Jose State,Navy,RECEIVING,Jabari,Carr,YDS,22
+1419043,10/25/2014,FBS,San Jose State,Navy,RECEIVING,Jabari,Carr,TD,0
+1419044,10/25/2014,FBS,San Jose State,Navy,RECEIVING,Jabari,Carr,LONG,12
+1419045,10/25/2014,FBS,San Jose State,Navy,KICKING,Austin,Lopez,FG-FGA,1/1
+1419046,10/25/2014,FBS,San Jose State,Navy,KICKING,Austin,Lopez,LONG,22
+1419047,10/25/2014,FBS,San Jose State,Navy,KICKING,Austin,Lopez,XP,4
+1419048,10/25/2014,FBS,San Jose State,Navy,KICKING,Austin,Lopez,PTS,7
+1419049,10/25/2014,FBS,San Jose State,Navy,PUNTING,Michael,Carrizosa,NO,3
+1419050,10/25/2014,FBS,San Jose State,Navy,PUNTING,Michael,Carrizosa,YDS,133
+1419051,10/25/2014,FBS,San Jose State,Navy,PUNTING,Michael,Carrizosa,AVG,44.3
+1419052,10/25/2014,FBS,San Jose State,Navy,PUNTING,Michael,Carrizosa,LONG,50
+1419053,10/25/2014,FBS,San Jose State,Navy,PUNT RETURNS,Tyler,Ervin,NO,1
+1419054,10/25/2014,FBS,San Jose State,Navy,PUNT RETURNS,Tyler,Ervin,YDS,-1
+1419055,10/25/2014,FBS,San Jose State,Navy,PUNT RETURNS,Tyler,Ervin,AVG,-
+1419056,10/25/2014,FBS,San Jose State,Navy,PUNT RETURNS,Tyler,Ervin,LONG,-1
+1419057,10/25/2014,FBS,San Jose State,Navy,KICK RETURNS,Tyler,Ervin,NO,4
+1419058,10/25/2014,FBS,San Jose State,Navy,KICK RETURNS,Tyler,Ervin,YDS,92
+1419059,10/25/2014,FBS,San Jose State,Navy,KICK RETURNS,Tyler,Ervin,AVG,23.0
+1419060,10/25/2014,FBS,San Jose State,Navy,KICK RETURNS,Tyler,Ervin,LONG,28
+1419061,10/25/2014,FBS,Navy,San Jose State,RUSHING,Keenan,Reynolds,ATT,39
+1419062,10/25/2014,FBS,Navy,San Jose State,RUSHING,Keenan,Reynolds,YDS,251
+1419063,10/25/2014,FBS,Navy,San Jose State,RUSHING,Keenan,Reynolds,TD,3
+1419064,10/25/2014,FBS,Navy,San Jose State,RUSHING,Keenan,Reynolds,LONG,47
+1419065,10/25/2014,FBS,Navy,San Jose State,RUSHING,Noah,Copeland,ATT,9
+1419066,10/25/2014,FBS,Navy,San Jose State,RUSHING,Noah,Copeland,YDS,70
+1419067,10/25/2014,FBS,Navy,San Jose State,RUSHING,Noah,Copeland,TD,1
+1419068,10/25/2014,FBS,Navy,San Jose State,RUSHING,Noah,Copeland,LONG,36
+1419069,10/25/2014,FBS,Navy,San Jose State,RUSHING,Chris,Swain,ATT,8
+1419070,10/25/2014,FBS,Navy,San Jose State,RUSHING,Chris,Swain,YDS,41
+1419071,10/25/2014,FBS,Navy,San Jose State,RUSHING,Chris,Swain,TD,0
+1419072,10/25/2014,FBS,Navy,San Jose State,RUSHING,Chris,Swain,LONG,17
+1419073,10/25/2014,FBS,Navy,San Jose State,RUSHING,Dishan,Romine,ATT,3
+1419074,10/25/2014,FBS,Navy,San Jose State,RUSHING,Dishan,Romine,YDS,29
+1419075,10/25/2014,FBS,Navy,San Jose State,RUSHING,Dishan,Romine,TD,0
+1419076,10/25/2014,FBS,Navy,San Jose State,RUSHING,Dishan,Romine,LONG,14
+1419077,10/25/2014,FBS,Navy,San Jose State,RUSHING,DeBrandon,Sanders,ATT,3
+1419078,10/25/2014,FBS,Navy,San Jose State,RUSHING,DeBrandon,Sanders,YDS,26
+1419079,10/25/2014,FBS,Navy,San Jose State,RUSHING,DeBrandon,Sanders,TD,1
+1419080,10/25/2014,FBS,Navy,San Jose State,RUSHING,DeBrandon,Sanders,LONG,11
+1419081,10/25/2014,FBS,Navy,San Jose State,RUSHING,Calvin,CassJr.,ATT,1
+1419082,10/25/2014,FBS,Navy,San Jose State,RUSHING,Calvin,CassJr.,YDS,6
+1419083,10/25/2014,FBS,Navy,San Jose State,RUSHING,Calvin,CassJr.,TD,0
+1419084,10/25/2014,FBS,Navy,San Jose State,RUSHING,Calvin,CassJr.,LONG,6
+1419085,10/25/2014,FBS,Navy,San Jose State,RUSHING,Quinton,Singleton,ATT,2
+1419086,10/25/2014,FBS,Navy,San Jose State,RUSHING,Quinton,Singleton,YDS,4
+1419087,10/25/2014,FBS,Navy,San Jose State,RUSHING,Quinton,Singleton,TD,0
+1419088,10/25/2014,FBS,Navy,San Jose State,RUSHING,Quinton,Singleton,LONG,3
+1419089,10/25/2014,FBS,Navy,San Jose State,RUSHING,,Team,ATT,3
+1419090,10/25/2014,FBS,Navy,San Jose State,RUSHING,,Team,YDS,-4
+1419091,10/25/2014,FBS,Navy,San Jose State,RUSHING,,Team,TD,0
+1419092,10/25/2014,FBS,Navy,San Jose State,RUSHING,,Team,LONG,-1
+1419093,10/25/2014,FBS,Navy,San Jose State,PASSING,Keenan,Reynolds,CP-ATT-INT,4-7-0
+1419094,10/25/2014,FBS,Navy,San Jose State,PASSING,Keenan,Reynolds,YDS,56
+1419095,10/25/2014,FBS,Navy,San Jose State,PASSING,Keenan,Reynolds,TD,0
+1419096,10/25/2014,FBS,Navy,San Jose State,PASSING,Keenan,Reynolds,LONG,27
+1419097,10/25/2014,FBS,Navy,San Jose State,PASSING,,Team,CP-ATT-INT,0-1-0
+1419098,10/25/2014,FBS,Navy,San Jose State,PASSING,,Team,YDS,0
+1419099,10/25/2014,FBS,Navy,San Jose State,PASSING,,Team,TD,0
+1419100,10/25/2014,FBS,Navy,San Jose State,PASSING,,Team,LONG,0
+1419101,10/25/2014,FBS,Navy,San Jose State,RECEIVING,DeBrandon,Sanders,REC,1
+1419102,10/25/2014,FBS,Navy,San Jose State,RECEIVING,DeBrandon,Sanders,YDS,27
+1419103,10/25/2014,FBS,Navy,San Jose State,RECEIVING,DeBrandon,Sanders,TD,0
+1419104,10/25/2014,FBS,Navy,San Jose State,RECEIVING,DeBrandon,Sanders,LONG,27
+1419105,10/25/2014,FBS,Navy,San Jose State,RECEIVING,Brandon,Colon,REC,1
+1419106,10/25/2014,FBS,Navy,San Jose State,RECEIVING,Brandon,Colon,YDS,13
+1419107,10/25/2014,FBS,Navy,San Jose State,RECEIVING,Brandon,Colon,TD,0
+1419108,10/25/2014,FBS,Navy,San Jose State,RECEIVING,Brandon,Colon,LONG,13
+1419109,10/25/2014,FBS,Navy,San Jose State,RECEIVING,Jamir,Tillman,REC,1
+1419110,10/25/2014,FBS,Navy,San Jose State,RECEIVING,Jamir,Tillman,YDS,8
+1419111,10/25/2014,FBS,Navy,San Jose State,RECEIVING,Jamir,Tillman,TD,0
+1419112,10/25/2014,FBS,Navy,San Jose State,RECEIVING,Jamir,Tillman,LONG,8
+1419113,10/25/2014,FBS,Navy,San Jose State,RECEIVING,Brendan,Dudeck,REC,1
+1419114,10/25/2014,FBS,Navy,San Jose State,RECEIVING,Brendan,Dudeck,YDS,8
+1419115,10/25/2014,FBS,Navy,San Jose State,RECEIVING,Brendan,Dudeck,TD,0
+1419116,10/25/2014,FBS,Navy,San Jose State,RECEIVING,Brendan,Dudeck,LONG,8
+1419117,10/25/2014,FBS,Navy,San Jose State,KICKING,Austin,Grebe,FG-FGA,2/2
+1419118,10/25/2014,FBS,Navy,San Jose State,KICKING,Austin,Grebe,LONG,33
+1419119,10/25/2014,FBS,Navy,San Jose State,KICKING,Austin,Grebe,XP,5
+1419120,10/25/2014,FBS,Navy,San Jose State,KICKING,Austin,Grebe,PTS,11
+1419121,10/25/2014,FBS,Navy,San Jose State,PUNTING,Pablo,Beltran,NO,1
+1419122,10/25/2014,FBS,Navy,San Jose State,PUNTING,Pablo,Beltran,YDS,43
+1419123,10/25/2014,FBS,Navy,San Jose State,PUNTING,Pablo,Beltran,AVG,43.0
+1419124,10/25/2014,FBS,Navy,San Jose State,PUNTING,Pablo,Beltran,LONG,43
+1419125,10/25/2014,FBS,Navy,San Jose State,PUNT RETURNS,DeBrandon,Sanders,NO,1
+1419126,10/25/2014,FBS,Navy,San Jose State,PUNT RETURNS,DeBrandon,Sanders,YDS,19
+1419127,10/25/2014,FBS,Navy,San Jose State,PUNT RETURNS,DeBrandon,Sanders,AVG,19.0
+1419128,10/25/2014,FBS,Navy,San Jose State,PUNT RETURNS,DeBrandon,Sanders,LONG,19
+1419129,10/25/2014,FBS,Navy,San Jose State,KICK RETURNS,Demond,Brown,NO,2
+1419130,10/25/2014,FBS,Navy,San Jose State,KICK RETURNS,Demond,Brown,YDS,30
+1419131,10/25/2014,FBS,Navy,San Jose State,KICK RETURNS,Demond,Brown,AVG,15.0
+1419132,10/25/2014,FBS,Navy,San Jose State,KICK RETURNS,Demond,Brown,LONG,16
+1419133,10/25/2014,FBS,Navy,San Jose State,KICK RETURNS,Calvin,CassJr.,NO,2
+1419134,10/25/2014,FBS,Navy,San Jose State,KICK RETURNS,Calvin,CassJr.,YDS,0
+1419135,10/25/2014,FBS,Navy,San Jose State,KICK RETURNS,Calvin,CassJr.,AVG,-
+1419136,10/25/2014,FBS,Navy,San Jose State,KICK RETURNS,Calvin,CassJr.,LONG,0

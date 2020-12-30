@@ -1,0 +1,169 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1587001,11/22/2014,FBS,Penn State,Illinois,RUSHING,Akeel,Lynch,ATT,28
+1587002,11/22/2014,FBS,Penn State,Illinois,RUSHING,Akeel,Lynch,YDS,137
+1587003,11/22/2014,FBS,Penn State,Illinois,RUSHING,Akeel,Lynch,TD,1
+1587004,11/22/2014,FBS,Penn State,Illinois,RUSHING,Akeel,Lynch,LONG,47
+1587005,11/22/2014,FBS,Penn State,Illinois,RUSHING,Brad,Bars,ATT,1
+1587006,11/22/2014,FBS,Penn State,Illinois,RUSHING,Brad,Bars,YDS,32
+1587007,11/22/2014,FBS,Penn State,Illinois,RUSHING,Brad,Bars,TD,0
+1587008,11/22/2014,FBS,Penn State,Illinois,RUSHING,Brad,Bars,LONG,32
+1587009,11/22/2014,FBS,Penn State,Illinois,RUSHING,DaeSean,Hamilton,ATT,3
+1587010,11/22/2014,FBS,Penn State,Illinois,RUSHING,DaeSean,Hamilton,YDS,14
+1587011,11/22/2014,FBS,Penn State,Illinois,RUSHING,DaeSean,Hamilton,TD,0
+1587012,11/22/2014,FBS,Penn State,Illinois,RUSHING,DaeSean,Hamilton,LONG,11
+1587013,11/22/2014,FBS,Penn State,Illinois,RUSHING,Cole,Chiappialle,ATT,3
+1587014,11/22/2014,FBS,Penn State,Illinois,RUSHING,Cole,Chiappialle,YDS,8
+1587015,11/22/2014,FBS,Penn State,Illinois,RUSHING,Cole,Chiappialle,TD,0
+1587016,11/22/2014,FBS,Penn State,Illinois,RUSHING,Cole,Chiappialle,LONG,3
+1587017,11/22/2014,FBS,Penn State,Illinois,RUSHING,Bill,Belton,ATT,6
+1587018,11/22/2014,FBS,Penn State,Illinois,RUSHING,Bill,Belton,YDS,6
+1587019,11/22/2014,FBS,Penn State,Illinois,RUSHING,Bill,Belton,TD,0
+1587020,11/22/2014,FBS,Penn State,Illinois,RUSHING,Bill,Belton,LONG,5
+1587021,11/22/2014,FBS,Penn State,Illinois,RUSHING,Geno,Lewis,ATT,1
+1587022,11/22/2014,FBS,Penn State,Illinois,RUSHING,Geno,Lewis,YDS,1
+1587023,11/22/2014,FBS,Penn State,Illinois,RUSHING,Geno,Lewis,TD,0
+1587024,11/22/2014,FBS,Penn State,Illinois,RUSHING,Geno,Lewis,LONG,1
+1587025,11/22/2014,FBS,Penn State,Illinois,RUSHING,,Team,ATT,1
+1587026,11/22/2014,FBS,Penn State,Illinois,RUSHING,,Team,YDS,-1
+1587027,11/22/2014,FBS,Penn State,Illinois,RUSHING,,Team,TD,0
+1587028,11/22/2014,FBS,Penn State,Illinois,RUSHING,,Team,LONG,-1
+1587029,11/22/2014,FBS,Penn State,Illinois,RUSHING,Chris,Gulla,ATT,1
+1587030,11/22/2014,FBS,Penn State,Illinois,RUSHING,Chris,Gulla,YDS,-8
+1587031,11/22/2014,FBS,Penn State,Illinois,RUSHING,Chris,Gulla,TD,0
+1587032,11/22/2014,FBS,Penn State,Illinois,RUSHING,Chris,Gulla,LONG,-8
+1587033,11/22/2014,FBS,Penn State,Illinois,RUSHING,Christian,Hackenberg,ATT,3
+1587034,11/22/2014,FBS,Penn State,Illinois,RUSHING,Christian,Hackenberg,YDS,-16
+1587035,11/22/2014,FBS,Penn State,Illinois,RUSHING,Christian,Hackenberg,TD,0
+1587036,11/22/2014,FBS,Penn State,Illinois,RUSHING,Christian,Hackenberg,LONG,4
+1587037,11/22/2014,FBS,Penn State,Illinois,PASSING,Christian,Hackenberg,CP-ATT-INT,8-16-0
+1587038,11/22/2014,FBS,Penn State,Illinois,PASSING,Christian,Hackenberg,YDS,93
+1587039,11/22/2014,FBS,Penn State,Illinois,PASSING,Christian,Hackenberg,TD,1
+1587040,11/22/2014,FBS,Penn State,Illinois,PASSING,Christian,Hackenberg,LONG,18
+1587041,11/22/2014,FBS,Penn State,Illinois,RECEIVING,Akeel,Lynch,REC,2
+1587042,11/22/2014,FBS,Penn State,Illinois,RECEIVING,Akeel,Lynch,YDS,35
+1587043,11/22/2014,FBS,Penn State,Illinois,RECEIVING,Akeel,Lynch,TD,0
+1587044,11/22/2014,FBS,Penn State,Illinois,RECEIVING,Akeel,Lynch,LONG,16
+1587045,11/22/2014,FBS,Penn State,Illinois,RECEIVING,Chris,Godwin,REC,1
+1587046,11/22/2014,FBS,Penn State,Illinois,RECEIVING,Chris,Godwin,YDS,18
+1587047,11/22/2014,FBS,Penn State,Illinois,RECEIVING,Chris,Godwin,TD,1
+1587048,11/22/2014,FBS,Penn State,Illinois,RECEIVING,Chris,Godwin,LONG,18
+1587049,11/22/2014,FBS,Penn State,Illinois,RECEIVING,Bill,Belton,REC,1
+1587050,11/22/2014,FBS,Penn State,Illinois,RECEIVING,Bill,Belton,YDS,9
+1587051,11/22/2014,FBS,Penn State,Illinois,RECEIVING,Bill,Belton,TD,0
+1587052,11/22/2014,FBS,Penn State,Illinois,RECEIVING,Bill,Belton,LONG,9
+1587053,11/22/2014,FBS,Penn State,Illinois,RECEIVING,Jesse,James,REC,1
+1587054,11/22/2014,FBS,Penn State,Illinois,RECEIVING,Jesse,James,YDS,9
+1587055,11/22/2014,FBS,Penn State,Illinois,RECEIVING,Jesse,James,TD,0
+1587056,11/22/2014,FBS,Penn State,Illinois,RECEIVING,Jesse,James,LONG,9
+1587057,11/22/2014,FBS,Penn State,Illinois,RECEIVING,Geno,Lewis,REC,1
+1587058,11/22/2014,FBS,Penn State,Illinois,RECEIVING,Geno,Lewis,YDS,9
+1587059,11/22/2014,FBS,Penn State,Illinois,RECEIVING,Geno,Lewis,TD,0
+1587060,11/22/2014,FBS,Penn State,Illinois,RECEIVING,Geno,Lewis,LONG,9
+1587061,11/22/2014,FBS,Penn State,Illinois,RECEIVING,Mike,Gesicki,REC,1
+1587062,11/22/2014,FBS,Penn State,Illinois,RECEIVING,Mike,Gesicki,YDS,7
+1587063,11/22/2014,FBS,Penn State,Illinois,RECEIVING,Mike,Gesicki,TD,0
+1587064,11/22/2014,FBS,Penn State,Illinois,RECEIVING,Mike,Gesicki,LONG,7
+1587065,11/22/2014,FBS,Penn State,Illinois,RECEIVING,DaeSean,Hamilton,REC,1
+1587066,11/22/2014,FBS,Penn State,Illinois,RECEIVING,DaeSean,Hamilton,YDS,6
+1587067,11/22/2014,FBS,Penn State,Illinois,RECEIVING,DaeSean,Hamilton,TD,0
+1587068,11/22/2014,FBS,Penn State,Illinois,RECEIVING,DaeSean,Hamilton,LONG,6
+1587069,11/22/2014,FBS,Penn State,Illinois,KICKING,Sam,Ficken,FG-FGA,0/0
+1587070,11/22/2014,FBS,Penn State,Illinois,KICKING,Sam,Ficken,LONG,-
+1587071,11/22/2014,FBS,Penn State,Illinois,KICKING,Sam,Ficken,XP,2
+1587072,11/22/2014,FBS,Penn State,Illinois,KICKING,Sam,Ficken,PTS,2
+1587073,11/22/2014,FBS,Penn State,Illinois,PUNTING,Daniel,Pasquariello,NO,7
+1587074,11/22/2014,FBS,Penn State,Illinois,PUNTING,Daniel,Pasquariello,YDS,274
+1587075,11/22/2014,FBS,Penn State,Illinois,PUNTING,Daniel,Pasquariello,AVG,39.1
+1587076,11/22/2014,FBS,Penn State,Illinois,PUNTING,Daniel,Pasquariello,LONG,49
+1587077,11/22/2014,FBS,Penn State,Illinois,PUNT RETURNS,Jesse,DellaValle,NO,1
+1587078,11/22/2014,FBS,Penn State,Illinois,PUNT RETURNS,Jesse,DellaValle,YDS,11
+1587079,11/22/2014,FBS,Penn State,Illinois,PUNT RETURNS,Jesse,DellaValle,AVG,11.0
+1587080,11/22/2014,FBS,Penn State,Illinois,PUNT RETURNS,Jesse,DellaValle,LONG,11
+1587081,11/22/2014,FBS,Penn State,Illinois,KICK RETURNS,Grant,Haley,NO,1
+1587082,11/22/2014,FBS,Penn State,Illinois,KICK RETURNS,Grant,Haley,YDS,21
+1587083,11/22/2014,FBS,Penn State,Illinois,KICK RETURNS,Grant,Haley,AVG,21.0
+1587084,11/22/2014,FBS,Penn State,Illinois,KICK RETURNS,Grant,Haley,LONG,21
+1587085,11/22/2014,FBS,Illinois,Penn State,RUSHING,Donovonn,Young,ATT,14
+1587086,11/22/2014,FBS,Illinois,Penn State,RUSHING,Donovonn,Young,YDS,62
+1587087,11/22/2014,FBS,Illinois,Penn State,RUSHING,Donovonn,Young,TD,0
+1587088,11/22/2014,FBS,Illinois,Penn State,RUSHING,Donovonn,Young,LONG,18
+1587089,11/22/2014,FBS,Illinois,Penn State,RUSHING,Josh,Ferguson,ATT,5
+1587090,11/22/2014,FBS,Illinois,Penn State,RUSHING,Josh,Ferguson,YDS,9
+1587091,11/22/2014,FBS,Illinois,Penn State,RUSHING,Josh,Ferguson,TD,0
+1587092,11/22/2014,FBS,Illinois,Penn State,RUSHING,Josh,Ferguson,LONG,16
+1587093,11/22/2014,FBS,Illinois,Penn State,RUSHING,Reilly,O'Toole,ATT,4
+1587094,11/22/2014,FBS,Illinois,Penn State,RUSHING,Reilly,O'Toole,YDS,8
+1587095,11/22/2014,FBS,Illinois,Penn State,RUSHING,Reilly,O'Toole,TD,0
+1587096,11/22/2014,FBS,Illinois,Penn State,RUSHING,Reilly,O'Toole,LONG,5
+1587097,11/22/2014,FBS,Illinois,Penn State,RUSHING,Devin,Church,ATT,1
+1587098,11/22/2014,FBS,Illinois,Penn State,RUSHING,Devin,Church,YDS,2
+1587099,11/22/2014,FBS,Illinois,Penn State,RUSHING,Devin,Church,TD,0
+1587100,11/22/2014,FBS,Illinois,Penn State,RUSHING,Devin,Church,LONG,2
+1587101,11/22/2014,FBS,Illinois,Penn State,RUSHING,Aaron,Bailey,ATT,1
+1587102,11/22/2014,FBS,Illinois,Penn State,RUSHING,Aaron,Bailey,YDS,1
+1587103,11/22/2014,FBS,Illinois,Penn State,RUSHING,Aaron,Bailey,TD,0
+1587104,11/22/2014,FBS,Illinois,Penn State,RUSHING,Aaron,Bailey,LONG,1
+1587105,11/22/2014,FBS,Illinois,Penn State,RUSHING,Wes,Lunt,ATT,2
+1587106,11/22/2014,FBS,Illinois,Penn State,RUSHING,Wes,Lunt,YDS,-14
+1587107,11/22/2014,FBS,Illinois,Penn State,RUSHING,Wes,Lunt,TD,0
+1587108,11/22/2014,FBS,Illinois,Penn State,RUSHING,Wes,Lunt,LONG,-6
+1587109,11/22/2014,FBS,Illinois,Penn State,PASSING,Reilly,O'Toole,CP-ATT-INT,18-25-0
+1587110,11/22/2014,FBS,Illinois,Penn State,PASSING,Reilly,O'Toole,YDS,157
+1587111,11/22/2014,FBS,Illinois,Penn State,PASSING,Reilly,O'Toole,TD,1
+1587112,11/22/2014,FBS,Illinois,Penn State,PASSING,Reilly,O'Toole,LONG,25
+1587113,11/22/2014,FBS,Illinois,Penn State,PASSING,Wes,Lunt,CP-ATT-INT,8-17-0
+1587114,11/22/2014,FBS,Illinois,Penn State,PASSING,Wes,Lunt,YDS,58
+1587115,11/22/2014,FBS,Illinois,Penn State,PASSING,Wes,Lunt,TD,0
+1587116,11/22/2014,FBS,Illinois,Penn State,PASSING,Wes,Lunt,LONG,12
+1587117,11/22/2014,FBS,Illinois,Penn State,RECEIVING,Mike,Dudek,REC,11
+1587118,11/22/2014,FBS,Illinois,Penn State,RECEIVING,Mike,Dudek,YDS,115
+1587119,11/22/2014,FBS,Illinois,Penn State,RECEIVING,Mike,Dudek,TD,0
+1587120,11/22/2014,FBS,Illinois,Penn State,RECEIVING,Mike,Dudek,LONG,25
+1587121,11/22/2014,FBS,Illinois,Penn State,RECEIVING,Malik,Turner,REC,2
+1587122,11/22/2014,FBS,Illinois,Penn State,RECEIVING,Malik,Turner,YDS,19
+1587123,11/22/2014,FBS,Illinois,Penn State,RECEIVING,Malik,Turner,TD,0
+1587124,11/22/2014,FBS,Illinois,Penn State,RECEIVING,Malik,Turner,LONG,11
+1587125,11/22/2014,FBS,Illinois,Penn State,RECEIVING,Josh,Ferguson,REC,3
+1587126,11/22/2014,FBS,Illinois,Penn State,RECEIVING,Josh,Ferguson,YDS,18
+1587127,11/22/2014,FBS,Illinois,Penn State,RECEIVING,Josh,Ferguson,TD,0
+1587128,11/22/2014,FBS,Illinois,Penn State,RECEIVING,Josh,Ferguson,LONG,8
+1587129,11/22/2014,FBS,Illinois,Penn State,RECEIVING,Marchie,Murdock,REC,1
+1587130,11/22/2014,FBS,Illinois,Penn State,RECEIVING,Marchie,Murdock,YDS,17
+1587131,11/22/2014,FBS,Illinois,Penn State,RECEIVING,Marchie,Murdock,TD,0
+1587132,11/22/2014,FBS,Illinois,Penn State,RECEIVING,Marchie,Murdock,LONG,17
+1587133,11/22/2014,FBS,Illinois,Penn State,RECEIVING,Matt,LaCosse,REC,3
+1587134,11/22/2014,FBS,Illinois,Penn State,RECEIVING,Matt,LaCosse,YDS,14
+1587135,11/22/2014,FBS,Illinois,Penn State,RECEIVING,Matt,LaCosse,TD,1
+1587136,11/22/2014,FBS,Illinois,Penn State,RECEIVING,Matt,LaCosse,LONG,7
+1587137,11/22/2014,FBS,Illinois,Penn State,RECEIVING,Donovonn,Young,REC,2
+1587138,11/22/2014,FBS,Illinois,Penn State,RECEIVING,Donovonn,Young,YDS,12
+1587139,11/22/2014,FBS,Illinois,Penn State,RECEIVING,Donovonn,Young,TD,0
+1587140,11/22/2014,FBS,Illinois,Penn State,RECEIVING,Donovonn,Young,LONG,8
+1587141,11/22/2014,FBS,Illinois,Penn State,RECEIVING,Geronimo,Allison,REC,3
+1587142,11/22/2014,FBS,Illinois,Penn State,RECEIVING,Geronimo,Allison,YDS,11
+1587143,11/22/2014,FBS,Illinois,Penn State,RECEIVING,Geronimo,Allison,TD,0
+1587144,11/22/2014,FBS,Illinois,Penn State,RECEIVING,Geronimo,Allison,LONG,8
+1587145,11/22/2014,FBS,Illinois,Penn State,RECEIVING,Jon,Davis,REC,1
+1587146,11/22/2014,FBS,Illinois,Penn State,RECEIVING,Jon,Davis,YDS,9
+1587147,11/22/2014,FBS,Illinois,Penn State,RECEIVING,Jon,Davis,TD,0
+1587148,11/22/2014,FBS,Illinois,Penn State,RECEIVING,Jon,Davis,LONG,9
+1587149,11/22/2014,FBS,Illinois,Penn State,KICKING,David,Reisner,FG-FGA,3/4
+1587150,11/22/2014,FBS,Illinois,Penn State,KICKING,David,Reisner,LONG,36
+1587151,11/22/2014,FBS,Illinois,Penn State,KICKING,David,Reisner,XP,1
+1587152,11/22/2014,FBS,Illinois,Penn State,KICKING,David,Reisner,PTS,10
+1587153,11/22/2014,FBS,Illinois,Penn State,PUNTING,Justin,DuVernois,NO,8
+1587154,11/22/2014,FBS,Illinois,Penn State,PUNTING,Justin,DuVernois,YDS,330
+1587155,11/22/2014,FBS,Illinois,Penn State,PUNTING,Justin,DuVernois,AVG,41.2
+1587156,11/22/2014,FBS,Illinois,Penn State,PUNTING,Justin,DuVernois,LONG,71
+1587157,11/22/2014,FBS,Illinois,Penn State,PUNT RETURNS,Darius,Mosely,NO,1
+1587158,11/22/2014,FBS,Illinois,Penn State,PUNT RETURNS,Darius,Mosely,YDS,14
+1587159,11/22/2014,FBS,Illinois,Penn State,PUNT RETURNS,Darius,Mosely,AVG,14.0
+1587160,11/22/2014,FBS,Illinois,Penn State,PUNT RETURNS,Darius,Mosely,LONG,14
+1587161,11/22/2014,FBS,Illinois,Penn State,PUNT RETURNS,Mike,Dudek,NO,1
+1587162,11/22/2014,FBS,Illinois,Penn State,PUNT RETURNS,Mike,Dudek,YDS,4
+1587163,11/22/2014,FBS,Illinois,Penn State,PUNT RETURNS,Mike,Dudek,AVG,4.0
+1587164,11/22/2014,FBS,Illinois,Penn State,PUNT RETURNS,Mike,Dudek,LONG,4
+1587165,11/22/2014,FBS,Illinois,Penn State,KICK RETURNS,V'Angelo,Bentley,NO,1
+1587166,11/22/2014,FBS,Illinois,Penn State,KICK RETURNS,V'Angelo,Bentley,YDS,7
+1587167,11/22/2014,FBS,Illinois,Penn State,KICK RETURNS,V'Angelo,Bentley,AVG,7.0
+1587168,11/22/2014,FBS,Illinois,Penn State,KICK RETURNS,V'Angelo,Bentley,LONG,7

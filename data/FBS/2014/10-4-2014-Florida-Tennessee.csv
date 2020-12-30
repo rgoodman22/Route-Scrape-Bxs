@@ -1,0 +1,157 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1251001,10/4/2014,FBS,Florida,Tennessee,RUSHING,Matt,Jones,ATT,23
+1251002,10/4/2014,FBS,Florida,Tennessee,RUSHING,Matt,Jones,YDS,114
+1251003,10/4/2014,FBS,Florida,Tennessee,RUSHING,Matt,Jones,TD,1
+1251004,10/4/2014,FBS,Florida,Tennessee,RUSHING,Matt,Jones,LONG,32
+1251005,10/4/2014,FBS,Florida,Tennessee,RUSHING,Jeff,Driskel,ATT,14
+1251006,10/4/2014,FBS,Florida,Tennessee,RUSHING,Jeff,Driskel,YDS,30
+1251007,10/4/2014,FBS,Florida,Tennessee,RUSHING,Jeff,Driskel,TD,0
+1251008,10/4/2014,FBS,Florida,Tennessee,RUSHING,Jeff,Driskel,LONG,16
+1251009,10/4/2014,FBS,Florida,Tennessee,RUSHING,Treon,Harris,ATT,4
+1251010,10/4/2014,FBS,Florida,Tennessee,RUSHING,Treon,Harris,YDS,24
+1251011,10/4/2014,FBS,Florida,Tennessee,RUSHING,Treon,Harris,TD,0
+1251012,10/4/2014,FBS,Florida,Tennessee,RUSHING,Treon,Harris,LONG,10
+1251013,10/4/2014,FBS,Florida,Tennessee,RUSHING,Kelvin,Taylor,ATT,3
+1251014,10/4/2014,FBS,Florida,Tennessee,RUSHING,Kelvin,Taylor,YDS,1
+1251015,10/4/2014,FBS,Florida,Tennessee,RUSHING,Kelvin,Taylor,TD,0
+1251016,10/4/2014,FBS,Florida,Tennessee,RUSHING,Kelvin,Taylor,LONG,6
+1251017,10/4/2014,FBS,Florida,Tennessee,RUSHING,Valdez,Showers,ATT,1
+1251018,10/4/2014,FBS,Florida,Tennessee,RUSHING,Valdez,Showers,YDS,-5
+1251019,10/4/2014,FBS,Florida,Tennessee,RUSHING,Valdez,Showers,TD,0
+1251020,10/4/2014,FBS,Florida,Tennessee,RUSHING,Valdez,Showers,LONG,-5
+1251021,10/4/2014,FBS,Florida,Tennessee,RUSHING,,Team,ATT,3
+1251022,10/4/2014,FBS,Florida,Tennessee,RUSHING,,Team,YDS,-8
+1251023,10/4/2014,FBS,Florida,Tennessee,RUSHING,,Team,TD,0
+1251024,10/4/2014,FBS,Florida,Tennessee,RUSHING,,Team,LONG,-1
+1251025,10/4/2014,FBS,Florida,Tennessee,PASSING,Jeff,Driskel,CP-ATT-INT,11-23-3
+1251026,10/4/2014,FBS,Florida,Tennessee,PASSING,Jeff,Driskel,YDS,59
+1251027,10/4/2014,FBS,Florida,Tennessee,PASSING,Jeff,Driskel,TD,0
+1251028,10/4/2014,FBS,Florida,Tennessee,PASSING,Jeff,Driskel,LONG,15
+1251029,10/4/2014,FBS,Florida,Tennessee,PASSING,Treon,Harris,CP-ATT-INT,2-4-0
+1251030,10/4/2014,FBS,Florida,Tennessee,PASSING,Treon,Harris,YDS,17
+1251031,10/4/2014,FBS,Florida,Tennessee,PASSING,Treon,Harris,TD,0
+1251032,10/4/2014,FBS,Florida,Tennessee,PASSING,Treon,Harris,LONG,12
+1251033,10/4/2014,FBS,Florida,Tennessee,RECEIVING,Demarcus,Robinson,REC,3
+1251034,10/4/2014,FBS,Florida,Tennessee,RECEIVING,Demarcus,Robinson,YDS,30
+1251035,10/4/2014,FBS,Florida,Tennessee,RECEIVING,Demarcus,Robinson,TD,0
+1251036,10/4/2014,FBS,Florida,Tennessee,RECEIVING,Demarcus,Robinson,LONG,15
+1251037,10/4/2014,FBS,Florida,Tennessee,RECEIVING,Matt,Jones,REC,4
+1251038,10/4/2014,FBS,Florida,Tennessee,RECEIVING,Matt,Jones,YDS,19
+1251039,10/4/2014,FBS,Florida,Tennessee,RECEIVING,Matt,Jones,TD,0
+1251040,10/4/2014,FBS,Florida,Tennessee,RECEIVING,Matt,Jones,LONG,12
+1251041,10/4/2014,FBS,Florida,Tennessee,RECEIVING,Latroy,PittmanJr.,REC,2
+1251042,10/4/2014,FBS,Florida,Tennessee,RECEIVING,Latroy,PittmanJr.,YDS,13
+1251043,10/4/2014,FBS,Florida,Tennessee,RECEIVING,Latroy,PittmanJr.,TD,0
+1251044,10/4/2014,FBS,Florida,Tennessee,RECEIVING,Latroy,PittmanJr.,LONG,11
+1251045,10/4/2014,FBS,Florida,Tennessee,RECEIVING,Quinton,Dunbar,REC,1
+1251046,10/4/2014,FBS,Florida,Tennessee,RECEIVING,Quinton,Dunbar,YDS,6
+1251047,10/4/2014,FBS,Florida,Tennessee,RECEIVING,Quinton,Dunbar,TD,0
+1251048,10/4/2014,FBS,Florida,Tennessee,RECEIVING,Quinton,Dunbar,LONG,6
+1251049,10/4/2014,FBS,Florida,Tennessee,RECEIVING,Clay,Burton,REC,1
+1251050,10/4/2014,FBS,Florida,Tennessee,RECEIVING,Clay,Burton,YDS,5
+1251051,10/4/2014,FBS,Florida,Tennessee,RECEIVING,Clay,Burton,TD,0
+1251052,10/4/2014,FBS,Florida,Tennessee,RECEIVING,Clay,Burton,LONG,5
+1251053,10/4/2014,FBS,Florida,Tennessee,RECEIVING,Tevin,Westbrook,REC,1
+1251054,10/4/2014,FBS,Florida,Tennessee,RECEIVING,Tevin,Westbrook,YDS,5
+1251055,10/4/2014,FBS,Florida,Tennessee,RECEIVING,Tevin,Westbrook,TD,0
+1251056,10/4/2014,FBS,Florida,Tennessee,RECEIVING,Tevin,Westbrook,LONG,5
+1251057,10/4/2014,FBS,Florida,Tennessee,RECEIVING,Kelvin,Taylor,REC,1
+1251058,10/4/2014,FBS,Florida,Tennessee,RECEIVING,Kelvin,Taylor,YDS,-2
+1251059,10/4/2014,FBS,Florida,Tennessee,RECEIVING,Kelvin,Taylor,TD,0
+1251060,10/4/2014,FBS,Florida,Tennessee,RECEIVING,Kelvin,Taylor,LONG,-2
+1251061,10/4/2014,FBS,Florida,Tennessee,KICKING,Austin,Hardin,FG-FGA,1/1
+1251062,10/4/2014,FBS,Florida,Tennessee,KICKING,Austin,Hardin,LONG,49
+1251063,10/4/2014,FBS,Florida,Tennessee,KICKING,Austin,Hardin,XP,0
+1251064,10/4/2014,FBS,Florida,Tennessee,KICKING,Austin,Hardin,PTS,3
+1251065,10/4/2014,FBS,Florida,Tennessee,KICKING,Francisco,Velez,FG-FGA,0/0
+1251066,10/4/2014,FBS,Florida,Tennessee,KICKING,Francisco,Velez,LONG,-
+1251067,10/4/2014,FBS,Florida,Tennessee,KICKING,Francisco,Velez,XP,1
+1251068,10/4/2014,FBS,Florida,Tennessee,KICKING,Francisco,Velez,PTS,1
+1251069,10/4/2014,FBS,Florida,Tennessee,PUNTING,Kyle,Christy,NO,8
+1251070,10/4/2014,FBS,Florida,Tennessee,PUNTING,Kyle,Christy,YDS,282
+1251071,10/4/2014,FBS,Florida,Tennessee,PUNTING,Kyle,Christy,AVG,35.2
+1251072,10/4/2014,FBS,Florida,Tennessee,PUNTING,Kyle,Christy,LONG,46
+1251073,10/4/2014,FBS,Florida,Tennessee,PUNT RETURNS,Andre,Debose,NO,1
+1251074,10/4/2014,FBS,Florida,Tennessee,PUNT RETURNS,Andre,Debose,YDS,0
+1251075,10/4/2014,FBS,Florida,Tennessee,PUNT RETURNS,Andre,Debose,AVG,-
+1251076,10/4/2014,FBS,Florida,Tennessee,PUNT RETURNS,Andre,Debose,LONG,0
+1251077,10/4/2014,FBS,Florida,Tennessee,KICK RETURNS,Andre,Debose,NO,4
+1251078,10/4/2014,FBS,Florida,Tennessee,KICK RETURNS,Andre,Debose,YDS,86
+1251079,10/4/2014,FBS,Florida,Tennessee,KICK RETURNS,Andre,Debose,AVG,21.5
+1251080,10/4/2014,FBS,Florida,Tennessee,KICK RETURNS,Andre,Debose,LONG,31
+1251081,10/4/2014,FBS,Tennessee,Florida,RUSHING,Jalen,Hurd,ATT,10
+1251082,10/4/2014,FBS,Tennessee,Florida,RUSHING,Jalen,Hurd,YDS,39
+1251083,10/4/2014,FBS,Tennessee,Florida,RUSHING,Jalen,Hurd,TD,0
+1251084,10/4/2014,FBS,Tennessee,Florida,RUSHING,Jalen,Hurd,LONG,11
+1251085,10/4/2014,FBS,Tennessee,Florida,RUSHING,Marlin,Lane,ATT,10
+1251086,10/4/2014,FBS,Tennessee,Florida,RUSHING,Marlin,Lane,YDS,22
+1251087,10/4/2014,FBS,Tennessee,Florida,RUSHING,Marlin,Lane,TD,0
+1251088,10/4/2014,FBS,Tennessee,Florida,RUSHING,Marlin,Lane,LONG,5
+1251089,10/4/2014,FBS,Tennessee,Florida,RUSHING,Devrin,Young,ATT,1
+1251090,10/4/2014,FBS,Tennessee,Florida,RUSHING,Devrin,Young,YDS,7
+1251091,10/4/2014,FBS,Tennessee,Florida,RUSHING,Devrin,Young,TD,0
+1251092,10/4/2014,FBS,Tennessee,Florida,RUSHING,Devrin,Young,LONG,7
+1251093,10/4/2014,FBS,Tennessee,Florida,RUSHING,Pig,Howard,ATT,1
+1251094,10/4/2014,FBS,Tennessee,Florida,RUSHING,Pig,Howard,YDS,5
+1251095,10/4/2014,FBS,Tennessee,Florida,RUSHING,Pig,Howard,TD,0
+1251096,10/4/2014,FBS,Tennessee,Florida,RUSHING,Pig,Howard,LONG,5
+1251097,10/4/2014,FBS,Tennessee,Florida,RUSHING,Justin,Worley,ATT,7
+1251098,10/4/2014,FBS,Tennessee,Florida,RUSHING,Justin,Worley,YDS,-45
+1251099,10/4/2014,FBS,Tennessee,Florida,RUSHING,Justin,Worley,TD,0
+1251100,10/4/2014,FBS,Tennessee,Florida,RUSHING,Justin,Worley,LONG,4
+1251101,10/4/2014,FBS,Tennessee,Florida,PASSING,Justin,Worley,CP-ATT-INT,26-39-2
+1251102,10/4/2014,FBS,Tennessee,Florida,PASSING,Justin,Worley,YDS,205
+1251103,10/4/2014,FBS,Tennessee,Florida,PASSING,Justin,Worley,TD,0
+1251104,10/4/2014,FBS,Tennessee,Florida,PASSING,Justin,Worley,LONG,27
+1251105,10/4/2014,FBS,Tennessee,Florida,RECEIVING,Pig,Howard,REC,6
+1251106,10/4/2014,FBS,Tennessee,Florida,RECEIVING,Pig,Howard,YDS,79
+1251107,10/4/2014,FBS,Tennessee,Florida,RECEIVING,Pig,Howard,TD,0
+1251108,10/4/2014,FBS,Tennessee,Florida,RECEIVING,Pig,Howard,LONG,25
+1251109,10/4/2014,FBS,Tennessee,Florida,RECEIVING,Johnathon,Johnson,REC,2
+1251110,10/4/2014,FBS,Tennessee,Florida,RECEIVING,Johnathon,Johnson,YDS,29
+1251111,10/4/2014,FBS,Tennessee,Florida,RECEIVING,Johnathon,Johnson,TD,0
+1251112,10/4/2014,FBS,Tennessee,Florida,RECEIVING,Johnathon,Johnson,LONG,27
+1251113,10/4/2014,FBS,Tennessee,Florida,RECEIVING,Josh,Malone,REC,4
+1251114,10/4/2014,FBS,Tennessee,Florida,RECEIVING,Josh,Malone,YDS,28
+1251115,10/4/2014,FBS,Tennessee,Florida,RECEIVING,Josh,Malone,TD,0
+1251116,10/4/2014,FBS,Tennessee,Florida,RECEIVING,Josh,Malone,LONG,17
+1251117,10/4/2014,FBS,Tennessee,Florida,RECEIVING,Marquez,North,REC,4
+1251118,10/4/2014,FBS,Tennessee,Florida,RECEIVING,Marquez,North,YDS,26
+1251119,10/4/2014,FBS,Tennessee,Florida,RECEIVING,Marquez,North,TD,0
+1251120,10/4/2014,FBS,Tennessee,Florida,RECEIVING,Marquez,North,LONG,13
+1251121,10/4/2014,FBS,Tennessee,Florida,RECEIVING,Daniel,Helm,REC,2
+1251122,10/4/2014,FBS,Tennessee,Florida,RECEIVING,Daniel,Helm,YDS,16
+1251123,10/4/2014,FBS,Tennessee,Florida,RECEIVING,Daniel,Helm,TD,0
+1251124,10/4/2014,FBS,Tennessee,Florida,RECEIVING,Daniel,Helm,LONG,13
+1251125,10/4/2014,FBS,Tennessee,Florida,RECEIVING,Devrin,Young,REC,2
+1251126,10/4/2014,FBS,Tennessee,Florida,RECEIVING,Devrin,Young,YDS,15
+1251127,10/4/2014,FBS,Tennessee,Florida,RECEIVING,Devrin,Young,TD,0
+1251128,10/4/2014,FBS,Tennessee,Florida,RECEIVING,Devrin,Young,LONG,18
+1251129,10/4/2014,FBS,Tennessee,Florida,RECEIVING,Von,Pearson,REC,1
+1251130,10/4/2014,FBS,Tennessee,Florida,RECEIVING,Von,Pearson,YDS,6
+1251131,10/4/2014,FBS,Tennessee,Florida,RECEIVING,Von,Pearson,TD,0
+1251132,10/4/2014,FBS,Tennessee,Florida,RECEIVING,Von,Pearson,LONG,6
+1251133,10/4/2014,FBS,Tennessee,Florida,RECEIVING,Jalen,Hurd,REC,4
+1251134,10/4/2014,FBS,Tennessee,Florida,RECEIVING,Jalen,Hurd,YDS,3
+1251135,10/4/2014,FBS,Tennessee,Florida,RECEIVING,Jalen,Hurd,TD,0
+1251136,10/4/2014,FBS,Tennessee,Florida,RECEIVING,Jalen,Hurd,LONG,9
+1251137,10/4/2014,FBS,Tennessee,Florida,RECEIVING,Ethan,Wolf,REC,1
+1251138,10/4/2014,FBS,Tennessee,Florida,RECEIVING,Ethan,Wolf,YDS,3
+1251139,10/4/2014,FBS,Tennessee,Florida,RECEIVING,Ethan,Wolf,TD,0
+1251140,10/4/2014,FBS,Tennessee,Florida,RECEIVING,Ethan,Wolf,LONG,3
+1251141,10/4/2014,FBS,Tennessee,Florida,KICKING,Aaron,Medley,FG-FGA,3/3
+1251142,10/4/2014,FBS,Tennessee,Florida,KICKING,Aaron,Medley,LONG,39
+1251143,10/4/2014,FBS,Tennessee,Florida,KICKING,Aaron,Medley,XP,0
+1251144,10/4/2014,FBS,Tennessee,Florida,KICKING,Aaron,Medley,PTS,9
+1251145,10/4/2014,FBS,Tennessee,Florida,PUNTING,Matt,Darr,NO,8
+1251146,10/4/2014,FBS,Tennessee,Florida,PUNTING,Matt,Darr,YDS,344
+1251147,10/4/2014,FBS,Tennessee,Florida,PUNTING,Matt,Darr,AVG,43.0
+1251148,10/4/2014,FBS,Tennessee,Florida,PUNTING,Matt,Darr,LONG,61
+1251149,10/4/2014,FBS,Tennessee,Florida,PUNT RETURNS,Cameron,Sutton,NO,3
+1251150,10/4/2014,FBS,Tennessee,Florida,PUNT RETURNS,Cameron,Sutton,YDS,6
+1251151,10/4/2014,FBS,Tennessee,Florida,PUNT RETURNS,Cameron,Sutton,AVG,2.0
+1251152,10/4/2014,FBS,Tennessee,Florida,PUNT RETURNS,Cameron,Sutton,LONG,4
+1251153,10/4/2014,FBS,Tennessee,Florida,KICK RETURNS,Devrin,Young,NO,3
+1251154,10/4/2014,FBS,Tennessee,Florida,KICK RETURNS,Devrin,Young,YDS,58
+1251155,10/4/2014,FBS,Tennessee,Florida,KICK RETURNS,Devrin,Young,AVG,19.3
+1251156,10/4/2014,FBS,Tennessee,Florida,KICK RETURNS,Devrin,Young,LONG,27

@@ -1,0 +1,125 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1391001,10/25/2014,FBS,Florida Atlantic,Marshall,RUSHING,Greg,Howell,ATT,22
+1391002,10/25/2014,FBS,Florida Atlantic,Marshall,RUSHING,Greg,Howell,YDS,92
+1391003,10/25/2014,FBS,Florida Atlantic,Marshall,RUSHING,Greg,Howell,TD,0
+1391004,10/25/2014,FBS,Florida Atlantic,Marshall,RUSHING,Greg,Howell,LONG,12
+1391005,10/25/2014,FBS,Florida Atlantic,Marshall,RUSHING,Jaquez,Johnson,ATT,16
+1391006,10/25/2014,FBS,Florida Atlantic,Marshall,RUSHING,Jaquez,Johnson,YDS,61
+1391007,10/25/2014,FBS,Florida Atlantic,Marshall,RUSHING,Jaquez,Johnson,TD,0
+1391008,10/25/2014,FBS,Florida Atlantic,Marshall,RUSHING,Jaquez,Johnson,LONG,19
+1391009,10/25/2014,FBS,Florida Atlantic,Marshall,RUSHING,Tony,Moore,ATT,8
+1391010,10/25/2014,FBS,Florida Atlantic,Marshall,RUSHING,Tony,Moore,YDS,39
+1391011,10/25/2014,FBS,Florida Atlantic,Marshall,RUSHING,Tony,Moore,TD,0
+1391012,10/25/2014,FBS,Florida Atlantic,Marshall,RUSHING,Tony,Moore,LONG,13
+1391013,10/25/2014,FBS,Florida Atlantic,Marshall,RUSHING,Martese,Jackson,ATT,4
+1391014,10/25/2014,FBS,Florida Atlantic,Marshall,RUSHING,Martese,Jackson,YDS,7
+1391015,10/25/2014,FBS,Florida Atlantic,Marshall,RUSHING,Martese,Jackson,TD,0
+1391016,10/25/2014,FBS,Florida Atlantic,Marshall,RUSHING,Martese,Jackson,LONG,7
+1391017,10/25/2014,FBS,Florida Atlantic,Marshall,RUSHING,Jay,Warren,ATT,2
+1391018,10/25/2014,FBS,Florida Atlantic,Marshall,RUSHING,Jay,Warren,YDS,6
+1391019,10/25/2014,FBS,Florida Atlantic,Marshall,RUSHING,Jay,Warren,TD,0
+1391020,10/25/2014,FBS,Florida Atlantic,Marshall,RUSHING,Jay,Warren,LONG,5
+1391021,10/25/2014,FBS,Florida Atlantic,Marshall,RUSHING,Lucky,Whitehead,ATT,1
+1391022,10/25/2014,FBS,Florida Atlantic,Marshall,RUSHING,Lucky,Whitehead,YDS,4
+1391023,10/25/2014,FBS,Florida Atlantic,Marshall,RUSHING,Lucky,Whitehead,TD,0
+1391024,10/25/2014,FBS,Florida Atlantic,Marshall,RUSHING,Lucky,Whitehead,LONG,4
+1391025,10/25/2014,FBS,Florida Atlantic,Marshall,PASSING,Jaquez,Johnson,CP-ATT-INT,19-37-0
+1391026,10/25/2014,FBS,Florida Atlantic,Marshall,PASSING,Jaquez,Johnson,YDS,179
+1391027,10/25/2014,FBS,Florida Atlantic,Marshall,PASSING,Jaquez,Johnson,TD,1
+1391028,10/25/2014,FBS,Florida Atlantic,Marshall,PASSING,Jaquez,Johnson,LONG,30
+1391029,10/25/2014,FBS,Florida Atlantic,Marshall,RECEIVING,Lucky,Whitehead,REC,11
+1391030,10/25/2014,FBS,Florida Atlantic,Marshall,RECEIVING,Lucky,Whitehead,YDS,102
+1391031,10/25/2014,FBS,Florida Atlantic,Marshall,RECEIVING,Lucky,Whitehead,TD,0
+1391032,10/25/2014,FBS,Florida Atlantic,Marshall,RECEIVING,Lucky,Whitehead,LONG,30
+1391033,10/25/2014,FBS,Florida Atlantic,Marshall,RECEIVING,Alex,Deleon,REC,2
+1391034,10/25/2014,FBS,Florida Atlantic,Marshall,RECEIVING,Alex,Deleon,YDS,30
+1391035,10/25/2014,FBS,Florida Atlantic,Marshall,RECEIVING,Alex,Deleon,TD,1
+1391036,10/25/2014,FBS,Florida Atlantic,Marshall,RECEIVING,Alex,Deleon,LONG,16
+1391037,10/25/2014,FBS,Florida Atlantic,Marshall,RECEIVING,Derek,Moise,REC,2
+1391038,10/25/2014,FBS,Florida Atlantic,Marshall,RECEIVING,Derek,Moise,YDS,17
+1391039,10/25/2014,FBS,Florida Atlantic,Marshall,RECEIVING,Derek,Moise,TD,0
+1391040,10/25/2014,FBS,Florida Atlantic,Marshall,RECEIVING,Derek,Moise,LONG,9
+1391041,10/25/2014,FBS,Florida Atlantic,Marshall,RECEIVING,Kalib,Woods,REC,2
+1391042,10/25/2014,FBS,Florida Atlantic,Marshall,RECEIVING,Kalib,Woods,YDS,16
+1391043,10/25/2014,FBS,Florida Atlantic,Marshall,RECEIVING,Kalib,Woods,TD,0
+1391044,10/25/2014,FBS,Florida Atlantic,Marshall,RECEIVING,Kalib,Woods,LONG,13
+1391045,10/25/2014,FBS,Florida Atlantic,Marshall,RECEIVING,William,Dukes,REC,1
+1391046,10/25/2014,FBS,Florida Atlantic,Marshall,RECEIVING,William,Dukes,YDS,11
+1391047,10/25/2014,FBS,Florida Atlantic,Marshall,RECEIVING,William,Dukes,TD,0
+1391048,10/25/2014,FBS,Florida Atlantic,Marshall,RECEIVING,William,Dukes,LONG,11
+1391049,10/25/2014,FBS,Florida Atlantic,Marshall,RECEIVING,Jenson,Stoshak,REC,1
+1391050,10/25/2014,FBS,Florida Atlantic,Marshall,RECEIVING,Jenson,Stoshak,YDS,3
+1391051,10/25/2014,FBS,Florida Atlantic,Marshall,RECEIVING,Jenson,Stoshak,TD,0
+1391052,10/25/2014,FBS,Florida Atlantic,Marshall,RECEIVING,Jenson,Stoshak,LONG,3
+1391053,10/25/2014,FBS,Florida Atlantic,Marshall,KICKING,Greg,Joseph,FG-FGA,3/3
+1391054,10/25/2014,FBS,Florida Atlantic,Marshall,KICKING,Greg,Joseph,LONG,40
+1391055,10/25/2014,FBS,Florida Atlantic,Marshall,KICKING,Greg,Joseph,XP,1
+1391056,10/25/2014,FBS,Florida Atlantic,Marshall,KICKING,Greg,Joseph,PTS,10
+1391057,10/25/2014,FBS,Florida Atlantic,Marshall,PUNTING,Dalton,Schomp,NO,3
+1391058,10/25/2014,FBS,Florida Atlantic,Marshall,PUNTING,Dalton,Schomp,YDS,134
+1391059,10/25/2014,FBS,Florida Atlantic,Marshall,PUNTING,Dalton,Schomp,AVG,44.7
+1391060,10/25/2014,FBS,Florida Atlantic,Marshall,PUNTING,Dalton,Schomp,LONG,46
+1391061,10/25/2014,FBS,Florida Atlantic,Marshall,PUNTING,Ryan,Rickel,NO,3
+1391062,10/25/2014,FBS,Florida Atlantic,Marshall,PUNTING,Ryan,Rickel,YDS,103
+1391063,10/25/2014,FBS,Florida Atlantic,Marshall,PUNTING,Ryan,Rickel,AVG,34.3
+1391064,10/25/2014,FBS,Florida Atlantic,Marshall,PUNTING,Ryan,Rickel,LONG,40
+1391065,10/25/2014,FBS,Florida Atlantic,Marshall,PUNT RETURNS,Cre'von,LeBlanc,NO,1
+1391066,10/25/2014,FBS,Florida Atlantic,Marshall,PUNT RETURNS,Cre'von,LeBlanc,YDS,5
+1391067,10/25/2014,FBS,Florida Atlantic,Marshall,PUNT RETURNS,Cre'von,LeBlanc,AVG,5.0
+1391068,10/25/2014,FBS,Florida Atlantic,Marshall,PUNT RETURNS,Cre'von,LeBlanc,LONG,5
+1391069,10/25/2014,FBS,Florida Atlantic,Marshall,PUNT RETURNS,Lucky,Whitehead,NO,0
+1391070,10/25/2014,FBS,Florida Atlantic,Marshall,PUNT RETURNS,Lucky,Whitehead,YDS,0
+1391071,10/25/2014,FBS,Florida Atlantic,Marshall,PUNT RETURNS,Lucky,Whitehead,AVG,-
+1391072,10/25/2014,FBS,Florida Atlantic,Marshall,PUNT RETURNS,Lucky,Whitehead,LONG,0
+1391073,10/25/2014,FBS,Florida Atlantic,Marshall,KICK RETURNS,D'Joun,Smith,NO,6
+1391074,10/25/2014,FBS,Florida Atlantic,Marshall,KICK RETURNS,D'Joun,Smith,YDS,202
+1391075,10/25/2014,FBS,Florida Atlantic,Marshall,KICK RETURNS,D'Joun,Smith,AVG,33.7
+1391076,10/25/2014,FBS,Florida Atlantic,Marshall,KICK RETURNS,D'Joun,Smith,LONG,49
+1391077,10/25/2014,FBS,Marshall,Florida Atlantic,RUSHING,Devon,Johnson,ATT,24
+1391078,10/25/2014,FBS,Marshall,Florida Atlantic,RUSHING,Devon,Johnson,YDS,272
+1391079,10/25/2014,FBS,Marshall,Florida Atlantic,RUSHING,Devon,Johnson,TD,4
+1391080,10/25/2014,FBS,Marshall,Florida Atlantic,RUSHING,Devon,Johnson,LONG,66
+1391081,10/25/2014,FBS,Marshall,Florida Atlantic,RUSHING,Rakeem,Cato,ATT,6
+1391082,10/25/2014,FBS,Marshall,Florida Atlantic,RUSHING,Rakeem,Cato,YDS,32
+1391083,10/25/2014,FBS,Marshall,Florida Atlantic,RUSHING,Rakeem,Cato,TD,0
+1391084,10/25/2014,FBS,Marshall,Florida Atlantic,RUSHING,Rakeem,Cato,LONG,20
+1391085,10/25/2014,FBS,Marshall,Florida Atlantic,RUSHING,Steward,Butler,ATT,5
+1391086,10/25/2014,FBS,Marshall,Florida Atlantic,RUSHING,Steward,Butler,YDS,24
+1391087,10/25/2014,FBS,Marshall,Florida Atlantic,RUSHING,Steward,Butler,TD,0
+1391088,10/25/2014,FBS,Marshall,Florida Atlantic,RUSHING,Steward,Butler,LONG,8
+1391089,10/25/2014,FBS,Marshall,Florida Atlantic,PASSING,Rakeem,Cato,CP-ATT-INT,13-24-0
+1391090,10/25/2014,FBS,Marshall,Florida Atlantic,PASSING,Rakeem,Cato,YDS,218
+1391091,10/25/2014,FBS,Marshall,Florida Atlantic,PASSING,Rakeem,Cato,TD,1
+1391092,10/25/2014,FBS,Marshall,Florida Atlantic,PASSING,Rakeem,Cato,LONG,39
+1391093,10/25/2014,FBS,Marshall,Florida Atlantic,RECEIVING,Deon-Tay,McManus,REC,4
+1391094,10/25/2014,FBS,Marshall,Florida Atlantic,RECEIVING,Deon-Tay,McManus,YDS,110
+1391095,10/25/2014,FBS,Marshall,Florida Atlantic,RECEIVING,Deon-Tay,McManus,TD,0
+1391096,10/25/2014,FBS,Marshall,Florida Atlantic,RECEIVING,Deon-Tay,McManus,LONG,39
+1391097,10/25/2014,FBS,Marshall,Florida Atlantic,RECEIVING,Eric,Frohnapfel,REC,4
+1391098,10/25/2014,FBS,Marshall,Florida Atlantic,RECEIVING,Eric,Frohnapfel,YDS,47
+1391099,10/25/2014,FBS,Marshall,Florida Atlantic,RECEIVING,Eric,Frohnapfel,TD,0
+1391100,10/25/2014,FBS,Marshall,Florida Atlantic,RECEIVING,Eric,Frohnapfel,LONG,16
+1391101,10/25/2014,FBS,Marshall,Florida Atlantic,RECEIVING,Tommy,Shuler,REC,3
+1391102,10/25/2014,FBS,Marshall,Florida Atlantic,RECEIVING,Tommy,Shuler,YDS,33
+1391103,10/25/2014,FBS,Marshall,Florida Atlantic,RECEIVING,Tommy,Shuler,TD,1
+1391104,10/25/2014,FBS,Marshall,Florida Atlantic,RECEIVING,Tommy,Shuler,LONG,21
+1391105,10/25/2014,FBS,Marshall,Florida Atlantic,RECEIVING,Angelo,Jean-Louis,REC,2
+1391106,10/25/2014,FBS,Marshall,Florida Atlantic,RECEIVING,Angelo,Jean-Louis,YDS,28
+1391107,10/25/2014,FBS,Marshall,Florida Atlantic,RECEIVING,Angelo,Jean-Louis,TD,0
+1391108,10/25/2014,FBS,Marshall,Florida Atlantic,RECEIVING,Angelo,Jean-Louis,LONG,23
+1391109,10/25/2014,FBS,Marshall,Florida Atlantic,KICKING,Justin,Haig,FG-FGA,0/1
+1391110,10/25/2014,FBS,Marshall,Florida Atlantic,KICKING,Justin,Haig,LONG,0
+1391111,10/25/2014,FBS,Marshall,Florida Atlantic,KICKING,Justin,Haig,XP,5
+1391112,10/25/2014,FBS,Marshall,Florida Atlantic,KICKING,Justin,Haig,PTS,5
+1391113,10/25/2014,FBS,Marshall,Florida Atlantic,PUNTING,Tyler,Williams,NO,5
+1391114,10/25/2014,FBS,Marshall,Florida Atlantic,PUNTING,Tyler,Williams,YDS,257
+1391115,10/25/2014,FBS,Marshall,Florida Atlantic,PUNTING,Tyler,Williams,AVG,51.4
+1391116,10/25/2014,FBS,Marshall,Florida Atlantic,PUNTING,Tyler,Williams,LONG,64
+1391117,10/25/2014,FBS,Marshall,Florida Atlantic,PUNT RETURNS,Tommy,Shuler,NO,2
+1391118,10/25/2014,FBS,Marshall,Florida Atlantic,PUNT RETURNS,Tommy,Shuler,YDS,15
+1391119,10/25/2014,FBS,Marshall,Florida Atlantic,PUNT RETURNS,Tommy,Shuler,AVG,7.5
+1391120,10/25/2014,FBS,Marshall,Florida Atlantic,PUNT RETURNS,Tommy,Shuler,LONG,9
+1391121,10/25/2014,FBS,Marshall,Florida Atlantic,KICK RETURNS,Deandre,Reaves,NO,4
+1391122,10/25/2014,FBS,Marshall,Florida Atlantic,KICK RETURNS,Deandre,Reaves,YDS,108
+1391123,10/25/2014,FBS,Marshall,Florida Atlantic,KICK RETURNS,Deandre,Reaves,AVG,27.0
+1391124,10/25/2014,FBS,Marshall,Florida Atlantic,KICK RETURNS,Deandre,Reaves,LONG,41

@@ -1,0 +1,153 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1560001,11/15/2014,FBS,South Carolina,Florida,RUSHING,Mike,Davis,ATT,15
+1560002,11/15/2014,FBS,South Carolina,Florida,RUSHING,Mike,Davis,YDS,56
+1560003,11/15/2014,FBS,South Carolina,Florida,RUSHING,Mike,Davis,TD,1
+1560004,11/15/2014,FBS,South Carolina,Florida,RUSHING,Mike,Davis,LONG,10
+1560005,11/15/2014,FBS,South Carolina,Florida,RUSHING,Brandon,Wilds,ATT,12
+1560006,11/15/2014,FBS,South Carolina,Florida,RUSHING,Brandon,Wilds,YDS,34
+1560007,11/15/2014,FBS,South Carolina,Florida,RUSHING,Brandon,Wilds,TD,1
+1560008,11/15/2014,FBS,South Carolina,Florida,RUSHING,Brandon,Wilds,LONG,20
+1560009,11/15/2014,FBS,South Carolina,Florida,RUSHING,Pharoh,Cooper,ATT,2
+1560010,11/15/2014,FBS,South Carolina,Florida,RUSHING,Pharoh,Cooper,YDS,9
+1560011,11/15/2014,FBS,South Carolina,Florida,RUSHING,Pharoh,Cooper,TD,0
+1560012,11/15/2014,FBS,South Carolina,Florida,RUSHING,Pharoh,Cooper,LONG,6
+1560013,11/15/2014,FBS,South Carolina,Florida,RUSHING,David,Williams,ATT,3
+1560014,11/15/2014,FBS,South Carolina,Florida,RUSHING,David,Williams,YDS,8
+1560015,11/15/2014,FBS,South Carolina,Florida,RUSHING,David,Williams,TD,0
+1560016,11/15/2014,FBS,South Carolina,Florida,RUSHING,David,Williams,LONG,3
+1560017,11/15/2014,FBS,South Carolina,Florida,RUSHING,,Team,ATT,1
+1560018,11/15/2014,FBS,South Carolina,Florida,RUSHING,,Team,YDS,-1
+1560019,11/15/2014,FBS,South Carolina,Florida,RUSHING,,Team,TD,0
+1560020,11/15/2014,FBS,South Carolina,Florida,RUSHING,,Team,LONG,-1
+1560021,11/15/2014,FBS,South Carolina,Florida,RUSHING,Dylan,Thompson,ATT,5
+1560022,11/15/2014,FBS,South Carolina,Florida,RUSHING,Dylan,Thompson,YDS,-11
+1560023,11/15/2014,FBS,South Carolina,Florida,RUSHING,Dylan,Thompson,TD,1
+1560024,11/15/2014,FBS,South Carolina,Florida,RUSHING,Dylan,Thompson,LONG,5
+1560025,11/15/2014,FBS,South Carolina,Florida,PASSING,Dylan,Thompson,CP-ATT-INT,22-41-0
+1560026,11/15/2014,FBS,South Carolina,Florida,PASSING,Dylan,Thompson,YDS,206
+1560027,11/15/2014,FBS,South Carolina,Florida,PASSING,Dylan,Thompson,TD,0
+1560028,11/15/2014,FBS,South Carolina,Florida,PASSING,Dylan,Thompson,LONG,30
+1560029,11/15/2014,FBS,South Carolina,Florida,PASSING,Pharoh,Cooper,CP-ATT-INT,0-1-0
+1560030,11/15/2014,FBS,South Carolina,Florida,PASSING,Pharoh,Cooper,YDS,0
+1560031,11/15/2014,FBS,South Carolina,Florida,PASSING,Pharoh,Cooper,TD,0
+1560032,11/15/2014,FBS,South Carolina,Florida,PASSING,Pharoh,Cooper,LONG,0
+1560033,11/15/2014,FBS,South Carolina,Florida,RECEIVING,Pharoh,Cooper,REC,4
+1560034,11/15/2014,FBS,South Carolina,Florida,RECEIVING,Pharoh,Cooper,YDS,40
+1560035,11/15/2014,FBS,South Carolina,Florida,RECEIVING,Pharoh,Cooper,TD,0
+1560036,11/15/2014,FBS,South Carolina,Florida,RECEIVING,Pharoh,Cooper,LONG,30
+1560037,11/15/2014,FBS,South Carolina,Florida,RECEIVING,Brandon,Wilds,REC,3
+1560038,11/15/2014,FBS,South Carolina,Florida,RECEIVING,Brandon,Wilds,YDS,31
+1560039,11/15/2014,FBS,South Carolina,Florida,RECEIVING,Brandon,Wilds,TD,0
+1560040,11/15/2014,FBS,South Carolina,Florida,RECEIVING,Brandon,Wilds,LONG,15
+1560041,11/15/2014,FBS,South Carolina,Florida,RECEIVING,Shaq,Roland,REC,2
+1560042,11/15/2014,FBS,South Carolina,Florida,RECEIVING,Shaq,Roland,YDS,30
+1560043,11/15/2014,FBS,South Carolina,Florida,RECEIVING,Shaq,Roland,TD,0
+1560044,11/15/2014,FBS,South Carolina,Florida,RECEIVING,Shaq,Roland,LONG,21
+1560045,11/15/2014,FBS,South Carolina,Florida,RECEIVING,Rory,Anderson,REC,2
+1560046,11/15/2014,FBS,South Carolina,Florida,RECEIVING,Rory,Anderson,YDS,27
+1560047,11/15/2014,FBS,South Carolina,Florida,RECEIVING,Rory,Anderson,TD,0
+1560048,11/15/2014,FBS,South Carolina,Florida,RECEIVING,Rory,Anderson,LONG,20
+1560049,11/15/2014,FBS,South Carolina,Florida,RECEIVING,Jerell,Adams,REC,4
+1560050,11/15/2014,FBS,South Carolina,Florida,RECEIVING,Jerell,Adams,YDS,23
+1560051,11/15/2014,FBS,South Carolina,Florida,RECEIVING,Jerell,Adams,TD,0
+1560052,11/15/2014,FBS,South Carolina,Florida,RECEIVING,Jerell,Adams,LONG,9
+1560053,11/15/2014,FBS,South Carolina,Florida,RECEIVING,Mike,Davis,REC,2
+1560054,11/15/2014,FBS,South Carolina,Florida,RECEIVING,Mike,Davis,YDS,23
+1560055,11/15/2014,FBS,South Carolina,Florida,RECEIVING,Mike,Davis,TD,0
+1560056,11/15/2014,FBS,South Carolina,Florida,RECEIVING,Mike,Davis,LONG,27
+1560057,11/15/2014,FBS,South Carolina,Florida,RECEIVING,Nick,Jones,REC,3
+1560058,11/15/2014,FBS,South Carolina,Florida,RECEIVING,Nick,Jones,YDS,20
+1560059,11/15/2014,FBS,South Carolina,Florida,RECEIVING,Nick,Jones,TD,0
+1560060,11/15/2014,FBS,South Carolina,Florida,RECEIVING,Nick,Jones,LONG,9
+1560061,11/15/2014,FBS,South Carolina,Florida,RECEIVING,Damiere,Byrd,REC,2
+1560062,11/15/2014,FBS,South Carolina,Florida,RECEIVING,Damiere,Byrd,YDS,12
+1560063,11/15/2014,FBS,South Carolina,Florida,RECEIVING,Damiere,Byrd,TD,0
+1560064,11/15/2014,FBS,South Carolina,Florida,RECEIVING,Damiere,Byrd,LONG,10
+1560065,11/15/2014,FBS,South Carolina,Florida,KICKING,Elliot,Fry,FG-FGA,1/2
+1560066,11/15/2014,FBS,South Carolina,Florida,KICKING,Elliot,Fry,LONG,31
+1560067,11/15/2014,FBS,South Carolina,Florida,KICKING,Elliot,Fry,XP,2
+1560068,11/15/2014,FBS,South Carolina,Florida,KICKING,Elliot,Fry,PTS,5
+1560069,11/15/2014,FBS,South Carolina,Florida,PUNTING,Tyler,Hull,NO,5
+1560070,11/15/2014,FBS,South Carolina,Florida,PUNTING,Tyler,Hull,YDS,202
+1560071,11/15/2014,FBS,South Carolina,Florida,PUNTING,Tyler,Hull,AVG,40.4
+1560072,11/15/2014,FBS,South Carolina,Florida,PUNTING,Tyler,Hull,LONG,54
+1560073,11/15/2014,FBS,South Carolina,Florida,PUNT RETURNS,Pharoh,Cooper,NO,1
+1560074,11/15/2014,FBS,South Carolina,Florida,PUNT RETURNS,Pharoh,Cooper,YDS,5
+1560075,11/15/2014,FBS,South Carolina,Florida,PUNT RETURNS,Pharoh,Cooper,AVG,5.0
+1560076,11/15/2014,FBS,South Carolina,Florida,PUNT RETURNS,Pharoh,Cooper,LONG,5
+1560077,11/15/2014,FBS,South Carolina,Florida,KICK RETURNS,Shon,Carson,NO,2
+1560078,11/15/2014,FBS,South Carolina,Florida,KICK RETURNS,Shon,Carson,YDS,32
+1560079,11/15/2014,FBS,South Carolina,Florida,KICK RETURNS,Shon,Carson,AVG,16.0
+1560080,11/15/2014,FBS,South Carolina,Florida,KICK RETURNS,Shon,Carson,LONG,17
+1560081,11/15/2014,FBS,Florida,South Carolina,RUSHING,Treon,Harris,ATT,20
+1560082,11/15/2014,FBS,Florida,South Carolina,RUSHING,Treon,Harris,YDS,111
+1560083,11/15/2014,FBS,Florida,South Carolina,RUSHING,Treon,Harris,TD,0
+1560084,11/15/2014,FBS,Florida,South Carolina,RUSHING,Treon,Harris,LONG,22
+1560085,11/15/2014,FBS,Florida,South Carolina,RUSHING,Matt,Jones,ATT,18
+1560086,11/15/2014,FBS,Florida,South Carolina,RUSHING,Matt,Jones,YDS,63
+1560087,11/15/2014,FBS,Florida,South Carolina,RUSHING,Matt,Jones,TD,1
+1560088,11/15/2014,FBS,Florida,South Carolina,RUSHING,Matt,Jones,LONG,11
+1560089,11/15/2014,FBS,Florida,South Carolina,RUSHING,Kelvin,Taylor,ATT,9
+1560090,11/15/2014,FBS,Florida,South Carolina,RUSHING,Kelvin,Taylor,YDS,47
+1560091,11/15/2014,FBS,Florida,South Carolina,RUSHING,Kelvin,Taylor,TD,0
+1560092,11/15/2014,FBS,Florida,South Carolina,RUSHING,Kelvin,Taylor,LONG,30
+1560093,11/15/2014,FBS,Florida,South Carolina,RUSHING,Brandon,Powell,ATT,1
+1560094,11/15/2014,FBS,Florida,South Carolina,RUSHING,Brandon,Powell,YDS,2
+1560095,11/15/2014,FBS,Florida,South Carolina,RUSHING,Brandon,Powell,TD,0
+1560096,11/15/2014,FBS,Florida,South Carolina,RUSHING,Brandon,Powell,LONG,2
+1560097,11/15/2014,FBS,Florida,South Carolina,RUSHING,Tevin,Westbrook,ATT,0
+1560098,11/15/2014,FBS,Florida,South Carolina,RUSHING,Tevin,Westbrook,YDS,0
+1560099,11/15/2014,FBS,Florida,South Carolina,RUSHING,Tevin,Westbrook,TD,0
+1560100,11/15/2014,FBS,Florida,South Carolina,RUSHING,Tevin,Westbrook,LONG,0
+1560101,11/15/2014,FBS,Florida,South Carolina,RUSHING,,Team,ATT,1
+1560102,11/15/2014,FBS,Florida,South Carolina,RUSHING,,Team,YDS,-5
+1560103,11/15/2014,FBS,Florida,South Carolina,RUSHING,,Team,TD,0
+1560104,11/15/2014,FBS,Florida,South Carolina,RUSHING,,Team,LONG,-5
+1560105,11/15/2014,FBS,Florida,South Carolina,PASSING,Treon,Harris,CP-ATT-INT,5-11-0
+1560106,11/15/2014,FBS,Florida,South Carolina,PASSING,Treon,Harris,YDS,60
+1560107,11/15/2014,FBS,Florida,South Carolina,PASSING,Treon,Harris,TD,1
+1560108,11/15/2014,FBS,Florida,South Carolina,PASSING,Treon,Harris,LONG,32
+1560109,11/15/2014,FBS,Florida,South Carolina,RECEIVING,Latroy,PittmanJr.,REC,1
+1560110,11/15/2014,FBS,Florida,South Carolina,RECEIVING,Latroy,PittmanJr.,YDS,32
+1560111,11/15/2014,FBS,Florida,South Carolina,RECEIVING,Latroy,PittmanJr.,TD,0
+1560112,11/15/2014,FBS,Florida,South Carolina,RECEIVING,Latroy,PittmanJr.,LONG,32
+1560113,11/15/2014,FBS,Florida,South Carolina,RECEIVING,Demarcus,Robinson,REC,3
+1560114,11/15/2014,FBS,Florida,South Carolina,RECEIVING,Demarcus,Robinson,YDS,20
+1560115,11/15/2014,FBS,Florida,South Carolina,RECEIVING,Demarcus,Robinson,TD,1
+1560116,11/15/2014,FBS,Florida,South Carolina,RECEIVING,Demarcus,Robinson,LONG,11
+1560117,11/15/2014,FBS,Florida,South Carolina,RECEIVING,Tevin,Westbrook,REC,1
+1560118,11/15/2014,FBS,Florida,South Carolina,RECEIVING,Tevin,Westbrook,YDS,8
+1560119,11/15/2014,FBS,Florida,South Carolina,RECEIVING,Tevin,Westbrook,TD,0
+1560120,11/15/2014,FBS,Florida,South Carolina,RECEIVING,Tevin,Westbrook,LONG,8
+1560121,11/15/2014,FBS,Florida,South Carolina,KICKING,Francisco,Velez,FG-FGA,1/2
+1560122,11/15/2014,FBS,Florida,South Carolina,KICKING,Francisco,Velez,LONG,34
+1560123,11/15/2014,FBS,Florida,South Carolina,KICKING,Francisco,Velez,XP,2
+1560124,11/15/2014,FBS,Florida,South Carolina,KICKING,Francisco,Velez,PTS,5
+1560125,11/15/2014,FBS,Florida,South Carolina,KICKING,Austin,Hardin,FG-FGA,1/1
+1560126,11/15/2014,FBS,Florida,South Carolina,KICKING,Austin,Hardin,LONG,35
+1560127,11/15/2014,FBS,Florida,South Carolina,KICKING,Austin,Hardin,XP,0
+1560128,11/15/2014,FBS,Florida,South Carolina,KICKING,Austin,Hardin,PTS,3
+1560129,11/15/2014,FBS,Florida,South Carolina,PUNTING,Kyle,Christy,NO,6
+1560130,11/15/2014,FBS,Florida,South Carolina,PUNTING,Kyle,Christy,YDS,218
+1560131,11/15/2014,FBS,Florida,South Carolina,PUNTING,Kyle,Christy,AVG,31.1
+1560132,11/15/2014,FBS,Florida,South Carolina,PUNTING,Kyle,Christy,LONG,45
+1560133,11/15/2014,FBS,Florida,South Carolina,PUNT RETURNS,Andre,Debose,NO,2
+1560134,11/15/2014,FBS,Florida,South Carolina,PUNT RETURNS,Andre,Debose,YDS,4
+1560135,11/15/2014,FBS,Florida,South Carolina,PUNT RETURNS,Andre,Debose,AVG,2.0
+1560136,11/15/2014,FBS,Florida,South Carolina,PUNT RETURNS,Andre,Debose,LONG,4
+1560137,11/15/2014,FBS,Florida,South Carolina,PUNT RETURNS,Roger,Dixon,NO,1
+1560138,11/15/2014,FBS,Florida,South Carolina,PUNT RETURNS,Roger,Dixon,YDS,0
+1560139,11/15/2014,FBS,Florida,South Carolina,PUNT RETURNS,Roger,Dixon,AVG,-
+1560140,11/15/2014,FBS,Florida,South Carolina,PUNT RETURNS,Roger,Dixon,LONG,0
+1560141,11/15/2014,FBS,Florida,South Carolina,KICK RETURNS,Brandon,Powell,NO,2
+1560142,11/15/2014,FBS,Florida,South Carolina,KICK RETURNS,Brandon,Powell,YDS,21
+1560143,11/15/2014,FBS,Florida,South Carolina,KICK RETURNS,Brandon,Powell,AVG,10.5
+1560144,11/15/2014,FBS,Florida,South Carolina,KICK RETURNS,Brandon,Powell,LONG,13
+1560145,11/15/2014,FBS,Florida,South Carolina,KICK RETURNS,Hunter,Joyer,NO,1
+1560146,11/15/2014,FBS,Florida,South Carolina,KICK RETURNS,Hunter,Joyer,YDS,7
+1560147,11/15/2014,FBS,Florida,South Carolina,KICK RETURNS,Hunter,Joyer,AVG,7.0
+1560148,11/15/2014,FBS,Florida,South Carolina,KICK RETURNS,Hunter,Joyer,LONG,7
+1560149,11/15/2014,FBS,Florida,South Carolina,KICK RETURNS,Alex,McCalister,NO,1
+1560150,11/15/2014,FBS,Florida,South Carolina,KICK RETURNS,Alex,McCalister,YDS,0
+1560151,11/15/2014,FBS,Florida,South Carolina,KICK RETURNS,Alex,McCalister,AVG,-
+1560152,11/15/2014,FBS,Florida,South Carolina,KICK RETURNS,Alex,McCalister,LONG,0

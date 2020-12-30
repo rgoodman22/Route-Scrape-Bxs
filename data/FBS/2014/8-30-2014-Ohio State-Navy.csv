@@ -1,0 +1,141 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+952001,8/30/2014,FBS,Ohio State,Navy,RUSHING,J.T.,Barrett,ATT,9
+952002,8/30/2014,FBS,Ohio State,Navy,RUSHING,J.T.,Barrett,YDS,50
+952003,8/30/2014,FBS,Ohio State,Navy,RUSHING,J.T.,Barrett,TD,0
+952004,8/30/2014,FBS,Ohio State,Navy,RUSHING,J.T.,Barrett,LONG,19
+952005,8/30/2014,FBS,Ohio State,Navy,RUSHING,Curtis,Samuel,ATT,7
+952006,8/30/2014,FBS,Ohio State,Navy,RUSHING,Curtis,Samuel,YDS,45
+952007,8/30/2014,FBS,Ohio State,Navy,RUSHING,Curtis,Samuel,TD,0
+952008,8/30/2014,FBS,Ohio State,Navy,RUSHING,Curtis,Samuel,LONG,14
+952009,8/30/2014,FBS,Ohio State,Navy,RUSHING,Ezekiel,Elliott,ATT,12
+952010,8/30/2014,FBS,Ohio State,Navy,RUSHING,Ezekiel,Elliott,YDS,44
+952011,8/30/2014,FBS,Ohio State,Navy,RUSHING,Ezekiel,Elliott,TD,1
+952012,8/30/2014,FBS,Ohio State,Navy,RUSHING,Ezekiel,Elliott,LONG,20
+952013,8/30/2014,FBS,Ohio State,Navy,RUSHING,Dontre,Wilson,ATT,6
+952014,8/30/2014,FBS,Ohio State,Navy,RUSHING,Dontre,Wilson,YDS,43
+952015,8/30/2014,FBS,Ohio State,Navy,RUSHING,Dontre,Wilson,TD,0
+952016,8/30/2014,FBS,Ohio State,Navy,RUSHING,Dontre,Wilson,LONG,15
+952017,8/30/2014,FBS,Ohio State,Navy,RUSHING,Jalin,Marshall,ATT,3
+952018,8/30/2014,FBS,Ohio State,Navy,RUSHING,Jalin,Marshall,YDS,7
+952019,8/30/2014,FBS,Ohio State,Navy,RUSHING,Jalin,Marshall,TD,0
+952020,8/30/2014,FBS,Ohio State,Navy,RUSHING,Jalin,Marshall,LONG,6
+952021,8/30/2014,FBS,Ohio State,Navy,RUSHING,Rod,Smith,ATT,2
+952022,8/30/2014,FBS,Ohio State,Navy,RUSHING,Rod,Smith,YDS,6
+952023,8/30/2014,FBS,Ohio State,Navy,RUSHING,Rod,Smith,TD,0
+952024,8/30/2014,FBS,Ohio State,Navy,RUSHING,Rod,Smith,LONG,3
+952025,8/30/2014,FBS,Ohio State,Navy,RUSHING,,Team,ATT,1
+952026,8/30/2014,FBS,Ohio State,Navy,RUSHING,,Team,YDS,-1
+952027,8/30/2014,FBS,Ohio State,Navy,RUSHING,,Team,TD,0
+952028,8/30/2014,FBS,Ohio State,Navy,RUSHING,,Team,LONG,-1
+952029,8/30/2014,FBS,Ohio State,Navy,PASSING,J.T.,Barrett,CP-ATT-INT,12-15-1
+952030,8/30/2014,FBS,Ohio State,Navy,PASSING,J.T.,Barrett,YDS,226
+952031,8/30/2014,FBS,Ohio State,Navy,PASSING,J.T.,Barrett,TD,2
+952032,8/30/2014,FBS,Ohio State,Navy,PASSING,J.T.,Barrett,LONG,80
+952033,8/30/2014,FBS,Ohio State,Navy,RECEIVING,Devin,Smith,REC,2
+952034,8/30/2014,FBS,Ohio State,Navy,RECEIVING,Devin,Smith,YDS,94
+952035,8/30/2014,FBS,Ohio State,Navy,RECEIVING,Devin,Smith,TD,1
+952036,8/30/2014,FBS,Ohio State,Navy,RECEIVING,Devin,Smith,LONG,80
+952037,8/30/2014,FBS,Ohio State,Navy,RECEIVING,Dontre,Wilson,REC,2
+952038,8/30/2014,FBS,Ohio State,Navy,RECEIVING,Dontre,Wilson,YDS,46
+952039,8/30/2014,FBS,Ohio State,Navy,RECEIVING,Dontre,Wilson,TD,0
+952040,8/30/2014,FBS,Ohio State,Navy,RECEIVING,Dontre,Wilson,LONG,30
+952041,8/30/2014,FBS,Ohio State,Navy,RECEIVING,Michael,Thomas,REC,3
+952042,8/30/2014,FBS,Ohio State,Navy,RECEIVING,Michael,Thomas,YDS,39
+952043,8/30/2014,FBS,Ohio State,Navy,RECEIVING,Michael,Thomas,TD,1
+952044,8/30/2014,FBS,Ohio State,Navy,RECEIVING,Michael,Thomas,LONG,22
+952045,8/30/2014,FBS,Ohio State,Navy,RECEIVING,Evan,Spencer,REC,2
+952046,8/30/2014,FBS,Ohio State,Navy,RECEIVING,Evan,Spencer,YDS,24
+952047,8/30/2014,FBS,Ohio State,Navy,RECEIVING,Evan,Spencer,TD,0
+952048,8/30/2014,FBS,Ohio State,Navy,RECEIVING,Evan,Spencer,LONG,19
+952049,8/30/2014,FBS,Ohio State,Navy,RECEIVING,Jalin,Marshall,REC,2
+952050,8/30/2014,FBS,Ohio State,Navy,RECEIVING,Jalin,Marshall,YDS,19
+952051,8/30/2014,FBS,Ohio State,Navy,RECEIVING,Jalin,Marshall,TD,0
+952052,8/30/2014,FBS,Ohio State,Navy,RECEIVING,Jalin,Marshall,LONG,10
+952053,8/30/2014,FBS,Ohio State,Navy,RECEIVING,Curtis,Samuel,REC,1
+952054,8/30/2014,FBS,Ohio State,Navy,RECEIVING,Curtis,Samuel,YDS,4
+952055,8/30/2014,FBS,Ohio State,Navy,RECEIVING,Curtis,Samuel,TD,0
+952056,8/30/2014,FBS,Ohio State,Navy,RECEIVING,Curtis,Samuel,LONG,4
+952057,8/30/2014,FBS,Ohio State,Navy,KICKING,Sean,Nuernberger,FG-FGA,2/2
+952058,8/30/2014,FBS,Ohio State,Navy,KICKING,Sean,Nuernberger,LONG,46
+952059,8/30/2014,FBS,Ohio State,Navy,KICKING,Sean,Nuernberger,XP,4
+952060,8/30/2014,FBS,Ohio State,Navy,KICKING,Sean,Nuernberger,PTS,10
+952061,8/30/2014,FBS,Ohio State,Navy,PUNTING,Cameron,Johnston,NO,2
+952062,8/30/2014,FBS,Ohio State,Navy,PUNTING,Cameron,Johnston,YDS,111
+952063,8/30/2014,FBS,Ohio State,Navy,PUNTING,Cameron,Johnston,AVG,55.5
+952064,8/30/2014,FBS,Ohio State,Navy,PUNTING,Cameron,Johnston,LONG,58
+952065,8/30/2014,FBS,Ohio State,Navy,PUNT RETURNS,Dontre,Wilson,NO,3
+952066,8/30/2014,FBS,Ohio State,Navy,PUNT RETURNS,Dontre,Wilson,YDS,24
+952067,8/30/2014,FBS,Ohio State,Navy,PUNT RETURNS,Dontre,Wilson,AVG,8.0
+952068,8/30/2014,FBS,Ohio State,Navy,PUNT RETURNS,Dontre,Wilson,LONG,11
+952069,8/30/2014,FBS,Ohio State,Navy,KICK RETURNS,Dontre,Wilson,NO,2
+952070,8/30/2014,FBS,Ohio State,Navy,KICK RETURNS,Dontre,Wilson,YDS,53
+952071,8/30/2014,FBS,Ohio State,Navy,KICK RETURNS,Dontre,Wilson,AVG,26.5
+952072,8/30/2014,FBS,Ohio State,Navy,KICK RETURNS,Dontre,Wilson,LONG,35
+952073,8/30/2014,FBS,Navy,Ohio State,RUSHING,Ryan,Williams-Jenkins,ATT,7
+952074,8/30/2014,FBS,Navy,Ohio State,RUSHING,Ryan,Williams-Jenkins,YDS,118
+952075,8/30/2014,FBS,Navy,Ohio State,RUSHING,Ryan,Williams-Jenkins,TD,0
+952076,8/30/2014,FBS,Navy,Ohio State,RUSHING,Ryan,Williams-Jenkins,LONG,67
+952077,8/30/2014,FBS,Navy,Ohio State,RUSHING,Geoffrey,Whiteside,ATT,5
+952078,8/30/2014,FBS,Navy,Ohio State,RUSHING,Geoffrey,Whiteside,YDS,44
+952079,8/30/2014,FBS,Navy,Ohio State,RUSHING,Geoffrey,Whiteside,TD,0
+952080,8/30/2014,FBS,Navy,Ohio State,RUSHING,Geoffrey,Whiteside,LONG,15
+952081,8/30/2014,FBS,Navy,Ohio State,RUSHING,Keenan,Reynolds,ATT,23
+952082,8/30/2014,FBS,Navy,Ohio State,RUSHING,Keenan,Reynolds,YDS,42
+952083,8/30/2014,FBS,Navy,Ohio State,RUSHING,Keenan,Reynolds,TD,1
+952084,8/30/2014,FBS,Navy,Ohio State,RUSHING,Keenan,Reynolds,LONG,24
+952085,8/30/2014,FBS,Navy,Ohio State,RUSHING,Demond,Brown,ATT,4
+952086,8/30/2014,FBS,Navy,Ohio State,RUSHING,Demond,Brown,YDS,41
+952087,8/30/2014,FBS,Navy,Ohio State,RUSHING,Demond,Brown,TD,0
+952088,8/30/2014,FBS,Navy,Ohio State,RUSHING,Demond,Brown,LONG,16
+952089,8/30/2014,FBS,Navy,Ohio State,RUSHING,Chris,Swain,ATT,3
+952090,8/30/2014,FBS,Navy,Ohio State,RUSHING,Chris,Swain,YDS,35
+952091,8/30/2014,FBS,Navy,Ohio State,RUSHING,Chris,Swain,TD,0
+952092,8/30/2014,FBS,Navy,Ohio State,RUSHING,Chris,Swain,LONG,14
+952093,8/30/2014,FBS,Navy,Ohio State,RUSHING,DeBrandon,Sanders,ATT,6
+952094,8/30/2014,FBS,Navy,Ohio State,RUSHING,DeBrandon,Sanders,YDS,30
+952095,8/30/2014,FBS,Navy,Ohio State,RUSHING,DeBrandon,Sanders,TD,1
+952096,8/30/2014,FBS,Navy,Ohio State,RUSHING,DeBrandon,Sanders,LONG,13
+952097,8/30/2014,FBS,Navy,Ohio State,RUSHING,Noah,Copeland,ATT,7
+952098,8/30/2014,FBS,Navy,Ohio State,RUSHING,Noah,Copeland,YDS,22
+952099,8/30/2014,FBS,Navy,Ohio State,RUSHING,Noah,Copeland,TD,0
+952100,8/30/2014,FBS,Navy,Ohio State,RUSHING,Noah,Copeland,LONG,5
+952101,8/30/2014,FBS,Navy,Ohio State,RUSHING,Quentin,Ezell,ATT,3
+952102,8/30/2014,FBS,Navy,Ohio State,RUSHING,Quentin,Ezell,YDS,17
+952103,8/30/2014,FBS,Navy,Ohio State,RUSHING,Quentin,Ezell,TD,0
+952104,8/30/2014,FBS,Navy,Ohio State,RUSHING,Quentin,Ezell,LONG,8
+952105,8/30/2014,FBS,Navy,Ohio State,RUSHING,Toneo,Gulley,ATT,2
+952106,8/30/2014,FBS,Navy,Ohio State,RUSHING,Toneo,Gulley,YDS,17
+952107,8/30/2014,FBS,Navy,Ohio State,RUSHING,Toneo,Gulley,TD,0
+952108,8/30/2014,FBS,Navy,Ohio State,RUSHING,Toneo,Gulley,LONG,10
+952109,8/30/2014,FBS,Navy,Ohio State,RUSHING,Quinton,Singleton,ATT,1
+952110,8/30/2014,FBS,Navy,Ohio State,RUSHING,Quinton,Singleton,YDS,2
+952111,8/30/2014,FBS,Navy,Ohio State,RUSHING,Quinton,Singleton,TD,0
+952112,8/30/2014,FBS,Navy,Ohio State,RUSHING,Quinton,Singleton,LONG,2
+952113,8/30/2014,FBS,Navy,Ohio State,RUSHING,Calvin,CassJr.,ATT,2
+952114,8/30/2014,FBS,Navy,Ohio State,RUSHING,Calvin,CassJr.,YDS,2
+952115,8/30/2014,FBS,Navy,Ohio State,RUSHING,Calvin,CassJr.,TD,0
+952116,8/30/2014,FBS,Navy,Ohio State,RUSHING,Calvin,CassJr.,LONG,6
+952117,8/30/2014,FBS,Navy,Ohio State,PASSING,Keenan,Reynolds,CP-ATT-INT,2-4-0
+952118,8/30/2014,FBS,Navy,Ohio State,PASSING,Keenan,Reynolds,YDS,20
+952119,8/30/2014,FBS,Navy,Ohio State,PASSING,Keenan,Reynolds,TD,0
+952120,8/30/2014,FBS,Navy,Ohio State,PASSING,Keenan,Reynolds,LONG,17
+952121,8/30/2014,FBS,Navy,Ohio State,RECEIVING,Brandon,Colon,REC,1
+952122,8/30/2014,FBS,Navy,Ohio State,RECEIVING,Brandon,Colon,YDS,17
+952123,8/30/2014,FBS,Navy,Ohio State,RECEIVING,Brandon,Colon,TD,0
+952124,8/30/2014,FBS,Navy,Ohio State,RECEIVING,Brandon,Colon,LONG,17
+952125,8/30/2014,FBS,Navy,Ohio State,RECEIVING,Geoffrey,Whiteside,REC,1
+952126,8/30/2014,FBS,Navy,Ohio State,RECEIVING,Geoffrey,Whiteside,YDS,3
+952127,8/30/2014,FBS,Navy,Ohio State,RECEIVING,Geoffrey,Whiteside,TD,0
+952128,8/30/2014,FBS,Navy,Ohio State,RECEIVING,Geoffrey,Whiteside,LONG,3
+952129,8/30/2014,FBS,Navy,Ohio State,KICKING,Nick,Sloan,FG-FGA,1/2
+952130,8/30/2014,FBS,Navy,Ohio State,KICKING,Nick,Sloan,LONG,32
+952131,8/30/2014,FBS,Navy,Ohio State,KICKING,Nick,Sloan,XP,2
+952132,8/30/2014,FBS,Navy,Ohio State,KICKING,Nick,Sloan,PTS,5
+952133,8/30/2014,FBS,Navy,Ohio State,PUNTING,Pablo,Beltran,NO,5
+952134,8/30/2014,FBS,Navy,Ohio State,PUNTING,Pablo,Beltran,YDS,228
+952135,8/30/2014,FBS,Navy,Ohio State,PUNTING,Pablo,Beltran,AVG,45.6
+952136,8/30/2014,FBS,Navy,Ohio State,PUNTING,Pablo,Beltran,LONG,51
+952137,8/30/2014,FBS,Navy,Ohio State,KICK RETURNS,Demond,Brown,NO,4
+952138,8/30/2014,FBS,Navy,Ohio State,KICK RETURNS,Demond,Brown,YDS,64
+952139,8/30/2014,FBS,Navy,Ohio State,KICK RETURNS,Demond,Brown,AVG,16.0
+952140,8/30/2014,FBS,Navy,Ohio State,KICK RETURNS,Demond,Brown,LONG,19

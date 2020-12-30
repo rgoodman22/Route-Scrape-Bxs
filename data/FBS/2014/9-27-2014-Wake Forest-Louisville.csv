@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1174001,9/27/2014,FBS,Wake Forest,Louisville,RUSHING,Isaiah,Robinson,ATT,5
+1174002,9/27/2014,FBS,Wake Forest,Louisville,RUSHING,Isaiah,Robinson,YDS,25
+1174003,9/27/2014,FBS,Wake Forest,Louisville,RUSHING,Isaiah,Robinson,TD,0
+1174004,9/27/2014,FBS,Wake Forest,Louisville,RUSHING,Isaiah,Robinson,LONG,15
+1174005,9/27/2014,FBS,Wake Forest,Louisville,RUSHING,Orville,Reynolds,ATT,7
+1174006,9/27/2014,FBS,Wake Forest,Louisville,RUSHING,Orville,Reynolds,YDS,8
+1174007,9/27/2014,FBS,Wake Forest,Louisville,RUSHING,Orville,Reynolds,TD,0
+1174008,9/27/2014,FBS,Wake Forest,Louisville,RUSHING,Orville,Reynolds,LONG,6
+1174009,9/27/2014,FBS,Wake Forest,Louisville,RUSHING,,Team,ATT,1
+1174010,9/27/2014,FBS,Wake Forest,Louisville,RUSHING,,Team,YDS,-2
+1174011,9/27/2014,FBS,Wake Forest,Louisville,RUSHING,,Team,TD,0
+1174012,9/27/2014,FBS,Wake Forest,Louisville,RUSHING,,Team,LONG,-2
+1174013,9/27/2014,FBS,Wake Forest,Louisville,RUSHING,John,Wolford,ATT,10
+1174014,9/27/2014,FBS,Wake Forest,Louisville,RUSHING,John,Wolford,YDS,-53
+1174015,9/27/2014,FBS,Wake Forest,Louisville,RUSHING,John,Wolford,TD,0
+1174016,9/27/2014,FBS,Wake Forest,Louisville,RUSHING,John,Wolford,LONG,2
+1174017,9/27/2014,FBS,Wake Forest,Louisville,PASSING,John,Wolford,CP-ATT-INT,19-34-3
+1174018,9/27/2014,FBS,Wake Forest,Louisville,PASSING,John,Wolford,YDS,122
+1174019,9/27/2014,FBS,Wake Forest,Louisville,PASSING,John,Wolford,TD,0
+1174020,9/27/2014,FBS,Wake Forest,Louisville,PASSING,John,Wolford,LONG,24
+1174021,9/27/2014,FBS,Wake Forest,Louisville,RECEIVING,Cam,Serigne,REC,5
+1174022,9/27/2014,FBS,Wake Forest,Louisville,RECEIVING,Cam,Serigne,YDS,46
+1174023,9/27/2014,FBS,Wake Forest,Louisville,RECEIVING,Cam,Serigne,TD,0
+1174024,9/27/2014,FBS,Wake Forest,Louisville,RECEIVING,Cam,Serigne,LONG,24
+1174025,9/27/2014,FBS,Wake Forest,Louisville,RECEIVING,Jared,Crump,REC,2
+1174026,9/27/2014,FBS,Wake Forest,Louisville,RECEIVING,Jared,Crump,YDS,24
+1174027,9/27/2014,FBS,Wake Forest,Louisville,RECEIVING,Jared,Crump,TD,0
+1174028,9/27/2014,FBS,Wake Forest,Louisville,RECEIVING,Jared,Crump,LONG,13
+1174029,9/27/2014,FBS,Wake Forest,Louisville,RECEIVING,Jonathan,Williams,REC,2
+1174030,9/27/2014,FBS,Wake Forest,Louisville,RECEIVING,Jonathan,Williams,YDS,19
+1174031,9/27/2014,FBS,Wake Forest,Louisville,RECEIVING,Jonathan,Williams,TD,0
+1174032,9/27/2014,FBS,Wake Forest,Louisville,RECEIVING,Jonathan,Williams,LONG,11
+1174033,9/27/2014,FBS,Wake Forest,Louisville,RECEIVING,E.J.,Scott,REC,5
+1174034,9/27/2014,FBS,Wake Forest,Louisville,RECEIVING,E.J.,Scott,YDS,19
+1174035,9/27/2014,FBS,Wake Forest,Louisville,RECEIVING,E.J.,Scott,TD,0
+1174036,9/27/2014,FBS,Wake Forest,Louisville,RECEIVING,E.J.,Scott,LONG,7
+1174037,9/27/2014,FBS,Wake Forest,Louisville,RECEIVING,Orville,Reynolds,REC,3
+1174038,9/27/2014,FBS,Wake Forest,Louisville,RECEIVING,Orville,Reynolds,YDS,11
+1174039,9/27/2014,FBS,Wake Forest,Louisville,RECEIVING,Orville,Reynolds,TD,0
+1174040,9/27/2014,FBS,Wake Forest,Louisville,RECEIVING,Orville,Reynolds,LONG,5
+1174041,9/27/2014,FBS,Wake Forest,Louisville,RECEIVING,Isaiah,Robinson,REC,2
+1174042,9/27/2014,FBS,Wake Forest,Louisville,RECEIVING,Isaiah,Robinson,YDS,3
+1174043,9/27/2014,FBS,Wake Forest,Louisville,RECEIVING,Isaiah,Robinson,TD,0
+1174044,9/27/2014,FBS,Wake Forest,Louisville,RECEIVING,Isaiah,Robinson,LONG,2
+1174045,9/27/2014,FBS,Wake Forest,Louisville,KICKING,Mike,Weaver,FG-FGA,1/1
+1174046,9/27/2014,FBS,Wake Forest,Louisville,KICKING,Mike,Weaver,LONG,43
+1174047,9/27/2014,FBS,Wake Forest,Louisville,KICKING,Mike,Weaver,XP,1
+1174048,9/27/2014,FBS,Wake Forest,Louisville,KICKING,Mike,Weaver,PTS,4
+1174049,9/27/2014,FBS,Wake Forest,Louisville,PUNTING,Alexander,Kinal,NO,9
+1174050,9/27/2014,FBS,Wake Forest,Louisville,PUNTING,Alexander,Kinal,YDS,379
+1174051,9/27/2014,FBS,Wake Forest,Louisville,PUNTING,Alexander,Kinal,AVG,42.1
+1174052,9/27/2014,FBS,Wake Forest,Louisville,PUNTING,Alexander,Kinal,LONG,50
+1174053,9/27/2014,FBS,Wake Forest,Louisville,PUNT RETURNS,Jared,Crump,NO,2
+1174054,9/27/2014,FBS,Wake Forest,Louisville,PUNT RETURNS,Jared,Crump,YDS,17
+1174055,9/27/2014,FBS,Wake Forest,Louisville,PUNT RETURNS,Jared,Crump,AVG,8.5
+1174056,9/27/2014,FBS,Wake Forest,Louisville,PUNT RETURNS,Jared,Crump,LONG,12
+1174057,9/27/2014,FBS,Wake Forest,Louisville,KICK RETURNS,Cameron,Glenn,NO,1
+1174058,9/27/2014,FBS,Wake Forest,Louisville,KICK RETURNS,Cameron,Glenn,YDS,18
+1174059,9/27/2014,FBS,Wake Forest,Louisville,KICK RETURNS,Cameron,Glenn,AVG,18.0
+1174060,9/27/2014,FBS,Wake Forest,Louisville,KICK RETURNS,Cameron,Glenn,LONG,18
+1174061,9/27/2014,FBS,Louisville,Wake Forest,RUSHING,Brandon,Radcliff,ATT,17
+1174062,9/27/2014,FBS,Louisville,Wake Forest,RUSHING,Brandon,Radcliff,YDS,129
+1174063,9/27/2014,FBS,Louisville,Wake Forest,RUSHING,Brandon,Radcliff,TD,2
+1174064,9/27/2014,FBS,Louisville,Wake Forest,RUSHING,Brandon,Radcliff,LONG,29
+1174065,9/27/2014,FBS,Louisville,Wake Forest,RUSHING,Reggie,Bonnafon,ATT,14
+1174066,9/27/2014,FBS,Louisville,Wake Forest,RUSHING,Reggie,Bonnafon,YDS,46
+1174067,9/27/2014,FBS,Louisville,Wake Forest,RUSHING,Reggie,Bonnafon,TD,0
+1174068,9/27/2014,FBS,Louisville,Wake Forest,RUSHING,Reggie,Bonnafon,LONG,16
+1174069,9/27/2014,FBS,Louisville,Wake Forest,RUSHING,Michael,Dyer,ATT,14
+1174070,9/27/2014,FBS,Louisville,Wake Forest,RUSHING,Michael,Dyer,YDS,41
+1174071,9/27/2014,FBS,Louisville,Wake Forest,RUSHING,Michael,Dyer,TD,0
+1174072,9/27/2014,FBS,Louisville,Wake Forest,RUSHING,Michael,Dyer,LONG,9
+1174073,9/27/2014,FBS,Louisville,Wake Forest,RUSHING,Dominique,Brown,ATT,3
+1174074,9/27/2014,FBS,Louisville,Wake Forest,RUSHING,Dominique,Brown,YDS,1
+1174075,9/27/2014,FBS,Louisville,Wake Forest,RUSHING,Dominique,Brown,TD,0
+1174076,9/27/2014,FBS,Louisville,Wake Forest,RUSHING,Dominique,Brown,LONG,1
+1174077,9/27/2014,FBS,Louisville,Wake Forest,RUSHING,,Team,ATT,1
+1174078,9/27/2014,FBS,Louisville,Wake Forest,RUSHING,,Team,YDS,-2
+1174079,9/27/2014,FBS,Louisville,Wake Forest,RUSHING,,Team,TD,0
+1174080,9/27/2014,FBS,Louisville,Wake Forest,RUSHING,,Team,LONG,-2
+1174081,9/27/2014,FBS,Louisville,Wake Forest,PASSING,Reggie,Bonnafon,CP-ATT-INT,16-32-0
+1174082,9/27/2014,FBS,Louisville,Wake Forest,PASSING,Reggie,Bonnafon,YDS,206
+1174083,9/27/2014,FBS,Louisville,Wake Forest,PASSING,Reggie,Bonnafon,TD,0
+1174084,9/27/2014,FBS,Louisville,Wake Forest,PASSING,Reggie,Bonnafon,LONG,45
+1174085,9/27/2014,FBS,Louisville,Wake Forest,RECEIVING,Gerald,Christian,REC,1
+1174086,9/27/2014,FBS,Louisville,Wake Forest,RECEIVING,Gerald,Christian,YDS,45
+1174087,9/27/2014,FBS,Louisville,Wake Forest,RECEIVING,Gerald,Christian,TD,0
+1174088,9/27/2014,FBS,Louisville,Wake Forest,RECEIVING,Gerald,Christian,LONG,45
+1174089,9/27/2014,FBS,Louisville,Wake Forest,RECEIVING,James,Quick,REC,2
+1174090,9/27/2014,FBS,Louisville,Wake Forest,RECEIVING,James,Quick,YDS,42
+1174091,9/27/2014,FBS,Louisville,Wake Forest,RECEIVING,James,Quick,TD,0
+1174092,9/27/2014,FBS,Louisville,Wake Forest,RECEIVING,James,Quick,LONG,22
+1174093,9/27/2014,FBS,Louisville,Wake Forest,RECEIVING,Eli,Rogers,REC,5
+1174094,9/27/2014,FBS,Louisville,Wake Forest,RECEIVING,Eli,Rogers,YDS,42
+1174095,9/27/2014,FBS,Louisville,Wake Forest,RECEIVING,Eli,Rogers,TD,0
+1174096,9/27/2014,FBS,Louisville,Wake Forest,RECEIVING,Eli,Rogers,LONG,16
+1174097,9/27/2014,FBS,Louisville,Wake Forest,RECEIVING,Brandon,Radcliff,REC,2
+1174098,9/27/2014,FBS,Louisville,Wake Forest,RECEIVING,Brandon,Radcliff,YDS,30
+1174099,9/27/2014,FBS,Louisville,Wake Forest,RECEIVING,Brandon,Radcliff,TD,0
+1174100,9/27/2014,FBS,Louisville,Wake Forest,RECEIVING,Brandon,Radcliff,LONG,33
+1174101,9/27/2014,FBS,Louisville,Wake Forest,RECEIVING,Kai,DeLaCruz,REC,3
+1174102,9/27/2014,FBS,Louisville,Wake Forest,RECEIVING,Kai,DeLaCruz,YDS,28
+1174103,9/27/2014,FBS,Louisville,Wake Forest,RECEIVING,Kai,DeLaCruz,TD,0
+1174104,9/27/2014,FBS,Louisville,Wake Forest,RECEIVING,Kai,DeLaCruz,LONG,15
+1174105,9/27/2014,FBS,Louisville,Wake Forest,RECEIVING,Keith,Towbridge,REC,1
+1174106,9/27/2014,FBS,Louisville,Wake Forest,RECEIVING,Keith,Towbridge,YDS,12
+1174107,9/27/2014,FBS,Louisville,Wake Forest,RECEIVING,Keith,Towbridge,TD,0
+1174108,9/27/2014,FBS,Louisville,Wake Forest,RECEIVING,Keith,Towbridge,LONG,12
+1174109,9/27/2014,FBS,Louisville,Wake Forest,RECEIVING,L.J.,Scott,REC,1
+1174110,9/27/2014,FBS,Louisville,Wake Forest,RECEIVING,L.J.,Scott,YDS,6
+1174111,9/27/2014,FBS,Louisville,Wake Forest,RECEIVING,L.J.,Scott,TD,0
+1174112,9/27/2014,FBS,Louisville,Wake Forest,RECEIVING,L.J.,Scott,LONG,6
+1174113,9/27/2014,FBS,Louisville,Wake Forest,RECEIVING,Michaelee,Harris,REC,1
+1174114,9/27/2014,FBS,Louisville,Wake Forest,RECEIVING,Michaelee,Harris,YDS,1
+1174115,9/27/2014,FBS,Louisville,Wake Forest,RECEIVING,Michaelee,Harris,TD,0
+1174116,9/27/2014,FBS,Louisville,Wake Forest,RECEIVING,Michaelee,Harris,LONG,1
+1174117,9/27/2014,FBS,Louisville,Wake Forest,KICKING,John,Wallace,FG-FGA,2/4
+1174118,9/27/2014,FBS,Louisville,Wake Forest,KICKING,John,Wallace,LONG,34
+1174119,9/27/2014,FBS,Louisville,Wake Forest,KICKING,John,Wallace,XP,2
+1174120,9/27/2014,FBS,Louisville,Wake Forest,KICKING,John,Wallace,PTS,8
+1174121,9/27/2014,FBS,Louisville,Wake Forest,PUNTING,Ryan,Johnson,NO,5
+1174122,9/27/2014,FBS,Louisville,Wake Forest,PUNTING,Ryan,Johnson,YDS,196
+1174123,9/27/2014,FBS,Louisville,Wake Forest,PUNTING,Ryan,Johnson,AVG,39.2
+1174124,9/27/2014,FBS,Louisville,Wake Forest,PUNTING,Ryan,Johnson,LONG,51
+1174125,9/27/2014,FBS,Louisville,Wake Forest,PUNT RETURNS,Eli,Rogers,NO,1
+1174126,9/27/2014,FBS,Louisville,Wake Forest,PUNT RETURNS,Eli,Rogers,YDS,5
+1174127,9/27/2014,FBS,Louisville,Wake Forest,PUNT RETURNS,Eli,Rogers,AVG,5.0
+1174128,9/27/2014,FBS,Louisville,Wake Forest,PUNT RETURNS,Eli,Rogers,LONG,5
+1174129,9/27/2014,FBS,Louisville,Wake Forest,PUNT RETURNS,James,Quick,NO,2
+1174130,9/27/2014,FBS,Louisville,Wake Forest,PUNT RETURNS,James,Quick,YDS,5
+1174131,9/27/2014,FBS,Louisville,Wake Forest,PUNT RETURNS,James,Quick,AVG,2.5
+1174132,9/27/2014,FBS,Louisville,Wake Forest,PUNT RETURNS,James,Quick,LONG,6
+1174133,9/27/2014,FBS,Louisville,Wake Forest,KICK RETURNS,Brandon,Radcliff,NO,1
+1174134,9/27/2014,FBS,Louisville,Wake Forest,KICK RETURNS,Brandon,Radcliff,YDS,16
+1174135,9/27/2014,FBS,Louisville,Wake Forest,KICK RETURNS,Brandon,Radcliff,AVG,16.0
+1174136,9/27/2014,FBS,Louisville,Wake Forest,KICK RETURNS,Brandon,Radcliff,LONG,16

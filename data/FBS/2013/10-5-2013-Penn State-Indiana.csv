@@ -1,141 +1,141 @@
 ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
-44001,10/5/2013,FBS,Penn State,Indiana,RUSHING,Zach,Zwinak,ATT,17
-44002,10/5/2013,FBS,Penn State,Indiana,RUSHING,Zach,Zwinak,YDS,72
-44003,10/5/2013,FBS,Penn State,Indiana,RUSHING,Zach,Zwinak,TD,0
-44004,10/5/2013,FBS,Penn State,Indiana,RUSHING,Zach,Zwinak,LONG,13
-44005,10/5/2013,FBS,Penn State,Indiana,RUSHING,Bill,Belton,ATT,10
-44006,10/5/2013,FBS,Penn State,Indiana,RUSHING,Bill,Belton,YDS,31
-44007,10/5/2013,FBS,Penn State,Indiana,RUSHING,Bill,Belton,TD,0
-44008,10/5/2013,FBS,Penn State,Indiana,RUSHING,Bill,Belton,LONG,11
-44009,10/5/2013,FBS,Penn State,Indiana,RUSHING,Allen,Robinson,ATT,1
-44010,10/5/2013,FBS,Penn State,Indiana,RUSHING,Allen,Robinson,YDS,10
-44011,10/5/2013,FBS,Penn State,Indiana,RUSHING,Allen,Robinson,TD,0
-44012,10/5/2013,FBS,Penn State,Indiana,RUSHING,Allen,Robinson,LONG,10
-44013,10/5/2013,FBS,Penn State,Indiana,RUSHING,Akeel,Lynch,ATT,3
-44014,10/5/2013,FBS,Penn State,Indiana,RUSHING,Akeel,Lynch,YDS,7
-44015,10/5/2013,FBS,Penn State,Indiana,RUSHING,Akeel,Lynch,TD,0
-44016,10/5/2013,FBS,Penn State,Indiana,RUSHING,Akeel,Lynch,LONG,4
-44017,10/5/2013,FBS,Penn State,Indiana,RUSHING,Christian,Hackenberg,ATT,6
-44018,10/5/2013,FBS,Penn State,Indiana,RUSHING,Christian,Hackenberg,YDS,-19
-44019,10/5/2013,FBS,Penn State,Indiana,RUSHING,Christian,Hackenberg,TD,0
-44020,10/5/2013,FBS,Penn State,Indiana,RUSHING,Christian,Hackenberg,LONG,2
-44021,10/5/2013,FBS,Penn State,Indiana,RUSHING,,Team,ATT,1
-44022,10/5/2013,FBS,Penn State,Indiana,RUSHING,,Team,YDS,-31
-44023,10/5/2013,FBS,Penn State,Indiana,RUSHING,,Team,TD,0
-44024,10/5/2013,FBS,Penn State,Indiana,RUSHING,,Team,LONG,0
-44025,10/5/2013,FBS,Penn State,Indiana,PASSING,Christian,Hackenberg,CP-ATT-INT,30-55-0
-44026,10/5/2013,FBS,Penn State,Indiana,PASSING,Christian,Hackenberg,YDS,340
-44027,10/5/2013,FBS,Penn State,Indiana,PASSING,Christian,Hackenberg,TD,3
-44028,10/5/2013,FBS,Penn State,Indiana,PASSING,Christian,Hackenberg,LONG,46
-44029,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Allen,Robinson,REC,12
-44030,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Allen,Robinson,YDS,173
-44031,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Allen,Robinson,TD,2
-44032,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Allen,Robinson,LONG,46
-44033,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Kyle,Carter,REC,6
-44034,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Kyle,Carter,YDS,79
-44035,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Kyle,Carter,TD,0
-44036,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Kyle,Carter,LONG,26
-44037,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Geno,Lewis,REC,6
-44038,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Geno,Lewis,YDS,35
-44039,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Geno,Lewis,TD,0
-44040,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Geno,Lewis,LONG,9
-44041,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Richy,Anderson,REC,3
-44042,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Richy,Anderson,YDS,29
-44043,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Richy,Anderson,TD,0
-44044,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Richy,Anderson,LONG,12
-44045,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Bill,Belton,REC,3
-44046,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Bill,Belton,YDS,24
-44047,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Bill,Belton,TD,1
-44048,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Bill,Belton,LONG,14
-44049,10/5/2013,FBS,Penn State,Indiana,KICKING,Sam,Ficken,FG-FGA,1/2
-44050,10/5/2013,FBS,Penn State,Indiana,KICKING,Sam,Ficken,LONG,30
-44051,10/5/2013,FBS,Penn State,Indiana,KICKING,Sam,Ficken,XP,3
-44052,10/5/2013,FBS,Penn State,Indiana,KICKING,Sam,Ficken,PTS,6
-44053,10/5/2013,FBS,Penn State,Indiana,PUNTING,Alex,Butterworth,NO,4
-44054,10/5/2013,FBS,Penn State,Indiana,PUNTING,Alex,Butterworth,YDS,181
-44055,10/5/2013,FBS,Penn State,Indiana,PUNTING,Alex,Butterworth,AVG,45.3
-44056,10/5/2013,FBS,Penn State,Indiana,PUNTING,Alex,Butterworth,LONG,52
-44057,10/5/2013,FBS,Penn State,Indiana,PUNT RETURNS,Jesse,DellaValle,NO,1
-44058,10/5/2013,FBS,Penn State,Indiana,PUNT RETURNS,Jesse,DellaValle,YDS,3
-44059,10/5/2013,FBS,Penn State,Indiana,PUNT RETURNS,Jesse,DellaValle,AVG,3.0
-44060,10/5/2013,FBS,Penn State,Indiana,PUNT RETURNS,Jesse,DellaValle,LONG,3
-44061,10/5/2013,FBS,Penn State,Indiana,KICK RETURNS,Geno,Lewis,NO,3
-44062,10/5/2013,FBS,Penn State,Indiana,KICK RETURNS,Geno,Lewis,YDS,64
-44063,10/5/2013,FBS,Penn State,Indiana,KICK RETURNS,Geno,Lewis,AVG,21.3
-44064,10/5/2013,FBS,Penn State,Indiana,KICK RETURNS,Geno,Lewis,LONG,30
-44065,10/5/2013,FBS,Indiana,Penn State,RUSHING,Tevin,Coleman,ATT,20
-44066,10/5/2013,FBS,Indiana,Penn State,RUSHING,Tevin,Coleman,YDS,92
-44067,10/5/2013,FBS,Indiana,Penn State,RUSHING,Tevin,Coleman,TD,1
-44068,10/5/2013,FBS,Indiana,Penn State,RUSHING,Tevin,Coleman,LONG,44
-44069,10/5/2013,FBS,Indiana,Penn State,RUSHING,Stephen,Houston,ATT,4
-44070,10/5/2013,FBS,Indiana,Penn State,RUSHING,Stephen,Houston,YDS,34
-44071,10/5/2013,FBS,Indiana,Penn State,RUSHING,Stephen,Houston,TD,0
-44072,10/5/2013,FBS,Indiana,Penn State,RUSHING,Stephen,Houston,LONG,18
-44073,10/5/2013,FBS,Indiana,Penn State,RUSHING,D'Angelo,Roberts,ATT,3
-44074,10/5/2013,FBS,Indiana,Penn State,RUSHING,D'Angelo,Roberts,YDS,27
-44075,10/5/2013,FBS,Indiana,Penn State,RUSHING,D'Angelo,Roberts,TD,0
-44076,10/5/2013,FBS,Indiana,Penn State,RUSHING,D'Angelo,Roberts,LONG,20
-44077,10/5/2013,FBS,Indiana,Penn State,RUSHING,Tre,Roberson,ATT,5
-44078,10/5/2013,FBS,Indiana,Penn State,RUSHING,Tre,Roberson,YDS,12
-44079,10/5/2013,FBS,Indiana,Penn State,RUSHING,Tre,Roberson,TD,2
-44080,10/5/2013,FBS,Indiana,Penn State,RUSHING,Tre,Roberson,LONG,9
-44081,10/5/2013,FBS,Indiana,Penn State,RUSHING,,Team,ATT,3
-44082,10/5/2013,FBS,Indiana,Penn State,RUSHING,,Team,YDS,-6
-44083,10/5/2013,FBS,Indiana,Penn State,RUSHING,,Team,TD,0
-44084,10/5/2013,FBS,Indiana,Penn State,RUSHING,,Team,LONG,0
-44085,10/5/2013,FBS,Indiana,Penn State,RUSHING,Nate,Sudfeld,ATT,6
-44086,10/5/2013,FBS,Indiana,Penn State,RUSHING,Nate,Sudfeld,YDS,-9
-44087,10/5/2013,FBS,Indiana,Penn State,RUSHING,Nate,Sudfeld,TD,0
-44088,10/5/2013,FBS,Indiana,Penn State,RUSHING,Nate,Sudfeld,LONG,3
-44089,10/5/2013,FBS,Indiana,Penn State,PASSING,Nate,Sudfeld,CP-ATT-INT,23-38-1
-44090,10/5/2013,FBS,Indiana,Penn State,PASSING,Nate,Sudfeld,YDS,321
-44091,10/5/2013,FBS,Indiana,Penn State,PASSING,Nate,Sudfeld,TD,2
-44092,10/5/2013,FBS,Indiana,Penn State,PASSING,Nate,Sudfeld,LONG,37
-44093,10/5/2013,FBS,Indiana,Penn State,PASSING,Tre,Roberson,CP-ATT-INT,1-1-0
-44094,10/5/2013,FBS,Indiana,Penn State,PASSING,Tre,Roberson,YDS,15
-44095,10/5/2013,FBS,Indiana,Penn State,PASSING,Tre,Roberson,TD,0
-44096,10/5/2013,FBS,Indiana,Penn State,PASSING,Tre,Roberson,LONG,15
-44097,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Cody,Latimer,REC,9
-44098,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Cody,Latimer,YDS,140
-44099,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Cody,Latimer,TD,0
-44100,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Cody,Latimer,LONG,33
-44101,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Tevin,Coleman,REC,7
-44102,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Tevin,Coleman,YDS,55
-44103,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Tevin,Coleman,TD,0
-44104,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Tevin,Coleman,LONG,15
-44105,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Kofi,Hughes,REC,4
-44106,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Kofi,Hughes,YDS,85
-44107,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Kofi,Hughes,TD,1
-44108,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Kofi,Hughes,LONG,37
-44109,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Stephen,Houston,REC,1
-44110,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Stephen,Houston,YDS,22
-44111,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Stephen,Houston,TD,0
-44112,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Stephen,Houston,LONG,22
-44113,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Ted,Bolser,REC,1
-44114,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Ted,Bolser,YDS,18
-44115,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Ted,Bolser,TD,0
-44116,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Ted,Bolser,LONG,18
-44117,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Nick,Stoner,REC,1
-44118,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Nick,Stoner,YDS,11
-44119,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Nick,Stoner,TD,0
-44120,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Nick,Stoner,LONG,11
-44121,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Isaiah,Roundtree,REC,1
-44122,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Isaiah,Roundtree,YDS,5
-44123,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Isaiah,Roundtree,TD,1
-44124,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Isaiah,Roundtree,LONG,5
-44125,10/5/2013,FBS,Indiana,Penn State,KICKING,Mitch,Ewald,FG-FGA,2/2
-44126,10/5/2013,FBS,Indiana,Penn State,KICKING,Mitch,Ewald,LONG,27
-44127,10/5/2013,FBS,Indiana,Penn State,KICKING,Mitch,Ewald,XP,4
-44128,10/5/2013,FBS,Indiana,Penn State,KICKING,Mitch,Ewald,PTS,10
-44129,10/5/2013,FBS,Indiana,Penn State,PUNTING,Erich,Toth,NO,6
-44130,10/5/2013,FBS,Indiana,Penn State,PUNTING,Erich,Toth,YDS,249
-44131,10/5/2013,FBS,Indiana,Penn State,PUNTING,Erich,Toth,AVG,41.5
-44132,10/5/2013,FBS,Indiana,Penn State,PUNTING,Erich,Toth,LONG,51
-44133,10/5/2013,FBS,Indiana,Penn State,PUNT RETURNS,Shane,Wynn,NO,2
-44134,10/5/2013,FBS,Indiana,Penn State,PUNT RETURNS,Shane,Wynn,YDS,6
-44135,10/5/2013,FBS,Indiana,Penn State,PUNT RETURNS,Shane,Wynn,AVG,3.0
-44136,10/5/2013,FBS,Indiana,Penn State,PUNT RETURNS,Shane,Wynn,LONG,6
-44137,10/5/2013,FBS,Indiana,Penn State,KICK RETURNS,Shane,Wynn,NO,1
-44138,10/5/2013,FBS,Indiana,Penn State,KICK RETURNS,Shane,Wynn,YDS,13
-44139,10/5/2013,FBS,Indiana,Penn State,KICK RETURNS,Shane,Wynn,AVG,13.0
-44140,10/5/2013,FBS,Indiana,Penn State,KICK RETURNS,Shane,Wynn,LONG,13
+375001,10/5/2013,FBS,Penn State,Indiana,RUSHING,Zach,Zwinak,ATT,17
+375002,10/5/2013,FBS,Penn State,Indiana,RUSHING,Zach,Zwinak,YDS,72
+375003,10/5/2013,FBS,Penn State,Indiana,RUSHING,Zach,Zwinak,TD,0
+375004,10/5/2013,FBS,Penn State,Indiana,RUSHING,Zach,Zwinak,LONG,13
+375005,10/5/2013,FBS,Penn State,Indiana,RUSHING,Bill,Belton,ATT,10
+375006,10/5/2013,FBS,Penn State,Indiana,RUSHING,Bill,Belton,YDS,31
+375007,10/5/2013,FBS,Penn State,Indiana,RUSHING,Bill,Belton,TD,0
+375008,10/5/2013,FBS,Penn State,Indiana,RUSHING,Bill,Belton,LONG,11
+375009,10/5/2013,FBS,Penn State,Indiana,RUSHING,Allen,Robinson,ATT,1
+375010,10/5/2013,FBS,Penn State,Indiana,RUSHING,Allen,Robinson,YDS,10
+375011,10/5/2013,FBS,Penn State,Indiana,RUSHING,Allen,Robinson,TD,0
+375012,10/5/2013,FBS,Penn State,Indiana,RUSHING,Allen,Robinson,LONG,10
+375013,10/5/2013,FBS,Penn State,Indiana,RUSHING,Akeel,Lynch,ATT,3
+375014,10/5/2013,FBS,Penn State,Indiana,RUSHING,Akeel,Lynch,YDS,7
+375015,10/5/2013,FBS,Penn State,Indiana,RUSHING,Akeel,Lynch,TD,0
+375016,10/5/2013,FBS,Penn State,Indiana,RUSHING,Akeel,Lynch,LONG,4
+375017,10/5/2013,FBS,Penn State,Indiana,RUSHING,Christian,Hackenberg,ATT,6
+375018,10/5/2013,FBS,Penn State,Indiana,RUSHING,Christian,Hackenberg,YDS,-19
+375019,10/5/2013,FBS,Penn State,Indiana,RUSHING,Christian,Hackenberg,TD,0
+375020,10/5/2013,FBS,Penn State,Indiana,RUSHING,Christian,Hackenberg,LONG,2
+375021,10/5/2013,FBS,Penn State,Indiana,RUSHING,,Team,ATT,1
+375022,10/5/2013,FBS,Penn State,Indiana,RUSHING,,Team,YDS,-31
+375023,10/5/2013,FBS,Penn State,Indiana,RUSHING,,Team,TD,0
+375024,10/5/2013,FBS,Penn State,Indiana,RUSHING,,Team,LONG,0
+375025,10/5/2013,FBS,Penn State,Indiana,PASSING,Christian,Hackenberg,CP-ATT-INT,30-55-0
+375026,10/5/2013,FBS,Penn State,Indiana,PASSING,Christian,Hackenberg,YDS,340
+375027,10/5/2013,FBS,Penn State,Indiana,PASSING,Christian,Hackenberg,TD,3
+375028,10/5/2013,FBS,Penn State,Indiana,PASSING,Christian,Hackenberg,LONG,46
+375029,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Allen,Robinson,REC,12
+375030,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Allen,Robinson,YDS,173
+375031,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Allen,Robinson,TD,2
+375032,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Allen,Robinson,LONG,46
+375033,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Kyle,Carter,REC,6
+375034,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Kyle,Carter,YDS,79
+375035,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Kyle,Carter,TD,0
+375036,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Kyle,Carter,LONG,26
+375037,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Geno,Lewis,REC,6
+375038,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Geno,Lewis,YDS,35
+375039,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Geno,Lewis,TD,0
+375040,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Geno,Lewis,LONG,9
+375041,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Richy,Anderson,REC,3
+375042,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Richy,Anderson,YDS,29
+375043,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Richy,Anderson,TD,0
+375044,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Richy,Anderson,LONG,12
+375045,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Bill,Belton,REC,3
+375046,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Bill,Belton,YDS,24
+375047,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Bill,Belton,TD,1
+375048,10/5/2013,FBS,Penn State,Indiana,RECEIVING,Bill,Belton,LONG,14
+375049,10/5/2013,FBS,Penn State,Indiana,KICKING,Sam,Ficken,FG-FGA,1/2
+375050,10/5/2013,FBS,Penn State,Indiana,KICKING,Sam,Ficken,LONG,30
+375051,10/5/2013,FBS,Penn State,Indiana,KICKING,Sam,Ficken,XP,3
+375052,10/5/2013,FBS,Penn State,Indiana,KICKING,Sam,Ficken,PTS,6
+375053,10/5/2013,FBS,Penn State,Indiana,PUNTING,Alex,Butterworth,NO,4
+375054,10/5/2013,FBS,Penn State,Indiana,PUNTING,Alex,Butterworth,YDS,181
+375055,10/5/2013,FBS,Penn State,Indiana,PUNTING,Alex,Butterworth,AVG,45.3
+375056,10/5/2013,FBS,Penn State,Indiana,PUNTING,Alex,Butterworth,LONG,52
+375057,10/5/2013,FBS,Penn State,Indiana,PUNT RETURNS,Jesse,DellaValle,NO,1
+375058,10/5/2013,FBS,Penn State,Indiana,PUNT RETURNS,Jesse,DellaValle,YDS,3
+375059,10/5/2013,FBS,Penn State,Indiana,PUNT RETURNS,Jesse,DellaValle,AVG,3.0
+375060,10/5/2013,FBS,Penn State,Indiana,PUNT RETURNS,Jesse,DellaValle,LONG,3
+375061,10/5/2013,FBS,Penn State,Indiana,KICK RETURNS,Geno,Lewis,NO,3
+375062,10/5/2013,FBS,Penn State,Indiana,KICK RETURNS,Geno,Lewis,YDS,64
+375063,10/5/2013,FBS,Penn State,Indiana,KICK RETURNS,Geno,Lewis,AVG,21.3
+375064,10/5/2013,FBS,Penn State,Indiana,KICK RETURNS,Geno,Lewis,LONG,30
+375065,10/5/2013,FBS,Indiana,Penn State,RUSHING,Tevin,Coleman,ATT,20
+375066,10/5/2013,FBS,Indiana,Penn State,RUSHING,Tevin,Coleman,YDS,92
+375067,10/5/2013,FBS,Indiana,Penn State,RUSHING,Tevin,Coleman,TD,1
+375068,10/5/2013,FBS,Indiana,Penn State,RUSHING,Tevin,Coleman,LONG,44
+375069,10/5/2013,FBS,Indiana,Penn State,RUSHING,Stephen,Houston,ATT,4
+375070,10/5/2013,FBS,Indiana,Penn State,RUSHING,Stephen,Houston,YDS,34
+375071,10/5/2013,FBS,Indiana,Penn State,RUSHING,Stephen,Houston,TD,0
+375072,10/5/2013,FBS,Indiana,Penn State,RUSHING,Stephen,Houston,LONG,18
+375073,10/5/2013,FBS,Indiana,Penn State,RUSHING,D'Angelo,Roberts,ATT,3
+375074,10/5/2013,FBS,Indiana,Penn State,RUSHING,D'Angelo,Roberts,YDS,27
+375075,10/5/2013,FBS,Indiana,Penn State,RUSHING,D'Angelo,Roberts,TD,0
+375076,10/5/2013,FBS,Indiana,Penn State,RUSHING,D'Angelo,Roberts,LONG,20
+375077,10/5/2013,FBS,Indiana,Penn State,RUSHING,Tre,Roberson,ATT,5
+375078,10/5/2013,FBS,Indiana,Penn State,RUSHING,Tre,Roberson,YDS,12
+375079,10/5/2013,FBS,Indiana,Penn State,RUSHING,Tre,Roberson,TD,2
+375080,10/5/2013,FBS,Indiana,Penn State,RUSHING,Tre,Roberson,LONG,9
+375081,10/5/2013,FBS,Indiana,Penn State,RUSHING,,Team,ATT,3
+375082,10/5/2013,FBS,Indiana,Penn State,RUSHING,,Team,YDS,-6
+375083,10/5/2013,FBS,Indiana,Penn State,RUSHING,,Team,TD,0
+375084,10/5/2013,FBS,Indiana,Penn State,RUSHING,,Team,LONG,0
+375085,10/5/2013,FBS,Indiana,Penn State,RUSHING,Nate,Sudfeld,ATT,6
+375086,10/5/2013,FBS,Indiana,Penn State,RUSHING,Nate,Sudfeld,YDS,-9
+375087,10/5/2013,FBS,Indiana,Penn State,RUSHING,Nate,Sudfeld,TD,0
+375088,10/5/2013,FBS,Indiana,Penn State,RUSHING,Nate,Sudfeld,LONG,3
+375089,10/5/2013,FBS,Indiana,Penn State,PASSING,Nate,Sudfeld,CP-ATT-INT,23-38-1
+375090,10/5/2013,FBS,Indiana,Penn State,PASSING,Nate,Sudfeld,YDS,321
+375091,10/5/2013,FBS,Indiana,Penn State,PASSING,Nate,Sudfeld,TD,2
+375092,10/5/2013,FBS,Indiana,Penn State,PASSING,Nate,Sudfeld,LONG,37
+375093,10/5/2013,FBS,Indiana,Penn State,PASSING,Tre,Roberson,CP-ATT-INT,1-1-0
+375094,10/5/2013,FBS,Indiana,Penn State,PASSING,Tre,Roberson,YDS,15
+375095,10/5/2013,FBS,Indiana,Penn State,PASSING,Tre,Roberson,TD,0
+375096,10/5/2013,FBS,Indiana,Penn State,PASSING,Tre,Roberson,LONG,15
+375097,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Cody,Latimer,REC,9
+375098,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Cody,Latimer,YDS,140
+375099,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Cody,Latimer,TD,0
+375100,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Cody,Latimer,LONG,33
+375101,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Tevin,Coleman,REC,7
+375102,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Tevin,Coleman,YDS,55
+375103,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Tevin,Coleman,TD,0
+375104,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Tevin,Coleman,LONG,15
+375105,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Kofi,Hughes,REC,4
+375106,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Kofi,Hughes,YDS,85
+375107,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Kofi,Hughes,TD,1
+375108,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Kofi,Hughes,LONG,37
+375109,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Stephen,Houston,REC,1
+375110,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Stephen,Houston,YDS,22
+375111,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Stephen,Houston,TD,0
+375112,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Stephen,Houston,LONG,22
+375113,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Ted,Bolser,REC,1
+375114,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Ted,Bolser,YDS,18
+375115,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Ted,Bolser,TD,0
+375116,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Ted,Bolser,LONG,18
+375117,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Nick,Stoner,REC,1
+375118,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Nick,Stoner,YDS,11
+375119,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Nick,Stoner,TD,0
+375120,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Nick,Stoner,LONG,11
+375121,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Isaiah,Roundtree,REC,1
+375122,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Isaiah,Roundtree,YDS,5
+375123,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Isaiah,Roundtree,TD,1
+375124,10/5/2013,FBS,Indiana,Penn State,RECEIVING,Isaiah,Roundtree,LONG,5
+375125,10/5/2013,FBS,Indiana,Penn State,KICKING,Mitch,Ewald,FG-FGA,2/2
+375126,10/5/2013,FBS,Indiana,Penn State,KICKING,Mitch,Ewald,LONG,27
+375127,10/5/2013,FBS,Indiana,Penn State,KICKING,Mitch,Ewald,XP,4
+375128,10/5/2013,FBS,Indiana,Penn State,KICKING,Mitch,Ewald,PTS,10
+375129,10/5/2013,FBS,Indiana,Penn State,PUNTING,Erich,Toth,NO,6
+375130,10/5/2013,FBS,Indiana,Penn State,PUNTING,Erich,Toth,YDS,249
+375131,10/5/2013,FBS,Indiana,Penn State,PUNTING,Erich,Toth,AVG,41.5
+375132,10/5/2013,FBS,Indiana,Penn State,PUNTING,Erich,Toth,LONG,51
+375133,10/5/2013,FBS,Indiana,Penn State,PUNT RETURNS,Shane,Wynn,NO,2
+375134,10/5/2013,FBS,Indiana,Penn State,PUNT RETURNS,Shane,Wynn,YDS,6
+375135,10/5/2013,FBS,Indiana,Penn State,PUNT RETURNS,Shane,Wynn,AVG,3.0
+375136,10/5/2013,FBS,Indiana,Penn State,PUNT RETURNS,Shane,Wynn,LONG,6
+375137,10/5/2013,FBS,Indiana,Penn State,KICK RETURNS,Shane,Wynn,NO,1
+375138,10/5/2013,FBS,Indiana,Penn State,KICK RETURNS,Shane,Wynn,YDS,13
+375139,10/5/2013,FBS,Indiana,Penn State,KICK RETURNS,Shane,Wynn,AVG,13.0
+375140,10/5/2013,FBS,Indiana,Penn State,KICK RETURNS,Shane,Wynn,LONG,13

@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1665001,11/29/2014,FBS,Wyoming,New Mexico,RUSHING,Brian,Hill,ATT,29
+1665002,11/29/2014,FBS,Wyoming,New Mexico,RUSHING,Brian,Hill,YDS,163
+1665003,11/29/2014,FBS,Wyoming,New Mexico,RUSHING,Brian,Hill,TD,1
+1665004,11/29/2014,FBS,Wyoming,New Mexico,RUSHING,Brian,Hill,LONG,44
+1665005,11/29/2014,FBS,Wyoming,New Mexico,RUSHING,Shaun,Wick,ATT,14
+1665006,11/29/2014,FBS,Wyoming,New Mexico,RUSHING,Shaun,Wick,YDS,48
+1665007,11/29/2014,FBS,Wyoming,New Mexico,RUSHING,Shaun,Wick,TD,1
+1665008,11/29/2014,FBS,Wyoming,New Mexico,RUSHING,Shaun,Wick,LONG,13
+1665009,11/29/2014,FBS,Wyoming,New Mexico,RUSHING,Jacob,Hollister,ATT,1
+1665010,11/29/2014,FBS,Wyoming,New Mexico,RUSHING,Jacob,Hollister,YDS,-9
+1665011,11/29/2014,FBS,Wyoming,New Mexico,RUSHING,Jacob,Hollister,TD,0
+1665012,11/29/2014,FBS,Wyoming,New Mexico,RUSHING,Jacob,Hollister,LONG,-9
+1665013,11/29/2014,FBS,Wyoming,New Mexico,RUSHING,Colby,Kirkegaard,ATT,7
+1665014,11/29/2014,FBS,Wyoming,New Mexico,RUSHING,Colby,Kirkegaard,YDS,-27
+1665015,11/29/2014,FBS,Wyoming,New Mexico,RUSHING,Colby,Kirkegaard,TD,0
+1665016,11/29/2014,FBS,Wyoming,New Mexico,RUSHING,Colby,Kirkegaard,LONG,4
+1665017,11/29/2014,FBS,Wyoming,New Mexico,PASSING,Colby,Kirkegaard,CP-ATT-INT,21-43-1
+1665018,11/29/2014,FBS,Wyoming,New Mexico,PASSING,Colby,Kirkegaard,YDS,366
+1665019,11/29/2014,FBS,Wyoming,New Mexico,PASSING,Colby,Kirkegaard,TD,1
+1665020,11/29/2014,FBS,Wyoming,New Mexico,PASSING,Colby,Kirkegaard,LONG,44
+1665021,11/29/2014,FBS,Wyoming,New Mexico,RECEIVING,Dominic,Rufran,REC,5
+1665022,11/29/2014,FBS,Wyoming,New Mexico,RECEIVING,Dominic,Rufran,YDS,82
+1665023,11/29/2014,FBS,Wyoming,New Mexico,RECEIVING,Dominic,Rufran,TD,0
+1665024,11/29/2014,FBS,Wyoming,New Mexico,RECEIVING,Dominic,Rufran,LONG,29
+1665025,11/29/2014,FBS,Wyoming,New Mexico,RECEIVING,Jacob,Hollister,REC,4
+1665026,11/29/2014,FBS,Wyoming,New Mexico,RECEIVING,Jacob,Hollister,YDS,75
+1665027,11/29/2014,FBS,Wyoming,New Mexico,RECEIVING,Jacob,Hollister,TD,1
+1665028,11/29/2014,FBS,Wyoming,New Mexico,RECEIVING,Jacob,Hollister,LONG,26
+1665029,11/29/2014,FBS,Wyoming,New Mexico,RECEIVING,Brian,Hill,REC,4
+1665030,11/29/2014,FBS,Wyoming,New Mexico,RECEIVING,Brian,Hill,YDS,57
+1665031,11/29/2014,FBS,Wyoming,New Mexico,RECEIVING,Brian,Hill,TD,0
+1665032,11/29/2014,FBS,Wyoming,New Mexico,RECEIVING,Brian,Hill,LONG,18
+1665033,11/29/2014,FBS,Wyoming,New Mexico,RECEIVING,Tanner,Gentry,REC,1
+1665034,11/29/2014,FBS,Wyoming,New Mexico,RECEIVING,Tanner,Gentry,YDS,44
+1665035,11/29/2014,FBS,Wyoming,New Mexico,RECEIVING,Tanner,Gentry,TD,0
+1665036,11/29/2014,FBS,Wyoming,New Mexico,RECEIVING,Tanner,Gentry,LONG,44
+1665037,11/29/2014,FBS,Wyoming,New Mexico,RECEIVING,Jalen,Claiborne,REC,2
+1665038,11/29/2014,FBS,Wyoming,New Mexico,RECEIVING,Jalen,Claiborne,YDS,42
+1665039,11/29/2014,FBS,Wyoming,New Mexico,RECEIVING,Jalen,Claiborne,TD,0
+1665040,11/29/2014,FBS,Wyoming,New Mexico,RECEIVING,Jalen,Claiborne,LONG,32
+1665041,11/29/2014,FBS,Wyoming,New Mexico,RECEIVING,Drew,VanMaanen,REC,1
+1665042,11/29/2014,FBS,Wyoming,New Mexico,RECEIVING,Drew,VanMaanen,YDS,23
+1665043,11/29/2014,FBS,Wyoming,New Mexico,RECEIVING,Drew,VanMaanen,TD,0
+1665044,11/29/2014,FBS,Wyoming,New Mexico,RECEIVING,Drew,VanMaanen,LONG,23
+1665045,11/29/2014,FBS,Wyoming,New Mexico,RECEIVING,Eric,Nzeocha,REC,2
+1665046,11/29/2014,FBS,Wyoming,New Mexico,RECEIVING,Eric,Nzeocha,YDS,22
+1665047,11/29/2014,FBS,Wyoming,New Mexico,RECEIVING,Eric,Nzeocha,TD,0
+1665048,11/29/2014,FBS,Wyoming,New Mexico,RECEIVING,Eric,Nzeocha,LONG,16
+1665049,11/29/2014,FBS,Wyoming,New Mexico,RECEIVING,Jake,Maulhardt,REC,2
+1665050,11/29/2014,FBS,Wyoming,New Mexico,RECEIVING,Jake,Maulhardt,YDS,21
+1665051,11/29/2014,FBS,Wyoming,New Mexico,RECEIVING,Jake,Maulhardt,TD,0
+1665052,11/29/2014,FBS,Wyoming,New Mexico,RECEIVING,Jake,Maulhardt,LONG,11
+1665053,11/29/2014,FBS,Wyoming,New Mexico,KICKING,Stuart,Williams,FG-FGA,3/4
+1665054,11/29/2014,FBS,Wyoming,New Mexico,KICKING,Stuart,Williams,LONG,49
+1665055,11/29/2014,FBS,Wyoming,New Mexico,KICKING,Stuart,Williams,XP,3
+1665056,11/29/2014,FBS,Wyoming,New Mexico,KICKING,Stuart,Williams,PTS,12
+1665057,11/29/2014,FBS,Wyoming,New Mexico,PUNTING,Ethan,Wood,NO,3
+1665058,11/29/2014,FBS,Wyoming,New Mexico,PUNTING,Ethan,Wood,YDS,117
+1665059,11/29/2014,FBS,Wyoming,New Mexico,PUNTING,Ethan,Wood,AVG,39.0
+1665060,11/29/2014,FBS,Wyoming,New Mexico,PUNTING,Ethan,Wood,LONG,47
+1665061,11/29/2014,FBS,Wyoming,New Mexico,PUNT RETURNS,Jalen,Claiborne,NO,1
+1665062,11/29/2014,FBS,Wyoming,New Mexico,PUNT RETURNS,Jalen,Claiborne,YDS,10
+1665063,11/29/2014,FBS,Wyoming,New Mexico,PUNT RETURNS,Jalen,Claiborne,AVG,10.0
+1665064,11/29/2014,FBS,Wyoming,New Mexico,PUNT RETURNS,Jalen,Claiborne,LONG,10
+1665065,11/29/2014,FBS,Wyoming,New Mexico,KICK RETURNS,Jalen,Claiborne,NO,3
+1665066,11/29/2014,FBS,Wyoming,New Mexico,KICK RETURNS,Jalen,Claiborne,YDS,59
+1665067,11/29/2014,FBS,Wyoming,New Mexico,KICK RETURNS,Jalen,Claiborne,AVG,19.7
+1665068,11/29/2014,FBS,Wyoming,New Mexico,KICK RETURNS,Jalen,Claiborne,LONG,24
+1665069,11/29/2014,FBS,New Mexico,Wyoming,RUSHING,Jhurell,Pressley,ATT,11
+1665070,11/29/2014,FBS,New Mexico,Wyoming,RUSHING,Jhurell,Pressley,YDS,101
+1665071,11/29/2014,FBS,New Mexico,Wyoming,RUSHING,Jhurell,Pressley,TD,1
+1665072,11/29/2014,FBS,New Mexico,Wyoming,RUSHING,Jhurell,Pressley,LONG,69
+1665073,11/29/2014,FBS,New Mexico,Wyoming,RUSHING,Lamar,Jordan,ATT,9
+1665074,11/29/2014,FBS,New Mexico,Wyoming,RUSHING,Lamar,Jordan,YDS,76
+1665075,11/29/2014,FBS,New Mexico,Wyoming,RUSHING,Lamar,Jordan,TD,0
+1665076,11/29/2014,FBS,New Mexico,Wyoming,RUSHING,Lamar,Jordan,LONG,53
+1665077,11/29/2014,FBS,New Mexico,Wyoming,RUSHING,Teriyon,Gipson,ATT,9
+1665078,11/29/2014,FBS,New Mexico,Wyoming,RUSHING,Teriyon,Gipson,YDS,50
+1665079,11/29/2014,FBS,New Mexico,Wyoming,RUSHING,Teriyon,Gipson,TD,0
+1665080,11/29/2014,FBS,New Mexico,Wyoming,RUSHING,Teriyon,Gipson,LONG,16
+1665081,11/29/2014,FBS,New Mexico,Wyoming,RUSHING,Romell,Jordan,ATT,2
+1665082,11/29/2014,FBS,New Mexico,Wyoming,RUSHING,Romell,Jordan,YDS,17
+1665083,11/29/2014,FBS,New Mexico,Wyoming,RUSHING,Romell,Jordan,TD,1
+1665084,11/29/2014,FBS,New Mexico,Wyoming,RUSHING,Romell,Jordan,LONG,15
+1665085,11/29/2014,FBS,New Mexico,Wyoming,RUSHING,,Team,ATT,1
+1665086,11/29/2014,FBS,New Mexico,Wyoming,RUSHING,,Team,YDS,-3
+1665087,11/29/2014,FBS,New Mexico,Wyoming,RUSHING,,Team,TD,0
+1665088,11/29/2014,FBS,New Mexico,Wyoming,RUSHING,,Team,LONG,-3
+1665089,11/29/2014,FBS,New Mexico,Wyoming,PASSING,Lamar,Jordan,CP-ATT-INT,6-7-1
+1665090,11/29/2014,FBS,New Mexico,Wyoming,PASSING,Lamar,Jordan,YDS,141
+1665091,11/29/2014,FBS,New Mexico,Wyoming,PASSING,Lamar,Jordan,TD,1
+1665092,11/29/2014,FBS,New Mexico,Wyoming,PASSING,Lamar,Jordan,LONG,75
+1665093,11/29/2014,FBS,New Mexico,Wyoming,RECEIVING,Tyler,Duncan,REC,1
+1665094,11/29/2014,FBS,New Mexico,Wyoming,RECEIVING,Tyler,Duncan,YDS,75
+1665095,11/29/2014,FBS,New Mexico,Wyoming,RECEIVING,Tyler,Duncan,TD,1
+1665096,11/29/2014,FBS,New Mexico,Wyoming,RECEIVING,Tyler,Duncan,LONG,75
+1665097,11/29/2014,FBS,New Mexico,Wyoming,RECEIVING,Jeric,Magnant,REC,1
+1665098,11/29/2014,FBS,New Mexico,Wyoming,RECEIVING,Jeric,Magnant,YDS,40
+1665099,11/29/2014,FBS,New Mexico,Wyoming,RECEIVING,Jeric,Magnant,TD,0
+1665100,11/29/2014,FBS,New Mexico,Wyoming,RECEIVING,Jeric,Magnant,LONG,40
+1665101,11/29/2014,FBS,New Mexico,Wyoming,RECEIVING,Jhurell,Pressley,REC,2
+1665102,11/29/2014,FBS,New Mexico,Wyoming,RECEIVING,Jhurell,Pressley,YDS,13
+1665103,11/29/2014,FBS,New Mexico,Wyoming,RECEIVING,Jhurell,Pressley,TD,0
+1665104,11/29/2014,FBS,New Mexico,Wyoming,RECEIVING,Jhurell,Pressley,LONG,13
+1665105,11/29/2014,FBS,New Mexico,Wyoming,RECEIVING,Teriyon,Gipson,REC,1
+1665106,11/29/2014,FBS,New Mexico,Wyoming,RECEIVING,Teriyon,Gipson,YDS,7
+1665107,11/29/2014,FBS,New Mexico,Wyoming,RECEIVING,Teriyon,Gipson,TD,0
+1665108,11/29/2014,FBS,New Mexico,Wyoming,RECEIVING,Teriyon,Gipson,LONG,7
+1665109,11/29/2014,FBS,New Mexico,Wyoming,RECEIVING,Reece,White,REC,1
+1665110,11/29/2014,FBS,New Mexico,Wyoming,RECEIVING,Reece,White,YDS,6
+1665111,11/29/2014,FBS,New Mexico,Wyoming,RECEIVING,Reece,White,TD,0
+1665112,11/29/2014,FBS,New Mexico,Wyoming,RECEIVING,Reece,White,LONG,6
+1665113,11/29/2014,FBS,New Mexico,Wyoming,KICKING,Zack,Rogers,FG-FGA,0/1
+1665114,11/29/2014,FBS,New Mexico,Wyoming,KICKING,Zack,Rogers,LONG,0
+1665115,11/29/2014,FBS,New Mexico,Wyoming,KICKING,Zack,Rogers,XP,4
+1665116,11/29/2014,FBS,New Mexico,Wyoming,KICKING,Zack,Rogers,PTS,4
+1665117,11/29/2014,FBS,New Mexico,Wyoming,PUNTING,Zack,Rogers,NO,3
+1665118,11/29/2014,FBS,New Mexico,Wyoming,PUNTING,Zack,Rogers,YDS,138
+1665119,11/29/2014,FBS,New Mexico,Wyoming,PUNTING,Zack,Rogers,AVG,46.0
+1665120,11/29/2014,FBS,New Mexico,Wyoming,PUNTING,Zack,Rogers,LONG,65
+1665121,11/29/2014,FBS,New Mexico,Wyoming,KICK RETURNS,Carlos,Wiggins,NO,2
+1665122,11/29/2014,FBS,New Mexico,Wyoming,KICK RETURNS,Carlos,Wiggins,YDS,123
+1665123,11/29/2014,FBS,New Mexico,Wyoming,KICK RETURNS,Carlos,Wiggins,AVG,61.5
+1665124,11/29/2014,FBS,New Mexico,Wyoming,KICK RETURNS,Carlos,Wiggins,LONG,97
+1665125,11/29/2014,FBS,New Mexico,Wyoming,KICK RETURNS,David,Anaya,NO,1
+1665126,11/29/2014,FBS,New Mexico,Wyoming,KICK RETURNS,David,Anaya,YDS,18
+1665127,11/29/2014,FBS,New Mexico,Wyoming,KICK RETURNS,David,Anaya,AVG,18.0
+1665128,11/29/2014,FBS,New Mexico,Wyoming,KICK RETURNS,David,Anaya,LONG,18
+1665129,11/29/2014,FBS,New Mexico,Wyoming,KICK RETURNS,Reece,White,NO,1
+1665130,11/29/2014,FBS,New Mexico,Wyoming,KICK RETURNS,Reece,White,YDS,18
+1665131,11/29/2014,FBS,New Mexico,Wyoming,KICK RETURNS,Reece,White,AVG,18.0
+1665132,11/29/2014,FBS,New Mexico,Wyoming,KICK RETURNS,Reece,White,LONG,18
+1665133,11/29/2014,FBS,New Mexico,Wyoming,KICK RETURNS,Randy,Williams,NO,1
+1665134,11/29/2014,FBS,New Mexico,Wyoming,KICK RETURNS,Randy,Williams,YDS,10
+1665135,11/29/2014,FBS,New Mexico,Wyoming,KICK RETURNS,Randy,Williams,AVG,10.0
+1665136,11/29/2014,FBS,New Mexico,Wyoming,KICK RETURNS,Randy,Williams,LONG,10

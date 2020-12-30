@@ -4,9 +4,7 @@ Code to scrape all divisions of NCAA football box scores from www.ncaa.com, begi
 
 ## To Do
 
-1. Edit errorLinks
-2. commit scrapeBox.py
-3. clean data to ROUTE SQL standards
+1. clean data to ROUTE SQL standards
 
 ## Functionality
 

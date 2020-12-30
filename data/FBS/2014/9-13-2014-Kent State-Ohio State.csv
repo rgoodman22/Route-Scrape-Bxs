@@ -1,0 +1,177 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1085001,9/13/2014,FBS,Kent State,Ohio State,RUSHING,Nick,Holley,ATT,6
+1085002,9/13/2014,FBS,Kent State,Ohio State,RUSHING,Nick,Holley,YDS,34
+1085003,9/13/2014,FBS,Kent State,Ohio State,RUSHING,Nick,Holley,TD,0
+1085004,9/13/2014,FBS,Kent State,Ohio State,RUSHING,Nick,Holley,LONG,20
+1085005,9/13/2014,FBS,Kent State,Ohio State,RUSHING,Anthony,Meray,ATT,6
+1085006,9/13/2014,FBS,Kent State,Ohio State,RUSHING,Anthony,Meray,YDS,13
+1085007,9/13/2014,FBS,Kent State,Ohio State,RUSHING,Anthony,Meray,TD,0
+1085008,9/13/2014,FBS,Kent State,Ohio State,RUSHING,Anthony,Meray,LONG,5
+1085009,9/13/2014,FBS,Kent State,Ohio State,RUSHING,Miles,Hibbler,ATT,3
+1085010,9/13/2014,FBS,Kent State,Ohio State,RUSHING,Miles,Hibbler,YDS,5
+1085011,9/13/2014,FBS,Kent State,Ohio State,RUSHING,Miles,Hibbler,TD,0
+1085012,9/13/2014,FBS,Kent State,Ohio State,RUSHING,Miles,Hibbler,LONG,5
+1085013,9/13/2014,FBS,Kent State,Ohio State,RUSHING,Colin,Reardon,ATT,5
+1085014,9/13/2014,FBS,Kent State,Ohio State,RUSHING,Colin,Reardon,YDS,2
+1085015,9/13/2014,FBS,Kent State,Ohio State,RUSHING,Colin,Reardon,TD,0
+1085016,9/13/2014,FBS,Kent State,Ohio State,RUSHING,Colin,Reardon,LONG,7
+1085017,9/13/2014,FBS,Kent State,Ohio State,RUSHING,Nathan,Strock,ATT,3
+1085018,9/13/2014,FBS,Kent State,Ohio State,RUSHING,Nathan,Strock,YDS,-7
+1085019,9/13/2014,FBS,Kent State,Ohio State,RUSHING,Nathan,Strock,TD,0
+1085020,9/13/2014,FBS,Kent State,Ohio State,RUSHING,Nathan,Strock,LONG,3
+1085021,9/13/2014,FBS,Kent State,Ohio State,PASSING,Colin,Reardon,CP-ATT-INT,14-27-3
+1085022,9/13/2014,FBS,Kent State,Ohio State,PASSING,Colin,Reardon,YDS,76
+1085023,9/13/2014,FBS,Kent State,Ohio State,PASSING,Colin,Reardon,TD,0
+1085024,9/13/2014,FBS,Kent State,Ohio State,PASSING,Colin,Reardon,LONG,12
+1085025,9/13/2014,FBS,Kent State,Ohio State,PASSING,Nathan,Strock,CP-ATT-INT,1-7-0
+1085026,9/13/2014,FBS,Kent State,Ohio State,PASSING,Nathan,Strock,YDS,3
+1085027,9/13/2014,FBS,Kent State,Ohio State,PASSING,Nathan,Strock,TD,0
+1085028,9/13/2014,FBS,Kent State,Ohio State,PASSING,Nathan,Strock,LONG,3
+1085029,9/13/2014,FBS,Kent State,Ohio State,RECEIVING,Nick,Holley,REC,6
+1085030,9/13/2014,FBS,Kent State,Ohio State,RECEIVING,Nick,Holley,YDS,37
+1085031,9/13/2014,FBS,Kent State,Ohio State,RECEIVING,Nick,Holley,TD,0
+1085032,9/13/2014,FBS,Kent State,Ohio State,RECEIVING,Nick,Holley,LONG,12
+1085033,9/13/2014,FBS,Kent State,Ohio State,RECEIVING,Casey,Pierce,REC,3
+1085034,9/13/2014,FBS,Kent State,Ohio State,RECEIVING,Casey,Pierce,YDS,22
+1085035,9/13/2014,FBS,Kent State,Ohio State,RECEIVING,Casey,Pierce,TD,0
+1085036,9/13/2014,FBS,Kent State,Ohio State,RECEIVING,Casey,Pierce,LONG,11
+1085037,9/13/2014,FBS,Kent State,Ohio State,RECEIVING,Ernest,Calhoun,REC,1
+1085038,9/13/2014,FBS,Kent State,Ohio State,RECEIVING,Ernest,Calhoun,YDS,9
+1085039,9/13/2014,FBS,Kent State,Ohio State,RECEIVING,Ernest,Calhoun,TD,0
+1085040,9/13/2014,FBS,Kent State,Ohio State,RECEIVING,Ernest,Calhoun,LONG,9
+1085041,9/13/2014,FBS,Kent State,Ohio State,RECEIVING,Josh,Boyle,REC,3
+1085042,9/13/2014,FBS,Kent State,Ohio State,RECEIVING,Josh,Boyle,YDS,5
+1085043,9/13/2014,FBS,Kent State,Ohio State,RECEIVING,Josh,Boyle,TD,0
+1085044,9/13/2014,FBS,Kent State,Ohio State,RECEIVING,Josh,Boyle,LONG,5
+1085045,9/13/2014,FBS,Kent State,Ohio State,RECEIVING,Anthony,Meray,REC,1
+1085046,9/13/2014,FBS,Kent State,Ohio State,RECEIVING,Anthony,Meray,YDS,3
+1085047,9/13/2014,FBS,Kent State,Ohio State,RECEIVING,Anthony,Meray,TD,0
+1085048,9/13/2014,FBS,Kent State,Ohio State,RECEIVING,Anthony,Meray,LONG,3
+1085049,9/13/2014,FBS,Kent State,Ohio State,RECEIVING,William,Woods,REC,1
+1085050,9/13/2014,FBS,Kent State,Ohio State,RECEIVING,William,Woods,YDS,3
+1085051,9/13/2014,FBS,Kent State,Ohio State,RECEIVING,William,Woods,TD,0
+1085052,9/13/2014,FBS,Kent State,Ohio State,RECEIVING,William,Woods,LONG,3
+1085053,9/13/2014,FBS,Kent State,Ohio State,PUNTING,Anthony,Melchiori,NO,10
+1085054,9/13/2014,FBS,Kent State,Ohio State,PUNTING,Anthony,Melchiori,YDS,478
+1085055,9/13/2014,FBS,Kent State,Ohio State,PUNTING,Anthony,Melchiori,AVG,43.5
+1085056,9/13/2014,FBS,Kent State,Ohio State,PUNTING,Anthony,Melchiori,LONG,57
+1085057,9/13/2014,FBS,Kent State,Ohio State,KICK RETURNS,Ernest,Calhoun,NO,9
+1085058,9/13/2014,FBS,Kent State,Ohio State,KICK RETURNS,Ernest,Calhoun,YDS,169
+1085059,9/13/2014,FBS,Kent State,Ohio State,KICK RETURNS,Ernest,Calhoun,AVG,18.8
+1085060,9/13/2014,FBS,Kent State,Ohio State,KICK RETURNS,Ernest,Calhoun,LONG,25
+1085061,9/13/2014,FBS,Ohio State,Kent State,RUSHING,Curtis,Samuel,ATT,15
+1085062,9/13/2014,FBS,Ohio State,Kent State,RUSHING,Curtis,Samuel,YDS,100
+1085063,9/13/2014,FBS,Ohio State,Kent State,RUSHING,Curtis,Samuel,TD,2
+1085064,9/13/2014,FBS,Ohio State,Kent State,RUSHING,Curtis,Samuel,LONG,26
+1085065,9/13/2014,FBS,Ohio State,Kent State,RUSHING,Ezekiel,Elliott,ATT,7
+1085066,9/13/2014,FBS,Ohio State,Kent State,RUSHING,Ezekiel,Elliott,YDS,65
+1085067,9/13/2014,FBS,Ohio State,Kent State,RUSHING,Ezekiel,Elliott,TD,0
+1085068,9/13/2014,FBS,Ohio State,Kent State,RUSHING,Ezekiel,Elliott,LONG,16
+1085069,9/13/2014,FBS,Ohio State,Kent State,RUSHING,Warren,Ball,ATT,10
+1085070,9/13/2014,FBS,Ohio State,Kent State,RUSHING,Warren,Ball,YDS,41
+1085071,9/13/2014,FBS,Ohio State,Kent State,RUSHING,Warren,Ball,TD,0
+1085072,9/13/2014,FBS,Ohio State,Kent State,RUSHING,Warren,Ball,LONG,12
+1085073,9/13/2014,FBS,Ohio State,Kent State,RUSHING,Cardale,Jones,ATT,4
+1085074,9/13/2014,FBS,Ohio State,Kent State,RUSHING,Cardale,Jones,YDS,37
+1085075,9/13/2014,FBS,Ohio State,Kent State,RUSHING,Cardale,Jones,TD,0
+1085076,9/13/2014,FBS,Ohio State,Kent State,RUSHING,Cardale,Jones,LONG,12
+1085077,9/13/2014,FBS,Ohio State,Kent State,RUSHING,Johnnie,Dixon,ATT,4
+1085078,9/13/2014,FBS,Ohio State,Kent State,RUSHING,Johnnie,Dixon,YDS,20
+1085079,9/13/2014,FBS,Ohio State,Kent State,RUSHING,Johnnie,Dixon,TD,0
+1085080,9/13/2014,FBS,Ohio State,Kent State,RUSHING,Johnnie,Dixon,LONG,9
+1085081,9/13/2014,FBS,Ohio State,Kent State,RUSHING,Bri'onte,Dunn,ATT,2
+1085082,9/13/2014,FBS,Ohio State,Kent State,RUSHING,Bri'onte,Dunn,YDS,9
+1085083,9/13/2014,FBS,Ohio State,Kent State,RUSHING,Bri'onte,Dunn,TD,0
+1085084,9/13/2014,FBS,Ohio State,Kent State,RUSHING,Bri'onte,Dunn,LONG,6
+1085085,9/13/2014,FBS,Ohio State,Kent State,RUSHING,J.T.,Barrett,ATT,8
+1085086,9/13/2014,FBS,Ohio State,Kent State,RUSHING,J.T.,Barrett,YDS,6
+1085087,9/13/2014,FBS,Ohio State,Kent State,RUSHING,J.T.,Barrett,TD,0
+1085088,9/13/2014,FBS,Ohio State,Kent State,RUSHING,J.T.,Barrett,LONG,8
+1085089,9/13/2014,FBS,Ohio State,Kent State,RUSHING,Rod,Smith,ATT,2
+1085090,9/13/2014,FBS,Ohio State,Kent State,RUSHING,Rod,Smith,YDS,4
+1085091,9/13/2014,FBS,Ohio State,Kent State,RUSHING,Rod,Smith,TD,1
+1085092,9/13/2014,FBS,Ohio State,Kent State,RUSHING,Rod,Smith,LONG,3
+1085093,9/13/2014,FBS,Ohio State,Kent State,RUSHING,Jeffie,Johnson,ATT,1
+1085094,9/13/2014,FBS,Ohio State,Kent State,RUSHING,Jeffie,Johnson,YDS,2
+1085095,9/13/2014,FBS,Ohio State,Kent State,RUSHING,Jeffie,Johnson,TD,0
+1085096,9/13/2014,FBS,Ohio State,Kent State,RUSHING,Jeffie,Johnson,LONG,2
+1085097,9/13/2014,FBS,Ohio State,Kent State,PASSING,J.T.,Barrett,CP-ATT-INT,23-30-1
+1085098,9/13/2014,FBS,Ohio State,Kent State,PASSING,J.T.,Barrett,YDS,312
+1085099,9/13/2014,FBS,Ohio State,Kent State,PASSING,J.T.,Barrett,TD,6
+1085100,9/13/2014,FBS,Ohio State,Kent State,PASSING,J.T.,Barrett,LONG,63
+1085101,9/13/2014,FBS,Ohio State,Kent State,PASSING,Cardale,Jones,CP-ATT-INT,2-4-0
+1085102,9/13/2014,FBS,Ohio State,Kent State,PASSING,Cardale,Jones,YDS,32
+1085103,9/13/2014,FBS,Ohio State,Kent State,PASSING,Cardale,Jones,TD,0
+1085104,9/13/2014,FBS,Ohio State,Kent State,PASSING,Cardale,Jones,LONG,30
+1085105,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Michael,Thomas,REC,2
+1085106,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Michael,Thomas,YDS,77
+1085107,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Michael,Thomas,TD,2
+1085108,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Michael,Thomas,LONG,63
+1085109,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Devin,Smith,REC,2
+1085110,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Devin,Smith,YDS,59
+1085111,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Devin,Smith,TD,1
+1085112,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Devin,Smith,LONG,50
+1085113,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Ezekiel,Elliott,REC,4
+1085114,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Ezekiel,Elliott,YDS,52
+1085115,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Ezekiel,Elliott,TD,0
+1085116,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Ezekiel,Elliott,LONG,22
+1085117,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Nick,Vannett,REC,4
+1085118,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Nick,Vannett,YDS,40
+1085119,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Nick,Vannett,TD,0
+1085120,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Nick,Vannett,LONG,14
+1085121,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Curtis,Samuel,REC,4
+1085122,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Curtis,Samuel,YDS,40
+1085123,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Curtis,Samuel,TD,0
+1085124,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Curtis,Samuel,LONG,30
+1085125,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Corey,Smith,REC,2
+1085126,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Corey,Smith,YDS,22
+1085127,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Corey,Smith,TD,0
+1085128,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Corey,Smith,LONG,12
+1085129,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Dontre,Wilson,REC,2
+1085130,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Dontre,Wilson,YDS,22
+1085131,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Dontre,Wilson,TD,0
+1085132,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Dontre,Wilson,LONG,14
+1085133,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Evan,Spencer,REC,1
+1085134,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Evan,Spencer,YDS,12
+1085135,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Evan,Spencer,TD,0
+1085136,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Evan,Spencer,LONG,12
+1085137,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Jalin,Marshall,REC,2
+1085138,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Jalin,Marshall,YDS,10
+1085139,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Jalin,Marshall,TD,1
+1085140,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Jalin,Marshall,LONG,7
+1085141,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Rod,Smith,REC,1
+1085142,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Rod,Smith,YDS,8
+1085143,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Rod,Smith,TD,1
+1085144,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Rod,Smith,LONG,8
+1085145,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Marcus,Baugh,REC,1
+1085146,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Marcus,Baugh,YDS,2
+1085147,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Marcus,Baugh,TD,1
+1085148,9/13/2014,FBS,Ohio State,Kent State,RECEIVING,Marcus,Baugh,LONG,2
+1085149,9/13/2014,FBS,Ohio State,Kent State,KICKING,Sean,Nuernberger,FG-FGA,1/1
+1085150,9/13/2014,FBS,Ohio State,Kent State,KICKING,Sean,Nuernberger,LONG,41
+1085151,9/13/2014,FBS,Ohio State,Kent State,KICKING,Sean,Nuernberger,XP,9
+1085152,9/13/2014,FBS,Ohio State,Kent State,KICKING,Sean,Nuernberger,PTS,12
+1085153,9/13/2014,FBS,Ohio State,Kent State,PUNTING,Cameron,Johnston,NO,1
+1085154,9/13/2014,FBS,Ohio State,Kent State,PUNTING,Cameron,Johnston,YDS,28
+1085155,9/13/2014,FBS,Ohio State,Kent State,PUNTING,Cameron,Johnston,AVG,28.0
+1085156,9/13/2014,FBS,Ohio State,Kent State,PUNTING,Cameron,Johnston,LONG,28
+1085157,9/13/2014,FBS,Ohio State,Kent State,PUNT RETURNS,Jalin,Marshall,NO,2
+1085158,9/13/2014,FBS,Ohio State,Kent State,PUNT RETURNS,Jalin,Marshall,YDS,66
+1085159,9/13/2014,FBS,Ohio State,Kent State,PUNT RETURNS,Jalin,Marshall,AVG,33.0
+1085160,9/13/2014,FBS,Ohio State,Kent State,PUNT RETURNS,Jalin,Marshall,LONG,51
+1085161,9/13/2014,FBS,Ohio State,Kent State,PUNT RETURNS,Dontre,Wilson,NO,4
+1085162,9/13/2014,FBS,Ohio State,Kent State,PUNT RETURNS,Dontre,Wilson,YDS,44
+1085163,9/13/2014,FBS,Ohio State,Kent State,PUNT RETURNS,Dontre,Wilson,AVG,11.0
+1085164,9/13/2014,FBS,Ohio State,Kent State,PUNT RETURNS,Dontre,Wilson,LONG,22
+1085165,9/13/2014,FBS,Ohio State,Kent State,PUNT RETURNS,Ron,Tanner,NO,0
+1085166,9/13/2014,FBS,Ohio State,Kent State,PUNT RETURNS,Ron,Tanner,YDS,22
+1085167,9/13/2014,FBS,Ohio State,Kent State,PUNT RETURNS,Ron,Tanner,AVG,-
+1085168,9/13/2014,FBS,Ohio State,Kent State,PUNT RETURNS,Ron,Tanner,LONG,0
+1085169,9/13/2014,FBS,Ohio State,Kent State,PUNT RETURNS,Jeff,Greene,NO,1
+1085170,9/13/2014,FBS,Ohio State,Kent State,PUNT RETURNS,Jeff,Greene,YDS,10
+1085171,9/13/2014,FBS,Ohio State,Kent State,PUNT RETURNS,Jeff,Greene,AVG,10.0
+1085172,9/13/2014,FBS,Ohio State,Kent State,PUNT RETURNS,Jeff,Greene,LONG,0
+1085173,9/13/2014,FBS,Ohio State,Kent State,KICK RETURNS,Dontre,Wilson,NO,1
+1085174,9/13/2014,FBS,Ohio State,Kent State,KICK RETURNS,Dontre,Wilson,YDS,38
+1085175,9/13/2014,FBS,Ohio State,Kent State,KICK RETURNS,Dontre,Wilson,AVG,38.0
+1085176,9/13/2014,FBS,Ohio State,Kent State,KICK RETURNS,Dontre,Wilson,LONG,38
