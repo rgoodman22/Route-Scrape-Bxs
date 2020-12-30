@@ -26,7 +26,7 @@ class main:
                 else:
                     last = cur
                     for link in cur:
-                        scrapeBox(link, driver, ID)
+                        scrapeBox(link, driver, div, ID)
                         ID += 1000
                     m.toHome()
                     gameLinks.append(cur)

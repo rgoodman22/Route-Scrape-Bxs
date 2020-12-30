@@ -30,14 +30,17 @@ def parseDate(date):
     return month + "/" + day + "/" + year
 
 class scrapeBox:
-    def __init__(self, url, driver, ID):
-        self.ID = ID+1
-        self.data = {}
+    def __init__(self, url, driver, div, ID):
         self.driver = driver
         self.url = url
+        self.div = div
         self.moveToBox()
         self.getTeams()
-        # self.getDetails()
+        self.getDetails()
+
+        self.fields = ['ID','date','division','team','opponent','statCategory','firstName','lastName','statistic','value']
+        self.data = []
+        self.ID = ID+1
         self.parseBox(0)
         self.switchTeam()
         self.parseBox(1)
@@ -60,27 +63,38 @@ class scrapeBox:
     
     
     def parseBox(self, team):
+
         if team == 0:
             cur, opp = self.teams
         else:
             opp, cur = self.teams
+
+        def parseTable(webElement):
+            category = webElement.find_element_by_xpath(".//th[@class='tableHeadCollegeName']").text
+            attributeElements = webElement.find_elements_by_xpath(".//thead/tr/*")[1:]
+            attributes = []
+            for a in attributeElements:
+                attributes.append(a.text)
+            dataRows = webElement.find_elements_by_xpath(".//tr")[:-1]
+            
+            for row in dataRows[1:]:
+                dataPoints = row.find_elements_by_xpath(".//*")
+                player = dataPoints[0].text.split(' ')
+                for i in range(1, len(dataPoints)):
+                    line = [self.ID, self.date, self.div, cur, opp, category, player[0], ''.join(player[1:]), attributes[i-1], dataPoints[i].text]
+                    self.data.append(line)
+                    self.ID += 1
+        
         myXpath = "//div[@class='boxscore-table-collection']"
         tables = self.driver.find_element_by_xpath(myXpath)
         tables = tables.find_elements_by_xpath("//div[@class='boxscore-table-collection']")[0]
         tables = tables.find_elements_by_xpath(".//table")
         for table in tables:
-            self.parseTable(table)
+            parseTable(table)
 
-    def parseTable(self, webElement):
-        category = webElement.find_element_by_xpath(".//th[@class='tableHeadCollegeName']").text
-        attributeElements = webElement.find_elements_by_xpath(".//thead/tr/*")[1:]
-        attributes = []
-        for a in attributeElements:
-            attributes.append(a.text)
-        print(category)
-        print(attributes)
-        
-            
+    
+
+
     def getTeams(self):
         self.teams = []
         myXpath = "//div[@class='boxscore-team-selector-team awayTeam-bg-primary_color homeTeam-border-primary_color away active']"
@@ -100,6 +114,6 @@ class scrapeBox:
 url = 'https://www.ncaa.com/game/3959666/boxscore'
 #url = 'https://www.ncaa.com/game/football/d3/2013/09/07/alma-heidelberg/'
 
-scrapeBox(url, driver, 0)
+#scrapeBox(url, driver, 0, 0)
 
         
