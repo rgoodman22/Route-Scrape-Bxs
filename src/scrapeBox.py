@@ -1,7 +1,7 @@
 import time
 import csv
-from selenium import webdriver
-from selenium.common.exceptions import NoSuchElementException 
+# from selenium import webdriver
+# from selenium.common.exceptions import NoSuchElementException 
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -33,7 +33,7 @@ def parseDate(date):
 
 class scrapeBox:
     def __init__(self, url, driver, div, ID):
-        self.driver = webdriver.Chrome(driver)
+        self.driver = driver
         self.url = url
         self.div = div
         self.moveToBox()
@@ -48,8 +48,7 @@ class scrapeBox:
             self.switchTeam()
             self.parseBox(1)
             self.write()
-            self.driver.close()
-        
+                    
     def check404(self):
         errors = self.driver.find_elements_by_class_name("error-page error-404")
         print(errors)

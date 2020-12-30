@@ -1,16 +1,19 @@
+from selenium import webdriver
 from menuSelect import menuSelect
 from constants import constants
 import time
 from scrapeBox import scrapeBox
-from chromeSync import driver
+from chromeSync import driverInstall
 
 dates = constants.dates
 divs = constants.divDict
+menuDriver = webdriver.Chrome(driverInstall)
+gameDriver = webdriver.Chrome(driverInstall)
 class main:
-    def __init__(self, driver):
+    def __init__(self):
         ID = 1000
         gameLinks = []
-        m = menuSelect(driver)
+        m = menuSelect(menuDriver)
         for div in divs:
             m.selectDivision(div)
             last = None
@@ -26,12 +29,12 @@ class main:
                 else:
                     last = cur
                     for link in cur:
-                        scrapeBox(link, driver, div, ID)
+                        scrapeBox(link, gameDriver, div, ID)
                         ID += 1000
                     #gameLinks.append(cur)
 
 
-main(driver)
+main()
 
                 
 
