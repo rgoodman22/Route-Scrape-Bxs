@@ -1,0 +1,129 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+501001,12/7/2013,FBS,Ohio State,Michigan State,RUSHING,Braxton,Miller,ATT,21
+501002,12/7/2013,FBS,Ohio State,Michigan State,RUSHING,Braxton,Miller,YDS,142
+501003,12/7/2013,FBS,Ohio State,Michigan State,RUSHING,Braxton,Miller,TD,2
+501004,12/7/2013,FBS,Ohio State,Michigan State,RUSHING,Braxton,Miller,LONG,48
+501005,12/7/2013,FBS,Ohio State,Michigan State,RUSHING,Carlos,Hyde,ATT,18
+501006,12/7/2013,FBS,Ohio State,Michigan State,RUSHING,Carlos,Hyde,YDS,118
+501007,12/7/2013,FBS,Ohio State,Michigan State,RUSHING,Carlos,Hyde,TD,0
+501008,12/7/2013,FBS,Ohio State,Michigan State,RUSHING,Carlos,Hyde,LONG,18
+501009,12/7/2013,FBS,Ohio State,Michigan State,RUSHING,Jordan,Hall,ATT,1
+501010,12/7/2013,FBS,Ohio State,Michigan State,RUSHING,Jordan,Hall,YDS,13
+501011,12/7/2013,FBS,Ohio State,Michigan State,RUSHING,Jordan,Hall,TD,0
+501012,12/7/2013,FBS,Ohio State,Michigan State,RUSHING,Jordan,Hall,LONG,13
+501013,12/7/2013,FBS,Ohio State,Michigan State,PASSING,Braxton,Miller,CP-ATT-INT,8-21-0
+501014,12/7/2013,FBS,Ohio State,Michigan State,PASSING,Braxton,Miller,YDS,101
+501015,12/7/2013,FBS,Ohio State,Michigan State,PASSING,Braxton,Miller,TD,1
+501016,12/7/2013,FBS,Ohio State,Michigan State,PASSING,Braxton,Miller,LONG,36
+501017,12/7/2013,FBS,Ohio State,Michigan State,PASSING,,Team,CP-ATT-INT,0-2-0
+501018,12/7/2013,FBS,Ohio State,Michigan State,PASSING,,Team,YDS,0
+501019,12/7/2013,FBS,Ohio State,Michigan State,PASSING,,Team,TD,0
+501020,12/7/2013,FBS,Ohio State,Michigan State,PASSING,,Team,LONG,0
+501021,12/7/2013,FBS,Ohio State,Michigan State,RECEIVING,Corey,(Philly)Brown,REC,5
+501022,12/7/2013,FBS,Ohio State,Michigan State,RECEIVING,Corey,(Philly)Brown,YDS,53
+501023,12/7/2013,FBS,Ohio State,Michigan State,RECEIVING,Corey,(Philly)Brown,TD,1
+501024,12/7/2013,FBS,Ohio State,Michigan State,RECEIVING,Corey,(Philly)Brown,LONG,20
+501025,12/7/2013,FBS,Ohio State,Michigan State,RECEIVING,Jeff,Heuerman,REC,1
+501026,12/7/2013,FBS,Ohio State,Michigan State,RECEIVING,Jeff,Heuerman,YDS,36
+501027,12/7/2013,FBS,Ohio State,Michigan State,RECEIVING,Jeff,Heuerman,TD,0
+501028,12/7/2013,FBS,Ohio State,Michigan State,RECEIVING,Jeff,Heuerman,LONG,36
+501029,12/7/2013,FBS,Ohio State,Michigan State,RECEIVING,Devin,Smith,REC,1
+501030,12/7/2013,FBS,Ohio State,Michigan State,RECEIVING,Devin,Smith,YDS,11
+501031,12/7/2013,FBS,Ohio State,Michigan State,RECEIVING,Devin,Smith,TD,0
+501032,12/7/2013,FBS,Ohio State,Michigan State,RECEIVING,Devin,Smith,LONG,11
+501033,12/7/2013,FBS,Ohio State,Michigan State,RECEIVING,Carlos,Hyde,REC,1
+501034,12/7/2013,FBS,Ohio State,Michigan State,RECEIVING,Carlos,Hyde,YDS,1
+501035,12/7/2013,FBS,Ohio State,Michigan State,RECEIVING,Carlos,Hyde,TD,0
+501036,12/7/2013,FBS,Ohio State,Michigan State,RECEIVING,Carlos,Hyde,LONG,1
+501037,12/7/2013,FBS,Ohio State,Michigan State,KICKING,Drew,Basil,FG-FGA,1/1
+501038,12/7/2013,FBS,Ohio State,Michigan State,KICKING,Drew,Basil,LONG,28
+501039,12/7/2013,FBS,Ohio State,Michigan State,KICKING,Drew,Basil,XP,3
+501040,12/7/2013,FBS,Ohio State,Michigan State,KICKING,Drew,Basil,PTS,6
+501041,12/7/2013,FBS,Ohio State,Michigan State,PUNTING,Cameron,Johnston,NO,7
+501042,12/7/2013,FBS,Ohio State,Michigan State,PUNTING,Cameron,Johnston,YDS,302
+501043,12/7/2013,FBS,Ohio State,Michigan State,PUNTING,Cameron,Johnston,AVG,43.1
+501044,12/7/2013,FBS,Ohio State,Michigan State,PUNTING,Cameron,Johnston,LONG,49
+501045,12/7/2013,FBS,Ohio State,Michigan State,PUNT RETURNS,Corey,(Philly)Brown,NO,2
+501046,12/7/2013,FBS,Ohio State,Michigan State,PUNT RETURNS,Corey,(Philly)Brown,YDS,22
+501047,12/7/2013,FBS,Ohio State,Michigan State,PUNT RETURNS,Corey,(Philly)Brown,AVG,11.0
+501048,12/7/2013,FBS,Ohio State,Michigan State,PUNT RETURNS,Corey,(Philly)Brown,LONG,11
+501049,12/7/2013,FBS,Ohio State,Michigan State,KICK RETURNS,Dontre,Wilson,NO,3
+501050,12/7/2013,FBS,Ohio State,Michigan State,KICK RETURNS,Dontre,Wilson,YDS,70
+501051,12/7/2013,FBS,Ohio State,Michigan State,KICK RETURNS,Dontre,Wilson,AVG,23.3
+501052,12/7/2013,FBS,Ohio State,Michigan State,KICK RETURNS,Dontre,Wilson,LONG,34
+501053,12/7/2013,FBS,Michigan State,Ohio State,RUSHING,Jeremy,Langford,ATT,24
+501054,12/7/2013,FBS,Michigan State,Ohio State,RUSHING,Jeremy,Langford,YDS,128
+501055,12/7/2013,FBS,Michigan State,Ohio State,RUSHING,Jeremy,Langford,TD,1
+501056,12/7/2013,FBS,Michigan State,Ohio State,RUSHING,Jeremy,Langford,LONG,34
+501057,12/7/2013,FBS,Michigan State,Ohio State,RUSHING,R.J.,Shelton,ATT,2
+501058,12/7/2013,FBS,Michigan State,Ohio State,RUSHING,R.J.,Shelton,YDS,8
+501059,12/7/2013,FBS,Michigan State,Ohio State,RUSHING,R.J.,Shelton,TD,0
+501060,12/7/2013,FBS,Michigan State,Ohio State,RUSHING,R.J.,Shelton,LONG,7
+501061,12/7/2013,FBS,Michigan State,Ohio State,RUSHING,Delton,Williams,ATT,1
+501062,12/7/2013,FBS,Michigan State,Ohio State,RUSHING,Delton,Williams,YDS,3
+501063,12/7/2013,FBS,Michigan State,Ohio State,RUSHING,Delton,Williams,TD,0
+501064,12/7/2013,FBS,Michigan State,Ohio State,RUSHING,Delton,Williams,LONG,3
+501065,12/7/2013,FBS,Michigan State,Ohio State,RUSHING,Connor,Cook,ATT,3
+501066,12/7/2013,FBS,Michigan State,Ohio State,RUSHING,Connor,Cook,YDS,0
+501067,12/7/2013,FBS,Michigan State,Ohio State,RUSHING,Connor,Cook,TD,0
+501068,12/7/2013,FBS,Michigan State,Ohio State,RUSHING,Connor,Cook,LONG,6
+501069,12/7/2013,FBS,Michigan State,Ohio State,RUSHING,,Team,ATT,1
+501070,12/7/2013,FBS,Michigan State,Ohio State,RUSHING,,Team,YDS,-1
+501071,12/7/2013,FBS,Michigan State,Ohio State,RUSHING,,Team,TD,0
+501072,12/7/2013,FBS,Michigan State,Ohio State,RUSHING,,Team,LONG,0
+501073,12/7/2013,FBS,Michigan State,Ohio State,RUSHING,Nick,Hill,ATT,1
+501074,12/7/2013,FBS,Michigan State,Ohio State,RUSHING,Nick,Hill,YDS,-4
+501075,12/7/2013,FBS,Michigan State,Ohio State,RUSHING,Nick,Hill,TD,0
+501076,12/7/2013,FBS,Michigan State,Ohio State,RUSHING,Nick,Hill,LONG,0
+501077,12/7/2013,FBS,Michigan State,Ohio State,PASSING,Connor,Cook,CP-ATT-INT,24-40-1
+501078,12/7/2013,FBS,Michigan State,Ohio State,PASSING,Connor,Cook,YDS,304
+501079,12/7/2013,FBS,Michigan State,Ohio State,PASSING,Connor,Cook,TD,3
+501080,12/7/2013,FBS,Michigan State,Ohio State,PASSING,Connor,Cook,LONG,72
+501081,12/7/2013,FBS,Michigan State,Ohio State,RECEIVING,Macgarrett,KingsJr.,REC,5
+501082,12/7/2013,FBS,Michigan State,Ohio State,RECEIVING,Macgarrett,KingsJr.,YDS,67
+501083,12/7/2013,FBS,Michigan State,Ohio State,RECEIVING,Macgarrett,KingsJr.,TD,0
+501084,12/7/2013,FBS,Michigan State,Ohio State,RECEIVING,Macgarrett,KingsJr.,LONG,48
+501085,12/7/2013,FBS,Michigan State,Ohio State,RECEIVING,Jeremy,Langford,REC,5
+501086,12/7/2013,FBS,Michigan State,Ohio State,RECEIVING,Jeremy,Langford,YDS,21
+501087,12/7/2013,FBS,Michigan State,Ohio State,RECEIVING,Jeremy,Langford,TD,0
+501088,12/7/2013,FBS,Michigan State,Ohio State,RECEIVING,Jeremy,Langford,LONG,13
+501089,12/7/2013,FBS,Michigan State,Ohio State,RECEIVING,Tony,Lippett,REC,4
+501090,12/7/2013,FBS,Michigan State,Ohio State,RECEIVING,Tony,Lippett,YDS,65
+501091,12/7/2013,FBS,Michigan State,Ohio State,RECEIVING,Tony,Lippett,TD,1
+501092,12/7/2013,FBS,Michigan State,Ohio State,RECEIVING,Tony,Lippett,LONG,33
+501093,12/7/2013,FBS,Michigan State,Ohio State,RECEIVING,Bennie,Fowler,REC,3
+501094,12/7/2013,FBS,Michigan State,Ohio State,RECEIVING,Bennie,Fowler,YDS,29
+501095,12/7/2013,FBS,Michigan State,Ohio State,RECEIVING,Bennie,Fowler,TD,0
+501096,12/7/2013,FBS,Michigan State,Ohio State,RECEIVING,Bennie,Fowler,LONG,12
+501097,12/7/2013,FBS,Michigan State,Ohio State,RECEIVING,Josiah,Price,REC,3
+501098,12/7/2013,FBS,Michigan State,Ohio State,RECEIVING,Josiah,Price,YDS,24
+501099,12/7/2013,FBS,Michigan State,Ohio State,RECEIVING,Josiah,Price,TD,1
+501100,12/7/2013,FBS,Michigan State,Ohio State,RECEIVING,Josiah,Price,LONG,12
+501101,12/7/2013,FBS,Michigan State,Ohio State,RECEIVING,Keith,Mumphery,REC,2
+501102,12/7/2013,FBS,Michigan State,Ohio State,RECEIVING,Keith,Mumphery,YDS,84
+501103,12/7/2013,FBS,Michigan State,Ohio State,RECEIVING,Keith,Mumphery,TD,1
+501104,12/7/2013,FBS,Michigan State,Ohio State,RECEIVING,Keith,Mumphery,LONG,72
+501105,12/7/2013,FBS,Michigan State,Ohio State,RECEIVING,Aaron,Burbridge,REC,1
+501106,12/7/2013,FBS,Michigan State,Ohio State,RECEIVING,Aaron,Burbridge,YDS,14
+501107,12/7/2013,FBS,Michigan State,Ohio State,RECEIVING,Aaron,Burbridge,TD,0
+501108,12/7/2013,FBS,Michigan State,Ohio State,RECEIVING,Aaron,Burbridge,LONG,14
+501109,12/7/2013,FBS,Michigan State,Ohio State,RECEIVING,Andrew,Gleichert,REC,1
+501110,12/7/2013,FBS,Michigan State,Ohio State,RECEIVING,Andrew,Gleichert,YDS,0
+501111,12/7/2013,FBS,Michigan State,Ohio State,RECEIVING,Andrew,Gleichert,TD,0
+501112,12/7/2013,FBS,Michigan State,Ohio State,RECEIVING,Andrew,Gleichert,LONG,0
+501113,12/7/2013,FBS,Michigan State,Ohio State,KICKING,Michael,Geiger,FG-FGA,2/2
+501114,12/7/2013,FBS,Michigan State,Ohio State,KICKING,Michael,Geiger,LONG,44
+501115,12/7/2013,FBS,Michigan State,Ohio State,KICKING,Michael,Geiger,XP,4
+501116,12/7/2013,FBS,Michigan State,Ohio State,KICKING,Michael,Geiger,PTS,10
+501117,12/7/2013,FBS,Michigan State,Ohio State,PUNTING,Mike,Sadler,NO,5
+501118,12/7/2013,FBS,Michigan State,Ohio State,PUNTING,Mike,Sadler,YDS,206
+501119,12/7/2013,FBS,Michigan State,Ohio State,PUNTING,Mike,Sadler,AVG,41.2
+501120,12/7/2013,FBS,Michigan State,Ohio State,PUNTING,Mike,Sadler,LONG,52
+501121,12/7/2013,FBS,Michigan State,Ohio State,PUNT RETURNS,Macgarrett,KingsJr.,NO,1
+501122,12/7/2013,FBS,Michigan State,Ohio State,PUNT RETURNS,Macgarrett,KingsJr.,YDS,16
+501123,12/7/2013,FBS,Michigan State,Ohio State,PUNT RETURNS,Macgarrett,KingsJr.,AVG,16.0
+501124,12/7/2013,FBS,Michigan State,Ohio State,PUNT RETURNS,Macgarrett,KingsJr.,LONG,16
+501125,12/7/2013,FBS,Michigan State,Ohio State,KICK RETURNS,R.J.,Shelton,NO,3
+501126,12/7/2013,FBS,Michigan State,Ohio State,KICK RETURNS,R.J.,Shelton,YDS,69
+501127,12/7/2013,FBS,Michigan State,Ohio State,KICK RETURNS,R.J.,Shelton,AVG,23.0
+501128,12/7/2013,FBS,Michigan State,Ohio State,KICK RETURNS,R.J.,Shelton,LONG,29

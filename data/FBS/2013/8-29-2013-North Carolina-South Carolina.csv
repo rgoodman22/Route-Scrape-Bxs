@@ -1,0 +1,149 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+8001,8/29/2013,FBS,North Carolina,South Carolina,RUSHING,Romar,Morris,ATT,15
+8002,8/29/2013,FBS,North Carolina,South Carolina,RUSHING,Romar,Morris,YDS,69
+8003,8/29/2013,FBS,North Carolina,South Carolina,RUSHING,Romar,Morris,TD,0
+8004,8/29/2013,FBS,North Carolina,South Carolina,RUSHING,Romar,Morris,LONG,15
+8005,8/29/2013,FBS,North Carolina,South Carolina,RUSHING,A.J.,Blue,ATT,8
+8006,8/29/2013,FBS,North Carolina,South Carolina,RUSHING,A.J.,Blue,YDS,37
+8007,8/29/2013,FBS,North Carolina,South Carolina,RUSHING,A.J.,Blue,TD,0
+8008,8/29/2013,FBS,North Carolina,South Carolina,RUSHING,A.J.,Blue,LONG,14
+8009,8/29/2013,FBS,North Carolina,South Carolina,RUSHING,Quinshad,Davis,ATT,1
+8010,8/29/2013,FBS,North Carolina,South Carolina,RUSHING,Quinshad,Davis,YDS,2
+8011,8/29/2013,FBS,North Carolina,South Carolina,RUSHING,Quinshad,Davis,TD,0
+8012,8/29/2013,FBS,North Carolina,South Carolina,RUSHING,Quinshad,Davis,LONG,2
+8013,8/29/2013,FBS,North Carolina,South Carolina,RUSHING,Marquise,Williams,ATT,1
+8014,8/29/2013,FBS,North Carolina,South Carolina,RUSHING,Marquise,Williams,YDS,2
+8015,8/29/2013,FBS,North Carolina,South Carolina,RUSHING,Marquise,Williams,TD,0
+8016,8/29/2013,FBS,North Carolina,South Carolina,RUSHING,Marquise,Williams,LONG,2
+8017,8/29/2013,FBS,North Carolina,South Carolina,RUSHING,Bryn,Renner,ATT,11
+8018,8/29/2013,FBS,North Carolina,South Carolina,RUSHING,Bryn,Renner,YDS,-11
+8019,8/29/2013,FBS,North Carolina,South Carolina,RUSHING,Bryn,Renner,TD,0
+8020,8/29/2013,FBS,North Carolina,South Carolina,RUSHING,Bryn,Renner,LONG,7
+8021,8/29/2013,FBS,North Carolina,South Carolina,PASSING,Bryn,Renner,CP-ATT-INT,26-43-0
+8022,8/29/2013,FBS,North Carolina,South Carolina,PASSING,Bryn,Renner,YDS,194
+8023,8/29/2013,FBS,North Carolina,South Carolina,PASSING,Bryn,Renner,TD,1
+8024,8/29/2013,FBS,North Carolina,South Carolina,PASSING,Bryn,Renner,LONG,24
+8025,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,Quinshad,Davis,REC,4
+8026,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,Quinshad,Davis,YDS,39
+8027,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,Quinshad,Davis,TD,1
+8028,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,Quinshad,Davis,LONG,24
+8029,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,T.J.,Thorpe,REC,4
+8030,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,T.J.,Thorpe,YDS,9
+8031,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,T.J.,Thorpe,TD,0
+8032,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,T.J.,Thorpe,LONG,6
+8033,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,Eric,Ebron,REC,3
+8034,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,Eric,Ebron,YDS,32
+8035,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,Eric,Ebron,TD,0
+8036,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,Eric,Ebron,LONG,13
+8037,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,Mark,McNeill,REC,3
+8038,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,Mark,McNeill,YDS,24
+8039,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,Mark,McNeill,TD,0
+8040,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,Mark,McNeill,LONG,13
+8041,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,Ryan,Switzer,REC,3
+8042,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,Ryan,Switzer,YDS,15
+8043,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,Ryan,Switzer,TD,0
+8044,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,Ryan,Switzer,LONG,8
+8045,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,Johnathan,Howard,REC,2
+8046,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,Johnathan,Howard,YDS,32
+8047,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,Johnathan,Howard,TD,0
+8048,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,Johnathan,Howard,LONG,18
+8049,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,Romar,Morris,REC,2
+8050,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,Romar,Morris,YDS,18
+8051,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,Romar,Morris,TD,0
+8052,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,Romar,Morris,LONG,17
+8053,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,A.J.,Blue,REC,2
+8054,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,A.J.,Blue,YDS,13
+8055,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,A.J.,Blue,TD,0
+8056,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,A.J.,Blue,LONG,11
+8057,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,Sean,Tapley,REC,2
+8058,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,Sean,Tapley,YDS,1
+8059,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,Sean,Tapley,TD,0
+8060,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,Sean,Tapley,LONG,3
+8061,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,Jack,Tabb,REC,1
+8062,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,Jack,Tabb,YDS,11
+8063,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,Jack,Tabb,TD,0
+8064,8/29/2013,FBS,North Carolina,South Carolina,RECEIVING,Jack,Tabb,LONG,11
+8065,8/29/2013,FBS,North Carolina,South Carolina,KICKING,Thomas,Moore,FG-FGA,1/1
+8066,8/29/2013,FBS,North Carolina,South Carolina,KICKING,Thomas,Moore,LONG,20
+8067,8/29/2013,FBS,North Carolina,South Carolina,KICKING,Thomas,Moore,XP,1
+8068,8/29/2013,FBS,North Carolina,South Carolina,KICKING,Thomas,Moore,PTS,4
+8069,8/29/2013,FBS,North Carolina,South Carolina,PUNTING,Tommy,Hibbard,NO,6
+8070,8/29/2013,FBS,North Carolina,South Carolina,PUNTING,Tommy,Hibbard,YDS,242
+8071,8/29/2013,FBS,North Carolina,South Carolina,PUNTING,Tommy,Hibbard,AVG,40.3
+8072,8/29/2013,FBS,North Carolina,South Carolina,PUNTING,Tommy,Hibbard,LONG,46
+8073,8/29/2013,FBS,North Carolina,South Carolina,PUNT RETURNS,T.J.,Thorpe,NO,2
+8074,8/29/2013,FBS,North Carolina,South Carolina,PUNT RETURNS,T.J.,Thorpe,YDS,21
+8075,8/29/2013,FBS,North Carolina,South Carolina,PUNT RETURNS,T.J.,Thorpe,AVG,10.5
+8076,8/29/2013,FBS,North Carolina,South Carolina,PUNT RETURNS,T.J.,Thorpe,LONG,20
+8077,8/29/2013,FBS,North Carolina,South Carolina,KICK RETURNS,Sean,Tapley,NO,4
+8078,8/29/2013,FBS,North Carolina,South Carolina,KICK RETURNS,Sean,Tapley,YDS,88
+8079,8/29/2013,FBS,North Carolina,South Carolina,KICK RETURNS,Sean,Tapley,AVG,22.0
+8080,8/29/2013,FBS,North Carolina,South Carolina,KICK RETURNS,Sean,Tapley,LONG,28
+8081,8/29/2013,FBS,South Carolina,North Carolina,RUSHING,Mike,Davis,ATT,12
+8082,8/29/2013,FBS,South Carolina,North Carolina,RUSHING,Mike,Davis,YDS,115
+8083,8/29/2013,FBS,South Carolina,North Carolina,RUSHING,Mike,Davis,TD,1
+8084,8/29/2013,FBS,South Carolina,North Carolina,RUSHING,Mike,Davis,LONG,75
+8085,8/29/2013,FBS,South Carolina,North Carolina,RUSHING,Brandon,Wilds,ATT,12
+8086,8/29/2013,FBS,South Carolina,North Carolina,RUSHING,Brandon,Wilds,YDS,64
+8087,8/29/2013,FBS,South Carolina,North Carolina,RUSHING,Brandon,Wilds,TD,0
+8088,8/29/2013,FBS,South Carolina,North Carolina,RUSHING,Brandon,Wilds,LONG,12
+8089,8/29/2013,FBS,South Carolina,North Carolina,RUSHING,Connor,Shaw,ATT,12
+8090,8/29/2013,FBS,South Carolina,North Carolina,RUSHING,Connor,Shaw,YDS,43
+8091,8/29/2013,FBS,South Carolina,North Carolina,RUSHING,Connor,Shaw,TD,0
+8092,8/29/2013,FBS,South Carolina,North Carolina,RUSHING,Connor,Shaw,LONG,21
+8093,8/29/2013,FBS,South Carolina,North Carolina,RUSHING,Shon,Carson,ATT,2
+8094,8/29/2013,FBS,South Carolina,North Carolina,RUSHING,Shon,Carson,YDS,6
+8095,8/29/2013,FBS,South Carolina,North Carolina,RUSHING,Shon,Carson,TD,0
+8096,8/29/2013,FBS,South Carolina,North Carolina,RUSHING,Shon,Carson,LONG,5
+8097,8/29/2013,FBS,South Carolina,North Carolina,PASSING,Connor,Shaw,CP-ATT-INT,11-20-0
+8098,8/29/2013,FBS,South Carolina,North Carolina,PASSING,Connor,Shaw,YDS,149
+8099,8/29/2013,FBS,South Carolina,North Carolina,PASSING,Connor,Shaw,TD,1
+8100,8/29/2013,FBS,South Carolina,North Carolina,PASSING,Connor,Shaw,LONG,65
+8101,8/29/2013,FBS,South Carolina,North Carolina,PASSING,Dylan,Thompson,CP-ATT-INT,1-1-0
+8102,8/29/2013,FBS,South Carolina,North Carolina,PASSING,Dylan,Thompson,YDS,29
+8103,8/29/2013,FBS,South Carolina,North Carolina,PASSING,Dylan,Thompson,TD,1
+8104,8/29/2013,FBS,South Carolina,North Carolina,PASSING,Dylan,Thompson,LONG,29
+8105,8/29/2013,FBS,South Carolina,North Carolina,RECEIVING,Nick,Jones,REC,4
+8106,8/29/2013,FBS,South Carolina,North Carolina,RECEIVING,Nick,Jones,YDS,21
+8107,8/29/2013,FBS,South Carolina,North Carolina,RECEIVING,Nick,Jones,TD,0
+8108,8/29/2013,FBS,South Carolina,North Carolina,RECEIVING,Nick,Jones,LONG,11
+8109,8/29/2013,FBS,South Carolina,North Carolina,RECEIVING,Shaq,Roland,REC,2
+8110,8/29/2013,FBS,South Carolina,North Carolina,RECEIVING,Shaq,Roland,YDS,75
+8111,8/29/2013,FBS,South Carolina,North Carolina,RECEIVING,Shaq,Roland,TD,1
+8112,8/29/2013,FBS,South Carolina,North Carolina,RECEIVING,Shaq,Roland,LONG,65
+8113,8/29/2013,FBS,South Carolina,North Carolina,RECEIVING,Damiere,Byrd,REC,2
+8114,8/29/2013,FBS,South Carolina,North Carolina,RECEIVING,Damiere,Byrd,YDS,22
+8115,8/29/2013,FBS,South Carolina,North Carolina,RECEIVING,Damiere,Byrd,TD,0
+8116,8/29/2013,FBS,South Carolina,North Carolina,RECEIVING,Damiere,Byrd,LONG,22
+8117,8/29/2013,FBS,South Carolina,North Carolina,RECEIVING,Kane,Whitehurst,REC,1
+8118,8/29/2013,FBS,South Carolina,North Carolina,RECEIVING,Kane,Whitehurst,YDS,29
+8119,8/29/2013,FBS,South Carolina,North Carolina,RECEIVING,Kane,Whitehurst,TD,1
+8120,8/29/2013,FBS,South Carolina,North Carolina,RECEIVING,Kane,Whitehurst,LONG,29
+8121,8/29/2013,FBS,South Carolina,North Carolina,RECEIVING,Bruce,Ellington,REC,1
+8122,8/29/2013,FBS,South Carolina,North Carolina,RECEIVING,Bruce,Ellington,YDS,17
+8123,8/29/2013,FBS,South Carolina,North Carolina,RECEIVING,Bruce,Ellington,TD,0
+8124,8/29/2013,FBS,South Carolina,North Carolina,RECEIVING,Bruce,Ellington,LONG,17
+8125,8/29/2013,FBS,South Carolina,North Carolina,RECEIVING,K.J.,Brent,REC,1
+8126,8/29/2013,FBS,South Carolina,North Carolina,RECEIVING,K.J.,Brent,YDS,9
+8127,8/29/2013,FBS,South Carolina,North Carolina,RECEIVING,K.J.,Brent,TD,0
+8128,8/29/2013,FBS,South Carolina,North Carolina,RECEIVING,K.J.,Brent,LONG,9
+8129,8/29/2013,FBS,South Carolina,North Carolina,RECEIVING,Drew,Owens,REC,1
+8130,8/29/2013,FBS,South Carolina,North Carolina,RECEIVING,Drew,Owens,YDS,5
+8131,8/29/2013,FBS,South Carolina,North Carolina,RECEIVING,Drew,Owens,TD,0
+8132,8/29/2013,FBS,South Carolina,North Carolina,RECEIVING,Drew,Owens,LONG,5
+8133,8/29/2013,FBS,South Carolina,North Carolina,KICKING,Elliott,Fry,FG-FGA,2/2
+8134,8/29/2013,FBS,South Carolina,North Carolina,KICKING,Elliott,Fry,LONG,39
+8135,8/29/2013,FBS,South Carolina,North Carolina,KICKING,Elliott,Fry,XP,3
+8136,8/29/2013,FBS,South Carolina,North Carolina,KICKING,Elliott,Fry,PTS,9
+8137,8/29/2013,FBS,South Carolina,North Carolina,PUNTING,Tyler,Hull,NO,5
+8138,8/29/2013,FBS,South Carolina,North Carolina,PUNTING,Tyler,Hull,YDS,166
+8139,8/29/2013,FBS,South Carolina,North Carolina,PUNTING,Tyler,Hull,AVG,33.2
+8140,8/29/2013,FBS,South Carolina,North Carolina,PUNTING,Tyler,Hull,LONG,42
+8141,8/29/2013,FBS,South Carolina,North Carolina,PUNT RETURNS,Victor,Hampton,NO,3
+8142,8/29/2013,FBS,South Carolina,North Carolina,PUNT RETURNS,Victor,Hampton,YDS,22
+8143,8/29/2013,FBS,South Carolina,North Carolina,PUNT RETURNS,Victor,Hampton,AVG,7.3
+8144,8/29/2013,FBS,South Carolina,North Carolina,PUNT RETURNS,Victor,Hampton,LONG,13
+8145,8/29/2013,FBS,South Carolina,North Carolina,KICK RETURNS,Victor,Hampton,NO,2
+8146,8/29/2013,FBS,South Carolina,North Carolina,KICK RETURNS,Victor,Hampton,YDS,39
+8147,8/29/2013,FBS,South Carolina,North Carolina,KICK RETURNS,Victor,Hampton,AVG,19.5
+8148,8/29/2013,FBS,South Carolina,North Carolina,KICK RETURNS,Victor,Hampton,LONG,21

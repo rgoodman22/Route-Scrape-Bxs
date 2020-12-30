@@ -1,0 +1,133 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+503001,12/7/2013,FBS,Stanford,Arizona State,RUSHING,Tyler,Gaffney,ATT,22
+503002,12/7/2013,FBS,Stanford,Arizona State,RUSHING,Tyler,Gaffney,YDS,133
+503003,12/7/2013,FBS,Stanford,Arizona State,RUSHING,Tyler,Gaffney,TD,3
+503004,12/7/2013,FBS,Stanford,Arizona State,RUSHING,Tyler,Gaffney,LONG,69
+503005,12/7/2013,FBS,Stanford,Arizona State,RUSHING,Anthony,Wilkerson,ATT,10
+503006,12/7/2013,FBS,Stanford,Arizona State,RUSHING,Anthony,Wilkerson,YDS,57
+503007,12/7/2013,FBS,Stanford,Arizona State,RUSHING,Anthony,Wilkerson,TD,0
+503008,12/7/2013,FBS,Stanford,Arizona State,RUSHING,Anthony,Wilkerson,LONG,29
+503009,12/7/2013,FBS,Stanford,Arizona State,RUSHING,Kevin,Hogan,ATT,9
+503010,12/7/2013,FBS,Stanford,Arizona State,RUSHING,Kevin,Hogan,YDS,24
+503011,12/7/2013,FBS,Stanford,Arizona State,RUSHING,Kevin,Hogan,TD,0
+503012,12/7/2013,FBS,Stanford,Arizona State,RUSHING,Kevin,Hogan,LONG,29
+503013,12/7/2013,FBS,Stanford,Arizona State,RUSHING,Ty,Montgomery,ATT,1
+503014,12/7/2013,FBS,Stanford,Arizona State,RUSHING,Ty,Montgomery,YDS,22
+503015,12/7/2013,FBS,Stanford,Arizona State,RUSHING,Ty,Montgomery,TD,1
+503016,12/7/2013,FBS,Stanford,Arizona State,RUSHING,Ty,Montgomery,LONG,22
+503017,12/7/2013,FBS,Stanford,Arizona State,RUSHING,Ryan,Hewitt,ATT,2
+503018,12/7/2013,FBS,Stanford,Arizona State,RUSHING,Ryan,Hewitt,YDS,4
+503019,12/7/2013,FBS,Stanford,Arizona State,RUSHING,Ryan,Hewitt,TD,0
+503020,12/7/2013,FBS,Stanford,Arizona State,RUSHING,Ryan,Hewitt,LONG,3
+503021,12/7/2013,FBS,Stanford,Arizona State,PASSING,Kevin,Hogan,CP-ATT-INT,12-18-0
+503022,12/7/2013,FBS,Stanford,Arizona State,PASSING,Kevin,Hogan,YDS,277
+503023,12/7/2013,FBS,Stanford,Arizona State,PASSING,Kevin,Hogan,TD,1
+503024,12/7/2013,FBS,Stanford,Arizona State,PASSING,Kevin,Hogan,LONG,78
+503025,12/7/2013,FBS,Stanford,Arizona State,RECEIVING,Ty,Montgomery,REC,5
+503026,12/7/2013,FBS,Stanford,Arizona State,RECEIVING,Ty,Montgomery,YDS,69
+503027,12/7/2013,FBS,Stanford,Arizona State,RECEIVING,Ty,Montgomery,TD,1
+503028,12/7/2013,FBS,Stanford,Arizona State,RECEIVING,Ty,Montgomery,LONG,24
+503029,12/7/2013,FBS,Stanford,Arizona State,RECEIVING,Jordan,Pratt,REC,3
+503030,12/7/2013,FBS,Stanford,Arizona State,RECEIVING,Jordan,Pratt,YDS,56
+503031,12/7/2013,FBS,Stanford,Arizona State,RECEIVING,Jordan,Pratt,TD,0
+503032,12/7/2013,FBS,Stanford,Arizona State,RECEIVING,Jordan,Pratt,LONG,35
+503033,12/7/2013,FBS,Stanford,Arizona State,RECEIVING,Devon,Cajuste,REC,2
+503034,12/7/2013,FBS,Stanford,Arizona State,RECEIVING,Devon,Cajuste,YDS,120
+503035,12/7/2013,FBS,Stanford,Arizona State,RECEIVING,Devon,Cajuste,TD,0
+503036,12/7/2013,FBS,Stanford,Arizona State,RECEIVING,Devon,Cajuste,LONG,78
+503037,12/7/2013,FBS,Stanford,Arizona State,RECEIVING,Michael,Rector,REC,1
+503038,12/7/2013,FBS,Stanford,Arizona State,RECEIVING,Michael,Rector,YDS,34
+503039,12/7/2013,FBS,Stanford,Arizona State,RECEIVING,Michael,Rector,TD,0
+503040,12/7/2013,FBS,Stanford,Arizona State,RECEIVING,Michael,Rector,LONG,34
+503041,12/7/2013,FBS,Stanford,Arizona State,RECEIVING,Tyler,Gaffney,REC,1
+503042,12/7/2013,FBS,Stanford,Arizona State,RECEIVING,Tyler,Gaffney,YDS,-2
+503043,12/7/2013,FBS,Stanford,Arizona State,RECEIVING,Tyler,Gaffney,TD,0
+503044,12/7/2013,FBS,Stanford,Arizona State,RECEIVING,Tyler,Gaffney,LONG,0
+503045,12/7/2013,FBS,Stanford,Arizona State,KICKING,Jordan,Williamson,FG-FGA,1/1
+503046,12/7/2013,FBS,Stanford,Arizona State,KICKING,Jordan,Williamson,LONG,30
+503047,12/7/2013,FBS,Stanford,Arizona State,KICKING,Jordan,Williamson,XP,5
+503048,12/7/2013,FBS,Stanford,Arizona State,KICKING,Jordan,Williamson,PTS,8
+503049,12/7/2013,FBS,Stanford,Arizona State,PUNTING,Ben,Rhyne,NO,3
+503050,12/7/2013,FBS,Stanford,Arizona State,PUNTING,Ben,Rhyne,YDS,125
+503051,12/7/2013,FBS,Stanford,Arizona State,PUNTING,Ben,Rhyne,AVG,41.7
+503052,12/7/2013,FBS,Stanford,Arizona State,PUNTING,Ben,Rhyne,LONG,53
+503053,12/7/2013,FBS,Stanford,Arizona State,KICK RETURNS,Ty,Montgomery,NO,2
+503054,12/7/2013,FBS,Stanford,Arizona State,KICK RETURNS,Ty,Montgomery,YDS,59
+503055,12/7/2013,FBS,Stanford,Arizona State,KICK RETURNS,Ty,Montgomery,AVG,29.5
+503056,12/7/2013,FBS,Stanford,Arizona State,KICK RETURNS,Ty,Montgomery,LONG,39
+503057,12/7/2013,FBS,Stanford,Arizona State,KICK RETURNS,,Team,NO,1
+503058,12/7/2013,FBS,Stanford,Arizona State,KICK RETURNS,,Team,YDS,0
+503059,12/7/2013,FBS,Stanford,Arizona State,KICK RETURNS,,Team,AVG,0.0
+503060,12/7/2013,FBS,Stanford,Arizona State,KICK RETURNS,,Team,LONG,0
+503061,12/7/2013,FBS,Arizona State,Stanford,RUSHING,D.J.,Foster,ATT,8
+503062,12/7/2013,FBS,Arizona State,Stanford,RUSHING,D.J.,Foster,YDS,62
+503063,12/7/2013,FBS,Arizona State,Stanford,RUSHING,D.J.,Foster,TD,1
+503064,12/7/2013,FBS,Arizona State,Stanford,RUSHING,D.J.,Foster,LONG,51
+503065,12/7/2013,FBS,Arizona State,Stanford,RUSHING,Taylor,Kelly,ATT,21
+503066,12/7/2013,FBS,Arizona State,Stanford,RUSHING,Taylor,Kelly,YDS,36
+503067,12/7/2013,FBS,Arizona State,Stanford,RUSHING,Taylor,Kelly,TD,0
+503068,12/7/2013,FBS,Arizona State,Stanford,RUSHING,Taylor,Kelly,LONG,15
+503069,12/7/2013,FBS,Arizona State,Stanford,RUSHING,Deantre,Lewis,ATT,7
+503070,12/7/2013,FBS,Arizona State,Stanford,RUSHING,Deantre,Lewis,YDS,29
+503071,12/7/2013,FBS,Arizona State,Stanford,RUSHING,Deantre,Lewis,TD,0
+503072,12/7/2013,FBS,Arizona State,Stanford,RUSHING,Deantre,Lewis,LONG,11
+503073,12/7/2013,FBS,Arizona State,Stanford,RUSHING,De'Marieya,Nelson,ATT,5
+503074,12/7/2013,FBS,Arizona State,Stanford,RUSHING,De'Marieya,Nelson,YDS,10
+503075,12/7/2013,FBS,Arizona State,Stanford,RUSHING,De'Marieya,Nelson,TD,0
+503076,12/7/2013,FBS,Arizona State,Stanford,RUSHING,De'Marieya,Nelson,LONG,9
+503077,12/7/2013,FBS,Arizona State,Stanford,RUSHING,R.J.,Robinson,ATT,1
+503078,12/7/2013,FBS,Arizona State,Stanford,RUSHING,R.J.,Robinson,YDS,1
+503079,12/7/2013,FBS,Arizona State,Stanford,RUSHING,R.J.,Robinson,TD,0
+503080,12/7/2013,FBS,Arizona State,Stanford,RUSHING,R.J.,Robinson,LONG,1
+503081,12/7/2013,FBS,Arizona State,Stanford,RUSHING,Michael,Eubank,ATT,1
+503082,12/7/2013,FBS,Arizona State,Stanford,RUSHING,Michael,Eubank,YDS,0
+503083,12/7/2013,FBS,Arizona State,Stanford,RUSHING,Michael,Eubank,TD,0
+503084,12/7/2013,FBS,Arizona State,Stanford,RUSHING,Michael,Eubank,LONG,0
+503085,12/7/2013,FBS,Arizona State,Stanford,PASSING,Taylor,Kelly,CP-ATT-INT,17-25-0
+503086,12/7/2013,FBS,Arizona State,Stanford,PASSING,Taylor,Kelly,YDS,173
+503087,12/7/2013,FBS,Arizona State,Stanford,PASSING,Taylor,Kelly,TD,1
+503088,12/7/2013,FBS,Arizona State,Stanford,PASSING,Taylor,Kelly,LONG,65
+503089,12/7/2013,FBS,Arizona State,Stanford,RECEIVING,D.J.,Foster,REC,4
+503090,12/7/2013,FBS,Arizona State,Stanford,RECEIVING,D.J.,Foster,YDS,80
+503091,12/7/2013,FBS,Arizona State,Stanford,RECEIVING,D.J.,Foster,TD,1
+503092,12/7/2013,FBS,Arizona State,Stanford,RECEIVING,D.J.,Foster,LONG,65
+503093,12/7/2013,FBS,Arizona State,Stanford,RECEIVING,Richard,Smith,REC,4
+503094,12/7/2013,FBS,Arizona State,Stanford,RECEIVING,Richard,Smith,YDS,23
+503095,12/7/2013,FBS,Arizona State,Stanford,RECEIVING,Richard,Smith,TD,0
+503096,12/7/2013,FBS,Arizona State,Stanford,RECEIVING,Richard,Smith,LONG,9
+503097,12/7/2013,FBS,Arizona State,Stanford,RECEIVING,Deantre,Lewis,REC,4
+503098,12/7/2013,FBS,Arizona State,Stanford,RECEIVING,Deantre,Lewis,YDS,16
+503099,12/7/2013,FBS,Arizona State,Stanford,RECEIVING,Deantre,Lewis,TD,0
+503100,12/7/2013,FBS,Arizona State,Stanford,RECEIVING,Deantre,Lewis,LONG,7
+503101,12/7/2013,FBS,Arizona State,Stanford,RECEIVING,Jaelen,Strong,REC,2
+503102,12/7/2013,FBS,Arizona State,Stanford,RECEIVING,Jaelen,Strong,YDS,27
+503103,12/7/2013,FBS,Arizona State,Stanford,RECEIVING,Jaelen,Strong,TD,0
+503104,12/7/2013,FBS,Arizona State,Stanford,RECEIVING,Jaelen,Strong,LONG,18
+503105,12/7/2013,FBS,Arizona State,Stanford,RECEIVING,Kevin,Ozier,REC,2
+503106,12/7/2013,FBS,Arizona State,Stanford,RECEIVING,Kevin,Ozier,YDS,21
+503107,12/7/2013,FBS,Arizona State,Stanford,RECEIVING,Kevin,Ozier,TD,0
+503108,12/7/2013,FBS,Arizona State,Stanford,RECEIVING,Kevin,Ozier,LONG,11
+503109,12/7/2013,FBS,Arizona State,Stanford,RECEIVING,Cameron,Smith,REC,1
+503110,12/7/2013,FBS,Arizona State,Stanford,RECEIVING,Cameron,Smith,YDS,6
+503111,12/7/2013,FBS,Arizona State,Stanford,RECEIVING,Cameron,Smith,TD,0
+503112,12/7/2013,FBS,Arizona State,Stanford,RECEIVING,Cameron,Smith,LONG,6
+503113,12/7/2013,FBS,Arizona State,Stanford,KICKING,Zane,Gonzalez,FG-FGA,0/1
+503114,12/7/2013,FBS,Arizona State,Stanford,KICKING,Zane,Gonzalez,LONG,-
+503115,12/7/2013,FBS,Arizona State,Stanford,KICKING,Zane,Gonzalez,XP,2
+503116,12/7/2013,FBS,Arizona State,Stanford,KICKING,Zane,Gonzalez,PTS,2
+503117,12/7/2013,FBS,Arizona State,Stanford,PUNTING,Alex,Garoutte,NO,4
+503118,12/7/2013,FBS,Arizona State,Stanford,PUNTING,Alex,Garoutte,YDS,132
+503119,12/7/2013,FBS,Arizona State,Stanford,PUNTING,Alex,Garoutte,AVG,33.0
+503120,12/7/2013,FBS,Arizona State,Stanford,PUNTING,Alex,Garoutte,LONG,55
+503121,12/7/2013,FBS,Arizona State,Stanford,PUNTING,Matt,Haack,NO,1
+503122,12/7/2013,FBS,Arizona State,Stanford,PUNTING,Matt,Haack,YDS,49
+503123,12/7/2013,FBS,Arizona State,Stanford,PUNTING,Matt,Haack,AVG,49.0
+503124,12/7/2013,FBS,Arizona State,Stanford,PUNTING,Matt,Haack,LONG,49
+503125,12/7/2013,FBS,Arizona State,Stanford,PUNT RETURNS,Robert,Nelson,NO,3
+503126,12/7/2013,FBS,Arizona State,Stanford,PUNT RETURNS,Robert,Nelson,YDS,13
+503127,12/7/2013,FBS,Arizona State,Stanford,PUNT RETURNS,Robert,Nelson,AVG,4.3
+503128,12/7/2013,FBS,Arizona State,Stanford,PUNT RETURNS,Robert,Nelson,LONG,6
+503129,12/7/2013,FBS,Arizona State,Stanford,KICK RETURNS,Robert,Nelson,NO,6
+503130,12/7/2013,FBS,Arizona State,Stanford,KICK RETURNS,Robert,Nelson,YDS,113
+503131,12/7/2013,FBS,Arizona State,Stanford,KICK RETURNS,Robert,Nelson,AVG,18.8
+503132,12/7/2013,FBS,Arizona State,Stanford,KICK RETURNS,Robert,Nelson,LONG,23

@@ -1,0 +1,169 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+101001,9/7/2013,FBS,Indiana State,Purdue,RUSHING,George,Cheeseborough,ATT,11
+101002,9/7/2013,FBS,Indiana State,Purdue,RUSHING,George,Cheeseborough,YDS,43
+101003,9/7/2013,FBS,Indiana State,Purdue,RUSHING,George,Cheeseborough,TD,0
+101004,9/7/2013,FBS,Indiana State,Purdue,RUSHING,George,Cheeseborough,LONG,9
+101005,9/7/2013,FBS,Indiana State,Purdue,RUSHING,Robert,Tonyan,ATT,1
+101006,9/7/2013,FBS,Indiana State,Purdue,RUSHING,Robert,Tonyan,YDS,7
+101007,9/7/2013,FBS,Indiana State,Purdue,RUSHING,Robert,Tonyan,TD,0
+101008,9/7/2013,FBS,Indiana State,Purdue,RUSHING,Robert,Tonyan,LONG,7
+101009,9/7/2013,FBS,Indiana State,Purdue,RUSHING,Buck,Logan,ATT,1
+101010,9/7/2013,FBS,Indiana State,Purdue,RUSHING,Buck,Logan,YDS,2
+101011,9/7/2013,FBS,Indiana State,Purdue,RUSHING,Buck,Logan,TD,0
+101012,9/7/2013,FBS,Indiana State,Purdue,RUSHING,Buck,Logan,LONG,2
+101013,9/7/2013,FBS,Indiana State,Purdue,RUSHING,Mike,Perish,ATT,8
+101014,9/7/2013,FBS,Indiana State,Purdue,RUSHING,Mike,Perish,YDS,-5
+101015,9/7/2013,FBS,Indiana State,Purdue,RUSHING,Mike,Perish,TD,0
+101016,9/7/2013,FBS,Indiana State,Purdue,RUSHING,Mike,Perish,LONG,5
+101017,9/7/2013,FBS,Indiana State,Purdue,RUSHING,,Team,ATT,1
+101018,9/7/2013,FBS,Indiana State,Purdue,RUSHING,,Team,YDS,-8
+101019,9/7/2013,FBS,Indiana State,Purdue,RUSHING,,Team,TD,0
+101020,9/7/2013,FBS,Indiana State,Purdue,RUSHING,,Team,LONG,0
+101021,9/7/2013,FBS,Indiana State,Purdue,PASSING,Mike,Perish,CP-ATT-INT,29-45-1
+101022,9/7/2013,FBS,Indiana State,Purdue,PASSING,Mike,Perish,YDS,256
+101023,9/7/2013,FBS,Indiana State,Purdue,PASSING,Mike,Perish,TD,2
+101024,9/7/2013,FBS,Indiana State,Purdue,PASSING,Mike,Perish,LONG,36
+101025,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,Demory,Lawshe,REC,7
+101026,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,Demory,Lawshe,YDS,62
+101027,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,Demory,Lawshe,TD,1
+101028,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,Demory,Lawshe,LONG,17
+101029,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,Kyani,Harris,REC,5
+101030,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,Kyani,Harris,YDS,32
+101031,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,Kyani,Harris,TD,0
+101032,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,Kyani,Harris,LONG,12
+101033,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,Tanner,Riley,REC,4
+101034,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,Tanner,Riley,YDS,63
+101035,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,Tanner,Riley,TD,0
+101036,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,Tanner,Riley,LONG,31
+101037,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,George,Cheeseborough,REC,4
+101038,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,George,Cheeseborough,YDS,43
+101039,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,George,Cheeseborough,TD,1
+101040,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,George,Cheeseborough,LONG,36
+101041,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,Jamar,Brown,REC,3
+101042,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,Jamar,Brown,YDS,23
+101043,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,Jamar,Brown,TD,0
+101044,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,Jamar,Brown,LONG,15
+101045,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,Garrick,Dikos,REC,1
+101046,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,Garrick,Dikos,YDS,10
+101047,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,Garrick,Dikos,TD,0
+101048,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,Garrick,Dikos,LONG,10
+101049,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,DeSean,Prentice,REC,1
+101050,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,DeSean,Prentice,YDS,8
+101051,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,DeSean,Prentice,TD,0
+101052,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,DeSean,Prentice,LONG,8
+101053,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,Buck,Logan,REC,1
+101054,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,Buck,Logan,YDS,7
+101055,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,Buck,Logan,TD,0
+101056,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,Buck,Logan,LONG,7
+101057,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,Logan,Buske,REC,1
+101058,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,Logan,Buske,YDS,5
+101059,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,Logan,Buske,TD,0
+101060,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,Logan,Buske,LONG,5
+101061,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,Austen,Wozniak,REC,1
+101062,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,Austen,Wozniak,YDS,4
+101063,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,Austen,Wozniak,TD,0
+101064,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,Austen,Wozniak,LONG,4
+101065,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,Miguel,Johns,REC,1
+101066,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,Miguel,Johns,YDS,-1
+101067,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,Miguel,Johns,TD,0
+101068,9/7/2013,FBS,Indiana State,Purdue,RECEIVING,Miguel,Johns,LONG,0
+101069,9/7/2013,FBS,Indiana State,Purdue,KICKING,Tanner,Fritschle,FG-FGA,0/0
+101070,9/7/2013,FBS,Indiana State,Purdue,KICKING,Tanner,Fritschle,LONG,-
+101071,9/7/2013,FBS,Indiana State,Purdue,KICKING,Tanner,Fritschle,XP,2
+101072,9/7/2013,FBS,Indiana State,Purdue,KICKING,Tanner,Fritschle,PTS,2
+101073,9/7/2013,FBS,Indiana State,Purdue,PUNTING,Jordon,Stangler,NO,7
+101074,9/7/2013,FBS,Indiana State,Purdue,PUNTING,Jordon,Stangler,YDS,268
+101075,9/7/2013,FBS,Indiana State,Purdue,PUNTING,Jordon,Stangler,AVG,38.3
+101076,9/7/2013,FBS,Indiana State,Purdue,PUNTING,Jordon,Stangler,LONG,45
+101077,9/7/2013,FBS,Indiana State,Purdue,PUNTING,,Team,NO,1
+101078,9/7/2013,FBS,Indiana State,Purdue,PUNTING,,Team,YDS,10
+101079,9/7/2013,FBS,Indiana State,Purdue,PUNTING,,Team,AVG,10.0
+101080,9/7/2013,FBS,Indiana State,Purdue,PUNTING,,Team,LONG,10
+101081,9/7/2013,FBS,Indiana State,Purdue,PUNT RETURNS,Tanner,Riley,NO,1
+101082,9/7/2013,FBS,Indiana State,Purdue,PUNT RETURNS,Tanner,Riley,YDS,-3
+101083,9/7/2013,FBS,Indiana State,Purdue,PUNT RETURNS,Tanner,Riley,AVG,-3.0
+101084,9/7/2013,FBS,Indiana State,Purdue,PUNT RETURNS,Tanner,Riley,LONG,0
+101085,9/7/2013,FBS,Indiana State,Purdue,KICK RETURNS,Taje,High,NO,4
+101086,9/7/2013,FBS,Indiana State,Purdue,KICK RETURNS,Taje,High,YDS,104
+101087,9/7/2013,FBS,Indiana State,Purdue,KICK RETURNS,Taje,High,AVG,26.0
+101088,9/7/2013,FBS,Indiana State,Purdue,KICK RETURNS,Taje,High,LONG,38
+101089,9/7/2013,FBS,Indiana State,Purdue,KICK RETURNS,George,Cheeseborough,NO,1
+101090,9/7/2013,FBS,Indiana State,Purdue,KICK RETURNS,George,Cheeseborough,YDS,24
+101091,9/7/2013,FBS,Indiana State,Purdue,KICK RETURNS,George,Cheeseborough,AVG,24.0
+101092,9/7/2013,FBS,Indiana State,Purdue,KICK RETURNS,George,Cheeseborough,LONG,24
+101093,9/7/2013,FBS,Purdue,Indiana State,RUSHING,Akeem,Hunt,ATT,22
+101094,9/7/2013,FBS,Purdue,Indiana State,RUSHING,Akeem,Hunt,YDS,82
+101095,9/7/2013,FBS,Purdue,Indiana State,RUSHING,Akeem,Hunt,TD,0
+101096,9/7/2013,FBS,Purdue,Indiana State,RUSHING,Akeem,Hunt,LONG,16
+101097,9/7/2013,FBS,Purdue,Indiana State,RUSHING,Dalyn,Dawkins,ATT,11
+101098,9/7/2013,FBS,Purdue,Indiana State,RUSHING,Dalyn,Dawkins,YDS,35
+101099,9/7/2013,FBS,Purdue,Indiana State,RUSHING,Dalyn,Dawkins,TD,0
+101100,9/7/2013,FBS,Purdue,Indiana State,RUSHING,Dalyn,Dawkins,LONG,9
+101101,9/7/2013,FBS,Purdue,Indiana State,RUSHING,B.J.,Knauf,ATT,4
+101102,9/7/2013,FBS,Purdue,Indiana State,RUSHING,B.J.,Knauf,YDS,26
+101103,9/7/2013,FBS,Purdue,Indiana State,RUSHING,B.J.,Knauf,TD,1
+101104,9/7/2013,FBS,Purdue,Indiana State,RUSHING,B.J.,Knauf,LONG,16
+101105,9/7/2013,FBS,Purdue,Indiana State,RUSHING,Rob,Henry,ATT,7
+101106,9/7/2013,FBS,Purdue,Indiana State,RUSHING,Rob,Henry,YDS,4
+101107,9/7/2013,FBS,Purdue,Indiana State,RUSHING,Rob,Henry,TD,0
+101108,9/7/2013,FBS,Purdue,Indiana State,RUSHING,Rob,Henry,LONG,6
+101109,9/7/2013,FBS,Purdue,Indiana State,RUSHING,,Team,ATT,2
+101110,9/7/2013,FBS,Purdue,Indiana State,RUSHING,,Team,YDS,-13
+101111,9/7/2013,FBS,Purdue,Indiana State,RUSHING,,Team,TD,0
+101112,9/7/2013,FBS,Purdue,Indiana State,RUSHING,,Team,LONG,0
+101113,9/7/2013,FBS,Purdue,Indiana State,PASSING,Rob,Henry,CP-ATT-INT,15-24-0
+101114,9/7/2013,FBS,Purdue,Indiana State,PASSING,Rob,Henry,YDS,150
+101115,9/7/2013,FBS,Purdue,Indiana State,PASSING,Rob,Henry,TD,0
+101116,9/7/2013,FBS,Purdue,Indiana State,PASSING,Rob,Henry,LONG,25
+101117,9/7/2013,FBS,Purdue,Indiana State,RECEIVING,Gabe,Holmes,REC,6
+101118,9/7/2013,FBS,Purdue,Indiana State,RECEIVING,Gabe,Holmes,YDS,39
+101119,9/7/2013,FBS,Purdue,Indiana State,RECEIVING,Gabe,Holmes,TD,0
+101120,9/7/2013,FBS,Purdue,Indiana State,RECEIVING,Gabe,Holmes,LONG,10
+101121,9/7/2013,FBS,Purdue,Indiana State,RECEIVING,Akeem,Hunt,REC,2
+101122,9/7/2013,FBS,Purdue,Indiana State,RECEIVING,Akeem,Hunt,YDS,38
+101123,9/7/2013,FBS,Purdue,Indiana State,RECEIVING,Akeem,Hunt,TD,0
+101124,9/7/2013,FBS,Purdue,Indiana State,RECEIVING,Akeem,Hunt,LONG,25
+101125,9/7/2013,FBS,Purdue,Indiana State,RECEIVING,Shane,Mikesky,REC,2
+101126,9/7/2013,FBS,Purdue,Indiana State,RECEIVING,Shane,Mikesky,YDS,23
+101127,9/7/2013,FBS,Purdue,Indiana State,RECEIVING,Shane,Mikesky,TD,0
+101128,9/7/2013,FBS,Purdue,Indiana State,RECEIVING,Shane,Mikesky,LONG,18
+101129,9/7/2013,FBS,Purdue,Indiana State,RECEIVING,B.J.,Knauf,REC,1
+101130,9/7/2013,FBS,Purdue,Indiana State,RECEIVING,B.J.,Knauf,YDS,19
+101131,9/7/2013,FBS,Purdue,Indiana State,RECEIVING,B.J.,Knauf,TD,0
+101132,9/7/2013,FBS,Purdue,Indiana State,RECEIVING,B.J.,Knauf,LONG,19
+101133,9/7/2013,FBS,Purdue,Indiana State,RECEIVING,Justin,Sinz,REC,1
+101134,9/7/2013,FBS,Purdue,Indiana State,RECEIVING,Justin,Sinz,YDS,10
+101135,9/7/2013,FBS,Purdue,Indiana State,RECEIVING,Justin,Sinz,TD,0
+101136,9/7/2013,FBS,Purdue,Indiana State,RECEIVING,Justin,Sinz,LONG,10
+101137,9/7/2013,FBS,Purdue,Indiana State,RECEIVING,Dalyn,Dawkins,REC,1
+101138,9/7/2013,FBS,Purdue,Indiana State,RECEIVING,Dalyn,Dawkins,YDS,8
+101139,9/7/2013,FBS,Purdue,Indiana State,RECEIVING,Dalyn,Dawkins,TD,0
+101140,9/7/2013,FBS,Purdue,Indiana State,RECEIVING,Dalyn,Dawkins,LONG,8
+101141,9/7/2013,FBS,Purdue,Indiana State,RECEIVING,Kurt,Freytag,REC,1
+101142,9/7/2013,FBS,Purdue,Indiana State,RECEIVING,Kurt,Freytag,YDS,8
+101143,9/7/2013,FBS,Purdue,Indiana State,RECEIVING,Kurt,Freytag,TD,0
+101144,9/7/2013,FBS,Purdue,Indiana State,RECEIVING,Kurt,Freytag,LONG,8
+101145,9/7/2013,FBS,Purdue,Indiana State,RECEIVING,DeAngelo,Yancey,REC,1
+101146,9/7/2013,FBS,Purdue,Indiana State,RECEIVING,DeAngelo,Yancey,YDS,5
+101147,9/7/2013,FBS,Purdue,Indiana State,RECEIVING,DeAngelo,Yancey,TD,0
+101148,9/7/2013,FBS,Purdue,Indiana State,RECEIVING,DeAngelo,Yancey,LONG,5
+101149,9/7/2013,FBS,Purdue,Indiana State,KICKING,Paul,Griggs,FG-FGA,2/3
+101150,9/7/2013,FBS,Purdue,Indiana State,KICKING,Paul,Griggs,LONG,37
+101151,9/7/2013,FBS,Purdue,Indiana State,KICKING,Paul,Griggs,XP,2
+101152,9/7/2013,FBS,Purdue,Indiana State,KICKING,Paul,Griggs,PTS,8
+101153,9/7/2013,FBS,Purdue,Indiana State,PUNTING,Cody,Webster,NO,6
+101154,9/7/2013,FBS,Purdue,Indiana State,PUNTING,Cody,Webster,YDS,280
+101155,9/7/2013,FBS,Purdue,Indiana State,PUNTING,Cody,Webster,AVG,46.7
+101156,9/7/2013,FBS,Purdue,Indiana State,PUNTING,Cody,Webster,LONG,59
+101157,9/7/2013,FBS,Purdue,Indiana State,PUNT RETURNS,Frankie,Williams,NO,1
+101158,9/7/2013,FBS,Purdue,Indiana State,PUNT RETURNS,Frankie,Williams,YDS,14
+101159,9/7/2013,FBS,Purdue,Indiana State,PUNT RETURNS,Frankie,Williams,AVG,14.0
+101160,9/7/2013,FBS,Purdue,Indiana State,PUNT RETURNS,Frankie,Williams,LONG,14
+101161,9/7/2013,FBS,Purdue,Indiana State,PUNT RETURNS,B.J.,Knauf,NO,1
+101162,9/7/2013,FBS,Purdue,Indiana State,PUNT RETURNS,B.J.,Knauf,YDS,2
+101163,9/7/2013,FBS,Purdue,Indiana State,PUNT RETURNS,B.J.,Knauf,AVG,2.0
+101164,9/7/2013,FBS,Purdue,Indiana State,PUNT RETURNS,B.J.,Knauf,LONG,2
+101165,9/7/2013,FBS,Purdue,Indiana State,KICK RETURNS,Akeem,Hunt,NO,2
+101166,9/7/2013,FBS,Purdue,Indiana State,KICK RETURNS,Akeem,Hunt,YDS,123
+101167,9/7/2013,FBS,Purdue,Indiana State,KICK RETURNS,Akeem,Hunt,AVG,61.5
+101168,9/7/2013,FBS,Purdue,Indiana State,KICK RETURNS,Akeem,Hunt,LONG,99

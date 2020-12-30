@@ -1,0 +1,157 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+22001,8/30/2013,FBS,Samford,Georgia State,RUSHING,Fabian,Truss,ATT,26
+22002,8/30/2013,FBS,Samford,Georgia State,RUSHING,Fabian,Truss,YDS,78
+22003,8/30/2013,FBS,Samford,Georgia State,RUSHING,Fabian,Truss,TD,1
+22004,8/30/2013,FBS,Samford,Georgia State,RUSHING,Fabian,Truss,LONG,10
+22005,8/30/2013,FBS,Samford,Georgia State,RUSHING,D'Morrise,Bledsoe,ATT,5
+22006,8/30/2013,FBS,Samford,Georgia State,RUSHING,D'Morrise,Bledsoe,YDS,14
+22007,8/30/2013,FBS,Samford,Georgia State,RUSHING,D'Morrise,Bledsoe,TD,0
+22008,8/30/2013,FBS,Samford,Georgia State,RUSHING,D'Morrise,Bledsoe,LONG,7
+22009,8/30/2013,FBS,Samford,Georgia State,RUSHING,Stanley,Robinson,ATT,2
+22010,8/30/2013,FBS,Samford,Georgia State,RUSHING,Stanley,Robinson,YDS,13
+22011,8/30/2013,FBS,Samford,Georgia State,RUSHING,Stanley,Robinson,TD,0
+22012,8/30/2013,FBS,Samford,Georgia State,RUSHING,Stanley,Robinson,LONG,9
+22013,8/30/2013,FBS,Samford,Georgia State,RUSHING,Andy,Summerlin,ATT,3
+22014,8/30/2013,FBS,Samford,Georgia State,RUSHING,Andy,Summerlin,YDS,0
+22015,8/30/2013,FBS,Samford,Georgia State,RUSHING,Andy,Summerlin,TD,0
+22016,8/30/2013,FBS,Samford,Georgia State,RUSHING,Andy,Summerlin,LONG,6
+22017,8/30/2013,FBS,Samford,Georgia State,PASSING,Andy,Summerlin,CP-ATT-INT,19-31-1
+22018,8/30/2013,FBS,Samford,Georgia State,PASSING,Andy,Summerlin,YDS,193
+22019,8/30/2013,FBS,Samford,Georgia State,PASSING,Andy,Summerlin,TD,1
+22020,8/30/2013,FBS,Samford,Georgia State,PASSING,Andy,Summerlin,LONG,31
+22021,8/30/2013,FBS,Samford,Georgia State,RECEIVING,Emmanuel,Obajimi,REC,4
+22022,8/30/2013,FBS,Samford,Georgia State,RECEIVING,Emmanuel,Obajimi,YDS,37
+22023,8/30/2013,FBS,Samford,Georgia State,RECEIVING,Emmanuel,Obajimi,TD,0
+22024,8/30/2013,FBS,Samford,Georgia State,RECEIVING,Emmanuel,Obajimi,LONG,12
+22025,8/30/2013,FBS,Samford,Georgia State,RECEIVING,Fabian,Truss,REC,4
+22026,8/30/2013,FBS,Samford,Georgia State,RECEIVING,Fabian,Truss,YDS,16
+22027,8/30/2013,FBS,Samford,Georgia State,RECEIVING,Fabian,Truss,TD,0
+22028,8/30/2013,FBS,Samford,Georgia State,RECEIVING,Fabian,Truss,LONG,6
+22029,8/30/2013,FBS,Samford,Georgia State,RECEIVING,Karel,Hamilton,REC,2
+22030,8/30/2013,FBS,Samford,Georgia State,RECEIVING,Karel,Hamilton,YDS,48
+22031,8/30/2013,FBS,Samford,Georgia State,RECEIVING,Karel,Hamilton,TD,1
+22032,8/30/2013,FBS,Samford,Georgia State,RECEIVING,Karel,Hamilton,LONG,31
+22033,8/30/2013,FBS,Samford,Georgia State,RECEIVING,Zeke,Walters,REC,2
+22034,8/30/2013,FBS,Samford,Georgia State,RECEIVING,Zeke,Walters,YDS,35
+22035,8/30/2013,FBS,Samford,Georgia State,RECEIVING,Zeke,Walters,TD,0
+22036,8/30/2013,FBS,Samford,Georgia State,RECEIVING,Zeke,Walters,LONG,26
+22037,8/30/2013,FBS,Samford,Georgia State,RECEIVING,Stanley,Robinson,REC,2
+22038,8/30/2013,FBS,Samford,Georgia State,RECEIVING,Stanley,Robinson,YDS,3
+22039,8/30/2013,FBS,Samford,Georgia State,RECEIVING,Stanley,Robinson,TD,0
+22040,8/30/2013,FBS,Samford,Georgia State,RECEIVING,Stanley,Robinson,LONG,6
+22041,8/30/2013,FBS,Samford,Georgia State,RECEIVING,Chris,Cephus,REC,1
+22042,8/30/2013,FBS,Samford,Georgia State,RECEIVING,Chris,Cephus,YDS,21
+22043,8/30/2013,FBS,Samford,Georgia State,RECEIVING,Chris,Cephus,TD,0
+22044,8/30/2013,FBS,Samford,Georgia State,RECEIVING,Chris,Cephus,LONG,21
+22045,8/30/2013,FBS,Samford,Georgia State,RECEIVING,JaUan,Davis,REC,1
+22046,8/30/2013,FBS,Samford,Georgia State,RECEIVING,JaUan,Davis,YDS,17
+22047,8/30/2013,FBS,Samford,Georgia State,RECEIVING,JaUan,Davis,TD,0
+22048,8/30/2013,FBS,Samford,Georgia State,RECEIVING,JaUan,Davis,LONG,17
+22049,8/30/2013,FBS,Samford,Georgia State,RECEIVING,Gavin,Sinclair,REC,1
+22050,8/30/2013,FBS,Samford,Georgia State,RECEIVING,Gavin,Sinclair,YDS,15
+22051,8/30/2013,FBS,Samford,Georgia State,RECEIVING,Gavin,Sinclair,TD,0
+22052,8/30/2013,FBS,Samford,Georgia State,RECEIVING,Gavin,Sinclair,LONG,15
+22053,8/30/2013,FBS,Samford,Georgia State,RECEIVING,D'Morrise,Bledsoe,REC,1
+22054,8/30/2013,FBS,Samford,Georgia State,RECEIVING,D'Morrise,Bledsoe,YDS,3
+22055,8/30/2013,FBS,Samford,Georgia State,RECEIVING,D'Morrise,Bledsoe,TD,0
+22056,8/30/2013,FBS,Samford,Georgia State,RECEIVING,D'Morrise,Bledsoe,LONG,3
+22057,8/30/2013,FBS,Samford,Georgia State,RECEIVING,Kelsey,Pope,REC,1
+22058,8/30/2013,FBS,Samford,Georgia State,RECEIVING,Kelsey,Pope,YDS,-2
+22059,8/30/2013,FBS,Samford,Georgia State,RECEIVING,Kelsey,Pope,TD,0
+22060,8/30/2013,FBS,Samford,Georgia State,RECEIVING,Kelsey,Pope,LONG,0
+22061,8/30/2013,FBS,Samford,Georgia State,KICKING,Warren,Handrahan,FG-FGA,1/2
+22062,8/30/2013,FBS,Samford,Georgia State,KICKING,Warren,Handrahan,LONG,48
+22063,8/30/2013,FBS,Samford,Georgia State,KICKING,Warren,Handrahan,XP,4
+22064,8/30/2013,FBS,Samford,Georgia State,KICKING,Warren,Handrahan,PTS,7
+22065,8/30/2013,FBS,Samford,Georgia State,PUNTING,Greg,Peranich,NO,7
+22066,8/30/2013,FBS,Samford,Georgia State,PUNTING,Greg,Peranich,YDS,282
+22067,8/30/2013,FBS,Samford,Georgia State,PUNTING,Greg,Peranich,AVG,40.3
+22068,8/30/2013,FBS,Samford,Georgia State,PUNTING,Greg,Peranich,LONG,47
+22069,8/30/2013,FBS,Samford,Georgia State,PUNT RETURNS,Fabian,Truss,NO,2
+22070,8/30/2013,FBS,Samford,Georgia State,PUNT RETURNS,Fabian,Truss,YDS,53
+22071,8/30/2013,FBS,Samford,Georgia State,PUNT RETURNS,Fabian,Truss,AVG,26.5
+22072,8/30/2013,FBS,Samford,Georgia State,PUNT RETURNS,Fabian,Truss,LONG,46
+22073,8/30/2013,FBS,Samford,Georgia State,KICK RETURNS,Fabian,Truss,NO,3
+22074,8/30/2013,FBS,Samford,Georgia State,KICK RETURNS,Fabian,Truss,YDS,149
+22075,8/30/2013,FBS,Samford,Georgia State,KICK RETURNS,Fabian,Truss,AVG,49.7
+22076,8/30/2013,FBS,Samford,Georgia State,KICK RETURNS,Fabian,Truss,LONG,100
+22077,8/30/2013,FBS,Samford,Georgia State,KICK RETURNS,Jeremiaha,Gates,NO,1
+22078,8/30/2013,FBS,Samford,Georgia State,KICK RETURNS,Jeremiaha,Gates,YDS,0
+22079,8/30/2013,FBS,Samford,Georgia State,KICK RETURNS,Jeremiaha,Gates,AVG,0.0
+22080,8/30/2013,FBS,Samford,Georgia State,KICK RETURNS,Jeremiaha,Gates,LONG,0
+22081,8/30/2013,FBS,Georgia State,Samford,RUSHING,Gerald,Howse,ATT,14
+22082,8/30/2013,FBS,Georgia State,Samford,RUSHING,Gerald,Howse,YDS,29
+22083,8/30/2013,FBS,Georgia State,Samford,RUSHING,Gerald,Howse,TD,0
+22084,8/30/2013,FBS,Georgia State,Samford,RUSHING,Gerald,Howse,LONG,6
+22085,8/30/2013,FBS,Georgia State,Samford,RUSHING,Kelton,Hill,ATT,2
+22086,8/30/2013,FBS,Georgia State,Samford,RUSHING,Kelton,Hill,YDS,28
+22087,8/30/2013,FBS,Georgia State,Samford,RUSHING,Kelton,Hill,TD,0
+22088,8/30/2013,FBS,Georgia State,Samford,RUSHING,Kelton,Hill,LONG,23
+22089,8/30/2013,FBS,Georgia State,Samford,RUSHING,Duvall,Smith,ATT,3
+22090,8/30/2013,FBS,Georgia State,Samford,RUSHING,Duvall,Smith,YDS,9
+22091,8/30/2013,FBS,Georgia State,Samford,RUSHING,Duvall,Smith,TD,0
+22092,8/30/2013,FBS,Georgia State,Samford,RUSHING,Duvall,Smith,LONG,8
+22093,8/30/2013,FBS,Georgia State,Samford,RUSHING,Albert,Wilson,ATT,3
+22094,8/30/2013,FBS,Georgia State,Samford,RUSHING,Albert,Wilson,YDS,3
+22095,8/30/2013,FBS,Georgia State,Samford,RUSHING,Albert,Wilson,TD,0
+22096,8/30/2013,FBS,Georgia State,Samford,RUSHING,Albert,Wilson,LONG,2
+22097,8/30/2013,FBS,Georgia State,Samford,RUSHING,Ronnie,Bell,ATT,3
+22098,8/30/2013,FBS,Georgia State,Samford,RUSHING,Ronnie,Bell,YDS,3
+22099,8/30/2013,FBS,Georgia State,Samford,RUSHING,Ronnie,Bell,TD,0
+22100,8/30/2013,FBS,Georgia State,Samford,RUSHING,Ronnie,Bell,LONG,7
+22101,8/30/2013,FBS,Georgia State,Samford,PASSING,Ronnie,Bell,CP-ATT-INT,28-51-2
+22102,8/30/2013,FBS,Georgia State,Samford,PASSING,Ronnie,Bell,YDS,391
+22103,8/30/2013,FBS,Georgia State,Samford,PASSING,Ronnie,Bell,TD,3
+22104,8/30/2013,FBS,Georgia State,Samford,PASSING,Ronnie,Bell,LONG,44
+22105,8/30/2013,FBS,Georgia State,Samford,RECEIVING,Albert,Wilson,REC,8
+22106,8/30/2013,FBS,Georgia State,Samford,RECEIVING,Albert,Wilson,YDS,167
+22107,8/30/2013,FBS,Georgia State,Samford,RECEIVING,Albert,Wilson,TD,1
+22108,8/30/2013,FBS,Georgia State,Samford,RECEIVING,Albert,Wilson,LONG,44
+22109,8/30/2013,FBS,Georgia State,Samford,RECEIVING,Robert,Davis,REC,7
+22110,8/30/2013,FBS,Georgia State,Samford,RECEIVING,Robert,Davis,YDS,66
+22111,8/30/2013,FBS,Georgia State,Samford,RECEIVING,Robert,Davis,TD,0
+22112,8/30/2013,FBS,Georgia State,Samford,RECEIVING,Robert,Davis,LONG,15
+22113,8/30/2013,FBS,Georgia State,Samford,RECEIVING,Kelton,Hill,REC,5
+22114,8/30/2013,FBS,Georgia State,Samford,RECEIVING,Kelton,Hill,YDS,54
+22115,8/30/2013,FBS,Georgia State,Samford,RECEIVING,Kelton,Hill,TD,2
+22116,8/30/2013,FBS,Georgia State,Samford,RECEIVING,Kelton,Hill,LONG,21
+22117,8/30/2013,FBS,Georgia State,Samford,RECEIVING,Danny,Williams,REC,3
+22118,8/30/2013,FBS,Georgia State,Samford,RECEIVING,Danny,Williams,YDS,59
+22119,8/30/2013,FBS,Georgia State,Samford,RECEIVING,Danny,Williams,TD,0
+22120,8/30/2013,FBS,Georgia State,Samford,RECEIVING,Danny,Williams,LONG,40
+22121,8/30/2013,FBS,Georgia State,Samford,RECEIVING,Sean,Jeppesen,REC,2
+22122,8/30/2013,FBS,Georgia State,Samford,RECEIVING,Sean,Jeppesen,YDS,23
+22123,8/30/2013,FBS,Georgia State,Samford,RECEIVING,Sean,Jeppesen,TD,0
+22124,8/30/2013,FBS,Georgia State,Samford,RECEIVING,Sean,Jeppesen,LONG,16
+22125,8/30/2013,FBS,Georgia State,Samford,RECEIVING,Duvall,Smith,REC,2
+22126,8/30/2013,FBS,Georgia State,Samford,RECEIVING,Duvall,Smith,YDS,14
+22127,8/30/2013,FBS,Georgia State,Samford,RECEIVING,Duvall,Smith,TD,0
+22128,8/30/2013,FBS,Georgia State,Samford,RECEIVING,Duvall,Smith,LONG,9
+22129,8/30/2013,FBS,Georgia State,Samford,RECEIVING,Keith,Rucker,REC,1
+22130,8/30/2013,FBS,Georgia State,Samford,RECEIVING,Keith,Rucker,YDS,8
+22131,8/30/2013,FBS,Georgia State,Samford,RECEIVING,Keith,Rucker,TD,0
+22132,8/30/2013,FBS,Georgia State,Samford,RECEIVING,Keith,Rucker,LONG,8
+22133,8/30/2013,FBS,Georgia State,Samford,KICKING,Wil,Lutz,FG-FGA,0/0
+22134,8/30/2013,FBS,Georgia State,Samford,KICKING,Wil,Lutz,LONG,-
+22135,8/30/2013,FBS,Georgia State,Samford,KICKING,Wil,Lutz,XP,3
+22136,8/30/2013,FBS,Georgia State,Samford,KICKING,Wil,Lutz,PTS,3
+22137,8/30/2013,FBS,Georgia State,Samford,PUNTING,Matt,Hubbard,NO,8
+22138,8/30/2013,FBS,Georgia State,Samford,PUNTING,Matt,Hubbard,YDS,312
+22139,8/30/2013,FBS,Georgia State,Samford,PUNTING,Matt,Hubbard,AVG,39.0
+22140,8/30/2013,FBS,Georgia State,Samford,PUNTING,Matt,Hubbard,LONG,54
+22141,8/30/2013,FBS,Georgia State,Samford,PUNTING,,Team,NO,1
+22142,8/30/2013,FBS,Georgia State,Samford,PUNTING,,Team,YDS,11
+22143,8/30/2013,FBS,Georgia State,Samford,PUNTING,,Team,AVG,11.0
+22144,8/30/2013,FBS,Georgia State,Samford,PUNTING,,Team,LONG,11
+22145,8/30/2013,FBS,Georgia State,Samford,PUNT RETURNS,Albert,Wilson,NO,1
+22146,8/30/2013,FBS,Georgia State,Samford,PUNT RETURNS,Albert,Wilson,YDS,4
+22147,8/30/2013,FBS,Georgia State,Samford,PUNT RETURNS,Albert,Wilson,AVG,4.0
+22148,8/30/2013,FBS,Georgia State,Samford,PUNT RETURNS,Albert,Wilson,LONG,4
+22149,8/30/2013,FBS,Georgia State,Samford,KICK RETURNS,Albert,Wilson,NO,3
+22150,8/30/2013,FBS,Georgia State,Samford,KICK RETURNS,Albert,Wilson,YDS,60
+22151,8/30/2013,FBS,Georgia State,Samford,KICK RETURNS,Albert,Wilson,AVG,20.0
+22152,8/30/2013,FBS,Georgia State,Samford,KICK RETURNS,Albert,Wilson,LONG,25
+22153,8/30/2013,FBS,Georgia State,Samford,KICK RETURNS,Kelton,Hill,NO,2
+22154,8/30/2013,FBS,Georgia State,Samford,KICK RETURNS,Kelton,Hill,YDS,31
+22155,8/30/2013,FBS,Georgia State,Samford,KICK RETURNS,Kelton,Hill,AVG,15.5
+22156,8/30/2013,FBS,Georgia State,Samford,KICK RETURNS,Kelton,Hill,LONG,19

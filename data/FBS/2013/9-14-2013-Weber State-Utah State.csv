@@ -1,0 +1,205 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+209001,9/14/2013,FBS,Weber State,Utah State,RUSHING,Josh,Booker,ATT,15
+209002,9/14/2013,FBS,Weber State,Utah State,RUSHING,Josh,Booker,YDS,45
+209003,9/14/2013,FBS,Weber State,Utah State,RUSHING,Josh,Booker,TD,0
+209004,9/14/2013,FBS,Weber State,Utah State,RUSHING,Josh,Booker,LONG,15
+209005,9/14/2013,FBS,Weber State,Utah State,RUSHING,Austin,Chipoletti,ATT,9
+209006,9/14/2013,FBS,Weber State,Utah State,RUSHING,Austin,Chipoletti,YDS,28
+209007,9/14/2013,FBS,Weber State,Utah State,RUSHING,Austin,Chipoletti,TD,0
+209008,9/14/2013,FBS,Weber State,Utah State,RUSHING,Austin,Chipoletti,LONG,7
+209009,9/14/2013,FBS,Weber State,Utah State,RUSHING,Jadrian,Clark,ATT,2
+209010,9/14/2013,FBS,Weber State,Utah State,RUSHING,Jadrian,Clark,YDS,16
+209011,9/14/2013,FBS,Weber State,Utah State,RUSHING,Jadrian,Clark,TD,0
+209012,9/14/2013,FBS,Weber State,Utah State,RUSHING,Jadrian,Clark,LONG,13
+209013,9/14/2013,FBS,Weber State,Utah State,RUSHING,Cody,Raymond,ATT,1
+209014,9/14/2013,FBS,Weber State,Utah State,RUSHING,Cody,Raymond,YDS,12
+209015,9/14/2013,FBS,Weber State,Utah State,RUSHING,Cody,Raymond,TD,0
+209016,9/14/2013,FBS,Weber State,Utah State,RUSHING,Cody,Raymond,LONG,12
+209017,9/14/2013,FBS,Weber State,Utah State,RUSHING,Zach,Smith,ATT,4
+209018,9/14/2013,FBS,Weber State,Utah State,RUSHING,Zach,Smith,YDS,5
+209019,9/14/2013,FBS,Weber State,Utah State,RUSHING,Zach,Smith,TD,0
+209020,9/14/2013,FBS,Weber State,Utah State,RUSHING,Zach,Smith,LONG,4
+209021,9/14/2013,FBS,Weber State,Utah State,RUSHING,Bo,Bolen,ATT,2
+209022,9/14/2013,FBS,Weber State,Utah State,RUSHING,Bo,Bolen,YDS,-2
+209023,9/14/2013,FBS,Weber State,Utah State,RUSHING,Bo,Bolen,TD,0
+209024,9/14/2013,FBS,Weber State,Utah State,RUSHING,Bo,Bolen,LONG,3
+209025,9/14/2013,FBS,Weber State,Utah State,PASSING,Austin,Chipoletti,CP-ATT-INT,12-20-0
+209026,9/14/2013,FBS,Weber State,Utah State,PASSING,Austin,Chipoletti,YDS,34
+209027,9/14/2013,FBS,Weber State,Utah State,PASSING,Austin,Chipoletti,TD,0
+209028,9/14/2013,FBS,Weber State,Utah State,PASSING,Austin,Chipoletti,LONG,16
+209029,9/14/2013,FBS,Weber State,Utah State,PASSING,Jadrian,Clark,CP-ATT-INT,0-2-0
+209030,9/14/2013,FBS,Weber State,Utah State,PASSING,Jadrian,Clark,YDS,0
+209031,9/14/2013,FBS,Weber State,Utah State,PASSING,Jadrian,Clark,TD,0
+209032,9/14/2013,FBS,Weber State,Utah State,PASSING,Jadrian,Clark,LONG,0
+209033,9/14/2013,FBS,Weber State,Utah State,PASSING,,Team,CP-ATT-INT,0-1-0
+209034,9/14/2013,FBS,Weber State,Utah State,PASSING,,Team,YDS,0
+209035,9/14/2013,FBS,Weber State,Utah State,PASSING,,Team,TD,0
+209036,9/14/2013,FBS,Weber State,Utah State,PASSING,,Team,LONG,0
+209037,9/14/2013,FBS,Weber State,Utah State,RECEIVING,Josh,Booker,REC,4
+209038,9/14/2013,FBS,Weber State,Utah State,RECEIVING,Josh,Booker,YDS,-2
+209039,9/14/2013,FBS,Weber State,Utah State,RECEIVING,Josh,Booker,TD,0
+209040,9/14/2013,FBS,Weber State,Utah State,RECEIVING,Josh,Booker,LONG,6
+209041,9/14/2013,FBS,Weber State,Utah State,RECEIVING,Erik,Walker,REC,3
+209042,9/14/2013,FBS,Weber State,Utah State,RECEIVING,Erik,Walker,YDS,7
+209043,9/14/2013,FBS,Weber State,Utah State,RECEIVING,Erik,Walker,TD,0
+209044,9/14/2013,FBS,Weber State,Utah State,RECEIVING,Erik,Walker,LONG,9
+209045,9/14/2013,FBS,Weber State,Utah State,RECEIVING,Cameron,Livingston,REC,1
+209046,9/14/2013,FBS,Weber State,Utah State,RECEIVING,Cameron,Livingston,YDS,16
+209047,9/14/2013,FBS,Weber State,Utah State,RECEIVING,Cameron,Livingston,TD,0
+209048,9/14/2013,FBS,Weber State,Utah State,RECEIVING,Cameron,Livingston,LONG,16
+209049,9/14/2013,FBS,Weber State,Utah State,RECEIVING,Helam,Heimuli,REC,1
+209050,9/14/2013,FBS,Weber State,Utah State,RECEIVING,Helam,Heimuli,YDS,7
+209051,9/14/2013,FBS,Weber State,Utah State,RECEIVING,Helam,Heimuli,TD,0
+209052,9/14/2013,FBS,Weber State,Utah State,RECEIVING,Helam,Heimuli,LONG,7
+209053,9/14/2013,FBS,Weber State,Utah State,RECEIVING,Jake,Kahawaii,REC,1
+209054,9/14/2013,FBS,Weber State,Utah State,RECEIVING,Jake,Kahawaii,YDS,4
+209055,9/14/2013,FBS,Weber State,Utah State,RECEIVING,Jake,Kahawaii,TD,0
+209056,9/14/2013,FBS,Weber State,Utah State,RECEIVING,Jake,Kahawaii,LONG,4
+209057,9/14/2013,FBS,Weber State,Utah State,RECEIVING,Kela,Marciel,REC,1
+209058,9/14/2013,FBS,Weber State,Utah State,RECEIVING,Kela,Marciel,YDS,2
+209059,9/14/2013,FBS,Weber State,Utah State,RECEIVING,Kela,Marciel,TD,0
+209060,9/14/2013,FBS,Weber State,Utah State,RECEIVING,Kela,Marciel,LONG,2
+209061,9/14/2013,FBS,Weber State,Utah State,RECEIVING,Braden,Corpus,REC,1
+209062,9/14/2013,FBS,Weber State,Utah State,RECEIVING,Braden,Corpus,YDS,0
+209063,9/14/2013,FBS,Weber State,Utah State,RECEIVING,Braden,Corpus,TD,0
+209064,9/14/2013,FBS,Weber State,Utah State,RECEIVING,Braden,Corpus,LONG,0
+209065,9/14/2013,FBS,Weber State,Utah State,KICKING,Carson,Fackrell,FG-FGA,0/0
+209066,9/14/2013,FBS,Weber State,Utah State,KICKING,Carson,Fackrell,LONG,-
+209067,9/14/2013,FBS,Weber State,Utah State,KICKING,Carson,Fackrell,XP,0
+209068,9/14/2013,FBS,Weber State,Utah State,KICKING,Carson,Fackrell,PTS,0
+209069,9/14/2013,FBS,Weber State,Utah State,PUNTING,Tony,Epperson,NO,12
+209070,9/14/2013,FBS,Weber State,Utah State,PUNTING,Tony,Epperson,YDS,479
+209071,9/14/2013,FBS,Weber State,Utah State,PUNTING,Tony,Epperson,AVG,39.9
+209072,9/14/2013,FBS,Weber State,Utah State,PUNTING,Tony,Epperson,LONG,49
+209073,9/14/2013,FBS,Weber State,Utah State,KICK RETURNS,Cordero,Dixon,NO,4
+209074,9/14/2013,FBS,Weber State,Utah State,KICK RETURNS,Cordero,Dixon,YDS,73
+209075,9/14/2013,FBS,Weber State,Utah State,KICK RETURNS,Cordero,Dixon,AVG,18.2
+209076,9/14/2013,FBS,Weber State,Utah State,KICK RETURNS,Cordero,Dixon,LONG,21
+209077,9/14/2013,FBS,Weber State,Utah State,KICK RETURNS,A.J.,Coney,NO,1
+209078,9/14/2013,FBS,Weber State,Utah State,KICK RETURNS,A.J.,Coney,YDS,17
+209079,9/14/2013,FBS,Weber State,Utah State,KICK RETURNS,A.J.,Coney,AVG,17.0
+209080,9/14/2013,FBS,Weber State,Utah State,KICK RETURNS,A.J.,Coney,LONG,17
+209081,9/14/2013,FBS,Weber State,Utah State,KICK RETURNS,Bo,Bolen,NO,1
+209082,9/14/2013,FBS,Weber State,Utah State,KICK RETURNS,Bo,Bolen,YDS,15
+209083,9/14/2013,FBS,Weber State,Utah State,KICK RETURNS,Bo,Bolen,AVG,15.0
+209084,9/14/2013,FBS,Weber State,Utah State,KICK RETURNS,Bo,Bolen,LONG,15
+209085,9/14/2013,FBS,Weber State,Utah State,KICK RETURNS,Zach,Smith,NO,1
+209086,9/14/2013,FBS,Weber State,Utah State,KICK RETURNS,Zach,Smith,YDS,-8
+209087,9/14/2013,FBS,Weber State,Utah State,KICK RETURNS,Zach,Smith,AVG,-8.0
+209088,9/14/2013,FBS,Weber State,Utah State,KICK RETURNS,Zach,Smith,LONG,0
+209089,9/14/2013,FBS,Utah State,Weber State,RUSHING,Joey,DeMartino,ATT,8
+209090,9/14/2013,FBS,Utah State,Weber State,RUSHING,Joey,DeMartino,YDS,105
+209091,9/14/2013,FBS,Utah State,Weber State,RUSHING,Joey,DeMartino,TD,3
+209092,9/14/2013,FBS,Utah State,Weber State,RUSHING,Joey,DeMartino,LONG,60
+209093,9/14/2013,FBS,Utah State,Weber State,RUSHING,Joe,Hill,ATT,12
+209094,9/14/2013,FBS,Utah State,Weber State,RUSHING,Joe,Hill,YDS,63
+209095,9/14/2013,FBS,Utah State,Weber State,RUSHING,Joe,Hill,TD,0
+209096,9/14/2013,FBS,Utah State,Weber State,RUSHING,Joe,Hill,LONG,20
+209097,9/14/2013,FBS,Utah State,Weber State,RUSHING,Robert,Marshall,ATT,9
+209098,9/14/2013,FBS,Utah State,Weber State,RUSHING,Robert,Marshall,YDS,57
+209099,9/14/2013,FBS,Utah State,Weber State,RUSHING,Robert,Marshall,TD,1
+209100,9/14/2013,FBS,Utah State,Weber State,RUSHING,Robert,Marshall,LONG,35
+209101,9/14/2013,FBS,Utah State,Weber State,RUSHING,Kelvin,Lee,ATT,4
+209102,9/14/2013,FBS,Utah State,Weber State,RUSHING,Kelvin,Lee,YDS,26
+209103,9/14/2013,FBS,Utah State,Weber State,RUSHING,Kelvin,Lee,TD,0
+209104,9/14/2013,FBS,Utah State,Weber State,RUSHING,Kelvin,Lee,LONG,19
+209105,9/14/2013,FBS,Utah State,Weber State,RUSHING,Chuckie,Keeton,ATT,5
+209106,9/14/2013,FBS,Utah State,Weber State,RUSHING,Chuckie,Keeton,YDS,25
+209107,9/14/2013,FBS,Utah State,Weber State,RUSHING,Chuckie,Keeton,TD,0
+209108,9/14/2013,FBS,Utah State,Weber State,RUSHING,Chuckie,Keeton,LONG,9
+209109,9/14/2013,FBS,Utah State,Weber State,RUSHING,Kennedy,Williams,ATT,3
+209110,9/14/2013,FBS,Utah State,Weber State,RUSHING,Kennedy,Williams,YDS,13
+209111,9/14/2013,FBS,Utah State,Weber State,RUSHING,Kennedy,Williams,TD,0
+209112,9/14/2013,FBS,Utah State,Weber State,RUSHING,Kennedy,Williams,LONG,6
+209113,9/14/2013,FBS,Utah State,Weber State,RUSHING,Craig,Harrison,ATT,1
+209114,9/14/2013,FBS,Utah State,Weber State,RUSHING,Craig,Harrison,YDS,5
+209115,9/14/2013,FBS,Utah State,Weber State,RUSHING,Craig,Harrison,TD,0
+209116,9/14/2013,FBS,Utah State,Weber State,RUSHING,Craig,Harrison,LONG,5
+209117,9/14/2013,FBS,Utah State,Weber State,RUSHING,Jeff,Manning,ATT,3
+209118,9/14/2013,FBS,Utah State,Weber State,RUSHING,Jeff,Manning,YDS,1
+209119,9/14/2013,FBS,Utah State,Weber State,RUSHING,Jeff,Manning,TD,0
+209120,9/14/2013,FBS,Utah State,Weber State,RUSHING,Jeff,Manning,LONG,2
+209121,9/14/2013,FBS,Utah State,Weber State,RUSHING,Paul,Clark,ATT,1
+209122,9/14/2013,FBS,Utah State,Weber State,RUSHING,Paul,Clark,YDS,1
+209123,9/14/2013,FBS,Utah State,Weber State,RUSHING,Paul,Clark,TD,0
+209124,9/14/2013,FBS,Utah State,Weber State,RUSHING,Paul,Clark,LONG,1
+209125,9/14/2013,FBS,Utah State,Weber State,RUSHING,,Team,ATT,2
+209126,9/14/2013,FBS,Utah State,Weber State,RUSHING,,Team,YDS,-29
+209127,9/14/2013,FBS,Utah State,Weber State,RUSHING,,Team,TD,0
+209128,9/14/2013,FBS,Utah State,Weber State,RUSHING,,Team,LONG,0
+209129,9/14/2013,FBS,Utah State,Weber State,PASSING,Chuckie,Keeton,CP-ATT-INT,19-25-0
+209130,9/14/2013,FBS,Utah State,Weber State,PASSING,Chuckie,Keeton,YDS,249
+209131,9/14/2013,FBS,Utah State,Weber State,PASSING,Chuckie,Keeton,TD,5
+209132,9/14/2013,FBS,Utah State,Weber State,PASSING,Chuckie,Keeton,LONG,40
+209133,9/14/2013,FBS,Utah State,Weber State,PASSING,Craig,Harrison,CP-ATT-INT,4-4-0
+209134,9/14/2013,FBS,Utah State,Weber State,PASSING,Craig,Harrison,YDS,71
+209135,9/14/2013,FBS,Utah State,Weber State,PASSING,Craig,Harrison,TD,1
+209136,9/14/2013,FBS,Utah State,Weber State,PASSING,Craig,Harrison,LONG,56
+209137,9/14/2013,FBS,Utah State,Weber State,RECEIVING,Bruce,Natson,REC,5
+209138,9/14/2013,FBS,Utah State,Weber State,RECEIVING,Bruce,Natson,YDS,35
+209139,9/14/2013,FBS,Utah State,Weber State,RECEIVING,Bruce,Natson,TD,0
+209140,9/14/2013,FBS,Utah State,Weber State,RECEIVING,Bruce,Natson,LONG,27
+209141,9/14/2013,FBS,Utah State,Weber State,RECEIVING,Shaan,Johnson,REC,4
+209142,9/14/2013,FBS,Utah State,Weber State,RECEIVING,Shaan,Johnson,YDS,48
+209143,9/14/2013,FBS,Utah State,Weber State,RECEIVING,Shaan,Johnson,TD,0
+209144,9/14/2013,FBS,Utah State,Weber State,RECEIVING,Shaan,Johnson,LONG,34
+209145,9/14/2013,FBS,Utah State,Weber State,RECEIVING,D.J.,Tialavea,REC,3
+209146,9/14/2013,FBS,Utah State,Weber State,RECEIVING,D.J.,Tialavea,YDS,18
+209147,9/14/2013,FBS,Utah State,Weber State,RECEIVING,D.J.,Tialavea,TD,2
+209148,9/14/2013,FBS,Utah State,Weber State,RECEIVING,D.J.,Tialavea,LONG,8
+209149,9/14/2013,FBS,Utah State,Weber State,RECEIVING,Travis,Reynolds,REC,2
+209150,9/14/2013,FBS,Utah State,Weber State,RECEIVING,Travis,Reynolds,YDS,71
+209151,9/14/2013,FBS,Utah State,Weber State,RECEIVING,Travis,Reynolds,TD,1
+209152,9/14/2013,FBS,Utah State,Weber State,RECEIVING,Travis,Reynolds,LONG,39
+209153,9/14/2013,FBS,Utah State,Weber State,RECEIVING,Travis,VanLeeuwen,REC,2
+209154,9/14/2013,FBS,Utah State,Weber State,RECEIVING,Travis,VanLeeuwen,YDS,49
+209155,9/14/2013,FBS,Utah State,Weber State,RECEIVING,Travis,VanLeeuwen,TD,0
+209156,9/14/2013,FBS,Utah State,Weber State,RECEIVING,Travis,VanLeeuwen,LONG,40
+209157,9/14/2013,FBS,Utah State,Weber State,RECEIVING,Ronald,Butler,REC,2
+209158,9/14/2013,FBS,Utah State,Weber State,RECEIVING,Ronald,Butler,YDS,21
+209159,9/14/2013,FBS,Utah State,Weber State,RECEIVING,Ronald,Butler,TD,1
+209160,9/14/2013,FBS,Utah State,Weber State,RECEIVING,Ronald,Butler,LONG,15
+209161,9/14/2013,FBS,Utah State,Weber State,RECEIVING,Brandon,Swindall,REC,2
+209162,9/14/2013,FBS,Utah State,Weber State,RECEIVING,Brandon,Swindall,YDS,9
+209163,9/14/2013,FBS,Utah State,Weber State,RECEIVING,Brandon,Swindall,TD,0
+209164,9/14/2013,FBS,Utah State,Weber State,RECEIVING,Brandon,Swindall,LONG,5
+209165,9/14/2013,FBS,Utah State,Weber State,RECEIVING,Keegan,Andersen,REC,1
+209166,9/14/2013,FBS,Utah State,Weber State,RECEIVING,Keegan,Andersen,YDS,56
+209167,9/14/2013,FBS,Utah State,Weber State,RECEIVING,Keegan,Andersen,TD,1
+209168,9/14/2013,FBS,Utah State,Weber State,RECEIVING,Keegan,Andersen,LONG,56
+209169,9/14/2013,FBS,Utah State,Weber State,RECEIVING,Alex,WheatJr.,REC,1
+209170,9/14/2013,FBS,Utah State,Weber State,RECEIVING,Alex,WheatJr.,YDS,9
+209171,9/14/2013,FBS,Utah State,Weber State,RECEIVING,Alex,WheatJr.,TD,0
+209172,9/14/2013,FBS,Utah State,Weber State,RECEIVING,Alex,WheatJr.,LONG,9
+209173,9/14/2013,FBS,Utah State,Weber State,RECEIVING,Kyler,Fackrell,REC,1
+209174,9/14/2013,FBS,Utah State,Weber State,RECEIVING,Kyler,Fackrell,YDS,4
+209175,9/14/2013,FBS,Utah State,Weber State,RECEIVING,Kyler,Fackrell,TD,1
+209176,9/14/2013,FBS,Utah State,Weber State,RECEIVING,Kyler,Fackrell,LONG,4
+209177,9/14/2013,FBS,Utah State,Weber State,KICKING,Nick,Diaz,FG-FGA,0/0
+209178,9/14/2013,FBS,Utah State,Weber State,KICKING,Nick,Diaz,LONG,-
+209179,9/14/2013,FBS,Utah State,Weber State,KICKING,Nick,Diaz,XP,8
+209180,9/14/2013,FBS,Utah State,Weber State,KICKING,Nick,Diaz,PTS,8
+209181,9/14/2013,FBS,Utah State,Weber State,KICKING,Josh,Thompson,FG-FGA,0/0
+209182,9/14/2013,FBS,Utah State,Weber State,KICKING,Josh,Thompson,LONG,-
+209183,9/14/2013,FBS,Utah State,Weber State,KICKING,Josh,Thompson,XP,2
+209184,9/14/2013,FBS,Utah State,Weber State,KICKING,Josh,Thompson,PTS,2
+209185,9/14/2013,FBS,Utah State,Weber State,PUNTING,Jaron,Bentrude,NO,2
+209186,9/14/2013,FBS,Utah State,Weber State,PUNTING,Jaron,Bentrude,YDS,82
+209187,9/14/2013,FBS,Utah State,Weber State,PUNTING,Jaron,Bentrude,AVG,41.0
+209188,9/14/2013,FBS,Utah State,Weber State,PUNTING,Jaron,Bentrude,LONG,44
+209189,9/14/2013,FBS,Utah State,Weber State,PUNT RETURNS,Bruce,Natson,NO,4
+209190,9/14/2013,FBS,Utah State,Weber State,PUNT RETURNS,Bruce,Natson,YDS,54
+209191,9/14/2013,FBS,Utah State,Weber State,PUNT RETURNS,Bruce,Natson,AVG,13.5
+209192,9/14/2013,FBS,Utah State,Weber State,PUNT RETURNS,Bruce,Natson,LONG,24
+209193,9/14/2013,FBS,Utah State,Weber State,PUNT RETURNS,Ronald,Butler,NO,1
+209194,9/14/2013,FBS,Utah State,Weber State,PUNT RETURNS,Ronald,Butler,YDS,13
+209195,9/14/2013,FBS,Utah State,Weber State,PUNT RETURNS,Ronald,Butler,AVG,13.0
+209196,9/14/2013,FBS,Utah State,Weber State,PUNT RETURNS,Ronald,Butler,LONG,10
+209197,9/14/2013,FBS,Utah State,Weber State,PUNT RETURNS,Travis,VanLeeuwen,NO,1
+209198,9/14/2013,FBS,Utah State,Weber State,PUNT RETURNS,Travis,VanLeeuwen,YDS,9
+209199,9/14/2013,FBS,Utah State,Weber State,PUNT RETURNS,Travis,VanLeeuwen,AVG,9.0
+209200,9/14/2013,FBS,Utah State,Weber State,PUNT RETURNS,Travis,VanLeeuwen,LONG,9
+209201,9/14/2013,FBS,Utah State,Weber State,KICK RETURNS,Kennedy,Williams,NO,1
+209202,9/14/2013,FBS,Utah State,Weber State,KICK RETURNS,Kennedy,Williams,YDS,44
+209203,9/14/2013,FBS,Utah State,Weber State,KICK RETURNS,Kennedy,Williams,AVG,44.0
+209204,9/14/2013,FBS,Utah State,Weber State,KICK RETURNS,Kennedy,Williams,LONG,44

@@ -1,0 +1,145 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+31001,8/31/2013,FBS,Buffalo,Ohio State,RUSHING,Branden,Oliver,ATT,26
+31002,8/31/2013,FBS,Buffalo,Ohio State,RUSHING,Branden,Oliver,YDS,73
+31003,8/31/2013,FBS,Buffalo,Ohio State,RUSHING,Branden,Oliver,TD,0
+31004,8/31/2013,FBS,Buffalo,Ohio State,RUSHING,Branden,Oliver,LONG,10
+31005,8/31/2013,FBS,Buffalo,Ohio State,RUSHING,Anthone,Taylor,ATT,3
+31006,8/31/2013,FBS,Buffalo,Ohio State,RUSHING,Anthone,Taylor,YDS,8
+31007,8/31/2013,FBS,Buffalo,Ohio State,RUSHING,Anthone,Taylor,TD,0
+31008,8/31/2013,FBS,Buffalo,Ohio State,RUSHING,Anthone,Taylor,LONG,5
+31009,8/31/2013,FBS,Buffalo,Ohio State,RUSHING,Alex,Zordich,ATT,2
+31010,8/31/2013,FBS,Buffalo,Ohio State,RUSHING,Alex,Zordich,YDS,2
+31011,8/31/2013,FBS,Buffalo,Ohio State,RUSHING,Alex,Zordich,TD,0
+31012,8/31/2013,FBS,Buffalo,Ohio State,RUSHING,Alex,Zordich,LONG,4
+31013,8/31/2013,FBS,Buffalo,Ohio State,RUSHING,Fred,Lee,ATT,1
+31014,8/31/2013,FBS,Buffalo,Ohio State,RUSHING,Fred,Lee,YDS,2
+31015,8/31/2013,FBS,Buffalo,Ohio State,RUSHING,Fred,Lee,TD,0
+31016,8/31/2013,FBS,Buffalo,Ohio State,RUSHING,Fred,Lee,LONG,2
+31017,8/31/2013,FBS,Buffalo,Ohio State,RUSHING,Joe,Licata,ATT,3
+31018,8/31/2013,FBS,Buffalo,Ohio State,RUSHING,Joe,Licata,YDS,-12
+31019,8/31/2013,FBS,Buffalo,Ohio State,RUSHING,Joe,Licata,TD,0
+31020,8/31/2013,FBS,Buffalo,Ohio State,RUSHING,Joe,Licata,LONG,0
+31021,8/31/2013,FBS,Buffalo,Ohio State,PASSING,Joe,Licata,CP-ATT-INT,19-32-1
+31022,8/31/2013,FBS,Buffalo,Ohio State,PASSING,Joe,Licata,YDS,185
+31023,8/31/2013,FBS,Buffalo,Ohio State,PASSING,Joe,Licata,TD,2
+31024,8/31/2013,FBS,Buffalo,Ohio State,PASSING,Joe,Licata,LONG,25
+31025,8/31/2013,FBS,Buffalo,Ohio State,RECEIVING,Alex,Neutz,REC,9
+31026,8/31/2013,FBS,Buffalo,Ohio State,RECEIVING,Alex,Neutz,YDS,98
+31027,8/31/2013,FBS,Buffalo,Ohio State,RECEIVING,Alex,Neutz,TD,1
+31028,8/31/2013,FBS,Buffalo,Ohio State,RECEIVING,Alex,Neutz,LONG,23
+31029,8/31/2013,FBS,Buffalo,Ohio State,RECEIVING,Mason,Schreck,REC,4
+31030,8/31/2013,FBS,Buffalo,Ohio State,RECEIVING,Mason,Schreck,YDS,22
+31031,8/31/2013,FBS,Buffalo,Ohio State,RECEIVING,Mason,Schreck,TD,0
+31032,8/31/2013,FBS,Buffalo,Ohio State,RECEIVING,Mason,Schreck,LONG,11
+31033,8/31/2013,FBS,Buffalo,Ohio State,RECEIVING,Devin,Campbell,REC,2
+31034,8/31/2013,FBS,Buffalo,Ohio State,RECEIVING,Devin,Campbell,YDS,31
+31035,8/31/2013,FBS,Buffalo,Ohio State,RECEIVING,Devin,Campbell,TD,0
+31036,8/31/2013,FBS,Buffalo,Ohio State,RECEIVING,Devin,Campbell,LONG,25
+31037,8/31/2013,FBS,Buffalo,Ohio State,RECEIVING,Matt,Weiser,REC,2
+31038,8/31/2013,FBS,Buffalo,Ohio State,RECEIVING,Matt,Weiser,YDS,22
+31039,8/31/2013,FBS,Buffalo,Ohio State,RECEIVING,Matt,Weiser,TD,1
+31040,8/31/2013,FBS,Buffalo,Ohio State,RECEIVING,Matt,Weiser,LONG,16
+31041,8/31/2013,FBS,Buffalo,Ohio State,RECEIVING,John,Dunmore,REC,1
+31042,8/31/2013,FBS,Buffalo,Ohio State,RECEIVING,John,Dunmore,YDS,8
+31043,8/31/2013,FBS,Buffalo,Ohio State,RECEIVING,John,Dunmore,TD,0
+31044,8/31/2013,FBS,Buffalo,Ohio State,RECEIVING,John,Dunmore,LONG,8
+31045,8/31/2013,FBS,Buffalo,Ohio State,RECEIVING,Jimmy,Gordon,REC,1
+31046,8/31/2013,FBS,Buffalo,Ohio State,RECEIVING,Jimmy,Gordon,YDS,4
+31047,8/31/2013,FBS,Buffalo,Ohio State,RECEIVING,Jimmy,Gordon,TD,0
+31048,8/31/2013,FBS,Buffalo,Ohio State,RECEIVING,Jimmy,Gordon,LONG,4
+31049,8/31/2013,FBS,Buffalo,Ohio State,KICKING,Patrick,Clarke,FG-FGA,0/0
+31050,8/31/2013,FBS,Buffalo,Ohio State,KICKING,Patrick,Clarke,LONG,-
+31051,8/31/2013,FBS,Buffalo,Ohio State,KICKING,Patrick,Clarke,XP,2
+31052,8/31/2013,FBS,Buffalo,Ohio State,KICKING,Patrick,Clarke,PTS,2
+31053,8/31/2013,FBS,Buffalo,Ohio State,PUNTING,Tyler,Grassman,NO,7
+31054,8/31/2013,FBS,Buffalo,Ohio State,PUNTING,Tyler,Grassman,YDS,282
+31055,8/31/2013,FBS,Buffalo,Ohio State,PUNTING,Tyler,Grassman,AVG,40.3
+31056,8/31/2013,FBS,Buffalo,Ohio State,PUNTING,Tyler,Grassman,LONG,54
+31057,8/31/2013,FBS,Buffalo,Ohio State,KICK RETURNS,Devin,Campbell,NO,6
+31058,8/31/2013,FBS,Buffalo,Ohio State,KICK RETURNS,Devin,Campbell,YDS,75
+31059,8/31/2013,FBS,Buffalo,Ohio State,KICK RETURNS,Devin,Campbell,AVG,12.5
+31060,8/31/2013,FBS,Buffalo,Ohio State,KICK RETURNS,Devin,Campbell,LONG,16
+31061,8/31/2013,FBS,Ohio State,Buffalo,RUSHING,Jordan,Hall,ATT,21
+31062,8/31/2013,FBS,Ohio State,Buffalo,RUSHING,Jordan,Hall,YDS,159
+31063,8/31/2013,FBS,Ohio State,Buffalo,RUSHING,Jordan,Hall,TD,2
+31064,8/31/2013,FBS,Ohio State,Buffalo,RUSHING,Jordan,Hall,LONG,49
+31065,8/31/2013,FBS,Ohio State,Buffalo,RUSHING,Braxton,Miller,ATT,17
+31066,8/31/2013,FBS,Ohio State,Buffalo,RUSHING,Braxton,Miller,YDS,77
+31067,8/31/2013,FBS,Ohio State,Buffalo,RUSHING,Braxton,Miller,TD,0
+31068,8/31/2013,FBS,Ohio State,Buffalo,RUSHING,Braxton,Miller,LONG,40
+31069,8/31/2013,FBS,Ohio State,Buffalo,RUSHING,Dontre,Wilson,ATT,3
+31070,8/31/2013,FBS,Ohio State,Buffalo,RUSHING,Dontre,Wilson,YDS,11
+31071,8/31/2013,FBS,Ohio State,Buffalo,RUSHING,Dontre,Wilson,TD,0
+31072,8/31/2013,FBS,Ohio State,Buffalo,RUSHING,Dontre,Wilson,LONG,6
+31073,8/31/2013,FBS,Ohio State,Buffalo,RUSHING,Warren,Ball,ATT,2
+31074,8/31/2013,FBS,Ohio State,Buffalo,RUSHING,Warren,Ball,YDS,6
+31075,8/31/2013,FBS,Ohio State,Buffalo,RUSHING,Warren,Ball,TD,0
+31076,8/31/2013,FBS,Ohio State,Buffalo,RUSHING,Warren,Ball,LONG,4
+31077,8/31/2013,FBS,Ohio State,Buffalo,RUSHING,Kenny,Guiton,ATT,1
+31078,8/31/2013,FBS,Ohio State,Buffalo,RUSHING,Kenny,Guiton,YDS,6
+31079,8/31/2013,FBS,Ohio State,Buffalo,RUSHING,Kenny,Guiton,TD,0
+31080,8/31/2013,FBS,Ohio State,Buffalo,RUSHING,Kenny,Guiton,LONG,6
+31081,8/31/2013,FBS,Ohio State,Buffalo,RUSHING,Ezekiel,Elliott,ATT,1
+31082,8/31/2013,FBS,Ohio State,Buffalo,RUSHING,Ezekiel,Elliott,YDS,2
+31083,8/31/2013,FBS,Ohio State,Buffalo,RUSHING,Ezekiel,Elliott,TD,0
+31084,8/31/2013,FBS,Ohio State,Buffalo,RUSHING,Ezekiel,Elliott,LONG,2
+31085,8/31/2013,FBS,Ohio State,Buffalo,PASSING,Braxton,Miller,CP-ATT-INT,15-22-1
+31086,8/31/2013,FBS,Ohio State,Buffalo,PASSING,Braxton,Miller,YDS,178
+31087,8/31/2013,FBS,Ohio State,Buffalo,PASSING,Braxton,Miller,TD,2
+31088,8/31/2013,FBS,Ohio State,Buffalo,PASSING,Braxton,Miller,LONG,47
+31089,8/31/2013,FBS,Ohio State,Buffalo,PASSING,Kenny,Guiton,CP-ATT-INT,1-1-0
+31090,8/31/2013,FBS,Ohio State,Buffalo,PASSING,Kenny,Guiton,YDS,21
+31091,8/31/2013,FBS,Ohio State,Buffalo,PASSING,Kenny,Guiton,TD,1
+31092,8/31/2013,FBS,Ohio State,Buffalo,PASSING,Kenny,Guiton,LONG,21
+31093,8/31/2013,FBS,Ohio State,Buffalo,RECEIVING,Devin,Smith,REC,3
+31094,8/31/2013,FBS,Ohio State,Buffalo,RECEIVING,Devin,Smith,YDS,61
+31095,8/31/2013,FBS,Ohio State,Buffalo,RECEIVING,Devin,Smith,TD,1
+31096,8/31/2013,FBS,Ohio State,Buffalo,RECEIVING,Devin,Smith,LONG,47
+31097,8/31/2013,FBS,Ohio State,Buffalo,RECEIVING,Chris,Fields,REC,3
+31098,8/31/2013,FBS,Ohio State,Buffalo,RECEIVING,Chris,Fields,YDS,53
+31099,8/31/2013,FBS,Ohio State,Buffalo,RECEIVING,Chris,Fields,TD,2
+31100,8/31/2013,FBS,Ohio State,Buffalo,RECEIVING,Chris,Fields,LONG,25
+31101,8/31/2013,FBS,Ohio State,Buffalo,RECEIVING,Jordan,Hall,REC,3
+31102,8/31/2013,FBS,Ohio State,Buffalo,RECEIVING,Jordan,Hall,YDS,14
+31103,8/31/2013,FBS,Ohio State,Buffalo,RECEIVING,Jordan,Hall,TD,0
+31104,8/31/2013,FBS,Ohio State,Buffalo,RECEIVING,Jordan,Hall,LONG,11
+31105,8/31/2013,FBS,Ohio State,Buffalo,RECEIVING,Corey,(Philly)Brown,REC,2
+31106,8/31/2013,FBS,Ohio State,Buffalo,RECEIVING,Corey,(Philly)Brown,YDS,25
+31107,8/31/2013,FBS,Ohio State,Buffalo,RECEIVING,Corey,(Philly)Brown,TD,0
+31108,8/31/2013,FBS,Ohio State,Buffalo,RECEIVING,Corey,(Philly)Brown,LONG,17
+31109,8/31/2013,FBS,Ohio State,Buffalo,RECEIVING,Evan,Spencer,REC,2
+31110,8/31/2013,FBS,Ohio State,Buffalo,RECEIVING,Evan,Spencer,YDS,16
+31111,8/31/2013,FBS,Ohio State,Buffalo,RECEIVING,Evan,Spencer,TD,0
+31112,8/31/2013,FBS,Ohio State,Buffalo,RECEIVING,Evan,Spencer,LONG,10
+31113,8/31/2013,FBS,Ohio State,Buffalo,RECEIVING,Jeff,Heuerman,REC,2
+31114,8/31/2013,FBS,Ohio State,Buffalo,RECEIVING,Jeff,Heuerman,YDS,12
+31115,8/31/2013,FBS,Ohio State,Buffalo,RECEIVING,Jeff,Heuerman,TD,0
+31116,8/31/2013,FBS,Ohio State,Buffalo,RECEIVING,Jeff,Heuerman,LONG,9
+31117,8/31/2013,FBS,Ohio State,Buffalo,RECEIVING,Dontre,Wilson,REC,1
+31118,8/31/2013,FBS,Ohio State,Buffalo,RECEIVING,Dontre,Wilson,YDS,18
+31119,8/31/2013,FBS,Ohio State,Buffalo,RECEIVING,Dontre,Wilson,TD,0
+31120,8/31/2013,FBS,Ohio State,Buffalo,RECEIVING,Dontre,Wilson,LONG,18
+31121,8/31/2013,FBS,Ohio State,Buffalo,KICKING,Drew,Basil,FG-FGA,1/1
+31122,8/31/2013,FBS,Ohio State,Buffalo,KICKING,Drew,Basil,LONG,39
+31123,8/31/2013,FBS,Ohio State,Buffalo,KICKING,Drew,Basil,XP,3
+31124,8/31/2013,FBS,Ohio State,Buffalo,KICKING,Drew,Basil,PTS,6
+31125,8/31/2013,FBS,Ohio State,Buffalo,PUNTING,Cameron,Johnston,NO,3
+31126,8/31/2013,FBS,Ohio State,Buffalo,PUNTING,Cameron,Johnston,YDS,124
+31127,8/31/2013,FBS,Ohio State,Buffalo,PUNTING,Cameron,Johnston,AVG,41.3
+31128,8/31/2013,FBS,Ohio State,Buffalo,PUNTING,Cameron,Johnston,LONG,42
+31129,8/31/2013,FBS,Ohio State,Buffalo,PUNT RETURNS,Corey,(Philly)Brown,NO,4
+31130,8/31/2013,FBS,Ohio State,Buffalo,PUNT RETURNS,Corey,(Philly)Brown,YDS,44
+31131,8/31/2013,FBS,Ohio State,Buffalo,PUNT RETURNS,Corey,(Philly)Brown,AVG,11.0
+31132,8/31/2013,FBS,Ohio State,Buffalo,PUNT RETURNS,Corey,(Philly)Brown,LONG,19
+31133,8/31/2013,FBS,Ohio State,Buffalo,KICK RETURNS,Dontre,Wilson,NO,1
+31134,8/31/2013,FBS,Ohio State,Buffalo,KICK RETURNS,Dontre,Wilson,YDS,51
+31135,8/31/2013,FBS,Ohio State,Buffalo,KICK RETURNS,Dontre,Wilson,AVG,51.0
+31136,8/31/2013,FBS,Ohio State,Buffalo,KICK RETURNS,Dontre,Wilson,LONG,51
+31137,8/31/2013,FBS,Ohio State,Buffalo,KICK RETURNS,Jordan,Hall,NO,1
+31138,8/31/2013,FBS,Ohio State,Buffalo,KICK RETURNS,Jordan,Hall,YDS,17
+31139,8/31/2013,FBS,Ohio State,Buffalo,KICK RETURNS,Jordan,Hall,AVG,17.0
+31140,8/31/2013,FBS,Ohio State,Buffalo,KICK RETURNS,Jordan,Hall,LONG,17
+31141,8/31/2013,FBS,Ohio State,Buffalo,KICK RETURNS,Jeff,Heuerman,NO,1
+31142,8/31/2013,FBS,Ohio State,Buffalo,KICK RETURNS,Jeff,Heuerman,YDS,13
+31143,8/31/2013,FBS,Ohio State,Buffalo,KICK RETURNS,Jeff,Heuerman,AVG,13.0
+31144,8/31/2013,FBS,Ohio State,Buffalo,KICK RETURNS,Jeff,Heuerman,LONG,13

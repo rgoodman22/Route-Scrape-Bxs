@@ -1,0 +1,145 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+419001,11/23/2013,FBS,Pittsburgh,Syracuse,RUSHING,Isaac,Bennett,ATT,11
+419002,11/23/2013,FBS,Pittsburgh,Syracuse,RUSHING,Isaac,Bennett,YDS,28
+419003,11/23/2013,FBS,Pittsburgh,Syracuse,RUSHING,Isaac,Bennett,TD,1
+419004,11/23/2013,FBS,Pittsburgh,Syracuse,RUSHING,Isaac,Bennett,LONG,7
+419005,11/23/2013,FBS,Pittsburgh,Syracuse,RUSHING,James,Conner,ATT,7
+419006,11/23/2013,FBS,Pittsburgh,Syracuse,RUSHING,James,Conner,YDS,26
+419007,11/23/2013,FBS,Pittsburgh,Syracuse,RUSHING,James,Conner,TD,0
+419008,11/23/2013,FBS,Pittsburgh,Syracuse,RUSHING,James,Conner,LONG,14
+419009,11/23/2013,FBS,Pittsburgh,Syracuse,RUSHING,Rachid,Ibrahim,ATT,1
+419010,11/23/2013,FBS,Pittsburgh,Syracuse,RUSHING,Rachid,Ibrahim,YDS,2
+419011,11/23/2013,FBS,Pittsburgh,Syracuse,RUSHING,Rachid,Ibrahim,TD,0
+419012,11/23/2013,FBS,Pittsburgh,Syracuse,RUSHING,Rachid,Ibrahim,LONG,2
+419013,11/23/2013,FBS,Pittsburgh,Syracuse,RUSHING,,Team,ATT,3
+419014,11/23/2013,FBS,Pittsburgh,Syracuse,RUSHING,,Team,YDS,-6
+419015,11/23/2013,FBS,Pittsburgh,Syracuse,RUSHING,,Team,TD,0
+419016,11/23/2013,FBS,Pittsburgh,Syracuse,RUSHING,,Team,LONG,0
+419017,11/23/2013,FBS,Pittsburgh,Syracuse,RUSHING,Tyler,Boyd,ATT,1
+419018,11/23/2013,FBS,Pittsburgh,Syracuse,RUSHING,Tyler,Boyd,YDS,-6
+419019,11/23/2013,FBS,Pittsburgh,Syracuse,RUSHING,Tyler,Boyd,TD,0
+419020,11/23/2013,FBS,Pittsburgh,Syracuse,RUSHING,Tyler,Boyd,LONG,0
+419021,11/23/2013,FBS,Pittsburgh,Syracuse,RUSHING,Tom,Savage,ATT,4
+419022,11/23/2013,FBS,Pittsburgh,Syracuse,RUSHING,Tom,Savage,YDS,-23
+419023,11/23/2013,FBS,Pittsburgh,Syracuse,RUSHING,Tom,Savage,TD,0
+419024,11/23/2013,FBS,Pittsburgh,Syracuse,RUSHING,Tom,Savage,LONG,2
+419025,11/23/2013,FBS,Pittsburgh,Syracuse,PASSING,Tom,Savage,CP-ATT-INT,28-41-1
+419026,11/23/2013,FBS,Pittsburgh,Syracuse,PASSING,Tom,Savage,YDS,218
+419027,11/23/2013,FBS,Pittsburgh,Syracuse,PASSING,Tom,Savage,TD,1
+419028,11/23/2013,FBS,Pittsburgh,Syracuse,PASSING,Tom,Savage,LONG,17
+419029,11/23/2013,FBS,Pittsburgh,Syracuse,RECEIVING,Tyler,Boyd,REC,10
+419030,11/23/2013,FBS,Pittsburgh,Syracuse,RECEIVING,Tyler,Boyd,YDS,82
+419031,11/23/2013,FBS,Pittsburgh,Syracuse,RECEIVING,Tyler,Boyd,TD,0
+419032,11/23/2013,FBS,Pittsburgh,Syracuse,RECEIVING,Tyler,Boyd,LONG,16
+419033,11/23/2013,FBS,Pittsburgh,Syracuse,RECEIVING,Manasseh,Garner,REC,7
+419034,11/23/2013,FBS,Pittsburgh,Syracuse,RECEIVING,Manasseh,Garner,YDS,61
+419035,11/23/2013,FBS,Pittsburgh,Syracuse,RECEIVING,Manasseh,Garner,TD,1
+419036,11/23/2013,FBS,Pittsburgh,Syracuse,RECEIVING,Manasseh,Garner,LONG,16
+419037,11/23/2013,FBS,Pittsburgh,Syracuse,RECEIVING,J.P.,Holtz,REC,4
+419038,11/23/2013,FBS,Pittsburgh,Syracuse,RECEIVING,J.P.,Holtz,YDS,39
+419039,11/23/2013,FBS,Pittsburgh,Syracuse,RECEIVING,J.P.,Holtz,TD,0
+419040,11/23/2013,FBS,Pittsburgh,Syracuse,RECEIVING,J.P.,Holtz,LONG,17
+419041,11/23/2013,FBS,Pittsburgh,Syracuse,RECEIVING,Jaymar,Parrish,REC,3
+419042,11/23/2013,FBS,Pittsburgh,Syracuse,RECEIVING,Jaymar,Parrish,YDS,19
+419043,11/23/2013,FBS,Pittsburgh,Syracuse,RECEIVING,Jaymar,Parrish,TD,0
+419044,11/23/2013,FBS,Pittsburgh,Syracuse,RECEIVING,Jaymar,Parrish,LONG,9
+419045,11/23/2013,FBS,Pittsburgh,Syracuse,RECEIVING,Kevin,Weatherspoon,REC,2
+419046,11/23/2013,FBS,Pittsburgh,Syracuse,RECEIVING,Kevin,Weatherspoon,YDS,10
+419047,11/23/2013,FBS,Pittsburgh,Syracuse,RECEIVING,Kevin,Weatherspoon,TD,0
+419048,11/23/2013,FBS,Pittsburgh,Syracuse,RECEIVING,Kevin,Weatherspoon,LONG,6
+419049,11/23/2013,FBS,Pittsburgh,Syracuse,RECEIVING,Devin,Street,REC,2
+419050,11/23/2013,FBS,Pittsburgh,Syracuse,RECEIVING,Devin,Street,YDS,7
+419051,11/23/2013,FBS,Pittsburgh,Syracuse,RECEIVING,Devin,Street,TD,0
+419052,11/23/2013,FBS,Pittsburgh,Syracuse,RECEIVING,Devin,Street,LONG,5
+419053,11/23/2013,FBS,Pittsburgh,Syracuse,KICKING,Chris,Blewitt,FG-FGA,1/1
+419054,11/23/2013,FBS,Pittsburgh,Syracuse,KICKING,Chris,Blewitt,LONG,43
+419055,11/23/2013,FBS,Pittsburgh,Syracuse,KICKING,Chris,Blewitt,XP,2
+419056,11/23/2013,FBS,Pittsburgh,Syracuse,KICKING,Chris,Blewitt,PTS,5
+419057,11/23/2013,FBS,Pittsburgh,Syracuse,PUNTING,Matt,Yoklic,NO,7
+419058,11/23/2013,FBS,Pittsburgh,Syracuse,PUNTING,Matt,Yoklic,YDS,278
+419059,11/23/2013,FBS,Pittsburgh,Syracuse,PUNTING,Matt,Yoklic,AVG,39.7
+419060,11/23/2013,FBS,Pittsburgh,Syracuse,PUNTING,Matt,Yoklic,LONG,43
+419061,11/23/2013,FBS,Pittsburgh,Syracuse,PUNT RETURNS,Kevin,Weatherspoon,NO,3
+419062,11/23/2013,FBS,Pittsburgh,Syracuse,PUNT RETURNS,Kevin,Weatherspoon,YDS,23
+419063,11/23/2013,FBS,Pittsburgh,Syracuse,PUNT RETURNS,Kevin,Weatherspoon,AVG,7.7
+419064,11/23/2013,FBS,Pittsburgh,Syracuse,PUNT RETURNS,Kevin,Weatherspoon,LONG,22
+419065,11/23/2013,FBS,Pittsburgh,Syracuse,KICK RETURNS,Rachid,Ibrahim,NO,2
+419066,11/23/2013,FBS,Pittsburgh,Syracuse,KICK RETURNS,Rachid,Ibrahim,YDS,37
+419067,11/23/2013,FBS,Pittsburgh,Syracuse,KICK RETURNS,Rachid,Ibrahim,AVG,18.5
+419068,11/23/2013,FBS,Pittsburgh,Syracuse,KICK RETURNS,Rachid,Ibrahim,LONG,19
+419069,11/23/2013,FBS,Pittsburgh,Syracuse,KICK RETURNS,Lafayette,Pitts,NO,1
+419070,11/23/2013,FBS,Pittsburgh,Syracuse,KICK RETURNS,Lafayette,Pitts,YDS,18
+419071,11/23/2013,FBS,Pittsburgh,Syracuse,KICK RETURNS,Lafayette,Pitts,AVG,18.0
+419072,11/23/2013,FBS,Pittsburgh,Syracuse,KICK RETURNS,Lafayette,Pitts,LONG,18
+419073,11/23/2013,FBS,Pittsburgh,Syracuse,KICK RETURNS,Manasseh,Garner,NO,1
+419074,11/23/2013,FBS,Pittsburgh,Syracuse,KICK RETURNS,Manasseh,Garner,YDS,7
+419075,11/23/2013,FBS,Pittsburgh,Syracuse,KICK RETURNS,Manasseh,Garner,AVG,7.0
+419076,11/23/2013,FBS,Pittsburgh,Syracuse,KICK RETURNS,Manasseh,Garner,LONG,7
+419077,11/23/2013,FBS,Syracuse,Pittsburgh,RUSHING,Jerome,Smith,ATT,17
+419078,11/23/2013,FBS,Syracuse,Pittsburgh,RUSHING,Jerome,Smith,YDS,88
+419079,11/23/2013,FBS,Syracuse,Pittsburgh,RUSHING,Jerome,Smith,TD,1
+419080,11/23/2013,FBS,Syracuse,Pittsburgh,RUSHING,Jerome,Smith,LONG,36
+419081,11/23/2013,FBS,Syracuse,Pittsburgh,RUSHING,George,Morris,ATT,7
+419082,11/23/2013,FBS,Syracuse,Pittsburgh,RUSHING,George,Morris,YDS,30
+419083,11/23/2013,FBS,Syracuse,Pittsburgh,RUSHING,George,Morris,TD,0
+419084,11/23/2013,FBS,Syracuse,Pittsburgh,RUSHING,George,Morris,LONG,22
+419085,11/23/2013,FBS,Syracuse,Pittsburgh,RUSHING,Devante,McFarlane,ATT,6
+419086,11/23/2013,FBS,Syracuse,Pittsburgh,RUSHING,Devante,McFarlane,YDS,18
+419087,11/23/2013,FBS,Syracuse,Pittsburgh,RUSHING,Devante,McFarlane,TD,0
+419088,11/23/2013,FBS,Syracuse,Pittsburgh,RUSHING,Devante,McFarlane,LONG,6
+419089,11/23/2013,FBS,Syracuse,Pittsburgh,RUSHING,Terrel,Hunt,ATT,8
+419090,11/23/2013,FBS,Syracuse,Pittsburgh,RUSHING,Terrel,Hunt,YDS,13
+419091,11/23/2013,FBS,Syracuse,Pittsburgh,RUSHING,Terrel,Hunt,TD,0
+419092,11/23/2013,FBS,Syracuse,Pittsburgh,RUSHING,Terrel,Hunt,LONG,11
+419093,11/23/2013,FBS,Syracuse,Pittsburgh,RUSHING,Ashton,Broyld,ATT,1
+419094,11/23/2013,FBS,Syracuse,Pittsburgh,RUSHING,Ashton,Broyld,YDS,-1
+419095,11/23/2013,FBS,Syracuse,Pittsburgh,RUSHING,Ashton,Broyld,TD,0
+419096,11/23/2013,FBS,Syracuse,Pittsburgh,RUSHING,Ashton,Broyld,LONG,0
+419097,11/23/2013,FBS,Syracuse,Pittsburgh,PASSING,Terrel,Hunt,CP-ATT-INT,18-28-0
+419098,11/23/2013,FBS,Syracuse,Pittsburgh,PASSING,Terrel,Hunt,YDS,159
+419099,11/23/2013,FBS,Syracuse,Pittsburgh,PASSING,Terrel,Hunt,TD,1
+419100,11/23/2013,FBS,Syracuse,Pittsburgh,PASSING,Terrel,Hunt,LONG,42
+419101,11/23/2013,FBS,Syracuse,Pittsburgh,RECEIVING,Ashton,Broyld,REC,6
+419102,11/23/2013,FBS,Syracuse,Pittsburgh,RECEIVING,Ashton,Broyld,YDS,25
+419103,11/23/2013,FBS,Syracuse,Pittsburgh,RECEIVING,Ashton,Broyld,TD,0
+419104,11/23/2013,FBS,Syracuse,Pittsburgh,RECEIVING,Ashton,Broyld,LONG,11
+419105,11/23/2013,FBS,Syracuse,Pittsburgh,RECEIVING,Christopher,Clark,REC,4
+419106,11/23/2013,FBS,Syracuse,Pittsburgh,RECEIVING,Christopher,Clark,YDS,46
+419107,11/23/2013,FBS,Syracuse,Pittsburgh,RECEIVING,Christopher,Clark,TD,0
+419108,11/23/2013,FBS,Syracuse,Pittsburgh,RECEIVING,Christopher,Clark,LONG,19
+419109,11/23/2013,FBS,Syracuse,Pittsburgh,RECEIVING,Beckett,Wales,REC,3
+419110,11/23/2013,FBS,Syracuse,Pittsburgh,RECEIVING,Beckett,Wales,YDS,33
+419111,11/23/2013,FBS,Syracuse,Pittsburgh,RECEIVING,Beckett,Wales,TD,0
+419112,11/23/2013,FBS,Syracuse,Pittsburgh,RECEIVING,Beckett,Wales,LONG,12
+419113,11/23/2013,FBS,Syracuse,Pittsburgh,RECEIVING,Alvin,Cornelius,REC,2
+419114,11/23/2013,FBS,Syracuse,Pittsburgh,RECEIVING,Alvin,Cornelius,YDS,53
+419115,11/23/2013,FBS,Syracuse,Pittsburgh,RECEIVING,Alvin,Cornelius,TD,1
+419116,11/23/2013,FBS,Syracuse,Pittsburgh,RECEIVING,Alvin,Cornelius,LONG,42
+419117,11/23/2013,FBS,Syracuse,Pittsburgh,RECEIVING,Devante,McFarlane,REC,2
+419118,11/23/2013,FBS,Syracuse,Pittsburgh,RECEIVING,Devante,McFarlane,YDS,0
+419119,11/23/2013,FBS,Syracuse,Pittsburgh,RECEIVING,Devante,McFarlane,TD,0
+419120,11/23/2013,FBS,Syracuse,Pittsburgh,RECEIVING,Devante,McFarlane,LONG,0
+419121,11/23/2013,FBS,Syracuse,Pittsburgh,RECEIVING,Clay,Cleveland,REC,1
+419122,11/23/2013,FBS,Syracuse,Pittsburgh,RECEIVING,Clay,Cleveland,YDS,2
+419123,11/23/2013,FBS,Syracuse,Pittsburgh,RECEIVING,Clay,Cleveland,TD,0
+419124,11/23/2013,FBS,Syracuse,Pittsburgh,RECEIVING,Clay,Cleveland,LONG,2
+419125,11/23/2013,FBS,Syracuse,Pittsburgh,KICKING,Ryan,Norton,FG-FGA,1/2
+419126,11/23/2013,FBS,Syracuse,Pittsburgh,KICKING,Ryan,Norton,LONG,41
+419127,11/23/2013,FBS,Syracuse,Pittsburgh,KICKING,Ryan,Norton,XP,1
+419128,11/23/2013,FBS,Syracuse,Pittsburgh,KICKING,Ryan,Norton,PTS,4
+419129,11/23/2013,FBS,Syracuse,Pittsburgh,PUNTING,Riley,Dixon,NO,8
+419130,11/23/2013,FBS,Syracuse,Pittsburgh,PUNTING,Riley,Dixon,YDS,318
+419131,11/23/2013,FBS,Syracuse,Pittsburgh,PUNTING,Riley,Dixon,AVG,39.8
+419132,11/23/2013,FBS,Syracuse,Pittsburgh,PUNTING,Riley,Dixon,LONG,53
+419133,11/23/2013,FBS,Syracuse,Pittsburgh,PUNT RETURNS,Ritchy,Desir,NO,2
+419134,11/23/2013,FBS,Syracuse,Pittsburgh,PUNT RETURNS,Ritchy,Desir,YDS,12
+419135,11/23/2013,FBS,Syracuse,Pittsburgh,PUNT RETURNS,Ritchy,Desir,AVG,6.0
+419136,11/23/2013,FBS,Syracuse,Pittsburgh,PUNT RETURNS,Ritchy,Desir,LONG,10
+419137,11/23/2013,FBS,Syracuse,Pittsburgh,KICK RETURNS,George,Morris,NO,2
+419138,11/23/2013,FBS,Syracuse,Pittsburgh,KICK RETURNS,George,Morris,YDS,43
+419139,11/23/2013,FBS,Syracuse,Pittsburgh,KICK RETURNS,George,Morris,AVG,21.5
+419140,11/23/2013,FBS,Syracuse,Pittsburgh,KICK RETURNS,George,Morris,LONG,29
+419141,11/23/2013,FBS,Syracuse,Pittsburgh,KICK RETURNS,Devante,McFarlane,NO,2
+419142,11/23/2013,FBS,Syracuse,Pittsburgh,KICK RETURNS,Devante,McFarlane,YDS,37
+419143,11/23/2013,FBS,Syracuse,Pittsburgh,KICK RETURNS,Devante,McFarlane,AVG,18.5
+419144,11/23/2013,FBS,Syracuse,Pittsburgh,KICK RETURNS,Devante,McFarlane,LONG,22

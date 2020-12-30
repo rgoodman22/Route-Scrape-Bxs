@@ -1,0 +1,125 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+276001,9/26/2013,FBS,Virginia Tech,Georgia Tech,RUSHING,Logan,Thomas,ATT,16
+276002,9/26/2013,FBS,Virginia Tech,Georgia Tech,RUSHING,Logan,Thomas,YDS,58
+276003,9/26/2013,FBS,Virginia Tech,Georgia Tech,RUSHING,Logan,Thomas,TD,1
+276004,9/26/2013,FBS,Virginia Tech,Georgia Tech,RUSHING,Logan,Thomas,LONG,26
+276005,9/26/2013,FBS,Virginia Tech,Georgia Tech,RUSHING,Demitri,Knowles,ATT,1
+276006,9/26/2013,FBS,Virginia Tech,Georgia Tech,RUSHING,Demitri,Knowles,YDS,2
+276007,9/26/2013,FBS,Virginia Tech,Georgia Tech,RUSHING,Demitri,Knowles,TD,0
+276008,9/26/2013,FBS,Virginia Tech,Georgia Tech,RUSHING,Demitri,Knowles,LONG,2
+276009,9/26/2013,FBS,Virginia Tech,Georgia Tech,RUSHING,Trey,Edmunds,ATT,6
+276010,9/26/2013,FBS,Virginia Tech,Georgia Tech,RUSHING,Trey,Edmunds,YDS,1
+276011,9/26/2013,FBS,Virginia Tech,Georgia Tech,RUSHING,Trey,Edmunds,TD,0
+276012,9/26/2013,FBS,Virginia Tech,Georgia Tech,RUSHING,Trey,Edmunds,LONG,2
+276013,9/26/2013,FBS,Virginia Tech,Georgia Tech,RUSHING,Chris,Mangus,ATT,2
+276014,9/26/2013,FBS,Virginia Tech,Georgia Tech,RUSHING,Chris,Mangus,YDS,-2
+276015,9/26/2013,FBS,Virginia Tech,Georgia Tech,RUSHING,Chris,Mangus,TD,0
+276016,9/26/2013,FBS,Virginia Tech,Georgia Tech,RUSHING,Chris,Mangus,LONG,1
+276017,9/26/2013,FBS,Virginia Tech,Georgia Tech,RUSHING,,Team,ATT,2
+276018,9/26/2013,FBS,Virginia Tech,Georgia Tech,RUSHING,,Team,YDS,-4
+276019,9/26/2013,FBS,Virginia Tech,Georgia Tech,RUSHING,,Team,TD,0
+276020,9/26/2013,FBS,Virginia Tech,Georgia Tech,RUSHING,,Team,LONG,0
+276021,9/26/2013,FBS,Virginia Tech,Georgia Tech,PASSING,Logan,Thomas,CP-ATT-INT,19-25-0
+276022,9/26/2013,FBS,Virginia Tech,Georgia Tech,PASSING,Logan,Thomas,YDS,221
+276023,9/26/2013,FBS,Virginia Tech,Georgia Tech,PASSING,Logan,Thomas,TD,1
+276024,9/26/2013,FBS,Virginia Tech,Georgia Tech,PASSING,Logan,Thomas,LONG,28
+276025,9/26/2013,FBS,Virginia Tech,Georgia Tech,RECEIVING,Demitri,Knowles,REC,5
+276026,9/26/2013,FBS,Virginia Tech,Georgia Tech,RECEIVING,Demitri,Knowles,YDS,67
+276027,9/26/2013,FBS,Virginia Tech,Georgia Tech,RECEIVING,Demitri,Knowles,TD,0
+276028,9/26/2013,FBS,Virginia Tech,Georgia Tech,RECEIVING,Demitri,Knowles,LONG,28
+276029,9/26/2013,FBS,Virginia Tech,Georgia Tech,RECEIVING,Willie,Byrn,REC,4
+276030,9/26/2013,FBS,Virginia Tech,Georgia Tech,RECEIVING,Willie,Byrn,YDS,44
+276031,9/26/2013,FBS,Virginia Tech,Georgia Tech,RECEIVING,Willie,Byrn,TD,0
+276032,9/26/2013,FBS,Virginia Tech,Georgia Tech,RECEIVING,Willie,Byrn,LONG,13
+276033,9/26/2013,FBS,Virginia Tech,Georgia Tech,RECEIVING,Kalvin,Cline,REC,3
+276034,9/26/2013,FBS,Virginia Tech,Georgia Tech,RECEIVING,Kalvin,Cline,YDS,28
+276035,9/26/2013,FBS,Virginia Tech,Georgia Tech,RECEIVING,Kalvin,Cline,TD,0
+276036,9/26/2013,FBS,Virginia Tech,Georgia Tech,RECEIVING,Kalvin,Cline,LONG,15
+276037,9/26/2013,FBS,Virginia Tech,Georgia Tech,RECEIVING,D.J.,Coles,REC,2
+276038,9/26/2013,FBS,Virginia Tech,Georgia Tech,RECEIVING,D.J.,Coles,YDS,34
+276039,9/26/2013,FBS,Virginia Tech,Georgia Tech,RECEIVING,D.J.,Coles,TD,1
+276040,9/26/2013,FBS,Virginia Tech,Georgia Tech,RECEIVING,D.J.,Coles,LONG,21
+276041,9/26/2013,FBS,Virginia Tech,Georgia Tech,RECEIVING,Joshua,Stanford,REC,2
+276042,9/26/2013,FBS,Virginia Tech,Georgia Tech,RECEIVING,Joshua,Stanford,YDS,32
+276043,9/26/2013,FBS,Virginia Tech,Georgia Tech,RECEIVING,Joshua,Stanford,TD,0
+276044,9/26/2013,FBS,Virginia Tech,Georgia Tech,RECEIVING,Joshua,Stanford,LONG,17
+276045,9/26/2013,FBS,Virginia Tech,Georgia Tech,RECEIVING,Sam,Rogers,REC,1
+276046,9/26/2013,FBS,Virginia Tech,Georgia Tech,RECEIVING,Sam,Rogers,YDS,8
+276047,9/26/2013,FBS,Virginia Tech,Georgia Tech,RECEIVING,Sam,Rogers,TD,0
+276048,9/26/2013,FBS,Virginia Tech,Georgia Tech,RECEIVING,Sam,Rogers,LONG,8
+276049,9/26/2013,FBS,Virginia Tech,Georgia Tech,RECEIVING,Charley,Meyer,REC,1
+276050,9/26/2013,FBS,Virginia Tech,Georgia Tech,RECEIVING,Charley,Meyer,YDS,5
+276051,9/26/2013,FBS,Virginia Tech,Georgia Tech,RECEIVING,Charley,Meyer,TD,0
+276052,9/26/2013,FBS,Virginia Tech,Georgia Tech,RECEIVING,Charley,Meyer,LONG,5
+276053,9/26/2013,FBS,Virginia Tech,Georgia Tech,RECEIVING,Trey,Edmunds,REC,1
+276054,9/26/2013,FBS,Virginia Tech,Georgia Tech,RECEIVING,Trey,Edmunds,YDS,3
+276055,9/26/2013,FBS,Virginia Tech,Georgia Tech,RECEIVING,Trey,Edmunds,TD,0
+276056,9/26/2013,FBS,Virginia Tech,Georgia Tech,RECEIVING,Trey,Edmunds,LONG,3
+276057,9/26/2013,FBS,Virginia Tech,Georgia Tech,KICKING,Cody,Journell,FG-FGA,1/2
+276058,9/26/2013,FBS,Virginia Tech,Georgia Tech,KICKING,Cody,Journell,LONG,39
+276059,9/26/2013,FBS,Virginia Tech,Georgia Tech,KICKING,Cody,Journell,XP,2
+276060,9/26/2013,FBS,Virginia Tech,Georgia Tech,KICKING,Cody,Journell,PTS,5
+276061,9/26/2013,FBS,Virginia Tech,Georgia Tech,PUNTING,A.J.,Hughes,NO,6
+276062,9/26/2013,FBS,Virginia Tech,Georgia Tech,PUNTING,A.J.,Hughes,YDS,256
+276063,9/26/2013,FBS,Virginia Tech,Georgia Tech,PUNTING,A.J.,Hughes,AVG,42.7
+276064,9/26/2013,FBS,Virginia Tech,Georgia Tech,PUNTING,A.J.,Hughes,LONG,53
+276065,9/26/2013,FBS,Virginia Tech,Georgia Tech,PUNT RETURNS,Kyshoen,Jarrett,NO,1
+276066,9/26/2013,FBS,Virginia Tech,Georgia Tech,PUNT RETURNS,Kyshoen,Jarrett,YDS,-1
+276067,9/26/2013,FBS,Virginia Tech,Georgia Tech,PUNT RETURNS,Kyshoen,Jarrett,AVG,-1.0
+276068,9/26/2013,FBS,Virginia Tech,Georgia Tech,PUNT RETURNS,Kyshoen,Jarrett,LONG,0
+276069,9/26/2013,FBS,Virginia Tech,Georgia Tech,KICK RETURNS,Demitri,Knowles,NO,1
+276070,9/26/2013,FBS,Virginia Tech,Georgia Tech,KICK RETURNS,Demitri,Knowles,YDS,20
+276071,9/26/2013,FBS,Virginia Tech,Georgia Tech,KICK RETURNS,Demitri,Knowles,AVG,20.0
+276072,9/26/2013,FBS,Virginia Tech,Georgia Tech,KICK RETURNS,Demitri,Knowles,LONG,20
+276073,9/26/2013,FBS,Georgia Tech,Virginia Tech,RUSHING,Zach,Laskey,ATT,7
+276074,9/26/2013,FBS,Georgia Tech,Virginia Tech,RUSHING,Zach,Laskey,YDS,43
+276075,9/26/2013,FBS,Georgia Tech,Virginia Tech,RUSHING,Zach,Laskey,TD,0
+276076,9/26/2013,FBS,Georgia Tech,Virginia Tech,RUSHING,Zach,Laskey,LONG,11
+276077,9/26/2013,FBS,Georgia Tech,Virginia Tech,RUSHING,David,Sims,ATT,12
+276078,9/26/2013,FBS,Georgia Tech,Virginia Tech,RUSHING,David,Sims,YDS,37
+276079,9/26/2013,FBS,Georgia Tech,Virginia Tech,RUSHING,David,Sims,TD,1
+276080,9/26/2013,FBS,Georgia Tech,Virginia Tech,RUSHING,David,Sims,LONG,9
+276081,9/26/2013,FBS,Georgia Tech,Virginia Tech,RUSHING,Vad,Lee,ATT,18
+276082,9/26/2013,FBS,Georgia Tech,Virginia Tech,RUSHING,Vad,Lee,YDS,35
+276083,9/26/2013,FBS,Georgia Tech,Virginia Tech,RUSHING,Vad,Lee,TD,0
+276084,9/26/2013,FBS,Georgia Tech,Virginia Tech,RUSHING,Vad,Lee,LONG,15
+276085,9/26/2013,FBS,Georgia Tech,Virginia Tech,RUSHING,B.J.,Bostic,ATT,1
+276086,9/26/2013,FBS,Georgia Tech,Virginia Tech,RUSHING,B.J.,Bostic,YDS,10
+276087,9/26/2013,FBS,Georgia Tech,Virginia Tech,RUSHING,B.J.,Bostic,TD,0
+276088,9/26/2013,FBS,Georgia Tech,Virginia Tech,RUSHING,B.J.,Bostic,LONG,10
+276089,9/26/2013,FBS,Georgia Tech,Virginia Tech,RUSHING,Robert,Godhigh,ATT,4
+276090,9/26/2013,FBS,Georgia Tech,Virginia Tech,RUSHING,Robert,Godhigh,YDS,4
+276091,9/26/2013,FBS,Georgia Tech,Virginia Tech,RUSHING,Robert,Godhigh,TD,0
+276092,9/26/2013,FBS,Georgia Tech,Virginia Tech,RUSHING,Robert,Godhigh,LONG,8
+276093,9/26/2013,FBS,Georgia Tech,Virginia Tech,PASSING,Vad,Lee,CP-ATT-INT,7-24-2
+276094,9/26/2013,FBS,Georgia Tech,Virginia Tech,PASSING,Vad,Lee,YDS,144
+276095,9/26/2013,FBS,Georgia Tech,Virginia Tech,PASSING,Vad,Lee,TD,0
+276096,9/26/2013,FBS,Georgia Tech,Virginia Tech,PASSING,Vad,Lee,LONG,41
+276097,9/26/2013,FBS,Georgia Tech,Virginia Tech,RECEIVING,DeAndre,Smelter,REC,3
+276098,9/26/2013,FBS,Georgia Tech,Virginia Tech,RECEIVING,DeAndre,Smelter,YDS,76
+276099,9/26/2013,FBS,Georgia Tech,Virginia Tech,RECEIVING,DeAndre,Smelter,TD,0
+276100,9/26/2013,FBS,Georgia Tech,Virginia Tech,RECEIVING,DeAndre,Smelter,LONG,41
+276101,9/26/2013,FBS,Georgia Tech,Virginia Tech,RECEIVING,Darren,Waller,REC,3
+276102,9/26/2013,FBS,Georgia Tech,Virginia Tech,RECEIVING,Darren,Waller,YDS,28
+276103,9/26/2013,FBS,Georgia Tech,Virginia Tech,RECEIVING,Darren,Waller,TD,0
+276104,9/26/2013,FBS,Georgia Tech,Virginia Tech,RECEIVING,Darren,Waller,LONG,15
+276105,9/26/2013,FBS,Georgia Tech,Virginia Tech,RECEIVING,Robert,Godhigh,REC,1
+276106,9/26/2013,FBS,Georgia Tech,Virginia Tech,RECEIVING,Robert,Godhigh,YDS,40
+276107,9/26/2013,FBS,Georgia Tech,Virginia Tech,RECEIVING,Robert,Godhigh,TD,0
+276108,9/26/2013,FBS,Georgia Tech,Virginia Tech,RECEIVING,Robert,Godhigh,LONG,40
+276109,9/26/2013,FBS,Georgia Tech,Virginia Tech,KICKING,Harrison,Butker,FG-FGA,1/1
+276110,9/26/2013,FBS,Georgia Tech,Virginia Tech,KICKING,Harrison,Butker,LONG,49
+276111,9/26/2013,FBS,Georgia Tech,Virginia Tech,KICKING,Harrison,Butker,XP,1
+276112,9/26/2013,FBS,Georgia Tech,Virginia Tech,KICKING,Harrison,Butker,PTS,4
+276113,9/26/2013,FBS,Georgia Tech,Virginia Tech,PUNTING,Sean,Poole,NO,4
+276114,9/26/2013,FBS,Georgia Tech,Virginia Tech,PUNTING,Sean,Poole,YDS,183
+276115,9/26/2013,FBS,Georgia Tech,Virginia Tech,PUNTING,Sean,Poole,AVG,45.8
+276116,9/26/2013,FBS,Georgia Tech,Virginia Tech,PUNTING,Sean,Poole,LONG,51
+276117,9/26/2013,FBS,Georgia Tech,Virginia Tech,PUNT RETURNS,Tony,Zenon,NO,1
+276118,9/26/2013,FBS,Georgia Tech,Virginia Tech,PUNT RETURNS,Tony,Zenon,YDS,-2
+276119,9/26/2013,FBS,Georgia Tech,Virginia Tech,PUNT RETURNS,Tony,Zenon,AVG,-2.0
+276120,9/26/2013,FBS,Georgia Tech,Virginia Tech,PUNT RETURNS,Tony,Zenon,LONG,0
+276121,9/26/2013,FBS,Georgia Tech,Virginia Tech,KICK RETURNS,Broderick,Snoddy,NO,2
+276122,9/26/2013,FBS,Georgia Tech,Virginia Tech,KICK RETURNS,Broderick,Snoddy,YDS,29
+276123,9/26/2013,FBS,Georgia Tech,Virginia Tech,KICK RETURNS,Broderick,Snoddy,AVG,14.5
+276124,9/26/2013,FBS,Georgia Tech,Virginia Tech,KICK RETURNS,Broderick,Snoddy,LONG,20

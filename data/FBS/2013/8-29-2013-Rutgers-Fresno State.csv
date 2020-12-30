@@ -1,0 +1,145 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+10001,8/29/2013,FBS,Rutgers,Fresno State,RUSHING,Paul,James,ATT,22
+10002,8/29/2013,FBS,Rutgers,Fresno State,RUSHING,Paul,James,YDS,182
+10003,8/29/2013,FBS,Rutgers,Fresno State,RUSHING,Paul,James,TD,0
+10004,8/29/2013,FBS,Rutgers,Fresno State,RUSHING,Paul,James,LONG,65
+10005,8/29/2013,FBS,Rutgers,Fresno State,RUSHING,Savon,Huggins,ATT,6
+10006,8/29/2013,FBS,Rutgers,Fresno State,RUSHING,Savon,Huggins,YDS,15
+10007,8/29/2013,FBS,Rutgers,Fresno State,RUSHING,Savon,Huggins,TD,0
+10008,8/29/2013,FBS,Rutgers,Fresno State,RUSHING,Savon,Huggins,LONG,11
+10009,8/29/2013,FBS,Rutgers,Fresno State,RUSHING,Gary,Nova,ATT,3
+10010,8/29/2013,FBS,Rutgers,Fresno State,RUSHING,Gary,Nova,YDS,0
+10011,8/29/2013,FBS,Rutgers,Fresno State,RUSHING,Gary,Nova,TD,0
+10012,8/29/2013,FBS,Rutgers,Fresno State,RUSHING,Gary,Nova,LONG,9
+10013,8/29/2013,FBS,Rutgers,Fresno State,RUSHING,,Team,ATT,1
+10014,8/29/2013,FBS,Rutgers,Fresno State,RUSHING,,Team,YDS,-2
+10015,8/29/2013,FBS,Rutgers,Fresno State,RUSHING,,Team,TD,0
+10016,8/29/2013,FBS,Rutgers,Fresno State,RUSHING,,Team,LONG,0
+10017,8/29/2013,FBS,Rutgers,Fresno State,PASSING,Gary,Nova,CP-ATT-INT,26-41-1
+10018,8/29/2013,FBS,Rutgers,Fresno State,PASSING,Gary,Nova,YDS,348
+10019,8/29/2013,FBS,Rutgers,Fresno State,PASSING,Gary,Nova,TD,5
+10020,8/29/2013,FBS,Rutgers,Fresno State,PASSING,Gary,Nova,LONG,69
+10021,8/29/2013,FBS,Rutgers,Fresno State,RECEIVING,Brandon,Coleman,REC,9
+10022,8/29/2013,FBS,Rutgers,Fresno State,RECEIVING,Brandon,Coleman,YDS,94
+10023,8/29/2013,FBS,Rutgers,Fresno State,RECEIVING,Brandon,Coleman,TD,2
+10024,8/29/2013,FBS,Rutgers,Fresno State,RECEIVING,Brandon,Coleman,LONG,28
+10025,8/29/2013,FBS,Rutgers,Fresno State,RECEIVING,Leonte,Carroo,REC,5
+10026,8/29/2013,FBS,Rutgers,Fresno State,RECEIVING,Leonte,Carroo,YDS,135
+10027,8/29/2013,FBS,Rutgers,Fresno State,RECEIVING,Leonte,Carroo,TD,3
+10028,8/29/2013,FBS,Rutgers,Fresno State,RECEIVING,Leonte,Carroo,LONG,69
+10029,8/29/2013,FBS,Rutgers,Fresno State,RECEIVING,Ruhann,Peele,REC,4
+10030,8/29/2013,FBS,Rutgers,Fresno State,RECEIVING,Ruhann,Peele,YDS,31
+10031,8/29/2013,FBS,Rutgers,Fresno State,RECEIVING,Ruhann,Peele,TD,0
+10032,8/29/2013,FBS,Rutgers,Fresno State,RECEIVING,Ruhann,Peele,LONG,21
+10033,8/29/2013,FBS,Rutgers,Fresno State,RECEIVING,Quron,Pratt,REC,3
+10034,8/29/2013,FBS,Rutgers,Fresno State,RECEIVING,Quron,Pratt,YDS,47
+10035,8/29/2013,FBS,Rutgers,Fresno State,RECEIVING,Quron,Pratt,TD,0
+10036,8/29/2013,FBS,Rutgers,Fresno State,RECEIVING,Quron,Pratt,LONG,18
+10037,8/29/2013,FBS,Rutgers,Fresno State,RECEIVING,Michael,Burton,REC,2
+10038,8/29/2013,FBS,Rutgers,Fresno State,RECEIVING,Michael,Burton,YDS,14
+10039,8/29/2013,FBS,Rutgers,Fresno State,RECEIVING,Michael,Burton,TD,0
+10040,8/29/2013,FBS,Rutgers,Fresno State,RECEIVING,Michael,Burton,LONG,12
+10041,8/29/2013,FBS,Rutgers,Fresno State,RECEIVING,Paul,Carrezola,REC,1
+10042,8/29/2013,FBS,Rutgers,Fresno State,RECEIVING,Paul,Carrezola,YDS,11
+10043,8/29/2013,FBS,Rutgers,Fresno State,RECEIVING,Paul,Carrezola,TD,0
+10044,8/29/2013,FBS,Rutgers,Fresno State,RECEIVING,Paul,Carrezola,LONG,11
+10045,8/29/2013,FBS,Rutgers,Fresno State,RECEIVING,Paul,James,REC,1
+10046,8/29/2013,FBS,Rutgers,Fresno State,RECEIVING,Paul,James,YDS,9
+10047,8/29/2013,FBS,Rutgers,Fresno State,RECEIVING,Paul,James,TD,0
+10048,8/29/2013,FBS,Rutgers,Fresno State,RECEIVING,Paul,James,LONG,9
+10049,8/29/2013,FBS,Rutgers,Fresno State,RECEIVING,Tyler,Kroft,REC,1
+10050,8/29/2013,FBS,Rutgers,Fresno State,RECEIVING,Tyler,Kroft,YDS,7
+10051,8/29/2013,FBS,Rutgers,Fresno State,RECEIVING,Tyler,Kroft,TD,0
+10052,8/29/2013,FBS,Rutgers,Fresno State,RECEIVING,Tyler,Kroft,LONG,7
+10053,8/29/2013,FBS,Rutgers,Fresno State,KICKING,Kyle,Federico,FG-FGA,3/4
+10054,8/29/2013,FBS,Rutgers,Fresno State,KICKING,Kyle,Federico,LONG,48
+10055,8/29/2013,FBS,Rutgers,Fresno State,KICKING,Kyle,Federico,XP,4
+10056,8/29/2013,FBS,Rutgers,Fresno State,KICKING,Kyle,Federico,PTS,13
+10057,8/29/2013,FBS,Rutgers,Fresno State,PUNTING,Nick,Marsh,NO,6
+10058,8/29/2013,FBS,Rutgers,Fresno State,PUNTING,Nick,Marsh,YDS,246
+10059,8/29/2013,FBS,Rutgers,Fresno State,PUNTING,Nick,Marsh,AVG,41.0
+10060,8/29/2013,FBS,Rutgers,Fresno State,PUNTING,Nick,Marsh,LONG,55
+10061,8/29/2013,FBS,Rutgers,Fresno State,PUNT RETURNS,Janarion,Grant,NO,2
+10062,8/29/2013,FBS,Rutgers,Fresno State,PUNT RETURNS,Janarion,Grant,YDS,-1
+10063,8/29/2013,FBS,Rutgers,Fresno State,PUNT RETURNS,Janarion,Grant,AVG,-0.5
+10064,8/29/2013,FBS,Rutgers,Fresno State,PUNT RETURNS,Janarion,Grant,LONG,0
+10065,8/29/2013,FBS,Rutgers,Fresno State,KICK RETURNS,Janarion,Grant,NO,2
+10066,8/29/2013,FBS,Rutgers,Fresno State,KICK RETURNS,Janarion,Grant,YDS,113
+10067,8/29/2013,FBS,Rutgers,Fresno State,KICK RETURNS,Janarion,Grant,AVG,56.5
+10068,8/29/2013,FBS,Rutgers,Fresno State,KICK RETURNS,Janarion,Grant,LONG,100
+10069,8/29/2013,FBS,Fresno State,Rutgers,RUSHING,Marteze,Waller,ATT,8
+10070,8/29/2013,FBS,Fresno State,Rutgers,RUSHING,Marteze,Waller,YDS,30
+10071,8/29/2013,FBS,Fresno State,Rutgers,RUSHING,Marteze,Waller,TD,0
+10072,8/29/2013,FBS,Fresno State,Rutgers,RUSHING,Marteze,Waller,LONG,17
+10073,8/29/2013,FBS,Fresno State,Rutgers,RUSHING,Josh,Quezada,ATT,7
+10074,8/29/2013,FBS,Fresno State,Rutgers,RUSHING,Josh,Quezada,YDS,29
+10075,8/29/2013,FBS,Fresno State,Rutgers,RUSHING,Josh,Quezada,TD,1
+10076,8/29/2013,FBS,Fresno State,Rutgers,RUSHING,Josh,Quezada,LONG,16
+10077,8/29/2013,FBS,Fresno State,Rutgers,RUSHING,Derek,Carr,ATT,4
+10078,8/29/2013,FBS,Fresno State,Rutgers,RUSHING,Derek,Carr,YDS,24
+10079,8/29/2013,FBS,Fresno State,Rutgers,RUSHING,Derek,Carr,TD,0
+10080,8/29/2013,FBS,Fresno State,Rutgers,RUSHING,Derek,Carr,LONG,17
+10081,8/29/2013,FBS,Fresno State,Rutgers,RUSHING,Malique,Micenheimer,ATT,3
+10082,8/29/2013,FBS,Fresno State,Rutgers,RUSHING,Malique,Micenheimer,YDS,1
+10083,8/29/2013,FBS,Fresno State,Rutgers,RUSHING,Malique,Micenheimer,TD,1
+10084,8/29/2013,FBS,Fresno State,Rutgers,RUSHING,Malique,Micenheimer,LONG,1
+10085,8/29/2013,FBS,Fresno State,Rutgers,RUSHING,Greg,Watson,ATT,1
+10086,8/29/2013,FBS,Fresno State,Rutgers,RUSHING,Greg,Watson,YDS,-3
+10087,8/29/2013,FBS,Fresno State,Rutgers,RUSHING,Greg,Watson,TD,0
+10088,8/29/2013,FBS,Fresno State,Rutgers,RUSHING,Greg,Watson,LONG,0
+10089,8/29/2013,FBS,Fresno State,Rutgers,PASSING,Derek,Carr,CP-ATT-INT,52-73-1
+10090,8/29/2013,FBS,Fresno State,Rutgers,PASSING,Derek,Carr,YDS,456
+10091,8/29/2013,FBS,Fresno State,Rutgers,PASSING,Derek,Carr,TD,5
+10092,8/29/2013,FBS,Fresno State,Rutgers,PASSING,Derek,Carr,LONG,27
+10093,8/29/2013,FBS,Fresno State,Rutgers,RECEIVING,Davante,Adams,REC,14
+10094,8/29/2013,FBS,Fresno State,Rutgers,RECEIVING,Davante,Adams,YDS,148
+10095,8/29/2013,FBS,Fresno State,Rutgers,RECEIVING,Davante,Adams,TD,2
+10096,8/29/2013,FBS,Fresno State,Rutgers,RECEIVING,Davante,Adams,LONG,27
+10097,8/29/2013,FBS,Fresno State,Rutgers,RECEIVING,Josh,Harper,REC,14
+10098,8/29/2013,FBS,Fresno State,Rutgers,RECEIVING,Josh,Harper,YDS,94
+10099,8/29/2013,FBS,Fresno State,Rutgers,RECEIVING,Josh,Harper,TD,2
+10100,8/29/2013,FBS,Fresno State,Rutgers,RECEIVING,Josh,Harper,LONG,16
+10101,8/29/2013,FBS,Fresno State,Rutgers,RECEIVING,Isaiah,Burse,REC,13
+10102,8/29/2013,FBS,Fresno State,Rutgers,RECEIVING,Isaiah,Burse,YDS,118
+10103,8/29/2013,FBS,Fresno State,Rutgers,RECEIVING,Isaiah,Burse,TD,0
+10104,8/29/2013,FBS,Fresno State,Rutgers,RECEIVING,Isaiah,Burse,LONG,25
+10105,8/29/2013,FBS,Fresno State,Rutgers,RECEIVING,Josh,Quezada,REC,4
+10106,8/29/2013,FBS,Fresno State,Rutgers,RECEIVING,Josh,Quezada,YDS,21
+10107,8/29/2013,FBS,Fresno State,Rutgers,RECEIVING,Josh,Quezada,TD,0
+10108,8/29/2013,FBS,Fresno State,Rutgers,RECEIVING,Josh,Quezada,LONG,11
+10109,8/29/2013,FBS,Fresno State,Rutgers,RECEIVING,Greg,Watson,REC,2
+10110,8/29/2013,FBS,Fresno State,Rutgers,RECEIVING,Greg,Watson,YDS,33
+10111,8/29/2013,FBS,Fresno State,Rutgers,RECEIVING,Greg,Watson,TD,1
+10112,8/29/2013,FBS,Fresno State,Rutgers,RECEIVING,Greg,Watson,LONG,25
+10113,8/29/2013,FBS,Fresno State,Rutgers,RECEIVING,Marcel,Jensen,REC,2
+10114,8/29/2013,FBS,Fresno State,Rutgers,RECEIVING,Marcel,Jensen,YDS,25
+10115,8/29/2013,FBS,Fresno State,Rutgers,RECEIVING,Marcel,Jensen,TD,0
+10116,8/29/2013,FBS,Fresno State,Rutgers,RECEIVING,Marcel,Jensen,LONG,20
+10117,8/29/2013,FBS,Fresno State,Rutgers,RECEIVING,Malique,Micenheimer,REC,2
+10118,8/29/2013,FBS,Fresno State,Rutgers,RECEIVING,Malique,Micenheimer,YDS,14
+10119,8/29/2013,FBS,Fresno State,Rutgers,RECEIVING,Malique,Micenheimer,TD,0
+10120,8/29/2013,FBS,Fresno State,Rutgers,RECEIVING,Malique,Micenheimer,LONG,11
+10121,8/29/2013,FBS,Fresno State,Rutgers,RECEIVING,Marteze,Waller,REC,1
+10122,8/29/2013,FBS,Fresno State,Rutgers,RECEIVING,Marteze,Waller,YDS,3
+10123,8/29/2013,FBS,Fresno State,Rutgers,RECEIVING,Marteze,Waller,TD,0
+10124,8/29/2013,FBS,Fresno State,Rutgers,RECEIVING,Marteze,Waller,LONG,3
+10125,8/29/2013,FBS,Fresno State,Rutgers,KICKING,Colin,McGuire,FG-FGA,1/1
+10126,8/29/2013,FBS,Fresno State,Rutgers,KICKING,Colin,McGuire,LONG,47
+10127,8/29/2013,FBS,Fresno State,Rutgers,KICKING,Colin,McGuire,XP,7
+10128,8/29/2013,FBS,Fresno State,Rutgers,KICKING,Colin,McGuire,PTS,10
+10129,8/29/2013,FBS,Fresno State,Rutgers,PUNTING,Garrett,Swanson,NO,6
+10130,8/29/2013,FBS,Fresno State,Rutgers,PUNTING,Garrett,Swanson,YDS,231
+10131,8/29/2013,FBS,Fresno State,Rutgers,PUNTING,Garrett,Swanson,AVG,38.5
+10132,8/29/2013,FBS,Fresno State,Rutgers,PUNTING,Garrett,Swanson,LONG,46
+10133,8/29/2013,FBS,Fresno State,Rutgers,PUNTING,Derek,Carr,NO,1
+10134,8/29/2013,FBS,Fresno State,Rutgers,PUNTING,Derek,Carr,YDS,30
+10135,8/29/2013,FBS,Fresno State,Rutgers,PUNTING,Derek,Carr,AVG,30.0
+10136,8/29/2013,FBS,Fresno State,Rutgers,PUNTING,Derek,Carr,LONG,30
+10137,8/29/2013,FBS,Fresno State,Rutgers,PUNT RETURNS,Isaiah,Burse,NO,3
+10138,8/29/2013,FBS,Fresno State,Rutgers,PUNT RETURNS,Isaiah,Burse,YDS,47
+10139,8/29/2013,FBS,Fresno State,Rutgers,PUNT RETURNS,Isaiah,Burse,AVG,15.7
+10140,8/29/2013,FBS,Fresno State,Rutgers,PUNT RETURNS,Isaiah,Burse,LONG,24
+10141,8/29/2013,FBS,Fresno State,Rutgers,KICK RETURNS,Dillon,Root,NO,7
+10142,8/29/2013,FBS,Fresno State,Rutgers,KICK RETURNS,Dillon,Root,YDS,181
+10143,8/29/2013,FBS,Fresno State,Rutgers,KICK RETURNS,Dillon,Root,AVG,25.9
+10144,8/29/2013,FBS,Fresno State,Rutgers,KICK RETURNS,Dillon,Root,LONG,56

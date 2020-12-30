@@ -1,0 +1,141 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+320001,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RUSHING,Trey,Edmunds,ATT,14
+320002,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RUSHING,Trey,Edmunds,YDS,74
+320003,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RUSHING,Trey,Edmunds,TD,4
+320004,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RUSHING,Trey,Edmunds,LONG,13
+320005,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RUSHING,J.C.,Coleman,ATT,22
+320006,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RUSHING,J.C.,Coleman,YDS,68
+320007,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RUSHING,J.C.,Coleman,TD,0
+320008,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RUSHING,J.C.,Coleman,LONG,13
+320009,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RUSHING,Logan,Thomas,ATT,10
+320010,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RUSHING,Logan,Thomas,YDS,42
+320011,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RUSHING,Logan,Thomas,TD,0
+320012,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RUSHING,Logan,Thomas,LONG,18
+320013,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RUSHING,,Team,ATT,1
+320014,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RUSHING,,Team,YDS,-1
+320015,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RUSHING,,Team,TD,0
+320016,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RUSHING,,Team,LONG,0
+320017,11/9/2013,FBS,Virginia Tech,Miami (Fla.),PASSING,Logan,Thomas,CP-ATT-INT,25-31-0
+320018,11/9/2013,FBS,Virginia Tech,Miami (Fla.),PASSING,Logan,Thomas,YDS,366
+320019,11/9/2013,FBS,Virginia Tech,Miami (Fla.),PASSING,Logan,Thomas,TD,2
+320020,11/9/2013,FBS,Virginia Tech,Miami (Fla.),PASSING,Logan,Thomas,LONG,48
+320021,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RECEIVING,Joshua,Stanford,REC,7
+320022,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RECEIVING,Joshua,Stanford,YDS,107
+320023,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RECEIVING,Joshua,Stanford,TD,1
+320024,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RECEIVING,Joshua,Stanford,LONG,32
+320025,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RECEIVING,Willie,Byrn,REC,6
+320026,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RECEIVING,Willie,Byrn,YDS,105
+320027,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RECEIVING,Willie,Byrn,TD,0
+320028,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RECEIVING,Willie,Byrn,LONG,48
+320029,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RECEIVING,D.J.,Coles,REC,3
+320030,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RECEIVING,D.J.,Coles,YDS,68
+320031,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RECEIVING,D.J.,Coles,TD,0
+320032,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RECEIVING,D.J.,Coles,LONG,30
+320033,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RECEIVING,Demitri,Knowles,REC,2
+320034,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RECEIVING,Demitri,Knowles,YDS,25
+320035,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RECEIVING,Demitri,Knowles,TD,1
+320036,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RECEIVING,Demitri,Knowles,LONG,19
+320037,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RECEIVING,J.C.,Coleman,REC,2
+320038,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RECEIVING,J.C.,Coleman,YDS,18
+320039,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RECEIVING,J.C.,Coleman,TD,0
+320040,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RECEIVING,J.C.,Coleman,LONG,11
+320041,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RECEIVING,Trey,Edmunds,REC,2
+320042,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RECEIVING,Trey,Edmunds,YDS,17
+320043,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RECEIVING,Trey,Edmunds,TD,0
+320044,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RECEIVING,Trey,Edmunds,LONG,15
+320045,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RECEIVING,Kalvin,Cline,REC,2
+320046,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RECEIVING,Kalvin,Cline,YDS,8
+320047,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RECEIVING,Kalvin,Cline,TD,0
+320048,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RECEIVING,Kalvin,Cline,LONG,4
+320049,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RECEIVING,Sam,Rogers,REC,1
+320050,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RECEIVING,Sam,Rogers,YDS,18
+320051,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RECEIVING,Sam,Rogers,TD,0
+320052,11/9/2013,FBS,Virginia Tech,Miami (Fla.),RECEIVING,Sam,Rogers,LONG,18
+320053,11/9/2013,FBS,Virginia Tech,Miami (Fla.),KICKING,Cody,Journell,FG-FGA,0/0
+320054,11/9/2013,FBS,Virginia Tech,Miami (Fla.),KICKING,Cody,Journell,LONG,-
+320055,11/9/2013,FBS,Virginia Tech,Miami (Fla.),KICKING,Cody,Journell,XP,6
+320056,11/9/2013,FBS,Virginia Tech,Miami (Fla.),KICKING,Cody,Journell,PTS,6
+320057,11/9/2013,FBS,Virginia Tech,Miami (Fla.),PUNTING,A.J.,Hughes,NO,5
+320058,11/9/2013,FBS,Virginia Tech,Miami (Fla.),PUNTING,A.J.,Hughes,YDS,208
+320059,11/9/2013,FBS,Virginia Tech,Miami (Fla.),PUNTING,A.J.,Hughes,AVG,41.6
+320060,11/9/2013,FBS,Virginia Tech,Miami (Fla.),PUNTING,A.J.,Hughes,LONG,55
+320061,11/9/2013,FBS,Virginia Tech,Miami (Fla.),PUNT RETURNS,Willie,Byrn,NO,2
+320062,11/9/2013,FBS,Virginia Tech,Miami (Fla.),PUNT RETURNS,Willie,Byrn,YDS,5
+320063,11/9/2013,FBS,Virginia Tech,Miami (Fla.),PUNT RETURNS,Willie,Byrn,AVG,2.5
+320064,11/9/2013,FBS,Virginia Tech,Miami (Fla.),PUNT RETURNS,Willie,Byrn,LONG,7
+320065,11/9/2013,FBS,Virginia Tech,Miami (Fla.),KICK RETURNS,Demitri,Knowles,NO,2
+320066,11/9/2013,FBS,Virginia Tech,Miami (Fla.),KICK RETURNS,Demitri,Knowles,YDS,36
+320067,11/9/2013,FBS,Virginia Tech,Miami (Fla.),KICK RETURNS,Demitri,Knowles,AVG,18.0
+320068,11/9/2013,FBS,Virginia Tech,Miami (Fla.),KICK RETURNS,Demitri,Knowles,LONG,20
+320069,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RUSHING,Dallas,Crawford,ATT,10
+320070,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RUSHING,Dallas,Crawford,YDS,37
+320071,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RUSHING,Dallas,Crawford,TD,1
+320072,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RUSHING,Dallas,Crawford,LONG,35
+320073,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RUSHING,Gus,Edwards,ATT,7
+320074,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RUSHING,Gus,Edwards,YDS,13
+320075,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RUSHING,Gus,Edwards,TD,0
+320076,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RUSHING,Gus,Edwards,LONG,9
+320077,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RUSHING,Maurice,Hagens,ATT,1
+320078,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RUSHING,Maurice,Hagens,YDS,3
+320079,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RUSHING,Maurice,Hagens,TD,0
+320080,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RUSHING,Maurice,Hagens,LONG,3
+320081,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RUSHING,Stephen,Morris,ATT,5
+320082,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RUSHING,Stephen,Morris,YDS,-11
+320083,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RUSHING,Stephen,Morris,TD,0
+320084,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RUSHING,Stephen,Morris,LONG,5
+320085,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RUSHING,,Team,ATT,1
+320086,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RUSHING,,Team,YDS,-14
+320087,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RUSHING,,Team,TD,0
+320088,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RUSHING,,Team,LONG,0
+320089,11/9/2013,FBS,Miami (Fla.),Virginia Tech,PASSING,Stephen,Morris,CP-ATT-INT,16-29-0
+320090,11/9/2013,FBS,Miami (Fla.),Virginia Tech,PASSING,Stephen,Morris,YDS,324
+320091,11/9/2013,FBS,Miami (Fla.),Virginia Tech,PASSING,Stephen,Morris,TD,2
+320092,11/9/2013,FBS,Miami (Fla.),Virginia Tech,PASSING,Stephen,Morris,LONG,84
+320093,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RECEIVING,Clive,Walford,REC,5
+320094,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RECEIVING,Clive,Walford,YDS,23
+320095,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RECEIVING,Clive,Walford,TD,0
+320096,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RECEIVING,Clive,Walford,LONG,9
+320097,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RECEIVING,Allen,Hurns,REC,4
+320098,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RECEIVING,Allen,Hurns,YDS,142
+320099,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RECEIVING,Allen,Hurns,TD,1
+320100,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RECEIVING,Allen,Hurns,LONG,84
+320101,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RECEIVING,Dallas,Crawford,REC,3
+320102,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RECEIVING,Dallas,Crawford,YDS,41
+320103,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RECEIVING,Dallas,Crawford,TD,0
+320104,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RECEIVING,Dallas,Crawford,LONG,30
+320105,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RECEIVING,Herb,Waters,REC,2
+320106,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RECEIVING,Herb,Waters,YDS,18
+320107,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RECEIVING,Herb,Waters,TD,0
+320108,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RECEIVING,Herb,Waters,LONG,13
+320109,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RECEIVING,Stacy,Coley,REC,1
+320110,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RECEIVING,Stacy,Coley,YDS,81
+320111,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RECEIVING,Stacy,Coley,TD,1
+320112,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RECEIVING,Stacy,Coley,LONG,81
+320113,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RECEIVING,Malcolm,Lewis,REC,1
+320114,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RECEIVING,Malcolm,Lewis,YDS,19
+320115,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RECEIVING,Malcolm,Lewis,TD,0
+320116,11/9/2013,FBS,Miami (Fla.),Virginia Tech,RECEIVING,Malcolm,Lewis,LONG,19
+320117,11/9/2013,FBS,Miami (Fla.),Virginia Tech,KICKING,Matt,Goudis,FG-FGA,1/1
+320118,11/9/2013,FBS,Miami (Fla.),Virginia Tech,KICKING,Matt,Goudis,LONG,49
+320119,11/9/2013,FBS,Miami (Fla.),Virginia Tech,KICKING,Matt,Goudis,XP,3
+320120,11/9/2013,FBS,Miami (Fla.),Virginia Tech,KICKING,Matt,Goudis,PTS,6
+320121,11/9/2013,FBS,Miami (Fla.),Virginia Tech,PUNTING,Pat,O'Donnell,NO,5
+320122,11/9/2013,FBS,Miami (Fla.),Virginia Tech,PUNTING,Pat,O'Donnell,YDS,276
+320123,11/9/2013,FBS,Miami (Fla.),Virginia Tech,PUNTING,Pat,O'Donnell,AVG,55.2
+320124,11/9/2013,FBS,Miami (Fla.),Virginia Tech,PUNTING,Pat,O'Donnell,LONG,63
+320125,11/9/2013,FBS,Miami (Fla.),Virginia Tech,PUNT RETURNS,Stacy,Coley,NO,2
+320126,11/9/2013,FBS,Miami (Fla.),Virginia Tech,PUNT RETURNS,Stacy,Coley,YDS,39
+320127,11/9/2013,FBS,Miami (Fla.),Virginia Tech,PUNT RETURNS,Stacy,Coley,AVG,19.5
+320128,11/9/2013,FBS,Miami (Fla.),Virginia Tech,PUNT RETURNS,Stacy,Coley,LONG,23
+320129,11/9/2013,FBS,Miami (Fla.),Virginia Tech,KICK RETURNS,Stacy,Coley,NO,4
+320130,11/9/2013,FBS,Miami (Fla.),Virginia Tech,KICK RETURNS,Stacy,Coley,YDS,93
+320131,11/9/2013,FBS,Miami (Fla.),Virginia Tech,KICK RETURNS,Stacy,Coley,AVG,23.2
+320132,11/9/2013,FBS,Miami (Fla.),Virginia Tech,KICK RETURNS,Stacy,Coley,LONG,30
+320133,11/9/2013,FBS,Miami (Fla.),Virginia Tech,KICK RETURNS,Artie,Burns,NO,2
+320134,11/9/2013,FBS,Miami (Fla.),Virginia Tech,KICK RETURNS,Artie,Burns,YDS,76
+320135,11/9/2013,FBS,Miami (Fla.),Virginia Tech,KICK RETURNS,Artie,Burns,AVG,38.0
+320136,11/9/2013,FBS,Miami (Fla.),Virginia Tech,KICK RETURNS,Artie,Burns,LONG,43
+320137,11/9/2013,FBS,Miami (Fla.),Virginia Tech,KICK RETURNS,Corn,Elder,NO,1
+320138,11/9/2013,FBS,Miami (Fla.),Virginia Tech,KICK RETURNS,Corn,Elder,YDS,39
+320139,11/9/2013,FBS,Miami (Fla.),Virginia Tech,KICK RETURNS,Corn,Elder,AVG,39.0
+320140,11/9/2013,FBS,Miami (Fla.),Virginia Tech,KICK RETURNS,Corn,Elder,LONG,39

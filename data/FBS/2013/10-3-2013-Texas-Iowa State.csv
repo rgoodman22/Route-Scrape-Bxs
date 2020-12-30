@@ -1,0 +1,149 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+329001,10/3/2013,FBS,Texas,Iowa State,RUSHING,Johnathan,Gray,ATT,16
+329002,10/3/2013,FBS,Texas,Iowa State,RUSHING,Johnathan,Gray,YDS,89
+329003,10/3/2013,FBS,Texas,Iowa State,RUSHING,Johnathan,Gray,TD,1
+329004,10/3/2013,FBS,Texas,Iowa State,RUSHING,Johnathan,Gray,LONG,45
+329005,10/3/2013,FBS,Texas,Iowa State,RUSHING,Joe,Bergeron,ATT,4
+329006,10/3/2013,FBS,Texas,Iowa State,RUSHING,Joe,Bergeron,YDS,36
+329007,10/3/2013,FBS,Texas,Iowa State,RUSHING,Joe,Bergeron,TD,1
+329008,10/3/2013,FBS,Texas,Iowa State,RUSHING,Joe,Bergeron,LONG,12
+329009,10/3/2013,FBS,Texas,Iowa State,RUSHING,Malcolm,Brown,ATT,3
+329010,10/3/2013,FBS,Texas,Iowa State,RUSHING,Malcolm,Brown,YDS,8
+329011,10/3/2013,FBS,Texas,Iowa State,RUSHING,Malcolm,Brown,TD,0
+329012,10/3/2013,FBS,Texas,Iowa State,RUSHING,Malcolm,Brown,LONG,5
+329013,10/3/2013,FBS,Texas,Iowa State,RUSHING,,Team,ATT,1
+329014,10/3/2013,FBS,Texas,Iowa State,RUSHING,,Team,YDS,-2
+329015,10/3/2013,FBS,Texas,Iowa State,RUSHING,,Team,TD,0
+329016,10/3/2013,FBS,Texas,Iowa State,RUSHING,,Team,LONG,0
+329017,10/3/2013,FBS,Texas,Iowa State,RUSHING,Case,McCoy,ATT,5
+329018,10/3/2013,FBS,Texas,Iowa State,RUSHING,Case,McCoy,YDS,-12
+329019,10/3/2013,FBS,Texas,Iowa State,RUSHING,Case,McCoy,TD,1
+329020,10/3/2013,FBS,Texas,Iowa State,RUSHING,Case,McCoy,LONG,1
+329021,10/3/2013,FBS,Texas,Iowa State,PASSING,Case,McCoy,CP-ATT-INT,26-45-0
+329022,10/3/2013,FBS,Texas,Iowa State,PASSING,Case,McCoy,YDS,244
+329023,10/3/2013,FBS,Texas,Iowa State,PASSING,Case,McCoy,TD,1
+329024,10/3/2013,FBS,Texas,Iowa State,PASSING,Case,McCoy,LONG,44
+329025,10/3/2013,FBS,Texas,Iowa State,RECEIVING,Kendall,Sanders,REC,7
+329026,10/3/2013,FBS,Texas,Iowa State,RECEIVING,Kendall,Sanders,YDS,40
+329027,10/3/2013,FBS,Texas,Iowa State,RECEIVING,Kendall,Sanders,TD,0
+329028,10/3/2013,FBS,Texas,Iowa State,RECEIVING,Kendall,Sanders,LONG,15
+329029,10/3/2013,FBS,Texas,Iowa State,RECEIVING,Mike,Davis,REC,6
+329030,10/3/2013,FBS,Texas,Iowa State,RECEIVING,Mike,Davis,YDS,64
+329031,10/3/2013,FBS,Texas,Iowa State,RECEIVING,Mike,Davis,TD,0
+329032,10/3/2013,FBS,Texas,Iowa State,RECEIVING,Mike,Davis,LONG,16
+329033,10/3/2013,FBS,Texas,Iowa State,RECEIVING,Jaxon,Shipley,REC,3
+329034,10/3/2013,FBS,Texas,Iowa State,RECEIVING,Jaxon,Shipley,YDS,29
+329035,10/3/2013,FBS,Texas,Iowa State,RECEIVING,Jaxon,Shipley,TD,0
+329036,10/3/2013,FBS,Texas,Iowa State,RECEIVING,Jaxon,Shipley,LONG,19
+329037,10/3/2013,FBS,Texas,Iowa State,RECEIVING,Johnathan,Gray,REC,3
+329038,10/3/2013,FBS,Texas,Iowa State,RECEIVING,Johnathan,Gray,YDS,15
+329039,10/3/2013,FBS,Texas,Iowa State,RECEIVING,Johnathan,Gray,TD,0
+329040,10/3/2013,FBS,Texas,Iowa State,RECEIVING,Johnathan,Gray,LONG,10
+329041,10/3/2013,FBS,Texas,Iowa State,RECEIVING,Daje,Johnson,REC,2
+329042,10/3/2013,FBS,Texas,Iowa State,RECEIVING,Daje,Johnson,YDS,25
+329043,10/3/2013,FBS,Texas,Iowa State,RECEIVING,Daje,Johnson,TD,0
+329044,10/3/2013,FBS,Texas,Iowa State,RECEIVING,Daje,Johnson,LONG,18
+329045,10/3/2013,FBS,Texas,Iowa State,RECEIVING,Joe,Bergeron,REC,2
+329046,10/3/2013,FBS,Texas,Iowa State,RECEIVING,Joe,Bergeron,YDS,15
+329047,10/3/2013,FBS,Texas,Iowa State,RECEIVING,Joe,Bergeron,TD,0
+329048,10/3/2013,FBS,Texas,Iowa State,RECEIVING,Joe,Bergeron,LONG,12
+329049,10/3/2013,FBS,Texas,Iowa State,RECEIVING,Malcolm,Brown,REC,2
+329050,10/3/2013,FBS,Texas,Iowa State,RECEIVING,Malcolm,Brown,YDS,12
+329051,10/3/2013,FBS,Texas,Iowa State,RECEIVING,Malcolm,Brown,TD,0
+329052,10/3/2013,FBS,Texas,Iowa State,RECEIVING,Malcolm,Brown,LONG,8
+329053,10/3/2013,FBS,Texas,Iowa State,RECEIVING,John,Harris,REC,1
+329054,10/3/2013,FBS,Texas,Iowa State,RECEIVING,John,Harris,YDS,44
+329055,10/3/2013,FBS,Texas,Iowa State,RECEIVING,John,Harris,TD,1
+329056,10/3/2013,FBS,Texas,Iowa State,RECEIVING,John,Harris,LONG,44
+329057,10/3/2013,FBS,Texas,Iowa State,KICKING,Anthony,Fera,FG-FGA,1/1
+329058,10/3/2013,FBS,Texas,Iowa State,KICKING,Anthony,Fera,LONG,29
+329059,10/3/2013,FBS,Texas,Iowa State,KICKING,Anthony,Fera,XP,4
+329060,10/3/2013,FBS,Texas,Iowa State,KICKING,Anthony,Fera,PTS,7
+329061,10/3/2013,FBS,Texas,Iowa State,PUNTING,Anthony,Fera,NO,8
+329062,10/3/2013,FBS,Texas,Iowa State,PUNTING,Anthony,Fera,YDS,351
+329063,10/3/2013,FBS,Texas,Iowa State,PUNTING,Anthony,Fera,AVG,43.9
+329064,10/3/2013,FBS,Texas,Iowa State,PUNTING,Anthony,Fera,LONG,53
+329065,10/3/2013,FBS,Texas,Iowa State,PUNT RETURNS,Jaxon,Shipley,NO,1
+329066,10/3/2013,FBS,Texas,Iowa State,PUNT RETURNS,Jaxon,Shipley,YDS,2
+329067,10/3/2013,FBS,Texas,Iowa State,PUNT RETURNS,Jaxon,Shipley,AVG,2.0
+329068,10/3/2013,FBS,Texas,Iowa State,PUNT RETURNS,Jaxon,Shipley,LONG,0
+329069,10/3/2013,FBS,Texas,Iowa State,KICK RETURNS,Daje,Johnson,NO,3
+329070,10/3/2013,FBS,Texas,Iowa State,KICK RETURNS,Daje,Johnson,YDS,47
+329071,10/3/2013,FBS,Texas,Iowa State,KICK RETURNS,Daje,Johnson,AVG,15.7
+329072,10/3/2013,FBS,Texas,Iowa State,KICK RETURNS,Daje,Johnson,LONG,18
+329073,10/3/2013,FBS,Texas,Iowa State,KICK RETURNS,Kendall,Sanders,NO,1
+329074,10/3/2013,FBS,Texas,Iowa State,KICK RETURNS,Kendall,Sanders,YDS,17
+329075,10/3/2013,FBS,Texas,Iowa State,KICK RETURNS,Kendall,Sanders,AVG,17.0
+329076,10/3/2013,FBS,Texas,Iowa State,KICK RETURNS,Kendall,Sanders,LONG,17
+329077,10/3/2013,FBS,Iowa State,Texas,RUSHING,Aaron,Wimberly,ATT,29
+329078,10/3/2013,FBS,Iowa State,Texas,RUSHING,Aaron,Wimberly,YDS,117
+329079,10/3/2013,FBS,Iowa State,Texas,RUSHING,Aaron,Wimberly,TD,1
+329080,10/3/2013,FBS,Iowa State,Texas,RUSHING,Aaron,Wimberly,LONG,20
+329081,10/3/2013,FBS,Iowa State,Texas,RUSHING,Sam,B.Richardson,ATT,17
+329082,10/3/2013,FBS,Iowa State,Texas,RUSHING,Sam,B.Richardson,YDS,83
+329083,10/3/2013,FBS,Iowa State,Texas,RUSHING,Sam,B.Richardson,TD,0
+329084,10/3/2013,FBS,Iowa State,Texas,RUSHING,Sam,B.Richardson,LONG,21
+329085,10/3/2013,FBS,Iowa State,Texas,RUSHING,Jeff,Woody,ATT,2
+329086,10/3/2013,FBS,Iowa State,Texas,RUSHING,Jeff,Woody,YDS,2
+329087,10/3/2013,FBS,Iowa State,Texas,RUSHING,Jeff,Woody,TD,0
+329088,10/3/2013,FBS,Iowa State,Texas,RUSHING,Jeff,Woody,LONG,3
+329089,10/3/2013,FBS,Iowa State,Texas,RUSHING,Jarvis,West,ATT,1
+329090,10/3/2013,FBS,Iowa State,Texas,RUSHING,Jarvis,West,YDS,0
+329091,10/3/2013,FBS,Iowa State,Texas,RUSHING,Jarvis,West,TD,0
+329092,10/3/2013,FBS,Iowa State,Texas,RUSHING,Jarvis,West,LONG,0
+329093,10/3/2013,FBS,Iowa State,Texas,RUSHING,James,White,ATT,1
+329094,10/3/2013,FBS,Iowa State,Texas,RUSHING,James,White,YDS,-1
+329095,10/3/2013,FBS,Iowa State,Texas,RUSHING,James,White,TD,0
+329096,10/3/2013,FBS,Iowa State,Texas,RUSHING,James,White,LONG,0
+329097,10/3/2013,FBS,Iowa State,Texas,PASSING,Sam,B.Richardson,CP-ATT-INT,16-26-1
+329098,10/3/2013,FBS,Iowa State,Texas,PASSING,Sam,B.Richardson,YDS,262
+329099,10/3/2013,FBS,Iowa State,Texas,PASSING,Sam,B.Richardson,TD,2
+329100,10/3/2013,FBS,Iowa State,Texas,PASSING,Sam,B.Richardson,LONG,97
+329101,10/3/2013,FBS,Iowa State,Texas,PASSING,,Team,CP-ATT-INT,0-1-0
+329102,10/3/2013,FBS,Iowa State,Texas,PASSING,,Team,YDS,0
+329103,10/3/2013,FBS,Iowa State,Texas,PASSING,,Team,TD,0
+329104,10/3/2013,FBS,Iowa State,Texas,PASSING,,Team,LONG,0
+329105,10/3/2013,FBS,Iowa State,Texas,RECEIVING,Quenton,Bundrage,REC,5
+329106,10/3/2013,FBS,Iowa State,Texas,RECEIVING,Quenton,Bundrage,YDS,137
+329107,10/3/2013,FBS,Iowa State,Texas,RECEIVING,Quenton,Bundrage,TD,1
+329108,10/3/2013,FBS,Iowa State,Texas,RECEIVING,Quenton,Bundrage,LONG,97
+329109,10/3/2013,FBS,Iowa State,Texas,RECEIVING,E.J.,Bibbs,REC,3
+329110,10/3/2013,FBS,Iowa State,Texas,RECEIVING,E.J.,Bibbs,YDS,43
+329111,10/3/2013,FBS,Iowa State,Texas,RECEIVING,E.J.,Bibbs,TD,0
+329112,10/3/2013,FBS,Iowa State,Texas,RECEIVING,E.J.,Bibbs,LONG,22
+329113,10/3/2013,FBS,Iowa State,Texas,RECEIVING,James,White,REC,2
+329114,10/3/2013,FBS,Iowa State,Texas,RECEIVING,James,White,YDS,24
+329115,10/3/2013,FBS,Iowa State,Texas,RECEIVING,James,White,TD,0
+329116,10/3/2013,FBS,Iowa State,Texas,RECEIVING,James,White,LONG,15
+329117,10/3/2013,FBS,Iowa State,Texas,RECEIVING,Aaron,Wimberly,REC,2
+329118,10/3/2013,FBS,Iowa State,Texas,RECEIVING,Aaron,Wimberly,YDS,23
+329119,10/3/2013,FBS,Iowa State,Texas,RECEIVING,Aaron,Wimberly,TD,1
+329120,10/3/2013,FBS,Iowa State,Texas,RECEIVING,Aaron,Wimberly,LONG,12
+329121,10/3/2013,FBS,Iowa State,Texas,RECEIVING,Justin,Coleman,REC,2
+329122,10/3/2013,FBS,Iowa State,Texas,RECEIVING,Justin,Coleman,YDS,20
+329123,10/3/2013,FBS,Iowa State,Texas,RECEIVING,Justin,Coleman,TD,0
+329124,10/3/2013,FBS,Iowa State,Texas,RECEIVING,Justin,Coleman,LONG,13
+329125,10/3/2013,FBS,Iowa State,Texas,RECEIVING,Jarvis,West,REC,1
+329126,10/3/2013,FBS,Iowa State,Texas,RECEIVING,Jarvis,West,YDS,8
+329127,10/3/2013,FBS,Iowa State,Texas,RECEIVING,Jarvis,West,TD,0
+329128,10/3/2013,FBS,Iowa State,Texas,RECEIVING,Jarvis,West,LONG,8
+329129,10/3/2013,FBS,Iowa State,Texas,RECEIVING,Tad,Ecby,REC,1
+329130,10/3/2013,FBS,Iowa State,Texas,RECEIVING,Tad,Ecby,YDS,7
+329131,10/3/2013,FBS,Iowa State,Texas,RECEIVING,Tad,Ecby,TD,0
+329132,10/3/2013,FBS,Iowa State,Texas,RECEIVING,Tad,Ecby,LONG,7
+329133,10/3/2013,FBS,Iowa State,Texas,KICKING,Cole,Netten,FG-FGA,3/3
+329134,10/3/2013,FBS,Iowa State,Texas,KICKING,Cole,Netten,LONG,41
+329135,10/3/2013,FBS,Iowa State,Texas,KICKING,Cole,Netten,XP,3
+329136,10/3/2013,FBS,Iowa State,Texas,KICKING,Cole,Netten,PTS,12
+329137,10/3/2013,FBS,Iowa State,Texas,PUNTING,Kirby,VanDerKamp,NO,6
+329138,10/3/2013,FBS,Iowa State,Texas,PUNTING,Kirby,VanDerKamp,YDS,238
+329139,10/3/2013,FBS,Iowa State,Texas,PUNTING,Kirby,VanDerKamp,AVG,39.7
+329140,10/3/2013,FBS,Iowa State,Texas,PUNTING,Kirby,VanDerKamp,LONG,46
+329141,10/3/2013,FBS,Iowa State,Texas,PUNT RETURNS,Quenton,Bundrage,NO,1
+329142,10/3/2013,FBS,Iowa State,Texas,PUNT RETURNS,Quenton,Bundrage,YDS,0
+329143,10/3/2013,FBS,Iowa State,Texas,PUNT RETURNS,Quenton,Bundrage,AVG,0.0
+329144,10/3/2013,FBS,Iowa State,Texas,PUNT RETURNS,Quenton,Bundrage,LONG,0
+329145,10/3/2013,FBS,Iowa State,Texas,KICK RETURNS,Jarvis,West,NO,1
+329146,10/3/2013,FBS,Iowa State,Texas,KICK RETURNS,Jarvis,West,YDS,39
+329147,10/3/2013,FBS,Iowa State,Texas,KICK RETURNS,Jarvis,West,AVG,39.0
+329148,10/3/2013,FBS,Iowa State,Texas,KICK RETURNS,Jarvis,West,LONG,39

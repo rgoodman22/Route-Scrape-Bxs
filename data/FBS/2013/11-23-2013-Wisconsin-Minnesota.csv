@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+433001,11/23/2013,FBS,Wisconsin,Minnesota,RUSHING,James,White,ATT,26
+433002,11/23/2013,FBS,Wisconsin,Minnesota,RUSHING,James,White,YDS,125
+433003,11/23/2013,FBS,Wisconsin,Minnesota,RUSHING,James,White,TD,1
+433004,11/23/2013,FBS,Wisconsin,Minnesota,RUSHING,James,White,LONG,49
+433005,11/23/2013,FBS,Wisconsin,Minnesota,RUSHING,Melvin,Gordon,ATT,12
+433006,11/23/2013,FBS,Wisconsin,Minnesota,RUSHING,Melvin,Gordon,YDS,69
+433007,11/23/2013,FBS,Wisconsin,Minnesota,RUSHING,Melvin,Gordon,TD,0
+433008,11/23/2013,FBS,Wisconsin,Minnesota,RUSHING,Melvin,Gordon,LONG,13
+433009,11/23/2013,FBS,Wisconsin,Minnesota,RUSHING,Joel,Stave,ATT,2
+433010,11/23/2013,FBS,Wisconsin,Minnesota,RUSHING,Joel,Stave,YDS,10
+433011,11/23/2013,FBS,Wisconsin,Minnesota,RUSHING,Joel,Stave,TD,0
+433012,11/23/2013,FBS,Wisconsin,Minnesota,RUSHING,Joel,Stave,LONG,9
+433013,11/23/2013,FBS,Wisconsin,Minnesota,RUSHING,Jared,Abbrederis,ATT,1
+433014,11/23/2013,FBS,Wisconsin,Minnesota,RUSHING,Jared,Abbrederis,YDS,6
+433015,11/23/2013,FBS,Wisconsin,Minnesota,RUSHING,Jared,Abbrederis,TD,0
+433016,11/23/2013,FBS,Wisconsin,Minnesota,RUSHING,Jared,Abbrederis,LONG,6
+433017,11/23/2013,FBS,Wisconsin,Minnesota,RUSHING,,Team,ATT,3
+433018,11/23/2013,FBS,Wisconsin,Minnesota,RUSHING,,Team,YDS,-6
+433019,11/23/2013,FBS,Wisconsin,Minnesota,RUSHING,,Team,TD,0
+433020,11/23/2013,FBS,Wisconsin,Minnesota,RUSHING,,Team,LONG,0
+433021,11/23/2013,FBS,Wisconsin,Minnesota,RUSHING,Sam,Arneson,ATT,1
+433022,11/23/2013,FBS,Wisconsin,Minnesota,RUSHING,Sam,Arneson,YDS,-7
+433023,11/23/2013,FBS,Wisconsin,Minnesota,RUSHING,Sam,Arneson,TD,0
+433024,11/23/2013,FBS,Wisconsin,Minnesota,RUSHING,Sam,Arneson,LONG,0
+433025,11/23/2013,FBS,Wisconsin,Minnesota,PASSING,Joel,Stave,CP-ATT-INT,16-26-1
+433026,11/23/2013,FBS,Wisconsin,Minnesota,PASSING,Joel,Stave,YDS,127
+433027,11/23/2013,FBS,Wisconsin,Minnesota,PASSING,Joel,Stave,TD,1
+433028,11/23/2013,FBS,Wisconsin,Minnesota,PASSING,Joel,Stave,LONG,21
+433029,11/23/2013,FBS,Wisconsin,Minnesota,RECEIVING,Jared,Abbrederis,REC,7
+433030,11/23/2013,FBS,Wisconsin,Minnesota,RECEIVING,Jared,Abbrederis,YDS,67
+433031,11/23/2013,FBS,Wisconsin,Minnesota,RECEIVING,Jared,Abbrederis,TD,1
+433032,11/23/2013,FBS,Wisconsin,Minnesota,RECEIVING,Jared,Abbrederis,LONG,21
+433033,11/23/2013,FBS,Wisconsin,Minnesota,RECEIVING,Jacob,Pedersen,REC,5
+433034,11/23/2013,FBS,Wisconsin,Minnesota,RECEIVING,Jacob,Pedersen,YDS,45
+433035,11/23/2013,FBS,Wisconsin,Minnesota,RECEIVING,Jacob,Pedersen,TD,0
+433036,11/23/2013,FBS,Wisconsin,Minnesota,RECEIVING,Jacob,Pedersen,LONG,20
+433037,11/23/2013,FBS,Wisconsin,Minnesota,RECEIVING,James,White,REC,2
+433038,11/23/2013,FBS,Wisconsin,Minnesota,RECEIVING,James,White,YDS,1
+433039,11/23/2013,FBS,Wisconsin,Minnesota,RECEIVING,James,White,TD,0
+433040,11/23/2013,FBS,Wisconsin,Minnesota,RECEIVING,James,White,LONG,3
+433041,11/23/2013,FBS,Wisconsin,Minnesota,RECEIVING,Brian,Wozniak,REC,1
+433042,11/23/2013,FBS,Wisconsin,Minnesota,RECEIVING,Brian,Wozniak,YDS,9
+433043,11/23/2013,FBS,Wisconsin,Minnesota,RECEIVING,Brian,Wozniak,TD,0
+433044,11/23/2013,FBS,Wisconsin,Minnesota,RECEIVING,Brian,Wozniak,LONG,9
+433045,11/23/2013,FBS,Wisconsin,Minnesota,RECEIVING,Jordan,Fredrick,REC,1
+433046,11/23/2013,FBS,Wisconsin,Minnesota,RECEIVING,Jordan,Fredrick,YDS,5
+433047,11/23/2013,FBS,Wisconsin,Minnesota,RECEIVING,Jordan,Fredrick,TD,0
+433048,11/23/2013,FBS,Wisconsin,Minnesota,RECEIVING,Jordan,Fredrick,LONG,5
+433049,11/23/2013,FBS,Wisconsin,Minnesota,KICKING,Jack,Russell,FG-FGA,2/3
+433050,11/23/2013,FBS,Wisconsin,Minnesota,KICKING,Jack,Russell,LONG,31
+433051,11/23/2013,FBS,Wisconsin,Minnesota,KICKING,Jack,Russell,XP,2
+433052,11/23/2013,FBS,Wisconsin,Minnesota,KICKING,Jack,Russell,PTS,8
+433053,11/23/2013,FBS,Wisconsin,Minnesota,PUNTING,Drew,Meyer,NO,5
+433054,11/23/2013,FBS,Wisconsin,Minnesota,PUNTING,Drew,Meyer,YDS,165
+433055,11/23/2013,FBS,Wisconsin,Minnesota,PUNTING,Drew,Meyer,AVG,33.0
+433056,11/23/2013,FBS,Wisconsin,Minnesota,PUNTING,Drew,Meyer,LONG,47
+433057,11/23/2013,FBS,Wisconsin,Minnesota,PUNT RETURNS,Jared,Abbrederis,NO,3
+433058,11/23/2013,FBS,Wisconsin,Minnesota,PUNT RETURNS,Jared,Abbrederis,YDS,47
+433059,11/23/2013,FBS,Wisconsin,Minnesota,PUNT RETURNS,Jared,Abbrederis,AVG,15.7
+433060,11/23/2013,FBS,Wisconsin,Minnesota,PUNT RETURNS,Jared,Abbrederis,LONG,35
+433061,11/23/2013,FBS,Wisconsin,Minnesota,KICK RETURNS,Kenzel,Doe,NO,2
+433062,11/23/2013,FBS,Wisconsin,Minnesota,KICK RETURNS,Kenzel,Doe,YDS,31
+433063,11/23/2013,FBS,Wisconsin,Minnesota,KICK RETURNS,Kenzel,Doe,AVG,15.5
+433064,11/23/2013,FBS,Wisconsin,Minnesota,KICK RETURNS,Kenzel,Doe,LONG,20
+433065,11/23/2013,FBS,Minnesota,Wisconsin,RUSHING,David,Cobb,ATT,17
+433066,11/23/2013,FBS,Minnesota,Wisconsin,RUSHING,David,Cobb,YDS,68
+433067,11/23/2013,FBS,Minnesota,Wisconsin,RUSHING,David,Cobb,TD,0
+433068,11/23/2013,FBS,Minnesota,Wisconsin,RUSHING,David,Cobb,LONG,16
+433069,11/23/2013,FBS,Minnesota,Wisconsin,RUSHING,Donnell,Kirkwood,ATT,2
+433070,11/23/2013,FBS,Minnesota,Wisconsin,RUSHING,Donnell,Kirkwood,YDS,12
+433071,11/23/2013,FBS,Minnesota,Wisconsin,RUSHING,Donnell,Kirkwood,TD,0
+433072,11/23/2013,FBS,Minnesota,Wisconsin,RUSHING,Donnell,Kirkwood,LONG,6
+433073,11/23/2013,FBS,Minnesota,Wisconsin,RUSHING,Donovahn,Jones,ATT,2
+433074,11/23/2013,FBS,Minnesota,Wisconsin,RUSHING,Donovahn,Jones,YDS,9
+433075,11/23/2013,FBS,Minnesota,Wisconsin,RUSHING,Donovahn,Jones,TD,0
+433076,11/23/2013,FBS,Minnesota,Wisconsin,RUSHING,Donovahn,Jones,LONG,8
+433077,11/23/2013,FBS,Minnesota,Wisconsin,RUSHING,Philip,Nelson,ATT,9
+433078,11/23/2013,FBS,Minnesota,Wisconsin,RUSHING,Philip,Nelson,YDS,8
+433079,11/23/2013,FBS,Minnesota,Wisconsin,RUSHING,Philip,Nelson,TD,0
+433080,11/23/2013,FBS,Minnesota,Wisconsin,RUSHING,Philip,Nelson,LONG,9
+433081,11/23/2013,FBS,Minnesota,Wisconsin,RUSHING,Drew,Wolitarsky,ATT,1
+433082,11/23/2013,FBS,Minnesota,Wisconsin,RUSHING,Drew,Wolitarsky,YDS,7
+433083,11/23/2013,FBS,Minnesota,Wisconsin,RUSHING,Drew,Wolitarsky,TD,0
+433084,11/23/2013,FBS,Minnesota,Wisconsin,RUSHING,Drew,Wolitarsky,LONG,7
+433085,11/23/2013,FBS,Minnesota,Wisconsin,RUSHING,,Team,ATT,1
+433086,11/23/2013,FBS,Minnesota,Wisconsin,RUSHING,,Team,YDS,-2
+433087,11/23/2013,FBS,Minnesota,Wisconsin,RUSHING,,Team,TD,0
+433088,11/23/2013,FBS,Minnesota,Wisconsin,RUSHING,,Team,LONG,0
+433089,11/23/2013,FBS,Minnesota,Wisconsin,PASSING,Philip,Nelson,CP-ATT-INT,7-23-0
+433090,11/23/2013,FBS,Minnesota,Wisconsin,PASSING,Philip,Nelson,YDS,83
+433091,11/23/2013,FBS,Minnesota,Wisconsin,PASSING,Philip,Nelson,TD,0
+433092,11/23/2013,FBS,Minnesota,Wisconsin,PASSING,Philip,Nelson,LONG,31
+433093,11/23/2013,FBS,Minnesota,Wisconsin,RECEIVING,Maxx,Williams,REC,2
+433094,11/23/2013,FBS,Minnesota,Wisconsin,RECEIVING,Maxx,Williams,YDS,31
+433095,11/23/2013,FBS,Minnesota,Wisconsin,RECEIVING,Maxx,Williams,TD,0
+433096,11/23/2013,FBS,Minnesota,Wisconsin,RECEIVING,Maxx,Williams,LONG,22
+433097,11/23/2013,FBS,Minnesota,Wisconsin,RECEIVING,David,Cobb,REC,2
+433098,11/23/2013,FBS,Minnesota,Wisconsin,RECEIVING,David,Cobb,YDS,14
+433099,11/23/2013,FBS,Minnesota,Wisconsin,RECEIVING,David,Cobb,TD,0
+433100,11/23/2013,FBS,Minnesota,Wisconsin,RECEIVING,David,Cobb,LONG,9
+433101,11/23/2013,FBS,Minnesota,Wisconsin,RECEIVING,Donovahn,Jones,REC,1
+433102,11/23/2013,FBS,Minnesota,Wisconsin,RECEIVING,Donovahn,Jones,YDS,31
+433103,11/23/2013,FBS,Minnesota,Wisconsin,RECEIVING,Donovahn,Jones,TD,0
+433104,11/23/2013,FBS,Minnesota,Wisconsin,RECEIVING,Donovahn,Jones,LONG,31
+433105,11/23/2013,FBS,Minnesota,Wisconsin,RECEIVING,Isaac,Fruechte,REC,1
+433106,11/23/2013,FBS,Minnesota,Wisconsin,RECEIVING,Isaac,Fruechte,YDS,7
+433107,11/23/2013,FBS,Minnesota,Wisconsin,RECEIVING,Isaac,Fruechte,TD,0
+433108,11/23/2013,FBS,Minnesota,Wisconsin,RECEIVING,Isaac,Fruechte,LONG,7
+433109,11/23/2013,FBS,Minnesota,Wisconsin,RECEIVING,KJ,Maye,REC,1
+433110,11/23/2013,FBS,Minnesota,Wisconsin,RECEIVING,KJ,Maye,YDS,0
+433111,11/23/2013,FBS,Minnesota,Wisconsin,RECEIVING,KJ,Maye,TD,0
+433112,11/23/2013,FBS,Minnesota,Wisconsin,RECEIVING,KJ,Maye,LONG,0
+433113,11/23/2013,FBS,Minnesota,Wisconsin,KICKING,Chris,Hawthorne,FG-FGA,0/0
+433114,11/23/2013,FBS,Minnesota,Wisconsin,KICKING,Chris,Hawthorne,LONG,-
+433115,11/23/2013,FBS,Minnesota,Wisconsin,KICKING,Chris,Hawthorne,XP,1
+433116,11/23/2013,FBS,Minnesota,Wisconsin,KICKING,Chris,Hawthorne,PTS,1
+433117,11/23/2013,FBS,Minnesota,Wisconsin,PUNTING,Peter,Mortell,NO,6
+433118,11/23/2013,FBS,Minnesota,Wisconsin,PUNTING,Peter,Mortell,YDS,240
+433119,11/23/2013,FBS,Minnesota,Wisconsin,PUNTING,Peter,Mortell,AVG,40.0
+433120,11/23/2013,FBS,Minnesota,Wisconsin,PUNTING,Peter,Mortell,LONG,59
+433121,11/23/2013,FBS,Minnesota,Wisconsin,KICK RETURNS,KJ,Maye,NO,1
+433122,11/23/2013,FBS,Minnesota,Wisconsin,KICK RETURNS,KJ,Maye,YDS,27
+433123,11/23/2013,FBS,Minnesota,Wisconsin,KICK RETURNS,KJ,Maye,AVG,27.0
+433124,11/23/2013,FBS,Minnesota,Wisconsin,KICK RETURNS,KJ,Maye,LONG,27
+433125,11/23/2013,FBS,Minnesota,Wisconsin,KICK RETURNS,Marcus,Jones,NO,1
+433126,11/23/2013,FBS,Minnesota,Wisconsin,KICK RETURNS,Marcus,Jones,YDS,22
+433127,11/23/2013,FBS,Minnesota,Wisconsin,KICK RETURNS,Marcus,Jones,AVG,22.0
+433128,11/23/2013,FBS,Minnesota,Wisconsin,KICK RETURNS,Marcus,Jones,LONG,22
+433129,11/23/2013,FBS,Minnesota,Wisconsin,KICK RETURNS,Ernie,Heifort,NO,1
+433130,11/23/2013,FBS,Minnesota,Wisconsin,KICK RETURNS,Ernie,Heifort,YDS,8
+433131,11/23/2013,FBS,Minnesota,Wisconsin,KICK RETURNS,Ernie,Heifort,AVG,8.0
+433132,11/23/2013,FBS,Minnesota,Wisconsin,KICK RETURNS,Ernie,Heifort,LONG,8
+433133,11/23/2013,FBS,Minnesota,Wisconsin,KICK RETURNS,Tyler,Hartmann,NO,1
+433134,11/23/2013,FBS,Minnesota,Wisconsin,KICK RETURNS,Tyler,Hartmann,YDS,7
+433135,11/23/2013,FBS,Minnesota,Wisconsin,KICK RETURNS,Tyler,Hartmann,AVG,7.0
+433136,11/23/2013,FBS,Minnesota,Wisconsin,KICK RETURNS,Tyler,Hartmann,LONG,7

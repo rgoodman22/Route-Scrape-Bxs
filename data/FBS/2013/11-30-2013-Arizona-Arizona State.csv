@@ -1,0 +1,141 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+493001,11/30/2013,FBS,Arizona,Arizona State,RUSHING,Ka'Deem,Carey,ATT,32
+493002,11/30/2013,FBS,Arizona,Arizona State,RUSHING,Ka'Deem,Carey,YDS,157
+493003,11/30/2013,FBS,Arizona,Arizona State,RUSHING,Ka'Deem,Carey,TD,1
+493004,11/30/2013,FBS,Arizona,Arizona State,RUSHING,Ka'Deem,Carey,LONG,28
+493005,11/30/2013,FBS,Arizona,Arizona State,RUSHING,B.J.,Denker,ATT,15
+493006,11/30/2013,FBS,Arizona,Arizona State,RUSHING,B.J.,Denker,YDS,87
+493007,11/30/2013,FBS,Arizona,Arizona State,RUSHING,B.J.,Denker,TD,1
+493008,11/30/2013,FBS,Arizona,Arizona State,RUSHING,B.J.,Denker,LONG,21
+493009,11/30/2013,FBS,Arizona,Arizona State,RUSHING,Garic,Wharton,ATT,0
+493010,11/30/2013,FBS,Arizona,Arizona State,RUSHING,Garic,Wharton,YDS,4
+493011,11/30/2013,FBS,Arizona,Arizona State,RUSHING,Garic,Wharton,TD,1
+493012,11/30/2013,FBS,Arizona,Arizona State,RUSHING,Garic,Wharton,LONG,0
+493013,11/30/2013,FBS,Arizona,Arizona State,RUSHING,Javelle,Allen,ATT,2
+493014,11/30/2013,FBS,Arizona,Arizona State,RUSHING,Javelle,Allen,YDS,1
+493015,11/30/2013,FBS,Arizona,Arizona State,RUSHING,Javelle,Allen,TD,0
+493016,11/30/2013,FBS,Arizona,Arizona State,RUSHING,Javelle,Allen,LONG,5
+493017,11/30/2013,FBS,Arizona,Arizona State,PASSING,B.J.,Denker,CP-ATT-INT,15-30-3
+493018,11/30/2013,FBS,Arizona,Arizona State,PASSING,B.J.,Denker,YDS,175
+493019,11/30/2013,FBS,Arizona,Arizona State,PASSING,B.J.,Denker,TD,0
+493020,11/30/2013,FBS,Arizona,Arizona State,PASSING,B.J.,Denker,LONG,30
+493021,11/30/2013,FBS,Arizona,Arizona State,RECEIVING,Garic,Wharton,REC,4
+493022,11/30/2013,FBS,Arizona,Arizona State,RECEIVING,Garic,Wharton,YDS,76
+493023,11/30/2013,FBS,Arizona,Arizona State,RECEIVING,Garic,Wharton,TD,0
+493024,11/30/2013,FBS,Arizona,Arizona State,RECEIVING,Garic,Wharton,LONG,30
+493025,11/30/2013,FBS,Arizona,Arizona State,RECEIVING,Trey,Griffey,REC,4
+493026,11/30/2013,FBS,Arizona,Arizona State,RECEIVING,Trey,Griffey,YDS,59
+493027,11/30/2013,FBS,Arizona,Arizona State,RECEIVING,Trey,Griffey,TD,0
+493028,11/30/2013,FBS,Arizona,Arizona State,RECEIVING,Trey,Griffey,LONG,23
+493029,11/30/2013,FBS,Arizona,Arizona State,RECEIVING,Terrence,Miller,REC,3
+493030,11/30/2013,FBS,Arizona,Arizona State,RECEIVING,Terrence,Miller,YDS,21
+493031,11/30/2013,FBS,Arizona,Arizona State,RECEIVING,Terrence,Miller,TD,0
+493032,11/30/2013,FBS,Arizona,Arizona State,RECEIVING,Terrence,Miller,LONG,9
+493033,11/30/2013,FBS,Arizona,Arizona State,RECEIVING,Nate,Phillips,REC,3
+493034,11/30/2013,FBS,Arizona,Arizona State,RECEIVING,Nate,Phillips,YDS,17
+493035,11/30/2013,FBS,Arizona,Arizona State,RECEIVING,Nate,Phillips,TD,0
+493036,11/30/2013,FBS,Arizona,Arizona State,RECEIVING,Nate,Phillips,LONG,8
+493037,11/30/2013,FBS,Arizona,Arizona State,RECEIVING,Samajie,Grant,REC,1
+493038,11/30/2013,FBS,Arizona,Arizona State,RECEIVING,Samajie,Grant,YDS,2
+493039,11/30/2013,FBS,Arizona,Arizona State,RECEIVING,Samajie,Grant,TD,0
+493040,11/30/2013,FBS,Arizona,Arizona State,RECEIVING,Samajie,Grant,LONG,2
+493041,11/30/2013,FBS,Arizona,Arizona State,KICKING,Jake,Smith,FG-FGA,0/1
+493042,11/30/2013,FBS,Arizona,Arizona State,KICKING,Jake,Smith,LONG,-
+493043,11/30/2013,FBS,Arizona,Arizona State,KICKING,Jake,Smith,XP,3
+493044,11/30/2013,FBS,Arizona,Arizona State,KICKING,Jake,Smith,PTS,3
+493045,11/30/2013,FBS,Arizona,Arizona State,PUNTING,Drew,Riggleman,NO,4
+493046,11/30/2013,FBS,Arizona,Arizona State,PUNTING,Drew,Riggleman,YDS,165
+493047,11/30/2013,FBS,Arizona,Arizona State,PUNTING,Drew,Riggleman,AVG,41.3
+493048,11/30/2013,FBS,Arizona,Arizona State,PUNTING,Drew,Riggleman,LONG,54
+493049,11/30/2013,FBS,Arizona,Arizona State,PUNT RETURNS,Nate,Phillips,NO,1
+493050,11/30/2013,FBS,Arizona,Arizona State,PUNT RETURNS,Nate,Phillips,YDS,1
+493051,11/30/2013,FBS,Arizona,Arizona State,PUNT RETURNS,Nate,Phillips,AVG,1.0
+493052,11/30/2013,FBS,Arizona,Arizona State,PUNT RETURNS,Nate,Phillips,LONG,1
+493053,11/30/2013,FBS,Arizona,Arizona State,KICK RETURNS,Samajie,Grant,NO,3
+493054,11/30/2013,FBS,Arizona,Arizona State,KICK RETURNS,Samajie,Grant,YDS,55
+493055,11/30/2013,FBS,Arizona,Arizona State,KICK RETURNS,Samajie,Grant,AVG,18.3
+493056,11/30/2013,FBS,Arizona,Arizona State,KICK RETURNS,Samajie,Grant,LONG,25
+493057,11/30/2013,FBS,Arizona,Arizona State,KICK RETURNS,Daniel,Jenkins,NO,2
+493058,11/30/2013,FBS,Arizona,Arizona State,KICK RETURNS,Daniel,Jenkins,YDS,49
+493059,11/30/2013,FBS,Arizona,Arizona State,KICK RETURNS,Daniel,Jenkins,AVG,24.5
+493060,11/30/2013,FBS,Arizona,Arizona State,KICK RETURNS,Daniel,Jenkins,LONG,31
+493061,11/30/2013,FBS,Arizona,Arizona State,KICK RETURNS,Jared,Baker,NO,2
+493062,11/30/2013,FBS,Arizona,Arizona State,KICK RETURNS,Jared,Baker,YDS,39
+493063,11/30/2013,FBS,Arizona,Arizona State,KICK RETURNS,Jared,Baker,AVG,19.5
+493064,11/30/2013,FBS,Arizona,Arizona State,KICK RETURNS,Jared,Baker,LONG,22
+493065,11/30/2013,FBS,Arizona State,Arizona,RUSHING,D.J.,Foster,ATT,23
+493066,11/30/2013,FBS,Arizona State,Arizona,RUSHING,D.J.,Foster,YDS,124
+493067,11/30/2013,FBS,Arizona State,Arizona,RUSHING,D.J.,Foster,TD,2
+493068,11/30/2013,FBS,Arizona State,Arizona,RUSHING,D.J.,Foster,LONG,29
+493069,11/30/2013,FBS,Arizona State,Arizona,RUSHING,De'Marieya,Nelson,ATT,8
+493070,11/30/2013,FBS,Arizona State,Arizona,RUSHING,De'Marieya,Nelson,YDS,35
+493071,11/30/2013,FBS,Arizona State,Arizona,RUSHING,De'Marieya,Nelson,TD,2
+493072,11/30/2013,FBS,Arizona State,Arizona,RUSHING,De'Marieya,Nelson,LONG,10
+493073,11/30/2013,FBS,Arizona State,Arizona,RUSHING,Taylor,Kelly,ATT,13
+493074,11/30/2013,FBS,Arizona State,Arizona,RUSHING,Taylor,Kelly,YDS,26
+493075,11/30/2013,FBS,Arizona State,Arizona,RUSHING,Taylor,Kelly,TD,0
+493076,11/30/2013,FBS,Arizona State,Arizona,RUSHING,Taylor,Kelly,LONG,16
+493077,11/30/2013,FBS,Arizona State,Arizona,RUSHING,R.J.,Robinson,ATT,5
+493078,11/30/2013,FBS,Arizona State,Arizona,RUSHING,R.J.,Robinson,YDS,16
+493079,11/30/2013,FBS,Arizona State,Arizona,RUSHING,R.J.,Robinson,TD,0
+493080,11/30/2013,FBS,Arizona State,Arizona,RUSHING,R.J.,Robinson,LONG,6
+493081,11/30/2013,FBS,Arizona State,Arizona,RUSHING,Richard,Smith,ATT,1
+493082,11/30/2013,FBS,Arizona State,Arizona,RUSHING,Richard,Smith,YDS,3
+493083,11/30/2013,FBS,Arizona State,Arizona,RUSHING,Richard,Smith,TD,0
+493084,11/30/2013,FBS,Arizona State,Arizona,RUSHING,Richard,Smith,LONG,3
+493085,11/30/2013,FBS,Arizona State,Arizona,RUSHING,Deantre,Lewis,ATT,1
+493086,11/30/2013,FBS,Arizona State,Arizona,RUSHING,Deantre,Lewis,YDS,2
+493087,11/30/2013,FBS,Arizona State,Arizona,RUSHING,Deantre,Lewis,TD,0
+493088,11/30/2013,FBS,Arizona State,Arizona,RUSHING,Deantre,Lewis,LONG,2
+493089,11/30/2013,FBS,Arizona State,Arizona,RUSHING,,Team,ATT,1
+493090,11/30/2013,FBS,Arizona State,Arizona,RUSHING,,Team,YDS,-2
+493091,11/30/2013,FBS,Arizona State,Arizona,RUSHING,,Team,TD,0
+493092,11/30/2013,FBS,Arizona State,Arizona,RUSHING,,Team,LONG,0
+493093,11/30/2013,FBS,Arizona State,Arizona,PASSING,Taylor,Kelly,CP-ATT-INT,13-25-1
+493094,11/30/2013,FBS,Arizona State,Arizona,PASSING,Taylor,Kelly,YDS,274
+493095,11/30/2013,FBS,Arizona State,Arizona,PASSING,Taylor,Kelly,TD,2
+493096,11/30/2013,FBS,Arizona State,Arizona,PASSING,Taylor,Kelly,LONG,61
+493097,11/30/2013,FBS,Arizona State,Arizona,RECEIVING,Jaelen,Strong,REC,4
+493098,11/30/2013,FBS,Arizona State,Arizona,RECEIVING,Jaelen,Strong,YDS,142
+493099,11/30/2013,FBS,Arizona State,Arizona,RECEIVING,Jaelen,Strong,TD,1
+493100,11/30/2013,FBS,Arizona State,Arizona,RECEIVING,Jaelen,Strong,LONG,61
+493101,11/30/2013,FBS,Arizona State,Arizona,RECEIVING,Chris,Coyle,REC,2
+493102,11/30/2013,FBS,Arizona State,Arizona,RECEIVING,Chris,Coyle,YDS,28
+493103,11/30/2013,FBS,Arizona State,Arizona,RECEIVING,Chris,Coyle,TD,0
+493104,11/30/2013,FBS,Arizona State,Arizona,RECEIVING,Chris,Coyle,LONG,19
+493105,11/30/2013,FBS,Arizona State,Arizona,RECEIVING,D.J.,Foster,REC,2
+493106,11/30/2013,FBS,Arizona State,Arizona,RECEIVING,D.J.,Foster,YDS,26
+493107,11/30/2013,FBS,Arizona State,Arizona,RECEIVING,D.J.,Foster,TD,0
+493108,11/30/2013,FBS,Arizona State,Arizona,RECEIVING,D.J.,Foster,LONG,16
+493109,11/30/2013,FBS,Arizona State,Arizona,RECEIVING,Darwin,Rogers,REC,1
+493110,11/30/2013,FBS,Arizona State,Arizona,RECEIVING,Darwin,Rogers,YDS,38
+493111,11/30/2013,FBS,Arizona State,Arizona,RECEIVING,Darwin,Rogers,TD,1
+493112,11/30/2013,FBS,Arizona State,Arizona,RECEIVING,Darwin,Rogers,LONG,38
+493113,11/30/2013,FBS,Arizona State,Arizona,RECEIVING,De'Marieya,Nelson,REC,1
+493114,11/30/2013,FBS,Arizona State,Arizona,RECEIVING,De'Marieya,Nelson,YDS,21
+493115,11/30/2013,FBS,Arizona State,Arizona,RECEIVING,De'Marieya,Nelson,TD,0
+493116,11/30/2013,FBS,Arizona State,Arizona,RECEIVING,De'Marieya,Nelson,LONG,21
+493117,11/30/2013,FBS,Arizona State,Arizona,RECEIVING,Kevin,Ozier,REC,1
+493118,11/30/2013,FBS,Arizona State,Arizona,RECEIVING,Kevin,Ozier,YDS,15
+493119,11/30/2013,FBS,Arizona State,Arizona,RECEIVING,Kevin,Ozier,TD,0
+493120,11/30/2013,FBS,Arizona State,Arizona,RECEIVING,Kevin,Ozier,LONG,15
+493121,11/30/2013,FBS,Arizona State,Arizona,RECEIVING,Frederick,Gammage,REC,1
+493122,11/30/2013,FBS,Arizona State,Arizona,RECEIVING,Frederick,Gammage,YDS,6
+493123,11/30/2013,FBS,Arizona State,Arizona,RECEIVING,Frederick,Gammage,TD,0
+493124,11/30/2013,FBS,Arizona State,Arizona,RECEIVING,Frederick,Gammage,LONG,6
+493125,11/30/2013,FBS,Arizona State,Arizona,RECEIVING,Richard,Smith,REC,1
+493126,11/30/2013,FBS,Arizona State,Arizona,RECEIVING,Richard,Smith,YDS,-2
+493127,11/30/2013,FBS,Arizona State,Arizona,RECEIVING,Richard,Smith,TD,0
+493128,11/30/2013,FBS,Arizona State,Arizona,RECEIVING,Richard,Smith,LONG,0
+493129,11/30/2013,FBS,Arizona State,Arizona,KICKING,Zane,Gonzalez,FG-FGA,3/3
+493130,11/30/2013,FBS,Arizona State,Arizona,KICKING,Zane,Gonzalez,LONG,38
+493131,11/30/2013,FBS,Arizona State,Arizona,KICKING,Zane,Gonzalez,XP,7
+493132,11/30/2013,FBS,Arizona State,Arizona,KICKING,Zane,Gonzalez,PTS,16
+493133,11/30/2013,FBS,Arizona State,Arizona,PUNTING,Alex,Garoutte,NO,4
+493134,11/30/2013,FBS,Arizona State,Arizona,PUNTING,Alex,Garoutte,YDS,182
+493135,11/30/2013,FBS,Arizona State,Arizona,PUNTING,Alex,Garoutte,AVG,45.5
+493136,11/30/2013,FBS,Arizona State,Arizona,PUNTING,Alex,Garoutte,LONG,59
+493137,11/30/2013,FBS,Arizona State,Arizona,KICK RETURNS,Jaelen,Strong,NO,1
+493138,11/30/2013,FBS,Arizona State,Arizona,KICK RETURNS,Jaelen,Strong,YDS,13
+493139,11/30/2013,FBS,Arizona State,Arizona,KICK RETURNS,Jaelen,Strong,AVG,13.0
+493140,11/30/2013,FBS,Arizona State,Arizona,KICK RETURNS,Jaelen,Strong,LONG,13

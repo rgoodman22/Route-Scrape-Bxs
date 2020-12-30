@@ -1,0 +1,145 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+357001,11/16/2013,FBS,Ohio State,Illinois,RUSHING,Carlos,Hyde,ATT,24
+357002,11/16/2013,FBS,Ohio State,Illinois,RUSHING,Carlos,Hyde,YDS,246
+357003,11/16/2013,FBS,Ohio State,Illinois,RUSHING,Carlos,Hyde,TD,4
+357004,11/16/2013,FBS,Ohio State,Illinois,RUSHING,Carlos,Hyde,LONG,55
+357005,11/16/2013,FBS,Ohio State,Illinois,RUSHING,Braxton,Miller,ATT,16
+357006,11/16/2013,FBS,Ohio State,Illinois,RUSHING,Braxton,Miller,YDS,184
+357007,11/16/2013,FBS,Ohio State,Illinois,RUSHING,Braxton,Miller,TD,1
+357008,11/16/2013,FBS,Ohio State,Illinois,RUSHING,Braxton,Miller,LONG,70
+357009,11/16/2013,FBS,Ohio State,Illinois,RUSHING,Dontre,Wilson,ATT,1
+357010,11/16/2013,FBS,Ohio State,Illinois,RUSHING,Dontre,Wilson,YDS,7
+357011,11/16/2013,FBS,Ohio State,Illinois,RUSHING,Dontre,Wilson,TD,0
+357012,11/16/2013,FBS,Ohio State,Illinois,RUSHING,Dontre,Wilson,LONG,7
+357013,11/16/2013,FBS,Ohio State,Illinois,RUSHING,Kenny,Guiton,ATT,1
+357014,11/16/2013,FBS,Ohio State,Illinois,RUSHING,Kenny,Guiton,YDS,4
+357015,11/16/2013,FBS,Ohio State,Illinois,RUSHING,Kenny,Guiton,TD,0
+357016,11/16/2013,FBS,Ohio State,Illinois,RUSHING,Kenny,Guiton,LONG,4
+357017,11/16/2013,FBS,Ohio State,Illinois,PASSING,Braxton,Miller,CP-ATT-INT,13-29-0
+357018,11/16/2013,FBS,Ohio State,Illinois,PASSING,Braxton,Miller,YDS,150
+357019,11/16/2013,FBS,Ohio State,Illinois,PASSING,Braxton,Miller,TD,2
+357020,11/16/2013,FBS,Ohio State,Illinois,PASSING,Braxton,Miller,LONG,47
+357021,11/16/2013,FBS,Ohio State,Illinois,PASSING,Kenny,Guiton,CP-ATT-INT,0-1-0
+357022,11/16/2013,FBS,Ohio State,Illinois,PASSING,Kenny,Guiton,YDS,0
+357023,11/16/2013,FBS,Ohio State,Illinois,PASSING,Kenny,Guiton,TD,0
+357024,11/16/2013,FBS,Ohio State,Illinois,PASSING,Kenny,Guiton,LONG,0
+357025,11/16/2013,FBS,Ohio State,Illinois,RECEIVING,Corey,(Philly)Brown,REC,7
+357026,11/16/2013,FBS,Ohio State,Illinois,RECEIVING,Corey,(Philly)Brown,YDS,49
+357027,11/16/2013,FBS,Ohio State,Illinois,RECEIVING,Corey,(Philly)Brown,TD,1
+357028,11/16/2013,FBS,Ohio State,Illinois,RECEIVING,Corey,(Philly)Brown,LONG,12
+357029,11/16/2013,FBS,Ohio State,Illinois,RECEIVING,Chris,Fields,REC,2
+357030,11/16/2013,FBS,Ohio State,Illinois,RECEIVING,Chris,Fields,YDS,58
+357031,11/16/2013,FBS,Ohio State,Illinois,RECEIVING,Chris,Fields,TD,0
+357032,11/16/2013,FBS,Ohio State,Illinois,RECEIVING,Chris,Fields,LONG,47
+357033,11/16/2013,FBS,Ohio State,Illinois,RECEIVING,Carlos,Hyde,REC,2
+357034,11/16/2013,FBS,Ohio State,Illinois,RECEIVING,Carlos,Hyde,YDS,26
+357035,11/16/2013,FBS,Ohio State,Illinois,RECEIVING,Carlos,Hyde,TD,1
+357036,11/16/2013,FBS,Ohio State,Illinois,RECEIVING,Carlos,Hyde,LONG,18
+357037,11/16/2013,FBS,Ohio State,Illinois,RECEIVING,Devin,Smith,REC,1
+357038,11/16/2013,FBS,Ohio State,Illinois,RECEIVING,Devin,Smith,YDS,10
+357039,11/16/2013,FBS,Ohio State,Illinois,RECEIVING,Devin,Smith,TD,0
+357040,11/16/2013,FBS,Ohio State,Illinois,RECEIVING,Devin,Smith,LONG,10
+357041,11/16/2013,FBS,Ohio State,Illinois,RECEIVING,Evan,Spencer,REC,1
+357042,11/16/2013,FBS,Ohio State,Illinois,RECEIVING,Evan,Spencer,YDS,7
+357043,11/16/2013,FBS,Ohio State,Illinois,RECEIVING,Evan,Spencer,TD,0
+357044,11/16/2013,FBS,Ohio State,Illinois,RECEIVING,Evan,Spencer,LONG,7
+357045,11/16/2013,FBS,Ohio State,Illinois,KICKING,Drew,Basil,FG-FGA,1/2
+357046,11/16/2013,FBS,Ohio State,Illinois,KICKING,Drew,Basil,LONG,30
+357047,11/16/2013,FBS,Ohio State,Illinois,KICKING,Drew,Basil,XP,7
+357048,11/16/2013,FBS,Ohio State,Illinois,KICKING,Drew,Basil,PTS,10
+357049,11/16/2013,FBS,Ohio State,Illinois,PUNTING,Cameron,Johnston,NO,6
+357050,11/16/2013,FBS,Ohio State,Illinois,PUNTING,Cameron,Johnston,YDS,342
+357051,11/16/2013,FBS,Ohio State,Illinois,PUNTING,Cameron,Johnston,AVG,57.0
+357052,11/16/2013,FBS,Ohio State,Illinois,PUNTING,Cameron,Johnston,LONG,71
+357053,11/16/2013,FBS,Ohio State,Illinois,PUNT RETURNS,Corey,(Philly)Brown,NO,6
+357054,11/16/2013,FBS,Ohio State,Illinois,PUNT RETURNS,Corey,(Philly)Brown,YDS,16
+357055,11/16/2013,FBS,Ohio State,Illinois,PUNT RETURNS,Corey,(Philly)Brown,AVG,2.7
+357056,11/16/2013,FBS,Ohio State,Illinois,PUNT RETURNS,Corey,(Philly)Brown,LONG,19
+357057,11/16/2013,FBS,Ohio State,Illinois,KICK RETURNS,Dontre,Wilson,NO,4
+357058,11/16/2013,FBS,Ohio State,Illinois,KICK RETURNS,Dontre,Wilson,YDS,87
+357059,11/16/2013,FBS,Ohio State,Illinois,KICK RETURNS,Dontre,Wilson,AVG,21.8
+357060,11/16/2013,FBS,Ohio State,Illinois,KICK RETURNS,Dontre,Wilson,LONG,31
+357061,11/16/2013,FBS,Ohio State,Illinois,KICK RETURNS,Jordan,Hall,NO,1
+357062,11/16/2013,FBS,Ohio State,Illinois,KICK RETURNS,Jordan,Hall,YDS,47
+357063,11/16/2013,FBS,Ohio State,Illinois,KICK RETURNS,Jordan,Hall,AVG,47.0
+357064,11/16/2013,FBS,Ohio State,Illinois,KICK RETURNS,Jordan,Hall,LONG,47
+357065,11/16/2013,FBS,Illinois,Ohio State,RUSHING,Josh,Ferguson,ATT,15
+357066,11/16/2013,FBS,Illinois,Ohio State,RUSHING,Josh,Ferguson,YDS,69
+357067,11/16/2013,FBS,Illinois,Ohio State,RUSHING,Josh,Ferguson,TD,1
+357068,11/16/2013,FBS,Illinois,Ohio State,RUSHING,Josh,Ferguson,LONG,16
+357069,11/16/2013,FBS,Illinois,Ohio State,RUSHING,Nathan,Scheelhaase,ATT,15
+357070,11/16/2013,FBS,Illinois,Ohio State,RUSHING,Nathan,Scheelhaase,YDS,46
+357071,11/16/2013,FBS,Illinois,Ohio State,RUSHING,Nathan,Scheelhaase,TD,1
+357072,11/16/2013,FBS,Illinois,Ohio State,RUSHING,Nathan,Scheelhaase,LONG,35
+357073,11/16/2013,FBS,Illinois,Ohio State,RUSHING,Donovonn,Young,ATT,7
+357074,11/16/2013,FBS,Illinois,Ohio State,RUSHING,Donovonn,Young,YDS,22
+357075,11/16/2013,FBS,Illinois,Ohio State,RUSHING,Donovonn,Young,TD,0
+357076,11/16/2013,FBS,Illinois,Ohio State,RUSHING,Donovonn,Young,LONG,7
+357077,11/16/2013,FBS,Illinois,Ohio State,RUSHING,Reilly,O'Toole,ATT,1
+357078,11/16/2013,FBS,Illinois,Ohio State,RUSHING,Reilly,O'Toole,YDS,-5
+357079,11/16/2013,FBS,Illinois,Ohio State,RUSHING,Reilly,O'Toole,TD,0
+357080,11/16/2013,FBS,Illinois,Ohio State,RUSHING,Reilly,O'Toole,LONG,0
+357081,11/16/2013,FBS,Illinois,Ohio State,PASSING,Nathan,Scheelhaase,CP-ATT-INT,33-50-2
+357082,11/16/2013,FBS,Illinois,Ohio State,PASSING,Nathan,Scheelhaase,YDS,288
+357083,11/16/2013,FBS,Illinois,Ohio State,PASSING,Nathan,Scheelhaase,TD,2
+357084,11/16/2013,FBS,Illinois,Ohio State,PASSING,Nathan,Scheelhaase,LONG,24
+357085,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Steve,Hull,REC,8
+357086,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Steve,Hull,YDS,105
+357087,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Steve,Hull,TD,1
+357088,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Steve,Hull,LONG,19
+357089,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Josh,Ferguson,REC,6
+357090,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Josh,Ferguson,YDS,15
+357091,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Josh,Ferguson,TD,0
+357092,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Josh,Ferguson,LONG,10
+357093,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Donovonn,Young,REC,5
+357094,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Donovonn,Young,YDS,23
+357095,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Donovonn,Young,TD,0
+357096,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Donovonn,Young,LONG,8
+357097,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Miles,Osei,REC,4
+357098,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Miles,Osei,YDS,37
+357099,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Miles,Osei,TD,0
+357100,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Miles,Osei,LONG,15
+357101,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Matt,LaCosse,REC,3
+357102,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Matt,LaCosse,YDS,54
+357103,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Matt,LaCosse,TD,0
+357104,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Matt,LaCosse,LONG,24
+357105,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Justin,Hardee,REC,3
+357106,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Justin,Hardee,YDS,34
+357107,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Justin,Hardee,TD,0
+357108,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Justin,Hardee,LONG,23
+357109,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Spencer,Harris,REC,1
+357110,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Spencer,Harris,YDS,11
+357111,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Spencer,Harris,TD,0
+357112,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Spencer,Harris,LONG,11
+357113,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Martize,Barr,REC,1
+357114,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Martize,Barr,YDS,7
+357115,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Martize,Barr,TD,0
+357116,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Martize,Barr,LONG,7
+357117,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Evan,Wilson,REC,1
+357118,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Evan,Wilson,YDS,1
+357119,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Evan,Wilson,TD,1
+357120,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Evan,Wilson,LONG,1
+357121,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Jon,Davis,REC,1
+357122,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Jon,Davis,YDS,1
+357123,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Jon,Davis,TD,0
+357124,11/16/2013,FBS,Illinois,Ohio State,RECEIVING,Jon,Davis,LONG,1
+357125,11/16/2013,FBS,Illinois,Ohio State,KICKING,Taylor,Zalewski,FG-FGA,0/0
+357126,11/16/2013,FBS,Illinois,Ohio State,KICKING,Taylor,Zalewski,LONG,-
+357127,11/16/2013,FBS,Illinois,Ohio State,KICKING,Taylor,Zalewski,XP,3
+357128,11/16/2013,FBS,Illinois,Ohio State,KICKING,Taylor,Zalewski,PTS,3
+357129,11/16/2013,FBS,Illinois,Ohio State,PUNTING,Justin,DuVernois,NO,8
+357130,11/16/2013,FBS,Illinois,Ohio State,PUNTING,Justin,DuVernois,YDS,353
+357131,11/16/2013,FBS,Illinois,Ohio State,PUNTING,Justin,DuVernois,AVG,44.1
+357132,11/16/2013,FBS,Illinois,Ohio State,PUNTING,Justin,DuVernois,LONG,62
+357133,11/16/2013,FBS,Illinois,Ohio State,PUNT RETURNS,V'Angelo,Bentley,NO,3
+357134,11/16/2013,FBS,Illinois,Ohio State,PUNT RETURNS,V'Angelo,Bentley,YDS,82
+357135,11/16/2013,FBS,Illinois,Ohio State,PUNT RETURNS,V'Angelo,Bentley,AVG,27.3
+357136,11/16/2013,FBS,Illinois,Ohio State,PUNT RETURNS,V'Angelo,Bentley,LONG,67
+357137,11/16/2013,FBS,Illinois,Ohio State,PUNT RETURNS,Miles,Osei,NO,1
+357138,11/16/2013,FBS,Illinois,Ohio State,PUNT RETURNS,Miles,Osei,YDS,14
+357139,11/16/2013,FBS,Illinois,Ohio State,PUNT RETURNS,Miles,Osei,AVG,14.0
+357140,11/16/2013,FBS,Illinois,Ohio State,PUNT RETURNS,Miles,Osei,LONG,14
+357141,11/16/2013,FBS,Illinois,Ohio State,KICK RETURNS,V'Angelo,Bentley,NO,7
+357142,11/16/2013,FBS,Illinois,Ohio State,KICK RETURNS,V'Angelo,Bentley,YDS,93
+357143,11/16/2013,FBS,Illinois,Ohio State,KICK RETURNS,V'Angelo,Bentley,AVG,13.3
+357144,11/16/2013,FBS,Illinois,Ohio State,KICK RETURNS,V'Angelo,Bentley,LONG,19

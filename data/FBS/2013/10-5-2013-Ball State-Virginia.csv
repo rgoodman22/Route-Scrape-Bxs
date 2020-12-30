@@ -1,0 +1,153 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9001,10/5/2013,FBS,Ball State,Virginia,RUSHING,Jahwan,Edwards,ATT,24
+9002,10/5/2013,FBS,Ball State,Virginia,RUSHING,Jahwan,Edwards,YDS,155
+9003,10/5/2013,FBS,Ball State,Virginia,RUSHING,Jahwan,Edwards,TD,3
+9004,10/5/2013,FBS,Ball State,Virginia,RUSHING,Jahwan,Edwards,LONG,32
+9005,10/5/2013,FBS,Ball State,Virginia,RUSHING,Horactio,Banks,ATT,10
+9006,10/5/2013,FBS,Ball State,Virginia,RUSHING,Horactio,Banks,YDS,13
+9007,10/5/2013,FBS,Ball State,Virginia,RUSHING,Horactio,Banks,TD,0
+9008,10/5/2013,FBS,Ball State,Virginia,RUSHING,Horactio,Banks,LONG,15
+9009,10/5/2013,FBS,Ball State,Virginia,RUSHING,Keith,Wenning,ATT,4
+9010,10/5/2013,FBS,Ball State,Virginia,RUSHING,Keith,Wenning,YDS,-3
+9011,10/5/2013,FBS,Ball State,Virginia,RUSHING,Keith,Wenning,TD,1
+9012,10/5/2013,FBS,Ball State,Virginia,RUSHING,Keith,Wenning,LONG,3
+9013,10/5/2013,FBS,Ball State,Virginia,RUSHING,,Team,ATT,2
+9014,10/5/2013,FBS,Ball State,Virginia,RUSHING,,Team,YDS,-5
+9015,10/5/2013,FBS,Ball State,Virginia,RUSHING,,Team,TD,0
+9016,10/5/2013,FBS,Ball State,Virginia,RUSHING,,Team,LONG,0
+9017,10/5/2013,FBS,Ball State,Virginia,PASSING,Keith,Wenning,CP-ATT-INT,23-41-0
+9018,10/5/2013,FBS,Ball State,Virginia,PASSING,Keith,Wenning,YDS,346
+9019,10/5/2013,FBS,Ball State,Virginia,PASSING,Keith,Wenning,TD,2
+9020,10/5/2013,FBS,Ball State,Virginia,PASSING,Keith,Wenning,LONG,72
+9021,10/5/2013,FBS,Ball State,Virginia,RECEIVING,Jordan,Williams,REC,9
+9022,10/5/2013,FBS,Ball State,Virginia,RECEIVING,Jordan,Williams,YDS,159
+9023,10/5/2013,FBS,Ball State,Virginia,RECEIVING,Jordan,Williams,TD,1
+9024,10/5/2013,FBS,Ball State,Virginia,RECEIVING,Jordan,Williams,LONG,72
+9025,10/5/2013,FBS,Ball State,Virginia,RECEIVING,Willie,Snead,REC,6
+9026,10/5/2013,FBS,Ball State,Virginia,RECEIVING,Willie,Snead,YDS,104
+9027,10/5/2013,FBS,Ball State,Virginia,RECEIVING,Willie,Snead,TD,1
+9028,10/5/2013,FBS,Ball State,Virginia,RECEIVING,Willie,Snead,LONG,42
+9029,10/5/2013,FBS,Ball State,Virginia,RECEIVING,Jamill,Smith,REC,3
+9030,10/5/2013,FBS,Ball State,Virginia,RECEIVING,Jamill,Smith,YDS,48
+9031,10/5/2013,FBS,Ball State,Virginia,RECEIVING,Jamill,Smith,TD,0
+9032,10/5/2013,FBS,Ball State,Virginia,RECEIVING,Jamill,Smith,LONG,28
+9033,10/5/2013,FBS,Ball State,Virginia,RECEIVING,Jahwan,Edwards,REC,3
+9034,10/5/2013,FBS,Ball State,Virginia,RECEIVING,Jahwan,Edwards,YDS,22
+9035,10/5/2013,FBS,Ball State,Virginia,RECEIVING,Jahwan,Edwards,TD,0
+9036,10/5/2013,FBS,Ball State,Virginia,RECEIVING,Jahwan,Edwards,LONG,12
+9037,10/5/2013,FBS,Ball State,Virginia,RECEIVING,Zane,Fakes,REC,2
+9038,10/5/2013,FBS,Ball State,Virginia,RECEIVING,Zane,Fakes,YDS,13
+9039,10/5/2013,FBS,Ball State,Virginia,RECEIVING,Zane,Fakes,TD,0
+9040,10/5/2013,FBS,Ball State,Virginia,RECEIVING,Zane,Fakes,LONG,8
+9041,10/5/2013,FBS,Ball State,Virginia,KICKING,Scott,Secor,FG-FGA,2/2
+9042,10/5/2013,FBS,Ball State,Virginia,KICKING,Scott,Secor,LONG,45
+9043,10/5/2013,FBS,Ball State,Virginia,KICKING,Scott,Secor,XP,6
+9044,10/5/2013,FBS,Ball State,Virginia,KICKING,Scott,Secor,PTS,12
+9045,10/5/2013,FBS,Ball State,Virginia,PUNTING,Kyle,Schmidt,NO,5
+9046,10/5/2013,FBS,Ball State,Virginia,PUNTING,Kyle,Schmidt,YDS,202
+9047,10/5/2013,FBS,Ball State,Virginia,PUNTING,Kyle,Schmidt,AVG,40.4
+9048,10/5/2013,FBS,Ball State,Virginia,PUNTING,Kyle,Schmidt,LONG,49
+9049,10/5/2013,FBS,Ball State,Virginia,PUNT RETURNS,Jamill,Smith,NO,1
+9050,10/5/2013,FBS,Ball State,Virginia,PUNT RETURNS,Jamill,Smith,YDS,5
+9051,10/5/2013,FBS,Ball State,Virginia,PUNT RETURNS,Jamill,Smith,AVG,5.0
+9052,10/5/2013,FBS,Ball State,Virginia,PUNT RETURNS,Jamill,Smith,LONG,5
+9053,10/5/2013,FBS,Ball State,Virginia,KICK RETURNS,Jamill,Smith,NO,4
+9054,10/5/2013,FBS,Ball State,Virginia,KICK RETURNS,Jamill,Smith,YDS,81
+9055,10/5/2013,FBS,Ball State,Virginia,KICK RETURNS,Jamill,Smith,AVG,20.2
+9056,10/5/2013,FBS,Ball State,Virginia,KICK RETURNS,Jamill,Smith,LONG,27
+9057,10/5/2013,FBS,Virginia,Ball State,RUSHING,Kevin,Parks,ATT,16
+9058,10/5/2013,FBS,Virginia,Ball State,RUSHING,Kevin,Parks,YDS,104
+9059,10/5/2013,FBS,Virginia,Ball State,RUSHING,Kevin,Parks,TD,2
+9060,10/5/2013,FBS,Virginia,Ball State,RUSHING,Kevin,Parks,LONG,32
+9061,10/5/2013,FBS,Virginia,Ball State,RUSHING,Khalek,Shepherd,ATT,8
+9062,10/5/2013,FBS,Virginia,Ball State,RUSHING,Khalek,Shepherd,YDS,71
+9063,10/5/2013,FBS,Virginia,Ball State,RUSHING,Khalek,Shepherd,TD,0
+9064,10/5/2013,FBS,Virginia,Ball State,RUSHING,Khalek,Shepherd,LONG,31
+9065,10/5/2013,FBS,Virginia,Ball State,RUSHING,David,Watford,ATT,11
+9066,10/5/2013,FBS,Virginia,Ball State,RUSHING,David,Watford,YDS,47
+9067,10/5/2013,FBS,Virginia,Ball State,RUSHING,David,Watford,TD,1
+9068,10/5/2013,FBS,Virginia,Ball State,RUSHING,David,Watford,LONG,27
+9069,10/5/2013,FBS,Virginia,Ball State,RUSHING,Taquan,Mizzell,ATT,5
+9070,10/5/2013,FBS,Virginia,Ball State,RUSHING,Taquan,Mizzell,YDS,14
+9071,10/5/2013,FBS,Virginia,Ball State,RUSHING,Taquan,Mizzell,TD,0
+9072,10/5/2013,FBS,Virginia,Ball State,RUSHING,Taquan,Mizzell,LONG,6
+9073,10/5/2013,FBS,Virginia,Ball State,RUSHING,Darius,Jennings,ATT,1
+9074,10/5/2013,FBS,Virginia,Ball State,RUSHING,Darius,Jennings,YDS,0
+9075,10/5/2013,FBS,Virginia,Ball State,RUSHING,Darius,Jennings,TD,0
+9076,10/5/2013,FBS,Virginia,Ball State,RUSHING,Darius,Jennings,LONG,0
+9077,10/5/2013,FBS,Virginia,Ball State,PASSING,David,Watford,CP-ATT-INT,21-36-1
+9078,10/5/2013,FBS,Virginia,Ball State,PASSING,David,Watford,YDS,209
+9079,10/5/2013,FBS,Virginia,Ball State,PASSING,David,Watford,TD,0
+9080,10/5/2013,FBS,Virginia,Ball State,PASSING,David,Watford,LONG,46
+9081,10/5/2013,FBS,Virginia,Ball State,PASSING,Greyson,Lambert,CP-ATT-INT,1-5-0
+9082,10/5/2013,FBS,Virginia,Ball State,PASSING,Greyson,Lambert,YDS,14
+9083,10/5/2013,FBS,Virginia,Ball State,PASSING,Greyson,Lambert,TD,0
+9084,10/5/2013,FBS,Virginia,Ball State,PASSING,Greyson,Lambert,LONG,14
+9085,10/5/2013,FBS,Virginia,Ball State,PASSING,,Team,CP-ATT-INT,0-1-0
+9086,10/5/2013,FBS,Virginia,Ball State,PASSING,,Team,YDS,0
+9087,10/5/2013,FBS,Virginia,Ball State,PASSING,,Team,TD,0
+9088,10/5/2013,FBS,Virginia,Ball State,PASSING,,Team,LONG,0
+9089,10/5/2013,FBS,Virginia,Ball State,RECEIVING,Taquan,Mizzell,REC,5
+9090,10/5/2013,FBS,Virginia,Ball State,RECEIVING,Taquan,Mizzell,YDS,30
+9091,10/5/2013,FBS,Virginia,Ball State,RECEIVING,Taquan,Mizzell,TD,0
+9092,10/5/2013,FBS,Virginia,Ball State,RECEIVING,Taquan,Mizzell,LONG,11
+9093,10/5/2013,FBS,Virginia,Ball State,RECEIVING,Khalek,Shepherd,REC,4
+9094,10/5/2013,FBS,Virginia,Ball State,RECEIVING,Khalek,Shepherd,YDS,14
+9095,10/5/2013,FBS,Virginia,Ball State,RECEIVING,Khalek,Shepherd,TD,0
+9096,10/5/2013,FBS,Virginia,Ball State,RECEIVING,Khalek,Shepherd,LONG,15
+9097,10/5/2013,FBS,Virginia,Ball State,RECEIVING,Keeon,Johnson,REC,3
+9098,10/5/2013,FBS,Virginia,Ball State,RECEIVING,Keeon,Johnson,YDS,46
+9099,10/5/2013,FBS,Virginia,Ball State,RECEIVING,Keeon,Johnson,TD,0
+9100,10/5/2013,FBS,Virginia,Ball State,RECEIVING,Keeon,Johnson,LONG,21
+9101,10/5/2013,FBS,Virginia,Ball State,RECEIVING,Jake,McGee,REC,3
+9102,10/5/2013,FBS,Virginia,Ball State,RECEIVING,Jake,McGee,YDS,28
+9103,10/5/2013,FBS,Virginia,Ball State,RECEIVING,Jake,McGee,TD,0
+9104,10/5/2013,FBS,Virginia,Ball State,RECEIVING,Jake,McGee,LONG,19
+9105,10/5/2013,FBS,Virginia,Ball State,RECEIVING,Kevin,Parks,REC,3
+9106,10/5/2013,FBS,Virginia,Ball State,RECEIVING,Kevin,Parks,YDS,25
+9107,10/5/2013,FBS,Virginia,Ball State,RECEIVING,Kevin,Parks,TD,0
+9108,10/5/2013,FBS,Virginia,Ball State,RECEIVING,Kevin,Parks,LONG,18
+9109,10/5/2013,FBS,Virginia,Ball State,RECEIVING,Tim,Smith,REC,1
+9110,10/5/2013,FBS,Virginia,Ball State,RECEIVING,Tim,Smith,YDS,46
+9111,10/5/2013,FBS,Virginia,Ball State,RECEIVING,Tim,Smith,TD,0
+9112,10/5/2013,FBS,Virginia,Ball State,RECEIVING,Tim,Smith,LONG,46
+9113,10/5/2013,FBS,Virginia,Ball State,RECEIVING,Dominique,Terrell,REC,1
+9114,10/5/2013,FBS,Virginia,Ball State,RECEIVING,Dominique,Terrell,YDS,19
+9115,10/5/2013,FBS,Virginia,Ball State,RECEIVING,Dominique,Terrell,TD,0
+9116,10/5/2013,FBS,Virginia,Ball State,RECEIVING,Dominique,Terrell,LONG,19
+9117,10/5/2013,FBS,Virginia,Ball State,RECEIVING,E.J.,Scott,REC,1
+9118,10/5/2013,FBS,Virginia,Ball State,RECEIVING,E.J.,Scott,YDS,14
+9119,10/5/2013,FBS,Virginia,Ball State,RECEIVING,E.J.,Scott,TD,0
+9120,10/5/2013,FBS,Virginia,Ball State,RECEIVING,E.J.,Scott,LONG,14
+9121,10/5/2013,FBS,Virginia,Ball State,RECEIVING,Billy,Skrobacz,REC,1
+9122,10/5/2013,FBS,Virginia,Ball State,RECEIVING,Billy,Skrobacz,YDS,1
+9123,10/5/2013,FBS,Virginia,Ball State,RECEIVING,Billy,Skrobacz,TD,0
+9124,10/5/2013,FBS,Virginia,Ball State,RECEIVING,Billy,Skrobacz,LONG,1
+9125,10/5/2013,FBS,Virginia,Ball State,KICKING,Alec,Vozenilek,FG-FGA,2/2
+9126,10/5/2013,FBS,Virginia,Ball State,KICKING,Alec,Vozenilek,LONG,39
+9127,10/5/2013,FBS,Virginia,Ball State,KICKING,Alec,Vozenilek,XP,3
+9128,10/5/2013,FBS,Virginia,Ball State,KICKING,Alec,Vozenilek,PTS,9
+9129,10/5/2013,FBS,Virginia,Ball State,PUNTING,Alec,Vozenilek,NO,4
+9130,10/5/2013,FBS,Virginia,Ball State,PUNTING,Alec,Vozenilek,YDS,180
+9131,10/5/2013,FBS,Virginia,Ball State,PUNTING,Alec,Vozenilek,AVG,45.0
+9132,10/5/2013,FBS,Virginia,Ball State,PUNTING,Alec,Vozenilek,LONG,56
+9133,10/5/2013,FBS,Virginia,Ball State,PUNT RETURNS,Tim,Smith,NO,2
+9134,10/5/2013,FBS,Virginia,Ball State,PUNT RETURNS,Tim,Smith,YDS,36
+9135,10/5/2013,FBS,Virginia,Ball State,PUNT RETURNS,Tim,Smith,AVG,18.0
+9136,10/5/2013,FBS,Virginia,Ball State,PUNT RETURNS,Tim,Smith,LONG,36
+9137,10/5/2013,FBS,Virginia,Ball State,PUNT RETURNS,Anthony,Harris,NO,1
+9138,10/5/2013,FBS,Virginia,Ball State,PUNT RETURNS,Anthony,Harris,YDS,-5
+9139,10/5/2013,FBS,Virginia,Ball State,PUNT RETURNS,Anthony,Harris,AVG,-5.0
+9140,10/5/2013,FBS,Virginia,Ball State,PUNT RETURNS,Anthony,Harris,LONG,0
+9141,10/5/2013,FBS,Virginia,Ball State,KICK RETURNS,Darius,Jennings,NO,5
+9142,10/5/2013,FBS,Virginia,Ball State,KICK RETURNS,Darius,Jennings,YDS,125
+9143,10/5/2013,FBS,Virginia,Ball State,KICK RETURNS,Darius,Jennings,AVG,25.0
+9144,10/5/2013,FBS,Virginia,Ball State,KICK RETURNS,Darius,Jennings,LONG,37
+9145,10/5/2013,FBS,Virginia,Ball State,KICK RETURNS,Taquan,Mizzell,NO,2
+9146,10/5/2013,FBS,Virginia,Ball State,KICK RETURNS,Taquan,Mizzell,YDS,18
+9147,10/5/2013,FBS,Virginia,Ball State,KICK RETURNS,Taquan,Mizzell,AVG,9.0
+9148,10/5/2013,FBS,Virginia,Ball State,KICK RETURNS,Taquan,Mizzell,LONG,15
+9149,10/5/2013,FBS,Virginia,Ball State,KICK RETURNS,Connor,Wingo-Reeves,NO,1
+9150,10/5/2013,FBS,Virginia,Ball State,KICK RETURNS,Connor,Wingo-Reeves,YDS,12
+9151,10/5/2013,FBS,Virginia,Ball State,KICK RETURNS,Connor,Wingo-Reeves,AVG,12.0
+9152,10/5/2013,FBS,Virginia,Ball State,KICK RETURNS,Connor,Wingo-Reeves,LONG,12

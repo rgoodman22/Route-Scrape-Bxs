@@ -1,0 +1,153 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+172001,10/26/2013,FBS,Colorado State,Hawaii,RUSHING,Kapri,Bibbs,ATT,33
+172002,10/26/2013,FBS,Colorado State,Hawaii,RUSHING,Kapri,Bibbs,YDS,137
+172003,10/26/2013,FBS,Colorado State,Hawaii,RUSHING,Kapri,Bibbs,TD,3
+172004,10/26/2013,FBS,Colorado State,Hawaii,RUSHING,Kapri,Bibbs,LONG,25
+172005,10/26/2013,FBS,Colorado State,Hawaii,RUSHING,Donnell,Alexander,ATT,7
+172006,10/26/2013,FBS,Colorado State,Hawaii,RUSHING,Donnell,Alexander,YDS,81
+172007,10/26/2013,FBS,Colorado State,Hawaii,RUSHING,Donnell,Alexander,TD,0
+172008,10/26/2013,FBS,Colorado State,Hawaii,RUSHING,Donnell,Alexander,LONG,70
+172009,10/26/2013,FBS,Colorado State,Hawaii,RUSHING,Chris,Nwoke,ATT,4
+172010,10/26/2013,FBS,Colorado State,Hawaii,RUSHING,Chris,Nwoke,YDS,7
+172011,10/26/2013,FBS,Colorado State,Hawaii,RUSHING,Chris,Nwoke,TD,0
+172012,10/26/2013,FBS,Colorado State,Hawaii,RUSHING,Chris,Nwoke,LONG,5
+172013,10/26/2013,FBS,Colorado State,Hawaii,RUSHING,Garrett,Grayson,ATT,4
+172014,10/26/2013,FBS,Colorado State,Hawaii,RUSHING,Garrett,Grayson,YDS,7
+172015,10/26/2013,FBS,Colorado State,Hawaii,RUSHING,Garrett,Grayson,TD,0
+172016,10/26/2013,FBS,Colorado State,Hawaii,RUSHING,Garrett,Grayson,LONG,11
+172017,10/26/2013,FBS,Colorado State,Hawaii,RUSHING,,Team,ATT,1
+172018,10/26/2013,FBS,Colorado State,Hawaii,RUSHING,,Team,YDS,-1
+172019,10/26/2013,FBS,Colorado State,Hawaii,RUSHING,,Team,TD,0
+172020,10/26/2013,FBS,Colorado State,Hawaii,RUSHING,,Team,LONG,0
+172021,10/26/2013,FBS,Colorado State,Hawaii,PASSING,Garrett,Grayson,CP-ATT-INT,15-26-1
+172022,10/26/2013,FBS,Colorado State,Hawaii,PASSING,Garrett,Grayson,YDS,177
+172023,10/26/2013,FBS,Colorado State,Hawaii,PASSING,Garrett,Grayson,TD,1
+172024,10/26/2013,FBS,Colorado State,Hawaii,PASSING,Garrett,Grayson,LONG,28
+172025,10/26/2013,FBS,Colorado State,Hawaii,RECEIVING,Rashard,Higgins,REC,5
+172026,10/26/2013,FBS,Colorado State,Hawaii,RECEIVING,Rashard,Higgins,YDS,79
+172027,10/26/2013,FBS,Colorado State,Hawaii,RECEIVING,Rashard,Higgins,TD,0
+172028,10/26/2013,FBS,Colorado State,Hawaii,RECEIVING,Rashard,Higgins,LONG,28
+172029,10/26/2013,FBS,Colorado State,Hawaii,RECEIVING,Joe,Hansley,REC,4
+172030,10/26/2013,FBS,Colorado State,Hawaii,RECEIVING,Joe,Hansley,YDS,24
+172031,10/26/2013,FBS,Colorado State,Hawaii,RECEIVING,Joe,Hansley,TD,0
+172032,10/26/2013,FBS,Colorado State,Hawaii,RECEIVING,Joe,Hansley,LONG,13
+172033,10/26/2013,FBS,Colorado State,Hawaii,RECEIVING,Crockett,Gillmore,REC,3
+172034,10/26/2013,FBS,Colorado State,Hawaii,RECEIVING,Crockett,Gillmore,YDS,40
+172035,10/26/2013,FBS,Colorado State,Hawaii,RECEIVING,Crockett,Gillmore,TD,1
+172036,10/26/2013,FBS,Colorado State,Hawaii,RECEIVING,Crockett,Gillmore,LONG,20
+172037,10/26/2013,FBS,Colorado State,Hawaii,RECEIVING,Charles,Lovett,REC,2
+172038,10/26/2013,FBS,Colorado State,Hawaii,RECEIVING,Charles,Lovett,YDS,25
+172039,10/26/2013,FBS,Colorado State,Hawaii,RECEIVING,Charles,Lovett,TD,0
+172040,10/26/2013,FBS,Colorado State,Hawaii,RECEIVING,Charles,Lovett,LONG,19
+172041,10/26/2013,FBS,Colorado State,Hawaii,RECEIVING,Donnell,Alexander,REC,1
+172042,10/26/2013,FBS,Colorado State,Hawaii,RECEIVING,Donnell,Alexander,YDS,9
+172043,10/26/2013,FBS,Colorado State,Hawaii,RECEIVING,Donnell,Alexander,TD,0
+172044,10/26/2013,FBS,Colorado State,Hawaii,RECEIVING,Donnell,Alexander,LONG,9
+172045,10/26/2013,FBS,Colorado State,Hawaii,KICKING,Jared,Roberts,FG-FGA,0/0
+172046,10/26/2013,FBS,Colorado State,Hawaii,KICKING,Jared,Roberts,LONG,-
+172047,10/26/2013,FBS,Colorado State,Hawaii,KICKING,Jared,Roberts,XP,5
+172048,10/26/2013,FBS,Colorado State,Hawaii,KICKING,Jared,Roberts,PTS,5
+172049,10/26/2013,FBS,Colorado State,Hawaii,PUNTING,Hayden,Hunt,NO,10
+172050,10/26/2013,FBS,Colorado State,Hawaii,PUNTING,Hayden,Hunt,YDS,423
+172051,10/26/2013,FBS,Colorado State,Hawaii,PUNTING,Hayden,Hunt,AVG,42.3
+172052,10/26/2013,FBS,Colorado State,Hawaii,PUNTING,Hayden,Hunt,LONG,55
+172053,10/26/2013,FBS,Colorado State,Hawaii,KICK RETURNS,Thomas,Coffman,NO,5
+172054,10/26/2013,FBS,Colorado State,Hawaii,KICK RETURNS,Thomas,Coffman,YDS,114
+172055,10/26/2013,FBS,Colorado State,Hawaii,KICK RETURNS,Thomas,Coffman,AVG,22.8
+172056,10/26/2013,FBS,Colorado State,Hawaii,KICK RETURNS,Thomas,Coffman,LONG,31
+172057,10/26/2013,FBS,Hawaii,Colorado State,RUSHING,Steven,Lakalaka,ATT,11
+172058,10/26/2013,FBS,Hawaii,Colorado State,RUSHING,Steven,Lakalaka,YDS,30
+172059,10/26/2013,FBS,Hawaii,Colorado State,RUSHING,Steven,Lakalaka,TD,0
+172060,10/26/2013,FBS,Hawaii,Colorado State,RUSHING,Steven,Lakalaka,LONG,14
+172061,10/26/2013,FBS,Hawaii,Colorado State,RUSHING,Diocemy,SaintJuste,ATT,4
+172062,10/26/2013,FBS,Hawaii,Colorado State,RUSHING,Diocemy,SaintJuste,YDS,13
+172063,10/26/2013,FBS,Hawaii,Colorado State,RUSHING,Diocemy,SaintJuste,TD,0
+172064,10/26/2013,FBS,Hawaii,Colorado State,RUSHING,Diocemy,SaintJuste,LONG,9
+172065,10/26/2013,FBS,Hawaii,Colorado State,RUSHING,Sean,Schroeder,ATT,8
+172066,10/26/2013,FBS,Hawaii,Colorado State,RUSHING,Sean,Schroeder,YDS,3
+172067,10/26/2013,FBS,Hawaii,Colorado State,RUSHING,Sean,Schroeder,TD,1
+172068,10/26/2013,FBS,Hawaii,Colorado State,RUSHING,Sean,Schroeder,LONG,13
+172069,10/26/2013,FBS,Hawaii,Colorado State,RUSHING,Taylor,Graham,ATT,3
+172070,10/26/2013,FBS,Hawaii,Colorado State,RUSHING,Taylor,Graham,YDS,2
+172071,10/26/2013,FBS,Hawaii,Colorado State,RUSHING,Taylor,Graham,TD,0
+172072,10/26/2013,FBS,Hawaii,Colorado State,RUSHING,Taylor,Graham,LONG,6
+172073,10/26/2013,FBS,Hawaii,Colorado State,RUSHING,Chris,Gant,ATT,1
+172074,10/26/2013,FBS,Hawaii,Colorado State,RUSHING,Chris,Gant,YDS,0
+172075,10/26/2013,FBS,Hawaii,Colorado State,RUSHING,Chris,Gant,TD,0
+172076,10/26/2013,FBS,Hawaii,Colorado State,RUSHING,Chris,Gant,LONG,0
+172077,10/26/2013,FBS,Hawaii,Colorado State,RUSHING,,Team,ATT,2
+172078,10/26/2013,FBS,Hawaii,Colorado State,RUSHING,,Team,YDS,-16
+172079,10/26/2013,FBS,Hawaii,Colorado State,RUSHING,,Team,TD,0
+172080,10/26/2013,FBS,Hawaii,Colorado State,RUSHING,,Team,LONG,0
+172081,10/26/2013,FBS,Hawaii,Colorado State,PASSING,Sean,Schroeder,CP-ATT-INT,28-49-1
+172082,10/26/2013,FBS,Hawaii,Colorado State,PASSING,Sean,Schroeder,YDS,349
+172083,10/26/2013,FBS,Hawaii,Colorado State,PASSING,Sean,Schroeder,TD,2
+172084,10/26/2013,FBS,Hawaii,Colorado State,PASSING,Sean,Schroeder,LONG,40
+172085,10/26/2013,FBS,Hawaii,Colorado State,PASSING,Taylor,Graham,CP-ATT-INT,3-7-1
+172086,10/26/2013,FBS,Hawaii,Colorado State,PASSING,Taylor,Graham,YDS,37
+172087,10/26/2013,FBS,Hawaii,Colorado State,PASSING,Taylor,Graham,TD,0
+172088,10/26/2013,FBS,Hawaii,Colorado State,PASSING,Taylor,Graham,LONG,28
+172089,10/26/2013,FBS,Hawaii,Colorado State,PASSING,,Team,CP-ATT-INT,0-1-0
+172090,10/26/2013,FBS,Hawaii,Colorado State,PASSING,,Team,YDS,0
+172091,10/26/2013,FBS,Hawaii,Colorado State,PASSING,,Team,TD,0
+172092,10/26/2013,FBS,Hawaii,Colorado State,PASSING,,Team,LONG,0
+172093,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Chris,Gant,REC,8
+172094,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Chris,Gant,YDS,159
+172095,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Chris,Gant,TD,1
+172096,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Chris,Gant,LONG,40
+172097,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Scott,Harding,REC,7
+172098,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Scott,Harding,YDS,82
+172099,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Scott,Harding,TD,0
+172100,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Scott,Harding,LONG,28
+172101,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Clark,Evans,REC,4
+172102,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Clark,Evans,YDS,31
+172103,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Clark,Evans,TD,0
+172104,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Clark,Evans,LONG,11
+172105,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Steven,Lakalaka,REC,3
+172106,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Steven,Lakalaka,YDS,23
+172107,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Steven,Lakalaka,TD,0
+172108,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Steven,Lakalaka,LONG,11
+172109,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Marcus,Kemp,REC,2
+172110,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Marcus,Kemp,YDS,25
+172111,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Marcus,Kemp,TD,0
+172112,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Marcus,Kemp,LONG,21
+172113,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Harold,Moleni,REC,2
+172114,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Harold,Moleni,YDS,9
+172115,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Harold,Moleni,TD,0
+172116,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Harold,Moleni,LONG,5
+172117,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Vasquez,Haynes,REC,2
+172118,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Vasquez,Haynes,YDS,9
+172119,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Vasquez,Haynes,TD,0
+172120,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Vasquez,Haynes,LONG,8
+172121,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Billy,RayStutzmann,REC,1
+172122,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Billy,RayStutzmann,YDS,27
+172123,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Billy,RayStutzmann,TD,1
+172124,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Billy,RayStutzmann,LONG,27
+172125,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Donnie,KingJr.,REC,1
+172126,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Donnie,KingJr.,YDS,11
+172127,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Donnie,KingJr.,TD,0
+172128,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Donnie,KingJr.,LONG,11
+172129,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Keith,Kirkwood,REC,1
+172130,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Keith,Kirkwood,YDS,10
+172131,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Keith,Kirkwood,TD,0
+172132,10/26/2013,FBS,Hawaii,Colorado State,RECEIVING,Keith,Kirkwood,LONG,10
+172133,10/26/2013,FBS,Hawaii,Colorado State,KICKING,Tyler,Hadden,FG-FGA,2/3
+172134,10/26/2013,FBS,Hawaii,Colorado State,KICKING,Tyler,Hadden,LONG,39
+172135,10/26/2013,FBS,Hawaii,Colorado State,KICKING,Tyler,Hadden,XP,2
+172136,10/26/2013,FBS,Hawaii,Colorado State,KICKING,Tyler,Hadden,PTS,8
+172137,10/26/2013,FBS,Hawaii,Colorado State,PUNTING,Scott,Harding,NO,6
+172138,10/26/2013,FBS,Hawaii,Colorado State,PUNTING,Scott,Harding,YDS,276
+172139,10/26/2013,FBS,Hawaii,Colorado State,PUNTING,Scott,Harding,AVG,46.0
+172140,10/26/2013,FBS,Hawaii,Colorado State,PUNTING,Scott,Harding,LONG,62
+172141,10/26/2013,FBS,Hawaii,Colorado State,PUNT RETURNS,Scott,Harding,NO,5
+172142,10/26/2013,FBS,Hawaii,Colorado State,PUNT RETURNS,Scott,Harding,YDS,29
+172143,10/26/2013,FBS,Hawaii,Colorado State,PUNT RETURNS,Scott,Harding,AVG,5.8
+172144,10/26/2013,FBS,Hawaii,Colorado State,PUNT RETURNS,Scott,Harding,LONG,16
+172145,10/26/2013,FBS,Hawaii,Colorado State,KICK RETURNS,Diocemy,SaintJuste,NO,4
+172146,10/26/2013,FBS,Hawaii,Colorado State,KICK RETURNS,Diocemy,SaintJuste,YDS,150
+172147,10/26/2013,FBS,Hawaii,Colorado State,KICK RETURNS,Diocemy,SaintJuste,AVG,37.5
+172148,10/26/2013,FBS,Hawaii,Colorado State,KICK RETURNS,Diocemy,SaintJuste,LONG,78
+172149,10/26/2013,FBS,Hawaii,Colorado State,KICK RETURNS,Donnie,KingJr.,NO,1
+172150,10/26/2013,FBS,Hawaii,Colorado State,KICK RETURNS,Donnie,KingJr.,YDS,11
+172151,10/26/2013,FBS,Hawaii,Colorado State,KICK RETURNS,Donnie,KingJr.,AVG,11.0
+172152,10/26/2013,FBS,Hawaii,Colorado State,KICK RETURNS,Donnie,KingJr.,LONG,11

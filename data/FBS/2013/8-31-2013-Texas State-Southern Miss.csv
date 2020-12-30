@@ -1,0 +1,149 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+58001,8/31/2013,FBS,Texas State,Southern Miss,RUSHING,Chris,Nutall,ATT,10
+58002,8/31/2013,FBS,Texas State,Southern Miss,RUSHING,Chris,Nutall,YDS,37
+58003,8/31/2013,FBS,Texas State,Southern Miss,RUSHING,Chris,Nutall,TD,0
+58004,8/31/2013,FBS,Texas State,Southern Miss,RUSHING,Chris,Nutall,LONG,13
+58005,8/31/2013,FBS,Texas State,Southern Miss,RUSHING,Jordan,Moore,ATT,9
+58006,8/31/2013,FBS,Texas State,Southern Miss,RUSHING,Jordan,Moore,YDS,25
+58007,8/31/2013,FBS,Texas State,Southern Miss,RUSHING,Jordan,Moore,TD,0
+58008,8/31/2013,FBS,Texas State,Southern Miss,RUSHING,Jordan,Moore,LONG,19
+58009,8/31/2013,FBS,Texas State,Southern Miss,RUSHING,Robert,Lowe,ATT,7
+58010,8/31/2013,FBS,Texas State,Southern Miss,RUSHING,Robert,Lowe,YDS,15
+58011,8/31/2013,FBS,Texas State,Southern Miss,RUSHING,Robert,Lowe,TD,0
+58012,8/31/2013,FBS,Texas State,Southern Miss,RUSHING,Robert,Lowe,LONG,5
+58013,8/31/2013,FBS,Texas State,Southern Miss,RUSHING,Terrence,Franks,ATT,7
+58014,8/31/2013,FBS,Texas State,Southern Miss,RUSHING,Terrence,Franks,YDS,13
+58015,8/31/2013,FBS,Texas State,Southern Miss,RUSHING,Terrence,Franks,TD,0
+58016,8/31/2013,FBS,Texas State,Southern Miss,RUSHING,Terrence,Franks,LONG,9
+58017,8/31/2013,FBS,Texas State,Southern Miss,RUSHING,Tyler,Arndt,ATT,5
+58018,8/31/2013,FBS,Texas State,Southern Miss,RUSHING,Tyler,Arndt,YDS,10
+58019,8/31/2013,FBS,Texas State,Southern Miss,RUSHING,Tyler,Arndt,TD,1
+58020,8/31/2013,FBS,Texas State,Southern Miss,RUSHING,Tyler,Arndt,LONG,17
+58021,8/31/2013,FBS,Texas State,Southern Miss,RUSHING,,Team,ATT,3
+58022,8/31/2013,FBS,Texas State,Southern Miss,RUSHING,,Team,YDS,-27
+58023,8/31/2013,FBS,Texas State,Southern Miss,RUSHING,,Team,TD,0
+58024,8/31/2013,FBS,Texas State,Southern Miss,RUSHING,,Team,LONG,0
+58025,8/31/2013,FBS,Texas State,Southern Miss,PASSING,Tyler,Arndt,CP-ATT-INT,13-18-0
+58026,8/31/2013,FBS,Texas State,Southern Miss,PASSING,Tyler,Arndt,YDS,111
+58027,8/31/2013,FBS,Texas State,Southern Miss,PASSING,Tyler,Arndt,TD,0
+58028,8/31/2013,FBS,Texas State,Southern Miss,PASSING,Tyler,Arndt,LONG,21
+58029,8/31/2013,FBS,Texas State,Southern Miss,PASSING,Jordan,Moore,CP-ATT-INT,1-3-0
+58030,8/31/2013,FBS,Texas State,Southern Miss,PASSING,Jordan,Moore,YDS,23
+58031,8/31/2013,FBS,Texas State,Southern Miss,PASSING,Jordan,Moore,TD,1
+58032,8/31/2013,FBS,Texas State,Southern Miss,PASSING,Jordan,Moore,LONG,23
+58033,8/31/2013,FBS,Texas State,Southern Miss,RECEIVING,Andy,Erickson,REC,3
+58034,8/31/2013,FBS,Texas State,Southern Miss,RECEIVING,Andy,Erickson,YDS,37
+58035,8/31/2013,FBS,Texas State,Southern Miss,RECEIVING,Andy,Erickson,TD,0
+58036,8/31/2013,FBS,Texas State,Southern Miss,RECEIVING,Andy,Erickson,LONG,19
+58037,8/31/2013,FBS,Texas State,Southern Miss,RECEIVING,Bradley,Miller,REC,3
+58038,8/31/2013,FBS,Texas State,Southern Miss,RECEIVING,Bradley,Miller,YDS,22
+58039,8/31/2013,FBS,Texas State,Southern Miss,RECEIVING,Bradley,Miller,TD,0
+58040,8/31/2013,FBS,Texas State,Southern Miss,RECEIVING,Bradley,Miller,LONG,14
+58041,8/31/2013,FBS,Texas State,Southern Miss,RECEIVING,Isaiah,Battle,REC,3
+58042,8/31/2013,FBS,Texas State,Southern Miss,RECEIVING,Isaiah,Battle,YDS,19
+58043,8/31/2013,FBS,Texas State,Southern Miss,RECEIVING,Isaiah,Battle,TD,0
+58044,8/31/2013,FBS,Texas State,Southern Miss,RECEIVING,Isaiah,Battle,LONG,7
+58045,8/31/2013,FBS,Texas State,Southern Miss,RECEIVING,Robert,Lowe,REC,2
+58046,8/31/2013,FBS,Texas State,Southern Miss,RECEIVING,Robert,Lowe,YDS,22
+58047,8/31/2013,FBS,Texas State,Southern Miss,RECEIVING,Robert,Lowe,TD,1
+58048,8/31/2013,FBS,Texas State,Southern Miss,RECEIVING,Robert,Lowe,LONG,23
+58049,8/31/2013,FBS,Texas State,Southern Miss,RECEIVING,Brandon,Smith,REC,2
+58050,8/31/2013,FBS,Texas State,Southern Miss,RECEIVING,Brandon,Smith,YDS,13
+58051,8/31/2013,FBS,Texas State,Southern Miss,RECEIVING,Brandon,Smith,TD,0
+58052,8/31/2013,FBS,Texas State,Southern Miss,RECEIVING,Brandon,Smith,LONG,12
+58053,8/31/2013,FBS,Texas State,Southern Miss,RECEIVING,Terrence,Franks,REC,1
+58054,8/31/2013,FBS,Texas State,Southern Miss,RECEIVING,Terrence,Franks,YDS,21
+58055,8/31/2013,FBS,Texas State,Southern Miss,RECEIVING,Terrence,Franks,TD,0
+58056,8/31/2013,FBS,Texas State,Southern Miss,RECEIVING,Terrence,Franks,LONG,21
+58057,8/31/2013,FBS,Texas State,Southern Miss,KICKING,Will,Johnson,FG-FGA,0/2
+58058,8/31/2013,FBS,Texas State,Southern Miss,KICKING,Will,Johnson,LONG,-
+58059,8/31/2013,FBS,Texas State,Southern Miss,KICKING,Will,Johnson,XP,2
+58060,8/31/2013,FBS,Texas State,Southern Miss,KICKING,Will,Johnson,PTS,2
+58061,8/31/2013,FBS,Texas State,Southern Miss,PUNTING,Zach,Robinson,NO,9
+58062,8/31/2013,FBS,Texas State,Southern Miss,PUNTING,Zach,Robinson,YDS,404
+58063,8/31/2013,FBS,Texas State,Southern Miss,PUNTING,Zach,Robinson,AVG,44.9
+58064,8/31/2013,FBS,Texas State,Southern Miss,PUNTING,Zach,Robinson,LONG,60
+58065,8/31/2013,FBS,Texas State,Southern Miss,PUNT RETURNS,Andy,Erickson,NO,1
+58066,8/31/2013,FBS,Texas State,Southern Miss,PUNT RETURNS,Andy,Erickson,YDS,29
+58067,8/31/2013,FBS,Texas State,Southern Miss,PUNT RETURNS,Andy,Erickson,AVG,29.0
+58068,8/31/2013,FBS,Texas State,Southern Miss,PUNT RETURNS,Andy,Erickson,LONG,29
+58069,8/31/2013,FBS,Texas State,Southern Miss,KICK RETURNS,Brandon,Smith,NO,1
+58070,8/31/2013,FBS,Texas State,Southern Miss,KICK RETURNS,Brandon,Smith,YDS,12
+58071,8/31/2013,FBS,Texas State,Southern Miss,KICK RETURNS,Brandon,Smith,AVG,12.0
+58072,8/31/2013,FBS,Texas State,Southern Miss,KICK RETURNS,Brandon,Smith,LONG,12
+58073,8/31/2013,FBS,Texas State,Southern Miss,KICK RETURNS,Tim,Gay,NO,1
+58074,8/31/2013,FBS,Texas State,Southern Miss,KICK RETURNS,Tim,Gay,YDS,1
+58075,8/31/2013,FBS,Texas State,Southern Miss,KICK RETURNS,Tim,Gay,AVG,1.0
+58076,8/31/2013,FBS,Texas State,Southern Miss,KICK RETURNS,Tim,Gay,LONG,1
+58077,8/31/2013,FBS,Southern Miss,Texas State,RUSHING,Kendrick,Hardy,ATT,8
+58078,8/31/2013,FBS,Southern Miss,Texas State,RUSHING,Kendrick,Hardy,YDS,27
+58079,8/31/2013,FBS,Southern Miss,Texas State,RUSHING,Kendrick,Hardy,TD,0
+58080,8/31/2013,FBS,Southern Miss,Texas State,RUSHING,Kendrick,Hardy,LONG,15
+58081,8/31/2013,FBS,Southern Miss,Texas State,RUSHING,Tyre,Bracken,ATT,8
+58082,8/31/2013,FBS,Southern Miss,Texas State,RUSHING,Tyre,Bracken,YDS,22
+58083,8/31/2013,FBS,Southern Miss,Texas State,RUSHING,Tyre,Bracken,TD,0
+58084,8/31/2013,FBS,Southern Miss,Texas State,RUSHING,Tyre,Bracken,LONG,5
+58085,8/31/2013,FBS,Southern Miss,Texas State,RUSHING,Jeremy,Hester,ATT,2
+58086,8/31/2013,FBS,Southern Miss,Texas State,RUSHING,Jeremy,Hester,YDS,3
+58087,8/31/2013,FBS,Southern Miss,Texas State,RUSHING,Jeremy,Hester,TD,0
+58088,8/31/2013,FBS,Southern Miss,Texas State,RUSHING,Jeremy,Hester,LONG,4
+58089,8/31/2013,FBS,Southern Miss,Texas State,RUSHING,Jalen,Richard,ATT,3
+58090,8/31/2013,FBS,Southern Miss,Texas State,RUSHING,Jalen,Richard,YDS,-3
+58091,8/31/2013,FBS,Southern Miss,Texas State,RUSHING,Jalen,Richard,TD,0
+58092,8/31/2013,FBS,Southern Miss,Texas State,RUSHING,Jalen,Richard,LONG,1
+58093,8/31/2013,FBS,Southern Miss,Texas State,RUSHING,Allan,Bridgford,ATT,3
+58094,8/31/2013,FBS,Southern Miss,Texas State,RUSHING,Allan,Bridgford,YDS,-26
+58095,8/31/2013,FBS,Southern Miss,Texas State,RUSHING,Allan,Bridgford,TD,0
+58096,8/31/2013,FBS,Southern Miss,Texas State,RUSHING,Allan,Bridgford,LONG,0
+58097,8/31/2013,FBS,Southern Miss,Texas State,PASSING,Allan,Bridgford,CP-ATT-INT,28-53-2
+58098,8/31/2013,FBS,Southern Miss,Texas State,PASSING,Allan,Bridgford,YDS,377
+58099,8/31/2013,FBS,Southern Miss,Texas State,PASSING,Allan,Bridgford,TD,1
+58100,8/31/2013,FBS,Southern Miss,Texas State,PASSING,Allan,Bridgford,LONG,65
+58101,8/31/2013,FBS,Southern Miss,Texas State,RECEIVING,Tyre'oune,Holmes,REC,12
+58102,8/31/2013,FBS,Southern Miss,Texas State,RECEIVING,Tyre'oune,Holmes,YDS,96
+58103,8/31/2013,FBS,Southern Miss,Texas State,RECEIVING,Tyre'oune,Holmes,TD,0
+58104,8/31/2013,FBS,Southern Miss,Texas State,RECEIVING,Tyre'oune,Holmes,LONG,21
+58105,8/31/2013,FBS,Southern Miss,Texas State,RECEIVING,Rickey,Bradley,REC,7
+58106,8/31/2013,FBS,Southern Miss,Texas State,RECEIVING,Rickey,Bradley,YDS,193
+58107,8/31/2013,FBS,Southern Miss,Texas State,RECEIVING,Rickey,Bradley,TD,0
+58108,8/31/2013,FBS,Southern Miss,Texas State,RECEIVING,Rickey,Bradley,LONG,65
+58109,8/31/2013,FBS,Southern Miss,Texas State,RECEIVING,Tyre,Bracken,REC,4
+58110,8/31/2013,FBS,Southern Miss,Texas State,RECEIVING,Tyre,Bracken,YDS,37
+58111,8/31/2013,FBS,Southern Miss,Texas State,RECEIVING,Tyre,Bracken,TD,0
+58112,8/31/2013,FBS,Southern Miss,Texas State,RECEIVING,Tyre,Bracken,LONG,19
+58113,8/31/2013,FBS,Southern Miss,Texas State,RECEIVING,Marquise,Ricard,REC,2
+58114,8/31/2013,FBS,Southern Miss,Texas State,RECEIVING,Marquise,Ricard,YDS,32
+58115,8/31/2013,FBS,Southern Miss,Texas State,RECEIVING,Marquise,Ricard,TD,0
+58116,8/31/2013,FBS,Southern Miss,Texas State,RECEIVING,Marquise,Ricard,LONG,25
+58117,8/31/2013,FBS,Southern Miss,Texas State,RECEIVING,Jalen,Richard,REC,1
+58118,8/31/2013,FBS,Southern Miss,Texas State,RECEIVING,Jalen,Richard,YDS,7
+58119,8/31/2013,FBS,Southern Miss,Texas State,RECEIVING,Jalen,Richard,TD,0
+58120,8/31/2013,FBS,Southern Miss,Texas State,RECEIVING,Jalen,Richard,LONG,7
+58121,8/31/2013,FBS,Southern Miss,Texas State,RECEIVING,James,Cox,REC,1
+58122,8/31/2013,FBS,Southern Miss,Texas State,RECEIVING,James,Cox,YDS,6
+58123,8/31/2013,FBS,Southern Miss,Texas State,RECEIVING,James,Cox,TD,1
+58124,8/31/2013,FBS,Southern Miss,Texas State,RECEIVING,James,Cox,LONG,6
+58125,8/31/2013,FBS,Southern Miss,Texas State,RECEIVING,Dominique,Sullivan,REC,1
+58126,8/31/2013,FBS,Southern Miss,Texas State,RECEIVING,Dominique,Sullivan,YDS,6
+58127,8/31/2013,FBS,Southern Miss,Texas State,RECEIVING,Dominique,Sullivan,TD,0
+58128,8/31/2013,FBS,Southern Miss,Texas State,RECEIVING,Dominique,Sullivan,LONG,6
+58129,8/31/2013,FBS,Southern Miss,Texas State,KICKING,Corey,Acosta,FG-FGA,2/3
+58130,8/31/2013,FBS,Southern Miss,Texas State,KICKING,Corey,Acosta,LONG,41
+58131,8/31/2013,FBS,Southern Miss,Texas State,KICKING,Corey,Acosta,XP,1
+58132,8/31/2013,FBS,Southern Miss,Texas State,KICKING,Corey,Acosta,PTS,7
+58133,8/31/2013,FBS,Southern Miss,Texas State,PUNTING,Matthew,Moseley,NO,6
+58134,8/31/2013,FBS,Southern Miss,Texas State,PUNTING,Matthew,Moseley,YDS,230
+58135,8/31/2013,FBS,Southern Miss,Texas State,PUNTING,Matthew,Moseley,AVG,38.3
+58136,8/31/2013,FBS,Southern Miss,Texas State,PUNTING,Matthew,Moseley,LONG,54
+58137,8/31/2013,FBS,Southern Miss,Texas State,PUNT RETURNS,Jalen,Richard,NO,2
+58138,8/31/2013,FBS,Southern Miss,Texas State,PUNT RETURNS,Jalen,Richard,YDS,52
+58139,8/31/2013,FBS,Southern Miss,Texas State,PUNT RETURNS,Jalen,Richard,AVG,26.0
+58140,8/31/2013,FBS,Southern Miss,Texas State,PUNT RETURNS,Jalen,Richard,LONG,35
+58141,8/31/2013,FBS,Southern Miss,Texas State,KICK RETURNS,Emmanuel,Johnson,NO,3
+58142,8/31/2013,FBS,Southern Miss,Texas State,KICK RETURNS,Emmanuel,Johnson,YDS,91
+58143,8/31/2013,FBS,Southern Miss,Texas State,KICK RETURNS,Emmanuel,Johnson,AVG,30.3
+58144,8/31/2013,FBS,Southern Miss,Texas State,KICK RETURNS,Emmanuel,Johnson,LONG,35
+58145,8/31/2013,FBS,Southern Miss,Texas State,KICK RETURNS,Justin,Sims,NO,1
+58146,8/31/2013,FBS,Southern Miss,Texas State,KICK RETURNS,Justin,Sims,YDS,23
+58147,8/31/2013,FBS,Southern Miss,Texas State,KICK RETURNS,Justin,Sims,AVG,23.0
+58148,8/31/2013,FBS,Southern Miss,Texas State,KICK RETURNS,Justin,Sims,LONG,23

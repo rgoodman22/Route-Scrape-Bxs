@@ -1,0 +1,157 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+129001,10/19/2013,FBS,Maryland,Wake Forest,RUSHING,Brandon,Ross,ATT,8
+129002,10/19/2013,FBS,Maryland,Wake Forest,RUSHING,Brandon,Ross,YDS,39
+129003,10/19/2013,FBS,Maryland,Wake Forest,RUSHING,Brandon,Ross,TD,0
+129004,10/19/2013,FBS,Maryland,Wake Forest,RUSHING,Brandon,Ross,LONG,15
+129005,10/19/2013,FBS,Maryland,Wake Forest,RUSHING,Albert,Reid,ATT,5
+129006,10/19/2013,FBS,Maryland,Wake Forest,RUSHING,Albert,Reid,YDS,32
+129007,10/19/2013,FBS,Maryland,Wake Forest,RUSHING,Albert,Reid,TD,0
+129008,10/19/2013,FBS,Maryland,Wake Forest,RUSHING,Albert,Reid,LONG,11
+129009,10/19/2013,FBS,Maryland,Wake Forest,RUSHING,Jacquille,Veii,ATT,0
+129010,10/19/2013,FBS,Maryland,Wake Forest,RUSHING,Jacquille,Veii,YDS,4
+129011,10/19/2013,FBS,Maryland,Wake Forest,RUSHING,Jacquille,Veii,TD,0
+129012,10/19/2013,FBS,Maryland,Wake Forest,RUSHING,Jacquille,Veii,LONG,0
+129013,10/19/2013,FBS,Maryland,Wake Forest,RUSHING,Caleb,Rowe,ATT,2
+129014,10/19/2013,FBS,Maryland,Wake Forest,RUSHING,Caleb,Rowe,YDS,-1
+129015,10/19/2013,FBS,Maryland,Wake Forest,RUSHING,Caleb,Rowe,TD,0
+129016,10/19/2013,FBS,Maryland,Wake Forest,RUSHING,Caleb,Rowe,LONG,5
+129017,10/19/2013,FBS,Maryland,Wake Forest,RUSHING,C.J.,Brown,ATT,8
+129018,10/19/2013,FBS,Maryland,Wake Forest,RUSHING,C.J.,Brown,YDS,-35
+129019,10/19/2013,FBS,Maryland,Wake Forest,RUSHING,C.J.,Brown,TD,0
+129020,10/19/2013,FBS,Maryland,Wake Forest,RUSHING,C.J.,Brown,LONG,6
+129021,10/19/2013,FBS,Maryland,Wake Forest,PASSING,Caleb,Rowe,CP-ATT-INT,12-27-0
+129022,10/19/2013,FBS,Maryland,Wake Forest,PASSING,Caleb,Rowe,YDS,207
+129023,10/19/2013,FBS,Maryland,Wake Forest,PASSING,Caleb,Rowe,TD,1
+129024,10/19/2013,FBS,Maryland,Wake Forest,PASSING,Caleb,Rowe,LONG,56
+129025,10/19/2013,FBS,Maryland,Wake Forest,PASSING,C.J.,Brown,CP-ATT-INT,15-24-2
+129026,10/19/2013,FBS,Maryland,Wake Forest,PASSING,C.J.,Brown,YDS,137
+129027,10/19/2013,FBS,Maryland,Wake Forest,PASSING,C.J.,Brown,TD,0
+129028,10/19/2013,FBS,Maryland,Wake Forest,PASSING,C.J.,Brown,LONG,26
+129029,10/19/2013,FBS,Maryland,Wake Forest,RECEIVING,Stefon,Diggs,REC,8
+129030,10/19/2013,FBS,Maryland,Wake Forest,RECEIVING,Stefon,Diggs,YDS,67
+129031,10/19/2013,FBS,Maryland,Wake Forest,RECEIVING,Stefon,Diggs,TD,0
+129032,10/19/2013,FBS,Maryland,Wake Forest,RECEIVING,Stefon,Diggs,LONG,20
+129033,10/19/2013,FBS,Maryland,Wake Forest,RECEIVING,Amba,Etta,REC,6
+129034,10/19/2013,FBS,Maryland,Wake Forest,RECEIVING,Amba,Etta,YDS,69
+129035,10/19/2013,FBS,Maryland,Wake Forest,RECEIVING,Amba,Etta,TD,0
+129036,10/19/2013,FBS,Maryland,Wake Forest,RECEIVING,Amba,Etta,LONG,17
+129037,10/19/2013,FBS,Maryland,Wake Forest,RECEIVING,Deon,Long,REC,4
+129038,10/19/2013,FBS,Maryland,Wake Forest,RECEIVING,Deon,Long,YDS,43
+129039,10/19/2013,FBS,Maryland,Wake Forest,RECEIVING,Deon,Long,TD,0
+129040,10/19/2013,FBS,Maryland,Wake Forest,RECEIVING,Deon,Long,LONG,17
+129041,10/19/2013,FBS,Maryland,Wake Forest,RECEIVING,Levern,Jacobs,REC,3
+129042,10/19/2013,FBS,Maryland,Wake Forest,RECEIVING,Levern,Jacobs,YDS,78
+129043,10/19/2013,FBS,Maryland,Wake Forest,RECEIVING,Levern,Jacobs,TD,1
+129044,10/19/2013,FBS,Maryland,Wake Forest,RECEIVING,Levern,Jacobs,LONG,56
+129045,10/19/2013,FBS,Maryland,Wake Forest,RECEIVING,Dave,Stinebaugh,REC,2
+129046,10/19/2013,FBS,Maryland,Wake Forest,RECEIVING,Dave,Stinebaugh,YDS,58
+129047,10/19/2013,FBS,Maryland,Wake Forest,RECEIVING,Dave,Stinebaugh,TD,0
+129048,10/19/2013,FBS,Maryland,Wake Forest,RECEIVING,Dave,Stinebaugh,LONG,32
+129049,10/19/2013,FBS,Maryland,Wake Forest,RECEIVING,Nigel,King,REC,1
+129050,10/19/2013,FBS,Maryland,Wake Forest,RECEIVING,Nigel,King,YDS,15
+129051,10/19/2013,FBS,Maryland,Wake Forest,RECEIVING,Nigel,King,TD,0
+129052,10/19/2013,FBS,Maryland,Wake Forest,RECEIVING,Nigel,King,LONG,15
+129053,10/19/2013,FBS,Maryland,Wake Forest,RECEIVING,Albert,Reid,REC,1
+129054,10/19/2013,FBS,Maryland,Wake Forest,RECEIVING,Albert,Reid,YDS,9
+129055,10/19/2013,FBS,Maryland,Wake Forest,RECEIVING,Albert,Reid,TD,0
+129056,10/19/2013,FBS,Maryland,Wake Forest,RECEIVING,Albert,Reid,LONG,9
+129057,10/19/2013,FBS,Maryland,Wake Forest,RECEIVING,Brandon,Ross,REC,1
+129058,10/19/2013,FBS,Maryland,Wake Forest,RECEIVING,Brandon,Ross,YDS,6
+129059,10/19/2013,FBS,Maryland,Wake Forest,RECEIVING,Brandon,Ross,TD,0
+129060,10/19/2013,FBS,Maryland,Wake Forest,RECEIVING,Brandon,Ross,LONG,6
+129061,10/19/2013,FBS,Maryland,Wake Forest,RECEIVING,Jacquille,Veii,REC,1
+129062,10/19/2013,FBS,Maryland,Wake Forest,RECEIVING,Jacquille,Veii,YDS,-1
+129063,10/19/2013,FBS,Maryland,Wake Forest,RECEIVING,Jacquille,Veii,TD,0
+129064,10/19/2013,FBS,Maryland,Wake Forest,RECEIVING,Jacquille,Veii,LONG,0
+129065,10/19/2013,FBS,Maryland,Wake Forest,KICKING,Brad,Craddock,FG-FGA,1/2
+129066,10/19/2013,FBS,Maryland,Wake Forest,KICKING,Brad,Craddock,LONG,23
+129067,10/19/2013,FBS,Maryland,Wake Forest,KICKING,Brad,Craddock,XP,1
+129068,10/19/2013,FBS,Maryland,Wake Forest,KICKING,Brad,Craddock,PTS,4
+129069,10/19/2013,FBS,Maryland,Wake Forest,PUNTING,Nathan,Renfro,NO,3
+129070,10/19/2013,FBS,Maryland,Wake Forest,PUNTING,Nathan,Renfro,YDS,133
+129071,10/19/2013,FBS,Maryland,Wake Forest,PUNTING,Nathan,Renfro,AVG,44.3
+129072,10/19/2013,FBS,Maryland,Wake Forest,PUNTING,Nathan,Renfro,LONG,51
+129073,10/19/2013,FBS,Maryland,Wake Forest,PUNT RETURNS,William,Likely,NO,3
+129074,10/19/2013,FBS,Maryland,Wake Forest,PUNT RETURNS,William,Likely,YDS,39
+129075,10/19/2013,FBS,Maryland,Wake Forest,PUNT RETURNS,William,Likely,AVG,13.0
+129076,10/19/2013,FBS,Maryland,Wake Forest,PUNT RETURNS,William,Likely,LONG,27
+129077,10/19/2013,FBS,Maryland,Wake Forest,KICK RETURNS,Stefon,Diggs,NO,4
+129078,10/19/2013,FBS,Maryland,Wake Forest,KICK RETURNS,Stefon,Diggs,YDS,111
+129079,10/19/2013,FBS,Maryland,Wake Forest,KICK RETURNS,Stefon,Diggs,AVG,27.8
+129080,10/19/2013,FBS,Maryland,Wake Forest,KICK RETURNS,Stefon,Diggs,LONG,35
+129081,10/19/2013,FBS,Maryland,Wake Forest,KICK RETURNS,William,Likely,NO,2
+129082,10/19/2013,FBS,Maryland,Wake Forest,KICK RETURNS,William,Likely,YDS,60
+129083,10/19/2013,FBS,Maryland,Wake Forest,KICK RETURNS,William,Likely,AVG,30.0
+129084,10/19/2013,FBS,Maryland,Wake Forest,KICK RETURNS,William,Likely,LONG,40
+129085,10/19/2013,FBS,Wake Forest,Maryland,RUSHING,Josh,Harris,ATT,9
+129086,10/19/2013,FBS,Wake Forest,Maryland,RUSHING,Josh,Harris,YDS,47
+129087,10/19/2013,FBS,Wake Forest,Maryland,RUSHING,Josh,Harris,TD,1
+129088,10/19/2013,FBS,Wake Forest,Maryland,RUSHING,Josh,Harris,LONG,28
+129089,10/19/2013,FBS,Wake Forest,Maryland,RUSHING,Tanner,Price,ATT,9
+129090,10/19/2013,FBS,Wake Forest,Maryland,RUSHING,Tanner,Price,YDS,5
+129091,10/19/2013,FBS,Wake Forest,Maryland,RUSHING,Tanner,Price,TD,1
+129092,10/19/2013,FBS,Wake Forest,Maryland,RUSHING,Tanner,Price,LONG,7
+129093,10/19/2013,FBS,Wake Forest,Maryland,RUSHING,Dominique,Gibson,ATT,4
+129094,10/19/2013,FBS,Wake Forest,Maryland,RUSHING,Dominique,Gibson,YDS,0
+129095,10/19/2013,FBS,Wake Forest,Maryland,RUSHING,Dominique,Gibson,TD,0
+129096,10/19/2013,FBS,Wake Forest,Maryland,RUSHING,Dominique,Gibson,LONG,3
+129097,10/19/2013,FBS,Wake Forest,Maryland,RUSHING,,Team,ATT,1
+129098,10/19/2013,FBS,Wake Forest,Maryland,RUSHING,,Team,YDS,-2
+129099,10/19/2013,FBS,Wake Forest,Maryland,RUSHING,,Team,TD,0
+129100,10/19/2013,FBS,Wake Forest,Maryland,RUSHING,,Team,LONG,0
+129101,10/19/2013,FBS,Wake Forest,Maryland,RUSHING,Jalen,Latter,ATT,1
+129102,10/19/2013,FBS,Wake Forest,Maryland,RUSHING,Jalen,Latter,YDS,-3
+129103,10/19/2013,FBS,Wake Forest,Maryland,RUSHING,Jalen,Latter,TD,0
+129104,10/19/2013,FBS,Wake Forest,Maryland,RUSHING,Jalen,Latter,LONG,0
+129105,10/19/2013,FBS,Wake Forest,Maryland,PASSING,Tanner,Price,CP-ATT-INT,26-36-0
+129106,10/19/2013,FBS,Wake Forest,Maryland,PASSING,Tanner,Price,YDS,231
+129107,10/19/2013,FBS,Wake Forest,Maryland,PASSING,Tanner,Price,TD,1
+129108,10/19/2013,FBS,Wake Forest,Maryland,PASSING,Tanner,Price,LONG,26
+129109,10/19/2013,FBS,Wake Forest,Maryland,PASSING,Michael,Campanaro,CP-ATT-INT,2-2-0
+129110,10/19/2013,FBS,Wake Forest,Maryland,PASSING,Michael,Campanaro,YDS,29
+129111,10/19/2013,FBS,Wake Forest,Maryland,PASSING,Michael,Campanaro,TD,1
+129112,10/19/2013,FBS,Wake Forest,Maryland,PASSING,Michael,Campanaro,LONG,25
+129113,10/19/2013,FBS,Wake Forest,Maryland,RECEIVING,Michael,Campanaro,REC,11
+129114,10/19/2013,FBS,Wake Forest,Maryland,RECEIVING,Michael,Campanaro,YDS,122
+129115,10/19/2013,FBS,Wake Forest,Maryland,RECEIVING,Michael,Campanaro,TD,1
+129116,10/19/2013,FBS,Wake Forest,Maryland,RECEIVING,Michael,Campanaro,LONG,26
+129117,10/19/2013,FBS,Wake Forest,Maryland,RECEIVING,Tyree,Harris,REC,6
+129118,10/19/2013,FBS,Wake Forest,Maryland,RECEIVING,Tyree,Harris,YDS,49
+129119,10/19/2013,FBS,Wake Forest,Maryland,RECEIVING,Tyree,Harris,TD,0
+129120,10/19/2013,FBS,Wake Forest,Maryland,RECEIVING,Tyree,Harris,LONG,25
+129121,10/19/2013,FBS,Wake Forest,Maryland,RECEIVING,Jared,Crump,REC,3
+129122,10/19/2013,FBS,Wake Forest,Maryland,RECEIVING,Jared,Crump,YDS,41
+129123,10/19/2013,FBS,Wake Forest,Maryland,RECEIVING,Jared,Crump,TD,0
+129124,10/19/2013,FBS,Wake Forest,Maryland,RECEIVING,Jared,Crump,LONG,19
+129125,10/19/2013,FBS,Wake Forest,Maryland,RECEIVING,Spencer,Bishop,REC,3
+129126,10/19/2013,FBS,Wake Forest,Maryland,RECEIVING,Spencer,Bishop,YDS,33
+129127,10/19/2013,FBS,Wake Forest,Maryland,RECEIVING,Spencer,Bishop,TD,0
+129128,10/19/2013,FBS,Wake Forest,Maryland,RECEIVING,Spencer,Bishop,LONG,19
+129129,10/19/2013,FBS,Wake Forest,Maryland,RECEIVING,Dominique,Gibson,REC,3
+129130,10/19/2013,FBS,Wake Forest,Maryland,RECEIVING,Dominique,Gibson,YDS,6
+129131,10/19/2013,FBS,Wake Forest,Maryland,RECEIVING,Dominique,Gibson,TD,0
+129132,10/19/2013,FBS,Wake Forest,Maryland,RECEIVING,Dominique,Gibson,LONG,6
+129133,10/19/2013,FBS,Wake Forest,Maryland,RECEIVING,Josh,Harris,REC,1
+129134,10/19/2013,FBS,Wake Forest,Maryland,RECEIVING,Josh,Harris,YDS,5
+129135,10/19/2013,FBS,Wake Forest,Maryland,RECEIVING,Josh,Harris,TD,0
+129136,10/19/2013,FBS,Wake Forest,Maryland,RECEIVING,Josh,Harris,LONG,5
+129137,10/19/2013,FBS,Wake Forest,Maryland,RECEIVING,Tanner,Price,REC,1
+129138,10/19/2013,FBS,Wake Forest,Maryland,RECEIVING,Tanner,Price,YDS,4
+129139,10/19/2013,FBS,Wake Forest,Maryland,RECEIVING,Tanner,Price,TD,1
+129140,10/19/2013,FBS,Wake Forest,Maryland,RECEIVING,Tanner,Price,LONG,4
+129141,10/19/2013,FBS,Wake Forest,Maryland,KICKING,Chad,Hedlund,FG-FGA,2/2
+129142,10/19/2013,FBS,Wake Forest,Maryland,KICKING,Chad,Hedlund,LONG,51
+129143,10/19/2013,FBS,Wake Forest,Maryland,KICKING,Chad,Hedlund,XP,4
+129144,10/19/2013,FBS,Wake Forest,Maryland,KICKING,Chad,Hedlund,PTS,10
+129145,10/19/2013,FBS,Wake Forest,Maryland,PUNTING,Alexander,Kinal,NO,6
+129146,10/19/2013,FBS,Wake Forest,Maryland,PUNTING,Alexander,Kinal,YDS,252
+129147,10/19/2013,FBS,Wake Forest,Maryland,PUNTING,Alexander,Kinal,AVG,42.0
+129148,10/19/2013,FBS,Wake Forest,Maryland,PUNTING,Alexander,Kinal,LONG,49
+129149,10/19/2013,FBS,Wake Forest,Maryland,PUNT RETURNS,Michael,Campanaro,NO,2
+129150,10/19/2013,FBS,Wake Forest,Maryland,PUNT RETURNS,Michael,Campanaro,YDS,24
+129151,10/19/2013,FBS,Wake Forest,Maryland,PUNT RETURNS,Michael,Campanaro,AVG,12.0
+129152,10/19/2013,FBS,Wake Forest,Maryland,PUNT RETURNS,Michael,Campanaro,LONG,23
+129153,10/19/2013,FBS,Wake Forest,Maryland,KICK RETURNS,John,Armstrong,NO,1
+129154,10/19/2013,FBS,Wake Forest,Maryland,KICK RETURNS,John,Armstrong,YDS,12
+129155,10/19/2013,FBS,Wake Forest,Maryland,KICK RETURNS,John,Armstrong,AVG,12.0
+129156,10/19/2013,FBS,Wake Forest,Maryland,KICK RETURNS,John,Armstrong,LONG,12

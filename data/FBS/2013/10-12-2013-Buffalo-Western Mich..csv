@@ -1,0 +1,141 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+65001,10/12/2013,FBS,Buffalo,Western Mich.,RUSHING,Branden,Oliver,ATT,19
+65002,10/12/2013,FBS,Buffalo,Western Mich.,RUSHING,Branden,Oliver,YDS,128
+65003,10/12/2013,FBS,Buffalo,Western Mich.,RUSHING,Branden,Oliver,TD,0
+65004,10/12/2013,FBS,Buffalo,Western Mich.,RUSHING,Branden,Oliver,LONG,27
+65005,10/12/2013,FBS,Buffalo,Western Mich.,RUSHING,James,Potts,ATT,16
+65006,10/12/2013,FBS,Buffalo,Western Mich.,RUSHING,James,Potts,YDS,91
+65007,10/12/2013,FBS,Buffalo,Western Mich.,RUSHING,James,Potts,TD,0
+65008,10/12/2013,FBS,Buffalo,Western Mich.,RUSHING,James,Potts,LONG,20
+65009,10/12/2013,FBS,Buffalo,Western Mich.,RUSHING,Brandon,Murie,ATT,4
+65010,10/12/2013,FBS,Buffalo,Western Mich.,RUSHING,Brandon,Murie,YDS,29
+65011,10/12/2013,FBS,Buffalo,Western Mich.,RUSHING,Brandon,Murie,TD,0
+65012,10/12/2013,FBS,Buffalo,Western Mich.,RUSHING,Brandon,Murie,LONG,21
+65013,10/12/2013,FBS,Buffalo,Western Mich.,RUSHING,Anthone,Taylor,ATT,5
+65014,10/12/2013,FBS,Buffalo,Western Mich.,RUSHING,Anthone,Taylor,YDS,26
+65015,10/12/2013,FBS,Buffalo,Western Mich.,RUSHING,Anthone,Taylor,TD,0
+65016,10/12/2013,FBS,Buffalo,Western Mich.,RUSHING,Anthone,Taylor,LONG,16
+65017,10/12/2013,FBS,Buffalo,Western Mich.,RUSHING,Devin,Campbell,ATT,4
+65018,10/12/2013,FBS,Buffalo,Western Mich.,RUSHING,Devin,Campbell,YDS,7
+65019,10/12/2013,FBS,Buffalo,Western Mich.,RUSHING,Devin,Campbell,TD,1
+65020,10/12/2013,FBS,Buffalo,Western Mich.,RUSHING,Devin,Campbell,LONG,11
+65021,10/12/2013,FBS,Buffalo,Western Mich.,RUSHING,Tony,Daniel,ATT,2
+65022,10/12/2013,FBS,Buffalo,Western Mich.,RUSHING,Tony,Daniel,YDS,7
+65023,10/12/2013,FBS,Buffalo,Western Mich.,RUSHING,Tony,Daniel,TD,0
+65024,10/12/2013,FBS,Buffalo,Western Mich.,RUSHING,Tony,Daniel,LONG,11
+65025,10/12/2013,FBS,Buffalo,Western Mich.,RUSHING,Joe,Licata,ATT,4
+65026,10/12/2013,FBS,Buffalo,Western Mich.,RUSHING,Joe,Licata,YDS,6
+65027,10/12/2013,FBS,Buffalo,Western Mich.,RUSHING,Joe,Licata,TD,0
+65028,10/12/2013,FBS,Buffalo,Western Mich.,RUSHING,Joe,Licata,LONG,10
+65029,10/12/2013,FBS,Buffalo,Western Mich.,RUSHING,,Team,ATT,2
+65030,10/12/2013,FBS,Buffalo,Western Mich.,RUSHING,,Team,YDS,-4
+65031,10/12/2013,FBS,Buffalo,Western Mich.,RUSHING,,Team,TD,0
+65032,10/12/2013,FBS,Buffalo,Western Mich.,RUSHING,,Team,LONG,0
+65033,10/12/2013,FBS,Buffalo,Western Mich.,PASSING,Joe,Licata,CP-ATT-INT,11-21-0
+65034,10/12/2013,FBS,Buffalo,Western Mich.,PASSING,Joe,Licata,YDS,124
+65035,10/12/2013,FBS,Buffalo,Western Mich.,PASSING,Joe,Licata,TD,3
+65036,10/12/2013,FBS,Buffalo,Western Mich.,PASSING,Joe,Licata,LONG,31
+65037,10/12/2013,FBS,Buffalo,Western Mich.,PASSING,Tony,Daniel,CP-ATT-INT,1-2-0
+65038,10/12/2013,FBS,Buffalo,Western Mich.,PASSING,Tony,Daniel,YDS,8
+65039,10/12/2013,FBS,Buffalo,Western Mich.,PASSING,Tony,Daniel,TD,0
+65040,10/12/2013,FBS,Buffalo,Western Mich.,PASSING,Tony,Daniel,LONG,8
+65041,10/12/2013,FBS,Buffalo,Western Mich.,RECEIVING,Fred,Lee,REC,4
+65042,10/12/2013,FBS,Buffalo,Western Mich.,RECEIVING,Fred,Lee,YDS,88
+65043,10/12/2013,FBS,Buffalo,Western Mich.,RECEIVING,Fred,Lee,TD,1
+65044,10/12/2013,FBS,Buffalo,Western Mich.,RECEIVING,Fred,Lee,LONG,31
+65045,10/12/2013,FBS,Buffalo,Western Mich.,RECEIVING,Branden,Oliver,REC,2
+65046,10/12/2013,FBS,Buffalo,Western Mich.,RECEIVING,Branden,Oliver,YDS,14
+65047,10/12/2013,FBS,Buffalo,Western Mich.,RECEIVING,Branden,Oliver,TD,0
+65048,10/12/2013,FBS,Buffalo,Western Mich.,RECEIVING,Branden,Oliver,LONG,9
+65049,10/12/2013,FBS,Buffalo,Western Mich.,RECEIVING,Alex,Neutz,REC,2
+65050,10/12/2013,FBS,Buffalo,Western Mich.,RECEIVING,Alex,Neutz,YDS,9
+65051,10/12/2013,FBS,Buffalo,Western Mich.,RECEIVING,Alex,Neutz,TD,1
+65052,10/12/2013,FBS,Buffalo,Western Mich.,RECEIVING,Alex,Neutz,LONG,7
+65053,10/12/2013,FBS,Buffalo,Western Mich.,RECEIVING,Boise,Ross,REC,1
+65054,10/12/2013,FBS,Buffalo,Western Mich.,RECEIVING,Boise,Ross,YDS,13
+65055,10/12/2013,FBS,Buffalo,Western Mich.,RECEIVING,Boise,Ross,TD,0
+65056,10/12/2013,FBS,Buffalo,Western Mich.,RECEIVING,Boise,Ross,LONG,13
+65057,10/12/2013,FBS,Buffalo,Western Mich.,RECEIVING,Malcolm,Robinson,REC,1
+65058,10/12/2013,FBS,Buffalo,Western Mich.,RECEIVING,Malcolm,Robinson,YDS,8
+65059,10/12/2013,FBS,Buffalo,Western Mich.,RECEIVING,Malcolm,Robinson,TD,0
+65060,10/12/2013,FBS,Buffalo,Western Mich.,RECEIVING,Malcolm,Robinson,LONG,8
+65061,10/12/2013,FBS,Buffalo,Western Mich.,RECEIVING,Mason,Schreck,REC,1
+65062,10/12/2013,FBS,Buffalo,Western Mich.,RECEIVING,Mason,Schreck,YDS,2
+65063,10/12/2013,FBS,Buffalo,Western Mich.,RECEIVING,Mason,Schreck,TD,1
+65064,10/12/2013,FBS,Buffalo,Western Mich.,RECEIVING,Mason,Schreck,LONG,2
+65065,10/12/2013,FBS,Buffalo,Western Mich.,RECEIVING,James,Potts,REC,1
+65066,10/12/2013,FBS,Buffalo,Western Mich.,RECEIVING,James,Potts,YDS,-2
+65067,10/12/2013,FBS,Buffalo,Western Mich.,RECEIVING,James,Potts,TD,0
+65068,10/12/2013,FBS,Buffalo,Western Mich.,RECEIVING,James,Potts,LONG,0
+65069,10/12/2013,FBS,Buffalo,Western Mich.,KICKING,Patrick,Clarke,FG-FGA,2/2
+65070,10/12/2013,FBS,Buffalo,Western Mich.,KICKING,Patrick,Clarke,LONG,51
+65071,10/12/2013,FBS,Buffalo,Western Mich.,KICKING,Patrick,Clarke,XP,3
+65072,10/12/2013,FBS,Buffalo,Western Mich.,KICKING,Patrick,Clarke,PTS,9
+65073,10/12/2013,FBS,Buffalo,Western Mich.,PUNTING,Tyler,Grassman,NO,4
+65074,10/12/2013,FBS,Buffalo,Western Mich.,PUNTING,Tyler,Grassman,YDS,172
+65075,10/12/2013,FBS,Buffalo,Western Mich.,PUNTING,Tyler,Grassman,AVG,43.0
+65076,10/12/2013,FBS,Buffalo,Western Mich.,PUNTING,Tyler,Grassman,LONG,64
+65077,10/12/2013,FBS,Buffalo,Western Mich.,PUNT RETURNS,Alex,Neutz,NO,1
+65078,10/12/2013,FBS,Buffalo,Western Mich.,PUNT RETURNS,Alex,Neutz,YDS,1
+65079,10/12/2013,FBS,Buffalo,Western Mich.,PUNT RETURNS,Alex,Neutz,AVG,1.0
+65080,10/12/2013,FBS,Buffalo,Western Mich.,PUNT RETURNS,Alex,Neutz,LONG,1
+65081,10/12/2013,FBS,Buffalo,Western Mich.,KICK RETURNS,Devin,Campbell,NO,1
+65082,10/12/2013,FBS,Buffalo,Western Mich.,KICK RETURNS,Devin,Campbell,YDS,32
+65083,10/12/2013,FBS,Buffalo,Western Mich.,KICK RETURNS,Devin,Campbell,AVG,32.0
+65084,10/12/2013,FBS,Buffalo,Western Mich.,KICK RETURNS,Devin,Campbell,LONG,32
+65085,10/12/2013,FBS,Western Mich.,Buffalo,RUSHING,Dareyon,Chance,ATT,9
+65086,10/12/2013,FBS,Western Mich.,Buffalo,RUSHING,Dareyon,Chance,YDS,54
+65087,10/12/2013,FBS,Western Mich.,Buffalo,RUSHING,Dareyon,Chance,TD,0
+65088,10/12/2013,FBS,Western Mich.,Buffalo,RUSHING,Dareyon,Chance,LONG,21
+65089,10/12/2013,FBS,Western Mich.,Buffalo,RUSHING,Brian,Fields,ATT,7
+65090,10/12/2013,FBS,Western Mich.,Buffalo,RUSHING,Brian,Fields,YDS,18
+65091,10/12/2013,FBS,Western Mich.,Buffalo,RUSHING,Brian,Fields,TD,0
+65092,10/12/2013,FBS,Western Mich.,Buffalo,RUSHING,Brian,Fields,LONG,9
+65093,10/12/2013,FBS,Western Mich.,Buffalo,RUSHING,Zach,Terrell,ATT,10
+65094,10/12/2013,FBS,Western Mich.,Buffalo,RUSHING,Zach,Terrell,YDS,-34
+65095,10/12/2013,FBS,Western Mich.,Buffalo,RUSHING,Zach,Terrell,TD,0
+65096,10/12/2013,FBS,Western Mich.,Buffalo,RUSHING,Zach,Terrell,LONG,4
+65097,10/12/2013,FBS,Western Mich.,Buffalo,PASSING,Zach,Terrell,CP-ATT-INT,16-34-2
+65098,10/12/2013,FBS,Western Mich.,Buffalo,PASSING,Zach,Terrell,YDS,164
+65099,10/12/2013,FBS,Western Mich.,Buffalo,PASSING,Zach,Terrell,TD,0
+65100,10/12/2013,FBS,Western Mich.,Buffalo,PASSING,Zach,Terrell,LONG,21
+65101,10/12/2013,FBS,Western Mich.,Buffalo,RECEIVING,Corey,Davis,REC,8
+65102,10/12/2013,FBS,Western Mich.,Buffalo,RECEIVING,Corey,Davis,YDS,92
+65103,10/12/2013,FBS,Western Mich.,Buffalo,RECEIVING,Corey,Davis,TD,0
+65104,10/12/2013,FBS,Western Mich.,Buffalo,RECEIVING,Corey,Davis,LONG,17
+65105,10/12/2013,FBS,Western Mich.,Buffalo,RECEIVING,Josh,Schaffer,REC,3
+65106,10/12/2013,FBS,Western Mich.,Buffalo,RECEIVING,Josh,Schaffer,YDS,32
+65107,10/12/2013,FBS,Western Mich.,Buffalo,RECEIVING,Josh,Schaffer,TD,0
+65108,10/12/2013,FBS,Western Mich.,Buffalo,RECEIVING,Josh,Schaffer,LONG,16
+65109,10/12/2013,FBS,Western Mich.,Buffalo,RECEIVING,Timmy,Keith,REC,2
+65110,10/12/2013,FBS,Western Mich.,Buffalo,RECEIVING,Timmy,Keith,YDS,32
+65111,10/12/2013,FBS,Western Mich.,Buffalo,RECEIVING,Timmy,Keith,TD,0
+65112,10/12/2013,FBS,Western Mich.,Buffalo,RECEIVING,Timmy,Keith,LONG,21
+65113,10/12/2013,FBS,Western Mich.,Buffalo,RECEIVING,Brian,Fields,REC,1
+65114,10/12/2013,FBS,Western Mich.,Buffalo,RECEIVING,Brian,Fields,YDS,4
+65115,10/12/2013,FBS,Western Mich.,Buffalo,RECEIVING,Brian,Fields,TD,0
+65116,10/12/2013,FBS,Western Mich.,Buffalo,RECEIVING,Brian,Fields,LONG,4
+65117,10/12/2013,FBS,Western Mich.,Buffalo,RECEIVING,Kendrick,Roberts,REC,1
+65118,10/12/2013,FBS,Western Mich.,Buffalo,RECEIVING,Kendrick,Roberts,YDS,3
+65119,10/12/2013,FBS,Western Mich.,Buffalo,RECEIVING,Kendrick,Roberts,TD,0
+65120,10/12/2013,FBS,Western Mich.,Buffalo,RECEIVING,Kendrick,Roberts,LONG,3
+65121,10/12/2013,FBS,Western Mich.,Buffalo,RECEIVING,Eric,Boyden,REC,1
+65122,10/12/2013,FBS,Western Mich.,Buffalo,RECEIVING,Eric,Boyden,YDS,1
+65123,10/12/2013,FBS,Western Mich.,Buffalo,RECEIVING,Eric,Boyden,TD,0
+65124,10/12/2013,FBS,Western Mich.,Buffalo,RECEIVING,Eric,Boyden,LONG,1
+65125,10/12/2013,FBS,Western Mich.,Buffalo,KICKING,Andrew,Haldeman,FG-FGA,0/1
+65126,10/12/2013,FBS,Western Mich.,Buffalo,KICKING,Andrew,Haldeman,LONG,-
+65127,10/12/2013,FBS,Western Mich.,Buffalo,KICKING,Andrew,Haldeman,XP,0
+65128,10/12/2013,FBS,Western Mich.,Buffalo,KICKING,Andrew,Haldeman,PTS,0
+65129,10/12/2013,FBS,Western Mich.,Buffalo,PUNTING,J.,Schroeder,NO,7
+65130,10/12/2013,FBS,Western Mich.,Buffalo,PUNTING,J.,Schroeder,YDS,282
+65131,10/12/2013,FBS,Western Mich.,Buffalo,PUNTING,J.,Schroeder,AVG,40.3
+65132,10/12/2013,FBS,Western Mich.,Buffalo,PUNTING,J.,Schroeder,LONG,56
+65133,10/12/2013,FBS,Western Mich.,Buffalo,PUNT RETURNS,Ronald,Zamort,NO,1
+65134,10/12/2013,FBS,Western Mich.,Buffalo,PUNT RETURNS,Ronald,Zamort,YDS,-2
+65135,10/12/2013,FBS,Western Mich.,Buffalo,PUNT RETURNS,Ronald,Zamort,AVG,-2.0
+65136,10/12/2013,FBS,Western Mich.,Buffalo,PUNT RETURNS,Ronald,Zamort,LONG,0
+65137,10/12/2013,FBS,Western Mich.,Buffalo,KICK RETURNS,Donald,Celiscar,NO,4
+65138,10/12/2013,FBS,Western Mich.,Buffalo,KICK RETURNS,Donald,Celiscar,YDS,83
+65139,10/12/2013,FBS,Western Mich.,Buffalo,KICK RETURNS,Donald,Celiscar,AVG,20.8
+65140,10/12/2013,FBS,Western Mich.,Buffalo,KICK RETURNS,Donald,Celiscar,LONG,35

@@ -1,0 +1,109 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+416001,11/23/2013,FBS,Oklahoma,Kansas State,RUSHING,Brennan,Clay,ATT,31
+416002,11/23/2013,FBS,Oklahoma,Kansas State,RUSHING,Brennan,Clay,YDS,200
+416003,11/23/2013,FBS,Oklahoma,Kansas State,RUSHING,Brennan,Clay,TD,2
+416004,11/23/2013,FBS,Oklahoma,Kansas State,RUSHING,Brennan,Clay,LONG,64
+416005,11/23/2013,FBS,Oklahoma,Kansas State,RUSHING,Trevor,Knight,ATT,14
+416006,11/23/2013,FBS,Oklahoma,Kansas State,RUSHING,Trevor,Knight,YDS,82
+416007,11/23/2013,FBS,Oklahoma,Kansas State,RUSHING,Trevor,Knight,TD,1
+416008,11/23/2013,FBS,Oklahoma,Kansas State,RUSHING,Trevor,Knight,LONG,21
+416009,11/23/2013,FBS,Oklahoma,Kansas State,RUSHING,Roy,Finch,ATT,6
+416010,11/23/2013,FBS,Oklahoma,Kansas State,RUSHING,Roy,Finch,YDS,21
+416011,11/23/2013,FBS,Oklahoma,Kansas State,RUSHING,Roy,Finch,TD,0
+416012,11/23/2013,FBS,Oklahoma,Kansas State,RUSHING,Roy,Finch,LONG,8
+416013,11/23/2013,FBS,Oklahoma,Kansas State,RUSHING,,Team,ATT,1
+416014,11/23/2013,FBS,Oklahoma,Kansas State,RUSHING,,Team,YDS,-2
+416015,11/23/2013,FBS,Oklahoma,Kansas State,RUSHING,,Team,TD,0
+416016,11/23/2013,FBS,Oklahoma,Kansas State,RUSHING,,Team,LONG,0
+416017,11/23/2013,FBS,Oklahoma,Kansas State,PASSING,Trevor,Knight,CP-ATT-INT,14-20-1
+416018,11/23/2013,FBS,Oklahoma,Kansas State,PASSING,Trevor,Knight,YDS,171
+416019,11/23/2013,FBS,Oklahoma,Kansas State,PASSING,Trevor,Knight,TD,1
+416020,11/23/2013,FBS,Oklahoma,Kansas State,PASSING,Trevor,Knight,LONG,48
+416021,11/23/2013,FBS,Oklahoma,Kansas State,PASSING,,Team,CP-ATT-INT,0-1-0
+416022,11/23/2013,FBS,Oklahoma,Kansas State,PASSING,,Team,YDS,0
+416023,11/23/2013,FBS,Oklahoma,Kansas State,PASSING,,Team,TD,0
+416024,11/23/2013,FBS,Oklahoma,Kansas State,PASSING,,Team,LONG,0
+416025,11/23/2013,FBS,Oklahoma,Kansas State,RECEIVING,Jalen,Saunders,REC,7
+416026,11/23/2013,FBS,Oklahoma,Kansas State,RECEIVING,Jalen,Saunders,YDS,95
+416027,11/23/2013,FBS,Oklahoma,Kansas State,RECEIVING,Jalen,Saunders,TD,0
+416028,11/23/2013,FBS,Oklahoma,Kansas State,RECEIVING,Jalen,Saunders,LONG,48
+416029,11/23/2013,FBS,Oklahoma,Kansas State,RECEIVING,Sterling,Shepard,REC,4
+416030,11/23/2013,FBS,Oklahoma,Kansas State,RECEIVING,Sterling,Shepard,YDS,37
+416031,11/23/2013,FBS,Oklahoma,Kansas State,RECEIVING,Sterling,Shepard,TD,1
+416032,11/23/2013,FBS,Oklahoma,Kansas State,RECEIVING,Sterling,Shepard,LONG,24
+416033,11/23/2013,FBS,Oklahoma,Kansas State,RECEIVING,Durron,Neal,REC,2
+416034,11/23/2013,FBS,Oklahoma,Kansas State,RECEIVING,Durron,Neal,YDS,31
+416035,11/23/2013,FBS,Oklahoma,Kansas State,RECEIVING,Durron,Neal,TD,0
+416036,11/23/2013,FBS,Oklahoma,Kansas State,RECEIVING,Durron,Neal,LONG,22
+416037,11/23/2013,FBS,Oklahoma,Kansas State,RECEIVING,Jaz,Reynolds,REC,1
+416038,11/23/2013,FBS,Oklahoma,Kansas State,RECEIVING,Jaz,Reynolds,YDS,8
+416039,11/23/2013,FBS,Oklahoma,Kansas State,RECEIVING,Jaz,Reynolds,TD,0
+416040,11/23/2013,FBS,Oklahoma,Kansas State,RECEIVING,Jaz,Reynolds,LONG,8
+416041,11/23/2013,FBS,Oklahoma,Kansas State,KICKING,Mike,Hunnicutt,FG-FGA,2/2
+416042,11/23/2013,FBS,Oklahoma,Kansas State,KICKING,Mike,Hunnicutt,LONG,37
+416043,11/23/2013,FBS,Oklahoma,Kansas State,KICKING,Mike,Hunnicutt,XP,5
+416044,11/23/2013,FBS,Oklahoma,Kansas State,KICKING,Mike,Hunnicutt,PTS,11
+416045,11/23/2013,FBS,Oklahoma,Kansas State,PUNTING,Jed,Barnett,NO,3
+416046,11/23/2013,FBS,Oklahoma,Kansas State,PUNTING,Jed,Barnett,YDS,119
+416047,11/23/2013,FBS,Oklahoma,Kansas State,PUNTING,Jed,Barnett,AVG,39.7
+416048,11/23/2013,FBS,Oklahoma,Kansas State,PUNTING,Jed,Barnett,LONG,47
+416049,11/23/2013,FBS,Oklahoma,Kansas State,PUNT RETURNS,Jalen,Saunders,NO,1
+416050,11/23/2013,FBS,Oklahoma,Kansas State,PUNT RETURNS,Jalen,Saunders,YDS,30
+416051,11/23/2013,FBS,Oklahoma,Kansas State,PUNT RETURNS,Jalen,Saunders,AVG,30.0
+416052,11/23/2013,FBS,Oklahoma,Kansas State,PUNT RETURNS,Jalen,Saunders,LONG,30
+416053,11/23/2013,FBS,Oklahoma,Kansas State,KICK RETURNS,Roy,Finch,NO,2
+416054,11/23/2013,FBS,Oklahoma,Kansas State,KICK RETURNS,Roy,Finch,YDS,65
+416055,11/23/2013,FBS,Oklahoma,Kansas State,KICK RETURNS,Roy,Finch,AVG,32.5
+416056,11/23/2013,FBS,Oklahoma,Kansas State,KICK RETURNS,Roy,Finch,LONG,42
+416057,11/23/2013,FBS,Oklahoma,Kansas State,KICK RETURNS,Brennan,Clay,NO,2
+416058,11/23/2013,FBS,Oklahoma,Kansas State,KICK RETURNS,Brennan,Clay,YDS,13
+416059,11/23/2013,FBS,Oklahoma,Kansas State,KICK RETURNS,Brennan,Clay,AVG,6.5
+416060,11/23/2013,FBS,Oklahoma,Kansas State,KICK RETURNS,Brennan,Clay,LONG,12
+416061,11/23/2013,FBS,Kansas State,Oklahoma,RUSHING,John,Hubert,ATT,9
+416062,11/23/2013,FBS,Kansas State,Oklahoma,RUSHING,John,Hubert,YDS,17
+416063,11/23/2013,FBS,Kansas State,Oklahoma,RUSHING,John,Hubert,TD,0
+416064,11/23/2013,FBS,Kansas State,Oklahoma,RUSHING,John,Hubert,LONG,13
+416065,11/23/2013,FBS,Kansas State,Oklahoma,RUSHING,Tramaine,Thompson,ATT,2
+416066,11/23/2013,FBS,Kansas State,Oklahoma,RUSHING,Tramaine,Thompson,YDS,17
+416067,11/23/2013,FBS,Kansas State,Oklahoma,RUSHING,Tramaine,Thompson,TD,0
+416068,11/23/2013,FBS,Kansas State,Oklahoma,RUSHING,Tramaine,Thompson,LONG,15
+416069,11/23/2013,FBS,Kansas State,Oklahoma,RUSHING,Daniel,Sams,ATT,3
+416070,11/23/2013,FBS,Kansas State,Oklahoma,RUSHING,Daniel,Sams,YDS,7
+416071,11/23/2013,FBS,Kansas State,Oklahoma,RUSHING,Daniel,Sams,TD,0
+416072,11/23/2013,FBS,Kansas State,Oklahoma,RUSHING,Daniel,Sams,LONG,3
+416073,11/23/2013,FBS,Kansas State,Oklahoma,RUSHING,Jake,Waters,ATT,8
+416074,11/23/2013,FBS,Kansas State,Oklahoma,RUSHING,Jake,Waters,YDS,-17
+416075,11/23/2013,FBS,Kansas State,Oklahoma,RUSHING,Jake,Waters,TD,1
+416076,11/23/2013,FBS,Kansas State,Oklahoma,RUSHING,Jake,Waters,LONG,3
+416077,11/23/2013,FBS,Kansas State,Oklahoma,PASSING,Jake,Waters,CP-ATT-INT,17-29-2
+416078,11/23/2013,FBS,Kansas State,Oklahoma,PASSING,Jake,Waters,YDS,348
+416079,11/23/2013,FBS,Kansas State,Oklahoma,PASSING,Jake,Waters,TD,3
+416080,11/23/2013,FBS,Kansas State,Oklahoma,PASSING,Jake,Waters,LONG,90
+416081,11/23/2013,FBS,Kansas State,Oklahoma,RECEIVING,Tyler,Lockett,REC,12
+416082,11/23/2013,FBS,Kansas State,Oklahoma,RECEIVING,Tyler,Lockett,YDS,278
+416083,11/23/2013,FBS,Kansas State,Oklahoma,RECEIVING,Tyler,Lockett,TD,3
+416084,11/23/2013,FBS,Kansas State,Oklahoma,RECEIVING,Tyler,Lockett,LONG,90
+416085,11/23/2013,FBS,Kansas State,Oklahoma,RECEIVING,Tramaine,Thompson,REC,3
+416086,11/23/2013,FBS,Kansas State,Oklahoma,RECEIVING,Tramaine,Thompson,YDS,54
+416087,11/23/2013,FBS,Kansas State,Oklahoma,RECEIVING,Tramaine,Thompson,TD,0
+416088,11/23/2013,FBS,Kansas State,Oklahoma,RECEIVING,Tramaine,Thompson,LONG,43
+416089,11/23/2013,FBS,Kansas State,Oklahoma,RECEIVING,Curry,Sexton,REC,1
+416090,11/23/2013,FBS,Kansas State,Oklahoma,RECEIVING,Curry,Sexton,YDS,12
+416091,11/23/2013,FBS,Kansas State,Oklahoma,RECEIVING,Curry,Sexton,TD,0
+416092,11/23/2013,FBS,Kansas State,Oklahoma,RECEIVING,Curry,Sexton,LONG,12
+416093,11/23/2013,FBS,Kansas State,Oklahoma,RECEIVING,Torell,Miller,REC,1
+416094,11/23/2013,FBS,Kansas State,Oklahoma,RECEIVING,Torell,Miller,YDS,4
+416095,11/23/2013,FBS,Kansas State,Oklahoma,RECEIVING,Torell,Miller,TD,0
+416096,11/23/2013,FBS,Kansas State,Oklahoma,RECEIVING,Torell,Miller,LONG,4
+416097,11/23/2013,FBS,Kansas State,Oklahoma,KICKING,Ian,Patterson,FG-FGA,1/1
+416098,11/23/2013,FBS,Kansas State,Oklahoma,KICKING,Ian,Patterson,LONG,28
+416099,11/23/2013,FBS,Kansas State,Oklahoma,KICKING,Ian,Patterson,XP,4
+416100,11/23/2013,FBS,Kansas State,Oklahoma,KICKING,Ian,Patterson,PTS,7
+416101,11/23/2013,FBS,Kansas State,Oklahoma,PUNTING,Mark,Krause,NO,4
+416102,11/23/2013,FBS,Kansas State,Oklahoma,PUNTING,Mark,Krause,YDS,137
+416103,11/23/2013,FBS,Kansas State,Oklahoma,PUNTING,Mark,Krause,AVG,34.3
+416104,11/23/2013,FBS,Kansas State,Oklahoma,PUNTING,Mark,Krause,LONG,41
+416105,11/23/2013,FBS,Kansas State,Oklahoma,KICK RETURNS,Tyler,Lockett,NO,5
+416106,11/23/2013,FBS,Kansas State,Oklahoma,KICK RETURNS,Tyler,Lockett,YDS,162
+416107,11/23/2013,FBS,Kansas State,Oklahoma,KICK RETURNS,Tyler,Lockett,AVG,32.4
+416108,11/23/2013,FBS,Kansas State,Oklahoma,KICK RETURNS,Tyler,Lockett,LONG,46

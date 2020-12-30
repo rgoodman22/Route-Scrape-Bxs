@@ -1,0 +1,185 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+76001,9/1/2013,FBS,Ohio,Louisville,RUSHING,Ryan,Boykin,ATT,7
+76002,9/1/2013,FBS,Ohio,Louisville,RUSHING,Ryan,Boykin,YDS,39
+76003,9/1/2013,FBS,Ohio,Louisville,RUSHING,Ryan,Boykin,TD,1
+76004,9/1/2013,FBS,Ohio,Louisville,RUSHING,Ryan,Boykin,LONG,10
+76005,9/1/2013,FBS,Ohio,Louisville,RUSHING,Beau,Blankenship,ATT,12
+76006,9/1/2013,FBS,Ohio,Louisville,RUSHING,Beau,Blankenship,YDS,22
+76007,9/1/2013,FBS,Ohio,Louisville,RUSHING,Beau,Blankenship,TD,0
+76008,9/1/2013,FBS,Ohio,Louisville,RUSHING,Beau,Blankenship,LONG,5
+76009,9/1/2013,FBS,Ohio,Louisville,RUSHING,Tim,Edmond,ATT,3
+76010,9/1/2013,FBS,Ohio,Louisville,RUSHING,Tim,Edmond,YDS,20
+76011,9/1/2013,FBS,Ohio,Louisville,RUSHING,Tim,Edmond,TD,0
+76012,9/1/2013,FBS,Ohio,Louisville,RUSHING,Tim,Edmond,LONG,12
+76013,9/1/2013,FBS,Ohio,Louisville,RUSHING,Daz'mond,Patterson,ATT,4
+76014,9/1/2013,FBS,Ohio,Louisville,RUSHING,Daz'mond,Patterson,YDS,2
+76015,9/1/2013,FBS,Ohio,Louisville,RUSHING,Daz'mond,Patterson,TD,0
+76016,9/1/2013,FBS,Ohio,Louisville,RUSHING,Daz'mond,Patterson,LONG,3
+76017,9/1/2013,FBS,Ohio,Louisville,RUSHING,Derrius,Vick,ATT,2
+76018,9/1/2013,FBS,Ohio,Louisville,RUSHING,Derrius,Vick,YDS,-2
+76019,9/1/2013,FBS,Ohio,Louisville,RUSHING,Derrius,Vick,TD,0
+76020,9/1/2013,FBS,Ohio,Louisville,RUSHING,Derrius,Vick,LONG,5
+76021,9/1/2013,FBS,Ohio,Louisville,PASSING,Tyler,Tettleton,CP-ATT-INT,11-23-0
+76022,9/1/2013,FBS,Ohio,Louisville,PASSING,Tyler,Tettleton,YDS,140
+76023,9/1/2013,FBS,Ohio,Louisville,PASSING,Tyler,Tettleton,TD,0
+76024,9/1/2013,FBS,Ohio,Louisville,PASSING,Tyler,Tettleton,LONG,47
+76025,9/1/2013,FBS,Ohio,Louisville,PASSING,Derrius,Vick,CP-ATT-INT,4-8-1
+76026,9/1/2013,FBS,Ohio,Louisville,PASSING,Derrius,Vick,YDS,52
+76027,9/1/2013,FBS,Ohio,Louisville,PASSING,Derrius,Vick,TD,0
+76028,9/1/2013,FBS,Ohio,Louisville,PASSING,Derrius,Vick,LONG,37
+76029,9/1/2013,FBS,Ohio,Louisville,RECEIVING,Chase,Cochran,REC,3
+76030,9/1/2013,FBS,Ohio,Louisville,RECEIVING,Chase,Cochran,YDS,48
+76031,9/1/2013,FBS,Ohio,Louisville,RECEIVING,Chase,Cochran,TD,0
+76032,9/1/2013,FBS,Ohio,Louisville,RECEIVING,Chase,Cochran,LONG,37
+76033,9/1/2013,FBS,Ohio,Louisville,RECEIVING,Matt,Waters,REC,3
+76034,9/1/2013,FBS,Ohio,Louisville,RECEIVING,Matt,Waters,YDS,20
+76035,9/1/2013,FBS,Ohio,Louisville,RECEIVING,Matt,Waters,TD,0
+76036,9/1/2013,FBS,Ohio,Louisville,RECEIVING,Matt,Waters,LONG,9
+76037,9/1/2013,FBS,Ohio,Louisville,RECEIVING,Donte,Foster,REC,2
+76038,9/1/2013,FBS,Ohio,Louisville,RECEIVING,Donte,Foster,YDS,56
+76039,9/1/2013,FBS,Ohio,Louisville,RECEIVING,Donte,Foster,TD,0
+76040,9/1/2013,FBS,Ohio,Louisville,RECEIVING,Donte,Foster,LONG,47
+76041,9/1/2013,FBS,Ohio,Louisville,RECEIVING,Daz'mond,Patterson,REC,2
+76042,9/1/2013,FBS,Ohio,Louisville,RECEIVING,Daz'mond,Patterson,YDS,22
+76043,9/1/2013,FBS,Ohio,Louisville,RECEIVING,Daz'mond,Patterson,TD,0
+76044,9/1/2013,FBS,Ohio,Louisville,RECEIVING,Daz'mond,Patterson,LONG,18
+76045,9/1/2013,FBS,Ohio,Louisville,RECEIVING,Beau,Blankenship,REC,2
+76046,9/1/2013,FBS,Ohio,Louisville,RECEIVING,Beau,Blankenship,YDS,7
+76047,9/1/2013,FBS,Ohio,Louisville,RECEIVING,Beau,Blankenship,TD,0
+76048,9/1/2013,FBS,Ohio,Louisville,RECEIVING,Beau,Blankenship,LONG,4
+76049,9/1/2013,FBS,Ohio,Louisville,RECEIVING,Anthony,Talbert,REC,1
+76050,9/1/2013,FBS,Ohio,Louisville,RECEIVING,Anthony,Talbert,YDS,36
+76051,9/1/2013,FBS,Ohio,Louisville,RECEIVING,Anthony,Talbert,TD,0
+76052,9/1/2013,FBS,Ohio,Louisville,RECEIVING,Anthony,Talbert,LONG,36
+76053,9/1/2013,FBS,Ohio,Louisville,RECEIVING,Jordan,Reid,REC,1
+76054,9/1/2013,FBS,Ohio,Louisville,RECEIVING,Jordan,Reid,YDS,5
+76055,9/1/2013,FBS,Ohio,Louisville,RECEIVING,Jordan,Reid,TD,0
+76056,9/1/2013,FBS,Ohio,Louisville,RECEIVING,Jordan,Reid,LONG,5
+76057,9/1/2013,FBS,Ohio,Louisville,RECEIVING,Sebastian,Smith,REC,1
+76058,9/1/2013,FBS,Ohio,Louisville,RECEIVING,Sebastian,Smith,YDS,-2
+76059,9/1/2013,FBS,Ohio,Louisville,RECEIVING,Sebastian,Smith,TD,0
+76060,9/1/2013,FBS,Ohio,Louisville,RECEIVING,Sebastian,Smith,LONG,0
+76061,9/1/2013,FBS,Ohio,Louisville,KICKING,Matt,Green,FG-FGA,0/2
+76062,9/1/2013,FBS,Ohio,Louisville,KICKING,Matt,Green,LONG,-
+76063,9/1/2013,FBS,Ohio,Louisville,KICKING,Matt,Green,XP,1
+76064,9/1/2013,FBS,Ohio,Louisville,KICKING,Matt,Green,PTS,1
+76065,9/1/2013,FBS,Ohio,Louisville,PUNTING,Grant,Venham,NO,6
+76066,9/1/2013,FBS,Ohio,Louisville,PUNTING,Grant,Venham,YDS,205
+76067,9/1/2013,FBS,Ohio,Louisville,PUNTING,Grant,Venham,AVG,34.2
+76068,9/1/2013,FBS,Ohio,Louisville,PUNTING,Grant,Venham,LONG,52
+76069,9/1/2013,FBS,Ohio,Louisville,PUNT RETURNS,Ian,Dixon,NO,1
+76070,9/1/2013,FBS,Ohio,Louisville,PUNT RETURNS,Ian,Dixon,YDS,10
+76071,9/1/2013,FBS,Ohio,Louisville,PUNT RETURNS,Ian,Dixon,AVG,10.0
+76072,9/1/2013,FBS,Ohio,Louisville,PUNT RETURNS,Ian,Dixon,LONG,10
+76073,9/1/2013,FBS,Ohio,Louisville,KICK RETURNS,Devin,Bass,NO,5
+76074,9/1/2013,FBS,Ohio,Louisville,KICK RETURNS,Devin,Bass,YDS,124
+76075,9/1/2013,FBS,Ohio,Louisville,KICK RETURNS,Devin,Bass,AVG,24.8
+76076,9/1/2013,FBS,Ohio,Louisville,KICK RETURNS,Devin,Bass,LONG,41
+76077,9/1/2013,FBS,Louisville,Ohio,RUSHING,Senorise,Perry,ATT,13
+76078,9/1/2013,FBS,Louisville,Ohio,RUSHING,Senorise,Perry,YDS,58
+76079,9/1/2013,FBS,Louisville,Ohio,RUSHING,Senorise,Perry,TD,0
+76080,9/1/2013,FBS,Louisville,Ohio,RUSHING,Senorise,Perry,LONG,12
+76081,9/1/2013,FBS,Louisville,Ohio,RUSHING,Michael,Dyer,ATT,4
+76082,9/1/2013,FBS,Louisville,Ohio,RUSHING,Michael,Dyer,YDS,48
+76083,9/1/2013,FBS,Louisville,Ohio,RUSHING,Michael,Dyer,TD,1
+76084,9/1/2013,FBS,Louisville,Ohio,RUSHING,Michael,Dyer,LONG,46
+76085,9/1/2013,FBS,Louisville,Ohio,RUSHING,Dominique,Brown,ATT,7
+76086,9/1/2013,FBS,Louisville,Ohio,RUSHING,Dominique,Brown,YDS,40
+76087,9/1/2013,FBS,Louisville,Ohio,RUSHING,Dominique,Brown,TD,0
+76088,9/1/2013,FBS,Louisville,Ohio,RUSHING,Dominique,Brown,LONG,15
+76089,9/1/2013,FBS,Louisville,Ohio,RUSHING,Brandon,Radcliff,ATT,6
+76090,9/1/2013,FBS,Louisville,Ohio,RUSHING,Brandon,Radcliff,YDS,34
+76091,9/1/2013,FBS,Louisville,Ohio,RUSHING,Brandon,Radcliff,TD,0
+76092,9/1/2013,FBS,Louisville,Ohio,RUSHING,Brandon,Radcliff,LONG,19
+76093,9/1/2013,FBS,Louisville,Ohio,RUSHING,Corvin,Lamb,ATT,4
+76094,9/1/2013,FBS,Louisville,Ohio,RUSHING,Corvin,Lamb,YDS,13
+76095,9/1/2013,FBS,Louisville,Ohio,RUSHING,Corvin,Lamb,TD,0
+76096,9/1/2013,FBS,Louisville,Ohio,RUSHING,Corvin,Lamb,LONG,6
+76097,9/1/2013,FBS,Louisville,Ohio,RUSHING,Robert,Clark,ATT,1
+76098,9/1/2013,FBS,Louisville,Ohio,RUSHING,Robert,Clark,YDS,5
+76099,9/1/2013,FBS,Louisville,Ohio,RUSHING,Robert,Clark,TD,0
+76100,9/1/2013,FBS,Louisville,Ohio,RUSHING,Robert,Clark,LONG,5
+76101,9/1/2013,FBS,Louisville,Ohio,RUSHING,B.J.,Butler,ATT,1
+76102,9/1/2013,FBS,Louisville,Ohio,RUSHING,B.J.,Butler,YDS,3
+76103,9/1/2013,FBS,Louisville,Ohio,RUSHING,B.J.,Butler,TD,0
+76104,9/1/2013,FBS,Louisville,Ohio,RUSHING,B.J.,Butler,LONG,3
+76105,9/1/2013,FBS,Louisville,Ohio,RUSHING,Teddy,Bridgewater,ATT,2
+76106,9/1/2013,FBS,Louisville,Ohio,RUSHING,Teddy,Bridgewater,YDS,1
+76107,9/1/2013,FBS,Louisville,Ohio,RUSHING,Teddy,Bridgewater,TD,0
+76108,9/1/2013,FBS,Louisville,Ohio,RUSHING,Teddy,Bridgewater,LONG,7
+76109,9/1/2013,FBS,Louisville,Ohio,RUSHING,Will,Gardner,ATT,1
+76110,9/1/2013,FBS,Louisville,Ohio,RUSHING,Will,Gardner,YDS,-1
+76111,9/1/2013,FBS,Louisville,Ohio,RUSHING,Will,Gardner,TD,0
+76112,9/1/2013,FBS,Louisville,Ohio,RUSHING,Will,Gardner,LONG,0
+76113,9/1/2013,FBS,Louisville,Ohio,RUSHING,Michaelee,Harris,ATT,1
+76114,9/1/2013,FBS,Louisville,Ohio,RUSHING,Michaelee,Harris,YDS,-2
+76115,9/1/2013,FBS,Louisville,Ohio,RUSHING,Michaelee,Harris,TD,0
+76116,9/1/2013,FBS,Louisville,Ohio,RUSHING,Michaelee,Harris,LONG,0
+76117,9/1/2013,FBS,Louisville,Ohio,PASSING,Teddy,Bridgewater,CP-ATT-INT,23-28-1
+76118,9/1/2013,FBS,Louisville,Ohio,PASSING,Teddy,Bridgewater,YDS,355
+76119,9/1/2013,FBS,Louisville,Ohio,PASSING,Teddy,Bridgewater,TD,5
+76120,9/1/2013,FBS,Louisville,Ohio,PASSING,Teddy,Bridgewater,LONG,40
+76121,9/1/2013,FBS,Louisville,Ohio,PASSING,Will,Gardner,CP-ATT-INT,2-3-0
+76122,9/1/2013,FBS,Louisville,Ohio,PASSING,Will,Gardner,YDS,61
+76123,9/1/2013,FBS,Louisville,Ohio,PASSING,Will,Gardner,TD,1
+76124,9/1/2013,FBS,Louisville,Ohio,PASSING,Will,Gardner,LONG,31
+76125,9/1/2013,FBS,Louisville,Ohio,RECEIVING,Damian,Copeland,REC,6
+76126,9/1/2013,FBS,Louisville,Ohio,RECEIVING,Damian,Copeland,YDS,98
+76127,9/1/2013,FBS,Louisville,Ohio,RECEIVING,Damian,Copeland,TD,2
+76128,9/1/2013,FBS,Louisville,Ohio,RECEIVING,Damian,Copeland,LONG,34
+76129,9/1/2013,FBS,Louisville,Ohio,RECEIVING,Kai,DeLaCruz,REC,4
+76130,9/1/2013,FBS,Louisville,Ohio,RECEIVING,Kai,DeLaCruz,YDS,116
+76131,9/1/2013,FBS,Louisville,Ohio,RECEIVING,Kai,DeLaCruz,TD,2
+76132,9/1/2013,FBS,Louisville,Ohio,RECEIVING,Kai,DeLaCruz,LONG,40
+76133,9/1/2013,FBS,Louisville,Ohio,RECEIVING,DeVante,Parker,REC,4
+76134,9/1/2013,FBS,Louisville,Ohio,RECEIVING,DeVante,Parker,YDS,73
+76135,9/1/2013,FBS,Louisville,Ohio,RECEIVING,DeVante,Parker,TD,1
+76136,9/1/2013,FBS,Louisville,Ohio,RECEIVING,DeVante,Parker,LONG,27
+76137,9/1/2013,FBS,Louisville,Ohio,RECEIVING,Robert,Clark,REC,4
+76138,9/1/2013,FBS,Louisville,Ohio,RECEIVING,Robert,Clark,YDS,43
+76139,9/1/2013,FBS,Louisville,Ohio,RECEIVING,Robert,Clark,TD,1
+76140,9/1/2013,FBS,Louisville,Ohio,RECEIVING,Robert,Clark,LONG,25
+76141,9/1/2013,FBS,Louisville,Ohio,RECEIVING,Eli,Rogers,REC,3
+76142,9/1/2013,FBS,Louisville,Ohio,RECEIVING,Eli,Rogers,YDS,64
+76143,9/1/2013,FBS,Louisville,Ohio,RECEIVING,Eli,Rogers,TD,0
+76144,9/1/2013,FBS,Louisville,Ohio,RECEIVING,Eli,Rogers,LONG,29
+76145,9/1/2013,FBS,Louisville,Ohio,RECEIVING,Gerald,Christian,REC,2
+76146,9/1/2013,FBS,Louisville,Ohio,RECEIVING,Gerald,Christian,YDS,11
+76147,9/1/2013,FBS,Louisville,Ohio,RECEIVING,Gerald,Christian,TD,0
+76148,9/1/2013,FBS,Louisville,Ohio,RECEIVING,Gerald,Christian,LONG,7
+76149,9/1/2013,FBS,Louisville,Ohio,RECEIVING,Senorise,Perry,REC,1
+76150,9/1/2013,FBS,Louisville,Ohio,RECEIVING,Senorise,Perry,YDS,9
+76151,9/1/2013,FBS,Louisville,Ohio,RECEIVING,Senorise,Perry,TD,0
+76152,9/1/2013,FBS,Louisville,Ohio,RECEIVING,Senorise,Perry,LONG,9
+76153,9/1/2013,FBS,Louisville,Ohio,RECEIVING,Michael,Dyer,REC,1
+76154,9/1/2013,FBS,Louisville,Ohio,RECEIVING,Michael,Dyer,YDS,2
+76155,9/1/2013,FBS,Louisville,Ohio,RECEIVING,Michael,Dyer,TD,0
+76156,9/1/2013,FBS,Louisville,Ohio,RECEIVING,Michael,Dyer,LONG,2
+76157,9/1/2013,FBS,Louisville,Ohio,KICKING,John,Wallace,FG-FGA,0/0
+76158,9/1/2013,FBS,Louisville,Ohio,KICKING,John,Wallace,LONG,-
+76159,9/1/2013,FBS,Louisville,Ohio,KICKING,John,Wallace,XP,6
+76160,9/1/2013,FBS,Louisville,Ohio,KICKING,John,Wallace,PTS,6
+76161,9/1/2013,FBS,Louisville,Ohio,KICKING,Matthew,Nakatani,FG-FGA,0/0
+76162,9/1/2013,FBS,Louisville,Ohio,KICKING,Matthew,Nakatani,LONG,-
+76163,9/1/2013,FBS,Louisville,Ohio,KICKING,Matthew,Nakatani,XP,1
+76164,9/1/2013,FBS,Louisville,Ohio,KICKING,Matthew,Nakatani,PTS,1
+76165,9/1/2013,FBS,Louisville,Ohio,PUNTING,Ryan,Johnson,NO,2
+76166,9/1/2013,FBS,Louisville,Ohio,PUNTING,Ryan,Johnson,YDS,95
+76167,9/1/2013,FBS,Louisville,Ohio,PUNTING,Ryan,Johnson,AVG,47.5
+76168,9/1/2013,FBS,Louisville,Ohio,PUNTING,Ryan,Johnson,LONG,48
+76169,9/1/2013,FBS,Louisville,Ohio,PUNT RETURNS,Kai,DeLaCruz,NO,2
+76170,9/1/2013,FBS,Louisville,Ohio,PUNT RETURNS,Kai,DeLaCruz,YDS,2
+76171,9/1/2013,FBS,Louisville,Ohio,PUNT RETURNS,Kai,DeLaCruz,AVG,1.0
+76172,9/1/2013,FBS,Louisville,Ohio,PUNT RETURNS,Kai,DeLaCruz,LONG,1
+76173,9/1/2013,FBS,Louisville,Ohio,PUNT RETURNS,Eli,Rogers,NO,1
+76174,9/1/2013,FBS,Louisville,Ohio,PUNT RETURNS,Eli,Rogers,YDS,29
+76175,9/1/2013,FBS,Louisville,Ohio,PUNT RETURNS,Eli,Rogers,AVG,29.0
+76176,9/1/2013,FBS,Louisville,Ohio,PUNT RETURNS,Eli,Rogers,LONG,29
+76177,9/1/2013,FBS,Louisville,Ohio,KICK RETURNS,Robert,Clark,NO,1
+76178,9/1/2013,FBS,Louisville,Ohio,KICK RETURNS,Robert,Clark,YDS,25
+76179,9/1/2013,FBS,Louisville,Ohio,KICK RETURNS,Robert,Clark,AVG,25.0
+76180,9/1/2013,FBS,Louisville,Ohio,KICK RETURNS,Robert,Clark,LONG,25
+76181,9/1/2013,FBS,Louisville,Ohio,KICK RETURNS,Corvin,Lamb,NO,1
+76182,9/1/2013,FBS,Louisville,Ohio,KICK RETURNS,Corvin,Lamb,YDS,20
+76183,9/1/2013,FBS,Louisville,Ohio,KICK RETURNS,Corvin,Lamb,AVG,20.0
+76184,9/1/2013,FBS,Louisville,Ohio,KICK RETURNS,Corvin,Lamb,LONG,20

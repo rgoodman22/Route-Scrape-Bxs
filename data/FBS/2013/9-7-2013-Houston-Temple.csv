@@ -1,0 +1,161 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+99001,9/7/2013,FBS,Houston,Temple,RUSHING,Ryan,Jackson,ATT,22
+99002,9/7/2013,FBS,Houston,Temple,RUSHING,Ryan,Jackson,YDS,109
+99003,9/7/2013,FBS,Houston,Temple,RUSHING,Ryan,Jackson,TD,1
+99004,9/7/2013,FBS,Houston,Temple,RUSHING,Ryan,Jackson,LONG,19
+99005,9/7/2013,FBS,Houston,Temple,RUSHING,Kenneth,Farrow,ATT,9
+99006,9/7/2013,FBS,Houston,Temple,RUSHING,Kenneth,Farrow,YDS,78
+99007,9/7/2013,FBS,Houston,Temple,RUSHING,Kenneth,Farrow,TD,0
+99008,9/7/2013,FBS,Houston,Temple,RUSHING,Kenneth,Farrow,LONG,18
+99009,9/7/2013,FBS,Houston,Temple,RUSHING,John,O'Korn,ATT,9
+99010,9/7/2013,FBS,Houston,Temple,RUSHING,John,O'Korn,YDS,20
+99011,9/7/2013,FBS,Houston,Temple,RUSHING,John,O'Korn,TD,0
+99012,9/7/2013,FBS,Houston,Temple,RUSHING,John,O'Korn,LONG,11
+99013,9/7/2013,FBS,Houston,Temple,RUSHING,Justin,Hicks,ATT,5
+99014,9/7/2013,FBS,Houston,Temple,RUSHING,Justin,Hicks,YDS,8
+99015,9/7/2013,FBS,Houston,Temple,RUSHING,Justin,Hicks,TD,0
+99016,9/7/2013,FBS,Houston,Temple,RUSHING,Justin,Hicks,LONG,5
+99017,9/7/2013,FBS,Houston,Temple,RUSHING,David,Piland,ATT,2
+99018,9/7/2013,FBS,Houston,Temple,RUSHING,David,Piland,YDS,8
+99019,9/7/2013,FBS,Houston,Temple,RUSHING,David,Piland,TD,0
+99020,9/7/2013,FBS,Houston,Temple,RUSHING,David,Piland,LONG,6
+99021,9/7/2013,FBS,Houston,Temple,RUSHING,,Team,ATT,1
+99022,9/7/2013,FBS,Houston,Temple,RUSHING,,Team,YDS,-4
+99023,9/7/2013,FBS,Houston,Temple,RUSHING,,Team,TD,0
+99024,9/7/2013,FBS,Houston,Temple,RUSHING,,Team,LONG,0
+99025,9/7/2013,FBS,Houston,Temple,PASSING,John,O'Korn,CP-ATT-INT,23-31-0
+99026,9/7/2013,FBS,Houston,Temple,PASSING,John,O'Korn,YDS,233
+99027,9/7/2013,FBS,Houston,Temple,PASSING,John,O'Korn,TD,0
+99028,9/7/2013,FBS,Houston,Temple,PASSING,John,O'Korn,LONG,29
+99029,9/7/2013,FBS,Houston,Temple,PASSING,David,Piland,CP-ATT-INT,6-17-0
+99030,9/7/2013,FBS,Houston,Temple,PASSING,David,Piland,YDS,72
+99031,9/7/2013,FBS,Houston,Temple,PASSING,David,Piland,TD,0
+99032,9/7/2013,FBS,Houston,Temple,PASSING,David,Piland,LONG,16
+99033,9/7/2013,FBS,Houston,Temple,RECEIVING,Deontay,Greenberry,REC,14
+99034,9/7/2013,FBS,Houston,Temple,RECEIVING,Deontay,Greenberry,YDS,165
+99035,9/7/2013,FBS,Houston,Temple,RECEIVING,Deontay,Greenberry,TD,0
+99036,9/7/2013,FBS,Houston,Temple,RECEIVING,Deontay,Greenberry,LONG,29
+99037,9/7/2013,FBS,Houston,Temple,RECEIVING,Xavier,Maxwell,REC,8
+99038,9/7/2013,FBS,Houston,Temple,RECEIVING,Xavier,Maxwell,YDS,75
+99039,9/7/2013,FBS,Houston,Temple,RECEIVING,Xavier,Maxwell,TD,0
+99040,9/7/2013,FBS,Houston,Temple,RECEIVING,Xavier,Maxwell,LONG,15
+99041,9/7/2013,FBS,Houston,Temple,RECEIVING,Daniel,Spencer,REC,3
+99042,9/7/2013,FBS,Houston,Temple,RECEIVING,Daniel,Spencer,YDS,40
+99043,9/7/2013,FBS,Houston,Temple,RECEIVING,Daniel,Spencer,TD,0
+99044,9/7/2013,FBS,Houston,Temple,RECEIVING,Daniel,Spencer,LONG,21
+99045,9/7/2013,FBS,Houston,Temple,RECEIVING,Larry,McDuffey,REC,2
+99046,9/7/2013,FBS,Houston,Temple,RECEIVING,Larry,McDuffey,YDS,11
+99047,9/7/2013,FBS,Houston,Temple,RECEIVING,Larry,McDuffey,TD,0
+99048,9/7/2013,FBS,Houston,Temple,RECEIVING,Larry,McDuffey,LONG,8
+99049,9/7/2013,FBS,Houston,Temple,RECEIVING,Justin,Hicks,REC,1
+99050,9/7/2013,FBS,Houston,Temple,RECEIVING,Justin,Hicks,YDS,8
+99051,9/7/2013,FBS,Houston,Temple,RECEIVING,Justin,Hicks,TD,0
+99052,9/7/2013,FBS,Houston,Temple,RECEIVING,Justin,Hicks,LONG,8
+99053,9/7/2013,FBS,Houston,Temple,RECEIVING,Ryan,Jackson,REC,1
+99054,9/7/2013,FBS,Houston,Temple,RECEIVING,Ryan,Jackson,YDS,6
+99055,9/7/2013,FBS,Houston,Temple,RECEIVING,Ryan,Jackson,TD,0
+99056,9/7/2013,FBS,Houston,Temple,RECEIVING,Ryan,Jackson,LONG,6
+99057,9/7/2013,FBS,Houston,Temple,KICKING,Richie,Leone,FG-FGA,5/6
+99058,9/7/2013,FBS,Houston,Temple,KICKING,Richie,Leone,LONG,40
+99059,9/7/2013,FBS,Houston,Temple,KICKING,Richie,Leone,XP,1
+99060,9/7/2013,FBS,Houston,Temple,KICKING,Richie,Leone,PTS,16
+99061,9/7/2013,FBS,Houston,Temple,PUNTING,Richie,Leone,NO,2
+99062,9/7/2013,FBS,Houston,Temple,PUNTING,Richie,Leone,YDS,80
+99063,9/7/2013,FBS,Houston,Temple,PUNTING,Richie,Leone,AVG,40.0
+99064,9/7/2013,FBS,Houston,Temple,PUNTING,Richie,Leone,LONG,47
+99065,9/7/2013,FBS,Houston,Temple,PUNT RETURNS,Damian,Payne,NO,2
+99066,9/7/2013,FBS,Houston,Temple,PUNT RETURNS,Damian,Payne,YDS,6
+99067,9/7/2013,FBS,Houston,Temple,PUNT RETURNS,Damian,Payne,AVG,3.0
+99068,9/7/2013,FBS,Houston,Temple,PUNT RETURNS,Damian,Payne,LONG,5
+99069,9/7/2013,FBS,Houston,Temple,KICK RETURNS,Demarcus,Ayers,NO,2
+99070,9/7/2013,FBS,Houston,Temple,KICK RETURNS,Demarcus,Ayers,YDS,54
+99071,9/7/2013,FBS,Houston,Temple,KICK RETURNS,Demarcus,Ayers,AVG,27.0
+99072,9/7/2013,FBS,Houston,Temple,KICK RETURNS,Demarcus,Ayers,LONG,39
+99073,9/7/2013,FBS,Temple,Houston,RUSHING,Zaire,Williams,ATT,11
+99074,9/7/2013,FBS,Temple,Houston,RUSHING,Zaire,Williams,YDS,57
+99075,9/7/2013,FBS,Temple,Houston,RUSHING,Zaire,Williams,TD,0
+99076,9/7/2013,FBS,Temple,Houston,RUSHING,Zaire,Williams,LONG,13
+99077,9/7/2013,FBS,Temple,Houston,RUSHING,Kenneth,Harper,ATT,14
+99078,9/7/2013,FBS,Temple,Houston,RUSHING,Kenneth,Harper,YDS,51
+99079,9/7/2013,FBS,Temple,Houston,RUSHING,Kenneth,Harper,TD,2
+99080,9/7/2013,FBS,Temple,Houston,RUSHING,Kenneth,Harper,LONG,11
+99081,9/7/2013,FBS,Temple,Houston,RUSHING,Chris,Coyer,ATT,1
+99082,9/7/2013,FBS,Temple,Houston,RUSHING,Chris,Coyer,YDS,4
+99083,9/7/2013,FBS,Temple,Houston,RUSHING,Chris,Coyer,TD,0
+99084,9/7/2013,FBS,Temple,Houston,RUSHING,Chris,Coyer,LONG,4
+99085,9/7/2013,FBS,Temple,Houston,RUSHING,Jamie,Gilmore,ATT,1
+99086,9/7/2013,FBS,Temple,Houston,RUSHING,Jamie,Gilmore,YDS,2
+99087,9/7/2013,FBS,Temple,Houston,RUSHING,Jamie,Gilmore,TD,0
+99088,9/7/2013,FBS,Temple,Houston,RUSHING,Jamie,Gilmore,LONG,2
+99089,9/7/2013,FBS,Temple,Houston,RUSHING,Connor,Reilly,ATT,11
+99090,9/7/2013,FBS,Temple,Houston,RUSHING,Connor,Reilly,YDS,-7
+99091,9/7/2013,FBS,Temple,Houston,RUSHING,Connor,Reilly,TD,0
+99092,9/7/2013,FBS,Temple,Houston,RUSHING,Connor,Reilly,LONG,7
+99093,9/7/2013,FBS,Temple,Houston,RUSHING,John,Christopher,ATT,1
+99094,9/7/2013,FBS,Temple,Houston,RUSHING,John,Christopher,YDS,-7
+99095,9/7/2013,FBS,Temple,Houston,RUSHING,John,Christopher,TD,0
+99096,9/7/2013,FBS,Temple,Houston,RUSHING,John,Christopher,LONG,0
+99097,9/7/2013,FBS,Temple,Houston,PASSING,Connor,Reilly,CP-ATT-INT,20-38-2
+99098,9/7/2013,FBS,Temple,Houston,PASSING,Connor,Reilly,YDS,200
+99099,9/7/2013,FBS,Temple,Houston,PASSING,Connor,Reilly,TD,0
+99100,9/7/2013,FBS,Temple,Houston,PASSING,Connor,Reilly,LONG,25
+99101,9/7/2013,FBS,Temple,Houston,PASSING,Clinton,Granger,CP-ATT-INT,0-1-0
+99102,9/7/2013,FBS,Temple,Houston,PASSING,Clinton,Granger,YDS,0
+99103,9/7/2013,FBS,Temple,Houston,PASSING,Clinton,Granger,TD,0
+99104,9/7/2013,FBS,Temple,Houston,PASSING,Clinton,Granger,LONG,0
+99105,9/7/2013,FBS,Temple,Houston,RECEIVING,Ryan,Alderman,REC,5
+99106,9/7/2013,FBS,Temple,Houston,RECEIVING,Ryan,Alderman,YDS,65
+99107,9/7/2013,FBS,Temple,Houston,RECEIVING,Ryan,Alderman,TD,0
+99108,9/7/2013,FBS,Temple,Houston,RECEIVING,Ryan,Alderman,LONG,19
+99109,9/7/2013,FBS,Temple,Houston,RECEIVING,Kenneth,Harper,REC,5
+99110,9/7/2013,FBS,Temple,Houston,RECEIVING,Kenneth,Harper,YDS,44
+99111,9/7/2013,FBS,Temple,Houston,RECEIVING,Kenneth,Harper,TD,0
+99112,9/7/2013,FBS,Temple,Houston,RECEIVING,Kenneth,Harper,LONG,11
+99113,9/7/2013,FBS,Temple,Houston,RECEIVING,Jalen,Fitzpatrick,REC,4
+99114,9/7/2013,FBS,Temple,Houston,RECEIVING,Jalen,Fitzpatrick,YDS,38
+99115,9/7/2013,FBS,Temple,Houston,RECEIVING,Jalen,Fitzpatrick,TD,0
+99116,9/7/2013,FBS,Temple,Houston,RECEIVING,Jalen,Fitzpatrick,LONG,25
+99117,9/7/2013,FBS,Temple,Houston,RECEIVING,Romond,Deloatch,REC,2
+99118,9/7/2013,FBS,Temple,Houston,RECEIVING,Romond,Deloatch,YDS,15
+99119,9/7/2013,FBS,Temple,Houston,RECEIVING,Romond,Deloatch,TD,0
+99120,9/7/2013,FBS,Temple,Houston,RECEIVING,Romond,Deloatch,LONG,9
+99121,9/7/2013,FBS,Temple,Houston,RECEIVING,Nate,Hairston,REC,1
+99122,9/7/2013,FBS,Temple,Houston,RECEIVING,Nate,Hairston,YDS,16
+99123,9/7/2013,FBS,Temple,Houston,RECEIVING,Nate,Hairston,TD,0
+99124,9/7/2013,FBS,Temple,Houston,RECEIVING,Nate,Hairston,LONG,16
+99125,9/7/2013,FBS,Temple,Houston,RECEIVING,Zaire,Williams,REC,1
+99126,9/7/2013,FBS,Temple,Houston,RECEIVING,Zaire,Williams,YDS,13
+99127,9/7/2013,FBS,Temple,Houston,RECEIVING,Zaire,Williams,TD,0
+99128,9/7/2013,FBS,Temple,Houston,RECEIVING,Zaire,Williams,LONG,13
+99129,9/7/2013,FBS,Temple,Houston,RECEIVING,Chris,Coyer,REC,1
+99130,9/7/2013,FBS,Temple,Houston,RECEIVING,Chris,Coyer,YDS,5
+99131,9/7/2013,FBS,Temple,Houston,RECEIVING,Chris,Coyer,TD,0
+99132,9/7/2013,FBS,Temple,Houston,RECEIVING,Chris,Coyer,LONG,5
+99133,9/7/2013,FBS,Temple,Houston,RECEIVING,John,Christopher,REC,1
+99134,9/7/2013,FBS,Temple,Houston,RECEIVING,John,Christopher,YDS,4
+99135,9/7/2013,FBS,Temple,Houston,RECEIVING,John,Christopher,TD,0
+99136,9/7/2013,FBS,Temple,Houston,RECEIVING,John,Christopher,LONG,4
+99137,9/7/2013,FBS,Temple,Houston,KICKING,Paul,Layton,FG-FGA,0/1
+99138,9/7/2013,FBS,Temple,Houston,KICKING,Paul,Layton,LONG,-
+99139,9/7/2013,FBS,Temple,Houston,KICKING,Paul,Layton,XP,1
+99140,9/7/2013,FBS,Temple,Houston,KICKING,Paul,Layton,PTS,1
+99141,9/7/2013,FBS,Temple,Houston,KICKING,Jim,Cooper,FG-FGA,0/0
+99142,9/7/2013,FBS,Temple,Houston,KICKING,Jim,Cooper,LONG,-
+99143,9/7/2013,FBS,Temple,Houston,KICKING,Jim,Cooper,XP,0
+99144,9/7/2013,FBS,Temple,Houston,KICKING,Jim,Cooper,PTS,0
+99145,9/7/2013,FBS,Temple,Houston,PUNTING,Paul,Layton,NO,6
+99146,9/7/2013,FBS,Temple,Houston,PUNTING,Paul,Layton,YDS,243
+99147,9/7/2013,FBS,Temple,Houston,PUNTING,Paul,Layton,AVG,40.5
+99148,9/7/2013,FBS,Temple,Houston,PUNTING,Paul,Layton,LONG,51
+99149,9/7/2013,FBS,Temple,Houston,PUNT RETURNS,Jalen,Fitzpatrick,NO,1
+99150,9/7/2013,FBS,Temple,Houston,PUNT RETURNS,Jalen,Fitzpatrick,YDS,2
+99151,9/7/2013,FBS,Temple,Houston,PUNT RETURNS,Jalen,Fitzpatrick,AVG,2.0
+99152,9/7/2013,FBS,Temple,Houston,PUNT RETURNS,Jalen,Fitzpatrick,LONG,2
+99153,9/7/2013,FBS,Temple,Houston,KICK RETURNS,Jalen,Fitzpatrick,NO,3
+99154,9/7/2013,FBS,Temple,Houston,KICK RETURNS,Jalen,Fitzpatrick,YDS,40
+99155,9/7/2013,FBS,Temple,Houston,KICK RETURNS,Jalen,Fitzpatrick,AVG,13.3
+99156,9/7/2013,FBS,Temple,Houston,KICK RETURNS,Jalen,Fitzpatrick,LONG,17
+99157,9/7/2013,FBS,Temple,Houston,KICK RETURNS,Chris,Parthemore,NO,1
+99158,9/7/2013,FBS,Temple,Houston,KICK RETURNS,Chris,Parthemore,YDS,11
+99159,9/7/2013,FBS,Temple,Houston,KICK RETURNS,Chris,Parthemore,AVG,11.0
+99160,9/7/2013,FBS,Temple,Houston,KICK RETURNS,Chris,Parthemore,LONG,11

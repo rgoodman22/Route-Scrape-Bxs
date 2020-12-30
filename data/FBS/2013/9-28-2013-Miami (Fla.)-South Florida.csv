@@ -1,0 +1,157 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+300001,9/28/2013,FBS,Miami (Fla.),South Florida,RUSHING,Duke,Johnson,ATT,14
+300002,9/28/2013,FBS,Miami (Fla.),South Florida,RUSHING,Duke,Johnson,YDS,84
+300003,9/28/2013,FBS,Miami (Fla.),South Florida,RUSHING,Duke,Johnson,TD,1
+300004,9/28/2013,FBS,Miami (Fla.),South Florida,RUSHING,Duke,Johnson,LONG,17
+300005,9/28/2013,FBS,Miami (Fla.),South Florida,RUSHING,Gus,Edwards,ATT,10
+300006,9/28/2013,FBS,Miami (Fla.),South Florida,RUSHING,Gus,Edwards,YDS,53
+300007,9/28/2013,FBS,Miami (Fla.),South Florida,RUSHING,Gus,Edwards,TD,0
+300008,9/28/2013,FBS,Miami (Fla.),South Florida,RUSHING,Gus,Edwards,LONG,29
+300009,9/28/2013,FBS,Miami (Fla.),South Florida,RUSHING,Dallas,Crawford,ATT,13
+300010,9/28/2013,FBS,Miami (Fla.),South Florida,RUSHING,Dallas,Crawford,YDS,34
+300011,9/28/2013,FBS,Miami (Fla.),South Florida,RUSHING,Dallas,Crawford,TD,2
+300012,9/28/2013,FBS,Miami (Fla.),South Florida,RUSHING,Dallas,Crawford,LONG,9
+300013,9/28/2013,FBS,Miami (Fla.),South Florida,RUSHING,Ryan,Williams,ATT,2
+300014,9/28/2013,FBS,Miami (Fla.),South Florida,RUSHING,Ryan,Williams,YDS,-6
+300015,9/28/2013,FBS,Miami (Fla.),South Florida,RUSHING,Ryan,Williams,TD,0
+300016,9/28/2013,FBS,Miami (Fla.),South Florida,RUSHING,Ryan,Williams,LONG,0
+300017,9/28/2013,FBS,Miami (Fla.),South Florida,PASSING,Stephen,Morris,CP-ATT-INT,11-16-0
+300018,9/28/2013,FBS,Miami (Fla.),South Florida,PASSING,Stephen,Morris,YDS,222
+300019,9/28/2013,FBS,Miami (Fla.),South Florida,PASSING,Stephen,Morris,TD,2
+300020,9/28/2013,FBS,Miami (Fla.),South Florida,PASSING,Stephen,Morris,LONG,55
+300021,9/28/2013,FBS,Miami (Fla.),South Florida,PASSING,Ryan,Williams,CP-ATT-INT,8-14-1
+300022,9/28/2013,FBS,Miami (Fla.),South Florida,PASSING,Ryan,Williams,YDS,153
+300023,9/28/2013,FBS,Miami (Fla.),South Florida,PASSING,Ryan,Williams,TD,1
+300024,9/28/2013,FBS,Miami (Fla.),South Florida,PASSING,Ryan,Williams,LONG,54
+300025,9/28/2013,FBS,Miami (Fla.),South Florida,PASSING,Gray,Crow,CP-ATT-INT,0-2-1
+300026,9/28/2013,FBS,Miami (Fla.),South Florida,PASSING,Gray,Crow,YDS,0
+300027,9/28/2013,FBS,Miami (Fla.),South Florida,PASSING,Gray,Crow,TD,0
+300028,9/28/2013,FBS,Miami (Fla.),South Florida,PASSING,Gray,Crow,LONG,0
+300029,9/28/2013,FBS,Miami (Fla.),South Florida,RECEIVING,Allen,Hurns,REC,5
+300030,9/28/2013,FBS,Miami (Fla.),South Florida,RECEIVING,Allen,Hurns,YDS,81
+300031,9/28/2013,FBS,Miami (Fla.),South Florida,RECEIVING,Allen,Hurns,TD,0
+300032,9/28/2013,FBS,Miami (Fla.),South Florida,RECEIVING,Allen,Hurns,LONG,31
+300033,9/28/2013,FBS,Miami (Fla.),South Florida,RECEIVING,Stacy,Coley,REC,4
+300034,9/28/2013,FBS,Miami (Fla.),South Florida,RECEIVING,Stacy,Coley,YDS,96
+300035,9/28/2013,FBS,Miami (Fla.),South Florida,RECEIVING,Stacy,Coley,TD,2
+300036,9/28/2013,FBS,Miami (Fla.),South Florida,RECEIVING,Stacy,Coley,LONG,34
+300037,9/28/2013,FBS,Miami (Fla.),South Florida,RECEIVING,Phillip,Dorsett,REC,3
+300038,9/28/2013,FBS,Miami (Fla.),South Florida,RECEIVING,Phillip,Dorsett,YDS,75
+300039,9/28/2013,FBS,Miami (Fla.),South Florida,RECEIVING,Phillip,Dorsett,TD,0
+300040,9/28/2013,FBS,Miami (Fla.),South Florida,RECEIVING,Phillip,Dorsett,LONG,55
+300041,9/28/2013,FBS,Miami (Fla.),South Florida,RECEIVING,Herb,Waters,REC,2
+300042,9/28/2013,FBS,Miami (Fla.),South Florida,RECEIVING,Herb,Waters,YDS,73
+300043,9/28/2013,FBS,Miami (Fla.),South Florida,RECEIVING,Herb,Waters,TD,1
+300044,9/28/2013,FBS,Miami (Fla.),South Florida,RECEIVING,Herb,Waters,LONG,54
+300045,9/28/2013,FBS,Miami (Fla.),South Florida,RECEIVING,Beau,Sandland,REC,2
+300046,9/28/2013,FBS,Miami (Fla.),South Florida,RECEIVING,Beau,Sandland,YDS,9
+300047,9/28/2013,FBS,Miami (Fla.),South Florida,RECEIVING,Beau,Sandland,TD,0
+300048,9/28/2013,FBS,Miami (Fla.),South Florida,RECEIVING,Beau,Sandland,LONG,6
+300049,9/28/2013,FBS,Miami (Fla.),South Florida,RECEIVING,Clive,Walford,REC,1
+300050,9/28/2013,FBS,Miami (Fla.),South Florida,RECEIVING,Clive,Walford,YDS,18
+300051,9/28/2013,FBS,Miami (Fla.),South Florida,RECEIVING,Clive,Walford,TD,0
+300052,9/28/2013,FBS,Miami (Fla.),South Florida,RECEIVING,Clive,Walford,LONG,18
+300053,9/28/2013,FBS,Miami (Fla.),South Florida,RECEIVING,Maurice,Hagens,REC,1
+300054,9/28/2013,FBS,Miami (Fla.),South Florida,RECEIVING,Maurice,Hagens,YDS,17
+300055,9/28/2013,FBS,Miami (Fla.),South Florida,RECEIVING,Maurice,Hagens,TD,0
+300056,9/28/2013,FBS,Miami (Fla.),South Florida,RECEIVING,Maurice,Hagens,LONG,17
+300057,9/28/2013,FBS,Miami (Fla.),South Florida,RECEIVING,Dallas,Crawford,REC,1
+300058,9/28/2013,FBS,Miami (Fla.),South Florida,RECEIVING,Dallas,Crawford,YDS,6
+300059,9/28/2013,FBS,Miami (Fla.),South Florida,RECEIVING,Dallas,Crawford,TD,0
+300060,9/28/2013,FBS,Miami (Fla.),South Florida,RECEIVING,Dallas,Crawford,LONG,6
+300061,9/28/2013,FBS,Miami (Fla.),South Florida,KICKING,Matt,Goudis,FG-FGA,0/1
+300062,9/28/2013,FBS,Miami (Fla.),South Florida,KICKING,Matt,Goudis,LONG,-
+300063,9/28/2013,FBS,Miami (Fla.),South Florida,KICKING,Matt,Goudis,XP,7
+300064,9/28/2013,FBS,Miami (Fla.),South Florida,KICKING,Matt,Goudis,PTS,7
+300065,9/28/2013,FBS,Miami (Fla.),South Florida,PUNTING,Pat,O'Donnell,NO,3
+300066,9/28/2013,FBS,Miami (Fla.),South Florida,PUNTING,Pat,O'Donnell,YDS,135
+300067,9/28/2013,FBS,Miami (Fla.),South Florida,PUNTING,Pat,O'Donnell,AVG,45.0
+300068,9/28/2013,FBS,Miami (Fla.),South Florida,PUNTING,Pat,O'Donnell,LONG,58
+300069,9/28/2013,FBS,Miami (Fla.),South Florida,PUNT RETURNS,Phillip,Dorsett,NO,2
+300070,9/28/2013,FBS,Miami (Fla.),South Florida,PUNT RETURNS,Phillip,Dorsett,YDS,6
+300071,9/28/2013,FBS,Miami (Fla.),South Florida,PUNT RETURNS,Phillip,Dorsett,AVG,3.0
+300072,9/28/2013,FBS,Miami (Fla.),South Florida,PUNT RETURNS,Phillip,Dorsett,LONG,6
+300073,9/28/2013,FBS,Miami (Fla.),South Florida,PUNT RETURNS,Stacy,Coley,NO,1
+300074,9/28/2013,FBS,Miami (Fla.),South Florida,PUNT RETURNS,Stacy,Coley,YDS,25
+300075,9/28/2013,FBS,Miami (Fla.),South Florida,PUNT RETURNS,Stacy,Coley,AVG,25.0
+300076,9/28/2013,FBS,Miami (Fla.),South Florida,PUNT RETURNS,Stacy,Coley,LONG,25
+300077,9/28/2013,FBS,Miami (Fla.),South Florida,PUNT RETURNS,Corn,Elder,NO,1
+300078,9/28/2013,FBS,Miami (Fla.),South Florida,PUNT RETURNS,Corn,Elder,YDS,0
+300079,9/28/2013,FBS,Miami (Fla.),South Florida,PUNT RETURNS,Corn,Elder,AVG,0.0
+300080,9/28/2013,FBS,Miami (Fla.),South Florida,PUNT RETURNS,Corn,Elder,LONG,0
+300081,9/28/2013,FBS,Miami (Fla.),South Florida,PUNT RETURNS,,Team,NO,1
+300082,9/28/2013,FBS,Miami (Fla.),South Florida,PUNT RETURNS,,Team,YDS,0
+300083,9/28/2013,FBS,Miami (Fla.),South Florida,PUNT RETURNS,,Team,AVG,0.0
+300084,9/28/2013,FBS,Miami (Fla.),South Florida,PUNT RETURNS,,Team,LONG,0
+300085,9/28/2013,FBS,Miami (Fla.),South Florida,KICK RETURNS,Duke,Johnson,NO,2
+300086,9/28/2013,FBS,Miami (Fla.),South Florida,KICK RETURNS,Duke,Johnson,YDS,40
+300087,9/28/2013,FBS,Miami (Fla.),South Florida,KICK RETURNS,Duke,Johnson,AVG,20.0
+300088,9/28/2013,FBS,Miami (Fla.),South Florida,KICK RETURNS,Duke,Johnson,LONG,23
+300089,9/28/2013,FBS,Miami (Fla.),South Florida,KICK RETURNS,Malcolm,Lewis,NO,1
+300090,9/28/2013,FBS,Miami (Fla.),South Florida,KICK RETURNS,Malcolm,Lewis,YDS,26
+300091,9/28/2013,FBS,Miami (Fla.),South Florida,KICK RETURNS,Malcolm,Lewis,AVG,26.0
+300092,9/28/2013,FBS,Miami (Fla.),South Florida,KICK RETURNS,Malcolm,Lewis,LONG,26
+300093,9/28/2013,FBS,South Florida,Miami (Fla.),RUSHING,Marcus,Shaw,ATT,20
+300094,9/28/2013,FBS,South Florida,Miami (Fla.),RUSHING,Marcus,Shaw,YDS,127
+300095,9/28/2013,FBS,South Florida,Miami (Fla.),RUSHING,Marcus,Shaw,TD,1
+300096,9/28/2013,FBS,South Florida,Miami (Fla.),RUSHING,Marcus,Shaw,LONG,44
+300097,9/28/2013,FBS,South Florida,Miami (Fla.),RUSHING,Michael,Pierre,ATT,3
+300098,9/28/2013,FBS,South Florida,Miami (Fla.),RUSHING,Michael,Pierre,YDS,2
+300099,9/28/2013,FBS,South Florida,Miami (Fla.),RUSHING,Michael,Pierre,TD,0
+300100,9/28/2013,FBS,South Florida,Miami (Fla.),RUSHING,Michael,Pierre,LONG,2
+300101,9/28/2013,FBS,South Florida,Miami (Fla.),RUSHING,Darius,Tice,ATT,2
+300102,9/28/2013,FBS,South Florida,Miami (Fla.),RUSHING,Darius,Tice,YDS,-1
+300103,9/28/2013,FBS,South Florida,Miami (Fla.),RUSHING,Darius,Tice,TD,0
+300104,9/28/2013,FBS,South Florida,Miami (Fla.),RUSHING,Darius,Tice,LONG,1
+300105,9/28/2013,FBS,South Florida,Miami (Fla.),RUSHING,Steven,Bench,ATT,8
+300106,9/28/2013,FBS,South Florida,Miami (Fla.),RUSHING,Steven,Bench,YDS,-29
+300107,9/28/2013,FBS,South Florida,Miami (Fla.),RUSHING,Steven,Bench,TD,0
+300108,9/28/2013,FBS,South Florida,Miami (Fla.),RUSHING,Steven,Bench,LONG,9
+300109,9/28/2013,FBS,South Florida,Miami (Fla.),PASSING,Steven,Bench,CP-ATT-INT,13-27-1
+300110,9/28/2013,FBS,South Florida,Miami (Fla.),PASSING,Steven,Bench,YDS,189
+300111,9/28/2013,FBS,South Florida,Miami (Fla.),PASSING,Steven,Bench,TD,1
+300112,9/28/2013,FBS,South Florida,Miami (Fla.),PASSING,Steven,Bench,LONG,36
+300113,9/28/2013,FBS,South Florida,Miami (Fla.),RECEIVING,Andre,Davis,REC,5
+300114,9/28/2013,FBS,South Florida,Miami (Fla.),RECEIVING,Andre,Davis,YDS,75
+300115,9/28/2013,FBS,South Florida,Miami (Fla.),RECEIVING,Andre,Davis,TD,0
+300116,9/28/2013,FBS,South Florida,Miami (Fla.),RECEIVING,Andre,Davis,LONG,36
+300117,9/28/2013,FBS,South Florida,Miami (Fla.),RECEIVING,Chris,Dunkley,REC,2
+300118,9/28/2013,FBS,South Florida,Miami (Fla.),RECEIVING,Chris,Dunkley,YDS,37
+300119,9/28/2013,FBS,South Florida,Miami (Fla.),RECEIVING,Chris,Dunkley,TD,0
+300120,9/28/2013,FBS,South Florida,Miami (Fla.),RECEIVING,Chris,Dunkley,LONG,20
+300121,9/28/2013,FBS,South Florida,Miami (Fla.),RECEIVING,Sean,Price,REC,2
+300122,9/28/2013,FBS,South Florida,Miami (Fla.),RECEIVING,Sean,Price,YDS,34
+300123,9/28/2013,FBS,South Florida,Miami (Fla.),RECEIVING,Sean,Price,TD,0
+300124,9/28/2013,FBS,South Florida,Miami (Fla.),RECEIVING,Sean,Price,LONG,21
+300125,9/28/2013,FBS,South Florida,Miami (Fla.),RECEIVING,Derrick,Hopkins,REC,1
+300126,9/28/2013,FBS,South Florida,Miami (Fla.),RECEIVING,Derrick,Hopkins,YDS,16
+300127,9/28/2013,FBS,South Florida,Miami (Fla.),RECEIVING,Derrick,Hopkins,TD,1
+300128,9/28/2013,FBS,South Florida,Miami (Fla.),RECEIVING,Derrick,Hopkins,LONG,16
+300129,9/28/2013,FBS,South Florida,Miami (Fla.),RECEIVING,Stephen,Bravo-Brown,REC,1
+300130,9/28/2013,FBS,South Florida,Miami (Fla.),RECEIVING,Stephen,Bravo-Brown,YDS,16
+300131,9/28/2013,FBS,South Florida,Miami (Fla.),RECEIVING,Stephen,Bravo-Brown,TD,0
+300132,9/28/2013,FBS,South Florida,Miami (Fla.),RECEIVING,Stephen,Bravo-Brown,LONG,16
+300133,9/28/2013,FBS,South Florida,Miami (Fla.),RECEIVING,Ruben,Gonzalez,REC,1
+300134,9/28/2013,FBS,South Florida,Miami (Fla.),RECEIVING,Ruben,Gonzalez,YDS,7
+300135,9/28/2013,FBS,South Florida,Miami (Fla.),RECEIVING,Ruben,Gonzalez,TD,0
+300136,9/28/2013,FBS,South Florida,Miami (Fla.),RECEIVING,Ruben,Gonzalez,LONG,7
+300137,9/28/2013,FBS,South Florida,Miami (Fla.),RECEIVING,Mike,McFarland,REC,1
+300138,9/28/2013,FBS,South Florida,Miami (Fla.),RECEIVING,Mike,McFarland,YDS,4
+300139,9/28/2013,FBS,South Florida,Miami (Fla.),RECEIVING,Mike,McFarland,TD,0
+300140,9/28/2013,FBS,South Florida,Miami (Fla.),RECEIVING,Mike,McFarland,LONG,4
+300141,9/28/2013,FBS,South Florida,Miami (Fla.),KICKING,Marvin,Kloss,FG-FGA,0/0
+300142,9/28/2013,FBS,South Florida,Miami (Fla.),KICKING,Marvin,Kloss,LONG,-
+300143,9/28/2013,FBS,South Florida,Miami (Fla.),KICKING,Marvin,Kloss,XP,3
+300144,9/28/2013,FBS,South Florida,Miami (Fla.),KICKING,Marvin,Kloss,PTS,3
+300145,9/28/2013,FBS,South Florida,Miami (Fla.),PUNTING,Mattias,Ciabatti,NO,7
+300146,9/28/2013,FBS,South Florida,Miami (Fla.),PUNTING,Mattias,Ciabatti,YDS,260
+300147,9/28/2013,FBS,South Florida,Miami (Fla.),PUNTING,Mattias,Ciabatti,AVG,37.1
+300148,9/28/2013,FBS,South Florida,Miami (Fla.),PUNTING,Mattias,Ciabatti,LONG,50
+300149,9/28/2013,FBS,South Florida,Miami (Fla.),PUNT RETURNS,Kenneth,Durden,NO,1
+300150,9/28/2013,FBS,South Florida,Miami (Fla.),PUNT RETURNS,Kenneth,Durden,YDS,29
+300151,9/28/2013,FBS,South Florida,Miami (Fla.),PUNT RETURNS,Kenneth,Durden,AVG,29.0
+300152,9/28/2013,FBS,South Florida,Miami (Fla.),PUNT RETURNS,Kenneth,Durden,LONG,29
+300153,9/28/2013,FBS,South Florida,Miami (Fla.),KICK RETURNS,Derrick,Hopkins,NO,3
+300154,9/28/2013,FBS,South Florida,Miami (Fla.),KICK RETURNS,Derrick,Hopkins,YDS,52
+300155,9/28/2013,FBS,South Florida,Miami (Fla.),KICK RETURNS,Derrick,Hopkins,AVG,17.3
+300156,9/28/2013,FBS,South Florida,Miami (Fla.),KICK RETURNS,Derrick,Hopkins,LONG,18

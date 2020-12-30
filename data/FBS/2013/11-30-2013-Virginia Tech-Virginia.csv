@@ -1,0 +1,173 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+491001,11/30/2013,FBS,Virginia Tech,Virginia,RUSHING,Trey,Edmunds,ATT,11
+491002,11/30/2013,FBS,Virginia Tech,Virginia,RUSHING,Trey,Edmunds,YDS,93
+491003,11/30/2013,FBS,Virginia Tech,Virginia,RUSHING,Trey,Edmunds,TD,0
+491004,11/30/2013,FBS,Virginia Tech,Virginia,RUSHING,Trey,Edmunds,LONG,30
+491005,11/30/2013,FBS,Virginia Tech,Virginia,RUSHING,J.C.,Coleman,ATT,14
+491006,11/30/2013,FBS,Virginia Tech,Virginia,RUSHING,J.C.,Coleman,YDS,57
+491007,11/30/2013,FBS,Virginia Tech,Virginia,RUSHING,J.C.,Coleman,TD,0
+491008,11/30/2013,FBS,Virginia Tech,Virginia,RUSHING,J.C.,Coleman,LONG,13
+491009,11/30/2013,FBS,Virginia Tech,Virginia,RUSHING,Sam,Rogers,ATT,1
+491010,11/30/2013,FBS,Virginia Tech,Virginia,RUSHING,Sam,Rogers,YDS,3
+491011,11/30/2013,FBS,Virginia Tech,Virginia,RUSHING,Sam,Rogers,TD,0
+491012,11/30/2013,FBS,Virginia Tech,Virginia,RUSHING,Sam,Rogers,LONG,3
+491013,11/30/2013,FBS,Virginia Tech,Virginia,RUSHING,,Team,ATT,1
+491014,11/30/2013,FBS,Virginia Tech,Virginia,RUSHING,,Team,YDS,-1
+491015,11/30/2013,FBS,Virginia Tech,Virginia,RUSHING,,Team,TD,0
+491016,11/30/2013,FBS,Virginia Tech,Virginia,RUSHING,,Team,LONG,0
+491017,11/30/2013,FBS,Virginia Tech,Virginia,RUSHING,Logan,Thomas,ATT,15
+491018,11/30/2013,FBS,Virginia Tech,Virginia,RUSHING,Logan,Thomas,YDS,-26
+491019,11/30/2013,FBS,Virginia Tech,Virginia,RUSHING,Logan,Thomas,TD,0
+491020,11/30/2013,FBS,Virginia Tech,Virginia,RUSHING,Logan,Thomas,LONG,17
+491021,11/30/2013,FBS,Virginia Tech,Virginia,PASSING,Logan,Thomas,CP-ATT-INT,13-29-1
+491022,11/30/2013,FBS,Virginia Tech,Virginia,PASSING,Logan,Thomas,YDS,229
+491023,11/30/2013,FBS,Virginia Tech,Virginia,PASSING,Logan,Thomas,TD,1
+491024,11/30/2013,FBS,Virginia Tech,Virginia,PASSING,Logan,Thomas,LONG,48
+491025,11/30/2013,FBS,Virginia Tech,Virginia,PASSING,Sam,Rogers,CP-ATT-INT,1-1-0
+491026,11/30/2013,FBS,Virginia Tech,Virginia,PASSING,Sam,Rogers,YDS,9
+491027,11/30/2013,FBS,Virginia Tech,Virginia,PASSING,Sam,Rogers,TD,0
+491028,11/30/2013,FBS,Virginia Tech,Virginia,PASSING,Sam,Rogers,LONG,9
+491029,11/30/2013,FBS,Virginia Tech,Virginia,RECEIVING,Demitri,Knowles,REC,4
+491030,11/30/2013,FBS,Virginia Tech,Virginia,RECEIVING,Demitri,Knowles,YDS,101
+491031,11/30/2013,FBS,Virginia Tech,Virginia,RECEIVING,Demitri,Knowles,TD,0
+491032,11/30/2013,FBS,Virginia Tech,Virginia,RECEIVING,Demitri,Knowles,LONG,48
+491033,11/30/2013,FBS,Virginia Tech,Virginia,RECEIVING,Willie,Byrn,REC,3
+491034,11/30/2013,FBS,Virginia Tech,Virginia,RECEIVING,Willie,Byrn,YDS,37
+491035,11/30/2013,FBS,Virginia Tech,Virginia,RECEIVING,Willie,Byrn,TD,0
+491036,11/30/2013,FBS,Virginia Tech,Virginia,RECEIVING,Willie,Byrn,LONG,17
+491037,11/30/2013,FBS,Virginia Tech,Virginia,RECEIVING,D.J.,Coles,REC,2
+491038,11/30/2013,FBS,Virginia Tech,Virginia,RECEIVING,D.J.,Coles,YDS,35
+491039,11/30/2013,FBS,Virginia Tech,Virginia,RECEIVING,D.J.,Coles,TD,0
+491040,11/30/2013,FBS,Virginia Tech,Virginia,RECEIVING,D.J.,Coles,LONG,31
+491041,11/30/2013,FBS,Virginia Tech,Virginia,RECEIVING,Trey,Edmunds,REC,1
+491042,11/30/2013,FBS,Virginia Tech,Virginia,RECEIVING,Trey,Edmunds,YDS,26
+491043,11/30/2013,FBS,Virginia Tech,Virginia,RECEIVING,Trey,Edmunds,TD,1
+491044,11/30/2013,FBS,Virginia Tech,Virginia,RECEIVING,Trey,Edmunds,LONG,26
+491045,11/30/2013,FBS,Virginia Tech,Virginia,RECEIVING,Joshua,Stanford,REC,1
+491046,11/30/2013,FBS,Virginia Tech,Virginia,RECEIVING,Joshua,Stanford,YDS,15
+491047,11/30/2013,FBS,Virginia Tech,Virginia,RECEIVING,Joshua,Stanford,TD,0
+491048,11/30/2013,FBS,Virginia Tech,Virginia,RECEIVING,Joshua,Stanford,LONG,15
+491049,11/30/2013,FBS,Virginia Tech,Virginia,RECEIVING,Kalvin,Cline,REC,1
+491050,11/30/2013,FBS,Virginia Tech,Virginia,RECEIVING,Kalvin,Cline,YDS,12
+491051,11/30/2013,FBS,Virginia Tech,Virginia,RECEIVING,Kalvin,Cline,TD,0
+491052,11/30/2013,FBS,Virginia Tech,Virginia,RECEIVING,Kalvin,Cline,LONG,12
+491053,11/30/2013,FBS,Virginia Tech,Virginia,RECEIVING,Logan,Thomas,REC,1
+491054,11/30/2013,FBS,Virginia Tech,Virginia,RECEIVING,Logan,Thomas,YDS,9
+491055,11/30/2013,FBS,Virginia Tech,Virginia,RECEIVING,Logan,Thomas,TD,0
+491056,11/30/2013,FBS,Virginia Tech,Virginia,RECEIVING,Logan,Thomas,LONG,9
+491057,11/30/2013,FBS,Virginia Tech,Virginia,RECEIVING,Chris,Mangus,REC,1
+491058,11/30/2013,FBS,Virginia Tech,Virginia,RECEIVING,Chris,Mangus,YDS,3
+491059,11/30/2013,FBS,Virginia Tech,Virginia,RECEIVING,Chris,Mangus,TD,0
+491060,11/30/2013,FBS,Virginia Tech,Virginia,RECEIVING,Chris,Mangus,LONG,3
+491061,11/30/2013,FBS,Virginia Tech,Virginia,KICKING,Eric,Kristensen,FG-FGA,3/3
+491062,11/30/2013,FBS,Virginia Tech,Virginia,KICKING,Eric,Kristensen,LONG,38
+491063,11/30/2013,FBS,Virginia Tech,Virginia,KICKING,Eric,Kristensen,XP,1
+491064,11/30/2013,FBS,Virginia Tech,Virginia,KICKING,Eric,Kristensen,PTS,10
+491065,11/30/2013,FBS,Virginia Tech,Virginia,PUNTING,A.J.,Hughes,NO,5
+491066,11/30/2013,FBS,Virginia Tech,Virginia,PUNTING,A.J.,Hughes,YDS,220
+491067,11/30/2013,FBS,Virginia Tech,Virginia,PUNTING,A.J.,Hughes,AVG,44.0
+491068,11/30/2013,FBS,Virginia Tech,Virginia,PUNTING,A.J.,Hughes,LONG,48
+491069,11/30/2013,FBS,Virginia Tech,Virginia,PUNT RETURNS,Willie,Byrn,NO,2
+491070,11/30/2013,FBS,Virginia Tech,Virginia,PUNT RETURNS,Willie,Byrn,YDS,9
+491071,11/30/2013,FBS,Virginia Tech,Virginia,PUNT RETURNS,Willie,Byrn,AVG,4.5
+491072,11/30/2013,FBS,Virginia Tech,Virginia,PUNT RETURNS,Willie,Byrn,LONG,9
+491073,11/30/2013,FBS,Virginia Tech,Virginia,KICK RETURNS,Demitri,Knowles,NO,3
+491074,11/30/2013,FBS,Virginia Tech,Virginia,KICK RETURNS,Demitri,Knowles,YDS,50
+491075,11/30/2013,FBS,Virginia Tech,Virginia,KICK RETURNS,Demitri,Knowles,AVG,16.7
+491076,11/30/2013,FBS,Virginia Tech,Virginia,KICK RETURNS,Demitri,Knowles,LONG,21
+491077,11/30/2013,FBS,Virginia Tech,Virginia,KICK RETURNS,Sam,Rogers,NO,0
+491078,11/30/2013,FBS,Virginia Tech,Virginia,KICK RETURNS,Sam,Rogers,YDS,16
+491079,11/30/2013,FBS,Virginia Tech,Virginia,KICK RETURNS,Sam,Rogers,AVG,-
+491080,11/30/2013,FBS,Virginia Tech,Virginia,KICK RETURNS,Sam,Rogers,LONG,16
+491081,11/30/2013,FBS,Virginia,Virginia Tech,RUSHING,Kevin,Parks,ATT,17
+491082,11/30/2013,FBS,Virginia,Virginia Tech,RUSHING,Kevin,Parks,YDS,105
+491083,11/30/2013,FBS,Virginia,Virginia Tech,RUSHING,Kevin,Parks,TD,0
+491084,11/30/2013,FBS,Virginia,Virginia Tech,RUSHING,Kevin,Parks,LONG,48
+491085,11/30/2013,FBS,Virginia,Virginia Tech,RUSHING,David,Watford,ATT,7
+491086,11/30/2013,FBS,Virginia,Virginia Tech,RUSHING,David,Watford,YDS,37
+491087,11/30/2013,FBS,Virginia,Virginia Tech,RUSHING,David,Watford,TD,0
+491088,11/30/2013,FBS,Virginia,Virginia Tech,RUSHING,David,Watford,LONG,24
+491089,11/30/2013,FBS,Virginia,Virginia Tech,RUSHING,Greyson,Lambert,ATT,3
+491090,11/30/2013,FBS,Virginia,Virginia Tech,RUSHING,Greyson,Lambert,YDS,-33
+491091,11/30/2013,FBS,Virginia,Virginia Tech,RUSHING,Greyson,Lambert,TD,0
+491092,11/30/2013,FBS,Virginia,Virginia Tech,RUSHING,Greyson,Lambert,LONG,0
+491093,11/30/2013,FBS,Virginia,Virginia Tech,PASSING,David,Watford,CP-ATT-INT,13-23-0
+491094,11/30/2013,FBS,Virginia,Virginia Tech,PASSING,David,Watford,YDS,122
+491095,11/30/2013,FBS,Virginia,Virginia Tech,PASSING,David,Watford,TD,0
+491096,11/30/2013,FBS,Virginia,Virginia Tech,PASSING,David,Watford,LONG,38
+491097,11/30/2013,FBS,Virginia,Virginia Tech,PASSING,Greyson,Lambert,CP-ATT-INT,4-16-1
+491098,11/30/2013,FBS,Virginia,Virginia Tech,PASSING,Greyson,Lambert,YDS,54
+491099,11/30/2013,FBS,Virginia,Virginia Tech,PASSING,Greyson,Lambert,TD,0
+491100,11/30/2013,FBS,Virginia,Virginia Tech,PASSING,Greyson,Lambert,LONG,16
+491101,11/30/2013,FBS,Virginia,Virginia Tech,PASSING,,Team,CP-ATT-INT,0-1-0
+491102,11/30/2013,FBS,Virginia,Virginia Tech,PASSING,,Team,YDS,0
+491103,11/30/2013,FBS,Virginia,Virginia Tech,PASSING,,Team,TD,0
+491104,11/30/2013,FBS,Virginia,Virginia Tech,PASSING,,Team,LONG,0
+491105,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,Jake,McGee,REC,4
+491106,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,Jake,McGee,YDS,65
+491107,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,Jake,McGee,TD,0
+491108,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,Jake,McGee,LONG,38
+491109,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,Kevin,Parks,REC,3
+491110,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,Kevin,Parks,YDS,18
+491111,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,Kevin,Parks,TD,0
+491112,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,Kevin,Parks,LONG,13
+491113,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,Kyle,Dockins,REC,2
+491114,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,Kyle,Dockins,YDS,32
+491115,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,Kyle,Dockins,TD,0
+491116,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,Kyle,Dockins,LONG,16
+491117,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,Darius,Jennings,REC,2
+491118,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,Darius,Jennings,YDS,21
+491119,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,Darius,Jennings,TD,0
+491120,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,Darius,Jennings,LONG,11
+491121,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,Dominique,Terrell,REC,1
+491122,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,Dominique,Terrell,YDS,11
+491123,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,Dominique,Terrell,TD,0
+491124,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,Dominique,Terrell,LONG,11
+491125,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,Taquan,Mizzell,REC,1
+491126,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,Taquan,Mizzell,YDS,9
+491127,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,Taquan,Mizzell,TD,0
+491128,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,Taquan,Mizzell,LONG,9
+491129,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,Billy,Skrobacz,REC,1
+491130,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,Billy,Skrobacz,YDS,6
+491131,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,Billy,Skrobacz,TD,0
+491132,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,Billy,Skrobacz,LONG,6
+491133,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,E.J.,Scott,REC,1
+491134,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,E.J.,Scott,YDS,6
+491135,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,E.J.,Scott,TD,0
+491136,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,E.J.,Scott,LONG,6
+491137,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,Keeon,Johnson,REC,1
+491138,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,Keeon,Johnson,YDS,5
+491139,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,Keeon,Johnson,TD,0
+491140,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,Keeon,Johnson,LONG,5
+491141,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,Khalek,Shepherd,REC,1
+491142,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,Khalek,Shepherd,YDS,3
+491143,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,Khalek,Shepherd,TD,0
+491144,11/30/2013,FBS,Virginia,Virginia Tech,RECEIVING,Khalek,Shepherd,LONG,3
+491145,11/30/2013,FBS,Virginia,Virginia Tech,KICKING,Alec,Vozenilek,FG-FGA,2/2
+491146,11/30/2013,FBS,Virginia,Virginia Tech,KICKING,Alec,Vozenilek,LONG,36
+491147,11/30/2013,FBS,Virginia,Virginia Tech,KICKING,Alec,Vozenilek,XP,0
+491148,11/30/2013,FBS,Virginia,Virginia Tech,KICKING,Alec,Vozenilek,PTS,6
+491149,11/30/2013,FBS,Virginia,Virginia Tech,PUNTING,Alec,Vozenilek,NO,6
+491150,11/30/2013,FBS,Virginia,Virginia Tech,PUNTING,Alec,Vozenilek,YDS,229
+491151,11/30/2013,FBS,Virginia,Virginia Tech,PUNTING,Alec,Vozenilek,AVG,38.2
+491152,11/30/2013,FBS,Virginia,Virginia Tech,PUNTING,Alec,Vozenilek,LONG,46
+491153,11/30/2013,FBS,Virginia,Virginia Tech,PUNT RETURNS,Dominique,Terrell,NO,3
+491154,11/30/2013,FBS,Virginia,Virginia Tech,PUNT RETURNS,Dominique,Terrell,YDS,3
+491155,11/30/2013,FBS,Virginia,Virginia Tech,PUNT RETURNS,Dominique,Terrell,AVG,1.0
+491156,11/30/2013,FBS,Virginia,Virginia Tech,PUNT RETURNS,Dominique,Terrell,LONG,6
+491157,11/30/2013,FBS,Virginia,Virginia Tech,PUNT RETURNS,Tim,Smith,NO,1
+491158,11/30/2013,FBS,Virginia,Virginia Tech,PUNT RETURNS,Tim,Smith,YDS,10
+491159,11/30/2013,FBS,Virginia,Virginia Tech,PUNT RETURNS,Tim,Smith,AVG,10.0
+491160,11/30/2013,FBS,Virginia,Virginia Tech,PUNT RETURNS,Tim,Smith,LONG,10
+491161,11/30/2013,FBS,Virginia,Virginia Tech,KICK RETURNS,Darius,Jennings,NO,2
+491162,11/30/2013,FBS,Virginia,Virginia Tech,KICK RETURNS,Darius,Jennings,YDS,38
+491163,11/30/2013,FBS,Virginia,Virginia Tech,KICK RETURNS,Darius,Jennings,AVG,19.0
+491164,11/30/2013,FBS,Virginia,Virginia Tech,KICK RETURNS,Darius,Jennings,LONG,20
+491165,11/30/2013,FBS,Virginia,Virginia Tech,KICK RETURNS,Taquan,Mizzell,NO,1
+491166,11/30/2013,FBS,Virginia,Virginia Tech,KICK RETURNS,Taquan,Mizzell,YDS,16
+491167,11/30/2013,FBS,Virginia,Virginia Tech,KICK RETURNS,Taquan,Mizzell,AVG,16.0
+491168,11/30/2013,FBS,Virginia,Virginia Tech,KICK RETURNS,Taquan,Mizzell,LONG,16
+491169,11/30/2013,FBS,Virginia,Virginia Tech,KICK RETURNS,Canaan,Severin,NO,1
+491170,11/30/2013,FBS,Virginia,Virginia Tech,KICK RETURNS,Canaan,Severin,YDS,0
+491171,11/30/2013,FBS,Virginia,Virginia Tech,KICK RETURNS,Canaan,Severin,AVG,0.0
+491172,11/30/2013,FBS,Virginia,Virginia Tech,KICK RETURNS,Canaan,Severin,LONG,0

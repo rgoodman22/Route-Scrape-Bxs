@@ -1,0 +1,125 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+66001,8/31/2013,FBS,Wyoming,Nebraska,RUSHING,Shaun,Wick,ATT,12
+66002,8/31/2013,FBS,Wyoming,Nebraska,RUSHING,Shaun,Wick,YDS,101
+66003,8/31/2013,FBS,Wyoming,Nebraska,RUSHING,Shaun,Wick,TD,1
+66004,8/31/2013,FBS,Wyoming,Nebraska,RUSHING,Shaun,Wick,LONG,37
+66005,8/31/2013,FBS,Wyoming,Nebraska,RUSHING,Brett,Smith,ATT,8
+66006,8/31/2013,FBS,Wyoming,Nebraska,RUSHING,Brett,Smith,YDS,92
+66007,8/31/2013,FBS,Wyoming,Nebraska,RUSHING,Brett,Smith,TD,0
+66008,8/31/2013,FBS,Wyoming,Nebraska,RUSHING,Brett,Smith,LONG,47
+66009,8/31/2013,FBS,Wyoming,Nebraska,RUSHING,Brandon,Miller,ATT,9
+66010,8/31/2013,FBS,Wyoming,Nebraska,RUSHING,Brandon,Miller,YDS,27
+66011,8/31/2013,FBS,Wyoming,Nebraska,RUSHING,Brandon,Miller,TD,0
+66012,8/31/2013,FBS,Wyoming,Nebraska,RUSHING,Brandon,Miller,LONG,11
+66013,8/31/2013,FBS,Wyoming,Nebraska,RUSHING,,Team,ATT,1
+66014,8/31/2013,FBS,Wyoming,Nebraska,RUSHING,,Team,YDS,-1
+66015,8/31/2013,FBS,Wyoming,Nebraska,RUSHING,,Team,TD,0
+66016,8/31/2013,FBS,Wyoming,Nebraska,RUSHING,,Team,LONG,0
+66017,8/31/2013,FBS,Wyoming,Nebraska,PASSING,Brett,Smith,CP-ATT-INT,29-43-1
+66018,8/31/2013,FBS,Wyoming,Nebraska,PASSING,Brett,Smith,YDS,383
+66019,8/31/2013,FBS,Wyoming,Nebraska,PASSING,Brett,Smith,TD,4
+66020,8/31/2013,FBS,Wyoming,Nebraska,PASSING,Brett,Smith,LONG,47
+66021,8/31/2013,FBS,Wyoming,Nebraska,PASSING,Trey,Norman,CP-ATT-INT,0-1-1
+66022,8/31/2013,FBS,Wyoming,Nebraska,PASSING,Trey,Norman,YDS,0
+66023,8/31/2013,FBS,Wyoming,Nebraska,PASSING,Trey,Norman,TD,0
+66024,8/31/2013,FBS,Wyoming,Nebraska,PASSING,Trey,Norman,LONG,0
+66025,8/31/2013,FBS,Wyoming,Nebraska,RECEIVING,Dominic,Rufran,REC,11
+66026,8/31/2013,FBS,Wyoming,Nebraska,RECEIVING,Dominic,Rufran,YDS,120
+66027,8/31/2013,FBS,Wyoming,Nebraska,RECEIVING,Dominic,Rufran,TD,0
+66028,8/31/2013,FBS,Wyoming,Nebraska,RECEIVING,Dominic,Rufran,LONG,27
+66029,8/31/2013,FBS,Wyoming,Nebraska,RECEIVING,Jalen,Claiborne,REC,7
+66030,8/31/2013,FBS,Wyoming,Nebraska,RECEIVING,Jalen,Claiborne,YDS,88
+66031,8/31/2013,FBS,Wyoming,Nebraska,RECEIVING,Jalen,Claiborne,TD,2
+66032,8/31/2013,FBS,Wyoming,Nebraska,RECEIVING,Jalen,Claiborne,LONG,29
+66033,8/31/2013,FBS,Wyoming,Nebraska,RECEIVING,Brandon,Miller,REC,5
+66034,8/31/2013,FBS,Wyoming,Nebraska,RECEIVING,Brandon,Miller,YDS,63
+66035,8/31/2013,FBS,Wyoming,Nebraska,RECEIVING,Brandon,Miller,TD,1
+66036,8/31/2013,FBS,Wyoming,Nebraska,RECEIVING,Brandon,Miller,LONG,22
+66037,8/31/2013,FBS,Wyoming,Nebraska,RECEIVING,Robert,Herron,REC,4
+66038,8/31/2013,FBS,Wyoming,Nebraska,RECEIVING,Robert,Herron,YDS,91
+66039,8/31/2013,FBS,Wyoming,Nebraska,RECEIVING,Robert,Herron,TD,1
+66040,8/31/2013,FBS,Wyoming,Nebraska,RECEIVING,Robert,Herron,LONG,47
+66041,8/31/2013,FBS,Wyoming,Nebraska,RECEIVING,Tanner,Gentry,REC,2
+66042,8/31/2013,FBS,Wyoming,Nebraska,RECEIVING,Tanner,Gentry,YDS,21
+66043,8/31/2013,FBS,Wyoming,Nebraska,RECEIVING,Tanner,Gentry,TD,0
+66044,8/31/2013,FBS,Wyoming,Nebraska,RECEIVING,Tanner,Gentry,LONG,15
+66045,8/31/2013,FBS,Wyoming,Nebraska,KICKING,Stuart,Williams,FG-FGA,0/1
+66046,8/31/2013,FBS,Wyoming,Nebraska,KICKING,Stuart,Williams,LONG,-
+66047,8/31/2013,FBS,Wyoming,Nebraska,KICKING,Stuart,Williams,XP,4
+66048,8/31/2013,FBS,Wyoming,Nebraska,KICKING,Stuart,Williams,PTS,4
+66049,8/31/2013,FBS,Wyoming,Nebraska,PUNTING,Ethan,Wood,NO,4
+66050,8/31/2013,FBS,Wyoming,Nebraska,PUNTING,Ethan,Wood,YDS,209
+66051,8/31/2013,FBS,Wyoming,Nebraska,PUNTING,Ethan,Wood,AVG,52.3
+66052,8/31/2013,FBS,Wyoming,Nebraska,PUNTING,Ethan,Wood,LONG,61
+66053,8/31/2013,FBS,Wyoming,Nebraska,PUNT RETURNS,Jalen,Claiborne,NO,2
+66054,8/31/2013,FBS,Wyoming,Nebraska,PUNT RETURNS,Jalen,Claiborne,YDS,13
+66055,8/31/2013,FBS,Wyoming,Nebraska,PUNT RETURNS,Jalen,Claiborne,AVG,6.5
+66056,8/31/2013,FBS,Wyoming,Nebraska,PUNT RETURNS,Jalen,Claiborne,LONG,11
+66057,8/31/2013,FBS,Wyoming,Nebraska,KICK RETURNS,Jalen,Claiborne,NO,2
+66058,8/31/2013,FBS,Wyoming,Nebraska,KICK RETURNS,Jalen,Claiborne,YDS,35
+66059,8/31/2013,FBS,Wyoming,Nebraska,KICK RETURNS,Jalen,Claiborne,AVG,17.5
+66060,8/31/2013,FBS,Wyoming,Nebraska,KICK RETURNS,Jalen,Claiborne,LONG,18
+66061,8/31/2013,FBS,Wyoming,Nebraska,KICK RETURNS,Tyran,Finley,NO,1
+66062,8/31/2013,FBS,Wyoming,Nebraska,KICK RETURNS,Tyran,Finley,YDS,18
+66063,8/31/2013,FBS,Wyoming,Nebraska,KICK RETURNS,Tyran,Finley,AVG,18.0
+66064,8/31/2013,FBS,Wyoming,Nebraska,KICK RETURNS,Tyran,Finley,LONG,18
+66065,8/31/2013,FBS,Nebraska,Wyoming,RUSHING,Ameer,Abdullah,ATT,19
+66066,8/31/2013,FBS,Nebraska,Wyoming,RUSHING,Ameer,Abdullah,YDS,114
+66067,8/31/2013,FBS,Nebraska,Wyoming,RUSHING,Ameer,Abdullah,TD,0
+66068,8/31/2013,FBS,Nebraska,Wyoming,RUSHING,Ameer,Abdullah,LONG,62
+66069,8/31/2013,FBS,Nebraska,Wyoming,RUSHING,Imani,Cross,ATT,13
+66070,8/31/2013,FBS,Nebraska,Wyoming,RUSHING,Imani,Cross,YDS,105
+66071,8/31/2013,FBS,Nebraska,Wyoming,RUSHING,Imani,Cross,TD,2
+66072,8/31/2013,FBS,Nebraska,Wyoming,RUSHING,Imani,Cross,LONG,31
+66073,8/31/2013,FBS,Nebraska,Wyoming,RUSHING,Taylor,Martinez,ATT,16
+66074,8/31/2013,FBS,Nebraska,Wyoming,RUSHING,Taylor,Martinez,YDS,80
+66075,8/31/2013,FBS,Nebraska,Wyoming,RUSHING,Taylor,Martinez,TD,0
+66076,8/31/2013,FBS,Nebraska,Wyoming,RUSHING,Taylor,Martinez,LONG,14
+66077,8/31/2013,FBS,Nebraska,Wyoming,RUSHING,Terrell,Newby,ATT,15
+66078,8/31/2013,FBS,Nebraska,Wyoming,RUSHING,Terrell,Newby,YDS,76
+66079,8/31/2013,FBS,Nebraska,Wyoming,RUSHING,Terrell,Newby,TD,0
+66080,8/31/2013,FBS,Nebraska,Wyoming,RUSHING,Terrell,Newby,LONG,11
+66081,8/31/2013,FBS,Nebraska,Wyoming,PASSING,Taylor,Martinez,CP-ATT-INT,17-22-1
+66082,8/31/2013,FBS,Nebraska,Wyoming,PASSING,Taylor,Martinez,YDS,155
+66083,8/31/2013,FBS,Nebraska,Wyoming,PASSING,Taylor,Martinez,TD,3
+66084,8/31/2013,FBS,Nebraska,Wyoming,PASSING,Taylor,Martinez,LONG,26
+66085,8/31/2013,FBS,Nebraska,Wyoming,RECEIVING,Kenny,Bell,REC,7
+66086,8/31/2013,FBS,Nebraska,Wyoming,RECEIVING,Kenny,Bell,YDS,57
+66087,8/31/2013,FBS,Nebraska,Wyoming,RECEIVING,Kenny,Bell,TD,0
+66088,8/31/2013,FBS,Nebraska,Wyoming,RECEIVING,Kenny,Bell,LONG,15
+66089,8/31/2013,FBS,Nebraska,Wyoming,RECEIVING,Jamal,Turner,REC,4
+66090,8/31/2013,FBS,Nebraska,Wyoming,RECEIVING,Jamal,Turner,YDS,43
+66091,8/31/2013,FBS,Nebraska,Wyoming,RECEIVING,Jamal,Turner,TD,1
+66092,8/31/2013,FBS,Nebraska,Wyoming,RECEIVING,Jamal,Turner,LONG,17
+66093,8/31/2013,FBS,Nebraska,Wyoming,RECEIVING,Quincy,Enunwa,REC,3
+66094,8/31/2013,FBS,Nebraska,Wyoming,RECEIVING,Quincy,Enunwa,YDS,27
+66095,8/31/2013,FBS,Nebraska,Wyoming,RECEIVING,Quincy,Enunwa,TD,2
+66096,8/31/2013,FBS,Nebraska,Wyoming,RECEIVING,Quincy,Enunwa,LONG,17
+66097,8/31/2013,FBS,Nebraska,Wyoming,RECEIVING,Jake,Long,REC,1
+66098,8/31/2013,FBS,Nebraska,Wyoming,RECEIVING,Jake,Long,YDS,26
+66099,8/31/2013,FBS,Nebraska,Wyoming,RECEIVING,Jake,Long,TD,0
+66100,8/31/2013,FBS,Nebraska,Wyoming,RECEIVING,Jake,Long,LONG,26
+66101,8/31/2013,FBS,Nebraska,Wyoming,RECEIVING,Ameer,Abdullah,REC,1
+66102,8/31/2013,FBS,Nebraska,Wyoming,RECEIVING,Ameer,Abdullah,YDS,3
+66103,8/31/2013,FBS,Nebraska,Wyoming,RECEIVING,Ameer,Abdullah,TD,0
+66104,8/31/2013,FBS,Nebraska,Wyoming,RECEIVING,Ameer,Abdullah,LONG,3
+66105,8/31/2013,FBS,Nebraska,Wyoming,RECEIVING,Imani,Cross,REC,1
+66106,8/31/2013,FBS,Nebraska,Wyoming,RECEIVING,Imani,Cross,YDS,-1
+66107,8/31/2013,FBS,Nebraska,Wyoming,RECEIVING,Imani,Cross,TD,0
+66108,8/31/2013,FBS,Nebraska,Wyoming,RECEIVING,Imani,Cross,LONG,0
+66109,8/31/2013,FBS,Nebraska,Wyoming,KICKING,Pat,Smith,FG-FGA,1/1
+66110,8/31/2013,FBS,Nebraska,Wyoming,KICKING,Pat,Smith,LONG,24
+66111,8/31/2013,FBS,Nebraska,Wyoming,KICKING,Pat,Smith,XP,4
+66112,8/31/2013,FBS,Nebraska,Wyoming,KICKING,Pat,Smith,PTS,7
+66113,8/31/2013,FBS,Nebraska,Wyoming,PUNTING,Sam,Foltz,NO,5
+66114,8/31/2013,FBS,Nebraska,Wyoming,PUNTING,Sam,Foltz,YDS,228
+66115,8/31/2013,FBS,Nebraska,Wyoming,PUNTING,Sam,Foltz,AVG,45.6
+66116,8/31/2013,FBS,Nebraska,Wyoming,PUNTING,Sam,Foltz,LONG,56
+66117,8/31/2013,FBS,Nebraska,Wyoming,KICK RETURNS,Kenny,Bell,NO,2
+66118,8/31/2013,FBS,Nebraska,Wyoming,KICK RETURNS,Kenny,Bell,YDS,72
+66119,8/31/2013,FBS,Nebraska,Wyoming,KICK RETURNS,Kenny,Bell,AVG,36.0
+66120,8/31/2013,FBS,Nebraska,Wyoming,KICK RETURNS,Kenny,Bell,LONG,37
+66121,8/31/2013,FBS,Nebraska,Wyoming,KICK RETURNS,C.J.,Zimmerer,NO,1
+66122,8/31/2013,FBS,Nebraska,Wyoming,KICK RETURNS,C.J.,Zimmerer,YDS,10
+66123,8/31/2013,FBS,Nebraska,Wyoming,KICK RETURNS,C.J.,Zimmerer,AVG,10.0
+66124,8/31/2013,FBS,Nebraska,Wyoming,KICK RETURNS,C.J.,Zimmerer,LONG,10

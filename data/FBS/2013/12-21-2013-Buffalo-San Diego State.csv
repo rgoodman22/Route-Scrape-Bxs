@@ -1,0 +1,157 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+512001,12/21/2013,FBS,Buffalo,San Diego State,RUSHING,Branden,Oliver,ATT,28
+512002,12/21/2013,FBS,Buffalo,San Diego State,RUSHING,Branden,Oliver,YDS,114
+512003,12/21/2013,FBS,Buffalo,San Diego State,RUSHING,Branden,Oliver,TD,0
+512004,12/21/2013,FBS,Buffalo,San Diego State,RUSHING,Branden,Oliver,LONG,22
+512005,12/21/2013,FBS,Buffalo,San Diego State,RUSHING,Anthone,Taylor,ATT,5
+512006,12/21/2013,FBS,Buffalo,San Diego State,RUSHING,Anthone,Taylor,YDS,14
+512007,12/21/2013,FBS,Buffalo,San Diego State,RUSHING,Anthone,Taylor,TD,0
+512008,12/21/2013,FBS,Buffalo,San Diego State,RUSHING,Anthone,Taylor,LONG,6
+512009,12/21/2013,FBS,Buffalo,San Diego State,RUSHING,Joe,Licata,ATT,5
+512010,12/21/2013,FBS,Buffalo,San Diego State,RUSHING,Joe,Licata,YDS,-15
+512011,12/21/2013,FBS,Buffalo,San Diego State,RUSHING,Joe,Licata,TD,0
+512012,12/21/2013,FBS,Buffalo,San Diego State,RUSHING,Joe,Licata,LONG,5
+512013,12/21/2013,FBS,Buffalo,San Diego State,PASSING,Joe,Licata,CP-ATT-INT,13-30-1
+512014,12/21/2013,FBS,Buffalo,San Diego State,PASSING,Joe,Licata,YDS,196
+512015,12/21/2013,FBS,Buffalo,San Diego State,PASSING,Joe,Licata,TD,3
+512016,12/21/2013,FBS,Buffalo,San Diego State,PASSING,Joe,Licata,LONG,51
+512017,12/21/2013,FBS,Buffalo,San Diego State,PASSING,,Team,CP-ATT-INT,0-1-0
+512018,12/21/2013,FBS,Buffalo,San Diego State,PASSING,,Team,YDS,0
+512019,12/21/2013,FBS,Buffalo,San Diego State,PASSING,,Team,TD,0
+512020,12/21/2013,FBS,Buffalo,San Diego State,PASSING,,Team,LONG,0
+512021,12/21/2013,FBS,Buffalo,San Diego State,RECEIVING,Fred,Lee,REC,4
+512022,12/21/2013,FBS,Buffalo,San Diego State,RECEIVING,Fred,Lee,YDS,48
+512023,12/21/2013,FBS,Buffalo,San Diego State,RECEIVING,Fred,Lee,TD,1
+512024,12/21/2013,FBS,Buffalo,San Diego State,RECEIVING,Fred,Lee,LONG,15
+512025,12/21/2013,FBS,Buffalo,San Diego State,RECEIVING,Alex,Neutz,REC,3
+512026,12/21/2013,FBS,Buffalo,San Diego State,RECEIVING,Alex,Neutz,YDS,77
+512027,12/21/2013,FBS,Buffalo,San Diego State,RECEIVING,Alex,Neutz,TD,1
+512028,12/21/2013,FBS,Buffalo,San Diego State,RECEIVING,Alex,Neutz,LONG,51
+512029,12/21/2013,FBS,Buffalo,San Diego State,RECEIVING,Branden,Oliver,REC,3
+512030,12/21/2013,FBS,Buffalo,San Diego State,RECEIVING,Branden,Oliver,YDS,22
+512031,12/21/2013,FBS,Buffalo,San Diego State,RECEIVING,Branden,Oliver,TD,1
+512032,12/21/2013,FBS,Buffalo,San Diego State,RECEIVING,Branden,Oliver,LONG,10
+512033,12/21/2013,FBS,Buffalo,San Diego State,RECEIVING,Jimmy,Gordon,REC,1
+512034,12/21/2013,FBS,Buffalo,San Diego State,RECEIVING,Jimmy,Gordon,YDS,22
+512035,12/21/2013,FBS,Buffalo,San Diego State,RECEIVING,Jimmy,Gordon,TD,0
+512036,12/21/2013,FBS,Buffalo,San Diego State,RECEIVING,Jimmy,Gordon,LONG,22
+512037,12/21/2013,FBS,Buffalo,San Diego State,RECEIVING,Mason,Schreck,REC,1
+512038,12/21/2013,FBS,Buffalo,San Diego State,RECEIVING,Mason,Schreck,YDS,21
+512039,12/21/2013,FBS,Buffalo,San Diego State,RECEIVING,Mason,Schreck,TD,0
+512040,12/21/2013,FBS,Buffalo,San Diego State,RECEIVING,Mason,Schreck,LONG,21
+512041,12/21/2013,FBS,Buffalo,San Diego State,RECEIVING,Alex,Dennison,REC,1
+512042,12/21/2013,FBS,Buffalo,San Diego State,RECEIVING,Alex,Dennison,YDS,6
+512043,12/21/2013,FBS,Buffalo,San Diego State,RECEIVING,Alex,Dennison,TD,0
+512044,12/21/2013,FBS,Buffalo,San Diego State,RECEIVING,Alex,Dennison,LONG,6
+512045,12/21/2013,FBS,Buffalo,San Diego State,KICKING,Patrick,Clarke,FG-FGA,1/1
+512046,12/21/2013,FBS,Buffalo,San Diego State,KICKING,Patrick,Clarke,LONG,38
+512047,12/21/2013,FBS,Buffalo,San Diego State,KICKING,Patrick,Clarke,XP,3
+512048,12/21/2013,FBS,Buffalo,San Diego State,KICKING,Patrick,Clarke,PTS,6
+512049,12/21/2013,FBS,Buffalo,San Diego State,PUNTING,Tyler,Grassman,NO,3
+512050,12/21/2013,FBS,Buffalo,San Diego State,PUNTING,Tyler,Grassman,YDS,113
+512051,12/21/2013,FBS,Buffalo,San Diego State,PUNTING,Tyler,Grassman,AVG,37.7
+512052,12/21/2013,FBS,Buffalo,San Diego State,PUNTING,Tyler,Grassman,LONG,48
+512053,12/21/2013,FBS,Buffalo,San Diego State,PUNTING,,Team,NO,2
+512054,12/21/2013,FBS,Buffalo,San Diego State,PUNTING,,Team,YDS,58
+512055,12/21/2013,FBS,Buffalo,San Diego State,PUNTING,,Team,AVG,29.0
+512056,12/21/2013,FBS,Buffalo,San Diego State,PUNTING,,Team,LONG,35
+512057,12/21/2013,FBS,Buffalo,San Diego State,PUNT RETURNS,Boise,Ross,NO,1
+512058,12/21/2013,FBS,Buffalo,San Diego State,PUNT RETURNS,Boise,Ross,YDS,8
+512059,12/21/2013,FBS,Buffalo,San Diego State,PUNT RETURNS,Boise,Ross,AVG,8.0
+512060,12/21/2013,FBS,Buffalo,San Diego State,PUNT RETURNS,Boise,Ross,LONG,8
+512061,12/21/2013,FBS,Buffalo,San Diego State,KICK RETURNS,Boise,Ross,NO,3
+512062,12/21/2013,FBS,Buffalo,San Diego State,KICK RETURNS,Boise,Ross,YDS,67
+512063,12/21/2013,FBS,Buffalo,San Diego State,KICK RETURNS,Boise,Ross,AVG,22.3
+512064,12/21/2013,FBS,Buffalo,San Diego State,KICK RETURNS,Boise,Ross,LONG,25
+512065,12/21/2013,FBS,Buffalo,San Diego State,KICK RETURNS,Anthone,Taylor,NO,1
+512066,12/21/2013,FBS,Buffalo,San Diego State,KICK RETURNS,Anthone,Taylor,YDS,10
+512067,12/21/2013,FBS,Buffalo,San Diego State,KICK RETURNS,Anthone,Taylor,AVG,10.0
+512068,12/21/2013,FBS,Buffalo,San Diego State,KICK RETURNS,Anthone,Taylor,LONG,0
+512069,12/21/2013,FBS,San Diego State,Buffalo,RUSHING,Adam,Muema,ATT,28
+512070,12/21/2013,FBS,San Diego State,Buffalo,RUSHING,Adam,Muema,YDS,229
+512071,12/21/2013,FBS,San Diego State,Buffalo,RUSHING,Adam,Muema,TD,3
+512072,12/21/2013,FBS,San Diego State,Buffalo,RUSHING,Adam,Muema,LONG,30
+512073,12/21/2013,FBS,San Diego State,Buffalo,RUSHING,Quinn,Kaehler,ATT,3
+512074,12/21/2013,FBS,San Diego State,Buffalo,RUSHING,Quinn,Kaehler,YDS,8
+512075,12/21/2013,FBS,San Diego State,Buffalo,RUSHING,Quinn,Kaehler,TD,1
+512076,12/21/2013,FBS,San Diego State,Buffalo,RUSHING,Quinn,Kaehler,LONG,29
+512077,12/21/2013,FBS,San Diego State,Buffalo,RUSHING,Ezell,Ruffin,ATT,3
+512078,12/21/2013,FBS,San Diego State,Buffalo,RUSHING,Ezell,Ruffin,YDS,7
+512079,12/21/2013,FBS,San Diego State,Buffalo,RUSHING,Ezell,Ruffin,TD,0
+512080,12/21/2013,FBS,San Diego State,Buffalo,RUSHING,Ezell,Ruffin,LONG,8
+512081,12/21/2013,FBS,San Diego State,Buffalo,RUSHING,Chad,Young,ATT,4
+512082,12/21/2013,FBS,San Diego State,Buffalo,RUSHING,Chad,Young,YDS,6
+512083,12/21/2013,FBS,San Diego State,Buffalo,RUSHING,Chad,Young,TD,1
+512084,12/21/2013,FBS,San Diego State,Buffalo,RUSHING,Chad,Young,LONG,4
+512085,12/21/2013,FBS,San Diego State,Buffalo,RUSHING,Donnel,Pumphrey,ATT,2
+512086,12/21/2013,FBS,San Diego State,Buffalo,RUSHING,Donnel,Pumphrey,YDS,2
+512087,12/21/2013,FBS,San Diego State,Buffalo,RUSHING,Donnel,Pumphrey,TD,0
+512088,12/21/2013,FBS,San Diego State,Buffalo,RUSHING,Donnel,Pumphrey,LONG,2
+512089,12/21/2013,FBS,San Diego State,Buffalo,RUSHING,,Team,ATT,1
+512090,12/21/2013,FBS,San Diego State,Buffalo,RUSHING,,Team,YDS,-1
+512091,12/21/2013,FBS,San Diego State,Buffalo,RUSHING,,Team,TD,0
+512092,12/21/2013,FBS,San Diego State,Buffalo,RUSHING,,Team,LONG,0
+512093,12/21/2013,FBS,San Diego State,Buffalo,RUSHING,Chase,Price,ATT,2
+512094,12/21/2013,FBS,San Diego State,Buffalo,RUSHING,Chase,Price,YDS,-2
+512095,12/21/2013,FBS,San Diego State,Buffalo,RUSHING,Chase,Price,TD,0
+512096,12/21/2013,FBS,San Diego State,Buffalo,RUSHING,Chase,Price,LONG,0
+512097,12/21/2013,FBS,San Diego State,Buffalo,PASSING,Quinn,Kaehler,CP-ATT-INT,15-28-0
+512098,12/21/2013,FBS,San Diego State,Buffalo,PASSING,Quinn,Kaehler,YDS,211
+512099,12/21/2013,FBS,San Diego State,Buffalo,PASSING,Quinn,Kaehler,TD,2
+512100,12/21/2013,FBS,San Diego State,Buffalo,PASSING,Quinn,Kaehler,LONG,39
+512101,12/21/2013,FBS,San Diego State,Buffalo,PASSING,Jake,Bernards,CP-ATT-INT,0-1-0
+512102,12/21/2013,FBS,San Diego State,Buffalo,PASSING,Jake,Bernards,YDS,0
+512103,12/21/2013,FBS,San Diego State,Buffalo,PASSING,Jake,Bernards,TD,0
+512104,12/21/2013,FBS,San Diego State,Buffalo,PASSING,Jake,Bernards,LONG,0
+512105,12/21/2013,FBS,San Diego State,Buffalo,RECEIVING,Ezell,Ruffin,REC,5
+512106,12/21/2013,FBS,San Diego State,Buffalo,RECEIVING,Ezell,Ruffin,YDS,75
+512107,12/21/2013,FBS,San Diego State,Buffalo,RECEIVING,Ezell,Ruffin,TD,0
+512108,12/21/2013,FBS,San Diego State,Buffalo,RECEIVING,Ezell,Ruffin,LONG,39
+512109,12/21/2013,FBS,San Diego State,Buffalo,RECEIVING,Colin,Lockett,REC,3
+512110,12/21/2013,FBS,San Diego State,Buffalo,RECEIVING,Colin,Lockett,YDS,40
+512111,12/21/2013,FBS,San Diego State,Buffalo,RECEIVING,Colin,Lockett,TD,0
+512112,12/21/2013,FBS,San Diego State,Buffalo,RECEIVING,Colin,Lockett,LONG,19
+512113,12/21/2013,FBS,San Diego State,Buffalo,RECEIVING,Eric,Judge,REC,2
+512114,12/21/2013,FBS,San Diego State,Buffalo,RECEIVING,Eric,Judge,YDS,45
+512115,12/21/2013,FBS,San Diego State,Buffalo,RECEIVING,Eric,Judge,TD,0
+512116,12/21/2013,FBS,San Diego State,Buffalo,RECEIVING,Eric,Judge,LONG,37
+512117,12/21/2013,FBS,San Diego State,Buffalo,RECEIVING,Dylan,Denso,REC,1
+512118,12/21/2013,FBS,San Diego State,Buffalo,RECEIVING,Dylan,Denso,YDS,25
+512119,12/21/2013,FBS,San Diego State,Buffalo,RECEIVING,Dylan,Denso,TD,1
+512120,12/21/2013,FBS,San Diego State,Buffalo,RECEIVING,Dylan,Denso,LONG,25
+512121,12/21/2013,FBS,San Diego State,Buffalo,RECEIVING,Adam,Roberts,REC,1
+512122,12/21/2013,FBS,San Diego State,Buffalo,RECEIVING,Adam,Roberts,YDS,11
+512123,12/21/2013,FBS,San Diego State,Buffalo,RECEIVING,Adam,Roberts,TD,1
+512124,12/21/2013,FBS,San Diego State,Buffalo,RECEIVING,Adam,Roberts,LONG,11
+512125,12/21/2013,FBS,San Diego State,Buffalo,RECEIVING,Tim,Vizzi,REC,1
+512126,12/21/2013,FBS,San Diego State,Buffalo,RECEIVING,Tim,Vizzi,YDS,7
+512127,12/21/2013,FBS,San Diego State,Buffalo,RECEIVING,Tim,Vizzi,TD,0
+512128,12/21/2013,FBS,San Diego State,Buffalo,RECEIVING,Tim,Vizzi,LONG,7
+512129,12/21/2013,FBS,San Diego State,Buffalo,RECEIVING,Chad,Young,REC,1
+512130,12/21/2013,FBS,San Diego State,Buffalo,RECEIVING,Chad,Young,YDS,4
+512131,12/21/2013,FBS,San Diego State,Buffalo,RECEIVING,Chad,Young,TD,0
+512132,12/21/2013,FBS,San Diego State,Buffalo,RECEIVING,Chad,Young,LONG,4
+512133,12/21/2013,FBS,San Diego State,Buffalo,RECEIVING,Adam,Muema,REC,1
+512134,12/21/2013,FBS,San Diego State,Buffalo,RECEIVING,Adam,Muema,YDS,4
+512135,12/21/2013,FBS,San Diego State,Buffalo,RECEIVING,Adam,Muema,TD,0
+512136,12/21/2013,FBS,San Diego State,Buffalo,RECEIVING,Adam,Muema,LONG,4
+512137,12/21/2013,FBS,San Diego State,Buffalo,KICKING,Wes,Feer,FG-FGA,0/1
+512138,12/21/2013,FBS,San Diego State,Buffalo,KICKING,Wes,Feer,LONG,-
+512139,12/21/2013,FBS,San Diego State,Buffalo,KICKING,Wes,Feer,XP,7
+512140,12/21/2013,FBS,San Diego State,Buffalo,KICKING,Wes,Feer,PTS,7
+512141,12/21/2013,FBS,San Diego State,Buffalo,PUNTING,Joel,Alesi,NO,1
+512142,12/21/2013,FBS,San Diego State,Buffalo,PUNTING,Joel,Alesi,YDS,37
+512143,12/21/2013,FBS,San Diego State,Buffalo,PUNTING,Joel,Alesi,AVG,37.0
+512144,12/21/2013,FBS,San Diego State,Buffalo,PUNTING,Joel,Alesi,LONG,37
+512145,12/21/2013,FBS,San Diego State,Buffalo,PUNT RETURNS,Tim,Vizzi,NO,1
+512146,12/21/2013,FBS,San Diego State,Buffalo,PUNT RETURNS,Tim,Vizzi,YDS,14
+512147,12/21/2013,FBS,San Diego State,Buffalo,PUNT RETURNS,Tim,Vizzi,AVG,14.0
+512148,12/21/2013,FBS,San Diego State,Buffalo,PUNT RETURNS,Tim,Vizzi,LONG,14
+512149,12/21/2013,FBS,San Diego State,Buffalo,KICK RETURNS,Colin,Lockett,NO,1
+512150,12/21/2013,FBS,San Diego State,Buffalo,KICK RETURNS,Colin,Lockett,YDS,21
+512151,12/21/2013,FBS,San Diego State,Buffalo,KICK RETURNS,Colin,Lockett,AVG,21.0
+512152,12/21/2013,FBS,San Diego State,Buffalo,KICK RETURNS,Colin,Lockett,LONG,21
+512153,12/21/2013,FBS,San Diego State,Buffalo,KICK RETURNS,Brandon,Porter,NO,1
+512154,12/21/2013,FBS,San Diego State,Buffalo,KICK RETURNS,Brandon,Porter,YDS,7
+512155,12/21/2013,FBS,San Diego State,Buffalo,KICK RETURNS,Brandon,Porter,AVG,7.0
+512156,12/21/2013,FBS,San Diego State,Buffalo,KICK RETURNS,Brandon,Porter,LONG,7

@@ -1,0 +1,149 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+99001,10/12/2013,FBS,Texas A&M,Mississippi,RUSHING,Johnny,Manziel,ATT,19
+99002,10/12/2013,FBS,Texas A&M,Mississippi,RUSHING,Johnny,Manziel,YDS,124
+99003,10/12/2013,FBS,Texas A&M,Mississippi,RUSHING,Johnny,Manziel,TD,2
+99004,10/12/2013,FBS,Texas A&M,Mississippi,RUSHING,Johnny,Manziel,LONG,24
+99005,10/12/2013,FBS,Texas A&M,Mississippi,RUSHING,Ben,Malena,ATT,16
+99006,10/12/2013,FBS,Texas A&M,Mississippi,RUSHING,Ben,Malena,YDS,61
+99007,10/12/2013,FBS,Texas A&M,Mississippi,RUSHING,Ben,Malena,TD,1
+99008,10/12/2013,FBS,Texas A&M,Mississippi,RUSHING,Ben,Malena,LONG,18
+99009,10/12/2013,FBS,Texas A&M,Mississippi,RUSHING,Trey,Williams,ATT,7
+99010,10/12/2013,FBS,Texas A&M,Mississippi,RUSHING,Trey,Williams,YDS,50
+99011,10/12/2013,FBS,Texas A&M,Mississippi,RUSHING,Trey,Williams,TD,2
+99012,10/12/2013,FBS,Texas A&M,Mississippi,RUSHING,Trey,Williams,LONG,18
+99013,10/12/2013,FBS,Texas A&M,Mississippi,RUSHING,Tra,Carson,ATT,2
+99014,10/12/2013,FBS,Texas A&M,Mississippi,RUSHING,Tra,Carson,YDS,8
+99015,10/12/2013,FBS,Texas A&M,Mississippi,RUSHING,Tra,Carson,TD,0
+99016,10/12/2013,FBS,Texas A&M,Mississippi,RUSHING,Tra,Carson,LONG,8
+99017,10/12/2013,FBS,Texas A&M,Mississippi,RUSHING,,Team,ATT,1
+99018,10/12/2013,FBS,Texas A&M,Mississippi,RUSHING,,Team,YDS,-2
+99019,10/12/2013,FBS,Texas A&M,Mississippi,RUSHING,,Team,TD,0
+99020,10/12/2013,FBS,Texas A&M,Mississippi,RUSHING,,Team,LONG,0
+99021,10/12/2013,FBS,Texas A&M,Mississippi,PASSING,Johnny,Manziel,CP-ATT-INT,31-39-1
+99022,10/12/2013,FBS,Texas A&M,Mississippi,PASSING,Johnny,Manziel,YDS,346
+99023,10/12/2013,FBS,Texas A&M,Mississippi,PASSING,Johnny,Manziel,TD,0
+99024,10/12/2013,FBS,Texas A&M,Mississippi,PASSING,Johnny,Manziel,LONG,35
+99025,10/12/2013,FBS,Texas A&M,Mississippi,RECEIVING,Travis,Labhart,REC,8
+99026,10/12/2013,FBS,Texas A&M,Mississippi,RECEIVING,Travis,Labhart,YDS,97
+99027,10/12/2013,FBS,Texas A&M,Mississippi,RECEIVING,Travis,Labhart,TD,0
+99028,10/12/2013,FBS,Texas A&M,Mississippi,RECEIVING,Travis,Labhart,LONG,35
+99029,10/12/2013,FBS,Texas A&M,Mississippi,RECEIVING,Malcome,Kennedy,REC,7
+99030,10/12/2013,FBS,Texas A&M,Mississippi,RECEIVING,Malcome,Kennedy,YDS,89
+99031,10/12/2013,FBS,Texas A&M,Mississippi,RECEIVING,Malcome,Kennedy,TD,0
+99032,10/12/2013,FBS,Texas A&M,Mississippi,RECEIVING,Malcome,Kennedy,LONG,24
+99033,10/12/2013,FBS,Texas A&M,Mississippi,RECEIVING,Derel,Walker,REC,5
+99034,10/12/2013,FBS,Texas A&M,Mississippi,RECEIVING,Derel,Walker,YDS,72
+99035,10/12/2013,FBS,Texas A&M,Mississippi,RECEIVING,Derel,Walker,TD,0
+99036,10/12/2013,FBS,Texas A&M,Mississippi,RECEIVING,Derel,Walker,LONG,27
+99037,10/12/2013,FBS,Texas A&M,Mississippi,RECEIVING,Mike,Evans,REC,4
+99038,10/12/2013,FBS,Texas A&M,Mississippi,RECEIVING,Mike,Evans,YDS,46
+99039,10/12/2013,FBS,Texas A&M,Mississippi,RECEIVING,Mike,Evans,TD,0
+99040,10/12/2013,FBS,Texas A&M,Mississippi,RECEIVING,Mike,Evans,LONG,26
+99041,10/12/2013,FBS,Texas A&M,Mississippi,RECEIVING,Sabian,Holmes,REC,3
+99042,10/12/2013,FBS,Texas A&M,Mississippi,RECEIVING,Sabian,Holmes,YDS,27
+99043,10/12/2013,FBS,Texas A&M,Mississippi,RECEIVING,Sabian,Holmes,TD,0
+99044,10/12/2013,FBS,Texas A&M,Mississippi,RECEIVING,Sabian,Holmes,LONG,21
+99045,10/12/2013,FBS,Texas A&M,Mississippi,RECEIVING,Ben,Malena,REC,3
+99046,10/12/2013,FBS,Texas A&M,Mississippi,RECEIVING,Ben,Malena,YDS,6
+99047,10/12/2013,FBS,Texas A&M,Mississippi,RECEIVING,Ben,Malena,TD,0
+99048,10/12/2013,FBS,Texas A&M,Mississippi,RECEIVING,Ben,Malena,LONG,9
+99049,10/12/2013,FBS,Texas A&M,Mississippi,RECEIVING,Edward,Pope,REC,1
+99050,10/12/2013,FBS,Texas A&M,Mississippi,RECEIVING,Edward,Pope,YDS,9
+99051,10/12/2013,FBS,Texas A&M,Mississippi,RECEIVING,Edward,Pope,TD,0
+99052,10/12/2013,FBS,Texas A&M,Mississippi,RECEIVING,Edward,Pope,LONG,9
+99053,10/12/2013,FBS,Texas A&M,Mississippi,KICKING,Josh,Lambo,FG-FGA,2/3
+99054,10/12/2013,FBS,Texas A&M,Mississippi,KICKING,Josh,Lambo,LONG,37
+99055,10/12/2013,FBS,Texas A&M,Mississippi,KICKING,Josh,Lambo,XP,5
+99056,10/12/2013,FBS,Texas A&M,Mississippi,KICKING,Josh,Lambo,PTS,11
+99057,10/12/2013,FBS,Texas A&M,Mississippi,PUNTING,Drew,Kaser,NO,1
+99058,10/12/2013,FBS,Texas A&M,Mississippi,PUNTING,Drew,Kaser,YDS,37
+99059,10/12/2013,FBS,Texas A&M,Mississippi,PUNTING,Drew,Kaser,AVG,37.0
+99060,10/12/2013,FBS,Texas A&M,Mississippi,PUNTING,Drew,Kaser,LONG,37
+99061,10/12/2013,FBS,Texas A&M,Mississippi,PUNT RETURNS,De'Vante,Harris,NO,2
+99062,10/12/2013,FBS,Texas A&M,Mississippi,PUNT RETURNS,De'Vante,Harris,YDS,18
+99063,10/12/2013,FBS,Texas A&M,Mississippi,PUNT RETURNS,De'Vante,Harris,AVG,9.0
+99064,10/12/2013,FBS,Texas A&M,Mississippi,PUNT RETURNS,De'Vante,Harris,LONG,17
+99065,10/12/2013,FBS,Texas A&M,Mississippi,KICK RETURNS,Trey,Williams,NO,3
+99066,10/12/2013,FBS,Texas A&M,Mississippi,KICK RETURNS,Trey,Williams,YDS,82
+99067,10/12/2013,FBS,Texas A&M,Mississippi,KICK RETURNS,Trey,Williams,AVG,27.3
+99068,10/12/2013,FBS,Texas A&M,Mississippi,KICK RETURNS,Trey,Williams,LONG,36
+99069,10/12/2013,FBS,Mississippi,Texas A&M,RUSHING,Jaylen,Walton,ATT,7
+99070,10/12/2013,FBS,Mississippi,Texas A&M,RUSHING,Jaylen,Walton,YDS,41
+99071,10/12/2013,FBS,Mississippi,Texas A&M,RUSHING,Jaylen,Walton,TD,0
+99072,10/12/2013,FBS,Mississippi,Texas A&M,RUSHING,Jaylen,Walton,LONG,21
+99073,10/12/2013,FBS,Mississippi,Texas A&M,RUSHING,I'Tavius,Mathers,ATT,8
+99074,10/12/2013,FBS,Mississippi,Texas A&M,RUSHING,I'Tavius,Mathers,YDS,31
+99075,10/12/2013,FBS,Mississippi,Texas A&M,RUSHING,I'Tavius,Mathers,TD,0
+99076,10/12/2013,FBS,Mississippi,Texas A&M,RUSHING,I'Tavius,Mathers,LONG,9
+99077,10/12/2013,FBS,Mississippi,Texas A&M,RUSHING,Bo,Wallace,ATT,9
+99078,10/12/2013,FBS,Mississippi,Texas A&M,RUSHING,Bo,Wallace,YDS,27
+99079,10/12/2013,FBS,Mississippi,Texas A&M,RUSHING,Bo,Wallace,TD,0
+99080,10/12/2013,FBS,Mississippi,Texas A&M,RUSHING,Bo,Wallace,LONG,8
+99081,10/12/2013,FBS,Mississippi,Texas A&M,RUSHING,Barry,Brunetti,ATT,5
+99082,10/12/2013,FBS,Mississippi,Texas A&M,RUSHING,Barry,Brunetti,YDS,24
+99083,10/12/2013,FBS,Mississippi,Texas A&M,RUSHING,Barry,Brunetti,TD,0
+99084,10/12/2013,FBS,Mississippi,Texas A&M,RUSHING,Barry,Brunetti,LONG,13
+99085,10/12/2013,FBS,Mississippi,Texas A&M,RUSHING,Jeff,Scott,ATT,4
+99086,10/12/2013,FBS,Mississippi,Texas A&M,RUSHING,Jeff,Scott,YDS,10
+99087,10/12/2013,FBS,Mississippi,Texas A&M,RUSHING,Jeff,Scott,TD,0
+99088,10/12/2013,FBS,Mississippi,Texas A&M,RUSHING,Jeff,Scott,LONG,5
+99089,10/12/2013,FBS,Mississippi,Texas A&M,PASSING,Bo,Wallace,CP-ATT-INT,22-36-1
+99090,10/12/2013,FBS,Mississippi,Texas A&M,PASSING,Bo,Wallace,YDS,301
+99091,10/12/2013,FBS,Mississippi,Texas A&M,PASSING,Bo,Wallace,TD,3
+99092,10/12/2013,FBS,Mississippi,Texas A&M,PASSING,Bo,Wallace,LONG,70
+99093,10/12/2013,FBS,Mississippi,Texas A&M,PASSING,Barry,Brunetti,CP-ATT-INT,3-4-0
+99094,10/12/2013,FBS,Mississippi,Texas A&M,PASSING,Barry,Brunetti,YDS,28
+99095,10/12/2013,FBS,Mississippi,Texas A&M,PASSING,Barry,Brunetti,TD,2
+99096,10/12/2013,FBS,Mississippi,Texas A&M,PASSING,Barry,Brunetti,LONG,16
+99097,10/12/2013,FBS,Mississippi,Texas A&M,RECEIVING,Laquon,Treadwell,REC,8
+99098,10/12/2013,FBS,Mississippi,Texas A&M,RECEIVING,Laquon,Treadwell,YDS,77
+99099,10/12/2013,FBS,Mississippi,Texas A&M,RECEIVING,Laquon,Treadwell,TD,2
+99100,10/12/2013,FBS,Mississippi,Texas A&M,RECEIVING,Laquon,Treadwell,LONG,19
+99101,10/12/2013,FBS,Mississippi,Texas A&M,RECEIVING,Vince,Sanders,REC,3
+99102,10/12/2013,FBS,Mississippi,Texas A&M,RECEIVING,Vince,Sanders,YDS,90
+99103,10/12/2013,FBS,Mississippi,Texas A&M,RECEIVING,Vince,Sanders,TD,1
+99104,10/12/2013,FBS,Mississippi,Texas A&M,RECEIVING,Vince,Sanders,LONG,70
+99105,10/12/2013,FBS,Mississippi,Texas A&M,RECEIVING,Jaylen,Walton,REC,3
+99106,10/12/2013,FBS,Mississippi,Texas A&M,RECEIVING,Jaylen,Walton,YDS,61
+99107,10/12/2013,FBS,Mississippi,Texas A&M,RECEIVING,Jaylen,Walton,TD,1
+99108,10/12/2013,FBS,Mississippi,Texas A&M,RECEIVING,Jaylen,Walton,LONG,50
+99109,10/12/2013,FBS,Mississippi,Texas A&M,RECEIVING,Quincy,Adeboyejo,REC,3
+99110,10/12/2013,FBS,Mississippi,Texas A&M,RECEIVING,Quincy,Adeboyejo,YDS,33
+99111,10/12/2013,FBS,Mississippi,Texas A&M,RECEIVING,Quincy,Adeboyejo,TD,0
+99112,10/12/2013,FBS,Mississippi,Texas A&M,RECEIVING,Quincy,Adeboyejo,LONG,21
+99113,10/12/2013,FBS,Mississippi,Texas A&M,RECEIVING,Evan,Engram,REC,3
+99114,10/12/2013,FBS,Mississippi,Texas A&M,RECEIVING,Evan,Engram,YDS,26
+99115,10/12/2013,FBS,Mississippi,Texas A&M,RECEIVING,Evan,Engram,TD,1
+99116,10/12/2013,FBS,Mississippi,Texas A&M,RECEIVING,Evan,Engram,LONG,9
+99117,10/12/2013,FBS,Mississippi,Texas A&M,RECEIVING,Ja-Mes,Logan,REC,2
+99118,10/12/2013,FBS,Mississippi,Texas A&M,RECEIVING,Ja-Mes,Logan,YDS,16
+99119,10/12/2013,FBS,Mississippi,Texas A&M,RECEIVING,Ja-Mes,Logan,TD,0
+99120,10/12/2013,FBS,Mississippi,Texas A&M,RECEIVING,Ja-Mes,Logan,LONG,14
+99121,10/12/2013,FBS,Mississippi,Texas A&M,RECEIVING,I'Tavius,Mathers,REC,1
+99122,10/12/2013,FBS,Mississippi,Texas A&M,RECEIVING,I'Tavius,Mathers,YDS,21
+99123,10/12/2013,FBS,Mississippi,Texas A&M,RECEIVING,I'Tavius,Mathers,TD,0
+99124,10/12/2013,FBS,Mississippi,Texas A&M,RECEIVING,I'Tavius,Mathers,LONG,21
+99125,10/12/2013,FBS,Mississippi,Texas A&M,RECEIVING,Donte,Moncrief,REC,1
+99126,10/12/2013,FBS,Mississippi,Texas A&M,RECEIVING,Donte,Moncrief,YDS,3
+99127,10/12/2013,FBS,Mississippi,Texas A&M,RECEIVING,Donte,Moncrief,TD,0
+99128,10/12/2013,FBS,Mississippi,Texas A&M,RECEIVING,Donte,Moncrief,LONG,3
+99129,10/12/2013,FBS,Mississippi,Texas A&M,RECEIVING,Jordan,Holder,REC,1
+99130,10/12/2013,FBS,Mississippi,Texas A&M,RECEIVING,Jordan,Holder,YDS,2
+99131,10/12/2013,FBS,Mississippi,Texas A&M,RECEIVING,Jordan,Holder,TD,0
+99132,10/12/2013,FBS,Mississippi,Texas A&M,RECEIVING,Jordan,Holder,LONG,2
+99133,10/12/2013,FBS,Mississippi,Texas A&M,KICKING,Andrew,Ritter,FG-FGA,1/1
+99134,10/12/2013,FBS,Mississippi,Texas A&M,KICKING,Andrew,Ritter,LONG,42
+99135,10/12/2013,FBS,Mississippi,Texas A&M,KICKING,Andrew,Ritter,XP,5
+99136,10/12/2013,FBS,Mississippi,Texas A&M,KICKING,Andrew,Ritter,PTS,8
+99137,10/12/2013,FBS,Mississippi,Texas A&M,PUNTING,Tyler,Campbell,NO,4
+99138,10/12/2013,FBS,Mississippi,Texas A&M,PUNTING,Tyler,Campbell,YDS,163
+99139,10/12/2013,FBS,Mississippi,Texas A&M,PUNTING,Tyler,Campbell,AVG,40.8
+99140,10/12/2013,FBS,Mississippi,Texas A&M,PUNTING,Tyler,Campbell,LONG,48
+99141,10/12/2013,FBS,Mississippi,Texas A&M,KICK RETURNS,Jaylen,Walton,NO,3
+99142,10/12/2013,FBS,Mississippi,Texas A&M,KICK RETURNS,Jaylen,Walton,YDS,82
+99143,10/12/2013,FBS,Mississippi,Texas A&M,KICK RETURNS,Jaylen,Walton,AVG,27.3
+99144,10/12/2013,FBS,Mississippi,Texas A&M,KICK RETURNS,Jaylen,Walton,LONG,49
+99145,10/12/2013,FBS,Mississippi,Texas A&M,KICK RETURNS,Kailo,Moore,NO,1
+99146,10/12/2013,FBS,Mississippi,Texas A&M,KICK RETURNS,Kailo,Moore,YDS,15
+99147,10/12/2013,FBS,Mississippi,Texas A&M,KICK RETURNS,Kailo,Moore,AVG,15.0
+99148,10/12/2013,FBS,Mississippi,Texas A&M,KICK RETURNS,Kailo,Moore,LONG,15

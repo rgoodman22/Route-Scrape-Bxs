@@ -1,0 +1,145 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+301001,9/28/2013,FBS,Mississippi,Alabama,RUSHING,Jeff,Scott,ATT,8
+301002,9/28/2013,FBS,Mississippi,Alabama,RUSHING,Jeff,Scott,YDS,28
+301003,9/28/2013,FBS,Mississippi,Alabama,RUSHING,Jeff,Scott,TD,0
+301004,9/28/2013,FBS,Mississippi,Alabama,RUSHING,Jeff,Scott,LONG,9
+301005,9/28/2013,FBS,Mississippi,Alabama,RUSHING,I'Tavius,Mathers,ATT,2
+301006,9/28/2013,FBS,Mississippi,Alabama,RUSHING,I'Tavius,Mathers,YDS,8
+301007,9/28/2013,FBS,Mississippi,Alabama,RUSHING,I'Tavius,Mathers,TD,0
+301008,9/28/2013,FBS,Mississippi,Alabama,RUSHING,I'Tavius,Mathers,LONG,7
+301009,9/28/2013,FBS,Mississippi,Alabama,RUSHING,Bo,Wallace,ATT,12
+301010,9/28/2013,FBS,Mississippi,Alabama,RUSHING,Bo,Wallace,YDS,5
+301011,9/28/2013,FBS,Mississippi,Alabama,RUSHING,Bo,Wallace,TD,0
+301012,9/28/2013,FBS,Mississippi,Alabama,RUSHING,Bo,Wallace,LONG,11
+301013,9/28/2013,FBS,Mississippi,Alabama,RUSHING,Jaylen,Walton,ATT,2
+301014,9/28/2013,FBS,Mississippi,Alabama,RUSHING,Jaylen,Walton,YDS,4
+301015,9/28/2013,FBS,Mississippi,Alabama,RUSHING,Jaylen,Walton,TD,0
+301016,9/28/2013,FBS,Mississippi,Alabama,RUSHING,Jaylen,Walton,LONG,3
+301017,9/28/2013,FBS,Mississippi,Alabama,RUSHING,Laquon,Treadwell,ATT,1
+301018,9/28/2013,FBS,Mississippi,Alabama,RUSHING,Laquon,Treadwell,YDS,1
+301019,9/28/2013,FBS,Mississippi,Alabama,RUSHING,Laquon,Treadwell,TD,0
+301020,9/28/2013,FBS,Mississippi,Alabama,RUSHING,Laquon,Treadwell,LONG,1
+301021,9/28/2013,FBS,Mississippi,Alabama,PASSING,Bo,Wallace,CP-ATT-INT,17-31-0
+301022,9/28/2013,FBS,Mississippi,Alabama,PASSING,Bo,Wallace,YDS,159
+301023,9/28/2013,FBS,Mississippi,Alabama,PASSING,Bo,Wallace,TD,0
+301024,9/28/2013,FBS,Mississippi,Alabama,PASSING,Bo,Wallace,LONG,38
+301025,9/28/2013,FBS,Mississippi,Alabama,PASSING,Laquon,Treadwell,CP-ATT-INT,0-1-1
+301026,9/28/2013,FBS,Mississippi,Alabama,PASSING,Laquon,Treadwell,YDS,0
+301027,9/28/2013,FBS,Mississippi,Alabama,PASSING,Laquon,Treadwell,TD,0
+301028,9/28/2013,FBS,Mississippi,Alabama,PASSING,Laquon,Treadwell,LONG,0
+301029,9/28/2013,FBS,Mississippi,Alabama,RECEIVING,Donte,Moncrief,REC,6
+301030,9/28/2013,FBS,Mississippi,Alabama,RECEIVING,Donte,Moncrief,YDS,60
+301031,9/28/2013,FBS,Mississippi,Alabama,RECEIVING,Donte,Moncrief,TD,0
+301032,9/28/2013,FBS,Mississippi,Alabama,RECEIVING,Donte,Moncrief,LONG,26
+301033,9/28/2013,FBS,Mississippi,Alabama,RECEIVING,Laquon,Treadwell,REC,4
+301034,9/28/2013,FBS,Mississippi,Alabama,RECEIVING,Laquon,Treadwell,YDS,51
+301035,9/28/2013,FBS,Mississippi,Alabama,RECEIVING,Laquon,Treadwell,TD,0
+301036,9/28/2013,FBS,Mississippi,Alabama,RECEIVING,Laquon,Treadwell,LONG,38
+301037,9/28/2013,FBS,Mississippi,Alabama,RECEIVING,Jeff,Scott,REC,3
+301038,9/28/2013,FBS,Mississippi,Alabama,RECEIVING,Jeff,Scott,YDS,12
+301039,9/28/2013,FBS,Mississippi,Alabama,RECEIVING,Jeff,Scott,TD,0
+301040,9/28/2013,FBS,Mississippi,Alabama,RECEIVING,Jeff,Scott,LONG,12
+301041,9/28/2013,FBS,Mississippi,Alabama,RECEIVING,Ja-Mes,Logan,REC,2
+301042,9/28/2013,FBS,Mississippi,Alabama,RECEIVING,Ja-Mes,Logan,YDS,22
+301043,9/28/2013,FBS,Mississippi,Alabama,RECEIVING,Ja-Mes,Logan,TD,0
+301044,9/28/2013,FBS,Mississippi,Alabama,RECEIVING,Ja-Mes,Logan,LONG,12
+301045,9/28/2013,FBS,Mississippi,Alabama,RECEIVING,Evan,Engram,REC,2
+301046,9/28/2013,FBS,Mississippi,Alabama,RECEIVING,Evan,Engram,YDS,14
+301047,9/28/2013,FBS,Mississippi,Alabama,RECEIVING,Evan,Engram,TD,0
+301048,9/28/2013,FBS,Mississippi,Alabama,RECEIVING,Evan,Engram,LONG,9
+301049,9/28/2013,FBS,Mississippi,Alabama,PUNTING,Tyler,Campbell,NO,6
+301050,9/28/2013,FBS,Mississippi,Alabama,PUNTING,Tyler,Campbell,YDS,264
+301051,9/28/2013,FBS,Mississippi,Alabama,PUNTING,Tyler,Campbell,AVG,44.0
+301052,9/28/2013,FBS,Mississippi,Alabama,PUNTING,Tyler,Campbell,LONG,56
+301053,9/28/2013,FBS,Mississippi,Alabama,PUNT RETURNS,Jeff,Scott,NO,1
+301054,9/28/2013,FBS,Mississippi,Alabama,PUNT RETURNS,Jeff,Scott,YDS,4
+301055,9/28/2013,FBS,Mississippi,Alabama,PUNT RETURNS,Jeff,Scott,AVG,4.0
+301056,9/28/2013,FBS,Mississippi,Alabama,PUNT RETURNS,Jeff,Scott,LONG,4
+301057,9/28/2013,FBS,Mississippi,Alabama,KICK RETURNS,Kailo,Moore,NO,2
+301058,9/28/2013,FBS,Mississippi,Alabama,KICK RETURNS,Kailo,Moore,YDS,40
+301059,9/28/2013,FBS,Mississippi,Alabama,KICK RETURNS,Kailo,Moore,AVG,20.0
+301060,9/28/2013,FBS,Mississippi,Alabama,KICK RETURNS,Kailo,Moore,LONG,21
+301061,9/28/2013,FBS,Mississippi,Alabama,KICK RETURNS,Jaylen,Walton,NO,2
+301062,9/28/2013,FBS,Mississippi,Alabama,KICK RETURNS,Jaylen,Walton,YDS,32
+301063,9/28/2013,FBS,Mississippi,Alabama,KICK RETURNS,Jaylen,Walton,AVG,16.0
+301064,9/28/2013,FBS,Mississippi,Alabama,KICK RETURNS,Jaylen,Walton,LONG,19
+301065,9/28/2013,FBS,Alabama,Mississippi,RUSHING,T.J.,Yeldon,ATT,17
+301066,9/28/2013,FBS,Alabama,Mississippi,RUSHING,T.J.,Yeldon,YDS,121
+301067,9/28/2013,FBS,Alabama,Mississippi,RUSHING,T.J.,Yeldon,TD,1
+301068,9/28/2013,FBS,Alabama,Mississippi,RUSHING,T.J.,Yeldon,LONG,68
+301069,9/28/2013,FBS,Alabama,Mississippi,RUSHING,Kenyan,Drake,ATT,12
+301070,9/28/2013,FBS,Alabama,Mississippi,RUSHING,Kenyan,Drake,YDS,99
+301071,9/28/2013,FBS,Alabama,Mississippi,RUSHING,Kenyan,Drake,TD,1
+301072,9/28/2013,FBS,Alabama,Mississippi,RUSHING,Kenyan,Drake,LONG,50
+301073,9/28/2013,FBS,Alabama,Mississippi,RUSHING,Derrick,Henry,ATT,2
+301074,9/28/2013,FBS,Alabama,Mississippi,RUSHING,Derrick,Henry,YDS,18
+301075,9/28/2013,FBS,Alabama,Mississippi,RUSHING,Derrick,Henry,TD,0
+301076,9/28/2013,FBS,Alabama,Mississippi,RUSHING,Derrick,Henry,LONG,12
+301077,9/28/2013,FBS,Alabama,Mississippi,RUSHING,Jalston,Fowler,ATT,2
+301078,9/28/2013,FBS,Alabama,Mississippi,RUSHING,Jalston,Fowler,YDS,9
+301079,9/28/2013,FBS,Alabama,Mississippi,RUSHING,Jalston,Fowler,TD,0
+301080,9/28/2013,FBS,Alabama,Mississippi,RUSHING,Jalston,Fowler,LONG,5
+301081,9/28/2013,FBS,Alabama,Mississippi,RUSHING,Blake,Sims,ATT,2
+301082,9/28/2013,FBS,Alabama,Mississippi,RUSHING,Blake,Sims,YDS,5
+301083,9/28/2013,FBS,Alabama,Mississippi,RUSHING,Blake,Sims,TD,0
+301084,9/28/2013,FBS,Alabama,Mississippi,RUSHING,Blake,Sims,LONG,6
+301085,9/28/2013,FBS,Alabama,Mississippi,RUSHING,Altee,Tenpenny,ATT,1
+301086,9/28/2013,FBS,Alabama,Mississippi,RUSHING,Altee,Tenpenny,YDS,4
+301087,9/28/2013,FBS,Alabama,Mississippi,RUSHING,Altee,Tenpenny,TD,0
+301088,9/28/2013,FBS,Alabama,Mississippi,RUSHING,Altee,Tenpenny,LONG,4
+301089,9/28/2013,FBS,Alabama,Mississippi,RUSHING,AJ,McCarron,ATT,3
+301090,9/28/2013,FBS,Alabama,Mississippi,RUSHING,AJ,McCarron,YDS,1
+301091,9/28/2013,FBS,Alabama,Mississippi,RUSHING,AJ,McCarron,TD,0
+301092,9/28/2013,FBS,Alabama,Mississippi,RUSHING,AJ,McCarron,LONG,4
+301093,9/28/2013,FBS,Alabama,Mississippi,RUSHING,,Team,ATT,1
+301094,9/28/2013,FBS,Alabama,Mississippi,RUSHING,,Team,YDS,-3
+301095,9/28/2013,FBS,Alabama,Mississippi,RUSHING,,Team,TD,0
+301096,9/28/2013,FBS,Alabama,Mississippi,RUSHING,,Team,LONG,0
+301097,9/28/2013,FBS,Alabama,Mississippi,PASSING,AJ,McCarron,CP-ATT-INT,25-32-1
+301098,9/28/2013,FBS,Alabama,Mississippi,PASSING,AJ,McCarron,YDS,180
+301099,9/28/2013,FBS,Alabama,Mississippi,PASSING,AJ,McCarron,TD,0
+301100,9/28/2013,FBS,Alabama,Mississippi,PASSING,AJ,McCarron,LONG,17
+301101,9/28/2013,FBS,Alabama,Mississippi,RECEIVING,Christion,Jones,REC,5
+301102,9/28/2013,FBS,Alabama,Mississippi,RECEIVING,Christion,Jones,YDS,61
+301103,9/28/2013,FBS,Alabama,Mississippi,RECEIVING,Christion,Jones,TD,0
+301104,9/28/2013,FBS,Alabama,Mississippi,RECEIVING,Christion,Jones,LONG,17
+301105,9/28/2013,FBS,Alabama,Mississippi,RECEIVING,Kevin,Norwood,REC,5
+301106,9/28/2013,FBS,Alabama,Mississippi,RECEIVING,Kevin,Norwood,YDS,40
+301107,9/28/2013,FBS,Alabama,Mississippi,RECEIVING,Kevin,Norwood,TD,0
+301108,9/28/2013,FBS,Alabama,Mississippi,RECEIVING,Kevin,Norwood,LONG,10
+301109,9/28/2013,FBS,Alabama,Mississippi,RECEIVING,Kenny,Bell,REC,4
+301110,9/28/2013,FBS,Alabama,Mississippi,RECEIVING,Kenny,Bell,YDS,23
+301111,9/28/2013,FBS,Alabama,Mississippi,RECEIVING,Kenny,Bell,TD,0
+301112,9/28/2013,FBS,Alabama,Mississippi,RECEIVING,Kenny,Bell,LONG,7
+301113,9/28/2013,FBS,Alabama,Mississippi,RECEIVING,Amari,Cooper,REC,3
+301114,9/28/2013,FBS,Alabama,Mississippi,RECEIVING,Amari,Cooper,YDS,28
+301115,9/28/2013,FBS,Alabama,Mississippi,RECEIVING,Amari,Cooper,TD,0
+301116,9/28/2013,FBS,Alabama,Mississippi,RECEIVING,Amari,Cooper,LONG,12
+301117,9/28/2013,FBS,Alabama,Mississippi,RECEIVING,T.J.,Yeldon,REC,3
+301118,9/28/2013,FBS,Alabama,Mississippi,RECEIVING,T.J.,Yeldon,YDS,16
+301119,9/28/2013,FBS,Alabama,Mississippi,RECEIVING,T.J.,Yeldon,TD,0
+301120,9/28/2013,FBS,Alabama,Mississippi,RECEIVING,T.J.,Yeldon,LONG,13
+301121,9/28/2013,FBS,Alabama,Mississippi,RECEIVING,DeAndrew,White,REC,3
+301122,9/28/2013,FBS,Alabama,Mississippi,RECEIVING,DeAndrew,White,YDS,6
+301123,9/28/2013,FBS,Alabama,Mississippi,RECEIVING,DeAndrew,White,TD,0
+301124,9/28/2013,FBS,Alabama,Mississippi,RECEIVING,DeAndrew,White,LONG,3
+301125,9/28/2013,FBS,Alabama,Mississippi,RECEIVING,Brian,Vogler,REC,1
+301126,9/28/2013,FBS,Alabama,Mississippi,RECEIVING,Brian,Vogler,YDS,7
+301127,9/28/2013,FBS,Alabama,Mississippi,RECEIVING,Brian,Vogler,TD,0
+301128,9/28/2013,FBS,Alabama,Mississippi,RECEIVING,Brian,Vogler,LONG,6
+301129,9/28/2013,FBS,Alabama,Mississippi,RECEIVING,Kenyan,Drake,REC,1
+301130,9/28/2013,FBS,Alabama,Mississippi,RECEIVING,Kenyan,Drake,YDS,-1
+301131,9/28/2013,FBS,Alabama,Mississippi,RECEIVING,Kenyan,Drake,TD,0
+301132,9/28/2013,FBS,Alabama,Mississippi,RECEIVING,Kenyan,Drake,LONG,1
+301133,9/28/2013,FBS,Alabama,Mississippi,KICKING,Cade,Foster,FG-FGA,3/3
+301134,9/28/2013,FBS,Alabama,Mississippi,KICKING,Cade,Foster,LONG,53
+301135,9/28/2013,FBS,Alabama,Mississippi,KICKING,Cade,Foster,XP,2
+301136,9/28/2013,FBS,Alabama,Mississippi,KICKING,Cade,Foster,PTS,11
+301137,9/28/2013,FBS,Alabama,Mississippi,PUNTING,Cody,Mandell,NO,5
+301138,9/28/2013,FBS,Alabama,Mississippi,PUNTING,Cody,Mandell,YDS,231
+301139,9/28/2013,FBS,Alabama,Mississippi,PUNTING,Cody,Mandell,AVG,46.2
+301140,9/28/2013,FBS,Alabama,Mississippi,PUNTING,Cody,Mandell,LONG,56
+301141,9/28/2013,FBS,Alabama,Mississippi,PUNT RETURNS,Christion,Jones,NO,3
+301142,9/28/2013,FBS,Alabama,Mississippi,PUNT RETURNS,Christion,Jones,YDS,4
+301143,9/28/2013,FBS,Alabama,Mississippi,PUNT RETURNS,Christion,Jones,AVG,1.3
+301144,9/28/2013,FBS,Alabama,Mississippi,PUNT RETURNS,Christion,Jones,LONG,3

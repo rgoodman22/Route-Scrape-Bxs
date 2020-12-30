@@ -1,0 +1,169 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+123001,9/7/2013,FBS,Sam Houston St.,Texas A&M,RUSHING,Timothy,Flanders,ATT,19
+123002,9/7/2013,FBS,Sam Houston St.,Texas A&M,RUSHING,Timothy,Flanders,YDS,170
+123003,9/7/2013,FBS,Sam Houston St.,Texas A&M,RUSHING,Timothy,Flanders,TD,2
+123004,9/7/2013,FBS,Sam Houston St.,Texas A&M,RUSHING,Timothy,Flanders,LONG,68
+123005,9/7/2013,FBS,Sam Houston St.,Texas A&M,RUSHING,Keshawn,Hill,ATT,3
+123006,9/7/2013,FBS,Sam Houston St.,Texas A&M,RUSHING,Keshawn,Hill,YDS,42
+123007,9/7/2013,FBS,Sam Houston St.,Texas A&M,RUSHING,Keshawn,Hill,TD,0
+123008,9/7/2013,FBS,Sam Houston St.,Texas A&M,RUSHING,Keshawn,Hill,LONG,36
+123009,9/7/2013,FBS,Sam Houston St.,Texas A&M,RUSHING,Richard,Sincere,ATT,6
+123010,9/7/2013,FBS,Sam Houston St.,Texas A&M,RUSHING,Richard,Sincere,YDS,11
+123011,9/7/2013,FBS,Sam Houston St.,Texas A&M,RUSHING,Richard,Sincere,TD,0
+123012,9/7/2013,FBS,Sam Houston St.,Texas A&M,RUSHING,Richard,Sincere,LONG,15
+123013,9/7/2013,FBS,Sam Houston St.,Texas A&M,RUSHING,Ryan,Wilson,ATT,5
+123014,9/7/2013,FBS,Sam Houston St.,Texas A&M,RUSHING,Ryan,Wilson,YDS,10
+123015,9/7/2013,FBS,Sam Houston St.,Texas A&M,RUSHING,Ryan,Wilson,TD,0
+123016,9/7/2013,FBS,Sam Houston St.,Texas A&M,RUSHING,Ryan,Wilson,LONG,5
+123017,9/7/2013,FBS,Sam Houston St.,Texas A&M,RUSHING,Steven,Hicks,ATT,4
+123018,9/7/2013,FBS,Sam Houston St.,Texas A&M,RUSHING,Steven,Hicks,YDS,6
+123019,9/7/2013,FBS,Sam Houston St.,Texas A&M,RUSHING,Steven,Hicks,TD,0
+123020,9/7/2013,FBS,Sam Houston St.,Texas A&M,RUSHING,Steven,Hicks,LONG,6
+123021,9/7/2013,FBS,Sam Houston St.,Texas A&M,RUSHING,Brian,Bell,ATT,5
+123022,9/7/2013,FBS,Sam Houston St.,Texas A&M,RUSHING,Brian,Bell,YDS,1
+123023,9/7/2013,FBS,Sam Houston St.,Texas A&M,RUSHING,Brian,Bell,TD,0
+123024,9/7/2013,FBS,Sam Houston St.,Texas A&M,RUSHING,Brian,Bell,LONG,6
+123025,9/7/2013,FBS,Sam Houston St.,Texas A&M,PASSING,Brian,Bell,CP-ATT-INT,6-15-2
+123026,9/7/2013,FBS,Sam Houston St.,Texas A&M,PASSING,Brian,Bell,YDS,137
+123027,9/7/2013,FBS,Sam Houston St.,Texas A&M,PASSING,Brian,Bell,TD,2
+123028,9/7/2013,FBS,Sam Houston St.,Texas A&M,PASSING,Brian,Bell,LONG,75
+123029,9/7/2013,FBS,Sam Houston St.,Texas A&M,PASSING,Don,King,CP-ATT-INT,1-1-0
+123030,9/7/2013,FBS,Sam Houston St.,Texas A&M,PASSING,Don,King,YDS,13
+123031,9/7/2013,FBS,Sam Houston St.,Texas A&M,PASSING,Don,King,TD,0
+123032,9/7/2013,FBS,Sam Houston St.,Texas A&M,PASSING,Don,King,LONG,13
+123033,9/7/2013,FBS,Sam Houston St.,Texas A&M,RECEIVING,Torrance,Williams,REC,3
+123034,9/7/2013,FBS,Sam Houston St.,Texas A&M,RECEIVING,Torrance,Williams,YDS,86
+123035,9/7/2013,FBS,Sam Houston St.,Texas A&M,RECEIVING,Torrance,Williams,TD,1
+123036,9/7/2013,FBS,Sam Houston St.,Texas A&M,RECEIVING,Torrance,Williams,LONG,75
+123037,9/7/2013,FBS,Sam Houston St.,Texas A&M,RECEIVING,Timothy,Flanders,REC,1
+123038,9/7/2013,FBS,Sam Houston St.,Texas A&M,RECEIVING,Timothy,Flanders,YDS,33
+123039,9/7/2013,FBS,Sam Houston St.,Texas A&M,RECEIVING,Timothy,Flanders,TD,1
+123040,9/7/2013,FBS,Sam Houston St.,Texas A&M,RECEIVING,Timothy,Flanders,LONG,33
+123041,9/7/2013,FBS,Sam Houston St.,Texas A&M,RECEIVING,Shyon,Motlagh,REC,1
+123042,9/7/2013,FBS,Sam Houston St.,Texas A&M,RECEIVING,Shyon,Motlagh,YDS,13
+123043,9/7/2013,FBS,Sam Houston St.,Texas A&M,RECEIVING,Shyon,Motlagh,TD,0
+123044,9/7/2013,FBS,Sam Houston St.,Texas A&M,RECEIVING,Shyon,Motlagh,LONG,13
+123045,9/7/2013,FBS,Sam Houston St.,Texas A&M,RECEIVING,Chance,Nelson,REC,1
+123046,9/7/2013,FBS,Sam Houston St.,Texas A&M,RECEIVING,Chance,Nelson,YDS,11
+123047,9/7/2013,FBS,Sam Houston St.,Texas A&M,RECEIVING,Chance,Nelson,TD,0
+123048,9/7/2013,FBS,Sam Houston St.,Texas A&M,RECEIVING,Chance,Nelson,LONG,11
+123049,9/7/2013,FBS,Sam Houston St.,Texas A&M,RECEIVING,Richard,Sincere,REC,1
+123050,9/7/2013,FBS,Sam Houston St.,Texas A&M,RECEIVING,Richard,Sincere,YDS,7
+123051,9/7/2013,FBS,Sam Houston St.,Texas A&M,RECEIVING,Richard,Sincere,TD,0
+123052,9/7/2013,FBS,Sam Houston St.,Texas A&M,RECEIVING,Richard,Sincere,LONG,7
+123053,9/7/2013,FBS,Sam Houston St.,Texas A&M,KICKING,Luc,Swimberghe,FG-FGA,0/0
+123054,9/7/2013,FBS,Sam Houston St.,Texas A&M,KICKING,Luc,Swimberghe,LONG,-
+123055,9/7/2013,FBS,Sam Houston St.,Texas A&M,KICKING,Luc,Swimberghe,XP,4
+123056,9/7/2013,FBS,Sam Houston St.,Texas A&M,KICKING,Luc,Swimberghe,PTS,4
+123057,9/7/2013,FBS,Sam Houston St.,Texas A&M,PUNTING,Lachlan,Edwards,NO,4
+123058,9/7/2013,FBS,Sam Houston St.,Texas A&M,PUNTING,Lachlan,Edwards,YDS,142
+123059,9/7/2013,FBS,Sam Houston St.,Texas A&M,PUNTING,Lachlan,Edwards,AVG,35.5
+123060,9/7/2013,FBS,Sam Houston St.,Texas A&M,PUNTING,Lachlan,Edwards,LONG,49
+123061,9/7/2013,FBS,Sam Houston St.,Texas A&M,PUNTING,Brad,Dunavant,NO,3
+123062,9/7/2013,FBS,Sam Houston St.,Texas A&M,PUNTING,Brad,Dunavant,YDS,147
+123063,9/7/2013,FBS,Sam Houston St.,Texas A&M,PUNTING,Brad,Dunavant,AVG,49.0
+123064,9/7/2013,FBS,Sam Houston St.,Texas A&M,PUNTING,Brad,Dunavant,LONG,55
+123065,9/7/2013,FBS,Sam Houston St.,Texas A&M,KICK RETURNS,Keshawn,Hill,NO,1
+123066,9/7/2013,FBS,Sam Houston St.,Texas A&M,KICK RETURNS,Keshawn,Hill,YDS,17
+123067,9/7/2013,FBS,Sam Houston St.,Texas A&M,KICK RETURNS,Keshawn,Hill,AVG,17.0
+123068,9/7/2013,FBS,Sam Houston St.,Texas A&M,KICK RETURNS,Keshawn,Hill,LONG,17
+123069,9/7/2013,FBS,Texas A&M,Sam Houston St.,RUSHING,Ben,Malena,ATT,9
+123070,9/7/2013,FBS,Texas A&M,Sam Houston St.,RUSHING,Ben,Malena,YDS,68
+123071,9/7/2013,FBS,Texas A&M,Sam Houston St.,RUSHING,Ben,Malena,TD,1
+123072,9/7/2013,FBS,Texas A&M,Sam Houston St.,RUSHING,Ben,Malena,LONG,25
+123073,9/7/2013,FBS,Texas A&M,Sam Houston St.,RUSHING,Tra,Carson,ATT,9
+123074,9/7/2013,FBS,Texas A&M,Sam Houston St.,RUSHING,Tra,Carson,YDS,51
+123075,9/7/2013,FBS,Texas A&M,Sam Houston St.,RUSHING,Tra,Carson,TD,2
+123076,9/7/2013,FBS,Texas A&M,Sam Houston St.,RUSHING,Tra,Carson,LONG,16
+123077,9/7/2013,FBS,Texas A&M,Sam Houston St.,RUSHING,Brandon,Williams,ATT,7
+123078,9/7/2013,FBS,Texas A&M,Sam Houston St.,RUSHING,Brandon,Williams,YDS,37
+123079,9/7/2013,FBS,Texas A&M,Sam Houston St.,RUSHING,Brandon,Williams,TD,0
+123080,9/7/2013,FBS,Texas A&M,Sam Houston St.,RUSHING,Brandon,Williams,LONG,10
+123081,9/7/2013,FBS,Texas A&M,Sam Houston St.,RUSHING,Johnny,Manziel,ATT,7
+123082,9/7/2013,FBS,Texas A&M,Sam Houston St.,RUSHING,Johnny,Manziel,YDS,36
+123083,9/7/2013,FBS,Texas A&M,Sam Houston St.,RUSHING,Johnny,Manziel,TD,1
+123084,9/7/2013,FBS,Texas A&M,Sam Houston St.,RUSHING,Johnny,Manziel,LONG,12
+123085,9/7/2013,FBS,Texas A&M,Sam Houston St.,RUSHING,Brice,Dolezal,ATT,6
+123086,9/7/2013,FBS,Texas A&M,Sam Houston St.,RUSHING,Brice,Dolezal,YDS,22
+123087,9/7/2013,FBS,Texas A&M,Sam Houston St.,RUSHING,Brice,Dolezal,TD,0
+123088,9/7/2013,FBS,Texas A&M,Sam Houston St.,RUSHING,Brice,Dolezal,LONG,11
+123089,9/7/2013,FBS,Texas A&M,Sam Houston St.,RUSHING,Kenny,Hill,ATT,1
+123090,9/7/2013,FBS,Texas A&M,Sam Houston St.,RUSHING,Kenny,Hill,YDS,0
+123091,9/7/2013,FBS,Texas A&M,Sam Houston St.,RUSHING,Kenny,Hill,TD,0
+123092,9/7/2013,FBS,Texas A&M,Sam Houston St.,RUSHING,Kenny,Hill,LONG,0
+123093,9/7/2013,FBS,Texas A&M,Sam Houston St.,PASSING,Johnny,Manziel,CP-ATT-INT,29-42-1
+123094,9/7/2013,FBS,Texas A&M,Sam Houston St.,PASSING,Johnny,Manziel,YDS,426
+123095,9/7/2013,FBS,Texas A&M,Sam Houston St.,PASSING,Johnny,Manziel,TD,3
+123096,9/7/2013,FBS,Texas A&M,Sam Houston St.,PASSING,Johnny,Manziel,LONG,42
+123097,9/7/2013,FBS,Texas A&M,Sam Houston St.,PASSING,Kenny,Hill,CP-ATT-INT,5-6-0
+123098,9/7/2013,FBS,Texas A&M,Sam Houston St.,PASSING,Kenny,Hill,YDS,74
+123099,9/7/2013,FBS,Texas A&M,Sam Houston St.,PASSING,Kenny,Hill,TD,1
+123100,9/7/2013,FBS,Texas A&M,Sam Houston St.,PASSING,Kenny,Hill,LONG,38
+123101,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,Mike,Evans,REC,7
+123102,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,Mike,Evans,YDS,155
+123103,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,Mike,Evans,TD,0
+123104,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,Mike,Evans,LONG,42
+123105,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,Sabian,Holmes,REC,5
+123106,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,Sabian,Holmes,YDS,60
+123107,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,Sabian,Holmes,TD,1
+123108,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,Sabian,Holmes,LONG,27
+123109,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,Derel,Walker,REC,4
+123110,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,Derel,Walker,YDS,57
+123111,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,Derel,Walker,TD,0
+123112,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,Derel,Walker,LONG,32
+123113,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,Ben,Malena,REC,4
+123114,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,Ben,Malena,YDS,44
+123115,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,Ben,Malena,TD,0
+123116,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,Ben,Malena,LONG,23
+123117,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,LaQuvionte,Gonzalez,REC,3
+123118,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,LaQuvionte,Gonzalez,YDS,31
+123119,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,LaQuvionte,Gonzalez,TD,0
+123120,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,LaQuvionte,Gonzalez,LONG,13
+123121,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,Malcome,Kennedy,REC,3
+123122,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,Malcome,Kennedy,YDS,22
+123123,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,Malcome,Kennedy,TD,0
+123124,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,Malcome,Kennedy,LONG,15
+123125,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,Ja'Quay,Williams,REC,2
+123126,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,Ja'Quay,Williams,YDS,58
+123127,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,Ja'Quay,Williams,TD,1
+123128,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,Ja'Quay,Williams,LONG,38
+123129,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,Travis,Labhart,REC,2
+123130,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,Travis,Labhart,YDS,40
+123131,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,Travis,Labhart,TD,1
+123132,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,Travis,Labhart,LONG,26
+123133,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,Brandon,Williams,REC,2
+123134,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,Brandon,Williams,YDS,17
+123135,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,Brandon,Williams,TD,1
+123136,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,Brandon,Williams,LONG,10
+123137,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,LeKendrick,Williams,REC,1
+123138,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,LeKendrick,Williams,YDS,16
+123139,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,LeKendrick,Williams,TD,0
+123140,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,LeKendrick,Williams,LONG,16
+123141,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,Brice,Dolezal,REC,1
+123142,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,Brice,Dolezal,YDS,0
+123143,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,Brice,Dolezal,TD,0
+123144,9/7/2013,FBS,Texas A&M,Sam Houston St.,RECEIVING,Brice,Dolezal,LONG,0
+123145,9/7/2013,FBS,Texas A&M,Sam Houston St.,KICKING,Taylor,Bertolet,FG-FGA,1/2
+123146,9/7/2013,FBS,Texas A&M,Sam Houston St.,KICKING,Taylor,Bertolet,LONG,35
+123147,9/7/2013,FBS,Texas A&M,Sam Houston St.,KICKING,Taylor,Bertolet,XP,8
+123148,9/7/2013,FBS,Texas A&M,Sam Houston St.,KICKING,Taylor,Bertolet,PTS,11
+123149,9/7/2013,FBS,Texas A&M,Sam Houston St.,PUNTING,Drew,Kaser,NO,1
+123150,9/7/2013,FBS,Texas A&M,Sam Houston St.,PUNTING,Drew,Kaser,YDS,31
+123151,9/7/2013,FBS,Texas A&M,Sam Houston St.,PUNTING,Drew,Kaser,AVG,31.0
+123152,9/7/2013,FBS,Texas A&M,Sam Houston St.,PUNTING,Drew,Kaser,LONG,31
+123153,9/7/2013,FBS,Texas A&M,Sam Houston St.,PUNT RETURNS,Travis,Labhart,NO,2
+123154,9/7/2013,FBS,Texas A&M,Sam Houston St.,PUNT RETURNS,Travis,Labhart,YDS,30
+123155,9/7/2013,FBS,Texas A&M,Sam Houston St.,PUNT RETURNS,Travis,Labhart,AVG,15.0
+123156,9/7/2013,FBS,Texas A&M,Sam Houston St.,PUNT RETURNS,Travis,Labhart,LONG,18
+123157,9/7/2013,FBS,Texas A&M,Sam Houston St.,PUNT RETURNS,Sabian,Holmes,NO,1
+123158,9/7/2013,FBS,Texas A&M,Sam Houston St.,PUNT RETURNS,Sabian,Holmes,YDS,10
+123159,9/7/2013,FBS,Texas A&M,Sam Houston St.,PUNT RETURNS,Sabian,Holmes,AVG,10.0
+123160,9/7/2013,FBS,Texas A&M,Sam Houston St.,PUNT RETURNS,Sabian,Holmes,LONG,10
+123161,9/7/2013,FBS,Texas A&M,Sam Houston St.,KICK RETURNS,LaQuvionte,Gonzalez,NO,3
+123162,9/7/2013,FBS,Texas A&M,Sam Houston St.,KICK RETURNS,LaQuvionte,Gonzalez,YDS,67
+123163,9/7/2013,FBS,Texas A&M,Sam Houston St.,KICK RETURNS,LaQuvionte,Gonzalez,AVG,22.3
+123164,9/7/2013,FBS,Texas A&M,Sam Houston St.,KICK RETURNS,LaQuvionte,Gonzalez,LONG,28
+123165,9/7/2013,FBS,Texas A&M,Sam Houston St.,KICK RETURNS,Ben,Malena,NO,1
+123166,9/7/2013,FBS,Texas A&M,Sam Houston St.,KICK RETURNS,Ben,Malena,YDS,9
+123167,9/7/2013,FBS,Texas A&M,Sam Houston St.,KICK RETURNS,Ben,Malena,AVG,9.0
+123168,9/7/2013,FBS,Texas A&M,Sam Houston St.,KICK RETURNS,Ben,Malena,LONG,9

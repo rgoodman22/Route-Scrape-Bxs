@@ -1,0 +1,165 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+527001,12/30/2013,FBS,Mississippi,Georgia Tech,RUSHING,Bo,Wallace,ATT,13
+527002,12/30/2013,FBS,Mississippi,Georgia Tech,RUSHING,Bo,Wallace,YDS,86
+527003,12/30/2013,FBS,Mississippi,Georgia Tech,RUSHING,Bo,Wallace,TD,2
+527004,12/30/2013,FBS,Mississippi,Georgia Tech,RUSHING,Bo,Wallace,LONG,26
+527005,12/30/2013,FBS,Mississippi,Georgia Tech,RUSHING,I'Tavius,Mathers,ATT,13
+527006,12/30/2013,FBS,Mississippi,Georgia Tech,RUSHING,I'Tavius,Mathers,YDS,58
+527007,12/30/2013,FBS,Mississippi,Georgia Tech,RUSHING,I'Tavius,Mathers,TD,0
+527008,12/30/2013,FBS,Mississippi,Georgia Tech,RUSHING,I'Tavius,Mathers,LONG,15
+527009,12/30/2013,FBS,Mississippi,Georgia Tech,RUSHING,Jaylen,Walton,ATT,16
+527010,12/30/2013,FBS,Mississippi,Georgia Tech,RUSHING,Jaylen,Walton,YDS,53
+527011,12/30/2013,FBS,Mississippi,Georgia Tech,RUSHING,Jaylen,Walton,TD,0
+527012,12/30/2013,FBS,Mississippi,Georgia Tech,RUSHING,Jaylen,Walton,LONG,13
+527013,12/30/2013,FBS,Mississippi,Georgia Tech,RUSHING,Barry,Brunetti,ATT,4
+527014,12/30/2013,FBS,Mississippi,Georgia Tech,RUSHING,Barry,Brunetti,YDS,31
+527015,12/30/2013,FBS,Mississippi,Georgia Tech,RUSHING,Barry,Brunetti,TD,0
+527016,12/30/2013,FBS,Mississippi,Georgia Tech,RUSHING,Barry,Brunetti,LONG,20
+527017,12/30/2013,FBS,Mississippi,Georgia Tech,RUSHING,,Team,ATT,1
+527018,12/30/2013,FBS,Mississippi,Georgia Tech,RUSHING,,Team,YDS,-1
+527019,12/30/2013,FBS,Mississippi,Georgia Tech,RUSHING,,Team,TD,0
+527020,12/30/2013,FBS,Mississippi,Georgia Tech,RUSHING,,Team,LONG,0
+527021,12/30/2013,FBS,Mississippi,Georgia Tech,RUSHING,Laquon,Treadwell,ATT,1
+527022,12/30/2013,FBS,Mississippi,Georgia Tech,RUSHING,Laquon,Treadwell,YDS,-6
+527023,12/30/2013,FBS,Mississippi,Georgia Tech,RUSHING,Laquon,Treadwell,TD,0
+527024,12/30/2013,FBS,Mississippi,Georgia Tech,RUSHING,Laquon,Treadwell,LONG,0
+527025,12/30/2013,FBS,Mississippi,Georgia Tech,PASSING,Bo,Wallace,CP-ATT-INT,22-32-1
+527026,12/30/2013,FBS,Mississippi,Georgia Tech,PASSING,Bo,Wallace,YDS,256
+527027,12/30/2013,FBS,Mississippi,Georgia Tech,PASSING,Bo,Wallace,TD,1
+527028,12/30/2013,FBS,Mississippi,Georgia Tech,PASSING,Bo,Wallace,LONG,52
+527029,12/30/2013,FBS,Mississippi,Georgia Tech,PASSING,Barry,Brunetti,CP-ATT-INT,1-3-0
+527030,12/30/2013,FBS,Mississippi,Georgia Tech,PASSING,Barry,Brunetti,YDS,0
+527031,12/30/2013,FBS,Mississippi,Georgia Tech,PASSING,Barry,Brunetti,TD,0
+527032,12/30/2013,FBS,Mississippi,Georgia Tech,PASSING,Barry,Brunetti,LONG,0
+527033,12/30/2013,FBS,Mississippi,Georgia Tech,PASSING,,Team,CP-ATT-INT,0-1-0
+527034,12/30/2013,FBS,Mississippi,Georgia Tech,PASSING,,Team,YDS,0
+527035,12/30/2013,FBS,Mississippi,Georgia Tech,PASSING,,Team,TD,0
+527036,12/30/2013,FBS,Mississippi,Georgia Tech,PASSING,,Team,LONG,0
+527037,12/30/2013,FBS,Mississippi,Georgia Tech,RECEIVING,Donte,Moncrief,REC,6
+527038,12/30/2013,FBS,Mississippi,Georgia Tech,RECEIVING,Donte,Moncrief,YDS,113
+527039,12/30/2013,FBS,Mississippi,Georgia Tech,RECEIVING,Donte,Moncrief,TD,1
+527040,12/30/2013,FBS,Mississippi,Georgia Tech,RECEIVING,Donte,Moncrief,LONG,52
+527041,12/30/2013,FBS,Mississippi,Georgia Tech,RECEIVING,Laquon,Treadwell,REC,5
+527042,12/30/2013,FBS,Mississippi,Georgia Tech,RECEIVING,Laquon,Treadwell,YDS,51
+527043,12/30/2013,FBS,Mississippi,Georgia Tech,RECEIVING,Laquon,Treadwell,TD,0
+527044,12/30/2013,FBS,Mississippi,Georgia Tech,RECEIVING,Laquon,Treadwell,LONG,27
+527045,12/30/2013,FBS,Mississippi,Georgia Tech,RECEIVING,I'Tavius,Mathers,REC,5
+527046,12/30/2013,FBS,Mississippi,Georgia Tech,RECEIVING,I'Tavius,Mathers,YDS,49
+527047,12/30/2013,FBS,Mississippi,Georgia Tech,RECEIVING,I'Tavius,Mathers,TD,0
+527048,12/30/2013,FBS,Mississippi,Georgia Tech,RECEIVING,I'Tavius,Mathers,LONG,14
+527049,12/30/2013,FBS,Mississippi,Georgia Tech,RECEIVING,Jordan,Holder,REC,2
+527050,12/30/2013,FBS,Mississippi,Georgia Tech,RECEIVING,Jordan,Holder,YDS,16
+527051,12/30/2013,FBS,Mississippi,Georgia Tech,RECEIVING,Jordan,Holder,TD,0
+527052,12/30/2013,FBS,Mississippi,Georgia Tech,RECEIVING,Jordan,Holder,LONG,11
+527053,12/30/2013,FBS,Mississippi,Georgia Tech,RECEIVING,Jaylen,Walton,REC,2
+527054,12/30/2013,FBS,Mississippi,Georgia Tech,RECEIVING,Jaylen,Walton,YDS,3
+527055,12/30/2013,FBS,Mississippi,Georgia Tech,RECEIVING,Jaylen,Walton,TD,0
+527056,12/30/2013,FBS,Mississippi,Georgia Tech,RECEIVING,Jaylen,Walton,LONG,6
+527057,12/30/2013,FBS,Mississippi,Georgia Tech,RECEIVING,Quincy,Adeboyejo,REC,1
+527058,12/30/2013,FBS,Mississippi,Georgia Tech,RECEIVING,Quincy,Adeboyejo,YDS,16
+527059,12/30/2013,FBS,Mississippi,Georgia Tech,RECEIVING,Quincy,Adeboyejo,TD,0
+527060,12/30/2013,FBS,Mississippi,Georgia Tech,RECEIVING,Quincy,Adeboyejo,LONG,16
+527061,12/30/2013,FBS,Mississippi,Georgia Tech,RECEIVING,Cody,Core,REC,1
+527062,12/30/2013,FBS,Mississippi,Georgia Tech,RECEIVING,Cody,Core,YDS,5
+527063,12/30/2013,FBS,Mississippi,Georgia Tech,RECEIVING,Cody,Core,TD,0
+527064,12/30/2013,FBS,Mississippi,Georgia Tech,RECEIVING,Cody,Core,LONG,5
+527065,12/30/2013,FBS,Mississippi,Georgia Tech,RECEIVING,Evan,Engram,REC,1
+527066,12/30/2013,FBS,Mississippi,Georgia Tech,RECEIVING,Evan,Engram,YDS,3
+527067,12/30/2013,FBS,Mississippi,Georgia Tech,RECEIVING,Evan,Engram,TD,0
+527068,12/30/2013,FBS,Mississippi,Georgia Tech,RECEIVING,Evan,Engram,LONG,3
+527069,12/30/2013,FBS,Mississippi,Georgia Tech,KICKING,Andrew,Ritter,FG-FGA,1/3
+527070,12/30/2013,FBS,Mississippi,Georgia Tech,KICKING,Andrew,Ritter,LONG,29
+527071,12/30/2013,FBS,Mississippi,Georgia Tech,KICKING,Andrew,Ritter,XP,2
+527072,12/30/2013,FBS,Mississippi,Georgia Tech,KICKING,Andrew,Ritter,PTS,5
+527073,12/30/2013,FBS,Mississippi,Georgia Tech,PUNTING,Tyler,Campbell,NO,5
+527074,12/30/2013,FBS,Mississippi,Georgia Tech,PUNTING,Tyler,Campbell,YDS,212
+527075,12/30/2013,FBS,Mississippi,Georgia Tech,PUNTING,Tyler,Campbell,AVG,42.4
+527076,12/30/2013,FBS,Mississippi,Georgia Tech,PUNTING,Tyler,Campbell,LONG,68
+527077,12/30/2013,FBS,Mississippi,Georgia Tech,PUNT RETURNS,Jordan,Holder,NO,3
+527078,12/30/2013,FBS,Mississippi,Georgia Tech,PUNT RETURNS,Jordan,Holder,YDS,14
+527079,12/30/2013,FBS,Mississippi,Georgia Tech,PUNT RETURNS,Jordan,Holder,AVG,4.7
+527080,12/30/2013,FBS,Mississippi,Georgia Tech,PUNT RETURNS,Jordan,Holder,LONG,15
+527081,12/30/2013,FBS,Mississippi,Georgia Tech,KICK RETURNS,Jaylen,Walton,NO,3
+527082,12/30/2013,FBS,Mississippi,Georgia Tech,KICK RETURNS,Jaylen,Walton,YDS,44
+527083,12/30/2013,FBS,Mississippi,Georgia Tech,KICK RETURNS,Jaylen,Walton,AVG,14.7
+527084,12/30/2013,FBS,Mississippi,Georgia Tech,KICK RETURNS,Jaylen,Walton,LONG,22
+527085,12/30/2013,FBS,Georgia Tech,Mississippi,RUSHING,Robert,Godhigh,ATT,10
+527086,12/30/2013,FBS,Georgia Tech,Mississippi,RUSHING,Robert,Godhigh,YDS,50
+527087,12/30/2013,FBS,Georgia Tech,Mississippi,RUSHING,Robert,Godhigh,TD,1
+527088,12/30/2013,FBS,Georgia Tech,Mississippi,RUSHING,Robert,Godhigh,LONG,17
+527089,12/30/2013,FBS,Georgia Tech,Mississippi,RUSHING,David,Sims,ATT,10
+527090,12/30/2013,FBS,Georgia Tech,Mississippi,RUSHING,David,Sims,YDS,38
+527091,12/30/2013,FBS,Georgia Tech,Mississippi,RUSHING,David,Sims,TD,0
+527092,12/30/2013,FBS,Georgia Tech,Mississippi,RUSHING,David,Sims,LONG,7
+527093,12/30/2013,FBS,Georgia Tech,Mississippi,RUSHING,Zach,Laskey,ATT,5
+527094,12/30/2013,FBS,Georgia Tech,Mississippi,RUSHING,Zach,Laskey,YDS,27
+527095,12/30/2013,FBS,Georgia Tech,Mississippi,RUSHING,Zach,Laskey,TD,0
+527096,12/30/2013,FBS,Georgia Tech,Mississippi,RUSHING,Zach,Laskey,LONG,14
+527097,12/30/2013,FBS,Georgia Tech,Mississippi,RUSHING,Vad,Lee,ATT,16
+527098,12/30/2013,FBS,Georgia Tech,Mississippi,RUSHING,Vad,Lee,YDS,24
+527099,12/30/2013,FBS,Georgia Tech,Mississippi,RUSHING,Vad,Lee,TD,0
+527100,12/30/2013,FBS,Georgia Tech,Mississippi,RUSHING,Vad,Lee,LONG,13
+527101,12/30/2013,FBS,Georgia Tech,Mississippi,RUSHING,Synjyn,Days,ATT,4
+527102,12/30/2013,FBS,Georgia Tech,Mississippi,RUSHING,Synjyn,Days,YDS,24
+527103,12/30/2013,FBS,Georgia Tech,Mississippi,RUSHING,Synjyn,Days,TD,0
+527104,12/30/2013,FBS,Georgia Tech,Mississippi,RUSHING,Synjyn,Days,LONG,14
+527105,12/30/2013,FBS,Georgia Tech,Mississippi,RUSHING,Deon,Hill,ATT,1
+527106,12/30/2013,FBS,Georgia Tech,Mississippi,RUSHING,Deon,Hill,YDS,4
+527107,12/30/2013,FBS,Georgia Tech,Mississippi,RUSHING,Deon,Hill,TD,0
+527108,12/30/2013,FBS,Georgia Tech,Mississippi,RUSHING,Deon,Hill,LONG,4
+527109,12/30/2013,FBS,Georgia Tech,Mississippi,RUSHING,Justin,Thomas,ATT,1
+527110,12/30/2013,FBS,Georgia Tech,Mississippi,RUSHING,Justin,Thomas,YDS,1
+527111,12/30/2013,FBS,Georgia Tech,Mississippi,RUSHING,Justin,Thomas,TD,0
+527112,12/30/2013,FBS,Georgia Tech,Mississippi,RUSHING,Justin,Thomas,LONG,1
+527113,12/30/2013,FBS,Georgia Tech,Mississippi,RUSHING,Sean,Poole,ATT,1
+527114,12/30/2013,FBS,Georgia Tech,Mississippi,RUSHING,Sean,Poole,YDS,-2
+527115,12/30/2013,FBS,Georgia Tech,Mississippi,RUSHING,Sean,Poole,TD,0
+527116,12/30/2013,FBS,Georgia Tech,Mississippi,RUSHING,Sean,Poole,LONG,0
+527117,12/30/2013,FBS,Georgia Tech,Mississippi,RUSHING,Corey,Dennis,ATT,1
+527118,12/30/2013,FBS,Georgia Tech,Mississippi,RUSHING,Corey,Dennis,YDS,-15
+527119,12/30/2013,FBS,Georgia Tech,Mississippi,RUSHING,Corey,Dennis,TD,0
+527120,12/30/2013,FBS,Georgia Tech,Mississippi,RUSHING,Corey,Dennis,LONG,0
+527121,12/30/2013,FBS,Georgia Tech,Mississippi,PASSING,Vad,Lee,CP-ATT-INT,5-17-1
+527122,12/30/2013,FBS,Georgia Tech,Mississippi,PASSING,Vad,Lee,YDS,147
+527123,12/30/2013,FBS,Georgia Tech,Mississippi,PASSING,Vad,Lee,TD,1
+527124,12/30/2013,FBS,Georgia Tech,Mississippi,PASSING,Vad,Lee,LONG,72
+527125,12/30/2013,FBS,Georgia Tech,Mississippi,RECEIVING,Darren,Waller,REC,2
+527126,12/30/2013,FBS,Georgia Tech,Mississippi,RECEIVING,Darren,Waller,YDS,79
+527127,12/30/2013,FBS,Georgia Tech,Mississippi,RECEIVING,Darren,Waller,TD,1
+527128,12/30/2013,FBS,Georgia Tech,Mississippi,RECEIVING,Darren,Waller,LONG,72
+527129,12/30/2013,FBS,Georgia Tech,Mississippi,RECEIVING,Robert,Godhigh,REC,2
+527130,12/30/2013,FBS,Georgia Tech,Mississippi,RECEIVING,Robert,Godhigh,YDS,51
+527131,12/30/2013,FBS,Georgia Tech,Mississippi,RECEIVING,Robert,Godhigh,TD,0
+527132,12/30/2013,FBS,Georgia Tech,Mississippi,RECEIVING,Robert,Godhigh,LONG,39
+527133,12/30/2013,FBS,Georgia Tech,Mississippi,RECEIVING,Synjyn,Days,REC,1
+527134,12/30/2013,FBS,Georgia Tech,Mississippi,RECEIVING,Synjyn,Days,YDS,17
+527135,12/30/2013,FBS,Georgia Tech,Mississippi,RECEIVING,Synjyn,Days,TD,0
+527136,12/30/2013,FBS,Georgia Tech,Mississippi,RECEIVING,Synjyn,Days,LONG,17
+527137,12/30/2013,FBS,Georgia Tech,Mississippi,KICKING,Harrison,Butker,FG-FGA,1/1
+527138,12/30/2013,FBS,Georgia Tech,Mississippi,KICKING,Harrison,Butker,LONG,38
+527139,12/30/2013,FBS,Georgia Tech,Mississippi,KICKING,Harrison,Butker,XP,2
+527140,12/30/2013,FBS,Georgia Tech,Mississippi,KICKING,Harrison,Butker,PTS,5
+527141,12/30/2013,FBS,Georgia Tech,Mississippi,PUNTING,Sean,Poole,NO,6
+527142,12/30/2013,FBS,Georgia Tech,Mississippi,PUNTING,Sean,Poole,YDS,231
+527143,12/30/2013,FBS,Georgia Tech,Mississippi,PUNTING,Sean,Poole,AVG,38.5
+527144,12/30/2013,FBS,Georgia Tech,Mississippi,PUNTING,Sean,Poole,LONG,47
+527145,12/30/2013,FBS,Georgia Tech,Mississippi,PUNT RETURNS,DeAndre,Smelter,NO,1
+527146,12/30/2013,FBS,Georgia Tech,Mississippi,PUNT RETURNS,DeAndre,Smelter,YDS,4
+527147,12/30/2013,FBS,Georgia Tech,Mississippi,PUNT RETURNS,DeAndre,Smelter,AVG,4.0
+527148,12/30/2013,FBS,Georgia Tech,Mississippi,PUNT RETURNS,DeAndre,Smelter,LONG,4
+527149,12/30/2013,FBS,Georgia Tech,Mississippi,KICK RETURNS,Jemea,Thomas,NO,2
+527150,12/30/2013,FBS,Georgia Tech,Mississippi,KICK RETURNS,Jemea,Thomas,YDS,47
+527151,12/30/2013,FBS,Georgia Tech,Mississippi,KICK RETURNS,Jemea,Thomas,AVG,23.5
+527152,12/30/2013,FBS,Georgia Tech,Mississippi,KICK RETURNS,Jemea,Thomas,LONG,29
+527153,12/30/2013,FBS,Georgia Tech,Mississippi,KICK RETURNS,Dennis,Andrews,NO,1
+527154,12/30/2013,FBS,Georgia Tech,Mississippi,KICK RETURNS,Dennis,Andrews,YDS,44
+527155,12/30/2013,FBS,Georgia Tech,Mississippi,KICK RETURNS,Dennis,Andrews,AVG,44.0
+527156,12/30/2013,FBS,Georgia Tech,Mississippi,KICK RETURNS,Dennis,Andrews,LONG,44
+527157,12/30/2013,FBS,Georgia Tech,Mississippi,KICK RETURNS,Chris,Milton,NO,1
+527158,12/30/2013,FBS,Georgia Tech,Mississippi,KICK RETURNS,Chris,Milton,YDS,15
+527159,12/30/2013,FBS,Georgia Tech,Mississippi,KICK RETURNS,Chris,Milton,AVG,15.0
+527160,12/30/2013,FBS,Georgia Tech,Mississippi,KICK RETURNS,Chris,Milton,LONG,15
+527161,12/30/2013,FBS,Georgia Tech,Mississippi,KICK RETURNS,David,Sims,NO,1
+527162,12/30/2013,FBS,Georgia Tech,Mississippi,KICK RETURNS,David,Sims,YDS,14
+527163,12/30/2013,FBS,Georgia Tech,Mississippi,KICK RETURNS,David,Sims,AVG,14.0
+527164,12/30/2013,FBS,Georgia Tech,Mississippi,KICK RETURNS,David,Sims,LONG,14

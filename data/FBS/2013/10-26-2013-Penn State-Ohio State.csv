@@ -1,0 +1,145 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+195001,10/26/2013,FBS,Penn State,Ohio State,RUSHING,Bill,Belton,ATT,22
+195002,10/26/2013,FBS,Penn State,Ohio State,RUSHING,Bill,Belton,YDS,98
+195003,10/26/2013,FBS,Penn State,Ohio State,RUSHING,Bill,Belton,TD,0
+195004,10/26/2013,FBS,Penn State,Ohio State,RUSHING,Bill,Belton,LONG,11
+195005,10/26/2013,FBS,Penn State,Ohio State,RUSHING,Akeel,Lynch,ATT,11
+195006,10/26/2013,FBS,Penn State,Ohio State,RUSHING,Akeel,Lynch,YDS,35
+195007,10/26/2013,FBS,Penn State,Ohio State,RUSHING,Akeel,Lynch,TD,0
+195008,10/26/2013,FBS,Penn State,Ohio State,RUSHING,Akeel,Lynch,LONG,7
+195009,10/26/2013,FBS,Penn State,Ohio State,RUSHING,Zach,Zwinak,ATT,3
+195010,10/26/2013,FBS,Penn State,Ohio State,RUSHING,Zach,Zwinak,YDS,8
+195011,10/26/2013,FBS,Penn State,Ohio State,RUSHING,Zach,Zwinak,TD,0
+195012,10/26/2013,FBS,Penn State,Ohio State,RUSHING,Zach,Zwinak,LONG,3
+195013,10/26/2013,FBS,Penn State,Ohio State,RUSHING,Christian,Hackenberg,ATT,4
+195014,10/26/2013,FBS,Penn State,Ohio State,RUSHING,Christian,Hackenberg,YDS,-21
+195015,10/26/2013,FBS,Penn State,Ohio State,RUSHING,Christian,Hackenberg,TD,0
+195016,10/26/2013,FBS,Penn State,Ohio State,RUSHING,Christian,Hackenberg,LONG,0
+195017,10/26/2013,FBS,Penn State,Ohio State,PASSING,Christian,Hackenberg,CP-ATT-INT,12-23-2
+195018,10/26/2013,FBS,Penn State,Ohio State,PASSING,Christian,Hackenberg,YDS,112
+195019,10/26/2013,FBS,Penn State,Ohio State,PASSING,Christian,Hackenberg,TD,1
+195020,10/26/2013,FBS,Penn State,Ohio State,PASSING,Christian,Hackenberg,LONG,16
+195021,10/26/2013,FBS,Penn State,Ohio State,PASSING,Tyler,Ferguson,CP-ATT-INT,7-11-0
+195022,10/26/2013,FBS,Penn State,Ohio State,PASSING,Tyler,Ferguson,YDS,125
+195023,10/26/2013,FBS,Penn State,Ohio State,PASSING,Tyler,Ferguson,TD,1
+195024,10/26/2013,FBS,Penn State,Ohio State,PASSING,Tyler,Ferguson,LONG,65
+195025,10/26/2013,FBS,Penn State,Ohio State,RECEIVING,Allen,Robinson,REC,12
+195026,10/26/2013,FBS,Penn State,Ohio State,RECEIVING,Allen,Robinson,YDS,173
+195027,10/26/2013,FBS,Penn State,Ohio State,RECEIVING,Allen,Robinson,TD,1
+195028,10/26/2013,FBS,Penn State,Ohio State,RECEIVING,Allen,Robinson,LONG,65
+195029,10/26/2013,FBS,Penn State,Ohio State,RECEIVING,Brandon,Felder,REC,4
+195030,10/26/2013,FBS,Penn State,Ohio State,RECEIVING,Brandon,Felder,YDS,42
+195031,10/26/2013,FBS,Penn State,Ohio State,RECEIVING,Brandon,Felder,TD,1
+195032,10/26/2013,FBS,Penn State,Ohio State,RECEIVING,Brandon,Felder,LONG,14
+195033,10/26/2013,FBS,Penn State,Ohio State,RECEIVING,Geno,Lewis,REC,2
+195034,10/26/2013,FBS,Penn State,Ohio State,RECEIVING,Geno,Lewis,YDS,13
+195035,10/26/2013,FBS,Penn State,Ohio State,RECEIVING,Geno,Lewis,TD,0
+195036,10/26/2013,FBS,Penn State,Ohio State,RECEIVING,Geno,Lewis,LONG,8
+195037,10/26/2013,FBS,Penn State,Ohio State,RECEIVING,Bill,Belton,REC,1
+195038,10/26/2013,FBS,Penn State,Ohio State,RECEIVING,Bill,Belton,YDS,9
+195039,10/26/2013,FBS,Penn State,Ohio State,RECEIVING,Bill,Belton,TD,0
+195040,10/26/2013,FBS,Penn State,Ohio State,RECEIVING,Bill,Belton,LONG,9
+195041,10/26/2013,FBS,Penn State,Ohio State,KICKING,Sam,Ficken,FG-FGA,0/0
+195042,10/26/2013,FBS,Penn State,Ohio State,KICKING,Sam,Ficken,LONG,-
+195043,10/26/2013,FBS,Penn State,Ohio State,KICKING,Sam,Ficken,XP,2
+195044,10/26/2013,FBS,Penn State,Ohio State,KICKING,Sam,Ficken,PTS,2
+195045,10/26/2013,FBS,Penn State,Ohio State,PUNTING,Alex,Butterworth,NO,6
+195046,10/26/2013,FBS,Penn State,Ohio State,PUNTING,Alex,Butterworth,YDS,222
+195047,10/26/2013,FBS,Penn State,Ohio State,PUNTING,Alex,Butterworth,AVG,37.0
+195048,10/26/2013,FBS,Penn State,Ohio State,PUNTING,Alex,Butterworth,LONG,48
+195049,10/26/2013,FBS,Penn State,Ohio State,PUNT RETURNS,Von,Walker,NO,1
+195050,10/26/2013,FBS,Penn State,Ohio State,PUNT RETURNS,Von,Walker,YDS,0
+195051,10/26/2013,FBS,Penn State,Ohio State,PUNT RETURNS,Von,Walker,AVG,0.0
+195052,10/26/2013,FBS,Penn State,Ohio State,PUNT RETURNS,Von,Walker,LONG,0
+195053,10/26/2013,FBS,Penn State,Ohio State,KICK RETURNS,Geno,Lewis,NO,3
+195054,10/26/2013,FBS,Penn State,Ohio State,KICK RETURNS,Geno,Lewis,YDS,48
+195055,10/26/2013,FBS,Penn State,Ohio State,KICK RETURNS,Geno,Lewis,AVG,16.0
+195056,10/26/2013,FBS,Penn State,Ohio State,KICK RETURNS,Geno,Lewis,LONG,18
+195057,10/26/2013,FBS,Penn State,Ohio State,KICK RETURNS,Von,Walker,NO,1
+195058,10/26/2013,FBS,Penn State,Ohio State,KICK RETURNS,Von,Walker,YDS,14
+195059,10/26/2013,FBS,Penn State,Ohio State,KICK RETURNS,Von,Walker,AVG,14.0
+195060,10/26/2013,FBS,Penn State,Ohio State,KICK RETURNS,Von,Walker,LONG,14
+195061,10/26/2013,FBS,Penn State,Ohio State,KICK RETURNS,Tyrone,Smith,NO,1
+195062,10/26/2013,FBS,Penn State,Ohio State,KICK RETURNS,Tyrone,Smith,YDS,9
+195063,10/26/2013,FBS,Penn State,Ohio State,KICK RETURNS,Tyrone,Smith,AVG,9.0
+195064,10/26/2013,FBS,Penn State,Ohio State,KICK RETURNS,Tyrone,Smith,LONG,9
+195065,10/26/2013,FBS,Ohio State,Penn State,RUSHING,Carlos,Hyde,ATT,16
+195066,10/26/2013,FBS,Ohio State,Penn State,RUSHING,Carlos,Hyde,YDS,147
+195067,10/26/2013,FBS,Ohio State,Penn State,RUSHING,Carlos,Hyde,TD,2
+195068,10/26/2013,FBS,Ohio State,Penn State,RUSHING,Carlos,Hyde,LONG,39
+195069,10/26/2013,FBS,Ohio State,Penn State,RUSHING,Jordan,Hall,ATT,8
+195070,10/26/2013,FBS,Ohio State,Penn State,RUSHING,Jordan,Hall,YDS,81
+195071,10/26/2013,FBS,Ohio State,Penn State,RUSHING,Jordan,Hall,TD,0
+195072,10/26/2013,FBS,Ohio State,Penn State,RUSHING,Jordan,Hall,LONG,41
+195073,10/26/2013,FBS,Ohio State,Penn State,RUSHING,Braxton,Miller,ATT,11
+195074,10/26/2013,FBS,Ohio State,Penn State,RUSHING,Braxton,Miller,YDS,68
+195075,10/26/2013,FBS,Ohio State,Penn State,RUSHING,Braxton,Miller,TD,2
+195076,10/26/2013,FBS,Ohio State,Penn State,RUSHING,Braxton,Miller,LONG,39
+195077,10/26/2013,FBS,Ohio State,Penn State,RUSHING,Cardale,Jones,ATT,5
+195078,10/26/2013,FBS,Ohio State,Penn State,RUSHING,Cardale,Jones,YDS,52
+195079,10/26/2013,FBS,Ohio State,Penn State,RUSHING,Cardale,Jones,TD,0
+195080,10/26/2013,FBS,Ohio State,Penn State,RUSHING,Cardale,Jones,LONG,20
+195081,10/26/2013,FBS,Ohio State,Penn State,RUSHING,Kenny,Guiton,ATT,3
+195082,10/26/2013,FBS,Ohio State,Penn State,RUSHING,Kenny,Guiton,YDS,23
+195083,10/26/2013,FBS,Ohio State,Penn State,RUSHING,Kenny,Guiton,TD,2
+195084,10/26/2013,FBS,Ohio State,Penn State,RUSHING,Kenny,Guiton,LONG,11
+195085,10/26/2013,FBS,Ohio State,Penn State,RUSHING,Ezekiel,Elliott,ATT,2
+195086,10/26/2013,FBS,Ohio State,Penn State,RUSHING,Ezekiel,Elliott,YDS,17
+195087,10/26/2013,FBS,Ohio State,Penn State,RUSHING,Ezekiel,Elliott,TD,0
+195088,10/26/2013,FBS,Ohio State,Penn State,RUSHING,Ezekiel,Elliott,LONG,10
+195089,10/26/2013,FBS,Ohio State,Penn State,RUSHING,Dontre,Wilson,ATT,1
+195090,10/26/2013,FBS,Ohio State,Penn State,RUSHING,Dontre,Wilson,YDS,12
+195091,10/26/2013,FBS,Ohio State,Penn State,RUSHING,Dontre,Wilson,TD,0
+195092,10/26/2013,FBS,Ohio State,Penn State,RUSHING,Dontre,Wilson,LONG,12
+195093,10/26/2013,FBS,Ohio State,Penn State,RUSHING,Rod,Smith,ATT,4
+195094,10/26/2013,FBS,Ohio State,Penn State,RUSHING,Rod,Smith,YDS,10
+195095,10/26/2013,FBS,Ohio State,Penn State,RUSHING,Rod,Smith,TD,0
+195096,10/26/2013,FBS,Ohio State,Penn State,RUSHING,Rod,Smith,LONG,6
+195097,10/26/2013,FBS,Ohio State,Penn State,RUSHING,,Team,ATT,1
+195098,10/26/2013,FBS,Ohio State,Penn State,RUSHING,,Team,YDS,-2
+195099,10/26/2013,FBS,Ohio State,Penn State,RUSHING,,Team,TD,0
+195100,10/26/2013,FBS,Ohio State,Penn State,RUSHING,,Team,LONG,0
+195101,10/26/2013,FBS,Ohio State,Penn State,PASSING,Braxton,Miller,CP-ATT-INT,18-24-0
+195102,10/26/2013,FBS,Ohio State,Penn State,PASSING,Braxton,Miller,YDS,252
+195103,10/26/2013,FBS,Ohio State,Penn State,PASSING,Braxton,Miller,TD,3
+195104,10/26/2013,FBS,Ohio State,Penn State,PASSING,Braxton,Miller,LONG,36
+195105,10/26/2013,FBS,Ohio State,Penn State,PASSING,Kenny,Guiton,CP-ATT-INT,2-2-0
+195106,10/26/2013,FBS,Ohio State,Penn State,PASSING,Kenny,Guiton,YDS,26
+195107,10/26/2013,FBS,Ohio State,Penn State,PASSING,Kenny,Guiton,TD,0
+195108,10/26/2013,FBS,Ohio State,Penn State,PASSING,Kenny,Guiton,LONG,16
+195109,10/26/2013,FBS,Ohio State,Penn State,RECEIVING,Devin,Smith,REC,5
+195110,10/26/2013,FBS,Ohio State,Penn State,RECEIVING,Devin,Smith,YDS,90
+195111,10/26/2013,FBS,Ohio State,Penn State,RECEIVING,Devin,Smith,TD,0
+195112,10/26/2013,FBS,Ohio State,Penn State,RECEIVING,Devin,Smith,LONG,36
+195113,10/26/2013,FBS,Ohio State,Penn State,RECEIVING,Corey,(Philly)Brown,REC,4
+195114,10/26/2013,FBS,Ohio State,Penn State,RECEIVING,Corey,(Philly)Brown,YDS,67
+195115,10/26/2013,FBS,Ohio State,Penn State,RECEIVING,Corey,(Philly)Brown,TD,1
+195116,10/26/2013,FBS,Ohio State,Penn State,RECEIVING,Corey,(Philly)Brown,LONG,25
+195117,10/26/2013,FBS,Ohio State,Penn State,RECEIVING,Evan,Spencer,REC,4
+195118,10/26/2013,FBS,Ohio State,Penn State,RECEIVING,Evan,Spencer,YDS,37
+195119,10/26/2013,FBS,Ohio State,Penn State,RECEIVING,Evan,Spencer,TD,0
+195120,10/26/2013,FBS,Ohio State,Penn State,RECEIVING,Evan,Spencer,LONG,20
+195121,10/26/2013,FBS,Ohio State,Penn State,RECEIVING,Chris,Fields,REC,4
+195122,10/26/2013,FBS,Ohio State,Penn State,RECEIVING,Chris,Fields,YDS,35
+195123,10/26/2013,FBS,Ohio State,Penn State,RECEIVING,Chris,Fields,TD,1
+195124,10/26/2013,FBS,Ohio State,Penn State,RECEIVING,Chris,Fields,LONG,16
+195125,10/26/2013,FBS,Ohio State,Penn State,RECEIVING,Dontre,Wilson,REC,2
+195126,10/26/2013,FBS,Ohio State,Penn State,RECEIVING,Dontre,Wilson,YDS,35
+195127,10/26/2013,FBS,Ohio State,Penn State,RECEIVING,Dontre,Wilson,TD,1
+195128,10/26/2013,FBS,Ohio State,Penn State,RECEIVING,Dontre,Wilson,LONG,26
+195129,10/26/2013,FBS,Ohio State,Penn State,RECEIVING,Carlos,Hyde,REC,1
+195130,10/26/2013,FBS,Ohio State,Penn State,RECEIVING,Carlos,Hyde,YDS,14
+195131,10/26/2013,FBS,Ohio State,Penn State,RECEIVING,Carlos,Hyde,TD,0
+195132,10/26/2013,FBS,Ohio State,Penn State,RECEIVING,Carlos,Hyde,LONG,14
+195133,10/26/2013,FBS,Ohio State,Penn State,KICKING,Drew,Basil,FG-FGA,0/0
+195134,10/26/2013,FBS,Ohio State,Penn State,KICKING,Drew,Basil,LONG,-
+195135,10/26/2013,FBS,Ohio State,Penn State,KICKING,Drew,Basil,XP,9
+195136,10/26/2013,FBS,Ohio State,Penn State,KICKING,Drew,Basil,PTS,9
+195137,10/26/2013,FBS,Ohio State,Penn State,PUNTING,Cameron,Johnston,NO,3
+195138,10/26/2013,FBS,Ohio State,Penn State,PUNTING,Cameron,Johnston,YDS,140
+195139,10/26/2013,FBS,Ohio State,Penn State,PUNTING,Cameron,Johnston,AVG,46.7
+195140,10/26/2013,FBS,Ohio State,Penn State,PUNTING,Cameron,Johnston,LONG,56
+195141,10/26/2013,FBS,Ohio State,Penn State,KICK RETURNS,Dontre,Wilson,NO,1
+195142,10/26/2013,FBS,Ohio State,Penn State,KICK RETURNS,Dontre,Wilson,YDS,49
+195143,10/26/2013,FBS,Ohio State,Penn State,KICK RETURNS,Dontre,Wilson,AVG,49.0
+195144,10/26/2013,FBS,Ohio State,Penn State,KICK RETURNS,Dontre,Wilson,LONG,49

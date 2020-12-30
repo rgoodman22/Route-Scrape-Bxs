@@ -1,0 +1,197 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+28001,8/31/2013,FBS,Austin Peay,Tennessee,RUSHING,Tim,Phillips,ATT,8
+28002,8/31/2013,FBS,Austin Peay,Tennessee,RUSHING,Tim,Phillips,YDS,38
+28003,8/31/2013,FBS,Austin Peay,Tennessee,RUSHING,Tim,Phillips,TD,0
+28004,8/31/2013,FBS,Austin Peay,Tennessee,RUSHING,Tim,Phillips,LONG,12
+28005,8/31/2013,FBS,Austin Peay,Tennessee,RUSHING,Jacob,Sexton,ATT,7
+28006,8/31/2013,FBS,Austin Peay,Tennessee,RUSHING,Jacob,Sexton,YDS,25
+28007,8/31/2013,FBS,Austin Peay,Tennessee,RUSHING,Jacob,Sexton,TD,0
+28008,8/31/2013,FBS,Austin Peay,Tennessee,RUSHING,Jacob,Sexton,LONG,8
+28009,8/31/2013,FBS,Austin Peay,Tennessee,RUSHING,Terrence,Oliver,ATT,5
+28010,8/31/2013,FBS,Austin Peay,Tennessee,RUSHING,Terrence,Oliver,YDS,18
+28011,8/31/2013,FBS,Austin Peay,Tennessee,RUSHING,Terrence,Oliver,TD,0
+28012,8/31/2013,FBS,Austin Peay,Tennessee,RUSHING,Terrence,Oliver,LONG,7
+28013,8/31/2013,FBS,Austin Peay,Tennessee,RUSHING,Timarious,Mitchell,ATT,1
+28014,8/31/2013,FBS,Austin Peay,Tennessee,RUSHING,Timarious,Mitchell,YDS,7
+28015,8/31/2013,FBS,Austin Peay,Tennessee,RUSHING,Timarious,Mitchell,TD,0
+28016,8/31/2013,FBS,Austin Peay,Tennessee,RUSHING,Timarious,Mitchell,LONG,7
+28017,8/31/2013,FBS,Austin Peay,Tennessee,RUSHING,Julian,Franklin,ATT,2
+28018,8/31/2013,FBS,Austin Peay,Tennessee,RUSHING,Julian,Franklin,YDS,-1
+28019,8/31/2013,FBS,Austin Peay,Tennessee,RUSHING,Julian,Franklin,TD,0
+28020,8/31/2013,FBS,Austin Peay,Tennessee,RUSHING,Julian,Franklin,LONG,2
+28021,8/31/2013,FBS,Austin Peay,Tennessee,RUSHING,Omar,Williams,ATT,2
+28022,8/31/2013,FBS,Austin Peay,Tennessee,RUSHING,Omar,Williams,YDS,-3
+28023,8/31/2013,FBS,Austin Peay,Tennessee,RUSHING,Omar,Williams,TD,0
+28024,8/31/2013,FBS,Austin Peay,Tennessee,RUSHING,Omar,Williams,LONG,0
+28025,8/31/2013,FBS,Austin Peay,Tennessee,RUSHING,Andrew,Spivey,ATT,2
+28026,8/31/2013,FBS,Austin Peay,Tennessee,RUSHING,Andrew,Spivey,YDS,-5
+28027,8/31/2013,FBS,Austin Peay,Tennessee,RUSHING,Andrew,Spivey,TD,0
+28028,8/31/2013,FBS,Austin Peay,Tennessee,RUSHING,Andrew,Spivey,LONG,0
+28029,8/31/2013,FBS,Austin Peay,Tennessee,PASSING,Andrew,Spivey,CP-ATT-INT,11-22-1
+28030,8/31/2013,FBS,Austin Peay,Tennessee,PASSING,Andrew,Spivey,YDS,94
+28031,8/31/2013,FBS,Austin Peay,Tennessee,PASSING,Andrew,Spivey,TD,0
+28032,8/31/2013,FBS,Austin Peay,Tennessee,PASSING,Andrew,Spivey,LONG,35
+28033,8/31/2013,FBS,Austin Peay,Tennessee,PASSING,Jacob,Sexton,CP-ATT-INT,2-4-1
+28034,8/31/2013,FBS,Austin Peay,Tennessee,PASSING,Jacob,Sexton,YDS,38
+28035,8/31/2013,FBS,Austin Peay,Tennessee,PASSING,Jacob,Sexton,TD,0
+28036,8/31/2013,FBS,Austin Peay,Tennessee,PASSING,Jacob,Sexton,LONG,33
+28037,8/31/2013,FBS,Austin Peay,Tennessee,RECEIVING,Darryl,Clack,REC,3
+28038,8/31/2013,FBS,Austin Peay,Tennessee,RECEIVING,Darryl,Clack,YDS,80
+28039,8/31/2013,FBS,Austin Peay,Tennessee,RECEIVING,Darryl,Clack,TD,0
+28040,8/31/2013,FBS,Austin Peay,Tennessee,RECEIVING,Darryl,Clack,LONG,35
+28041,8/31/2013,FBS,Austin Peay,Tennessee,RECEIVING,Rashaan,Coleman,REC,3
+28042,8/31/2013,FBS,Austin Peay,Tennessee,RECEIVING,Rashaan,Coleman,YDS,20
+28043,8/31/2013,FBS,Austin Peay,Tennessee,RECEIVING,Rashaan,Coleman,TD,0
+28044,8/31/2013,FBS,Austin Peay,Tennessee,RECEIVING,Rashaan,Coleman,LONG,10
+28045,8/31/2013,FBS,Austin Peay,Tennessee,RECEIVING,Javier,Booker,REC,3
+28046,8/31/2013,FBS,Austin Peay,Tennessee,RECEIVING,Javier,Booker,YDS,20
+28047,8/31/2013,FBS,Austin Peay,Tennessee,RECEIVING,Javier,Booker,TD,0
+28048,8/31/2013,FBS,Austin Peay,Tennessee,RECEIVING,Javier,Booker,LONG,14
+28049,8/31/2013,FBS,Austin Peay,Tennessee,RECEIVING,Terrence,Oliver,REC,1
+28050,8/31/2013,FBS,Austin Peay,Tennessee,RECEIVING,Terrence,Oliver,YDS,6
+28051,8/31/2013,FBS,Austin Peay,Tennessee,RECEIVING,Terrence,Oliver,TD,0
+28052,8/31/2013,FBS,Austin Peay,Tennessee,RECEIVING,Terrence,Oliver,LONG,6
+28053,8/31/2013,FBS,Austin Peay,Tennessee,RECEIVING,Ladarius,Chatman,REC,1
+28054,8/31/2013,FBS,Austin Peay,Tennessee,RECEIVING,Ladarius,Chatman,YDS,5
+28055,8/31/2013,FBS,Austin Peay,Tennessee,RECEIVING,Ladarius,Chatman,TD,0
+28056,8/31/2013,FBS,Austin Peay,Tennessee,RECEIVING,Ladarius,Chatman,LONG,5
+28057,8/31/2013,FBS,Austin Peay,Tennessee,RECEIVING,Kamron,Johnson,REC,1
+28058,8/31/2013,FBS,Austin Peay,Tennessee,RECEIVING,Kamron,Johnson,YDS,4
+28059,8/31/2013,FBS,Austin Peay,Tennessee,RECEIVING,Kamron,Johnson,TD,0
+28060,8/31/2013,FBS,Austin Peay,Tennessee,RECEIVING,Kamron,Johnson,LONG,4
+28061,8/31/2013,FBS,Austin Peay,Tennessee,RECEIVING,Tim,Phillips,REC,1
+28062,8/31/2013,FBS,Austin Peay,Tennessee,RECEIVING,Tim,Phillips,YDS,-3
+28063,8/31/2013,FBS,Austin Peay,Tennessee,RECEIVING,Tim,Phillips,TD,0
+28064,8/31/2013,FBS,Austin Peay,Tennessee,RECEIVING,Tim,Phillips,LONG,0
+28065,8/31/2013,FBS,Austin Peay,Tennessee,KICKING,Walter,Spears,FG-FGA,0/1
+28066,8/31/2013,FBS,Austin Peay,Tennessee,KICKING,Walter,Spears,LONG,-
+28067,8/31/2013,FBS,Austin Peay,Tennessee,KICKING,Walter,Spears,XP,0
+28068,8/31/2013,FBS,Austin Peay,Tennessee,KICKING,Walter,Spears,PTS,0
+28069,8/31/2013,FBS,Austin Peay,Tennessee,PUNTING,Ben,Campbell,NO,6
+28070,8/31/2013,FBS,Austin Peay,Tennessee,PUNTING,Ben,Campbell,YDS,270
+28071,8/31/2013,FBS,Austin Peay,Tennessee,PUNTING,Ben,Campbell,AVG,45.0
+28072,8/31/2013,FBS,Austin Peay,Tennessee,PUNTING,Ben,Campbell,LONG,51
+28073,8/31/2013,FBS,Austin Peay,Tennessee,PUNTING,Andrew,Spivey,NO,1
+28074,8/31/2013,FBS,Austin Peay,Tennessee,PUNTING,Andrew,Spivey,YDS,32
+28075,8/31/2013,FBS,Austin Peay,Tennessee,PUNTING,Andrew,Spivey,AVG,32.0
+28076,8/31/2013,FBS,Austin Peay,Tennessee,PUNTING,Andrew,Spivey,LONG,32
+28077,8/31/2013,FBS,Austin Peay,Tennessee,PUNT RETURNS,Ladarius,Chatman,NO,2
+28078,8/31/2013,FBS,Austin Peay,Tennessee,PUNT RETURNS,Ladarius,Chatman,YDS,-6
+28079,8/31/2013,FBS,Austin Peay,Tennessee,PUNT RETURNS,Ladarius,Chatman,AVG,-3.0
+28080,8/31/2013,FBS,Austin Peay,Tennessee,PUNT RETURNS,Ladarius,Chatman,LONG,0
+28081,8/31/2013,FBS,Austin Peay,Tennessee,KICK RETURNS,Montez,Carlton,NO,2
+28082,8/31/2013,FBS,Austin Peay,Tennessee,KICK RETURNS,Montez,Carlton,YDS,50
+28083,8/31/2013,FBS,Austin Peay,Tennessee,KICK RETURNS,Montez,Carlton,AVG,25.0
+28084,8/31/2013,FBS,Austin Peay,Tennessee,KICK RETURNS,Montez,Carlton,LONG,36
+28085,8/31/2013,FBS,Austin Peay,Tennessee,KICK RETURNS,Tim,Phillips,NO,2
+28086,8/31/2013,FBS,Austin Peay,Tennessee,KICK RETURNS,Tim,Phillips,YDS,40
+28087,8/31/2013,FBS,Austin Peay,Tennessee,KICK RETURNS,Tim,Phillips,AVG,20.0
+28088,8/31/2013,FBS,Austin Peay,Tennessee,KICK RETURNS,Tim,Phillips,LONG,20
+28089,8/31/2013,FBS,Austin Peay,Tennessee,KICK RETURNS,Ladarius,Chatman,NO,1
+28090,8/31/2013,FBS,Austin Peay,Tennessee,KICK RETURNS,Ladarius,Chatman,YDS,28
+28091,8/31/2013,FBS,Austin Peay,Tennessee,KICK RETURNS,Ladarius,Chatman,AVG,28.0
+28092,8/31/2013,FBS,Austin Peay,Tennessee,KICK RETURNS,Ladarius,Chatman,LONG,28
+28093,8/31/2013,FBS,Austin Peay,Tennessee,KICK RETURNS,Kamron,Johnson,NO,1
+28094,8/31/2013,FBS,Austin Peay,Tennessee,KICK RETURNS,Kamron,Johnson,YDS,15
+28095,8/31/2013,FBS,Austin Peay,Tennessee,KICK RETURNS,Kamron,Johnson,AVG,15.0
+28096,8/31/2013,FBS,Austin Peay,Tennessee,KICK RETURNS,Kamron,Johnson,LONG,15
+28097,8/31/2013,FBS,Tennessee,Austin Peay,RUSHING,Rajion,Neal,ATT,16
+28098,8/31/2013,FBS,Tennessee,Austin Peay,RUSHING,Rajion,Neal,YDS,141
+28099,8/31/2013,FBS,Tennessee,Austin Peay,RUSHING,Rajion,Neal,TD,1
+28100,8/31/2013,FBS,Tennessee,Austin Peay,RUSHING,Rajion,Neal,LONG,47
+28101,8/31/2013,FBS,Tennessee,Austin Peay,RUSHING,Deanthonie,Summerhill,ATT,9
+28102,8/31/2013,FBS,Tennessee,Austin Peay,RUSHING,Deanthonie,Summerhill,YDS,67
+28103,8/31/2013,FBS,Tennessee,Austin Peay,RUSHING,Deanthonie,Summerhill,TD,0
+28104,8/31/2013,FBS,Tennessee,Austin Peay,RUSHING,Deanthonie,Summerhill,LONG,15
+28105,8/31/2013,FBS,Tennessee,Austin Peay,RUSHING,Marlin,Lane,ATT,6
+28106,8/31/2013,FBS,Tennessee,Austin Peay,RUSHING,Marlin,Lane,YDS,38
+28107,8/31/2013,FBS,Tennessee,Austin Peay,RUSHING,Marlin,Lane,TD,2
+28108,8/31/2013,FBS,Tennessee,Austin Peay,RUSHING,Marlin,Lane,LONG,14
+28109,8/31/2013,FBS,Tennessee,Austin Peay,RUSHING,Tom,Smith,ATT,9
+28110,8/31/2013,FBS,Tennessee,Austin Peay,RUSHING,Tom,Smith,YDS,29
+28111,8/31/2013,FBS,Tennessee,Austin Peay,RUSHING,Tom,Smith,TD,0
+28112,8/31/2013,FBS,Tennessee,Austin Peay,RUSHING,Tom,Smith,LONG,8
+28113,8/31/2013,FBS,Tennessee,Austin Peay,RUSHING,Justin,Worley,ATT,4
+28114,8/31/2013,FBS,Tennessee,Austin Peay,RUSHING,Justin,Worley,YDS,21
+28115,8/31/2013,FBS,Tennessee,Austin Peay,RUSHING,Justin,Worley,TD,0
+28116,8/31/2013,FBS,Tennessee,Austin Peay,RUSHING,Justin,Worley,LONG,11
+28117,8/31/2013,FBS,Tennessee,Austin Peay,RUSHING,Alden,Hill,ATT,3
+28118,8/31/2013,FBS,Tennessee,Austin Peay,RUSHING,Alden,Hill,YDS,9
+28119,8/31/2013,FBS,Tennessee,Austin Peay,RUSHING,Alden,Hill,TD,0
+28120,8/31/2013,FBS,Tennessee,Austin Peay,RUSHING,Alden,Hill,LONG,6
+28121,8/31/2013,FBS,Tennessee,Austin Peay,RUSHING,Pig,Howard,ATT,1
+28122,8/31/2013,FBS,Tennessee,Austin Peay,RUSHING,Pig,Howard,YDS,7
+28123,8/31/2013,FBS,Tennessee,Austin Peay,RUSHING,Pig,Howard,TD,0
+28124,8/31/2013,FBS,Tennessee,Austin Peay,RUSHING,Pig,Howard,LONG,7
+28125,8/31/2013,FBS,Tennessee,Austin Peay,RUSHING,Devrin,Young,ATT,1
+28126,8/31/2013,FBS,Tennessee,Austin Peay,RUSHING,Devrin,Young,YDS,6
+28127,8/31/2013,FBS,Tennessee,Austin Peay,RUSHING,Devrin,Young,TD,0
+28128,8/31/2013,FBS,Tennessee,Austin Peay,RUSHING,Devrin,Young,LONG,6
+28129,8/31/2013,FBS,Tennessee,Austin Peay,RUSHING,Nathan,Peterman,ATT,3
+28130,8/31/2013,FBS,Tennessee,Austin Peay,RUSHING,Nathan,Peterman,YDS,-3
+28131,8/31/2013,FBS,Tennessee,Austin Peay,RUSHING,Nathan,Peterman,TD,0
+28132,8/31/2013,FBS,Tennessee,Austin Peay,RUSHING,Nathan,Peterman,LONG,8
+28133,8/31/2013,FBS,Tennessee,Austin Peay,PASSING,Justin,Worley,CP-ATT-INT,11-13-0
+28134,8/31/2013,FBS,Tennessee,Austin Peay,PASSING,Justin,Worley,YDS,104
+28135,8/31/2013,FBS,Tennessee,Austin Peay,PASSING,Justin,Worley,TD,3
+28136,8/31/2013,FBS,Tennessee,Austin Peay,PASSING,Justin,Worley,LONG,23
+28137,8/31/2013,FBS,Tennessee,Austin Peay,PASSING,Nathan,Peterman,CP-ATT-INT,4-8-0
+28138,8/31/2013,FBS,Tennessee,Austin Peay,PASSING,Nathan,Peterman,YDS,28
+28139,8/31/2013,FBS,Tennessee,Austin Peay,PASSING,Nathan,Peterman,TD,0
+28140,8/31/2013,FBS,Tennessee,Austin Peay,PASSING,Nathan,Peterman,LONG,15
+28141,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,MarQuez,North,REC,3
+28142,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,MarQuez,North,YDS,33
+28143,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,MarQuez,North,TD,0
+28144,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,MarQuez,North,LONG,23
+28145,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,Pig,Howard,REC,3
+28146,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,Pig,Howard,YDS,29
+28147,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,Pig,Howard,TD,1
+28148,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,Pig,Howard,LONG,13
+28149,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,Johnathon,Johnson,REC,2
+28150,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,Johnathon,Johnson,YDS,15
+28151,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,Johnathon,Johnson,TD,0
+28152,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,Johnathon,Johnson,LONG,9
+28153,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,Paul,Harris,REC,1
+28154,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,Paul,Harris,YDS,15
+28155,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,Paul,Harris,TD,0
+28156,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,Paul,Harris,LONG,15
+28157,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,Jacob,Carter,REC,1
+28158,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,Jacob,Carter,YDS,14
+28159,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,Jacob,Carter,TD,0
+28160,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,Jacob,Carter,LONG,14
+28161,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,Devrin,Young,REC,1
+28162,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,Devrin,Young,YDS,9
+28163,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,Devrin,Young,TD,1
+28164,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,Devrin,Young,LONG,9
+28165,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,Josh,Smith,REC,1
+28166,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,Josh,Smith,YDS,9
+28167,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,Josh,Smith,TD,0
+28168,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,Josh,Smith,LONG,9
+28169,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,Rajion,Neal,REC,1
+28170,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,Rajion,Neal,YDS,7
+28171,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,Rajion,Neal,TD,0
+28172,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,Rajion,Neal,LONG,7
+28173,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,Brendan,Downs,REC,1
+28174,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,Brendan,Downs,YDS,3
+28175,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,Brendan,Downs,TD,1
+28176,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,Brendan,Downs,LONG,3
+28177,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,A.J.,Branisel,REC,1
+28178,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,A.J.,Branisel,YDS,-2
+28179,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,A.J.,Branisel,TD,0
+28180,8/31/2013,FBS,Tennessee,Austin Peay,RECEIVING,A.J.,Branisel,LONG,0
+28181,8/31/2013,FBS,Tennessee,Austin Peay,KICKING,Michael,Palardy,FG-FGA,1/1
+28182,8/31/2013,FBS,Tennessee,Austin Peay,KICKING,Michael,Palardy,LONG,37
+28183,8/31/2013,FBS,Tennessee,Austin Peay,KICKING,Michael,Palardy,XP,6
+28184,8/31/2013,FBS,Tennessee,Austin Peay,KICKING,Michael,Palardy,PTS,9
+28185,8/31/2013,FBS,Tennessee,Austin Peay,PUNTING,Michael,Palardy,NO,2
+28186,8/31/2013,FBS,Tennessee,Austin Peay,PUNTING,Michael,Palardy,YDS,88
+28187,8/31/2013,FBS,Tennessee,Austin Peay,PUNTING,Michael,Palardy,AVG,44.0
+28188,8/31/2013,FBS,Tennessee,Austin Peay,PUNTING,Michael,Palardy,LONG,53
+28189,8/31/2013,FBS,Tennessee,Austin Peay,PUNT RETURNS,Devrin,Young,NO,2
+28190,8/31/2013,FBS,Tennessee,Austin Peay,PUNT RETURNS,Devrin,Young,YDS,21
+28191,8/31/2013,FBS,Tennessee,Austin Peay,PUNT RETURNS,Devrin,Young,AVG,10.5
+28192,8/31/2013,FBS,Tennessee,Austin Peay,PUNT RETURNS,Devrin,Young,LONG,11
+28193,8/31/2013,FBS,Tennessee,Austin Peay,KICK RETURNS,Devrin,Young,NO,1
+28194,8/31/2013,FBS,Tennessee,Austin Peay,KICK RETURNS,Devrin,Young,YDS,58
+28195,8/31/2013,FBS,Tennessee,Austin Peay,KICK RETURNS,Devrin,Young,AVG,58.0
+28196,8/31/2013,FBS,Tennessee,Austin Peay,KICK RETURNS,Devrin,Young,LONG,58

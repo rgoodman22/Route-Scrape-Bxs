@@ -1,0 +1,161 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+235001,9/21/2013,FBS,Jacksonville St.,Georgia State,RUSHING,Miles,Jones,ATT,21
+235002,9/21/2013,FBS,Jacksonville St.,Georgia State,RUSHING,Miles,Jones,YDS,76
+235003,9/21/2013,FBS,Jacksonville St.,Georgia State,RUSHING,Miles,Jones,TD,0
+235004,9/21/2013,FBS,Jacksonville St.,Georgia State,RUSHING,Miles,Jones,LONG,13
+235005,9/21/2013,FBS,Jacksonville St.,Georgia State,RUSHING,DaMarcus,James,ATT,16
+235006,9/21/2013,FBS,Jacksonville St.,Georgia State,RUSHING,DaMarcus,James,YDS,41
+235007,9/21/2013,FBS,Jacksonville St.,Georgia State,RUSHING,DaMarcus,James,TD,3
+235008,9/21/2013,FBS,Jacksonville St.,Georgia State,RUSHING,DaMarcus,James,LONG,11
+235009,9/21/2013,FBS,Jacksonville St.,Georgia State,RUSHING,Eli,Jenkins,ATT,5
+235010,9/21/2013,FBS,Jacksonville St.,Georgia State,RUSHING,Eli,Jenkins,YDS,13
+235011,9/21/2013,FBS,Jacksonville St.,Georgia State,RUSHING,Eli,Jenkins,TD,1
+235012,9/21/2013,FBS,Jacksonville St.,Georgia State,RUSHING,Eli,Jenkins,LONG,6
+235013,9/21/2013,FBS,Jacksonville St.,Georgia State,RUSHING,Max,Shortell,ATT,2
+235014,9/21/2013,FBS,Jacksonville St.,Georgia State,RUSHING,Max,Shortell,YDS,-8
+235015,9/21/2013,FBS,Jacksonville St.,Georgia State,RUSHING,Max,Shortell,TD,0
+235016,9/21/2013,FBS,Jacksonville St.,Georgia State,RUSHING,Max,Shortell,LONG,0
+235017,9/21/2013,FBS,Jacksonville St.,Georgia State,PASSING,Max,Shortell,CP-ATT-INT,13-27-0
+235018,9/21/2013,FBS,Jacksonville St.,Georgia State,PASSING,Max,Shortell,YDS,263
+235019,9/21/2013,FBS,Jacksonville St.,Georgia State,PASSING,Max,Shortell,TD,0
+235020,9/21/2013,FBS,Jacksonville St.,Georgia State,PASSING,Max,Shortell,LONG,50
+235021,9/21/2013,FBS,Jacksonville St.,Georgia State,PASSING,Eli,Jenkins,CP-ATT-INT,5-5-0
+235022,9/21/2013,FBS,Jacksonville St.,Georgia State,PASSING,Eli,Jenkins,YDS,76
+235023,9/21/2013,FBS,Jacksonville St.,Georgia State,PASSING,Eli,Jenkins,TD,0
+235024,9/21/2013,FBS,Jacksonville St.,Georgia State,PASSING,Eli,Jenkins,LONG,33
+235025,9/21/2013,FBS,Jacksonville St.,Georgia State,RECEIVING,Josh,Barge,REC,8
+235026,9/21/2013,FBS,Jacksonville St.,Georgia State,RECEIVING,Josh,Barge,YDS,124
+235027,9/21/2013,FBS,Jacksonville St.,Georgia State,RECEIVING,Josh,Barge,TD,0
+235028,9/21/2013,FBS,Jacksonville St.,Georgia State,RECEIVING,Josh,Barge,LONG,32
+235029,9/21/2013,FBS,Jacksonville St.,Georgia State,RECEIVING,Markis,Merrill,REC,3
+235030,9/21/2013,FBS,Jacksonville St.,Georgia State,RECEIVING,Markis,Merrill,YDS,62
+235031,9/21/2013,FBS,Jacksonville St.,Georgia State,RECEIVING,Markis,Merrill,TD,0
+235032,9/21/2013,FBS,Jacksonville St.,Georgia State,RECEIVING,Markis,Merrill,LONG,31
+235033,9/21/2013,FBS,Jacksonville St.,Georgia State,RECEIVING,Anthony,Johnson,REC,2
+235034,9/21/2013,FBS,Jacksonville St.,Georgia State,RECEIVING,Anthony,Johnson,YDS,59
+235035,9/21/2013,FBS,Jacksonville St.,Georgia State,RECEIVING,Anthony,Johnson,TD,0
+235036,9/21/2013,FBS,Jacksonville St.,Georgia State,RECEIVING,Anthony,Johnson,LONG,50
+235037,9/21/2013,FBS,Jacksonville St.,Georgia State,RECEIVING,Dalton,Screws,REC,1
+235038,9/21/2013,FBS,Jacksonville St.,Georgia State,RECEIVING,Dalton,Screws,YDS,39
+235039,9/21/2013,FBS,Jacksonville St.,Georgia State,RECEIVING,Dalton,Screws,TD,0
+235040,9/21/2013,FBS,Jacksonville St.,Georgia State,RECEIVING,Dalton,Screws,LONG,26
+235041,9/21/2013,FBS,Jacksonville St.,Georgia State,RECEIVING,Telvin,Brown,REC,1
+235042,9/21/2013,FBS,Jacksonville St.,Georgia State,RECEIVING,Telvin,Brown,YDS,33
+235043,9/21/2013,FBS,Jacksonville St.,Georgia State,RECEIVING,Telvin,Brown,TD,0
+235044,9/21/2013,FBS,Jacksonville St.,Georgia State,RECEIVING,Telvin,Brown,LONG,33
+235045,9/21/2013,FBS,Jacksonville St.,Georgia State,RECEIVING,Gavin,Ellis,REC,1
+235046,9/21/2013,FBS,Jacksonville St.,Georgia State,RECEIVING,Gavin,Ellis,YDS,17
+235047,9/21/2013,FBS,Jacksonville St.,Georgia State,RECEIVING,Gavin,Ellis,TD,0
+235048,9/21/2013,FBS,Jacksonville St.,Georgia State,RECEIVING,Gavin,Ellis,LONG,17
+235049,9/21/2013,FBS,Jacksonville St.,Georgia State,RECEIVING,Luke,Smith,REC,1
+235050,9/21/2013,FBS,Jacksonville St.,Georgia State,RECEIVING,Luke,Smith,YDS,7
+235051,9/21/2013,FBS,Jacksonville St.,Georgia State,RECEIVING,Luke,Smith,TD,0
+235052,9/21/2013,FBS,Jacksonville St.,Georgia State,RECEIVING,Luke,Smith,LONG,7
+235053,9/21/2013,FBS,Jacksonville St.,Georgia State,RECEIVING,Earl,Calloway,REC,1
+235054,9/21/2013,FBS,Jacksonville St.,Georgia State,RECEIVING,Earl,Calloway,YDS,-2
+235055,9/21/2013,FBS,Jacksonville St.,Georgia State,RECEIVING,Earl,Calloway,TD,0
+235056,9/21/2013,FBS,Jacksonville St.,Georgia State,RECEIVING,Earl,Calloway,LONG,0
+235057,9/21/2013,FBS,Jacksonville St.,Georgia State,KICKING,Griffin,Thomas,FG-FGA,2/3
+235058,9/21/2013,FBS,Jacksonville St.,Georgia State,KICKING,Griffin,Thomas,LONG,34
+235059,9/21/2013,FBS,Jacksonville St.,Georgia State,KICKING,Griffin,Thomas,XP,2
+235060,9/21/2013,FBS,Jacksonville St.,Georgia State,KICKING,Griffin,Thomas,PTS,8
+235061,9/21/2013,FBS,Jacksonville St.,Georgia State,PUNTING,Hamish,MacInnes,NO,4
+235062,9/21/2013,FBS,Jacksonville St.,Georgia State,PUNTING,Hamish,MacInnes,YDS,163
+235063,9/21/2013,FBS,Jacksonville St.,Georgia State,PUNTING,Hamish,MacInnes,AVG,40.8
+235064,9/21/2013,FBS,Jacksonville St.,Georgia State,PUNTING,Hamish,MacInnes,LONG,46
+235065,9/21/2013,FBS,Jacksonville St.,Georgia State,PUNTING,,Team,NO,1
+235066,9/21/2013,FBS,Jacksonville St.,Georgia State,PUNTING,,Team,YDS,0
+235067,9/21/2013,FBS,Jacksonville St.,Georgia State,PUNTING,,Team,AVG,0.0
+235068,9/21/2013,FBS,Jacksonville St.,Georgia State,PUNTING,,Team,LONG,0
+235069,9/21/2013,FBS,Jacksonville St.,Georgia State,PUNT RETURNS,Telvin,Brown,NO,1
+235070,9/21/2013,FBS,Jacksonville St.,Georgia State,PUNT RETURNS,Telvin,Brown,YDS,10
+235071,9/21/2013,FBS,Jacksonville St.,Georgia State,PUNT RETURNS,Telvin,Brown,AVG,10.0
+235072,9/21/2013,FBS,Jacksonville St.,Georgia State,PUNT RETURNS,Telvin,Brown,LONG,10
+235073,9/21/2013,FBS,Jacksonville St.,Georgia State,KICK RETURNS,Telvin,Brown,NO,2
+235074,9/21/2013,FBS,Jacksonville St.,Georgia State,KICK RETURNS,Telvin,Brown,YDS,42
+235075,9/21/2013,FBS,Jacksonville St.,Georgia State,KICK RETURNS,Telvin,Brown,AVG,21.0
+235076,9/21/2013,FBS,Jacksonville St.,Georgia State,KICK RETURNS,Telvin,Brown,LONG,29
+235077,9/21/2013,FBS,Jacksonville St.,Georgia State,KICK RETURNS,Jamill,Lott,NO,1
+235078,9/21/2013,FBS,Jacksonville St.,Georgia State,KICK RETURNS,Jamill,Lott,YDS,18
+235079,9/21/2013,FBS,Jacksonville St.,Georgia State,KICK RETURNS,Jamill,Lott,AVG,18.0
+235080,9/21/2013,FBS,Jacksonville St.,Georgia State,KICK RETURNS,Jamill,Lott,LONG,18
+235081,9/21/2013,FBS,Georgia State,Jacksonville St.,RUSHING,Ronnie,Bell,ATT,11
+235082,9/21/2013,FBS,Georgia State,Jacksonville St.,RUSHING,Ronnie,Bell,YDS,57
+235083,9/21/2013,FBS,Georgia State,Jacksonville St.,RUSHING,Ronnie,Bell,TD,0
+235084,9/21/2013,FBS,Georgia State,Jacksonville St.,RUSHING,Ronnie,Bell,LONG,17
+235085,9/21/2013,FBS,Georgia State,Jacksonville St.,RUSHING,Travis,Evans,ATT,20
+235086,9/21/2013,FBS,Georgia State,Jacksonville St.,RUSHING,Travis,Evans,YDS,45
+235087,9/21/2013,FBS,Georgia State,Jacksonville St.,RUSHING,Travis,Evans,TD,0
+235088,9/21/2013,FBS,Georgia State,Jacksonville St.,RUSHING,Travis,Evans,LONG,5
+235089,9/21/2013,FBS,Georgia State,Jacksonville St.,RUSHING,Jonathan,Jean-Bart,ATT,5
+235090,9/21/2013,FBS,Georgia State,Jacksonville St.,RUSHING,Jonathan,Jean-Bart,YDS,24
+235091,9/21/2013,FBS,Georgia State,Jacksonville St.,RUSHING,Jonathan,Jean-Bart,TD,0
+235092,9/21/2013,FBS,Georgia State,Jacksonville St.,RUSHING,Jonathan,Jean-Bart,LONG,10
+235093,9/21/2013,FBS,Georgia State,Jacksonville St.,RUSHING,Albert,Wilson,ATT,4
+235094,9/21/2013,FBS,Georgia State,Jacksonville St.,RUSHING,Albert,Wilson,YDS,15
+235095,9/21/2013,FBS,Georgia State,Jacksonville St.,RUSHING,Albert,Wilson,TD,0
+235096,9/21/2013,FBS,Georgia State,Jacksonville St.,RUSHING,Albert,Wilson,LONG,5
+235097,9/21/2013,FBS,Georgia State,Jacksonville St.,RUSHING,Kelton,Hill,ATT,1
+235098,9/21/2013,FBS,Georgia State,Jacksonville St.,RUSHING,Kelton,Hill,YDS,11
+235099,9/21/2013,FBS,Georgia State,Jacksonville St.,RUSHING,Kelton,Hill,TD,0
+235100,9/21/2013,FBS,Georgia State,Jacksonville St.,RUSHING,Kelton,Hill,LONG,11
+235101,9/21/2013,FBS,Georgia State,Jacksonville St.,RUSHING,,Team,ATT,1
+235102,9/21/2013,FBS,Georgia State,Jacksonville St.,RUSHING,,Team,YDS,-2
+235103,9/21/2013,FBS,Georgia State,Jacksonville St.,RUSHING,,Team,TD,0
+235104,9/21/2013,FBS,Georgia State,Jacksonville St.,RUSHING,,Team,LONG,0
+235105,9/21/2013,FBS,Georgia State,Jacksonville St.,PASSING,Ronnie,Bell,CP-ATT-INT,16-40-1
+235106,9/21/2013,FBS,Georgia State,Jacksonville St.,PASSING,Ronnie,Bell,YDS,250
+235107,9/21/2013,FBS,Georgia State,Jacksonville St.,PASSING,Ronnie,Bell,TD,2
+235108,9/21/2013,FBS,Georgia State,Jacksonville St.,PASSING,Ronnie,Bell,LONG,75
+235109,9/21/2013,FBS,Georgia State,Jacksonville St.,PASSING,Kelton,Hill,CP-ATT-INT,0-1-0
+235110,9/21/2013,FBS,Georgia State,Jacksonville St.,PASSING,Kelton,Hill,YDS,0
+235111,9/21/2013,FBS,Georgia State,Jacksonville St.,PASSING,Kelton,Hill,TD,0
+235112,9/21/2013,FBS,Georgia State,Jacksonville St.,PASSING,Kelton,Hill,LONG,0
+235113,9/21/2013,FBS,Georgia State,Jacksonville St.,PASSING,Ben,McLane,CP-ATT-INT,0-1-0
+235114,9/21/2013,FBS,Georgia State,Jacksonville St.,PASSING,Ben,McLane,YDS,0
+235115,9/21/2013,FBS,Georgia State,Jacksonville St.,PASSING,Ben,McLane,TD,0
+235116,9/21/2013,FBS,Georgia State,Jacksonville St.,PASSING,Ben,McLane,LONG,0
+235117,9/21/2013,FBS,Georgia State,Jacksonville St.,RECEIVING,Albert,Wilson,REC,7
+235118,9/21/2013,FBS,Georgia State,Jacksonville St.,RECEIVING,Albert,Wilson,YDS,158
+235119,9/21/2013,FBS,Georgia State,Jacksonville St.,RECEIVING,Albert,Wilson,TD,1
+235120,9/21/2013,FBS,Georgia State,Jacksonville St.,RECEIVING,Albert,Wilson,LONG,75
+235121,9/21/2013,FBS,Georgia State,Jacksonville St.,RECEIVING,Robert,Davis,REC,3
+235122,9/21/2013,FBS,Georgia State,Jacksonville St.,RECEIVING,Robert,Davis,YDS,36
+235123,9/21/2013,FBS,Georgia State,Jacksonville St.,RECEIVING,Robert,Davis,TD,1
+235124,9/21/2013,FBS,Georgia State,Jacksonville St.,RECEIVING,Robert,Davis,LONG,18
+235125,9/21/2013,FBS,Georgia State,Jacksonville St.,RECEIVING,Travis,Evans,REC,3
+235126,9/21/2013,FBS,Georgia State,Jacksonville St.,RECEIVING,Travis,Evans,YDS,19
+235127,9/21/2013,FBS,Georgia State,Jacksonville St.,RECEIVING,Travis,Evans,TD,0
+235128,9/21/2013,FBS,Georgia State,Jacksonville St.,RECEIVING,Travis,Evans,LONG,9
+235129,9/21/2013,FBS,Georgia State,Jacksonville St.,RECEIVING,Danny,Williams,REC,1
+235130,9/21/2013,FBS,Georgia State,Jacksonville St.,RECEIVING,Danny,Williams,YDS,15
+235131,9/21/2013,FBS,Georgia State,Jacksonville St.,RECEIVING,Danny,Williams,TD,0
+235132,9/21/2013,FBS,Georgia State,Jacksonville St.,RECEIVING,Danny,Williams,LONG,15
+235133,9/21/2013,FBS,Georgia State,Jacksonville St.,RECEIVING,Sean,Jeppesen,REC,1
+235134,9/21/2013,FBS,Georgia State,Jacksonville St.,RECEIVING,Sean,Jeppesen,YDS,11
+235135,9/21/2013,FBS,Georgia State,Jacksonville St.,RECEIVING,Sean,Jeppesen,TD,0
+235136,9/21/2013,FBS,Georgia State,Jacksonville St.,RECEIVING,Sean,Jeppesen,LONG,11
+235137,9/21/2013,FBS,Georgia State,Jacksonville St.,RECEIVING,Kelton,Hill,REC,1
+235138,9/21/2013,FBS,Georgia State,Jacksonville St.,RECEIVING,Kelton,Hill,YDS,11
+235139,9/21/2013,FBS,Georgia State,Jacksonville St.,RECEIVING,Kelton,Hill,TD,0
+235140,9/21/2013,FBS,Georgia State,Jacksonville St.,RECEIVING,Kelton,Hill,LONG,11
+235141,9/21/2013,FBS,Georgia State,Jacksonville St.,KICKING,Wil,Lutz,FG-FGA,2/4
+235142,9/21/2013,FBS,Georgia State,Jacksonville St.,KICKING,Wil,Lutz,LONG,39
+235143,9/21/2013,FBS,Georgia State,Jacksonville St.,KICKING,Wil,Lutz,XP,2
+235144,9/21/2013,FBS,Georgia State,Jacksonville St.,KICKING,Wil,Lutz,PTS,8
+235145,9/21/2013,FBS,Georgia State,Jacksonville St.,PUNTING,Matt,Hubbard,NO,4
+235146,9/21/2013,FBS,Georgia State,Jacksonville St.,PUNTING,Matt,Hubbard,YDS,183
+235147,9/21/2013,FBS,Georgia State,Jacksonville St.,PUNTING,Matt,Hubbard,AVG,45.8
+235148,9/21/2013,FBS,Georgia State,Jacksonville St.,PUNTING,Matt,Hubbard,LONG,80
+235149,9/21/2013,FBS,Georgia State,Jacksonville St.,PUNT RETURNS,Albert,Wilson,NO,2
+235150,9/21/2013,FBS,Georgia State,Jacksonville St.,PUNT RETURNS,Albert,Wilson,YDS,10
+235151,9/21/2013,FBS,Georgia State,Jacksonville St.,PUNT RETURNS,Albert,Wilson,AVG,5.0
+235152,9/21/2013,FBS,Georgia State,Jacksonville St.,PUNT RETURNS,Albert,Wilson,LONG,7
+235153,9/21/2013,FBS,Georgia State,Jacksonville St.,PUNT RETURNS,C.J.,Scott,NO,1
+235154,9/21/2013,FBS,Georgia State,Jacksonville St.,PUNT RETURNS,C.J.,Scott,YDS,17
+235155,9/21/2013,FBS,Georgia State,Jacksonville St.,PUNT RETURNS,C.J.,Scott,AVG,17.0
+235156,9/21/2013,FBS,Georgia State,Jacksonville St.,PUNT RETURNS,C.J.,Scott,LONG,3
+235157,9/21/2013,FBS,Georgia State,Jacksonville St.,KICK RETURNS,Albert,Wilson,NO,3
+235158,9/21/2013,FBS,Georgia State,Jacksonville St.,KICK RETURNS,Albert,Wilson,YDS,97
+235159,9/21/2013,FBS,Georgia State,Jacksonville St.,KICK RETURNS,Albert,Wilson,AVG,32.3
+235160,9/21/2013,FBS,Georgia State,Jacksonville St.,KICK RETURNS,Albert,Wilson,LONG,60

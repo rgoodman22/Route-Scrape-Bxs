@@ -1,0 +1,165 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+60001,8/31/2013,FBS,Temple,Notre Dame,RUSHING,Connor,Reilly,ATT,12
+60002,8/31/2013,FBS,Temple,Notre Dame,RUSHING,Connor,Reilly,YDS,65
+60003,8/31/2013,FBS,Temple,Notre Dame,RUSHING,Connor,Reilly,TD,0
+60004,8/31/2013,FBS,Temple,Notre Dame,RUSHING,Connor,Reilly,LONG,18
+60005,8/31/2013,FBS,Temple,Notre Dame,RUSHING,Zaire,Williams,ATT,7
+60006,8/31/2013,FBS,Temple,Notre Dame,RUSHING,Zaire,Williams,YDS,33
+60007,8/31/2013,FBS,Temple,Notre Dame,RUSHING,Zaire,Williams,TD,0
+60008,8/31/2013,FBS,Temple,Notre Dame,RUSHING,Zaire,Williams,LONG,16
+60009,8/31/2013,FBS,Temple,Notre Dame,RUSHING,Jamie,Gilmore,ATT,3
+60010,8/31/2013,FBS,Temple,Notre Dame,RUSHING,Jamie,Gilmore,YDS,17
+60011,8/31/2013,FBS,Temple,Notre Dame,RUSHING,Jamie,Gilmore,TD,0
+60012,8/31/2013,FBS,Temple,Notre Dame,RUSHING,Jamie,Gilmore,LONG,15
+60013,8/31/2013,FBS,Temple,Notre Dame,RUSHING,Chris,Coyer,ATT,1
+60014,8/31/2013,FBS,Temple,Notre Dame,RUSHING,Chris,Coyer,YDS,14
+60015,8/31/2013,FBS,Temple,Notre Dame,RUSHING,Chris,Coyer,TD,0
+60016,8/31/2013,FBS,Temple,Notre Dame,RUSHING,Chris,Coyer,LONG,14
+60017,8/31/2013,FBS,Temple,Notre Dame,RUSHING,Kenneth,Harper,ATT,6
+60018,8/31/2013,FBS,Temple,Notre Dame,RUSHING,Kenneth,Harper,YDS,5
+60019,8/31/2013,FBS,Temple,Notre Dame,RUSHING,Kenneth,Harper,TD,1
+60020,8/31/2013,FBS,Temple,Notre Dame,RUSHING,Kenneth,Harper,LONG,4
+60021,8/31/2013,FBS,Temple,Notre Dame,PASSING,Connor,Reilly,CP-ATT-INT,23-46-0
+60022,8/31/2013,FBS,Temple,Notre Dame,PASSING,Connor,Reilly,YDS,228
+60023,8/31/2013,FBS,Temple,Notre Dame,PASSING,Connor,Reilly,TD,0
+60024,8/31/2013,FBS,Temple,Notre Dame,PASSING,Connor,Reilly,LONG,26
+60025,8/31/2013,FBS,Temple,Notre Dame,PASSING,,Team,CP-ATT-INT,0-1-0
+60026,8/31/2013,FBS,Temple,Notre Dame,PASSING,,Team,YDS,0
+60027,8/31/2013,FBS,Temple,Notre Dame,PASSING,,Team,TD,0
+60028,8/31/2013,FBS,Temple,Notre Dame,PASSING,,Team,LONG,0
+60029,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,Ryan,Alderman,REC,4
+60030,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,Ryan,Alderman,YDS,65
+60031,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,Ryan,Alderman,TD,0
+60032,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,Ryan,Alderman,LONG,26
+60033,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,Chris,Coyer,REC,4
+60034,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,Chris,Coyer,YDS,39
+60035,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,Chris,Coyer,TD,0
+60036,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,Chris,Coyer,LONG,15
+60037,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,John,Christopher,REC,3
+60038,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,John,Christopher,YDS,25
+60039,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,John,Christopher,TD,0
+60040,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,John,Christopher,LONG,11
+60041,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,Kenneth,Harper,REC,2
+60042,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,Kenneth,Harper,YDS,23
+60043,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,Kenneth,Harper,TD,0
+60044,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,Kenneth,Harper,LONG,15
+60045,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,Jalen,Fitzpatrick,REC,2
+60046,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,Jalen,Fitzpatrick,YDS,16
+60047,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,Jalen,Fitzpatrick,TD,0
+60048,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,Jalen,Fitzpatrick,LONG,11
+60049,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,Zaire,Williams,REC,2
+60050,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,Zaire,Williams,YDS,12
+60051,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,Zaire,Williams,TD,0
+60052,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,Zaire,Williams,LONG,11
+60053,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,Samuel,Benjamin,REC,2
+60054,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,Samuel,Benjamin,YDS,12
+60055,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,Samuel,Benjamin,TD,0
+60056,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,Samuel,Benjamin,LONG,8
+60057,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,Nate,Hairston,REC,2
+60058,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,Nate,Hairston,YDS,12
+60059,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,Nate,Hairston,TD,0
+60060,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,Nate,Hairston,LONG,7
+60061,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,Romond,Deloatch,REC,1
+60062,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,Romond,Deloatch,YDS,20
+60063,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,Romond,Deloatch,TD,0
+60064,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,Romond,Deloatch,LONG,20
+60065,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,Tyler,Karpinski,REC,1
+60066,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,Tyler,Karpinski,YDS,4
+60067,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,Tyler,Karpinski,TD,0
+60068,8/31/2013,FBS,Temple,Notre Dame,RECEIVING,Tyler,Karpinski,LONG,4
+60069,8/31/2013,FBS,Temple,Notre Dame,KICKING,Jim,Cooper,FG-FGA,0/2
+60070,8/31/2013,FBS,Temple,Notre Dame,KICKING,Jim,Cooper,LONG,-
+60071,8/31/2013,FBS,Temple,Notre Dame,KICKING,Jim,Cooper,XP,0
+60072,8/31/2013,FBS,Temple,Notre Dame,KICKING,Jim,Cooper,PTS,0
+60073,8/31/2013,FBS,Temple,Notre Dame,PUNTING,Paul,Layton,NO,5
+60074,8/31/2013,FBS,Temple,Notre Dame,PUNTING,Paul,Layton,YDS,240
+60075,8/31/2013,FBS,Temple,Notre Dame,PUNTING,Paul,Layton,AVG,48.0
+60076,8/31/2013,FBS,Temple,Notre Dame,PUNTING,Paul,Layton,LONG,53
+60077,8/31/2013,FBS,Temple,Notre Dame,PUNT RETURNS,Jalen,Fitzpatrick,NO,2
+60078,8/31/2013,FBS,Temple,Notre Dame,PUNT RETURNS,Jalen,Fitzpatrick,YDS,4
+60079,8/31/2013,FBS,Temple,Notre Dame,PUNT RETURNS,Jalen,Fitzpatrick,AVG,2.0
+60080,8/31/2013,FBS,Temple,Notre Dame,PUNT RETURNS,Jalen,Fitzpatrick,LONG,4
+60081,8/31/2013,FBS,Temple,Notre Dame,KICK RETURNS,Jalen,Fitzpatrick,NO,3
+60082,8/31/2013,FBS,Temple,Notre Dame,KICK RETURNS,Jalen,Fitzpatrick,YDS,88
+60083,8/31/2013,FBS,Temple,Notre Dame,KICK RETURNS,Jalen,Fitzpatrick,AVG,29.3
+60084,8/31/2013,FBS,Temple,Notre Dame,KICK RETURNS,Jalen,Fitzpatrick,LONG,39
+60085,8/31/2013,FBS,Notre Dame,Temple,RUSHING,Amir,Carlisle,ATT,7
+60086,8/31/2013,FBS,Notre Dame,Temple,RUSHING,Amir,Carlisle,YDS,68
+60087,8/31/2013,FBS,Notre Dame,Temple,RUSHING,Amir,Carlisle,TD,0
+60088,8/31/2013,FBS,Notre Dame,Temple,RUSHING,Amir,Carlisle,LONG,45
+60089,8/31/2013,FBS,Notre Dame,Temple,RUSHING,Cam,McDaniel,ATT,12
+60090,8/31/2013,FBS,Notre Dame,Temple,RUSHING,Cam,McDaniel,YDS,65
+60091,8/31/2013,FBS,Notre Dame,Temple,RUSHING,Cam,McDaniel,TD,0
+60092,8/31/2013,FBS,Notre Dame,Temple,RUSHING,Cam,McDaniel,LONG,18
+60093,8/31/2013,FBS,Notre Dame,Temple,RUSHING,George,Atkinson,ATT,8
+60094,8/31/2013,FBS,Notre Dame,Temple,RUSHING,George,Atkinson,YDS,34
+60095,8/31/2013,FBS,Notre Dame,Temple,RUSHING,George,Atkinson,TD,1
+60096,8/31/2013,FBS,Notre Dame,Temple,RUSHING,George,Atkinson,LONG,14
+60097,8/31/2013,FBS,Notre Dame,Temple,RUSHING,Tarean,Folston,ATT,5
+60098,8/31/2013,FBS,Notre Dame,Temple,RUSHING,Tarean,Folston,YDS,14
+60099,8/31/2013,FBS,Notre Dame,Temple,RUSHING,Tarean,Folston,TD,0
+60100,8/31/2013,FBS,Notre Dame,Temple,RUSHING,Tarean,Folston,LONG,8
+60101,8/31/2013,FBS,Notre Dame,Temple,RUSHING,Greg,Bryant,ATT,2
+60102,8/31/2013,FBS,Notre Dame,Temple,RUSHING,Greg,Bryant,YDS,12
+60103,8/31/2013,FBS,Notre Dame,Temple,RUSHING,Greg,Bryant,TD,0
+60104,8/31/2013,FBS,Notre Dame,Temple,RUSHING,Greg,Bryant,LONG,10
+60105,8/31/2013,FBS,Notre Dame,Temple,RUSHING,Tommy,Rees,ATT,1
+60106,8/31/2013,FBS,Notre Dame,Temple,RUSHING,Tommy,Rees,YDS,-5
+60107,8/31/2013,FBS,Notre Dame,Temple,RUSHING,Tommy,Rees,TD,0
+60108,8/31/2013,FBS,Notre Dame,Temple,RUSHING,Tommy,Rees,LONG,0
+60109,8/31/2013,FBS,Notre Dame,Temple,PASSING,Tommy,Rees,CP-ATT-INT,16-23-0
+60110,8/31/2013,FBS,Notre Dame,Temple,PASSING,Tommy,Rees,YDS,346
+60111,8/31/2013,FBS,Notre Dame,Temple,PASSING,Tommy,Rees,TD,3
+60112,8/31/2013,FBS,Notre Dame,Temple,PASSING,Tommy,Rees,LONG,66
+60113,8/31/2013,FBS,Notre Dame,Temple,PASSING,Andrew,Hendrix,CP-ATT-INT,1-4-0
+60114,8/31/2013,FBS,Notre Dame,Temple,PASSING,Andrew,Hendrix,YDS,9
+60115,8/31/2013,FBS,Notre Dame,Temple,PASSING,Andrew,Hendrix,TD,0
+60116,8/31/2013,FBS,Notre Dame,Temple,PASSING,Andrew,Hendrix,LONG,9
+60117,8/31/2013,FBS,Notre Dame,Temple,RECEIVING,TJ,Jones,REC,6
+60118,8/31/2013,FBS,Notre Dame,Temple,RECEIVING,TJ,Jones,YDS,138
+60119,8/31/2013,FBS,Notre Dame,Temple,RECEIVING,TJ,Jones,TD,0
+60120,8/31/2013,FBS,Notre Dame,Temple,RECEIVING,TJ,Jones,LONG,51
+60121,8/31/2013,FBS,Notre Dame,Temple,RECEIVING,DaVaris,Daniels,REC,3
+60122,8/31/2013,FBS,Notre Dame,Temple,RECEIVING,DaVaris,Daniels,YDS,69
+60123,8/31/2013,FBS,Notre Dame,Temple,RECEIVING,DaVaris,Daniels,TD,2
+60124,8/31/2013,FBS,Notre Dame,Temple,RECEIVING,DaVaris,Daniels,LONG,32
+60125,8/31/2013,FBS,Notre Dame,Temple,RECEIVING,Chris,Brown,REC,3
+60126,8/31/2013,FBS,Notre Dame,Temple,RECEIVING,Chris,Brown,YDS,57
+60127,8/31/2013,FBS,Notre Dame,Temple,RECEIVING,Chris,Brown,TD,0
+60128,8/31/2013,FBS,Notre Dame,Temple,RECEIVING,Chris,Brown,LONG,33
+60129,8/31/2013,FBS,Notre Dame,Temple,RECEIVING,Amir,Carlisle,REC,2
+60130,8/31/2013,FBS,Notre Dame,Temple,RECEIVING,Amir,Carlisle,YDS,5
+60131,8/31/2013,FBS,Notre Dame,Temple,RECEIVING,Amir,Carlisle,TD,0
+60132,8/31/2013,FBS,Notre Dame,Temple,RECEIVING,Amir,Carlisle,LONG,6
+60133,8/31/2013,FBS,Notre Dame,Temple,RECEIVING,Troy,Niklas,REC,1
+60134,8/31/2013,FBS,Notre Dame,Temple,RECEIVING,Troy,Niklas,YDS,66
+60135,8/31/2013,FBS,Notre Dame,Temple,RECEIVING,Troy,Niklas,TD,1
+60136,8/31/2013,FBS,Notre Dame,Temple,RECEIVING,Troy,Niklas,LONG,66
+60137,8/31/2013,FBS,Notre Dame,Temple,RECEIVING,George,Atkinson,REC,1
+60138,8/31/2013,FBS,Notre Dame,Temple,RECEIVING,George,Atkinson,YDS,11
+60139,8/31/2013,FBS,Notre Dame,Temple,RECEIVING,George,Atkinson,TD,0
+60140,8/31/2013,FBS,Notre Dame,Temple,RECEIVING,George,Atkinson,LONG,11
+60141,8/31/2013,FBS,Notre Dame,Temple,RECEIVING,Tarean,Folston,REC,1
+60142,8/31/2013,FBS,Notre Dame,Temple,RECEIVING,Tarean,Folston,YDS,9
+60143,8/31/2013,FBS,Notre Dame,Temple,RECEIVING,Tarean,Folston,TD,0
+60144,8/31/2013,FBS,Notre Dame,Temple,RECEIVING,Tarean,Folston,LONG,9
+60145,8/31/2013,FBS,Notre Dame,Temple,KICKING,Kyle,Brindza,FG-FGA,0/1
+60146,8/31/2013,FBS,Notre Dame,Temple,KICKING,Kyle,Brindza,LONG,-
+60147,8/31/2013,FBS,Notre Dame,Temple,KICKING,Kyle,Brindza,XP,0
+60148,8/31/2013,FBS,Notre Dame,Temple,KICKING,Kyle,Brindza,PTS,0
+60149,8/31/2013,FBS,Notre Dame,Temple,KICKING,Nick,Tausch,FG-FGA,0/1
+60150,8/31/2013,FBS,Notre Dame,Temple,KICKING,Nick,Tausch,LONG,-
+60151,8/31/2013,FBS,Notre Dame,Temple,KICKING,Nick,Tausch,XP,4
+60152,8/31/2013,FBS,Notre Dame,Temple,KICKING,Nick,Tausch,PTS,4
+60153,8/31/2013,FBS,Notre Dame,Temple,PUNTING,Kyle,Brindza,NO,5
+60154,8/31/2013,FBS,Notre Dame,Temple,PUNTING,Kyle,Brindza,YDS,206
+60155,8/31/2013,FBS,Notre Dame,Temple,PUNTING,Kyle,Brindza,AVG,41.2
+60156,8/31/2013,FBS,Notre Dame,Temple,PUNTING,Kyle,Brindza,LONG,47
+60157,8/31/2013,FBS,Notre Dame,Temple,PUNT RETURNS,TJ,Jones,NO,3
+60158,8/31/2013,FBS,Notre Dame,Temple,PUNT RETURNS,TJ,Jones,YDS,23
+60159,8/31/2013,FBS,Notre Dame,Temple,PUNT RETURNS,TJ,Jones,AVG,7.7
+60160,8/31/2013,FBS,Notre Dame,Temple,PUNT RETURNS,TJ,Jones,LONG,12
+60161,8/31/2013,FBS,Notre Dame,Temple,KICK RETURNS,George,Atkinson,NO,2
+60162,8/31/2013,FBS,Notre Dame,Temple,KICK RETURNS,George,Atkinson,YDS,40
+60163,8/31/2013,FBS,Notre Dame,Temple,KICK RETURNS,George,Atkinson,AVG,20.0
+60164,8/31/2013,FBS,Notre Dame,Temple,KICK RETURNS,George,Atkinson,LONG,21

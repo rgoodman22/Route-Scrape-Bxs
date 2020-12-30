@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+308001,11/9/2013,FBS,Penn State,Minnesota,RUSHING,Zach,Zwinak,ATT,26
+308002,11/9/2013,FBS,Penn State,Minnesota,RUSHING,Zach,Zwinak,YDS,150
+308003,11/9/2013,FBS,Penn State,Minnesota,RUSHING,Zach,Zwinak,TD,1
+308004,11/9/2013,FBS,Penn State,Minnesota,RUSHING,Zach,Zwinak,LONG,38
+308005,11/9/2013,FBS,Penn State,Minnesota,RUSHING,Bill,Belton,ATT,7
+308006,11/9/2013,FBS,Penn State,Minnesota,RUSHING,Bill,Belton,YDS,47
+308007,11/9/2013,FBS,Penn State,Minnesota,RUSHING,Bill,Belton,TD,0
+308008,11/9/2013,FBS,Penn State,Minnesota,RUSHING,Bill,Belton,LONG,19
+308009,11/9/2013,FBS,Penn State,Minnesota,RUSHING,,Team,ATT,1
+308010,11/9/2013,FBS,Penn State,Minnesota,RUSHING,,Team,YDS,-1
+308011,11/9/2013,FBS,Penn State,Minnesota,RUSHING,,Team,TD,0
+308012,11/9/2013,FBS,Penn State,Minnesota,RUSHING,,Team,LONG,0
+308013,11/9/2013,FBS,Penn State,Minnesota,RUSHING,Christian,Hackenberg,ATT,2
+308014,11/9/2013,FBS,Penn State,Minnesota,RUSHING,Christian,Hackenberg,YDS,-6
+308015,11/9/2013,FBS,Penn State,Minnesota,RUSHING,Christian,Hackenberg,TD,0
+308016,11/9/2013,FBS,Penn State,Minnesota,RUSHING,Christian,Hackenberg,LONG,0
+308017,11/9/2013,FBS,Penn State,Minnesota,PASSING,Christian,Hackenberg,CP-ATT-INT,14-25-0
+308018,11/9/2013,FBS,Penn State,Minnesota,PASSING,Christian,Hackenberg,YDS,163
+308019,11/9/2013,FBS,Penn State,Minnesota,PASSING,Christian,Hackenberg,TD,0
+308020,11/9/2013,FBS,Penn State,Minnesota,PASSING,Christian,Hackenberg,LONG,30
+308021,11/9/2013,FBS,Penn State,Minnesota,RECEIVING,Allen,Robinson,REC,7
+308022,11/9/2013,FBS,Penn State,Minnesota,RECEIVING,Allen,Robinson,YDS,63
+308023,11/9/2013,FBS,Penn State,Minnesota,RECEIVING,Allen,Robinson,TD,0
+308024,11/9/2013,FBS,Penn State,Minnesota,RECEIVING,Allen,Robinson,LONG,14
+308025,11/9/2013,FBS,Penn State,Minnesota,RECEIVING,Bill,Belton,REC,2
+308026,11/9/2013,FBS,Penn State,Minnesota,RECEIVING,Bill,Belton,YDS,41
+308027,11/9/2013,FBS,Penn State,Minnesota,RECEIVING,Bill,Belton,TD,0
+308028,11/9/2013,FBS,Penn State,Minnesota,RECEIVING,Bill,Belton,LONG,30
+308029,11/9/2013,FBS,Penn State,Minnesota,RECEIVING,Adam,Breneman,REC,2
+308030,11/9/2013,FBS,Penn State,Minnesota,RECEIVING,Adam,Breneman,YDS,27
+308031,11/9/2013,FBS,Penn State,Minnesota,RECEIVING,Adam,Breneman,TD,0
+308032,11/9/2013,FBS,Penn State,Minnesota,RECEIVING,Adam,Breneman,LONG,22
+308033,11/9/2013,FBS,Penn State,Minnesota,RECEIVING,Matt,Zanellato,REC,1
+308034,11/9/2013,FBS,Penn State,Minnesota,RECEIVING,Matt,Zanellato,YDS,15
+308035,11/9/2013,FBS,Penn State,Minnesota,RECEIVING,Matt,Zanellato,TD,0
+308036,11/9/2013,FBS,Penn State,Minnesota,RECEIVING,Matt,Zanellato,LONG,15
+308037,11/9/2013,FBS,Penn State,Minnesota,RECEIVING,Jesse,James,REC,1
+308038,11/9/2013,FBS,Penn State,Minnesota,RECEIVING,Jesse,James,YDS,9
+308039,11/9/2013,FBS,Penn State,Minnesota,RECEIVING,Jesse,James,TD,0
+308040,11/9/2013,FBS,Penn State,Minnesota,RECEIVING,Jesse,James,LONG,9
+308041,11/9/2013,FBS,Penn State,Minnesota,RECEIVING,Kyle,Carter,REC,1
+308042,11/9/2013,FBS,Penn State,Minnesota,RECEIVING,Kyle,Carter,YDS,8
+308043,11/9/2013,FBS,Penn State,Minnesota,RECEIVING,Kyle,Carter,TD,0
+308044,11/9/2013,FBS,Penn State,Minnesota,RECEIVING,Kyle,Carter,LONG,8
+308045,11/9/2013,FBS,Penn State,Minnesota,KICKING,Sam,Ficken,FG-FGA,1/1
+308046,11/9/2013,FBS,Penn State,Minnesota,KICKING,Sam,Ficken,LONG,27
+308047,11/9/2013,FBS,Penn State,Minnesota,KICKING,Sam,Ficken,XP,1
+308048,11/9/2013,FBS,Penn State,Minnesota,KICKING,Sam,Ficken,PTS,4
+308049,11/9/2013,FBS,Penn State,Minnesota,PUNTING,Alex,Butterworth,NO,3
+308050,11/9/2013,FBS,Penn State,Minnesota,PUNTING,Alex,Butterworth,YDS,109
+308051,11/9/2013,FBS,Penn State,Minnesota,PUNTING,Alex,Butterworth,AVG,36.3
+308052,11/9/2013,FBS,Penn State,Minnesota,PUNTING,Alex,Butterworth,LONG,49
+308053,11/9/2013,FBS,Penn State,Minnesota,PUNT RETURNS,Von,Walker,NO,1
+308054,11/9/2013,FBS,Penn State,Minnesota,PUNT RETURNS,Von,Walker,YDS,2
+308055,11/9/2013,FBS,Penn State,Minnesota,PUNT RETURNS,Von,Walker,AVG,2.0
+308056,11/9/2013,FBS,Penn State,Minnesota,PUNT RETURNS,Von,Walker,LONG,2
+308057,11/9/2013,FBS,Penn State,Minnesota,PUNT RETURNS,Jesse,DellaValle,NO,1
+308058,11/9/2013,FBS,Penn State,Minnesota,PUNT RETURNS,Jesse,DellaValle,YDS,0
+308059,11/9/2013,FBS,Penn State,Minnesota,PUNT RETURNS,Jesse,DellaValle,AVG,0.0
+308060,11/9/2013,FBS,Penn State,Minnesota,PUNT RETURNS,Jesse,DellaValle,LONG,0
+308061,11/9/2013,FBS,Penn State,Minnesota,KICK RETURNS,Geno,Lewis,NO,2
+308062,11/9/2013,FBS,Penn State,Minnesota,KICK RETURNS,Geno,Lewis,YDS,39
+308063,11/9/2013,FBS,Penn State,Minnesota,KICK RETURNS,Geno,Lewis,AVG,19.5
+308064,11/9/2013,FBS,Penn State,Minnesota,KICK RETURNS,Geno,Lewis,LONG,26
+308065,11/9/2013,FBS,Minnesota,Penn State,RUSHING,David,Cobb,ATT,27
+308066,11/9/2013,FBS,Minnesota,Penn State,RUSHING,David,Cobb,YDS,139
+308067,11/9/2013,FBS,Minnesota,Penn State,RUSHING,David,Cobb,TD,1
+308068,11/9/2013,FBS,Minnesota,Penn State,RUSHING,David,Cobb,LONG,44
+308069,11/9/2013,FBS,Minnesota,Penn State,RUSHING,Philip,Nelson,ATT,12
+308070,11/9/2013,FBS,Minnesota,Penn State,RUSHING,Philip,Nelson,YDS,40
+308071,11/9/2013,FBS,Minnesota,Penn State,RUSHING,Philip,Nelson,TD,1
+308072,11/9/2013,FBS,Minnesota,Penn State,RUSHING,Philip,Nelson,LONG,16
+308073,11/9/2013,FBS,Minnesota,Penn State,RUSHING,Donovahn,Jones,ATT,4
+308074,11/9/2013,FBS,Minnesota,Penn State,RUSHING,Donovahn,Jones,YDS,11
+308075,11/9/2013,FBS,Minnesota,Penn State,RUSHING,Donovahn,Jones,TD,0
+308076,11/9/2013,FBS,Minnesota,Penn State,RUSHING,Donovahn,Jones,LONG,6
+308077,11/9/2013,FBS,Minnesota,Penn State,RUSHING,Donnell,Kirkwood,ATT,3
+308078,11/9/2013,FBS,Minnesota,Penn State,RUSHING,Donnell,Kirkwood,YDS,5
+308079,11/9/2013,FBS,Minnesota,Penn State,RUSHING,Donnell,Kirkwood,TD,0
+308080,11/9/2013,FBS,Minnesota,Penn State,RUSHING,Donnell,Kirkwood,LONG,5
+308081,11/9/2013,FBS,Minnesota,Penn State,PASSING,Philip,Nelson,CP-ATT-INT,15-24-0
+308082,11/9/2013,FBS,Minnesota,Penn State,PASSING,Philip,Nelson,YDS,186
+308083,11/9/2013,FBS,Minnesota,Penn State,PASSING,Philip,Nelson,TD,1
+308084,11/9/2013,FBS,Minnesota,Penn State,PASSING,Philip,Nelson,LONG,27
+308085,11/9/2013,FBS,Minnesota,Penn State,PASSING,,Team,CP-ATT-INT,0-1-0
+308086,11/9/2013,FBS,Minnesota,Penn State,PASSING,,Team,YDS,0
+308087,11/9/2013,FBS,Minnesota,Penn State,PASSING,,Team,TD,0
+308088,11/9/2013,FBS,Minnesota,Penn State,PASSING,,Team,LONG,0
+308089,11/9/2013,FBS,Minnesota,Penn State,RECEIVING,Derrick,Engel,REC,3
+308090,11/9/2013,FBS,Minnesota,Penn State,RECEIVING,Derrick,Engel,YDS,40
+308091,11/9/2013,FBS,Minnesota,Penn State,RECEIVING,Derrick,Engel,TD,0
+308092,11/9/2013,FBS,Minnesota,Penn State,RECEIVING,Derrick,Engel,LONG,27
+308093,11/9/2013,FBS,Minnesota,Penn State,RECEIVING,David,Cobb,REC,3
+308094,11/9/2013,FBS,Minnesota,Penn State,RECEIVING,David,Cobb,YDS,30
+308095,11/9/2013,FBS,Minnesota,Penn State,RECEIVING,David,Cobb,TD,0
+308096,11/9/2013,FBS,Minnesota,Penn State,RECEIVING,David,Cobb,LONG,26
+308097,11/9/2013,FBS,Minnesota,Penn State,RECEIVING,Maxx,Williams,REC,2
+308098,11/9/2013,FBS,Minnesota,Penn State,RECEIVING,Maxx,Williams,YDS,48
+308099,11/9/2013,FBS,Minnesota,Penn State,RECEIVING,Maxx,Williams,TD,1
+308100,11/9/2013,FBS,Minnesota,Penn State,RECEIVING,Maxx,Williams,LONG,24
+308101,11/9/2013,FBS,Minnesota,Penn State,RECEIVING,Drew,Wolitarsky,REC,2
+308102,11/9/2013,FBS,Minnesota,Penn State,RECEIVING,Drew,Wolitarsky,YDS,22
+308103,11/9/2013,FBS,Minnesota,Penn State,RECEIVING,Drew,Wolitarsky,TD,0
+308104,11/9/2013,FBS,Minnesota,Penn State,RECEIVING,Drew,Wolitarsky,LONG,19
+308105,11/9/2013,FBS,Minnesota,Penn State,RECEIVING,Isaac,Fruechte,REC,2
+308106,11/9/2013,FBS,Minnesota,Penn State,RECEIVING,Isaac,Fruechte,YDS,21
+308107,11/9/2013,FBS,Minnesota,Penn State,RECEIVING,Isaac,Fruechte,TD,0
+308108,11/9/2013,FBS,Minnesota,Penn State,RECEIVING,Isaac,Fruechte,LONG,11
+308109,11/9/2013,FBS,Minnesota,Penn State,RECEIVING,Donovahn,Jones,REC,2
+308110,11/9/2013,FBS,Minnesota,Penn State,RECEIVING,Donovahn,Jones,YDS,13
+308111,11/9/2013,FBS,Minnesota,Penn State,RECEIVING,Donovahn,Jones,TD,0
+308112,11/9/2013,FBS,Minnesota,Penn State,RECEIVING,Donovahn,Jones,LONG,11
+308113,11/9/2013,FBS,Minnesota,Penn State,RECEIVING,Mike,Henry,REC,1
+308114,11/9/2013,FBS,Minnesota,Penn State,RECEIVING,Mike,Henry,YDS,12
+308115,11/9/2013,FBS,Minnesota,Penn State,RECEIVING,Mike,Henry,TD,0
+308116,11/9/2013,FBS,Minnesota,Penn State,RECEIVING,Mike,Henry,LONG,12
+308117,11/9/2013,FBS,Minnesota,Penn State,KICKING,Chris,Hawthorne,FG-FGA,1/1
+308118,11/9/2013,FBS,Minnesota,Penn State,KICKING,Chris,Hawthorne,LONG,45
+308119,11/9/2013,FBS,Minnesota,Penn State,KICKING,Chris,Hawthorne,XP,3
+308120,11/9/2013,FBS,Minnesota,Penn State,KICKING,Chris,Hawthorne,PTS,6
+308121,11/9/2013,FBS,Minnesota,Penn State,PUNTING,Peter,Mortell,NO,4
+308122,11/9/2013,FBS,Minnesota,Penn State,PUNTING,Peter,Mortell,YDS,184
+308123,11/9/2013,FBS,Minnesota,Penn State,PUNTING,Peter,Mortell,AVG,46.0
+308124,11/9/2013,FBS,Minnesota,Penn State,PUNTING,Peter,Mortell,LONG,62
+308125,11/9/2013,FBS,Minnesota,Penn State,PUNT RETURNS,Jeremy,Baltazar,NO,1
+308126,11/9/2013,FBS,Minnesota,Penn State,PUNT RETURNS,Jeremy,Baltazar,YDS,0
+308127,11/9/2013,FBS,Minnesota,Penn State,PUNT RETURNS,Jeremy,Baltazar,AVG,0.0
+308128,11/9/2013,FBS,Minnesota,Penn State,PUNT RETURNS,Jeremy,Baltazar,LONG,0
+308129,11/9/2013,FBS,Minnesota,Penn State,KICK RETURNS,Marcus,Jones,NO,2
+308130,11/9/2013,FBS,Minnesota,Penn State,KICK RETURNS,Marcus,Jones,YDS,38
+308131,11/9/2013,FBS,Minnesota,Penn State,KICK RETURNS,Marcus,Jones,AVG,19.0
+308132,11/9/2013,FBS,Minnesota,Penn State,KICK RETURNS,Marcus,Jones,LONG,23
+308133,11/9/2013,FBS,Minnesota,Penn State,KICK RETURNS,Antonio,Johnson,NO,1
+308134,11/9/2013,FBS,Minnesota,Penn State,KICK RETURNS,Antonio,Johnson,YDS,29
+308135,11/9/2013,FBS,Minnesota,Penn State,KICK RETURNS,Antonio,Johnson,AVG,29.0
+308136,11/9/2013,FBS,Minnesota,Penn State,KICK RETURNS,Antonio,Johnson,LONG,29

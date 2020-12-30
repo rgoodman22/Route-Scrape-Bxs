@@ -1,0 +1,185 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+88001,9/7/2013,FBS,Buffalo,Baylor,RUSHING,Anthone,Taylor,ATT,19
+88002,9/7/2013,FBS,Buffalo,Baylor,RUSHING,Anthone,Taylor,YDS,39
+88003,9/7/2013,FBS,Buffalo,Baylor,RUSHING,Anthone,Taylor,TD,0
+88004,9/7/2013,FBS,Buffalo,Baylor,RUSHING,Anthone,Taylor,LONG,11
+88005,9/7/2013,FBS,Buffalo,Baylor,RUSHING,Branden,Oliver,ATT,13
+88006,9/7/2013,FBS,Buffalo,Baylor,RUSHING,Branden,Oliver,YDS,32
+88007,9/7/2013,FBS,Buffalo,Baylor,RUSHING,Branden,Oliver,TD,1
+88008,9/7/2013,FBS,Buffalo,Baylor,RUSHING,Branden,Oliver,LONG,10
+88009,9/7/2013,FBS,Buffalo,Baylor,RUSHING,Alex,Zordich,ATT,6
+88010,9/7/2013,FBS,Buffalo,Baylor,RUSHING,Alex,Zordich,YDS,30
+88011,9/7/2013,FBS,Buffalo,Baylor,RUSHING,Alex,Zordich,TD,0
+88012,9/7/2013,FBS,Buffalo,Baylor,RUSHING,Alex,Zordich,LONG,11
+88013,9/7/2013,FBS,Buffalo,Baylor,RUSHING,James,Potts,ATT,5
+88014,9/7/2013,FBS,Buffalo,Baylor,RUSHING,James,Potts,YDS,8
+88015,9/7/2013,FBS,Buffalo,Baylor,RUSHING,James,Potts,TD,0
+88016,9/7/2013,FBS,Buffalo,Baylor,RUSHING,James,Potts,LONG,5
+88017,9/7/2013,FBS,Buffalo,Baylor,RUSHING,Colby,Way,ATT,1
+88018,9/7/2013,FBS,Buffalo,Baylor,RUSHING,Colby,Way,YDS,-2
+88019,9/7/2013,FBS,Buffalo,Baylor,RUSHING,Colby,Way,TD,0
+88020,9/7/2013,FBS,Buffalo,Baylor,RUSHING,Colby,Way,LONG,0
+88021,9/7/2013,FBS,Buffalo,Baylor,RUSHING,Joe,Licata,ATT,4
+88022,9/7/2013,FBS,Buffalo,Baylor,RUSHING,Joe,Licata,YDS,-6
+88023,9/7/2013,FBS,Buffalo,Baylor,RUSHING,Joe,Licata,TD,0
+88024,9/7/2013,FBS,Buffalo,Baylor,RUSHING,Joe,Licata,LONG,0
+88025,9/7/2013,FBS,Buffalo,Baylor,RUSHING,,Team,ATT,1
+88026,9/7/2013,FBS,Buffalo,Baylor,RUSHING,,Team,YDS,-18
+88027,9/7/2013,FBS,Buffalo,Baylor,RUSHING,,Team,TD,0
+88028,9/7/2013,FBS,Buffalo,Baylor,RUSHING,,Team,LONG,0
+88029,9/7/2013,FBS,Buffalo,Baylor,PASSING,Joe,Licata,CP-ATT-INT,10-16-1
+88030,9/7/2013,FBS,Buffalo,Baylor,PASSING,Joe,Licata,YDS,214
+88031,9/7/2013,FBS,Buffalo,Baylor,PASSING,Joe,Licata,TD,1
+88032,9/7/2013,FBS,Buffalo,Baylor,PASSING,Joe,Licata,LONG,62
+88033,9/7/2013,FBS,Buffalo,Baylor,PASSING,Alex,Zordich,CP-ATT-INT,5-10-0
+88034,9/7/2013,FBS,Buffalo,Baylor,PASSING,Alex,Zordich,YDS,66
+88035,9/7/2013,FBS,Buffalo,Baylor,PASSING,Alex,Zordich,TD,0
+88036,9/7/2013,FBS,Buffalo,Baylor,PASSING,Alex,Zordich,LONG,45
+88037,9/7/2013,FBS,Buffalo,Baylor,RECEIVING,Alex,Neutz,REC,6
+88038,9/7/2013,FBS,Buffalo,Baylor,RECEIVING,Alex,Neutz,YDS,197
+88039,9/7/2013,FBS,Buffalo,Baylor,RECEIVING,Alex,Neutz,TD,1
+88040,9/7/2013,FBS,Buffalo,Baylor,RECEIVING,Alex,Neutz,LONG,62
+88041,9/7/2013,FBS,Buffalo,Baylor,RECEIVING,Fred,Lee,REC,5
+88042,9/7/2013,FBS,Buffalo,Baylor,RECEIVING,Fred,Lee,YDS,29
+88043,9/7/2013,FBS,Buffalo,Baylor,RECEIVING,Fred,Lee,TD,0
+88044,9/7/2013,FBS,Buffalo,Baylor,RECEIVING,Fred,Lee,LONG,10
+88045,9/7/2013,FBS,Buffalo,Baylor,RECEIVING,Anthone,Taylor,REC,2
+88046,9/7/2013,FBS,Buffalo,Baylor,RECEIVING,Anthone,Taylor,YDS,4
+88047,9/7/2013,FBS,Buffalo,Baylor,RECEIVING,Anthone,Taylor,TD,0
+88048,9/7/2013,FBS,Buffalo,Baylor,RECEIVING,Anthone,Taylor,LONG,5
+88049,9/7/2013,FBS,Buffalo,Baylor,RECEIVING,Ron,Willoughby,REC,1
+88050,9/7/2013,FBS,Buffalo,Baylor,RECEIVING,Ron,Willoughby,YDS,45
+88051,9/7/2013,FBS,Buffalo,Baylor,RECEIVING,Ron,Willoughby,TD,0
+88052,9/7/2013,FBS,Buffalo,Baylor,RECEIVING,Ron,Willoughby,LONG,45
+88053,9/7/2013,FBS,Buffalo,Baylor,RECEIVING,Mason,Schreck,REC,1
+88054,9/7/2013,FBS,Buffalo,Baylor,RECEIVING,Mason,Schreck,YDS,5
+88055,9/7/2013,FBS,Buffalo,Baylor,RECEIVING,Mason,Schreck,TD,0
+88056,9/7/2013,FBS,Buffalo,Baylor,RECEIVING,Mason,Schreck,LONG,5
+88057,9/7/2013,FBS,Buffalo,Baylor,KICKING,Patrick,Clarke,FG-FGA,0/0
+88058,9/7/2013,FBS,Buffalo,Baylor,KICKING,Patrick,Clarke,LONG,-
+88059,9/7/2013,FBS,Buffalo,Baylor,KICKING,Patrick,Clarke,XP,1
+88060,9/7/2013,FBS,Buffalo,Baylor,KICKING,Patrick,Clarke,PTS,1
+88061,9/7/2013,FBS,Buffalo,Baylor,PUNTING,Tyler,Grassman,NO,8
+88062,9/7/2013,FBS,Buffalo,Baylor,PUNTING,Tyler,Grassman,YDS,343
+88063,9/7/2013,FBS,Buffalo,Baylor,PUNTING,Tyler,Grassman,AVG,42.9
+88064,9/7/2013,FBS,Buffalo,Baylor,PUNTING,Tyler,Grassman,LONG,57
+88065,9/7/2013,FBS,Buffalo,Baylor,PUNTING,Patrick,Clarke,NO,1
+88066,9/7/2013,FBS,Buffalo,Baylor,PUNTING,Patrick,Clarke,YDS,9
+88067,9/7/2013,FBS,Buffalo,Baylor,PUNTING,Patrick,Clarke,AVG,9.0
+88068,9/7/2013,FBS,Buffalo,Baylor,PUNTING,Patrick,Clarke,LONG,9
+88069,9/7/2013,FBS,Buffalo,Baylor,KICK RETURNS,Devin,Campbell,NO,2
+88070,9/7/2013,FBS,Buffalo,Baylor,KICK RETURNS,Devin,Campbell,YDS,30
+88071,9/7/2013,FBS,Buffalo,Baylor,KICK RETURNS,Devin,Campbell,AVG,15.0
+88072,9/7/2013,FBS,Buffalo,Baylor,KICK RETURNS,Devin,Campbell,LONG,15
+88073,9/7/2013,FBS,Buffalo,Baylor,KICK RETURNS,Okoye,Houston,NO,1
+88074,9/7/2013,FBS,Buffalo,Baylor,KICK RETURNS,Okoye,Houston,YDS,18
+88075,9/7/2013,FBS,Buffalo,Baylor,KICK RETURNS,Okoye,Houston,AVG,18.0
+88076,9/7/2013,FBS,Buffalo,Baylor,KICK RETURNS,Okoye,Houston,LONG,18
+88077,9/7/2013,FBS,Buffalo,Baylor,KICK RETURNS,Jimmy,Gordon,NO,1
+88078,9/7/2013,FBS,Buffalo,Baylor,KICK RETURNS,Jimmy,Gordon,YDS,13
+88079,9/7/2013,FBS,Buffalo,Baylor,KICK RETURNS,Jimmy,Gordon,AVG,13.0
+88080,9/7/2013,FBS,Buffalo,Baylor,KICK RETURNS,Jimmy,Gordon,LONG,13
+88081,9/7/2013,FBS,Baylor,Buffalo,RUSHING,Lache,Seastrunk,ATT,17
+88082,9/7/2013,FBS,Baylor,Buffalo,RUSHING,Lache,Seastrunk,YDS,150
+88083,9/7/2013,FBS,Baylor,Buffalo,RUSHING,Lache,Seastrunk,TD,3
+88084,9/7/2013,FBS,Baylor,Buffalo,RUSHING,Lache,Seastrunk,LONG,33
+88085,9/7/2013,FBS,Baylor,Buffalo,RUSHING,Shock,Linwood,ATT,12
+88086,9/7/2013,FBS,Baylor,Buffalo,RUSHING,Shock,Linwood,YDS,76
+88087,9/7/2013,FBS,Baylor,Buffalo,RUSHING,Shock,Linwood,TD,2
+88088,9/7/2013,FBS,Baylor,Buffalo,RUSHING,Shock,Linwood,LONG,13
+88089,9/7/2013,FBS,Baylor,Buffalo,RUSHING,Devin,Chafin,ATT,7
+88090,9/7/2013,FBS,Baylor,Buffalo,RUSHING,Devin,Chafin,YDS,35
+88091,9/7/2013,FBS,Baylor,Buffalo,RUSHING,Devin,Chafin,TD,0
+88092,9/7/2013,FBS,Baylor,Buffalo,RUSHING,Devin,Chafin,LONG,19
+88093,9/7/2013,FBS,Baylor,Buffalo,RUSHING,Anthony,Webb,ATT,8
+88094,9/7/2013,FBS,Baylor,Buffalo,RUSHING,Anthony,Webb,YDS,28
+88095,9/7/2013,FBS,Baylor,Buffalo,RUSHING,Anthony,Webb,TD,0
+88096,9/7/2013,FBS,Baylor,Buffalo,RUSHING,Anthony,Webb,LONG,11
+88097,9/7/2013,FBS,Baylor,Buffalo,RUSHING,Seth,Russell,ATT,4
+88098,9/7/2013,FBS,Baylor,Buffalo,RUSHING,Seth,Russell,YDS,18
+88099,9/7/2013,FBS,Baylor,Buffalo,RUSHING,Seth,Russell,TD,0
+88100,9/7/2013,FBS,Baylor,Buffalo,RUSHING,Seth,Russell,LONG,21
+88101,9/7/2013,FBS,Baylor,Buffalo,RUSHING,Bryce,Petty,ATT,2
+88102,9/7/2013,FBS,Baylor,Buffalo,RUSHING,Bryce,Petty,YDS,8
+88103,9/7/2013,FBS,Baylor,Buffalo,RUSHING,Bryce,Petty,TD,1
+88104,9/7/2013,FBS,Baylor,Buffalo,RUSHING,Bryce,Petty,LONG,5
+88105,9/7/2013,FBS,Baylor,Buffalo,RUSHING,Glasco,Martin,ATT,1
+88106,9/7/2013,FBS,Baylor,Buffalo,RUSHING,Glasco,Martin,YDS,7
+88107,9/7/2013,FBS,Baylor,Buffalo,RUSHING,Glasco,Martin,TD,0
+88108,9/7/2013,FBS,Baylor,Buffalo,RUSHING,Glasco,Martin,LONG,7
+88109,9/7/2013,FBS,Baylor,Buffalo,RUSHING,Antwan,Goodley,ATT,1
+88110,9/7/2013,FBS,Baylor,Buffalo,RUSHING,Antwan,Goodley,YDS,5
+88111,9/7/2013,FBS,Baylor,Buffalo,RUSHING,Antwan,Goodley,TD,0
+88112,9/7/2013,FBS,Baylor,Buffalo,RUSHING,Antwan,Goodley,LONG,5
+88113,9/7/2013,FBS,Baylor,Buffalo,RUSHING,Andrew,Frerking,ATT,2
+88114,9/7/2013,FBS,Baylor,Buffalo,RUSHING,Andrew,Frerking,YDS,3
+88115,9/7/2013,FBS,Baylor,Buffalo,RUSHING,Andrew,Frerking,TD,0
+88116,9/7/2013,FBS,Baylor,Buffalo,RUSHING,Andrew,Frerking,LONG,6
+88117,9/7/2013,FBS,Baylor,Buffalo,RUSHING,,Team,ATT,1
+88118,9/7/2013,FBS,Baylor,Buffalo,RUSHING,,Team,YDS,-1
+88119,9/7/2013,FBS,Baylor,Buffalo,RUSHING,,Team,TD,0
+88120,9/7/2013,FBS,Baylor,Buffalo,RUSHING,,Team,LONG,0
+88121,9/7/2013,FBS,Baylor,Buffalo,PASSING,Bryce,Petty,CP-ATT-INT,13-16-0
+88122,9/7/2013,FBS,Baylor,Buffalo,PASSING,Bryce,Petty,YDS,338
+88123,9/7/2013,FBS,Baylor,Buffalo,PASSING,Bryce,Petty,TD,2
+88124,9/7/2013,FBS,Baylor,Buffalo,PASSING,Bryce,Petty,LONG,83
+88125,9/7/2013,FBS,Baylor,Buffalo,PASSING,Seth,Russell,CP-ATT-INT,6-9-0
+88126,9/7/2013,FBS,Baylor,Buffalo,PASSING,Seth,Russell,YDS,114
+88127,9/7/2013,FBS,Baylor,Buffalo,PASSING,Seth,Russell,TD,1
+88128,9/7/2013,FBS,Baylor,Buffalo,PASSING,Seth,Russell,LONG,53
+88129,9/7/2013,FBS,Baylor,Buffalo,RECEIVING,Tevin,Reese,REC,4
+88130,9/7/2013,FBS,Baylor,Buffalo,RECEIVING,Tevin,Reese,YDS,130
+88131,9/7/2013,FBS,Baylor,Buffalo,RECEIVING,Tevin,Reese,TD,1
+88132,9/7/2013,FBS,Baylor,Buffalo,RECEIVING,Tevin,Reese,LONG,61
+88133,9/7/2013,FBS,Baylor,Buffalo,RECEIVING,Antwan,Goodley,REC,4
+88134,9/7/2013,FBS,Baylor,Buffalo,RECEIVING,Antwan,Goodley,YDS,124
+88135,9/7/2013,FBS,Baylor,Buffalo,RECEIVING,Antwan,Goodley,TD,1
+88136,9/7/2013,FBS,Baylor,Buffalo,RECEIVING,Antwan,Goodley,LONG,83
+88137,9/7/2013,FBS,Baylor,Buffalo,RECEIVING,Jay,Lee,REC,2
+88138,9/7/2013,FBS,Baylor,Buffalo,RECEIVING,Jay,Lee,YDS,59
+88139,9/7/2013,FBS,Baylor,Buffalo,RECEIVING,Jay,Lee,TD,1
+88140,9/7/2013,FBS,Baylor,Buffalo,RECEIVING,Jay,Lee,LONG,53
+88141,9/7/2013,FBS,Baylor,Buffalo,RECEIVING,Jerod,Monk,REC,2
+88142,9/7/2013,FBS,Baylor,Buffalo,RECEIVING,Jerod,Monk,YDS,53
+88143,9/7/2013,FBS,Baylor,Buffalo,RECEIVING,Jerod,Monk,TD,0
+88144,9/7/2013,FBS,Baylor,Buffalo,RECEIVING,Jerod,Monk,LONG,40
+88145,9/7/2013,FBS,Baylor,Buffalo,RECEIVING,Corey,Coleman,REC,2
+88146,9/7/2013,FBS,Baylor,Buffalo,RECEIVING,Corey,Coleman,YDS,28
+88147,9/7/2013,FBS,Baylor,Buffalo,RECEIVING,Corey,Coleman,TD,0
+88148,9/7/2013,FBS,Baylor,Buffalo,RECEIVING,Corey,Coleman,LONG,20
+88149,9/7/2013,FBS,Baylor,Buffalo,RECEIVING,Jordan,Najvar,REC,2
+88150,9/7/2013,FBS,Baylor,Buffalo,RECEIVING,Jordan,Najvar,YDS,23
+88151,9/7/2013,FBS,Baylor,Buffalo,RECEIVING,Jordan,Najvar,TD,0
+88152,9/7/2013,FBS,Baylor,Buffalo,RECEIVING,Jordan,Najvar,LONG,12
+88153,9/7/2013,FBS,Baylor,Buffalo,RECEIVING,Levi,Norwood,REC,1
+88154,9/7/2013,FBS,Baylor,Buffalo,RECEIVING,Levi,Norwood,YDS,20
+88155,9/7/2013,FBS,Baylor,Buffalo,RECEIVING,Levi,Norwood,TD,0
+88156,9/7/2013,FBS,Baylor,Buffalo,RECEIVING,Levi,Norwood,LONG,20
+88157,9/7/2013,FBS,Baylor,Buffalo,RECEIVING,Robbie,Rhodes,REC,1
+88158,9/7/2013,FBS,Baylor,Buffalo,RECEIVING,Robbie,Rhodes,YDS,8
+88159,9/7/2013,FBS,Baylor,Buffalo,RECEIVING,Robbie,Rhodes,TD,0
+88160,9/7/2013,FBS,Baylor,Buffalo,RECEIVING,Robbie,Rhodes,LONG,8
+88161,9/7/2013,FBS,Baylor,Buffalo,RECEIVING,Lynx,Hawthorne,REC,1
+88162,9/7/2013,FBS,Baylor,Buffalo,RECEIVING,Lynx,Hawthorne,YDS,7
+88163,9/7/2013,FBS,Baylor,Buffalo,RECEIVING,Lynx,Hawthorne,TD,0
+88164,9/7/2013,FBS,Baylor,Buffalo,RECEIVING,Lynx,Hawthorne,LONG,7
+88165,9/7/2013,FBS,Baylor,Buffalo,KICKING,Aaron,Jones,FG-FGA,0/0
+88166,9/7/2013,FBS,Baylor,Buffalo,KICKING,Aaron,Jones,LONG,-
+88167,9/7/2013,FBS,Baylor,Buffalo,KICKING,Aaron,Jones,XP,9
+88168,9/7/2013,FBS,Baylor,Buffalo,KICKING,Aaron,Jones,PTS,9
+88169,9/7/2013,FBS,Baylor,Buffalo,KICKING,Kyle,Peterson,FG-FGA,0/0
+88170,9/7/2013,FBS,Baylor,Buffalo,KICKING,Kyle,Peterson,LONG,-
+88171,9/7/2013,FBS,Baylor,Buffalo,KICKING,Kyle,Peterson,XP,1
+88172,9/7/2013,FBS,Baylor,Buffalo,KICKING,Kyle,Peterson,PTS,1
+88173,9/7/2013,FBS,Baylor,Buffalo,PUNTING,Spencer,Roth,NO,3
+88174,9/7/2013,FBS,Baylor,Buffalo,PUNTING,Spencer,Roth,YDS,119
+88175,9/7/2013,FBS,Baylor,Buffalo,PUNTING,Spencer,Roth,AVG,39.7
+88176,9/7/2013,FBS,Baylor,Buffalo,PUNTING,Spencer,Roth,LONG,48
+88177,9/7/2013,FBS,Baylor,Buffalo,PUNT RETURNS,Levi,Norwood,NO,4
+88178,9/7/2013,FBS,Baylor,Buffalo,PUNT RETURNS,Levi,Norwood,YDS,50
+88179,9/7/2013,FBS,Baylor,Buffalo,PUNT RETURNS,Levi,Norwood,AVG,12.5
+88180,9/7/2013,FBS,Baylor,Buffalo,PUNT RETURNS,Levi,Norwood,LONG,20
+88181,9/7/2013,FBS,Baylor,Buffalo,KICK RETURNS,Darius,Jones,NO,2
+88182,9/7/2013,FBS,Baylor,Buffalo,KICK RETURNS,Darius,Jones,YDS,30
+88183,9/7/2013,FBS,Baylor,Buffalo,KICK RETURNS,Darius,Jones,AVG,15.0
+88184,9/7/2013,FBS,Baylor,Buffalo,KICK RETURNS,Darius,Jones,LONG,19

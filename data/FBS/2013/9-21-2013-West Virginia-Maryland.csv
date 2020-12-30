@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+270001,9/21/2013,FBS,West Virginia,Maryland,RUSHING,Dreamius,Smith,ATT,12
+270002,9/21/2013,FBS,West Virginia,Maryland,RUSHING,Dreamius,Smith,YDS,74
+270003,9/21/2013,FBS,West Virginia,Maryland,RUSHING,Dreamius,Smith,TD,0
+270004,9/21/2013,FBS,West Virginia,Maryland,RUSHING,Dreamius,Smith,LONG,51
+270005,9/21/2013,FBS,West Virginia,Maryland,RUSHING,Charles,Sims,ATT,8
+270006,9/21/2013,FBS,West Virginia,Maryland,RUSHING,Charles,Sims,YDS,35
+270007,9/21/2013,FBS,West Virginia,Maryland,RUSHING,Charles,Sims,TD,0
+270008,9/21/2013,FBS,West Virginia,Maryland,RUSHING,Charles,Sims,LONG,12
+270009,9/21/2013,FBS,West Virginia,Maryland,RUSHING,Wendell,Smallwood,ATT,1
+270010,9/21/2013,FBS,West Virginia,Maryland,RUSHING,Wendell,Smallwood,YDS,30
+270011,9/21/2013,FBS,West Virginia,Maryland,RUSHING,Wendell,Smallwood,TD,0
+270012,9/21/2013,FBS,West Virginia,Maryland,RUSHING,Wendell,Smallwood,LONG,30
+270013,9/21/2013,FBS,West Virginia,Maryland,RUSHING,Ford,Childress,ATT,4
+270014,9/21/2013,FBS,West Virginia,Maryland,RUSHING,Ford,Childress,YDS,-26
+270015,9/21/2013,FBS,West Virginia,Maryland,RUSHING,Ford,Childress,TD,0
+270016,9/21/2013,FBS,West Virginia,Maryland,RUSHING,Ford,Childress,LONG,3
+270017,9/21/2013,FBS,West Virginia,Maryland,PASSING,Ford,Childress,CP-ATT-INT,11-22-2
+270018,9/21/2013,FBS,West Virginia,Maryland,PASSING,Ford,Childress,YDS,62
+270019,9/21/2013,FBS,West Virginia,Maryland,PASSING,Ford,Childress,TD,0
+270020,9/21/2013,FBS,West Virginia,Maryland,PASSING,Ford,Childress,LONG,12
+270021,9/21/2013,FBS,West Virginia,Maryland,RECEIVING,Charles,Sims,REC,8
+270022,9/21/2013,FBS,West Virginia,Maryland,RECEIVING,Charles,Sims,YDS,33
+270023,9/21/2013,FBS,West Virginia,Maryland,RECEIVING,Charles,Sims,TD,0
+270024,9/21/2013,FBS,West Virginia,Maryland,RECEIVING,Charles,Sims,LONG,11
+270025,9/21/2013,FBS,West Virginia,Maryland,RECEIVING,Ronald,Carswell,REC,1
+270026,9/21/2013,FBS,West Virginia,Maryland,RECEIVING,Ronald,Carswell,YDS,12
+270027,9/21/2013,FBS,West Virginia,Maryland,RECEIVING,Ronald,Carswell,TD,0
+270028,9/21/2013,FBS,West Virginia,Maryland,RECEIVING,Ronald,Carswell,LONG,12
+270029,9/21/2013,FBS,West Virginia,Maryland,RECEIVING,Cody,Clay,REC,1
+270030,9/21/2013,FBS,West Virginia,Maryland,RECEIVING,Cody,Clay,YDS,11
+270031,9/21/2013,FBS,West Virginia,Maryland,RECEIVING,Cody,Clay,TD,0
+270032,9/21/2013,FBS,West Virginia,Maryland,RECEIVING,Cody,Clay,LONG,11
+270033,9/21/2013,FBS,West Virginia,Maryland,RECEIVING,Wendell,Smallwood,REC,1
+270034,9/21/2013,FBS,West Virginia,Maryland,RECEIVING,Wendell,Smallwood,YDS,6
+270035,9/21/2013,FBS,West Virginia,Maryland,RECEIVING,Wendell,Smallwood,TD,0
+270036,9/21/2013,FBS,West Virginia,Maryland,RECEIVING,Wendell,Smallwood,LONG,6
+270037,9/21/2013,FBS,West Virginia,Maryland,PUNTING,Nick,O'Toole,NO,8
+270038,9/21/2013,FBS,West Virginia,Maryland,PUNTING,Nick,O'Toole,YDS,369
+270039,9/21/2013,FBS,West Virginia,Maryland,PUNTING,Nick,O'Toole,AVG,46.1
+270040,9/21/2013,FBS,West Virginia,Maryland,PUNTING,Nick,O'Toole,LONG,54
+270041,9/21/2013,FBS,West Virginia,Maryland,PUNT RETURNS,Ronald,Carswell,NO,2
+270042,9/21/2013,FBS,West Virginia,Maryland,PUNT RETURNS,Ronald,Carswell,YDS,0
+270043,9/21/2013,FBS,West Virginia,Maryland,PUNT RETURNS,Ronald,Carswell,AVG,0.0
+270044,9/21/2013,FBS,West Virginia,Maryland,PUNT RETURNS,Ronald,Carswell,LONG,0
+270045,9/21/2013,FBS,West Virginia,Maryland,KICK RETURNS,Ronald,Carswell,NO,3
+270046,9/21/2013,FBS,West Virginia,Maryland,KICK RETURNS,Ronald,Carswell,YDS,63
+270047,9/21/2013,FBS,West Virginia,Maryland,KICK RETURNS,Ronald,Carswell,AVG,21.0
+270048,9/21/2013,FBS,West Virginia,Maryland,KICK RETURNS,Ronald,Carswell,LONG,24
+270049,9/21/2013,FBS,West Virginia,Maryland,KICK RETURNS,Wendell,Smallwood,NO,3
+270050,9/21/2013,FBS,West Virginia,Maryland,KICK RETURNS,Wendell,Smallwood,YDS,56
+270051,9/21/2013,FBS,West Virginia,Maryland,KICK RETURNS,Wendell,Smallwood,AVG,18.7
+270052,9/21/2013,FBS,West Virginia,Maryland,KICK RETURNS,Wendell,Smallwood,LONG,21
+270053,9/21/2013,FBS,Maryland,West Virginia,RUSHING,Brandon,Ross,ATT,20
+270054,9/21/2013,FBS,Maryland,West Virginia,RUSHING,Brandon,Ross,YDS,67
+270055,9/21/2013,FBS,Maryland,West Virginia,RUSHING,Brandon,Ross,TD,1
+270056,9/21/2013,FBS,Maryland,West Virginia,RUSHING,Brandon,Ross,LONG,15
+270057,9/21/2013,FBS,Maryland,West Virginia,RUSHING,C.J.,Brown,ATT,14
+270058,9/21/2013,FBS,Maryland,West Virginia,RUSHING,C.J.,Brown,YDS,26
+270059,9/21/2013,FBS,Maryland,West Virginia,RUSHING,C.J.,Brown,TD,1
+270060,9/21/2013,FBS,Maryland,West Virginia,RUSHING,C.J.,Brown,LONG,13
+270061,9/21/2013,FBS,Maryland,West Virginia,RUSHING,Deon,Long,ATT,1
+270062,9/21/2013,FBS,Maryland,West Virginia,RUSHING,Deon,Long,YDS,18
+270063,9/21/2013,FBS,Maryland,West Virginia,RUSHING,Deon,Long,TD,0
+270064,9/21/2013,FBS,Maryland,West Virginia,RUSHING,Deon,Long,LONG,18
+270065,9/21/2013,FBS,Maryland,West Virginia,RUSHING,Kenneth,Goins,ATT,2
+270066,9/21/2013,FBS,Maryland,West Virginia,RUSHING,Kenneth,Goins,YDS,9
+270067,9/21/2013,FBS,Maryland,West Virginia,RUSHING,Kenneth,Goins,TD,0
+270068,9/21/2013,FBS,Maryland,West Virginia,RUSHING,Kenneth,Goins,LONG,5
+270069,9/21/2013,FBS,Maryland,West Virginia,RUSHING,Stefon,Diggs,ATT,1
+270070,9/21/2013,FBS,Maryland,West Virginia,RUSHING,Stefon,Diggs,YDS,5
+270071,9/21/2013,FBS,Maryland,West Virginia,RUSHING,Stefon,Diggs,TD,0
+270072,9/21/2013,FBS,Maryland,West Virginia,RUSHING,Stefon,Diggs,LONG,5
+270073,9/21/2013,FBS,Maryland,West Virginia,RUSHING,Albert,Reid,ATT,4
+270074,9/21/2013,FBS,Maryland,West Virginia,RUSHING,Albert,Reid,YDS,4
+270075,9/21/2013,FBS,Maryland,West Virginia,RUSHING,Albert,Reid,TD,0
+270076,9/21/2013,FBS,Maryland,West Virginia,RUSHING,Albert,Reid,LONG,4
+270077,9/21/2013,FBS,Maryland,West Virginia,RUSHING,Jacquille,Veii,ATT,1
+270078,9/21/2013,FBS,Maryland,West Virginia,RUSHING,Jacquille,Veii,YDS,-3
+270079,9/21/2013,FBS,Maryland,West Virginia,RUSHING,Jacquille,Veii,TD,0
+270080,9/21/2013,FBS,Maryland,West Virginia,RUSHING,Jacquille,Veii,LONG,0
+270081,9/21/2013,FBS,Maryland,West Virginia,RUSHING,,Team,ATT,3
+270082,9/21/2013,FBS,Maryland,West Virginia,RUSHING,,Team,YDS,-6
+270083,9/21/2013,FBS,Maryland,West Virginia,RUSHING,,Team,TD,0
+270084,9/21/2013,FBS,Maryland,West Virginia,RUSHING,,Team,LONG,0
+270085,9/21/2013,FBS,Maryland,West Virginia,PASSING,C.J.,Brown,CP-ATT-INT,17-26-0
+270086,9/21/2013,FBS,Maryland,West Virginia,PASSING,C.J.,Brown,YDS,210
+270087,9/21/2013,FBS,Maryland,West Virginia,PASSING,C.J.,Brown,TD,1
+270088,9/21/2013,FBS,Maryland,West Virginia,PASSING,C.J.,Brown,LONG,30
+270089,9/21/2013,FBS,Maryland,West Virginia,RECEIVING,Deon,Long,REC,6
+270090,9/21/2013,FBS,Maryland,West Virginia,RECEIVING,Deon,Long,YDS,98
+270091,9/21/2013,FBS,Maryland,West Virginia,RECEIVING,Deon,Long,TD,0
+270092,9/21/2013,FBS,Maryland,West Virginia,RECEIVING,Deon,Long,LONG,29
+270093,9/21/2013,FBS,Maryland,West Virginia,RECEIVING,Levern,Jacobs,REC,3
+270094,9/21/2013,FBS,Maryland,West Virginia,RECEIVING,Levern,Jacobs,YDS,32
+270095,9/21/2013,FBS,Maryland,West Virginia,RECEIVING,Levern,Jacobs,TD,0
+270096,9/21/2013,FBS,Maryland,West Virginia,RECEIVING,Levern,Jacobs,LONG,30
+270097,9/21/2013,FBS,Maryland,West Virginia,RECEIVING,Brandon,Ross,REC,2
+270098,9/21/2013,FBS,Maryland,West Virginia,RECEIVING,Brandon,Ross,YDS,24
+270099,9/21/2013,FBS,Maryland,West Virginia,RECEIVING,Brandon,Ross,TD,0
+270100,9/21/2013,FBS,Maryland,West Virginia,RECEIVING,Brandon,Ross,LONG,25
+270101,9/21/2013,FBS,Maryland,West Virginia,RECEIVING,Malcolm,Culmer,REC,2
+270102,9/21/2013,FBS,Maryland,West Virginia,RECEIVING,Malcolm,Culmer,YDS,21
+270103,9/21/2013,FBS,Maryland,West Virginia,RECEIVING,Malcolm,Culmer,TD,0
+270104,9/21/2013,FBS,Maryland,West Virginia,RECEIVING,Malcolm,Culmer,LONG,17
+270105,9/21/2013,FBS,Maryland,West Virginia,RECEIVING,Stefon,Diggs,REC,2
+270106,9/21/2013,FBS,Maryland,West Virginia,RECEIVING,Stefon,Diggs,YDS,13
+270107,9/21/2013,FBS,Maryland,West Virginia,RECEIVING,Stefon,Diggs,TD,0
+270108,9/21/2013,FBS,Maryland,West Virginia,RECEIVING,Stefon,Diggs,LONG,9
+270109,9/21/2013,FBS,Maryland,West Virginia,RECEIVING,Kenneth,Goins,REC,1
+270110,9/21/2013,FBS,Maryland,West Virginia,RECEIVING,Kenneth,Goins,YDS,16
+270111,9/21/2013,FBS,Maryland,West Virginia,RECEIVING,Kenneth,Goins,TD,0
+270112,9/21/2013,FBS,Maryland,West Virginia,RECEIVING,Kenneth,Goins,LONG,16
+270113,9/21/2013,FBS,Maryland,West Virginia,RECEIVING,Dave,Stinebaugh,REC,1
+270114,9/21/2013,FBS,Maryland,West Virginia,RECEIVING,Dave,Stinebaugh,YDS,6
+270115,9/21/2013,FBS,Maryland,West Virginia,RECEIVING,Dave,Stinebaugh,TD,1
+270116,9/21/2013,FBS,Maryland,West Virginia,RECEIVING,Dave,Stinebaugh,LONG,6
+270117,9/21/2013,FBS,Maryland,West Virginia,KICKING,Brad,Craddock,FG-FGA,3/3
+270118,9/21/2013,FBS,Maryland,West Virginia,KICKING,Brad,Craddock,LONG,50
+270119,9/21/2013,FBS,Maryland,West Virginia,KICKING,Brad,Craddock,XP,4
+270120,9/21/2013,FBS,Maryland,West Virginia,KICKING,Brad,Craddock,PTS,13
+270121,9/21/2013,FBS,Maryland,West Virginia,PUNTING,Nathan,Renfro,NO,5
+270122,9/21/2013,FBS,Maryland,West Virginia,PUNTING,Nathan,Renfro,YDS,256
+270123,9/21/2013,FBS,Maryland,West Virginia,PUNTING,Nathan,Renfro,AVG,51.2
+270124,9/21/2013,FBS,Maryland,West Virginia,PUNTING,Nathan,Renfro,LONG,64
+270125,9/21/2013,FBS,Maryland,West Virginia,PUNT RETURNS,Stefon,Diggs,NO,2
+270126,9/21/2013,FBS,Maryland,West Virginia,PUNT RETURNS,Stefon,Diggs,YDS,-1
+270127,9/21/2013,FBS,Maryland,West Virginia,PUNT RETURNS,Stefon,Diggs,AVG,-0.5
+270128,9/21/2013,FBS,Maryland,West Virginia,PUNT RETURNS,Stefon,Diggs,LONG,0
+270129,9/21/2013,FBS,Maryland,West Virginia,PUNT RETURNS,William,Likely,NO,1
+270130,9/21/2013,FBS,Maryland,West Virginia,PUNT RETURNS,William,Likely,YDS,0
+270131,9/21/2013,FBS,Maryland,West Virginia,PUNT RETURNS,William,Likely,AVG,0.0
+270132,9/21/2013,FBS,Maryland,West Virginia,PUNT RETURNS,William,Likely,LONG,0
+270133,9/21/2013,FBS,Maryland,West Virginia,KICK RETURNS,William,Likely,NO,1
+270134,9/21/2013,FBS,Maryland,West Virginia,KICK RETURNS,William,Likely,YDS,31
+270135,9/21/2013,FBS,Maryland,West Virginia,KICK RETURNS,William,Likely,AVG,31.0
+270136,9/21/2013,FBS,Maryland,West Virginia,KICK RETURNS,William,Likely,LONG,31

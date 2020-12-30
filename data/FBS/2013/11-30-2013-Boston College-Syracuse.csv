@@ -1,0 +1,133 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+458001,11/30/2013,FBS,Boston College,Syracuse,RUSHING,Chase,Rettig,ATT,4
+458002,11/30/2013,FBS,Boston College,Syracuse,RUSHING,Chase,Rettig,YDS,85
+458003,11/30/2013,FBS,Boston College,Syracuse,RUSHING,Chase,Rettig,TD,1
+458004,11/30/2013,FBS,Boston College,Syracuse,RUSHING,Chase,Rettig,LONG,54
+458005,11/30/2013,FBS,Boston College,Syracuse,RUSHING,Myles,Willis,ATT,17
+458006,11/30/2013,FBS,Boston College,Syracuse,RUSHING,Myles,Willis,YDS,70
+458007,11/30/2013,FBS,Boston College,Syracuse,RUSHING,Myles,Willis,TD,0
+458008,11/30/2013,FBS,Boston College,Syracuse,RUSHING,Myles,Willis,LONG,17
+458009,11/30/2013,FBS,Boston College,Syracuse,RUSHING,Andre,Williams,ATT,9
+458010,11/30/2013,FBS,Boston College,Syracuse,RUSHING,Andre,Williams,YDS,29
+458011,11/30/2013,FBS,Boston College,Syracuse,RUSHING,Andre,Williams,TD,1
+458012,11/30/2013,FBS,Boston College,Syracuse,RUSHING,Andre,Williams,LONG,26
+458013,11/30/2013,FBS,Boston College,Syracuse,RUSHING,Tyler,Rouse,ATT,3
+458014,11/30/2013,FBS,Boston College,Syracuse,RUSHING,Tyler,Rouse,YDS,7
+458015,11/30/2013,FBS,Boston College,Syracuse,RUSHING,Tyler,Rouse,TD,0
+458016,11/30/2013,FBS,Boston College,Syracuse,RUSHING,Tyler,Rouse,LONG,3
+458017,11/30/2013,FBS,Boston College,Syracuse,PASSING,Chase,Rettig,CP-ATT-INT,11-19-1
+458018,11/30/2013,FBS,Boston College,Syracuse,PASSING,Chase,Rettig,YDS,168
+458019,11/30/2013,FBS,Boston College,Syracuse,PASSING,Chase,Rettig,TD,2
+458020,11/30/2013,FBS,Boston College,Syracuse,PASSING,Chase,Rettig,LONG,55
+458021,11/30/2013,FBS,Boston College,Syracuse,RECEIVING,Alex,Amidon,REC,3
+458022,11/30/2013,FBS,Boston College,Syracuse,RECEIVING,Alex,Amidon,YDS,60
+458023,11/30/2013,FBS,Boston College,Syracuse,RECEIVING,Alex,Amidon,TD,0
+458024,11/30/2013,FBS,Boston College,Syracuse,RECEIVING,Alex,Amidon,LONG,52
+458025,11/30/2013,FBS,Boston College,Syracuse,RECEIVING,Jake,Sinkovec,REC,3
+458026,11/30/2013,FBS,Boston College,Syracuse,RECEIVING,Jake,Sinkovec,YDS,29
+458027,11/30/2013,FBS,Boston College,Syracuse,RECEIVING,Jake,Sinkovec,TD,1
+458028,11/30/2013,FBS,Boston College,Syracuse,RECEIVING,Jake,Sinkovec,LONG,19
+458029,11/30/2013,FBS,Boston College,Syracuse,RECEIVING,Mike,Naples,REC,2
+458030,11/30/2013,FBS,Boston College,Syracuse,RECEIVING,Mike,Naples,YDS,58
+458031,11/30/2013,FBS,Boston College,Syracuse,RECEIVING,Mike,Naples,TD,0
+458032,11/30/2013,FBS,Boston College,Syracuse,RECEIVING,Mike,Naples,LONG,55
+458033,11/30/2013,FBS,Boston College,Syracuse,RECEIVING,C.J.,Parsons,REC,2
+458034,11/30/2013,FBS,Boston College,Syracuse,RECEIVING,C.J.,Parsons,YDS,24
+458035,11/30/2013,FBS,Boston College,Syracuse,RECEIVING,C.J.,Parsons,TD,1
+458036,11/30/2013,FBS,Boston College,Syracuse,RECEIVING,C.J.,Parsons,LONG,15
+458037,11/30/2013,FBS,Boston College,Syracuse,RECEIVING,Dan,Crimmins,REC,1
+458038,11/30/2013,FBS,Boston College,Syracuse,RECEIVING,Dan,Crimmins,YDS,-3
+458039,11/30/2013,FBS,Boston College,Syracuse,RECEIVING,Dan,Crimmins,TD,0
+458040,11/30/2013,FBS,Boston College,Syracuse,RECEIVING,Dan,Crimmins,LONG,5
+458041,11/30/2013,FBS,Boston College,Syracuse,KICKING,Nate,Freese,FG-FGA,1/1
+458042,11/30/2013,FBS,Boston College,Syracuse,KICKING,Nate,Freese,LONG,21
+458043,11/30/2013,FBS,Boston College,Syracuse,KICKING,Nate,Freese,XP,4
+458044,11/30/2013,FBS,Boston College,Syracuse,KICKING,Nate,Freese,PTS,7
+458045,11/30/2013,FBS,Boston College,Syracuse,PUNTING,Nate,Freese,NO,5
+458046,11/30/2013,FBS,Boston College,Syracuse,PUNTING,Nate,Freese,YDS,168
+458047,11/30/2013,FBS,Boston College,Syracuse,PUNTING,Nate,Freese,AVG,33.6
+458048,11/30/2013,FBS,Boston College,Syracuse,PUNTING,Nate,Freese,LONG,40
+458049,11/30/2013,FBS,Boston College,Syracuse,PUNT RETURNS,Spiffy,Evans,NO,1
+458050,11/30/2013,FBS,Boston College,Syracuse,PUNT RETURNS,Spiffy,Evans,YDS,7
+458051,11/30/2013,FBS,Boston College,Syracuse,PUNT RETURNS,Spiffy,Evans,AVG,7.0
+458052,11/30/2013,FBS,Boston College,Syracuse,PUNT RETURNS,Spiffy,Evans,LONG,7
+458053,11/30/2013,FBS,Boston College,Syracuse,KICK RETURNS,Myles,Willis,NO,4
+458054,11/30/2013,FBS,Boston College,Syracuse,KICK RETURNS,Myles,Willis,YDS,53
+458055,11/30/2013,FBS,Boston College,Syracuse,KICK RETURNS,Myles,Willis,AVG,13.2
+458056,11/30/2013,FBS,Boston College,Syracuse,KICK RETURNS,Myles,Willis,LONG,25
+458057,11/30/2013,FBS,Syracuse,Boston College,RUSHING,Terrel,Hunt,ATT,17
+458058,11/30/2013,FBS,Syracuse,Boston College,RUSHING,Terrel,Hunt,YDS,90
+458059,11/30/2013,FBS,Syracuse,Boston College,RUSHING,Terrel,Hunt,TD,1
+458060,11/30/2013,FBS,Syracuse,Boston College,RUSHING,Terrel,Hunt,LONG,16
+458061,11/30/2013,FBS,Syracuse,Boston College,RUSHING,Jerome,Smith,ATT,18
+458062,11/30/2013,FBS,Syracuse,Boston College,RUSHING,Jerome,Smith,YDS,46
+458063,11/30/2013,FBS,Syracuse,Boston College,RUSHING,Jerome,Smith,TD,0
+458064,11/30/2013,FBS,Syracuse,Boston College,RUSHING,Jerome,Smith,LONG,16
+458065,11/30/2013,FBS,Syracuse,Boston College,RUSHING,George,Morris,ATT,10
+458066,11/30/2013,FBS,Syracuse,Boston College,RUSHING,George,Morris,YDS,40
+458067,11/30/2013,FBS,Syracuse,Boston College,RUSHING,George,Morris,TD,1
+458068,11/30/2013,FBS,Syracuse,Boston College,RUSHING,George,Morris,LONG,9
+458069,11/30/2013,FBS,Syracuse,Boston College,RUSHING,Devante,McFarlane,ATT,6
+458070,11/30/2013,FBS,Syracuse,Boston College,RUSHING,Devante,McFarlane,YDS,34
+458071,11/30/2013,FBS,Syracuse,Boston College,RUSHING,Devante,McFarlane,TD,0
+458072,11/30/2013,FBS,Syracuse,Boston College,RUSHING,Devante,McFarlane,LONG,15
+458073,11/30/2013,FBS,Syracuse,Boston College,PASSING,Terrel,Hunt,CP-ATT-INT,29-43-1
+458074,11/30/2013,FBS,Syracuse,Boston College,PASSING,Terrel,Hunt,YDS,270
+458075,11/30/2013,FBS,Syracuse,Boston College,PASSING,Terrel,Hunt,TD,2
+458076,11/30/2013,FBS,Syracuse,Boston College,PASSING,Terrel,Hunt,LONG,32
+458077,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Alvin,Cornelius,REC,7
+458078,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Alvin,Cornelius,YDS,81
+458079,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Alvin,Cornelius,TD,0
+458080,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Alvin,Cornelius,LONG,31
+458081,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Josh,Parris,REC,7
+458082,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Josh,Parris,YDS,47
+458083,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Josh,Parris,TD,2
+458084,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Josh,Parris,LONG,15
+458085,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Ashton,Broyld,REC,6
+458086,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Ashton,Broyld,YDS,47
+458087,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Ashton,Broyld,TD,0
+458088,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Ashton,Broyld,LONG,19
+458089,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Brisly,Estime,REC,2
+458090,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Brisly,Estime,YDS,35
+458091,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Brisly,Estime,TD,0
+458092,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Brisly,Estime,LONG,32
+458093,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Christopher,Clark,REC,2
+458094,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Christopher,Clark,YDS,7
+458095,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Christopher,Clark,TD,0
+458096,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Christopher,Clark,LONG,5
+458097,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Quinta,Funderburk,REC,1
+458098,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Quinta,Funderburk,YDS,28
+458099,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Quinta,Funderburk,TD,0
+458100,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Quinta,Funderburk,LONG,28
+458101,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Durell,Eskridge,REC,1
+458102,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Durell,Eskridge,YDS,19
+458103,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Durell,Eskridge,TD,0
+458104,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Durell,Eskridge,LONG,19
+458105,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Jeremiah,Kobena,REC,1
+458106,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Jeremiah,Kobena,YDS,17
+458107,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Jeremiah,Kobena,TD,0
+458108,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Jeremiah,Kobena,LONG,17
+458109,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Jerome,Smith,REC,1
+458110,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Jerome,Smith,YDS,5
+458111,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Jerome,Smith,TD,0
+458112,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Jerome,Smith,LONG,5
+458113,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Terrel,Hunt,REC,1
+458114,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Terrel,Hunt,YDS,-16
+458115,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Terrel,Hunt,TD,0
+458116,11/30/2013,FBS,Syracuse,Boston College,RECEIVING,Terrel,Hunt,LONG,0
+458117,11/30/2013,FBS,Syracuse,Boston College,KICKING,Ryan,Norton,FG-FGA,2/3
+458118,11/30/2013,FBS,Syracuse,Boston College,KICKING,Ryan,Norton,LONG,44
+458119,11/30/2013,FBS,Syracuse,Boston College,KICKING,Ryan,Norton,XP,4
+458120,11/30/2013,FBS,Syracuse,Boston College,KICKING,Ryan,Norton,PTS,10
+458121,11/30/2013,FBS,Syracuse,Boston College,PUNTING,Riley,Dixon,NO,2
+458122,11/30/2013,FBS,Syracuse,Boston College,PUNTING,Riley,Dixon,YDS,97
+458123,11/30/2013,FBS,Syracuse,Boston College,PUNTING,Riley,Dixon,AVG,48.5
+458124,11/30/2013,FBS,Syracuse,Boston College,PUNTING,Riley,Dixon,LONG,52
+458125,11/30/2013,FBS,Syracuse,Boston College,PUNT RETURNS,Ritchy,Desir,NO,4
+458126,11/30/2013,FBS,Syracuse,Boston College,PUNT RETURNS,Ritchy,Desir,YDS,27
+458127,11/30/2013,FBS,Syracuse,Boston College,PUNT RETURNS,Ritchy,Desir,AVG,6.8
+458128,11/30/2013,FBS,Syracuse,Boston College,PUNT RETURNS,Ritchy,Desir,LONG,23
+458129,11/30/2013,FBS,Syracuse,Boston College,KICK RETURNS,Brisly,Estime,NO,1
+458130,11/30/2013,FBS,Syracuse,Boston College,KICK RETURNS,Brisly,Estime,YDS,18
+458131,11/30/2013,FBS,Syracuse,Boston College,KICK RETURNS,Brisly,Estime,AVG,18.0
+458132,11/30/2013,FBS,Syracuse,Boston College,KICK RETURNS,Brisly,Estime,LONG,18

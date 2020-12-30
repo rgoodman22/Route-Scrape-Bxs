@@ -1,0 +1,133 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+303001,11/9/2013,FBS,Nebraska,Michigan,RUSHING,Ameer,Abdullah,ATT,27
+303002,11/9/2013,FBS,Nebraska,Michigan,RUSHING,Ameer,Abdullah,YDS,105
+303003,11/9/2013,FBS,Nebraska,Michigan,RUSHING,Ameer,Abdullah,TD,1
+303004,11/9/2013,FBS,Nebraska,Michigan,RUSHING,Ameer,Abdullah,LONG,18
+303005,11/9/2013,FBS,Nebraska,Michigan,RUSHING,Tommy,Armstrong,ATT,12
+303006,11/9/2013,FBS,Nebraska,Michigan,RUSHING,Tommy,Armstrong,YDS,13
+303007,11/9/2013,FBS,Nebraska,Michigan,RUSHING,Tommy,Armstrong,TD,0
+303008,11/9/2013,FBS,Nebraska,Michigan,RUSHING,Tommy,Armstrong,LONG,11
+303009,11/9/2013,FBS,Nebraska,Michigan,RUSHING,Imani,Cross,ATT,2
+303010,11/9/2013,FBS,Nebraska,Michigan,RUSHING,Imani,Cross,YDS,8
+303011,11/9/2013,FBS,Nebraska,Michigan,RUSHING,Imani,Cross,TD,0
+303012,11/9/2013,FBS,Nebraska,Michigan,RUSHING,Imani,Cross,LONG,7
+303013,11/9/2013,FBS,Nebraska,Michigan,RUSHING,Ron,Kellogg,ATT,1
+303014,11/9/2013,FBS,Nebraska,Michigan,RUSHING,Ron,Kellogg,YDS,5
+303015,11/9/2013,FBS,Nebraska,Michigan,RUSHING,Ron,Kellogg,TD,0
+303016,11/9/2013,FBS,Nebraska,Michigan,RUSHING,Ron,Kellogg,LONG,5
+303017,11/9/2013,FBS,Nebraska,Michigan,RUSHING,Terrell,Newby,ATT,1
+303018,11/9/2013,FBS,Nebraska,Michigan,RUSHING,Terrell,Newby,YDS,-3
+303019,11/9/2013,FBS,Nebraska,Michigan,RUSHING,Terrell,Newby,TD,0
+303020,11/9/2013,FBS,Nebraska,Michigan,RUSHING,Terrell,Newby,LONG,0
+303021,11/9/2013,FBS,Nebraska,Michigan,PASSING,Tommy,Armstrong,CP-ATT-INT,11-19-0
+303022,11/9/2013,FBS,Nebraska,Michigan,PASSING,Tommy,Armstrong,YDS,139
+303023,11/9/2013,FBS,Nebraska,Michigan,PASSING,Tommy,Armstrong,TD,1
+303024,11/9/2013,FBS,Nebraska,Michigan,PASSING,Tommy,Armstrong,LONG,27
+303025,11/9/2013,FBS,Nebraska,Michigan,PASSING,Ron,Kellogg,CP-ATT-INT,1-4-0
+303026,11/9/2013,FBS,Nebraska,Michigan,PASSING,Ron,Kellogg,YDS,6
+303027,11/9/2013,FBS,Nebraska,Michigan,PASSING,Ron,Kellogg,TD,0
+303028,11/9/2013,FBS,Nebraska,Michigan,PASSING,Ron,Kellogg,LONG,6
+303029,11/9/2013,FBS,Nebraska,Michigan,RECEIVING,Quincy,Enunwa,REC,7
+303030,11/9/2013,FBS,Nebraska,Michigan,RECEIVING,Quincy,Enunwa,YDS,69
+303031,11/9/2013,FBS,Nebraska,Michigan,RECEIVING,Quincy,Enunwa,TD,0
+303032,11/9/2013,FBS,Nebraska,Michigan,RECEIVING,Quincy,Enunwa,LONG,23
+303033,11/9/2013,FBS,Nebraska,Michigan,RECEIVING,Kenny,Bell,REC,3
+303034,11/9/2013,FBS,Nebraska,Michigan,RECEIVING,Kenny,Bell,YDS,44
+303035,11/9/2013,FBS,Nebraska,Michigan,RECEIVING,Kenny,Bell,TD,0
+303036,11/9/2013,FBS,Nebraska,Michigan,RECEIVING,Kenny,Bell,LONG,26
+303037,11/9/2013,FBS,Nebraska,Michigan,RECEIVING,Jordan,Westerkamp,REC,1
+303038,11/9/2013,FBS,Nebraska,Michigan,RECEIVING,Jordan,Westerkamp,YDS,27
+303039,11/9/2013,FBS,Nebraska,Michigan,RECEIVING,Jordan,Westerkamp,TD,0
+303040,11/9/2013,FBS,Nebraska,Michigan,RECEIVING,Jordan,Westerkamp,LONG,27
+303041,11/9/2013,FBS,Nebraska,Michigan,RECEIVING,Ameer,Abdullah,REC,1
+303042,11/9/2013,FBS,Nebraska,Michigan,RECEIVING,Ameer,Abdullah,YDS,5
+303043,11/9/2013,FBS,Nebraska,Michigan,RECEIVING,Ameer,Abdullah,TD,1
+303044,11/9/2013,FBS,Nebraska,Michigan,RECEIVING,Ameer,Abdullah,LONG,5
+303045,11/9/2013,FBS,Nebraska,Michigan,KICKING,Pat,Smith,FG-FGA,1/1
+303046,11/9/2013,FBS,Nebraska,Michigan,KICKING,Pat,Smith,LONG,21
+303047,11/9/2013,FBS,Nebraska,Michigan,KICKING,Pat,Smith,XP,2
+303048,11/9/2013,FBS,Nebraska,Michigan,KICKING,Pat,Smith,PTS,5
+303049,11/9/2013,FBS,Nebraska,Michigan,PUNTING,Sam,Foltz,NO,7
+303050,11/9/2013,FBS,Nebraska,Michigan,PUNTING,Sam,Foltz,YDS,301
+303051,11/9/2013,FBS,Nebraska,Michigan,PUNTING,Sam,Foltz,AVG,43.0
+303052,11/9/2013,FBS,Nebraska,Michigan,PUNTING,Sam,Foltz,LONG,64
+303053,11/9/2013,FBS,Nebraska,Michigan,PUNT RETURNS,Jordan,Westerkamp,NO,2
+303054,11/9/2013,FBS,Nebraska,Michigan,PUNT RETURNS,Jordan,Westerkamp,YDS,15
+303055,11/9/2013,FBS,Nebraska,Michigan,PUNT RETURNS,Jordan,Westerkamp,AVG,7.5
+303056,11/9/2013,FBS,Nebraska,Michigan,PUNT RETURNS,Jordan,Westerkamp,LONG,17
+303057,11/9/2013,FBS,Nebraska,Michigan,PUNT RETURNS,Terrell,Newby,NO,1
+303058,11/9/2013,FBS,Nebraska,Michigan,PUNT RETURNS,Terrell,Newby,YDS,10
+303059,11/9/2013,FBS,Nebraska,Michigan,PUNT RETURNS,Terrell,Newby,AVG,10.0
+303060,11/9/2013,FBS,Nebraska,Michigan,PUNT RETURNS,Terrell,Newby,LONG,10
+303061,11/9/2013,FBS,Nebraska,Michigan,KICK RETURNS,Kenny,Bell,NO,1
+303062,11/9/2013,FBS,Nebraska,Michigan,KICK RETURNS,Kenny,Bell,YDS,15
+303063,11/9/2013,FBS,Nebraska,Michigan,KICK RETURNS,Kenny,Bell,AVG,15.0
+303064,11/9/2013,FBS,Nebraska,Michigan,KICK RETURNS,Kenny,Bell,LONG,15
+303065,11/9/2013,FBS,Michigan,Nebraska,RUSHING,Derrick,Green,ATT,8
+303066,11/9/2013,FBS,Michigan,Nebraska,RUSHING,Derrick,Green,YDS,11
+303067,11/9/2013,FBS,Michigan,Nebraska,RUSHING,Derrick,Green,TD,0
+303068,11/9/2013,FBS,Michigan,Nebraska,RUSHING,Derrick,Green,LONG,7
+303069,11/9/2013,FBS,Michigan,Nebraska,RUSHING,Fitzgerald,Toussaint,ATT,9
+303070,11/9/2013,FBS,Michigan,Nebraska,RUSHING,Fitzgerald,Toussaint,YDS,6
+303071,11/9/2013,FBS,Michigan,Nebraska,RUSHING,Fitzgerald,Toussaint,TD,0
+303072,11/9/2013,FBS,Michigan,Nebraska,RUSHING,Fitzgerald,Toussaint,LONG,4
+303073,11/9/2013,FBS,Michigan,Nebraska,RUSHING,Devin,Funchess,ATT,1
+303074,11/9/2013,FBS,Michigan,Nebraska,RUSHING,Devin,Funchess,YDS,5
+303075,11/9/2013,FBS,Michigan,Nebraska,RUSHING,Devin,Funchess,TD,0
+303076,11/9/2013,FBS,Michigan,Nebraska,RUSHING,Devin,Funchess,LONG,5
+303077,11/9/2013,FBS,Michigan,Nebraska,RUSHING,,Team,ATT,2
+303078,11/9/2013,FBS,Michigan,Nebraska,RUSHING,,Team,YDS,-11
+303079,11/9/2013,FBS,Michigan,Nebraska,RUSHING,,Team,TD,0
+303080,11/9/2013,FBS,Michigan,Nebraska,RUSHING,,Team,LONG,0
+303081,11/9/2013,FBS,Michigan,Nebraska,RUSHING,Devin,Gardner,ATT,16
+303082,11/9/2013,FBS,Michigan,Nebraska,RUSHING,Devin,Gardner,YDS,-32
+303083,11/9/2013,FBS,Michigan,Nebraska,RUSHING,Devin,Gardner,TD,0
+303084,11/9/2013,FBS,Michigan,Nebraska,RUSHING,Devin,Gardner,LONG,7
+303085,11/9/2013,FBS,Michigan,Nebraska,PASSING,Devin,Gardner,CP-ATT-INT,18-27-0
+303086,11/9/2013,FBS,Michigan,Nebraska,PASSING,Devin,Gardner,YDS,196
+303087,11/9/2013,FBS,Michigan,Nebraska,PASSING,Devin,Gardner,TD,1
+303088,11/9/2013,FBS,Michigan,Nebraska,PASSING,Devin,Gardner,LONG,25
+303089,11/9/2013,FBS,Michigan,Nebraska,RECEIVING,Devin,Funchess,REC,6
+303090,11/9/2013,FBS,Michigan,Nebraska,RECEIVING,Devin,Funchess,YDS,66
+303091,11/9/2013,FBS,Michigan,Nebraska,RECEIVING,Devin,Funchess,TD,1
+303092,11/9/2013,FBS,Michigan,Nebraska,RECEIVING,Devin,Funchess,LONG,23
+303093,11/9/2013,FBS,Michigan,Nebraska,RECEIVING,Jeremy,Gallon,REC,5
+303094,11/9/2013,FBS,Michigan,Nebraska,RECEIVING,Jeremy,Gallon,YDS,49
+303095,11/9/2013,FBS,Michigan,Nebraska,RECEIVING,Jeremy,Gallon,TD,0
+303096,11/9/2013,FBS,Michigan,Nebraska,RECEIVING,Jeremy,Gallon,LONG,16
+303097,11/9/2013,FBS,Michigan,Nebraska,RECEIVING,Fitzgerald,Toussaint,REC,2
+303098,11/9/2013,FBS,Michigan,Nebraska,RECEIVING,Fitzgerald,Toussaint,YDS,33
+303099,11/9/2013,FBS,Michigan,Nebraska,RECEIVING,Fitzgerald,Toussaint,TD,0
+303100,11/9/2013,FBS,Michigan,Nebraska,RECEIVING,Fitzgerald,Toussaint,LONG,25
+303101,11/9/2013,FBS,Michigan,Nebraska,RECEIVING,Jake,Butt,REC,2
+303102,11/9/2013,FBS,Michigan,Nebraska,RECEIVING,Jake,Butt,YDS,30
+303103,11/9/2013,FBS,Michigan,Nebraska,RECEIVING,Jake,Butt,TD,0
+303104,11/9/2013,FBS,Michigan,Nebraska,RECEIVING,Jake,Butt,LONG,19
+303105,11/9/2013,FBS,Michigan,Nebraska,RECEIVING,Joe,Kerridge,REC,2
+303106,11/9/2013,FBS,Michigan,Nebraska,RECEIVING,Joe,Kerridge,YDS,9
+303107,11/9/2013,FBS,Michigan,Nebraska,RECEIVING,Joe,Kerridge,TD,0
+303108,11/9/2013,FBS,Michigan,Nebraska,RECEIVING,Joe,Kerridge,LONG,10
+303109,11/9/2013,FBS,Michigan,Nebraska,RECEIVING,Jehu,Chesson,REC,1
+303110,11/9/2013,FBS,Michigan,Nebraska,RECEIVING,Jehu,Chesson,YDS,9
+303111,11/9/2013,FBS,Michigan,Nebraska,RECEIVING,Jehu,Chesson,TD,0
+303112,11/9/2013,FBS,Michigan,Nebraska,RECEIVING,Jehu,Chesson,LONG,9
+303113,11/9/2013,FBS,Michigan,Nebraska,KICKING,Brendan,Gibbons,FG-FGA,2/2
+303114,11/9/2013,FBS,Michigan,Nebraska,KICKING,Brendan,Gibbons,LONG,40
+303115,11/9/2013,FBS,Michigan,Nebraska,KICKING,Brendan,Gibbons,XP,1
+303116,11/9/2013,FBS,Michigan,Nebraska,KICKING,Brendan,Gibbons,PTS,7
+303117,11/9/2013,FBS,Michigan,Nebraska,KICKING,Matt,Wile,FG-FGA,0/1
+303118,11/9/2013,FBS,Michigan,Nebraska,KICKING,Matt,Wile,LONG,-
+303119,11/9/2013,FBS,Michigan,Nebraska,KICKING,Matt,Wile,XP,0
+303120,11/9/2013,FBS,Michigan,Nebraska,KICKING,Matt,Wile,PTS,0
+303121,11/9/2013,FBS,Michigan,Nebraska,PUNTING,Matt,Wile,NO,6
+303122,11/9/2013,FBS,Michigan,Nebraska,PUNTING,Matt,Wile,YDS,293
+303123,11/9/2013,FBS,Michigan,Nebraska,PUNTING,Matt,Wile,AVG,48.8
+303124,11/9/2013,FBS,Michigan,Nebraska,PUNTING,Matt,Wile,LONG,69
+303125,11/9/2013,FBS,Michigan,Nebraska,PUNT RETURNS,Jeremy,Gallon,NO,2
+303126,11/9/2013,FBS,Michigan,Nebraska,PUNT RETURNS,Jeremy,Gallon,YDS,15
+303127,11/9/2013,FBS,Michigan,Nebraska,PUNT RETURNS,Jeremy,Gallon,AVG,7.5
+303128,11/9/2013,FBS,Michigan,Nebraska,PUNT RETURNS,Jeremy,Gallon,LONG,16
+303129,11/9/2013,FBS,Michigan,Nebraska,KICK RETURNS,Justice,Hayes,NO,1
+303130,11/9/2013,FBS,Michigan,Nebraska,KICK RETURNS,Justice,Hayes,YDS,8
+303131,11/9/2013,FBS,Michigan,Nebraska,KICK RETURNS,Justice,Hayes,AVG,8.0
+303132,11/9/2013,FBS,Michigan,Nebraska,KICK RETURNS,Justice,Hayes,LONG,8

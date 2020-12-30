@@ -1,0 +1,153 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+20001,8/30/2013,FBS,North Dakota St.,Kansas State,RUSHING,Sam,Ojuri,ATT,10
+20002,8/30/2013,FBS,North Dakota St.,Kansas State,RUSHING,Sam,Ojuri,YDS,127
+20003,8/30/2013,FBS,North Dakota St.,Kansas State,RUSHING,Sam,Ojuri,TD,0
+20004,8/30/2013,FBS,North Dakota St.,Kansas State,RUSHING,Sam,Ojuri,LONG,66
+20005,8/30/2013,FBS,North Dakota St.,Kansas State,RUSHING,John,Crockett,ATT,16
+20006,8/30/2013,FBS,North Dakota St.,Kansas State,RUSHING,John,Crockett,YDS,50
+20007,8/30/2013,FBS,North Dakota St.,Kansas State,RUSHING,John,Crockett,TD,0
+20008,8/30/2013,FBS,North Dakota St.,Kansas State,RUSHING,John,Crockett,LONG,7
+20009,8/30/2013,FBS,North Dakota St.,Kansas State,RUSHING,Ryan,Smith,ATT,2
+20010,8/30/2013,FBS,North Dakota St.,Kansas State,RUSHING,Ryan,Smith,YDS,16
+20011,8/30/2013,FBS,North Dakota St.,Kansas State,RUSHING,Ryan,Smith,TD,0
+20012,8/30/2013,FBS,North Dakota St.,Kansas State,RUSHING,Ryan,Smith,LONG,18
+20013,8/30/2013,FBS,North Dakota St.,Kansas State,RUSHING,Derrick,Lang,ATT,1
+20014,8/30/2013,FBS,North Dakota St.,Kansas State,RUSHING,Derrick,Lang,YDS,14
+20015,8/30/2013,FBS,North Dakota St.,Kansas State,RUSHING,Derrick,Lang,TD,0
+20016,8/30/2013,FBS,North Dakota St.,Kansas State,RUSHING,Derrick,Lang,LONG,14
+20017,8/30/2013,FBS,North Dakota St.,Kansas State,RUSHING,Brock,Jensen,ATT,12
+20018,8/30/2013,FBS,North Dakota St.,Kansas State,RUSHING,Brock,Jensen,YDS,5
+20019,8/30/2013,FBS,North Dakota St.,Kansas State,RUSHING,Brock,Jensen,TD,1
+20020,8/30/2013,FBS,North Dakota St.,Kansas State,RUSHING,Brock,Jensen,LONG,7
+20021,8/30/2013,FBS,North Dakota St.,Kansas State,RUSHING,Cooper,Wahlo,ATT,1
+20022,8/30/2013,FBS,North Dakota St.,Kansas State,RUSHING,Cooper,Wahlo,YDS,5
+20023,8/30/2013,FBS,North Dakota St.,Kansas State,RUSHING,Cooper,Wahlo,TD,0
+20024,8/30/2013,FBS,North Dakota St.,Kansas State,RUSHING,Cooper,Wahlo,LONG,5
+20025,8/30/2013,FBS,North Dakota St.,Kansas State,RUSHING,,Team,ATT,1
+20026,8/30/2013,FBS,North Dakota St.,Kansas State,RUSHING,,Team,YDS,-2
+20027,8/30/2013,FBS,North Dakota St.,Kansas State,RUSHING,,Team,TD,0
+20028,8/30/2013,FBS,North Dakota St.,Kansas State,RUSHING,,Team,LONG,0
+20029,8/30/2013,FBS,North Dakota St.,Kansas State,PASSING,Brock,Jensen,CP-ATT-INT,21-30-1
+20030,8/30/2013,FBS,North Dakota St.,Kansas State,PASSING,Brock,Jensen,YDS,165
+20031,8/30/2013,FBS,North Dakota St.,Kansas State,PASSING,Brock,Jensen,TD,2
+20032,8/30/2013,FBS,North Dakota St.,Kansas State,PASSING,Brock,Jensen,LONG,19
+20033,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,Ryan,Smith,REC,8
+20034,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,Ryan,Smith,YDS,72
+20035,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,Ryan,Smith,TD,1
+20036,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,Ryan,Smith,LONG,19
+20037,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,Zach,Vraa,REC,3
+20038,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,Zach,Vraa,YDS,20
+20039,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,Zach,Vraa,TD,0
+20040,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,Zach,Vraa,LONG,8
+20041,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,Andrew,Bonnet,REC,2
+20042,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,Andrew,Bonnet,YDS,19
+20043,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,Andrew,Bonnet,TD,0
+20044,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,Andrew,Bonnet,LONG,15
+20045,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,Trevor,Gebhart,REC,2
+20046,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,Trevor,Gebhart,YDS,10
+20047,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,Trevor,Gebhart,TD,0
+20048,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,Trevor,Gebhart,LONG,5
+20049,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,Derrick,Lang,REC,1
+20050,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,Derrick,Lang,YDS,11
+20051,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,Derrick,Lang,TD,0
+20052,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,Derrick,Lang,LONG,11
+20053,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,Kevin,Vaadeland,REC,1
+20054,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,Kevin,Vaadeland,YDS,9
+20055,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,Kevin,Vaadeland,TD,1
+20056,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,Kevin,Vaadeland,LONG,9
+20057,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,Carey,Woods,REC,1
+20058,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,Carey,Woods,YDS,8
+20059,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,Carey,Woods,TD,0
+20060,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,Carey,Woods,LONG,8
+20061,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,John,Crockett,REC,1
+20062,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,John,Crockett,YDS,7
+20063,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,John,Crockett,TD,0
+20064,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,John,Crockett,LONG,7
+20065,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,Sam,Ojuri,REC,1
+20066,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,Sam,Ojuri,YDS,5
+20067,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,Sam,Ojuri,TD,0
+20068,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,Sam,Ojuri,LONG,5
+20069,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,Cooper,Wahlo,REC,1
+20070,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,Cooper,Wahlo,YDS,4
+20071,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,Cooper,Wahlo,TD,0
+20072,8/30/2013,FBS,North Dakota St.,Kansas State,RECEIVING,Cooper,Wahlo,LONG,4
+20073,8/30/2013,FBS,North Dakota St.,Kansas State,KICKING,Adam,Keller,FG-FGA,1/2
+20074,8/30/2013,FBS,North Dakota St.,Kansas State,KICKING,Adam,Keller,LONG,41
+20075,8/30/2013,FBS,North Dakota St.,Kansas State,KICKING,Adam,Keller,XP,3
+20076,8/30/2013,FBS,North Dakota St.,Kansas State,KICKING,Adam,Keller,PTS,6
+20077,8/30/2013,FBS,North Dakota St.,Kansas State,PUNTING,Ben,LeCompte,NO,4
+20078,8/30/2013,FBS,North Dakota St.,Kansas State,PUNTING,Ben,LeCompte,YDS,169
+20079,8/30/2013,FBS,North Dakota St.,Kansas State,PUNTING,Ben,LeCompte,AVG,42.3
+20080,8/30/2013,FBS,North Dakota St.,Kansas State,PUNTING,Ben,LeCompte,LONG,48
+20081,8/30/2013,FBS,North Dakota St.,Kansas State,PUNT RETURNS,Christian,Dudzik,NO,1
+20082,8/30/2013,FBS,North Dakota St.,Kansas State,PUNT RETURNS,Christian,Dudzik,YDS,49
+20083,8/30/2013,FBS,North Dakota St.,Kansas State,PUNT RETURNS,Christian,Dudzik,AVG,49.0
+20084,8/30/2013,FBS,North Dakota St.,Kansas State,PUNT RETURNS,Christian,Dudzik,LONG,49
+20085,8/30/2013,FBS,North Dakota St.,Kansas State,KICK RETURNS,Marcus,Williams,NO,2
+20086,8/30/2013,FBS,North Dakota St.,Kansas State,KICK RETURNS,Marcus,Williams,YDS,58
+20087,8/30/2013,FBS,North Dakota St.,Kansas State,KICK RETURNS,Marcus,Williams,AVG,29.0
+20088,8/30/2013,FBS,North Dakota St.,Kansas State,KICK RETURNS,Marcus,Williams,LONG,30
+20089,8/30/2013,FBS,Kansas State,North Dakota St.,RUSHING,John,Hubert,ATT,10
+20090,8/30/2013,FBS,Kansas State,North Dakota St.,RUSHING,John,Hubert,YDS,23
+20091,8/30/2013,FBS,Kansas State,North Dakota St.,RUSHING,John,Hubert,TD,0
+20092,8/30/2013,FBS,Kansas State,North Dakota St.,RUSHING,John,Hubert,LONG,17
+20093,8/30/2013,FBS,Kansas State,North Dakota St.,RUSHING,Daniel,Sams,ATT,2
+20094,8/30/2013,FBS,Kansas State,North Dakota St.,RUSHING,Daniel,Sams,YDS,17
+20095,8/30/2013,FBS,Kansas State,North Dakota St.,RUSHING,Daniel,Sams,TD,1
+20096,8/30/2013,FBS,Kansas State,North Dakota St.,RUSHING,Daniel,Sams,LONG,17
+20097,8/30/2013,FBS,Kansas State,North Dakota St.,RUSHING,Jake,Waters,ATT,11
+20098,8/30/2013,FBS,Kansas State,North Dakota St.,RUSHING,Jake,Waters,YDS,1
+20099,8/30/2013,FBS,Kansas State,North Dakota St.,RUSHING,Jake,Waters,TD,0
+20100,8/30/2013,FBS,Kansas State,North Dakota St.,RUSHING,Jake,Waters,LONG,11
+20101,8/30/2013,FBS,Kansas State,North Dakota St.,PASSING,Jake,Waters,CP-ATT-INT,21-29-2
+20102,8/30/2013,FBS,Kansas State,North Dakota St.,PASSING,Jake,Waters,YDS,280
+20103,8/30/2013,FBS,Kansas State,North Dakota St.,PASSING,Jake,Waters,TD,2
+20104,8/30/2013,FBS,Kansas State,North Dakota St.,PASSING,Jake,Waters,LONG,56
+20105,8/30/2013,FBS,Kansas State,North Dakota St.,RECEIVING,Tyler,Lockett,REC,7
+20106,8/30/2013,FBS,Kansas State,North Dakota St.,RECEIVING,Tyler,Lockett,YDS,113
+20107,8/30/2013,FBS,Kansas State,North Dakota St.,RECEIVING,Tyler,Lockett,TD,1
+20108,8/30/2013,FBS,Kansas State,North Dakota St.,RECEIVING,Tyler,Lockett,LONG,56
+20109,8/30/2013,FBS,Kansas State,North Dakota St.,RECEIVING,Tramaine,Thompson,REC,6
+20110,8/30/2013,FBS,Kansas State,North Dakota St.,RECEIVING,Tramaine,Thompson,YDS,108
+20111,8/30/2013,FBS,Kansas State,North Dakota St.,RECEIVING,Tramaine,Thompson,TD,1
+20112,8/30/2013,FBS,Kansas State,North Dakota St.,RECEIVING,Tramaine,Thompson,LONG,45
+20113,8/30/2013,FBS,Kansas State,North Dakota St.,RECEIVING,Curry,Sexton,REC,4
+20114,8/30/2013,FBS,Kansas State,North Dakota St.,RECEIVING,Curry,Sexton,YDS,35
+20115,8/30/2013,FBS,Kansas State,North Dakota St.,RECEIVING,Curry,Sexton,TD,0
+20116,8/30/2013,FBS,Kansas State,North Dakota St.,RECEIVING,Curry,Sexton,LONG,12
+20117,8/30/2013,FBS,Kansas State,North Dakota St.,RECEIVING,Zach,Trujillo,REC,1
+20118,8/30/2013,FBS,Kansas State,North Dakota St.,RECEIVING,Zach,Trujillo,YDS,9
+20119,8/30/2013,FBS,Kansas State,North Dakota St.,RECEIVING,Zach,Trujillo,TD,0
+20120,8/30/2013,FBS,Kansas State,North Dakota St.,RECEIVING,Zach,Trujillo,LONG,9
+20121,8/30/2013,FBS,Kansas State,North Dakota St.,RECEIVING,John,Hubert,REC,1
+20122,8/30/2013,FBS,Kansas State,North Dakota St.,RECEIVING,John,Hubert,YDS,8
+20123,8/30/2013,FBS,Kansas State,North Dakota St.,RECEIVING,John,Hubert,TD,0
+20124,8/30/2013,FBS,Kansas State,North Dakota St.,RECEIVING,John,Hubert,LONG,8
+20125,8/30/2013,FBS,Kansas State,North Dakota St.,RECEIVING,Torell,Miller,REC,1
+20126,8/30/2013,FBS,Kansas State,North Dakota St.,RECEIVING,Torell,Miller,YDS,5
+20127,8/30/2013,FBS,Kansas State,North Dakota St.,RECEIVING,Torell,Miller,TD,0
+20128,8/30/2013,FBS,Kansas State,North Dakota St.,RECEIVING,Torell,Miller,LONG,5
+20129,8/30/2013,FBS,Kansas State,North Dakota St.,RECEIVING,Glenn,Gronkowski,REC,1
+20130,8/30/2013,FBS,Kansas State,North Dakota St.,RECEIVING,Glenn,Gronkowski,YDS,2
+20131,8/30/2013,FBS,Kansas State,North Dakota St.,RECEIVING,Glenn,Gronkowski,TD,0
+20132,8/30/2013,FBS,Kansas State,North Dakota St.,RECEIVING,Glenn,Gronkowski,LONG,2
+20133,8/30/2013,FBS,Kansas State,North Dakota St.,KICKING,Jack,Cantele,FG-FGA,0/0
+20134,8/30/2013,FBS,Kansas State,North Dakota St.,KICKING,Jack,Cantele,LONG,-
+20135,8/30/2013,FBS,Kansas State,North Dakota St.,KICKING,Jack,Cantele,XP,3
+20136,8/30/2013,FBS,Kansas State,North Dakota St.,KICKING,Jack,Cantele,PTS,3
+20137,8/30/2013,FBS,Kansas State,North Dakota St.,PUNTING,Mark,Krause,NO,5
+20138,8/30/2013,FBS,Kansas State,North Dakota St.,PUNTING,Mark,Krause,YDS,219
+20139,8/30/2013,FBS,Kansas State,North Dakota St.,PUNTING,Mark,Krause,AVG,43.8
+20140,8/30/2013,FBS,Kansas State,North Dakota St.,PUNTING,Mark,Krause,LONG,49
+20141,8/30/2013,FBS,Kansas State,North Dakota St.,KICK RETURNS,Zach,Nemechek,NO,2
+20142,8/30/2013,FBS,Kansas State,North Dakota St.,KICK RETURNS,Zach,Nemechek,YDS,11
+20143,8/30/2013,FBS,Kansas State,North Dakota St.,KICK RETURNS,Zach,Nemechek,AVG,5.5
+20144,8/30/2013,FBS,Kansas State,North Dakota St.,KICK RETURNS,Zach,Nemechek,LONG,6
+20145,8/30/2013,FBS,Kansas State,North Dakota St.,KICK RETURNS,Tramaine,Thompson,NO,1
+20146,8/30/2013,FBS,Kansas State,North Dakota St.,KICK RETURNS,Tramaine,Thompson,YDS,18
+20147,8/30/2013,FBS,Kansas State,North Dakota St.,KICK RETURNS,Tramaine,Thompson,AVG,18.0
+20148,8/30/2013,FBS,Kansas State,North Dakota St.,KICK RETURNS,Tramaine,Thompson,LONG,18
+20149,8/30/2013,FBS,Kansas State,North Dakota St.,KICK RETURNS,Laton,Dowling,NO,1
+20150,8/30/2013,FBS,Kansas State,North Dakota St.,KICK RETURNS,Laton,Dowling,YDS,3
+20151,8/30/2013,FBS,Kansas State,North Dakota St.,KICK RETURNS,Laton,Dowling,AVG,3.0
+20152,8/30/2013,FBS,Kansas State,North Dakota St.,KICK RETURNS,Laton,Dowling,LONG,3

@@ -1,0 +1,141 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+198001,10/26/2013,FBS,South Carolina,Missouri,RUSHING,Mike,Davis,ATT,19
+198002,10/26/2013,FBS,South Carolina,Missouri,RUSHING,Mike,Davis,YDS,51
+198003,10/26/2013,FBS,South Carolina,Missouri,RUSHING,Mike,Davis,TD,0
+198004,10/26/2013,FBS,South Carolina,Missouri,RUSHING,Mike,Davis,LONG,7
+198005,10/26/2013,FBS,South Carolina,Missouri,RUSHING,Shon,Carson,ATT,7
+198006,10/26/2013,FBS,South Carolina,Missouri,RUSHING,Shon,Carson,YDS,27
+198007,10/26/2013,FBS,South Carolina,Missouri,RUSHING,Shon,Carson,TD,0
+198008,10/26/2013,FBS,South Carolina,Missouri,RUSHING,Shon,Carson,LONG,11
+198009,10/26/2013,FBS,South Carolina,Missouri,RUSHING,Dylan,Thompson,ATT,2
+198010,10/26/2013,FBS,South Carolina,Missouri,RUSHING,Dylan,Thompson,YDS,5
+198011,10/26/2013,FBS,South Carolina,Missouri,RUSHING,Dylan,Thompson,TD,0
+198012,10/26/2013,FBS,South Carolina,Missouri,RUSHING,Dylan,Thompson,LONG,5
+198013,10/26/2013,FBS,South Carolina,Missouri,RUSHING,Connor,Shaw,ATT,7
+198014,10/26/2013,FBS,South Carolina,Missouri,RUSHING,Connor,Shaw,YDS,-8
+198015,10/26/2013,FBS,South Carolina,Missouri,RUSHING,Connor,Shaw,TD,0
+198016,10/26/2013,FBS,South Carolina,Missouri,RUSHING,Connor,Shaw,LONG,11
+198017,10/26/2013,FBS,South Carolina,Missouri,PASSING,Connor,Shaw,CP-ATT-INT,20-29-0
+198018,10/26/2013,FBS,South Carolina,Missouri,PASSING,Connor,Shaw,YDS,201
+198019,10/26/2013,FBS,South Carolina,Missouri,PASSING,Connor,Shaw,TD,3
+198020,10/26/2013,FBS,South Carolina,Missouri,PASSING,Connor,Shaw,LONG,25
+198021,10/26/2013,FBS,South Carolina,Missouri,PASSING,Dylan,Thompson,CP-ATT-INT,15-27-1
+198022,10/26/2013,FBS,South Carolina,Missouri,PASSING,Dylan,Thompson,YDS,222
+198023,10/26/2013,FBS,South Carolina,Missouri,PASSING,Dylan,Thompson,TD,0
+198024,10/26/2013,FBS,South Carolina,Missouri,PASSING,Dylan,Thompson,LONG,26
+198025,10/26/2013,FBS,South Carolina,Missouri,RECEIVING,Bruce,Ellington,REC,10
+198026,10/26/2013,FBS,South Carolina,Missouri,RECEIVING,Bruce,Ellington,YDS,136
+198027,10/26/2013,FBS,South Carolina,Missouri,RECEIVING,Bruce,Ellington,TD,2
+198028,10/26/2013,FBS,South Carolina,Missouri,RECEIVING,Bruce,Ellington,LONG,23
+198029,10/26/2013,FBS,South Carolina,Missouri,RECEIVING,Mike,Davis,REC,10
+198030,10/26/2013,FBS,South Carolina,Missouri,RECEIVING,Mike,Davis,YDS,99
+198031,10/26/2013,FBS,South Carolina,Missouri,RECEIVING,Mike,Davis,TD,0
+198032,10/26/2013,FBS,South Carolina,Missouri,RECEIVING,Mike,Davis,LONG,25
+198033,10/26/2013,FBS,South Carolina,Missouri,RECEIVING,Damiere,Byrd,REC,4
+198034,10/26/2013,FBS,South Carolina,Missouri,RECEIVING,Damiere,Byrd,YDS,76
+198035,10/26/2013,FBS,South Carolina,Missouri,RECEIVING,Damiere,Byrd,TD,0
+198036,10/26/2013,FBS,South Carolina,Missouri,RECEIVING,Damiere,Byrd,LONG,26
+198037,10/26/2013,FBS,South Carolina,Missouri,RECEIVING,Jerell,Adams,REC,3
+198038,10/26/2013,FBS,South Carolina,Missouri,RECEIVING,Jerell,Adams,YDS,48
+198039,10/26/2013,FBS,South Carolina,Missouri,RECEIVING,Jerell,Adams,TD,0
+198040,10/26/2013,FBS,South Carolina,Missouri,RECEIVING,Jerell,Adams,LONG,25
+198041,10/26/2013,FBS,South Carolina,Missouri,RECEIVING,Rory,Anderson,REC,3
+198042,10/26/2013,FBS,South Carolina,Missouri,RECEIVING,Rory,Anderson,YDS,38
+198043,10/26/2013,FBS,South Carolina,Missouri,RECEIVING,Rory,Anderson,TD,0
+198044,10/26/2013,FBS,South Carolina,Missouri,RECEIVING,Rory,Anderson,LONG,23
+198045,10/26/2013,FBS,South Carolina,Missouri,RECEIVING,Shon,Carson,REC,2
+198046,10/26/2013,FBS,South Carolina,Missouri,RECEIVING,Shon,Carson,YDS,14
+198047,10/26/2013,FBS,South Carolina,Missouri,RECEIVING,Shon,Carson,TD,0
+198048,10/26/2013,FBS,South Carolina,Missouri,RECEIVING,Shon,Carson,LONG,9
+198049,10/26/2013,FBS,South Carolina,Missouri,RECEIVING,Nick,Jones,REC,2
+198050,10/26/2013,FBS,South Carolina,Missouri,RECEIVING,Nick,Jones,YDS,8
+198051,10/26/2013,FBS,South Carolina,Missouri,RECEIVING,Nick,Jones,TD,1
+198052,10/26/2013,FBS,South Carolina,Missouri,RECEIVING,Nick,Jones,LONG,6
+198053,10/26/2013,FBS,South Carolina,Missouri,RECEIVING,Shaq,Roland,REC,1
+198054,10/26/2013,FBS,South Carolina,Missouri,RECEIVING,Shaq,Roland,YDS,4
+198055,10/26/2013,FBS,South Carolina,Missouri,RECEIVING,Shaq,Roland,TD,0
+198056,10/26/2013,FBS,South Carolina,Missouri,RECEIVING,Shaq,Roland,LONG,4
+198057,10/26/2013,FBS,South Carolina,Missouri,KICKING,Elliott,Fry,FG-FGA,2/3
+198058,10/26/2013,FBS,South Carolina,Missouri,KICKING,Elliott,Fry,LONG,40
+198059,10/26/2013,FBS,South Carolina,Missouri,KICKING,Elliott,Fry,XP,3
+198060,10/26/2013,FBS,South Carolina,Missouri,KICKING,Elliott,Fry,PTS,9
+198061,10/26/2013,FBS,South Carolina,Missouri,PUNTING,Tyler,Hull,NO,3
+198062,10/26/2013,FBS,South Carolina,Missouri,PUNTING,Tyler,Hull,YDS,134
+198063,10/26/2013,FBS,South Carolina,Missouri,PUNTING,Tyler,Hull,AVG,44.7
+198064,10/26/2013,FBS,South Carolina,Missouri,PUNTING,Tyler,Hull,LONG,46
+198065,10/26/2013,FBS,South Carolina,Missouri,PUNT RETURNS,Pharoh,Cooper,NO,2
+198066,10/26/2013,FBS,South Carolina,Missouri,PUNT RETURNS,Pharoh,Cooper,YDS,-8
+198067,10/26/2013,FBS,South Carolina,Missouri,PUNT RETURNS,Pharoh,Cooper,AVG,-4.0
+198068,10/26/2013,FBS,South Carolina,Missouri,PUNT RETURNS,Pharoh,Cooper,LONG,0
+198069,10/26/2013,FBS,South Carolina,Missouri,KICK RETURNS,Pharoh,Cooper,NO,2
+198070,10/26/2013,FBS,South Carolina,Missouri,KICK RETURNS,Pharoh,Cooper,YDS,42
+198071,10/26/2013,FBS,South Carolina,Missouri,KICK RETURNS,Pharoh,Cooper,AVG,21.0
+198072,10/26/2013,FBS,South Carolina,Missouri,KICK RETURNS,Pharoh,Cooper,LONG,24
+198073,10/26/2013,FBS,South Carolina,Missouri,KICK RETURNS,Sidney,Rhodes,NO,1
+198074,10/26/2013,FBS,South Carolina,Missouri,KICK RETURNS,Sidney,Rhodes,YDS,19
+198075,10/26/2013,FBS,South Carolina,Missouri,KICK RETURNS,Sidney,Rhodes,AVG,19.0
+198076,10/26/2013,FBS,South Carolina,Missouri,KICK RETURNS,Sidney,Rhodes,LONG,19
+198077,10/26/2013,FBS,Missouri,South Carolina,RUSHING,Henry,Josey,ATT,15
+198078,10/26/2013,FBS,Missouri,South Carolina,RUSHING,Henry,Josey,YDS,79
+198079,10/26/2013,FBS,Missouri,South Carolina,RUSHING,Henry,Josey,TD,0
+198080,10/26/2013,FBS,Missouri,South Carolina,RUSHING,Henry,Josey,LONG,34
+198081,10/26/2013,FBS,Missouri,South Carolina,RUSHING,Marcus,Murphy,ATT,12
+198082,10/26/2013,FBS,Missouri,South Carolina,RUSHING,Marcus,Murphy,YDS,53
+198083,10/26/2013,FBS,Missouri,South Carolina,RUSHING,Marcus,Murphy,TD,2
+198084,10/26/2013,FBS,Missouri,South Carolina,RUSHING,Marcus,Murphy,LONG,17
+198085,10/26/2013,FBS,Missouri,South Carolina,RUSHING,Maty,Mauk,ATT,10
+198086,10/26/2013,FBS,Missouri,South Carolina,RUSHING,Maty,Mauk,YDS,12
+198087,10/26/2013,FBS,Missouri,South Carolina,RUSHING,Maty,Mauk,TD,0
+198088,10/26/2013,FBS,Missouri,South Carolina,RUSHING,Maty,Mauk,LONG,13
+198089,10/26/2013,FBS,Missouri,South Carolina,RUSHING,Russell,Hansbrough,ATT,4
+198090,10/26/2013,FBS,Missouri,South Carolina,RUSHING,Russell,Hansbrough,YDS,11
+198091,10/26/2013,FBS,Missouri,South Carolina,RUSHING,Russell,Hansbrough,TD,0
+198092,10/26/2013,FBS,Missouri,South Carolina,RUSHING,Russell,Hansbrough,LONG,8
+198093,10/26/2013,FBS,Missouri,South Carolina,PASSING,Maty,Mauk,CP-ATT-INT,10-25-1
+198094,10/26/2013,FBS,Missouri,South Carolina,PASSING,Maty,Mauk,YDS,249
+198095,10/26/2013,FBS,Missouri,South Carolina,PASSING,Maty,Mauk,TD,1
+198096,10/26/2013,FBS,Missouri,South Carolina,PASSING,Maty,Mauk,LONG,96
+198097,10/26/2013,FBS,Missouri,South Carolina,RECEIVING,Marcus,Lucas,REC,3
+198098,10/26/2013,FBS,Missouri,South Carolina,RECEIVING,Marcus,Lucas,YDS,89
+198099,10/26/2013,FBS,Missouri,South Carolina,RECEIVING,Marcus,Lucas,TD,0
+198100,10/26/2013,FBS,Missouri,South Carolina,RECEIVING,Marcus,Lucas,LONG,32
+198101,10/26/2013,FBS,Missouri,South Carolina,RECEIVING,Bud,Sasser,REC,2
+198102,10/26/2013,FBS,Missouri,South Carolina,RECEIVING,Bud,Sasser,YDS,26
+198103,10/26/2013,FBS,Missouri,South Carolina,RECEIVING,Bud,Sasser,TD,0
+198104,10/26/2013,FBS,Missouri,South Carolina,RECEIVING,Bud,Sasser,LONG,14
+198105,10/26/2013,FBS,Missouri,South Carolina,RECEIVING,L'Damian,Washington,REC,1
+198106,10/26/2013,FBS,Missouri,South Carolina,RECEIVING,L'Damian,Washington,YDS,96
+198107,10/26/2013,FBS,Missouri,South Carolina,RECEIVING,L'Damian,Washington,TD,1
+198108,10/26/2013,FBS,Missouri,South Carolina,RECEIVING,L'Damian,Washington,LONG,96
+198109,10/26/2013,FBS,Missouri,South Carolina,RECEIVING,Jimmie,Hunt,REC,1
+198110,10/26/2013,FBS,Missouri,South Carolina,RECEIVING,Jimmie,Hunt,YDS,20
+198111,10/26/2013,FBS,Missouri,South Carolina,RECEIVING,Jimmie,Hunt,TD,0
+198112,10/26/2013,FBS,Missouri,South Carolina,RECEIVING,Jimmie,Hunt,LONG,20
+198113,10/26/2013,FBS,Missouri,South Carolina,RECEIVING,Henry,Josey,REC,1
+198114,10/26/2013,FBS,Missouri,South Carolina,RECEIVING,Henry,Josey,YDS,15
+198115,10/26/2013,FBS,Missouri,South Carolina,RECEIVING,Henry,Josey,TD,0
+198116,10/26/2013,FBS,Missouri,South Carolina,RECEIVING,Henry,Josey,LONG,15
+198117,10/26/2013,FBS,Missouri,South Carolina,RECEIVING,Dorial,Green-Beckham,REC,1
+198118,10/26/2013,FBS,Missouri,South Carolina,RECEIVING,Dorial,Green-Beckham,YDS,6
+198119,10/26/2013,FBS,Missouri,South Carolina,RECEIVING,Dorial,Green-Beckham,TD,0
+198120,10/26/2013,FBS,Missouri,South Carolina,RECEIVING,Dorial,Green-Beckham,LONG,6
+198121,10/26/2013,FBS,Missouri,South Carolina,RECEIVING,Marcus,Murphy,REC,1
+198122,10/26/2013,FBS,Missouri,South Carolina,RECEIVING,Marcus,Murphy,YDS,-3
+198123,10/26/2013,FBS,Missouri,South Carolina,RECEIVING,Marcus,Murphy,TD,0
+198124,10/26/2013,FBS,Missouri,South Carolina,RECEIVING,Marcus,Murphy,LONG,0
+198125,10/26/2013,FBS,Missouri,South Carolina,KICKING,Andrew,Baggett,FG-FGA,1/3
+198126,10/26/2013,FBS,Missouri,South Carolina,KICKING,Andrew,Baggett,LONG,27
+198127,10/26/2013,FBS,Missouri,South Carolina,KICKING,Andrew,Baggett,XP,3
+198128,10/26/2013,FBS,Missouri,South Carolina,KICKING,Andrew,Baggett,PTS,6
+198129,10/26/2013,FBS,Missouri,South Carolina,PUNTING,Christian,Brinser,NO,7
+198130,10/26/2013,FBS,Missouri,South Carolina,PUNTING,Christian,Brinser,YDS,236
+198131,10/26/2013,FBS,Missouri,South Carolina,PUNTING,Christian,Brinser,AVG,33.7
+198132,10/26/2013,FBS,Missouri,South Carolina,PUNTING,Christian,Brinser,LONG,54
+198133,10/26/2013,FBS,Missouri,South Carolina,KICK RETURNS,Marcus,Murphy,NO,2
+198134,10/26/2013,FBS,Missouri,South Carolina,KICK RETURNS,Marcus,Murphy,YDS,59
+198135,10/26/2013,FBS,Missouri,South Carolina,KICK RETURNS,Marcus,Murphy,AVG,29.5
+198136,10/26/2013,FBS,Missouri,South Carolina,KICK RETURNS,Marcus,Murphy,LONG,35
+198137,10/26/2013,FBS,Missouri,South Carolina,KICK RETURNS,Levi,Copelin,NO,1
+198138,10/26/2013,FBS,Missouri,South Carolina,KICK RETURNS,Levi,Copelin,YDS,16
+198139,10/26/2013,FBS,Missouri,South Carolina,KICK RETURNS,Levi,Copelin,AVG,16.0
+198140,10/26/2013,FBS,Missouri,South Carolina,KICK RETURNS,Levi,Copelin,LONG,16

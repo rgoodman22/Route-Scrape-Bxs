@@ -1,0 +1,125 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+468001,11/30/2013,FBS,Kansas State,Kansas,RUSHING,John,Hubert,ATT,30
+468002,11/30/2013,FBS,Kansas State,Kansas,RUSHING,John,Hubert,YDS,220
+468003,11/30/2013,FBS,Kansas State,Kansas,RUSHING,John,Hubert,TD,1
+468004,11/30/2013,FBS,Kansas State,Kansas,RUSHING,John,Hubert,LONG,41
+468005,11/30/2013,FBS,Kansas State,Kansas,RUSHING,Robert,Rose,ATT,3
+468006,11/30/2013,FBS,Kansas State,Kansas,RUSHING,Robert,Rose,YDS,4
+468007,11/30/2013,FBS,Kansas State,Kansas,RUSHING,Robert,Rose,TD,0
+468008,11/30/2013,FBS,Kansas State,Kansas,RUSHING,Robert,Rose,LONG,4
+468009,11/30/2013,FBS,Kansas State,Kansas,RUSHING,Daniel,Sams,ATT,2
+468010,11/30/2013,FBS,Kansas State,Kansas,RUSHING,Daniel,Sams,YDS,-7
+468011,11/30/2013,FBS,Kansas State,Kansas,RUSHING,Daniel,Sams,TD,0
+468012,11/30/2013,FBS,Kansas State,Kansas,RUSHING,Daniel,Sams,LONG,0
+468013,11/30/2013,FBS,Kansas State,Kansas,RUSHING,Jake,Waters,ATT,10
+468014,11/30/2013,FBS,Kansas State,Kansas,RUSHING,Jake,Waters,YDS,-9
+468015,11/30/2013,FBS,Kansas State,Kansas,RUSHING,Jake,Waters,TD,1
+468016,11/30/2013,FBS,Kansas State,Kansas,RUSHING,Jake,Waters,LONG,15
+468017,11/30/2013,FBS,Kansas State,Kansas,PASSING,Jake,Waters,CP-ATT-INT,10-21-1
+468018,11/30/2013,FBS,Kansas State,Kansas,PASSING,Jake,Waters,YDS,160
+468019,11/30/2013,FBS,Kansas State,Kansas,PASSING,Jake,Waters,TD,2
+468020,11/30/2013,FBS,Kansas State,Kansas,PASSING,Jake,Waters,LONG,35
+468021,11/30/2013,FBS,Kansas State,Kansas,RECEIVING,Tyler,Lockett,REC,3
+468022,11/30/2013,FBS,Kansas State,Kansas,RECEIVING,Tyler,Lockett,YDS,43
+468023,11/30/2013,FBS,Kansas State,Kansas,RECEIVING,Tyler,Lockett,TD,0
+468024,11/30/2013,FBS,Kansas State,Kansas,RECEIVING,Tyler,Lockett,LONG,17
+468025,11/30/2013,FBS,Kansas State,Kansas,RECEIVING,Tramaine,Thompson,REC,3
+468026,11/30/2013,FBS,Kansas State,Kansas,RECEIVING,Tramaine,Thompson,YDS,27
+468027,11/30/2013,FBS,Kansas State,Kansas,RECEIVING,Tramaine,Thompson,TD,0
+468028,11/30/2013,FBS,Kansas State,Kansas,RECEIVING,Tramaine,Thompson,LONG,17
+468029,11/30/2013,FBS,Kansas State,Kansas,RECEIVING,Curry,Sexton,REC,2
+468030,11/30/2013,FBS,Kansas State,Kansas,RECEIVING,Curry,Sexton,YDS,26
+468031,11/30/2013,FBS,Kansas State,Kansas,RECEIVING,Curry,Sexton,TD,0
+468032,11/30/2013,FBS,Kansas State,Kansas,RECEIVING,Curry,Sexton,LONG,15
+468033,11/30/2013,FBS,Kansas State,Kansas,RECEIVING,Zach,Trujillo,REC,1
+468034,11/30/2013,FBS,Kansas State,Kansas,RECEIVING,Zach,Trujillo,YDS,35
+468035,11/30/2013,FBS,Kansas State,Kansas,RECEIVING,Zach,Trujillo,TD,1
+468036,11/30/2013,FBS,Kansas State,Kansas,RECEIVING,Zach,Trujillo,LONG,35
+468037,11/30/2013,FBS,Kansas State,Kansas,RECEIVING,Glenn,Gronkowski,REC,1
+468038,11/30/2013,FBS,Kansas State,Kansas,RECEIVING,Glenn,Gronkowski,YDS,29
+468039,11/30/2013,FBS,Kansas State,Kansas,RECEIVING,Glenn,Gronkowski,TD,1
+468040,11/30/2013,FBS,Kansas State,Kansas,RECEIVING,Glenn,Gronkowski,LONG,29
+468041,11/30/2013,FBS,Kansas State,Kansas,KICKING,Ian,Patterson,FG-FGA,1/2
+468042,11/30/2013,FBS,Kansas State,Kansas,KICKING,Ian,Patterson,LONG,31
+468043,11/30/2013,FBS,Kansas State,Kansas,KICKING,Ian,Patterson,XP,4
+468044,11/30/2013,FBS,Kansas State,Kansas,KICKING,Ian,Patterson,PTS,7
+468045,11/30/2013,FBS,Kansas State,Kansas,PUNTING,Mark,Krause,NO,5
+468046,11/30/2013,FBS,Kansas State,Kansas,PUNTING,Mark,Krause,YDS,172
+468047,11/30/2013,FBS,Kansas State,Kansas,PUNTING,Mark,Krause,AVG,34.4
+468048,11/30/2013,FBS,Kansas State,Kansas,PUNTING,Mark,Krause,LONG,42
+468049,11/30/2013,FBS,Kansas State,Kansas,PUNT RETURNS,Tramaine,Thompson,NO,2
+468050,11/30/2013,FBS,Kansas State,Kansas,PUNT RETURNS,Tramaine,Thompson,YDS,2
+468051,11/30/2013,FBS,Kansas State,Kansas,PUNT RETURNS,Tramaine,Thompson,AVG,1.0
+468052,11/30/2013,FBS,Kansas State,Kansas,PUNT RETURNS,Tramaine,Thompson,LONG,2
+468053,11/30/2013,FBS,Kansas State,Kansas,KICK RETURNS,Zach,Nemechek,NO,1
+468054,11/30/2013,FBS,Kansas State,Kansas,KICK RETURNS,Zach,Nemechek,YDS,14
+468055,11/30/2013,FBS,Kansas State,Kansas,KICK RETURNS,Zach,Nemechek,AVG,14.0
+468056,11/30/2013,FBS,Kansas State,Kansas,KICK RETURNS,Zach,Nemechek,LONG,14
+468057,11/30/2013,FBS,Kansas,Kansas State,RUSHING,James,Sims,ATT,22
+468058,11/30/2013,FBS,Kansas,Kansas State,RUSHING,James,Sims,YDS,82
+468059,11/30/2013,FBS,Kansas,Kansas State,RUSHING,James,Sims,TD,0
+468060,11/30/2013,FBS,Kansas,Kansas State,RUSHING,James,Sims,LONG,10
+468061,11/30/2013,FBS,Kansas,Kansas State,RUSHING,Brandon,Bourbon,ATT,5
+468062,11/30/2013,FBS,Kansas,Kansas State,RUSHING,Brandon,Bourbon,YDS,11
+468063,11/30/2013,FBS,Kansas,Kansas State,RUSHING,Brandon,Bourbon,TD,0
+468064,11/30/2013,FBS,Kansas,Kansas State,RUSHING,Brandon,Bourbon,LONG,7
+468065,11/30/2013,FBS,Kansas,Kansas State,RUSHING,Montell,Cozart,ATT,8
+468066,11/30/2013,FBS,Kansas,Kansas State,RUSHING,Montell,Cozart,YDS,-4
+468067,11/30/2013,FBS,Kansas,Kansas State,RUSHING,Montell,Cozart,TD,0
+468068,11/30/2013,FBS,Kansas,Kansas State,RUSHING,Montell,Cozart,LONG,5
+468069,11/30/2013,FBS,Kansas,Kansas State,RUSHING,Jake,Heaps,ATT,3
+468070,11/30/2013,FBS,Kansas,Kansas State,RUSHING,Jake,Heaps,YDS,-17
+468071,11/30/2013,FBS,Kansas,Kansas State,RUSHING,Jake,Heaps,TD,0
+468072,11/30/2013,FBS,Kansas,Kansas State,RUSHING,Jake,Heaps,LONG,2
+468073,11/30/2013,FBS,Kansas,Kansas State,PASSING,Jake,Heaps,CP-ATT-INT,14-29-3
+468074,11/30/2013,FBS,Kansas,Kansas State,PASSING,Jake,Heaps,YDS,138
+468075,11/30/2013,FBS,Kansas,Kansas State,PASSING,Jake,Heaps,TD,1
+468076,11/30/2013,FBS,Kansas,Kansas State,PASSING,Jake,Heaps,LONG,21
+468077,11/30/2013,FBS,Kansas,Kansas State,PASSING,Montell,Cozart,CP-ATT-INT,3-7-1
+468078,11/30/2013,FBS,Kansas,Kansas State,PASSING,Montell,Cozart,YDS,13
+468079,11/30/2013,FBS,Kansas,Kansas State,PASSING,Montell,Cozart,TD,0
+468080,11/30/2013,FBS,Kansas,Kansas State,PASSING,Montell,Cozart,LONG,6
+468081,11/30/2013,FBS,Kansas,Kansas State,RECEIVING,Justin,McCay,REC,5
+468082,11/30/2013,FBS,Kansas,Kansas State,RECEIVING,Justin,McCay,YDS,45
+468083,11/30/2013,FBS,Kansas,Kansas State,RECEIVING,Justin,McCay,TD,0
+468084,11/30/2013,FBS,Kansas,Kansas State,RECEIVING,Justin,McCay,LONG,13
+468085,11/30/2013,FBS,Kansas,Kansas State,RECEIVING,Christian,Matthews,REC,3
+468086,11/30/2013,FBS,Kansas,Kansas State,RECEIVING,Christian,Matthews,YDS,34
+468087,11/30/2013,FBS,Kansas,Kansas State,RECEIVING,Christian,Matthews,TD,0
+468088,11/30/2013,FBS,Kansas,Kansas State,RECEIVING,Christian,Matthews,LONG,21
+468089,11/30/2013,FBS,Kansas,Kansas State,RECEIVING,Jimmay,Mundine,REC,3
+468090,11/30/2013,FBS,Kansas,Kansas State,RECEIVING,Jimmay,Mundine,YDS,27
+468091,11/30/2013,FBS,Kansas,Kansas State,RECEIVING,Jimmay,Mundine,TD,1
+468092,11/30/2013,FBS,Kansas,Kansas State,RECEIVING,Jimmay,Mundine,LONG,11
+468093,11/30/2013,FBS,Kansas,Kansas State,RECEIVING,Josh,Ford,REC,2
+468094,11/30/2013,FBS,Kansas,Kansas State,RECEIVING,Josh,Ford,YDS,23
+468095,11/30/2013,FBS,Kansas,Kansas State,RECEIVING,Josh,Ford,TD,0
+468096,11/30/2013,FBS,Kansas,Kansas State,RECEIVING,Josh,Ford,LONG,12
+468097,11/30/2013,FBS,Kansas,Kansas State,RECEIVING,Charles,Brooks,REC,2
+468098,11/30/2013,FBS,Kansas,Kansas State,RECEIVING,Charles,Brooks,YDS,7
+468099,11/30/2013,FBS,Kansas,Kansas State,RECEIVING,Charles,Brooks,TD,0
+468100,11/30/2013,FBS,Kansas,Kansas State,RECEIVING,Charles,Brooks,LONG,5
+468101,11/30/2013,FBS,Kansas,Kansas State,RECEIVING,Andrew,Turzilli,REC,1
+468102,11/30/2013,FBS,Kansas,Kansas State,RECEIVING,Andrew,Turzilli,YDS,11
+468103,11/30/2013,FBS,Kansas,Kansas State,RECEIVING,Andrew,Turzilli,TD,0
+468104,11/30/2013,FBS,Kansas,Kansas State,RECEIVING,Andrew,Turzilli,LONG,11
+468105,11/30/2013,FBS,Kansas,Kansas State,RECEIVING,James,Sims,REC,1
+468106,11/30/2013,FBS,Kansas,Kansas State,RECEIVING,James,Sims,YDS,4
+468107,11/30/2013,FBS,Kansas,Kansas State,RECEIVING,James,Sims,TD,0
+468108,11/30/2013,FBS,Kansas,Kansas State,RECEIVING,James,Sims,LONG,4
+468109,11/30/2013,FBS,Kansas,Kansas State,KICKING,Ron,Doherty,FG-FGA,1/1
+468110,11/30/2013,FBS,Kansas,Kansas State,KICKING,Ron,Doherty,LONG,31
+468111,11/30/2013,FBS,Kansas,Kansas State,KICKING,Ron,Doherty,XP,1
+468112,11/30/2013,FBS,Kansas,Kansas State,KICKING,Ron,Doherty,PTS,4
+468113,11/30/2013,FBS,Kansas,Kansas State,PUNTING,Trevor,Pardula,NO,5
+468114,11/30/2013,FBS,Kansas,Kansas State,PUNTING,Trevor,Pardula,YDS,190
+468115,11/30/2013,FBS,Kansas,Kansas State,PUNTING,Trevor,Pardula,AVG,38.0
+468116,11/30/2013,FBS,Kansas,Kansas State,PUNTING,Trevor,Pardula,LONG,59
+468117,11/30/2013,FBS,Kansas,Kansas State,PUNT RETURNS,Connor,Embree,NO,1
+468118,11/30/2013,FBS,Kansas,Kansas State,PUNT RETURNS,Connor,Embree,YDS,0
+468119,11/30/2013,FBS,Kansas,Kansas State,PUNT RETURNS,Connor,Embree,AVG,0.0
+468120,11/30/2013,FBS,Kansas,Kansas State,PUNT RETURNS,Connor,Embree,LONG,0
+468121,11/30/2013,FBS,Kansas,Kansas State,KICK RETURNS,JaCorey,Shepherd,NO,3
+468122,11/30/2013,FBS,Kansas,Kansas State,KICK RETURNS,JaCorey,Shepherd,YDS,60
+468123,11/30/2013,FBS,Kansas,Kansas State,KICK RETURNS,JaCorey,Shepherd,AVG,20.0
+468124,11/30/2013,FBS,Kansas,Kansas State,KICK RETURNS,JaCorey,Shepherd,LONG,25

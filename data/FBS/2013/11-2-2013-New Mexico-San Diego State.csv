@@ -1,0 +1,153 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+243001,11/2/2013,FBS,New Mexico,San Diego State,RUSHING,Kasey,Carrier,ATT,10
+243002,11/2/2013,FBS,New Mexico,San Diego State,RUSHING,Kasey,Carrier,YDS,72
+243003,11/2/2013,FBS,New Mexico,San Diego State,RUSHING,Kasey,Carrier,TD,0
+243004,11/2/2013,FBS,New Mexico,San Diego State,RUSHING,Kasey,Carrier,LONG,37
+243005,11/2/2013,FBS,New Mexico,San Diego State,RUSHING,Crusoe,Gongbay,ATT,10
+243006,11/2/2013,FBS,New Mexico,San Diego State,RUSHING,Crusoe,Gongbay,YDS,66
+243007,11/2/2013,FBS,New Mexico,San Diego State,RUSHING,Crusoe,Gongbay,TD,1
+243008,11/2/2013,FBS,New Mexico,San Diego State,RUSHING,Crusoe,Gongbay,LONG,18
+243009,11/2/2013,FBS,New Mexico,San Diego State,RUSHING,Cole,Gautsche,ATT,13
+243010,11/2/2013,FBS,New Mexico,San Diego State,RUSHING,Cole,Gautsche,YDS,54
+243011,11/2/2013,FBS,New Mexico,San Diego State,RUSHING,Cole,Gautsche,TD,0
+243012,11/2/2013,FBS,New Mexico,San Diego State,RUSHING,Cole,Gautsche,LONG,20
+243013,11/2/2013,FBS,New Mexico,San Diego State,RUSHING,Teriyon,Gipson,ATT,5
+243014,11/2/2013,FBS,New Mexico,San Diego State,RUSHING,Teriyon,Gipson,YDS,45
+243015,11/2/2013,FBS,New Mexico,San Diego State,RUSHING,Teriyon,Gipson,TD,2
+243016,11/2/2013,FBS,New Mexico,San Diego State,RUSHING,Teriyon,Gipson,LONG,20
+243017,11/2/2013,FBS,New Mexico,San Diego State,RUSHING,Carlos,Wiggins,ATT,2
+243018,11/2/2013,FBS,New Mexico,San Diego State,RUSHING,Carlos,Wiggins,YDS,19
+243019,11/2/2013,FBS,New Mexico,San Diego State,RUSHING,Carlos,Wiggins,TD,0
+243020,11/2/2013,FBS,New Mexico,San Diego State,RUSHING,Carlos,Wiggins,LONG,15
+243021,11/2/2013,FBS,New Mexico,San Diego State,RUSHING,Clayton,Mitchem,ATT,1
+243022,11/2/2013,FBS,New Mexico,San Diego State,RUSHING,Clayton,Mitchem,YDS,-3
+243023,11/2/2013,FBS,New Mexico,San Diego State,RUSHING,Clayton,Mitchem,TD,0
+243024,11/2/2013,FBS,New Mexico,San Diego State,RUSHING,Clayton,Mitchem,LONG,0
+243025,11/2/2013,FBS,New Mexico,San Diego State,PASSING,Cole,Gautsche,CP-ATT-INT,6-16-1
+243026,11/2/2013,FBS,New Mexico,San Diego State,PASSING,Cole,Gautsche,YDS,101
+243027,11/2/2013,FBS,New Mexico,San Diego State,PASSING,Cole,Gautsche,TD,0
+243028,11/2/2013,FBS,New Mexico,San Diego State,PASSING,Cole,Gautsche,LONG,40
+243029,11/2/2013,FBS,New Mexico,San Diego State,PASSING,Clayton,Mitchem,CP-ATT-INT,4-4-0
+243030,11/2/2013,FBS,New Mexico,San Diego State,PASSING,Clayton,Mitchem,YDS,69
+243031,11/2/2013,FBS,New Mexico,San Diego State,PASSING,Clayton,Mitchem,TD,1
+243032,11/2/2013,FBS,New Mexico,San Diego State,PASSING,Clayton,Mitchem,LONG,36
+243033,11/2/2013,FBS,New Mexico,San Diego State,RECEIVING,Carlos,Wiggins,REC,4
+243034,11/2/2013,FBS,New Mexico,San Diego State,RECEIVING,Carlos,Wiggins,YDS,24
+243035,11/2/2013,FBS,New Mexico,San Diego State,RECEIVING,Carlos,Wiggins,TD,0
+243036,11/2/2013,FBS,New Mexico,San Diego State,RECEIVING,Carlos,Wiggins,LONG,12
+243037,11/2/2013,FBS,New Mexico,San Diego State,RECEIVING,Jeric,Magnant,REC,2
+243038,11/2/2013,FBS,New Mexico,San Diego State,RECEIVING,Jeric,Magnant,YDS,57
+243039,11/2/2013,FBS,New Mexico,San Diego State,RECEIVING,Jeric,Magnant,TD,0
+243040,11/2/2013,FBS,New Mexico,San Diego State,RECEIVING,Jeric,Magnant,LONG,40
+243041,11/2/2013,FBS,New Mexico,San Diego State,RECEIVING,Andrew,Aho,REC,2
+243042,11/2/2013,FBS,New Mexico,San Diego State,RECEIVING,Andrew,Aho,YDS,46
+243043,11/2/2013,FBS,New Mexico,San Diego State,RECEIVING,Andrew,Aho,TD,0
+243044,11/2/2013,FBS,New Mexico,San Diego State,RECEIVING,Andrew,Aho,LONG,38
+243045,11/2/2013,FBS,New Mexico,San Diego State,RECEIVING,Tyler,Duncan,REC,1
+243046,11/2/2013,FBS,New Mexico,San Diego State,RECEIVING,Tyler,Duncan,YDS,36
+243047,11/2/2013,FBS,New Mexico,San Diego State,RECEIVING,Tyler,Duncan,TD,1
+243048,11/2/2013,FBS,New Mexico,San Diego State,RECEIVING,Tyler,Duncan,LONG,36
+243049,11/2/2013,FBS,New Mexico,San Diego State,RECEIVING,Marquis,Bundy,REC,1
+243050,11/2/2013,FBS,New Mexico,San Diego State,RECEIVING,Marquis,Bundy,YDS,7
+243051,11/2/2013,FBS,New Mexico,San Diego State,RECEIVING,Marquis,Bundy,TD,0
+243052,11/2/2013,FBS,New Mexico,San Diego State,RECEIVING,Marquis,Bundy,LONG,7
+243053,11/2/2013,FBS,New Mexico,San Diego State,KICKING,Justus,Adams,FG-FGA,1/1
+243054,11/2/2013,FBS,New Mexico,San Diego State,KICKING,Justus,Adams,LONG,20
+243055,11/2/2013,FBS,New Mexico,San Diego State,KICKING,Justus,Adams,XP,3
+243056,11/2/2013,FBS,New Mexico,San Diego State,KICKING,Justus,Adams,PTS,6
+243057,11/2/2013,FBS,New Mexico,San Diego State,PUNTING,Ben,Skaer,NO,3
+243058,11/2/2013,FBS,New Mexico,San Diego State,PUNTING,Ben,Skaer,YDS,122
+243059,11/2/2013,FBS,New Mexico,San Diego State,PUNTING,Ben,Skaer,AVG,40.7
+243060,11/2/2013,FBS,New Mexico,San Diego State,PUNTING,Ben,Skaer,LONG,44
+243061,11/2/2013,FBS,New Mexico,San Diego State,PUNT RETURNS,Dameon,Gamblin,NO,1
+243062,11/2/2013,FBS,New Mexico,San Diego State,PUNT RETURNS,Dameon,Gamblin,YDS,0
+243063,11/2/2013,FBS,New Mexico,San Diego State,PUNT RETURNS,Dameon,Gamblin,AVG,0.0
+243064,11/2/2013,FBS,New Mexico,San Diego State,PUNT RETURNS,Dameon,Gamblin,LONG,0
+243065,11/2/2013,FBS,New Mexico,San Diego State,KICK RETURNS,Carlos,Wiggins,NO,4
+243066,11/2/2013,FBS,New Mexico,San Diego State,KICK RETURNS,Carlos,Wiggins,YDS,107
+243067,11/2/2013,FBS,New Mexico,San Diego State,KICK RETURNS,Carlos,Wiggins,AVG,26.8
+243068,11/2/2013,FBS,New Mexico,San Diego State,KICK RETURNS,Carlos,Wiggins,LONG,41
+243069,11/2/2013,FBS,New Mexico,San Diego State,KICK RETURNS,David,Anaya,NO,1
+243070,11/2/2013,FBS,New Mexico,San Diego State,KICK RETURNS,David,Anaya,YDS,15
+243071,11/2/2013,FBS,New Mexico,San Diego State,KICK RETURNS,David,Anaya,AVG,15.0
+243072,11/2/2013,FBS,New Mexico,San Diego State,KICK RETURNS,David,Anaya,LONG,15
+243073,11/2/2013,FBS,San Diego State,New Mexico,RUSHING,Adam,Muema,ATT,27
+243074,11/2/2013,FBS,San Diego State,New Mexico,RUSHING,Adam,Muema,YDS,233
+243075,11/2/2013,FBS,San Diego State,New Mexico,RUSHING,Adam,Muema,TD,3
+243076,11/2/2013,FBS,San Diego State,New Mexico,RUSHING,Adam,Muema,LONG,57
+243077,11/2/2013,FBS,San Diego State,New Mexico,RUSHING,Donnel,Pumphrey,ATT,5
+243078,11/2/2013,FBS,San Diego State,New Mexico,RUSHING,Donnel,Pumphrey,YDS,14
+243079,11/2/2013,FBS,San Diego State,New Mexico,RUSHING,Donnel,Pumphrey,TD,0
+243080,11/2/2013,FBS,San Diego State,New Mexico,RUSHING,Donnel,Pumphrey,LONG,5
+243081,11/2/2013,FBS,San Diego State,New Mexico,RUSHING,Chad,Young,ATT,4
+243082,11/2/2013,FBS,San Diego State,New Mexico,RUSHING,Chad,Young,YDS,14
+243083,11/2/2013,FBS,San Diego State,New Mexico,RUSHING,Chad,Young,TD,0
+243084,11/2/2013,FBS,San Diego State,New Mexico,RUSHING,Chad,Young,LONG,5
+243085,11/2/2013,FBS,San Diego State,New Mexico,RUSHING,Eric,Judge,ATT,1
+243086,11/2/2013,FBS,San Diego State,New Mexico,RUSHING,Eric,Judge,YDS,6
+243087,11/2/2013,FBS,San Diego State,New Mexico,RUSHING,Eric,Judge,TD,0
+243088,11/2/2013,FBS,San Diego State,New Mexico,RUSHING,Eric,Judge,LONG,6
+243089,11/2/2013,FBS,San Diego State,New Mexico,RUSHING,,Team,ATT,1
+243090,11/2/2013,FBS,San Diego State,New Mexico,RUSHING,,Team,YDS,-1
+243091,11/2/2013,FBS,San Diego State,New Mexico,RUSHING,,Team,TD,0
+243092,11/2/2013,FBS,San Diego State,New Mexico,RUSHING,,Team,LONG,0
+243093,11/2/2013,FBS,San Diego State,New Mexico,RUSHING,Ezell,Ruffin,ATT,1
+243094,11/2/2013,FBS,San Diego State,New Mexico,RUSHING,Ezell,Ruffin,YDS,-1
+243095,11/2/2013,FBS,San Diego State,New Mexico,RUSHING,Ezell,Ruffin,TD,0
+243096,11/2/2013,FBS,San Diego State,New Mexico,RUSHING,Ezell,Ruffin,LONG,0
+243097,11/2/2013,FBS,San Diego State,New Mexico,RUSHING,Quinn,Kaehler,ATT,2
+243098,11/2/2013,FBS,San Diego State,New Mexico,RUSHING,Quinn,Kaehler,YDS,-16
+243099,11/2/2013,FBS,San Diego State,New Mexico,RUSHING,Quinn,Kaehler,TD,0
+243100,11/2/2013,FBS,San Diego State,New Mexico,RUSHING,Quinn,Kaehler,LONG,0
+243101,11/2/2013,FBS,San Diego State,New Mexico,PASSING,Quinn,Kaehler,CP-ATT-INT,16-21-0
+243102,11/2/2013,FBS,San Diego State,New Mexico,PASSING,Quinn,Kaehler,YDS,201
+243103,11/2/2013,FBS,San Diego State,New Mexico,PASSING,Quinn,Kaehler,TD,2
+243104,11/2/2013,FBS,San Diego State,New Mexico,PASSING,Quinn,Kaehler,LONG,75
+243105,11/2/2013,FBS,San Diego State,New Mexico,PASSING,Tim,Vizzi,CP-ATT-INT,1-1-0
+243106,11/2/2013,FBS,San Diego State,New Mexico,PASSING,Tim,Vizzi,YDS,33
+243107,11/2/2013,FBS,San Diego State,New Mexico,PASSING,Tim,Vizzi,TD,0
+243108,11/2/2013,FBS,San Diego State,New Mexico,PASSING,Tim,Vizzi,LONG,33
+243109,11/2/2013,FBS,San Diego State,New Mexico,RECEIVING,Ezell,Ruffin,REC,7
+243110,11/2/2013,FBS,San Diego State,New Mexico,RECEIVING,Ezell,Ruffin,YDS,165
+243111,11/2/2013,FBS,San Diego State,New Mexico,RECEIVING,Ezell,Ruffin,TD,2
+243112,11/2/2013,FBS,San Diego State,New Mexico,RECEIVING,Ezell,Ruffin,LONG,75
+243113,11/2/2013,FBS,San Diego State,New Mexico,RECEIVING,Colin,Lockett,REC,5
+243114,11/2/2013,FBS,San Diego State,New Mexico,RECEIVING,Colin,Lockett,YDS,33
+243115,11/2/2013,FBS,San Diego State,New Mexico,RECEIVING,Colin,Lockett,TD,0
+243116,11/2/2013,FBS,San Diego State,New Mexico,RECEIVING,Colin,Lockett,LONG,10
+243117,11/2/2013,FBS,San Diego State,New Mexico,RECEIVING,Dylan,Denso,REC,2
+243118,11/2/2013,FBS,San Diego State,New Mexico,RECEIVING,Dylan,Denso,YDS,21
+243119,11/2/2013,FBS,San Diego State,New Mexico,RECEIVING,Dylan,Denso,TD,0
+243120,11/2/2013,FBS,San Diego State,New Mexico,RECEIVING,Dylan,Denso,LONG,18
+243121,11/2/2013,FBS,San Diego State,New Mexico,RECEIVING,Donnel,Pumphrey,REC,1
+243122,11/2/2013,FBS,San Diego State,New Mexico,RECEIVING,Donnel,Pumphrey,YDS,9
+243123,11/2/2013,FBS,San Diego State,New Mexico,RECEIVING,Donnel,Pumphrey,TD,0
+243124,11/2/2013,FBS,San Diego State,New Mexico,RECEIVING,Donnel,Pumphrey,LONG,9
+243125,11/2/2013,FBS,San Diego State,New Mexico,RECEIVING,Eric,Judge,REC,1
+243126,11/2/2013,FBS,San Diego State,New Mexico,RECEIVING,Eric,Judge,YDS,3
+243127,11/2/2013,FBS,San Diego State,New Mexico,RECEIVING,Eric,Judge,TD,0
+243128,11/2/2013,FBS,San Diego State,New Mexico,RECEIVING,Eric,Judge,LONG,3
+243129,11/2/2013,FBS,San Diego State,New Mexico,RECEIVING,Tim,Vizzi,REC,1
+243130,11/2/2013,FBS,San Diego State,New Mexico,RECEIVING,Tim,Vizzi,YDS,3
+243131,11/2/2013,FBS,San Diego State,New Mexico,RECEIVING,Tim,Vizzi,TD,0
+243132,11/2/2013,FBS,San Diego State,New Mexico,RECEIVING,Tim,Vizzi,LONG,3
+243133,11/2/2013,FBS,San Diego State,New Mexico,KICKING,Seamus,McMorrow,FG-FGA,0/0
+243134,11/2/2013,FBS,San Diego State,New Mexico,KICKING,Seamus,McMorrow,LONG,-
+243135,11/2/2013,FBS,San Diego State,New Mexico,KICKING,Seamus,McMorrow,XP,5
+243136,11/2/2013,FBS,San Diego State,New Mexico,KICKING,Seamus,McMorrow,PTS,5
+243137,11/2/2013,FBS,San Diego State,New Mexico,PUNTING,Joel,Alesi,NO,2
+243138,11/2/2013,FBS,San Diego State,New Mexico,PUNTING,Joel,Alesi,YDS,73
+243139,11/2/2013,FBS,San Diego State,New Mexico,PUNTING,Joel,Alesi,AVG,36.5
+243140,11/2/2013,FBS,San Diego State,New Mexico,PUNTING,Joel,Alesi,LONG,39
+243141,11/2/2013,FBS,San Diego State,New Mexico,PUNT RETURNS,Tim,Vizzi,NO,1
+243142,11/2/2013,FBS,San Diego State,New Mexico,PUNT RETURNS,Tim,Vizzi,YDS,0
+243143,11/2/2013,FBS,San Diego State,New Mexico,PUNT RETURNS,Tim,Vizzi,AVG,0.0
+243144,11/2/2013,FBS,San Diego State,New Mexico,PUNT RETURNS,Tim,Vizzi,LONG,0
+243145,11/2/2013,FBS,San Diego State,New Mexico,KICK RETURNS,Colin,Lockett,NO,3
+243146,11/2/2013,FBS,San Diego State,New Mexico,KICK RETURNS,Colin,Lockett,YDS,77
+243147,11/2/2013,FBS,San Diego State,New Mexico,KICK RETURNS,Colin,Lockett,AVG,25.7
+243148,11/2/2013,FBS,San Diego State,New Mexico,KICK RETURNS,Colin,Lockett,LONG,29
+243149,11/2/2013,FBS,San Diego State,New Mexico,KICK RETURNS,Tim,Vizzi,NO,1
+243150,11/2/2013,FBS,San Diego State,New Mexico,KICK RETURNS,Tim,Vizzi,YDS,8
+243151,11/2/2013,FBS,San Diego State,New Mexico,KICK RETURNS,Tim,Vizzi,AVG,8.0
+243152,11/2/2013,FBS,San Diego State,New Mexico,KICK RETURNS,Tim,Vizzi,LONG,8

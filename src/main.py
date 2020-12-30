@@ -28,8 +28,6 @@ class main:
                     for link in cur:
                         scrapeBox(link, driver, div, ID)
                         ID += 1000
-                    m.toHome()
-                    m.selectDivision(div)
                     #gameLinks.append(cur)
 
 

@@ -1,6 +1,6 @@
-from chromeSync import driver
 import time
 import csv
+from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException 
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
@@ -33,22 +33,22 @@ def parseDate(date):
 
 class scrapeBox:
     def __init__(self, url, driver, div, ID):
-        self.driver = driver
+        self.driver = webdriver.Chrome(driver)
         self.url = url
         self.div = div
         self.moveToBox()
         
         #if not self.check404():
-        self.getTeams()
-        self.getDetails()
-
-        self.fields = ['ID','date','division','team','opponent','statCategory','firstName','lastName','statistic','value']
-        self.data = []
-        self.ID = ID+1
-        self.parseBox(0)
-        self.switchTeam()
-        self.parseBox(1)
-        self.write()
+        if self.getTeams():
+            self.fields = ['ID','date','division','team','opponent','statCategory','firstName','lastName','statistic','value']
+            self.data = []
+            self.ID = ID+1
+            self.getDetails()
+            self.parseBox(0)
+            self.switchTeam()
+            self.parseBox(1)
+            self.write()
+            self.driver.close()
         
     def check404(self):
         errors = self.driver.find_elements_by_class_name("error-page error-404")
@@ -72,7 +72,7 @@ class scrapeBox:
         time.sleep(.5)
         myXpath = "//div[@class='boxscore-team-selector-team homeTeam-bg-primary_color awayTeam-border-primary_color home']"
         homeTeam = self.driver.find_element_by_xpath(myXpath)
-        driver.execute_script("arguments[0].click();", homeTeam)
+        self.driver.execute_script("arguments[0].click();", homeTeam)
     
     
     def parseBox(self, team):
@@ -116,16 +116,19 @@ class scrapeBox:
         try:
             self.teams = []
             myXpath = "//div[@class='boxscore-team-selector-team awayTeam-bg-primary_color homeTeam-border-primary_color away active']"
-            away = WebDriverWait(driver, 4).until(EC.presence_of_element_located((By.XPATH, myXpath)))
+            away = WebDriverWait(self.driver, 4).until(EC.presence_of_element_located((By.XPATH, myXpath)))
             self.teams.append(away.text)
             myXpath = "//div[@class='boxscore-team-selector-team homeTeam-bg-primary_color awayTeam-border-primary_color home']"
             home = self.driver.find_element_by_xpath(myXpath)
             self.teams.append(home.text)
+            return True
         except TimeoutException:
+            print(self.url)
             pathName = "../data/errorLinks.txt"
             file = open(pathName, "a+")
             file.write(self.url + "\r\n")
             file.close()
+            return False
 
     def getDetails(self):
         myXpath = "//span[@class='venue']"
@@ -143,7 +146,8 @@ class scrapeBox:
 
 #url = 'https://www.ncaa.com/game/3959666/boxscore'
 # url = 'https://www.ncaa.com/game/football/d3/2013/09/07/alma-heidelberg/'
+# url = "https://www.ncaa.com/game/football/fbs/2013/08/29/southern-utah-south-alabama/boxscore"
 
-# scrapeBox(url, driver, 'DIII', 0)
+# scrapeBox(url, driver, 'FBS', 0)
 
         

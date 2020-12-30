@@ -1,0 +1,133 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+210001,9/14/2013,FBS,Western Illinois,Minnesota,RUSHING,J.C.,Baker,ATT,7
+210002,9/14/2013,FBS,Western Illinois,Minnesota,RUSHING,J.C.,Baker,YDS,50
+210003,9/14/2013,FBS,Western Illinois,Minnesota,RUSHING,J.C.,Baker,TD,0
+210004,9/14/2013,FBS,Western Illinois,Minnesota,RUSHING,J.C.,Baker,LONG,29
+210005,9/14/2013,FBS,Western Illinois,Minnesota,RUSHING,Nikko,Watson,ATT,13
+210006,9/14/2013,FBS,Western Illinois,Minnesota,RUSHING,Nikko,Watson,YDS,26
+210007,9/14/2013,FBS,Western Illinois,Minnesota,RUSHING,Nikko,Watson,TD,0
+210008,9/14/2013,FBS,Western Illinois,Minnesota,RUSHING,Nikko,Watson,LONG,9
+210009,9/14/2013,FBS,Western Illinois,Minnesota,RUSHING,Trenton,Norvell,ATT,10
+210010,9/14/2013,FBS,Western Illinois,Minnesota,RUSHING,Trenton,Norvell,YDS,-8
+210011,9/14/2013,FBS,Western Illinois,Minnesota,RUSHING,Trenton,Norvell,TD,0
+210012,9/14/2013,FBS,Western Illinois,Minnesota,RUSHING,Trenton,Norvell,LONG,4
+210013,9/14/2013,FBS,Western Illinois,Minnesota,PASSING,Trenton,Norvell,CP-ATT-INT,11-23-0
+210014,9/14/2013,FBS,Western Illinois,Minnesota,PASSING,Trenton,Norvell,YDS,162
+210015,9/14/2013,FBS,Western Illinois,Minnesota,PASSING,Trenton,Norvell,TD,2
+210016,9/14/2013,FBS,Western Illinois,Minnesota,PASSING,Trenton,Norvell,LONG,65
+210017,9/14/2013,FBS,Western Illinois,Minnesota,RECEIVING,Lance,Lenoir,REC,5
+210018,9/14/2013,FBS,Western Illinois,Minnesota,RECEIVING,Lance,Lenoir,YDS,54
+210019,9/14/2013,FBS,Western Illinois,Minnesota,RECEIVING,Lance,Lenoir,TD,1
+210020,9/14/2013,FBS,Western Illinois,Minnesota,RECEIVING,Lance,Lenoir,LONG,23
+210021,9/14/2013,FBS,Western Illinois,Minnesota,RECEIVING,Hi-C,Scott,REC,2
+210022,9/14/2013,FBS,Western Illinois,Minnesota,RECEIVING,Hi-C,Scott,YDS,22
+210023,9/14/2013,FBS,Western Illinois,Minnesota,RECEIVING,Hi-C,Scott,TD,0
+210024,9/14/2013,FBS,Western Illinois,Minnesota,RECEIVING,Hi-C,Scott,LONG,12
+210025,9/14/2013,FBS,Western Illinois,Minnesota,RECEIVING,Fredson,Salomon,REC,2
+210026,9/14/2013,FBS,Western Illinois,Minnesota,RECEIVING,Fredson,Salomon,YDS,20
+210027,9/14/2013,FBS,Western Illinois,Minnesota,RECEIVING,Fredson,Salomon,TD,0
+210028,9/14/2013,FBS,Western Illinois,Minnesota,RECEIVING,Fredson,Salomon,LONG,10
+210029,9/14/2013,FBS,Western Illinois,Minnesota,RECEIVING,Kyle,Hammonds,REC,1
+210030,9/14/2013,FBS,Western Illinois,Minnesota,RECEIVING,Kyle,Hammonds,YDS,65
+210031,9/14/2013,FBS,Western Illinois,Minnesota,RECEIVING,Kyle,Hammonds,TD,0
+210032,9/14/2013,FBS,Western Illinois,Minnesota,RECEIVING,Kyle,Hammonds,LONG,65
+210033,9/14/2013,FBS,Western Illinois,Minnesota,RECEIVING,Mason,Howington,REC,1
+210034,9/14/2013,FBS,Western Illinois,Minnesota,RECEIVING,Mason,Howington,YDS,1
+210035,9/14/2013,FBS,Western Illinois,Minnesota,RECEIVING,Mason,Howington,TD,1
+210036,9/14/2013,FBS,Western Illinois,Minnesota,RECEIVING,Mason,Howington,LONG,1
+210037,9/14/2013,FBS,Western Illinois,Minnesota,KICKING,Nathan,Knuffman,FG-FGA,0/0
+210038,9/14/2013,FBS,Western Illinois,Minnesota,KICKING,Nathan,Knuffman,LONG,-
+210039,9/14/2013,FBS,Western Illinois,Minnesota,KICKING,Nathan,Knuffman,XP,0
+210040,9/14/2013,FBS,Western Illinois,Minnesota,KICKING,Nathan,Knuffman,PTS,0
+210041,9/14/2013,FBS,Western Illinois,Minnesota,PUNTING,Nathan,Knuffman,NO,9
+210042,9/14/2013,FBS,Western Illinois,Minnesota,PUNTING,Nathan,Knuffman,YDS,368
+210043,9/14/2013,FBS,Western Illinois,Minnesota,PUNTING,Nathan,Knuffman,AVG,40.9
+210044,9/14/2013,FBS,Western Illinois,Minnesota,PUNTING,Nathan,Knuffman,LONG,65
+210045,9/14/2013,FBS,Western Illinois,Minnesota,PUNT RETURNS,Antoine,Ford,NO,3
+210046,9/14/2013,FBS,Western Illinois,Minnesota,PUNT RETURNS,Antoine,Ford,YDS,42
+210047,9/14/2013,FBS,Western Illinois,Minnesota,PUNT RETURNS,Antoine,Ford,AVG,14.0
+210048,9/14/2013,FBS,Western Illinois,Minnesota,PUNT RETURNS,Antoine,Ford,LONG,33
+210049,9/14/2013,FBS,Western Illinois,Minnesota,KICK RETURNS,Antoine,Ford,NO,2
+210050,9/14/2013,FBS,Western Illinois,Minnesota,KICK RETURNS,Antoine,Ford,YDS,24
+210051,9/14/2013,FBS,Western Illinois,Minnesota,KICK RETURNS,Antoine,Ford,AVG,12.0
+210052,9/14/2013,FBS,Western Illinois,Minnesota,KICK RETURNS,Antoine,Ford,LONG,22
+210053,9/14/2013,FBS,Western Illinois,Minnesota,KICK RETURNS,Fredson,Salomon,NO,1
+210054,9/14/2013,FBS,Western Illinois,Minnesota,KICK RETURNS,Fredson,Salomon,YDS,16
+210055,9/14/2013,FBS,Western Illinois,Minnesota,KICK RETURNS,Fredson,Salomon,AVG,16.0
+210056,9/14/2013,FBS,Western Illinois,Minnesota,KICK RETURNS,Fredson,Salomon,LONG,16
+210057,9/14/2013,FBS,Minnesota,Western Illinois,RUSHING,David,Cobb,ATT,13
+210058,9/14/2013,FBS,Minnesota,Western Illinois,RUSHING,David,Cobb,YDS,82
+210059,9/14/2013,FBS,Minnesota,Western Illinois,RUSHING,David,Cobb,TD,2
+210060,9/14/2013,FBS,Minnesota,Western Illinois,RUSHING,David,Cobb,LONG,30
+210061,9/14/2013,FBS,Minnesota,Western Illinois,RUSHING,Mitch,Leidner,ATT,17
+210062,9/14/2013,FBS,Minnesota,Western Illinois,RUSHING,Mitch,Leidner,YDS,64
+210063,9/14/2013,FBS,Minnesota,Western Illinois,RUSHING,Mitch,Leidner,TD,0
+210064,9/14/2013,FBS,Minnesota,Western Illinois,RUSHING,Mitch,Leidner,LONG,9
+210065,9/14/2013,FBS,Minnesota,Western Illinois,RUSHING,Rodrick,Williams,ATT,10
+210066,9/14/2013,FBS,Minnesota,Western Illinois,RUSHING,Rodrick,Williams,YDS,56
+210067,9/14/2013,FBS,Minnesota,Western Illinois,RUSHING,Rodrick,Williams,TD,2
+210068,9/14/2013,FBS,Minnesota,Western Illinois,RUSHING,Rodrick,Williams,LONG,37
+210069,9/14/2013,FBS,Minnesota,Western Illinois,RUSHING,Philip,Nelson,ATT,6
+210070,9/14/2013,FBS,Minnesota,Western Illinois,RUSHING,Philip,Nelson,YDS,16
+210071,9/14/2013,FBS,Minnesota,Western Illinois,RUSHING,Philip,Nelson,TD,0
+210072,9/14/2013,FBS,Minnesota,Western Illinois,RUSHING,Philip,Nelson,LONG,12
+210073,9/14/2013,FBS,Minnesota,Western Illinois,RUSHING,,Team,ATT,3
+210074,9/14/2013,FBS,Minnesota,Western Illinois,RUSHING,,Team,YDS,-5
+210075,9/14/2013,FBS,Minnesota,Western Illinois,RUSHING,,Team,TD,0
+210076,9/14/2013,FBS,Minnesota,Western Illinois,RUSHING,,Team,LONG,0
+210077,9/14/2013,FBS,Minnesota,Western Illinois,PASSING,Mitch,Leidner,CP-ATT-INT,7-8-0
+210078,9/14/2013,FBS,Minnesota,Western Illinois,PASSING,Mitch,Leidner,YDS,105
+210079,9/14/2013,FBS,Minnesota,Western Illinois,PASSING,Mitch,Leidner,TD,0
+210080,9/14/2013,FBS,Minnesota,Western Illinois,PASSING,Mitch,Leidner,LONG,33
+210081,9/14/2013,FBS,Minnesota,Western Illinois,PASSING,Philip,Nelson,CP-ATT-INT,3-4-0
+210082,9/14/2013,FBS,Minnesota,Western Illinois,PASSING,Philip,Nelson,YDS,19
+210083,9/14/2013,FBS,Minnesota,Western Illinois,PASSING,Philip,Nelson,TD,0
+210084,9/14/2013,FBS,Minnesota,Western Illinois,PASSING,Philip,Nelson,LONG,10
+210085,9/14/2013,FBS,Minnesota,Western Illinois,RECEIVING,Derrick,Engel,REC,3
+210086,9/14/2013,FBS,Minnesota,Western Illinois,RECEIVING,Derrick,Engel,YDS,32
+210087,9/14/2013,FBS,Minnesota,Western Illinois,RECEIVING,Derrick,Engel,TD,0
+210088,9/14/2013,FBS,Minnesota,Western Illinois,RECEIVING,Derrick,Engel,LONG,17
+210089,9/14/2013,FBS,Minnesota,Western Illinois,RECEIVING,Maxx,Williams,REC,2
+210090,9/14/2013,FBS,Minnesota,Western Illinois,RECEIVING,Maxx,Williams,YDS,52
+210091,9/14/2013,FBS,Minnesota,Western Illinois,RECEIVING,Maxx,Williams,TD,0
+210092,9/14/2013,FBS,Minnesota,Western Illinois,RECEIVING,Maxx,Williams,LONG,33
+210093,9/14/2013,FBS,Minnesota,Western Illinois,RECEIVING,Mike,Henry,REC,1
+210094,9/14/2013,FBS,Minnesota,Western Illinois,RECEIVING,Mike,Henry,YDS,15
+210095,9/14/2013,FBS,Minnesota,Western Illinois,RECEIVING,Mike,Henry,TD,0
+210096,9/14/2013,FBS,Minnesota,Western Illinois,RECEIVING,Mike,Henry,LONG,15
+210097,9/14/2013,FBS,Minnesota,Western Illinois,RECEIVING,Rodrick,Williams,REC,1
+210098,9/14/2013,FBS,Minnesota,Western Illinois,RECEIVING,Rodrick,Williams,YDS,11
+210099,9/14/2013,FBS,Minnesota,Western Illinois,RECEIVING,Rodrick,Williams,TD,0
+210100,9/14/2013,FBS,Minnesota,Western Illinois,RECEIVING,Rodrick,Williams,LONG,11
+210101,9/14/2013,FBS,Minnesota,Western Illinois,RECEIVING,David,Cobb,REC,1
+210102,9/14/2013,FBS,Minnesota,Western Illinois,RECEIVING,David,Cobb,YDS,10
+210103,9/14/2013,FBS,Minnesota,Western Illinois,RECEIVING,David,Cobb,TD,0
+210104,9/14/2013,FBS,Minnesota,Western Illinois,RECEIVING,David,Cobb,LONG,10
+210105,9/14/2013,FBS,Minnesota,Western Illinois,RECEIVING,Drew,Goodger,REC,1
+210106,9/14/2013,FBS,Minnesota,Western Illinois,RECEIVING,Drew,Goodger,YDS,3
+210107,9/14/2013,FBS,Minnesota,Western Illinois,RECEIVING,Drew,Goodger,TD,0
+210108,9/14/2013,FBS,Minnesota,Western Illinois,RECEIVING,Drew,Goodger,LONG,3
+210109,9/14/2013,FBS,Minnesota,Western Illinois,RECEIVING,KJ,Maye,REC,1
+210110,9/14/2013,FBS,Minnesota,Western Illinois,RECEIVING,KJ,Maye,YDS,1
+210111,9/14/2013,FBS,Minnesota,Western Illinois,RECEIVING,KJ,Maye,TD,0
+210112,9/14/2013,FBS,Minnesota,Western Illinois,RECEIVING,KJ,Maye,LONG,1
+210113,9/14/2013,FBS,Minnesota,Western Illinois,KICKING,Chris,Hawthorne,FG-FGA,0/0
+210114,9/14/2013,FBS,Minnesota,Western Illinois,KICKING,Chris,Hawthorne,LONG,-
+210115,9/14/2013,FBS,Minnesota,Western Illinois,KICKING,Chris,Hawthorne,XP,3
+210116,9/14/2013,FBS,Minnesota,Western Illinois,KICKING,Chris,Hawthorne,PTS,3
+210117,9/14/2013,FBS,Minnesota,Western Illinois,PUNTING,Peter,Mortell,NO,5
+210118,9/14/2013,FBS,Minnesota,Western Illinois,PUNTING,Peter,Mortell,YDS,227
+210119,9/14/2013,FBS,Minnesota,Western Illinois,PUNTING,Peter,Mortell,AVG,45.4
+210120,9/14/2013,FBS,Minnesota,Western Illinois,PUNTING,Peter,Mortell,LONG,51
+210121,9/14/2013,FBS,Minnesota,Western Illinois,PUNT RETURNS,Marcus,Jones,NO,2
+210122,9/14/2013,FBS,Minnesota,Western Illinois,PUNT RETURNS,Marcus,Jones,YDS,-3
+210123,9/14/2013,FBS,Minnesota,Western Illinois,PUNT RETURNS,Marcus,Jones,AVG,-1.5
+210124,9/14/2013,FBS,Minnesota,Western Illinois,PUNT RETURNS,Marcus,Jones,LONG,0
+210125,9/14/2013,FBS,Minnesota,Western Illinois,PUNT RETURNS,KJ,Maye,NO,1
+210126,9/14/2013,FBS,Minnesota,Western Illinois,PUNT RETURNS,KJ,Maye,YDS,26
+210127,9/14/2013,FBS,Minnesota,Western Illinois,PUNT RETURNS,KJ,Maye,AVG,26.0
+210128,9/14/2013,FBS,Minnesota,Western Illinois,PUNT RETURNS,KJ,Maye,LONG,26
+210129,9/14/2013,FBS,Minnesota,Western Illinois,KICK RETURNS,Marcus,Jones,NO,3
+210130,9/14/2013,FBS,Minnesota,Western Illinois,KICK RETURNS,Marcus,Jones,YDS,70
+210131,9/14/2013,FBS,Minnesota,Western Illinois,KICK RETURNS,Marcus,Jones,AVG,23.3
+210132,9/14/2013,FBS,Minnesota,Western Illinois,KICK RETURNS,Marcus,Jones,LONG,25

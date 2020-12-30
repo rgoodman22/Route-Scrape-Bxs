@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+330001,10/4/2013,FBS,Nevada,San Diego State,RUSHING,Kendall,Brock,ATT,25
+330002,10/4/2013,FBS,Nevada,San Diego State,RUSHING,Kendall,Brock,YDS,112
+330003,10/4/2013,FBS,Nevada,San Diego State,RUSHING,Kendall,Brock,TD,3
+330004,10/4/2013,FBS,Nevada,San Diego State,RUSHING,Kendall,Brock,LONG,15
+330005,10/4/2013,FBS,Nevada,San Diego State,RUSHING,Cody,Fajardo,ATT,17
+330006,10/4/2013,FBS,Nevada,San Diego State,RUSHING,Cody,Fajardo,YDS,49
+330007,10/4/2013,FBS,Nevada,San Diego State,RUSHING,Cody,Fajardo,TD,0
+330008,10/4/2013,FBS,Nevada,San Diego State,RUSHING,Cody,Fajardo,LONG,11
+330009,10/4/2013,FBS,Nevada,San Diego State,RUSHING,Don,Jackson,ATT,14
+330010,10/4/2013,FBS,Nevada,San Diego State,RUSHING,Don,Jackson,YDS,37
+330011,10/4/2013,FBS,Nevada,San Diego State,RUSHING,Don,Jackson,TD,1
+330012,10/4/2013,FBS,Nevada,San Diego State,RUSHING,Don,Jackson,LONG,10
+330013,10/4/2013,FBS,Nevada,San Diego State,RUSHING,,Team,ATT,2
+330014,10/4/2013,FBS,Nevada,San Diego State,RUSHING,,Team,YDS,-21
+330015,10/4/2013,FBS,Nevada,San Diego State,RUSHING,,Team,TD,0
+330016,10/4/2013,FBS,Nevada,San Diego State,RUSHING,,Team,LONG,0
+330017,10/4/2013,FBS,Nevada,San Diego State,PASSING,Cody,Fajardo,CP-ATT-INT,33-51-0
+330018,10/4/2013,FBS,Nevada,San Diego State,PASSING,Cody,Fajardo,YDS,393
+330019,10/4/2013,FBS,Nevada,San Diego State,PASSING,Cody,Fajardo,TD,2
+330020,10/4/2013,FBS,Nevada,San Diego State,PASSING,Cody,Fajardo,LONG,38
+330021,10/4/2013,FBS,Nevada,San Diego State,RECEIVING,Brandon,Wimberly,REC,12
+330022,10/4/2013,FBS,Nevada,San Diego State,RECEIVING,Brandon,Wimberly,YDS,127
+330023,10/4/2013,FBS,Nevada,San Diego State,RECEIVING,Brandon,Wimberly,TD,1
+330024,10/4/2013,FBS,Nevada,San Diego State,RECEIVING,Brandon,Wimberly,LONG,38
+330025,10/4/2013,FBS,Nevada,San Diego State,RECEIVING,Richy,Turner,REC,9
+330026,10/4/2013,FBS,Nevada,San Diego State,RECEIVING,Richy,Turner,YDS,111
+330027,10/4/2013,FBS,Nevada,San Diego State,RECEIVING,Richy,Turner,TD,1
+330028,10/4/2013,FBS,Nevada,San Diego State,RECEIVING,Richy,Turner,LONG,30
+330029,10/4/2013,FBS,Nevada,San Diego State,RECEIVING,Aaron,Bradley,REC,6
+330030,10/4/2013,FBS,Nevada,San Diego State,RECEIVING,Aaron,Bradley,YDS,82
+330031,10/4/2013,FBS,Nevada,San Diego State,RECEIVING,Aaron,Bradley,TD,0
+330032,10/4/2013,FBS,Nevada,San Diego State,RECEIVING,Aaron,Bradley,LONG,34
+330033,10/4/2013,FBS,Nevada,San Diego State,RECEIVING,Jarred,Gipson,REC,4
+330034,10/4/2013,FBS,Nevada,San Diego State,RECEIVING,Jarred,Gipson,YDS,34
+330035,10/4/2013,FBS,Nevada,San Diego State,RECEIVING,Jarred,Gipson,TD,0
+330036,10/4/2013,FBS,Nevada,San Diego State,RECEIVING,Jarred,Gipson,LONG,14
+330037,10/4/2013,FBS,Nevada,San Diego State,RECEIVING,Don,Jackson,REC,1
+330038,10/4/2013,FBS,Nevada,San Diego State,RECEIVING,Don,Jackson,YDS,33
+330039,10/4/2013,FBS,Nevada,San Diego State,RECEIVING,Don,Jackson,TD,0
+330040,10/4/2013,FBS,Nevada,San Diego State,RECEIVING,Don,Jackson,LONG,33
+330041,10/4/2013,FBS,Nevada,San Diego State,RECEIVING,Kolby,Arendse,REC,1
+330042,10/4/2013,FBS,Nevada,San Diego State,RECEIVING,Kolby,Arendse,YDS,6
+330043,10/4/2013,FBS,Nevada,San Diego State,RECEIVING,Kolby,Arendse,TD,0
+330044,10/4/2013,FBS,Nevada,San Diego State,RECEIVING,Kolby,Arendse,LONG,6
+330045,10/4/2013,FBS,Nevada,San Diego State,KICKING,Brent,Zuzo,FG-FGA,1/1
+330046,10/4/2013,FBS,Nevada,San Diego State,KICKING,Brent,Zuzo,LONG,44
+330047,10/4/2013,FBS,Nevada,San Diego State,KICKING,Brent,Zuzo,XP,5
+330048,10/4/2013,FBS,Nevada,San Diego State,KICKING,Brent,Zuzo,PTS,8
+330049,10/4/2013,FBS,Nevada,San Diego State,PUNTING,Chase,Tenpenny,NO,2
+330050,10/4/2013,FBS,Nevada,San Diego State,PUNTING,Chase,Tenpenny,YDS,110
+330051,10/4/2013,FBS,Nevada,San Diego State,PUNTING,Chase,Tenpenny,AVG,55.0
+330052,10/4/2013,FBS,Nevada,San Diego State,PUNTING,Chase,Tenpenny,LONG,60
+330053,10/4/2013,FBS,Nevada,San Diego State,PUNT RETURNS,Joseph,Huber,NO,2
+330054,10/4/2013,FBS,Nevada,San Diego State,PUNT RETURNS,Joseph,Huber,YDS,15
+330055,10/4/2013,FBS,Nevada,San Diego State,PUNT RETURNS,Joseph,Huber,AVG,7.5
+330056,10/4/2013,FBS,Nevada,San Diego State,PUNT RETURNS,Joseph,Huber,LONG,9
+330057,10/4/2013,FBS,Nevada,San Diego State,KICK RETURNS,Nigel,Westbrooks,NO,3
+330058,10/4/2013,FBS,Nevada,San Diego State,KICK RETURNS,Nigel,Westbrooks,YDS,45
+330059,10/4/2013,FBS,Nevada,San Diego State,KICK RETURNS,Nigel,Westbrooks,AVG,15.0
+330060,10/4/2013,FBS,Nevada,San Diego State,KICK RETURNS,Nigel,Westbrooks,LONG,23
+330061,10/4/2013,FBS,San Diego State,Nevada,RUSHING,Adam,Muema,ATT,24
+330062,10/4/2013,FBS,San Diego State,Nevada,RUSHING,Adam,Muema,YDS,134
+330063,10/4/2013,FBS,San Diego State,Nevada,RUSHING,Adam,Muema,TD,2
+330064,10/4/2013,FBS,San Diego State,Nevada,RUSHING,Adam,Muema,LONG,50
+330065,10/4/2013,FBS,San Diego State,Nevada,RUSHING,Donnel,Pumphrey,ATT,11
+330066,10/4/2013,FBS,San Diego State,Nevada,RUSHING,Donnel,Pumphrey,YDS,112
+330067,10/4/2013,FBS,San Diego State,Nevada,RUSHING,Donnel,Pumphrey,TD,1
+330068,10/4/2013,FBS,San Diego State,Nevada,RUSHING,Donnel,Pumphrey,LONG,72
+330069,10/4/2013,FBS,San Diego State,Nevada,RUSHING,Chad,Young,ATT,1
+330070,10/4/2013,FBS,San Diego State,Nevada,RUSHING,Chad,Young,YDS,6
+330071,10/4/2013,FBS,San Diego State,Nevada,RUSHING,Chad,Young,TD,0
+330072,10/4/2013,FBS,San Diego State,Nevada,RUSHING,Chad,Young,LONG,6
+330073,10/4/2013,FBS,San Diego State,Nevada,RUSHING,Tim,Vizzi,ATT,1
+330074,10/4/2013,FBS,San Diego State,Nevada,RUSHING,Tim,Vizzi,YDS,5
+330075,10/4/2013,FBS,San Diego State,Nevada,RUSHING,Tim,Vizzi,TD,1
+330076,10/4/2013,FBS,San Diego State,Nevada,RUSHING,Tim,Vizzi,LONG,5
+330077,10/4/2013,FBS,San Diego State,Nevada,RUSHING,Ezell,Ruffin,ATT,1
+330078,10/4/2013,FBS,San Diego State,Nevada,RUSHING,Ezell,Ruffin,YDS,5
+330079,10/4/2013,FBS,San Diego State,Nevada,RUSHING,Ezell,Ruffin,TD,0
+330080,10/4/2013,FBS,San Diego State,Nevada,RUSHING,Ezell,Ruffin,LONG,5
+330081,10/4/2013,FBS,San Diego State,Nevada,RUSHING,Quinn,Kaehler,ATT,1
+330082,10/4/2013,FBS,San Diego State,Nevada,RUSHING,Quinn,Kaehler,YDS,-7
+330083,10/4/2013,FBS,San Diego State,Nevada,RUSHING,Quinn,Kaehler,TD,0
+330084,10/4/2013,FBS,San Diego State,Nevada,RUSHING,Quinn,Kaehler,LONG,0
+330085,10/4/2013,FBS,San Diego State,Nevada,PASSING,Quinn,Kaehler,CP-ATT-INT,23-32-0
+330086,10/4/2013,FBS,San Diego State,Nevada,PASSING,Quinn,Kaehler,YDS,286
+330087,10/4/2013,FBS,San Diego State,Nevada,PASSING,Quinn,Kaehler,TD,3
+330088,10/4/2013,FBS,San Diego State,Nevada,PASSING,Quinn,Kaehler,LONG,36
+330089,10/4/2013,FBS,San Diego State,Nevada,RECEIVING,Eric,Judge,REC,6
+330090,10/4/2013,FBS,San Diego State,Nevada,RECEIVING,Eric,Judge,YDS,54
+330091,10/4/2013,FBS,San Diego State,Nevada,RECEIVING,Eric,Judge,TD,2
+330092,10/4/2013,FBS,San Diego State,Nevada,RECEIVING,Eric,Judge,LONG,18
+330093,10/4/2013,FBS,San Diego State,Nevada,RECEIVING,Adam,Roberts,REC,4
+330094,10/4/2013,FBS,San Diego State,Nevada,RECEIVING,Adam,Roberts,YDS,80
+330095,10/4/2013,FBS,San Diego State,Nevada,RECEIVING,Adam,Roberts,TD,0
+330096,10/4/2013,FBS,San Diego State,Nevada,RECEIVING,Adam,Roberts,LONG,36
+330097,10/4/2013,FBS,San Diego State,Nevada,RECEIVING,Ezell,Ruffin,REC,4
+330098,10/4/2013,FBS,San Diego State,Nevada,RECEIVING,Ezell,Ruffin,YDS,70
+330099,10/4/2013,FBS,San Diego State,Nevada,RECEIVING,Ezell,Ruffin,TD,0
+330100,10/4/2013,FBS,San Diego State,Nevada,RECEIVING,Ezell,Ruffin,LONG,36
+330101,10/4/2013,FBS,San Diego State,Nevada,RECEIVING,Chad,Young,REC,4
+330102,10/4/2013,FBS,San Diego State,Nevada,RECEIVING,Chad,Young,YDS,21
+330103,10/4/2013,FBS,San Diego State,Nevada,RECEIVING,Chad,Young,TD,0
+330104,10/4/2013,FBS,San Diego State,Nevada,RECEIVING,Chad,Young,LONG,8
+330105,10/4/2013,FBS,San Diego State,Nevada,RECEIVING,Adam,Muema,REC,3
+330106,10/4/2013,FBS,San Diego State,Nevada,RECEIVING,Adam,Muema,YDS,22
+330107,10/4/2013,FBS,San Diego State,Nevada,RECEIVING,Adam,Muema,TD,0
+330108,10/4/2013,FBS,San Diego State,Nevada,RECEIVING,Adam,Muema,LONG,9
+330109,10/4/2013,FBS,San Diego State,Nevada,RECEIVING,Dylan,Denso,REC,1
+330110,10/4/2013,FBS,San Diego State,Nevada,RECEIVING,Dylan,Denso,YDS,25
+330111,10/4/2013,FBS,San Diego State,Nevada,RECEIVING,Dylan,Denso,TD,1
+330112,10/4/2013,FBS,San Diego State,Nevada,RECEIVING,Dylan,Denso,LONG,25
+330113,10/4/2013,FBS,San Diego State,Nevada,RECEIVING,Tim,Vizzi,REC,1
+330114,10/4/2013,FBS,San Diego State,Nevada,RECEIVING,Tim,Vizzi,YDS,14
+330115,10/4/2013,FBS,San Diego State,Nevada,RECEIVING,Tim,Vizzi,TD,0
+330116,10/4/2013,FBS,San Diego State,Nevada,RECEIVING,Tim,Vizzi,LONG,14
+330117,10/4/2013,FBS,San Diego State,Nevada,KICKING,Wes,Feer,FG-FGA,0/1
+330118,10/4/2013,FBS,San Diego State,Nevada,KICKING,Wes,Feer,LONG,-
+330119,10/4/2013,FBS,San Diego State,Nevada,KICKING,Wes,Feer,XP,5
+330120,10/4/2013,FBS,San Diego State,Nevada,KICKING,Wes,Feer,PTS,5
+330121,10/4/2013,FBS,San Diego State,Nevada,PUNTING,Joel,Alesi,NO,4
+330122,10/4/2013,FBS,San Diego State,Nevada,PUNTING,Joel,Alesi,YDS,201
+330123,10/4/2013,FBS,San Diego State,Nevada,PUNTING,Joel,Alesi,AVG,50.3
+330124,10/4/2013,FBS,San Diego State,Nevada,PUNTING,Joel,Alesi,LONG,54
+330125,10/4/2013,FBS,San Diego State,Nevada,PUNT RETURNS,Tim,Vizzi,NO,1
+330126,10/4/2013,FBS,San Diego State,Nevada,PUNT RETURNS,Tim,Vizzi,YDS,6
+330127,10/4/2013,FBS,San Diego State,Nevada,PUNT RETURNS,Tim,Vizzi,AVG,6.0
+330128,10/4/2013,FBS,San Diego State,Nevada,PUNT RETURNS,Tim,Vizzi,LONG,6
+330129,10/4/2013,FBS,San Diego State,Nevada,KICK RETURNS,Eric,Judge,NO,4
+330130,10/4/2013,FBS,San Diego State,Nevada,KICK RETURNS,Eric,Judge,YDS,78
+330131,10/4/2013,FBS,San Diego State,Nevada,KICK RETURNS,Eric,Judge,AVG,19.5
+330132,10/4/2013,FBS,San Diego State,Nevada,KICK RETURNS,Eric,Judge,LONG,23
+330133,10/4/2013,FBS,San Diego State,Nevada,KICK RETURNS,Tim,Vizzi,NO,1
+330134,10/4/2013,FBS,San Diego State,Nevada,KICK RETURNS,Tim,Vizzi,YDS,13
+330135,10/4/2013,FBS,San Diego State,Nevada,KICK RETURNS,Tim,Vizzi,AVG,13.0
+330136,10/4/2013,FBS,San Diego State,Nevada,KICK RETURNS,Tim,Vizzi,LONG,13

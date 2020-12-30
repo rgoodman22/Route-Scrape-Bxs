@@ -1,0 +1,113 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+283001,11/9/2013,FBS,Arizona State,Utah,RUSHING,Marion,Grice,ATT,20
+283002,11/9/2013,FBS,Arizona State,Utah,RUSHING,Marion,Grice,YDS,136
+283003,11/9/2013,FBS,Arizona State,Utah,RUSHING,Marion,Grice,TD,0
+283004,11/9/2013,FBS,Arizona State,Utah,RUSHING,Marion,Grice,LONG,38
+283005,11/9/2013,FBS,Arizona State,Utah,RUSHING,Deantre,Lewis,ATT,3
+283006,11/9/2013,FBS,Arizona State,Utah,RUSHING,Deantre,Lewis,YDS,26
+283007,11/9/2013,FBS,Arizona State,Utah,RUSHING,Deantre,Lewis,TD,0
+283008,11/9/2013,FBS,Arizona State,Utah,RUSHING,Deantre,Lewis,LONG,26
+283009,11/9/2013,FBS,Arizona State,Utah,RUSHING,,Team,ATT,2
+283010,11/9/2013,FBS,Arizona State,Utah,RUSHING,,Team,YDS,-4
+283011,11/9/2013,FBS,Arizona State,Utah,RUSHING,,Team,TD,0
+283012,11/9/2013,FBS,Arizona State,Utah,RUSHING,,Team,LONG,0
+283013,11/9/2013,FBS,Arizona State,Utah,RUSHING,Taylor,Kelly,ATT,14
+283014,11/9/2013,FBS,Arizona State,Utah,RUSHING,Taylor,Kelly,YDS,-9
+283015,11/9/2013,FBS,Arizona State,Utah,RUSHING,Taylor,Kelly,TD,2
+283016,11/9/2013,FBS,Arizona State,Utah,RUSHING,Taylor,Kelly,LONG,13
+283017,11/9/2013,FBS,Arizona State,Utah,PASSING,Taylor,Kelly,CP-ATT-INT,19-31-0
+283018,11/9/2013,FBS,Arizona State,Utah,PASSING,Taylor,Kelly,YDS,144
+283019,11/9/2013,FBS,Arizona State,Utah,PASSING,Taylor,Kelly,TD,1
+283020,11/9/2013,FBS,Arizona State,Utah,PASSING,Taylor,Kelly,LONG,22
+283021,11/9/2013,FBS,Arizona State,Utah,RECEIVING,D.J.,Foster,REC,5
+283022,11/9/2013,FBS,Arizona State,Utah,RECEIVING,D.J.,Foster,YDS,44
+283023,11/9/2013,FBS,Arizona State,Utah,RECEIVING,D.J.,Foster,TD,0
+283024,11/9/2013,FBS,Arizona State,Utah,RECEIVING,D.J.,Foster,LONG,16
+283025,11/9/2013,FBS,Arizona State,Utah,RECEIVING,Richard,Smith,REC,4
+283026,11/9/2013,FBS,Arizona State,Utah,RECEIVING,Richard,Smith,YDS,36
+283027,11/9/2013,FBS,Arizona State,Utah,RECEIVING,Richard,Smith,TD,1
+283028,11/9/2013,FBS,Arizona State,Utah,RECEIVING,Richard,Smith,LONG,14
+283029,11/9/2013,FBS,Arizona State,Utah,RECEIVING,Marion,Grice,REC,4
+283030,11/9/2013,FBS,Arizona State,Utah,RECEIVING,Marion,Grice,YDS,20
+283031,11/9/2013,FBS,Arizona State,Utah,RECEIVING,Marion,Grice,TD,0
+283032,11/9/2013,FBS,Arizona State,Utah,RECEIVING,Marion,Grice,LONG,10
+283033,11/9/2013,FBS,Arizona State,Utah,RECEIVING,Jaelen,Strong,REC,3
+283034,11/9/2013,FBS,Arizona State,Utah,RECEIVING,Jaelen,Strong,YDS,8
+283035,11/9/2013,FBS,Arizona State,Utah,RECEIVING,Jaelen,Strong,TD,0
+283036,11/9/2013,FBS,Arizona State,Utah,RECEIVING,Jaelen,Strong,LONG,4
+283037,11/9/2013,FBS,Arizona State,Utah,RECEIVING,Chris,Coyle,REC,2
+283038,11/9/2013,FBS,Arizona State,Utah,RECEIVING,Chris,Coyle,YDS,35
+283039,11/9/2013,FBS,Arizona State,Utah,RECEIVING,Chris,Coyle,TD,0
+283040,11/9/2013,FBS,Arizona State,Utah,RECEIVING,Chris,Coyle,LONG,22
+283041,11/9/2013,FBS,Arizona State,Utah,RECEIVING,Cameron,Smith,REC,1
+283042,11/9/2013,FBS,Arizona State,Utah,RECEIVING,Cameron,Smith,YDS,1
+283043,11/9/2013,FBS,Arizona State,Utah,RECEIVING,Cameron,Smith,TD,0
+283044,11/9/2013,FBS,Arizona State,Utah,RECEIVING,Cameron,Smith,LONG,1
+283045,11/9/2013,FBS,Arizona State,Utah,KICKING,Zane,Gonzalez,FG-FGA,0/0
+283046,11/9/2013,FBS,Arizona State,Utah,KICKING,Zane,Gonzalez,LONG,-
+283047,11/9/2013,FBS,Arizona State,Utah,KICKING,Zane,Gonzalez,XP,2
+283048,11/9/2013,FBS,Arizona State,Utah,KICKING,Zane,Gonzalez,PTS,2
+283049,11/9/2013,FBS,Arizona State,Utah,PUNTING,Alex,Garoutte,NO,10
+283050,11/9/2013,FBS,Arizona State,Utah,PUNTING,Alex,Garoutte,YDS,375
+283051,11/9/2013,FBS,Arizona State,Utah,PUNTING,Alex,Garoutte,AVG,37.5
+283052,11/9/2013,FBS,Arizona State,Utah,PUNTING,Alex,Garoutte,LONG,52
+283053,11/9/2013,FBS,Arizona State,Utah,PUNT RETURNS,Alden,Darby,NO,2
+283054,11/9/2013,FBS,Arizona State,Utah,PUNT RETURNS,Alden,Darby,YDS,2
+283055,11/9/2013,FBS,Arizona State,Utah,PUNT RETURNS,Alden,Darby,AVG,1.0
+283056,11/9/2013,FBS,Arizona State,Utah,PUNT RETURNS,Alden,Darby,LONG,0
+283057,11/9/2013,FBS,Arizona State,Utah,PUNT RETURNS,Robert,Nelson,NO,1
+283058,11/9/2013,FBS,Arizona State,Utah,PUNT RETURNS,Robert,Nelson,YDS,4
+283059,11/9/2013,FBS,Arizona State,Utah,PUNT RETURNS,Robert,Nelson,AVG,4.0
+283060,11/9/2013,FBS,Arizona State,Utah,PUNT RETURNS,Robert,Nelson,LONG,4
+283061,11/9/2013,FBS,Arizona State,Utah,KICK RETURNS,Marion,Grice,NO,2
+283062,11/9/2013,FBS,Arizona State,Utah,KICK RETURNS,Marion,Grice,YDS,63
+283063,11/9/2013,FBS,Arizona State,Utah,KICK RETURNS,Marion,Grice,AVG,31.5
+283064,11/9/2013,FBS,Arizona State,Utah,KICK RETURNS,Marion,Grice,LONG,44
+283065,11/9/2013,FBS,Arizona State,Utah,KICK RETURNS,Deantre,Lewis,NO,2
+283066,11/9/2013,FBS,Arizona State,Utah,KICK RETURNS,Deantre,Lewis,YDS,50
+283067,11/9/2013,FBS,Arizona State,Utah,KICK RETURNS,Deantre,Lewis,AVG,25.0
+283068,11/9/2013,FBS,Arizona State,Utah,KICK RETURNS,Deantre,Lewis,LONG,28
+283069,11/9/2013,FBS,Arizona State,Utah,KICK RETURNS,Darwin,Rogers,NO,1
+283070,11/9/2013,FBS,Arizona State,Utah,KICK RETURNS,Darwin,Rogers,YDS,3
+283071,11/9/2013,FBS,Arizona State,Utah,KICK RETURNS,Darwin,Rogers,AVG,3.0
+283072,11/9/2013,FBS,Arizona State,Utah,KICK RETURNS,Darwin,Rogers,LONG,3
+283073,11/9/2013,FBS,Utah,Arizona State,RUSHING,Travis,Wilson,ATT,17
+283074,11/9/2013,FBS,Utah,Arizona State,RUSHING,Travis,Wilson,YDS,44
+283075,11/9/2013,FBS,Utah,Arizona State,RUSHING,Travis,Wilson,TD,0
+283076,11/9/2013,FBS,Utah,Arizona State,RUSHING,Travis,Wilson,LONG,21
+283077,11/9/2013,FBS,Utah,Arizona State,RUSHING,James,Poole,ATT,17
+283078,11/9/2013,FBS,Utah,Arizona State,RUSHING,James,Poole,YDS,43
+283079,11/9/2013,FBS,Utah,Arizona State,RUSHING,James,Poole,TD,0
+283080,11/9/2013,FBS,Utah,Arizona State,RUSHING,James,Poole,LONG,14
+283081,11/9/2013,FBS,Utah,Arizona State,RUSHING,Kelvin,York,ATT,12
+283082,11/9/2013,FBS,Utah,Arizona State,RUSHING,Kelvin,York,YDS,39
+283083,11/9/2013,FBS,Utah,Arizona State,RUSHING,Kelvin,York,TD,0
+283084,11/9/2013,FBS,Utah,Arizona State,RUSHING,Kelvin,York,LONG,13
+283085,11/9/2013,FBS,Utah,Arizona State,PASSING,Travis,Wilson,CP-ATT-INT,6-21-2
+283086,11/9/2013,FBS,Utah,Arizona State,PASSING,Travis,Wilson,YDS,121
+283087,11/9/2013,FBS,Utah,Arizona State,PASSING,Travis,Wilson,TD,2
+283088,11/9/2013,FBS,Utah,Arizona State,PASSING,Travis,Wilson,LONG,55
+283089,11/9/2013,FBS,Utah,Arizona State,RECEIVING,Dres,Anderson,REC,4
+283090,11/9/2013,FBS,Utah,Arizona State,RECEIVING,Dres,Anderson,YDS,100
+283091,11/9/2013,FBS,Utah,Arizona State,RECEIVING,Dres,Anderson,TD,1
+283092,11/9/2013,FBS,Utah,Arizona State,RECEIVING,Dres,Anderson,LONG,55
+283093,11/9/2013,FBS,Utah,Arizona State,RECEIVING,Sean,Fitzgerald,REC,2
+283094,11/9/2013,FBS,Utah,Arizona State,RECEIVING,Sean,Fitzgerald,YDS,21
+283095,11/9/2013,FBS,Utah,Arizona State,RECEIVING,Sean,Fitzgerald,TD,1
+283096,11/9/2013,FBS,Utah,Arizona State,RECEIVING,Sean,Fitzgerald,LONG,12
+283097,11/9/2013,FBS,Utah,Arizona State,KICKING,Andy,Phillips,FG-FGA,2/2
+283098,11/9/2013,FBS,Utah,Arizona State,KICKING,Andy,Phillips,LONG,51
+283099,11/9/2013,FBS,Utah,Arizona State,KICKING,Andy,Phillips,XP,1
+283100,11/9/2013,FBS,Utah,Arizona State,KICKING,Andy,Phillips,PTS,7
+283101,11/9/2013,FBS,Utah,Arizona State,PUNTING,Tom,Hackett,NO,9
+283102,11/9/2013,FBS,Utah,Arizona State,PUNTING,Tom,Hackett,YDS,455
+283103,11/9/2013,FBS,Utah,Arizona State,PUNTING,Tom,Hackett,AVG,50.6
+283104,11/9/2013,FBS,Utah,Arizona State,PUNTING,Tom,Hackett,LONG,70
+283105,11/9/2013,FBS,Utah,Arizona State,PUNT RETURNS,Geoffrey,Norwood,NO,3
+283106,11/9/2013,FBS,Utah,Arizona State,PUNT RETURNS,Geoffrey,Norwood,YDS,31
+283107,11/9/2013,FBS,Utah,Arizona State,PUNT RETURNS,Geoffrey,Norwood,AVG,10.3
+283108,11/9/2013,FBS,Utah,Arizona State,PUNT RETURNS,Geoffrey,Norwood,LONG,31
+283109,11/9/2013,FBS,Utah,Arizona State,KICK RETURNS,Dres,Anderson,NO,2
+283110,11/9/2013,FBS,Utah,Arizona State,KICK RETURNS,Dres,Anderson,YDS,44
+283111,11/9/2013,FBS,Utah,Arizona State,KICK RETURNS,Dres,Anderson,AVG,22.0
+283112,11/9/2013,FBS,Utah,Arizona State,KICK RETURNS,Dres,Anderson,LONG,24

@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+418001,11/23/2013,FBS,Oregon,Arizona,RUSHING,De'Anthony,Thomas,ATT,16
+418002,11/23/2013,FBS,Oregon,Arizona,RUSHING,De'Anthony,Thomas,YDS,83
+418003,11/23/2013,FBS,Oregon,Arizona,RUSHING,De'Anthony,Thomas,TD,0
+418004,11/23/2013,FBS,Oregon,Arizona,RUSHING,De'Anthony,Thomas,LONG,20
+418005,11/23/2013,FBS,Oregon,Arizona,RUSHING,Thomas,Tyner,ATT,11
+418006,11/23/2013,FBS,Oregon,Arizona,RUSHING,Thomas,Tyner,YDS,53
+418007,11/23/2013,FBS,Oregon,Arizona,RUSHING,Thomas,Tyner,TD,0
+418008,11/23/2013,FBS,Oregon,Arizona,RUSHING,Thomas,Tyner,LONG,14
+418009,11/23/2013,FBS,Oregon,Arizona,RUSHING,Marcus,Mariota,ATT,8
+418010,11/23/2013,FBS,Oregon,Arizona,RUSHING,Marcus,Mariota,YDS,52
+418011,11/23/2013,FBS,Oregon,Arizona,RUSHING,Marcus,Mariota,TD,0
+418012,11/23/2013,FBS,Oregon,Arizona,RUSHING,Marcus,Mariota,LONG,15
+418013,11/23/2013,FBS,Oregon,Arizona,RUSHING,Bralon,Addison,ATT,1
+418014,11/23/2013,FBS,Oregon,Arizona,RUSHING,Bralon,Addison,YDS,6
+418015,11/23/2013,FBS,Oregon,Arizona,RUSHING,Bralon,Addison,TD,0
+418016,11/23/2013,FBS,Oregon,Arizona,RUSHING,Bralon,Addison,LONG,6
+418017,11/23/2013,FBS,Oregon,Arizona,RUSHING,Byron,Marshall,ATT,3
+418018,11/23/2013,FBS,Oregon,Arizona,RUSHING,Byron,Marshall,YDS,4
+418019,11/23/2013,FBS,Oregon,Arizona,RUSHING,Byron,Marshall,TD,0
+418020,11/23/2013,FBS,Oregon,Arizona,RUSHING,Byron,Marshall,LONG,3
+418021,11/23/2013,FBS,Oregon,Arizona,PASSING,Marcus,Mariota,CP-ATT-INT,27-41-2
+418022,11/23/2013,FBS,Oregon,Arizona,PASSING,Marcus,Mariota,YDS,308
+418023,11/23/2013,FBS,Oregon,Arizona,PASSING,Marcus,Mariota,TD,2
+418024,11/23/2013,FBS,Oregon,Arizona,PASSING,Marcus,Mariota,LONG,30
+418025,11/23/2013,FBS,Oregon,Arizona,RECEIVING,De'Anthony,Thomas,REC,6
+418026,11/23/2013,FBS,Oregon,Arizona,RECEIVING,De'Anthony,Thomas,YDS,74
+418027,11/23/2013,FBS,Oregon,Arizona,RECEIVING,De'Anthony,Thomas,TD,0
+418028,11/23/2013,FBS,Oregon,Arizona,RECEIVING,De'Anthony,Thomas,LONG,24
+418029,11/23/2013,FBS,Oregon,Arizona,RECEIVING,Bralon,Addison,REC,6
+418030,11/23/2013,FBS,Oregon,Arizona,RECEIVING,Bralon,Addison,YDS,56
+418031,11/23/2013,FBS,Oregon,Arizona,RECEIVING,Bralon,Addison,TD,0
+418032,11/23/2013,FBS,Oregon,Arizona,RECEIVING,Bralon,Addison,LONG,27
+418033,11/23/2013,FBS,Oregon,Arizona,RECEIVING,Daryle,Hawkins,REC,4
+418034,11/23/2013,FBS,Oregon,Arizona,RECEIVING,Daryle,Hawkins,YDS,61
+418035,11/23/2013,FBS,Oregon,Arizona,RECEIVING,Daryle,Hawkins,TD,0
+418036,11/23/2013,FBS,Oregon,Arizona,RECEIVING,Daryle,Hawkins,LONG,30
+418037,11/23/2013,FBS,Oregon,Arizona,RECEIVING,Josh,Huff,REC,3
+418038,11/23/2013,FBS,Oregon,Arizona,RECEIVING,Josh,Huff,YDS,48
+418039,11/23/2013,FBS,Oregon,Arizona,RECEIVING,Josh,Huff,TD,1
+418040,11/23/2013,FBS,Oregon,Arizona,RECEIVING,Josh,Huff,LONG,29
+418041,11/23/2013,FBS,Oregon,Arizona,RECEIVING,Thomas,Tyner,REC,3
+418042,11/23/2013,FBS,Oregon,Arizona,RECEIVING,Thomas,Tyner,YDS,4
+418043,11/23/2013,FBS,Oregon,Arizona,RECEIVING,Thomas,Tyner,TD,0
+418044,11/23/2013,FBS,Oregon,Arizona,RECEIVING,Thomas,Tyner,LONG,2
+418045,11/23/2013,FBS,Oregon,Arizona,RECEIVING,Keanon,Lowe,REC,2
+418046,11/23/2013,FBS,Oregon,Arizona,RECEIVING,Keanon,Lowe,YDS,35
+418047,11/23/2013,FBS,Oregon,Arizona,RECEIVING,Keanon,Lowe,TD,0
+418048,11/23/2013,FBS,Oregon,Arizona,RECEIVING,Keanon,Lowe,LONG,18
+418049,11/23/2013,FBS,Oregon,Arizona,RECEIVING,Evan,Baylis,REC,1
+418050,11/23/2013,FBS,Oregon,Arizona,RECEIVING,Evan,Baylis,YDS,15
+418051,11/23/2013,FBS,Oregon,Arizona,RECEIVING,Evan,Baylis,TD,0
+418052,11/23/2013,FBS,Oregon,Arizona,RECEIVING,Evan,Baylis,LONG,15
+418053,11/23/2013,FBS,Oregon,Arizona,RECEIVING,Johnny,Mundt,REC,1
+418054,11/23/2013,FBS,Oregon,Arizona,RECEIVING,Johnny,Mundt,YDS,14
+418055,11/23/2013,FBS,Oregon,Arizona,RECEIVING,Johnny,Mundt,TD,0
+418056,11/23/2013,FBS,Oregon,Arizona,RECEIVING,Johnny,Mundt,LONG,14
+418057,11/23/2013,FBS,Oregon,Arizona,RECEIVING,Pharaoh,Brown,REC,1
+418058,11/23/2013,FBS,Oregon,Arizona,RECEIVING,Pharaoh,Brown,YDS,1
+418059,11/23/2013,FBS,Oregon,Arizona,RECEIVING,Pharaoh,Brown,TD,1
+418060,11/23/2013,FBS,Oregon,Arizona,RECEIVING,Pharaoh,Brown,LONG,1
+418061,11/23/2013,FBS,Oregon,Arizona,KICKING,Matt,Wogan,FG-FGA,1/1
+418062,11/23/2013,FBS,Oregon,Arizona,KICKING,Matt,Wogan,LONG,33
+418063,11/23/2013,FBS,Oregon,Arizona,KICKING,Matt,Wogan,XP,1
+418064,11/23/2013,FBS,Oregon,Arizona,KICKING,Matt,Wogan,PTS,4
+418065,11/23/2013,FBS,Oregon,Arizona,PUNTING,Alejandro,Maldonado,NO,2
+418066,11/23/2013,FBS,Oregon,Arizona,PUNTING,Alejandro,Maldonado,YDS,88
+418067,11/23/2013,FBS,Oregon,Arizona,PUNTING,Alejandro,Maldonado,AVG,44.0
+418068,11/23/2013,FBS,Oregon,Arizona,PUNTING,Alejandro,Maldonado,LONG,44
+418069,11/23/2013,FBS,Oregon,Arizona,PUNT RETURNS,Bralon,Addison,NO,2
+418070,11/23/2013,FBS,Oregon,Arizona,PUNT RETURNS,Bralon,Addison,YDS,18
+418071,11/23/2013,FBS,Oregon,Arizona,PUNT RETURNS,Bralon,Addison,AVG,9.0
+418072,11/23/2013,FBS,Oregon,Arizona,PUNT RETURNS,Bralon,Addison,LONG,16
+418073,11/23/2013,FBS,Oregon,Arizona,KICK RETURNS,De'Anthony,Thomas,NO,5
+418074,11/23/2013,FBS,Oregon,Arizona,KICK RETURNS,De'Anthony,Thomas,YDS,70
+418075,11/23/2013,FBS,Oregon,Arizona,KICK RETURNS,De'Anthony,Thomas,AVG,14.0
+418076,11/23/2013,FBS,Oregon,Arizona,KICK RETURNS,De'Anthony,Thomas,LONG,22
+418077,11/23/2013,FBS,Oregon,Arizona,KICK RETURNS,Troy,Hill,NO,2
+418078,11/23/2013,FBS,Oregon,Arizona,KICK RETURNS,Troy,Hill,YDS,53
+418079,11/23/2013,FBS,Oregon,Arizona,KICK RETURNS,Troy,Hill,AVG,26.5
+418080,11/23/2013,FBS,Oregon,Arizona,KICK RETURNS,Troy,Hill,LONG,40
+418081,11/23/2013,FBS,Arizona,Oregon,RUSHING,Ka'Deem,Carey,ATT,48
+418082,11/23/2013,FBS,Arizona,Oregon,RUSHING,Ka'Deem,Carey,YDS,206
+418083,11/23/2013,FBS,Arizona,Oregon,RUSHING,Ka'Deem,Carey,TD,4
+418084,11/23/2013,FBS,Arizona,Oregon,RUSHING,Ka'Deem,Carey,LONG,20
+418085,11/23/2013,FBS,Arizona,Oregon,RUSHING,B.J.,Denker,ATT,14
+418086,11/23/2013,FBS,Arizona,Oregon,RUSHING,B.J.,Denker,YDS,102
+418087,11/23/2013,FBS,Arizona,Oregon,RUSHING,B.J.,Denker,TD,0
+418088,11/23/2013,FBS,Arizona,Oregon,RUSHING,B.J.,Denker,LONG,35
+418089,11/23/2013,FBS,Arizona,Oregon,RUSHING,Daniel,Jenkins,ATT,1
+418090,11/23/2013,FBS,Arizona,Oregon,RUSHING,Daniel,Jenkins,YDS,1
+418091,11/23/2013,FBS,Arizona,Oregon,RUSHING,Daniel,Jenkins,TD,0
+418092,11/23/2013,FBS,Arizona,Oregon,RUSHING,Daniel,Jenkins,LONG,1
+418093,11/23/2013,FBS,Arizona,Oregon,RUSHING,,Team,ATT,2
+418094,11/23/2013,FBS,Arizona,Oregon,RUSHING,,Team,YDS,-5
+418095,11/23/2013,FBS,Arizona,Oregon,RUSHING,,Team,TD,0
+418096,11/23/2013,FBS,Arizona,Oregon,RUSHING,,Team,LONG,0
+418097,11/23/2013,FBS,Arizona,Oregon,PASSING,B.J.,Denker,CP-ATT-INT,19-22-0
+418098,11/23/2013,FBS,Arizona,Oregon,PASSING,B.J.,Denker,YDS,178
+418099,11/23/2013,FBS,Arizona,Oregon,PASSING,B.J.,Denker,TD,2
+418100,11/23/2013,FBS,Arizona,Oregon,PASSING,B.J.,Denker,LONG,23
+418101,11/23/2013,FBS,Arizona,Oregon,RECEIVING,Terrence,Miller,REC,9
+418102,11/23/2013,FBS,Arizona,Oregon,RECEIVING,Terrence,Miller,YDS,88
+418103,11/23/2013,FBS,Arizona,Oregon,RECEIVING,Terrence,Miller,TD,1
+418104,11/23/2013,FBS,Arizona,Oregon,RECEIVING,Terrence,Miller,LONG,23
+418105,11/23/2013,FBS,Arizona,Oregon,RECEIVING,Samajie,Grant,REC,3
+418106,11/23/2013,FBS,Arizona,Oregon,RECEIVING,Samajie,Grant,YDS,38
+418107,11/23/2013,FBS,Arizona,Oregon,RECEIVING,Samajie,Grant,TD,0
+418108,11/23/2013,FBS,Arizona,Oregon,RECEIVING,Samajie,Grant,LONG,21
+418109,11/23/2013,FBS,Arizona,Oregon,RECEIVING,Nate,Phillips,REC,3
+418110,11/23/2013,FBS,Arizona,Oregon,RECEIVING,Nate,Phillips,YDS,32
+418111,11/23/2013,FBS,Arizona,Oregon,RECEIVING,Nate,Phillips,TD,1
+418112,11/23/2013,FBS,Arizona,Oregon,RECEIVING,Nate,Phillips,LONG,17
+418113,11/23/2013,FBS,Arizona,Oregon,RECEIVING,Trey,Griffey,REC,3
+418114,11/23/2013,FBS,Arizona,Oregon,RECEIVING,Trey,Griffey,YDS,25
+418115,11/23/2013,FBS,Arizona,Oregon,RECEIVING,Trey,Griffey,TD,0
+418116,11/23/2013,FBS,Arizona,Oregon,RECEIVING,Trey,Griffey,LONG,10
+418117,11/23/2013,FBS,Arizona,Oregon,RECEIVING,Ka'Deem,Carey,REC,1
+418118,11/23/2013,FBS,Arizona,Oregon,RECEIVING,Ka'Deem,Carey,YDS,-5
+418119,11/23/2013,FBS,Arizona,Oregon,RECEIVING,Ka'Deem,Carey,TD,0
+418120,11/23/2013,FBS,Arizona,Oregon,RECEIVING,Ka'Deem,Carey,LONG,0
+418121,11/23/2013,FBS,Arizona,Oregon,KICKING,Jake,Smith,FG-FGA,0/0
+418122,11/23/2013,FBS,Arizona,Oregon,KICKING,Jake,Smith,LONG,-
+418123,11/23/2013,FBS,Arizona,Oregon,KICKING,Jake,Smith,XP,6
+418124,11/23/2013,FBS,Arizona,Oregon,KICKING,Jake,Smith,PTS,6
+418125,11/23/2013,FBS,Arizona,Oregon,PUNTING,Drew,Riggleman,NO,3
+418126,11/23/2013,FBS,Arizona,Oregon,PUNTING,Drew,Riggleman,YDS,134
+418127,11/23/2013,FBS,Arizona,Oregon,PUNTING,Drew,Riggleman,AVG,44.7
+418128,11/23/2013,FBS,Arizona,Oregon,PUNTING,Drew,Riggleman,LONG,48
+418129,11/23/2013,FBS,Arizona,Oregon,PUNTING,B.J.,Denker,NO,1
+418130,11/23/2013,FBS,Arizona,Oregon,PUNTING,B.J.,Denker,YDS,44
+418131,11/23/2013,FBS,Arizona,Oregon,PUNTING,B.J.,Denker,AVG,44.0
+418132,11/23/2013,FBS,Arizona,Oregon,PUNTING,B.J.,Denker,LONG,44
+418133,11/23/2013,FBS,Arizona,Oregon,KICK RETURNS,Samajie,Grant,NO,1
+418134,11/23/2013,FBS,Arizona,Oregon,KICK RETURNS,Samajie,Grant,YDS,16
+418135,11/23/2013,FBS,Arizona,Oregon,KICK RETURNS,Samajie,Grant,AVG,16.0
+418136,11/23/2013,FBS,Arizona,Oregon,KICK RETURNS,Samajie,Grant,LONG,16

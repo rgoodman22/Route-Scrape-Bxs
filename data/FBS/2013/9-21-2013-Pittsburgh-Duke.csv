@@ -1,0 +1,161 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+252001,9/21/2013,FBS,Pittsburgh,Duke,RUSHING,James,Conner,ATT,26
+252002,9/21/2013,FBS,Pittsburgh,Duke,RUSHING,James,Conner,YDS,173
+252003,9/21/2013,FBS,Pittsburgh,Duke,RUSHING,James,Conner,TD,1
+252004,9/21/2013,FBS,Pittsburgh,Duke,RUSHING,James,Conner,LONG,40
+252005,9/21/2013,FBS,Pittsburgh,Duke,RUSHING,Isaac,Bennett,ATT,12
+252006,9/21/2013,FBS,Pittsburgh,Duke,RUSHING,Isaac,Bennett,YDS,38
+252007,9/21/2013,FBS,Pittsburgh,Duke,RUSHING,Isaac,Bennett,TD,0
+252008,9/21/2013,FBS,Pittsburgh,Duke,RUSHING,Isaac,Bennett,LONG,9
+252009,9/21/2013,FBS,Pittsburgh,Duke,RUSHING,Devin,Street,ATT,1
+252010,9/21/2013,FBS,Pittsburgh,Duke,RUSHING,Devin,Street,YDS,1
+252011,9/21/2013,FBS,Pittsburgh,Duke,RUSHING,Devin,Street,TD,0
+252012,9/21/2013,FBS,Pittsburgh,Duke,RUSHING,Devin,Street,LONG,1
+252013,9/21/2013,FBS,Pittsburgh,Duke,RUSHING,Rachid,Ibrahim,ATT,1
+252014,9/21/2013,FBS,Pittsburgh,Duke,RUSHING,Rachid,Ibrahim,YDS,0
+252015,9/21/2013,FBS,Pittsburgh,Duke,RUSHING,Rachid,Ibrahim,TD,0
+252016,9/21/2013,FBS,Pittsburgh,Duke,RUSHING,Rachid,Ibrahim,LONG,0
+252017,9/21/2013,FBS,Pittsburgh,Duke,RUSHING,Tom,Savage,ATT,2
+252018,9/21/2013,FBS,Pittsburgh,Duke,RUSHING,Tom,Savage,YDS,-14
+252019,9/21/2013,FBS,Pittsburgh,Duke,RUSHING,Tom,Savage,TD,0
+252020,9/21/2013,FBS,Pittsburgh,Duke,RUSHING,Tom,Savage,LONG,0
+252021,9/21/2013,FBS,Pittsburgh,Duke,RUSHING,,Team,ATT,4
+252022,9/21/2013,FBS,Pittsburgh,Duke,RUSHING,,Team,YDS,-24
+252023,9/21/2013,FBS,Pittsburgh,Duke,RUSHING,,Team,TD,0
+252024,9/21/2013,FBS,Pittsburgh,Duke,RUSHING,,Team,LONG,0
+252025,9/21/2013,FBS,Pittsburgh,Duke,PASSING,Tom,Savage,CP-ATT-INT,23-33-0
+252026,9/21/2013,FBS,Pittsburgh,Duke,PASSING,Tom,Savage,YDS,424
+252027,9/21/2013,FBS,Pittsburgh,Duke,PASSING,Tom,Savage,TD,6
+252028,9/21/2013,FBS,Pittsburgh,Duke,PASSING,Tom,Savage,LONG,69
+252029,9/21/2013,FBS,Pittsburgh,Duke,RECEIVING,Tyler,Boyd,REC,8
+252030,9/21/2013,FBS,Pittsburgh,Duke,RECEIVING,Tyler,Boyd,YDS,154
+252031,9/21/2013,FBS,Pittsburgh,Duke,RECEIVING,Tyler,Boyd,TD,3
+252032,9/21/2013,FBS,Pittsburgh,Duke,RECEIVING,Tyler,Boyd,LONG,69
+252033,9/21/2013,FBS,Pittsburgh,Duke,RECEIVING,Devin,Street,REC,6
+252034,9/21/2013,FBS,Pittsburgh,Duke,RECEIVING,Devin,Street,YDS,166
+252035,9/21/2013,FBS,Pittsburgh,Duke,RECEIVING,Devin,Street,TD,2
+252036,9/21/2013,FBS,Pittsburgh,Duke,RECEIVING,Devin,Street,LONG,67
+252037,9/21/2013,FBS,Pittsburgh,Duke,RECEIVING,Kevin,Weatherspoon,REC,4
+252038,9/21/2013,FBS,Pittsburgh,Duke,RECEIVING,Kevin,Weatherspoon,YDS,58
+252039,9/21/2013,FBS,Pittsburgh,Duke,RECEIVING,Kevin,Weatherspoon,TD,0
+252040,9/21/2013,FBS,Pittsburgh,Duke,RECEIVING,Kevin,Weatherspoon,LONG,21
+252041,9/21/2013,FBS,Pittsburgh,Duke,RECEIVING,Scott,Orndoff,REC,1
+252042,9/21/2013,FBS,Pittsburgh,Duke,RECEIVING,Scott,Orndoff,YDS,17
+252043,9/21/2013,FBS,Pittsburgh,Duke,RECEIVING,Scott,Orndoff,TD,1
+252044,9/21/2013,FBS,Pittsburgh,Duke,RECEIVING,Scott,Orndoff,LONG,17
+252045,9/21/2013,FBS,Pittsburgh,Duke,RECEIVING,Manasseh,Garner,REC,1
+252046,9/21/2013,FBS,Pittsburgh,Duke,RECEIVING,Manasseh,Garner,YDS,13
+252047,9/21/2013,FBS,Pittsburgh,Duke,RECEIVING,Manasseh,Garner,TD,0
+252048,9/21/2013,FBS,Pittsburgh,Duke,RECEIVING,Manasseh,Garner,LONG,13
+252049,9/21/2013,FBS,Pittsburgh,Duke,RECEIVING,J.P.,Holtz,REC,1
+252050,9/21/2013,FBS,Pittsburgh,Duke,RECEIVING,J.P.,Holtz,YDS,10
+252051,9/21/2013,FBS,Pittsburgh,Duke,RECEIVING,J.P.,Holtz,TD,0
+252052,9/21/2013,FBS,Pittsburgh,Duke,RECEIVING,J.P.,Holtz,LONG,10
+252053,9/21/2013,FBS,Pittsburgh,Duke,RECEIVING,Isaac,Bennett,REC,1
+252054,9/21/2013,FBS,Pittsburgh,Duke,RECEIVING,Isaac,Bennett,YDS,5
+252055,9/21/2013,FBS,Pittsburgh,Duke,RECEIVING,Isaac,Bennett,TD,0
+252056,9/21/2013,FBS,Pittsburgh,Duke,RECEIVING,Isaac,Bennett,LONG,5
+252057,9/21/2013,FBS,Pittsburgh,Duke,RECEIVING,Rachid,Ibrahim,REC,1
+252058,9/21/2013,FBS,Pittsburgh,Duke,RECEIVING,Rachid,Ibrahim,YDS,1
+252059,9/21/2013,FBS,Pittsburgh,Duke,RECEIVING,Rachid,Ibrahim,TD,0
+252060,9/21/2013,FBS,Pittsburgh,Duke,RECEIVING,Rachid,Ibrahim,LONG,1
+252061,9/21/2013,FBS,Pittsburgh,Duke,KICKING,Chris,Blewitt,FG-FGA,1/2
+252062,9/21/2013,FBS,Pittsburgh,Duke,KICKING,Chris,Blewitt,LONG,24
+252063,9/21/2013,FBS,Pittsburgh,Duke,KICKING,Chris,Blewitt,XP,7
+252064,9/21/2013,FBS,Pittsburgh,Duke,KICKING,Chris,Blewitt,PTS,10
+252065,9/21/2013,FBS,Pittsburgh,Duke,PUNTING,Matt,Yoklic,NO,5
+252066,9/21/2013,FBS,Pittsburgh,Duke,PUNTING,Matt,Yoklic,YDS,211
+252067,9/21/2013,FBS,Pittsburgh,Duke,PUNTING,Matt,Yoklic,AVG,42.2
+252068,9/21/2013,FBS,Pittsburgh,Duke,PUNTING,Matt,Yoklic,LONG,53
+252069,9/21/2013,FBS,Pittsburgh,Duke,PUNT RETURNS,Kevin,Weatherspoon,NO,1
+252070,9/21/2013,FBS,Pittsburgh,Duke,PUNT RETURNS,Kevin,Weatherspoon,YDS,5
+252071,9/21/2013,FBS,Pittsburgh,Duke,PUNT RETURNS,Kevin,Weatherspoon,AVG,5.0
+252072,9/21/2013,FBS,Pittsburgh,Duke,PUNT RETURNS,Kevin,Weatherspoon,LONG,5
+252073,9/21/2013,FBS,Pittsburgh,Duke,KICK RETURNS,Tyler,Boyd,NO,4
+252074,9/21/2013,FBS,Pittsburgh,Duke,KICK RETURNS,Tyler,Boyd,YDS,85
+252075,9/21/2013,FBS,Pittsburgh,Duke,KICK RETURNS,Tyler,Boyd,AVG,21.2
+252076,9/21/2013,FBS,Pittsburgh,Duke,KICK RETURNS,Tyler,Boyd,LONG,29
+252077,9/21/2013,FBS,Pittsburgh,Duke,KICK RETURNS,Kevin,Weatherspoon,NO,1
+252078,9/21/2013,FBS,Pittsburgh,Duke,KICK RETURNS,Kevin,Weatherspoon,YDS,25
+252079,9/21/2013,FBS,Pittsburgh,Duke,KICK RETURNS,Kevin,Weatherspoon,AVG,25.0
+252080,9/21/2013,FBS,Pittsburgh,Duke,KICK RETURNS,Kevin,Weatherspoon,LONG,25
+252081,9/21/2013,FBS,Pittsburgh,Duke,KICK RETURNS,Lafayette,Pitts,NO,1
+252082,9/21/2013,FBS,Pittsburgh,Duke,KICK RETURNS,Lafayette,Pitts,YDS,15
+252083,9/21/2013,FBS,Pittsburgh,Duke,KICK RETURNS,Lafayette,Pitts,AVG,15.0
+252084,9/21/2013,FBS,Pittsburgh,Duke,KICK RETURNS,Lafayette,Pitts,LONG,15
+252085,9/21/2013,FBS,Duke,Pittsburgh,RUSHING,Brandon,Connette,ATT,15
+252086,9/21/2013,FBS,Duke,Pittsburgh,RUSHING,Brandon,Connette,YDS,101
+252087,9/21/2013,FBS,Duke,Pittsburgh,RUSHING,Brandon,Connette,TD,2
+252088,9/21/2013,FBS,Duke,Pittsburgh,RUSHING,Brandon,Connette,LONG,37
+252089,9/21/2013,FBS,Duke,Pittsburgh,RUSHING,Josh,Snead,ATT,14
+252090,9/21/2013,FBS,Duke,Pittsburgh,RUSHING,Josh,Snead,YDS,59
+252091,9/21/2013,FBS,Duke,Pittsburgh,RUSHING,Josh,Snead,TD,0
+252092,9/21/2013,FBS,Duke,Pittsburgh,RUSHING,Josh,Snead,LONG,10
+252093,9/21/2013,FBS,Duke,Pittsburgh,RUSHING,Jamison,Crowder,ATT,2
+252094,9/21/2013,FBS,Duke,Pittsburgh,RUSHING,Jamison,Crowder,YDS,29
+252095,9/21/2013,FBS,Duke,Pittsburgh,RUSHING,Jamison,Crowder,TD,1
+252096,9/21/2013,FBS,Duke,Pittsburgh,RUSHING,Jamison,Crowder,LONG,22
+252097,9/21/2013,FBS,Duke,Pittsburgh,RUSHING,Jela,Duncan,ATT,5
+252098,9/21/2013,FBS,Duke,Pittsburgh,RUSHING,Jela,Duncan,YDS,24
+252099,9/21/2013,FBS,Duke,Pittsburgh,RUSHING,Jela,Duncan,TD,0
+252100,9/21/2013,FBS,Duke,Pittsburgh,RUSHING,Jela,Duncan,LONG,17
+252101,9/21/2013,FBS,Duke,Pittsburgh,PASSING,Brandon,Connette,CP-ATT-INT,21-32-4
+252102,9/21/2013,FBS,Duke,Pittsburgh,PASSING,Brandon,Connette,YDS,323
+252103,9/21/2013,FBS,Duke,Pittsburgh,PASSING,Brandon,Connette,TD,4
+252104,9/21/2013,FBS,Duke,Pittsburgh,PASSING,Brandon,Connette,LONG,75
+252105,9/21/2013,FBS,Duke,Pittsburgh,PASSING,Will,Monday,CP-ATT-INT,1-1-0
+252106,9/21/2013,FBS,Duke,Pittsburgh,PASSING,Will,Monday,YDS,-4
+252107,9/21/2013,FBS,Duke,Pittsburgh,PASSING,Will,Monday,TD,0
+252108,9/21/2013,FBS,Duke,Pittsburgh,PASSING,Will,Monday,LONG,0
+252109,9/21/2013,FBS,Duke,Pittsburgh,RECEIVING,Jamison,Crowder,REC,7
+252110,9/21/2013,FBS,Duke,Pittsburgh,RECEIVING,Jamison,Crowder,YDS,141
+252111,9/21/2013,FBS,Duke,Pittsburgh,RECEIVING,Jamison,Crowder,TD,1
+252112,9/21/2013,FBS,Duke,Pittsburgh,RECEIVING,Jamison,Crowder,LONG,62
+252113,9/21/2013,FBS,Duke,Pittsburgh,RECEIVING,Brandon,Braxton,REC,5
+252114,9/21/2013,FBS,Duke,Pittsburgh,RECEIVING,Brandon,Braxton,YDS,97
+252115,9/21/2013,FBS,Duke,Pittsburgh,RECEIVING,Brandon,Braxton,TD,1
+252116,9/21/2013,FBS,Duke,Pittsburgh,RECEIVING,Brandon,Braxton,LONG,75
+252117,9/21/2013,FBS,Duke,Pittsburgh,RECEIVING,Max,McCaffrey,REC,3
+252118,9/21/2013,FBS,Duke,Pittsburgh,RECEIVING,Max,McCaffrey,YDS,34
+252119,9/21/2013,FBS,Duke,Pittsburgh,RECEIVING,Max,McCaffrey,TD,1
+252120,9/21/2013,FBS,Duke,Pittsburgh,RECEIVING,Max,McCaffrey,LONG,18
+252121,9/21/2013,FBS,Duke,Pittsburgh,RECEIVING,Braxton,Deaver,REC,2
+252122,9/21/2013,FBS,Duke,Pittsburgh,RECEIVING,Braxton,Deaver,YDS,21
+252123,9/21/2013,FBS,Duke,Pittsburgh,RECEIVING,Braxton,Deaver,TD,1
+252124,9/21/2013,FBS,Duke,Pittsburgh,RECEIVING,Braxton,Deaver,LONG,15
+252125,9/21/2013,FBS,Duke,Pittsburgh,RECEIVING,Jela,Duncan,REC,2
+252126,9/21/2013,FBS,Duke,Pittsburgh,RECEIVING,Jela,Duncan,YDS,17
+252127,9/21/2013,FBS,Duke,Pittsburgh,RECEIVING,Jela,Duncan,TD,0
+252128,9/21/2013,FBS,Duke,Pittsburgh,RECEIVING,Jela,Duncan,LONG,10
+252129,9/21/2013,FBS,Duke,Pittsburgh,RECEIVING,Johnell,Barnes,REC,1
+252130,9/21/2013,FBS,Duke,Pittsburgh,RECEIVING,Johnell,Barnes,YDS,8
+252131,9/21/2013,FBS,Duke,Pittsburgh,RECEIVING,Johnell,Barnes,TD,0
+252132,9/21/2013,FBS,Duke,Pittsburgh,RECEIVING,Johnell,Barnes,LONG,8
+252133,9/21/2013,FBS,Duke,Pittsburgh,RECEIVING,Josh,Snead,REC,1
+252134,9/21/2013,FBS,Duke,Pittsburgh,RECEIVING,Josh,Snead,YDS,5
+252135,9/21/2013,FBS,Duke,Pittsburgh,RECEIVING,Josh,Snead,TD,0
+252136,9/21/2013,FBS,Duke,Pittsburgh,RECEIVING,Josh,Snead,LONG,5
+252137,9/21/2013,FBS,Duke,Pittsburgh,RECEIVING,Nick,Sink,REC,1
+252138,9/21/2013,FBS,Duke,Pittsburgh,RECEIVING,Nick,Sink,YDS,-4
+252139,9/21/2013,FBS,Duke,Pittsburgh,RECEIVING,Nick,Sink,TD,0
+252140,9/21/2013,FBS,Duke,Pittsburgh,RECEIVING,Nick,Sink,LONG,0
+252141,9/21/2013,FBS,Duke,Pittsburgh,KICKING,Ross,Martin,FG-FGA,0/0
+252142,9/21/2013,FBS,Duke,Pittsburgh,KICKING,Ross,Martin,LONG,-
+252143,9/21/2013,FBS,Duke,Pittsburgh,KICKING,Ross,Martin,XP,7
+252144,9/21/2013,FBS,Duke,Pittsburgh,KICKING,Ross,Martin,PTS,7
+252145,9/21/2013,FBS,Duke,Pittsburgh,PUNTING,Will,Monday,NO,3
+252146,9/21/2013,FBS,Duke,Pittsburgh,PUNTING,Will,Monday,YDS,146
+252147,9/21/2013,FBS,Duke,Pittsburgh,PUNTING,Will,Monday,AVG,48.7
+252148,9/21/2013,FBS,Duke,Pittsburgh,PUNTING,Will,Monday,LONG,53
+252149,9/21/2013,FBS,Duke,Pittsburgh,PUNT RETURNS,Jamison,Crowder,NO,3
+252150,9/21/2013,FBS,Duke,Pittsburgh,PUNT RETURNS,Jamison,Crowder,YDS,109
+252151,9/21/2013,FBS,Duke,Pittsburgh,PUNT RETURNS,Jamison,Crowder,AVG,36.3
+252152,9/21/2013,FBS,Duke,Pittsburgh,PUNT RETURNS,Jamison,Crowder,LONG,82
+252153,9/21/2013,FBS,Duke,Pittsburgh,KICK RETURNS,Shaquille,Powell,NO,3
+252154,9/21/2013,FBS,Duke,Pittsburgh,KICK RETURNS,Shaquille,Powell,YDS,61
+252155,9/21/2013,FBS,Duke,Pittsburgh,KICK RETURNS,Shaquille,Powell,AVG,20.3
+252156,9/21/2013,FBS,Duke,Pittsburgh,KICK RETURNS,Shaquille,Powell,LONG,27
+252157,9/21/2013,FBS,Duke,Pittsburgh,KICK RETURNS,Johnell,Barnes,NO,2
+252158,9/21/2013,FBS,Duke,Pittsburgh,KICK RETURNS,Johnell,Barnes,YDS,41
+252159,9/21/2013,FBS,Duke,Pittsburgh,KICK RETURNS,Johnell,Barnes,AVG,20.5
+252160,9/21/2013,FBS,Duke,Pittsburgh,KICK RETURNS,Johnell,Barnes,LONG,25

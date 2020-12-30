@@ -1,0 +1,153 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+4001,10/5/2013,FBS,Western Mich.,Toledo,RUSHING,Dareyon,Chance,ATT,25
+4002,10/5/2013,FBS,Western Mich.,Toledo,RUSHING,Dareyon,Chance,YDS,80
+4003,10/5/2013,FBS,Western Mich.,Toledo,RUSHING,Dareyon,Chance,TD,1
+4004,10/5/2013,FBS,Western Mich.,Toledo,RUSHING,Dareyon,Chance,LONG,14
+4005,10/5/2013,FBS,Western Mich.,Toledo,RUSHING,Brian,Fields,ATT,8
+4006,10/5/2013,FBS,Western Mich.,Toledo,RUSHING,Brian,Fields,YDS,10
+4007,10/5/2013,FBS,Western Mich.,Toledo,RUSHING,Brian,Fields,TD,0
+4008,10/5/2013,FBS,Western Mich.,Toledo,RUSHING,Brian,Fields,LONG,7
+4009,10/5/2013,FBS,Western Mich.,Toledo,RUSHING,Antoin,Scriven,ATT,2
+4010,10/5/2013,FBS,Western Mich.,Toledo,RUSHING,Antoin,Scriven,YDS,6
+4011,10/5/2013,FBS,Western Mich.,Toledo,RUSHING,Antoin,Scriven,TD,0
+4012,10/5/2013,FBS,Western Mich.,Toledo,RUSHING,Antoin,Scriven,LONG,3
+4013,10/5/2013,FBS,Western Mich.,Toledo,RUSHING,Zach,Terrell,ATT,2
+4014,10/5/2013,FBS,Western Mich.,Toledo,RUSHING,Zach,Terrell,YDS,1
+4015,10/5/2013,FBS,Western Mich.,Toledo,RUSHING,Zach,Terrell,TD,0
+4016,10/5/2013,FBS,Western Mich.,Toledo,RUSHING,Zach,Terrell,LONG,2
+4017,10/5/2013,FBS,Western Mich.,Toledo,RUSHING,Tyler,VanTubbergen,ATT,3
+4018,10/5/2013,FBS,Western Mich.,Toledo,RUSHING,Tyler,VanTubbergen,YDS,-10
+4019,10/5/2013,FBS,Western Mich.,Toledo,RUSHING,Tyler,VanTubbergen,TD,0
+4020,10/5/2013,FBS,Western Mich.,Toledo,RUSHING,Tyler,VanTubbergen,LONG,4
+4021,10/5/2013,FBS,Western Mich.,Toledo,PASSING,Tyler,VanTubbergen,CP-ATT-INT,9-19-1
+4022,10/5/2013,FBS,Western Mich.,Toledo,PASSING,Tyler,VanTubbergen,YDS,104
+4023,10/5/2013,FBS,Western Mich.,Toledo,PASSING,Tyler,VanTubbergen,TD,1
+4024,10/5/2013,FBS,Western Mich.,Toledo,PASSING,Tyler,VanTubbergen,LONG,22
+4025,10/5/2013,FBS,Western Mich.,Toledo,PASSING,Zach,Terrell,CP-ATT-INT,10-13-1
+4026,10/5/2013,FBS,Western Mich.,Toledo,PASSING,Zach,Terrell,YDS,184
+4027,10/5/2013,FBS,Western Mich.,Toledo,PASSING,Zach,Terrell,TD,0
+4028,10/5/2013,FBS,Western Mich.,Toledo,PASSING,Zach,Terrell,LONG,28
+4029,10/5/2013,FBS,Western Mich.,Toledo,RECEIVING,Corey,Davis,REC,5
+4030,10/5/2013,FBS,Western Mich.,Toledo,RECEIVING,Corey,Davis,YDS,77
+4031,10/5/2013,FBS,Western Mich.,Toledo,RECEIVING,Corey,Davis,TD,0
+4032,10/5/2013,FBS,Western Mich.,Toledo,RECEIVING,Corey,Davis,LONG,22
+4033,10/5/2013,FBS,Western Mich.,Toledo,RECEIVING,Clark,Mussman,REC,5
+4034,10/5/2013,FBS,Western Mich.,Toledo,RECEIVING,Clark,Mussman,YDS,62
+4035,10/5/2013,FBS,Western Mich.,Toledo,RECEIVING,Clark,Mussman,TD,0
+4036,10/5/2013,FBS,Western Mich.,Toledo,RECEIVING,Clark,Mussman,LONG,22
+4037,10/5/2013,FBS,Western Mich.,Toledo,RECEIVING,Eric,Boyden,REC,4
+4038,10/5/2013,FBS,Western Mich.,Toledo,RECEIVING,Eric,Boyden,YDS,59
+4039,10/5/2013,FBS,Western Mich.,Toledo,RECEIVING,Eric,Boyden,TD,1
+4040,10/5/2013,FBS,Western Mich.,Toledo,RECEIVING,Eric,Boyden,LONG,22
+4041,10/5/2013,FBS,Western Mich.,Toledo,RECEIVING,Mario,Rodriguez,REC,2
+4042,10/5/2013,FBS,Western Mich.,Toledo,RECEIVING,Mario,Rodriguez,YDS,51
+4043,10/5/2013,FBS,Western Mich.,Toledo,RECEIVING,Mario,Rodriguez,TD,0
+4044,10/5/2013,FBS,Western Mich.,Toledo,RECEIVING,Mario,Rodriguez,LONG,28
+4045,10/5/2013,FBS,Western Mich.,Toledo,RECEIVING,Kendrick,Roberts,REC,1
+4046,10/5/2013,FBS,Western Mich.,Toledo,RECEIVING,Kendrick,Roberts,YDS,24
+4047,10/5/2013,FBS,Western Mich.,Toledo,RECEIVING,Kendrick,Roberts,TD,0
+4048,10/5/2013,FBS,Western Mich.,Toledo,RECEIVING,Kendrick,Roberts,LONG,24
+4049,10/5/2013,FBS,Western Mich.,Toledo,RECEIVING,Timmy,Keith,REC,1
+4050,10/5/2013,FBS,Western Mich.,Toledo,RECEIVING,Timmy,Keith,YDS,15
+4051,10/5/2013,FBS,Western Mich.,Toledo,RECEIVING,Timmy,Keith,TD,0
+4052,10/5/2013,FBS,Western Mich.,Toledo,RECEIVING,Timmy,Keith,LONG,15
+4053,10/5/2013,FBS,Western Mich.,Toledo,RECEIVING,Dareyon,Chance,REC,1
+4054,10/5/2013,FBS,Western Mich.,Toledo,RECEIVING,Dareyon,Chance,YDS,0
+4055,10/5/2013,FBS,Western Mich.,Toledo,RECEIVING,Dareyon,Chance,TD,0
+4056,10/5/2013,FBS,Western Mich.,Toledo,RECEIVING,Dareyon,Chance,LONG,0
+4057,10/5/2013,FBS,Western Mich.,Toledo,KICKING,Andrew,Haldeman,FG-FGA,2/2
+4058,10/5/2013,FBS,Western Mich.,Toledo,KICKING,Andrew,Haldeman,LONG,35
+4059,10/5/2013,FBS,Western Mich.,Toledo,KICKING,Andrew,Haldeman,XP,2
+4060,10/5/2013,FBS,Western Mich.,Toledo,KICKING,Andrew,Haldeman,PTS,8
+4061,10/5/2013,FBS,Western Mich.,Toledo,PUNTING,J.,Schroeder,NO,6
+4062,10/5/2013,FBS,Western Mich.,Toledo,PUNTING,J.,Schroeder,YDS,241
+4063,10/5/2013,FBS,Western Mich.,Toledo,PUNTING,J.,Schroeder,AVG,40.2
+4064,10/5/2013,FBS,Western Mich.,Toledo,PUNTING,J.,Schroeder,LONG,54
+4065,10/5/2013,FBS,Western Mich.,Toledo,PUNT RETURNS,Dareyon,Chance,NO,2
+4066,10/5/2013,FBS,Western Mich.,Toledo,PUNT RETURNS,Dareyon,Chance,YDS,8
+4067,10/5/2013,FBS,Western Mich.,Toledo,PUNT RETURNS,Dareyon,Chance,AVG,4.0
+4068,10/5/2013,FBS,Western Mich.,Toledo,PUNT RETURNS,Dareyon,Chance,LONG,6
+4069,10/5/2013,FBS,Western Mich.,Toledo,KICK RETURNS,Dareyon,Chance,NO,2
+4070,10/5/2013,FBS,Western Mich.,Toledo,KICK RETURNS,Dareyon,Chance,YDS,45
+4071,10/5/2013,FBS,Western Mich.,Toledo,KICK RETURNS,Dareyon,Chance,AVG,22.5
+4072,10/5/2013,FBS,Western Mich.,Toledo,KICK RETURNS,Dareyon,Chance,LONG,27
+4073,10/5/2013,FBS,Toledo,Western Mich.,RUSHING,David,Fluellen,ATT,23
+4074,10/5/2013,FBS,Toledo,Western Mich.,RUSHING,David,Fluellen,YDS,220
+4075,10/5/2013,FBS,Toledo,Western Mich.,RUSHING,David,Fluellen,TD,4
+4076,10/5/2013,FBS,Toledo,Western Mich.,RUSHING,David,Fluellen,LONG,66
+4077,10/5/2013,FBS,Toledo,Western Mich.,RUSHING,Kareem,Hunt,ATT,3
+4078,10/5/2013,FBS,Toledo,Western Mich.,RUSHING,Kareem,Hunt,YDS,48
+4079,10/5/2013,FBS,Toledo,Western Mich.,RUSHING,Kareem,Hunt,TD,0
+4080,10/5/2013,FBS,Toledo,Western Mich.,RUSHING,Kareem,Hunt,LONG,22
+4081,10/5/2013,FBS,Toledo,Western Mich.,RUSHING,Damion,Jones-Moore,ATT,5
+4082,10/5/2013,FBS,Toledo,Western Mich.,RUSHING,Damion,Jones-Moore,YDS,43
+4083,10/5/2013,FBS,Toledo,Western Mich.,RUSHING,Damion,Jones-Moore,TD,0
+4084,10/5/2013,FBS,Toledo,Western Mich.,RUSHING,Damion,Jones-Moore,LONG,23
+4085,10/5/2013,FBS,Toledo,Western Mich.,RUSHING,Cassius,McDowell,ATT,4
+4086,10/5/2013,FBS,Toledo,Western Mich.,RUSHING,Cassius,McDowell,YDS,24
+4087,10/5/2013,FBS,Toledo,Western Mich.,RUSHING,Cassius,McDowell,TD,0
+4088,10/5/2013,FBS,Toledo,Western Mich.,RUSHING,Cassius,McDowell,LONG,16
+4089,10/5/2013,FBS,Toledo,Western Mich.,RUSHING,Terrance,Owens,ATT,3
+4090,10/5/2013,FBS,Toledo,Western Mich.,RUSHING,Terrance,Owens,YDS,21
+4091,10/5/2013,FBS,Toledo,Western Mich.,RUSHING,Terrance,Owens,TD,0
+4092,10/5/2013,FBS,Toledo,Western Mich.,RUSHING,Terrance,Owens,LONG,21
+4093,10/5/2013,FBS,Toledo,Western Mich.,RUSHING,Marc,Remy,ATT,1
+4094,10/5/2013,FBS,Toledo,Western Mich.,RUSHING,Marc,Remy,YDS,4
+4095,10/5/2013,FBS,Toledo,Western Mich.,RUSHING,Marc,Remy,TD,0
+4096,10/5/2013,FBS,Toledo,Western Mich.,RUSHING,Marc,Remy,LONG,4
+4097,10/5/2013,FBS,Toledo,Western Mich.,PASSING,Terrance,Owens,CP-ATT-INT,11-25-0
+4098,10/5/2013,FBS,Toledo,Western Mich.,PASSING,Terrance,Owens,YDS,149
+4099,10/5/2013,FBS,Toledo,Western Mich.,PASSING,Terrance,Owens,TD,1
+4100,10/5/2013,FBS,Toledo,Western Mich.,PASSING,Terrance,Owens,LONG,40
+4101,10/5/2013,FBS,Toledo,Western Mich.,PASSING,Logan,Woodside,CP-ATT-INT,2-6-0
+4102,10/5/2013,FBS,Toledo,Western Mich.,PASSING,Logan,Woodside,YDS,8
+4103,10/5/2013,FBS,Toledo,Western Mich.,PASSING,Logan,Woodside,TD,0
+4104,10/5/2013,FBS,Toledo,Western Mich.,PASSING,Logan,Woodside,LONG,10
+4105,10/5/2013,FBS,Toledo,Western Mich.,PASSING,Dwight,Macon,CP-ATT-INT,1-1-0
+4106,10/5/2013,FBS,Toledo,Western Mich.,PASSING,Dwight,Macon,YDS,11
+4107,10/5/2013,FBS,Toledo,Western Mich.,PASSING,Dwight,Macon,TD,0
+4108,10/5/2013,FBS,Toledo,Western Mich.,PASSING,Dwight,Macon,LONG,11
+4109,10/5/2013,FBS,Toledo,Western Mich.,RECEIVING,Bernard,Reedy,REC,4
+4110,10/5/2013,FBS,Toledo,Western Mich.,RECEIVING,Bernard,Reedy,YDS,85
+4111,10/5/2013,FBS,Toledo,Western Mich.,RECEIVING,Bernard,Reedy,TD,1
+4112,10/5/2013,FBS,Toledo,Western Mich.,RECEIVING,Bernard,Reedy,LONG,40
+4113,10/5/2013,FBS,Toledo,Western Mich.,RECEIVING,Alonzo,Russell,REC,3
+4114,10/5/2013,FBS,Toledo,Western Mich.,RECEIVING,Alonzo,Russell,YDS,42
+4115,10/5/2013,FBS,Toledo,Western Mich.,RECEIVING,Alonzo,Russell,TD,0
+4116,10/5/2013,FBS,Toledo,Western Mich.,RECEIVING,Alonzo,Russell,LONG,22
+4117,10/5/2013,FBS,Toledo,Western Mich.,RECEIVING,David,Fluellen,REC,2
+4118,10/5/2013,FBS,Toledo,Western Mich.,RECEIVING,David,Fluellen,YDS,14
+4119,10/5/2013,FBS,Toledo,Western Mich.,RECEIVING,David,Fluellen,TD,0
+4120,10/5/2013,FBS,Toledo,Western Mich.,RECEIVING,David,Fluellen,LONG,9
+4121,10/5/2013,FBS,Toledo,Western Mich.,RECEIVING,Dwight,Macon,REC,2
+4122,10/5/2013,FBS,Toledo,Western Mich.,RECEIVING,Dwight,Macon,YDS,8
+4123,10/5/2013,FBS,Toledo,Western Mich.,RECEIVING,Dwight,Macon,TD,0
+4124,10/5/2013,FBS,Toledo,Western Mich.,RECEIVING,Dwight,Macon,LONG,5
+4125,10/5/2013,FBS,Toledo,Western Mich.,RECEIVING,D.J.,Larkins,REC,2
+4126,10/5/2013,FBS,Toledo,Western Mich.,RECEIVING,D.J.,Larkins,YDS,8
+4127,10/5/2013,FBS,Toledo,Western Mich.,RECEIVING,D.J.,Larkins,TD,0
+4128,10/5/2013,FBS,Toledo,Western Mich.,RECEIVING,D.J.,Larkins,LONG,10
+4129,10/5/2013,FBS,Toledo,Western Mich.,RECEIVING,Terrance,Owens,REC,1
+4130,10/5/2013,FBS,Toledo,Western Mich.,RECEIVING,Terrance,Owens,YDS,11
+4131,10/5/2013,FBS,Toledo,Western Mich.,RECEIVING,Terrance,Owens,TD,0
+4132,10/5/2013,FBS,Toledo,Western Mich.,RECEIVING,Terrance,Owens,LONG,11
+4133,10/5/2013,FBS,Toledo,Western Mich.,KICKING,Jeremiah,Detmer,FG-FGA,2/2
+4134,10/5/2013,FBS,Toledo,Western Mich.,KICKING,Jeremiah,Detmer,LONG,39
+4135,10/5/2013,FBS,Toledo,Western Mich.,KICKING,Jeremiah,Detmer,XP,5
+4136,10/5/2013,FBS,Toledo,Western Mich.,KICKING,Jeremiah,Detmer,PTS,11
+4137,10/5/2013,FBS,Toledo,Western Mich.,PUNTING,Vince,Penza,NO,6
+4138,10/5/2013,FBS,Toledo,Western Mich.,PUNTING,Vince,Penza,YDS,287
+4139,10/5/2013,FBS,Toledo,Western Mich.,PUNTING,Vince,Penza,AVG,47.8
+4140,10/5/2013,FBS,Toledo,Western Mich.,PUNTING,Vince,Penza,LONG,53
+4141,10/5/2013,FBS,Toledo,Western Mich.,PUNT RETURNS,Bernard,Reedy,NO,3
+4142,10/5/2013,FBS,Toledo,Western Mich.,PUNT RETURNS,Bernard,Reedy,YDS,-16
+4143,10/5/2013,FBS,Toledo,Western Mich.,PUNT RETURNS,Bernard,Reedy,AVG,-5.3
+4144,10/5/2013,FBS,Toledo,Western Mich.,PUNT RETURNS,Bernard,Reedy,LONG,0
+4145,10/5/2013,FBS,Toledo,Western Mich.,KICK RETURNS,Bernard,Reedy,NO,3
+4146,10/5/2013,FBS,Toledo,Western Mich.,KICK RETURNS,Bernard,Reedy,YDS,55
+4147,10/5/2013,FBS,Toledo,Western Mich.,KICK RETURNS,Bernard,Reedy,AVG,18.3
+4148,10/5/2013,FBS,Toledo,Western Mich.,KICK RETURNS,Bernard,Reedy,LONG,24
+4149,10/5/2013,FBS,Toledo,Western Mich.,KICK RETURNS,Corey,Jones,NO,2
+4150,10/5/2013,FBS,Toledo,Western Mich.,KICK RETURNS,Corey,Jones,YDS,46
+4151,10/5/2013,FBS,Toledo,Western Mich.,KICK RETURNS,Corey,Jones,AVG,23.0
+4152,10/5/2013,FBS,Toledo,Western Mich.,KICK RETURNS,Corey,Jones,LONG,32

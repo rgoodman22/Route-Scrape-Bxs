@@ -1,0 +1,153 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+455001,11/30/2013,FBS,Wyoming,Utah State,RUSHING,Shaun,Wick,ATT,12
+455002,11/30/2013,FBS,Wyoming,Utah State,RUSHING,Shaun,Wick,YDS,40
+455003,11/30/2013,FBS,Wyoming,Utah State,RUSHING,Shaun,Wick,TD,0
+455004,11/30/2013,FBS,Wyoming,Utah State,RUSHING,Shaun,Wick,LONG,13
+455005,11/30/2013,FBS,Wyoming,Utah State,RUSHING,Brandon,Miller,ATT,4
+455006,11/30/2013,FBS,Wyoming,Utah State,RUSHING,Brandon,Miller,YDS,4
+455007,11/30/2013,FBS,Wyoming,Utah State,RUSHING,Brandon,Miller,TD,0
+455008,11/30/2013,FBS,Wyoming,Utah State,RUSHING,Brandon,Miller,LONG,4
+455009,11/30/2013,FBS,Wyoming,Utah State,RUSHING,Tedder,Easton,ATT,2
+455010,11/30/2013,FBS,Wyoming,Utah State,RUSHING,Tedder,Easton,YDS,2
+455011,11/30/2013,FBS,Wyoming,Utah State,RUSHING,Tedder,Easton,TD,0
+455012,11/30/2013,FBS,Wyoming,Utah State,RUSHING,Tedder,Easton,LONG,2
+455013,11/30/2013,FBS,Wyoming,Utah State,RUSHING,Brett,Smith,ATT,10
+455014,11/30/2013,FBS,Wyoming,Utah State,RUSHING,Brett,Smith,YDS,-6
+455015,11/30/2013,FBS,Wyoming,Utah State,RUSHING,Brett,Smith,TD,0
+455016,11/30/2013,FBS,Wyoming,Utah State,RUSHING,Brett,Smith,LONG,8
+455017,11/30/2013,FBS,Wyoming,Utah State,RUSHING,Sam,Stratton,ATT,1
+455018,11/30/2013,FBS,Wyoming,Utah State,RUSHING,Sam,Stratton,YDS,-12
+455019,11/30/2013,FBS,Wyoming,Utah State,RUSHING,Sam,Stratton,TD,0
+455020,11/30/2013,FBS,Wyoming,Utah State,RUSHING,Sam,Stratton,LONG,0
+455021,11/30/2013,FBS,Wyoming,Utah State,PASSING,Brett,Smith,CP-ATT-INT,16-29-1
+455022,11/30/2013,FBS,Wyoming,Utah State,PASSING,Brett,Smith,YDS,162
+455023,11/30/2013,FBS,Wyoming,Utah State,PASSING,Brett,Smith,TD,1
+455024,11/30/2013,FBS,Wyoming,Utah State,PASSING,Brett,Smith,LONG,60
+455025,11/30/2013,FBS,Wyoming,Utah State,RECEIVING,Jalen,Claiborne,REC,5
+455026,11/30/2013,FBS,Wyoming,Utah State,RECEIVING,Jalen,Claiborne,YDS,41
+455027,11/30/2013,FBS,Wyoming,Utah State,RECEIVING,Jalen,Claiborne,TD,0
+455028,11/30/2013,FBS,Wyoming,Utah State,RECEIVING,Jalen,Claiborne,LONG,23
+455029,11/30/2013,FBS,Wyoming,Utah State,RECEIVING,Dominic,Rufran,REC,4
+455030,11/30/2013,FBS,Wyoming,Utah State,RECEIVING,Dominic,Rufran,YDS,92
+455031,11/30/2013,FBS,Wyoming,Utah State,RECEIVING,Dominic,Rufran,TD,1
+455032,11/30/2013,FBS,Wyoming,Utah State,RECEIVING,Dominic,Rufran,LONG,60
+455033,11/30/2013,FBS,Wyoming,Utah State,RECEIVING,Robert,Herron,REC,4
+455034,11/30/2013,FBS,Wyoming,Utah State,RECEIVING,Robert,Herron,YDS,8
+455035,11/30/2013,FBS,Wyoming,Utah State,RECEIVING,Robert,Herron,TD,0
+455036,11/30/2013,FBS,Wyoming,Utah State,RECEIVING,Robert,Herron,LONG,8
+455037,11/30/2013,FBS,Wyoming,Utah State,RECEIVING,Shaun,Wick,REC,2
+455038,11/30/2013,FBS,Wyoming,Utah State,RECEIVING,Shaun,Wick,YDS,21
+455039,11/30/2013,FBS,Wyoming,Utah State,RECEIVING,Shaun,Wick,TD,0
+455040,11/30/2013,FBS,Wyoming,Utah State,RECEIVING,Shaun,Wick,LONG,11
+455041,11/30/2013,FBS,Wyoming,Utah State,RECEIVING,Brandon,Miller,REC,1
+455042,11/30/2013,FBS,Wyoming,Utah State,RECEIVING,Brandon,Miller,YDS,0
+455043,11/30/2013,FBS,Wyoming,Utah State,RECEIVING,Brandon,Miller,TD,0
+455044,11/30/2013,FBS,Wyoming,Utah State,RECEIVING,Brandon,Miller,LONG,0
+455045,11/30/2013,FBS,Wyoming,Utah State,KICKING,Stuart,Williams,FG-FGA,0/0
+455046,11/30/2013,FBS,Wyoming,Utah State,KICKING,Stuart,Williams,LONG,-
+455047,11/30/2013,FBS,Wyoming,Utah State,KICKING,Stuart,Williams,XP,1
+455048,11/30/2013,FBS,Wyoming,Utah State,KICKING,Stuart,Williams,PTS,1
+455049,11/30/2013,FBS,Wyoming,Utah State,PUNTING,Ethan,Wood,NO,9
+455050,11/30/2013,FBS,Wyoming,Utah State,PUNTING,Ethan,Wood,YDS,377
+455051,11/30/2013,FBS,Wyoming,Utah State,PUNTING,Ethan,Wood,AVG,41.9
+455052,11/30/2013,FBS,Wyoming,Utah State,PUNTING,Ethan,Wood,LONG,64
+455053,11/30/2013,FBS,Wyoming,Utah State,PUNT RETURNS,Jalen,Claiborne,NO,1
+455054,11/30/2013,FBS,Wyoming,Utah State,PUNT RETURNS,Jalen,Claiborne,YDS,-5
+455055,11/30/2013,FBS,Wyoming,Utah State,PUNT RETURNS,Jalen,Claiborne,AVG,-5.0
+455056,11/30/2013,FBS,Wyoming,Utah State,PUNT RETURNS,Jalen,Claiborne,LONG,0
+455057,11/30/2013,FBS,Wyoming,Utah State,KICK RETURNS,Jalen,Claiborne,NO,1
+455058,11/30/2013,FBS,Wyoming,Utah State,KICK RETURNS,Jalen,Claiborne,YDS,9
+455059,11/30/2013,FBS,Wyoming,Utah State,KICK RETURNS,Jalen,Claiborne,AVG,9.0
+455060,11/30/2013,FBS,Wyoming,Utah State,KICK RETURNS,Jalen,Claiborne,LONG,9
+455061,11/30/2013,FBS,Utah State,Wyoming,RUSHING,Joey,DeMartino,ATT,20
+455062,11/30/2013,FBS,Utah State,Wyoming,RUSHING,Joey,DeMartino,YDS,112
+455063,11/30/2013,FBS,Utah State,Wyoming,RUSHING,Joey,DeMartino,TD,1
+455064,11/30/2013,FBS,Utah State,Wyoming,RUSHING,Joey,DeMartino,LONG,22
+455065,11/30/2013,FBS,Utah State,Wyoming,RUSHING,Robert,Marshall,ATT,10
+455066,11/30/2013,FBS,Utah State,Wyoming,RUSHING,Robert,Marshall,YDS,46
+455067,11/30/2013,FBS,Utah State,Wyoming,RUSHING,Robert,Marshall,TD,0
+455068,11/30/2013,FBS,Utah State,Wyoming,RUSHING,Robert,Marshall,LONG,12
+455069,11/30/2013,FBS,Utah State,Wyoming,RUSHING,Darell,Garretson,ATT,7
+455070,11/30/2013,FBS,Utah State,Wyoming,RUSHING,Darell,Garretson,YDS,12
+455071,11/30/2013,FBS,Utah State,Wyoming,RUSHING,Darell,Garretson,TD,0
+455072,11/30/2013,FBS,Utah State,Wyoming,RUSHING,Darell,Garretson,LONG,13
+455073,11/30/2013,FBS,Utah State,Wyoming,RUSHING,Ronald,Butler,ATT,1
+455074,11/30/2013,FBS,Utah State,Wyoming,RUSHING,Ronald,Butler,YDS,4
+455075,11/30/2013,FBS,Utah State,Wyoming,RUSHING,Ronald,Butler,TD,0
+455076,11/30/2013,FBS,Utah State,Wyoming,RUSHING,Ronald,Butler,LONG,4
+455077,11/30/2013,FBS,Utah State,Wyoming,RUSHING,Kennedy,Williams,ATT,1
+455078,11/30/2013,FBS,Utah State,Wyoming,RUSHING,Kennedy,Williams,YDS,-2
+455079,11/30/2013,FBS,Utah State,Wyoming,RUSHING,Kennedy,Williams,TD,0
+455080,11/30/2013,FBS,Utah State,Wyoming,RUSHING,Kennedy,Williams,LONG,0
+455081,11/30/2013,FBS,Utah State,Wyoming,RUSHING,,Team,ATT,3
+455082,11/30/2013,FBS,Utah State,Wyoming,RUSHING,,Team,YDS,-6
+455083,11/30/2013,FBS,Utah State,Wyoming,RUSHING,,Team,TD,0
+455084,11/30/2013,FBS,Utah State,Wyoming,RUSHING,,Team,LONG,0
+455085,11/30/2013,FBS,Utah State,Wyoming,RUSHING,Bruce,Natson,ATT,3
+455086,11/30/2013,FBS,Utah State,Wyoming,RUSHING,Bruce,Natson,YDS,-12
+455087,11/30/2013,FBS,Utah State,Wyoming,RUSHING,Bruce,Natson,TD,0
+455088,11/30/2013,FBS,Utah State,Wyoming,RUSHING,Bruce,Natson,LONG,4
+455089,11/30/2013,FBS,Utah State,Wyoming,PASSING,Darell,Garretson,CP-ATT-INT,20-29-1
+455090,11/30/2013,FBS,Utah State,Wyoming,PASSING,Darell,Garretson,YDS,156
+455091,11/30/2013,FBS,Utah State,Wyoming,PASSING,Darell,Garretson,TD,3
+455092,11/30/2013,FBS,Utah State,Wyoming,PASSING,Darell,Garretson,LONG,26
+455093,11/30/2013,FBS,Utah State,Wyoming,PASSING,Bruce,Natson,CP-ATT-INT,0-1-0
+455094,11/30/2013,FBS,Utah State,Wyoming,PASSING,Bruce,Natson,YDS,0
+455095,11/30/2013,FBS,Utah State,Wyoming,PASSING,Bruce,Natson,TD,0
+455096,11/30/2013,FBS,Utah State,Wyoming,PASSING,Bruce,Natson,LONG,0
+455097,11/30/2013,FBS,Utah State,Wyoming,RECEIVING,Travis,VanLeeuwen,REC,6
+455098,11/30/2013,FBS,Utah State,Wyoming,RECEIVING,Travis,VanLeeuwen,YDS,45
+455099,11/30/2013,FBS,Utah State,Wyoming,RECEIVING,Travis,VanLeeuwen,TD,0
+455100,11/30/2013,FBS,Utah State,Wyoming,RECEIVING,Travis,VanLeeuwen,LONG,22
+455101,11/30/2013,FBS,Utah State,Wyoming,RECEIVING,Bruce,Natson,REC,6
+455102,11/30/2013,FBS,Utah State,Wyoming,RECEIVING,Bruce,Natson,YDS,14
+455103,11/30/2013,FBS,Utah State,Wyoming,RECEIVING,Bruce,Natson,TD,1
+455104,11/30/2013,FBS,Utah State,Wyoming,RECEIVING,Bruce,Natson,LONG,6
+455105,11/30/2013,FBS,Utah State,Wyoming,RECEIVING,Brandon,Swindall,REC,2
+455106,11/30/2013,FBS,Utah State,Wyoming,RECEIVING,Brandon,Swindall,YDS,32
+455107,11/30/2013,FBS,Utah State,Wyoming,RECEIVING,Brandon,Swindall,TD,1
+455108,11/30/2013,FBS,Utah State,Wyoming,RECEIVING,Brandon,Swindall,LONG,26
+455109,11/30/2013,FBS,Utah State,Wyoming,RECEIVING,Joey,DeMartino,REC,1
+455110,11/30/2013,FBS,Utah State,Wyoming,RECEIVING,Joey,DeMartino,YDS,21
+455111,11/30/2013,FBS,Utah State,Wyoming,RECEIVING,Joey,DeMartino,TD,0
+455112,11/30/2013,FBS,Utah State,Wyoming,RECEIVING,Joey,DeMartino,LONG,21
+455113,11/30/2013,FBS,Utah State,Wyoming,RECEIVING,Keegan,Andersen,REC,1
+455114,11/30/2013,FBS,Utah State,Wyoming,RECEIVING,Keegan,Andersen,YDS,21
+455115,11/30/2013,FBS,Utah State,Wyoming,RECEIVING,Keegan,Andersen,TD,0
+455116,11/30/2013,FBS,Utah State,Wyoming,RECEIVING,Keegan,Andersen,LONG,21
+455117,11/30/2013,FBS,Utah State,Wyoming,RECEIVING,Ronald,Butler,REC,1
+455118,11/30/2013,FBS,Utah State,Wyoming,RECEIVING,Ronald,Butler,YDS,11
+455119,11/30/2013,FBS,Utah State,Wyoming,RECEIVING,Ronald,Butler,TD,0
+455120,11/30/2013,FBS,Utah State,Wyoming,RECEIVING,Ronald,Butler,LONG,11
+455121,11/30/2013,FBS,Utah State,Wyoming,RECEIVING,Wyatt,Houston,REC,1
+455122,11/30/2013,FBS,Utah State,Wyoming,RECEIVING,Wyatt,Houston,YDS,6
+455123,11/30/2013,FBS,Utah State,Wyoming,RECEIVING,Wyatt,Houston,TD,1
+455124,11/30/2013,FBS,Utah State,Wyoming,RECEIVING,Wyatt,Houston,LONG,6
+455125,11/30/2013,FBS,Utah State,Wyoming,RECEIVING,Shaan,Johnson,REC,1
+455126,11/30/2013,FBS,Utah State,Wyoming,RECEIVING,Shaan,Johnson,YDS,5
+455127,11/30/2013,FBS,Utah State,Wyoming,RECEIVING,Shaan,Johnson,TD,0
+455128,11/30/2013,FBS,Utah State,Wyoming,RECEIVING,Shaan,Johnson,LONG,5
+455129,11/30/2013,FBS,Utah State,Wyoming,RECEIVING,Kennedy,Williams,REC,1
+455130,11/30/2013,FBS,Utah State,Wyoming,RECEIVING,Kennedy,Williams,YDS,1
+455131,11/30/2013,FBS,Utah State,Wyoming,RECEIVING,Kennedy,Williams,TD,0
+455132,11/30/2013,FBS,Utah State,Wyoming,RECEIVING,Kennedy,Williams,LONG,1
+455133,11/30/2013,FBS,Utah State,Wyoming,KICKING,Nick,Diaz,FG-FGA,0/0
+455134,11/30/2013,FBS,Utah State,Wyoming,KICKING,Nick,Diaz,LONG,-
+455135,11/30/2013,FBS,Utah State,Wyoming,KICKING,Nick,Diaz,XP,5
+455136,11/30/2013,FBS,Utah State,Wyoming,KICKING,Nick,Diaz,PTS,5
+455137,11/30/2013,FBS,Utah State,Wyoming,PUNTING,Jaron,Bentrude,NO,6
+455138,11/30/2013,FBS,Utah State,Wyoming,PUNTING,Jaron,Bentrude,YDS,260
+455139,11/30/2013,FBS,Utah State,Wyoming,PUNTING,Jaron,Bentrude,AVG,43.3
+455140,11/30/2013,FBS,Utah State,Wyoming,PUNTING,Jaron,Bentrude,LONG,50
+455141,11/30/2013,FBS,Utah State,Wyoming,PUNT RETURNS,Bruce,Natson,NO,4
+455142,11/30/2013,FBS,Utah State,Wyoming,PUNT RETURNS,Bruce,Natson,YDS,93
+455143,11/30/2013,FBS,Utah State,Wyoming,PUNT RETURNS,Bruce,Natson,AVG,23.2
+455144,11/30/2013,FBS,Utah State,Wyoming,PUNT RETURNS,Bruce,Natson,LONG,64
+455145,11/30/2013,FBS,Utah State,Wyoming,PUNT RETURNS,Devin,Centers,NO,1
+455146,11/30/2013,FBS,Utah State,Wyoming,PUNT RETURNS,Devin,Centers,YDS,0
+455147,11/30/2013,FBS,Utah State,Wyoming,PUNT RETURNS,Devin,Centers,AVG,0.0
+455148,11/30/2013,FBS,Utah State,Wyoming,PUNT RETURNS,Devin,Centers,LONG,0
+455149,11/30/2013,FBS,Utah State,Wyoming,KICK RETURNS,Tay,Glover-Wright,NO,1
+455150,11/30/2013,FBS,Utah State,Wyoming,KICK RETURNS,Tay,Glover-Wright,YDS,27
+455151,11/30/2013,FBS,Utah State,Wyoming,KICK RETURNS,Tay,Glover-Wright,AVG,27.0
+455152,11/30/2013,FBS,Utah State,Wyoming,KICK RETURNS,Tay,Glover-Wright,LONG,27

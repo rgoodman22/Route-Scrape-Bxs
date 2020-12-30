@@ -1,0 +1,161 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+100001,10/12/2013,FBS,Troy,Georgia State,RUSHING,Brandon,Burks,ATT,23
+100002,10/12/2013,FBS,Troy,Georgia State,RUSHING,Brandon,Burks,YDS,113
+100003,10/12/2013,FBS,Troy,Georgia State,RUSHING,Brandon,Burks,TD,0
+100004,10/12/2013,FBS,Troy,Georgia State,RUSHING,Brandon,Burks,LONG,13
+100005,10/12/2013,FBS,Troy,Georgia State,RUSHING,Jordan,Chunn,ATT,22
+100006,10/12/2013,FBS,Troy,Georgia State,RUSHING,Jordan,Chunn,YDS,91
+100007,10/12/2013,FBS,Troy,Georgia State,RUSHING,Jordan,Chunn,TD,2
+100008,10/12/2013,FBS,Troy,Georgia State,RUSHING,Jordan,Chunn,LONG,14
+100009,10/12/2013,FBS,Troy,Georgia State,RUSHING,Deon,Anthony,ATT,9
+100010,10/12/2013,FBS,Troy,Georgia State,RUSHING,Deon,Anthony,YDS,58
+100011,10/12/2013,FBS,Troy,Georgia State,RUSHING,Deon,Anthony,TD,0
+100012,10/12/2013,FBS,Troy,Georgia State,RUSHING,Deon,Anthony,LONG,22
+100013,10/12/2013,FBS,Troy,Georgia State,RUSHING,,Team,ATT,2
+100014,10/12/2013,FBS,Troy,Georgia State,RUSHING,,Team,YDS,-6
+100015,10/12/2013,FBS,Troy,Georgia State,RUSHING,,Team,TD,0
+100016,10/12/2013,FBS,Troy,Georgia State,RUSHING,,Team,LONG,0
+100017,10/12/2013,FBS,Troy,Georgia State,RUSHING,Corey,Robinson,ATT,3
+100018,10/12/2013,FBS,Troy,Georgia State,RUSHING,Corey,Robinson,YDS,-7
+100019,10/12/2013,FBS,Troy,Georgia State,RUSHING,Corey,Robinson,TD,0
+100020,10/12/2013,FBS,Troy,Georgia State,RUSHING,Corey,Robinson,LONG,0
+100021,10/12/2013,FBS,Troy,Georgia State,PASSING,Corey,Robinson,CP-ATT-INT,21-37-2
+100022,10/12/2013,FBS,Troy,Georgia State,PASSING,Corey,Robinson,YDS,350
+100023,10/12/2013,FBS,Troy,Georgia State,PASSING,Corey,Robinson,TD,3
+100024,10/12/2013,FBS,Troy,Georgia State,PASSING,Corey,Robinson,LONG,54
+100025,10/12/2013,FBS,Troy,Georgia State,PASSING,Deon,Anthony,CP-ATT-INT,4-6-0
+100026,10/12/2013,FBS,Troy,Georgia State,PASSING,Deon,Anthony,YDS,35
+100027,10/12/2013,FBS,Troy,Georgia State,PASSING,Deon,Anthony,TD,0
+100028,10/12/2013,FBS,Troy,Georgia State,PASSING,Deon,Anthony,LONG,23
+100029,10/12/2013,FBS,Troy,Georgia State,RECEIVING,Eric,Thomas,REC,6
+100030,10/12/2013,FBS,Troy,Georgia State,RECEIVING,Eric,Thomas,YDS,113
+100031,10/12/2013,FBS,Troy,Georgia State,RECEIVING,Eric,Thomas,TD,1
+100032,10/12/2013,FBS,Troy,Georgia State,RECEIVING,Eric,Thomas,LONG,37
+100033,10/12/2013,FBS,Troy,Georgia State,RECEIVING,Chris,Williams,REC,4
+100034,10/12/2013,FBS,Troy,Georgia State,RECEIVING,Chris,Williams,YDS,152
+100035,10/12/2013,FBS,Troy,Georgia State,RECEIVING,Chris,Williams,TD,1
+100036,10/12/2013,FBS,Troy,Georgia State,RECEIVING,Chris,Williams,LONG,54
+100037,10/12/2013,FBS,Troy,Georgia State,RECEIVING,Felton,Payton,REC,4
+100038,10/12/2013,FBS,Troy,Georgia State,RECEIVING,Felton,Payton,YDS,33
+100039,10/12/2013,FBS,Troy,Georgia State,RECEIVING,Felton,Payton,TD,0
+100040,10/12/2013,FBS,Troy,Georgia State,RECEIVING,Felton,Payton,LONG,11
+100041,10/12/2013,FBS,Troy,Georgia State,RECEIVING,K.D.,Edenfield,REC,3
+100042,10/12/2013,FBS,Troy,Georgia State,RECEIVING,K.D.,Edenfield,YDS,50
+100043,10/12/2013,FBS,Troy,Georgia State,RECEIVING,K.D.,Edenfield,TD,0
+100044,10/12/2013,FBS,Troy,Georgia State,RECEIVING,K.D.,Edenfield,LONG,22
+100045,10/12/2013,FBS,Troy,Georgia State,RECEIVING,Brandon,Burks,REC,3
+100046,10/12/2013,FBS,Troy,Georgia State,RECEIVING,Brandon,Burks,YDS,7
+100047,10/12/2013,FBS,Troy,Georgia State,RECEIVING,Brandon,Burks,TD,0
+100048,10/12/2013,FBS,Troy,Georgia State,RECEIVING,Brandon,Burks,LONG,6
+100049,10/12/2013,FBS,Troy,Georgia State,RECEIVING,Bryan,Holmes,REC,2
+100050,10/12/2013,FBS,Troy,Georgia State,RECEIVING,Bryan,Holmes,YDS,17
+100051,10/12/2013,FBS,Troy,Georgia State,RECEIVING,Bryan,Holmes,TD,1
+100052,10/12/2013,FBS,Troy,Georgia State,RECEIVING,Bryan,Holmes,LONG,13
+100053,10/12/2013,FBS,Troy,Georgia State,RECEIVING,Trey,Page,REC,1
+100054,10/12/2013,FBS,Troy,Georgia State,RECEIVING,Trey,Page,YDS,6
+100055,10/12/2013,FBS,Troy,Georgia State,RECEIVING,Trey,Page,TD,0
+100056,10/12/2013,FBS,Troy,Georgia State,RECEIVING,Trey,Page,LONG,6
+100057,10/12/2013,FBS,Troy,Georgia State,RECEIVING,Daron,White,REC,1
+100058,10/12/2013,FBS,Troy,Georgia State,RECEIVING,Daron,White,YDS,4
+100059,10/12/2013,FBS,Troy,Georgia State,RECEIVING,Daron,White,TD,0
+100060,10/12/2013,FBS,Troy,Georgia State,RECEIVING,Daron,White,LONG,4
+100061,10/12/2013,FBS,Troy,Georgia State,RECEIVING,Wilson,VanHooser,REC,1
+100062,10/12/2013,FBS,Troy,Georgia State,RECEIVING,Wilson,VanHooser,YDS,3
+100063,10/12/2013,FBS,Troy,Georgia State,RECEIVING,Wilson,VanHooser,TD,0
+100064,10/12/2013,FBS,Troy,Georgia State,RECEIVING,Wilson,VanHooser,LONG,3
+100065,10/12/2013,FBS,Troy,Georgia State,KICKING,Will,Scott,FG-FGA,0/0
+100066,10/12/2013,FBS,Troy,Georgia State,KICKING,Will,Scott,LONG,-
+100067,10/12/2013,FBS,Troy,Georgia State,KICKING,Will,Scott,XP,5
+100068,10/12/2013,FBS,Troy,Georgia State,KICKING,Will,Scott,PTS,5
+100069,10/12/2013,FBS,Troy,Georgia State,PUNTING,Will,Scott,NO,6
+100070,10/12/2013,FBS,Troy,Georgia State,PUNTING,Will,Scott,YDS,282
+100071,10/12/2013,FBS,Troy,Georgia State,PUNTING,Will,Scott,AVG,47.0
+100072,10/12/2013,FBS,Troy,Georgia State,PUNTING,Will,Scott,LONG,63
+100073,10/12/2013,FBS,Troy,Georgia State,PUNTING,,Team,NO,1
+100074,10/12/2013,FBS,Troy,Georgia State,PUNTING,,Team,YDS,8
+100075,10/12/2013,FBS,Troy,Georgia State,PUNTING,,Team,AVG,8.0
+100076,10/12/2013,FBS,Troy,Georgia State,PUNTING,,Team,LONG,8
+100077,10/12/2013,FBS,Troy,Georgia State,KICK RETURNS,Wilson,VanHooser,NO,1
+100078,10/12/2013,FBS,Troy,Georgia State,KICK RETURNS,Wilson,VanHooser,YDS,16
+100079,10/12/2013,FBS,Troy,Georgia State,KICK RETURNS,Wilson,VanHooser,AVG,16.0
+100080,10/12/2013,FBS,Troy,Georgia State,KICK RETURNS,Wilson,VanHooser,LONG,16
+100081,10/12/2013,FBS,Troy,Georgia State,KICK RETURNS,Jordan,Chunn,NO,1
+100082,10/12/2013,FBS,Troy,Georgia State,KICK RETURNS,Jordan,Chunn,YDS,16
+100083,10/12/2013,FBS,Troy,Georgia State,KICK RETURNS,Jordan,Chunn,AVG,16.0
+100084,10/12/2013,FBS,Troy,Georgia State,KICK RETURNS,Jordan,Chunn,LONG,16
+100085,10/12/2013,FBS,Georgia State,Troy,RUSHING,Travis,Evans,ATT,10
+100086,10/12/2013,FBS,Georgia State,Troy,RUSHING,Travis,Evans,YDS,30
+100087,10/12/2013,FBS,Georgia State,Troy,RUSHING,Travis,Evans,TD,0
+100088,10/12/2013,FBS,Georgia State,Troy,RUSHING,Travis,Evans,LONG,8
+100089,10/12/2013,FBS,Georgia State,Troy,RUSHING,Jonathan,Jean-Bart,ATT,9
+100090,10/12/2013,FBS,Georgia State,Troy,RUSHING,Jonathan,Jean-Bart,YDS,27
+100091,10/12/2013,FBS,Georgia State,Troy,RUSHING,Jonathan,Jean-Bart,TD,0
+100092,10/12/2013,FBS,Georgia State,Troy,RUSHING,Jonathan,Jean-Bart,LONG,10
+100093,10/12/2013,FBS,Georgia State,Troy,RUSHING,Albert,Wilson,ATT,1
+100094,10/12/2013,FBS,Georgia State,Troy,RUSHING,Albert,Wilson,YDS,1
+100095,10/12/2013,FBS,Georgia State,Troy,RUSHING,Albert,Wilson,TD,0
+100096,10/12/2013,FBS,Georgia State,Troy,RUSHING,Albert,Wilson,LONG,1
+100097,10/12/2013,FBS,Georgia State,Troy,RUSHING,Ronnie,Bell,ATT,6
+100098,10/12/2013,FBS,Georgia State,Troy,RUSHING,Ronnie,Bell,YDS,-6
+100099,10/12/2013,FBS,Georgia State,Troy,RUSHING,Ronnie,Bell,TD,0
+100100,10/12/2013,FBS,Georgia State,Troy,RUSHING,Ronnie,Bell,LONG,22
+100101,10/12/2013,FBS,Georgia State,Troy,PASSING,Ronnie,Bell,CP-ATT-INT,22-50-1
+100102,10/12/2013,FBS,Georgia State,Troy,PASSING,Ronnie,Bell,YDS,370
+100103,10/12/2013,FBS,Georgia State,Troy,PASSING,Ronnie,Bell,TD,4
+100104,10/12/2013,FBS,Georgia State,Troy,PASSING,Ronnie,Bell,LONG,38
+100105,10/12/2013,FBS,Georgia State,Troy,RECEIVING,Albert,Wilson,REC,7
+100106,10/12/2013,FBS,Georgia State,Troy,RECEIVING,Albert,Wilson,YDS,153
+100107,10/12/2013,FBS,Georgia State,Troy,RECEIVING,Albert,Wilson,TD,2
+100108,10/12/2013,FBS,Georgia State,Troy,RECEIVING,Albert,Wilson,LONG,38
+100109,10/12/2013,FBS,Georgia State,Troy,RECEIVING,Kelton,Hill,REC,6
+100110,10/12/2013,FBS,Georgia State,Troy,RECEIVING,Kelton,Hill,YDS,60
+100111,10/12/2013,FBS,Georgia State,Troy,RECEIVING,Kelton,Hill,TD,1
+100112,10/12/2013,FBS,Georgia State,Troy,RECEIVING,Kelton,Hill,LONG,30
+100113,10/12/2013,FBS,Georgia State,Troy,RECEIVING,Robert,Davis,REC,4
+100114,10/12/2013,FBS,Georgia State,Troy,RECEIVING,Robert,Davis,YDS,76
+100115,10/12/2013,FBS,Georgia State,Troy,RECEIVING,Robert,Davis,TD,1
+100116,10/12/2013,FBS,Georgia State,Troy,RECEIVING,Robert,Davis,LONG,31
+100117,10/12/2013,FBS,Georgia State,Troy,RECEIVING,Travis,Evans,REC,1
+100118,10/12/2013,FBS,Georgia State,Troy,RECEIVING,Travis,Evans,YDS,33
+100119,10/12/2013,FBS,Georgia State,Troy,RECEIVING,Travis,Evans,TD,0
+100120,10/12/2013,FBS,Georgia State,Troy,RECEIVING,Travis,Evans,LONG,33
+100121,10/12/2013,FBS,Georgia State,Troy,RECEIVING,Jonathan,Jean-Bart,REC,1
+100122,10/12/2013,FBS,Georgia State,Troy,RECEIVING,Jonathan,Jean-Bart,YDS,26
+100123,10/12/2013,FBS,Georgia State,Troy,RECEIVING,Jonathan,Jean-Bart,TD,0
+100124,10/12/2013,FBS,Georgia State,Troy,RECEIVING,Jonathan,Jean-Bart,LONG,26
+100125,10/12/2013,FBS,Georgia State,Troy,RECEIVING,Avery,Sweeting,REC,1
+100126,10/12/2013,FBS,Georgia State,Troy,RECEIVING,Avery,Sweeting,YDS,13
+100127,10/12/2013,FBS,Georgia State,Troy,RECEIVING,Avery,Sweeting,TD,0
+100128,10/12/2013,FBS,Georgia State,Troy,RECEIVING,Avery,Sweeting,LONG,13
+100129,10/12/2013,FBS,Georgia State,Troy,RECEIVING,Lynquez,Blair,REC,1
+100130,10/12/2013,FBS,Georgia State,Troy,RECEIVING,Lynquez,Blair,YDS,7
+100131,10/12/2013,FBS,Georgia State,Troy,RECEIVING,Lynquez,Blair,TD,0
+100132,10/12/2013,FBS,Georgia State,Troy,RECEIVING,Lynquez,Blair,LONG,7
+100133,10/12/2013,FBS,Georgia State,Troy,RECEIVING,Sean,Jeppesen,REC,1
+100134,10/12/2013,FBS,Georgia State,Troy,RECEIVING,Sean,Jeppesen,YDS,2
+100135,10/12/2013,FBS,Georgia State,Troy,RECEIVING,Sean,Jeppesen,TD,0
+100136,10/12/2013,FBS,Georgia State,Troy,RECEIVING,Sean,Jeppesen,LONG,2
+100137,10/12/2013,FBS,Georgia State,Troy,KICKING,Wil,Lutz,FG-FGA,0/1
+100138,10/12/2013,FBS,Georgia State,Troy,KICKING,Wil,Lutz,LONG,-
+100139,10/12/2013,FBS,Georgia State,Troy,KICKING,Wil,Lutz,XP,4
+100140,10/12/2013,FBS,Georgia State,Troy,KICKING,Wil,Lutz,PTS,4
+100141,10/12/2013,FBS,Georgia State,Troy,PUNTING,Matt,Hubbard,NO,10
+100142,10/12/2013,FBS,Georgia State,Troy,PUNTING,Matt,Hubbard,YDS,398
+100143,10/12/2013,FBS,Georgia State,Troy,PUNTING,Matt,Hubbard,AVG,39.8
+100144,10/12/2013,FBS,Georgia State,Troy,PUNTING,Matt,Hubbard,LONG,52
+100145,10/12/2013,FBS,Georgia State,Troy,PUNT RETURNS,Albert,Wilson,NO,1
+100146,10/12/2013,FBS,Georgia State,Troy,PUNT RETURNS,Albert,Wilson,YDS,-5
+100147,10/12/2013,FBS,Georgia State,Troy,PUNT RETURNS,Albert,Wilson,AVG,-5.0
+100148,10/12/2013,FBS,Georgia State,Troy,PUNT RETURNS,Albert,Wilson,LONG,0
+100149,10/12/2013,FBS,Georgia State,Troy,KICK RETURNS,Albert,Wilson,NO,2
+100150,10/12/2013,FBS,Georgia State,Troy,KICK RETURNS,Albert,Wilson,YDS,119
+100151,10/12/2013,FBS,Georgia State,Troy,KICK RETURNS,Albert,Wilson,AVG,59.5
+100152,10/12/2013,FBS,Georgia State,Troy,KICK RETURNS,Albert,Wilson,LONG,71
+100153,10/12/2013,FBS,Georgia State,Troy,KICK RETURNS,John,Kelly,NO,1
+100154,10/12/2013,FBS,Georgia State,Troy,KICK RETURNS,John,Kelly,YDS,6
+100155,10/12/2013,FBS,Georgia State,Troy,KICK RETURNS,John,Kelly,AVG,6.0
+100156,10/12/2013,FBS,Georgia State,Troy,KICK RETURNS,John,Kelly,LONG,6
+100157,10/12/2013,FBS,Georgia State,Troy,KICK RETURNS,Kelton,Hill,NO,1
+100158,10/12/2013,FBS,Georgia State,Troy,KICK RETURNS,Kelton,Hill,YDS,0
+100159,10/12/2013,FBS,Georgia State,Troy,KICK RETURNS,Kelton,Hill,AVG,0.0
+100160,10/12/2013,FBS,Georgia State,Troy,KICK RETURNS,Kelton,Hill,LONG,0

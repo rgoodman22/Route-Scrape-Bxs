@@ -1,0 +1,185 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+79001,9/5/2013,FBS,Sacramento St.,Arizona State,RUSHING,Ezekiel,Graham,ATT,11
+79002,9/5/2013,FBS,Sacramento St.,Arizona State,RUSHING,Ezekiel,Graham,YDS,21
+79003,9/5/2013,FBS,Sacramento St.,Arizona State,RUSHING,Ezekiel,Graham,TD,0
+79004,9/5/2013,FBS,Sacramento St.,Arizona State,RUSHING,Ezekiel,Graham,LONG,6
+79005,9/5/2013,FBS,Sacramento St.,Arizona State,RUSHING,Demetrius,Warren,ATT,8
+79006,9/5/2013,FBS,Sacramento St.,Arizona State,RUSHING,Demetrius,Warren,YDS,18
+79007,9/5/2013,FBS,Sacramento St.,Arizona State,RUSHING,Demetrius,Warren,TD,0
+79008,9/5/2013,FBS,Sacramento St.,Arizona State,RUSHING,Demetrius,Warren,LONG,7
+79009,9/5/2013,FBS,Sacramento St.,Arizona State,RUSHING,De'jon,Coleman,ATT,2
+79010,9/5/2013,FBS,Sacramento St.,Arizona State,RUSHING,De'jon,Coleman,YDS,8
+79011,9/5/2013,FBS,Sacramento St.,Arizona State,RUSHING,De'jon,Coleman,TD,0
+79012,9/5/2013,FBS,Sacramento St.,Arizona State,RUSHING,De'jon,Coleman,LONG,5
+79013,9/5/2013,FBS,Sacramento St.,Arizona State,RUSHING,Garrett,Safron,ATT,5
+79014,9/5/2013,FBS,Sacramento St.,Arizona State,RUSHING,Garrett,Safron,YDS,4
+79015,9/5/2013,FBS,Sacramento St.,Arizona State,RUSHING,Garrett,Safron,TD,0
+79016,9/5/2013,FBS,Sacramento St.,Arizona State,RUSHING,Garrett,Safron,LONG,2
+79017,9/5/2013,FBS,Sacramento St.,Arizona State,RUSHING,Jihad,Vercher,ATT,4
+79018,9/5/2013,FBS,Sacramento St.,Arizona State,RUSHING,Jihad,Vercher,YDS,1
+79019,9/5/2013,FBS,Sacramento St.,Arizona State,RUSHING,Jihad,Vercher,TD,0
+79020,9/5/2013,FBS,Sacramento St.,Arizona State,RUSHING,Jihad,Vercher,LONG,8
+79021,9/5/2013,FBS,Sacramento St.,Arizona State,RUSHING,,Team,ATT,1
+79022,9/5/2013,FBS,Sacramento St.,Arizona State,RUSHING,,Team,YDS,-1
+79023,9/5/2013,FBS,Sacramento St.,Arizona State,RUSHING,,Team,TD,0
+79024,9/5/2013,FBS,Sacramento St.,Arizona State,RUSHING,,Team,LONG,0
+79025,9/5/2013,FBS,Sacramento St.,Arizona State,PASSING,Garrett,Safron,CP-ATT-INT,11-21-2
+79026,9/5/2013,FBS,Sacramento St.,Arizona State,PASSING,Garrett,Safron,YDS,111
+79027,9/5/2013,FBS,Sacramento St.,Arizona State,PASSING,Garrett,Safron,TD,0
+79028,9/5/2013,FBS,Sacramento St.,Arizona State,PASSING,Garrett,Safron,LONG,30
+79029,9/5/2013,FBS,Sacramento St.,Arizona State,PASSING,Jihad,Vercher,CP-ATT-INT,1-2-0
+79030,9/5/2013,FBS,Sacramento St.,Arizona State,PASSING,Jihad,Vercher,YDS,5
+79031,9/5/2013,FBS,Sacramento St.,Arizona State,PASSING,Jihad,Vercher,TD,0
+79032,9/5/2013,FBS,Sacramento St.,Arizona State,PASSING,Jihad,Vercher,LONG,5
+79033,9/5/2013,FBS,Sacramento St.,Arizona State,RECEIVING,Morris,Norrise,REC,6
+79034,9/5/2013,FBS,Sacramento St.,Arizona State,RECEIVING,Morris,Norrise,YDS,50
+79035,9/5/2013,FBS,Sacramento St.,Arizona State,RECEIVING,Morris,Norrise,TD,0
+79036,9/5/2013,FBS,Sacramento St.,Arizona State,RECEIVING,Morris,Norrise,LONG,11
+79037,9/5/2013,FBS,Sacramento St.,Arizona State,RECEIVING,Shane,Harrison,REC,3
+79038,9/5/2013,FBS,Sacramento St.,Arizona State,RECEIVING,Shane,Harrison,YDS,39
+79039,9/5/2013,FBS,Sacramento St.,Arizona State,RECEIVING,Shane,Harrison,TD,0
+79040,9/5/2013,FBS,Sacramento St.,Arizona State,RECEIVING,Shane,Harrison,LONG,30
+79041,9/5/2013,FBS,Sacramento St.,Arizona State,RECEIVING,Chris,Broadnax,REC,1
+79042,9/5/2013,FBS,Sacramento St.,Arizona State,RECEIVING,Chris,Broadnax,YDS,15
+79043,9/5/2013,FBS,Sacramento St.,Arizona State,RECEIVING,Chris,Broadnax,TD,0
+79044,9/5/2013,FBS,Sacramento St.,Arizona State,RECEIVING,Chris,Broadnax,LONG,15
+79045,9/5/2013,FBS,Sacramento St.,Arizona State,RECEIVING,DeAndre,Carter,REC,1
+79046,9/5/2013,FBS,Sacramento St.,Arizona State,RECEIVING,DeAndre,Carter,YDS,7
+79047,9/5/2013,FBS,Sacramento St.,Arizona State,RECEIVING,DeAndre,Carter,TD,0
+79048,9/5/2013,FBS,Sacramento St.,Arizona State,RECEIVING,DeAndre,Carter,LONG,7
+79049,9/5/2013,FBS,Sacramento St.,Arizona State,RECEIVING,Nnamdi,Agude,REC,1
+79050,9/5/2013,FBS,Sacramento St.,Arizona State,RECEIVING,Nnamdi,Agude,YDS,5
+79051,9/5/2013,FBS,Sacramento St.,Arizona State,RECEIVING,Nnamdi,Agude,TD,0
+79052,9/5/2013,FBS,Sacramento St.,Arizona State,RECEIVING,Nnamdi,Agude,LONG,5
+79053,9/5/2013,FBS,Sacramento St.,Arizona State,KICKING,Jesse,Aguilar,FG-FGA,0/1
+79054,9/5/2013,FBS,Sacramento St.,Arizona State,KICKING,Jesse,Aguilar,LONG,-
+79055,9/5/2013,FBS,Sacramento St.,Arizona State,KICKING,Jesse,Aguilar,XP,0
+79056,9/5/2013,FBS,Sacramento St.,Arizona State,KICKING,Jesse,Aguilar,PTS,0
+79057,9/5/2013,FBS,Sacramento St.,Arizona State,PUNTING,Justin,Weldon,NO,9
+79058,9/5/2013,FBS,Sacramento St.,Arizona State,PUNTING,Justin,Weldon,YDS,389
+79059,9/5/2013,FBS,Sacramento St.,Arizona State,PUNTING,Justin,Weldon,AVG,43.2
+79060,9/5/2013,FBS,Sacramento St.,Arizona State,PUNTING,Justin,Weldon,LONG,67
+79061,9/5/2013,FBS,Sacramento St.,Arizona State,PUNT RETURNS,Ezekiel,Graham,NO,1
+79062,9/5/2013,FBS,Sacramento St.,Arizona State,PUNT RETURNS,Ezekiel,Graham,YDS,19
+79063,9/5/2013,FBS,Sacramento St.,Arizona State,PUNT RETURNS,Ezekiel,Graham,AVG,19.0
+79064,9/5/2013,FBS,Sacramento St.,Arizona State,PUNT RETURNS,Ezekiel,Graham,LONG,19
+79065,9/5/2013,FBS,Sacramento St.,Arizona State,KICK RETURNS,Ezekiel,Graham,NO,1
+79066,9/5/2013,FBS,Sacramento St.,Arizona State,KICK RETURNS,Ezekiel,Graham,YDS,15
+79067,9/5/2013,FBS,Sacramento St.,Arizona State,KICK RETURNS,Ezekiel,Graham,AVG,15.0
+79068,9/5/2013,FBS,Sacramento St.,Arizona State,KICK RETURNS,Ezekiel,Graham,LONG,15
+79069,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,Marion,Grice,ATT,14
+79070,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,Marion,Grice,YDS,59
+79071,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,Marion,Grice,TD,1
+79072,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,Marion,Grice,LONG,13
+79073,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,Deantre,Lewis,ATT,8
+79074,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,Deantre,Lewis,YDS,53
+79075,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,Deantre,Lewis,TD,0
+79076,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,Deantre,Lewis,LONG,13
+79077,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,Taylor,Kelly,ATT,6
+79078,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,Taylor,Kelly,YDS,25
+79079,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,Taylor,Kelly,TD,0
+79080,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,Taylor,Kelly,LONG,12
+79081,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,Michael,Eubank,ATT,7
+79082,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,Michael,Eubank,YDS,18
+79083,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,Michael,Eubank,TD,1
+79084,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,Michael,Eubank,LONG,4
+79085,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,R.J.,Robinson,ATT,3
+79086,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,R.J.,Robinson,YDS,6
+79087,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,R.J.,Robinson,TD,0
+79088,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,R.J.,Robinson,LONG,5
+79089,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,D.J.,Foster,ATT,1
+79090,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,D.J.,Foster,YDS,5
+79091,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,D.J.,Foster,TD,0
+79092,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,D.J.,Foster,LONG,5
+79093,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,Richard,Smith,ATT,1
+79094,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,Richard,Smith,YDS,2
+79095,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,Richard,Smith,TD,0
+79096,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,Richard,Smith,LONG,2
+79097,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,De'Marieya,Nelson,ATT,1
+79098,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,De'Marieya,Nelson,YDS,0
+79099,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,De'Marieya,Nelson,TD,0
+79100,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,De'Marieya,Nelson,LONG,0
+79101,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,,Team,ATT,1
+79102,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,,Team,YDS,-4
+79103,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,,Team,TD,0
+79104,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,,Team,LONG,0
+79105,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,Mike,Bercovici,ATT,2
+79106,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,Mike,Bercovici,YDS,-6
+79107,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,Mike,Bercovici,TD,0
+79108,9/5/2013,FBS,Arizona State,Sacramento St.,RUSHING,Mike,Bercovici,LONG,2
+79109,9/5/2013,FBS,Arizona State,Sacramento St.,PASSING,Taylor,Kelly,CP-ATT-INT,23-31-0
+79110,9/5/2013,FBS,Arizona State,Sacramento St.,PASSING,Taylor,Kelly,YDS,300
+79111,9/5/2013,FBS,Arizona State,Sacramento St.,PASSING,Taylor,Kelly,TD,5
+79112,9/5/2013,FBS,Arizona State,Sacramento St.,PASSING,Taylor,Kelly,LONG,41
+79113,9/5/2013,FBS,Arizona State,Sacramento St.,PASSING,Michael,Eubank,CP-ATT-INT,3-4-0
+79114,9/5/2013,FBS,Arizona State,Sacramento St.,PASSING,Michael,Eubank,YDS,70
+79115,9/5/2013,FBS,Arizona State,Sacramento St.,PASSING,Michael,Eubank,TD,0
+79116,9/5/2013,FBS,Arizona State,Sacramento St.,PASSING,Michael,Eubank,LONG,57
+79117,9/5/2013,FBS,Arizona State,Sacramento St.,PASSING,Mike,Bercovici,CP-ATT-INT,1-1-0
+79118,9/5/2013,FBS,Arizona State,Sacramento St.,PASSING,Mike,Bercovici,YDS,-5
+79119,9/5/2013,FBS,Arizona State,Sacramento St.,PASSING,Mike,Bercovici,TD,0
+79120,9/5/2013,FBS,Arizona State,Sacramento St.,PASSING,Mike,Bercovici,LONG,0
+79121,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,Jaelen,Strong,REC,6
+79122,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,Jaelen,Strong,YDS,58
+79123,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,Jaelen,Strong,TD,1
+79124,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,Jaelen,Strong,LONG,24
+79125,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,Marion,Grice,REC,4
+79126,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,Marion,Grice,YDS,65
+79127,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,Marion,Grice,TD,1
+79128,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,Marion,Grice,LONG,26
+79129,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,Richard,Smith,REC,4
+79130,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,Richard,Smith,YDS,31
+79131,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,Richard,Smith,TD,0
+79132,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,Richard,Smith,LONG,15
+79133,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,D.J.,Foster,REC,4
+79134,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,D.J.,Foster,YDS,29
+79135,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,D.J.,Foster,TD,0
+79136,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,D.J.,Foster,LONG,15
+79137,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,Deantre,Lewis,REC,2
+79138,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,Deantre,Lewis,YDS,52
+79139,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,Deantre,Lewis,TD,0
+79140,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,Deantre,Lewis,LONG,57
+79141,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,Chris,Coyle,REC,2
+79142,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,Chris,Coyle,YDS,48
+79143,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,Chris,Coyle,TD,1
+79144,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,Chris,Coyle,LONG,33
+79145,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,Kevin,Ozier,REC,1
+79146,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,Kevin,Ozier,YDS,41
+79147,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,Kevin,Ozier,TD,1
+79148,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,Kevin,Ozier,LONG,41
+79149,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,De'Marieya,Nelson,REC,1
+79150,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,De'Marieya,Nelson,YDS,16
+79151,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,De'Marieya,Nelson,TD,1
+79152,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,De'Marieya,Nelson,LONG,16
+79153,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,Darwin,Rogers,REC,1
+79154,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,Darwin,Rogers,YDS,12
+79155,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,Darwin,Rogers,TD,0
+79156,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,Darwin,Rogers,LONG,12
+79157,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,Alonzo,Agwuenu,REC,1
+79158,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,Alonzo,Agwuenu,YDS,8
+79159,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,Alonzo,Agwuenu,TD,0
+79160,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,Alonzo,Agwuenu,LONG,8
+79161,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,Frederick,Gammage,REC,1
+79162,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,Frederick,Gammage,YDS,5
+79163,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,Frederick,Gammage,TD,0
+79164,9/5/2013,FBS,Arizona State,Sacramento St.,RECEIVING,Frederick,Gammage,LONG,5
+79165,9/5/2013,FBS,Arizona State,Sacramento St.,KICKING,Zane,Gonzalez,FG-FGA,2/4
+79166,9/5/2013,FBS,Arizona State,Sacramento St.,KICKING,Zane,Gonzalez,LONG,40
+79167,9/5/2013,FBS,Arizona State,Sacramento St.,KICKING,Zane,Gonzalez,XP,7
+79168,9/5/2013,FBS,Arizona State,Sacramento St.,KICKING,Zane,Gonzalez,PTS,13
+79169,9/5/2013,FBS,Arizona State,Sacramento St.,PUNTING,Dom,Vizzare,NO,2
+79170,9/5/2013,FBS,Arizona State,Sacramento St.,PUNTING,Dom,Vizzare,YDS,86
+79171,9/5/2013,FBS,Arizona State,Sacramento St.,PUNTING,Dom,Vizzare,AVG,43.0
+79172,9/5/2013,FBS,Arizona State,Sacramento St.,PUNTING,Dom,Vizzare,LONG,45
+79173,9/5/2013,FBS,Arizona State,Sacramento St.,PUNT RETURNS,Robert,Nelson,NO,3
+79174,9/5/2013,FBS,Arizona State,Sacramento St.,PUNT RETURNS,Robert,Nelson,YDS,25
+79175,9/5/2013,FBS,Arizona State,Sacramento St.,PUNT RETURNS,Robert,Nelson,AVG,8.3
+79176,9/5/2013,FBS,Arizona State,Sacramento St.,PUNT RETURNS,Robert,Nelson,LONG,14
+79177,9/5/2013,FBS,Arizona State,Sacramento St.,PUNT RETURNS,Richard,Smith,NO,1
+79178,9/5/2013,FBS,Arizona State,Sacramento St.,PUNT RETURNS,Richard,Smith,YDS,9
+79179,9/5/2013,FBS,Arizona State,Sacramento St.,PUNT RETURNS,Richard,Smith,AVG,9.0
+79180,9/5/2013,FBS,Arizona State,Sacramento St.,PUNT RETURNS,Richard,Smith,LONG,9
+79181,9/5/2013,FBS,Arizona State,Sacramento St.,KICK RETURNS,Richard,Smith,NO,1
+79182,9/5/2013,FBS,Arizona State,Sacramento St.,KICK RETURNS,Richard,Smith,YDS,20
+79183,9/5/2013,FBS,Arizona State,Sacramento St.,KICK RETURNS,Richard,Smith,AVG,20.0
+79184,9/5/2013,FBS,Arizona State,Sacramento St.,KICK RETURNS,Richard,Smith,LONG,20

@@ -1,0 +1,177 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+100001,9/7/2013,FBS,Idaho,Wyoming,RUSHING,Joshua,McCain,ATT,10
+100002,9/7/2013,FBS,Idaho,Wyoming,RUSHING,Joshua,McCain,YDS,49
+100003,9/7/2013,FBS,Idaho,Wyoming,RUSHING,Joshua,McCain,TD,0
+100004,9/7/2013,FBS,Idaho,Wyoming,RUSHING,Joshua,McCain,LONG,16
+100005,9/7/2013,FBS,Idaho,Wyoming,RUSHING,Chad,Chalich,ATT,15
+100006,9/7/2013,FBS,Idaho,Wyoming,RUSHING,Chad,Chalich,YDS,35
+100007,9/7/2013,FBS,Idaho,Wyoming,RUSHING,Chad,Chalich,TD,0
+100008,9/7/2013,FBS,Idaho,Wyoming,RUSHING,Chad,Chalich,LONG,17
+100009,9/7/2013,FBS,Idaho,Wyoming,RUSHING,James,Baker,ATT,11
+100010,9/7/2013,FBS,Idaho,Wyoming,RUSHING,James,Baker,YDS,23
+100011,9/7/2013,FBS,Idaho,Wyoming,RUSHING,James,Baker,TD,1
+100012,9/7/2013,FBS,Idaho,Wyoming,RUSHING,James,Baker,LONG,6
+100013,9/7/2013,FBS,Idaho,Wyoming,RUSHING,Kristoffer,Olugbode,ATT,7
+100014,9/7/2013,FBS,Idaho,Wyoming,RUSHING,Kristoffer,Olugbode,YDS,22
+100015,9/7/2013,FBS,Idaho,Wyoming,RUSHING,Kristoffer,Olugbode,TD,0
+100016,9/7/2013,FBS,Idaho,Wyoming,RUSHING,Kristoffer,Olugbode,LONG,6
+100017,9/7/2013,FBS,Idaho,Wyoming,RUSHING,Richard,Montgomery,ATT,2
+100018,9/7/2013,FBS,Idaho,Wyoming,RUSHING,Richard,Montgomery,YDS,9
+100019,9/7/2013,FBS,Idaho,Wyoming,RUSHING,Richard,Montgomery,TD,0
+100020,9/7/2013,FBS,Idaho,Wyoming,RUSHING,Richard,Montgomery,LONG,6
+100021,9/7/2013,FBS,Idaho,Wyoming,RUSHING,Jerrel,Brown,ATT,1
+100022,9/7/2013,FBS,Idaho,Wyoming,RUSHING,Jerrel,Brown,YDS,1
+100023,9/7/2013,FBS,Idaho,Wyoming,RUSHING,Jerrel,Brown,TD,0
+100024,9/7/2013,FBS,Idaho,Wyoming,RUSHING,Jerrel,Brown,LONG,1
+100025,9/7/2013,FBS,Idaho,Wyoming,PASSING,Chad,Chalich,CP-ATT-INT,22-32-0
+100026,9/7/2013,FBS,Idaho,Wyoming,PASSING,Chad,Chalich,YDS,182
+100027,9/7/2013,FBS,Idaho,Wyoming,PASSING,Chad,Chalich,TD,0
+100028,9/7/2013,FBS,Idaho,Wyoming,PASSING,Chad,Chalich,LONG,35
+100029,9/7/2013,FBS,Idaho,Wyoming,PASSING,Joshua,McCain,CP-ATT-INT,1-1-0
+100030,9/7/2013,FBS,Idaho,Wyoming,PASSING,Joshua,McCain,YDS,23
+100031,9/7/2013,FBS,Idaho,Wyoming,PASSING,Joshua,McCain,TD,0
+100032,9/7/2013,FBS,Idaho,Wyoming,PASSING,Joshua,McCain,LONG,23
+100033,9/7/2013,FBS,Idaho,Wyoming,RECEIVING,Dezmon,Epps,REC,6
+100034,9/7/2013,FBS,Idaho,Wyoming,RECEIVING,Dezmon,Epps,YDS,61
+100035,9/7/2013,FBS,Idaho,Wyoming,RECEIVING,Dezmon,Epps,TD,0
+100036,9/7/2013,FBS,Idaho,Wyoming,RECEIVING,Dezmon,Epps,LONG,23
+100037,9/7/2013,FBS,Idaho,Wyoming,RECEIVING,Michael,LaGrone,REC,6
+100038,9/7/2013,FBS,Idaho,Wyoming,RECEIVING,Michael,LaGrone,YDS,56
+100039,9/7/2013,FBS,Idaho,Wyoming,RECEIVING,Michael,LaGrone,TD,0
+100040,9/7/2013,FBS,Idaho,Wyoming,RECEIVING,Michael,LaGrone,LONG,15
+100041,9/7/2013,FBS,Idaho,Wyoming,RECEIVING,Najee,Lovett,REC,5
+100042,9/7/2013,FBS,Idaho,Wyoming,RECEIVING,Najee,Lovett,YDS,54
+100043,9/7/2013,FBS,Idaho,Wyoming,RECEIVING,Najee,Lovett,TD,0
+100044,9/7/2013,FBS,Idaho,Wyoming,RECEIVING,Najee,Lovett,LONG,35
+100045,9/7/2013,FBS,Idaho,Wyoming,RECEIVING,Kristoffer,Olugbode,REC,2
+100046,9/7/2013,FBS,Idaho,Wyoming,RECEIVING,Kristoffer,Olugbode,YDS,19
+100047,9/7/2013,FBS,Idaho,Wyoming,RECEIVING,Kristoffer,Olugbode,TD,0
+100048,9/7/2013,FBS,Idaho,Wyoming,RECEIVING,Kristoffer,Olugbode,LONG,11
+100049,9/7/2013,FBS,Idaho,Wyoming,RECEIVING,Jake,Manley,REC,2
+100050,9/7/2013,FBS,Idaho,Wyoming,RECEIVING,Jake,Manley,YDS,5
+100051,9/7/2013,FBS,Idaho,Wyoming,RECEIVING,Jake,Manley,TD,0
+100052,9/7/2013,FBS,Idaho,Wyoming,RECEIVING,Jake,Manley,LONG,5
+100053,9/7/2013,FBS,Idaho,Wyoming,RECEIVING,Deon,Watson,REC,1
+100054,9/7/2013,FBS,Idaho,Wyoming,RECEIVING,Deon,Watson,YDS,7
+100055,9/7/2013,FBS,Idaho,Wyoming,RECEIVING,Deon,Watson,TD,0
+100056,9/7/2013,FBS,Idaho,Wyoming,RECEIVING,Deon,Watson,LONG,7
+100057,9/7/2013,FBS,Idaho,Wyoming,RECEIVING,Roman,Runner,REC,1
+100058,9/7/2013,FBS,Idaho,Wyoming,RECEIVING,Roman,Runner,YDS,3
+100059,9/7/2013,FBS,Idaho,Wyoming,RECEIVING,Roman,Runner,TD,0
+100060,9/7/2013,FBS,Idaho,Wyoming,RECEIVING,Roman,Runner,LONG,3
+100061,9/7/2013,FBS,Idaho,Wyoming,KICKING,Austin,Rehkow,FG-FGA,1/2
+100062,9/7/2013,FBS,Idaho,Wyoming,KICKING,Austin,Rehkow,LONG,41
+100063,9/7/2013,FBS,Idaho,Wyoming,KICKING,Austin,Rehkow,XP,1
+100064,9/7/2013,FBS,Idaho,Wyoming,KICKING,Austin,Rehkow,PTS,4
+100065,9/7/2013,FBS,Idaho,Wyoming,PUNTING,Austin,Rehkow,NO,9
+100066,9/7/2013,FBS,Idaho,Wyoming,PUNTING,Austin,Rehkow,YDS,434
+100067,9/7/2013,FBS,Idaho,Wyoming,PUNTING,Austin,Rehkow,AVG,48.2
+100068,9/7/2013,FBS,Idaho,Wyoming,PUNTING,Austin,Rehkow,LONG,63
+100069,9/7/2013,FBS,Idaho,Wyoming,PUNT RETURNS,Najee,Lovett,NO,2
+100070,9/7/2013,FBS,Idaho,Wyoming,PUNT RETURNS,Najee,Lovett,YDS,-18
+100071,9/7/2013,FBS,Idaho,Wyoming,PUNT RETURNS,Najee,Lovett,AVG,-9.0
+100072,9/7/2013,FBS,Idaho,Wyoming,PUNT RETURNS,Najee,Lovett,LONG,0
+100073,9/7/2013,FBS,Idaho,Wyoming,PUNT RETURNS,Dezmon,Epps,NO,1
+100074,9/7/2013,FBS,Idaho,Wyoming,PUNT RETURNS,Dezmon,Epps,YDS,5
+100075,9/7/2013,FBS,Idaho,Wyoming,PUNT RETURNS,Dezmon,Epps,AVG,5.0
+100076,9/7/2013,FBS,Idaho,Wyoming,PUNT RETURNS,Dezmon,Epps,LONG,5
+100077,9/7/2013,FBS,Idaho,Wyoming,PUNT RETURNS,Richard,Montgomery,NO,1
+100078,9/7/2013,FBS,Idaho,Wyoming,PUNT RETURNS,Richard,Montgomery,YDS,0
+100079,9/7/2013,FBS,Idaho,Wyoming,PUNT RETURNS,Richard,Montgomery,AVG,0.0
+100080,9/7/2013,FBS,Idaho,Wyoming,PUNT RETURNS,Richard,Montgomery,LONG,0
+100081,9/7/2013,FBS,Idaho,Wyoming,KICK RETURNS,Dezmon,Epps,NO,3
+100082,9/7/2013,FBS,Idaho,Wyoming,KICK RETURNS,Dezmon,Epps,YDS,63
+100083,9/7/2013,FBS,Idaho,Wyoming,KICK RETURNS,Dezmon,Epps,AVG,21.0
+100084,9/7/2013,FBS,Idaho,Wyoming,KICK RETURNS,Dezmon,Epps,LONG,23
+100085,9/7/2013,FBS,Idaho,Wyoming,KICK RETURNS,Clayton,Homme,NO,1
+100086,9/7/2013,FBS,Idaho,Wyoming,KICK RETURNS,Clayton,Homme,YDS,5
+100087,9/7/2013,FBS,Idaho,Wyoming,KICK RETURNS,Clayton,Homme,AVG,5.0
+100088,9/7/2013,FBS,Idaho,Wyoming,KICK RETURNS,Clayton,Homme,LONG,5
+100089,9/7/2013,FBS,Wyoming,Idaho,RUSHING,Shaun,Wick,ATT,15
+100090,9/7/2013,FBS,Wyoming,Idaho,RUSHING,Shaun,Wick,YDS,110
+100091,9/7/2013,FBS,Wyoming,Idaho,RUSHING,Shaun,Wick,TD,0
+100092,9/7/2013,FBS,Wyoming,Idaho,RUSHING,Shaun,Wick,LONG,27
+100093,9/7/2013,FBS,Wyoming,Idaho,RUSHING,Brett,Smith,ATT,6
+100094,9/7/2013,FBS,Wyoming,Idaho,RUSHING,Brett,Smith,YDS,64
+100095,9/7/2013,FBS,Wyoming,Idaho,RUSHING,Brett,Smith,TD,0
+100096,9/7/2013,FBS,Wyoming,Idaho,RUSHING,Brett,Smith,LONG,50
+100097,9/7/2013,FBS,Wyoming,Idaho,RUSHING,Brandon,Miller,ATT,10
+100098,9/7/2013,FBS,Wyoming,Idaho,RUSHING,Brandon,Miller,YDS,61
+100099,9/7/2013,FBS,Wyoming,Idaho,RUSHING,Brandon,Miller,TD,1
+100100,9/7/2013,FBS,Wyoming,Idaho,RUSHING,Brandon,Miller,LONG,14
+100101,9/7/2013,FBS,Wyoming,Idaho,RUSHING,Omar,Stover,ATT,3
+100102,9/7/2013,FBS,Wyoming,Idaho,RUSHING,Omar,Stover,YDS,18
+100103,9/7/2013,FBS,Wyoming,Idaho,RUSHING,Omar,Stover,TD,0
+100104,9/7/2013,FBS,Wyoming,Idaho,RUSHING,Omar,Stover,LONG,11
+100105,9/7/2013,FBS,Wyoming,Idaho,RUSHING,Tedder,Easton,ATT,2
+100106,9/7/2013,FBS,Wyoming,Idaho,RUSHING,Tedder,Easton,YDS,16
+100107,9/7/2013,FBS,Wyoming,Idaho,RUSHING,Tedder,Easton,TD,1
+100108,9/7/2013,FBS,Wyoming,Idaho,RUSHING,Tedder,Easton,LONG,13
+100109,9/7/2013,FBS,Wyoming,Idaho,RUSHING,Robert,Herron,ATT,1
+100110,9/7/2013,FBS,Wyoming,Idaho,RUSHING,Robert,Herron,YDS,4
+100111,9/7/2013,FBS,Wyoming,Idaho,RUSHING,Robert,Herron,TD,0
+100112,9/7/2013,FBS,Wyoming,Idaho,RUSHING,Robert,Herron,LONG,4
+100113,9/7/2013,FBS,Wyoming,Idaho,RUSHING,,Team,ATT,1
+100114,9/7/2013,FBS,Wyoming,Idaho,RUSHING,,Team,YDS,-2
+100115,9/7/2013,FBS,Wyoming,Idaho,RUSHING,,Team,TD,0
+100116,9/7/2013,FBS,Wyoming,Idaho,RUSHING,,Team,LONG,0
+100117,9/7/2013,FBS,Wyoming,Idaho,RUSHING,Tommy,Thornton,ATT,1
+100118,9/7/2013,FBS,Wyoming,Idaho,RUSHING,Tommy,Thornton,YDS,-9
+100119,9/7/2013,FBS,Wyoming,Idaho,RUSHING,Tommy,Thornton,TD,0
+100120,9/7/2013,FBS,Wyoming,Idaho,RUSHING,Tommy,Thornton,LONG,0
+100121,9/7/2013,FBS,Wyoming,Idaho,PASSING,Brett,Smith,CP-ATT-INT,22-38-1
+100122,9/7/2013,FBS,Wyoming,Idaho,PASSING,Brett,Smith,YDS,295
+100123,9/7/2013,FBS,Wyoming,Idaho,PASSING,Brett,Smith,TD,4
+100124,9/7/2013,FBS,Wyoming,Idaho,PASSING,Brett,Smith,LONG,48
+100125,9/7/2013,FBS,Wyoming,Idaho,PASSING,Tommy,Thornton,CP-ATT-INT,1-1-0
+100126,9/7/2013,FBS,Wyoming,Idaho,PASSING,Tommy,Thornton,YDS,7
+100127,9/7/2013,FBS,Wyoming,Idaho,PASSING,Tommy,Thornton,TD,0
+100128,9/7/2013,FBS,Wyoming,Idaho,PASSING,Tommy,Thornton,LONG,7
+100129,9/7/2013,FBS,Wyoming,Idaho,RECEIVING,Tanner,Gentry,REC,6
+100130,9/7/2013,FBS,Wyoming,Idaho,RECEIVING,Tanner,Gentry,YDS,76
+100131,9/7/2013,FBS,Wyoming,Idaho,RECEIVING,Tanner,Gentry,TD,0
+100132,9/7/2013,FBS,Wyoming,Idaho,RECEIVING,Tanner,Gentry,LONG,20
+100133,9/7/2013,FBS,Wyoming,Idaho,RECEIVING,Robert,Herron,REC,5
+100134,9/7/2013,FBS,Wyoming,Idaho,RECEIVING,Robert,Herron,YDS,123
+100135,9/7/2013,FBS,Wyoming,Idaho,RECEIVING,Robert,Herron,TD,0
+100136,9/7/2013,FBS,Wyoming,Idaho,RECEIVING,Robert,Herron,LONG,48
+100137,9/7/2013,FBS,Wyoming,Idaho,RECEIVING,Dominic,Rufran,REC,5
+100138,9/7/2013,FBS,Wyoming,Idaho,RECEIVING,Dominic,Rufran,YDS,61
+100139,9/7/2013,FBS,Wyoming,Idaho,RECEIVING,Dominic,Rufran,TD,3
+100140,9/7/2013,FBS,Wyoming,Idaho,RECEIVING,Dominic,Rufran,LONG,40
+100141,9/7/2013,FBS,Wyoming,Idaho,RECEIVING,Brandon,Miller,REC,2
+100142,9/7/2013,FBS,Wyoming,Idaho,RECEIVING,Brandon,Miller,YDS,12
+100143,9/7/2013,FBS,Wyoming,Idaho,RECEIVING,Brandon,Miller,TD,0
+100144,9/7/2013,FBS,Wyoming,Idaho,RECEIVING,Brandon,Miller,LONG,8
+100145,9/7/2013,FBS,Wyoming,Idaho,RECEIVING,Spencer,Bruce,REC,2
+100146,9/7/2013,FBS,Wyoming,Idaho,RECEIVING,Spencer,Bruce,YDS,9
+100147,9/7/2013,FBS,Wyoming,Idaho,RECEIVING,Spencer,Bruce,TD,1
+100148,9/7/2013,FBS,Wyoming,Idaho,RECEIVING,Spencer,Bruce,LONG,5
+100149,9/7/2013,FBS,Wyoming,Idaho,RECEIVING,Shaun,Wick,REC,1
+100150,9/7/2013,FBS,Wyoming,Idaho,RECEIVING,Shaun,Wick,YDS,8
+100151,9/7/2013,FBS,Wyoming,Idaho,RECEIVING,Shaun,Wick,TD,0
+100152,9/7/2013,FBS,Wyoming,Idaho,RECEIVING,Shaun,Wick,LONG,8
+100153,9/7/2013,FBS,Wyoming,Idaho,RECEIVING,Jake,Maulhardt,REC,1
+100154,9/7/2013,FBS,Wyoming,Idaho,RECEIVING,Jake,Maulhardt,YDS,7
+100155,9/7/2013,FBS,Wyoming,Idaho,RECEIVING,Jake,Maulhardt,TD,0
+100156,9/7/2013,FBS,Wyoming,Idaho,RECEIVING,Jake,Maulhardt,LONG,7
+100157,9/7/2013,FBS,Wyoming,Idaho,RECEIVING,Jalen,Claiborne,REC,1
+100158,9/7/2013,FBS,Wyoming,Idaho,RECEIVING,Jalen,Claiborne,YDS,6
+100159,9/7/2013,FBS,Wyoming,Idaho,RECEIVING,Jalen,Claiborne,TD,0
+100160,9/7/2013,FBS,Wyoming,Idaho,RECEIVING,Jalen,Claiborne,LONG,6
+100161,9/7/2013,FBS,Wyoming,Idaho,KICKING,Stuart,Williams,FG-FGA,0/0
+100162,9/7/2013,FBS,Wyoming,Idaho,KICKING,Stuart,Williams,LONG,-
+100163,9/7/2013,FBS,Wyoming,Idaho,KICKING,Stuart,Williams,XP,6
+100164,9/7/2013,FBS,Wyoming,Idaho,KICKING,Stuart,Williams,PTS,6
+100165,9/7/2013,FBS,Wyoming,Idaho,PUNTING,Ethan,Wood,NO,7
+100166,9/7/2013,FBS,Wyoming,Idaho,PUNTING,Ethan,Wood,YDS,274
+100167,9/7/2013,FBS,Wyoming,Idaho,PUNTING,Ethan,Wood,AVG,39.1
+100168,9/7/2013,FBS,Wyoming,Idaho,PUNTING,Ethan,Wood,LONG,50
+100169,9/7/2013,FBS,Wyoming,Idaho,PUNT RETURNS,Jalen,Claiborne,NO,3
+100170,9/7/2013,FBS,Wyoming,Idaho,PUNT RETURNS,Jalen,Claiborne,YDS,-5
+100171,9/7/2013,FBS,Wyoming,Idaho,PUNT RETURNS,Jalen,Claiborne,AVG,-1.7
+100172,9/7/2013,FBS,Wyoming,Idaho,PUNT RETURNS,Jalen,Claiborne,LONG,1
+100173,9/7/2013,FBS,Wyoming,Idaho,KICK RETURNS,Jalen,Claiborne,NO,1
+100174,9/7/2013,FBS,Wyoming,Idaho,KICK RETURNS,Jalen,Claiborne,YDS,29
+100175,9/7/2013,FBS,Wyoming,Idaho,KICK RETURNS,Jalen,Claiborne,AVG,29.0
+100176,9/7/2013,FBS,Wyoming,Idaho,KICK RETURNS,Jalen,Claiborne,LONG,29

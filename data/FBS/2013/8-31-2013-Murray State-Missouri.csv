@@ -1,0 +1,185 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+44001,8/31/2013,FBS,Murray State,Missouri,RUSHING,Maikhail,Miller,ATT,11
+44002,8/31/2013,FBS,Murray State,Missouri,RUSHING,Maikhail,Miller,YDS,73
+44003,8/31/2013,FBS,Murray State,Missouri,RUSHING,Maikhail,Miller,TD,0
+44004,8/31/2013,FBS,Murray State,Missouri,RUSHING,Maikhail,Miller,LONG,23
+44005,8/31/2013,FBS,Murray State,Missouri,RUSHING,Duane,Brady,ATT,6
+44006,8/31/2013,FBS,Murray State,Missouri,RUSHING,Duane,Brady,YDS,33
+44007,8/31/2013,FBS,Murray State,Missouri,RUSHING,Duane,Brady,TD,0
+44008,8/31/2013,FBS,Murray State,Missouri,RUSHING,Duane,Brady,LONG,17
+44009,8/31/2013,FBS,Murray State,Missouri,RUSHING,Jaamal,Berry,ATT,10
+44010,8/31/2013,FBS,Murray State,Missouri,RUSHING,Jaamal,Berry,YDS,19
+44011,8/31/2013,FBS,Murray State,Missouri,RUSHING,Jaamal,Berry,TD,0
+44012,8/31/2013,FBS,Murray State,Missouri,RUSHING,Jaamal,Berry,LONG,6
+44013,8/31/2013,FBS,Murray State,Missouri,RUSHING,Marcus,Holliday,ATT,7
+44014,8/31/2013,FBS,Murray State,Missouri,RUSHING,Marcus,Holliday,YDS,11
+44015,8/31/2013,FBS,Murray State,Missouri,RUSHING,Marcus,Holliday,TD,0
+44016,8/31/2013,FBS,Murray State,Missouri,RUSHING,Marcus,Holliday,LONG,5
+44017,8/31/2013,FBS,Murray State,Missouri,RUSHING,Parks,Frazier,ATT,1
+44018,8/31/2013,FBS,Murray State,Missouri,RUSHING,Parks,Frazier,YDS,-5
+44019,8/31/2013,FBS,Murray State,Missouri,RUSHING,Parks,Frazier,TD,0
+44020,8/31/2013,FBS,Murray State,Missouri,RUSHING,Parks,Frazier,LONG,0
+44021,8/31/2013,FBS,Murray State,Missouri,RUSHING,,Team,ATT,1
+44022,8/31/2013,FBS,Murray State,Missouri,RUSHING,,Team,YDS,-8
+44023,8/31/2013,FBS,Murray State,Missouri,RUSHING,,Team,TD,0
+44024,8/31/2013,FBS,Murray State,Missouri,RUSHING,,Team,LONG,0
+44025,8/31/2013,FBS,Murray State,Missouri,PASSING,Maikhail,Miller,CP-ATT-INT,16-32-3
+44026,8/31/2013,FBS,Murray State,Missouri,PASSING,Maikhail,Miller,YDS,145
+44027,8/31/2013,FBS,Murray State,Missouri,PASSING,Maikhail,Miller,TD,1
+44028,8/31/2013,FBS,Murray State,Missouri,PASSING,Maikhail,Miller,LONG,34
+44029,8/31/2013,FBS,Murray State,Missouri,PASSING,Parks,Frazier,CP-ATT-INT,6-6-0
+44030,8/31/2013,FBS,Murray State,Missouri,PASSING,Parks,Frazier,YDS,24
+44031,8/31/2013,FBS,Murray State,Missouri,PASSING,Parks,Frazier,TD,0
+44032,8/31/2013,FBS,Murray State,Missouri,PASSING,Parks,Frazier,LONG,9
+44033,8/31/2013,FBS,Murray State,Missouri,PASSING,Jeremy,Harness,CP-ATT-INT,1-1-0
+44034,8/31/2013,FBS,Murray State,Missouri,PASSING,Jeremy,Harness,YDS,5
+44035,8/31/2013,FBS,Murray State,Missouri,PASSING,Jeremy,Harness,TD,1
+44036,8/31/2013,FBS,Murray State,Missouri,PASSING,Jeremy,Harness,LONG,5
+44037,8/31/2013,FBS,Murray State,Missouri,RECEIVING,Paul,Rice,REC,5
+44038,8/31/2013,FBS,Murray State,Missouri,RECEIVING,Paul,Rice,YDS,63
+44039,8/31/2013,FBS,Murray State,Missouri,RECEIVING,Paul,Rice,TD,0
+44040,8/31/2013,FBS,Murray State,Missouri,RECEIVING,Paul,Rice,LONG,34
+44041,8/31/2013,FBS,Murray State,Missouri,RECEIVING,Walter,Powell,REC,4
+44042,8/31/2013,FBS,Murray State,Missouri,RECEIVING,Walter,Powell,YDS,35
+44043,8/31/2013,FBS,Murray State,Missouri,RECEIVING,Walter,Powell,TD,1
+44044,8/31/2013,FBS,Murray State,Missouri,RECEIVING,Walter,Powell,LONG,17
+44045,8/31/2013,FBS,Murray State,Missouri,RECEIVING,Nevar,Griffin,REC,4
+44046,8/31/2013,FBS,Murray State,Missouri,RECEIVING,Nevar,Griffin,YDS,24
+44047,8/31/2013,FBS,Murray State,Missouri,RECEIVING,Nevar,Griffin,TD,0
+44048,8/31/2013,FBS,Murray State,Missouri,RECEIVING,Nevar,Griffin,LONG,7
+44049,8/31/2013,FBS,Murray State,Missouri,RECEIVING,Jaamal,Berry,REC,3
+44050,8/31/2013,FBS,Murray State,Missouri,RECEIVING,Jaamal,Berry,YDS,14
+44051,8/31/2013,FBS,Murray State,Missouri,RECEIVING,Jaamal,Berry,TD,0
+44052,8/31/2013,FBS,Murray State,Missouri,RECEIVING,Jaamal,Berry,LONG,9
+44053,8/31/2013,FBS,Murray State,Missouri,RECEIVING,Jordan,Morrow,REC,2
+44054,8/31/2013,FBS,Murray State,Missouri,RECEIVING,Jordan,Morrow,YDS,8
+44055,8/31/2013,FBS,Murray State,Missouri,RECEIVING,Jordan,Morrow,TD,0
+44056,8/31/2013,FBS,Murray State,Missouri,RECEIVING,Jordan,Morrow,LONG,9
+44057,8/31/2013,FBS,Murray State,Missouri,RECEIVING,Marcus,Holliday,REC,2
+44058,8/31/2013,FBS,Murray State,Missouri,RECEIVING,Marcus,Holliday,YDS,0
+44059,8/31/2013,FBS,Murray State,Missouri,RECEIVING,Marcus,Holliday,TD,0
+44060,8/31/2013,FBS,Murray State,Missouri,RECEIVING,Marcus,Holliday,LONG,3
+44061,8/31/2013,FBS,Murray State,Missouri,RECEIVING,Janawski,Davis,REC,1
+44062,8/31/2013,FBS,Murray State,Missouri,RECEIVING,Janawski,Davis,YDS,17
+44063,8/31/2013,FBS,Murray State,Missouri,RECEIVING,Janawski,Davis,TD,0
+44064,8/31/2013,FBS,Murray State,Missouri,RECEIVING,Janawski,Davis,LONG,17
+44065,8/31/2013,FBS,Murray State,Missouri,RECEIVING,Jeremy,Harness,REC,1
+44066,8/31/2013,FBS,Murray State,Missouri,RECEIVING,Jeremy,Harness,YDS,8
+44067,8/31/2013,FBS,Murray State,Missouri,RECEIVING,Jeremy,Harness,TD,0
+44068,8/31/2013,FBS,Murray State,Missouri,RECEIVING,Jeremy,Harness,LONG,8
+44069,8/31/2013,FBS,Murray State,Missouri,RECEIVING,Maikhail,Miller,REC,1
+44070,8/31/2013,FBS,Murray State,Missouri,RECEIVING,Maikhail,Miller,YDS,5
+44071,8/31/2013,FBS,Murray State,Missouri,RECEIVING,Maikhail,Miller,TD,1
+44072,8/31/2013,FBS,Murray State,Missouri,RECEIVING,Maikhail,Miller,LONG,5
+44073,8/31/2013,FBS,Murray State,Missouri,KICKING,Jordan,Benton,FG-FGA,0/1
+44074,8/31/2013,FBS,Murray State,Missouri,KICKING,Jordan,Benton,LONG,-
+44075,8/31/2013,FBS,Murray State,Missouri,KICKING,Jordan,Benton,XP,2
+44076,8/31/2013,FBS,Murray State,Missouri,KICKING,Jordan,Benton,PTS,2
+44077,8/31/2013,FBS,Murray State,Missouri,PUNTING,Steven,Mix,NO,8
+44078,8/31/2013,FBS,Murray State,Missouri,PUNTING,Steven,Mix,YDS,309
+44079,8/31/2013,FBS,Murray State,Missouri,PUNTING,Steven,Mix,AVG,38.6
+44080,8/31/2013,FBS,Murray State,Missouri,PUNTING,Steven,Mix,LONG,48
+44081,8/31/2013,FBS,Murray State,Missouri,PUNT RETURNS,Walter,Powell,NO,1
+44082,8/31/2013,FBS,Murray State,Missouri,PUNT RETURNS,Walter,Powell,YDS,1
+44083,8/31/2013,FBS,Murray State,Missouri,PUNT RETURNS,Walter,Powell,AVG,1.0
+44084,8/31/2013,FBS,Murray State,Missouri,PUNT RETURNS,Walter,Powell,LONG,1
+44085,8/31/2013,FBS,Murray State,Missouri,KICK RETURNS,Walter,Powell,NO,1
+44086,8/31/2013,FBS,Murray State,Missouri,KICK RETURNS,Walter,Powell,YDS,16
+44087,8/31/2013,FBS,Murray State,Missouri,KICK RETURNS,Walter,Powell,AVG,16.0
+44088,8/31/2013,FBS,Murray State,Missouri,KICK RETURNS,Walter,Powell,LONG,16
+44089,8/31/2013,FBS,Missouri,Murray State,RUSHING,Henry,Josey,ATT,13
+44090,8/31/2013,FBS,Missouri,Murray State,RUSHING,Henry,Josey,YDS,113
+44091,8/31/2013,FBS,Missouri,Murray State,RUSHING,Henry,Josey,TD,1
+44092,8/31/2013,FBS,Missouri,Murray State,RUSHING,Henry,Josey,LONG,68
+44093,8/31/2013,FBS,Missouri,Murray State,RUSHING,Russell,Hansbrough,ATT,8
+44094,8/31/2013,FBS,Missouri,Murray State,RUSHING,Russell,Hansbrough,YDS,104
+44095,8/31/2013,FBS,Missouri,Murray State,RUSHING,Russell,Hansbrough,TD,2
+44096,8/31/2013,FBS,Missouri,Murray State,RUSHING,Russell,Hansbrough,LONG,51
+44097,8/31/2013,FBS,Missouri,Murray State,RUSHING,Marcus,Murphy,ATT,7
+44098,8/31/2013,FBS,Missouri,Murray State,RUSHING,Marcus,Murphy,YDS,56
+44099,8/31/2013,FBS,Missouri,Murray State,RUSHING,Marcus,Murphy,TD,1
+44100,8/31/2013,FBS,Missouri,Murray State,RUSHING,Marcus,Murphy,LONG,31
+44101,8/31/2013,FBS,Missouri,Murray State,RUSHING,James,Franklin,ATT,6
+44102,8/31/2013,FBS,Missouri,Murray State,RUSHING,James,Franklin,YDS,44
+44103,8/31/2013,FBS,Missouri,Murray State,RUSHING,James,Franklin,TD,0
+44104,8/31/2013,FBS,Missouri,Murray State,RUSHING,James,Franklin,LONG,26
+44105,8/31/2013,FBS,Missouri,Murray State,RUSHING,Morgan,Steward,ATT,8
+44106,8/31/2013,FBS,Missouri,Murray State,RUSHING,Morgan,Steward,YDS,25
+44107,8/31/2013,FBS,Missouri,Murray State,RUSHING,Morgan,Steward,TD,1
+44108,8/31/2013,FBS,Missouri,Murray State,RUSHING,Morgan,Steward,LONG,10
+44109,8/31/2013,FBS,Missouri,Murray State,RUSHING,Greg,White,ATT,3
+44110,8/31/2013,FBS,Missouri,Murray State,RUSHING,Greg,White,YDS,16
+44111,8/31/2013,FBS,Missouri,Murray State,RUSHING,Greg,White,TD,0
+44112,8/31/2013,FBS,Missouri,Murray State,RUSHING,Greg,White,LONG,10
+44113,8/31/2013,FBS,Missouri,Murray State,PASSING,James,Franklin,CP-ATT-INT,26-38-0
+44114,8/31/2013,FBS,Missouri,Murray State,PASSING,James,Franklin,YDS,318
+44115,8/31/2013,FBS,Missouri,Murray State,PASSING,James,Franklin,TD,3
+44116,8/31/2013,FBS,Missouri,Murray State,PASSING,James,Franklin,LONG,44
+44117,8/31/2013,FBS,Missouri,Murray State,PASSING,Maty,Mauk,CP-ATT-INT,2-3-0
+44118,8/31/2013,FBS,Missouri,Murray State,PASSING,Maty,Mauk,YDS,18
+44119,8/31/2013,FBS,Missouri,Murray State,PASSING,Maty,Mauk,TD,0
+44120,8/31/2013,FBS,Missouri,Murray State,PASSING,Maty,Mauk,LONG,11
+44121,8/31/2013,FBS,Missouri,Murray State,PASSING,Corbin,Berkstresser,CP-ATT-INT,0-1-0
+44122,8/31/2013,FBS,Missouri,Murray State,PASSING,Corbin,Berkstresser,YDS,0
+44123,8/31/2013,FBS,Missouri,Murray State,PASSING,Corbin,Berkstresser,TD,0
+44124,8/31/2013,FBS,Missouri,Murray State,PASSING,Corbin,Berkstresser,LONG,0
+44125,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Jaleel,Clark,REC,5
+44126,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Jaleel,Clark,YDS,51
+44127,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Jaleel,Clark,TD,0
+44128,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Jaleel,Clark,LONG,14
+44129,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Dorial,Green-Beckham,REC,4
+44130,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Dorial,Green-Beckham,YDS,83
+44131,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Dorial,Green-Beckham,TD,0
+44132,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Dorial,Green-Beckham,LONG,44
+44133,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Bud,Sasser,REC,4
+44134,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Bud,Sasser,YDS,41
+44135,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Bud,Sasser,TD,0
+44136,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Bud,Sasser,LONG,18
+44137,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Marcus,Lucas,REC,4
+44138,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Marcus,Lucas,YDS,33
+44139,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Marcus,Lucas,TD,0
+44140,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Marcus,Lucas,LONG,10
+44141,8/31/2013,FBS,Missouri,Murray State,RECEIVING,L'Damian,Washington,REC,3
+44142,8/31/2013,FBS,Missouri,Murray State,RECEIVING,L'Damian,Washington,YDS,32
+44143,8/31/2013,FBS,Missouri,Murray State,RECEIVING,L'Damian,Washington,TD,1
+44144,8/31/2013,FBS,Missouri,Murray State,RECEIVING,L'Damian,Washington,LONG,16
+44145,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Darius,White,REC,2
+44146,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Darius,White,YDS,44
+44147,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Darius,White,TD,1
+44148,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Darius,White,LONG,37
+44149,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Jimmie,Hunt,REC,2
+44150,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Jimmie,Hunt,YDS,26
+44151,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Jimmie,Hunt,TD,1
+44152,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Jimmie,Hunt,LONG,22
+44153,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Eric,Waters,REC,1
+44154,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Eric,Waters,YDS,11
+44155,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Eric,Waters,TD,0
+44156,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Eric,Waters,LONG,11
+44157,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Levi,Copelin,REC,1
+44158,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Levi,Copelin,YDS,7
+44159,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Levi,Copelin,TD,0
+44160,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Levi,Copelin,LONG,7
+44161,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Sean,Culkin,REC,1
+44162,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Sean,Culkin,YDS,6
+44163,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Sean,Culkin,TD,0
+44164,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Sean,Culkin,LONG,6
+44165,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Henry,Josey,REC,1
+44166,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Henry,Josey,YDS,2
+44167,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Henry,Josey,TD,0
+44168,8/31/2013,FBS,Missouri,Murray State,RECEIVING,Henry,Josey,LONG,2
+44169,8/31/2013,FBS,Missouri,Murray State,KICKING,Andrew,Baggett,FG-FGA,1/2
+44170,8/31/2013,FBS,Missouri,Murray State,KICKING,Andrew,Baggett,LONG,43
+44171,8/31/2013,FBS,Missouri,Murray State,KICKING,Andrew,Baggett,XP,7
+44172,8/31/2013,FBS,Missouri,Murray State,KICKING,Andrew,Baggett,PTS,10
+44173,8/31/2013,FBS,Missouri,Murray State,PUNTING,Christian,Brinser,NO,3
+44174,8/31/2013,FBS,Missouri,Murray State,PUNTING,Christian,Brinser,YDS,145
+44175,8/31/2013,FBS,Missouri,Murray State,PUNTING,Christian,Brinser,AVG,48.3
+44176,8/31/2013,FBS,Missouri,Murray State,PUNTING,Christian,Brinser,LONG,51
+44177,8/31/2013,FBS,Missouri,Murray State,PUNT RETURNS,Marcus,Murphy,NO,5
+44178,8/31/2013,FBS,Missouri,Murray State,PUNT RETURNS,Marcus,Murphy,YDS,15
+44179,8/31/2013,FBS,Missouri,Murray State,PUNT RETURNS,Marcus,Murphy,AVG,3.0
+44180,8/31/2013,FBS,Missouri,Murray State,PUNT RETURNS,Marcus,Murphy,LONG,8
+44181,8/31/2013,FBS,Missouri,Murray State,KICK RETURNS,Marcus,Murphy,NO,1
+44182,8/31/2013,FBS,Missouri,Murray State,KICK RETURNS,Marcus,Murphy,YDS,21
+44183,8/31/2013,FBS,Missouri,Murray State,KICK RETURNS,Marcus,Murphy,AVG,21.0
+44184,8/31/2013,FBS,Missouri,Murray State,KICK RETURNS,Marcus,Murphy,LONG,21

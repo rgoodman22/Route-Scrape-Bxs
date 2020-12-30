@@ -1,0 +1,145 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+191001,10/26/2013,FBS,Northwestern,Iowa,RUSHING,Stephen,Buckley,ATT,17
+191002,10/26/2013,FBS,Northwestern,Iowa,RUSHING,Stephen,Buckley,YDS,99
+191003,10/26/2013,FBS,Northwestern,Iowa,RUSHING,Stephen,Buckley,TD,0
+191004,10/26/2013,FBS,Northwestern,Iowa,RUSHING,Stephen,Buckley,LONG,30
+191005,10/26/2013,FBS,Northwestern,Iowa,RUSHING,Kain,Colter,ATT,18
+191006,10/26/2013,FBS,Northwestern,Iowa,RUSHING,Kain,Colter,YDS,60
+191007,10/26/2013,FBS,Northwestern,Iowa,RUSHING,Kain,Colter,TD,0
+191008,10/26/2013,FBS,Northwestern,Iowa,RUSHING,Kain,Colter,LONG,13
+191009,10/26/2013,FBS,Northwestern,Iowa,RUSHING,Mike,Trumpy,ATT,13
+191010,10/26/2013,FBS,Northwestern,Iowa,RUSHING,Mike,Trumpy,YDS,51
+191011,10/26/2013,FBS,Northwestern,Iowa,RUSHING,Mike,Trumpy,TD,0
+191012,10/26/2013,FBS,Northwestern,Iowa,RUSHING,Mike,Trumpy,LONG,10
+191013,10/26/2013,FBS,Northwestern,Iowa,RUSHING,Dan,Vitale,ATT,2
+191014,10/26/2013,FBS,Northwestern,Iowa,RUSHING,Dan,Vitale,YDS,17
+191015,10/26/2013,FBS,Northwestern,Iowa,RUSHING,Dan,Vitale,TD,0
+191016,10/26/2013,FBS,Northwestern,Iowa,RUSHING,Dan,Vitale,LONG,18
+191017,10/26/2013,FBS,Northwestern,Iowa,RUSHING,Trevor,Siemian,ATT,1
+191018,10/26/2013,FBS,Northwestern,Iowa,RUSHING,Trevor,Siemian,YDS,-1
+191019,10/26/2013,FBS,Northwestern,Iowa,RUSHING,Trevor,Siemian,TD,0
+191020,10/26/2013,FBS,Northwestern,Iowa,RUSHING,Trevor,Siemian,LONG,0
+191021,10/26/2013,FBS,Northwestern,Iowa,RUSHING,,Team,ATT,1
+191022,10/26/2013,FBS,Northwestern,Iowa,RUSHING,,Team,YDS,-1
+191023,10/26/2013,FBS,Northwestern,Iowa,RUSHING,,Team,TD,0
+191024,10/26/2013,FBS,Northwestern,Iowa,RUSHING,,Team,LONG,0
+191025,10/26/2013,FBS,Northwestern,Iowa,PASSING,Kain,Colter,CP-ATT-INT,11-14-0
+191026,10/26/2013,FBS,Northwestern,Iowa,PASSING,Kain,Colter,YDS,104
+191027,10/26/2013,FBS,Northwestern,Iowa,PASSING,Kain,Colter,TD,1
+191028,10/26/2013,FBS,Northwestern,Iowa,PASSING,Kain,Colter,LONG,31
+191029,10/26/2013,FBS,Northwestern,Iowa,RECEIVING,Dan,Vitale,REC,4
+191030,10/26/2013,FBS,Northwestern,Iowa,RECEIVING,Dan,Vitale,YDS,52
+191031,10/26/2013,FBS,Northwestern,Iowa,RECEIVING,Dan,Vitale,TD,1
+191032,10/26/2013,FBS,Northwestern,Iowa,RECEIVING,Dan,Vitale,LONG,31
+191033,10/26/2013,FBS,Northwestern,Iowa,RECEIVING,Christian,Jones,REC,3
+191034,10/26/2013,FBS,Northwestern,Iowa,RECEIVING,Christian,Jones,YDS,22
+191035,10/26/2013,FBS,Northwestern,Iowa,RECEIVING,Christian,Jones,TD,0
+191036,10/26/2013,FBS,Northwestern,Iowa,RECEIVING,Christian,Jones,LONG,9
+191037,10/26/2013,FBS,Northwestern,Iowa,RECEIVING,Rashad,Lawrence,REC,2
+191038,10/26/2013,FBS,Northwestern,Iowa,RECEIVING,Rashad,Lawrence,YDS,28
+191039,10/26/2013,FBS,Northwestern,Iowa,RECEIVING,Rashad,Lawrence,TD,0
+191040,10/26/2013,FBS,Northwestern,Iowa,RECEIVING,Rashad,Lawrence,LONG,18
+191041,10/26/2013,FBS,Northwestern,Iowa,RECEIVING,Tony,Jones,REC,1
+191042,10/26/2013,FBS,Northwestern,Iowa,RECEIVING,Tony,Jones,YDS,4
+191043,10/26/2013,FBS,Northwestern,Iowa,RECEIVING,Tony,Jones,TD,0
+191044,10/26/2013,FBS,Northwestern,Iowa,RECEIVING,Tony,Jones,LONG,4
+191045,10/26/2013,FBS,Northwestern,Iowa,RECEIVING,Mike,Trumpy,REC,1
+191046,10/26/2013,FBS,Northwestern,Iowa,RECEIVING,Mike,Trumpy,YDS,-2
+191047,10/26/2013,FBS,Northwestern,Iowa,RECEIVING,Mike,Trumpy,TD,0
+191048,10/26/2013,FBS,Northwestern,Iowa,RECEIVING,Mike,Trumpy,LONG,0
+191049,10/26/2013,FBS,Northwestern,Iowa,KICKING,Jeff,Budzien,FG-FGA,1/1
+191050,10/26/2013,FBS,Northwestern,Iowa,KICKING,Jeff,Budzien,LONG,29
+191051,10/26/2013,FBS,Northwestern,Iowa,KICKING,Jeff,Budzien,XP,1
+191052,10/26/2013,FBS,Northwestern,Iowa,KICKING,Jeff,Budzien,PTS,4
+191053,10/26/2013,FBS,Northwestern,Iowa,PUNTING,Brandon,Williams,NO,4
+191054,10/26/2013,FBS,Northwestern,Iowa,PUNTING,Brandon,Williams,YDS,138
+191055,10/26/2013,FBS,Northwestern,Iowa,PUNTING,Brandon,Williams,AVG,34.5
+191056,10/26/2013,FBS,Northwestern,Iowa,PUNTING,Brandon,Williams,LONG,41
+191057,10/26/2013,FBS,Northwestern,Iowa,KICK RETURNS,Matthew,Harris,NO,1
+191058,10/26/2013,FBS,Northwestern,Iowa,KICK RETURNS,Matthew,Harris,YDS,38
+191059,10/26/2013,FBS,Northwestern,Iowa,KICK RETURNS,Matthew,Harris,AVG,38.0
+191060,10/26/2013,FBS,Northwestern,Iowa,KICK RETURNS,Matthew,Harris,LONG,38
+191061,10/26/2013,FBS,Northwestern,Iowa,KICK RETURNS,Tim,Hanrahan,NO,1
+191062,10/26/2013,FBS,Northwestern,Iowa,KICK RETURNS,Tim,Hanrahan,YDS,13
+191063,10/26/2013,FBS,Northwestern,Iowa,KICK RETURNS,Tim,Hanrahan,AVG,13.0
+191064,10/26/2013,FBS,Northwestern,Iowa,KICK RETURNS,Tim,Hanrahan,LONG,13
+191065,10/26/2013,FBS,Iowa,Northwestern,RUSHING,Mark,Weisman,ATT,13
+191066,10/26/2013,FBS,Iowa,Northwestern,RUSHING,Mark,Weisman,YDS,56
+191067,10/26/2013,FBS,Iowa,Northwestern,RUSHING,Mark,Weisman,TD,0
+191068,10/26/2013,FBS,Iowa,Northwestern,RUSHING,Mark,Weisman,LONG,11
+191069,10/26/2013,FBS,Iowa,Northwestern,RUSHING,Damon,Bullock,ATT,17
+191070,10/26/2013,FBS,Iowa,Northwestern,RUSHING,Damon,Bullock,YDS,52
+191071,10/26/2013,FBS,Iowa,Northwestern,RUSHING,Damon,Bullock,TD,1
+191072,10/26/2013,FBS,Iowa,Northwestern,RUSHING,Damon,Bullock,LONG,7
+191073,10/26/2013,FBS,Iowa,Northwestern,RUSHING,Jake,Rudock,ATT,7
+191074,10/26/2013,FBS,Iowa,Northwestern,RUSHING,Jake,Rudock,YDS,22
+191075,10/26/2013,FBS,Iowa,Northwestern,RUSHING,Jake,Rudock,TD,0
+191076,10/26/2013,FBS,Iowa,Northwestern,RUSHING,Jake,Rudock,LONG,8
+191077,10/26/2013,FBS,Iowa,Northwestern,RUSHING,LeShun,DanielsJr.,ATT,3
+191078,10/26/2013,FBS,Iowa,Northwestern,RUSHING,LeShun,DanielsJr.,YDS,8
+191079,10/26/2013,FBS,Iowa,Northwestern,RUSHING,LeShun,DanielsJr.,TD,0
+191080,10/26/2013,FBS,Iowa,Northwestern,RUSHING,LeShun,DanielsJr.,LONG,5
+191081,10/26/2013,FBS,Iowa,Northwestern,RUSHING,,Team,ATT,1
+191082,10/26/2013,FBS,Iowa,Northwestern,RUSHING,,Team,YDS,-2
+191083,10/26/2013,FBS,Iowa,Northwestern,RUSHING,,Team,TD,0
+191084,10/26/2013,FBS,Iowa,Northwestern,RUSHING,,Team,LONG,0
+191085,10/26/2013,FBS,Iowa,Northwestern,PASSING,Jake,Rudock,CP-ATT-INT,19-27-1
+191086,10/26/2013,FBS,Iowa,Northwestern,PASSING,Jake,Rudock,YDS,169
+191087,10/26/2013,FBS,Iowa,Northwestern,PASSING,Jake,Rudock,TD,1
+191088,10/26/2013,FBS,Iowa,Northwestern,PASSING,Jake,Rudock,LONG,21
+191089,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,Kevonte,Martin-Manley,REC,5
+191090,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,Kevonte,Martin-Manley,YDS,45
+191091,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,Kevonte,Martin-Manley,TD,0
+191092,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,Kevonte,Martin-Manley,LONG,21
+191093,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,Tevaun,Smith,REC,3
+191094,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,Tevaun,Smith,YDS,41
+191095,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,Tevaun,Smith,TD,0
+191096,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,Tevaun,Smith,LONG,16
+191097,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,Jake,Duzey,REC,2
+191098,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,Jake,Duzey,YDS,27
+191099,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,Jake,Duzey,TD,0
+191100,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,Jake,Duzey,LONG,20
+191101,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,C.J.,Fiedorowicz,REC,2
+191102,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,C.J.,Fiedorowicz,YDS,26
+191103,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,C.J.,Fiedorowicz,TD,1
+191104,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,C.J.,Fiedorowicz,LONG,18
+191105,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,Mark,Weisman,REC,2
+191106,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,Mark,Weisman,YDS,20
+191107,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,Mark,Weisman,TD,0
+191108,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,Mark,Weisman,LONG,11
+191109,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,Damond,Powell,REC,1
+191110,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,Damond,Powell,YDS,7
+191111,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,Damond,Powell,TD,0
+191112,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,Damond,Powell,LONG,7
+191113,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,Jacob,Hillyer,REC,1
+191114,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,Jacob,Hillyer,YDS,6
+191115,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,Jacob,Hillyer,TD,0
+191116,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,Jacob,Hillyer,LONG,6
+191117,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,Macon,Plewa,REC,1
+191118,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,Macon,Plewa,YDS,2
+191119,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,Macon,Plewa,TD,0
+191120,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,Macon,Plewa,LONG,2
+191121,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,Damon,Bullock,REC,1
+191122,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,Damon,Bullock,YDS,-1
+191123,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,Damon,Bullock,TD,0
+191124,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,Damon,Bullock,LONG,0
+191125,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,Brett,VanSloten,REC,1
+191126,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,Brett,VanSloten,YDS,-4
+191127,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,Brett,VanSloten,TD,0
+191128,10/26/2013,FBS,Iowa,Northwestern,RECEIVING,Brett,VanSloten,LONG,0
+191129,10/26/2013,FBS,Iowa,Northwestern,KICKING,Mike,Meyer,FG-FGA,1/2
+191130,10/26/2013,FBS,Iowa,Northwestern,KICKING,Mike,Meyer,LONG,38
+191131,10/26/2013,FBS,Iowa,Northwestern,KICKING,Mike,Meyer,XP,2
+191132,10/26/2013,FBS,Iowa,Northwestern,KICKING,Mike,Meyer,PTS,5
+191133,10/26/2013,FBS,Iowa,Northwestern,PUNTING,Connor,Kornbrath,NO,4
+191134,10/26/2013,FBS,Iowa,Northwestern,PUNTING,Connor,Kornbrath,YDS,160
+191135,10/26/2013,FBS,Iowa,Northwestern,PUNTING,Connor,Kornbrath,AVG,40.0
+191136,10/26/2013,FBS,Iowa,Northwestern,PUNTING,Connor,Kornbrath,LONG,43
+191137,10/26/2013,FBS,Iowa,Northwestern,PUNT RETURNS,Kevonte,Martin-Manley,NO,1
+191138,10/26/2013,FBS,Iowa,Northwestern,PUNT RETURNS,Kevonte,Martin-Manley,YDS,10
+191139,10/26/2013,FBS,Iowa,Northwestern,PUNT RETURNS,Kevonte,Martin-Manley,AVG,10.0
+191140,10/26/2013,FBS,Iowa,Northwestern,PUNT RETURNS,Kevonte,Martin-Manley,LONG,10
+191141,10/26/2013,FBS,Iowa,Northwestern,KICK RETURNS,Jordan,Canzeri,NO,2
+191142,10/26/2013,FBS,Iowa,Northwestern,KICK RETURNS,Jordan,Canzeri,YDS,29
+191143,10/26/2013,FBS,Iowa,Northwestern,KICK RETURNS,Jordan,Canzeri,AVG,14.5
+191144,10/26/2013,FBS,Iowa,Northwestern,KICK RETURNS,Jordan,Canzeri,LONG,17

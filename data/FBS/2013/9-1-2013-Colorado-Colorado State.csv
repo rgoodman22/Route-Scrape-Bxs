@@ -1,0 +1,145 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+75001,9/1/2013,FBS,Colorado,Colorado State,RUSHING,Christian,Powell,ATT,15
+75002,9/1/2013,FBS,Colorado,Colorado State,RUSHING,Christian,Powell,YDS,42
+75003,9/1/2013,FBS,Colorado,Colorado State,RUSHING,Christian,Powell,TD,0
+75004,9/1/2013,FBS,Colorado,Colorado State,RUSHING,Christian,Powell,LONG,7
+75005,9/1/2013,FBS,Colorado,Colorado State,RUSHING,D.D.,Goodson,ATT,1
+75006,9/1/2013,FBS,Colorado,Colorado State,RUSHING,D.D.,Goodson,YDS,31
+75007,9/1/2013,FBS,Colorado,Colorado State,RUSHING,D.D.,Goodson,TD,0
+75008,9/1/2013,FBS,Colorado,Colorado State,RUSHING,D.D.,Goodson,LONG,31
+75009,9/1/2013,FBS,Colorado,Colorado State,RUSHING,Tony,Jones,ATT,13
+75010,9/1/2013,FBS,Colorado,Colorado State,RUSHING,Tony,Jones,YDS,27
+75011,9/1/2013,FBS,Colorado,Colorado State,RUSHING,Tony,Jones,TD,0
+75012,9/1/2013,FBS,Colorado,Colorado State,RUSHING,Tony,Jones,LONG,9
+75013,9/1/2013,FBS,Colorado,Colorado State,RUSHING,Connor,Wood,ATT,4
+75014,9/1/2013,FBS,Colorado,Colorado State,RUSHING,Connor,Wood,YDS,8
+75015,9/1/2013,FBS,Colorado,Colorado State,RUSHING,Connor,Wood,TD,0
+75016,9/1/2013,FBS,Colorado,Colorado State,RUSHING,Connor,Wood,LONG,8
+75017,9/1/2013,FBS,Colorado,Colorado State,RUSHING,Donta,Abron,ATT,2
+75018,9/1/2013,FBS,Colorado,Colorado State,RUSHING,Donta,Abron,YDS,5
+75019,9/1/2013,FBS,Colorado,Colorado State,RUSHING,Donta,Abron,TD,0
+75020,9/1/2013,FBS,Colorado,Colorado State,RUSHING,Donta,Abron,LONG,3
+75021,9/1/2013,FBS,Colorado,Colorado State,RUSHING,,Team,ATT,2
+75022,9/1/2013,FBS,Colorado,Colorado State,RUSHING,,Team,YDS,-4
+75023,9/1/2013,FBS,Colorado,Colorado State,RUSHING,,Team,TD,0
+75024,9/1/2013,FBS,Colorado,Colorado State,RUSHING,,Team,LONG,0
+75025,9/1/2013,FBS,Colorado,Colorado State,PASSING,Connor,Wood,CP-ATT-INT,33-46-0
+75026,9/1/2013,FBS,Colorado,Colorado State,PASSING,Connor,Wood,YDS,400
+75027,9/1/2013,FBS,Colorado,Colorado State,PASSING,Connor,Wood,TD,3
+75028,9/1/2013,FBS,Colorado,Colorado State,PASSING,Connor,Wood,LONG,82
+75029,9/1/2013,FBS,Colorado,Colorado State,RECEIVING,Paul,Richardson,REC,10
+75030,9/1/2013,FBS,Colorado,Colorado State,RECEIVING,Paul,Richardson,YDS,208
+75031,9/1/2013,FBS,Colorado,Colorado State,RECEIVING,Paul,Richardson,TD,2
+75032,9/1/2013,FBS,Colorado,Colorado State,RECEIVING,Paul,Richardson,LONG,82
+75033,9/1/2013,FBS,Colorado,Colorado State,RECEIVING,Nelson,Spruce,REC,8
+75034,9/1/2013,FBS,Colorado,Colorado State,RECEIVING,Nelson,Spruce,YDS,99
+75035,9/1/2013,FBS,Colorado,Colorado State,RECEIVING,Nelson,Spruce,TD,0
+75036,9/1/2013,FBS,Colorado,Colorado State,RECEIVING,Nelson,Spruce,LONG,28
+75037,9/1/2013,FBS,Colorado,Colorado State,RECEIVING,D.D.,Goodson,REC,5
+75038,9/1/2013,FBS,Colorado,Colorado State,RECEIVING,D.D.,Goodson,YDS,44
+75039,9/1/2013,FBS,Colorado,Colorado State,RECEIVING,D.D.,Goodson,TD,1
+75040,9/1/2013,FBS,Colorado,Colorado State,RECEIVING,D.D.,Goodson,LONG,18
+75041,9/1/2013,FBS,Colorado,Colorado State,RECEIVING,Tony,Jones,REC,4
+75042,9/1/2013,FBS,Colorado,Colorado State,RECEIVING,Tony,Jones,YDS,14
+75043,9/1/2013,FBS,Colorado,Colorado State,RECEIVING,Tony,Jones,TD,0
+75044,9/1/2013,FBS,Colorado,Colorado State,RECEIVING,Tony,Jones,LONG,8
+75045,9/1/2013,FBS,Colorado,Colorado State,RECEIVING,Kyle,Slavin,REC,2
+75046,9/1/2013,FBS,Colorado,Colorado State,RECEIVING,Kyle,Slavin,YDS,12
+75047,9/1/2013,FBS,Colorado,Colorado State,RECEIVING,Kyle,Slavin,TD,0
+75048,9/1/2013,FBS,Colorado,Colorado State,RECEIVING,Kyle,Slavin,LONG,7
+75049,9/1/2013,FBS,Colorado,Colorado State,RECEIVING,Tyler,McCulloch,REC,2
+75050,9/1/2013,FBS,Colorado,Colorado State,RECEIVING,Tyler,McCulloch,YDS,12
+75051,9/1/2013,FBS,Colorado,Colorado State,RECEIVING,Tyler,McCulloch,TD,0
+75052,9/1/2013,FBS,Colorado,Colorado State,RECEIVING,Tyler,McCulloch,LONG,8
+75053,9/1/2013,FBS,Colorado,Colorado State,RECEIVING,Scott,Fernandez,REC,2
+75054,9/1/2013,FBS,Colorado,Colorado State,RECEIVING,Scott,Fernandez,YDS,11
+75055,9/1/2013,FBS,Colorado,Colorado State,RECEIVING,Scott,Fernandez,TD,0
+75056,9/1/2013,FBS,Colorado,Colorado State,RECEIVING,Scott,Fernandez,LONG,6
+75057,9/1/2013,FBS,Colorado,Colorado State,KICKING,Will,Oliver,FG-FGA,4/4
+75058,9/1/2013,FBS,Colorado,Colorado State,KICKING,Will,Oliver,LONG,52
+75059,9/1/2013,FBS,Colorado,Colorado State,KICKING,Will,Oliver,XP,3
+75060,9/1/2013,FBS,Colorado,Colorado State,KICKING,Will,Oliver,PTS,15
+75061,9/1/2013,FBS,Colorado,Colorado State,PUNTING,Darragh,O'Neill,NO,8
+75062,9/1/2013,FBS,Colorado,Colorado State,PUNTING,Darragh,O'Neill,YDS,340
+75063,9/1/2013,FBS,Colorado,Colorado State,PUNTING,Darragh,O'Neill,AVG,42.5
+75064,9/1/2013,FBS,Colorado,Colorado State,PUNTING,Darragh,O'Neill,LONG,48
+75065,9/1/2013,FBS,Colorado,Colorado State,PUNT RETURNS,Nelson,Spruce,NO,4
+75066,9/1/2013,FBS,Colorado,Colorado State,PUNT RETURNS,Nelson,Spruce,YDS,34
+75067,9/1/2013,FBS,Colorado,Colorado State,PUNT RETURNS,Nelson,Spruce,AVG,8.5
+75068,9/1/2013,FBS,Colorado,Colorado State,PUNT RETURNS,Nelson,Spruce,LONG,19
+75069,9/1/2013,FBS,Colorado,Colorado State,KICK RETURNS,Marques,Mosley,NO,1
+75070,9/1/2013,FBS,Colorado,Colorado State,KICK RETURNS,Marques,Mosley,YDS,19
+75071,9/1/2013,FBS,Colorado,Colorado State,KICK RETURNS,Marques,Mosley,AVG,19.0
+75072,9/1/2013,FBS,Colorado,Colorado State,KICK RETURNS,Marques,Mosley,LONG,19
+75073,9/1/2013,FBS,Colorado State,Colorado,RUSHING,Kapri,Bibbs,ATT,15
+75074,9/1/2013,FBS,Colorado State,Colorado,RUSHING,Kapri,Bibbs,YDS,70
+75075,9/1/2013,FBS,Colorado State,Colorado,RUSHING,Kapri,Bibbs,TD,2
+75076,9/1/2013,FBS,Colorado State,Colorado,RUSHING,Kapri,Bibbs,LONG,14
+75077,9/1/2013,FBS,Colorado State,Colorado,RUSHING,Donnell,Alexander,ATT,2
+75078,9/1/2013,FBS,Colorado State,Colorado,RUSHING,Donnell,Alexander,YDS,18
+75079,9/1/2013,FBS,Colorado State,Colorado,RUSHING,Donnell,Alexander,TD,0
+75080,9/1/2013,FBS,Colorado State,Colorado,RUSHING,Donnell,Alexander,LONG,17
+75081,9/1/2013,FBS,Colorado State,Colorado,RUSHING,Chris,Nwoke,ATT,6
+75082,9/1/2013,FBS,Colorado State,Colorado,RUSHING,Chris,Nwoke,YDS,6
+75083,9/1/2013,FBS,Colorado State,Colorado,RUSHING,Chris,Nwoke,TD,0
+75084,9/1/2013,FBS,Colorado State,Colorado,RUSHING,Chris,Nwoke,LONG,4
+75085,9/1/2013,FBS,Colorado State,Colorado,RUSHING,Garrett,Grayson,ATT,5
+75086,9/1/2013,FBS,Colorado State,Colorado,RUSHING,Garrett,Grayson,YDS,0
+75087,9/1/2013,FBS,Colorado State,Colorado,RUSHING,Garrett,Grayson,TD,0
+75088,9/1/2013,FBS,Colorado State,Colorado,RUSHING,Garrett,Grayson,LONG,11
+75089,9/1/2013,FBS,Colorado State,Colorado,PASSING,Garrett,Grayson,CP-ATT-INT,22-39-0
+75090,9/1/2013,FBS,Colorado State,Colorado,PASSING,Garrett,Grayson,YDS,201
+75091,9/1/2013,FBS,Colorado State,Colorado,PASSING,Garrett,Grayson,TD,0
+75092,9/1/2013,FBS,Colorado State,Colorado,PASSING,Garrett,Grayson,LONG,40
+75093,9/1/2013,FBS,Colorado State,Colorado,RECEIVING,Joe,Hansley,REC,7
+75094,9/1/2013,FBS,Colorado State,Colorado,RECEIVING,Joe,Hansley,YDS,90
+75095,9/1/2013,FBS,Colorado State,Colorado,RECEIVING,Joe,Hansley,TD,0
+75096,9/1/2013,FBS,Colorado State,Colorado,RECEIVING,Joe,Hansley,LONG,40
+75097,9/1/2013,FBS,Colorado State,Colorado,RECEIVING,Rashard,Higgins,REC,6
+75098,9/1/2013,FBS,Colorado State,Colorado,RECEIVING,Rashard,Higgins,YDS,57
+75099,9/1/2013,FBS,Colorado State,Colorado,RECEIVING,Rashard,Higgins,TD,0
+75100,9/1/2013,FBS,Colorado State,Colorado,RECEIVING,Rashard,Higgins,LONG,22
+75101,9/1/2013,FBS,Colorado State,Colorado,RECEIVING,Jordon,Vaden,REC,3
+75102,9/1/2013,FBS,Colorado State,Colorado,RECEIVING,Jordon,Vaden,YDS,16
+75103,9/1/2013,FBS,Colorado State,Colorado,RECEIVING,Jordon,Vaden,TD,0
+75104,9/1/2013,FBS,Colorado State,Colorado,RECEIVING,Jordon,Vaden,LONG,10
+75105,9/1/2013,FBS,Colorado State,Colorado,RECEIVING,Kivon,Cartwright,REC,2
+75106,9/1/2013,FBS,Colorado State,Colorado,RECEIVING,Kivon,Cartwright,YDS,22
+75107,9/1/2013,FBS,Colorado State,Colorado,RECEIVING,Kivon,Cartwright,TD,0
+75108,9/1/2013,FBS,Colorado State,Colorado,RECEIVING,Kivon,Cartwright,LONG,14
+75109,9/1/2013,FBS,Colorado State,Colorado,RECEIVING,Donnell,Alexander,REC,2
+75110,9/1/2013,FBS,Colorado State,Colorado,RECEIVING,Donnell,Alexander,YDS,11
+75111,9/1/2013,FBS,Colorado State,Colorado,RECEIVING,Donnell,Alexander,TD,0
+75112,9/1/2013,FBS,Colorado State,Colorado,RECEIVING,Donnell,Alexander,LONG,6
+75113,9/1/2013,FBS,Colorado State,Colorado,RECEIVING,Thomas,Coffman,REC,1
+75114,9/1/2013,FBS,Colorado State,Colorado,RECEIVING,Thomas,Coffman,YDS,4
+75115,9/1/2013,FBS,Colorado State,Colorado,RECEIVING,Thomas,Coffman,TD,0
+75116,9/1/2013,FBS,Colorado State,Colorado,RECEIVING,Thomas,Coffman,LONG,4
+75117,9/1/2013,FBS,Colorado State,Colorado,RECEIVING,Kapri,Bibbs,REC,1
+75118,9/1/2013,FBS,Colorado State,Colorado,RECEIVING,Kapri,Bibbs,YDS,1
+75119,9/1/2013,FBS,Colorado State,Colorado,RECEIVING,Kapri,Bibbs,TD,0
+75120,9/1/2013,FBS,Colorado State,Colorado,RECEIVING,Kapri,Bibbs,LONG,1
+75121,9/1/2013,FBS,Colorado State,Colorado,KICKING,Jared,Roberts,FG-FGA,2/2
+75122,9/1/2013,FBS,Colorado State,Colorado,KICKING,Jared,Roberts,LONG,39
+75123,9/1/2013,FBS,Colorado State,Colorado,KICKING,Jared,Roberts,XP,3
+75124,9/1/2013,FBS,Colorado State,Colorado,KICKING,Jared,Roberts,PTS,9
+75125,9/1/2013,FBS,Colorado State,Colorado,PUNTING,Hayden,Hunt,NO,7
+75126,9/1/2013,FBS,Colorado State,Colorado,PUNTING,Hayden,Hunt,YDS,348
+75127,9/1/2013,FBS,Colorado State,Colorado,PUNTING,Hayden,Hunt,AVG,49.7
+75128,9/1/2013,FBS,Colorado State,Colorado,PUNTING,Hayden,Hunt,LONG,69
+75129,9/1/2013,FBS,Colorado State,Colorado,PUNT RETURNS,Joe,Hansley,NO,3
+75130,9/1/2013,FBS,Colorado State,Colorado,PUNT RETURNS,Joe,Hansley,YDS,92
+75131,9/1/2013,FBS,Colorado State,Colorado,PUNT RETURNS,Joe,Hansley,AVG,30.7
+75132,9/1/2013,FBS,Colorado State,Colorado,PUNT RETURNS,Joe,Hansley,LONG,74
+75133,9/1/2013,FBS,Colorado State,Colorado,PUNT RETURNS,Robert,Ruiz,NO,1
+75134,9/1/2013,FBS,Colorado State,Colorado,PUNT RETURNS,Robert,Ruiz,YDS,0
+75135,9/1/2013,FBS,Colorado State,Colorado,PUNT RETURNS,Robert,Ruiz,AVG,0.0
+75136,9/1/2013,FBS,Colorado State,Colorado,PUNT RETURNS,Robert,Ruiz,LONG,0
+75137,9/1/2013,FBS,Colorado State,Colorado,KICK RETURNS,Thomas,Coffman,NO,4
+75138,9/1/2013,FBS,Colorado State,Colorado,KICK RETURNS,Thomas,Coffman,YDS,162
+75139,9/1/2013,FBS,Colorado State,Colorado,KICK RETURNS,Thomas,Coffman,AVG,40.5
+75140,9/1/2013,FBS,Colorado State,Colorado,KICK RETURNS,Thomas,Coffman,LONG,84
+75141,9/1/2013,FBS,Colorado State,Colorado,KICK RETURNS,Tyree,Simmons,NO,1
+75142,9/1/2013,FBS,Colorado State,Colorado,KICK RETURNS,Tyree,Simmons,YDS,30
+75143,9/1/2013,FBS,Colorado State,Colorado,KICK RETURNS,Tyree,Simmons,AVG,30.0
+75144,9/1/2013,FBS,Colorado State,Colorado,KICK RETURNS,Tyree,Simmons,LONG,30

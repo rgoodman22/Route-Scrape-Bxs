@@ -1,0 +1,169 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+199001,9/14/2013,FBS,Southern Utah,Washington St.,RUSHING,Malik,Brown,ATT,9
+199002,9/14/2013,FBS,Southern Utah,Washington St.,RUSHING,Malik,Brown,YDS,32
+199003,9/14/2013,FBS,Southern Utah,Washington St.,RUSHING,Malik,Brown,TD,0
+199004,9/14/2013,FBS,Southern Utah,Washington St.,RUSHING,Malik,Brown,LONG,9
+199005,9/14/2013,FBS,Southern Utah,Washington St.,RUSHING,Raysean,Martin,ATT,11
+199006,9/14/2013,FBS,Southern Utah,Washington St.,RUSHING,Raysean,Martin,YDS,28
+199007,9/14/2013,FBS,Southern Utah,Washington St.,RUSHING,Raysean,Martin,TD,1
+199008,9/14/2013,FBS,Southern Utah,Washington St.,RUSHING,Raysean,Martin,LONG,7
+199009,9/14/2013,FBS,Southern Utah,Washington St.,RUSHING,Christian,Taele,ATT,7
+199010,9/14/2013,FBS,Southern Utah,Washington St.,RUSHING,Christian,Taele,YDS,10
+199011,9/14/2013,FBS,Southern Utah,Washington St.,RUSHING,Christian,Taele,TD,0
+199012,9/14/2013,FBS,Southern Utah,Washington St.,RUSHING,Christian,Taele,LONG,5
+199013,9/14/2013,FBS,Southern Utah,Washington St.,RUSHING,Levi,Te'o,ATT,2
+199014,9/14/2013,FBS,Southern Utah,Washington St.,RUSHING,Levi,Te'o,YDS,5
+199015,9/14/2013,FBS,Southern Utah,Washington St.,RUSHING,Levi,Te'o,TD,0
+199016,9/14/2013,FBS,Southern Utah,Washington St.,RUSHING,Levi,Te'o,LONG,4
+199017,9/14/2013,FBS,Southern Utah,Washington St.,RUSHING,Mike,Sharp,ATT,3
+199018,9/14/2013,FBS,Southern Utah,Washington St.,RUSHING,Mike,Sharp,YDS,3
+199019,9/14/2013,FBS,Southern Utah,Washington St.,RUSHING,Mike,Sharp,TD,0
+199020,9/14/2013,FBS,Southern Utah,Washington St.,RUSHING,Mike,Sharp,LONG,4
+199021,9/14/2013,FBS,Southern Utah,Washington St.,RUSHING,Aaron,Cantu,ATT,2
+199022,9/14/2013,FBS,Southern Utah,Washington St.,RUSHING,Aaron,Cantu,YDS,-5
+199023,9/14/2013,FBS,Southern Utah,Washington St.,RUSHING,Aaron,Cantu,TD,0
+199024,9/14/2013,FBS,Southern Utah,Washington St.,RUSHING,Aaron,Cantu,LONG,3
+199025,9/14/2013,FBS,Southern Utah,Washington St.,PASSING,Aaron,Cantu,CP-ATT-INT,22-30-3
+199026,9/14/2013,FBS,Southern Utah,Washington St.,PASSING,Aaron,Cantu,YDS,146
+199027,9/14/2013,FBS,Southern Utah,Washington St.,PASSING,Aaron,Cantu,TD,0
+199028,9/14/2013,FBS,Southern Utah,Washington St.,PASSING,Aaron,Cantu,LONG,21
+199029,9/14/2013,FBS,Southern Utah,Washington St.,RECEIVING,Chandler,Allphin,REC,6
+199030,9/14/2013,FBS,Southern Utah,Washington St.,RECEIVING,Chandler,Allphin,YDS,43
+199031,9/14/2013,FBS,Southern Utah,Washington St.,RECEIVING,Chandler,Allphin,TD,0
+199032,9/14/2013,FBS,Southern Utah,Washington St.,RECEIVING,Chandler,Allphin,LONG,16
+199033,9/14/2013,FBS,Southern Utah,Washington St.,RECEIVING,Easton,Pedersen,REC,4
+199034,9/14/2013,FBS,Southern Utah,Washington St.,RECEIVING,Easton,Pedersen,YDS,47
+199035,9/14/2013,FBS,Southern Utah,Washington St.,RECEIVING,Easton,Pedersen,TD,0
+199036,9/14/2013,FBS,Southern Utah,Washington St.,RECEIVING,Easton,Pedersen,LONG,21
+199037,9/14/2013,FBS,Southern Utah,Washington St.,RECEIVING,Jacob,Allie,REC,3
+199038,9/14/2013,FBS,Southern Utah,Washington St.,RECEIVING,Jacob,Allie,YDS,14
+199039,9/14/2013,FBS,Southern Utah,Washington St.,RECEIVING,Jacob,Allie,TD,0
+199040,9/14/2013,FBS,Southern Utah,Washington St.,RECEIVING,Jacob,Allie,LONG,11
+199041,9/14/2013,FBS,Southern Utah,Washington St.,RECEIVING,Fatu,Moala,REC,3
+199042,9/14/2013,FBS,Southern Utah,Washington St.,RECEIVING,Fatu,Moala,YDS,11
+199043,9/14/2013,FBS,Southern Utah,Washington St.,RECEIVING,Fatu,Moala,TD,0
+199044,9/14/2013,FBS,Southern Utah,Washington St.,RECEIVING,Fatu,Moala,LONG,5
+199045,9/14/2013,FBS,Southern Utah,Washington St.,RECEIVING,Anthony,Norris,REC,3
+199046,9/14/2013,FBS,Southern Utah,Washington St.,RECEIVING,Anthony,Norris,YDS,11
+199047,9/14/2013,FBS,Southern Utah,Washington St.,RECEIVING,Anthony,Norris,TD,0
+199048,9/14/2013,FBS,Southern Utah,Washington St.,RECEIVING,Anthony,Norris,LONG,7
+199049,9/14/2013,FBS,Southern Utah,Washington St.,RECEIVING,Christian,Taele,REC,2
+199050,9/14/2013,FBS,Southern Utah,Washington St.,RECEIVING,Christian,Taele,YDS,16
+199051,9/14/2013,FBS,Southern Utah,Washington St.,RECEIVING,Christian,Taele,TD,0
+199052,9/14/2013,FBS,Southern Utah,Washington St.,RECEIVING,Christian,Taele,LONG,9
+199053,9/14/2013,FBS,Southern Utah,Washington St.,RECEIVING,Raysean,Martin,REC,1
+199054,9/14/2013,FBS,Southern Utah,Washington St.,RECEIVING,Raysean,Martin,YDS,4
+199055,9/14/2013,FBS,Southern Utah,Washington St.,RECEIVING,Raysean,Martin,TD,0
+199056,9/14/2013,FBS,Southern Utah,Washington St.,RECEIVING,Raysean,Martin,LONG,4
+199057,9/14/2013,FBS,Southern Utah,Washington St.,KICKING,Colton,Cook,FG-FGA,1/1
+199058,9/14/2013,FBS,Southern Utah,Washington St.,KICKING,Colton,Cook,LONG,40
+199059,9/14/2013,FBS,Southern Utah,Washington St.,KICKING,Colton,Cook,XP,1
+199060,9/14/2013,FBS,Southern Utah,Washington St.,KICKING,Colton,Cook,PTS,4
+199061,9/14/2013,FBS,Southern Utah,Washington St.,PUNTING,Brock,Miller,NO,7
+199062,9/14/2013,FBS,Southern Utah,Washington St.,PUNTING,Brock,Miller,YDS,295
+199063,9/14/2013,FBS,Southern Utah,Washington St.,PUNTING,Brock,Miller,AVG,42.1
+199064,9/14/2013,FBS,Southern Utah,Washington St.,PUNTING,Brock,Miller,LONG,57
+199065,9/14/2013,FBS,Southern Utah,Washington St.,PUNT RETURNS,Griff,McNabb,NO,1
+199066,9/14/2013,FBS,Southern Utah,Washington St.,PUNT RETURNS,Griff,McNabb,YDS,18
+199067,9/14/2013,FBS,Southern Utah,Washington St.,PUNT RETURNS,Griff,McNabb,AVG,18.0
+199068,9/14/2013,FBS,Southern Utah,Washington St.,PUNT RETURNS,Griff,McNabb,LONG,18
+199069,9/14/2013,FBS,Southern Utah,Washington St.,KICK RETURNS,C.J.,Morgan,NO,2
+199070,9/14/2013,FBS,Southern Utah,Washington St.,KICK RETURNS,C.J.,Morgan,YDS,27
+199071,9/14/2013,FBS,Southern Utah,Washington St.,KICK RETURNS,C.J.,Morgan,AVG,13.5
+199072,9/14/2013,FBS,Southern Utah,Washington St.,KICK RETURNS,C.J.,Morgan,LONG,19
+199073,9/14/2013,FBS,Southern Utah,Washington St.,KICK RETURNS,Jacob,Allie,NO,1
+199074,9/14/2013,FBS,Southern Utah,Washington St.,KICK RETURNS,Jacob,Allie,YDS,9
+199075,9/14/2013,FBS,Southern Utah,Washington St.,KICK RETURNS,Jacob,Allie,AVG,9.0
+199076,9/14/2013,FBS,Southern Utah,Washington St.,KICK RETURNS,Jacob,Allie,LONG,9
+199077,9/14/2013,FBS,Washington St.,Southern Utah,RUSHING,Teondray,Caldwell,ATT,6
+199078,9/14/2013,FBS,Washington St.,Southern Utah,RUSHING,Teondray,Caldwell,YDS,26
+199079,9/14/2013,FBS,Washington St.,Southern Utah,RUSHING,Teondray,Caldwell,TD,0
+199080,9/14/2013,FBS,Washington St.,Southern Utah,RUSHING,Teondray,Caldwell,LONG,10
+199081,9/14/2013,FBS,Washington St.,Southern Utah,RUSHING,Jeremiah,Laufasa,ATT,2
+199082,9/14/2013,FBS,Washington St.,Southern Utah,RUSHING,Jeremiah,Laufasa,YDS,14
+199083,9/14/2013,FBS,Washington St.,Southern Utah,RUSHING,Jeremiah,Laufasa,TD,0
+199084,9/14/2013,FBS,Washington St.,Southern Utah,RUSHING,Jeremiah,Laufasa,LONG,8
+199085,9/14/2013,FBS,Washington St.,Southern Utah,RUSHING,Austin,Apodaca,ATT,3
+199086,9/14/2013,FBS,Washington St.,Southern Utah,RUSHING,Austin,Apodaca,YDS,8
+199087,9/14/2013,FBS,Washington St.,Southern Utah,RUSHING,Austin,Apodaca,TD,0
+199088,9/14/2013,FBS,Washington St.,Southern Utah,RUSHING,Austin,Apodaca,LONG,7
+199089,9/14/2013,FBS,Washington St.,Southern Utah,RUSHING,Marcus,Mason,ATT,3
+199090,9/14/2013,FBS,Washington St.,Southern Utah,RUSHING,Marcus,Mason,YDS,7
+199091,9/14/2013,FBS,Washington St.,Southern Utah,RUSHING,Marcus,Mason,TD,0
+199092,9/14/2013,FBS,Washington St.,Southern Utah,RUSHING,Marcus,Mason,LONG,3
+199093,9/14/2013,FBS,Washington St.,Southern Utah,RUSHING,Theron,West,ATT,1
+199094,9/14/2013,FBS,Washington St.,Southern Utah,RUSHING,Theron,West,YDS,1
+199095,9/14/2013,FBS,Washington St.,Southern Utah,RUSHING,Theron,West,TD,0
+199096,9/14/2013,FBS,Washington St.,Southern Utah,RUSHING,Theron,West,LONG,1
+199097,9/14/2013,FBS,Washington St.,Southern Utah,RUSHING,Connor,Halliday,ATT,2
+199098,9/14/2013,FBS,Washington St.,Southern Utah,RUSHING,Connor,Halliday,YDS,-2
+199099,9/14/2013,FBS,Washington St.,Southern Utah,RUSHING,Connor,Halliday,TD,0
+199100,9/14/2013,FBS,Washington St.,Southern Utah,RUSHING,Connor,Halliday,LONG,3
+199101,9/14/2013,FBS,Washington St.,Southern Utah,PASSING,Connor,Halliday,CP-ATT-INT,32-41-1
+199102,9/14/2013,FBS,Washington St.,Southern Utah,PASSING,Connor,Halliday,YDS,383
+199103,9/14/2013,FBS,Washington St.,Southern Utah,PASSING,Connor,Halliday,TD,5
+199104,9/14/2013,FBS,Washington St.,Southern Utah,PASSING,Connor,Halliday,LONG,55
+199105,9/14/2013,FBS,Washington St.,Southern Utah,PASSING,Austin,Apodaca,CP-ATT-INT,3-7-0
+199106,9/14/2013,FBS,Washington St.,Southern Utah,PASSING,Austin,Apodaca,YDS,27
+199107,9/14/2013,FBS,Washington St.,Southern Utah,PASSING,Austin,Apodaca,TD,0
+199108,9/14/2013,FBS,Washington St.,Southern Utah,PASSING,Austin,Apodaca,LONG,17
+199109,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,Gabe,Marks,REC,7
+199110,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,Gabe,Marks,YDS,83
+199111,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,Gabe,Marks,TD,1
+199112,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,Gabe,Marks,LONG,30
+199113,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,River,Cracraft,REC,6
+199114,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,River,Cracraft,YDS,87
+199115,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,River,Cracraft,TD,0
+199116,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,River,Cracraft,LONG,21
+199117,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,Kristoff,Williams,REC,5
+199118,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,Kristoff,Williams,YDS,18
+199119,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,Kristoff,Williams,TD,0
+199120,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,Kristoff,Williams,LONG,16
+199121,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,Isiah,Myers,REC,4
+199122,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,Isiah,Myers,YDS,45
+199123,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,Isiah,Myers,TD,1
+199124,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,Isiah,Myers,LONG,17
+199125,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,Leon,Brooks,REC,4
+199126,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,Leon,Brooks,YDS,20
+199127,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,Leon,Brooks,TD,0
+199128,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,Leon,Brooks,LONG,12
+199129,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,Dom,Williams,REC,3
+199130,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,Dom,Williams,YDS,101
+199131,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,Dom,Williams,TD,2
+199132,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,Dom,Williams,LONG,55
+199133,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,Bobby,Ratliff,REC,2
+199134,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,Bobby,Ratliff,YDS,31
+199135,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,Bobby,Ratliff,TD,0
+199136,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,Bobby,Ratliff,LONG,19
+199137,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,Vince,Mayle,REC,2
+199138,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,Vince,Mayle,YDS,14
+199139,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,Vince,Mayle,TD,1
+199140,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,Vince,Mayle,LONG,11
+199141,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,Brett,Bartolone,REC,1
+199142,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,Brett,Bartolone,YDS,8
+199143,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,Brett,Bartolone,TD,0
+199144,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,Brett,Bartolone,LONG,8
+199145,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,Teondray,Caldwell,REC,1
+199146,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,Teondray,Caldwell,YDS,3
+199147,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,Teondray,Caldwell,TD,0
+199148,9/14/2013,FBS,Washington St.,Southern Utah,RECEIVING,Teondray,Caldwell,LONG,3
+199149,9/14/2013,FBS,Washington St.,Southern Utah,KICKING,Andrew,Furney,FG-FGA,2/2
+199150,9/14/2013,FBS,Washington St.,Southern Utah,KICKING,Andrew,Furney,LONG,46
+199151,9/14/2013,FBS,Washington St.,Southern Utah,KICKING,Andrew,Furney,XP,6
+199152,9/14/2013,FBS,Washington St.,Southern Utah,KICKING,Andrew,Furney,PTS,12
+199153,9/14/2013,FBS,Washington St.,Southern Utah,PUNTING,Mike,Bowlin,NO,3
+199154,9/14/2013,FBS,Washington St.,Southern Utah,PUNTING,Mike,Bowlin,YDS,113
+199155,9/14/2013,FBS,Washington St.,Southern Utah,PUNTING,Mike,Bowlin,AVG,37.7
+199156,9/14/2013,FBS,Washington St.,Southern Utah,PUNTING,Mike,Bowlin,LONG,44
+199157,9/14/2013,FBS,Washington St.,Southern Utah,PUNT RETURNS,Leon,Brooks,NO,2
+199158,9/14/2013,FBS,Washington St.,Southern Utah,PUNT RETURNS,Leon,Brooks,YDS,41
+199159,9/14/2013,FBS,Washington St.,Southern Utah,PUNT RETURNS,Leon,Brooks,AVG,20.5
+199160,9/14/2013,FBS,Washington St.,Southern Utah,PUNT RETURNS,Leon,Brooks,LONG,22
+199161,9/14/2013,FBS,Washington St.,Southern Utah,KICK RETURNS,Rickey,Galvin,NO,1
+199162,9/14/2013,FBS,Washington St.,Southern Utah,KICK RETURNS,Rickey,Galvin,YDS,35
+199163,9/14/2013,FBS,Washington St.,Southern Utah,KICK RETURNS,Rickey,Galvin,AVG,35.0
+199164,9/14/2013,FBS,Washington St.,Southern Utah,KICK RETURNS,Rickey,Galvin,LONG,35
+199165,9/14/2013,FBS,Washington St.,Southern Utah,KICK RETURNS,Teondray,Caldwell,NO,1
+199166,9/14/2013,FBS,Washington St.,Southern Utah,KICK RETURNS,Teondray,Caldwell,YDS,28
+199167,9/14/2013,FBS,Washington St.,Southern Utah,KICK RETURNS,Teondray,Caldwell,AVG,28.0
+199168,9/14/2013,FBS,Washington St.,Southern Utah,KICK RETURNS,Teondray,Caldwell,LONG,28

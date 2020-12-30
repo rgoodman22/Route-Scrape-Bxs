@@ -1,0 +1,181 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+146001,10/19/2013,FBS,Syracuse,Georgia Tech,RUSHING,Jerome,Smith,ATT,11
+146002,10/19/2013,FBS,Syracuse,Georgia Tech,RUSHING,Jerome,Smith,YDS,43
+146003,10/19/2013,FBS,Syracuse,Georgia Tech,RUSHING,Jerome,Smith,TD,0
+146004,10/19/2013,FBS,Syracuse,Georgia Tech,RUSHING,Jerome,Smith,LONG,10
+146005,10/19/2013,FBS,Syracuse,Georgia Tech,RUSHING,Prince-Tyson,Gulley,ATT,7
+146006,10/19/2013,FBS,Syracuse,Georgia Tech,RUSHING,Prince-Tyson,Gulley,YDS,36
+146007,10/19/2013,FBS,Syracuse,Georgia Tech,RUSHING,Prince-Tyson,Gulley,TD,0
+146008,10/19/2013,FBS,Syracuse,Georgia Tech,RUSHING,Prince-Tyson,Gulley,LONG,9
+146009,10/19/2013,FBS,Syracuse,Georgia Tech,RUSHING,Devante,McFarlane,ATT,1
+146010,10/19/2013,FBS,Syracuse,Georgia Tech,RUSHING,Devante,McFarlane,YDS,2
+146011,10/19/2013,FBS,Syracuse,Georgia Tech,RUSHING,Devante,McFarlane,TD,0
+146012,10/19/2013,FBS,Syracuse,Georgia Tech,RUSHING,Devante,McFarlane,LONG,2
+146013,10/19/2013,FBS,Syracuse,Georgia Tech,RUSHING,Adonis,Ameen-Moore,ATT,1
+146014,10/19/2013,FBS,Syracuse,Georgia Tech,RUSHING,Adonis,Ameen-Moore,YDS,0
+146015,10/19/2013,FBS,Syracuse,Georgia Tech,RUSHING,Adonis,Ameen-Moore,TD,0
+146016,10/19/2013,FBS,Syracuse,Georgia Tech,RUSHING,Adonis,Ameen-Moore,LONG,0
+146017,10/19/2013,FBS,Syracuse,Georgia Tech,RUSHING,Terrel,Hunt,ATT,6
+146018,10/19/2013,FBS,Syracuse,Georgia Tech,RUSHING,Terrel,Hunt,YDS,-6
+146019,10/19/2013,FBS,Syracuse,Georgia Tech,RUSHING,Terrel,Hunt,TD,0
+146020,10/19/2013,FBS,Syracuse,Georgia Tech,RUSHING,Terrel,Hunt,LONG,9
+146021,10/19/2013,FBS,Syracuse,Georgia Tech,PASSING,Drew,Allen,CP-ATT-INT,6-15-1
+146022,10/19/2013,FBS,Syracuse,Georgia Tech,PASSING,Drew,Allen,YDS,65
+146023,10/19/2013,FBS,Syracuse,Georgia Tech,PASSING,Drew,Allen,TD,0
+146024,10/19/2013,FBS,Syracuse,Georgia Tech,PASSING,Drew,Allen,LONG,22
+146025,10/19/2013,FBS,Syracuse,Georgia Tech,PASSING,Terrel,Hunt,CP-ATT-INT,7-14-1
+146026,10/19/2013,FBS,Syracuse,Georgia Tech,PASSING,Terrel,Hunt,YDS,68
+146027,10/19/2013,FBS,Syracuse,Georgia Tech,PASSING,Terrel,Hunt,TD,0
+146028,10/19/2013,FBS,Syracuse,Georgia Tech,PASSING,Terrel,Hunt,LONG,16
+146029,10/19/2013,FBS,Syracuse,Georgia Tech,RECEIVING,Ashton,Broyld,REC,3
+146030,10/19/2013,FBS,Syracuse,Georgia Tech,RECEIVING,Ashton,Broyld,YDS,32
+146031,10/19/2013,FBS,Syracuse,Georgia Tech,RECEIVING,Ashton,Broyld,TD,0
+146032,10/19/2013,FBS,Syracuse,Georgia Tech,RECEIVING,Ashton,Broyld,LONG,16
+146033,10/19/2013,FBS,Syracuse,Georgia Tech,RECEIVING,Christopher,Clark,REC,3
+146034,10/19/2013,FBS,Syracuse,Georgia Tech,RECEIVING,Christopher,Clark,YDS,30
+146035,10/19/2013,FBS,Syracuse,Georgia Tech,RECEIVING,Christopher,Clark,TD,0
+146036,10/19/2013,FBS,Syracuse,Georgia Tech,RECEIVING,Christopher,Clark,LONG,11
+146037,10/19/2013,FBS,Syracuse,Georgia Tech,RECEIVING,Jarrod,West,REC,2
+146038,10/19/2013,FBS,Syracuse,Georgia Tech,RECEIVING,Jarrod,West,YDS,31
+146039,10/19/2013,FBS,Syracuse,Georgia Tech,RECEIVING,Jarrod,West,TD,0
+146040,10/19/2013,FBS,Syracuse,Georgia Tech,RECEIVING,Jarrod,West,LONG,22
+146041,10/19/2013,FBS,Syracuse,Georgia Tech,RECEIVING,Beckett,Wales,REC,2
+146042,10/19/2013,FBS,Syracuse,Georgia Tech,RECEIVING,Beckett,Wales,YDS,12
+146043,10/19/2013,FBS,Syracuse,Georgia Tech,RECEIVING,Beckett,Wales,TD,0
+146044,10/19/2013,FBS,Syracuse,Georgia Tech,RECEIVING,Beckett,Wales,LONG,7
+146045,10/19/2013,FBS,Syracuse,Georgia Tech,RECEIVING,Kendall,Moore,REC,1
+146046,10/19/2013,FBS,Syracuse,Georgia Tech,RECEIVING,Kendall,Moore,YDS,15
+146047,10/19/2013,FBS,Syracuse,Georgia Tech,RECEIVING,Kendall,Moore,TD,0
+146048,10/19/2013,FBS,Syracuse,Georgia Tech,RECEIVING,Kendall,Moore,LONG,15
+146049,10/19/2013,FBS,Syracuse,Georgia Tech,RECEIVING,Jeremiah,Kobena,REC,1
+146050,10/19/2013,FBS,Syracuse,Georgia Tech,RECEIVING,Jeremiah,Kobena,YDS,14
+146051,10/19/2013,FBS,Syracuse,Georgia Tech,RECEIVING,Jeremiah,Kobena,TD,0
+146052,10/19/2013,FBS,Syracuse,Georgia Tech,RECEIVING,Jeremiah,Kobena,LONG,14
+146053,10/19/2013,FBS,Syracuse,Georgia Tech,RECEIVING,Prince-Tyson,Gulley,REC,1
+146054,10/19/2013,FBS,Syracuse,Georgia Tech,RECEIVING,Prince-Tyson,Gulley,YDS,-1
+146055,10/19/2013,FBS,Syracuse,Georgia Tech,RECEIVING,Prince-Tyson,Gulley,TD,0
+146056,10/19/2013,FBS,Syracuse,Georgia Tech,RECEIVING,Prince-Tyson,Gulley,LONG,0
+146057,10/19/2013,FBS,Syracuse,Georgia Tech,PUNTING,Riley,Dixon,NO,7
+146058,10/19/2013,FBS,Syracuse,Georgia Tech,PUNTING,Riley,Dixon,YDS,325
+146059,10/19/2013,FBS,Syracuse,Georgia Tech,PUNTING,Riley,Dixon,AVG,46.4
+146060,10/19/2013,FBS,Syracuse,Georgia Tech,PUNTING,Riley,Dixon,LONG,54
+146061,10/19/2013,FBS,Syracuse,Georgia Tech,PUNTING,,Team,NO,1
+146062,10/19/2013,FBS,Syracuse,Georgia Tech,PUNTING,,Team,YDS,0
+146063,10/19/2013,FBS,Syracuse,Georgia Tech,PUNTING,,Team,AVG,0.0
+146064,10/19/2013,FBS,Syracuse,Georgia Tech,PUNTING,,Team,LONG,0
+146065,10/19/2013,FBS,Syracuse,Georgia Tech,PUNT RETURNS,Brisly,Estime,NO,2
+146066,10/19/2013,FBS,Syracuse,Georgia Tech,PUNT RETURNS,Brisly,Estime,YDS,44
+146067,10/19/2013,FBS,Syracuse,Georgia Tech,PUNT RETURNS,Brisly,Estime,AVG,22.0
+146068,10/19/2013,FBS,Syracuse,Georgia Tech,PUNT RETURNS,Brisly,Estime,LONG,43
+146069,10/19/2013,FBS,Syracuse,Georgia Tech,KICK RETURNS,Prince-Tyson,Gulley,NO,5
+146070,10/19/2013,FBS,Syracuse,Georgia Tech,KICK RETURNS,Prince-Tyson,Gulley,YDS,128
+146071,10/19/2013,FBS,Syracuse,Georgia Tech,KICK RETURNS,Prince-Tyson,Gulley,AVG,25.6
+146072,10/19/2013,FBS,Syracuse,Georgia Tech,KICK RETURNS,Prince-Tyson,Gulley,LONG,49
+146073,10/19/2013,FBS,Syracuse,Georgia Tech,KICK RETURNS,Brisly,Estime,NO,1
+146074,10/19/2013,FBS,Syracuse,Georgia Tech,KICK RETURNS,Brisly,Estime,YDS,15
+146075,10/19/2013,FBS,Syracuse,Georgia Tech,KICK RETURNS,Brisly,Estime,AVG,15.0
+146076,10/19/2013,FBS,Syracuse,Georgia Tech,KICK RETURNS,Brisly,Estime,LONG,15
+146077,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Justin,Thomas,ATT,10
+146078,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Justin,Thomas,YDS,95
+146079,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Justin,Thomas,TD,1
+146080,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Justin,Thomas,LONG,50
+146081,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Zach,Laskey,ATT,13
+146082,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Zach,Laskey,YDS,75
+146083,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Zach,Laskey,TD,3
+146084,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Zach,Laskey,LONG,9
+146085,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Vad,Lee,ATT,14
+146086,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Vad,Lee,YDS,72
+146087,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Vad,Lee,TD,2
+146088,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Vad,Lee,LONG,19
+146089,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,David,Sims,ATT,12
+146090,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,David,Sims,YDS,56
+146091,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,David,Sims,TD,0
+146092,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,David,Sims,LONG,11
+146093,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Deon,Hill,ATT,1
+146094,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Deon,Hill,YDS,23
+146095,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Deon,Hill,TD,0
+146096,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Deon,Hill,LONG,23
+146097,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Robert,Godhigh,ATT,2
+146098,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Robert,Godhigh,YDS,19
+146099,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Robert,Godhigh,TD,0
+146100,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Robert,Godhigh,LONG,10
+146101,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Charles,Perkins,ATT,1
+146102,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Charles,Perkins,YDS,17
+146103,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Charles,Perkins,TD,0
+146104,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Charles,Perkins,LONG,17
+146105,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Tony,Zenon,ATT,2
+146106,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Tony,Zenon,YDS,11
+146107,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Tony,Zenon,TD,0
+146108,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Tony,Zenon,LONG,7
+146109,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Tim,Byerly,ATT,3
+146110,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Tim,Byerly,YDS,10
+146111,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Tim,Byerly,TD,0
+146112,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Tim,Byerly,LONG,7
+146113,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Matt,Connors,ATT,4
+146114,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Matt,Connors,YDS,9
+146115,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Matt,Connors,TD,0
+146116,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Matt,Connors,LONG,6
+146117,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Austin,McClellan,ATT,1
+146118,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Austin,McClellan,YDS,5
+146119,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Austin,McClellan,TD,0
+146120,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Austin,McClellan,LONG,5
+146121,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Synjyn,Days,ATT,1
+146122,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Synjyn,Days,YDS,4
+146123,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Synjyn,Days,TD,1
+146124,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Synjyn,Days,LONG,4
+146125,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Broderick,Snoddy,ATT,2
+146126,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Broderick,Snoddy,YDS,0
+146127,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Broderick,Snoddy,TD,0
+146128,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,Broderick,Snoddy,LONG,3
+146129,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,B.J.,Bostic,ATT,1
+146130,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,B.J.,Bostic,YDS,-2
+146131,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,B.J.,Bostic,TD,0
+146132,10/19/2013,FBS,Georgia Tech,Syracuse,RUSHING,B.J.,Bostic,LONG,0
+146133,10/19/2013,FBS,Georgia Tech,Syracuse,PASSING,Vad,Lee,CP-ATT-INT,3-3-0
+146134,10/19/2013,FBS,Georgia Tech,Syracuse,PASSING,Vad,Lee,YDS,88
+146135,10/19/2013,FBS,Georgia Tech,Syracuse,PASSING,Vad,Lee,TD,1
+146136,10/19/2013,FBS,Georgia Tech,Syracuse,PASSING,Vad,Lee,LONG,46
+146137,10/19/2013,FBS,Georgia Tech,Syracuse,PASSING,DeAndre,Smelter,CP-ATT-INT,0-1-1
+146138,10/19/2013,FBS,Georgia Tech,Syracuse,PASSING,DeAndre,Smelter,YDS,0
+146139,10/19/2013,FBS,Georgia Tech,Syracuse,PASSING,DeAndre,Smelter,TD,0
+146140,10/19/2013,FBS,Georgia Tech,Syracuse,PASSING,DeAndre,Smelter,LONG,0
+146141,10/19/2013,FBS,Georgia Tech,Syracuse,PASSING,Justin,Thomas,CP-ATT-INT,0-1-0
+146142,10/19/2013,FBS,Georgia Tech,Syracuse,PASSING,Justin,Thomas,YDS,0
+146143,10/19/2013,FBS,Georgia Tech,Syracuse,PASSING,Justin,Thomas,TD,0
+146144,10/19/2013,FBS,Georgia Tech,Syracuse,PASSING,Justin,Thomas,LONG,0
+146145,10/19/2013,FBS,Georgia Tech,Syracuse,RECEIVING,Darren,Waller,REC,1
+146146,10/19/2013,FBS,Georgia Tech,Syracuse,RECEIVING,Darren,Waller,YDS,46
+146147,10/19/2013,FBS,Georgia Tech,Syracuse,RECEIVING,Darren,Waller,TD,1
+146148,10/19/2013,FBS,Georgia Tech,Syracuse,RECEIVING,Darren,Waller,LONG,46
+146149,10/19/2013,FBS,Georgia Tech,Syracuse,RECEIVING,Dennis,Andrews,REC,1
+146150,10/19/2013,FBS,Georgia Tech,Syracuse,RECEIVING,Dennis,Andrews,YDS,37
+146151,10/19/2013,FBS,Georgia Tech,Syracuse,RECEIVING,Dennis,Andrews,TD,0
+146152,10/19/2013,FBS,Georgia Tech,Syracuse,RECEIVING,Dennis,Andrews,LONG,37
+146153,10/19/2013,FBS,Georgia Tech,Syracuse,RECEIVING,B.J.,Bostic,REC,1
+146154,10/19/2013,FBS,Georgia Tech,Syracuse,RECEIVING,B.J.,Bostic,YDS,5
+146155,10/19/2013,FBS,Georgia Tech,Syracuse,RECEIVING,B.J.,Bostic,TD,0
+146156,10/19/2013,FBS,Georgia Tech,Syracuse,RECEIVING,B.J.,Bostic,LONG,5
+146157,10/19/2013,FBS,Georgia Tech,Syracuse,KICKING,Harrison,Butker,FG-FGA,0/0
+146158,10/19/2013,FBS,Georgia Tech,Syracuse,KICKING,Harrison,Butker,LONG,-
+146159,10/19/2013,FBS,Georgia Tech,Syracuse,KICKING,Harrison,Butker,XP,8
+146160,10/19/2013,FBS,Georgia Tech,Syracuse,KICKING,Harrison,Butker,PTS,8
+146161,10/19/2013,FBS,Georgia Tech,Syracuse,PUNTING,Sean,Poole,NO,3
+146162,10/19/2013,FBS,Georgia Tech,Syracuse,PUNTING,Sean,Poole,YDS,134
+146163,10/19/2013,FBS,Georgia Tech,Syracuse,PUNTING,Sean,Poole,AVG,44.7
+146164,10/19/2013,FBS,Georgia Tech,Syracuse,PUNTING,Sean,Poole,LONG,46
+146165,10/19/2013,FBS,Georgia Tech,Syracuse,PUNT RETURNS,DeAndre,Smelter,NO,4
+146166,10/19/2013,FBS,Georgia Tech,Syracuse,PUNT RETURNS,DeAndre,Smelter,YDS,46
+146167,10/19/2013,FBS,Georgia Tech,Syracuse,PUNT RETURNS,DeAndre,Smelter,AVG,11.5
+146168,10/19/2013,FBS,Georgia Tech,Syracuse,PUNT RETURNS,DeAndre,Smelter,LONG,23
+146169,10/19/2013,FBS,Georgia Tech,Syracuse,PUNT RETURNS,Chris,Milton,NO,1
+146170,10/19/2013,FBS,Georgia Tech,Syracuse,PUNT RETURNS,Chris,Milton,YDS,22
+146171,10/19/2013,FBS,Georgia Tech,Syracuse,PUNT RETURNS,Chris,Milton,AVG,22.0
+146172,10/19/2013,FBS,Georgia Tech,Syracuse,PUNT RETURNS,Chris,Milton,LONG,0
+146173,10/19/2013,FBS,Georgia Tech,Syracuse,PUNT RETURNS,Dennis,Andrews,NO,1
+146174,10/19/2013,FBS,Georgia Tech,Syracuse,PUNT RETURNS,Dennis,Andrews,YDS,0
+146175,10/19/2013,FBS,Georgia Tech,Syracuse,PUNT RETURNS,Dennis,Andrews,AVG,0.0
+146176,10/19/2013,FBS,Georgia Tech,Syracuse,PUNT RETURNS,Dennis,Andrews,LONG,0
+146177,10/19/2013,FBS,Georgia Tech,Syracuse,KICK RETURNS,Lynn,Griffin,NO,1
+146178,10/19/2013,FBS,Georgia Tech,Syracuse,KICK RETURNS,Lynn,Griffin,YDS,34
+146179,10/19/2013,FBS,Georgia Tech,Syracuse,KICK RETURNS,Lynn,Griffin,AVG,34.0
+146180,10/19/2013,FBS,Georgia Tech,Syracuse,KICK RETURNS,Lynn,Griffin,LONG,34

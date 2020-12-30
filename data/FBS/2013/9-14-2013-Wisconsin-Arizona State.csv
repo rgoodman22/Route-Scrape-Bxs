@@ -1,0 +1,153 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+213001,9/14/2013,FBS,Wisconsin,Arizona State,RUSHING,Melvin,Gordon,ATT,15
+213002,9/14/2013,FBS,Wisconsin,Arizona State,RUSHING,Melvin,Gordon,YDS,193
+213003,9/14/2013,FBS,Wisconsin,Arizona State,RUSHING,Melvin,Gordon,TD,2
+213004,9/14/2013,FBS,Wisconsin,Arizona State,RUSHING,Melvin,Gordon,LONG,80
+213005,9/14/2013,FBS,Wisconsin,Arizona State,RUSHING,James,White,ATT,12
+213006,9/14/2013,FBS,Wisconsin,Arizona State,RUSHING,James,White,YDS,45
+213007,9/14/2013,FBS,Wisconsin,Arizona State,RUSHING,James,White,TD,0
+213008,9/14/2013,FBS,Wisconsin,Arizona State,RUSHING,James,White,LONG,19
+213009,9/14/2013,FBS,Wisconsin,Arizona State,RUSHING,Corey,Clement,ATT,2
+213010,9/14/2013,FBS,Wisconsin,Arizona State,RUSHING,Corey,Clement,YDS,1
+213011,9/14/2013,FBS,Wisconsin,Arizona State,RUSHING,Corey,Clement,TD,0
+213012,9/14/2013,FBS,Wisconsin,Arizona State,RUSHING,Corey,Clement,LONG,2
+213013,9/14/2013,FBS,Wisconsin,Arizona State,RUSHING,,Team,ATT,2
+213014,9/14/2013,FBS,Wisconsin,Arizona State,RUSHING,,Team,YDS,-3
+213015,9/14/2013,FBS,Wisconsin,Arizona State,RUSHING,,Team,TD,0
+213016,9/14/2013,FBS,Wisconsin,Arizona State,RUSHING,,Team,LONG,0
+213017,9/14/2013,FBS,Wisconsin,Arizona State,RUSHING,Joel,Stave,ATT,1
+213018,9/14/2013,FBS,Wisconsin,Arizona State,RUSHING,Joel,Stave,YDS,-5
+213019,9/14/2013,FBS,Wisconsin,Arizona State,RUSHING,Joel,Stave,TD,0
+213020,9/14/2013,FBS,Wisconsin,Arizona State,RUSHING,Joel,Stave,LONG,0
+213021,9/14/2013,FBS,Wisconsin,Arizona State,PASSING,Joel,Stave,CP-ATT-INT,15-30-0
+213022,9/14/2013,FBS,Wisconsin,Arizona State,PASSING,Joel,Stave,YDS,187
+213023,9/14/2013,FBS,Wisconsin,Arizona State,PASSING,Joel,Stave,TD,1
+213024,9/14/2013,FBS,Wisconsin,Arizona State,PASSING,Joel,Stave,LONG,51
+213025,9/14/2013,FBS,Wisconsin,Arizona State,PASSING,Chris,Borland,CP-ATT-INT,1-1-0
+213026,9/14/2013,FBS,Wisconsin,Arizona State,PASSING,Chris,Borland,YDS,23
+213027,9/14/2013,FBS,Wisconsin,Arizona State,PASSING,Chris,Borland,TD,0
+213028,9/14/2013,FBS,Wisconsin,Arizona State,PASSING,Chris,Borland,LONG,23
+213029,9/14/2013,FBS,Wisconsin,Arizona State,RECEIVING,Jared,Abbrederis,REC,6
+213030,9/14/2013,FBS,Wisconsin,Arizona State,RECEIVING,Jared,Abbrederis,YDS,87
+213031,9/14/2013,FBS,Wisconsin,Arizona State,RECEIVING,Jared,Abbrederis,TD,0
+213032,9/14/2013,FBS,Wisconsin,Arizona State,RECEIVING,Jared,Abbrederis,LONG,31
+213033,9/14/2013,FBS,Wisconsin,Arizona State,RECEIVING,James,White,REC,4
+213034,9/14/2013,FBS,Wisconsin,Arizona State,RECEIVING,James,White,YDS,24
+213035,9/14/2013,FBS,Wisconsin,Arizona State,RECEIVING,James,White,TD,0
+213036,9/14/2013,FBS,Wisconsin,Arizona State,RECEIVING,James,White,LONG,9
+213037,9/14/2013,FBS,Wisconsin,Arizona State,RECEIVING,Jacob,Pedersen,REC,3
+213038,9/14/2013,FBS,Wisconsin,Arizona State,RECEIVING,Jacob,Pedersen,YDS,32
+213039,9/14/2013,FBS,Wisconsin,Arizona State,RECEIVING,Jacob,Pedersen,TD,1
+213040,9/14/2013,FBS,Wisconsin,Arizona State,RECEIVING,Jacob,Pedersen,LONG,23
+213041,9/14/2013,FBS,Wisconsin,Arizona State,RECEIVING,Jordan,Fredrick,REC,2
+213042,9/14/2013,FBS,Wisconsin,Arizona State,RECEIVING,Jordan,Fredrick,YDS,16
+213043,9/14/2013,FBS,Wisconsin,Arizona State,RECEIVING,Jordan,Fredrick,TD,0
+213044,9/14/2013,FBS,Wisconsin,Arizona State,RECEIVING,Jordan,Fredrick,LONG,10
+213045,9/14/2013,FBS,Wisconsin,Arizona State,RECEIVING,Jeff,Duckworth,REC,1
+213046,9/14/2013,FBS,Wisconsin,Arizona State,RECEIVING,Jeff,Duckworth,YDS,51
+213047,9/14/2013,FBS,Wisconsin,Arizona State,RECEIVING,Jeff,Duckworth,TD,0
+213048,9/14/2013,FBS,Wisconsin,Arizona State,RECEIVING,Jeff,Duckworth,LONG,51
+213049,9/14/2013,FBS,Wisconsin,Arizona State,KICKING,Kyle,French,FG-FGA,1/1
+213050,9/14/2013,FBS,Wisconsin,Arizona State,KICKING,Kyle,French,LONG,34
+213051,9/14/2013,FBS,Wisconsin,Arizona State,KICKING,Kyle,French,XP,3
+213052,9/14/2013,FBS,Wisconsin,Arizona State,KICKING,Kyle,French,PTS,6
+213053,9/14/2013,FBS,Wisconsin,Arizona State,PUNTING,Drew,Meyer,NO,7
+213054,9/14/2013,FBS,Wisconsin,Arizona State,PUNTING,Drew,Meyer,YDS,271
+213055,9/14/2013,FBS,Wisconsin,Arizona State,PUNTING,Drew,Meyer,AVG,38.7
+213056,9/14/2013,FBS,Wisconsin,Arizona State,PUNTING,Drew,Meyer,LONG,47
+213057,9/14/2013,FBS,Wisconsin,Arizona State,PUNT RETURNS,Kenzel,Doe,NO,1
+213058,9/14/2013,FBS,Wisconsin,Arizona State,PUNT RETURNS,Kenzel,Doe,YDS,16
+213059,9/14/2013,FBS,Wisconsin,Arizona State,PUNT RETURNS,Kenzel,Doe,AVG,16.0
+213060,9/14/2013,FBS,Wisconsin,Arizona State,PUNT RETURNS,Kenzel,Doe,LONG,16
+213061,9/14/2013,FBS,Wisconsin,Arizona State,PUNT RETURNS,Sojourn,Shelton,NO,1
+213062,9/14/2013,FBS,Wisconsin,Arizona State,PUNT RETURNS,Sojourn,Shelton,YDS,-2
+213063,9/14/2013,FBS,Wisconsin,Arizona State,PUNT RETURNS,Sojourn,Shelton,AVG,-2.0
+213064,9/14/2013,FBS,Wisconsin,Arizona State,PUNT RETURNS,Sojourn,Shelton,LONG,0
+213065,9/14/2013,FBS,Wisconsin,Arizona State,KICK RETURNS,Kenzel,Doe,NO,3
+213066,9/14/2013,FBS,Wisconsin,Arizona State,KICK RETURNS,Kenzel,Doe,YDS,64
+213067,9/14/2013,FBS,Wisconsin,Arizona State,KICK RETURNS,Kenzel,Doe,AVG,21.3
+213068,9/14/2013,FBS,Wisconsin,Arizona State,KICK RETURNS,Kenzel,Doe,LONG,27
+213069,9/14/2013,FBS,Arizona State,Wisconsin,RUSHING,Marion,Grice,ATT,22
+213070,9/14/2013,FBS,Arizona State,Wisconsin,RUSHING,Marion,Grice,YDS,84
+213071,9/14/2013,FBS,Arizona State,Wisconsin,RUSHING,Marion,Grice,TD,4
+213072,9/14/2013,FBS,Arizona State,Wisconsin,RUSHING,Marion,Grice,LONG,18
+213073,9/14/2013,FBS,Arizona State,Wisconsin,RUSHING,D.J.,Foster,ATT,5
+213074,9/14/2013,FBS,Arizona State,Wisconsin,RUSHING,D.J.,Foster,YDS,27
+213075,9/14/2013,FBS,Arizona State,Wisconsin,RUSHING,D.J.,Foster,TD,0
+213076,9/14/2013,FBS,Arizona State,Wisconsin,RUSHING,D.J.,Foster,LONG,15
+213077,9/14/2013,FBS,Arizona State,Wisconsin,RUSHING,Taylor,Kelly,ATT,11
+213078,9/14/2013,FBS,Arizona State,Wisconsin,RUSHING,Taylor,Kelly,YDS,24
+213079,9/14/2013,FBS,Arizona State,Wisconsin,RUSHING,Taylor,Kelly,TD,0
+213080,9/14/2013,FBS,Arizona State,Wisconsin,RUSHING,Taylor,Kelly,LONG,5
+213081,9/14/2013,FBS,Arizona State,Wisconsin,RUSHING,Deantre,Lewis,ATT,2
+213082,9/14/2013,FBS,Arizona State,Wisconsin,RUSHING,Deantre,Lewis,YDS,13
+213083,9/14/2013,FBS,Arizona State,Wisconsin,RUSHING,Deantre,Lewis,TD,0
+213084,9/14/2013,FBS,Arizona State,Wisconsin,RUSHING,Deantre,Lewis,LONG,8
+213085,9/14/2013,FBS,Arizona State,Wisconsin,RUSHING,Michael,Eubank,ATT,1
+213086,9/14/2013,FBS,Arizona State,Wisconsin,RUSHING,Michael,Eubank,YDS,0
+213087,9/14/2013,FBS,Arizona State,Wisconsin,RUSHING,Michael,Eubank,TD,0
+213088,9/14/2013,FBS,Arizona State,Wisconsin,RUSHING,Michael,Eubank,LONG,0
+213089,9/14/2013,FBS,Arizona State,Wisconsin,RUSHING,,Team,ATT,1
+213090,9/14/2013,FBS,Arizona State,Wisconsin,RUSHING,,Team,YDS,-32
+213091,9/14/2013,FBS,Arizona State,Wisconsin,RUSHING,,Team,TD,0
+213092,9/14/2013,FBS,Arizona State,Wisconsin,RUSHING,,Team,LONG,0
+213093,9/14/2013,FBS,Arizona State,Wisconsin,PASSING,Taylor,Kelly,CP-ATT-INT,29-51-1
+213094,9/14/2013,FBS,Arizona State,Wisconsin,PASSING,Taylor,Kelly,YDS,352
+213095,9/14/2013,FBS,Arizona State,Wisconsin,PASSING,Taylor,Kelly,TD,0
+213096,9/14/2013,FBS,Arizona State,Wisconsin,PASSING,Taylor,Kelly,LONG,34
+213097,9/14/2013,FBS,Arizona State,Wisconsin,RECEIVING,D.J.,Foster,REC,7
+213098,9/14/2013,FBS,Arizona State,Wisconsin,RECEIVING,D.J.,Foster,YDS,69
+213099,9/14/2013,FBS,Arizona State,Wisconsin,RECEIVING,D.J.,Foster,TD,0
+213100,9/14/2013,FBS,Arizona State,Wisconsin,RECEIVING,D.J.,Foster,LONG,21
+213101,9/14/2013,FBS,Arizona State,Wisconsin,RECEIVING,Jaelen,Strong,REC,6
+213102,9/14/2013,FBS,Arizona State,Wisconsin,RECEIVING,Jaelen,Strong,YDS,104
+213103,9/14/2013,FBS,Arizona State,Wisconsin,RECEIVING,Jaelen,Strong,TD,0
+213104,9/14/2013,FBS,Arizona State,Wisconsin,RECEIVING,Jaelen,Strong,LONG,24
+213105,9/14/2013,FBS,Arizona State,Wisconsin,RECEIVING,Marion,Grice,REC,5
+213106,9/14/2013,FBS,Arizona State,Wisconsin,RECEIVING,Marion,Grice,YDS,50
+213107,9/14/2013,FBS,Arizona State,Wisconsin,RECEIVING,Marion,Grice,TD,0
+213108,9/14/2013,FBS,Arizona State,Wisconsin,RECEIVING,Marion,Grice,LONG,20
+213109,9/14/2013,FBS,Arizona State,Wisconsin,RECEIVING,Chris,Coyle,REC,3
+213110,9/14/2013,FBS,Arizona State,Wisconsin,RECEIVING,Chris,Coyle,YDS,33
+213111,9/14/2013,FBS,Arizona State,Wisconsin,RECEIVING,Chris,Coyle,TD,0
+213112,9/14/2013,FBS,Arizona State,Wisconsin,RECEIVING,Chris,Coyle,LONG,17
+213113,9/14/2013,FBS,Arizona State,Wisconsin,RECEIVING,Richard,Smith,REC,3
+213114,9/14/2013,FBS,Arizona State,Wisconsin,RECEIVING,Richard,Smith,YDS,18
+213115,9/14/2013,FBS,Arizona State,Wisconsin,RECEIVING,Richard,Smith,TD,0
+213116,9/14/2013,FBS,Arizona State,Wisconsin,RECEIVING,Richard,Smith,LONG,7
+213117,9/14/2013,FBS,Arizona State,Wisconsin,RECEIVING,Kevin,Ozier,REC,2
+213118,9/14/2013,FBS,Arizona State,Wisconsin,RECEIVING,Kevin,Ozier,YDS,48
+213119,9/14/2013,FBS,Arizona State,Wisconsin,RECEIVING,Kevin,Ozier,TD,0
+213120,9/14/2013,FBS,Arizona State,Wisconsin,RECEIVING,Kevin,Ozier,LONG,34
+213121,9/14/2013,FBS,Arizona State,Wisconsin,RECEIVING,Frederick,Gammage,REC,2
+213122,9/14/2013,FBS,Arizona State,Wisconsin,RECEIVING,Frederick,Gammage,YDS,7
+213123,9/14/2013,FBS,Arizona State,Wisconsin,RECEIVING,Frederick,Gammage,TD,0
+213124,9/14/2013,FBS,Arizona State,Wisconsin,RECEIVING,Frederick,Gammage,LONG,5
+213125,9/14/2013,FBS,Arizona State,Wisconsin,RECEIVING,Deantre,Lewis,REC,1
+213126,9/14/2013,FBS,Arizona State,Wisconsin,RECEIVING,Deantre,Lewis,YDS,23
+213127,9/14/2013,FBS,Arizona State,Wisconsin,RECEIVING,Deantre,Lewis,TD,0
+213128,9/14/2013,FBS,Arizona State,Wisconsin,RECEIVING,Deantre,Lewis,LONG,23
+213129,9/14/2013,FBS,Arizona State,Wisconsin,KICKING,Zane,Gonzalez,FG-FGA,2/2
+213130,9/14/2013,FBS,Arizona State,Wisconsin,KICKING,Zane,Gonzalez,LONG,34
+213131,9/14/2013,FBS,Arizona State,Wisconsin,KICKING,Zane,Gonzalez,XP,2
+213132,9/14/2013,FBS,Arizona State,Wisconsin,KICKING,Zane,Gonzalez,PTS,8
+213133,9/14/2013,FBS,Arizona State,Wisconsin,PUNTING,Dom,Vizzare,NO,4
+213134,9/14/2013,FBS,Arizona State,Wisconsin,PUNTING,Dom,Vizzare,YDS,149
+213135,9/14/2013,FBS,Arizona State,Wisconsin,PUNTING,Dom,Vizzare,AVG,37.3
+213136,9/14/2013,FBS,Arizona State,Wisconsin,PUNTING,Dom,Vizzare,LONG,41
+213137,9/14/2013,FBS,Arizona State,Wisconsin,PUNTING,Taylor,Kelly,NO,1
+213138,9/14/2013,FBS,Arizona State,Wisconsin,PUNTING,Taylor,Kelly,YDS,29
+213139,9/14/2013,FBS,Arizona State,Wisconsin,PUNTING,Taylor,Kelly,AVG,29.0
+213140,9/14/2013,FBS,Arizona State,Wisconsin,PUNTING,Taylor,Kelly,LONG,29
+213141,9/14/2013,FBS,Arizona State,Wisconsin,PUNT RETURNS,Robert,Nelson,NO,2
+213142,9/14/2013,FBS,Arizona State,Wisconsin,PUNT RETURNS,Robert,Nelson,YDS,12
+213143,9/14/2013,FBS,Arizona State,Wisconsin,PUNT RETURNS,Robert,Nelson,AVG,6.0
+213144,9/14/2013,FBS,Arizona State,Wisconsin,PUNT RETURNS,Robert,Nelson,LONG,9
+213145,9/14/2013,FBS,Arizona State,Wisconsin,KICK RETURNS,Marion,Grice,NO,3
+213146,9/14/2013,FBS,Arizona State,Wisconsin,KICK RETURNS,Marion,Grice,YDS,64
+213147,9/14/2013,FBS,Arizona State,Wisconsin,KICK RETURNS,Marion,Grice,AVG,21.3
+213148,9/14/2013,FBS,Arizona State,Wisconsin,KICK RETURNS,Marion,Grice,LONG,23
+213149,9/14/2013,FBS,Arizona State,Wisconsin,KICK RETURNS,Alden,Darby,NO,1
+213150,9/14/2013,FBS,Arizona State,Wisconsin,KICK RETURNS,Alden,Darby,YDS,26
+213151,9/14/2013,FBS,Arizona State,Wisconsin,KICK RETURNS,Alden,Darby,AVG,26.0
+213152,9/14/2013,FBS,Arizona State,Wisconsin,KICK RETURNS,Alden,Darby,LONG,26

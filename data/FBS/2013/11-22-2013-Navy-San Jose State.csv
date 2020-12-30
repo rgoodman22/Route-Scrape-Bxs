@@ -1,0 +1,133 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+381001,11/22/2013,FBS,Navy,San Jose State,RUSHING,Keenan,Reynolds,ATT,36
+381002,11/22/2013,FBS,Navy,San Jose State,RUSHING,Keenan,Reynolds,YDS,240
+381003,11/22/2013,FBS,Navy,San Jose State,RUSHING,Keenan,Reynolds,TD,7
+381004,11/22/2013,FBS,Navy,San Jose State,RUSHING,Keenan,Reynolds,LONG,38
+381005,11/22/2013,FBS,Navy,San Jose State,RUSHING,Geoffrey,Whiteside,ATT,5
+381006,11/22/2013,FBS,Navy,San Jose State,RUSHING,Geoffrey,Whiteside,YDS,43
+381007,11/22/2013,FBS,Navy,San Jose State,RUSHING,Geoffrey,Whiteside,TD,0
+381008,11/22/2013,FBS,Navy,San Jose State,RUSHING,Geoffrey,Whiteside,LONG,13
+381009,11/22/2013,FBS,Navy,San Jose State,RUSHING,Darius,Staten,ATT,4
+381010,11/22/2013,FBS,Navy,San Jose State,RUSHING,Darius,Staten,YDS,39
+381011,11/22/2013,FBS,Navy,San Jose State,RUSHING,Darius,Staten,TD,0
+381012,11/22/2013,FBS,Navy,San Jose State,RUSHING,Darius,Staten,LONG,26
+381013,11/22/2013,FBS,Navy,San Jose State,RUSHING,DeBrandon,Sanders,ATT,6
+381014,11/22/2013,FBS,Navy,San Jose State,RUSHING,DeBrandon,Sanders,YDS,36
+381015,11/22/2013,FBS,Navy,San Jose State,RUSHING,DeBrandon,Sanders,TD,0
+381016,11/22/2013,FBS,Navy,San Jose State,RUSHING,DeBrandon,Sanders,LONG,13
+381017,11/22/2013,FBS,Navy,San Jose State,RUSHING,Quinton,Singleton,ATT,6
+381018,11/22/2013,FBS,Navy,San Jose State,RUSHING,Quinton,Singleton,YDS,31
+381019,11/22/2013,FBS,Navy,San Jose State,RUSHING,Quinton,Singleton,TD,0
+381020,11/22/2013,FBS,Navy,San Jose State,RUSHING,Quinton,Singleton,LONG,12
+381021,11/22/2013,FBS,Navy,San Jose State,RUSHING,Demond,Brown,ATT,2
+381022,11/22/2013,FBS,Navy,San Jose State,RUSHING,Demond,Brown,YDS,26
+381023,11/22/2013,FBS,Navy,San Jose State,RUSHING,Demond,Brown,TD,0
+381024,11/22/2013,FBS,Navy,San Jose State,RUSHING,Demond,Brown,LONG,14
+381025,11/22/2013,FBS,Navy,San Jose State,RUSHING,Marcus,Thomas,ATT,2
+381026,11/22/2013,FBS,Navy,San Jose State,RUSHING,Marcus,Thomas,YDS,15
+381027,11/22/2013,FBS,Navy,San Jose State,RUSHING,Marcus,Thomas,TD,0
+381028,11/22/2013,FBS,Navy,San Jose State,RUSHING,Marcus,Thomas,LONG,9
+381029,11/22/2013,FBS,Navy,San Jose State,RUSHING,,Team,ATT,1
+381030,11/22/2013,FBS,Navy,San Jose State,RUSHING,,Team,YDS,2
+381031,11/22/2013,FBS,Navy,San Jose State,RUSHING,,Team,TD,0
+381032,11/22/2013,FBS,Navy,San Jose State,RUSHING,,Team,LONG,0
+381033,11/22/2013,FBS,Navy,San Jose State,PASSING,Keenan,Reynolds,CP-ATT-INT,4-6-0
+381034,11/22/2013,FBS,Navy,San Jose State,PASSING,Keenan,Reynolds,YDS,46
+381035,11/22/2013,FBS,Navy,San Jose State,PASSING,Keenan,Reynolds,TD,1
+381036,11/22/2013,FBS,Navy,San Jose State,PASSING,Keenan,Reynolds,LONG,19
+381037,11/22/2013,FBS,Navy,San Jose State,RECEIVING,Casey,Bolena,REC,1
+381038,11/22/2013,FBS,Navy,San Jose State,RECEIVING,Casey,Bolena,YDS,19
+381039,11/22/2013,FBS,Navy,San Jose State,RECEIVING,Casey,Bolena,TD,0
+381040,11/22/2013,FBS,Navy,San Jose State,RECEIVING,Casey,Bolena,LONG,19
+381041,11/22/2013,FBS,Navy,San Jose State,RECEIVING,Demond,Brown,REC,1
+381042,11/22/2013,FBS,Navy,San Jose State,RECEIVING,Demond,Brown,YDS,14
+381043,11/22/2013,FBS,Navy,San Jose State,RECEIVING,Demond,Brown,TD,0
+381044,11/22/2013,FBS,Navy,San Jose State,RECEIVING,Demond,Brown,LONG,14
+381045,11/22/2013,FBS,Navy,San Jose State,RECEIVING,Matt,Aiken,REC,1
+381046,11/22/2013,FBS,Navy,San Jose State,RECEIVING,Matt,Aiken,YDS,10
+381047,11/22/2013,FBS,Navy,San Jose State,RECEIVING,Matt,Aiken,TD,0
+381048,11/22/2013,FBS,Navy,San Jose State,RECEIVING,Matt,Aiken,LONG,10
+381049,11/22/2013,FBS,Navy,San Jose State,RECEIVING,Darius,Staten,REC,1
+381050,11/22/2013,FBS,Navy,San Jose State,RECEIVING,Darius,Staten,YDS,3
+381051,11/22/2013,FBS,Navy,San Jose State,RECEIVING,Darius,Staten,TD,1
+381052,11/22/2013,FBS,Navy,San Jose State,RECEIVING,Darius,Staten,LONG,3
+381053,11/22/2013,FBS,Navy,San Jose State,KICKING,Nick,Sloan,FG-FGA,1/1
+381054,11/22/2013,FBS,Navy,San Jose State,KICKING,Nick,Sloan,LONG,37
+381055,11/22/2013,FBS,Navy,San Jose State,KICKING,Nick,Sloan,XP,7
+381056,11/22/2013,FBS,Navy,San Jose State,KICKING,Nick,Sloan,PTS,10
+381057,11/22/2013,FBS,Navy,San Jose State,PUNTING,Pablo,Beltran,NO,1
+381058,11/22/2013,FBS,Navy,San Jose State,PUNTING,Pablo,Beltran,YDS,38
+381059,11/22/2013,FBS,Navy,San Jose State,PUNTING,Pablo,Beltran,AVG,38.0
+381060,11/22/2013,FBS,Navy,San Jose State,PUNTING,Pablo,Beltran,LONG,38
+381061,11/22/2013,FBS,Navy,San Jose State,PUNT RETURNS,Shawn,Lynch,NO,1
+381062,11/22/2013,FBS,Navy,San Jose State,PUNT RETURNS,Shawn,Lynch,YDS,24
+381063,11/22/2013,FBS,Navy,San Jose State,PUNT RETURNS,Shawn,Lynch,AVG,24.0
+381064,11/22/2013,FBS,Navy,San Jose State,PUNT RETURNS,Shawn,Lynch,LONG,24
+381065,11/22/2013,FBS,Navy,San Jose State,KICK RETURNS,Marcus,Thomas,NO,3
+381066,11/22/2013,FBS,Navy,San Jose State,KICK RETURNS,Marcus,Thomas,YDS,77
+381067,11/22/2013,FBS,Navy,San Jose State,KICK RETURNS,Marcus,Thomas,AVG,25.7
+381068,11/22/2013,FBS,Navy,San Jose State,KICK RETURNS,Marcus,Thomas,LONG,53
+381069,11/22/2013,FBS,Navy,San Jose State,KICK RETURNS,Demond,Brown,NO,1
+381070,11/22/2013,FBS,Navy,San Jose State,KICK RETURNS,Demond,Brown,YDS,21
+381071,11/22/2013,FBS,Navy,San Jose State,KICK RETURNS,Demond,Brown,AVG,21.0
+381072,11/22/2013,FBS,Navy,San Jose State,KICK RETURNS,Demond,Brown,LONG,21
+381073,11/22/2013,FBS,San Jose State,Navy,RUSHING,Jarrod,Lawson,ATT,26
+381074,11/22/2013,FBS,San Jose State,Navy,RUSHING,Jarrod,Lawson,YDS,98
+381075,11/22/2013,FBS,San Jose State,Navy,RUSHING,Jarrod,Lawson,TD,1
+381076,11/22/2013,FBS,San Jose State,Navy,RUSHING,Jarrod,Lawson,LONG,9
+381077,11/22/2013,FBS,San Jose State,Navy,RUSHING,Thomas,Tucker,ATT,11
+381078,11/22/2013,FBS,San Jose State,Navy,RUSHING,Thomas,Tucker,YDS,62
+381079,11/22/2013,FBS,San Jose State,Navy,RUSHING,Thomas,Tucker,TD,1
+381080,11/22/2013,FBS,San Jose State,Navy,RUSHING,Thomas,Tucker,LONG,19
+381081,11/22/2013,FBS,San Jose State,Navy,RUSHING,David,Fales,ATT,2
+381082,11/22/2013,FBS,San Jose State,Navy,RUSHING,David,Fales,YDS,0
+381083,11/22/2013,FBS,San Jose State,Navy,RUSHING,David,Fales,TD,0
+381084,11/22/2013,FBS,San Jose State,Navy,RUSHING,David,Fales,LONG,1
+381085,11/22/2013,FBS,San Jose State,Navy,PASSING,David,Fales,CP-ATT-INT,42-56-1
+381086,11/22/2013,FBS,San Jose State,Navy,PASSING,David,Fales,YDS,440
+381087,11/22/2013,FBS,San Jose State,Navy,PASSING,David,Fales,TD,5
+381088,11/22/2013,FBS,San Jose State,Navy,PASSING,David,Fales,LONG,30
+381089,11/22/2013,FBS,San Jose State,Navy,RECEIVING,Tyler,Winston,REC,10
+381090,11/22/2013,FBS,San Jose State,Navy,RECEIVING,Tyler,Winston,YDS,86
+381091,11/22/2013,FBS,San Jose State,Navy,RECEIVING,Tyler,Winston,TD,1
+381092,11/22/2013,FBS,San Jose State,Navy,RECEIVING,Tyler,Winston,LONG,21
+381093,11/22/2013,FBS,San Jose State,Navy,RECEIVING,Thomas,Tucker,REC,9
+381094,11/22/2013,FBS,San Jose State,Navy,RECEIVING,Thomas,Tucker,YDS,107
+381095,11/22/2013,FBS,San Jose State,Navy,RECEIVING,Thomas,Tucker,TD,1
+381096,11/22/2013,FBS,San Jose State,Navy,RECEIVING,Thomas,Tucker,LONG,25
+381097,11/22/2013,FBS,San Jose State,Navy,RECEIVING,Chandler,Jones,REC,7
+381098,11/22/2013,FBS,San Jose State,Navy,RECEIVING,Chandler,Jones,YDS,101
+381099,11/22/2013,FBS,San Jose State,Navy,RECEIVING,Chandler,Jones,TD,1
+381100,11/22/2013,FBS,San Jose State,Navy,RECEIVING,Chandler,Jones,LONG,25
+381101,11/22/2013,FBS,San Jose State,Navy,RECEIVING,Jarrod,Lawson,REC,7
+381102,11/22/2013,FBS,San Jose State,Navy,RECEIVING,Jarrod,Lawson,YDS,56
+381103,11/22/2013,FBS,San Jose State,Navy,RECEIVING,Jarrod,Lawson,TD,0
+381104,11/22/2013,FBS,San Jose State,Navy,RECEIVING,Jarrod,Lawson,LONG,13
+381105,11/22/2013,FBS,San Jose State,Navy,RECEIVING,Kyle,Nunn,REC,5
+381106,11/22/2013,FBS,San Jose State,Navy,RECEIVING,Kyle,Nunn,YDS,41
+381107,11/22/2013,FBS,San Jose State,Navy,RECEIVING,Kyle,Nunn,TD,2
+381108,11/22/2013,FBS,San Jose State,Navy,RECEIVING,Kyle,Nunn,LONG,14
+381109,11/22/2013,FBS,San Jose State,Navy,RECEIVING,Billy,Freeman,REC,2
+381110,11/22/2013,FBS,San Jose State,Navy,RECEIVING,Billy,Freeman,YDS,13
+381111,11/22/2013,FBS,San Jose State,Navy,RECEIVING,Billy,Freeman,TD,0
+381112,11/22/2013,FBS,San Jose State,Navy,RECEIVING,Billy,Freeman,LONG,7
+381113,11/22/2013,FBS,San Jose State,Navy,RECEIVING,Tim,Crawley,REC,1
+381114,11/22/2013,FBS,San Jose State,Navy,RECEIVING,Tim,Crawley,YDS,30
+381115,11/22/2013,FBS,San Jose State,Navy,RECEIVING,Tim,Crawley,TD,0
+381116,11/22/2013,FBS,San Jose State,Navy,RECEIVING,Tim,Crawley,LONG,30
+381117,11/22/2013,FBS,San Jose State,Navy,RECEIVING,Jabari,Carr,REC,1
+381118,11/22/2013,FBS,San Jose State,Navy,RECEIVING,Jabari,Carr,YDS,6
+381119,11/22/2013,FBS,San Jose State,Navy,RECEIVING,Jabari,Carr,TD,0
+381120,11/22/2013,FBS,San Jose State,Navy,RECEIVING,Jabari,Carr,LONG,6
+381121,11/22/2013,FBS,San Jose State,Navy,KICKING,Austin,Lopez,FG-FGA,1/2
+381122,11/22/2013,FBS,San Jose State,Navy,KICKING,Austin,Lopez,LONG,41
+381123,11/22/2013,FBS,San Jose State,Navy,KICKING,Austin,Lopez,XP,3
+381124,11/22/2013,FBS,San Jose State,Navy,KICKING,Austin,Lopez,PTS,6
+381125,11/22/2013,FBS,San Jose State,Navy,PUNTING,Harrison,Waid,NO,1
+381126,11/22/2013,FBS,San Jose State,Navy,PUNTING,Harrison,Waid,YDS,52
+381127,11/22/2013,FBS,San Jose State,Navy,PUNTING,Harrison,Waid,AVG,52.0
+381128,11/22/2013,FBS,San Jose State,Navy,PUNTING,Harrison,Waid,LONG,52
+381129,11/22/2013,FBS,San Jose State,Navy,KICK RETURNS,Thomas,Tucker,NO,5
+381130,11/22/2013,FBS,San Jose State,Navy,KICK RETURNS,Thomas,Tucker,YDS,109
+381131,11/22/2013,FBS,San Jose State,Navy,KICK RETURNS,Thomas,Tucker,AVG,21.8
+381132,11/22/2013,FBS,San Jose State,Navy,KICK RETURNS,Thomas,Tucker,LONG,30

@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+196001,10/26/2013,FBS,Pittsburgh,Navy,RUSHING,Isaac,Bennett,ATT,22
+196002,10/26/2013,FBS,Pittsburgh,Navy,RUSHING,Isaac,Bennett,YDS,77
+196003,10/26/2013,FBS,Pittsburgh,Navy,RUSHING,Isaac,Bennett,TD,0
+196004,10/26/2013,FBS,Pittsburgh,Navy,RUSHING,Isaac,Bennett,LONG,12
+196005,10/26/2013,FBS,Pittsburgh,Navy,RUSHING,James,Conner,ATT,7
+196006,10/26/2013,FBS,Pittsburgh,Navy,RUSHING,James,Conner,YDS,28
+196007,10/26/2013,FBS,Pittsburgh,Navy,RUSHING,James,Conner,TD,0
+196008,10/26/2013,FBS,Pittsburgh,Navy,RUSHING,James,Conner,LONG,10
+196009,10/26/2013,FBS,Pittsburgh,Navy,RUSHING,Tom,Savage,ATT,7
+196010,10/26/2013,FBS,Pittsburgh,Navy,RUSHING,Tom,Savage,YDS,22
+196011,10/26/2013,FBS,Pittsburgh,Navy,RUSHING,Tom,Savage,TD,0
+196012,10/26/2013,FBS,Pittsburgh,Navy,RUSHING,Tom,Savage,LONG,10
+196013,10/26/2013,FBS,Pittsburgh,Navy,RUSHING,Jaymar,Parrish,ATT,1
+196014,10/26/2013,FBS,Pittsburgh,Navy,RUSHING,Jaymar,Parrish,YDS,5
+196015,10/26/2013,FBS,Pittsburgh,Navy,RUSHING,Jaymar,Parrish,TD,0
+196016,10/26/2013,FBS,Pittsburgh,Navy,RUSHING,Jaymar,Parrish,LONG,5
+196017,10/26/2013,FBS,Pittsburgh,Navy,RUSHING,Rachid,Ibrahim,ATT,1
+196018,10/26/2013,FBS,Pittsburgh,Navy,RUSHING,Rachid,Ibrahim,YDS,3
+196019,10/26/2013,FBS,Pittsburgh,Navy,RUSHING,Rachid,Ibrahim,TD,0
+196020,10/26/2013,FBS,Pittsburgh,Navy,RUSHING,Rachid,Ibrahim,LONG,3
+196021,10/26/2013,FBS,Pittsburgh,Navy,PASSING,Tom,Savage,CP-ATT-INT,20-27-0
+196022,10/26/2013,FBS,Pittsburgh,Navy,PASSING,Tom,Savage,YDS,203
+196023,10/26/2013,FBS,Pittsburgh,Navy,PASSING,Tom,Savage,TD,2
+196024,10/26/2013,FBS,Pittsburgh,Navy,PASSING,Tom,Savage,LONG,28
+196025,10/26/2013,FBS,Pittsburgh,Navy,RECEIVING,Devin,Street,REC,9
+196026,10/26/2013,FBS,Pittsburgh,Navy,RECEIVING,Devin,Street,YDS,96
+196027,10/26/2013,FBS,Pittsburgh,Navy,RECEIVING,Devin,Street,TD,1
+196028,10/26/2013,FBS,Pittsburgh,Navy,RECEIVING,Devin,Street,LONG,23
+196029,10/26/2013,FBS,Pittsburgh,Navy,RECEIVING,Rachid,Ibrahim,REC,4
+196030,10/26/2013,FBS,Pittsburgh,Navy,RECEIVING,Rachid,Ibrahim,YDS,33
+196031,10/26/2013,FBS,Pittsburgh,Navy,RECEIVING,Rachid,Ibrahim,TD,0
+196032,10/26/2013,FBS,Pittsburgh,Navy,RECEIVING,Rachid,Ibrahim,LONG,21
+196033,10/26/2013,FBS,Pittsburgh,Navy,RECEIVING,Tyler,Boyd,REC,3
+196034,10/26/2013,FBS,Pittsburgh,Navy,RECEIVING,Tyler,Boyd,YDS,35
+196035,10/26/2013,FBS,Pittsburgh,Navy,RECEIVING,Tyler,Boyd,TD,1
+196036,10/26/2013,FBS,Pittsburgh,Navy,RECEIVING,Tyler,Boyd,LONG,21
+196037,10/26/2013,FBS,Pittsburgh,Navy,RECEIVING,Manasseh,Garner,REC,2
+196038,10/26/2013,FBS,Pittsburgh,Navy,RECEIVING,Manasseh,Garner,YDS,29
+196039,10/26/2013,FBS,Pittsburgh,Navy,RECEIVING,Manasseh,Garner,TD,0
+196040,10/26/2013,FBS,Pittsburgh,Navy,RECEIVING,Manasseh,Garner,LONG,28
+196041,10/26/2013,FBS,Pittsburgh,Navy,RECEIVING,Jaymar,Parrish,REC,1
+196042,10/26/2013,FBS,Pittsburgh,Navy,RECEIVING,Jaymar,Parrish,YDS,5
+196043,10/26/2013,FBS,Pittsburgh,Navy,RECEIVING,Jaymar,Parrish,TD,0
+196044,10/26/2013,FBS,Pittsburgh,Navy,RECEIVING,Jaymar,Parrish,LONG,5
+196045,10/26/2013,FBS,Pittsburgh,Navy,RECEIVING,Scott,Orndoff,REC,1
+196046,10/26/2013,FBS,Pittsburgh,Navy,RECEIVING,Scott,Orndoff,YDS,5
+196047,10/26/2013,FBS,Pittsburgh,Navy,RECEIVING,Scott,Orndoff,TD,0
+196048,10/26/2013,FBS,Pittsburgh,Navy,RECEIVING,Scott,Orndoff,LONG,5
+196049,10/26/2013,FBS,Pittsburgh,Navy,KICKING,Chris,Blewitt,FG-FGA,2/2
+196050,10/26/2013,FBS,Pittsburgh,Navy,KICKING,Chris,Blewitt,LONG,44
+196051,10/26/2013,FBS,Pittsburgh,Navy,KICKING,Chris,Blewitt,XP,1
+196052,10/26/2013,FBS,Pittsburgh,Navy,KICKING,Chris,Blewitt,PTS,7
+196053,10/26/2013,FBS,Pittsburgh,Navy,PUNTING,Matt,Yoklic,NO,4
+196054,10/26/2013,FBS,Pittsburgh,Navy,PUNTING,Matt,Yoklic,YDS,141
+196055,10/26/2013,FBS,Pittsburgh,Navy,PUNTING,Matt,Yoklic,AVG,35.3
+196056,10/26/2013,FBS,Pittsburgh,Navy,PUNTING,Matt,Yoklic,LONG,43
+196057,10/26/2013,FBS,Pittsburgh,Navy,KICK RETURNS,Tyler,Boyd,NO,1
+196058,10/26/2013,FBS,Pittsburgh,Navy,KICK RETURNS,Tyler,Boyd,YDS,14
+196059,10/26/2013,FBS,Pittsburgh,Navy,KICK RETURNS,Tyler,Boyd,AVG,14.0
+196060,10/26/2013,FBS,Pittsburgh,Navy,KICK RETURNS,Tyler,Boyd,LONG,14
+196061,10/26/2013,FBS,Navy,Pittsburgh,RUSHING,Keenan,Reynolds,ATT,21
+196062,10/26/2013,FBS,Navy,Pittsburgh,RUSHING,Keenan,Reynolds,YDS,93
+196063,10/26/2013,FBS,Navy,Pittsburgh,RUSHING,Keenan,Reynolds,TD,1
+196064,10/26/2013,FBS,Navy,Pittsburgh,RUSHING,Keenan,Reynolds,LONG,31
+196065,10/26/2013,FBS,Navy,Pittsburgh,RUSHING,Geoffrey,Whiteside,ATT,4
+196066,10/26/2013,FBS,Navy,Pittsburgh,RUSHING,Geoffrey,Whiteside,YDS,29
+196067,10/26/2013,FBS,Navy,Pittsburgh,RUSHING,Geoffrey,Whiteside,TD,0
+196068,10/26/2013,FBS,Navy,Pittsburgh,RUSHING,Geoffrey,Whiteside,LONG,11
+196069,10/26/2013,FBS,Navy,Pittsburgh,RUSHING,Quinton,Singleton,ATT,5
+196070,10/26/2013,FBS,Navy,Pittsburgh,RUSHING,Quinton,Singleton,YDS,27
+196071,10/26/2013,FBS,Navy,Pittsburgh,RUSHING,Quinton,Singleton,TD,1
+196072,10/26/2013,FBS,Navy,Pittsburgh,RUSHING,Quinton,Singleton,LONG,9
+196073,10/26/2013,FBS,Navy,Pittsburgh,RUSHING,Darius,Staten,ATT,3
+196074,10/26/2013,FBS,Navy,Pittsburgh,RUSHING,Darius,Staten,YDS,26
+196075,10/26/2013,FBS,Navy,Pittsburgh,RUSHING,Darius,Staten,TD,0
+196076,10/26/2013,FBS,Navy,Pittsburgh,RUSHING,Darius,Staten,LONG,13
+196077,10/26/2013,FBS,Navy,Pittsburgh,RUSHING,Chris,Swain,ATT,5
+196078,10/26/2013,FBS,Navy,Pittsburgh,RUSHING,Chris,Swain,YDS,21
+196079,10/26/2013,FBS,Navy,Pittsburgh,RUSHING,Chris,Swain,TD,0
+196080,10/26/2013,FBS,Navy,Pittsburgh,RUSHING,Chris,Swain,LONG,6
+196081,10/26/2013,FBS,Navy,Pittsburgh,RUSHING,Marcus,Thomas,ATT,3
+196082,10/26/2013,FBS,Navy,Pittsburgh,RUSHING,Marcus,Thomas,YDS,9
+196083,10/26/2013,FBS,Navy,Pittsburgh,RUSHING,Marcus,Thomas,TD,0
+196084,10/26/2013,FBS,Navy,Pittsburgh,RUSHING,Marcus,Thomas,LONG,6
+196085,10/26/2013,FBS,Navy,Pittsburgh,RUSHING,Demond,Brown,ATT,2
+196086,10/26/2013,FBS,Navy,Pittsburgh,RUSHING,Demond,Brown,YDS,8
+196087,10/26/2013,FBS,Navy,Pittsburgh,RUSHING,Demond,Brown,TD,0
+196088,10/26/2013,FBS,Navy,Pittsburgh,RUSHING,Demond,Brown,LONG,6
+196089,10/26/2013,FBS,Navy,Pittsburgh,RUSHING,Noah,Copeland,ATT,4
+196090,10/26/2013,FBS,Navy,Pittsburgh,RUSHING,Noah,Copeland,YDS,7
+196091,10/26/2013,FBS,Navy,Pittsburgh,RUSHING,Noah,Copeland,TD,0
+196092,10/26/2013,FBS,Navy,Pittsburgh,RUSHING,Noah,Copeland,LONG,5
+196093,10/26/2013,FBS,Navy,Pittsburgh,PASSING,Keenan,Reynolds,CP-ATT-INT,8-18-1
+196094,10/26/2013,FBS,Navy,Pittsburgh,PASSING,Keenan,Reynolds,YDS,105
+196095,10/26/2013,FBS,Navy,Pittsburgh,PASSING,Keenan,Reynolds,TD,1
+196096,10/26/2013,FBS,Navy,Pittsburgh,PASSING,Keenan,Reynolds,LONG,58
+196097,10/26/2013,FBS,Navy,Pittsburgh,RECEIVING,Marcus,Thomas,REC,2
+196098,10/26/2013,FBS,Navy,Pittsburgh,RECEIVING,Marcus,Thomas,YDS,63
+196099,10/26/2013,FBS,Navy,Pittsburgh,RECEIVING,Marcus,Thomas,TD,1
+196100,10/26/2013,FBS,Navy,Pittsburgh,RECEIVING,Marcus,Thomas,LONG,58
+196101,10/26/2013,FBS,Navy,Pittsburgh,RECEIVING,Brendan,Dudeck,REC,2
+196102,10/26/2013,FBS,Navy,Pittsburgh,RECEIVING,Brendan,Dudeck,YDS,20
+196103,10/26/2013,FBS,Navy,Pittsburgh,RECEIVING,Brendan,Dudeck,TD,0
+196104,10/26/2013,FBS,Navy,Pittsburgh,RECEIVING,Brendan,Dudeck,LONG,12
+196105,10/26/2013,FBS,Navy,Pittsburgh,RECEIVING,Casey,Bolena,REC,2
+196106,10/26/2013,FBS,Navy,Pittsburgh,RECEIVING,Casey,Bolena,YDS,16
+196107,10/26/2013,FBS,Navy,Pittsburgh,RECEIVING,Casey,Bolena,TD,0
+196108,10/26/2013,FBS,Navy,Pittsburgh,RECEIVING,Casey,Bolena,LONG,10
+196109,10/26/2013,FBS,Navy,Pittsburgh,RECEIVING,Quinton,Singleton,REC,1
+196110,10/26/2013,FBS,Navy,Pittsburgh,RECEIVING,Quinton,Singleton,YDS,5
+196111,10/26/2013,FBS,Navy,Pittsburgh,RECEIVING,Quinton,Singleton,TD,0
+196112,10/26/2013,FBS,Navy,Pittsburgh,RECEIVING,Quinton,Singleton,LONG,5
+196113,10/26/2013,FBS,Navy,Pittsburgh,RECEIVING,Jamir,Tillman,REC,1
+196114,10/26/2013,FBS,Navy,Pittsburgh,RECEIVING,Jamir,Tillman,YDS,1
+196115,10/26/2013,FBS,Navy,Pittsburgh,RECEIVING,Jamir,Tillman,TD,0
+196116,10/26/2013,FBS,Navy,Pittsburgh,RECEIVING,Jamir,Tillman,LONG,1
+196117,10/26/2013,FBS,Navy,Pittsburgh,KICKING,Nick,Sloan,FG-FGA,1/1
+196118,10/26/2013,FBS,Navy,Pittsburgh,KICKING,Nick,Sloan,LONG,30
+196119,10/26/2013,FBS,Navy,Pittsburgh,KICKING,Nick,Sloan,XP,3
+196120,10/26/2013,FBS,Navy,Pittsburgh,KICKING,Nick,Sloan,PTS,6
+196121,10/26/2013,FBS,Navy,Pittsburgh,PUNTING,Pablo,Beltran,NO,5
+196122,10/26/2013,FBS,Navy,Pittsburgh,PUNTING,Pablo,Beltran,YDS,184
+196123,10/26/2013,FBS,Navy,Pittsburgh,PUNTING,Pablo,Beltran,AVG,36.8
+196124,10/26/2013,FBS,Navy,Pittsburgh,PUNTING,Pablo,Beltran,LONG,47
+196125,10/26/2013,FBS,Navy,Pittsburgh,PUNT RETURNS,Shawn,Lynch,NO,2
+196126,10/26/2013,FBS,Navy,Pittsburgh,PUNT RETURNS,Shawn,Lynch,YDS,2
+196127,10/26/2013,FBS,Navy,Pittsburgh,PUNT RETURNS,Shawn,Lynch,AVG,1.0
+196128,10/26/2013,FBS,Navy,Pittsburgh,PUNT RETURNS,Shawn,Lynch,LONG,4
+196129,10/26/2013,FBS,Navy,Pittsburgh,KICK RETURNS,Marcus,Thomas,NO,2
+196130,10/26/2013,FBS,Navy,Pittsburgh,KICK RETURNS,Marcus,Thomas,YDS,40
+196131,10/26/2013,FBS,Navy,Pittsburgh,KICK RETURNS,Marcus,Thomas,AVG,20.0
+196132,10/26/2013,FBS,Navy,Pittsburgh,KICK RETURNS,Marcus,Thomas,LONG,24
+196133,10/26/2013,FBS,Navy,Pittsburgh,KICK RETURNS,Quentin,Ezell,NO,1
+196134,10/26/2013,FBS,Navy,Pittsburgh,KICK RETURNS,Quentin,Ezell,YDS,6
+196135,10/26/2013,FBS,Navy,Pittsburgh,KICK RETURNS,Quentin,Ezell,AVG,6.0
+196136,10/26/2013,FBS,Navy,Pittsburgh,KICK RETURNS,Quentin,Ezell,LONG,6

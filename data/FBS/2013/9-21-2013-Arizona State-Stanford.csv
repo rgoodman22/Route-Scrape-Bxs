@@ -1,0 +1,153 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+275001,9/21/2013,FBS,Arizona State,Stanford,RUSHING,Marion,Grice,ATT,17
+275002,9/21/2013,FBS,Arizona State,Stanford,RUSHING,Marion,Grice,YDS,50
+275003,9/21/2013,FBS,Arizona State,Stanford,RUSHING,Marion,Grice,TD,1
+275004,9/21/2013,FBS,Arizona State,Stanford,RUSHING,Marion,Grice,LONG,22
+275005,9/21/2013,FBS,Arizona State,Stanford,RUSHING,Deantre,Lewis,ATT,1
+275006,9/21/2013,FBS,Arizona State,Stanford,RUSHING,Deantre,Lewis,YDS,4
+275007,9/21/2013,FBS,Arizona State,Stanford,RUSHING,Deantre,Lewis,TD,0
+275008,9/21/2013,FBS,Arizona State,Stanford,RUSHING,Deantre,Lewis,LONG,4
+275009,9/21/2013,FBS,Arizona State,Stanford,RUSHING,Taylor,Kelly,ATT,6
+275010,9/21/2013,FBS,Arizona State,Stanford,RUSHING,Taylor,Kelly,YDS,-4
+275011,9/21/2013,FBS,Arizona State,Stanford,RUSHING,Taylor,Kelly,TD,0
+275012,9/21/2013,FBS,Arizona State,Stanford,RUSHING,Taylor,Kelly,LONG,10
+275013,9/21/2013,FBS,Arizona State,Stanford,PASSING,Taylor,Kelly,CP-ATT-INT,30-55-2
+275014,9/21/2013,FBS,Arizona State,Stanford,PASSING,Taylor,Kelly,YDS,367
+275015,9/21/2013,FBS,Arizona State,Stanford,PASSING,Taylor,Kelly,TD,3
+275016,9/21/2013,FBS,Arizona State,Stanford,PASSING,Taylor,Kelly,LONG,45
+275017,9/21/2013,FBS,Arizona State,Stanford,PASSING,,Team,CP-ATT-INT,0-1-0
+275018,9/21/2013,FBS,Arizona State,Stanford,PASSING,,Team,YDS,0
+275019,9/21/2013,FBS,Arizona State,Stanford,PASSING,,Team,TD,0
+275020,9/21/2013,FBS,Arizona State,Stanford,PASSING,,Team,LONG,0
+275021,9/21/2013,FBS,Arizona State,Stanford,RECEIVING,Jaelen,Strong,REC,12
+275022,9/21/2013,FBS,Arizona State,Stanford,RECEIVING,Jaelen,Strong,YDS,168
+275023,9/21/2013,FBS,Arizona State,Stanford,RECEIVING,Jaelen,Strong,TD,1
+275024,9/21/2013,FBS,Arizona State,Stanford,RECEIVING,Jaelen,Strong,LONG,34
+275025,9/21/2013,FBS,Arizona State,Stanford,RECEIVING,D.J.,Foster,REC,8
+275026,9/21/2013,FBS,Arizona State,Stanford,RECEIVING,D.J.,Foster,YDS,80
+275027,9/21/2013,FBS,Arizona State,Stanford,RECEIVING,D.J.,Foster,TD,0
+275028,9/21/2013,FBS,Arizona State,Stanford,RECEIVING,D.J.,Foster,LONG,21
+275029,9/21/2013,FBS,Arizona State,Stanford,RECEIVING,Marion,Grice,REC,6
+275030,9/21/2013,FBS,Arizona State,Stanford,RECEIVING,Marion,Grice,YDS,32
+275031,9/21/2013,FBS,Arizona State,Stanford,RECEIVING,Marion,Grice,TD,1
+275032,9/21/2013,FBS,Arizona State,Stanford,RECEIVING,Marion,Grice,LONG,10
+275033,9/21/2013,FBS,Arizona State,Stanford,RECEIVING,Chris,Coyle,REC,1
+275034,9/21/2013,FBS,Arizona State,Stanford,RECEIVING,Chris,Coyle,YDS,45
+275035,9/21/2013,FBS,Arizona State,Stanford,RECEIVING,Chris,Coyle,TD,1
+275036,9/21/2013,FBS,Arizona State,Stanford,RECEIVING,Chris,Coyle,LONG,45
+275037,9/21/2013,FBS,Arizona State,Stanford,RECEIVING,Cameron,Smith,REC,1
+275038,9/21/2013,FBS,Arizona State,Stanford,RECEIVING,Cameron,Smith,YDS,30
+275039,9/21/2013,FBS,Arizona State,Stanford,RECEIVING,Cameron,Smith,TD,0
+275040,9/21/2013,FBS,Arizona State,Stanford,RECEIVING,Cameron,Smith,LONG,30
+275041,9/21/2013,FBS,Arizona State,Stanford,RECEIVING,Richard,Smith,REC,1
+275042,9/21/2013,FBS,Arizona State,Stanford,RECEIVING,Richard,Smith,YDS,7
+275043,9/21/2013,FBS,Arizona State,Stanford,RECEIVING,Richard,Smith,TD,0
+275044,9/21/2013,FBS,Arizona State,Stanford,RECEIVING,Richard,Smith,LONG,7
+275045,9/21/2013,FBS,Arizona State,Stanford,RECEIVING,Kevin,Ozier,REC,1
+275046,9/21/2013,FBS,Arizona State,Stanford,RECEIVING,Kevin,Ozier,YDS,5
+275047,9/21/2013,FBS,Arizona State,Stanford,RECEIVING,Kevin,Ozier,TD,0
+275048,9/21/2013,FBS,Arizona State,Stanford,RECEIVING,Kevin,Ozier,LONG,5
+275049,9/21/2013,FBS,Arizona State,Stanford,KICKING,Zane,Gonzalez,FG-FGA,0/1
+275050,9/21/2013,FBS,Arizona State,Stanford,KICKING,Zane,Gonzalez,LONG,-
+275051,9/21/2013,FBS,Arizona State,Stanford,KICKING,Zane,Gonzalez,XP,4
+275052,9/21/2013,FBS,Arizona State,Stanford,KICKING,Zane,Gonzalez,PTS,4
+275053,9/21/2013,FBS,Arizona State,Stanford,PUNTING,Matt,Haack,NO,4
+275054,9/21/2013,FBS,Arizona State,Stanford,PUNTING,Matt,Haack,YDS,155
+275055,9/21/2013,FBS,Arizona State,Stanford,PUNTING,Matt,Haack,AVG,38.8
+275056,9/21/2013,FBS,Arizona State,Stanford,PUNTING,Matt,Haack,LONG,50
+275057,9/21/2013,FBS,Arizona State,Stanford,PUNTING,,Team,NO,2
+275058,9/21/2013,FBS,Arizona State,Stanford,PUNTING,,Team,YDS,0
+275059,9/21/2013,FBS,Arizona State,Stanford,PUNTING,,Team,AVG,0.0
+275060,9/21/2013,FBS,Arizona State,Stanford,PUNTING,,Team,LONG,0
+275061,9/21/2013,FBS,Arizona State,Stanford,PUNT RETURNS,Robert,Nelson,NO,2
+275062,9/21/2013,FBS,Arizona State,Stanford,PUNT RETURNS,Robert,Nelson,YDS,5
+275063,9/21/2013,FBS,Arizona State,Stanford,PUNT RETURNS,Robert,Nelson,AVG,2.5
+275064,9/21/2013,FBS,Arizona State,Stanford,PUNT RETURNS,Robert,Nelson,LONG,3
+275065,9/21/2013,FBS,Arizona State,Stanford,KICK RETURNS,Marion,Grice,NO,3
+275066,9/21/2013,FBS,Arizona State,Stanford,KICK RETURNS,Marion,Grice,YDS,64
+275067,9/21/2013,FBS,Arizona State,Stanford,KICK RETURNS,Marion,Grice,AVG,21.3
+275068,9/21/2013,FBS,Arizona State,Stanford,KICK RETURNS,Marion,Grice,LONG,30
+275069,9/21/2013,FBS,Arizona State,Stanford,KICK RETURNS,Richard,Smith,NO,1
+275070,9/21/2013,FBS,Arizona State,Stanford,KICK RETURNS,Richard,Smith,YDS,24
+275071,9/21/2013,FBS,Arizona State,Stanford,KICK RETURNS,Richard,Smith,AVG,24.0
+275072,9/21/2013,FBS,Arizona State,Stanford,KICK RETURNS,Richard,Smith,LONG,24
+275073,9/21/2013,FBS,Arizona State,Stanford,KICK RETURNS,Jaelen,Strong,NO,1
+275074,9/21/2013,FBS,Arizona State,Stanford,KICK RETURNS,Jaelen,Strong,YDS,19
+275075,9/21/2013,FBS,Arizona State,Stanford,KICK RETURNS,Jaelen,Strong,AVG,19.0
+275076,9/21/2013,FBS,Arizona State,Stanford,KICK RETURNS,Jaelen,Strong,LONG,19
+275077,9/21/2013,FBS,Stanford,Arizona State,RUSHING,Tyler,Gaffney,ATT,18
+275078,9/21/2013,FBS,Stanford,Arizona State,RUSHING,Tyler,Gaffney,YDS,87
+275079,9/21/2013,FBS,Stanford,Arizona State,RUSHING,Tyler,Gaffney,TD,2
+275080,9/21/2013,FBS,Stanford,Arizona State,RUSHING,Tyler,Gaffney,LONG,16
+275081,9/21/2013,FBS,Stanford,Arizona State,RUSHING,Anthony,Wilkerson,ATT,18
+275082,9/21/2013,FBS,Stanford,Arizona State,RUSHING,Anthony,Wilkerson,YDS,68
+275083,9/21/2013,FBS,Stanford,Arizona State,RUSHING,Anthony,Wilkerson,TD,1
+275084,9/21/2013,FBS,Stanford,Arizona State,RUSHING,Anthony,Wilkerson,LONG,18
+275085,9/21/2013,FBS,Stanford,Arizona State,RUSHING,Kevin,Hogan,ATT,6
+275086,9/21/2013,FBS,Stanford,Arizona State,RUSHING,Kevin,Hogan,YDS,45
+275087,9/21/2013,FBS,Stanford,Arizona State,RUSHING,Kevin,Hogan,TD,0
+275088,9/21/2013,FBS,Stanford,Arizona State,RUSHING,Kevin,Hogan,LONG,27
+275089,9/21/2013,FBS,Stanford,Arizona State,RUSHING,Kelsey,Young,ATT,1
+275090,9/21/2013,FBS,Stanford,Arizona State,RUSHING,Kelsey,Young,YDS,32
+275091,9/21/2013,FBS,Stanford,Arizona State,RUSHING,Kelsey,Young,TD,0
+275092,9/21/2013,FBS,Stanford,Arizona State,RUSHING,Kelsey,Young,LONG,32
+275093,9/21/2013,FBS,Stanford,Arizona State,RUSHING,Remound,Wright,ATT,5
+275094,9/21/2013,FBS,Stanford,Arizona State,RUSHING,Remound,Wright,YDS,9
+275095,9/21/2013,FBS,Stanford,Arizona State,RUSHING,Remound,Wright,TD,0
+275096,9/21/2013,FBS,Stanford,Arizona State,RUSHING,Remound,Wright,LONG,5
+275097,9/21/2013,FBS,Stanford,Arizona State,RUSHING,,Team,ATT,1
+275098,9/21/2013,FBS,Stanford,Arizona State,RUSHING,,Team,YDS,-1
+275099,9/21/2013,FBS,Stanford,Arizona State,RUSHING,,Team,TD,0
+275100,9/21/2013,FBS,Stanford,Arizona State,RUSHING,,Team,LONG,0
+275101,9/21/2013,FBS,Stanford,Arizona State,PASSING,Kevin,Hogan,CP-ATT-INT,11-17-1
+275102,9/21/2013,FBS,Stanford,Arizona State,PASSING,Kevin,Hogan,YDS,151
+275103,9/21/2013,FBS,Stanford,Arizona State,PASSING,Kevin,Hogan,TD,2
+275104,9/21/2013,FBS,Stanford,Arizona State,PASSING,Kevin,Hogan,LONG,34
+275105,9/21/2013,FBS,Stanford,Arizona State,RECEIVING,Ty,Montgomery,REC,4
+275106,9/21/2013,FBS,Stanford,Arizona State,RECEIVING,Ty,Montgomery,YDS,62
+275107,9/21/2013,FBS,Stanford,Arizona State,RECEIVING,Ty,Montgomery,TD,2
+275108,9/21/2013,FBS,Stanford,Arizona State,RECEIVING,Ty,Montgomery,LONG,30
+275109,9/21/2013,FBS,Stanford,Arizona State,RECEIVING,Devon,Cajuste,REC,3
+275110,9/21/2013,FBS,Stanford,Arizona State,RECEIVING,Devon,Cajuste,YDS,67
+275111,9/21/2013,FBS,Stanford,Arizona State,RECEIVING,Devon,Cajuste,TD,0
+275112,9/21/2013,FBS,Stanford,Arizona State,RECEIVING,Devon,Cajuste,LONG,34
+275113,9/21/2013,FBS,Stanford,Arizona State,RECEIVING,Anthony,Wilkerson,REC,2
+275114,9/21/2013,FBS,Stanford,Arizona State,RECEIVING,Anthony,Wilkerson,YDS,18
+275115,9/21/2013,FBS,Stanford,Arizona State,RECEIVING,Anthony,Wilkerson,TD,0
+275116,9/21/2013,FBS,Stanford,Arizona State,RECEIVING,Anthony,Wilkerson,LONG,13
+275117,9/21/2013,FBS,Stanford,Arizona State,RECEIVING,Tyler,Gaffney,REC,1
+275118,9/21/2013,FBS,Stanford,Arizona State,RECEIVING,Tyler,Gaffney,YDS,4
+275119,9/21/2013,FBS,Stanford,Arizona State,RECEIVING,Tyler,Gaffney,TD,0
+275120,9/21/2013,FBS,Stanford,Arizona State,RECEIVING,Tyler,Gaffney,LONG,4
+275121,9/21/2013,FBS,Stanford,Arizona State,RECEIVING,Ryan,Hewitt,REC,1
+275122,9/21/2013,FBS,Stanford,Arizona State,RECEIVING,Ryan,Hewitt,YDS,0
+275123,9/21/2013,FBS,Stanford,Arizona State,RECEIVING,Ryan,Hewitt,TD,0
+275124,9/21/2013,FBS,Stanford,Arizona State,RECEIVING,Ryan,Hewitt,LONG,0
+275125,9/21/2013,FBS,Stanford,Arizona State,KICKING,Jordan,Williamson,FG-FGA,2/3
+275126,9/21/2013,FBS,Stanford,Arizona State,KICKING,Jordan,Williamson,LONG,24
+275127,9/21/2013,FBS,Stanford,Arizona State,KICKING,Jordan,Williamson,XP,4
+275128,9/21/2013,FBS,Stanford,Arizona State,KICKING,Jordan,Williamson,PTS,10
+275129,9/21/2013,FBS,Stanford,Arizona State,PUNTING,Ben,Rhyne,NO,4
+275130,9/21/2013,FBS,Stanford,Arizona State,PUNTING,Ben,Rhyne,YDS,151
+275131,9/21/2013,FBS,Stanford,Arizona State,PUNTING,Ben,Rhyne,AVG,37.8
+275132,9/21/2013,FBS,Stanford,Arizona State,PUNTING,Ben,Rhyne,LONG,46
+275133,9/21/2013,FBS,Stanford,Arizona State,PUNT RETURNS,Ben,Gardner,NO,1
+275134,9/21/2013,FBS,Stanford,Arizona State,PUNT RETURNS,Ben,Gardner,YDS,24
+275135,9/21/2013,FBS,Stanford,Arizona State,PUNT RETURNS,Ben,Gardner,AVG,24.0
+275136,9/21/2013,FBS,Stanford,Arizona State,PUNT RETURNS,Ben,Gardner,LONG,10
+275137,9/21/2013,FBS,Stanford,Arizona State,PUNT RETURNS,,Team,NO,1
+275138,9/21/2013,FBS,Stanford,Arizona State,PUNT RETURNS,,Team,YDS,12
+275139,9/21/2013,FBS,Stanford,Arizona State,PUNT RETURNS,,Team,AVG,12.0
+275140,9/21/2013,FBS,Stanford,Arizona State,PUNT RETURNS,,Team,LONG,0
+275141,9/21/2013,FBS,Stanford,Arizona State,PUNT RETURNS,Kodi,Whitfield,NO,1
+275142,9/21/2013,FBS,Stanford,Arizona State,PUNT RETURNS,Kodi,Whitfield,YDS,3
+275143,9/21/2013,FBS,Stanford,Arizona State,PUNT RETURNS,Kodi,Whitfield,AVG,3.0
+275144,9/21/2013,FBS,Stanford,Arizona State,PUNT RETURNS,Kodi,Whitfield,LONG,3
+275145,9/21/2013,FBS,Stanford,Arizona State,KICK RETURNS,Ty,Montgomery,NO,3
+275146,9/21/2013,FBS,Stanford,Arizona State,KICK RETURNS,Ty,Montgomery,YDS,81
+275147,9/21/2013,FBS,Stanford,Arizona State,KICK RETURNS,Ty,Montgomery,AVG,27.0
+275148,9/21/2013,FBS,Stanford,Arizona State,KICK RETURNS,Ty,Montgomery,LONG,50
+275149,9/21/2013,FBS,Stanford,Arizona State,KICK RETURNS,Jackson,Cummings,NO,1
+275150,9/21/2013,FBS,Stanford,Arizona State,KICK RETURNS,Jackson,Cummings,YDS,10
+275151,9/21/2013,FBS,Stanford,Arizona State,KICK RETURNS,Jackson,Cummings,AVG,10.0
+275152,9/21/2013,FBS,Stanford,Arizona State,KICK RETURNS,Jackson,Cummings,LONG,10

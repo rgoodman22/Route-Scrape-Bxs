@@ -1,0 +1,145 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+91001,10/12/2013,FBS,Pittsburgh,Virginia Tech,RUSHING,Isaac,Bennett,ATT,7
+91002,10/12/2013,FBS,Pittsburgh,Virginia Tech,RUSHING,Isaac,Bennett,YDS,31
+91003,10/12/2013,FBS,Pittsburgh,Virginia Tech,RUSHING,Isaac,Bennett,TD,0
+91004,10/12/2013,FBS,Pittsburgh,Virginia Tech,RUSHING,Isaac,Bennett,LONG,12
+91005,10/12/2013,FBS,Pittsburgh,Virginia Tech,RUSHING,Rachid,Ibrahim,ATT,5
+91006,10/12/2013,FBS,Pittsburgh,Virginia Tech,RUSHING,Rachid,Ibrahim,YDS,17
+91007,10/12/2013,FBS,Pittsburgh,Virginia Tech,RUSHING,Rachid,Ibrahim,TD,0
+91008,10/12/2013,FBS,Pittsburgh,Virginia Tech,RUSHING,Rachid,Ibrahim,LONG,6
+91009,10/12/2013,FBS,Pittsburgh,Virginia Tech,RUSHING,Tyler,Boyd,ATT,1
+91010,10/12/2013,FBS,Pittsburgh,Virginia Tech,RUSHING,Tyler,Boyd,YDS,3
+91011,10/12/2013,FBS,Pittsburgh,Virginia Tech,RUSHING,Tyler,Boyd,TD,0
+91012,10/12/2013,FBS,Pittsburgh,Virginia Tech,RUSHING,Tyler,Boyd,LONG,3
+91013,10/12/2013,FBS,Pittsburgh,Virginia Tech,RUSHING,James,Conner,ATT,2
+91014,10/12/2013,FBS,Pittsburgh,Virginia Tech,RUSHING,James,Conner,YDS,1
+91015,10/12/2013,FBS,Pittsburgh,Virginia Tech,RUSHING,James,Conner,TD,0
+91016,10/12/2013,FBS,Pittsburgh,Virginia Tech,RUSHING,James,Conner,LONG,1
+91017,10/12/2013,FBS,Pittsburgh,Virginia Tech,RUSHING,Tom,Savage,ATT,11
+91018,10/12/2013,FBS,Pittsburgh,Virginia Tech,RUSHING,Tom,Savage,YDS,-29
+91019,10/12/2013,FBS,Pittsburgh,Virginia Tech,RUSHING,Tom,Savage,TD,1
+91020,10/12/2013,FBS,Pittsburgh,Virginia Tech,RUSHING,Tom,Savage,LONG,9
+91021,10/12/2013,FBS,Pittsburgh,Virginia Tech,PASSING,Tom,Savage,CP-ATT-INT,13-28-0
+91022,10/12/2013,FBS,Pittsburgh,Virginia Tech,PASSING,Tom,Savage,YDS,187
+91023,10/12/2013,FBS,Pittsburgh,Virginia Tech,PASSING,Tom,Savage,TD,0
+91024,10/12/2013,FBS,Pittsburgh,Virginia Tech,PASSING,Tom,Savage,LONG,48
+91025,10/12/2013,FBS,Pittsburgh,Virginia Tech,PASSING,,Team,CP-ATT-INT,0-1-0
+91026,10/12/2013,FBS,Pittsburgh,Virginia Tech,PASSING,,Team,YDS,0
+91027,10/12/2013,FBS,Pittsburgh,Virginia Tech,PASSING,,Team,TD,0
+91028,10/12/2013,FBS,Pittsburgh,Virginia Tech,PASSING,,Team,LONG,0
+91029,10/12/2013,FBS,Pittsburgh,Virginia Tech,RECEIVING,Devin,Street,REC,5
+91030,10/12/2013,FBS,Pittsburgh,Virginia Tech,RECEIVING,Devin,Street,YDS,104
+91031,10/12/2013,FBS,Pittsburgh,Virginia Tech,RECEIVING,Devin,Street,TD,0
+91032,10/12/2013,FBS,Pittsburgh,Virginia Tech,RECEIVING,Devin,Street,LONG,48
+91033,10/12/2013,FBS,Pittsburgh,Virginia Tech,RECEIVING,Kevin,Weatherspoon,REC,3
+91034,10/12/2013,FBS,Pittsburgh,Virginia Tech,RECEIVING,Kevin,Weatherspoon,YDS,50
+91035,10/12/2013,FBS,Pittsburgh,Virginia Tech,RECEIVING,Kevin,Weatherspoon,TD,0
+91036,10/12/2013,FBS,Pittsburgh,Virginia Tech,RECEIVING,Kevin,Weatherspoon,LONG,23
+91037,10/12/2013,FBS,Pittsburgh,Virginia Tech,RECEIVING,Tyler,Boyd,REC,2
+91038,10/12/2013,FBS,Pittsburgh,Virginia Tech,RECEIVING,Tyler,Boyd,YDS,20
+91039,10/12/2013,FBS,Pittsburgh,Virginia Tech,RECEIVING,Tyler,Boyd,TD,0
+91040,10/12/2013,FBS,Pittsburgh,Virginia Tech,RECEIVING,Tyler,Boyd,LONG,10
+91041,10/12/2013,FBS,Pittsburgh,Virginia Tech,RECEIVING,Manasseh,Garner,REC,2
+91042,10/12/2013,FBS,Pittsburgh,Virginia Tech,RECEIVING,Manasseh,Garner,YDS,17
+91043,10/12/2013,FBS,Pittsburgh,Virginia Tech,RECEIVING,Manasseh,Garner,TD,0
+91044,10/12/2013,FBS,Pittsburgh,Virginia Tech,RECEIVING,Manasseh,Garner,LONG,10
+91045,10/12/2013,FBS,Pittsburgh,Virginia Tech,RECEIVING,Isaac,Bennett,REC,1
+91046,10/12/2013,FBS,Pittsburgh,Virginia Tech,RECEIVING,Isaac,Bennett,YDS,-4
+91047,10/12/2013,FBS,Pittsburgh,Virginia Tech,RECEIVING,Isaac,Bennett,TD,0
+91048,10/12/2013,FBS,Pittsburgh,Virginia Tech,RECEIVING,Isaac,Bennett,LONG,0
+91049,10/12/2013,FBS,Pittsburgh,Virginia Tech,KICKING,Chris,Blewitt,FG-FGA,1/1
+91050,10/12/2013,FBS,Pittsburgh,Virginia Tech,KICKING,Chris,Blewitt,LONG,47
+91051,10/12/2013,FBS,Pittsburgh,Virginia Tech,KICKING,Chris,Blewitt,XP,0
+91052,10/12/2013,FBS,Pittsburgh,Virginia Tech,KICKING,Chris,Blewitt,PTS,3
+91053,10/12/2013,FBS,Pittsburgh,Virginia Tech,PUNTING,Matt,Yoklic,NO,8
+91054,10/12/2013,FBS,Pittsburgh,Virginia Tech,PUNTING,Matt,Yoklic,YDS,359
+91055,10/12/2013,FBS,Pittsburgh,Virginia Tech,PUNTING,Matt,Yoklic,AVG,44.9
+91056,10/12/2013,FBS,Pittsburgh,Virginia Tech,PUNTING,Matt,Yoklic,LONG,51
+91057,10/12/2013,FBS,Pittsburgh,Virginia Tech,PUNT RETURNS,Kevin,Weatherspoon,NO,3
+91058,10/12/2013,FBS,Pittsburgh,Virginia Tech,PUNT RETURNS,Kevin,Weatherspoon,YDS,19
+91059,10/12/2013,FBS,Pittsburgh,Virginia Tech,PUNT RETURNS,Kevin,Weatherspoon,AVG,6.3
+91060,10/12/2013,FBS,Pittsburgh,Virginia Tech,PUNT RETURNS,Kevin,Weatherspoon,LONG,10
+91061,10/12/2013,FBS,Pittsburgh,Virginia Tech,KICK RETURNS,Lafayette,Pitts,NO,2
+91062,10/12/2013,FBS,Pittsburgh,Virginia Tech,KICK RETURNS,Lafayette,Pitts,YDS,47
+91063,10/12/2013,FBS,Pittsburgh,Virginia Tech,KICK RETURNS,Lafayette,Pitts,AVG,23.5
+91064,10/12/2013,FBS,Pittsburgh,Virginia Tech,KICK RETURNS,Lafayette,Pitts,LONG,25
+91065,10/12/2013,FBS,Pittsburgh,Virginia Tech,KICK RETURNS,Tyler,Boyd,NO,1
+91066,10/12/2013,FBS,Pittsburgh,Virginia Tech,KICK RETURNS,Tyler,Boyd,YDS,11
+91067,10/12/2013,FBS,Pittsburgh,Virginia Tech,KICK RETURNS,Tyler,Boyd,AVG,11.0
+91068,10/12/2013,FBS,Pittsburgh,Virginia Tech,KICK RETURNS,Tyler,Boyd,LONG,11
+91069,10/12/2013,FBS,Virginia Tech,Pittsburgh,RUSHING,Logan,Thomas,ATT,16
+91070,10/12/2013,FBS,Virginia Tech,Pittsburgh,RUSHING,Logan,Thomas,YDS,27
+91071,10/12/2013,FBS,Virginia Tech,Pittsburgh,RUSHING,Logan,Thomas,TD,0
+91072,10/12/2013,FBS,Virginia Tech,Pittsburgh,RUSHING,Logan,Thomas,LONG,12
+91073,10/12/2013,FBS,Virginia Tech,Pittsburgh,RUSHING,J.C.,Coleman,ATT,6
+91074,10/12/2013,FBS,Virginia Tech,Pittsburgh,RUSHING,J.C.,Coleman,YDS,25
+91075,10/12/2013,FBS,Virginia Tech,Pittsburgh,RUSHING,J.C.,Coleman,TD,0
+91076,10/12/2013,FBS,Virginia Tech,Pittsburgh,RUSHING,J.C.,Coleman,LONG,8
+91077,10/12/2013,FBS,Virginia Tech,Pittsburgh,RUSHING,Trey,Edmunds,ATT,9
+91078,10/12/2013,FBS,Virginia Tech,Pittsburgh,RUSHING,Trey,Edmunds,YDS,13
+91079,10/12/2013,FBS,Virginia Tech,Pittsburgh,RUSHING,Trey,Edmunds,TD,0
+91080,10/12/2013,FBS,Virginia Tech,Pittsburgh,RUSHING,Trey,Edmunds,LONG,14
+91081,10/12/2013,FBS,Virginia Tech,Pittsburgh,RUSHING,Demitri,Knowles,ATT,1
+91082,10/12/2013,FBS,Virginia Tech,Pittsburgh,RUSHING,Demitri,Knowles,YDS,12
+91083,10/12/2013,FBS,Virginia Tech,Pittsburgh,RUSHING,Demitri,Knowles,TD,0
+91084,10/12/2013,FBS,Virginia Tech,Pittsburgh,RUSHING,Demitri,Knowles,LONG,12
+91085,10/12/2013,FBS,Virginia Tech,Pittsburgh,RUSHING,Joel,Caleb,ATT,1
+91086,10/12/2013,FBS,Virginia Tech,Pittsburgh,RUSHING,Joel,Caleb,YDS,3
+91087,10/12/2013,FBS,Virginia Tech,Pittsburgh,RUSHING,Joel,Caleb,TD,0
+91088,10/12/2013,FBS,Virginia Tech,Pittsburgh,RUSHING,Joel,Caleb,LONG,3
+91089,10/12/2013,FBS,Virginia Tech,Pittsburgh,RUSHING,Sam,Rogers,ATT,1
+91090,10/12/2013,FBS,Virginia Tech,Pittsburgh,RUSHING,Sam,Rogers,YDS,0
+91091,10/12/2013,FBS,Virginia Tech,Pittsburgh,RUSHING,Sam,Rogers,TD,0
+91092,10/12/2013,FBS,Virginia Tech,Pittsburgh,RUSHING,Sam,Rogers,LONG,0
+91093,10/12/2013,FBS,Virginia Tech,Pittsburgh,RUSHING,,Team,ATT,4
+91094,10/12/2013,FBS,Virginia Tech,Pittsburgh,RUSHING,,Team,YDS,-4
+91095,10/12/2013,FBS,Virginia Tech,Pittsburgh,RUSHING,,Team,TD,0
+91096,10/12/2013,FBS,Virginia Tech,Pittsburgh,RUSHING,,Team,LONG,0
+91097,10/12/2013,FBS,Virginia Tech,Pittsburgh,PASSING,Logan,Thomas,CP-ATT-INT,19-34-0
+91098,10/12/2013,FBS,Virginia Tech,Pittsburgh,PASSING,Logan,Thomas,YDS,239
+91099,10/12/2013,FBS,Virginia Tech,Pittsburgh,PASSING,Logan,Thomas,TD,1
+91100,10/12/2013,FBS,Virginia Tech,Pittsburgh,PASSING,Logan,Thomas,LONG,40
+91101,10/12/2013,FBS,Virginia Tech,Pittsburgh,RECEIVING,Demitri,Knowles,REC,5
+91102,10/12/2013,FBS,Virginia Tech,Pittsburgh,RECEIVING,Demitri,Knowles,YDS,79
+91103,10/12/2013,FBS,Virginia Tech,Pittsburgh,RECEIVING,Demitri,Knowles,TD,0
+91104,10/12/2013,FBS,Virginia Tech,Pittsburgh,RECEIVING,Demitri,Knowles,LONG,40
+91105,10/12/2013,FBS,Virginia Tech,Pittsburgh,RECEIVING,Kalvin,Cline,REC,4
+91106,10/12/2013,FBS,Virginia Tech,Pittsburgh,RECEIVING,Kalvin,Cline,YDS,65
+91107,10/12/2013,FBS,Virginia Tech,Pittsburgh,RECEIVING,Kalvin,Cline,TD,1
+91108,10/12/2013,FBS,Virginia Tech,Pittsburgh,RECEIVING,Kalvin,Cline,LONG,27
+91109,10/12/2013,FBS,Virginia Tech,Pittsburgh,RECEIVING,Willie,Byrn,REC,4
+91110,10/12/2013,FBS,Virginia Tech,Pittsburgh,RECEIVING,Willie,Byrn,YDS,46
+91111,10/12/2013,FBS,Virginia Tech,Pittsburgh,RECEIVING,Willie,Byrn,TD,0
+91112,10/12/2013,FBS,Virginia Tech,Pittsburgh,RECEIVING,Willie,Byrn,LONG,25
+91113,10/12/2013,FBS,Virginia Tech,Pittsburgh,RECEIVING,Sam,Rogers,REC,3
+91114,10/12/2013,FBS,Virginia Tech,Pittsburgh,RECEIVING,Sam,Rogers,YDS,7
+91115,10/12/2013,FBS,Virginia Tech,Pittsburgh,RECEIVING,Sam,Rogers,TD,0
+91116,10/12/2013,FBS,Virginia Tech,Pittsburgh,RECEIVING,Sam,Rogers,LONG,5
+91117,10/12/2013,FBS,Virginia Tech,Pittsburgh,RECEIVING,Joshua,Stanford,REC,2
+91118,10/12/2013,FBS,Virginia Tech,Pittsburgh,RECEIVING,Joshua,Stanford,YDS,35
+91119,10/12/2013,FBS,Virginia Tech,Pittsburgh,RECEIVING,Joshua,Stanford,TD,0
+91120,10/12/2013,FBS,Virginia Tech,Pittsburgh,RECEIVING,Joshua,Stanford,LONG,20
+91121,10/12/2013,FBS,Virginia Tech,Pittsburgh,RECEIVING,Chris,Mangus,REC,1
+91122,10/12/2013,FBS,Virginia Tech,Pittsburgh,RECEIVING,Chris,Mangus,YDS,7
+91123,10/12/2013,FBS,Virginia Tech,Pittsburgh,RECEIVING,Chris,Mangus,TD,0
+91124,10/12/2013,FBS,Virginia Tech,Pittsburgh,RECEIVING,Chris,Mangus,LONG,7
+91125,10/12/2013,FBS,Virginia Tech,Pittsburgh,KICKING,Cody,Journell,FG-FGA,4/5
+91126,10/12/2013,FBS,Virginia Tech,Pittsburgh,KICKING,Cody,Journell,LONG,48
+91127,10/12/2013,FBS,Virginia Tech,Pittsburgh,KICKING,Cody,Journell,XP,1
+91128,10/12/2013,FBS,Virginia Tech,Pittsburgh,KICKING,Cody,Journell,PTS,13
+91129,10/12/2013,FBS,Virginia Tech,Pittsburgh,PUNTING,A.J.,Hughes,NO,4
+91130,10/12/2013,FBS,Virginia Tech,Pittsburgh,PUNTING,A.J.,Hughes,YDS,211
+91131,10/12/2013,FBS,Virginia Tech,Pittsburgh,PUNTING,A.J.,Hughes,AVG,52.8
+91132,10/12/2013,FBS,Virginia Tech,Pittsburgh,PUNTING,A.J.,Hughes,LONG,56
+91133,10/12/2013,FBS,Virginia Tech,Pittsburgh,PUNT RETURNS,Kyshoen,Jarrett,NO,6
+91134,10/12/2013,FBS,Virginia Tech,Pittsburgh,PUNT RETURNS,Kyshoen,Jarrett,YDS,41
+91135,10/12/2013,FBS,Virginia Tech,Pittsburgh,PUNT RETURNS,Kyshoen,Jarrett,AVG,6.8
+91136,10/12/2013,FBS,Virginia Tech,Pittsburgh,PUNT RETURNS,Kyshoen,Jarrett,LONG,14
+91137,10/12/2013,FBS,Virginia Tech,Pittsburgh,PUNT RETURNS,Willie,Byrn,NO,1
+91138,10/12/2013,FBS,Virginia Tech,Pittsburgh,PUNT RETURNS,Willie,Byrn,YDS,4
+91139,10/12/2013,FBS,Virginia Tech,Pittsburgh,PUNT RETURNS,Willie,Byrn,AVG,4.0
+91140,10/12/2013,FBS,Virginia Tech,Pittsburgh,PUNT RETURNS,Willie,Byrn,LONG,4
+91141,10/12/2013,FBS,Virginia Tech,Pittsburgh,KICK RETURNS,Chris,Mangus,NO,2
+91142,10/12/2013,FBS,Virginia Tech,Pittsburgh,KICK RETURNS,Chris,Mangus,YDS,29
+91143,10/12/2013,FBS,Virginia Tech,Pittsburgh,KICK RETURNS,Chris,Mangus,AVG,14.5
+91144,10/12/2013,FBS,Virginia Tech,Pittsburgh,KICK RETURNS,Chris,Mangus,LONG,17

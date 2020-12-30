@@ -1,0 +1,133 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+142001,10/19/2013,FBS,South Carolina,Tennessee,RUSHING,Mike,Davis,ATT,21
+142002,10/19/2013,FBS,South Carolina,Tennessee,RUSHING,Mike,Davis,YDS,137
+142003,10/19/2013,FBS,South Carolina,Tennessee,RUSHING,Mike,Davis,TD,1
+142004,10/19/2013,FBS,South Carolina,Tennessee,RUSHING,Mike,Davis,LONG,45
+142005,10/19/2013,FBS,South Carolina,Tennessee,RUSHING,Connor,Shaw,ATT,19
+142006,10/19/2013,FBS,South Carolina,Tennessee,RUSHING,Connor,Shaw,YDS,78
+142007,10/19/2013,FBS,South Carolina,Tennessee,RUSHING,Connor,Shaw,TD,1
+142008,10/19/2013,FBS,South Carolina,Tennessee,RUSHING,Connor,Shaw,LONG,29
+142009,10/19/2013,FBS,South Carolina,Tennessee,RUSHING,Dylan,Thompson,ATT,1
+142010,10/19/2013,FBS,South Carolina,Tennessee,RUSHING,Dylan,Thompson,YDS,6
+142011,10/19/2013,FBS,South Carolina,Tennessee,RUSHING,Dylan,Thompson,TD,0
+142012,10/19/2013,FBS,South Carolina,Tennessee,RUSHING,Dylan,Thompson,LONG,6
+142013,10/19/2013,FBS,South Carolina,Tennessee,RUSHING,,Team,ATT,1
+142014,10/19/2013,FBS,South Carolina,Tennessee,RUSHING,,Team,YDS,-3
+142015,10/19/2013,FBS,South Carolina,Tennessee,RUSHING,,Team,TD,0
+142016,10/19/2013,FBS,South Carolina,Tennessee,RUSHING,,Team,LONG,0
+142017,10/19/2013,FBS,South Carolina,Tennessee,PASSING,Connor,Shaw,CP-ATT-INT,7-21-1
+142018,10/19/2013,FBS,South Carolina,Tennessee,PASSING,Connor,Shaw,YDS,161
+142019,10/19/2013,FBS,South Carolina,Tennessee,PASSING,Connor,Shaw,TD,1
+142020,10/19/2013,FBS,South Carolina,Tennessee,PASSING,Connor,Shaw,LONG,76
+142021,10/19/2013,FBS,South Carolina,Tennessee,PASSING,Dylan,Thompson,CP-ATT-INT,1-1-0
+142022,10/19/2013,FBS,South Carolina,Tennessee,PASSING,Dylan,Thompson,YDS,5
+142023,10/19/2013,FBS,South Carolina,Tennessee,PASSING,Dylan,Thompson,TD,0
+142024,10/19/2013,FBS,South Carolina,Tennessee,PASSING,Dylan,Thompson,LONG,5
+142025,10/19/2013,FBS,South Carolina,Tennessee,RECEIVING,Damiere,Byrd,REC,4
+142026,10/19/2013,FBS,South Carolina,Tennessee,RECEIVING,Damiere,Byrd,YDS,121
+142027,10/19/2013,FBS,South Carolina,Tennessee,RECEIVING,Damiere,Byrd,TD,1
+142028,10/19/2013,FBS,South Carolina,Tennessee,RECEIVING,Damiere,Byrd,LONG,76
+142029,10/19/2013,FBS,South Carolina,Tennessee,RECEIVING,Mike,Davis,REC,2
+142030,10/19/2013,FBS,South Carolina,Tennessee,RECEIVING,Mike,Davis,YDS,16
+142031,10/19/2013,FBS,South Carolina,Tennessee,RECEIVING,Mike,Davis,TD,0
+142032,10/19/2013,FBS,South Carolina,Tennessee,RECEIVING,Mike,Davis,LONG,11
+142033,10/19/2013,FBS,South Carolina,Tennessee,RECEIVING,Rory,Anderson,REC,1
+142034,10/19/2013,FBS,South Carolina,Tennessee,RECEIVING,Rory,Anderson,YDS,25
+142035,10/19/2013,FBS,South Carolina,Tennessee,RECEIVING,Rory,Anderson,TD,0
+142036,10/19/2013,FBS,South Carolina,Tennessee,RECEIVING,Rory,Anderson,LONG,25
+142037,10/19/2013,FBS,South Carolina,Tennessee,RECEIVING,Nick,Jones,REC,1
+142038,10/19/2013,FBS,South Carolina,Tennessee,RECEIVING,Nick,Jones,YDS,4
+142039,10/19/2013,FBS,South Carolina,Tennessee,RECEIVING,Nick,Jones,TD,0
+142040,10/19/2013,FBS,South Carolina,Tennessee,RECEIVING,Nick,Jones,LONG,4
+142041,10/19/2013,FBS,South Carolina,Tennessee,KICKING,Elliott,Fry,FG-FGA,0/1
+142042,10/19/2013,FBS,South Carolina,Tennessee,KICKING,Elliott,Fry,LONG,-
+142043,10/19/2013,FBS,South Carolina,Tennessee,KICKING,Elliott,Fry,XP,3
+142044,10/19/2013,FBS,South Carolina,Tennessee,KICKING,Elliott,Fry,PTS,3
+142045,10/19/2013,FBS,South Carolina,Tennessee,PUNTING,Tyler,Hull,NO,8
+142046,10/19/2013,FBS,South Carolina,Tennessee,PUNTING,Tyler,Hull,YDS,290
+142047,10/19/2013,FBS,South Carolina,Tennessee,PUNTING,Tyler,Hull,AVG,36.3
+142048,10/19/2013,FBS,South Carolina,Tennessee,PUNTING,Tyler,Hull,LONG,45
+142049,10/19/2013,FBS,South Carolina,Tennessee,PUNT RETURNS,Pharoh,Cooper,NO,2
+142050,10/19/2013,FBS,South Carolina,Tennessee,PUNT RETURNS,Pharoh,Cooper,YDS,8
+142051,10/19/2013,FBS,South Carolina,Tennessee,PUNT RETURNS,Pharoh,Cooper,AVG,4.0
+142052,10/19/2013,FBS,South Carolina,Tennessee,PUNT RETURNS,Pharoh,Cooper,LONG,8
+142053,10/19/2013,FBS,South Carolina,Tennessee,KICK RETURNS,Pharoh,Cooper,NO,3
+142054,10/19/2013,FBS,South Carolina,Tennessee,KICK RETURNS,Pharoh,Cooper,YDS,58
+142055,10/19/2013,FBS,South Carolina,Tennessee,KICK RETURNS,Pharoh,Cooper,AVG,19.3
+142056,10/19/2013,FBS,South Carolina,Tennessee,KICK RETURNS,Pharoh,Cooper,LONG,21
+142057,10/19/2013,FBS,Tennessee,South Carolina,RUSHING,Rajion,Neal,ATT,24
+142058,10/19/2013,FBS,Tennessee,South Carolina,RUSHING,Rajion,Neal,YDS,77
+142059,10/19/2013,FBS,Tennessee,South Carolina,RUSHING,Rajion,Neal,TD,1
+142060,10/19/2013,FBS,Tennessee,South Carolina,RUSHING,Rajion,Neal,LONG,16
+142061,10/19/2013,FBS,Tennessee,South Carolina,RUSHING,Marlin,Lane,ATT,12
+142062,10/19/2013,FBS,Tennessee,South Carolina,RUSHING,Marlin,Lane,YDS,55
+142063,10/19/2013,FBS,Tennessee,South Carolina,RUSHING,Marlin,Lane,TD,0
+142064,10/19/2013,FBS,Tennessee,South Carolina,RUSHING,Marlin,Lane,LONG,15
+142065,10/19/2013,FBS,Tennessee,South Carolina,RUSHING,Justin,Worley,ATT,3
+142066,10/19/2013,FBS,Tennessee,South Carolina,RUSHING,Justin,Worley,YDS,18
+142067,10/19/2013,FBS,Tennessee,South Carolina,RUSHING,Justin,Worley,TD,0
+142068,10/19/2013,FBS,Tennessee,South Carolina,RUSHING,Justin,Worley,LONG,13
+142069,10/19/2013,FBS,Tennessee,South Carolina,RUSHING,,Team,ATT,1
+142070,10/19/2013,FBS,Tennessee,South Carolina,RUSHING,,Team,YDS,-1
+142071,10/19/2013,FBS,Tennessee,South Carolina,RUSHING,,Team,TD,0
+142072,10/19/2013,FBS,Tennessee,South Carolina,RUSHING,,Team,LONG,0
+142073,10/19/2013,FBS,Tennessee,South Carolina,RUSHING,Pig,Howard,ATT,1
+142074,10/19/2013,FBS,Tennessee,South Carolina,RUSHING,Pig,Howard,YDS,-3
+142075,10/19/2013,FBS,Tennessee,South Carolina,RUSHING,Pig,Howard,TD,0
+142076,10/19/2013,FBS,Tennessee,South Carolina,RUSHING,Pig,Howard,LONG,0
+142077,10/19/2013,FBS,Tennessee,South Carolina,PASSING,Justin,Worley,CP-ATT-INT,19-34-0
+142078,10/19/2013,FBS,Tennessee,South Carolina,PASSING,Justin,Worley,YDS,179
+142079,10/19/2013,FBS,Tennessee,South Carolina,PASSING,Justin,Worley,TD,1
+142080,10/19/2013,FBS,Tennessee,South Carolina,PASSING,Justin,Worley,LONG,48
+142081,10/19/2013,FBS,Tennessee,South Carolina,PASSING,,Team,CP-ATT-INT,0-1-0
+142082,10/19/2013,FBS,Tennessee,South Carolina,PASSING,,Team,YDS,0
+142083,10/19/2013,FBS,Tennessee,South Carolina,PASSING,,Team,TD,0
+142084,10/19/2013,FBS,Tennessee,South Carolina,PASSING,,Team,LONG,0
+142085,10/19/2013,FBS,Tennessee,South Carolina,PASSING,Rajion,Neal,CP-ATT-INT,0-1-0
+142086,10/19/2013,FBS,Tennessee,South Carolina,PASSING,Rajion,Neal,YDS,0
+142087,10/19/2013,FBS,Tennessee,South Carolina,PASSING,Rajion,Neal,TD,0
+142088,10/19/2013,FBS,Tennessee,South Carolina,PASSING,Rajion,Neal,LONG,0
+142089,10/19/2013,FBS,Tennessee,South Carolina,RECEIVING,Pig,Howard,REC,8
+142090,10/19/2013,FBS,Tennessee,South Carolina,RECEIVING,Pig,Howard,YDS,33
+142091,10/19/2013,FBS,Tennessee,South Carolina,RECEIVING,Pig,Howard,TD,1
+142092,10/19/2013,FBS,Tennessee,South Carolina,RECEIVING,Pig,Howard,LONG,12
+142093,10/19/2013,FBS,Tennessee,South Carolina,RECEIVING,MarQuez,North,REC,3
+142094,10/19/2013,FBS,Tennessee,South Carolina,RECEIVING,MarQuez,North,YDS,102
+142095,10/19/2013,FBS,Tennessee,South Carolina,RECEIVING,MarQuez,North,TD,0
+142096,10/19/2013,FBS,Tennessee,South Carolina,RECEIVING,MarQuez,North,LONG,48
+142097,10/19/2013,FBS,Tennessee,South Carolina,RECEIVING,Brendan,Downs,REC,3
+142098,10/19/2013,FBS,Tennessee,South Carolina,RECEIVING,Brendan,Downs,YDS,20
+142099,10/19/2013,FBS,Tennessee,South Carolina,RECEIVING,Brendan,Downs,TD,0
+142100,10/19/2013,FBS,Tennessee,South Carolina,RECEIVING,Brendan,Downs,LONG,17
+142101,10/19/2013,FBS,Tennessee,South Carolina,RECEIVING,Rajion,Neal,REC,2
+142102,10/19/2013,FBS,Tennessee,South Carolina,RECEIVING,Rajion,Neal,YDS,-9
+142103,10/19/2013,FBS,Tennessee,South Carolina,RECEIVING,Rajion,Neal,TD,0
+142104,10/19/2013,FBS,Tennessee,South Carolina,RECEIVING,Rajion,Neal,LONG,0
+142105,10/19/2013,FBS,Tennessee,South Carolina,RECEIVING,Jason,Croom,REC,1
+142106,10/19/2013,FBS,Tennessee,South Carolina,RECEIVING,Jason,Croom,YDS,23
+142107,10/19/2013,FBS,Tennessee,South Carolina,RECEIVING,Jason,Croom,TD,0
+142108,10/19/2013,FBS,Tennessee,South Carolina,RECEIVING,Jason,Croom,LONG,23
+142109,10/19/2013,FBS,Tennessee,South Carolina,RECEIVING,Johnathon,Johnson,REC,1
+142110,10/19/2013,FBS,Tennessee,South Carolina,RECEIVING,Johnathon,Johnson,YDS,6
+142111,10/19/2013,FBS,Tennessee,South Carolina,RECEIVING,Johnathon,Johnson,TD,0
+142112,10/19/2013,FBS,Tennessee,South Carolina,RECEIVING,Johnathon,Johnson,LONG,6
+142113,10/19/2013,FBS,Tennessee,South Carolina,RECEIVING,Devrin,Young,REC,1
+142114,10/19/2013,FBS,Tennessee,South Carolina,RECEIVING,Devrin,Young,YDS,4
+142115,10/19/2013,FBS,Tennessee,South Carolina,RECEIVING,Devrin,Young,TD,0
+142116,10/19/2013,FBS,Tennessee,South Carolina,RECEIVING,Devrin,Young,LONG,4
+142117,10/19/2013,FBS,Tennessee,South Carolina,KICKING,Michael,Palardy,FG-FGA,3/4
+142118,10/19/2013,FBS,Tennessee,South Carolina,KICKING,Michael,Palardy,LONG,37
+142119,10/19/2013,FBS,Tennessee,South Carolina,KICKING,Michael,Palardy,XP,2
+142120,10/19/2013,FBS,Tennessee,South Carolina,KICKING,Michael,Palardy,PTS,11
+142121,10/19/2013,FBS,Tennessee,South Carolina,PUNTING,Michael,Palardy,NO,8
+142122,10/19/2013,FBS,Tennessee,South Carolina,PUNTING,Michael,Palardy,YDS,323
+142123,10/19/2013,FBS,Tennessee,South Carolina,PUNTING,Michael,Palardy,AVG,40.4
+142124,10/19/2013,FBS,Tennessee,South Carolina,PUNTING,Michael,Palardy,LONG,64
+142125,10/19/2013,FBS,Tennessee,South Carolina,PUNT RETURNS,Jacob,Carter,NO,2
+142126,10/19/2013,FBS,Tennessee,South Carolina,PUNT RETURNS,Jacob,Carter,YDS,16
+142127,10/19/2013,FBS,Tennessee,South Carolina,PUNT RETURNS,Jacob,Carter,AVG,8.0
+142128,10/19/2013,FBS,Tennessee,South Carolina,PUNT RETURNS,Jacob,Carter,LONG,16
+142129,10/19/2013,FBS,Tennessee,South Carolina,KICK RETURNS,Devrin,Young,NO,1
+142130,10/19/2013,FBS,Tennessee,South Carolina,KICK RETURNS,Devrin,Young,YDS,12
+142131,10/19/2013,FBS,Tennessee,South Carolina,KICK RETURNS,Devrin,Young,AVG,12.0
+142132,10/19/2013,FBS,Tennessee,South Carolina,KICK RETURNS,Devrin,Young,LONG,12

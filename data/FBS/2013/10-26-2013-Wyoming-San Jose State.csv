@@ -1,0 +1,153 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+162001,10/26/2013,FBS,Wyoming,San Jose State,RUSHING,Shaun,Wick,ATT,17
+162002,10/26/2013,FBS,Wyoming,San Jose State,RUSHING,Shaun,Wick,YDS,234
+162003,10/26/2013,FBS,Wyoming,San Jose State,RUSHING,Shaun,Wick,TD,1
+162004,10/26/2013,FBS,Wyoming,San Jose State,RUSHING,Shaun,Wick,LONG,67
+162005,10/26/2013,FBS,Wyoming,San Jose State,RUSHING,Brandon,Miller,ATT,13
+162006,10/26/2013,FBS,Wyoming,San Jose State,RUSHING,Brandon,Miller,YDS,82
+162007,10/26/2013,FBS,Wyoming,San Jose State,RUSHING,Brandon,Miller,TD,0
+162008,10/26/2013,FBS,Wyoming,San Jose State,RUSHING,Brandon,Miller,LONG,24
+162009,10/26/2013,FBS,Wyoming,San Jose State,RUSHING,Tedder,Easton,ATT,4
+162010,10/26/2013,FBS,Wyoming,San Jose State,RUSHING,Tedder,Easton,YDS,12
+162011,10/26/2013,FBS,Wyoming,San Jose State,RUSHING,Tedder,Easton,TD,2
+162012,10/26/2013,FBS,Wyoming,San Jose State,RUSHING,Tedder,Easton,LONG,6
+162013,10/26/2013,FBS,Wyoming,San Jose State,RUSHING,Robert,Herron,ATT,1
+162014,10/26/2013,FBS,Wyoming,San Jose State,RUSHING,Robert,Herron,YDS,8
+162015,10/26/2013,FBS,Wyoming,San Jose State,RUSHING,Robert,Herron,TD,0
+162016,10/26/2013,FBS,Wyoming,San Jose State,RUSHING,Robert,Herron,LONG,8
+162017,10/26/2013,FBS,Wyoming,San Jose State,RUSHING,,Team,ATT,1
+162018,10/26/2013,FBS,Wyoming,San Jose State,RUSHING,,Team,YDS,-1
+162019,10/26/2013,FBS,Wyoming,San Jose State,RUSHING,,Team,TD,0
+162020,10/26/2013,FBS,Wyoming,San Jose State,RUSHING,,Team,LONG,0
+162021,10/26/2013,FBS,Wyoming,San Jose State,RUSHING,Brett,Smith,ATT,7
+162022,10/26/2013,FBS,Wyoming,San Jose State,RUSHING,Brett,Smith,YDS,-3
+162023,10/26/2013,FBS,Wyoming,San Jose State,RUSHING,Brett,Smith,TD,0
+162024,10/26/2013,FBS,Wyoming,San Jose State,RUSHING,Brett,Smith,LONG,8
+162025,10/26/2013,FBS,Wyoming,San Jose State,PASSING,Brett,Smith,CP-ATT-INT,22-34-1
+162026,10/26/2013,FBS,Wyoming,San Jose State,PASSING,Brett,Smith,YDS,267
+162027,10/26/2013,FBS,Wyoming,San Jose State,PASSING,Brett,Smith,TD,3
+162028,10/26/2013,FBS,Wyoming,San Jose State,PASSING,Brett,Smith,LONG,93
+162029,10/26/2013,FBS,Wyoming,San Jose State,RECEIVING,Robert,Herron,REC,5
+162030,10/26/2013,FBS,Wyoming,San Jose State,RECEIVING,Robert,Herron,YDS,154
+162031,10/26/2013,FBS,Wyoming,San Jose State,RECEIVING,Robert,Herron,TD,1
+162032,10/26/2013,FBS,Wyoming,San Jose State,RECEIVING,Robert,Herron,LONG,93
+162033,10/26/2013,FBS,Wyoming,San Jose State,RECEIVING,Brandon,Miller,REC,5
+162034,10/26/2013,FBS,Wyoming,San Jose State,RECEIVING,Brandon,Miller,YDS,18
+162035,10/26/2013,FBS,Wyoming,San Jose State,RECEIVING,Brandon,Miller,TD,1
+162036,10/26/2013,FBS,Wyoming,San Jose State,RECEIVING,Brandon,Miller,LONG,8
+162037,10/26/2013,FBS,Wyoming,San Jose State,RECEIVING,Jake,Maulhardt,REC,3
+162038,10/26/2013,FBS,Wyoming,San Jose State,RECEIVING,Jake,Maulhardt,YDS,29
+162039,10/26/2013,FBS,Wyoming,San Jose State,RECEIVING,Jake,Maulhardt,TD,1
+162040,10/26/2013,FBS,Wyoming,San Jose State,RECEIVING,Jake,Maulhardt,LONG,14
+162041,10/26/2013,FBS,Wyoming,San Jose State,RECEIVING,Tanner,Gentry,REC,3
+162042,10/26/2013,FBS,Wyoming,San Jose State,RECEIVING,Tanner,Gentry,YDS,15
+162043,10/26/2013,FBS,Wyoming,San Jose State,RECEIVING,Tanner,Gentry,TD,0
+162044,10/26/2013,FBS,Wyoming,San Jose State,RECEIVING,Tanner,Gentry,LONG,8
+162045,10/26/2013,FBS,Wyoming,San Jose State,RECEIVING,Shaun,Wick,REC,3
+162046,10/26/2013,FBS,Wyoming,San Jose State,RECEIVING,Shaun,Wick,YDS,11
+162047,10/26/2013,FBS,Wyoming,San Jose State,RECEIVING,Shaun,Wick,TD,0
+162048,10/26/2013,FBS,Wyoming,San Jose State,RECEIVING,Shaun,Wick,LONG,5
+162049,10/26/2013,FBS,Wyoming,San Jose State,RECEIVING,Dominic,Rufran,REC,2
+162050,10/26/2013,FBS,Wyoming,San Jose State,RECEIVING,Dominic,Rufran,YDS,16
+162051,10/26/2013,FBS,Wyoming,San Jose State,RECEIVING,Dominic,Rufran,TD,0
+162052,10/26/2013,FBS,Wyoming,San Jose State,RECEIVING,Dominic,Rufran,LONG,10
+162053,10/26/2013,FBS,Wyoming,San Jose State,RECEIVING,Jalen,Claiborne,REC,1
+162054,10/26/2013,FBS,Wyoming,San Jose State,RECEIVING,Jalen,Claiborne,YDS,24
+162055,10/26/2013,FBS,Wyoming,San Jose State,RECEIVING,Jalen,Claiborne,TD,0
+162056,10/26/2013,FBS,Wyoming,San Jose State,RECEIVING,Jalen,Claiborne,LONG,24
+162057,10/26/2013,FBS,Wyoming,San Jose State,KICKING,Stuart,Williams,FG-FGA,1/1
+162058,10/26/2013,FBS,Wyoming,San Jose State,KICKING,Stuart,Williams,LONG,43
+162059,10/26/2013,FBS,Wyoming,San Jose State,KICKING,Stuart,Williams,XP,5
+162060,10/26/2013,FBS,Wyoming,San Jose State,KICKING,Stuart,Williams,PTS,8
+162061,10/26/2013,FBS,Wyoming,San Jose State,PUNTING,Ethan,Wood,NO,5
+162062,10/26/2013,FBS,Wyoming,San Jose State,PUNTING,Ethan,Wood,YDS,221
+162063,10/26/2013,FBS,Wyoming,San Jose State,PUNTING,Ethan,Wood,AVG,44.2
+162064,10/26/2013,FBS,Wyoming,San Jose State,PUNTING,Ethan,Wood,LONG,59
+162065,10/26/2013,FBS,Wyoming,San Jose State,PUNT RETURNS,Jalen,Claiborne,NO,1
+162066,10/26/2013,FBS,Wyoming,San Jose State,PUNT RETURNS,Jalen,Claiborne,YDS,1
+162067,10/26/2013,FBS,Wyoming,San Jose State,PUNT RETURNS,Jalen,Claiborne,AVG,1.0
+162068,10/26/2013,FBS,Wyoming,San Jose State,PUNT RETURNS,Jalen,Claiborne,LONG,1
+162069,10/26/2013,FBS,Wyoming,San Jose State,KICK RETURNS,Shaun,Wick,NO,2
+162070,10/26/2013,FBS,Wyoming,San Jose State,KICK RETURNS,Shaun,Wick,YDS,41
+162071,10/26/2013,FBS,Wyoming,San Jose State,KICK RETURNS,Shaun,Wick,AVG,20.5
+162072,10/26/2013,FBS,Wyoming,San Jose State,KICK RETURNS,Shaun,Wick,LONG,21
+162073,10/26/2013,FBS,Wyoming,San Jose State,KICK RETURNS,Jalen,Claiborne,NO,1
+162074,10/26/2013,FBS,Wyoming,San Jose State,KICK RETURNS,Jalen,Claiborne,YDS,0
+162075,10/26/2013,FBS,Wyoming,San Jose State,KICK RETURNS,Jalen,Claiborne,AVG,0.0
+162076,10/26/2013,FBS,Wyoming,San Jose State,KICK RETURNS,Jalen,Claiborne,LONG,0
+162077,10/26/2013,FBS,San Jose State,Wyoming,RUSHING,Jarrod,Lawson,ATT,25
+162078,10/26/2013,FBS,San Jose State,Wyoming,RUSHING,Jarrod,Lawson,YDS,128
+162079,10/26/2013,FBS,San Jose State,Wyoming,RUSHING,Jarrod,Lawson,TD,0
+162080,10/26/2013,FBS,San Jose State,Wyoming,RUSHING,Jarrod,Lawson,LONG,13
+162081,10/26/2013,FBS,San Jose State,Wyoming,RUSHING,Tim,Crawley,ATT,5
+162082,10/26/2013,FBS,San Jose State,Wyoming,RUSHING,Tim,Crawley,YDS,27
+162083,10/26/2013,FBS,San Jose State,Wyoming,RUSHING,Tim,Crawley,TD,1
+162084,10/26/2013,FBS,San Jose State,Wyoming,RUSHING,Tim,Crawley,LONG,12
+162085,10/26/2013,FBS,San Jose State,Wyoming,RUSHING,Thomas,Tucker,ATT,5
+162086,10/26/2013,FBS,San Jose State,Wyoming,RUSHING,Thomas,Tucker,YDS,11
+162087,10/26/2013,FBS,San Jose State,Wyoming,RUSHING,Thomas,Tucker,TD,0
+162088,10/26/2013,FBS,San Jose State,Wyoming,RUSHING,Thomas,Tucker,LONG,11
+162089,10/26/2013,FBS,San Jose State,Wyoming,RUSHING,Chandler,Jones,ATT,1
+162090,10/26/2013,FBS,San Jose State,Wyoming,RUSHING,Chandler,Jones,YDS,1
+162091,10/26/2013,FBS,San Jose State,Wyoming,RUSHING,Chandler,Jones,TD,0
+162092,10/26/2013,FBS,San Jose State,Wyoming,RUSHING,Chandler,Jones,LONG,1
+162093,10/26/2013,FBS,San Jose State,Wyoming,RUSHING,Shane,Smith,ATT,1
+162094,10/26/2013,FBS,San Jose State,Wyoming,RUSHING,Shane,Smith,YDS,1
+162095,10/26/2013,FBS,San Jose State,Wyoming,RUSHING,Shane,Smith,TD,0
+162096,10/26/2013,FBS,San Jose State,Wyoming,RUSHING,Shane,Smith,LONG,1
+162097,10/26/2013,FBS,San Jose State,Wyoming,RUSHING,David,Fales,ATT,7
+162098,10/26/2013,FBS,San Jose State,Wyoming,RUSHING,David,Fales,YDS,-8
+162099,10/26/2013,FBS,San Jose State,Wyoming,RUSHING,David,Fales,TD,1
+162100,10/26/2013,FBS,San Jose State,Wyoming,RUSHING,David,Fales,LONG,4
+162101,10/26/2013,FBS,San Jose State,Wyoming,PASSING,David,Fales,CP-ATT-INT,27-37-0
+162102,10/26/2013,FBS,San Jose State,Wyoming,PASSING,David,Fales,YDS,482
+162103,10/26/2013,FBS,San Jose State,Wyoming,PASSING,David,Fales,TD,5
+162104,10/26/2013,FBS,San Jose State,Wyoming,PASSING,David,Fales,LONG,76
+162105,10/26/2013,FBS,San Jose State,Wyoming,RECEIVING,Tyler,Winston,REC,9
+162106,10/26/2013,FBS,San Jose State,Wyoming,RECEIVING,Tyler,Winston,YDS,171
+162107,10/26/2013,FBS,San Jose State,Wyoming,RECEIVING,Tyler,Winston,TD,1
+162108,10/26/2013,FBS,San Jose State,Wyoming,RECEIVING,Tyler,Winston,LONG,60
+162109,10/26/2013,FBS,San Jose State,Wyoming,RECEIVING,Billy,Freeman,REC,6
+162110,10/26/2013,FBS,San Jose State,Wyoming,RECEIVING,Billy,Freeman,YDS,119
+162111,10/26/2013,FBS,San Jose State,Wyoming,RECEIVING,Billy,Freeman,TD,0
+162112,10/26/2013,FBS,San Jose State,Wyoming,RECEIVING,Billy,Freeman,LONG,47
+162113,10/26/2013,FBS,San Jose State,Wyoming,RECEIVING,Chandler,Jones,REC,4
+162114,10/26/2013,FBS,San Jose State,Wyoming,RECEIVING,Chandler,Jones,YDS,129
+162115,10/26/2013,FBS,San Jose State,Wyoming,RECEIVING,Chandler,Jones,TD,3
+162116,10/26/2013,FBS,San Jose State,Wyoming,RECEIVING,Chandler,Jones,LONG,76
+162117,10/26/2013,FBS,San Jose State,Wyoming,RECEIVING,Tim,Crawley,REC,3
+162118,10/26/2013,FBS,San Jose State,Wyoming,RECEIVING,Tim,Crawley,YDS,24
+162119,10/26/2013,FBS,San Jose State,Wyoming,RECEIVING,Tim,Crawley,TD,0
+162120,10/26/2013,FBS,San Jose State,Wyoming,RECEIVING,Tim,Crawley,LONG,16
+162121,10/26/2013,FBS,San Jose State,Wyoming,RECEIVING,Thomas,Tucker,REC,2
+162122,10/26/2013,FBS,San Jose State,Wyoming,RECEIVING,Thomas,Tucker,YDS,2
+162123,10/26/2013,FBS,San Jose State,Wyoming,RECEIVING,Thomas,Tucker,TD,0
+162124,10/26/2013,FBS,San Jose State,Wyoming,RECEIVING,Thomas,Tucker,LONG,3
+162125,10/26/2013,FBS,San Jose State,Wyoming,RECEIVING,Kyle,Nunn,REC,1
+162126,10/26/2013,FBS,San Jose State,Wyoming,RECEIVING,Kyle,Nunn,YDS,17
+162127,10/26/2013,FBS,San Jose State,Wyoming,RECEIVING,Kyle,Nunn,TD,0
+162128,10/26/2013,FBS,San Jose State,Wyoming,RECEIVING,Kyle,Nunn,LONG,17
+162129,10/26/2013,FBS,San Jose State,Wyoming,RECEIVING,Jordan,Thiel,REC,1
+162130,10/26/2013,FBS,San Jose State,Wyoming,RECEIVING,Jordan,Thiel,YDS,17
+162131,10/26/2013,FBS,San Jose State,Wyoming,RECEIVING,Jordan,Thiel,TD,0
+162132,10/26/2013,FBS,San Jose State,Wyoming,RECEIVING,Jordan,Thiel,LONG,17
+162133,10/26/2013,FBS,San Jose State,Wyoming,RECEIVING,Shane,Smith,REC,1
+162134,10/26/2013,FBS,San Jose State,Wyoming,RECEIVING,Shane,Smith,YDS,3
+162135,10/26/2013,FBS,San Jose State,Wyoming,RECEIVING,Shane,Smith,TD,1
+162136,10/26/2013,FBS,San Jose State,Wyoming,RECEIVING,Shane,Smith,LONG,3
+162137,10/26/2013,FBS,San Jose State,Wyoming,KICKING,Austin,Lopez,FG-FGA,0/1
+162138,10/26/2013,FBS,San Jose State,Wyoming,KICKING,Austin,Lopez,LONG,-
+162139,10/26/2013,FBS,San Jose State,Wyoming,KICKING,Austin,Lopez,XP,5
+162140,10/26/2013,FBS,San Jose State,Wyoming,KICKING,Austin,Lopez,PTS,5
+162141,10/26/2013,FBS,San Jose State,Wyoming,PUNTING,Harrison,Waid,NO,6
+162142,10/26/2013,FBS,San Jose State,Wyoming,PUNTING,Harrison,Waid,YDS,250
+162143,10/26/2013,FBS,San Jose State,Wyoming,PUNTING,Harrison,Waid,AVG,41.7
+162144,10/26/2013,FBS,San Jose State,Wyoming,PUNTING,Harrison,Waid,LONG,51
+162145,10/26/2013,FBS,San Jose State,Wyoming,PUNT RETURNS,Damon,OgburnJr.,NO,2
+162146,10/26/2013,FBS,San Jose State,Wyoming,PUNT RETURNS,Damon,OgburnJr.,YDS,8
+162147,10/26/2013,FBS,San Jose State,Wyoming,PUNT RETURNS,Damon,OgburnJr.,AVG,4.0
+162148,10/26/2013,FBS,San Jose State,Wyoming,PUNT RETURNS,Damon,OgburnJr.,LONG,7
+162149,10/26/2013,FBS,San Jose State,Wyoming,KICK RETURNS,Tim,Crawley,NO,4
+162150,10/26/2013,FBS,San Jose State,Wyoming,KICK RETURNS,Tim,Crawley,YDS,91
+162151,10/26/2013,FBS,San Jose State,Wyoming,KICK RETURNS,Tim,Crawley,AVG,22.8
+162152,10/26/2013,FBS,San Jose State,Wyoming,KICK RETURNS,Tim,Crawley,LONG,27

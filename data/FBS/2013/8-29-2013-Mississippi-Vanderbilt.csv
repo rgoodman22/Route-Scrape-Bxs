@@ -1,0 +1,133 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+7001,8/29/2013,FBS,Mississippi,Vanderbilt,RUSHING,Jeff,Scott,ATT,12
+7002,8/29/2013,FBS,Mississippi,Vanderbilt,RUSHING,Jeff,Scott,YDS,138
+7003,8/29/2013,FBS,Mississippi,Vanderbilt,RUSHING,Jeff,Scott,TD,1
+7004,8/29/2013,FBS,Mississippi,Vanderbilt,RUSHING,Jeff,Scott,LONG,75
+7005,8/29/2013,FBS,Mississippi,Vanderbilt,RUSHING,Bo,Wallace,ATT,18
+7006,8/29/2013,FBS,Mississippi,Vanderbilt,RUSHING,Bo,Wallace,YDS,48
+7007,8/29/2013,FBS,Mississippi,Vanderbilt,RUSHING,Bo,Wallace,TD,2
+7008,8/29/2013,FBS,Mississippi,Vanderbilt,RUSHING,Bo,Wallace,LONG,22
+7009,8/29/2013,FBS,Mississippi,Vanderbilt,RUSHING,Robert,Nkemdiche,ATT,1
+7010,8/29/2013,FBS,Mississippi,Vanderbilt,RUSHING,Robert,Nkemdiche,YDS,11
+7011,8/29/2013,FBS,Mississippi,Vanderbilt,RUSHING,Robert,Nkemdiche,TD,0
+7012,8/29/2013,FBS,Mississippi,Vanderbilt,RUSHING,Robert,Nkemdiche,LONG,11
+7013,8/29/2013,FBS,Mississippi,Vanderbilt,RUSHING,Jaylen,Walton,ATT,2
+7014,8/29/2013,FBS,Mississippi,Vanderbilt,RUSHING,Jaylen,Walton,YDS,6
+7015,8/29/2013,FBS,Mississippi,Vanderbilt,RUSHING,Jaylen,Walton,TD,0
+7016,8/29/2013,FBS,Mississippi,Vanderbilt,RUSHING,Jaylen,Walton,LONG,4
+7017,8/29/2013,FBS,Mississippi,Vanderbilt,RUSHING,Barry,Brunetti,ATT,2
+7018,8/29/2013,FBS,Mississippi,Vanderbilt,RUSHING,Barry,Brunetti,YDS,4
+7019,8/29/2013,FBS,Mississippi,Vanderbilt,RUSHING,Barry,Brunetti,TD,2
+7020,8/29/2013,FBS,Mississippi,Vanderbilt,RUSHING,Barry,Brunetti,LONG,3
+7021,8/29/2013,FBS,Mississippi,Vanderbilt,RUSHING,Kailo,Moore,ATT,1
+7022,8/29/2013,FBS,Mississippi,Vanderbilt,RUSHING,Kailo,Moore,YDS,0
+7023,8/29/2013,FBS,Mississippi,Vanderbilt,RUSHING,Kailo,Moore,TD,0
+7024,8/29/2013,FBS,Mississippi,Vanderbilt,RUSHING,Kailo,Moore,LONG,0
+7025,8/29/2013,FBS,Mississippi,Vanderbilt,RUSHING,,Team,ATT,1
+7026,8/29/2013,FBS,Mississippi,Vanderbilt,RUSHING,,Team,YDS,-1
+7027,8/29/2013,FBS,Mississippi,Vanderbilt,RUSHING,,Team,TD,0
+7028,8/29/2013,FBS,Mississippi,Vanderbilt,RUSHING,,Team,LONG,0
+7029,8/29/2013,FBS,Mississippi,Vanderbilt,PASSING,Bo,Wallace,CP-ATT-INT,31-47-0
+7030,8/29/2013,FBS,Mississippi,Vanderbilt,PASSING,Bo,Wallace,YDS,283
+7031,8/29/2013,FBS,Mississippi,Vanderbilt,PASSING,Bo,Wallace,TD,0
+7032,8/29/2013,FBS,Mississippi,Vanderbilt,PASSING,Bo,Wallace,LONG,39
+7033,8/29/2013,FBS,Mississippi,Vanderbilt,RECEIVING,Laquon,Treadwell,REC,9
+7034,8/29/2013,FBS,Mississippi,Vanderbilt,RECEIVING,Laquon,Treadwell,YDS,82
+7035,8/29/2013,FBS,Mississippi,Vanderbilt,RECEIVING,Laquon,Treadwell,TD,0
+7036,8/29/2013,FBS,Mississippi,Vanderbilt,RECEIVING,Laquon,Treadwell,LONG,17
+7037,8/29/2013,FBS,Mississippi,Vanderbilt,RECEIVING,Evan,Engram,REC,5
+7038,8/29/2013,FBS,Mississippi,Vanderbilt,RECEIVING,Evan,Engram,YDS,61
+7039,8/29/2013,FBS,Mississippi,Vanderbilt,RECEIVING,Evan,Engram,TD,0
+7040,8/29/2013,FBS,Mississippi,Vanderbilt,RECEIVING,Evan,Engram,LONG,24
+7041,8/29/2013,FBS,Mississippi,Vanderbilt,RECEIVING,Donte,Moncrief,REC,5
+7042,8/29/2013,FBS,Mississippi,Vanderbilt,RECEIVING,Donte,Moncrief,YDS,56
+7043,8/29/2013,FBS,Mississippi,Vanderbilt,RECEIVING,Donte,Moncrief,TD,0
+7044,8/29/2013,FBS,Mississippi,Vanderbilt,RECEIVING,Donte,Moncrief,LONG,39
+7045,8/29/2013,FBS,Mississippi,Vanderbilt,RECEIVING,Ja-Mes,Logan,REC,5
+7046,8/29/2013,FBS,Mississippi,Vanderbilt,RECEIVING,Ja-Mes,Logan,YDS,39
+7047,8/29/2013,FBS,Mississippi,Vanderbilt,RECEIVING,Ja-Mes,Logan,TD,0
+7048,8/29/2013,FBS,Mississippi,Vanderbilt,RECEIVING,Ja-Mes,Logan,LONG,14
+7049,8/29/2013,FBS,Mississippi,Vanderbilt,RECEIVING,Jeff,Scott,REC,4
+7050,8/29/2013,FBS,Mississippi,Vanderbilt,RECEIVING,Jeff,Scott,YDS,25
+7051,8/29/2013,FBS,Mississippi,Vanderbilt,RECEIVING,Jeff,Scott,TD,0
+7052,8/29/2013,FBS,Mississippi,Vanderbilt,RECEIVING,Jeff,Scott,LONG,13
+7053,8/29/2013,FBS,Mississippi,Vanderbilt,RECEIVING,Jordan,Holder,REC,3
+7054,8/29/2013,FBS,Mississippi,Vanderbilt,RECEIVING,Jordan,Holder,YDS,20
+7055,8/29/2013,FBS,Mississippi,Vanderbilt,RECEIVING,Jordan,Holder,TD,0
+7056,8/29/2013,FBS,Mississippi,Vanderbilt,RECEIVING,Jordan,Holder,LONG,11
+7057,8/29/2013,FBS,Mississippi,Vanderbilt,KICKING,Andrew,Ritter,FG-FGA,1/3
+7058,8/29/2013,FBS,Mississippi,Vanderbilt,KICKING,Andrew,Ritter,LONG,30
+7059,8/29/2013,FBS,Mississippi,Vanderbilt,KICKING,Andrew,Ritter,XP,4
+7060,8/29/2013,FBS,Mississippi,Vanderbilt,KICKING,Andrew,Ritter,PTS,7
+7061,8/29/2013,FBS,Mississippi,Vanderbilt,PUNTING,Tyler,Campbell,NO,4
+7062,8/29/2013,FBS,Mississippi,Vanderbilt,PUNTING,Tyler,Campbell,YDS,179
+7063,8/29/2013,FBS,Mississippi,Vanderbilt,PUNTING,Tyler,Campbell,AVG,44.8
+7064,8/29/2013,FBS,Mississippi,Vanderbilt,PUNTING,Tyler,Campbell,LONG,53
+7065,8/29/2013,FBS,Mississippi,Vanderbilt,PUNT RETURNS,Jeff,Scott,NO,1
+7066,8/29/2013,FBS,Mississippi,Vanderbilt,PUNT RETURNS,Jeff,Scott,YDS,11
+7067,8/29/2013,FBS,Mississippi,Vanderbilt,PUNT RETURNS,Jeff,Scott,AVG,11.0
+7068,8/29/2013,FBS,Mississippi,Vanderbilt,PUNT RETURNS,Jeff,Scott,LONG,11
+7069,8/29/2013,FBS,Mississippi,Vanderbilt,KICK RETURNS,Jaylen,Walton,NO,1
+7070,8/29/2013,FBS,Mississippi,Vanderbilt,KICK RETURNS,Jaylen,Walton,YDS,14
+7071,8/29/2013,FBS,Mississippi,Vanderbilt,KICK RETURNS,Jaylen,Walton,AVG,14.0
+7072,8/29/2013,FBS,Mississippi,Vanderbilt,KICK RETURNS,Jaylen,Walton,LONG,14
+7073,8/29/2013,FBS,Vanderbilt,Mississippi,RUSHING,Jerron,Seymour,ATT,5
+7074,8/29/2013,FBS,Vanderbilt,Mississippi,RUSHING,Jerron,Seymour,YDS,43
+7075,8/29/2013,FBS,Vanderbilt,Mississippi,RUSHING,Jerron,Seymour,TD,1
+7076,8/29/2013,FBS,Vanderbilt,Mississippi,RUSHING,Jerron,Seymour,LONG,32
+7077,8/29/2013,FBS,Vanderbilt,Mississippi,RUSHING,Wesley,Tate,ATT,17
+7078,8/29/2013,FBS,Vanderbilt,Mississippi,RUSHING,Wesley,Tate,YDS,39
+7079,8/29/2013,FBS,Vanderbilt,Mississippi,RUSHING,Wesley,Tate,TD,2
+7080,8/29/2013,FBS,Vanderbilt,Mississippi,RUSHING,Wesley,Tate,LONG,6
+7081,8/29/2013,FBS,Vanderbilt,Mississippi,RUSHING,Brian,Kimbrow,ATT,6
+7082,8/29/2013,FBS,Vanderbilt,Mississippi,RUSHING,Brian,Kimbrow,YDS,37
+7083,8/29/2013,FBS,Vanderbilt,Mississippi,RUSHING,Brian,Kimbrow,TD,0
+7084,8/29/2013,FBS,Vanderbilt,Mississippi,RUSHING,Brian,Kimbrow,LONG,11
+7085,8/29/2013,FBS,Vanderbilt,Mississippi,RUSHING,Austyn,Carta-Samuels,ATT,5
+7086,8/29/2013,FBS,Vanderbilt,Mississippi,RUSHING,Austyn,Carta-Samuels,YDS,7
+7087,8/29/2013,FBS,Vanderbilt,Mississippi,RUSHING,Austyn,Carta-Samuels,TD,0
+7088,8/29/2013,FBS,Vanderbilt,Mississippi,RUSHING,Austyn,Carta-Samuels,LONG,9
+7089,8/29/2013,FBS,Vanderbilt,Mississippi,PASSING,Austyn,Carta-Samuels,CP-ATT-INT,21-36-2
+7090,8/29/2013,FBS,Vanderbilt,Mississippi,PASSING,Austyn,Carta-Samuels,YDS,300
+7091,8/29/2013,FBS,Vanderbilt,Mississippi,PASSING,Austyn,Carta-Samuels,TD,2
+7092,8/29/2013,FBS,Vanderbilt,Mississippi,PASSING,Austyn,Carta-Samuels,LONG,55
+7093,8/29/2013,FBS,Vanderbilt,Mississippi,RECEIVING,Jordan,Matthews,REC,10
+7094,8/29/2013,FBS,Vanderbilt,Mississippi,RECEIVING,Jordan,Matthews,YDS,178
+7095,8/29/2013,FBS,Vanderbilt,Mississippi,RECEIVING,Jordan,Matthews,TD,1
+7096,8/29/2013,FBS,Vanderbilt,Mississippi,RECEIVING,Jordan,Matthews,LONG,55
+7097,8/29/2013,FBS,Vanderbilt,Mississippi,RECEIVING,Jonathan,Krause,REC,6
+7098,8/29/2013,FBS,Vanderbilt,Mississippi,RECEIVING,Jonathan,Krause,YDS,66
+7099,8/29/2013,FBS,Vanderbilt,Mississippi,RECEIVING,Jonathan,Krause,TD,0
+7100,8/29/2013,FBS,Vanderbilt,Mississippi,RECEIVING,Jonathan,Krause,LONG,33
+7101,8/29/2013,FBS,Vanderbilt,Mississippi,RECEIVING,Wesley,Tate,REC,3
+7102,8/29/2013,FBS,Vanderbilt,Mississippi,RECEIVING,Wesley,Tate,YDS,13
+7103,8/29/2013,FBS,Vanderbilt,Mississippi,RECEIVING,Wesley,Tate,TD,0
+7104,8/29/2013,FBS,Vanderbilt,Mississippi,RECEIVING,Wesley,Tate,LONG,6
+7105,8/29/2013,FBS,Vanderbilt,Mississippi,RECEIVING,Steven,Scheu,REC,2
+7106,8/29/2013,FBS,Vanderbilt,Mississippi,RECEIVING,Steven,Scheu,YDS,43
+7107,8/29/2013,FBS,Vanderbilt,Mississippi,RECEIVING,Steven,Scheu,TD,1
+7108,8/29/2013,FBS,Vanderbilt,Mississippi,RECEIVING,Steven,Scheu,LONG,34
+7109,8/29/2013,FBS,Vanderbilt,Mississippi,KICKING,Carey,Spear,FG-FGA,0/0
+7110,8/29/2013,FBS,Vanderbilt,Mississippi,KICKING,Carey,Spear,LONG,-
+7111,8/29/2013,FBS,Vanderbilt,Mississippi,KICKING,Carey,Spear,XP,5
+7112,8/29/2013,FBS,Vanderbilt,Mississippi,KICKING,Carey,Spear,PTS,5
+7113,8/29/2013,FBS,Vanderbilt,Mississippi,PUNTING,Taylor,Hudson,NO,5
+7114,8/29/2013,FBS,Vanderbilt,Mississippi,PUNTING,Taylor,Hudson,YDS,200
+7115,8/29/2013,FBS,Vanderbilt,Mississippi,PUNTING,Taylor,Hudson,AVG,40.0
+7116,8/29/2013,FBS,Vanderbilt,Mississippi,PUNTING,Taylor,Hudson,LONG,52
+7117,8/29/2013,FBS,Vanderbilt,Mississippi,PUNT RETURNS,Jonathan,Krause,NO,1
+7118,8/29/2013,FBS,Vanderbilt,Mississippi,PUNT RETURNS,Jonathan,Krause,YDS,2
+7119,8/29/2013,FBS,Vanderbilt,Mississippi,PUNT RETURNS,Jonathan,Krause,AVG,2.0
+7120,8/29/2013,FBS,Vanderbilt,Mississippi,PUNT RETURNS,Jonathan,Krause,LONG,2
+7121,8/29/2013,FBS,Vanderbilt,Mississippi,KICK RETURNS,Darrius,Sims,NO,1
+7122,8/29/2013,FBS,Vanderbilt,Mississippi,KICK RETURNS,Darrius,Sims,YDS,34
+7123,8/29/2013,FBS,Vanderbilt,Mississippi,KICK RETURNS,Darrius,Sims,AVG,34.0
+7124,8/29/2013,FBS,Vanderbilt,Mississippi,KICK RETURNS,Darrius,Sims,LONG,34
+7125,8/29/2013,FBS,Vanderbilt,Mississippi,KICK RETURNS,Brian,Kimbrow,NO,1
+7126,8/29/2013,FBS,Vanderbilt,Mississippi,KICK RETURNS,Brian,Kimbrow,YDS,12
+7127,8/29/2013,FBS,Vanderbilt,Mississippi,KICK RETURNS,Brian,Kimbrow,AVG,12.0
+7128,8/29/2013,FBS,Vanderbilt,Mississippi,KICK RETURNS,Brian,Kimbrow,LONG,12
+7129,8/29/2013,FBS,Vanderbilt,Mississippi,KICK RETURNS,Andre,Hal,NO,1
+7130,8/29/2013,FBS,Vanderbilt,Mississippi,KICK RETURNS,Andre,Hal,YDS,11
+7131,8/29/2013,FBS,Vanderbilt,Mississippi,KICK RETURNS,Andre,Hal,AVG,11.0
+7132,8/29/2013,FBS,Vanderbilt,Mississippi,KICK RETURNS,Andre,Hal,LONG,11
