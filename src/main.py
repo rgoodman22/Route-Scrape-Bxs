@@ -8,6 +8,7 @@ dates = constants.dates
 divs = constants.divDict
 class main:
     def __init__(self, driver):
+        ID = 1000
         gameLinks = []
         m = menuSelect(driver)
         for div in divs:
@@ -25,7 +26,8 @@ class main:
                 else:
                     last = cur
                     for link in cur:
-                        scrapeBox(link, driver)
+                        scrapeBox(link, driver, ID)
+                        ID += 1000
                     m.toHome()
                     gameLinks.append(cur)
 

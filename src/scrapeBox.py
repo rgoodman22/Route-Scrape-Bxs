@@ -30,16 +30,17 @@ def parseDate(date):
     return month + "/" + day + "/" + year
 
 class scrapeBox:
-    def __init__(self, url, driver):
+    def __init__(self, url, driver, ID):
+        self.ID = ID+1
         self.data = {}
         self.driver = driver
         self.url = url
         self.moveToBox()
-        self.getTeams()
-        self.getDetails()
+        # self.getTeams()
+        # self.getDetails()
         self.parseBox(0)
-        self.switchTeam()
-        self.parseBox(1)
+        # self.switchTeam()
+        # self.parseBox(1)
         
 
     def moveToBox(self):
@@ -72,6 +73,9 @@ class scrapeBox:
             print('hi')
             for t in table:
                 print(t.get_attribute("innerHTML"))
+
+    def scrapeTable(self, webElement):
+        pass
     
     def getTeams(self):
         self.teams = []
