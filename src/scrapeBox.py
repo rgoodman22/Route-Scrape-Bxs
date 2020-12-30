@@ -1,10 +1,7 @@
 from selenium.webdriver.common.keys import Keys
 from chromeSync import driver
 import time
-#webdriverwait related imports
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
+import csv
 
 monthDict = {
     "JANUARY" : "1",
@@ -24,7 +21,7 @@ monthDict = {
 def parseDate(date):
     date = date.split(' ')[:3]
     month = monthDict[date[0]]
-    day = date[1][:2]
+    day = date[1][:-2]
     year = date[2]
 
     return month + "/" + day + "/" + year
@@ -44,6 +41,7 @@ class scrapeBox:
         self.parseBox(0)
         self.switchTeam()
         self.parseBox(1)
+        self.write()
         
 
     def moveToBox(self):
@@ -75,11 +73,15 @@ class scrapeBox:
             attributes = []
             for a in attributeElements:
                 attributes.append(a.text)
-            dataRows = webElement.find_elements_by_xpath(".//tr")[:-1]
+            dataRows = webElement.find_elements_by_xpath(".//tr")[1:]
             
-            for row in dataRows[1:]:
+            for row in dataRows:
                 dataPoints = row.find_elements_by_xpath(".//*")
                 player = dataPoints[0].text.split(' ')
+                if 'Total' in player or category in player:
+                    continue
+                elif len(player) == 1:
+                    player = ['', 'Team']
                 for i in range(1, len(dataPoints)):
                     line = [self.ID, self.date, self.div, cur, opp, category, player[0], ''.join(player[1:]), attributes[i-1], dataPoints[i].text]
                     self.data.append(line)
@@ -109,11 +111,19 @@ class scrapeBox:
         myXpath = "//span[@class='venue']"
         self.date = self.driver.find_element_by_xpath(myXpath).text
         self.date = parseDate(self.date)
+
+    def write(self):
+        pathName = "../data/%s/%s/%s-%s-%s.csv" %(self.div, self.date.split('/')[-1],self.date.replace('/', '-'), self.teams[0],self.teams[1])
+        file = open(pathName, 'w')
+        csvwriter = csv.writer(file)
+        csvwriter.writerow(self.fields)
+        csvwriter.writerows(self.data)
+
     
 
-url = 'https://www.ncaa.com/game/3959666/boxscore'
-#url = 'https://www.ncaa.com/game/football/d3/2013/09/07/alma-heidelberg/'
+#url = 'https://www.ncaa.com/game/3959666/boxscore'
+# url = 'https://www.ncaa.com/game/football/d3/2013/09/07/alma-heidelberg/'
 
-#scrapeBox(url, driver, 0, 0)
+# scrapeBox(url, driver, 'DIII', 0)
 
         
