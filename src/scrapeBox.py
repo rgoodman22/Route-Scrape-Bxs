@@ -36,11 +36,11 @@ class scrapeBox:
         self.driver = driver
         self.url = url
         self.moveToBox()
-        # self.getTeams()
+        self.getTeams()
         # self.getDetails()
         self.parseBox(0)
-        # self.switchTeam()
-        # self.parseBox(1)
+        self.switchTeam()
+        self.parseBox(1)
         
 
     def moveToBox(self):
@@ -66,17 +66,21 @@ class scrapeBox:
             opp, cur = self.teams
         myXpath = "//div[@class='boxscore-table-collection']"
         tables = self.driver.find_element_by_xpath(myXpath)
-        tables = tables.find_elements_by_xpath("//table")
-
+        tables = tables.find_elements_by_xpath("//div[@class='boxscore-table-collection']")[0]
+        tables = tables.find_elements_by_xpath(".//table")
         for table in tables:
-            table = table.find_elements_by_class_name("tableHeadCollegeName")
-            print('hi')
-            for t in table:
-                print(t.get_attribute("innerHTML"))
+            self.parseTable(table)
 
-    def scrapeTable(self, webElement):
-        pass
-    
+    def parseTable(self, webElement):
+        category = webElement.find_element_by_xpath(".//th[@class='tableHeadCollegeName']").text
+        attributeElements = webElement.find_elements_by_xpath(".//thead/tr/*")[1:]
+        attributes = []
+        for a in attributeElements:
+            attributes.append(a.text)
+        print(category)
+        print(attributes)
+        
+            
     def getTeams(self):
         self.teams = []
         myXpath = "//div[@class='boxscore-team-selector-team awayTeam-bg-primary_color homeTeam-border-primary_color away active']"
@@ -96,6 +100,6 @@ class scrapeBox:
 url = 'https://www.ncaa.com/game/3959666/boxscore'
 #url = 'https://www.ncaa.com/game/football/d3/2013/09/07/alma-heidelberg/'
 
-scrapeBox(url, driver)
+scrapeBox(url, driver, 0)
 
         
