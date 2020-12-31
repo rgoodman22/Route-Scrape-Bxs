@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2452001,11/21/2015,FBS,Nevada,Utah State,RUSHING,James,Butler,ATT,17
+2452002,11/21/2015,FBS,Nevada,Utah State,RUSHING,James,Butler,YDS,139
+2452003,11/21/2015,FBS,Nevada,Utah State,RUSHING,James,Butler,TD,2
+2452004,11/21/2015,FBS,Nevada,Utah State,RUSHING,James,Butler,LONG,60
+2452005,11/21/2015,FBS,Nevada,Utah State,RUSHING,Don,Jackson,ATT,22
+2452006,11/21/2015,FBS,Nevada,Utah State,RUSHING,Don,Jackson,YDS,79
+2452007,11/21/2015,FBS,Nevada,Utah State,RUSHING,Don,Jackson,TD,0
+2452008,11/21/2015,FBS,Nevada,Utah State,RUSHING,Don,Jackson,LONG,18
+2452009,11/21/2015,FBS,Nevada,Utah State,RUSHING,,Team,ATT,1
+2452010,11/21/2015,FBS,Nevada,Utah State,RUSHING,,Team,YDS,-1
+2452011,11/21/2015,FBS,Nevada,Utah State,RUSHING,,Team,TD,0
+2452012,11/21/2015,FBS,Nevada,Utah State,RUSHING,,Team,LONG,-1
+2452013,11/21/2015,FBS,Nevada,Utah State,RUSHING,Tyler,Stewart,ATT,6
+2452014,11/21/2015,FBS,Nevada,Utah State,RUSHING,Tyler,Stewart,YDS,-8
+2452015,11/21/2015,FBS,Nevada,Utah State,RUSHING,Tyler,Stewart,TD,1
+2452016,11/21/2015,FBS,Nevada,Utah State,RUSHING,Tyler,Stewart,LONG,3
+2452017,11/21/2015,FBS,Nevada,Utah State,PASSING,Tyler,Stewart,CP-ATT-INT,8-18-0
+2452018,11/21/2015,FBS,Nevada,Utah State,PASSING,Tyler,Stewart,YDS,55
+2452019,11/21/2015,FBS,Nevada,Utah State,PASSING,Tyler,Stewart,TD,0
+2452020,11/21/2015,FBS,Nevada,Utah State,PASSING,Tyler,Stewart,LONG,13
+2452021,11/21/2015,FBS,Nevada,Utah State,RECEIVING,Jerico,Richardson,REC,5
+2452022,11/21/2015,FBS,Nevada,Utah State,RECEIVING,Jerico,Richardson,YDS,42
+2452023,11/21/2015,FBS,Nevada,Utah State,RECEIVING,Jerico,Richardson,TD,0
+2452024,11/21/2015,FBS,Nevada,Utah State,RECEIVING,Jerico,Richardson,LONG,10
+2452025,11/21/2015,FBS,Nevada,Utah State,RECEIVING,Hasaan,Henderson,REC,2
+2452026,11/21/2015,FBS,Nevada,Utah State,RECEIVING,Hasaan,Henderson,YDS,16
+2452027,11/21/2015,FBS,Nevada,Utah State,RECEIVING,Hasaan,Henderson,TD,0
+2452028,11/21/2015,FBS,Nevada,Utah State,RECEIVING,Hasaan,Henderson,LONG,13
+2452029,11/21/2015,FBS,Nevada,Utah State,RECEIVING,Wyatt,Demps,REC,1
+2452030,11/21/2015,FBS,Nevada,Utah State,RECEIVING,Wyatt,Demps,YDS,7
+2452031,11/21/2015,FBS,Nevada,Utah State,RECEIVING,Wyatt,Demps,TD,0
+2452032,11/21/2015,FBS,Nevada,Utah State,RECEIVING,Wyatt,Demps,LONG,7
+2452033,11/21/2015,FBS,Nevada,Utah State,KICKING,Brent,Zuzo,FG-FGA,0/0
+2452034,11/21/2015,FBS,Nevada,Utah State,KICKING,Brent,Zuzo,LONG,-
+2452035,11/21/2015,FBS,Nevada,Utah State,KICKING,Brent,Zuzo,XP,3
+2452036,11/21/2015,FBS,Nevada,Utah State,KICKING,Brent,Zuzo,PTS,3
+2452037,11/21/2015,FBS,Nevada,Utah State,PUNTING,Alex,Boy,NO,6
+2452038,11/21/2015,FBS,Nevada,Utah State,PUNTING,Alex,Boy,YDS,220
+2452039,11/21/2015,FBS,Nevada,Utah State,PUNTING,Alex,Boy,AVG,36.7
+2452040,11/21/2015,FBS,Nevada,Utah State,PUNTING,Alex,Boy,LONG,43
+2452041,11/21/2015,FBS,Nevada,Utah State,PUNT RETURNS,Andrew,Celis,NO,0
+2452042,11/21/2015,FBS,Nevada,Utah State,PUNT RETURNS,Andrew,Celis,YDS,0
+2452043,11/21/2015,FBS,Nevada,Utah State,PUNT RETURNS,Andrew,Celis,AVG,-
+2452044,11/21/2015,FBS,Nevada,Utah State,PUNT RETURNS,Andrew,Celis,LONG,0
+2452045,11/21/2015,FBS,Nevada,Utah State,KICK RETURNS,Elijah,Mitchell,NO,3
+2452046,11/21/2015,FBS,Nevada,Utah State,KICK RETURNS,Elijah,Mitchell,YDS,80
+2452047,11/21/2015,FBS,Nevada,Utah State,KICK RETURNS,Elijah,Mitchell,AVG,26.7
+2452048,11/21/2015,FBS,Nevada,Utah State,KICK RETURNS,Elijah,Mitchell,LONG,29
+2452049,11/21/2015,FBS,Utah State,Nevada,RUSHING,Devante,Mays,ATT,22
+2452050,11/21/2015,FBS,Utah State,Nevada,RUSHING,Devante,Mays,YDS,133
+2452051,11/21/2015,FBS,Utah State,Nevada,RUSHING,Devante,Mays,TD,2
+2452052,11/21/2015,FBS,Utah State,Nevada,RUSHING,Devante,Mays,LONG,35
+2452053,11/21/2015,FBS,Utah State,Nevada,RUSHING,Chuckie,Keeton,ATT,14
+2452054,11/21/2015,FBS,Utah State,Nevada,RUSHING,Chuckie,Keeton,YDS,52
+2452055,11/21/2015,FBS,Utah State,Nevada,RUSHING,Chuckie,Keeton,TD,0
+2452056,11/21/2015,FBS,Utah State,Nevada,RUSHING,Chuckie,Keeton,LONG,16
+2452057,11/21/2015,FBS,Utah State,Nevada,RUSHING,Nick,Vigil,ATT,4
+2452058,11/21/2015,FBS,Utah State,Nevada,RUSHING,Nick,Vigil,YDS,12
+2452059,11/21/2015,FBS,Utah State,Nevada,RUSHING,Nick,Vigil,TD,0
+2452060,11/21/2015,FBS,Utah State,Nevada,RUSHING,Nick,Vigil,LONG,8
+2452061,11/21/2015,FBS,Utah State,Nevada,RUSHING,Kent,Myers,ATT,1
+2452062,11/21/2015,FBS,Utah State,Nevada,RUSHING,Kent,Myers,YDS,5
+2452063,11/21/2015,FBS,Utah State,Nevada,RUSHING,Kent,Myers,TD,0
+2452064,11/21/2015,FBS,Utah State,Nevada,RUSHING,Kent,Myers,LONG,5
+2452065,11/21/2015,FBS,Utah State,Nevada,RUSHING,Tonny,Lindsey,ATT,1
+2452066,11/21/2015,FBS,Utah State,Nevada,RUSHING,Tonny,Lindsey,YDS,2
+2452067,11/21/2015,FBS,Utah State,Nevada,RUSHING,Tonny,Lindsey,TD,0
+2452068,11/21/2015,FBS,Utah State,Nevada,RUSHING,Tonny,Lindsey,LONG,2
+2452069,11/21/2015,FBS,Utah State,Nevada,PASSING,Chuckie,Keeton,CP-ATT-INT,14-27-1
+2452070,11/21/2015,FBS,Utah State,Nevada,PASSING,Chuckie,Keeton,YDS,109
+2452071,11/21/2015,FBS,Utah State,Nevada,PASSING,Chuckie,Keeton,TD,0
+2452072,11/21/2015,FBS,Utah State,Nevada,PASSING,Chuckie,Keeton,LONG,16
+2452073,11/21/2015,FBS,Utah State,Nevada,PASSING,Kent,Myers,CP-ATT-INT,0-2-1
+2452074,11/21/2015,FBS,Utah State,Nevada,PASSING,Kent,Myers,YDS,0
+2452075,11/21/2015,FBS,Utah State,Nevada,PASSING,Kent,Myers,TD,0
+2452076,11/21/2015,FBS,Utah State,Nevada,PASSING,Kent,Myers,LONG,0
+2452077,11/21/2015,FBS,Utah State,Nevada,RECEIVING,Hunter,Sharp,REC,7
+2452078,11/21/2015,FBS,Utah State,Nevada,RECEIVING,Hunter,Sharp,YDS,51
+2452079,11/21/2015,FBS,Utah State,Nevada,RECEIVING,Hunter,Sharp,TD,0
+2452080,11/21/2015,FBS,Utah State,Nevada,RECEIVING,Hunter,Sharp,LONG,11
+2452081,11/21/2015,FBS,Utah State,Nevada,RECEIVING,LaJuan,Hunt,REC,2
+2452082,11/21/2015,FBS,Utah State,Nevada,RECEIVING,LaJuan,Hunt,YDS,20
+2452083,11/21/2015,FBS,Utah State,Nevada,RECEIVING,LaJuan,Hunt,TD,0
+2452084,11/21/2015,FBS,Utah State,Nevada,RECEIVING,LaJuan,Hunt,LONG,12
+2452085,11/21/2015,FBS,Utah State,Nevada,RECEIVING,Devonte,Robinson,REC,1
+2452086,11/21/2015,FBS,Utah State,Nevada,RECEIVING,Devonte,Robinson,YDS,16
+2452087,11/21/2015,FBS,Utah State,Nevada,RECEIVING,Devonte,Robinson,TD,0
+2452088,11/21/2015,FBS,Utah State,Nevada,RECEIVING,Devonte,Robinson,LONG,16
+2452089,11/21/2015,FBS,Utah State,Nevada,RECEIVING,Kennedy,Williams,REC,1
+2452090,11/21/2015,FBS,Utah State,Nevada,RECEIVING,Kennedy,Williams,YDS,10
+2452091,11/21/2015,FBS,Utah State,Nevada,RECEIVING,Kennedy,Williams,TD,0
+2452092,11/21/2015,FBS,Utah State,Nevada,RECEIVING,Kennedy,Williams,LONG,10
+2452093,11/21/2015,FBS,Utah State,Nevada,RECEIVING,Braelon,Roberts,REC,1
+2452094,11/21/2015,FBS,Utah State,Nevada,RECEIVING,Braelon,Roberts,YDS,8
+2452095,11/21/2015,FBS,Utah State,Nevada,RECEIVING,Braelon,Roberts,TD,0
+2452096,11/21/2015,FBS,Utah State,Nevada,RECEIVING,Braelon,Roberts,LONG,8
+2452097,11/21/2015,FBS,Utah State,Nevada,RECEIVING,Wyatt,Houston,REC,1
+2452098,11/21/2015,FBS,Utah State,Nevada,RECEIVING,Wyatt,Houston,YDS,4
+2452099,11/21/2015,FBS,Utah State,Nevada,RECEIVING,Wyatt,Houston,TD,0
+2452100,11/21/2015,FBS,Utah State,Nevada,RECEIVING,Wyatt,Houston,LONG,4
+2452101,11/21/2015,FBS,Utah State,Nevada,RECEIVING,Tonny,Lindsey,REC,1
+2452102,11/21/2015,FBS,Utah State,Nevada,RECEIVING,Tonny,Lindsey,YDS,0
+2452103,11/21/2015,FBS,Utah State,Nevada,RECEIVING,Tonny,Lindsey,TD,0
+2452104,11/21/2015,FBS,Utah State,Nevada,RECEIVING,Tonny,Lindsey,LONG,0
+2452105,11/21/2015,FBS,Utah State,Nevada,KICKING,Jake,Thompson,FG-FGA,1/1
+2452106,11/21/2015,FBS,Utah State,Nevada,KICKING,Jake,Thompson,LONG,42
+2452107,11/21/2015,FBS,Utah State,Nevada,KICKING,Jake,Thompson,XP,4
+2452108,11/21/2015,FBS,Utah State,Nevada,KICKING,Jake,Thompson,PTS,7
+2452109,11/21/2015,FBS,Utah State,Nevada,KICKING,Brock,Warren,FG-FGA,0/2
+2452110,11/21/2015,FBS,Utah State,Nevada,KICKING,Brock,Warren,LONG,0
+2452111,11/21/2015,FBS,Utah State,Nevada,KICKING,Brock,Warren,XP,0
+2452112,11/21/2015,FBS,Utah State,Nevada,KICKING,Brock,Warren,PTS,0
+2452113,11/21/2015,FBS,Utah State,Nevada,PUNTING,Aaron,Dalton,NO,3
+2452114,11/21/2015,FBS,Utah State,Nevada,PUNTING,Aaron,Dalton,YDS,110
+2452115,11/21/2015,FBS,Utah State,Nevada,PUNTING,Aaron,Dalton,AVG,36.7
+2452116,11/21/2015,FBS,Utah State,Nevada,PUNTING,Aaron,Dalton,LONG,40
+2452117,11/21/2015,FBS,Utah State,Nevada,PUNT RETURNS,Andrew,Rodriguez,NO,2
+2452118,11/21/2015,FBS,Utah State,Nevada,PUNT RETURNS,Andrew,Rodriguez,YDS,21
+2452119,11/21/2015,FBS,Utah State,Nevada,PUNT RETURNS,Andrew,Rodriguez,AVG,10.5
+2452120,11/21/2015,FBS,Utah State,Nevada,PUNT RETURNS,Andrew,Rodriguez,LONG,18
+2452121,11/21/2015,FBS,Utah State,Nevada,PUNT RETURNS,Hunter,Sharp,NO,1
+2452122,11/21/2015,FBS,Utah State,Nevada,PUNT RETURNS,Hunter,Sharp,YDS,13
+2452123,11/21/2015,FBS,Utah State,Nevada,PUNT RETURNS,Hunter,Sharp,AVG,13.0
+2452124,11/21/2015,FBS,Utah State,Nevada,PUNT RETURNS,Hunter,Sharp,LONG,13
+2452125,11/21/2015,FBS,Utah State,Nevada,KICK RETURNS,Kennedy,Williams,NO,2
+2452126,11/21/2015,FBS,Utah State,Nevada,KICK RETURNS,Kennedy,Williams,YDS,98
+2452127,11/21/2015,FBS,Utah State,Nevada,KICK RETURNS,Kennedy,Williams,AVG,49.0
+2452128,11/21/2015,FBS,Utah State,Nevada,KICK RETURNS,Kennedy,Williams,LONG,65
+2452129,11/21/2015,FBS,Utah State,Nevada,KICK RETURNS,Hunter,Sharp,NO,1
+2452130,11/21/2015,FBS,Utah State,Nevada,KICK RETURNS,Hunter,Sharp,YDS,96
+2452131,11/21/2015,FBS,Utah State,Nevada,KICK RETURNS,Hunter,Sharp,AVG,96.0
+2452132,11/21/2015,FBS,Utah State,Nevada,KICK RETURNS,Hunter,Sharp,LONG,96
+2452133,11/21/2015,FBS,Utah State,Nevada,KICK RETURNS,Wyatt,Houston,NO,1
+2452134,11/21/2015,FBS,Utah State,Nevada,KICK RETURNS,Wyatt,Houston,YDS,28
+2452135,11/21/2015,FBS,Utah State,Nevada,KICK RETURNS,Wyatt,Houston,AVG,28.0
+2452136,11/21/2015,FBS,Utah State,Nevada,KICK RETURNS,Wyatt,Houston,LONG,28

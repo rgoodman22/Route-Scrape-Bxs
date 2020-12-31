@@ -1,0 +1,161 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+4200001,11/11/2017,FBS,Purdue,Northwestern,RUSHING,D.J.,Knox,ATT,6
+4200002,11/11/2017,FBS,Purdue,Northwestern,RUSHING,D.J.,Knox,YDS,22
+4200003,11/11/2017,FBS,Purdue,Northwestern,RUSHING,D.J.,Knox,TD,0
+4200004,11/11/2017,FBS,Purdue,Northwestern,RUSHING,D.J.,Knox,LONG,16
+4200005,11/11/2017,FBS,Purdue,Northwestern,RUSHING,Terry,Wright,ATT,1
+4200006,11/11/2017,FBS,Purdue,Northwestern,RUSHING,Terry,Wright,YDS,11
+4200007,11/11/2017,FBS,Purdue,Northwestern,RUSHING,Terry,Wright,TD,0
+4200008,11/11/2017,FBS,Purdue,Northwestern,RUSHING,Terry,Wright,LONG,11
+4200009,11/11/2017,FBS,Purdue,Northwestern,RUSHING,Richie,Worship,ATT,4
+4200010,11/11/2017,FBS,Purdue,Northwestern,RUSHING,Richie,Worship,YDS,11
+4200011,11/11/2017,FBS,Purdue,Northwestern,RUSHING,Richie,Worship,TD,0
+4200012,11/11/2017,FBS,Purdue,Northwestern,RUSHING,Richie,Worship,LONG,5
+4200013,11/11/2017,FBS,Purdue,Northwestern,RUSHING,Jared,Sparks,ATT,2
+4200014,11/11/2017,FBS,Purdue,Northwestern,RUSHING,Jared,Sparks,YDS,5
+4200015,11/11/2017,FBS,Purdue,Northwestern,RUSHING,Jared,Sparks,TD,0
+4200016,11/11/2017,FBS,Purdue,Northwestern,RUSHING,Jared,Sparks,LONG,3
+4200017,11/11/2017,FBS,Purdue,Northwestern,RUSHING,Markell,Jones,ATT,4
+4200018,11/11/2017,FBS,Purdue,Northwestern,RUSHING,Markell,Jones,YDS,3
+4200019,11/11/2017,FBS,Purdue,Northwestern,RUSHING,Markell,Jones,TD,0
+4200020,11/11/2017,FBS,Purdue,Northwestern,RUSHING,Markell,Jones,LONG,1
+4200021,11/11/2017,FBS,Purdue,Northwestern,RUSHING,Elijah,Sindelar,ATT,5
+4200022,11/11/2017,FBS,Purdue,Northwestern,RUSHING,Elijah,Sindelar,YDS,-12
+4200023,11/11/2017,FBS,Purdue,Northwestern,RUSHING,Elijah,Sindelar,TD,0
+4200024,11/11/2017,FBS,Purdue,Northwestern,RUSHING,Elijah,Sindelar,LONG,4
+4200025,11/11/2017,FBS,Purdue,Northwestern,PASSING,Elijah,Sindelar,CP-ATT-INT,37-60-1
+4200026,11/11/2017,FBS,Purdue,Northwestern,PASSING,Elijah,Sindelar,YDS,376
+4200027,11/11/2017,FBS,Purdue,Northwestern,PASSING,Elijah,Sindelar,TD,2
+4200028,11/11/2017,FBS,Purdue,Northwestern,PASSING,Elijah,Sindelar,LONG,34
+4200029,11/11/2017,FBS,Purdue,Northwestern,PASSING,Joe,Schopper,CP-ATT-INT,1-1-0
+4200030,11/11/2017,FBS,Purdue,Northwestern,PASSING,Joe,Schopper,YDS,22
+4200031,11/11/2017,FBS,Purdue,Northwestern,PASSING,Joe,Schopper,TD,0
+4200032,11/11/2017,FBS,Purdue,Northwestern,PASSING,Joe,Schopper,LONG,22
+4200033,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Jared,Sparks,REC,11
+4200034,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Jared,Sparks,YDS,130
+4200035,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Jared,Sparks,TD,0
+4200036,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Jared,Sparks,LONG,34
+4200037,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Jarrett,Burgess,REC,5
+4200038,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Jarrett,Burgess,YDS,65
+4200039,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Jarrett,Burgess,TD,1
+4200040,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Jarrett,Burgess,LONG,21
+4200041,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Terry,Wright,REC,6
+4200042,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Terry,Wright,YDS,60
+4200043,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Terry,Wright,TD,0
+4200044,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Terry,Wright,LONG,17
+4200045,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Gregory,Phillips,REC,4
+4200046,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Gregory,Phillips,YDS,49
+4200047,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Gregory,Phillips,TD,0
+4200048,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Gregory,Phillips,LONG,19
+4200049,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Anthony,Mahoungou,REC,3
+4200050,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Anthony,Mahoungou,YDS,25
+4200051,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Anthony,Mahoungou,TD,1
+4200052,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Anthony,Mahoungou,LONG,12
+4200053,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Cole,Herdman,REC,3
+4200054,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Cole,Herdman,YDS,25
+4200055,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Cole,Herdman,TD,0
+4200056,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Cole,Herdman,LONG,11
+4200057,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Ben,Makowski,REC,1
+4200058,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Ben,Makowski,YDS,22
+4200059,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Ben,Makowski,TD,0
+4200060,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Ben,Makowski,LONG,22
+4200061,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Jackson,Anthrop,REC,2
+4200062,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Jackson,Anthrop,YDS,8
+4200063,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Jackson,Anthrop,TD,0
+4200064,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Jackson,Anthrop,LONG,6
+4200065,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,D.J.,Knox,REC,1
+4200066,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,D.J.,Knox,YDS,7
+4200067,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,D.J.,Knox,TD,0
+4200068,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,D.J.,Knox,LONG,7
+4200069,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Richie,Worship,REC,1
+4200070,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Richie,Worship,YDS,4
+4200071,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Richie,Worship,TD,0
+4200072,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Richie,Worship,LONG,4
+4200073,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Brycen,Hopkins,REC,1
+4200074,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Brycen,Hopkins,YDS,3
+4200075,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Brycen,Hopkins,TD,0
+4200076,11/11/2017,FBS,Purdue,Northwestern,RECEIVING,Brycen,Hopkins,LONG,3
+4200077,11/11/2017,FBS,Purdue,Northwestern,KICKING,Spencer,Evans,FG-FGA,0/1
+4200078,11/11/2017,FBS,Purdue,Northwestern,KICKING,Spencer,Evans,LONG,0
+4200079,11/11/2017,FBS,Purdue,Northwestern,KICKING,Spencer,Evans,XP,1
+4200080,11/11/2017,FBS,Purdue,Northwestern,KICKING,Spencer,Evans,PTS,1
+4200081,11/11/2017,FBS,Purdue,Northwestern,PUNTING,Joe,Schopper,NO,6
+4200082,11/11/2017,FBS,Purdue,Northwestern,PUNTING,Joe,Schopper,YDS,236
+4200083,11/11/2017,FBS,Purdue,Northwestern,PUNTING,Joe,Schopper,AVG,39.3
+4200084,11/11/2017,FBS,Purdue,Northwestern,PUNTING,Joe,Schopper,LONG,50
+4200085,11/11/2017,FBS,Purdue,Northwestern,PUNT RETURNS,Jackson,Anthrop,NO,0
+4200086,11/11/2017,FBS,Purdue,Northwestern,PUNT RETURNS,Jackson,Anthrop,YDS,0
+4200087,11/11/2017,FBS,Purdue,Northwestern,PUNT RETURNS,Jackson,Anthrop,AVG,-
+4200088,11/11/2017,FBS,Purdue,Northwestern,PUNT RETURNS,Jackson,Anthrop,LONG,0
+4200089,11/11/2017,FBS,Purdue,Northwestern,KICK RETURNS,D.J.,Knox,NO,4
+4200090,11/11/2017,FBS,Purdue,Northwestern,KICK RETURNS,D.J.,Knox,YDS,57
+4200091,11/11/2017,FBS,Purdue,Northwestern,KICK RETURNS,D.J.,Knox,AVG,14.2
+4200092,11/11/2017,FBS,Purdue,Northwestern,KICK RETURNS,D.J.,Knox,LONG,24
+4200093,11/11/2017,FBS,Purdue,Northwestern,KICK RETURNS,Garrett,Hudson,NO,1
+4200094,11/11/2017,FBS,Purdue,Northwestern,KICK RETURNS,Garrett,Hudson,YDS,4
+4200095,11/11/2017,FBS,Purdue,Northwestern,KICK RETURNS,Garrett,Hudson,AVG,4.0
+4200096,11/11/2017,FBS,Purdue,Northwestern,KICK RETURNS,Garrett,Hudson,LONG,4
+4200097,11/11/2017,FBS,Northwestern,Purdue,RUSHING,Justin,Jackson,ATT,25
+4200098,11/11/2017,FBS,Northwestern,Purdue,RUSHING,Justin,Jackson,YDS,46
+4200099,11/11/2017,FBS,Northwestern,Purdue,RUSHING,Justin,Jackson,TD,0
+4200100,11/11/2017,FBS,Northwestern,Purdue,RUSHING,Justin,Jackson,LONG,9
+4200101,11/11/2017,FBS,Northwestern,Purdue,RUSHING,Jeremy,Larkin,ATT,6
+4200102,11/11/2017,FBS,Northwestern,Purdue,RUSHING,Jeremy,Larkin,YDS,41
+4200103,11/11/2017,FBS,Northwestern,Purdue,RUSHING,Jeremy,Larkin,TD,0
+4200104,11/11/2017,FBS,Northwestern,Purdue,RUSHING,Jeremy,Larkin,LONG,19
+4200105,11/11/2017,FBS,Northwestern,Purdue,RUSHING,Clayton,Thorson,ATT,5
+4200106,11/11/2017,FBS,Northwestern,Purdue,RUSHING,Clayton,Thorson,YDS,9
+4200107,11/11/2017,FBS,Northwestern,Purdue,RUSHING,Clayton,Thorson,TD,1
+4200108,11/11/2017,FBS,Northwestern,Purdue,RUSHING,Clayton,Thorson,LONG,5
+4200109,11/11/2017,FBS,Northwestern,Purdue,RUSHING,,Team,ATT,2
+4200110,11/11/2017,FBS,Northwestern,Purdue,RUSHING,,Team,YDS,-2
+4200111,11/11/2017,FBS,Northwestern,Purdue,RUSHING,,Team,TD,0
+4200112,11/11/2017,FBS,Northwestern,Purdue,RUSHING,,Team,LONG,-1
+4200113,11/11/2017,FBS,Northwestern,Purdue,PASSING,Clayton,Thorson,CP-ATT-INT,26-46-0
+4200114,11/11/2017,FBS,Northwestern,Purdue,PASSING,Clayton,Thorson,YDS,296
+4200115,11/11/2017,FBS,Northwestern,Purdue,PASSING,Clayton,Thorson,TD,1
+4200116,11/11/2017,FBS,Northwestern,Purdue,PASSING,Clayton,Thorson,LONG,27
+4200117,11/11/2017,FBS,Northwestern,Purdue,RECEIVING,Bennett,Skowronek,REC,7
+4200118,11/11/2017,FBS,Northwestern,Purdue,RECEIVING,Bennett,Skowronek,YDS,117
+4200119,11/11/2017,FBS,Northwestern,Purdue,RECEIVING,Bennett,Skowronek,TD,1
+4200120,11/11/2017,FBS,Northwestern,Purdue,RECEIVING,Bennett,Skowronek,LONG,27
+4200121,11/11/2017,FBS,Northwestern,Purdue,RECEIVING,Flynn,Nagel,REC,6
+4200122,11/11/2017,FBS,Northwestern,Purdue,RECEIVING,Flynn,Nagel,YDS,78
+4200123,11/11/2017,FBS,Northwestern,Purdue,RECEIVING,Flynn,Nagel,TD,0
+4200124,11/11/2017,FBS,Northwestern,Purdue,RECEIVING,Flynn,Nagel,LONG,24
+4200125,11/11/2017,FBS,Northwestern,Purdue,RECEIVING,Macan,Wilson,REC,4
+4200126,11/11/2017,FBS,Northwestern,Purdue,RECEIVING,Macan,Wilson,YDS,51
+4200127,11/11/2017,FBS,Northwestern,Purdue,RECEIVING,Macan,Wilson,TD,0
+4200128,11/11/2017,FBS,Northwestern,Purdue,RECEIVING,Macan,Wilson,LONG,20
+4200129,11/11/2017,FBS,Northwestern,Purdue,RECEIVING,Garrett,Dickerson,REC,3
+4200130,11/11/2017,FBS,Northwestern,Purdue,RECEIVING,Garrett,Dickerson,YDS,30
+4200131,11/11/2017,FBS,Northwestern,Purdue,RECEIVING,Garrett,Dickerson,TD,0
+4200132,11/11/2017,FBS,Northwestern,Purdue,RECEIVING,Garrett,Dickerson,LONG,18
+4200133,11/11/2017,FBS,Northwestern,Purdue,RECEIVING,Cameron,Green,REC,2
+4200134,11/11/2017,FBS,Northwestern,Purdue,RECEIVING,Cameron,Green,YDS,8
+4200135,11/11/2017,FBS,Northwestern,Purdue,RECEIVING,Cameron,Green,TD,0
+4200136,11/11/2017,FBS,Northwestern,Purdue,RECEIVING,Cameron,Green,LONG,4
+4200137,11/11/2017,FBS,Northwestern,Purdue,RECEIVING,Jeremy,Larkin,REC,1
+4200138,11/11/2017,FBS,Northwestern,Purdue,RECEIVING,Jeremy,Larkin,YDS,7
+4200139,11/11/2017,FBS,Northwestern,Purdue,RECEIVING,Jeremy,Larkin,TD,0
+4200140,11/11/2017,FBS,Northwestern,Purdue,RECEIVING,Jeremy,Larkin,LONG,7
+4200141,11/11/2017,FBS,Northwestern,Purdue,RECEIVING,Justin,Jackson,REC,3
+4200142,11/11/2017,FBS,Northwestern,Purdue,RECEIVING,Justin,Jackson,YDS,5
+4200143,11/11/2017,FBS,Northwestern,Purdue,RECEIVING,Justin,Jackson,TD,0
+4200144,11/11/2017,FBS,Northwestern,Purdue,RECEIVING,Justin,Jackson,LONG,5
+4200145,11/11/2017,FBS,Northwestern,Purdue,KICKING,Charlie,Kuhbander,FG-FGA,3/3
+4200146,11/11/2017,FBS,Northwestern,Purdue,KICKING,Charlie,Kuhbander,LONG,36
+4200147,11/11/2017,FBS,Northwestern,Purdue,KICKING,Charlie,Kuhbander,XP,2
+4200148,11/11/2017,FBS,Northwestern,Purdue,KICKING,Charlie,Kuhbander,PTS,11
+4200149,11/11/2017,FBS,Northwestern,Purdue,PUNTING,Hunter,Niswander,NO,6
+4200150,11/11/2017,FBS,Northwestern,Purdue,PUNTING,Hunter,Niswander,YDS,225
+4200151,11/11/2017,FBS,Northwestern,Purdue,PUNTING,Hunter,Niswander,AVG,37.5
+4200152,11/11/2017,FBS,Northwestern,Purdue,PUNTING,Hunter,Niswander,LONG,51
+4200153,11/11/2017,FBS,Northwestern,Purdue,PUNT RETURNS,Riley,Lees,NO,1
+4200154,11/11/2017,FBS,Northwestern,Purdue,PUNT RETURNS,Riley,Lees,YDS,39
+4200155,11/11/2017,FBS,Northwestern,Purdue,PUNT RETURNS,Riley,Lees,AVG,39.0
+4200156,11/11/2017,FBS,Northwestern,Purdue,PUNT RETURNS,Riley,Lees,LONG,39
+4200157,11/11/2017,FBS,Northwestern,Purdue,KICK RETURNS,Riley,Lees,NO,1
+4200158,11/11/2017,FBS,Northwestern,Purdue,KICK RETURNS,Riley,Lees,YDS,20
+4200159,11/11/2017,FBS,Northwestern,Purdue,KICK RETURNS,Riley,Lees,AVG,20.0
+4200160,11/11/2017,FBS,Northwestern,Purdue,KICK RETURNS,Riley,Lees,LONG,20

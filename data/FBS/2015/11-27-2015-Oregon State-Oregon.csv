@@ -1,0 +1,157 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2521001,11/27/2015,FBS,Oregon State,Oregon,RUSHING,Ryan,Nall,ATT,19
+2521002,11/27/2015,FBS,Oregon State,Oregon,RUSHING,Ryan,Nall,YDS,174
+2521003,11/27/2015,FBS,Oregon State,Oregon,RUSHING,Ryan,Nall,TD,1
+2521004,11/27/2015,FBS,Oregon State,Oregon,RUSHING,Ryan,Nall,LONG,66
+2521005,11/27/2015,FBS,Oregon State,Oregon,RUSHING,Seth,Collins,ATT,9
+2521006,11/27/2015,FBS,Oregon State,Oregon,RUSHING,Seth,Collins,YDS,39
+2521007,11/27/2015,FBS,Oregon State,Oregon,RUSHING,Seth,Collins,TD,3
+2521008,11/27/2015,FBS,Oregon State,Oregon,RUSHING,Seth,Collins,LONG,9
+2521009,11/27/2015,FBS,Oregon State,Oregon,RUSHING,Victor,Bolden,ATT,2
+2521010,11/27/2015,FBS,Oregon State,Oregon,RUSHING,Victor,Bolden,YDS,11
+2521011,11/27/2015,FBS,Oregon State,Oregon,RUSHING,Victor,Bolden,TD,0
+2521012,11/27/2015,FBS,Oregon State,Oregon,RUSHING,Victor,Bolden,LONG,9
+2521013,11/27/2015,FBS,Oregon State,Oregon,RUSHING,Marcus,McMaryion,ATT,6
+2521014,11/27/2015,FBS,Oregon State,Oregon,RUSHING,Marcus,McMaryion,YDS,5
+2521015,11/27/2015,FBS,Oregon State,Oregon,RUSHING,Marcus,McMaryion,TD,1
+2521016,11/27/2015,FBS,Oregon State,Oregon,RUSHING,Marcus,McMaryion,LONG,6
+2521017,11/27/2015,FBS,Oregon State,Oregon,RUSHING,Damien,Haskins,ATT,1
+2521018,11/27/2015,FBS,Oregon State,Oregon,RUSHING,Damien,Haskins,YDS,0
+2521019,11/27/2015,FBS,Oregon State,Oregon,RUSHING,Damien,Haskins,TD,0
+2521020,11/27/2015,FBS,Oregon State,Oregon,RUSHING,Damien,Haskins,LONG,0
+2521021,11/27/2015,FBS,Oregon State,Oregon,RUSHING,,Team,ATT,1
+2521022,11/27/2015,FBS,Oregon State,Oregon,RUSHING,,Team,YDS,-1
+2521023,11/27/2015,FBS,Oregon State,Oregon,RUSHING,,Team,TD,0
+2521024,11/27/2015,FBS,Oregon State,Oregon,RUSHING,,Team,LONG,-1
+2521025,11/27/2015,FBS,Oregon State,Oregon,PASSING,Marcus,McMaryion,CP-ATT-INT,11-21-1
+2521026,11/27/2015,FBS,Oregon State,Oregon,PASSING,Marcus,McMaryion,YDS,154
+2521027,11/27/2015,FBS,Oregon State,Oregon,PASSING,Marcus,McMaryion,TD,0
+2521028,11/27/2015,FBS,Oregon State,Oregon,PASSING,Marcus,McMaryion,LONG,33
+2521029,11/27/2015,FBS,Oregon State,Oregon,PASSING,Seth,Collins,CP-ATT-INT,2-4-0
+2521030,11/27/2015,FBS,Oregon State,Oregon,PASSING,Seth,Collins,YDS,45
+2521031,11/27/2015,FBS,Oregon State,Oregon,PASSING,Seth,Collins,TD,0
+2521032,11/27/2015,FBS,Oregon State,Oregon,PASSING,Seth,Collins,LONG,24
+2521033,11/27/2015,FBS,Oregon State,Oregon,RECEIVING,Jordan,Villamin,REC,4
+2521034,11/27/2015,FBS,Oregon State,Oregon,RECEIVING,Jordan,Villamin,YDS,72
+2521035,11/27/2015,FBS,Oregon State,Oregon,RECEIVING,Jordan,Villamin,TD,0
+2521036,11/27/2015,FBS,Oregon State,Oregon,RECEIVING,Jordan,Villamin,LONG,33
+2521037,11/27/2015,FBS,Oregon State,Oregon,RECEIVING,Ryan,Nall,REC,4
+2521038,11/27/2015,FBS,Oregon State,Oregon,RECEIVING,Ryan,Nall,YDS,54
+2521039,11/27/2015,FBS,Oregon State,Oregon,RECEIVING,Ryan,Nall,TD,0
+2521040,11/27/2015,FBS,Oregon State,Oregon,RECEIVING,Ryan,Nall,LONG,24
+2521041,11/27/2015,FBS,Oregon State,Oregon,RECEIVING,Victor,Bolden,REC,3
+2521042,11/27/2015,FBS,Oregon State,Oregon,RECEIVING,Victor,Bolden,YDS,43
+2521043,11/27/2015,FBS,Oregon State,Oregon,RECEIVING,Victor,Bolden,TD,0
+2521044,11/27/2015,FBS,Oregon State,Oregon,RECEIVING,Victor,Bolden,LONG,21
+2521045,11/27/2015,FBS,Oregon State,Oregon,RECEIVING,Noah,Togiai,REC,2
+2521046,11/27/2015,FBS,Oregon State,Oregon,RECEIVING,Noah,Togiai,YDS,30
+2521047,11/27/2015,FBS,Oregon State,Oregon,RECEIVING,Noah,Togiai,TD,0
+2521048,11/27/2015,FBS,Oregon State,Oregon,RECEIVING,Noah,Togiai,LONG,26
+2521049,11/27/2015,FBS,Oregon State,Oregon,KICKING,Garrett,Owens,FG-FGA,0/0
+2521050,11/27/2015,FBS,Oregon State,Oregon,KICKING,Garrett,Owens,LONG,-
+2521051,11/27/2015,FBS,Oregon State,Oregon,KICKING,Garrett,Owens,XP,6
+2521052,11/27/2015,FBS,Oregon State,Oregon,KICKING,Garrett,Owens,PTS,6
+2521053,11/27/2015,FBS,Oregon State,Oregon,PUNTING,Nick,Porebski,NO,4
+2521054,11/27/2015,FBS,Oregon State,Oregon,PUNTING,Nick,Porebski,YDS,165
+2521055,11/27/2015,FBS,Oregon State,Oregon,PUNTING,Nick,Porebski,AVG,41.2
+2521056,11/27/2015,FBS,Oregon State,Oregon,PUNTING,Nick,Porebski,LONG,49
+2521057,11/27/2015,FBS,Oregon State,Oregon,PUNT RETURNS,Victor,Bolden,NO,1
+2521058,11/27/2015,FBS,Oregon State,Oregon,PUNT RETURNS,Victor,Bolden,YDS,78
+2521059,11/27/2015,FBS,Oregon State,Oregon,PUNT RETURNS,Victor,Bolden,AVG,78.0
+2521060,11/27/2015,FBS,Oregon State,Oregon,PUNT RETURNS,Victor,Bolden,LONG,78
+2521061,11/27/2015,FBS,Oregon State,Oregon,KICK RETURNS,Victor,Bolden,NO,5
+2521062,11/27/2015,FBS,Oregon State,Oregon,KICK RETURNS,Victor,Bolden,YDS,104
+2521063,11/27/2015,FBS,Oregon State,Oregon,KICK RETURNS,Victor,Bolden,AVG,20.8
+2521064,11/27/2015,FBS,Oregon State,Oregon,KICK RETURNS,Victor,Bolden,LONG,26
+2521065,11/27/2015,FBS,Oregon,Oregon State,RUSHING,Royce,Freeman,ATT,27
+2521066,11/27/2015,FBS,Oregon,Oregon State,RUSHING,Royce,Freeman,YDS,167
+2521067,11/27/2015,FBS,Oregon,Oregon State,RUSHING,Royce,Freeman,TD,2
+2521068,11/27/2015,FBS,Oregon,Oregon State,RUSHING,Royce,Freeman,LONG,27
+2521069,11/27/2015,FBS,Oregon,Oregon State,RUSHING,Taj,Griffin,ATT,9
+2521070,11/27/2015,FBS,Oregon,Oregon State,RUSHING,Taj,Griffin,YDS,65
+2521071,11/27/2015,FBS,Oregon,Oregon State,RUSHING,Taj,Griffin,TD,1
+2521072,11/27/2015,FBS,Oregon,Oregon State,RUSHING,Taj,Griffin,LONG,18
+2521073,11/27/2015,FBS,Oregon,Oregon State,RUSHING,Vernon,AdamsJr.,ATT,9
+2521074,11/27/2015,FBS,Oregon,Oregon State,RUSHING,Vernon,AdamsJr.,YDS,32
+2521075,11/27/2015,FBS,Oregon,Oregon State,RUSHING,Vernon,AdamsJr.,TD,0
+2521076,11/27/2015,FBS,Oregon,Oregon State,RUSHING,Vernon,AdamsJr.,LONG,14
+2521077,11/27/2015,FBS,Oregon,Oregon State,RUSHING,Bralon,Addison,ATT,2
+2521078,11/27/2015,FBS,Oregon,Oregon State,RUSHING,Bralon,Addison,YDS,24
+2521079,11/27/2015,FBS,Oregon,Oregon State,RUSHING,Bralon,Addison,TD,1
+2521080,11/27/2015,FBS,Oregon,Oregon State,RUSHING,Bralon,Addison,LONG,13
+2521081,11/27/2015,FBS,Oregon,Oregon State,RUSHING,Charles,Nelson,ATT,1
+2521082,11/27/2015,FBS,Oregon,Oregon State,RUSHING,Charles,Nelson,YDS,17
+2521083,11/27/2015,FBS,Oregon,Oregon State,RUSHING,Charles,Nelson,TD,0
+2521084,11/27/2015,FBS,Oregon,Oregon State,RUSHING,Charles,Nelson,LONG,17
+2521085,11/27/2015,FBS,Oregon,Oregon State,RUSHING,Kirk,Merritt,ATT,1
+2521086,11/27/2015,FBS,Oregon,Oregon State,RUSHING,Kirk,Merritt,YDS,10
+2521087,11/27/2015,FBS,Oregon,Oregon State,RUSHING,Kirk,Merritt,TD,0
+2521088,11/27/2015,FBS,Oregon,Oregon State,RUSHING,Kirk,Merritt,LONG,10
+2521089,11/27/2015,FBS,Oregon,Oregon State,RUSHING,,Team,ATT,1
+2521090,11/27/2015,FBS,Oregon,Oregon State,RUSHING,,Team,YDS,-1
+2521091,11/27/2015,FBS,Oregon,Oregon State,RUSHING,,Team,TD,0
+2521092,11/27/2015,FBS,Oregon,Oregon State,RUSHING,,Team,LONG,-1
+2521093,11/27/2015,FBS,Oregon,Oregon State,RUSHING,Tyler,Johnstone,ATT,1
+2521094,11/27/2015,FBS,Oregon,Oregon State,RUSHING,Tyler,Johnstone,YDS,-6
+2521095,11/27/2015,FBS,Oregon,Oregon State,RUSHING,Tyler,Johnstone,TD,0
+2521096,11/27/2015,FBS,Oregon,Oregon State,RUSHING,Tyler,Johnstone,LONG,-6
+2521097,11/27/2015,FBS,Oregon,Oregon State,PASSING,Vernon,AdamsJr.,CP-ATT-INT,28-38-0
+2521098,11/27/2015,FBS,Oregon,Oregon State,PASSING,Vernon,AdamsJr.,YDS,366
+2521099,11/27/2015,FBS,Oregon,Oregon State,PASSING,Vernon,AdamsJr.,TD,3
+2521100,11/27/2015,FBS,Oregon,Oregon State,PASSING,Vernon,AdamsJr.,LONG,37
+2521101,11/27/2015,FBS,Oregon,Oregon State,RECEIVING,Bralon,Addison,REC,8
+2521102,11/27/2015,FBS,Oregon,Oregon State,RECEIVING,Bralon,Addison,YDS,106
+2521103,11/27/2015,FBS,Oregon,Oregon State,RECEIVING,Bralon,Addison,TD,3
+2521104,11/27/2015,FBS,Oregon,Oregon State,RECEIVING,Bralon,Addison,LONG,37
+2521105,11/27/2015,FBS,Oregon,Oregon State,RECEIVING,Dwayne,Stanford,REC,5
+2521106,11/27/2015,FBS,Oregon,Oregon State,RECEIVING,Dwayne,Stanford,YDS,77
+2521107,11/27/2015,FBS,Oregon,Oregon State,RECEIVING,Dwayne,Stanford,TD,0
+2521108,11/27/2015,FBS,Oregon,Oregon State,RECEIVING,Dwayne,Stanford,LONG,24
+2521109,11/27/2015,FBS,Oregon,Oregon State,RECEIVING,Royce,Freeman,REC,3
+2521110,11/27/2015,FBS,Oregon,Oregon State,RECEIVING,Royce,Freeman,YDS,51
+2521111,11/27/2015,FBS,Oregon,Oregon State,RECEIVING,Royce,Freeman,TD,0
+2521112,11/27/2015,FBS,Oregon,Oregon State,RECEIVING,Royce,Freeman,LONG,32
+2521113,11/27/2015,FBS,Oregon,Oregon State,RECEIVING,Kirk,Merritt,REC,2
+2521114,11/27/2015,FBS,Oregon,Oregon State,RECEIVING,Kirk,Merritt,YDS,38
+2521115,11/27/2015,FBS,Oregon,Oregon State,RECEIVING,Kirk,Merritt,TD,0
+2521116,11/27/2015,FBS,Oregon,Oregon State,RECEIVING,Kirk,Merritt,LONG,28
+2521117,11/27/2015,FBS,Oregon,Oregon State,RECEIVING,Darren,Carrington,REC,5
+2521118,11/27/2015,FBS,Oregon,Oregon State,RECEIVING,Darren,Carrington,YDS,38
+2521119,11/27/2015,FBS,Oregon,Oregon State,RECEIVING,Darren,Carrington,TD,0
+2521120,11/27/2015,FBS,Oregon,Oregon State,RECEIVING,Darren,Carrington,LONG,18
+2521121,11/27/2015,FBS,Oregon,Oregon State,RECEIVING,Taj,Griffin,REC,2
+2521122,11/27/2015,FBS,Oregon,Oregon State,RECEIVING,Taj,Griffin,YDS,21
+2521123,11/27/2015,FBS,Oregon,Oregon State,RECEIVING,Taj,Griffin,TD,0
+2521124,11/27/2015,FBS,Oregon,Oregon State,RECEIVING,Taj,Griffin,LONG,14
+2521125,11/27/2015,FBS,Oregon,Oregon State,RECEIVING,Charles,Nelson,REC,1
+2521126,11/27/2015,FBS,Oregon,Oregon State,RECEIVING,Charles,Nelson,YDS,15
+2521127,11/27/2015,FBS,Oregon,Oregon State,RECEIVING,Charles,Nelson,TD,0
+2521128,11/27/2015,FBS,Oregon,Oregon State,RECEIVING,Charles,Nelson,LONG,15
+2521129,11/27/2015,FBS,Oregon,Oregon State,RECEIVING,Evan,Baylis,REC,1
+2521130,11/27/2015,FBS,Oregon,Oregon State,RECEIVING,Evan,Baylis,YDS,12
+2521131,11/27/2015,FBS,Oregon,Oregon State,RECEIVING,Evan,Baylis,TD,0
+2521132,11/27/2015,FBS,Oregon,Oregon State,RECEIVING,Evan,Baylis,LONG,12
+2521133,11/27/2015,FBS,Oregon,Oregon State,RECEIVING,Jalen,Brown,REC,1
+2521134,11/27/2015,FBS,Oregon,Oregon State,RECEIVING,Jalen,Brown,YDS,8
+2521135,11/27/2015,FBS,Oregon,Oregon State,RECEIVING,Jalen,Brown,TD,0
+2521136,11/27/2015,FBS,Oregon,Oregon State,RECEIVING,Jalen,Brown,LONG,8
+2521137,11/27/2015,FBS,Oregon,Oregon State,KICKING,Aidan,Schneider,FG-FGA,1/2
+2521138,11/27/2015,FBS,Oregon,Oregon State,KICKING,Aidan,Schneider,LONG,25
+2521139,11/27/2015,FBS,Oregon,Oregon State,KICKING,Aidan,Schneider,XP,7
+2521140,11/27/2015,FBS,Oregon,Oregon State,KICKING,Aidan,Schneider,PTS,10
+2521141,11/27/2015,FBS,Oregon,Oregon State,PUNTING,Matt,Wogan,NO,1
+2521142,11/27/2015,FBS,Oregon,Oregon State,PUNTING,Matt,Wogan,YDS,38
+2521143,11/27/2015,FBS,Oregon,Oregon State,PUNTING,Matt,Wogan,AVG,38.0
+2521144,11/27/2015,FBS,Oregon,Oregon State,PUNTING,Matt,Wogan,LONG,38
+2521145,11/27/2015,FBS,Oregon,Oregon State,PUNT RETURNS,Bralon,Addison,NO,1
+2521146,11/27/2015,FBS,Oregon,Oregon State,PUNT RETURNS,Bralon,Addison,YDS,8
+2521147,11/27/2015,FBS,Oregon,Oregon State,PUNT RETURNS,Bralon,Addison,AVG,8.0
+2521148,11/27/2015,FBS,Oregon,Oregon State,PUNT RETURNS,Bralon,Addison,LONG,8
+2521149,11/27/2015,FBS,Oregon,Oregon State,KICK RETURNS,Charles,Nelson,NO,4
+2521150,11/27/2015,FBS,Oregon,Oregon State,KICK RETURNS,Charles,Nelson,YDS,99
+2521151,11/27/2015,FBS,Oregon,Oregon State,KICK RETURNS,Charles,Nelson,AVG,24.8
+2521152,11/27/2015,FBS,Oregon,Oregon State,KICK RETURNS,Charles,Nelson,LONG,41
+2521153,11/27/2015,FBS,Oregon,Oregon State,KICK RETURNS,Evan,Baylis,NO,0
+2521154,11/27/2015,FBS,Oregon,Oregon State,KICK RETURNS,Evan,Baylis,YDS,0
+2521155,11/27/2015,FBS,Oregon,Oregon State,KICK RETURNS,Evan,Baylis,AVG,-
+2521156,11/27/2015,FBS,Oregon,Oregon State,KICK RETURNS,Evan,Baylis,LONG,0

@@ -1,0 +1,153 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2811001,9/17/2016,FBS,Buffalo,Nevada,RUSHING,Tyree,Jackson,ATT,8
+2811002,9/17/2016,FBS,Buffalo,Nevada,RUSHING,Tyree,Jackson,YDS,87
+2811003,9/17/2016,FBS,Buffalo,Nevada,RUSHING,Tyree,Jackson,TD,0
+2811004,9/17/2016,FBS,Buffalo,Nevada,RUSHING,Tyree,Jackson,LONG,22
+2811005,9/17/2016,FBS,Buffalo,Nevada,RUSHING,Jordan,Johnson,ATT,17
+2811006,9/17/2016,FBS,Buffalo,Nevada,RUSHING,Jordan,Johnson,YDS,87
+2811007,9/17/2016,FBS,Buffalo,Nevada,RUSHING,Jordan,Johnson,TD,1
+2811008,9/17/2016,FBS,Buffalo,Nevada,RUSHING,Jordan,Johnson,LONG,28
+2811009,9/17/2016,FBS,Buffalo,Nevada,RUSHING,Johnathan,Hawkins,ATT,9
+2811010,9/17/2016,FBS,Buffalo,Nevada,RUSHING,Johnathan,Hawkins,YDS,53
+2811011,9/17/2016,FBS,Buffalo,Nevada,RUSHING,Johnathan,Hawkins,TD,0
+2811012,9/17/2016,FBS,Buffalo,Nevada,RUSHING,Johnathan,Hawkins,LONG,26
+2811013,9/17/2016,FBS,Buffalo,Nevada,RUSHING,Grant,Rohach,ATT,1
+2811014,9/17/2016,FBS,Buffalo,Nevada,RUSHING,Grant,Rohach,YDS,4
+2811015,9/17/2016,FBS,Buffalo,Nevada,RUSHING,Grant,Rohach,TD,0
+2811016,9/17/2016,FBS,Buffalo,Nevada,RUSHING,Grant,Rohach,LONG,4
+2811017,9/17/2016,FBS,Buffalo,Nevada,PASSING,Tyree,Jackson,CP-ATT-INT,7-22-0
+2811018,9/17/2016,FBS,Buffalo,Nevada,PASSING,Tyree,Jackson,YDS,130
+2811019,9/17/2016,FBS,Buffalo,Nevada,PASSING,Tyree,Jackson,TD,1
+2811020,9/17/2016,FBS,Buffalo,Nevada,PASSING,Tyree,Jackson,LONG,57
+2811021,9/17/2016,FBS,Buffalo,Nevada,PASSING,Grant,Rohach,CP-ATT-INT,0-1-0
+2811022,9/17/2016,FBS,Buffalo,Nevada,PASSING,Grant,Rohach,YDS,0
+2811023,9/17/2016,FBS,Buffalo,Nevada,PASSING,Grant,Rohach,TD,0
+2811024,9/17/2016,FBS,Buffalo,Nevada,PASSING,Grant,Rohach,LONG,0
+2811025,9/17/2016,FBS,Buffalo,Nevada,RECEIVING,Jordan,Johnson,REC,1
+2811026,9/17/2016,FBS,Buffalo,Nevada,RECEIVING,Jordan,Johnson,YDS,57
+2811027,9/17/2016,FBS,Buffalo,Nevada,RECEIVING,Jordan,Johnson,TD,1
+2811028,9/17/2016,FBS,Buffalo,Nevada,RECEIVING,Jordan,Johnson,LONG,57
+2811029,9/17/2016,FBS,Buffalo,Nevada,RECEIVING,Mason,Schreck,REC,1
+2811030,9/17/2016,FBS,Buffalo,Nevada,RECEIVING,Mason,Schreck,YDS,31
+2811031,9/17/2016,FBS,Buffalo,Nevada,RECEIVING,Mason,Schreck,TD,0
+2811032,9/17/2016,FBS,Buffalo,Nevada,RECEIVING,Mason,Schreck,LONG,31
+2811033,9/17/2016,FBS,Buffalo,Nevada,RECEIVING,Tyler,Mabry,REC,2
+2811034,9/17/2016,FBS,Buffalo,Nevada,RECEIVING,Tyler,Mabry,YDS,29
+2811035,9/17/2016,FBS,Buffalo,Nevada,RECEIVING,Tyler,Mabry,TD,0
+2811036,9/17/2016,FBS,Buffalo,Nevada,RECEIVING,Tyler,Mabry,LONG,22
+2811037,9/17/2016,FBS,Buffalo,Nevada,RECEIVING,Johnathan,Hawkins,REC,3
+2811038,9/17/2016,FBS,Buffalo,Nevada,RECEIVING,Johnathan,Hawkins,YDS,13
+2811039,9/17/2016,FBS,Buffalo,Nevada,RECEIVING,Johnathan,Hawkins,TD,0
+2811040,9/17/2016,FBS,Buffalo,Nevada,RECEIVING,Johnathan,Hawkins,LONG,7
+2811041,9/17/2016,FBS,Buffalo,Nevada,KICKING,Adam,Mitcheson,FG-FGA,0/1
+2811042,9/17/2016,FBS,Buffalo,Nevada,KICKING,Adam,Mitcheson,LONG,0
+2811043,9/17/2016,FBS,Buffalo,Nevada,KICKING,Adam,Mitcheson,XP,2
+2811044,9/17/2016,FBS,Buffalo,Nevada,KICKING,Adam,Mitcheson,PTS,2
+2811045,9/17/2016,FBS,Buffalo,Nevada,PUNTING,Kyle,Deween,NO,6
+2811046,9/17/2016,FBS,Buffalo,Nevada,PUNTING,Kyle,Deween,YDS,256
+2811047,9/17/2016,FBS,Buffalo,Nevada,PUNTING,Kyle,Deween,AVG,42.7
+2811048,9/17/2016,FBS,Buffalo,Nevada,PUNTING,Kyle,Deween,LONG,54
+2811049,9/17/2016,FBS,Buffalo,Nevada,PUNT RETURNS,Jamarl,Eiland,NO,2
+2811050,9/17/2016,FBS,Buffalo,Nevada,PUNT RETURNS,Jamarl,Eiland,YDS,9
+2811051,9/17/2016,FBS,Buffalo,Nevada,PUNT RETURNS,Jamarl,Eiland,AVG,4.5
+2811052,9/17/2016,FBS,Buffalo,Nevada,PUNT RETURNS,Jamarl,Eiland,LONG,8
+2811053,9/17/2016,FBS,Buffalo,Nevada,KICK RETURNS,Johnathan,Hawkins,NO,2
+2811054,9/17/2016,FBS,Buffalo,Nevada,KICK RETURNS,Johnathan,Hawkins,YDS,38
+2811055,9/17/2016,FBS,Buffalo,Nevada,KICK RETURNS,Johnathan,Hawkins,AVG,19.0
+2811056,9/17/2016,FBS,Buffalo,Nevada,KICK RETURNS,Johnathan,Hawkins,LONG,20
+2811057,9/17/2016,FBS,Buffalo,Nevada,KICK RETURNS,Jamarl,Eiland,NO,1
+2811058,9/17/2016,FBS,Buffalo,Nevada,KICK RETURNS,Jamarl,Eiland,YDS,23
+2811059,9/17/2016,FBS,Buffalo,Nevada,KICK RETURNS,Jamarl,Eiland,AVG,23.0
+2811060,9/17/2016,FBS,Buffalo,Nevada,KICK RETURNS,Jamarl,Eiland,LONG,23
+2811061,9/17/2016,FBS,Nevada,Buffalo,RUSHING,James,Butler,ATT,28
+2811062,9/17/2016,FBS,Nevada,Buffalo,RUSHING,James,Butler,YDS,174
+2811063,9/17/2016,FBS,Nevada,Buffalo,RUSHING,James,Butler,TD,3
+2811064,9/17/2016,FBS,Nevada,Buffalo,RUSHING,James,Butler,LONG,27
+2811065,9/17/2016,FBS,Nevada,Buffalo,RUSHING,Jaxson,Kincaide,ATT,18
+2811066,9/17/2016,FBS,Nevada,Buffalo,RUSHING,Jaxson,Kincaide,YDS,99
+2811067,9/17/2016,FBS,Nevada,Buffalo,RUSHING,Jaxson,Kincaide,TD,0
+2811068,9/17/2016,FBS,Nevada,Buffalo,RUSHING,Jaxson,Kincaide,LONG,48
+2811069,9/17/2016,FBS,Nevada,Buffalo,RUSHING,Tyler,Stewart,ATT,6
+2811070,9/17/2016,FBS,Nevada,Buffalo,RUSHING,Tyler,Stewart,YDS,31
+2811071,9/17/2016,FBS,Nevada,Buffalo,RUSHING,Tyler,Stewart,TD,1
+2811072,9/17/2016,FBS,Nevada,Buffalo,RUSHING,Tyler,Stewart,LONG,9
+2811073,9/17/2016,FBS,Nevada,Buffalo,RUSHING,Blake,Wright,ATT,4
+2811074,9/17/2016,FBS,Nevada,Buffalo,RUSHING,Blake,Wright,YDS,17
+2811075,9/17/2016,FBS,Nevada,Buffalo,RUSHING,Blake,Wright,TD,0
+2811076,9/17/2016,FBS,Nevada,Buffalo,RUSHING,Blake,Wright,LONG,6
+2811077,9/17/2016,FBS,Nevada,Buffalo,RUSHING,Ty,Gangi,ATT,3
+2811078,9/17/2016,FBS,Nevada,Buffalo,RUSHING,Ty,Gangi,YDS,13
+2811079,9/17/2016,FBS,Nevada,Buffalo,RUSHING,Ty,Gangi,TD,0
+2811080,9/17/2016,FBS,Nevada,Buffalo,RUSHING,Ty,Gangi,LONG,10
+2811081,9/17/2016,FBS,Nevada,Buffalo,RUSHING,Kelton,Moore,ATT,2
+2811082,9/17/2016,FBS,Nevada,Buffalo,RUSHING,Kelton,Moore,YDS,10
+2811083,9/17/2016,FBS,Nevada,Buffalo,RUSHING,Kelton,Moore,TD,0
+2811084,9/17/2016,FBS,Nevada,Buffalo,RUSHING,Kelton,Moore,LONG,11
+2811085,9/17/2016,FBS,Nevada,Buffalo,RUSHING,Ahki,Muhammad,ATT,1
+2811086,9/17/2016,FBS,Nevada,Buffalo,RUSHING,Ahki,Muhammad,YDS,7
+2811087,9/17/2016,FBS,Nevada,Buffalo,RUSHING,Ahki,Muhammad,TD,0
+2811088,9/17/2016,FBS,Nevada,Buffalo,RUSHING,Ahki,Muhammad,LONG,7
+2811089,9/17/2016,FBS,Nevada,Buffalo,RUSHING,Asauni,Rufus,ATT,1
+2811090,9/17/2016,FBS,Nevada,Buffalo,RUSHING,Asauni,Rufus,YDS,3
+2811091,9/17/2016,FBS,Nevada,Buffalo,RUSHING,Asauni,Rufus,TD,0
+2811092,9/17/2016,FBS,Nevada,Buffalo,RUSHING,Asauni,Rufus,LONG,3
+2811093,9/17/2016,FBS,Nevada,Buffalo,RUSHING,,Team,ATT,1
+2811094,9/17/2016,FBS,Nevada,Buffalo,RUSHING,,Team,YDS,-2
+2811095,9/17/2016,FBS,Nevada,Buffalo,RUSHING,,Team,TD,0
+2811096,9/17/2016,FBS,Nevada,Buffalo,RUSHING,,Team,LONG,-2
+2811097,9/17/2016,FBS,Nevada,Buffalo,PASSING,Tyler,Stewart,CP-ATT-INT,16-21-0
+2811098,9/17/2016,FBS,Nevada,Buffalo,PASSING,Tyler,Stewart,YDS,160
+2811099,9/17/2016,FBS,Nevada,Buffalo,PASSING,Tyler,Stewart,TD,1
+2811100,9/17/2016,FBS,Nevada,Buffalo,PASSING,Tyler,Stewart,LONG,20
+2811101,9/17/2016,FBS,Nevada,Buffalo,PASSING,Ty,Gangi,CP-ATT-INT,1-4-0
+2811102,9/17/2016,FBS,Nevada,Buffalo,PASSING,Ty,Gangi,YDS,9
+2811103,9/17/2016,FBS,Nevada,Buffalo,PASSING,Ty,Gangi,TD,0
+2811104,9/17/2016,FBS,Nevada,Buffalo,PASSING,Ty,Gangi,LONG,9
+2811105,9/17/2016,FBS,Nevada,Buffalo,RECEIVING,Jerico,Richardson,REC,3
+2811106,9/17/2016,FBS,Nevada,Buffalo,RECEIVING,Jerico,Richardson,YDS,46
+2811107,9/17/2016,FBS,Nevada,Buffalo,RECEIVING,Jerico,Richardson,TD,0
+2811108,9/17/2016,FBS,Nevada,Buffalo,RECEIVING,Jerico,Richardson,LONG,19
+2811109,9/17/2016,FBS,Nevada,Buffalo,RECEIVING,Andrew,Celis,REC,3
+2811110,9/17/2016,FBS,Nevada,Buffalo,RECEIVING,Andrew,Celis,YDS,29
+2811111,9/17/2016,FBS,Nevada,Buffalo,RECEIVING,Andrew,Celis,TD,0
+2811112,9/17/2016,FBS,Nevada,Buffalo,RECEIVING,Andrew,Celis,LONG,11
+2811113,9/17/2016,FBS,Nevada,Buffalo,RECEIVING,Wyatt,Demps,REC,4
+2811114,9/17/2016,FBS,Nevada,Buffalo,RECEIVING,Wyatt,Demps,YDS,21
+2811115,9/17/2016,FBS,Nevada,Buffalo,RECEIVING,Wyatt,Demps,TD,1
+2811116,9/17/2016,FBS,Nevada,Buffalo,RECEIVING,Wyatt,Demps,LONG,11
+2811117,9/17/2016,FBS,Nevada,Buffalo,RECEIVING,Jarred,Gipson,REC,1
+2811118,9/17/2016,FBS,Nevada,Buffalo,RECEIVING,Jarred,Gipson,YDS,20
+2811119,9/17/2016,FBS,Nevada,Buffalo,RECEIVING,Jarred,Gipson,TD,0
+2811120,9/17/2016,FBS,Nevada,Buffalo,RECEIVING,Jarred,Gipson,LONG,20
+2811121,9/17/2016,FBS,Nevada,Buffalo,RECEIVING,Hasaan,Henderson,REC,2
+2811122,9/17/2016,FBS,Nevada,Buffalo,RECEIVING,Hasaan,Henderson,YDS,20
+2811123,9/17/2016,FBS,Nevada,Buffalo,RECEIVING,Hasaan,Henderson,TD,0
+2811124,9/17/2016,FBS,Nevada,Buffalo,RECEIVING,Hasaan,Henderson,LONG,13
+2811125,9/17/2016,FBS,Nevada,Buffalo,RECEIVING,Ahki,Muhammad,REC,2
+2811126,9/17/2016,FBS,Nevada,Buffalo,RECEIVING,Ahki,Muhammad,YDS,18
+2811127,9/17/2016,FBS,Nevada,Buffalo,RECEIVING,Ahki,Muhammad,TD,0
+2811128,9/17/2016,FBS,Nevada,Buffalo,RECEIVING,Ahki,Muhammad,LONG,9
+2811129,9/17/2016,FBS,Nevada,Buffalo,RECEIVING,Brandon,Scott,REC,1
+2811130,9/17/2016,FBS,Nevada,Buffalo,RECEIVING,Brandon,Scott,YDS,10
+2811131,9/17/2016,FBS,Nevada,Buffalo,RECEIVING,Brandon,Scott,TD,0
+2811132,9/17/2016,FBS,Nevada,Buffalo,RECEIVING,Brandon,Scott,LONG,10
+2811133,9/17/2016,FBS,Nevada,Buffalo,RECEIVING,James,Butler,REC,1
+2811134,9/17/2016,FBS,Nevada,Buffalo,RECEIVING,James,Butler,YDS,5
+2811135,9/17/2016,FBS,Nevada,Buffalo,RECEIVING,James,Butler,TD,0
+2811136,9/17/2016,FBS,Nevada,Buffalo,RECEIVING,James,Butler,LONG,5
+2811137,9/17/2016,FBS,Nevada,Buffalo,KICKING,Brent,Zuzo,FG-FGA,1/1
+2811138,9/17/2016,FBS,Nevada,Buffalo,KICKING,Brent,Zuzo,LONG,23
+2811139,9/17/2016,FBS,Nevada,Buffalo,KICKING,Brent,Zuzo,XP,5
+2811140,9/17/2016,FBS,Nevada,Buffalo,KICKING,Brent,Zuzo,PTS,8
+2811141,9/17/2016,FBS,Nevada,Buffalo,PUNTING,Alex,Boy,NO,3
+2811142,9/17/2016,FBS,Nevada,Buffalo,PUNTING,Alex,Boy,YDS,148
+2811143,9/17/2016,FBS,Nevada,Buffalo,PUNTING,Alex,Boy,AVG,49.3
+2811144,9/17/2016,FBS,Nevada,Buffalo,PUNTING,Alex,Boy,LONG,50
+2811145,9/17/2016,FBS,Nevada,Buffalo,PUNT RETURNS,Andrew,Celis,NO,1
+2811146,9/17/2016,FBS,Nevada,Buffalo,PUNT RETURNS,Andrew,Celis,YDS,11
+2811147,9/17/2016,FBS,Nevada,Buffalo,PUNT RETURNS,Andrew,Celis,AVG,11.0
+2811148,9/17/2016,FBS,Nevada,Buffalo,PUNT RETURNS,Andrew,Celis,LONG,11
+2811149,9/17/2016,FBS,Nevada,Buffalo,KICK RETURNS,Elijah,Mitchell,NO,1
+2811150,9/17/2016,FBS,Nevada,Buffalo,KICK RETURNS,Elijah,Mitchell,YDS,17
+2811151,9/17/2016,FBS,Nevada,Buffalo,KICK RETURNS,Elijah,Mitchell,AVG,17.0
+2811152,9/17/2016,FBS,Nevada,Buffalo,KICK RETURNS,Elijah,Mitchell,LONG,17

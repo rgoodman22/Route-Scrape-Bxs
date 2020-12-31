@@ -1,0 +1,125 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2602001,12/29/2015,FBS,Nevada,Colorado State,RUSHING,James,Butler,ATT,24
+2602002,12/29/2015,FBS,Nevada,Colorado State,RUSHING,James,Butler,YDS,189
+2602003,12/29/2015,FBS,Nevada,Colorado State,RUSHING,James,Butler,TD,2
+2602004,12/29/2015,FBS,Nevada,Colorado State,RUSHING,James,Butler,LONG,77
+2602005,12/29/2015,FBS,Nevada,Colorado State,RUSHING,Don,Jackson,ATT,8
+2602006,12/29/2015,FBS,Nevada,Colorado State,RUSHING,Don,Jackson,YDS,53
+2602007,12/29/2015,FBS,Nevada,Colorado State,RUSHING,Don,Jackson,TD,0
+2602008,12/29/2015,FBS,Nevada,Colorado State,RUSHING,Don,Jackson,LONG,13
+2602009,12/29/2015,FBS,Nevada,Colorado State,RUSHING,Tyler,Stewart,ATT,6
+2602010,12/29/2015,FBS,Nevada,Colorado State,RUSHING,Tyler,Stewart,YDS,29
+2602011,12/29/2015,FBS,Nevada,Colorado State,RUSHING,Tyler,Stewart,TD,0
+2602012,12/29/2015,FBS,Nevada,Colorado State,RUSHING,Tyler,Stewart,LONG,14
+2602013,12/29/2015,FBS,Nevada,Colorado State,RUSHING,Jerico,Richardson,ATT,1
+2602014,12/29/2015,FBS,Nevada,Colorado State,RUSHING,Jerico,Richardson,YDS,1
+2602015,12/29/2015,FBS,Nevada,Colorado State,RUSHING,Jerico,Richardson,TD,0
+2602016,12/29/2015,FBS,Nevada,Colorado State,RUSHING,Jerico,Richardson,LONG,1
+2602017,12/29/2015,FBS,Nevada,Colorado State,RUSHING,,Team,ATT,1
+2602018,12/29/2015,FBS,Nevada,Colorado State,RUSHING,,Team,YDS,-1
+2602019,12/29/2015,FBS,Nevada,Colorado State,RUSHING,,Team,TD,0
+2602020,12/29/2015,FBS,Nevada,Colorado State,RUSHING,,Team,LONG,-1
+2602021,12/29/2015,FBS,Nevada,Colorado State,PASSING,Tyler,Stewart,CP-ATT-INT,6-13-0
+2602022,12/29/2015,FBS,Nevada,Colorado State,PASSING,Tyler,Stewart,YDS,74
+2602023,12/29/2015,FBS,Nevada,Colorado State,PASSING,Tyler,Stewart,TD,0
+2602024,12/29/2015,FBS,Nevada,Colorado State,PASSING,Tyler,Stewart,LONG,22
+2602025,12/29/2015,FBS,Nevada,Colorado State,RECEIVING,Jerico,Richardson,REC,4
+2602026,12/29/2015,FBS,Nevada,Colorado State,RECEIVING,Jerico,Richardson,YDS,42
+2602027,12/29/2015,FBS,Nevada,Colorado State,RECEIVING,Jerico,Richardson,TD,0
+2602028,12/29/2015,FBS,Nevada,Colorado State,RECEIVING,Jerico,Richardson,LONG,16
+2602029,12/29/2015,FBS,Nevada,Colorado State,RECEIVING,Hasaan,Henderson,REC,2
+2602030,12/29/2015,FBS,Nevada,Colorado State,RECEIVING,Hasaan,Henderson,YDS,32
+2602031,12/29/2015,FBS,Nevada,Colorado State,RECEIVING,Hasaan,Henderson,TD,0
+2602032,12/29/2015,FBS,Nevada,Colorado State,RECEIVING,Hasaan,Henderson,LONG,22
+2602033,12/29/2015,FBS,Nevada,Colorado State,KICKING,Brent,Zuzo,FG-FGA,3/3
+2602034,12/29/2015,FBS,Nevada,Colorado State,KICKING,Brent,Zuzo,LONG,40
+2602035,12/29/2015,FBS,Nevada,Colorado State,KICKING,Brent,Zuzo,XP,1
+2602036,12/29/2015,FBS,Nevada,Colorado State,KICKING,Brent,Zuzo,PTS,10
+2602037,12/29/2015,FBS,Nevada,Colorado State,PUNTING,Alex,Boy,NO,2
+2602038,12/29/2015,FBS,Nevada,Colorado State,PUNTING,Alex,Boy,YDS,70
+2602039,12/29/2015,FBS,Nevada,Colorado State,PUNTING,Alex,Boy,AVG,35.0
+2602040,12/29/2015,FBS,Nevada,Colorado State,PUNTING,Alex,Boy,LONG,36
+2602041,12/29/2015,FBS,Nevada,Colorado State,PUNT RETURNS,Andrew,Celis,NO,1
+2602042,12/29/2015,FBS,Nevada,Colorado State,PUNT RETURNS,Andrew,Celis,YDS,13
+2602043,12/29/2015,FBS,Nevada,Colorado State,PUNT RETURNS,Andrew,Celis,AVG,13.0
+2602044,12/29/2015,FBS,Nevada,Colorado State,PUNT RETURNS,Andrew,Celis,LONG,13
+2602045,12/29/2015,FBS,Nevada,Colorado State,KICK RETURNS,Elijah,Mitchell,NO,5
+2602046,12/29/2015,FBS,Nevada,Colorado State,KICK RETURNS,Elijah,Mitchell,YDS,182
+2602047,12/29/2015,FBS,Nevada,Colorado State,KICK RETURNS,Elijah,Mitchell,AVG,36.4
+2602048,12/29/2015,FBS,Nevada,Colorado State,KICK RETURNS,Elijah,Mitchell,LONG,96
+2602049,12/29/2015,FBS,Colorado State,Nevada,RUSHING,Izzy,Matthews,ATT,12
+2602050,12/29/2015,FBS,Colorado State,Nevada,RUSHING,Izzy,Matthews,YDS,87
+2602051,12/29/2015,FBS,Colorado State,Nevada,RUSHING,Izzy,Matthews,TD,0
+2602052,12/29/2015,FBS,Colorado State,Nevada,RUSHING,Izzy,Matthews,LONG,35
+2602053,12/29/2015,FBS,Colorado State,Nevada,RUSHING,Dalyn,Dawkins,ATT,14
+2602054,12/29/2015,FBS,Colorado State,Nevada,RUSHING,Dalyn,Dawkins,YDS,62
+2602055,12/29/2015,FBS,Colorado State,Nevada,RUSHING,Dalyn,Dawkins,TD,0
+2602056,12/29/2015,FBS,Colorado State,Nevada,RUSHING,Dalyn,Dawkins,LONG,16
+2602057,12/29/2015,FBS,Colorado State,Nevada,RUSHING,Jasen,OdenJr.,ATT,8
+2602058,12/29/2015,FBS,Colorado State,Nevada,RUSHING,Jasen,OdenJr.,YDS,51
+2602059,12/29/2015,FBS,Colorado State,Nevada,RUSHING,Jasen,OdenJr.,TD,1
+2602060,12/29/2015,FBS,Colorado State,Nevada,RUSHING,Jasen,OdenJr.,LONG,11
+2602061,12/29/2015,FBS,Colorado State,Nevada,RUSHING,Nick,Stevens,ATT,7
+2602062,12/29/2015,FBS,Colorado State,Nevada,RUSHING,Nick,Stevens,YDS,12
+2602063,12/29/2015,FBS,Colorado State,Nevada,RUSHING,Nick,Stevens,TD,1
+2602064,12/29/2015,FBS,Colorado State,Nevada,RUSHING,Nick,Stevens,LONG,14
+2602065,12/29/2015,FBS,Colorado State,Nevada,RUSHING,Craig,Leonard,ATT,1
+2602066,12/29/2015,FBS,Colorado State,Nevada,RUSHING,Craig,Leonard,YDS,10
+2602067,12/29/2015,FBS,Colorado State,Nevada,RUSHING,Craig,Leonard,TD,0
+2602068,12/29/2015,FBS,Colorado State,Nevada,RUSHING,Craig,Leonard,LONG,10
+2602069,12/29/2015,FBS,Colorado State,Nevada,PASSING,Nick,Stevens,CP-ATT-INT,22-42-0
+2602070,12/29/2015,FBS,Colorado State,Nevada,PASSING,Nick,Stevens,YDS,310
+2602071,12/29/2015,FBS,Colorado State,Nevada,PASSING,Nick,Stevens,TD,0
+2602072,12/29/2015,FBS,Colorado State,Nevada,PASSING,Nick,Stevens,LONG,38
+2602073,12/29/2015,FBS,Colorado State,Nevada,RECEIVING,Rashard,Higgins,REC,9
+2602074,12/29/2015,FBS,Colorado State,Nevada,RECEIVING,Rashard,Higgins,YDS,129
+2602075,12/29/2015,FBS,Colorado State,Nevada,RECEIVING,Rashard,Higgins,TD,0
+2602076,12/29/2015,FBS,Colorado State,Nevada,RECEIVING,Rashard,Higgins,LONG,38
+2602077,12/29/2015,FBS,Colorado State,Nevada,RECEIVING,Dalyn,Dawkins,REC,3
+2602078,12/29/2015,FBS,Colorado State,Nevada,RECEIVING,Dalyn,Dawkins,YDS,35
+2602079,12/29/2015,FBS,Colorado State,Nevada,RECEIVING,Dalyn,Dawkins,TD,0
+2602080,12/29/2015,FBS,Colorado State,Nevada,RECEIVING,Dalyn,Dawkins,LONG,14
+2602081,12/29/2015,FBS,Colorado State,Nevada,RECEIVING,Joe,Hansley,REC,2
+2602082,12/29/2015,FBS,Colorado State,Nevada,RECEIVING,Joe,Hansley,YDS,31
+2602083,12/29/2015,FBS,Colorado State,Nevada,RECEIVING,Joe,Hansley,TD,0
+2602084,12/29/2015,FBS,Colorado State,Nevada,RECEIVING,Joe,Hansley,LONG,17
+2602085,12/29/2015,FBS,Colorado State,Nevada,RECEIVING,Izzy,Matthews,REC,2
+2602086,12/29/2015,FBS,Colorado State,Nevada,RECEIVING,Izzy,Matthews,YDS,31
+2602087,12/29/2015,FBS,Colorado State,Nevada,RECEIVING,Izzy,Matthews,TD,0
+2602088,12/29/2015,FBS,Colorado State,Nevada,RECEIVING,Izzy,Matthews,LONG,24
+2602089,12/29/2015,FBS,Colorado State,Nevada,RECEIVING,Steven,Walker,REC,2
+2602090,12/29/2015,FBS,Colorado State,Nevada,RECEIVING,Steven,Walker,YDS,31
+2602091,12/29/2015,FBS,Colorado State,Nevada,RECEIVING,Steven,Walker,TD,0
+2602092,12/29/2015,FBS,Colorado State,Nevada,RECEIVING,Steven,Walker,LONG,17
+2602093,12/29/2015,FBS,Colorado State,Nevada,RECEIVING,Jordon,Vaden,REC,2
+2602094,12/29/2015,FBS,Colorado State,Nevada,RECEIVING,Jordon,Vaden,YDS,24
+2602095,12/29/2015,FBS,Colorado State,Nevada,RECEIVING,Jordon,Vaden,TD,0
+2602096,12/29/2015,FBS,Colorado State,Nevada,RECEIVING,Jordon,Vaden,LONG,15
+2602097,12/29/2015,FBS,Colorado State,Nevada,RECEIVING,Nolan,Peralta,REC,1
+2602098,12/29/2015,FBS,Colorado State,Nevada,RECEIVING,Nolan,Peralta,YDS,22
+2602099,12/29/2015,FBS,Colorado State,Nevada,RECEIVING,Nolan,Peralta,TD,0
+2602100,12/29/2015,FBS,Colorado State,Nevada,RECEIVING,Nolan,Peralta,LONG,22
+2602101,12/29/2015,FBS,Colorado State,Nevada,RECEIVING,Jasen,OdenJr.,REC,1
+2602102,12/29/2015,FBS,Colorado State,Nevada,RECEIVING,Jasen,OdenJr.,YDS,7
+2602103,12/29/2015,FBS,Colorado State,Nevada,RECEIVING,Jasen,OdenJr.,TD,0
+2602104,12/29/2015,FBS,Colorado State,Nevada,RECEIVING,Jasen,OdenJr.,LONG,7
+2602105,12/29/2015,FBS,Colorado State,Nevada,KICKING,Wyatt,Bryan,FG-FGA,3/3
+2602106,12/29/2015,FBS,Colorado State,Nevada,KICKING,Wyatt,Bryan,LONG,38
+2602107,12/29/2015,FBS,Colorado State,Nevada,KICKING,Wyatt,Bryan,XP,2
+2602108,12/29/2015,FBS,Colorado State,Nevada,KICKING,Wyatt,Bryan,PTS,11
+2602109,12/29/2015,FBS,Colorado State,Nevada,PUNTING,Hayden,Hunt,NO,2
+2602110,12/29/2015,FBS,Colorado State,Nevada,PUNTING,Hayden,Hunt,YDS,76
+2602111,12/29/2015,FBS,Colorado State,Nevada,PUNTING,Hayden,Hunt,AVG,38.0
+2602112,12/29/2015,FBS,Colorado State,Nevada,PUNTING,Hayden,Hunt,LONG,39
+2602113,12/29/2015,FBS,Colorado State,Nevada,PUNT RETURNS,Joe,Hansley,NO,0
+2602114,12/29/2015,FBS,Colorado State,Nevada,PUNT RETURNS,Joe,Hansley,YDS,0
+2602115,12/29/2015,FBS,Colorado State,Nevada,PUNT RETURNS,Joe,Hansley,AVG,-
+2602116,12/29/2015,FBS,Colorado State,Nevada,PUNT RETURNS,Joe,Hansley,LONG,0
+2602117,12/29/2015,FBS,Colorado State,Nevada,KICK RETURNS,Jordon,Vaden,NO,2
+2602118,12/29/2015,FBS,Colorado State,Nevada,KICK RETURNS,Jordon,Vaden,YDS,52
+2602119,12/29/2015,FBS,Colorado State,Nevada,KICK RETURNS,Jordon,Vaden,AVG,26.0
+2602120,12/29/2015,FBS,Colorado State,Nevada,KICK RETURNS,Jordon,Vaden,LONG,30
+2602121,12/29/2015,FBS,Colorado State,Nevada,KICK RETURNS,Kevin,NuttJr.,NO,2
+2602122,12/29/2015,FBS,Colorado State,Nevada,KICK RETURNS,Kevin,NuttJr.,YDS,44
+2602123,12/29/2015,FBS,Colorado State,Nevada,KICK RETURNS,Kevin,NuttJr.,AVG,22.0
+2602124,12/29/2015,FBS,Colorado State,Nevada,KICK RETURNS,Kevin,NuttJr.,LONG,25

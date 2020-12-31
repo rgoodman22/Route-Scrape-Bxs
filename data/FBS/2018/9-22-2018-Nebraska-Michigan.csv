@@ -1,0 +1,260 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+4669001,9/22/2018,FBS,Nebraska,Michigan,RUSHING,Andrew,Bunch,ATT,3
+4669002,9/22/2018,FBS,Nebraska,Michigan,RUSHING,Andrew,Bunch,YDS,23
+4669003,9/22/2018,FBS,Nebraska,Michigan,RUSHING,Andrew,Bunch,TD,0
+4669004,9/22/2018,FBS,Nebraska,Michigan,RUSHING,Andrew,Bunch,LONG,23
+4669005,9/22/2018,FBS,Nebraska,Michigan,RUSHING,Wyatt,Mazour,ATT,5
+4669006,9/22/2018,FBS,Nebraska,Michigan,RUSHING,Wyatt,Mazour,YDS,18
+4669007,9/22/2018,FBS,Nebraska,Michigan,RUSHING,Wyatt,Mazour,TD,1
+4669008,9/22/2018,FBS,Nebraska,Michigan,RUSHING,Wyatt,Mazour,LONG,17
+4669009,9/22/2018,FBS,Nebraska,Michigan,RUSHING,Devine,Ozigbo,ATT,6
+4669010,9/22/2018,FBS,Nebraska,Michigan,RUSHING,Devine,Ozigbo,YDS,5
+4669011,9/22/2018,FBS,Nebraska,Michigan,RUSHING,Devine,Ozigbo,TD,0
+4669012,9/22/2018,FBS,Nebraska,Michigan,RUSHING,Devine,Ozigbo,LONG,6
+4669013,9/22/2018,FBS,Nebraska,Michigan,RUSHING,Greg,Bell,ATT,6
+4669014,9/22/2018,FBS,Nebraska,Michigan,RUSHING,Greg,Bell,YDS,3
+4669015,9/22/2018,FBS,Nebraska,Michigan,RUSHING,Greg,Bell,TD,0
+4669016,9/22/2018,FBS,Nebraska,Michigan,RUSHING,Greg,Bell,LONG,4
+4669017,9/22/2018,FBS,Nebraska,Michigan,RUSHING,Maurice,Washington,ATT,3
+4669018,9/22/2018,FBS,Nebraska,Michigan,RUSHING,Maurice,Washington,YDS,2
+4669019,9/22/2018,FBS,Nebraska,Michigan,RUSHING,Maurice,Washington,TD,0
+4669020,9/22/2018,FBS,Nebraska,Michigan,RUSHING,Maurice,Washington,LONG,1
+4669021,9/22/2018,FBS,Nebraska,Michigan,RUSHING,Adrian,Martinez,ATT,7
+4669022,9/22/2018,FBS,Nebraska,Michigan,RUSHING,Adrian,Martinez,YDS,-12
+4669023,9/22/2018,FBS,Nebraska,Michigan,RUSHING,Adrian,Martinez,TD,0
+4669024,9/22/2018,FBS,Nebraska,Michigan,RUSHING,Adrian,Martinez,LONG,15
+4669025,9/22/2018,FBS,Nebraska,Michigan,PASSING,Andrew,Bunch,CP-ATT-INT,6-9-0
+4669026,9/22/2018,FBS,Nebraska,Michigan,PASSING,Andrew,Bunch,YDS,71
+4669027,9/22/2018,FBS,Nebraska,Michigan,PASSING,Andrew,Bunch,TD,0
+4669028,9/22/2018,FBS,Nebraska,Michigan,PASSING,Andrew,Bunch,LONG,27
+4669029,9/22/2018,FBS,Nebraska,Michigan,PASSING,Adrian,Martinez,CP-ATT-INT,7-15-1
+4669030,9/22/2018,FBS,Nebraska,Michigan,PASSING,Adrian,Martinez,YDS,22
+4669031,9/22/2018,FBS,Nebraska,Michigan,PASSING,Adrian,Martinez,TD,0
+4669032,9/22/2018,FBS,Nebraska,Michigan,PASSING,Adrian,Martinez,LONG,32
+4669033,9/22/2018,FBS,Nebraska,Michigan,RECEIVING,Stanley,MorganJr.,REC,3
+4669034,9/22/2018,FBS,Nebraska,Michigan,RECEIVING,Stanley,MorganJr.,YDS,61
+4669035,9/22/2018,FBS,Nebraska,Michigan,RECEIVING,Stanley,MorganJr.,TD,0
+4669036,9/22/2018,FBS,Nebraska,Michigan,RECEIVING,Stanley,MorganJr.,LONG,32
+4669037,9/22/2018,FBS,Nebraska,Michigan,RECEIVING,Wyatt,Mazour,REC,1
+4669038,9/22/2018,FBS,Nebraska,Michigan,RECEIVING,Wyatt,Mazour,YDS,21
+4669039,9/22/2018,FBS,Nebraska,Michigan,RECEIVING,Wyatt,Mazour,TD,0
+4669040,9/22/2018,FBS,Nebraska,Michigan,RECEIVING,Wyatt,Mazour,LONG,21
+4669041,9/22/2018,FBS,Nebraska,Michigan,RECEIVING,Tyjon,Lindsey,REC,2
+4669042,9/22/2018,FBS,Nebraska,Michigan,RECEIVING,Tyjon,Lindsey,YDS,16
+4669043,9/22/2018,FBS,Nebraska,Michigan,RECEIVING,Tyjon,Lindsey,TD,0
+4669044,9/22/2018,FBS,Nebraska,Michigan,RECEIVING,Tyjon,Lindsey,LONG,14
+4669045,9/22/2018,FBS,Nebraska,Michigan,RECEIVING,JD,Spielman,REC,4
+4669046,9/22/2018,FBS,Nebraska,Michigan,RECEIVING,JD,Spielman,YDS,5
+4669047,9/22/2018,FBS,Nebraska,Michigan,RECEIVING,JD,Spielman,TD,0
+4669048,9/22/2018,FBS,Nebraska,Michigan,RECEIVING,JD,Spielman,LONG,9
+4669049,9/22/2018,FBS,Nebraska,Michigan,RECEIVING,Devine,Ozigbo,REC,1
+4669050,9/22/2018,FBS,Nebraska,Michigan,RECEIVING,Devine,Ozigbo,YDS,5
+4669051,9/22/2018,FBS,Nebraska,Michigan,RECEIVING,Devine,Ozigbo,TD,0
+4669052,9/22/2018,FBS,Nebraska,Michigan,RECEIVING,Devine,Ozigbo,LONG,5
+4669053,9/22/2018,FBS,Nebraska,Michigan,RECEIVING,Maurice,Washington,REC,1
+4669054,9/22/2018,FBS,Nebraska,Michigan,RECEIVING,Maurice,Washington,YDS,-4
+4669055,9/22/2018,FBS,Nebraska,Michigan,RECEIVING,Maurice,Washington,TD,0
+4669056,9/22/2018,FBS,Nebraska,Michigan,RECEIVING,Maurice,Washington,LONG,-4
+4669057,9/22/2018,FBS,Nebraska,Michigan,RECEIVING,Adrian,Martinez,REC,1
+4669058,9/22/2018,FBS,Nebraska,Michigan,RECEIVING,Adrian,Martinez,YDS,-11
+4669059,9/22/2018,FBS,Nebraska,Michigan,RECEIVING,Adrian,Martinez,TD,0
+4669060,9/22/2018,FBS,Nebraska,Michigan,RECEIVING,Adrian,Martinez,LONG,-11
+4669061,9/22/2018,FBS,Nebraska,Michigan,KICKING,Barret,Pickering,FG-FGA,1/1
+4669062,9/22/2018,FBS,Nebraska,Michigan,KICKING,Barret,Pickering,LONG,35
+4669063,9/22/2018,FBS,Nebraska,Michigan,KICKING,Barret,Pickering,XP,1
+4669064,9/22/2018,FBS,Nebraska,Michigan,KICKING,Barret,Pickering,PTS,4
+4669065,9/22/2018,FBS,Nebraska,Michigan,PUNTING,Caleb,Lightbourn,NO,9
+4669066,9/22/2018,FBS,Nebraska,Michigan,PUNTING,Caleb,Lightbourn,YDS,402
+4669067,9/22/2018,FBS,Nebraska,Michigan,PUNTING,Caleb,Lightbourn,AVG,44.7
+4669068,9/22/2018,FBS,Nebraska,Michigan,PUNTING,Caleb,Lightbourn,LONG,52
+4669069,9/22/2018,FBS,Nebraska,Michigan,PUNT RETURNS,Tyjon,Lindsey,NO,2
+4669070,9/22/2018,FBS,Nebraska,Michigan,PUNT RETURNS,Tyjon,Lindsey,YDS,3
+4669071,9/22/2018,FBS,Nebraska,Michigan,PUNT RETURNS,Tyjon,Lindsey,AVG,1.5
+4669072,9/22/2018,FBS,Nebraska,Michigan,PUNT RETURNS,Tyjon,Lindsey,LONG,3
+4669073,9/22/2018,FBS,Nebraska,Michigan,KICK RETURNS,JD,Spielman,NO,2
+4669074,9/22/2018,FBS,Nebraska,Michigan,KICK RETURNS,JD,Spielman,YDS,40
+4669075,9/22/2018,FBS,Nebraska,Michigan,KICK RETURNS,JD,Spielman,AVG,20.0
+4669076,9/22/2018,FBS,Nebraska,Michigan,KICK RETURNS,JD,Spielman,LONG,24
+4669077,9/22/2018,FBS,Nebraska,Michigan,KICK RETURNS,Maurice,Washington,NO,1
+4669078,9/22/2018,FBS,Nebraska,Michigan,KICK RETURNS,Maurice,Washington,YDS,16
+4669079,9/22/2018,FBS,Nebraska,Michigan,KICK RETURNS,Maurice,Washington,AVG,16.0
+4669080,9/22/2018,FBS,Nebraska,Michigan,KICK RETURNS,Maurice,Washington,LONG,16
+4669081,9/22/2018,FBS,Nebraska,Michigan,DEFENSE,Khalil,Davis,TOT,1
+4669082,9/22/2018,FBS,Nebraska,Michigan,DEFENSE,Khalil,Davis,SOLO,1
+4669083,9/22/2018,FBS,Nebraska,Michigan,DEFENSE,Khalil,Davis,SACKS,0.0
+4669084,9/22/2018,FBS,Nebraska,Michigan,DEFENSE,Khalil,Davis,TFL,0
+4669085,9/22/2018,FBS,Nebraska,Michigan,DEFENSE,Khalil,Davis,INT,0
+4669086,9/22/2018,FBS,Nebraska,Michigan,DEFENSE,Khalil,Davis,FF,1
+4669087,9/22/2018,FBS,Nebraska,Michigan,DEFENSE,Khalil,Davis,FR,0
+4669088,9/22/2018,FBS,Nebraska,Michigan,DEFENSE,Deontai,Williams,TOT,0
+4669089,9/22/2018,FBS,Nebraska,Michigan,DEFENSE,Deontai,Williams,SOLO,0
+4669090,9/22/2018,FBS,Nebraska,Michigan,DEFENSE,Deontai,Williams,SACKS,0.0
+4669091,9/22/2018,FBS,Nebraska,Michigan,DEFENSE,Deontai,Williams,TFL,0
+4669092,9/22/2018,FBS,Nebraska,Michigan,DEFENSE,Deontai,Williams,INT,1
+4669093,9/22/2018,FBS,Nebraska,Michigan,DEFENSE,Deontai,Williams,FF,0
+4669094,9/22/2018,FBS,Nebraska,Michigan,DEFENSE,Deontai,Williams,FR,0
+4669095,9/22/2018,FBS,Nebraska,Michigan,DEFENSE,Mohamed,Barry,TOT,1
+4669096,9/22/2018,FBS,Nebraska,Michigan,DEFENSE,Mohamed,Barry,SOLO,1
+4669097,9/22/2018,FBS,Nebraska,Michigan,DEFENSE,Mohamed,Barry,SACKS,1.0
+4669098,9/22/2018,FBS,Nebraska,Michigan,DEFENSE,Mohamed,Barry,TFL,1
+4669099,9/22/2018,FBS,Nebraska,Michigan,DEFENSE,Mohamed,Barry,INT,0
+4669100,9/22/2018,FBS,Nebraska,Michigan,DEFENSE,Mohamed,Barry,FF,0
+4669101,9/22/2018,FBS,Nebraska,Michigan,DEFENSE,Mohamed,Barry,FR,0
+4669102,9/22/2018,FBS,Michigan,Nebraska,RUSHING,Karan,Higdon,ATT,12
+4669103,9/22/2018,FBS,Michigan,Nebraska,RUSHING,Karan,Higdon,YDS,136
+4669104,9/22/2018,FBS,Michigan,Nebraska,RUSHING,Karan,Higdon,TD,1
+4669105,9/22/2018,FBS,Michigan,Nebraska,RUSHING,Karan,Higdon,LONG,46
+4669106,9/22/2018,FBS,Michigan,Nebraska,RUSHING,Christian,Turner,ATT,10
+4669107,9/22/2018,FBS,Michigan,Nebraska,RUSHING,Christian,Turner,YDS,55
+4669108,9/22/2018,FBS,Michigan,Nebraska,RUSHING,Christian,Turner,TD,0
+4669109,9/22/2018,FBS,Michigan,Nebraska,RUSHING,Christian,Turner,LONG,19
+4669110,9/22/2018,FBS,Michigan,Nebraska,RUSHING,Tru,Wilson,ATT,6
+4669111,9/22/2018,FBS,Michigan,Nebraska,RUSHING,Tru,Wilson,YDS,43
+4669112,9/22/2018,FBS,Michigan,Nebraska,RUSHING,Tru,Wilson,TD,0
+4669113,9/22/2018,FBS,Michigan,Nebraska,RUSHING,Tru,Wilson,LONG,26
+4669114,9/22/2018,FBS,Michigan,Nebraska,RUSHING,Dylan,McCaffrey,ATT,2
+4669115,9/22/2018,FBS,Michigan,Nebraska,RUSHING,Dylan,McCaffrey,YDS,23
+4669116,9/22/2018,FBS,Michigan,Nebraska,RUSHING,Dylan,McCaffrey,TD,0
+4669117,9/22/2018,FBS,Michigan,Nebraska,RUSHING,Dylan,McCaffrey,LONG,17
+4669118,9/22/2018,FBS,Michigan,Nebraska,RUSHING,O'Maury,Samuels,ATT,6
+4669119,9/22/2018,FBS,Michigan,Nebraska,RUSHING,O'Maury,Samuels,YDS,23
+4669120,9/22/2018,FBS,Michigan,Nebraska,RUSHING,O'Maury,Samuels,TD,0
+4669121,9/22/2018,FBS,Michigan,Nebraska,RUSHING,O'Maury,Samuels,LONG,9
+4669122,9/22/2018,FBS,Michigan,Nebraska,RUSHING,Ben,Mason,ATT,6
+4669123,9/22/2018,FBS,Michigan,Nebraska,RUSHING,Ben,Mason,YDS,18
+4669124,9/22/2018,FBS,Michigan,Nebraska,RUSHING,Ben,Mason,TD,3
+4669125,9/22/2018,FBS,Michigan,Nebraska,RUSHING,Ben,Mason,LONG,6
+4669126,9/22/2018,FBS,Michigan,Nebraska,RUSHING,Andrew,Vastardis,ATT,0
+4669127,9/22/2018,FBS,Michigan,Nebraska,RUSHING,Andrew,Vastardis,YDS,0
+4669128,9/22/2018,FBS,Michigan,Nebraska,RUSHING,Andrew,Vastardis,TD,0
+4669129,9/22/2018,FBS,Michigan,Nebraska,RUSHING,Andrew,Vastardis,LONG,0
+4669130,9/22/2018,FBS,Michigan,Nebraska,RUSHING,,Team,ATT,2
+4669131,9/22/2018,FBS,Michigan,Nebraska,RUSHING,,Team,YDS,-4
+4669132,9/22/2018,FBS,Michigan,Nebraska,RUSHING,,Team,TD,0
+4669133,9/22/2018,FBS,Michigan,Nebraska,RUSHING,,Team,LONG,-2
+4669134,9/22/2018,FBS,Michigan,Nebraska,RUSHING,Shea,Patterson,ATT,1
+4669135,9/22/2018,FBS,Michigan,Nebraska,RUSHING,Shea,Patterson,YDS,-9
+4669136,9/22/2018,FBS,Michigan,Nebraska,RUSHING,Shea,Patterson,TD,0
+4669137,9/22/2018,FBS,Michigan,Nebraska,RUSHING,Shea,Patterson,LONG,-9
+4669138,9/22/2018,FBS,Michigan,Nebraska,PASSING,Shea,Patterson,CP-ATT-INT,15-22-0
+4669139,9/22/2018,FBS,Michigan,Nebraska,PASSING,Shea,Patterson,YDS,120
+4669140,9/22/2018,FBS,Michigan,Nebraska,PASSING,Shea,Patterson,TD,1
+4669141,9/22/2018,FBS,Michigan,Nebraska,PASSING,Shea,Patterson,LONG,23
+4669142,9/22/2018,FBS,Michigan,Nebraska,PASSING,Dylan,McCaffrey,CP-ATT-INT,3-8-0
+4669143,9/22/2018,FBS,Michigan,Nebraska,PASSING,Dylan,McCaffrey,YDS,86
+4669144,9/22/2018,FBS,Michigan,Nebraska,PASSING,Dylan,McCaffrey,TD,1
+4669145,9/22/2018,FBS,Michigan,Nebraska,PASSING,Dylan,McCaffrey,LONG,56
+4669146,9/22/2018,FBS,Michigan,Nebraska,PASSING,Brandon,Peters,CP-ATT-INT,0-1-1
+4669147,9/22/2018,FBS,Michigan,Nebraska,PASSING,Brandon,Peters,YDS,0
+4669148,9/22/2018,FBS,Michigan,Nebraska,PASSING,Brandon,Peters,TD,0
+4669149,9/22/2018,FBS,Michigan,Nebraska,PASSING,Brandon,Peters,LONG,0
+4669150,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Ronnie,Bell,REC,1
+4669151,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Ronnie,Bell,YDS,56
+4669152,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Ronnie,Bell,TD,1
+4669153,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Ronnie,Bell,LONG,56
+4669154,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Zach,Gentry,REC,3
+4669155,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Zach,Gentry,YDS,32
+4669156,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Zach,Gentry,TD,1
+4669157,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Zach,Gentry,LONG,21
+4669158,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Sean,McKeon,REC,2
+4669159,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Sean,McKeon,YDS,29
+4669160,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Sean,McKeon,TD,0
+4669161,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Sean,McKeon,LONG,15
+4669162,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Nico,Collins,REC,2
+4669163,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Nico,Collins,YDS,28
+4669164,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Nico,Collins,TD,0
+4669165,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Nico,Collins,LONG,23
+4669166,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Oliver,Martin,REC,1
+4669167,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Oliver,Martin,YDS,15
+4669168,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Oliver,Martin,TD,0
+4669169,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Oliver,Martin,LONG,15
+4669170,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Jake,McCurry,REC,1
+4669171,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Jake,McCurry,YDS,15
+4669172,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Jake,McCurry,TD,0
+4669173,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Jake,McCurry,LONG,15
+4669174,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Donovan,Peoples-Jones,REC,1
+4669175,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Donovan,Peoples-Jones,YDS,10
+4669176,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Donovan,Peoples-Jones,TD,0
+4669177,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Donovan,Peoples-Jones,LONG,10
+4669178,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Tru,Wilson,REC,1
+4669179,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Tru,Wilson,YDS,9
+4669180,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Tru,Wilson,TD,0
+4669181,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Tru,Wilson,LONG,9
+4669182,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Karan,Higdon,REC,1
+4669183,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Karan,Higdon,YDS,7
+4669184,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Karan,Higdon,TD,0
+4669185,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Karan,Higdon,LONG,7
+4669186,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Grant,Perry,REC,4
+4669187,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Grant,Perry,YDS,5
+4669188,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Grant,Perry,TD,0
+4669189,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,Grant,Perry,LONG,9
+4669190,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,O'Maury,Samuels,REC,1
+4669191,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,O'Maury,Samuels,YDS,0
+4669192,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,O'Maury,Samuels,TD,0
+4669193,9/22/2018,FBS,Michigan,Nebraska,RECEIVING,O'Maury,Samuels,LONG,0
+4669194,9/22/2018,FBS,Michigan,Nebraska,KICKING,Quinn,Nordin,FG-FGA,2/2
+4669195,9/22/2018,FBS,Michigan,Nebraska,KICKING,Quinn,Nordin,LONG,50
+4669196,9/22/2018,FBS,Michigan,Nebraska,KICKING,Quinn,Nordin,XP,6
+4669197,9/22/2018,FBS,Michigan,Nebraska,KICKING,Quinn,Nordin,PTS,12
+4669198,9/22/2018,FBS,Michigan,Nebraska,PUNTING,Will,Hart,NO,3
+4669199,9/22/2018,FBS,Michigan,Nebraska,PUNTING,Will,Hart,YDS,178
+4669200,9/22/2018,FBS,Michigan,Nebraska,PUNTING,Will,Hart,AVG,59.3
+4669201,9/22/2018,FBS,Michigan,Nebraska,PUNTING,Will,Hart,LONG,64
+4669202,9/22/2018,FBS,Michigan,Nebraska,PUNT RETURNS,Donovan,Peoples-Jones,NO,3
+4669203,9/22/2018,FBS,Michigan,Nebraska,PUNT RETURNS,Donovan,Peoples-Jones,YDS,77
+4669204,9/22/2018,FBS,Michigan,Nebraska,PUNT RETURNS,Donovan,Peoples-Jones,AVG,25.7
+4669205,9/22/2018,FBS,Michigan,Nebraska,PUNT RETURNS,Donovan,Peoples-Jones,LONG,60
+4669206,9/22/2018,FBS,Michigan,Nebraska,PUNT RETURNS,Ronnie,Bell,NO,1
+4669207,9/22/2018,FBS,Michigan,Nebraska,PUNT RETURNS,Ronnie,Bell,YDS,7
+4669208,9/22/2018,FBS,Michigan,Nebraska,PUNT RETURNS,Ronnie,Bell,AVG,7.0
+4669209,9/22/2018,FBS,Michigan,Nebraska,PUNT RETURNS,Ronnie,Bell,LONG,7
+4669210,9/22/2018,FBS,Michigan,Nebraska,KICK RETURNS,Lavert,Hill,NO,1
+4669211,9/22/2018,FBS,Michigan,Nebraska,KICK RETURNS,Lavert,Hill,YDS,14
+4669212,9/22/2018,FBS,Michigan,Nebraska,KICK RETURNS,Lavert,Hill,AVG,14.0
+4669213,9/22/2018,FBS,Michigan,Nebraska,KICK RETURNS,Lavert,Hill,LONG,14
+4669214,9/22/2018,FBS,Michigan,Nebraska,KICK RETURNS,Ambry,Thomas,NO,1
+4669215,9/22/2018,FBS,Michigan,Nebraska,KICK RETURNS,Ambry,Thomas,YDS,13
+4669216,9/22/2018,FBS,Michigan,Nebraska,KICK RETURNS,Ambry,Thomas,AVG,13.0
+4669217,9/22/2018,FBS,Michigan,Nebraska,KICK RETURNS,Ambry,Thomas,LONG,13
+4669218,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Jordan,Glasgow,TOT,1
+4669219,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Jordan,Glasgow,SOLO,1
+4669220,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Jordan,Glasgow,SACKS,1.0
+4669221,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Jordan,Glasgow,TFL,1
+4669222,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Jordan,Glasgow,INT,0
+4669223,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Jordan,Glasgow,FF,0
+4669224,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Jordan,Glasgow,FR,0
+4669225,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Chase,Winovich,TOT,1
+4669226,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Chase,Winovich,SOLO,1
+4669227,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Chase,Winovich,SACKS,1.0
+4669228,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Chase,Winovich,TFL,1
+4669229,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Chase,Winovich,INT,0
+4669230,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Chase,Winovich,FF,0
+4669231,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Chase,Winovich,FR,0
+4669232,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Josh,Metellus,TOT,0
+4669233,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Josh,Metellus,SOLO,0
+4669234,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Josh,Metellus,SACKS,0.0
+4669235,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Josh,Metellus,TFL,0
+4669236,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Josh,Metellus,INT,1
+4669237,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Josh,Metellus,FF,0
+4669238,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Josh,Metellus,FR,0
+4669239,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Devin,Bush,TOT,1
+4669240,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Devin,Bush,SOLO,1
+4669241,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Devin,Bush,SACKS,1.0
+4669242,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Devin,Bush,TFL,1
+4669243,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Devin,Bush,INT,0
+4669244,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Devin,Bush,FF,0
+4669245,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Devin,Bush,FR,0
+4669246,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Dylan,McCaffrey,TOT,0
+4669247,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Dylan,McCaffrey,SOLO,0
+4669248,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Dylan,McCaffrey,SACKS,0.0
+4669249,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Dylan,McCaffrey,TFL,1
+4669250,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Dylan,McCaffrey,INT,0
+4669251,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Dylan,McCaffrey,FF,0
+4669252,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Dylan,McCaffrey,FR,0
+4669253,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Rashan,Gary,TOT,1
+4669254,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Rashan,Gary,SOLO,1
+4669255,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Rashan,Gary,SACKS,1.0
+4669256,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Rashan,Gary,TFL,1
+4669257,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Rashan,Gary,INT,0
+4669258,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Rashan,Gary,FF,0
+4669259,9/22/2018,FBS,Michigan,Nebraska,DEFENSE,Rashan,Gary,FR,0

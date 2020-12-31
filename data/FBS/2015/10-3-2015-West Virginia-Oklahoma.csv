@@ -1,0 +1,315 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2045001,10/3/2015,FBS,West Virginia,Oklahoma,RUSHING,Wendell,Smallwood,ATT,22
+2045002,10/3/2015,FBS,West Virginia,Oklahoma,RUSHING,Wendell,Smallwood,YDS,111
+2045003,10/3/2015,FBS,West Virginia,Oklahoma,RUSHING,Wendell,Smallwood,TD,0
+2045004,10/3/2015,FBS,West Virginia,Oklahoma,RUSHING,Wendell,Smallwood,LONG,21
+2045005,10/3/2015,FBS,West Virginia,Oklahoma,RUSHING,Rushel,Shell,ATT,20
+2045006,10/3/2015,FBS,West Virginia,Oklahoma,RUSHING,Rushel,Shell,YDS,72
+2045007,10/3/2015,FBS,West Virginia,Oklahoma,RUSHING,Rushel,Shell,TD,1
+2045008,10/3/2015,FBS,West Virginia,Oklahoma,RUSHING,Rushel,Shell,LONG,15
+2045009,10/3/2015,FBS,West Virginia,Oklahoma,RUSHING,Skyler,Howard,ATT,11
+2045010,10/3/2015,FBS,West Virginia,Oklahoma,RUSHING,Skyler,Howard,YDS,13
+2045011,10/3/2015,FBS,West Virginia,Oklahoma,RUSHING,Skyler,Howard,TD,1
+2045012,10/3/2015,FBS,West Virginia,Oklahoma,RUSHING,Skyler,Howard,LONG,50
+2045013,10/3/2015,FBS,West Virginia,Oklahoma,PASSING,Skyler,Howard,CP-ATT-INT,17-32-3
+2045014,10/3/2015,FBS,West Virginia,Oklahoma,PASSING,Skyler,Howard,YDS,173
+2045015,10/3/2015,FBS,West Virginia,Oklahoma,PASSING,Skyler,Howard,TD,1
+2045016,10/3/2015,FBS,West Virginia,Oklahoma,PASSING,Skyler,Howard,LONG,34
+2045017,10/3/2015,FBS,West Virginia,Oklahoma,RECEIVING,Jordan,Thompson,REC,3
+2045018,10/3/2015,FBS,West Virginia,Oklahoma,RECEIVING,Jordan,Thompson,YDS,46
+2045019,10/3/2015,FBS,West Virginia,Oklahoma,RECEIVING,Jordan,Thompson,TD,0
+2045020,10/3/2015,FBS,West Virginia,Oklahoma,RECEIVING,Jordan,Thompson,LONG,20
+2045021,10/3/2015,FBS,West Virginia,Oklahoma,RECEIVING,Jovon,Durante,REC,4
+2045022,10/3/2015,FBS,West Virginia,Oklahoma,RECEIVING,Jovon,Durante,YDS,44
+2045023,10/3/2015,FBS,West Virginia,Oklahoma,RECEIVING,Jovon,Durante,TD,1
+2045024,10/3/2015,FBS,West Virginia,Oklahoma,RECEIVING,Jovon,Durante,LONG,34
+2045025,10/3/2015,FBS,West Virginia,Oklahoma,RECEIVING,Shelton,Gibson,REC,3
+2045026,10/3/2015,FBS,West Virginia,Oklahoma,RECEIVING,Shelton,Gibson,YDS,35
+2045027,10/3/2015,FBS,West Virginia,Oklahoma,RECEIVING,Shelton,Gibson,TD,0
+2045028,10/3/2015,FBS,West Virginia,Oklahoma,RECEIVING,Shelton,Gibson,LONG,18
+2045029,10/3/2015,FBS,West Virginia,Oklahoma,RECEIVING,Devonte,Mathis,REC,2
+2045030,10/3/2015,FBS,West Virginia,Oklahoma,RECEIVING,Devonte,Mathis,YDS,23
+2045031,10/3/2015,FBS,West Virginia,Oklahoma,RECEIVING,Devonte,Mathis,TD,0
+2045032,10/3/2015,FBS,West Virginia,Oklahoma,RECEIVING,Devonte,Mathis,LONG,14
+2045033,10/3/2015,FBS,West Virginia,Oklahoma,RECEIVING,Daikiel,ShortsJr.,REC,2
+2045034,10/3/2015,FBS,West Virginia,Oklahoma,RECEIVING,Daikiel,ShortsJr.,YDS,17
+2045035,10/3/2015,FBS,West Virginia,Oklahoma,RECEIVING,Daikiel,ShortsJr.,TD,0
+2045036,10/3/2015,FBS,West Virginia,Oklahoma,RECEIVING,Daikiel,ShortsJr.,LONG,14
+2045037,10/3/2015,FBS,West Virginia,Oklahoma,RECEIVING,Wendell,Smallwood,REC,3
+2045038,10/3/2015,FBS,West Virginia,Oklahoma,RECEIVING,Wendell,Smallwood,YDS,8
+2045039,10/3/2015,FBS,West Virginia,Oklahoma,RECEIVING,Wendell,Smallwood,TD,0
+2045040,10/3/2015,FBS,West Virginia,Oklahoma,RECEIVING,Wendell,Smallwood,LONG,7
+2045041,10/3/2015,FBS,West Virginia,Oklahoma,KICKING,Josh,Lambert,FG-FGA,1/1
+2045042,10/3/2015,FBS,West Virginia,Oklahoma,KICKING,Josh,Lambert,LONG,23
+2045043,10/3/2015,FBS,West Virginia,Oklahoma,KICKING,Josh,Lambert,XP,3
+2045044,10/3/2015,FBS,West Virginia,Oklahoma,KICKING,Josh,Lambert,PTS,6
+2045045,10/3/2015,FBS,West Virginia,Oklahoma,PUNTING,Nick,O'Toole,NO,7
+2045046,10/3/2015,FBS,West Virginia,Oklahoma,PUNTING,Nick,O'Toole,YDS,326
+2045047,10/3/2015,FBS,West Virginia,Oklahoma,PUNTING,Nick,O'Toole,AVG,46.6
+2045048,10/3/2015,FBS,West Virginia,Oklahoma,PUNTING,Nick,O'Toole,LONG,60
+2045049,10/3/2015,FBS,West Virginia,Oklahoma,PUNT RETURNS,Gary,Jennings,NO,2
+2045050,10/3/2015,FBS,West Virginia,Oklahoma,PUNT RETURNS,Gary,Jennings,YDS,7
+2045051,10/3/2015,FBS,West Virginia,Oklahoma,PUNT RETURNS,Gary,Jennings,AVG,3.5
+2045052,10/3/2015,FBS,West Virginia,Oklahoma,PUNT RETURNS,Gary,Jennings,LONG,6
+2045053,10/3/2015,FBS,West Virginia,Oklahoma,PUNT RETURNS,KJ,Dillon,NO,1
+2045054,10/3/2015,FBS,West Virginia,Oklahoma,PUNT RETURNS,KJ,Dillon,YDS,-1
+2045055,10/3/2015,FBS,West Virginia,Oklahoma,PUNT RETURNS,KJ,Dillon,AVG,-
+2045056,10/3/2015,FBS,West Virginia,Oklahoma,PUNT RETURNS,KJ,Dillon,LONG,-1
+2045057,10/3/2015,FBS,West Virginia,Oklahoma,KICK RETURNS,Jovon,Durante,NO,1
+2045058,10/3/2015,FBS,West Virginia,Oklahoma,KICK RETURNS,Jovon,Durante,YDS,36
+2045059,10/3/2015,FBS,West Virginia,Oklahoma,KICK RETURNS,Jovon,Durante,AVG,36.0
+2045060,10/3/2015,FBS,West Virginia,Oklahoma,KICK RETURNS,Jovon,Durante,LONG,36
+2045061,10/3/2015,FBS,West Virginia,Oklahoma,KICK RETURNS,Shelton,Gibson,NO,2
+2045062,10/3/2015,FBS,West Virginia,Oklahoma,KICK RETURNS,Shelton,Gibson,YDS,30
+2045063,10/3/2015,FBS,West Virginia,Oklahoma,KICK RETURNS,Shelton,Gibson,AVG,15.0
+2045064,10/3/2015,FBS,West Virginia,Oklahoma,KICK RETURNS,Shelton,Gibson,LONG,20
+2045065,10/3/2015,FBS,West Virginia,Oklahoma,KICK RETURNS,Gary,Jennings,NO,1
+2045066,10/3/2015,FBS,West Virginia,Oklahoma,KICK RETURNS,Gary,Jennings,YDS,18
+2045067,10/3/2015,FBS,West Virginia,Oklahoma,KICK RETURNS,Gary,Jennings,AVG,18.0
+2045068,10/3/2015,FBS,West Virginia,Oklahoma,KICK RETURNS,Gary,Jennings,LONG,18
+2045069,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Noble,Nwachukwu,TOT,4
+2045070,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Noble,Nwachukwu,SOLO,1
+2045071,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Noble,Nwachukwu,SACKS,0.5
+2045072,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Noble,Nwachukwu,TFL,0
+2045073,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Noble,Nwachukwu,INT,0
+2045074,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Noble,Nwachukwu,FF,0
+2045075,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Noble,Nwachukwu,FR,0
+2045076,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Kyle,Rose,TOT,2
+2045077,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Kyle,Rose,SOLO,2
+2045078,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Kyle,Rose,SACKS,0.0
+2045079,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Kyle,Rose,TFL,0
+2045080,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Kyle,Rose,INT,0
+2045081,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Kyle,Rose,FF,0
+2045082,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Kyle,Rose,FR,0
+2045083,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Darrien,Howard,TOT,1
+2045084,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Darrien,Howard,SOLO,1
+2045085,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Darrien,Howard,SACKS,0.0
+2045086,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Darrien,Howard,TFL,1
+2045087,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Darrien,Howard,INT,0
+2045088,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Darrien,Howard,FF,0
+2045089,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Darrien,Howard,FR,0
+2045090,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Eric,Kinsey,TOT,3
+2045091,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Eric,Kinsey,SOLO,1
+2045092,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Eric,Kinsey,SACKS,0.0
+2045093,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Eric,Kinsey,TFL,0
+2045094,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Eric,Kinsey,INT,0
+2045095,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Eric,Kinsey,FF,0
+2045096,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Eric,Kinsey,FR,0
+2045097,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Jared,Barber,TOT,5
+2045098,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Jared,Barber,SOLO,2
+2045099,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Jared,Barber,SACKS,0.5
+2045100,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Jared,Barber,TFL,0
+2045101,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Jared,Barber,INT,0
+2045102,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Jared,Barber,FF,0
+2045103,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Jared,Barber,FR,0
+2045104,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Shaq,Petteway,TOT,5
+2045105,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Shaq,Petteway,SOLO,5
+2045106,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Shaq,Petteway,SACKS,1.0
+2045107,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Shaq,Petteway,TFL,2
+2045108,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Shaq,Petteway,INT,0
+2045109,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Shaq,Petteway,FF,0
+2045110,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Shaq,Petteway,FR,0
+2045111,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Nick,Kwiatkoski,TOT,11
+2045112,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Nick,Kwiatkoski,SOLO,7
+2045113,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Nick,Kwiatkoski,SACKS,1.0
+2045114,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Nick,Kwiatkoski,TFL,0
+2045115,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Nick,Kwiatkoski,INT,0
+2045116,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Nick,Kwiatkoski,FF,0
+2045117,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Nick,Kwiatkoski,FR,1
+2045118,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,KJ,Dillon,TOT,7
+2045119,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,KJ,Dillon,SOLO,5
+2045120,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,KJ,Dillon,SACKS,0.0
+2045121,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,KJ,Dillon,TFL,0
+2045122,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,KJ,Dillon,INT,0
+2045123,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,KJ,Dillon,FF,0
+2045124,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,KJ,Dillon,FR,0
+2045125,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Karl,Joseph,TOT,4
+2045126,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Karl,Joseph,SOLO,4
+2045127,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Karl,Joseph,SACKS,1.0
+2045128,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Karl,Joseph,TFL,1
+2045129,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Karl,Joseph,INT,1
+2045130,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Karl,Joseph,FF,0
+2045131,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Karl,Joseph,FR,0
+2045132,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Daryl,Worley,TOT,5
+2045133,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Daryl,Worley,SOLO,5
+2045134,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Daryl,Worley,SACKS,0.0
+2045135,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Daryl,Worley,TFL,0
+2045136,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Daryl,Worley,INT,0
+2045137,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Daryl,Worley,FF,1
+2045138,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Daryl,Worley,FR,0
+2045139,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Dravon,Askew-Henry,TOT,3
+2045140,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Dravon,Askew-Henry,SOLO,3
+2045141,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Dravon,Askew-Henry,SACKS,0.0
+2045142,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Dravon,Askew-Henry,TFL,0
+2045143,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Dravon,Askew-Henry,INT,0
+2045144,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Dravon,Askew-Henry,FF,0
+2045145,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Dravon,Askew-Henry,FR,0
+2045146,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Xavier,Preston,TOT,1
+2045147,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Xavier,Preston,SOLO,1
+2045148,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Xavier,Preston,SACKS,0.0
+2045149,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Xavier,Preston,TFL,0
+2045150,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Xavier,Preston,INT,0
+2045151,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Xavier,Preston,FF,0
+2045152,10/3/2015,FBS,West Virginia,Oklahoma,DEFENSE,Xavier,Preston,FR,0
+2045153,10/3/2015,FBS,Oklahoma,West Virginia,RUSHING,Samaje,Perine,ATT,16
+2045154,10/3/2015,FBS,Oklahoma,West Virginia,RUSHING,Samaje,Perine,YDS,65
+2045155,10/3/2015,FBS,Oklahoma,West Virginia,RUSHING,Samaje,Perine,TD,0
+2045156,10/3/2015,FBS,Oklahoma,West Virginia,RUSHING,Samaje,Perine,LONG,12
+2045157,10/3/2015,FBS,Oklahoma,West Virginia,RUSHING,Joe,Mixon,ATT,6
+2045158,10/3/2015,FBS,Oklahoma,West Virginia,RUSHING,Joe,Mixon,YDS,43
+2045159,10/3/2015,FBS,Oklahoma,West Virginia,RUSHING,Joe,Mixon,TD,1
+2045160,10/3/2015,FBS,Oklahoma,West Virginia,RUSHING,Joe,Mixon,LONG,35
+2045161,10/3/2015,FBS,Oklahoma,West Virginia,RUSHING,Baker,Mayfield,ATT,11
+2045162,10/3/2015,FBS,Oklahoma,West Virginia,RUSHING,Baker,Mayfield,YDS,-1
+2045163,10/3/2015,FBS,Oklahoma,West Virginia,RUSHING,Baker,Mayfield,TD,0
+2045164,10/3/2015,FBS,Oklahoma,West Virginia,RUSHING,Baker,Mayfield,LONG,9
+2045165,10/3/2015,FBS,Oklahoma,West Virginia,PASSING,Baker,Mayfield,CP-ATT-INT,14-25-1
+2045166,10/3/2015,FBS,Oklahoma,West Virginia,PASSING,Baker,Mayfield,YDS,320
+2045167,10/3/2015,FBS,Oklahoma,West Virginia,PASSING,Baker,Mayfield,TD,3
+2045168,10/3/2015,FBS,Oklahoma,West Virginia,PASSING,Baker,Mayfield,LONG,71
+2045169,10/3/2015,FBS,Oklahoma,West Virginia,RECEIVING,Dede,Westbrook,REC,5
+2045170,10/3/2015,FBS,Oklahoma,West Virginia,RECEIVING,Dede,Westbrook,YDS,107
+2045171,10/3/2015,FBS,Oklahoma,West Virginia,RECEIVING,Dede,Westbrook,TD,0
+2045172,10/3/2015,FBS,Oklahoma,West Virginia,RECEIVING,Dede,Westbrook,LONG,42
+2045173,10/3/2015,FBS,Oklahoma,West Virginia,RECEIVING,Durron,Neal,REC,2
+2045174,10/3/2015,FBS,Oklahoma,West Virginia,RECEIVING,Durron,Neal,YDS,87
+2045175,10/3/2015,FBS,Oklahoma,West Virginia,RECEIVING,Durron,Neal,TD,1
+2045176,10/3/2015,FBS,Oklahoma,West Virginia,RECEIVING,Durron,Neal,LONG,71
+2045177,10/3/2015,FBS,Oklahoma,West Virginia,RECEIVING,Michiah,Quick,REC,3
+2045178,10/3/2015,FBS,Oklahoma,West Virginia,RECEIVING,Michiah,Quick,YDS,69
+2045179,10/3/2015,FBS,Oklahoma,West Virginia,RECEIVING,Michiah,Quick,TD,0
+2045180,10/3/2015,FBS,Oklahoma,West Virginia,RECEIVING,Michiah,Quick,LONG,34
+2045181,10/3/2015,FBS,Oklahoma,West Virginia,RECEIVING,Sterling,Shepard,REC,2
+2045182,10/3/2015,FBS,Oklahoma,West Virginia,RECEIVING,Sterling,Shepard,YDS,35
+2045183,10/3/2015,FBS,Oklahoma,West Virginia,RECEIVING,Sterling,Shepard,TD,1
+2045184,10/3/2015,FBS,Oklahoma,West Virginia,RECEIVING,Sterling,Shepard,LONG,28
+2045185,10/3/2015,FBS,Oklahoma,West Virginia,RECEIVING,Mark,Andrews,REC,1
+2045186,10/3/2015,FBS,Oklahoma,West Virginia,RECEIVING,Mark,Andrews,YDS,17
+2045187,10/3/2015,FBS,Oklahoma,West Virginia,RECEIVING,Mark,Andrews,TD,1
+2045188,10/3/2015,FBS,Oklahoma,West Virginia,RECEIVING,Mark,Andrews,LONG,17
+2045189,10/3/2015,FBS,Oklahoma,West Virginia,RECEIVING,Samaje,Perine,REC,1
+2045190,10/3/2015,FBS,Oklahoma,West Virginia,RECEIVING,Samaje,Perine,YDS,5
+2045191,10/3/2015,FBS,Oklahoma,West Virginia,RECEIVING,Samaje,Perine,TD,0
+2045192,10/3/2015,FBS,Oklahoma,West Virginia,RECEIVING,Samaje,Perine,LONG,5
+2045193,10/3/2015,FBS,Oklahoma,West Virginia,KICKING,Austin,Seibert,FG-FGA,3/3
+2045194,10/3/2015,FBS,Oklahoma,West Virginia,KICKING,Austin,Seibert,LONG,44
+2045195,10/3/2015,FBS,Oklahoma,West Virginia,KICKING,Austin,Seibert,XP,5
+2045196,10/3/2015,FBS,Oklahoma,West Virginia,KICKING,Austin,Seibert,PTS,14
+2045197,10/3/2015,FBS,Oklahoma,West Virginia,PUNTING,Austin,Seibert,NO,5
+2045198,10/3/2015,FBS,Oklahoma,West Virginia,PUNTING,Austin,Seibert,YDS,217
+2045199,10/3/2015,FBS,Oklahoma,West Virginia,PUNTING,Austin,Seibert,AVG,43.4
+2045200,10/3/2015,FBS,Oklahoma,West Virginia,PUNTING,Austin,Seibert,LONG,58
+2045201,10/3/2015,FBS,Oklahoma,West Virginia,PUNT RETURNS,Sterling,Shepard,NO,2
+2045202,10/3/2015,FBS,Oklahoma,West Virginia,PUNT RETURNS,Sterling,Shepard,YDS,36
+2045203,10/3/2015,FBS,Oklahoma,West Virginia,PUNT RETURNS,Sterling,Shepard,AVG,18.0
+2045204,10/3/2015,FBS,Oklahoma,West Virginia,PUNT RETURNS,Sterling,Shepard,LONG,27
+2045205,10/3/2015,FBS,Oklahoma,West Virginia,PUNT RETURNS,Anthony,Sheppard,NO,0
+2045206,10/3/2015,FBS,Oklahoma,West Virginia,PUNT RETURNS,Anthony,Sheppard,YDS,0
+2045207,10/3/2015,FBS,Oklahoma,West Virginia,PUNT RETURNS,Anthony,Sheppard,AVG,-
+2045208,10/3/2015,FBS,Oklahoma,West Virginia,PUNT RETURNS,Anthony,Sheppard,LONG,0
+2045209,10/3/2015,FBS,Oklahoma,West Virginia,KICK RETURNS,Durron,Neal,NO,1
+2045210,10/3/2015,FBS,Oklahoma,West Virginia,KICK RETURNS,Durron,Neal,YDS,14
+2045211,10/3/2015,FBS,Oklahoma,West Virginia,KICK RETURNS,Durron,Neal,AVG,14.0
+2045212,10/3/2015,FBS,Oklahoma,West Virginia,KICK RETURNS,Durron,Neal,LONG,14
+2045213,10/3/2015,FBS,Oklahoma,West Virginia,KICK RETURNS,Alex,Ross,NO,1
+2045214,10/3/2015,FBS,Oklahoma,West Virginia,KICK RETURNS,Alex,Ross,YDS,10
+2045215,10/3/2015,FBS,Oklahoma,West Virginia,KICK RETURNS,Alex,Ross,AVG,10.0
+2045216,10/3/2015,FBS,Oklahoma,West Virginia,KICK RETURNS,Alex,Ross,LONG,10
+2045217,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Charles,Walker,TOT,2
+2045218,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Charles,Walker,SOLO,2
+2045219,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Charles,Walker,SACKS,0.0
+2045220,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Charles,Walker,TFL,0
+2045221,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Charles,Walker,INT,0
+2045222,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Charles,Walker,FF,0
+2045223,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Charles,Walker,FR,0
+2045224,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Matt,Dimon,TOT,8
+2045225,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Matt,Dimon,SOLO,5
+2045226,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Matt,Dimon,SACKS,1.0
+2045227,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Matt,Dimon,TFL,1
+2045228,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Matt,Dimon,INT,0
+2045229,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Matt,Dimon,FF,1
+2045230,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Matt,Dimon,FR,0
+2045231,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Charles,Tapper,TOT,8
+2045232,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Charles,Tapper,SOLO,7
+2045233,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Charles,Tapper,SACKS,0.0
+2045234,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Charles,Tapper,TFL,1
+2045235,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Charles,Tapper,INT,0
+2045236,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Charles,Tapper,FF,0
+2045237,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Charles,Tapper,FR,0
+2045238,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,D.J.,Ward,TOT,2
+2045239,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,D.J.,Ward,SOLO,2
+2045240,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,D.J.,Ward,SACKS,0.0
+2045241,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,D.J.,Ward,TFL,0
+2045242,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,D.J.,Ward,INT,0
+2045243,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,D.J.,Ward,FF,0
+2045244,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,D.J.,Ward,FR,1
+2045245,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,P.L.,Lindley,TOT,1
+2045246,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,P.L.,Lindley,SOLO,1
+2045247,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,P.L.,Lindley,SACKS,0.0
+2045248,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,P.L.,Lindley,TFL,0
+2045249,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,P.L.,Lindley,INT,0
+2045250,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,P.L.,Lindley,FF,0
+2045251,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,P.L.,Lindley,FR,0
+2045252,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Jordan,Evans,TOT,7
+2045253,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Jordan,Evans,SOLO,6
+2045254,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Jordan,Evans,SACKS,1.0
+2045255,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Jordan,Evans,TFL,2
+2045256,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Jordan,Evans,INT,0
+2045257,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Jordan,Evans,FF,0
+2045258,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Jordan,Evans,FR,1
+2045259,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Devante,Bond,TOT,6
+2045260,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Devante,Bond,SOLO,4
+2045261,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Devante,Bond,SACKS,0.0
+2045262,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Devante,Bond,TFL,1
+2045263,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Devante,Bond,INT,0
+2045264,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Devante,Bond,FF,0
+2045265,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Devante,Bond,FR,0
+2045266,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Eric,Striker,TOT,10
+2045267,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Eric,Striker,SOLO,10
+2045268,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Eric,Striker,SACKS,2.0
+2045269,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Eric,Striker,TFL,4
+2045270,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Eric,Striker,INT,0
+2045271,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Eric,Striker,FF,1
+2045272,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Eric,Striker,FR,0
+2045273,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Zack,Sanchez,TOT,8
+2045274,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Zack,Sanchez,SOLO,7
+2045275,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Zack,Sanchez,SACKS,0.5
+2045276,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Zack,Sanchez,TFL,0
+2045277,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Zack,Sanchez,INT,0
+2045278,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Zack,Sanchez,FF,0
+2045279,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Zack,Sanchez,FR,0
+2045280,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Ahmad,Thomas,TOT,6
+2045281,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Ahmad,Thomas,SOLO,5
+2045282,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Ahmad,Thomas,SACKS,1.0
+2045283,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Ahmad,Thomas,TFL,1
+2045284,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Ahmad,Thomas,INT,1
+2045285,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Ahmad,Thomas,FF,0
+2045286,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Ahmad,Thomas,FR,0
+2045287,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Steven,Parker,TOT,4
+2045288,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Steven,Parker,SOLO,4
+2045289,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Steven,Parker,SACKS,1.0
+2045290,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Steven,Parker,TFL,1
+2045291,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Steven,Parker,INT,0
+2045292,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Steven,Parker,FF,0
+2045293,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Steven,Parker,FR,0
+2045294,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Jordan,Thomas,TOT,2
+2045295,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Jordan,Thomas,SOLO,2
+2045296,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Jordan,Thomas,SACKS,0.0
+2045297,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Jordan,Thomas,TFL,0
+2045298,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Jordan,Thomas,INT,2
+2045299,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Jordan,Thomas,FF,0
+2045300,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Jordan,Thomas,FR,0
+2045301,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Hatari,Byrd,TOT,2
+2045302,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Hatari,Byrd,SOLO,2
+2045303,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Hatari,Byrd,SACKS,0.0
+2045304,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Hatari,Byrd,TFL,0
+2045305,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Hatari,Byrd,INT,0
+2045306,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Hatari,Byrd,FF,0
+2045307,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Hatari,Byrd,FR,0
+2045308,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Dominique,Alexander,TOT,8
+2045309,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Dominique,Alexander,SOLO,7
+2045310,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Dominique,Alexander,SACKS,0.5
+2045311,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Dominique,Alexander,TFL,1
+2045312,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Dominique,Alexander,INT,0
+2045313,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Dominique,Alexander,FF,0
+2045314,10/3/2015,FBS,Oklahoma,West Virginia,DEFENSE,Dominique,Alexander,FR,0

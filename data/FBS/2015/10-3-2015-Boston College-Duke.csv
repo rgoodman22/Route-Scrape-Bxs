@@ -1,0 +1,157 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2082001,10/3/2015,FBS,Boston College,Duke,RUSHING,Jeff,Smith,ATT,11
+2082002,10/3/2015,FBS,Boston College,Duke,RUSHING,Jeff,Smith,YDS,60
+2082003,10/3/2015,FBS,Boston College,Duke,RUSHING,Jeff,Smith,TD,0
+2082004,10/3/2015,FBS,Boston College,Duke,RUSHING,Jeff,Smith,LONG,16
+2082005,10/3/2015,FBS,Boston College,Duke,RUSHING,Tyler,Rouse,ATT,13
+2082006,10/3/2015,FBS,Boston College,Duke,RUSHING,Tyler,Rouse,YDS,45
+2082007,10/3/2015,FBS,Boston College,Duke,RUSHING,Tyler,Rouse,TD,0
+2082008,10/3/2015,FBS,Boston College,Duke,RUSHING,Tyler,Rouse,LONG,25
+2082009,10/3/2015,FBS,Boston College,Duke,RUSHING,Marcus,Outlow,ATT,11
+2082010,10/3/2015,FBS,Boston College,Duke,RUSHING,Marcus,Outlow,YDS,38
+2082011,10/3/2015,FBS,Boston College,Duke,RUSHING,Marcus,Outlow,TD,0
+2082012,10/3/2015,FBS,Boston College,Duke,RUSHING,Marcus,Outlow,LONG,15
+2082013,10/3/2015,FBS,Boston College,Duke,RUSHING,Sherman,Alston,ATT,2
+2082014,10/3/2015,FBS,Boston College,Duke,RUSHING,Sherman,Alston,YDS,17
+2082015,10/3/2015,FBS,Boston College,Duke,RUSHING,Sherman,Alston,TD,0
+2082016,10/3/2015,FBS,Boston College,Duke,RUSHING,Sherman,Alston,LONG,12
+2082017,10/3/2015,FBS,Boston College,Duke,RUSHING,Troy,Flutie,ATT,3
+2082018,10/3/2015,FBS,Boston College,Duke,RUSHING,Troy,Flutie,YDS,10
+2082019,10/3/2015,FBS,Boston College,Duke,RUSHING,Troy,Flutie,TD,0
+2082020,10/3/2015,FBS,Boston College,Duke,RUSHING,Troy,Flutie,LONG,8
+2082021,10/3/2015,FBS,Boston College,Duke,RUSHING,,Team,ATT,1
+2082022,10/3/2015,FBS,Boston College,Duke,RUSHING,,Team,YDS,-6
+2082023,10/3/2015,FBS,Boston College,Duke,RUSHING,,Team,TD,0
+2082024,10/3/2015,FBS,Boston College,Duke,RUSHING,,Team,LONG,-6
+2082025,10/3/2015,FBS,Boston College,Duke,PASSING,Troy,Flutie,CP-ATT-INT,5-8-0
+2082026,10/3/2015,FBS,Boston College,Duke,PASSING,Troy,Flutie,YDS,129
+2082027,10/3/2015,FBS,Boston College,Duke,PASSING,Troy,Flutie,TD,1
+2082028,10/3/2015,FBS,Boston College,Duke,PASSING,Troy,Flutie,LONG,66
+2082029,10/3/2015,FBS,Boston College,Duke,PASSING,Jeff,Smith,CP-ATT-INT,3-13-0
+2082030,10/3/2015,FBS,Boston College,Duke,PASSING,Jeff,Smith,YDS,12
+2082031,10/3/2015,FBS,Boston College,Duke,PASSING,Jeff,Smith,TD,0
+2082032,10/3/2015,FBS,Boston College,Duke,PASSING,Jeff,Smith,LONG,8
+2082033,10/3/2015,FBS,Boston College,Duke,RECEIVING,Thadd,Smith,REC,2
+2082034,10/3/2015,FBS,Boston College,Duke,RECEIVING,Thadd,Smith,YDS,99
+2082035,10/3/2015,FBS,Boston College,Duke,RECEIVING,Thadd,Smith,TD,1
+2082036,10/3/2015,FBS,Boston College,Duke,RECEIVING,Thadd,Smith,LONG,66
+2082037,10/3/2015,FBS,Boston College,Duke,RECEIVING,Charlie,Callinan,REC,2
+2082038,10/3/2015,FBS,Boston College,Duke,RECEIVING,Charlie,Callinan,YDS,21
+2082039,10/3/2015,FBS,Boston College,Duke,RECEIVING,Charlie,Callinan,TD,0
+2082040,10/3/2015,FBS,Boston College,Duke,RECEIVING,Charlie,Callinan,LONG,16
+2082041,10/3/2015,FBS,Boston College,Duke,RECEIVING,Bobby,Wolford,REC,2
+2082042,10/3/2015,FBS,Boston College,Duke,RECEIVING,Bobby,Wolford,YDS,14
+2082043,10/3/2015,FBS,Boston College,Duke,RECEIVING,Bobby,Wolford,TD,0
+2082044,10/3/2015,FBS,Boston College,Duke,RECEIVING,Bobby,Wolford,LONG,10
+2082045,10/3/2015,FBS,Boston College,Duke,RECEIVING,Elijah,Robinson,REC,1
+2082046,10/3/2015,FBS,Boston College,Duke,RECEIVING,Elijah,Robinson,YDS,8
+2082047,10/3/2015,FBS,Boston College,Duke,RECEIVING,Elijah,Robinson,TD,0
+2082048,10/3/2015,FBS,Boston College,Duke,RECEIVING,Elijah,Robinson,LONG,8
+2082049,10/3/2015,FBS,Boston College,Duke,RECEIVING,David,Dudeck,REC,1
+2082050,10/3/2015,FBS,Boston College,Duke,RECEIVING,David,Dudeck,YDS,-1
+2082051,10/3/2015,FBS,Boston College,Duke,RECEIVING,David,Dudeck,TD,0
+2082052,10/3/2015,FBS,Boston College,Duke,RECEIVING,David,Dudeck,LONG,0
+2082053,10/3/2015,FBS,Boston College,Duke,KICKING,Colton,Lichtenberg,FG-FGA,0/1
+2082054,10/3/2015,FBS,Boston College,Duke,KICKING,Colton,Lichtenberg,LONG,0
+2082055,10/3/2015,FBS,Boston College,Duke,KICKING,Colton,Lichtenberg,XP,1
+2082056,10/3/2015,FBS,Boston College,Duke,KICKING,Colton,Lichtenberg,PTS,1
+2082057,10/3/2015,FBS,Boston College,Duke,PUNTING,Alex,Howell,NO,8
+2082058,10/3/2015,FBS,Boston College,Duke,PUNTING,Alex,Howell,YDS,341
+2082059,10/3/2015,FBS,Boston College,Duke,PUNTING,Alex,Howell,AVG,42.6
+2082060,10/3/2015,FBS,Boston College,Duke,PUNTING,Alex,Howell,LONG,52
+2082061,10/3/2015,FBS,Boston College,Duke,PUNT RETURNS,Sherman,Alston,NO,1
+2082062,10/3/2015,FBS,Boston College,Duke,PUNT RETURNS,Sherman,Alston,YDS,8
+2082063,10/3/2015,FBS,Boston College,Duke,PUNT RETURNS,Sherman,Alston,AVG,8.0
+2082064,10/3/2015,FBS,Boston College,Duke,PUNT RETURNS,Sherman,Alston,LONG,8
+2082065,10/3/2015,FBS,Boston College,Duke,PUNT RETURNS,Connor,Strachan,NO,1
+2082066,10/3/2015,FBS,Boston College,Duke,PUNT RETURNS,Connor,Strachan,YDS,2
+2082067,10/3/2015,FBS,Boston College,Duke,PUNT RETURNS,Connor,Strachan,AVG,2.0
+2082068,10/3/2015,FBS,Boston College,Duke,PUNT RETURNS,Connor,Strachan,LONG,2
+2082069,10/3/2015,FBS,Boston College,Duke,KICK RETURNS,Michael,Walker,NO,2
+2082070,10/3/2015,FBS,Boston College,Duke,KICK RETURNS,Michael,Walker,YDS,43
+2082071,10/3/2015,FBS,Boston College,Duke,KICK RETURNS,Michael,Walker,AVG,21.5
+2082072,10/3/2015,FBS,Boston College,Duke,KICK RETURNS,Michael,Walker,LONG,23
+2082073,10/3/2015,FBS,Boston College,Duke,KICK RETURNS,David,Dudeck,NO,1
+2082074,10/3/2015,FBS,Boston College,Duke,KICK RETURNS,David,Dudeck,YDS,3
+2082075,10/3/2015,FBS,Boston College,Duke,KICK RETURNS,David,Dudeck,AVG,3.0
+2082076,10/3/2015,FBS,Boston College,Duke,KICK RETURNS,David,Dudeck,LONG,3
+2082077,10/3/2015,FBS,Duke,Boston College,RUSHING,Shaquille,Powell,ATT,14
+2082078,10/3/2015,FBS,Duke,Boston College,RUSHING,Shaquille,Powell,YDS,18
+2082079,10/3/2015,FBS,Duke,Boston College,RUSHING,Shaquille,Powell,TD,0
+2082080,10/3/2015,FBS,Duke,Boston College,RUSHING,Shaquille,Powell,LONG,8
+2082081,10/3/2015,FBS,Duke,Boston College,RUSHING,Jela,Duncan,ATT,4
+2082082,10/3/2015,FBS,Duke,Boston College,RUSHING,Jela,Duncan,YDS,13
+2082083,10/3/2015,FBS,Duke,Boston College,RUSHING,Jela,Duncan,TD,0
+2082084,10/3/2015,FBS,Duke,Boston College,RUSHING,Jela,Duncan,LONG,12
+2082085,10/3/2015,FBS,Duke,Boston College,RUSHING,Shaun,Wilson,ATT,4
+2082086,10/3/2015,FBS,Duke,Boston College,RUSHING,Shaun,Wilson,YDS,8
+2082087,10/3/2015,FBS,Duke,Boston College,RUSHING,Shaun,Wilson,TD,0
+2082088,10/3/2015,FBS,Duke,Boston College,RUSHING,Shaun,Wilson,LONG,3
+2082089,10/3/2015,FBS,Duke,Boston College,RUSHING,Thomas,Sirk,ATT,9
+2082090,10/3/2015,FBS,Duke,Boston College,RUSHING,Thomas,Sirk,YDS,5
+2082091,10/3/2015,FBS,Duke,Boston College,RUSHING,Thomas,Sirk,TD,0
+2082092,10/3/2015,FBS,Duke,Boston College,RUSHING,Thomas,Sirk,LONG,11
+2082093,10/3/2015,FBS,Duke,Boston College,RUSHING,,Team,ATT,4
+2082094,10/3/2015,FBS,Duke,Boston College,RUSHING,,Team,YDS,-11
+2082095,10/3/2015,FBS,Duke,Boston College,RUSHING,,Team,TD,0
+2082096,10/3/2015,FBS,Duke,Boston College,RUSHING,,Team,LONG,-1
+2082097,10/3/2015,FBS,Duke,Boston College,PASSING,Thomas,Sirk,CP-ATT-INT,18-36-0
+2082098,10/3/2015,FBS,Duke,Boston College,PASSING,Thomas,Sirk,YDS,195
+2082099,10/3/2015,FBS,Duke,Boston College,PASSING,Thomas,Sirk,TD,0
+2082100,10/3/2015,FBS,Duke,Boston College,PASSING,Thomas,Sirk,LONG,29
+2082101,10/3/2015,FBS,Duke,Boston College,RECEIVING,T.J.,Rahming,REC,5
+2082102,10/3/2015,FBS,Duke,Boston College,RECEIVING,T.J.,Rahming,YDS,75
+2082103,10/3/2015,FBS,Duke,Boston College,RECEIVING,T.J.,Rahming,TD,0
+2082104,10/3/2015,FBS,Duke,Boston College,RECEIVING,T.J.,Rahming,LONG,29
+2082105,10/3/2015,FBS,Duke,Boston College,RECEIVING,Max,McCaffrey,REC,4
+2082106,10/3/2015,FBS,Duke,Boston College,RECEIVING,Max,McCaffrey,YDS,35
+2082107,10/3/2015,FBS,Duke,Boston College,RECEIVING,Max,McCaffrey,TD,0
+2082108,10/3/2015,FBS,Duke,Boston College,RECEIVING,Max,McCaffrey,LONG,19
+2082109,10/3/2015,FBS,Duke,Boston College,RECEIVING,Braxton,Deaver,REC,2
+2082110,10/3/2015,FBS,Duke,Boston College,RECEIVING,Braxton,Deaver,YDS,20
+2082111,10/3/2015,FBS,Duke,Boston College,RECEIVING,Braxton,Deaver,TD,0
+2082112,10/3/2015,FBS,Duke,Boston College,RECEIVING,Braxton,Deaver,LONG,11
+2082113,10/3/2015,FBS,Duke,Boston College,RECEIVING,Jela,Duncan,REC,1
+2082114,10/3/2015,FBS,Duke,Boston College,RECEIVING,Jela,Duncan,YDS,18
+2082115,10/3/2015,FBS,Duke,Boston College,RECEIVING,Jela,Duncan,TD,0
+2082116,10/3/2015,FBS,Duke,Boston College,RECEIVING,Jela,Duncan,LONG,18
+2082117,10/3/2015,FBS,Duke,Boston College,RECEIVING,Anthony,Nash,REC,2
+2082118,10/3/2015,FBS,Duke,Boston College,RECEIVING,Anthony,Nash,YDS,15
+2082119,10/3/2015,FBS,Duke,Boston College,RECEIVING,Anthony,Nash,TD,0
+2082120,10/3/2015,FBS,Duke,Boston College,RECEIVING,Anthony,Nash,LONG,9
+2082121,10/3/2015,FBS,Duke,Boston College,RECEIVING,Ryan,Smith,REC,1
+2082122,10/3/2015,FBS,Duke,Boston College,RECEIVING,Ryan,Smith,YDS,11
+2082123,10/3/2015,FBS,Duke,Boston College,RECEIVING,Ryan,Smith,TD,0
+2082124,10/3/2015,FBS,Duke,Boston College,RECEIVING,Ryan,Smith,LONG,11
+2082125,10/3/2015,FBS,Duke,Boston College,RECEIVING,David,Reeves,REC,1
+2082126,10/3/2015,FBS,Duke,Boston College,RECEIVING,David,Reeves,YDS,11
+2082127,10/3/2015,FBS,Duke,Boston College,RECEIVING,David,Reeves,TD,0
+2082128,10/3/2015,FBS,Duke,Boston College,RECEIVING,David,Reeves,LONG,11
+2082129,10/3/2015,FBS,Duke,Boston College,RECEIVING,Johnell,Barnes,REC,1
+2082130,10/3/2015,FBS,Duke,Boston College,RECEIVING,Johnell,Barnes,YDS,8
+2082131,10/3/2015,FBS,Duke,Boston College,RECEIVING,Johnell,Barnes,TD,0
+2082132,10/3/2015,FBS,Duke,Boston College,RECEIVING,Johnell,Barnes,LONG,8
+2082133,10/3/2015,FBS,Duke,Boston College,RECEIVING,Shaun,Wilson,REC,1
+2082134,10/3/2015,FBS,Duke,Boston College,RECEIVING,Shaun,Wilson,YDS,2
+2082135,10/3/2015,FBS,Duke,Boston College,RECEIVING,Shaun,Wilson,TD,0
+2082136,10/3/2015,FBS,Duke,Boston College,RECEIVING,Shaun,Wilson,LONG,2
+2082137,10/3/2015,FBS,Duke,Boston College,KICKING,Ross,Martin,FG-FGA,3/3
+2082138,10/3/2015,FBS,Duke,Boston College,KICKING,Ross,Martin,LONG,53
+2082139,10/3/2015,FBS,Duke,Boston College,KICKING,Ross,Martin,XP,0
+2082140,10/3/2015,FBS,Duke,Boston College,KICKING,Ross,Martin,PTS,9
+2082141,10/3/2015,FBS,Duke,Boston College,PUNTING,Will,Monday,NO,8
+2082142,10/3/2015,FBS,Duke,Boston College,PUNTING,Will,Monday,YDS,312
+2082143,10/3/2015,FBS,Duke,Boston College,PUNTING,Will,Monday,AVG,39.0
+2082144,10/3/2015,FBS,Duke,Boston College,PUNTING,Will,Monday,LONG,56
+2082145,10/3/2015,FBS,Duke,Boston College,PUNT RETURNS,Ryan,Smith,NO,2
+2082146,10/3/2015,FBS,Duke,Boston College,PUNT RETURNS,Ryan,Smith,YDS,18
+2082147,10/3/2015,FBS,Duke,Boston College,PUNT RETURNS,Ryan,Smith,AVG,9.0
+2082148,10/3/2015,FBS,Duke,Boston College,PUNT RETURNS,Ryan,Smith,LONG,9
+2082149,10/3/2015,FBS,Duke,Boston College,KICK RETURNS,Joseph,Ajeigbe,NO,1
+2082150,10/3/2015,FBS,Duke,Boston College,KICK RETURNS,Joseph,Ajeigbe,YDS,26
+2082151,10/3/2015,FBS,Duke,Boston College,KICK RETURNS,Joseph,Ajeigbe,AVG,26.0
+2082152,10/3/2015,FBS,Duke,Boston College,KICK RETURNS,Joseph,Ajeigbe,LONG,26
+2082153,10/3/2015,FBS,Duke,Boston College,KICK RETURNS,DeVon,Edwards,NO,1
+2082154,10/3/2015,FBS,Duke,Boston College,KICK RETURNS,DeVon,Edwards,YDS,9
+2082155,10/3/2015,FBS,Duke,Boston College,KICK RETURNS,DeVon,Edwards,AVG,9.0
+2082156,10/3/2015,FBS,Duke,Boston College,KICK RETURNS,DeVon,Edwards,LONG,9

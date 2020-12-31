@@ -1,0 +1,145 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3197001,10/29/2016,FBS,Tennessee,South Carolina,RUSHING,John,Kelly,ATT,14
+3197002,10/29/2016,FBS,Tennessee,South Carolina,RUSHING,John,Kelly,YDS,94
+3197003,10/29/2016,FBS,Tennessee,South Carolina,RUSHING,John,Kelly,TD,0
+3197004,10/29/2016,FBS,Tennessee,South Carolina,RUSHING,John,Kelly,LONG,34
+3197005,10/29/2016,FBS,Tennessee,South Carolina,RUSHING,Joshua,Dobbs,ATT,12
+3197006,10/29/2016,FBS,Tennessee,South Carolina,RUSHING,Joshua,Dobbs,YDS,27
+3197007,10/29/2016,FBS,Tennessee,South Carolina,RUSHING,Joshua,Dobbs,TD,0
+3197008,10/29/2016,FBS,Tennessee,South Carolina,RUSHING,Joshua,Dobbs,LONG,31
+3197009,10/29/2016,FBS,Tennessee,South Carolina,RUSHING,Jalen,Hurd,ATT,8
+3197010,10/29/2016,FBS,Tennessee,South Carolina,RUSHING,Jalen,Hurd,YDS,16
+3197011,10/29/2016,FBS,Tennessee,South Carolina,RUSHING,Jalen,Hurd,TD,1
+3197012,10/29/2016,FBS,Tennessee,South Carolina,RUSHING,Jalen,Hurd,LONG,5
+3197013,10/29/2016,FBS,Tennessee,South Carolina,RUSHING,Tyler,Byrd,ATT,1
+3197014,10/29/2016,FBS,Tennessee,South Carolina,RUSHING,Tyler,Byrd,YDS,8
+3197015,10/29/2016,FBS,Tennessee,South Carolina,RUSHING,Tyler,Byrd,TD,0
+3197016,10/29/2016,FBS,Tennessee,South Carolina,RUSHING,Tyler,Byrd,LONG,8
+3197017,10/29/2016,FBS,Tennessee,South Carolina,RUSHING,Evan,Berry,ATT,1
+3197018,10/29/2016,FBS,Tennessee,South Carolina,RUSHING,Evan,Berry,YDS,6
+3197019,10/29/2016,FBS,Tennessee,South Carolina,RUSHING,Evan,Berry,TD,0
+3197020,10/29/2016,FBS,Tennessee,South Carolina,RUSHING,Evan,Berry,LONG,6
+3197021,10/29/2016,FBS,Tennessee,South Carolina,RUSHING,,Team,ATT,1
+3197022,10/29/2016,FBS,Tennessee,South Carolina,RUSHING,,Team,YDS,-15
+3197023,10/29/2016,FBS,Tennessee,South Carolina,RUSHING,,Team,TD,0
+3197024,10/29/2016,FBS,Tennessee,South Carolina,RUSHING,,Team,LONG,-15
+3197025,10/29/2016,FBS,Tennessee,South Carolina,PASSING,Joshua,Dobbs,CP-ATT-INT,12-26-2
+3197026,10/29/2016,FBS,Tennessee,South Carolina,PASSING,Joshua,Dobbs,YDS,161
+3197027,10/29/2016,FBS,Tennessee,South Carolina,PASSING,Joshua,Dobbs,TD,1
+3197028,10/29/2016,FBS,Tennessee,South Carolina,PASSING,Joshua,Dobbs,LONG,25
+3197029,10/29/2016,FBS,Tennessee,South Carolina,PASSING,,Team,CP-ATT-INT,0-1-0
+3197030,10/29/2016,FBS,Tennessee,South Carolina,PASSING,,Team,YDS,0
+3197031,10/29/2016,FBS,Tennessee,South Carolina,PASSING,,Team,TD,0
+3197032,10/29/2016,FBS,Tennessee,South Carolina,PASSING,,Team,LONG,0
+3197033,10/29/2016,FBS,Tennessee,South Carolina,RECEIVING,Jauan,Jennings,REC,3
+3197034,10/29/2016,FBS,Tennessee,South Carolina,RECEIVING,Jauan,Jennings,YDS,54
+3197035,10/29/2016,FBS,Tennessee,South Carolina,RECEIVING,Jauan,Jennings,TD,1
+3197036,10/29/2016,FBS,Tennessee,South Carolina,RECEIVING,Jauan,Jennings,LONG,25
+3197037,10/29/2016,FBS,Tennessee,South Carolina,RECEIVING,Josh,Malone,REC,4
+3197038,10/29/2016,FBS,Tennessee,South Carolina,RECEIVING,Josh,Malone,YDS,42
+3197039,10/29/2016,FBS,Tennessee,South Carolina,RECEIVING,Josh,Malone,TD,0
+3197040,10/29/2016,FBS,Tennessee,South Carolina,RECEIVING,Josh,Malone,LONG,18
+3197041,10/29/2016,FBS,Tennessee,South Carolina,RECEIVING,Ethan,Wolf,REC,1
+3197042,10/29/2016,FBS,Tennessee,South Carolina,RECEIVING,Ethan,Wolf,YDS,25
+3197043,10/29/2016,FBS,Tennessee,South Carolina,RECEIVING,Ethan,Wolf,TD,0
+3197044,10/29/2016,FBS,Tennessee,South Carolina,RECEIVING,Ethan,Wolf,LONG,25
+3197045,10/29/2016,FBS,Tennessee,South Carolina,RECEIVING,Jason,Croom,REC,2
+3197046,10/29/2016,FBS,Tennessee,South Carolina,RECEIVING,Jason,Croom,YDS,22
+3197047,10/29/2016,FBS,Tennessee,South Carolina,RECEIVING,Jason,Croom,TD,0
+3197048,10/29/2016,FBS,Tennessee,South Carolina,RECEIVING,Jason,Croom,LONG,17
+3197049,10/29/2016,FBS,Tennessee,South Carolina,RECEIVING,John,Kelly,REC,1
+3197050,10/29/2016,FBS,Tennessee,South Carolina,RECEIVING,John,Kelly,YDS,17
+3197051,10/29/2016,FBS,Tennessee,South Carolina,RECEIVING,John,Kelly,TD,0
+3197052,10/29/2016,FBS,Tennessee,South Carolina,RECEIVING,John,Kelly,LONG,17
+3197053,10/29/2016,FBS,Tennessee,South Carolina,RECEIVING,Josh,Smith,REC,1
+3197054,10/29/2016,FBS,Tennessee,South Carolina,RECEIVING,Josh,Smith,YDS,1
+3197055,10/29/2016,FBS,Tennessee,South Carolina,RECEIVING,Josh,Smith,TD,0
+3197056,10/29/2016,FBS,Tennessee,South Carolina,RECEIVING,Josh,Smith,LONG,1
+3197057,10/29/2016,FBS,Tennessee,South Carolina,KICKING,Aaron,Medley,FG-FGA,0/1
+3197058,10/29/2016,FBS,Tennessee,South Carolina,KICKING,Aaron,Medley,LONG,0
+3197059,10/29/2016,FBS,Tennessee,South Carolina,KICKING,Aaron,Medley,XP,3
+3197060,10/29/2016,FBS,Tennessee,South Carolina,KICKING,Aaron,Medley,PTS,3
+3197061,10/29/2016,FBS,Tennessee,South Carolina,PUNTING,Trevor,Daniel,NO,6
+3197062,10/29/2016,FBS,Tennessee,South Carolina,PUNTING,Trevor,Daniel,YDS,294
+3197063,10/29/2016,FBS,Tennessee,South Carolina,PUNTING,Trevor,Daniel,AVG,49.0
+3197064,10/29/2016,FBS,Tennessee,South Carolina,PUNTING,Trevor,Daniel,LONG,70
+3197065,10/29/2016,FBS,Tennessee,South Carolina,PUNT RETURNS,Josh,Smith,NO,2
+3197066,10/29/2016,FBS,Tennessee,South Carolina,PUNT RETURNS,Josh,Smith,YDS,10
+3197067,10/29/2016,FBS,Tennessee,South Carolina,PUNT RETURNS,Josh,Smith,AVG,5.0
+3197068,10/29/2016,FBS,Tennessee,South Carolina,PUNT RETURNS,Josh,Smith,LONG,6
+3197069,10/29/2016,FBS,Tennessee,South Carolina,KICK RETURNS,Evan,Berry,NO,2
+3197070,10/29/2016,FBS,Tennessee,South Carolina,KICK RETURNS,Evan,Berry,YDS,126
+3197071,10/29/2016,FBS,Tennessee,South Carolina,KICK RETURNS,Evan,Berry,AVG,63.0
+3197072,10/29/2016,FBS,Tennessee,South Carolina,KICK RETURNS,Evan,Berry,LONG,100
+3197073,10/29/2016,FBS,Tennessee,South Carolina,KICK RETURNS,Josh,Malone,NO,1
+3197074,10/29/2016,FBS,Tennessee,South Carolina,KICK RETURNS,Josh,Malone,YDS,24
+3197075,10/29/2016,FBS,Tennessee,South Carolina,KICK RETURNS,Josh,Malone,AVG,24.0
+3197076,10/29/2016,FBS,Tennessee,South Carolina,KICK RETURNS,Josh,Malone,LONG,24
+3197077,10/29/2016,FBS,South Carolina,Tennessee,RUSHING,Rico,Dowdle,ATT,27
+3197078,10/29/2016,FBS,South Carolina,Tennessee,RUSHING,Rico,Dowdle,YDS,127
+3197079,10/29/2016,FBS,South Carolina,Tennessee,RUSHING,Rico,Dowdle,TD,1
+3197080,10/29/2016,FBS,South Carolina,Tennessee,RUSHING,Rico,Dowdle,LONG,40
+3197081,10/29/2016,FBS,South Carolina,Tennessee,RUSHING,A.J.,Turner,ATT,7
+3197082,10/29/2016,FBS,South Carolina,Tennessee,RUSHING,A.J.,Turner,YDS,28
+3197083,10/29/2016,FBS,South Carolina,Tennessee,RUSHING,A.J.,Turner,TD,0
+3197084,10/29/2016,FBS,South Carolina,Tennessee,RUSHING,A.J.,Turner,LONG,9
+3197085,10/29/2016,FBS,South Carolina,Tennessee,RUSHING,David,Williams,ATT,3
+3197086,10/29/2016,FBS,South Carolina,Tennessee,RUSHING,David,Williams,YDS,7
+3197087,10/29/2016,FBS,South Carolina,Tennessee,RUSHING,David,Williams,TD,0
+3197088,10/29/2016,FBS,South Carolina,Tennessee,RUSHING,David,Williams,LONG,5
+3197089,10/29/2016,FBS,South Carolina,Tennessee,RUSHING,Deebo,Samuel,ATT,1
+3197090,10/29/2016,FBS,South Carolina,Tennessee,RUSHING,Deebo,Samuel,YDS,6
+3197091,10/29/2016,FBS,South Carolina,Tennessee,RUSHING,Deebo,Samuel,TD,0
+3197092,10/29/2016,FBS,South Carolina,Tennessee,RUSHING,Deebo,Samuel,LONG,6
+3197093,10/29/2016,FBS,South Carolina,Tennessee,RUSHING,Brandon,McIlwain,ATT,1
+3197094,10/29/2016,FBS,South Carolina,Tennessee,RUSHING,Brandon,McIlwain,YDS,-1
+3197095,10/29/2016,FBS,South Carolina,Tennessee,RUSHING,Brandon,McIlwain,TD,0
+3197096,10/29/2016,FBS,South Carolina,Tennessee,RUSHING,Brandon,McIlwain,LONG,-1
+3197097,10/29/2016,FBS,South Carolina,Tennessee,RUSHING,Jake,Bentley,ATT,10
+3197098,10/29/2016,FBS,South Carolina,Tennessee,RUSHING,Jake,Bentley,YDS,-9
+3197099,10/29/2016,FBS,South Carolina,Tennessee,RUSHING,Jake,Bentley,TD,0
+3197100,10/29/2016,FBS,South Carolina,Tennessee,RUSHING,Jake,Bentley,LONG,16
+3197101,10/29/2016,FBS,South Carolina,Tennessee,PASSING,Jake,Bentley,CP-ATT-INT,15-20-0
+3197102,10/29/2016,FBS,South Carolina,Tennessee,PASSING,Jake,Bentley,YDS,167
+3197103,10/29/2016,FBS,South Carolina,Tennessee,PASSING,Jake,Bentley,TD,2
+3197104,10/29/2016,FBS,South Carolina,Tennessee,PASSING,Jake,Bentley,LONG,35
+3197105,10/29/2016,FBS,South Carolina,Tennessee,PASSING,Brandon,McIlwain,CP-ATT-INT,0-1-0
+3197106,10/29/2016,FBS,South Carolina,Tennessee,PASSING,Brandon,McIlwain,YDS,0
+3197107,10/29/2016,FBS,South Carolina,Tennessee,PASSING,Brandon,McIlwain,TD,0
+3197108,10/29/2016,FBS,South Carolina,Tennessee,PASSING,Brandon,McIlwain,LONG,0
+3197109,10/29/2016,FBS,South Carolina,Tennessee,RECEIVING,Deebo,Samuel,REC,8
+3197110,10/29/2016,FBS,South Carolina,Tennessee,RECEIVING,Deebo,Samuel,YDS,83
+3197111,10/29/2016,FBS,South Carolina,Tennessee,RECEIVING,Deebo,Samuel,TD,0
+3197112,10/29/2016,FBS,South Carolina,Tennessee,RECEIVING,Deebo,Samuel,LONG,22
+3197113,10/29/2016,FBS,South Carolina,Tennessee,RECEIVING,Bryan,Edwards,REC,4
+3197114,10/29/2016,FBS,South Carolina,Tennessee,RECEIVING,Bryan,Edwards,YDS,41
+3197115,10/29/2016,FBS,South Carolina,Tennessee,RECEIVING,Bryan,Edwards,TD,1
+3197116,10/29/2016,FBS,South Carolina,Tennessee,RECEIVING,Bryan,Edwards,LONG,17
+3197117,10/29/2016,FBS,South Carolina,Tennessee,RECEIVING,K.C.,Crosby,REC,1
+3197118,10/29/2016,FBS,South Carolina,Tennessee,RECEIVING,K.C.,Crosby,YDS,35
+3197119,10/29/2016,FBS,South Carolina,Tennessee,RECEIVING,K.C.,Crosby,TD,1
+3197120,10/29/2016,FBS,South Carolina,Tennessee,RECEIVING,K.C.,Crosby,LONG,35
+3197121,10/29/2016,FBS,South Carolina,Tennessee,RECEIVING,Hayden,Hurst,REC,1
+3197122,10/29/2016,FBS,South Carolina,Tennessee,RECEIVING,Hayden,Hurst,YDS,9
+3197123,10/29/2016,FBS,South Carolina,Tennessee,RECEIVING,Hayden,Hurst,TD,0
+3197124,10/29/2016,FBS,South Carolina,Tennessee,RECEIVING,Hayden,Hurst,LONG,9
+3197125,10/29/2016,FBS,South Carolina,Tennessee,RECEIVING,Rico,Dowdle,REC,1
+3197126,10/29/2016,FBS,South Carolina,Tennessee,RECEIVING,Rico,Dowdle,YDS,-1
+3197127,10/29/2016,FBS,South Carolina,Tennessee,RECEIVING,Rico,Dowdle,TD,0
+3197128,10/29/2016,FBS,South Carolina,Tennessee,RECEIVING,Rico,Dowdle,LONG,-1
+3197129,10/29/2016,FBS,South Carolina,Tennessee,KICKING,Elliott,Fry,FG-FGA,1/1
+3197130,10/29/2016,FBS,South Carolina,Tennessee,KICKING,Elliott,Fry,LONG,28
+3197131,10/29/2016,FBS,South Carolina,Tennessee,KICKING,Elliott,Fry,XP,3
+3197132,10/29/2016,FBS,South Carolina,Tennessee,KICKING,Elliott,Fry,PTS,6
+3197133,10/29/2016,FBS,South Carolina,Tennessee,PUNTING,Sean,Kelly,NO,9
+3197134,10/29/2016,FBS,South Carolina,Tennessee,PUNTING,Sean,Kelly,YDS,385
+3197135,10/29/2016,FBS,South Carolina,Tennessee,PUNTING,Sean,Kelly,AVG,42.8
+3197136,10/29/2016,FBS,South Carolina,Tennessee,PUNTING,Sean,Kelly,LONG,62
+3197137,10/29/2016,FBS,South Carolina,Tennessee,PUNT RETURNS,Deebo,Samuel,NO,0
+3197138,10/29/2016,FBS,South Carolina,Tennessee,PUNT RETURNS,Deebo,Samuel,YDS,0
+3197139,10/29/2016,FBS,South Carolina,Tennessee,PUNT RETURNS,Deebo,Samuel,AVG,-
+3197140,10/29/2016,FBS,South Carolina,Tennessee,PUNT RETURNS,Deebo,Samuel,LONG,0
+3197141,10/29/2016,FBS,South Carolina,Tennessee,KICK RETURNS,A.J.,Turner,NO,1
+3197142,10/29/2016,FBS,South Carolina,Tennessee,KICK RETURNS,A.J.,Turner,YDS,27
+3197143,10/29/2016,FBS,South Carolina,Tennessee,KICK RETURNS,A.J.,Turner,AVG,27.0
+3197144,10/29/2016,FBS,South Carolina,Tennessee,KICK RETURNS,A.J.,Turner,LONG,27

@@ -1,0 +1,125 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2494001,11/21/2015,FBS,Tennessee,Missouri,RUSHING,Jalen,Hurd,ATT,34
+2494002,11/21/2015,FBS,Tennessee,Missouri,RUSHING,Jalen,Hurd,YDS,151
+2494003,11/21/2015,FBS,Tennessee,Missouri,RUSHING,Jalen,Hurd,TD,0
+2494004,11/21/2015,FBS,Tennessee,Missouri,RUSHING,Jalen,Hurd,LONG,31
+2494005,11/21/2015,FBS,Tennessee,Missouri,RUSHING,Joshua,Dobbs,ATT,10
+2494006,11/21/2015,FBS,Tennessee,Missouri,RUSHING,Joshua,Dobbs,YDS,54
+2494007,11/21/2015,FBS,Tennessee,Missouri,RUSHING,Joshua,Dobbs,TD,1
+2494008,11/21/2015,FBS,Tennessee,Missouri,RUSHING,Joshua,Dobbs,LONG,23
+2494009,11/21/2015,FBS,Tennessee,Missouri,RUSHING,Alvin,Kamara,ATT,7
+2494010,11/21/2015,FBS,Tennessee,Missouri,RUSHING,Alvin,Kamara,YDS,43
+2494011,11/21/2015,FBS,Tennessee,Missouri,RUSHING,Alvin,Kamara,TD,0
+2494012,11/21/2015,FBS,Tennessee,Missouri,RUSHING,Alvin,Kamara,LONG,20
+2494013,11/21/2015,FBS,Tennessee,Missouri,PASSING,Joshua,Dobbs,CP-ATT-INT,16-24-0
+2494014,11/21/2015,FBS,Tennessee,Missouri,PASSING,Joshua,Dobbs,YDS,89
+2494015,11/21/2015,FBS,Tennessee,Missouri,PASSING,Joshua,Dobbs,TD,0
+2494016,11/21/2015,FBS,Tennessee,Missouri,PASSING,Joshua,Dobbs,LONG,21
+2494017,11/21/2015,FBS,Tennessee,Missouri,PASSING,,Team,CP-ATT-INT,0-1-0
+2494018,11/21/2015,FBS,Tennessee,Missouri,PASSING,,Team,YDS,0
+2494019,11/21/2015,FBS,Tennessee,Missouri,PASSING,,Team,TD,0
+2494020,11/21/2015,FBS,Tennessee,Missouri,PASSING,,Team,LONG,0
+2494021,11/21/2015,FBS,Tennessee,Missouri,RECEIVING,Josh,Malone,REC,2
+2494022,11/21/2015,FBS,Tennessee,Missouri,RECEIVING,Josh,Malone,YDS,35
+2494023,11/21/2015,FBS,Tennessee,Missouri,RECEIVING,Josh,Malone,TD,0
+2494024,11/21/2015,FBS,Tennessee,Missouri,RECEIVING,Josh,Malone,LONG,21
+2494025,11/21/2015,FBS,Tennessee,Missouri,RECEIVING,Von,Pearson,REC,7
+2494026,11/21/2015,FBS,Tennessee,Missouri,RECEIVING,Von,Pearson,YDS,28
+2494027,11/21/2015,FBS,Tennessee,Missouri,RECEIVING,Von,Pearson,TD,0
+2494028,11/21/2015,FBS,Tennessee,Missouri,RECEIVING,Von,Pearson,LONG,9
+2494029,11/21/2015,FBS,Tennessee,Missouri,RECEIVING,Alvin,Kamara,REC,4
+2494030,11/21/2015,FBS,Tennessee,Missouri,RECEIVING,Alvin,Kamara,YDS,23
+2494031,11/21/2015,FBS,Tennessee,Missouri,RECEIVING,Alvin,Kamara,TD,0
+2494032,11/21/2015,FBS,Tennessee,Missouri,RECEIVING,Alvin,Kamara,LONG,13
+2494033,11/21/2015,FBS,Tennessee,Missouri,RECEIVING,Ethan,Wolf,REC,1
+2494034,11/21/2015,FBS,Tennessee,Missouri,RECEIVING,Ethan,Wolf,YDS,6
+2494035,11/21/2015,FBS,Tennessee,Missouri,RECEIVING,Ethan,Wolf,TD,0
+2494036,11/21/2015,FBS,Tennessee,Missouri,RECEIVING,Ethan,Wolf,LONG,6
+2494037,11/21/2015,FBS,Tennessee,Missouri,RECEIVING,Jalen,Hurd,REC,2
+2494038,11/21/2015,FBS,Tennessee,Missouri,RECEIVING,Jalen,Hurd,YDS,-3
+2494039,11/21/2015,FBS,Tennessee,Missouri,RECEIVING,Jalen,Hurd,TD,0
+2494040,11/21/2015,FBS,Tennessee,Missouri,RECEIVING,Jalen,Hurd,LONG,1
+2494041,11/21/2015,FBS,Tennessee,Missouri,KICKING,Aaron,Medley,FG-FGA,4/5
+2494042,11/21/2015,FBS,Tennessee,Missouri,KICKING,Aaron,Medley,LONG,44
+2494043,11/21/2015,FBS,Tennessee,Missouri,KICKING,Aaron,Medley,XP,1
+2494044,11/21/2015,FBS,Tennessee,Missouri,KICKING,Aaron,Medley,PTS,13
+2494045,11/21/2015,FBS,Tennessee,Missouri,PUNTING,Trevor,Daniel,NO,7
+2494046,11/21/2015,FBS,Tennessee,Missouri,PUNTING,Trevor,Daniel,YDS,317
+2494047,11/21/2015,FBS,Tennessee,Missouri,PUNTING,Trevor,Daniel,AVG,45.3
+2494048,11/21/2015,FBS,Tennessee,Missouri,PUNTING,Trevor,Daniel,LONG,61
+2494049,11/21/2015,FBS,Tennessee,Missouri,PUNT RETURNS,Cameron,Sutton,NO,2
+2494050,11/21/2015,FBS,Tennessee,Missouri,PUNT RETURNS,Cameron,Sutton,YDS,4
+2494051,11/21/2015,FBS,Tennessee,Missouri,PUNT RETURNS,Cameron,Sutton,AVG,2.0
+2494052,11/21/2015,FBS,Tennessee,Missouri,PUNT RETURNS,Cameron,Sutton,LONG,3
+2494053,11/21/2015,FBS,Tennessee,Missouri,KICK RETURNS,Evan,Berry,NO,2
+2494054,11/21/2015,FBS,Tennessee,Missouri,KICK RETURNS,Evan,Berry,YDS,61
+2494055,11/21/2015,FBS,Tennessee,Missouri,KICK RETURNS,Evan,Berry,AVG,30.5
+2494056,11/21/2015,FBS,Tennessee,Missouri,KICK RETURNS,Evan,Berry,LONG,41
+2494057,11/21/2015,FBS,Missouri,Tennessee,RUSHING,Russell,Hansbrough,ATT,12
+2494058,11/21/2015,FBS,Missouri,Tennessee,RUSHING,Russell,Hansbrough,YDS,41
+2494059,11/21/2015,FBS,Missouri,Tennessee,RUSHING,Russell,Hansbrough,TD,0
+2494060,11/21/2015,FBS,Missouri,Tennessee,RUSHING,Russell,Hansbrough,LONG,10
+2494061,11/21/2015,FBS,Missouri,Tennessee,RUSHING,Ish,Witter,ATT,6
+2494062,11/21/2015,FBS,Missouri,Tennessee,RUSHING,Ish,Witter,YDS,28
+2494063,11/21/2015,FBS,Missouri,Tennessee,RUSHING,Ish,Witter,TD,0
+2494064,11/21/2015,FBS,Missouri,Tennessee,RUSHING,Ish,Witter,LONG,8
+2494065,11/21/2015,FBS,Missouri,Tennessee,RUSHING,Drew,Lock,ATT,6
+2494066,11/21/2015,FBS,Missouri,Tennessee,RUSHING,Drew,Lock,YDS,11
+2494067,11/21/2015,FBS,Missouri,Tennessee,RUSHING,Drew,Lock,TD,1
+2494068,11/21/2015,FBS,Missouri,Tennessee,RUSHING,Drew,Lock,LONG,11
+2494069,11/21/2015,FBS,Missouri,Tennessee,RUSHING,Tyler,Hunt,ATT,5
+2494070,11/21/2015,FBS,Missouri,Tennessee,RUSHING,Tyler,Hunt,YDS,8
+2494071,11/21/2015,FBS,Missouri,Tennessee,RUSHING,Tyler,Hunt,TD,0
+2494072,11/21/2015,FBS,Missouri,Tennessee,RUSHING,Tyler,Hunt,LONG,5
+2494073,11/21/2015,FBS,Missouri,Tennessee,PASSING,Drew,Lock,CP-ATT-INT,13-30-1
+2494074,11/21/2015,FBS,Missouri,Tennessee,PASSING,Drew,Lock,YDS,135
+2494075,11/21/2015,FBS,Missouri,Tennessee,PASSING,Drew,Lock,TD,0
+2494076,11/21/2015,FBS,Missouri,Tennessee,PASSING,Drew,Lock,LONG,44
+2494077,11/21/2015,FBS,Missouri,Tennessee,RECEIVING,Cam,Hilton,REC,2
+2494078,11/21/2015,FBS,Missouri,Tennessee,RECEIVING,Cam,Hilton,YDS,41
+2494079,11/21/2015,FBS,Missouri,Tennessee,RECEIVING,Cam,Hilton,TD,0
+2494080,11/21/2015,FBS,Missouri,Tennessee,RECEIVING,Cam,Hilton,LONG,22
+2494081,11/21/2015,FBS,Missouri,Tennessee,RECEIVING,Wesley,Leftwich,REC,2
+2494082,11/21/2015,FBS,Missouri,Tennessee,RECEIVING,Wesley,Leftwich,YDS,41
+2494083,11/21/2015,FBS,Missouri,Tennessee,RECEIVING,Wesley,Leftwich,TD,0
+2494084,11/21/2015,FBS,Missouri,Tennessee,RECEIVING,Wesley,Leftwich,LONG,44
+2494085,11/21/2015,FBS,Missouri,Tennessee,RECEIVING,J'Mon,Moore,REC,1
+2494086,11/21/2015,FBS,Missouri,Tennessee,RECEIVING,J'Mon,Moore,YDS,22
+2494087,11/21/2015,FBS,Missouri,Tennessee,RECEIVING,J'Mon,Moore,TD,0
+2494088,11/21/2015,FBS,Missouri,Tennessee,RECEIVING,J'Mon,Moore,LONG,22
+2494089,11/21/2015,FBS,Missouri,Tennessee,RECEIVING,Keyon,Dilosa,REC,1
+2494090,11/21/2015,FBS,Missouri,Tennessee,RECEIVING,Keyon,Dilosa,YDS,21
+2494091,11/21/2015,FBS,Missouri,Tennessee,RECEIVING,Keyon,Dilosa,TD,0
+2494092,11/21/2015,FBS,Missouri,Tennessee,RECEIVING,Keyon,Dilosa,LONG,21
+2494093,11/21/2015,FBS,Missouri,Tennessee,RECEIVING,Nate,Brown,REC,2
+2494094,11/21/2015,FBS,Missouri,Tennessee,RECEIVING,Nate,Brown,YDS,10
+2494095,11/21/2015,FBS,Missouri,Tennessee,RECEIVING,Nate,Brown,TD,0
+2494096,11/21/2015,FBS,Missouri,Tennessee,RECEIVING,Nate,Brown,LONG,6
+2494097,11/21/2015,FBS,Missouri,Tennessee,RECEIVING,Jason,Reese,REC,2
+2494098,11/21/2015,FBS,Missouri,Tennessee,RECEIVING,Jason,Reese,YDS,5
+2494099,11/21/2015,FBS,Missouri,Tennessee,RECEIVING,Jason,Reese,TD,0
+2494100,11/21/2015,FBS,Missouri,Tennessee,RECEIVING,Jason,Reese,LONG,4
+2494101,11/21/2015,FBS,Missouri,Tennessee,RECEIVING,Russell,Hansbrough,REC,2
+2494102,11/21/2015,FBS,Missouri,Tennessee,RECEIVING,Russell,Hansbrough,YDS,-2
+2494103,11/21/2015,FBS,Missouri,Tennessee,RECEIVING,Russell,Hansbrough,TD,0
+2494104,11/21/2015,FBS,Missouri,Tennessee,RECEIVING,Russell,Hansbrough,LONG,1
+2494105,11/21/2015,FBS,Missouri,Tennessee,RECEIVING,Ish,Witter,REC,1
+2494106,11/21/2015,FBS,Missouri,Tennessee,RECEIVING,Ish,Witter,YDS,-3
+2494107,11/21/2015,FBS,Missouri,Tennessee,RECEIVING,Ish,Witter,TD,0
+2494108,11/21/2015,FBS,Missouri,Tennessee,RECEIVING,Ish,Witter,LONG,-3
+2494109,11/21/2015,FBS,Missouri,Tennessee,PUNTING,Corey,Fatony,NO,9
+2494110,11/21/2015,FBS,Missouri,Tennessee,PUNTING,Corey,Fatony,YDS,337
+2494111,11/21/2015,FBS,Missouri,Tennessee,PUNTING,Corey,Fatony,AVG,37.4
+2494112,11/21/2015,FBS,Missouri,Tennessee,PUNTING,Corey,Fatony,LONG,45
+2494113,11/21/2015,FBS,Missouri,Tennessee,PUNT RETURNS,Aarion,Penton,NO,2
+2494114,11/21/2015,FBS,Missouri,Tennessee,PUNT RETURNS,Aarion,Penton,YDS,23
+2494115,11/21/2015,FBS,Missouri,Tennessee,PUNT RETURNS,Aarion,Penton,AVG,11.5
+2494116,11/21/2015,FBS,Missouri,Tennessee,PUNT RETURNS,Aarion,Penton,LONG,22
+2494117,11/21/2015,FBS,Missouri,Tennessee,KICK RETURNS,Finis,StriblingIV,NO,4
+2494118,11/21/2015,FBS,Missouri,Tennessee,KICK RETURNS,Finis,StriblingIV,YDS,62
+2494119,11/21/2015,FBS,Missouri,Tennessee,KICK RETURNS,Finis,StriblingIV,AVG,15.5
+2494120,11/21/2015,FBS,Missouri,Tennessee,KICK RETURNS,Finis,StriblingIV,LONG,27
+2494121,11/21/2015,FBS,Missouri,Tennessee,KICK RETURNS,Jason,Reese,NO,2
+2494122,11/21/2015,FBS,Missouri,Tennessee,KICK RETURNS,Jason,Reese,YDS,20
+2494123,11/21/2015,FBS,Missouri,Tennessee,KICK RETURNS,Jason,Reese,AVG,10.0
+2494124,11/21/2015,FBS,Missouri,Tennessee,KICK RETURNS,Jason,Reese,LONG,11

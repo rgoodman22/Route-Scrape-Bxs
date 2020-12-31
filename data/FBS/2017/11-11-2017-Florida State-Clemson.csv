@@ -1,0 +1,157 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+4173001,11/11/2017,FBS,Florida State,Clemson,RUSHING,Cam,Akers,ATT,12
+4173002,11/11/2017,FBS,Florida State,Clemson,RUSHING,Cam,Akers,YDS,40
+4173003,11/11/2017,FBS,Florida State,Clemson,RUSHING,Cam,Akers,TD,0
+4173004,11/11/2017,FBS,Florida State,Clemson,RUSHING,Cam,Akers,LONG,12
+4173005,11/11/2017,FBS,Florida State,Clemson,RUSHING,Alec,Eberle,ATT,0
+4173006,11/11/2017,FBS,Florida State,Clemson,RUSHING,Alec,Eberle,YDS,4
+4173007,11/11/2017,FBS,Florida State,Clemson,RUSHING,Alec,Eberle,TD,0
+4173008,11/11/2017,FBS,Florida State,Clemson,RUSHING,Alec,Eberle,LONG,4
+4173009,11/11/2017,FBS,Florida State,Clemson,RUSHING,Jacques,Patrick,ATT,5
+4173010,11/11/2017,FBS,Florida State,Clemson,RUSHING,Jacques,Patrick,YDS,3
+4173011,11/11/2017,FBS,Florida State,Clemson,RUSHING,Jacques,Patrick,TD,1
+4173012,11/11/2017,FBS,Florida State,Clemson,RUSHING,Jacques,Patrick,LONG,3
+4173013,11/11/2017,FBS,Florida State,Clemson,RUSHING,James,Blackman,ATT,7
+4173014,11/11/2017,FBS,Florida State,Clemson,RUSHING,James,Blackman,YDS,-26
+4173015,11/11/2017,FBS,Florida State,Clemson,RUSHING,James,Blackman,TD,0
+4173016,11/11/2017,FBS,Florida State,Clemson,RUSHING,James,Blackman,LONG,6
+4173017,11/11/2017,FBS,Florida State,Clemson,PASSING,James,Blackman,CP-ATT-INT,13-32-1
+4173018,11/11/2017,FBS,Florida State,Clemson,PASSING,James,Blackman,YDS,208
+4173019,11/11/2017,FBS,Florida State,Clemson,PASSING,James,Blackman,TD,1
+4173020,11/11/2017,FBS,Florida State,Clemson,PASSING,James,Blackman,LONG,60
+4173021,11/11/2017,FBS,Florida State,Clemson,RECEIVING,Nyqwan,Murray,REC,4
+4173022,11/11/2017,FBS,Florida State,Clemson,RECEIVING,Nyqwan,Murray,YDS,73
+4173023,11/11/2017,FBS,Florida State,Clemson,RECEIVING,Nyqwan,Murray,TD,0
+4173024,11/11/2017,FBS,Florida State,Clemson,RECEIVING,Nyqwan,Murray,LONG,39
+4173025,11/11/2017,FBS,Florida State,Clemson,RECEIVING,Ryan,Izzo,REC,1
+4173026,11/11/2017,FBS,Florida State,Clemson,RECEIVING,Ryan,Izzo,YDS,60
+4173027,11/11/2017,FBS,Florida State,Clemson,RECEIVING,Ryan,Izzo,TD,1
+4173028,11/11/2017,FBS,Florida State,Clemson,RECEIVING,Ryan,Izzo,LONG,60
+4173029,11/11/2017,FBS,Florida State,Clemson,RECEIVING,Auden,Tate,REC,4
+4173030,11/11/2017,FBS,Florida State,Clemson,RECEIVING,Auden,Tate,YDS,33
+4173031,11/11/2017,FBS,Florida State,Clemson,RECEIVING,Auden,Tate,TD,0
+4173032,11/11/2017,FBS,Florida State,Clemson,RECEIVING,Auden,Tate,LONG,10
+4173033,11/11/2017,FBS,Florida State,Clemson,RECEIVING,Cam,Akers,REC,1
+4173034,11/11/2017,FBS,Florida State,Clemson,RECEIVING,Cam,Akers,YDS,19
+4173035,11/11/2017,FBS,Florida State,Clemson,RECEIVING,Cam,Akers,TD,0
+4173036,11/11/2017,FBS,Florida State,Clemson,RECEIVING,Cam,Akers,LONG,19
+4173037,11/11/2017,FBS,Florida State,Clemson,RECEIVING,Keith,Gavin,REC,2
+4173038,11/11/2017,FBS,Florida State,Clemson,RECEIVING,Keith,Gavin,YDS,17
+4173039,11/11/2017,FBS,Florida State,Clemson,RECEIVING,Keith,Gavin,TD,0
+4173040,11/11/2017,FBS,Florida State,Clemson,RECEIVING,Keith,Gavin,LONG,10
+4173041,11/11/2017,FBS,Florida State,Clemson,RECEIVING,Jacques,Patrick,REC,1
+4173042,11/11/2017,FBS,Florida State,Clemson,RECEIVING,Jacques,Patrick,YDS,6
+4173043,11/11/2017,FBS,Florida State,Clemson,RECEIVING,Jacques,Patrick,TD,0
+4173044,11/11/2017,FBS,Florida State,Clemson,RECEIVING,Jacques,Patrick,LONG,6
+4173045,11/11/2017,FBS,Florida State,Clemson,KICKING,Ricky,Aguayo,FG-FGA,0/0
+4173046,11/11/2017,FBS,Florida State,Clemson,KICKING,Ricky,Aguayo,LONG,-
+4173047,11/11/2017,FBS,Florida State,Clemson,KICKING,Ricky,Aguayo,XP,2
+4173048,11/11/2017,FBS,Florida State,Clemson,KICKING,Ricky,Aguayo,PTS,2
+4173049,11/11/2017,FBS,Florida State,Clemson,PUNTING,Logan,Tyler,NO,7
+4173050,11/11/2017,FBS,Florida State,Clemson,PUNTING,Logan,Tyler,YDS,321
+4173051,11/11/2017,FBS,Florida State,Clemson,PUNTING,Logan,Tyler,AVG,45.9
+4173052,11/11/2017,FBS,Florida State,Clemson,PUNTING,Logan,Tyler,LONG,59
+4173053,11/11/2017,FBS,Florida State,Clemson,PUNT RETURNS,D.J.,Matthews,NO,2
+4173054,11/11/2017,FBS,Florida State,Clemson,PUNT RETURNS,D.J.,Matthews,YDS,11
+4173055,11/11/2017,FBS,Florida State,Clemson,PUNT RETURNS,D.J.,Matthews,AVG,5.5
+4173056,11/11/2017,FBS,Florida State,Clemson,PUNT RETURNS,D.J.,Matthews,LONG,6
+4173057,11/11/2017,FBS,Florida State,Clemson,KICK RETURNS,Amir,Rasul,NO,3
+4173058,11/11/2017,FBS,Florida State,Clemson,KICK RETURNS,Amir,Rasul,YDS,58
+4173059,11/11/2017,FBS,Florida State,Clemson,KICK RETURNS,Amir,Rasul,AVG,19.3
+4173060,11/11/2017,FBS,Florida State,Clemson,KICK RETURNS,Amir,Rasul,LONG,24
+4173061,11/11/2017,FBS,Florida State,Clemson,KICK RETURNS,Keith,Gavin,NO,1
+4173062,11/11/2017,FBS,Florida State,Clemson,KICK RETURNS,Keith,Gavin,YDS,17
+4173063,11/11/2017,FBS,Florida State,Clemson,KICK RETURNS,Keith,Gavin,AVG,17.0
+4173064,11/11/2017,FBS,Florida State,Clemson,KICK RETURNS,Keith,Gavin,LONG,17
+4173065,11/11/2017,FBS,Clemson,Florida State,RUSHING,Travis,Etienne,ATT,14
+4173066,11/11/2017,FBS,Clemson,Florida State,RUSHING,Travis,Etienne,YDS,97
+4173067,11/11/2017,FBS,Clemson,Florida State,RUSHING,Travis,Etienne,TD,2
+4173068,11/11/2017,FBS,Clemson,Florida State,RUSHING,Travis,Etienne,LONG,28
+4173069,11/11/2017,FBS,Clemson,Florida State,RUSHING,Kelly,Bryant,ATT,19
+4173070,11/11/2017,FBS,Clemson,Florida State,RUSHING,Kelly,Bryant,YDS,60
+4173071,11/11/2017,FBS,Clemson,Florida State,RUSHING,Kelly,Bryant,TD,1
+4173072,11/11/2017,FBS,Clemson,Florida State,RUSHING,Kelly,Bryant,LONG,16
+4173073,11/11/2017,FBS,Clemson,Florida State,RUSHING,Adam,Choice,ATT,7
+4173074,11/11/2017,FBS,Clemson,Florida State,RUSHING,Adam,Choice,YDS,40
+4173075,11/11/2017,FBS,Clemson,Florida State,RUSHING,Adam,Choice,TD,1
+4173076,11/11/2017,FBS,Clemson,Florida State,RUSHING,Adam,Choice,LONG,12
+4173077,11/11/2017,FBS,Clemson,Florida State,RUSHING,Tavien,Feaster,ATT,9
+4173078,11/11/2017,FBS,Clemson,Florida State,RUSHING,Tavien,Feaster,YDS,21
+4173079,11/11/2017,FBS,Clemson,Florida State,RUSHING,Tavien,Feaster,TD,0
+4173080,11/11/2017,FBS,Clemson,Florida State,RUSHING,Tavien,Feaster,LONG,6
+4173081,11/11/2017,FBS,Clemson,Florida State,RUSHING,C.J.,Fuller,ATT,2
+4173082,11/11/2017,FBS,Clemson,Florida State,RUSHING,C.J.,Fuller,YDS,10
+4173083,11/11/2017,FBS,Clemson,Florida State,RUSHING,C.J.,Fuller,TD,0
+4173084,11/11/2017,FBS,Clemson,Florida State,RUSHING,C.J.,Fuller,LONG,7
+4173085,11/11/2017,FBS,Clemson,Florida State,RUSHING,,Team,ATT,1
+4173086,11/11/2017,FBS,Clemson,Florida State,RUSHING,,Team,YDS,-1
+4173087,11/11/2017,FBS,Clemson,Florida State,RUSHING,,Team,TD,0
+4173088,11/11/2017,FBS,Clemson,Florida State,RUSHING,,Team,LONG,-1
+4173089,11/11/2017,FBS,Clemson,Florida State,PASSING,Kelly,Bryant,CP-ATT-INT,20-30-0
+4173090,11/11/2017,FBS,Clemson,Florida State,PASSING,Kelly,Bryant,YDS,151
+4173091,11/11/2017,FBS,Clemson,Florida State,PASSING,Kelly,Bryant,TD,0
+4173092,11/11/2017,FBS,Clemson,Florida State,PASSING,Kelly,Bryant,LONG,32
+4173093,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Hunter,Renfrow,REC,4
+4173094,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Hunter,Renfrow,YDS,35
+4173095,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Hunter,Renfrow,TD,0
+4173096,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Hunter,Renfrow,LONG,11
+4173097,11/11/2017,FBS,Clemson,Florida State,RECEIVING,D.J.,Greenlee,REC,1
+4173098,11/11/2017,FBS,Clemson,Florida State,RECEIVING,D.J.,Greenlee,YDS,32
+4173099,11/11/2017,FBS,Clemson,Florida State,RECEIVING,D.J.,Greenlee,TD,0
+4173100,11/11/2017,FBS,Clemson,Florida State,RECEIVING,D.J.,Greenlee,LONG,32
+4173101,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Deon,Cain,REC,4
+4173102,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Deon,Cain,YDS,17
+4173103,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Deon,Cain,TD,0
+4173104,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Deon,Cain,LONG,9
+4173105,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Travis,Etienne,REC,1
+4173106,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Travis,Etienne,YDS,16
+4173107,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Travis,Etienne,TD,0
+4173108,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Travis,Etienne,LONG,16
+4173109,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Trevion,Thompson,REC,3
+4173110,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Trevion,Thompson,YDS,15
+4173111,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Trevion,Thompson,TD,0
+4173112,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Trevion,Thompson,LONG,15
+4173113,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Tee,Higgins,REC,1
+4173114,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Tee,Higgins,YDS,8
+4173115,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Tee,Higgins,TD,0
+4173116,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Tee,Higgins,LONG,8
+4173117,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Amari,Rodgers,REC,1
+4173118,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Amari,Rodgers,YDS,6
+4173119,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Amari,Rodgers,TD,0
+4173120,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Amari,Rodgers,LONG,6
+4173121,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Diondre,Overton,REC,1
+4173122,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Diondre,Overton,YDS,5
+4173123,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Diondre,Overton,TD,0
+4173124,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Diondre,Overton,LONG,5
+4173125,11/11/2017,FBS,Clemson,Florida State,RECEIVING,C.J.,Fuller,REC,1
+4173126,11/11/2017,FBS,Clemson,Florida State,RECEIVING,C.J.,Fuller,YDS,5
+4173127,11/11/2017,FBS,Clemson,Florida State,RECEIVING,C.J.,Fuller,TD,0
+4173128,11/11/2017,FBS,Clemson,Florida State,RECEIVING,C.J.,Fuller,LONG,5
+4173129,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Adam,Choice,REC,1
+4173130,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Adam,Choice,YDS,4
+4173131,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Adam,Choice,TD,0
+4173132,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Adam,Choice,LONG,4
+4173133,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Tavien,Feaster,REC,1
+4173134,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Tavien,Feaster,YDS,4
+4173135,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Tavien,Feaster,TD,0
+4173136,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Tavien,Feaster,LONG,4
+4173137,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Ray-Ray,McCloud,REC,1
+4173138,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Ray-Ray,McCloud,YDS,4
+4173139,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Ray-Ray,McCloud,TD,0
+4173140,11/11/2017,FBS,Clemson,Florida State,RECEIVING,Ray-Ray,McCloud,LONG,4
+4173141,11/11/2017,FBS,Clemson,Florida State,KICKING,Alex,Spence,FG-FGA,1/1
+4173142,11/11/2017,FBS,Clemson,Florida State,KICKING,Alex,Spence,LONG,26
+4173143,11/11/2017,FBS,Clemson,Florida State,KICKING,Alex,Spence,XP,4
+4173144,11/11/2017,FBS,Clemson,Florida State,KICKING,Alex,Spence,PTS,7
+4173145,11/11/2017,FBS,Clemson,Florida State,PUNTING,Will,Spiers,NO,6
+4173146,11/11/2017,FBS,Clemson,Florida State,PUNTING,Will,Spiers,YDS,214
+4173147,11/11/2017,FBS,Clemson,Florida State,PUNTING,Will,Spiers,AVG,35.7
+4173148,11/11/2017,FBS,Clemson,Florida State,PUNTING,Will,Spiers,LONG,45
+4173149,11/11/2017,FBS,Clemson,Florida State,PUNT RETURNS,Ray-Ray,McCloud,NO,3
+4173150,11/11/2017,FBS,Clemson,Florida State,PUNT RETURNS,Ray-Ray,McCloud,YDS,47
+4173151,11/11/2017,FBS,Clemson,Florida State,PUNT RETURNS,Ray-Ray,McCloud,AVG,15.7
+4173152,11/11/2017,FBS,Clemson,Florida State,PUNT RETURNS,Ray-Ray,McCloud,LONG,35
+4173153,11/11/2017,FBS,Clemson,Florida State,KICK RETURNS,Travis,Etienne,NO,3
+4173154,11/11/2017,FBS,Clemson,Florida State,KICK RETURNS,Travis,Etienne,YDS,45
+4173155,11/11/2017,FBS,Clemson,Florida State,KICK RETURNS,Travis,Etienne,AVG,15.0
+4173156,11/11/2017,FBS,Clemson,Florida State,KICK RETURNS,Travis,Etienne,LONG,18

@@ -1,0 +1,129 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+4257001,11/18/2017,FBS,Missouri,Vanderbilt,RUSHING,Ish,Witter,ATT,16
+4257002,11/18/2017,FBS,Missouri,Vanderbilt,RUSHING,Ish,Witter,YDS,102
+4257003,11/18/2017,FBS,Missouri,Vanderbilt,RUSHING,Ish,Witter,TD,0
+4257004,11/18/2017,FBS,Missouri,Vanderbilt,RUSHING,Ish,Witter,LONG,23
+4257005,11/18/2017,FBS,Missouri,Vanderbilt,RUSHING,Larry,RountreeIII,ATT,15
+4257006,11/18/2017,FBS,Missouri,Vanderbilt,RUSHING,Larry,RountreeIII,YDS,53
+4257007,11/18/2017,FBS,Missouri,Vanderbilt,RUSHING,Larry,RountreeIII,TD,1
+4257008,11/18/2017,FBS,Missouri,Vanderbilt,RUSHING,Larry,RountreeIII,LONG,17
+4257009,11/18/2017,FBS,Missouri,Vanderbilt,RUSHING,Drew,Lock,ATT,7
+4257010,11/18/2017,FBS,Missouri,Vanderbilt,RUSHING,Drew,Lock,YDS,37
+4257011,11/18/2017,FBS,Missouri,Vanderbilt,RUSHING,Drew,Lock,TD,0
+4257012,11/18/2017,FBS,Missouri,Vanderbilt,RUSHING,Drew,Lock,LONG,12
+4257013,11/18/2017,FBS,Missouri,Vanderbilt,RUSHING,,Team,ATT,1
+4257014,11/18/2017,FBS,Missouri,Vanderbilt,RUSHING,,Team,YDS,-1
+4257015,11/18/2017,FBS,Missouri,Vanderbilt,RUSHING,,Team,TD,0
+4257016,11/18/2017,FBS,Missouri,Vanderbilt,RUSHING,,Team,LONG,-1
+4257017,11/18/2017,FBS,Missouri,Vanderbilt,PASSING,Drew,Lock,CP-ATT-INT,10-25-0
+4257018,11/18/2017,FBS,Missouri,Vanderbilt,PASSING,Drew,Lock,YDS,235
+4257019,11/18/2017,FBS,Missouri,Vanderbilt,PASSING,Drew,Lock,TD,3
+4257020,11/18/2017,FBS,Missouri,Vanderbilt,PASSING,Drew,Lock,LONG,71
+4257021,11/18/2017,FBS,Missouri,Vanderbilt,RECEIVING,Albert,Okwuegbunam,REC,5
+4257022,11/18/2017,FBS,Missouri,Vanderbilt,RECEIVING,Albert,Okwuegbunam,YDS,116
+4257023,11/18/2017,FBS,Missouri,Vanderbilt,RECEIVING,Albert,Okwuegbunam,TD,2
+4257024,11/18/2017,FBS,Missouri,Vanderbilt,RECEIVING,Albert,Okwuegbunam,LONG,57
+4257025,11/18/2017,FBS,Missouri,Vanderbilt,RECEIVING,J'Mon,Moore,REC,3
+4257026,11/18/2017,FBS,Missouri,Vanderbilt,RECEIVING,J'Mon,Moore,YDS,78
+4257027,11/18/2017,FBS,Missouri,Vanderbilt,RECEIVING,J'Mon,Moore,TD,0
+4257028,11/18/2017,FBS,Missouri,Vanderbilt,RECEIVING,J'Mon,Moore,LONG,71
+4257029,11/18/2017,FBS,Missouri,Vanderbilt,RECEIVING,Richaud,Floyd,REC,1
+4257030,11/18/2017,FBS,Missouri,Vanderbilt,RECEIVING,Richaud,Floyd,YDS,30
+4257031,11/18/2017,FBS,Missouri,Vanderbilt,RECEIVING,Richaud,Floyd,TD,1
+4257032,11/18/2017,FBS,Missouri,Vanderbilt,RECEIVING,Richaud,Floyd,LONG,30
+4257033,11/18/2017,FBS,Missouri,Vanderbilt,RECEIVING,Johnathon,Johnson,REC,1
+4257034,11/18/2017,FBS,Missouri,Vanderbilt,RECEIVING,Johnathon,Johnson,YDS,11
+4257035,11/18/2017,FBS,Missouri,Vanderbilt,RECEIVING,Johnathon,Johnson,TD,0
+4257036,11/18/2017,FBS,Missouri,Vanderbilt,RECEIVING,Johnathon,Johnson,LONG,11
+4257037,11/18/2017,FBS,Missouri,Vanderbilt,KICKING,Tucker,McCann,FG-FGA,1/1
+4257038,11/18/2017,FBS,Missouri,Vanderbilt,KICKING,Tucker,McCann,LONG,41
+4257039,11/18/2017,FBS,Missouri,Vanderbilt,KICKING,Tucker,McCann,XP,6
+4257040,11/18/2017,FBS,Missouri,Vanderbilt,KICKING,Tucker,McCann,PTS,9
+4257041,11/18/2017,FBS,Missouri,Vanderbilt,PUNTING,Corey,Fatony,NO,5
+4257042,11/18/2017,FBS,Missouri,Vanderbilt,PUNTING,Corey,Fatony,YDS,186
+4257043,11/18/2017,FBS,Missouri,Vanderbilt,PUNTING,Corey,Fatony,AVG,37.2
+4257044,11/18/2017,FBS,Missouri,Vanderbilt,PUNTING,Corey,Fatony,LONG,42
+4257045,11/18/2017,FBS,Missouri,Vanderbilt,PUNT RETURNS,Richaud,Floyd,NO,1
+4257046,11/18/2017,FBS,Missouri,Vanderbilt,PUNT RETURNS,Richaud,Floyd,YDS,74
+4257047,11/18/2017,FBS,Missouri,Vanderbilt,PUNT RETURNS,Richaud,Floyd,AVG,74.0
+4257048,11/18/2017,FBS,Missouri,Vanderbilt,PUNT RETURNS,Richaud,Floyd,LONG,74
+4257049,11/18/2017,FBS,Missouri,Vanderbilt,KICK RETURNS,Larry,RountreeIII,NO,4
+4257050,11/18/2017,FBS,Missouri,Vanderbilt,KICK RETURNS,Larry,RountreeIII,YDS,75
+4257051,11/18/2017,FBS,Missouri,Vanderbilt,KICK RETURNS,Larry,RountreeIII,AVG,18.8
+4257052,11/18/2017,FBS,Missouri,Vanderbilt,KICK RETURNS,Larry,RountreeIII,LONG,28
+4257053,11/18/2017,FBS,Vanderbilt,Missouri,RUSHING,Ralph,Webb,ATT,19
+4257054,11/18/2017,FBS,Vanderbilt,Missouri,RUSHING,Ralph,Webb,YDS,55
+4257055,11/18/2017,FBS,Vanderbilt,Missouri,RUSHING,Ralph,Webb,TD,1
+4257056,11/18/2017,FBS,Vanderbilt,Missouri,RUSHING,Ralph,Webb,LONG,20
+4257057,11/18/2017,FBS,Vanderbilt,Missouri,RUSHING,Jamauri,Wakefield,ATT,3
+4257058,11/18/2017,FBS,Vanderbilt,Missouri,RUSHING,Jamauri,Wakefield,YDS,6
+4257059,11/18/2017,FBS,Vanderbilt,Missouri,RUSHING,Jamauri,Wakefield,TD,0
+4257060,11/18/2017,FBS,Vanderbilt,Missouri,RUSHING,Jamauri,Wakefield,LONG,6
+4257061,11/18/2017,FBS,Vanderbilt,Missouri,RUSHING,Dallas,Rivers,ATT,1
+4257062,11/18/2017,FBS,Vanderbilt,Missouri,RUSHING,Dallas,Rivers,YDS,-3
+4257063,11/18/2017,FBS,Vanderbilt,Missouri,RUSHING,Dallas,Rivers,TD,0
+4257064,11/18/2017,FBS,Vanderbilt,Missouri,RUSHING,Dallas,Rivers,LONG,-3
+4257065,11/18/2017,FBS,Vanderbilt,Missouri,RUSHING,Trent,Sherfield,ATT,2
+4257066,11/18/2017,FBS,Vanderbilt,Missouri,RUSHING,Trent,Sherfield,YDS,-3
+4257067,11/18/2017,FBS,Vanderbilt,Missouri,RUSHING,Trent,Sherfield,TD,0
+4257068,11/18/2017,FBS,Vanderbilt,Missouri,RUSHING,Trent,Sherfield,LONG,3
+4257069,11/18/2017,FBS,Vanderbilt,Missouri,RUSHING,Kyle,Shurmur,ATT,5
+4257070,11/18/2017,FBS,Vanderbilt,Missouri,RUSHING,Kyle,Shurmur,YDS,-4
+4257071,11/18/2017,FBS,Vanderbilt,Missouri,RUSHING,Kyle,Shurmur,TD,0
+4257072,11/18/2017,FBS,Vanderbilt,Missouri,RUSHING,Kyle,Shurmur,LONG,10
+4257073,11/18/2017,FBS,Vanderbilt,Missouri,PASSING,Kyle,Shurmur,CP-ATT-INT,28-52-3
+4257074,11/18/2017,FBS,Vanderbilt,Missouri,PASSING,Kyle,Shurmur,YDS,348
+4257075,11/18/2017,FBS,Vanderbilt,Missouri,PASSING,Kyle,Shurmur,TD,1
+4257076,11/18/2017,FBS,Vanderbilt,Missouri,PASSING,Kyle,Shurmur,LONG,32
+4257077,11/18/2017,FBS,Vanderbilt,Missouri,RECEIVING,Jared,Pinkney,REC,6
+4257078,11/18/2017,FBS,Vanderbilt,Missouri,RECEIVING,Jared,Pinkney,YDS,119
+4257079,11/18/2017,FBS,Vanderbilt,Missouri,RECEIVING,Jared,Pinkney,TD,0
+4257080,11/18/2017,FBS,Vanderbilt,Missouri,RECEIVING,Jared,Pinkney,LONG,32
+4257081,11/18/2017,FBS,Vanderbilt,Missouri,RECEIVING,Kalija,Lipscomb,REC,4
+4257082,11/18/2017,FBS,Vanderbilt,Missouri,RECEIVING,Kalija,Lipscomb,YDS,68
+4257083,11/18/2017,FBS,Vanderbilt,Missouri,RECEIVING,Kalija,Lipscomb,TD,0
+4257084,11/18/2017,FBS,Vanderbilt,Missouri,RECEIVING,Kalija,Lipscomb,LONG,31
+4257085,11/18/2017,FBS,Vanderbilt,Missouri,RECEIVING,Ralph,Webb,REC,2
+4257086,11/18/2017,FBS,Vanderbilt,Missouri,RECEIVING,Ralph,Webb,YDS,32
+4257087,11/18/2017,FBS,Vanderbilt,Missouri,RECEIVING,Ralph,Webb,TD,0
+4257088,11/18/2017,FBS,Vanderbilt,Missouri,RECEIVING,Ralph,Webb,LONG,25
+4257089,11/18/2017,FBS,Vanderbilt,Missouri,RECEIVING,C.J.,Duncan,REC,5
+4257090,11/18/2017,FBS,Vanderbilt,Missouri,RECEIVING,C.J.,Duncan,YDS,29
+4257091,11/18/2017,FBS,Vanderbilt,Missouri,RECEIVING,C.J.,Duncan,TD,0
+4257092,11/18/2017,FBS,Vanderbilt,Missouri,RECEIVING,C.J.,Duncan,LONG,9
+4257093,11/18/2017,FBS,Vanderbilt,Missouri,RECEIVING,Donaven,Tennyson,REC,2
+4257094,11/18/2017,FBS,Vanderbilt,Missouri,RECEIVING,Donaven,Tennyson,YDS,28
+4257095,11/18/2017,FBS,Vanderbilt,Missouri,RECEIVING,Donaven,Tennyson,TD,0
+4257096,11/18/2017,FBS,Vanderbilt,Missouri,RECEIVING,Donaven,Tennyson,LONG,18
+4257097,11/18/2017,FBS,Vanderbilt,Missouri,RECEIVING,Caleb,Scott,REC,3
+4257098,11/18/2017,FBS,Vanderbilt,Missouri,RECEIVING,Caleb,Scott,YDS,27
+4257099,11/18/2017,FBS,Vanderbilt,Missouri,RECEIVING,Caleb,Scott,TD,1
+4257100,11/18/2017,FBS,Vanderbilt,Missouri,RECEIVING,Caleb,Scott,LONG,11
+4257101,11/18/2017,FBS,Vanderbilt,Missouri,RECEIVING,Trent,Sherfield,REC,4
+4257102,11/18/2017,FBS,Vanderbilt,Missouri,RECEIVING,Trent,Sherfield,YDS,27
+4257103,11/18/2017,FBS,Vanderbilt,Missouri,RECEIVING,Trent,Sherfield,TD,0
+4257104,11/18/2017,FBS,Vanderbilt,Missouri,RECEIVING,Trent,Sherfield,LONG,12
+4257105,11/18/2017,FBS,Vanderbilt,Missouri,RECEIVING,Khari,Blasingame,REC,1
+4257106,11/18/2017,FBS,Vanderbilt,Missouri,RECEIVING,Khari,Blasingame,YDS,17
+4257107,11/18/2017,FBS,Vanderbilt,Missouri,RECEIVING,Khari,Blasingame,TD,0
+4257108,11/18/2017,FBS,Vanderbilt,Missouri,RECEIVING,Khari,Blasingame,LONG,17
+4257109,11/18/2017,FBS,Vanderbilt,Missouri,RECEIVING,Sam,Dobbs,REC,1
+4257110,11/18/2017,FBS,Vanderbilt,Missouri,RECEIVING,Sam,Dobbs,YDS,1
+4257111,11/18/2017,FBS,Vanderbilt,Missouri,RECEIVING,Sam,Dobbs,TD,0
+4257112,11/18/2017,FBS,Vanderbilt,Missouri,RECEIVING,Sam,Dobbs,LONG,1
+4257113,11/18/2017,FBS,Vanderbilt,Missouri,KICKING,Tommy,Openshaw,FG-FGA,1/1
+4257114,11/18/2017,FBS,Vanderbilt,Missouri,KICKING,Tommy,Openshaw,LONG,23
+4257115,11/18/2017,FBS,Vanderbilt,Missouri,KICKING,Tommy,Openshaw,XP,2
+4257116,11/18/2017,FBS,Vanderbilt,Missouri,KICKING,Tommy,Openshaw,PTS,5
+4257117,11/18/2017,FBS,Vanderbilt,Missouri,PUNTING,Sam,Loy,NO,6
+4257118,11/18/2017,FBS,Vanderbilt,Missouri,PUNTING,Sam,Loy,YDS,269
+4257119,11/18/2017,FBS,Vanderbilt,Missouri,PUNTING,Sam,Loy,AVG,44.8
+4257120,11/18/2017,FBS,Vanderbilt,Missouri,PUNTING,Sam,Loy,LONG,53
+4257121,11/18/2017,FBS,Vanderbilt,Missouri,PUNT RETURNS,Kalija,Lipscomb,NO,1
+4257122,11/18/2017,FBS,Vanderbilt,Missouri,PUNT RETURNS,Kalija,Lipscomb,YDS,6
+4257123,11/18/2017,FBS,Vanderbilt,Missouri,PUNT RETURNS,Kalija,Lipscomb,AVG,6.0
+4257124,11/18/2017,FBS,Vanderbilt,Missouri,PUNT RETURNS,Kalija,Lipscomb,LONG,6
+4257125,11/18/2017,FBS,Vanderbilt,Missouri,KICK RETURNS,Jamauri,Wakefield,NO,5
+4257126,11/18/2017,FBS,Vanderbilt,Missouri,KICK RETURNS,Jamauri,Wakefield,YDS,101
+4257127,11/18/2017,FBS,Vanderbilt,Missouri,KICK RETURNS,Jamauri,Wakefield,AVG,20.2
+4257128,11/18/2017,FBS,Vanderbilt,Missouri,KICK RETURNS,Jamauri,Wakefield,LONG,31

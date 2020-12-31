@@ -1,0 +1,161 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+4390001,1/8/2018,FBS,Alabama,Georgia,RUSHING,Najee,Harris,ATT,6
+4390002,1/8/2018,FBS,Alabama,Georgia,RUSHING,Najee,Harris,YDS,64
+4390003,1/8/2018,FBS,Alabama,Georgia,RUSHING,Najee,Harris,TD,0
+4390004,1/8/2018,FBS,Alabama,Georgia,RUSHING,Najee,Harris,LONG,35
+4390005,1/8/2018,FBS,Alabama,Georgia,RUSHING,Jalen,Hurts,ATT,6
+4390006,1/8/2018,FBS,Alabama,Georgia,RUSHING,Jalen,Hurts,YDS,47
+4390007,1/8/2018,FBS,Alabama,Georgia,RUSHING,Jalen,Hurts,TD,0
+4390008,1/8/2018,FBS,Alabama,Georgia,RUSHING,Jalen,Hurts,LONG,31
+4390009,1/8/2018,FBS,Alabama,Georgia,RUSHING,Tua,Tagovailoa,ATT,12
+4390010,1/8/2018,FBS,Alabama,Georgia,RUSHING,Tua,Tagovailoa,YDS,27
+4390011,1/8/2018,FBS,Alabama,Georgia,RUSHING,Tua,Tagovailoa,TD,0
+4390012,1/8/2018,FBS,Alabama,Georgia,RUSHING,Tua,Tagovailoa,LONG,9
+4390013,1/8/2018,FBS,Alabama,Georgia,RUSHING,Bo,Scarbrough,ATT,4
+4390014,1/8/2018,FBS,Alabama,Georgia,RUSHING,Bo,Scarbrough,YDS,23
+4390015,1/8/2018,FBS,Alabama,Georgia,RUSHING,Bo,Scarbrough,TD,0
+4390016,1/8/2018,FBS,Alabama,Georgia,RUSHING,Bo,Scarbrough,LONG,16
+4390017,1/8/2018,FBS,Alabama,Georgia,RUSHING,Damien,Harris,ATT,6
+4390018,1/8/2018,FBS,Alabama,Georgia,RUSHING,Damien,Harris,YDS,17
+4390019,1/8/2018,FBS,Alabama,Georgia,RUSHING,Damien,Harris,TD,0
+4390020,1/8/2018,FBS,Alabama,Georgia,RUSHING,Damien,Harris,LONG,6
+4390021,1/8/2018,FBS,Alabama,Georgia,RUSHING,Josh,Jacobs,ATT,3
+4390022,1/8/2018,FBS,Alabama,Georgia,RUSHING,Josh,Jacobs,YDS,8
+4390023,1/8/2018,FBS,Alabama,Georgia,RUSHING,Josh,Jacobs,TD,0
+4390024,1/8/2018,FBS,Alabama,Georgia,RUSHING,Josh,Jacobs,LONG,5
+4390025,1/8/2018,FBS,Alabama,Georgia,RUSHING,,Team,ATT,2
+4390026,1/8/2018,FBS,Alabama,Georgia,RUSHING,,Team,YDS,-2
+4390027,1/8/2018,FBS,Alabama,Georgia,RUSHING,,Team,TD,0
+4390028,1/8/2018,FBS,Alabama,Georgia,RUSHING,,Team,LONG,-1
+4390029,1/8/2018,FBS,Alabama,Georgia,PASSING,Tua,Tagovailoa,CP-ATT-INT,14-24-1
+4390030,1/8/2018,FBS,Alabama,Georgia,PASSING,Tua,Tagovailoa,YDS,166
+4390031,1/8/2018,FBS,Alabama,Georgia,PASSING,Tua,Tagovailoa,TD,3
+4390032,1/8/2018,FBS,Alabama,Georgia,PASSING,Tua,Tagovailoa,LONG,41
+4390033,1/8/2018,FBS,Alabama,Georgia,PASSING,Jalen,Hurts,CP-ATT-INT,3-8-0
+4390034,1/8/2018,FBS,Alabama,Georgia,PASSING,Jalen,Hurts,YDS,21
+4390035,1/8/2018,FBS,Alabama,Georgia,PASSING,Jalen,Hurts,TD,0
+4390036,1/8/2018,FBS,Alabama,Georgia,PASSING,Jalen,Hurts,LONG,9
+4390037,1/8/2018,FBS,Alabama,Georgia,RECEIVING,Devonta,Smith,REC,1
+4390038,1/8/2018,FBS,Alabama,Georgia,RECEIVING,Devonta,Smith,YDS,41
+4390039,1/8/2018,FBS,Alabama,Georgia,RECEIVING,Devonta,Smith,TD,1
+4390040,1/8/2018,FBS,Alabama,Georgia,RECEIVING,Devonta,Smith,LONG,41
+4390041,1/8/2018,FBS,Alabama,Georgia,RECEIVING,Calvin,Ridley,REC,4
+4390042,1/8/2018,FBS,Alabama,Georgia,RECEIVING,Calvin,Ridley,YDS,32
+4390043,1/8/2018,FBS,Alabama,Georgia,RECEIVING,Calvin,Ridley,TD,1
+4390044,1/8/2018,FBS,Alabama,Georgia,RECEIVING,Calvin,Ridley,LONG,9
+4390045,1/8/2018,FBS,Alabama,Georgia,RECEIVING,Henry,RuggsIII,REC,3
+4390046,1/8/2018,FBS,Alabama,Georgia,RECEIVING,Henry,RuggsIII,YDS,29
+4390047,1/8/2018,FBS,Alabama,Georgia,RECEIVING,Henry,RuggsIII,TD,1
+4390048,1/8/2018,FBS,Alabama,Georgia,RECEIVING,Henry,RuggsIII,LONG,14
+4390049,1/8/2018,FBS,Alabama,Georgia,RECEIVING,Robert,Foster,REC,3
+4390050,1/8/2018,FBS,Alabama,Georgia,RECEIVING,Robert,Foster,YDS,28
+4390051,1/8/2018,FBS,Alabama,Georgia,RECEIVING,Robert,Foster,TD,0
+4390052,1/8/2018,FBS,Alabama,Georgia,RECEIVING,Robert,Foster,LONG,15
+4390053,1/8/2018,FBS,Alabama,Georgia,RECEIVING,Damien,Harris,REC,2
+4390054,1/8/2018,FBS,Alabama,Georgia,RECEIVING,Damien,Harris,YDS,21
+4390055,1/8/2018,FBS,Alabama,Georgia,RECEIVING,Damien,Harris,TD,0
+4390056,1/8/2018,FBS,Alabama,Georgia,RECEIVING,Damien,Harris,LONG,17
+4390057,1/8/2018,FBS,Alabama,Georgia,RECEIVING,Jerry,Jeudy,REC,1
+4390058,1/8/2018,FBS,Alabama,Georgia,RECEIVING,Jerry,Jeudy,YDS,20
+4390059,1/8/2018,FBS,Alabama,Georgia,RECEIVING,Jerry,Jeudy,TD,0
+4390060,1/8/2018,FBS,Alabama,Georgia,RECEIVING,Jerry,Jeudy,LONG,20
+4390061,1/8/2018,FBS,Alabama,Georgia,RECEIVING,Cam,Sims,REC,1
+4390062,1/8/2018,FBS,Alabama,Georgia,RECEIVING,Cam,Sims,YDS,13
+4390063,1/8/2018,FBS,Alabama,Georgia,RECEIVING,Cam,Sims,TD,0
+4390064,1/8/2018,FBS,Alabama,Georgia,RECEIVING,Cam,Sims,LONG,13
+4390065,1/8/2018,FBS,Alabama,Georgia,RECEIVING,Hale,Hentges,REC,1
+4390066,1/8/2018,FBS,Alabama,Georgia,RECEIVING,Hale,Hentges,YDS,2
+4390067,1/8/2018,FBS,Alabama,Georgia,RECEIVING,Hale,Hentges,TD,0
+4390068,1/8/2018,FBS,Alabama,Georgia,RECEIVING,Hale,Hentges,LONG,2
+4390069,1/8/2018,FBS,Alabama,Georgia,RECEIVING,Bo,Scarbrough,REC,1
+4390070,1/8/2018,FBS,Alabama,Georgia,RECEIVING,Bo,Scarbrough,YDS,1
+4390071,1/8/2018,FBS,Alabama,Georgia,RECEIVING,Bo,Scarbrough,TD,0
+4390072,1/8/2018,FBS,Alabama,Georgia,RECEIVING,Bo,Scarbrough,LONG,1
+4390073,1/8/2018,FBS,Alabama,Georgia,KICKING,Andy,Pappanastos,FG-FGA,2/4
+4390074,1/8/2018,FBS,Alabama,Georgia,KICKING,Andy,Pappanastos,LONG,43
+4390075,1/8/2018,FBS,Alabama,Georgia,KICKING,Andy,Pappanastos,XP,2
+4390076,1/8/2018,FBS,Alabama,Georgia,KICKING,Andy,Pappanastos,PTS,8
+4390077,1/8/2018,FBS,Alabama,Georgia,PUNTING,JK,Scott,NO,6
+4390078,1/8/2018,FBS,Alabama,Georgia,PUNTING,JK,Scott,YDS,285
+4390079,1/8/2018,FBS,Alabama,Georgia,PUNTING,JK,Scott,AVG,47.5
+4390080,1/8/2018,FBS,Alabama,Georgia,PUNTING,JK,Scott,LONG,56
+4390081,1/8/2018,FBS,Alabama,Georgia,PUNT RETURNS,Trevon,Diggs,NO,5
+4390082,1/8/2018,FBS,Alabama,Georgia,PUNT RETURNS,Trevon,Diggs,YDS,38
+4390083,1/8/2018,FBS,Alabama,Georgia,PUNT RETURNS,Trevon,Diggs,AVG,7.6
+4390084,1/8/2018,FBS,Alabama,Georgia,PUNT RETURNS,Trevon,Diggs,LONG,14
+4390085,1/8/2018,FBS,Alabama,Georgia,KICK RETURNS,Josh,Jacobs,NO,2
+4390086,1/8/2018,FBS,Alabama,Georgia,KICK RETURNS,Josh,Jacobs,YDS,42
+4390087,1/8/2018,FBS,Alabama,Georgia,KICK RETURNS,Josh,Jacobs,AVG,21.0
+4390088,1/8/2018,FBS,Alabama,Georgia,KICK RETURNS,Josh,Jacobs,LONG,22
+4390089,1/8/2018,FBS,Georgia,Alabama,RUSHING,Sony,Michel,ATT,14
+4390090,1/8/2018,FBS,Georgia,Alabama,RUSHING,Sony,Michel,YDS,98
+4390091,1/8/2018,FBS,Georgia,Alabama,RUSHING,Sony,Michel,TD,0
+4390092,1/8/2018,FBS,Georgia,Alabama,RUSHING,Sony,Michel,LONG,26
+4390093,1/8/2018,FBS,Georgia,Alabama,RUSHING,Nick,Chubb,ATT,18
+4390094,1/8/2018,FBS,Georgia,Alabama,RUSHING,Nick,Chubb,YDS,25
+4390095,1/8/2018,FBS,Georgia,Alabama,RUSHING,Nick,Chubb,TD,0
+4390096,1/8/2018,FBS,Georgia,Alabama,RUSHING,Nick,Chubb,LONG,7
+4390097,1/8/2018,FBS,Georgia,Alabama,RUSHING,D'Andre,Swift,ATT,4
+4390098,1/8/2018,FBS,Georgia,Alabama,RUSHING,D'Andre,Swift,YDS,15
+4390099,1/8/2018,FBS,Georgia,Alabama,RUSHING,D'Andre,Swift,TD,0
+4390100,1/8/2018,FBS,Georgia,Alabama,RUSHING,D'Andre,Swift,LONG,7
+4390101,1/8/2018,FBS,Georgia,Alabama,RUSHING,Mecole,Hardman,ATT,2
+4390102,1/8/2018,FBS,Georgia,Alabama,RUSHING,Mecole,Hardman,YDS,10
+4390103,1/8/2018,FBS,Georgia,Alabama,RUSHING,Mecole,Hardman,TD,1
+4390104,1/8/2018,FBS,Georgia,Alabama,RUSHING,Mecole,Hardman,LONG,9
+4390105,1/8/2018,FBS,Georgia,Alabama,RUSHING,Jake,Fromm,ATT,7
+4390106,1/8/2018,FBS,Georgia,Alabama,RUSHING,Jake,Fromm,YDS,-15
+4390107,1/8/2018,FBS,Georgia,Alabama,RUSHING,Jake,Fromm,TD,0
+4390108,1/8/2018,FBS,Georgia,Alabama,RUSHING,Jake,Fromm,LONG,14
+4390109,1/8/2018,FBS,Georgia,Alabama,PASSING,Jake,Fromm,CP-ATT-INT,16-32-2
+4390110,1/8/2018,FBS,Georgia,Alabama,PASSING,Jake,Fromm,YDS,232
+4390111,1/8/2018,FBS,Georgia,Alabama,PASSING,Jake,Fromm,TD,1
+4390112,1/8/2018,FBS,Georgia,Alabama,PASSING,Jake,Fromm,LONG,80
+4390113,1/8/2018,FBS,Georgia,Alabama,RECEIVING,Riley,Ridley,REC,6
+4390114,1/8/2018,FBS,Georgia,Alabama,RECEIVING,Riley,Ridley,YDS,82
+4390115,1/8/2018,FBS,Georgia,Alabama,RECEIVING,Riley,Ridley,TD,0
+4390116,1/8/2018,FBS,Georgia,Alabama,RECEIVING,Riley,Ridley,LONG,23
+4390117,1/8/2018,FBS,Georgia,Alabama,RECEIVING,Mecole,Hardman,REC,2
+4390118,1/8/2018,FBS,Georgia,Alabama,RECEIVING,Mecole,Hardman,YDS,80
+4390119,1/8/2018,FBS,Georgia,Alabama,RECEIVING,Mecole,Hardman,TD,1
+4390120,1/8/2018,FBS,Georgia,Alabama,RECEIVING,Mecole,Hardman,LONG,80
+4390121,1/8/2018,FBS,Georgia,Alabama,RECEIVING,Terry,Godwin,REC,4
+4390122,1/8/2018,FBS,Georgia,Alabama,RECEIVING,Terry,Godwin,YDS,48
+4390123,1/8/2018,FBS,Georgia,Alabama,RECEIVING,Terry,Godwin,TD,0
+4390124,1/8/2018,FBS,Georgia,Alabama,RECEIVING,Terry,Godwin,LONG,16
+4390125,1/8/2018,FBS,Georgia,Alabama,RECEIVING,Javon,Wims,REC,1
+4390126,1/8/2018,FBS,Georgia,Alabama,RECEIVING,Javon,Wims,YDS,16
+4390127,1/8/2018,FBS,Georgia,Alabama,RECEIVING,Javon,Wims,TD,0
+4390128,1/8/2018,FBS,Georgia,Alabama,RECEIVING,Javon,Wims,LONG,16
+4390129,1/8/2018,FBS,Georgia,Alabama,RECEIVING,D'Andre,Swift,REC,2
+4390130,1/8/2018,FBS,Georgia,Alabama,RECEIVING,D'Andre,Swift,YDS,7
+4390131,1/8/2018,FBS,Georgia,Alabama,RECEIVING,D'Andre,Swift,TD,0
+4390132,1/8/2018,FBS,Georgia,Alabama,RECEIVING,D'Andre,Swift,LONG,15
+4390133,1/8/2018,FBS,Georgia,Alabama,RECEIVING,Nick,Chubb,REC,1
+4390134,1/8/2018,FBS,Georgia,Alabama,RECEIVING,Nick,Chubb,YDS,-1
+4390135,1/8/2018,FBS,Georgia,Alabama,RECEIVING,Nick,Chubb,TD,0
+4390136,1/8/2018,FBS,Georgia,Alabama,RECEIVING,Nick,Chubb,LONG,-1
+4390137,1/8/2018,FBS,Georgia,Alabama,KICKING,Rodrigo,Blankenship,FG-FGA,3/3
+4390138,1/8/2018,FBS,Georgia,Alabama,KICKING,Rodrigo,Blankenship,LONG,51
+4390139,1/8/2018,FBS,Georgia,Alabama,KICKING,Rodrigo,Blankenship,XP,2
+4390140,1/8/2018,FBS,Georgia,Alabama,KICKING,Rodrigo,Blankenship,PTS,11
+4390141,1/8/2018,FBS,Georgia,Alabama,PUNTING,Cameron,Nizialek,NO,6
+4390142,1/8/2018,FBS,Georgia,Alabama,PUNTING,Cameron,Nizialek,YDS,276
+4390143,1/8/2018,FBS,Georgia,Alabama,PUNTING,Cameron,Nizialek,AVG,46.0
+4390144,1/8/2018,FBS,Georgia,Alabama,PUNTING,Cameron,Nizialek,LONG,51
+4390145,1/8/2018,FBS,Georgia,Alabama,PUNTING,Brice,Ramsey,NO,1
+4390146,1/8/2018,FBS,Georgia,Alabama,PUNTING,Brice,Ramsey,YDS,19
+4390147,1/8/2018,FBS,Georgia,Alabama,PUNTING,Brice,Ramsey,AVG,19.0
+4390148,1/8/2018,FBS,Georgia,Alabama,PUNTING,Brice,Ramsey,LONG,19
+4390149,1/8/2018,FBS,Georgia,Alabama,PUNT RETURNS,Mecole,Hardman,NO,2
+4390150,1/8/2018,FBS,Georgia,Alabama,PUNT RETURNS,Mecole,Hardman,YDS,34
+4390151,1/8/2018,FBS,Georgia,Alabama,PUNT RETURNS,Mecole,Hardman,AVG,17.0
+4390152,1/8/2018,FBS,Georgia,Alabama,PUNT RETURNS,Mecole,Hardman,LONG,19
+4390153,1/8/2018,FBS,Georgia,Alabama,PUNT RETURNS,Terry,Godwin,NO,0
+4390154,1/8/2018,FBS,Georgia,Alabama,PUNT RETURNS,Terry,Godwin,YDS,0
+4390155,1/8/2018,FBS,Georgia,Alabama,PUNT RETURNS,Terry,Godwin,AVG,-
+4390156,1/8/2018,FBS,Georgia,Alabama,PUNT RETURNS,Terry,Godwin,LONG,0
+4390157,1/8/2018,FBS,Georgia,Alabama,KICK RETURNS,Mecole,Hardman,NO,3
+4390158,1/8/2018,FBS,Georgia,Alabama,KICK RETURNS,Mecole,Hardman,YDS,40
+4390159,1/8/2018,FBS,Georgia,Alabama,KICK RETURNS,Mecole,Hardman,AVG,13.3
+4390160,1/8/2018,FBS,Georgia,Alabama,KICK RETURNS,Mecole,Hardman,LONG,20

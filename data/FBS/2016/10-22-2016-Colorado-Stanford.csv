@@ -1,0 +1,133 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3129001,10/22/2016,FBS,Colorado,Stanford,RUSHING,Phillip,Lindsay,ATT,12
+3129002,10/22/2016,FBS,Colorado,Stanford,RUSHING,Phillip,Lindsay,YDS,131
+3129003,10/22/2016,FBS,Colorado,Stanford,RUSHING,Phillip,Lindsay,TD,0
+3129004,10/22/2016,FBS,Colorado,Stanford,RUSHING,Phillip,Lindsay,LONG,26
+3129005,10/22/2016,FBS,Colorado,Stanford,RUSHING,Kyle,Evans,ATT,14
+3129006,10/22/2016,FBS,Colorado,Stanford,RUSHING,Kyle,Evans,YDS,60
+3129007,10/22/2016,FBS,Colorado,Stanford,RUSHING,Kyle,Evans,TD,0
+3129008,10/22/2016,FBS,Colorado,Stanford,RUSHING,Kyle,Evans,LONG,16
+3129009,10/22/2016,FBS,Colorado,Stanford,RUSHING,Sefo,Liufau,ATT,18
+3129010,10/22/2016,FBS,Colorado,Stanford,RUSHING,Sefo,Liufau,YDS,36
+3129011,10/22/2016,FBS,Colorado,Stanford,RUSHING,Sefo,Liufau,TD,0
+3129012,10/22/2016,FBS,Colorado,Stanford,RUSHING,Sefo,Liufau,LONG,14
+3129013,10/22/2016,FBS,Colorado,Stanford,RUSHING,Shay,Fields,ATT,1
+3129014,10/22/2016,FBS,Colorado,Stanford,RUSHING,Shay,Fields,YDS,12
+3129015,10/22/2016,FBS,Colorado,Stanford,RUSHING,Shay,Fields,TD,0
+3129016,10/22/2016,FBS,Colorado,Stanford,RUSHING,Shay,Fields,LONG,12
+3129017,10/22/2016,FBS,Colorado,Stanford,RUSHING,,Team,ATT,4
+3129018,10/22/2016,FBS,Colorado,Stanford,RUSHING,,Team,YDS,-15
+3129019,10/22/2016,FBS,Colorado,Stanford,RUSHING,,Team,TD,0
+3129020,10/22/2016,FBS,Colorado,Stanford,RUSHING,,Team,LONG,-2
+3129021,10/22/2016,FBS,Colorado,Stanford,PASSING,Sefo,Liufau,CP-ATT-INT,12-25-0
+3129022,10/22/2016,FBS,Colorado,Stanford,PASSING,Sefo,Liufau,YDS,135
+3129023,10/22/2016,FBS,Colorado,Stanford,PASSING,Sefo,Liufau,TD,1
+3129024,10/22/2016,FBS,Colorado,Stanford,PASSING,Sefo,Liufau,LONG,19
+3129025,10/22/2016,FBS,Colorado,Stanford,RECEIVING,Shay,Fields,REC,4
+3129026,10/22/2016,FBS,Colorado,Stanford,RECEIVING,Shay,Fields,YDS,51
+3129027,10/22/2016,FBS,Colorado,Stanford,RECEIVING,Shay,Fields,TD,1
+3129028,10/22/2016,FBS,Colorado,Stanford,RECEIVING,Shay,Fields,LONG,15
+3129029,10/22/2016,FBS,Colorado,Stanford,RECEIVING,Devin,Ross,REC,4
+3129030,10/22/2016,FBS,Colorado,Stanford,RECEIVING,Devin,Ross,YDS,33
+3129031,10/22/2016,FBS,Colorado,Stanford,RECEIVING,Devin,Ross,TD,0
+3129032,10/22/2016,FBS,Colorado,Stanford,RECEIVING,Devin,Ross,LONG,10
+3129033,10/22/2016,FBS,Colorado,Stanford,RECEIVING,Bryce,Bobo,REC,2
+3129034,10/22/2016,FBS,Colorado,Stanford,RECEIVING,Bryce,Bobo,YDS,27
+3129035,10/22/2016,FBS,Colorado,Stanford,RECEIVING,Bryce,Bobo,TD,0
+3129036,10/22/2016,FBS,Colorado,Stanford,RECEIVING,Bryce,Bobo,LONG,19
+3129037,10/22/2016,FBS,Colorado,Stanford,RECEIVING,Lee,Walker,REC,1
+3129038,10/22/2016,FBS,Colorado,Stanford,RECEIVING,Lee,Walker,YDS,13
+3129039,10/22/2016,FBS,Colorado,Stanford,RECEIVING,Lee,Walker,TD,0
+3129040,10/22/2016,FBS,Colorado,Stanford,RECEIVING,Lee,Walker,LONG,13
+3129041,10/22/2016,FBS,Colorado,Stanford,RECEIVING,Phillip,Lindsay,REC,1
+3129042,10/22/2016,FBS,Colorado,Stanford,RECEIVING,Phillip,Lindsay,YDS,11
+3129043,10/22/2016,FBS,Colorado,Stanford,RECEIVING,Phillip,Lindsay,TD,0
+3129044,10/22/2016,FBS,Colorado,Stanford,RECEIVING,Phillip,Lindsay,LONG,11
+3129045,10/22/2016,FBS,Colorado,Stanford,KICKING,Chris,Graham,FG-FGA,1/3
+3129046,10/22/2016,FBS,Colorado,Stanford,KICKING,Chris,Graham,LONG,22
+3129047,10/22/2016,FBS,Colorado,Stanford,KICKING,Chris,Graham,XP,1
+3129048,10/22/2016,FBS,Colorado,Stanford,KICKING,Chris,Graham,PTS,4
+3129049,10/22/2016,FBS,Colorado,Stanford,KICKING,Alex,Kinney,FG-FGA,0/1
+3129050,10/22/2016,FBS,Colorado,Stanford,KICKING,Alex,Kinney,LONG,0
+3129051,10/22/2016,FBS,Colorado,Stanford,KICKING,Alex,Kinney,XP,0
+3129052,10/22/2016,FBS,Colorado,Stanford,KICKING,Alex,Kinney,PTS,0
+3129053,10/22/2016,FBS,Colorado,Stanford,PUNTING,Alex,Kinney,NO,5
+3129054,10/22/2016,FBS,Colorado,Stanford,PUNTING,Alex,Kinney,YDS,210
+3129055,10/22/2016,FBS,Colorado,Stanford,PUNTING,Alex,Kinney,AVG,42.0
+3129056,10/22/2016,FBS,Colorado,Stanford,PUNTING,Alex,Kinney,LONG,59
+3129057,10/22/2016,FBS,Colorado,Stanford,PUNT RETURNS,Isaiah,Oliver,NO,2
+3129058,10/22/2016,FBS,Colorado,Stanford,PUNT RETURNS,Isaiah,Oliver,YDS,7
+3129059,10/22/2016,FBS,Colorado,Stanford,PUNT RETURNS,Isaiah,Oliver,AVG,3.5
+3129060,10/22/2016,FBS,Colorado,Stanford,PUNT RETURNS,Isaiah,Oliver,LONG,7
+3129061,10/22/2016,FBS,Colorado,Stanford,KICK RETURNS,Tony,Julmisse,NO,1
+3129062,10/22/2016,FBS,Colorado,Stanford,KICK RETURNS,Tony,Julmisse,YDS,18
+3129063,10/22/2016,FBS,Colorado,Stanford,KICK RETURNS,Tony,Julmisse,AVG,18.0
+3129064,10/22/2016,FBS,Colorado,Stanford,KICK RETURNS,Tony,Julmisse,LONG,18
+3129065,10/22/2016,FBS,Stanford,Colorado,RUSHING,Christian,McCaffrey,ATT,21
+3129066,10/22/2016,FBS,Stanford,Colorado,RUSHING,Christian,McCaffrey,YDS,92
+3129067,10/22/2016,FBS,Stanford,Colorado,RUSHING,Christian,McCaffrey,TD,0
+3129068,10/22/2016,FBS,Stanford,Colorado,RUSHING,Christian,McCaffrey,LONG,11
+3129069,10/22/2016,FBS,Stanford,Colorado,RUSHING,Bryce,Love,ATT,3
+3129070,10/22/2016,FBS,Stanford,Colorado,RUSHING,Bryce,Love,YDS,24
+3129071,10/22/2016,FBS,Stanford,Colorado,RUSHING,Bryce,Love,TD,0
+3129072,10/22/2016,FBS,Stanford,Colorado,RUSHING,Bryce,Love,LONG,21
+3129073,10/22/2016,FBS,Stanford,Colorado,RUSHING,Keller,Chryst,ATT,3
+3129074,10/22/2016,FBS,Stanford,Colorado,RUSHING,Keller,Chryst,YDS,6
+3129075,10/22/2016,FBS,Stanford,Colorado,RUSHING,Keller,Chryst,TD,0
+3129076,10/22/2016,FBS,Stanford,Colorado,RUSHING,Keller,Chryst,LONG,4
+3129077,10/22/2016,FBS,Stanford,Colorado,RUSHING,Casey,Tucker,ATT,0
+3129078,10/22/2016,FBS,Stanford,Colorado,RUSHING,Casey,Tucker,YDS,0
+3129079,10/22/2016,FBS,Stanford,Colorado,RUSHING,Casey,Tucker,TD,0
+3129080,10/22/2016,FBS,Stanford,Colorado,RUSHING,Casey,Tucker,LONG,0
+3129081,10/22/2016,FBS,Stanford,Colorado,RUSHING,,Team,ATT,1
+3129082,10/22/2016,FBS,Stanford,Colorado,RUSHING,,Team,YDS,-2
+3129083,10/22/2016,FBS,Stanford,Colorado,RUSHING,,Team,TD,0
+3129084,10/22/2016,FBS,Stanford,Colorado,RUSHING,,Team,LONG,-2
+3129085,10/22/2016,FBS,Stanford,Colorado,RUSHING,Ryan,Burns,ATT,5
+3129086,10/22/2016,FBS,Stanford,Colorado,RUSHING,Ryan,Burns,YDS,-27
+3129087,10/22/2016,FBS,Stanford,Colorado,RUSHING,Ryan,Burns,TD,0
+3129088,10/22/2016,FBS,Stanford,Colorado,RUSHING,Ryan,Burns,LONG,7
+3129089,10/22/2016,FBS,Stanford,Colorado,PASSING,Ryan,Burns,CP-ATT-INT,16-29-3
+3129090,10/22/2016,FBS,Stanford,Colorado,PASSING,Ryan,Burns,YDS,170
+3129091,10/22/2016,FBS,Stanford,Colorado,PASSING,Ryan,Burns,TD,0
+3129092,10/22/2016,FBS,Stanford,Colorado,PASSING,Ryan,Burns,LONG,26
+3129093,10/22/2016,FBS,Stanford,Colorado,RECEIVING,Trenton,Irwin,REC,7
+3129094,10/22/2016,FBS,Stanford,Colorado,RECEIVING,Trenton,Irwin,YDS,88
+3129095,10/22/2016,FBS,Stanford,Colorado,RECEIVING,Trenton,Irwin,TD,0
+3129096,10/22/2016,FBS,Stanford,Colorado,RECEIVING,Trenton,Irwin,LONG,19
+3129097,10/22/2016,FBS,Stanford,Colorado,RECEIVING,Michael,Rector,REC,4
+3129098,10/22/2016,FBS,Stanford,Colorado,RECEIVING,Michael,Rector,YDS,36
+3129099,10/22/2016,FBS,Stanford,Colorado,RECEIVING,Michael,Rector,TD,0
+3129100,10/22/2016,FBS,Stanford,Colorado,RECEIVING,Michael,Rector,LONG,25
+3129101,10/22/2016,FBS,Stanford,Colorado,RECEIVING,Christian,McCaffrey,REC,2
+3129102,10/22/2016,FBS,Stanford,Colorado,RECEIVING,Christian,McCaffrey,YDS,26
+3129103,10/22/2016,FBS,Stanford,Colorado,RECEIVING,Christian,McCaffrey,TD,0
+3129104,10/22/2016,FBS,Stanford,Colorado,RECEIVING,Christian,McCaffrey,LONG,26
+3129105,10/22/2016,FBS,Stanford,Colorado,RECEIVING,Dalton,Schultz,REC,2
+3129106,10/22/2016,FBS,Stanford,Colorado,RECEIVING,Dalton,Schultz,YDS,15
+3129107,10/22/2016,FBS,Stanford,Colorado,RECEIVING,Dalton,Schultz,TD,0
+3129108,10/22/2016,FBS,Stanford,Colorado,RECEIVING,Dalton,Schultz,LONG,12
+3129109,10/22/2016,FBS,Stanford,Colorado,RECEIVING,Bryce,Love,REC,1
+3129110,10/22/2016,FBS,Stanford,Colorado,RECEIVING,Bryce,Love,YDS,5
+3129111,10/22/2016,FBS,Stanford,Colorado,RECEIVING,Bryce,Love,TD,0
+3129112,10/22/2016,FBS,Stanford,Colorado,RECEIVING,Bryce,Love,LONG,5
+3129113,10/22/2016,FBS,Stanford,Colorado,KICKING,Conrad,Ukropina,FG-FGA,1/1
+3129114,10/22/2016,FBS,Stanford,Colorado,KICKING,Conrad,Ukropina,LONG,26
+3129115,10/22/2016,FBS,Stanford,Colorado,KICKING,Conrad,Ukropina,XP,0
+3129116,10/22/2016,FBS,Stanford,Colorado,KICKING,Conrad,Ukropina,PTS,3
+3129117,10/22/2016,FBS,Stanford,Colorado,PUNTING,Jake,Bailey,NO,5
+3129118,10/22/2016,FBS,Stanford,Colorado,PUNTING,Jake,Bailey,YDS,253
+3129119,10/22/2016,FBS,Stanford,Colorado,PUNTING,Jake,Bailey,AVG,50.6
+3129120,10/22/2016,FBS,Stanford,Colorado,PUNTING,Jake,Bailey,LONG,61
+3129121,10/22/2016,FBS,Stanford,Colorado,PUNT RETURNS,Christian,McCaffrey,NO,1
+3129122,10/22/2016,FBS,Stanford,Colorado,PUNT RETURNS,Christian,McCaffrey,YDS,-4
+3129123,10/22/2016,FBS,Stanford,Colorado,PUNT RETURNS,Christian,McCaffrey,AVG,-
+3129124,10/22/2016,FBS,Stanford,Colorado,PUNT RETURNS,Christian,McCaffrey,LONG,0
+3129125,10/22/2016,FBS,Stanford,Colorado,KICK RETURNS,Terrence,Alexander,NO,1
+3129126,10/22/2016,FBS,Stanford,Colorado,KICK RETURNS,Terrence,Alexander,YDS,17
+3129127,10/22/2016,FBS,Stanford,Colorado,KICK RETURNS,Terrence,Alexander,AVG,17.0
+3129128,10/22/2016,FBS,Stanford,Colorado,KICK RETURNS,Terrence,Alexander,LONG,17
+3129129,10/22/2016,FBS,Stanford,Colorado,KICK RETURNS,Michael,Rector,NO,1
+3129130,10/22/2016,FBS,Stanford,Colorado,KICK RETURNS,Michael,Rector,YDS,0
+3129131,10/22/2016,FBS,Stanford,Colorado,KICK RETURNS,Michael,Rector,AVG,-
+3129132,10/22/2016,FBS,Stanford,Colorado,KICK RETURNS,Michael,Rector,LONG,0

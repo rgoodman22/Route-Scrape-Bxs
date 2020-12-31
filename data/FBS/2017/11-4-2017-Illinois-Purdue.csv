@@ -1,0 +1,173 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+4129001,11/4/2017,FBS,Illinois,Purdue,RUSHING,Kendrick,Foster,ATT,17
+4129002,11/4/2017,FBS,Illinois,Purdue,RUSHING,Kendrick,Foster,YDS,73
+4129003,11/4/2017,FBS,Illinois,Purdue,RUSHING,Kendrick,Foster,TD,0
+4129004,11/4/2017,FBS,Illinois,Purdue,RUSHING,Kendrick,Foster,LONG,33
+4129005,11/4/2017,FBS,Illinois,Purdue,RUSHING,Cam,Thomas,ATT,14
+4129006,11/4/2017,FBS,Illinois,Purdue,RUSHING,Cam,Thomas,YDS,30
+4129007,11/4/2017,FBS,Illinois,Purdue,RUSHING,Cam,Thomas,TD,0
+4129008,11/4/2017,FBS,Illinois,Purdue,RUSHING,Cam,Thomas,LONG,26
+4129009,11/4/2017,FBS,Illinois,Purdue,RUSHING,,Team,ATT,1
+4129010,11/4/2017,FBS,Illinois,Purdue,RUSHING,,Team,YDS,-9
+4129011,11/4/2017,FBS,Illinois,Purdue,RUSHING,,Team,TD,0
+4129012,11/4/2017,FBS,Illinois,Purdue,RUSHING,,Team,LONG,-9
+4129013,11/4/2017,FBS,Illinois,Purdue,RUSHING,Jeff,GeorgeJr.,ATT,3
+4129014,11/4/2017,FBS,Illinois,Purdue,RUSHING,Jeff,GeorgeJr.,YDS,-14
+4129015,11/4/2017,FBS,Illinois,Purdue,RUSHING,Jeff,GeorgeJr.,TD,0
+4129016,11/4/2017,FBS,Illinois,Purdue,RUSHING,Jeff,GeorgeJr.,LONG,3
+4129017,11/4/2017,FBS,Illinois,Purdue,PASSING,Cam,Thomas,CP-ATT-INT,10-20-0
+4129018,11/4/2017,FBS,Illinois,Purdue,PASSING,Cam,Thomas,YDS,159
+4129019,11/4/2017,FBS,Illinois,Purdue,PASSING,Cam,Thomas,TD,0
+4129020,11/4/2017,FBS,Illinois,Purdue,PASSING,Cam,Thomas,LONG,42
+4129021,11/4/2017,FBS,Illinois,Purdue,PASSING,Jeff,GeorgeJr.,CP-ATT-INT,2-7-1
+4129022,11/4/2017,FBS,Illinois,Purdue,PASSING,Jeff,GeorgeJr.,YDS,11
+4129023,11/4/2017,FBS,Illinois,Purdue,PASSING,Jeff,GeorgeJr.,TD,1
+4129024,11/4/2017,FBS,Illinois,Purdue,PASSING,Jeff,GeorgeJr.,LONG,8
+4129025,11/4/2017,FBS,Illinois,Purdue,RECEIVING,Ricky,Smalling,REC,2
+4129026,11/4/2017,FBS,Illinois,Purdue,RECEIVING,Ricky,Smalling,YDS,46
+4129027,11/4/2017,FBS,Illinois,Purdue,RECEIVING,Ricky,Smalling,TD,0
+4129028,11/4/2017,FBS,Illinois,Purdue,RECEIVING,Ricky,Smalling,LONG,42
+4129029,11/4/2017,FBS,Illinois,Purdue,RECEIVING,Kendrick,Foster,REC,2
+4129030,11/4/2017,FBS,Illinois,Purdue,RECEIVING,Kendrick,Foster,YDS,46
+4129031,11/4/2017,FBS,Illinois,Purdue,RECEIVING,Kendrick,Foster,TD,0
+4129032,11/4/2017,FBS,Illinois,Purdue,RECEIVING,Kendrick,Foster,LONG,40
+4129033,11/4/2017,FBS,Illinois,Purdue,RECEIVING,Malik,Turner,REC,2
+4129034,11/4/2017,FBS,Illinois,Purdue,RECEIVING,Malik,Turner,YDS,34
+4129035,11/4/2017,FBS,Illinois,Purdue,RECEIVING,Malik,Turner,TD,0
+4129036,11/4/2017,FBS,Illinois,Purdue,RECEIVING,Malik,Turner,LONG,22
+4129037,11/4/2017,FBS,Illinois,Purdue,RECEIVING,Dominic,Thieman,REC,3
+4129038,11/4/2017,FBS,Illinois,Purdue,RECEIVING,Dominic,Thieman,YDS,25
+4129039,11/4/2017,FBS,Illinois,Purdue,RECEIVING,Dominic,Thieman,TD,0
+4129040,11/4/2017,FBS,Illinois,Purdue,RECEIVING,Dominic,Thieman,LONG,13
+4129041,11/4/2017,FBS,Illinois,Purdue,RECEIVING,Louis,Dorsey,REC,2
+4129042,11/4/2017,FBS,Illinois,Purdue,RECEIVING,Louis,Dorsey,YDS,11
+4129043,11/4/2017,FBS,Illinois,Purdue,RECEIVING,Louis,Dorsey,TD,1
+4129044,11/4/2017,FBS,Illinois,Purdue,RECEIVING,Louis,Dorsey,LONG,8
+4129045,11/4/2017,FBS,Illinois,Purdue,RECEIVING,Henry,McGrew,REC,1
+4129046,11/4/2017,FBS,Illinois,Purdue,RECEIVING,Henry,McGrew,YDS,8
+4129047,11/4/2017,FBS,Illinois,Purdue,RECEIVING,Henry,McGrew,TD,0
+4129048,11/4/2017,FBS,Illinois,Purdue,RECEIVING,Henry,McGrew,LONG,8
+4129049,11/4/2017,FBS,Illinois,Purdue,KICKING,Chase,McLaughlin,FG-FGA,1/1
+4129050,11/4/2017,FBS,Illinois,Purdue,KICKING,Chase,McLaughlin,LONG,31
+4129051,11/4/2017,FBS,Illinois,Purdue,KICKING,Chase,McLaughlin,XP,1
+4129052,11/4/2017,FBS,Illinois,Purdue,KICKING,Chase,McLaughlin,PTS,4
+4129053,11/4/2017,FBS,Illinois,Purdue,PUNTING,Blake,Hayes,NO,6
+4129054,11/4/2017,FBS,Illinois,Purdue,PUNTING,Blake,Hayes,YDS,244
+4129055,11/4/2017,FBS,Illinois,Purdue,PUNTING,Blake,Hayes,AVG,40.7
+4129056,11/4/2017,FBS,Illinois,Purdue,PUNTING,Blake,Hayes,LONG,47
+4129057,11/4/2017,FBS,Illinois,Purdue,PUNT RETURNS,Malik,Turner,NO,0
+4129058,11/4/2017,FBS,Illinois,Purdue,PUNT RETURNS,Malik,Turner,YDS,0
+4129059,11/4/2017,FBS,Illinois,Purdue,PUNT RETURNS,Malik,Turner,AVG,-
+4129060,11/4/2017,FBS,Illinois,Purdue,PUNT RETURNS,Malik,Turner,LONG,0
+4129061,11/4/2017,FBS,Illinois,Purdue,PUNT RETURNS,Nate,Hobbs,NO,0
+4129062,11/4/2017,FBS,Illinois,Purdue,PUNT RETURNS,Nate,Hobbs,YDS,0
+4129063,11/4/2017,FBS,Illinois,Purdue,PUNT RETURNS,Nate,Hobbs,AVG,-
+4129064,11/4/2017,FBS,Illinois,Purdue,PUNT RETURNS,Nate,Hobbs,LONG,0
+4129065,11/4/2017,FBS,Illinois,Purdue,KICK RETURNS,Nate,Hobbs,NO,2
+4129066,11/4/2017,FBS,Illinois,Purdue,KICK RETURNS,Nate,Hobbs,YDS,41
+4129067,11/4/2017,FBS,Illinois,Purdue,KICK RETURNS,Nate,Hobbs,AVG,20.5
+4129068,11/4/2017,FBS,Illinois,Purdue,KICK RETURNS,Nate,Hobbs,LONG,23
+4129069,11/4/2017,FBS,Purdue,Illinois,RUSHING,D.J.,Knox,ATT,14
+4129070,11/4/2017,FBS,Purdue,Illinois,RUSHING,D.J.,Knox,YDS,85
+4129071,11/4/2017,FBS,Purdue,Illinois,RUSHING,D.J.,Knox,TD,1
+4129072,11/4/2017,FBS,Purdue,Illinois,RUSHING,D.J.,Knox,LONG,33
+4129073,11/4/2017,FBS,Purdue,Illinois,RUSHING,Richie,Worship,ATT,10
+4129074,11/4/2017,FBS,Purdue,Illinois,RUSHING,Richie,Worship,YDS,44
+4129075,11/4/2017,FBS,Purdue,Illinois,RUSHING,Richie,Worship,TD,1
+4129076,11/4/2017,FBS,Purdue,Illinois,RUSHING,Richie,Worship,LONG,14
+4129077,11/4/2017,FBS,Purdue,Illinois,RUSHING,Jared,Sparks,ATT,5
+4129078,11/4/2017,FBS,Purdue,Illinois,RUSHING,Jared,Sparks,YDS,40
+4129079,11/4/2017,FBS,Purdue,Illinois,RUSHING,Jared,Sparks,TD,0
+4129080,11/4/2017,FBS,Purdue,Illinois,RUSHING,Jared,Sparks,LONG,17
+4129081,11/4/2017,FBS,Purdue,Illinois,RUSHING,Markell,Jones,ATT,7
+4129082,11/4/2017,FBS,Purdue,Illinois,RUSHING,Markell,Jones,YDS,36
+4129083,11/4/2017,FBS,Purdue,Illinois,RUSHING,Markell,Jones,TD,0
+4129084,11/4/2017,FBS,Purdue,Illinois,RUSHING,Markell,Jones,LONG,11
+4129085,11/4/2017,FBS,Purdue,Illinois,RUSHING,David,Blough,ATT,3
+4129086,11/4/2017,FBS,Purdue,Illinois,RUSHING,David,Blough,YDS,16
+4129087,11/4/2017,FBS,Purdue,Illinois,RUSHING,David,Blough,TD,0
+4129088,11/4/2017,FBS,Purdue,Illinois,RUSHING,David,Blough,LONG,13
+4129089,11/4/2017,FBS,Purdue,Illinois,RUSHING,Terry,Wright,ATT,1
+4129090,11/4/2017,FBS,Purdue,Illinois,RUSHING,Terry,Wright,YDS,3
+4129091,11/4/2017,FBS,Purdue,Illinois,RUSHING,Terry,Wright,TD,0
+4129092,11/4/2017,FBS,Purdue,Illinois,RUSHING,Terry,Wright,LONG,3
+4129093,11/4/2017,FBS,Purdue,Illinois,RUSHING,,Team,ATT,2
+4129094,11/4/2017,FBS,Purdue,Illinois,RUSHING,,Team,YDS,-2
+4129095,11/4/2017,FBS,Purdue,Illinois,RUSHING,,Team,TD,0
+4129096,11/4/2017,FBS,Purdue,Illinois,RUSHING,,Team,LONG,-1
+4129097,11/4/2017,FBS,Purdue,Illinois,RUSHING,Jackson,Anthrop,ATT,1
+4129098,11/4/2017,FBS,Purdue,Illinois,RUSHING,Jackson,Anthrop,YDS,-4
+4129099,11/4/2017,FBS,Purdue,Illinois,RUSHING,Jackson,Anthrop,TD,0
+4129100,11/4/2017,FBS,Purdue,Illinois,RUSHING,Jackson,Anthrop,LONG,-4
+4129101,11/4/2017,FBS,Purdue,Illinois,RUSHING,Elijah,Sindelar,ATT,1
+4129102,11/4/2017,FBS,Purdue,Illinois,RUSHING,Elijah,Sindelar,YDS,-9
+4129103,11/4/2017,FBS,Purdue,Illinois,RUSHING,Elijah,Sindelar,TD,0
+4129104,11/4/2017,FBS,Purdue,Illinois,RUSHING,Elijah,Sindelar,LONG,-9
+4129105,11/4/2017,FBS,Purdue,Illinois,PASSING,David,Blough,CP-ATT-INT,16-24-0
+4129106,11/4/2017,FBS,Purdue,Illinois,PASSING,David,Blough,YDS,194
+4129107,11/4/2017,FBS,Purdue,Illinois,PASSING,David,Blough,TD,0
+4129108,11/4/2017,FBS,Purdue,Illinois,PASSING,David,Blough,LONG,36
+4129109,11/4/2017,FBS,Purdue,Illinois,PASSING,Elijah,Sindelar,CP-ATT-INT,2-2-0
+4129110,11/4/2017,FBS,Purdue,Illinois,PASSING,Elijah,Sindelar,YDS,32
+4129111,11/4/2017,FBS,Purdue,Illinois,PASSING,Elijah,Sindelar,TD,1
+4129112,11/4/2017,FBS,Purdue,Illinois,PASSING,Elijah,Sindelar,LONG,29
+4129113,11/4/2017,FBS,Purdue,Illinois,PASSING,,Team,CP-ATT-INT,0-2-0
+4129114,11/4/2017,FBS,Purdue,Illinois,PASSING,,Team,YDS,0
+4129115,11/4/2017,FBS,Purdue,Illinois,PASSING,,Team,TD,0
+4129116,11/4/2017,FBS,Purdue,Illinois,PASSING,,Team,LONG,0
+4129117,11/4/2017,FBS,Purdue,Illinois,RECEIVING,Brycen,Hopkins,REC,3
+4129118,11/4/2017,FBS,Purdue,Illinois,RECEIVING,Brycen,Hopkins,YDS,53
+4129119,11/4/2017,FBS,Purdue,Illinois,RECEIVING,Brycen,Hopkins,TD,0
+4129120,11/4/2017,FBS,Purdue,Illinois,RECEIVING,Brycen,Hopkins,LONG,21
+4129121,11/4/2017,FBS,Purdue,Illinois,RECEIVING,Richie,Worship,REC,5
+4129122,11/4/2017,FBS,Purdue,Illinois,RECEIVING,Richie,Worship,YDS,43
+4129123,11/4/2017,FBS,Purdue,Illinois,RECEIVING,Richie,Worship,TD,0
+4129124,11/4/2017,FBS,Purdue,Illinois,RECEIVING,Richie,Worship,LONG,17
+4129125,11/4/2017,FBS,Purdue,Illinois,RECEIVING,Jarrett,Burgess,REC,3
+4129126,11/4/2017,FBS,Purdue,Illinois,RECEIVING,Jarrett,Burgess,YDS,43
+4129127,11/4/2017,FBS,Purdue,Illinois,RECEIVING,Jarrett,Burgess,TD,0
+4129128,11/4/2017,FBS,Purdue,Illinois,RECEIVING,Jarrett,Burgess,LONG,36
+4129129,11/4/2017,FBS,Purdue,Illinois,RECEIVING,Gregory,Phillips,REC,1
+4129130,11/4/2017,FBS,Purdue,Illinois,RECEIVING,Gregory,Phillips,YDS,29
+4129131,11/4/2017,FBS,Purdue,Illinois,RECEIVING,Gregory,Phillips,TD,0
+4129132,11/4/2017,FBS,Purdue,Illinois,RECEIVING,Gregory,Phillips,LONG,29
+4129133,11/4/2017,FBS,Purdue,Illinois,RECEIVING,Jackson,Anthrop,REC,2
+4129134,11/4/2017,FBS,Purdue,Illinois,RECEIVING,Jackson,Anthrop,YDS,23
+4129135,11/4/2017,FBS,Purdue,Illinois,RECEIVING,Jackson,Anthrop,TD,0
+4129136,11/4/2017,FBS,Purdue,Illinois,RECEIVING,Jackson,Anthrop,LONG,13
+4129137,11/4/2017,FBS,Purdue,Illinois,RECEIVING,Terry,Wright,REC,1
+4129138,11/4/2017,FBS,Purdue,Illinois,RECEIVING,Terry,Wright,YDS,16
+4129139,11/4/2017,FBS,Purdue,Illinois,RECEIVING,Terry,Wright,TD,0
+4129140,11/4/2017,FBS,Purdue,Illinois,RECEIVING,Terry,Wright,LONG,16
+4129141,11/4/2017,FBS,Purdue,Illinois,RECEIVING,Markell,Jones,REC,1
+4129142,11/4/2017,FBS,Purdue,Illinois,RECEIVING,Markell,Jones,YDS,10
+4129143,11/4/2017,FBS,Purdue,Illinois,RECEIVING,Markell,Jones,TD,0
+4129144,11/4/2017,FBS,Purdue,Illinois,RECEIVING,Markell,Jones,LONG,10
+4129145,11/4/2017,FBS,Purdue,Illinois,RECEIVING,D.J.,Knox,REC,1
+4129146,11/4/2017,FBS,Purdue,Illinois,RECEIVING,D.J.,Knox,YDS,6
+4129147,11/4/2017,FBS,Purdue,Illinois,RECEIVING,D.J.,Knox,TD,0
+4129148,11/4/2017,FBS,Purdue,Illinois,RECEIVING,D.J.,Knox,LONG,6
+4129149,11/4/2017,FBS,Purdue,Illinois,RECEIVING,Cole,Herdman,REC,1
+4129150,11/4/2017,FBS,Purdue,Illinois,RECEIVING,Cole,Herdman,YDS,3
+4129151,11/4/2017,FBS,Purdue,Illinois,RECEIVING,Cole,Herdman,TD,1
+4129152,11/4/2017,FBS,Purdue,Illinois,RECEIVING,Cole,Herdman,LONG,3
+4129153,11/4/2017,FBS,Purdue,Illinois,KICKING,J.D.,Dellinger,FG-FGA,2/2
+4129154,11/4/2017,FBS,Purdue,Illinois,KICKING,J.D.,Dellinger,LONG,30
+4129155,11/4/2017,FBS,Purdue,Illinois,KICKING,J.D.,Dellinger,XP,1
+4129156,11/4/2017,FBS,Purdue,Illinois,KICKING,J.D.,Dellinger,PTS,7
+4129157,11/4/2017,FBS,Purdue,Illinois,KICKING,Spencer,Evans,FG-FGA,1/1
+4129158,11/4/2017,FBS,Purdue,Illinois,KICKING,Spencer,Evans,LONG,42
+4129159,11/4/2017,FBS,Purdue,Illinois,KICKING,Spencer,Evans,XP,1
+4129160,11/4/2017,FBS,Purdue,Illinois,KICKING,Spencer,Evans,PTS,4
+4129161,11/4/2017,FBS,Purdue,Illinois,PUNTING,Joe,Schopper,NO,4
+4129162,11/4/2017,FBS,Purdue,Illinois,PUNTING,Joe,Schopper,YDS,162
+4129163,11/4/2017,FBS,Purdue,Illinois,PUNTING,Joe,Schopper,AVG,40.5
+4129164,11/4/2017,FBS,Purdue,Illinois,PUNTING,Joe,Schopper,LONG,44
+4129165,11/4/2017,FBS,Purdue,Illinois,PUNT RETURNS,Jackson,Anthrop,NO,2
+4129166,11/4/2017,FBS,Purdue,Illinois,PUNT RETURNS,Jackson,Anthrop,YDS,5
+4129167,11/4/2017,FBS,Purdue,Illinois,PUNT RETURNS,Jackson,Anthrop,AVG,2.5
+4129168,11/4/2017,FBS,Purdue,Illinois,PUNT RETURNS,Jackson,Anthrop,LONG,5
+4129169,11/4/2017,FBS,Purdue,Illinois,KICK RETURNS,Richie,Worship,NO,1
+4129170,11/4/2017,FBS,Purdue,Illinois,KICK RETURNS,Richie,Worship,YDS,22
+4129171,11/4/2017,FBS,Purdue,Illinois,KICK RETURNS,Richie,Worship,AVG,22.0
+4129172,11/4/2017,FBS,Purdue,Illinois,KICK RETURNS,Richie,Worship,LONG,22

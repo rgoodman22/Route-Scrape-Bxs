@@ -1,0 +1,161 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3165001,10/29/2016,FBS,Kansas State,Iowa State,RUSHING,Jesse,Ertz,ATT,9
+3165002,10/29/2016,FBS,Kansas State,Iowa State,RUSHING,Jesse,Ertz,YDS,106
+3165003,10/29/2016,FBS,Kansas State,Iowa State,RUSHING,Jesse,Ertz,TD,0
+3165004,10/29/2016,FBS,Kansas State,Iowa State,RUSHING,Jesse,Ertz,LONG,54
+3165005,10/29/2016,FBS,Kansas State,Iowa State,RUSHING,Justin,Silmon,ATT,9
+3165006,10/29/2016,FBS,Kansas State,Iowa State,RUSHING,Justin,Silmon,YDS,54
+3165007,10/29/2016,FBS,Kansas State,Iowa State,RUSHING,Justin,Silmon,TD,1
+3165008,10/29/2016,FBS,Kansas State,Iowa State,RUSHING,Justin,Silmon,LONG,12
+3165009,10/29/2016,FBS,Kansas State,Iowa State,RUSHING,Alex,Barnes,ATT,5
+3165010,10/29/2016,FBS,Kansas State,Iowa State,RUSHING,Alex,Barnes,YDS,37
+3165011,10/29/2016,FBS,Kansas State,Iowa State,RUSHING,Alex,Barnes,TD,1
+3165012,10/29/2016,FBS,Kansas State,Iowa State,RUSHING,Alex,Barnes,LONG,13
+3165013,10/29/2016,FBS,Kansas State,Iowa State,RUSHING,Charles,Jones,ATT,12
+3165014,10/29/2016,FBS,Kansas State,Iowa State,RUSHING,Charles,Jones,YDS,37
+3165015,10/29/2016,FBS,Kansas State,Iowa State,RUSHING,Charles,Jones,TD,0
+3165016,10/29/2016,FBS,Kansas State,Iowa State,RUSHING,Charles,Jones,LONG,9
+3165017,10/29/2016,FBS,Kansas State,Iowa State,RUSHING,Alex,Delton,ATT,4
+3165018,10/29/2016,FBS,Kansas State,Iowa State,RUSHING,Alex,Delton,YDS,11
+3165019,10/29/2016,FBS,Kansas State,Iowa State,RUSHING,Alex,Delton,TD,0
+3165020,10/29/2016,FBS,Kansas State,Iowa State,RUSHING,Alex,Delton,LONG,8
+3165021,10/29/2016,FBS,Kansas State,Iowa State,RUSHING,Byron,Pringle,ATT,1
+3165022,10/29/2016,FBS,Kansas State,Iowa State,RUSHING,Byron,Pringle,YDS,4
+3165023,10/29/2016,FBS,Kansas State,Iowa State,RUSHING,Byron,Pringle,TD,0
+3165024,10/29/2016,FBS,Kansas State,Iowa State,RUSHING,Byron,Pringle,LONG,4
+3165025,10/29/2016,FBS,Kansas State,Iowa State,RUSHING,Winston,Dimel,ATT,1
+3165026,10/29/2016,FBS,Kansas State,Iowa State,RUSHING,Winston,Dimel,YDS,1
+3165027,10/29/2016,FBS,Kansas State,Iowa State,RUSHING,Winston,Dimel,TD,1
+3165028,10/29/2016,FBS,Kansas State,Iowa State,RUSHING,Winston,Dimel,LONG,1
+3165029,10/29/2016,FBS,Kansas State,Iowa State,RUSHING,,Team,ATT,2
+3165030,10/29/2016,FBS,Kansas State,Iowa State,RUSHING,,Team,YDS,-3
+3165031,10/29/2016,FBS,Kansas State,Iowa State,RUSHING,,Team,TD,0
+3165032,10/29/2016,FBS,Kansas State,Iowa State,RUSHING,,Team,LONG,-1
+3165033,10/29/2016,FBS,Kansas State,Iowa State,PASSING,Jesse,Ertz,CP-ATT-INT,18-28-0
+3165034,10/29/2016,FBS,Kansas State,Iowa State,PASSING,Jesse,Ertz,YDS,151
+3165035,10/29/2016,FBS,Kansas State,Iowa State,PASSING,Jesse,Ertz,TD,1
+3165036,10/29/2016,FBS,Kansas State,Iowa State,PASSING,Jesse,Ertz,LONG,22
+3165037,10/29/2016,FBS,Kansas State,Iowa State,RECEIVING,Deante,Burton,REC,5
+3165038,10/29/2016,FBS,Kansas State,Iowa State,RECEIVING,Deante,Burton,YDS,72
+3165039,10/29/2016,FBS,Kansas State,Iowa State,RECEIVING,Deante,Burton,TD,1
+3165040,10/29/2016,FBS,Kansas State,Iowa State,RECEIVING,Deante,Burton,LONG,22
+3165041,10/29/2016,FBS,Kansas State,Iowa State,RECEIVING,Dominique,Heath,REC,9
+3165042,10/29/2016,FBS,Kansas State,Iowa State,RECEIVING,Dominique,Heath,YDS,46
+3165043,10/29/2016,FBS,Kansas State,Iowa State,RECEIVING,Dominique,Heath,TD,0
+3165044,10/29/2016,FBS,Kansas State,Iowa State,RECEIVING,Dominique,Heath,LONG,13
+3165045,10/29/2016,FBS,Kansas State,Iowa State,RECEIVING,Byron,Pringle,REC,2
+3165046,10/29/2016,FBS,Kansas State,Iowa State,RECEIVING,Byron,Pringle,YDS,14
+3165047,10/29/2016,FBS,Kansas State,Iowa State,RECEIVING,Byron,Pringle,TD,0
+3165048,10/29/2016,FBS,Kansas State,Iowa State,RECEIVING,Byron,Pringle,LONG,13
+3165049,10/29/2016,FBS,Kansas State,Iowa State,RECEIVING,Corey,Sutton,REC,1
+3165050,10/29/2016,FBS,Kansas State,Iowa State,RECEIVING,Corey,Sutton,YDS,12
+3165051,10/29/2016,FBS,Kansas State,Iowa State,RECEIVING,Corey,Sutton,TD,0
+3165052,10/29/2016,FBS,Kansas State,Iowa State,RECEIVING,Corey,Sutton,LONG,12
+3165053,10/29/2016,FBS,Kansas State,Iowa State,RECEIVING,Isaiah,Zuber,REC,1
+3165054,10/29/2016,FBS,Kansas State,Iowa State,RECEIVING,Isaiah,Zuber,YDS,7
+3165055,10/29/2016,FBS,Kansas State,Iowa State,RECEIVING,Isaiah,Zuber,TD,0
+3165056,10/29/2016,FBS,Kansas State,Iowa State,RECEIVING,Isaiah,Zuber,LONG,7
+3165057,10/29/2016,FBS,Kansas State,Iowa State,KICKING,Matthew,McCrane,FG-FGA,1/1
+3165058,10/29/2016,FBS,Kansas State,Iowa State,KICKING,Matthew,McCrane,LONG,23
+3165059,10/29/2016,FBS,Kansas State,Iowa State,KICKING,Matthew,McCrane,XP,3
+3165060,10/29/2016,FBS,Kansas State,Iowa State,KICKING,Matthew,McCrane,PTS,6
+3165061,10/29/2016,FBS,Kansas State,Iowa State,KICKING,Ian,Patterson,FG-FGA,0/0
+3165062,10/29/2016,FBS,Kansas State,Iowa State,KICKING,Ian,Patterson,LONG,-
+3165063,10/29/2016,FBS,Kansas State,Iowa State,KICKING,Ian,Patterson,XP,1
+3165064,10/29/2016,FBS,Kansas State,Iowa State,KICKING,Ian,Patterson,PTS,1
+3165065,10/29/2016,FBS,Kansas State,Iowa State,PUNTING,Mitch,Lochbihler,NO,2
+3165066,10/29/2016,FBS,Kansas State,Iowa State,PUNTING,Mitch,Lochbihler,YDS,109
+3165067,10/29/2016,FBS,Kansas State,Iowa State,PUNTING,Mitch,Lochbihler,AVG,54.5
+3165068,10/29/2016,FBS,Kansas State,Iowa State,PUNTING,Mitch,Lochbihler,LONG,55
+3165069,10/29/2016,FBS,Kansas State,Iowa State,PUNTING,Nick,Walsh,NO,1
+3165070,10/29/2016,FBS,Kansas State,Iowa State,PUNTING,Nick,Walsh,YDS,49
+3165071,10/29/2016,FBS,Kansas State,Iowa State,PUNTING,Nick,Walsh,AVG,49.0
+3165072,10/29/2016,FBS,Kansas State,Iowa State,PUNTING,Nick,Walsh,LONG,49
+3165073,10/29/2016,FBS,Kansas State,Iowa State,PUNT RETURNS,Byron,Pringle,NO,1
+3165074,10/29/2016,FBS,Kansas State,Iowa State,PUNT RETURNS,Byron,Pringle,YDS,0
+3165075,10/29/2016,FBS,Kansas State,Iowa State,PUNT RETURNS,Byron,Pringle,AVG,-
+3165076,10/29/2016,FBS,Kansas State,Iowa State,PUNT RETURNS,Byron,Pringle,LONG,0
+3165077,10/29/2016,FBS,Kansas State,Iowa State,PUNT RETURNS,Dominique,Heath,NO,0
+3165078,10/29/2016,FBS,Kansas State,Iowa State,PUNT RETURNS,Dominique,Heath,YDS,0
+3165079,10/29/2016,FBS,Kansas State,Iowa State,PUNT RETURNS,Dominique,Heath,AVG,-
+3165080,10/29/2016,FBS,Kansas State,Iowa State,PUNT RETURNS,Dominique,Heath,LONG,0
+3165081,10/29/2016,FBS,Kansas State,Iowa State,KICK RETURNS,Byron,Pringle,NO,2
+3165082,10/29/2016,FBS,Kansas State,Iowa State,KICK RETURNS,Byron,Pringle,YDS,29
+3165083,10/29/2016,FBS,Kansas State,Iowa State,KICK RETURNS,Byron,Pringle,AVG,14.5
+3165084,10/29/2016,FBS,Kansas State,Iowa State,KICK RETURNS,Byron,Pringle,LONG,15
+3165085,10/29/2016,FBS,Iowa State,Kansas State,RUSHING,Joel,Lanning,ATT,10
+3165086,10/29/2016,FBS,Iowa State,Kansas State,RUSHING,Joel,Lanning,YDS,74
+3165087,10/29/2016,FBS,Iowa State,Kansas State,RUSHING,Joel,Lanning,TD,1
+3165088,10/29/2016,FBS,Iowa State,Kansas State,RUSHING,Joel,Lanning,LONG,28
+3165089,10/29/2016,FBS,Iowa State,Kansas State,RUSHING,David,Montgomery,ATT,9
+3165090,10/29/2016,FBS,Iowa State,Kansas State,RUSHING,David,Montgomery,YDS,39
+3165091,10/29/2016,FBS,Iowa State,Kansas State,RUSHING,David,Montgomery,TD,0
+3165092,10/29/2016,FBS,Iowa State,Kansas State,RUSHING,David,Montgomery,LONG,13
+3165093,10/29/2016,FBS,Iowa State,Kansas State,RUSHING,Mike,Warren,ATT,6
+3165094,10/29/2016,FBS,Iowa State,Kansas State,RUSHING,Mike,Warren,YDS,34
+3165095,10/29/2016,FBS,Iowa State,Kansas State,RUSHING,Mike,Warren,TD,0
+3165096,10/29/2016,FBS,Iowa State,Kansas State,RUSHING,Mike,Warren,LONG,12
+3165097,10/29/2016,FBS,Iowa State,Kansas State,RUSHING,Jacob,Park,ATT,6
+3165098,10/29/2016,FBS,Iowa State,Kansas State,RUSHING,Jacob,Park,YDS,7
+3165099,10/29/2016,FBS,Iowa State,Kansas State,RUSHING,Jacob,Park,TD,0
+3165100,10/29/2016,FBS,Iowa State,Kansas State,RUSHING,Jacob,Park,LONG,15
+3165101,10/29/2016,FBS,Iowa State,Kansas State,PASSING,Jacob,Park,CP-ATT-INT,19-35-1
+3165102,10/29/2016,FBS,Iowa State,Kansas State,PASSING,Jacob,Park,YDS,301
+3165103,10/29/2016,FBS,Iowa State,Kansas State,PASSING,Jacob,Park,TD,2
+3165104,10/29/2016,FBS,Iowa State,Kansas State,PASSING,Jacob,Park,LONG,48
+3165105,10/29/2016,FBS,Iowa State,Kansas State,PASSING,Joel,Lanning,CP-ATT-INT,4-7-0
+3165106,10/29/2016,FBS,Iowa State,Kansas State,PASSING,Joel,Lanning,YDS,28
+3165107,10/29/2016,FBS,Iowa State,Kansas State,PASSING,Joel,Lanning,TD,0
+3165108,10/29/2016,FBS,Iowa State,Kansas State,PASSING,Joel,Lanning,LONG,9
+3165109,10/29/2016,FBS,Iowa State,Kansas State,PASSING,Deshaunte,Jones,CP-ATT-INT,1-1-0
+3165110,10/29/2016,FBS,Iowa State,Kansas State,PASSING,Deshaunte,Jones,YDS,10
+3165111,10/29/2016,FBS,Iowa State,Kansas State,PASSING,Deshaunte,Jones,TD,0
+3165112,10/29/2016,FBS,Iowa State,Kansas State,PASSING,Deshaunte,Jones,LONG,10
+3165113,10/29/2016,FBS,Iowa State,Kansas State,RECEIVING,Allen,Lazard,REC,8
+3165114,10/29/2016,FBS,Iowa State,Kansas State,RECEIVING,Allen,Lazard,YDS,134
+3165115,10/29/2016,FBS,Iowa State,Kansas State,RECEIVING,Allen,Lazard,TD,0
+3165116,10/29/2016,FBS,Iowa State,Kansas State,RECEIVING,Allen,Lazard,LONG,48
+3165117,10/29/2016,FBS,Iowa State,Kansas State,RECEIVING,Dondre,Daley,REC,4
+3165118,10/29/2016,FBS,Iowa State,Kansas State,RECEIVING,Dondre,Daley,YDS,60
+3165119,10/29/2016,FBS,Iowa State,Kansas State,RECEIVING,Dondre,Daley,TD,0
+3165120,10/29/2016,FBS,Iowa State,Kansas State,RECEIVING,Dondre,Daley,LONG,23
+3165121,10/29/2016,FBS,Iowa State,Kansas State,RECEIVING,Deshaunte,Jones,REC,5
+3165122,10/29/2016,FBS,Iowa State,Kansas State,RECEIVING,Deshaunte,Jones,YDS,43
+3165123,10/29/2016,FBS,Iowa State,Kansas State,RECEIVING,Deshaunte,Jones,TD,2
+3165124,10/29/2016,FBS,Iowa State,Kansas State,RECEIVING,Deshaunte,Jones,LONG,24
+3165125,10/29/2016,FBS,Iowa State,Kansas State,RECEIVING,Carson,Epps,REC,1
+3165126,10/29/2016,FBS,Iowa State,Kansas State,RECEIVING,Carson,Epps,YDS,39
+3165127,10/29/2016,FBS,Iowa State,Kansas State,RECEIVING,Carson,Epps,TD,0
+3165128,10/29/2016,FBS,Iowa State,Kansas State,RECEIVING,Carson,Epps,LONG,39
+3165129,10/29/2016,FBS,Iowa State,Kansas State,RECEIVING,David,Montgomery,REC,1
+3165130,10/29/2016,FBS,Iowa State,Kansas State,RECEIVING,David,Montgomery,YDS,28
+3165131,10/29/2016,FBS,Iowa State,Kansas State,RECEIVING,David,Montgomery,TD,0
+3165132,10/29/2016,FBS,Iowa State,Kansas State,RECEIVING,David,Montgomery,LONG,28
+3165133,10/29/2016,FBS,Iowa State,Kansas State,RECEIVING,Trever,Ryen,REC,3
+3165134,10/29/2016,FBS,Iowa State,Kansas State,RECEIVING,Trever,Ryen,YDS,16
+3165135,10/29/2016,FBS,Iowa State,Kansas State,RECEIVING,Trever,Ryen,TD,0
+3165136,10/29/2016,FBS,Iowa State,Kansas State,RECEIVING,Trever,Ryen,LONG,9
+3165137,10/29/2016,FBS,Iowa State,Kansas State,RECEIVING,Jacob,Park,REC,1
+3165138,10/29/2016,FBS,Iowa State,Kansas State,RECEIVING,Jacob,Park,YDS,10
+3165139,10/29/2016,FBS,Iowa State,Kansas State,RECEIVING,Jacob,Park,TD,0
+3165140,10/29/2016,FBS,Iowa State,Kansas State,RECEIVING,Jacob,Park,LONG,10
+3165141,10/29/2016,FBS,Iowa State,Kansas State,RECEIVING,Hakeem,Butler,REC,1
+3165142,10/29/2016,FBS,Iowa State,Kansas State,RECEIVING,Hakeem,Butler,YDS,9
+3165143,10/29/2016,FBS,Iowa State,Kansas State,RECEIVING,Hakeem,Butler,TD,0
+3165144,10/29/2016,FBS,Iowa State,Kansas State,RECEIVING,Hakeem,Butler,LONG,9
+3165145,10/29/2016,FBS,Iowa State,Kansas State,KICKING,Cole,Netten,FG-FGA,1/1
+3165146,10/29/2016,FBS,Iowa State,Kansas State,KICKING,Cole,Netten,LONG,24
+3165147,10/29/2016,FBS,Iowa State,Kansas State,KICKING,Cole,Netten,XP,3
+3165148,10/29/2016,FBS,Iowa State,Kansas State,KICKING,Cole,Netten,PTS,6
+3165149,10/29/2016,FBS,Iowa State,Kansas State,PUNTING,Colin,Downing,NO,2
+3165150,10/29/2016,FBS,Iowa State,Kansas State,PUNTING,Colin,Downing,YDS,68
+3165151,10/29/2016,FBS,Iowa State,Kansas State,PUNTING,Colin,Downing,AVG,34.0
+3165152,10/29/2016,FBS,Iowa State,Kansas State,PUNTING,Colin,Downing,LONG,38
+3165153,10/29/2016,FBS,Iowa State,Kansas State,PUNT RETURNS,D'Andre,Payne,NO,2
+3165154,10/29/2016,FBS,Iowa State,Kansas State,PUNT RETURNS,D'Andre,Payne,YDS,28
+3165155,10/29/2016,FBS,Iowa State,Kansas State,PUNT RETURNS,D'Andre,Payne,AVG,14.0
+3165156,10/29/2016,FBS,Iowa State,Kansas State,PUNT RETURNS,D'Andre,Payne,LONG,14
+3165157,10/29/2016,FBS,Iowa State,Kansas State,KICK RETURNS,Kene,Nwangwu,NO,5
+3165158,10/29/2016,FBS,Iowa State,Kansas State,KICK RETURNS,Kene,Nwangwu,YDS,107
+3165159,10/29/2016,FBS,Iowa State,Kansas State,KICK RETURNS,Kene,Nwangwu,AVG,21.4
+3165160,10/29/2016,FBS,Iowa State,Kansas State,KICK RETURNS,Kene,Nwangwu,LONG,26

@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3371001,11/19/2016,FBS,Northwestern,Minnesota,RUSHING,Justin,Jackson,ATT,22
+3371002,11/19/2016,FBS,Northwestern,Minnesota,RUSHING,Justin,Jackson,YDS,90
+3371003,11/19/2016,FBS,Northwestern,Minnesota,RUSHING,Justin,Jackson,TD,1
+3371004,11/19/2016,FBS,Northwestern,Minnesota,RUSHING,Justin,Jackson,LONG,19
+3371005,11/19/2016,FBS,Northwestern,Minnesota,RUSHING,John,MotenIV,ATT,1
+3371006,11/19/2016,FBS,Northwestern,Minnesota,RUSHING,John,MotenIV,YDS,0
+3371007,11/19/2016,FBS,Northwestern,Minnesota,RUSHING,John,MotenIV,TD,0
+3371008,11/19/2016,FBS,Northwestern,Minnesota,RUSHING,John,MotenIV,LONG,0
+3371009,11/19/2016,FBS,Northwestern,Minnesota,RUSHING,,Team,ATT,1
+3371010,11/19/2016,FBS,Northwestern,Minnesota,RUSHING,,Team,YDS,-1
+3371011,11/19/2016,FBS,Northwestern,Minnesota,RUSHING,,Team,TD,0
+3371012,11/19/2016,FBS,Northwestern,Minnesota,RUSHING,,Team,LONG,-1
+3371013,11/19/2016,FBS,Northwestern,Minnesota,RUSHING,Clayton,Thorson,ATT,9
+3371014,11/19/2016,FBS,Northwestern,Minnesota,RUSHING,Clayton,Thorson,YDS,-26
+3371015,11/19/2016,FBS,Northwestern,Minnesota,RUSHING,Clayton,Thorson,TD,0
+3371016,11/19/2016,FBS,Northwestern,Minnesota,RUSHING,Clayton,Thorson,LONG,7
+3371017,11/19/2016,FBS,Northwestern,Minnesota,PASSING,Clayton,Thorson,CP-ATT-INT,28-45-0
+3371018,11/19/2016,FBS,Northwestern,Minnesota,PASSING,Clayton,Thorson,YDS,276
+3371019,11/19/2016,FBS,Northwestern,Minnesota,PASSING,Clayton,Thorson,TD,1
+3371020,11/19/2016,FBS,Northwestern,Minnesota,PASSING,Clayton,Thorson,LONG,25
+3371021,11/19/2016,FBS,Northwestern,Minnesota,RECEIVING,Austin,Carr,REC,5
+3371022,11/19/2016,FBS,Northwestern,Minnesota,RECEIVING,Austin,Carr,YDS,68
+3371023,11/19/2016,FBS,Northwestern,Minnesota,RECEIVING,Austin,Carr,TD,0
+3371024,11/19/2016,FBS,Northwestern,Minnesota,RECEIVING,Austin,Carr,LONG,20
+3371025,11/19/2016,FBS,Northwestern,Minnesota,RECEIVING,Flynn,Nagel,REC,6
+3371026,11/19/2016,FBS,Northwestern,Minnesota,RECEIVING,Flynn,Nagel,YDS,65
+3371027,11/19/2016,FBS,Northwestern,Minnesota,RECEIVING,Flynn,Nagel,TD,1
+3371028,11/19/2016,FBS,Northwestern,Minnesota,RECEIVING,Flynn,Nagel,LONG,21
+3371029,11/19/2016,FBS,Northwestern,Minnesota,RECEIVING,Andrew,Scanlan,REC,4
+3371030,11/19/2016,FBS,Northwestern,Minnesota,RECEIVING,Andrew,Scanlan,YDS,54
+3371031,11/19/2016,FBS,Northwestern,Minnesota,RECEIVING,Andrew,Scanlan,TD,0
+3371032,11/19/2016,FBS,Northwestern,Minnesota,RECEIVING,Andrew,Scanlan,LONG,25
+3371033,11/19/2016,FBS,Northwestern,Minnesota,RECEIVING,Justin,Jackson,REC,8
+3371034,11/19/2016,FBS,Northwestern,Minnesota,RECEIVING,Justin,Jackson,YDS,51
+3371035,11/19/2016,FBS,Northwestern,Minnesota,RECEIVING,Justin,Jackson,TD,0
+3371036,11/19/2016,FBS,Northwestern,Minnesota,RECEIVING,Justin,Jackson,LONG,19
+3371037,11/19/2016,FBS,Northwestern,Minnesota,RECEIVING,Macan,Wilson,REC,1
+3371038,11/19/2016,FBS,Northwestern,Minnesota,RECEIVING,Macan,Wilson,YDS,14
+3371039,11/19/2016,FBS,Northwestern,Minnesota,RECEIVING,Macan,Wilson,TD,0
+3371040,11/19/2016,FBS,Northwestern,Minnesota,RECEIVING,Macan,Wilson,LONG,14
+3371041,11/19/2016,FBS,Northwestern,Minnesota,RECEIVING,Garrett,Dickerson,REC,3
+3371042,11/19/2016,FBS,Northwestern,Minnesota,RECEIVING,Garrett,Dickerson,YDS,14
+3371043,11/19/2016,FBS,Northwestern,Minnesota,RECEIVING,Garrett,Dickerson,TD,0
+3371044,11/19/2016,FBS,Northwestern,Minnesota,RECEIVING,Garrett,Dickerson,LONG,7
+3371045,11/19/2016,FBS,Northwestern,Minnesota,RECEIVING,Ben,Skowronek,REC,1
+3371046,11/19/2016,FBS,Northwestern,Minnesota,RECEIVING,Ben,Skowronek,YDS,10
+3371047,11/19/2016,FBS,Northwestern,Minnesota,RECEIVING,Ben,Skowronek,TD,0
+3371048,11/19/2016,FBS,Northwestern,Minnesota,RECEIVING,Ben,Skowronek,LONG,10
+3371049,11/19/2016,FBS,Northwestern,Minnesota,KICKING,Jack,Mitchell,FG-FGA,0/1
+3371050,11/19/2016,FBS,Northwestern,Minnesota,KICKING,Jack,Mitchell,LONG,0
+3371051,11/19/2016,FBS,Northwestern,Minnesota,KICKING,Jack,Mitchell,XP,0
+3371052,11/19/2016,FBS,Northwestern,Minnesota,KICKING,Jack,Mitchell,PTS,0
+3371053,11/19/2016,FBS,Northwestern,Minnesota,PUNTING,Hunter,Niswander,NO,6
+3371054,11/19/2016,FBS,Northwestern,Minnesota,PUNTING,Hunter,Niswander,YDS,217
+3371055,11/19/2016,FBS,Northwestern,Minnesota,PUNTING,Hunter,Niswander,AVG,36.2
+3371056,11/19/2016,FBS,Northwestern,Minnesota,PUNTING,Hunter,Niswander,LONG,51
+3371057,11/19/2016,FBS,Northwestern,Minnesota,PUNT RETURNS,Flynn,Nagel,NO,1
+3371058,11/19/2016,FBS,Northwestern,Minnesota,PUNT RETURNS,Flynn,Nagel,YDS,5
+3371059,11/19/2016,FBS,Northwestern,Minnesota,PUNT RETURNS,Flynn,Nagel,AVG,5.0
+3371060,11/19/2016,FBS,Northwestern,Minnesota,PUNT RETURNS,Flynn,Nagel,LONG,5
+3371061,11/19/2016,FBS,Northwestern,Minnesota,KICK RETURNS,Solomon,Vault,NO,3
+3371062,11/19/2016,FBS,Northwestern,Minnesota,KICK RETURNS,Solomon,Vault,YDS,55
+3371063,11/19/2016,FBS,Northwestern,Minnesota,KICK RETURNS,Solomon,Vault,AVG,18.3
+3371064,11/19/2016,FBS,Northwestern,Minnesota,KICK RETURNS,Solomon,Vault,LONG,20
+3371065,11/19/2016,FBS,Minnesota,Northwestern,RUSHING,Shannon,Brooks,ATT,14
+3371066,11/19/2016,FBS,Minnesota,Northwestern,RUSHING,Shannon,Brooks,YDS,73
+3371067,11/19/2016,FBS,Minnesota,Northwestern,RUSHING,Shannon,Brooks,TD,0
+3371068,11/19/2016,FBS,Minnesota,Northwestern,RUSHING,Shannon,Brooks,LONG,32
+3371069,11/19/2016,FBS,Minnesota,Northwestern,RUSHING,Rodney,Smith,ATT,16
+3371070,11/19/2016,FBS,Minnesota,Northwestern,RUSHING,Rodney,Smith,YDS,32
+3371071,11/19/2016,FBS,Minnesota,Northwestern,RUSHING,Rodney,Smith,TD,1
+3371072,11/19/2016,FBS,Minnesota,Northwestern,RUSHING,Rodney,Smith,LONG,16
+3371073,11/19/2016,FBS,Minnesota,Northwestern,RUSHING,Mitch,Leidner,ATT,8
+3371074,11/19/2016,FBS,Minnesota,Northwestern,RUSHING,Mitch,Leidner,YDS,28
+3371075,11/19/2016,FBS,Minnesota,Northwestern,RUSHING,Mitch,Leidner,TD,1
+3371076,11/19/2016,FBS,Minnesota,Northwestern,RUSHING,Mitch,Leidner,LONG,12
+3371077,11/19/2016,FBS,Minnesota,Northwestern,RUSHING,,Team,ATT,2
+3371078,11/19/2016,FBS,Minnesota,Northwestern,RUSHING,,Team,YDS,-2
+3371079,11/19/2016,FBS,Minnesota,Northwestern,RUSHING,,Team,TD,0
+3371080,11/19/2016,FBS,Minnesota,Northwestern,RUSHING,,Team,LONG,-1
+3371081,11/19/2016,FBS,Minnesota,Northwestern,PASSING,Mitch,Leidner,CP-ATT-INT,14-25-1
+3371082,11/19/2016,FBS,Minnesota,Northwestern,PASSING,Mitch,Leidner,YDS,197
+3371083,11/19/2016,FBS,Minnesota,Northwestern,PASSING,Mitch,Leidner,TD,1
+3371084,11/19/2016,FBS,Minnesota,Northwestern,PASSING,Mitch,Leidner,LONG,62
+3371085,11/19/2016,FBS,Minnesota,Northwestern,RECEIVING,Rashad,Still,REC,2
+3371086,11/19/2016,FBS,Minnesota,Northwestern,RECEIVING,Rashad,Still,YDS,81
+3371087,11/19/2016,FBS,Minnesota,Northwestern,RECEIVING,Rashad,Still,TD,0
+3371088,11/19/2016,FBS,Minnesota,Northwestern,RECEIVING,Rashad,Still,LONG,62
+3371089,11/19/2016,FBS,Minnesota,Northwestern,RECEIVING,Drew,Wolitarsky,REC,4
+3371090,11/19/2016,FBS,Minnesota,Northwestern,RECEIVING,Drew,Wolitarsky,YDS,42
+3371091,11/19/2016,FBS,Minnesota,Northwestern,RECEIVING,Drew,Wolitarsky,TD,1
+3371092,11/19/2016,FBS,Minnesota,Northwestern,RECEIVING,Drew,Wolitarsky,LONG,17
+3371093,11/19/2016,FBS,Minnesota,Northwestern,RECEIVING,Shannon,Brooks,REC,2
+3371094,11/19/2016,FBS,Minnesota,Northwestern,RECEIVING,Shannon,Brooks,YDS,33
+3371095,11/19/2016,FBS,Minnesota,Northwestern,RECEIVING,Shannon,Brooks,TD,0
+3371096,11/19/2016,FBS,Minnesota,Northwestern,RECEIVING,Shannon,Brooks,LONG,26
+3371097,11/19/2016,FBS,Minnesota,Northwestern,RECEIVING,Eric,Carter,REC,2
+3371098,11/19/2016,FBS,Minnesota,Northwestern,RECEIVING,Eric,Carter,YDS,24
+3371099,11/19/2016,FBS,Minnesota,Northwestern,RECEIVING,Eric,Carter,TD,0
+3371100,11/19/2016,FBS,Minnesota,Northwestern,RECEIVING,Eric,Carter,LONG,20
+3371101,11/19/2016,FBS,Minnesota,Northwestern,RECEIVING,Nate,Wozniak,REC,1
+3371102,11/19/2016,FBS,Minnesota,Northwestern,RECEIVING,Nate,Wozniak,YDS,11
+3371103,11/19/2016,FBS,Minnesota,Northwestern,RECEIVING,Nate,Wozniak,TD,0
+3371104,11/19/2016,FBS,Minnesota,Northwestern,RECEIVING,Nate,Wozniak,LONG,11
+3371105,11/19/2016,FBS,Minnesota,Northwestern,RECEIVING,Rodney,Smith,REC,3
+3371106,11/19/2016,FBS,Minnesota,Northwestern,RECEIVING,Rodney,Smith,YDS,6
+3371107,11/19/2016,FBS,Minnesota,Northwestern,RECEIVING,Rodney,Smith,TD,0
+3371108,11/19/2016,FBS,Minnesota,Northwestern,RECEIVING,Rodney,Smith,LONG,6
+3371109,11/19/2016,FBS,Minnesota,Northwestern,KICKING,Emmit,Carpenter,FG-FGA,3/3
+3371110,11/19/2016,FBS,Minnesota,Northwestern,KICKING,Emmit,Carpenter,LONG,42
+3371111,11/19/2016,FBS,Minnesota,Northwestern,KICKING,Emmit,Carpenter,XP,2
+3371112,11/19/2016,FBS,Minnesota,Northwestern,KICKING,Emmit,Carpenter,PTS,11
+3371113,11/19/2016,FBS,Minnesota,Northwestern,PUNTING,Ryan,Santoso,NO,6
+3371114,11/19/2016,FBS,Minnesota,Northwestern,PUNTING,Ryan,Santoso,YDS,242
+3371115,11/19/2016,FBS,Minnesota,Northwestern,PUNTING,Ryan,Santoso,AVG,40.3
+3371116,11/19/2016,FBS,Minnesota,Northwestern,PUNTING,Ryan,Santoso,LONG,48
+3371117,11/19/2016,FBS,Minnesota,Northwestern,PUNT RETURNS,Antonio,Shenault,NO,1
+3371118,11/19/2016,FBS,Minnesota,Northwestern,PUNT RETURNS,Antonio,Shenault,YDS,2
+3371119,11/19/2016,FBS,Minnesota,Northwestern,PUNT RETURNS,Antonio,Shenault,AVG,2.0
+3371120,11/19/2016,FBS,Minnesota,Northwestern,PUNT RETURNS,Antonio,Shenault,LONG,2
+3371121,11/19/2016,FBS,Minnesota,Northwestern,PUNT RETURNS,KiAnte,Hardin,NO,1
+3371122,11/19/2016,FBS,Minnesota,Northwestern,PUNT RETURNS,KiAnte,Hardin,YDS,-2
+3371123,11/19/2016,FBS,Minnesota,Northwestern,PUNT RETURNS,KiAnte,Hardin,AVG,-
+3371124,11/19/2016,FBS,Minnesota,Northwestern,PUNT RETURNS,KiAnte,Hardin,LONG,-2
+3371125,11/19/2016,FBS,Minnesota,Northwestern,KICK RETURNS,Rashad,Still,NO,1
+3371126,11/19/2016,FBS,Minnesota,Northwestern,KICK RETURNS,Rashad,Still,YDS,30
+3371127,11/19/2016,FBS,Minnesota,Northwestern,KICK RETURNS,Rashad,Still,AVG,30.0
+3371128,11/19/2016,FBS,Minnesota,Northwestern,KICK RETURNS,Rashad,Still,LONG,30
+3371129,11/19/2016,FBS,Minnesota,Northwestern,KICK RETURNS,KiAnte,Hardin,NO,1
+3371130,11/19/2016,FBS,Minnesota,Northwestern,KICK RETURNS,KiAnte,Hardin,YDS,18
+3371131,11/19/2016,FBS,Minnesota,Northwestern,KICK RETURNS,KiAnte,Hardin,AVG,18.0
+3371132,11/19/2016,FBS,Minnesota,Northwestern,KICK RETURNS,KiAnte,Hardin,LONG,18
+3371133,11/19/2016,FBS,Minnesota,Northwestern,KICK RETURNS,Jalen,Myrick,NO,1
+3371134,11/19/2016,FBS,Minnesota,Northwestern,KICK RETURNS,Jalen,Myrick,YDS,17
+3371135,11/19/2016,FBS,Minnesota,Northwestern,KICK RETURNS,Jalen,Myrick,AVG,17.0
+3371136,11/19/2016,FBS,Minnesota,Northwestern,KICK RETURNS,Jalen,Myrick,LONG,17

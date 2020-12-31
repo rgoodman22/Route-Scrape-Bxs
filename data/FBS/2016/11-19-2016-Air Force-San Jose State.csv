@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3336001,11/19/2016,FBS,Air Force,San Jose State,RUSHING,Arion,Worthman,ATT,28
+3336002,11/19/2016,FBS,Air Force,San Jose State,RUSHING,Arion,Worthman,YDS,215
+3336003,11/19/2016,FBS,Air Force,San Jose State,RUSHING,Arion,Worthman,TD,2
+3336004,11/19/2016,FBS,Air Force,San Jose State,RUSHING,Arion,Worthman,LONG,30
+3336005,11/19/2016,FBS,Air Force,San Jose State,RUSHING,Timothy,McVey,ATT,9
+3336006,11/19/2016,FBS,Air Force,San Jose State,RUSHING,Timothy,McVey,YDS,89
+3336007,11/19/2016,FBS,Air Force,San Jose State,RUSHING,Timothy,McVey,TD,0
+3336008,11/19/2016,FBS,Air Force,San Jose State,RUSHING,Timothy,McVey,LONG,36
+3336009,11/19/2016,FBS,Air Force,San Jose State,RUSHING,Jacobi,Owens,ATT,9
+3336010,11/19/2016,FBS,Air Force,San Jose State,RUSHING,Jacobi,Owens,YDS,86
+3336011,11/19/2016,FBS,Air Force,San Jose State,RUSHING,Jacobi,Owens,TD,0
+3336012,11/19/2016,FBS,Air Force,San Jose State,RUSHING,Jacobi,Owens,LONG,52
+3336013,11/19/2016,FBS,Air Force,San Jose State,RUSHING,Ronald,Cleveland,ATT,3
+3336014,11/19/2016,FBS,Air Force,San Jose State,RUSHING,Ronald,Cleveland,YDS,30
+3336015,11/19/2016,FBS,Air Force,San Jose State,RUSHING,Ronald,Cleveland,TD,0
+3336016,11/19/2016,FBS,Air Force,San Jose State,RUSHING,Ronald,Cleveland,LONG,16
+3336017,11/19/2016,FBS,Air Force,San Jose State,RUSHING,DJ,Johnson,ATT,6
+3336018,11/19/2016,FBS,Air Force,San Jose State,RUSHING,DJ,Johnson,YDS,22
+3336019,11/19/2016,FBS,Air Force,San Jose State,RUSHING,DJ,Johnson,TD,1
+3336020,11/19/2016,FBS,Air Force,San Jose State,RUSHING,DJ,Johnson,LONG,6
+3336021,11/19/2016,FBS,Air Force,San Jose State,RUSHING,Shayne,Davern,ATT,4
+3336022,11/19/2016,FBS,Air Force,San Jose State,RUSHING,Shayne,Davern,YDS,10
+3336023,11/19/2016,FBS,Air Force,San Jose State,RUSHING,Shayne,Davern,TD,0
+3336024,11/19/2016,FBS,Air Force,San Jose State,RUSHING,Shayne,Davern,LONG,5
+3336025,11/19/2016,FBS,Air Force,San Jose State,RUSHING,Tyler,Williams,ATT,3
+3336026,11/19/2016,FBS,Air Force,San Jose State,RUSHING,Tyler,Williams,YDS,7
+3336027,11/19/2016,FBS,Air Force,San Jose State,RUSHING,Tyler,Williams,TD,1
+3336028,11/19/2016,FBS,Air Force,San Jose State,RUSHING,Tyler,Williams,LONG,7
+3336029,11/19/2016,FBS,Air Force,San Jose State,RUSHING,,Team,ATT,1
+3336030,11/19/2016,FBS,Air Force,San Jose State,RUSHING,,Team,YDS,-1
+3336031,11/19/2016,FBS,Air Force,San Jose State,RUSHING,,Team,TD,0
+3336032,11/19/2016,FBS,Air Force,San Jose State,RUSHING,,Team,LONG,-1
+3336033,11/19/2016,FBS,Air Force,San Jose State,PASSING,Arion,Worthman,CP-ATT-INT,3-6-1
+3336034,11/19/2016,FBS,Air Force,San Jose State,PASSING,Arion,Worthman,YDS,33
+3336035,11/19/2016,FBS,Air Force,San Jose State,PASSING,Arion,Worthman,TD,1
+3336036,11/19/2016,FBS,Air Force,San Jose State,PASSING,Arion,Worthman,LONG,22
+3336037,11/19/2016,FBS,Air Force,San Jose State,PASSING,Jalen,Robinette,CP-ATT-INT,0-1-0
+3336038,11/19/2016,FBS,Air Force,San Jose State,PASSING,Jalen,Robinette,YDS,0
+3336039,11/19/2016,FBS,Air Force,San Jose State,PASSING,Jalen,Robinette,TD,0
+3336040,11/19/2016,FBS,Air Force,San Jose State,PASSING,Jalen,Robinette,LONG,0
+3336041,11/19/2016,FBS,Air Force,San Jose State,RECEIVING,Jalen,Robinette,REC,2
+3336042,11/19/2016,FBS,Air Force,San Jose State,RECEIVING,Jalen,Robinette,YDS,30
+3336043,11/19/2016,FBS,Air Force,San Jose State,RECEIVING,Jalen,Robinette,TD,1
+3336044,11/19/2016,FBS,Air Force,San Jose State,RECEIVING,Jalen,Robinette,LONG,22
+3336045,11/19/2016,FBS,Air Force,San Jose State,RECEIVING,Jacobi,Owens,REC,1
+3336046,11/19/2016,FBS,Air Force,San Jose State,RECEIVING,Jacobi,Owens,YDS,3
+3336047,11/19/2016,FBS,Air Force,San Jose State,RECEIVING,Jacobi,Owens,TD,0
+3336048,11/19/2016,FBS,Air Force,San Jose State,RECEIVING,Jacobi,Owens,LONG,3
+3336049,11/19/2016,FBS,Air Force,San Jose State,KICKING,Luke,Strebel,FG-FGA,2/2
+3336050,11/19/2016,FBS,Air Force,San Jose State,KICKING,Luke,Strebel,LONG,24
+3336051,11/19/2016,FBS,Air Force,San Jose State,KICKING,Luke,Strebel,XP,5
+3336052,11/19/2016,FBS,Air Force,San Jose State,KICKING,Luke,Strebel,PTS,11
+3336053,11/19/2016,FBS,Air Force,San Jose State,PUNTING,Steve,Brosy,NO,2
+3336054,11/19/2016,FBS,Air Force,San Jose State,PUNTING,Steve,Brosy,YDS,72
+3336055,11/19/2016,FBS,Air Force,San Jose State,PUNTING,Steve,Brosy,AVG,36.0
+3336056,11/19/2016,FBS,Air Force,San Jose State,PUNTING,Steve,Brosy,LONG,45
+3336057,11/19/2016,FBS,Air Force,San Jose State,PUNT RETURNS,Ronald,Cleveland,NO,2
+3336058,11/19/2016,FBS,Air Force,San Jose State,PUNT RETURNS,Ronald,Cleveland,YDS,34
+3336059,11/19/2016,FBS,Air Force,San Jose State,PUNT RETURNS,Ronald,Cleveland,AVG,17.0
+3336060,11/19/2016,FBS,Air Force,San Jose State,PUNT RETURNS,Ronald,Cleveland,LONG,29
+3336061,11/19/2016,FBS,Air Force,San Jose State,KICK RETURNS,Timothy,McVey,NO,2
+3336062,11/19/2016,FBS,Air Force,San Jose State,KICK RETURNS,Timothy,McVey,YDS,44
+3336063,11/19/2016,FBS,Air Force,San Jose State,KICK RETURNS,Timothy,McVey,AVG,22.0
+3336064,11/19/2016,FBS,Air Force,San Jose State,KICK RETURNS,Timothy,McVey,LONG,26
+3336065,11/19/2016,FBS,San Jose State,Air Force,RUSHING,Kenny,Potter,ATT,22
+3336066,11/19/2016,FBS,San Jose State,Air Force,RUSHING,Kenny,Potter,YDS,52
+3336067,11/19/2016,FBS,San Jose State,Air Force,RUSHING,Kenny,Potter,TD,3
+3336068,11/19/2016,FBS,San Jose State,Air Force,RUSHING,Kenny,Potter,LONG,17
+3336069,11/19/2016,FBS,San Jose State,Air Force,RUSHING,Malik,Roberson,ATT,11
+3336070,11/19/2016,FBS,San Jose State,Air Force,RUSHING,Malik,Roberson,YDS,35
+3336071,11/19/2016,FBS,San Jose State,Air Force,RUSHING,Malik,Roberson,TD,0
+3336072,11/19/2016,FBS,San Jose State,Air Force,RUSHING,Malik,Roberson,LONG,7
+3336073,11/19/2016,FBS,San Jose State,Air Force,RUSHING,Deontae,Cooper,ATT,6
+3336074,11/19/2016,FBS,San Jose State,Air Force,RUSHING,Deontae,Cooper,YDS,27
+3336075,11/19/2016,FBS,San Jose State,Air Force,RUSHING,Deontae,Cooper,TD,0
+3336076,11/19/2016,FBS,San Jose State,Air Force,RUSHING,Deontae,Cooper,LONG,13
+3336077,11/19/2016,FBS,San Jose State,Air Force,RUSHING,Shane,Smith,ATT,1
+3336078,11/19/2016,FBS,San Jose State,Air Force,RUSHING,Shane,Smith,YDS,5
+3336079,11/19/2016,FBS,San Jose State,Air Force,RUSHING,Shane,Smith,TD,0
+3336080,11/19/2016,FBS,San Jose State,Air Force,RUSHING,Shane,Smith,LONG,5
+3336081,11/19/2016,FBS,San Jose State,Air Force,RUSHING,Tim,Crawley,ATT,1
+3336082,11/19/2016,FBS,San Jose State,Air Force,RUSHING,Tim,Crawley,YDS,-2
+3336083,11/19/2016,FBS,San Jose State,Air Force,RUSHING,Tim,Crawley,TD,0
+3336084,11/19/2016,FBS,San Jose State,Air Force,RUSHING,Tim,Crawley,LONG,-2
+3336085,11/19/2016,FBS,San Jose State,Air Force,PASSING,Kenny,Potter,CP-ATT-INT,25-37-2
+3336086,11/19/2016,FBS,San Jose State,Air Force,PASSING,Kenny,Potter,YDS,340
+3336087,11/19/2016,FBS,San Jose State,Air Force,PASSING,Kenny,Potter,TD,2
+3336088,11/19/2016,FBS,San Jose State,Air Force,PASSING,Kenny,Potter,LONG,42
+3336089,11/19/2016,FBS,San Jose State,Air Force,RECEIVING,Tim,Crawley,REC,11
+3336090,11/19/2016,FBS,San Jose State,Air Force,RECEIVING,Tim,Crawley,YDS,147
+3336091,11/19/2016,FBS,San Jose State,Air Force,RECEIVING,Tim,Crawley,TD,0
+3336092,11/19/2016,FBS,San Jose State,Air Force,RECEIVING,Tim,Crawley,LONG,42
+3336093,11/19/2016,FBS,San Jose State,Air Force,RECEIVING,Rahshead,Johnson,REC,4
+3336094,11/19/2016,FBS,San Jose State,Air Force,RECEIVING,Rahshead,Johnson,YDS,72
+3336095,11/19/2016,FBS,San Jose State,Air Force,RECEIVING,Rahshead,Johnson,TD,0
+3336096,11/19/2016,FBS,San Jose State,Air Force,RECEIVING,Rahshead,Johnson,LONG,23
+3336097,11/19/2016,FBS,San Jose State,Air Force,RECEIVING,Malik,Roberson,REC,3
+3336098,11/19/2016,FBS,San Jose State,Air Force,RECEIVING,Malik,Roberson,YDS,51
+3336099,11/19/2016,FBS,San Jose State,Air Force,RECEIVING,Malik,Roberson,TD,1
+3336100,11/19/2016,FBS,San Jose State,Air Force,RECEIVING,Malik,Roberson,LONG,34
+3336101,11/19/2016,FBS,San Jose State,Air Force,RECEIVING,Justin,Holmes,REC,4
+3336102,11/19/2016,FBS,San Jose State,Air Force,RECEIVING,Justin,Holmes,YDS,33
+3336103,11/19/2016,FBS,San Jose State,Air Force,RECEIVING,Justin,Holmes,TD,0
+3336104,11/19/2016,FBS,San Jose State,Air Force,RECEIVING,Justin,Holmes,LONG,13
+3336105,11/19/2016,FBS,San Jose State,Air Force,RECEIVING,Bailey,Gaither,REC,1
+3336106,11/19/2016,FBS,San Jose State,Air Force,RECEIVING,Bailey,Gaither,YDS,25
+3336107,11/19/2016,FBS,San Jose State,Air Force,RECEIVING,Bailey,Gaither,TD,1
+3336108,11/19/2016,FBS,San Jose State,Air Force,RECEIVING,Bailey,Gaither,LONG,25
+3336109,11/19/2016,FBS,San Jose State,Air Force,RECEIVING,Shane,Smith,REC,1
+3336110,11/19/2016,FBS,San Jose State,Air Force,RECEIVING,Shane,Smith,YDS,7
+3336111,11/19/2016,FBS,San Jose State,Air Force,RECEIVING,Shane,Smith,TD,0
+3336112,11/19/2016,FBS,San Jose State,Air Force,RECEIVING,Shane,Smith,LONG,7
+3336113,11/19/2016,FBS,San Jose State,Air Force,RECEIVING,Billy,Freeman,REC,1
+3336114,11/19/2016,FBS,San Jose State,Air Force,RECEIVING,Billy,Freeman,YDS,5
+3336115,11/19/2016,FBS,San Jose State,Air Force,RECEIVING,Billy,Freeman,TD,0
+3336116,11/19/2016,FBS,San Jose State,Air Force,RECEIVING,Billy,Freeman,LONG,5
+3336117,11/19/2016,FBS,San Jose State,Air Force,KICKING,Bryce,Crawford,FG-FGA,1/1
+3336118,11/19/2016,FBS,San Jose State,Air Force,KICKING,Bryce,Crawford,LONG,31
+3336119,11/19/2016,FBS,San Jose State,Air Force,KICKING,Bryce,Crawford,XP,3
+3336120,11/19/2016,FBS,San Jose State,Air Force,KICKING,Bryce,Crawford,PTS,6
+3336121,11/19/2016,FBS,San Jose State,Air Force,PUNTING,Michael,Carrizosa,NO,3
+3336122,11/19/2016,FBS,San Jose State,Air Force,PUNTING,Michael,Carrizosa,YDS,119
+3336123,11/19/2016,FBS,San Jose State,Air Force,PUNTING,Michael,Carrizosa,AVG,39.7
+3336124,11/19/2016,FBS,San Jose State,Air Force,PUNTING,Michael,Carrizosa,LONG,49
+3336125,11/19/2016,FBS,San Jose State,Air Force,PUNT RETURNS,Thai,Cottrell,NO,0
+3336126,11/19/2016,FBS,San Jose State,Air Force,PUNT RETURNS,Thai,Cottrell,YDS,0
+3336127,11/19/2016,FBS,San Jose State,Air Force,PUNT RETURNS,Thai,Cottrell,AVG,-
+3336128,11/19/2016,FBS,San Jose State,Air Force,PUNT RETURNS,Thai,Cottrell,LONG,0
+3336129,11/19/2016,FBS,San Jose State,Air Force,KICK RETURNS,Bailey,Gaither,NO,1
+3336130,11/19/2016,FBS,San Jose State,Air Force,KICK RETURNS,Bailey,Gaither,YDS,10
+3336131,11/19/2016,FBS,San Jose State,Air Force,KICK RETURNS,Bailey,Gaither,AVG,10.0
+3336132,11/19/2016,FBS,San Jose State,Air Force,KICK RETURNS,Bailey,Gaither,LONG,10
+3336133,11/19/2016,FBS,San Jose State,Air Force,KICK RETURNS,Rahshead,Johnson,NO,2
+3336134,11/19/2016,FBS,San Jose State,Air Force,KICK RETURNS,Rahshead,Johnson,YDS,5
+3336135,11/19/2016,FBS,San Jose State,Air Force,KICK RETURNS,Rahshead,Johnson,AVG,2.5
+3336136,11/19/2016,FBS,San Jose State,Air Force,KICK RETURNS,Rahshead,Johnson,LONG,6

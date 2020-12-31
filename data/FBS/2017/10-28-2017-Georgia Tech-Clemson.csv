@@ -1,0 +1,161 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+4060001,10/28/2017,FBS,Georgia Tech,Clemson,RUSHING,KirVonte,Benson,ATT,16
+4060002,10/28/2017,FBS,Georgia Tech,Clemson,RUSHING,KirVonte,Benson,YDS,129
+4060003,10/28/2017,FBS,Georgia Tech,Clemson,RUSHING,KirVonte,Benson,TD,0
+4060004,10/28/2017,FBS,Georgia Tech,Clemson,RUSHING,KirVonte,Benson,LONG,65
+4060005,10/28/2017,FBS,Georgia Tech,Clemson,RUSHING,Matthew,Jordan,ATT,4
+4060006,10/28/2017,FBS,Georgia Tech,Clemson,RUSHING,Matthew,Jordan,YDS,25
+4060007,10/28/2017,FBS,Georgia Tech,Clemson,RUSHING,Matthew,Jordan,TD,0
+4060008,10/28/2017,FBS,Georgia Tech,Clemson,RUSHING,Matthew,Jordan,LONG,12
+4060009,10/28/2017,FBS,Georgia Tech,Clemson,RUSHING,TaQuon,Marshall,ATT,15
+4060010,10/28/2017,FBS,Georgia Tech,Clemson,RUSHING,TaQuon,Marshall,YDS,23
+4060011,10/28/2017,FBS,Georgia Tech,Clemson,RUSHING,TaQuon,Marshall,TD,1
+4060012,10/28/2017,FBS,Georgia Tech,Clemson,RUSHING,TaQuon,Marshall,LONG,22
+4060013,10/28/2017,FBS,Georgia Tech,Clemson,RUSHING,Jerry,Howard,ATT,3
+4060014,10/28/2017,FBS,Georgia Tech,Clemson,RUSHING,Jerry,Howard,YDS,19
+4060015,10/28/2017,FBS,Georgia Tech,Clemson,RUSHING,Jerry,Howard,TD,0
+4060016,10/28/2017,FBS,Georgia Tech,Clemson,RUSHING,Jerry,Howard,LONG,9
+4060017,10/28/2017,FBS,Georgia Tech,Clemson,RUSHING,Nathan,Cottrell,ATT,3
+4060018,10/28/2017,FBS,Georgia Tech,Clemson,RUSHING,Nathan,Cottrell,YDS,5
+4060019,10/28/2017,FBS,Georgia Tech,Clemson,RUSHING,Nathan,Cottrell,TD,0
+4060020,10/28/2017,FBS,Georgia Tech,Clemson,RUSHING,Nathan,Cottrell,LONG,4
+4060021,10/28/2017,FBS,Georgia Tech,Clemson,RUSHING,Clinton,Lynch,ATT,2
+4060022,10/28/2017,FBS,Georgia Tech,Clemson,RUSHING,Clinton,Lynch,YDS,-3
+4060023,10/28/2017,FBS,Georgia Tech,Clemson,RUSHING,Clinton,Lynch,TD,0
+4060024,10/28/2017,FBS,Georgia Tech,Clemson,RUSHING,Clinton,Lynch,LONG,-1
+4060025,10/28/2017,FBS,Georgia Tech,Clemson,PASSING,TaQuon,Marshall,CP-ATT-INT,3-13-0
+4060026,10/28/2017,FBS,Georgia Tech,Clemson,PASSING,TaQuon,Marshall,YDS,32
+4060027,10/28/2017,FBS,Georgia Tech,Clemson,PASSING,TaQuon,Marshall,TD,0
+4060028,10/28/2017,FBS,Georgia Tech,Clemson,PASSING,TaQuon,Marshall,LONG,23
+4060029,10/28/2017,FBS,Georgia Tech,Clemson,RECEIVING,Ricky,Jeune,REC,2
+4060030,10/28/2017,FBS,Georgia Tech,Clemson,RECEIVING,Ricky,Jeune,YDS,17
+4060031,10/28/2017,FBS,Georgia Tech,Clemson,RECEIVING,Ricky,Jeune,TD,0
+4060032,10/28/2017,FBS,Georgia Tech,Clemson,RECEIVING,Ricky,Jeune,LONG,23
+4060033,10/28/2017,FBS,Georgia Tech,Clemson,RECEIVING,Jerry,Howard,REC,1
+4060034,10/28/2017,FBS,Georgia Tech,Clemson,RECEIVING,Jerry,Howard,YDS,15
+4060035,10/28/2017,FBS,Georgia Tech,Clemson,RECEIVING,Jerry,Howard,TD,0
+4060036,10/28/2017,FBS,Georgia Tech,Clemson,RECEIVING,Jerry,Howard,LONG,15
+4060037,10/28/2017,FBS,Georgia Tech,Clemson,KICKING,Brenton,King,FG-FGA,1/1
+4060038,10/28/2017,FBS,Georgia Tech,Clemson,KICKING,Brenton,King,LONG,25
+4060039,10/28/2017,FBS,Georgia Tech,Clemson,KICKING,Brenton,King,XP,1
+4060040,10/28/2017,FBS,Georgia Tech,Clemson,KICKING,Brenton,King,PTS,4
+4060041,10/28/2017,FBS,Georgia Tech,Clemson,PUNTING,Pressley,HarvinIII,NO,9
+4060042,10/28/2017,FBS,Georgia Tech,Clemson,PUNTING,Pressley,HarvinIII,YDS,422
+4060043,10/28/2017,FBS,Georgia Tech,Clemson,PUNTING,Pressley,HarvinIII,AVG,46.9
+4060044,10/28/2017,FBS,Georgia Tech,Clemson,PUNTING,Pressley,HarvinIII,LONG,53
+4060045,10/28/2017,FBS,Georgia Tech,Clemson,PUNT RETURNS,Brad,Stewart,NO,2
+4060046,10/28/2017,FBS,Georgia Tech,Clemson,PUNT RETURNS,Brad,Stewart,YDS,12
+4060047,10/28/2017,FBS,Georgia Tech,Clemson,PUNT RETURNS,Brad,Stewart,AVG,6.0
+4060048,10/28/2017,FBS,Georgia Tech,Clemson,PUNT RETURNS,Brad,Stewart,LONG,8
+4060049,10/28/2017,FBS,Georgia Tech,Clemson,KICK RETURNS,Nathan,Cottrell,NO,5
+4060050,10/28/2017,FBS,Georgia Tech,Clemson,KICK RETURNS,Nathan,Cottrell,YDS,82
+4060051,10/28/2017,FBS,Georgia Tech,Clemson,KICK RETURNS,Nathan,Cottrell,AVG,16.4
+4060052,10/28/2017,FBS,Georgia Tech,Clemson,KICK RETURNS,Nathan,Cottrell,LONG,20
+4060053,10/28/2017,FBS,Clemson,Georgia Tech,RUSHING,Kelly,Bryant,ATT,12
+4060054,10/28/2017,FBS,Clemson,Georgia Tech,RUSHING,Kelly,Bryant,YDS,67
+4060055,10/28/2017,FBS,Clemson,Georgia Tech,RUSHING,Kelly,Bryant,TD,0
+4060056,10/28/2017,FBS,Clemson,Georgia Tech,RUSHING,Kelly,Bryant,LONG,17
+4060057,10/28/2017,FBS,Clemson,Georgia Tech,RUSHING,Adam,Choice,ATT,8
+4060058,10/28/2017,FBS,Clemson,Georgia Tech,RUSHING,Adam,Choice,YDS,54
+4060059,10/28/2017,FBS,Clemson,Georgia Tech,RUSHING,Adam,Choice,TD,0
+4060060,10/28/2017,FBS,Clemson,Georgia Tech,RUSHING,Adam,Choice,LONG,28
+4060061,10/28/2017,FBS,Clemson,Georgia Tech,RUSHING,C.J.,Fuller,ATT,8
+4060062,10/28/2017,FBS,Clemson,Georgia Tech,RUSHING,C.J.,Fuller,YDS,50
+4060063,10/28/2017,FBS,Clemson,Georgia Tech,RUSHING,C.J.,Fuller,TD,0
+4060064,10/28/2017,FBS,Clemson,Georgia Tech,RUSHING,C.J.,Fuller,LONG,12
+4060065,10/28/2017,FBS,Clemson,Georgia Tech,RUSHING,Travis,Etienne,ATT,7
+4060066,10/28/2017,FBS,Clemson,Georgia Tech,RUSHING,Travis,Etienne,YDS,43
+4060067,10/28/2017,FBS,Clemson,Georgia Tech,RUSHING,Travis,Etienne,TD,1
+4060068,10/28/2017,FBS,Clemson,Georgia Tech,RUSHING,Travis,Etienne,LONG,13
+4060069,10/28/2017,FBS,Clemson,Georgia Tech,RUSHING,Tavien,Feaster,ATT,7
+4060070,10/28/2017,FBS,Clemson,Georgia Tech,RUSHING,Tavien,Feaster,YDS,35
+4060071,10/28/2017,FBS,Clemson,Georgia Tech,RUSHING,Tavien,Feaster,TD,0
+4060072,10/28/2017,FBS,Clemson,Georgia Tech,RUSHING,Tavien,Feaster,LONG,10
+4060073,10/28/2017,FBS,Clemson,Georgia Tech,RUSHING,Hunter,Johnson,ATT,1
+4060074,10/28/2017,FBS,Clemson,Georgia Tech,RUSHING,Hunter,Johnson,YDS,4
+4060075,10/28/2017,FBS,Clemson,Georgia Tech,RUSHING,Hunter,Johnson,TD,0
+4060076,10/28/2017,FBS,Clemson,Georgia Tech,RUSHING,Hunter,Johnson,LONG,4
+4060077,10/28/2017,FBS,Clemson,Georgia Tech,RUSHING,Tyrone,Crowder,ATT,0
+4060078,10/28/2017,FBS,Clemson,Georgia Tech,RUSHING,Tyrone,Crowder,YDS,0
+4060079,10/28/2017,FBS,Clemson,Georgia Tech,RUSHING,Tyrone,Crowder,TD,0
+4060080,10/28/2017,FBS,Clemson,Georgia Tech,RUSHING,Tyrone,Crowder,LONG,0
+4060081,10/28/2017,FBS,Clemson,Georgia Tech,RUSHING,,Team,ATT,2
+4060082,10/28/2017,FBS,Clemson,Georgia Tech,RUSHING,,Team,YDS,-32
+4060083,10/28/2017,FBS,Clemson,Georgia Tech,RUSHING,,Team,TD,0
+4060084,10/28/2017,FBS,Clemson,Georgia Tech,RUSHING,,Team,LONG,-15
+4060085,10/28/2017,FBS,Clemson,Georgia Tech,PASSING,Kelly,Bryant,CP-ATT-INT,22-33-0
+4060086,10/28/2017,FBS,Clemson,Georgia Tech,PASSING,Kelly,Bryant,YDS,207
+4060087,10/28/2017,FBS,Clemson,Georgia Tech,PASSING,Kelly,Bryant,TD,2
+4060088,10/28/2017,FBS,Clemson,Georgia Tech,PASSING,Kelly,Bryant,LONG,38
+4060089,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Deon,Cain,REC,4
+4060090,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Deon,Cain,YDS,57
+4060091,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Deon,Cain,TD,1
+4060092,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Deon,Cain,LONG,38
+4060093,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Ray-Ray,McCloud,REC,4
+4060094,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Ray-Ray,McCloud,YDS,40
+4060095,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Ray-Ray,McCloud,TD,0
+4060096,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Ray-Ray,McCloud,LONG,22
+4060097,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Diondre,Overton,REC,2
+4060098,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Diondre,Overton,YDS,21
+4060099,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Diondre,Overton,TD,0
+4060100,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Diondre,Overton,LONG,16
+4060101,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Milan,Richard,REC,1
+4060102,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Milan,Richard,YDS,20
+4060103,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Milan,Richard,TD,1
+4060104,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Milan,Richard,LONG,20
+4060105,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Tavien,Feaster,REC,2
+4060106,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Tavien,Feaster,YDS,12
+4060107,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Tavien,Feaster,TD,0
+4060108,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Tavien,Feaster,LONG,13
+4060109,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Hunter,Renfrow,REC,1
+4060110,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Hunter,Renfrow,YDS,11
+4060111,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Hunter,Renfrow,TD,0
+4060112,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Hunter,Renfrow,LONG,11
+4060113,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Tee,Higgins,REC,1
+4060114,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Tee,Higgins,YDS,10
+4060115,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Tee,Higgins,TD,0
+4060116,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Tee,Higgins,LONG,10
+4060117,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Trevion,Thompson,REC,1
+4060118,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Trevion,Thompson,YDS,9
+4060119,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Trevion,Thompson,TD,0
+4060120,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Trevion,Thompson,LONG,9
+4060121,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Amari,Rodgers,REC,2
+4060122,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Amari,Rodgers,YDS,8
+4060123,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Amari,Rodgers,TD,0
+4060124,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Amari,Rodgers,LONG,5
+4060125,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Cannon,Smith,REC,1
+4060126,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Cannon,Smith,YDS,7
+4060127,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Cannon,Smith,TD,0
+4060128,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Cannon,Smith,LONG,7
+4060129,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Adam,Choice,REC,1
+4060130,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Adam,Choice,YDS,7
+4060131,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Adam,Choice,TD,0
+4060132,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Adam,Choice,LONG,7
+4060133,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Cornell,Powell,REC,2
+4060134,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Cornell,Powell,YDS,5
+4060135,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Cornell,Powell,TD,0
+4060136,10/28/2017,FBS,Clemson,Georgia Tech,RECEIVING,Cornell,Powell,LONG,3
+4060137,10/28/2017,FBS,Clemson,Georgia Tech,KICKING,Alex,Spence,FG-FGA,1/1
+4060138,10/28/2017,FBS,Clemson,Georgia Tech,KICKING,Alex,Spence,LONG,29
+4060139,10/28/2017,FBS,Clemson,Georgia Tech,KICKING,Alex,Spence,XP,3
+4060140,10/28/2017,FBS,Clemson,Georgia Tech,KICKING,Alex,Spence,PTS,6
+4060141,10/28/2017,FBS,Clemson,Georgia Tech,PUNTING,Will,Spiers,NO,7
+4060142,10/28/2017,FBS,Clemson,Georgia Tech,PUNTING,Will,Spiers,YDS,272
+4060143,10/28/2017,FBS,Clemson,Georgia Tech,PUNTING,Will,Spiers,AVG,38.9
+4060144,10/28/2017,FBS,Clemson,Georgia Tech,PUNTING,Will,Spiers,LONG,47
+4060145,10/28/2017,FBS,Clemson,Georgia Tech,PUNT RETURNS,Ray-Ray,McCloud,NO,1
+4060146,10/28/2017,FBS,Clemson,Georgia Tech,PUNT RETURNS,Ray-Ray,McCloud,YDS,1
+4060147,10/28/2017,FBS,Clemson,Georgia Tech,PUNT RETURNS,Ray-Ray,McCloud,AVG,1.0
+4060148,10/28/2017,FBS,Clemson,Georgia Tech,PUNT RETURNS,Ray-Ray,McCloud,LONG,1
+4060149,10/28/2017,FBS,Clemson,Georgia Tech,PUNT RETURNS,Hunter,Renfrow,NO,0
+4060150,10/28/2017,FBS,Clemson,Georgia Tech,PUNT RETURNS,Hunter,Renfrow,YDS,0
+4060151,10/28/2017,FBS,Clemson,Georgia Tech,PUNT RETURNS,Hunter,Renfrow,AVG,-
+4060152,10/28/2017,FBS,Clemson,Georgia Tech,PUNT RETURNS,Hunter,Renfrow,LONG,0
+4060153,10/28/2017,FBS,Clemson,Georgia Tech,KICK RETURNS,Travis,Etienne,NO,2
+4060154,10/28/2017,FBS,Clemson,Georgia Tech,KICK RETURNS,Travis,Etienne,YDS,33
+4060155,10/28/2017,FBS,Clemson,Georgia Tech,KICK RETURNS,Travis,Etienne,AVG,16.5
+4060156,10/28/2017,FBS,Clemson,Georgia Tech,KICK RETURNS,Travis,Etienne,LONG,27
+4060157,10/28/2017,FBS,Clemson,Georgia Tech,KICK RETURNS,Ray-Ray,McCloud,NO,1
+4060158,10/28/2017,FBS,Clemson,Georgia Tech,KICK RETURNS,Ray-Ray,McCloud,YDS,12
+4060159,10/28/2017,FBS,Clemson,Georgia Tech,KICK RETURNS,Ray-Ray,McCloud,AVG,12.0
+4060160,10/28/2017,FBS,Clemson,Georgia Tech,KICK RETURNS,Ray-Ray,McCloud,LONG,12

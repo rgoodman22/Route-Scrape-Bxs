@@ -1,0 +1,113 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+4309001,11/25/2017,FBS,Southern Miss,Marshall,RUSHING,Ito,Smith,ATT,29
+4309002,11/25/2017,FBS,Southern Miss,Marshall,RUSHING,Ito,Smith,YDS,150
+4309003,11/25/2017,FBS,Southern Miss,Marshall,RUSHING,Ito,Smith,TD,1
+4309004,11/25/2017,FBS,Southern Miss,Marshall,RUSHING,Ito,Smith,LONG,35
+4309005,11/25/2017,FBS,Southern Miss,Marshall,RUSHING,Kwadra,Griggs,ATT,12
+4309006,11/25/2017,FBS,Southern Miss,Marshall,RUSHING,Kwadra,Griggs,YDS,61
+4309007,11/25/2017,FBS,Southern Miss,Marshall,RUSHING,Kwadra,Griggs,TD,0
+4309008,11/25/2017,FBS,Southern Miss,Marshall,RUSHING,Kwadra,Griggs,LONG,13
+4309009,11/25/2017,FBS,Southern Miss,Marshall,RUSHING,Allenzae,Staggers,ATT,1
+4309010,11/25/2017,FBS,Southern Miss,Marshall,RUSHING,Allenzae,Staggers,YDS,0
+4309011,11/25/2017,FBS,Southern Miss,Marshall,RUSHING,Allenzae,Staggers,TD,0
+4309012,11/25/2017,FBS,Southern Miss,Marshall,RUSHING,Allenzae,Staggers,LONG,0
+4309013,11/25/2017,FBS,Southern Miss,Marshall,RUSHING,,Team,ATT,3
+4309014,11/25/2017,FBS,Southern Miss,Marshall,RUSHING,,Team,YDS,-10
+4309015,11/25/2017,FBS,Southern Miss,Marshall,RUSHING,,Team,TD,0
+4309016,11/25/2017,FBS,Southern Miss,Marshall,RUSHING,,Team,LONG,0
+4309017,11/25/2017,FBS,Southern Miss,Marshall,PASSING,Kwadra,Griggs,CP-ATT-INT,16-35-0
+4309018,11/25/2017,FBS,Southern Miss,Marshall,PASSING,Kwadra,Griggs,YDS,170
+4309019,11/25/2017,FBS,Southern Miss,Marshall,PASSING,Kwadra,Griggs,TD,3
+4309020,11/25/2017,FBS,Southern Miss,Marshall,PASSING,Kwadra,Griggs,LONG,48
+4309021,11/25/2017,FBS,Southern Miss,Marshall,RECEIVING,Korey,Robertson,REC,7
+4309022,11/25/2017,FBS,Southern Miss,Marshall,RECEIVING,Korey,Robertson,YDS,118
+4309023,11/25/2017,FBS,Southern Miss,Marshall,RECEIVING,Korey,Robertson,TD,1
+4309024,11/25/2017,FBS,Southern Miss,Marshall,RECEIVING,Korey,Robertson,LONG,48
+4309025,11/25/2017,FBS,Southern Miss,Marshall,RECEIVING,Allenzae,Staggers,REC,4
+4309026,11/25/2017,FBS,Southern Miss,Marshall,RECEIVING,Allenzae,Staggers,YDS,27
+4309027,11/25/2017,FBS,Southern Miss,Marshall,RECEIVING,Allenzae,Staggers,TD,2
+4309028,11/25/2017,FBS,Southern Miss,Marshall,RECEIVING,Allenzae,Staggers,LONG,9
+4309029,11/25/2017,FBS,Southern Miss,Marshall,RECEIVING,Quez,Watkins,REC,2
+4309030,11/25/2017,FBS,Southern Miss,Marshall,RECEIVING,Quez,Watkins,YDS,13
+4309031,11/25/2017,FBS,Southern Miss,Marshall,RECEIVING,Quez,Watkins,TD,0
+4309032,11/25/2017,FBS,Southern Miss,Marshall,RECEIVING,Quez,Watkins,LONG,9
+4309033,11/25/2017,FBS,Southern Miss,Marshall,RECEIVING,Ito,Smith,REC,3
+4309034,11/25/2017,FBS,Southern Miss,Marshall,RECEIVING,Ito,Smith,YDS,12
+4309035,11/25/2017,FBS,Southern Miss,Marshall,RECEIVING,Ito,Smith,TD,0
+4309036,11/25/2017,FBS,Southern Miss,Marshall,RECEIVING,Ito,Smith,LONG,9
+4309037,11/25/2017,FBS,Southern Miss,Marshall,KICKING,Parker,Shaunfield,FG-FGA,0/1
+4309038,11/25/2017,FBS,Southern Miss,Marshall,KICKING,Parker,Shaunfield,LONG,0
+4309039,11/25/2017,FBS,Southern Miss,Marshall,KICKING,Parker,Shaunfield,XP,4
+4309040,11/25/2017,FBS,Southern Miss,Marshall,KICKING,Parker,Shaunfield,PTS,4
+4309041,11/25/2017,FBS,Southern Miss,Marshall,PUNTING,Zac,Everett,NO,8
+4309042,11/25/2017,FBS,Southern Miss,Marshall,PUNTING,Zac,Everett,YDS,318
+4309043,11/25/2017,FBS,Southern Miss,Marshall,PUNTING,Zac,Everett,AVG,39.8
+4309044,11/25/2017,FBS,Southern Miss,Marshall,PUNTING,Zac,Everett,LONG,49
+4309045,11/25/2017,FBS,Southern Miss,Marshall,PUNT RETURNS,Allenzae,Staggers,NO,2
+4309046,11/25/2017,FBS,Southern Miss,Marshall,PUNT RETURNS,Allenzae,Staggers,YDS,5
+4309047,11/25/2017,FBS,Southern Miss,Marshall,PUNT RETURNS,Allenzae,Staggers,AVG,2.5
+4309048,11/25/2017,FBS,Southern Miss,Marshall,PUNT RETURNS,Allenzae,Staggers,LONG,5
+4309049,11/25/2017,FBS,Southern Miss,Marshall,KICK RETURNS,Quez,Watkins,NO,2
+4309050,11/25/2017,FBS,Southern Miss,Marshall,KICK RETURNS,Quez,Watkins,YDS,34
+4309051,11/25/2017,FBS,Southern Miss,Marshall,KICK RETURNS,Quez,Watkins,AVG,17.0
+4309052,11/25/2017,FBS,Southern Miss,Marshall,KICK RETURNS,Quez,Watkins,LONG,22
+4309053,11/25/2017,FBS,Marshall,Southern Miss,RUSHING,Tyler,King,ATT,9
+4309054,11/25/2017,FBS,Marshall,Southern Miss,RUSHING,Tyler,King,YDS,48
+4309055,11/25/2017,FBS,Marshall,Southern Miss,RUSHING,Tyler,King,TD,0
+4309056,11/25/2017,FBS,Marshall,Southern Miss,RUSHING,Tyler,King,LONG,18
+4309057,11/25/2017,FBS,Marshall,Southern Miss,RUSHING,Keion,Davis,ATT,15
+4309058,11/25/2017,FBS,Marshall,Southern Miss,RUSHING,Keion,Davis,YDS,31
+4309059,11/25/2017,FBS,Marshall,Southern Miss,RUSHING,Keion,Davis,TD,0
+4309060,11/25/2017,FBS,Marshall,Southern Miss,RUSHING,Keion,Davis,LONG,11
+4309061,11/25/2017,FBS,Marshall,Southern Miss,RUSHING,Chase,Litton,ATT,2
+4309062,11/25/2017,FBS,Marshall,Southern Miss,RUSHING,Chase,Litton,YDS,-5
+4309063,11/25/2017,FBS,Marshall,Southern Miss,RUSHING,Chase,Litton,TD,0
+4309064,11/25/2017,FBS,Marshall,Southern Miss,RUSHING,Chase,Litton,LONG,1
+4309065,11/25/2017,FBS,Marshall,Southern Miss,PASSING,Chase,Litton,CP-ATT-INT,26-44-1
+4309066,11/25/2017,FBS,Marshall,Southern Miss,PASSING,Chase,Litton,YDS,308
+4309067,11/25/2017,FBS,Marshall,Southern Miss,PASSING,Chase,Litton,TD,4
+4309068,11/25/2017,FBS,Marshall,Southern Miss,PASSING,Chase,Litton,LONG,44
+4309069,11/25/2017,FBS,Marshall,Southern Miss,RECEIVING,Hyleck,Foster,REC,5
+4309070,11/25/2017,FBS,Marshall,Southern Miss,RECEIVING,Hyleck,Foster,YDS,87
+4309071,11/25/2017,FBS,Marshall,Southern Miss,RECEIVING,Hyleck,Foster,TD,0
+4309072,11/25/2017,FBS,Marshall,Southern Miss,RECEIVING,Hyleck,Foster,LONG,42
+4309073,11/25/2017,FBS,Marshall,Southern Miss,RECEIVING,Willie,Johnson,REC,6
+4309074,11/25/2017,FBS,Marshall,Southern Miss,RECEIVING,Willie,Johnson,YDS,86
+4309075,11/25/2017,FBS,Marshall,Southern Miss,RECEIVING,Willie,Johnson,TD,1
+4309076,11/25/2017,FBS,Marshall,Southern Miss,RECEIVING,Willie,Johnson,LONG,44
+4309077,11/25/2017,FBS,Marshall,Southern Miss,RECEIVING,Ryan,Yurachek,REC,7
+4309078,11/25/2017,FBS,Marshall,Southern Miss,RECEIVING,Ryan,Yurachek,YDS,56
+4309079,11/25/2017,FBS,Marshall,Southern Miss,RECEIVING,Ryan,Yurachek,TD,3
+4309080,11/25/2017,FBS,Marshall,Southern Miss,RECEIVING,Ryan,Yurachek,LONG,11
+4309081,11/25/2017,FBS,Marshall,Southern Miss,RECEIVING,Obi,Obialo,REC,3
+4309082,11/25/2017,FBS,Marshall,Southern Miss,RECEIVING,Obi,Obialo,YDS,43
+4309083,11/25/2017,FBS,Marshall,Southern Miss,RECEIVING,Obi,Obialo,TD,0
+4309084,11/25/2017,FBS,Marshall,Southern Miss,RECEIVING,Obi,Obialo,LONG,33
+4309085,11/25/2017,FBS,Marshall,Southern Miss,RECEIVING,Marcel,Williams,REC,1
+4309086,11/25/2017,FBS,Marshall,Southern Miss,RECEIVING,Marcel,Williams,YDS,16
+4309087,11/25/2017,FBS,Marshall,Southern Miss,RECEIVING,Marcel,Williams,TD,0
+4309088,11/25/2017,FBS,Marshall,Southern Miss,RECEIVING,Marcel,Williams,LONG,16
+4309089,11/25/2017,FBS,Marshall,Southern Miss,RECEIVING,Keion,Davis,REC,3
+4309090,11/25/2017,FBS,Marshall,Southern Miss,RECEIVING,Keion,Davis,YDS,12
+4309091,11/25/2017,FBS,Marshall,Southern Miss,RECEIVING,Keion,Davis,TD,0
+4309092,11/25/2017,FBS,Marshall,Southern Miss,RECEIVING,Keion,Davis,LONG,7
+4309093,11/25/2017,FBS,Marshall,Southern Miss,RECEIVING,Tyler,King,REC,1
+4309094,11/25/2017,FBS,Marshall,Southern Miss,RECEIVING,Tyler,King,YDS,8
+4309095,11/25/2017,FBS,Marshall,Southern Miss,RECEIVING,Tyler,King,TD,0
+4309096,11/25/2017,FBS,Marshall,Southern Miss,RECEIVING,Tyler,King,LONG,8
+4309097,11/25/2017,FBS,Marshall,Southern Miss,KICKING,Kaare,Vedvik,FG-FGA,0/1
+4309098,11/25/2017,FBS,Marshall,Southern Miss,KICKING,Kaare,Vedvik,LONG,0
+4309099,11/25/2017,FBS,Marshall,Southern Miss,KICKING,Kaare,Vedvik,XP,3
+4309100,11/25/2017,FBS,Marshall,Southern Miss,KICKING,Kaare,Vedvik,PTS,3
+4309101,11/25/2017,FBS,Marshall,Southern Miss,PUNTING,Kaare,Vedvik,NO,7
+4309102,11/25/2017,FBS,Marshall,Southern Miss,PUNTING,Kaare,Vedvik,YDS,299
+4309103,11/25/2017,FBS,Marshall,Southern Miss,PUNTING,Kaare,Vedvik,AVG,42.7
+4309104,11/25/2017,FBS,Marshall,Southern Miss,PUNTING,Kaare,Vedvik,LONG,57
+4309105,11/25/2017,FBS,Marshall,Southern Miss,PUNT RETURNS,Hyleck,Foster,NO,1
+4309106,11/25/2017,FBS,Marshall,Southern Miss,PUNT RETURNS,Hyleck,Foster,YDS,0
+4309107,11/25/2017,FBS,Marshall,Southern Miss,PUNT RETURNS,Hyleck,Foster,AVG,-
+4309108,11/25/2017,FBS,Marshall,Southern Miss,PUNT RETURNS,Hyleck,Foster,LONG,0
+4309109,11/25/2017,FBS,Marshall,Southern Miss,KICK RETURNS,Tyler,King,NO,3
+4309110,11/25/2017,FBS,Marshall,Southern Miss,KICK RETURNS,Tyler,King,YDS,75
+4309111,11/25/2017,FBS,Marshall,Southern Miss,KICK RETURNS,Tyler,King,AVG,25.0
+4309112,11/25/2017,FBS,Marshall,Southern Miss,KICK RETURNS,Tyler,King,LONG,36

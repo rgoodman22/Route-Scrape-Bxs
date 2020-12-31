@@ -1,0 +1,173 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2111001,10/10/2015,FBS,Minnesota,Purdue,RUSHING,Shannon,Brooks,ATT,17
+2111002,10/10/2015,FBS,Minnesota,Purdue,RUSHING,Shannon,Brooks,YDS,176
+2111003,10/10/2015,FBS,Minnesota,Purdue,RUSHING,Shannon,Brooks,TD,1
+2111004,10/10/2015,FBS,Minnesota,Purdue,RUSHING,Shannon,Brooks,LONG,71
+2111005,10/10/2015,FBS,Minnesota,Purdue,RUSHING,Rodney,Smith,ATT,13
+2111006,10/10/2015,FBS,Minnesota,Purdue,RUSHING,Rodney,Smith,YDS,52
+2111007,10/10/2015,FBS,Minnesota,Purdue,RUSHING,Rodney,Smith,TD,0
+2111008,10/10/2015,FBS,Minnesota,Purdue,RUSHING,Rodney,Smith,LONG,10
+2111009,10/10/2015,FBS,Minnesota,Purdue,RUSHING,Demry,Croft,ATT,3
+2111010,10/10/2015,FBS,Minnesota,Purdue,RUSHING,Demry,Croft,YDS,34
+2111011,10/10/2015,FBS,Minnesota,Purdue,RUSHING,Demry,Croft,TD,0
+2111012,10/10/2015,FBS,Minnesota,Purdue,RUSHING,Demry,Croft,LONG,34
+2111013,10/10/2015,FBS,Minnesota,Purdue,RUSHING,Berkley,Edwards,ATT,5
+2111014,10/10/2015,FBS,Minnesota,Purdue,RUSHING,Berkley,Edwards,YDS,29
+2111015,10/10/2015,FBS,Minnesota,Purdue,RUSHING,Berkley,Edwards,TD,0
+2111016,10/10/2015,FBS,Minnesota,Purdue,RUSHING,Berkley,Edwards,LONG,21
+2111017,10/10/2015,FBS,Minnesota,Purdue,RUSHING,Mitch,Leidner,ATT,6
+2111018,10/10/2015,FBS,Minnesota,Purdue,RUSHING,Mitch,Leidner,YDS,14
+2111019,10/10/2015,FBS,Minnesota,Purdue,RUSHING,Mitch,Leidner,TD,1
+2111020,10/10/2015,FBS,Minnesota,Purdue,RUSHING,Mitch,Leidner,LONG,7
+2111021,10/10/2015,FBS,Minnesota,Purdue,RUSHING,Rodrick,WilliamsJr.,ATT,3
+2111022,10/10/2015,FBS,Minnesota,Purdue,RUSHING,Rodrick,WilliamsJr.,YDS,14
+2111023,10/10/2015,FBS,Minnesota,Purdue,RUSHING,Rodrick,WilliamsJr.,TD,0
+2111024,10/10/2015,FBS,Minnesota,Purdue,RUSHING,Rodrick,WilliamsJr.,LONG,12
+2111025,10/10/2015,FBS,Minnesota,Purdue,RUSHING,KJ,Maye,ATT,1
+2111026,10/10/2015,FBS,Minnesota,Purdue,RUSHING,KJ,Maye,YDS,7
+2111027,10/10/2015,FBS,Minnesota,Purdue,RUSHING,KJ,Maye,TD,0
+2111028,10/10/2015,FBS,Minnesota,Purdue,RUSHING,KJ,Maye,LONG,7
+2111029,10/10/2015,FBS,Minnesota,Purdue,PASSING,Mitch,Leidner,CP-ATT-INT,8-12-1
+2111030,10/10/2015,FBS,Minnesota,Purdue,PASSING,Mitch,Leidner,YDS,59
+2111031,10/10/2015,FBS,Minnesota,Purdue,PASSING,Mitch,Leidner,TD,2
+2111032,10/10/2015,FBS,Minnesota,Purdue,PASSING,Mitch,Leidner,LONG,20
+2111033,10/10/2015,FBS,Minnesota,Purdue,PASSING,KJ,Maye,CP-ATT-INT,1-1-0
+2111034,10/10/2015,FBS,Minnesota,Purdue,PASSING,KJ,Maye,YDS,16
+2111035,10/10/2015,FBS,Minnesota,Purdue,PASSING,KJ,Maye,TD,0
+2111036,10/10/2015,FBS,Minnesota,Purdue,PASSING,KJ,Maye,LONG,16
+2111037,10/10/2015,FBS,Minnesota,Purdue,PASSING,Demry,Croft,CP-ATT-INT,2-5-0
+2111038,10/10/2015,FBS,Minnesota,Purdue,PASSING,Demry,Croft,YDS,7
+2111039,10/10/2015,FBS,Minnesota,Purdue,PASSING,Demry,Croft,TD,0
+2111040,10/10/2015,FBS,Minnesota,Purdue,PASSING,Demry,Croft,LONG,4
+2111041,10/10/2015,FBS,Minnesota,Purdue,RECEIVING,Brandon,Lingen,REC,3
+2111042,10/10/2015,FBS,Minnesota,Purdue,RECEIVING,Brandon,Lingen,YDS,22
+2111043,10/10/2015,FBS,Minnesota,Purdue,RECEIVING,Brandon,Lingen,TD,2
+2111044,10/10/2015,FBS,Minnesota,Purdue,RECEIVING,Brandon,Lingen,LONG,17
+2111045,10/10/2015,FBS,Minnesota,Purdue,RECEIVING,Drew,Wolitarsky,REC,1
+2111046,10/10/2015,FBS,Minnesota,Purdue,RECEIVING,Drew,Wolitarsky,YDS,20
+2111047,10/10/2015,FBS,Minnesota,Purdue,RECEIVING,Drew,Wolitarsky,TD,0
+2111048,10/10/2015,FBS,Minnesota,Purdue,RECEIVING,Drew,Wolitarsky,LONG,20
+2111049,10/10/2015,FBS,Minnesota,Purdue,RECEIVING,Mitch,Leidner,REC,1
+2111050,10/10/2015,FBS,Minnesota,Purdue,RECEIVING,Mitch,Leidner,YDS,16
+2111051,10/10/2015,FBS,Minnesota,Purdue,RECEIVING,Mitch,Leidner,TD,0
+2111052,10/10/2015,FBS,Minnesota,Purdue,RECEIVING,Mitch,Leidner,LONG,16
+2111053,10/10/2015,FBS,Minnesota,Purdue,RECEIVING,Rodney,Smith,REC,3
+2111054,10/10/2015,FBS,Minnesota,Purdue,RECEIVING,Rodney,Smith,YDS,15
+2111055,10/10/2015,FBS,Minnesota,Purdue,RECEIVING,Rodney,Smith,TD,0
+2111056,10/10/2015,FBS,Minnesota,Purdue,RECEIVING,Rodney,Smith,LONG,12
+2111057,10/10/2015,FBS,Minnesota,Purdue,RECEIVING,Chris,Streveler,REC,1
+2111058,10/10/2015,FBS,Minnesota,Purdue,RECEIVING,Chris,Streveler,YDS,4
+2111059,10/10/2015,FBS,Minnesota,Purdue,RECEIVING,Chris,Streveler,TD,0
+2111060,10/10/2015,FBS,Minnesota,Purdue,RECEIVING,Chris,Streveler,LONG,4
+2111061,10/10/2015,FBS,Minnesota,Purdue,RECEIVING,Nick,Hart,REC,1
+2111062,10/10/2015,FBS,Minnesota,Purdue,RECEIVING,Nick,Hart,YDS,3
+2111063,10/10/2015,FBS,Minnesota,Purdue,RECEIVING,Nick,Hart,TD,0
+2111064,10/10/2015,FBS,Minnesota,Purdue,RECEIVING,Nick,Hart,LONG,3
+2111065,10/10/2015,FBS,Minnesota,Purdue,RECEIVING,KJ,Maye,REC,1
+2111066,10/10/2015,FBS,Minnesota,Purdue,RECEIVING,KJ,Maye,YDS,2
+2111067,10/10/2015,FBS,Minnesota,Purdue,RECEIVING,KJ,Maye,TD,0
+2111068,10/10/2015,FBS,Minnesota,Purdue,RECEIVING,KJ,Maye,LONG,2
+2111069,10/10/2015,FBS,Minnesota,Purdue,KICKING,Ryan,Santoso,FG-FGA,2/3
+2111070,10/10/2015,FBS,Minnesota,Purdue,KICKING,Ryan,Santoso,LONG,37
+2111071,10/10/2015,FBS,Minnesota,Purdue,KICKING,Ryan,Santoso,XP,5
+2111072,10/10/2015,FBS,Minnesota,Purdue,KICKING,Ryan,Santoso,PTS,11
+2111073,10/10/2015,FBS,Minnesota,Purdue,PUNTING,Peter,Mortell,NO,5
+2111074,10/10/2015,FBS,Minnesota,Purdue,PUNTING,Peter,Mortell,YDS,191
+2111075,10/10/2015,FBS,Minnesota,Purdue,PUNTING,Peter,Mortell,AVG,38.2
+2111076,10/10/2015,FBS,Minnesota,Purdue,PUNTING,Peter,Mortell,LONG,50
+2111077,10/10/2015,FBS,Minnesota,Purdue,PUNT RETURNS,KJ,Maye,NO,2
+2111078,10/10/2015,FBS,Minnesota,Purdue,PUNT RETURNS,KJ,Maye,YDS,30
+2111079,10/10/2015,FBS,Minnesota,Purdue,PUNT RETURNS,KJ,Maye,AVG,15.0
+2111080,10/10/2015,FBS,Minnesota,Purdue,PUNT RETURNS,KJ,Maye,LONG,20
+2111081,10/10/2015,FBS,Minnesota,Purdue,PUNT RETURNS,KiAnte,Hardin,NO,1
+2111082,10/10/2015,FBS,Minnesota,Purdue,PUNT RETURNS,KiAnte,Hardin,YDS,0
+2111083,10/10/2015,FBS,Minnesota,Purdue,PUNT RETURNS,KiAnte,Hardin,AVG,-
+2111084,10/10/2015,FBS,Minnesota,Purdue,PUNT RETURNS,KiAnte,Hardin,LONG,0
+2111085,10/10/2015,FBS,Minnesota,Purdue,KICK RETURNS,Jalen,Myrick,NO,1
+2111086,10/10/2015,FBS,Minnesota,Purdue,KICK RETURNS,Jalen,Myrick,YDS,24
+2111087,10/10/2015,FBS,Minnesota,Purdue,KICK RETURNS,Jalen,Myrick,AVG,24.0
+2111088,10/10/2015,FBS,Minnesota,Purdue,KICK RETURNS,Jalen,Myrick,LONG,24
+2111089,10/10/2015,FBS,Purdue,Minnesota,RUSHING,D.J.,Knox,ATT,13
+2111090,10/10/2015,FBS,Purdue,Minnesota,RUSHING,D.J.,Knox,YDS,60
+2111091,10/10/2015,FBS,Purdue,Minnesota,RUSHING,D.J.,Knox,TD,1
+2111092,10/10/2015,FBS,Purdue,Minnesota,RUSHING,D.J.,Knox,LONG,14
+2111093,10/10/2015,FBS,Purdue,Minnesota,RUSHING,Markell,Jones,ATT,6
+2111094,10/10/2015,FBS,Purdue,Minnesota,RUSHING,Markell,Jones,YDS,7
+2111095,10/10/2015,FBS,Purdue,Minnesota,RUSHING,Markell,Jones,TD,0
+2111096,10/10/2015,FBS,Purdue,Minnesota,RUSHING,Markell,Jones,LONG,4
+2111097,10/10/2015,FBS,Purdue,Minnesota,RUSHING,David,Blough,ATT,8
+2111098,10/10/2015,FBS,Purdue,Minnesota,RUSHING,David,Blough,YDS,2
+2111099,10/10/2015,FBS,Purdue,Minnesota,RUSHING,David,Blough,TD,0
+2111100,10/10/2015,FBS,Purdue,Minnesota,RUSHING,David,Blough,LONG,6
+2111101,10/10/2015,FBS,Purdue,Minnesota,RUSHING,David,Yancey,ATT,1
+2111102,10/10/2015,FBS,Purdue,Minnesota,RUSHING,David,Yancey,YDS,-1
+2111103,10/10/2015,FBS,Purdue,Minnesota,RUSHING,David,Yancey,TD,0
+2111104,10/10/2015,FBS,Purdue,Minnesota,RUSHING,David,Yancey,LONG,-1
+2111105,10/10/2015,FBS,Purdue,Minnesota,PASSING,David,Blough,CP-ATT-INT,21-49-3
+2111106,10/10/2015,FBS,Purdue,Minnesota,PASSING,David,Blough,YDS,207
+2111107,10/10/2015,FBS,Purdue,Minnesota,PASSING,David,Blough,TD,1
+2111108,10/10/2015,FBS,Purdue,Minnesota,PASSING,David,Blough,LONG,41
+2111109,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,Danny,Anthrop,REC,5
+2111110,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,Danny,Anthrop,YDS,59
+2111111,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,Danny,Anthrop,TD,0
+2111112,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,Danny,Anthrop,LONG,41
+2111113,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,Shane,Mikesky,REC,2
+2111114,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,Shane,Mikesky,YDS,49
+2111115,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,Shane,Mikesky,TD,0
+2111116,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,Shane,Mikesky,LONG,40
+2111117,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,Anthony,Mahoungou,REC,3
+2111118,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,Anthony,Mahoungou,YDS,28
+2111119,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,Anthony,Mahoungou,TD,0
+2111120,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,Anthony,Mahoungou,LONG,12
+2111121,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,Dominique,Young,REC,3
+2111122,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,Dominique,Young,YDS,20
+2111123,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,Dominique,Young,TD,0
+2111124,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,Dominique,Young,LONG,9
+2111125,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,Bilal,Marshall,REC,1
+2111126,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,Bilal,Marshall,YDS,14
+2111127,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,Bilal,Marshall,TD,0
+2111128,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,Bilal,Marshall,LONG,14
+2111129,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,D.J.,Knox,REC,3
+2111130,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,D.J.,Knox,YDS,10
+2111131,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,D.J.,Knox,TD,0
+2111132,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,D.J.,Knox,LONG,8
+2111133,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,Cole,Herdman,REC,1
+2111134,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,Cole,Herdman,YDS,10
+2111135,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,Cole,Herdman,TD,1
+2111136,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,Cole,Herdman,LONG,10
+2111137,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,Gregory,Phillips,REC,1
+2111138,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,Gregory,Phillips,YDS,9
+2111139,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,Gregory,Phillips,TD,0
+2111140,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,Gregory,Phillips,LONG,9
+2111141,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,Trae,Hart,REC,1
+2111142,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,Trae,Hart,YDS,5
+2111143,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,Trae,Hart,TD,0
+2111144,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,Trae,Hart,LONG,5
+2111145,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,Cameron,Posey,REC,1
+2111146,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,Cameron,Posey,YDS,3
+2111147,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,Cameron,Posey,TD,0
+2111148,10/10/2015,FBS,Purdue,Minnesota,RECEIVING,Cameron,Posey,LONG,3
+2111149,10/10/2015,FBS,Purdue,Minnesota,KICKING,Paul,Griggs,FG-FGA,0/0
+2111150,10/10/2015,FBS,Purdue,Minnesota,KICKING,Paul,Griggs,LONG,-
+2111151,10/10/2015,FBS,Purdue,Minnesota,KICKING,Paul,Griggs,XP,1
+2111152,10/10/2015,FBS,Purdue,Minnesota,KICKING,Paul,Griggs,PTS,1
+2111153,10/10/2015,FBS,Purdue,Minnesota,PUNTING,Joe,Schopper,NO,7
+2111154,10/10/2015,FBS,Purdue,Minnesota,PUNTING,Joe,Schopper,YDS,288
+2111155,10/10/2015,FBS,Purdue,Minnesota,PUNTING,Joe,Schopper,AVG,41.1
+2111156,10/10/2015,FBS,Purdue,Minnesota,PUNTING,Joe,Schopper,LONG,51
+2111157,10/10/2015,FBS,Purdue,Minnesota,PUNT RETURNS,Frankie,Williams,NO,2
+2111158,10/10/2015,FBS,Purdue,Minnesota,PUNT RETURNS,Frankie,Williams,YDS,6
+2111159,10/10/2015,FBS,Purdue,Minnesota,PUNT RETURNS,Frankie,Williams,AVG,3.0
+2111160,10/10/2015,FBS,Purdue,Minnesota,PUNT RETURNS,Frankie,Williams,LONG,5
+2111161,10/10/2015,FBS,Purdue,Minnesota,PUNT RETURNS,Trae,Hart,NO,1
+2111162,10/10/2015,FBS,Purdue,Minnesota,PUNT RETURNS,Trae,Hart,YDS,0
+2111163,10/10/2015,FBS,Purdue,Minnesota,PUNT RETURNS,Trae,Hart,AVG,-
+2111164,10/10/2015,FBS,Purdue,Minnesota,PUNT RETURNS,Trae,Hart,LONG,0
+2111165,10/10/2015,FBS,Purdue,Minnesota,KICK RETURNS,Frankie,Williams,NO,2
+2111166,10/10/2015,FBS,Purdue,Minnesota,KICK RETURNS,Frankie,Williams,YDS,46
+2111167,10/10/2015,FBS,Purdue,Minnesota,KICK RETURNS,Frankie,Williams,AVG,23.0
+2111168,10/10/2015,FBS,Purdue,Minnesota,KICK RETURNS,Frankie,Williams,LONG,28
+2111169,10/10/2015,FBS,Purdue,Minnesota,KICK RETURNS,Danny,Anthrop,NO,1
+2111170,10/10/2015,FBS,Purdue,Minnesota,KICK RETURNS,Danny,Anthrop,YDS,12
+2111171,10/10/2015,FBS,Purdue,Minnesota,KICK RETURNS,Danny,Anthrop,AVG,12.0
+2111172,10/10/2015,FBS,Purdue,Minnesota,KICK RETURNS,Danny,Anthrop,LONG,12

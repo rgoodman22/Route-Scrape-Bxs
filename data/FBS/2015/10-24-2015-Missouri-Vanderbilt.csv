@@ -1,0 +1,141 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2253001,10/24/2015,FBS,Missouri,Vanderbilt,RUSHING,Drew,Lock,ATT,8
+2253002,10/24/2015,FBS,Missouri,Vanderbilt,RUSHING,Drew,Lock,YDS,39
+2253003,10/24/2015,FBS,Missouri,Vanderbilt,RUSHING,Drew,Lock,TD,0
+2253004,10/24/2015,FBS,Missouri,Vanderbilt,RUSHING,Drew,Lock,LONG,33
+2253005,10/24/2015,FBS,Missouri,Vanderbilt,RUSHING,Corey,Fatony,ATT,1
+2253006,10/24/2015,FBS,Missouri,Vanderbilt,RUSHING,Corey,Fatony,YDS,26
+2253007,10/24/2015,FBS,Missouri,Vanderbilt,RUSHING,Corey,Fatony,TD,0
+2253008,10/24/2015,FBS,Missouri,Vanderbilt,RUSHING,Corey,Fatony,LONG,26
+2253009,10/24/2015,FBS,Missouri,Vanderbilt,RUSHING,Russell,Hansbrough,ATT,8
+2253010,10/24/2015,FBS,Missouri,Vanderbilt,RUSHING,Russell,Hansbrough,YDS,12
+2253011,10/24/2015,FBS,Missouri,Vanderbilt,RUSHING,Russell,Hansbrough,TD,0
+2253012,10/24/2015,FBS,Missouri,Vanderbilt,RUSHING,Russell,Hansbrough,LONG,8
+2253013,10/24/2015,FBS,Missouri,Vanderbilt,RUSHING,Ish,Witter,ATT,2
+2253014,10/24/2015,FBS,Missouri,Vanderbilt,RUSHING,Ish,Witter,YDS,3
+2253015,10/24/2015,FBS,Missouri,Vanderbilt,RUSHING,Ish,Witter,TD,0
+2253016,10/24/2015,FBS,Missouri,Vanderbilt,RUSHING,Ish,Witter,LONG,2
+2253017,10/24/2015,FBS,Missouri,Vanderbilt,PASSING,Drew,Lock,CP-ATT-INT,14-34-0
+2253018,10/24/2015,FBS,Missouri,Vanderbilt,PASSING,Drew,Lock,YDS,108
+2253019,10/24/2015,FBS,Missouri,Vanderbilt,PASSING,Drew,Lock,TD,0
+2253020,10/24/2015,FBS,Missouri,Vanderbilt,PASSING,Drew,Lock,LONG,17
+2253021,10/24/2015,FBS,Missouri,Vanderbilt,RECEIVING,Wesley,Leftwich,REC,3
+2253022,10/24/2015,FBS,Missouri,Vanderbilt,RECEIVING,Wesley,Leftwich,YDS,38
+2253023,10/24/2015,FBS,Missouri,Vanderbilt,RECEIVING,Wesley,Leftwich,TD,0
+2253024,10/24/2015,FBS,Missouri,Vanderbilt,RECEIVING,Wesley,Leftwich,LONG,17
+2253025,10/24/2015,FBS,Missouri,Vanderbilt,RECEIVING,J'Mon,Moore,REC,4
+2253026,10/24/2015,FBS,Missouri,Vanderbilt,RECEIVING,J'Mon,Moore,YDS,30
+2253027,10/24/2015,FBS,Missouri,Vanderbilt,RECEIVING,J'Mon,Moore,TD,0
+2253028,10/24/2015,FBS,Missouri,Vanderbilt,RECEIVING,J'Mon,Moore,LONG,16
+2253029,10/24/2015,FBS,Missouri,Vanderbilt,RECEIVING,Keyon,Dilosa,REC,2
+2253030,10/24/2015,FBS,Missouri,Vanderbilt,RECEIVING,Keyon,Dilosa,YDS,17
+2253031,10/24/2015,FBS,Missouri,Vanderbilt,RECEIVING,Keyon,Dilosa,TD,0
+2253032,10/24/2015,FBS,Missouri,Vanderbilt,RECEIVING,Keyon,Dilosa,LONG,10
+2253033,10/24/2015,FBS,Missouri,Vanderbilt,RECEIVING,Russell,Hansbrough,REC,4
+2253034,10/24/2015,FBS,Missouri,Vanderbilt,RECEIVING,Russell,Hansbrough,YDS,17
+2253035,10/24/2015,FBS,Missouri,Vanderbilt,RECEIVING,Russell,Hansbrough,TD,0
+2253036,10/24/2015,FBS,Missouri,Vanderbilt,RECEIVING,Russell,Hansbrough,LONG,13
+2253037,10/24/2015,FBS,Missouri,Vanderbilt,RECEIVING,Emanuel,Hall,REC,1
+2253038,10/24/2015,FBS,Missouri,Vanderbilt,RECEIVING,Emanuel,Hall,YDS,6
+2253039,10/24/2015,FBS,Missouri,Vanderbilt,RECEIVING,Emanuel,Hall,TD,0
+2253040,10/24/2015,FBS,Missouri,Vanderbilt,RECEIVING,Emanuel,Hall,LONG,6
+2253041,10/24/2015,FBS,Missouri,Vanderbilt,KICKING,Andrew,Baggett,FG-FGA,1/2
+2253042,10/24/2015,FBS,Missouri,Vanderbilt,KICKING,Andrew,Baggett,LONG,35
+2253043,10/24/2015,FBS,Missouri,Vanderbilt,KICKING,Andrew,Baggett,XP,0
+2253044,10/24/2015,FBS,Missouri,Vanderbilt,KICKING,Andrew,Baggett,PTS,3
+2253045,10/24/2015,FBS,Missouri,Vanderbilt,PUNTING,Corey,Fatony,NO,9
+2253046,10/24/2015,FBS,Missouri,Vanderbilt,PUNTING,Corey,Fatony,YDS,429
+2253047,10/24/2015,FBS,Missouri,Vanderbilt,PUNTING,Corey,Fatony,AVG,47.7
+2253048,10/24/2015,FBS,Missouri,Vanderbilt,PUNTING,Corey,Fatony,LONG,61
+2253049,10/24/2015,FBS,Missouri,Vanderbilt,PUNT RETURNS,Cam,Hilton,NO,2
+2253050,10/24/2015,FBS,Missouri,Vanderbilt,PUNT RETURNS,Cam,Hilton,YDS,9
+2253051,10/24/2015,FBS,Missouri,Vanderbilt,PUNT RETURNS,Cam,Hilton,AVG,4.5
+2253052,10/24/2015,FBS,Missouri,Vanderbilt,PUNT RETURNS,Cam,Hilton,LONG,10
+2253053,10/24/2015,FBS,Missouri,Vanderbilt,KICK RETURNS,Finis,StriblingIV,NO,1
+2253054,10/24/2015,FBS,Missouri,Vanderbilt,KICK RETURNS,Finis,StriblingIV,YDS,23
+2253055,10/24/2015,FBS,Missouri,Vanderbilt,KICK RETURNS,Finis,StriblingIV,AVG,23.0
+2253056,10/24/2015,FBS,Missouri,Vanderbilt,KICK RETURNS,Finis,StriblingIV,LONG,23
+2253057,10/24/2015,FBS,Missouri,Vanderbilt,KICK RETURNS,Nate,Brown,NO,1
+2253058,10/24/2015,FBS,Missouri,Vanderbilt,KICK RETURNS,Nate,Brown,YDS,16
+2253059,10/24/2015,FBS,Missouri,Vanderbilt,KICK RETURNS,Nate,Brown,AVG,16.0
+2253060,10/24/2015,FBS,Missouri,Vanderbilt,KICK RETURNS,Nate,Brown,LONG,16
+2253061,10/24/2015,FBS,Missouri,Vanderbilt,KICK RETURNS,John,Gibson,NO,1
+2253062,10/24/2015,FBS,Missouri,Vanderbilt,KICK RETURNS,John,Gibson,YDS,11
+2253063,10/24/2015,FBS,Missouri,Vanderbilt,KICK RETURNS,John,Gibson,AVG,11.0
+2253064,10/24/2015,FBS,Missouri,Vanderbilt,KICK RETURNS,John,Gibson,LONG,11
+2253065,10/24/2015,FBS,Vanderbilt,Missouri,RUSHING,Ralph,Webb,ATT,26
+2253066,10/24/2015,FBS,Vanderbilt,Missouri,RUSHING,Ralph,Webb,YDS,99
+2253067,10/24/2015,FBS,Vanderbilt,Missouri,RUSHING,Ralph,Webb,TD,1
+2253068,10/24/2015,FBS,Vanderbilt,Missouri,RUSHING,Ralph,Webb,LONG,46
+2253069,10/24/2015,FBS,Vanderbilt,Missouri,RUSHING,Darrius,Sims,ATT,9
+2253070,10/24/2015,FBS,Vanderbilt,Missouri,RUSHING,Darrius,Sims,YDS,58
+2253071,10/24/2015,FBS,Vanderbilt,Missouri,RUSHING,Darrius,Sims,TD,0
+2253072,10/24/2015,FBS,Vanderbilt,Missouri,RUSHING,Darrius,Sims,LONG,16
+2253073,10/24/2015,FBS,Vanderbilt,Missouri,RUSHING,Josh,Crawford,ATT,5
+2253074,10/24/2015,FBS,Vanderbilt,Missouri,RUSHING,Josh,Crawford,YDS,19
+2253075,10/24/2015,FBS,Vanderbilt,Missouri,RUSHING,Josh,Crawford,TD,0
+2253076,10/24/2015,FBS,Vanderbilt,Missouri,RUSHING,Josh,Crawford,LONG,9
+2253077,10/24/2015,FBS,Vanderbilt,Missouri,RUSHING,Dallas,Rivers,ATT,2
+2253078,10/24/2015,FBS,Vanderbilt,Missouri,RUSHING,Dallas,Rivers,YDS,8
+2253079,10/24/2015,FBS,Vanderbilt,Missouri,RUSHING,Dallas,Rivers,TD,0
+2253080,10/24/2015,FBS,Vanderbilt,Missouri,RUSHING,Dallas,Rivers,LONG,4
+2253081,10/24/2015,FBS,Vanderbilt,Missouri,RUSHING,,Team,ATT,1
+2253082,10/24/2015,FBS,Vanderbilt,Missouri,RUSHING,,Team,YDS,-1
+2253083,10/24/2015,FBS,Vanderbilt,Missouri,RUSHING,,Team,TD,0
+2253084,10/24/2015,FBS,Vanderbilt,Missouri,RUSHING,,Team,LONG,-1
+2253085,10/24/2015,FBS,Vanderbilt,Missouri,RUSHING,Johnny,McCrary,ATT,3
+2253086,10/24/2015,FBS,Vanderbilt,Missouri,RUSHING,Johnny,McCrary,YDS,-4
+2253087,10/24/2015,FBS,Vanderbilt,Missouri,RUSHING,Johnny,McCrary,TD,0
+2253088,10/24/2015,FBS,Vanderbilt,Missouri,RUSHING,Johnny,McCrary,LONG,14
+2253089,10/24/2015,FBS,Vanderbilt,Missouri,RUSHING,Kyle,Shurmur,ATT,3
+2253090,10/24/2015,FBS,Vanderbilt,Missouri,RUSHING,Kyle,Shurmur,YDS,-11
+2253091,10/24/2015,FBS,Vanderbilt,Missouri,RUSHING,Kyle,Shurmur,TD,0
+2253092,10/24/2015,FBS,Vanderbilt,Missouri,RUSHING,Kyle,Shurmur,LONG,0
+2253093,10/24/2015,FBS,Vanderbilt,Missouri,PASSING,Kyle,Shurmur,CP-ATT-INT,10-20-0
+2253094,10/24/2015,FBS,Vanderbilt,Missouri,PASSING,Kyle,Shurmur,YDS,89
+2253095,10/24/2015,FBS,Vanderbilt,Missouri,PASSING,Kyle,Shurmur,TD,0
+2253096,10/24/2015,FBS,Vanderbilt,Missouri,PASSING,Kyle,Shurmur,LONG,24
+2253097,10/24/2015,FBS,Vanderbilt,Missouri,PASSING,Johnny,McCrary,CP-ATT-INT,7-8-0
+2253098,10/24/2015,FBS,Vanderbilt,Missouri,PASSING,Johnny,McCrary,YDS,47
+2253099,10/24/2015,FBS,Vanderbilt,Missouri,PASSING,Johnny,McCrary,TD,0
+2253100,10/24/2015,FBS,Vanderbilt,Missouri,PASSING,Johnny,McCrary,LONG,11
+2253101,10/24/2015,FBS,Vanderbilt,Missouri,RECEIVING,Trent,Sherfield,REC,5
+2253102,10/24/2015,FBS,Vanderbilt,Missouri,RECEIVING,Trent,Sherfield,YDS,35
+2253103,10/24/2015,FBS,Vanderbilt,Missouri,RECEIVING,Trent,Sherfield,TD,0
+2253104,10/24/2015,FBS,Vanderbilt,Missouri,RECEIVING,Trent,Sherfield,LONG,10
+2253105,10/24/2015,FBS,Vanderbilt,Missouri,RECEIVING,Darrius,Sims,REC,2
+2253106,10/24/2015,FBS,Vanderbilt,Missouri,RECEIVING,Darrius,Sims,YDS,29
+2253107,10/24/2015,FBS,Vanderbilt,Missouri,RECEIVING,Darrius,Sims,TD,0
+2253108,10/24/2015,FBS,Vanderbilt,Missouri,RECEIVING,Darrius,Sims,LONG,24
+2253109,10/24/2015,FBS,Vanderbilt,Missouri,RECEIVING,Steven,Scheu,REC,5
+2253110,10/24/2015,FBS,Vanderbilt,Missouri,RECEIVING,Steven,Scheu,YDS,28
+2253111,10/24/2015,FBS,Vanderbilt,Missouri,RECEIVING,Steven,Scheu,TD,0
+2253112,10/24/2015,FBS,Vanderbilt,Missouri,RECEIVING,Steven,Scheu,LONG,9
+2253113,10/24/2015,FBS,Vanderbilt,Missouri,RECEIVING,Caleb,Scott,REC,2
+2253114,10/24/2015,FBS,Vanderbilt,Missouri,RECEIVING,Caleb,Scott,YDS,13
+2253115,10/24/2015,FBS,Vanderbilt,Missouri,RECEIVING,Caleb,Scott,TD,0
+2253116,10/24/2015,FBS,Vanderbilt,Missouri,RECEIVING,Caleb,Scott,LONG,8
+2253117,10/24/2015,FBS,Vanderbilt,Missouri,RECEIVING,Ralph,Webb,REC,1
+2253118,10/24/2015,FBS,Vanderbilt,Missouri,RECEIVING,Ralph,Webb,YDS,11
+2253119,10/24/2015,FBS,Vanderbilt,Missouri,RECEIVING,Ralph,Webb,TD,0
+2253120,10/24/2015,FBS,Vanderbilt,Missouri,RECEIVING,Ralph,Webb,LONG,11
+2253121,10/24/2015,FBS,Vanderbilt,Missouri,RECEIVING,Nathan,Marcus,REC,1
+2253122,10/24/2015,FBS,Vanderbilt,Missouri,RECEIVING,Nathan,Marcus,YDS,11
+2253123,10/24/2015,FBS,Vanderbilt,Missouri,RECEIVING,Nathan,Marcus,TD,0
+2253124,10/24/2015,FBS,Vanderbilt,Missouri,RECEIVING,Nathan,Marcus,LONG,11
+2253125,10/24/2015,FBS,Vanderbilt,Missouri,RECEIVING,Latevius,Rayford,REC,1
+2253126,10/24/2015,FBS,Vanderbilt,Missouri,RECEIVING,Latevius,Rayford,YDS,9
+2253127,10/24/2015,FBS,Vanderbilt,Missouri,RECEIVING,Latevius,Rayford,TD,0
+2253128,10/24/2015,FBS,Vanderbilt,Missouri,RECEIVING,Latevius,Rayford,LONG,9
+2253129,10/24/2015,FBS,Vanderbilt,Missouri,KICKING,Tommy,Openshaw,FG-FGA,1/3
+2253130,10/24/2015,FBS,Vanderbilt,Missouri,KICKING,Tommy,Openshaw,LONG,40
+2253131,10/24/2015,FBS,Vanderbilt,Missouri,KICKING,Tommy,Openshaw,XP,1
+2253132,10/24/2015,FBS,Vanderbilt,Missouri,KICKING,Tommy,Openshaw,PTS,4
+2253133,10/24/2015,FBS,Vanderbilt,Missouri,PUNTING,Tommy,Openshaw,NO,7
+2253134,10/24/2015,FBS,Vanderbilt,Missouri,PUNTING,Tommy,Openshaw,YDS,319
+2253135,10/24/2015,FBS,Vanderbilt,Missouri,PUNTING,Tommy,Openshaw,AVG,45.6
+2253136,10/24/2015,FBS,Vanderbilt,Missouri,PUNTING,Tommy,Openshaw,LONG,78
+2253137,10/24/2015,FBS,Vanderbilt,Missouri,PUNT RETURNS,Ryan,White,NO,7
+2253138,10/24/2015,FBS,Vanderbilt,Missouri,PUNT RETURNS,Ryan,White,YDS,71
+2253139,10/24/2015,FBS,Vanderbilt,Missouri,PUNT RETURNS,Ryan,White,AVG,10.1
+2253140,10/24/2015,FBS,Vanderbilt,Missouri,PUNT RETURNS,Ryan,White,LONG,15

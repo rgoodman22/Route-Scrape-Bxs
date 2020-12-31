@@ -1,0 +1,161 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2241001,10/24/2015,FBS,Connecticut,Cincinnati,RUSHING,Bryant,Shirreffs,ATT,17
+2241002,10/24/2015,FBS,Connecticut,Cincinnati,RUSHING,Bryant,Shirreffs,YDS,90
+2241003,10/24/2015,FBS,Connecticut,Cincinnati,RUSHING,Bryant,Shirreffs,TD,0
+2241004,10/24/2015,FBS,Connecticut,Cincinnati,RUSHING,Bryant,Shirreffs,LONG,19
+2241005,10/24/2015,FBS,Connecticut,Cincinnati,RUSHING,Arkeel,Newsome,ATT,11
+2241006,10/24/2015,FBS,Connecticut,Cincinnati,RUSHING,Arkeel,Newsome,YDS,45
+2241007,10/24/2015,FBS,Connecticut,Cincinnati,RUSHING,Arkeel,Newsome,TD,1
+2241008,10/24/2015,FBS,Connecticut,Cincinnati,RUSHING,Arkeel,Newsome,LONG,10
+2241009,10/24/2015,FBS,Connecticut,Cincinnati,RUSHING,Tim,Boyle,ATT,1
+2241010,10/24/2015,FBS,Connecticut,Cincinnati,RUSHING,Tim,Boyle,YDS,1
+2241011,10/24/2015,FBS,Connecticut,Cincinnati,RUSHING,Tim,Boyle,TD,0
+2241012,10/24/2015,FBS,Connecticut,Cincinnati,RUSHING,Tim,Boyle,LONG,1
+2241013,10/24/2015,FBS,Connecticut,Cincinnati,RUSHING,Ron,Johnson,ATT,1
+2241014,10/24/2015,FBS,Connecticut,Cincinnati,RUSHING,Ron,Johnson,YDS,0
+2241015,10/24/2015,FBS,Connecticut,Cincinnati,RUSHING,Ron,Johnson,TD,0
+2241016,10/24/2015,FBS,Connecticut,Cincinnati,RUSHING,Ron,Johnson,LONG,0
+2241017,10/24/2015,FBS,Connecticut,Cincinnati,PASSING,Bryant,Shirreffs,CP-ATT-INT,12-27-1
+2241018,10/24/2015,FBS,Connecticut,Cincinnati,PASSING,Bryant,Shirreffs,YDS,87
+2241019,10/24/2015,FBS,Connecticut,Cincinnati,PASSING,Bryant,Shirreffs,TD,0
+2241020,10/24/2015,FBS,Connecticut,Cincinnati,PASSING,Bryant,Shirreffs,LONG,16
+2241021,10/24/2015,FBS,Connecticut,Cincinnati,PASSING,Tim,Boyle,CP-ATT-INT,5-14-0
+2241022,10/24/2015,FBS,Connecticut,Cincinnati,PASSING,Tim,Boyle,YDS,43
+2241023,10/24/2015,FBS,Connecticut,Cincinnati,PASSING,Tim,Boyle,TD,0
+2241024,10/24/2015,FBS,Connecticut,Cincinnati,PASSING,Tim,Boyle,LONG,16
+2241025,10/24/2015,FBS,Connecticut,Cincinnati,RECEIVING,Tyraiq,Beals,REC,3
+2241026,10/24/2015,FBS,Connecticut,Cincinnati,RECEIVING,Tyraiq,Beals,YDS,48
+2241027,10/24/2015,FBS,Connecticut,Cincinnati,RECEIVING,Tyraiq,Beals,TD,0
+2241028,10/24/2015,FBS,Connecticut,Cincinnati,RECEIVING,Tyraiq,Beals,LONG,16
+2241029,10/24/2015,FBS,Connecticut,Cincinnati,RECEIVING,Noel,Thomas,REC,4
+2241030,10/24/2015,FBS,Connecticut,Cincinnati,RECEIVING,Noel,Thomas,YDS,38
+2241031,10/24/2015,FBS,Connecticut,Cincinnati,RECEIVING,Noel,Thomas,TD,0
+2241032,10/24/2015,FBS,Connecticut,Cincinnati,RECEIVING,Noel,Thomas,LONG,11
+2241033,10/24/2015,FBS,Connecticut,Cincinnati,RECEIVING,Arkeel,Newsome,REC,8
+2241034,10/24/2015,FBS,Connecticut,Cincinnati,RECEIVING,Arkeel,Newsome,YDS,37
+2241035,10/24/2015,FBS,Connecticut,Cincinnati,RECEIVING,Arkeel,Newsome,TD,0
+2241036,10/24/2015,FBS,Connecticut,Cincinnati,RECEIVING,Arkeel,Newsome,LONG,10
+2241037,10/24/2015,FBS,Connecticut,Cincinnati,RECEIVING,Aaron,McClean,REC,1
+2241038,10/24/2015,FBS,Connecticut,Cincinnati,RECEIVING,Aaron,McClean,YDS,6
+2241039,10/24/2015,FBS,Connecticut,Cincinnati,RECEIVING,Aaron,McClean,TD,0
+2241040,10/24/2015,FBS,Connecticut,Cincinnati,RECEIVING,Aaron,McClean,LONG,6
+2241041,10/24/2015,FBS,Connecticut,Cincinnati,RECEIVING,Tommy,Myers,REC,1
+2241042,10/24/2015,FBS,Connecticut,Cincinnati,RECEIVING,Tommy,Myers,YDS,1
+2241043,10/24/2015,FBS,Connecticut,Cincinnati,RECEIVING,Tommy,Myers,TD,0
+2241044,10/24/2015,FBS,Connecticut,Cincinnati,RECEIVING,Tommy,Myers,LONG,1
+2241045,10/24/2015,FBS,Connecticut,Cincinnati,KICKING,Bobby,Puyol,FG-FGA,2/2
+2241046,10/24/2015,FBS,Connecticut,Cincinnati,KICKING,Bobby,Puyol,LONG,30
+2241047,10/24/2015,FBS,Connecticut,Cincinnati,KICKING,Bobby,Puyol,XP,1
+2241048,10/24/2015,FBS,Connecticut,Cincinnati,KICKING,Bobby,Puyol,PTS,7
+2241049,10/24/2015,FBS,Connecticut,Cincinnati,PUNTING,Justin,Wain,NO,5
+2241050,10/24/2015,FBS,Connecticut,Cincinnati,PUNTING,Justin,Wain,YDS,181
+2241051,10/24/2015,FBS,Connecticut,Cincinnati,PUNTING,Justin,Wain,AVG,36.2
+2241052,10/24/2015,FBS,Connecticut,Cincinnati,PUNTING,Justin,Wain,LONG,46
+2241053,10/24/2015,FBS,Connecticut,Cincinnati,PUNT RETURNS,Nick,Vitale,NO,0
+2241054,10/24/2015,FBS,Connecticut,Cincinnati,PUNT RETURNS,Nick,Vitale,YDS,0
+2241055,10/24/2015,FBS,Connecticut,Cincinnati,PUNT RETURNS,Nick,Vitale,AVG,-
+2241056,10/24/2015,FBS,Connecticut,Cincinnati,PUNT RETURNS,Nick,Vitale,LONG,0
+2241057,10/24/2015,FBS,Connecticut,Cincinnati,KICK RETURNS,Arkeel,Newsome,NO,2
+2241058,10/24/2015,FBS,Connecticut,Cincinnati,KICK RETURNS,Arkeel,Newsome,YDS,44
+2241059,10/24/2015,FBS,Connecticut,Cincinnati,KICK RETURNS,Arkeel,Newsome,AVG,22.0
+2241060,10/24/2015,FBS,Connecticut,Cincinnati,KICK RETURNS,Arkeel,Newsome,LONG,24
+2241061,10/24/2015,FBS,Connecticut,Cincinnati,KICK RETURNS,Tyraiq,Beals,NO,1
+2241062,10/24/2015,FBS,Connecticut,Cincinnati,KICK RETURNS,Tyraiq,Beals,YDS,18
+2241063,10/24/2015,FBS,Connecticut,Cincinnati,KICK RETURNS,Tyraiq,Beals,AVG,18.0
+2241064,10/24/2015,FBS,Connecticut,Cincinnati,KICK RETURNS,Tyraiq,Beals,LONG,18
+2241065,10/24/2015,FBS,Cincinnati,Connecticut,RUSHING,Hosey,Williams,ATT,13
+2241066,10/24/2015,FBS,Cincinnati,Connecticut,RUSHING,Hosey,Williams,YDS,140
+2241067,10/24/2015,FBS,Cincinnati,Connecticut,RUSHING,Hosey,Williams,TD,1
+2241068,10/24/2015,FBS,Cincinnati,Connecticut,RUSHING,Hosey,Williams,LONG,84
+2241069,10/24/2015,FBS,Cincinnati,Connecticut,RUSHING,Mike,Boone,ATT,13
+2241070,10/24/2015,FBS,Cincinnati,Connecticut,RUSHING,Mike,Boone,YDS,117
+2241071,10/24/2015,FBS,Cincinnati,Connecticut,RUSHING,Mike,Boone,TD,0
+2241072,10/24/2015,FBS,Cincinnati,Connecticut,RUSHING,Mike,Boone,LONG,34
+2241073,10/24/2015,FBS,Cincinnati,Connecticut,RUSHING,Tion,Green,ATT,14
+2241074,10/24/2015,FBS,Cincinnati,Connecticut,RUSHING,Tion,Green,YDS,71
+2241075,10/24/2015,FBS,Cincinnati,Connecticut,RUSHING,Tion,Green,TD,0
+2241076,10/24/2015,FBS,Cincinnati,Connecticut,RUSHING,Tion,Green,LONG,17
+2241077,10/24/2015,FBS,Cincinnati,Connecticut,RUSHING,Gunner,Kiel,ATT,5
+2241078,10/24/2015,FBS,Cincinnati,Connecticut,RUSHING,Gunner,Kiel,YDS,10
+2241079,10/24/2015,FBS,Cincinnati,Connecticut,RUSHING,Gunner,Kiel,TD,1
+2241080,10/24/2015,FBS,Cincinnati,Connecticut,RUSHING,Gunner,Kiel,LONG,6
+2241081,10/24/2015,FBS,Cincinnati,Connecticut,RUSHING,Chris,Moore,ATT,1
+2241082,10/24/2015,FBS,Cincinnati,Connecticut,RUSHING,Chris,Moore,YDS,4
+2241083,10/24/2015,FBS,Cincinnati,Connecticut,RUSHING,Chris,Moore,TD,0
+2241084,10/24/2015,FBS,Cincinnati,Connecticut,RUSHING,Chris,Moore,LONG,4
+2241085,10/24/2015,FBS,Cincinnati,Connecticut,RUSHING,Chad,Banschbach,ATT,1
+2241086,10/24/2015,FBS,Cincinnati,Connecticut,RUSHING,Chad,Banschbach,YDS,-3
+2241087,10/24/2015,FBS,Cincinnati,Connecticut,RUSHING,Chad,Banschbach,TD,0
+2241088,10/24/2015,FBS,Cincinnati,Connecticut,RUSHING,Chad,Banschbach,LONG,-3
+2241089,10/24/2015,FBS,Cincinnati,Connecticut,RUSHING,,Team,ATT,2
+2241090,10/24/2015,FBS,Cincinnati,Connecticut,RUSHING,,Team,YDS,-54
+2241091,10/24/2015,FBS,Cincinnati,Connecticut,RUSHING,,Team,TD,0
+2241092,10/24/2015,FBS,Cincinnati,Connecticut,RUSHING,,Team,LONG,-15
+2241093,10/24/2015,FBS,Cincinnati,Connecticut,PASSING,Gunner,Kiel,CP-ATT-INT,26-35-0
+2241094,10/24/2015,FBS,Cincinnati,Connecticut,PASSING,Gunner,Kiel,YDS,327
+2241095,10/24/2015,FBS,Cincinnati,Connecticut,PASSING,Gunner,Kiel,TD,2
+2241096,10/24/2015,FBS,Cincinnati,Connecticut,PASSING,Gunner,Kiel,LONG,33
+2241097,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,Shaq,Washington,REC,8
+2241098,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,Shaq,Washington,YDS,78
+2241099,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,Shaq,Washington,TD,0
+2241100,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,Shaq,Washington,LONG,25
+2241101,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,Johnny,Holton,REC,2
+2241102,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,Johnny,Holton,YDS,62
+2241103,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,Johnny,Holton,TD,1
+2241104,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,Johnny,Holton,LONG,33
+2241105,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,DJ,Dowdy,REC,2
+2241106,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,DJ,Dowdy,YDS,55
+2241107,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,DJ,Dowdy,TD,1
+2241108,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,DJ,Dowdy,LONG,29
+2241109,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,Nate,Cole,REC,2
+2241110,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,Nate,Cole,YDS,38
+2241111,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,Nate,Cole,TD,0
+2241112,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,Nate,Cole,LONG,21
+2241113,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,Chris,Moore,REC,3
+2241114,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,Chris,Moore,YDS,31
+2241115,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,Chris,Moore,TD,0
+2241116,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,Chris,Moore,LONG,19
+2241117,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,Max,Morrison,REC,2
+2241118,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,Max,Morrison,YDS,22
+2241119,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,Max,Morrison,TD,0
+2241120,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,Max,Morrison,LONG,20
+2241121,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,Mike,Boone,REC,3
+2241122,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,Mike,Boone,YDS,17
+2241123,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,Mike,Boone,TD,0
+2241124,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,Mike,Boone,LONG,10
+2241125,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,Mekale,McKay,REC,1
+2241126,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,Mekale,McKay,YDS,15
+2241127,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,Mekale,McKay,TD,0
+2241128,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,Mekale,McKay,LONG,15
+2241129,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,Alex,Chisum,REC,2
+2241130,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,Alex,Chisum,YDS,5
+2241131,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,Alex,Chisum,TD,0
+2241132,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,Alex,Chisum,LONG,3
+2241133,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,Tion,Green,REC,1
+2241134,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,Tion,Green,YDS,4
+2241135,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,Tion,Green,TD,0
+2241136,10/24/2015,FBS,Cincinnati,Connecticut,RECEIVING,Tion,Green,LONG,4
+2241137,10/24/2015,FBS,Cincinnati,Connecticut,KICKING,Andrew,Gantz,FG-FGA,3/4
+2241138,10/24/2015,FBS,Cincinnati,Connecticut,KICKING,Andrew,Gantz,LONG,38
+2241139,10/24/2015,FBS,Cincinnati,Connecticut,KICKING,Andrew,Gantz,XP,4
+2241140,10/24/2015,FBS,Cincinnati,Connecticut,KICKING,Andrew,Gantz,PTS,13
+2241141,10/24/2015,FBS,Cincinnati,Connecticut,PUNTING,Sam,Geraci,NO,2
+2241142,10/24/2015,FBS,Cincinnati,Connecticut,PUNTING,Sam,Geraci,YDS,63
+2241143,10/24/2015,FBS,Cincinnati,Connecticut,PUNTING,Sam,Geraci,AVG,31.5
+2241144,10/24/2015,FBS,Cincinnati,Connecticut,PUNTING,Sam,Geraci,LONG,32
+2241145,10/24/2015,FBS,Cincinnati,Connecticut,PUNT RETURNS,Shaq,Washington,NO,0
+2241146,10/24/2015,FBS,Cincinnati,Connecticut,PUNT RETURNS,Shaq,Washington,YDS,0
+2241147,10/24/2015,FBS,Cincinnati,Connecticut,PUNT RETURNS,Shaq,Washington,AVG,-
+2241148,10/24/2015,FBS,Cincinnati,Connecticut,PUNT RETURNS,Shaq,Washington,LONG,0
+2241149,10/24/2015,FBS,Cincinnati,Connecticut,KICK RETURNS,Tion,Green,NO,1
+2241150,10/24/2015,FBS,Cincinnati,Connecticut,KICK RETURNS,Tion,Green,YDS,19
+2241151,10/24/2015,FBS,Cincinnati,Connecticut,KICK RETURNS,Tion,Green,AVG,19.0
+2241152,10/24/2015,FBS,Cincinnati,Connecticut,KICK RETURNS,Tion,Green,LONG,19
+2241153,10/24/2015,FBS,Cincinnati,Connecticut,KICK RETURNS,Zach,Edwards,NO,1
+2241154,10/24/2015,FBS,Cincinnati,Connecticut,KICK RETURNS,Zach,Edwards,YDS,8
+2241155,10/24/2015,FBS,Cincinnati,Connecticut,KICK RETURNS,Zach,Edwards,AVG,8.0
+2241156,10/24/2015,FBS,Cincinnati,Connecticut,KICK RETURNS,Zach,Edwards,LONG,8
+2241157,10/24/2015,FBS,Cincinnati,Connecticut,KICK RETURNS,Kevin,Hyland,NO,0
+2241158,10/24/2015,FBS,Cincinnati,Connecticut,KICK RETURNS,Kevin,Hyland,YDS,0
+2241159,10/24/2015,FBS,Cincinnati,Connecticut,KICK RETURNS,Kevin,Hyland,AVG,-
+2241160,10/24/2015,FBS,Cincinnati,Connecticut,KICK RETURNS,Kevin,Hyland,LONG,0

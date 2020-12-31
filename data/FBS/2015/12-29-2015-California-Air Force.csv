@@ -1,0 +1,161 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2601001,12/29/2015,FBS,California,Air Force,RUSHING,Tre,Watson,ATT,13
+2601002,12/29/2015,FBS,California,Air Force,RUSHING,Tre,Watson,YDS,70
+2601003,12/29/2015,FBS,California,Air Force,RUSHING,Tre,Watson,TD,0
+2601004,12/29/2015,FBS,California,Air Force,RUSHING,Tre,Watson,LONG,32
+2601005,12/29/2015,FBS,California,Air Force,RUSHING,Khalfani,Muhammad,ATT,9
+2601006,12/29/2015,FBS,California,Air Force,RUSHING,Khalfani,Muhammad,YDS,47
+2601007,12/29/2015,FBS,California,Air Force,RUSHING,Khalfani,Muhammad,TD,0
+2601008,12/29/2015,FBS,California,Air Force,RUSHING,Khalfani,Muhammad,LONG,12
+2601009,12/29/2015,FBS,California,Air Force,RUSHING,Vic,Enwere,ATT,8
+2601010,12/29/2015,FBS,California,Air Force,RUSHING,Vic,Enwere,YDS,19
+2601011,12/29/2015,FBS,California,Air Force,RUSHING,Vic,Enwere,TD,1
+2601012,12/29/2015,FBS,California,Air Force,RUSHING,Vic,Enwere,LONG,5
+2601013,12/29/2015,FBS,California,Air Force,RUSHING,Trevor,Davis,ATT,1
+2601014,12/29/2015,FBS,California,Air Force,RUSHING,Trevor,Davis,YDS,16
+2601015,12/29/2015,FBS,California,Air Force,RUSHING,Trevor,Davis,TD,0
+2601016,12/29/2015,FBS,California,Air Force,RUSHING,Trevor,Davis,LONG,16
+2601017,12/29/2015,FBS,California,Air Force,RUSHING,Jared,Goff,ATT,2
+2601018,12/29/2015,FBS,California,Air Force,RUSHING,Jared,Goff,YDS,-16
+2601019,12/29/2015,FBS,California,Air Force,RUSHING,Jared,Goff,TD,0
+2601020,12/29/2015,FBS,California,Air Force,RUSHING,Jared,Goff,LONG,-2
+2601021,12/29/2015,FBS,California,Air Force,RUSHING,,Team,ATT,1
+2601022,12/29/2015,FBS,California,Air Force,RUSHING,,Team,YDS,-17
+2601023,12/29/2015,FBS,California,Air Force,RUSHING,,Team,TD,0
+2601024,12/29/2015,FBS,California,Air Force,RUSHING,,Team,LONG,-17
+2601025,12/29/2015,FBS,California,Air Force,PASSING,Jared,Goff,CP-ATT-INT,25-37-0
+2601026,12/29/2015,FBS,California,Air Force,PASSING,Jared,Goff,YDS,467
+2601027,12/29/2015,FBS,California,Air Force,PASSING,Jared,Goff,TD,6
+2601028,12/29/2015,FBS,California,Air Force,PASSING,Jared,Goff,LONG,55
+2601029,12/29/2015,FBS,California,Air Force,RECEIVING,Bryce,Treggs,REC,4
+2601030,12/29/2015,FBS,California,Air Force,RECEIVING,Bryce,Treggs,YDS,143
+2601031,12/29/2015,FBS,California,Air Force,RECEIVING,Bryce,Treggs,TD,1
+2601032,12/29/2015,FBS,California,Air Force,RECEIVING,Bryce,Treggs,LONG,55
+2601033,12/29/2015,FBS,California,Air Force,RECEIVING,Kenny,Lawler,REC,5
+2601034,12/29/2015,FBS,California,Air Force,RECEIVING,Kenny,Lawler,YDS,75
+2601035,12/29/2015,FBS,California,Air Force,RECEIVING,Kenny,Lawler,TD,3
+2601036,12/29/2015,FBS,California,Air Force,RECEIVING,Kenny,Lawler,LONG,25
+2601037,12/29/2015,FBS,California,Air Force,RECEIVING,Darius,Powe,REC,4
+2601038,12/29/2015,FBS,California,Air Force,RECEIVING,Darius,Powe,YDS,70
+2601039,12/29/2015,FBS,California,Air Force,RECEIVING,Darius,Powe,TD,2
+2601040,12/29/2015,FBS,California,Air Force,RECEIVING,Darius,Powe,LONG,44
+2601041,12/29/2015,FBS,California,Air Force,RECEIVING,Maurice,Harris,REC,4
+2601042,12/29/2015,FBS,California,Air Force,RECEIVING,Maurice,Harris,YDS,67
+2601043,12/29/2015,FBS,California,Air Force,RECEIVING,Maurice,Harris,TD,0
+2601044,12/29/2015,FBS,California,Air Force,RECEIVING,Maurice,Harris,LONG,40
+2601045,12/29/2015,FBS,California,Air Force,RECEIVING,Raymond,Hudson,REC,2
+2601046,12/29/2015,FBS,California,Air Force,RECEIVING,Raymond,Hudson,YDS,40
+2601047,12/29/2015,FBS,California,Air Force,RECEIVING,Raymond,Hudson,TD,0
+2601048,12/29/2015,FBS,California,Air Force,RECEIVING,Raymond,Hudson,LONG,29
+2601049,12/29/2015,FBS,California,Air Force,RECEIVING,Chad,Hansen,REC,2
+2601050,12/29/2015,FBS,California,Air Force,RECEIVING,Chad,Hansen,YDS,30
+2601051,12/29/2015,FBS,California,Air Force,RECEIVING,Chad,Hansen,TD,0
+2601052,12/29/2015,FBS,California,Air Force,RECEIVING,Chad,Hansen,LONG,25
+2601053,12/29/2015,FBS,California,Air Force,RECEIVING,Trevor,Davis,REC,2
+2601054,12/29/2015,FBS,California,Air Force,RECEIVING,Trevor,Davis,YDS,19
+2601055,12/29/2015,FBS,California,Air Force,RECEIVING,Trevor,Davis,TD,0
+2601056,12/29/2015,FBS,California,Air Force,RECEIVING,Trevor,Davis,LONG,15
+2601057,12/29/2015,FBS,California,Air Force,RECEIVING,Stephen,Anderson,REC,1
+2601058,12/29/2015,FBS,California,Air Force,RECEIVING,Stephen,Anderson,YDS,14
+2601059,12/29/2015,FBS,California,Air Force,RECEIVING,Stephen,Anderson,TD,0
+2601060,12/29/2015,FBS,California,Air Force,RECEIVING,Stephen,Anderson,LONG,14
+2601061,12/29/2015,FBS,California,Air Force,RECEIVING,Tre,Watson,REC,1
+2601062,12/29/2015,FBS,California,Air Force,RECEIVING,Tre,Watson,YDS,9
+2601063,12/29/2015,FBS,California,Air Force,RECEIVING,Tre,Watson,TD,0
+2601064,12/29/2015,FBS,California,Air Force,RECEIVING,Tre,Watson,LONG,9
+2601065,12/29/2015,FBS,California,Air Force,KICKING,Matt,Anderson,FG-FGA,2/2
+2601066,12/29/2015,FBS,California,Air Force,KICKING,Matt,Anderson,LONG,30
+2601067,12/29/2015,FBS,California,Air Force,KICKING,Matt,Anderson,XP,7
+2601068,12/29/2015,FBS,California,Air Force,KICKING,Matt,Anderson,PTS,13
+2601069,12/29/2015,FBS,California,Air Force,PUNTING,Cole,Leininger,NO,2
+2601070,12/29/2015,FBS,California,Air Force,PUNTING,Cole,Leininger,YDS,73
+2601071,12/29/2015,FBS,California,Air Force,PUNTING,Cole,Leininger,AVG,36.5
+2601072,12/29/2015,FBS,California,Air Force,PUNTING,Cole,Leininger,LONG,39
+2601073,12/29/2015,FBS,California,Air Force,PUNT RETURNS,Maurice,Harris,NO,1
+2601074,12/29/2015,FBS,California,Air Force,PUNT RETURNS,Maurice,Harris,YDS,18
+2601075,12/29/2015,FBS,California,Air Force,PUNT RETURNS,Maurice,Harris,AVG,18.0
+2601076,12/29/2015,FBS,California,Air Force,PUNT RETURNS,Maurice,Harris,LONG,18
+2601077,12/29/2015,FBS,California,Air Force,PUNT RETURNS,Trevor,Davis,NO,2
+2601078,12/29/2015,FBS,California,Air Force,PUNT RETURNS,Trevor,Davis,YDS,18
+2601079,12/29/2015,FBS,California,Air Force,PUNT RETURNS,Trevor,Davis,AVG,9.0
+2601080,12/29/2015,FBS,California,Air Force,PUNT RETURNS,Trevor,Davis,LONG,11
+2601081,12/29/2015,FBS,California,Air Force,KICK RETURNS,Trevor,Davis,NO,5
+2601082,12/29/2015,FBS,California,Air Force,KICK RETURNS,Trevor,Davis,YDS,119
+2601083,12/29/2015,FBS,California,Air Force,KICK RETURNS,Trevor,Davis,AVG,23.8
+2601084,12/29/2015,FBS,California,Air Force,KICK RETURNS,Trevor,Davis,LONG,32
+2601085,12/29/2015,FBS,California,Air Force,KICK RETURNS,Khalfani,Muhammad,NO,1
+2601086,12/29/2015,FBS,California,Air Force,KICK RETURNS,Khalfani,Muhammad,YDS,17
+2601087,12/29/2015,FBS,California,Air Force,KICK RETURNS,Khalfani,Muhammad,AVG,17.0
+2601088,12/29/2015,FBS,California,Air Force,KICK RETURNS,Khalfani,Muhammad,LONG,17
+2601089,12/29/2015,FBS,Air Force,California,RUSHING,Jacobi,Owens,ATT,19
+2601090,12/29/2015,FBS,Air Force,California,RUSHING,Jacobi,Owens,YDS,83
+2601091,12/29/2015,FBS,Air Force,California,RUSHING,Jacobi,Owens,TD,1
+2601092,12/29/2015,FBS,Air Force,California,RUSHING,Jacobi,Owens,LONG,14
+2601093,12/29/2015,FBS,Air Force,California,RUSHING,Karson,Roberts,ATT,16
+2601094,12/29/2015,FBS,Air Force,California,RUSHING,Karson,Roberts,YDS,69
+2601095,12/29/2015,FBS,Air Force,California,RUSHING,Karson,Roberts,TD,1
+2601096,12/29/2015,FBS,Air Force,California,RUSHING,Karson,Roberts,LONG,21
+2601097,12/29/2015,FBS,Air Force,California,RUSHING,Timothy,McVey,ATT,8
+2601098,12/29/2015,FBS,Air Force,California,RUSHING,Timothy,McVey,YDS,44
+2601099,12/29/2015,FBS,Air Force,California,RUSHING,Timothy,McVey,TD,0
+2601100,12/29/2015,FBS,Air Force,California,RUSHING,Timothy,McVey,LONG,19
+2601101,12/29/2015,FBS,Air Force,California,RUSHING,Garrett,Brown,ATT,6
+2601102,12/29/2015,FBS,Air Force,California,RUSHING,Garrett,Brown,YDS,39
+2601103,12/29/2015,FBS,Air Force,California,RUSHING,Garrett,Brown,TD,0
+2601104,12/29/2015,FBS,Air Force,California,RUSHING,Garrett,Brown,LONG,23
+2601105,12/29/2015,FBS,Air Force,California,RUSHING,Bryan,Driskell,ATT,2
+2601106,12/29/2015,FBS,Air Force,California,RUSHING,Bryan,Driskell,YDS,31
+2601107,12/29/2015,FBS,Air Force,California,RUSHING,Bryan,Driskell,TD,0
+2601108,12/29/2015,FBS,Air Force,California,RUSHING,Bryan,Driskell,LONG,23
+2601109,12/29/2015,FBS,Air Force,California,RUSHING,Tyler,Williams,ATT,2
+2601110,12/29/2015,FBS,Air Force,California,RUSHING,Tyler,Williams,YDS,19
+2601111,12/29/2015,FBS,Air Force,California,RUSHING,Tyler,Williams,TD,1
+2601112,12/29/2015,FBS,Air Force,California,RUSHING,Tyler,Williams,LONG,16
+2601113,12/29/2015,FBS,Air Force,California,PASSING,Karson,Roberts,CP-ATT-INT,7-14-1
+2601114,12/29/2015,FBS,Air Force,California,PASSING,Karson,Roberts,YDS,149
+2601115,12/29/2015,FBS,Air Force,California,PASSING,Karson,Roberts,TD,2
+2601116,12/29/2015,FBS,Air Force,California,PASSING,Karson,Roberts,LONG,57
+2601117,12/29/2015,FBS,Air Force,California,PASSING,Jalen,Robinette,CP-ATT-INT,0-1-0
+2601118,12/29/2015,FBS,Air Force,California,PASSING,Jalen,Robinette,YDS,0
+2601119,12/29/2015,FBS,Air Force,California,PASSING,Jalen,Robinette,TD,0
+2601120,12/29/2015,FBS,Air Force,California,PASSING,Jalen,Robinette,LONG,0
+2601121,12/29/2015,FBS,Air Force,California,RECEIVING,Jalen,Robinette,REC,5
+2601122,12/29/2015,FBS,Air Force,California,RECEIVING,Jalen,Robinette,YDS,69
+2601123,12/29/2015,FBS,Air Force,California,RECEIVING,Jalen,Robinette,TD,1
+2601124,12/29/2015,FBS,Air Force,California,RECEIVING,Jalen,Robinette,LONG,15
+2601125,12/29/2015,FBS,Air Force,California,RECEIVING,Timothy,McVey,REC,1
+2601126,12/29/2015,FBS,Air Force,California,RECEIVING,Timothy,McVey,YDS,57
+2601127,12/29/2015,FBS,Air Force,California,RECEIVING,Timothy,McVey,TD,1
+2601128,12/29/2015,FBS,Air Force,California,RECEIVING,Timothy,McVey,LONG,57
+2601129,12/29/2015,FBS,Air Force,California,RECEIVING,Garrett,Brown,REC,1
+2601130,12/29/2015,FBS,Air Force,California,RECEIVING,Garrett,Brown,YDS,23
+2601131,12/29/2015,FBS,Air Force,California,RECEIVING,Garrett,Brown,TD,0
+2601132,12/29/2015,FBS,Air Force,California,RECEIVING,Garrett,Brown,LONG,23
+2601133,12/29/2015,FBS,Air Force,California,KICKING,Luke,Strebel,FG-FGA,0/0
+2601134,12/29/2015,FBS,Air Force,California,KICKING,Luke,Strebel,LONG,-
+2601135,12/29/2015,FBS,Air Force,California,KICKING,Luke,Strebel,XP,4
+2601136,12/29/2015,FBS,Air Force,California,KICKING,Luke,Strebel,PTS,4
+2601137,12/29/2015,FBS,Air Force,California,PUNTING,Luke,Strebel,NO,4
+2601138,12/29/2015,FBS,Air Force,California,PUNTING,Luke,Strebel,YDS,144
+2601139,12/29/2015,FBS,Air Force,California,PUNTING,Luke,Strebel,AVG,36.0
+2601140,12/29/2015,FBS,Air Force,California,PUNTING,Luke,Strebel,LONG,38
+2601141,12/29/2015,FBS,Air Force,California,PUNT RETURNS,Garrett,Brown,NO,0
+2601142,12/29/2015,FBS,Air Force,California,PUNT RETURNS,Garrett,Brown,YDS,0
+2601143,12/29/2015,FBS,Air Force,California,PUNT RETURNS,Garrett,Brown,AVG,-
+2601144,12/29/2015,FBS,Air Force,California,PUNT RETURNS,Garrett,Brown,LONG,0
+2601145,12/29/2015,FBS,Air Force,California,KICK RETURNS,Bryan,Driskell,NO,4
+2601146,12/29/2015,FBS,Air Force,California,KICK RETURNS,Bryan,Driskell,YDS,104
+2601147,12/29/2015,FBS,Air Force,California,KICK RETURNS,Bryan,Driskell,AVG,26.0
+2601148,12/29/2015,FBS,Air Force,California,KICK RETURNS,Bryan,Driskell,LONG,35
+2601149,12/29/2015,FBS,Air Force,California,KICK RETURNS,Tyler,Williams,NO,3
+2601150,12/29/2015,FBS,Air Force,California,KICK RETURNS,Tyler,Williams,YDS,64
+2601151,12/29/2015,FBS,Air Force,California,KICK RETURNS,Tyler,Williams,AVG,21.3
+2601152,12/29/2015,FBS,Air Force,California,KICK RETURNS,Tyler,Williams,LONG,25
+2601153,12/29/2015,FBS,Air Force,California,KICK RETURNS,Timothy,McVey,NO,2
+2601154,12/29/2015,FBS,Air Force,California,KICK RETURNS,Timothy,McVey,YDS,57
+2601155,12/29/2015,FBS,Air Force,California,KICK RETURNS,Timothy,McVey,AVG,28.5
+2601156,12/29/2015,FBS,Air Force,California,KICK RETURNS,Timothy,McVey,LONG,40
+2601157,12/29/2015,FBS,Air Force,California,KICK RETURNS,Aub,Duty-Tyson,NO,1
+2601158,12/29/2015,FBS,Air Force,California,KICK RETURNS,Aub,Duty-Tyson,YDS,0
+2601159,12/29/2015,FBS,Air Force,California,KICK RETURNS,Aub,Duty-Tyson,AVG,-
+2601160,12/29/2015,FBS,Air Force,California,KICK RETURNS,Aub,Duty-Tyson,LONG,0

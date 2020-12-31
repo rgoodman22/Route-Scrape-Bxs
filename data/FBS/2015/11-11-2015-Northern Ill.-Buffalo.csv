@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2385001,11/11/2015,FBS,Northern Ill.,Buffalo,RUSHING,Joel,Bouagnon,ATT,28
+2385002,11/11/2015,FBS,Northern Ill.,Buffalo,RUSHING,Joel,Bouagnon,YDS,156
+2385003,11/11/2015,FBS,Northern Ill.,Buffalo,RUSHING,Joel,Bouagnon,TD,2
+2385004,11/11/2015,FBS,Northern Ill.,Buffalo,RUSHING,Joel,Bouagnon,LONG,58
+2385005,11/11/2015,FBS,Northern Ill.,Buffalo,RUSHING,Ryan,Graham,ATT,18
+2385006,11/11/2015,FBS,Northern Ill.,Buffalo,RUSHING,Ryan,Graham,YDS,78
+2385007,11/11/2015,FBS,Northern Ill.,Buffalo,RUSHING,Ryan,Graham,TD,0
+2385008,11/11/2015,FBS,Northern Ill.,Buffalo,RUSHING,Ryan,Graham,LONG,12
+2385009,11/11/2015,FBS,Northern Ill.,Buffalo,RUSHING,Jordan,Huff,ATT,12
+2385010,11/11/2015,FBS,Northern Ill.,Buffalo,RUSHING,Jordan,Huff,YDS,50
+2385011,11/11/2015,FBS,Northern Ill.,Buffalo,RUSHING,Jordan,Huff,TD,1
+2385012,11/11/2015,FBS,Northern Ill.,Buffalo,RUSHING,Jordan,Huff,LONG,11
+2385013,11/11/2015,FBS,Northern Ill.,Buffalo,RUSHING,Aregeros,Turner,ATT,4
+2385014,11/11/2015,FBS,Northern Ill.,Buffalo,RUSHING,Aregeros,Turner,YDS,36
+2385015,11/11/2015,FBS,Northern Ill.,Buffalo,RUSHING,Aregeros,Turner,TD,0
+2385016,11/11/2015,FBS,Northern Ill.,Buffalo,RUSHING,Aregeros,Turner,LONG,11
+2385017,11/11/2015,FBS,Northern Ill.,Buffalo,RUSHING,Chad,Beebe,ATT,1
+2385018,11/11/2015,FBS,Northern Ill.,Buffalo,RUSHING,Chad,Beebe,YDS,13
+2385019,11/11/2015,FBS,Northern Ill.,Buffalo,RUSHING,Chad,Beebe,TD,0
+2385020,11/11/2015,FBS,Northern Ill.,Buffalo,RUSHING,Chad,Beebe,LONG,13
+2385021,11/11/2015,FBS,Northern Ill.,Buffalo,RUSHING,Kenny,Golladay,ATT,1
+2385022,11/11/2015,FBS,Northern Ill.,Buffalo,RUSHING,Kenny,Golladay,YDS,4
+2385023,11/11/2015,FBS,Northern Ill.,Buffalo,RUSHING,Kenny,Golladay,TD,0
+2385024,11/11/2015,FBS,Northern Ill.,Buffalo,RUSHING,Kenny,Golladay,LONG,4
+2385025,11/11/2015,FBS,Northern Ill.,Buffalo,RUSHING,,Team,ATT,3
+2385026,11/11/2015,FBS,Northern Ill.,Buffalo,RUSHING,,Team,YDS,-3
+2385027,11/11/2015,FBS,Northern Ill.,Buffalo,RUSHING,,Team,TD,0
+2385028,11/11/2015,FBS,Northern Ill.,Buffalo,RUSHING,,Team,LONG,-1
+2385029,11/11/2015,FBS,Northern Ill.,Buffalo,PASSING,Ryan,Graham,CP-ATT-INT,15-24-1
+2385030,11/11/2015,FBS,Northern Ill.,Buffalo,PASSING,Ryan,Graham,YDS,190
+2385031,11/11/2015,FBS,Northern Ill.,Buffalo,PASSING,Ryan,Graham,TD,2
+2385032,11/11/2015,FBS,Northern Ill.,Buffalo,PASSING,Ryan,Graham,LONG,68
+2385033,11/11/2015,FBS,Northern Ill.,Buffalo,RECEIVING,Kenny,Golladay,REC,6
+2385034,11/11/2015,FBS,Northern Ill.,Buffalo,RECEIVING,Kenny,Golladay,YDS,141
+2385035,11/11/2015,FBS,Northern Ill.,Buffalo,RECEIVING,Kenny,Golladay,TD,2
+2385036,11/11/2015,FBS,Northern Ill.,Buffalo,RECEIVING,Kenny,Golladay,LONG,68
+2385037,11/11/2015,FBS,Northern Ill.,Buffalo,RECEIVING,Aregeros,Turner,REC,9
+2385038,11/11/2015,FBS,Northern Ill.,Buffalo,RECEIVING,Aregeros,Turner,YDS,49
+2385039,11/11/2015,FBS,Northern Ill.,Buffalo,RECEIVING,Aregeros,Turner,TD,0
+2385040,11/11/2015,FBS,Northern Ill.,Buffalo,RECEIVING,Aregeros,Turner,LONG,10
+2385041,11/11/2015,FBS,Northern Ill.,Buffalo,KICKING,Christian,Hagan,FG-FGA,2/2
+2385042,11/11/2015,FBS,Northern Ill.,Buffalo,KICKING,Christian,Hagan,LONG,47
+2385043,11/11/2015,FBS,Northern Ill.,Buffalo,KICKING,Christian,Hagan,XP,5
+2385044,11/11/2015,FBS,Northern Ill.,Buffalo,KICKING,Christian,Hagan,PTS,11
+2385045,11/11/2015,FBS,Northern Ill.,Buffalo,PUNTING,Jacob,Ambrose,NO,5
+2385046,11/11/2015,FBS,Northern Ill.,Buffalo,PUNTING,Jacob,Ambrose,YDS,138
+2385047,11/11/2015,FBS,Northern Ill.,Buffalo,PUNTING,Jacob,Ambrose,AVG,27.6
+2385048,11/11/2015,FBS,Northern Ill.,Buffalo,PUNTING,Jacob,Ambrose,LONG,44
+2385049,11/11/2015,FBS,Northern Ill.,Buffalo,PUNT RETURNS,Chad,Beebe,NO,2
+2385050,11/11/2015,FBS,Northern Ill.,Buffalo,PUNT RETURNS,Chad,Beebe,YDS,11
+2385051,11/11/2015,FBS,Northern Ill.,Buffalo,PUNT RETURNS,Chad,Beebe,AVG,5.5
+2385052,11/11/2015,FBS,Northern Ill.,Buffalo,PUNT RETURNS,Chad,Beebe,LONG,6
+2385053,11/11/2015,FBS,Northern Ill.,Buffalo,KICK RETURNS,Aregeros,Turner,NO,5
+2385054,11/11/2015,FBS,Northern Ill.,Buffalo,KICK RETURNS,Aregeros,Turner,YDS,152
+2385055,11/11/2015,FBS,Northern Ill.,Buffalo,KICK RETURNS,Aregeros,Turner,AVG,30.4
+2385056,11/11/2015,FBS,Northern Ill.,Buffalo,KICK RETURNS,Aregeros,Turner,LONG,58
+2385057,11/11/2015,FBS,Northern Ill.,Buffalo,KICK RETURNS,D.J.,Brown,NO,1
+2385058,11/11/2015,FBS,Northern Ill.,Buffalo,KICK RETURNS,D.J.,Brown,YDS,19
+2385059,11/11/2015,FBS,Northern Ill.,Buffalo,KICK RETURNS,D.J.,Brown,AVG,19.0
+2385060,11/11/2015,FBS,Northern Ill.,Buffalo,KICK RETURNS,D.J.,Brown,LONG,19
+2385061,11/11/2015,FBS,Buffalo,Northern Ill.,RUSHING,Jordan,Johnson,ATT,6
+2385062,11/11/2015,FBS,Buffalo,Northern Ill.,RUSHING,Jordan,Johnson,YDS,66
+2385063,11/11/2015,FBS,Buffalo,Northern Ill.,RUSHING,Jordan,Johnson,TD,1
+2385064,11/11/2015,FBS,Buffalo,Northern Ill.,RUSHING,Jordan,Johnson,LONG,47
+2385065,11/11/2015,FBS,Buffalo,Northern Ill.,RUSHING,Anthone,Taylor,ATT,12
+2385066,11/11/2015,FBS,Buffalo,Northern Ill.,RUSHING,Anthone,Taylor,YDS,33
+2385067,11/11/2015,FBS,Buffalo,Northern Ill.,RUSHING,Anthone,Taylor,TD,0
+2385068,11/11/2015,FBS,Buffalo,Northern Ill.,RUSHING,Anthone,Taylor,LONG,11
+2385069,11/11/2015,FBS,Buffalo,Northern Ill.,RUSHING,,Team,ATT,1
+2385070,11/11/2015,FBS,Buffalo,Northern Ill.,RUSHING,,Team,YDS,-1
+2385071,11/11/2015,FBS,Buffalo,Northern Ill.,RUSHING,,Team,TD,0
+2385072,11/11/2015,FBS,Buffalo,Northern Ill.,RUSHING,,Team,LONG,-1
+2385073,11/11/2015,FBS,Buffalo,Northern Ill.,RUSHING,Jacob,Martinez,ATT,1
+2385074,11/11/2015,FBS,Buffalo,Northern Ill.,RUSHING,Jacob,Martinez,YDS,-2
+2385075,11/11/2015,FBS,Buffalo,Northern Ill.,RUSHING,Jacob,Martinez,TD,0
+2385076,11/11/2015,FBS,Buffalo,Northern Ill.,RUSHING,Jacob,Martinez,LONG,-2
+2385077,11/11/2015,FBS,Buffalo,Northern Ill.,RUSHING,Joe,Licata,ATT,3
+2385078,11/11/2015,FBS,Buffalo,Northern Ill.,RUSHING,Joe,Licata,YDS,-18
+2385079,11/11/2015,FBS,Buffalo,Northern Ill.,RUSHING,Joe,Licata,TD,0
+2385080,11/11/2015,FBS,Buffalo,Northern Ill.,RUSHING,Joe,Licata,LONG,1
+2385081,11/11/2015,FBS,Buffalo,Northern Ill.,PASSING,Joe,Licata,CP-ATT-INT,31-47-3
+2385082,11/11/2015,FBS,Buffalo,Northern Ill.,PASSING,Joe,Licata,YDS,354
+2385083,11/11/2015,FBS,Buffalo,Northern Ill.,PASSING,Joe,Licata,TD,2
+2385084,11/11/2015,FBS,Buffalo,Northern Ill.,PASSING,Joe,Licata,LONG,40
+2385085,11/11/2015,FBS,Buffalo,Northern Ill.,RECEIVING,Ron,Willoughby,REC,6
+2385086,11/11/2015,FBS,Buffalo,Northern Ill.,RECEIVING,Ron,Willoughby,YDS,101
+2385087,11/11/2015,FBS,Buffalo,Northern Ill.,RECEIVING,Ron,Willoughby,TD,0
+2385088,11/11/2015,FBS,Buffalo,Northern Ill.,RECEIVING,Ron,Willoughby,LONG,40
+2385089,11/11/2015,FBS,Buffalo,Northern Ill.,RECEIVING,Marcus,McGill,REC,7
+2385090,11/11/2015,FBS,Buffalo,Northern Ill.,RECEIVING,Marcus,McGill,YDS,79
+2385091,11/11/2015,FBS,Buffalo,Northern Ill.,RECEIVING,Marcus,McGill,TD,1
+2385092,11/11/2015,FBS,Buffalo,Northern Ill.,RECEIVING,Marcus,McGill,LONG,21
+2385093,11/11/2015,FBS,Buffalo,Northern Ill.,RECEIVING,Collin,Lisa,REC,5
+2385094,11/11/2015,FBS,Buffalo,Northern Ill.,RECEIVING,Collin,Lisa,YDS,73
+2385095,11/11/2015,FBS,Buffalo,Northern Ill.,RECEIVING,Collin,Lisa,TD,1
+2385096,11/11/2015,FBS,Buffalo,Northern Ill.,RECEIVING,Collin,Lisa,LONG,35
+2385097,11/11/2015,FBS,Buffalo,Northern Ill.,RECEIVING,Matt,Weiser,REC,8
+2385098,11/11/2015,FBS,Buffalo,Northern Ill.,RECEIVING,Matt,Weiser,YDS,59
+2385099,11/11/2015,FBS,Buffalo,Northern Ill.,RECEIVING,Matt,Weiser,TD,0
+2385100,11/11/2015,FBS,Buffalo,Northern Ill.,RECEIVING,Matt,Weiser,LONG,13
+2385101,11/11/2015,FBS,Buffalo,Northern Ill.,RECEIVING,Anthone,Taylor,REC,2
+2385102,11/11/2015,FBS,Buffalo,Northern Ill.,RECEIVING,Anthone,Taylor,YDS,21
+2385103,11/11/2015,FBS,Buffalo,Northern Ill.,RECEIVING,Anthone,Taylor,TD,0
+2385104,11/11/2015,FBS,Buffalo,Northern Ill.,RECEIVING,Anthone,Taylor,LONG,15
+2385105,11/11/2015,FBS,Buffalo,Northern Ill.,RECEIVING,Brandon,Smiley,REC,1
+2385106,11/11/2015,FBS,Buffalo,Northern Ill.,RECEIVING,Brandon,Smiley,YDS,14
+2385107,11/11/2015,FBS,Buffalo,Northern Ill.,RECEIVING,Brandon,Smiley,TD,0
+2385108,11/11/2015,FBS,Buffalo,Northern Ill.,RECEIVING,Brandon,Smiley,LONG,14
+2385109,11/11/2015,FBS,Buffalo,Northern Ill.,RECEIVING,Mason,Schreck,REC,2
+2385110,11/11/2015,FBS,Buffalo,Northern Ill.,RECEIVING,Mason,Schreck,YDS,7
+2385111,11/11/2015,FBS,Buffalo,Northern Ill.,RECEIVING,Mason,Schreck,TD,0
+2385112,11/11/2015,FBS,Buffalo,Northern Ill.,RECEIVING,Mason,Schreck,LONG,4
+2385113,11/11/2015,FBS,Buffalo,Northern Ill.,KICKING,Adam,Mitcheson,FG-FGA,1/3
+2385114,11/11/2015,FBS,Buffalo,Northern Ill.,KICKING,Adam,Mitcheson,LONG,26
+2385115,11/11/2015,FBS,Buffalo,Northern Ill.,KICKING,Adam,Mitcheson,XP,3
+2385116,11/11/2015,FBS,Buffalo,Northern Ill.,KICKING,Adam,Mitcheson,PTS,6
+2385117,11/11/2015,FBS,Buffalo,Northern Ill.,PUNTING,Tyler,Grassman,NO,3
+2385118,11/11/2015,FBS,Buffalo,Northern Ill.,PUNTING,Tyler,Grassman,YDS,107
+2385119,11/11/2015,FBS,Buffalo,Northern Ill.,PUNTING,Tyler,Grassman,AVG,35.7
+2385120,11/11/2015,FBS,Buffalo,Northern Ill.,PUNTING,Tyler,Grassman,LONG,40
+2385121,11/11/2015,FBS,Buffalo,Northern Ill.,PUNT RETURNS,Collin,Lisa,NO,0
+2385122,11/11/2015,FBS,Buffalo,Northern Ill.,PUNT RETURNS,Collin,Lisa,YDS,0
+2385123,11/11/2015,FBS,Buffalo,Northern Ill.,PUNT RETURNS,Collin,Lisa,AVG,-
+2385124,11/11/2015,FBS,Buffalo,Northern Ill.,PUNT RETURNS,Collin,Lisa,LONG,0
+2385125,11/11/2015,FBS,Buffalo,Northern Ill.,KICK RETURNS,Jordan,Johnson,NO,3
+2385126,11/11/2015,FBS,Buffalo,Northern Ill.,KICK RETURNS,Jordan,Johnson,YDS,58
+2385127,11/11/2015,FBS,Buffalo,Northern Ill.,KICK RETURNS,Jordan,Johnson,AVG,19.3
+2385128,11/11/2015,FBS,Buffalo,Northern Ill.,KICK RETURNS,Jordan,Johnson,LONG,28
+2385129,11/11/2015,FBS,Buffalo,Northern Ill.,KICK RETURNS,Devin,Campbell,NO,2
+2385130,11/11/2015,FBS,Buffalo,Northern Ill.,KICK RETURNS,Devin,Campbell,YDS,30
+2385131,11/11/2015,FBS,Buffalo,Northern Ill.,KICK RETURNS,Devin,Campbell,AVG,15.0
+2385132,11/11/2015,FBS,Buffalo,Northern Ill.,KICK RETURNS,Devin,Campbell,LONG,18
+2385133,11/11/2015,FBS,Buffalo,Northern Ill.,KICK RETURNS,Anthone,Taylor,NO,1
+2385134,11/11/2015,FBS,Buffalo,Northern Ill.,KICK RETURNS,Anthone,Taylor,YDS,13
+2385135,11/11/2015,FBS,Buffalo,Northern Ill.,KICK RETURNS,Anthone,Taylor,AVG,13.0
+2385136,11/11/2015,FBS,Buffalo,Northern Ill.,KICK RETURNS,Anthone,Taylor,LONG,13

@@ -1,0 +1,141 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+4045001,10/28/2017,FBS,Georgia,Florida,RUSHING,Sony,Michel,ATT,6
+4045002,10/28/2017,FBS,Georgia,Florida,RUSHING,Sony,Michel,YDS,137
+4045003,10/28/2017,FBS,Georgia,Florida,RUSHING,Sony,Michel,TD,2
+4045004,10/28/2017,FBS,Georgia,Florida,RUSHING,Sony,Michel,LONG,74
+4045005,10/28/2017,FBS,Georgia,Florida,RUSHING,Nick,Chubb,ATT,13
+4045006,10/28/2017,FBS,Georgia,Florida,RUSHING,Nick,Chubb,YDS,77
+4045007,10/28/2017,FBS,Georgia,Florida,RUSHING,Nick,Chubb,TD,1
+4045008,10/28/2017,FBS,Georgia,Florida,RUSHING,Nick,Chubb,LONG,22
+4045009,10/28/2017,FBS,Georgia,Florida,RUSHING,Elijah,Holyfield,ATT,4
+4045010,10/28/2017,FBS,Georgia,Florida,RUSHING,Elijah,Holyfield,YDS,49
+4045011,10/28/2017,FBS,Georgia,Florida,RUSHING,Elijah,Holyfield,TD,1
+4045012,10/28/2017,FBS,Georgia,Florida,RUSHING,Elijah,Holyfield,LONG,39
+4045013,10/28/2017,FBS,Georgia,Florida,RUSHING,Jake,Fromm,ATT,1
+4045014,10/28/2017,FBS,Georgia,Florida,RUSHING,Jake,Fromm,YDS,13
+4045015,10/28/2017,FBS,Georgia,Florida,RUSHING,Jake,Fromm,TD,0
+4045016,10/28/2017,FBS,Georgia,Florida,RUSHING,Jake,Fromm,LONG,13
+4045017,10/28/2017,FBS,Georgia,Florida,RUSHING,Brian,Herrien,ATT,6
+4045018,10/28/2017,FBS,Georgia,Florida,RUSHING,Brian,Herrien,YDS,10
+4045019,10/28/2017,FBS,Georgia,Florida,RUSHING,Brian,Herrien,TD,0
+4045020,10/28/2017,FBS,Georgia,Florida,RUSHING,Brian,Herrien,LONG,4
+4045021,10/28/2017,FBS,Georgia,Florida,RUSHING,D'Andre,Swift,ATT,4
+4045022,10/28/2017,FBS,Georgia,Florida,RUSHING,D'Andre,Swift,YDS,8
+4045023,10/28/2017,FBS,Georgia,Florida,RUSHING,D'Andre,Swift,TD,0
+4045024,10/28/2017,FBS,Georgia,Florida,RUSHING,D'Andre,Swift,LONG,7
+4045025,10/28/2017,FBS,Georgia,Florida,RUSHING,,Team,ATT,1
+4045026,10/28/2017,FBS,Georgia,Florida,RUSHING,,Team,YDS,-2
+4045027,10/28/2017,FBS,Georgia,Florida,RUSHING,,Team,TD,0
+4045028,10/28/2017,FBS,Georgia,Florida,RUSHING,,Team,LONG,-2
+4045029,10/28/2017,FBS,Georgia,Florida,PASSING,Jake,Fromm,CP-ATT-INT,4-7-1
+4045030,10/28/2017,FBS,Georgia,Florida,PASSING,Jake,Fromm,YDS,101
+4045031,10/28/2017,FBS,Georgia,Florida,PASSING,Jake,Fromm,TD,1
+4045032,10/28/2017,FBS,Georgia,Florida,PASSING,Jake,Fromm,LONG,39
+4045033,10/28/2017,FBS,Georgia,Florida,RECEIVING,D'Andre,Swift,REC,3
+4045034,10/28/2017,FBS,Georgia,Florida,RECEIVING,D'Andre,Swift,YDS,84
+4045035,10/28/2017,FBS,Georgia,Florida,RECEIVING,D'Andre,Swift,TD,0
+4045036,10/28/2017,FBS,Georgia,Florida,RECEIVING,D'Andre,Swift,LONG,39
+4045037,10/28/2017,FBS,Georgia,Florida,RECEIVING,Javon,Wims,REC,1
+4045038,10/28/2017,FBS,Georgia,Florida,RECEIVING,Javon,Wims,YDS,17
+4045039,10/28/2017,FBS,Georgia,Florida,RECEIVING,Javon,Wims,TD,1
+4045040,10/28/2017,FBS,Georgia,Florida,RECEIVING,Javon,Wims,LONG,17
+4045041,10/28/2017,FBS,Georgia,Florida,KICKING,Rodrigo,Blankenship,FG-FGA,0/0
+4045042,10/28/2017,FBS,Georgia,Florida,KICKING,Rodrigo,Blankenship,LONG,-
+4045043,10/28/2017,FBS,Georgia,Florida,KICKING,Rodrigo,Blankenship,XP,6
+4045044,10/28/2017,FBS,Georgia,Florida,KICKING,Rodrigo,Blankenship,PTS,6
+4045045,10/28/2017,FBS,Georgia,Florida,PUNTING,Cameron,Nizialek,NO,4
+4045046,10/28/2017,FBS,Georgia,Florida,PUNTING,Cameron,Nizialek,YDS,186
+4045047,10/28/2017,FBS,Georgia,Florida,PUNTING,Cameron,Nizialek,AVG,46.5
+4045048,10/28/2017,FBS,Georgia,Florida,PUNTING,Cameron,Nizialek,LONG,55
+4045049,10/28/2017,FBS,Georgia,Florida,PUNT RETURNS,Mecole,Hardman,NO,2
+4045050,10/28/2017,FBS,Georgia,Florida,PUNT RETURNS,Mecole,Hardman,YDS,18
+4045051,10/28/2017,FBS,Georgia,Florida,PUNT RETURNS,Mecole,Hardman,AVG,9.0
+4045052,10/28/2017,FBS,Georgia,Florida,PUNT RETURNS,Mecole,Hardman,LONG,15
+4045053,10/28/2017,FBS,Georgia,Florida,PUNT RETURNS,Ahkil,Crumpton,NO,1
+4045054,10/28/2017,FBS,Georgia,Florida,PUNT RETURNS,Ahkil,Crumpton,YDS,6
+4045055,10/28/2017,FBS,Georgia,Florida,PUNT RETURNS,Ahkil,Crumpton,AVG,6.0
+4045056,10/28/2017,FBS,Georgia,Florida,PUNT RETURNS,Ahkil,Crumpton,LONG,6
+4045057,10/28/2017,FBS,Florida,Georgia,RUSHING,Lamical,Perine,ATT,16
+4045058,10/28/2017,FBS,Florida,Georgia,RUSHING,Lamical,Perine,YDS,93
+4045059,10/28/2017,FBS,Florida,Georgia,RUSHING,Lamical,Perine,TD,0
+4045060,10/28/2017,FBS,Florida,Georgia,RUSHING,Lamical,Perine,LONG,29
+4045061,10/28/2017,FBS,Florida,Georgia,RUSHING,Mark,Thompson,ATT,6
+4045062,10/28/2017,FBS,Florida,Georgia,RUSHING,Mark,Thompson,YDS,38
+4045063,10/28/2017,FBS,Florida,Georgia,RUSHING,Mark,Thompson,TD,1
+4045064,10/28/2017,FBS,Florida,Georgia,RUSHING,Mark,Thompson,LONG,25
+4045065,10/28/2017,FBS,Florida,Georgia,RUSHING,Malik,Zaire,ATT,2
+4045066,10/28/2017,FBS,Florida,Georgia,RUSHING,Malik,Zaire,YDS,30
+4045067,10/28/2017,FBS,Florida,Georgia,RUSHING,Malik,Zaire,TD,0
+4045068,10/28/2017,FBS,Florida,Georgia,RUSHING,Malik,Zaire,LONG,27
+4045069,10/28/2017,FBS,Florida,Georgia,RUSHING,Malik,Davis,ATT,4
+4045070,10/28/2017,FBS,Florida,Georgia,RUSHING,Malik,Davis,YDS,20
+4045071,10/28/2017,FBS,Florida,Georgia,RUSHING,Malik,Davis,TD,0
+4045072,10/28/2017,FBS,Florida,Georgia,RUSHING,Malik,Davis,LONG,8
+4045073,10/28/2017,FBS,Florida,Georgia,RUSHING,Adarius,Lemons,ATT,3
+4045074,10/28/2017,FBS,Florida,Georgia,RUSHING,Adarius,Lemons,YDS,18
+4045075,10/28/2017,FBS,Florida,Georgia,RUSHING,Adarius,Lemons,TD,0
+4045076,10/28/2017,FBS,Florida,Georgia,RUSHING,Adarius,Lemons,LONG,11
+4045077,10/28/2017,FBS,Florida,Georgia,RUSHING,Kadarius,Toney,ATT,1
+4045078,10/28/2017,FBS,Florida,Georgia,RUSHING,Kadarius,Toney,YDS,-1
+4045079,10/28/2017,FBS,Florida,Georgia,RUSHING,Kadarius,Toney,TD,0
+4045080,10/28/2017,FBS,Florida,Georgia,RUSHING,Kadarius,Toney,LONG,-1
+4045081,10/28/2017,FBS,Florida,Georgia,RUSHING,Feleipe,Franks,ATT,9
+4045082,10/28/2017,FBS,Florida,Georgia,RUSHING,Feleipe,Franks,YDS,-15
+4045083,10/28/2017,FBS,Florida,Georgia,RUSHING,Feleipe,Franks,TD,0
+4045084,10/28/2017,FBS,Florida,Georgia,RUSHING,Feleipe,Franks,LONG,15
+4045085,10/28/2017,FBS,Florida,Georgia,PASSING,Malik,Zaire,CP-ATT-INT,3-6-0
+4045086,10/28/2017,FBS,Florida,Georgia,PASSING,Malik,Zaire,YDS,36
+4045087,10/28/2017,FBS,Florida,Georgia,PASSING,Malik,Zaire,TD,0
+4045088,10/28/2017,FBS,Florida,Georgia,PASSING,Malik,Zaire,LONG,17
+4045089,10/28/2017,FBS,Florida,Georgia,PASSING,Feleipe,Franks,CP-ATT-INT,7-19-1
+4045090,10/28/2017,FBS,Florida,Georgia,PASSING,Feleipe,Franks,YDS,30
+4045091,10/28/2017,FBS,Florida,Georgia,PASSING,Feleipe,Franks,TD,0
+4045092,10/28/2017,FBS,Florida,Georgia,PASSING,Feleipe,Franks,LONG,8
+4045093,10/28/2017,FBS,Florida,Georgia,RECEIVING,Mark,Thompson,REC,2
+4045094,10/28/2017,FBS,Florida,Georgia,RECEIVING,Mark,Thompson,YDS,17
+4045095,10/28/2017,FBS,Florida,Georgia,RECEIVING,Mark,Thompson,TD,0
+4045096,10/28/2017,FBS,Florida,Georgia,RECEIVING,Mark,Thompson,LONG,11
+4045097,10/28/2017,FBS,Florida,Georgia,RECEIVING,Freddie,Swain,REC,1
+4045098,10/28/2017,FBS,Florida,Georgia,RECEIVING,Freddie,Swain,YDS,17
+4045099,10/28/2017,FBS,Florida,Georgia,RECEIVING,Freddie,Swain,TD,0
+4045100,10/28/2017,FBS,Florida,Georgia,RECEIVING,Freddie,Swain,LONG,17
+4045101,10/28/2017,FBS,Florida,Georgia,RECEIVING,Dre,Massey,REC,2
+4045102,10/28/2017,FBS,Florida,Georgia,RECEIVING,Dre,Massey,YDS,15
+4045103,10/28/2017,FBS,Florida,Georgia,RECEIVING,Dre,Massey,TD,0
+4045104,10/28/2017,FBS,Florida,Georgia,RECEIVING,Dre,Massey,LONG,8
+4045105,10/28/2017,FBS,Florida,Georgia,RECEIVING,Kadarius,Toney,REC,1
+4045106,10/28/2017,FBS,Florida,Georgia,RECEIVING,Kadarius,Toney,YDS,8
+4045107,10/28/2017,FBS,Florida,Georgia,RECEIVING,Kadarius,Toney,TD,0
+4045108,10/28/2017,FBS,Florida,Georgia,RECEIVING,Kadarius,Toney,LONG,8
+4045109,10/28/2017,FBS,Florida,Georgia,RECEIVING,Malik,Davis,REC,1
+4045110,10/28/2017,FBS,Florida,Georgia,RECEIVING,Malik,Davis,YDS,6
+4045111,10/28/2017,FBS,Florida,Georgia,RECEIVING,Malik,Davis,TD,0
+4045112,10/28/2017,FBS,Florida,Georgia,RECEIVING,Malik,Davis,LONG,6
+4045113,10/28/2017,FBS,Florida,Georgia,RECEIVING,Tyrie,Cleveland,REC,1
+4045114,10/28/2017,FBS,Florida,Georgia,RECEIVING,Tyrie,Cleveland,YDS,5
+4045115,10/28/2017,FBS,Florida,Georgia,RECEIVING,Tyrie,Cleveland,TD,0
+4045116,10/28/2017,FBS,Florida,Georgia,RECEIVING,Tyrie,Cleveland,LONG,5
+4045117,10/28/2017,FBS,Florida,Georgia,RECEIVING,Brandon,Powell,REC,1
+4045118,10/28/2017,FBS,Florida,Georgia,RECEIVING,Brandon,Powell,YDS,-1
+4045119,10/28/2017,FBS,Florida,Georgia,RECEIVING,Brandon,Powell,TD,0
+4045120,10/28/2017,FBS,Florida,Georgia,RECEIVING,Brandon,Powell,LONG,0
+4045121,10/28/2017,FBS,Florida,Georgia,RECEIVING,DeAndre,Goolsby,REC,1
+4045122,10/28/2017,FBS,Florida,Georgia,RECEIVING,DeAndre,Goolsby,YDS,-1
+4045123,10/28/2017,FBS,Florida,Georgia,RECEIVING,DeAndre,Goolsby,TD,0
+4045124,10/28/2017,FBS,Florida,Georgia,RECEIVING,DeAndre,Goolsby,LONG,0
+4045125,10/28/2017,FBS,Florida,Georgia,KICKING,Eddy,Pineiro,FG-FGA,0/0
+4045126,10/28/2017,FBS,Florida,Georgia,KICKING,Eddy,Pineiro,LONG,-
+4045127,10/28/2017,FBS,Florida,Georgia,KICKING,Eddy,Pineiro,XP,1
+4045128,10/28/2017,FBS,Florida,Georgia,KICKING,Eddy,Pineiro,PTS,1
+4045129,10/28/2017,FBS,Florida,Georgia,PUNTING,Johnny,Townsend,NO,7
+4045130,10/28/2017,FBS,Florida,Georgia,PUNTING,Johnny,Townsend,YDS,381
+4045131,10/28/2017,FBS,Florida,Georgia,PUNTING,Johnny,Townsend,AVG,54.4
+4045132,10/28/2017,FBS,Florida,Georgia,PUNTING,Johnny,Townsend,LONG,70
+4045133,10/28/2017,FBS,Florida,Georgia,PUNT RETURNS,Brandon,Powell,NO,1
+4045134,10/28/2017,FBS,Florida,Georgia,PUNT RETURNS,Brandon,Powell,YDS,0
+4045135,10/28/2017,FBS,Florida,Georgia,PUNT RETURNS,Brandon,Powell,AVG,-
+4045136,10/28/2017,FBS,Florida,Georgia,PUNT RETURNS,Brandon,Powell,LONG,0
+4045137,10/28/2017,FBS,Florida,Georgia,KICK RETURNS,Adarius,Lemons,NO,3
+4045138,10/28/2017,FBS,Florida,Georgia,KICK RETURNS,Adarius,Lemons,YDS,68
+4045139,10/28/2017,FBS,Florida,Georgia,KICK RETURNS,Adarius,Lemons,AVG,22.7
+4045140,10/28/2017,FBS,Florida,Georgia,KICK RETURNS,Adarius,Lemons,LONG,25

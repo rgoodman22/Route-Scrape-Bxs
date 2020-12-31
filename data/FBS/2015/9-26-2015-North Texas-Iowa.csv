@@ -1,0 +1,181 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1995001,9/26/2015,FBS,North Texas,Iowa,RUSHING,Jeffrey,Wilson,ATT,14
+1995002,9/26/2015,FBS,North Texas,Iowa,RUSHING,Jeffrey,Wilson,YDS,74
+1995003,9/26/2015,FBS,North Texas,Iowa,RUSHING,Jeffrey,Wilson,TD,0
+1995004,9/26/2015,FBS,North Texas,Iowa,RUSHING,Jeffrey,Wilson,LONG,13
+1995005,9/26/2015,FBS,North Texas,Iowa,RUSHING,Antoinne,Jimmerson,ATT,15
+1995006,9/26/2015,FBS,North Texas,Iowa,RUSHING,Antoinne,Jimmerson,YDS,66
+1995007,9/26/2015,FBS,North Texas,Iowa,RUSHING,Antoinne,Jimmerson,TD,0
+1995008,9/26/2015,FBS,North Texas,Iowa,RUSHING,Antoinne,Jimmerson,LONG,13
+1995009,9/26/2015,FBS,North Texas,Iowa,RUSHING,Willy,Ivery,ATT,6
+1995010,9/26/2015,FBS,North Texas,Iowa,RUSHING,Willy,Ivery,YDS,39
+1995011,9/26/2015,FBS,North Texas,Iowa,RUSHING,Willy,Ivery,TD,0
+1995012,9/26/2015,FBS,North Texas,Iowa,RUSHING,Willy,Ivery,LONG,28
+1995013,9/26/2015,FBS,North Texas,Iowa,RUSHING,Carlos,Harris,ATT,2
+1995014,9/26/2015,FBS,North Texas,Iowa,RUSHING,Carlos,Harris,YDS,9
+1995015,9/26/2015,FBS,North Texas,Iowa,RUSHING,Carlos,Harris,TD,0
+1995016,9/26/2015,FBS,North Texas,Iowa,RUSHING,Carlos,Harris,LONG,5
+1995017,9/26/2015,FBS,North Texas,Iowa,RUSHING,Andrew,Tucker,ATT,2
+1995018,9/26/2015,FBS,North Texas,Iowa,RUSHING,Andrew,Tucker,YDS,7
+1995019,9/26/2015,FBS,North Texas,Iowa,RUSHING,Andrew,Tucker,TD,0
+1995020,9/26/2015,FBS,North Texas,Iowa,RUSHING,Andrew,Tucker,LONG,4
+1995021,9/26/2015,FBS,North Texas,Iowa,RUSHING,DaMarcus,Smith,ATT,1
+1995022,9/26/2015,FBS,North Texas,Iowa,RUSHING,DaMarcus,Smith,YDS,5
+1995023,9/26/2015,FBS,North Texas,Iowa,RUSHING,DaMarcus,Smith,TD,0
+1995024,9/26/2015,FBS,North Texas,Iowa,RUSHING,DaMarcus,Smith,LONG,5
+1995025,9/26/2015,FBS,North Texas,Iowa,RUSHING,Andrew,McNulty,ATT,5
+1995026,9/26/2015,FBS,North Texas,Iowa,RUSHING,Andrew,McNulty,YDS,-17
+1995027,9/26/2015,FBS,North Texas,Iowa,RUSHING,Andrew,McNulty,TD,0
+1995028,9/26/2015,FBS,North Texas,Iowa,RUSHING,Andrew,McNulty,LONG,13
+1995029,9/26/2015,FBS,North Texas,Iowa,PASSING,Andrew,McNulty,CP-ATT-INT,14-36-1
+1995030,9/26/2015,FBS,North Texas,Iowa,PASSING,Andrew,McNulty,YDS,137
+1995031,9/26/2015,FBS,North Texas,Iowa,PASSING,Andrew,McNulty,TD,0
+1995032,9/26/2015,FBS,North Texas,Iowa,PASSING,Andrew,McNulty,LONG,23
+1995033,9/26/2015,FBS,North Texas,Iowa,PASSING,Josh,Greer,CP-ATT-INT,2-6-1
+1995034,9/26/2015,FBS,North Texas,Iowa,PASSING,Josh,Greer,YDS,30
+1995035,9/26/2015,FBS,North Texas,Iowa,PASSING,Josh,Greer,TD,0
+1995036,9/26/2015,FBS,North Texas,Iowa,PASSING,Josh,Greer,LONG,24
+1995037,9/26/2015,FBS,North Texas,Iowa,PASSING,Carlos,Harris,CP-ATT-INT,1-1-0
+1995038,9/26/2015,FBS,North Texas,Iowa,PASSING,Carlos,Harris,YDS,6
+1995039,9/26/2015,FBS,North Texas,Iowa,PASSING,Carlos,Harris,TD,1
+1995040,9/26/2015,FBS,North Texas,Iowa,PASSING,Carlos,Harris,LONG,6
+1995041,9/26/2015,FBS,North Texas,Iowa,RECEIVING,Carlos,Harris,REC,5
+1995042,9/26/2015,FBS,North Texas,Iowa,RECEIVING,Carlos,Harris,YDS,43
+1995043,9/26/2015,FBS,North Texas,Iowa,RECEIVING,Carlos,Harris,TD,0
+1995044,9/26/2015,FBS,North Texas,Iowa,RECEIVING,Carlos,Harris,LONG,17
+1995045,9/26/2015,FBS,North Texas,Iowa,RECEIVING,Chris,Loving,REC,3
+1995046,9/26/2015,FBS,North Texas,Iowa,RECEIVING,Chris,Loving,YDS,37
+1995047,9/26/2015,FBS,North Texas,Iowa,RECEIVING,Chris,Loving,TD,1
+1995048,9/26/2015,FBS,North Texas,Iowa,RECEIVING,Chris,Loving,LONG,24
+1995049,9/26/2015,FBS,North Texas,Iowa,RECEIVING,Turner,Smiley,REC,2
+1995050,9/26/2015,FBS,North Texas,Iowa,RECEIVING,Turner,Smiley,YDS,26
+1995051,9/26/2015,FBS,North Texas,Iowa,RECEIVING,Turner,Smiley,TD,0
+1995052,9/26/2015,FBS,North Texas,Iowa,RECEIVING,Turner,Smiley,LONG,21
+1995053,9/26/2015,FBS,North Texas,Iowa,RECEIVING,Jeffrey,Wilson,REC,1
+1995054,9/26/2015,FBS,North Texas,Iowa,RECEIVING,Jeffrey,Wilson,YDS,23
+1995055,9/26/2015,FBS,North Texas,Iowa,RECEIVING,Jeffrey,Wilson,TD,0
+1995056,9/26/2015,FBS,North Texas,Iowa,RECEIVING,Jeffrey,Wilson,LONG,23
+1995057,9/26/2015,FBS,North Texas,Iowa,RECEIVING,Marcus,Smith,REC,3
+1995058,9/26/2015,FBS,North Texas,Iowa,RECEIVING,Marcus,Smith,YDS,22
+1995059,9/26/2015,FBS,North Texas,Iowa,RECEIVING,Marcus,Smith,TD,0
+1995060,9/26/2015,FBS,North Texas,Iowa,RECEIVING,Marcus,Smith,LONG,9
+1995061,9/26/2015,FBS,North Texas,Iowa,RECEIVING,Tee,Goree,REC,2
+1995062,9/26/2015,FBS,North Texas,Iowa,RECEIVING,Tee,Goree,YDS,16
+1995063,9/26/2015,FBS,North Texas,Iowa,RECEIVING,Tee,Goree,TD,0
+1995064,9/26/2015,FBS,North Texas,Iowa,RECEIVING,Tee,Goree,LONG,10
+1995065,9/26/2015,FBS,North Texas,Iowa,RECEIVING,Darvin,Kidsy,REC,1
+1995066,9/26/2015,FBS,North Texas,Iowa,RECEIVING,Darvin,Kidsy,YDS,6
+1995067,9/26/2015,FBS,North Texas,Iowa,RECEIVING,Darvin,Kidsy,TD,0
+1995068,9/26/2015,FBS,North Texas,Iowa,RECEIVING,Darvin,Kidsy,LONG,6
+1995069,9/26/2015,FBS,North Texas,Iowa,KICKING,Trevor,Moore,FG-FGA,3/3
+1995070,9/26/2015,FBS,North Texas,Iowa,KICKING,Trevor,Moore,LONG,38
+1995071,9/26/2015,FBS,North Texas,Iowa,KICKING,Trevor,Moore,XP,1
+1995072,9/26/2015,FBS,North Texas,Iowa,KICKING,Trevor,Moore,PTS,10
+1995073,9/26/2015,FBS,North Texas,Iowa,PUNTING,Eric,Keena,NO,8
+1995074,9/26/2015,FBS,North Texas,Iowa,PUNTING,Eric,Keena,YDS,379
+1995075,9/26/2015,FBS,North Texas,Iowa,PUNTING,Eric,Keena,AVG,47.4
+1995076,9/26/2015,FBS,North Texas,Iowa,PUNTING,Eric,Keena,LONG,58
+1995077,9/26/2015,FBS,North Texas,Iowa,KICK RETURNS,D'Aundrey,Bradley,NO,3
+1995078,9/26/2015,FBS,North Texas,Iowa,KICK RETURNS,D'Aundrey,Bradley,YDS,46
+1995079,9/26/2015,FBS,North Texas,Iowa,KICK RETURNS,D'Aundrey,Bradley,AVG,15.3
+1995080,9/26/2015,FBS,North Texas,Iowa,KICK RETURNS,D'Aundrey,Bradley,LONG,18
+1995081,9/26/2015,FBS,Iowa,North Texas,RUSHING,Jordan,Canzeri,ATT,22
+1995082,9/26/2015,FBS,Iowa,North Texas,RUSHING,Jordan,Canzeri,YDS,115
+1995083,9/26/2015,FBS,Iowa,North Texas,RUSHING,Jordan,Canzeri,TD,4
+1995084,9/26/2015,FBS,Iowa,North Texas,RUSHING,Jordan,Canzeri,LONG,29
+1995085,9/26/2015,FBS,Iowa,North Texas,RUSHING,Derrick,"Mitchell,Jr.",ATT,7
+1995086,9/26/2015,FBS,Iowa,North Texas,RUSHING,Derrick,"Mitchell,Jr.",YDS,52
+1995087,9/26/2015,FBS,Iowa,North Texas,RUSHING,Derrick,"Mitchell,Jr.",TD,0
+1995088,9/26/2015,FBS,Iowa,North Texas,RUSHING,Derrick,"Mitchell,Jr.",LONG,45
+1995089,9/26/2015,FBS,Iowa,North Texas,RUSHING,LeShun,"Daniels,Jr.",ATT,5
+1995090,9/26/2015,FBS,Iowa,North Texas,RUSHING,LeShun,"Daniels,Jr.",YDS,21
+1995091,9/26/2015,FBS,Iowa,North Texas,RUSHING,LeShun,"Daniels,Jr.",TD,0
+1995092,9/26/2015,FBS,Iowa,North Texas,RUSHING,LeShun,"Daniels,Jr.",LONG,16
+1995093,9/26/2015,FBS,Iowa,North Texas,RUSHING,Akrum,Wadley,ATT,5
+1995094,9/26/2015,FBS,Iowa,North Texas,RUSHING,Akrum,Wadley,YDS,18
+1995095,9/26/2015,FBS,Iowa,North Texas,RUSHING,Akrum,Wadley,TD,1
+1995096,9/26/2015,FBS,Iowa,North Texas,RUSHING,Akrum,Wadley,LONG,9
+1995097,9/26/2015,FBS,Iowa,North Texas,RUSHING,C.J.,Beathard,ATT,1
+1995098,9/26/2015,FBS,Iowa,North Texas,RUSHING,C.J.,Beathard,YDS,9
+1995099,9/26/2015,FBS,Iowa,North Texas,RUSHING,C.J.,Beathard,TD,0
+1995100,9/26/2015,FBS,Iowa,North Texas,RUSHING,C.J.,Beathard,LONG,9
+1995101,9/26/2015,FBS,Iowa,North Texas,RUSHING,Kevin,Ward,ATT,1
+1995102,9/26/2015,FBS,Iowa,North Texas,RUSHING,Kevin,Ward,YDS,5
+1995103,9/26/2015,FBS,Iowa,North Texas,RUSHING,Kevin,Ward,TD,0
+1995104,9/26/2015,FBS,Iowa,North Texas,RUSHING,Kevin,Ward,LONG,5
+1995105,9/26/2015,FBS,Iowa,North Texas,RUSHING,,Team,ATT,1
+1995106,9/26/2015,FBS,Iowa,North Texas,RUSHING,,Team,YDS,-2
+1995107,9/26/2015,FBS,Iowa,North Texas,RUSHING,,Team,TD,0
+1995108,9/26/2015,FBS,Iowa,North Texas,RUSHING,,Team,LONG,-2
+1995109,9/26/2015,FBS,Iowa,North Texas,RUSHING,Tyler,Wiegers,ATT,1
+1995110,9/26/2015,FBS,Iowa,North Texas,RUSHING,Tyler,Wiegers,YDS,-8
+1995111,9/26/2015,FBS,Iowa,North Texas,RUSHING,Tyler,Wiegers,TD,0
+1995112,9/26/2015,FBS,Iowa,North Texas,RUSHING,Tyler,Wiegers,LONG,-8
+1995113,9/26/2015,FBS,Iowa,North Texas,PASSING,C.J.,Beathard,CP-ATT-INT,18-21-0
+1995114,9/26/2015,FBS,Iowa,North Texas,PASSING,C.J.,Beathard,YDS,278
+1995115,9/26/2015,FBS,Iowa,North Texas,PASSING,C.J.,Beathard,TD,2
+1995116,9/26/2015,FBS,Iowa,North Texas,PASSING,C.J.,Beathard,LONG,81
+1995117,9/26/2015,FBS,Iowa,North Texas,PASSING,Tyler,Wiegers,CP-ATT-INT,1-1-0
+1995118,9/26/2015,FBS,Iowa,North Texas,PASSING,Tyler,Wiegers,YDS,0
+1995119,9/26/2015,FBS,Iowa,North Texas,PASSING,Tyler,Wiegers,TD,0
+1995120,9/26/2015,FBS,Iowa,North Texas,PASSING,Tyler,Wiegers,LONG,0
+1995121,9/26/2015,FBS,Iowa,North Texas,RECEIVING,Tevaun,Smith,REC,4
+1995122,9/26/2015,FBS,Iowa,North Texas,RECEIVING,Tevaun,Smith,YDS,115
+1995123,9/26/2015,FBS,Iowa,North Texas,RECEIVING,Tevaun,Smith,TD,1
+1995124,9/26/2015,FBS,Iowa,North Texas,RECEIVING,Tevaun,Smith,LONG,81
+1995125,9/26/2015,FBS,Iowa,North Texas,RECEIVING,George,Kittle,REC,2
+1995126,9/26/2015,FBS,Iowa,North Texas,RECEIVING,George,Kittle,YDS,62
+1995127,9/26/2015,FBS,Iowa,North Texas,RECEIVING,George,Kittle,TD,1
+1995128,9/26/2015,FBS,Iowa,North Texas,RECEIVING,George,Kittle,LONG,43
+1995129,9/26/2015,FBS,Iowa,North Texas,RECEIVING,Riley,McCarron,REC,3
+1995130,9/26/2015,FBS,Iowa,North Texas,RECEIVING,Riley,McCarron,YDS,26
+1995131,9/26/2015,FBS,Iowa,North Texas,RECEIVING,Riley,McCarron,TD,0
+1995132,9/26/2015,FBS,Iowa,North Texas,RECEIVING,Riley,McCarron,LONG,10
+1995133,9/26/2015,FBS,Iowa,North Texas,RECEIVING,Matt,VandeBerg,REC,3
+1995134,9/26/2015,FBS,Iowa,North Texas,RECEIVING,Matt,VandeBerg,YDS,24
+1995135,9/26/2015,FBS,Iowa,North Texas,RECEIVING,Matt,VandeBerg,TD,0
+1995136,9/26/2015,FBS,Iowa,North Texas,RECEIVING,Matt,VandeBerg,LONG,15
+1995137,9/26/2015,FBS,Iowa,North Texas,RECEIVING,Henry,KriegerCoble,REC,3
+1995138,9/26/2015,FBS,Iowa,North Texas,RECEIVING,Henry,KriegerCoble,YDS,23
+1995139,9/26/2015,FBS,Iowa,North Texas,RECEIVING,Henry,KriegerCoble,TD,0
+1995140,9/26/2015,FBS,Iowa,North Texas,RECEIVING,Henry,KriegerCoble,LONG,12
+1995141,9/26/2015,FBS,Iowa,North Texas,RECEIVING,Jacob,Hillyer,REC,2
+1995142,9/26/2015,FBS,Iowa,North Texas,RECEIVING,Jacob,Hillyer,YDS,22
+1995143,9/26/2015,FBS,Iowa,North Texas,RECEIVING,Jacob,Hillyer,TD,0
+1995144,9/26/2015,FBS,Iowa,North Texas,RECEIVING,Jacob,Hillyer,LONG,16
+1995145,9/26/2015,FBS,Iowa,North Texas,RECEIVING,Jordan,Canzeri,REC,1
+1995146,9/26/2015,FBS,Iowa,North Texas,RECEIVING,Jordan,Canzeri,YDS,6
+1995147,9/26/2015,FBS,Iowa,North Texas,RECEIVING,Jordan,Canzeri,TD,0
+1995148,9/26/2015,FBS,Iowa,North Texas,RECEIVING,Jordan,Canzeri,LONG,6
+1995149,9/26/2015,FBS,Iowa,North Texas,RECEIVING,Andrew,Stone,REC,1
+1995150,9/26/2015,FBS,Iowa,North Texas,RECEIVING,Andrew,Stone,YDS,0
+1995151,9/26/2015,FBS,Iowa,North Texas,RECEIVING,Andrew,Stone,TD,0
+1995152,9/26/2015,FBS,Iowa,North Texas,RECEIVING,Andrew,Stone,LONG,0
+1995153,9/26/2015,FBS,Iowa,North Texas,KICKING,Marshall,Koehn,FG-FGA,0/0
+1995154,9/26/2015,FBS,Iowa,North Texas,KICKING,Marshall,Koehn,LONG,-
+1995155,9/26/2015,FBS,Iowa,North Texas,KICKING,Marshall,Koehn,XP,6
+1995156,9/26/2015,FBS,Iowa,North Texas,KICKING,Marshall,Koehn,PTS,6
+1995157,9/26/2015,FBS,Iowa,North Texas,KICKING,Miguel,Recinos,FG-FGA,0/0
+1995158,9/26/2015,FBS,Iowa,North Texas,KICKING,Miguel,Recinos,LONG,-
+1995159,9/26/2015,FBS,Iowa,North Texas,KICKING,Miguel,Recinos,XP,2
+1995160,9/26/2015,FBS,Iowa,North Texas,KICKING,Miguel,Recinos,PTS,2
+1995161,9/26/2015,FBS,Iowa,North Texas,PUNTING,Dillon,Kidd,NO,2
+1995162,9/26/2015,FBS,Iowa,North Texas,PUNTING,Dillon,Kidd,YDS,77
+1995163,9/26/2015,FBS,Iowa,North Texas,PUNTING,Dillon,Kidd,AVG,38.5
+1995164,9/26/2015,FBS,Iowa,North Texas,PUNTING,Dillon,Kidd,LONG,42
+1995165,9/26/2015,FBS,Iowa,North Texas,PUNTING,Marshall,Koehn,NO,1
+1995166,9/26/2015,FBS,Iowa,North Texas,PUNTING,Marshall,Koehn,YDS,49
+1995167,9/26/2015,FBS,Iowa,North Texas,PUNTING,Marshall,Koehn,AVG,49.0
+1995168,9/26/2015,FBS,Iowa,North Texas,PUNTING,Marshall,Koehn,LONG,49
+1995169,9/26/2015,FBS,Iowa,North Texas,PUNT RETURNS,Desmond,King,NO,2
+1995170,9/26/2015,FBS,Iowa,North Texas,PUNT RETURNS,Desmond,King,YDS,71
+1995171,9/26/2015,FBS,Iowa,North Texas,PUNT RETURNS,Desmond,King,AVG,35.5
+1995172,9/26/2015,FBS,Iowa,North Texas,PUNT RETURNS,Desmond,King,LONG,38
+1995173,9/26/2015,FBS,Iowa,North Texas,PUNT RETURNS,Riley,McCarron,NO,0
+1995174,9/26/2015,FBS,Iowa,North Texas,PUNT RETURNS,Riley,McCarron,YDS,0
+1995175,9/26/2015,FBS,Iowa,North Texas,PUNT RETURNS,Riley,McCarron,AVG,-
+1995176,9/26/2015,FBS,Iowa,North Texas,PUNT RETURNS,Riley,McCarron,LONG,0
+1995177,9/26/2015,FBS,Iowa,North Texas,KICK RETURNS,Desmond,King,NO,4
+1995178,9/26/2015,FBS,Iowa,North Texas,KICK RETURNS,Desmond,King,YDS,109
+1995179,9/26/2015,FBS,Iowa,North Texas,KICK RETURNS,Desmond,King,AVG,27.2
+1995180,9/26/2015,FBS,Iowa,North Texas,KICK RETURNS,Desmond,King,LONG,40

@@ -1,0 +1,125 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3263001,11/9/2016,FBS,Toledo,Northern Ill.,RUSHING,Kareem,Hunt,ATT,19
+3263002,11/9/2016,FBS,Toledo,Northern Ill.,RUSHING,Kareem,Hunt,YDS,122
+3263003,11/9/2016,FBS,Toledo,Northern Ill.,RUSHING,Kareem,Hunt,TD,1
+3263004,11/9/2016,FBS,Toledo,Northern Ill.,RUSHING,Kareem,Hunt,LONG,24
+3263005,11/9/2016,FBS,Toledo,Northern Ill.,RUSHING,Damion,Jones-Moore,ATT,4
+3263006,11/9/2016,FBS,Toledo,Northern Ill.,RUSHING,Damion,Jones-Moore,YDS,34
+3263007,11/9/2016,FBS,Toledo,Northern Ill.,RUSHING,Damion,Jones-Moore,TD,0
+3263008,11/9/2016,FBS,Toledo,Northern Ill.,RUSHING,Damion,Jones-Moore,LONG,13
+3263009,11/9/2016,FBS,Toledo,Northern Ill.,RUSHING,Terry,Swanson,ATT,10
+3263010,11/9/2016,FBS,Toledo,Northern Ill.,RUSHING,Terry,Swanson,YDS,18
+3263011,11/9/2016,FBS,Toledo,Northern Ill.,RUSHING,Terry,Swanson,TD,0
+3263012,11/9/2016,FBS,Toledo,Northern Ill.,RUSHING,Terry,Swanson,LONG,5
+3263013,11/9/2016,FBS,Toledo,Northern Ill.,RUSHING,,Team,ATT,2
+3263014,11/9/2016,FBS,Toledo,Northern Ill.,RUSHING,,Team,YDS,-8
+3263015,11/9/2016,FBS,Toledo,Northern Ill.,RUSHING,,Team,TD,0
+3263016,11/9/2016,FBS,Toledo,Northern Ill.,RUSHING,,Team,LONG,-4
+3263017,11/9/2016,FBS,Toledo,Northern Ill.,RUSHING,Logan,Woodside,ATT,5
+3263018,11/9/2016,FBS,Toledo,Northern Ill.,RUSHING,Logan,Woodside,YDS,-32
+3263019,11/9/2016,FBS,Toledo,Northern Ill.,RUSHING,Logan,Woodside,TD,0
+3263020,11/9/2016,FBS,Toledo,Northern Ill.,RUSHING,Logan,Woodside,LONG,1
+3263021,11/9/2016,FBS,Toledo,Northern Ill.,PASSING,Logan,Woodside,CP-ATT-INT,23-33-1
+3263022,11/9/2016,FBS,Toledo,Northern Ill.,PASSING,Logan,Woodside,YDS,286
+3263023,11/9/2016,FBS,Toledo,Northern Ill.,PASSING,Logan,Woodside,TD,3
+3263024,11/9/2016,FBS,Toledo,Northern Ill.,PASSING,Logan,Woodside,LONG,39
+3263025,11/9/2016,FBS,Toledo,Northern Ill.,RECEIVING,Jon'Vea,Johnson,REC,6
+3263026,11/9/2016,FBS,Toledo,Northern Ill.,RECEIVING,Jon'Vea,Johnson,YDS,129
+3263027,11/9/2016,FBS,Toledo,Northern Ill.,RECEIVING,Jon'Vea,Johnson,TD,1
+3263028,11/9/2016,FBS,Toledo,Northern Ill.,RECEIVING,Jon'Vea,Johnson,LONG,39
+3263029,11/9/2016,FBS,Toledo,Northern Ill.,RECEIVING,Corey,Jones,REC,4
+3263030,11/9/2016,FBS,Toledo,Northern Ill.,RECEIVING,Corey,Jones,YDS,38
+3263031,11/9/2016,FBS,Toledo,Northern Ill.,RECEIVING,Corey,Jones,TD,0
+3263032,11/9/2016,FBS,Toledo,Northern Ill.,RECEIVING,Corey,Jones,LONG,20
+3263033,11/9/2016,FBS,Toledo,Northern Ill.,RECEIVING,Michael,Roberts,REC,3
+3263034,11/9/2016,FBS,Toledo,Northern Ill.,RECEIVING,Michael,Roberts,YDS,37
+3263035,11/9/2016,FBS,Toledo,Northern Ill.,RECEIVING,Michael,Roberts,TD,2
+3263036,11/9/2016,FBS,Toledo,Northern Ill.,RECEIVING,Michael,Roberts,LONG,27
+3263037,11/9/2016,FBS,Toledo,Northern Ill.,RECEIVING,Kareem,Hunt,REC,6
+3263038,11/9/2016,FBS,Toledo,Northern Ill.,RECEIVING,Kareem,Hunt,YDS,37
+3263039,11/9/2016,FBS,Toledo,Northern Ill.,RECEIVING,Kareem,Hunt,TD,0
+3263040,11/9/2016,FBS,Toledo,Northern Ill.,RECEIVING,Kareem,Hunt,LONG,14
+3263041,11/9/2016,FBS,Toledo,Northern Ill.,RECEIVING,Cody,Thompson,REC,3
+3263042,11/9/2016,FBS,Toledo,Northern Ill.,RECEIVING,Cody,Thompson,YDS,34
+3263043,11/9/2016,FBS,Toledo,Northern Ill.,RECEIVING,Cody,Thompson,TD,0
+3263044,11/9/2016,FBS,Toledo,Northern Ill.,RECEIVING,Cody,Thompson,LONG,18
+3263045,11/9/2016,FBS,Toledo,Northern Ill.,RECEIVING,Darryl,Richards,REC,1
+3263046,11/9/2016,FBS,Toledo,Northern Ill.,RECEIVING,Darryl,Richards,YDS,11
+3263047,11/9/2016,FBS,Toledo,Northern Ill.,RECEIVING,Darryl,Richards,TD,0
+3263048,11/9/2016,FBS,Toledo,Northern Ill.,RECEIVING,Darryl,Richards,LONG,11
+3263049,11/9/2016,FBS,Toledo,Northern Ill.,KICKING,Jameson,Vest,FG-FGA,1/1
+3263050,11/9/2016,FBS,Toledo,Northern Ill.,KICKING,Jameson,Vest,LONG,44
+3263051,11/9/2016,FBS,Toledo,Northern Ill.,KICKING,Jameson,Vest,XP,4
+3263052,11/9/2016,FBS,Toledo,Northern Ill.,KICKING,Jameson,Vest,PTS,7
+3263053,11/9/2016,FBS,Toledo,Northern Ill.,PUNTING,Nick,Ellis,NO,6
+3263054,11/9/2016,FBS,Toledo,Northern Ill.,PUNTING,Nick,Ellis,YDS,266
+3263055,11/9/2016,FBS,Toledo,Northern Ill.,PUNTING,Nick,Ellis,AVG,44.3
+3263056,11/9/2016,FBS,Toledo,Northern Ill.,PUNTING,Nick,Ellis,LONG,52
+3263057,11/9/2016,FBS,Toledo,Northern Ill.,PUNT RETURNS,Corey,Jones,NO,2
+3263058,11/9/2016,FBS,Toledo,Northern Ill.,PUNT RETURNS,Corey,Jones,YDS,7
+3263059,11/9/2016,FBS,Toledo,Northern Ill.,PUNT RETURNS,Corey,Jones,AVG,3.5
+3263060,11/9/2016,FBS,Toledo,Northern Ill.,PUNT RETURNS,Corey,Jones,LONG,13
+3263061,11/9/2016,FBS,Toledo,Northern Ill.,KICK RETURNS,Corey,Jones,NO,4
+3263062,11/9/2016,FBS,Toledo,Northern Ill.,KICK RETURNS,Corey,Jones,YDS,88
+3263063,11/9/2016,FBS,Toledo,Northern Ill.,KICK RETURNS,Corey,Jones,AVG,22.0
+3263064,11/9/2016,FBS,Toledo,Northern Ill.,KICK RETURNS,Corey,Jones,LONG,27
+3263065,11/9/2016,FBS,Northern Ill.,Toledo,RUSHING,Ryan,Graham,ATT,17
+3263066,11/9/2016,FBS,Northern Ill.,Toledo,RUSHING,Ryan,Graham,YDS,97
+3263067,11/9/2016,FBS,Northern Ill.,Toledo,RUSHING,Ryan,Graham,TD,0
+3263068,11/9/2016,FBS,Northern Ill.,Toledo,RUSHING,Ryan,Graham,LONG,22
+3263069,11/9/2016,FBS,Northern Ill.,Toledo,RUSHING,Joel,Bouagnon,ATT,19
+3263070,11/9/2016,FBS,Northern Ill.,Toledo,RUSHING,Joel,Bouagnon,YDS,84
+3263071,11/9/2016,FBS,Northern Ill.,Toledo,RUSHING,Joel,Bouagnon,TD,0
+3263072,11/9/2016,FBS,Northern Ill.,Toledo,RUSHING,Joel,Bouagnon,LONG,15
+3263073,11/9/2016,FBS,Northern Ill.,Toledo,RUSHING,Jordan,Huff,ATT,5
+3263074,11/9/2016,FBS,Northern Ill.,Toledo,RUSHING,Jordan,Huff,YDS,24
+3263075,11/9/2016,FBS,Northern Ill.,Toledo,RUSHING,Jordan,Huff,TD,0
+3263076,11/9/2016,FBS,Northern Ill.,Toledo,RUSHING,Jordan,Huff,LONG,18
+3263077,11/9/2016,FBS,Northern Ill.,Toledo,RUSHING,Tommy,Mister,ATT,1
+3263078,11/9/2016,FBS,Northern Ill.,Toledo,RUSHING,Tommy,Mister,YDS,8
+3263079,11/9/2016,FBS,Northern Ill.,Toledo,RUSHING,Tommy,Mister,TD,0
+3263080,11/9/2016,FBS,Northern Ill.,Toledo,RUSHING,Tommy,Mister,LONG,8
+3263081,11/9/2016,FBS,Northern Ill.,Toledo,RUSHING,Aregeros,Turner,ATT,1
+3263082,11/9/2016,FBS,Northern Ill.,Toledo,RUSHING,Aregeros,Turner,YDS,1
+3263083,11/9/2016,FBS,Northern Ill.,Toledo,RUSHING,Aregeros,Turner,TD,0
+3263084,11/9/2016,FBS,Northern Ill.,Toledo,RUSHING,Aregeros,Turner,LONG,1
+3263085,11/9/2016,FBS,Northern Ill.,Toledo,PASSING,Ryan,Graham,CP-ATT-INT,24-43-1
+3263086,11/9/2016,FBS,Northern Ill.,Toledo,PASSING,Ryan,Graham,YDS,221
+3263087,11/9/2016,FBS,Northern Ill.,Toledo,PASSING,Ryan,Graham,TD,3
+3263088,11/9/2016,FBS,Northern Ill.,Toledo,PASSING,Ryan,Graham,LONG,40
+3263089,11/9/2016,FBS,Northern Ill.,Toledo,RECEIVING,Kenny,Golladay,REC,14
+3263090,11/9/2016,FBS,Northern Ill.,Toledo,RECEIVING,Kenny,Golladay,YDS,143
+3263091,11/9/2016,FBS,Northern Ill.,Toledo,RECEIVING,Kenny,Golladay,TD,1
+3263092,11/9/2016,FBS,Northern Ill.,Toledo,RECEIVING,Kenny,Golladay,LONG,40
+3263093,11/9/2016,FBS,Northern Ill.,Toledo,RECEIVING,Christian,Blake,REC,2
+3263094,11/9/2016,FBS,Northern Ill.,Toledo,RECEIVING,Christian,Blake,YDS,29
+3263095,11/9/2016,FBS,Northern Ill.,Toledo,RECEIVING,Christian,Blake,TD,1
+3263096,11/9/2016,FBS,Northern Ill.,Toledo,RECEIVING,Christian,Blake,LONG,19
+3263097,11/9/2016,FBS,Northern Ill.,Toledo,RECEIVING,Shane,Wimann,REC,4
+3263098,11/9/2016,FBS,Northern Ill.,Toledo,RECEIVING,Shane,Wimann,YDS,22
+3263099,11/9/2016,FBS,Northern Ill.,Toledo,RECEIVING,Shane,Wimann,TD,1
+3263100,11/9/2016,FBS,Northern Ill.,Toledo,RECEIVING,Shane,Wimann,LONG,10
+3263101,11/9/2016,FBS,Northern Ill.,Toledo,RECEIVING,Aregeros,Turner,REC,3
+3263102,11/9/2016,FBS,Northern Ill.,Toledo,RECEIVING,Aregeros,Turner,YDS,19
+3263103,11/9/2016,FBS,Northern Ill.,Toledo,RECEIVING,Aregeros,Turner,TD,0
+3263104,11/9/2016,FBS,Northern Ill.,Toledo,RECEIVING,Aregeros,Turner,LONG,9
+3263105,11/9/2016,FBS,Northern Ill.,Toledo,RECEIVING,Joel,Bouagnon,REC,1
+3263106,11/9/2016,FBS,Northern Ill.,Toledo,RECEIVING,Joel,Bouagnon,YDS,8
+3263107,11/9/2016,FBS,Northern Ill.,Toledo,RECEIVING,Joel,Bouagnon,TD,0
+3263108,11/9/2016,FBS,Northern Ill.,Toledo,RECEIVING,Joel,Bouagnon,LONG,8
+3263109,11/9/2016,FBS,Northern Ill.,Toledo,KICKING,Christian,Hagan,FG-FGA,1/1
+3263110,11/9/2016,FBS,Northern Ill.,Toledo,KICKING,Christian,Hagan,LONG,22
+3263111,11/9/2016,FBS,Northern Ill.,Toledo,KICKING,Christian,Hagan,XP,3
+3263112,11/9/2016,FBS,Northern Ill.,Toledo,KICKING,Christian,Hagan,PTS,6
+3263113,11/9/2016,FBS,Northern Ill.,Toledo,PUNTING,Jacob,Ambrose,NO,8
+3263114,11/9/2016,FBS,Northern Ill.,Toledo,PUNTING,Jacob,Ambrose,YDS,290
+3263115,11/9/2016,FBS,Northern Ill.,Toledo,PUNTING,Jacob,Ambrose,AVG,36.2
+3263116,11/9/2016,FBS,Northern Ill.,Toledo,PUNTING,Jacob,Ambrose,LONG,51
+3263117,11/9/2016,FBS,Northern Ill.,Toledo,PUNT RETURNS,D.J.,Brown,NO,2
+3263118,11/9/2016,FBS,Northern Ill.,Toledo,PUNT RETURNS,D.J.,Brown,YDS,2
+3263119,11/9/2016,FBS,Northern Ill.,Toledo,PUNT RETURNS,D.J.,Brown,AVG,1.0
+3263120,11/9/2016,FBS,Northern Ill.,Toledo,PUNT RETURNS,D.J.,Brown,LONG,2
+3263121,11/9/2016,FBS,Northern Ill.,Toledo,KICK RETURNS,Aregeros,Turner,NO,6
+3263122,11/9/2016,FBS,Northern Ill.,Toledo,KICK RETURNS,Aregeros,Turner,YDS,124
+3263123,11/9/2016,FBS,Northern Ill.,Toledo,KICK RETURNS,Aregeros,Turner,AVG,20.7
+3263124,11/9/2016,FBS,Northern Ill.,Toledo,KICK RETURNS,Aregeros,Turner,LONG,32

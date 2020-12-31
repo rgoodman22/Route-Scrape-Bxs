@@ -1,0 +1,141 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2159001,10/15/2015,FBS,Auburn,Kentucky,RUSHING,Peyton,Barber,ATT,26
+2159002,10/15/2015,FBS,Auburn,Kentucky,RUSHING,Peyton,Barber,YDS,92
+2159003,10/15/2015,FBS,Auburn,Kentucky,RUSHING,Peyton,Barber,TD,2
+2159004,10/15/2015,FBS,Auburn,Kentucky,RUSHING,Peyton,Barber,LONG,12
+2159005,10/15/2015,FBS,Auburn,Kentucky,RUSHING,Kerryon,Johnson,ATT,9
+2159006,10/15/2015,FBS,Auburn,Kentucky,RUSHING,Kerryon,Johnson,YDS,36
+2159007,10/15/2015,FBS,Auburn,Kentucky,RUSHING,Kerryon,Johnson,TD,1
+2159008,10/15/2015,FBS,Auburn,Kentucky,RUSHING,Kerryon,Johnson,LONG,13
+2159009,10/15/2015,FBS,Auburn,Kentucky,RUSHING,Ricardo,Louis,ATT,1
+2159010,10/15/2015,FBS,Auburn,Kentucky,RUSHING,Ricardo,Louis,YDS,9
+2159011,10/15/2015,FBS,Auburn,Kentucky,RUSHING,Ricardo,Louis,TD,0
+2159012,10/15/2015,FBS,Auburn,Kentucky,RUSHING,Ricardo,Louis,LONG,9
+2159013,10/15/2015,FBS,Auburn,Kentucky,RUSHING,Roc,Thomas,ATT,4
+2159014,10/15/2015,FBS,Auburn,Kentucky,RUSHING,Roc,Thomas,YDS,8
+2159015,10/15/2015,FBS,Auburn,Kentucky,RUSHING,Roc,Thomas,TD,0
+2159016,10/15/2015,FBS,Auburn,Kentucky,RUSHING,Roc,Thomas,LONG,4
+2159017,10/15/2015,FBS,Auburn,Kentucky,RUSHING,Sean,White,ATT,6
+2159018,10/15/2015,FBS,Auburn,Kentucky,RUSHING,Sean,White,YDS,7
+2159019,10/15/2015,FBS,Auburn,Kentucky,RUSHING,Sean,White,TD,0
+2159020,10/15/2015,FBS,Auburn,Kentucky,RUSHING,Sean,White,LONG,12
+2159021,10/15/2015,FBS,Auburn,Kentucky,RUSHING,,Team,ATT,1
+2159022,10/15/2015,FBS,Auburn,Kentucky,RUSHING,,Team,YDS,0
+2159023,10/15/2015,FBS,Auburn,Kentucky,RUSHING,,Team,TD,0
+2159024,10/15/2015,FBS,Auburn,Kentucky,RUSHING,,Team,LONG,0
+2159025,10/15/2015,FBS,Auburn,Kentucky,PASSING,Sean,White,CP-ATT-INT,17-27-0
+2159026,10/15/2015,FBS,Auburn,Kentucky,PASSING,Sean,White,YDS,255
+2159027,10/15/2015,FBS,Auburn,Kentucky,PASSING,Sean,White,TD,0
+2159028,10/15/2015,FBS,Auburn,Kentucky,PASSING,Sean,White,LONG,41
+2159029,10/15/2015,FBS,Auburn,Kentucky,PASSING,,Team,CP-ATT-INT,0-1-0
+2159030,10/15/2015,FBS,Auburn,Kentucky,PASSING,,Team,YDS,0
+2159031,10/15/2015,FBS,Auburn,Kentucky,PASSING,,Team,TD,0
+2159032,10/15/2015,FBS,Auburn,Kentucky,PASSING,,Team,LONG,0
+2159033,10/15/2015,FBS,Auburn,Kentucky,RECEIVING,Ricardo,Louis,REC,7
+2159034,10/15/2015,FBS,Auburn,Kentucky,RECEIVING,Ricardo,Louis,YDS,154
+2159035,10/15/2015,FBS,Auburn,Kentucky,RECEIVING,Ricardo,Louis,TD,0
+2159036,10/15/2015,FBS,Auburn,Kentucky,RECEIVING,Ricardo,Louis,LONG,41
+2159037,10/15/2015,FBS,Auburn,Kentucky,RECEIVING,Marcus,Davis,REC,5
+2159038,10/15/2015,FBS,Auburn,Kentucky,RECEIVING,Marcus,Davis,YDS,49
+2159039,10/15/2015,FBS,Auburn,Kentucky,RECEIVING,Marcus,Davis,TD,0
+2159040,10/15/2015,FBS,Auburn,Kentucky,RECEIVING,Marcus,Davis,LONG,15
+2159041,10/15/2015,FBS,Auburn,Kentucky,RECEIVING,Peyton,Barber,REC,1
+2159042,10/15/2015,FBS,Auburn,Kentucky,RECEIVING,Peyton,Barber,YDS,16
+2159043,10/15/2015,FBS,Auburn,Kentucky,RECEIVING,Peyton,Barber,TD,0
+2159044,10/15/2015,FBS,Auburn,Kentucky,RECEIVING,Peyton,Barber,LONG,16
+2159045,10/15/2015,FBS,Auburn,Kentucky,RECEIVING,Kerryon,Johnson,REC,1
+2159046,10/15/2015,FBS,Auburn,Kentucky,RECEIVING,Kerryon,Johnson,YDS,14
+2159047,10/15/2015,FBS,Auburn,Kentucky,RECEIVING,Kerryon,Johnson,TD,0
+2159048,10/15/2015,FBS,Auburn,Kentucky,RECEIVING,Kerryon,Johnson,LONG,14
+2159049,10/15/2015,FBS,Auburn,Kentucky,RECEIVING,Jason,Smith,REC,2
+2159050,10/15/2015,FBS,Auburn,Kentucky,RECEIVING,Jason,Smith,YDS,13
+2159051,10/15/2015,FBS,Auburn,Kentucky,RECEIVING,Jason,Smith,TD,0
+2159052,10/15/2015,FBS,Auburn,Kentucky,RECEIVING,Jason,Smith,LONG,7
+2159053,10/15/2015,FBS,Auburn,Kentucky,RECEIVING,Tony,Stevens,REC,1
+2159054,10/15/2015,FBS,Auburn,Kentucky,RECEIVING,Tony,Stevens,YDS,9
+2159055,10/15/2015,FBS,Auburn,Kentucky,RECEIVING,Tony,Stevens,TD,0
+2159056,10/15/2015,FBS,Auburn,Kentucky,RECEIVING,Tony,Stevens,LONG,9
+2159057,10/15/2015,FBS,Auburn,Kentucky,KICKING,Daniel,Carlson,FG-FGA,3/3
+2159058,10/15/2015,FBS,Auburn,Kentucky,KICKING,Daniel,Carlson,LONG,52
+2159059,10/15/2015,FBS,Auburn,Kentucky,KICKING,Daniel,Carlson,XP,3
+2159060,10/15/2015,FBS,Auburn,Kentucky,KICKING,Daniel,Carlson,PTS,12
+2159061,10/15/2015,FBS,Auburn,Kentucky,PUNTING,Kevin,Phillips,NO,5
+2159062,10/15/2015,FBS,Auburn,Kentucky,PUNTING,Kevin,Phillips,YDS,204
+2159063,10/15/2015,FBS,Auburn,Kentucky,PUNTING,Kevin,Phillips,AVG,40.8
+2159064,10/15/2015,FBS,Auburn,Kentucky,PUNTING,Kevin,Phillips,LONG,53
+2159065,10/15/2015,FBS,Auburn,Kentucky,PUNT RETURNS,Marcus,Davis,NO,1
+2159066,10/15/2015,FBS,Auburn,Kentucky,PUNT RETURNS,Marcus,Davis,YDS,1
+2159067,10/15/2015,FBS,Auburn,Kentucky,PUNT RETURNS,Marcus,Davis,AVG,1.0
+2159068,10/15/2015,FBS,Auburn,Kentucky,PUNT RETURNS,Marcus,Davis,LONG,1
+2159069,10/15/2015,FBS,Auburn,Kentucky,KICK RETURNS,Kerryon,Johnson,NO,4
+2159070,10/15/2015,FBS,Auburn,Kentucky,KICK RETURNS,Kerryon,Johnson,YDS,111
+2159071,10/15/2015,FBS,Auburn,Kentucky,KICK RETURNS,Kerryon,Johnson,AVG,27.8
+2159072,10/15/2015,FBS,Auburn,Kentucky,KICK RETURNS,Kerryon,Johnson,LONG,34
+2159073,10/15/2015,FBS,Auburn,Kentucky,KICK RETURNS,Johnathan,Ford,NO,2
+2159074,10/15/2015,FBS,Auburn,Kentucky,KICK RETURNS,Johnathan,Ford,YDS,44
+2159075,10/15/2015,FBS,Auburn,Kentucky,KICK RETURNS,Johnathan,Ford,AVG,22.0
+2159076,10/15/2015,FBS,Auburn,Kentucky,KICK RETURNS,Johnathan,Ford,LONG,24
+2159077,10/15/2015,FBS,Kentucky,Auburn,RUSHING,Stanley,BoomWilliams,ATT,16
+2159078,10/15/2015,FBS,Kentucky,Auburn,RUSHING,Stanley,BoomWilliams,YDS,113
+2159079,10/15/2015,FBS,Kentucky,Auburn,RUSHING,Stanley,BoomWilliams,TD,2
+2159080,10/15/2015,FBS,Kentucky,Auburn,RUSHING,Stanley,BoomWilliams,LONG,60
+2159081,10/15/2015,FBS,Kentucky,Auburn,RUSHING,Patrick,Towles,ATT,7
+2159082,10/15/2015,FBS,Kentucky,Auburn,RUSHING,Patrick,Towles,YDS,12
+2159083,10/15/2015,FBS,Kentucky,Auburn,RUSHING,Patrick,Towles,TD,0
+2159084,10/15/2015,FBS,Kentucky,Auburn,RUSHING,Patrick,Towles,LONG,13
+2159085,10/15/2015,FBS,Kentucky,Auburn,RUSHING,Mikel,Horton,ATT,5
+2159086,10/15/2015,FBS,Kentucky,Auburn,RUSHING,Mikel,Horton,YDS,10
+2159087,10/15/2015,FBS,Kentucky,Auburn,RUSHING,Mikel,Horton,TD,1
+2159088,10/15/2015,FBS,Kentucky,Auburn,RUSHING,Mikel,Horton,LONG,5
+2159089,10/15/2015,FBS,Kentucky,Auburn,RUSHING,Jojo,Kemp,ATT,5
+2159090,10/15/2015,FBS,Kentucky,Auburn,RUSHING,Jojo,Kemp,YDS,3
+2159091,10/15/2015,FBS,Kentucky,Auburn,RUSHING,Jojo,Kemp,TD,0
+2159092,10/15/2015,FBS,Kentucky,Auburn,RUSHING,Jojo,Kemp,LONG,4
+2159093,10/15/2015,FBS,Kentucky,Auburn,PASSING,Patrick,Towles,CP-ATT-INT,27-44-1
+2159094,10/15/2015,FBS,Kentucky,Auburn,PASSING,Patrick,Towles,YDS,359
+2159095,10/15/2015,FBS,Kentucky,Auburn,PASSING,Patrick,Towles,TD,0
+2159096,10/15/2015,FBS,Kentucky,Auburn,PASSING,Patrick,Towles,LONG,39
+2159097,10/15/2015,FBS,Kentucky,Auburn,RECEIVING,Garrett,Johnson,REC,9
+2159098,10/15/2015,FBS,Kentucky,Auburn,RECEIVING,Garrett,Johnson,YDS,160
+2159099,10/15/2015,FBS,Kentucky,Auburn,RECEIVING,Garrett,Johnson,TD,0
+2159100,10/15/2015,FBS,Kentucky,Auburn,RECEIVING,Garrett,Johnson,LONG,39
+2159101,10/15/2015,FBS,Kentucky,Auburn,RECEIVING,Jeff,Badet,REC,5
+2159102,10/15/2015,FBS,Kentucky,Auburn,RECEIVING,Jeff,Badet,YDS,67
+2159103,10/15/2015,FBS,Kentucky,Auburn,RECEIVING,Jeff,Badet,TD,0
+2159104,10/15/2015,FBS,Kentucky,Auburn,RECEIVING,Jeff,Badet,LONG,27
+2159105,10/15/2015,FBS,Kentucky,Auburn,RECEIVING,Dorian,Baker,REC,6
+2159106,10/15/2015,FBS,Kentucky,Auburn,RECEIVING,Dorian,Baker,YDS,66
+2159107,10/15/2015,FBS,Kentucky,Auburn,RECEIVING,Dorian,Baker,TD,0
+2159108,10/15/2015,FBS,Kentucky,Auburn,RECEIVING,Dorian,Baker,LONG,20
+2159109,10/15/2015,FBS,Kentucky,Auburn,RECEIVING,C.J.,Conrad,REC,3
+2159110,10/15/2015,FBS,Kentucky,Auburn,RECEIVING,C.J.,Conrad,YDS,22
+2159111,10/15/2015,FBS,Kentucky,Auburn,RECEIVING,C.J.,Conrad,TD,0
+2159112,10/15/2015,FBS,Kentucky,Auburn,RECEIVING,C.J.,Conrad,LONG,11
+2159113,10/15/2015,FBS,Kentucky,Auburn,RECEIVING,Charles,Walker,REC,1
+2159114,10/15/2015,FBS,Kentucky,Auburn,RECEIVING,Charles,Walker,YDS,20
+2159115,10/15/2015,FBS,Kentucky,Auburn,RECEIVING,Charles,Walker,TD,0
+2159116,10/15/2015,FBS,Kentucky,Auburn,RECEIVING,Charles,Walker,LONG,20
+2159117,10/15/2015,FBS,Kentucky,Auburn,RECEIVING,Blake,Bone,REC,2
+2159118,10/15/2015,FBS,Kentucky,Auburn,RECEIVING,Blake,Bone,YDS,17
+2159119,10/15/2015,FBS,Kentucky,Auburn,RECEIVING,Blake,Bone,TD,0
+2159120,10/15/2015,FBS,Kentucky,Auburn,RECEIVING,Blake,Bone,LONG,11
+2159121,10/15/2015,FBS,Kentucky,Auburn,RECEIVING,Stanley,BoomWilliams,REC,1
+2159122,10/15/2015,FBS,Kentucky,Auburn,RECEIVING,Stanley,BoomWilliams,YDS,7
+2159123,10/15/2015,FBS,Kentucky,Auburn,RECEIVING,Stanley,BoomWilliams,TD,0
+2159124,10/15/2015,FBS,Kentucky,Auburn,RECEIVING,Stanley,BoomWilliams,LONG,7
+2159125,10/15/2015,FBS,Kentucky,Auburn,KICKING,Austin,MacGinnis,FG-FGA,2/2
+2159126,10/15/2015,FBS,Kentucky,Auburn,KICKING,Austin,MacGinnis,LONG,31
+2159127,10/15/2015,FBS,Kentucky,Auburn,KICKING,Austin,MacGinnis,XP,3
+2159128,10/15/2015,FBS,Kentucky,Auburn,KICKING,Austin,MacGinnis,PTS,9
+2159129,10/15/2015,FBS,Kentucky,Auburn,PUNTING,Landon,Foster,NO,4
+2159130,10/15/2015,FBS,Kentucky,Auburn,PUNTING,Landon,Foster,YDS,143
+2159131,10/15/2015,FBS,Kentucky,Auburn,PUNTING,Landon,Foster,AVG,35.8
+2159132,10/15/2015,FBS,Kentucky,Auburn,PUNTING,Landon,Foster,LONG,42
+2159133,10/15/2015,FBS,Kentucky,Auburn,PUNT RETURNS,Ryan,Timmons,NO,0
+2159134,10/15/2015,FBS,Kentucky,Auburn,PUNT RETURNS,Ryan,Timmons,YDS,0
+2159135,10/15/2015,FBS,Kentucky,Auburn,PUNT RETURNS,Ryan,Timmons,AVG,-
+2159136,10/15/2015,FBS,Kentucky,Auburn,PUNT RETURNS,Ryan,Timmons,LONG,0
+2159137,10/15/2015,FBS,Kentucky,Auburn,KICK RETURNS,Sihiem,King,NO,1
+2159138,10/15/2015,FBS,Kentucky,Auburn,KICK RETURNS,Sihiem,King,YDS,18
+2159139,10/15/2015,FBS,Kentucky,Auburn,KICK RETURNS,Sihiem,King,AVG,18.0
+2159140,10/15/2015,FBS,Kentucky,Auburn,KICK RETURNS,Sihiem,King,LONG,18

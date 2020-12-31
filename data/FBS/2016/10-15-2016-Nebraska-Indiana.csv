@@ -1,0 +1,161 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3039001,10/15/2016,FBS,Nebraska,Indiana,RUSHING,Terrell,Newby,ATT,22
+3039002,10/15/2016,FBS,Nebraska,Indiana,RUSHING,Terrell,Newby,YDS,102
+3039003,10/15/2016,FBS,Nebraska,Indiana,RUSHING,Terrell,Newby,TD,1
+3039004,10/15/2016,FBS,Nebraska,Indiana,RUSHING,Terrell,Newby,LONG,18
+3039005,10/15/2016,FBS,Nebraska,Indiana,RUSHING,Tommy,ArmstrongJr.,ATT,11
+3039006,10/15/2016,FBS,Nebraska,Indiana,RUSHING,Tommy,ArmstrongJr.,YDS,36
+3039007,10/15/2016,FBS,Nebraska,Indiana,RUSHING,Tommy,ArmstrongJr.,TD,0
+3039008,10/15/2016,FBS,Nebraska,Indiana,RUSHING,Tommy,ArmstrongJr.,LONG,12
+3039009,10/15/2016,FBS,Nebraska,Indiana,RUSHING,Brandon,Reilly,ATT,3
+3039010,10/15/2016,FBS,Nebraska,Indiana,RUSHING,Brandon,Reilly,YDS,7
+3039011,10/15/2016,FBS,Nebraska,Indiana,RUSHING,Brandon,Reilly,TD,0
+3039012,10/15/2016,FBS,Nebraska,Indiana,RUSHING,Brandon,Reilly,LONG,6
+3039013,10/15/2016,FBS,Nebraska,Indiana,RUSHING,De'Mornay,Pierson-El,ATT,2
+3039014,10/15/2016,FBS,Nebraska,Indiana,RUSHING,De'Mornay,Pierson-El,YDS,6
+3039015,10/15/2016,FBS,Nebraska,Indiana,RUSHING,De'Mornay,Pierson-El,TD,0
+3039016,10/15/2016,FBS,Nebraska,Indiana,RUSHING,De'Mornay,Pierson-El,LONG,5
+3039017,10/15/2016,FBS,Nebraska,Indiana,RUSHING,Devine,Ozigbo,ATT,1
+3039018,10/15/2016,FBS,Nebraska,Indiana,RUSHING,Devine,Ozigbo,YDS,2
+3039019,10/15/2016,FBS,Nebraska,Indiana,RUSHING,Devine,Ozigbo,TD,0
+3039020,10/15/2016,FBS,Nebraska,Indiana,RUSHING,Devine,Ozigbo,LONG,2
+3039021,10/15/2016,FBS,Nebraska,Indiana,RUSHING,Tre,Bryant,ATT,5
+3039022,10/15/2016,FBS,Nebraska,Indiana,RUSHING,Tre,Bryant,YDS,1
+3039023,10/15/2016,FBS,Nebraska,Indiana,RUSHING,Tre,Bryant,TD,0
+3039024,10/15/2016,FBS,Nebraska,Indiana,RUSHING,Tre,Bryant,LONG,2
+3039025,10/15/2016,FBS,Nebraska,Indiana,RUSHING,,Team,ATT,1
+3039026,10/15/2016,FBS,Nebraska,Indiana,RUSHING,,Team,YDS,-2
+3039027,10/15/2016,FBS,Nebraska,Indiana,RUSHING,,Team,TD,0
+3039028,10/15/2016,FBS,Nebraska,Indiana,RUSHING,,Team,LONG,-2
+3039029,10/15/2016,FBS,Nebraska,Indiana,PASSING,Tommy,ArmstrongJr.,CP-ATT-INT,10-26-2
+3039030,10/15/2016,FBS,Nebraska,Indiana,PASSING,Tommy,ArmstrongJr.,YDS,208
+3039031,10/15/2016,FBS,Nebraska,Indiana,PASSING,Tommy,ArmstrongJr.,TD,1
+3039032,10/15/2016,FBS,Nebraska,Indiana,PASSING,Tommy,ArmstrongJr.,LONG,72
+3039033,10/15/2016,FBS,Nebraska,Indiana,RECEIVING,Stanley,MorganJr.,REC,3
+3039034,10/15/2016,FBS,Nebraska,Indiana,RECEIVING,Stanley,MorganJr.,YDS,93
+3039035,10/15/2016,FBS,Nebraska,Indiana,RECEIVING,Stanley,MorganJr.,TD,1
+3039036,10/15/2016,FBS,Nebraska,Indiana,RECEIVING,Stanley,MorganJr.,LONG,72
+3039037,10/15/2016,FBS,Nebraska,Indiana,RECEIVING,Brandon,Reilly,REC,2
+3039038,10/15/2016,FBS,Nebraska,Indiana,RECEIVING,Brandon,Reilly,YDS,60
+3039039,10/15/2016,FBS,Nebraska,Indiana,RECEIVING,Brandon,Reilly,TD,0
+3039040,10/15/2016,FBS,Nebraska,Indiana,RECEIVING,Brandon,Reilly,LONG,45
+3039041,10/15/2016,FBS,Nebraska,Indiana,RECEIVING,Sam,Cotton,REC,3
+3039042,10/15/2016,FBS,Nebraska,Indiana,RECEIVING,Sam,Cotton,YDS,37
+3039043,10/15/2016,FBS,Nebraska,Indiana,RECEIVING,Sam,Cotton,TD,0
+3039044,10/15/2016,FBS,Nebraska,Indiana,RECEIVING,Sam,Cotton,LONG,17
+3039045,10/15/2016,FBS,Nebraska,Indiana,RECEIVING,Bryan,Reimers,REC,1
+3039046,10/15/2016,FBS,Nebraska,Indiana,RECEIVING,Bryan,Reimers,YDS,17
+3039047,10/15/2016,FBS,Nebraska,Indiana,RECEIVING,Bryan,Reimers,TD,0
+3039048,10/15/2016,FBS,Nebraska,Indiana,RECEIVING,Bryan,Reimers,LONG,17
+3039049,10/15/2016,FBS,Nebraska,Indiana,RECEIVING,Terrell,Newby,REC,1
+3039050,10/15/2016,FBS,Nebraska,Indiana,RECEIVING,Terrell,Newby,YDS,1
+3039051,10/15/2016,FBS,Nebraska,Indiana,RECEIVING,Terrell,Newby,TD,0
+3039052,10/15/2016,FBS,Nebraska,Indiana,RECEIVING,Terrell,Newby,LONG,1
+3039053,10/15/2016,FBS,Nebraska,Indiana,KICKING,Drew,Brown,FG-FGA,2/2
+3039054,10/15/2016,FBS,Nebraska,Indiana,KICKING,Drew,Brown,LONG,40
+3039055,10/15/2016,FBS,Nebraska,Indiana,KICKING,Drew,Brown,XP,3
+3039056,10/15/2016,FBS,Nebraska,Indiana,KICKING,Drew,Brown,PTS,9
+3039057,10/15/2016,FBS,Nebraska,Indiana,PUNTING,Caleb,Lightbourn,NO,5
+3039058,10/15/2016,FBS,Nebraska,Indiana,PUNTING,Caleb,Lightbourn,YDS,189
+3039059,10/15/2016,FBS,Nebraska,Indiana,PUNTING,Caleb,Lightbourn,AVG,31.5
+3039060,10/15/2016,FBS,Nebraska,Indiana,PUNTING,Caleb,Lightbourn,LONG,45
+3039061,10/15/2016,FBS,Nebraska,Indiana,PUNT RETURNS,De'Mornay,Pierson-El,NO,4
+3039062,10/15/2016,FBS,Nebraska,Indiana,PUNT RETURNS,De'Mornay,Pierson-El,YDS,25
+3039063,10/15/2016,FBS,Nebraska,Indiana,PUNT RETURNS,De'Mornay,Pierson-El,AVG,6.2
+3039064,10/15/2016,FBS,Nebraska,Indiana,PUNT RETURNS,De'Mornay,Pierson-El,LONG,15
+3039065,10/15/2016,FBS,Nebraska,Indiana,KICK RETURNS,Tre,Bryant,NO,3
+3039066,10/15/2016,FBS,Nebraska,Indiana,KICK RETURNS,Tre,Bryant,YDS,62
+3039067,10/15/2016,FBS,Nebraska,Indiana,KICK RETURNS,Tre,Bryant,AVG,20.7
+3039068,10/15/2016,FBS,Nebraska,Indiana,KICK RETURNS,Tre,Bryant,LONG,24
+3039069,10/15/2016,FBS,Indiana,Nebraska,RUSHING,Devine,Redding,ATT,11
+3039070,10/15/2016,FBS,Indiana,Nebraska,RUSHING,Devine,Redding,YDS,57
+3039071,10/15/2016,FBS,Indiana,Nebraska,RUSHING,Devine,Redding,TD,1
+3039072,10/15/2016,FBS,Indiana,Nebraska,RUSHING,Devine,Redding,LONG,33
+3039073,10/15/2016,FBS,Indiana,Nebraska,RUSHING,Zander,Diamont,ATT,8
+3039074,10/15/2016,FBS,Indiana,Nebraska,RUSHING,Zander,Diamont,YDS,31
+3039075,10/15/2016,FBS,Indiana,Nebraska,RUSHING,Zander,Diamont,TD,0
+3039076,10/15/2016,FBS,Indiana,Nebraska,RUSHING,Zander,Diamont,LONG,9
+3039077,10/15/2016,FBS,Indiana,Nebraska,RUSHING,Devonte,Williams,ATT,4
+3039078,10/15/2016,FBS,Indiana,Nebraska,RUSHING,Devonte,Williams,YDS,10
+3039079,10/15/2016,FBS,Indiana,Nebraska,RUSHING,Devonte,Williams,TD,0
+3039080,10/15/2016,FBS,Indiana,Nebraska,RUSHING,Devonte,Williams,LONG,6
+3039081,10/15/2016,FBS,Indiana,Nebraska,RUSHING,Mitchell,Paige,ATT,1
+3039082,10/15/2016,FBS,Indiana,Nebraska,RUSHING,Mitchell,Paige,YDS,7
+3039083,10/15/2016,FBS,Indiana,Nebraska,RUSHING,Mitchell,Paige,TD,0
+3039084,10/15/2016,FBS,Indiana,Nebraska,RUSHING,Mitchell,Paige,LONG,7
+3039085,10/15/2016,FBS,Indiana,Nebraska,RUSHING,Mike,Majette,ATT,3
+3039086,10/15/2016,FBS,Indiana,Nebraska,RUSHING,Mike,Majette,YDS,5
+3039087,10/15/2016,FBS,Indiana,Nebraska,RUSHING,Mike,Majette,TD,0
+3039088,10/15/2016,FBS,Indiana,Nebraska,RUSHING,Mike,Majette,LONG,3
+3039089,10/15/2016,FBS,Indiana,Nebraska,RUSHING,Tyler,Natee,ATT,1
+3039090,10/15/2016,FBS,Indiana,Nebraska,RUSHING,Tyler,Natee,YDS,-1
+3039091,10/15/2016,FBS,Indiana,Nebraska,RUSHING,Tyler,Natee,TD,0
+3039092,10/15/2016,FBS,Indiana,Nebraska,RUSHING,Tyler,Natee,LONG,-1
+3039093,10/15/2016,FBS,Indiana,Nebraska,RUSHING,Richard,Lagow,ATT,2
+3039094,10/15/2016,FBS,Indiana,Nebraska,RUSHING,Richard,Lagow,YDS,-21
+3039095,10/15/2016,FBS,Indiana,Nebraska,RUSHING,Richard,Lagow,TD,0
+3039096,10/15/2016,FBS,Indiana,Nebraska,RUSHING,Richard,Lagow,LONG,-8
+3039097,10/15/2016,FBS,Indiana,Nebraska,PASSING,Richard,Lagow,CP-ATT-INT,19-32-2
+3039098,10/15/2016,FBS,Indiana,Nebraska,PASSING,Richard,Lagow,YDS,196
+3039099,10/15/2016,FBS,Indiana,Nebraska,PASSING,Richard,Lagow,TD,1
+3039100,10/15/2016,FBS,Indiana,Nebraska,PASSING,Richard,Lagow,LONG,36
+3039101,10/15/2016,FBS,Indiana,Nebraska,PASSING,Zander,Diamont,CP-ATT-INT,5-7-0
+3039102,10/15/2016,FBS,Indiana,Nebraska,PASSING,Zander,Diamont,YDS,49
+3039103,10/15/2016,FBS,Indiana,Nebraska,PASSING,Zander,Diamont,TD,0
+3039104,10/15/2016,FBS,Indiana,Nebraska,PASSING,Zander,Diamont,LONG,18
+3039105,10/15/2016,FBS,Indiana,Nebraska,RECEIVING,Mitchell,Paige,REC,9
+3039106,10/15/2016,FBS,Indiana,Nebraska,RECEIVING,Mitchell,Paige,YDS,101
+3039107,10/15/2016,FBS,Indiana,Nebraska,RECEIVING,Mitchell,Paige,TD,0
+3039108,10/15/2016,FBS,Indiana,Nebraska,RECEIVING,Mitchell,Paige,LONG,24
+3039109,10/15/2016,FBS,Indiana,Nebraska,RECEIVING,Ricky,Jones,REC,6
+3039110,10/15/2016,FBS,Indiana,Nebraska,RECEIVING,Ricky,Jones,YDS,76
+3039111,10/15/2016,FBS,Indiana,Nebraska,RECEIVING,Ricky,Jones,TD,0
+3039112,10/15/2016,FBS,Indiana,Nebraska,RECEIVING,Ricky,Jones,LONG,36
+3039113,10/15/2016,FBS,Indiana,Nebraska,RECEIVING,Devonte,Williams,REC,2
+3039114,10/15/2016,FBS,Indiana,Nebraska,RECEIVING,Devonte,Williams,YDS,18
+3039115,10/15/2016,FBS,Indiana,Nebraska,RECEIVING,Devonte,Williams,TD,0
+3039116,10/15/2016,FBS,Indiana,Nebraska,RECEIVING,Devonte,Williams,LONG,9
+3039117,10/15/2016,FBS,Indiana,Nebraska,RECEIVING,Donavan,Hale,REC,1
+3039118,10/15/2016,FBS,Indiana,Nebraska,RECEIVING,Donavan,Hale,YDS,18
+3039119,10/15/2016,FBS,Indiana,Nebraska,RECEIVING,Donavan,Hale,TD,0
+3039120,10/15/2016,FBS,Indiana,Nebraska,RECEIVING,Donavan,Hale,LONG,18
+3039121,10/15/2016,FBS,Indiana,Nebraska,RECEIVING,Leon,ThorntonIII,REC,1
+3039122,10/15/2016,FBS,Indiana,Nebraska,RECEIVING,Leon,ThorntonIII,YDS,11
+3039123,10/15/2016,FBS,Indiana,Nebraska,RECEIVING,Leon,ThorntonIII,TD,0
+3039124,10/15/2016,FBS,Indiana,Nebraska,RECEIVING,Leon,ThorntonIII,LONG,11
+3039125,10/15/2016,FBS,Indiana,Nebraska,RECEIVING,Luke,Timian,REC,1
+3039126,10/15/2016,FBS,Indiana,Nebraska,RECEIVING,Luke,Timian,YDS,11
+3039127,10/15/2016,FBS,Indiana,Nebraska,RECEIVING,Luke,Timian,TD,0
+3039128,10/15/2016,FBS,Indiana,Nebraska,RECEIVING,Luke,Timian,LONG,11
+3039129,10/15/2016,FBS,Indiana,Nebraska,RECEIVING,Danny,Friend,REC,1
+3039130,10/15/2016,FBS,Indiana,Nebraska,RECEIVING,Danny,Friend,YDS,6
+3039131,10/15/2016,FBS,Indiana,Nebraska,RECEIVING,Danny,Friend,TD,0
+3039132,10/15/2016,FBS,Indiana,Nebraska,RECEIVING,Danny,Friend,LONG,6
+3039133,10/15/2016,FBS,Indiana,Nebraska,RECEIVING,Devine,Redding,REC,2
+3039134,10/15/2016,FBS,Indiana,Nebraska,RECEIVING,Devine,Redding,YDS,5
+3039135,10/15/2016,FBS,Indiana,Nebraska,RECEIVING,Devine,Redding,TD,1
+3039136,10/15/2016,FBS,Indiana,Nebraska,RECEIVING,Devine,Redding,LONG,4
+3039137,10/15/2016,FBS,Indiana,Nebraska,RECEIVING,Mike,Majette,REC,1
+3039138,10/15/2016,FBS,Indiana,Nebraska,RECEIVING,Mike,Majette,YDS,-1
+3039139,10/15/2016,FBS,Indiana,Nebraska,RECEIVING,Mike,Majette,TD,0
+3039140,10/15/2016,FBS,Indiana,Nebraska,RECEIVING,Mike,Majette,LONG,-1
+3039141,10/15/2016,FBS,Indiana,Nebraska,KICKING,Griffin,Oakes,FG-FGA,2/2
+3039142,10/15/2016,FBS,Indiana,Nebraska,KICKING,Griffin,Oakes,LONG,45
+3039143,10/15/2016,FBS,Indiana,Nebraska,KICKING,Griffin,Oakes,XP,2
+3039144,10/15/2016,FBS,Indiana,Nebraska,KICKING,Griffin,Oakes,PTS,8
+3039145,10/15/2016,FBS,Indiana,Nebraska,PUNTING,Joseph,Gedeon,NO,6
+3039146,10/15/2016,FBS,Indiana,Nebraska,PUNTING,Joseph,Gedeon,YDS,242
+3039147,10/15/2016,FBS,Indiana,Nebraska,PUNTING,Joseph,Gedeon,AVG,40.3
+3039148,10/15/2016,FBS,Indiana,Nebraska,PUNTING,Joseph,Gedeon,LONG,52
+3039149,10/15/2016,FBS,Indiana,Nebraska,PUNT RETURNS,Mitchell,Paige,NO,1
+3039150,10/15/2016,FBS,Indiana,Nebraska,PUNT RETURNS,Mitchell,Paige,YDS,39
+3039151,10/15/2016,FBS,Indiana,Nebraska,PUNT RETURNS,Mitchell,Paige,AVG,39.0
+3039152,10/15/2016,FBS,Indiana,Nebraska,PUNT RETURNS,Mitchell,Paige,LONG,39
+3039153,10/15/2016,FBS,Indiana,Nebraska,PUNT RETURNS,Chase,Dutra,NO,1
+3039154,10/15/2016,FBS,Indiana,Nebraska,PUNT RETURNS,Chase,Dutra,YDS,9
+3039155,10/15/2016,FBS,Indiana,Nebraska,PUNT RETURNS,Chase,Dutra,AVG,9.0
+3039156,10/15/2016,FBS,Indiana,Nebraska,PUNT RETURNS,Chase,Dutra,LONG,9
+3039157,10/15/2016,FBS,Indiana,Nebraska,KICK RETURNS,Devonte,Williams,NO,4
+3039158,10/15/2016,FBS,Indiana,Nebraska,KICK RETURNS,Devonte,Williams,YDS,76
+3039159,10/15/2016,FBS,Indiana,Nebraska,KICK RETURNS,Devonte,Williams,AVG,19.0
+3039160,10/15/2016,FBS,Indiana,Nebraska,KICK RETURNS,Devonte,Williams,LONG,21

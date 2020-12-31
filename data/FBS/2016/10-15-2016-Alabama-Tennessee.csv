@@ -1,0 +1,157 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3085001,10/15/2016,FBS,Alabama,Tennessee,RUSHING,Jalen,Hurts,ATT,12
+3085002,10/15/2016,FBS,Alabama,Tennessee,RUSHING,Jalen,Hurts,YDS,132
+3085003,10/15/2016,FBS,Alabama,Tennessee,RUSHING,Jalen,Hurts,TD,3
+3085004,10/15/2016,FBS,Alabama,Tennessee,RUSHING,Jalen,Hurts,LONG,45
+3085005,10/15/2016,FBS,Alabama,Tennessee,RUSHING,Bo,Scarbrough,ATT,5
+3085006,10/15/2016,FBS,Alabama,Tennessee,RUSHING,Bo,Scarbrough,YDS,109
+3085007,10/15/2016,FBS,Alabama,Tennessee,RUSHING,Bo,Scarbrough,TD,1
+3085008,10/15/2016,FBS,Alabama,Tennessee,RUSHING,Bo,Scarbrough,LONG,85
+3085009,10/15/2016,FBS,Alabama,Tennessee,RUSHING,Damien,Harris,ATT,14
+3085010,10/15/2016,FBS,Alabama,Tennessee,RUSHING,Damien,Harris,YDS,94
+3085011,10/15/2016,FBS,Alabama,Tennessee,RUSHING,Damien,Harris,TD,0
+3085012,10/15/2016,FBS,Alabama,Tennessee,RUSHING,Damien,Harris,LONG,18
+3085013,10/15/2016,FBS,Alabama,Tennessee,RUSHING,Joshua,Jacobs,ATT,6
+3085014,10/15/2016,FBS,Alabama,Tennessee,RUSHING,Joshua,Jacobs,YDS,38
+3085015,10/15/2016,FBS,Alabama,Tennessee,RUSHING,Joshua,Jacobs,TD,0
+3085016,10/15/2016,FBS,Alabama,Tennessee,RUSHING,Joshua,Jacobs,LONG,22
+3085017,10/15/2016,FBS,Alabama,Tennessee,RUSHING,B.J.,Emmons,ATT,9
+3085018,10/15/2016,FBS,Alabama,Tennessee,RUSHING,B.J.,Emmons,YDS,38
+3085019,10/15/2016,FBS,Alabama,Tennessee,RUSHING,B.J.,Emmons,TD,0
+3085020,10/15/2016,FBS,Alabama,Tennessee,RUSHING,B.J.,Emmons,LONG,14
+3085021,10/15/2016,FBS,Alabama,Tennessee,RUSHING,ArDarius,Stewart,ATT,1
+3085022,10/15/2016,FBS,Alabama,Tennessee,RUSHING,ArDarius,Stewart,YDS,29
+3085023,10/15/2016,FBS,Alabama,Tennessee,RUSHING,ArDarius,Stewart,TD,1
+3085024,10/15/2016,FBS,Alabama,Tennessee,RUSHING,ArDarius,Stewart,LONG,29
+3085025,10/15/2016,FBS,Alabama,Tennessee,RUSHING,Cooper,Bateman,ATT,2
+3085026,10/15/2016,FBS,Alabama,Tennessee,RUSHING,Cooper,Bateman,YDS,-2
+3085027,10/15/2016,FBS,Alabama,Tennessee,RUSHING,Cooper,Bateman,TD,0
+3085028,10/15/2016,FBS,Alabama,Tennessee,RUSHING,Cooper,Bateman,LONG,4
+3085029,10/15/2016,FBS,Alabama,Tennessee,PASSING,Jalen,Hurts,CP-ATT-INT,16-26-1
+3085030,10/15/2016,FBS,Alabama,Tennessee,PASSING,Jalen,Hurts,YDS,143
+3085031,10/15/2016,FBS,Alabama,Tennessee,PASSING,Jalen,Hurts,TD,0
+3085032,10/15/2016,FBS,Alabama,Tennessee,PASSING,Jalen,Hurts,LONG,31
+3085033,10/15/2016,FBS,Alabama,Tennessee,PASSING,Cooper,Bateman,CP-ATT-INT,1-1-0
+3085034,10/15/2016,FBS,Alabama,Tennessee,PASSING,Cooper,Bateman,YDS,13
+3085035,10/15/2016,FBS,Alabama,Tennessee,PASSING,Cooper,Bateman,TD,0
+3085036,10/15/2016,FBS,Alabama,Tennessee,PASSING,Cooper,Bateman,LONG,13
+3085037,10/15/2016,FBS,Alabama,Tennessee,RECEIVING,Calvin,Ridley,REC,5
+3085038,10/15/2016,FBS,Alabama,Tennessee,RECEIVING,Calvin,Ridley,YDS,65
+3085039,10/15/2016,FBS,Alabama,Tennessee,RECEIVING,Calvin,Ridley,TD,0
+3085040,10/15/2016,FBS,Alabama,Tennessee,RECEIVING,Calvin,Ridley,LONG,31
+3085041,10/15/2016,FBS,Alabama,Tennessee,RECEIVING,ArDarius,Stewart,REC,8
+3085042,10/15/2016,FBS,Alabama,Tennessee,RECEIVING,ArDarius,Stewart,YDS,54
+3085043,10/15/2016,FBS,Alabama,Tennessee,RECEIVING,ArDarius,Stewart,TD,0
+3085044,10/15/2016,FBS,Alabama,Tennessee,RECEIVING,ArDarius,Stewart,LONG,23
+3085045,10/15/2016,FBS,Alabama,Tennessee,RECEIVING,O.J.,Howard,REC,1
+3085046,10/15/2016,FBS,Alabama,Tennessee,RECEIVING,O.J.,Howard,YDS,23
+3085047,10/15/2016,FBS,Alabama,Tennessee,RECEIVING,O.J.,Howard,TD,0
+3085048,10/15/2016,FBS,Alabama,Tennessee,RECEIVING,O.J.,Howard,LONG,23
+3085049,10/15/2016,FBS,Alabama,Tennessee,RECEIVING,Trevon,Diggs,REC,1
+3085050,10/15/2016,FBS,Alabama,Tennessee,RECEIVING,Trevon,Diggs,YDS,13
+3085051,10/15/2016,FBS,Alabama,Tennessee,RECEIVING,Trevon,Diggs,TD,0
+3085052,10/15/2016,FBS,Alabama,Tennessee,RECEIVING,Trevon,Diggs,LONG,13
+3085053,10/15/2016,FBS,Alabama,Tennessee,RECEIVING,Joshua,Jacobs,REC,1
+3085054,10/15/2016,FBS,Alabama,Tennessee,RECEIVING,Joshua,Jacobs,YDS,8
+3085055,10/15/2016,FBS,Alabama,Tennessee,RECEIVING,Joshua,Jacobs,TD,0
+3085056,10/15/2016,FBS,Alabama,Tennessee,RECEIVING,Joshua,Jacobs,LONG,8
+3085057,10/15/2016,FBS,Alabama,Tennessee,RECEIVING,Damien,Harris,REC,1
+3085058,10/15/2016,FBS,Alabama,Tennessee,RECEIVING,Damien,Harris,YDS,-7
+3085059,10/15/2016,FBS,Alabama,Tennessee,RECEIVING,Damien,Harris,TD,0
+3085060,10/15/2016,FBS,Alabama,Tennessee,RECEIVING,Damien,Harris,LONG,-7
+3085061,10/15/2016,FBS,Alabama,Tennessee,KICKING,Adam,Griffith,FG-FGA,0/1
+3085062,10/15/2016,FBS,Alabama,Tennessee,KICKING,Adam,Griffith,LONG,0
+3085063,10/15/2016,FBS,Alabama,Tennessee,KICKING,Adam,Griffith,XP,7
+3085064,10/15/2016,FBS,Alabama,Tennessee,KICKING,Adam,Griffith,PTS,7
+3085065,10/15/2016,FBS,Alabama,Tennessee,PUNTING,JK,Scott,NO,4
+3085066,10/15/2016,FBS,Alabama,Tennessee,PUNTING,JK,Scott,YDS,200
+3085067,10/15/2016,FBS,Alabama,Tennessee,PUNTING,JK,Scott,AVG,50.0
+3085068,10/15/2016,FBS,Alabama,Tennessee,PUNTING,JK,Scott,LONG,62
+3085069,10/15/2016,FBS,Alabama,Tennessee,PUNT RETURNS,Eddie,Jackson,NO,4
+3085070,10/15/2016,FBS,Alabama,Tennessee,PUNT RETURNS,Eddie,Jackson,YDS,108
+3085071,10/15/2016,FBS,Alabama,Tennessee,PUNT RETURNS,Eddie,Jackson,AVG,27.0
+3085072,10/15/2016,FBS,Alabama,Tennessee,PUNT RETURNS,Eddie,Jackson,LONG,79
+3085073,10/15/2016,FBS,Alabama,Tennessee,KICK RETURNS,B.J.,Emmons,NO,1
+3085074,10/15/2016,FBS,Alabama,Tennessee,KICK RETURNS,B.J.,Emmons,YDS,26
+3085075,10/15/2016,FBS,Alabama,Tennessee,KICK RETURNS,B.J.,Emmons,AVG,26.0
+3085076,10/15/2016,FBS,Alabama,Tennessee,KICK RETURNS,B.J.,Emmons,LONG,26
+3085077,10/15/2016,FBS,Tennessee,Alabama,RUSHING,Jalen,Hurd,ATT,13
+3085078,10/15/2016,FBS,Tennessee,Alabama,RUSHING,Jalen,Hurd,YDS,28
+3085079,10/15/2016,FBS,Tennessee,Alabama,RUSHING,Jalen,Hurd,TD,0
+3085080,10/15/2016,FBS,Tennessee,Alabama,RUSHING,Jalen,Hurd,LONG,12
+3085081,10/15/2016,FBS,Tennessee,Alabama,RUSHING,Alvin,Kamara,ATT,8
+3085082,10/15/2016,FBS,Tennessee,Alabama,RUSHING,Alvin,Kamara,YDS,21
+3085083,10/15/2016,FBS,Tennessee,Alabama,RUSHING,Alvin,Kamara,TD,1
+3085084,10/15/2016,FBS,Tennessee,Alabama,RUSHING,Alvin,Kamara,LONG,8
+3085085,10/15/2016,FBS,Tennessee,Alabama,RUSHING,John,Kelly,ATT,3
+3085086,10/15/2016,FBS,Tennessee,Alabama,RUSHING,John,Kelly,YDS,8
+3085087,10/15/2016,FBS,Tennessee,Alabama,RUSHING,John,Kelly,TD,0
+3085088,10/15/2016,FBS,Tennessee,Alabama,RUSHING,John,Kelly,LONG,5
+3085089,10/15/2016,FBS,Tennessee,Alabama,RUSHING,Tyler,Byrd,ATT,1
+3085090,10/15/2016,FBS,Tennessee,Alabama,RUSHING,Tyler,Byrd,YDS,6
+3085091,10/15/2016,FBS,Tennessee,Alabama,RUSHING,Tyler,Byrd,TD,0
+3085092,10/15/2016,FBS,Tennessee,Alabama,RUSHING,Tyler,Byrd,LONG,6
+3085093,10/15/2016,FBS,Tennessee,Alabama,RUSHING,Joshua,Dobbs,ATT,7
+3085094,10/15/2016,FBS,Tennessee,Alabama,RUSHING,Joshua,Dobbs,YDS,-31
+3085095,10/15/2016,FBS,Tennessee,Alabama,RUSHING,Joshua,Dobbs,TD,0
+3085096,10/15/2016,FBS,Tennessee,Alabama,RUSHING,Joshua,Dobbs,LONG,4
+3085097,10/15/2016,FBS,Tennessee,Alabama,PASSING,Joshua,Dobbs,CP-ATT-INT,16-27-1
+3085098,10/15/2016,FBS,Tennessee,Alabama,PASSING,Joshua,Dobbs,YDS,92
+3085099,10/15/2016,FBS,Tennessee,Alabama,PASSING,Joshua,Dobbs,TD,0
+3085100,10/15/2016,FBS,Tennessee,Alabama,PASSING,Joshua,Dobbs,LONG,16
+3085101,10/15/2016,FBS,Tennessee,Alabama,PASSING,Quinten,Dormady,CP-ATT-INT,2-4-0
+3085102,10/15/2016,FBS,Tennessee,Alabama,PASSING,Quinten,Dormady,YDS,39
+3085103,10/15/2016,FBS,Tennessee,Alabama,PASSING,Quinten,Dormady,TD,0
+3085104,10/15/2016,FBS,Tennessee,Alabama,PASSING,Quinten,Dormady,LONG,36
+3085105,10/15/2016,FBS,Tennessee,Alabama,RECEIVING,Josh,Malone,REC,5
+3085106,10/15/2016,FBS,Tennessee,Alabama,RECEIVING,Josh,Malone,YDS,61
+3085107,10/15/2016,FBS,Tennessee,Alabama,RECEIVING,Josh,Malone,TD,0
+3085108,10/15/2016,FBS,Tennessee,Alabama,RECEIVING,Josh,Malone,LONG,36
+3085109,10/15/2016,FBS,Tennessee,Alabama,RECEIVING,Ethan,Wolf,REC,2
+3085110,10/15/2016,FBS,Tennessee,Alabama,RECEIVING,Ethan,Wolf,YDS,30
+3085111,10/15/2016,FBS,Tennessee,Alabama,RECEIVING,Ethan,Wolf,TD,0
+3085112,10/15/2016,FBS,Tennessee,Alabama,RECEIVING,Ethan,Wolf,LONG,16
+3085113,10/15/2016,FBS,Tennessee,Alabama,RECEIVING,Jauan,Jennings,REC,3
+3085114,10/15/2016,FBS,Tennessee,Alabama,RECEIVING,Jauan,Jennings,YDS,20
+3085115,10/15/2016,FBS,Tennessee,Alabama,RECEIVING,Jauan,Jennings,TD,0
+3085116,10/15/2016,FBS,Tennessee,Alabama,RECEIVING,Jauan,Jennings,LONG,11
+3085117,10/15/2016,FBS,Tennessee,Alabama,RECEIVING,Josh,Smith,REC,1
+3085118,10/15/2016,FBS,Tennessee,Alabama,RECEIVING,Josh,Smith,YDS,10
+3085119,10/15/2016,FBS,Tennessee,Alabama,RECEIVING,Josh,Smith,TD,0
+3085120,10/15/2016,FBS,Tennessee,Alabama,RECEIVING,Josh,Smith,LONG,10
+3085121,10/15/2016,FBS,Tennessee,Alabama,RECEIVING,Alvin,Kamara,REC,2
+3085122,10/15/2016,FBS,Tennessee,Alabama,RECEIVING,Alvin,Kamara,YDS,7
+3085123,10/15/2016,FBS,Tennessee,Alabama,RECEIVING,Alvin,Kamara,TD,0
+3085124,10/15/2016,FBS,Tennessee,Alabama,RECEIVING,Alvin,Kamara,LONG,4
+3085125,10/15/2016,FBS,Tennessee,Alabama,RECEIVING,John,Kelly,REC,1
+3085126,10/15/2016,FBS,Tennessee,Alabama,RECEIVING,John,Kelly,YDS,3
+3085127,10/15/2016,FBS,Tennessee,Alabama,RECEIVING,John,Kelly,TD,0
+3085128,10/15/2016,FBS,Tennessee,Alabama,RECEIVING,John,Kelly,LONG,3
+3085129,10/15/2016,FBS,Tennessee,Alabama,RECEIVING,Tyler,Byrd,REC,1
+3085130,10/15/2016,FBS,Tennessee,Alabama,RECEIVING,Tyler,Byrd,YDS,1
+3085131,10/15/2016,FBS,Tennessee,Alabama,RECEIVING,Tyler,Byrd,TD,0
+3085132,10/15/2016,FBS,Tennessee,Alabama,RECEIVING,Tyler,Byrd,LONG,1
+3085133,10/15/2016,FBS,Tennessee,Alabama,RECEIVING,Jalen,Hurd,REC,3
+3085134,10/15/2016,FBS,Tennessee,Alabama,RECEIVING,Jalen,Hurd,YDS,-1
+3085135,10/15/2016,FBS,Tennessee,Alabama,RECEIVING,Jalen,Hurd,TD,0
+3085136,10/15/2016,FBS,Tennessee,Alabama,RECEIVING,Jalen,Hurd,LONG,6
+3085137,10/15/2016,FBS,Tennessee,Alabama,KICKING,Aaron,Medley,FG-FGA,1/1
+3085138,10/15/2016,FBS,Tennessee,Alabama,KICKING,Aaron,Medley,LONG,37
+3085139,10/15/2016,FBS,Tennessee,Alabama,KICKING,Aaron,Medley,XP,1
+3085140,10/15/2016,FBS,Tennessee,Alabama,KICKING,Aaron,Medley,PTS,4
+3085141,10/15/2016,FBS,Tennessee,Alabama,PUNTING,Trevor,Daniel,NO,10
+3085142,10/15/2016,FBS,Tennessee,Alabama,PUNTING,Trevor,Daniel,YDS,483
+3085143,10/15/2016,FBS,Tennessee,Alabama,PUNTING,Trevor,Daniel,AVG,48.3
+3085144,10/15/2016,FBS,Tennessee,Alabama,PUNTING,Trevor,Daniel,LONG,60
+3085145,10/15/2016,FBS,Tennessee,Alabama,PUNT RETURNS,Alvin,Kamara,NO,2
+3085146,10/15/2016,FBS,Tennessee,Alabama,PUNT RETURNS,Alvin,Kamara,YDS,60
+3085147,10/15/2016,FBS,Tennessee,Alabama,PUNT RETURNS,Alvin,Kamara,AVG,30.0
+3085148,10/15/2016,FBS,Tennessee,Alabama,PUNT RETURNS,Alvin,Kamara,LONG,32
+3085149,10/15/2016,FBS,Tennessee,Alabama,KICK RETURNS,Evan,Berry,NO,3
+3085150,10/15/2016,FBS,Tennessee,Alabama,KICK RETURNS,Evan,Berry,YDS,91
+3085151,10/15/2016,FBS,Tennessee,Alabama,KICK RETURNS,Evan,Berry,AVG,30.3
+3085152,10/15/2016,FBS,Tennessee,Alabama,KICK RETURNS,Evan,Berry,LONG,38
+3085153,10/15/2016,FBS,Tennessee,Alabama,KICK RETURNS,Tyler,Byrd,NO,1
+3085154,10/15/2016,FBS,Tennessee,Alabama,KICK RETURNS,Tyler,Byrd,YDS,25
+3085155,10/15/2016,FBS,Tennessee,Alabama,KICK RETURNS,Tyler,Byrd,AVG,25.0
+3085156,10/15/2016,FBS,Tennessee,Alabama,KICK RETURNS,Tyler,Byrd,LONG,25

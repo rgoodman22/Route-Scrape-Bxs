@@ -1,0 +1,190 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+5081001,11/10/2018,FBS,South Fla.,Cincinnati,RUSHING,Johnny,Ford,ATT,10
+5081002,11/10/2018,FBS,South Fla.,Cincinnati,RUSHING,Johnny,Ford,YDS,63
+5081003,11/10/2018,FBS,South Fla.,Cincinnati,RUSHING,Johnny,Ford,TD,0
+5081004,11/10/2018,FBS,South Fla.,Cincinnati,RUSHING,Johnny,Ford,LONG,22
+5081005,11/10/2018,FBS,South Fla.,Cincinnati,RUSHING,Jordan,Cronkrite,ATT,10
+5081006,11/10/2018,FBS,South Fla.,Cincinnati,RUSHING,Jordan,Cronkrite,YDS,36
+5081007,11/10/2018,FBS,South Fla.,Cincinnati,RUSHING,Jordan,Cronkrite,TD,0
+5081008,11/10/2018,FBS,South Fla.,Cincinnati,RUSHING,Jordan,Cronkrite,LONG,12
+5081009,11/10/2018,FBS,South Fla.,Cincinnati,RUSHING,Chris,Oladokun,ATT,9
+5081010,11/10/2018,FBS,South Fla.,Cincinnati,RUSHING,Chris,Oladokun,YDS,-18
+5081011,11/10/2018,FBS,South Fla.,Cincinnati,RUSHING,Chris,Oladokun,TD,0
+5081012,11/10/2018,FBS,South Fla.,Cincinnati,RUSHING,Chris,Oladokun,LONG,9
+5081013,11/10/2018,FBS,South Fla.,Cincinnati,PASSING,Chris,Oladokun,CP-ATT-INT,10-22-0
+5081014,11/10/2018,FBS,South Fla.,Cincinnati,PASSING,Chris,Oladokun,YDS,165
+5081015,11/10/2018,FBS,South Fla.,Cincinnati,PASSING,Chris,Oladokun,TD,2
+5081016,11/10/2018,FBS,South Fla.,Cincinnati,PASSING,Chris,Oladokun,LONG,72
+5081017,11/10/2018,FBS,South Fla.,Cincinnati,PASSING,Brett,Kean,CP-ATT-INT,4-10-0
+5081018,11/10/2018,FBS,South Fla.,Cincinnati,PASSING,Brett,Kean,YDS,67
+5081019,11/10/2018,FBS,South Fla.,Cincinnati,PASSING,Brett,Kean,TD,1
+5081020,11/10/2018,FBS,South Fla.,Cincinnati,PASSING,Brett,Kean,LONG,38
+5081021,11/10/2018,FBS,South Fla.,Cincinnati,RECEIVING,Mitchell,Wilcox,REC,7
+5081022,11/10/2018,FBS,South Fla.,Cincinnati,RECEIVING,Mitchell,Wilcox,YDS,90
+5081023,11/10/2018,FBS,South Fla.,Cincinnati,RECEIVING,Mitchell,Wilcox,TD,1
+5081024,11/10/2018,FBS,South Fla.,Cincinnati,RECEIVING,Mitchell,Wilcox,LONG,38
+5081025,11/10/2018,FBS,South Fla.,Cincinnati,RECEIVING,Ryeshene,Bronson,REC,3
+5081026,11/10/2018,FBS,South Fla.,Cincinnati,RECEIVING,Ryeshene,Bronson,YDS,89
+5081027,11/10/2018,FBS,South Fla.,Cincinnati,RECEIVING,Ryeshene,Bronson,TD,1
+5081028,11/10/2018,FBS,South Fla.,Cincinnati,RECEIVING,Ryeshene,Bronson,LONG,72
+5081029,11/10/2018,FBS,South Fla.,Cincinnati,RECEIVING,Tyre,McCants,REC,2
+5081030,11/10/2018,FBS,South Fla.,Cincinnati,RECEIVING,Tyre,McCants,YDS,29
+5081031,11/10/2018,FBS,South Fla.,Cincinnati,RECEIVING,Tyre,McCants,TD,1
+5081032,11/10/2018,FBS,South Fla.,Cincinnati,RECEIVING,Tyre,McCants,LONG,25
+5081033,11/10/2018,FBS,South Fla.,Cincinnati,RECEIVING,Randall,St.Felix,REC,2
+5081034,11/10/2018,FBS,South Fla.,Cincinnati,RECEIVING,Randall,St.Felix,YDS,24
+5081035,11/10/2018,FBS,South Fla.,Cincinnati,RECEIVING,Randall,St.Felix,TD,0
+5081036,11/10/2018,FBS,South Fla.,Cincinnati,RECEIVING,Randall,St.Felix,LONG,24
+5081037,11/10/2018,FBS,South Fla.,Cincinnati,KICKING,Coby,Weiss,FG-FGA,1/1
+5081038,11/10/2018,FBS,South Fla.,Cincinnati,KICKING,Coby,Weiss,LONG,37
+5081039,11/10/2018,FBS,South Fla.,Cincinnati,KICKING,Coby,Weiss,XP,2
+5081040,11/10/2018,FBS,South Fla.,Cincinnati,KICKING,Coby,Weiss,PTS,5
+5081041,11/10/2018,FBS,South Fla.,Cincinnati,PUNTING,Trent,Schneider,NO,10
+5081042,11/10/2018,FBS,South Fla.,Cincinnati,PUNTING,Trent,Schneider,YDS,367
+5081043,11/10/2018,FBS,South Fla.,Cincinnati,PUNTING,Trent,Schneider,AVG,36.7
+5081044,11/10/2018,FBS,South Fla.,Cincinnati,PUNTING,Trent,Schneider,LONG,44
+5081045,11/10/2018,FBS,South Fla.,Cincinnati,PUNT RETURNS,Tyre,McCants,NO,1
+5081046,11/10/2018,FBS,South Fla.,Cincinnati,PUNT RETURNS,Tyre,McCants,YDS,9
+5081047,11/10/2018,FBS,South Fla.,Cincinnati,PUNT RETURNS,Tyre,McCants,AVG,9.0
+5081048,11/10/2018,FBS,South Fla.,Cincinnati,PUNT RETURNS,Tyre,McCants,LONG,9
+5081049,11/10/2018,FBS,South Fla.,Cincinnati,KICK RETURNS,Bentlee,Sanders,NO,2
+5081050,11/10/2018,FBS,South Fla.,Cincinnati,KICK RETURNS,Bentlee,Sanders,YDS,83
+5081051,11/10/2018,FBS,South Fla.,Cincinnati,KICK RETURNS,Bentlee,Sanders,AVG,41.5
+5081052,11/10/2018,FBS,South Fla.,Cincinnati,KICK RETURNS,Bentlee,Sanders,LONG,62
+5081053,11/10/2018,FBS,South Fla.,Cincinnati,KICK RETURNS,Deangelo,Antoine,NO,2
+5081054,11/10/2018,FBS,South Fla.,Cincinnati,KICK RETURNS,Deangelo,Antoine,YDS,10
+5081055,11/10/2018,FBS,South Fla.,Cincinnati,KICK RETURNS,Deangelo,Antoine,AVG,5.0
+5081056,11/10/2018,FBS,South Fla.,Cincinnati,KICK RETURNS,Deangelo,Antoine,LONG,7
+5081057,11/10/2018,FBS,South Fla.,Cincinnati,KICK RETURNS,Mitchell,Wilcox,NO,0
+5081058,11/10/2018,FBS,South Fla.,Cincinnati,KICK RETURNS,Mitchell,Wilcox,YDS,0
+5081059,11/10/2018,FBS,South Fla.,Cincinnati,KICK RETURNS,Mitchell,Wilcox,AVG,-
+5081060,11/10/2018,FBS,South Fla.,Cincinnati,KICK RETURNS,Mitchell,Wilcox,LONG,0
+5081061,11/10/2018,FBS,South Fla.,Cincinnati,KICK RETURNS,Jernard,Phillips,NO,0
+5081062,11/10/2018,FBS,South Fla.,Cincinnati,KICK RETURNS,Jernard,Phillips,YDS,0
+5081063,11/10/2018,FBS,South Fla.,Cincinnati,KICK RETURNS,Jernard,Phillips,AVG,-
+5081064,11/10/2018,FBS,South Fla.,Cincinnati,KICK RETURNS,Jernard,Phillips,LONG,0
+5081065,11/10/2018,FBS,South Fla.,Cincinnati,DEFENSE,Kevin,Bronson,TOT,1
+5081066,11/10/2018,FBS,South Fla.,Cincinnati,DEFENSE,Kevin,Bronson,SOLO,1
+5081067,11/10/2018,FBS,South Fla.,Cincinnati,DEFENSE,Kevin,Bronson,SACKS,1.0
+5081068,11/10/2018,FBS,South Fla.,Cincinnati,DEFENSE,Kevin,Bronson,TFL,1
+5081069,11/10/2018,FBS,South Fla.,Cincinnati,DEFENSE,Kevin,Bronson,INT,0
+5081070,11/10/2018,FBS,South Fla.,Cincinnati,DEFENSE,Kevin,Bronson,FF,0
+5081071,11/10/2018,FBS,South Fla.,Cincinnati,DEFENSE,Kevin,Bronson,FR,0
+5081072,11/10/2018,FBS,South Fla.,Cincinnati,DEFENSE,Kelvin,PinkneyJr.,TOT,1
+5081073,11/10/2018,FBS,South Fla.,Cincinnati,DEFENSE,Kelvin,PinkneyJr.,SOLO,1
+5081074,11/10/2018,FBS,South Fla.,Cincinnati,DEFENSE,Kelvin,PinkneyJr.,SACKS,1.0
+5081075,11/10/2018,FBS,South Fla.,Cincinnati,DEFENSE,Kelvin,PinkneyJr.,TFL,1
+5081076,11/10/2018,FBS,South Fla.,Cincinnati,DEFENSE,Kelvin,PinkneyJr.,INT,0
+5081077,11/10/2018,FBS,South Fla.,Cincinnati,DEFENSE,Kelvin,PinkneyJr.,FF,1
+5081078,11/10/2018,FBS,South Fla.,Cincinnati,DEFENSE,Kelvin,PinkneyJr.,FR,0
+5081079,11/10/2018,FBS,South Fla.,Cincinnati,DEFENSE,Juwuan,Brown,TOT,1
+5081080,11/10/2018,FBS,South Fla.,Cincinnati,DEFENSE,Juwuan,Brown,SOLO,1
+5081081,11/10/2018,FBS,South Fla.,Cincinnati,DEFENSE,Juwuan,Brown,SACKS,1.0
+5081082,11/10/2018,FBS,South Fla.,Cincinnati,DEFENSE,Juwuan,Brown,TFL,1
+5081083,11/10/2018,FBS,South Fla.,Cincinnati,DEFENSE,Juwuan,Brown,INT,0
+5081084,11/10/2018,FBS,South Fla.,Cincinnati,DEFENSE,Juwuan,Brown,FF,0
+5081085,11/10/2018,FBS,South Fla.,Cincinnati,DEFENSE,Juwuan,Brown,FR,0
+5081086,11/10/2018,FBS,South Fla.,Cincinnati,DEFENSE,Josh,Black,TOT,0
+5081087,11/10/2018,FBS,South Fla.,Cincinnati,DEFENSE,Josh,Black,SOLO,0
+5081088,11/10/2018,FBS,South Fla.,Cincinnati,DEFENSE,Josh,Black,SACKS,0.0
+5081089,11/10/2018,FBS,South Fla.,Cincinnati,DEFENSE,Josh,Black,TFL,0
+5081090,11/10/2018,FBS,South Fla.,Cincinnati,DEFENSE,Josh,Black,INT,0
+5081091,11/10/2018,FBS,South Fla.,Cincinnati,DEFENSE,Josh,Black,FF,0
+5081092,11/10/2018,FBS,South Fla.,Cincinnati,DEFENSE,Josh,Black,FR,1
+5081093,11/10/2018,FBS,Cincinnati,South Fla.,RUSHING,Michael,Warren,ATT,28
+5081094,11/10/2018,FBS,Cincinnati,South Fla.,RUSHING,Michael,Warren,YDS,151
+5081095,11/10/2018,FBS,Cincinnati,South Fla.,RUSHING,Michael,Warren,TD,3
+5081096,11/10/2018,FBS,Cincinnati,South Fla.,RUSHING,Michael,Warren,LONG,57
+5081097,11/10/2018,FBS,Cincinnati,South Fla.,RUSHING,Desmond,Ridder,ATT,18
+5081098,11/10/2018,FBS,Cincinnati,South Fla.,RUSHING,Desmond,Ridder,YDS,60
+5081099,11/10/2018,FBS,Cincinnati,South Fla.,RUSHING,Desmond,Ridder,TD,0
+5081100,11/10/2018,FBS,Cincinnati,South Fla.,RUSHING,Desmond,Ridder,LONG,20
+5081101,11/10/2018,FBS,Cincinnati,South Fla.,RUSHING,Charles,McClelland,ATT,5
+5081102,11/10/2018,FBS,Cincinnati,South Fla.,RUSHING,Charles,McClelland,YDS,29
+5081103,11/10/2018,FBS,Cincinnati,South Fla.,RUSHING,Charles,McClelland,TD,0
+5081104,11/10/2018,FBS,Cincinnati,South Fla.,RUSHING,Charles,McClelland,LONG,17
+5081105,11/10/2018,FBS,Cincinnati,South Fla.,RUSHING,Jakari,Robinson,ATT,0
+5081106,11/10/2018,FBS,Cincinnati,South Fla.,RUSHING,Jakari,Robinson,YDS,0
+5081107,11/10/2018,FBS,Cincinnati,South Fla.,RUSHING,Jakari,Robinson,TD,0
+5081108,11/10/2018,FBS,Cincinnati,South Fla.,RUSHING,Jakari,Robinson,LONG,0
+5081109,11/10/2018,FBS,Cincinnati,South Fla.,RUSHING,,Team,ATT,1
+5081110,11/10/2018,FBS,Cincinnati,South Fla.,RUSHING,,Team,YDS,-2
+5081111,11/10/2018,FBS,Cincinnati,South Fla.,RUSHING,,Team,TD,0
+5081112,11/10/2018,FBS,Cincinnati,South Fla.,RUSHING,,Team,LONG,-2
+5081113,11/10/2018,FBS,Cincinnati,South Fla.,PASSING,Desmond,Ridder,CP-ATT-INT,17-24-0
+5081114,11/10/2018,FBS,Cincinnati,South Fla.,PASSING,Desmond,Ridder,YDS,194
+5081115,11/10/2018,FBS,Cincinnati,South Fla.,PASSING,Desmond,Ridder,TD,2
+5081116,11/10/2018,FBS,Cincinnati,South Fla.,PASSING,Desmond,Ridder,LONG,43
+5081117,11/10/2018,FBS,Cincinnati,South Fla.,RECEIVING,Rashad,Medaris,REC,4
+5081118,11/10/2018,FBS,Cincinnati,South Fla.,RECEIVING,Rashad,Medaris,YDS,92
+5081119,11/10/2018,FBS,Cincinnati,South Fla.,RECEIVING,Rashad,Medaris,TD,0
+5081120,11/10/2018,FBS,Cincinnati,South Fla.,RECEIVING,Rashad,Medaris,LONG,43
+5081121,11/10/2018,FBS,Cincinnati,South Fla.,RECEIVING,Kahlil,Lewis,REC,5
+5081122,11/10/2018,FBS,Cincinnati,South Fla.,RECEIVING,Kahlil,Lewis,YDS,37
+5081123,11/10/2018,FBS,Cincinnati,South Fla.,RECEIVING,Kahlil,Lewis,TD,1
+5081124,11/10/2018,FBS,Cincinnati,South Fla.,RECEIVING,Kahlil,Lewis,LONG,16
+5081125,11/10/2018,FBS,Cincinnati,South Fla.,RECEIVING,Michael,Warren,REC,2
+5081126,11/10/2018,FBS,Cincinnati,South Fla.,RECEIVING,Michael,Warren,YDS,27
+5081127,11/10/2018,FBS,Cincinnati,South Fla.,RECEIVING,Michael,Warren,TD,1
+5081128,11/10/2018,FBS,Cincinnati,South Fla.,RECEIVING,Michael,Warren,LONG,14
+5081129,11/10/2018,FBS,Cincinnati,South Fla.,RECEIVING,Josiah,Deguara,REC,2
+5081130,11/10/2018,FBS,Cincinnati,South Fla.,RECEIVING,Josiah,Deguara,YDS,14
+5081131,11/10/2018,FBS,Cincinnati,South Fla.,RECEIVING,Josiah,Deguara,TD,0
+5081132,11/10/2018,FBS,Cincinnati,South Fla.,RECEIVING,Josiah,Deguara,LONG,13
+5081133,11/10/2018,FBS,Cincinnati,South Fla.,RECEIVING,Jayshon,Jackson,REC,2
+5081134,11/10/2018,FBS,Cincinnati,South Fla.,RECEIVING,Jayshon,Jackson,YDS,13
+5081135,11/10/2018,FBS,Cincinnati,South Fla.,RECEIVING,Jayshon,Jackson,TD,0
+5081136,11/10/2018,FBS,Cincinnati,South Fla.,RECEIVING,Jayshon,Jackson,LONG,11
+5081137,11/10/2018,FBS,Cincinnati,South Fla.,RECEIVING,Thomas,Geddis,REC,1
+5081138,11/10/2018,FBS,Cincinnati,South Fla.,RECEIVING,Thomas,Geddis,YDS,7
+5081139,11/10/2018,FBS,Cincinnati,South Fla.,RECEIVING,Thomas,Geddis,TD,0
+5081140,11/10/2018,FBS,Cincinnati,South Fla.,RECEIVING,Thomas,Geddis,LONG,7
+5081141,11/10/2018,FBS,Cincinnati,South Fla.,RECEIVING,Jerron,Rollins,REC,1
+5081142,11/10/2018,FBS,Cincinnati,South Fla.,RECEIVING,Jerron,Rollins,YDS,4
+5081143,11/10/2018,FBS,Cincinnati,South Fla.,RECEIVING,Jerron,Rollins,TD,0
+5081144,11/10/2018,FBS,Cincinnati,South Fla.,RECEIVING,Jerron,Rollins,LONG,4
+5081145,11/10/2018,FBS,Cincinnati,South Fla.,KICKING,Cole,Smith,FG-FGA,0/1
+5081146,11/10/2018,FBS,Cincinnati,South Fla.,KICKING,Cole,Smith,LONG,0
+5081147,11/10/2018,FBS,Cincinnati,South Fla.,KICKING,Cole,Smith,XP,5
+5081148,11/10/2018,FBS,Cincinnati,South Fla.,KICKING,Cole,Smith,PTS,5
+5081149,11/10/2018,FBS,Cincinnati,South Fla.,PUNTING,James,Smith,NO,5
+5081150,11/10/2018,FBS,Cincinnati,South Fla.,PUNTING,James,Smith,YDS,246
+5081151,11/10/2018,FBS,Cincinnati,South Fla.,PUNTING,James,Smith,AVG,49.2
+5081152,11/10/2018,FBS,Cincinnati,South Fla.,PUNTING,James,Smith,LONG,64
+5081153,11/10/2018,FBS,Cincinnati,South Fla.,PUNT RETURNS,Aulden,Knight,NO,2
+5081154,11/10/2018,FBS,Cincinnati,South Fla.,PUNT RETURNS,Aulden,Knight,YDS,24
+5081155,11/10/2018,FBS,Cincinnati,South Fla.,PUNT RETURNS,Aulden,Knight,AVG,12.0
+5081156,11/10/2018,FBS,Cincinnati,South Fla.,PUNT RETURNS,Aulden,Knight,LONG,21
+5081157,11/10/2018,FBS,Cincinnati,South Fla.,KICK RETURNS,James,Wiggins,NO,3
+5081158,11/10/2018,FBS,Cincinnati,South Fla.,KICK RETURNS,James,Wiggins,YDS,41
+5081159,11/10/2018,FBS,Cincinnati,South Fla.,KICK RETURNS,James,Wiggins,AVG,13.7
+5081160,11/10/2018,FBS,Cincinnati,South Fla.,KICK RETURNS,James,Wiggins,LONG,19
+5081161,11/10/2018,FBS,Cincinnati,South Fla.,KICK RETURNS,Joel,Dublanko,NO,1
+5081162,11/10/2018,FBS,Cincinnati,South Fla.,KICK RETURNS,Joel,Dublanko,YDS,17
+5081163,11/10/2018,FBS,Cincinnati,South Fla.,KICK RETURNS,Joel,Dublanko,AVG,17.0
+5081164,11/10/2018,FBS,Cincinnati,South Fla.,KICK RETURNS,Joel,Dublanko,LONG,17
+5081165,11/10/2018,FBS,Cincinnati,South Fla.,KICK RETURNS,Charles,McClelland,NO,1
+5081166,11/10/2018,FBS,Cincinnati,South Fla.,KICK RETURNS,Charles,McClelland,YDS,8
+5081167,11/10/2018,FBS,Cincinnati,South Fla.,KICK RETURNS,Charles,McClelland,AVG,8.0
+5081168,11/10/2018,FBS,Cincinnati,South Fla.,KICK RETURNS,Charles,McClelland,LONG,8
+5081169,11/10/2018,FBS,Cincinnati,South Fla.,DEFENSE,Kimoni,Fitz,TOT,1
+5081170,11/10/2018,FBS,Cincinnati,South Fla.,DEFENSE,Kimoni,Fitz,SOLO,1
+5081171,11/10/2018,FBS,Cincinnati,South Fla.,DEFENSE,Kimoni,Fitz,SACKS,1.0
+5081172,11/10/2018,FBS,Cincinnati,South Fla.,DEFENSE,Kimoni,Fitz,TFL,1
+5081173,11/10/2018,FBS,Cincinnati,South Fla.,DEFENSE,Kimoni,Fitz,INT,0
+5081174,11/10/2018,FBS,Cincinnati,South Fla.,DEFENSE,Kimoni,Fitz,FF,0
+5081175,11/10/2018,FBS,Cincinnati,South Fla.,DEFENSE,Kimoni,Fitz,FR,0
+5081176,11/10/2018,FBS,Cincinnati,South Fla.,DEFENSE,Michael,Pitts,TOT,2
+5081177,11/10/2018,FBS,Cincinnati,South Fla.,DEFENSE,Michael,Pitts,SOLO,1
+5081178,11/10/2018,FBS,Cincinnati,South Fla.,DEFENSE,Michael,Pitts,SACKS,1.5
+5081179,11/10/2018,FBS,Cincinnati,South Fla.,DEFENSE,Michael,Pitts,TFL,1
+5081180,11/10/2018,FBS,Cincinnati,South Fla.,DEFENSE,Michael,Pitts,INT,0
+5081181,11/10/2018,FBS,Cincinnati,South Fla.,DEFENSE,Michael,Pitts,FF,0
+5081182,11/10/2018,FBS,Cincinnati,South Fla.,DEFENSE,Michael,Pitts,FR,0
+5081183,11/10/2018,FBS,Cincinnati,South Fla.,DEFENSE,Bryan,Wright,TOT,2
+5081184,11/10/2018,FBS,Cincinnati,South Fla.,DEFENSE,Bryan,Wright,SOLO,1
+5081185,11/10/2018,FBS,Cincinnati,South Fla.,DEFENSE,Bryan,Wright,SACKS,1.5
+5081186,11/10/2018,FBS,Cincinnati,South Fla.,DEFENSE,Bryan,Wright,TFL,1
+5081187,11/10/2018,FBS,Cincinnati,South Fla.,DEFENSE,Bryan,Wright,INT,0
+5081188,11/10/2018,FBS,Cincinnati,South Fla.,DEFENSE,Bryan,Wright,FF,0
+5081189,11/10/2018,FBS,Cincinnati,South Fla.,DEFENSE,Bryan,Wright,FR,0

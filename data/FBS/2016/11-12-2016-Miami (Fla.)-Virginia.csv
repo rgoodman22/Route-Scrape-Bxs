@@ -1,0 +1,141 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3299001,11/12/2016,FBS,Miami (Fla.),Virginia,RUSHING,Mark,Walton,ATT,16
+3299002,11/12/2016,FBS,Miami (Fla.),Virginia,RUSHING,Mark,Walton,YDS,111
+3299003,11/12/2016,FBS,Miami (Fla.),Virginia,RUSHING,Mark,Walton,TD,1
+3299004,11/12/2016,FBS,Miami (Fla.),Virginia,RUSHING,Mark,Walton,LONG,26
+3299005,11/12/2016,FBS,Miami (Fla.),Virginia,RUSHING,Gus,Edwards,ATT,11
+3299006,11/12/2016,FBS,Miami (Fla.),Virginia,RUSHING,Gus,Edwards,YDS,68
+3299007,11/12/2016,FBS,Miami (Fla.),Virginia,RUSHING,Gus,Edwards,TD,0
+3299008,11/12/2016,FBS,Miami (Fla.),Virginia,RUSHING,Gus,Edwards,LONG,14
+3299009,11/12/2016,FBS,Miami (Fla.),Virginia,RUSHING,Joseph,Yearby,ATT,9
+3299010,11/12/2016,FBS,Miami (Fla.),Virginia,RUSHING,Joseph,Yearby,YDS,53
+3299011,11/12/2016,FBS,Miami (Fla.),Virginia,RUSHING,Joseph,Yearby,TD,1
+3299012,11/12/2016,FBS,Miami (Fla.),Virginia,RUSHING,Joseph,Yearby,LONG,11
+3299013,11/12/2016,FBS,Miami (Fla.),Virginia,RUSHING,Brad,Kaaya,ATT,2
+3299014,11/12/2016,FBS,Miami (Fla.),Virginia,RUSHING,Brad,Kaaya,YDS,-4
+3299015,11/12/2016,FBS,Miami (Fla.),Virginia,RUSHING,Brad,Kaaya,TD,0
+3299016,11/12/2016,FBS,Miami (Fla.),Virginia,RUSHING,Brad,Kaaya,LONG,0
+3299017,11/12/2016,FBS,Miami (Fla.),Virginia,RUSHING,,Team,ATT,4
+3299018,11/12/2016,FBS,Miami (Fla.),Virginia,RUSHING,,Team,YDS,-6
+3299019,11/12/2016,FBS,Miami (Fla.),Virginia,RUSHING,,Team,TD,0
+3299020,11/12/2016,FBS,Miami (Fla.),Virginia,RUSHING,,Team,LONG,-1
+3299021,11/12/2016,FBS,Miami (Fla.),Virginia,PASSING,Brad,Kaaya,CP-ATT-INT,14-29-1
+3299022,11/12/2016,FBS,Miami (Fla.),Virginia,PASSING,Brad,Kaaya,YDS,228
+3299023,11/12/2016,FBS,Miami (Fla.),Virginia,PASSING,Brad,Kaaya,TD,2
+3299024,11/12/2016,FBS,Miami (Fla.),Virginia,PASSING,Brad,Kaaya,LONG,77
+3299025,11/12/2016,FBS,Miami (Fla.),Virginia,RECEIVING,Ahmmon,Richards,REC,3
+3299026,11/12/2016,FBS,Miami (Fla.),Virginia,RECEIVING,Ahmmon,Richards,YDS,100
+3299027,11/12/2016,FBS,Miami (Fla.),Virginia,RECEIVING,Ahmmon,Richards,TD,1
+3299028,11/12/2016,FBS,Miami (Fla.),Virginia,RECEIVING,Ahmmon,Richards,LONG,77
+3299029,11/12/2016,FBS,Miami (Fla.),Virginia,RECEIVING,Malcolm,Lewis,REC,2
+3299030,11/12/2016,FBS,Miami (Fla.),Virginia,RECEIVING,Malcolm,Lewis,YDS,50
+3299031,11/12/2016,FBS,Miami (Fla.),Virginia,RECEIVING,Malcolm,Lewis,TD,0
+3299032,11/12/2016,FBS,Miami (Fla.),Virginia,RECEIVING,Malcolm,Lewis,LONG,44
+3299033,11/12/2016,FBS,Miami (Fla.),Virginia,RECEIVING,Stacy,Coley,REC,2
+3299034,11/12/2016,FBS,Miami (Fla.),Virginia,RECEIVING,Stacy,Coley,YDS,39
+3299035,11/12/2016,FBS,Miami (Fla.),Virginia,RECEIVING,Stacy,Coley,TD,0
+3299036,11/12/2016,FBS,Miami (Fla.),Virginia,RECEIVING,Stacy,Coley,LONG,32
+3299037,11/12/2016,FBS,Miami (Fla.),Virginia,RECEIVING,David,Njoku,REC,3
+3299038,11/12/2016,FBS,Miami (Fla.),Virginia,RECEIVING,David,Njoku,YDS,16
+3299039,11/12/2016,FBS,Miami (Fla.),Virginia,RECEIVING,David,Njoku,TD,1
+3299040,11/12/2016,FBS,Miami (Fla.),Virginia,RECEIVING,David,Njoku,LONG,7
+3299041,11/12/2016,FBS,Miami (Fla.),Virginia,RECEIVING,Mark,Walton,REC,2
+3299042,11/12/2016,FBS,Miami (Fla.),Virginia,RECEIVING,Mark,Walton,YDS,11
+3299043,11/12/2016,FBS,Miami (Fla.),Virginia,RECEIVING,Mark,Walton,TD,0
+3299044,11/12/2016,FBS,Miami (Fla.),Virginia,RECEIVING,Mark,Walton,LONG,13
+3299045,11/12/2016,FBS,Miami (Fla.),Virginia,RECEIVING,Gus,Edwards,REC,1
+3299046,11/12/2016,FBS,Miami (Fla.),Virginia,RECEIVING,Gus,Edwards,YDS,9
+3299047,11/12/2016,FBS,Miami (Fla.),Virginia,RECEIVING,Gus,Edwards,TD,0
+3299048,11/12/2016,FBS,Miami (Fla.),Virginia,RECEIVING,Gus,Edwards,LONG,9
+3299049,11/12/2016,FBS,Miami (Fla.),Virginia,RECEIVING,Christopher,HerndonIV,REC,1
+3299050,11/12/2016,FBS,Miami (Fla.),Virginia,RECEIVING,Christopher,HerndonIV,YDS,3
+3299051,11/12/2016,FBS,Miami (Fla.),Virginia,RECEIVING,Christopher,HerndonIV,TD,0
+3299052,11/12/2016,FBS,Miami (Fla.),Virginia,RECEIVING,Christopher,HerndonIV,LONG,3
+3299053,11/12/2016,FBS,Miami (Fla.),Virginia,KICKING,Michael,Badgley,FG-FGA,2/3
+3299054,11/12/2016,FBS,Miami (Fla.),Virginia,KICKING,Michael,Badgley,LONG,44
+3299055,11/12/2016,FBS,Miami (Fla.),Virginia,KICKING,Michael,Badgley,XP,4
+3299056,11/12/2016,FBS,Miami (Fla.),Virginia,KICKING,Michael,Badgley,PTS,10
+3299057,11/12/2016,FBS,Miami (Fla.),Virginia,PUNTING,Justin,Vogel,NO,2
+3299058,11/12/2016,FBS,Miami (Fla.),Virginia,PUNTING,Justin,Vogel,YDS,68
+3299059,11/12/2016,FBS,Miami (Fla.),Virginia,PUNTING,Justin,Vogel,AVG,34.0
+3299060,11/12/2016,FBS,Miami (Fla.),Virginia,PUNTING,Justin,Vogel,LONG,35
+3299061,11/12/2016,FBS,Miami (Fla.),Virginia,PUNT RETURNS,Braxton,Berrios,NO,0
+3299062,11/12/2016,FBS,Miami (Fla.),Virginia,PUNT RETURNS,Braxton,Berrios,YDS,0
+3299063,11/12/2016,FBS,Miami (Fla.),Virginia,PUNT RETURNS,Braxton,Berrios,AVG,-
+3299064,11/12/2016,FBS,Miami (Fla.),Virginia,PUNT RETURNS,Braxton,Berrios,LONG,0
+3299065,11/12/2016,FBS,Miami (Fla.),Virginia,KICK RETURNS,Malcolm,Lewis,NO,2
+3299066,11/12/2016,FBS,Miami (Fla.),Virginia,KICK RETURNS,Malcolm,Lewis,YDS,45
+3299067,11/12/2016,FBS,Miami (Fla.),Virginia,KICK RETURNS,Malcolm,Lewis,AVG,22.5
+3299068,11/12/2016,FBS,Miami (Fla.),Virginia,KICK RETURNS,Malcolm,Lewis,LONG,27
+3299069,11/12/2016,FBS,Virginia,Miami (Fla.),RUSHING,Taquan,Mizzell,ATT,22
+3299070,11/12/2016,FBS,Virginia,Miami (Fla.),RUSHING,Taquan,Mizzell,YDS,89
+3299071,11/12/2016,FBS,Virginia,Miami (Fla.),RUSHING,Taquan,Mizzell,TD,1
+3299072,11/12/2016,FBS,Virginia,Miami (Fla.),RUSHING,Taquan,Mizzell,LONG,14
+3299073,11/12/2016,FBS,Virginia,Miami (Fla.),RUSHING,Albert,Reid,ATT,3
+3299074,11/12/2016,FBS,Virginia,Miami (Fla.),RUSHING,Albert,Reid,YDS,21
+3299075,11/12/2016,FBS,Virginia,Miami (Fla.),RUSHING,Albert,Reid,TD,0
+3299076,11/12/2016,FBS,Virginia,Miami (Fla.),RUSHING,Albert,Reid,LONG,14
+3299077,11/12/2016,FBS,Virginia,Miami (Fla.),RUSHING,,Team,ATT,1
+3299078,11/12/2016,FBS,Virginia,Miami (Fla.),RUSHING,,Team,YDS,-1
+3299079,11/12/2016,FBS,Virginia,Miami (Fla.),RUSHING,,Team,TD,0
+3299080,11/12/2016,FBS,Virginia,Miami (Fla.),RUSHING,,Team,LONG,-1
+3299081,11/12/2016,FBS,Virginia,Miami (Fla.),RUSHING,Kurt,Benkert,ATT,6
+3299082,11/12/2016,FBS,Virginia,Miami (Fla.),RUSHING,Kurt,Benkert,YDS,-13
+3299083,11/12/2016,FBS,Virginia,Miami (Fla.),RUSHING,Kurt,Benkert,TD,0
+3299084,11/12/2016,FBS,Virginia,Miami (Fla.),RUSHING,Kurt,Benkert,LONG,4
+3299085,11/12/2016,FBS,Virginia,Miami (Fla.),RUSHING,Nicholas,Conte,ATT,1
+3299086,11/12/2016,FBS,Virginia,Miami (Fla.),RUSHING,Nicholas,Conte,YDS,-14
+3299087,11/12/2016,FBS,Virginia,Miami (Fla.),RUSHING,Nicholas,Conte,TD,0
+3299088,11/12/2016,FBS,Virginia,Miami (Fla.),RUSHING,Nicholas,Conte,LONG,-14
+3299089,11/12/2016,FBS,Virginia,Miami (Fla.),PASSING,Kurt,Benkert,CP-ATT-INT,16-27-0
+3299090,11/12/2016,FBS,Virginia,Miami (Fla.),PASSING,Kurt,Benkert,YDS,143
+3299091,11/12/2016,FBS,Virginia,Miami (Fla.),PASSING,Kurt,Benkert,TD,1
+3299092,11/12/2016,FBS,Virginia,Miami (Fla.),PASSING,Kurt,Benkert,LONG,22
+3299093,11/12/2016,FBS,Virginia,Miami (Fla.),PASSING,Matt,Johns,CP-ATT-INT,3-7-0
+3299094,11/12/2016,FBS,Virginia,Miami (Fla.),PASSING,Matt,Johns,YDS,64
+3299095,11/12/2016,FBS,Virginia,Miami (Fla.),PASSING,Matt,Johns,TD,0
+3299096,11/12/2016,FBS,Virginia,Miami (Fla.),PASSING,Matt,Johns,LONG,44
+3299097,11/12/2016,FBS,Virginia,Miami (Fla.),RECEIVING,Doni,Dowling,REC,4
+3299098,11/12/2016,FBS,Virginia,Miami (Fla.),RECEIVING,Doni,Dowling,YDS,77
+3299099,11/12/2016,FBS,Virginia,Miami (Fla.),RECEIVING,Doni,Dowling,TD,0
+3299100,11/12/2016,FBS,Virginia,Miami (Fla.),RECEIVING,Doni,Dowling,LONG,44
+3299101,11/12/2016,FBS,Virginia,Miami (Fla.),RECEIVING,Olamide,Zaccheaus,REC,6
+3299102,11/12/2016,FBS,Virginia,Miami (Fla.),RECEIVING,Olamide,Zaccheaus,YDS,50
+3299103,11/12/2016,FBS,Virginia,Miami (Fla.),RECEIVING,Olamide,Zaccheaus,TD,0
+3299104,11/12/2016,FBS,Virginia,Miami (Fla.),RECEIVING,Olamide,Zaccheaus,LONG,11
+3299105,11/12/2016,FBS,Virginia,Miami (Fla.),RECEIVING,Taquan,Mizzell,REC,3
+3299106,11/12/2016,FBS,Virginia,Miami (Fla.),RECEIVING,Taquan,Mizzell,YDS,27
+3299107,11/12/2016,FBS,Virginia,Miami (Fla.),RECEIVING,Taquan,Mizzell,TD,0
+3299108,11/12/2016,FBS,Virginia,Miami (Fla.),RECEIVING,Taquan,Mizzell,LONG,18
+3299109,11/12/2016,FBS,Virginia,Miami (Fla.),RECEIVING,Brendan,Marshall,REC,1
+3299110,11/12/2016,FBS,Virginia,Miami (Fla.),RECEIVING,Brendan,Marshall,YDS,16
+3299111,11/12/2016,FBS,Virginia,Miami (Fla.),RECEIVING,Brendan,Marshall,TD,0
+3299112,11/12/2016,FBS,Virginia,Miami (Fla.),RECEIVING,Brendan,Marshall,LONG,16
+3299113,11/12/2016,FBS,Virginia,Miami (Fla.),RECEIVING,David,Eldridge,REC,1
+3299114,11/12/2016,FBS,Virginia,Miami (Fla.),RECEIVING,David,Eldridge,YDS,13
+3299115,11/12/2016,FBS,Virginia,Miami (Fla.),RECEIVING,David,Eldridge,TD,1
+3299116,11/12/2016,FBS,Virginia,Miami (Fla.),RECEIVING,David,Eldridge,LONG,13
+3299117,11/12/2016,FBS,Virginia,Miami (Fla.),RECEIVING,Keeon,Johnson,REC,3
+3299118,11/12/2016,FBS,Virginia,Miami (Fla.),RECEIVING,Keeon,Johnson,YDS,12
+3299119,11/12/2016,FBS,Virginia,Miami (Fla.),RECEIVING,Keeon,Johnson,TD,0
+3299120,11/12/2016,FBS,Virginia,Miami (Fla.),RECEIVING,Keeon,Johnson,LONG,6
+3299121,11/12/2016,FBS,Virginia,Miami (Fla.),RECEIVING,Ryan,Santoro,REC,1
+3299122,11/12/2016,FBS,Virginia,Miami (Fla.),RECEIVING,Ryan,Santoro,YDS,12
+3299123,11/12/2016,FBS,Virginia,Miami (Fla.),RECEIVING,Ryan,Santoro,TD,0
+3299124,11/12/2016,FBS,Virginia,Miami (Fla.),RECEIVING,Ryan,Santoro,LONG,12
+3299125,11/12/2016,FBS,Virginia,Miami (Fla.),KICKING,Sam,Hayward,FG-FGA,0/0
+3299126,11/12/2016,FBS,Virginia,Miami (Fla.),KICKING,Sam,Hayward,LONG,-
+3299127,11/12/2016,FBS,Virginia,Miami (Fla.),KICKING,Sam,Hayward,XP,2
+3299128,11/12/2016,FBS,Virginia,Miami (Fla.),KICKING,Sam,Hayward,PTS,2
+3299129,11/12/2016,FBS,Virginia,Miami (Fla.),PUNTING,Nicholas,Conte,NO,5
+3299130,11/12/2016,FBS,Virginia,Miami (Fla.),PUNTING,Nicholas,Conte,YDS,188
+3299131,11/12/2016,FBS,Virginia,Miami (Fla.),PUNTING,Nicholas,Conte,AVG,37.6
+3299132,11/12/2016,FBS,Virginia,Miami (Fla.),PUNTING,Nicholas,Conte,LONG,50
+3299133,11/12/2016,FBS,Virginia,Miami (Fla.),PUNT RETURNS,Daniel,Hamm,NO,0
+3299134,11/12/2016,FBS,Virginia,Miami (Fla.),PUNT RETURNS,Daniel,Hamm,YDS,0
+3299135,11/12/2016,FBS,Virginia,Miami (Fla.),PUNT RETURNS,Daniel,Hamm,AVG,-
+3299136,11/12/2016,FBS,Virginia,Miami (Fla.),PUNT RETURNS,Daniel,Hamm,LONG,0
+3299137,11/12/2016,FBS,Virginia,Miami (Fla.),KICK RETURNS,Joe,Reed,NO,4
+3299138,11/12/2016,FBS,Virginia,Miami (Fla.),KICK RETURNS,Joe,Reed,YDS,117
+3299139,11/12/2016,FBS,Virginia,Miami (Fla.),KICK RETURNS,Joe,Reed,AVG,29.2
+3299140,11/12/2016,FBS,Virginia,Miami (Fla.),KICK RETURNS,Joe,Reed,LONG,44

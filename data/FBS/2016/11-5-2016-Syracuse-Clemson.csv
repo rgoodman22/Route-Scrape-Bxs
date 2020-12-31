@@ -1,0 +1,197 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3225001,11/5/2016,FBS,Syracuse,Clemson,RUSHING,Moe,Neal,ATT,7
+3225002,11/5/2016,FBS,Syracuse,Clemson,RUSHING,Moe,Neal,YDS,64
+3225003,11/5/2016,FBS,Syracuse,Clemson,RUSHING,Moe,Neal,TD,0
+3225004,11/5/2016,FBS,Syracuse,Clemson,RUSHING,Moe,Neal,LONG,49
+3225005,11/5/2016,FBS,Syracuse,Clemson,RUSHING,Jordan,Fredericks,ATT,9
+3225006,11/5/2016,FBS,Syracuse,Clemson,RUSHING,Jordan,Fredericks,YDS,22
+3225007,11/5/2016,FBS,Syracuse,Clemson,RUSHING,Jordan,Fredericks,TD,0
+3225008,11/5/2016,FBS,Syracuse,Clemson,RUSHING,Jordan,Fredericks,LONG,13
+3225009,11/5/2016,FBS,Syracuse,Clemson,RUSHING,Dontae,Strickland,ATT,6
+3225010,11/5/2016,FBS,Syracuse,Clemson,RUSHING,Dontae,Strickland,YDS,12
+3225011,11/5/2016,FBS,Syracuse,Clemson,RUSHING,Dontae,Strickland,TD,0
+3225012,11/5/2016,FBS,Syracuse,Clemson,RUSHING,Dontae,Strickland,LONG,4
+3225013,11/5/2016,FBS,Syracuse,Clemson,RUSHING,Zack,Mahoney,ATT,1
+3225014,11/5/2016,FBS,Syracuse,Clemson,RUSHING,Zack,Mahoney,YDS,10
+3225015,11/5/2016,FBS,Syracuse,Clemson,RUSHING,Zack,Mahoney,TD,0
+3225016,11/5/2016,FBS,Syracuse,Clemson,RUSHING,Zack,Mahoney,LONG,10
+3225017,11/5/2016,FBS,Syracuse,Clemson,RUSHING,Eric,Dungey,ATT,4
+3225018,11/5/2016,FBS,Syracuse,Clemson,RUSHING,Eric,Dungey,YDS,4
+3225019,11/5/2016,FBS,Syracuse,Clemson,RUSHING,Eric,Dungey,TD,0
+3225020,11/5/2016,FBS,Syracuse,Clemson,RUSHING,Eric,Dungey,LONG,6
+3225021,11/5/2016,FBS,Syracuse,Clemson,RUSHING,Austin,Wilson,ATT,1
+3225022,11/5/2016,FBS,Syracuse,Clemson,RUSHING,Austin,Wilson,YDS,-7
+3225023,11/5/2016,FBS,Syracuse,Clemson,RUSHING,Austin,Wilson,TD,0
+3225024,11/5/2016,FBS,Syracuse,Clemson,RUSHING,Austin,Wilson,LONG,-7
+3225025,11/5/2016,FBS,Syracuse,Clemson,PASSING,Austin,Wilson,CP-ATT-INT,17-27-2
+3225026,11/5/2016,FBS,Syracuse,Clemson,PASSING,Austin,Wilson,YDS,116
+3225027,11/5/2016,FBS,Syracuse,Clemson,PASSING,Austin,Wilson,TD,0
+3225028,11/5/2016,FBS,Syracuse,Clemson,PASSING,Austin,Wilson,LONG,20
+3225029,11/5/2016,FBS,Syracuse,Clemson,PASSING,Eric,Dungey,CP-ATT-INT,6-9-1
+3225030,11/5/2016,FBS,Syracuse,Clemson,PASSING,Eric,Dungey,YDS,48
+3225031,11/5/2016,FBS,Syracuse,Clemson,PASSING,Eric,Dungey,TD,0
+3225032,11/5/2016,FBS,Syracuse,Clemson,PASSING,Eric,Dungey,LONG,12
+3225033,11/5/2016,FBS,Syracuse,Clemson,PASSING,Zack,Mahoney,CP-ATT-INT,1-4-0
+3225034,11/5/2016,FBS,Syracuse,Clemson,PASSING,Zack,Mahoney,YDS,8
+3225035,11/5/2016,FBS,Syracuse,Clemson,PASSING,Zack,Mahoney,TD,0
+3225036,11/5/2016,FBS,Syracuse,Clemson,PASSING,Zack,Mahoney,LONG,8
+3225037,11/5/2016,FBS,Syracuse,Clemson,RECEIVING,Amba,Etta-Tawo,REC,9
+3225038,11/5/2016,FBS,Syracuse,Clemson,RECEIVING,Amba,Etta-Tawo,YDS,84
+3225039,11/5/2016,FBS,Syracuse,Clemson,RECEIVING,Amba,Etta-Tawo,TD,0
+3225040,11/5/2016,FBS,Syracuse,Clemson,RECEIVING,Amba,Etta-Tawo,LONG,20
+3225041,11/5/2016,FBS,Syracuse,Clemson,RECEIVING,Ervin,Philips,REC,8
+3225042,11/5/2016,FBS,Syracuse,Clemson,RECEIVING,Ervin,Philips,YDS,48
+3225043,11/5/2016,FBS,Syracuse,Clemson,RECEIVING,Ervin,Philips,TD,0
+3225044,11/5/2016,FBS,Syracuse,Clemson,RECEIVING,Ervin,Philips,LONG,11
+3225045,11/5/2016,FBS,Syracuse,Clemson,RECEIVING,Dontae,Strickland,REC,4
+3225046,11/5/2016,FBS,Syracuse,Clemson,RECEIVING,Dontae,Strickland,YDS,17
+3225047,11/5/2016,FBS,Syracuse,Clemson,RECEIVING,Dontae,Strickland,TD,0
+3225048,11/5/2016,FBS,Syracuse,Clemson,RECEIVING,Dontae,Strickland,LONG,9
+3225049,11/5/2016,FBS,Syracuse,Clemson,RECEIVING,Brisly,Estime,REC,1
+3225050,11/5/2016,FBS,Syracuse,Clemson,RECEIVING,Brisly,Estime,YDS,12
+3225051,11/5/2016,FBS,Syracuse,Clemson,RECEIVING,Brisly,Estime,TD,0
+3225052,11/5/2016,FBS,Syracuse,Clemson,RECEIVING,Brisly,Estime,LONG,12
+3225053,11/5/2016,FBS,Syracuse,Clemson,RECEIVING,Sean,Riley,REC,2
+3225054,11/5/2016,FBS,Syracuse,Clemson,RECEIVING,Sean,Riley,YDS,11
+3225055,11/5/2016,FBS,Syracuse,Clemson,RECEIVING,Sean,Riley,TD,0
+3225056,11/5/2016,FBS,Syracuse,Clemson,RECEIVING,Sean,Riley,LONG,8
+3225057,11/5/2016,FBS,Syracuse,Clemson,KICKING,Cole,Murphy,FG-FGA,0/1
+3225058,11/5/2016,FBS,Syracuse,Clemson,KICKING,Cole,Murphy,LONG,0
+3225059,11/5/2016,FBS,Syracuse,Clemson,KICKING,Cole,Murphy,XP,0
+3225060,11/5/2016,FBS,Syracuse,Clemson,KICKING,Cole,Murphy,PTS,0
+3225061,11/5/2016,FBS,Syracuse,Clemson,PUNTING,Sterling,Hofrichter,NO,8
+3225062,11/5/2016,FBS,Syracuse,Clemson,PUNTING,Sterling,Hofrichter,YDS,308
+3225063,11/5/2016,FBS,Syracuse,Clemson,PUNTING,Sterling,Hofrichter,AVG,38.5
+3225064,11/5/2016,FBS,Syracuse,Clemson,PUNTING,Sterling,Hofrichter,LONG,48
+3225065,11/5/2016,FBS,Syracuse,Clemson,PUNT RETURNS,Brisly,Estime,NO,1
+3225066,11/5/2016,FBS,Syracuse,Clemson,PUNT RETURNS,Brisly,Estime,YDS,7
+3225067,11/5/2016,FBS,Syracuse,Clemson,PUNT RETURNS,Brisly,Estime,AVG,7.0
+3225068,11/5/2016,FBS,Syracuse,Clemson,PUNT RETURNS,Brisly,Estime,LONG,7
+3225069,11/5/2016,FBS,Syracuse,Clemson,PUNT RETURNS,Sean,Riley,NO,0
+3225070,11/5/2016,FBS,Syracuse,Clemson,PUNT RETURNS,Sean,Riley,YDS,0
+3225071,11/5/2016,FBS,Syracuse,Clemson,PUNT RETURNS,Sean,Riley,AVG,-
+3225072,11/5/2016,FBS,Syracuse,Clemson,PUNT RETURNS,Sean,Riley,LONG,0
+3225073,11/5/2016,FBS,Syracuse,Clemson,KICK RETURNS,Sean,Riley,NO,7
+3225074,11/5/2016,FBS,Syracuse,Clemson,KICK RETURNS,Sean,Riley,YDS,178
+3225075,11/5/2016,FBS,Syracuse,Clemson,KICK RETURNS,Sean,Riley,AVG,25.4
+3225076,11/5/2016,FBS,Syracuse,Clemson,KICK RETURNS,Sean,Riley,LONG,68
+3225077,11/5/2016,FBS,Syracuse,Clemson,KICK RETURNS,Brisly,Estime,NO,3
+3225078,11/5/2016,FBS,Syracuse,Clemson,KICK RETURNS,Brisly,Estime,YDS,64
+3225079,11/5/2016,FBS,Syracuse,Clemson,KICK RETURNS,Brisly,Estime,AVG,21.3
+3225080,11/5/2016,FBS,Syracuse,Clemson,KICK RETURNS,Brisly,Estime,LONG,39
+3225081,11/5/2016,FBS,Clemson,Syracuse,RUSHING,Wayne,Gallman,ATT,10
+3225082,11/5/2016,FBS,Clemson,Syracuse,RUSHING,Wayne,Gallman,YDS,63
+3225083,11/5/2016,FBS,Clemson,Syracuse,RUSHING,Wayne,Gallman,TD,1
+3225084,11/5/2016,FBS,Clemson,Syracuse,RUSHING,Wayne,Gallman,LONG,30
+3225085,11/5/2016,FBS,Clemson,Syracuse,RUSHING,Deshaun,Watson,ATT,7
+3225086,11/5/2016,FBS,Clemson,Syracuse,RUSHING,Deshaun,Watson,YDS,39
+3225087,11/5/2016,FBS,Clemson,Syracuse,RUSHING,Deshaun,Watson,TD,1
+3225088,11/5/2016,FBS,Clemson,Syracuse,RUSHING,Deshaun,Watson,LONG,13
+3225089,11/5/2016,FBS,Clemson,Syracuse,RUSHING,Tavien,Feaster,ATT,9
+3225090,11/5/2016,FBS,Clemson,Syracuse,RUSHING,Tavien,Feaster,YDS,28
+3225091,11/5/2016,FBS,Clemson,Syracuse,RUSHING,Tavien,Feaster,TD,0
+3225092,11/5/2016,FBS,Clemson,Syracuse,RUSHING,Tavien,Feaster,LONG,14
+3225093,11/5/2016,FBS,Clemson,Syracuse,RUSHING,C.J.,Fuller,ATT,5
+3225094,11/5/2016,FBS,Clemson,Syracuse,RUSHING,C.J.,Fuller,YDS,24
+3225095,11/5/2016,FBS,Clemson,Syracuse,RUSHING,C.J.,Fuller,TD,0
+3225096,11/5/2016,FBS,Clemson,Syracuse,RUSHING,C.J.,Fuller,LONG,10
+3225097,11/5/2016,FBS,Clemson,Syracuse,RUSHING,Adam,Choice,ATT,6
+3225098,11/5/2016,FBS,Clemson,Syracuse,RUSHING,Adam,Choice,YDS,22
+3225099,11/5/2016,FBS,Clemson,Syracuse,RUSHING,Adam,Choice,TD,0
+3225100,11/5/2016,FBS,Clemson,Syracuse,RUSHING,Adam,Choice,LONG,7
+3225101,11/5/2016,FBS,Clemson,Syracuse,RUSHING,Tyshon,Dye,ATT,1
+3225102,11/5/2016,FBS,Clemson,Syracuse,RUSHING,Tyshon,Dye,YDS,12
+3225103,11/5/2016,FBS,Clemson,Syracuse,RUSHING,Tyshon,Dye,TD,0
+3225104,11/5/2016,FBS,Clemson,Syracuse,RUSHING,Tyshon,Dye,LONG,12
+3225105,11/5/2016,FBS,Clemson,Syracuse,RUSHING,Nick,Schuessler,ATT,3
+3225106,11/5/2016,FBS,Clemson,Syracuse,RUSHING,Nick,Schuessler,YDS,9
+3225107,11/5/2016,FBS,Clemson,Syracuse,RUSHING,Nick,Schuessler,TD,0
+3225108,11/5/2016,FBS,Clemson,Syracuse,RUSHING,Nick,Schuessler,LONG,6
+3225109,11/5/2016,FBS,Clemson,Syracuse,RUSHING,Tucker,Israel,ATT,1
+3225110,11/5/2016,FBS,Clemson,Syracuse,RUSHING,Tucker,Israel,YDS,2
+3225111,11/5/2016,FBS,Clemson,Syracuse,RUSHING,Tucker,Israel,TD,0
+3225112,11/5/2016,FBS,Clemson,Syracuse,RUSHING,Tucker,Israel,LONG,2
+3225113,11/5/2016,FBS,Clemson,Syracuse,RUSHING,Kelly,Bryant,ATT,2
+3225114,11/5/2016,FBS,Clemson,Syracuse,RUSHING,Kelly,Bryant,YDS,-4
+3225115,11/5/2016,FBS,Clemson,Syracuse,RUSHING,Kelly,Bryant,TD,0
+3225116,11/5/2016,FBS,Clemson,Syracuse,RUSHING,Kelly,Bryant,LONG,1
+3225117,11/5/2016,FBS,Clemson,Syracuse,PASSING,Nick,Schuessler,CP-ATT-INT,11-17-0
+3225118,11/5/2016,FBS,Clemson,Syracuse,PASSING,Nick,Schuessler,YDS,177
+3225119,11/5/2016,FBS,Clemson,Syracuse,PASSING,Nick,Schuessler,TD,2
+3225120,11/5/2016,FBS,Clemson,Syracuse,PASSING,Nick,Schuessler,LONG,31
+3225121,11/5/2016,FBS,Clemson,Syracuse,PASSING,Deshaun,Watson,CP-ATT-INT,13-16-0
+3225122,11/5/2016,FBS,Clemson,Syracuse,PASSING,Deshaun,Watson,YDS,169
+3225123,11/5/2016,FBS,Clemson,Syracuse,PASSING,Deshaun,Watson,TD,2
+3225124,11/5/2016,FBS,Clemson,Syracuse,PASSING,Deshaun,Watson,LONG,65
+3225125,11/5/2016,FBS,Clemson,Syracuse,PASSING,Kelly,Bryant,CP-ATT-INT,2-4-0
+3225126,11/5/2016,FBS,Clemson,Syracuse,PASSING,Kelly,Bryant,YDS,21
+3225127,11/5/2016,FBS,Clemson,Syracuse,PASSING,Kelly,Bryant,TD,0
+3225128,11/5/2016,FBS,Clemson,Syracuse,PASSING,Kelly,Bryant,LONG,15
+3225129,11/5/2016,FBS,Clemson,Syracuse,PASSING,Tucker,Israel,CP-ATT-INT,1-1-0
+3225130,11/5/2016,FBS,Clemson,Syracuse,PASSING,Tucker,Israel,YDS,3
+3225131,11/5/2016,FBS,Clemson,Syracuse,PASSING,Tucker,Israel,TD,0
+3225132,11/5/2016,FBS,Clemson,Syracuse,PASSING,Tucker,Israel,LONG,3
+3225133,11/5/2016,FBS,Clemson,Syracuse,PASSING,,Team,CP-ATT-INT,0-2-0
+3225134,11/5/2016,FBS,Clemson,Syracuse,PASSING,,Team,YDS,0
+3225135,11/5/2016,FBS,Clemson,Syracuse,PASSING,,Team,TD,0
+3225136,11/5/2016,FBS,Clemson,Syracuse,PASSING,,Team,LONG,0
+3225137,11/5/2016,FBS,Clemson,Syracuse,RECEIVING,Deon,Cain,REC,5
+3225138,11/5/2016,FBS,Clemson,Syracuse,RECEIVING,Deon,Cain,YDS,125
+3225139,11/5/2016,FBS,Clemson,Syracuse,RECEIVING,Deon,Cain,TD,2
+3225140,11/5/2016,FBS,Clemson,Syracuse,RECEIVING,Deon,Cain,LONG,65
+3225141,11/5/2016,FBS,Clemson,Syracuse,RECEIVING,Mike,Williams,REC,6
+3225142,11/5/2016,FBS,Clemson,Syracuse,RECEIVING,Mike,Williams,YDS,106
+3225143,11/5/2016,FBS,Clemson,Syracuse,RECEIVING,Mike,Williams,TD,1
+3225144,11/5/2016,FBS,Clemson,Syracuse,RECEIVING,Mike,Williams,LONG,31
+3225145,11/5/2016,FBS,Clemson,Syracuse,RECEIVING,Artavis,Scott,REC,7
+3225146,11/5/2016,FBS,Clemson,Syracuse,RECEIVING,Artavis,Scott,YDS,45
+3225147,11/5/2016,FBS,Clemson,Syracuse,RECEIVING,Artavis,Scott,TD,1
+3225148,11/5/2016,FBS,Clemson,Syracuse,RECEIVING,Artavis,Scott,LONG,18
+3225149,11/5/2016,FBS,Clemson,Syracuse,RECEIVING,Jordan,Leggett,REC,2
+3225150,11/5/2016,FBS,Clemson,Syracuse,RECEIVING,Jordan,Leggett,YDS,31
+3225151,11/5/2016,FBS,Clemson,Syracuse,RECEIVING,Jordan,Leggett,TD,0
+3225152,11/5/2016,FBS,Clemson,Syracuse,RECEIVING,Jordan,Leggett,LONG,24
+3225153,11/5/2016,FBS,Clemson,Syracuse,RECEIVING,Hunter,Renfrow,REC,2
+3225154,11/5/2016,FBS,Clemson,Syracuse,RECEIVING,Hunter,Renfrow,YDS,17
+3225155,11/5/2016,FBS,Clemson,Syracuse,RECEIVING,Hunter,Renfrow,TD,0
+3225156,11/5/2016,FBS,Clemson,Syracuse,RECEIVING,Hunter,Renfrow,LONG,11
+3225157,11/5/2016,FBS,Clemson,Syracuse,RECEIVING,Seth,Ryan,REC,2
+3225158,11/5/2016,FBS,Clemson,Syracuse,RECEIVING,Seth,Ryan,YDS,17
+3225159,11/5/2016,FBS,Clemson,Syracuse,RECEIVING,Seth,Ryan,TD,0
+3225160,11/5/2016,FBS,Clemson,Syracuse,RECEIVING,Seth,Ryan,LONG,9
+3225161,11/5/2016,FBS,Clemson,Syracuse,RECEIVING,Trevion,Thompson,REC,1
+3225162,11/5/2016,FBS,Clemson,Syracuse,RECEIVING,Trevion,Thompson,YDS,15
+3225163,11/5/2016,FBS,Clemson,Syracuse,RECEIVING,Trevion,Thompson,TD,0
+3225164,11/5/2016,FBS,Clemson,Syracuse,RECEIVING,Trevion,Thompson,LONG,15
+3225165,11/5/2016,FBS,Clemson,Syracuse,RECEIVING,Adam,Choice,REC,1
+3225166,11/5/2016,FBS,Clemson,Syracuse,RECEIVING,Adam,Choice,YDS,11
+3225167,11/5/2016,FBS,Clemson,Syracuse,RECEIVING,Adam,Choice,TD,0
+3225168,11/5/2016,FBS,Clemson,Syracuse,RECEIVING,Adam,Choice,LONG,11
+3225169,11/5/2016,FBS,Clemson,Syracuse,RECEIVING,Sean,MacLain,REC,1
+3225170,11/5/2016,FBS,Clemson,Syracuse,RECEIVING,Sean,MacLain,YDS,3
+3225171,11/5/2016,FBS,Clemson,Syracuse,RECEIVING,Sean,MacLain,TD,0
+3225172,11/5/2016,FBS,Clemson,Syracuse,RECEIVING,Sean,MacLain,LONG,3
+3225173,11/5/2016,FBS,Clemson,Syracuse,KICKING,Greg,Huegel,FG-FGA,2/3
+3225174,11/5/2016,FBS,Clemson,Syracuse,KICKING,Greg,Huegel,LONG,46
+3225175,11/5/2016,FBS,Clemson,Syracuse,KICKING,Greg,Huegel,XP,5
+3225176,11/5/2016,FBS,Clemson,Syracuse,KICKING,Greg,Huegel,PTS,11
+3225177,11/5/2016,FBS,Clemson,Syracuse,KICKING,Christian,Groomes,FG-FGA,0/0
+3225178,11/5/2016,FBS,Clemson,Syracuse,KICKING,Christian,Groomes,LONG,-
+3225179,11/5/2016,FBS,Clemson,Syracuse,KICKING,Christian,Groomes,XP,1
+3225180,11/5/2016,FBS,Clemson,Syracuse,KICKING,Christian,Groomes,PTS,1
+3225181,11/5/2016,FBS,Clemson,Syracuse,PUNTING,Andy,Teasdall,NO,2
+3225182,11/5/2016,FBS,Clemson,Syracuse,PUNTING,Andy,Teasdall,YDS,75
+3225183,11/5/2016,FBS,Clemson,Syracuse,PUNTING,Andy,Teasdall,AVG,37.5
+3225184,11/5/2016,FBS,Clemson,Syracuse,PUNTING,Andy,Teasdall,LONG,40
+3225185,11/5/2016,FBS,Clemson,Syracuse,PUNTING,Michael,Batson,NO,1
+3225186,11/5/2016,FBS,Clemson,Syracuse,PUNTING,Michael,Batson,YDS,46
+3225187,11/5/2016,FBS,Clemson,Syracuse,PUNTING,Michael,Batson,AVG,46.0
+3225188,11/5/2016,FBS,Clemson,Syracuse,PUNTING,Michael,Batson,LONG,46
+3225189,11/5/2016,FBS,Clemson,Syracuse,PUNT RETURNS,Amir,Trapp,NO,1
+3225190,11/5/2016,FBS,Clemson,Syracuse,PUNT RETURNS,Amir,Trapp,YDS,8
+3225191,11/5/2016,FBS,Clemson,Syracuse,PUNT RETURNS,Amir,Trapp,AVG,8.0
+3225192,11/5/2016,FBS,Clemson,Syracuse,PUNT RETURNS,Amir,Trapp,LONG,8
+3225193,11/5/2016,FBS,Clemson,Syracuse,PUNT RETURNS,Artavis,Scott,NO,1
+3225194,11/5/2016,FBS,Clemson,Syracuse,PUNT RETURNS,Artavis,Scott,YDS,1
+3225195,11/5/2016,FBS,Clemson,Syracuse,PUNT RETURNS,Artavis,Scott,AVG,1.0
+3225196,11/5/2016,FBS,Clemson,Syracuse,PUNT RETURNS,Artavis,Scott,LONG,1

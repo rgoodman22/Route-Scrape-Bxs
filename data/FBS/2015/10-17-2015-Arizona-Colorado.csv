@@ -1,0 +1,161 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2208001,10/17/2015,FBS,Arizona,Colorado,RUSHING,Jared,Baker,ATT,23
+2208002,10/17/2015,FBS,Arizona,Colorado,RUSHING,Jared,Baker,YDS,207
+2208003,10/17/2015,FBS,Arizona,Colorado,RUSHING,Jared,Baker,TD,2
+2208004,10/17/2015,FBS,Arizona,Colorado,RUSHING,Jared,Baker,LONG,79
+2208005,10/17/2015,FBS,Arizona,Colorado,RUSHING,Jerrard,Randall,ATT,11
+2208006,10/17/2015,FBS,Arizona,Colorado,RUSHING,Jerrard,Randall,YDS,81
+2208007,10/17/2015,FBS,Arizona,Colorado,RUSHING,Jerrard,Randall,TD,1
+2208008,10/17/2015,FBS,Arizona,Colorado,RUSHING,Jerrard,Randall,LONG,18
+2208009,10/17/2015,FBS,Arizona,Colorado,RUSHING,Tyrell,Johnson,ATT,3
+2208010,10/17/2015,FBS,Arizona,Colorado,RUSHING,Tyrell,Johnson,YDS,16
+2208011,10/17/2015,FBS,Arizona,Colorado,RUSHING,Tyrell,Johnson,TD,0
+2208012,10/17/2015,FBS,Arizona,Colorado,RUSHING,Tyrell,Johnson,LONG,11
+2208013,10/17/2015,FBS,Arizona,Colorado,RUSHING,Cayleb,Jones,ATT,0
+2208014,10/17/2015,FBS,Arizona,Colorado,RUSHING,Cayleb,Jones,YDS,0
+2208015,10/17/2015,FBS,Arizona,Colorado,RUSHING,Cayleb,Jones,TD,0
+2208016,10/17/2015,FBS,Arizona,Colorado,RUSHING,Cayleb,Jones,LONG,0
+2208017,10/17/2015,FBS,Arizona,Colorado,RUSHING,Anu,Solomon,ATT,6
+2208018,10/17/2015,FBS,Arizona,Colorado,RUSHING,Anu,Solomon,YDS,-6
+2208019,10/17/2015,FBS,Arizona,Colorado,RUSHING,Anu,Solomon,TD,0
+2208020,10/17/2015,FBS,Arizona,Colorado,RUSHING,Anu,Solomon,LONG,8
+2208021,10/17/2015,FBS,Arizona,Colorado,RUSHING,,Team,ATT,1
+2208022,10/17/2015,FBS,Arizona,Colorado,RUSHING,,Team,YDS,-7
+2208023,10/17/2015,FBS,Arizona,Colorado,RUSHING,,Team,TD,0
+2208024,10/17/2015,FBS,Arizona,Colorado,RUSHING,,Team,LONG,-7
+2208025,10/17/2015,FBS,Arizona,Colorado,PASSING,Anu,Solomon,CP-ATT-INT,22-37-0
+2208026,10/17/2015,FBS,Arizona,Colorado,PASSING,Anu,Solomon,YDS,283
+2208027,10/17/2015,FBS,Arizona,Colorado,PASSING,Anu,Solomon,TD,2
+2208028,10/17/2015,FBS,Arizona,Colorado,PASSING,Anu,Solomon,LONG,44
+2208029,10/17/2015,FBS,Arizona,Colorado,PASSING,Jerrard,Randall,CP-ATT-INT,3-3-0
+2208030,10/17/2015,FBS,Arizona,Colorado,PASSING,Jerrard,Randall,YDS,42
+2208031,10/17/2015,FBS,Arizona,Colorado,PASSING,Jerrard,Randall,TD,0
+2208032,10/17/2015,FBS,Arizona,Colorado,PASSING,Jerrard,Randall,LONG,31
+2208033,10/17/2015,FBS,Arizona,Colorado,RECEIVING,Nate,Phillips,REC,6
+2208034,10/17/2015,FBS,Arizona,Colorado,RECEIVING,Nate,Phillips,YDS,106
+2208035,10/17/2015,FBS,Arizona,Colorado,RECEIVING,Nate,Phillips,TD,0
+2208036,10/17/2015,FBS,Arizona,Colorado,RECEIVING,Nate,Phillips,LONG,44
+2208037,10/17/2015,FBS,Arizona,Colorado,RECEIVING,Cayleb,Jones,REC,6
+2208038,10/17/2015,FBS,Arizona,Colorado,RECEIVING,Cayleb,Jones,YDS,94
+2208039,10/17/2015,FBS,Arizona,Colorado,RECEIVING,Cayleb,Jones,TD,0
+2208040,10/17/2015,FBS,Arizona,Colorado,RECEIVING,Cayleb,Jones,LONG,34
+2208041,10/17/2015,FBS,Arizona,Colorado,RECEIVING,David,Richards,REC,3
+2208042,10/17/2015,FBS,Arizona,Colorado,RECEIVING,David,Richards,YDS,49
+2208043,10/17/2015,FBS,Arizona,Colorado,RECEIVING,David,Richards,TD,0
+2208044,10/17/2015,FBS,Arizona,Colorado,RECEIVING,David,Richards,LONG,34
+2208045,10/17/2015,FBS,Arizona,Colorado,RECEIVING,Jared,Baker,REC,3
+2208046,10/17/2015,FBS,Arizona,Colorado,RECEIVING,Jared,Baker,YDS,40
+2208047,10/17/2015,FBS,Arizona,Colorado,RECEIVING,Jared,Baker,TD,1
+2208048,10/17/2015,FBS,Arizona,Colorado,RECEIVING,Jared,Baker,LONG,25
+2208049,10/17/2015,FBS,Arizona,Colorado,RECEIVING,Josh,Kern,REC,2
+2208050,10/17/2015,FBS,Arizona,Colorado,RECEIVING,Josh,Kern,YDS,15
+2208051,10/17/2015,FBS,Arizona,Colorado,RECEIVING,Josh,Kern,TD,1
+2208052,10/17/2015,FBS,Arizona,Colorado,RECEIVING,Josh,Kern,LONG,10
+2208053,10/17/2015,FBS,Arizona,Colorado,RECEIVING,Samajie,Grant,REC,3
+2208054,10/17/2015,FBS,Arizona,Colorado,RECEIVING,Samajie,Grant,YDS,8
+2208055,10/17/2015,FBS,Arizona,Colorado,RECEIVING,Samajie,Grant,TD,0
+2208056,10/17/2015,FBS,Arizona,Colorado,RECEIVING,Samajie,Grant,LONG,6
+2208057,10/17/2015,FBS,Arizona,Colorado,RECEIVING,Trey,Griffey,REC,1
+2208058,10/17/2015,FBS,Arizona,Colorado,RECEIVING,Trey,Griffey,YDS,7
+2208059,10/17/2015,FBS,Arizona,Colorado,RECEIVING,Trey,Griffey,TD,0
+2208060,10/17/2015,FBS,Arizona,Colorado,RECEIVING,Trey,Griffey,LONG,7
+2208061,10/17/2015,FBS,Arizona,Colorado,RECEIVING,Johnny,Jackson,REC,1
+2208062,10/17/2015,FBS,Arizona,Colorado,RECEIVING,Johnny,Jackson,YDS,6
+2208063,10/17/2015,FBS,Arizona,Colorado,RECEIVING,Johnny,Jackson,TD,0
+2208064,10/17/2015,FBS,Arizona,Colorado,RECEIVING,Johnny,Jackson,LONG,6
+2208065,10/17/2015,FBS,Arizona,Colorado,KICKING,Casey,Skowron,FG-FGA,1/2
+2208066,10/17/2015,FBS,Arizona,Colorado,KICKING,Casey,Skowron,LONG,48
+2208067,10/17/2015,FBS,Arizona,Colorado,KICKING,Casey,Skowron,XP,5
+2208068,10/17/2015,FBS,Arizona,Colorado,KICKING,Casey,Skowron,PTS,8
+2208069,10/17/2015,FBS,Arizona,Colorado,PUNTING,Drew,Riggleman,NO,7
+2208070,10/17/2015,FBS,Arizona,Colorado,PUNTING,Drew,Riggleman,YDS,242
+2208071,10/17/2015,FBS,Arizona,Colorado,PUNTING,Drew,Riggleman,AVG,34.6
+2208072,10/17/2015,FBS,Arizona,Colorado,PUNTING,Drew,Riggleman,LONG,47
+2208073,10/17/2015,FBS,Arizona,Colorado,PUNT RETURNS,Nate,Phillips,NO,2
+2208074,10/17/2015,FBS,Arizona,Colorado,PUNT RETURNS,Nate,Phillips,YDS,13
+2208075,10/17/2015,FBS,Arizona,Colorado,PUNT RETURNS,Nate,Phillips,AVG,6.5
+2208076,10/17/2015,FBS,Arizona,Colorado,PUNT RETURNS,Nate,Phillips,LONG,8
+2208077,10/17/2015,FBS,Arizona,Colorado,PUNT RETURNS,Samajie,Grant,NO,0
+2208078,10/17/2015,FBS,Arizona,Colorado,PUNT RETURNS,Samajie,Grant,YDS,0
+2208079,10/17/2015,FBS,Arizona,Colorado,PUNT RETURNS,Samajie,Grant,AVG,-
+2208080,10/17/2015,FBS,Arizona,Colorado,PUNT RETURNS,Samajie,Grant,LONG,0
+2208081,10/17/2015,FBS,Arizona,Colorado,PUNT RETURNS,Trey,Griffey,NO,1
+2208082,10/17/2015,FBS,Arizona,Colorado,PUNT RETURNS,Trey,Griffey,YDS,-3
+2208083,10/17/2015,FBS,Arizona,Colorado,PUNT RETURNS,Trey,Griffey,AVG,-
+2208084,10/17/2015,FBS,Arizona,Colorado,PUNT RETURNS,Trey,Griffey,LONG,-3
+2208085,10/17/2015,FBS,Arizona,Colorado,KICK RETURNS,Tyrell,Johnson,NO,3
+2208086,10/17/2015,FBS,Arizona,Colorado,KICK RETURNS,Tyrell,Johnson,YDS,66
+2208087,10/17/2015,FBS,Arizona,Colorado,KICK RETURNS,Tyrell,Johnson,AVG,22.0
+2208088,10/17/2015,FBS,Arizona,Colorado,KICK RETURNS,Tyrell,Johnson,LONG,24
+2208089,10/17/2015,FBS,Colorado,Arizona,RUSHING,Phillip,Lindsay,ATT,23
+2208090,10/17/2015,FBS,Colorado,Arizona,RUSHING,Phillip,Lindsay,YDS,91
+2208091,10/17/2015,FBS,Colorado,Arizona,RUSHING,Phillip,Lindsay,TD,0
+2208092,10/17/2015,FBS,Colorado,Arizona,RUSHING,Phillip,Lindsay,LONG,15
+2208093,10/17/2015,FBS,Colorado,Arizona,RUSHING,Patrick,Carr,ATT,7
+2208094,10/17/2015,FBS,Colorado,Arizona,RUSHING,Patrick,Carr,YDS,28
+2208095,10/17/2015,FBS,Colorado,Arizona,RUSHING,Patrick,Carr,TD,0
+2208096,10/17/2015,FBS,Colorado,Arizona,RUSHING,Patrick,Carr,LONG,10
+2208097,10/17/2015,FBS,Colorado,Arizona,RUSHING,Sefo,Liufau,ATT,10
+2208098,10/17/2015,FBS,Colorado,Arizona,RUSHING,Sefo,Liufau,YDS,13
+2208099,10/17/2015,FBS,Colorado,Arizona,RUSHING,Sefo,Liufau,TD,2
+2208100,10/17/2015,FBS,Colorado,Arizona,RUSHING,Sefo,Liufau,LONG,8
+2208101,10/17/2015,FBS,Colorado,Arizona,RUSHING,Donovan,Lee,ATT,1
+2208102,10/17/2015,FBS,Colorado,Arizona,RUSHING,Donovan,Lee,YDS,4
+2208103,10/17/2015,FBS,Colorado,Arizona,RUSHING,Donovan,Lee,TD,0
+2208104,10/17/2015,FBS,Colorado,Arizona,RUSHING,Donovan,Lee,LONG,4
+2208105,10/17/2015,FBS,Colorado,Arizona,RUSHING,Christian,Powell,ATT,1
+2208106,10/17/2015,FBS,Colorado,Arizona,RUSHING,Christian,Powell,YDS,1
+2208107,10/17/2015,FBS,Colorado,Arizona,RUSHING,Christian,Powell,TD,0
+2208108,10/17/2015,FBS,Colorado,Arizona,RUSHING,Christian,Powell,LONG,1
+2208109,10/17/2015,FBS,Colorado,Arizona,RUSHING,Shay,Fields,ATT,1
+2208110,10/17/2015,FBS,Colorado,Arizona,RUSHING,Shay,Fields,YDS,-9
+2208111,10/17/2015,FBS,Colorado,Arizona,RUSHING,Shay,Fields,TD,0
+2208112,10/17/2015,FBS,Colorado,Arizona,RUSHING,Shay,Fields,LONG,-9
+2208113,10/17/2015,FBS,Colorado,Arizona,PASSING,Sefo,Liufau,CP-ATT-INT,28-43-0
+2208114,10/17/2015,FBS,Colorado,Arizona,PASSING,Sefo,Liufau,YDS,339
+2208115,10/17/2015,FBS,Colorado,Arizona,PASSING,Sefo,Liufau,TD,2
+2208116,10/17/2015,FBS,Colorado,Arizona,PASSING,Sefo,Liufau,LONG,72
+2208117,10/17/2015,FBS,Colorado,Arizona,PASSING,,Team,CP-ATT-INT,0-1-0
+2208118,10/17/2015,FBS,Colorado,Arizona,PASSING,,Team,YDS,0
+2208119,10/17/2015,FBS,Colorado,Arizona,PASSING,,Team,TD,0
+2208120,10/17/2015,FBS,Colorado,Arizona,PASSING,,Team,LONG,0
+2208121,10/17/2015,FBS,Colorado,Arizona,RECEIVING,Shay,Fields,REC,8
+2208122,10/17/2015,FBS,Colorado,Arizona,RECEIVING,Shay,Fields,YDS,168
+2208123,10/17/2015,FBS,Colorado,Arizona,RECEIVING,Shay,Fields,TD,2
+2208124,10/17/2015,FBS,Colorado,Arizona,RECEIVING,Shay,Fields,LONG,72
+2208125,10/17/2015,FBS,Colorado,Arizona,RECEIVING,Nelson,Spruce,REC,8
+2208126,10/17/2015,FBS,Colorado,Arizona,RECEIVING,Nelson,Spruce,YDS,63
+2208127,10/17/2015,FBS,Colorado,Arizona,RECEIVING,Nelson,Spruce,TD,0
+2208128,10/17/2015,FBS,Colorado,Arizona,RECEIVING,Nelson,Spruce,LONG,12
+2208129,10/17/2015,FBS,Colorado,Arizona,RECEIVING,Sean,Irwin,REC,2
+2208130,10/17/2015,FBS,Colorado,Arizona,RECEIVING,Sean,Irwin,YDS,52
+2208131,10/17/2015,FBS,Colorado,Arizona,RECEIVING,Sean,Irwin,TD,0
+2208132,10/17/2015,FBS,Colorado,Arizona,RECEIVING,Sean,Irwin,LONG,47
+2208133,10/17/2015,FBS,Colorado,Arizona,RECEIVING,Bryce,Bobo,REC,6
+2208134,10/17/2015,FBS,Colorado,Arizona,RECEIVING,Bryce,Bobo,YDS,51
+2208135,10/17/2015,FBS,Colorado,Arizona,RECEIVING,Bryce,Bobo,TD,0
+2208136,10/17/2015,FBS,Colorado,Arizona,RECEIVING,Bryce,Bobo,LONG,16
+2208137,10/17/2015,FBS,Colorado,Arizona,RECEIVING,Phillip,Lindsay,REC,2
+2208138,10/17/2015,FBS,Colorado,Arizona,RECEIVING,Phillip,Lindsay,YDS,9
+2208139,10/17/2015,FBS,Colorado,Arizona,RECEIVING,Phillip,Lindsay,TD,0
+2208140,10/17/2015,FBS,Colorado,Arizona,RECEIVING,Phillip,Lindsay,LONG,5
+2208141,10/17/2015,FBS,Colorado,Arizona,RECEIVING,Donovan,Lee,REC,2
+2208142,10/17/2015,FBS,Colorado,Arizona,RECEIVING,Donovan,Lee,YDS,5
+2208143,10/17/2015,FBS,Colorado,Arizona,RECEIVING,Donovan,Lee,TD,0
+2208144,10/17/2015,FBS,Colorado,Arizona,RECEIVING,Donovan,Lee,LONG,8
+2208145,10/17/2015,FBS,Colorado,Arizona,KICKING,Diego,Gonzalez,FG-FGA,1/2
+2208146,10/17/2015,FBS,Colorado,Arizona,KICKING,Diego,Gonzalez,LONG,20
+2208147,10/17/2015,FBS,Colorado,Arizona,KICKING,Diego,Gonzalez,XP,4
+2208148,10/17/2015,FBS,Colorado,Arizona,KICKING,Diego,Gonzalez,PTS,7
+2208149,10/17/2015,FBS,Colorado,Arizona,PUNTING,Alex,Kinney,NO,8
+2208150,10/17/2015,FBS,Colorado,Arizona,PUNTING,Alex,Kinney,YDS,343
+2208151,10/17/2015,FBS,Colorado,Arizona,PUNTING,Alex,Kinney,AVG,42.9
+2208152,10/17/2015,FBS,Colorado,Arizona,PUNTING,Alex,Kinney,LONG,54
+2208153,10/17/2015,FBS,Colorado,Arizona,PUNT RETURNS,Nelson,Spruce,NO,0
+2208154,10/17/2015,FBS,Colorado,Arizona,PUNT RETURNS,Nelson,Spruce,YDS,0
+2208155,10/17/2015,FBS,Colorado,Arizona,PUNT RETURNS,Nelson,Spruce,AVG,-
+2208156,10/17/2015,FBS,Colorado,Arizona,PUNT RETURNS,Nelson,Spruce,LONG,0
+2208157,10/17/2015,FBS,Colorado,Arizona,KICK RETURNS,Donovan,Lee,NO,6
+2208158,10/17/2015,FBS,Colorado,Arizona,KICK RETURNS,Donovan,Lee,YDS,129
+2208159,10/17/2015,FBS,Colorado,Arizona,KICK RETURNS,Donovan,Lee,AVG,21.5
+2208160,10/17/2015,FBS,Colorado,Arizona,KICK RETURNS,Donovan,Lee,LONG,35

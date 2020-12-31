@@ -1,0 +1,165 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2020001,9/26/2015,FBS,Arkansas State,Toledo,RUSHING,Michael,Gordon,ATT,7
+2020002,9/26/2015,FBS,Arkansas State,Toledo,RUSHING,Michael,Gordon,YDS,22
+2020003,9/26/2015,FBS,Arkansas State,Toledo,RUSHING,Michael,Gordon,TD,0
+2020004,9/26/2015,FBS,Arkansas State,Toledo,RUSHING,Michael,Gordon,LONG,7
+2020005,9/26/2015,FBS,Arkansas State,Toledo,RUSHING,Johnston,White,ATT,3
+2020006,9/26/2015,FBS,Arkansas State,Toledo,RUSHING,Johnston,White,YDS,12
+2020007,9/26/2015,FBS,Arkansas State,Toledo,RUSHING,Johnston,White,TD,0
+2020008,9/26/2015,FBS,Arkansas State,Toledo,RUSHING,Johnston,White,LONG,6
+2020009,9/26/2015,FBS,Arkansas State,Toledo,RUSHING,Warren,Wand,ATT,4
+2020010,9/26/2015,FBS,Arkansas State,Toledo,RUSHING,Warren,Wand,YDS,8
+2020011,9/26/2015,FBS,Arkansas State,Toledo,RUSHING,Warren,Wand,TD,0
+2020012,9/26/2015,FBS,Arkansas State,Toledo,RUSHING,Warren,Wand,LONG,3
+2020013,9/26/2015,FBS,Arkansas State,Toledo,RUSHING,Blake,Mack,ATT,1
+2020014,9/26/2015,FBS,Arkansas State,Toledo,RUSHING,Blake,Mack,YDS,0
+2020015,9/26/2015,FBS,Arkansas State,Toledo,RUSHING,Blake,Mack,TD,0
+2020016,9/26/2015,FBS,Arkansas State,Toledo,RUSHING,Blake,Mack,LONG,0
+2020017,9/26/2015,FBS,Arkansas State,Toledo,RUSHING,Devin,Mondie,ATT,0
+2020018,9/26/2015,FBS,Arkansas State,Toledo,RUSHING,Devin,Mondie,YDS,0
+2020019,9/26/2015,FBS,Arkansas State,Toledo,RUSHING,Devin,Mondie,TD,0
+2020020,9/26/2015,FBS,Arkansas State,Toledo,RUSHING,Devin,Mondie,LONG,0
+2020021,9/26/2015,FBS,Arkansas State,Toledo,RUSHING,,Team,ATT,1
+2020022,9/26/2015,FBS,Arkansas State,Toledo,RUSHING,,Team,YDS,-2
+2020023,9/26/2015,FBS,Arkansas State,Toledo,RUSHING,,Team,TD,0
+2020024,9/26/2015,FBS,Arkansas State,Toledo,RUSHING,,Team,LONG,-2
+2020025,9/26/2015,FBS,Arkansas State,Toledo,RUSHING,James,Tabary,ATT,8
+2020026,9/26/2015,FBS,Arkansas State,Toledo,RUSHING,James,Tabary,YDS,-54
+2020027,9/26/2015,FBS,Arkansas State,Toledo,RUSHING,James,Tabary,TD,0
+2020028,9/26/2015,FBS,Arkansas State,Toledo,RUSHING,James,Tabary,LONG,0
+2020029,9/26/2015,FBS,Arkansas State,Toledo,PASSING,James,Tabary,CP-ATT-INT,18-35-3
+2020030,9/26/2015,FBS,Arkansas State,Toledo,PASSING,James,Tabary,YDS,223
+2020031,9/26/2015,FBS,Arkansas State,Toledo,PASSING,James,Tabary,TD,0
+2020032,9/26/2015,FBS,Arkansas State,Toledo,PASSING,James,Tabary,LONG,36
+2020033,9/26/2015,FBS,Arkansas State,Toledo,RECEIVING,Blake,Mack,REC,3
+2020034,9/26/2015,FBS,Arkansas State,Toledo,RECEIVING,Blake,Mack,YDS,54
+2020035,9/26/2015,FBS,Arkansas State,Toledo,RECEIVING,Blake,Mack,TD,0
+2020036,9/26/2015,FBS,Arkansas State,Toledo,RECEIVING,Blake,Mack,LONG,36
+2020037,9/26/2015,FBS,Arkansas State,Toledo,RECEIVING,J.D.,McKissic,REC,6
+2020038,9/26/2015,FBS,Arkansas State,Toledo,RECEIVING,J.D.,McKissic,YDS,41
+2020039,9/26/2015,FBS,Arkansas State,Toledo,RECEIVING,J.D.,McKissic,TD,0
+2020040,9/26/2015,FBS,Arkansas State,Toledo,RECEIVING,J.D.,McKissic,LONG,10
+2020041,9/26/2015,FBS,Arkansas State,Toledo,RECEIVING,Warren,Wand,REC,2
+2020042,9/26/2015,FBS,Arkansas State,Toledo,RECEIVING,Warren,Wand,YDS,35
+2020043,9/26/2015,FBS,Arkansas State,Toledo,RECEIVING,Warren,Wand,TD,0
+2020044,9/26/2015,FBS,Arkansas State,Toledo,RECEIVING,Warren,Wand,LONG,31
+2020045,9/26/2015,FBS,Arkansas State,Toledo,RECEIVING,Warren,Leapheart,REC,2
+2020046,9/26/2015,FBS,Arkansas State,Toledo,RECEIVING,Warren,Leapheart,YDS,32
+2020047,9/26/2015,FBS,Arkansas State,Toledo,RECEIVING,Warren,Leapheart,TD,0
+2020048,9/26/2015,FBS,Arkansas State,Toledo,RECEIVING,Warren,Leapheart,LONG,18
+2020049,9/26/2015,FBS,Arkansas State,Toledo,RECEIVING,Dijon,Paschal,REC,1
+2020050,9/26/2015,FBS,Arkansas State,Toledo,RECEIVING,Dijon,Paschal,YDS,31
+2020051,9/26/2015,FBS,Arkansas State,Toledo,RECEIVING,Dijon,Paschal,TD,0
+2020052,9/26/2015,FBS,Arkansas State,Toledo,RECEIVING,Dijon,Paschal,LONG,31
+2020053,9/26/2015,FBS,Arkansas State,Toledo,RECEIVING,Tyler,Trosin,REC,3
+2020054,9/26/2015,FBS,Arkansas State,Toledo,RECEIVING,Tyler,Trosin,YDS,25
+2020055,9/26/2015,FBS,Arkansas State,Toledo,RECEIVING,Tyler,Trosin,TD,0
+2020056,9/26/2015,FBS,Arkansas State,Toledo,RECEIVING,Tyler,Trosin,LONG,11
+2020057,9/26/2015,FBS,Arkansas State,Toledo,RECEIVING,Michael,Gordon,REC,1
+2020058,9/26/2015,FBS,Arkansas State,Toledo,RECEIVING,Michael,Gordon,YDS,5
+2020059,9/26/2015,FBS,Arkansas State,Toledo,RECEIVING,Michael,Gordon,TD,0
+2020060,9/26/2015,FBS,Arkansas State,Toledo,RECEIVING,Michael,Gordon,LONG,5
+2020061,9/26/2015,FBS,Arkansas State,Toledo,KICKING,Drew,White,FG-FGA,0/1
+2020062,9/26/2015,FBS,Arkansas State,Toledo,KICKING,Drew,White,LONG,0
+2020063,9/26/2015,FBS,Arkansas State,Toledo,KICKING,Drew,White,XP,1
+2020064,9/26/2015,FBS,Arkansas State,Toledo,KICKING,Drew,White,PTS,1
+2020065,9/26/2015,FBS,Arkansas State,Toledo,PUNTING,Luke,Ferguson,NO,5
+2020066,9/26/2015,FBS,Arkansas State,Toledo,PUNTING,Luke,Ferguson,YDS,210
+2020067,9/26/2015,FBS,Arkansas State,Toledo,PUNTING,Luke,Ferguson,AVG,42.0
+2020068,9/26/2015,FBS,Arkansas State,Toledo,PUNTING,Luke,Ferguson,LONG,59
+2020069,9/26/2015,FBS,Arkansas State,Toledo,PUNT RETURNS,Chris,Murray,NO,3
+2020070,9/26/2015,FBS,Arkansas State,Toledo,PUNT RETURNS,Chris,Murray,YDS,13
+2020071,9/26/2015,FBS,Arkansas State,Toledo,PUNT RETURNS,Chris,Murray,AVG,4.3
+2020072,9/26/2015,FBS,Arkansas State,Toledo,PUNT RETURNS,Chris,Murray,LONG,10
+2020073,9/26/2015,FBS,Arkansas State,Toledo,KICK RETURNS,J.D.,McKissic,NO,7
+2020074,9/26/2015,FBS,Arkansas State,Toledo,KICK RETURNS,J.D.,McKissic,YDS,211
+2020075,9/26/2015,FBS,Arkansas State,Toledo,KICK RETURNS,J.D.,McKissic,AVG,30.1
+2020076,9/26/2015,FBS,Arkansas State,Toledo,KICK RETURNS,J.D.,McKissic,LONG,92
+2020077,9/26/2015,FBS,Arkansas State,Toledo,KICK RETURNS,Tyler,Trosin,NO,1
+2020078,9/26/2015,FBS,Arkansas State,Toledo,KICK RETURNS,Tyler,Trosin,YDS,5
+2020079,9/26/2015,FBS,Arkansas State,Toledo,KICK RETURNS,Tyler,Trosin,AVG,5.0
+2020080,9/26/2015,FBS,Arkansas State,Toledo,KICK RETURNS,Tyler,Trosin,LONG,5
+2020081,9/26/2015,FBS,Toledo,Arkansas State,RUSHING,Terry,Swanson,ATT,17
+2020082,9/26/2015,FBS,Toledo,Arkansas State,RUSHING,Terry,Swanson,YDS,71
+2020083,9/26/2015,FBS,Toledo,Arkansas State,RUSHING,Terry,Swanson,TD,2
+2020084,9/26/2015,FBS,Toledo,Arkansas State,RUSHING,Terry,Swanson,LONG,16
+2020085,9/26/2015,FBS,Toledo,Arkansas State,RUSHING,Damion,Jones-Moore,ATT,18
+2020086,9/26/2015,FBS,Toledo,Arkansas State,RUSHING,Damion,Jones-Moore,YDS,64
+2020087,9/26/2015,FBS,Toledo,Arkansas State,RUSHING,Damion,Jones-Moore,TD,1
+2020088,9/26/2015,FBS,Toledo,Arkansas State,RUSHING,Damion,Jones-Moore,LONG,10
+2020089,9/26/2015,FBS,Toledo,Arkansas State,RUSHING,Marc,Remy,ATT,2
+2020090,9/26/2015,FBS,Toledo,Arkansas State,RUSHING,Marc,Remy,YDS,20
+2020091,9/26/2015,FBS,Toledo,Arkansas State,RUSHING,Marc,Remy,TD,0
+2020092,9/26/2015,FBS,Toledo,Arkansas State,RUSHING,Marc,Remy,LONG,18
+2020093,9/26/2015,FBS,Toledo,Arkansas State,RUSHING,Michael,Julian,ATT,2
+2020094,9/26/2015,FBS,Toledo,Arkansas State,RUSHING,Michael,Julian,YDS,15
+2020095,9/26/2015,FBS,Toledo,Arkansas State,RUSHING,Michael,Julian,TD,0
+2020096,9/26/2015,FBS,Toledo,Arkansas State,RUSHING,Michael,Julian,LONG,8
+2020097,9/26/2015,FBS,Toledo,Arkansas State,RUSHING,Brad,Smith,ATT,4
+2020098,9/26/2015,FBS,Toledo,Arkansas State,RUSHING,Brad,Smith,YDS,14
+2020099,9/26/2015,FBS,Toledo,Arkansas State,RUSHING,Brad,Smith,TD,0
+2020100,9/26/2015,FBS,Toledo,Arkansas State,RUSHING,Brad,Smith,LONG,5
+2020101,9/26/2015,FBS,Toledo,Arkansas State,RUSHING,Phillip,Ely,ATT,3
+2020102,9/26/2015,FBS,Toledo,Arkansas State,RUSHING,Phillip,Ely,YDS,-15
+2020103,9/26/2015,FBS,Toledo,Arkansas State,RUSHING,Phillip,Ely,TD,0
+2020104,9/26/2015,FBS,Toledo,Arkansas State,RUSHING,Phillip,Ely,LONG,4
+2020105,9/26/2015,FBS,Toledo,Arkansas State,PASSING,Phillip,Ely,CP-ATT-INT,25-52-1
+2020106,9/26/2015,FBS,Toledo,Arkansas State,PASSING,Phillip,Ely,YDS,308
+2020107,9/26/2015,FBS,Toledo,Arkansas State,PASSING,Phillip,Ely,TD,0
+2020108,9/26/2015,FBS,Toledo,Arkansas State,PASSING,Phillip,Ely,LONG,37
+2020109,9/26/2015,FBS,Toledo,Arkansas State,RECEIVING,Cody,Thompson,REC,5
+2020110,9/26/2015,FBS,Toledo,Arkansas State,RECEIVING,Cody,Thompson,YDS,112
+2020111,9/26/2015,FBS,Toledo,Arkansas State,RECEIVING,Cody,Thompson,TD,0
+2020112,9/26/2015,FBS,Toledo,Arkansas State,RECEIVING,Cody,Thompson,LONG,37
+2020113,9/26/2015,FBS,Toledo,Arkansas State,RECEIVING,Alonzo,Russell,REC,5
+2020114,9/26/2015,FBS,Toledo,Arkansas State,RECEIVING,Alonzo,Russell,YDS,60
+2020115,9/26/2015,FBS,Toledo,Arkansas State,RECEIVING,Alonzo,Russell,TD,0
+2020116,9/26/2015,FBS,Toledo,Arkansas State,RECEIVING,Alonzo,Russell,LONG,33
+2020117,9/26/2015,FBS,Toledo,Arkansas State,RECEIVING,Michael,Roberts,REC,3
+2020118,9/26/2015,FBS,Toledo,Arkansas State,RECEIVING,Michael,Roberts,YDS,42
+2020119,9/26/2015,FBS,Toledo,Arkansas State,RECEIVING,Michael,Roberts,TD,0
+2020120,9/26/2015,FBS,Toledo,Arkansas State,RECEIVING,Michael,Roberts,LONG,15
+2020121,9/26/2015,FBS,Toledo,Arkansas State,RECEIVING,Corey,Jones,REC,5
+2020122,9/26/2015,FBS,Toledo,Arkansas State,RECEIVING,Corey,Jones,YDS,40
+2020123,9/26/2015,FBS,Toledo,Arkansas State,RECEIVING,Corey,Jones,TD,0
+2020124,9/26/2015,FBS,Toledo,Arkansas State,RECEIVING,Corey,Jones,LONG,13
+2020125,9/26/2015,FBS,Toledo,Arkansas State,RECEIVING,Diontae,Johnson,REC,2
+2020126,9/26/2015,FBS,Toledo,Arkansas State,RECEIVING,Diontae,Johnson,YDS,27
+2020127,9/26/2015,FBS,Toledo,Arkansas State,RECEIVING,Diontae,Johnson,TD,0
+2020128,9/26/2015,FBS,Toledo,Arkansas State,RECEIVING,Diontae,Johnson,LONG,22
+2020129,9/26/2015,FBS,Toledo,Arkansas State,RECEIVING,Jon'Vea,Johnson,REC,1
+2020130,9/26/2015,FBS,Toledo,Arkansas State,RECEIVING,Jon'Vea,Johnson,YDS,8
+2020131,9/26/2015,FBS,Toledo,Arkansas State,RECEIVING,Jon'Vea,Johnson,TD,0
+2020132,9/26/2015,FBS,Toledo,Arkansas State,RECEIVING,Jon'Vea,Johnson,LONG,8
+2020133,9/26/2015,FBS,Toledo,Arkansas State,RECEIVING,Damion,Jones-Moore,REC,1
+2020134,9/26/2015,FBS,Toledo,Arkansas State,RECEIVING,Damion,Jones-Moore,YDS,8
+2020135,9/26/2015,FBS,Toledo,Arkansas State,RECEIVING,Damion,Jones-Moore,TD,0
+2020136,9/26/2015,FBS,Toledo,Arkansas State,RECEIVING,Damion,Jones-Moore,LONG,8
+2020137,9/26/2015,FBS,Toledo,Arkansas State,RECEIVING,Marc,Remy,REC,1
+2020138,9/26/2015,FBS,Toledo,Arkansas State,RECEIVING,Marc,Remy,YDS,7
+2020139,9/26/2015,FBS,Toledo,Arkansas State,RECEIVING,Marc,Remy,TD,0
+2020140,9/26/2015,FBS,Toledo,Arkansas State,RECEIVING,Marc,Remy,LONG,7
+2020141,9/26/2015,FBS,Toledo,Arkansas State,RECEIVING,Terry,Swanson,REC,2
+2020142,9/26/2015,FBS,Toledo,Arkansas State,RECEIVING,Terry,Swanson,YDS,4
+2020143,9/26/2015,FBS,Toledo,Arkansas State,RECEIVING,Terry,Swanson,TD,0
+2020144,9/26/2015,FBS,Toledo,Arkansas State,RECEIVING,Terry,Swanson,LONG,8
+2020145,9/26/2015,FBS,Toledo,Arkansas State,KICKING,Jameson,Vest,FG-FGA,3/3
+2020146,9/26/2015,FBS,Toledo,Arkansas State,KICKING,Jameson,Vest,LONG,44
+2020147,9/26/2015,FBS,Toledo,Arkansas State,KICKING,Jameson,Vest,XP,4
+2020148,9/26/2015,FBS,Toledo,Arkansas State,KICKING,Jameson,Vest,PTS,13
+2020149,9/26/2015,FBS,Toledo,Arkansas State,PUNTING,Nick,Ellis,NO,5
+2020150,9/26/2015,FBS,Toledo,Arkansas State,PUNTING,Nick,Ellis,YDS,176
+2020151,9/26/2015,FBS,Toledo,Arkansas State,PUNTING,Nick,Ellis,AVG,35.2
+2020152,9/26/2015,FBS,Toledo,Arkansas State,PUNTING,Nick,Ellis,LONG,46
+2020153,9/26/2015,FBS,Toledo,Arkansas State,PUNT RETURNS,Corey,Jones,NO,0
+2020154,9/26/2015,FBS,Toledo,Arkansas State,PUNT RETURNS,Corey,Jones,YDS,0
+2020155,9/26/2015,FBS,Toledo,Arkansas State,PUNT RETURNS,Corey,Jones,AVG,-
+2020156,9/26/2015,FBS,Toledo,Arkansas State,PUNT RETURNS,Corey,Jones,LONG,0
+2020157,9/26/2015,FBS,Toledo,Arkansas State,PUNT RETURNS,Kennedy,Frazier,NO,1
+2020158,9/26/2015,FBS,Toledo,Arkansas State,PUNT RETURNS,Kennedy,Frazier,YDS,0
+2020159,9/26/2015,FBS,Toledo,Arkansas State,PUNT RETURNS,Kennedy,Frazier,AVG,-
+2020160,9/26/2015,FBS,Toledo,Arkansas State,PUNT RETURNS,Kennedy,Frazier,LONG,0
+2020161,9/26/2015,FBS,Toledo,Arkansas State,KICK RETURNS,Diontae,Johnson,NO,1
+2020162,9/26/2015,FBS,Toledo,Arkansas State,KICK RETURNS,Diontae,Johnson,YDS,26
+2020163,9/26/2015,FBS,Toledo,Arkansas State,KICK RETURNS,Diontae,Johnson,AVG,26.0
+2020164,9/26/2015,FBS,Toledo,Arkansas State,KICK RETURNS,Diontae,Johnson,LONG,26

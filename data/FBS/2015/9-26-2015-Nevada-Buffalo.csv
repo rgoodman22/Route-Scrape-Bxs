@@ -1,0 +1,159 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2010001,9/26/2015,FBS,Nevada,Buffalo,RUSHING,James,Butler,ATT,16
+2010002,9/26/2015,FBS,Nevada,Buffalo,RUSHING,James,Butler,YDS,177
+2010003,9/26/2015,FBS,Nevada,Buffalo,RUSHING,James,Butler,TD,1
+2010004,9/26/2015,FBS,Nevada,Buffalo,RUSHING,James,Butler,LONG,91
+2010005,9/26/2015,FBS,Nevada,Buffalo,RUSHING,Don,Jackson,ATT,17
+2010006,9/26/2015,FBS,Nevada,Buffalo,RUSHING,Don,Jackson,YDS,113
+2010007,9/26/2015,FBS,Nevada,Buffalo,RUSHING,Don,Jackson,TD,2
+2010008,9/26/2015,FBS,Nevada,Buffalo,RUSHING,Don,Jackson,LONG,55
+2010009,9/26/2015,FBS,Nevada,Buffalo,RUSHING,Tyler,Stewart,ATT,4
+2010010,9/26/2015,FBS,Nevada,Buffalo,RUSHING,Tyler,Stewart,YDS,3
+2010011,9/26/2015,FBS,Nevada,Buffalo,RUSHING,Tyler,Stewart,TD,0
+2010012,9/26/2015,FBS,Nevada,Buffalo,RUSHING,Tyler,Stewart,LONG,7
+2010013,9/26/2015,FBS,Nevada,Buffalo,RUSHING,,Team,ATT,2
+2010014,9/26/2015,FBS,Nevada,Buffalo,RUSHING,,Team,YDS,-4
+2010015,9/26/2015,FBS,Nevada,Buffalo,RUSHING,,Team,TD,0
+2010016,9/26/2015,FBS,Nevada,Buffalo,RUSHING,,Team,LONG,-2
+2010017,9/26/2015,FBS,Nevada,Buffalo,PASSING,Tyler,Stewart,CP-ATT-INT,12-21-0
+2010018,9/26/2015,FBS,Nevada,Buffalo,PASSING,Tyler,Stewart,YDS,90
+2010019,9/26/2015,FBS,Nevada,Buffalo,PASSING,Tyler,Stewart,TD,0
+2010020,9/26/2015,FBS,Nevada,Buffalo,PASSING,Tyler,Stewart,LONG,20
+2010021,9/26/2015,FBS,Nevada,Buffalo,RECEIVING,Hasaan,Henderson,REC,2
+2010022,9/26/2015,FBS,Nevada,Buffalo,RECEIVING,Hasaan,Henderson,YDS,28
+2010023,9/26/2015,FBS,Nevada,Buffalo,RECEIVING,Hasaan,Henderson,TD,0
+2010024,9/26/2015,FBS,Nevada,Buffalo,RECEIVING,Hasaan,Henderson,LONG,20
+2010025,9/26/2015,FBS,Nevada,Buffalo,RECEIVING,Wyatt,Demps,REC,4
+2010026,9/26/2015,FBS,Nevada,Buffalo,RECEIVING,Wyatt,Demps,YDS,24
+2010027,9/26/2015,FBS,Nevada,Buffalo,RECEIVING,Wyatt,Demps,TD,0
+2010028,9/26/2015,FBS,Nevada,Buffalo,RECEIVING,Wyatt,Demps,LONG,11
+2010029,9/26/2015,FBS,Nevada,Buffalo,RECEIVING,Jerico,Richardson,REC,4
+2010030,9/26/2015,FBS,Nevada,Buffalo,RECEIVING,Jerico,Richardson,YDS,24
+2010031,9/26/2015,FBS,Nevada,Buffalo,RECEIVING,Jerico,Richardson,TD,0
+2010032,9/26/2015,FBS,Nevada,Buffalo,RECEIVING,Jerico,Richardson,LONG,12
+2010033,9/26/2015,FBS,Nevada,Buffalo,RECEIVING,Jarred,Gipson,REC,1
+2010034,9/26/2015,FBS,Nevada,Buffalo,RECEIVING,Jarred,Gipson,YDS,13
+2010035,9/26/2015,FBS,Nevada,Buffalo,RECEIVING,Jarred,Gipson,TD,0
+2010036,9/26/2015,FBS,Nevada,Buffalo,RECEIVING,Jarred,Gipson,LONG,13
+2010037,9/26/2015,FBS,Nevada,Buffalo,RECEIVING,Victor,Gonzalez,REC,1
+2010038,9/26/2015,FBS,Nevada,Buffalo,RECEIVING,Victor,Gonzalez,YDS,1
+2010039,9/26/2015,FBS,Nevada,Buffalo,RECEIVING,Victor,Gonzalez,TD,0
+2010040,9/26/2015,FBS,Nevada,Buffalo,RECEIVING,Victor,Gonzalez,LONG,1
+2010041,9/26/2015,FBS,Nevada,Buffalo,KICKING,Brent,Zuzo,FG-FGA,1/1
+2010042,9/26/2015,FBS,Nevada,Buffalo,KICKING,Brent,Zuzo,LONG,38
+2010043,9/26/2015,FBS,Nevada,Buffalo,KICKING,Brent,Zuzo,XP,3
+2010044,9/26/2015,FBS,Nevada,Buffalo,KICKING,Brent,Zuzo,PTS,6
+2010045,9/26/2015,FBS,Nevada,Buffalo,PUNTING,Alex,Boy,NO,7
+2010046,9/26/2015,FBS,Nevada,Buffalo,PUNTING,Alex,Boy,YDS,283
+2010047,9/26/2015,FBS,Nevada,Buffalo,PUNTING,Alex,Boy,AVG,40.4
+2010048,9/26/2015,FBS,Nevada,Buffalo,PUNTING,Alex,Boy,LONG,45
+2010049,9/26/2015,FBS,Nevada,Buffalo,PUNT RETURNS,Andew,Celis,NO,2
+2010050,9/26/2015,FBS,Nevada,Buffalo,PUNT RETURNS,Andew,Celis,YDS,23
+2010051,9/26/2015,FBS,Nevada,Buffalo,PUNT RETURNS,Andew,Celis,AVG,11.5
+2010052,9/26/2015,FBS,Nevada,Buffalo,PUNT RETURNS,Andew,Celis,LONG,17
+2010053,9/26/2015,FBS,Nevada,Buffalo,KICK RETURNS,Elijah,Mitchell,NO,2
+2010054,9/26/2015,FBS,Nevada,Buffalo,KICK RETURNS,Elijah,Mitchell,YDS,57
+2010055,9/26/2015,FBS,Nevada,Buffalo,KICK RETURNS,Elijah,Mitchell,AVG,28.5
+2010056,9/26/2015,FBS,Nevada,Buffalo,KICK RETURNS,Elijah,Mitchell,LONG,36
+2010057,9/26/2015,FBS,Nevada,Buffalo,DEFENSE,Alex,Bertrando,TOT,0
+2010058,9/26/2015,FBS,Nevada,Buffalo,DEFENSE,Alex,Bertrando,SOLO,0
+2010059,9/26/2015,FBS,Nevada,Buffalo,DEFENSE,Alex,Bertrando,SACKS,0.0
+2010060,9/26/2015,FBS,Nevada,Buffalo,DEFENSE,Alex,Bertrando,TFL,0
+2010061,9/26/2015,FBS,Nevada,Buffalo,DEFENSE,Alex,Bertrando,INT,0
+2010062,9/26/2015,FBS,Nevada,Buffalo,DEFENSE,Alex,Bertrando,FF,0
+2010063,9/26/2015,FBS,Nevada,Buffalo,DEFENSE,Alex,Bertrando,FR,1
+2010064,9/26/2015,FBS,Nevada,Buffalo,DEFENSE,Rykeem,Yates,TOT,1
+2010065,9/26/2015,FBS,Nevada,Buffalo,DEFENSE,Rykeem,Yates,SOLO,1
+2010066,9/26/2015,FBS,Nevada,Buffalo,DEFENSE,Rykeem,Yates,SACKS,1.0
+2010067,9/26/2015,FBS,Nevada,Buffalo,DEFENSE,Rykeem,Yates,TFL,1
+2010068,9/26/2015,FBS,Nevada,Buffalo,DEFENSE,Rykeem,Yates,INT,0
+2010069,9/26/2015,FBS,Nevada,Buffalo,DEFENSE,Rykeem,Yates,FF,0
+2010070,9/26/2015,FBS,Nevada,Buffalo,DEFENSE,Rykeem,Yates,FR,0
+2010071,9/26/2015,FBS,Nevada,Buffalo,DEFENSE,Dameon,Baber,TOT,0
+2010072,9/26/2015,FBS,Nevada,Buffalo,DEFENSE,Dameon,Baber,SOLO,0
+2010073,9/26/2015,FBS,Nevada,Buffalo,DEFENSE,Dameon,Baber,SACKS,0.0
+2010074,9/26/2015,FBS,Nevada,Buffalo,DEFENSE,Dameon,Baber,TFL,0
+2010075,9/26/2015,FBS,Nevada,Buffalo,DEFENSE,Dameon,Baber,INT,2
+2010076,9/26/2015,FBS,Nevada,Buffalo,DEFENSE,Dameon,Baber,FF,0
+2010077,9/26/2015,FBS,Nevada,Buffalo,DEFENSE,Dameon,Baber,FR,0
+2010078,9/26/2015,FBS,Nevada,Buffalo,DEFENSE,Brendan,O'Leary-Orange,TOT,1
+2010079,9/26/2015,FBS,Nevada,Buffalo,DEFENSE,Brendan,O'Leary-Orange,SOLO,1
+2010080,9/26/2015,FBS,Nevada,Buffalo,DEFENSE,Brendan,O'Leary-Orange,SACKS,0.0
+2010081,9/26/2015,FBS,Nevada,Buffalo,DEFENSE,Brendan,O'Leary-Orange,TFL,0
+2010082,9/26/2015,FBS,Nevada,Buffalo,DEFENSE,Brendan,O'Leary-Orange,INT,0
+2010083,9/26/2015,FBS,Nevada,Buffalo,DEFENSE,Brendan,O'Leary-Orange,FF,0
+2010084,9/26/2015,FBS,Nevada,Buffalo,DEFENSE,Brendan,O'Leary-Orange,FR,0
+2010085,9/26/2015,FBS,Nevada,Buffalo,DEFENSE,Ian,Seau,TOT,1
+2010086,9/26/2015,FBS,Nevada,Buffalo,DEFENSE,Ian,Seau,SOLO,1
+2010087,9/26/2015,FBS,Nevada,Buffalo,DEFENSE,Ian,Seau,SACKS,1.0
+2010088,9/26/2015,FBS,Nevada,Buffalo,DEFENSE,Ian,Seau,TFL,1
+2010089,9/26/2015,FBS,Nevada,Buffalo,DEFENSE,Ian,Seau,INT,0
+2010090,9/26/2015,FBS,Nevada,Buffalo,DEFENSE,Ian,Seau,FF,0
+2010091,9/26/2015,FBS,Nevada,Buffalo,DEFENSE,Ian,Seau,FR,0
+2010092,9/26/2015,FBS,Buffalo,Nevada,RUSHING,Jordan,Johnson,ATT,13
+2010093,9/26/2015,FBS,Buffalo,Nevada,RUSHING,Jordan,Johnson,YDS,79
+2010094,9/26/2015,FBS,Buffalo,Nevada,RUSHING,Jordan,Johnson,TD,0
+2010095,9/26/2015,FBS,Buffalo,Nevada,RUSHING,Jordan,Johnson,LONG,37
+2010096,9/26/2015,FBS,Buffalo,Nevada,RUSHING,Anthone,Taylor,ATT,16
+2010097,9/26/2015,FBS,Buffalo,Nevada,RUSHING,Anthone,Taylor,YDS,68
+2010098,9/26/2015,FBS,Buffalo,Nevada,RUSHING,Anthone,Taylor,TD,0
+2010099,9/26/2015,FBS,Buffalo,Nevada,RUSHING,Anthone,Taylor,LONG,18
+2010100,9/26/2015,FBS,Buffalo,Nevada,RUSHING,Malcolm,Robinson,ATT,2
+2010101,9/26/2015,FBS,Buffalo,Nevada,RUSHING,Malcolm,Robinson,YDS,9
+2010102,9/26/2015,FBS,Buffalo,Nevada,RUSHING,Malcolm,Robinson,TD,0
+2010103,9/26/2015,FBS,Buffalo,Nevada,RUSHING,Malcolm,Robinson,LONG,7
+2010104,9/26/2015,FBS,Buffalo,Nevada,RUSHING,Joe,Licata,ATT,4
+2010105,9/26/2015,FBS,Buffalo,Nevada,RUSHING,Joe,Licata,YDS,-7
+2010106,9/26/2015,FBS,Buffalo,Nevada,RUSHING,Joe,Licata,TD,0
+2010107,9/26/2015,FBS,Buffalo,Nevada,RUSHING,Joe,Licata,LONG,5
+2010108,9/26/2015,FBS,Buffalo,Nevada,PASSING,Joe,Licata,CP-ATT-INT,28-46-2
+2010109,9/26/2015,FBS,Buffalo,Nevada,PASSING,Joe,Licata,YDS,338
+2010110,9/26/2015,FBS,Buffalo,Nevada,PASSING,Joe,Licata,TD,2
+2010111,9/26/2015,FBS,Buffalo,Nevada,PASSING,Joe,Licata,LONG,41
+2010112,9/26/2015,FBS,Buffalo,Nevada,RECEIVING,Matt,Weiser,REC,10
+2010113,9/26/2015,FBS,Buffalo,Nevada,RECEIVING,Matt,Weiser,YDS,131
+2010114,9/26/2015,FBS,Buffalo,Nevada,RECEIVING,Matt,Weiser,TD,1
+2010115,9/26/2015,FBS,Buffalo,Nevada,RECEIVING,Matt,Weiser,LONG,41
+2010116,9/26/2015,FBS,Buffalo,Nevada,RECEIVING,Ron,Willoughby,REC,10
+2010117,9/26/2015,FBS,Buffalo,Nevada,RECEIVING,Ron,Willoughby,YDS,122
+2010118,9/26/2015,FBS,Buffalo,Nevada,RECEIVING,Ron,Willoughby,TD,0
+2010119,9/26/2015,FBS,Buffalo,Nevada,RECEIVING,Ron,Willoughby,LONG,34
+2010120,9/26/2015,FBS,Buffalo,Nevada,RECEIVING,Collin,Lisa,REC,4
+2010121,9/26/2015,FBS,Buffalo,Nevada,RECEIVING,Collin,Lisa,YDS,51
+2010122,9/26/2015,FBS,Buffalo,Nevada,RECEIVING,Collin,Lisa,TD,1
+2010123,9/26/2015,FBS,Buffalo,Nevada,RECEIVING,Collin,Lisa,LONG,21
+2010124,9/26/2015,FBS,Buffalo,Nevada,RECEIVING,Brandon,Smiley,REC,2
+2010125,9/26/2015,FBS,Buffalo,Nevada,RECEIVING,Brandon,Smiley,YDS,23
+2010126,9/26/2015,FBS,Buffalo,Nevada,RECEIVING,Brandon,Smiley,TD,0
+2010127,9/26/2015,FBS,Buffalo,Nevada,RECEIVING,Brandon,Smiley,LONG,14
+2010128,9/26/2015,FBS,Buffalo,Nevada,RECEIVING,Kendall,Patterson,REC,1
+2010129,9/26/2015,FBS,Buffalo,Nevada,RECEIVING,Kendall,Patterson,YDS,6
+2010130,9/26/2015,FBS,Buffalo,Nevada,RECEIVING,Kendall,Patterson,TD,0
+2010131,9/26/2015,FBS,Buffalo,Nevada,RECEIVING,Kendall,Patterson,LONG,6
+2010132,9/26/2015,FBS,Buffalo,Nevada,RECEIVING,Anthone,Taylor,REC,1
+2010133,9/26/2015,FBS,Buffalo,Nevada,RECEIVING,Anthone,Taylor,YDS,5
+2010134,9/26/2015,FBS,Buffalo,Nevada,RECEIVING,Anthone,Taylor,TD,0
+2010135,9/26/2015,FBS,Buffalo,Nevada,RECEIVING,Anthone,Taylor,LONG,5
+2010136,9/26/2015,FBS,Buffalo,Nevada,KICKING,Adam,Mitcheson,FG-FGA,2/2
+2010137,9/26/2015,FBS,Buffalo,Nevada,KICKING,Adam,Mitcheson,LONG,43
+2010138,9/26/2015,FBS,Buffalo,Nevada,KICKING,Adam,Mitcheson,XP,1
+2010139,9/26/2015,FBS,Buffalo,Nevada,KICKING,Adam,Mitcheson,PTS,7
+2010140,9/26/2015,FBS,Buffalo,Nevada,PUNTING,Tyler,Grassman,NO,5
+2010141,9/26/2015,FBS,Buffalo,Nevada,PUNTING,Tyler,Grassman,YDS,220
+2010142,9/26/2015,FBS,Buffalo,Nevada,PUNTING,Tyler,Grassman,AVG,44.0
+2010143,9/26/2015,FBS,Buffalo,Nevada,PUNTING,Tyler,Grassman,LONG,57
+2010144,9/26/2015,FBS,Buffalo,Nevada,PUNT RETURNS,Collin,Lisa,NO,1
+2010145,9/26/2015,FBS,Buffalo,Nevada,PUNT RETURNS,Collin,Lisa,YDS,0
+2010146,9/26/2015,FBS,Buffalo,Nevada,PUNT RETURNS,Collin,Lisa,AVG,-
+2010147,9/26/2015,FBS,Buffalo,Nevada,PUNT RETURNS,Collin,Lisa,LONG,0
+2010148,9/26/2015,FBS,Buffalo,Nevada,KICK RETURNS,Johnathan,Hawkins,NO,1
+2010149,9/26/2015,FBS,Buffalo,Nevada,KICK RETURNS,Johnathan,Hawkins,YDS,18
+2010150,9/26/2015,FBS,Buffalo,Nevada,KICK RETURNS,Johnathan,Hawkins,AVG,18.0
+2010151,9/26/2015,FBS,Buffalo,Nevada,KICK RETURNS,Johnathan,Hawkins,LONG,18
+2010152,9/26/2015,FBS,Buffalo,Nevada,DEFENSE,Nick,Gilbo,TOT,1
+2010153,9/26/2015,FBS,Buffalo,Nevada,DEFENSE,Nick,Gilbo,SOLO,1
+2010154,9/26/2015,FBS,Buffalo,Nevada,DEFENSE,Nick,Gilbo,SACKS,1.0
+2010155,9/26/2015,FBS,Buffalo,Nevada,DEFENSE,Nick,Gilbo,TFL,1
+2010156,9/26/2015,FBS,Buffalo,Nevada,DEFENSE,Nick,Gilbo,INT,0
+2010157,9/26/2015,FBS,Buffalo,Nevada,DEFENSE,Nick,Gilbo,FF,0
+2010158,9/26/2015,FBS,Buffalo,Nevada,DEFENSE,Nick,Gilbo,FR,0

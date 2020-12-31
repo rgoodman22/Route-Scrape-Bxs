@@ -1,0 +1,182 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+5490001,9/14/2019,FBS,Florida St.,Virginia,RUSHING,Cam,Akers,ATT,18
+5490002,9/14/2019,FBS,Florida St.,Virginia,RUSHING,Cam,Akers,YDS,78
+5490003,9/14/2019,FBS,Florida St.,Virginia,RUSHING,Cam,Akers,TD,0
+5490004,9/14/2019,FBS,Florida St.,Virginia,RUSHING,Cam,Akers,LONG,17
+5490005,9/14/2019,FBS,Florida St.,Virginia,RUSHING,Khalan,Laborn,ATT,3
+5490006,9/14/2019,FBS,Florida St.,Virginia,RUSHING,Khalan,Laborn,YDS,27
+5490007,9/14/2019,FBS,Florida St.,Virginia,RUSHING,Khalan,Laborn,TD,0
+5490008,9/14/2019,FBS,Florida St.,Virginia,RUSHING,Khalan,Laborn,LONG,36
+5490009,9/14/2019,FBS,Florida St.,Virginia,RUSHING,Keyshawn,Helton,ATT,1
+5490010,9/14/2019,FBS,Florida St.,Virginia,RUSHING,Keyshawn,Helton,YDS,5
+5490011,9/14/2019,FBS,Florida St.,Virginia,RUSHING,Keyshawn,Helton,TD,0
+5490012,9/14/2019,FBS,Florida St.,Virginia,RUSHING,Keyshawn,Helton,LONG,5
+5490013,9/14/2019,FBS,Florida St.,Virginia,RUSHING,,Team,ATT,1
+5490014,9/14/2019,FBS,Florida St.,Virginia,RUSHING,,Team,YDS,-4
+5490015,9/14/2019,FBS,Florida St.,Virginia,RUSHING,,Team,TD,0
+5490016,9/14/2019,FBS,Florida St.,Virginia,RUSHING,,Team,LONG,-4
+5490017,9/14/2019,FBS,Florida St.,Virginia,RUSHING,James,Blackman,ATT,6
+5490018,9/14/2019,FBS,Florida St.,Virginia,RUSHING,James,Blackman,YDS,-11
+5490019,9/14/2019,FBS,Florida St.,Virginia,RUSHING,James,Blackman,TD,0
+5490020,9/14/2019,FBS,Florida St.,Virginia,RUSHING,James,Blackman,LONG,3
+5490021,9/14/2019,FBS,Florida St.,Virginia,PASSING,James,Blackman,CP-ATT-INT,22-37-0
+5490022,9/14/2019,FBS,Florida St.,Virginia,PASSING,James,Blackman,YDS,234
+5490023,9/14/2019,FBS,Florida St.,Virginia,PASSING,James,Blackman,TD,3
+5490024,9/14/2019,FBS,Florida St.,Virginia,PASSING,James,Blackman,LONG,30
+5490025,9/14/2019,FBS,Florida St.,Virginia,RECEIVING,Tamorrion,Terry,REC,4
+5490026,9/14/2019,FBS,Florida St.,Virginia,RECEIVING,Tamorrion,Terry,YDS,78
+5490027,9/14/2019,FBS,Florida St.,Virginia,RECEIVING,Tamorrion,Terry,TD,0
+5490028,9/14/2019,FBS,Florida St.,Virginia,RECEIVING,Tamorrion,Terry,LONG,28
+5490029,9/14/2019,FBS,Florida St.,Virginia,RECEIVING,Tre',McKitty,REC,4
+5490030,9/14/2019,FBS,Florida St.,Virginia,RECEIVING,Tre',McKitty,YDS,70
+5490031,9/14/2019,FBS,Florida St.,Virginia,RECEIVING,Tre',McKitty,TD,0
+5490032,9/14/2019,FBS,Florida St.,Virginia,RECEIVING,Tre',McKitty,LONG,30
+5490033,9/14/2019,FBS,Florida St.,Virginia,RECEIVING,Keyshawn,Helton,REC,5
+5490034,9/14/2019,FBS,Florida St.,Virginia,RECEIVING,Keyshawn,Helton,YDS,34
+5490035,9/14/2019,FBS,Florida St.,Virginia,RECEIVING,Keyshawn,Helton,TD,1
+5490036,9/14/2019,FBS,Florida St.,Virginia,RECEIVING,Keyshawn,Helton,LONG,17
+5490037,9/14/2019,FBS,Florida St.,Virginia,RECEIVING,Tre'Shaun,Harrison,REC,1
+5490038,9/14/2019,FBS,Florida St.,Virginia,RECEIVING,Tre'Shaun,Harrison,YDS,18
+5490039,9/14/2019,FBS,Florida St.,Virginia,RECEIVING,Tre'Shaun,Harrison,TD,0
+5490040,9/14/2019,FBS,Florida St.,Virginia,RECEIVING,Tre'Shaun,Harrison,LONG,18
+5490041,9/14/2019,FBS,Florida St.,Virginia,RECEIVING,Khalan,Laborn,REC,2
+5490042,9/14/2019,FBS,Florida St.,Virginia,RECEIVING,Khalan,Laborn,YDS,11
+5490043,9/14/2019,FBS,Florida St.,Virginia,RECEIVING,Khalan,Laborn,TD,0
+5490044,9/14/2019,FBS,Florida St.,Virginia,RECEIVING,Khalan,Laborn,LONG,10
+5490045,9/14/2019,FBS,Florida St.,Virginia,RECEIVING,Gabe,Nabers,REC,1
+5490046,9/14/2019,FBS,Florida St.,Virginia,RECEIVING,Gabe,Nabers,YDS,10
+5490047,9/14/2019,FBS,Florida St.,Virginia,RECEIVING,Gabe,Nabers,TD,1
+5490048,9/14/2019,FBS,Florida St.,Virginia,RECEIVING,Gabe,Nabers,LONG,10
+5490049,9/14/2019,FBS,Florida St.,Virginia,RECEIVING,Cam,Akers,REC,3
+5490050,9/14/2019,FBS,Florida St.,Virginia,RECEIVING,Cam,Akers,YDS,9
+5490051,9/14/2019,FBS,Florida St.,Virginia,RECEIVING,Cam,Akers,TD,1
+5490052,9/14/2019,FBS,Florida St.,Virginia,RECEIVING,Cam,Akers,LONG,7
+5490053,9/14/2019,FBS,Florida St.,Virginia,RECEIVING,Ontaria,Wilson,REC,2
+5490054,9/14/2019,FBS,Florida St.,Virginia,RECEIVING,Ontaria,Wilson,YDS,4
+5490055,9/14/2019,FBS,Florida St.,Virginia,RECEIVING,Ontaria,Wilson,TD,0
+5490056,9/14/2019,FBS,Florida St.,Virginia,RECEIVING,Ontaria,Wilson,LONG,4
+5490057,9/14/2019,FBS,Florida St.,Virginia,KICKING,Ricky,Aguayo,FG-FGA,1/1
+5490058,9/14/2019,FBS,Florida St.,Virginia,KICKING,Ricky,Aguayo,LONG,53
+5490059,9/14/2019,FBS,Florida St.,Virginia,KICKING,Ricky,Aguayo,XP,3
+5490060,9/14/2019,FBS,Florida St.,Virginia,KICKING,Ricky,Aguayo,PTS,6
+5490061,9/14/2019,FBS,Florida St.,Virginia,PUNTING,Tommy,Martin,NO,6
+5490062,9/14/2019,FBS,Florida St.,Virginia,PUNTING,Tommy,Martin,YDS,254
+5490063,9/14/2019,FBS,Florida St.,Virginia,PUNTING,Tommy,Martin,AVG,42.3
+5490064,9/14/2019,FBS,Florida St.,Virginia,PUNTING,Tommy,Martin,LONG,59
+5490065,9/14/2019,FBS,Florida St.,Virginia,PUNT RETURNS,Keyshawn,Helton,NO,0
+5490066,9/14/2019,FBS,Florida St.,Virginia,PUNT RETURNS,Keyshawn,Helton,YDS,0
+5490067,9/14/2019,FBS,Florida St.,Virginia,PUNT RETURNS,Keyshawn,Helton,AVG,-
+5490068,9/14/2019,FBS,Florida St.,Virginia,PUNT RETURNS,Keyshawn,Helton,LONG,0
+5490069,9/14/2019,FBS,Florida St.,Virginia,KICK RETURNS,Keith,Gavin,NO,0
+5490070,9/14/2019,FBS,Florida St.,Virginia,KICK RETURNS,Keith,Gavin,YDS,0
+5490071,9/14/2019,FBS,Florida St.,Virginia,KICK RETURNS,Keith,Gavin,AVG,-
+5490072,9/14/2019,FBS,Florida St.,Virginia,KICK RETURNS,Keith,Gavin,LONG,0
+5490073,9/14/2019,FBS,Florida St.,Virginia,DEFENSE,Asante,SamuelJr.,TOT,0
+5490074,9/14/2019,FBS,Florida St.,Virginia,DEFENSE,Asante,SamuelJr.,SOLO,0
+5490075,9/14/2019,FBS,Florida St.,Virginia,DEFENSE,Asante,SamuelJr.,SACKS,0.0
+5490076,9/14/2019,FBS,Florida St.,Virginia,DEFENSE,Asante,SamuelJr.,TFL,0
+5490077,9/14/2019,FBS,Florida St.,Virginia,DEFENSE,Asante,SamuelJr.,INT,1
+5490078,9/14/2019,FBS,Florida St.,Virginia,DEFENSE,Asante,SamuelJr.,FF,0
+5490079,9/14/2019,FBS,Florida St.,Virginia,DEFENSE,Asante,SamuelJr.,FR,0
+5490080,9/14/2019,FBS,Florida St.,Virginia,DEFENSE,Cory,Durden,TOT,2
+5490081,9/14/2019,FBS,Florida St.,Virginia,DEFENSE,Cory,Durden,SOLO,1
+5490082,9/14/2019,FBS,Florida St.,Virginia,DEFENSE,Cory,Durden,SACKS,1.5
+5490083,9/14/2019,FBS,Florida St.,Virginia,DEFENSE,Cory,Durden,TFL,1
+5490084,9/14/2019,FBS,Florida St.,Virginia,DEFENSE,Cory,Durden,INT,0
+5490085,9/14/2019,FBS,Florida St.,Virginia,DEFENSE,Cory,Durden,FF,0
+5490086,9/14/2019,FBS,Florida St.,Virginia,DEFENSE,Cory,Durden,FR,0
+5490087,9/14/2019,FBS,Florida St.,Virginia,DEFENSE,Jaiden,Lars-Woodbey,TOT,1
+5490088,9/14/2019,FBS,Florida St.,Virginia,DEFENSE,Jaiden,Lars-Woodbey,SOLO,0
+5490089,9/14/2019,FBS,Florida St.,Virginia,DEFENSE,Jaiden,Lars-Woodbey,SACKS,0.5
+5490090,9/14/2019,FBS,Florida St.,Virginia,DEFENSE,Jaiden,Lars-Woodbey,TFL,0
+5490091,9/14/2019,FBS,Florida St.,Virginia,DEFENSE,Jaiden,Lars-Woodbey,INT,0
+5490092,9/14/2019,FBS,Florida St.,Virginia,DEFENSE,Jaiden,Lars-Woodbey,FF,0
+5490093,9/14/2019,FBS,Florida St.,Virginia,DEFENSE,Jaiden,Lars-Woodbey,FR,0
+5490094,9/14/2019,FBS,Florida St.,Virginia,DEFENSE,Levonta,Taylor,TOT,0
+5490095,9/14/2019,FBS,Florida St.,Virginia,DEFENSE,Levonta,Taylor,SOLO,0
+5490096,9/14/2019,FBS,Florida St.,Virginia,DEFENSE,Levonta,Taylor,SACKS,0.0
+5490097,9/14/2019,FBS,Florida St.,Virginia,DEFENSE,Levonta,Taylor,TFL,0
+5490098,9/14/2019,FBS,Florida St.,Virginia,DEFENSE,Levonta,Taylor,INT,1
+5490099,9/14/2019,FBS,Florida St.,Virginia,DEFENSE,Levonta,Taylor,FF,0
+5490100,9/14/2019,FBS,Florida St.,Virginia,DEFENSE,Levonta,Taylor,FR,0
+5490101,9/14/2019,FBS,Virginia,Florida St.,RUSHING,Wayne,Taulapapa,ATT,18
+5490102,9/14/2019,FBS,Virginia,Florida St.,RUSHING,Wayne,Taulapapa,YDS,53
+5490103,9/14/2019,FBS,Virginia,Florida St.,RUSHING,Wayne,Taulapapa,TD,3
+5490104,9/14/2019,FBS,Virginia,Florida St.,RUSHING,Wayne,Taulapapa,LONG,8
+5490105,9/14/2019,FBS,Virginia,Florida St.,RUSHING,Bryce,Perkins,ATT,12
+5490106,9/14/2019,FBS,Virginia,Florida St.,RUSHING,Bryce,Perkins,YDS,46
+5490107,9/14/2019,FBS,Virginia,Florida St.,RUSHING,Bryce,Perkins,TD,0
+5490108,9/14/2019,FBS,Virginia,Florida St.,RUSHING,Bryce,Perkins,LONG,16
+5490109,9/14/2019,FBS,Virginia,Florida St.,RUSHING,Joe,Reed,ATT,1
+5490110,9/14/2019,FBS,Virginia,Florida St.,RUSHING,Joe,Reed,YDS,22
+5490111,9/14/2019,FBS,Virginia,Florida St.,RUSHING,Joe,Reed,TD,0
+5490112,9/14/2019,FBS,Virginia,Florida St.,RUSHING,Joe,Reed,LONG,22
+5490113,9/14/2019,FBS,Virginia,Florida St.,RUSHING,PK,Kier,ATT,1
+5490114,9/14/2019,FBS,Virginia,Florida St.,RUSHING,PK,Kier,YDS,-1
+5490115,9/14/2019,FBS,Virginia,Florida St.,RUSHING,PK,Kier,TD,0
+5490116,9/14/2019,FBS,Virginia,Florida St.,RUSHING,PK,Kier,LONG,-1
+5490117,9/14/2019,FBS,Virginia,Florida St.,PASSING,Bryce,Perkins,CP-ATT-INT,30-40-2
+5490118,9/14/2019,FBS,Virginia,Florida St.,PASSING,Bryce,Perkins,YDS,295
+5490119,9/14/2019,FBS,Virginia,Florida St.,PASSING,Bryce,Perkins,TD,1
+5490120,9/14/2019,FBS,Virginia,Florida St.,PASSING,Bryce,Perkins,LONG,35
+5490121,9/14/2019,FBS,Virginia,Florida St.,RECEIVING,Terrell,Jana,REC,7
+5490122,9/14/2019,FBS,Virginia,Florida St.,RECEIVING,Terrell,Jana,YDS,85
+5490123,9/14/2019,FBS,Virginia,Florida St.,RECEIVING,Terrell,Jana,TD,0
+5490124,9/14/2019,FBS,Virginia,Florida St.,RECEIVING,Terrell,Jana,LONG,28
+5490125,9/14/2019,FBS,Virginia,Florida St.,RECEIVING,Joe,Reed,REC,8
+5490126,9/14/2019,FBS,Virginia,Florida St.,RECEIVING,Joe,Reed,YDS,83
+5490127,9/14/2019,FBS,Virginia,Florida St.,RECEIVING,Joe,Reed,TD,1
+5490128,9/14/2019,FBS,Virginia,Florida St.,RECEIVING,Joe,Reed,LONG,14
+5490129,9/14/2019,FBS,Virginia,Florida St.,RECEIVING,Hasise,Dubois,REC,7
+5490130,9/14/2019,FBS,Virginia,Florida St.,RECEIVING,Hasise,Dubois,YDS,75
+5490131,9/14/2019,FBS,Virginia,Florida St.,RECEIVING,Hasise,Dubois,TD,0
+5490132,9/14/2019,FBS,Virginia,Florida St.,RECEIVING,Hasise,Dubois,LONG,35
+5490133,9/14/2019,FBS,Virginia,Florida St.,RECEIVING,Tanner,Cowley,REC,3
+5490134,9/14/2019,FBS,Virginia,Florida St.,RECEIVING,Tanner,Cowley,YDS,21
+5490135,9/14/2019,FBS,Virginia,Florida St.,RECEIVING,Tanner,Cowley,TD,0
+5490136,9/14/2019,FBS,Virginia,Florida St.,RECEIVING,Tanner,Cowley,LONG,13
+5490137,9/14/2019,FBS,Virginia,Florida St.,RECEIVING,Billy,KempIV,REC,2
+5490138,9/14/2019,FBS,Virginia,Florida St.,RECEIVING,Billy,KempIV,YDS,20
+5490139,9/14/2019,FBS,Virginia,Florida St.,RECEIVING,Billy,KempIV,TD,0
+5490140,9/14/2019,FBS,Virginia,Florida St.,RECEIVING,Billy,KempIV,LONG,13
+5490141,9/14/2019,FBS,Virginia,Florida St.,RECEIVING,Lamont,Atkins,REC,3
+5490142,9/14/2019,FBS,Virginia,Florida St.,RECEIVING,Lamont,Atkins,YDS,11
+5490143,9/14/2019,FBS,Virginia,Florida St.,RECEIVING,Lamont,Atkins,TD,0
+5490144,9/14/2019,FBS,Virginia,Florida St.,RECEIVING,Lamont,Atkins,LONG,8
+5490145,9/14/2019,FBS,Virginia,Florida St.,KICKING,Brian,Delaney,FG-FGA,1/1
+5490146,9/14/2019,FBS,Virginia,Florida St.,KICKING,Brian,Delaney,LONG,49
+5490147,9/14/2019,FBS,Virginia,Florida St.,KICKING,Brian,Delaney,XP,2
+5490148,9/14/2019,FBS,Virginia,Florida St.,KICKING,Brian,Delaney,PTS,5
+5490149,9/14/2019,FBS,Virginia,Florida St.,PUNTING,Nash,Griffin,NO,4
+5490150,9/14/2019,FBS,Virginia,Florida St.,PUNTING,Nash,Griffin,YDS,170
+5490151,9/14/2019,FBS,Virginia,Florida St.,PUNTING,Nash,Griffin,AVG,42.5
+5490152,9/14/2019,FBS,Virginia,Florida St.,PUNTING,Nash,Griffin,LONG,48
+5490153,9/14/2019,FBS,Virginia,Florida St.,PUNT RETURNS,Billy,KempIV,NO,2
+5490154,9/14/2019,FBS,Virginia,Florida St.,PUNT RETURNS,Billy,KempIV,YDS,0
+5490155,9/14/2019,FBS,Virginia,Florida St.,PUNT RETURNS,Billy,KempIV,AVG,-
+5490156,9/14/2019,FBS,Virginia,Florida St.,PUNT RETURNS,Billy,KempIV,LONG,0
+5490157,9/14/2019,FBS,Virginia,Florida St.,KICK RETURNS,Joe,Reed,NO,1
+5490158,9/14/2019,FBS,Virginia,Florida St.,KICK RETURNS,Joe,Reed,YDS,35
+5490159,9/14/2019,FBS,Virginia,Florida St.,KICK RETURNS,Joe,Reed,AVG,35.0
+5490160,9/14/2019,FBS,Virginia,Florida St.,KICK RETURNS,Joe,Reed,LONG,35
+5490161,9/14/2019,FBS,Virginia,Florida St.,DEFENSE,Zane,Zandier,TOT,1
+5490162,9/14/2019,FBS,Virginia,Florida St.,DEFENSE,Zane,Zandier,SOLO,1
+5490163,9/14/2019,FBS,Virginia,Florida St.,DEFENSE,Zane,Zandier,SACKS,1.0
+5490164,9/14/2019,FBS,Virginia,Florida St.,DEFENSE,Zane,Zandier,TFL,1
+5490165,9/14/2019,FBS,Virginia,Florida St.,DEFENSE,Zane,Zandier,INT,0
+5490166,9/14/2019,FBS,Virginia,Florida St.,DEFENSE,Zane,Zandier,FF,0
+5490167,9/14/2019,FBS,Virginia,Florida St.,DEFENSE,Zane,Zandier,FR,0
+5490168,9/14/2019,FBS,Virginia,Florida St.,DEFENSE,Noah,Taylor,TOT,1
+5490169,9/14/2019,FBS,Virginia,Florida St.,DEFENSE,Noah,Taylor,SOLO,1
+5490170,9/14/2019,FBS,Virginia,Florida St.,DEFENSE,Noah,Taylor,SACKS,1.0
+5490171,9/14/2019,FBS,Virginia,Florida St.,DEFENSE,Noah,Taylor,TFL,1
+5490172,9/14/2019,FBS,Virginia,Florida St.,DEFENSE,Noah,Taylor,INT,0
+5490173,9/14/2019,FBS,Virginia,Florida St.,DEFENSE,Noah,Taylor,FF,0
+5490174,9/14/2019,FBS,Virginia,Florida St.,DEFENSE,Noah,Taylor,FR,0
+5490175,9/14/2019,FBS,Virginia,Florida St.,DEFENSE,Jordan,Mack,TOT,1
+5490176,9/14/2019,FBS,Virginia,Florida St.,DEFENSE,Jordan,Mack,SOLO,1
+5490177,9/14/2019,FBS,Virginia,Florida St.,DEFENSE,Jordan,Mack,SACKS,1.0
+5490178,9/14/2019,FBS,Virginia,Florida St.,DEFENSE,Jordan,Mack,TFL,1
+5490179,9/14/2019,FBS,Virginia,Florida St.,DEFENSE,Jordan,Mack,INT,0
+5490180,9/14/2019,FBS,Virginia,Florida St.,DEFENSE,Jordan,Mack,FF,0
+5490181,9/14/2019,FBS,Virginia,Florida St.,DEFENSE,Jordan,Mack,FR,0

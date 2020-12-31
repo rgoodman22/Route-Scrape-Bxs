@@ -1,0 +1,149 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2269001,10/24/2015,FBS,Texas Tech,Oklahoma,RUSHING,DeAndre,Washington,ATT,19
+2269002,10/24/2015,FBS,Texas Tech,Oklahoma,RUSHING,DeAndre,Washington,YDS,94
+2269003,10/24/2015,FBS,Texas Tech,Oklahoma,RUSHING,DeAndre,Washington,TD,1
+2269004,10/24/2015,FBS,Texas Tech,Oklahoma,RUSHING,DeAndre,Washington,LONG,18
+2269005,10/24/2015,FBS,Texas Tech,Oklahoma,RUSHING,Patrick,MahomesII,ATT,15
+2269006,10/24/2015,FBS,Texas Tech,Oklahoma,RUSHING,Patrick,MahomesII,YDS,58
+2269007,10/24/2015,FBS,Texas Tech,Oklahoma,RUSHING,Patrick,MahomesII,TD,1
+2269008,10/24/2015,FBS,Texas Tech,Oklahoma,RUSHING,Patrick,MahomesII,LONG,20
+2269009,10/24/2015,FBS,Texas Tech,Oklahoma,RUSHING,Justin,Stockton,ATT,6
+2269010,10/24/2015,FBS,Texas Tech,Oklahoma,RUSHING,Justin,Stockton,YDS,31
+2269011,10/24/2015,FBS,Texas Tech,Oklahoma,RUSHING,Justin,Stockton,TD,0
+2269012,10/24/2015,FBS,Texas Tech,Oklahoma,RUSHING,Justin,Stockton,LONG,8
+2269013,10/24/2015,FBS,Texas Tech,Oklahoma,PASSING,Patrick,MahomesII,CP-ATT-INT,26-40-4
+2269014,10/24/2015,FBS,Texas Tech,Oklahoma,PASSING,Patrick,MahomesII,YDS,233
+2269015,10/24/2015,FBS,Texas Tech,Oklahoma,PASSING,Patrick,MahomesII,TD,1
+2269016,10/24/2015,FBS,Texas Tech,Oklahoma,PASSING,Patrick,MahomesII,LONG,23
+2269017,10/24/2015,FBS,Texas Tech,Oklahoma,PASSING,Davis,Webb,CP-ATT-INT,3-5-0
+2269018,10/24/2015,FBS,Texas Tech,Oklahoma,PASSING,Davis,Webb,YDS,20
+2269019,10/24/2015,FBS,Texas Tech,Oklahoma,PASSING,Davis,Webb,TD,0
+2269020,10/24/2015,FBS,Texas Tech,Oklahoma,PASSING,Davis,Webb,LONG,8
+2269021,10/24/2015,FBS,Texas Tech,Oklahoma,RECEIVING,Jakeem,Grant,REC,7
+2269022,10/24/2015,FBS,Texas Tech,Oklahoma,RECEIVING,Jakeem,Grant,YDS,55
+2269023,10/24/2015,FBS,Texas Tech,Oklahoma,RECEIVING,Jakeem,Grant,TD,0
+2269024,10/24/2015,FBS,Texas Tech,Oklahoma,RECEIVING,Jakeem,Grant,LONG,20
+2269025,10/24/2015,FBS,Texas Tech,Oklahoma,RECEIVING,Reginald,Davis,REC,7
+2269026,10/24/2015,FBS,Texas Tech,Oklahoma,RECEIVING,Reginald,Davis,YDS,52
+2269027,10/24/2015,FBS,Texas Tech,Oklahoma,RECEIVING,Reginald,Davis,TD,1
+2269028,10/24/2015,FBS,Texas Tech,Oklahoma,RECEIVING,Reginald,Davis,LONG,13
+2269029,10/24/2015,FBS,Texas Tech,Oklahoma,RECEIVING,Ian,Sadler,REC,3
+2269030,10/24/2015,FBS,Texas Tech,Oklahoma,RECEIVING,Ian,Sadler,YDS,40
+2269031,10/24/2015,FBS,Texas Tech,Oklahoma,RECEIVING,Ian,Sadler,TD,0
+2269032,10/24/2015,FBS,Texas Tech,Oklahoma,RECEIVING,Ian,Sadler,LONG,19
+2269033,10/24/2015,FBS,Texas Tech,Oklahoma,RECEIVING,Devin,Lauderdale,REC,3
+2269034,10/24/2015,FBS,Texas Tech,Oklahoma,RECEIVING,Devin,Lauderdale,YDS,29
+2269035,10/24/2015,FBS,Texas Tech,Oklahoma,RECEIVING,Devin,Lauderdale,TD,0
+2269036,10/24/2015,FBS,Texas Tech,Oklahoma,RECEIVING,Devin,Lauderdale,LONG,18
+2269037,10/24/2015,FBS,Texas Tech,Oklahoma,RECEIVING,Keke,Coutee,REC,2
+2269038,10/24/2015,FBS,Texas Tech,Oklahoma,RECEIVING,Keke,Coutee,YDS,27
+2269039,10/24/2015,FBS,Texas Tech,Oklahoma,RECEIVING,Keke,Coutee,TD,0
+2269040,10/24/2015,FBS,Texas Tech,Oklahoma,RECEIVING,Keke,Coutee,LONG,23
+2269041,10/24/2015,FBS,Texas Tech,Oklahoma,RECEIVING,Brad,Pearson,REC,2
+2269042,10/24/2015,FBS,Texas Tech,Oklahoma,RECEIVING,Brad,Pearson,YDS,26
+2269043,10/24/2015,FBS,Texas Tech,Oklahoma,RECEIVING,Brad,Pearson,TD,0
+2269044,10/24/2015,FBS,Texas Tech,Oklahoma,RECEIVING,Brad,Pearson,LONG,15
+2269045,10/24/2015,FBS,Texas Tech,Oklahoma,RECEIVING,DeAndre,Washington,REC,1
+2269046,10/24/2015,FBS,Texas Tech,Oklahoma,RECEIVING,DeAndre,Washington,YDS,12
+2269047,10/24/2015,FBS,Texas Tech,Oklahoma,RECEIVING,DeAndre,Washington,TD,0
+2269048,10/24/2015,FBS,Texas Tech,Oklahoma,RECEIVING,DeAndre,Washington,LONG,12
+2269049,10/24/2015,FBS,Texas Tech,Oklahoma,RECEIVING,Tony,Brown,REC,2
+2269050,10/24/2015,FBS,Texas Tech,Oklahoma,RECEIVING,Tony,Brown,YDS,10
+2269051,10/24/2015,FBS,Texas Tech,Oklahoma,RECEIVING,Tony,Brown,TD,0
+2269052,10/24/2015,FBS,Texas Tech,Oklahoma,RECEIVING,Tony,Brown,LONG,8
+2269053,10/24/2015,FBS,Texas Tech,Oklahoma,RECEIVING,Cameron,Batson,REC,2
+2269054,10/24/2015,FBS,Texas Tech,Oklahoma,RECEIVING,Cameron,Batson,YDS,2
+2269055,10/24/2015,FBS,Texas Tech,Oklahoma,RECEIVING,Cameron,Batson,TD,0
+2269056,10/24/2015,FBS,Texas Tech,Oklahoma,RECEIVING,Cameron,Batson,LONG,8
+2269057,10/24/2015,FBS,Texas Tech,Oklahoma,KICKING,Clayton,Hatfield,FG-FGA,2/2
+2269058,10/24/2015,FBS,Texas Tech,Oklahoma,KICKING,Clayton,Hatfield,LONG,34
+2269059,10/24/2015,FBS,Texas Tech,Oklahoma,KICKING,Clayton,Hatfield,XP,3
+2269060,10/24/2015,FBS,Texas Tech,Oklahoma,KICKING,Clayton,Hatfield,PTS,9
+2269061,10/24/2015,FBS,Texas Tech,Oklahoma,PUNTING,Michael,Barden,NO,3
+2269062,10/24/2015,FBS,Texas Tech,Oklahoma,PUNTING,Michael,Barden,YDS,148
+2269063,10/24/2015,FBS,Texas Tech,Oklahoma,PUNTING,Michael,Barden,AVG,49.3
+2269064,10/24/2015,FBS,Texas Tech,Oklahoma,PUNTING,Michael,Barden,LONG,58
+2269065,10/24/2015,FBS,Texas Tech,Oklahoma,KICK RETURNS,Jakeem,Grant,NO,6
+2269066,10/24/2015,FBS,Texas Tech,Oklahoma,KICK RETURNS,Jakeem,Grant,YDS,148
+2269067,10/24/2015,FBS,Texas Tech,Oklahoma,KICK RETURNS,Jakeem,Grant,AVG,24.7
+2269068,10/24/2015,FBS,Texas Tech,Oklahoma,KICK RETURNS,Jakeem,Grant,LONG,36
+2269069,10/24/2015,FBS,Texas Tech,Oklahoma,KICK RETURNS,Tony,Brown,NO,1
+2269070,10/24/2015,FBS,Texas Tech,Oklahoma,KICK RETURNS,Tony,Brown,YDS,15
+2269071,10/24/2015,FBS,Texas Tech,Oklahoma,KICK RETURNS,Tony,Brown,AVG,15.0
+2269072,10/24/2015,FBS,Texas Tech,Oklahoma,KICK RETURNS,Tony,Brown,LONG,15
+2269073,10/24/2015,FBS,Oklahoma,Texas Tech,RUSHING,Samaje,Perine,ATT,23
+2269074,10/24/2015,FBS,Oklahoma,Texas Tech,RUSHING,Samaje,Perine,YDS,201
+2269075,10/24/2015,FBS,Oklahoma,Texas Tech,RUSHING,Samaje,Perine,TD,4
+2269076,10/24/2015,FBS,Oklahoma,Texas Tech,RUSHING,Samaje,Perine,LONG,48
+2269077,10/24/2015,FBS,Oklahoma,Texas Tech,RUSHING,Joe,Mixon,ATT,16
+2269078,10/24/2015,FBS,Oklahoma,Texas Tech,RUSHING,Joe,Mixon,YDS,154
+2269079,10/24/2015,FBS,Oklahoma,Texas Tech,RUSHING,Joe,Mixon,TD,2
+2269080,10/24/2015,FBS,Oklahoma,Texas Tech,RUSHING,Joe,Mixon,LONG,45
+2269081,10/24/2015,FBS,Oklahoma,Texas Tech,RUSHING,Alex,Ross,ATT,6
+2269082,10/24/2015,FBS,Oklahoma,Texas Tech,RUSHING,Alex,Ross,YDS,23
+2269083,10/24/2015,FBS,Oklahoma,Texas Tech,RUSHING,Alex,Ross,TD,1
+2269084,10/24/2015,FBS,Oklahoma,Texas Tech,RUSHING,Alex,Ross,LONG,9
+2269085,10/24/2015,FBS,Oklahoma,Texas Tech,RUSHING,Baker,Mayfield,ATT,9
+2269086,10/24/2015,FBS,Oklahoma,Texas Tech,RUSHING,Baker,Mayfield,YDS,16
+2269087,10/24/2015,FBS,Oklahoma,Texas Tech,RUSHING,Baker,Mayfield,TD,0
+2269088,10/24/2015,FBS,Oklahoma,Texas Tech,RUSHING,Baker,Mayfield,LONG,14
+2269089,10/24/2015,FBS,Oklahoma,Texas Tech,RUSHING,Trevor,Knight,ATT,2
+2269090,10/24/2015,FBS,Oklahoma,Texas Tech,RUSHING,Trevor,Knight,YDS,13
+2269091,10/24/2015,FBS,Oklahoma,Texas Tech,RUSHING,Trevor,Knight,TD,0
+2269092,10/24/2015,FBS,Oklahoma,Texas Tech,RUSHING,Trevor,Knight,LONG,10
+2269093,10/24/2015,FBS,Oklahoma,Texas Tech,RUSHING,,Team,ATT,1
+2269094,10/24/2015,FBS,Oklahoma,Texas Tech,RUSHING,,Team,YDS,-2
+2269095,10/24/2015,FBS,Oklahoma,Texas Tech,RUSHING,,Team,TD,0
+2269096,10/24/2015,FBS,Oklahoma,Texas Tech,RUSHING,,Team,LONG,-2
+2269097,10/24/2015,FBS,Oklahoma,Texas Tech,PASSING,Baker,Mayfield,CP-ATT-INT,15-22-1
+2269098,10/24/2015,FBS,Oklahoma,Texas Tech,PASSING,Baker,Mayfield,YDS,212
+2269099,10/24/2015,FBS,Oklahoma,Texas Tech,PASSING,Baker,Mayfield,TD,2
+2269100,10/24/2015,FBS,Oklahoma,Texas Tech,PASSING,Baker,Mayfield,LONG,33
+2269101,10/24/2015,FBS,Oklahoma,Texas Tech,RECEIVING,Dede,Westbrook,REC,3
+2269102,10/24/2015,FBS,Oklahoma,Texas Tech,RECEIVING,Dede,Westbrook,YDS,58
+2269103,10/24/2015,FBS,Oklahoma,Texas Tech,RECEIVING,Dede,Westbrook,TD,0
+2269104,10/24/2015,FBS,Oklahoma,Texas Tech,RECEIVING,Dede,Westbrook,LONG,28
+2269105,10/24/2015,FBS,Oklahoma,Texas Tech,RECEIVING,Sterling,Shepard,REC,2
+2269106,10/24/2015,FBS,Oklahoma,Texas Tech,RECEIVING,Sterling,Shepard,YDS,50
+2269107,10/24/2015,FBS,Oklahoma,Texas Tech,RECEIVING,Sterling,Shepard,TD,0
+2269108,10/24/2015,FBS,Oklahoma,Texas Tech,RECEIVING,Sterling,Shepard,LONG,33
+2269109,10/24/2015,FBS,Oklahoma,Texas Tech,RECEIVING,Durron,Neal,REC,5
+2269110,10/24/2015,FBS,Oklahoma,Texas Tech,RECEIVING,Durron,Neal,YDS,44
+2269111,10/24/2015,FBS,Oklahoma,Texas Tech,RECEIVING,Durron,Neal,TD,1
+2269112,10/24/2015,FBS,Oklahoma,Texas Tech,RECEIVING,Durron,Neal,LONG,15
+2269113,10/24/2015,FBS,Oklahoma,Texas Tech,RECEIVING,Jarvis,Baxter,REC,1
+2269114,10/24/2015,FBS,Oklahoma,Texas Tech,RECEIVING,Jarvis,Baxter,YDS,18
+2269115,10/24/2015,FBS,Oklahoma,Texas Tech,RECEIVING,Jarvis,Baxter,TD,0
+2269116,10/24/2015,FBS,Oklahoma,Texas Tech,RECEIVING,Jarvis,Baxter,LONG,18
+2269117,10/24/2015,FBS,Oklahoma,Texas Tech,RECEIVING,Mark,Andrews,REC,1
+2269118,10/24/2015,FBS,Oklahoma,Texas Tech,RECEIVING,Mark,Andrews,YDS,13
+2269119,10/24/2015,FBS,Oklahoma,Texas Tech,RECEIVING,Mark,Andrews,TD,1
+2269120,10/24/2015,FBS,Oklahoma,Texas Tech,RECEIVING,Mark,Andrews,LONG,13
+2269121,10/24/2015,FBS,Oklahoma,Texas Tech,RECEIVING,Joe,Mixon,REC,1
+2269122,10/24/2015,FBS,Oklahoma,Texas Tech,RECEIVING,Joe,Mixon,YDS,13
+2269123,10/24/2015,FBS,Oklahoma,Texas Tech,RECEIVING,Joe,Mixon,TD,0
+2269124,10/24/2015,FBS,Oklahoma,Texas Tech,RECEIVING,Joe,Mixon,LONG,13
+2269125,10/24/2015,FBS,Oklahoma,Texas Tech,RECEIVING,Samaje,Perine,REC,1
+2269126,10/24/2015,FBS,Oklahoma,Texas Tech,RECEIVING,Samaje,Perine,YDS,9
+2269127,10/24/2015,FBS,Oklahoma,Texas Tech,RECEIVING,Samaje,Perine,TD,0
+2269128,10/24/2015,FBS,Oklahoma,Texas Tech,RECEIVING,Samaje,Perine,LONG,9
+2269129,10/24/2015,FBS,Oklahoma,Texas Tech,RECEIVING,Jeffery,Mead,REC,1
+2269130,10/24/2015,FBS,Oklahoma,Texas Tech,RECEIVING,Jeffery,Mead,YDS,7
+2269131,10/24/2015,FBS,Oklahoma,Texas Tech,RECEIVING,Jeffery,Mead,TD,0
+2269132,10/24/2015,FBS,Oklahoma,Texas Tech,RECEIVING,Jeffery,Mead,LONG,7
+2269133,10/24/2015,FBS,Oklahoma,Texas Tech,KICKING,Austin,Seibert,FG-FGA,0/1
+2269134,10/24/2015,FBS,Oklahoma,Texas Tech,KICKING,Austin,Seibert,LONG,0
+2269135,10/24/2015,FBS,Oklahoma,Texas Tech,KICKING,Austin,Seibert,XP,9
+2269136,10/24/2015,FBS,Oklahoma,Texas Tech,KICKING,Austin,Seibert,PTS,9
+2269137,10/24/2015,FBS,Oklahoma,Texas Tech,PUNTING,Austin,Seibert,NO,1
+2269138,10/24/2015,FBS,Oklahoma,Texas Tech,PUNTING,Austin,Seibert,YDS,57
+2269139,10/24/2015,FBS,Oklahoma,Texas Tech,PUNTING,Austin,Seibert,AVG,57.0
+2269140,10/24/2015,FBS,Oklahoma,Texas Tech,PUNTING,Austin,Seibert,LONG,57
+2269141,10/24/2015,FBS,Oklahoma,Texas Tech,PUNT RETURNS,Sterling,Shepard,NO,0
+2269142,10/24/2015,FBS,Oklahoma,Texas Tech,PUNT RETURNS,Sterling,Shepard,YDS,0
+2269143,10/24/2015,FBS,Oklahoma,Texas Tech,PUNT RETURNS,Sterling,Shepard,AVG,-
+2269144,10/24/2015,FBS,Oklahoma,Texas Tech,PUNT RETURNS,Sterling,Shepard,LONG,0
+2269145,10/24/2015,FBS,Oklahoma,Texas Tech,KICK RETURNS,Alex,Ross,NO,1
+2269146,10/24/2015,FBS,Oklahoma,Texas Tech,KICK RETURNS,Alex,Ross,YDS,22
+2269147,10/24/2015,FBS,Oklahoma,Texas Tech,KICK RETURNS,Alex,Ross,AVG,22.0
+2269148,10/24/2015,FBS,Oklahoma,Texas Tech,KICK RETURNS,Alex,Ross,LONG,22

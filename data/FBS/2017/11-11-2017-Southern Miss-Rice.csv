@@ -1,0 +1,125 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+4183001,11/11/2017,FBS,Southern Miss,Rice,RUSHING,Ito,Smith,ATT,24
+4183002,11/11/2017,FBS,Southern Miss,Rice,RUSHING,Ito,Smith,YDS,150
+4183003,11/11/2017,FBS,Southern Miss,Rice,RUSHING,Ito,Smith,TD,2
+4183004,11/11/2017,FBS,Southern Miss,Rice,RUSHING,Ito,Smith,LONG,18
+4183005,11/11/2017,FBS,Southern Miss,Rice,RUSHING,Tez,Parks,ATT,5
+4183006,11/11/2017,FBS,Southern Miss,Rice,RUSHING,Tez,Parks,YDS,24
+4183007,11/11/2017,FBS,Southern Miss,Rice,RUSHING,Tez,Parks,TD,0
+4183008,11/11/2017,FBS,Southern Miss,Rice,RUSHING,Tez,Parks,LONG,10
+4183009,11/11/2017,FBS,Southern Miss,Rice,RUSHING,Kwadra,Griggs,ATT,4
+4183010,11/11/2017,FBS,Southern Miss,Rice,RUSHING,Kwadra,Griggs,YDS,18
+4183011,11/11/2017,FBS,Southern Miss,Rice,RUSHING,Kwadra,Griggs,TD,0
+4183012,11/11/2017,FBS,Southern Miss,Rice,RUSHING,Kwadra,Griggs,LONG,8
+4183013,11/11/2017,FBS,Southern Miss,Rice,RUSHING,T'Rod,Daniels,ATT,1
+4183014,11/11/2017,FBS,Southern Miss,Rice,RUSHING,T'Rod,Daniels,YDS,2
+4183015,11/11/2017,FBS,Southern Miss,Rice,RUSHING,T'Rod,Daniels,TD,0
+4183016,11/11/2017,FBS,Southern Miss,Rice,RUSHING,T'Rod,Daniels,LONG,2
+4183017,11/11/2017,FBS,Southern Miss,Rice,RUSHING,,Team,ATT,2
+4183018,11/11/2017,FBS,Southern Miss,Rice,RUSHING,,Team,YDS,-8
+4183019,11/11/2017,FBS,Southern Miss,Rice,RUSHING,,Team,TD,0
+4183020,11/11/2017,FBS,Southern Miss,Rice,RUSHING,,Team,LONG,-4
+4183021,11/11/2017,FBS,Southern Miss,Rice,PASSING,Kwadra,Griggs,CP-ATT-INT,22-31-0
+4183022,11/11/2017,FBS,Southern Miss,Rice,PASSING,Kwadra,Griggs,YDS,331
+4183023,11/11/2017,FBS,Southern Miss,Rice,PASSING,Kwadra,Griggs,TD,3
+4183024,11/11/2017,FBS,Southern Miss,Rice,PASSING,Kwadra,Griggs,LONG,51
+4183025,11/11/2017,FBS,Southern Miss,Rice,RECEIVING,Korey,Robertson,REC,8
+4183026,11/11/2017,FBS,Southern Miss,Rice,RECEIVING,Korey,Robertson,YDS,159
+4183027,11/11/2017,FBS,Southern Miss,Rice,RECEIVING,Korey,Robertson,TD,2
+4183028,11/11/2017,FBS,Southern Miss,Rice,RECEIVING,Korey,Robertson,LONG,47
+4183029,11/11/2017,FBS,Southern Miss,Rice,RECEIVING,Tim,Jones,REC,2
+4183030,11/11/2017,FBS,Southern Miss,Rice,RECEIVING,Tim,Jones,YDS,56
+4183031,11/11/2017,FBS,Southern Miss,Rice,RECEIVING,Tim,Jones,TD,1
+4183032,11/11/2017,FBS,Southern Miss,Rice,RECEIVING,Tim,Jones,LONG,51
+4183033,11/11/2017,FBS,Southern Miss,Rice,RECEIVING,Isaiah,Jones,REC,3
+4183034,11/11/2017,FBS,Southern Miss,Rice,RECEIVING,Isaiah,Jones,YDS,36
+4183035,11/11/2017,FBS,Southern Miss,Rice,RECEIVING,Isaiah,Jones,TD,0
+4183036,11/11/2017,FBS,Southern Miss,Rice,RECEIVING,Isaiah,Jones,LONG,14
+4183037,11/11/2017,FBS,Southern Miss,Rice,RECEIVING,Allenzae,Staggers,REC,3
+4183038,11/11/2017,FBS,Southern Miss,Rice,RECEIVING,Allenzae,Staggers,YDS,27
+4183039,11/11/2017,FBS,Southern Miss,Rice,RECEIVING,Allenzae,Staggers,TD,0
+4183040,11/11/2017,FBS,Southern Miss,Rice,RECEIVING,Allenzae,Staggers,LONG,12
+4183041,11/11/2017,FBS,Southern Miss,Rice,RECEIVING,Ito,Smith,REC,3
+4183042,11/11/2017,FBS,Southern Miss,Rice,RECEIVING,Ito,Smith,YDS,23
+4183043,11/11/2017,FBS,Southern Miss,Rice,RECEIVING,Ito,Smith,TD,0
+4183044,11/11/2017,FBS,Southern Miss,Rice,RECEIVING,Ito,Smith,LONG,11
+4183045,11/11/2017,FBS,Southern Miss,Rice,RECEIVING,Tez,Parks,REC,2
+4183046,11/11/2017,FBS,Southern Miss,Rice,RECEIVING,Tez,Parks,YDS,16
+4183047,11/11/2017,FBS,Southern Miss,Rice,RECEIVING,Tez,Parks,TD,0
+4183048,11/11/2017,FBS,Southern Miss,Rice,RECEIVING,Tez,Parks,LONG,14
+4183049,11/11/2017,FBS,Southern Miss,Rice,RECEIVING,Quez,Watkins,REC,1
+4183050,11/11/2017,FBS,Southern Miss,Rice,RECEIVING,Quez,Watkins,YDS,14
+4183051,11/11/2017,FBS,Southern Miss,Rice,RECEIVING,Quez,Watkins,TD,0
+4183052,11/11/2017,FBS,Southern Miss,Rice,RECEIVING,Quez,Watkins,LONG,14
+4183053,11/11/2017,FBS,Southern Miss,Rice,KICKING,Parker,Shaunfield,FG-FGA,3/3
+4183054,11/11/2017,FBS,Southern Miss,Rice,KICKING,Parker,Shaunfield,LONG,51
+4183055,11/11/2017,FBS,Southern Miss,Rice,KICKING,Parker,Shaunfield,XP,4
+4183056,11/11/2017,FBS,Southern Miss,Rice,KICKING,Parker,Shaunfield,PTS,13
+4183057,11/11/2017,FBS,Southern Miss,Rice,PUNT RETURNS,Allenzae,Staggers,NO,1
+4183058,11/11/2017,FBS,Southern Miss,Rice,PUNT RETURNS,Allenzae,Staggers,YDS,20
+4183059,11/11/2017,FBS,Southern Miss,Rice,PUNT RETURNS,Allenzae,Staggers,AVG,20.0
+4183060,11/11/2017,FBS,Southern Miss,Rice,PUNT RETURNS,Allenzae,Staggers,LONG,20
+4183061,11/11/2017,FBS,Southern Miss,Rice,KICK RETURNS,Quez,Watkins,NO,3
+4183062,11/11/2017,FBS,Southern Miss,Rice,KICK RETURNS,Quez,Watkins,YDS,75
+4183063,11/11/2017,FBS,Southern Miss,Rice,KICK RETURNS,Quez,Watkins,AVG,25.0
+4183064,11/11/2017,FBS,Southern Miss,Rice,KICK RETURNS,Quez,Watkins,LONG,32
+4183065,11/11/2017,FBS,Rice,Southern Miss,RUSHING,Nahshon,Ellerbe,ATT,22
+4183066,11/11/2017,FBS,Rice,Southern Miss,RUSHING,Nahshon,Ellerbe,YDS,153
+4183067,11/11/2017,FBS,Rice,Southern Miss,RUSHING,Nahshon,Ellerbe,TD,4
+4183068,11/11/2017,FBS,Rice,Southern Miss,RUSHING,Nahshon,Ellerbe,LONG,26
+4183069,11/11/2017,FBS,Rice,Southern Miss,RUSHING,Miklo,Smalls,ATT,15
+4183070,11/11/2017,FBS,Rice,Southern Miss,RUSHING,Miklo,Smalls,YDS,42
+4183071,11/11/2017,FBS,Rice,Southern Miss,RUSHING,Miklo,Smalls,TD,0
+4183072,11/11/2017,FBS,Rice,Southern Miss,RUSHING,Miklo,Smalls,LONG,20
+4183073,11/11/2017,FBS,Rice,Southern Miss,RUSHING,Austin,Walter,ATT,7
+4183074,11/11/2017,FBS,Rice,Southern Miss,RUSHING,Austin,Walter,YDS,33
+4183075,11/11/2017,FBS,Rice,Southern Miss,RUSHING,Austin,Walter,TD,1
+4183076,11/11/2017,FBS,Rice,Southern Miss,RUSHING,Austin,Walter,LONG,18
+4183077,11/11/2017,FBS,Rice,Southern Miss,RUSHING,Austin,Trammell,ATT,3
+4183078,11/11/2017,FBS,Rice,Southern Miss,RUSHING,Austin,Trammell,YDS,26
+4183079,11/11/2017,FBS,Rice,Southern Miss,RUSHING,Austin,Trammell,TD,0
+4183080,11/11/2017,FBS,Rice,Southern Miss,RUSHING,Austin,Trammell,LONG,14
+4183081,11/11/2017,FBS,Rice,Southern Miss,RUSHING,Sam,Pierce,ATT,0
+4183082,11/11/2017,FBS,Rice,Southern Miss,RUSHING,Sam,Pierce,YDS,0
+4183083,11/11/2017,FBS,Rice,Southern Miss,RUSHING,Sam,Pierce,TD,0
+4183084,11/11/2017,FBS,Rice,Southern Miss,RUSHING,Sam,Pierce,LONG,0
+4183085,11/11/2017,FBS,Rice,Southern Miss,RUSHING,Will,Phillips,ATT,2
+4183086,11/11/2017,FBS,Rice,Southern Miss,RUSHING,Will,Phillips,YDS,0
+4183087,11/11/2017,FBS,Rice,Southern Miss,RUSHING,Will,Phillips,TD,0
+4183088,11/11/2017,FBS,Rice,Southern Miss,RUSHING,Will,Phillips,LONG,3
+4183089,11/11/2017,FBS,Rice,Southern Miss,PASSING,Miklo,Smalls,CP-ATT-INT,10-15-0
+4183090,11/11/2017,FBS,Rice,Southern Miss,PASSING,Miklo,Smalls,YDS,127
+4183091,11/11/2017,FBS,Rice,Southern Miss,PASSING,Miklo,Smalls,TD,0
+4183092,11/11/2017,FBS,Rice,Southern Miss,PASSING,Miklo,Smalls,LONG,36
+4183093,11/11/2017,FBS,Rice,Southern Miss,PASSING,,Team,CP-ATT-INT,0-1-0
+4183094,11/11/2017,FBS,Rice,Southern Miss,PASSING,,Team,YDS,0
+4183095,11/11/2017,FBS,Rice,Southern Miss,PASSING,,Team,TD,0
+4183096,11/11/2017,FBS,Rice,Southern Miss,PASSING,,Team,LONG,0
+4183097,11/11/2017,FBS,Rice,Southern Miss,RECEIVING,Aaron,Cephus,REC,4
+4183098,11/11/2017,FBS,Rice,Southern Miss,RECEIVING,Aaron,Cephus,YDS,68
+4183099,11/11/2017,FBS,Rice,Southern Miss,RECEIVING,Aaron,Cephus,TD,0
+4183100,11/11/2017,FBS,Rice,Southern Miss,RECEIVING,Aaron,Cephus,LONG,33
+4183101,11/11/2017,FBS,Rice,Southern Miss,RECEIVING,Parker,Smith,REC,1
+4183102,11/11/2017,FBS,Rice,Southern Miss,RECEIVING,Parker,Smith,YDS,36
+4183103,11/11/2017,FBS,Rice,Southern Miss,RECEIVING,Parker,Smith,TD,0
+4183104,11/11/2017,FBS,Rice,Southern Miss,RECEIVING,Parker,Smith,LONG,36
+4183105,11/11/2017,FBS,Rice,Southern Miss,RECEIVING,Austin,Walter,REC,4
+4183106,11/11/2017,FBS,Rice,Southern Miss,RECEIVING,Austin,Walter,YDS,29
+4183107,11/11/2017,FBS,Rice,Southern Miss,RECEIVING,Austin,Walter,TD,0
+4183108,11/11/2017,FBS,Rice,Southern Miss,RECEIVING,Austin,Walter,LONG,13
+4183109,11/11/2017,FBS,Rice,Southern Miss,RECEIVING,Robby,WellsIII,REC,1
+4183110,11/11/2017,FBS,Rice,Southern Miss,RECEIVING,Robby,WellsIII,YDS,-6
+4183111,11/11/2017,FBS,Rice,Southern Miss,RECEIVING,Robby,WellsIII,TD,0
+4183112,11/11/2017,FBS,Rice,Southern Miss,RECEIVING,Robby,WellsIII,LONG,-6
+4183113,11/11/2017,FBS,Rice,Southern Miss,KICKING,Will,Harrison,FG-FGA,0/0
+4183114,11/11/2017,FBS,Rice,Southern Miss,KICKING,Will,Harrison,LONG,-
+4183115,11/11/2017,FBS,Rice,Southern Miss,KICKING,Will,Harrison,XP,4
+4183116,11/11/2017,FBS,Rice,Southern Miss,KICKING,Will,Harrison,PTS,4
+4183117,11/11/2017,FBS,Rice,Southern Miss,PUNTING,Jack,Fox,NO,2
+4183118,11/11/2017,FBS,Rice,Southern Miss,PUNTING,Jack,Fox,YDS,98
+4183119,11/11/2017,FBS,Rice,Southern Miss,PUNTING,Jack,Fox,AVG,49.0
+4183120,11/11/2017,FBS,Rice,Southern Miss,PUNTING,Jack,Fox,LONG,57
+4183121,11/11/2017,FBS,Rice,Southern Miss,KICK RETURNS,Austin,Trammell,NO,4
+4183122,11/11/2017,FBS,Rice,Southern Miss,KICK RETURNS,Austin,Trammell,YDS,61
+4183123,11/11/2017,FBS,Rice,Southern Miss,KICK RETURNS,Austin,Trammell,AVG,15.2
+4183124,11/11/2017,FBS,Rice,Southern Miss,KICK RETURNS,Austin,Trammell,LONG,29

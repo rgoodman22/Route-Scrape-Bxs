@@ -1,0 +1,129 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2621001,1/11/2016,FBS,Alabama,Clemson,RUSHING,Derrick,Henry,ATT,36
+2621002,1/11/2016,FBS,Alabama,Clemson,RUSHING,Derrick,Henry,YDS,158
+2621003,1/11/2016,FBS,Alabama,Clemson,RUSHING,Derrick,Henry,TD,3
+2621004,1/11/2016,FBS,Alabama,Clemson,RUSHING,Derrick,Henry,LONG,50
+2621005,1/11/2016,FBS,Alabama,Clemson,RUSHING,Kenyan,Drake,ATT,1
+2621006,1/11/2016,FBS,Alabama,Clemson,RUSHING,Kenyan,Drake,YDS,1
+2621007,1/11/2016,FBS,Alabama,Clemson,RUSHING,Kenyan,Drake,TD,0
+2621008,1/11/2016,FBS,Alabama,Clemson,RUSHING,Kenyan,Drake,LONG,1
+2621009,1/11/2016,FBS,Alabama,Clemson,RUSHING,,Team,ATT,1
+2621010,1/11/2016,FBS,Alabama,Clemson,RUSHING,,Team,YDS,-1
+2621011,1/11/2016,FBS,Alabama,Clemson,RUSHING,,Team,TD,0
+2621012,1/11/2016,FBS,Alabama,Clemson,RUSHING,,Team,LONG,-1
+2621013,1/11/2016,FBS,Alabama,Clemson,RUSHING,Jake,Coker,ATT,8
+2621014,1/11/2016,FBS,Alabama,Clemson,RUSHING,Jake,Coker,YDS,-20
+2621015,1/11/2016,FBS,Alabama,Clemson,RUSHING,Jake,Coker,TD,0
+2621016,1/11/2016,FBS,Alabama,Clemson,RUSHING,Jake,Coker,LONG,8
+2621017,1/11/2016,FBS,Alabama,Clemson,PASSING,Jake,Coker,CP-ATT-INT,16-25-0
+2621018,1/11/2016,FBS,Alabama,Clemson,PASSING,Jake,Coker,YDS,335
+2621019,1/11/2016,FBS,Alabama,Clemson,PASSING,Jake,Coker,TD,2
+2621020,1/11/2016,FBS,Alabama,Clemson,PASSING,Jake,Coker,LONG,63
+2621021,1/11/2016,FBS,Alabama,Clemson,RECEIVING,O.J.,Howard,REC,5
+2621022,1/11/2016,FBS,Alabama,Clemson,RECEIVING,O.J.,Howard,YDS,208
+2621023,1/11/2016,FBS,Alabama,Clemson,RECEIVING,O.J.,Howard,TD,2
+2621024,1/11/2016,FBS,Alabama,Clemson,RECEIVING,O.J.,Howard,LONG,63
+2621025,1/11/2016,FBS,Alabama,Clemson,RECEIVING,ArDarius,Stewart,REC,2
+2621026,1/11/2016,FBS,Alabama,Clemson,RECEIVING,ArDarius,Stewart,YDS,63
+2621027,1/11/2016,FBS,Alabama,Clemson,RECEIVING,ArDarius,Stewart,TD,0
+2621028,1/11/2016,FBS,Alabama,Clemson,RECEIVING,ArDarius,Stewart,LONG,38
+2621029,1/11/2016,FBS,Alabama,Clemson,RECEIVING,Richard,Mullaney,REC,1
+2621030,1/11/2016,FBS,Alabama,Clemson,RECEIVING,Richard,Mullaney,YDS,29
+2621031,1/11/2016,FBS,Alabama,Clemson,RECEIVING,Richard,Mullaney,TD,0
+2621032,1/11/2016,FBS,Alabama,Clemson,RECEIVING,Richard,Mullaney,LONG,29
+2621033,1/11/2016,FBS,Alabama,Clemson,RECEIVING,Kenyan,Drake,REC,2
+2621034,1/11/2016,FBS,Alabama,Clemson,RECEIVING,Kenyan,Drake,YDS,21
+2621035,1/11/2016,FBS,Alabama,Clemson,RECEIVING,Kenyan,Drake,TD,0
+2621036,1/11/2016,FBS,Alabama,Clemson,RECEIVING,Kenyan,Drake,LONG,7
+2621037,1/11/2016,FBS,Alabama,Clemson,RECEIVING,Calvin,Ridley,REC,6
+2621038,1/11/2016,FBS,Alabama,Clemson,RECEIVING,Calvin,Ridley,YDS,14
+2621039,1/11/2016,FBS,Alabama,Clemson,RECEIVING,Calvin,Ridley,TD,0
+2621040,1/11/2016,FBS,Alabama,Clemson,RECEIVING,Calvin,Ridley,LONG,9
+2621041,1/11/2016,FBS,Alabama,Clemson,KICKING,Adam,Griffith,FG-FGA,1/2
+2621042,1/11/2016,FBS,Alabama,Clemson,KICKING,Adam,Griffith,LONG,33
+2621043,1/11/2016,FBS,Alabama,Clemson,KICKING,Adam,Griffith,XP,6
+2621044,1/11/2016,FBS,Alabama,Clemson,KICKING,Adam,Griffith,PTS,9
+2621045,1/11/2016,FBS,Alabama,Clemson,PUNTING,JK,Scott,NO,7
+2621046,1/11/2016,FBS,Alabama,Clemson,PUNTING,JK,Scott,YDS,297
+2621047,1/11/2016,FBS,Alabama,Clemson,PUNTING,JK,Scott,AVG,42.4
+2621048,1/11/2016,FBS,Alabama,Clemson,PUNTING,JK,Scott,LONG,52
+2621049,1/11/2016,FBS,Alabama,Clemson,PUNT RETURNS,Cyrus,Jones,NO,1
+2621050,1/11/2016,FBS,Alabama,Clemson,PUNT RETURNS,Cyrus,Jones,YDS,12
+2621051,1/11/2016,FBS,Alabama,Clemson,PUNT RETURNS,Cyrus,Jones,AVG,12.0
+2621052,1/11/2016,FBS,Alabama,Clemson,PUNT RETURNS,Cyrus,Jones,LONG,12
+2621053,1/11/2016,FBS,Alabama,Clemson,KICK RETURNS,Kenyan,Drake,NO,5
+2621054,1/11/2016,FBS,Alabama,Clemson,KICK RETURNS,Kenyan,Drake,YDS,196
+2621055,1/11/2016,FBS,Alabama,Clemson,KICK RETURNS,Kenyan,Drake,AVG,39.2
+2621056,1/11/2016,FBS,Alabama,Clemson,KICK RETURNS,Kenyan,Drake,LONG,95
+2621057,1/11/2016,FBS,Clemson,Alabama,RUSHING,Deshaun,Watson,ATT,20
+2621058,1/11/2016,FBS,Clemson,Alabama,RUSHING,Deshaun,Watson,YDS,73
+2621059,1/11/2016,FBS,Clemson,Alabama,RUSHING,Deshaun,Watson,TD,0
+2621060,1/11/2016,FBS,Clemson,Alabama,RUSHING,Deshaun,Watson,LONG,20
+2621061,1/11/2016,FBS,Clemson,Alabama,RUSHING,Wayne,Gallman,ATT,14
+2621062,1/11/2016,FBS,Clemson,Alabama,RUSHING,Wayne,Gallman,YDS,45
+2621063,1/11/2016,FBS,Clemson,Alabama,RUSHING,Wayne,Gallman,TD,1
+2621064,1/11/2016,FBS,Clemson,Alabama,RUSHING,Wayne,Gallman,LONG,34
+2621065,1/11/2016,FBS,Clemson,Alabama,RUSHING,Artavis,Scott,ATT,2
+2621066,1/11/2016,FBS,Clemson,Alabama,RUSHING,Artavis,Scott,YDS,19
+2621067,1/11/2016,FBS,Clemson,Alabama,RUSHING,Artavis,Scott,TD,0
+2621068,1/11/2016,FBS,Clemson,Alabama,RUSHING,Artavis,Scott,LONG,10
+2621069,1/11/2016,FBS,Clemson,Alabama,RUSHING,Zac,Brooks,ATT,1
+2621070,1/11/2016,FBS,Clemson,Alabama,RUSHING,Zac,Brooks,YDS,4
+2621071,1/11/2016,FBS,Clemson,Alabama,RUSHING,Zac,Brooks,TD,0
+2621072,1/11/2016,FBS,Clemson,Alabama,RUSHING,Zac,Brooks,LONG,4
+2621073,1/11/2016,FBS,Clemson,Alabama,RUSHING,Ray,RayMcCloud,ATT,1
+2621074,1/11/2016,FBS,Clemson,Alabama,RUSHING,Ray,RayMcCloud,YDS,4
+2621075,1/11/2016,FBS,Clemson,Alabama,RUSHING,Ray,RayMcCloud,TD,0
+2621076,1/11/2016,FBS,Clemson,Alabama,RUSHING,Ray,RayMcCloud,LONG,4
+2621077,1/11/2016,FBS,Clemson,Alabama,PASSING,Deshaun,Watson,CP-ATT-INT,30-47-1
+2621078,1/11/2016,FBS,Clemson,Alabama,PASSING,Deshaun,Watson,YDS,405
+2621079,1/11/2016,FBS,Clemson,Alabama,PASSING,Deshaun,Watson,TD,4
+2621080,1/11/2016,FBS,Clemson,Alabama,PASSING,Deshaun,Watson,LONG,39
+2621081,1/11/2016,FBS,Clemson,Alabama,RECEIVING,Charone,Peake,REC,6
+2621082,1/11/2016,FBS,Clemson,Alabama,RECEIVING,Charone,Peake,YDS,99
+2621083,1/11/2016,FBS,Clemson,Alabama,RECEIVING,Charone,Peake,TD,0
+2621084,1/11/2016,FBS,Clemson,Alabama,RECEIVING,Charone,Peake,LONG,28
+2621085,1/11/2016,FBS,Clemson,Alabama,RECEIVING,Hunter,Renfrow,REC,7
+2621086,1/11/2016,FBS,Clemson,Alabama,RECEIVING,Hunter,Renfrow,YDS,88
+2621087,1/11/2016,FBS,Clemson,Alabama,RECEIVING,Hunter,Renfrow,TD,2
+2621088,1/11/2016,FBS,Clemson,Alabama,RECEIVING,Hunter,Renfrow,LONG,31
+2621089,1/11/2016,FBS,Clemson,Alabama,RECEIVING,Jordan,Leggett,REC,5
+2621090,1/11/2016,FBS,Clemson,Alabama,RECEIVING,Jordan,Leggett,YDS,78
+2621091,1/11/2016,FBS,Clemson,Alabama,RECEIVING,Jordan,Leggett,TD,1
+2621092,1/11/2016,FBS,Clemson,Alabama,RECEIVING,Jordan,Leggett,LONG,24
+2621093,1/11/2016,FBS,Clemson,Alabama,RECEIVING,Wayne,Gallman,REC,3
+2621094,1/11/2016,FBS,Clemson,Alabama,RECEIVING,Wayne,Gallman,YDS,61
+2621095,1/11/2016,FBS,Clemson,Alabama,RECEIVING,Wayne,Gallman,TD,0
+2621096,1/11/2016,FBS,Clemson,Alabama,RECEIVING,Wayne,Gallman,LONG,39
+2621097,1/11/2016,FBS,Clemson,Alabama,RECEIVING,Zac,Brooks,REC,4
+2621098,1/11/2016,FBS,Clemson,Alabama,RECEIVING,Zac,Brooks,YDS,39
+2621099,1/11/2016,FBS,Clemson,Alabama,RECEIVING,Zac,Brooks,TD,0
+2621100,1/11/2016,FBS,Clemson,Alabama,RECEIVING,Zac,Brooks,LONG,22
+2621101,1/11/2016,FBS,Clemson,Alabama,RECEIVING,Artavis,Scott,REC,4
+2621102,1/11/2016,FBS,Clemson,Alabama,RECEIVING,Artavis,Scott,YDS,33
+2621103,1/11/2016,FBS,Clemson,Alabama,RECEIVING,Artavis,Scott,TD,1
+2621104,1/11/2016,FBS,Clemson,Alabama,RECEIVING,Artavis,Scott,LONG,15
+2621105,1/11/2016,FBS,Clemson,Alabama,RECEIVING,Ray,RayMcCloud,REC,1
+2621106,1/11/2016,FBS,Clemson,Alabama,RECEIVING,Ray,RayMcCloud,YDS,7
+2621107,1/11/2016,FBS,Clemson,Alabama,RECEIVING,Ray,RayMcCloud,TD,0
+2621108,1/11/2016,FBS,Clemson,Alabama,RECEIVING,Ray,RayMcCloud,LONG,7
+2621109,1/11/2016,FBS,Clemson,Alabama,KICKING,Greg,Huegel,FG-FGA,2/3
+2621110,1/11/2016,FBS,Clemson,Alabama,KICKING,Greg,Huegel,LONG,37
+2621111,1/11/2016,FBS,Clemson,Alabama,KICKING,Greg,Huegel,XP,4
+2621112,1/11/2016,FBS,Clemson,Alabama,KICKING,Greg,Huegel,PTS,10
+2621113,1/11/2016,FBS,Clemson,Alabama,PUNTING,Andy,Teasdall,NO,6
+2621114,1/11/2016,FBS,Clemson,Alabama,PUNTING,Andy,Teasdall,YDS,265
+2621115,1/11/2016,FBS,Clemson,Alabama,PUNTING,Andy,Teasdall,AVG,44.2
+2621116,1/11/2016,FBS,Clemson,Alabama,PUNTING,Andy,Teasdall,LONG,57
+2621117,1/11/2016,FBS,Clemson,Alabama,PUNT RETURNS,Artavis,Scott,NO,2
+2621118,1/11/2016,FBS,Clemson,Alabama,PUNT RETURNS,Artavis,Scott,YDS,22
+2621119,1/11/2016,FBS,Clemson,Alabama,PUNT RETURNS,Artavis,Scott,AVG,11.0
+2621120,1/11/2016,FBS,Clemson,Alabama,PUNT RETURNS,Artavis,Scott,LONG,13
+2621121,1/11/2016,FBS,Clemson,Alabama,KICK RETURNS,Artavis,Scott,NO,2
+2621122,1/11/2016,FBS,Clemson,Alabama,KICK RETURNS,Artavis,Scott,YDS,59
+2621123,1/11/2016,FBS,Clemson,Alabama,KICK RETURNS,Artavis,Scott,AVG,29.5
+2621124,1/11/2016,FBS,Clemson,Alabama,KICK RETURNS,Artavis,Scott,LONG,43
+2621125,1/11/2016,FBS,Clemson,Alabama,KICK RETURNS,Milan,Richard,NO,1
+2621126,1/11/2016,FBS,Clemson,Alabama,KICK RETURNS,Milan,Richard,YDS,9
+2621127,1/11/2016,FBS,Clemson,Alabama,KICK RETURNS,Milan,Richard,AVG,9.0
+2621128,1/11/2016,FBS,Clemson,Alabama,KICK RETURNS,Milan,Richard,LONG,9

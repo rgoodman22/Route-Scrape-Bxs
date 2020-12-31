@@ -1,0 +1,145 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2271001,10/29/2015,FBS,Buffalo,Miami (Ohio),RUSHING,Jordan,Johnson,ATT,28
+2271002,10/29/2015,FBS,Buffalo,Miami (Ohio),RUSHING,Jordan,Johnson,YDS,123
+2271003,10/29/2015,FBS,Buffalo,Miami (Ohio),RUSHING,Jordan,Johnson,TD,2
+2271004,10/29/2015,FBS,Buffalo,Miami (Ohio),RUSHING,Jordan,Johnson,LONG,48
+2271005,10/29/2015,FBS,Buffalo,Miami (Ohio),RUSHING,Anthone,Taylor,ATT,10
+2271006,10/29/2015,FBS,Buffalo,Miami (Ohio),RUSHING,Anthone,Taylor,YDS,28
+2271007,10/29/2015,FBS,Buffalo,Miami (Ohio),RUSHING,Anthone,Taylor,TD,0
+2271008,10/29/2015,FBS,Buffalo,Miami (Ohio),RUSHING,Anthone,Taylor,LONG,12
+2271009,10/29/2015,FBS,Buffalo,Miami (Ohio),RUSHING,Devin,Campbell,ATT,1
+2271010,10/29/2015,FBS,Buffalo,Miami (Ohio),RUSHING,Devin,Campbell,YDS,-3
+2271011,10/29/2015,FBS,Buffalo,Miami (Ohio),RUSHING,Devin,Campbell,TD,0
+2271012,10/29/2015,FBS,Buffalo,Miami (Ohio),RUSHING,Devin,Campbell,LONG,-3
+2271013,10/29/2015,FBS,Buffalo,Miami (Ohio),RUSHING,Joe,Licata,ATT,1
+2271014,10/29/2015,FBS,Buffalo,Miami (Ohio),RUSHING,Joe,Licata,YDS,-4
+2271015,10/29/2015,FBS,Buffalo,Miami (Ohio),RUSHING,Joe,Licata,TD,0
+2271016,10/29/2015,FBS,Buffalo,Miami (Ohio),RUSHING,Joe,Licata,LONG,-4
+2271017,10/29/2015,FBS,Buffalo,Miami (Ohio),PASSING,Joe,Licata,CP-ATT-INT,22-29-1
+2271018,10/29/2015,FBS,Buffalo,Miami (Ohio),PASSING,Joe,Licata,YDS,289
+2271019,10/29/2015,FBS,Buffalo,Miami (Ohio),PASSING,Joe,Licata,TD,2
+2271020,10/29/2015,FBS,Buffalo,Miami (Ohio),PASSING,Joe,Licata,LONG,78
+2271021,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Ron,Willoughby,REC,2
+2271022,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Ron,Willoughby,YDS,87
+2271023,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Ron,Willoughby,TD,2
+2271024,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Ron,Willoughby,LONG,78
+2271025,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Matt,Weiser,REC,5
+2271026,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Matt,Weiser,YDS,56
+2271027,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Matt,Weiser,TD,0
+2271028,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Matt,Weiser,LONG,20
+2271029,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Marcus,McGill,REC,3
+2271030,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Marcus,McGill,YDS,34
+2271031,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Marcus,McGill,TD,0
+2271032,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Marcus,McGill,LONG,29
+2271033,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Jacob,Martinez,REC,2
+2271034,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Jacob,Martinez,YDS,31
+2271035,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Jacob,Martinez,TD,0
+2271036,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Jacob,Martinez,LONG,16
+2271037,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Collin,Lisa,REC,3
+2271038,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Collin,Lisa,YDS,24
+2271039,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Collin,Lisa,TD,0
+2271040,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Collin,Lisa,LONG,13
+2271041,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Mason,Schreck,REC,2
+2271042,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Mason,Schreck,YDS,23
+2271043,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Mason,Schreck,TD,0
+2271044,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Mason,Schreck,LONG,20
+2271045,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Jordan,Johnson,REC,2
+2271046,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Jordan,Johnson,YDS,17
+2271047,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Jordan,Johnson,TD,0
+2271048,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Jordan,Johnson,LONG,13
+2271049,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Anthone,Taylor,REC,1
+2271050,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Anthone,Taylor,YDS,13
+2271051,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Anthone,Taylor,TD,0
+2271052,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Anthone,Taylor,LONG,13
+2271053,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Malcolm,Robinson,REC,1
+2271054,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Malcolm,Robinson,YDS,6
+2271055,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Malcolm,Robinson,TD,0
+2271056,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Malcolm,Robinson,LONG,6
+2271057,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Brandon,Smiley,REC,1
+2271058,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Brandon,Smiley,YDS,-2
+2271059,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Brandon,Smiley,TD,0
+2271060,10/29/2015,FBS,Buffalo,Miami (Ohio),RECEIVING,Brandon,Smiley,LONG,0
+2271061,10/29/2015,FBS,Buffalo,Miami (Ohio),KICKING,Adam,Mitcheson,FG-FGA,1/2
+2271062,10/29/2015,FBS,Buffalo,Miami (Ohio),KICKING,Adam,Mitcheson,LONG,46
+2271063,10/29/2015,FBS,Buffalo,Miami (Ohio),KICKING,Adam,Mitcheson,XP,2
+2271064,10/29/2015,FBS,Buffalo,Miami (Ohio),KICKING,Adam,Mitcheson,PTS,5
+2271065,10/29/2015,FBS,Buffalo,Miami (Ohio),PUNTING,Tyler,Grassman,NO,6
+2271066,10/29/2015,FBS,Buffalo,Miami (Ohio),PUNTING,Tyler,Grassman,YDS,261
+2271067,10/29/2015,FBS,Buffalo,Miami (Ohio),PUNTING,Tyler,Grassman,AVG,43.5
+2271068,10/29/2015,FBS,Buffalo,Miami (Ohio),PUNTING,Tyler,Grassman,LONG,68
+2271069,10/29/2015,FBS,Buffalo,Miami (Ohio),PUNT RETURNS,Collin,Lisa,NO,1
+2271070,10/29/2015,FBS,Buffalo,Miami (Ohio),PUNT RETURNS,Collin,Lisa,YDS,4
+2271071,10/29/2015,FBS,Buffalo,Miami (Ohio),PUNT RETURNS,Collin,Lisa,AVG,4.0
+2271072,10/29/2015,FBS,Buffalo,Miami (Ohio),PUNT RETURNS,Collin,Lisa,LONG,4
+2271073,10/29/2015,FBS,Buffalo,Miami (Ohio),KICK RETURNS,Devin,Campbell,NO,3
+2271074,10/29/2015,FBS,Buffalo,Miami (Ohio),KICK RETURNS,Devin,Campbell,YDS,47
+2271075,10/29/2015,FBS,Buffalo,Miami (Ohio),KICK RETURNS,Devin,Campbell,AVG,15.7
+2271076,10/29/2015,FBS,Buffalo,Miami (Ohio),KICK RETURNS,Devin,Campbell,LONG,18
+2271077,10/29/2015,FBS,Miami (Ohio),Buffalo,RUSHING,Leonard,Ross,ATT,6
+2271078,10/29/2015,FBS,Miami (Ohio),Buffalo,RUSHING,Leonard,Ross,YDS,42
+2271079,10/29/2015,FBS,Miami (Ohio),Buffalo,RUSHING,Leonard,Ross,TD,0
+2271080,10/29/2015,FBS,Miami (Ohio),Buffalo,RUSHING,Leonard,Ross,LONG,20
+2271081,10/29/2015,FBS,Miami (Ohio),Buffalo,RUSHING,Kenny,Young,ATT,10
+2271082,10/29/2015,FBS,Miami (Ohio),Buffalo,RUSHING,Kenny,Young,YDS,31
+2271083,10/29/2015,FBS,Miami (Ohio),Buffalo,RUSHING,Kenny,Young,TD,0
+2271084,10/29/2015,FBS,Miami (Ohio),Buffalo,RUSHING,Kenny,Young,LONG,15
+2271085,10/29/2015,FBS,Miami (Ohio),Buffalo,RUSHING,Maurice,Thomas,ATT,2
+2271086,10/29/2015,FBS,Miami (Ohio),Buffalo,RUSHING,Maurice,Thomas,YDS,19
+2271087,10/29/2015,FBS,Miami (Ohio),Buffalo,RUSHING,Maurice,Thomas,TD,0
+2271088,10/29/2015,FBS,Miami (Ohio),Buffalo,RUSHING,Maurice,Thomas,LONG,10
+2271089,10/29/2015,FBS,Miami (Ohio),Buffalo,RUSHING,Rokeem,Williams,ATT,2
+2271090,10/29/2015,FBS,Miami (Ohio),Buffalo,RUSHING,Rokeem,Williams,YDS,19
+2271091,10/29/2015,FBS,Miami (Ohio),Buffalo,RUSHING,Rokeem,Williams,TD,0
+2271092,10/29/2015,FBS,Miami (Ohio),Buffalo,RUSHING,Rokeem,Williams,LONG,8
+2271093,10/29/2015,FBS,Miami (Ohio),Buffalo,RUSHING,Alonzo,Smith,ATT,4
+2271094,10/29/2015,FBS,Miami (Ohio),Buffalo,RUSHING,Alonzo,Smith,YDS,12
+2271095,10/29/2015,FBS,Miami (Ohio),Buffalo,RUSHING,Alonzo,Smith,TD,0
+2271096,10/29/2015,FBS,Miami (Ohio),Buffalo,RUSHING,Alonzo,Smith,LONG,7
+2271097,10/29/2015,FBS,Miami (Ohio),Buffalo,RUSHING,Billy,Bahl,ATT,7
+2271098,10/29/2015,FBS,Miami (Ohio),Buffalo,RUSHING,Billy,Bahl,YDS,1
+2271099,10/29/2015,FBS,Miami (Ohio),Buffalo,RUSHING,Billy,Bahl,TD,0
+2271100,10/29/2015,FBS,Miami (Ohio),Buffalo,RUSHING,Billy,Bahl,LONG,12
+2271101,10/29/2015,FBS,Miami (Ohio),Buffalo,PASSING,Billy,Bahl,CP-ATT-INT,13-36-0
+2271102,10/29/2015,FBS,Miami (Ohio),Buffalo,PASSING,Billy,Bahl,YDS,224
+2271103,10/29/2015,FBS,Miami (Ohio),Buffalo,PASSING,Billy,Bahl,TD,2
+2271104,10/29/2015,FBS,Miami (Ohio),Buffalo,PASSING,Billy,Bahl,LONG,43
+2271105,10/29/2015,FBS,Miami (Ohio),Buffalo,RECEIVING,Sam,Martin,REC,4
+2271106,10/29/2015,FBS,Miami (Ohio),Buffalo,RECEIVING,Sam,Martin,YDS,95
+2271107,10/29/2015,FBS,Miami (Ohio),Buffalo,RECEIVING,Sam,Martin,TD,1
+2271108,10/29/2015,FBS,Miami (Ohio),Buffalo,RECEIVING,Sam,Martin,LONG,43
+2271109,10/29/2015,FBS,Miami (Ohio),Buffalo,RECEIVING,Jared,Murphy,REC,2
+2271110,10/29/2015,FBS,Miami (Ohio),Buffalo,RECEIVING,Jared,Murphy,YDS,46
+2271111,10/29/2015,FBS,Miami (Ohio),Buffalo,RECEIVING,Jared,Murphy,TD,0
+2271112,10/29/2015,FBS,Miami (Ohio),Buffalo,RECEIVING,Jared,Murphy,LONG,37
+2271113,10/29/2015,FBS,Miami (Ohio),Buffalo,RECEIVING,Ryan,Smith,REC,3
+2271114,10/29/2015,FBS,Miami (Ohio),Buffalo,RECEIVING,Ryan,Smith,YDS,33
+2271115,10/29/2015,FBS,Miami (Ohio),Buffalo,RECEIVING,Ryan,Smith,TD,1
+2271116,10/29/2015,FBS,Miami (Ohio),Buffalo,RECEIVING,Ryan,Smith,LONG,16
+2271117,10/29/2015,FBS,Miami (Ohio),Buffalo,RECEIVING,James,Gardner,REC,1
+2271118,10/29/2015,FBS,Miami (Ohio),Buffalo,RECEIVING,James,Gardner,YDS,23
+2271119,10/29/2015,FBS,Miami (Ohio),Buffalo,RECEIVING,James,Gardner,TD,0
+2271120,10/29/2015,FBS,Miami (Ohio),Buffalo,RECEIVING,James,Gardner,LONG,23
+2271121,10/29/2015,FBS,Miami (Ohio),Buffalo,RECEIVING,Rokeem,Williams,REC,2
+2271122,10/29/2015,FBS,Miami (Ohio),Buffalo,RECEIVING,Rokeem,Williams,YDS,17
+2271123,10/29/2015,FBS,Miami (Ohio),Buffalo,RECEIVING,Rokeem,Williams,TD,0
+2271124,10/29/2015,FBS,Miami (Ohio),Buffalo,RECEIVING,Rokeem,Williams,LONG,13
+2271125,10/29/2015,FBS,Miami (Ohio),Buffalo,RECEIVING,Spencer,McInnis,REC,1
+2271126,10/29/2015,FBS,Miami (Ohio),Buffalo,RECEIVING,Spencer,McInnis,YDS,10
+2271127,10/29/2015,FBS,Miami (Ohio),Buffalo,RECEIVING,Spencer,McInnis,TD,0
+2271128,10/29/2015,FBS,Miami (Ohio),Buffalo,RECEIVING,Spencer,McInnis,LONG,10
+2271129,10/29/2015,FBS,Miami (Ohio),Buffalo,KICKING,Kaleb,Patterson,FG-FGA,1/2
+2271130,10/29/2015,FBS,Miami (Ohio),Buffalo,KICKING,Kaleb,Patterson,LONG,33
+2271131,10/29/2015,FBS,Miami (Ohio),Buffalo,KICKING,Kaleb,Patterson,XP,3
+2271132,10/29/2015,FBS,Miami (Ohio),Buffalo,KICKING,Kaleb,Patterson,PTS,6
+2271133,10/29/2015,FBS,Miami (Ohio),Buffalo,PUNTING,Christian,Koch,NO,6
+2271134,10/29/2015,FBS,Miami (Ohio),Buffalo,PUNTING,Christian,Koch,YDS,198
+2271135,10/29/2015,FBS,Miami (Ohio),Buffalo,PUNTING,Christian,Koch,AVG,33.0
+2271136,10/29/2015,FBS,Miami (Ohio),Buffalo,PUNTING,Christian,Koch,LONG,56
+2271137,10/29/2015,FBS,Miami (Ohio),Buffalo,PUNT RETURNS,Jared,Murphy,NO,0
+2271138,10/29/2015,FBS,Miami (Ohio),Buffalo,PUNT RETURNS,Jared,Murphy,YDS,0
+2271139,10/29/2015,FBS,Miami (Ohio),Buffalo,PUNT RETURNS,Jared,Murphy,AVG,-
+2271140,10/29/2015,FBS,Miami (Ohio),Buffalo,PUNT RETURNS,Jared,Murphy,LONG,0
+2271141,10/29/2015,FBS,Miami (Ohio),Buffalo,KICK RETURNS,Maurice,Thomas,NO,3
+2271142,10/29/2015,FBS,Miami (Ohio),Buffalo,KICK RETURNS,Maurice,Thomas,YDS,102
+2271143,10/29/2015,FBS,Miami (Ohio),Buffalo,KICK RETURNS,Maurice,Thomas,AVG,34.0
+2271144,10/29/2015,FBS,Miami (Ohio),Buffalo,KICK RETURNS,Maurice,Thomas,LONG,54

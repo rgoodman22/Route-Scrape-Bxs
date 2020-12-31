@@ -1,0 +1,145 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2545001,11/28/2015,FBS,Nevada,San Diego State,RUSHING,Don,Jackson,ATT,16
+2545002,11/28/2015,FBS,Nevada,San Diego State,RUSHING,Don,Jackson,YDS,49
+2545003,11/28/2015,FBS,Nevada,San Diego State,RUSHING,Don,Jackson,TD,0
+2545004,11/28/2015,FBS,Nevada,San Diego State,RUSHING,Don,Jackson,LONG,18
+2545005,11/28/2015,FBS,Nevada,San Diego State,RUSHING,James,Butler,ATT,8
+2545006,11/28/2015,FBS,Nevada,San Diego State,RUSHING,James,Butler,YDS,20
+2545007,11/28/2015,FBS,Nevada,San Diego State,RUSHING,James,Butler,TD,0
+2545008,11/28/2015,FBS,Nevada,San Diego State,RUSHING,James,Butler,LONG,6
+2545009,11/28/2015,FBS,Nevada,San Diego State,RUSHING,Hunter,Fralick,ATT,1
+2545010,11/28/2015,FBS,Nevada,San Diego State,RUSHING,Hunter,Fralick,YDS,4
+2545011,11/28/2015,FBS,Nevada,San Diego State,RUSHING,Hunter,Fralick,TD,1
+2545012,11/28/2015,FBS,Nevada,San Diego State,RUSHING,Hunter,Fralick,LONG,4
+2545013,11/28/2015,FBS,Nevada,San Diego State,RUSHING,Jerico,Richardson,ATT,0
+2545014,11/28/2015,FBS,Nevada,San Diego State,RUSHING,Jerico,Richardson,YDS,0
+2545015,11/28/2015,FBS,Nevada,San Diego State,RUSHING,Jerico,Richardson,TD,1
+2545016,11/28/2015,FBS,Nevada,San Diego State,RUSHING,Jerico,Richardson,LONG,0
+2545017,11/28/2015,FBS,Nevada,San Diego State,RUSHING,Austin,Corbett,ATT,0
+2545018,11/28/2015,FBS,Nevada,San Diego State,RUSHING,Austin,Corbett,YDS,0
+2545019,11/28/2015,FBS,Nevada,San Diego State,RUSHING,Austin,Corbett,TD,0
+2545020,11/28/2015,FBS,Nevada,San Diego State,RUSHING,Austin,Corbett,LONG,0
+2545021,11/28/2015,FBS,Nevada,San Diego State,RUSHING,,Team,ATT,1
+2545022,11/28/2015,FBS,Nevada,San Diego State,RUSHING,,Team,YDS,-1
+2545023,11/28/2015,FBS,Nevada,San Diego State,RUSHING,,Team,TD,0
+2545024,11/28/2015,FBS,Nevada,San Diego State,RUSHING,,Team,LONG,-1
+2545025,11/28/2015,FBS,Nevada,San Diego State,RUSHING,Tyler,Stewart,ATT,5
+2545026,11/28/2015,FBS,Nevada,San Diego State,RUSHING,Tyler,Stewart,YDS,-37
+2545027,11/28/2015,FBS,Nevada,San Diego State,RUSHING,Tyler,Stewart,TD,0
+2545028,11/28/2015,FBS,Nevada,San Diego State,RUSHING,Tyler,Stewart,LONG,1
+2545029,11/28/2015,FBS,Nevada,San Diego State,PASSING,Tyler,Stewart,CP-ATT-INT,12-23-2
+2545030,11/28/2015,FBS,Nevada,San Diego State,PASSING,Tyler,Stewart,YDS,228
+2545031,11/28/2015,FBS,Nevada,San Diego State,PASSING,Tyler,Stewart,TD,0
+2545032,11/28/2015,FBS,Nevada,San Diego State,PASSING,Tyler,Stewart,LONG,72
+2545033,11/28/2015,FBS,Nevada,San Diego State,RECEIVING,Jerico,Richardson,REC,6
+2545034,11/28/2015,FBS,Nevada,San Diego State,RECEIVING,Jerico,Richardson,YDS,106
+2545035,11/28/2015,FBS,Nevada,San Diego State,RECEIVING,Jerico,Richardson,TD,0
+2545036,11/28/2015,FBS,Nevada,San Diego State,RECEIVING,Jerico,Richardson,LONG,72
+2545037,11/28/2015,FBS,Nevada,San Diego State,RECEIVING,Hasaan,Henderson,REC,3
+2545038,11/28/2015,FBS,Nevada,San Diego State,RECEIVING,Hasaan,Henderson,YDS,85
+2545039,11/28/2015,FBS,Nevada,San Diego State,RECEIVING,Hasaan,Henderson,TD,0
+2545040,11/28/2015,FBS,Nevada,San Diego State,RECEIVING,Hasaan,Henderson,LONG,39
+2545041,11/28/2015,FBS,Nevada,San Diego State,RECEIVING,Don,Jackson,REC,1
+2545042,11/28/2015,FBS,Nevada,San Diego State,RECEIVING,Don,Jackson,YDS,24
+2545043,11/28/2015,FBS,Nevada,San Diego State,RECEIVING,Don,Jackson,TD,0
+2545044,11/28/2015,FBS,Nevada,San Diego State,RECEIVING,Don,Jackson,LONG,24
+2545045,11/28/2015,FBS,Nevada,San Diego State,RECEIVING,Wyatt,Demps,REC,2
+2545046,11/28/2015,FBS,Nevada,San Diego State,RECEIVING,Wyatt,Demps,YDS,13
+2545047,11/28/2015,FBS,Nevada,San Diego State,RECEIVING,Wyatt,Demps,TD,0
+2545048,11/28/2015,FBS,Nevada,San Diego State,RECEIVING,Wyatt,Demps,LONG,8
+2545049,11/28/2015,FBS,Nevada,San Diego State,KICKING,Brent,Zuzo,FG-FGA,0/0
+2545050,11/28/2015,FBS,Nevada,San Diego State,KICKING,Brent,Zuzo,LONG,-
+2545051,11/28/2015,FBS,Nevada,San Diego State,KICKING,Brent,Zuzo,XP,2
+2545052,11/28/2015,FBS,Nevada,San Diego State,KICKING,Brent,Zuzo,PTS,2
+2545053,11/28/2015,FBS,Nevada,San Diego State,PUNTING,Alex,Boy,NO,7
+2545054,11/28/2015,FBS,Nevada,San Diego State,PUNTING,Alex,Boy,YDS,284
+2545055,11/28/2015,FBS,Nevada,San Diego State,PUNTING,Alex,Boy,AVG,40.6
+2545056,11/28/2015,FBS,Nevada,San Diego State,PUNTING,Alex,Boy,LONG,57
+2545057,11/28/2015,FBS,Nevada,San Diego State,PUNT RETURNS,Andrew,Celis,NO,0
+2545058,11/28/2015,FBS,Nevada,San Diego State,PUNT RETURNS,Andrew,Celis,YDS,0
+2545059,11/28/2015,FBS,Nevada,San Diego State,PUNT RETURNS,Andrew,Celis,AVG,-
+2545060,11/28/2015,FBS,Nevada,San Diego State,PUNT RETURNS,Andrew,Celis,LONG,0
+2545061,11/28/2015,FBS,Nevada,San Diego State,KICK RETURNS,Elijah,Mitchell,NO,4
+2545062,11/28/2015,FBS,Nevada,San Diego State,KICK RETURNS,Elijah,Mitchell,YDS,88
+2545063,11/28/2015,FBS,Nevada,San Diego State,KICK RETURNS,Elijah,Mitchell,AVG,22.0
+2545064,11/28/2015,FBS,Nevada,San Diego State,KICK RETURNS,Elijah,Mitchell,LONG,26
+2545065,11/28/2015,FBS,Nevada,San Diego State,KICK RETURNS,Rodney,Lawson,NO,2
+2545066,11/28/2015,FBS,Nevada,San Diego State,KICK RETURNS,Rodney,Lawson,YDS,52
+2545067,11/28/2015,FBS,Nevada,San Diego State,KICK RETURNS,Rodney,Lawson,AVG,26.0
+2545068,11/28/2015,FBS,Nevada,San Diego State,KICK RETURNS,Rodney,Lawson,LONG,28
+2545069,11/28/2015,FBS,San Diego State,Nevada,RUSHING,Donnel,Pumphrey,ATT,23
+2545070,11/28/2015,FBS,San Diego State,Nevada,RUSHING,Donnel,Pumphrey,YDS,154
+2545071,11/28/2015,FBS,San Diego State,Nevada,RUSHING,Donnel,Pumphrey,TD,2
+2545072,11/28/2015,FBS,San Diego State,Nevada,RUSHING,Donnel,Pumphrey,LONG,72
+2545073,11/28/2015,FBS,San Diego State,Nevada,RUSHING,Chase,Price,ATT,19
+2545074,11/28/2015,FBS,San Diego State,Nevada,RUSHING,Chase,Price,YDS,112
+2545075,11/28/2015,FBS,San Diego State,Nevada,RUSHING,Chase,Price,TD,1
+2545076,11/28/2015,FBS,San Diego State,Nevada,RUSHING,Chase,Price,LONG,24
+2545077,11/28/2015,FBS,San Diego State,Nevada,RUSHING,Christian,Chapman,ATT,4
+2545078,11/28/2015,FBS,San Diego State,Nevada,RUSHING,Christian,Chapman,YDS,29
+2545079,11/28/2015,FBS,San Diego State,Nevada,RUSHING,Christian,Chapman,TD,0
+2545080,11/28/2015,FBS,San Diego State,Nevada,RUSHING,Christian,Chapman,LONG,11
+2545081,11/28/2015,FBS,San Diego State,Nevada,RUSHING,Rashaad,Penny,ATT,6
+2545082,11/28/2015,FBS,San Diego State,Nevada,RUSHING,Rashaad,Penny,YDS,21
+2545083,11/28/2015,FBS,San Diego State,Nevada,RUSHING,Rashaad,Penny,TD,1
+2545084,11/28/2015,FBS,San Diego State,Nevada,RUSHING,Rashaad,Penny,LONG,14
+2545085,11/28/2015,FBS,San Diego State,Nevada,RUSHING,Dakota,Gordon,ATT,1
+2545086,11/28/2015,FBS,San Diego State,Nevada,RUSHING,Dakota,Gordon,YDS,4
+2545087,11/28/2015,FBS,San Diego State,Nevada,RUSHING,Dakota,Gordon,TD,0
+2545088,11/28/2015,FBS,San Diego State,Nevada,RUSHING,Dakota,Gordon,LONG,4
+2545089,11/28/2015,FBS,San Diego State,Nevada,PASSING,Maxwell,Smith,CP-ATT-INT,3-3-0
+2545090,11/28/2015,FBS,San Diego State,Nevada,PASSING,Maxwell,Smith,YDS,44
+2545091,11/28/2015,FBS,San Diego State,Nevada,PASSING,Maxwell,Smith,TD,0
+2545092,11/28/2015,FBS,San Diego State,Nevada,PASSING,Maxwell,Smith,LONG,27
+2545093,11/28/2015,FBS,San Diego State,Nevada,PASSING,Christian,Chapman,CP-ATT-INT,6-9-0
+2545094,11/28/2015,FBS,San Diego State,Nevada,PASSING,Christian,Chapman,YDS,44
+2545095,11/28/2015,FBS,San Diego State,Nevada,PASSING,Christian,Chapman,TD,0
+2545096,11/28/2015,FBS,San Diego State,Nevada,PASSING,Christian,Chapman,LONG,21
+2545097,11/28/2015,FBS,San Diego State,Nevada,RECEIVING,Rashaad,Penny,REC,2
+2545098,11/28/2015,FBS,San Diego State,Nevada,RECEIVING,Rashaad,Penny,YDS,28
+2545099,11/28/2015,FBS,San Diego State,Nevada,RECEIVING,Rashaad,Penny,TD,0
+2545100,11/28/2015,FBS,San Diego State,Nevada,RECEIVING,Rashaad,Penny,LONG,27
+2545101,11/28/2015,FBS,San Diego State,Nevada,RECEIVING,Mikah,Holder,REC,1
+2545102,11/28/2015,FBS,San Diego State,Nevada,RECEIVING,Mikah,Holder,YDS,21
+2545103,11/28/2015,FBS,San Diego State,Nevada,RECEIVING,Mikah,Holder,TD,0
+2545104,11/28/2015,FBS,San Diego State,Nevada,RECEIVING,Mikah,Holder,LONG,21
+2545105,11/28/2015,FBS,San Diego State,Nevada,RECEIVING,Jemond,Hazely,REC,1
+2545106,11/28/2015,FBS,San Diego State,Nevada,RECEIVING,Jemond,Hazely,YDS,15
+2545107,11/28/2015,FBS,San Diego State,Nevada,RECEIVING,Jemond,Hazely,TD,0
+2545108,11/28/2015,FBS,San Diego State,Nevada,RECEIVING,Jemond,Hazely,LONG,15
+2545109,11/28/2015,FBS,San Diego State,Nevada,RECEIVING,Chase,Price,REC,3
+2545110,11/28/2015,FBS,San Diego State,Nevada,RECEIVING,Chase,Price,YDS,10
+2545111,11/28/2015,FBS,San Diego State,Nevada,RECEIVING,Chase,Price,TD,0
+2545112,11/28/2015,FBS,San Diego State,Nevada,RECEIVING,Chase,Price,LONG,4
+2545113,11/28/2015,FBS,San Diego State,Nevada,RECEIVING,Donnel,Pumphrey,REC,1
+2545114,11/28/2015,FBS,San Diego State,Nevada,RECEIVING,Donnel,Pumphrey,YDS,8
+2545115,11/28/2015,FBS,San Diego State,Nevada,RECEIVING,Donnel,Pumphrey,TD,0
+2545116,11/28/2015,FBS,San Diego State,Nevada,RECEIVING,Donnel,Pumphrey,LONG,8
+2545117,11/28/2015,FBS,San Diego State,Nevada,RECEIVING,David,Wells,REC,1
+2545118,11/28/2015,FBS,San Diego State,Nevada,RECEIVING,David,Wells,YDS,6
+2545119,11/28/2015,FBS,San Diego State,Nevada,RECEIVING,David,Wells,TD,0
+2545120,11/28/2015,FBS,San Diego State,Nevada,RECEIVING,David,Wells,LONG,6
+2545121,11/28/2015,FBS,San Diego State,Nevada,KICKING,Donny,Hageman,FG-FGA,1/2
+2545122,11/28/2015,FBS,San Diego State,Nevada,KICKING,Donny,Hageman,LONG,29
+2545123,11/28/2015,FBS,San Diego State,Nevada,KICKING,Donny,Hageman,XP,4
+2545124,11/28/2015,FBS,San Diego State,Nevada,KICKING,Donny,Hageman,PTS,7
+2545125,11/28/2015,FBS,San Diego State,Nevada,PUNTING,Tanner,Blain,NO,6
+2545126,11/28/2015,FBS,San Diego State,Nevada,PUNTING,Tanner,Blain,YDS,224
+2545127,11/28/2015,FBS,San Diego State,Nevada,PUNTING,Tanner,Blain,AVG,37.3
+2545128,11/28/2015,FBS,San Diego State,Nevada,PUNTING,Tanner,Blain,LONG,45
+2545129,11/28/2015,FBS,San Diego State,Nevada,PUNT RETURNS,Mikah,Holder,NO,1
+2545130,11/28/2015,FBS,San Diego State,Nevada,PUNT RETURNS,Mikah,Holder,YDS,38
+2545131,11/28/2015,FBS,San Diego State,Nevada,PUNT RETURNS,Mikah,Holder,AVG,38.0
+2545132,11/28/2015,FBS,San Diego State,Nevada,PUNT RETURNS,Mikah,Holder,LONG,38
+2545133,11/28/2015,FBS,San Diego State,Nevada,PUNT RETURNS,Damontae,Kazee,NO,1
+2545134,11/28/2015,FBS,San Diego State,Nevada,PUNT RETURNS,Damontae,Kazee,YDS,-5
+2545135,11/28/2015,FBS,San Diego State,Nevada,PUNT RETURNS,Damontae,Kazee,AVG,-
+2545136,11/28/2015,FBS,San Diego State,Nevada,PUNT RETURNS,Damontae,Kazee,LONG,0
+2545137,11/28/2015,FBS,San Diego State,Nevada,KICK RETURNS,Chase,Price,NO,2
+2545138,11/28/2015,FBS,San Diego State,Nevada,KICK RETURNS,Chase,Price,YDS,36
+2545139,11/28/2015,FBS,San Diego State,Nevada,KICK RETURNS,Chase,Price,AVG,18.0
+2545140,11/28/2015,FBS,San Diego State,Nevada,KICK RETURNS,Chase,Price,LONG,22
+2545141,11/28/2015,FBS,San Diego State,Nevada,KICK RETURNS,Rashaad,Penny,NO,1
+2545142,11/28/2015,FBS,San Diego State,Nevada,KICK RETURNS,Rashaad,Penny,YDS,18
+2545143,11/28/2015,FBS,San Diego State,Nevada,KICK RETURNS,Rashaad,Penny,AVG,18.0
+2545144,11/28/2015,FBS,San Diego State,Nevada,KICK RETURNS,Rashaad,Penny,LONG,18

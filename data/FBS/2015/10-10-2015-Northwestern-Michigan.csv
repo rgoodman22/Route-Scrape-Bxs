@@ -1,0 +1,197 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2110001,10/10/2015,FBS,Northwestern,Michigan,RUSHING,Justin,Jackson,ATT,12
+2110002,10/10/2015,FBS,Northwestern,Michigan,RUSHING,Justin,Jackson,YDS,25
+2110003,10/10/2015,FBS,Northwestern,Michigan,RUSHING,Justin,Jackson,TD,0
+2110004,10/10/2015,FBS,Northwestern,Michigan,RUSHING,Justin,Jackson,LONG,15
+2110005,10/10/2015,FBS,Northwestern,Michigan,RUSHING,Solomon,Vault,ATT,3
+2110006,10/10/2015,FBS,Northwestern,Michigan,RUSHING,Solomon,Vault,YDS,12
+2110007,10/10/2015,FBS,Northwestern,Michigan,RUSHING,Solomon,Vault,TD,0
+2110008,10/10/2015,FBS,Northwestern,Michigan,RUSHING,Solomon,Vault,LONG,15
+2110009,10/10/2015,FBS,Northwestern,Michigan,RUSHING,Jelani,Roberts,ATT,1
+2110010,10/10/2015,FBS,Northwestern,Michigan,RUSHING,Jelani,Roberts,YDS,11
+2110011,10/10/2015,FBS,Northwestern,Michigan,RUSHING,Jelani,Roberts,TD,0
+2110012,10/10/2015,FBS,Northwestern,Michigan,RUSHING,Jelani,Roberts,LONG,11
+2110013,10/10/2015,FBS,Northwestern,Michigan,RUSHING,Warren,Long,ATT,1
+2110014,10/10/2015,FBS,Northwestern,Michigan,RUSHING,Warren,Long,YDS,6
+2110015,10/10/2015,FBS,Northwestern,Michigan,RUSHING,Warren,Long,TD,0
+2110016,10/10/2015,FBS,Northwestern,Michigan,RUSHING,Warren,Long,LONG,6
+2110017,10/10/2015,FBS,Northwestern,Michigan,RUSHING,,Team,ATT,1
+2110018,10/10/2015,FBS,Northwestern,Michigan,RUSHING,,Team,YDS,-1
+2110019,10/10/2015,FBS,Northwestern,Michigan,RUSHING,,Team,TD,0
+2110020,10/10/2015,FBS,Northwestern,Michigan,RUSHING,,Team,LONG,-1
+2110021,10/10/2015,FBS,Northwestern,Michigan,RUSHING,Matt,Alviti,ATT,3
+2110022,10/10/2015,FBS,Northwestern,Michigan,RUSHING,Matt,Alviti,YDS,-2
+2110023,10/10/2015,FBS,Northwestern,Michigan,RUSHING,Matt,Alviti,TD,0
+2110024,10/10/2015,FBS,Northwestern,Michigan,RUSHING,Matt,Alviti,LONG,5
+2110025,10/10/2015,FBS,Northwestern,Michigan,RUSHING,Clayton,Thorson,ATT,3
+2110026,10/10/2015,FBS,Northwestern,Michigan,RUSHING,Clayton,Thorson,YDS,-4
+2110027,10/10/2015,FBS,Northwestern,Michigan,RUSHING,Clayton,Thorson,TD,0
+2110028,10/10/2015,FBS,Northwestern,Michigan,RUSHING,Clayton,Thorson,LONG,3
+2110029,10/10/2015,FBS,Northwestern,Michigan,RUSHING,Zack,Oliver,ATT,1
+2110030,10/10/2015,FBS,Northwestern,Michigan,RUSHING,Zack,Oliver,YDS,-9
+2110031,10/10/2015,FBS,Northwestern,Michigan,RUSHING,Zack,Oliver,TD,0
+2110032,10/10/2015,FBS,Northwestern,Michigan,RUSHING,Zack,Oliver,LONG,-9
+2110033,10/10/2015,FBS,Northwestern,Michigan,PASSING,Clayton,Thorson,CP-ATT-INT,13-27-1
+2110034,10/10/2015,FBS,Northwestern,Michigan,PASSING,Clayton,Thorson,YDS,106
+2110035,10/10/2015,FBS,Northwestern,Michigan,PASSING,Clayton,Thorson,TD,0
+2110036,10/10/2015,FBS,Northwestern,Michigan,PASSING,Clayton,Thorson,LONG,20
+2110037,10/10/2015,FBS,Northwestern,Michigan,PASSING,Zack,Oliver,CP-ATT-INT,1-3-0
+2110038,10/10/2015,FBS,Northwestern,Michigan,PASSING,Zack,Oliver,YDS,12
+2110039,10/10/2015,FBS,Northwestern,Michigan,PASSING,Zack,Oliver,TD,0
+2110040,10/10/2015,FBS,Northwestern,Michigan,PASSING,Zack,Oliver,LONG,12
+2110041,10/10/2015,FBS,Northwestern,Michigan,PASSING,Matt,Alviti,CP-ATT-INT,1-3-0
+2110042,10/10/2015,FBS,Northwestern,Michigan,PASSING,Matt,Alviti,YDS,12
+2110043,10/10/2015,FBS,Northwestern,Michigan,PASSING,Matt,Alviti,TD,0
+2110044,10/10/2015,FBS,Northwestern,Michigan,PASSING,Matt,Alviti,LONG,12
+2110045,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Austin,Carr,REC,2
+2110046,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Austin,Carr,YDS,39
+2110047,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Austin,Carr,TD,0
+2110048,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Austin,Carr,LONG,20
+2110049,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Christian,Jones,REC,2
+2110050,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Christian,Jones,YDS,22
+2110051,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Christian,Jones,TD,0
+2110052,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Christian,Jones,LONG,12
+2110053,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Cameron,Dickerson,REC,2
+2110054,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Cameron,Dickerson,YDS,22
+2110055,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Cameron,Dickerson,TD,0
+2110056,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Cameron,Dickerson,LONG,12
+2110057,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Garrett,Dickerson,REC,2
+2110058,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Garrett,Dickerson,YDS,12
+2110059,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Garrett,Dickerson,TD,0
+2110060,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Garrett,Dickerson,LONG,7
+2110061,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Jelani,Roberts,REC,1
+2110062,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Jelani,Roberts,YDS,12
+2110063,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Jelani,Roberts,TD,0
+2110064,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Jelani,Roberts,LONG,12
+2110065,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Dan,Vitale,REC,1
+2110066,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Dan,Vitale,YDS,11
+2110067,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Dan,Vitale,TD,0
+2110068,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Dan,Vitale,LONG,11
+2110069,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Miles,Shuler,REC,1
+2110070,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Miles,Shuler,YDS,9
+2110071,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Miles,Shuler,TD,0
+2110072,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Miles,Shuler,LONG,9
+2110073,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Justin,Jackson,REC,1
+2110074,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Justin,Jackson,YDS,3
+2110075,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Justin,Jackson,TD,0
+2110076,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Justin,Jackson,LONG,3
+2110077,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Clayton,Thorson,REC,1
+2110078,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Clayton,Thorson,YDS,0
+2110079,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Clayton,Thorson,TD,0
+2110080,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Clayton,Thorson,LONG,0
+2110081,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Mike,McHugh,REC,2
+2110082,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Mike,McHugh,YDS,0
+2110083,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Mike,McHugh,TD,0
+2110084,10/10/2015,FBS,Northwestern,Michigan,RECEIVING,Mike,McHugh,LONG,2
+2110085,10/10/2015,FBS,Northwestern,Michigan,KICKING,Jack,Mitchell,FG-FGA,0/1
+2110086,10/10/2015,FBS,Northwestern,Michigan,KICKING,Jack,Mitchell,LONG,0
+2110087,10/10/2015,FBS,Northwestern,Michigan,KICKING,Jack,Mitchell,XP,0
+2110088,10/10/2015,FBS,Northwestern,Michigan,KICKING,Jack,Mitchell,PTS,0
+2110089,10/10/2015,FBS,Northwestern,Michigan,PUNTING,Hunter,Niswander,NO,8
+2110090,10/10/2015,FBS,Northwestern,Michigan,PUNTING,Hunter,Niswander,YDS,280
+2110091,10/10/2015,FBS,Northwestern,Michigan,PUNTING,Hunter,Niswander,AVG,35.0
+2110092,10/10/2015,FBS,Northwestern,Michigan,PUNTING,Hunter,Niswander,LONG,47
+2110093,10/10/2015,FBS,Northwestern,Michigan,PUNT RETURNS,Miles,Shuler,NO,0
+2110094,10/10/2015,FBS,Northwestern,Michigan,PUNT RETURNS,Miles,Shuler,YDS,0
+2110095,10/10/2015,FBS,Northwestern,Michigan,PUNT RETURNS,Miles,Shuler,AVG,-
+2110096,10/10/2015,FBS,Northwestern,Michigan,PUNT RETURNS,Miles,Shuler,LONG,0
+2110097,10/10/2015,FBS,Northwestern,Michigan,KICK RETURNS,Solomon,Vault,NO,2
+2110098,10/10/2015,FBS,Northwestern,Michigan,KICK RETURNS,Solomon,Vault,YDS,39
+2110099,10/10/2015,FBS,Northwestern,Michigan,KICK RETURNS,Solomon,Vault,AVG,19.5
+2110100,10/10/2015,FBS,Northwestern,Michigan,KICK RETURNS,Solomon,Vault,LONG,22
+2110101,10/10/2015,FBS,Northwestern,Michigan,KICK RETURNS,Jelani,Roberts,NO,1
+2110102,10/10/2015,FBS,Northwestern,Michigan,KICK RETURNS,Jelani,Roberts,YDS,19
+2110103,10/10/2015,FBS,Northwestern,Michigan,KICK RETURNS,Jelani,Roberts,AVG,19.0
+2110104,10/10/2015,FBS,Northwestern,Michigan,KICK RETURNS,Jelani,Roberts,LONG,19
+2110105,10/10/2015,FBS,Northwestern,Michigan,KICK RETURNS,Marcus,McShepard,NO,1
+2110106,10/10/2015,FBS,Northwestern,Michigan,KICK RETURNS,Marcus,McShepard,YDS,17
+2110107,10/10/2015,FBS,Northwestern,Michigan,KICK RETURNS,Marcus,McShepard,AVG,17.0
+2110108,10/10/2015,FBS,Northwestern,Michigan,KICK RETURNS,Marcus,McShepard,LONG,17
+2110109,10/10/2015,FBS,Michigan,Northwestern,RUSHING,De'Veon,Smith,ATT,8
+2110110,10/10/2015,FBS,Michigan,Northwestern,RUSHING,De'Veon,Smith,YDS,59
+2110111,10/10/2015,FBS,Michigan,Northwestern,RUSHING,De'Veon,Smith,TD,0
+2110112,10/10/2015,FBS,Michigan,Northwestern,RUSHING,De'Veon,Smith,LONG,19
+2110113,10/10/2015,FBS,Michigan,Northwestern,RUSHING,Derrick,Green,ATT,12
+2110114,10/10/2015,FBS,Michigan,Northwestern,RUSHING,Derrick,Green,YDS,47
+2110115,10/10/2015,FBS,Michigan,Northwestern,RUSHING,Derrick,Green,TD,1
+2110116,10/10/2015,FBS,Michigan,Northwestern,RUSHING,Derrick,Green,LONG,10
+2110117,10/10/2015,FBS,Michigan,Northwestern,RUSHING,Joe,Kerridge,ATT,2
+2110118,10/10/2015,FBS,Michigan,Northwestern,RUSHING,Joe,Kerridge,YDS,35
+2110119,10/10/2015,FBS,Michigan,Northwestern,RUSHING,Joe,Kerridge,TD,0
+2110120,10/10/2015,FBS,Michigan,Northwestern,RUSHING,Joe,Kerridge,LONG,34
+2110121,10/10/2015,FBS,Michigan,Northwestern,RUSHING,Karan,Higdon,ATT,8
+2110122,10/10/2015,FBS,Michigan,Northwestern,RUSHING,Karan,Higdon,YDS,16
+2110123,10/10/2015,FBS,Michigan,Northwestern,RUSHING,Karan,Higdon,TD,0
+2110124,10/10/2015,FBS,Michigan,Northwestern,RUSHING,Karan,Higdon,LONG,9
+2110125,10/10/2015,FBS,Michigan,Northwestern,RUSHING,Ty,Isaac,ATT,2
+2110126,10/10/2015,FBS,Michigan,Northwestern,RUSHING,Ty,Isaac,YDS,13
+2110127,10/10/2015,FBS,Michigan,Northwestern,RUSHING,Ty,Isaac,TD,0
+2110128,10/10/2015,FBS,Michigan,Northwestern,RUSHING,Ty,Isaac,LONG,7
+2110129,10/10/2015,FBS,Michigan,Northwestern,RUSHING,Sione,Houma,ATT,3
+2110130,10/10/2015,FBS,Michigan,Northwestern,RUSHING,Sione,Houma,YDS,13
+2110131,10/10/2015,FBS,Michigan,Northwestern,RUSHING,Sione,Houma,TD,0
+2110132,10/10/2015,FBS,Michigan,Northwestern,RUSHING,Sione,Houma,LONG,5
+2110133,10/10/2015,FBS,Michigan,Northwestern,RUSHING,Jake,Rudock,ATT,6
+2110134,10/10/2015,FBS,Michigan,Northwestern,RUSHING,Jake,Rudock,YDS,11
+2110135,10/10/2015,FBS,Michigan,Northwestern,RUSHING,Jake,Rudock,TD,1
+2110136,10/10/2015,FBS,Michigan,Northwestern,RUSHING,Jake,Rudock,LONG,13
+2110137,10/10/2015,FBS,Michigan,Northwestern,RUSHING,Jehu,Chesson,ATT,2
+2110138,10/10/2015,FBS,Michigan,Northwestern,RUSHING,Jehu,Chesson,YDS,6
+2110139,10/10/2015,FBS,Michigan,Northwestern,RUSHING,Jehu,Chesson,TD,0
+2110140,10/10/2015,FBS,Michigan,Northwestern,RUSHING,Jehu,Chesson,LONG,12
+2110141,10/10/2015,FBS,Michigan,Northwestern,RUSHING,Drake,Johnson,ATT,2
+2110142,10/10/2015,FBS,Michigan,Northwestern,RUSHING,Drake,Johnson,YDS,3
+2110143,10/10/2015,FBS,Michigan,Northwestern,RUSHING,Drake,Johnson,TD,1
+2110144,10/10/2015,FBS,Michigan,Northwestern,RUSHING,Drake,Johnson,LONG,2
+2110145,10/10/2015,FBS,Michigan,Northwestern,RUSHING,,Team,ATT,1
+2110146,10/10/2015,FBS,Michigan,Northwestern,RUSHING,,Team,YDS,-2
+2110147,10/10/2015,FBS,Michigan,Northwestern,RUSHING,,Team,TD,0
+2110148,10/10/2015,FBS,Michigan,Northwestern,RUSHING,,Team,LONG,-2
+2110149,10/10/2015,FBS,Michigan,Northwestern,PASSING,Jake,Rudock,CP-ATT-INT,17-23-0
+2110150,10/10/2015,FBS,Michigan,Northwestern,PASSING,Jake,Rudock,YDS,179
+2110151,10/10/2015,FBS,Michigan,Northwestern,PASSING,Jake,Rudock,TD,0
+2110152,10/10/2015,FBS,Michigan,Northwestern,PASSING,Jake,Rudock,LONG,32
+2110153,10/10/2015,FBS,Michigan,Northwestern,RECEIVING,AJ,Williams,REC,4
+2110154,10/10/2015,FBS,Michigan,Northwestern,RECEIVING,AJ,Williams,YDS,48
+2110155,10/10/2015,FBS,Michigan,Northwestern,RECEIVING,AJ,Williams,TD,0
+2110156,10/10/2015,FBS,Michigan,Northwestern,RECEIVING,AJ,Williams,LONG,16
+2110157,10/10/2015,FBS,Michigan,Northwestern,RECEIVING,Jake,Butt,REC,3
+2110158,10/10/2015,FBS,Michigan,Northwestern,RECEIVING,Jake,Butt,YDS,40
+2110159,10/10/2015,FBS,Michigan,Northwestern,RECEIVING,Jake,Butt,TD,0
+2110160,10/10/2015,FBS,Michigan,Northwestern,RECEIVING,Jake,Butt,LONG,32
+2110161,10/10/2015,FBS,Michigan,Northwestern,RECEIVING,Jehu,Chesson,REC,2
+2110162,10/10/2015,FBS,Michigan,Northwestern,RECEIVING,Jehu,Chesson,YDS,26
+2110163,10/10/2015,FBS,Michigan,Northwestern,RECEIVING,Jehu,Chesson,TD,0
+2110164,10/10/2015,FBS,Michigan,Northwestern,RECEIVING,Jehu,Chesson,LONG,27
+2110165,10/10/2015,FBS,Michigan,Northwestern,RECEIVING,Drake,Harris,REC,2
+2110166,10/10/2015,FBS,Michigan,Northwestern,RECEIVING,Drake,Harris,YDS,25
+2110167,10/10/2015,FBS,Michigan,Northwestern,RECEIVING,Drake,Harris,TD,0
+2110168,10/10/2015,FBS,Michigan,Northwestern,RECEIVING,Drake,Harris,LONG,13
+2110169,10/10/2015,FBS,Michigan,Northwestern,RECEIVING,De'Veon,Smith,REC,3
+2110170,10/10/2015,FBS,Michigan,Northwestern,RECEIVING,De'Veon,Smith,YDS,19
+2110171,10/10/2015,FBS,Michigan,Northwestern,RECEIVING,De'Veon,Smith,TD,0
+2110172,10/10/2015,FBS,Michigan,Northwestern,RECEIVING,De'Veon,Smith,LONG,10
+2110173,10/10/2015,FBS,Michigan,Northwestern,RECEIVING,Amara,Darboh,REC,2
+2110174,10/10/2015,FBS,Michigan,Northwestern,RECEIVING,Amara,Darboh,YDS,11
+2110175,10/10/2015,FBS,Michigan,Northwestern,RECEIVING,Amara,Darboh,TD,0
+2110176,10/10/2015,FBS,Michigan,Northwestern,RECEIVING,Amara,Darboh,LONG,8
+2110177,10/10/2015,FBS,Michigan,Northwestern,RECEIVING,Maurice,Ways,REC,1
+2110178,10/10/2015,FBS,Michigan,Northwestern,RECEIVING,Maurice,Ways,YDS,10
+2110179,10/10/2015,FBS,Michigan,Northwestern,RECEIVING,Maurice,Ways,TD,0
+2110180,10/10/2015,FBS,Michigan,Northwestern,RECEIVING,Maurice,Ways,LONG,10
+2110181,10/10/2015,FBS,Michigan,Northwestern,KICKING,Kenny,Allen,FG-FGA,1/1
+2110182,10/10/2015,FBS,Michigan,Northwestern,KICKING,Kenny,Allen,LONG,47
+2110183,10/10/2015,FBS,Michigan,Northwestern,KICKING,Kenny,Allen,XP,5
+2110184,10/10/2015,FBS,Michigan,Northwestern,KICKING,Kenny,Allen,PTS,8
+2110185,10/10/2015,FBS,Michigan,Northwestern,PUNTING,Blake,O'Neill,NO,5
+2110186,10/10/2015,FBS,Michigan,Northwestern,PUNTING,Blake,O'Neill,YDS,190
+2110187,10/10/2015,FBS,Michigan,Northwestern,PUNTING,Blake,O'Neill,AVG,38.0
+2110188,10/10/2015,FBS,Michigan,Northwestern,PUNTING,Blake,O'Neill,LONG,59
+2110189,10/10/2015,FBS,Michigan,Northwestern,PUNT RETURNS,Jabrill,Peppers,NO,0
+2110190,10/10/2015,FBS,Michigan,Northwestern,PUNT RETURNS,Jabrill,Peppers,YDS,0
+2110191,10/10/2015,FBS,Michigan,Northwestern,PUNT RETURNS,Jabrill,Peppers,AVG,-
+2110192,10/10/2015,FBS,Michigan,Northwestern,PUNT RETURNS,Jabrill,Peppers,LONG,0
+2110193,10/10/2015,FBS,Michigan,Northwestern,KICK RETURNS,Jehu,Chesson,NO,1
+2110194,10/10/2015,FBS,Michigan,Northwestern,KICK RETURNS,Jehu,Chesson,YDS,96
+2110195,10/10/2015,FBS,Michigan,Northwestern,KICK RETURNS,Jehu,Chesson,AVG,96.0
+2110196,10/10/2015,FBS,Michigan,Northwestern,KICK RETURNS,Jehu,Chesson,LONG,96

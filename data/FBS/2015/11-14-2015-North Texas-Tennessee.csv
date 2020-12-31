@@ -1,0 +1,169 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2405001,11/14/2015,FBS,North Texas,Tennessee,RUSHING,Jeffrey,Wilson,ATT,14
+2405002,11/14/2015,FBS,North Texas,Tennessee,RUSHING,Jeffrey,Wilson,YDS,52
+2405003,11/14/2015,FBS,North Texas,Tennessee,RUSHING,Jeffrey,Wilson,TD,0
+2405004,11/14/2015,FBS,North Texas,Tennessee,RUSHING,Jeffrey,Wilson,LONG,9
+2405005,11/14/2015,FBS,North Texas,Tennessee,RUSHING,Willy,Ivery,ATT,4
+2405006,11/14/2015,FBS,North Texas,Tennessee,RUSHING,Willy,Ivery,YDS,44
+2405007,11/14/2015,FBS,North Texas,Tennessee,RUSHING,Willy,Ivery,TD,0
+2405008,11/14/2015,FBS,North Texas,Tennessee,RUSHING,Willy,Ivery,LONG,16
+2405009,11/14/2015,FBS,North Texas,Tennessee,RUSHING,Antoinne,Jimmerson,ATT,2
+2405010,11/14/2015,FBS,North Texas,Tennessee,RUSHING,Antoinne,Jimmerson,YDS,3
+2405011,11/14/2015,FBS,North Texas,Tennessee,RUSHING,Antoinne,Jimmerson,TD,0
+2405012,11/14/2015,FBS,North Texas,Tennessee,RUSHING,Antoinne,Jimmerson,LONG,2
+2405013,11/14/2015,FBS,North Texas,Tennessee,RUSHING,Chris,Miles,ATT,0
+2405014,11/14/2015,FBS,North Texas,Tennessee,RUSHING,Chris,Miles,YDS,0
+2405015,11/14/2015,FBS,North Texas,Tennessee,RUSHING,Chris,Miles,TD,0
+2405016,11/14/2015,FBS,North Texas,Tennessee,RUSHING,Chris,Miles,LONG,0
+2405017,11/14/2015,FBS,North Texas,Tennessee,RUSHING,,Team,ATT,1
+2405018,11/14/2015,FBS,North Texas,Tennessee,RUSHING,,Team,YDS,-1
+2405019,11/14/2015,FBS,North Texas,Tennessee,RUSHING,,Team,TD,0
+2405020,11/14/2015,FBS,North Texas,Tennessee,RUSHING,,Team,LONG,-1
+2405021,11/14/2015,FBS,North Texas,Tennessee,RUSHING,DaMarcus,Smith,ATT,11
+2405022,11/14/2015,FBS,North Texas,Tennessee,RUSHING,DaMarcus,Smith,YDS,-6
+2405023,11/14/2015,FBS,North Texas,Tennessee,RUSHING,DaMarcus,Smith,TD,0
+2405024,11/14/2015,FBS,North Texas,Tennessee,RUSHING,DaMarcus,Smith,LONG,6
+2405025,11/14/2015,FBS,North Texas,Tennessee,PASSING,DaMarcus,Smith,CP-ATT-INT,12-25-0
+2405026,11/14/2015,FBS,North Texas,Tennessee,PASSING,DaMarcus,Smith,YDS,103
+2405027,11/14/2015,FBS,North Texas,Tennessee,PASSING,DaMarcus,Smith,TD,0
+2405028,11/14/2015,FBS,North Texas,Tennessee,PASSING,DaMarcus,Smith,LONG,15
+2405029,11/14/2015,FBS,North Texas,Tennessee,PASSING,Eric,Keena,CP-ATT-INT,1-1-0
+2405030,11/14/2015,FBS,North Texas,Tennessee,PASSING,Eric,Keena,YDS,4
+2405031,11/14/2015,FBS,North Texas,Tennessee,PASSING,Eric,Keena,TD,0
+2405032,11/14/2015,FBS,North Texas,Tennessee,PASSING,Eric,Keena,LONG,4
+2405033,11/14/2015,FBS,North Texas,Tennessee,RECEIVING,Marcus,Smith,REC,5
+2405034,11/14/2015,FBS,North Texas,Tennessee,RECEIVING,Marcus,Smith,YDS,46
+2405035,11/14/2015,FBS,North Texas,Tennessee,RECEIVING,Marcus,Smith,TD,0
+2405036,11/14/2015,FBS,North Texas,Tennessee,RECEIVING,Marcus,Smith,LONG,15
+2405037,11/14/2015,FBS,North Texas,Tennessee,RECEIVING,Turner,Smiley,REC,3
+2405038,11/14/2015,FBS,North Texas,Tennessee,RECEIVING,Turner,Smiley,YDS,21
+2405039,11/14/2015,FBS,North Texas,Tennessee,RECEIVING,Turner,Smiley,TD,0
+2405040,11/14/2015,FBS,North Texas,Tennessee,RECEIVING,Turner,Smiley,LONG,11
+2405041,11/14/2015,FBS,North Texas,Tennessee,RECEIVING,Carlos,Harris,REC,2
+2405042,11/14/2015,FBS,North Texas,Tennessee,RECEIVING,Carlos,Harris,YDS,20
+2405043,11/14/2015,FBS,North Texas,Tennessee,RECEIVING,Carlos,Harris,TD,0
+2405044,11/14/2015,FBS,North Texas,Tennessee,RECEIVING,Carlos,Harris,LONG,12
+2405045,11/14/2015,FBS,North Texas,Tennessee,RECEIVING,O'Keeron,Rutherford,REC,1
+2405046,11/14/2015,FBS,North Texas,Tennessee,RECEIVING,O'Keeron,Rutherford,YDS,9
+2405047,11/14/2015,FBS,North Texas,Tennessee,RECEIVING,O'Keeron,Rutherford,TD,0
+2405048,11/14/2015,FBS,North Texas,Tennessee,RECEIVING,O'Keeron,Rutherford,LONG,9
+2405049,11/14/2015,FBS,North Texas,Tennessee,RECEIVING,Jeffrey,Wilson,REC,1
+2405050,11/14/2015,FBS,North Texas,Tennessee,RECEIVING,Jeffrey,Wilson,YDS,7
+2405051,11/14/2015,FBS,North Texas,Tennessee,RECEIVING,Jeffrey,Wilson,TD,0
+2405052,11/14/2015,FBS,North Texas,Tennessee,RECEIVING,Jeffrey,Wilson,LONG,7
+2405053,11/14/2015,FBS,North Texas,Tennessee,RECEIVING,Andrew,Tucker,REC,1
+2405054,11/14/2015,FBS,North Texas,Tennessee,RECEIVING,Andrew,Tucker,YDS,4
+2405055,11/14/2015,FBS,North Texas,Tennessee,RECEIVING,Andrew,Tucker,TD,0
+2405056,11/14/2015,FBS,North Texas,Tennessee,RECEIVING,Andrew,Tucker,LONG,4
+2405057,11/14/2015,FBS,North Texas,Tennessee,PUNTING,Eric,Keena,NO,8
+2405058,11/14/2015,FBS,North Texas,Tennessee,PUNTING,Eric,Keena,YDS,317
+2405059,11/14/2015,FBS,North Texas,Tennessee,PUNTING,Eric,Keena,AVG,39.6
+2405060,11/14/2015,FBS,North Texas,Tennessee,PUNTING,Eric,Keena,LONG,62
+2405061,11/14/2015,FBS,North Texas,Tennessee,PUNT RETURNS,Tre,Johnson,NO,1
+2405062,11/14/2015,FBS,North Texas,Tennessee,PUNT RETURNS,Tre,Johnson,YDS,4
+2405063,11/14/2015,FBS,North Texas,Tennessee,PUNT RETURNS,Tre,Johnson,AVG,4.0
+2405064,11/14/2015,FBS,North Texas,Tennessee,PUNT RETURNS,Tre,Johnson,LONG,4
+2405065,11/14/2015,FBS,North Texas,Tennessee,KICK RETURNS,Tre,Johnson,NO,1
+2405066,11/14/2015,FBS,North Texas,Tennessee,KICK RETURNS,Tre,Johnson,YDS,20
+2405067,11/14/2015,FBS,North Texas,Tennessee,KICK RETURNS,Tre,Johnson,AVG,20.0
+2405068,11/14/2015,FBS,North Texas,Tennessee,KICK RETURNS,Tre,Johnson,LONG,20
+2405069,11/14/2015,FBS,North Texas,Tennessee,KICK RETURNS,James,Gray,NO,1
+2405070,11/14/2015,FBS,North Texas,Tennessee,KICK RETURNS,James,Gray,YDS,13
+2405071,11/14/2015,FBS,North Texas,Tennessee,KICK RETURNS,James,Gray,AVG,13.0
+2405072,11/14/2015,FBS,North Texas,Tennessee,KICK RETURNS,James,Gray,LONG,13
+2405073,11/14/2015,FBS,Tennessee,North Texas,RUSHING,Alvin,Kamara,ATT,15
+2405074,11/14/2015,FBS,Tennessee,North Texas,RUSHING,Alvin,Kamara,YDS,127
+2405075,11/14/2015,FBS,Tennessee,North Texas,RUSHING,Alvin,Kamara,TD,2
+2405076,11/14/2015,FBS,Tennessee,North Texas,RUSHING,Alvin,Kamara,LONG,27
+2405077,11/14/2015,FBS,Tennessee,North Texas,RUSHING,Jalen,Hurd,ATT,15
+2405078,11/14/2015,FBS,Tennessee,North Texas,RUSHING,Jalen,Hurd,YDS,72
+2405079,11/14/2015,FBS,Tennessee,North Texas,RUSHING,Jalen,Hurd,TD,1
+2405080,11/14/2015,FBS,Tennessee,North Texas,RUSHING,Jalen,Hurd,LONG,19
+2405081,11/14/2015,FBS,Tennessee,North Texas,RUSHING,Joe,Young,ATT,4
+2405082,11/14/2015,FBS,Tennessee,North Texas,RUSHING,Joe,Young,YDS,17
+2405083,11/14/2015,FBS,Tennessee,North Texas,RUSHING,Joe,Young,TD,0
+2405084,11/14/2015,FBS,Tennessee,North Texas,RUSHING,Joe,Young,LONG,9
+2405085,11/14/2015,FBS,Tennessee,North Texas,RUSHING,John,Kelly,ATT,5
+2405086,11/14/2015,FBS,Tennessee,North Texas,RUSHING,John,Kelly,YDS,15
+2405087,11/14/2015,FBS,Tennessee,North Texas,RUSHING,John,Kelly,TD,0
+2405088,11/14/2015,FBS,Tennessee,North Texas,RUSHING,John,Kelly,LONG,9
+2405089,11/14/2015,FBS,Tennessee,North Texas,RUSHING,Quinten,Dormady,ATT,4
+2405090,11/14/2015,FBS,Tennessee,North Texas,RUSHING,Quinten,Dormady,YDS,6
+2405091,11/14/2015,FBS,Tennessee,North Texas,RUSHING,Quinten,Dormady,TD,0
+2405092,11/14/2015,FBS,Tennessee,North Texas,RUSHING,Quinten,Dormady,LONG,4
+2405093,11/14/2015,FBS,Tennessee,North Texas,RUSHING,Joshua,Dobbs,ATT,4
+2405094,11/14/2015,FBS,Tennessee,North Texas,RUSHING,Joshua,Dobbs,YDS,3
+2405095,11/14/2015,FBS,Tennessee,North Texas,RUSHING,Joshua,Dobbs,TD,0
+2405096,11/14/2015,FBS,Tennessee,North Texas,RUSHING,Joshua,Dobbs,LONG,7
+2405097,11/14/2015,FBS,Tennessee,North Texas,RUSHING,Von,Pearson,ATT,1
+2405098,11/14/2015,FBS,Tennessee,North Texas,RUSHING,Von,Pearson,YDS,-3
+2405099,11/14/2015,FBS,Tennessee,North Texas,RUSHING,Von,Pearson,TD,0
+2405100,11/14/2015,FBS,Tennessee,North Texas,RUSHING,Von,Pearson,LONG,-3
+2405101,11/14/2015,FBS,Tennessee,North Texas,PASSING,Joshua,Dobbs,CP-ATT-INT,15-23-1
+2405102,11/14/2015,FBS,Tennessee,North Texas,PASSING,Joshua,Dobbs,YDS,136
+2405103,11/14/2015,FBS,Tennessee,North Texas,PASSING,Joshua,Dobbs,TD,0
+2405104,11/14/2015,FBS,Tennessee,North Texas,PASSING,Joshua,Dobbs,LONG,26
+2405105,11/14/2015,FBS,Tennessee,North Texas,PASSING,Quinten,Dormady,CP-ATT-INT,3-5-0
+2405106,11/14/2015,FBS,Tennessee,North Texas,PASSING,Quinten,Dormady,YDS,36
+2405107,11/14/2015,FBS,Tennessee,North Texas,PASSING,Quinten,Dormady,TD,0
+2405108,11/14/2015,FBS,Tennessee,North Texas,PASSING,Quinten,Dormady,LONG,21
+2405109,11/14/2015,FBS,Tennessee,North Texas,RECEIVING,Josh,Malone,REC,4
+2405110,11/14/2015,FBS,Tennessee,North Texas,RECEIVING,Josh,Malone,YDS,38
+2405111,11/14/2015,FBS,Tennessee,North Texas,RECEIVING,Josh,Malone,TD,0
+2405112,11/14/2015,FBS,Tennessee,North Texas,RECEIVING,Josh,Malone,LONG,22
+2405113,11/14/2015,FBS,Tennessee,North Texas,RECEIVING,Josh,Smith,REC,2
+2405114,11/14/2015,FBS,Tennessee,North Texas,RECEIVING,Josh,Smith,YDS,28
+2405115,11/14/2015,FBS,Tennessee,North Texas,RECEIVING,Josh,Smith,TD,0
+2405116,11/14/2015,FBS,Tennessee,North Texas,RECEIVING,Josh,Smith,LONG,21
+2405117,11/14/2015,FBS,Tennessee,North Texas,RECEIVING,Jauan,Jennings,REC,1
+2405118,11/14/2015,FBS,Tennessee,North Texas,RECEIVING,Jauan,Jennings,YDS,26
+2405119,11/14/2015,FBS,Tennessee,North Texas,RECEIVING,Jauan,Jennings,TD,0
+2405120,11/14/2015,FBS,Tennessee,North Texas,RECEIVING,Jauan,Jennings,LONG,26
+2405121,11/14/2015,FBS,Tennessee,North Texas,RECEIVING,Von,Pearson,REC,3
+2405122,11/14/2015,FBS,Tennessee,North Texas,RECEIVING,Von,Pearson,YDS,24
+2405123,11/14/2015,FBS,Tennessee,North Texas,RECEIVING,Von,Pearson,TD,0
+2405124,11/14/2015,FBS,Tennessee,North Texas,RECEIVING,Von,Pearson,LONG,18
+2405125,11/14/2015,FBS,Tennessee,North Texas,RECEIVING,Jalen,Hurd,REC,2
+2405126,11/14/2015,FBS,Tennessee,North Texas,RECEIVING,Jalen,Hurd,YDS,23
+2405127,11/14/2015,FBS,Tennessee,North Texas,RECEIVING,Jalen,Hurd,TD,0
+2405128,11/14/2015,FBS,Tennessee,North Texas,RECEIVING,Jalen,Hurd,LONG,14
+2405129,11/14/2015,FBS,Tennessee,North Texas,RECEIVING,Johnathon,Johnson,REC,3
+2405130,11/14/2015,FBS,Tennessee,North Texas,RECEIVING,Johnathon,Johnson,YDS,20
+2405131,11/14/2015,FBS,Tennessee,North Texas,RECEIVING,Johnathon,Johnson,TD,0
+2405132,11/14/2015,FBS,Tennessee,North Texas,RECEIVING,Johnathon,Johnson,LONG,11
+2405133,11/14/2015,FBS,Tennessee,North Texas,RECEIVING,Alex,Ellis,REC,1
+2405134,11/14/2015,FBS,Tennessee,North Texas,RECEIVING,Alex,Ellis,YDS,5
+2405135,11/14/2015,FBS,Tennessee,North Texas,RECEIVING,Alex,Ellis,TD,0
+2405136,11/14/2015,FBS,Tennessee,North Texas,RECEIVING,Alex,Ellis,LONG,5
+2405137,11/14/2015,FBS,Tennessee,North Texas,RECEIVING,Alvin,Kamara,REC,1
+2405138,11/14/2015,FBS,Tennessee,North Texas,RECEIVING,Alvin,Kamara,YDS,5
+2405139,11/14/2015,FBS,Tennessee,North Texas,RECEIVING,Alvin,Kamara,TD,0
+2405140,11/14/2015,FBS,Tennessee,North Texas,RECEIVING,Alvin,Kamara,LONG,5
+2405141,11/14/2015,FBS,Tennessee,North Texas,RECEIVING,Ethan,Wolf,REC,1
+2405142,11/14/2015,FBS,Tennessee,North Texas,RECEIVING,Ethan,Wolf,YDS,3
+2405143,11/14/2015,FBS,Tennessee,North Texas,RECEIVING,Ethan,Wolf,TD,0
+2405144,11/14/2015,FBS,Tennessee,North Texas,RECEIVING,Ethan,Wolf,LONG,3
+2405145,11/14/2015,FBS,Tennessee,North Texas,KICKING,Aaron,Medley,FG-FGA,1/1
+2405146,11/14/2015,FBS,Tennessee,North Texas,KICKING,Aaron,Medley,LONG,34
+2405147,11/14/2015,FBS,Tennessee,North Texas,KICKING,Aaron,Medley,XP,3
+2405148,11/14/2015,FBS,Tennessee,North Texas,KICKING,Aaron,Medley,PTS,6
+2405149,11/14/2015,FBS,Tennessee,North Texas,PUNTING,Trevor,Daniel,NO,4
+2405150,11/14/2015,FBS,Tennessee,North Texas,PUNTING,Trevor,Daniel,YDS,156
+2405151,11/14/2015,FBS,Tennessee,North Texas,PUNTING,Trevor,Daniel,AVG,39.0
+2405152,11/14/2015,FBS,Tennessee,North Texas,PUNTING,Trevor,Daniel,LONG,46
+2405153,11/14/2015,FBS,Tennessee,North Texas,PUNT RETURNS,Cameron,Sutton,NO,2
+2405154,11/14/2015,FBS,Tennessee,North Texas,PUNT RETURNS,Cameron,Sutton,YDS,28
+2405155,11/14/2015,FBS,Tennessee,North Texas,PUNT RETURNS,Cameron,Sutton,AVG,14.0
+2405156,11/14/2015,FBS,Tennessee,North Texas,PUNT RETURNS,Cameron,Sutton,LONG,22
+2405157,11/14/2015,FBS,Tennessee,North Texas,PUNT RETURNS,Justin,Martin,NO,0
+2405158,11/14/2015,FBS,Tennessee,North Texas,PUNT RETURNS,Justin,Martin,YDS,0
+2405159,11/14/2015,FBS,Tennessee,North Texas,PUNT RETURNS,Justin,Martin,AVG,-
+2405160,11/14/2015,FBS,Tennessee,North Texas,PUNT RETURNS,Justin,Martin,LONG,0
+2405161,11/14/2015,FBS,Tennessee,North Texas,PUNT RETURNS,Josh,Smith,NO,0
+2405162,11/14/2015,FBS,Tennessee,North Texas,PUNT RETURNS,Josh,Smith,YDS,0
+2405163,11/14/2015,FBS,Tennessee,North Texas,PUNT RETURNS,Josh,Smith,AVG,-
+2405164,11/14/2015,FBS,Tennessee,North Texas,PUNT RETURNS,Josh,Smith,LONG,0
+2405165,11/14/2015,FBS,Tennessee,North Texas,KICK RETURNS,Max,Arnold,NO,0
+2405166,11/14/2015,FBS,Tennessee,North Texas,KICK RETURNS,Max,Arnold,YDS,0
+2405167,11/14/2015,FBS,Tennessee,North Texas,KICK RETURNS,Max,Arnold,AVG,-
+2405168,11/14/2015,FBS,Tennessee,North Texas,KICK RETURNS,Max,Arnold,LONG,0

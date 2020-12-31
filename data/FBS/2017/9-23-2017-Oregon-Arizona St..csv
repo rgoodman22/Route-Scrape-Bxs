@@ -1,0 +1,149 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3758001,9/23/2017,FBS,Oregon,Arizona St.,RUSHING,Royce,Freeman,ATT,15
+3758002,9/23/2017,FBS,Oregon,Arizona St.,RUSHING,Royce,Freeman,YDS,81
+3758003,9/23/2017,FBS,Oregon,Arizona St.,RUSHING,Royce,Freeman,TD,1
+3758004,9/23/2017,FBS,Oregon,Arizona St.,RUSHING,Royce,Freeman,LONG,20
+3758005,9/23/2017,FBS,Oregon,Arizona St.,RUSHING,Justin,Herbert,ATT,10
+3758006,9/23/2017,FBS,Oregon,Arizona St.,RUSHING,Justin,Herbert,YDS,36
+3758007,9/23/2017,FBS,Oregon,Arizona St.,RUSHING,Justin,Herbert,TD,1
+3758008,9/23/2017,FBS,Oregon,Arizona St.,RUSHING,Justin,Herbert,LONG,18
+3758009,9/23/2017,FBS,Oregon,Arizona St.,RUSHING,Tony,Brooks-James,ATT,1
+3758010,9/23/2017,FBS,Oregon,Arizona St.,RUSHING,Tony,Brooks-James,YDS,10
+3758011,9/23/2017,FBS,Oregon,Arizona St.,RUSHING,Tony,Brooks-James,TD,0
+3758012,9/23/2017,FBS,Oregon,Arizona St.,RUSHING,Tony,Brooks-James,LONG,10
+3758013,9/23/2017,FBS,Oregon,Arizona St.,RUSHING,Taj,Griffin,ATT,1
+3758014,9/23/2017,FBS,Oregon,Arizona St.,RUSHING,Taj,Griffin,YDS,3
+3758015,9/23/2017,FBS,Oregon,Arizona St.,RUSHING,Taj,Griffin,TD,0
+3758016,9/23/2017,FBS,Oregon,Arizona St.,RUSHING,Taj,Griffin,LONG,3
+3758017,9/23/2017,FBS,Oregon,Arizona St.,RUSHING,Kani,Benoit,ATT,1
+3758018,9/23/2017,FBS,Oregon,Arizona St.,RUSHING,Kani,Benoit,YDS,-1
+3758019,9/23/2017,FBS,Oregon,Arizona St.,RUSHING,Kani,Benoit,TD,0
+3758020,9/23/2017,FBS,Oregon,Arizona St.,RUSHING,Kani,Benoit,LONG,-1
+3758021,9/23/2017,FBS,Oregon,Arizona St.,RUSHING,,Team,ATT,1
+3758022,9/23/2017,FBS,Oregon,Arizona St.,RUSHING,,Team,YDS,-4
+3758023,9/23/2017,FBS,Oregon,Arizona St.,RUSHING,,Team,TD,0
+3758024,9/23/2017,FBS,Oregon,Arizona St.,RUSHING,,Team,LONG,-4
+3758025,9/23/2017,FBS,Oregon,Arizona St.,RUSHING,Jaylon,Redd,ATT,1
+3758026,9/23/2017,FBS,Oregon,Arizona St.,RUSHING,Jaylon,Redd,YDS,-5
+3758027,9/23/2017,FBS,Oregon,Arizona St.,RUSHING,Jaylon,Redd,TD,0
+3758028,9/23/2017,FBS,Oregon,Arizona St.,RUSHING,Jaylon,Redd,LONG,-5
+3758029,9/23/2017,FBS,Oregon,Arizona St.,PASSING,Justin,Herbert,CP-ATT-INT,19-35-0
+3758030,9/23/2017,FBS,Oregon,Arizona St.,PASSING,Justin,Herbert,YDS,281
+3758031,9/23/2017,FBS,Oregon,Arizona St.,PASSING,Justin,Herbert,TD,3
+3758032,9/23/2017,FBS,Oregon,Arizona St.,PASSING,Justin,Herbert,LONG,51
+3758033,9/23/2017,FBS,Oregon,Arizona St.,RECEIVING,Jacob,Breeland,REC,4
+3758034,9/23/2017,FBS,Oregon,Arizona St.,RECEIVING,Jacob,Breeland,YDS,95
+3758035,9/23/2017,FBS,Oregon,Arizona St.,RECEIVING,Jacob,Breeland,TD,0
+3758036,9/23/2017,FBS,Oregon,Arizona St.,RECEIVING,Jacob,Breeland,LONG,51
+3758037,9/23/2017,FBS,Oregon,Arizona St.,RECEIVING,Dillon,Mitchell,REC,5
+3758038,9/23/2017,FBS,Oregon,Arizona St.,RECEIVING,Dillon,Mitchell,YDS,61
+3758039,9/23/2017,FBS,Oregon,Arizona St.,RECEIVING,Dillon,Mitchell,TD,1
+3758040,9/23/2017,FBS,Oregon,Arizona St.,RECEIVING,Dillon,Mitchell,LONG,28
+3758041,9/23/2017,FBS,Oregon,Arizona St.,RECEIVING,Tony,Brooks-James,REC,3
+3758042,9/23/2017,FBS,Oregon,Arizona St.,RECEIVING,Tony,Brooks-James,YDS,55
+3758043,9/23/2017,FBS,Oregon,Arizona St.,RECEIVING,Tony,Brooks-James,TD,1
+3758044,9/23/2017,FBS,Oregon,Arizona St.,RECEIVING,Tony,Brooks-James,LONG,31
+3758045,9/23/2017,FBS,Oregon,Arizona St.,RECEIVING,Brenden,Schooler,REC,2
+3758046,9/23/2017,FBS,Oregon,Arizona St.,RECEIVING,Brenden,Schooler,YDS,27
+3758047,9/23/2017,FBS,Oregon,Arizona St.,RECEIVING,Brenden,Schooler,TD,0
+3758048,9/23/2017,FBS,Oregon,Arizona St.,RECEIVING,Brenden,Schooler,LONG,18
+3758049,9/23/2017,FBS,Oregon,Arizona St.,RECEIVING,Johnny,JohnsonIII,REC,2
+3758050,9/23/2017,FBS,Oregon,Arizona St.,RECEIVING,Johnny,JohnsonIII,YDS,24
+3758051,9/23/2017,FBS,Oregon,Arizona St.,RECEIVING,Johnny,JohnsonIII,TD,1
+3758052,9/23/2017,FBS,Oregon,Arizona St.,RECEIVING,Johnny,JohnsonIII,LONG,20
+3758053,9/23/2017,FBS,Oregon,Arizona St.,RECEIVING,Royce,Freeman,REC,3
+3758054,9/23/2017,FBS,Oregon,Arizona St.,RECEIVING,Royce,Freeman,YDS,19
+3758055,9/23/2017,FBS,Oregon,Arizona St.,RECEIVING,Royce,Freeman,TD,0
+3758056,9/23/2017,FBS,Oregon,Arizona St.,RECEIVING,Royce,Freeman,LONG,19
+3758057,9/23/2017,FBS,Oregon,Arizona St.,KICKING,Aidan,Schneider,FG-FGA,0/0
+3758058,9/23/2017,FBS,Oregon,Arizona St.,KICKING,Aidan,Schneider,LONG,-
+3758059,9/23/2017,FBS,Oregon,Arizona St.,KICKING,Aidan,Schneider,XP,5
+3758060,9/23/2017,FBS,Oregon,Arizona St.,KICKING,Aidan,Schneider,PTS,5
+3758061,9/23/2017,FBS,Oregon,Arizona St.,PUNTING,Adam,Stack,NO,7
+3758062,9/23/2017,FBS,Oregon,Arizona St.,PUNTING,Adam,Stack,YDS,292
+3758063,9/23/2017,FBS,Oregon,Arizona St.,PUNTING,Adam,Stack,AVG,41.7
+3758064,9/23/2017,FBS,Oregon,Arizona St.,PUNTING,Adam,Stack,LONG,50
+3758065,9/23/2017,FBS,Oregon,Arizona St.,PUNT RETURNS,Dillon,Mitchell,NO,3
+3758066,9/23/2017,FBS,Oregon,Arizona St.,PUNT RETURNS,Dillon,Mitchell,YDS,29
+3758067,9/23/2017,FBS,Oregon,Arizona St.,PUNT RETURNS,Dillon,Mitchell,AVG,9.7
+3758068,9/23/2017,FBS,Oregon,Arizona St.,PUNT RETURNS,Dillon,Mitchell,LONG,15
+3758069,9/23/2017,FBS,Oregon,Arizona St.,KICK RETURNS,Tony,Brooks-James,NO,1
+3758070,9/23/2017,FBS,Oregon,Arizona St.,KICK RETURNS,Tony,Brooks-James,YDS,25
+3758071,9/23/2017,FBS,Oregon,Arizona St.,KICK RETURNS,Tony,Brooks-James,AVG,25.0
+3758072,9/23/2017,FBS,Oregon,Arizona St.,KICK RETURNS,Tony,Brooks-James,LONG,25
+3758073,9/23/2017,FBS,Arizona St.,Oregon,RUSHING,Demario,Richard,ATT,21
+3758074,9/23/2017,FBS,Arizona St.,Oregon,RUSHING,Demario,Richard,YDS,64
+3758075,9/23/2017,FBS,Arizona St.,Oregon,RUSHING,Demario,Richard,TD,1
+3758076,9/23/2017,FBS,Arizona St.,Oregon,RUSHING,Demario,Richard,LONG,13
+3758077,9/23/2017,FBS,Arizona St.,Oregon,RUSHING,Kalen,Ballage,ATT,12
+3758078,9/23/2017,FBS,Arizona St.,Oregon,RUSHING,Kalen,Ballage,YDS,47
+3758079,9/23/2017,FBS,Arizona St.,Oregon,RUSHING,Kalen,Ballage,TD,0
+3758080,9/23/2017,FBS,Arizona St.,Oregon,RUSHING,Kalen,Ballage,LONG,18
+3758081,9/23/2017,FBS,Arizona St.,Oregon,RUSHING,Manny,Wilkins,ATT,14
+3758082,9/23/2017,FBS,Arizona St.,Oregon,RUSHING,Manny,Wilkins,YDS,35
+3758083,9/23/2017,FBS,Arizona St.,Oregon,RUSHING,Manny,Wilkins,TD,2
+3758084,9/23/2017,FBS,Arizona St.,Oregon,RUSHING,Manny,Wilkins,LONG,20
+3758085,9/23/2017,FBS,Arizona St.,Oregon,RUSHING,Kyle,Williams,ATT,2
+3758086,9/23/2017,FBS,Arizona St.,Oregon,RUSHING,Kyle,Williams,YDS,10
+3758087,9/23/2017,FBS,Arizona St.,Oregon,RUSHING,Kyle,Williams,TD,0
+3758088,9/23/2017,FBS,Arizona St.,Oregon,RUSHING,Kyle,Williams,LONG,8
+3758089,9/23/2017,FBS,Arizona St.,Oregon,RUSHING,N'Keal,Harry,ATT,1
+3758090,9/23/2017,FBS,Arizona St.,Oregon,RUSHING,N'Keal,Harry,YDS,-2
+3758091,9/23/2017,FBS,Arizona St.,Oregon,RUSHING,N'Keal,Harry,TD,0
+3758092,9/23/2017,FBS,Arizona St.,Oregon,RUSHING,N'Keal,Harry,LONG,-2
+3758093,9/23/2017,FBS,Arizona St.,Oregon,RUSHING,,Team,ATT,2
+3758094,9/23/2017,FBS,Arizona St.,Oregon,RUSHING,,Team,YDS,-2
+3758095,9/23/2017,FBS,Arizona St.,Oregon,RUSHING,,Team,TD,0
+3758096,9/23/2017,FBS,Arizona St.,Oregon,RUSHING,,Team,LONG,-1
+3758097,9/23/2017,FBS,Arizona St.,Oregon,RUSHING,Ryan,Newsome,ATT,1
+3758098,9/23/2017,FBS,Arizona St.,Oregon,RUSHING,Ryan,Newsome,YDS,-10
+3758099,9/23/2017,FBS,Arizona St.,Oregon,RUSHING,Ryan,Newsome,TD,0
+3758100,9/23/2017,FBS,Arizona St.,Oregon,RUSHING,Ryan,Newsome,LONG,-10
+3758101,9/23/2017,FBS,Arizona St.,Oregon,PASSING,Manny,Wilkins,CP-ATT-INT,24-39-0
+3758102,9/23/2017,FBS,Arizona St.,Oregon,PASSING,Manny,Wilkins,YDS,347
+3758103,9/23/2017,FBS,Arizona St.,Oregon,PASSING,Manny,Wilkins,TD,1
+3758104,9/23/2017,FBS,Arizona St.,Oregon,PASSING,Manny,Wilkins,LONG,63
+3758105,9/23/2017,FBS,Arizona St.,Oregon,RECEIVING,N'Keal,Harry,REC,7
+3758106,9/23/2017,FBS,Arizona St.,Oregon,RECEIVING,N'Keal,Harry,YDS,170
+3758107,9/23/2017,FBS,Arizona St.,Oregon,RECEIVING,N'Keal,Harry,TD,1
+3758108,9/23/2017,FBS,Arizona St.,Oregon,RECEIVING,N'Keal,Harry,LONG,52
+3758109,9/23/2017,FBS,Arizona St.,Oregon,RECEIVING,Jalen,Harvey,REC,8
+3758110,9/23/2017,FBS,Arizona St.,Oregon,RECEIVING,Jalen,Harvey,YDS,133
+3758111,9/23/2017,FBS,Arizona St.,Oregon,RECEIVING,Jalen,Harvey,TD,0
+3758112,9/23/2017,FBS,Arizona St.,Oregon,RECEIVING,Jalen,Harvey,LONG,63
+3758113,9/23/2017,FBS,Arizona St.,Oregon,RECEIVING,Kyle,Williams,REC,4
+3758114,9/23/2017,FBS,Arizona St.,Oregon,RECEIVING,Kyle,Williams,YDS,29
+3758115,9/23/2017,FBS,Arizona St.,Oregon,RECEIVING,Kyle,Williams,TD,0
+3758116,9/23/2017,FBS,Arizona St.,Oregon,RECEIVING,Kyle,Williams,LONG,17
+3758117,9/23/2017,FBS,Arizona St.,Oregon,RECEIVING,Kalen,Ballage,REC,3
+3758118,9/23/2017,FBS,Arizona St.,Oregon,RECEIVING,Kalen,Ballage,YDS,17
+3758119,9/23/2017,FBS,Arizona St.,Oregon,RECEIVING,Kalen,Ballage,TD,0
+3758120,9/23/2017,FBS,Arizona St.,Oregon,RECEIVING,Kalen,Ballage,LONG,9
+3758121,9/23/2017,FBS,Arizona St.,Oregon,RECEIVING,Demario,Richard,REC,1
+3758122,9/23/2017,FBS,Arizona St.,Oregon,RECEIVING,Demario,Richard,YDS,-1
+3758123,9/23/2017,FBS,Arizona St.,Oregon,RECEIVING,Demario,Richard,TD,0
+3758124,9/23/2017,FBS,Arizona St.,Oregon,RECEIVING,Demario,Richard,LONG,-1
+3758125,9/23/2017,FBS,Arizona St.,Oregon,RECEIVING,Eno,Benjamin,REC,1
+3758126,9/23/2017,FBS,Arizona St.,Oregon,RECEIVING,Eno,Benjamin,YDS,-1
+3758127,9/23/2017,FBS,Arizona St.,Oregon,RECEIVING,Eno,Benjamin,TD,0
+3758128,9/23/2017,FBS,Arizona St.,Oregon,RECEIVING,Eno,Benjamin,LONG,-1
+3758129,9/23/2017,FBS,Arizona St.,Oregon,KICKING,Brandon,Ruiz,FG-FGA,3/3
+3758130,9/23/2017,FBS,Arizona St.,Oregon,KICKING,Brandon,Ruiz,LONG,41
+3758131,9/23/2017,FBS,Arizona St.,Oregon,KICKING,Brandon,Ruiz,XP,4
+3758132,9/23/2017,FBS,Arizona St.,Oregon,KICKING,Brandon,Ruiz,PTS,13
+3758133,9/23/2017,FBS,Arizona St.,Oregon,PUNTING,Michael,Sleep-Dalton,NO,7
+3758134,9/23/2017,FBS,Arizona St.,Oregon,PUNTING,Michael,Sleep-Dalton,YDS,260
+3758135,9/23/2017,FBS,Arizona St.,Oregon,PUNTING,Michael,Sleep-Dalton,AVG,37.1
+3758136,9/23/2017,FBS,Arizona St.,Oregon,PUNTING,Michael,Sleep-Dalton,LONG,43
+3758137,9/23/2017,FBS,Arizona St.,Oregon,PUNT RETURNS,Jacom,Brimhall,NO,0
+3758138,9/23/2017,FBS,Arizona St.,Oregon,PUNT RETURNS,Jacom,Brimhall,YDS,0
+3758139,9/23/2017,FBS,Arizona St.,Oregon,PUNT RETURNS,Jacom,Brimhall,AVG,-
+3758140,9/23/2017,FBS,Arizona St.,Oregon,PUNT RETURNS,Jacom,Brimhall,LONG,0
+3758141,9/23/2017,FBS,Arizona St.,Oregon,PUNT RETURNS,Ryan,Newsome,NO,2
+3758142,9/23/2017,FBS,Arizona St.,Oregon,PUNT RETURNS,Ryan,Newsome,YDS,-2
+3758143,9/23/2017,FBS,Arizona St.,Oregon,PUNT RETURNS,Ryan,Newsome,AVG,-
+3758144,9/23/2017,FBS,Arizona St.,Oregon,PUNT RETURNS,Ryan,Newsome,LONG,0
+3758145,9/23/2017,FBS,Arizona St.,Oregon,KICK RETURNS,Kalen,Ballage,NO,4
+3758146,9/23/2017,FBS,Arizona St.,Oregon,KICK RETURNS,Kalen,Ballage,YDS,78
+3758147,9/23/2017,FBS,Arizona St.,Oregon,KICK RETURNS,Kalen,Ballage,AVG,19.5
+3758148,9/23/2017,FBS,Arizona St.,Oregon,KICK RETURNS,Kalen,Ballage,LONG,25

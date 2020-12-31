@@ -1,0 +1,157 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2317001,10/31/2015,FBS,Tennessee,Kentucky,RUSHING,Alvin,Kamara,ATT,4
+2317002,10/31/2015,FBS,Tennessee,Kentucky,RUSHING,Alvin,Kamara,YDS,70
+2317003,10/31/2015,FBS,Tennessee,Kentucky,RUSHING,Alvin,Kamara,TD,0
+2317004,10/31/2015,FBS,Tennessee,Kentucky,RUSHING,Alvin,Kamara,LONG,63
+2317005,10/31/2015,FBS,Tennessee,Kentucky,RUSHING,Jalen,Hurd,ATT,18
+2317006,10/31/2015,FBS,Tennessee,Kentucky,RUSHING,Jalen,Hurd,YDS,61
+2317007,10/31/2015,FBS,Tennessee,Kentucky,RUSHING,Jalen,Hurd,TD,1
+2317008,10/31/2015,FBS,Tennessee,Kentucky,RUSHING,Jalen,Hurd,LONG,11
+2317009,10/31/2015,FBS,Tennessee,Kentucky,RUSHING,John,Kelly,ATT,10
+2317010,10/31/2015,FBS,Tennessee,Kentucky,RUSHING,John,Kelly,YDS,58
+2317011,10/31/2015,FBS,Tennessee,Kentucky,RUSHING,John,Kelly,TD,0
+2317012,10/31/2015,FBS,Tennessee,Kentucky,RUSHING,John,Kelly,LONG,22
+2317013,10/31/2015,FBS,Tennessee,Kentucky,RUSHING,Joshua,Dobbs,ATT,7
+2317014,10/31/2015,FBS,Tennessee,Kentucky,RUSHING,Joshua,Dobbs,YDS,51
+2317015,10/31/2015,FBS,Tennessee,Kentucky,RUSHING,Joshua,Dobbs,TD,2
+2317016,10/31/2015,FBS,Tennessee,Kentucky,RUSHING,Joshua,Dobbs,LONG,28
+2317017,10/31/2015,FBS,Tennessee,Kentucky,RUSHING,Joe,Young,ATT,2
+2317018,10/31/2015,FBS,Tennessee,Kentucky,RUSHING,Joe,Young,YDS,11
+2317019,10/31/2015,FBS,Tennessee,Kentucky,RUSHING,Joe,Young,TD,0
+2317020,10/31/2015,FBS,Tennessee,Kentucky,RUSHING,Joe,Young,LONG,7
+2317021,10/31/2015,FBS,Tennessee,Kentucky,RUSHING,,Team,ATT,1
+2317022,10/31/2015,FBS,Tennessee,Kentucky,RUSHING,,Team,YDS,0
+2317023,10/31/2015,FBS,Tennessee,Kentucky,RUSHING,,Team,TD,0
+2317024,10/31/2015,FBS,Tennessee,Kentucky,RUSHING,,Team,LONG,0
+2317025,10/31/2015,FBS,Tennessee,Kentucky,RUSHING,Jauan,Jennings,ATT,1
+2317026,10/31/2015,FBS,Tennessee,Kentucky,RUSHING,Jauan,Jennings,YDS,-2
+2317027,10/31/2015,FBS,Tennessee,Kentucky,RUSHING,Jauan,Jennings,TD,0
+2317028,10/31/2015,FBS,Tennessee,Kentucky,RUSHING,Jauan,Jennings,LONG,-2
+2317029,10/31/2015,FBS,Tennessee,Kentucky,PASSING,Joshua,Dobbs,CP-ATT-INT,16-26-1
+2317030,10/31/2015,FBS,Tennessee,Kentucky,PASSING,Joshua,Dobbs,YDS,233
+2317031,10/31/2015,FBS,Tennessee,Kentucky,PASSING,Joshua,Dobbs,TD,2
+2317032,10/31/2015,FBS,Tennessee,Kentucky,PASSING,Joshua,Dobbs,LONG,75
+2317033,10/31/2015,FBS,Tennessee,Kentucky,RECEIVING,Josh,Malone,REC,4
+2317034,10/31/2015,FBS,Tennessee,Kentucky,RECEIVING,Josh,Malone,YDS,103
+2317035,10/31/2015,FBS,Tennessee,Kentucky,RECEIVING,Josh,Malone,TD,1
+2317036,10/31/2015,FBS,Tennessee,Kentucky,RECEIVING,Josh,Malone,LONG,75
+2317037,10/31/2015,FBS,Tennessee,Kentucky,RECEIVING,Von,Pearson,REC,5
+2317038,10/31/2015,FBS,Tennessee,Kentucky,RECEIVING,Von,Pearson,YDS,37
+2317039,10/31/2015,FBS,Tennessee,Kentucky,RECEIVING,Von,Pearson,TD,0
+2317040,10/31/2015,FBS,Tennessee,Kentucky,RECEIVING,Von,Pearson,LONG,16
+2317041,10/31/2015,FBS,Tennessee,Kentucky,RECEIVING,Jalen,Hurd,REC,1
+2317042,10/31/2015,FBS,Tennessee,Kentucky,RECEIVING,Jalen,Hurd,YDS,37
+2317043,10/31/2015,FBS,Tennessee,Kentucky,RECEIVING,Jalen,Hurd,TD,1
+2317044,10/31/2015,FBS,Tennessee,Kentucky,RECEIVING,Jalen,Hurd,LONG,37
+2317045,10/31/2015,FBS,Tennessee,Kentucky,RECEIVING,Ethan,Wolf,REC,2
+2317046,10/31/2015,FBS,Tennessee,Kentucky,RECEIVING,Ethan,Wolf,YDS,27
+2317047,10/31/2015,FBS,Tennessee,Kentucky,RECEIVING,Ethan,Wolf,TD,0
+2317048,10/31/2015,FBS,Tennessee,Kentucky,RECEIVING,Ethan,Wolf,LONG,16
+2317049,10/31/2015,FBS,Tennessee,Kentucky,RECEIVING,Alvin,Kamara,REC,2
+2317050,10/31/2015,FBS,Tennessee,Kentucky,RECEIVING,Alvin,Kamara,YDS,13
+2317051,10/31/2015,FBS,Tennessee,Kentucky,RECEIVING,Alvin,Kamara,TD,0
+2317052,10/31/2015,FBS,Tennessee,Kentucky,RECEIVING,Alvin,Kamara,LONG,9
+2317053,10/31/2015,FBS,Tennessee,Kentucky,RECEIVING,Jauan,Jennings,REC,1
+2317054,10/31/2015,FBS,Tennessee,Kentucky,RECEIVING,Jauan,Jennings,YDS,11
+2317055,10/31/2015,FBS,Tennessee,Kentucky,RECEIVING,Jauan,Jennings,TD,0
+2317056,10/31/2015,FBS,Tennessee,Kentucky,RECEIVING,Jauan,Jennings,LONG,11
+2317057,10/31/2015,FBS,Tennessee,Kentucky,RECEIVING,Josh,Smith,REC,1
+2317058,10/31/2015,FBS,Tennessee,Kentucky,RECEIVING,Josh,Smith,YDS,5
+2317059,10/31/2015,FBS,Tennessee,Kentucky,RECEIVING,Josh,Smith,TD,0
+2317060,10/31/2015,FBS,Tennessee,Kentucky,RECEIVING,Josh,Smith,LONG,5
+2317061,10/31/2015,FBS,Tennessee,Kentucky,KICKING,Aaron,Medley,FG-FGA,1/1
+2317062,10/31/2015,FBS,Tennessee,Kentucky,KICKING,Aaron,Medley,LONG,44
+2317063,10/31/2015,FBS,Tennessee,Kentucky,KICKING,Aaron,Medley,XP,7
+2317064,10/31/2015,FBS,Tennessee,Kentucky,KICKING,Aaron,Medley,PTS,10
+2317065,10/31/2015,FBS,Tennessee,Kentucky,PUNTING,Trevor,Daniel,NO,2
+2317066,10/31/2015,FBS,Tennessee,Kentucky,PUNTING,Trevor,Daniel,YDS,71
+2317067,10/31/2015,FBS,Tennessee,Kentucky,PUNTING,Trevor,Daniel,AVG,35.5
+2317068,10/31/2015,FBS,Tennessee,Kentucky,PUNTING,Trevor,Daniel,LONG,43
+2317069,10/31/2015,FBS,Tennessee,Kentucky,PUNT RETURNS,Cameron,Sutton,NO,1
+2317070,10/31/2015,FBS,Tennessee,Kentucky,PUNT RETURNS,Cameron,Sutton,YDS,84
+2317071,10/31/2015,FBS,Tennessee,Kentucky,PUNT RETURNS,Cameron,Sutton,AVG,84.0
+2317072,10/31/2015,FBS,Tennessee,Kentucky,PUNT RETURNS,Cameron,Sutton,LONG,84
+2317073,10/31/2015,FBS,Tennessee,Kentucky,PUNT RETURNS,Alvin,Kamara,NO,1
+2317074,10/31/2015,FBS,Tennessee,Kentucky,PUNT RETURNS,Alvin,Kamara,YDS,15
+2317075,10/31/2015,FBS,Tennessee,Kentucky,PUNT RETURNS,Alvin,Kamara,AVG,15.0
+2317076,10/31/2015,FBS,Tennessee,Kentucky,PUNT RETURNS,Alvin,Kamara,LONG,15
+2317077,10/31/2015,FBS,Tennessee,Kentucky,KICK RETURNS,Evan,Berry,NO,1
+2317078,10/31/2015,FBS,Tennessee,Kentucky,KICK RETURNS,Evan,Berry,YDS,100
+2317079,10/31/2015,FBS,Tennessee,Kentucky,KICK RETURNS,Evan,Berry,AVG,100.0
+2317080,10/31/2015,FBS,Tennessee,Kentucky,KICK RETURNS,Evan,Berry,LONG,100
+2317081,10/31/2015,FBS,Kentucky,Tennessee,RUSHING,Mikel,Horton,ATT,14
+2317082,10/31/2015,FBS,Kentucky,Tennessee,RUSHING,Mikel,Horton,YDS,109
+2317083,10/31/2015,FBS,Kentucky,Tennessee,RUSHING,Mikel,Horton,TD,0
+2317084,10/31/2015,FBS,Kentucky,Tennessee,RUSHING,Mikel,Horton,LONG,21
+2317085,10/31/2015,FBS,Kentucky,Tennessee,RUSHING,Jojo,Kemp,ATT,4
+2317086,10/31/2015,FBS,Kentucky,Tennessee,RUSHING,Jojo,Kemp,YDS,24
+2317087,10/31/2015,FBS,Kentucky,Tennessee,RUSHING,Jojo,Kemp,TD,0
+2317088,10/31/2015,FBS,Kentucky,Tennessee,RUSHING,Jojo,Kemp,LONG,13
+2317089,10/31/2015,FBS,Kentucky,Tennessee,RUSHING,Patrick,Towles,ATT,9
+2317090,10/31/2015,FBS,Kentucky,Tennessee,RUSHING,Patrick,Towles,YDS,20
+2317091,10/31/2015,FBS,Kentucky,Tennessee,RUSHING,Patrick,Towles,TD,1
+2317092,10/31/2015,FBS,Kentucky,Tennessee,RUSHING,Patrick,Towles,LONG,21
+2317093,10/31/2015,FBS,Kentucky,Tennessee,RUSHING,Stanley,BoomWilliams,ATT,4
+2317094,10/31/2015,FBS,Kentucky,Tennessee,RUSHING,Stanley,BoomWilliams,YDS,12
+2317095,10/31/2015,FBS,Kentucky,Tennessee,RUSHING,Stanley,BoomWilliams,TD,0
+2317096,10/31/2015,FBS,Kentucky,Tennessee,RUSHING,Stanley,BoomWilliams,LONG,7
+2317097,10/31/2015,FBS,Kentucky,Tennessee,RUSHING,Garrett,Johnson,ATT,1
+2317098,10/31/2015,FBS,Kentucky,Tennessee,RUSHING,Garrett,Johnson,YDS,0
+2317099,10/31/2015,FBS,Kentucky,Tennessee,RUSHING,Garrett,Johnson,TD,0
+2317100,10/31/2015,FBS,Kentucky,Tennessee,RUSHING,Garrett,Johnson,LONG,0
+2317101,10/31/2015,FBS,Kentucky,Tennessee,PASSING,Patrick,Towles,CP-ATT-INT,16-33-1
+2317102,10/31/2015,FBS,Kentucky,Tennessee,PASSING,Patrick,Towles,YDS,184
+2317103,10/31/2015,FBS,Kentucky,Tennessee,PASSING,Patrick,Towles,TD,1
+2317104,10/31/2015,FBS,Kentucky,Tennessee,PASSING,Patrick,Towles,LONG,39
+2317105,10/31/2015,FBS,Kentucky,Tennessee,RECEIVING,Garrett,Johnson,REC,2
+2317106,10/31/2015,FBS,Kentucky,Tennessee,RECEIVING,Garrett,Johnson,YDS,50
+2317107,10/31/2015,FBS,Kentucky,Tennessee,RECEIVING,Garrett,Johnson,TD,1
+2317108,10/31/2015,FBS,Kentucky,Tennessee,RECEIVING,Garrett,Johnson,LONG,39
+2317109,10/31/2015,FBS,Kentucky,Tennessee,RECEIVING,Dorian,Baker,REC,5
+2317110,10/31/2015,FBS,Kentucky,Tennessee,RECEIVING,Dorian,Baker,YDS,43
+2317111,10/31/2015,FBS,Kentucky,Tennessee,RECEIVING,Dorian,Baker,TD,0
+2317112,10/31/2015,FBS,Kentucky,Tennessee,RECEIVING,Dorian,Baker,LONG,13
+2317113,10/31/2015,FBS,Kentucky,Tennessee,RECEIVING,Jeff,Badet,REC,3
+2317114,10/31/2015,FBS,Kentucky,Tennessee,RECEIVING,Jeff,Badet,YDS,29
+2317115,10/31/2015,FBS,Kentucky,Tennessee,RECEIVING,Jeff,Badet,TD,0
+2317116,10/31/2015,FBS,Kentucky,Tennessee,RECEIVING,Jeff,Badet,LONG,15
+2317117,10/31/2015,FBS,Kentucky,Tennessee,RECEIVING,Blake,Bone,REC,1
+2317118,10/31/2015,FBS,Kentucky,Tennessee,RECEIVING,Blake,Bone,YDS,22
+2317119,10/31/2015,FBS,Kentucky,Tennessee,RECEIVING,Blake,Bone,TD,0
+2317120,10/31/2015,FBS,Kentucky,Tennessee,RECEIVING,Blake,Bone,LONG,22
+2317121,10/31/2015,FBS,Kentucky,Tennessee,RECEIVING,Mikel,Horton,REC,1
+2317122,10/31/2015,FBS,Kentucky,Tennessee,RECEIVING,Mikel,Horton,YDS,19
+2317123,10/31/2015,FBS,Kentucky,Tennessee,RECEIVING,Mikel,Horton,TD,0
+2317124,10/31/2015,FBS,Kentucky,Tennessee,RECEIVING,Mikel,Horton,LONG,19
+2317125,10/31/2015,FBS,Kentucky,Tennessee,RECEIVING,Ryan,Timmons,REC,2
+2317126,10/31/2015,FBS,Kentucky,Tennessee,RECEIVING,Ryan,Timmons,YDS,16
+2317127,10/31/2015,FBS,Kentucky,Tennessee,RECEIVING,Ryan,Timmons,TD,0
+2317128,10/31/2015,FBS,Kentucky,Tennessee,RECEIVING,Ryan,Timmons,LONG,13
+2317129,10/31/2015,FBS,Kentucky,Tennessee,RECEIVING,C.J.,Conrad,REC,1
+2317130,10/31/2015,FBS,Kentucky,Tennessee,RECEIVING,C.J.,Conrad,YDS,6
+2317131,10/31/2015,FBS,Kentucky,Tennessee,RECEIVING,C.J.,Conrad,TD,0
+2317132,10/31/2015,FBS,Kentucky,Tennessee,RECEIVING,C.J.,Conrad,LONG,6
+2317133,10/31/2015,FBS,Kentucky,Tennessee,RECEIVING,Stanley,BoomWilliams,REC,1
+2317134,10/31/2015,FBS,Kentucky,Tennessee,RECEIVING,Stanley,BoomWilliams,YDS,-1
+2317135,10/31/2015,FBS,Kentucky,Tennessee,RECEIVING,Stanley,BoomWilliams,TD,0
+2317136,10/31/2015,FBS,Kentucky,Tennessee,RECEIVING,Stanley,BoomWilliams,LONG,-1
+2317137,10/31/2015,FBS,Kentucky,Tennessee,KICKING,Austin,MacGinnis,FG-FGA,0/0
+2317138,10/31/2015,FBS,Kentucky,Tennessee,KICKING,Austin,MacGinnis,LONG,-
+2317139,10/31/2015,FBS,Kentucky,Tennessee,KICKING,Austin,MacGinnis,XP,3
+2317140,10/31/2015,FBS,Kentucky,Tennessee,KICKING,Austin,MacGinnis,PTS,3
+2317141,10/31/2015,FBS,Kentucky,Tennessee,PUNTING,Landon,Foster,NO,6
+2317142,10/31/2015,FBS,Kentucky,Tennessee,PUNTING,Landon,Foster,YDS,239
+2317143,10/31/2015,FBS,Kentucky,Tennessee,PUNTING,Landon,Foster,AVG,39.8
+2317144,10/31/2015,FBS,Kentucky,Tennessee,PUNTING,Landon,Foster,LONG,45
+2317145,10/31/2015,FBS,Kentucky,Tennessee,PUNT RETURNS,Ryan,Timmons,NO,1
+2317146,10/31/2015,FBS,Kentucky,Tennessee,PUNT RETURNS,Ryan,Timmons,YDS,-1
+2317147,10/31/2015,FBS,Kentucky,Tennessee,PUNT RETURNS,Ryan,Timmons,AVG,-
+2317148,10/31/2015,FBS,Kentucky,Tennessee,PUNT RETURNS,Ryan,Timmons,LONG,0
+2317149,10/31/2015,FBS,Kentucky,Tennessee,KICK RETURNS,Sihiem,King,NO,3
+2317150,10/31/2015,FBS,Kentucky,Tennessee,KICK RETURNS,Sihiem,King,YDS,45
+2317151,10/31/2015,FBS,Kentucky,Tennessee,KICK RETURNS,Sihiem,King,AVG,15.0
+2317152,10/31/2015,FBS,Kentucky,Tennessee,KICK RETURNS,Sihiem,King,LONG,21
+2317153,10/31/2015,FBS,Kentucky,Tennessee,KICK RETURNS,Jabari,Johnson,NO,0
+2317154,10/31/2015,FBS,Kentucky,Tennessee,KICK RETURNS,Jabari,Johnson,YDS,0
+2317155,10/31/2015,FBS,Kentucky,Tennessee,KICK RETURNS,Jabari,Johnson,AVG,-
+2317156,10/31/2015,FBS,Kentucky,Tennessee,KICK RETURNS,Jabari,Johnson,LONG,0

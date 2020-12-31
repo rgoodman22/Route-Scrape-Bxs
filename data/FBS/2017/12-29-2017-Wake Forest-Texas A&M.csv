@@ -1,0 +1,161 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+4380001,12/29/2017,FBS,Wake Forest,Texas A&M,RUSHING,Matt,ColburnII,ATT,21
+4380002,12/29/2017,FBS,Wake Forest,Texas A&M,RUSHING,Matt,ColburnII,YDS,150
+4380003,12/29/2017,FBS,Wake Forest,Texas A&M,RUSHING,Matt,ColburnII,TD,1
+4380004,12/29/2017,FBS,Wake Forest,Texas A&M,RUSHING,Matt,ColburnII,LONG,66
+4380005,12/29/2017,FBS,Wake Forest,Texas A&M,RUSHING,John,Wolford,ATT,15
+4380006,12/29/2017,FBS,Wake Forest,Texas A&M,RUSHING,John,Wolford,YDS,68
+4380007,12/29/2017,FBS,Wake Forest,Texas A&M,RUSHING,John,Wolford,TD,0
+4380008,12/29/2017,FBS,Wake Forest,Texas A&M,RUSHING,John,Wolford,LONG,26
+4380009,12/29/2017,FBS,Wake Forest,Texas A&M,RUSHING,Arkeem,Byrd,ATT,3
+4380010,12/29/2017,FBS,Wake Forest,Texas A&M,RUSHING,Arkeem,Byrd,YDS,17
+4380011,12/29/2017,FBS,Wake Forest,Texas A&M,RUSHING,Arkeem,Byrd,TD,0
+4380012,12/29/2017,FBS,Wake Forest,Texas A&M,RUSHING,Arkeem,Byrd,LONG,13
+4380013,12/29/2017,FBS,Wake Forest,Texas A&M,RUSHING,Cade,Carney,ATT,7
+4380014,12/29/2017,FBS,Wake Forest,Texas A&M,RUSHING,Cade,Carney,YDS,13
+4380015,12/29/2017,FBS,Wake Forest,Texas A&M,RUSHING,Cade,Carney,TD,1
+4380016,12/29/2017,FBS,Wake Forest,Texas A&M,RUSHING,Cade,Carney,LONG,6
+4380017,12/29/2017,FBS,Wake Forest,Texas A&M,RUSHING,Cam,Serigne,ATT,0
+4380018,12/29/2017,FBS,Wake Forest,Texas A&M,RUSHING,Cam,Serigne,YDS,0
+4380019,12/29/2017,FBS,Wake Forest,Texas A&M,RUSHING,Cam,Serigne,TD,0
+4380020,12/29/2017,FBS,Wake Forest,Texas A&M,RUSHING,Cam,Serigne,LONG,0
+4380021,12/29/2017,FBS,Wake Forest,Texas A&M,RUSHING,,Team,ATT,2
+4380022,12/29/2017,FBS,Wake Forest,Texas A&M,RUSHING,,Team,YDS,-2
+4380023,12/29/2017,FBS,Wake Forest,Texas A&M,RUSHING,,Team,TD,0
+4380024,12/29/2017,FBS,Wake Forest,Texas A&M,RUSHING,,Team,LONG,-1
+4380025,12/29/2017,FBS,Wake Forest,Texas A&M,PASSING,John,Wolford,CP-ATT-INT,32-49-0
+4380026,12/29/2017,FBS,Wake Forest,Texas A&M,PASSING,John,Wolford,YDS,400
+4380027,12/29/2017,FBS,Wake Forest,Texas A&M,PASSING,John,Wolford,TD,4
+4380028,12/29/2017,FBS,Wake Forest,Texas A&M,PASSING,John,Wolford,LONG,50
+4380029,12/29/2017,FBS,Wake Forest,Texas A&M,RECEIVING,Scotty,Washington,REC,9
+4380030,12/29/2017,FBS,Wake Forest,Texas A&M,RECEIVING,Scotty,Washington,YDS,138
+4380031,12/29/2017,FBS,Wake Forest,Texas A&M,RECEIVING,Scotty,Washington,TD,1
+4380032,12/29/2017,FBS,Wake Forest,Texas A&M,RECEIVING,Scotty,Washington,LONG,50
+4380033,12/29/2017,FBS,Wake Forest,Texas A&M,RECEIVING,Cam,Serigne,REC,9
+4380034,12/29/2017,FBS,Wake Forest,Texas A&M,RECEIVING,Cam,Serigne,YDS,112
+4380035,12/29/2017,FBS,Wake Forest,Texas A&M,RECEIVING,Cam,Serigne,TD,1
+4380036,12/29/2017,FBS,Wake Forest,Texas A&M,RECEIVING,Cam,Serigne,LONG,37
+4380037,12/29/2017,FBS,Wake Forest,Texas A&M,RECEIVING,Alex,Bachman,REC,5
+4380038,12/29/2017,FBS,Wake Forest,Texas A&M,RECEIVING,Alex,Bachman,YDS,84
+4380039,12/29/2017,FBS,Wake Forest,Texas A&M,RECEIVING,Alex,Bachman,TD,0
+4380040,12/29/2017,FBS,Wake Forest,Texas A&M,RECEIVING,Alex,Bachman,LONG,47
+4380041,12/29/2017,FBS,Wake Forest,Texas A&M,RECEIVING,Tabari,Hines,REC,8
+4380042,12/29/2017,FBS,Wake Forest,Texas A&M,RECEIVING,Tabari,Hines,YDS,58
+4380043,12/29/2017,FBS,Wake Forest,Texas A&M,RECEIVING,Tabari,Hines,TD,2
+4380044,12/29/2017,FBS,Wake Forest,Texas A&M,RECEIVING,Tabari,Hines,LONG,20
+4380045,12/29/2017,FBS,Wake Forest,Texas A&M,RECEIVING,Matt,ColburnII,REC,1
+4380046,12/29/2017,FBS,Wake Forest,Texas A&M,RECEIVING,Matt,ColburnII,YDS,8
+4380047,12/29/2017,FBS,Wake Forest,Texas A&M,RECEIVING,Matt,ColburnII,TD,0
+4380048,12/29/2017,FBS,Wake Forest,Texas A&M,RECEIVING,Matt,ColburnII,LONG,8
+4380049,12/29/2017,FBS,Wake Forest,Texas A&M,KICKING,Mike,Weaver,FG-FGA,2/3
+4380050,12/29/2017,FBS,Wake Forest,Texas A&M,KICKING,Mike,Weaver,LONG,28
+4380051,12/29/2017,FBS,Wake Forest,Texas A&M,KICKING,Mike,Weaver,XP,7
+4380052,12/29/2017,FBS,Wake Forest,Texas A&M,KICKING,Mike,Weaver,PTS,13
+4380053,12/29/2017,FBS,Wake Forest,Texas A&M,PUNTING,Dom,Maggio,NO,4
+4380054,12/29/2017,FBS,Wake Forest,Texas A&M,PUNTING,Dom,Maggio,YDS,189
+4380055,12/29/2017,FBS,Wake Forest,Texas A&M,PUNTING,Dom,Maggio,AVG,47.2
+4380056,12/29/2017,FBS,Wake Forest,Texas A&M,PUNTING,Dom,Maggio,LONG,54
+4380057,12/29/2017,FBS,Wake Forest,Texas A&M,PUNT RETURNS,Jessie,BatesIII,NO,1
+4380058,12/29/2017,FBS,Wake Forest,Texas A&M,PUNT RETURNS,Jessie,BatesIII,YDS,59
+4380059,12/29/2017,FBS,Wake Forest,Texas A&M,PUNT RETURNS,Jessie,BatesIII,AVG,59.0
+4380060,12/29/2017,FBS,Wake Forest,Texas A&M,PUNT RETURNS,Jessie,BatesIII,LONG,59
+4380061,12/29/2017,FBS,Wake Forest,Texas A&M,KICK RETURNS,Chuck,WadeJr.,NO,5
+4380062,12/29/2017,FBS,Wake Forest,Texas A&M,KICK RETURNS,Chuck,WadeJr.,YDS,119
+4380063,12/29/2017,FBS,Wake Forest,Texas A&M,KICK RETURNS,Chuck,WadeJr.,AVG,23.8
+4380064,12/29/2017,FBS,Wake Forest,Texas A&M,KICK RETURNS,Chuck,WadeJr.,LONG,31
+4380065,12/29/2017,FBS,Texas A&M,Wake Forest,RUSHING,Trayveon,Williams,ATT,7
+4380066,12/29/2017,FBS,Texas A&M,Wake Forest,RUSHING,Trayveon,Williams,YDS,65
+4380067,12/29/2017,FBS,Texas A&M,Wake Forest,RUSHING,Trayveon,Williams,TD,1
+4380068,12/29/2017,FBS,Texas A&M,Wake Forest,RUSHING,Trayveon,Williams,LONG,43
+4380069,12/29/2017,FBS,Texas A&M,Wake Forest,RUSHING,Keith,Ford,ATT,17
+4380070,12/29/2017,FBS,Texas A&M,Wake Forest,RUSHING,Keith,Ford,YDS,55
+4380071,12/29/2017,FBS,Texas A&M,Wake Forest,RUSHING,Keith,Ford,TD,1
+4380072,12/29/2017,FBS,Texas A&M,Wake Forest,RUSHING,Keith,Ford,LONG,34
+4380073,12/29/2017,FBS,Texas A&M,Wake Forest,RUSHING,Kwame,Etwi,ATT,2
+4380074,12/29/2017,FBS,Texas A&M,Wake Forest,RUSHING,Kwame,Etwi,YDS,6
+4380075,12/29/2017,FBS,Texas A&M,Wake Forest,RUSHING,Kwame,Etwi,TD,0
+4380076,12/29/2017,FBS,Texas A&M,Wake Forest,RUSHING,Kwame,Etwi,LONG,3
+4380077,12/29/2017,FBS,Texas A&M,Wake Forest,RUSHING,Christian,Kirk,ATT,1
+4380078,12/29/2017,FBS,Texas A&M,Wake Forest,RUSHING,Christian,Kirk,YDS,4
+4380079,12/29/2017,FBS,Texas A&M,Wake Forest,RUSHING,Christian,Kirk,TD,0
+4380080,12/29/2017,FBS,Texas A&M,Wake Forest,RUSHING,Christian,Kirk,LONG,4
+4380081,12/29/2017,FBS,Texas A&M,Wake Forest,RUSHING,Kendall,Bussey,ATT,1
+4380082,12/29/2017,FBS,Texas A&M,Wake Forest,RUSHING,Kendall,Bussey,YDS,2
+4380083,12/29/2017,FBS,Texas A&M,Wake Forest,RUSHING,Kendall,Bussey,TD,0
+4380084,12/29/2017,FBS,Texas A&M,Wake Forest,RUSHING,Kendall,Bussey,LONG,2
+4380085,12/29/2017,FBS,Texas A&M,Wake Forest,RUSHING,Jacob,Kibodi,ATT,1
+4380086,12/29/2017,FBS,Texas A&M,Wake Forest,RUSHING,Jacob,Kibodi,YDS,2
+4380087,12/29/2017,FBS,Texas A&M,Wake Forest,RUSHING,Jacob,Kibodi,TD,0
+4380088,12/29/2017,FBS,Texas A&M,Wake Forest,RUSHING,Jacob,Kibodi,LONG,2
+4380089,12/29/2017,FBS,Texas A&M,Wake Forest,RUSHING,Nick,Starkel,ATT,2
+4380090,12/29/2017,FBS,Texas A&M,Wake Forest,RUSHING,Nick,Starkel,YDS,-19
+4380091,12/29/2017,FBS,Texas A&M,Wake Forest,RUSHING,Nick,Starkel,TD,0
+4380092,12/29/2017,FBS,Texas A&M,Wake Forest,RUSHING,Nick,Starkel,LONG,-9
+4380093,12/29/2017,FBS,Texas A&M,Wake Forest,PASSING,Nick,Starkel,CP-ATT-INT,42-63-1
+4380094,12/29/2017,FBS,Texas A&M,Wake Forest,PASSING,Nick,Starkel,YDS,499
+4380095,12/29/2017,FBS,Texas A&M,Wake Forest,PASSING,Nick,Starkel,TD,4
+4380096,12/29/2017,FBS,Texas A&M,Wake Forest,PASSING,Nick,Starkel,LONG,52
+4380097,12/29/2017,FBS,Texas A&M,Wake Forest,RECEIVING,Christian,Kirk,REC,13
+4380098,12/29/2017,FBS,Texas A&M,Wake Forest,RECEIVING,Christian,Kirk,YDS,189
+4380099,12/29/2017,FBS,Texas A&M,Wake Forest,RECEIVING,Christian,Kirk,TD,3
+4380100,12/29/2017,FBS,Texas A&M,Wake Forest,RECEIVING,Christian,Kirk,LONG,52
+4380101,12/29/2017,FBS,Texas A&M,Wake Forest,RECEIVING,Jhamon,Ausbon,REC,12
+4380102,12/29/2017,FBS,Texas A&M,Wake Forest,RECEIVING,Jhamon,Ausbon,YDS,112
+4380103,12/29/2017,FBS,Texas A&M,Wake Forest,RECEIVING,Jhamon,Ausbon,TD,1
+4380104,12/29/2017,FBS,Texas A&M,Wake Forest,RECEIVING,Jhamon,Ausbon,LONG,14
+4380105,12/29/2017,FBS,Texas A&M,Wake Forest,RECEIVING,Damion,Ratley,REC,4
+4380106,12/29/2017,FBS,Texas A&M,Wake Forest,RECEIVING,Damion,Ratley,YDS,91
+4380107,12/29/2017,FBS,Texas A&M,Wake Forest,RECEIVING,Damion,Ratley,TD,0
+4380108,12/29/2017,FBS,Texas A&M,Wake Forest,RECEIVING,Damion,Ratley,LONG,31
+4380109,12/29/2017,FBS,Texas A&M,Wake Forest,RECEIVING,Kendrick,Rogers,REC,3
+4380110,12/29/2017,FBS,Texas A&M,Wake Forest,RECEIVING,Kendrick,Rogers,YDS,43
+4380111,12/29/2017,FBS,Texas A&M,Wake Forest,RECEIVING,Kendrick,Rogers,TD,0
+4380112,12/29/2017,FBS,Texas A&M,Wake Forest,RECEIVING,Kendrick,Rogers,LONG,17
+4380113,12/29/2017,FBS,Texas A&M,Wake Forest,RECEIVING,Camron,Buckley,REC,4
+4380114,12/29/2017,FBS,Texas A&M,Wake Forest,RECEIVING,Camron,Buckley,YDS,26
+4380115,12/29/2017,FBS,Texas A&M,Wake Forest,RECEIVING,Camron,Buckley,TD,0
+4380116,12/29/2017,FBS,Texas A&M,Wake Forest,RECEIVING,Camron,Buckley,LONG,8
+4380117,12/29/2017,FBS,Texas A&M,Wake Forest,RECEIVING,Keith,Ford,REC,2
+4380118,12/29/2017,FBS,Texas A&M,Wake Forest,RECEIVING,Keith,Ford,YDS,13
+4380119,12/29/2017,FBS,Texas A&M,Wake Forest,RECEIVING,Keith,Ford,TD,0
+4380120,12/29/2017,FBS,Texas A&M,Wake Forest,RECEIVING,Keith,Ford,LONG,11
+4380121,12/29/2017,FBS,Texas A&M,Wake Forest,RECEIVING,Trayveon,Williams,REC,1
+4380122,12/29/2017,FBS,Texas A&M,Wake Forest,RECEIVING,Trayveon,Williams,YDS,12
+4380123,12/29/2017,FBS,Texas A&M,Wake Forest,RECEIVING,Trayveon,Williams,TD,0
+4380124,12/29/2017,FBS,Texas A&M,Wake Forest,RECEIVING,Trayveon,Williams,LONG,12
+4380125,12/29/2017,FBS,Texas A&M,Wake Forest,RECEIVING,Kwame,Etwi,REC,2
+4380126,12/29/2017,FBS,Texas A&M,Wake Forest,RECEIVING,Kwame,Etwi,YDS,7
+4380127,12/29/2017,FBS,Texas A&M,Wake Forest,RECEIVING,Kwame,Etwi,TD,0
+4380128,12/29/2017,FBS,Texas A&M,Wake Forest,RECEIVING,Kwame,Etwi,LONG,7
+4380129,12/29/2017,FBS,Texas A&M,Wake Forest,RECEIVING,Tanner,Schorp,REC,1
+4380130,12/29/2017,FBS,Texas A&M,Wake Forest,RECEIVING,Tanner,Schorp,YDS,6
+4380131,12/29/2017,FBS,Texas A&M,Wake Forest,RECEIVING,Tanner,Schorp,TD,0
+4380132,12/29/2017,FBS,Texas A&M,Wake Forest,RECEIVING,Tanner,Schorp,LONG,6
+4380133,12/29/2017,FBS,Texas A&M,Wake Forest,KICKING,Daniel,LaCamera,FG-FGA,1/1
+4380134,12/29/2017,FBS,Texas A&M,Wake Forest,KICKING,Daniel,LaCamera,LONG,19
+4380135,12/29/2017,FBS,Texas A&M,Wake Forest,KICKING,Daniel,LaCamera,XP,7
+4380136,12/29/2017,FBS,Texas A&M,Wake Forest,KICKING,Daniel,LaCamera,PTS,10
+4380137,12/29/2017,FBS,Texas A&M,Wake Forest,PUNTING,Shane,Tripucka,NO,7
+4380138,12/29/2017,FBS,Texas A&M,Wake Forest,PUNTING,Shane,Tripucka,YDS,271
+4380139,12/29/2017,FBS,Texas A&M,Wake Forest,PUNTING,Shane,Tripucka,AVG,38.7
+4380140,12/29/2017,FBS,Texas A&M,Wake Forest,PUNTING,Shane,Tripucka,LONG,45
+4380141,12/29/2017,FBS,Texas A&M,Wake Forest,PUNT RETURNS,Christian,Kirk,NO,2
+4380142,12/29/2017,FBS,Texas A&M,Wake Forest,PUNT RETURNS,Christian,Kirk,YDS,16
+4380143,12/29/2017,FBS,Texas A&M,Wake Forest,PUNT RETURNS,Christian,Kirk,AVG,8.0
+4380144,12/29/2017,FBS,Texas A&M,Wake Forest,PUNT RETURNS,Christian,Kirk,LONG,14
+4380145,12/29/2017,FBS,Texas A&M,Wake Forest,KICK RETURNS,Trayveon,Williams,NO,3
+4380146,12/29/2017,FBS,Texas A&M,Wake Forest,KICK RETURNS,Trayveon,Williams,YDS,74
+4380147,12/29/2017,FBS,Texas A&M,Wake Forest,KICK RETURNS,Trayveon,Williams,AVG,24.7
+4380148,12/29/2017,FBS,Texas A&M,Wake Forest,KICK RETURNS,Trayveon,Williams,LONG,26
+4380149,12/29/2017,FBS,Texas A&M,Wake Forest,KICK RETURNS,Keith,Ford,NO,3
+4380150,12/29/2017,FBS,Texas A&M,Wake Forest,KICK RETURNS,Keith,Ford,YDS,51
+4380151,12/29/2017,FBS,Texas A&M,Wake Forest,KICK RETURNS,Keith,Ford,AVG,17.0
+4380152,12/29/2017,FBS,Texas A&M,Wake Forest,KICK RETURNS,Keith,Ford,LONG,24
+4380153,12/29/2017,FBS,Texas A&M,Wake Forest,KICK RETURNS,Christian,Kirk,NO,1
+4380154,12/29/2017,FBS,Texas A&M,Wake Forest,KICK RETURNS,Christian,Kirk,YDS,10
+4380155,12/29/2017,FBS,Texas A&M,Wake Forest,KICK RETURNS,Christian,Kirk,AVG,10.0
+4380156,12/29/2017,FBS,Texas A&M,Wake Forest,KICK RETURNS,Christian,Kirk,LONG,10
+4380157,12/29/2017,FBS,Texas A&M,Wake Forest,KICK RETURNS,Cullen,Gillaspia,NO,1
+4380158,12/29/2017,FBS,Texas A&M,Wake Forest,KICK RETURNS,Cullen,Gillaspia,YDS,9
+4380159,12/29/2017,FBS,Texas A&M,Wake Forest,KICK RETURNS,Cullen,Gillaspia,AVG,9.0
+4380160,12/29/2017,FBS,Texas A&M,Wake Forest,KICK RETURNS,Cullen,Gillaspia,LONG,9

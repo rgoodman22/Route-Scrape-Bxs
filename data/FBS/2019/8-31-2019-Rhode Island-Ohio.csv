@@ -1,0 +1,213 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+5313001,8/31/2019,FBS,Rhode Island,Ohio,RUSHING,Zoe,BryantJr.,ATT,17
+5313002,8/31/2019,FBS,Rhode Island,Ohio,RUSHING,Zoe,BryantJr.,YDS,89
+5313003,8/31/2019,FBS,Rhode Island,Ohio,RUSHING,Zoe,BryantJr.,TD,0
+5313004,8/31/2019,FBS,Rhode Island,Ohio,RUSHING,Zoe,BryantJr.,LONG,16
+5313005,8/31/2019,FBS,Rhode Island,Ohio,RUSHING,Ahmere,Dorsey,ATT,1
+5313006,8/31/2019,FBS,Rhode Island,Ohio,RUSHING,Ahmere,Dorsey,YDS,9
+5313007,8/31/2019,FBS,Rhode Island,Ohio,RUSHING,Ahmere,Dorsey,TD,0
+5313008,8/31/2019,FBS,Rhode Island,Ohio,RUSHING,Ahmere,Dorsey,LONG,9
+5313009,8/31/2019,FBS,Rhode Island,Ohio,RUSHING,Matt,Pires,ATT,1
+5313010,8/31/2019,FBS,Rhode Island,Ohio,RUSHING,Matt,Pires,YDS,4
+5313011,8/31/2019,FBS,Rhode Island,Ohio,RUSHING,Matt,Pires,TD,0
+5313012,8/31/2019,FBS,Rhode Island,Ohio,RUSHING,Matt,Pires,LONG,4
+5313013,8/31/2019,FBS,Rhode Island,Ohio,RUSHING,Vito,Priore,ATT,3
+5313014,8/31/2019,FBS,Rhode Island,Ohio,RUSHING,Vito,Priore,YDS,1
+5313015,8/31/2019,FBS,Rhode Island,Ohio,RUSHING,Vito,Priore,TD,0
+5313016,8/31/2019,FBS,Rhode Island,Ohio,RUSHING,Vito,Priore,LONG,10
+5313017,8/31/2019,FBS,Rhode Island,Ohio,RUSHING,,Team,ATT,1
+5313018,8/31/2019,FBS,Rhode Island,Ohio,RUSHING,,Team,YDS,-19
+5313019,8/31/2019,FBS,Rhode Island,Ohio,RUSHING,,Team,TD,0
+5313020,8/31/2019,FBS,Rhode Island,Ohio,RUSHING,,Team,LONG,-19
+5313021,8/31/2019,FBS,Rhode Island,Ohio,PASSING,Vito,Priore,CP-ATT-INT,22-42-1
+5313022,8/31/2019,FBS,Rhode Island,Ohio,PASSING,Vito,Priore,YDS,291
+5313023,8/31/2019,FBS,Rhode Island,Ohio,PASSING,Vito,Priore,TD,2
+5313024,8/31/2019,FBS,Rhode Island,Ohio,PASSING,Vito,Priore,LONG,38
+5313025,8/31/2019,FBS,Rhode Island,Ohio,RECEIVING,Aaron,Parker,REC,9
+5313026,8/31/2019,FBS,Rhode Island,Ohio,RECEIVING,Aaron,Parker,YDS,144
+5313027,8/31/2019,FBS,Rhode Island,Ohio,RECEIVING,Aaron,Parker,TD,1
+5313028,8/31/2019,FBS,Rhode Island,Ohio,RECEIVING,Aaron,Parker,LONG,38
+5313029,8/31/2019,FBS,Rhode Island,Ohio,RECEIVING,Ahmere,Dorsey,REC,4
+5313030,8/31/2019,FBS,Rhode Island,Ohio,RECEIVING,Ahmere,Dorsey,YDS,59
+5313031,8/31/2019,FBS,Rhode Island,Ohio,RECEIVING,Ahmere,Dorsey,TD,0
+5313032,8/31/2019,FBS,Rhode Island,Ohio,RECEIVING,Ahmere,Dorsey,LONG,24
+5313033,8/31/2019,FBS,Rhode Island,Ohio,RECEIVING,Isaiah,Coulter,REC,2
+5313034,8/31/2019,FBS,Rhode Island,Ohio,RECEIVING,Isaiah,Coulter,YDS,53
+5313035,8/31/2019,FBS,Rhode Island,Ohio,RECEIVING,Isaiah,Coulter,TD,1
+5313036,8/31/2019,FBS,Rhode Island,Ohio,RECEIVING,Isaiah,Coulter,LONG,38
+5313037,8/31/2019,FBS,Rhode Island,Ohio,RECEIVING,Matt,Pires,REC,2
+5313038,8/31/2019,FBS,Rhode Island,Ohio,RECEIVING,Matt,Pires,YDS,13
+5313039,8/31/2019,FBS,Rhode Island,Ohio,RECEIVING,Matt,Pires,TD,0
+5313040,8/31/2019,FBS,Rhode Island,Ohio,RECEIVING,Matt,Pires,LONG,9
+5313041,8/31/2019,FBS,Rhode Island,Ohio,RECEIVING,Caleb,Warren,REC,1
+5313042,8/31/2019,FBS,Rhode Island,Ohio,RECEIVING,Caleb,Warren,YDS,9
+5313043,8/31/2019,FBS,Rhode Island,Ohio,RECEIVING,Caleb,Warren,TD,0
+5313044,8/31/2019,FBS,Rhode Island,Ohio,RECEIVING,Caleb,Warren,LONG,9
+5313045,8/31/2019,FBS,Rhode Island,Ohio,RECEIVING,Ivory,Frimpong,REC,1
+5313046,8/31/2019,FBS,Rhode Island,Ohio,RECEIVING,Ivory,Frimpong,YDS,6
+5313047,8/31/2019,FBS,Rhode Island,Ohio,RECEIVING,Ivory,Frimpong,TD,0
+5313048,8/31/2019,FBS,Rhode Island,Ohio,RECEIVING,Ivory,Frimpong,LONG,6
+5313049,8/31/2019,FBS,Rhode Island,Ohio,RECEIVING,Joey,Kenny,REC,1
+5313050,8/31/2019,FBS,Rhode Island,Ohio,RECEIVING,Joey,Kenny,YDS,5
+5313051,8/31/2019,FBS,Rhode Island,Ohio,RECEIVING,Joey,Kenny,TD,0
+5313052,8/31/2019,FBS,Rhode Island,Ohio,RECEIVING,Joey,Kenny,LONG,5
+5313053,8/31/2019,FBS,Rhode Island,Ohio,RECEIVING,Zoe,BryantJr.,REC,2
+5313054,8/31/2019,FBS,Rhode Island,Ohio,RECEIVING,Zoe,BryantJr.,YDS,2
+5313055,8/31/2019,FBS,Rhode Island,Ohio,RECEIVING,Zoe,BryantJr.,TD,0
+5313056,8/31/2019,FBS,Rhode Island,Ohio,RECEIVING,Zoe,BryantJr.,LONG,7
+5313057,8/31/2019,FBS,Rhode Island,Ohio,KICKING,C.J.,Carrick,FG-FGA,2/2
+5313058,8/31/2019,FBS,Rhode Island,Ohio,KICKING,C.J.,Carrick,LONG,35
+5313059,8/31/2019,FBS,Rhode Island,Ohio,KICKING,C.J.,Carrick,XP,2
+5313060,8/31/2019,FBS,Rhode Island,Ohio,KICKING,C.J.,Carrick,PTS,8
+5313061,8/31/2019,FBS,Rhode Island,Ohio,PUNTING,Davey,Schaum-Bartocci,NO,4
+5313062,8/31/2019,FBS,Rhode Island,Ohio,PUNTING,Davey,Schaum-Bartocci,YDS,151
+5313063,8/31/2019,FBS,Rhode Island,Ohio,PUNTING,Davey,Schaum-Bartocci,AVG,37.8
+5313064,8/31/2019,FBS,Rhode Island,Ohio,PUNTING,Davey,Schaum-Bartocci,LONG,42
+5313065,8/31/2019,FBS,Rhode Island,Ohio,KICK RETURNS,Matt,Pires,NO,4
+5313066,8/31/2019,FBS,Rhode Island,Ohio,KICK RETURNS,Matt,Pires,YDS,65
+5313067,8/31/2019,FBS,Rhode Island,Ohio,KICK RETURNS,Matt,Pires,AVG,16.2
+5313068,8/31/2019,FBS,Rhode Island,Ohio,KICK RETURNS,Matt,Pires,LONG,21
+5313069,8/31/2019,FBS,Rhode Island,Ohio,DEFENSE,Andre,Johnson,TOT,1
+5313070,8/31/2019,FBS,Rhode Island,Ohio,DEFENSE,Andre,Johnson,SOLO,0
+5313071,8/31/2019,FBS,Rhode Island,Ohio,DEFENSE,Andre,Johnson,SACKS,0.5
+5313072,8/31/2019,FBS,Rhode Island,Ohio,DEFENSE,Andre,Johnson,TFL,0
+5313073,8/31/2019,FBS,Rhode Island,Ohio,DEFENSE,Andre,Johnson,INT,0
+5313074,8/31/2019,FBS,Rhode Island,Ohio,DEFENSE,Andre,Johnson,FF,0
+5313075,8/31/2019,FBS,Rhode Island,Ohio,DEFENSE,Andre,Johnson,FR,0
+5313076,8/31/2019,FBS,Rhode Island,Ohio,DEFENSE,Momodou,Mbye,TOT,0
+5313077,8/31/2019,FBS,Rhode Island,Ohio,DEFENSE,Momodou,Mbye,SOLO,0
+5313078,8/31/2019,FBS,Rhode Island,Ohio,DEFENSE,Momodou,Mbye,SACKS,0.0
+5313079,8/31/2019,FBS,Rhode Island,Ohio,DEFENSE,Momodou,Mbye,TFL,0
+5313080,8/31/2019,FBS,Rhode Island,Ohio,DEFENSE,Momodou,Mbye,INT,1
+5313081,8/31/2019,FBS,Rhode Island,Ohio,DEFENSE,Momodou,Mbye,FF,0
+5313082,8/31/2019,FBS,Rhode Island,Ohio,DEFENSE,Momodou,Mbye,FR,0
+5313083,8/31/2019,FBS,Rhode Island,Ohio,DEFENSE,Brian,Campbell,TOT,1
+5313084,8/31/2019,FBS,Rhode Island,Ohio,DEFENSE,Brian,Campbell,SOLO,0
+5313085,8/31/2019,FBS,Rhode Island,Ohio,DEFENSE,Brian,Campbell,SACKS,0.5
+5313086,8/31/2019,FBS,Rhode Island,Ohio,DEFENSE,Brian,Campbell,TFL,0
+5313087,8/31/2019,FBS,Rhode Island,Ohio,DEFENSE,Brian,Campbell,INT,0
+5313088,8/31/2019,FBS,Rhode Island,Ohio,DEFENSE,Brian,Campbell,FF,0
+5313089,8/31/2019,FBS,Rhode Island,Ohio,DEFENSE,Brian,Campbell,FR,0
+5313090,8/31/2019,FBS,Rhode Island,Ohio,DEFENSE,Rashod,Dickerson,TOT,1
+5313091,8/31/2019,FBS,Rhode Island,Ohio,DEFENSE,Rashod,Dickerson,SOLO,1
+5313092,8/31/2019,FBS,Rhode Island,Ohio,DEFENSE,Rashod,Dickerson,SACKS,0.0
+5313093,8/31/2019,FBS,Rhode Island,Ohio,DEFENSE,Rashod,Dickerson,TFL,0
+5313094,8/31/2019,FBS,Rhode Island,Ohio,DEFENSE,Rashod,Dickerson,INT,0
+5313095,8/31/2019,FBS,Rhode Island,Ohio,DEFENSE,Rashod,Dickerson,FF,1
+5313096,8/31/2019,FBS,Rhode Island,Ohio,DEFENSE,Rashod,Dickerson,FR,0
+5313097,8/31/2019,FBS,Ohio,Rhode Island,RUSHING,Nathan,Rourke,ATT,10
+5313098,8/31/2019,FBS,Ohio,Rhode Island,RUSHING,Nathan,Rourke,YDS,75
+5313099,8/31/2019,FBS,Ohio,Rhode Island,RUSHING,Nathan,Rourke,TD,1
+5313100,8/31/2019,FBS,Ohio,Rhode Island,RUSHING,Nathan,Rourke,LONG,24
+5313101,8/31/2019,FBS,Ohio,Rhode Island,RUSHING,Julian,Ross,ATT,14
+5313102,8/31/2019,FBS,Ohio,Rhode Island,RUSHING,Julian,Ross,YDS,68
+5313103,8/31/2019,FBS,Ohio,Rhode Island,RUSHING,Julian,Ross,TD,0
+5313104,8/31/2019,FBS,Ohio,Rhode Island,RUSHING,Julian,Ross,LONG,21
+5313105,8/31/2019,FBS,Ohio,Rhode Island,RUSHING,De'Montre,Tuggle,ATT,3
+5313106,8/31/2019,FBS,Ohio,Rhode Island,RUSHING,De'Montre,Tuggle,YDS,65
+5313107,8/31/2019,FBS,Ohio,Rhode Island,RUSHING,De'Montre,Tuggle,TD,2
+5313108,8/31/2019,FBS,Ohio,Rhode Island,RUSHING,De'Montre,Tuggle,LONG,55
+5313109,8/31/2019,FBS,Ohio,Rhode Island,RUSHING,O'Shaan,Allison,ATT,6
+5313110,8/31/2019,FBS,Ohio,Rhode Island,RUSHING,O'Shaan,Allison,YDS,38
+5313111,8/31/2019,FBS,Ohio,Rhode Island,RUSHING,O'Shaan,Allison,TD,0
+5313112,8/31/2019,FBS,Ohio,Rhode Island,RUSHING,O'Shaan,Allison,LONG,25
+5313113,8/31/2019,FBS,Ohio,Rhode Island,RUSHING,Ja'Vahri,Portis,ATT,4
+5313114,8/31/2019,FBS,Ohio,Rhode Island,RUSHING,Ja'Vahri,Portis,YDS,33
+5313115,8/31/2019,FBS,Ohio,Rhode Island,RUSHING,Ja'Vahri,Portis,TD,0
+5313116,8/31/2019,FBS,Ohio,Rhode Island,RUSHING,Ja'Vahri,Portis,LONG,16
+5313117,8/31/2019,FBS,Ohio,Rhode Island,RUSHING,,Team,ATT,1
+5313118,8/31/2019,FBS,Ohio,Rhode Island,RUSHING,,Team,YDS,-1
+5313119,8/31/2019,FBS,Ohio,Rhode Island,RUSHING,,Team,TD,0
+5313120,8/31/2019,FBS,Ohio,Rhode Island,RUSHING,,Team,LONG,-1
+5313121,8/31/2019,FBS,Ohio,Rhode Island,PASSING,Nathan,Rourke,CP-ATT-INT,16-22-0
+5313122,8/31/2019,FBS,Ohio,Rhode Island,PASSING,Nathan,Rourke,YDS,188
+5313123,8/31/2019,FBS,Ohio,Rhode Island,PASSING,Nathan,Rourke,TD,2
+5313124,8/31/2019,FBS,Ohio,Rhode Island,PASSING,Nathan,Rourke,LONG,31
+5313125,8/31/2019,FBS,Ohio,Rhode Island,PASSING,Joe,Mischler,CP-ATT-INT,0-1-1
+5313126,8/31/2019,FBS,Ohio,Rhode Island,PASSING,Joe,Mischler,YDS,0
+5313127,8/31/2019,FBS,Ohio,Rhode Island,PASSING,Joe,Mischler,TD,0
+5313128,8/31/2019,FBS,Ohio,Rhode Island,PASSING,Joe,Mischler,LONG,0
+5313129,8/31/2019,FBS,Ohio,Rhode Island,RECEIVING,Tyler,Tupa,REC,3
+5313130,8/31/2019,FBS,Ohio,Rhode Island,RECEIVING,Tyler,Tupa,YDS,49
+5313131,8/31/2019,FBS,Ohio,Rhode Island,RECEIVING,Tyler,Tupa,TD,1
+5313132,8/31/2019,FBS,Ohio,Rhode Island,RECEIVING,Tyler,Tupa,LONG,22
+5313133,8/31/2019,FBS,Ohio,Rhode Island,RECEIVING,Jerome,Buckner,REC,3
+5313134,8/31/2019,FBS,Ohio,Rhode Island,RECEIVING,Jerome,Buckner,YDS,48
+5313135,8/31/2019,FBS,Ohio,Rhode Island,RECEIVING,Jerome,Buckner,TD,0
+5313136,8/31/2019,FBS,Ohio,Rhode Island,RECEIVING,Jerome,Buckner,LONG,31
+5313137,8/31/2019,FBS,Ohio,Rhode Island,RECEIVING,Shane,Hooks,REC,1
+5313138,8/31/2019,FBS,Ohio,Rhode Island,RECEIVING,Shane,Hooks,YDS,30
+5313139,8/31/2019,FBS,Ohio,Rhode Island,RECEIVING,Shane,Hooks,TD,0
+5313140,8/31/2019,FBS,Ohio,Rhode Island,RECEIVING,Shane,Hooks,LONG,30
+5313141,8/31/2019,FBS,Ohio,Rhode Island,RECEIVING,Isiah,Cox,REC,3
+5313142,8/31/2019,FBS,Ohio,Rhode Island,RECEIVING,Isiah,Cox,YDS,26
+5313143,8/31/2019,FBS,Ohio,Rhode Island,RECEIVING,Isiah,Cox,TD,0
+5313144,8/31/2019,FBS,Ohio,Rhode Island,RECEIVING,Isiah,Cox,LONG,16
+5313145,8/31/2019,FBS,Ohio,Rhode Island,RECEIVING,Cameron,Odom,REC,1
+5313146,8/31/2019,FBS,Ohio,Rhode Island,RECEIVING,Cameron,Odom,YDS,10
+5313147,8/31/2019,FBS,Ohio,Rhode Island,RECEIVING,Cameron,Odom,TD,0
+5313148,8/31/2019,FBS,Ohio,Rhode Island,RECEIVING,Cameron,Odom,LONG,10
+5313149,8/31/2019,FBS,Ohio,Rhode Island,RECEIVING,O'Shaan,Allison,REC,2
+5313150,8/31/2019,FBS,Ohio,Rhode Island,RECEIVING,O'Shaan,Allison,YDS,9
+5313151,8/31/2019,FBS,Ohio,Rhode Island,RECEIVING,O'Shaan,Allison,TD,0
+5313152,8/31/2019,FBS,Ohio,Rhode Island,RECEIVING,O'Shaan,Allison,LONG,9
+5313153,8/31/2019,FBS,Ohio,Rhode Island,RECEIVING,Adam,Luehrman,REC,1
+5313154,8/31/2019,FBS,Ohio,Rhode Island,RECEIVING,Adam,Luehrman,YDS,7
+5313155,8/31/2019,FBS,Ohio,Rhode Island,RECEIVING,Adam,Luehrman,TD,0
+5313156,8/31/2019,FBS,Ohio,Rhode Island,RECEIVING,Adam,Luehrman,LONG,6
+5313157,8/31/2019,FBS,Ohio,Rhode Island,RECEIVING,Ty,Walton,REC,1
+5313158,8/31/2019,FBS,Ohio,Rhode Island,RECEIVING,Ty,Walton,YDS,5
+5313159,8/31/2019,FBS,Ohio,Rhode Island,RECEIVING,Ty,Walton,TD,0
+5313160,8/31/2019,FBS,Ohio,Rhode Island,RECEIVING,Ty,Walton,LONG,5
+5313161,8/31/2019,FBS,Ohio,Rhode Island,RECEIVING,Ryan,Luehrman,REC,1
+5313162,8/31/2019,FBS,Ohio,Rhode Island,RECEIVING,Ryan,Luehrman,YDS,4
+5313163,8/31/2019,FBS,Ohio,Rhode Island,RECEIVING,Ryan,Luehrman,TD,1
+5313164,8/31/2019,FBS,Ohio,Rhode Island,RECEIVING,Ryan,Luehrman,LONG,4
+5313165,8/31/2019,FBS,Ohio,Rhode Island,KICKING,Louie,Zervos,FG-FGA,2/2
+5313166,8/31/2019,FBS,Ohio,Rhode Island,KICKING,Louie,Zervos,LONG,42
+5313167,8/31/2019,FBS,Ohio,Rhode Island,KICKING,Louie,Zervos,XP,5
+5313168,8/31/2019,FBS,Ohio,Rhode Island,KICKING,Louie,Zervos,PTS,11
+5313169,8/31/2019,FBS,Ohio,Rhode Island,PUNT RETURNS,Jerome,Buckner,NO,3
+5313170,8/31/2019,FBS,Ohio,Rhode Island,PUNT RETURNS,Jerome,Buckner,YDS,15
+5313171,8/31/2019,FBS,Ohio,Rhode Island,PUNT RETURNS,Jerome,Buckner,AVG,5.0
+5313172,8/31/2019,FBS,Ohio,Rhode Island,PUNT RETURNS,Jerome,Buckner,LONG,9
+5313173,8/31/2019,FBS,Ohio,Rhode Island,KICK RETURNS,Isiah,Cox,NO,1
+5313174,8/31/2019,FBS,Ohio,Rhode Island,KICK RETURNS,Isiah,Cox,YDS,15
+5313175,8/31/2019,FBS,Ohio,Rhode Island,KICK RETURNS,Isiah,Cox,AVG,15.0
+5313176,8/31/2019,FBS,Ohio,Rhode Island,KICK RETURNS,Isiah,Cox,LONG,15
+5313177,8/31/2019,FBS,Ohio,Rhode Island,KICK RETURNS,DL,Knock,NO,1
+5313178,8/31/2019,FBS,Ohio,Rhode Island,KICK RETURNS,DL,Knock,YDS,15
+5313179,8/31/2019,FBS,Ohio,Rhode Island,KICK RETURNS,DL,Knock,AVG,15.0
+5313180,8/31/2019,FBS,Ohio,Rhode Island,KICK RETURNS,DL,Knock,LONG,15
+5313181,8/31/2019,FBS,Ohio,Rhode Island,KICK RETURNS,Jack,McCrory,NO,1
+5313182,8/31/2019,FBS,Ohio,Rhode Island,KICK RETURNS,Jack,McCrory,YDS,8
+5313183,8/31/2019,FBS,Ohio,Rhode Island,KICK RETURNS,Jack,McCrory,AVG,8.0
+5313184,8/31/2019,FBS,Ohio,Rhode Island,KICK RETURNS,Jack,McCrory,LONG,8
+5313185,8/31/2019,FBS,Ohio,Rhode Island,DEFENSE,Jared,Dorsa,TOT,1
+5313186,8/31/2019,FBS,Ohio,Rhode Island,DEFENSE,Jared,Dorsa,SOLO,0
+5313187,8/31/2019,FBS,Ohio,Rhode Island,DEFENSE,Jared,Dorsa,SACKS,0.5
+5313188,8/31/2019,FBS,Ohio,Rhode Island,DEFENSE,Jared,Dorsa,TFL,0
+5313189,8/31/2019,FBS,Ohio,Rhode Island,DEFENSE,Jared,Dorsa,INT,0
+5313190,8/31/2019,FBS,Ohio,Rhode Island,DEFENSE,Jared,Dorsa,FF,0
+5313191,8/31/2019,FBS,Ohio,Rhode Island,DEFENSE,Jared,Dorsa,FR,0
+5313192,8/31/2019,FBS,Ohio,Rhode Island,DEFENSE,Cole,Baker,TOT,1
+5313193,8/31/2019,FBS,Ohio,Rhode Island,DEFENSE,Cole,Baker,SOLO,1
+5313194,8/31/2019,FBS,Ohio,Rhode Island,DEFENSE,Cole,Baker,SACKS,1.0
+5313195,8/31/2019,FBS,Ohio,Rhode Island,DEFENSE,Cole,Baker,TFL,1
+5313196,8/31/2019,FBS,Ohio,Rhode Island,DEFENSE,Cole,Baker,INT,0
+5313197,8/31/2019,FBS,Ohio,Rhode Island,DEFENSE,Cole,Baker,FF,0
+5313198,8/31/2019,FBS,Ohio,Rhode Island,DEFENSE,Cole,Baker,FR,0
+5313199,8/31/2019,FBS,Ohio,Rhode Island,DEFENSE,Marlin,Brooks,TOT,0
+5313200,8/31/2019,FBS,Ohio,Rhode Island,DEFENSE,Marlin,Brooks,SOLO,0
+5313201,8/31/2019,FBS,Ohio,Rhode Island,DEFENSE,Marlin,Brooks,SACKS,0.0
+5313202,8/31/2019,FBS,Ohio,Rhode Island,DEFENSE,Marlin,Brooks,TFL,0
+5313203,8/31/2019,FBS,Ohio,Rhode Island,DEFENSE,Marlin,Brooks,INT,1
+5313204,8/31/2019,FBS,Ohio,Rhode Island,DEFENSE,Marlin,Brooks,FF,0
+5313205,8/31/2019,FBS,Ohio,Rhode Island,DEFENSE,Marlin,Brooks,FR,0
+5313206,8/31/2019,FBS,Ohio,Rhode Island,DEFENSE,Jamal,Hudson,TOT,1
+5313207,8/31/2019,FBS,Ohio,Rhode Island,DEFENSE,Jamal,Hudson,SOLO,0
+5313208,8/31/2019,FBS,Ohio,Rhode Island,DEFENSE,Jamal,Hudson,SACKS,0.5
+5313209,8/31/2019,FBS,Ohio,Rhode Island,DEFENSE,Jamal,Hudson,TFL,0
+5313210,8/31/2019,FBS,Ohio,Rhode Island,DEFENSE,Jamal,Hudson,INT,0
+5313211,8/31/2019,FBS,Ohio,Rhode Island,DEFENSE,Jamal,Hudson,FF,0
+5313212,8/31/2019,FBS,Ohio,Rhode Island,DEFENSE,Jamal,Hudson,FR,0

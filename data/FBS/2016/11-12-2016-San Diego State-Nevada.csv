@@ -1,0 +1,133 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3293001,11/12/2016,FBS,San Diego State,Nevada,RUSHING,Rashaad,Penny,ATT,10
+3293002,11/12/2016,FBS,San Diego State,Nevada,RUSHING,Rashaad,Penny,YDS,208
+3293003,11/12/2016,FBS,San Diego State,Nevada,RUSHING,Rashaad,Penny,TD,2
+3293004,11/12/2016,FBS,San Diego State,Nevada,RUSHING,Rashaad,Penny,LONG,72
+3293005,11/12/2016,FBS,San Diego State,Nevada,RUSHING,Donnel,Pumphrey,ATT,26
+3293006,11/12/2016,FBS,San Diego State,Nevada,RUSHING,Donnel,Pumphrey,YDS,198
+3293007,11/12/2016,FBS,San Diego State,Nevada,RUSHING,Donnel,Pumphrey,TD,1
+3293008,11/12/2016,FBS,San Diego State,Nevada,RUSHING,Donnel,Pumphrey,LONG,42
+3293009,11/12/2016,FBS,San Diego State,Nevada,RUSHING,Juwan,Washington,ATT,5
+3293010,11/12/2016,FBS,San Diego State,Nevada,RUSHING,Juwan,Washington,YDS,70
+3293011,11/12/2016,FBS,San Diego State,Nevada,RUSHING,Juwan,Washington,TD,1
+3293012,11/12/2016,FBS,San Diego State,Nevada,RUSHING,Juwan,Washington,LONG,45
+3293013,11/12/2016,FBS,San Diego State,Nevada,RUSHING,Christian,Chapman,ATT,2
+3293014,11/12/2016,FBS,San Diego State,Nevada,RUSHING,Christian,Chapman,YDS,0
+3293015,11/12/2016,FBS,San Diego State,Nevada,RUSHING,Christian,Chapman,TD,0
+3293016,11/12/2016,FBS,San Diego State,Nevada,RUSHING,Christian,Chapman,LONG,10
+3293017,11/12/2016,FBS,San Diego State,Nevada,RUSHING,,Team,ATT,1
+3293018,11/12/2016,FBS,San Diego State,Nevada,RUSHING,,Team,YDS,-2
+3293019,11/12/2016,FBS,San Diego State,Nevada,RUSHING,,Team,TD,0
+3293020,11/12/2016,FBS,San Diego State,Nevada,RUSHING,,Team,LONG,-2
+3293021,11/12/2016,FBS,San Diego State,Nevada,PASSING,Christian,Chapman,CP-ATT-INT,11-16-0
+3293022,11/12/2016,FBS,San Diego State,Nevada,PASSING,Christian,Chapman,YDS,146
+3293023,11/12/2016,FBS,San Diego State,Nevada,PASSING,Christian,Chapman,TD,2
+3293024,11/12/2016,FBS,San Diego State,Nevada,PASSING,Christian,Chapman,LONG,22
+3293025,11/12/2016,FBS,San Diego State,Nevada,PASSING,,Team,CP-ATT-INT,0-1-0
+3293026,11/12/2016,FBS,San Diego State,Nevada,PASSING,,Team,YDS,0
+3293027,11/12/2016,FBS,San Diego State,Nevada,PASSING,,Team,TD,0
+3293028,11/12/2016,FBS,San Diego State,Nevada,PASSING,,Team,LONG,0
+3293029,11/12/2016,FBS,San Diego State,Nevada,RECEIVING,Mikah,Holder,REC,4
+3293030,11/12/2016,FBS,San Diego State,Nevada,RECEIVING,Mikah,Holder,YDS,45
+3293031,11/12/2016,FBS,San Diego State,Nevada,RECEIVING,Mikah,Holder,TD,1
+3293032,11/12/2016,FBS,San Diego State,Nevada,RECEIVING,Mikah,Holder,LONG,22
+3293033,11/12/2016,FBS,San Diego State,Nevada,RECEIVING,David,Wells,REC,2
+3293034,11/12/2016,FBS,San Diego State,Nevada,RECEIVING,David,Wells,YDS,35
+3293035,11/12/2016,FBS,San Diego State,Nevada,RECEIVING,David,Wells,TD,1
+3293036,11/12/2016,FBS,San Diego State,Nevada,RECEIVING,David,Wells,LONG,18
+3293037,11/12/2016,FBS,San Diego State,Nevada,RECEIVING,Rashaad,Penny,REC,2
+3293038,11/12/2016,FBS,San Diego State,Nevada,RECEIVING,Rashaad,Penny,YDS,20
+3293039,11/12/2016,FBS,San Diego State,Nevada,RECEIVING,Rashaad,Penny,TD,0
+3293040,11/12/2016,FBS,San Diego State,Nevada,RECEIVING,Rashaad,Penny,LONG,16
+3293041,11/12/2016,FBS,San Diego State,Nevada,RECEIVING,Nick,Bawden,REC,1
+3293042,11/12/2016,FBS,San Diego State,Nevada,RECEIVING,Nick,Bawden,YDS,19
+3293043,11/12/2016,FBS,San Diego State,Nevada,RECEIVING,Nick,Bawden,TD,0
+3293044,11/12/2016,FBS,San Diego State,Nevada,RECEIVING,Nick,Bawden,LONG,19
+3293045,11/12/2016,FBS,San Diego State,Nevada,RECEIVING,Eric,Judge,REC,1
+3293046,11/12/2016,FBS,San Diego State,Nevada,RECEIVING,Eric,Judge,YDS,16
+3293047,11/12/2016,FBS,San Diego State,Nevada,RECEIVING,Eric,Judge,TD,0
+3293048,11/12/2016,FBS,San Diego State,Nevada,RECEIVING,Eric,Judge,LONG,16
+3293049,11/12/2016,FBS,San Diego State,Nevada,RECEIVING,Quest,Truxton,REC,1
+3293050,11/12/2016,FBS,San Diego State,Nevada,RECEIVING,Quest,Truxton,YDS,11
+3293051,11/12/2016,FBS,San Diego State,Nevada,RECEIVING,Quest,Truxton,TD,0
+3293052,11/12/2016,FBS,San Diego State,Nevada,RECEIVING,Quest,Truxton,LONG,11
+3293053,11/12/2016,FBS,San Diego State,Nevada,KICKING,John,BaronII,FG-FGA,2/2
+3293054,11/12/2016,FBS,San Diego State,Nevada,KICKING,John,BaronII,LONG,31
+3293055,11/12/2016,FBS,San Diego State,Nevada,KICKING,John,BaronII,XP,4
+3293056,11/12/2016,FBS,San Diego State,Nevada,KICKING,John,BaronII,PTS,10
+3293057,11/12/2016,FBS,San Diego State,Nevada,PUNTING,Tanner,Blain,NO,1
+3293058,11/12/2016,FBS,San Diego State,Nevada,PUNTING,Tanner,Blain,YDS,35
+3293059,11/12/2016,FBS,San Diego State,Nevada,PUNTING,Tanner,Blain,AVG,35.0
+3293060,11/12/2016,FBS,San Diego State,Nevada,PUNTING,Tanner,Blain,LONG,35
+3293061,11/12/2016,FBS,San Diego State,Nevada,PUNT RETURNS,Quest,Truxton,NO,1
+3293062,11/12/2016,FBS,San Diego State,Nevada,PUNT RETURNS,Quest,Truxton,YDS,-1
+3293063,11/12/2016,FBS,San Diego State,Nevada,PUNT RETURNS,Quest,Truxton,AVG,-
+3293064,11/12/2016,FBS,San Diego State,Nevada,PUNT RETURNS,Quest,Truxton,LONG,-1
+3293065,11/12/2016,FBS,San Diego State,Nevada,KICK RETURNS,Juwan,Washington,NO,2
+3293066,11/12/2016,FBS,San Diego State,Nevada,KICK RETURNS,Juwan,Washington,YDS,29
+3293067,11/12/2016,FBS,San Diego State,Nevada,KICK RETURNS,Juwan,Washington,AVG,14.5
+3293068,11/12/2016,FBS,San Diego State,Nevada,KICK RETURNS,Juwan,Washington,LONG,17
+3293069,11/12/2016,FBS,Nevada,San Diego State,RUSHING,Jaxson,Kincaide,ATT,10
+3293070,11/12/2016,FBS,Nevada,San Diego State,RUSHING,Jaxson,Kincaide,YDS,41
+3293071,11/12/2016,FBS,Nevada,San Diego State,RUSHING,Jaxson,Kincaide,TD,0
+3293072,11/12/2016,FBS,Nevada,San Diego State,RUSHING,Jaxson,Kincaide,LONG,9
+3293073,11/12/2016,FBS,Nevada,San Diego State,RUSHING,James,Butler,ATT,14
+3293074,11/12/2016,FBS,Nevada,San Diego State,RUSHING,James,Butler,YDS,32
+3293075,11/12/2016,FBS,Nevada,San Diego State,RUSHING,James,Butler,TD,0
+3293076,11/12/2016,FBS,Nevada,San Diego State,RUSHING,James,Butler,LONG,6
+3293077,11/12/2016,FBS,Nevada,San Diego State,RUSHING,Blake,Wright,ATT,3
+3293078,11/12/2016,FBS,Nevada,San Diego State,RUSHING,Blake,Wright,YDS,9
+3293079,11/12/2016,FBS,Nevada,San Diego State,RUSHING,Blake,Wright,TD,0
+3293080,11/12/2016,FBS,Nevada,San Diego State,RUSHING,Blake,Wright,LONG,8
+3293081,11/12/2016,FBS,Nevada,San Diego State,RUSHING,Ty,Gangi,ATT,7
+3293082,11/12/2016,FBS,Nevada,San Diego State,RUSHING,Ty,Gangi,YDS,8
+3293083,11/12/2016,FBS,Nevada,San Diego State,RUSHING,Ty,Gangi,TD,0
+3293084,11/12/2016,FBS,Nevada,San Diego State,RUSHING,Ty,Gangi,LONG,10
+3293085,11/12/2016,FBS,Nevada,San Diego State,PASSING,Ty,Gangi,CP-ATT-INT,21-37-3
+3293086,11/12/2016,FBS,Nevada,San Diego State,PASSING,Ty,Gangi,YDS,276
+3293087,11/12/2016,FBS,Nevada,San Diego State,PASSING,Ty,Gangi,TD,2
+3293088,11/12/2016,FBS,Nevada,San Diego State,PASSING,Ty,Gangi,LONG,40
+3293089,11/12/2016,FBS,Nevada,San Diego State,RECEIVING,Wyatt,Demps,REC,4
+3293090,11/12/2016,FBS,Nevada,San Diego State,RECEIVING,Wyatt,Demps,YDS,93
+3293091,11/12/2016,FBS,Nevada,San Diego State,RECEIVING,Wyatt,Demps,TD,1
+3293092,11/12/2016,FBS,Nevada,San Diego State,RECEIVING,Wyatt,Demps,LONG,40
+3293093,11/12/2016,FBS,Nevada,San Diego State,RECEIVING,Andrew,Celis,REC,4
+3293094,11/12/2016,FBS,Nevada,San Diego State,RECEIVING,Andrew,Celis,YDS,42
+3293095,11/12/2016,FBS,Nevada,San Diego State,RECEIVING,Andrew,Celis,TD,0
+3293096,11/12/2016,FBS,Nevada,San Diego State,RECEIVING,Andrew,Celis,LONG,19
+3293097,11/12/2016,FBS,Nevada,San Diego State,RECEIVING,Victor,Gonzalez,REC,1
+3293098,11/12/2016,FBS,Nevada,San Diego State,RECEIVING,Victor,Gonzalez,YDS,39
+3293099,11/12/2016,FBS,Nevada,San Diego State,RECEIVING,Victor,Gonzalez,TD,0
+3293100,11/12/2016,FBS,Nevada,San Diego State,RECEIVING,Victor,Gonzalez,LONG,39
+3293101,11/12/2016,FBS,Nevada,San Diego State,RECEIVING,Jarred,Gipson,REC,7
+3293102,11/12/2016,FBS,Nevada,San Diego State,RECEIVING,Jarred,Gipson,YDS,38
+3293103,11/12/2016,FBS,Nevada,San Diego State,RECEIVING,Jarred,Gipson,TD,0
+3293104,11/12/2016,FBS,Nevada,San Diego State,RECEIVING,Jarred,Gipson,LONG,21
+3293105,11/12/2016,FBS,Nevada,San Diego State,RECEIVING,Brandon,Scott,REC,1
+3293106,11/12/2016,FBS,Nevada,San Diego State,RECEIVING,Brandon,Scott,YDS,25
+3293107,11/12/2016,FBS,Nevada,San Diego State,RECEIVING,Brandon,Scott,TD,0
+3293108,11/12/2016,FBS,Nevada,San Diego State,RECEIVING,Brandon,Scott,LONG,25
+3293109,11/12/2016,FBS,Nevada,San Diego State,RECEIVING,Hasaan,Henderson,REC,2
+3293110,11/12/2016,FBS,Nevada,San Diego State,RECEIVING,Hasaan,Henderson,YDS,24
+3293111,11/12/2016,FBS,Nevada,San Diego State,RECEIVING,Hasaan,Henderson,TD,1
+3293112,11/12/2016,FBS,Nevada,San Diego State,RECEIVING,Hasaan,Henderson,LONG,12
+3293113,11/12/2016,FBS,Nevada,San Diego State,RECEIVING,James,Butler,REC,2
+3293114,11/12/2016,FBS,Nevada,San Diego State,RECEIVING,James,Butler,YDS,15
+3293115,11/12/2016,FBS,Nevada,San Diego State,RECEIVING,James,Butler,TD,0
+3293116,11/12/2016,FBS,Nevada,San Diego State,RECEIVING,James,Butler,LONG,12
+3293117,11/12/2016,FBS,Nevada,San Diego State,KICKING,Spencer,Pettit,FG-FGA,0/0
+3293118,11/12/2016,FBS,Nevada,San Diego State,KICKING,Spencer,Pettit,LONG,-
+3293119,11/12/2016,FBS,Nevada,San Diego State,KICKING,Spencer,Pettit,XP,2
+3293120,11/12/2016,FBS,Nevada,San Diego State,KICKING,Spencer,Pettit,PTS,2
+3293121,11/12/2016,FBS,Nevada,San Diego State,PUNTING,Alex,Boy,NO,4
+3293122,11/12/2016,FBS,Nevada,San Diego State,PUNTING,Alex,Boy,YDS,160
+3293123,11/12/2016,FBS,Nevada,San Diego State,PUNTING,Alex,Boy,AVG,40.0
+3293124,11/12/2016,FBS,Nevada,San Diego State,PUNTING,Alex,Boy,LONG,52
+3293125,11/12/2016,FBS,Nevada,San Diego State,PUNT RETURNS,Andrew,Celis,NO,0
+3293126,11/12/2016,FBS,Nevada,San Diego State,PUNT RETURNS,Andrew,Celis,YDS,0
+3293127,11/12/2016,FBS,Nevada,San Diego State,PUNT RETURNS,Andrew,Celis,AVG,-
+3293128,11/12/2016,FBS,Nevada,San Diego State,PUNT RETURNS,Andrew,Celis,LONG,0
+3293129,11/12/2016,FBS,Nevada,San Diego State,KICK RETURNS,Elijah,Mitchell,NO,2
+3293130,11/12/2016,FBS,Nevada,San Diego State,KICK RETURNS,Elijah,Mitchell,YDS,39
+3293131,11/12/2016,FBS,Nevada,San Diego State,KICK RETURNS,Elijah,Mitchell,AVG,19.5
+3293132,11/12/2016,FBS,Nevada,San Diego State,KICK RETURNS,Elijah,Mitchell,LONG,23

@@ -1,0 +1,220 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+5481001,9/14/2019,FBS,Weber St.,Nevada,RUSHING,Kevin,Smith,ATT,13
+5481002,9/14/2019,FBS,Weber St.,Nevada,RUSHING,Kevin,Smith,YDS,26
+5481003,9/14/2019,FBS,Weber St.,Nevada,RUSHING,Kevin,Smith,TD,0
+5481004,9/14/2019,FBS,Weber St.,Nevada,RUSHING,Kevin,Smith,LONG,16
+5481005,9/14/2019,FBS,Weber St.,Nevada,RUSHING,Josh,Davis,ATT,9
+5481006,9/14/2019,FBS,Weber St.,Nevada,RUSHING,Josh,Davis,YDS,25
+5481007,9/14/2019,FBS,Weber St.,Nevada,RUSHING,Josh,Davis,TD,0
+5481008,9/14/2019,FBS,Weber St.,Nevada,RUSHING,Josh,Davis,LONG,21
+5481009,9/14/2019,FBS,Weber St.,Nevada,RUSHING,Doug,Lloyd,ATT,1
+5481010,9/14/2019,FBS,Weber St.,Nevada,RUSHING,Doug,Lloyd,YDS,17
+5481011,9/14/2019,FBS,Weber St.,Nevada,RUSHING,Doug,Lloyd,TD,0
+5481012,9/14/2019,FBS,Weber St.,Nevada,RUSHING,Doug,Lloyd,LONG,17
+5481013,9/14/2019,FBS,Weber St.,Nevada,RUSHING,Noah,Atagi,ATT,0
+5481014,9/14/2019,FBS,Weber St.,Nevada,RUSHING,Noah,Atagi,YDS,0
+5481015,9/14/2019,FBS,Weber St.,Nevada,RUSHING,Noah,Atagi,TD,0
+5481016,9/14/2019,FBS,Weber St.,Nevada,RUSHING,Noah,Atagi,LONG,0
+5481017,9/14/2019,FBS,Weber St.,Nevada,RUSHING,,Team,ATT,1
+5481018,9/14/2019,FBS,Weber St.,Nevada,RUSHING,,Team,YDS,-1
+5481019,9/14/2019,FBS,Weber St.,Nevada,RUSHING,,Team,TD,0
+5481020,9/14/2019,FBS,Weber St.,Nevada,RUSHING,,Team,LONG,-1
+5481021,9/14/2019,FBS,Weber St.,Nevada,RUSHING,Kaden,Jenks,ATT,3
+5481022,9/14/2019,FBS,Weber St.,Nevada,RUSHING,Kaden,Jenks,YDS,-5
+5481023,9/14/2019,FBS,Weber St.,Nevada,RUSHING,Kaden,Jenks,TD,0
+5481024,9/14/2019,FBS,Weber St.,Nevada,RUSHING,Kaden,Jenks,LONG,5
+5481025,9/14/2019,FBS,Weber St.,Nevada,PASSING,Kaden,Jenks,CP-ATT-INT,6-21-1
+5481026,9/14/2019,FBS,Weber St.,Nevada,PASSING,Kaden,Jenks,YDS,57
+5481027,9/14/2019,FBS,Weber St.,Nevada,PASSING,Kaden,Jenks,TD,1
+5481028,9/14/2019,FBS,Weber St.,Nevada,PASSING,Kaden,Jenks,LONG,21
+5481029,9/14/2019,FBS,Weber St.,Nevada,PASSING,Kylan,Weisser,CP-ATT-INT,1-1-0
+5481030,9/14/2019,FBS,Weber St.,Nevada,PASSING,Kylan,Weisser,YDS,6
+5481031,9/14/2019,FBS,Weber St.,Nevada,PASSING,Kylan,Weisser,TD,0
+5481032,9/14/2019,FBS,Weber St.,Nevada,PASSING,Kylan,Weisser,LONG,6
+5481033,9/14/2019,FBS,Weber St.,Nevada,RECEIVING,Rashid,Shaheed,REC,3
+5481034,9/14/2019,FBS,Weber St.,Nevada,RECEIVING,Rashid,Shaheed,YDS,30
+5481035,9/14/2019,FBS,Weber St.,Nevada,RECEIVING,Rashid,Shaheed,TD,1
+5481036,9/14/2019,FBS,Weber St.,Nevada,RECEIVING,Rashid,Shaheed,LONG,13
+5481037,9/14/2019,FBS,Weber St.,Nevada,RECEIVING,Devon,Cooley,REC,1
+5481038,9/14/2019,FBS,Weber St.,Nevada,RECEIVING,Devon,Cooley,YDS,21
+5481039,9/14/2019,FBS,Weber St.,Nevada,RECEIVING,Devon,Cooley,TD,0
+5481040,9/14/2019,FBS,Weber St.,Nevada,RECEIVING,Devon,Cooley,LONG,21
+5481041,9/14/2019,FBS,Weber St.,Nevada,RECEIVING,Kevin,Smith,REC,2
+5481042,9/14/2019,FBS,Weber St.,Nevada,RECEIVING,Kevin,Smith,YDS,6
+5481043,9/14/2019,FBS,Weber St.,Nevada,RECEIVING,Kevin,Smith,TD,0
+5481044,9/14/2019,FBS,Weber St.,Nevada,RECEIVING,Kevin,Smith,LONG,10
+5481045,9/14/2019,FBS,Weber St.,Nevada,RECEIVING,Josh,Davis,REC,1
+5481046,9/14/2019,FBS,Weber St.,Nevada,RECEIVING,Josh,Davis,YDS,6
+5481047,9/14/2019,FBS,Weber St.,Nevada,RECEIVING,Josh,Davis,TD,0
+5481048,9/14/2019,FBS,Weber St.,Nevada,RECEIVING,Josh,Davis,LONG,6
+5481049,9/14/2019,FBS,Weber St.,Nevada,KICKING,Trey,Tuttle,FG-FGA,2/2
+5481050,9/14/2019,FBS,Weber St.,Nevada,KICKING,Trey,Tuttle,LONG,47
+5481051,9/14/2019,FBS,Weber St.,Nevada,KICKING,Trey,Tuttle,XP,1
+5481052,9/14/2019,FBS,Weber St.,Nevada,KICKING,Trey,Tuttle,PTS,7
+5481053,9/14/2019,FBS,Weber St.,Nevada,PUNTING,Doug,Lloyd,NO,8
+5481054,9/14/2019,FBS,Weber St.,Nevada,PUNTING,Doug,Lloyd,YDS,347
+5481055,9/14/2019,FBS,Weber St.,Nevada,PUNTING,Doug,Lloyd,AVG,43.4
+5481056,9/14/2019,FBS,Weber St.,Nevada,PUNTING,Doug,Lloyd,LONG,54
+5481057,9/14/2019,FBS,Weber St.,Nevada,PUNT RETURNS,Raoul,Johnson,NO,1
+5481058,9/14/2019,FBS,Weber St.,Nevada,PUNT RETURNS,Raoul,Johnson,YDS,5
+5481059,9/14/2019,FBS,Weber St.,Nevada,PUNT RETURNS,Raoul,Johnson,AVG,5.0
+5481060,9/14/2019,FBS,Weber St.,Nevada,PUNT RETURNS,Raoul,Johnson,LONG,0
+5481061,9/14/2019,FBS,Weber St.,Nevada,PUNT RETURNS,Jon,Christensen,NO,1
+5481062,9/14/2019,FBS,Weber St.,Nevada,PUNT RETURNS,Jon,Christensen,YDS,2
+5481063,9/14/2019,FBS,Weber St.,Nevada,PUNT RETURNS,Jon,Christensen,AVG,2.0
+5481064,9/14/2019,FBS,Weber St.,Nevada,PUNT RETURNS,Jon,Christensen,LONG,2
+5481065,9/14/2019,FBS,Weber St.,Nevada,PUNT RETURNS,Rashid,Shaheed,NO,1
+5481066,9/14/2019,FBS,Weber St.,Nevada,PUNT RETURNS,Rashid,Shaheed,YDS,1
+5481067,9/14/2019,FBS,Weber St.,Nevada,PUNT RETURNS,Rashid,Shaheed,AVG,1.0
+5481068,9/14/2019,FBS,Weber St.,Nevada,PUNT RETURNS,Rashid,Shaheed,LONG,1
+5481069,9/14/2019,FBS,Weber St.,Nevada,KICK RETURNS,Rashid,Shaheed,NO,1
+5481070,9/14/2019,FBS,Weber St.,Nevada,KICK RETURNS,Rashid,Shaheed,YDS,14
+5481071,9/14/2019,FBS,Weber St.,Nevada,KICK RETURNS,Rashid,Shaheed,AVG,14.0
+5481072,9/14/2019,FBS,Weber St.,Nevada,KICK RETURNS,Rashid,Shaheed,LONG,14
+5481073,9/14/2019,FBS,Weber St.,Nevada,KICK RETURNS,Auston,Tesch,NO,1
+5481074,9/14/2019,FBS,Weber St.,Nevada,KICK RETURNS,Auston,Tesch,YDS,1
+5481075,9/14/2019,FBS,Weber St.,Nevada,KICK RETURNS,Auston,Tesch,AVG,1.0
+5481076,9/14/2019,FBS,Weber St.,Nevada,KICK RETURNS,Auston,Tesch,LONG,1
+5481077,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,Jonah,Williams,TOT,3
+5481078,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,Jonah,Williams,SOLO,3
+5481079,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,Jonah,Williams,SACKS,3.0
+5481080,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,Jonah,Williams,TFL,3
+5481081,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,Jonah,Williams,INT,0
+5481082,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,Jonah,Williams,FF,0
+5481083,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,Jonah,Williams,FR,0
+5481084,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,Jared,Schiess,TOT,1
+5481085,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,Jared,Schiess,SOLO,1
+5481086,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,Jared,Schiess,SACKS,0.0
+5481087,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,Jared,Schiess,TFL,1
+5481088,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,Jared,Schiess,INT,0
+5481089,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,Jared,Schiess,FF,0
+5481090,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,Jared,Schiess,FR,1
+5481091,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,McKade,Mitton,TOT,1
+5481092,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,McKade,Mitton,SOLO,1
+5481093,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,McKade,Mitton,SACKS,1.0
+5481094,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,McKade,Mitton,TFL,1
+5481095,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,McKade,Mitton,INT,0
+5481096,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,McKade,Mitton,FF,0
+5481097,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,McKade,Mitton,FR,0
+5481098,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,Maxwell,Anderson,TOT,0
+5481099,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,Maxwell,Anderson,SOLO,0
+5481100,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,Maxwell,Anderson,SACKS,0.0
+5481101,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,Maxwell,Anderson,TFL,0
+5481102,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,Maxwell,Anderson,INT,1
+5481103,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,Maxwell,Anderson,FF,0
+5481104,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,Maxwell,Anderson,FR,0
+5481105,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,Raoul,Johnson,TOT,0
+5481106,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,Raoul,Johnson,SOLO,0
+5481107,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,Raoul,Johnson,SACKS,0.0
+5481108,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,Raoul,Johnson,TFL,1
+5481109,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,Raoul,Johnson,INT,0
+5481110,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,Raoul,Johnson,FF,0
+5481111,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,Raoul,Johnson,FR,0
+5481112,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,Preston,Smith,TOT,0
+5481113,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,Preston,Smith,SOLO,0
+5481114,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,Preston,Smith,SACKS,0.0
+5481115,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,Preston,Smith,TFL,0
+5481116,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,Preston,Smith,INT,1
+5481117,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,Preston,Smith,FF,0
+5481118,9/14/2019,FBS,Weber St.,Nevada,DEFENSE,Preston,Smith,FR,0
+5481119,9/14/2019,FBS,Nevada,Weber St.,RUSHING,Toa,Taua,ATT,16
+5481120,9/14/2019,FBS,Nevada,Weber St.,RUSHING,Toa,Taua,YDS,85
+5481121,9/14/2019,FBS,Nevada,Weber St.,RUSHING,Toa,Taua,TD,0
+5481122,9/14/2019,FBS,Nevada,Weber St.,RUSHING,Toa,Taua,LONG,17
+5481123,9/14/2019,FBS,Nevada,Weber St.,RUSHING,Jaxson,Kincaide,ATT,11
+5481124,9/14/2019,FBS,Nevada,Weber St.,RUSHING,Jaxson,Kincaide,YDS,75
+5481125,9/14/2019,FBS,Nevada,Weber St.,RUSHING,Jaxson,Kincaide,TD,1
+5481126,9/14/2019,FBS,Nevada,Weber St.,RUSHING,Jaxson,Kincaide,LONG,33
+5481127,9/14/2019,FBS,Nevada,Weber St.,RUSHING,Kelton,Moore,ATT,7
+5481128,9/14/2019,FBS,Nevada,Weber St.,RUSHING,Kelton,Moore,YDS,9
+5481129,9/14/2019,FBS,Nevada,Weber St.,RUSHING,Kelton,Moore,TD,0
+5481130,9/14/2019,FBS,Nevada,Weber St.,RUSHING,Kelton,Moore,LONG,11
+5481131,9/14/2019,FBS,Nevada,Weber St.,RUSHING,,Team,ATT,1
+5481132,9/14/2019,FBS,Nevada,Weber St.,RUSHING,,Team,YDS,-1
+5481133,9/14/2019,FBS,Nevada,Weber St.,RUSHING,,Team,TD,0
+5481134,9/14/2019,FBS,Nevada,Weber St.,RUSHING,,Team,LONG,-1
+5481135,9/14/2019,FBS,Nevada,Weber St.,RUSHING,Carson,Strong,ATT,7
+5481136,9/14/2019,FBS,Nevada,Weber St.,RUSHING,Carson,Strong,YDS,-15
+5481137,9/14/2019,FBS,Nevada,Weber St.,RUSHING,Carson,Strong,TD,0
+5481138,9/14/2019,FBS,Nevada,Weber St.,RUSHING,Carson,Strong,LONG,14
+5481139,9/14/2019,FBS,Nevada,Weber St.,PASSING,Carson,Strong,CP-ATT-INT,30-44-2
+5481140,9/14/2019,FBS,Nevada,Weber St.,PASSING,Carson,Strong,YDS,299
+5481141,9/14/2019,FBS,Nevada,Weber St.,PASSING,Carson,Strong,TD,0
+5481142,9/14/2019,FBS,Nevada,Weber St.,PASSING,Carson,Strong,LONG,35
+5481143,9/14/2019,FBS,Nevada,Weber St.,PASSING,Kelton,Moore,CP-ATT-INT,1-1-0
+5481144,9/14/2019,FBS,Nevada,Weber St.,PASSING,Kelton,Moore,YDS,1
+5481145,9/14/2019,FBS,Nevada,Weber St.,PASSING,Kelton,Moore,TD,0
+5481146,9/14/2019,FBS,Nevada,Weber St.,PASSING,Kelton,Moore,LONG,1
+5481147,9/14/2019,FBS,Nevada,Weber St.,RECEIVING,Kaleb,Fossum,REC,5
+5481148,9/14/2019,FBS,Nevada,Weber St.,RECEIVING,Kaleb,Fossum,YDS,77
+5481149,9/14/2019,FBS,Nevada,Weber St.,RECEIVING,Kaleb,Fossum,TD,0
+5481150,9/14/2019,FBS,Nevada,Weber St.,RECEIVING,Kaleb,Fossum,LONG,26
+5481151,9/14/2019,FBS,Nevada,Weber St.,RECEIVING,Elijah,Cooks,REC,6
+5481152,9/14/2019,FBS,Nevada,Weber St.,RECEIVING,Elijah,Cooks,YDS,65
+5481153,9/14/2019,FBS,Nevada,Weber St.,RECEIVING,Elijah,Cooks,TD,0
+5481154,9/14/2019,FBS,Nevada,Weber St.,RECEIVING,Elijah,Cooks,LONG,27
+5481155,9/14/2019,FBS,Nevada,Weber St.,RECEIVING,Ben,Putman,REC,4
+5481156,9/14/2019,FBS,Nevada,Weber St.,RECEIVING,Ben,Putman,YDS,57
+5481157,9/14/2019,FBS,Nevada,Weber St.,RECEIVING,Ben,Putman,TD,0
+5481158,9/14/2019,FBS,Nevada,Weber St.,RECEIVING,Ben,Putman,LONG,24
+5481159,9/14/2019,FBS,Nevada,Weber St.,RECEIVING,Jaxson,Kincaide,REC,5
+5481160,9/14/2019,FBS,Nevada,Weber St.,RECEIVING,Jaxson,Kincaide,YDS,51
+5481161,9/14/2019,FBS,Nevada,Weber St.,RECEIVING,Jaxson,Kincaide,TD,0
+5481162,9/14/2019,FBS,Nevada,Weber St.,RECEIVING,Jaxson,Kincaide,LONG,35
+5481163,9/14/2019,FBS,Nevada,Weber St.,RECEIVING,Dominic,Christian,REC,3
+5481164,9/14/2019,FBS,Nevada,Weber St.,RECEIVING,Dominic,Christian,YDS,33
+5481165,9/14/2019,FBS,Nevada,Weber St.,RECEIVING,Dominic,Christian,TD,0
+5481166,9/14/2019,FBS,Nevada,Weber St.,RECEIVING,Dominic,Christian,LONG,14
+5481167,9/14/2019,FBS,Nevada,Weber St.,RECEIVING,Melquan,Stovall,REC,1
+5481168,9/14/2019,FBS,Nevada,Weber St.,RECEIVING,Melquan,Stovall,YDS,11
+5481169,9/14/2019,FBS,Nevada,Weber St.,RECEIVING,Melquan,Stovall,TD,0
+5481170,9/14/2019,FBS,Nevada,Weber St.,RECEIVING,Melquan,Stovall,LONG,11
+5481171,9/14/2019,FBS,Nevada,Weber St.,RECEIVING,Toa,Taua,REC,3
+5481172,9/14/2019,FBS,Nevada,Weber St.,RECEIVING,Toa,Taua,YDS,9
+5481173,9/14/2019,FBS,Nevada,Weber St.,RECEIVING,Toa,Taua,TD,0
+5481174,9/14/2019,FBS,Nevada,Weber St.,RECEIVING,Toa,Taua,LONG,8
+5481175,9/14/2019,FBS,Nevada,Weber St.,RECEIVING,Henry,Ikahihfo,REC,1
+5481176,9/14/2019,FBS,Nevada,Weber St.,RECEIVING,Henry,Ikahihfo,YDS,0
+5481177,9/14/2019,FBS,Nevada,Weber St.,RECEIVING,Henry,Ikahihfo,TD,0
+5481178,9/14/2019,FBS,Nevada,Weber St.,RECEIVING,Henry,Ikahihfo,LONG,0
+5481179,9/14/2019,FBS,Nevada,Weber St.,RECEIVING,Kelton,Moore,REC,3
+5481180,9/14/2019,FBS,Nevada,Weber St.,RECEIVING,Kelton,Moore,YDS,-3
+5481181,9/14/2019,FBS,Nevada,Weber St.,RECEIVING,Kelton,Moore,TD,0
+5481182,9/14/2019,FBS,Nevada,Weber St.,RECEIVING,Kelton,Moore,LONG,2
+5481183,9/14/2019,FBS,Nevada,Weber St.,KICKING,Brandon,Talton,FG-FGA,4/4
+5481184,9/14/2019,FBS,Nevada,Weber St.,KICKING,Brandon,Talton,LONG,36
+5481185,9/14/2019,FBS,Nevada,Weber St.,KICKING,Brandon,Talton,XP,1
+5481186,9/14/2019,FBS,Nevada,Weber St.,KICKING,Brandon,Talton,PTS,13
+5481187,9/14/2019,FBS,Nevada,Weber St.,PUNTING,Quinton,Conaway,NO,3
+5481188,9/14/2019,FBS,Nevada,Weber St.,PUNTING,Quinton,Conaway,YDS,126
+5481189,9/14/2019,FBS,Nevada,Weber St.,PUNTING,Quinton,Conaway,AVG,31.5
+5481190,9/14/2019,FBS,Nevada,Weber St.,PUNTING,Quinton,Conaway,LONG,56
+5481191,9/14/2019,FBS,Nevada,Weber St.,PUNT RETURNS,Kaleb,Fossum,NO,2
+5481192,9/14/2019,FBS,Nevada,Weber St.,PUNT RETURNS,Kaleb,Fossum,YDS,7
+5481193,9/14/2019,FBS,Nevada,Weber St.,PUNT RETURNS,Kaleb,Fossum,AVG,3.5
+5481194,9/14/2019,FBS,Nevada,Weber St.,PUNT RETURNS,Kaleb,Fossum,LONG,8
+5481195,9/14/2019,FBS,Nevada,Weber St.,KICK RETURNS,Jaxson,Kincaide,NO,1
+5481196,9/14/2019,FBS,Nevada,Weber St.,KICK RETURNS,Jaxson,Kincaide,YDS,24
+5481197,9/14/2019,FBS,Nevada,Weber St.,KICK RETURNS,Jaxson,Kincaide,AVG,24.0
+5481198,9/14/2019,FBS,Nevada,Weber St.,KICK RETURNS,Jaxson,Kincaide,LONG,24
+5481199,9/14/2019,FBS,Nevada,Weber St.,DEFENSE,Sam,Hammond,TOT,1
+5481200,9/14/2019,FBS,Nevada,Weber St.,DEFENSE,Sam,Hammond,SOLO,0
+5481201,9/14/2019,FBS,Nevada,Weber St.,DEFENSE,Sam,Hammond,SACKS,0.5
+5481202,9/14/2019,FBS,Nevada,Weber St.,DEFENSE,Sam,Hammond,TFL,0
+5481203,9/14/2019,FBS,Nevada,Weber St.,DEFENSE,Sam,Hammond,INT,0
+5481204,9/14/2019,FBS,Nevada,Weber St.,DEFENSE,Sam,Hammond,FF,0
+5481205,9/14/2019,FBS,Nevada,Weber St.,DEFENSE,Sam,Hammond,FR,0
+5481206,9/14/2019,FBS,Nevada,Weber St.,DEFENSE,Tristan,Nichols,TOT,1
+5481207,9/14/2019,FBS,Nevada,Weber St.,DEFENSE,Tristan,Nichols,SOLO,0
+5481208,9/14/2019,FBS,Nevada,Weber St.,DEFENSE,Tristan,Nichols,SACKS,0.5
+5481209,9/14/2019,FBS,Nevada,Weber St.,DEFENSE,Tristan,Nichols,TFL,0
+5481210,9/14/2019,FBS,Nevada,Weber St.,DEFENSE,Tristan,Nichols,INT,0
+5481211,9/14/2019,FBS,Nevada,Weber St.,DEFENSE,Tristan,Nichols,FF,1
+5481212,9/14/2019,FBS,Nevada,Weber St.,DEFENSE,Tristan,Nichols,FR,0
+5481213,9/14/2019,FBS,Nevada,Weber St.,DEFENSE,Daniel,Brown,TOT,0
+5481214,9/14/2019,FBS,Nevada,Weber St.,DEFENSE,Daniel,Brown,SOLO,0
+5481215,9/14/2019,FBS,Nevada,Weber St.,DEFENSE,Daniel,Brown,SACKS,0.0
+5481216,9/14/2019,FBS,Nevada,Weber St.,DEFENSE,Daniel,Brown,TFL,1
+5481217,9/14/2019,FBS,Nevada,Weber St.,DEFENSE,Daniel,Brown,INT,1
+5481218,9/14/2019,FBS,Nevada,Weber St.,DEFENSE,Daniel,Brown,FF,0
+5481219,9/14/2019,FBS,Nevada,Weber St.,DEFENSE,Daniel,Brown,FR,0

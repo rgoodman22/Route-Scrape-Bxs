@@ -1,0 +1,157 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3981001,10/21/2017,FBS,Oklahoma State,Texas,RUSHING,Justice,Hill,ATT,33
+3981002,10/21/2017,FBS,Oklahoma State,Texas,RUSHING,Justice,Hill,YDS,117
+3981003,10/21/2017,FBS,Oklahoma State,Texas,RUSHING,Justice,Hill,TD,0
+3981004,10/21/2017,FBS,Oklahoma State,Texas,RUSHING,Justice,Hill,LONG,15
+3981005,10/21/2017,FBS,Oklahoma State,Texas,RUSHING,J.D.,King,ATT,11
+3981006,10/21/2017,FBS,Oklahoma State,Texas,RUSHING,J.D.,King,YDS,43
+3981007,10/21/2017,FBS,Oklahoma State,Texas,RUSHING,J.D.,King,TD,1
+3981008,10/21/2017,FBS,Oklahoma State,Texas,RUSHING,J.D.,King,LONG,10
+3981009,10/21/2017,FBS,Oklahoma State,Texas,RUSHING,Mason,Rudolph,ATT,7
+3981010,10/21/2017,FBS,Oklahoma State,Texas,RUSHING,Mason,Rudolph,YDS,-14
+3981011,10/21/2017,FBS,Oklahoma State,Texas,RUSHING,Mason,Rudolph,TD,0
+3981012,10/21/2017,FBS,Oklahoma State,Texas,RUSHING,Mason,Rudolph,LONG,4
+3981013,10/21/2017,FBS,Oklahoma State,Texas,PASSING,Mason,Rudolph,CP-ATT-INT,25-38-0
+3981014,10/21/2017,FBS,Oklahoma State,Texas,PASSING,Mason,Rudolph,YDS,282
+3981015,10/21/2017,FBS,Oklahoma State,Texas,PASSING,Mason,Rudolph,TD,0
+3981016,10/21/2017,FBS,Oklahoma State,Texas,PASSING,Mason,Rudolph,LONG,66
+3981017,10/21/2017,FBS,Oklahoma State,Texas,RECEIVING,Marcell,Ateman,REC,4
+3981018,10/21/2017,FBS,Oklahoma State,Texas,RECEIVING,Marcell,Ateman,YDS,87
+3981019,10/21/2017,FBS,Oklahoma State,Texas,RECEIVING,Marcell,Ateman,TD,0
+3981020,10/21/2017,FBS,Oklahoma State,Texas,RECEIVING,Marcell,Ateman,LONG,66
+3981021,10/21/2017,FBS,Oklahoma State,Texas,RECEIVING,Jalen,McCleskey,REC,8
+3981022,10/21/2017,FBS,Oklahoma State,Texas,RECEIVING,Jalen,McCleskey,YDS,78
+3981023,10/21/2017,FBS,Oklahoma State,Texas,RECEIVING,Jalen,McCleskey,TD,0
+3981024,10/21/2017,FBS,Oklahoma State,Texas,RECEIVING,Jalen,McCleskey,LONG,29
+3981025,10/21/2017,FBS,Oklahoma State,Texas,RECEIVING,James,Washington,REC,4
+3981026,10/21/2017,FBS,Oklahoma State,Texas,RECEIVING,James,Washington,YDS,32
+3981027,10/21/2017,FBS,Oklahoma State,Texas,RECEIVING,James,Washington,TD,0
+3981028,10/21/2017,FBS,Oklahoma State,Texas,RECEIVING,James,Washington,LONG,14
+3981029,10/21/2017,FBS,Oklahoma State,Texas,RECEIVING,Chris,Lacy,REC,2
+3981030,10/21/2017,FBS,Oklahoma State,Texas,RECEIVING,Chris,Lacy,YDS,30
+3981031,10/21/2017,FBS,Oklahoma State,Texas,RECEIVING,Chris,Lacy,TD,0
+3981032,10/21/2017,FBS,Oklahoma State,Texas,RECEIVING,Chris,Lacy,LONG,20
+3981033,10/21/2017,FBS,Oklahoma State,Texas,RECEIVING,Justice,Hill,REC,3
+3981034,10/21/2017,FBS,Oklahoma State,Texas,RECEIVING,Justice,Hill,YDS,29
+3981035,10/21/2017,FBS,Oklahoma State,Texas,RECEIVING,Justice,Hill,TD,0
+3981036,10/21/2017,FBS,Oklahoma State,Texas,RECEIVING,Justice,Hill,LONG,20
+3981037,10/21/2017,FBS,Oklahoma State,Texas,RECEIVING,Dillon,Stoner,REC,2
+3981038,10/21/2017,FBS,Oklahoma State,Texas,RECEIVING,Dillon,Stoner,YDS,15
+3981039,10/21/2017,FBS,Oklahoma State,Texas,RECEIVING,Dillon,Stoner,TD,0
+3981040,10/21/2017,FBS,Oklahoma State,Texas,RECEIVING,Dillon,Stoner,LONG,8
+3981041,10/21/2017,FBS,Oklahoma State,Texas,RECEIVING,Tyron,Johnson,REC,2
+3981042,10/21/2017,FBS,Oklahoma State,Texas,RECEIVING,Tyron,Johnson,YDS,11
+3981043,10/21/2017,FBS,Oklahoma State,Texas,RECEIVING,Tyron,Johnson,TD,0
+3981044,10/21/2017,FBS,Oklahoma State,Texas,RECEIVING,Tyron,Johnson,LONG,7
+3981045,10/21/2017,FBS,Oklahoma State,Texas,KICKING,Matt,Ammendola,FG-FGA,2/3
+3981046,10/21/2017,FBS,Oklahoma State,Texas,KICKING,Matt,Ammendola,LONG,34
+3981047,10/21/2017,FBS,Oklahoma State,Texas,KICKING,Matt,Ammendola,XP,1
+3981048,10/21/2017,FBS,Oklahoma State,Texas,KICKING,Matt,Ammendola,PTS,7
+3981049,10/21/2017,FBS,Oklahoma State,Texas,PUNTING,Zach,Sinor,NO,9
+3981050,10/21/2017,FBS,Oklahoma State,Texas,PUNTING,Zach,Sinor,YDS,374
+3981051,10/21/2017,FBS,Oklahoma State,Texas,PUNTING,Zach,Sinor,AVG,41.6
+3981052,10/21/2017,FBS,Oklahoma State,Texas,PUNTING,Zach,Sinor,LONG,50
+3981053,10/21/2017,FBS,Oklahoma State,Texas,PUNT RETURNS,Dillon,Stoner,NO,3
+3981054,10/21/2017,FBS,Oklahoma State,Texas,PUNT RETURNS,Dillon,Stoner,YDS,14
+3981055,10/21/2017,FBS,Oklahoma State,Texas,PUNT RETURNS,Dillon,Stoner,AVG,4.7
+3981056,10/21/2017,FBS,Oklahoma State,Texas,PUNT RETURNS,Dillon,Stoner,LONG,13
+3981057,10/21/2017,FBS,Oklahoma State,Texas,KICK RETURNS,Tyron,Johnson,NO,1
+3981058,10/21/2017,FBS,Oklahoma State,Texas,KICK RETURNS,Tyron,Johnson,YDS,19
+3981059,10/21/2017,FBS,Oklahoma State,Texas,KICK RETURNS,Tyron,Johnson,AVG,19.0
+3981060,10/21/2017,FBS,Oklahoma State,Texas,KICK RETURNS,Tyron,Johnson,LONG,19
+3981061,10/21/2017,FBS,Texas,Oklahoma State,RUSHING,Chris,WarrenIII,ATT,12
+3981062,10/21/2017,FBS,Texas,Oklahoma State,RUSHING,Chris,WarrenIII,YDS,33
+3981063,10/21/2017,FBS,Texas,Oklahoma State,RUSHING,Chris,WarrenIII,TD,0
+3981064,10/21/2017,FBS,Texas,Oklahoma State,RUSHING,Chris,WarrenIII,LONG,15
+3981065,10/21/2017,FBS,Texas,Oklahoma State,RUSHING,Reggie,Hemphill-Mapps,ATT,2
+3981066,10/21/2017,FBS,Texas,Oklahoma State,RUSHING,Reggie,Hemphill-Mapps,YDS,12
+3981067,10/21/2017,FBS,Texas,Oklahoma State,RUSHING,Reggie,Hemphill-Mapps,TD,0
+3981068,10/21/2017,FBS,Texas,Oklahoma State,RUSHING,Reggie,Hemphill-Mapps,LONG,6
+3981069,10/21/2017,FBS,Texas,Oklahoma State,RUSHING,Jerrod,Heard,ATT,2
+3981070,10/21/2017,FBS,Texas,Oklahoma State,RUSHING,Jerrod,Heard,YDS,4
+3981071,10/21/2017,FBS,Texas,Oklahoma State,RUSHING,Jerrod,Heard,TD,0
+3981072,10/21/2017,FBS,Texas,Oklahoma State,RUSHING,Jerrod,Heard,LONG,5
+3981073,10/21/2017,FBS,Texas,Oklahoma State,RUSHING,Toneil,Carter,ATT,1
+3981074,10/21/2017,FBS,Texas,Oklahoma State,RUSHING,Toneil,Carter,YDS,3
+3981075,10/21/2017,FBS,Texas,Oklahoma State,RUSHING,Toneil,Carter,TD,0
+3981076,10/21/2017,FBS,Texas,Oklahoma State,RUSHING,Toneil,Carter,LONG,3
+3981077,10/21/2017,FBS,Texas,Oklahoma State,RUSHING,,Team,ATT,1
+3981078,10/21/2017,FBS,Texas,Oklahoma State,RUSHING,,Team,YDS,0
+3981079,10/21/2017,FBS,Texas,Oklahoma State,RUSHING,,Team,TD,0
+3981080,10/21/2017,FBS,Texas,Oklahoma State,RUSHING,,Team,LONG,0
+3981081,10/21/2017,FBS,Texas,Oklahoma State,RUSHING,Sam,Ehlinger,ATT,16
+3981082,10/21/2017,FBS,Texas,Oklahoma State,RUSHING,Sam,Ehlinger,YDS,-10
+3981083,10/21/2017,FBS,Texas,Oklahoma State,RUSHING,Sam,Ehlinger,TD,1
+3981084,10/21/2017,FBS,Texas,Oklahoma State,RUSHING,Sam,Ehlinger,LONG,15
+3981085,10/21/2017,FBS,Texas,Oklahoma State,PASSING,Sam,Ehlinger,CP-ATT-INT,22-36-1
+3981086,10/21/2017,FBS,Texas,Oklahoma State,PASSING,Sam,Ehlinger,YDS,241
+3981087,10/21/2017,FBS,Texas,Oklahoma State,PASSING,Sam,Ehlinger,TD,0
+3981088,10/21/2017,FBS,Texas,Oklahoma State,PASSING,Sam,Ehlinger,LONG,90
+3981089,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,John,Burt,REC,2
+3981090,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,John,Burt,YDS,99
+3981091,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,John,Burt,TD,0
+3981092,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,John,Burt,LONG,90
+3981093,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Jerrod,Heard,REC,3
+3981094,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Jerrod,Heard,YDS,27
+3981095,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Jerrod,Heard,TD,0
+3981096,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Jerrod,Heard,LONG,23
+3981097,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Dorian,Leonard,REC,4
+3981098,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Dorian,Leonard,YDS,26
+3981099,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Dorian,Leonard,TD,0
+3981100,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Dorian,Leonard,LONG,11
+3981101,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Collin,Johnson,REC,3
+3981102,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Collin,Johnson,YDS,24
+3981103,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Collin,Johnson,TD,0
+3981104,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Collin,Johnson,LONG,12
+3981105,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Reggie,Hemphill-Mapps,REC,2
+3981106,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Reggie,Hemphill-Mapps,YDS,20
+3981107,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Reggie,Hemphill-Mapps,TD,0
+3981108,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Reggie,Hemphill-Mapps,LONG,14
+3981109,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Cade,Brewer,REC,1
+3981110,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Cade,Brewer,YDS,15
+3981111,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Cade,Brewer,TD,0
+3981112,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Cade,Brewer,LONG,15
+3981113,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Chris,WarrenIII,REC,2
+3981114,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Chris,WarrenIII,YDS,12
+3981115,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Chris,WarrenIII,TD,0
+3981116,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Chris,WarrenIII,LONG,7
+3981117,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Lorenzo,Joe,REC,1
+3981118,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Lorenzo,Joe,YDS,9
+3981119,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Lorenzo,Joe,TD,0
+3981120,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Lorenzo,Joe,LONG,9
+3981121,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Devin,Duvernay,REC,1
+3981122,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Devin,Duvernay,YDS,9
+3981123,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Devin,Duvernay,TD,0
+3981124,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Devin,Duvernay,LONG,9
+3981125,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Lil'Jordan,Humphrey,REC,1
+3981126,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Lil'Jordan,Humphrey,YDS,9
+3981127,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Lil'Jordan,Humphrey,TD,0
+3981128,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Lil'Jordan,Humphrey,LONG,9
+3981129,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Toneil,Carter,REC,1
+3981130,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Toneil,Carter,YDS,-3
+3981131,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Toneil,Carter,TD,0
+3981132,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Toneil,Carter,LONG,0
+3981133,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Daniel,Young,REC,1
+3981134,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Daniel,Young,YDS,-6
+3981135,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Daniel,Young,TD,0
+3981136,10/21/2017,FBS,Texas,Oklahoma State,RECEIVING,Daniel,Young,LONG,-6
+3981137,10/21/2017,FBS,Texas,Oklahoma State,KICKING,Joshua,Rowland,FG-FGA,1/1
+3981138,10/21/2017,FBS,Texas,Oklahoma State,KICKING,Joshua,Rowland,LONG,22
+3981139,10/21/2017,FBS,Texas,Oklahoma State,KICKING,Joshua,Rowland,XP,1
+3981140,10/21/2017,FBS,Texas,Oklahoma State,KICKING,Joshua,Rowland,PTS,4
+3981141,10/21/2017,FBS,Texas,Oklahoma State,PUNTING,Michael,Dickson,NO,11
+3981142,10/21/2017,FBS,Texas,Oklahoma State,PUNTING,Michael,Dickson,YDS,560
+3981143,10/21/2017,FBS,Texas,Oklahoma State,PUNTING,Michael,Dickson,AVG,50.9
+3981144,10/21/2017,FBS,Texas,Oklahoma State,PUNTING,Michael,Dickson,LONG,66
+3981145,10/21/2017,FBS,Texas,Oklahoma State,PUNT RETURNS,Reggie,Hemphill-Mapps,NO,1
+3981146,10/21/2017,FBS,Texas,Oklahoma State,PUNT RETURNS,Reggie,Hemphill-Mapps,YDS,0
+3981147,10/21/2017,FBS,Texas,Oklahoma State,PUNT RETURNS,Reggie,Hemphill-Mapps,AVG,-
+3981148,10/21/2017,FBS,Texas,Oklahoma State,PUNT RETURNS,Reggie,Hemphill-Mapps,LONG,0
+3981149,10/21/2017,FBS,Texas,Oklahoma State,PUNT RETURNS,Armanti,Foreman,NO,0
+3981150,10/21/2017,FBS,Texas,Oklahoma State,PUNT RETURNS,Armanti,Foreman,YDS,0
+3981151,10/21/2017,FBS,Texas,Oklahoma State,PUNT RETURNS,Armanti,Foreman,AVG,-
+3981152,10/21/2017,FBS,Texas,Oklahoma State,PUNT RETURNS,Armanti,Foreman,LONG,0
+3981153,10/21/2017,FBS,Texas,Oklahoma State,KICK RETURNS,Kris,Boyd,NO,2
+3981154,10/21/2017,FBS,Texas,Oklahoma State,KICK RETURNS,Kris,Boyd,YDS,56
+3981155,10/21/2017,FBS,Texas,Oklahoma State,KICK RETURNS,Kris,Boyd,AVG,28.0
+3981156,10/21/2017,FBS,Texas,Oklahoma State,KICK RETURNS,Kris,Boyd,LONG,33

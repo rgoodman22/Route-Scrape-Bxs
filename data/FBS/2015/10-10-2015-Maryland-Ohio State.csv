@@ -1,0 +1,141 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2147001,10/10/2015,FBS,Maryland,Ohio State,RUSHING,Perry,Hills,ATT,25
+2147002,10/10/2015,FBS,Maryland,Ohio State,RUSHING,Perry,Hills,YDS,170
+2147003,10/10/2015,FBS,Maryland,Ohio State,RUSHING,Perry,Hills,TD,2
+2147004,10/10/2015,FBS,Maryland,Ohio State,RUSHING,Perry,Hills,LONG,75
+2147005,10/10/2015,FBS,Maryland,Ohio State,RUSHING,Wes,Brown,ATT,5
+2147006,10/10/2015,FBS,Maryland,Ohio State,RUSHING,Wes,Brown,YDS,30
+2147007,10/10/2015,FBS,Maryland,Ohio State,RUSHING,Wes,Brown,TD,1
+2147008,10/10/2015,FBS,Maryland,Ohio State,RUSHING,Wes,Brown,LONG,10
+2147009,10/10/2015,FBS,Maryland,Ohio State,RUSHING,Brandon,Ross,ATT,7
+2147010,10/10/2015,FBS,Maryland,Ohio State,RUSHING,Brandon,Ross,YDS,29
+2147011,10/10/2015,FBS,Maryland,Ohio State,RUSHING,Brandon,Ross,TD,0
+2147012,10/10/2015,FBS,Maryland,Ohio State,RUSHING,Brandon,Ross,LONG,9
+2147013,10/10/2015,FBS,Maryland,Ohio State,RUSHING,Levern,Jacobs,ATT,1
+2147014,10/10/2015,FBS,Maryland,Ohio State,RUSHING,Levern,Jacobs,YDS,9
+2147015,10/10/2015,FBS,Maryland,Ohio State,RUSHING,Levern,Jacobs,TD,0
+2147016,10/10/2015,FBS,Maryland,Ohio State,RUSHING,Levern,Jacobs,LONG,9
+2147017,10/10/2015,FBS,Maryland,Ohio State,RUSHING,D.J.,Moore,ATT,1
+2147018,10/10/2015,FBS,Maryland,Ohio State,RUSHING,D.J.,Moore,YDS,9
+2147019,10/10/2015,FBS,Maryland,Ohio State,RUSHING,D.J.,Moore,TD,0
+2147020,10/10/2015,FBS,Maryland,Ohio State,RUSHING,D.J.,Moore,LONG,9
+2147021,10/10/2015,FBS,Maryland,Ohio State,RUSHING,William,Likely,ATT,1
+2147022,10/10/2015,FBS,Maryland,Ohio State,RUSHING,William,Likely,YDS,8
+2147023,10/10/2015,FBS,Maryland,Ohio State,RUSHING,William,Likely,TD,0
+2147024,10/10/2015,FBS,Maryland,Ohio State,RUSHING,William,Likely,LONG,8
+2147025,10/10/2015,FBS,Maryland,Ohio State,RUSHING,Ty,Johnson,ATT,2
+2147026,10/10/2015,FBS,Maryland,Ohio State,RUSHING,Ty,Johnson,YDS,-2
+2147027,10/10/2015,FBS,Maryland,Ohio State,RUSHING,Ty,Johnson,TD,0
+2147028,10/10/2015,FBS,Maryland,Ohio State,RUSHING,Ty,Johnson,LONG,1
+2147029,10/10/2015,FBS,Maryland,Ohio State,PASSING,Perry,Hills,CP-ATT-INT,10-27-2
+2147030,10/10/2015,FBS,Maryland,Ohio State,PASSING,Perry,Hills,YDS,133
+2147031,10/10/2015,FBS,Maryland,Ohio State,PASSING,Perry,Hills,TD,1
+2147032,10/10/2015,FBS,Maryland,Ohio State,PASSING,Perry,Hills,LONG,52
+2147033,10/10/2015,FBS,Maryland,Ohio State,RECEIVING,D.J.,Moore,REC,3
+2147034,10/10/2015,FBS,Maryland,Ohio State,RECEIVING,D.J.,Moore,YDS,64
+2147035,10/10/2015,FBS,Maryland,Ohio State,RECEIVING,D.J.,Moore,TD,1
+2147036,10/10/2015,FBS,Maryland,Ohio State,RECEIVING,D.J.,Moore,LONG,52
+2147037,10/10/2015,FBS,Maryland,Ohio State,RECEIVING,Levern,Jacobs,REC,4
+2147038,10/10/2015,FBS,Maryland,Ohio State,RECEIVING,Levern,Jacobs,YDS,26
+2147039,10/10/2015,FBS,Maryland,Ohio State,RECEIVING,Levern,Jacobs,TD,0
+2147040,10/10/2015,FBS,Maryland,Ohio State,RECEIVING,Levern,Jacobs,LONG,10
+2147041,10/10/2015,FBS,Maryland,Ohio State,RECEIVING,DeAndre,Lane,REC,1
+2147042,10/10/2015,FBS,Maryland,Ohio State,RECEIVING,DeAndre,Lane,YDS,16
+2147043,10/10/2015,FBS,Maryland,Ohio State,RECEIVING,DeAndre,Lane,TD,0
+2147044,10/10/2015,FBS,Maryland,Ohio State,RECEIVING,DeAndre,Lane,LONG,16
+2147045,10/10/2015,FBS,Maryland,Ohio State,RECEIVING,Avery,Edwards,REC,1
+2147046,10/10/2015,FBS,Maryland,Ohio State,RECEIVING,Avery,Edwards,YDS,14
+2147047,10/10/2015,FBS,Maryland,Ohio State,RECEIVING,Avery,Edwards,TD,0
+2147048,10/10/2015,FBS,Maryland,Ohio State,RECEIVING,Avery,Edwards,LONG,14
+2147049,10/10/2015,FBS,Maryland,Ohio State,RECEIVING,Taivon,Jacobs,REC,1
+2147050,10/10/2015,FBS,Maryland,Ohio State,RECEIVING,Taivon,Jacobs,YDS,13
+2147051,10/10/2015,FBS,Maryland,Ohio State,RECEIVING,Taivon,Jacobs,TD,0
+2147052,10/10/2015,FBS,Maryland,Ohio State,RECEIVING,Taivon,Jacobs,LONG,13
+2147053,10/10/2015,FBS,Maryland,Ohio State,KICKING,Brad,Craddock,FG-FGA,0/0
+2147054,10/10/2015,FBS,Maryland,Ohio State,KICKING,Brad,Craddock,LONG,-
+2147055,10/10/2015,FBS,Maryland,Ohio State,KICKING,Brad,Craddock,XP,4
+2147056,10/10/2015,FBS,Maryland,Ohio State,KICKING,Brad,Craddock,PTS,4
+2147057,10/10/2015,FBS,Maryland,Ohio State,PUNTING,Nicolas,Pritchard,NO,6
+2147058,10/10/2015,FBS,Maryland,Ohio State,PUNTING,Nicolas,Pritchard,YDS,265
+2147059,10/10/2015,FBS,Maryland,Ohio State,PUNTING,Nicolas,Pritchard,AVG,44.2
+2147060,10/10/2015,FBS,Maryland,Ohio State,PUNTING,Nicolas,Pritchard,LONG,55
+2147061,10/10/2015,FBS,Maryland,Ohio State,PUNT RETURNS,William,Likely,NO,2
+2147062,10/10/2015,FBS,Maryland,Ohio State,PUNT RETURNS,William,Likely,YDS,25
+2147063,10/10/2015,FBS,Maryland,Ohio State,PUNT RETURNS,William,Likely,AVG,12.5
+2147064,10/10/2015,FBS,Maryland,Ohio State,PUNT RETURNS,William,Likely,LONG,14
+2147065,10/10/2015,FBS,Maryland,Ohio State,KICK RETURNS,William,Likely,NO,3
+2147066,10/10/2015,FBS,Maryland,Ohio State,KICK RETURNS,William,Likely,YDS,48
+2147067,10/10/2015,FBS,Maryland,Ohio State,KICK RETURNS,William,Likely,AVG,16.0
+2147068,10/10/2015,FBS,Maryland,Ohio State,KICK RETURNS,William,Likely,LONG,28
+2147069,10/10/2015,FBS,Ohio State,Maryland,RUSHING,Ezekiel,Elliott,ATT,21
+2147070,10/10/2015,FBS,Ohio State,Maryland,RUSHING,Ezekiel,Elliott,YDS,106
+2147071,10/10/2015,FBS,Ohio State,Maryland,RUSHING,Ezekiel,Elliott,TD,2
+2147072,10/10/2015,FBS,Ohio State,Maryland,RUSHING,Ezekiel,Elliott,LONG,19
+2147073,10/10/2015,FBS,Ohio State,Maryland,RUSHING,JT,Barrett,ATT,12
+2147074,10/10/2015,FBS,Ohio State,Maryland,RUSHING,JT,Barrett,YDS,62
+2147075,10/10/2015,FBS,Ohio State,Maryland,RUSHING,JT,Barrett,TD,3
+2147076,10/10/2015,FBS,Ohio State,Maryland,RUSHING,JT,Barrett,LONG,23
+2147077,10/10/2015,FBS,Ohio State,Maryland,RUSHING,Cardale,Jones,ATT,6
+2147078,10/10/2015,FBS,Ohio State,Maryland,RUSHING,Cardale,Jones,YDS,19
+2147079,10/10/2015,FBS,Ohio State,Maryland,RUSHING,Cardale,Jones,TD,0
+2147080,10/10/2015,FBS,Ohio State,Maryland,RUSHING,Cardale,Jones,LONG,8
+2147081,10/10/2015,FBS,Ohio State,Maryland,RUSHING,Braxton,Miller,ATT,3
+2147082,10/10/2015,FBS,Ohio State,Maryland,RUSHING,Braxton,Miller,YDS,11
+2147083,10/10/2015,FBS,Ohio State,Maryland,RUSHING,Braxton,Miller,TD,0
+2147084,10/10/2015,FBS,Ohio State,Maryland,RUSHING,Braxton,Miller,LONG,8
+2147085,10/10/2015,FBS,Ohio State,Maryland,RUSHING,Bri'onte,Dunn,ATT,1
+2147086,10/10/2015,FBS,Ohio State,Maryland,RUSHING,Bri'onte,Dunn,YDS,10
+2147087,10/10/2015,FBS,Ohio State,Maryland,RUSHING,Bri'onte,Dunn,TD,0
+2147088,10/10/2015,FBS,Ohio State,Maryland,RUSHING,Bri'onte,Dunn,LONG,10
+2147089,10/10/2015,FBS,Ohio State,Maryland,RUSHING,Curtis,Samuel,ATT,1
+2147090,10/10/2015,FBS,Ohio State,Maryland,RUSHING,Curtis,Samuel,YDS,1
+2147091,10/10/2015,FBS,Ohio State,Maryland,RUSHING,Curtis,Samuel,TD,0
+2147092,10/10/2015,FBS,Ohio State,Maryland,RUSHING,Curtis,Samuel,LONG,1
+2147093,10/10/2015,FBS,Ohio State,Maryland,RUSHING,,Team,ATT,3
+2147094,10/10/2015,FBS,Ohio State,Maryland,RUSHING,,Team,YDS,-27
+2147095,10/10/2015,FBS,Ohio State,Maryland,RUSHING,,Team,TD,0
+2147096,10/10/2015,FBS,Ohio State,Maryland,RUSHING,,Team,LONG,-1
+2147097,10/10/2015,FBS,Ohio State,Maryland,PASSING,Cardale,Jones,CP-ATT-INT,21-28-0
+2147098,10/10/2015,FBS,Ohio State,Maryland,PASSING,Cardale,Jones,YDS,291
+2147099,10/10/2015,FBS,Ohio State,Maryland,PASSING,Cardale,Jones,TD,2
+2147100,10/10/2015,FBS,Ohio State,Maryland,PASSING,Cardale,Jones,LONG,48
+2147101,10/10/2015,FBS,Ohio State,Maryland,PASSING,JT,Barrett,CP-ATT-INT,2-2-0
+2147102,10/10/2015,FBS,Ohio State,Maryland,PASSING,JT,Barrett,YDS,26
+2147103,10/10/2015,FBS,Ohio State,Maryland,PASSING,JT,Barrett,TD,0
+2147104,10/10/2015,FBS,Ohio State,Maryland,PASSING,JT,Barrett,LONG,20
+2147105,10/10/2015,FBS,Ohio State,Maryland,RECEIVING,Michael,Thomas,REC,7
+2147106,10/10/2015,FBS,Ohio State,Maryland,RECEIVING,Michael,Thomas,YDS,107
+2147107,10/10/2015,FBS,Ohio State,Maryland,RECEIVING,Michael,Thomas,TD,0
+2147108,10/10/2015,FBS,Ohio State,Maryland,RECEIVING,Michael,Thomas,LONG,31
+2147109,10/10/2015,FBS,Ohio State,Maryland,RECEIVING,Braxton,Miller,REC,5
+2147110,10/10/2015,FBS,Ohio State,Maryland,RECEIVING,Braxton,Miller,YDS,79
+2147111,10/10/2015,FBS,Ohio State,Maryland,RECEIVING,Braxton,Miller,TD,1
+2147112,10/10/2015,FBS,Ohio State,Maryland,RECEIVING,Braxton,Miller,LONG,33
+2147113,10/10/2015,FBS,Ohio State,Maryland,RECEIVING,Jalin,Marshall,REC,4
+2147114,10/10/2015,FBS,Ohio State,Maryland,RECEIVING,Jalin,Marshall,YDS,78
+2147115,10/10/2015,FBS,Ohio State,Maryland,RECEIVING,Jalin,Marshall,TD,1
+2147116,10/10/2015,FBS,Ohio State,Maryland,RECEIVING,Jalin,Marshall,LONG,48
+2147117,10/10/2015,FBS,Ohio State,Maryland,RECEIVING,Ezekiel,Elliott,REC,6
+2147118,10/10/2015,FBS,Ohio State,Maryland,RECEIVING,Ezekiel,Elliott,YDS,47
+2147119,10/10/2015,FBS,Ohio State,Maryland,RECEIVING,Ezekiel,Elliott,TD,0
+2147120,10/10/2015,FBS,Ohio State,Maryland,RECEIVING,Ezekiel,Elliott,LONG,11
+2147121,10/10/2015,FBS,Ohio State,Maryland,RECEIVING,Dontre,Wilson,REC,1
+2147122,10/10/2015,FBS,Ohio State,Maryland,RECEIVING,Dontre,Wilson,YDS,6
+2147123,10/10/2015,FBS,Ohio State,Maryland,RECEIVING,Dontre,Wilson,TD,0
+2147124,10/10/2015,FBS,Ohio State,Maryland,RECEIVING,Dontre,Wilson,LONG,6
+2147125,10/10/2015,FBS,Ohio State,Maryland,KICKING,Jack,Willoughby,FG-FGA,0/1
+2147126,10/10/2015,FBS,Ohio State,Maryland,KICKING,Jack,Willoughby,LONG,0
+2147127,10/10/2015,FBS,Ohio State,Maryland,KICKING,Jack,Willoughby,XP,7
+2147128,10/10/2015,FBS,Ohio State,Maryland,KICKING,Jack,Willoughby,PTS,7
+2147129,10/10/2015,FBS,Ohio State,Maryland,PUNTING,Cameron,Johnston,NO,3
+2147130,10/10/2015,FBS,Ohio State,Maryland,PUNTING,Cameron,Johnston,YDS,164
+2147131,10/10/2015,FBS,Ohio State,Maryland,PUNTING,Cameron,Johnston,AVG,54.7
+2147132,10/10/2015,FBS,Ohio State,Maryland,PUNTING,Cameron,Johnston,LONG,65
+2147133,10/10/2015,FBS,Ohio State,Maryland,PUNT RETURNS,Jalin,Marshall,NO,1
+2147134,10/10/2015,FBS,Ohio State,Maryland,PUNT RETURNS,Jalin,Marshall,YDS,28
+2147135,10/10/2015,FBS,Ohio State,Maryland,PUNT RETURNS,Jalin,Marshall,AVG,28.0
+2147136,10/10/2015,FBS,Ohio State,Maryland,PUNT RETURNS,Jalin,Marshall,LONG,28
+2147137,10/10/2015,FBS,Ohio State,Maryland,KICK RETURNS,Dontre,Wilson,NO,3
+2147138,10/10/2015,FBS,Ohio State,Maryland,KICK RETURNS,Dontre,Wilson,YDS,68
+2147139,10/10/2015,FBS,Ohio State,Maryland,KICK RETURNS,Dontre,Wilson,AVG,22.7
+2147140,10/10/2015,FBS,Ohio State,Maryland,KICK RETURNS,Dontre,Wilson,LONG,25

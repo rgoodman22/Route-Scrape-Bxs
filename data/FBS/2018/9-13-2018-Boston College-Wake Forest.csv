@@ -1,0 +1,183 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+4560001,9/13/2018,FBS,Boston College,Wake Forest,RUSHING,AJ,Dillon,ATT,33
+4560002,9/13/2018,FBS,Boston College,Wake Forest,RUSHING,AJ,Dillon,YDS,185
+4560003,9/13/2018,FBS,Boston College,Wake Forest,RUSHING,AJ,Dillon,TD,1
+4560004,9/13/2018,FBS,Boston College,Wake Forest,RUSHING,AJ,Dillon,LONG,45
+4560005,9/13/2018,FBS,Boston College,Wake Forest,RUSHING,Jeff,Smith,ATT,3
+4560006,9/13/2018,FBS,Boston College,Wake Forest,RUSHING,Jeff,Smith,YDS,42
+4560007,9/13/2018,FBS,Boston College,Wake Forest,RUSHING,Jeff,Smith,TD,0
+4560008,9/13/2018,FBS,Boston College,Wake Forest,RUSHING,Jeff,Smith,LONG,30
+4560009,9/13/2018,FBS,Boston College,Wake Forest,RUSHING,Anthony,Brown,ATT,3
+4560010,9/13/2018,FBS,Boston College,Wake Forest,RUSHING,Anthony,Brown,YDS,5
+4560011,9/13/2018,FBS,Boston College,Wake Forest,RUSHING,Anthony,Brown,TD,0
+4560012,9/13/2018,FBS,Boston College,Wake Forest,RUSHING,Anthony,Brown,LONG,6
+4560013,9/13/2018,FBS,Boston College,Wake Forest,RUSHING,Travis,Levy,ATT,1
+4560014,9/13/2018,FBS,Boston College,Wake Forest,RUSHING,Travis,Levy,YDS,2
+4560015,9/13/2018,FBS,Boston College,Wake Forest,RUSHING,Travis,Levy,TD,0
+4560016,9/13/2018,FBS,Boston College,Wake Forest,RUSHING,Travis,Levy,LONG,2
+4560017,9/13/2018,FBS,Boston College,Wake Forest,RUSHING,Davon,Jones,ATT,1
+4560018,9/13/2018,FBS,Boston College,Wake Forest,RUSHING,Davon,Jones,YDS,1
+4560019,9/13/2018,FBS,Boston College,Wake Forest,RUSHING,Davon,Jones,TD,0
+4560020,9/13/2018,FBS,Boston College,Wake Forest,RUSHING,Davon,Jones,LONG,1
+4560021,9/13/2018,FBS,Boston College,Wake Forest,RUSHING,,Team,ATT,3
+4560022,9/13/2018,FBS,Boston College,Wake Forest,RUSHING,,Team,YDS,-15
+4560023,9/13/2018,FBS,Boston College,Wake Forest,RUSHING,,Team,TD,0
+4560024,9/13/2018,FBS,Boston College,Wake Forest,RUSHING,,Team,LONG,-5
+4560025,9/13/2018,FBS,Boston College,Wake Forest,PASSING,Anthony,Brown,CP-ATT-INT,16-25-0
+4560026,9/13/2018,FBS,Boston College,Wake Forest,PASSING,Anthony,Brown,YDS,304
+4560027,9/13/2018,FBS,Boston College,Wake Forest,PASSING,Anthony,Brown,TD,5
+4560028,9/13/2018,FBS,Boston College,Wake Forest,PASSING,Anthony,Brown,LONG,71
+4560029,9/13/2018,FBS,Boston College,Wake Forest,RECEIVING,Jeff,Smith,REC,6
+4560030,9/13/2018,FBS,Boston College,Wake Forest,RECEIVING,Jeff,Smith,YDS,145
+4560031,9/13/2018,FBS,Boston College,Wake Forest,RECEIVING,Jeff,Smith,TD,2
+4560032,9/13/2018,FBS,Boston College,Wake Forest,RECEIVING,Jeff,Smith,LONG,71
+4560033,9/13/2018,FBS,Boston College,Wake Forest,RECEIVING,Tommy,Sweeney,REC,5
+4560034,9/13/2018,FBS,Boston College,Wake Forest,RECEIVING,Tommy,Sweeney,YDS,58
+4560035,9/13/2018,FBS,Boston College,Wake Forest,RECEIVING,Tommy,Sweeney,TD,1
+4560036,9/13/2018,FBS,Boston College,Wake Forest,RECEIVING,Tommy,Sweeney,LONG,29
+4560037,9/13/2018,FBS,Boston College,Wake Forest,RECEIVING,Ben,Glines,REC,2
+4560038,9/13/2018,FBS,Boston College,Wake Forest,RECEIVING,Ben,Glines,YDS,45
+4560039,9/13/2018,FBS,Boston College,Wake Forest,RECEIVING,Ben,Glines,TD,1
+4560040,9/13/2018,FBS,Boston College,Wake Forest,RECEIVING,Ben,Glines,LONG,40
+4560041,9/13/2018,FBS,Boston College,Wake Forest,RECEIVING,Kobay,White,REC,1
+4560042,9/13/2018,FBS,Boston College,Wake Forest,RECEIVING,Kobay,White,YDS,35
+4560043,9/13/2018,FBS,Boston College,Wake Forest,RECEIVING,Kobay,White,TD,1
+4560044,9/13/2018,FBS,Boston College,Wake Forest,RECEIVING,Kobay,White,LONG,35
+4560045,9/13/2018,FBS,Boston College,Wake Forest,RECEIVING,Michael,Walker,REC,1
+4560046,9/13/2018,FBS,Boston College,Wake Forest,RECEIVING,Michael,Walker,YDS,17
+4560047,9/13/2018,FBS,Boston College,Wake Forest,RECEIVING,Michael,Walker,TD,0
+4560048,9/13/2018,FBS,Boston College,Wake Forest,RECEIVING,Michael,Walker,LONG,17
+4560049,9/13/2018,FBS,Boston College,Wake Forest,RECEIVING,CJ,Lewis,REC,1
+4560050,9/13/2018,FBS,Boston College,Wake Forest,RECEIVING,CJ,Lewis,YDS,4
+4560051,9/13/2018,FBS,Boston College,Wake Forest,RECEIVING,CJ,Lewis,TD,0
+4560052,9/13/2018,FBS,Boston College,Wake Forest,RECEIVING,CJ,Lewis,LONG,4
+4560053,9/13/2018,FBS,Boston College,Wake Forest,KICKING,John,Tessitore,FG-FGA,0/0
+4560054,9/13/2018,FBS,Boston College,Wake Forest,KICKING,John,Tessitore,LONG,-
+4560055,9/13/2018,FBS,Boston College,Wake Forest,KICKING,John,Tessitore,XP,5
+4560056,9/13/2018,FBS,Boston College,Wake Forest,KICKING,John,Tessitore,PTS,5
+4560057,9/13/2018,FBS,Boston College,Wake Forest,PUNTING,Grant,Carlson,NO,8
+4560058,9/13/2018,FBS,Boston College,Wake Forest,PUNTING,Grant,Carlson,YDS,326
+4560059,9/13/2018,FBS,Boston College,Wake Forest,PUNTING,Grant,Carlson,AVG,36.2
+4560060,9/13/2018,FBS,Boston College,Wake Forest,PUNTING,Grant,Carlson,LONG,48
+4560061,9/13/2018,FBS,Boston College,Wake Forest,PUNT RETURNS,Michael,Walker,NO,2
+4560062,9/13/2018,FBS,Boston College,Wake Forest,PUNT RETURNS,Michael,Walker,YDS,9
+4560063,9/13/2018,FBS,Boston College,Wake Forest,PUNT RETURNS,Michael,Walker,AVG,4.5
+4560064,9/13/2018,FBS,Boston College,Wake Forest,PUNT RETURNS,Michael,Walker,LONG,9
+4560065,9/13/2018,FBS,Boston College,Wake Forest,KICK RETURNS,Michael,Walker,NO,4
+4560066,9/13/2018,FBS,Boston College,Wake Forest,KICK RETURNS,Michael,Walker,YDS,106
+4560067,9/13/2018,FBS,Boston College,Wake Forest,KICK RETURNS,Michael,Walker,AVG,26.5
+4560068,9/13/2018,FBS,Boston College,Wake Forest,KICK RETURNS,Michael,Walker,LONG,44
+4560069,9/13/2018,FBS,Boston College,Wake Forest,KICK RETURNS,Davon,Jones,NO,1
+4560070,9/13/2018,FBS,Boston College,Wake Forest,KICK RETURNS,Davon,Jones,YDS,14
+4560071,9/13/2018,FBS,Boston College,Wake Forest,KICK RETURNS,Davon,Jones,AVG,14.0
+4560072,9/13/2018,FBS,Boston College,Wake Forest,KICK RETURNS,Davon,Jones,LONG,14
+4560073,9/13/2018,FBS,Boston College,Wake Forest,KICK RETURNS,Kobay,White,NO,1
+4560074,9/13/2018,FBS,Boston College,Wake Forest,KICK RETURNS,Kobay,White,YDS,8
+4560075,9/13/2018,FBS,Boston College,Wake Forest,KICK RETURNS,Kobay,White,AVG,8.0
+4560076,9/13/2018,FBS,Boston College,Wake Forest,KICK RETURNS,Kobay,White,LONG,8
+4560077,9/13/2018,FBS,Boston College,Wake Forest,DEFENSE,Wyatt,Ray,TOT,4
+4560078,9/13/2018,FBS,Boston College,Wake Forest,DEFENSE,Wyatt,Ray,SOLO,4
+4560079,9/13/2018,FBS,Boston College,Wake Forest,DEFENSE,Wyatt,Ray,SACKS,4.0
+4560080,9/13/2018,FBS,Boston College,Wake Forest,DEFENSE,Wyatt,Ray,TFL,4
+4560081,9/13/2018,FBS,Boston College,Wake Forest,DEFENSE,Wyatt,Ray,INT,0
+4560082,9/13/2018,FBS,Boston College,Wake Forest,DEFENSE,Wyatt,Ray,FF,0
+4560083,9/13/2018,FBS,Boston College,Wake Forest,DEFENSE,Wyatt,Ray,FR,0
+4560084,9/13/2018,FBS,Boston College,Wake Forest,DEFENSE,Will,Harris,TOT,0
+4560085,9/13/2018,FBS,Boston College,Wake Forest,DEFENSE,Will,Harris,SOLO,0
+4560086,9/13/2018,FBS,Boston College,Wake Forest,DEFENSE,Will,Harris,SACKS,0.0
+4560087,9/13/2018,FBS,Boston College,Wake Forest,DEFENSE,Will,Harris,TFL,0
+4560088,9/13/2018,FBS,Boston College,Wake Forest,DEFENSE,Will,Harris,INT,1
+4560089,9/13/2018,FBS,Boston College,Wake Forest,DEFENSE,Will,Harris,FF,0
+4560090,9/13/2018,FBS,Boston College,Wake Forest,DEFENSE,Will,Harris,FR,0
+4560091,9/13/2018,FBS,Boston College,Wake Forest,DEFENSE,Hamp,Cheevers,TOT,0
+4560092,9/13/2018,FBS,Boston College,Wake Forest,DEFENSE,Hamp,Cheevers,SOLO,0
+4560093,9/13/2018,FBS,Boston College,Wake Forest,DEFENSE,Hamp,Cheevers,SACKS,0.0
+4560094,9/13/2018,FBS,Boston College,Wake Forest,DEFENSE,Hamp,Cheevers,TFL,0
+4560095,9/13/2018,FBS,Boston College,Wake Forest,DEFENSE,Hamp,Cheevers,INT,1
+4560096,9/13/2018,FBS,Boston College,Wake Forest,DEFENSE,Hamp,Cheevers,FF,0
+4560097,9/13/2018,FBS,Boston College,Wake Forest,DEFENSE,Hamp,Cheevers,FR,0
+4560098,9/13/2018,FBS,Wake Forest,Boston College,RUSHING,Matt,ColburnII,ATT,23
+4560099,9/13/2018,FBS,Wake Forest,Boston College,RUSHING,Matt,ColburnII,YDS,117
+4560100,9/13/2018,FBS,Wake Forest,Boston College,RUSHING,Matt,ColburnII,TD,1
+4560101,9/13/2018,FBS,Wake Forest,Boston College,RUSHING,Matt,ColburnII,LONG,35
+4560102,9/13/2018,FBS,Wake Forest,Boston College,RUSHING,Cade,Carney,ATT,18
+4560103,9/13/2018,FBS,Wake Forest,Boston College,RUSHING,Cade,Carney,YDS,116
+4560104,9/13/2018,FBS,Wake Forest,Boston College,RUSHING,Cade,Carney,TD,0
+4560105,9/13/2018,FBS,Wake Forest,Boston College,RUSHING,Cade,Carney,LONG,42
+4560106,9/13/2018,FBS,Wake Forest,Boston College,RUSHING,Sam,Hartman,ATT,19
+4560107,9/13/2018,FBS,Wake Forest,Boston College,RUSHING,Sam,Hartman,YDS,65
+4560108,9/13/2018,FBS,Wake Forest,Boston College,RUSHING,Sam,Hartman,TD,0
+4560109,9/13/2018,FBS,Wake Forest,Boston College,RUSHING,Sam,Hartman,LONG,23
+4560110,9/13/2018,FBS,Wake Forest,Boston College,PASSING,Sam,Hartman,CP-ATT-INT,20-45-2
+4560111,9/13/2018,FBS,Wake Forest,Boston College,PASSING,Sam,Hartman,YDS,214
+4560112,9/13/2018,FBS,Wake Forest,Boston College,PASSING,Sam,Hartman,TD,2
+4560113,9/13/2018,FBS,Wake Forest,Boston College,PASSING,Sam,Hartman,LONG,32
+4560114,9/13/2018,FBS,Wake Forest,Boston College,RECEIVING,Greg,Dortch,REC,9
+4560115,9/13/2018,FBS,Wake Forest,Boston College,RECEIVING,Greg,Dortch,YDS,93
+4560116,9/13/2018,FBS,Wake Forest,Boston College,RECEIVING,Greg,Dortch,TD,0
+4560117,9/13/2018,FBS,Wake Forest,Boston College,RECEIVING,Greg,Dortch,LONG,22
+4560118,9/13/2018,FBS,Wake Forest,Boston College,RECEIVING,Sage,Surratt,REC,3
+4560119,9/13/2018,FBS,Wake Forest,Boston College,RECEIVING,Sage,Surratt,YDS,50
+4560120,9/13/2018,FBS,Wake Forest,Boston College,RECEIVING,Sage,Surratt,TD,1
+4560121,9/13/2018,FBS,Wake Forest,Boston College,RECEIVING,Sage,Surratt,LONG,32
+4560122,9/13/2018,FBS,Wake Forest,Boston College,RECEIVING,Steven,Claude,REC,2
+4560123,9/13/2018,FBS,Wake Forest,Boston College,RECEIVING,Steven,Claude,YDS,32
+4560124,9/13/2018,FBS,Wake Forest,Boston College,RECEIVING,Steven,Claude,TD,0
+4560125,9/13/2018,FBS,Wake Forest,Boston College,RECEIVING,Steven,Claude,LONG,26
+4560126,9/13/2018,FBS,Wake Forest,Boston College,RECEIVING,Matt,ColburnII,REC,2
+4560127,9/13/2018,FBS,Wake Forest,Boston College,RECEIVING,Matt,ColburnII,YDS,16
+4560128,9/13/2018,FBS,Wake Forest,Boston College,RECEIVING,Matt,ColburnII,TD,0
+4560129,9/13/2018,FBS,Wake Forest,Boston College,RECEIVING,Matt,ColburnII,LONG,9
+4560130,9/13/2018,FBS,Wake Forest,Boston College,RECEIVING,Brandon,Chapman,REC,1
+4560131,9/13/2018,FBS,Wake Forest,Boston College,RECEIVING,Brandon,Chapman,YDS,9
+4560132,9/13/2018,FBS,Wake Forest,Boston College,RECEIVING,Brandon,Chapman,TD,0
+4560133,9/13/2018,FBS,Wake Forest,Boston College,RECEIVING,Brandon,Chapman,LONG,9
+4560134,9/13/2018,FBS,Wake Forest,Boston College,RECEIVING,Cade,Carney,REC,1
+4560135,9/13/2018,FBS,Wake Forest,Boston College,RECEIVING,Cade,Carney,YDS,9
+4560136,9/13/2018,FBS,Wake Forest,Boston College,RECEIVING,Cade,Carney,TD,0
+4560137,9/13/2018,FBS,Wake Forest,Boston College,RECEIVING,Cade,Carney,LONG,9
+4560138,9/13/2018,FBS,Wake Forest,Boston College,RECEIVING,Jack,Freudenthal,REC,2
+4560139,9/13/2018,FBS,Wake Forest,Boston College,RECEIVING,Jack,Freudenthal,YDS,5
+4560140,9/13/2018,FBS,Wake Forest,Boston College,RECEIVING,Jack,Freudenthal,TD,1
+4560141,9/13/2018,FBS,Wake Forest,Boston College,RECEIVING,Jack,Freudenthal,LONG,5
+4560142,9/13/2018,FBS,Wake Forest,Boston College,KICKING,Nick,Sciba,FG-FGA,2/2
+4560143,9/13/2018,FBS,Wake Forest,Boston College,KICKING,Nick,Sciba,LONG,27
+4560144,9/13/2018,FBS,Wake Forest,Boston College,KICKING,Nick,Sciba,XP,4
+4560145,9/13/2018,FBS,Wake Forest,Boston College,KICKING,Nick,Sciba,PTS,10
+4560146,9/13/2018,FBS,Wake Forest,Boston College,PUNTING,Dom,Maggio,NO,7
+4560147,9/13/2018,FBS,Wake Forest,Boston College,PUNTING,Dom,Maggio,YDS,311
+4560148,9/13/2018,FBS,Wake Forest,Boston College,PUNTING,Dom,Maggio,AVG,44.4
+4560149,9/13/2018,FBS,Wake Forest,Boston College,PUNTING,Dom,Maggio,LONG,55
+4560150,9/13/2018,FBS,Wake Forest,Boston College,PUNT RETURNS,Greg,Dortch,NO,5
+4560151,9/13/2018,FBS,Wake Forest,Boston College,PUNT RETURNS,Greg,Dortch,YDS,14
+4560152,9/13/2018,FBS,Wake Forest,Boston College,PUNT RETURNS,Greg,Dortch,AVG,2.8
+4560153,9/13/2018,FBS,Wake Forest,Boston College,PUNT RETURNS,Greg,Dortch,LONG,8
+4560154,9/13/2018,FBS,Wake Forest,Boston College,KICK RETURNS,Greg,Dortch,NO,2
+4560155,9/13/2018,FBS,Wake Forest,Boston College,KICK RETURNS,Greg,Dortch,YDS,57
+4560156,9/13/2018,FBS,Wake Forest,Boston College,KICK RETURNS,Greg,Dortch,AVG,28.5
+4560157,9/13/2018,FBS,Wake Forest,Boston College,KICK RETURNS,Greg,Dortch,LONG,31
+4560158,9/13/2018,FBS,Wake Forest,Boston College,KICK RETURNS,Chuck,WadeJr.,NO,2
+4560159,9/13/2018,FBS,Wake Forest,Boston College,KICK RETURNS,Chuck,WadeJr.,YDS,36
+4560160,9/13/2018,FBS,Wake Forest,Boston College,KICK RETURNS,Chuck,WadeJr.,AVG,18.0
+4560161,9/13/2018,FBS,Wake Forest,Boston College,KICK RETURNS,Chuck,WadeJr.,LONG,23
+4560162,9/13/2018,FBS,Wake Forest,Boston College,DEFENSE,Cade,Carney,TOT,0
+4560163,9/13/2018,FBS,Wake Forest,Boston College,DEFENSE,Cade,Carney,SOLO,0
+4560164,9/13/2018,FBS,Wake Forest,Boston College,DEFENSE,Cade,Carney,SACKS,0.0
+4560165,9/13/2018,FBS,Wake Forest,Boston College,DEFENSE,Cade,Carney,TFL,0
+4560166,9/13/2018,FBS,Wake Forest,Boston College,DEFENSE,Cade,Carney,INT,0
+4560167,9/13/2018,FBS,Wake Forest,Boston College,DEFENSE,Cade,Carney,FF,0
+4560168,9/13/2018,FBS,Wake Forest,Boston College,DEFENSE,Cade,Carney,FR,1
+4560169,9/13/2018,FBS,Wake Forest,Boston College,DEFENSE,Justin,Strnad,TOT,1
+4560170,9/13/2018,FBS,Wake Forest,Boston College,DEFENSE,Justin,Strnad,SOLO,0
+4560171,9/13/2018,FBS,Wake Forest,Boston College,DEFENSE,Justin,Strnad,SACKS,0.5
+4560172,9/13/2018,FBS,Wake Forest,Boston College,DEFENSE,Justin,Strnad,TFL,0
+4560173,9/13/2018,FBS,Wake Forest,Boston College,DEFENSE,Justin,Strnad,INT,0
+4560174,9/13/2018,FBS,Wake Forest,Boston College,DEFENSE,Justin,Strnad,FF,0
+4560175,9/13/2018,FBS,Wake Forest,Boston College,DEFENSE,Justin,Strnad,FR,0
+4560176,9/13/2018,FBS,Wake Forest,Boston College,DEFENSE,Carlos,BashamJr.,TOT,1
+4560177,9/13/2018,FBS,Wake Forest,Boston College,DEFENSE,Carlos,BashamJr.,SOLO,0
+4560178,9/13/2018,FBS,Wake Forest,Boston College,DEFENSE,Carlos,BashamJr.,SACKS,0.5
+4560179,9/13/2018,FBS,Wake Forest,Boston College,DEFENSE,Carlos,BashamJr.,TFL,0
+4560180,9/13/2018,FBS,Wake Forest,Boston College,DEFENSE,Carlos,BashamJr.,INT,0
+4560181,9/13/2018,FBS,Wake Forest,Boston College,DEFENSE,Carlos,BashamJr.,FF,0
+4560182,9/13/2018,FBS,Wake Forest,Boston College,DEFENSE,Carlos,BashamJr.,FR,0

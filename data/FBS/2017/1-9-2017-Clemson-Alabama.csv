@@ -1,0 +1,149 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3506001,1/9/2017,FBS,Clemson,Alabama,RUSHING,Wayne,Gallman,ATT,18
+3506002,1/9/2017,FBS,Clemson,Alabama,RUSHING,Wayne,Gallman,YDS,46
+3506003,1/9/2017,FBS,Clemson,Alabama,RUSHING,Wayne,Gallman,TD,1
+3506004,1/9/2017,FBS,Clemson,Alabama,RUSHING,Wayne,Gallman,LONG,12
+3506005,1/9/2017,FBS,Clemson,Alabama,RUSHING,Deshaun,Watson,ATT,21
+3506006,1/9/2017,FBS,Clemson,Alabama,RUSHING,Deshaun,Watson,YDS,43
+3506007,1/9/2017,FBS,Clemson,Alabama,RUSHING,Deshaun,Watson,TD,1
+3506008,1/9/2017,FBS,Clemson,Alabama,RUSHING,Deshaun,Watson,LONG,15
+3506009,1/9/2017,FBS,Clemson,Alabama,RUSHING,C.J.,Fuller,ATT,1
+3506010,1/9/2017,FBS,Clemson,Alabama,RUSHING,C.J.,Fuller,YDS,3
+3506011,1/9/2017,FBS,Clemson,Alabama,RUSHING,C.J.,Fuller,TD,0
+3506012,1/9/2017,FBS,Clemson,Alabama,RUSHING,C.J.,Fuller,LONG,3
+3506013,1/9/2017,FBS,Clemson,Alabama,RUSHING,Artavis,Scott,ATT,1
+3506014,1/9/2017,FBS,Clemson,Alabama,RUSHING,Artavis,Scott,YDS,0
+3506015,1/9/2017,FBS,Clemson,Alabama,RUSHING,Artavis,Scott,TD,0
+3506016,1/9/2017,FBS,Clemson,Alabama,RUSHING,Artavis,Scott,LONG,0
+3506017,1/9/2017,FBS,Clemson,Alabama,RUSHING,,Team,ATT,1
+3506018,1/9/2017,FBS,Clemson,Alabama,RUSHING,,Team,YDS,-1
+3506019,1/9/2017,FBS,Clemson,Alabama,RUSHING,,Team,TD,0
+3506020,1/9/2017,FBS,Clemson,Alabama,RUSHING,,Team,LONG,-1
+3506021,1/9/2017,FBS,Clemson,Alabama,PASSING,Deshaun,Watson,CP-ATT-INT,36-56-0
+3506022,1/9/2017,FBS,Clemson,Alabama,PASSING,Deshaun,Watson,YDS,420
+3506023,1/9/2017,FBS,Clemson,Alabama,PASSING,Deshaun,Watson,TD,3
+3506024,1/9/2017,FBS,Clemson,Alabama,PASSING,Deshaun,Watson,LONG,43
+3506025,1/9/2017,FBS,Clemson,Alabama,PASSING,,Team,CP-ATT-INT,0-1-0
+3506026,1/9/2017,FBS,Clemson,Alabama,PASSING,,Team,YDS,0
+3506027,1/9/2017,FBS,Clemson,Alabama,PASSING,,Team,TD,0
+3506028,1/9/2017,FBS,Clemson,Alabama,PASSING,,Team,LONG,0
+3506029,1/9/2017,FBS,Clemson,Alabama,RECEIVING,Jordan,Leggett,REC,7
+3506030,1/9/2017,FBS,Clemson,Alabama,RECEIVING,Jordan,Leggett,YDS,95
+3506031,1/9/2017,FBS,Clemson,Alabama,RECEIVING,Jordan,Leggett,TD,0
+3506032,1/9/2017,FBS,Clemson,Alabama,RECEIVING,Jordan,Leggett,LONG,26
+3506033,1/9/2017,FBS,Clemson,Alabama,RECEIVING,Deon,Cain,REC,5
+3506034,1/9/2017,FBS,Clemson,Alabama,RECEIVING,Deon,Cain,YDS,94
+3506035,1/9/2017,FBS,Clemson,Alabama,RECEIVING,Deon,Cain,TD,0
+3506036,1/9/2017,FBS,Clemson,Alabama,RECEIVING,Deon,Cain,LONG,43
+3506037,1/9/2017,FBS,Clemson,Alabama,RECEIVING,Mike,Williams,REC,8
+3506038,1/9/2017,FBS,Clemson,Alabama,RECEIVING,Mike,Williams,YDS,94
+3506039,1/9/2017,FBS,Clemson,Alabama,RECEIVING,Mike,Williams,TD,1
+3506040,1/9/2017,FBS,Clemson,Alabama,RECEIVING,Mike,Williams,LONG,26
+3506041,1/9/2017,FBS,Clemson,Alabama,RECEIVING,Hunter,Renfrow,REC,10
+3506042,1/9/2017,FBS,Clemson,Alabama,RECEIVING,Hunter,Renfrow,YDS,92
+3506043,1/9/2017,FBS,Clemson,Alabama,RECEIVING,Hunter,Renfrow,TD,2
+3506044,1/9/2017,FBS,Clemson,Alabama,RECEIVING,Hunter,Renfrow,LONG,24
+3506045,1/9/2017,FBS,Clemson,Alabama,RECEIVING,Wayne,Gallman,REC,3
+3506046,1/9/2017,FBS,Clemson,Alabama,RECEIVING,Wayne,Gallman,YDS,39
+3506047,1/9/2017,FBS,Clemson,Alabama,RECEIVING,Wayne,Gallman,TD,0
+3506048,1/9/2017,FBS,Clemson,Alabama,RECEIVING,Wayne,Gallman,LONG,13
+3506049,1/9/2017,FBS,Clemson,Alabama,RECEIVING,Artavis,Scott,REC,3
+3506050,1/9/2017,FBS,Clemson,Alabama,RECEIVING,Artavis,Scott,YDS,6
+3506051,1/9/2017,FBS,Clemson,Alabama,RECEIVING,Artavis,Scott,TD,0
+3506052,1/9/2017,FBS,Clemson,Alabama,RECEIVING,Artavis,Scott,LONG,9
+3506053,1/9/2017,FBS,Clemson,Alabama,KICKING,Greg,Huegel,FG-FGA,0/0
+3506054,1/9/2017,FBS,Clemson,Alabama,KICKING,Greg,Huegel,LONG,-
+3506055,1/9/2017,FBS,Clemson,Alabama,KICKING,Greg,Huegel,XP,5
+3506056,1/9/2017,FBS,Clemson,Alabama,KICKING,Greg,Huegel,PTS,5
+3506057,1/9/2017,FBS,Clemson,Alabama,PUNTING,Andy,Teasdall,NO,8
+3506058,1/9/2017,FBS,Clemson,Alabama,PUNTING,Andy,Teasdall,YDS,307
+3506059,1/9/2017,FBS,Clemson,Alabama,PUNTING,Andy,Teasdall,AVG,38.4
+3506060,1/9/2017,FBS,Clemson,Alabama,PUNTING,Andy,Teasdall,LONG,47
+3506061,1/9/2017,FBS,Clemson,Alabama,PUNTING,Deshaun,Watson,NO,1
+3506062,1/9/2017,FBS,Clemson,Alabama,PUNTING,Deshaun,Watson,YDS,38
+3506063,1/9/2017,FBS,Clemson,Alabama,PUNTING,Deshaun,Watson,AVG,38.0
+3506064,1/9/2017,FBS,Clemson,Alabama,PUNTING,Deshaun,Watson,LONG,38
+3506065,1/9/2017,FBS,Clemson,Alabama,PUNT RETURNS,Artavis,Scott,NO,1
+3506066,1/9/2017,FBS,Clemson,Alabama,PUNT RETURNS,Artavis,Scott,YDS,3
+3506067,1/9/2017,FBS,Clemson,Alabama,PUNT RETURNS,Artavis,Scott,AVG,3.0
+3506068,1/9/2017,FBS,Clemson,Alabama,PUNT RETURNS,Artavis,Scott,LONG,3
+3506069,1/9/2017,FBS,Clemson,Alabama,KICK RETURNS,Artavis,Scott,NO,3
+3506070,1/9/2017,FBS,Clemson,Alabama,KICK RETURNS,Artavis,Scott,YDS,77
+3506071,1/9/2017,FBS,Clemson,Alabama,KICK RETURNS,Artavis,Scott,AVG,25.7
+3506072,1/9/2017,FBS,Clemson,Alabama,KICK RETURNS,Artavis,Scott,LONG,34
+3506073,1/9/2017,FBS,Clemson,Alabama,KICK RETURNS,C.J.,Fuller,NO,3
+3506074,1/9/2017,FBS,Clemson,Alabama,KICK RETURNS,C.J.,Fuller,YDS,53
+3506075,1/9/2017,FBS,Clemson,Alabama,KICK RETURNS,C.J.,Fuller,AVG,17.7
+3506076,1/9/2017,FBS,Clemson,Alabama,KICK RETURNS,C.J.,Fuller,LONG,25
+3506077,1/9/2017,FBS,Alabama,Clemson,RUSHING,Bo,Scarbrough,ATT,16
+3506078,1/9/2017,FBS,Alabama,Clemson,RUSHING,Bo,Scarbrough,YDS,93
+3506079,1/9/2017,FBS,Alabama,Clemson,RUSHING,Bo,Scarbrough,TD,2
+3506080,1/9/2017,FBS,Alabama,Clemson,RUSHING,Bo,Scarbrough,LONG,37
+3506081,1/9/2017,FBS,Alabama,Clemson,RUSHING,Jalen,Hurts,ATT,10
+3506082,1/9/2017,FBS,Alabama,Clemson,RUSHING,Jalen,Hurts,YDS,63
+3506083,1/9/2017,FBS,Alabama,Clemson,RUSHING,Jalen,Hurts,TD,1
+3506084,1/9/2017,FBS,Alabama,Clemson,RUSHING,Jalen,Hurts,LONG,30
+3506085,1/9/2017,FBS,Alabama,Clemson,RUSHING,ArDarius,Stewart,ATT,1
+3506086,1/9/2017,FBS,Alabama,Clemson,RUSHING,ArDarius,Stewart,YDS,25
+3506087,1/9/2017,FBS,Alabama,Clemson,RUSHING,ArDarius,Stewart,TD,0
+3506088,1/9/2017,FBS,Alabama,Clemson,RUSHING,ArDarius,Stewart,LONG,25
+3506089,1/9/2017,FBS,Alabama,Clemson,RUSHING,Damien,Harris,ATT,5
+3506090,1/9/2017,FBS,Alabama,Clemson,RUSHING,Damien,Harris,YDS,24
+3506091,1/9/2017,FBS,Alabama,Clemson,RUSHING,Damien,Harris,TD,0
+3506092,1/9/2017,FBS,Alabama,Clemson,RUSHING,Damien,Harris,LONG,13
+3506093,1/9/2017,FBS,Alabama,Clemson,RUSHING,Joshua,Jacobs,ATT,2
+3506094,1/9/2017,FBS,Alabama,Clemson,RUSHING,Joshua,Jacobs,YDS,16
+3506095,1/9/2017,FBS,Alabama,Clemson,RUSHING,Joshua,Jacobs,TD,0
+3506096,1/9/2017,FBS,Alabama,Clemson,RUSHING,Joshua,Jacobs,LONG,13
+3506097,1/9/2017,FBS,Alabama,Clemson,PASSING,Jalen,Hurts,CP-ATT-INT,13-31-0
+3506098,1/9/2017,FBS,Alabama,Clemson,PASSING,Jalen,Hurts,YDS,131
+3506099,1/9/2017,FBS,Alabama,Clemson,PASSING,Jalen,Hurts,TD,1
+3506100,1/9/2017,FBS,Alabama,Clemson,PASSING,Jalen,Hurts,LONG,68
+3506101,1/9/2017,FBS,Alabama,Clemson,PASSING,ArDarius,Stewart,CP-ATT-INT,1-1-0
+3506102,1/9/2017,FBS,Alabama,Clemson,PASSING,ArDarius,Stewart,YDS,24
+3506103,1/9/2017,FBS,Alabama,Clemson,PASSING,ArDarius,Stewart,TD,0
+3506104,1/9/2017,FBS,Alabama,Clemson,PASSING,ArDarius,Stewart,LONG,24
+3506105,1/9/2017,FBS,Alabama,Clemson,RECEIVING,O.J.,Howard,REC,4
+3506106,1/9/2017,FBS,Alabama,Clemson,RECEIVING,O.J.,Howard,YDS,106
+3506107,1/9/2017,FBS,Alabama,Clemson,RECEIVING,O.J.,Howard,TD,1
+3506108,1/9/2017,FBS,Alabama,Clemson,RECEIVING,O.J.,Howard,LONG,68
+3506109,1/9/2017,FBS,Alabama,Clemson,RECEIVING,Calvin,Ridley,REC,5
+3506110,1/9/2017,FBS,Alabama,Clemson,RECEIVING,Calvin,Ridley,YDS,36
+3506111,1/9/2017,FBS,Alabama,Clemson,RECEIVING,Calvin,Ridley,TD,0
+3506112,1/9/2017,FBS,Alabama,Clemson,RECEIVING,Calvin,Ridley,LONG,15
+3506113,1/9/2017,FBS,Alabama,Clemson,RECEIVING,ArDarius,Stewart,REC,2
+3506114,1/9/2017,FBS,Alabama,Clemson,RECEIVING,ArDarius,Stewart,YDS,12
+3506115,1/9/2017,FBS,Alabama,Clemson,RECEIVING,ArDarius,Stewart,TD,0
+3506116,1/9/2017,FBS,Alabama,Clemson,RECEIVING,ArDarius,Stewart,LONG,15
+3506117,1/9/2017,FBS,Alabama,Clemson,RECEIVING,Bo,Scarbrough,REC,2
+3506118,1/9/2017,FBS,Alabama,Clemson,RECEIVING,Bo,Scarbrough,YDS,7
+3506119,1/9/2017,FBS,Alabama,Clemson,RECEIVING,Bo,Scarbrough,TD,0
+3506120,1/9/2017,FBS,Alabama,Clemson,RECEIVING,Bo,Scarbrough,LONG,7
+3506121,1/9/2017,FBS,Alabama,Clemson,RECEIVING,Damien,Harris,REC,1
+3506122,1/9/2017,FBS,Alabama,Clemson,RECEIVING,Damien,Harris,YDS,-6
+3506123,1/9/2017,FBS,Alabama,Clemson,RECEIVING,Damien,Harris,TD,0
+3506124,1/9/2017,FBS,Alabama,Clemson,RECEIVING,Damien,Harris,LONG,-6
+3506125,1/9/2017,FBS,Alabama,Clemson,KICKING,Adam,Griffith,FG-FGA,1/1
+3506126,1/9/2017,FBS,Alabama,Clemson,KICKING,Adam,Griffith,LONG,27
+3506127,1/9/2017,FBS,Alabama,Clemson,KICKING,Adam,Griffith,XP,4
+3506128,1/9/2017,FBS,Alabama,Clemson,KICKING,Adam,Griffith,PTS,7
+3506129,1/9/2017,FBS,Alabama,Clemson,PUNTING,JK,Scott,NO,10
+3506130,1/9/2017,FBS,Alabama,Clemson,PUNTING,JK,Scott,YDS,458
+3506131,1/9/2017,FBS,Alabama,Clemson,PUNTING,JK,Scott,AVG,45.8
+3506132,1/9/2017,FBS,Alabama,Clemson,PUNTING,JK,Scott,LONG,57
+3506133,1/9/2017,FBS,Alabama,Clemson,PUNT RETURNS,Gehrig,Dieter,NO,1
+3506134,1/9/2017,FBS,Alabama,Clemson,PUNT RETURNS,Gehrig,Dieter,YDS,9
+3506135,1/9/2017,FBS,Alabama,Clemson,PUNT RETURNS,Gehrig,Dieter,AVG,9.0
+3506136,1/9/2017,FBS,Alabama,Clemson,PUNT RETURNS,Gehrig,Dieter,LONG,9
+3506137,1/9/2017,FBS,Alabama,Clemson,KICK RETURNS,ArDarius,Stewart,NO,2
+3506138,1/9/2017,FBS,Alabama,Clemson,KICK RETURNS,ArDarius,Stewart,YDS,42
+3506139,1/9/2017,FBS,Alabama,Clemson,KICK RETURNS,ArDarius,Stewart,AVG,21.0
+3506140,1/9/2017,FBS,Alabama,Clemson,KICK RETURNS,ArDarius,Stewart,LONG,30
+3506141,1/9/2017,FBS,Alabama,Clemson,KICK RETURNS,Hale,Hentges,NO,1
+3506142,1/9/2017,FBS,Alabama,Clemson,KICK RETURNS,Hale,Hentges,YDS,15
+3506143,1/9/2017,FBS,Alabama,Clemson,KICK RETURNS,Hale,Hentges,AVG,15.0
+3506144,1/9/2017,FBS,Alabama,Clemson,KICK RETURNS,Hale,Hentges,LONG,15
+3506145,1/9/2017,FBS,Alabama,Clemson,KICK RETURNS,Cam,Sims,NO,0
+3506146,1/9/2017,FBS,Alabama,Clemson,KICK RETURNS,Cam,Sims,YDS,0
+3506147,1/9/2017,FBS,Alabama,Clemson,KICK RETURNS,Cam,Sims,AVG,-
+3506148,1/9/2017,FBS,Alabama,Clemson,KICK RETURNS,Cam,Sims,LONG,0

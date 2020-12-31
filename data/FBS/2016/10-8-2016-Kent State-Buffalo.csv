@@ -1,0 +1,149 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2986001,10/8/2016,FBS,Kent State,Buffalo,RUSHING,Nick,Holley,ATT,24
+2986002,10/8/2016,FBS,Kent State,Buffalo,RUSHING,Nick,Holley,YDS,224
+2986003,10/8/2016,FBS,Kent State,Buffalo,RUSHING,Nick,Holley,TD,4
+2986004,10/8/2016,FBS,Kent State,Buffalo,RUSHING,Nick,Holley,LONG,67
+2986005,10/8/2016,FBS,Kent State,Buffalo,RUSHING,Will,Matthews,ATT,5
+2986006,10/8/2016,FBS,Kent State,Buffalo,RUSHING,Will,Matthews,YDS,62
+2986007,10/8/2016,FBS,Kent State,Buffalo,RUSHING,Will,Matthews,TD,0
+2986008,10/8/2016,FBS,Kent State,Buffalo,RUSHING,Will,Matthews,LONG,51
+2986009,10/8/2016,FBS,Kent State,Buffalo,RUSHING,Justin,Rankin,ATT,13
+2986010,10/8/2016,FBS,Kent State,Buffalo,RUSHING,Justin,Rankin,YDS,58
+2986011,10/8/2016,FBS,Kent State,Buffalo,RUSHING,Justin,Rankin,TD,0
+2986012,10/8/2016,FBS,Kent State,Buffalo,RUSHING,Justin,Rankin,LONG,17
+2986013,10/8/2016,FBS,Kent State,Buffalo,RUSHING,Kavious,Price,ATT,2
+2986014,10/8/2016,FBS,Kent State,Buffalo,RUSHING,Kavious,Price,YDS,0
+2986015,10/8/2016,FBS,Kent State,Buffalo,RUSHING,Kavious,Price,TD,0
+2986016,10/8/2016,FBS,Kent State,Buffalo,RUSHING,Kavious,Price,LONG,0
+2986017,10/8/2016,FBS,Kent State,Buffalo,RUSHING,George,Bollas,ATT,1
+2986018,10/8/2016,FBS,Kent State,Buffalo,RUSHING,George,Bollas,YDS,-3
+2986019,10/8/2016,FBS,Kent State,Buffalo,RUSHING,George,Bollas,TD,0
+2986020,10/8/2016,FBS,Kent State,Buffalo,RUSHING,George,Bollas,LONG,-3
+2986021,10/8/2016,FBS,Kent State,Buffalo,PASSING,Nick,Holley,CP-ATT-INT,7-13-0
+2986022,10/8/2016,FBS,Kent State,Buffalo,PASSING,Nick,Holley,YDS,89
+2986023,10/8/2016,FBS,Kent State,Buffalo,PASSING,Nick,Holley,TD,0
+2986024,10/8/2016,FBS,Kent State,Buffalo,PASSING,Nick,Holley,LONG,30
+2986025,10/8/2016,FBS,Kent State,Buffalo,RECEIVING,Justin,Rankin,REC,2
+2986026,10/8/2016,FBS,Kent State,Buffalo,RECEIVING,Justin,Rankin,YDS,40
+2986027,10/8/2016,FBS,Kent State,Buffalo,RECEIVING,Justin,Rankin,TD,0
+2986028,10/8/2016,FBS,Kent State,Buffalo,RECEIVING,Justin,Rankin,LONG,30
+2986029,10/8/2016,FBS,Kent State,Buffalo,RECEIVING,Kavious,Price,REC,3
+2986030,10/8/2016,FBS,Kent State,Buffalo,RECEIVING,Kavious,Price,YDS,36
+2986031,10/8/2016,FBS,Kent State,Buffalo,RECEIVING,Kavious,Price,TD,0
+2986032,10/8/2016,FBS,Kent State,Buffalo,RECEIVING,Kavious,Price,LONG,18
+2986033,10/8/2016,FBS,Kent State,Buffalo,RECEIVING,Ernest,Calhoun,REC,1
+2986034,10/8/2016,FBS,Kent State,Buffalo,RECEIVING,Ernest,Calhoun,YDS,7
+2986035,10/8/2016,FBS,Kent State,Buffalo,RECEIVING,Ernest,Calhoun,TD,0
+2986036,10/8/2016,FBS,Kent State,Buffalo,RECEIVING,Ernest,Calhoun,LONG,7
+2986037,10/8/2016,FBS,Kent State,Buffalo,RECEIVING,Raekwon,James,REC,1
+2986038,10/8/2016,FBS,Kent State,Buffalo,RECEIVING,Raekwon,James,YDS,6
+2986039,10/8/2016,FBS,Kent State,Buffalo,RECEIVING,Raekwon,James,TD,0
+2986040,10/8/2016,FBS,Kent State,Buffalo,RECEIVING,Raekwon,James,LONG,6
+2986041,10/8/2016,FBS,Kent State,Buffalo,KICKING,Shane,Hynes,FG-FGA,3/3
+2986042,10/8/2016,FBS,Kent State,Buffalo,KICKING,Shane,Hynes,LONG,43
+2986043,10/8/2016,FBS,Kent State,Buffalo,KICKING,Shane,Hynes,XP,5
+2986044,10/8/2016,FBS,Kent State,Buffalo,KICKING,Shane,Hynes,PTS,14
+2986045,10/8/2016,FBS,Kent State,Buffalo,PUNTING,Derek,Adams,NO,3
+2986046,10/8/2016,FBS,Kent State,Buffalo,PUNTING,Derek,Adams,YDS,117
+2986047,10/8/2016,FBS,Kent State,Buffalo,PUNTING,Derek,Adams,AVG,39.0
+2986048,10/8/2016,FBS,Kent State,Buffalo,PUNTING,Derek,Adams,LONG,46
+2986049,10/8/2016,FBS,Kent State,Buffalo,PUNT RETURNS,Zaquon,Tyson,NO,1
+2986050,10/8/2016,FBS,Kent State,Buffalo,PUNT RETURNS,Zaquon,Tyson,YDS,7
+2986051,10/8/2016,FBS,Kent State,Buffalo,PUNT RETURNS,Zaquon,Tyson,AVG,7.0
+2986052,10/8/2016,FBS,Kent State,Buffalo,PUNT RETURNS,Zaquon,Tyson,LONG,7
+2986053,10/8/2016,FBS,Kent State,Buffalo,KICK RETURNS,Raekwon,James,NO,1
+2986054,10/8/2016,FBS,Kent State,Buffalo,KICK RETURNS,Raekwon,James,YDS,66
+2986055,10/8/2016,FBS,Kent State,Buffalo,KICK RETURNS,Raekwon,James,AVG,66.0
+2986056,10/8/2016,FBS,Kent State,Buffalo,KICK RETURNS,Raekwon,James,LONG,66
+2986057,10/8/2016,FBS,Kent State,Buffalo,KICK RETURNS,Justin,Rankin,NO,2
+2986058,10/8/2016,FBS,Kent State,Buffalo,KICK RETURNS,Justin,Rankin,YDS,40
+2986059,10/8/2016,FBS,Kent State,Buffalo,KICK RETURNS,Justin,Rankin,AVG,20.0
+2986060,10/8/2016,FBS,Kent State,Buffalo,KICK RETURNS,Justin,Rankin,LONG,22
+2986061,10/8/2016,FBS,Kent State,Buffalo,KICK RETURNS,Myles,Washington,NO,1
+2986062,10/8/2016,FBS,Kent State,Buffalo,KICK RETURNS,Myles,Washington,YDS,9
+2986063,10/8/2016,FBS,Kent State,Buffalo,KICK RETURNS,Myles,Washington,AVG,9.0
+2986064,10/8/2016,FBS,Kent State,Buffalo,KICK RETURNS,Myles,Washington,LONG,9
+2986065,10/8/2016,FBS,Buffalo,Kent State,RUSHING,Tyree,Jackson,ATT,11
+2986066,10/8/2016,FBS,Buffalo,Kent State,RUSHING,Tyree,Jackson,YDS,40
+2986067,10/8/2016,FBS,Buffalo,Kent State,RUSHING,Tyree,Jackson,TD,1
+2986068,10/8/2016,FBS,Buffalo,Kent State,RUSHING,Tyree,Jackson,LONG,14
+2986069,10/8/2016,FBS,Buffalo,Kent State,RUSHING,Jordan,Johnson,ATT,17
+2986070,10/8/2016,FBS,Buffalo,Kent State,RUSHING,Jordan,Johnson,YDS,39
+2986071,10/8/2016,FBS,Buffalo,Kent State,RUSHING,Jordan,Johnson,TD,0
+2986072,10/8/2016,FBS,Buffalo,Kent State,RUSHING,Jordan,Johnson,LONG,9
+2986073,10/8/2016,FBS,Buffalo,Kent State,RUSHING,Johnathan,Hawkins,ATT,6
+2986074,10/8/2016,FBS,Buffalo,Kent State,RUSHING,Johnathan,Hawkins,YDS,22
+2986075,10/8/2016,FBS,Buffalo,Kent State,RUSHING,Johnathan,Hawkins,TD,0
+2986076,10/8/2016,FBS,Buffalo,Kent State,RUSHING,Johnathan,Hawkins,LONG,8
+2986077,10/8/2016,FBS,Buffalo,Kent State,RUSHING,Emmanuel,Reed,ATT,3
+2986078,10/8/2016,FBS,Buffalo,Kent State,RUSHING,Emmanuel,Reed,YDS,15
+2986079,10/8/2016,FBS,Buffalo,Kent State,RUSHING,Emmanuel,Reed,TD,0
+2986080,10/8/2016,FBS,Buffalo,Kent State,RUSHING,Emmanuel,Reed,LONG,9
+2986081,10/8/2016,FBS,Buffalo,Kent State,PASSING,Tyree,Jackson,CP-ATT-INT,20-39-0
+2986082,10/8/2016,FBS,Buffalo,Kent State,PASSING,Tyree,Jackson,YDS,250
+2986083,10/8/2016,FBS,Buffalo,Kent State,PASSING,Tyree,Jackson,TD,1
+2986084,10/8/2016,FBS,Buffalo,Kent State,PASSING,Tyree,Jackson,LONG,30
+2986085,10/8/2016,FBS,Buffalo,Kent State,PASSING,Jordan,Johnson,CP-ATT-INT,1-1-0
+2986086,10/8/2016,FBS,Buffalo,Kent State,PASSING,Jordan,Johnson,YDS,6
+2986087,10/8/2016,FBS,Buffalo,Kent State,PASSING,Jordan,Johnson,TD,0
+2986088,10/8/2016,FBS,Buffalo,Kent State,PASSING,Jordan,Johnson,LONG,6
+2986089,10/8/2016,FBS,Buffalo,Kent State,RECEIVING,Marcus,McGill,REC,4
+2986090,10/8/2016,FBS,Buffalo,Kent State,RECEIVING,Marcus,McGill,YDS,65
+2986091,10/8/2016,FBS,Buffalo,Kent State,RECEIVING,Marcus,McGill,TD,0
+2986092,10/8/2016,FBS,Buffalo,Kent State,RECEIVING,Marcus,McGill,LONG,26
+2986093,10/8/2016,FBS,Buffalo,Kent State,RECEIVING,Malcolm,Robinson,REC,4
+2986094,10/8/2016,FBS,Buffalo,Kent State,RECEIVING,Malcolm,Robinson,YDS,52
+2986095,10/8/2016,FBS,Buffalo,Kent State,RECEIVING,Malcolm,Robinson,TD,0
+2986096,10/8/2016,FBS,Buffalo,Kent State,RECEIVING,Malcolm,Robinson,LONG,30
+2986097,10/8/2016,FBS,Buffalo,Kent State,RECEIVING,Kamathi,Holsey,REC,2
+2986098,10/8/2016,FBS,Buffalo,Kent State,RECEIVING,Kamathi,Holsey,YDS,38
+2986099,10/8/2016,FBS,Buffalo,Kent State,RECEIVING,Kamathi,Holsey,TD,0
+2986100,10/8/2016,FBS,Buffalo,Kent State,RECEIVING,Kamathi,Holsey,LONG,20
+2986101,10/8/2016,FBS,Buffalo,Kent State,RECEIVING,Jordan,Johnson,REC,2
+2986102,10/8/2016,FBS,Buffalo,Kent State,RECEIVING,Jordan,Johnson,YDS,33
+2986103,10/8/2016,FBS,Buffalo,Kent State,RECEIVING,Jordan,Johnson,TD,0
+2986104,10/8/2016,FBS,Buffalo,Kent State,RECEIVING,Jordan,Johnson,LONG,30
+2986105,10/8/2016,FBS,Buffalo,Kent State,RECEIVING,Mason,Schreck,REC,3
+2986106,10/8/2016,FBS,Buffalo,Kent State,RECEIVING,Mason,Schreck,YDS,21
+2986107,10/8/2016,FBS,Buffalo,Kent State,RECEIVING,Mason,Schreck,TD,0
+2986108,10/8/2016,FBS,Buffalo,Kent State,RECEIVING,Mason,Schreck,LONG,9
+2986109,10/8/2016,FBS,Buffalo,Kent State,RECEIVING,K.J.,Osborn,REC,1
+2986110,10/8/2016,FBS,Buffalo,Kent State,RECEIVING,K.J.,Osborn,YDS,20
+2986111,10/8/2016,FBS,Buffalo,Kent State,RECEIVING,K.J.,Osborn,TD,0
+2986112,10/8/2016,FBS,Buffalo,Kent State,RECEIVING,K.J.,Osborn,LONG,20
+2986113,10/8/2016,FBS,Buffalo,Kent State,RECEIVING,Jamarl,Eiland,REC,2
+2986114,10/8/2016,FBS,Buffalo,Kent State,RECEIVING,Jamarl,Eiland,YDS,16
+2986115,10/8/2016,FBS,Buffalo,Kent State,RECEIVING,Jamarl,Eiland,TD,0
+2986116,10/8/2016,FBS,Buffalo,Kent State,RECEIVING,Jamarl,Eiland,LONG,9
+2986117,10/8/2016,FBS,Buffalo,Kent State,RECEIVING,Johnathan,Hawkins,REC,2
+2986118,10/8/2016,FBS,Buffalo,Kent State,RECEIVING,Johnathan,Hawkins,YDS,7
+2986119,10/8/2016,FBS,Buffalo,Kent State,RECEIVING,Johnathan,Hawkins,TD,1
+2986120,10/8/2016,FBS,Buffalo,Kent State,RECEIVING,Johnathan,Hawkins,LONG,6
+2986121,10/8/2016,FBS,Buffalo,Kent State,RECEIVING,Tyler,Mabry,REC,1
+2986122,10/8/2016,FBS,Buffalo,Kent State,RECEIVING,Tyler,Mabry,YDS,4
+2986123,10/8/2016,FBS,Buffalo,Kent State,RECEIVING,Tyler,Mabry,TD,0
+2986124,10/8/2016,FBS,Buffalo,Kent State,RECEIVING,Tyler,Mabry,LONG,4
+2986125,10/8/2016,FBS,Buffalo,Kent State,KICKING,Adam,Mitcheson,FG-FGA,2/3
+2986126,10/8/2016,FBS,Buffalo,Kent State,KICKING,Adam,Mitcheson,LONG,41
+2986127,10/8/2016,FBS,Buffalo,Kent State,KICKING,Adam,Mitcheson,XP,2
+2986128,10/8/2016,FBS,Buffalo,Kent State,KICKING,Adam,Mitcheson,PTS,8
+2986129,10/8/2016,FBS,Buffalo,Kent State,PUNTING,Kyle,Deween,NO,4
+2986130,10/8/2016,FBS,Buffalo,Kent State,PUNTING,Kyle,Deween,YDS,182
+2986131,10/8/2016,FBS,Buffalo,Kent State,PUNTING,Kyle,Deween,AVG,45.5
+2986132,10/8/2016,FBS,Buffalo,Kent State,PUNTING,Kyle,Deween,LONG,58
+2986133,10/8/2016,FBS,Buffalo,Kent State,PUNT RETURNS,Jamarl,Eiland,NO,1
+2986134,10/8/2016,FBS,Buffalo,Kent State,PUNT RETURNS,Jamarl,Eiland,YDS,0
+2986135,10/8/2016,FBS,Buffalo,Kent State,PUNT RETURNS,Jamarl,Eiland,AVG,-
+2986136,10/8/2016,FBS,Buffalo,Kent State,PUNT RETURNS,Jamarl,Eiland,LONG,0
+2986137,10/8/2016,FBS,Buffalo,Kent State,KICK RETURNS,Marcus,McGill,NO,2
+2986138,10/8/2016,FBS,Buffalo,Kent State,KICK RETURNS,Marcus,McGill,YDS,43
+2986139,10/8/2016,FBS,Buffalo,Kent State,KICK RETURNS,Marcus,McGill,AVG,21.5
+2986140,10/8/2016,FBS,Buffalo,Kent State,KICK RETURNS,Marcus,McGill,LONG,30
+2986141,10/8/2016,FBS,Buffalo,Kent State,KICK RETURNS,Johnathan,Hawkins,NO,3
+2986142,10/8/2016,FBS,Buffalo,Kent State,KICK RETURNS,Johnathan,Hawkins,YDS,37
+2986143,10/8/2016,FBS,Buffalo,Kent State,KICK RETURNS,Johnathan,Hawkins,AVG,12.3
+2986144,10/8/2016,FBS,Buffalo,Kent State,KICK RETURNS,Johnathan,Hawkins,LONG,15
+2986145,10/8/2016,FBS,Buffalo,Kent State,KICK RETURNS,Tyler,Mabry,NO,1
+2986146,10/8/2016,FBS,Buffalo,Kent State,KICK RETURNS,Tyler,Mabry,YDS,4
+2986147,10/8/2016,FBS,Buffalo,Kent State,KICK RETURNS,Tyler,Mabry,AVG,4.0
+2986148,10/8/2016,FBS,Buffalo,Kent State,KICK RETURNS,Tyler,Mabry,LONG,4

@@ -1,0 +1,194 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+6533001,11/18/2020,FBS,Western Mich.,Central Mich.,RUSHING,La'Darius,Jefferson,ATT,33
+6533002,11/18/2020,FBS,Western Mich.,Central Mich.,RUSHING,La'Darius,Jefferson,YDS,150
+6533003,11/18/2020,FBS,Western Mich.,Central Mich.,RUSHING,La'Darius,Jefferson,TD,0
+6533004,11/18/2020,FBS,Western Mich.,Central Mich.,RUSHING,La'Darius,Jefferson,LONG,25
+6533005,11/18/2020,FBS,Western Mich.,Central Mich.,RUSHING,Sean,Tyler,ATT,15
+6533006,11/18/2020,FBS,Western Mich.,Central Mich.,RUSHING,Sean,Tyler,YDS,94
+6533007,11/18/2020,FBS,Western Mich.,Central Mich.,RUSHING,Sean,Tyler,TD,1
+6533008,11/18/2020,FBS,Western Mich.,Central Mich.,RUSHING,Sean,Tyler,LONG,29
+6533009,11/18/2020,FBS,Western Mich.,Central Mich.,RUSHING,Kaleb,Eleby,ATT,5
+6533010,11/18/2020,FBS,Western Mich.,Central Mich.,RUSHING,Kaleb,Eleby,YDS,6
+6533011,11/18/2020,FBS,Western Mich.,Central Mich.,RUSHING,Kaleb,Eleby,TD,1
+6533012,11/18/2020,FBS,Western Mich.,Central Mich.,RUSHING,Kaleb,Eleby,LONG,9
+6533013,11/18/2020,FBS,Western Mich.,Central Mich.,RUSHING,,Team,ATT,2
+6533014,11/18/2020,FBS,Western Mich.,Central Mich.,RUSHING,,Team,YDS,-4
+6533015,11/18/2020,FBS,Western Mich.,Central Mich.,RUSHING,,Team,TD,0
+6533016,11/18/2020,FBS,Western Mich.,Central Mich.,RUSHING,,Team,LONG,-2
+6533017,11/18/2020,FBS,Western Mich.,Central Mich.,PASSING,Kaleb,Eleby,CP-ATT-INT,12-20-1
+6533018,11/18/2020,FBS,Western Mich.,Central Mich.,PASSING,Kaleb,Eleby,YDS,382
+6533019,11/18/2020,FBS,Western Mich.,Central Mich.,PASSING,Kaleb,Eleby,TD,5
+6533020,11/18/2020,FBS,Western Mich.,Central Mich.,PASSING,Kaleb,Eleby,LONG,85
+6533021,11/18/2020,FBS,Western Mich.,Central Mich.,RECEIVING,D'Wayne,Eskridge,REC,4
+6533022,11/18/2020,FBS,Western Mich.,Central Mich.,RECEIVING,D'Wayne,Eskridge,YDS,212
+6533023,11/18/2020,FBS,Western Mich.,Central Mich.,RECEIVING,D'Wayne,Eskridge,TD,3
+6533024,11/18/2020,FBS,Western Mich.,Central Mich.,RECEIVING,D'Wayne,Eskridge,LONG,85
+6533025,11/18/2020,FBS,Western Mich.,Central Mich.,RECEIVING,Jaylen,Hall,REC,4
+6533026,11/18/2020,FBS,Western Mich.,Central Mich.,RECEIVING,Jaylen,Hall,YDS,110
+6533027,11/18/2020,FBS,Western Mich.,Central Mich.,RECEIVING,Jaylen,Hall,TD,2
+6533028,11/18/2020,FBS,Western Mich.,Central Mich.,RECEIVING,Jaylen,Hall,LONG,43
+6533029,11/18/2020,FBS,Western Mich.,Central Mich.,RECEIVING,Corey,Crooms,REC,2
+6533030,11/18/2020,FBS,Western Mich.,Central Mich.,RECEIVING,Corey,Crooms,YDS,36
+6533031,11/18/2020,FBS,Western Mich.,Central Mich.,RECEIVING,Corey,Crooms,TD,0
+6533032,11/18/2020,FBS,Western Mich.,Central Mich.,RECEIVING,Corey,Crooms,LONG,28
+6533033,11/18/2020,FBS,Western Mich.,Central Mich.,RECEIVING,DaShon,Bussell,REC,1
+6533034,11/18/2020,FBS,Western Mich.,Central Mich.,RECEIVING,DaShon,Bussell,YDS,14
+6533035,11/18/2020,FBS,Western Mich.,Central Mich.,RECEIVING,DaShon,Bussell,TD,0
+6533036,11/18/2020,FBS,Western Mich.,Central Mich.,RECEIVING,DaShon,Bussell,LONG,14
+6533037,11/18/2020,FBS,Western Mich.,Central Mich.,RECEIVING,Sean,Tyler,REC,1
+6533038,11/18/2020,FBS,Western Mich.,Central Mich.,RECEIVING,Sean,Tyler,YDS,10
+6533039,11/18/2020,FBS,Western Mich.,Central Mich.,RECEIVING,Sean,Tyler,TD,0
+6533040,11/18/2020,FBS,Western Mich.,Central Mich.,RECEIVING,Sean,Tyler,LONG,10
+6533041,11/18/2020,FBS,Western Mich.,Central Mich.,KICKING,Thiago,Kapps,FG-FGA,1/2
+6533042,11/18/2020,FBS,Western Mich.,Central Mich.,KICKING,Thiago,Kapps,LONG,24
+6533043,11/18/2020,FBS,Western Mich.,Central Mich.,KICKING,Thiago,Kapps,XP,7
+6533044,11/18/2020,FBS,Western Mich.,Central Mich.,KICKING,Thiago,Kapps,PTS,10
+6533045,11/18/2020,FBS,Western Mich.,Central Mich.,PUNTING,Nick,Mihalic,NO,3
+6533046,11/18/2020,FBS,Western Mich.,Central Mich.,PUNTING,Nick,Mihalic,YDS,114
+6533047,11/18/2020,FBS,Western Mich.,Central Mich.,PUNTING,Nick,Mihalic,AVG,38.0
+6533048,11/18/2020,FBS,Western Mich.,Central Mich.,PUNTING,Nick,Mihalic,LONG,39
+6533049,11/18/2020,FBS,Western Mich.,Central Mich.,PUNT RETURNS,DaShon,Bussell,NO,4
+6533050,11/18/2020,FBS,Western Mich.,Central Mich.,PUNT RETURNS,DaShon,Bussell,YDS,24
+6533051,11/18/2020,FBS,Western Mich.,Central Mich.,PUNT RETURNS,DaShon,Bussell,AVG,6.0
+6533052,11/18/2020,FBS,Western Mich.,Central Mich.,PUNT RETURNS,DaShon,Bussell,LONG,13
+6533053,11/18/2020,FBS,Western Mich.,Central Mich.,PUNT RETURNS,Bricen,Garner,NO,0
+6533054,11/18/2020,FBS,Western Mich.,Central Mich.,PUNT RETURNS,Bricen,Garner,YDS,0
+6533055,11/18/2020,FBS,Western Mich.,Central Mich.,PUNT RETURNS,Bricen,Garner,AVG,-
+6533056,11/18/2020,FBS,Western Mich.,Central Mich.,PUNT RETURNS,Bricen,Garner,LONG,0
+6533057,11/18/2020,FBS,Western Mich.,Central Mich.,PUNT RETURNS,Corey,Crooms,NO,0
+6533058,11/18/2020,FBS,Western Mich.,Central Mich.,PUNT RETURNS,Corey,Crooms,YDS,0
+6533059,11/18/2020,FBS,Western Mich.,Central Mich.,PUNT RETURNS,Corey,Crooms,AVG,-
+6533060,11/18/2020,FBS,Western Mich.,Central Mich.,PUNT RETURNS,Corey,Crooms,LONG,0
+6533061,11/18/2020,FBS,Western Mich.,Central Mich.,KICK RETURNS,D'Wayne,Eskridge,NO,2
+6533062,11/18/2020,FBS,Western Mich.,Central Mich.,KICK RETURNS,D'Wayne,Eskridge,YDS,41
+6533063,11/18/2020,FBS,Western Mich.,Central Mich.,KICK RETURNS,D'Wayne,Eskridge,AVG,20.5
+6533064,11/18/2020,FBS,Western Mich.,Central Mich.,KICK RETURNS,D'Wayne,Eskridge,LONG,23
+6533065,11/18/2020,FBS,Western Mich.,Central Mich.,KICK RETURNS,DaShon,Bussell,NO,1
+6533066,11/18/2020,FBS,Western Mich.,Central Mich.,KICK RETURNS,DaShon,Bussell,YDS,22
+6533067,11/18/2020,FBS,Western Mich.,Central Mich.,KICK RETURNS,DaShon,Bussell,AVG,22.0
+6533068,11/18/2020,FBS,Western Mich.,Central Mich.,KICK RETURNS,DaShon,Bussell,LONG,22
+6533069,11/18/2020,FBS,Western Mich.,Central Mich.,KICK RETURNS,Ryan,Kilburg,NO,1
+6533070,11/18/2020,FBS,Western Mich.,Central Mich.,KICK RETURNS,Ryan,Kilburg,YDS,-1
+6533071,11/18/2020,FBS,Western Mich.,Central Mich.,KICK RETURNS,Ryan,Kilburg,AVG,-
+6533072,11/18/2020,FBS,Western Mich.,Central Mich.,KICK RETURNS,Ryan,Kilburg,LONG,-1
+6533073,11/18/2020,FBS,Western Mich.,Central Mich.,DEFENSE,Braden,Fiske,TOT,1
+6533074,11/18/2020,FBS,Western Mich.,Central Mich.,DEFENSE,Braden,Fiske,SOLO,1
+6533075,11/18/2020,FBS,Western Mich.,Central Mich.,DEFENSE,Braden,Fiske,SACKS,1.0
+6533076,11/18/2020,FBS,Western Mich.,Central Mich.,DEFENSE,Braden,Fiske,TFL,1
+6533077,11/18/2020,FBS,Western Mich.,Central Mich.,DEFENSE,Braden,Fiske,INT,0
+6533078,11/18/2020,FBS,Western Mich.,Central Mich.,DEFENSE,Braden,Fiske,FF,0
+6533079,11/18/2020,FBS,Western Mich.,Central Mich.,DEFENSE,Braden,Fiske,FR,0
+6533080,11/18/2020,FBS,Western Mich.,Central Mich.,DEFENSE,Corvin,Moment,TOT,1
+6533081,11/18/2020,FBS,Western Mich.,Central Mich.,DEFENSE,Corvin,Moment,SOLO,1
+6533082,11/18/2020,FBS,Western Mich.,Central Mich.,DEFENSE,Corvin,Moment,SACKS,1.0
+6533083,11/18/2020,FBS,Western Mich.,Central Mich.,DEFENSE,Corvin,Moment,TFL,1
+6533084,11/18/2020,FBS,Western Mich.,Central Mich.,DEFENSE,Corvin,Moment,INT,0
+6533085,11/18/2020,FBS,Western Mich.,Central Mich.,DEFENSE,Corvin,Moment,FF,0
+6533086,11/18/2020,FBS,Western Mich.,Central Mich.,DEFENSE,Corvin,Moment,FR,0
+6533087,11/18/2020,FBS,Western Mich.,Central Mich.,DEFENSE,Ralph,Holley,TOT,1
+6533088,11/18/2020,FBS,Western Mich.,Central Mich.,DEFENSE,Ralph,Holley,SOLO,1
+6533089,11/18/2020,FBS,Western Mich.,Central Mich.,DEFENSE,Ralph,Holley,SACKS,1.0
+6533090,11/18/2020,FBS,Western Mich.,Central Mich.,DEFENSE,Ralph,Holley,TFL,1
+6533091,11/18/2020,FBS,Western Mich.,Central Mich.,DEFENSE,Ralph,Holley,INT,0
+6533092,11/18/2020,FBS,Western Mich.,Central Mich.,DEFENSE,Ralph,Holley,FF,0
+6533093,11/18/2020,FBS,Western Mich.,Central Mich.,DEFENSE,Ralph,Holley,FR,0
+6533094,11/18/2020,FBS,Western Mich.,Central Mich.,DEFENSE,A.J.,Thomas,TOT,1
+6533095,11/18/2020,FBS,Western Mich.,Central Mich.,DEFENSE,A.J.,Thomas,SOLO,1
+6533096,11/18/2020,FBS,Western Mich.,Central Mich.,DEFENSE,A.J.,Thomas,SACKS,1.0
+6533097,11/18/2020,FBS,Western Mich.,Central Mich.,DEFENSE,A.J.,Thomas,TFL,1
+6533098,11/18/2020,FBS,Western Mich.,Central Mich.,DEFENSE,A.J.,Thomas,INT,0
+6533099,11/18/2020,FBS,Western Mich.,Central Mich.,DEFENSE,A.J.,Thomas,FF,0
+6533100,11/18/2020,FBS,Western Mich.,Central Mich.,DEFENSE,A.J.,Thomas,FR,0
+6533101,11/18/2020,FBS,Central Mich.,Western Mich.,RUSHING,Kobe,Lewis,ATT,16
+6533102,11/18/2020,FBS,Central Mich.,Western Mich.,RUSHING,Kobe,Lewis,YDS,114
+6533103,11/18/2020,FBS,Central Mich.,Western Mich.,RUSHING,Kobe,Lewis,TD,2
+6533104,11/18/2020,FBS,Central Mich.,Western Mich.,RUSHING,Kobe,Lewis,LONG,69
+6533105,11/18/2020,FBS,Central Mich.,Western Mich.,RUSHING,Kalil,Pimpleton,ATT,7
+6533106,11/18/2020,FBS,Central Mich.,Western Mich.,RUSHING,Kalil,Pimpleton,YDS,108
+6533107,11/18/2020,FBS,Central Mich.,Western Mich.,RUSHING,Kalil,Pimpleton,TD,3
+6533108,11/18/2020,FBS,Central Mich.,Western Mich.,RUSHING,Kalil,Pimpleton,LONG,65
+6533109,11/18/2020,FBS,Central Mich.,Western Mich.,RUSHING,Lew,Nichols,ATT,6
+6533110,11/18/2020,FBS,Central Mich.,Western Mich.,RUSHING,Lew,Nichols,YDS,19
+6533111,11/18/2020,FBS,Central Mich.,Western Mich.,RUSHING,Lew,Nichols,TD,0
+6533112,11/18/2020,FBS,Central Mich.,Western Mich.,RUSHING,Lew,Nichols,LONG,17
+6533113,11/18/2020,FBS,Central Mich.,Western Mich.,RUSHING,Ty,Brock,ATT,1
+6533114,11/18/2020,FBS,Central Mich.,Western Mich.,RUSHING,Ty,Brock,YDS,-3
+6533115,11/18/2020,FBS,Central Mich.,Western Mich.,RUSHING,Ty,Brock,TD,0
+6533116,11/18/2020,FBS,Central Mich.,Western Mich.,RUSHING,Ty,Brock,LONG,-3
+6533117,11/18/2020,FBS,Central Mich.,Western Mich.,RUSHING,Daniel,Richardson,ATT,6
+6533118,11/18/2020,FBS,Central Mich.,Western Mich.,RUSHING,Daniel,Richardson,YDS,-19
+6533119,11/18/2020,FBS,Central Mich.,Western Mich.,RUSHING,Daniel,Richardson,TD,0
+6533120,11/18/2020,FBS,Central Mich.,Western Mich.,RUSHING,Daniel,Richardson,LONG,7
+6533121,11/18/2020,FBS,Central Mich.,Western Mich.,PASSING,Daniel,Richardson,CP-ATT-INT,13-19-0
+6533122,11/18/2020,FBS,Central Mich.,Western Mich.,PASSING,Daniel,Richardson,YDS,157
+6533123,11/18/2020,FBS,Central Mich.,Western Mich.,PASSING,Daniel,Richardson,TD,1
+6533124,11/18/2020,FBS,Central Mich.,Western Mich.,PASSING,Daniel,Richardson,LONG,39
+6533125,11/18/2020,FBS,Central Mich.,Western Mich.,PASSING,Kalil,Pimpleton,CP-ATT-INT,1-2-0
+6533126,11/18/2020,FBS,Central Mich.,Western Mich.,PASSING,Kalil,Pimpleton,YDS,30
+6533127,11/18/2020,FBS,Central Mich.,Western Mich.,PASSING,Kalil,Pimpleton,TD,0
+6533128,11/18/2020,FBS,Central Mich.,Western Mich.,PASSING,Kalil,Pimpleton,LONG,30
+6533129,11/18/2020,FBS,Central Mich.,Western Mich.,RECEIVING,Dallas,Dixon,REC,4
+6533130,11/18/2020,FBS,Central Mich.,Western Mich.,RECEIVING,Dallas,Dixon,YDS,67
+6533131,11/18/2020,FBS,Central Mich.,Western Mich.,RECEIVING,Dallas,Dixon,TD,0
+6533132,11/18/2020,FBS,Central Mich.,Western Mich.,RECEIVING,Dallas,Dixon,LONG,39
+6533133,11/18/2020,FBS,Central Mich.,Western Mich.,RECEIVING,Kalil,Pimpleton,REC,3
+6533134,11/18/2020,FBS,Central Mich.,Western Mich.,RECEIVING,Kalil,Pimpleton,YDS,42
+6533135,11/18/2020,FBS,Central Mich.,Western Mich.,RECEIVING,Kalil,Pimpleton,TD,0
+6533136,11/18/2020,FBS,Central Mich.,Western Mich.,RECEIVING,Kalil,Pimpleton,LONG,25
+6533137,11/18/2020,FBS,Central Mich.,Western Mich.,RECEIVING,JaCorey,Sullivan,REC,1
+6533138,11/18/2020,FBS,Central Mich.,Western Mich.,RECEIVING,JaCorey,Sullivan,YDS,30
+6533139,11/18/2020,FBS,Central Mich.,Western Mich.,RECEIVING,JaCorey,Sullivan,TD,0
+6533140,11/18/2020,FBS,Central Mich.,Western Mich.,RECEIVING,JaCorey,Sullivan,LONG,30
+6533141,11/18/2020,FBS,Central Mich.,Western Mich.,RECEIVING,Drayton,Law,REC,2
+6533142,11/18/2020,FBS,Central Mich.,Western Mich.,RECEIVING,Drayton,Law,YDS,27
+6533143,11/18/2020,FBS,Central Mich.,Western Mich.,RECEIVING,Drayton,Law,TD,1
+6533144,11/18/2020,FBS,Central Mich.,Western Mich.,RECEIVING,Drayton,Law,LONG,23
+6533145,11/18/2020,FBS,Central Mich.,Western Mich.,RECEIVING,Lew,Nichols,REC,4
+6533146,11/18/2020,FBS,Central Mich.,Western Mich.,RECEIVING,Lew,Nichols,YDS,21
+6533147,11/18/2020,FBS,Central Mich.,Western Mich.,RECEIVING,Lew,Nichols,TD,0
+6533148,11/18/2020,FBS,Central Mich.,Western Mich.,RECEIVING,Lew,Nichols,LONG,12
+6533149,11/18/2020,FBS,Central Mich.,Western Mich.,KICKING,Marshall,Meeder,FG-FGA,0/0
+6533150,11/18/2020,FBS,Central Mich.,Western Mich.,KICKING,Marshall,Meeder,LONG,-
+6533151,11/18/2020,FBS,Central Mich.,Western Mich.,KICKING,Marshall,Meeder,XP,2
+6533152,11/18/2020,FBS,Central Mich.,Western Mich.,KICKING,Marshall,Meeder,PTS,2
+6533153,11/18/2020,FBS,Central Mich.,Western Mich.,PUNTING,Luke,Elzinga,NO,7
+6533154,11/18/2020,FBS,Central Mich.,Western Mich.,PUNTING,Luke,Elzinga,YDS,316
+6533155,11/18/2020,FBS,Central Mich.,Western Mich.,PUNTING,Luke,Elzinga,AVG,45.1
+6533156,11/18/2020,FBS,Central Mich.,Western Mich.,PUNTING,Luke,Elzinga,LONG,53
+6533157,11/18/2020,FBS,Central Mich.,Western Mich.,PUNT RETURNS,Kalil,Pimpleton,NO,2
+6533158,11/18/2020,FBS,Central Mich.,Western Mich.,PUNT RETURNS,Kalil,Pimpleton,YDS,15
+6533159,11/18/2020,FBS,Central Mich.,Western Mich.,PUNT RETURNS,Kalil,Pimpleton,AVG,7.5
+6533160,11/18/2020,FBS,Central Mich.,Western Mich.,PUNT RETURNS,Kalil,Pimpleton,LONG,15
+6533161,11/18/2020,FBS,Central Mich.,Western Mich.,KICK RETURNS,Kobe,Lewis,NO,3
+6533162,11/18/2020,FBS,Central Mich.,Western Mich.,KICK RETURNS,Kobe,Lewis,YDS,56
+6533163,11/18/2020,FBS,Central Mich.,Western Mich.,KICK RETURNS,Kobe,Lewis,AVG,18.7
+6533164,11/18/2020,FBS,Central Mich.,Western Mich.,KICK RETURNS,Kobe,Lewis,LONG,39
+6533165,11/18/2020,FBS,Central Mich.,Western Mich.,KICK RETURNS,George,Douglas,NO,1
+6533166,11/18/2020,FBS,Central Mich.,Western Mich.,KICK RETURNS,George,Douglas,YDS,27
+6533167,11/18/2020,FBS,Central Mich.,Western Mich.,KICK RETURNS,George,Douglas,AVG,27.0
+6533168,11/18/2020,FBS,Central Mich.,Western Mich.,KICK RETURNS,George,Douglas,LONG,0
+6533169,11/18/2020,FBS,Central Mich.,Western Mich.,KICK RETURNS,Zahir,Swann,NO,0
+6533170,11/18/2020,FBS,Central Mich.,Western Mich.,KICK RETURNS,Zahir,Swann,YDS,0
+6533171,11/18/2020,FBS,Central Mich.,Western Mich.,KICK RETURNS,Zahir,Swann,AVG,-
+6533172,11/18/2020,FBS,Central Mich.,Western Mich.,KICK RETURNS,Zahir,Swann,LONG,27
+6533173,11/18/2020,FBS,Central Mich.,Western Mich.,DEFENSE,Mohamed,Diallo,TOT,1
+6533174,11/18/2020,FBS,Central Mich.,Western Mich.,DEFENSE,Mohamed,Diallo,SOLO,0
+6533175,11/18/2020,FBS,Central Mich.,Western Mich.,DEFENSE,Mohamed,Diallo,SACKS,0.5
+6533176,11/18/2020,FBS,Central Mich.,Western Mich.,DEFENSE,Mohamed,Diallo,TFL,0
+6533177,11/18/2020,FBS,Central Mich.,Western Mich.,DEFENSE,Mohamed,Diallo,INT,0
+6533178,11/18/2020,FBS,Central Mich.,Western Mich.,DEFENSE,Mohamed,Diallo,FF,0
+6533179,11/18/2020,FBS,Central Mich.,Western Mich.,DEFENSE,Mohamed,Diallo,FR,0
+6533180,11/18/2020,FBS,Central Mich.,Western Mich.,DEFENSE,George,Douglas,TOT,0
+6533181,11/18/2020,FBS,Central Mich.,Western Mich.,DEFENSE,George,Douglas,SOLO,0
+6533182,11/18/2020,FBS,Central Mich.,Western Mich.,DEFENSE,George,Douglas,SACKS,0.0
+6533183,11/18/2020,FBS,Central Mich.,Western Mich.,DEFENSE,George,Douglas,TFL,0
+6533184,11/18/2020,FBS,Central Mich.,Western Mich.,DEFENSE,George,Douglas,INT,1
+6533185,11/18/2020,FBS,Central Mich.,Western Mich.,DEFENSE,George,Douglas,FF,0
+6533186,11/18/2020,FBS,Central Mich.,Western Mich.,DEFENSE,George,Douglas,FR,0
+6533187,11/18/2020,FBS,Central Mich.,Western Mich.,DEFENSE,Troy,Brown,TOT,1
+6533188,11/18/2020,FBS,Central Mich.,Western Mich.,DEFENSE,Troy,Brown,SOLO,0
+6533189,11/18/2020,FBS,Central Mich.,Western Mich.,DEFENSE,Troy,Brown,SACKS,0.5
+6533190,11/18/2020,FBS,Central Mich.,Western Mich.,DEFENSE,Troy,Brown,TFL,0
+6533191,11/18/2020,FBS,Central Mich.,Western Mich.,DEFENSE,Troy,Brown,INT,0
+6533192,11/18/2020,FBS,Central Mich.,Western Mich.,DEFENSE,Troy,Brown,FF,0
+6533193,11/18/2020,FBS,Central Mich.,Western Mich.,DEFENSE,Troy,Brown,FR,0

@@ -1,0 +1,133 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3455001,12/3/2016,FBS,Oklahoma State,Oklahoma,RUSHING,Justice,Hill,ATT,16
+3455002,12/3/2016,FBS,Oklahoma State,Oklahoma,RUSHING,Justice,Hill,YDS,99
+3455003,12/3/2016,FBS,Oklahoma State,Oklahoma,RUSHING,Justice,Hill,TD,0
+3455004,12/3/2016,FBS,Oklahoma State,Oklahoma,RUSHING,Justice,Hill,LONG,32
+3455005,12/3/2016,FBS,Oklahoma State,Oklahoma,RUSHING,Chris,Carson,ATT,12
+3455006,12/3/2016,FBS,Oklahoma State,Oklahoma,RUSHING,Chris,Carson,YDS,91
+3455007,12/3/2016,FBS,Oklahoma State,Oklahoma,RUSHING,Chris,Carson,TD,1
+3455008,12/3/2016,FBS,Oklahoma State,Oklahoma,RUSHING,Chris,Carson,LONG,26
+3455009,12/3/2016,FBS,Oklahoma State,Oklahoma,RUSHING,Mason,Rudolph,ATT,8
+3455010,12/3/2016,FBS,Oklahoma State,Oklahoma,RUSHING,Mason,Rudolph,YDS,28
+3455011,12/3/2016,FBS,Oklahoma State,Oklahoma,RUSHING,Mason,Rudolph,TD,1
+3455012,12/3/2016,FBS,Oklahoma State,Oklahoma,RUSHING,Mason,Rudolph,LONG,13
+3455013,12/3/2016,FBS,Oklahoma State,Oklahoma,RUSHING,,Team,ATT,1
+3455014,12/3/2016,FBS,Oklahoma State,Oklahoma,RUSHING,,Team,YDS,-1
+3455015,12/3/2016,FBS,Oklahoma State,Oklahoma,RUSHING,,Team,TD,0
+3455016,12/3/2016,FBS,Oklahoma State,Oklahoma,RUSHING,,Team,LONG,-1
+3455017,12/3/2016,FBS,Oklahoma State,Oklahoma,PASSING,Mason,Rudolph,CP-ATT-INT,11-25-0
+3455018,12/3/2016,FBS,Oklahoma State,Oklahoma,PASSING,Mason,Rudolph,YDS,186
+3455019,12/3/2016,FBS,Oklahoma State,Oklahoma,PASSING,Mason,Rudolph,TD,0
+3455020,12/3/2016,FBS,Oklahoma State,Oklahoma,PASSING,Mason,Rudolph,LONG,54
+3455021,12/3/2016,FBS,Oklahoma State,Oklahoma,RECEIVING,Jhajuan,Seales,REC,3
+3455022,12/3/2016,FBS,Oklahoma State,Oklahoma,RECEIVING,Jhajuan,Seales,YDS,80
+3455023,12/3/2016,FBS,Oklahoma State,Oklahoma,RECEIVING,Jhajuan,Seales,TD,0
+3455024,12/3/2016,FBS,Oklahoma State,Oklahoma,RECEIVING,Jhajuan,Seales,LONG,54
+3455025,12/3/2016,FBS,Oklahoma State,Oklahoma,RECEIVING,James,Washington,REC,2
+3455026,12/3/2016,FBS,Oklahoma State,Oklahoma,RECEIVING,James,Washington,YDS,50
+3455027,12/3/2016,FBS,Oklahoma State,Oklahoma,RECEIVING,James,Washington,TD,0
+3455028,12/3/2016,FBS,Oklahoma State,Oklahoma,RECEIVING,James,Washington,LONG,44
+3455029,12/3/2016,FBS,Oklahoma State,Oklahoma,RECEIVING,Jalen,McCleskey,REC,2
+3455030,12/3/2016,FBS,Oklahoma State,Oklahoma,RECEIVING,Jalen,McCleskey,YDS,16
+3455031,12/3/2016,FBS,Oklahoma State,Oklahoma,RECEIVING,Jalen,McCleskey,TD,0
+3455032,12/3/2016,FBS,Oklahoma State,Oklahoma,RECEIVING,Jalen,McCleskey,LONG,12
+3455033,12/3/2016,FBS,Oklahoma State,Oklahoma,RECEIVING,Zac,Veatch,REC,1
+3455034,12/3/2016,FBS,Oklahoma State,Oklahoma,RECEIVING,Zac,Veatch,YDS,15
+3455035,12/3/2016,FBS,Oklahoma State,Oklahoma,RECEIVING,Zac,Veatch,TD,0
+3455036,12/3/2016,FBS,Oklahoma State,Oklahoma,RECEIVING,Zac,Veatch,LONG,15
+3455037,12/3/2016,FBS,Oklahoma State,Oklahoma,RECEIVING,Chris,Lacy,REC,1
+3455038,12/3/2016,FBS,Oklahoma State,Oklahoma,RECEIVING,Chris,Lacy,YDS,9
+3455039,12/3/2016,FBS,Oklahoma State,Oklahoma,RECEIVING,Chris,Lacy,TD,0
+3455040,12/3/2016,FBS,Oklahoma State,Oklahoma,RECEIVING,Chris,Lacy,LONG,9
+3455041,12/3/2016,FBS,Oklahoma State,Oklahoma,RECEIVING,Blake,Jarwin,REC,1
+3455042,12/3/2016,FBS,Oklahoma State,Oklahoma,RECEIVING,Blake,Jarwin,YDS,9
+3455043,12/3/2016,FBS,Oklahoma State,Oklahoma,RECEIVING,Blake,Jarwin,TD,0
+3455044,12/3/2016,FBS,Oklahoma State,Oklahoma,RECEIVING,Blake,Jarwin,LONG,9
+3455045,12/3/2016,FBS,Oklahoma State,Oklahoma,RECEIVING,Chris,Carson,REC,1
+3455046,12/3/2016,FBS,Oklahoma State,Oklahoma,RECEIVING,Chris,Carson,YDS,7
+3455047,12/3/2016,FBS,Oklahoma State,Oklahoma,RECEIVING,Chris,Carson,TD,0
+3455048,12/3/2016,FBS,Oklahoma State,Oklahoma,RECEIVING,Chris,Carson,LONG,7
+3455049,12/3/2016,FBS,Oklahoma State,Oklahoma,KICKING,Ben,Grogan,FG-FGA,2/3
+3455050,12/3/2016,FBS,Oklahoma State,Oklahoma,KICKING,Ben,Grogan,LONG,30
+3455051,12/3/2016,FBS,Oklahoma State,Oklahoma,KICKING,Ben,Grogan,XP,2
+3455052,12/3/2016,FBS,Oklahoma State,Oklahoma,KICKING,Ben,Grogan,PTS,8
+3455053,12/3/2016,FBS,Oklahoma State,Oklahoma,PUNTING,Zach,Sinor,NO,6
+3455054,12/3/2016,FBS,Oklahoma State,Oklahoma,PUNTING,Zach,Sinor,YDS,240
+3455055,12/3/2016,FBS,Oklahoma State,Oklahoma,PUNTING,Zach,Sinor,AVG,40.0
+3455056,12/3/2016,FBS,Oklahoma State,Oklahoma,PUNTING,Zach,Sinor,LONG,58
+3455057,12/3/2016,FBS,Oklahoma State,Oklahoma,PUNT RETURNS,Jalen,McCleskey,NO,0
+3455058,12/3/2016,FBS,Oklahoma State,Oklahoma,PUNT RETURNS,Jalen,McCleskey,YDS,0
+3455059,12/3/2016,FBS,Oklahoma State,Oklahoma,PUNT RETURNS,Jalen,McCleskey,AVG,-
+3455060,12/3/2016,FBS,Oklahoma State,Oklahoma,PUNT RETURNS,Jalen,McCleskey,LONG,0
+3455061,12/3/2016,FBS,Oklahoma State,Oklahoma,KICK RETURNS,Barry,J.Sanders,NO,4
+3455062,12/3/2016,FBS,Oklahoma State,Oklahoma,KICK RETURNS,Barry,J.Sanders,YDS,138
+3455063,12/3/2016,FBS,Oklahoma State,Oklahoma,KICK RETURNS,Barry,J.Sanders,AVG,34.5
+3455064,12/3/2016,FBS,Oklahoma State,Oklahoma,KICK RETURNS,Barry,J.Sanders,LONG,56
+3455065,12/3/2016,FBS,Oklahoma State,Oklahoma,KICK RETURNS,Chris,Lacy,NO,1
+3455066,12/3/2016,FBS,Oklahoma State,Oklahoma,KICK RETURNS,Chris,Lacy,YDS,24
+3455067,12/3/2016,FBS,Oklahoma State,Oklahoma,KICK RETURNS,Chris,Lacy,AVG,24.0
+3455068,12/3/2016,FBS,Oklahoma State,Oklahoma,KICK RETURNS,Chris,Lacy,LONG,24
+3455069,12/3/2016,FBS,Oklahoma,Oklahoma State,RUSHING,Samaje,Perine,ATT,37
+3455070,12/3/2016,FBS,Oklahoma,Oklahoma State,RUSHING,Samaje,Perine,YDS,239
+3455071,12/3/2016,FBS,Oklahoma,Oklahoma State,RUSHING,Samaje,Perine,TD,1
+3455072,12/3/2016,FBS,Oklahoma,Oklahoma State,RUSHING,Samaje,Perine,LONG,66
+3455073,12/3/2016,FBS,Oklahoma,Oklahoma State,RUSHING,Joe,Mixon,ATT,11
+3455074,12/3/2016,FBS,Oklahoma,Oklahoma State,RUSHING,Joe,Mixon,YDS,99
+3455075,12/3/2016,FBS,Oklahoma,Oklahoma State,RUSHING,Joe,Mixon,TD,1
+3455076,12/3/2016,FBS,Oklahoma,Oklahoma State,RUSHING,Joe,Mixon,LONG,79
+3455077,12/3/2016,FBS,Oklahoma,Oklahoma State,RUSHING,Baker,Mayfield,ATT,3
+3455078,12/3/2016,FBS,Oklahoma,Oklahoma State,RUSHING,Baker,Mayfield,YDS,5
+3455079,12/3/2016,FBS,Oklahoma,Oklahoma State,RUSHING,Baker,Mayfield,TD,0
+3455080,12/3/2016,FBS,Oklahoma,Oklahoma State,RUSHING,Baker,Mayfield,LONG,6
+3455081,12/3/2016,FBS,Oklahoma,Oklahoma State,RUSHING,Dimitri,Flowers,ATT,0
+3455082,12/3/2016,FBS,Oklahoma,Oklahoma State,RUSHING,Dimitri,Flowers,YDS,0
+3455083,12/3/2016,FBS,Oklahoma,Oklahoma State,RUSHING,Dimitri,Flowers,TD,0
+3455084,12/3/2016,FBS,Oklahoma,Oklahoma State,RUSHING,Dimitri,Flowers,LONG,0
+3455085,12/3/2016,FBS,Oklahoma,Oklahoma State,RUSHING,,Team,ATT,1
+3455086,12/3/2016,FBS,Oklahoma,Oklahoma State,RUSHING,,Team,YDS,-2
+3455087,12/3/2016,FBS,Oklahoma,Oklahoma State,RUSHING,,Team,TD,0
+3455088,12/3/2016,FBS,Oklahoma,Oklahoma State,RUSHING,,Team,LONG,-2
+3455089,12/3/2016,FBS,Oklahoma,Oklahoma State,PASSING,Baker,Mayfield,CP-ATT-INT,13-19-0
+3455090,12/3/2016,FBS,Oklahoma,Oklahoma State,PASSING,Baker,Mayfield,YDS,288
+3455091,12/3/2016,FBS,Oklahoma,Oklahoma State,PASSING,Baker,Mayfield,TD,3
+3455092,12/3/2016,FBS,Oklahoma,Oklahoma State,PASSING,Baker,Mayfield,LONG,69
+3455093,12/3/2016,FBS,Oklahoma,Oklahoma State,RECEIVING,Dede,Westbrook,REC,4
+3455094,12/3/2016,FBS,Oklahoma,Oklahoma State,RECEIVING,Dede,Westbrook,YDS,111
+3455095,12/3/2016,FBS,Oklahoma,Oklahoma State,RECEIVING,Dede,Westbrook,TD,1
+3455096,12/3/2016,FBS,Oklahoma,Oklahoma State,RECEIVING,Dede,Westbrook,LONG,69
+3455097,12/3/2016,FBS,Oklahoma,Oklahoma State,RECEIVING,Dimitri,Flowers,REC,1
+3455098,12/3/2016,FBS,Oklahoma,Oklahoma State,RECEIVING,Dimitri,Flowers,YDS,67
+3455099,12/3/2016,FBS,Oklahoma,Oklahoma State,RECEIVING,Dimitri,Flowers,TD,0
+3455100,12/3/2016,FBS,Oklahoma,Oklahoma State,RECEIVING,Dimitri,Flowers,LONG,67
+3455101,12/3/2016,FBS,Oklahoma,Oklahoma State,RECEIVING,Jeffery,Mead,REC,1
+3455102,12/3/2016,FBS,Oklahoma,Oklahoma State,RECEIVING,Jeffery,Mead,YDS,42
+3455103,12/3/2016,FBS,Oklahoma,Oklahoma State,RECEIVING,Jeffery,Mead,TD,0
+3455104,12/3/2016,FBS,Oklahoma,Oklahoma State,RECEIVING,Jeffery,Mead,LONG,42
+3455105,12/3/2016,FBS,Oklahoma,Oklahoma State,RECEIVING,Geno,Lewis,REC,3
+3455106,12/3/2016,FBS,Oklahoma,Oklahoma State,RECEIVING,Geno,Lewis,YDS,28
+3455107,12/3/2016,FBS,Oklahoma,Oklahoma State,RECEIVING,Geno,Lewis,TD,1
+3455108,12/3/2016,FBS,Oklahoma,Oklahoma State,RECEIVING,Geno,Lewis,LONG,12
+3455109,12/3/2016,FBS,Oklahoma,Oklahoma State,RECEIVING,Jordan,Smallwood,REC,2
+3455110,12/3/2016,FBS,Oklahoma,Oklahoma State,RECEIVING,Jordan,Smallwood,YDS,21
+3455111,12/3/2016,FBS,Oklahoma,Oklahoma State,RECEIVING,Jordan,Smallwood,TD,0
+3455112,12/3/2016,FBS,Oklahoma,Oklahoma State,RECEIVING,Jordan,Smallwood,LONG,12
+3455113,12/3/2016,FBS,Oklahoma,Oklahoma State,RECEIVING,Joe,Mixon,REC,2
+3455114,12/3/2016,FBS,Oklahoma,Oklahoma State,RECEIVING,Joe,Mixon,YDS,19
+3455115,12/3/2016,FBS,Oklahoma,Oklahoma State,RECEIVING,Joe,Mixon,TD,1
+3455116,12/3/2016,FBS,Oklahoma,Oklahoma State,RECEIVING,Joe,Mixon,LONG,12
+3455117,12/3/2016,FBS,Oklahoma,Oklahoma State,KICKING,Austin,Seibert,FG-FGA,1/1
+3455118,12/3/2016,FBS,Oklahoma,Oklahoma State,KICKING,Austin,Seibert,LONG,34
+3455119,12/3/2016,FBS,Oklahoma,Oklahoma State,KICKING,Austin,Seibert,XP,5
+3455120,12/3/2016,FBS,Oklahoma,Oklahoma State,KICKING,Austin,Seibert,PTS,8
+3455121,12/3/2016,FBS,Oklahoma,Oklahoma State,PUNTING,Austin,Seibert,NO,5
+3455122,12/3/2016,FBS,Oklahoma,Oklahoma State,PUNTING,Austin,Seibert,YDS,196
+3455123,12/3/2016,FBS,Oklahoma,Oklahoma State,PUNTING,Austin,Seibert,AVG,39.2
+3455124,12/3/2016,FBS,Oklahoma,Oklahoma State,PUNTING,Austin,Seibert,LONG,43
+3455125,12/3/2016,FBS,Oklahoma,Oklahoma State,PUNT RETURNS,Dede,Westbrook,NO,0
+3455126,12/3/2016,FBS,Oklahoma,Oklahoma State,PUNT RETURNS,Dede,Westbrook,YDS,0
+3455127,12/3/2016,FBS,Oklahoma,Oklahoma State,PUNT RETURNS,Dede,Westbrook,AVG,-
+3455128,12/3/2016,FBS,Oklahoma,Oklahoma State,PUNT RETURNS,Dede,Westbrook,LONG,0
+3455129,12/3/2016,FBS,Oklahoma,Oklahoma State,KICK RETURNS,Joe,Mixon,NO,5
+3455130,12/3/2016,FBS,Oklahoma,Oklahoma State,KICK RETURNS,Joe,Mixon,YDS,83
+3455131,12/3/2016,FBS,Oklahoma,Oklahoma State,KICK RETURNS,Joe,Mixon,AVG,16.6
+3455132,12/3/2016,FBS,Oklahoma,Oklahoma State,KICK RETURNS,Joe,Mixon,LONG,23

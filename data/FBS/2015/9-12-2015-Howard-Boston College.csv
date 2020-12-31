@@ -1,0 +1,185 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+1840001,9/12/2015,FBS,Howard,Boston College,RUSHING,Ricquaz,Brannon,ATT,10
+1840002,9/12/2015,FBS,Howard,Boston College,RUSHING,Ricquaz,Brannon,YDS,21
+1840003,9/12/2015,FBS,Howard,Boston College,RUSHING,Ricquaz,Brannon,TD,0
+1840004,9/12/2015,FBS,Howard,Boston College,RUSHING,Ricquaz,Brannon,LONG,4
+1840005,9/12/2015,FBS,Howard,Boston College,RUSHING,Da'Vaun,Johnson,ATT,2
+1840006,9/12/2015,FBS,Howard,Boston College,RUSHING,Da'Vaun,Johnson,YDS,5
+1840007,9/12/2015,FBS,Howard,Boston College,RUSHING,Da'Vaun,Johnson,TD,0
+1840008,9/12/2015,FBS,Howard,Boston College,RUSHING,Da'Vaun,Johnson,LONG,8
+1840009,9/12/2015,FBS,Howard,Boston College,RUSHING,Aquanius,Freeman,ATT,4
+1840010,9/12/2015,FBS,Howard,Boston College,RUSHING,Aquanius,Freeman,YDS,4
+1840011,9/12/2015,FBS,Howard,Boston College,RUSHING,Aquanius,Freeman,TD,0
+1840012,9/12/2015,FBS,Howard,Boston College,RUSHING,Aquanius,Freeman,LONG,3
+1840013,9/12/2015,FBS,Howard,Boston College,RUSHING,Donnell,Pleasant,ATT,3
+1840014,9/12/2015,FBS,Howard,Boston College,RUSHING,Donnell,Pleasant,YDS,4
+1840015,9/12/2015,FBS,Howard,Boston College,RUSHING,Donnell,Pleasant,TD,0
+1840016,9/12/2015,FBS,Howard,Boston College,RUSHING,Donnell,Pleasant,LONG,4
+1840017,9/12/2015,FBS,Howard,Boston College,RUSHING,Rodney,Tyson,ATT,2
+1840018,9/12/2015,FBS,Howard,Boston College,RUSHING,Rodney,Tyson,YDS,2
+1840019,9/12/2015,FBS,Howard,Boston College,RUSHING,Rodney,Tyson,TD,0
+1840020,9/12/2015,FBS,Howard,Boston College,RUSHING,Rodney,Tyson,LONG,4
+1840021,9/12/2015,FBS,Howard,Boston College,RUSHING,Kalen,Johnson,ATT,7
+1840022,9/12/2015,FBS,Howard,Boston College,RUSHING,Kalen,Johnson,YDS,-29
+1840023,9/12/2015,FBS,Howard,Boston College,RUSHING,Kalen,Johnson,TD,0
+1840024,9/12/2015,FBS,Howard,Boston College,RUSHING,Kalen,Johnson,LONG,3
+1840025,9/12/2015,FBS,Howard,Boston College,PASSING,Kalen,Johnson,CP-ATT-INT,2-11-1
+1840026,9/12/2015,FBS,Howard,Boston College,PASSING,Kalen,Johnson,YDS,4
+1840027,9/12/2015,FBS,Howard,Boston College,PASSING,Kalen,Johnson,TD,0
+1840028,9/12/2015,FBS,Howard,Boston College,PASSING,Kalen,Johnson,LONG,5
+1840029,9/12/2015,FBS,Howard,Boston College,PASSING,Da'Vaun,Johnson,CP-ATT-INT,0-1-0
+1840030,9/12/2015,FBS,Howard,Boston College,PASSING,Da'Vaun,Johnson,YDS,0
+1840031,9/12/2015,FBS,Howard,Boston College,PASSING,Da'Vaun,Johnson,TD,0
+1840032,9/12/2015,FBS,Howard,Boston College,PASSING,Da'Vaun,Johnson,LONG,0
+1840033,9/12/2015,FBS,Howard,Boston College,RECEIVING,Robert,Mercer,REC,1
+1840034,9/12/2015,FBS,Howard,Boston College,RECEIVING,Robert,Mercer,YDS,5
+1840035,9/12/2015,FBS,Howard,Boston College,RECEIVING,Robert,Mercer,TD,0
+1840036,9/12/2015,FBS,Howard,Boston College,RECEIVING,Robert,Mercer,LONG,5
+1840037,9/12/2015,FBS,Howard,Boston College,RECEIVING,Cody,Williams,REC,1
+1840038,9/12/2015,FBS,Howard,Boston College,RECEIVING,Cody,Williams,YDS,-1
+1840039,9/12/2015,FBS,Howard,Boston College,RECEIVING,Cody,Williams,TD,0
+1840040,9/12/2015,FBS,Howard,Boston College,RECEIVING,Cody,Williams,LONG,-1
+1840041,9/12/2015,FBS,Howard,Boston College,PUNTING,John,Fleck,NO,10
+1840042,9/12/2015,FBS,Howard,Boston College,PUNTING,John,Fleck,YDS,411
+1840043,9/12/2015,FBS,Howard,Boston College,PUNTING,John,Fleck,AVG,41.1
+1840044,9/12/2015,FBS,Howard,Boston College,PUNTING,John,Fleck,LONG,65
+1840045,9/12/2015,FBS,Howard,Boston College,KICK RETURNS,Robert,Mercer,NO,3
+1840046,9/12/2015,FBS,Howard,Boston College,KICK RETURNS,Robert,Mercer,YDS,60
+1840047,9/12/2015,FBS,Howard,Boston College,KICK RETURNS,Robert,Mercer,AVG,20.0
+1840048,9/12/2015,FBS,Howard,Boston College,KICK RETURNS,Robert,Mercer,LONG,32
+1840049,9/12/2015,FBS,Howard,Boston College,KICK RETURNS,Julian,Blair,NO,3
+1840050,9/12/2015,FBS,Howard,Boston College,KICK RETURNS,Julian,Blair,YDS,37
+1840051,9/12/2015,FBS,Howard,Boston College,KICK RETURNS,Julian,Blair,AVG,12.3
+1840052,9/12/2015,FBS,Howard,Boston College,KICK RETURNS,Julian,Blair,LONG,18
+1840053,9/12/2015,FBS,Howard,Boston College,KICK RETURNS,Guy,Lemonier,NO,1
+1840054,9/12/2015,FBS,Howard,Boston College,KICK RETURNS,Guy,Lemonier,YDS,14
+1840055,9/12/2015,FBS,Howard,Boston College,KICK RETURNS,Guy,Lemonier,AVG,14.0
+1840056,9/12/2015,FBS,Howard,Boston College,KICK RETURNS,Guy,Lemonier,LONG,14
+1840057,9/12/2015,FBS,Howard,Boston College,KICK RETURNS,Darren,Holmes,NO,1
+1840058,9/12/2015,FBS,Howard,Boston College,KICK RETURNS,Darren,Holmes,YDS,10
+1840059,9/12/2015,FBS,Howard,Boston College,KICK RETURNS,Darren,Holmes,AVG,10.0
+1840060,9/12/2015,FBS,Howard,Boston College,KICK RETURNS,Darren,Holmes,LONG,10
+1840061,9/12/2015,FBS,Boston College,Howard,RUSHING,Jeff,Smith,ATT,5
+1840062,9/12/2015,FBS,Boston College,Howard,RUSHING,Jeff,Smith,YDS,89
+1840063,9/12/2015,FBS,Boston College,Howard,RUSHING,Jeff,Smith,TD,3
+1840064,9/12/2015,FBS,Boston College,Howard,RUSHING,Jeff,Smith,LONG,37
+1840065,9/12/2015,FBS,Boston College,Howard,RUSHING,Myles,Willis,ATT,7
+1840066,9/12/2015,FBS,Boston College,Howard,RUSHING,Myles,Willis,YDS,77
+1840067,9/12/2015,FBS,Boston College,Howard,RUSHING,Myles,Willis,TD,0
+1840068,9/12/2015,FBS,Boston College,Howard,RUSHING,Myles,Willis,LONG,35
+1840069,9/12/2015,FBS,Boston College,Howard,RUSHING,Marcus,Outlow,ATT,4
+1840070,9/12/2015,FBS,Boston College,Howard,RUSHING,Marcus,Outlow,YDS,42
+1840071,9/12/2015,FBS,Boston College,Howard,RUSHING,Marcus,Outlow,TD,1
+1840072,9/12/2015,FBS,Boston College,Howard,RUSHING,Marcus,Outlow,LONG,32
+1840073,9/12/2015,FBS,Boston College,Howard,RUSHING,Richard,Wilson,ATT,8
+1840074,9/12/2015,FBS,Boston College,Howard,RUSHING,Richard,Wilson,YDS,39
+1840075,9/12/2015,FBS,Boston College,Howard,RUSHING,Richard,Wilson,TD,0
+1840076,9/12/2015,FBS,Boston College,Howard,RUSHING,Richard,Wilson,LONG,16
+1840077,9/12/2015,FBS,Boston College,Howard,RUSHING,Tyler,Rouse,ATT,6
+1840078,9/12/2015,FBS,Boston College,Howard,RUSHING,Tyler,Rouse,YDS,36
+1840079,9/12/2015,FBS,Boston College,Howard,RUSHING,Tyler,Rouse,TD,3
+1840080,9/12/2015,FBS,Boston College,Howard,RUSHING,Tyler,Rouse,LONG,15
+1840081,9/12/2015,FBS,Boston College,Howard,RUSHING,Jon,Hilliman,ATT,3
+1840082,9/12/2015,FBS,Boston College,Howard,RUSHING,Jon,Hilliman,YDS,25
+1840083,9/12/2015,FBS,Boston College,Howard,RUSHING,Jon,Hilliman,TD,1
+1840084,9/12/2015,FBS,Boston College,Howard,RUSHING,Jon,Hilliman,LONG,11
+1840085,9/12/2015,FBS,Boston College,Howard,RUSHING,Troy,Flutie,ATT,1
+1840086,9/12/2015,FBS,Boston College,Howard,RUSHING,Troy,Flutie,YDS,20
+1840087,9/12/2015,FBS,Boston College,Howard,RUSHING,Troy,Flutie,TD,0
+1840088,9/12/2015,FBS,Boston College,Howard,RUSHING,Troy,Flutie,LONG,20
+1840089,9/12/2015,FBS,Boston College,Howard,RUSHING,Darius,Wade,ATT,1
+1840090,9/12/2015,FBS,Boston College,Howard,RUSHING,Darius,Wade,YDS,17
+1840091,9/12/2015,FBS,Boston College,Howard,RUSHING,Darius,Wade,TD,0
+1840092,9/12/2015,FBS,Boston College,Howard,RUSHING,Darius,Wade,LONG,17
+1840093,9/12/2015,FBS,Boston College,Howard,RUSHING,Michael,Walker,ATT,1
+1840094,9/12/2015,FBS,Boston College,Howard,RUSHING,Michael,Walker,YDS,14
+1840095,9/12/2015,FBS,Boston College,Howard,RUSHING,Michael,Walker,TD,0
+1840096,9/12/2015,FBS,Boston College,Howard,RUSHING,Michael,Walker,LONG,14
+1840097,9/12/2015,FBS,Boston College,Howard,RUSHING,Sherman,Alston,ATT,1
+1840098,9/12/2015,FBS,Boston College,Howard,RUSHING,Sherman,Alston,YDS,12
+1840099,9/12/2015,FBS,Boston College,Howard,RUSHING,Sherman,Alston,TD,0
+1840100,9/12/2015,FBS,Boston College,Howard,RUSHING,Sherman,Alston,LONG,12
+1840101,9/12/2015,FBS,Boston College,Howard,RUSHING,,Team,ATT,3
+1840102,9/12/2015,FBS,Boston College,Howard,RUSHING,,Team,YDS,-24
+1840103,9/12/2015,FBS,Boston College,Howard,RUSHING,,Team,TD,0
+1840104,9/12/2015,FBS,Boston College,Howard,RUSHING,,Team,LONG,-1
+1840105,9/12/2015,FBS,Boston College,Howard,PASSING,Troy,Flutie,CP-ATT-INT,7-8-0
+1840106,9/12/2015,FBS,Boston College,Howard,PASSING,Troy,Flutie,YDS,88
+1840107,9/12/2015,FBS,Boston College,Howard,PASSING,Troy,Flutie,TD,1
+1840108,9/12/2015,FBS,Boston College,Howard,PASSING,Troy,Flutie,LONG,34
+1840109,9/12/2015,FBS,Boston College,Howard,PASSING,Darius,Wade,CP-ATT-INT,3-5-0
+1840110,9/12/2015,FBS,Boston College,Howard,PASSING,Darius,Wade,YDS,30
+1840111,9/12/2015,FBS,Boston College,Howard,PASSING,Darius,Wade,TD,1
+1840112,9/12/2015,FBS,Boston College,Howard,PASSING,Darius,Wade,LONG,13
+1840113,9/12/2015,FBS,Boston College,Howard,PASSING,Jeff,Smith,CP-ATT-INT,2-2-0
+1840114,9/12/2015,FBS,Boston College,Howard,PASSING,Jeff,Smith,YDS,18
+1840115,9/12/2015,FBS,Boston College,Howard,PASSING,Jeff,Smith,TD,0
+1840116,9/12/2015,FBS,Boston College,Howard,PASSING,Jeff,Smith,LONG,9
+1840117,9/12/2015,FBS,Boston College,Howard,RECEIVING,Harrison,Jackson,REC,1
+1840118,9/12/2015,FBS,Boston College,Howard,RECEIVING,Harrison,Jackson,YDS,34
+1840119,9/12/2015,FBS,Boston College,Howard,RECEIVING,Harrison,Jackson,TD,0
+1840120,9/12/2015,FBS,Boston College,Howard,RECEIVING,Harrison,Jackson,LONG,34
+1840121,9/12/2015,FBS,Boston College,Howard,RECEIVING,Drew,Barksdale,REC,3
+1840122,9/12/2015,FBS,Boston College,Howard,RECEIVING,Drew,Barksdale,YDS,20
+1840123,9/12/2015,FBS,Boston College,Howard,RECEIVING,Drew,Barksdale,TD,0
+1840124,9/12/2015,FBS,Boston College,Howard,RECEIVING,Drew,Barksdale,LONG,11
+1840125,9/12/2015,FBS,Boston College,Howard,RECEIVING,Tyler,Rouse,REC,1
+1840126,9/12/2015,FBS,Boston College,Howard,RECEIVING,Tyler,Rouse,YDS,17
+1840127,9/12/2015,FBS,Boston College,Howard,RECEIVING,Tyler,Rouse,TD,0
+1840128,9/12/2015,FBS,Boston College,Howard,RECEIVING,Tyler,Rouse,LONG,17
+1840129,9/12/2015,FBS,Boston College,Howard,RECEIVING,David,Dudeck,REC,1
+1840130,9/12/2015,FBS,Boston College,Howard,RECEIVING,David,Dudeck,YDS,13
+1840131,9/12/2015,FBS,Boston College,Howard,RECEIVING,David,Dudeck,TD,0
+1840132,9/12/2015,FBS,Boston College,Howard,RECEIVING,David,Dudeck,LONG,13
+1840133,9/12/2015,FBS,Boston College,Howard,RECEIVING,Tommy,Sweeney,REC,1
+1840134,9/12/2015,FBS,Boston College,Howard,RECEIVING,Tommy,Sweeney,YDS,10
+1840135,9/12/2015,FBS,Boston College,Howard,RECEIVING,Tommy,Sweeney,TD,0
+1840136,9/12/2015,FBS,Boston College,Howard,RECEIVING,Tommy,Sweeney,LONG,10
+1840137,9/12/2015,FBS,Boston College,Howard,RECEIVING,Sean,Burke,REC,1
+1840138,9/12/2015,FBS,Boston College,Howard,RECEIVING,Sean,Burke,YDS,10
+1840139,9/12/2015,FBS,Boston College,Howard,RECEIVING,Sean,Burke,TD,1
+1840140,9/12/2015,FBS,Boston College,Howard,RECEIVING,Sean,Burke,LONG,10
+1840141,9/12/2015,FBS,Boston College,Howard,RECEIVING,Michael,Walker,REC,1
+1840142,9/12/2015,FBS,Boston College,Howard,RECEIVING,Michael,Walker,YDS,9
+1840143,9/12/2015,FBS,Boston College,Howard,RECEIVING,Michael,Walker,TD,0
+1840144,9/12/2015,FBS,Boston College,Howard,RECEIVING,Michael,Walker,LONG,9
+1840145,9/12/2015,FBS,Boston College,Howard,RECEIVING,Elijah,Robinson,REC,1
+1840146,9/12/2015,FBS,Boston College,Howard,RECEIVING,Elijah,Robinson,YDS,9
+1840147,9/12/2015,FBS,Boston College,Howard,RECEIVING,Elijah,Robinson,TD,0
+1840148,9/12/2015,FBS,Boston College,Howard,RECEIVING,Elijah,Robinson,LONG,9
+1840149,9/12/2015,FBS,Boston College,Howard,RECEIVING,Richard,Wilson,REC,1
+1840150,9/12/2015,FBS,Boston College,Howard,RECEIVING,Richard,Wilson,YDS,7
+1840151,9/12/2015,FBS,Boston College,Howard,RECEIVING,Richard,Wilson,TD,1
+1840152,9/12/2015,FBS,Boston College,Howard,RECEIVING,Richard,Wilson,LONG,7
+1840153,9/12/2015,FBS,Boston College,Howard,RECEIVING,Jake,Burt,REC,1
+1840154,9/12/2015,FBS,Boston College,Howard,RECEIVING,Jake,Burt,YDS,7
+1840155,9/12/2015,FBS,Boston College,Howard,RECEIVING,Jake,Burt,TD,0
+1840156,9/12/2015,FBS,Boston College,Howard,RECEIVING,Jake,Burt,LONG,7
+1840157,9/12/2015,FBS,Boston College,Howard,KICKING,Alex,Howell,FG-FGA,0/0
+1840158,9/12/2015,FBS,Boston College,Howard,KICKING,Alex,Howell,LONG,-
+1840159,9/12/2015,FBS,Boston College,Howard,KICKING,Alex,Howell,XP,5
+1840160,9/12/2015,FBS,Boston College,Howard,KICKING,Alex,Howell,PTS,5
+1840161,9/12/2015,FBS,Boston College,Howard,KICKING,Mike,Knoll,FG-FGA,0/0
+1840162,9/12/2015,FBS,Boston College,Howard,KICKING,Mike,Knoll,LONG,-
+1840163,9/12/2015,FBS,Boston College,Howard,KICKING,Mike,Knoll,XP,4
+1840164,9/12/2015,FBS,Boston College,Howard,KICKING,Mike,Knoll,PTS,4
+1840165,9/12/2015,FBS,Boston College,Howard,KICKING,Jake,Wilhelm,FG-FGA,0/0
+1840166,9/12/2015,FBS,Boston College,Howard,KICKING,Jake,Wilhelm,LONG,-
+1840167,9/12/2015,FBS,Boston College,Howard,KICKING,Jake,Wilhelm,XP,1
+1840168,9/12/2015,FBS,Boston College,Howard,KICKING,Jake,Wilhelm,PTS,1
+1840169,9/12/2015,FBS,Boston College,Howard,PUNTING,Alex,Howell,NO,2
+1840170,9/12/2015,FBS,Boston College,Howard,PUNTING,Alex,Howell,YDS,86
+1840171,9/12/2015,FBS,Boston College,Howard,PUNTING,Alex,Howell,AVG,43.0
+1840172,9/12/2015,FBS,Boston College,Howard,PUNTING,Alex,Howell,LONG,45
+1840173,9/12/2015,FBS,Boston College,Howard,PUNT RETURNS,Sherman,Alston,NO,2
+1840174,9/12/2015,FBS,Boston College,Howard,PUNT RETURNS,Sherman,Alston,YDS,48
+1840175,9/12/2015,FBS,Boston College,Howard,PUNT RETURNS,Sherman,Alston,AVG,24.0
+1840176,9/12/2015,FBS,Boston College,Howard,PUNT RETURNS,Sherman,Alston,LONG,39
+1840177,9/12/2015,FBS,Boston College,Howard,PUNT RETURNS,Thadd,Smith,NO,1
+1840178,9/12/2015,FBS,Boston College,Howard,PUNT RETURNS,Thadd,Smith,YDS,-1
+1840179,9/12/2015,FBS,Boston College,Howard,PUNT RETURNS,Thadd,Smith,AVG,-
+1840180,9/12/2015,FBS,Boston College,Howard,PUNT RETURNS,Thadd,Smith,LONG,0
+1840181,9/12/2015,FBS,Boston College,Howard,KICK RETURNS,Michael,Walker,NO,1
+1840182,9/12/2015,FBS,Boston College,Howard,KICK RETURNS,Michael,Walker,YDS,41
+1840183,9/12/2015,FBS,Boston College,Howard,KICK RETURNS,Michael,Walker,AVG,41.0
+1840184,9/12/2015,FBS,Boston College,Howard,KICK RETURNS,Michael,Walker,LONG,41

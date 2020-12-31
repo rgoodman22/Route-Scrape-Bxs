@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+4170001,11/11/2017,FBS,Oregon St.,Arizona,RUSHING,Ryan,Nall,ATT,22
+4170002,11/11/2017,FBS,Oregon St.,Arizona,RUSHING,Ryan,Nall,YDS,95
+4170003,11/11/2017,FBS,Oregon St.,Arizona,RUSHING,Ryan,Nall,TD,0
+4170004,11/11/2017,FBS,Oregon St.,Arizona,RUSHING,Ryan,Nall,LONG,16
+4170005,11/11/2017,FBS,Oregon St.,Arizona,RUSHING,Thomas,Tyner,ATT,7
+4170006,11/11/2017,FBS,Oregon St.,Arizona,RUSHING,Thomas,Tyner,YDS,42
+4170007,11/11/2017,FBS,Oregon St.,Arizona,RUSHING,Thomas,Tyner,TD,0
+4170008,11/11/2017,FBS,Oregon St.,Arizona,RUSHING,Thomas,Tyner,LONG,11
+4170009,11/11/2017,FBS,Oregon St.,Arizona,RUSHING,Artavis,Pierce,ATT,5
+4170010,11/11/2017,FBS,Oregon St.,Arizona,RUSHING,Artavis,Pierce,YDS,26
+4170011,11/11/2017,FBS,Oregon St.,Arizona,RUSHING,Artavis,Pierce,TD,0
+4170012,11/11/2017,FBS,Oregon St.,Arizona,RUSHING,Artavis,Pierce,LONG,13
+4170013,11/11/2017,FBS,Oregon St.,Arizona,RUSHING,Darell,Garretson,ATT,6
+4170014,11/11/2017,FBS,Oregon St.,Arizona,RUSHING,Darell,Garretson,YDS,-12
+4170015,11/11/2017,FBS,Oregon St.,Arizona,RUSHING,Darell,Garretson,TD,0
+4170016,11/11/2017,FBS,Oregon St.,Arizona,RUSHING,Darell,Garretson,LONG,9
+4170017,11/11/2017,FBS,Oregon St.,Arizona,PASSING,Darell,Garretson,CP-ATT-INT,16-28-1
+4170018,11/11/2017,FBS,Oregon St.,Arizona,PASSING,Darell,Garretson,YDS,209
+4170019,11/11/2017,FBS,Oregon St.,Arizona,PASSING,Darell,Garretson,TD,4
+4170020,11/11/2017,FBS,Oregon St.,Arizona,PASSING,Darell,Garretson,LONG,44
+4170021,11/11/2017,FBS,Oregon St.,Arizona,RECEIVING,Noah,Togiai,REC,3
+4170022,11/11/2017,FBS,Oregon St.,Arizona,RECEIVING,Noah,Togiai,YDS,56
+4170023,11/11/2017,FBS,Oregon St.,Arizona,RECEIVING,Noah,Togiai,TD,1
+4170024,11/11/2017,FBS,Oregon St.,Arizona,RECEIVING,Noah,Togiai,LONG,24
+4170025,11/11/2017,FBS,Oregon St.,Arizona,RECEIVING,Ryan,Nall,REC,2
+4170026,11/11/2017,FBS,Oregon St.,Arizona,RECEIVING,Ryan,Nall,YDS,40
+4170027,11/11/2017,FBS,Oregon St.,Arizona,RECEIVING,Ryan,Nall,TD,1
+4170028,11/11/2017,FBS,Oregon St.,Arizona,RECEIVING,Ryan,Nall,LONG,44
+4170029,11/11/2017,FBS,Oregon St.,Arizona,RECEIVING,Isaiah,Hodgins,REC,4
+4170030,11/11/2017,FBS,Oregon St.,Arizona,RECEIVING,Isaiah,Hodgins,YDS,34
+4170031,11/11/2017,FBS,Oregon St.,Arizona,RECEIVING,Isaiah,Hodgins,TD,1
+4170032,11/11/2017,FBS,Oregon St.,Arizona,RECEIVING,Isaiah,Hodgins,LONG,14
+4170033,11/11/2017,FBS,Oregon St.,Arizona,RECEIVING,Timmy,Hernandez,REC,3
+4170034,11/11/2017,FBS,Oregon St.,Arizona,RECEIVING,Timmy,Hernandez,YDS,31
+4170035,11/11/2017,FBS,Oregon St.,Arizona,RECEIVING,Timmy,Hernandez,TD,1
+4170036,11/11/2017,FBS,Oregon St.,Arizona,RECEIVING,Timmy,Hernandez,LONG,15
+4170037,11/11/2017,FBS,Oregon St.,Arizona,RECEIVING,Jordan,Villamin,REC,1
+4170038,11/11/2017,FBS,Oregon St.,Arizona,RECEIVING,Jordan,Villamin,YDS,20
+4170039,11/11/2017,FBS,Oregon St.,Arizona,RECEIVING,Jordan,Villamin,TD,0
+4170040,11/11/2017,FBS,Oregon St.,Arizona,RECEIVING,Jordan,Villamin,LONG,20
+4170041,11/11/2017,FBS,Oregon St.,Arizona,RECEIVING,Tuli,Wily-Matagi,REC,1
+4170042,11/11/2017,FBS,Oregon St.,Arizona,RECEIVING,Tuli,Wily-Matagi,YDS,14
+4170043,11/11/2017,FBS,Oregon St.,Arizona,RECEIVING,Tuli,Wily-Matagi,TD,0
+4170044,11/11/2017,FBS,Oregon St.,Arizona,RECEIVING,Tuli,Wily-Matagi,LONG,14
+4170045,11/11/2017,FBS,Oregon St.,Arizona,RECEIVING,Thomas,Tyner,REC,1
+4170046,11/11/2017,FBS,Oregon St.,Arizona,RECEIVING,Thomas,Tyner,YDS,8
+4170047,11/11/2017,FBS,Oregon St.,Arizona,RECEIVING,Thomas,Tyner,TD,0
+4170048,11/11/2017,FBS,Oregon St.,Arizona,RECEIVING,Thomas,Tyner,LONG,8
+4170049,11/11/2017,FBS,Oregon St.,Arizona,RECEIVING,Artavis,Pierce,REC,1
+4170050,11/11/2017,FBS,Oregon St.,Arizona,RECEIVING,Artavis,Pierce,YDS,6
+4170051,11/11/2017,FBS,Oregon St.,Arizona,RECEIVING,Artavis,Pierce,TD,0
+4170052,11/11/2017,FBS,Oregon St.,Arizona,RECEIVING,Artavis,Pierce,LONG,6
+4170053,11/11/2017,FBS,Oregon St.,Arizona,KICKING,Jordan,Choukair,FG-FGA,0/0
+4170054,11/11/2017,FBS,Oregon St.,Arizona,KICKING,Jordan,Choukair,LONG,-
+4170055,11/11/2017,FBS,Oregon St.,Arizona,KICKING,Jordan,Choukair,XP,4
+4170056,11/11/2017,FBS,Oregon St.,Arizona,KICKING,Jordan,Choukair,PTS,4
+4170057,11/11/2017,FBS,Oregon St.,Arizona,PUNTING,Alex,Bland,NO,6
+4170058,11/11/2017,FBS,Oregon St.,Arizona,PUNTING,Alex,Bland,YDS,223
+4170059,11/11/2017,FBS,Oregon St.,Arizona,PUNTING,Alex,Bland,AVG,37.2
+4170060,11/11/2017,FBS,Oregon St.,Arizona,PUNTING,Alex,Bland,LONG,51
+4170061,11/11/2017,FBS,Oregon St.,Arizona,KICK RETURNS,Artavis,Pierce,NO,1
+4170062,11/11/2017,FBS,Oregon St.,Arizona,KICK RETURNS,Artavis,Pierce,YDS,20
+4170063,11/11/2017,FBS,Oregon St.,Arizona,KICK RETURNS,Artavis,Pierce,AVG,20.0
+4170064,11/11/2017,FBS,Oregon St.,Arizona,KICK RETURNS,Artavis,Pierce,LONG,20
+4170065,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,Khalil,Tate,ATT,16
+4170066,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,Khalil,Tate,YDS,206
+4170067,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,Khalil,Tate,TD,2
+4170068,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,Khalil,Tate,LONG,71
+4170069,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,J.J.,Taylor,ATT,10
+4170070,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,J.J.,Taylor,YDS,129
+4170071,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,J.J.,Taylor,TD,0
+4170072,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,J.J.,Taylor,LONG,56
+4170073,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,Nick,Wilson,ATT,17
+4170074,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,Nick,Wilson,YDS,101
+4170075,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,Nick,Wilson,TD,1
+4170076,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,Nick,Wilson,LONG,24
+4170077,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,Brandon,Dawkins,ATT,3
+4170078,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,Brandon,Dawkins,YDS,30
+4170079,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,Brandon,Dawkins,TD,1
+4170080,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,Brandon,Dawkins,LONG,15
+4170081,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,Tony,Ellison,ATT,1
+4170082,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,Tony,Ellison,YDS,27
+4170083,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,Tony,Ellison,TD,1
+4170084,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,Tony,Ellison,LONG,27
+4170085,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,Zach,Green,ATT,4
+4170086,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,Zach,Green,YDS,16
+4170087,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,Zach,Green,TD,2
+4170088,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,Zach,Green,LONG,7
+4170089,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,Branden,Leon,ATT,1
+4170090,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,Branden,Leon,YDS,14
+4170091,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,Branden,Leon,TD,0
+4170092,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,Branden,Leon,LONG,14
+4170093,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,Tyrell,Johnson,ATT,1
+4170094,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,Tyrell,Johnson,YDS,5
+4170095,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,Tyrell,Johnson,TD,0
+4170096,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,Tyrell,Johnson,LONG,5
+4170097,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,Nathan,Tilford,ATT,1
+4170098,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,Nathan,Tilford,YDS,5
+4170099,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,Nathan,Tilford,TD,0
+4170100,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,Nathan,Tilford,LONG,5
+4170101,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,Zach,Werlinger,ATT,1
+4170102,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,Zach,Werlinger,YDS,1
+4170103,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,Zach,Werlinger,TD,0
+4170104,11/11/2017,FBS,Arizona,Oregon St.,RUSHING,Zach,Werlinger,LONG,1
+4170105,11/11/2017,FBS,Arizona,Oregon St.,PASSING,Khalil,Tate,CP-ATT-INT,5-7-1
+4170106,11/11/2017,FBS,Arizona,Oregon St.,PASSING,Khalil,Tate,YDS,68
+4170107,11/11/2017,FBS,Arizona,Oregon St.,PASSING,Khalil,Tate,TD,0
+4170108,11/11/2017,FBS,Arizona,Oregon St.,PASSING,Khalil,Tate,LONG,23
+4170109,11/11/2017,FBS,Arizona,Oregon St.,RECEIVING,Tyrell,Johnson,REC,3
+4170110,11/11/2017,FBS,Arizona,Oregon St.,RECEIVING,Tyrell,Johnson,YDS,44
+4170111,11/11/2017,FBS,Arizona,Oregon St.,RECEIVING,Tyrell,Johnson,TD,0
+4170112,11/11/2017,FBS,Arizona,Oregon St.,RECEIVING,Tyrell,Johnson,LONG,23
+4170113,11/11/2017,FBS,Arizona,Oregon St.,RECEIVING,Bryce,Wolma,REC,1
+4170114,11/11/2017,FBS,Arizona,Oregon St.,RECEIVING,Bryce,Wolma,YDS,13
+4170115,11/11/2017,FBS,Arizona,Oregon St.,RECEIVING,Bryce,Wolma,TD,0
+4170116,11/11/2017,FBS,Arizona,Oregon St.,RECEIVING,Bryce,Wolma,LONG,13
+4170117,11/11/2017,FBS,Arizona,Oregon St.,RECEIVING,Cedric,Peterson,REC,1
+4170118,11/11/2017,FBS,Arizona,Oregon St.,RECEIVING,Cedric,Peterson,YDS,11
+4170119,11/11/2017,FBS,Arizona,Oregon St.,RECEIVING,Cedric,Peterson,TD,0
+4170120,11/11/2017,FBS,Arizona,Oregon St.,RECEIVING,Cedric,Peterson,LONG,11
+4170121,11/11/2017,FBS,Arizona,Oregon St.,KICKING,Josh,Pollack,FG-FGA,0/0
+4170122,11/11/2017,FBS,Arizona,Oregon St.,KICKING,Josh,Pollack,LONG,-
+4170123,11/11/2017,FBS,Arizona,Oregon St.,KICKING,Josh,Pollack,XP,7
+4170124,11/11/2017,FBS,Arizona,Oregon St.,KICKING,Josh,Pollack,PTS,7
+4170125,11/11/2017,FBS,Arizona,Oregon St.,PUNTING,Josh,Pollack,NO,1
+4170126,11/11/2017,FBS,Arizona,Oregon St.,PUNTING,Josh,Pollack,YDS,44
+4170127,11/11/2017,FBS,Arizona,Oregon St.,PUNTING,Josh,Pollack,AVG,44.0
+4170128,11/11/2017,FBS,Arizona,Oregon St.,PUNTING,Josh,Pollack,LONG,44
+4170129,11/11/2017,FBS,Arizona,Oregon St.,PUNT RETURNS,Shun,Brown,NO,1
+4170130,11/11/2017,FBS,Arizona,Oregon St.,PUNT RETURNS,Shun,Brown,YDS,6
+4170131,11/11/2017,FBS,Arizona,Oregon St.,PUNT RETURNS,Shun,Brown,AVG,6.0
+4170132,11/11/2017,FBS,Arizona,Oregon St.,PUNT RETURNS,Shun,Brown,LONG,6
+4170133,11/11/2017,FBS,Arizona,Oregon St.,PUNT RETURNS,Tony,Ellison,NO,0
+4170134,11/11/2017,FBS,Arizona,Oregon St.,PUNT RETURNS,Tony,Ellison,YDS,0
+4170135,11/11/2017,FBS,Arizona,Oregon St.,PUNT RETURNS,Tony,Ellison,AVG,-
+4170136,11/11/2017,FBS,Arizona,Oregon St.,PUNT RETURNS,Tony,Ellison,LONG,0

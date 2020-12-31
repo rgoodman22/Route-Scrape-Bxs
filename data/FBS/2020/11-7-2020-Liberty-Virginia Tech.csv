@@ -1,0 +1,407 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+6457001,11/7/2020,FBS,Liberty,Virginia Tech,RUSHING,Malik,Willis,ATT,19
+6457002,11/7/2020,FBS,Liberty,Virginia Tech,RUSHING,Malik,Willis,YDS,108
+6457003,11/7/2020,FBS,Liberty,Virginia Tech,RUSHING,Malik,Willis,TD,1
+6457004,11/7/2020,FBS,Liberty,Virginia Tech,RUSHING,Malik,Willis,LONG,23
+6457005,11/7/2020,FBS,Liberty,Virginia Tech,RUSHING,Joshua,Mack,ATT,19
+6457006,11/7/2020,FBS,Liberty,Virginia Tech,RUSHING,Joshua,Mack,YDS,90
+6457007,11/7/2020,FBS,Liberty,Virginia Tech,RUSHING,Joshua,Mack,TD,0
+6457008,11/7/2020,FBS,Liberty,Virginia Tech,RUSHING,Joshua,Mack,LONG,17
+6457009,11/7/2020,FBS,Liberty,Virginia Tech,RUSHING,Peytton,Pickett,ATT,6
+6457010,11/7/2020,FBS,Liberty,Virginia Tech,RUSHING,Peytton,Pickett,YDS,30
+6457011,11/7/2020,FBS,Liberty,Virginia Tech,RUSHING,Peytton,Pickett,TD,1
+6457012,11/7/2020,FBS,Liberty,Virginia Tech,RUSHING,Peytton,Pickett,LONG,12
+6457013,11/7/2020,FBS,Liberty,Virginia Tech,RUSHING,Shedro,Louis,ATT,5
+6457014,11/7/2020,FBS,Liberty,Virginia Tech,RUSHING,Shedro,Louis,YDS,22
+6457015,11/7/2020,FBS,Liberty,Virginia Tech,RUSHING,Shedro,Louis,TD,0
+6457016,11/7/2020,FBS,Liberty,Virginia Tech,RUSHING,Shedro,Louis,LONG,8
+6457017,11/7/2020,FBS,Liberty,Virginia Tech,RUSHING,Tristan,Schultz,ATT,0
+6457018,11/7/2020,FBS,Liberty,Virginia Tech,RUSHING,Tristan,Schultz,YDS,0
+6457019,11/7/2020,FBS,Liberty,Virginia Tech,RUSHING,Tristan,Schultz,TD,0
+6457020,11/7/2020,FBS,Liberty,Virginia Tech,RUSHING,Tristan,Schultz,LONG,0
+6457021,11/7/2020,FBS,Liberty,Virginia Tech,RUSHING,DJ,Stubbs,ATT,1
+6457022,11/7/2020,FBS,Liberty,Virginia Tech,RUSHING,DJ,Stubbs,YDS,-1
+6457023,11/7/2020,FBS,Liberty,Virginia Tech,RUSHING,DJ,Stubbs,TD,0
+6457024,11/7/2020,FBS,Liberty,Virginia Tech,RUSHING,DJ,Stubbs,LONG,-1
+6457025,11/7/2020,FBS,Liberty,Virginia Tech,PASSING,Malik,Willis,CP-ATT-INT,20-30-0
+6457026,11/7/2020,FBS,Liberty,Virginia Tech,PASSING,Malik,Willis,YDS,217
+6457027,11/7/2020,FBS,Liberty,Virginia Tech,PASSING,Malik,Willis,TD,3
+6457028,11/7/2020,FBS,Liberty,Virginia Tech,PASSING,Malik,Willis,LONG,35
+6457029,11/7/2020,FBS,Liberty,Virginia Tech,RECEIVING,CJ,Yarbrough,REC,5
+6457030,11/7/2020,FBS,Liberty,Virginia Tech,RECEIVING,CJ,Yarbrough,YDS,65
+6457031,11/7/2020,FBS,Liberty,Virginia Tech,RECEIVING,CJ,Yarbrough,TD,1
+6457032,11/7/2020,FBS,Liberty,Virginia Tech,RECEIVING,CJ,Yarbrough,LONG,32
+6457033,11/7/2020,FBS,Liberty,Virginia Tech,RECEIVING,Kevin,Shaa,REC,2
+6457034,11/7/2020,FBS,Liberty,Virginia Tech,RECEIVING,Kevin,Shaa,YDS,43
+6457035,11/7/2020,FBS,Liberty,Virginia Tech,RECEIVING,Kevin,Shaa,TD,0
+6457036,11/7/2020,FBS,Liberty,Virginia Tech,RECEIVING,Kevin,Shaa,LONG,35
+6457037,11/7/2020,FBS,Liberty,Virginia Tech,RECEIVING,Johnny,Huntley,REC,2
+6457038,11/7/2020,FBS,Liberty,Virginia Tech,RECEIVING,Johnny,Huntley,YDS,30
+6457039,11/7/2020,FBS,Liberty,Virginia Tech,RECEIVING,Johnny,Huntley,TD,1
+6457040,11/7/2020,FBS,Liberty,Virginia Tech,RECEIVING,Johnny,Huntley,LONG,25
+6457041,11/7/2020,FBS,Liberty,Virginia Tech,RECEIVING,DJ,Stubbs,REC,3
+6457042,11/7/2020,FBS,Liberty,Virginia Tech,RECEIVING,DJ,Stubbs,YDS,24
+6457043,11/7/2020,FBS,Liberty,Virginia Tech,RECEIVING,DJ,Stubbs,TD,0
+6457044,11/7/2020,FBS,Liberty,Virginia Tech,RECEIVING,DJ,Stubbs,LONG,13
+6457045,11/7/2020,FBS,Liberty,Virginia Tech,RECEIVING,CJ,Daniels,REC,2
+6457046,11/7/2020,FBS,Liberty,Virginia Tech,RECEIVING,CJ,Daniels,YDS,17
+6457047,11/7/2020,FBS,Liberty,Virginia Tech,RECEIVING,CJ,Daniels,TD,0
+6457048,11/7/2020,FBS,Liberty,Virginia Tech,RECEIVING,CJ,Daniels,LONG,13
+6457049,11/7/2020,FBS,Liberty,Virginia Tech,RECEIVING,Noah,Frith,REC,2
+6457050,11/7/2020,FBS,Liberty,Virginia Tech,RECEIVING,Noah,Frith,YDS,17
+6457051,11/7/2020,FBS,Liberty,Virginia Tech,RECEIVING,Noah,Frith,TD,0
+6457052,11/7/2020,FBS,Liberty,Virginia Tech,RECEIVING,Noah,Frith,LONG,10
+6457053,11/7/2020,FBS,Liberty,Virginia Tech,RECEIVING,Demario,Douglas,REC,2
+6457054,11/7/2020,FBS,Liberty,Virginia Tech,RECEIVING,Demario,Douglas,YDS,14
+6457055,11/7/2020,FBS,Liberty,Virginia Tech,RECEIVING,Demario,Douglas,TD,0
+6457056,11/7/2020,FBS,Liberty,Virginia Tech,RECEIVING,Demario,Douglas,LONG,9
+6457057,11/7/2020,FBS,Liberty,Virginia Tech,RECEIVING,Shedro,Louis,REC,1
+6457058,11/7/2020,FBS,Liberty,Virginia Tech,RECEIVING,Shedro,Louis,YDS,5
+6457059,11/7/2020,FBS,Liberty,Virginia Tech,RECEIVING,Shedro,Louis,TD,0
+6457060,11/7/2020,FBS,Liberty,Virginia Tech,RECEIVING,Shedro,Louis,LONG,5
+6457061,11/7/2020,FBS,Liberty,Virginia Tech,RECEIVING,Jerome,Jackson,REC,1
+6457062,11/7/2020,FBS,Liberty,Virginia Tech,RECEIVING,Jerome,Jackson,YDS,2
+6457063,11/7/2020,FBS,Liberty,Virginia Tech,RECEIVING,Jerome,Jackson,TD,1
+6457064,11/7/2020,FBS,Liberty,Virginia Tech,RECEIVING,Jerome,Jackson,LONG,2
+6457065,11/7/2020,FBS,Liberty,Virginia Tech,KICKING,Alex,Barbir,FG-FGA,1/1
+6457066,11/7/2020,FBS,Liberty,Virginia Tech,KICKING,Alex,Barbir,LONG,51
+6457067,11/7/2020,FBS,Liberty,Virginia Tech,KICKING,Alex,Barbir,XP,5
+6457068,11/7/2020,FBS,Liberty,Virginia Tech,KICKING,Alex,Barbir,PTS,8
+6457069,11/7/2020,FBS,Liberty,Virginia Tech,PUNTING,Aidan,Alves,NO,2
+6457070,11/7/2020,FBS,Liberty,Virginia Tech,PUNTING,Aidan,Alves,YDS,88
+6457071,11/7/2020,FBS,Liberty,Virginia Tech,PUNTING,Aidan,Alves,AVG,44.0
+6457072,11/7/2020,FBS,Liberty,Virginia Tech,PUNTING,Aidan,Alves,LONG,51
+6457073,11/7/2020,FBS,Liberty,Virginia Tech,PUNT RETURNS,Demario,Douglas,NO,1
+6457074,11/7/2020,FBS,Liberty,Virginia Tech,PUNT RETURNS,Demario,Douglas,YDS,-1
+6457075,11/7/2020,FBS,Liberty,Virginia Tech,PUNT RETURNS,Demario,Douglas,AVG,-
+6457076,11/7/2020,FBS,Liberty,Virginia Tech,PUNT RETURNS,Demario,Douglas,LONG,0
+6457077,11/7/2020,FBS,Liberty,Virginia Tech,KICK RETURNS,Shedro,Louis,NO,1
+6457078,11/7/2020,FBS,Liberty,Virginia Tech,KICK RETURNS,Shedro,Louis,YDS,19
+6457079,11/7/2020,FBS,Liberty,Virginia Tech,KICK RETURNS,Shedro,Louis,AVG,19.0
+6457080,11/7/2020,FBS,Liberty,Virginia Tech,KICK RETURNS,Shedro,Louis,LONG,19
+6457081,11/7/2020,FBS,Liberty,Virginia Tech,KICK RETURNS,Demario,Douglas,NO,1
+6457082,11/7/2020,FBS,Liberty,Virginia Tech,KICK RETURNS,Demario,Douglas,YDS,18
+6457083,11/7/2020,FBS,Liberty,Virginia Tech,KICK RETURNS,Demario,Douglas,AVG,18.0
+6457084,11/7/2020,FBS,Liberty,Virginia Tech,KICK RETURNS,Demario,Douglas,LONG,18
+6457085,11/7/2020,FBS,Liberty,Virginia Tech,KICK RETURNS,Brody,Brumm,NO,1
+6457086,11/7/2020,FBS,Liberty,Virginia Tech,KICK RETURNS,Brody,Brumm,YDS,0
+6457087,11/7/2020,FBS,Liberty,Virginia Tech,KICK RETURNS,Brody,Brumm,AVG,-
+6457088,11/7/2020,FBS,Liberty,Virginia Tech,KICK RETURNS,Brody,Brumm,LONG,0
+6457089,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Ralfs,Rusins,TOT,4
+6457090,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Ralfs,Rusins,SOLO,3
+6457091,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Ralfs,Rusins,SACKS,0.0
+6457092,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Ralfs,Rusins,TFL,0
+6457093,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Ralfs,Rusins,INT,0
+6457094,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Ralfs,Rusins,FF,0
+6457095,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Ralfs,Rusins,FR,0
+6457096,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Elijah,James,TOT,3
+6457097,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Elijah,James,SOLO,3
+6457098,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Elijah,James,SACKS,0.0
+6457099,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Elijah,James,TFL,0
+6457100,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Elijah,James,INT,0
+6457101,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Elijah,James,FF,0
+6457102,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Elijah,James,FR,0
+6457103,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Henry,Chibueze,TOT,3
+6457104,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Henry,Chibueze,SOLO,2
+6457105,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Henry,Chibueze,SACKS,0.0
+6457106,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Henry,Chibueze,TFL,0
+6457107,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Henry,Chibueze,INT,0
+6457108,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Henry,Chibueze,FF,0
+6457109,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Henry,Chibueze,FR,0
+6457110,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Tyren,Dupree,TOT,2
+6457111,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Tyren,Dupree,SOLO,2
+6457112,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Tyren,Dupree,SACKS,0.0
+6457113,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Tyren,Dupree,TFL,0
+6457114,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Tyren,Dupree,INT,0
+6457115,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Tyren,Dupree,FF,0
+6457116,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Tyren,Dupree,FR,0
+6457117,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Aaron,Pierre,TOT,4
+6457118,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Aaron,Pierre,SOLO,2
+6457119,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Aaron,Pierre,SACKS,0.0
+6457120,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Aaron,Pierre,TFL,0
+6457121,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Aaron,Pierre,INT,0
+6457122,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Aaron,Pierre,FF,0
+6457123,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Aaron,Pierre,FR,0
+6457124,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Aakil,Washington,TOT,1
+6457125,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Aakil,Washington,SOLO,0
+6457126,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Aakil,Washington,SACKS,0.0
+6457127,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Aakil,Washington,TFL,0
+6457128,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Aakil,Washington,INT,0
+6457129,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Aakil,Washington,FF,0
+6457130,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Aakil,Washington,FR,0
+6457131,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Cedric,Stone,TOT,4
+6457132,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Cedric,Stone,SOLO,2
+6457133,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Cedric,Stone,SACKS,0.0
+6457134,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Cedric,Stone,TFL,0
+6457135,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Cedric,Stone,INT,0
+6457136,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Cedric,Stone,FF,0
+6457137,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Cedric,Stone,FR,0
+6457138,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Durrell,Johnson,TOT,4
+6457139,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Durrell,Johnson,SOLO,3
+6457140,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Durrell,Johnson,SACKS,0.0
+6457141,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Durrell,Johnson,TFL,0
+6457142,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Durrell,Johnson,INT,0
+6457143,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Durrell,Johnson,FF,0
+6457144,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Durrell,Johnson,FR,0
+6457145,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,TreShaun,Clark,TOT,4
+6457146,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,TreShaun,Clark,SOLO,4
+6457147,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,TreShaun,Clark,SACKS,0.0
+6457148,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,TreShaun,Clark,TFL,0
+6457149,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,TreShaun,Clark,INT,0
+6457150,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,TreShaun,Clark,FF,0
+6457151,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,TreShaun,Clark,FR,0
+6457152,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Sean,Brown,TOT,1
+6457153,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Sean,Brown,SOLO,1
+6457154,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Sean,Brown,SACKS,0.0
+6457155,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Sean,Brown,TFL,0
+6457156,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Sean,Brown,INT,0
+6457157,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Sean,Brown,FF,0
+6457158,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Sean,Brown,FR,0
+6457159,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Juawan,Treadwell,TOT,1
+6457160,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Juawan,Treadwell,SOLO,1
+6457161,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Juawan,Treadwell,SACKS,0.0
+6457162,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Juawan,Treadwell,TFL,0
+6457163,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Juawan,Treadwell,INT,0
+6457164,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Juawan,Treadwell,FF,0
+6457165,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Juawan,Treadwell,FR,0
+6457166,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Marcus,Haskins,TOT,3
+6457167,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Marcus,Haskins,SOLO,3
+6457168,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Marcus,Haskins,SACKS,0.0
+6457169,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Marcus,Haskins,TFL,0
+6457170,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Marcus,Haskins,INT,0
+6457171,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Marcus,Haskins,FF,0
+6457172,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Marcus,Haskins,FR,0
+6457173,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Anthony,Butler,TOT,7
+6457174,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Anthony,Butler,SOLO,6
+6457175,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Anthony,Butler,SACKS,0.0
+6457176,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Anthony,Butler,TFL,0
+6457177,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Anthony,Butler,INT,0
+6457178,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Anthony,Butler,FF,0
+6457179,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Anthony,Butler,FR,0
+6457180,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Chris,Megginson,TOT,3
+6457181,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Chris,Megginson,SOLO,3
+6457182,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Chris,Megginson,SACKS,0.0
+6457183,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Chris,Megginson,TFL,0
+6457184,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Chris,Megginson,INT,0
+6457185,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Chris,Megginson,FF,0
+6457186,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Chris,Megginson,FR,0
+6457187,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Emanuel,Dabney,TOT,2
+6457188,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Emanuel,Dabney,SOLO,2
+6457189,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Emanuel,Dabney,SACKS,0.0
+6457190,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Emanuel,Dabney,TFL,0
+6457191,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Emanuel,Dabney,INT,0
+6457192,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Emanuel,Dabney,FF,0
+6457193,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Emanuel,Dabney,FR,0
+6457194,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Javon,Scruggs,TOT,4
+6457195,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Javon,Scruggs,SOLO,4
+6457196,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Javon,Scruggs,SACKS,0.0
+6457197,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Javon,Scruggs,TFL,0
+6457198,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Javon,Scruggs,INT,0
+6457199,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Javon,Scruggs,FF,0
+6457200,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Javon,Scruggs,FR,0
+6457201,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Tim,Kidd-Glass,TOT,2
+6457202,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Tim,Kidd-Glass,SOLO,2
+6457203,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Tim,Kidd-Glass,SACKS,0.0
+6457204,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Tim,Kidd-Glass,TFL,0
+6457205,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Tim,Kidd-Glass,INT,0
+6457206,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Tim,Kidd-Glass,FF,0
+6457207,11/7/2020,FBS,Liberty,Virginia Tech,DEFENSE,Tim,Kidd-Glass,FR,0
+6457208,11/7/2020,FBS,Virginia Tech,Liberty,RUSHING,Hendon,Hooker,ATT,20
+6457209,11/7/2020,FBS,Virginia Tech,Liberty,RUSHING,Hendon,Hooker,YDS,156
+6457210,11/7/2020,FBS,Virginia Tech,Liberty,RUSHING,Hendon,Hooker,TD,1
+6457211,11/7/2020,FBS,Virginia Tech,Liberty,RUSHING,Hendon,Hooker,LONG,31
+6457212,11/7/2020,FBS,Virginia Tech,Liberty,RUSHING,Raheem,Blackshear,ATT,9
+6457213,11/7/2020,FBS,Virginia Tech,Liberty,RUSHING,Raheem,Blackshear,YDS,33
+6457214,11/7/2020,FBS,Virginia Tech,Liberty,RUSHING,Raheem,Blackshear,TD,0
+6457215,11/7/2020,FBS,Virginia Tech,Liberty,RUSHING,Raheem,Blackshear,LONG,14
+6457216,11/7/2020,FBS,Virginia Tech,Liberty,RUSHING,Jalen,Holston,ATT,1
+6457217,11/7/2020,FBS,Virginia Tech,Liberty,RUSHING,Jalen,Holston,YDS,12
+6457218,11/7/2020,FBS,Virginia Tech,Liberty,RUSHING,Jalen,Holston,TD,0
+6457219,11/7/2020,FBS,Virginia Tech,Liberty,RUSHING,Jalen,Holston,LONG,12
+6457220,11/7/2020,FBS,Virginia Tech,Liberty,RUSHING,Tre,Turner,ATT,1
+6457221,11/7/2020,FBS,Virginia Tech,Liberty,RUSHING,Tre,Turner,YDS,0
+6457222,11/7/2020,FBS,Virginia Tech,Liberty,RUSHING,Tre,Turner,TD,0
+6457223,11/7/2020,FBS,Virginia Tech,Liberty,RUSHING,Tre,Turner,LONG,0
+6457224,11/7/2020,FBS,Virginia Tech,Liberty,PASSING,Hendon,Hooker,CP-ATT-INT,20-27-0
+6457225,11/7/2020,FBS,Virginia Tech,Liberty,PASSING,Hendon,Hooker,YDS,217
+6457226,11/7/2020,FBS,Virginia Tech,Liberty,PASSING,Hendon,Hooker,TD,3
+6457227,11/7/2020,FBS,Virginia Tech,Liberty,PASSING,Hendon,Hooker,LONG,25
+6457228,11/7/2020,FBS,Virginia Tech,Liberty,RECEIVING,Tre,Turner,REC,6
+6457229,11/7/2020,FBS,Virginia Tech,Liberty,RECEIVING,Tre,Turner,YDS,90
+6457230,11/7/2020,FBS,Virginia Tech,Liberty,RECEIVING,Tre,Turner,TD,1
+6457231,11/7/2020,FBS,Virginia Tech,Liberty,RECEIVING,Tre,Turner,LONG,25
+6457232,11/7/2020,FBS,Virginia Tech,Liberty,RECEIVING,Tayvion,Robinson,REC,4
+6457233,11/7/2020,FBS,Virginia Tech,Liberty,RECEIVING,Tayvion,Robinson,YDS,46
+6457234,11/7/2020,FBS,Virginia Tech,Liberty,RECEIVING,Tayvion,Robinson,TD,0
+6457235,11/7/2020,FBS,Virginia Tech,Liberty,RECEIVING,Tayvion,Robinson,LONG,17
+6457236,11/7/2020,FBS,Virginia Tech,Liberty,RECEIVING,Raheem,Blackshear,REC,4
+6457237,11/7/2020,FBS,Virginia Tech,Liberty,RECEIVING,Raheem,Blackshear,YDS,30
+6457238,11/7/2020,FBS,Virginia Tech,Liberty,RECEIVING,Raheem,Blackshear,TD,0
+6457239,11/7/2020,FBS,Virginia Tech,Liberty,RECEIVING,Raheem,Blackshear,LONG,16
+6457240,11/7/2020,FBS,Virginia Tech,Liberty,RECEIVING,Kaleb,Smith,REC,2
+6457241,11/7/2020,FBS,Virginia Tech,Liberty,RECEIVING,Kaleb,Smith,YDS,26
+6457242,11/7/2020,FBS,Virginia Tech,Liberty,RECEIVING,Kaleb,Smith,TD,1
+6457243,11/7/2020,FBS,Virginia Tech,Liberty,RECEIVING,Kaleb,Smith,LONG,17
+6457244,11/7/2020,FBS,Virginia Tech,Liberty,RECEIVING,Nick,Gallo,REC,3
+6457245,11/7/2020,FBS,Virginia Tech,Liberty,RECEIVING,Nick,Gallo,YDS,15
+6457246,11/7/2020,FBS,Virginia Tech,Liberty,RECEIVING,Nick,Gallo,TD,1
+6457247,11/7/2020,FBS,Virginia Tech,Liberty,RECEIVING,Nick,Gallo,LONG,8
+6457248,11/7/2020,FBS,Virginia Tech,Liberty,RECEIVING,Evan,Fairs,REC,1
+6457249,11/7/2020,FBS,Virginia Tech,Liberty,RECEIVING,Evan,Fairs,YDS,10
+6457250,11/7/2020,FBS,Virginia Tech,Liberty,RECEIVING,Evan,Fairs,TD,0
+6457251,11/7/2020,FBS,Virginia Tech,Liberty,RECEIVING,Evan,Fairs,LONG,10
+6457252,11/7/2020,FBS,Virginia Tech,Liberty,KICKING,Brian,Johnson,FG-FGA,2/3
+6457253,11/7/2020,FBS,Virginia Tech,Liberty,KICKING,Brian,Johnson,LONG,41
+6457254,11/7/2020,FBS,Virginia Tech,Liberty,KICKING,Brian,Johnson,XP,3
+6457255,11/7/2020,FBS,Virginia Tech,Liberty,KICKING,Brian,Johnson,PTS,9
+6457256,11/7/2020,FBS,Virginia Tech,Liberty,PUNTING,Oscar,Bradburn,NO,2
+6457257,11/7/2020,FBS,Virginia Tech,Liberty,PUNTING,Oscar,Bradburn,YDS,102
+6457258,11/7/2020,FBS,Virginia Tech,Liberty,PUNTING,Oscar,Bradburn,AVG,51.0
+6457259,11/7/2020,FBS,Virginia Tech,Liberty,PUNTING,Oscar,Bradburn,LONG,54
+6457260,11/7/2020,FBS,Virginia Tech,Liberty,PUNT RETURNS,Tayvion,Robinson,NO,2
+6457261,11/7/2020,FBS,Virginia Tech,Liberty,PUNT RETURNS,Tayvion,Robinson,YDS,17
+6457262,11/7/2020,FBS,Virginia Tech,Liberty,PUNT RETURNS,Tayvion,Robinson,AVG,8.5
+6457263,11/7/2020,FBS,Virginia Tech,Liberty,PUNT RETURNS,Tayvion,Robinson,LONG,19
+6457264,11/7/2020,FBS,Virginia Tech,Liberty,KICK RETURNS,Khalil,Herbert,NO,1
+6457265,11/7/2020,FBS,Virginia Tech,Liberty,KICK RETURNS,Khalil,Herbert,YDS,12
+6457266,11/7/2020,FBS,Virginia Tech,Liberty,KICK RETURNS,Khalil,Herbert,AVG,12.0
+6457267,11/7/2020,FBS,Virginia Tech,Liberty,KICK RETURNS,Khalil,Herbert,LONG,12
+6457268,11/7/2020,FBS,Virginia Tech,Liberty,KICK RETURNS,Kaleb,Smith,NO,0
+6457269,11/7/2020,FBS,Virginia Tech,Liberty,KICK RETURNS,Kaleb,Smith,YDS,6
+6457270,11/7/2020,FBS,Virginia Tech,Liberty,KICK RETURNS,Kaleb,Smith,AVG,-
+6457271,11/7/2020,FBS,Virginia Tech,Liberty,KICK RETURNS,Kaleb,Smith,LONG,6
+6457272,11/7/2020,FBS,Virginia Tech,Liberty,KICK RETURNS,William,Kakavitsas,NO,0
+6457273,11/7/2020,FBS,Virginia Tech,Liberty,KICK RETURNS,William,Kakavitsas,YDS,3
+6457274,11/7/2020,FBS,Virginia Tech,Liberty,KICK RETURNS,William,Kakavitsas,AVG,-
+6457275,11/7/2020,FBS,Virginia Tech,Liberty,KICK RETURNS,William,Kakavitsas,LONG,3
+6457276,11/7/2020,FBS,Virginia Tech,Liberty,KICK RETURNS,Braxton,Burmeister,NO,0
+6457277,11/7/2020,FBS,Virginia Tech,Liberty,KICK RETURNS,Braxton,Burmeister,YDS,-2
+6457278,11/7/2020,FBS,Virginia Tech,Liberty,KICK RETURNS,Braxton,Burmeister,AVG,-
+6457279,11/7/2020,FBS,Virginia Tech,Liberty,KICK RETURNS,Braxton,Burmeister,LONG,-2
+6457280,11/7/2020,FBS,Virginia Tech,Liberty,KICK RETURNS,Drake,Deiuliis,NO,0
+6457281,11/7/2020,FBS,Virginia Tech,Liberty,KICK RETURNS,Drake,Deiuliis,YDS,-7
+6457282,11/7/2020,FBS,Virginia Tech,Liberty,KICK RETURNS,Drake,Deiuliis,AVG,-
+6457283,11/7/2020,FBS,Virginia Tech,Liberty,KICK RETURNS,Drake,Deiuliis,LONG,-7
+6457284,11/7/2020,FBS,Virginia Tech,Liberty,KICK RETURNS,Tayvion,Robinson,NO,0
+6457285,11/7/2020,FBS,Virginia Tech,Liberty,KICK RETURNS,Tayvion,Robinson,YDS,-12
+6457286,11/7/2020,FBS,Virginia Tech,Liberty,KICK RETURNS,Tayvion,Robinson,AVG,-
+6457287,11/7/2020,FBS,Virginia Tech,Liberty,KICK RETURNS,Tayvion,Robinson,LONG,-6
+6457288,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Norell,Pollard,TOT,4
+6457289,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Norell,Pollard,SOLO,3
+6457290,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Norell,Pollard,SACKS,1.0
+6457291,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Norell,Pollard,TFL,1
+6457292,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Norell,Pollard,INT,0
+6457293,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Norell,Pollard,FF,1
+6457294,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Norell,Pollard,FR,0
+6457295,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Mario,Kendricks,TOT,1
+6457296,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Mario,Kendricks,SOLO,1
+6457297,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Mario,Kendricks,SACKS,0.0
+6457298,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Mario,Kendricks,TFL,0
+6457299,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Mario,Kendricks,INT,0
+6457300,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Mario,Kendricks,FF,0
+6457301,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Mario,Kendricks,FR,0
+6457302,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Josh,Fuga,TOT,2
+6457303,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Josh,Fuga,SOLO,0
+6457304,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Josh,Fuga,SACKS,0.0
+6457305,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Josh,Fuga,TFL,0
+6457306,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Josh,Fuga,INT,0
+6457307,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Josh,Fuga,FF,0
+6457308,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Josh,Fuga,FR,0
+6457309,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Robert,Wooten,TOT,1
+6457310,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Robert,Wooten,SOLO,0
+6457311,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Robert,Wooten,SACKS,0.0
+6457312,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Robert,Wooten,TFL,0
+6457313,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Robert,Wooten,INT,0
+6457314,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Robert,Wooten,FF,0
+6457315,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Robert,Wooten,FR,0
+6457316,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Dorian,Strong,TOT,4
+6457317,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Dorian,Strong,SOLO,4
+6457318,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Dorian,Strong,SACKS,0.0
+6457319,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Dorian,Strong,TFL,0
+6457320,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Dorian,Strong,INT,0
+6457321,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Dorian,Strong,FF,0
+6457322,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Dorian,Strong,FR,0
+6457323,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Jaylen,Griffin,TOT,2
+6457324,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Jaylen,Griffin,SOLO,2
+6457325,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Jaylen,Griffin,SACKS,1.0
+6457326,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Jaylen,Griffin,TFL,2
+6457327,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Jaylen,Griffin,INT,0
+6457328,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Jaylen,Griffin,FF,1
+6457329,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Jaylen,Griffin,FR,2
+6457330,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Amare,Barno,TOT,7
+6457331,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Amare,Barno,SOLO,6
+6457332,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Amare,Barno,SACKS,1.0
+6457333,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Amare,Barno,TFL,3
+6457334,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Amare,Barno,INT,0
+6457335,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Amare,Barno,FF,1
+6457336,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Amare,Barno,FR,0
+6457337,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,DaShawn,Crawford,TOT,1
+6457338,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,DaShawn,Crawford,SOLO,1
+6457339,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,DaShawn,Crawford,SACKS,0.0
+6457340,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,DaShawn,Crawford,TFL,0
+6457341,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,DaShawn,Crawford,INT,0
+6457342,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,DaShawn,Crawford,FF,0
+6457343,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,DaShawn,Crawford,FR,0
+6457344,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Alan,Tisdale,TOT,7
+6457345,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Alan,Tisdale,SOLO,5
+6457346,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Alan,Tisdale,SACKS,0.0
+6457347,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Alan,Tisdale,TFL,0
+6457348,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Alan,Tisdale,INT,0
+6457349,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Alan,Tisdale,FF,0
+6457350,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Alan,Tisdale,FR,0
+6457351,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Jermaine,Waller,TOT,2
+6457352,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Jermaine,Waller,SOLO,2
+6457353,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Jermaine,Waller,SACKS,0.0
+6457354,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Jermaine,Waller,TFL,0
+6457355,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Jermaine,Waller,INT,0
+6457356,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Jermaine,Waller,FF,0
+6457357,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Jermaine,Waller,FR,0
+6457358,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Devin,Taylor,TOT,7
+6457359,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Devin,Taylor,SOLO,4
+6457360,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Devin,Taylor,SACKS,0.0
+6457361,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Devin,Taylor,TFL,0
+6457362,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Devin,Taylor,INT,0
+6457363,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Devin,Taylor,FF,0
+6457364,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Devin,Taylor,FR,0
+6457365,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Rayshard,Ashby,TOT,3
+6457366,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Rayshard,Ashby,SOLO,3
+6457367,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Rayshard,Ashby,SACKS,0.0
+6457368,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Rayshard,Ashby,TFL,1
+6457369,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Rayshard,Ashby,INT,0
+6457370,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Rayshard,Ashby,FF,0
+6457371,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Rayshard,Ashby,FR,0
+6457372,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Chamarri,Conner,TOT,9
+6457373,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Chamarri,Conner,SOLO,9
+6457374,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Chamarri,Conner,SACKS,0.0
+6457375,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Chamarri,Conner,TFL,0
+6457376,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Chamarri,Conner,INT,0
+6457377,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Chamarri,Conner,FF,0
+6457378,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Chamarri,Conner,FR,0
+6457379,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Divine,Deablo,TOT,10
+6457380,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Divine,Deablo,SOLO,8
+6457381,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Divine,Deablo,SACKS,0.0
+6457382,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Divine,Deablo,TFL,0
+6457383,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Divine,Deablo,INT,0
+6457384,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Divine,Deablo,FF,0
+6457385,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Divine,Deablo,FR,0
+6457386,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Justus,Reed,TOT,2
+6457387,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Justus,Reed,SOLO,2
+6457388,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Justus,Reed,SACKS,0.0
+6457389,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Justus,Reed,TFL,1
+6457390,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Justus,Reed,INT,0
+6457391,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Justus,Reed,FF,0
+6457392,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Justus,Reed,FR,0
+6457393,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Jarrod,Hewitt,TOT,5
+6457394,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Jarrod,Hewitt,SOLO,4
+6457395,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Jarrod,Hewitt,SACKS,0.0
+6457396,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Jarrod,Hewitt,TFL,2
+6457397,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Jarrod,Hewitt,INT,0
+6457398,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Jarrod,Hewitt,FF,0
+6457399,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Jarrod,Hewitt,FR,0
+6457400,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Dax,Hollifield,TOT,5
+6457401,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Dax,Hollifield,SOLO,4
+6457402,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Dax,Hollifield,SACKS,0.0
+6457403,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Dax,Hollifield,TFL,0
+6457404,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Dax,Hollifield,INT,0
+6457405,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Dax,Hollifield,FF,0
+6457406,11/7/2020,FBS,Virginia Tech,Liberty,DEFENSE,Dax,Hollifield,FR,0

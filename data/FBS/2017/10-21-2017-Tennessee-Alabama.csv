@@ -1,0 +1,153 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3991001,10/21/2017,FBS,Tennessee,Alabama,RUSHING,John,Kelly,ATT,12
+3991002,10/21/2017,FBS,Tennessee,Alabama,RUSHING,John,Kelly,YDS,63
+3991003,10/21/2017,FBS,Tennessee,Alabama,RUSHING,John,Kelly,TD,0
+3991004,10/21/2017,FBS,Tennessee,Alabama,RUSHING,John,Kelly,LONG,18
+3991005,10/21/2017,FBS,Tennessee,Alabama,RUSHING,Tim,Jordan,ATT,2
+3991006,10/21/2017,FBS,Tennessee,Alabama,RUSHING,Tim,Jordan,YDS,7
+3991007,10/21/2017,FBS,Tennessee,Alabama,RUSHING,Tim,Jordan,TD,0
+3991008,10/21/2017,FBS,Tennessee,Alabama,RUSHING,Tim,Jordan,LONG,7
+3991009,10/21/2017,FBS,Tennessee,Alabama,RUSHING,Marquez,Callaway,ATT,1
+3991010,10/21/2017,FBS,Tennessee,Alabama,RUSHING,Marquez,Callaway,YDS,4
+3991011,10/21/2017,FBS,Tennessee,Alabama,RUSHING,Marquez,Callaway,TD,0
+3991012,10/21/2017,FBS,Tennessee,Alabama,RUSHING,Marquez,Callaway,LONG,4
+3991013,10/21/2017,FBS,Tennessee,Alabama,RUSHING,Ty,Chandler,ATT,4
+3991014,10/21/2017,FBS,Tennessee,Alabama,RUSHING,Ty,Chandler,YDS,2
+3991015,10/21/2017,FBS,Tennessee,Alabama,RUSHING,Ty,Chandler,TD,0
+3991016,10/21/2017,FBS,Tennessee,Alabama,RUSHING,Ty,Chandler,LONG,2
+3991017,10/21/2017,FBS,Tennessee,Alabama,RUSHING,Jarrett,Guarantano,ATT,11
+3991018,10/21/2017,FBS,Tennessee,Alabama,RUSHING,Jarrett,Guarantano,YDS,-12
+3991019,10/21/2017,FBS,Tennessee,Alabama,RUSHING,Jarrett,Guarantano,TD,0
+3991020,10/21/2017,FBS,Tennessee,Alabama,RUSHING,Jarrett,Guarantano,LONG,9
+3991021,10/21/2017,FBS,Tennessee,Alabama,PASSING,Jarrett,Guarantano,CP-ATT-INT,9-16-1
+3991022,10/21/2017,FBS,Tennessee,Alabama,PASSING,Jarrett,Guarantano,YDS,44
+3991023,10/21/2017,FBS,Tennessee,Alabama,PASSING,Jarrett,Guarantano,TD,0
+3991024,10/21/2017,FBS,Tennessee,Alabama,PASSING,Jarrett,Guarantano,LONG,12
+3991025,10/21/2017,FBS,Tennessee,Alabama,RECEIVING,Marquez,Callaway,REC,3
+3991026,10/21/2017,FBS,Tennessee,Alabama,RECEIVING,Marquez,Callaway,YDS,14
+3991027,10/21/2017,FBS,Tennessee,Alabama,RECEIVING,Marquez,Callaway,TD,0
+3991028,10/21/2017,FBS,Tennessee,Alabama,RECEIVING,Marquez,Callaway,LONG,9
+3991029,10/21/2017,FBS,Tennessee,Alabama,RECEIVING,Ethan,Wolf,REC,2
+3991030,10/21/2017,FBS,Tennessee,Alabama,RECEIVING,Ethan,Wolf,YDS,11
+3991031,10/21/2017,FBS,Tennessee,Alabama,RECEIVING,Ethan,Wolf,TD,0
+3991032,10/21/2017,FBS,Tennessee,Alabama,RECEIVING,Ethan,Wolf,LONG,12
+3991033,10/21/2017,FBS,Tennessee,Alabama,RECEIVING,Tim,Jordan,REC,1
+3991034,10/21/2017,FBS,Tennessee,Alabama,RECEIVING,Tim,Jordan,YDS,8
+3991035,10/21/2017,FBS,Tennessee,Alabama,RECEIVING,Tim,Jordan,TD,0
+3991036,10/21/2017,FBS,Tennessee,Alabama,RECEIVING,Tim,Jordan,LONG,8
+3991037,10/21/2017,FBS,Tennessee,Alabama,RECEIVING,Brandon,Johnson,REC,1
+3991038,10/21/2017,FBS,Tennessee,Alabama,RECEIVING,Brandon,Johnson,YDS,6
+3991039,10/21/2017,FBS,Tennessee,Alabama,RECEIVING,Brandon,Johnson,TD,0
+3991040,10/21/2017,FBS,Tennessee,Alabama,RECEIVING,Brandon,Johnson,LONG,6
+3991041,10/21/2017,FBS,Tennessee,Alabama,RECEIVING,John,Kelly,REC,2
+3991042,10/21/2017,FBS,Tennessee,Alabama,RECEIVING,John,Kelly,YDS,5
+3991043,10/21/2017,FBS,Tennessee,Alabama,RECEIVING,John,Kelly,TD,0
+3991044,10/21/2017,FBS,Tennessee,Alabama,RECEIVING,John,Kelly,LONG,8
+3991045,10/21/2017,FBS,Tennessee,Alabama,KICKING,Brent,Cimaglia,FG-FGA,0/0
+3991046,10/21/2017,FBS,Tennessee,Alabama,KICKING,Brent,Cimaglia,LONG,-
+3991047,10/21/2017,FBS,Tennessee,Alabama,KICKING,Brent,Cimaglia,XP,1
+3991048,10/21/2017,FBS,Tennessee,Alabama,KICKING,Brent,Cimaglia,PTS,1
+3991049,10/21/2017,FBS,Tennessee,Alabama,PUNTING,Trevor,Daniel,NO,9
+3991050,10/21/2017,FBS,Tennessee,Alabama,PUNTING,Trevor,Daniel,YDS,412
+3991051,10/21/2017,FBS,Tennessee,Alabama,PUNTING,Trevor,Daniel,AVG,45.8
+3991052,10/21/2017,FBS,Tennessee,Alabama,PUNTING,Trevor,Daniel,LONG,60
+3991053,10/21/2017,FBS,Tennessee,Alabama,PUNT RETURNS,Marquez,Callaway,NO,0
+3991054,10/21/2017,FBS,Tennessee,Alabama,PUNT RETURNS,Marquez,Callaway,YDS,0
+3991055,10/21/2017,FBS,Tennessee,Alabama,PUNT RETURNS,Marquez,Callaway,AVG,-
+3991056,10/21/2017,FBS,Tennessee,Alabama,PUNT RETURNS,Marquez,Callaway,LONG,0
+3991057,10/21/2017,FBS,Tennessee,Alabama,KICK RETURNS,Ty,Chandler,NO,4
+3991058,10/21/2017,FBS,Tennessee,Alabama,KICK RETURNS,Ty,Chandler,YDS,94
+3991059,10/21/2017,FBS,Tennessee,Alabama,KICK RETURNS,Ty,Chandler,AVG,23.5
+3991060,10/21/2017,FBS,Tennessee,Alabama,KICK RETURNS,Ty,Chandler,LONG,32
+3991061,10/21/2017,FBS,Alabama,Tennessee,RUSHING,Damien,Harris,ATT,13
+3991062,10/21/2017,FBS,Alabama,Tennessee,RUSHING,Damien,Harris,YDS,72
+3991063,10/21/2017,FBS,Alabama,Tennessee,RUSHING,Damien,Harris,TD,1
+3991064,10/21/2017,FBS,Alabama,Tennessee,RUSHING,Damien,Harris,LONG,11
+3991065,10/21/2017,FBS,Alabama,Tennessee,RUSHING,Najee,Harris,ATT,7
+3991066,10/21/2017,FBS,Alabama,Tennessee,RUSHING,Najee,Harris,YDS,50
+3991067,10/21/2017,FBS,Alabama,Tennessee,RUSHING,Najee,Harris,TD,0
+3991068,10/21/2017,FBS,Alabama,Tennessee,RUSHING,Najee,Harris,LONG,18
+3991069,10/21/2017,FBS,Alabama,Tennessee,RUSHING,Josh,Jacobs,ATT,8
+3991070,10/21/2017,FBS,Alabama,Tennessee,RUSHING,Josh,Jacobs,YDS,47
+3991071,10/21/2017,FBS,Alabama,Tennessee,RUSHING,Josh,Jacobs,TD,0
+3991072,10/21/2017,FBS,Alabama,Tennessee,RUSHING,Josh,Jacobs,LONG,22
+3991073,10/21/2017,FBS,Alabama,Tennessee,RUSHING,Tua,Tagovailoa,ATT,4
+3991074,10/21/2017,FBS,Alabama,Tennessee,RUSHING,Tua,Tagovailoa,YDS,36
+3991075,10/21/2017,FBS,Alabama,Tennessee,RUSHING,Tua,Tagovailoa,TD,1
+3991076,10/21/2017,FBS,Alabama,Tennessee,RUSHING,Tua,Tagovailoa,LONG,23
+3991077,10/21/2017,FBS,Alabama,Tennessee,RUSHING,Brian,RobinsonJr.,ATT,3
+3991078,10/21/2017,FBS,Alabama,Tennessee,RUSHING,Brian,RobinsonJr.,YDS,23
+3991079,10/21/2017,FBS,Alabama,Tennessee,RUSHING,Brian,RobinsonJr.,TD,0
+3991080,10/21/2017,FBS,Alabama,Tennessee,RUSHING,Brian,RobinsonJr.,LONG,13
+3991081,10/21/2017,FBS,Alabama,Tennessee,RUSHING,Bo,Scarbrough,ATT,9
+3991082,10/21/2017,FBS,Alabama,Tennessee,RUSHING,Bo,Scarbrough,YDS,18
+3991083,10/21/2017,FBS,Alabama,Tennessee,RUSHING,Bo,Scarbrough,TD,2
+3991084,10/21/2017,FBS,Alabama,Tennessee,RUSHING,Bo,Scarbrough,LONG,5
+3991085,10/21/2017,FBS,Alabama,Tennessee,RUSHING,Ronnie,Clark,ATT,2
+3991086,10/21/2017,FBS,Alabama,Tennessee,RUSHING,Ronnie,Clark,YDS,16
+3991087,10/21/2017,FBS,Alabama,Tennessee,RUSHING,Ronnie,Clark,TD,0
+3991088,10/21/2017,FBS,Alabama,Tennessee,RUSHING,Ronnie,Clark,LONG,12
+3991089,10/21/2017,FBS,Alabama,Tennessee,RUSHING,Jalen,Hurts,ATT,5
+3991090,10/21/2017,FBS,Alabama,Tennessee,RUSHING,Jalen,Hurts,YDS,14
+3991091,10/21/2017,FBS,Alabama,Tennessee,RUSHING,Jalen,Hurts,TD,0
+3991092,10/21/2017,FBS,Alabama,Tennessee,RUSHING,Jalen,Hurts,LONG,7
+3991093,10/21/2017,FBS,Alabama,Tennessee,RUSHING,,Team,ATT,2
+3991094,10/21/2017,FBS,Alabama,Tennessee,RUSHING,,Team,YDS,-4
+3991095,10/21/2017,FBS,Alabama,Tennessee,RUSHING,,Team,TD,0
+3991096,10/21/2017,FBS,Alabama,Tennessee,RUSHING,,Team,LONG,-2
+3991097,10/21/2017,FBS,Alabama,Tennessee,PASSING,Jalen,Hurts,CP-ATT-INT,13-21-0
+3991098,10/21/2017,FBS,Alabama,Tennessee,PASSING,Jalen,Hurts,YDS,198
+3991099,10/21/2017,FBS,Alabama,Tennessee,PASSING,Jalen,Hurts,TD,1
+3991100,10/21/2017,FBS,Alabama,Tennessee,PASSING,Jalen,Hurts,LONG,34
+3991101,10/21/2017,FBS,Alabama,Tennessee,PASSING,Tua,Tagovailoa,CP-ATT-INT,9-12-1
+3991102,10/21/2017,FBS,Alabama,Tennessee,PASSING,Tua,Tagovailoa,YDS,134
+3991103,10/21/2017,FBS,Alabama,Tennessee,PASSING,Tua,Tagovailoa,TD,1
+3991104,10/21/2017,FBS,Alabama,Tennessee,PASSING,Tua,Tagovailoa,LONG,60
+3991105,10/21/2017,FBS,Alabama,Tennessee,RECEIVING,Calvin,Ridley,REC,8
+3991106,10/21/2017,FBS,Alabama,Tennessee,RECEIVING,Calvin,Ridley,YDS,82
+3991107,10/21/2017,FBS,Alabama,Tennessee,RECEIVING,Calvin,Ridley,TD,0
+3991108,10/21/2017,FBS,Alabama,Tennessee,RECEIVING,Calvin,Ridley,LONG,26
+3991109,10/21/2017,FBS,Alabama,Tennessee,RECEIVING,Henry,RuggsIII,REC,1
+3991110,10/21/2017,FBS,Alabama,Tennessee,RECEIVING,Henry,RuggsIII,YDS,60
+3991111,10/21/2017,FBS,Alabama,Tennessee,RECEIVING,Henry,RuggsIII,TD,1
+3991112,10/21/2017,FBS,Alabama,Tennessee,RECEIVING,Henry,RuggsIII,LONG,60
+3991113,10/21/2017,FBS,Alabama,Tennessee,RECEIVING,Irv,SmithJr.,REC,3
+3991114,10/21/2017,FBS,Alabama,Tennessee,RECEIVING,Irv,SmithJr.,YDS,60
+3991115,10/21/2017,FBS,Alabama,Tennessee,RECEIVING,Irv,SmithJr.,TD,1
+3991116,10/21/2017,FBS,Alabama,Tennessee,RECEIVING,Irv,SmithJr.,LONG,34
+3991117,10/21/2017,FBS,Alabama,Tennessee,RECEIVING,Jerry,Jeudy,REC,3
+3991118,10/21/2017,FBS,Alabama,Tennessee,RECEIVING,Jerry,Jeudy,YDS,48
+3991119,10/21/2017,FBS,Alabama,Tennessee,RECEIVING,Jerry,Jeudy,TD,0
+3991120,10/21/2017,FBS,Alabama,Tennessee,RECEIVING,Jerry,Jeudy,LONG,19
+3991121,10/21/2017,FBS,Alabama,Tennessee,RECEIVING,Hale,Hentges,REC,2
+3991122,10/21/2017,FBS,Alabama,Tennessee,RECEIVING,Hale,Hentges,YDS,34
+3991123,10/21/2017,FBS,Alabama,Tennessee,RECEIVING,Hale,Hentges,TD,0
+3991124,10/21/2017,FBS,Alabama,Tennessee,RECEIVING,Hale,Hentges,LONG,19
+3991125,10/21/2017,FBS,Alabama,Tennessee,RECEIVING,Josh,Jacobs,REC,2
+3991126,10/21/2017,FBS,Alabama,Tennessee,RECEIVING,Josh,Jacobs,YDS,24
+3991127,10/21/2017,FBS,Alabama,Tennessee,RECEIVING,Josh,Jacobs,TD,0
+3991128,10/21/2017,FBS,Alabama,Tennessee,RECEIVING,Josh,Jacobs,LONG,21
+3991129,10/21/2017,FBS,Alabama,Tennessee,RECEIVING,Cam,Sims,REC,1
+3991130,10/21/2017,FBS,Alabama,Tennessee,RECEIVING,Cam,Sims,YDS,14
+3991131,10/21/2017,FBS,Alabama,Tennessee,RECEIVING,Cam,Sims,TD,0
+3991132,10/21/2017,FBS,Alabama,Tennessee,RECEIVING,Cam,Sims,LONG,14
+3991133,10/21/2017,FBS,Alabama,Tennessee,RECEIVING,Najee,Harris,REC,2
+3991134,10/21/2017,FBS,Alabama,Tennessee,RECEIVING,Najee,Harris,YDS,10
+3991135,10/21/2017,FBS,Alabama,Tennessee,RECEIVING,Najee,Harris,TD,0
+3991136,10/21/2017,FBS,Alabama,Tennessee,RECEIVING,Najee,Harris,LONG,8
+3991137,10/21/2017,FBS,Alabama,Tennessee,KICKING,Andy,Pappanastos,FG-FGA,1/1
+3991138,10/21/2017,FBS,Alabama,Tennessee,KICKING,Andy,Pappanastos,LONG,25
+3991139,10/21/2017,FBS,Alabama,Tennessee,KICKING,Andy,Pappanastos,XP,6
+3991140,10/21/2017,FBS,Alabama,Tennessee,KICKING,Andy,Pappanastos,PTS,9
+3991141,10/21/2017,FBS,Alabama,Tennessee,PUNTING,JK,Scott,NO,2
+3991142,10/21/2017,FBS,Alabama,Tennessee,PUNTING,JK,Scott,YDS,84
+3991143,10/21/2017,FBS,Alabama,Tennessee,PUNTING,JK,Scott,AVG,42.0
+3991144,10/21/2017,FBS,Alabama,Tennessee,PUNTING,JK,Scott,LONG,50
+3991145,10/21/2017,FBS,Alabama,Tennessee,PUNT RETURNS,Xavian,Marks,NO,5
+3991146,10/21/2017,FBS,Alabama,Tennessee,PUNT RETURNS,Xavian,Marks,YDS,25
+3991147,10/21/2017,FBS,Alabama,Tennessee,PUNT RETURNS,Xavian,Marks,AVG,5.0
+3991148,10/21/2017,FBS,Alabama,Tennessee,PUNT RETURNS,Xavian,Marks,LONG,12
+3991149,10/21/2017,FBS,Alabama,Tennessee,KICK RETURNS,Henry,RuggsIII,NO,2
+3991150,10/21/2017,FBS,Alabama,Tennessee,KICK RETURNS,Henry,RuggsIII,YDS,36
+3991151,10/21/2017,FBS,Alabama,Tennessee,KICK RETURNS,Henry,RuggsIII,AVG,18.0
+3991152,10/21/2017,FBS,Alabama,Tennessee,KICK RETURNS,Henry,RuggsIII,LONG,21

@@ -1,0 +1,133 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3635001,9/9/2017,FBS,South Carolina,Missouri,RUSHING,Ty'Son,Williams,ATT,14
+3635002,9/9/2017,FBS,South Carolina,Missouri,RUSHING,Ty'Son,Williams,YDS,78
+3635003,9/9/2017,FBS,South Carolina,Missouri,RUSHING,Ty'Son,Williams,TD,0
+3635004,9/9/2017,FBS,South Carolina,Missouri,RUSHING,Ty'Son,Williams,LONG,32
+3635005,9/9/2017,FBS,South Carolina,Missouri,RUSHING,Rico,Dowdle,ATT,14
+3635006,9/9/2017,FBS,South Carolina,Missouri,RUSHING,Rico,Dowdle,YDS,48
+3635007,9/9/2017,FBS,South Carolina,Missouri,RUSHING,Rico,Dowdle,TD,0
+3635008,9/9/2017,FBS,South Carolina,Missouri,RUSHING,Rico,Dowdle,LONG,8
+3635009,9/9/2017,FBS,South Carolina,Missouri,RUSHING,Deebo,Samuel,ATT,1
+3635010,9/9/2017,FBS,South Carolina,Missouri,RUSHING,Deebo,Samuel,YDS,25
+3635011,9/9/2017,FBS,South Carolina,Missouri,RUSHING,Deebo,Samuel,TD,1
+3635012,9/9/2017,FBS,South Carolina,Missouri,RUSHING,Deebo,Samuel,LONG,25
+3635013,9/9/2017,FBS,South Carolina,Missouri,RUSHING,A.J.,Turner,ATT,5
+3635014,9/9/2017,FBS,South Carolina,Missouri,RUSHING,A.J.,Turner,YDS,16
+3635015,9/9/2017,FBS,South Carolina,Missouri,RUSHING,A.J.,Turner,TD,0
+3635016,9/9/2017,FBS,South Carolina,Missouri,RUSHING,A.J.,Turner,LONG,9
+3635017,9/9/2017,FBS,South Carolina,Missouri,RUSHING,Jake,Bentley,ATT,4
+3635018,9/9/2017,FBS,South Carolina,Missouri,RUSHING,Jake,Bentley,YDS,5
+3635019,9/9/2017,FBS,South Carolina,Missouri,RUSHING,Jake,Bentley,TD,0
+3635020,9/9/2017,FBS,South Carolina,Missouri,RUSHING,Jake,Bentley,LONG,8
+3635021,9/9/2017,FBS,South Carolina,Missouri,RUSHING,Hayden,Hurst,ATT,1
+3635022,9/9/2017,FBS,South Carolina,Missouri,RUSHING,Hayden,Hurst,YDS,2
+3635023,9/9/2017,FBS,South Carolina,Missouri,RUSHING,Hayden,Hurst,TD,1
+3635024,9/9/2017,FBS,South Carolina,Missouri,RUSHING,Hayden,Hurst,LONG,2
+3635025,9/9/2017,FBS,South Carolina,Missouri,RUSHING,,Team,ATT,1
+3635026,9/9/2017,FBS,South Carolina,Missouri,RUSHING,,Team,YDS,-2
+3635027,9/9/2017,FBS,South Carolina,Missouri,RUSHING,,Team,TD,0
+3635028,9/9/2017,FBS,South Carolina,Missouri,RUSHING,,Team,LONG,-2
+3635029,9/9/2017,FBS,South Carolina,Missouri,PASSING,Jake,Bentley,CP-ATT-INT,18-28-0
+3635030,9/9/2017,FBS,South Carolina,Missouri,PASSING,Jake,Bentley,YDS,187
+3635031,9/9/2017,FBS,South Carolina,Missouri,PASSING,Jake,Bentley,TD,1
+3635032,9/9/2017,FBS,South Carolina,Missouri,PASSING,Jake,Bentley,LONG,39
+3635033,9/9/2017,FBS,South Carolina,Missouri,RECEIVING,Hayden,Hurst,REC,3
+3635034,9/9/2017,FBS,South Carolina,Missouri,RECEIVING,Hayden,Hurst,YDS,69
+3635035,9/9/2017,FBS,South Carolina,Missouri,RECEIVING,Hayden,Hurst,TD,1
+3635036,9/9/2017,FBS,South Carolina,Missouri,RECEIVING,Hayden,Hurst,LONG,39
+3635037,9/9/2017,FBS,South Carolina,Missouri,RECEIVING,Deebo,Samuel,REC,5
+3635038,9/9/2017,FBS,South Carolina,Missouri,RECEIVING,Deebo,Samuel,YDS,45
+3635039,9/9/2017,FBS,South Carolina,Missouri,RECEIVING,Deebo,Samuel,TD,0
+3635040,9/9/2017,FBS,South Carolina,Missouri,RECEIVING,Deebo,Samuel,LONG,12
+3635041,9/9/2017,FBS,South Carolina,Missouri,RECEIVING,Bryan,Edwards,REC,5
+3635042,9/9/2017,FBS,South Carolina,Missouri,RECEIVING,Bryan,Edwards,YDS,35
+3635043,9/9/2017,FBS,South Carolina,Missouri,RECEIVING,Bryan,Edwards,TD,0
+3635044,9/9/2017,FBS,South Carolina,Missouri,RECEIVING,Bryan,Edwards,LONG,16
+3635045,9/9/2017,FBS,South Carolina,Missouri,RECEIVING,Shi,Smith,REC,4
+3635046,9/9/2017,FBS,South Carolina,Missouri,RECEIVING,Shi,Smith,YDS,22
+3635047,9/9/2017,FBS,South Carolina,Missouri,RECEIVING,Shi,Smith,TD,0
+3635048,9/9/2017,FBS,South Carolina,Missouri,RECEIVING,Shi,Smith,LONG,10
+3635049,9/9/2017,FBS,South Carolina,Missouri,RECEIVING,Rico,Dowdle,REC,1
+3635050,9/9/2017,FBS,South Carolina,Missouri,RECEIVING,Rico,Dowdle,YDS,16
+3635051,9/9/2017,FBS,South Carolina,Missouri,RECEIVING,Rico,Dowdle,TD,0
+3635052,9/9/2017,FBS,South Carolina,Missouri,RECEIVING,Rico,Dowdle,LONG,16
+3635053,9/9/2017,FBS,South Carolina,Missouri,KICKING,Alexander,Woznick,FG-FGA,1/2
+3635054,9/9/2017,FBS,South Carolina,Missouri,KICKING,Alexander,Woznick,LONG,32
+3635055,9/9/2017,FBS,South Carolina,Missouri,KICKING,Alexander,Woznick,XP,4
+3635056,9/9/2017,FBS,South Carolina,Missouri,KICKING,Alexander,Woznick,PTS,7
+3635057,9/9/2017,FBS,South Carolina,Missouri,PUNTING,Joseph,Charlton,NO,5
+3635058,9/9/2017,FBS,South Carolina,Missouri,PUNTING,Joseph,Charlton,YDS,212
+3635059,9/9/2017,FBS,South Carolina,Missouri,PUNTING,Joseph,Charlton,AVG,42.4
+3635060,9/9/2017,FBS,South Carolina,Missouri,PUNTING,Joseph,Charlton,LONG,73
+3635061,9/9/2017,FBS,South Carolina,Missouri,PUNT RETURNS,Chris,Lammons,NO,0
+3635062,9/9/2017,FBS,South Carolina,Missouri,PUNT RETURNS,Chris,Lammons,YDS,0
+3635063,9/9/2017,FBS,South Carolina,Missouri,PUNT RETURNS,Chris,Lammons,AVG,-
+3635064,9/9/2017,FBS,South Carolina,Missouri,PUNT RETURNS,Chris,Lammons,LONG,0
+3635065,9/9/2017,FBS,South Carolina,Missouri,KICK RETURNS,Deebo,Samuel,NO,1
+3635066,9/9/2017,FBS,South Carolina,Missouri,KICK RETURNS,Deebo,Samuel,YDS,97
+3635067,9/9/2017,FBS,South Carolina,Missouri,KICK RETURNS,Deebo,Samuel,AVG,97.0
+3635068,9/9/2017,FBS,South Carolina,Missouri,KICK RETURNS,Deebo,Samuel,LONG,97
+3635069,9/9/2017,FBS,South Carolina,Missouri,KICK RETURNS,A.J.,Turner,NO,1
+3635070,9/9/2017,FBS,South Carolina,Missouri,KICK RETURNS,A.J.,Turner,YDS,23
+3635071,9/9/2017,FBS,South Carolina,Missouri,KICK RETURNS,A.J.,Turner,AVG,23.0
+3635072,9/9/2017,FBS,South Carolina,Missouri,KICK RETURNS,A.J.,Turner,LONG,23
+3635073,9/9/2017,FBS,Missouri,South Carolina,RUSHING,Damarea,Crockett,ATT,18
+3635074,9/9/2017,FBS,Missouri,South Carolina,RUSHING,Damarea,Crockett,YDS,97
+3635075,9/9/2017,FBS,Missouri,South Carolina,RUSHING,Damarea,Crockett,TD,0
+3635076,9/9/2017,FBS,Missouri,South Carolina,RUSHING,Damarea,Crockett,LONG,25
+3635077,9/9/2017,FBS,Missouri,South Carolina,RUSHING,Ish,Witter,ATT,12
+3635078,9/9/2017,FBS,Missouri,South Carolina,RUSHING,Ish,Witter,YDS,72
+3635079,9/9/2017,FBS,Missouri,South Carolina,RUSHING,Ish,Witter,TD,0
+3635080,9/9/2017,FBS,Missouri,South Carolina,RUSHING,Ish,Witter,LONG,20
+3635081,9/9/2017,FBS,Missouri,South Carolina,RUSHING,Larry,RountreeIII,ATT,4
+3635082,9/9/2017,FBS,Missouri,South Carolina,RUSHING,Larry,RountreeIII,YDS,12
+3635083,9/9/2017,FBS,Missouri,South Carolina,RUSHING,Larry,RountreeIII,TD,0
+3635084,9/9/2017,FBS,Missouri,South Carolina,RUSHING,Larry,RountreeIII,LONG,5
+3635085,9/9/2017,FBS,Missouri,South Carolina,RUSHING,Drew,Lock,ATT,3
+3635086,9/9/2017,FBS,Missouri,South Carolina,RUSHING,Drew,Lock,YDS,-3
+3635087,9/9/2017,FBS,Missouri,South Carolina,RUSHING,Drew,Lock,TD,0
+3635088,9/9/2017,FBS,Missouri,South Carolina,RUSHING,Drew,Lock,LONG,3
+3635089,9/9/2017,FBS,Missouri,South Carolina,PASSING,Drew,Lock,CP-ATT-INT,14-32-2
+3635090,9/9/2017,FBS,Missouri,South Carolina,PASSING,Drew,Lock,YDS,245
+3635091,9/9/2017,FBS,Missouri,South Carolina,PASSING,Drew,Lock,TD,1
+3635092,9/9/2017,FBS,Missouri,South Carolina,PASSING,Drew,Lock,LONG,61
+3635093,9/9/2017,FBS,Missouri,South Carolina,RECEIVING,Jason,Reese,REC,2
+3635094,9/9/2017,FBS,Missouri,South Carolina,RECEIVING,Jason,Reese,YDS,88
+3635095,9/9/2017,FBS,Missouri,South Carolina,RECEIVING,Jason,Reese,TD,1
+3635096,9/9/2017,FBS,Missouri,South Carolina,RECEIVING,Jason,Reese,LONG,61
+3635097,9/9/2017,FBS,Missouri,South Carolina,RECEIVING,Emanuel,Hall,REC,3
+3635098,9/9/2017,FBS,Missouri,South Carolina,RECEIVING,Emanuel,Hall,YDS,66
+3635099,9/9/2017,FBS,Missouri,South Carolina,RECEIVING,Emanuel,Hall,TD,0
+3635100,9/9/2017,FBS,Missouri,South Carolina,RECEIVING,Emanuel,Hall,LONG,38
+3635101,9/9/2017,FBS,Missouri,South Carolina,RECEIVING,Dimetrios,Mason,REC,4
+3635102,9/9/2017,FBS,Missouri,South Carolina,RECEIVING,Dimetrios,Mason,YDS,48
+3635103,9/9/2017,FBS,Missouri,South Carolina,RECEIVING,Dimetrios,Mason,TD,0
+3635104,9/9/2017,FBS,Missouri,South Carolina,RECEIVING,Dimetrios,Mason,LONG,19
+3635105,9/9/2017,FBS,Missouri,South Carolina,RECEIVING,J'Mon,Moore,REC,3
+3635106,9/9/2017,FBS,Missouri,South Carolina,RECEIVING,J'Mon,Moore,YDS,29
+3635107,9/9/2017,FBS,Missouri,South Carolina,RECEIVING,J'Mon,Moore,TD,0
+3635108,9/9/2017,FBS,Missouri,South Carolina,RECEIVING,J'Mon,Moore,LONG,12
+3635109,9/9/2017,FBS,Missouri,South Carolina,RECEIVING,Ish,Witter,REC,1
+3635110,9/9/2017,FBS,Missouri,South Carolina,RECEIVING,Ish,Witter,YDS,8
+3635111,9/9/2017,FBS,Missouri,South Carolina,RECEIVING,Ish,Witter,TD,0
+3635112,9/9/2017,FBS,Missouri,South Carolina,RECEIVING,Ish,Witter,LONG,8
+3635113,9/9/2017,FBS,Missouri,South Carolina,RECEIVING,Damarea,Crockett,REC,1
+3635114,9/9/2017,FBS,Missouri,South Carolina,RECEIVING,Damarea,Crockett,YDS,6
+3635115,9/9/2017,FBS,Missouri,South Carolina,RECEIVING,Damarea,Crockett,TD,0
+3635116,9/9/2017,FBS,Missouri,South Carolina,RECEIVING,Damarea,Crockett,LONG,6
+3635117,9/9/2017,FBS,Missouri,South Carolina,KICKING,Tucker,McCann,FG-FGA,2/3
+3635118,9/9/2017,FBS,Missouri,South Carolina,KICKING,Tucker,McCann,LONG,43
+3635119,9/9/2017,FBS,Missouri,South Carolina,KICKING,Tucker,McCann,XP,1
+3635120,9/9/2017,FBS,Missouri,South Carolina,KICKING,Tucker,McCann,PTS,7
+3635121,9/9/2017,FBS,Missouri,South Carolina,PUNTING,Corey,Fatony,NO,4
+3635122,9/9/2017,FBS,Missouri,South Carolina,PUNTING,Corey,Fatony,YDS,215
+3635123,9/9/2017,FBS,Missouri,South Carolina,PUNTING,Corey,Fatony,AVG,53.8
+3635124,9/9/2017,FBS,Missouri,South Carolina,PUNTING,Corey,Fatony,LONG,70
+3635125,9/9/2017,FBS,Missouri,South Carolina,PUNT RETURNS,Johnathon,Johnson,NO,1
+3635126,9/9/2017,FBS,Missouri,South Carolina,PUNT RETURNS,Johnathon,Johnson,YDS,4
+3635127,9/9/2017,FBS,Missouri,South Carolina,PUNT RETURNS,Johnathon,Johnson,AVG,4.0
+3635128,9/9/2017,FBS,Missouri,South Carolina,PUNT RETURNS,Johnathon,Johnson,LONG,4
+3635129,9/9/2017,FBS,Missouri,South Carolina,KICK RETURNS,Dimetrios,Mason,NO,2
+3635130,9/9/2017,FBS,Missouri,South Carolina,KICK RETURNS,Dimetrios,Mason,YDS,47
+3635131,9/9/2017,FBS,Missouri,South Carolina,KICK RETURNS,Dimetrios,Mason,AVG,23.5
+3635132,9/9/2017,FBS,Missouri,South Carolina,KICK RETURNS,Dimetrios,Mason,LONG,25

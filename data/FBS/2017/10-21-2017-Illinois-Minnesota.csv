@@ -1,0 +1,133 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+4017001,10/21/2017,FBS,Illinois,Minnesota,RUSHING,Cam,Thomas,ATT,10
+4017002,10/21/2017,FBS,Illinois,Minnesota,RUSHING,Cam,Thomas,YDS,79
+4017003,10/21/2017,FBS,Illinois,Minnesota,RUSHING,Cam,Thomas,TD,0
+4017004,10/21/2017,FBS,Illinois,Minnesota,RUSHING,Cam,Thomas,LONG,21
+4017005,10/21/2017,FBS,Illinois,Minnesota,RUSHING,Ra'Von,Bonner,ATT,18
+4017006,10/21/2017,FBS,Illinois,Minnesota,RUSHING,Ra'Von,Bonner,YDS,57
+4017007,10/21/2017,FBS,Illinois,Minnesota,RUSHING,Ra'Von,Bonner,TD,1
+4017008,10/21/2017,FBS,Illinois,Minnesota,RUSHING,Ra'Von,Bonner,LONG,9
+4017009,10/21/2017,FBS,Illinois,Minnesota,RUSHING,Kendrick,Foster,ATT,1
+4017010,10/21/2017,FBS,Illinois,Minnesota,RUSHING,Kendrick,Foster,YDS,10
+4017011,10/21/2017,FBS,Illinois,Minnesota,RUSHING,Kendrick,Foster,TD,0
+4017012,10/21/2017,FBS,Illinois,Minnesota,RUSHING,Kendrick,Foster,LONG,10
+4017013,10/21/2017,FBS,Illinois,Minnesota,RUSHING,,Team,ATT,1
+4017014,10/21/2017,FBS,Illinois,Minnesota,RUSHING,,Team,YDS,-2
+4017015,10/21/2017,FBS,Illinois,Minnesota,RUSHING,,Team,TD,0
+4017016,10/21/2017,FBS,Illinois,Minnesota,RUSHING,,Team,LONG,-2
+4017017,10/21/2017,FBS,Illinois,Minnesota,RUSHING,Reggie,Corbin,ATT,2
+4017018,10/21/2017,FBS,Illinois,Minnesota,RUSHING,Reggie,Corbin,YDS,-10
+4017019,10/21/2017,FBS,Illinois,Minnesota,RUSHING,Reggie,Corbin,TD,0
+4017020,10/21/2017,FBS,Illinois,Minnesota,RUSHING,Reggie,Corbin,LONG,-4
+4017021,10/21/2017,FBS,Illinois,Minnesota,RUSHING,Jeff,GeorgeJr.,ATT,4
+4017022,10/21/2017,FBS,Illinois,Minnesota,RUSHING,Jeff,GeorgeJr.,YDS,-13
+4017023,10/21/2017,FBS,Illinois,Minnesota,RUSHING,Jeff,GeorgeJr.,TD,0
+4017024,10/21/2017,FBS,Illinois,Minnesota,RUSHING,Jeff,GeorgeJr.,LONG,1
+4017025,10/21/2017,FBS,Illinois,Minnesota,PASSING,Jeff,GeorgeJr.,CP-ATT-INT,18-23-0
+4017026,10/21/2017,FBS,Illinois,Minnesota,PASSING,Jeff,GeorgeJr.,YDS,128
+4017027,10/21/2017,FBS,Illinois,Minnesota,PASSING,Jeff,GeorgeJr.,TD,1
+4017028,10/21/2017,FBS,Illinois,Minnesota,PASSING,Jeff,GeorgeJr.,LONG,27
+4017029,10/21/2017,FBS,Illinois,Minnesota,PASSING,Cam,Thomas,CP-ATT-INT,2-4-1
+4017030,10/21/2017,FBS,Illinois,Minnesota,PASSING,Cam,Thomas,YDS,33
+4017031,10/21/2017,FBS,Illinois,Minnesota,PASSING,Cam,Thomas,TD,0
+4017032,10/21/2017,FBS,Illinois,Minnesota,PASSING,Cam,Thomas,LONG,25
+4017033,10/21/2017,FBS,Illinois,Minnesota,RECEIVING,Ricky,Smalling,REC,8
+4017034,10/21/2017,FBS,Illinois,Minnesota,RECEIVING,Ricky,Smalling,YDS,71
+4017035,10/21/2017,FBS,Illinois,Minnesota,RECEIVING,Ricky,Smalling,TD,1
+4017036,10/21/2017,FBS,Illinois,Minnesota,RECEIVING,Ricky,Smalling,LONG,22
+4017037,10/21/2017,FBS,Illinois,Minnesota,RECEIVING,Dominic,Thieman,REC,2
+4017038,10/21/2017,FBS,Illinois,Minnesota,RECEIVING,Dominic,Thieman,YDS,30
+4017039,10/21/2017,FBS,Illinois,Minnesota,RECEIVING,Dominic,Thieman,TD,0
+4017040,10/21/2017,FBS,Illinois,Minnesota,RECEIVING,Dominic,Thieman,LONG,25
+4017041,10/21/2017,FBS,Illinois,Minnesota,RECEIVING,Trenard,Davis,REC,1
+4017042,10/21/2017,FBS,Illinois,Minnesota,RECEIVING,Trenard,Davis,YDS,27
+4017043,10/21/2017,FBS,Illinois,Minnesota,RECEIVING,Trenard,Davis,TD,0
+4017044,10/21/2017,FBS,Illinois,Minnesota,RECEIVING,Trenard,Davis,LONG,27
+4017045,10/21/2017,FBS,Illinois,Minnesota,RECEIVING,Malik,Turner,REC,4
+4017046,10/21/2017,FBS,Illinois,Minnesota,RECEIVING,Malik,Turner,YDS,17
+4017047,10/21/2017,FBS,Illinois,Minnesota,RECEIVING,Malik,Turner,TD,0
+4017048,10/21/2017,FBS,Illinois,Minnesota,RECEIVING,Malik,Turner,LONG,13
+4017049,10/21/2017,FBS,Illinois,Minnesota,RECEIVING,Kendrick,Foster,REC,1
+4017050,10/21/2017,FBS,Illinois,Minnesota,RECEIVING,Kendrick,Foster,YDS,9
+4017051,10/21/2017,FBS,Illinois,Minnesota,RECEIVING,Kendrick,Foster,TD,0
+4017052,10/21/2017,FBS,Illinois,Minnesota,RECEIVING,Kendrick,Foster,LONG,9
+4017053,10/21/2017,FBS,Illinois,Minnesota,RECEIVING,Carmoni,Green,REC,1
+4017054,10/21/2017,FBS,Illinois,Minnesota,RECEIVING,Carmoni,Green,YDS,8
+4017055,10/21/2017,FBS,Illinois,Minnesota,RECEIVING,Carmoni,Green,TD,0
+4017056,10/21/2017,FBS,Illinois,Minnesota,RECEIVING,Carmoni,Green,LONG,8
+4017057,10/21/2017,FBS,Illinois,Minnesota,RECEIVING,Reggie,Corbin,REC,3
+4017058,10/21/2017,FBS,Illinois,Minnesota,RECEIVING,Reggie,Corbin,YDS,4
+4017059,10/21/2017,FBS,Illinois,Minnesota,RECEIVING,Reggie,Corbin,TD,0
+4017060,10/21/2017,FBS,Illinois,Minnesota,RECEIVING,Reggie,Corbin,LONG,8
+4017061,10/21/2017,FBS,Illinois,Minnesota,KICKING,Chase,McLaughlin,FG-FGA,1/2
+4017062,10/21/2017,FBS,Illinois,Minnesota,KICKING,Chase,McLaughlin,LONG,28
+4017063,10/21/2017,FBS,Illinois,Minnesota,KICKING,Chase,McLaughlin,XP,2
+4017064,10/21/2017,FBS,Illinois,Minnesota,KICKING,Chase,McLaughlin,PTS,5
+4017065,10/21/2017,FBS,Illinois,Minnesota,PUNTING,Blake,Hayes,NO,5
+4017066,10/21/2017,FBS,Illinois,Minnesota,PUNTING,Blake,Hayes,YDS,262
+4017067,10/21/2017,FBS,Illinois,Minnesota,PUNTING,Blake,Hayes,AVG,52.4
+4017068,10/21/2017,FBS,Illinois,Minnesota,PUNTING,Blake,Hayes,LONG,59
+4017069,10/21/2017,FBS,Illinois,Minnesota,PUNT RETURNS,Nate,Hobbs,NO,0
+4017070,10/21/2017,FBS,Illinois,Minnesota,PUNT RETURNS,Nate,Hobbs,YDS,0
+4017071,10/21/2017,FBS,Illinois,Minnesota,PUNT RETURNS,Nate,Hobbs,AVG,-
+4017072,10/21/2017,FBS,Illinois,Minnesota,PUNT RETURNS,Nate,Hobbs,LONG,0
+4017073,10/21/2017,FBS,Illinois,Minnesota,PUNT RETURNS,Malik,Turner,NO,0
+4017074,10/21/2017,FBS,Illinois,Minnesota,PUNT RETURNS,Malik,Turner,YDS,0
+4017075,10/21/2017,FBS,Illinois,Minnesota,PUNT RETURNS,Malik,Turner,AVG,-
+4017076,10/21/2017,FBS,Illinois,Minnesota,PUNT RETURNS,Malik,Turner,LONG,0
+4017077,10/21/2017,FBS,Illinois,Minnesota,KICK RETURNS,Dre,Brown,NO,1
+4017078,10/21/2017,FBS,Illinois,Minnesota,KICK RETURNS,Dre,Brown,YDS,25
+4017079,10/21/2017,FBS,Illinois,Minnesota,KICK RETURNS,Dre,Brown,AVG,25.0
+4017080,10/21/2017,FBS,Illinois,Minnesota,KICK RETURNS,Dre,Brown,LONG,25
+4017081,10/21/2017,FBS,Illinois,Minnesota,KICK RETURNS,Kendrick,Foster,NO,1
+4017082,10/21/2017,FBS,Illinois,Minnesota,KICK RETURNS,Kendrick,Foster,YDS,24
+4017083,10/21/2017,FBS,Illinois,Minnesota,KICK RETURNS,Kendrick,Foster,AVG,24.0
+4017084,10/21/2017,FBS,Illinois,Minnesota,KICK RETURNS,Kendrick,Foster,LONG,24
+4017085,10/21/2017,FBS,Minnesota,Illinois,RUSHING,Kobe,McCrary,ATT,24
+4017086,10/21/2017,FBS,Minnesota,Illinois,RUSHING,Kobe,McCrary,YDS,153
+4017087,10/21/2017,FBS,Minnesota,Illinois,RUSHING,Kobe,McCrary,TD,1
+4017088,10/21/2017,FBS,Minnesota,Illinois,RUSHING,Kobe,McCrary,LONG,26
+4017089,10/21/2017,FBS,Minnesota,Illinois,RUSHING,Rodney,Smith,ATT,19
+4017090,10/21/2017,FBS,Minnesota,Illinois,RUSHING,Rodney,Smith,YDS,103
+4017091,10/21/2017,FBS,Minnesota,Illinois,RUSHING,Rodney,Smith,TD,0
+4017092,10/21/2017,FBS,Minnesota,Illinois,RUSHING,Rodney,Smith,LONG,14
+4017093,10/21/2017,FBS,Minnesota,Illinois,RUSHING,Demry,Croft,ATT,11
+4017094,10/21/2017,FBS,Minnesota,Illinois,RUSHING,Demry,Croft,YDS,32
+4017095,10/21/2017,FBS,Minnesota,Illinois,RUSHING,Demry,Croft,TD,0
+4017096,10/21/2017,FBS,Minnesota,Illinois,RUSHING,Demry,Croft,LONG,8
+4017097,10/21/2017,FBS,Minnesota,Illinois,RUSHING,Phillip,Howard,ATT,1
+4017098,10/21/2017,FBS,Minnesota,Illinois,RUSHING,Phillip,Howard,YDS,4
+4017099,10/21/2017,FBS,Minnesota,Illinois,RUSHING,Phillip,Howard,TD,0
+4017100,10/21/2017,FBS,Minnesota,Illinois,RUSHING,Phillip,Howard,LONG,4
+4017101,10/21/2017,FBS,Minnesota,Illinois,PASSING,Demry,Croft,CP-ATT-INT,5-15-2
+4017102,10/21/2017,FBS,Minnesota,Illinois,PASSING,Demry,Croft,YDS,47
+4017103,10/21/2017,FBS,Minnesota,Illinois,PASSING,Demry,Croft,TD,1
+4017104,10/21/2017,FBS,Minnesota,Illinois,PASSING,Demry,Croft,LONG,19
+4017105,10/21/2017,FBS,Minnesota,Illinois,RECEIVING,Tyler,Johnson,REC,2
+4017106,10/21/2017,FBS,Minnesota,Illinois,RECEIVING,Tyler,Johnson,YDS,27
+4017107,10/21/2017,FBS,Minnesota,Illinois,RECEIVING,Tyler,Johnson,TD,1
+4017108,10/21/2017,FBS,Minnesota,Illinois,RECEIVING,Tyler,Johnson,LONG,19
+4017109,10/21/2017,FBS,Minnesota,Illinois,RECEIVING,Ko,Kieft,REC,1
+4017110,10/21/2017,FBS,Minnesota,Illinois,RECEIVING,Ko,Kieft,YDS,12
+4017111,10/21/2017,FBS,Minnesota,Illinois,RECEIVING,Ko,Kieft,TD,0
+4017112,10/21/2017,FBS,Minnesota,Illinois,RECEIVING,Ko,Kieft,LONG,12
+4017113,10/21/2017,FBS,Minnesota,Illinois,RECEIVING,Rodney,Smith,REC,2
+4017114,10/21/2017,FBS,Minnesota,Illinois,RECEIVING,Rodney,Smith,YDS,8
+4017115,10/21/2017,FBS,Minnesota,Illinois,RECEIVING,Rodney,Smith,TD,0
+4017116,10/21/2017,FBS,Minnesota,Illinois,RECEIVING,Rodney,Smith,LONG,5
+4017117,10/21/2017,FBS,Minnesota,Illinois,KICKING,Emmit,Carpenter,FG-FGA,1/2
+4017118,10/21/2017,FBS,Minnesota,Illinois,KICKING,Emmit,Carpenter,LONG,20
+4017119,10/21/2017,FBS,Minnesota,Illinois,KICKING,Emmit,Carpenter,XP,3
+4017120,10/21/2017,FBS,Minnesota,Illinois,KICKING,Emmit,Carpenter,PTS,6
+4017121,10/21/2017,FBS,Minnesota,Illinois,PUNTING,Ryan,Santoso,NO,5
+4017122,10/21/2017,FBS,Minnesota,Illinois,PUNTING,Ryan,Santoso,YDS,247
+4017123,10/21/2017,FBS,Minnesota,Illinois,PUNTING,Ryan,Santoso,AVG,49.4
+4017124,10/21/2017,FBS,Minnesota,Illinois,PUNTING,Ryan,Santoso,LONG,61
+4017125,10/21/2017,FBS,Minnesota,Illinois,PUNT RETURNS,Drew,Hmielewski,NO,2
+4017126,10/21/2017,FBS,Minnesota,Illinois,PUNT RETURNS,Drew,Hmielewski,YDS,21
+4017127,10/21/2017,FBS,Minnesota,Illinois,PUNT RETURNS,Drew,Hmielewski,AVG,10.5
+4017128,10/21/2017,FBS,Minnesota,Illinois,PUNT RETURNS,Drew,Hmielewski,LONG,13
+4017129,10/21/2017,FBS,Minnesota,Illinois,KICK RETURNS,Rodney,Smith,NO,1
+4017130,10/21/2017,FBS,Minnesota,Illinois,KICK RETURNS,Rodney,Smith,YDS,26
+4017131,10/21/2017,FBS,Minnesota,Illinois,KICK RETURNS,Rodney,Smith,AVG,26.0
+4017132,10/21/2017,FBS,Minnesota,Illinois,KICK RETURNS,Rodney,Smith,LONG,26

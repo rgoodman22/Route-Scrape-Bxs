@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2201001,10/17/2015,FBS,Penn State,Ohio State,RUSHING,Saquon,Barkley,ATT,26
+2201002,10/17/2015,FBS,Penn State,Ohio State,RUSHING,Saquon,Barkley,YDS,194
+2201003,10/17/2015,FBS,Penn State,Ohio State,RUSHING,Saquon,Barkley,TD,0
+2201004,10/17/2015,FBS,Penn State,Ohio State,RUSHING,Saquon,Barkley,LONG,56
+2201005,10/17/2015,FBS,Penn State,Ohio State,RUSHING,Akeel,Lynch,ATT,4
+2201006,10/17/2015,FBS,Penn State,Ohio State,RUSHING,Akeel,Lynch,YDS,12
+2201007,10/17/2015,FBS,Penn State,Ohio State,RUSHING,Akeel,Lynch,TD,0
+2201008,10/17/2015,FBS,Penn State,Ohio State,RUSHING,Akeel,Lynch,LONG,11
+2201009,10/17/2015,FBS,Penn State,Ohio State,RUSHING,Brandon,Polk,ATT,1
+2201010,10/17/2015,FBS,Penn State,Ohio State,RUSHING,Brandon,Polk,YDS,6
+2201011,10/17/2015,FBS,Penn State,Ohio State,RUSHING,Brandon,Polk,TD,0
+2201012,10/17/2015,FBS,Penn State,Ohio State,RUSHING,Brandon,Polk,LONG,6
+2201013,10/17/2015,FBS,Penn State,Ohio State,RUSHING,Nick,Scott,ATT,1
+2201014,10/17/2015,FBS,Penn State,Ohio State,RUSHING,Nick,Scott,YDS,3
+2201015,10/17/2015,FBS,Penn State,Ohio State,RUSHING,Nick,Scott,TD,0
+2201016,10/17/2015,FBS,Penn State,Ohio State,RUSHING,Nick,Scott,LONG,3
+2201017,10/17/2015,FBS,Penn State,Ohio State,RUSHING,,Team,ATT,1
+2201018,10/17/2015,FBS,Penn State,Ohio State,RUSHING,,Team,YDS,-4
+2201019,10/17/2015,FBS,Penn State,Ohio State,RUSHING,,Team,TD,0
+2201020,10/17/2015,FBS,Penn State,Ohio State,RUSHING,,Team,LONG,-4
+2201021,10/17/2015,FBS,Penn State,Ohio State,RUSHING,Christian,Hackenberg,ATT,7
+2201022,10/17/2015,FBS,Penn State,Ohio State,RUSHING,Christian,Hackenberg,YDS,-16
+2201023,10/17/2015,FBS,Penn State,Ohio State,RUSHING,Christian,Hackenberg,TD,0
+2201024,10/17/2015,FBS,Penn State,Ohio State,RUSHING,Christian,Hackenberg,LONG,4
+2201025,10/17/2015,FBS,Penn State,Ohio State,PASSING,Christian,Hackenberg,CP-ATT-INT,7-13-0
+2201026,10/17/2015,FBS,Penn State,Ohio State,PASSING,Christian,Hackenberg,YDS,120
+2201027,10/17/2015,FBS,Penn State,Ohio State,PASSING,Christian,Hackenberg,TD,1
+2201028,10/17/2015,FBS,Penn State,Ohio State,PASSING,Christian,Hackenberg,LONG,56
+2201029,10/17/2015,FBS,Penn State,Ohio State,RECEIVING,Chris,Godwin,REC,3
+2201030,10/17/2015,FBS,Penn State,Ohio State,RECEIVING,Chris,Godwin,YDS,103
+2201031,10/17/2015,FBS,Penn State,Ohio State,RECEIVING,Chris,Godwin,TD,0
+2201032,10/17/2015,FBS,Penn State,Ohio State,RECEIVING,Chris,Godwin,LONG,56
+2201033,10/17/2015,FBS,Penn State,Ohio State,RECEIVING,DaeSean,Hamilton,REC,2
+2201034,10/17/2015,FBS,Penn State,Ohio State,RECEIVING,DaeSean,Hamilton,YDS,13
+2201035,10/17/2015,FBS,Penn State,Ohio State,RECEIVING,DaeSean,Hamilton,TD,1
+2201036,10/17/2015,FBS,Penn State,Ohio State,RECEIVING,DaeSean,Hamilton,LONG,8
+2201037,10/17/2015,FBS,Penn State,Ohio State,RECEIVING,Brandon,Polk,REC,1
+2201038,10/17/2015,FBS,Penn State,Ohio State,RECEIVING,Brandon,Polk,YDS,4
+2201039,10/17/2015,FBS,Penn State,Ohio State,RECEIVING,Brandon,Polk,TD,0
+2201040,10/17/2015,FBS,Penn State,Ohio State,RECEIVING,Brandon,Polk,LONG,4
+2201041,10/17/2015,FBS,Penn State,Ohio State,RECEIVING,Akeel,Lynch,REC,1
+2201042,10/17/2015,FBS,Penn State,Ohio State,RECEIVING,Akeel,Lynch,YDS,0
+2201043,10/17/2015,FBS,Penn State,Ohio State,RECEIVING,Akeel,Lynch,TD,0
+2201044,10/17/2015,FBS,Penn State,Ohio State,RECEIVING,Akeel,Lynch,LONG,0
+2201045,10/17/2015,FBS,Penn State,Ohio State,KICKING,Joey,Julius,FG-FGA,1/1
+2201046,10/17/2015,FBS,Penn State,Ohio State,KICKING,Joey,Julius,LONG,33
+2201047,10/17/2015,FBS,Penn State,Ohio State,KICKING,Joey,Julius,XP,1
+2201048,10/17/2015,FBS,Penn State,Ohio State,KICKING,Joey,Julius,PTS,4
+2201049,10/17/2015,FBS,Penn State,Ohio State,PUNTING,Chris,Gulla,NO,4
+2201050,10/17/2015,FBS,Penn State,Ohio State,PUNTING,Chris,Gulla,YDS,145
+2201051,10/17/2015,FBS,Penn State,Ohio State,PUNTING,Chris,Gulla,AVG,36.2
+2201052,10/17/2015,FBS,Penn State,Ohio State,PUNTING,Chris,Gulla,LONG,46
+2201053,10/17/2015,FBS,Penn State,Ohio State,PUNTING,Daniel,Pasquariello,NO,3
+2201054,10/17/2015,FBS,Penn State,Ohio State,PUNTING,Daniel,Pasquariello,YDS,106
+2201055,10/17/2015,FBS,Penn State,Ohio State,PUNTING,Daniel,Pasquariello,AVG,35.3
+2201056,10/17/2015,FBS,Penn State,Ohio State,PUNTING,Daniel,Pasquariello,LONG,47
+2201057,10/17/2015,FBS,Penn State,Ohio State,PUNT RETURNS,DeAndre,Thompkins,NO,0
+2201058,10/17/2015,FBS,Penn State,Ohio State,PUNT RETURNS,DeAndre,Thompkins,YDS,0
+2201059,10/17/2015,FBS,Penn State,Ohio State,PUNT RETURNS,DeAndre,Thompkins,AVG,-
+2201060,10/17/2015,FBS,Penn State,Ohio State,PUNT RETURNS,DeAndre,Thompkins,LONG,0
+2201061,10/17/2015,FBS,Penn State,Ohio State,KICK RETURNS,Brandon,Polk,NO,4
+2201062,10/17/2015,FBS,Penn State,Ohio State,KICK RETURNS,Brandon,Polk,YDS,79
+2201063,10/17/2015,FBS,Penn State,Ohio State,KICK RETURNS,Brandon,Polk,AVG,19.8
+2201064,10/17/2015,FBS,Penn State,Ohio State,KICK RETURNS,Brandon,Polk,LONG,30
+2201065,10/17/2015,FBS,Penn State,Ohio State,KICK RETURNS,Nick,Scott,NO,3
+2201066,10/17/2015,FBS,Penn State,Ohio State,KICK RETURNS,Nick,Scott,YDS,38
+2201067,10/17/2015,FBS,Penn State,Ohio State,KICK RETURNS,Nick,Scott,AVG,12.7
+2201068,10/17/2015,FBS,Penn State,Ohio State,KICK RETURNS,Nick,Scott,LONG,19
+2201069,10/17/2015,FBS,Ohio State,Penn State,RUSHING,Ezekiel,Elliott,ATT,27
+2201070,10/17/2015,FBS,Ohio State,Penn State,RUSHING,Ezekiel,Elliott,YDS,153
+2201071,10/17/2015,FBS,Ohio State,Penn State,RUSHING,Ezekiel,Elliott,TD,1
+2201072,10/17/2015,FBS,Ohio State,Penn State,RUSHING,Ezekiel,Elliott,LONG,19
+2201073,10/17/2015,FBS,Ohio State,Penn State,RUSHING,JT,Barrett,ATT,11
+2201074,10/17/2015,FBS,Ohio State,Penn State,RUSHING,JT,Barrett,YDS,102
+2201075,10/17/2015,FBS,Ohio State,Penn State,RUSHING,JT,Barrett,TD,2
+2201076,10/17/2015,FBS,Ohio State,Penn State,RUSHING,JT,Barrett,LONG,27
+2201077,10/17/2015,FBS,Ohio State,Penn State,RUSHING,Bri'onte,Dunn,ATT,3
+2201078,10/17/2015,FBS,Ohio State,Penn State,RUSHING,Bri'onte,Dunn,YDS,31
+2201079,10/17/2015,FBS,Ohio State,Penn State,RUSHING,Bri'onte,Dunn,TD,0
+2201080,10/17/2015,FBS,Ohio State,Penn State,RUSHING,Bri'onte,Dunn,LONG,19
+2201081,10/17/2015,FBS,Ohio State,Penn State,RUSHING,Braxton,Miller,ATT,4
+2201082,10/17/2015,FBS,Ohio State,Penn State,RUSHING,Braxton,Miller,YDS,30
+2201083,10/17/2015,FBS,Ohio State,Penn State,RUSHING,Braxton,Miller,TD,0
+2201084,10/17/2015,FBS,Ohio State,Penn State,RUSHING,Braxton,Miller,LONG,15
+2201085,10/17/2015,FBS,Ohio State,Penn State,RUSHING,Jalin,Marshall,ATT,1
+2201086,10/17/2015,FBS,Ohio State,Penn State,RUSHING,Jalin,Marshall,YDS,15
+2201087,10/17/2015,FBS,Ohio State,Penn State,RUSHING,Jalin,Marshall,TD,0
+2201088,10/17/2015,FBS,Ohio State,Penn State,RUSHING,Jalin,Marshall,LONG,15
+2201089,10/17/2015,FBS,Ohio State,Penn State,RUSHING,Cardale,Jones,ATT,4
+2201090,10/17/2015,FBS,Ohio State,Penn State,RUSHING,Cardale,Jones,YDS,-16
+2201091,10/17/2015,FBS,Ohio State,Penn State,RUSHING,Cardale,Jones,TD,0
+2201092,10/17/2015,FBS,Ohio State,Penn State,RUSHING,Cardale,Jones,LONG,-2
+2201093,10/17/2015,FBS,Ohio State,Penn State,PASSING,Cardale,Jones,CP-ATT-INT,9-15-0
+2201094,10/17/2015,FBS,Ohio State,Penn State,PASSING,Cardale,Jones,YDS,84
+2201095,10/17/2015,FBS,Ohio State,Penn State,PASSING,Cardale,Jones,TD,0
+2201096,10/17/2015,FBS,Ohio State,Penn State,PASSING,Cardale,Jones,LONG,20
+2201097,10/17/2015,FBS,Ohio State,Penn State,PASSING,JT,Barrett,CP-ATT-INT,4-4-0
+2201098,10/17/2015,FBS,Ohio State,Penn State,PASSING,JT,Barrett,YDS,30
+2201099,10/17/2015,FBS,Ohio State,Penn State,PASSING,JT,Barrett,TD,2
+2201100,10/17/2015,FBS,Ohio State,Penn State,PASSING,JT,Barrett,LONG,21
+2201101,10/17/2015,FBS,Ohio State,Penn State,RECEIVING,Michael,Thomas,REC,3
+2201102,10/17/2015,FBS,Ohio State,Penn State,RECEIVING,Michael,Thomas,YDS,34
+2201103,10/17/2015,FBS,Ohio State,Penn State,RECEIVING,Michael,Thomas,TD,1
+2201104,10/17/2015,FBS,Ohio State,Penn State,RECEIVING,Michael,Thomas,LONG,20
+2201105,10/17/2015,FBS,Ohio State,Penn State,RECEIVING,Braxton,Miller,REC,4
+2201106,10/17/2015,FBS,Ohio State,Penn State,RECEIVING,Braxton,Miller,YDS,33
+2201107,10/17/2015,FBS,Ohio State,Penn State,RECEIVING,Braxton,Miller,TD,1
+2201108,10/17/2015,FBS,Ohio State,Penn State,RECEIVING,Braxton,Miller,LONG,17
+2201109,10/17/2015,FBS,Ohio State,Penn State,RECEIVING,Ezekiel,Elliott,REC,4
+2201110,10/17/2015,FBS,Ohio State,Penn State,RECEIVING,Ezekiel,Elliott,YDS,21
+2201111,10/17/2015,FBS,Ohio State,Penn State,RECEIVING,Ezekiel,Elliott,TD,0
+2201112,10/17/2015,FBS,Ohio State,Penn State,RECEIVING,Ezekiel,Elliott,LONG,11
+2201113,10/17/2015,FBS,Ohio State,Penn State,RECEIVING,Curtis,Samuel,REC,1
+2201114,10/17/2015,FBS,Ohio State,Penn State,RECEIVING,Curtis,Samuel,YDS,21
+2201115,10/17/2015,FBS,Ohio State,Penn State,RECEIVING,Curtis,Samuel,TD,0
+2201116,10/17/2015,FBS,Ohio State,Penn State,RECEIVING,Curtis,Samuel,LONG,21
+2201117,10/17/2015,FBS,Ohio State,Penn State,RECEIVING,Jalin,Marshall,REC,1
+2201118,10/17/2015,FBS,Ohio State,Penn State,RECEIVING,Jalin,Marshall,YDS,5
+2201119,10/17/2015,FBS,Ohio State,Penn State,RECEIVING,Jalin,Marshall,TD,0
+2201120,10/17/2015,FBS,Ohio State,Penn State,RECEIVING,Jalin,Marshall,LONG,5
+2201121,10/17/2015,FBS,Ohio State,Penn State,KICKING,Jack,Willoughby,FG-FGA,1/1
+2201122,10/17/2015,FBS,Ohio State,Penn State,KICKING,Jack,Willoughby,LONG,39
+2201123,10/17/2015,FBS,Ohio State,Penn State,KICKING,Jack,Willoughby,XP,5
+2201124,10/17/2015,FBS,Ohio State,Penn State,KICKING,Jack,Willoughby,PTS,8
+2201125,10/17/2015,FBS,Ohio State,Penn State,PUNTING,Cameron,Johnston,NO,5
+2201126,10/17/2015,FBS,Ohio State,Penn State,PUNTING,Cameron,Johnston,YDS,208
+2201127,10/17/2015,FBS,Ohio State,Penn State,PUNTING,Cameron,Johnston,AVG,41.6
+2201128,10/17/2015,FBS,Ohio State,Penn State,PUNTING,Cameron,Johnston,LONG,56
+2201129,10/17/2015,FBS,Ohio State,Penn State,PUNT RETURNS,Jalin,Marshall,NO,2
+2201130,10/17/2015,FBS,Ohio State,Penn State,PUNT RETURNS,Jalin,Marshall,YDS,17
+2201131,10/17/2015,FBS,Ohio State,Penn State,PUNT RETURNS,Jalin,Marshall,AVG,8.5
+2201132,10/17/2015,FBS,Ohio State,Penn State,PUNT RETURNS,Jalin,Marshall,LONG,16
+2201133,10/17/2015,FBS,Ohio State,Penn State,KICK RETURNS,Curtis,Samuel,NO,2
+2201134,10/17/2015,FBS,Ohio State,Penn State,KICK RETURNS,Curtis,Samuel,YDS,46
+2201135,10/17/2015,FBS,Ohio State,Penn State,KICK RETURNS,Curtis,Samuel,AVG,23.0
+2201136,10/17/2015,FBS,Ohio State,Penn State,KICK RETURNS,Curtis,Samuel,LONG,27

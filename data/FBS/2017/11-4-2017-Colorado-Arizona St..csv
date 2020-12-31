@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+4098001,11/4/2017,FBS,Colorado,Arizona St.,RUSHING,Phillip,Lindsay,ATT,23
+4098002,11/4/2017,FBS,Colorado,Arizona St.,RUSHING,Phillip,Lindsay,YDS,80
+4098003,11/4/2017,FBS,Colorado,Arizona St.,RUSHING,Phillip,Lindsay,TD,2
+4098004,11/4/2017,FBS,Colorado,Arizona St.,RUSHING,Phillip,Lindsay,LONG,7
+4098005,11/4/2017,FBS,Colorado,Arizona St.,RUSHING,Steven,Montez,ATT,14
+4098006,11/4/2017,FBS,Colorado,Arizona St.,RUSHING,Steven,Montez,YDS,26
+4098007,11/4/2017,FBS,Colorado,Arizona St.,RUSHING,Steven,Montez,TD,0
+4098008,11/4/2017,FBS,Colorado,Arizona St.,RUSHING,Steven,Montez,LONG,13
+4098009,11/4/2017,FBS,Colorado,Arizona St.,RUSHING,Beau,Bisharat,ATT,1
+4098010,11/4/2017,FBS,Colorado,Arizona St.,RUSHING,Beau,Bisharat,YDS,2
+4098011,11/4/2017,FBS,Colorado,Arizona St.,RUSHING,Beau,Bisharat,TD,0
+4098012,11/4/2017,FBS,Colorado,Arizona St.,RUSHING,Beau,Bisharat,LONG,2
+4098013,11/4/2017,FBS,Colorado,Arizona St.,RUSHING,Jay,MacIntyre,ATT,1
+4098014,11/4/2017,FBS,Colorado,Arizona St.,RUSHING,Jay,MacIntyre,YDS,1
+4098015,11/4/2017,FBS,Colorado,Arizona St.,RUSHING,Jay,MacIntyre,TD,0
+4098016,11/4/2017,FBS,Colorado,Arizona St.,RUSHING,Jay,MacIntyre,LONG,1
+4098017,11/4/2017,FBS,Colorado,Arizona St.,PASSING,Steven,Montez,CP-ATT-INT,23-41-1
+4098018,11/4/2017,FBS,Colorado,Arizona St.,PASSING,Steven,Montez,YDS,345
+4098019,11/4/2017,FBS,Colorado,Arizona St.,PASSING,Steven,Montez,TD,1
+4098020,11/4/2017,FBS,Colorado,Arizona St.,PASSING,Steven,Montez,LONG,60
+4098021,11/4/2017,FBS,Colorado,Arizona St.,RECEIVING,Shay,Fields,REC,6
+4098022,11/4/2017,FBS,Colorado,Arizona St.,RECEIVING,Shay,Fields,YDS,128
+4098023,11/4/2017,FBS,Colorado,Arizona St.,RECEIVING,Shay,Fields,TD,1
+4098024,11/4/2017,FBS,Colorado,Arizona St.,RECEIVING,Shay,Fields,LONG,54
+4098025,11/4/2017,FBS,Colorado,Arizona St.,RECEIVING,Phillip,Lindsay,REC,1
+4098026,11/4/2017,FBS,Colorado,Arizona St.,RECEIVING,Phillip,Lindsay,YDS,60
+4098027,11/4/2017,FBS,Colorado,Arizona St.,RECEIVING,Phillip,Lindsay,TD,0
+4098028,11/4/2017,FBS,Colorado,Arizona St.,RECEIVING,Phillip,Lindsay,LONG,60
+4098029,11/4/2017,FBS,Colorado,Arizona St.,RECEIVING,Devin,Ross,REC,7
+4098030,11/4/2017,FBS,Colorado,Arizona St.,RECEIVING,Devin,Ross,YDS,49
+4098031,11/4/2017,FBS,Colorado,Arizona St.,RECEIVING,Devin,Ross,TD,0
+4098032,11/4/2017,FBS,Colorado,Arizona St.,RECEIVING,Devin,Ross,LONG,19
+4098033,11/4/2017,FBS,Colorado,Arizona St.,RECEIVING,Bryce,Bobo,REC,3
+4098034,11/4/2017,FBS,Colorado,Arizona St.,RECEIVING,Bryce,Bobo,YDS,42
+4098035,11/4/2017,FBS,Colorado,Arizona St.,RECEIVING,Bryce,Bobo,TD,0
+4098036,11/4/2017,FBS,Colorado,Arizona St.,RECEIVING,Bryce,Bobo,LONG,19
+4098037,11/4/2017,FBS,Colorado,Arizona St.,RECEIVING,Jay,MacIntyre,REC,3
+4098038,11/4/2017,FBS,Colorado,Arizona St.,RECEIVING,Jay,MacIntyre,YDS,31
+4098039,11/4/2017,FBS,Colorado,Arizona St.,RECEIVING,Jay,MacIntyre,TD,0
+4098040,11/4/2017,FBS,Colorado,Arizona St.,RECEIVING,Jay,MacIntyre,LONG,20
+4098041,11/4/2017,FBS,Colorado,Arizona St.,RECEIVING,Chris,Bounds,REC,2
+4098042,11/4/2017,FBS,Colorado,Arizona St.,RECEIVING,Chris,Bounds,YDS,23
+4098043,11/4/2017,FBS,Colorado,Arizona St.,RECEIVING,Chris,Bounds,TD,0
+4098044,11/4/2017,FBS,Colorado,Arizona St.,RECEIVING,Chris,Bounds,LONG,12
+4098045,11/4/2017,FBS,Colorado,Arizona St.,RECEIVING,K.D.,Nixon,REC,1
+4098046,11/4/2017,FBS,Colorado,Arizona St.,RECEIVING,K.D.,Nixon,YDS,12
+4098047,11/4/2017,FBS,Colorado,Arizona St.,RECEIVING,K.D.,Nixon,TD,0
+4098048,11/4/2017,FBS,Colorado,Arizona St.,RECEIVING,K.D.,Nixon,LONG,12
+4098049,11/4/2017,FBS,Colorado,Arizona St.,KICKING,James,Stefanou,FG-FGA,3/3
+4098050,11/4/2017,FBS,Colorado,Arizona St.,KICKING,James,Stefanou,LONG,53
+4098051,11/4/2017,FBS,Colorado,Arizona St.,KICKING,James,Stefanou,XP,3
+4098052,11/4/2017,FBS,Colorado,Arizona St.,KICKING,James,Stefanou,PTS,12
+4098053,11/4/2017,FBS,Colorado,Arizona St.,PUNTING,Alex,Kinney,NO,5
+4098054,11/4/2017,FBS,Colorado,Arizona St.,PUNTING,Alex,Kinney,YDS,256
+4098055,11/4/2017,FBS,Colorado,Arizona St.,PUNTING,Alex,Kinney,AVG,42.7
+4098056,11/4/2017,FBS,Colorado,Arizona St.,PUNTING,Alex,Kinney,LONG,67
+4098057,11/4/2017,FBS,Colorado,Arizona St.,PUNT RETURNS,Ronnie,Blackmon,NO,4
+4098058,11/4/2017,FBS,Colorado,Arizona St.,PUNT RETURNS,Ronnie,Blackmon,YDS,15
+4098059,11/4/2017,FBS,Colorado,Arizona St.,PUNT RETURNS,Ronnie,Blackmon,AVG,3.8
+4098060,11/4/2017,FBS,Colorado,Arizona St.,PUNT RETURNS,Ronnie,Blackmon,LONG,7
+4098061,11/4/2017,FBS,Colorado,Arizona St.,KICK RETURNS,K.D.,Nixon,NO,1
+4098062,11/4/2017,FBS,Colorado,Arizona St.,KICK RETURNS,K.D.,Nixon,YDS,29
+4098063,11/4/2017,FBS,Colorado,Arizona St.,KICK RETURNS,K.D.,Nixon,AVG,29.0
+4098064,11/4/2017,FBS,Colorado,Arizona St.,KICK RETURNS,K.D.,Nixon,LONG,29
+4098065,11/4/2017,FBS,Arizona St.,Colorado,RUSHING,Demario,Richard,ATT,25
+4098066,11/4/2017,FBS,Arizona St.,Colorado,RUSHING,Demario,Richard,YDS,189
+4098067,11/4/2017,FBS,Arizona St.,Colorado,RUSHING,Demario,Richard,TD,1
+4098068,11/4/2017,FBS,Arizona St.,Colorado,RUSHING,Demario,Richard,LONG,63
+4098069,11/4/2017,FBS,Arizona St.,Colorado,RUSHING,Manny,Wilkins,ATT,14
+4098070,11/4/2017,FBS,Arizona St.,Colorado,RUSHING,Manny,Wilkins,YDS,95
+4098071,11/4/2017,FBS,Arizona St.,Colorado,RUSHING,Manny,Wilkins,TD,1
+4098072,11/4/2017,FBS,Arizona St.,Colorado,RUSHING,Manny,Wilkins,LONG,21
+4098073,11/4/2017,FBS,Arizona St.,Colorado,RUSHING,Eno,Benjamin,ATT,5
+4098074,11/4/2017,FBS,Arizona St.,Colorado,RUSHING,Eno,Benjamin,YDS,52
+4098075,11/4/2017,FBS,Arizona St.,Colorado,RUSHING,Eno,Benjamin,TD,1
+4098076,11/4/2017,FBS,Arizona St.,Colorado,RUSHING,Eno,Benjamin,LONG,19
+4098077,11/4/2017,FBS,Arizona St.,Colorado,RUSHING,Kalen,Ballage,ATT,9
+4098078,11/4/2017,FBS,Arizona St.,Colorado,RUSHING,Kalen,Ballage,YDS,43
+4098079,11/4/2017,FBS,Arizona St.,Colorado,RUSHING,Kalen,Ballage,TD,0
+4098080,11/4/2017,FBS,Arizona St.,Colorado,RUSHING,Kalen,Ballage,LONG,19
+4098081,11/4/2017,FBS,Arizona St.,Colorado,RUSHING,N'Keal,Harry,ATT,1
+4098082,11/4/2017,FBS,Arizona St.,Colorado,RUSHING,N'Keal,Harry,YDS,2
+4098083,11/4/2017,FBS,Arizona St.,Colorado,RUSHING,N'Keal,Harry,TD,0
+4098084,11/4/2017,FBS,Arizona St.,Colorado,RUSHING,N'Keal,Harry,LONG,2
+4098085,11/4/2017,FBS,Arizona St.,Colorado,PASSING,Manny,Wilkins,CP-ATT-INT,18-34-0
+4098086,11/4/2017,FBS,Arizona St.,Colorado,PASSING,Manny,Wilkins,YDS,202
+4098087,11/4/2017,FBS,Arizona St.,Colorado,PASSING,Manny,Wilkins,TD,2
+4098088,11/4/2017,FBS,Arizona St.,Colorado,PASSING,Manny,Wilkins,LONG,31
+4098089,11/4/2017,FBS,Arizona St.,Colorado,RECEIVING,N'Keal,Harry,REC,6
+4098090,11/4/2017,FBS,Arizona St.,Colorado,RECEIVING,N'Keal,Harry,YDS,81
+4098091,11/4/2017,FBS,Arizona St.,Colorado,RECEIVING,N'Keal,Harry,TD,1
+4098092,11/4/2017,FBS,Arizona St.,Colorado,RECEIVING,N'Keal,Harry,LONG,22
+4098093,11/4/2017,FBS,Arizona St.,Colorado,RECEIVING,Kyle,Williams,REC,6
+4098094,11/4/2017,FBS,Arizona St.,Colorado,RECEIVING,Kyle,Williams,YDS,53
+4098095,11/4/2017,FBS,Arizona St.,Colorado,RECEIVING,Kyle,Williams,TD,1
+4098096,11/4/2017,FBS,Arizona St.,Colorado,RECEIVING,Kyle,Williams,LONG,25
+4098097,11/4/2017,FBS,Arizona St.,Colorado,RECEIVING,Curtis,Hodges,REC,1
+4098098,11/4/2017,FBS,Arizona St.,Colorado,RECEIVING,Curtis,Hodges,YDS,31
+4098099,11/4/2017,FBS,Arizona St.,Colorado,RECEIVING,Curtis,Hodges,TD,0
+4098100,11/4/2017,FBS,Arizona St.,Colorado,RECEIVING,Curtis,Hodges,LONG,31
+4098101,11/4/2017,FBS,Arizona St.,Colorado,RECEIVING,Jalen,Harvey,REC,2
+4098102,11/4/2017,FBS,Arizona St.,Colorado,RECEIVING,Jalen,Harvey,YDS,22
+4098103,11/4/2017,FBS,Arizona St.,Colorado,RECEIVING,Jalen,Harvey,TD,0
+4098104,11/4/2017,FBS,Arizona St.,Colorado,RECEIVING,Jalen,Harvey,LONG,16
+4098105,11/4/2017,FBS,Arizona St.,Colorado,RECEIVING,John,Humphrey,REC,1
+4098106,11/4/2017,FBS,Arizona St.,Colorado,RECEIVING,John,Humphrey,YDS,16
+4098107,11/4/2017,FBS,Arizona St.,Colorado,RECEIVING,John,Humphrey,TD,0
+4098108,11/4/2017,FBS,Arizona St.,Colorado,RECEIVING,John,Humphrey,LONG,16
+4098109,11/4/2017,FBS,Arizona St.,Colorado,RECEIVING,Kalen,Ballage,REC,1
+4098110,11/4/2017,FBS,Arizona St.,Colorado,RECEIVING,Kalen,Ballage,YDS,2
+4098111,11/4/2017,FBS,Arizona St.,Colorado,RECEIVING,Kalen,Ballage,TD,0
+4098112,11/4/2017,FBS,Arizona St.,Colorado,RECEIVING,Kalen,Ballage,LONG,2
+4098113,11/4/2017,FBS,Arizona St.,Colorado,RECEIVING,Manny,Wilkins,REC,1
+4098114,11/4/2017,FBS,Arizona St.,Colorado,RECEIVING,Manny,Wilkins,YDS,-3
+4098115,11/4/2017,FBS,Arizona St.,Colorado,RECEIVING,Manny,Wilkins,TD,0
+4098116,11/4/2017,FBS,Arizona St.,Colorado,RECEIVING,Manny,Wilkins,LONG,-3
+4098117,11/4/2017,FBS,Arizona St.,Colorado,KICKING,Brandon,Ruiz,FG-FGA,2/4
+4098118,11/4/2017,FBS,Arizona St.,Colorado,KICKING,Brandon,Ruiz,LONG,37
+4098119,11/4/2017,FBS,Arizona St.,Colorado,KICKING,Brandon,Ruiz,XP,5
+4098120,11/4/2017,FBS,Arizona St.,Colorado,KICKING,Brandon,Ruiz,PTS,11
+4098121,11/4/2017,FBS,Arizona St.,Colorado,PUNTING,Michael,Sleep-Dalton,NO,5
+4098122,11/4/2017,FBS,Arizona St.,Colorado,PUNTING,Michael,Sleep-Dalton,YDS,214
+4098123,11/4/2017,FBS,Arizona St.,Colorado,PUNTING,Michael,Sleep-Dalton,AVG,42.8
+4098124,11/4/2017,FBS,Arizona St.,Colorado,PUNTING,Michael,Sleep-Dalton,LONG,50
+4098125,11/4/2017,FBS,Arizona St.,Colorado,PUNT RETURNS,N'Keal,Harry,NO,2
+4098126,11/4/2017,FBS,Arizona St.,Colorado,PUNT RETURNS,N'Keal,Harry,YDS,6
+4098127,11/4/2017,FBS,Arizona St.,Colorado,PUNT RETURNS,N'Keal,Harry,AVG,3.0
+4098128,11/4/2017,FBS,Arizona St.,Colorado,PUNT RETURNS,N'Keal,Harry,LONG,3
+4098129,11/4/2017,FBS,Arizona St.,Colorado,KICK RETURNS,Eno,Benjamin,NO,2
+4098130,11/4/2017,FBS,Arizona St.,Colorado,KICK RETURNS,Eno,Benjamin,YDS,38
+4098131,11/4/2017,FBS,Arizona St.,Colorado,KICK RETURNS,Eno,Benjamin,AVG,19.0
+4098132,11/4/2017,FBS,Arizona St.,Colorado,KICK RETURNS,Eno,Benjamin,LONG,23
+4098133,11/4/2017,FBS,Arizona St.,Colorado,KICK RETURNS,Trelon,Smith,NO,2
+4098134,11/4/2017,FBS,Arizona St.,Colorado,KICK RETURNS,Trelon,Smith,YDS,34
+4098135,11/4/2017,FBS,Arizona St.,Colorado,KICK RETURNS,Trelon,Smith,AVG,17.0
+4098136,11/4/2017,FBS,Arizona St.,Colorado,KICK RETURNS,Trelon,Smith,LONG,22

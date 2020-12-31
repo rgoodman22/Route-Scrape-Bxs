@@ -1,0 +1,181 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+4096001,11/4/2017,FBS,Wake Forest,Notre Dame,RUSHING,Matt,ColburnII,ATT,20
+4096002,11/4/2017,FBS,Wake Forest,Notre Dame,RUSHING,Matt,ColburnII,YDS,120
+4096003,11/4/2017,FBS,Wake Forest,Notre Dame,RUSHING,Matt,ColburnII,TD,1
+4096004,11/4/2017,FBS,Wake Forest,Notre Dame,RUSHING,Matt,ColburnII,LONG,32
+4096005,11/4/2017,FBS,Wake Forest,Notre Dame,RUSHING,John,Wolford,ATT,12
+4096006,11/4/2017,FBS,Wake Forest,Notre Dame,RUSHING,John,Wolford,YDS,59
+4096007,11/4/2017,FBS,Wake Forest,Notre Dame,RUSHING,John,Wolford,TD,1
+4096008,11/4/2017,FBS,Wake Forest,Notre Dame,RUSHING,John,Wolford,LONG,20
+4096009,11/4/2017,FBS,Wake Forest,Notre Dame,RUSHING,Kendall,Hinton,ATT,5
+4096010,11/4/2017,FBS,Wake Forest,Notre Dame,RUSHING,Kendall,Hinton,YDS,39
+4096011,11/4/2017,FBS,Wake Forest,Notre Dame,RUSHING,Kendall,Hinton,TD,0
+4096012,11/4/2017,FBS,Wake Forest,Notre Dame,RUSHING,Kendall,Hinton,LONG,20
+4096013,11/4/2017,FBS,Wake Forest,Notre Dame,RUSHING,Isaiah,Robinson,ATT,3
+4096014,11/4/2017,FBS,Wake Forest,Notre Dame,RUSHING,Isaiah,Robinson,YDS,21
+4096015,11/4/2017,FBS,Wake Forest,Notre Dame,RUSHING,Isaiah,Robinson,TD,1
+4096016,11/4/2017,FBS,Wake Forest,Notre Dame,RUSHING,Isaiah,Robinson,LONG,21
+4096017,11/4/2017,FBS,Wake Forest,Notre Dame,PASSING,John,Wolford,CP-ATT-INT,28-45-1
+4096018,11/4/2017,FBS,Wake Forest,Notre Dame,PASSING,John,Wolford,YDS,331
+4096019,11/4/2017,FBS,Wake Forest,Notre Dame,PASSING,John,Wolford,TD,2
+4096020,11/4/2017,FBS,Wake Forest,Notre Dame,PASSING,John,Wolford,LONG,37
+4096021,11/4/2017,FBS,Wake Forest,Notre Dame,PASSING,Kendall,Hinton,CP-ATT-INT,2-3-0
+4096022,11/4/2017,FBS,Wake Forest,Notre Dame,PASSING,Kendall,Hinton,YDS,17
+4096023,11/4/2017,FBS,Wake Forest,Notre Dame,PASSING,Kendall,Hinton,TD,0
+4096024,11/4/2017,FBS,Wake Forest,Notre Dame,PASSING,Kendall,Hinton,LONG,12
+4096025,11/4/2017,FBS,Wake Forest,Notre Dame,RECEIVING,Alex,Bachman,REC,8
+4096026,11/4/2017,FBS,Wake Forest,Notre Dame,RECEIVING,Alex,Bachman,YDS,116
+4096027,11/4/2017,FBS,Wake Forest,Notre Dame,RECEIVING,Alex,Bachman,TD,1
+4096028,11/4/2017,FBS,Wake Forest,Notre Dame,RECEIVING,Alex,Bachman,LONG,37
+4096029,11/4/2017,FBS,Wake Forest,Notre Dame,RECEIVING,Scotty,Washington,REC,8
+4096030,11/4/2017,FBS,Wake Forest,Notre Dame,RECEIVING,Scotty,Washington,YDS,84
+4096031,11/4/2017,FBS,Wake Forest,Notre Dame,RECEIVING,Scotty,Washington,TD,0
+4096032,11/4/2017,FBS,Wake Forest,Notre Dame,RECEIVING,Scotty,Washington,LONG,21
+4096033,11/4/2017,FBS,Wake Forest,Notre Dame,RECEIVING,Tabari,Hines,REC,4
+4096034,11/4/2017,FBS,Wake Forest,Notre Dame,RECEIVING,Tabari,Hines,YDS,52
+4096035,11/4/2017,FBS,Wake Forest,Notre Dame,RECEIVING,Tabari,Hines,TD,0
+4096036,11/4/2017,FBS,Wake Forest,Notre Dame,RECEIVING,Tabari,Hines,LONG,21
+4096037,11/4/2017,FBS,Wake Forest,Notre Dame,RECEIVING,Cam,Serigne,REC,5
+4096038,11/4/2017,FBS,Wake Forest,Notre Dame,RECEIVING,Cam,Serigne,YDS,48
+4096039,11/4/2017,FBS,Wake Forest,Notre Dame,RECEIVING,Cam,Serigne,TD,0
+4096040,11/4/2017,FBS,Wake Forest,Notre Dame,RECEIVING,Cam,Serigne,LONG,14
+4096041,11/4/2017,FBS,Wake Forest,Notre Dame,RECEIVING,Jack,Freudenthal,REC,2
+4096042,11/4/2017,FBS,Wake Forest,Notre Dame,RECEIVING,Jack,Freudenthal,YDS,16
+4096043,11/4/2017,FBS,Wake Forest,Notre Dame,RECEIVING,Jack,Freudenthal,TD,1
+4096044,11/4/2017,FBS,Wake Forest,Notre Dame,RECEIVING,Jack,Freudenthal,LONG,11
+4096045,11/4/2017,FBS,Wake Forest,Notre Dame,RECEIVING,Chuck,WadeJr.,REC,1
+4096046,11/4/2017,FBS,Wake Forest,Notre Dame,RECEIVING,Chuck,WadeJr.,YDS,13
+4096047,11/4/2017,FBS,Wake Forest,Notre Dame,RECEIVING,Chuck,WadeJr.,TD,0
+4096048,11/4/2017,FBS,Wake Forest,Notre Dame,RECEIVING,Chuck,WadeJr.,LONG,13
+4096049,11/4/2017,FBS,Wake Forest,Notre Dame,RECEIVING,Cortez,Lewis,REC,1
+4096050,11/4/2017,FBS,Wake Forest,Notre Dame,RECEIVING,Cortez,Lewis,YDS,12
+4096051,11/4/2017,FBS,Wake Forest,Notre Dame,RECEIVING,Cortez,Lewis,TD,0
+4096052,11/4/2017,FBS,Wake Forest,Notre Dame,RECEIVING,Cortez,Lewis,LONG,12
+4096053,11/4/2017,FBS,Wake Forest,Notre Dame,RECEIVING,Matt,ColburnII,REC,1
+4096054,11/4/2017,FBS,Wake Forest,Notre Dame,RECEIVING,Matt,ColburnII,YDS,7
+4096055,11/4/2017,FBS,Wake Forest,Notre Dame,RECEIVING,Matt,ColburnII,TD,0
+4096056,11/4/2017,FBS,Wake Forest,Notre Dame,RECEIVING,Matt,ColburnII,LONG,7
+4096057,11/4/2017,FBS,Wake Forest,Notre Dame,KICKING,Mike,Weaver,FG-FGA,1/2
+4096058,11/4/2017,FBS,Wake Forest,Notre Dame,KICKING,Mike,Weaver,LONG,34
+4096059,11/4/2017,FBS,Wake Forest,Notre Dame,KICKING,Mike,Weaver,XP,4
+4096060,11/4/2017,FBS,Wake Forest,Notre Dame,KICKING,Mike,Weaver,PTS,7
+4096061,11/4/2017,FBS,Wake Forest,Notre Dame,PUNTING,Dom,Maggio,NO,5
+4096062,11/4/2017,FBS,Wake Forest,Notre Dame,PUNTING,Dom,Maggio,YDS,205
+4096063,11/4/2017,FBS,Wake Forest,Notre Dame,PUNTING,Dom,Maggio,AVG,41.0
+4096064,11/4/2017,FBS,Wake Forest,Notre Dame,PUNTING,Dom,Maggio,LONG,57
+4096065,11/4/2017,FBS,Wake Forest,Notre Dame,PUNT RETURNS,Tabari,Hines,NO,1
+4096066,11/4/2017,FBS,Wake Forest,Notre Dame,PUNT RETURNS,Tabari,Hines,YDS,0
+4096067,11/4/2017,FBS,Wake Forest,Notre Dame,PUNT RETURNS,Tabari,Hines,AVG,-
+4096068,11/4/2017,FBS,Wake Forest,Notre Dame,PUNT RETURNS,Tabari,Hines,LONG,0
+4096069,11/4/2017,FBS,Wake Forest,Notre Dame,KICK RETURNS,Tabari,Hines,NO,4
+4096070,11/4/2017,FBS,Wake Forest,Notre Dame,KICK RETURNS,Tabari,Hines,YDS,93
+4096071,11/4/2017,FBS,Wake Forest,Notre Dame,KICK RETURNS,Tabari,Hines,AVG,23.2
+4096072,11/4/2017,FBS,Wake Forest,Notre Dame,KICK RETURNS,Tabari,Hines,LONG,27
+4096073,11/4/2017,FBS,Wake Forest,Notre Dame,KICK RETURNS,Chuck,WadeJr.,NO,1
+4096074,11/4/2017,FBS,Wake Forest,Notre Dame,KICK RETURNS,Chuck,WadeJr.,YDS,26
+4096075,11/4/2017,FBS,Wake Forest,Notre Dame,KICK RETURNS,Chuck,WadeJr.,AVG,26.0
+4096076,11/4/2017,FBS,Wake Forest,Notre Dame,KICK RETURNS,Chuck,WadeJr.,LONG,26
+4096077,11/4/2017,FBS,Wake Forest,Notre Dame,KICK RETURNS,Alex,Bachman,NO,1
+4096078,11/4/2017,FBS,Wake Forest,Notre Dame,KICK RETURNS,Alex,Bachman,YDS,20
+4096079,11/4/2017,FBS,Wake Forest,Notre Dame,KICK RETURNS,Alex,Bachman,AVG,20.0
+4096080,11/4/2017,FBS,Wake Forest,Notre Dame,KICK RETURNS,Alex,Bachman,LONG,20
+4096081,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,Brandon,Wimbush,ATT,12
+4096082,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,Brandon,Wimbush,YDS,110
+4096083,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,Brandon,Wimbush,TD,2
+4096084,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,Brandon,Wimbush,LONG,50
+4096085,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,Deon,McIntosh,ATT,9
+4096086,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,Deon,McIntosh,YDS,63
+4096087,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,Deon,McIntosh,TD,1
+4096088,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,Deon,McIntosh,LONG,45
+4096089,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,Tony,JonesJr.,ATT,10
+4096090,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,Tony,JonesJr.,YDS,59
+4096091,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,Tony,JonesJr.,TD,1
+4096092,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,Tony,JonesJr.,LONG,15
+4096093,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,Ian,Book,ATT,3
+4096094,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,Ian,Book,YDS,54
+4096095,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,Ian,Book,TD,0
+4096096,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,Ian,Book,LONG,43
+4096097,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,Kevin,Stepherson,ATT,2
+4096098,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,Kevin,Stepherson,YDS,42
+4096099,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,Kevin,Stepherson,TD,0
+4096100,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,Kevin,Stepherson,LONG,35
+4096101,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,Dexter,Williams,ATT,3
+4096102,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,Dexter,Williams,YDS,33
+4096103,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,Dexter,Williams,TD,0
+4096104,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,Dexter,Williams,LONG,32
+4096105,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,Josh,Adams,ATT,5
+4096106,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,Josh,Adams,YDS,22
+4096107,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,Josh,Adams,TD,0
+4096108,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,Josh,Adams,LONG,13
+4096109,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,Robert,Hainsey,ATT,0
+4096110,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,Robert,Hainsey,YDS,0
+4096111,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,Robert,Hainsey,TD,0
+4096112,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,Robert,Hainsey,LONG,0
+4096113,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,Quenton,Nelson,ATT,0
+4096114,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,Quenton,Nelson,YDS,0
+4096115,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,Quenton,Nelson,TD,0
+4096116,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,Quenton,Nelson,LONG,0
+4096117,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,,Team,ATT,2
+4096118,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,,Team,YDS,-3
+4096119,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,,Team,TD,0
+4096120,11/4/2017,FBS,Notre Dame,Wake Forest,RUSHING,,Team,LONG,-1
+4096121,11/4/2017,FBS,Notre Dame,Wake Forest,PASSING,Brandon,Wimbush,CP-ATT-INT,15-30-0
+4096122,11/4/2017,FBS,Notre Dame,Wake Forest,PASSING,Brandon,Wimbush,YDS,280
+4096123,11/4/2017,FBS,Notre Dame,Wake Forest,PASSING,Brandon,Wimbush,TD,1
+4096124,11/4/2017,FBS,Notre Dame,Wake Forest,PASSING,Brandon,Wimbush,LONG,44
+4096125,11/4/2017,FBS,Notre Dame,Wake Forest,PASSING,Ian,Book,CP-ATT-INT,8-8-0
+4096126,11/4/2017,FBS,Notre Dame,Wake Forest,PASSING,Ian,Book,YDS,50
+4096127,11/4/2017,FBS,Notre Dame,Wake Forest,PASSING,Ian,Book,TD,1
+4096128,11/4/2017,FBS,Notre Dame,Wake Forest,PASSING,Ian,Book,LONG,12
+4096129,11/4/2017,FBS,Notre Dame,Wake Forest,RECEIVING,Chase,Claypool,REC,9
+4096130,11/4/2017,FBS,Notre Dame,Wake Forest,RECEIVING,Chase,Claypool,YDS,180
+4096131,11/4/2017,FBS,Notre Dame,Wake Forest,RECEIVING,Chase,Claypool,TD,1
+4096132,11/4/2017,FBS,Notre Dame,Wake Forest,RECEIVING,Chase,Claypool,LONG,44
+4096133,11/4/2017,FBS,Notre Dame,Wake Forest,RECEIVING,Durham,Smythe,REC,2
+4096134,11/4/2017,FBS,Notre Dame,Wake Forest,RECEIVING,Durham,Smythe,YDS,36
+4096135,11/4/2017,FBS,Notre Dame,Wake Forest,RECEIVING,Durham,Smythe,TD,0
+4096136,11/4/2017,FBS,Notre Dame,Wake Forest,RECEIVING,Durham,Smythe,LONG,23
+4096137,11/4/2017,FBS,Notre Dame,Wake Forest,RECEIVING,Equanimeous,St.Brown,REC,2
+4096138,11/4/2017,FBS,Notre Dame,Wake Forest,RECEIVING,Equanimeous,St.Brown,YDS,36
+4096139,11/4/2017,FBS,Notre Dame,Wake Forest,RECEIVING,Equanimeous,St.Brown,TD,0
+4096140,11/4/2017,FBS,Notre Dame,Wake Forest,RECEIVING,Equanimeous,St.Brown,LONG,24
+4096141,11/4/2017,FBS,Notre Dame,Wake Forest,RECEIVING,Kevin,Stepherson,REC,2
+4096142,11/4/2017,FBS,Notre Dame,Wake Forest,RECEIVING,Kevin,Stepherson,YDS,22
+4096143,11/4/2017,FBS,Notre Dame,Wake Forest,RECEIVING,Kevin,Stepherson,TD,0
+4096144,11/4/2017,FBS,Notre Dame,Wake Forest,RECEIVING,Kevin,Stepherson,LONG,17
+4096145,11/4/2017,FBS,Notre Dame,Wake Forest,RECEIVING,Nic,Weishar,REC,3
+4096146,11/4/2017,FBS,Notre Dame,Wake Forest,RECEIVING,Nic,Weishar,YDS,17
+4096147,11/4/2017,FBS,Notre Dame,Wake Forest,RECEIVING,Nic,Weishar,TD,1
+4096148,11/4/2017,FBS,Notre Dame,Wake Forest,RECEIVING,Nic,Weishar,LONG,12
+4096149,11/4/2017,FBS,Notre Dame,Wake Forest,RECEIVING,Miles,Boykin,REC,2
+4096150,11/4/2017,FBS,Notre Dame,Wake Forest,RECEIVING,Miles,Boykin,YDS,14
+4096151,11/4/2017,FBS,Notre Dame,Wake Forest,RECEIVING,Miles,Boykin,TD,0
+4096152,11/4/2017,FBS,Notre Dame,Wake Forest,RECEIVING,Miles,Boykin,LONG,8
+4096153,11/4/2017,FBS,Notre Dame,Wake Forest,RECEIVING,Cole,Kmet,REC,2
+4096154,11/4/2017,FBS,Notre Dame,Wake Forest,RECEIVING,Cole,Kmet,YDS,14
+4096155,11/4/2017,FBS,Notre Dame,Wake Forest,RECEIVING,Cole,Kmet,TD,0
+4096156,11/4/2017,FBS,Notre Dame,Wake Forest,RECEIVING,Cole,Kmet,LONG,11
+4096157,11/4/2017,FBS,Notre Dame,Wake Forest,RECEIVING,Deon,McIntosh,REC,1
+4096158,11/4/2017,FBS,Notre Dame,Wake Forest,RECEIVING,Deon,McIntosh,YDS,11
+4096159,11/4/2017,FBS,Notre Dame,Wake Forest,RECEIVING,Deon,McIntosh,TD,0
+4096160,11/4/2017,FBS,Notre Dame,Wake Forest,RECEIVING,Deon,McIntosh,LONG,11
+4096161,11/4/2017,FBS,Notre Dame,Wake Forest,KICKING,Justin,Yoon,FG-FGA,2/3
+4096162,11/4/2017,FBS,Notre Dame,Wake Forest,KICKING,Justin,Yoon,LONG,34
+4096163,11/4/2017,FBS,Notre Dame,Wake Forest,KICKING,Justin,Yoon,XP,6
+4096164,11/4/2017,FBS,Notre Dame,Wake Forest,KICKING,Justin,Yoon,PTS,12
+4096165,11/4/2017,FBS,Notre Dame,Wake Forest,PUNTING,Tyler,Newsome,NO,2
+4096166,11/4/2017,FBS,Notre Dame,Wake Forest,PUNTING,Tyler,Newsome,YDS,87
+4096167,11/4/2017,FBS,Notre Dame,Wake Forest,PUNTING,Tyler,Newsome,AVG,43.5
+4096168,11/4/2017,FBS,Notre Dame,Wake Forest,PUNTING,Tyler,Newsome,LONG,44
+4096169,11/4/2017,FBS,Notre Dame,Wake Forest,PUNT RETURNS,Chris,Finke,NO,1
+4096170,11/4/2017,FBS,Notre Dame,Wake Forest,PUNT RETURNS,Chris,Finke,YDS,12
+4096171,11/4/2017,FBS,Notre Dame,Wake Forest,PUNT RETURNS,Chris,Finke,AVG,12.0
+4096172,11/4/2017,FBS,Notre Dame,Wake Forest,PUNT RETURNS,Chris,Finke,LONG,12
+4096173,11/4/2017,FBS,Notre Dame,Wake Forest,KICK RETURNS,C.J.,Sanders,NO,3
+4096174,11/4/2017,FBS,Notre Dame,Wake Forest,KICK RETURNS,C.J.,Sanders,YDS,83
+4096175,11/4/2017,FBS,Notre Dame,Wake Forest,KICK RETURNS,C.J.,Sanders,AVG,27.7
+4096176,11/4/2017,FBS,Notre Dame,Wake Forest,KICK RETURNS,C.J.,Sanders,LONG,52
+4096177,11/4/2017,FBS,Notre Dame,Wake Forest,KICK RETURNS,Kevin,Stepherson,NO,1
+4096178,11/4/2017,FBS,Notre Dame,Wake Forest,KICK RETURNS,Kevin,Stepherson,YDS,0
+4096179,11/4/2017,FBS,Notre Dame,Wake Forest,KICK RETURNS,Kevin,Stepherson,AVG,-
+4096180,11/4/2017,FBS,Notre Dame,Wake Forest,KICK RETURNS,Kevin,Stepherson,LONG,0

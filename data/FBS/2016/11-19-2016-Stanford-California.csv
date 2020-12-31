@@ -1,0 +1,165 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3366001,11/19/2016,FBS,Stanford,California,RUSHING,Christian,McCaffrey,ATT,31
+3366002,11/19/2016,FBS,Stanford,California,RUSHING,Christian,McCaffrey,YDS,284
+3366003,11/19/2016,FBS,Stanford,California,RUSHING,Christian,McCaffrey,TD,3
+3366004,11/19/2016,FBS,Stanford,California,RUSHING,Christian,McCaffrey,LONG,90
+3366005,11/19/2016,FBS,Stanford,California,RUSHING,Bryce,Love,ATT,10
+3366006,11/19/2016,FBS,Stanford,California,RUSHING,Bryce,Love,YDS,43
+3366007,11/19/2016,FBS,Stanford,California,RUSHING,Bryce,Love,TD,0
+3366008,11/19/2016,FBS,Stanford,California,RUSHING,Bryce,Love,LONG,8
+3366009,11/19/2016,FBS,Stanford,California,RUSHING,Keller,Chryst,ATT,6
+3366010,11/19/2016,FBS,Stanford,California,RUSHING,Keller,Chryst,YDS,23
+3366011,11/19/2016,FBS,Stanford,California,RUSHING,Keller,Chryst,TD,1
+3366012,11/19/2016,FBS,Stanford,California,RUSHING,Keller,Chryst,LONG,16
+3366013,11/19/2016,FBS,Stanford,California,RUSHING,Cameron,Scarlett,ATT,2
+3366014,11/19/2016,FBS,Stanford,California,RUSHING,Cameron,Scarlett,YDS,8
+3366015,11/19/2016,FBS,Stanford,California,RUSHING,Cameron,Scarlett,TD,0
+3366016,11/19/2016,FBS,Stanford,California,RUSHING,Cameron,Scarlett,LONG,8
+3366017,11/19/2016,FBS,Stanford,California,RUSHING,Ryan,Burns,ATT,1
+3366018,11/19/2016,FBS,Stanford,California,RUSHING,Ryan,Burns,YDS,-1
+3366019,11/19/2016,FBS,Stanford,California,RUSHING,Ryan,Burns,TD,0
+3366020,11/19/2016,FBS,Stanford,California,RUSHING,Ryan,Burns,LONG,0
+3366021,11/19/2016,FBS,Stanford,California,PASSING,Keller,Chryst,CP-ATT-INT,13-23-0
+3366022,11/19/2016,FBS,Stanford,California,PASSING,Keller,Chryst,YDS,198
+3366023,11/19/2016,FBS,Stanford,California,PASSING,Keller,Chryst,TD,2
+3366024,11/19/2016,FBS,Stanford,California,PASSING,Keller,Chryst,LONG,59
+3366025,11/19/2016,FBS,Stanford,California,RECEIVING,JJ,Arcega-Whiteside,REC,4
+3366026,11/19/2016,FBS,Stanford,California,RECEIVING,JJ,Arcega-Whiteside,YDS,107
+3366027,11/19/2016,FBS,Stanford,California,RECEIVING,JJ,Arcega-Whiteside,TD,0
+3366028,11/19/2016,FBS,Stanford,California,RECEIVING,JJ,Arcega-Whiteside,LONG,59
+3366029,11/19/2016,FBS,Stanford,California,RECEIVING,Greg,Taboada,REC,2
+3366030,11/19/2016,FBS,Stanford,California,RECEIVING,Greg,Taboada,YDS,34
+3366031,11/19/2016,FBS,Stanford,California,RECEIVING,Greg,Taboada,TD,0
+3366032,11/19/2016,FBS,Stanford,California,RECEIVING,Greg,Taboada,LONG,29
+3366033,11/19/2016,FBS,Stanford,California,RECEIVING,Trenton,Irwin,REC,1
+3366034,11/19/2016,FBS,Stanford,California,RECEIVING,Trenton,Irwin,YDS,30
+3366035,11/19/2016,FBS,Stanford,California,RECEIVING,Trenton,Irwin,TD,1
+3366036,11/19/2016,FBS,Stanford,California,RECEIVING,Trenton,Irwin,LONG,30
+3366037,11/19/2016,FBS,Stanford,California,RECEIVING,Christian,McCaffrey,REC,4
+3366038,11/19/2016,FBS,Stanford,California,RECEIVING,Christian,McCaffrey,YDS,22
+3366039,11/19/2016,FBS,Stanford,California,RECEIVING,Christian,McCaffrey,TD,0
+3366040,11/19/2016,FBS,Stanford,California,RECEIVING,Christian,McCaffrey,LONG,13
+3366041,11/19/2016,FBS,Stanford,California,RECEIVING,Dalton,Schultz,REC,1
+3366042,11/19/2016,FBS,Stanford,California,RECEIVING,Dalton,Schultz,YDS,9
+3366043,11/19/2016,FBS,Stanford,California,RECEIVING,Dalton,Schultz,TD,1
+3366044,11/19/2016,FBS,Stanford,California,RECEIVING,Dalton,Schultz,LONG,9
+3366045,11/19/2016,FBS,Stanford,California,RECEIVING,Bryce,Love,REC,1
+3366046,11/19/2016,FBS,Stanford,California,RECEIVING,Bryce,Love,YDS,-4
+3366047,11/19/2016,FBS,Stanford,California,RECEIVING,Bryce,Love,TD,0
+3366048,11/19/2016,FBS,Stanford,California,RECEIVING,Bryce,Love,LONG,-4
+3366049,11/19/2016,FBS,Stanford,California,KICKING,Conrad,Ukropina,FG-FGA,1/1
+3366050,11/19/2016,FBS,Stanford,California,KICKING,Conrad,Ukropina,LONG,40
+3366051,11/19/2016,FBS,Stanford,California,KICKING,Conrad,Ukropina,XP,6
+3366052,11/19/2016,FBS,Stanford,California,KICKING,Conrad,Ukropina,PTS,9
+3366053,11/19/2016,FBS,Stanford,California,PUNTING,Jake,Bailey,NO,5
+3366054,11/19/2016,FBS,Stanford,California,PUNTING,Jake,Bailey,YDS,212
+3366055,11/19/2016,FBS,Stanford,California,PUNTING,Jake,Bailey,AVG,42.4
+3366056,11/19/2016,FBS,Stanford,California,PUNTING,Jake,Bailey,LONG,49
+3366057,11/19/2016,FBS,Stanford,California,PUNT RETURNS,Christian,McCaffrey,NO,1
+3366058,11/19/2016,FBS,Stanford,California,PUNT RETURNS,Christian,McCaffrey,YDS,11
+3366059,11/19/2016,FBS,Stanford,California,PUNT RETURNS,Christian,McCaffrey,AVG,11.0
+3366060,11/19/2016,FBS,Stanford,California,PUNT RETURNS,Christian,McCaffrey,LONG,11
+3366061,11/19/2016,FBS,Stanford,California,KICK RETURNS,Greg,Taboada,NO,2
+3366062,11/19/2016,FBS,Stanford,California,KICK RETURNS,Greg,Taboada,YDS,16
+3366063,11/19/2016,FBS,Stanford,California,KICK RETURNS,Greg,Taboada,AVG,8.0
+3366064,11/19/2016,FBS,Stanford,California,KICK RETURNS,Greg,Taboada,LONG,9
+3366065,11/19/2016,FBS,Stanford,California,KICK RETURNS,Bryce,Love,NO,1
+3366066,11/19/2016,FBS,Stanford,California,KICK RETURNS,Bryce,Love,YDS,11
+3366067,11/19/2016,FBS,Stanford,California,KICK RETURNS,Bryce,Love,AVG,11.0
+3366068,11/19/2016,FBS,Stanford,California,KICK RETURNS,Bryce,Love,LONG,11
+3366069,11/19/2016,FBS,Stanford,California,KICK RETURNS,Kevin,Palma,NO,1
+3366070,11/19/2016,FBS,Stanford,California,KICK RETURNS,Kevin,Palma,YDS,11
+3366071,11/19/2016,FBS,Stanford,California,KICK RETURNS,Kevin,Palma,AVG,11.0
+3366072,11/19/2016,FBS,Stanford,California,KICK RETURNS,Kevin,Palma,LONG,11
+3366073,11/19/2016,FBS,Stanford,California,KICK RETURNS,Dalton,Schultz,NO,1
+3366074,11/19/2016,FBS,Stanford,California,KICK RETURNS,Dalton,Schultz,YDS,6
+3366075,11/19/2016,FBS,Stanford,California,KICK RETURNS,Dalton,Schultz,AVG,6.0
+3366076,11/19/2016,FBS,Stanford,California,KICK RETURNS,Dalton,Schultz,LONG,6
+3366077,11/19/2016,FBS,California,Stanford,RUSHING,Tre,Watson,ATT,11
+3366078,11/19/2016,FBS,California,Stanford,RUSHING,Tre,Watson,YDS,60
+3366079,11/19/2016,FBS,California,Stanford,RUSHING,Tre,Watson,TD,2
+3366080,11/19/2016,FBS,California,Stanford,RUSHING,Tre,Watson,LONG,13
+3366081,11/19/2016,FBS,California,Stanford,RUSHING,Khalfani,Muhammad,ATT,11
+3366082,11/19/2016,FBS,California,Stanford,RUSHING,Khalfani,Muhammad,YDS,35
+3366083,11/19/2016,FBS,California,Stanford,RUSHING,Khalfani,Muhammad,TD,0
+3366084,11/19/2016,FBS,California,Stanford,RUSHING,Khalfani,Muhammad,LONG,16
+3366085,11/19/2016,FBS,California,Stanford,RUSHING,Davis,Webb,ATT,1
+3366086,11/19/2016,FBS,California,Stanford,RUSHING,Davis,Webb,YDS,2
+3366087,11/19/2016,FBS,California,Stanford,RUSHING,Davis,Webb,TD,0
+3366088,11/19/2016,FBS,California,Stanford,RUSHING,Davis,Webb,LONG,2
+3366089,11/19/2016,FBS,California,Stanford,RUSHING,Bug,Rivera,ATT,1
+3366090,11/19/2016,FBS,California,Stanford,RUSHING,Bug,Rivera,YDS,-7
+3366091,11/19/2016,FBS,California,Stanford,RUSHING,Bug,Rivera,TD,0
+3366092,11/19/2016,FBS,California,Stanford,RUSHING,Bug,Rivera,LONG,-7
+3366093,11/19/2016,FBS,California,Stanford,PASSING,Davis,Webb,CP-ATT-INT,34-57-0
+3366094,11/19/2016,FBS,California,Stanford,PASSING,Davis,Webb,YDS,393
+3366095,11/19/2016,FBS,California,Stanford,PASSING,Davis,Webb,TD,2
+3366096,11/19/2016,FBS,California,Stanford,PASSING,Davis,Webb,LONG,70
+3366097,11/19/2016,FBS,California,Stanford,RECEIVING,Chad,Hansen,REC,7
+3366098,11/19/2016,FBS,California,Stanford,RECEIVING,Chad,Hansen,YDS,114
+3366099,11/19/2016,FBS,California,Stanford,RECEIVING,Chad,Hansen,TD,2
+3366100,11/19/2016,FBS,California,Stanford,RECEIVING,Chad,Hansen,LONG,70
+3366101,11/19/2016,FBS,California,Stanford,RECEIVING,Demetris,Robertson,REC,5
+3366102,11/19/2016,FBS,California,Stanford,RECEIVING,Demetris,Robertson,YDS,69
+3366103,11/19/2016,FBS,California,Stanford,RECEIVING,Demetris,Robertson,TD,0
+3366104,11/19/2016,FBS,California,Stanford,RECEIVING,Demetris,Robertson,LONG,36
+3366105,11/19/2016,FBS,California,Stanford,RECEIVING,Khalfani,Muhammad,REC,3
+3366106,11/19/2016,FBS,California,Stanford,RECEIVING,Khalfani,Muhammad,YDS,54
+3366107,11/19/2016,FBS,California,Stanford,RECEIVING,Khalfani,Muhammad,TD,0
+3366108,11/19/2016,FBS,California,Stanford,RECEIVING,Khalfani,Muhammad,LONG,29
+3366109,11/19/2016,FBS,California,Stanford,RECEIVING,Bug,Rivera,REC,6
+3366110,11/19/2016,FBS,California,Stanford,RECEIVING,Bug,Rivera,YDS,38
+3366111,11/19/2016,FBS,California,Stanford,RECEIVING,Bug,Rivera,TD,0
+3366112,11/19/2016,FBS,California,Stanford,RECEIVING,Bug,Rivera,LONG,8
+3366113,11/19/2016,FBS,California,Stanford,RECEIVING,Tre,Watson,REC,4
+3366114,11/19/2016,FBS,California,Stanford,RECEIVING,Tre,Watson,YDS,36
+3366115,11/19/2016,FBS,California,Stanford,RECEIVING,Tre,Watson,TD,0
+3366116,11/19/2016,FBS,California,Stanford,RECEIVING,Tre,Watson,LONG,17
+3366117,11/19/2016,FBS,California,Stanford,RECEIVING,Jordan,Veasy,REC,2
+3366118,11/19/2016,FBS,California,Stanford,RECEIVING,Jordan,Veasy,YDS,33
+3366119,11/19/2016,FBS,California,Stanford,RECEIVING,Jordan,Veasy,TD,0
+3366120,11/19/2016,FBS,California,Stanford,RECEIVING,Jordan,Veasy,LONG,20
+3366121,11/19/2016,FBS,California,Stanford,RECEIVING,Malik,McMorris,REC,2
+3366122,11/19/2016,FBS,California,Stanford,RECEIVING,Malik,McMorris,YDS,26
+3366123,11/19/2016,FBS,California,Stanford,RECEIVING,Malik,McMorris,TD,0
+3366124,11/19/2016,FBS,California,Stanford,RECEIVING,Malik,McMorris,LONG,20
+3366125,11/19/2016,FBS,California,Stanford,RECEIVING,Ray,Hudson,REC,2
+3366126,11/19/2016,FBS,California,Stanford,RECEIVING,Ray,Hudson,YDS,13
+3366127,11/19/2016,FBS,California,Stanford,RECEIVING,Ray,Hudson,TD,0
+3366128,11/19/2016,FBS,California,Stanford,RECEIVING,Ray,Hudson,LONG,9
+3366129,11/19/2016,FBS,California,Stanford,RECEIVING,Jordan,Duncan,REC,1
+3366130,11/19/2016,FBS,California,Stanford,RECEIVING,Jordan,Duncan,YDS,9
+3366131,11/19/2016,FBS,California,Stanford,RECEIVING,Jordan,Duncan,TD,0
+3366132,11/19/2016,FBS,California,Stanford,RECEIVING,Jordan,Duncan,LONG,9
+3366133,11/19/2016,FBS,California,Stanford,RECEIVING,Billy,McCraryIII,REC,1
+3366134,11/19/2016,FBS,California,Stanford,RECEIVING,Billy,McCraryIII,YDS,1
+3366135,11/19/2016,FBS,California,Stanford,RECEIVING,Billy,McCraryIII,TD,0
+3366136,11/19/2016,FBS,California,Stanford,RECEIVING,Billy,McCraryIII,LONG,1
+3366137,11/19/2016,FBS,California,Stanford,RECEIVING,Vic,WhartonIII,REC,1
+3366138,11/19/2016,FBS,California,Stanford,RECEIVING,Vic,WhartonIII,YDS,0
+3366139,11/19/2016,FBS,California,Stanford,RECEIVING,Vic,WhartonIII,TD,0
+3366140,11/19/2016,FBS,California,Stanford,RECEIVING,Vic,WhartonIII,LONG,0
+3366141,11/19/2016,FBS,California,Stanford,KICKING,Matt,Anderson,FG-FGA,1/2
+3366142,11/19/2016,FBS,California,Stanford,KICKING,Matt,Anderson,LONG,43
+3366143,11/19/2016,FBS,California,Stanford,KICKING,Matt,Anderson,XP,4
+3366144,11/19/2016,FBS,California,Stanford,KICKING,Matt,Anderson,PTS,7
+3366145,11/19/2016,FBS,California,Stanford,PUNTING,Davis,Webb,NO,3
+3366146,11/19/2016,FBS,California,Stanford,PUNTING,Davis,Webb,YDS,139
+3366147,11/19/2016,FBS,California,Stanford,PUNTING,Davis,Webb,AVG,46.3
+3366148,11/19/2016,FBS,California,Stanford,PUNTING,Davis,Webb,LONG,52
+3366149,11/19/2016,FBS,California,Stanford,PUNTING,Dylan,Klumph,NO,3
+3366150,11/19/2016,FBS,California,Stanford,PUNTING,Dylan,Klumph,YDS,120
+3366151,11/19/2016,FBS,California,Stanford,PUNTING,Dylan,Klumph,AVG,40.0
+3366152,11/19/2016,FBS,California,Stanford,PUNTING,Dylan,Klumph,LONG,40
+3366153,11/19/2016,FBS,California,Stanford,PUNT RETURNS,Vic,WhartonIII,NO,3
+3366154,11/19/2016,FBS,California,Stanford,PUNT RETURNS,Vic,WhartonIII,YDS,14
+3366155,11/19/2016,FBS,California,Stanford,PUNT RETURNS,Vic,WhartonIII,AVG,4.7
+3366156,11/19/2016,FBS,California,Stanford,PUNT RETURNS,Vic,WhartonIII,LONG,10
+3366157,11/19/2016,FBS,California,Stanford,KICK RETURNS,Khalfani,Muhammad,NO,2
+3366158,11/19/2016,FBS,California,Stanford,KICK RETURNS,Khalfani,Muhammad,YDS,38
+3366159,11/19/2016,FBS,California,Stanford,KICK RETURNS,Khalfani,Muhammad,AVG,19.0
+3366160,11/19/2016,FBS,California,Stanford,KICK RETURNS,Khalfani,Muhammad,LONG,24
+3366161,11/19/2016,FBS,California,Stanford,KICK RETURNS,Tre,Watson,NO,1
+3366162,11/19/2016,FBS,California,Stanford,KICK RETURNS,Tre,Watson,YDS,21
+3366163,11/19/2016,FBS,California,Stanford,KICK RETURNS,Tre,Watson,AVG,21.0
+3366164,11/19/2016,FBS,California,Stanford,KICK RETURNS,Tre,Watson,LONG,21

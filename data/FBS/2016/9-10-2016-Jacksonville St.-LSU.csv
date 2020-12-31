@@ -1,0 +1,177 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2775001,9/10/2016,FBS,Jacksonville St.,LSU,RUSHING,Eli,Jenkins,ATT,18
+2775002,9/10/2016,FBS,Jacksonville St.,LSU,RUSHING,Eli,Jenkins,YDS,82
+2775003,9/10/2016,FBS,Jacksonville St.,LSU,RUSHING,Eli,Jenkins,TD,0
+2775004,9/10/2016,FBS,Jacksonville St.,LSU,RUSHING,Eli,Jenkins,LONG,35
+2775005,9/10/2016,FBS,Jacksonville St.,LSU,RUSHING,Roc,Thomas,ATT,10
+2775006,9/10/2016,FBS,Jacksonville St.,LSU,RUSHING,Roc,Thomas,YDS,30
+2775007,9/10/2016,FBS,Jacksonville St.,LSU,RUSHING,Roc,Thomas,TD,0
+2775008,9/10/2016,FBS,Jacksonville St.,LSU,RUSHING,Roc,Thomas,LONG,10
+2775009,9/10/2016,FBS,Jacksonville St.,LSU,RUSHING,Josh,Clemons,ATT,5
+2775010,9/10/2016,FBS,Jacksonville St.,LSU,RUSHING,Josh,Clemons,YDS,10
+2775011,9/10/2016,FBS,Jacksonville St.,LSU,RUSHING,Josh,Clemons,TD,0
+2775012,9/10/2016,FBS,Jacksonville St.,LSU,RUSHING,Josh,Clemons,LONG,4
+2775013,9/10/2016,FBS,Jacksonville St.,LSU,RUSHING,,Team,ATT,1
+2775014,9/10/2016,FBS,Jacksonville St.,LSU,RUSHING,,Team,YDS,-2
+2775015,9/10/2016,FBS,Jacksonville St.,LSU,RUSHING,,Team,TD,0
+2775016,9/10/2016,FBS,Jacksonville St.,LSU,RUSHING,,Team,LONG,-2
+2775017,9/10/2016,FBS,Jacksonville St.,LSU,PASSING,Eli,Jenkins,CP-ATT-INT,17-35-1
+2775018,9/10/2016,FBS,Jacksonville St.,LSU,PASSING,Eli,Jenkins,YDS,248
+2775019,9/10/2016,FBS,Jacksonville St.,LSU,PASSING,Eli,Jenkins,TD,1
+2775020,9/10/2016,FBS,Jacksonville St.,LSU,PASSING,Eli,Jenkins,LONG,76
+2775021,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Krenwick,Sanders,REC,1
+2775022,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Krenwick,Sanders,YDS,76
+2775023,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Krenwick,Sanders,TD,1
+2775024,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Krenwick,Sanders,LONG,76
+2775025,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Kevin,Spears,REC,3
+2775026,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Kevin,Spears,YDS,57
+2775027,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Kevin,Spears,TD,0
+2775028,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Kevin,Spears,LONG,42
+2775029,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Jamari,Hester,REC,3
+2775030,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Jamari,Hester,YDS,29
+2775031,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Jamari,Hester,TD,0
+2775032,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Jamari,Hester,LONG,13
+2775033,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Anthony,Johnson,REC,3
+2775034,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Anthony,Johnson,YDS,29
+2775035,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Anthony,Johnson,TD,0
+2775036,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Anthony,Johnson,LONG,19
+2775037,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Shaq,Davidson,REC,2
+2775038,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Shaq,Davidson,YDS,14
+2775039,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Shaq,Davidson,TD,0
+2775040,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Shaq,Davidson,LONG,9
+2775041,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Josh,Clemons,REC,1
+2775042,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Josh,Clemons,YDS,12
+2775043,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Josh,Clemons,TD,0
+2775044,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Josh,Clemons,LONG,12
+2775045,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Demontez,Terry,REC,1
+2775046,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Demontez,Terry,YDS,10
+2775047,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Demontez,Terry,TD,0
+2775048,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Demontez,Terry,LONG,10
+2775049,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Roc,Thomas,REC,1
+2775050,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Roc,Thomas,YDS,8
+2775051,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Roc,Thomas,TD,0
+2775052,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Roc,Thomas,LONG,8
+2775053,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Jonathan,Curry,REC,1
+2775054,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Jonathan,Curry,YDS,7
+2775055,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Jonathan,Curry,TD,0
+2775056,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Jonathan,Curry,LONG,7
+2775057,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Gavin,Golsan,REC,1
+2775058,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Gavin,Golsan,YDS,6
+2775059,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Gavin,Golsan,TD,0
+2775060,9/10/2016,FBS,Jacksonville St.,LSU,RECEIVING,Gavin,Golsan,LONG,6
+2775061,9/10/2016,FBS,Jacksonville St.,LSU,KICKING,Cade,Stinnett,FG-FGA,2/2
+2775062,9/10/2016,FBS,Jacksonville St.,LSU,KICKING,Cade,Stinnett,LONG,33
+2775063,9/10/2016,FBS,Jacksonville St.,LSU,KICKING,Cade,Stinnett,XP,1
+2775064,9/10/2016,FBS,Jacksonville St.,LSU,KICKING,Cade,Stinnett,PTS,7
+2775065,9/10/2016,FBS,Jacksonville St.,LSU,PUNTING,Dean,Kelly,NO,5
+2775066,9/10/2016,FBS,Jacksonville St.,LSU,PUNTING,Dean,Kelly,YDS,196
+2775067,9/10/2016,FBS,Jacksonville St.,LSU,PUNTING,Dean,Kelly,AVG,39.2
+2775068,9/10/2016,FBS,Jacksonville St.,LSU,PUNTING,Dean,Kelly,LONG,46
+2775069,9/10/2016,FBS,Jacksonville St.,LSU,PUNTING,Eli,Jenkins,NO,1
+2775070,9/10/2016,FBS,Jacksonville St.,LSU,PUNTING,Eli,Jenkins,YDS,15
+2775071,9/10/2016,FBS,Jacksonville St.,LSU,PUNTING,Eli,Jenkins,AVG,15.0
+2775072,9/10/2016,FBS,Jacksonville St.,LSU,PUNTING,Eli,Jenkins,LONG,15
+2775073,9/10/2016,FBS,Jacksonville St.,LSU,PUNT RETURNS,Lawon,DeBardelaben,NO,1
+2775074,9/10/2016,FBS,Jacksonville St.,LSU,PUNT RETURNS,Lawon,DeBardelaben,YDS,5
+2775075,9/10/2016,FBS,Jacksonville St.,LSU,PUNT RETURNS,Lawon,DeBardelaben,AVG,5.0
+2775076,9/10/2016,FBS,Jacksonville St.,LSU,PUNT RETURNS,Lawon,DeBardelaben,LONG,5
+2775077,9/10/2016,FBS,Jacksonville St.,LSU,KICK RETURNS,Lawon,DeBardelaben,NO,4
+2775078,9/10/2016,FBS,Jacksonville St.,LSU,KICK RETURNS,Lawon,DeBardelaben,YDS,52
+2775079,9/10/2016,FBS,Jacksonville St.,LSU,KICK RETURNS,Lawon,DeBardelaben,AVG,13.0
+2775080,9/10/2016,FBS,Jacksonville St.,LSU,KICK RETURNS,Lawon,DeBardelaben,LONG,20
+2775081,9/10/2016,FBS,Jacksonville St.,LSU,KICK RETURNS,Reggie,Hall,NO,1
+2775082,9/10/2016,FBS,Jacksonville St.,LSU,KICK RETURNS,Reggie,Hall,YDS,12
+2775083,9/10/2016,FBS,Jacksonville St.,LSU,KICK RETURNS,Reggie,Hall,AVG,12.0
+2775084,9/10/2016,FBS,Jacksonville St.,LSU,KICK RETURNS,Reggie,Hall,LONG,12
+2775085,9/10/2016,FBS,LSU,Jacksonville St.,RUSHING,Derrius,Guice,ATT,19
+2775086,9/10/2016,FBS,LSU,Jacksonville St.,RUSHING,Derrius,Guice,YDS,155
+2775087,9/10/2016,FBS,LSU,Jacksonville St.,RUSHING,Derrius,Guice,TD,1
+2775088,9/10/2016,FBS,LSU,Jacksonville St.,RUSHING,Derrius,Guice,LONG,44
+2775089,9/10/2016,FBS,LSU,Jacksonville St.,RUSHING,Nick,Brossette,ATT,5
+2775090,9/10/2016,FBS,LSU,Jacksonville St.,RUSHING,Nick,Brossette,YDS,40
+2775091,9/10/2016,FBS,LSU,Jacksonville St.,RUSHING,Nick,Brossette,TD,0
+2775092,9/10/2016,FBS,LSU,Jacksonville St.,RUSHING,Nick,Brossette,LONG,18
+2775093,9/10/2016,FBS,LSU,Jacksonville St.,RUSHING,Darrel,Williams,ATT,3
+2775094,9/10/2016,FBS,LSU,Jacksonville St.,RUSHING,Darrel,Williams,YDS,24
+2775095,9/10/2016,FBS,LSU,Jacksonville St.,RUSHING,Darrel,Williams,TD,0
+2775096,9/10/2016,FBS,LSU,Jacksonville St.,RUSHING,Darrel,Williams,LONG,22
+2775097,9/10/2016,FBS,LSU,Jacksonville St.,RUSHING,Bry'Kiethon,Mouton,ATT,4
+2775098,9/10/2016,FBS,LSU,Jacksonville St.,RUSHING,Bry'Kiethon,Mouton,YDS,15
+2775099,9/10/2016,FBS,LSU,Jacksonville St.,RUSHING,Bry'Kiethon,Mouton,TD,1
+2775100,9/10/2016,FBS,LSU,Jacksonville St.,RUSHING,Bry'Kiethon,Mouton,LONG,7
+2775101,9/10/2016,FBS,LSU,Jacksonville St.,RUSHING,Danny,Etling,ATT,3
+2775102,9/10/2016,FBS,LSU,Jacksonville St.,RUSHING,Danny,Etling,YDS,6
+2775103,9/10/2016,FBS,LSU,Jacksonville St.,RUSHING,Danny,Etling,TD,1
+2775104,9/10/2016,FBS,LSU,Jacksonville St.,RUSHING,Danny,Etling,LONG,10
+2775105,9/10/2016,FBS,LSU,Jacksonville St.,RUSHING,Justin,McMillan,ATT,1
+2775106,9/10/2016,FBS,LSU,Jacksonville St.,RUSHING,Justin,McMillan,YDS,3
+2775107,9/10/2016,FBS,LSU,Jacksonville St.,RUSHING,Justin,McMillan,TD,0
+2775108,9/10/2016,FBS,LSU,Jacksonville St.,RUSHING,Justin,McMillan,LONG,3
+2775109,9/10/2016,FBS,LSU,Jacksonville St.,RUSHING,Lanard,Fournette,ATT,2
+2775110,9/10/2016,FBS,LSU,Jacksonville St.,RUSHING,Lanard,Fournette,YDS,1
+2775111,9/10/2016,FBS,LSU,Jacksonville St.,RUSHING,Lanard,Fournette,TD,0
+2775112,9/10/2016,FBS,LSU,Jacksonville St.,RUSHING,Lanard,Fournette,LONG,1
+2775113,9/10/2016,FBS,LSU,Jacksonville St.,PASSING,Danny,Etling,CP-ATT-INT,6-14-1
+2775114,9/10/2016,FBS,LSU,Jacksonville St.,PASSING,Danny,Etling,YDS,100
+2775115,9/10/2016,FBS,LSU,Jacksonville St.,PASSING,Danny,Etling,TD,1
+2775116,9/10/2016,FBS,LSU,Jacksonville St.,PASSING,Danny,Etling,LONG,46
+2775117,9/10/2016,FBS,LSU,Jacksonville St.,PASSING,Justin,McMillan,CP-ATT-INT,1-1-0
+2775118,9/10/2016,FBS,LSU,Jacksonville St.,PASSING,Justin,McMillan,YDS,19
+2775119,9/10/2016,FBS,LSU,Jacksonville St.,PASSING,Justin,McMillan,TD,0
+2775120,9/10/2016,FBS,LSU,Jacksonville St.,PASSING,Justin,McMillan,LONG,19
+2775121,9/10/2016,FBS,LSU,Jacksonville St.,PASSING,Brandon,Harris,CP-ATT-INT,1-4-0
+2775122,9/10/2016,FBS,LSU,Jacksonville St.,PASSING,Brandon,Harris,YDS,8
+2775123,9/10/2016,FBS,LSU,Jacksonville St.,PASSING,Brandon,Harris,TD,0
+2775124,9/10/2016,FBS,LSU,Jacksonville St.,PASSING,Brandon,Harris,LONG,8
+2775125,9/10/2016,FBS,LSU,Jacksonville St.,RECEIVING,DeSean,Smith,REC,1
+2775126,9/10/2016,FBS,LSU,Jacksonville St.,RECEIVING,DeSean,Smith,YDS,46
+2775127,9/10/2016,FBS,LSU,Jacksonville St.,RECEIVING,DeSean,Smith,TD,1
+2775128,9/10/2016,FBS,LSU,Jacksonville St.,RECEIVING,DeSean,Smith,LONG,46
+2775129,9/10/2016,FBS,LSU,Jacksonville St.,RECEIVING,Darrel,Williams,REC,3
+2775130,9/10/2016,FBS,LSU,Jacksonville St.,RECEIVING,Darrel,Williams,YDS,27
+2775131,9/10/2016,FBS,LSU,Jacksonville St.,RECEIVING,Darrel,Williams,TD,0
+2775132,9/10/2016,FBS,LSU,Jacksonville St.,RECEIVING,Darrel,Williams,LONG,12
+2775133,9/10/2016,FBS,LSU,Jacksonville St.,RECEIVING,Drake,Davis,REC,1
+2775134,9/10/2016,FBS,LSU,Jacksonville St.,RECEIVING,Drake,Davis,YDS,19
+2775135,9/10/2016,FBS,LSU,Jacksonville St.,RECEIVING,Drake,Davis,TD,0
+2775136,9/10/2016,FBS,LSU,Jacksonville St.,RECEIVING,Drake,Davis,LONG,19
+2775137,9/10/2016,FBS,LSU,Jacksonville St.,RECEIVING,Derrius,Guice,REC,1
+2775138,9/10/2016,FBS,LSU,Jacksonville St.,RECEIVING,Derrius,Guice,YDS,18
+2775139,9/10/2016,FBS,LSU,Jacksonville St.,RECEIVING,Derrius,Guice,TD,0
+2775140,9/10/2016,FBS,LSU,Jacksonville St.,RECEIVING,Derrius,Guice,LONG,18
+2775141,9/10/2016,FBS,LSU,Jacksonville St.,RECEIVING,D.J.,Chark,REC,1
+2775142,9/10/2016,FBS,LSU,Jacksonville St.,RECEIVING,D.J.,Chark,YDS,12
+2775143,9/10/2016,FBS,LSU,Jacksonville St.,RECEIVING,D.J.,Chark,TD,0
+2775144,9/10/2016,FBS,LSU,Jacksonville St.,RECEIVING,D.J.,Chark,LONG,12
+2775145,9/10/2016,FBS,LSU,Jacksonville St.,RECEIVING,Travin,Dural,REC,1
+2775146,9/10/2016,FBS,LSU,Jacksonville St.,RECEIVING,Travin,Dural,YDS,5
+2775147,9/10/2016,FBS,LSU,Jacksonville St.,RECEIVING,Travin,Dural,TD,0
+2775148,9/10/2016,FBS,LSU,Jacksonville St.,RECEIVING,Travin,Dural,LONG,5
+2775149,9/10/2016,FBS,LSU,Jacksonville St.,KICKING,Colby,Delahoussaye,FG-FGA,0/0
+2775150,9/10/2016,FBS,LSU,Jacksonville St.,KICKING,Colby,Delahoussaye,LONG,-
+2775151,9/10/2016,FBS,LSU,Jacksonville St.,KICKING,Colby,Delahoussaye,XP,4
+2775152,9/10/2016,FBS,LSU,Jacksonville St.,KICKING,Colby,Delahoussaye,PTS,4
+2775153,9/10/2016,FBS,LSU,Jacksonville St.,PUNTING,Josh,Growden,NO,4
+2775154,9/10/2016,FBS,LSU,Jacksonville St.,PUNTING,Josh,Growden,YDS,163
+2775155,9/10/2016,FBS,LSU,Jacksonville St.,PUNTING,Josh,Growden,AVG,40.8
+2775156,9/10/2016,FBS,LSU,Jacksonville St.,PUNTING,Josh,Growden,LONG,46
+2775157,9/10/2016,FBS,LSU,Jacksonville St.,PUNT RETURNS,Tre'Davious,White,NO,3
+2775158,9/10/2016,FBS,LSU,Jacksonville St.,PUNT RETURNS,Tre'Davious,White,YDS,59
+2775159,9/10/2016,FBS,LSU,Jacksonville St.,PUNT RETURNS,Tre'Davious,White,AVG,19.7
+2775160,9/10/2016,FBS,LSU,Jacksonville St.,PUNT RETURNS,Tre'Davious,White,LONG,60
+2775161,9/10/2016,FBS,LSU,Jacksonville St.,KICK RETURNS,Donte,Jackson,NO,1
+2775162,9/10/2016,FBS,LSU,Jacksonville St.,KICK RETURNS,Donte,Jackson,YDS,40
+2775163,9/10/2016,FBS,LSU,Jacksonville St.,KICK RETURNS,Donte,Jackson,AVG,40.0
+2775164,9/10/2016,FBS,LSU,Jacksonville St.,KICK RETURNS,Donte,Jackson,LONG,40
+2775165,9/10/2016,FBS,LSU,Jacksonville St.,KICK RETURNS,Nick,Brossette,NO,1
+2775166,9/10/2016,FBS,LSU,Jacksonville St.,KICK RETURNS,Nick,Brossette,YDS,14
+2775167,9/10/2016,FBS,LSU,Jacksonville St.,KICK RETURNS,Nick,Brossette,AVG,14.0
+2775168,9/10/2016,FBS,LSU,Jacksonville St.,KICK RETURNS,Nick,Brossette,LONG,14
+2775169,9/10/2016,FBS,LSU,Jacksonville St.,KICK RETURNS,Foster,Moreau,NO,1
+2775170,9/10/2016,FBS,LSU,Jacksonville St.,KICK RETURNS,Foster,Moreau,YDS,6
+2775171,9/10/2016,FBS,LSU,Jacksonville St.,KICK RETURNS,Foster,Moreau,AVG,6.0
+2775172,9/10/2016,FBS,LSU,Jacksonville St.,KICK RETURNS,Foster,Moreau,LONG,6
+2775173,9/10/2016,FBS,LSU,Jacksonville St.,KICK RETURNS,Drake,Davis,NO,1
+2775174,9/10/2016,FBS,LSU,Jacksonville St.,KICK RETURNS,Drake,Davis,YDS,4
+2775175,9/10/2016,FBS,LSU,Jacksonville St.,KICK RETURNS,Drake,Davis,AVG,4.0
+2775176,9/10/2016,FBS,LSU,Jacksonville St.,KICK RETURNS,Drake,Davis,LONG,4

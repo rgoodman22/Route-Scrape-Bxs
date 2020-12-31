@@ -1,0 +1,121 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2519001,11/27/2015,FBS,Missouri,Arkansas,RUSHING,Ish,Witter,ATT,6
+2519002,11/27/2015,FBS,Missouri,Arkansas,RUSHING,Ish,Witter,YDS,33
+2519003,11/27/2015,FBS,Missouri,Arkansas,RUSHING,Ish,Witter,TD,0
+2519004,11/27/2015,FBS,Missouri,Arkansas,RUSHING,Ish,Witter,LONG,17
+2519005,11/27/2015,FBS,Missouri,Arkansas,RUSHING,Tyler,Hunt,ATT,7
+2519006,11/27/2015,FBS,Missouri,Arkansas,RUSHING,Tyler,Hunt,YDS,24
+2519007,11/27/2015,FBS,Missouri,Arkansas,RUSHING,Tyler,Hunt,TD,0
+2519008,11/27/2015,FBS,Missouri,Arkansas,RUSHING,Tyler,Hunt,LONG,13
+2519009,11/27/2015,FBS,Missouri,Arkansas,RUSHING,Drew,Lock,ATT,7
+2519010,11/27/2015,FBS,Missouri,Arkansas,RUSHING,Drew,Lock,YDS,17
+2519011,11/27/2015,FBS,Missouri,Arkansas,RUSHING,Drew,Lock,TD,0
+2519012,11/27/2015,FBS,Missouri,Arkansas,RUSHING,Drew,Lock,LONG,13
+2519013,11/27/2015,FBS,Missouri,Arkansas,RUSHING,Russell,Hansbrough,ATT,5
+2519014,11/27/2015,FBS,Missouri,Arkansas,RUSHING,Russell,Hansbrough,YDS,14
+2519015,11/27/2015,FBS,Missouri,Arkansas,RUSHING,Russell,Hansbrough,TD,0
+2519016,11/27/2015,FBS,Missouri,Arkansas,RUSHING,Russell,Hansbrough,LONG,9
+2519017,11/27/2015,FBS,Missouri,Arkansas,PASSING,Drew,Lock,CP-ATT-INT,9-27-1
+2519018,11/27/2015,FBS,Missouri,Arkansas,PASSING,Drew,Lock,YDS,83
+2519019,11/27/2015,FBS,Missouri,Arkansas,PASSING,Drew,Lock,TD,0
+2519020,11/27/2015,FBS,Missouri,Arkansas,PASSING,Drew,Lock,LONG,35
+2519021,11/27/2015,FBS,Missouri,Arkansas,RECEIVING,Wesley,Leftwich,REC,3
+2519022,11/27/2015,FBS,Missouri,Arkansas,RECEIVING,Wesley,Leftwich,YDS,49
+2519023,11/27/2015,FBS,Missouri,Arkansas,RECEIVING,Wesley,Leftwich,TD,0
+2519024,11/27/2015,FBS,Missouri,Arkansas,RECEIVING,Wesley,Leftwich,LONG,35
+2519025,11/27/2015,FBS,Missouri,Arkansas,RECEIVING,J'Mon,Moore,REC,2
+2519026,11/27/2015,FBS,Missouri,Arkansas,RECEIVING,J'Mon,Moore,YDS,27
+2519027,11/27/2015,FBS,Missouri,Arkansas,RECEIVING,J'Mon,Moore,TD,0
+2519028,11/27/2015,FBS,Missouri,Arkansas,RECEIVING,J'Mon,Moore,LONG,15
+2519029,11/27/2015,FBS,Missouri,Arkansas,RECEIVING,Cam,Hilton,REC,1
+2519030,11/27/2015,FBS,Missouri,Arkansas,RECEIVING,Cam,Hilton,YDS,8
+2519031,11/27/2015,FBS,Missouri,Arkansas,RECEIVING,Cam,Hilton,TD,0
+2519032,11/27/2015,FBS,Missouri,Arkansas,RECEIVING,Cam,Hilton,LONG,8
+2519033,11/27/2015,FBS,Missouri,Arkansas,RECEIVING,Russell,Hansbrough,REC,3
+2519034,11/27/2015,FBS,Missouri,Arkansas,RECEIVING,Russell,Hansbrough,YDS,-1
+2519035,11/27/2015,FBS,Missouri,Arkansas,RECEIVING,Russell,Hansbrough,TD,0
+2519036,11/27/2015,FBS,Missouri,Arkansas,RECEIVING,Russell,Hansbrough,LONG,6
+2519037,11/27/2015,FBS,Missouri,Arkansas,KICKING,Andrew,Baggett,FG-FGA,1/1
+2519038,11/27/2015,FBS,Missouri,Arkansas,KICKING,Andrew,Baggett,LONG,35
+2519039,11/27/2015,FBS,Missouri,Arkansas,KICKING,Andrew,Baggett,XP,0
+2519040,11/27/2015,FBS,Missouri,Arkansas,KICKING,Andrew,Baggett,PTS,3
+2519041,11/27/2015,FBS,Missouri,Arkansas,PUNTING,Corey,Fatony,NO,8
+2519042,11/27/2015,FBS,Missouri,Arkansas,PUNTING,Corey,Fatony,YDS,322
+2519043,11/27/2015,FBS,Missouri,Arkansas,PUNTING,Corey,Fatony,AVG,40.2
+2519044,11/27/2015,FBS,Missouri,Arkansas,PUNTING,Corey,Fatony,LONG,51
+2519045,11/27/2015,FBS,Missouri,Arkansas,PUNT RETURNS,Aarion,Penton,NO,4
+2519046,11/27/2015,FBS,Missouri,Arkansas,PUNT RETURNS,Aarion,Penton,YDS,11
+2519047,11/27/2015,FBS,Missouri,Arkansas,PUNT RETURNS,Aarion,Penton,AVG,2.8
+2519048,11/27/2015,FBS,Missouri,Arkansas,PUNT RETURNS,Aarion,Penton,LONG,16
+2519049,11/27/2015,FBS,Missouri,Arkansas,KICK RETURNS,John,Gibson,NO,2
+2519050,11/27/2015,FBS,Missouri,Arkansas,KICK RETURNS,John,Gibson,YDS,31
+2519051,11/27/2015,FBS,Missouri,Arkansas,KICK RETURNS,John,Gibson,AVG,15.5
+2519052,11/27/2015,FBS,Missouri,Arkansas,KICK RETURNS,John,Gibson,LONG,16
+2519053,11/27/2015,FBS,Missouri,Arkansas,KICK RETURNS,Finis,StriblingIV,NO,1
+2519054,11/27/2015,FBS,Missouri,Arkansas,KICK RETURNS,Finis,StriblingIV,YDS,16
+2519055,11/27/2015,FBS,Missouri,Arkansas,KICK RETURNS,Finis,StriblingIV,AVG,16.0
+2519056,11/27/2015,FBS,Missouri,Arkansas,KICK RETURNS,Finis,StriblingIV,LONG,16
+2519057,11/27/2015,FBS,Missouri,Arkansas,KICK RETURNS,Tyler,Hunt,NO,1
+2519058,11/27/2015,FBS,Missouri,Arkansas,KICK RETURNS,Tyler,Hunt,YDS,6
+2519059,11/27/2015,FBS,Missouri,Arkansas,KICK RETURNS,Tyler,Hunt,AVG,6.0
+2519060,11/27/2015,FBS,Missouri,Arkansas,KICK RETURNS,Tyler,Hunt,LONG,6
+2519061,11/27/2015,FBS,Arkansas,Missouri,RUSHING,Alex,Collins,ATT,30
+2519062,11/27/2015,FBS,Arkansas,Missouri,RUSHING,Alex,Collins,YDS,130
+2519063,11/27/2015,FBS,Arkansas,Missouri,RUSHING,Alex,Collins,TD,3
+2519064,11/27/2015,FBS,Arkansas,Missouri,RUSHING,Alex,Collins,LONG,25
+2519065,11/27/2015,FBS,Arkansas,Missouri,RUSHING,Kody,Walker,ATT,14
+2519066,11/27/2015,FBS,Arkansas,Missouri,RUSHING,Kody,Walker,YDS,77
+2519067,11/27/2015,FBS,Arkansas,Missouri,RUSHING,Kody,Walker,TD,1
+2519068,11/27/2015,FBS,Arkansas,Missouri,RUSHING,Kody,Walker,LONG,22
+2519069,11/27/2015,FBS,Arkansas,Missouri,RUSHING,Jared,Cornelius,ATT,2
+2519070,11/27/2015,FBS,Arkansas,Missouri,RUSHING,Jared,Cornelius,YDS,5
+2519071,11/27/2015,FBS,Arkansas,Missouri,RUSHING,Jared,Cornelius,TD,0
+2519072,11/27/2015,FBS,Arkansas,Missouri,RUSHING,Jared,Cornelius,LONG,5
+2519073,11/27/2015,FBS,Arkansas,Missouri,RUSHING,Brandon,Allen,ATT,5
+2519074,11/27/2015,FBS,Arkansas,Missouri,RUSHING,Brandon,Allen,YDS,-2
+2519075,11/27/2015,FBS,Arkansas,Missouri,RUSHING,Brandon,Allen,TD,0
+2519076,11/27/2015,FBS,Arkansas,Missouri,RUSHING,Brandon,Allen,LONG,6
+2519077,11/27/2015,FBS,Arkansas,Missouri,RUSHING,,Team,ATT,1
+2519078,11/27/2015,FBS,Arkansas,Missouri,RUSHING,,Team,YDS,-2
+2519079,11/27/2015,FBS,Arkansas,Missouri,RUSHING,,Team,TD,0
+2519080,11/27/2015,FBS,Arkansas,Missouri,RUSHING,,Team,LONG,-2
+2519081,11/27/2015,FBS,Arkansas,Missouri,PASSING,Brandon,Allen,CP-ATT-INT,11-17-1
+2519082,11/27/2015,FBS,Arkansas,Missouri,PASSING,Brandon,Allen,YDS,102
+2519083,11/27/2015,FBS,Arkansas,Missouri,PASSING,Brandon,Allen,TD,0
+2519084,11/27/2015,FBS,Arkansas,Missouri,PASSING,Brandon,Allen,LONG,18
+2519085,11/27/2015,FBS,Arkansas,Missouri,RECEIVING,Dominique,Reed,REC,4
+2519086,11/27/2015,FBS,Arkansas,Missouri,RECEIVING,Dominique,Reed,YDS,37
+2519087,11/27/2015,FBS,Arkansas,Missouri,RECEIVING,Dominique,Reed,TD,0
+2519088,11/27/2015,FBS,Arkansas,Missouri,RECEIVING,Dominique,Reed,LONG,15
+2519089,11/27/2015,FBS,Arkansas,Missouri,RECEIVING,Hunter,Henry,REC,2
+2519090,11/27/2015,FBS,Arkansas,Missouri,RECEIVING,Hunter,Henry,YDS,28
+2519091,11/27/2015,FBS,Arkansas,Missouri,RECEIVING,Hunter,Henry,TD,0
+2519092,11/27/2015,FBS,Arkansas,Missouri,RECEIVING,Hunter,Henry,LONG,18
+2519093,11/27/2015,FBS,Arkansas,Missouri,RECEIVING,Drew,Morgan,REC,3
+2519094,11/27/2015,FBS,Arkansas,Missouri,RECEIVING,Drew,Morgan,YDS,28
+2519095,11/27/2015,FBS,Arkansas,Missouri,RECEIVING,Drew,Morgan,TD,0
+2519096,11/27/2015,FBS,Arkansas,Missouri,RECEIVING,Drew,Morgan,LONG,15
+2519097,11/27/2015,FBS,Arkansas,Missouri,RECEIVING,Damon,Mitchell,REC,1
+2519098,11/27/2015,FBS,Arkansas,Missouri,RECEIVING,Damon,Mitchell,YDS,11
+2519099,11/27/2015,FBS,Arkansas,Missouri,RECEIVING,Damon,Mitchell,TD,0
+2519100,11/27/2015,FBS,Arkansas,Missouri,RECEIVING,Damon,Mitchell,LONG,11
+2519101,11/27/2015,FBS,Arkansas,Missouri,RECEIVING,Alex,Collins,REC,1
+2519102,11/27/2015,FBS,Arkansas,Missouri,RECEIVING,Alex,Collins,YDS,-2
+2519103,11/27/2015,FBS,Arkansas,Missouri,RECEIVING,Alex,Collins,TD,0
+2519104,11/27/2015,FBS,Arkansas,Missouri,RECEIVING,Alex,Collins,LONG,-2
+2519105,11/27/2015,FBS,Arkansas,Missouri,KICKING,Cole,Hedlund,FG-FGA,0/0
+2519106,11/27/2015,FBS,Arkansas,Missouri,KICKING,Cole,Hedlund,LONG,-
+2519107,11/27/2015,FBS,Arkansas,Missouri,KICKING,Cole,Hedlund,XP,4
+2519108,11/27/2015,FBS,Arkansas,Missouri,KICKING,Cole,Hedlund,PTS,4
+2519109,11/27/2015,FBS,Arkansas,Missouri,PUNTING,Toby,Baker,NO,6
+2519110,11/27/2015,FBS,Arkansas,Missouri,PUNTING,Toby,Baker,YDS,256
+2519111,11/27/2015,FBS,Arkansas,Missouri,PUNTING,Toby,Baker,AVG,42.7
+2519112,11/27/2015,FBS,Arkansas,Missouri,PUNTING,Toby,Baker,LONG,47
+2519113,11/27/2015,FBS,Arkansas,Missouri,PUNT RETURNS,Jared,Cornelius,NO,1
+2519114,11/27/2015,FBS,Arkansas,Missouri,PUNT RETURNS,Jared,Cornelius,YDS,5
+2519115,11/27/2015,FBS,Arkansas,Missouri,PUNT RETURNS,Jared,Cornelius,AVG,5.0
+2519116,11/27/2015,FBS,Arkansas,Missouri,PUNT RETURNS,Jared,Cornelius,LONG,5
+2519117,11/27/2015,FBS,Arkansas,Missouri,KICK RETURNS,Eric,Hawkins,NO,2
+2519118,11/27/2015,FBS,Arkansas,Missouri,KICK RETURNS,Eric,Hawkins,YDS,42
+2519119,11/27/2015,FBS,Arkansas,Missouri,KICK RETURNS,Eric,Hawkins,AVG,21.0
+2519120,11/27/2015,FBS,Arkansas,Missouri,KICK RETURNS,Eric,Hawkins,LONG,23

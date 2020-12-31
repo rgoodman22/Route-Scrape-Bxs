@@ -1,0 +1,149 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+4388001,1/1/2018,FBS,Georgia,Oklahoma,RUSHING,Sony,Michel,ATT,11
+4388002,1/1/2018,FBS,Georgia,Oklahoma,RUSHING,Sony,Michel,YDS,181
+4388003,1/1/2018,FBS,Georgia,Oklahoma,RUSHING,Sony,Michel,TD,3
+4388004,1/1/2018,FBS,Georgia,Oklahoma,RUSHING,Sony,Michel,LONG,75
+4388005,1/1/2018,FBS,Georgia,Oklahoma,RUSHING,Nick,Chubb,ATT,14
+4388006,1/1/2018,FBS,Georgia,Oklahoma,RUSHING,Nick,Chubb,YDS,145
+4388007,1/1/2018,FBS,Georgia,Oklahoma,RUSHING,Nick,Chubb,TD,2
+4388008,1/1/2018,FBS,Georgia,Oklahoma,RUSHING,Nick,Chubb,LONG,50
+4388009,1/1/2018,FBS,Georgia,Oklahoma,RUSHING,D'Andre,Swift,ATT,4
+4388010,1/1/2018,FBS,Georgia,Oklahoma,RUSHING,D'Andre,Swift,YDS,6
+4388011,1/1/2018,FBS,Georgia,Oklahoma,RUSHING,D'Andre,Swift,TD,0
+4388012,1/1/2018,FBS,Georgia,Oklahoma,RUSHING,D'Andre,Swift,LONG,3
+4388013,1/1/2018,FBS,Georgia,Oklahoma,RUSHING,,Team,ATT,1
+4388014,1/1/2018,FBS,Georgia,Oklahoma,RUSHING,,Team,YDS,-2
+4388015,1/1/2018,FBS,Georgia,Oklahoma,RUSHING,,Team,TD,0
+4388016,1/1/2018,FBS,Georgia,Oklahoma,RUSHING,,Team,LONG,-2
+4388017,1/1/2018,FBS,Georgia,Oklahoma,RUSHING,Jake,Fromm,ATT,4
+4388018,1/1/2018,FBS,Georgia,Oklahoma,RUSHING,Jake,Fromm,YDS,-13
+4388019,1/1/2018,FBS,Georgia,Oklahoma,RUSHING,Jake,Fromm,TD,0
+4388020,1/1/2018,FBS,Georgia,Oklahoma,RUSHING,Jake,Fromm,LONG,5
+4388021,1/1/2018,FBS,Georgia,Oklahoma,PASSING,Jake,Fromm,CP-ATT-INT,20-29-0
+4388022,1/1/2018,FBS,Georgia,Oklahoma,PASSING,Jake,Fromm,YDS,210
+4388023,1/1/2018,FBS,Georgia,Oklahoma,PASSING,Jake,Fromm,TD,2
+4388024,1/1/2018,FBS,Georgia,Oklahoma,PASSING,Jake,Fromm,LONG,21
+4388025,1/1/2018,FBS,Georgia,Oklahoma,RECEIVING,Javon,Wims,REC,6
+4388026,1/1/2018,FBS,Georgia,Oklahoma,RECEIVING,Javon,Wims,YDS,73
+4388027,1/1/2018,FBS,Georgia,Oklahoma,RECEIVING,Javon,Wims,TD,1
+4388028,1/1/2018,FBS,Georgia,Oklahoma,RECEIVING,Javon,Wims,LONG,21
+4388029,1/1/2018,FBS,Georgia,Oklahoma,RECEIVING,Terry,Godwin,REC,5
+4388030,1/1/2018,FBS,Georgia,Oklahoma,RECEIVING,Terry,Godwin,YDS,51
+4388031,1/1/2018,FBS,Georgia,Oklahoma,RECEIVING,Terry,Godwin,TD,0
+4388032,1/1/2018,FBS,Georgia,Oklahoma,RECEIVING,Terry,Godwin,LONG,16
+4388033,1/1/2018,FBS,Georgia,Oklahoma,RECEIVING,Sony,Michel,REC,4
+4388034,1/1/2018,FBS,Georgia,Oklahoma,RECEIVING,Sony,Michel,YDS,41
+4388035,1/1/2018,FBS,Georgia,Oklahoma,RECEIVING,Sony,Michel,TD,1
+4388036,1/1/2018,FBS,Georgia,Oklahoma,RECEIVING,Sony,Michel,LONG,17
+4388037,1/1/2018,FBS,Georgia,Oklahoma,RECEIVING,Charlie,Woerner,REC,3
+4388038,1/1/2018,FBS,Georgia,Oklahoma,RECEIVING,Charlie,Woerner,YDS,21
+4388039,1/1/2018,FBS,Georgia,Oklahoma,RECEIVING,Charlie,Woerner,TD,0
+4388040,1/1/2018,FBS,Georgia,Oklahoma,RECEIVING,Charlie,Woerner,LONG,11
+4388041,1/1/2018,FBS,Georgia,Oklahoma,RECEIVING,Mecole,Hardman,REC,1
+4388042,1/1/2018,FBS,Georgia,Oklahoma,RECEIVING,Mecole,Hardman,YDS,15
+4388043,1/1/2018,FBS,Georgia,Oklahoma,RECEIVING,Mecole,Hardman,TD,0
+4388044,1/1/2018,FBS,Georgia,Oklahoma,RECEIVING,Mecole,Hardman,LONG,15
+4388045,1/1/2018,FBS,Georgia,Oklahoma,RECEIVING,Tyler,Simmons,REC,1
+4388046,1/1/2018,FBS,Georgia,Oklahoma,RECEIVING,Tyler,Simmons,YDS,9
+4388047,1/1/2018,FBS,Georgia,Oklahoma,RECEIVING,Tyler,Simmons,TD,0
+4388048,1/1/2018,FBS,Georgia,Oklahoma,RECEIVING,Tyler,Simmons,LONG,9
+4388049,1/1/2018,FBS,Georgia,Oklahoma,KICKING,Rodrigo,Blankenship,FG-FGA,2/3
+4388050,1/1/2018,FBS,Georgia,Oklahoma,KICKING,Rodrigo,Blankenship,LONG,55
+4388051,1/1/2018,FBS,Georgia,Oklahoma,KICKING,Rodrigo,Blankenship,XP,6
+4388052,1/1/2018,FBS,Georgia,Oklahoma,KICKING,Rodrigo,Blankenship,PTS,12
+4388053,1/1/2018,FBS,Georgia,Oklahoma,PUNTING,Cameron,Nizialek,NO,6
+4388054,1/1/2018,FBS,Georgia,Oklahoma,PUNTING,Cameron,Nizialek,YDS,288
+4388055,1/1/2018,FBS,Georgia,Oklahoma,PUNTING,Cameron,Nizialek,AVG,48.0
+4388056,1/1/2018,FBS,Georgia,Oklahoma,PUNTING,Cameron,Nizialek,LONG,61
+4388057,1/1/2018,FBS,Georgia,Oklahoma,PUNT RETURNS,Mecole,Hardman,NO,1
+4388058,1/1/2018,FBS,Georgia,Oklahoma,PUNT RETURNS,Mecole,Hardman,YDS,21
+4388059,1/1/2018,FBS,Georgia,Oklahoma,PUNT RETURNS,Mecole,Hardman,AVG,21.0
+4388060,1/1/2018,FBS,Georgia,Oklahoma,PUNT RETURNS,Mecole,Hardman,LONG,21
+4388061,1/1/2018,FBS,Georgia,Oklahoma,KICK RETURNS,Mecole,Hardman,NO,2
+4388062,1/1/2018,FBS,Georgia,Oklahoma,KICK RETURNS,Mecole,Hardman,YDS,55
+4388063,1/1/2018,FBS,Georgia,Oklahoma,KICK RETURNS,Mecole,Hardman,AVG,27.5
+4388064,1/1/2018,FBS,Georgia,Oklahoma,KICK RETURNS,Mecole,Hardman,LONG,30
+4388065,1/1/2018,FBS,Oklahoma,Georgia,RUSHING,Rodney,Anderson,ATT,26
+4388066,1/1/2018,FBS,Oklahoma,Georgia,RUSHING,Rodney,Anderson,YDS,201
+4388067,1/1/2018,FBS,Oklahoma,Georgia,RUSHING,Rodney,Anderson,TD,2
+4388068,1/1/2018,FBS,Oklahoma,Georgia,RUSHING,Rodney,Anderson,LONG,45
+4388069,1/1/2018,FBS,Oklahoma,Georgia,RUSHING,Trey,Sermon,ATT,2
+4388070,1/1/2018,FBS,Oklahoma,Georgia,RUSHING,Trey,Sermon,YDS,34
+4388071,1/1/2018,FBS,Oklahoma,Georgia,RUSHING,Trey,Sermon,TD,0
+4388072,1/1/2018,FBS,Oklahoma,Georgia,RUSHING,Trey,Sermon,LONG,31
+4388073,1/1/2018,FBS,Oklahoma,Georgia,RUSHING,Jeff,Badet,ATT,1
+4388074,1/1/2018,FBS,Oklahoma,Georgia,RUSHING,Jeff,Badet,YDS,9
+4388075,1/1/2018,FBS,Oklahoma,Georgia,RUSHING,Jeff,Badet,TD,0
+4388076,1/1/2018,FBS,Oklahoma,Georgia,RUSHING,Jeff,Badet,LONG,9
+4388077,1/1/2018,FBS,Oklahoma,Georgia,RUSHING,Baker,Mayfield,ATT,12
+4388078,1/1/2018,FBS,Oklahoma,Georgia,RUSHING,Baker,Mayfield,YDS,1
+4388079,1/1/2018,FBS,Oklahoma,Georgia,RUSHING,Baker,Mayfield,TD,0
+4388080,1/1/2018,FBS,Oklahoma,Georgia,RUSHING,Baker,Mayfield,LONG,22
+4388081,1/1/2018,FBS,Oklahoma,Georgia,RUSHING,Jordan,Smallwood,ATT,1
+4388082,1/1/2018,FBS,Oklahoma,Georgia,RUSHING,Jordan,Smallwood,YDS,1
+4388083,1/1/2018,FBS,Oklahoma,Georgia,RUSHING,Jordan,Smallwood,TD,0
+4388084,1/1/2018,FBS,Oklahoma,Georgia,RUSHING,Jordan,Smallwood,LONG,1
+4388085,1/1/2018,FBS,Oklahoma,Georgia,RUSHING,Marquise,Brown,ATT,1
+4388086,1/1/2018,FBS,Oklahoma,Georgia,RUSHING,Marquise,Brown,YDS,0
+4388087,1/1/2018,FBS,Oklahoma,Georgia,RUSHING,Marquise,Brown,TD,0
+4388088,1/1/2018,FBS,Oklahoma,Georgia,RUSHING,Marquise,Brown,LONG,0
+4388089,1/1/2018,FBS,Oklahoma,Georgia,RUSHING,Kyler,Murray,ATT,1
+4388090,1/1/2018,FBS,Oklahoma,Georgia,RUSHING,Kyler,Murray,YDS,0
+4388091,1/1/2018,FBS,Oklahoma,Georgia,RUSHING,Kyler,Murray,TD,0
+4388092,1/1/2018,FBS,Oklahoma,Georgia,RUSHING,Kyler,Murray,LONG,0
+4388093,1/1/2018,FBS,Oklahoma,Georgia,RUSHING,Dimitri,Flowers,ATT,1
+4388094,1/1/2018,FBS,Oklahoma,Georgia,RUSHING,Dimitri,Flowers,YDS,-4
+4388095,1/1/2018,FBS,Oklahoma,Georgia,RUSHING,Dimitri,Flowers,TD,0
+4388096,1/1/2018,FBS,Oklahoma,Georgia,RUSHING,Dimitri,Flowers,LONG,-4
+4388097,1/1/2018,FBS,Oklahoma,Georgia,PASSING,Baker,Mayfield,CP-ATT-INT,23-35-1
+4388098,1/1/2018,FBS,Oklahoma,Georgia,PASSING,Baker,Mayfield,YDS,287
+4388099,1/1/2018,FBS,Oklahoma,Georgia,PASSING,Baker,Mayfield,TD,2
+4388100,1/1/2018,FBS,Oklahoma,Georgia,PASSING,Baker,Mayfield,LONG,45
+4388101,1/1/2018,FBS,Oklahoma,Georgia,PASSING,CeeDee,Lamb,CP-ATT-INT,1-1-0
+4388102,1/1/2018,FBS,Oklahoma,Georgia,PASSING,CeeDee,Lamb,YDS,2
+4388103,1/1/2018,FBS,Oklahoma,Georgia,PASSING,CeeDee,Lamb,TD,1
+4388104,1/1/2018,FBS,Oklahoma,Georgia,PASSING,CeeDee,Lamb,LONG,2
+4388105,1/1/2018,FBS,Oklahoma,Georgia,RECEIVING,Marquise,Brown,REC,8
+4388106,1/1/2018,FBS,Oklahoma,Georgia,RECEIVING,Marquise,Brown,YDS,114
+4388107,1/1/2018,FBS,Oklahoma,Georgia,RECEIVING,Marquise,Brown,TD,1
+4388108,1/1/2018,FBS,Oklahoma,Georgia,RECEIVING,Marquise,Brown,LONG,45
+4388109,1/1/2018,FBS,Oklahoma,Georgia,RECEIVING,CeeDee,Lamb,REC,6
+4388110,1/1/2018,FBS,Oklahoma,Georgia,RECEIVING,CeeDee,Lamb,YDS,66
+4388111,1/1/2018,FBS,Oklahoma,Georgia,RECEIVING,CeeDee,Lamb,TD,0
+4388112,1/1/2018,FBS,Oklahoma,Georgia,RECEIVING,CeeDee,Lamb,LONG,36
+4388113,1/1/2018,FBS,Oklahoma,Georgia,RECEIVING,Dimitri,Flowers,REC,3
+4388114,1/1/2018,FBS,Oklahoma,Georgia,RECEIVING,Dimitri,Flowers,YDS,53
+4388115,1/1/2018,FBS,Oklahoma,Georgia,RECEIVING,Dimitri,Flowers,TD,1
+4388116,1/1/2018,FBS,Oklahoma,Georgia,RECEIVING,Dimitri,Flowers,LONG,26
+4388117,1/1/2018,FBS,Oklahoma,Georgia,RECEIVING,Mark,Andrews,REC,4
+4388118,1/1/2018,FBS,Oklahoma,Georgia,RECEIVING,Mark,Andrews,YDS,52
+4388119,1/1/2018,FBS,Oklahoma,Georgia,RECEIVING,Mark,Andrews,TD,0
+4388120,1/1/2018,FBS,Oklahoma,Georgia,RECEIVING,Mark,Andrews,LONG,29
+4388121,1/1/2018,FBS,Oklahoma,Georgia,RECEIVING,Jeff,Badet,REC,1
+4388122,1/1/2018,FBS,Oklahoma,Georgia,RECEIVING,Jeff,Badet,YDS,4
+4388123,1/1/2018,FBS,Oklahoma,Georgia,RECEIVING,Jeff,Badet,TD,0
+4388124,1/1/2018,FBS,Oklahoma,Georgia,RECEIVING,Jeff,Badet,LONG,4
+4388125,1/1/2018,FBS,Oklahoma,Georgia,RECEIVING,Baker,Mayfield,REC,1
+4388126,1/1/2018,FBS,Oklahoma,Georgia,RECEIVING,Baker,Mayfield,YDS,2
+4388127,1/1/2018,FBS,Oklahoma,Georgia,RECEIVING,Baker,Mayfield,TD,1
+4388128,1/1/2018,FBS,Oklahoma,Georgia,RECEIVING,Baker,Mayfield,LONG,2
+4388129,1/1/2018,FBS,Oklahoma,Georgia,RECEIVING,Rodney,Anderson,REC,1
+4388130,1/1/2018,FBS,Oklahoma,Georgia,RECEIVING,Rodney,Anderson,YDS,-2
+4388131,1/1/2018,FBS,Oklahoma,Georgia,RECEIVING,Rodney,Anderson,TD,0
+4388132,1/1/2018,FBS,Oklahoma,Georgia,RECEIVING,Rodney,Anderson,LONG,0
+4388133,1/1/2018,FBS,Oklahoma,Georgia,KICKING,Austin,Seibert,FG-FGA,2/3
+4388134,1/1/2018,FBS,Oklahoma,Georgia,KICKING,Austin,Seibert,LONG,38
+4388135,1/1/2018,FBS,Oklahoma,Georgia,KICKING,Austin,Seibert,XP,6
+4388136,1/1/2018,FBS,Oklahoma,Georgia,KICKING,Austin,Seibert,PTS,12
+4388137,1/1/2018,FBS,Oklahoma,Georgia,PUNTING,Austin,Seibert,NO,7
+4388138,1/1/2018,FBS,Oklahoma,Georgia,PUNTING,Austin,Seibert,YDS,288
+4388139,1/1/2018,FBS,Oklahoma,Georgia,PUNTING,Austin,Seibert,AVG,41.1
+4388140,1/1/2018,FBS,Oklahoma,Georgia,PUNTING,Austin,Seibert,LONG,57
+4388141,1/1/2018,FBS,Oklahoma,Georgia,PUNT RETURNS,CeeDee,Lamb,NO,1
+4388142,1/1/2018,FBS,Oklahoma,Georgia,PUNT RETURNS,CeeDee,Lamb,YDS,4
+4388143,1/1/2018,FBS,Oklahoma,Georgia,PUNT RETURNS,CeeDee,Lamb,AVG,4.0
+4388144,1/1/2018,FBS,Oklahoma,Georgia,PUNT RETURNS,CeeDee,Lamb,LONG,4
+4388145,1/1/2018,FBS,Oklahoma,Georgia,KICK RETURNS,Jeff,Badet,NO,3
+4388146,1/1/2018,FBS,Oklahoma,Georgia,KICK RETURNS,Jeff,Badet,YDS,44
+4388147,1/1/2018,FBS,Oklahoma,Georgia,KICK RETURNS,Jeff,Badet,AVG,14.7
+4388148,1/1/2018,FBS,Oklahoma,Georgia,KICK RETURNS,Jeff,Badet,LONG,16

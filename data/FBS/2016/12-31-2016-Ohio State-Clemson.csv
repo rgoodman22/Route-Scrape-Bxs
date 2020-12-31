@@ -1,0 +1,169 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3501001,12/31/2016,FBS,Ohio State,Clemson,RUSHING,Curtis,Samuel,ATT,6
+3501002,12/31/2016,FBS,Ohio State,Clemson,RUSHING,Curtis,Samuel,YDS,67
+3501003,12/31/2016,FBS,Ohio State,Clemson,RUSHING,Curtis,Samuel,TD,0
+3501004,12/31/2016,FBS,Ohio State,Clemson,RUSHING,Curtis,Samuel,LONG,64
+3501005,12/31/2016,FBS,Ohio State,Clemson,RUSHING,Mike,Weber,ATT,5
+3501006,12/31/2016,FBS,Ohio State,Clemson,RUSHING,Mike,Weber,YDS,24
+3501007,12/31/2016,FBS,Ohio State,Clemson,RUSHING,Mike,Weber,TD,0
+3501008,12/31/2016,FBS,Ohio State,Clemson,RUSHING,Mike,Weber,LONG,8
+3501009,12/31/2016,FBS,Ohio State,Clemson,RUSHING,AJ,Alexander,ATT,0
+3501010,12/31/2016,FBS,Ohio State,Clemson,RUSHING,AJ,Alexander,YDS,0
+3501011,12/31/2016,FBS,Ohio State,Clemson,RUSHING,AJ,Alexander,TD,0
+3501012,12/31/2016,FBS,Ohio State,Clemson,RUSHING,AJ,Alexander,LONG,0
+3501013,12/31/2016,FBS,Ohio State,Clemson,RUSHING,,Team,ATT,1
+3501014,12/31/2016,FBS,Ohio State,Clemson,RUSHING,,Team,YDS,-1
+3501015,12/31/2016,FBS,Ohio State,Clemson,RUSHING,,Team,TD,0
+3501016,12/31/2016,FBS,Ohio State,Clemson,RUSHING,,Team,LONG,-1
+3501017,12/31/2016,FBS,Ohio State,Clemson,RUSHING,JT,Barrett,ATT,11
+3501018,12/31/2016,FBS,Ohio State,Clemson,RUSHING,JT,Barrett,YDS,-2
+3501019,12/31/2016,FBS,Ohio State,Clemson,RUSHING,JT,Barrett,TD,0
+3501020,12/31/2016,FBS,Ohio State,Clemson,RUSHING,JT,Barrett,LONG,11
+3501021,12/31/2016,FBS,Ohio State,Clemson,PASSING,JT,Barrett,CP-ATT-INT,19-33-2
+3501022,12/31/2016,FBS,Ohio State,Clemson,PASSING,JT,Barrett,YDS,127
+3501023,12/31/2016,FBS,Ohio State,Clemson,PASSING,JT,Barrett,TD,0
+3501024,12/31/2016,FBS,Ohio State,Clemson,PASSING,JT,Barrett,LONG,21
+3501025,12/31/2016,FBS,Ohio State,Clemson,RECEIVING,Curtis,Samuel,REC,9
+3501026,12/31/2016,FBS,Ohio State,Clemson,RECEIVING,Curtis,Samuel,YDS,43
+3501027,12/31/2016,FBS,Ohio State,Clemson,RECEIVING,Curtis,Samuel,TD,0
+3501028,12/31/2016,FBS,Ohio State,Clemson,RECEIVING,Curtis,Samuel,LONG,16
+3501029,12/31/2016,FBS,Ohio State,Clemson,RECEIVING,Corey,Smith,REC,2
+3501030,12/31/2016,FBS,Ohio State,Clemson,RECEIVING,Corey,Smith,YDS,27
+3501031,12/31/2016,FBS,Ohio State,Clemson,RECEIVING,Corey,Smith,TD,0
+3501032,12/31/2016,FBS,Ohio State,Clemson,RECEIVING,Corey,Smith,LONG,18
+3501033,12/31/2016,FBS,Ohio State,Clemson,RECEIVING,Binjimen,Victor,REC,1
+3501034,12/31/2016,FBS,Ohio State,Clemson,RECEIVING,Binjimen,Victor,YDS,21
+3501035,12/31/2016,FBS,Ohio State,Clemson,RECEIVING,Binjimen,Victor,TD,0
+3501036,12/31/2016,FBS,Ohio State,Clemson,RECEIVING,Binjimen,Victor,LONG,21
+3501037,12/31/2016,FBS,Ohio State,Clemson,RECEIVING,Noah,Brown,REC,2
+3501038,12/31/2016,FBS,Ohio State,Clemson,RECEIVING,Noah,Brown,YDS,17
+3501039,12/31/2016,FBS,Ohio State,Clemson,RECEIVING,Noah,Brown,TD,0
+3501040,12/31/2016,FBS,Ohio State,Clemson,RECEIVING,Noah,Brown,LONG,9
+3501041,12/31/2016,FBS,Ohio State,Clemson,RECEIVING,KJ,Hill,REC,1
+3501042,12/31/2016,FBS,Ohio State,Clemson,RECEIVING,KJ,Hill,YDS,8
+3501043,12/31/2016,FBS,Ohio State,Clemson,RECEIVING,KJ,Hill,TD,0
+3501044,12/31/2016,FBS,Ohio State,Clemson,RECEIVING,KJ,Hill,LONG,8
+3501045,12/31/2016,FBS,Ohio State,Clemson,RECEIVING,Terry,McLaurin,REC,1
+3501046,12/31/2016,FBS,Ohio State,Clemson,RECEIVING,Terry,McLaurin,YDS,7
+3501047,12/31/2016,FBS,Ohio State,Clemson,RECEIVING,Terry,McLaurin,TD,0
+3501048,12/31/2016,FBS,Ohio State,Clemson,RECEIVING,Terry,McLaurin,LONG,7
+3501049,12/31/2016,FBS,Ohio State,Clemson,RECEIVING,Mike,Weber,REC,3
+3501050,12/31/2016,FBS,Ohio State,Clemson,RECEIVING,Mike,Weber,YDS,4
+3501051,12/31/2016,FBS,Ohio State,Clemson,RECEIVING,Mike,Weber,TD,0
+3501052,12/31/2016,FBS,Ohio State,Clemson,RECEIVING,Mike,Weber,LONG,5
+3501053,12/31/2016,FBS,Ohio State,Clemson,KICKING,Tyler,Durbin,FG-FGA,0/2
+3501054,12/31/2016,FBS,Ohio State,Clemson,KICKING,Tyler,Durbin,LONG,0
+3501055,12/31/2016,FBS,Ohio State,Clemson,KICKING,Tyler,Durbin,XP,0
+3501056,12/31/2016,FBS,Ohio State,Clemson,KICKING,Tyler,Durbin,PTS,0
+3501057,12/31/2016,FBS,Ohio State,Clemson,PUNTING,Cameron,Johnston,NO,7
+3501058,12/31/2016,FBS,Ohio State,Clemson,PUNTING,Cameron,Johnston,YDS,348
+3501059,12/31/2016,FBS,Ohio State,Clemson,PUNTING,Cameron,Johnston,AVG,49.7
+3501060,12/31/2016,FBS,Ohio State,Clemson,PUNTING,Cameron,Johnston,LONG,61
+3501061,12/31/2016,FBS,Ohio State,Clemson,PUNT RETURNS,Curtis,Samuel,NO,1
+3501062,12/31/2016,FBS,Ohio State,Clemson,PUNT RETURNS,Curtis,Samuel,YDS,-1
+3501063,12/31/2016,FBS,Ohio State,Clemson,PUNT RETURNS,Curtis,Samuel,AVG,-
+3501064,12/31/2016,FBS,Ohio State,Clemson,PUNT RETURNS,Curtis,Samuel,LONG,0
+3501065,12/31/2016,FBS,Ohio State,Clemson,KICK RETURNS,Parris,Campbell,NO,3
+3501066,12/31/2016,FBS,Ohio State,Clemson,KICK RETURNS,Parris,Campbell,YDS,105
+3501067,12/31/2016,FBS,Ohio State,Clemson,KICK RETURNS,Parris,Campbell,AVG,35.0
+3501068,12/31/2016,FBS,Ohio State,Clemson,KICK RETURNS,Parris,Campbell,LONG,54
+3501069,12/31/2016,FBS,Ohio State,Clemson,KICK RETURNS,AJ,Alexander,NO,1
+3501070,12/31/2016,FBS,Ohio State,Clemson,KICK RETURNS,AJ,Alexander,YDS,17
+3501071,12/31/2016,FBS,Ohio State,Clemson,KICK RETURNS,AJ,Alexander,AVG,17.0
+3501072,12/31/2016,FBS,Ohio State,Clemson,KICK RETURNS,AJ,Alexander,LONG,17
+3501073,12/31/2016,FBS,Ohio State,Clemson,KICK RETURNS,KJ,Hill,NO,1
+3501074,12/31/2016,FBS,Ohio State,Clemson,KICK RETURNS,KJ,Hill,YDS,6
+3501075,12/31/2016,FBS,Ohio State,Clemson,KICK RETURNS,KJ,Hill,AVG,6.0
+3501076,12/31/2016,FBS,Ohio State,Clemson,KICK RETURNS,KJ,Hill,LONG,6
+3501077,12/31/2016,FBS,Clemson,Ohio State,RUSHING,Wayne,Gallman,ATT,18
+3501078,12/31/2016,FBS,Clemson,Ohio State,RUSHING,Wayne,Gallman,YDS,85
+3501079,12/31/2016,FBS,Clemson,Ohio State,RUSHING,Wayne,Gallman,TD,1
+3501080,12/31/2016,FBS,Clemson,Ohio State,RUSHING,Wayne,Gallman,LONG,20
+3501081,12/31/2016,FBS,Clemson,Ohio State,RUSHING,Deshaun,Watson,ATT,15
+3501082,12/31/2016,FBS,Clemson,Ohio State,RUSHING,Deshaun,Watson,YDS,57
+3501083,12/31/2016,FBS,Clemson,Ohio State,RUSHING,Deshaun,Watson,TD,2
+3501084,12/31/2016,FBS,Clemson,Ohio State,RUSHING,Deshaun,Watson,LONG,33
+3501085,12/31/2016,FBS,Clemson,Ohio State,RUSHING,Nick,Schuessler,ATT,1
+3501086,12/31/2016,FBS,Clemson,Ohio State,RUSHING,Nick,Schuessler,YDS,19
+3501087,12/31/2016,FBS,Clemson,Ohio State,RUSHING,Nick,Schuessler,TD,0
+3501088,12/31/2016,FBS,Clemson,Ohio State,RUSHING,Nick,Schuessler,LONG,19
+3501089,12/31/2016,FBS,Clemson,Ohio State,RUSHING,Adam,Choice,ATT,4
+3501090,12/31/2016,FBS,Clemson,Ohio State,RUSHING,Adam,Choice,YDS,16
+3501091,12/31/2016,FBS,Clemson,Ohio State,RUSHING,Adam,Choice,TD,0
+3501092,12/31/2016,FBS,Clemson,Ohio State,RUSHING,Adam,Choice,LONG,13
+3501093,12/31/2016,FBS,Clemson,Ohio State,RUSHING,Tavien,Feaster,ATT,3
+3501094,12/31/2016,FBS,Clemson,Ohio State,RUSHING,Tavien,Feaster,YDS,12
+3501095,12/31/2016,FBS,Clemson,Ohio State,RUSHING,Tavien,Feaster,TD,0
+3501096,12/31/2016,FBS,Clemson,Ohio State,RUSHING,Tavien,Feaster,LONG,11
+3501097,12/31/2016,FBS,Clemson,Ohio State,RUSHING,Ray,RayMcCloud,ATT,2
+3501098,12/31/2016,FBS,Clemson,Ohio State,RUSHING,Ray,RayMcCloud,YDS,8
+3501099,12/31/2016,FBS,Clemson,Ohio State,RUSHING,Ray,RayMcCloud,TD,0
+3501100,12/31/2016,FBS,Clemson,Ohio State,RUSHING,Ray,RayMcCloud,LONG,6
+3501101,12/31/2016,FBS,Clemson,Ohio State,RUSHING,Artavis,Scott,ATT,3
+3501102,12/31/2016,FBS,Clemson,Ohio State,RUSHING,Artavis,Scott,YDS,8
+3501103,12/31/2016,FBS,Clemson,Ohio State,RUSHING,Artavis,Scott,TD,0
+3501104,12/31/2016,FBS,Clemson,Ohio State,RUSHING,Artavis,Scott,LONG,5
+3501105,12/31/2016,FBS,Clemson,Ohio State,RUSHING,C.J.,Fuller,ATT,1
+3501106,12/31/2016,FBS,Clemson,Ohio State,RUSHING,C.J.,Fuller,YDS,3
+3501107,12/31/2016,FBS,Clemson,Ohio State,RUSHING,C.J.,Fuller,TD,0
+3501108,12/31/2016,FBS,Clemson,Ohio State,RUSHING,C.J.,Fuller,LONG,3
+3501109,12/31/2016,FBS,Clemson,Ohio State,RUSHING,,Team,ATT,1
+3501110,12/31/2016,FBS,Clemson,Ohio State,RUSHING,,Team,YDS,-3
+3501111,12/31/2016,FBS,Clemson,Ohio State,RUSHING,,Team,TD,0
+3501112,12/31/2016,FBS,Clemson,Ohio State,RUSHING,,Team,LONG,-3
+3501113,12/31/2016,FBS,Clemson,Ohio State,PASSING,Deshaun,Watson,CP-ATT-INT,23-36-2
+3501114,12/31/2016,FBS,Clemson,Ohio State,PASSING,Deshaun,Watson,YDS,259
+3501115,12/31/2016,FBS,Clemson,Ohio State,PASSING,Deshaun,Watson,TD,1
+3501116,12/31/2016,FBS,Clemson,Ohio State,PASSING,Deshaun,Watson,LONG,37
+3501117,12/31/2016,FBS,Clemson,Ohio State,PASSING,Nick,Schuessler,CP-ATT-INT,1-1-0
+3501118,12/31/2016,FBS,Clemson,Ohio State,PASSING,Nick,Schuessler,YDS,6
+3501119,12/31/2016,FBS,Clemson,Ohio State,PASSING,Nick,Schuessler,TD,0
+3501120,12/31/2016,FBS,Clemson,Ohio State,PASSING,Nick,Schuessler,LONG,6
+3501121,12/31/2016,FBS,Clemson,Ohio State,RECEIVING,Mike,Williams,REC,6
+3501122,12/31/2016,FBS,Clemson,Ohio State,RECEIVING,Mike,Williams,YDS,96
+3501123,12/31/2016,FBS,Clemson,Ohio State,RECEIVING,Mike,Williams,TD,0
+3501124,12/31/2016,FBS,Clemson,Ohio State,RECEIVING,Mike,Williams,LONG,37
+3501125,12/31/2016,FBS,Clemson,Ohio State,RECEIVING,Hunter,Renfrow,REC,5
+3501126,12/31/2016,FBS,Clemson,Ohio State,RECEIVING,Hunter,Renfrow,YDS,50
+3501127,12/31/2016,FBS,Clemson,Ohio State,RECEIVING,Hunter,Renfrow,TD,0
+3501128,12/31/2016,FBS,Clemson,Ohio State,RECEIVING,Hunter,Renfrow,LONG,13
+3501129,12/31/2016,FBS,Clemson,Ohio State,RECEIVING,C.J.,Fuller,REC,3
+3501130,12/31/2016,FBS,Clemson,Ohio State,RECEIVING,C.J.,Fuller,YDS,45
+3501131,12/31/2016,FBS,Clemson,Ohio State,RECEIVING,C.J.,Fuller,TD,1
+3501132,12/31/2016,FBS,Clemson,Ohio State,RECEIVING,C.J.,Fuller,LONG,30
+3501133,12/31/2016,FBS,Clemson,Ohio State,RECEIVING,Ray,RayMcCloud,REC,4
+3501134,12/31/2016,FBS,Clemson,Ohio State,RECEIVING,Ray,RayMcCloud,YDS,29
+3501135,12/31/2016,FBS,Clemson,Ohio State,RECEIVING,Ray,RayMcCloud,TD,0
+3501136,12/31/2016,FBS,Clemson,Ohio State,RECEIVING,Ray,RayMcCloud,LONG,20
+3501137,12/31/2016,FBS,Clemson,Ohio State,RECEIVING,Artavis,Scott,REC,2
+3501138,12/31/2016,FBS,Clemson,Ohio State,RECEIVING,Artavis,Scott,YDS,16
+3501139,12/31/2016,FBS,Clemson,Ohio State,RECEIVING,Artavis,Scott,TD,0
+3501140,12/31/2016,FBS,Clemson,Ohio State,RECEIVING,Artavis,Scott,LONG,9
+3501141,12/31/2016,FBS,Clemson,Ohio State,RECEIVING,Wayne,Gallman,REC,1
+3501142,12/31/2016,FBS,Clemson,Ohio State,RECEIVING,Wayne,Gallman,YDS,10
+3501143,12/31/2016,FBS,Clemson,Ohio State,RECEIVING,Wayne,Gallman,TD,0
+3501144,12/31/2016,FBS,Clemson,Ohio State,RECEIVING,Wayne,Gallman,LONG,10
+3501145,12/31/2016,FBS,Clemson,Ohio State,RECEIVING,Deon,Cain,REC,1
+3501146,12/31/2016,FBS,Clemson,Ohio State,RECEIVING,Deon,Cain,YDS,9
+3501147,12/31/2016,FBS,Clemson,Ohio State,RECEIVING,Deon,Cain,TD,0
+3501148,12/31/2016,FBS,Clemson,Ohio State,RECEIVING,Deon,Cain,LONG,9
+3501149,12/31/2016,FBS,Clemson,Ohio State,RECEIVING,Garrett,Williams,REC,1
+3501150,12/31/2016,FBS,Clemson,Ohio State,RECEIVING,Garrett,Williams,YDS,6
+3501151,12/31/2016,FBS,Clemson,Ohio State,RECEIVING,Garrett,Williams,TD,0
+3501152,12/31/2016,FBS,Clemson,Ohio State,RECEIVING,Garrett,Williams,LONG,6
+3501153,12/31/2016,FBS,Clemson,Ohio State,RECEIVING,Jordan,Leggett,REC,1
+3501154,12/31/2016,FBS,Clemson,Ohio State,RECEIVING,Jordan,Leggett,YDS,4
+3501155,12/31/2016,FBS,Clemson,Ohio State,RECEIVING,Jordan,Leggett,TD,0
+3501156,12/31/2016,FBS,Clemson,Ohio State,RECEIVING,Jordan,Leggett,LONG,4
+3501157,12/31/2016,FBS,Clemson,Ohio State,KICKING,Greg,Huegel,FG-FGA,1/2
+3501158,12/31/2016,FBS,Clemson,Ohio State,KICKING,Greg,Huegel,LONG,45
+3501159,12/31/2016,FBS,Clemson,Ohio State,KICKING,Greg,Huegel,XP,4
+3501160,12/31/2016,FBS,Clemson,Ohio State,KICKING,Greg,Huegel,PTS,7
+3501161,12/31/2016,FBS,Clemson,Ohio State,PUNTING,Andy,Teasdall,NO,5
+3501162,12/31/2016,FBS,Clemson,Ohio State,PUNTING,Andy,Teasdall,YDS,206
+3501163,12/31/2016,FBS,Clemson,Ohio State,PUNTING,Andy,Teasdall,AVG,41.2
+3501164,12/31/2016,FBS,Clemson,Ohio State,PUNTING,Andy,Teasdall,LONG,67
+3501165,12/31/2016,FBS,Clemson,Ohio State,PUNT RETURNS,Artavis,Scott,NO,2
+3501166,12/31/2016,FBS,Clemson,Ohio State,PUNT RETURNS,Artavis,Scott,YDS,16
+3501167,12/31/2016,FBS,Clemson,Ohio State,PUNT RETURNS,Artavis,Scott,AVG,8.0
+3501168,12/31/2016,FBS,Clemson,Ohio State,PUNT RETURNS,Artavis,Scott,LONG,16

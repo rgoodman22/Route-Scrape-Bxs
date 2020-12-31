@@ -1,0 +1,145 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3279001,11/12/2016,FBS,Miami (Ohio),Buffalo,RUSHING,Alonzo,Smith,ATT,7
+3279002,11/12/2016,FBS,Miami (Ohio),Buffalo,RUSHING,Alonzo,Smith,YDS,91
+3279003,11/12/2016,FBS,Miami (Ohio),Buffalo,RUSHING,Alonzo,Smith,TD,0
+3279004,11/12/2016,FBS,Miami (Ohio),Buffalo,RUSHING,Alonzo,Smith,LONG,70
+3279005,11/12/2016,FBS,Miami (Ohio),Buffalo,RUSHING,Gus,Ragland,ATT,9
+3279006,11/12/2016,FBS,Miami (Ohio),Buffalo,RUSHING,Gus,Ragland,YDS,45
+3279007,11/12/2016,FBS,Miami (Ohio),Buffalo,RUSHING,Gus,Ragland,TD,1
+3279008,11/12/2016,FBS,Miami (Ohio),Buffalo,RUSHING,Gus,Ragland,LONG,19
+3279009,11/12/2016,FBS,Miami (Ohio),Buffalo,RUSHING,Spencer,McInnis,ATT,11
+3279010,11/12/2016,FBS,Miami (Ohio),Buffalo,RUSHING,Spencer,McInnis,YDS,40
+3279011,11/12/2016,FBS,Miami (Ohio),Buffalo,RUSHING,Spencer,McInnis,TD,0
+3279012,11/12/2016,FBS,Miami (Ohio),Buffalo,RUSHING,Spencer,McInnis,LONG,17
+3279013,11/12/2016,FBS,Miami (Ohio),Buffalo,RUSHING,Maurice,Thomas,ATT,5
+3279014,11/12/2016,FBS,Miami (Ohio),Buffalo,RUSHING,Maurice,Thomas,YDS,17
+3279015,11/12/2016,FBS,Miami (Ohio),Buffalo,RUSHING,Maurice,Thomas,TD,0
+3279016,11/12/2016,FBS,Miami (Ohio),Buffalo,RUSHING,Maurice,Thomas,LONG,16
+3279017,11/12/2016,FBS,Miami (Ohio),Buffalo,RUSHING,Kenny,Young,ATT,6
+3279018,11/12/2016,FBS,Miami (Ohio),Buffalo,RUSHING,Kenny,Young,YDS,12
+3279019,11/12/2016,FBS,Miami (Ohio),Buffalo,RUSHING,Kenny,Young,TD,0
+3279020,11/12/2016,FBS,Miami (Ohio),Buffalo,RUSHING,Kenny,Young,LONG,8
+3279021,11/12/2016,FBS,Miami (Ohio),Buffalo,RUSHING,,Team,ATT,1
+3279022,11/12/2016,FBS,Miami (Ohio),Buffalo,RUSHING,,Team,YDS,-1
+3279023,11/12/2016,FBS,Miami (Ohio),Buffalo,RUSHING,,Team,TD,0
+3279024,11/12/2016,FBS,Miami (Ohio),Buffalo,RUSHING,,Team,LONG,0
+3279025,11/12/2016,FBS,Miami (Ohio),Buffalo,PASSING,Gus,Ragland,CP-ATT-INT,7-14-0
+3279026,11/12/2016,FBS,Miami (Ohio),Buffalo,PASSING,Gus,Ragland,YDS,105
+3279027,11/12/2016,FBS,Miami (Ohio),Buffalo,PASSING,Gus,Ragland,TD,2
+3279028,11/12/2016,FBS,Miami (Ohio),Buffalo,PASSING,Gus,Ragland,LONG,40
+3279029,11/12/2016,FBS,Miami (Ohio),Buffalo,RECEIVING,Jared,Murphy,REC,2
+3279030,11/12/2016,FBS,Miami (Ohio),Buffalo,RECEIVING,Jared,Murphy,YDS,57
+3279031,11/12/2016,FBS,Miami (Ohio),Buffalo,RECEIVING,Jared,Murphy,TD,2
+3279032,11/12/2016,FBS,Miami (Ohio),Buffalo,RECEIVING,Jared,Murphy,LONG,40
+3279033,11/12/2016,FBS,Miami (Ohio),Buffalo,RECEIVING,James,Gardner,REC,1
+3279034,11/12/2016,FBS,Miami (Ohio),Buffalo,RECEIVING,James,Gardner,YDS,15
+3279035,11/12/2016,FBS,Miami (Ohio),Buffalo,RECEIVING,James,Gardner,TD,0
+3279036,11/12/2016,FBS,Miami (Ohio),Buffalo,RECEIVING,James,Gardner,LONG,15
+3279037,11/12/2016,FBS,Miami (Ohio),Buffalo,RECEIVING,Grant,Niemiec,REC,1
+3279038,11/12/2016,FBS,Miami (Ohio),Buffalo,RECEIVING,Grant,Niemiec,YDS,11
+3279039,11/12/2016,FBS,Miami (Ohio),Buffalo,RECEIVING,Grant,Niemiec,TD,0
+3279040,11/12/2016,FBS,Miami (Ohio),Buffalo,RECEIVING,Grant,Niemiec,LONG,11
+3279041,11/12/2016,FBS,Miami (Ohio),Buffalo,RECEIVING,Alonzo,Smith,REC,1
+3279042,11/12/2016,FBS,Miami (Ohio),Buffalo,RECEIVING,Alonzo,Smith,YDS,9
+3279043,11/12/2016,FBS,Miami (Ohio),Buffalo,RECEIVING,Alonzo,Smith,TD,0
+3279044,11/12/2016,FBS,Miami (Ohio),Buffalo,RECEIVING,Alonzo,Smith,LONG,9
+3279045,11/12/2016,FBS,Miami (Ohio),Buffalo,RECEIVING,Maurice,Thomas,REC,1
+3279046,11/12/2016,FBS,Miami (Ohio),Buffalo,RECEIVING,Maurice,Thomas,YDS,8
+3279047,11/12/2016,FBS,Miami (Ohio),Buffalo,RECEIVING,Maurice,Thomas,TD,0
+3279048,11/12/2016,FBS,Miami (Ohio),Buffalo,RECEIVING,Maurice,Thomas,LONG,8
+3279049,11/12/2016,FBS,Miami (Ohio),Buffalo,RECEIVING,Rokeem,Williams,REC,1
+3279050,11/12/2016,FBS,Miami (Ohio),Buffalo,RECEIVING,Rokeem,Williams,YDS,5
+3279051,11/12/2016,FBS,Miami (Ohio),Buffalo,RECEIVING,Rokeem,Williams,TD,0
+3279052,11/12/2016,FBS,Miami (Ohio),Buffalo,RECEIVING,Rokeem,Williams,LONG,5
+3279053,11/12/2016,FBS,Miami (Ohio),Buffalo,KICKING,Nick,Dowd,FG-FGA,1/1
+3279054,11/12/2016,FBS,Miami (Ohio),Buffalo,KICKING,Nick,Dowd,LONG,20
+3279055,11/12/2016,FBS,Miami (Ohio),Buffalo,KICKING,Nick,Dowd,XP,2
+3279056,11/12/2016,FBS,Miami (Ohio),Buffalo,KICKING,Nick,Dowd,PTS,5
+3279057,11/12/2016,FBS,Miami (Ohio),Buffalo,PUNTING,Kyle,Kramer,NO,6
+3279058,11/12/2016,FBS,Miami (Ohio),Buffalo,PUNTING,Kyle,Kramer,YDS,229
+3279059,11/12/2016,FBS,Miami (Ohio),Buffalo,PUNTING,Kyle,Kramer,AVG,38.2
+3279060,11/12/2016,FBS,Miami (Ohio),Buffalo,PUNTING,Kyle,Kramer,LONG,55
+3279061,11/12/2016,FBS,Miami (Ohio),Buffalo,PUNT RETURNS,Jared,Murphy,NO,1
+3279062,11/12/2016,FBS,Miami (Ohio),Buffalo,PUNT RETURNS,Jared,Murphy,YDS,0
+3279063,11/12/2016,FBS,Miami (Ohio),Buffalo,PUNT RETURNS,Jared,Murphy,AVG,-
+3279064,11/12/2016,FBS,Miami (Ohio),Buffalo,PUNT RETURNS,Jared,Murphy,LONG,0
+3279065,11/12/2016,FBS,Miami (Ohio),Buffalo,KICK RETURNS,Spencer,McInnis,NO,1
+3279066,11/12/2016,FBS,Miami (Ohio),Buffalo,KICK RETURNS,Spencer,McInnis,YDS,11
+3279067,11/12/2016,FBS,Miami (Ohio),Buffalo,KICK RETURNS,Spencer,McInnis,AVG,11.0
+3279068,11/12/2016,FBS,Miami (Ohio),Buffalo,KICK RETURNS,Spencer,McInnis,LONG,11
+3279069,11/12/2016,FBS,Buffalo,Miami (Ohio),RUSHING,Jordan,Johnson,ATT,29
+3279070,11/12/2016,FBS,Buffalo,Miami (Ohio),RUSHING,Jordan,Johnson,YDS,100
+3279071,11/12/2016,FBS,Buffalo,Miami (Ohio),RUSHING,Jordan,Johnson,TD,1
+3279072,11/12/2016,FBS,Buffalo,Miami (Ohio),RUSHING,Jordan,Johnson,LONG,14
+3279073,11/12/2016,FBS,Buffalo,Miami (Ohio),RUSHING,Johnathan,Hawkins,ATT,7
+3279074,11/12/2016,FBS,Buffalo,Miami (Ohio),RUSHING,Johnathan,Hawkins,YDS,36
+3279075,11/12/2016,FBS,Buffalo,Miami (Ohio),RUSHING,Johnathan,Hawkins,TD,1
+3279076,11/12/2016,FBS,Buffalo,Miami (Ohio),RUSHING,Johnathan,Hawkins,LONG,12
+3279077,11/12/2016,FBS,Buffalo,Miami (Ohio),RUSHING,Tyree,Jackson,ATT,6
+3279078,11/12/2016,FBS,Buffalo,Miami (Ohio),RUSHING,Tyree,Jackson,YDS,26
+3279079,11/12/2016,FBS,Buffalo,Miami (Ohio),RUSHING,Tyree,Jackson,TD,0
+3279080,11/12/2016,FBS,Buffalo,Miami (Ohio),RUSHING,Tyree,Jackson,LONG,8
+3279081,11/12/2016,FBS,Buffalo,Miami (Ohio),RUSHING,Grant,Rohach,ATT,3
+3279082,11/12/2016,FBS,Buffalo,Miami (Ohio),RUSHING,Grant,Rohach,YDS,26
+3279083,11/12/2016,FBS,Buffalo,Miami (Ohio),RUSHING,Grant,Rohach,TD,0
+3279084,11/12/2016,FBS,Buffalo,Miami (Ohio),RUSHING,Grant,Rohach,LONG,20
+3279085,11/12/2016,FBS,Buffalo,Miami (Ohio),RUSHING,,Team,ATT,1
+3279086,11/12/2016,FBS,Buffalo,Miami (Ohio),RUSHING,,Team,YDS,-1
+3279087,11/12/2016,FBS,Buffalo,Miami (Ohio),RUSHING,,Team,TD,0
+3279088,11/12/2016,FBS,Buffalo,Miami (Ohio),RUSHING,,Team,LONG,0
+3279089,11/12/2016,FBS,Buffalo,Miami (Ohio),PASSING,Grant,Rohach,CP-ATT-INT,9-13-0
+3279090,11/12/2016,FBS,Buffalo,Miami (Ohio),PASSING,Grant,Rohach,YDS,97
+3279091,11/12/2016,FBS,Buffalo,Miami (Ohio),PASSING,Grant,Rohach,TD,0
+3279092,11/12/2016,FBS,Buffalo,Miami (Ohio),PASSING,Grant,Rohach,LONG,25
+3279093,11/12/2016,FBS,Buffalo,Miami (Ohio),PASSING,Tyree,Jackson,CP-ATT-INT,12-27-1
+3279094,11/12/2016,FBS,Buffalo,Miami (Ohio),PASSING,Tyree,Jackson,YDS,96
+3279095,11/12/2016,FBS,Buffalo,Miami (Ohio),PASSING,Tyree,Jackson,TD,0
+3279096,11/12/2016,FBS,Buffalo,Miami (Ohio),PASSING,Tyree,Jackson,LONG,13
+3279097,11/12/2016,FBS,Buffalo,Miami (Ohio),RECEIVING,Mason,Schreck,REC,10
+3279098,11/12/2016,FBS,Buffalo,Miami (Ohio),RECEIVING,Mason,Schreck,YDS,89
+3279099,11/12/2016,FBS,Buffalo,Miami (Ohio),RECEIVING,Mason,Schreck,TD,0
+3279100,11/12/2016,FBS,Buffalo,Miami (Ohio),RECEIVING,Mason,Schreck,LONG,13
+3279101,11/12/2016,FBS,Buffalo,Miami (Ohio),RECEIVING,Marcus,McGill,REC,4
+3279102,11/12/2016,FBS,Buffalo,Miami (Ohio),RECEIVING,Marcus,McGill,YDS,34
+3279103,11/12/2016,FBS,Buffalo,Miami (Ohio),RECEIVING,Marcus,McGill,TD,0
+3279104,11/12/2016,FBS,Buffalo,Miami (Ohio),RECEIVING,Marcus,McGill,LONG,12
+3279105,11/12/2016,FBS,Buffalo,Miami (Ohio),RECEIVING,Tyler,Mabry,REC,2
+3279106,11/12/2016,FBS,Buffalo,Miami (Ohio),RECEIVING,Tyler,Mabry,YDS,28
+3279107,11/12/2016,FBS,Buffalo,Miami (Ohio),RECEIVING,Tyler,Mabry,TD,0
+3279108,11/12/2016,FBS,Buffalo,Miami (Ohio),RECEIVING,Tyler,Mabry,LONG,25
+3279109,11/12/2016,FBS,Buffalo,Miami (Ohio),RECEIVING,Johnathan,Hawkins,REC,2
+3279110,11/12/2016,FBS,Buffalo,Miami (Ohio),RECEIVING,Johnathan,Hawkins,YDS,15
+3279111,11/12/2016,FBS,Buffalo,Miami (Ohio),RECEIVING,Johnathan,Hawkins,TD,0
+3279112,11/12/2016,FBS,Buffalo,Miami (Ohio),RECEIVING,Johnathan,Hawkins,LONG,13
+3279113,11/12/2016,FBS,Buffalo,Miami (Ohio),RECEIVING,Jamarl,Eiland,REC,1
+3279114,11/12/2016,FBS,Buffalo,Miami (Ohio),RECEIVING,Jamarl,Eiland,YDS,12
+3279115,11/12/2016,FBS,Buffalo,Miami (Ohio),RECEIVING,Jamarl,Eiland,TD,0
+3279116,11/12/2016,FBS,Buffalo,Miami (Ohio),RECEIVING,Jamarl,Eiland,LONG,12
+3279117,11/12/2016,FBS,Buffalo,Miami (Ohio),RECEIVING,Kamathi,Holsey,REC,1
+3279118,11/12/2016,FBS,Buffalo,Miami (Ohio),RECEIVING,Kamathi,Holsey,YDS,9
+3279119,11/12/2016,FBS,Buffalo,Miami (Ohio),RECEIVING,Kamathi,Holsey,TD,0
+3279120,11/12/2016,FBS,Buffalo,Miami (Ohio),RECEIVING,Kamathi,Holsey,LONG,9
+3279121,11/12/2016,FBS,Buffalo,Miami (Ohio),RECEIVING,Malcolm,Robinson,REC,1
+3279122,11/12/2016,FBS,Buffalo,Miami (Ohio),RECEIVING,Malcolm,Robinson,YDS,6
+3279123,11/12/2016,FBS,Buffalo,Miami (Ohio),RECEIVING,Malcolm,Robinson,TD,0
+3279124,11/12/2016,FBS,Buffalo,Miami (Ohio),RECEIVING,Malcolm,Robinson,LONG,6
+3279125,11/12/2016,FBS,Buffalo,Miami (Ohio),KICKING,Adam,Mitcheson,FG-FGA,1/2
+3279126,11/12/2016,FBS,Buffalo,Miami (Ohio),KICKING,Adam,Mitcheson,LONG,30
+3279127,11/12/2016,FBS,Buffalo,Miami (Ohio),KICKING,Adam,Mitcheson,XP,3
+3279128,11/12/2016,FBS,Buffalo,Miami (Ohio),KICKING,Adam,Mitcheson,PTS,6
+3279129,11/12/2016,FBS,Buffalo,Miami (Ohio),PUNTING,Kyle,Deween,NO,4
+3279130,11/12/2016,FBS,Buffalo,Miami (Ohio),PUNTING,Kyle,Deween,YDS,123
+3279131,11/12/2016,FBS,Buffalo,Miami (Ohio),PUNTING,Kyle,Deween,AVG,30.8
+3279132,11/12/2016,FBS,Buffalo,Miami (Ohio),PUNTING,Kyle,Deween,LONG,40
+3279133,11/12/2016,FBS,Buffalo,Miami (Ohio),PUNTING,,Team,NO,1
+3279134,11/12/2016,FBS,Buffalo,Miami (Ohio),PUNTING,,Team,YDS,10
+3279135,11/12/2016,FBS,Buffalo,Miami (Ohio),PUNTING,,Team,AVG,10.0
+3279136,11/12/2016,FBS,Buffalo,Miami (Ohio),PUNTING,,Team,LONG,10
+3279137,11/12/2016,FBS,Buffalo,Miami (Ohio),PUNT RETURNS,Jamarl,Eiland,NO,3
+3279138,11/12/2016,FBS,Buffalo,Miami (Ohio),PUNT RETURNS,Jamarl,Eiland,YDS,30
+3279139,11/12/2016,FBS,Buffalo,Miami (Ohio),PUNT RETURNS,Jamarl,Eiland,AVG,10.0
+3279140,11/12/2016,FBS,Buffalo,Miami (Ohio),PUNT RETURNS,Jamarl,Eiland,LONG,21
+3279141,11/12/2016,FBS,Buffalo,Miami (Ohio),KICK RETURNS,Johnathan,Hawkins,NO,6
+3279142,11/12/2016,FBS,Buffalo,Miami (Ohio),KICK RETURNS,Johnathan,Hawkins,YDS,73
+3279143,11/12/2016,FBS,Buffalo,Miami (Ohio),KICK RETURNS,Johnathan,Hawkins,AVG,12.2
+3279144,11/12/2016,FBS,Buffalo,Miami (Ohio),KICK RETURNS,Johnathan,Hawkins,LONG,22

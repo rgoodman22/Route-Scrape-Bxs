@@ -1,0 +1,192 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+5303001,8/31/2019,FBS,Ole Miss,Memphis,RUSHING,Scottie,Phillips,ATT,19
+5303002,8/31/2019,FBS,Ole Miss,Memphis,RUSHING,Scottie,Phillips,YDS,62
+5303003,8/31/2019,FBS,Ole Miss,Memphis,RUSHING,Scottie,Phillips,TD,1
+5303004,8/31/2019,FBS,Ole Miss,Memphis,RUSHING,Scottie,Phillips,LONG,16
+5303005,8/31/2019,FBS,Ole Miss,Memphis,RUSHING,Matt,Corral,ATT,9
+5303006,8/31/2019,FBS,Ole Miss,Memphis,RUSHING,Matt,Corral,YDS,17
+5303007,8/31/2019,FBS,Ole Miss,Memphis,RUSHING,Matt,Corral,TD,0
+5303008,8/31/2019,FBS,Ole Miss,Memphis,RUSHING,Matt,Corral,LONG,15
+5303009,8/31/2019,FBS,Ole Miss,Memphis,RUSHING,Jerrion,Ealy,ATT,4
+5303010,8/31/2019,FBS,Ole Miss,Memphis,RUSHING,Jerrion,Ealy,YDS,2
+5303011,8/31/2019,FBS,Ole Miss,Memphis,RUSHING,Jerrion,Ealy,TD,0
+5303012,8/31/2019,FBS,Ole Miss,Memphis,RUSHING,Jerrion,Ealy,LONG,2
+5303013,8/31/2019,FBS,Ole Miss,Memphis,RUSHING,Snoop,Conner,ATT,1
+5303014,8/31/2019,FBS,Ole Miss,Memphis,RUSHING,Snoop,Conner,YDS,-1
+5303015,8/31/2019,FBS,Ole Miss,Memphis,RUSHING,Snoop,Conner,TD,0
+5303016,8/31/2019,FBS,Ole Miss,Memphis,RUSHING,Snoop,Conner,LONG,-1
+5303017,8/31/2019,FBS,Ole Miss,Memphis,PASSING,Matt,Corral,CP-ATT-INT,9-19-1
+5303018,8/31/2019,FBS,Ole Miss,Memphis,PASSING,Matt,Corral,YDS,93
+5303019,8/31/2019,FBS,Ole Miss,Memphis,PASSING,Matt,Corral,TD,0
+5303020,8/31/2019,FBS,Ole Miss,Memphis,PASSING,Matt,Corral,LONG,36
+5303021,8/31/2019,FBS,Ole Miss,Memphis,RECEIVING,Elijah,Moore,REC,4
+5303022,8/31/2019,FBS,Ole Miss,Memphis,RECEIVING,Elijah,Moore,YDS,60
+5303023,8/31/2019,FBS,Ole Miss,Memphis,RECEIVING,Elijah,Moore,TD,0
+5303024,8/31/2019,FBS,Ole Miss,Memphis,RECEIVING,Elijah,Moore,LONG,36
+5303025,8/31/2019,FBS,Ole Miss,Memphis,RECEIVING,Jason,Pellerin,REC,1
+5303026,8/31/2019,FBS,Ole Miss,Memphis,RECEIVING,Jason,Pellerin,YDS,15
+5303027,8/31/2019,FBS,Ole Miss,Memphis,RECEIVING,Jason,Pellerin,TD,0
+5303028,8/31/2019,FBS,Ole Miss,Memphis,RECEIVING,Jason,Pellerin,LONG,15
+5303029,8/31/2019,FBS,Ole Miss,Memphis,RECEIVING,Octavious,Cooley,REC,2
+5303030,8/31/2019,FBS,Ole Miss,Memphis,RECEIVING,Octavious,Cooley,YDS,7
+5303031,8/31/2019,FBS,Ole Miss,Memphis,RECEIVING,Octavious,Cooley,TD,0
+5303032,8/31/2019,FBS,Ole Miss,Memphis,RECEIVING,Octavious,Cooley,LONG,4
+5303033,8/31/2019,FBS,Ole Miss,Memphis,RECEIVING,Miles,Battle,REC,1
+5303034,8/31/2019,FBS,Ole Miss,Memphis,RECEIVING,Miles,Battle,YDS,6
+5303035,8/31/2019,FBS,Ole Miss,Memphis,RECEIVING,Miles,Battle,TD,0
+5303036,8/31/2019,FBS,Ole Miss,Memphis,RECEIVING,Miles,Battle,LONG,6
+5303037,8/31/2019,FBS,Ole Miss,Memphis,RECEIVING,Snoop,Conner,REC,1
+5303038,8/31/2019,FBS,Ole Miss,Memphis,RECEIVING,Snoop,Conner,YDS,5
+5303039,8/31/2019,FBS,Ole Miss,Memphis,RECEIVING,Snoop,Conner,TD,0
+5303040,8/31/2019,FBS,Ole Miss,Memphis,RECEIVING,Snoop,Conner,LONG,5
+5303041,8/31/2019,FBS,Ole Miss,Memphis,KICKING,Luke,Logan,FG-FGA,1/2
+5303042,8/31/2019,FBS,Ole Miss,Memphis,KICKING,Luke,Logan,LONG,35
+5303043,8/31/2019,FBS,Ole Miss,Memphis,KICKING,Luke,Logan,XP,1
+5303044,8/31/2019,FBS,Ole Miss,Memphis,KICKING,Luke,Logan,PTS,4
+5303045,8/31/2019,FBS,Ole Miss,Memphis,PUNTING,Mac,Brown,NO,5
+5303046,8/31/2019,FBS,Ole Miss,Memphis,PUNTING,Mac,Brown,YDS,234
+5303047,8/31/2019,FBS,Ole Miss,Memphis,PUNTING,Mac,Brown,AVG,46.8
+5303048,8/31/2019,FBS,Ole Miss,Memphis,PUNTING,Mac,Brown,LONG,54
+5303049,8/31/2019,FBS,Ole Miss,Memphis,PUNT RETURNS,Elijah,Moore,NO,2
+5303050,8/31/2019,FBS,Ole Miss,Memphis,PUNT RETURNS,Elijah,Moore,YDS,2
+5303051,8/31/2019,FBS,Ole Miss,Memphis,PUNT RETURNS,Elijah,Moore,AVG,1.0
+5303052,8/31/2019,FBS,Ole Miss,Memphis,PUNT RETURNS,Elijah,Moore,LONG,1
+5303053,8/31/2019,FBS,Ole Miss,Memphis,KICK RETURNS,Jerrion,Ealy,NO,1
+5303054,8/31/2019,FBS,Ole Miss,Memphis,KICK RETURNS,Jerrion,Ealy,YDS,25
+5303055,8/31/2019,FBS,Ole Miss,Memphis,KICK RETURNS,Jerrion,Ealy,AVG,25.0
+5303056,8/31/2019,FBS,Ole Miss,Memphis,KICK RETURNS,Jerrion,Ealy,LONG,25
+5303057,8/31/2019,FBS,Ole Miss,Memphis,DEFENSE,Benito,Jones,TOT,0
+5303058,8/31/2019,FBS,Ole Miss,Memphis,DEFENSE,Benito,Jones,SOLO,0
+5303059,8/31/2019,FBS,Ole Miss,Memphis,DEFENSE,Benito,Jones,SACKS,0.0
+5303060,8/31/2019,FBS,Ole Miss,Memphis,DEFENSE,Benito,Jones,TFL,1
+5303061,8/31/2019,FBS,Ole Miss,Memphis,DEFENSE,Benito,Jones,INT,1
+5303062,8/31/2019,FBS,Ole Miss,Memphis,DEFENSE,Benito,Jones,FF,0
+5303063,8/31/2019,FBS,Ole Miss,Memphis,DEFENSE,Benito,Jones,FR,0
+5303064,8/31/2019,FBS,Ole Miss,Memphis,DEFENSE,Quentin,Bivens,TOT,1
+5303065,8/31/2019,FBS,Ole Miss,Memphis,DEFENSE,Quentin,Bivens,SOLO,0
+5303066,8/31/2019,FBS,Ole Miss,Memphis,DEFENSE,Quentin,Bivens,SACKS,0.5
+5303067,8/31/2019,FBS,Ole Miss,Memphis,DEFENSE,Quentin,Bivens,TFL,0
+5303068,8/31/2019,FBS,Ole Miss,Memphis,DEFENSE,Quentin,Bivens,INT,0
+5303069,8/31/2019,FBS,Ole Miss,Memphis,DEFENSE,Quentin,Bivens,FF,0
+5303070,8/31/2019,FBS,Ole Miss,Memphis,DEFENSE,Quentin,Bivens,FR,0
+5303071,8/31/2019,FBS,Ole Miss,Memphis,DEFENSE,Ryder,Anderson,TOT,1
+5303072,8/31/2019,FBS,Ole Miss,Memphis,DEFENSE,Ryder,Anderson,SOLO,0
+5303073,8/31/2019,FBS,Ole Miss,Memphis,DEFENSE,Ryder,Anderson,SACKS,0.5
+5303074,8/31/2019,FBS,Ole Miss,Memphis,DEFENSE,Ryder,Anderson,TFL,0
+5303075,8/31/2019,FBS,Ole Miss,Memphis,DEFENSE,Ryder,Anderson,INT,0
+5303076,8/31/2019,FBS,Ole Miss,Memphis,DEFENSE,Ryder,Anderson,FF,0
+5303077,8/31/2019,FBS,Ole Miss,Memphis,DEFENSE,Ryder,Anderson,FR,0
+5303078,8/31/2019,FBS,Ole Miss,Memphis,DEFENSE,Josiah,Coatney,TOT,1
+5303079,8/31/2019,FBS,Ole Miss,Memphis,DEFENSE,Josiah,Coatney,SOLO,1
+5303080,8/31/2019,FBS,Ole Miss,Memphis,DEFENSE,Josiah,Coatney,SACKS,1.0
+5303081,8/31/2019,FBS,Ole Miss,Memphis,DEFENSE,Josiah,Coatney,TFL,1
+5303082,8/31/2019,FBS,Ole Miss,Memphis,DEFENSE,Josiah,Coatney,INT,0
+5303083,8/31/2019,FBS,Ole Miss,Memphis,DEFENSE,Josiah,Coatney,FF,0
+5303084,8/31/2019,FBS,Ole Miss,Memphis,DEFENSE,Josiah,Coatney,FR,0
+5303085,8/31/2019,FBS,Ole Miss,Memphis,DEFENSE,Sam,Williams,TOT,1
+5303086,8/31/2019,FBS,Ole Miss,Memphis,DEFENSE,Sam,Williams,SOLO,1
+5303087,8/31/2019,FBS,Ole Miss,Memphis,DEFENSE,Sam,Williams,SACKS,0.0
+5303088,8/31/2019,FBS,Ole Miss,Memphis,DEFENSE,Sam,Williams,TFL,0
+5303089,8/31/2019,FBS,Ole Miss,Memphis,DEFENSE,Sam,Williams,INT,0
+5303090,8/31/2019,FBS,Ole Miss,Memphis,DEFENSE,Sam,Williams,FF,1
+5303091,8/31/2019,FBS,Ole Miss,Memphis,DEFENSE,Sam,Williams,FR,0
+5303092,8/31/2019,FBS,Memphis,Ole Miss,RUSHING,Patrick,TaylorJr.,ATT,27
+5303093,8/31/2019,FBS,Memphis,Ole Miss,RUSHING,Patrick,TaylorJr.,YDS,128
+5303094,8/31/2019,FBS,Memphis,Ole Miss,RUSHING,Patrick,TaylorJr.,TD,1
+5303095,8/31/2019,FBS,Memphis,Ole Miss,RUSHING,Patrick,TaylorJr.,LONG,15
+5303096,8/31/2019,FBS,Memphis,Ole Miss,RUSHING,Kenneth,Gainwell,ATT,16
+5303097,8/31/2019,FBS,Memphis,Ole Miss,RUSHING,Kenneth,Gainwell,YDS,77
+5303098,8/31/2019,FBS,Memphis,Ole Miss,RUSHING,Kenneth,Gainwell,TD,0
+5303099,8/31/2019,FBS,Memphis,Ole Miss,RUSHING,Kenneth,Gainwell,LONG,10
+5303100,8/31/2019,FBS,Memphis,Ole Miss,RUSHING,Traveon,Samuel,ATT,1
+5303101,8/31/2019,FBS,Memphis,Ole Miss,RUSHING,Traveon,Samuel,YDS,4
+5303102,8/31/2019,FBS,Memphis,Ole Miss,RUSHING,Traveon,Samuel,TD,0
+5303103,8/31/2019,FBS,Memphis,Ole Miss,RUSHING,Traveon,Samuel,LONG,4
+5303104,8/31/2019,FBS,Memphis,Ole Miss,RUSHING,Obinna,Eze,ATT,0
+5303105,8/31/2019,FBS,Memphis,Ole Miss,RUSHING,Obinna,Eze,YDS,0
+5303106,8/31/2019,FBS,Memphis,Ole Miss,RUSHING,Obinna,Eze,TD,0
+5303107,8/31/2019,FBS,Memphis,Ole Miss,RUSHING,Obinna,Eze,LONG,0
+5303108,8/31/2019,FBS,Memphis,Ole Miss,RUSHING,Brady,White,ATT,5
+5303109,8/31/2019,FBS,Memphis,Ole Miss,RUSHING,Brady,White,YDS,-6
+5303110,8/31/2019,FBS,Memphis,Ole Miss,RUSHING,Brady,White,TD,1
+5303111,8/31/2019,FBS,Memphis,Ole Miss,RUSHING,Brady,White,LONG,1
+5303112,8/31/2019,FBS,Memphis,Ole Miss,RUSHING,,Team,ATT,2
+5303113,8/31/2019,FBS,Memphis,Ole Miss,RUSHING,,Team,YDS,-11
+5303114,8/31/2019,FBS,Memphis,Ole Miss,RUSHING,,Team,TD,0
+5303115,8/31/2019,FBS,Memphis,Ole Miss,RUSHING,,Team,LONG,-5
+5303116,8/31/2019,FBS,Memphis,Ole Miss,PASSING,Brady,White,CP-ATT-INT,23-31-1
+5303117,8/31/2019,FBS,Memphis,Ole Miss,PASSING,Brady,White,YDS,172
+5303118,8/31/2019,FBS,Memphis,Ole Miss,PASSING,Brady,White,TD,0
+5303119,8/31/2019,FBS,Memphis,Ole Miss,PASSING,Brady,White,LONG,23
+5303120,8/31/2019,FBS,Memphis,Ole Miss,RECEIVING,Damonte,Coxie,REC,6
+5303121,8/31/2019,FBS,Memphis,Ole Miss,RECEIVING,Damonte,Coxie,YDS,44
+5303122,8/31/2019,FBS,Memphis,Ole Miss,RECEIVING,Damonte,Coxie,TD,0
+5303123,8/31/2019,FBS,Memphis,Ole Miss,RECEIVING,Damonte,Coxie,LONG,23
+5303124,8/31/2019,FBS,Memphis,Ole Miss,RECEIVING,Kenneth,Gainwell,REC,6
+5303125,8/31/2019,FBS,Memphis,Ole Miss,RECEIVING,Kenneth,Gainwell,YDS,41
+5303126,8/31/2019,FBS,Memphis,Ole Miss,RECEIVING,Kenneth,Gainwell,TD,0
+5303127,8/31/2019,FBS,Memphis,Ole Miss,RECEIVING,Kenneth,Gainwell,LONG,11
+5303128,8/31/2019,FBS,Memphis,Ole Miss,RECEIVING,Pop,Williams,REC,4
+5303129,8/31/2019,FBS,Memphis,Ole Miss,RECEIVING,Pop,Williams,YDS,40
+5303130,8/31/2019,FBS,Memphis,Ole Miss,RECEIVING,Pop,Williams,TD,0
+5303131,8/31/2019,FBS,Memphis,Ole Miss,RECEIVING,Pop,Williams,LONG,23
+5303132,8/31/2019,FBS,Memphis,Ole Miss,RECEIVING,Patrick,TaylorJr.,REC,4
+5303133,8/31/2019,FBS,Memphis,Ole Miss,RECEIVING,Patrick,TaylorJr.,YDS,25
+5303134,8/31/2019,FBS,Memphis,Ole Miss,RECEIVING,Patrick,TaylorJr.,TD,0
+5303135,8/31/2019,FBS,Memphis,Ole Miss,RECEIVING,Patrick,TaylorJr.,LONG,22
+5303136,8/31/2019,FBS,Memphis,Ole Miss,RECEIVING,Kedarian,Jones,REC,2
+5303137,8/31/2019,FBS,Memphis,Ole Miss,RECEIVING,Kedarian,Jones,YDS,14
+5303138,8/31/2019,FBS,Memphis,Ole Miss,RECEIVING,Kedarian,Jones,TD,0
+5303139,8/31/2019,FBS,Memphis,Ole Miss,RECEIVING,Kedarian,Jones,LONG,14
+5303140,8/31/2019,FBS,Memphis,Ole Miss,RECEIVING,Traveon,Samuel,REC,1
+5303141,8/31/2019,FBS,Memphis,Ole Miss,RECEIVING,Traveon,Samuel,YDS,8
+5303142,8/31/2019,FBS,Memphis,Ole Miss,RECEIVING,Traveon,Samuel,TD,0
+5303143,8/31/2019,FBS,Memphis,Ole Miss,RECEIVING,Traveon,Samuel,LONG,8
+5303144,8/31/2019,FBS,Memphis,Ole Miss,KICKING,Riley,Patterson,FG-FGA,0/0
+5303145,8/31/2019,FBS,Memphis,Ole Miss,KICKING,Riley,Patterson,LONG,-
+5303146,8/31/2019,FBS,Memphis,Ole Miss,KICKING,Riley,Patterson,XP,1
+5303147,8/31/2019,FBS,Memphis,Ole Miss,KICKING,Riley,Patterson,PTS,1
+5303148,8/31/2019,FBS,Memphis,Ole Miss,PUNTING,Adam,Williams,NO,6
+5303149,8/31/2019,FBS,Memphis,Ole Miss,PUNTING,Adam,Williams,YDS,263
+5303150,8/31/2019,FBS,Memphis,Ole Miss,PUNTING,Adam,Williams,AVG,43.8
+5303151,8/31/2019,FBS,Memphis,Ole Miss,PUNTING,Adam,Williams,LONG,61
+5303152,8/31/2019,FBS,Memphis,Ole Miss,PUNT RETURNS,Pop,Williams,NO,3
+5303153,8/31/2019,FBS,Memphis,Ole Miss,PUNT RETURNS,Pop,Williams,YDS,27
+5303154,8/31/2019,FBS,Memphis,Ole Miss,PUNT RETURNS,Pop,Williams,AVG,9.0
+5303155,8/31/2019,FBS,Memphis,Ole Miss,PUNT RETURNS,Pop,Williams,LONG,21
+5303156,8/31/2019,FBS,Memphis,Ole Miss,KICK RETURNS,Antonio,Gibson,NO,2
+5303157,8/31/2019,FBS,Memphis,Ole Miss,KICK RETURNS,Antonio,Gibson,YDS,32
+5303158,8/31/2019,FBS,Memphis,Ole Miss,KICK RETURNS,Antonio,Gibson,AVG,16.0
+5303159,8/31/2019,FBS,Memphis,Ole Miss,KICK RETURNS,Antonio,Gibson,LONG,17
+5303160,8/31/2019,FBS,Memphis,Ole Miss,KICK RETURNS,Pop,Williams,NO,1
+5303161,8/31/2019,FBS,Memphis,Ole Miss,KICK RETURNS,Pop,Williams,YDS,19
+5303162,8/31/2019,FBS,Memphis,Ole Miss,KICK RETURNS,Pop,Williams,AVG,19.0
+5303163,8/31/2019,FBS,Memphis,Ole Miss,KICK RETURNS,Pop,Williams,LONG,19
+5303164,8/31/2019,FBS,Memphis,Ole Miss,DEFENSE,Joseph,Dorceus,TOT,1
+5303165,8/31/2019,FBS,Memphis,Ole Miss,DEFENSE,Joseph,Dorceus,SOLO,1
+5303166,8/31/2019,FBS,Memphis,Ole Miss,DEFENSE,Joseph,Dorceus,SACKS,1.0
+5303167,8/31/2019,FBS,Memphis,Ole Miss,DEFENSE,Joseph,Dorceus,TFL,1
+5303168,8/31/2019,FBS,Memphis,Ole Miss,DEFENSE,Joseph,Dorceus,INT,0
+5303169,8/31/2019,FBS,Memphis,Ole Miss,DEFENSE,Joseph,Dorceus,FF,0
+5303170,8/31/2019,FBS,Memphis,Ole Miss,DEFENSE,Joseph,Dorceus,FR,0
+5303171,8/31/2019,FBS,Memphis,Ole Miss,DEFENSE,Bryce,Huff,TOT,1
+5303172,8/31/2019,FBS,Memphis,Ole Miss,DEFENSE,Bryce,Huff,SOLO,1
+5303173,8/31/2019,FBS,Memphis,Ole Miss,DEFENSE,Bryce,Huff,SACKS,1.0
+5303174,8/31/2019,FBS,Memphis,Ole Miss,DEFENSE,Bryce,Huff,TFL,1
+5303175,8/31/2019,FBS,Memphis,Ole Miss,DEFENSE,Bryce,Huff,INT,0
+5303176,8/31/2019,FBS,Memphis,Ole Miss,DEFENSE,Bryce,Huff,FF,0
+5303177,8/31/2019,FBS,Memphis,Ole Miss,DEFENSE,Bryce,Huff,FR,0
+5303178,8/31/2019,FBS,Memphis,Ole Miss,DEFENSE,Quindell,Johnson,TOT,0
+5303179,8/31/2019,FBS,Memphis,Ole Miss,DEFENSE,Quindell,Johnson,SOLO,0
+5303180,8/31/2019,FBS,Memphis,Ole Miss,DEFENSE,Quindell,Johnson,SACKS,0.0
+5303181,8/31/2019,FBS,Memphis,Ole Miss,DEFENSE,Quindell,Johnson,TFL,0
+5303182,8/31/2019,FBS,Memphis,Ole Miss,DEFENSE,Quindell,Johnson,INT,1
+5303183,8/31/2019,FBS,Memphis,Ole Miss,DEFENSE,Quindell,Johnson,FF,0
+5303184,8/31/2019,FBS,Memphis,Ole Miss,DEFENSE,Quindell,Johnson,FR,0
+5303185,8/31/2019,FBS,Memphis,Ole Miss,DEFENSE,La'Andre,Thomas,TOT,1
+5303186,8/31/2019,FBS,Memphis,Ole Miss,DEFENSE,La'Andre,Thomas,SOLO,1
+5303187,8/31/2019,FBS,Memphis,Ole Miss,DEFENSE,La'Andre,Thomas,SACKS,1.0
+5303188,8/31/2019,FBS,Memphis,Ole Miss,DEFENSE,La'Andre,Thomas,TFL,1
+5303189,8/31/2019,FBS,Memphis,Ole Miss,DEFENSE,La'Andre,Thomas,INT,0
+5303190,8/31/2019,FBS,Memphis,Ole Miss,DEFENSE,La'Andre,Thomas,FF,0
+5303191,8/31/2019,FBS,Memphis,Ole Miss,DEFENSE,La'Andre,Thomas,FR,0

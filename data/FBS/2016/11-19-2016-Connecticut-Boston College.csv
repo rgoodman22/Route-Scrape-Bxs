@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3333001,11/19/2016,FBS,Connecticut,Boston College,RUSHING,Ron,Johnson,ATT,2
+3333002,11/19/2016,FBS,Connecticut,Boston College,RUSHING,Ron,Johnson,YDS,6
+3333003,11/19/2016,FBS,Connecticut,Boston College,RUSHING,Ron,Johnson,TD,0
+3333004,11/19/2016,FBS,Connecticut,Boston College,RUSHING,Ron,Johnson,LONG,4
+3333005,11/19/2016,FBS,Connecticut,Boston College,RUSHING,Arkeel,Newsome,ATT,4
+3333006,11/19/2016,FBS,Connecticut,Boston College,RUSHING,Arkeel,Newsome,YDS,0
+3333007,11/19/2016,FBS,Connecticut,Boston College,RUSHING,Arkeel,Newsome,TD,0
+3333008,11/19/2016,FBS,Connecticut,Boston College,RUSHING,Arkeel,Newsome,LONG,2
+3333009,11/19/2016,FBS,Connecticut,Boston College,RUSHING,Donovan,Williams,ATT,11
+3333010,11/19/2016,FBS,Connecticut,Boston College,RUSHING,Donovan,Williams,YDS,-12
+3333011,11/19/2016,FBS,Connecticut,Boston College,RUSHING,Donovan,Williams,TD,0
+3333012,11/19/2016,FBS,Connecticut,Boston College,RUSHING,Donovan,Williams,LONG,4
+3333013,11/19/2016,FBS,Connecticut,Boston College,PASSING,Donovan,Williams,CP-ATT-INT,13-29-3
+3333014,11/19/2016,FBS,Connecticut,Boston College,PASSING,Donovan,Williams,YDS,127
+3333015,11/19/2016,FBS,Connecticut,Boston College,PASSING,Donovan,Williams,TD,0
+3333016,11/19/2016,FBS,Connecticut,Boston College,PASSING,Donovan,Williams,LONG,43
+3333017,11/19/2016,FBS,Connecticut,Boston College,PASSING,Tyler,Davis,CP-ATT-INT,0-1-0
+3333018,11/19/2016,FBS,Connecticut,Boston College,PASSING,Tyler,Davis,YDS,0
+3333019,11/19/2016,FBS,Connecticut,Boston College,PASSING,Tyler,Davis,TD,0
+3333020,11/19/2016,FBS,Connecticut,Boston College,PASSING,Tyler,Davis,LONG,0
+3333021,11/19/2016,FBS,Connecticut,Boston College,RECEIVING,Brian,Lemelle,REC,1
+3333022,11/19/2016,FBS,Connecticut,Boston College,RECEIVING,Brian,Lemelle,YDS,43
+3333023,11/19/2016,FBS,Connecticut,Boston College,RECEIVING,Brian,Lemelle,TD,0
+3333024,11/19/2016,FBS,Connecticut,Boston College,RECEIVING,Brian,Lemelle,LONG,43
+3333025,11/19/2016,FBS,Connecticut,Boston College,RECEIVING,Noel,Thomas,REC,4
+3333026,11/19/2016,FBS,Connecticut,Boston College,RECEIVING,Noel,Thomas,YDS,29
+3333027,11/19/2016,FBS,Connecticut,Boston College,RECEIVING,Noel,Thomas,TD,0
+3333028,11/19/2016,FBS,Connecticut,Boston College,RECEIVING,Noel,Thomas,LONG,20
+3333029,11/19/2016,FBS,Connecticut,Boston College,RECEIVING,Arkeel,Newsome,REC,4
+3333030,11/19/2016,FBS,Connecticut,Boston College,RECEIVING,Arkeel,Newsome,YDS,26
+3333031,11/19/2016,FBS,Connecticut,Boston College,RECEIVING,Arkeel,Newsome,TD,0
+3333032,11/19/2016,FBS,Connecticut,Boston College,RECEIVING,Arkeel,Newsome,LONG,17
+3333033,11/19/2016,FBS,Connecticut,Boston College,RECEIVING,Hergy,Mayala,REC,2
+3333034,11/19/2016,FBS,Connecticut,Boston College,RECEIVING,Hergy,Mayala,YDS,17
+3333035,11/19/2016,FBS,Connecticut,Boston College,RECEIVING,Hergy,Mayala,TD,0
+3333036,11/19/2016,FBS,Connecticut,Boston College,RECEIVING,Hergy,Mayala,LONG,10
+3333037,11/19/2016,FBS,Connecticut,Boston College,RECEIVING,Tommy,Myers,REC,1
+3333038,11/19/2016,FBS,Connecticut,Boston College,RECEIVING,Tommy,Myers,YDS,9
+3333039,11/19/2016,FBS,Connecticut,Boston College,RECEIVING,Tommy,Myers,TD,0
+3333040,11/19/2016,FBS,Connecticut,Boston College,RECEIVING,Tommy,Myers,LONG,9
+3333041,11/19/2016,FBS,Connecticut,Boston College,RECEIVING,Alec,Bloom,REC,1
+3333042,11/19/2016,FBS,Connecticut,Boston College,RECEIVING,Alec,Bloom,YDS,3
+3333043,11/19/2016,FBS,Connecticut,Boston College,RECEIVING,Alec,Bloom,TD,0
+3333044,11/19/2016,FBS,Connecticut,Boston College,RECEIVING,Alec,Bloom,LONG,3
+3333045,11/19/2016,FBS,Connecticut,Boston College,PUNTING,Justin,Wain,NO,6
+3333046,11/19/2016,FBS,Connecticut,Boston College,PUNTING,Justin,Wain,YDS,260
+3333047,11/19/2016,FBS,Connecticut,Boston College,PUNTING,Justin,Wain,AVG,43.3
+3333048,11/19/2016,FBS,Connecticut,Boston College,PUNTING,Justin,Wain,LONG,52
+3333049,11/19/2016,FBS,Connecticut,Boston College,PUNT RETURNS,Brian,Lemelle,NO,0
+3333050,11/19/2016,FBS,Connecticut,Boston College,PUNT RETURNS,Brian,Lemelle,YDS,0
+3333051,11/19/2016,FBS,Connecticut,Boston College,PUNT RETURNS,Brian,Lemelle,AVG,-
+3333052,11/19/2016,FBS,Connecticut,Boston College,PUNT RETURNS,Brian,Lemelle,LONG,0
+3333053,11/19/2016,FBS,Connecticut,Boston College,KICK RETURNS,Arkeel,Newsome,NO,3
+3333054,11/19/2016,FBS,Connecticut,Boston College,KICK RETURNS,Arkeel,Newsome,YDS,60
+3333055,11/19/2016,FBS,Connecticut,Boston College,KICK RETURNS,Arkeel,Newsome,AVG,20.0
+3333056,11/19/2016,FBS,Connecticut,Boston College,KICK RETURNS,Arkeel,Newsome,LONG,24
+3333057,11/19/2016,FBS,Connecticut,Boston College,KICK RETURNS,Tyraiq,Beals,NO,1
+3333058,11/19/2016,FBS,Connecticut,Boston College,KICK RETURNS,Tyraiq,Beals,YDS,1
+3333059,11/19/2016,FBS,Connecticut,Boston College,KICK RETURNS,Tyraiq,Beals,AVG,1.0
+3333060,11/19/2016,FBS,Connecticut,Boston College,KICK RETURNS,Tyraiq,Beals,LONG,1
+3333061,11/19/2016,FBS,Boston College,Connecticut,RUSHING,Davon,Jones,ATT,11
+3333062,11/19/2016,FBS,Boston College,Connecticut,RUSHING,Davon,Jones,YDS,40
+3333063,11/19/2016,FBS,Boston College,Connecticut,RUSHING,Davon,Jones,TD,1
+3333064,11/19/2016,FBS,Boston College,Connecticut,RUSHING,Davon,Jones,LONG,12
+3333065,11/19/2016,FBS,Boston College,Connecticut,RUSHING,Jeff,Smith,ATT,7
+3333066,11/19/2016,FBS,Boston College,Connecticut,RUSHING,Jeff,Smith,YDS,34
+3333067,11/19/2016,FBS,Boston College,Connecticut,RUSHING,Jeff,Smith,TD,0
+3333068,11/19/2016,FBS,Boston College,Connecticut,RUSHING,Jeff,Smith,LONG,19
+3333069,11/19/2016,FBS,Boston College,Connecticut,RUSHING,Myles,Willis,ATT,7
+3333070,11/19/2016,FBS,Boston College,Connecticut,RUSHING,Myles,Willis,YDS,33
+3333071,11/19/2016,FBS,Boston College,Connecticut,RUSHING,Myles,Willis,TD,0
+3333072,11/19/2016,FBS,Boston College,Connecticut,RUSHING,Myles,Willis,LONG,14
+3333073,11/19/2016,FBS,Boston College,Connecticut,RUSHING,Patrick,Towles,ATT,8
+3333074,11/19/2016,FBS,Boston College,Connecticut,RUSHING,Patrick,Towles,YDS,25
+3333075,11/19/2016,FBS,Boston College,Connecticut,RUSHING,Patrick,Towles,TD,0
+3333076,11/19/2016,FBS,Boston College,Connecticut,RUSHING,Patrick,Towles,LONG,16
+3333077,11/19/2016,FBS,Boston College,Connecticut,RUSHING,Tyler,Rouse,ATT,3
+3333078,11/19/2016,FBS,Boston College,Connecticut,RUSHING,Tyler,Rouse,YDS,9
+3333079,11/19/2016,FBS,Boston College,Connecticut,RUSHING,Tyler,Rouse,TD,0
+3333080,11/19/2016,FBS,Boston College,Connecticut,RUSHING,Tyler,Rouse,LONG,8
+3333081,11/19/2016,FBS,Boston College,Connecticut,RUSHING,Jon,Hilliman,ATT,9
+3333082,11/19/2016,FBS,Boston College,Connecticut,RUSHING,Jon,Hilliman,YDS,8
+3333083,11/19/2016,FBS,Boston College,Connecticut,RUSHING,Jon,Hilliman,TD,0
+3333084,11/19/2016,FBS,Boston College,Connecticut,RUSHING,Jon,Hilliman,LONG,6
+3333085,11/19/2016,FBS,Boston College,Connecticut,RUSHING,Richard,Wilson,ATT,6
+3333086,11/19/2016,FBS,Boston College,Connecticut,RUSHING,Richard,Wilson,YDS,6
+3333087,11/19/2016,FBS,Boston College,Connecticut,RUSHING,Richard,Wilson,TD,0
+3333088,11/19/2016,FBS,Boston College,Connecticut,RUSHING,Richard,Wilson,LONG,2
+3333089,11/19/2016,FBS,Boston College,Connecticut,RUSHING,,Team,ATT,1
+3333090,11/19/2016,FBS,Boston College,Connecticut,RUSHING,,Team,YDS,-1
+3333091,11/19/2016,FBS,Boston College,Connecticut,RUSHING,,Team,TD,0
+3333092,11/19/2016,FBS,Boston College,Connecticut,RUSHING,,Team,LONG,-1
+3333093,11/19/2016,FBS,Boston College,Connecticut,PASSING,Patrick,Towles,CP-ATT-INT,14-19-0
+3333094,11/19/2016,FBS,Boston College,Connecticut,PASSING,Patrick,Towles,YDS,183
+3333095,11/19/2016,FBS,Boston College,Connecticut,PASSING,Patrick,Towles,TD,1
+3333096,11/19/2016,FBS,Boston College,Connecticut,PASSING,Patrick,Towles,LONG,54
+3333097,11/19/2016,FBS,Boston College,Connecticut,RECEIVING,Jeff,Smith,REC,4
+3333098,11/19/2016,FBS,Boston College,Connecticut,RECEIVING,Jeff,Smith,YDS,87
+3333099,11/19/2016,FBS,Boston College,Connecticut,RECEIVING,Jeff,Smith,TD,0
+3333100,11/19/2016,FBS,Boston College,Connecticut,RECEIVING,Jeff,Smith,LONG,54
+3333101,11/19/2016,FBS,Boston College,Connecticut,RECEIVING,Michael,Walker,REC,4
+3333102,11/19/2016,FBS,Boston College,Connecticut,RECEIVING,Michael,Walker,YDS,45
+3333103,11/19/2016,FBS,Boston College,Connecticut,RECEIVING,Michael,Walker,TD,1
+3333104,11/19/2016,FBS,Boston College,Connecticut,RECEIVING,Michael,Walker,LONG,22
+3333105,11/19/2016,FBS,Boston College,Connecticut,RECEIVING,Tommy,Sweeney,REC,2
+3333106,11/19/2016,FBS,Boston College,Connecticut,RECEIVING,Tommy,Sweeney,YDS,22
+3333107,11/19/2016,FBS,Boston College,Connecticut,RECEIVING,Tommy,Sweeney,TD,0
+3333108,11/19/2016,FBS,Boston College,Connecticut,RECEIVING,Tommy,Sweeney,LONG,14
+3333109,11/19/2016,FBS,Boston College,Connecticut,RECEIVING,Korab,Idrizi,REC,1
+3333110,11/19/2016,FBS,Boston College,Connecticut,RECEIVING,Korab,Idrizi,YDS,12
+3333111,11/19/2016,FBS,Boston College,Connecticut,RECEIVING,Korab,Idrizi,TD,0
+3333112,11/19/2016,FBS,Boston College,Connecticut,RECEIVING,Korab,Idrizi,LONG,12
+3333113,11/19/2016,FBS,Boston College,Connecticut,RECEIVING,Charlie,Callinan,REC,1
+3333114,11/19/2016,FBS,Boston College,Connecticut,RECEIVING,Charlie,Callinan,YDS,12
+3333115,11/19/2016,FBS,Boston College,Connecticut,RECEIVING,Charlie,Callinan,TD,0
+3333116,11/19/2016,FBS,Boston College,Connecticut,RECEIVING,Charlie,Callinan,LONG,12
+3333117,11/19/2016,FBS,Boston College,Connecticut,RECEIVING,Myles,Willis,REC,1
+3333118,11/19/2016,FBS,Boston College,Connecticut,RECEIVING,Myles,Willis,YDS,8
+3333119,11/19/2016,FBS,Boston College,Connecticut,RECEIVING,Myles,Willis,TD,0
+3333120,11/19/2016,FBS,Boston College,Connecticut,RECEIVING,Myles,Willis,LONG,8
+3333121,11/19/2016,FBS,Boston College,Connecticut,RECEIVING,Tyler,Rouse,REC,1
+3333122,11/19/2016,FBS,Boston College,Connecticut,RECEIVING,Tyler,Rouse,YDS,-3
+3333123,11/19/2016,FBS,Boston College,Connecticut,RECEIVING,Tyler,Rouse,TD,0
+3333124,11/19/2016,FBS,Boston College,Connecticut,RECEIVING,Tyler,Rouse,LONG,-3
+3333125,11/19/2016,FBS,Boston College,Connecticut,KICKING,Mike,Knoll,FG-FGA,3/3
+3333126,11/19/2016,FBS,Boston College,Connecticut,KICKING,Mike,Knoll,LONG,39
+3333127,11/19/2016,FBS,Boston College,Connecticut,KICKING,Mike,Knoll,XP,3
+3333128,11/19/2016,FBS,Boston College,Connecticut,KICKING,Mike,Knoll,PTS,12
+3333129,11/19/2016,FBS,Boston College,Connecticut,PUNTING,Mike,Knoll,NO,3
+3333130,11/19/2016,FBS,Boston College,Connecticut,PUNTING,Mike,Knoll,YDS,123
+3333131,11/19/2016,FBS,Boston College,Connecticut,PUNTING,Mike,Knoll,AVG,41.0
+3333132,11/19/2016,FBS,Boston College,Connecticut,PUNTING,Mike,Knoll,LONG,43
+3333133,11/19/2016,FBS,Boston College,Connecticut,PUNT RETURNS,Tyler,Rouse,NO,3
+3333134,11/19/2016,FBS,Boston College,Connecticut,PUNT RETURNS,Tyler,Rouse,YDS,45
+3333135,11/19/2016,FBS,Boston College,Connecticut,PUNT RETURNS,Tyler,Rouse,AVG,15.0
+3333136,11/19/2016,FBS,Boston College,Connecticut,PUNT RETURNS,Tyler,Rouse,LONG,23

@@ -1,0 +1,161 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+4081001,10/28/2017,FBS,Louisville,Wake Forest,RUSHING,Lamar,Jackson,ATT,27
+4081002,10/28/2017,FBS,Louisville,Wake Forest,RUSHING,Lamar,Jackson,YDS,161
+4081003,10/28/2017,FBS,Louisville,Wake Forest,RUSHING,Lamar,Jackson,TD,3
+4081004,10/28/2017,FBS,Louisville,Wake Forest,RUSHING,Lamar,Jackson,LONG,55
+4081005,10/28/2017,FBS,Louisville,Wake Forest,RUSHING,Reggie,Bonnafon,ATT,10
+4081006,10/28/2017,FBS,Louisville,Wake Forest,RUSHING,Reggie,Bonnafon,YDS,22
+4081007,10/28/2017,FBS,Louisville,Wake Forest,RUSHING,Reggie,Bonnafon,TD,0
+4081008,10/28/2017,FBS,Louisville,Wake Forest,RUSHING,Reggie,Bonnafon,LONG,9
+4081009,10/28/2017,FBS,Louisville,Wake Forest,RUSHING,Traveon,Samuel,ATT,1
+4081010,10/28/2017,FBS,Louisville,Wake Forest,RUSHING,Traveon,Samuel,YDS,8
+4081011,10/28/2017,FBS,Louisville,Wake Forest,RUSHING,Traveon,Samuel,TD,0
+4081012,10/28/2017,FBS,Louisville,Wake Forest,RUSHING,Traveon,Samuel,LONG,8
+4081013,10/28/2017,FBS,Louisville,Wake Forest,RUSHING,Dae,Williams,ATT,1
+4081014,10/28/2017,FBS,Louisville,Wake Forest,RUSHING,Dae,Williams,YDS,2
+4081015,10/28/2017,FBS,Louisville,Wake Forest,RUSHING,Dae,Williams,TD,0
+4081016,10/28/2017,FBS,Louisville,Wake Forest,RUSHING,Dae,Williams,LONG,2
+4081017,10/28/2017,FBS,Louisville,Wake Forest,RUSHING,Malik,Williams,ATT,2
+4081018,10/28/2017,FBS,Louisville,Wake Forest,RUSHING,Malik,Williams,YDS,0
+4081019,10/28/2017,FBS,Louisville,Wake Forest,RUSHING,Malik,Williams,TD,0
+4081020,10/28/2017,FBS,Louisville,Wake Forest,RUSHING,Malik,Williams,LONG,2
+4081021,10/28/2017,FBS,Louisville,Wake Forest,RUSHING,Jawon,Pass,ATT,1
+4081022,10/28/2017,FBS,Louisville,Wake Forest,RUSHING,Jawon,Pass,YDS,-2
+4081023,10/28/2017,FBS,Louisville,Wake Forest,RUSHING,Jawon,Pass,TD,0
+4081024,10/28/2017,FBS,Louisville,Wake Forest,RUSHING,Jawon,Pass,LONG,-2
+4081025,10/28/2017,FBS,Louisville,Wake Forest,PASSING,Lamar,Jackson,CP-ATT-INT,27-44-1
+4081026,10/28/2017,FBS,Louisville,Wake Forest,PASSING,Lamar,Jackson,YDS,330
+4081027,10/28/2017,FBS,Louisville,Wake Forest,PASSING,Lamar,Jackson,TD,1
+4081028,10/28/2017,FBS,Louisville,Wake Forest,PASSING,Lamar,Jackson,LONG,26
+4081029,10/28/2017,FBS,Louisville,Wake Forest,PASSING,Jawon,Pass,CP-ATT-INT,1-2-0
+4081030,10/28/2017,FBS,Louisville,Wake Forest,PASSING,Jawon,Pass,YDS,2
+4081031,10/28/2017,FBS,Louisville,Wake Forest,PASSING,Jawon,Pass,TD,0
+4081032,10/28/2017,FBS,Louisville,Wake Forest,PASSING,Jawon,Pass,LONG,2
+4081033,10/28/2017,FBS,Louisville,Wake Forest,RECEIVING,Jaylen,Smith,REC,6
+4081034,10/28/2017,FBS,Louisville,Wake Forest,RECEIVING,Jaylen,Smith,YDS,73
+4081035,10/28/2017,FBS,Louisville,Wake Forest,RECEIVING,Jaylen,Smith,TD,0
+4081036,10/28/2017,FBS,Louisville,Wake Forest,RECEIVING,Jaylen,Smith,LONG,24
+4081037,10/28/2017,FBS,Louisville,Wake Forest,RECEIVING,Traveon,Samuel,REC,5
+4081038,10/28/2017,FBS,Louisville,Wake Forest,RECEIVING,Traveon,Samuel,YDS,72
+4081039,10/28/2017,FBS,Louisville,Wake Forest,RECEIVING,Traveon,Samuel,TD,0
+4081040,10/28/2017,FBS,Louisville,Wake Forest,RECEIVING,Traveon,Samuel,LONG,26
+4081041,10/28/2017,FBS,Louisville,Wake Forest,RECEIVING,Seth,Dawkins,REC,5
+4081042,10/28/2017,FBS,Louisville,Wake Forest,RECEIVING,Seth,Dawkins,YDS,65
+4081043,10/28/2017,FBS,Louisville,Wake Forest,RECEIVING,Seth,Dawkins,TD,0
+4081044,10/28/2017,FBS,Louisville,Wake Forest,RECEIVING,Seth,Dawkins,LONG,19
+4081045,10/28/2017,FBS,Louisville,Wake Forest,RECEIVING,Dez,Fitzpatrick,REC,5
+4081046,10/28/2017,FBS,Louisville,Wake Forest,RECEIVING,Dez,Fitzpatrick,YDS,56
+4081047,10/28/2017,FBS,Louisville,Wake Forest,RECEIVING,Dez,Fitzpatrick,TD,0
+4081048,10/28/2017,FBS,Louisville,Wake Forest,RECEIVING,Dez,Fitzpatrick,LONG,17
+4081049,10/28/2017,FBS,Louisville,Wake Forest,RECEIVING,Charles,Standberry,REC,2
+4081050,10/28/2017,FBS,Louisville,Wake Forest,RECEIVING,Charles,Standberry,YDS,26
+4081051,10/28/2017,FBS,Louisville,Wake Forest,RECEIVING,Charles,Standberry,TD,1
+4081052,10/28/2017,FBS,Louisville,Wake Forest,RECEIVING,Charles,Standberry,LONG,20
+4081053,10/28/2017,FBS,Louisville,Wake Forest,RECEIVING,Reggie,Bonnafon,REC,3
+4081054,10/28/2017,FBS,Louisville,Wake Forest,RECEIVING,Reggie,Bonnafon,YDS,22
+4081055,10/28/2017,FBS,Louisville,Wake Forest,RECEIVING,Reggie,Bonnafon,TD,0
+4081056,10/28/2017,FBS,Louisville,Wake Forest,RECEIVING,Reggie,Bonnafon,LONG,15
+4081057,10/28/2017,FBS,Louisville,Wake Forest,RECEIVING,Kemari,Averett,REC,2
+4081058,10/28/2017,FBS,Louisville,Wake Forest,RECEIVING,Kemari,Averett,YDS,18
+4081059,10/28/2017,FBS,Louisville,Wake Forest,RECEIVING,Kemari,Averett,TD,0
+4081060,10/28/2017,FBS,Louisville,Wake Forest,RECEIVING,Kemari,Averett,LONG,10
+4081061,10/28/2017,FBS,Louisville,Wake Forest,KICKING,Blanton,Creque,FG-FGA,1/1
+4081062,10/28/2017,FBS,Louisville,Wake Forest,KICKING,Blanton,Creque,LONG,35
+4081063,10/28/2017,FBS,Louisville,Wake Forest,KICKING,Blanton,Creque,XP,3
+4081064,10/28/2017,FBS,Louisville,Wake Forest,KICKING,Blanton,Creque,PTS,6
+4081065,10/28/2017,FBS,Louisville,Wake Forest,PUNTING,Mason,King,NO,5
+4081066,10/28/2017,FBS,Louisville,Wake Forest,PUNTING,Mason,King,YDS,196
+4081067,10/28/2017,FBS,Louisville,Wake Forest,PUNTING,Mason,King,AVG,39.2
+4081068,10/28/2017,FBS,Louisville,Wake Forest,PUNTING,Mason,King,LONG,56
+4081069,10/28/2017,FBS,Louisville,Wake Forest,PUNT RETURNS,Russ,Yeast,NO,1
+4081070,10/28/2017,FBS,Louisville,Wake Forest,PUNT RETURNS,Russ,Yeast,YDS,-2
+4081071,10/28/2017,FBS,Louisville,Wake Forest,PUNT RETURNS,Russ,Yeast,AVG,-
+4081072,10/28/2017,FBS,Louisville,Wake Forest,PUNT RETURNS,Russ,Yeast,LONG,-2
+4081073,10/28/2017,FBS,Louisville,Wake Forest,KICK RETURNS,Traveon,Samuel,NO,1
+4081074,10/28/2017,FBS,Louisville,Wake Forest,KICK RETURNS,Traveon,Samuel,YDS,18
+4081075,10/28/2017,FBS,Louisville,Wake Forest,KICK RETURNS,Traveon,Samuel,AVG,18.0
+4081076,10/28/2017,FBS,Louisville,Wake Forest,KICK RETURNS,Traveon,Samuel,LONG,18
+4081077,10/28/2017,FBS,Louisville,Wake Forest,KICK RETURNS,Harry,Trotter,NO,1
+4081078,10/28/2017,FBS,Louisville,Wake Forest,KICK RETURNS,Harry,Trotter,YDS,13
+4081079,10/28/2017,FBS,Louisville,Wake Forest,KICK RETURNS,Harry,Trotter,AVG,13.0
+4081080,10/28/2017,FBS,Louisville,Wake Forest,KICK RETURNS,Harry,Trotter,LONG,13
+4081081,10/28/2017,FBS,Wake Forest,Louisville,RUSHING,Matt,ColburnII,ATT,24
+4081082,10/28/2017,FBS,Wake Forest,Louisville,RUSHING,Matt,ColburnII,YDS,134
+4081083,10/28/2017,FBS,Wake Forest,Louisville,RUSHING,Matt,ColburnII,TD,0
+4081084,10/28/2017,FBS,Wake Forest,Louisville,RUSHING,Matt,ColburnII,LONG,39
+4081085,10/28/2017,FBS,Wake Forest,Louisville,RUSHING,Arkeem,Byrd,ATT,5
+4081086,10/28/2017,FBS,Wake Forest,Louisville,RUSHING,Arkeem,Byrd,YDS,30
+4081087,10/28/2017,FBS,Wake Forest,Louisville,RUSHING,Arkeem,Byrd,TD,0
+4081088,10/28/2017,FBS,Wake Forest,Louisville,RUSHING,Arkeem,Byrd,LONG,15
+4081089,10/28/2017,FBS,Wake Forest,Louisville,RUSHING,John,Wolford,ATT,4
+4081090,10/28/2017,FBS,Wake Forest,Louisville,RUSHING,John,Wolford,YDS,14
+4081091,10/28/2017,FBS,Wake Forest,Louisville,RUSHING,John,Wolford,TD,1
+4081092,10/28/2017,FBS,Wake Forest,Louisville,RUSHING,John,Wolford,LONG,11
+4081093,10/28/2017,FBS,Wake Forest,Louisville,RUSHING,Cade,Carney,ATT,1
+4081094,10/28/2017,FBS,Wake Forest,Louisville,RUSHING,Cade,Carney,YDS,4
+4081095,10/28/2017,FBS,Wake Forest,Louisville,RUSHING,Cade,Carney,TD,0
+4081096,10/28/2017,FBS,Wake Forest,Louisville,RUSHING,Cade,Carney,LONG,4
+4081097,10/28/2017,FBS,Wake Forest,Louisville,RUSHING,Greg,Dortch,ATT,1
+4081098,10/28/2017,FBS,Wake Forest,Louisville,RUSHING,Greg,Dortch,YDS,-6
+4081099,10/28/2017,FBS,Wake Forest,Louisville,RUSHING,Greg,Dortch,TD,0
+4081100,10/28/2017,FBS,Wake Forest,Louisville,RUSHING,Greg,Dortch,LONG,-6
+4081101,10/28/2017,FBS,Wake Forest,Louisville,RUSHING,,Team,ATT,4
+4081102,10/28/2017,FBS,Wake Forest,Louisville,RUSHING,,Team,YDS,-12
+4081103,10/28/2017,FBS,Wake Forest,Louisville,RUSHING,,Team,TD,0
+4081104,10/28/2017,FBS,Wake Forest,Louisville,RUSHING,,Team,LONG,-2
+4081105,10/28/2017,FBS,Wake Forest,Louisville,PASSING,John,Wolford,CP-ATT-INT,28-34-0
+4081106,10/28/2017,FBS,Wake Forest,Louisville,PASSING,John,Wolford,YDS,461
+4081107,10/28/2017,FBS,Wake Forest,Louisville,PASSING,John,Wolford,TD,5
+4081108,10/28/2017,FBS,Wake Forest,Louisville,PASSING,John,Wolford,LONG,52
+4081109,10/28/2017,FBS,Wake Forest,Louisville,RECEIVING,Greg,Dortch,REC,10
+4081110,10/28/2017,FBS,Wake Forest,Louisville,RECEIVING,Greg,Dortch,YDS,167
+4081111,10/28/2017,FBS,Wake Forest,Louisville,RECEIVING,Greg,Dortch,TD,4
+4081112,10/28/2017,FBS,Wake Forest,Louisville,RECEIVING,Greg,Dortch,LONG,52
+4081113,10/28/2017,FBS,Wake Forest,Louisville,RECEIVING,Scotty,Washington,REC,6
+4081114,10/28/2017,FBS,Wake Forest,Louisville,RECEIVING,Scotty,Washington,YDS,133
+4081115,10/28/2017,FBS,Wake Forest,Louisville,RECEIVING,Scotty,Washington,TD,0
+4081116,10/28/2017,FBS,Wake Forest,Louisville,RECEIVING,Scotty,Washington,LONG,47
+4081117,10/28/2017,FBS,Wake Forest,Louisville,RECEIVING,Chuck,WadeJr.,REC,3
+4081118,10/28/2017,FBS,Wake Forest,Louisville,RECEIVING,Chuck,WadeJr.,YDS,61
+4081119,10/28/2017,FBS,Wake Forest,Louisville,RECEIVING,Chuck,WadeJr.,TD,1
+4081120,10/28/2017,FBS,Wake Forest,Louisville,RECEIVING,Chuck,WadeJr.,LONG,44
+4081121,10/28/2017,FBS,Wake Forest,Louisville,RECEIVING,Cam,Serigne,REC,4
+4081122,10/28/2017,FBS,Wake Forest,Louisville,RECEIVING,Cam,Serigne,YDS,42
+4081123,10/28/2017,FBS,Wake Forest,Louisville,RECEIVING,Cam,Serigne,TD,0
+4081124,10/28/2017,FBS,Wake Forest,Louisville,RECEIVING,Cam,Serigne,LONG,13
+4081125,10/28/2017,FBS,Wake Forest,Louisville,RECEIVING,Alex,Bachman,REC,2
+4081126,10/28/2017,FBS,Wake Forest,Louisville,RECEIVING,Alex,Bachman,YDS,38
+4081127,10/28/2017,FBS,Wake Forest,Louisville,RECEIVING,Alex,Bachman,TD,0
+4081128,10/28/2017,FBS,Wake Forest,Louisville,RECEIVING,Alex,Bachman,LONG,29
+4081129,10/28/2017,FBS,Wake Forest,Louisville,RECEIVING,Tabari,Hines,REC,2
+4081130,10/28/2017,FBS,Wake Forest,Louisville,RECEIVING,Tabari,Hines,YDS,15
+4081131,10/28/2017,FBS,Wake Forest,Louisville,RECEIVING,Tabari,Hines,TD,0
+4081132,10/28/2017,FBS,Wake Forest,Louisville,RECEIVING,Tabari,Hines,LONG,8
+4081133,10/28/2017,FBS,Wake Forest,Louisville,RECEIVING,Matt,ColburnII,REC,1
+4081134,10/28/2017,FBS,Wake Forest,Louisville,RECEIVING,Matt,ColburnII,YDS,5
+4081135,10/28/2017,FBS,Wake Forest,Louisville,RECEIVING,Matt,ColburnII,TD,0
+4081136,10/28/2017,FBS,Wake Forest,Louisville,RECEIVING,Matt,ColburnII,LONG,5
+4081137,10/28/2017,FBS,Wake Forest,Louisville,KICKING,Mike,Weaver,FG-FGA,0/0
+4081138,10/28/2017,FBS,Wake Forest,Louisville,KICKING,Mike,Weaver,LONG,-
+4081139,10/28/2017,FBS,Wake Forest,Louisville,KICKING,Mike,Weaver,XP,6
+4081140,10/28/2017,FBS,Wake Forest,Louisville,KICKING,Mike,Weaver,PTS,6
+4081141,10/28/2017,FBS,Wake Forest,Louisville,PUNTING,Dom,Maggio,NO,2
+4081142,10/28/2017,FBS,Wake Forest,Louisville,PUNTING,Dom,Maggio,YDS,77
+4081143,10/28/2017,FBS,Wake Forest,Louisville,PUNTING,Dom,Maggio,AVG,38.5
+4081144,10/28/2017,FBS,Wake Forest,Louisville,PUNTING,Dom,Maggio,LONG,46
+4081145,10/28/2017,FBS,Wake Forest,Louisville,PUNT RETURNS,Greg,Dortch,NO,2
+4081146,10/28/2017,FBS,Wake Forest,Louisville,PUNT RETURNS,Greg,Dortch,YDS,5
+4081147,10/28/2017,FBS,Wake Forest,Louisville,PUNT RETURNS,Greg,Dortch,AVG,2.5
+4081148,10/28/2017,FBS,Wake Forest,Louisville,PUNT RETURNS,Greg,Dortch,LONG,3
+4081149,10/28/2017,FBS,Wake Forest,Louisville,KICK RETURNS,Greg,Dortch,NO,2
+4081150,10/28/2017,FBS,Wake Forest,Louisville,KICK RETURNS,Greg,Dortch,YDS,50
+4081151,10/28/2017,FBS,Wake Forest,Louisville,KICK RETURNS,Greg,Dortch,AVG,25.0
+4081152,10/28/2017,FBS,Wake Forest,Louisville,KICK RETURNS,Greg,Dortch,LONG,26
+4081153,10/28/2017,FBS,Wake Forest,Louisville,KICK RETURNS,Jessie,BatesIII,NO,1
+4081154,10/28/2017,FBS,Wake Forest,Louisville,KICK RETURNS,Jessie,BatesIII,YDS,0
+4081155,10/28/2017,FBS,Wake Forest,Louisville,KICK RETURNS,Jessie,BatesIII,AVG,-
+4081156,10/28/2017,FBS,Wake Forest,Louisville,KICK RETURNS,Jessie,BatesIII,LONG,0
+4081157,10/28/2017,FBS,Wake Forest,Louisville,KICK RETURNS,Scotty,Washington,NO,1
+4081158,10/28/2017,FBS,Wake Forest,Louisville,KICK RETURNS,Scotty,Washington,YDS,0
+4081159,10/28/2017,FBS,Wake Forest,Louisville,KICK RETURNS,Scotty,Washington,AVG,-
+4081160,10/28/2017,FBS,Wake Forest,Louisville,KICK RETURNS,Scotty,Washington,LONG,0

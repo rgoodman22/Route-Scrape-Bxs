@@ -1,0 +1,173 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3592001,9/2/2017,FBS,Louisville,Purdue,RUSHING,Lamar,Jackson,ATT,21
+3592002,9/2/2017,FBS,Louisville,Purdue,RUSHING,Lamar,Jackson,YDS,107
+3592003,9/2/2017,FBS,Louisville,Purdue,RUSHING,Lamar,Jackson,TD,0
+3592004,9/2/2017,FBS,Louisville,Purdue,RUSHING,Lamar,Jackson,LONG,15
+3592005,9/2/2017,FBS,Louisville,Purdue,RUSHING,Reggie,Bonnafon,ATT,6
+3592006,9/2/2017,FBS,Louisville,Purdue,RUSHING,Reggie,Bonnafon,YDS,33
+3592007,9/2/2017,FBS,Louisville,Purdue,RUSHING,Reggie,Bonnafon,TD,1
+3592008,9/2/2017,FBS,Louisville,Purdue,RUSHING,Reggie,Bonnafon,LONG,13
+3592009,9/2/2017,FBS,Louisville,Purdue,RUSHING,Jeremy,Smith,ATT,5
+3592010,9/2/2017,FBS,Louisville,Purdue,RUSHING,Jeremy,Smith,YDS,8
+3592011,9/2/2017,FBS,Louisville,Purdue,RUSHING,Jeremy,Smith,TD,0
+3592012,9/2/2017,FBS,Louisville,Purdue,RUSHING,Jeremy,Smith,LONG,5
+3592013,9/2/2017,FBS,Louisville,Purdue,RUSHING,,Team,ATT,1
+3592014,9/2/2017,FBS,Louisville,Purdue,RUSHING,,Team,YDS,-2
+3592015,9/2/2017,FBS,Louisville,Purdue,RUSHING,,Team,TD,0
+3592016,9/2/2017,FBS,Louisville,Purdue,RUSHING,,Team,LONG,-2
+3592017,9/2/2017,FBS,Louisville,Purdue,PASSING,Lamar,Jackson,CP-ATT-INT,30-46-0
+3592018,9/2/2017,FBS,Louisville,Purdue,PASSING,Lamar,Jackson,YDS,378
+3592019,9/2/2017,FBS,Louisville,Purdue,PASSING,Lamar,Jackson,TD,2
+3592020,9/2/2017,FBS,Louisville,Purdue,PASSING,Lamar,Jackson,LONG,39
+3592021,9/2/2017,FBS,Louisville,Purdue,RECEIVING,Jaylen,Smith,REC,8
+3592022,9/2/2017,FBS,Louisville,Purdue,RECEIVING,Jaylen,Smith,YDS,117
+3592023,9/2/2017,FBS,Louisville,Purdue,RECEIVING,Jaylen,Smith,TD,0
+3592024,9/2/2017,FBS,Louisville,Purdue,RECEIVING,Jaylen,Smith,LONG,29
+3592025,9/2/2017,FBS,Louisville,Purdue,RECEIVING,Dez,Fitzpatrick,REC,4
+3592026,9/2/2017,FBS,Louisville,Purdue,RECEIVING,Dez,Fitzpatrick,YDS,95
+3592027,9/2/2017,FBS,Louisville,Purdue,RECEIVING,Dez,Fitzpatrick,TD,1
+3592028,9/2/2017,FBS,Louisville,Purdue,RECEIVING,Dez,Fitzpatrick,LONG,39
+3592029,9/2/2017,FBS,Louisville,Purdue,RECEIVING,Seth,Dawkins,REC,4
+3592030,9/2/2017,FBS,Louisville,Purdue,RECEIVING,Seth,Dawkins,YDS,56
+3592031,9/2/2017,FBS,Louisville,Purdue,RECEIVING,Seth,Dawkins,TD,0
+3592032,9/2/2017,FBS,Louisville,Purdue,RECEIVING,Seth,Dawkins,LONG,21
+3592033,9/2/2017,FBS,Louisville,Purdue,RECEIVING,Traveon,Samuel,REC,5
+3592034,9/2/2017,FBS,Louisville,Purdue,RECEIVING,Traveon,Samuel,YDS,55
+3592035,9/2/2017,FBS,Louisville,Purdue,RECEIVING,Traveon,Samuel,TD,0
+3592036,9/2/2017,FBS,Louisville,Purdue,RECEIVING,Traveon,Samuel,LONG,21
+3592037,9/2/2017,FBS,Louisville,Purdue,RECEIVING,Micky,Crum,REC,1
+3592038,9/2/2017,FBS,Louisville,Purdue,RECEIVING,Micky,Crum,YDS,18
+3592039,9/2/2017,FBS,Louisville,Purdue,RECEIVING,Micky,Crum,TD,0
+3592040,9/2/2017,FBS,Louisville,Purdue,RECEIVING,Micky,Crum,LONG,18
+3592041,9/2/2017,FBS,Louisville,Purdue,RECEIVING,Malik,Williams,REC,2
+3592042,9/2/2017,FBS,Louisville,Purdue,RECEIVING,Malik,Williams,YDS,17
+3592043,9/2/2017,FBS,Louisville,Purdue,RECEIVING,Malik,Williams,TD,0
+3592044,9/2/2017,FBS,Louisville,Purdue,RECEIVING,Malik,Williams,LONG,12
+3592045,9/2/2017,FBS,Louisville,Purdue,RECEIVING,Charles,Standberry,REC,2
+3592046,9/2/2017,FBS,Louisville,Purdue,RECEIVING,Charles,Standberry,YDS,12
+3592047,9/2/2017,FBS,Louisville,Purdue,RECEIVING,Charles,Standberry,TD,0
+3592048,9/2/2017,FBS,Louisville,Purdue,RECEIVING,Charles,Standberry,LONG,7
+3592049,9/2/2017,FBS,Louisville,Purdue,RECEIVING,Reggie,Bonnafon,REC,3
+3592050,9/2/2017,FBS,Louisville,Purdue,RECEIVING,Reggie,Bonnafon,YDS,5
+3592051,9/2/2017,FBS,Louisville,Purdue,RECEIVING,Reggie,Bonnafon,TD,0
+3592052,9/2/2017,FBS,Louisville,Purdue,RECEIVING,Reggie,Bonnafon,LONG,4
+3592053,9/2/2017,FBS,Louisville,Purdue,RECEIVING,Jordan,Davis,REC,1
+3592054,9/2/2017,FBS,Louisville,Purdue,RECEIVING,Jordan,Davis,YDS,3
+3592055,9/2/2017,FBS,Louisville,Purdue,RECEIVING,Jordan,Davis,TD,1
+3592056,9/2/2017,FBS,Louisville,Purdue,RECEIVING,Jordan,Davis,LONG,3
+3592057,9/2/2017,FBS,Louisville,Purdue,KICKING,Blanton,Creque,FG-FGA,3/3
+3592058,9/2/2017,FBS,Louisville,Purdue,KICKING,Blanton,Creque,LONG,32
+3592059,9/2/2017,FBS,Louisville,Purdue,KICKING,Blanton,Creque,XP,2
+3592060,9/2/2017,FBS,Louisville,Purdue,KICKING,Blanton,Creque,PTS,11
+3592061,9/2/2017,FBS,Louisville,Purdue,PUNTING,Mason,King,NO,4
+3592062,9/2/2017,FBS,Louisville,Purdue,PUNTING,Mason,King,YDS,159
+3592063,9/2/2017,FBS,Louisville,Purdue,PUNTING,Mason,King,AVG,39.8
+3592064,9/2/2017,FBS,Louisville,Purdue,PUNTING,Mason,King,LONG,47
+3592065,9/2/2017,FBS,Louisville,Purdue,PUNT RETURNS,Reggie,Bonnafon,NO,2
+3592066,9/2/2017,FBS,Louisville,Purdue,PUNT RETURNS,Reggie,Bonnafon,YDS,33
+3592067,9/2/2017,FBS,Louisville,Purdue,PUNT RETURNS,Reggie,Bonnafon,AVG,16.5
+3592068,9/2/2017,FBS,Louisville,Purdue,PUNT RETURNS,Reggie,Bonnafon,LONG,33
+3592069,9/2/2017,FBS,Louisville,Purdue,PUNT RETURNS,Jaire,Alexander,NO,1
+3592070,9/2/2017,FBS,Louisville,Purdue,PUNT RETURNS,Jaire,Alexander,YDS,6
+3592071,9/2/2017,FBS,Louisville,Purdue,PUNT RETURNS,Jaire,Alexander,AVG,6.0
+3592072,9/2/2017,FBS,Louisville,Purdue,PUNT RETURNS,Jaire,Alexander,LONG,6
+3592073,9/2/2017,FBS,Louisville,Purdue,KICK RETURNS,Seth,Dawkins,NO,2
+3592074,9/2/2017,FBS,Louisville,Purdue,KICK RETURNS,Seth,Dawkins,YDS,62
+3592075,9/2/2017,FBS,Louisville,Purdue,KICK RETURNS,Seth,Dawkins,AVG,31.0
+3592076,9/2/2017,FBS,Louisville,Purdue,KICK RETURNS,Seth,Dawkins,LONG,43
+3592077,9/2/2017,FBS,Purdue,Louisville,RUSHING,Tario,Fuller,ATT,8
+3592078,9/2/2017,FBS,Purdue,Louisville,RUSHING,Tario,Fuller,YDS,29
+3592079,9/2/2017,FBS,Purdue,Louisville,RUSHING,Tario,Fuller,TD,0
+3592080,9/2/2017,FBS,Purdue,Louisville,RUSHING,Tario,Fuller,LONG,9
+3592081,9/2/2017,FBS,Purdue,Louisville,RUSHING,D.J.,Knox,ATT,4
+3592082,9/2/2017,FBS,Purdue,Louisville,RUSHING,D.J.,Knox,YDS,25
+3592083,9/2/2017,FBS,Purdue,Louisville,RUSHING,D.J.,Knox,TD,0
+3592084,9/2/2017,FBS,Purdue,Louisville,RUSHING,D.J.,Knox,LONG,13
+3592085,9/2/2017,FBS,Purdue,Louisville,RUSHING,David,Blough,ATT,5
+3592086,9/2/2017,FBS,Purdue,Louisville,RUSHING,David,Blough,YDS,6
+3592087,9/2/2017,FBS,Purdue,Louisville,RUSHING,David,Blough,TD,0
+3592088,9/2/2017,FBS,Purdue,Louisville,RUSHING,David,Blough,LONG,8
+3592089,9/2/2017,FBS,Purdue,Louisville,RUSHING,Jackson,Anthrop,ATT,1
+3592090,9/2/2017,FBS,Purdue,Louisville,RUSHING,Jackson,Anthrop,YDS,4
+3592091,9/2/2017,FBS,Purdue,Louisville,RUSHING,Jackson,Anthrop,TD,0
+3592092,9/2/2017,FBS,Purdue,Louisville,RUSHING,Jackson,Anthrop,LONG,4
+3592093,9/2/2017,FBS,Purdue,Louisville,RUSHING,Brian,Lankford-Johnson,ATT,1
+3592094,9/2/2017,FBS,Purdue,Louisville,RUSHING,Brian,Lankford-Johnson,YDS,-1
+3592095,9/2/2017,FBS,Purdue,Louisville,RUSHING,Brian,Lankford-Johnson,TD,0
+3592096,9/2/2017,FBS,Purdue,Louisville,RUSHING,Brian,Lankford-Johnson,LONG,-1
+3592097,9/2/2017,FBS,Purdue,Louisville,RUSHING,Richie,Worship,ATT,1
+3592098,9/2/2017,FBS,Purdue,Louisville,RUSHING,Richie,Worship,YDS,-4
+3592099,9/2/2017,FBS,Purdue,Louisville,RUSHING,Richie,Worship,TD,0
+3592100,9/2/2017,FBS,Purdue,Louisville,RUSHING,Richie,Worship,LONG,-4
+3592101,9/2/2017,FBS,Purdue,Louisville,RUSHING,Elijah,Sindelar,ATT,1
+3592102,9/2/2017,FBS,Purdue,Louisville,RUSHING,Elijah,Sindelar,YDS,-8
+3592103,9/2/2017,FBS,Purdue,Louisville,RUSHING,Elijah,Sindelar,TD,0
+3592104,9/2/2017,FBS,Purdue,Louisville,RUSHING,Elijah,Sindelar,LONG,-8
+3592105,9/2/2017,FBS,Purdue,Louisville,PASSING,David,Blough,CP-ATT-INT,18-26-2
+3592106,9/2/2017,FBS,Purdue,Louisville,PASSING,David,Blough,YDS,175
+3592107,9/2/2017,FBS,Purdue,Louisville,PASSING,David,Blough,TD,2
+3592108,9/2/2017,FBS,Purdue,Louisville,PASSING,David,Blough,LONG,22
+3592109,9/2/2017,FBS,Purdue,Louisville,PASSING,Elijah,Sindelar,CP-ATT-INT,15-31-1
+3592110,9/2/2017,FBS,Purdue,Louisville,PASSING,Elijah,Sindelar,YDS,118
+3592111,9/2/2017,FBS,Purdue,Louisville,PASSING,Elijah,Sindelar,TD,2
+3592112,9/2/2017,FBS,Purdue,Louisville,PASSING,Elijah,Sindelar,LONG,26
+3592113,9/2/2017,FBS,Purdue,Louisville,RECEIVING,Jackson,Anthrop,REC,7
+3592114,9/2/2017,FBS,Purdue,Louisville,RECEIVING,Jackson,Anthrop,YDS,82
+3592115,9/2/2017,FBS,Purdue,Louisville,RECEIVING,Jackson,Anthrop,TD,2
+3592116,9/2/2017,FBS,Purdue,Louisville,RECEIVING,Jackson,Anthrop,LONG,26
+3592117,9/2/2017,FBS,Purdue,Louisville,RECEIVING,Gregory,Phillips,REC,7
+3592118,9/2/2017,FBS,Purdue,Louisville,RECEIVING,Gregory,Phillips,YDS,59
+3592119,9/2/2017,FBS,Purdue,Louisville,RECEIVING,Gregory,Phillips,TD,0
+3592120,9/2/2017,FBS,Purdue,Louisville,RECEIVING,Gregory,Phillips,LONG,13
+3592121,9/2/2017,FBS,Purdue,Louisville,RECEIVING,Cole,Herdman,REC,4
+3592122,9/2/2017,FBS,Purdue,Louisville,RECEIVING,Cole,Herdman,YDS,59
+3592123,9/2/2017,FBS,Purdue,Louisville,RECEIVING,Cole,Herdman,TD,0
+3592124,9/2/2017,FBS,Purdue,Louisville,RECEIVING,Cole,Herdman,LONG,19
+3592125,9/2/2017,FBS,Purdue,Louisville,RECEIVING,Brycen,Hopkins,REC,3
+3592126,9/2/2017,FBS,Purdue,Louisville,RECEIVING,Brycen,Hopkins,YDS,34
+3592127,9/2/2017,FBS,Purdue,Louisville,RECEIVING,Brycen,Hopkins,TD,1
+3592128,9/2/2017,FBS,Purdue,Louisville,RECEIVING,Brycen,Hopkins,LONG,22
+3592129,9/2/2017,FBS,Purdue,Louisville,RECEIVING,Anthony,Mahoungou,REC,4
+3592130,9/2/2017,FBS,Purdue,Louisville,RECEIVING,Anthony,Mahoungou,YDS,33
+3592131,9/2/2017,FBS,Purdue,Louisville,RECEIVING,Anthony,Mahoungou,TD,0
+3592132,9/2/2017,FBS,Purdue,Louisville,RECEIVING,Anthony,Mahoungou,LONG,12
+3592133,9/2/2017,FBS,Purdue,Louisville,RECEIVING,Isaac,Zico,REC,2
+3592134,9/2/2017,FBS,Purdue,Louisville,RECEIVING,Isaac,Zico,YDS,12
+3592135,9/2/2017,FBS,Purdue,Louisville,RECEIVING,Isaac,Zico,TD,0
+3592136,9/2/2017,FBS,Purdue,Louisville,RECEIVING,Isaac,Zico,LONG,9
+3592137,9/2/2017,FBS,Purdue,Louisville,RECEIVING,Richie,Worship,REC,1
+3592138,9/2/2017,FBS,Purdue,Louisville,RECEIVING,Richie,Worship,YDS,8
+3592139,9/2/2017,FBS,Purdue,Louisville,RECEIVING,Richie,Worship,TD,1
+3592140,9/2/2017,FBS,Purdue,Louisville,RECEIVING,Richie,Worship,LONG,8
+3592141,9/2/2017,FBS,Purdue,Louisville,RECEIVING,D.J.,Knox,REC,2
+3592142,9/2/2017,FBS,Purdue,Louisville,RECEIVING,D.J.,Knox,YDS,3
+3592143,9/2/2017,FBS,Purdue,Louisville,RECEIVING,D.J.,Knox,TD,0
+3592144,9/2/2017,FBS,Purdue,Louisville,RECEIVING,D.J.,Knox,LONG,4
+3592145,9/2/2017,FBS,Purdue,Louisville,RECEIVING,Tario,Fuller,REC,3
+3592146,9/2/2017,FBS,Purdue,Louisville,RECEIVING,Tario,Fuller,YDS,3
+3592147,9/2/2017,FBS,Purdue,Louisville,RECEIVING,Tario,Fuller,TD,0
+3592148,9/2/2017,FBS,Purdue,Louisville,RECEIVING,Tario,Fuller,LONG,6
+3592149,9/2/2017,FBS,Purdue,Louisville,KICKING,J.D.,Dellinger,FG-FGA,0/1
+3592150,9/2/2017,FBS,Purdue,Louisville,KICKING,J.D.,Dellinger,LONG,0
+3592151,9/2/2017,FBS,Purdue,Louisville,KICKING,J.D.,Dellinger,XP,2
+3592152,9/2/2017,FBS,Purdue,Louisville,KICKING,J.D.,Dellinger,PTS,2
+3592153,9/2/2017,FBS,Purdue,Louisville,KICKING,Spencer,Evans,FG-FGA,0/0
+3592154,9/2/2017,FBS,Purdue,Louisville,KICKING,Spencer,Evans,LONG,-
+3592155,9/2/2017,FBS,Purdue,Louisville,KICKING,Spencer,Evans,XP,2
+3592156,9/2/2017,FBS,Purdue,Louisville,KICKING,Spencer,Evans,PTS,2
+3592157,9/2/2017,FBS,Purdue,Louisville,PUNTING,Joe,Schopper,NO,5
+3592158,9/2/2017,FBS,Purdue,Louisville,PUNTING,Joe,Schopper,YDS,243
+3592159,9/2/2017,FBS,Purdue,Louisville,PUNTING,Joe,Schopper,AVG,48.6
+3592160,9/2/2017,FBS,Purdue,Louisville,PUNTING,Joe,Schopper,LONG,56
+3592161,9/2/2017,FBS,Purdue,Louisville,PUNT RETURNS,Jackson,Anthrop,NO,2
+3592162,9/2/2017,FBS,Purdue,Louisville,PUNT RETURNS,Jackson,Anthrop,YDS,9
+3592163,9/2/2017,FBS,Purdue,Louisville,PUNT RETURNS,Jackson,Anthrop,AVG,4.5
+3592164,9/2/2017,FBS,Purdue,Louisville,PUNT RETURNS,Jackson,Anthrop,LONG,6
+3592165,9/2/2017,FBS,Purdue,Louisville,KICK RETURNS,KeyRon,Catlett,NO,4
+3592166,9/2/2017,FBS,Purdue,Louisville,KICK RETURNS,KeyRon,Catlett,YDS,51
+3592167,9/2/2017,FBS,Purdue,Louisville,KICK RETURNS,KeyRon,Catlett,AVG,12.8
+3592168,9/2/2017,FBS,Purdue,Louisville,KICK RETURNS,KeyRon,Catlett,LONG,21
+3592169,9/2/2017,FBS,Purdue,Louisville,KICK RETURNS,Markell,Jones,NO,2
+3592170,9/2/2017,FBS,Purdue,Louisville,KICK RETURNS,Markell,Jones,YDS,29
+3592171,9/2/2017,FBS,Purdue,Louisville,KICK RETURNS,Markell,Jones,AVG,14.5
+3592172,9/2/2017,FBS,Purdue,Louisville,KICK RETURNS,Markell,Jones,LONG,18

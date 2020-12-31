@@ -1,0 +1,157 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2196001,10/17/2015,FBS,Wake Forest,North Carolina,RUSHING,Tyler,Bell,ATT,13
+2196002,10/17/2015,FBS,Wake Forest,North Carolina,RUSHING,Tyler,Bell,YDS,48
+2196003,10/17/2015,FBS,Wake Forest,North Carolina,RUSHING,Tyler,Bell,TD,0
+2196004,10/17/2015,FBS,Wake Forest,North Carolina,RUSHING,Tyler,Bell,LONG,11
+2196005,10/17/2015,FBS,Wake Forest,North Carolina,RUSHING,Kendall,Hinton,ATT,7
+2196006,10/17/2015,FBS,Wake Forest,North Carolina,RUSHING,Kendall,Hinton,YDS,37
+2196007,10/17/2015,FBS,Wake Forest,North Carolina,RUSHING,Kendall,Hinton,TD,0
+2196008,10/17/2015,FBS,Wake Forest,North Carolina,RUSHING,Kendall,Hinton,LONG,12
+2196009,10/17/2015,FBS,Wake Forest,North Carolina,RUSHING,John,Wolford,ATT,10
+2196010,10/17/2015,FBS,Wake Forest,North Carolina,RUSHING,John,Wolford,YDS,19
+2196011,10/17/2015,FBS,Wake Forest,North Carolina,RUSHING,John,Wolford,TD,0
+2196012,10/17/2015,FBS,Wake Forest,North Carolina,RUSHING,John,Wolford,LONG,15
+2196013,10/17/2015,FBS,Wake Forest,North Carolina,RUSHING,Isaiah,Robinson,ATT,8
+2196014,10/17/2015,FBS,Wake Forest,North Carolina,RUSHING,Isaiah,Robinson,YDS,16
+2196015,10/17/2015,FBS,Wake Forest,North Carolina,RUSHING,Isaiah,Robinson,TD,0
+2196016,10/17/2015,FBS,Wake Forest,North Carolina,RUSHING,Isaiah,Robinson,LONG,6
+2196017,10/17/2015,FBS,Wake Forest,North Carolina,RUSHING,Matt,Colburn,ATT,1
+2196018,10/17/2015,FBS,Wake Forest,North Carolina,RUSHING,Matt,Colburn,YDS,4
+2196019,10/17/2015,FBS,Wake Forest,North Carolina,RUSHING,Matt,Colburn,TD,0
+2196020,10/17/2015,FBS,Wake Forest,North Carolina,RUSHING,Matt,Colburn,LONG,4
+2196021,10/17/2015,FBS,Wake Forest,North Carolina,RUSHING,Dezmond,Wortham,ATT,3
+2196022,10/17/2015,FBS,Wake Forest,North Carolina,RUSHING,Dezmond,Wortham,YDS,3
+2196023,10/17/2015,FBS,Wake Forest,North Carolina,RUSHING,Dezmond,Wortham,TD,0
+2196024,10/17/2015,FBS,Wake Forest,North Carolina,RUSHING,Dezmond,Wortham,LONG,2
+2196025,10/17/2015,FBS,Wake Forest,North Carolina,RUSHING,,Team,ATT,1
+2196026,10/17/2015,FBS,Wake Forest,North Carolina,RUSHING,,Team,YDS,-14
+2196027,10/17/2015,FBS,Wake Forest,North Carolina,RUSHING,,Team,TD,0
+2196028,10/17/2015,FBS,Wake Forest,North Carolina,RUSHING,,Team,LONG,-14
+2196029,10/17/2015,FBS,Wake Forest,North Carolina,PASSING,John,Wolford,CP-ATT-INT,16-22-0
+2196030,10/17/2015,FBS,Wake Forest,North Carolina,PASSING,John,Wolford,YDS,176
+2196031,10/17/2015,FBS,Wake Forest,North Carolina,PASSING,John,Wolford,TD,2
+2196032,10/17/2015,FBS,Wake Forest,North Carolina,PASSING,John,Wolford,LONG,32
+2196033,10/17/2015,FBS,Wake Forest,North Carolina,PASSING,Kendall,Hinton,CP-ATT-INT,4-8-0
+2196034,10/17/2015,FBS,Wake Forest,North Carolina,PASSING,Kendall,Hinton,YDS,21
+2196035,10/17/2015,FBS,Wake Forest,North Carolina,PASSING,Kendall,Hinton,TD,0
+2196036,10/17/2015,FBS,Wake Forest,North Carolina,PASSING,Kendall,Hinton,LONG,12
+2196037,10/17/2015,FBS,Wake Forest,North Carolina,RECEIVING,Cam,Serigne,REC,6
+2196038,10/17/2015,FBS,Wake Forest,North Carolina,RECEIVING,Cam,Serigne,YDS,65
+2196039,10/17/2015,FBS,Wake Forest,North Carolina,RECEIVING,Cam,Serigne,TD,1
+2196040,10/17/2015,FBS,Wake Forest,North Carolina,RECEIVING,Cam,Serigne,LONG,32
+2196041,10/17/2015,FBS,Wake Forest,North Carolina,RECEIVING,Cortez,Lewis,REC,4
+2196042,10/17/2015,FBS,Wake Forest,North Carolina,RECEIVING,Cortez,Lewis,YDS,58
+2196043,10/17/2015,FBS,Wake Forest,North Carolina,RECEIVING,Cortez,Lewis,TD,0
+2196044,10/17/2015,FBS,Wake Forest,North Carolina,RECEIVING,Cortez,Lewis,LONG,26
+2196045,10/17/2015,FBS,Wake Forest,North Carolina,RECEIVING,K.J.,Brent,REC,2
+2196046,10/17/2015,FBS,Wake Forest,North Carolina,RECEIVING,K.J.,Brent,YDS,26
+2196047,10/17/2015,FBS,Wake Forest,North Carolina,RECEIVING,K.J.,Brent,TD,0
+2196048,10/17/2015,FBS,Wake Forest,North Carolina,RECEIVING,K.J.,Brent,LONG,19
+2196049,10/17/2015,FBS,Wake Forest,North Carolina,RECEIVING,Tyler,Bell,REC,4
+2196050,10/17/2015,FBS,Wake Forest,North Carolina,RECEIVING,Tyler,Bell,YDS,19
+2196051,10/17/2015,FBS,Wake Forest,North Carolina,RECEIVING,Tyler,Bell,TD,0
+2196052,10/17/2015,FBS,Wake Forest,North Carolina,RECEIVING,Tyler,Bell,LONG,9
+2196053,10/17/2015,FBS,Wake Forest,North Carolina,RECEIVING,Tabari,Hines,REC,2
+2196054,10/17/2015,FBS,Wake Forest,North Carolina,RECEIVING,Tabari,Hines,YDS,13
+2196055,10/17/2015,FBS,Wake Forest,North Carolina,RECEIVING,Tabari,Hines,TD,1
+2196056,10/17/2015,FBS,Wake Forest,North Carolina,RECEIVING,Tabari,Hines,LONG,8
+2196057,10/17/2015,FBS,Wake Forest,North Carolina,RECEIVING,Isaiah,Robinson,REC,1
+2196058,10/17/2015,FBS,Wake Forest,North Carolina,RECEIVING,Isaiah,Robinson,YDS,12
+2196059,10/17/2015,FBS,Wake Forest,North Carolina,RECEIVING,Isaiah,Robinson,TD,0
+2196060,10/17/2015,FBS,Wake Forest,North Carolina,RECEIVING,Isaiah,Robinson,LONG,12
+2196061,10/17/2015,FBS,Wake Forest,North Carolina,RECEIVING,Chuck,Wade,REC,1
+2196062,10/17/2015,FBS,Wake Forest,North Carolina,RECEIVING,Chuck,Wade,YDS,4
+2196063,10/17/2015,FBS,Wake Forest,North Carolina,RECEIVING,Chuck,Wade,TD,0
+2196064,10/17/2015,FBS,Wake Forest,North Carolina,RECEIVING,Chuck,Wade,LONG,4
+2196065,10/17/2015,FBS,Wake Forest,North Carolina,KICKING,Mike,Weaver,FG-FGA,0/2
+2196066,10/17/2015,FBS,Wake Forest,North Carolina,KICKING,Mike,Weaver,LONG,0
+2196067,10/17/2015,FBS,Wake Forest,North Carolina,KICKING,Mike,Weaver,XP,2
+2196068,10/17/2015,FBS,Wake Forest,North Carolina,KICKING,Mike,Weaver,PTS,2
+2196069,10/17/2015,FBS,Wake Forest,North Carolina,PUNTING,Alexander,Kinal,NO,6
+2196070,10/17/2015,FBS,Wake Forest,North Carolina,PUNTING,Alexander,Kinal,YDS,249
+2196071,10/17/2015,FBS,Wake Forest,North Carolina,PUNTING,Alexander,Kinal,AVG,41.5
+2196072,10/17/2015,FBS,Wake Forest,North Carolina,PUNTING,Alexander,Kinal,LONG,47
+2196073,10/17/2015,FBS,Wake Forest,North Carolina,KICK RETURNS,Matt,Colburn,NO,3
+2196074,10/17/2015,FBS,Wake Forest,North Carolina,KICK RETURNS,Matt,Colburn,YDS,45
+2196075,10/17/2015,FBS,Wake Forest,North Carolina,KICK RETURNS,Matt,Colburn,AVG,15.0
+2196076,10/17/2015,FBS,Wake Forest,North Carolina,KICK RETURNS,Matt,Colburn,LONG,18
+2196077,10/17/2015,FBS,Wake Forest,North Carolina,KICK RETURNS,Chuck,Wade,NO,1
+2196078,10/17/2015,FBS,Wake Forest,North Carolina,KICK RETURNS,Chuck,Wade,YDS,18
+2196079,10/17/2015,FBS,Wake Forest,North Carolina,KICK RETURNS,Chuck,Wade,AVG,18.0
+2196080,10/17/2015,FBS,Wake Forest,North Carolina,KICK RETURNS,Chuck,Wade,LONG,18
+2196081,10/17/2015,FBS,North Carolina,Wake Forest,RUSHING,Elijah,Hood,ATT,8
+2196082,10/17/2015,FBS,North Carolina,Wake Forest,RUSHING,Elijah,Hood,YDS,101
+2196083,10/17/2015,FBS,North Carolina,Wake Forest,RUSHING,Elijah,Hood,TD,1
+2196084,10/17/2015,FBS,North Carolina,Wake Forest,RUSHING,Elijah,Hood,LONG,36
+2196085,10/17/2015,FBS,North Carolina,Wake Forest,RUSHING,Marquise,Williams,ATT,12
+2196086,10/17/2015,FBS,North Carolina,Wake Forest,RUSHING,Marquise,Williams,YDS,59
+2196087,10/17/2015,FBS,North Carolina,Wake Forest,RUSHING,Marquise,Williams,TD,1
+2196088,10/17/2015,FBS,North Carolina,Wake Forest,RUSHING,Marquise,Williams,LONG,33
+2196089,10/17/2015,FBS,North Carolina,Wake Forest,RUSHING,Khris,Francis,ATT,4
+2196090,10/17/2015,FBS,North Carolina,Wake Forest,RUSHING,Khris,Francis,YDS,23
+2196091,10/17/2015,FBS,North Carolina,Wake Forest,RUSHING,Khris,Francis,TD,0
+2196092,10/17/2015,FBS,North Carolina,Wake Forest,RUSHING,Khris,Francis,LONG,16
+2196093,10/17/2015,FBS,North Carolina,Wake Forest,RUSHING,T.J.,Logan,ATT,7
+2196094,10/17/2015,FBS,North Carolina,Wake Forest,RUSHING,T.J.,Logan,YDS,17
+2196095,10/17/2015,FBS,North Carolina,Wake Forest,RUSHING,T.J.,Logan,TD,1
+2196096,10/17/2015,FBS,North Carolina,Wake Forest,RUSHING,T.J.,Logan,LONG,11
+2196097,10/17/2015,FBS,North Carolina,Wake Forest,RUSHING,Mitch,Trubisky,ATT,2
+2196098,10/17/2015,FBS,North Carolina,Wake Forest,RUSHING,Mitch,Trubisky,YDS,12
+2196099,10/17/2015,FBS,North Carolina,Wake Forest,RUSHING,Mitch,Trubisky,TD,1
+2196100,10/17/2015,FBS,North Carolina,Wake Forest,RUSHING,Mitch,Trubisky,LONG,10
+2196101,10/17/2015,FBS,North Carolina,Wake Forest,PASSING,Marquise,Williams,CP-ATT-INT,14-20-2
+2196102,10/17/2015,FBS,North Carolina,Wake Forest,PASSING,Marquise,Williams,YDS,282
+2196103,10/17/2015,FBS,North Carolina,Wake Forest,PASSING,Marquise,Williams,TD,3
+2196104,10/17/2015,FBS,North Carolina,Wake Forest,PASSING,Marquise,Williams,LONG,61
+2196105,10/17/2015,FBS,North Carolina,Wake Forest,PASSING,Mitch,Trubisky,CP-ATT-INT,4-6-0
+2196106,10/17/2015,FBS,North Carolina,Wake Forest,PASSING,Mitch,Trubisky,YDS,44
+2196107,10/17/2015,FBS,North Carolina,Wake Forest,PASSING,Mitch,Trubisky,TD,0
+2196108,10/17/2015,FBS,North Carolina,Wake Forest,PASSING,Mitch,Trubisky,LONG,18
+2196109,10/17/2015,FBS,North Carolina,Wake Forest,RECEIVING,Mack,Hollins,REC,3
+2196110,10/17/2015,FBS,North Carolina,Wake Forest,RECEIVING,Mack,Hollins,YDS,103
+2196111,10/17/2015,FBS,North Carolina,Wake Forest,RECEIVING,Mack,Hollins,TD,3
+2196112,10/17/2015,FBS,North Carolina,Wake Forest,RECEIVING,Mack,Hollins,LONG,57
+2196113,10/17/2015,FBS,North Carolina,Wake Forest,RECEIVING,Austin,Proehl,REC,2
+2196114,10/17/2015,FBS,North Carolina,Wake Forest,RECEIVING,Austin,Proehl,YDS,94
+2196115,10/17/2015,FBS,North Carolina,Wake Forest,RECEIVING,Austin,Proehl,TD,0
+2196116,10/17/2015,FBS,North Carolina,Wake Forest,RECEIVING,Austin,Proehl,LONG,61
+2196117,10/17/2015,FBS,North Carolina,Wake Forest,RECEIVING,Bug,Howard,REC,4
+2196118,10/17/2015,FBS,North Carolina,Wake Forest,RECEIVING,Bug,Howard,YDS,45
+2196119,10/17/2015,FBS,North Carolina,Wake Forest,RECEIVING,Bug,Howard,TD,0
+2196120,10/17/2015,FBS,North Carolina,Wake Forest,RECEIVING,Bug,Howard,LONG,14
+2196121,10/17/2015,FBS,North Carolina,Wake Forest,RECEIVING,Quinshad,Davis,REC,3
+2196122,10/17/2015,FBS,North Carolina,Wake Forest,RECEIVING,Quinshad,Davis,YDS,21
+2196123,10/17/2015,FBS,North Carolina,Wake Forest,RECEIVING,Quinshad,Davis,TD,0
+2196124,10/17/2015,FBS,North Carolina,Wake Forest,RECEIVING,Quinshad,Davis,LONG,12
+2196125,10/17/2015,FBS,North Carolina,Wake Forest,RECEIVING,Damien,Washington,REC,2
+2196126,10/17/2015,FBS,North Carolina,Wake Forest,RECEIVING,Damien,Washington,YDS,21
+2196127,10/17/2015,FBS,North Carolina,Wake Forest,RECEIVING,Damien,Washington,TD,0
+2196128,10/17/2015,FBS,North Carolina,Wake Forest,RECEIVING,Damien,Washington,LONG,12
+2196129,10/17/2015,FBS,North Carolina,Wake Forest,RECEIVING,Elijah,Hood,REC,2
+2196130,10/17/2015,FBS,North Carolina,Wake Forest,RECEIVING,Elijah,Hood,YDS,19
+2196131,10/17/2015,FBS,North Carolina,Wake Forest,RECEIVING,Elijah,Hood,TD,0
+2196132,10/17/2015,FBS,North Carolina,Wake Forest,RECEIVING,Elijah,Hood,LONG,13
+2196133,10/17/2015,FBS,North Carolina,Wake Forest,RECEIVING,T.J.,Logan,REC,1
+2196134,10/17/2015,FBS,North Carolina,Wake Forest,RECEIVING,T.J.,Logan,YDS,18
+2196135,10/17/2015,FBS,North Carolina,Wake Forest,RECEIVING,T.J.,Logan,TD,0
+2196136,10/17/2015,FBS,North Carolina,Wake Forest,RECEIVING,T.J.,Logan,LONG,18
+2196137,10/17/2015,FBS,North Carolina,Wake Forest,RECEIVING,Brandon,Fritts,REC,1
+2196138,10/17/2015,FBS,North Carolina,Wake Forest,RECEIVING,Brandon,Fritts,YDS,5
+2196139,10/17/2015,FBS,North Carolina,Wake Forest,RECEIVING,Brandon,Fritts,TD,0
+2196140,10/17/2015,FBS,North Carolina,Wake Forest,RECEIVING,Brandon,Fritts,LONG,5
+2196141,10/17/2015,FBS,North Carolina,Wake Forest,KICKING,Nick,Weiler,FG-FGA,0/0
+2196142,10/17/2015,FBS,North Carolina,Wake Forest,KICKING,Nick,Weiler,LONG,-
+2196143,10/17/2015,FBS,North Carolina,Wake Forest,KICKING,Nick,Weiler,XP,6
+2196144,10/17/2015,FBS,North Carolina,Wake Forest,KICKING,Nick,Weiler,PTS,6
+2196145,10/17/2015,FBS,North Carolina,Wake Forest,PUNTING,Hunter,Lent,NO,3
+2196146,10/17/2015,FBS,North Carolina,Wake Forest,PUNTING,Hunter,Lent,YDS,150
+2196147,10/17/2015,FBS,North Carolina,Wake Forest,PUNTING,Hunter,Lent,AVG,50.0
+2196148,10/17/2015,FBS,North Carolina,Wake Forest,PUNTING,Hunter,Lent,LONG,56
+2196149,10/17/2015,FBS,North Carolina,Wake Forest,PUNT RETURNS,Ryan,Switzer,NO,1
+2196150,10/17/2015,FBS,North Carolina,Wake Forest,PUNT RETURNS,Ryan,Switzer,YDS,1
+2196151,10/17/2015,FBS,North Carolina,Wake Forest,PUNT RETURNS,Ryan,Switzer,AVG,1.0
+2196152,10/17/2015,FBS,North Carolina,Wake Forest,PUNT RETURNS,Ryan,Switzer,LONG,1
+2196153,10/17/2015,FBS,North Carolina,Wake Forest,KICK RETURNS,T.J.,Logan,NO,2
+2196154,10/17/2015,FBS,North Carolina,Wake Forest,KICK RETURNS,T.J.,Logan,YDS,47
+2196155,10/17/2015,FBS,North Carolina,Wake Forest,KICK RETURNS,T.J.,Logan,AVG,23.5
+2196156,10/17/2015,FBS,North Carolina,Wake Forest,KICK RETURNS,T.J.,Logan,LONG,25

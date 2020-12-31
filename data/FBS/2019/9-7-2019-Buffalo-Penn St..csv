@@ -1,0 +1,223 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+5420001,9/7/2019,FBS,Buffalo,Penn St.,RUSHING,Jaret,Patterson,ATT,23
+5420002,9/7/2019,FBS,Buffalo,Penn St.,RUSHING,Jaret,Patterson,YDS,71
+5420003,9/7/2019,FBS,Buffalo,Penn St.,RUSHING,Jaret,Patterson,TD,0
+5420004,9/7/2019,FBS,Buffalo,Penn St.,RUSHING,Jaret,Patterson,LONG,14
+5420005,9/7/2019,FBS,Buffalo,Penn St.,RUSHING,Kevin,Marks,ATT,17
+5420006,9/7/2019,FBS,Buffalo,Penn St.,RUSHING,Kevin,Marks,YDS,64
+5420007,9/7/2019,FBS,Buffalo,Penn St.,RUSHING,Kevin,Marks,TD,0
+5420008,9/7/2019,FBS,Buffalo,Penn St.,RUSHING,Kevin,Marks,LONG,29
+5420009,9/7/2019,FBS,Buffalo,Penn St.,RUSHING,Dylan,McDuffie,ATT,6
+5420010,9/7/2019,FBS,Buffalo,Penn St.,RUSHING,Dylan,McDuffie,YDS,43
+5420011,9/7/2019,FBS,Buffalo,Penn St.,RUSHING,Dylan,McDuffie,TD,0
+5420012,9/7/2019,FBS,Buffalo,Penn St.,RUSHING,Dylan,McDuffie,LONG,20
+5420013,9/7/2019,FBS,Buffalo,Penn St.,RUSHING,Ron,CookJr.,ATT,5
+5420014,9/7/2019,FBS,Buffalo,Penn St.,RUSHING,Ron,CookJr.,YDS,6
+5420015,9/7/2019,FBS,Buffalo,Penn St.,RUSHING,Ron,CookJr.,TD,0
+5420016,9/7/2019,FBS,Buffalo,Penn St.,RUSHING,Ron,CookJr.,LONG,4
+5420017,9/7/2019,FBS,Buffalo,Penn St.,RUSHING,Matt,Myers,ATT,7
+5420018,9/7/2019,FBS,Buffalo,Penn St.,RUSHING,Matt,Myers,YDS,0
+5420019,9/7/2019,FBS,Buffalo,Penn St.,RUSHING,Matt,Myers,TD,0
+5420020,9/7/2019,FBS,Buffalo,Penn St.,RUSHING,Matt,Myers,LONG,3
+5420021,9/7/2019,FBS,Buffalo,Penn St.,PASSING,Matt,Myers,CP-ATT-INT,16-31-1
+5420022,9/7/2019,FBS,Buffalo,Penn St.,PASSING,Matt,Myers,YDS,245
+5420023,9/7/2019,FBS,Buffalo,Penn St.,PASSING,Matt,Myers,TD,1
+5420024,9/7/2019,FBS,Buffalo,Penn St.,PASSING,Matt,Myers,LONG,42
+5420025,9/7/2019,FBS,Buffalo,Penn St.,PASSING,Kyle,Vantrease,CP-ATT-INT,0-1-0
+5420026,9/7/2019,FBS,Buffalo,Penn St.,PASSING,Kyle,Vantrease,YDS,0
+5420027,9/7/2019,FBS,Buffalo,Penn St.,PASSING,Kyle,Vantrease,TD,0
+5420028,9/7/2019,FBS,Buffalo,Penn St.,PASSING,Kyle,Vantrease,LONG,0
+5420029,9/7/2019,FBS,Buffalo,Penn St.,RECEIVING,Antonio,Nunn,REC,5
+5420030,9/7/2019,FBS,Buffalo,Penn St.,RECEIVING,Antonio,Nunn,YDS,113
+5420031,9/7/2019,FBS,Buffalo,Penn St.,RECEIVING,Antonio,Nunn,TD,0
+5420032,9/7/2019,FBS,Buffalo,Penn St.,RECEIVING,Antonio,Nunn,LONG,42
+5420033,9/7/2019,FBS,Buffalo,Penn St.,RECEIVING,Zac,Lefebvre,REC,2
+5420034,9/7/2019,FBS,Buffalo,Penn St.,RECEIVING,Zac,Lefebvre,YDS,33
+5420035,9/7/2019,FBS,Buffalo,Penn St.,RECEIVING,Zac,Lefebvre,TD,0
+5420036,9/7/2019,FBS,Buffalo,Penn St.,RECEIVING,Zac,Lefebvre,LONG,29
+5420037,9/7/2019,FBS,Buffalo,Penn St.,RECEIVING,Carlton,Todd,REC,2
+5420038,9/7/2019,FBS,Buffalo,Penn St.,RECEIVING,Carlton,Todd,YDS,31
+5420039,9/7/2019,FBS,Buffalo,Penn St.,RECEIVING,Carlton,Todd,TD,0
+5420040,9/7/2019,FBS,Buffalo,Penn St.,RECEIVING,Carlton,Todd,LONG,28
+5420041,9/7/2019,FBS,Buffalo,Penn St.,RECEIVING,Dominic,Johnson,REC,3
+5420042,9/7/2019,FBS,Buffalo,Penn St.,RECEIVING,Dominic,Johnson,YDS,27
+5420043,9/7/2019,FBS,Buffalo,Penn St.,RECEIVING,Dominic,Johnson,TD,0
+5420044,9/7/2019,FBS,Buffalo,Penn St.,RECEIVING,Dominic,Johnson,LONG,12
+5420045,9/7/2019,FBS,Buffalo,Penn St.,RECEIVING,Jaret,Patterson,REC,1
+5420046,9/7/2019,FBS,Buffalo,Penn St.,RECEIVING,Jaret,Patterson,YDS,19
+5420047,9/7/2019,FBS,Buffalo,Penn St.,RECEIVING,Jaret,Patterson,TD,0
+5420048,9/7/2019,FBS,Buffalo,Penn St.,RECEIVING,Jaret,Patterson,LONG,19
+5420049,9/7/2019,FBS,Buffalo,Penn St.,RECEIVING,Daniel,Lee,REC,1
+5420050,9/7/2019,FBS,Buffalo,Penn St.,RECEIVING,Daniel,Lee,YDS,11
+5420051,9/7/2019,FBS,Buffalo,Penn St.,RECEIVING,Daniel,Lee,TD,0
+5420052,9/7/2019,FBS,Buffalo,Penn St.,RECEIVING,Daniel,Lee,LONG,11
+5420053,9/7/2019,FBS,Buffalo,Penn St.,RECEIVING,Julien,Bourassa,REC,1
+5420054,9/7/2019,FBS,Buffalo,Penn St.,RECEIVING,Julien,Bourassa,YDS,6
+5420055,9/7/2019,FBS,Buffalo,Penn St.,RECEIVING,Julien,Bourassa,TD,1
+5420056,9/7/2019,FBS,Buffalo,Penn St.,RECEIVING,Julien,Bourassa,LONG,6
+5420057,9/7/2019,FBS,Buffalo,Penn St.,RECEIVING,LeMaro,SmithJr.,REC,1
+5420058,9/7/2019,FBS,Buffalo,Penn St.,RECEIVING,LeMaro,SmithJr.,YDS,5
+5420059,9/7/2019,FBS,Buffalo,Penn St.,RECEIVING,LeMaro,SmithJr.,TD,0
+5420060,9/7/2019,FBS,Buffalo,Penn St.,RECEIVING,LeMaro,SmithJr.,LONG,5
+5420061,9/7/2019,FBS,Buffalo,Penn St.,KICKING,Alex,McNulty,FG-FGA,2/3
+5420062,9/7/2019,FBS,Buffalo,Penn St.,KICKING,Alex,McNulty,LONG,32
+5420063,9/7/2019,FBS,Buffalo,Penn St.,KICKING,Alex,McNulty,XP,1
+5420064,9/7/2019,FBS,Buffalo,Penn St.,KICKING,Alex,McNulty,PTS,7
+5420065,9/7/2019,FBS,Buffalo,Penn St.,PUNTING,Evan,Finegan,NO,4
+5420066,9/7/2019,FBS,Buffalo,Penn St.,PUNTING,Evan,Finegan,YDS,137
+5420067,9/7/2019,FBS,Buffalo,Penn St.,PUNTING,Evan,Finegan,AVG,34.2
+5420068,9/7/2019,FBS,Buffalo,Penn St.,PUNTING,Evan,Finegan,LONG,39
+5420069,9/7/2019,FBS,Buffalo,Penn St.,PUNTING,Kyle,Vantrease,NO,2
+5420070,9/7/2019,FBS,Buffalo,Penn St.,PUNTING,Kyle,Vantrease,YDS,51
+5420071,9/7/2019,FBS,Buffalo,Penn St.,PUNTING,Kyle,Vantrease,AVG,25.5
+5420072,9/7/2019,FBS,Buffalo,Penn St.,PUNTING,Kyle,Vantrease,LONG,34
+5420073,9/7/2019,FBS,Buffalo,Penn St.,PUNT RETURNS,Ron,CookJr.,NO,1
+5420074,9/7/2019,FBS,Buffalo,Penn St.,PUNT RETURNS,Ron,CookJr.,YDS,11
+5420075,9/7/2019,FBS,Buffalo,Penn St.,PUNT RETURNS,Ron,CookJr.,AVG,11.0
+5420076,9/7/2019,FBS,Buffalo,Penn St.,PUNT RETURNS,Ron,CookJr.,LONG,11
+5420077,9/7/2019,FBS,Buffalo,Penn St.,PUNT RETURNS,Tito,Overton,NO,0
+5420078,9/7/2019,FBS,Buffalo,Penn St.,PUNT RETURNS,Tito,Overton,YDS,0
+5420079,9/7/2019,FBS,Buffalo,Penn St.,PUNT RETURNS,Tito,Overton,AVG,-
+5420080,9/7/2019,FBS,Buffalo,Penn St.,PUNT RETURNS,Tito,Overton,LONG,0
+5420081,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,Chibueze,Onwuka,TOT,2
+5420082,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,Chibueze,Onwuka,SOLO,2
+5420083,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,Chibueze,Onwuka,SACKS,1.0
+5420084,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,Chibueze,Onwuka,TFL,2
+5420085,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,Chibueze,Onwuka,INT,0
+5420086,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,Chibueze,Onwuka,FF,0
+5420087,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,Chibueze,Onwuka,FR,0
+5420088,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,Eddie,Wilson,TOT,1
+5420089,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,Eddie,Wilson,SOLO,1
+5420090,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,Eddie,Wilson,SACKS,0.0
+5420091,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,Eddie,Wilson,TFL,0
+5420092,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,Eddie,Wilson,INT,0
+5420093,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,Eddie,Wilson,FF,1
+5420094,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,Eddie,Wilson,FR,0
+5420095,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,Taylor,Riggins,TOT,1
+5420096,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,Taylor,Riggins,SOLO,0
+5420097,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,Taylor,Riggins,SACKS,0.5
+5420098,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,Taylor,Riggins,TFL,0
+5420099,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,Taylor,Riggins,INT,0
+5420100,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,Taylor,Riggins,FF,0
+5420101,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,Taylor,Riggins,FR,0
+5420102,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,James,Patterson,TOT,1
+5420103,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,James,Patterson,SOLO,0
+5420104,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,James,Patterson,SACKS,0.5
+5420105,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,James,Patterson,TFL,0
+5420106,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,James,Patterson,INT,0
+5420107,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,James,Patterson,FF,0
+5420108,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,James,Patterson,FR,0
+5420109,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,Joey,Banks,TOT,1
+5420110,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,Joey,Banks,SOLO,1
+5420111,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,Joey,Banks,SACKS,1.0
+5420112,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,Joey,Banks,TFL,1
+5420113,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,Joey,Banks,INT,0
+5420114,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,Joey,Banks,FF,0
+5420115,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,Joey,Banks,FR,0
+5420116,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,Aapri,Washington,TOT,0
+5420117,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,Aapri,Washington,SOLO,0
+5420118,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,Aapri,Washington,SACKS,0.0
+5420119,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,Aapri,Washington,TFL,0
+5420120,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,Aapri,Washington,INT,0
+5420121,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,Aapri,Washington,FF,0
+5420122,9/7/2019,FBS,Buffalo,Penn St.,DEFENSE,Aapri,Washington,FR,1
+5420123,9/7/2019,FBS,Penn St.,Buffalo,RUSHING,Sean,Clifford,ATT,11
+5420124,9/7/2019,FBS,Penn St.,Buffalo,RUSHING,Sean,Clifford,YDS,51
+5420125,9/7/2019,FBS,Penn St.,Buffalo,RUSHING,Sean,Clifford,TD,0
+5420126,9/7/2019,FBS,Penn St.,Buffalo,RUSHING,Sean,Clifford,LONG,58
+5420127,9/7/2019,FBS,Penn St.,Buffalo,RUSHING,Journey,Brown,ATT,6
+5420128,9/7/2019,FBS,Penn St.,Buffalo,RUSHING,Journey,Brown,YDS,28
+5420129,9/7/2019,FBS,Penn St.,Buffalo,RUSHING,Journey,Brown,TD,0
+5420130,9/7/2019,FBS,Penn St.,Buffalo,RUSHING,Journey,Brown,LONG,10
+5420131,9/7/2019,FBS,Penn St.,Buffalo,RUSHING,Ricky,Slade,ATT,3
+5420132,9/7/2019,FBS,Penn St.,Buffalo,RUSHING,Ricky,Slade,YDS,8
+5420133,9/7/2019,FBS,Penn St.,Buffalo,RUSHING,Ricky,Slade,TD,0
+5420134,9/7/2019,FBS,Penn St.,Buffalo,RUSHING,Ricky,Slade,LONG,6
+5420135,9/7/2019,FBS,Penn St.,Buffalo,RUSHING,Noah,Cain,ATT,1
+5420136,9/7/2019,FBS,Penn St.,Buffalo,RUSHING,Noah,Cain,YDS,2
+5420137,9/7/2019,FBS,Penn St.,Buffalo,RUSHING,Noah,Cain,TD,1
+5420138,9/7/2019,FBS,Penn St.,Buffalo,RUSHING,Noah,Cain,LONG,2
+5420139,9/7/2019,FBS,Penn St.,Buffalo,RUSHING,Devyn,Ford,ATT,1
+5420140,9/7/2019,FBS,Penn St.,Buffalo,RUSHING,Devyn,Ford,YDS,1
+5420141,9/7/2019,FBS,Penn St.,Buffalo,RUSHING,Devyn,Ford,TD,0
+5420142,9/7/2019,FBS,Penn St.,Buffalo,RUSHING,Devyn,Ford,LONG,1
+5420143,9/7/2019,FBS,Penn St.,Buffalo,RUSHING,,Team,ATT,2
+5420144,9/7/2019,FBS,Penn St.,Buffalo,RUSHING,,Team,YDS,-12
+5420145,9/7/2019,FBS,Penn St.,Buffalo,RUSHING,,Team,TD,0
+5420146,9/7/2019,FBS,Penn St.,Buffalo,RUSHING,,Team,LONG,-6
+5420147,9/7/2019,FBS,Penn St.,Buffalo,PASSING,Sean,Clifford,CP-ATT-INT,16-22-0
+5420148,9/7/2019,FBS,Penn St.,Buffalo,PASSING,Sean,Clifford,YDS,279
+5420149,9/7/2019,FBS,Penn St.,Buffalo,PASSING,Sean,Clifford,TD,4
+5420150,9/7/2019,FBS,Penn St.,Buffalo,PASSING,Sean,Clifford,LONG,56
+5420151,9/7/2019,FBS,Penn St.,Buffalo,RECEIVING,Jahan,Dotson,REC,4
+5420152,9/7/2019,FBS,Penn St.,Buffalo,RECEIVING,Jahan,Dotson,YDS,109
+5420153,9/7/2019,FBS,Penn St.,Buffalo,RECEIVING,Jahan,Dotson,TD,2
+5420154,9/7/2019,FBS,Penn St.,Buffalo,RECEIVING,Jahan,Dotson,LONG,56
+5420155,9/7/2019,FBS,Penn St.,Buffalo,RECEIVING,Pat,Freiermuth,REC,8
+5420156,9/7/2019,FBS,Penn St.,Buffalo,RECEIVING,Pat,Freiermuth,YDS,99
+5420157,9/7/2019,FBS,Penn St.,Buffalo,RECEIVING,Pat,Freiermuth,TD,2
+5420158,9/7/2019,FBS,Penn St.,Buffalo,RECEIVING,Pat,Freiermuth,LONG,28
+5420159,9/7/2019,FBS,Penn St.,Buffalo,RECEIVING,KJ,Hamler,REC,3
+5420160,9/7/2019,FBS,Penn St.,Buffalo,RECEIVING,KJ,Hamler,YDS,62
+5420161,9/7/2019,FBS,Penn St.,Buffalo,RECEIVING,KJ,Hamler,TD,0
+5420162,9/7/2019,FBS,Penn St.,Buffalo,RECEIVING,KJ,Hamler,LONG,45
+5420163,9/7/2019,FBS,Penn St.,Buffalo,RECEIVING,Justin,Shorter,REC,1
+5420164,9/7/2019,FBS,Penn St.,Buffalo,RECEIVING,Justin,Shorter,YDS,9
+5420165,9/7/2019,FBS,Penn St.,Buffalo,RECEIVING,Justin,Shorter,TD,0
+5420166,9/7/2019,FBS,Penn St.,Buffalo,RECEIVING,Justin,Shorter,LONG,9
+5420167,9/7/2019,FBS,Penn St.,Buffalo,KICKING,Jake,Pinegar,FG-FGA,1/1
+5420168,9/7/2019,FBS,Penn St.,Buffalo,KICKING,Jake,Pinegar,LONG,32
+5420169,9/7/2019,FBS,Penn St.,Buffalo,KICKING,Jake,Pinegar,XP,6
+5420170,9/7/2019,FBS,Penn St.,Buffalo,KICKING,Jake,Pinegar,PTS,9
+5420171,9/7/2019,FBS,Penn St.,Buffalo,PUNTING,Blake,Gillikin,NO,5
+5420172,9/7/2019,FBS,Penn St.,Buffalo,PUNTING,Blake,Gillikin,YDS,206
+5420173,9/7/2019,FBS,Penn St.,Buffalo,PUNTING,Blake,Gillikin,AVG,41.2
+5420174,9/7/2019,FBS,Penn St.,Buffalo,PUNTING,Blake,Gillikin,LONG,51
+5420175,9/7/2019,FBS,Penn St.,Buffalo,PUNT RETURNS,KJ,Hamler,NO,1
+5420176,9/7/2019,FBS,Penn St.,Buffalo,PUNT RETURNS,KJ,Hamler,YDS,22
+5420177,9/7/2019,FBS,Penn St.,Buffalo,PUNT RETURNS,KJ,Hamler,AVG,22.0
+5420178,9/7/2019,FBS,Penn St.,Buffalo,PUNT RETURNS,KJ,Hamler,LONG,22
+5420179,9/7/2019,FBS,Penn St.,Buffalo,KICK RETURNS,Journey,Brown,NO,2
+5420180,9/7/2019,FBS,Penn St.,Buffalo,KICK RETURNS,Journey,Brown,YDS,19
+5420181,9/7/2019,FBS,Penn St.,Buffalo,KICK RETURNS,Journey,Brown,AVG,9.5
+5420182,9/7/2019,FBS,Penn St.,Buffalo,KICK RETURNS,Journey,Brown,LONG,13
+5420183,9/7/2019,FBS,Penn St.,Buffalo,KICK RETURNS,Jesse,Luketa,NO,1
+5420184,9/7/2019,FBS,Penn St.,Buffalo,KICK RETURNS,Jesse,Luketa,YDS,10
+5420185,9/7/2019,FBS,Penn St.,Buffalo,KICK RETURNS,Jesse,Luketa,AVG,10.0
+5420186,9/7/2019,FBS,Penn St.,Buffalo,KICK RETURNS,Jesse,Luketa,LONG,10
+5420187,9/7/2019,FBS,Penn St.,Buffalo,KICK RETURNS,Nick,Bowers,NO,0
+5420188,9/7/2019,FBS,Penn St.,Buffalo,KICK RETURNS,Nick,Bowers,YDS,0
+5420189,9/7/2019,FBS,Penn St.,Buffalo,KICK RETURNS,Nick,Bowers,AVG,-
+5420190,9/7/2019,FBS,Penn St.,Buffalo,KICK RETURNS,Nick,Bowers,LONG,0
+5420191,9/7/2019,FBS,Penn St.,Buffalo,KICK RETURNS,Nick,Eury,NO,0
+5420192,9/7/2019,FBS,Penn St.,Buffalo,KICK RETURNS,Nick,Eury,YDS,0
+5420193,9/7/2019,FBS,Penn St.,Buffalo,KICK RETURNS,Nick,Eury,AVG,-
+5420194,9/7/2019,FBS,Penn St.,Buffalo,KICK RETURNS,Nick,Eury,LONG,0
+5420195,9/7/2019,FBS,Penn St.,Buffalo,DEFENSE,Yetur,Gross-Matos,TOT,1
+5420196,9/7/2019,FBS,Penn St.,Buffalo,DEFENSE,Yetur,Gross-Matos,SOLO,0
+5420197,9/7/2019,FBS,Penn St.,Buffalo,DEFENSE,Yetur,Gross-Matos,SACKS,0.5
+5420198,9/7/2019,FBS,Penn St.,Buffalo,DEFENSE,Yetur,Gross-Matos,TFL,0
+5420199,9/7/2019,FBS,Penn St.,Buffalo,DEFENSE,Yetur,Gross-Matos,INT,0
+5420200,9/7/2019,FBS,Penn St.,Buffalo,DEFENSE,Yetur,Gross-Matos,FF,0
+5420201,9/7/2019,FBS,Penn St.,Buffalo,DEFENSE,Yetur,Gross-Matos,FR,0
+5420202,9/7/2019,FBS,Penn St.,Buffalo,DEFENSE,John,Reid,TOT,0
+5420203,9/7/2019,FBS,Penn St.,Buffalo,DEFENSE,John,Reid,SOLO,0
+5420204,9/7/2019,FBS,Penn St.,Buffalo,DEFENSE,John,Reid,SACKS,0.0
+5420205,9/7/2019,FBS,Penn St.,Buffalo,DEFENSE,John,Reid,TFL,0
+5420206,9/7/2019,FBS,Penn St.,Buffalo,DEFENSE,John,Reid,INT,1
+5420207,9/7/2019,FBS,Penn St.,Buffalo,DEFENSE,John,Reid,FF,0
+5420208,9/7/2019,FBS,Penn St.,Buffalo,DEFENSE,John,Reid,FR,0
+5420209,9/7/2019,FBS,Penn St.,Buffalo,DEFENSE,Ellis,Brooks,TOT,1
+5420210,9/7/2019,FBS,Penn St.,Buffalo,DEFENSE,Ellis,Brooks,SOLO,0
+5420211,9/7/2019,FBS,Penn St.,Buffalo,DEFENSE,Ellis,Brooks,SACKS,0.5
+5420212,9/7/2019,FBS,Penn St.,Buffalo,DEFENSE,Ellis,Brooks,TFL,0
+5420213,9/7/2019,FBS,Penn St.,Buffalo,DEFENSE,Ellis,Brooks,INT,0
+5420214,9/7/2019,FBS,Penn St.,Buffalo,DEFENSE,Ellis,Brooks,FF,0
+5420215,9/7/2019,FBS,Penn St.,Buffalo,DEFENSE,Ellis,Brooks,FR,0
+5420216,9/7/2019,FBS,Penn St.,Buffalo,DEFENSE,Cam,Brown,TOT,1
+5420217,9/7/2019,FBS,Penn St.,Buffalo,DEFENSE,Cam,Brown,SOLO,1
+5420218,9/7/2019,FBS,Penn St.,Buffalo,DEFENSE,Cam,Brown,SACKS,0.0
+5420219,9/7/2019,FBS,Penn St.,Buffalo,DEFENSE,Cam,Brown,TFL,0
+5420220,9/7/2019,FBS,Penn St.,Buffalo,DEFENSE,Cam,Brown,INT,0
+5420221,9/7/2019,FBS,Penn St.,Buffalo,DEFENSE,Cam,Brown,FF,1
+5420222,9/7/2019,FBS,Penn St.,Buffalo,DEFENSE,Cam,Brown,FR,1

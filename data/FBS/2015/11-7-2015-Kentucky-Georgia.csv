@@ -1,0 +1,145 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2364001,11/7/2015,FBS,Kentucky,Georgia,RUSHING,Jojo,Kemp,ATT,12
+2364002,11/7/2015,FBS,Kentucky,Georgia,RUSHING,Jojo,Kemp,YDS,48
+2364003,11/7/2015,FBS,Kentucky,Georgia,RUSHING,Jojo,Kemp,TD,0
+2364004,11/7/2015,FBS,Kentucky,Georgia,RUSHING,Jojo,Kemp,LONG,9
+2364005,11/7/2015,FBS,Kentucky,Georgia,RUSHING,Mikel,Horton,ATT,9
+2364006,11/7/2015,FBS,Kentucky,Georgia,RUSHING,Mikel,Horton,YDS,35
+2364007,11/7/2015,FBS,Kentucky,Georgia,RUSHING,Mikel,Horton,TD,0
+2364008,11/7/2015,FBS,Kentucky,Georgia,RUSHING,Mikel,Horton,LONG,18
+2364009,11/7/2015,FBS,Kentucky,Georgia,RUSHING,Sihiem,King,ATT,2
+2364010,11/7/2015,FBS,Kentucky,Georgia,RUSHING,Sihiem,King,YDS,4
+2364011,11/7/2015,FBS,Kentucky,Georgia,RUSHING,Sihiem,King,TD,0
+2364012,11/7/2015,FBS,Kentucky,Georgia,RUSHING,Sihiem,King,LONG,3
+2364013,11/7/2015,FBS,Kentucky,Georgia,RUSHING,Patrick,Towles,ATT,1
+2364014,11/7/2015,FBS,Kentucky,Georgia,RUSHING,Patrick,Towles,YDS,-8
+2364015,11/7/2015,FBS,Kentucky,Georgia,RUSHING,Patrick,Towles,TD,0
+2364016,11/7/2015,FBS,Kentucky,Georgia,RUSHING,Patrick,Towles,LONG,-8
+2364017,11/7/2015,FBS,Kentucky,Georgia,PASSING,Patrick,Towles,CP-ATT-INT,8-21-2
+2364018,11/7/2015,FBS,Kentucky,Georgia,PASSING,Patrick,Towles,YDS,96
+2364019,11/7/2015,FBS,Kentucky,Georgia,PASSING,Patrick,Towles,TD,0
+2364020,11/7/2015,FBS,Kentucky,Georgia,PASSING,Patrick,Towles,LONG,27
+2364021,11/7/2015,FBS,Kentucky,Georgia,PASSING,Drew,Barker,CP-ATT-INT,1-2-0
+2364022,11/7/2015,FBS,Kentucky,Georgia,PASSING,Drew,Barker,YDS,5
+2364023,11/7/2015,FBS,Kentucky,Georgia,PASSING,Drew,Barker,TD,0
+2364024,11/7/2015,FBS,Kentucky,Georgia,PASSING,Drew,Barker,LONG,5
+2364025,11/7/2015,FBS,Kentucky,Georgia,RECEIVING,Garrett,Johnson,REC,3
+2364026,11/7/2015,FBS,Kentucky,Georgia,RECEIVING,Garrett,Johnson,YDS,49
+2364027,11/7/2015,FBS,Kentucky,Georgia,RECEIVING,Garrett,Johnson,TD,0
+2364028,11/7/2015,FBS,Kentucky,Georgia,RECEIVING,Garrett,Johnson,LONG,27
+2364029,11/7/2015,FBS,Kentucky,Georgia,RECEIVING,Dorian,Baker,REC,3
+2364030,11/7/2015,FBS,Kentucky,Georgia,RECEIVING,Dorian,Baker,YDS,31
+2364031,11/7/2015,FBS,Kentucky,Georgia,RECEIVING,Dorian,Baker,TD,0
+2364032,11/7/2015,FBS,Kentucky,Georgia,RECEIVING,Dorian,Baker,LONG,19
+2364033,11/7/2015,FBS,Kentucky,Georgia,RECEIVING,Jeff,Badet,REC,1
+2364034,11/7/2015,FBS,Kentucky,Georgia,RECEIVING,Jeff,Badet,YDS,16
+2364035,11/7/2015,FBS,Kentucky,Georgia,RECEIVING,Jeff,Badet,TD,0
+2364036,11/7/2015,FBS,Kentucky,Georgia,RECEIVING,Jeff,Badet,LONG,16
+2364037,11/7/2015,FBS,Kentucky,Georgia,RECEIVING,Blake,Bone,REC,1
+2364038,11/7/2015,FBS,Kentucky,Georgia,RECEIVING,Blake,Bone,YDS,5
+2364039,11/7/2015,FBS,Kentucky,Georgia,RECEIVING,Blake,Bone,TD,0
+2364040,11/7/2015,FBS,Kentucky,Georgia,RECEIVING,Blake,Bone,LONG,5
+2364041,11/7/2015,FBS,Kentucky,Georgia,RECEIVING,Sihiem,King,REC,1
+2364042,11/7/2015,FBS,Kentucky,Georgia,RECEIVING,Sihiem,King,YDS,0
+2364043,11/7/2015,FBS,Kentucky,Georgia,RECEIVING,Sihiem,King,TD,0
+2364044,11/7/2015,FBS,Kentucky,Georgia,RECEIVING,Sihiem,King,LONG,0
+2364045,11/7/2015,FBS,Kentucky,Georgia,KICKING,Austin,MacGinnis,FG-FGA,1/1
+2364046,11/7/2015,FBS,Kentucky,Georgia,KICKING,Austin,MacGinnis,LONG,32
+2364047,11/7/2015,FBS,Kentucky,Georgia,KICKING,Austin,MacGinnis,XP,0
+2364048,11/7/2015,FBS,Kentucky,Georgia,KICKING,Austin,MacGinnis,PTS,3
+2364049,11/7/2015,FBS,Kentucky,Georgia,PUNTING,Landon,Foster,NO,7
+2364050,11/7/2015,FBS,Kentucky,Georgia,PUNTING,Landon,Foster,YDS,296
+2364051,11/7/2015,FBS,Kentucky,Georgia,PUNTING,Landon,Foster,AVG,42.3
+2364052,11/7/2015,FBS,Kentucky,Georgia,PUNTING,Landon,Foster,LONG,53
+2364053,11/7/2015,FBS,Kentucky,Georgia,PUNT RETURNS,Ryan,Timmons,NO,2
+2364054,11/7/2015,FBS,Kentucky,Georgia,PUNT RETURNS,Ryan,Timmons,YDS,7
+2364055,11/7/2015,FBS,Kentucky,Georgia,PUNT RETURNS,Ryan,Timmons,AVG,3.5
+2364056,11/7/2015,FBS,Kentucky,Georgia,PUNT RETURNS,Ryan,Timmons,LONG,12
+2364057,11/7/2015,FBS,Kentucky,Georgia,KICK RETURNS,Sihiem,King,NO,3
+2364058,11/7/2015,FBS,Kentucky,Georgia,KICK RETURNS,Sihiem,King,YDS,53
+2364059,11/7/2015,FBS,Kentucky,Georgia,KICK RETURNS,Sihiem,King,AVG,17.7
+2364060,11/7/2015,FBS,Kentucky,Georgia,KICK RETURNS,Sihiem,King,LONG,27
+2364061,11/7/2015,FBS,Georgia,Kentucky,RUSHING,Sony,Michel,ATT,24
+2364062,11/7/2015,FBS,Georgia,Kentucky,RUSHING,Sony,Michel,YDS,165
+2364063,11/7/2015,FBS,Georgia,Kentucky,RUSHING,Sony,Michel,TD,1
+2364064,11/7/2015,FBS,Georgia,Kentucky,RUSHING,Sony,Michel,LONG,45
+2364065,11/7/2015,FBS,Georgia,Kentucky,RUSHING,Keith,Marshall,ATT,13
+2364066,11/7/2015,FBS,Georgia,Kentucky,RUSHING,Keith,Marshall,YDS,60
+2364067,11/7/2015,FBS,Georgia,Kentucky,RUSHING,Keith,Marshall,TD,0
+2364068,11/7/2015,FBS,Georgia,Kentucky,RUSHING,Keith,Marshall,LONG,16
+2364069,11/7/2015,FBS,Georgia,Kentucky,RUSHING,Brendan,Douglas,ATT,7
+2364070,11/7/2015,FBS,Georgia,Kentucky,RUSHING,Brendan,Douglas,YDS,27
+2364071,11/7/2015,FBS,Georgia,Kentucky,RUSHING,Brendan,Douglas,TD,0
+2364072,11/7/2015,FBS,Georgia,Kentucky,RUSHING,Brendan,Douglas,LONG,9
+2364073,11/7/2015,FBS,Georgia,Kentucky,RUSHING,Terry,Godwin,ATT,4
+2364074,11/7/2015,FBS,Georgia,Kentucky,RUSHING,Terry,Godwin,YDS,26
+2364075,11/7/2015,FBS,Georgia,Kentucky,RUSHING,Terry,Godwin,TD,1
+2364076,11/7/2015,FBS,Georgia,Kentucky,RUSHING,Terry,Godwin,LONG,28
+2364077,11/7/2015,FBS,Georgia,Kentucky,RUSHING,Isaiah,McKenzie,ATT,2
+2364078,11/7/2015,FBS,Georgia,Kentucky,RUSHING,Isaiah,McKenzie,YDS,14
+2364079,11/7/2015,FBS,Georgia,Kentucky,RUSHING,Isaiah,McKenzie,TD,0
+2364080,11/7/2015,FBS,Georgia,Kentucky,RUSHING,Isaiah,McKenzie,LONG,13
+2364081,11/7/2015,FBS,Georgia,Kentucky,RUSHING,Greyson,Lambert,ATT,1
+2364082,11/7/2015,FBS,Georgia,Kentucky,RUSHING,Greyson,Lambert,YDS,4
+2364083,11/7/2015,FBS,Georgia,Kentucky,RUSHING,Greyson,Lambert,TD,0
+2364084,11/7/2015,FBS,Georgia,Kentucky,RUSHING,Greyson,Lambert,LONG,4
+2364085,11/7/2015,FBS,Georgia,Kentucky,RUSHING,Quayvon,Hicks,ATT,1
+2364086,11/7/2015,FBS,Georgia,Kentucky,RUSHING,Quayvon,Hicks,YDS,4
+2364087,11/7/2015,FBS,Georgia,Kentucky,RUSHING,Quayvon,Hicks,TD,0
+2364088,11/7/2015,FBS,Georgia,Kentucky,RUSHING,Quayvon,Hicks,LONG,4
+2364089,11/7/2015,FBS,Georgia,Kentucky,PASSING,Greyson,Lambert,CP-ATT-INT,6-13-0
+2364090,11/7/2015,FBS,Georgia,Kentucky,PASSING,Greyson,Lambert,YDS,64
+2364091,11/7/2015,FBS,Georgia,Kentucky,PASSING,Greyson,Lambert,TD,1
+2364092,11/7/2015,FBS,Georgia,Kentucky,PASSING,Greyson,Lambert,LONG,24
+2364093,11/7/2015,FBS,Georgia,Kentucky,PASSING,Brice,Ramsey,CP-ATT-INT,4-6-0
+2364094,11/7/2015,FBS,Georgia,Kentucky,PASSING,Brice,Ramsey,YDS,26
+2364095,11/7/2015,FBS,Georgia,Kentucky,PASSING,Brice,Ramsey,TD,0
+2364096,11/7/2015,FBS,Georgia,Kentucky,PASSING,Brice,Ramsey,LONG,13
+2364097,11/7/2015,FBS,Georgia,Kentucky,RECEIVING,Malcolm,Mitchell,REC,4
+2364098,11/7/2015,FBS,Georgia,Kentucky,RECEIVING,Malcolm,Mitchell,YDS,52
+2364099,11/7/2015,FBS,Georgia,Kentucky,RECEIVING,Malcolm,Mitchell,TD,0
+2364100,11/7/2015,FBS,Georgia,Kentucky,RECEIVING,Malcolm,Mitchell,LONG,24
+2364101,11/7/2015,FBS,Georgia,Kentucky,RECEIVING,Keith,Marshall,REC,1
+2364102,11/7/2015,FBS,Georgia,Kentucky,RECEIVING,Keith,Marshall,YDS,10
+2364103,11/7/2015,FBS,Georgia,Kentucky,RECEIVING,Keith,Marshall,TD,1
+2364104,11/7/2015,FBS,Georgia,Kentucky,RECEIVING,Keith,Marshall,LONG,10
+2364105,11/7/2015,FBS,Georgia,Kentucky,RECEIVING,Isaiah,McKenzie,REC,2
+2364106,11/7/2015,FBS,Georgia,Kentucky,RECEIVING,Isaiah,McKenzie,YDS,10
+2364107,11/7/2015,FBS,Georgia,Kentucky,RECEIVING,Isaiah,McKenzie,TD,0
+2364108,11/7/2015,FBS,Georgia,Kentucky,RECEIVING,Isaiah,McKenzie,LONG,10
+2364109,11/7/2015,FBS,Georgia,Kentucky,RECEIVING,Brendan,Douglas,REC,1
+2364110,11/7/2015,FBS,Georgia,Kentucky,RECEIVING,Brendan,Douglas,YDS,7
+2364111,11/7/2015,FBS,Georgia,Kentucky,RECEIVING,Brendan,Douglas,TD,0
+2364112,11/7/2015,FBS,Georgia,Kentucky,RECEIVING,Brendan,Douglas,LONG,7
+2364113,11/7/2015,FBS,Georgia,Kentucky,RECEIVING,Jay,Rome,REC,1
+2364114,11/7/2015,FBS,Georgia,Kentucky,RECEIVING,Jay,Rome,YDS,6
+2364115,11/7/2015,FBS,Georgia,Kentucky,RECEIVING,Jay,Rome,TD,0
+2364116,11/7/2015,FBS,Georgia,Kentucky,RECEIVING,Jay,Rome,LONG,6
+2364117,11/7/2015,FBS,Georgia,Kentucky,RECEIVING,Jackson,Harris,REC,1
+2364118,11/7/2015,FBS,Georgia,Kentucky,RECEIVING,Jackson,Harris,YDS,5
+2364119,11/7/2015,FBS,Georgia,Kentucky,RECEIVING,Jackson,Harris,TD,0
+2364120,11/7/2015,FBS,Georgia,Kentucky,RECEIVING,Jackson,Harris,LONG,5
+2364121,11/7/2015,FBS,Georgia,Kentucky,KICKING,Marshall,Morgan,FG-FGA,2/3
+2364122,11/7/2015,FBS,Georgia,Kentucky,KICKING,Marshall,Morgan,LONG,27
+2364123,11/7/2015,FBS,Georgia,Kentucky,KICKING,Marshall,Morgan,XP,3
+2364124,11/7/2015,FBS,Georgia,Kentucky,KICKING,Marshall,Morgan,PTS,9
+2364125,11/7/2015,FBS,Georgia,Kentucky,PUNTING,Brice,Ramsey,NO,3
+2364126,11/7/2015,FBS,Georgia,Kentucky,PUNTING,Brice,Ramsey,YDS,143
+2364127,11/7/2015,FBS,Georgia,Kentucky,PUNTING,Brice,Ramsey,AVG,47.7
+2364128,11/7/2015,FBS,Georgia,Kentucky,PUNTING,Brice,Ramsey,LONG,53
+2364129,11/7/2015,FBS,Georgia,Kentucky,PUNTING,Collin,Barber,NO,1
+2364130,11/7/2015,FBS,Georgia,Kentucky,PUNTING,Collin,Barber,YDS,44
+2364131,11/7/2015,FBS,Georgia,Kentucky,PUNTING,Collin,Barber,AVG,44.0
+2364132,11/7/2015,FBS,Georgia,Kentucky,PUNTING,Collin,Barber,LONG,44
+2364133,11/7/2015,FBS,Georgia,Kentucky,PUNT RETURNS,Terry,Godwin,NO,1
+2364134,11/7/2015,FBS,Georgia,Kentucky,PUNT RETURNS,Terry,Godwin,YDS,9
+2364135,11/7/2015,FBS,Georgia,Kentucky,PUNT RETURNS,Terry,Godwin,AVG,9.0
+2364136,11/7/2015,FBS,Georgia,Kentucky,PUNT RETURNS,Terry,Godwin,LONG,9
+2364137,11/7/2015,FBS,Georgia,Kentucky,PUNT RETURNS,Isaiah,McKenzie,NO,1
+2364138,11/7/2015,FBS,Georgia,Kentucky,PUNT RETURNS,Isaiah,McKenzie,YDS,0
+2364139,11/7/2015,FBS,Georgia,Kentucky,PUNT RETURNS,Isaiah,McKenzie,AVG,-
+2364140,11/7/2015,FBS,Georgia,Kentucky,PUNT RETURNS,Isaiah,McKenzie,LONG,0
+2364141,11/7/2015,FBS,Georgia,Kentucky,KICK RETURNS,Kirby,Choates,NO,2
+2364142,11/7/2015,FBS,Georgia,Kentucky,KICK RETURNS,Kirby,Choates,YDS,36
+2364143,11/7/2015,FBS,Georgia,Kentucky,KICK RETURNS,Kirby,Choates,AVG,18.0
+2364144,11/7/2015,FBS,Georgia,Kentucky,KICK RETURNS,Kirby,Choates,LONG,19

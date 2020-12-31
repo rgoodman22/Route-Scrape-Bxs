@@ -1,0 +1,125 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+4043001,10/28/2017,FBS,Liberty,Gardner-Webb,RUSHING,Carrington,Mosley,ATT,20
+4043002,10/28/2017,FBS,Liberty,Gardner-Webb,RUSHING,Carrington,Mosley,YDS,123
+4043003,10/28/2017,FBS,Liberty,Gardner-Webb,RUSHING,Carrington,Mosley,TD,2
+4043004,10/28/2017,FBS,Liberty,Gardner-Webb,RUSHING,Carrington,Mosley,LONG,18
+4043005,10/28/2017,FBS,Liberty,Gardner-Webb,RUSHING,Frankie,Hickson,ATT,8
+4043006,10/28/2017,FBS,Liberty,Gardner-Webb,RUSHING,Frankie,Hickson,YDS,14
+4043007,10/28/2017,FBS,Liberty,Gardner-Webb,RUSHING,Frankie,Hickson,TD,0
+4043008,10/28/2017,FBS,Liberty,Gardner-Webb,RUSHING,Frankie,Hickson,LONG,7
+4043009,10/28/2017,FBS,Liberty,Gardner-Webb,RUSHING,,Team,ATT,1
+4043010,10/28/2017,FBS,Liberty,Gardner-Webb,RUSHING,,Team,YDS,-2
+4043011,10/28/2017,FBS,Liberty,Gardner-Webb,RUSHING,,Team,TD,0
+4043012,10/28/2017,FBS,Liberty,Gardner-Webb,RUSHING,,Team,LONG,0
+4043013,10/28/2017,FBS,Liberty,Gardner-Webb,RUSHING,Stephen,Calvert,ATT,1
+4043014,10/28/2017,FBS,Liberty,Gardner-Webb,RUSHING,Stephen,Calvert,YDS,-10
+4043015,10/28/2017,FBS,Liberty,Gardner-Webb,RUSHING,Stephen,Calvert,TD,0
+4043016,10/28/2017,FBS,Liberty,Gardner-Webb,RUSHING,Stephen,Calvert,LONG,0
+4043017,10/28/2017,FBS,Liberty,Gardner-Webb,PASSING,Stephen,Calvert,CP-ATT-INT,21-34-0
+4043018,10/28/2017,FBS,Liberty,Gardner-Webb,PASSING,Stephen,Calvert,YDS,333
+4043019,10/28/2017,FBS,Liberty,Gardner-Webb,PASSING,Stephen,Calvert,TD,2
+4043020,10/28/2017,FBS,Liberty,Gardner-Webb,PASSING,Stephen,Calvert,LONG,40
+4043021,10/28/2017,FBS,Liberty,Gardner-Webb,RECEIVING,Antonio,Gandy-Golden,REC,4
+4043022,10/28/2017,FBS,Liberty,Gardner-Webb,RECEIVING,Antonio,Gandy-Golden,YDS,123
+4043023,10/28/2017,FBS,Liberty,Gardner-Webb,RECEIVING,Antonio,Gandy-Golden,TD,1
+4043024,10/28/2017,FBS,Liberty,Gardner-Webb,RECEIVING,Antonio,Gandy-Golden,LONG,40
+4043025,10/28/2017,FBS,Liberty,Gardner-Webb,RECEIVING,Damian,King,REC,8
+4043026,10/28/2017,FBS,Liberty,Gardner-Webb,RECEIVING,Damian,King,YDS,108
+4043027,10/28/2017,FBS,Liberty,Gardner-Webb,RECEIVING,Damian,King,TD,1
+4043028,10/28/2017,FBS,Liberty,Gardner-Webb,RECEIVING,Damian,King,LONG,35
+4043029,10/28/2017,FBS,Liberty,Gardner-Webb,RECEIVING,Cephas,Reddick,REC,5
+4043030,10/28/2017,FBS,Liberty,Gardner-Webb,RECEIVING,Cephas,Reddick,YDS,73
+4043031,10/28/2017,FBS,Liberty,Gardner-Webb,RECEIVING,Cephas,Reddick,TD,0
+4043032,10/28/2017,FBS,Liberty,Gardner-Webb,RECEIVING,Cephas,Reddick,LONG,22
+4043033,10/28/2017,FBS,Liberty,Gardner-Webb,RECEIVING,Carrington,Mosley,REC,2
+4043034,10/28/2017,FBS,Liberty,Gardner-Webb,RECEIVING,Carrington,Mosley,YDS,12
+4043035,10/28/2017,FBS,Liberty,Gardner-Webb,RECEIVING,Carrington,Mosley,TD,0
+4043036,10/28/2017,FBS,Liberty,Gardner-Webb,RECEIVING,Carrington,Mosley,LONG,6
+4043037,10/28/2017,FBS,Liberty,Gardner-Webb,RECEIVING,Thomas,Kennedy,REC,1
+4043038,10/28/2017,FBS,Liberty,Gardner-Webb,RECEIVING,Thomas,Kennedy,YDS,10
+4043039,10/28/2017,FBS,Liberty,Gardner-Webb,RECEIVING,Thomas,Kennedy,TD,0
+4043040,10/28/2017,FBS,Liberty,Gardner-Webb,RECEIVING,Thomas,Kennedy,LONG,10
+4043041,10/28/2017,FBS,Liberty,Gardner-Webb,RECEIVING,B.J.,Farrow,REC,1
+4043042,10/28/2017,FBS,Liberty,Gardner-Webb,RECEIVING,B.J.,Farrow,YDS,7
+4043043,10/28/2017,FBS,Liberty,Gardner-Webb,RECEIVING,B.J.,Farrow,TD,0
+4043044,10/28/2017,FBS,Liberty,Gardner-Webb,RECEIVING,B.J.,Farrow,LONG,7
+4043045,10/28/2017,FBS,Liberty,Gardner-Webb,KICKING,Alex,Probert,FG-FGA,0/0
+4043046,10/28/2017,FBS,Liberty,Gardner-Webb,KICKING,Alex,Probert,LONG,-
+4043047,10/28/2017,FBS,Liberty,Gardner-Webb,KICKING,Alex,Probert,XP,3
+4043048,10/28/2017,FBS,Liberty,Gardner-Webb,KICKING,Alex,Probert,PTS,3
+4043049,10/28/2017,FBS,Liberty,Gardner-Webb,PUNTING,Trey,Turner,NO,5
+4043050,10/28/2017,FBS,Liberty,Gardner-Webb,PUNTING,Trey,Turner,YDS,221
+4043051,10/28/2017,FBS,Liberty,Gardner-Webb,PUNTING,Trey,Turner,AVG,44.2
+4043052,10/28/2017,FBS,Liberty,Gardner-Webb,PUNTING,Trey,Turner,LONG,53
+4043053,10/28/2017,FBS,Liberty,Gardner-Webb,PUNT RETURNS,DJ,Stubbs,NO,1
+4043054,10/28/2017,FBS,Liberty,Gardner-Webb,PUNT RETURNS,DJ,Stubbs,YDS,7
+4043055,10/28/2017,FBS,Liberty,Gardner-Webb,PUNT RETURNS,DJ,Stubbs,AVG,7.0
+4043056,10/28/2017,FBS,Liberty,Gardner-Webb,PUNT RETURNS,DJ,Stubbs,LONG,7
+4043057,10/28/2017,FBS,Liberty,Gardner-Webb,PUNT RETURNS,B.J.,Farrow,NO,1
+4043058,10/28/2017,FBS,Liberty,Gardner-Webb,PUNT RETURNS,B.J.,Farrow,YDS,0
+4043059,10/28/2017,FBS,Liberty,Gardner-Webb,PUNT RETURNS,B.J.,Farrow,AVG,-
+4043060,10/28/2017,FBS,Liberty,Gardner-Webb,PUNT RETURNS,B.J.,Farrow,LONG,0
+4043061,10/28/2017,FBS,Liberty,Gardner-Webb,KICK RETURNS,Frankie,Hickson,NO,2
+4043062,10/28/2017,FBS,Liberty,Gardner-Webb,KICK RETURNS,Frankie,Hickson,YDS,23
+4043063,10/28/2017,FBS,Liberty,Gardner-Webb,KICK RETURNS,Frankie,Hickson,AVG,11.5
+4043064,10/28/2017,FBS,Liberty,Gardner-Webb,KICK RETURNS,Frankie,Hickson,LONG,20
+4043065,10/28/2017,FBS,Gardner-Webb,Liberty,RUSHING,Jayln,Cagle,ATT,24
+4043066,10/28/2017,FBS,Gardner-Webb,Liberty,RUSHING,Jayln,Cagle,YDS,179
+4043067,10/28/2017,FBS,Gardner-Webb,Liberty,RUSHING,Jayln,Cagle,TD,1
+4043068,10/28/2017,FBS,Gardner-Webb,Liberty,RUSHING,Jayln,Cagle,LONG,37
+4043069,10/28/2017,FBS,Gardner-Webb,Liberty,RUSHING,Tyrell,Maxwell,ATT,15
+4043070,10/28/2017,FBS,Gardner-Webb,Liberty,RUSHING,Tyrell,Maxwell,YDS,61
+4043071,10/28/2017,FBS,Gardner-Webb,Liberty,RUSHING,Tyrell,Maxwell,TD,0
+4043072,10/28/2017,FBS,Gardner-Webb,Liberty,RUSHING,Tyrell,Maxwell,LONG,20
+4043073,10/28/2017,FBS,Gardner-Webb,Liberty,RUSHING,Tysean,Carter,ATT,5
+4043074,10/28/2017,FBS,Gardner-Webb,Liberty,RUSHING,Tysean,Carter,YDS,37
+4043075,10/28/2017,FBS,Gardner-Webb,Liberty,RUSHING,Tysean,Carter,TD,0
+4043076,10/28/2017,FBS,Gardner-Webb,Liberty,RUSHING,Tysean,Carter,LONG,15
+4043077,10/28/2017,FBS,Gardner-Webb,Liberty,PASSING,Tyrell,Maxwell,CP-ATT-INT,13-32-3
+4043078,10/28/2017,FBS,Gardner-Webb,Liberty,PASSING,Tyrell,Maxwell,YDS,206
+4043079,10/28/2017,FBS,Gardner-Webb,Liberty,PASSING,Tyrell,Maxwell,TD,1
+4043080,10/28/2017,FBS,Gardner-Webb,Liberty,PASSING,Tyrell,Maxwell,LONG,40
+4043081,10/28/2017,FBS,Gardner-Webb,Liberty,RECEIVING,Brody,Rollins,REC,3
+4043082,10/28/2017,FBS,Gardner-Webb,Liberty,RECEIVING,Brody,Rollins,YDS,61
+4043083,10/28/2017,FBS,Gardner-Webb,Liberty,RECEIVING,Brody,Rollins,TD,1
+4043084,10/28/2017,FBS,Gardner-Webb,Liberty,RECEIVING,Brody,Rollins,LONG,40
+4043085,10/28/2017,FBS,Gardner-Webb,Liberty,RECEIVING,Kyle,Horton,REC,2
+4043086,10/28/2017,FBS,Gardner-Webb,Liberty,RECEIVING,Kyle,Horton,YDS,44
+4043087,10/28/2017,FBS,Gardner-Webb,Liberty,RECEIVING,Kyle,Horton,TD,0
+4043088,10/28/2017,FBS,Gardner-Webb,Liberty,RECEIVING,Kyle,Horton,LONG,35
+4043089,10/28/2017,FBS,Gardner-Webb,Liberty,RECEIVING,Jackson,Goodman,REC,1
+4043090,10/28/2017,FBS,Gardner-Webb,Liberty,RECEIVING,Jackson,Goodman,YDS,28
+4043091,10/28/2017,FBS,Gardner-Webb,Liberty,RECEIVING,Jackson,Goodman,TD,0
+4043092,10/28/2017,FBS,Gardner-Webb,Liberty,RECEIVING,Jackson,Goodman,LONG,28
+4043093,10/28/2017,FBS,Gardner-Webb,Liberty,RECEIVING,Jayln,Cagle,REC,2
+4043094,10/28/2017,FBS,Gardner-Webb,Liberty,RECEIVING,Jayln,Cagle,YDS,27
+4043095,10/28/2017,FBS,Gardner-Webb,Liberty,RECEIVING,Jayln,Cagle,TD,0
+4043096,10/28/2017,FBS,Gardner-Webb,Liberty,RECEIVING,Jayln,Cagle,LONG,32
+4043097,10/28/2017,FBS,Gardner-Webb,Liberty,RECEIVING,Jacob,Henderson,REC,2
+4043098,10/28/2017,FBS,Gardner-Webb,Liberty,RECEIVING,Jacob,Henderson,YDS,18
+4043099,10/28/2017,FBS,Gardner-Webb,Liberty,RECEIVING,Jacob,Henderson,TD,0
+4043100,10/28/2017,FBS,Gardner-Webb,Liberty,RECEIVING,Jacob,Henderson,LONG,10
+4043101,10/28/2017,FBS,Gardner-Webb,Liberty,RECEIVING,Adonus,Lee,REC,1
+4043102,10/28/2017,FBS,Gardner-Webb,Liberty,RECEIVING,Adonus,Lee,YDS,11
+4043103,10/28/2017,FBS,Gardner-Webb,Liberty,RECEIVING,Adonus,Lee,TD,0
+4043104,10/28/2017,FBS,Gardner-Webb,Liberty,RECEIVING,Adonus,Lee,LONG,11
+4043105,10/28/2017,FBS,Gardner-Webb,Liberty,RECEIVING,Caleb,Chapman,REC,1
+4043106,10/28/2017,FBS,Gardner-Webb,Liberty,RECEIVING,Caleb,Chapman,YDS,9
+4043107,10/28/2017,FBS,Gardner-Webb,Liberty,RECEIVING,Caleb,Chapman,TD,0
+4043108,10/28/2017,FBS,Gardner-Webb,Liberty,RECEIVING,Caleb,Chapman,LONG,9
+4043109,10/28/2017,FBS,Gardner-Webb,Liberty,RECEIVING,Willie,JacksonIV,REC,1
+4043110,10/28/2017,FBS,Gardner-Webb,Liberty,RECEIVING,Willie,JacksonIV,YDS,8
+4043111,10/28/2017,FBS,Gardner-Webb,Liberty,RECEIVING,Willie,JacksonIV,TD,0
+4043112,10/28/2017,FBS,Gardner-Webb,Liberty,RECEIVING,Willie,JacksonIV,LONG,8
+4043113,10/28/2017,FBS,Gardner-Webb,Liberty,KICKING,Paul,Schumacher,FG-FGA,1/3
+4043114,10/28/2017,FBS,Gardner-Webb,Liberty,KICKING,Paul,Schumacher,LONG,22
+4043115,10/28/2017,FBS,Gardner-Webb,Liberty,KICKING,Paul,Schumacher,XP,2
+4043116,10/28/2017,FBS,Gardner-Webb,Liberty,KICKING,Paul,Schumacher,PTS,5
+4043117,10/28/2017,FBS,Gardner-Webb,Liberty,PUNTING,Andrew,Komornik,NO,4
+4043118,10/28/2017,FBS,Gardner-Webb,Liberty,PUNTING,Andrew,Komornik,YDS,119
+4043119,10/28/2017,FBS,Gardner-Webb,Liberty,PUNTING,Andrew,Komornik,AVG,29.8
+4043120,10/28/2017,FBS,Gardner-Webb,Liberty,PUNTING,Andrew,Komornik,LONG,44
+4043121,10/28/2017,FBS,Gardner-Webb,Liberty,KICK RETURNS,Tysean,Carter,NO,4
+4043122,10/28/2017,FBS,Gardner-Webb,Liberty,KICK RETURNS,Tysean,Carter,YDS,71
+4043123,10/28/2017,FBS,Gardner-Webb,Liberty,KICK RETURNS,Tysean,Carter,AVG,17.8
+4043124,10/28/2017,FBS,Gardner-Webb,Liberty,KICK RETURNS,Tysean,Carter,LONG,21

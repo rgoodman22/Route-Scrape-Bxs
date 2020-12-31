@@ -1,0 +1,133 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3410001,11/26/2016,FBS,Minnesota,Wisconsin,RUSHING,Mitch,Leidner,ATT,16
+3410002,11/26/2016,FBS,Minnesota,Wisconsin,RUSHING,Mitch,Leidner,YDS,46
+3410003,11/26/2016,FBS,Minnesota,Wisconsin,RUSHING,Mitch,Leidner,TD,1
+3410004,11/26/2016,FBS,Minnesota,Wisconsin,RUSHING,Mitch,Leidner,LONG,32
+3410005,11/26/2016,FBS,Minnesota,Wisconsin,RUSHING,Rodney,Smith,ATT,13
+3410006,11/26/2016,FBS,Minnesota,Wisconsin,RUSHING,Rodney,Smith,YDS,45
+3410007,11/26/2016,FBS,Minnesota,Wisconsin,RUSHING,Rodney,Smith,TD,0
+3410008,11/26/2016,FBS,Minnesota,Wisconsin,RUSHING,Rodney,Smith,LONG,11
+3410009,11/26/2016,FBS,Minnesota,Wisconsin,RUSHING,Shannon,Brooks,ATT,9
+3410010,11/26/2016,FBS,Minnesota,Wisconsin,RUSHING,Shannon,Brooks,YDS,37
+3410011,11/26/2016,FBS,Minnesota,Wisconsin,RUSHING,Shannon,Brooks,TD,0
+3410012,11/26/2016,FBS,Minnesota,Wisconsin,RUSHING,Shannon,Brooks,LONG,18
+3410013,11/26/2016,FBS,Minnesota,Wisconsin,PASSING,Mitch,Leidner,CP-ATT-INT,9-26-4
+3410014,11/26/2016,FBS,Minnesota,Wisconsin,PASSING,Mitch,Leidner,YDS,158
+3410015,11/26/2016,FBS,Minnesota,Wisconsin,PASSING,Mitch,Leidner,TD,1
+3410016,11/26/2016,FBS,Minnesota,Wisconsin,PASSING,Mitch,Leidner,LONG,35
+3410017,11/26/2016,FBS,Minnesota,Wisconsin,RECEIVING,Drew,Wolitarsky,REC,4
+3410018,11/26/2016,FBS,Minnesota,Wisconsin,RECEIVING,Drew,Wolitarsky,YDS,76
+3410019,11/26/2016,FBS,Minnesota,Wisconsin,RECEIVING,Drew,Wolitarsky,TD,1
+3410020,11/26/2016,FBS,Minnesota,Wisconsin,RECEIVING,Drew,Wolitarsky,LONG,35
+3410021,11/26/2016,FBS,Minnesota,Wisconsin,RECEIVING,Rashad,Still,REC,3
+3410022,11/26/2016,FBS,Minnesota,Wisconsin,RECEIVING,Rashad,Still,YDS,48
+3410023,11/26/2016,FBS,Minnesota,Wisconsin,RECEIVING,Rashad,Still,TD,0
+3410024,11/26/2016,FBS,Minnesota,Wisconsin,RECEIVING,Rashad,Still,LONG,22
+3410025,11/26/2016,FBS,Minnesota,Wisconsin,RECEIVING,Rodney,Smith,REC,1
+3410026,11/26/2016,FBS,Minnesota,Wisconsin,RECEIVING,Rodney,Smith,YDS,25
+3410027,11/26/2016,FBS,Minnesota,Wisconsin,RECEIVING,Rodney,Smith,TD,0
+3410028,11/26/2016,FBS,Minnesota,Wisconsin,RECEIVING,Rodney,Smith,LONG,25
+3410029,11/26/2016,FBS,Minnesota,Wisconsin,RECEIVING,Eric,Carter,REC,1
+3410030,11/26/2016,FBS,Minnesota,Wisconsin,RECEIVING,Eric,Carter,YDS,9
+3410031,11/26/2016,FBS,Minnesota,Wisconsin,RECEIVING,Eric,Carter,TD,0
+3410032,11/26/2016,FBS,Minnesota,Wisconsin,RECEIVING,Eric,Carter,LONG,9
+3410033,11/26/2016,FBS,Minnesota,Wisconsin,KICKING,Emmit,Carpenter,FG-FGA,1/1
+3410034,11/26/2016,FBS,Minnesota,Wisconsin,KICKING,Emmit,Carpenter,LONG,21
+3410035,11/26/2016,FBS,Minnesota,Wisconsin,KICKING,Emmit,Carpenter,XP,2
+3410036,11/26/2016,FBS,Minnesota,Wisconsin,KICKING,Emmit,Carpenter,PTS,5
+3410037,11/26/2016,FBS,Minnesota,Wisconsin,PUNTING,Ryan,Santoso,NO,7
+3410038,11/26/2016,FBS,Minnesota,Wisconsin,PUNTING,Ryan,Santoso,YDS,289
+3410039,11/26/2016,FBS,Minnesota,Wisconsin,PUNTING,Ryan,Santoso,AVG,41.3
+3410040,11/26/2016,FBS,Minnesota,Wisconsin,PUNTING,Ryan,Santoso,LONG,55
+3410041,11/26/2016,FBS,Minnesota,Wisconsin,PUNT RETURNS,KiAnte,Hardin,NO,2
+3410042,11/26/2016,FBS,Minnesota,Wisconsin,PUNT RETURNS,KiAnte,Hardin,YDS,14
+3410043,11/26/2016,FBS,Minnesota,Wisconsin,PUNT RETURNS,KiAnte,Hardin,AVG,7.0
+3410044,11/26/2016,FBS,Minnesota,Wisconsin,PUNT RETURNS,KiAnte,Hardin,LONG,9
+3410045,11/26/2016,FBS,Minnesota,Wisconsin,PUNT RETURNS,Antonio,Shenault,NO,2
+3410046,11/26/2016,FBS,Minnesota,Wisconsin,PUNT RETURNS,Antonio,Shenault,YDS,7
+3410047,11/26/2016,FBS,Minnesota,Wisconsin,PUNT RETURNS,Antonio,Shenault,AVG,3.5
+3410048,11/26/2016,FBS,Minnesota,Wisconsin,PUNT RETURNS,Antonio,Shenault,LONG,7
+3410049,11/26/2016,FBS,Minnesota,Wisconsin,KICK RETURNS,KiAnte,Hardin,NO,1
+3410050,11/26/2016,FBS,Minnesota,Wisconsin,KICK RETURNS,KiAnte,Hardin,YDS,69
+3410051,11/26/2016,FBS,Minnesota,Wisconsin,KICK RETURNS,KiAnte,Hardin,AVG,69.0
+3410052,11/26/2016,FBS,Minnesota,Wisconsin,KICK RETURNS,KiAnte,Hardin,LONG,69
+3410053,11/26/2016,FBS,Wisconsin,Minnesota,RUSHING,Corey,Clement,ATT,26
+3410054,11/26/2016,FBS,Wisconsin,Minnesota,RUSHING,Corey,Clement,YDS,100
+3410055,11/26/2016,FBS,Wisconsin,Minnesota,RUSHING,Corey,Clement,TD,2
+3410056,11/26/2016,FBS,Wisconsin,Minnesota,RUSHING,Corey,Clement,LONG,23
+3410057,11/26/2016,FBS,Wisconsin,Minnesota,RUSHING,Jazz,Peavy,ATT,3
+3410058,11/26/2016,FBS,Wisconsin,Minnesota,RUSHING,Jazz,Peavy,YDS,83
+3410059,11/26/2016,FBS,Wisconsin,Minnesota,RUSHING,Jazz,Peavy,TD,0
+3410060,11/26/2016,FBS,Wisconsin,Minnesota,RUSHING,Jazz,Peavy,LONG,71
+3410061,11/26/2016,FBS,Wisconsin,Minnesota,RUSHING,Bradrick,Shaw,ATT,7
+3410062,11/26/2016,FBS,Wisconsin,Minnesota,RUSHING,Bradrick,Shaw,YDS,20
+3410063,11/26/2016,FBS,Wisconsin,Minnesota,RUSHING,Bradrick,Shaw,TD,0
+3410064,11/26/2016,FBS,Wisconsin,Minnesota,RUSHING,Bradrick,Shaw,LONG,8
+3410065,11/26/2016,FBS,Wisconsin,Minnesota,RUSHING,Dare,Ogunbowale,ATT,4
+3410066,11/26/2016,FBS,Wisconsin,Minnesota,RUSHING,Dare,Ogunbowale,YDS,7
+3410067,11/26/2016,FBS,Wisconsin,Minnesota,RUSHING,Dare,Ogunbowale,TD,1
+3410068,11/26/2016,FBS,Wisconsin,Minnesota,RUSHING,Dare,Ogunbowale,LONG,8
+3410069,11/26/2016,FBS,Wisconsin,Minnesota,RUSHING,Austin,Ramesh,ATT,1
+3410070,11/26/2016,FBS,Wisconsin,Minnesota,RUSHING,Austin,Ramesh,YDS,3
+3410071,11/26/2016,FBS,Wisconsin,Minnesota,RUSHING,Austin,Ramesh,TD,0
+3410072,11/26/2016,FBS,Wisconsin,Minnesota,RUSHING,Austin,Ramesh,LONG,3
+3410073,11/26/2016,FBS,Wisconsin,Minnesota,RUSHING,Alec,Ingold,ATT,1
+3410074,11/26/2016,FBS,Wisconsin,Minnesota,RUSHING,Alec,Ingold,YDS,1
+3410075,11/26/2016,FBS,Wisconsin,Minnesota,RUSHING,Alec,Ingold,TD,1
+3410076,11/26/2016,FBS,Wisconsin,Minnesota,RUSHING,Alec,Ingold,LONG,1
+3410077,11/26/2016,FBS,Wisconsin,Minnesota,RUSHING,Bart,Houston,ATT,3
+3410078,11/26/2016,FBS,Wisconsin,Minnesota,RUSHING,Bart,Houston,YDS,-1
+3410079,11/26/2016,FBS,Wisconsin,Minnesota,RUSHING,Bart,Houston,TD,0
+3410080,11/26/2016,FBS,Wisconsin,Minnesota,RUSHING,Bart,Houston,LONG,12
+3410081,11/26/2016,FBS,Wisconsin,Minnesota,RUSHING,,Team,ATT,2
+3410082,11/26/2016,FBS,Wisconsin,Minnesota,RUSHING,,Team,YDS,-3
+3410083,11/26/2016,FBS,Wisconsin,Minnesota,RUSHING,,Team,TD,0
+3410084,11/26/2016,FBS,Wisconsin,Minnesota,RUSHING,,Team,LONG,-1
+3410085,11/26/2016,FBS,Wisconsin,Minnesota,PASSING,Bart,Houston,CP-ATT-INT,9-14-0
+3410086,11/26/2016,FBS,Wisconsin,Minnesota,PASSING,Bart,Houston,YDS,123
+3410087,11/26/2016,FBS,Wisconsin,Minnesota,PASSING,Bart,Houston,TD,0
+3410088,11/26/2016,FBS,Wisconsin,Minnesota,PASSING,Bart,Houston,LONG,22
+3410089,11/26/2016,FBS,Wisconsin,Minnesota,PASSING,Alex,Hornibrook,CP-ATT-INT,4-8-0
+3410090,11/26/2016,FBS,Wisconsin,Minnesota,PASSING,Alex,Hornibrook,YDS,29
+3410091,11/26/2016,FBS,Wisconsin,Minnesota,PASSING,Alex,Hornibrook,TD,0
+3410092,11/26/2016,FBS,Wisconsin,Minnesota,PASSING,Alex,Hornibrook,LONG,12
+3410093,11/26/2016,FBS,Wisconsin,Minnesota,RECEIVING,Jazz,Peavy,REC,4
+3410094,11/26/2016,FBS,Wisconsin,Minnesota,RECEIVING,Jazz,Peavy,YDS,47
+3410095,11/26/2016,FBS,Wisconsin,Minnesota,RECEIVING,Jazz,Peavy,TD,0
+3410096,11/26/2016,FBS,Wisconsin,Minnesota,RECEIVING,Jazz,Peavy,LONG,14
+3410097,11/26/2016,FBS,Wisconsin,Minnesota,RECEIVING,Troy,Fumagalli,REC,4
+3410098,11/26/2016,FBS,Wisconsin,Minnesota,RECEIVING,Troy,Fumagalli,YDS,46
+3410099,11/26/2016,FBS,Wisconsin,Minnesota,RECEIVING,Troy,Fumagalli,TD,0
+3410100,11/26/2016,FBS,Wisconsin,Minnesota,RECEIVING,Troy,Fumagalli,LONG,21
+3410101,11/26/2016,FBS,Wisconsin,Minnesota,RECEIVING,Quintez,Cephus,REC,1
+3410102,11/26/2016,FBS,Wisconsin,Minnesota,RECEIVING,Quintez,Cephus,YDS,22
+3410103,11/26/2016,FBS,Wisconsin,Minnesota,RECEIVING,Quintez,Cephus,TD,0
+3410104,11/26/2016,FBS,Wisconsin,Minnesota,RECEIVING,Quintez,Cephus,LONG,22
+3410105,11/26/2016,FBS,Wisconsin,Minnesota,RECEIVING,Robert,Wheelwright,REC,2
+3410106,11/26/2016,FBS,Wisconsin,Minnesota,RECEIVING,Robert,Wheelwright,YDS,19
+3410107,11/26/2016,FBS,Wisconsin,Minnesota,RECEIVING,Robert,Wheelwright,TD,0
+3410108,11/26/2016,FBS,Wisconsin,Minnesota,RECEIVING,Robert,Wheelwright,LONG,16
+3410109,11/26/2016,FBS,Wisconsin,Minnesota,RECEIVING,George,Rushing,REC,1
+3410110,11/26/2016,FBS,Wisconsin,Minnesota,RECEIVING,George,Rushing,YDS,12
+3410111,11/26/2016,FBS,Wisconsin,Minnesota,RECEIVING,George,Rushing,TD,0
+3410112,11/26/2016,FBS,Wisconsin,Minnesota,RECEIVING,George,Rushing,LONG,12
+3410113,11/26/2016,FBS,Wisconsin,Minnesota,RECEIVING,Dare,Ogunbowale,REC,1
+3410114,11/26/2016,FBS,Wisconsin,Minnesota,RECEIVING,Dare,Ogunbowale,YDS,6
+3410115,11/26/2016,FBS,Wisconsin,Minnesota,RECEIVING,Dare,Ogunbowale,TD,0
+3410116,11/26/2016,FBS,Wisconsin,Minnesota,RECEIVING,Dare,Ogunbowale,LONG,6
+3410117,11/26/2016,FBS,Wisconsin,Minnesota,KICKING,Andrew,Endicott,FG-FGA,1/1
+3410118,11/26/2016,FBS,Wisconsin,Minnesota,KICKING,Andrew,Endicott,LONG,33
+3410119,11/26/2016,FBS,Wisconsin,Minnesota,KICKING,Andrew,Endicott,XP,4
+3410120,11/26/2016,FBS,Wisconsin,Minnesota,KICKING,Andrew,Endicott,PTS,7
+3410121,11/26/2016,FBS,Wisconsin,Minnesota,PUNTING,Anthony,Lotti,NO,7
+3410122,11/26/2016,FBS,Wisconsin,Minnesota,PUNTING,Anthony,Lotti,YDS,301
+3410123,11/26/2016,FBS,Wisconsin,Minnesota,PUNTING,Anthony,Lotti,AVG,43.0
+3410124,11/26/2016,FBS,Wisconsin,Minnesota,PUNTING,Anthony,Lotti,LONG,60
+3410125,11/26/2016,FBS,Wisconsin,Minnesota,PUNT RETURNS,Jazz,Peavy,NO,2
+3410126,11/26/2016,FBS,Wisconsin,Minnesota,PUNT RETURNS,Jazz,Peavy,YDS,8
+3410127,11/26/2016,FBS,Wisconsin,Minnesota,PUNT RETURNS,Jazz,Peavy,AVG,4.0
+3410128,11/26/2016,FBS,Wisconsin,Minnesota,PUNT RETURNS,Jazz,Peavy,LONG,5
+3410129,11/26/2016,FBS,Wisconsin,Minnesota,KICK RETURNS,Natrell,Jamerson,NO,1
+3410130,11/26/2016,FBS,Wisconsin,Minnesota,KICK RETURNS,Natrell,Jamerson,YDS,23
+3410131,11/26/2016,FBS,Wisconsin,Minnesota,KICK RETURNS,Natrell,Jamerson,AVG,23.0
+3410132,11/26/2016,FBS,Wisconsin,Minnesota,KICK RETURNS,Natrell,Jamerson,LONG,23

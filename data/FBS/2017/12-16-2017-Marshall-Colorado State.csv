@@ -1,0 +1,121 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+4351001,12/16/2017,FBS,Marshall,Colorado State,RUSHING,Keion,Davis,ATT,18
+4351002,12/16/2017,FBS,Marshall,Colorado State,RUSHING,Keion,Davis,YDS,141
+4351003,12/16/2017,FBS,Marshall,Colorado State,RUSHING,Keion,Davis,TD,1
+4351004,12/16/2017,FBS,Marshall,Colorado State,RUSHING,Keion,Davis,LONG,68
+4351005,12/16/2017,FBS,Marshall,Colorado State,RUSHING,Tyler,King,ATT,6
+4351006,12/16/2017,FBS,Marshall,Colorado State,RUSHING,Tyler,King,YDS,106
+4351007,12/16/2017,FBS,Marshall,Colorado State,RUSHING,Tyler,King,TD,1
+4351008,12/16/2017,FBS,Marshall,Colorado State,RUSHING,Tyler,King,LONG,90
+4351009,12/16/2017,FBS,Marshall,Colorado State,RUSHING,,Team,ATT,3
+4351010,12/16/2017,FBS,Marshall,Colorado State,RUSHING,,Team,YDS,-3
+4351011,12/16/2017,FBS,Marshall,Colorado State,RUSHING,,Team,TD,0
+4351012,12/16/2017,FBS,Marshall,Colorado State,RUSHING,,Team,LONG,-1
+4351013,12/16/2017,FBS,Marshall,Colorado State,RUSHING,Chase,Litton,ATT,6
+4351014,12/16/2017,FBS,Marshall,Colorado State,RUSHING,Chase,Litton,YDS,-5
+4351015,12/16/2017,FBS,Marshall,Colorado State,RUSHING,Chase,Litton,TD,0
+4351016,12/16/2017,FBS,Marshall,Colorado State,RUSHING,Chase,Litton,LONG,14
+4351017,12/16/2017,FBS,Marshall,Colorado State,PASSING,Chase,Litton,CP-ATT-INT,17-32-2
+4351018,12/16/2017,FBS,Marshall,Colorado State,PASSING,Chase,Litton,YDS,262
+4351019,12/16/2017,FBS,Marshall,Colorado State,PASSING,Chase,Litton,TD,2
+4351020,12/16/2017,FBS,Marshall,Colorado State,PASSING,Chase,Litton,LONG,76
+4351021,12/16/2017,FBS,Marshall,Colorado State,RECEIVING,Tyre,Brady,REC,6
+4351022,12/16/2017,FBS,Marshall,Colorado State,RECEIVING,Tyre,Brady,YDS,165
+4351023,12/16/2017,FBS,Marshall,Colorado State,RECEIVING,Tyre,Brady,TD,1
+4351024,12/16/2017,FBS,Marshall,Colorado State,RECEIVING,Tyre,Brady,LONG,76
+4351025,12/16/2017,FBS,Marshall,Colorado State,RECEIVING,Ryan,Yurachek,REC,7
+4351026,12/16/2017,FBS,Marshall,Colorado State,RECEIVING,Ryan,Yurachek,YDS,60
+4351027,12/16/2017,FBS,Marshall,Colorado State,RECEIVING,Ryan,Yurachek,TD,1
+4351028,12/16/2017,FBS,Marshall,Colorado State,RECEIVING,Ryan,Yurachek,LONG,15
+4351029,12/16/2017,FBS,Marshall,Colorado State,RECEIVING,Hyleck,Foster,REC,2
+4351030,12/16/2017,FBS,Marshall,Colorado State,RECEIVING,Hyleck,Foster,YDS,26
+4351031,12/16/2017,FBS,Marshall,Colorado State,RECEIVING,Hyleck,Foster,TD,0
+4351032,12/16/2017,FBS,Marshall,Colorado State,RECEIVING,Hyleck,Foster,LONG,14
+4351033,12/16/2017,FBS,Marshall,Colorado State,RECEIVING,Obi,Obialo,REC,1
+4351034,12/16/2017,FBS,Marshall,Colorado State,RECEIVING,Obi,Obialo,YDS,10
+4351035,12/16/2017,FBS,Marshall,Colorado State,RECEIVING,Obi,Obialo,TD,0
+4351036,12/16/2017,FBS,Marshall,Colorado State,RECEIVING,Obi,Obialo,LONG,10
+4351037,12/16/2017,FBS,Marshall,Colorado State,RECEIVING,Tyler,King,REC,1
+4351038,12/16/2017,FBS,Marshall,Colorado State,RECEIVING,Tyler,King,YDS,1
+4351039,12/16/2017,FBS,Marshall,Colorado State,RECEIVING,Tyler,King,TD,0
+4351040,12/16/2017,FBS,Marshall,Colorado State,RECEIVING,Tyler,King,LONG,1
+4351041,12/16/2017,FBS,Marshall,Colorado State,KICKING,Kaare,Vedvik,FG-FGA,1/1
+4351042,12/16/2017,FBS,Marshall,Colorado State,KICKING,Kaare,Vedvik,LONG,21
+4351043,12/16/2017,FBS,Marshall,Colorado State,KICKING,Kaare,Vedvik,XP,4
+4351044,12/16/2017,FBS,Marshall,Colorado State,KICKING,Kaare,Vedvik,PTS,7
+4351045,12/16/2017,FBS,Marshall,Colorado State,PUNTING,Kaare,Vedvik,NO,6
+4351046,12/16/2017,FBS,Marshall,Colorado State,PUNTING,Kaare,Vedvik,YDS,246
+4351047,12/16/2017,FBS,Marshall,Colorado State,PUNTING,Kaare,Vedvik,AVG,41.0
+4351048,12/16/2017,FBS,Marshall,Colorado State,PUNTING,Kaare,Vedvik,LONG,56
+4351049,12/16/2017,FBS,Marshall,Colorado State,PUNT RETURNS,Hyleck,Foster,NO,1
+4351050,12/16/2017,FBS,Marshall,Colorado State,PUNT RETURNS,Hyleck,Foster,YDS,1
+4351051,12/16/2017,FBS,Marshall,Colorado State,PUNT RETURNS,Hyleck,Foster,AVG,1.0
+4351052,12/16/2017,FBS,Marshall,Colorado State,PUNT RETURNS,Hyleck,Foster,LONG,1
+4351053,12/16/2017,FBS,Marshall,Colorado State,KICK RETURNS,Keion,Davis,NO,1
+4351054,12/16/2017,FBS,Marshall,Colorado State,KICK RETURNS,Keion,Davis,YDS,23
+4351055,12/16/2017,FBS,Marshall,Colorado State,KICK RETURNS,Keion,Davis,AVG,23.0
+4351056,12/16/2017,FBS,Marshall,Colorado State,KICK RETURNS,Keion,Davis,LONG,23
+4351057,12/16/2017,FBS,Colorado State,Marshall,RUSHING,Dalyn,Dawkins,ATT,10
+4351058,12/16/2017,FBS,Colorado State,Marshall,RUSHING,Dalyn,Dawkins,YDS,50
+4351059,12/16/2017,FBS,Colorado State,Marshall,RUSHING,Dalyn,Dawkins,TD,0
+4351060,12/16/2017,FBS,Colorado State,Marshall,RUSHING,Dalyn,Dawkins,LONG,21
+4351061,12/16/2017,FBS,Colorado State,Marshall,RUSHING,Izzy,Matthews,ATT,10
+4351062,12/16/2017,FBS,Colorado State,Marshall,RUSHING,Izzy,Matthews,YDS,30
+4351063,12/16/2017,FBS,Colorado State,Marshall,RUSHING,Izzy,Matthews,TD,0
+4351064,12/16/2017,FBS,Colorado State,Marshall,RUSHING,Izzy,Matthews,LONG,7
+4351065,12/16/2017,FBS,Colorado State,Marshall,RUSHING,Darius,May,ATT,1
+4351066,12/16/2017,FBS,Colorado State,Marshall,RUSHING,Darius,May,YDS,7
+4351067,12/16/2017,FBS,Colorado State,Marshall,RUSHING,Darius,May,TD,0
+4351068,12/16/2017,FBS,Colorado State,Marshall,RUSHING,Darius,May,LONG,7
+4351069,12/16/2017,FBS,Colorado State,Marshall,RUSHING,Detrich,Clark,ATT,2
+4351070,12/16/2017,FBS,Colorado State,Marshall,RUSHING,Detrich,Clark,YDS,-1
+4351071,12/16/2017,FBS,Colorado State,Marshall,RUSHING,Detrich,Clark,TD,0
+4351072,12/16/2017,FBS,Colorado State,Marshall,RUSHING,Detrich,Clark,LONG,0
+4351073,12/16/2017,FBS,Colorado State,Marshall,RUSHING,Nick,Stevens,ATT,8
+4351074,12/16/2017,FBS,Colorado State,Marshall,RUSHING,Nick,Stevens,YDS,-16
+4351075,12/16/2017,FBS,Colorado State,Marshall,RUSHING,Nick,Stevens,TD,2
+4351076,12/16/2017,FBS,Colorado State,Marshall,RUSHING,Nick,Stevens,LONG,9
+4351077,12/16/2017,FBS,Colorado State,Marshall,PASSING,Nick,Stevens,CP-ATT-INT,25-52-0
+4351078,12/16/2017,FBS,Colorado State,Marshall,PASSING,Nick,Stevens,YDS,320
+4351079,12/16/2017,FBS,Colorado State,Marshall,PASSING,Nick,Stevens,TD,2
+4351080,12/16/2017,FBS,Colorado State,Marshall,PASSING,Nick,Stevens,LONG,48
+4351081,12/16/2017,FBS,Colorado State,Marshall,RECEIVING,Olabisi,Johnson,REC,6
+4351082,12/16/2017,FBS,Colorado State,Marshall,RECEIVING,Olabisi,Johnson,YDS,119
+4351083,12/16/2017,FBS,Colorado State,Marshall,RECEIVING,Olabisi,Johnson,TD,0
+4351084,12/16/2017,FBS,Colorado State,Marshall,RECEIVING,Olabisi,Johnson,LONG,48
+4351085,12/16/2017,FBS,Colorado State,Marshall,RECEIVING,Michael,Gallup,REC,6
+4351086,12/16/2017,FBS,Colorado State,Marshall,RECEIVING,Michael,Gallup,YDS,68
+4351087,12/16/2017,FBS,Colorado State,Marshall,RECEIVING,Michael,Gallup,TD,0
+4351088,12/16/2017,FBS,Colorado State,Marshall,RECEIVING,Michael,Gallup,LONG,17
+4351089,12/16/2017,FBS,Colorado State,Marshall,RECEIVING,Warren,Jackson,REC,2
+4351090,12/16/2017,FBS,Colorado State,Marshall,RECEIVING,Warren,Jackson,YDS,48
+4351091,12/16/2017,FBS,Colorado State,Marshall,RECEIVING,Warren,Jackson,TD,0
+4351092,12/16/2017,FBS,Colorado State,Marshall,RECEIVING,Warren,Jackson,LONG,40
+4351093,12/16/2017,FBS,Colorado State,Marshall,RECEIVING,Detrich,Clark,REC,4
+4351094,12/16/2017,FBS,Colorado State,Marshall,RECEIVING,Detrich,Clark,YDS,48
+4351095,12/16/2017,FBS,Colorado State,Marshall,RECEIVING,Detrich,Clark,TD,2
+4351096,12/16/2017,FBS,Colorado State,Marshall,RECEIVING,Detrich,Clark,LONG,24
+4351097,12/16/2017,FBS,Colorado State,Marshall,RECEIVING,Dalton,Fackrell,REC,3
+4351098,12/16/2017,FBS,Colorado State,Marshall,RECEIVING,Dalton,Fackrell,YDS,38
+4351099,12/16/2017,FBS,Colorado State,Marshall,RECEIVING,Dalton,Fackrell,TD,0
+4351100,12/16/2017,FBS,Colorado State,Marshall,RECEIVING,Dalton,Fackrell,LONG,18
+4351101,12/16/2017,FBS,Colorado State,Marshall,RECEIVING,Dalyn,Dawkins,REC,3
+4351102,12/16/2017,FBS,Colorado State,Marshall,RECEIVING,Dalyn,Dawkins,YDS,0
+4351103,12/16/2017,FBS,Colorado State,Marshall,RECEIVING,Dalyn,Dawkins,TD,0
+4351104,12/16/2017,FBS,Colorado State,Marshall,RECEIVING,Dalyn,Dawkins,LONG,4
+4351105,12/16/2017,FBS,Colorado State,Marshall,RECEIVING,Nick,Stevens,REC,1
+4351106,12/16/2017,FBS,Colorado State,Marshall,RECEIVING,Nick,Stevens,YDS,-1
+4351107,12/16/2017,FBS,Colorado State,Marshall,RECEIVING,Nick,Stevens,TD,0
+4351108,12/16/2017,FBS,Colorado State,Marshall,RECEIVING,Nick,Stevens,LONG,-1
+4351109,12/16/2017,FBS,Colorado State,Marshall,KICKING,Wyatt,Bryan,FG-FGA,0/0
+4351110,12/16/2017,FBS,Colorado State,Marshall,KICKING,Wyatt,Bryan,LONG,-
+4351111,12/16/2017,FBS,Colorado State,Marshall,KICKING,Wyatt,Bryan,XP,4
+4351112,12/16/2017,FBS,Colorado State,Marshall,KICKING,Wyatt,Bryan,PTS,4
+4351113,12/16/2017,FBS,Colorado State,Marshall,PUNTING,Ryan,Stonehouse,NO,8
+4351114,12/16/2017,FBS,Colorado State,Marshall,PUNTING,Ryan,Stonehouse,YDS,334
+4351115,12/16/2017,FBS,Colorado State,Marshall,PUNTING,Ryan,Stonehouse,AVG,41.8
+4351116,12/16/2017,FBS,Colorado State,Marshall,PUNTING,Ryan,Stonehouse,LONG,50
+4351117,12/16/2017,FBS,Colorado State,Marshall,PUNT RETURNS,Olabisi,Johnson,NO,2
+4351118,12/16/2017,FBS,Colorado State,Marshall,PUNT RETURNS,Olabisi,Johnson,YDS,0
+4351119,12/16/2017,FBS,Colorado State,Marshall,PUNT RETURNS,Olabisi,Johnson,AVG,-
+4351120,12/16/2017,FBS,Colorado State,Marshall,PUNT RETURNS,Olabisi,Johnson,LONG,0

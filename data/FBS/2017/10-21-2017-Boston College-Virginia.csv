@@ -1,0 +1,161 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+4000001,10/21/2017,FBS,Boston College,Virginia,RUSHING,AJ,Dillon,ATT,24
+4000002,10/21/2017,FBS,Boston College,Virginia,RUSHING,AJ,Dillon,YDS,89
+4000003,10/21/2017,FBS,Boston College,Virginia,RUSHING,AJ,Dillon,TD,0
+4000004,10/21/2017,FBS,Boston College,Virginia,RUSHING,AJ,Dillon,LONG,15
+4000005,10/21/2017,FBS,Boston College,Virginia,RUSHING,Thadd,Smith,ATT,2
+4000006,10/21/2017,FBS,Boston College,Virginia,RUSHING,Thadd,Smith,YDS,79
+4000007,10/21/2017,FBS,Boston College,Virginia,RUSHING,Thadd,Smith,TD,1
+4000008,10/21/2017,FBS,Boston College,Virginia,RUSHING,Thadd,Smith,LONG,76
+4000009,10/21/2017,FBS,Boston College,Virginia,RUSHING,Anthony,Brown,ATT,5
+4000010,10/21/2017,FBS,Boston College,Virginia,RUSHING,Anthony,Brown,YDS,32
+4000011,10/21/2017,FBS,Boston College,Virginia,RUSHING,Anthony,Brown,TD,0
+4000012,10/21/2017,FBS,Boston College,Virginia,RUSHING,Anthony,Brown,LONG,15
+4000013,10/21/2017,FBS,Boston College,Virginia,RUSHING,Jon,Hilliman,ATT,12
+4000014,10/21/2017,FBS,Boston College,Virginia,RUSHING,Jon,Hilliman,YDS,32
+4000015,10/21/2017,FBS,Boston College,Virginia,RUSHING,Jon,Hilliman,TD,0
+4000016,10/21/2017,FBS,Boston College,Virginia,RUSHING,Jon,Hilliman,LONG,10
+4000017,10/21/2017,FBS,Boston College,Virginia,RUSHING,Richard,Wilson,ATT,2
+4000018,10/21/2017,FBS,Boston College,Virginia,RUSHING,Richard,Wilson,YDS,5
+4000019,10/21/2017,FBS,Boston College,Virginia,RUSHING,Richard,Wilson,TD,0
+4000020,10/21/2017,FBS,Boston College,Virginia,RUSHING,Richard,Wilson,LONG,3
+4000021,10/21/2017,FBS,Boston College,Virginia,RUSHING,Travis,Levy,ATT,1
+4000022,10/21/2017,FBS,Boston College,Virginia,RUSHING,Travis,Levy,YDS,2
+4000023,10/21/2017,FBS,Boston College,Virginia,RUSHING,Travis,Levy,TD,0
+4000024,10/21/2017,FBS,Boston College,Virginia,RUSHING,Travis,Levy,LONG,2
+4000025,10/21/2017,FBS,Boston College,Virginia,RUSHING,,Team,ATT,1
+4000026,10/21/2017,FBS,Boston College,Virginia,RUSHING,,Team,YDS,-2
+4000027,10/21/2017,FBS,Boston College,Virginia,RUSHING,,Team,TD,0
+4000028,10/21/2017,FBS,Boston College,Virginia,RUSHING,,Team,LONG,0
+4000029,10/21/2017,FBS,Boston College,Virginia,PASSING,Anthony,Brown,CP-ATT-INT,19-24-0
+4000030,10/21/2017,FBS,Boston College,Virginia,PASSING,Anthony,Brown,YDS,275
+4000031,10/21/2017,FBS,Boston College,Virginia,PASSING,Anthony,Brown,TD,3
+4000032,10/21/2017,FBS,Boston College,Virginia,PASSING,Anthony,Brown,LONG,76
+4000033,10/21/2017,FBS,Boston College,Virginia,RECEIVING,Kobay,White,REC,3
+4000034,10/21/2017,FBS,Boston College,Virginia,RECEIVING,Kobay,White,YDS,85
+4000035,10/21/2017,FBS,Boston College,Virginia,RECEIVING,Kobay,White,TD,1
+4000036,10/21/2017,FBS,Boston College,Virginia,RECEIVING,Kobay,White,LONG,76
+4000037,10/21/2017,FBS,Boston College,Virginia,RECEIVING,Michael,Walker,REC,2
+4000038,10/21/2017,FBS,Boston College,Virginia,RECEIVING,Michael,Walker,YDS,59
+4000039,10/21/2017,FBS,Boston College,Virginia,RECEIVING,Michael,Walker,TD,0
+4000040,10/21/2017,FBS,Boston College,Virginia,RECEIVING,Michael,Walker,LONG,46
+4000041,10/21/2017,FBS,Boston College,Virginia,RECEIVING,Tommy,Sweeney,REC,4
+4000042,10/21/2017,FBS,Boston College,Virginia,RECEIVING,Tommy,Sweeney,YDS,55
+4000043,10/21/2017,FBS,Boston College,Virginia,RECEIVING,Tommy,Sweeney,TD,2
+4000044,10/21/2017,FBS,Boston College,Virginia,RECEIVING,Tommy,Sweeney,LONG,28
+4000045,10/21/2017,FBS,Boston College,Virginia,RECEIVING,Jon,Hilliman,REC,3
+4000046,10/21/2017,FBS,Boston College,Virginia,RECEIVING,Jon,Hilliman,YDS,33
+4000047,10/21/2017,FBS,Boston College,Virginia,RECEIVING,Jon,Hilliman,TD,0
+4000048,10/21/2017,FBS,Boston College,Virginia,RECEIVING,Jon,Hilliman,LONG,29
+4000049,10/21/2017,FBS,Boston College,Virginia,RECEIVING,Chris,Garrison,REC,3
+4000050,10/21/2017,FBS,Boston College,Virginia,RECEIVING,Chris,Garrison,YDS,24
+4000051,10/21/2017,FBS,Boston College,Virginia,RECEIVING,Chris,Garrison,TD,0
+4000052,10/21/2017,FBS,Boston College,Virginia,RECEIVING,Chris,Garrison,LONG,14
+4000053,10/21/2017,FBS,Boston College,Virginia,RECEIVING,Jeff,Smith,REC,1
+4000054,10/21/2017,FBS,Boston College,Virginia,RECEIVING,Jeff,Smith,YDS,10
+4000055,10/21/2017,FBS,Boston College,Virginia,RECEIVING,Jeff,Smith,TD,0
+4000056,10/21/2017,FBS,Boston College,Virginia,RECEIVING,Jeff,Smith,LONG,10
+4000057,10/21/2017,FBS,Boston College,Virginia,RECEIVING,Travis,Levy,REC,3
+4000058,10/21/2017,FBS,Boston College,Virginia,RECEIVING,Travis,Levy,YDS,9
+4000059,10/21/2017,FBS,Boston College,Virginia,RECEIVING,Travis,Levy,TD,0
+4000060,10/21/2017,FBS,Boston College,Virginia,RECEIVING,Travis,Levy,LONG,7
+4000061,10/21/2017,FBS,Boston College,Virginia,KICKING,Colton,Lichtenberg,FG-FGA,2/2
+4000062,10/21/2017,FBS,Boston College,Virginia,KICKING,Colton,Lichtenberg,LONG,36
+4000063,10/21/2017,FBS,Boston College,Virginia,KICKING,Colton,Lichtenberg,XP,5
+4000064,10/21/2017,FBS,Boston College,Virginia,KICKING,Colton,Lichtenberg,PTS,11
+4000065,10/21/2017,FBS,Boston College,Virginia,PUNTING,Mike,Knoll,NO,4
+4000066,10/21/2017,FBS,Boston College,Virginia,PUNTING,Mike,Knoll,YDS,152
+4000067,10/21/2017,FBS,Boston College,Virginia,PUNTING,Mike,Knoll,AVG,38.0
+4000068,10/21/2017,FBS,Boston College,Virginia,PUNTING,Mike,Knoll,LONG,43
+4000069,10/21/2017,FBS,Boston College,Virginia,PUNT RETURNS,Michael,Walker,NO,2
+4000070,10/21/2017,FBS,Boston College,Virginia,PUNT RETURNS,Michael,Walker,YDS,6
+4000071,10/21/2017,FBS,Boston College,Virginia,PUNT RETURNS,Michael,Walker,AVG,3.0
+4000072,10/21/2017,FBS,Boston College,Virginia,PUNT RETURNS,Michael,Walker,LONG,7
+4000073,10/21/2017,FBS,Boston College,Virginia,KICK RETURNS,Michael,Walker,NO,2
+4000074,10/21/2017,FBS,Boston College,Virginia,KICK RETURNS,Michael,Walker,YDS,55
+4000075,10/21/2017,FBS,Boston College,Virginia,KICK RETURNS,Michael,Walker,AVG,27.5
+4000076,10/21/2017,FBS,Boston College,Virginia,KICK RETURNS,Michael,Walker,LONG,28
+4000077,10/21/2017,FBS,Virginia,Boston College,RUSHING,Jordan,Ellis,ATT,12
+4000078,10/21/2017,FBS,Virginia,Boston College,RUSHING,Jordan,Ellis,YDS,58
+4000079,10/21/2017,FBS,Virginia,Boston College,RUSHING,Jordan,Ellis,TD,0
+4000080,10/21/2017,FBS,Virginia,Boston College,RUSHING,Jordan,Ellis,LONG,20
+4000081,10/21/2017,FBS,Virginia,Boston College,RUSHING,PK,Kier,ATT,2
+4000082,10/21/2017,FBS,Virginia,Boston College,RUSHING,PK,Kier,YDS,16
+4000083,10/21/2017,FBS,Virginia,Boston College,RUSHING,PK,Kier,TD,0
+4000084,10/21/2017,FBS,Virginia,Boston College,RUSHING,PK,Kier,LONG,12
+4000085,10/21/2017,FBS,Virginia,Boston College,RUSHING,De'Vante,Cross,ATT,1
+4000086,10/21/2017,FBS,Virginia,Boston College,RUSHING,De'Vante,Cross,YDS,13
+4000087,10/21/2017,FBS,Virginia,Boston College,RUSHING,De'Vante,Cross,TD,0
+4000088,10/21/2017,FBS,Virginia,Boston College,RUSHING,De'Vante,Cross,LONG,13
+4000089,10/21/2017,FBS,Virginia,Boston College,RUSHING,Olamide,Zaccheaus,ATT,3
+4000090,10/21/2017,FBS,Virginia,Boston College,RUSHING,Olamide,Zaccheaus,YDS,12
+4000091,10/21/2017,FBS,Virginia,Boston College,RUSHING,Olamide,Zaccheaus,TD,0
+4000092,10/21/2017,FBS,Virginia,Boston College,RUSHING,Olamide,Zaccheaus,LONG,7
+4000093,10/21/2017,FBS,Virginia,Boston College,RUSHING,Joe,Reed,ATT,2
+4000094,10/21/2017,FBS,Virginia,Boston College,RUSHING,Joe,Reed,YDS,9
+4000095,10/21/2017,FBS,Virginia,Boston College,RUSHING,Joe,Reed,TD,1
+4000096,10/21/2017,FBS,Virginia,Boston College,RUSHING,Joe,Reed,LONG,8
+4000097,10/21/2017,FBS,Virginia,Boston College,RUSHING,Daniel,Hamm,ATT,2
+4000098,10/21/2017,FBS,Virginia,Boston College,RUSHING,Daniel,Hamm,YDS,4
+4000099,10/21/2017,FBS,Virginia,Boston College,RUSHING,Daniel,Hamm,TD,0
+4000100,10/21/2017,FBS,Virginia,Boston College,RUSHING,Daniel,Hamm,LONG,5
+4000101,10/21/2017,FBS,Virginia,Boston College,RUSHING,Kurt,Benkert,ATT,4
+4000102,10/21/2017,FBS,Virginia,Boston College,RUSHING,Kurt,Benkert,YDS,-17
+4000103,10/21/2017,FBS,Virginia,Boston College,RUSHING,Kurt,Benkert,TD,0
+4000104,10/21/2017,FBS,Virginia,Boston College,RUSHING,Kurt,Benkert,LONG,0
+4000105,10/21/2017,FBS,Virginia,Boston College,PASSING,Kurt,Benkert,CP-ATT-INT,17-33-1
+4000106,10/21/2017,FBS,Virginia,Boston College,PASSING,Kurt,Benkert,YDS,126
+4000107,10/21/2017,FBS,Virginia,Boston College,PASSING,Kurt,Benkert,TD,0
+4000108,10/21/2017,FBS,Virginia,Boston College,PASSING,Kurt,Benkert,LONG,19
+4000109,10/21/2017,FBS,Virginia,Boston College,PASSING,Lindell,Stone,CP-ATT-INT,2-9-2
+4000110,10/21/2017,FBS,Virginia,Boston College,PASSING,Lindell,Stone,YDS,26
+4000111,10/21/2017,FBS,Virginia,Boston College,PASSING,Lindell,Stone,TD,0
+4000112,10/21/2017,FBS,Virginia,Boston College,PASSING,Lindell,Stone,LONG,15
+4000113,10/21/2017,FBS,Virginia,Boston College,RECEIVING,Olamide,Zaccheaus,REC,6
+4000114,10/21/2017,FBS,Virginia,Boston College,RECEIVING,Olamide,Zaccheaus,YDS,57
+4000115,10/21/2017,FBS,Virginia,Boston College,RECEIVING,Olamide,Zaccheaus,TD,0
+4000116,10/21/2017,FBS,Virginia,Boston College,RECEIVING,Olamide,Zaccheaus,LONG,19
+4000117,10/21/2017,FBS,Virginia,Boston College,RECEIVING,Daniel,Hamm,REC,4
+4000118,10/21/2017,FBS,Virginia,Boston College,RECEIVING,Daniel,Hamm,YDS,27
+4000119,10/21/2017,FBS,Virginia,Boston College,RECEIVING,Daniel,Hamm,TD,0
+4000120,10/21/2017,FBS,Virginia,Boston College,RECEIVING,Daniel,Hamm,LONG,17
+4000121,10/21/2017,FBS,Virginia,Boston College,RECEIVING,Evan,Butts,REC,3
+4000122,10/21/2017,FBS,Virginia,Boston College,RECEIVING,Evan,Butts,YDS,22
+4000123,10/21/2017,FBS,Virginia,Boston College,RECEIVING,Evan,Butts,TD,0
+4000124,10/21/2017,FBS,Virginia,Boston College,RECEIVING,Evan,Butts,LONG,11
+4000125,10/21/2017,FBS,Virginia,Boston College,RECEIVING,Joe,Reed,REC,1
+4000126,10/21/2017,FBS,Virginia,Boston College,RECEIVING,Joe,Reed,YDS,17
+4000127,10/21/2017,FBS,Virginia,Boston College,RECEIVING,Joe,Reed,TD,0
+4000128,10/21/2017,FBS,Virginia,Boston College,RECEIVING,Joe,Reed,LONG,17
+4000129,10/21/2017,FBS,Virginia,Boston College,RECEIVING,Andre,Levrone,REC,1
+4000130,10/21/2017,FBS,Virginia,Boston College,RECEIVING,Andre,Levrone,YDS,9
+4000131,10/21/2017,FBS,Virginia,Boston College,RECEIVING,Andre,Levrone,TD,0
+4000132,10/21/2017,FBS,Virginia,Boston College,RECEIVING,Andre,Levrone,LONG,9
+4000133,10/21/2017,FBS,Virginia,Boston College,RECEIVING,Jordan,Ellis,REC,2
+4000134,10/21/2017,FBS,Virginia,Boston College,RECEIVING,Jordan,Ellis,YDS,8
+4000135,10/21/2017,FBS,Virginia,Boston College,RECEIVING,Jordan,Ellis,TD,0
+4000136,10/21/2017,FBS,Virginia,Boston College,RECEIVING,Jordan,Ellis,LONG,15
+4000137,10/21/2017,FBS,Virginia,Boston College,RECEIVING,Hasise,Dubois,REC,1
+4000138,10/21/2017,FBS,Virginia,Boston College,RECEIVING,Hasise,Dubois,YDS,8
+4000139,10/21/2017,FBS,Virginia,Boston College,RECEIVING,Hasise,Dubois,TD,0
+4000140,10/21/2017,FBS,Virginia,Boston College,RECEIVING,Hasise,Dubois,LONG,8
+4000141,10/21/2017,FBS,Virginia,Boston College,RECEIVING,Doni,Dowling,REC,1
+4000142,10/21/2017,FBS,Virginia,Boston College,RECEIVING,Doni,Dowling,YDS,4
+4000143,10/21/2017,FBS,Virginia,Boston College,RECEIVING,Doni,Dowling,TD,0
+4000144,10/21/2017,FBS,Virginia,Boston College,RECEIVING,Doni,Dowling,LONG,4
+4000145,10/21/2017,FBS,Virginia,Boston College,KICKING,A.J.,Mejia,FG-FGA,1/1
+4000146,10/21/2017,FBS,Virginia,Boston College,KICKING,A.J.,Mejia,LONG,38
+4000147,10/21/2017,FBS,Virginia,Boston College,KICKING,A.J.,Mejia,XP,1
+4000148,10/21/2017,FBS,Virginia,Boston College,KICKING,A.J.,Mejia,PTS,4
+4000149,10/21/2017,FBS,Virginia,Boston College,PUNTING,Lester,Coleman,NO,7
+4000150,10/21/2017,FBS,Virginia,Boston College,PUNTING,Lester,Coleman,YDS,366
+4000151,10/21/2017,FBS,Virginia,Boston College,PUNTING,Lester,Coleman,AVG,52.3
+4000152,10/21/2017,FBS,Virginia,Boston College,PUNTING,Lester,Coleman,LONG,60
+4000153,10/21/2017,FBS,Virginia,Boston College,PUNT RETURNS,Daniel,Hamm,NO,3
+4000154,10/21/2017,FBS,Virginia,Boston College,PUNT RETURNS,Daniel,Hamm,YDS,19
+4000155,10/21/2017,FBS,Virginia,Boston College,PUNT RETURNS,Daniel,Hamm,AVG,6.3
+4000156,10/21/2017,FBS,Virginia,Boston College,PUNT RETURNS,Daniel,Hamm,LONG,10
+4000157,10/21/2017,FBS,Virginia,Boston College,KICK RETURNS,Joe,Reed,NO,1
+4000158,10/21/2017,FBS,Virginia,Boston College,KICK RETURNS,Joe,Reed,YDS,42
+4000159,10/21/2017,FBS,Virginia,Boston College,KICK RETURNS,Joe,Reed,AVG,42.0
+4000160,10/21/2017,FBS,Virginia,Boston College,KICK RETURNS,Joe,Reed,LONG,42

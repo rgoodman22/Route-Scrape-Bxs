@@ -1,0 +1,213 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+5551001,9/21/2019,FBS,Nebraska,Illinois,RUSHING,Adrian,Martinez,ATT,18
+5551002,9/21/2019,FBS,Nebraska,Illinois,RUSHING,Adrian,Martinez,YDS,118
+5551003,9/21/2019,FBS,Nebraska,Illinois,RUSHING,Adrian,Martinez,TD,0
+5551004,9/21/2019,FBS,Nebraska,Illinois,RUSHING,Adrian,Martinez,LONG,44
+5551005,9/21/2019,FBS,Nebraska,Illinois,RUSHING,Maurice,Washington,ATT,10
+5551006,9/21/2019,FBS,Nebraska,Illinois,RUSHING,Maurice,Washington,YDS,89
+5551007,9/21/2019,FBS,Nebraska,Illinois,RUSHING,Maurice,Washington,TD,0
+5551008,9/21/2019,FBS,Nebraska,Illinois,RUSHING,Maurice,Washington,LONG,41
+5551009,9/21/2019,FBS,Nebraska,Illinois,RUSHING,Wan'Dale,Robinson,ATT,19
+5551010,9/21/2019,FBS,Nebraska,Illinois,RUSHING,Wan'Dale,Robinson,YDS,89
+5551011,9/21/2019,FBS,Nebraska,Illinois,RUSHING,Wan'Dale,Robinson,TD,1
+5551012,9/21/2019,FBS,Nebraska,Illinois,RUSHING,Wan'Dale,Robinson,LONG,21
+5551013,9/21/2019,FBS,Nebraska,Illinois,RUSHING,Dedrick,Mills,ATT,12
+5551014,9/21/2019,FBS,Nebraska,Illinois,RUSHING,Dedrick,Mills,YDS,45
+5551015,9/21/2019,FBS,Nebraska,Illinois,RUSHING,Dedrick,Mills,TD,2
+5551016,9/21/2019,FBS,Nebraska,Illinois,RUSHING,Dedrick,Mills,LONG,14
+5551017,9/21/2019,FBS,Nebraska,Illinois,RUSHING,Wyatt,Mazour,ATT,2
+5551018,9/21/2019,FBS,Nebraska,Illinois,RUSHING,Wyatt,Mazour,YDS,16
+5551019,9/21/2019,FBS,Nebraska,Illinois,RUSHING,Wyatt,Mazour,TD,0
+5551020,9/21/2019,FBS,Nebraska,Illinois,RUSHING,Wyatt,Mazour,LONG,11
+5551021,9/21/2019,FBS,Nebraska,Illinois,RUSHING,,Team,ATT,3
+5551022,9/21/2019,FBS,Nebraska,Illinois,RUSHING,,Team,YDS,-11
+5551023,9/21/2019,FBS,Nebraska,Illinois,RUSHING,,Team,TD,0
+5551024,9/21/2019,FBS,Nebraska,Illinois,RUSHING,,Team,LONG,-3
+5551025,9/21/2019,FBS,Nebraska,Illinois,PASSING,Adrian,Martinez,CP-ATT-INT,22-34-0
+5551026,9/21/2019,FBS,Nebraska,Illinois,PASSING,Adrian,Martinez,YDS,328
+5551027,9/21/2019,FBS,Nebraska,Illinois,PASSING,Adrian,Martinez,TD,3
+5551028,9/21/2019,FBS,Nebraska,Illinois,PASSING,Adrian,Martinez,LONG,41
+5551029,9/21/2019,FBS,Nebraska,Illinois,RECEIVING,JD,Spielman,REC,7
+5551030,9/21/2019,FBS,Nebraska,Illinois,RECEIVING,JD,Spielman,YDS,160
+5551031,9/21/2019,FBS,Nebraska,Illinois,RECEIVING,JD,Spielman,TD,0
+5551032,9/21/2019,FBS,Nebraska,Illinois,RECEIVING,JD,Spielman,LONG,41
+5551033,9/21/2019,FBS,Nebraska,Illinois,RECEIVING,Wan'Dale,Robinson,REC,8
+5551034,9/21/2019,FBS,Nebraska,Illinois,RECEIVING,Wan'Dale,Robinson,YDS,79
+5551035,9/21/2019,FBS,Nebraska,Illinois,RECEIVING,Wan'Dale,Robinson,TD,2
+5551036,9/21/2019,FBS,Nebraska,Illinois,RECEIVING,Wan'Dale,Robinson,LONG,27
+5551037,9/21/2019,FBS,Nebraska,Illinois,RECEIVING,Jack,Stoll,REC,3
+5551038,9/21/2019,FBS,Nebraska,Illinois,RECEIVING,Jack,Stoll,YDS,45
+5551039,9/21/2019,FBS,Nebraska,Illinois,RECEIVING,Jack,Stoll,TD,1
+5551040,9/21/2019,FBS,Nebraska,Illinois,RECEIVING,Jack,Stoll,LONG,22
+5551041,9/21/2019,FBS,Nebraska,Illinois,RECEIVING,Mike,Williams,REC,1
+5551042,9/21/2019,FBS,Nebraska,Illinois,RECEIVING,Mike,Williams,YDS,20
+5551043,9/21/2019,FBS,Nebraska,Illinois,RECEIVING,Mike,Williams,TD,0
+5551044,9/21/2019,FBS,Nebraska,Illinois,RECEIVING,Mike,Williams,LONG,20
+5551045,9/21/2019,FBS,Nebraska,Illinois,RECEIVING,Wyatt,Mazour,REC,1
+5551046,9/21/2019,FBS,Nebraska,Illinois,RECEIVING,Wyatt,Mazour,YDS,10
+5551047,9/21/2019,FBS,Nebraska,Illinois,RECEIVING,Wyatt,Mazour,TD,0
+5551048,9/21/2019,FBS,Nebraska,Illinois,RECEIVING,Wyatt,Mazour,LONG,10
+5551049,9/21/2019,FBS,Nebraska,Illinois,RECEIVING,Dedrick,Mills,REC,1
+5551050,9/21/2019,FBS,Nebraska,Illinois,RECEIVING,Dedrick,Mills,YDS,9
+5551051,9/21/2019,FBS,Nebraska,Illinois,RECEIVING,Dedrick,Mills,TD,0
+5551052,9/21/2019,FBS,Nebraska,Illinois,RECEIVING,Dedrick,Mills,LONG,9
+5551053,9/21/2019,FBS,Nebraska,Illinois,RECEIVING,Kanawai,Noa,REC,1
+5551054,9/21/2019,FBS,Nebraska,Illinois,RECEIVING,Kanawai,Noa,YDS,5
+5551055,9/21/2019,FBS,Nebraska,Illinois,RECEIVING,Kanawai,Noa,TD,0
+5551056,9/21/2019,FBS,Nebraska,Illinois,RECEIVING,Kanawai,Noa,LONG,5
+5551057,9/21/2019,FBS,Nebraska,Illinois,KICKING,Lane,McCallum,FG-FGA,0/1
+5551058,9/21/2019,FBS,Nebraska,Illinois,KICKING,Lane,McCallum,LONG,0
+5551059,9/21/2019,FBS,Nebraska,Illinois,KICKING,Lane,McCallum,XP,4
+5551060,9/21/2019,FBS,Nebraska,Illinois,KICKING,Lane,McCallum,PTS,4
+5551061,9/21/2019,FBS,Nebraska,Illinois,PUNTING,Isaac,Armstrong,NO,4
+5551062,9/21/2019,FBS,Nebraska,Illinois,PUNTING,Isaac,Armstrong,YDS,186
+5551063,9/21/2019,FBS,Nebraska,Illinois,PUNTING,Isaac,Armstrong,AVG,46.5
+5551064,9/21/2019,FBS,Nebraska,Illinois,PUNTING,Isaac,Armstrong,LONG,58
+5551065,9/21/2019,FBS,Nebraska,Illinois,PUNT RETURNS,Kanawai,Noa,NO,0
+5551066,9/21/2019,FBS,Nebraska,Illinois,PUNT RETURNS,Kanawai,Noa,YDS,0
+5551067,9/21/2019,FBS,Nebraska,Illinois,PUNT RETURNS,Kanawai,Noa,AVG,-
+5551068,9/21/2019,FBS,Nebraska,Illinois,PUNT RETURNS,Kanawai,Noa,LONG,0
+5551069,9/21/2019,FBS,Nebraska,Illinois,PUNT RETURNS,JD,Spielman,NO,2
+5551070,9/21/2019,FBS,Nebraska,Illinois,PUNT RETURNS,JD,Spielman,YDS,-3
+5551071,9/21/2019,FBS,Nebraska,Illinois,PUNT RETURNS,JD,Spielman,AVG,-
+5551072,9/21/2019,FBS,Nebraska,Illinois,PUNT RETURNS,JD,Spielman,LONG,0
+5551073,9/21/2019,FBS,Nebraska,Illinois,KICK RETURNS,Wan'Dale,Robinson,NO,1
+5551074,9/21/2019,FBS,Nebraska,Illinois,KICK RETURNS,Wan'Dale,Robinson,YDS,18
+5551075,9/21/2019,FBS,Nebraska,Illinois,KICK RETURNS,Wan'Dale,Robinson,AVG,18.0
+5551076,9/21/2019,FBS,Nebraska,Illinois,KICK RETURNS,Wan'Dale,Robinson,LONG,18
+5551077,9/21/2019,FBS,Nebraska,Illinois,DEFENSE,Khalil,Davis,TOT,1
+5551078,9/21/2019,FBS,Nebraska,Illinois,DEFENSE,Khalil,Davis,SOLO,1
+5551079,9/21/2019,FBS,Nebraska,Illinois,DEFENSE,Khalil,Davis,SACKS,1.0
+5551080,9/21/2019,FBS,Nebraska,Illinois,DEFENSE,Khalil,Davis,TFL,1
+5551081,9/21/2019,FBS,Nebraska,Illinois,DEFENSE,Khalil,Davis,INT,0
+5551082,9/21/2019,FBS,Nebraska,Illinois,DEFENSE,Khalil,Davis,FF,0
+5551083,9/21/2019,FBS,Nebraska,Illinois,DEFENSE,Khalil,Davis,FR,0
+5551084,9/21/2019,FBS,Nebraska,Illinois,DEFENSE,JoJo,Domann,TOT,2
+5551085,9/21/2019,FBS,Nebraska,Illinois,DEFENSE,JoJo,Domann,SOLO,2
+5551086,9/21/2019,FBS,Nebraska,Illinois,DEFENSE,JoJo,Domann,SACKS,1.0
+5551087,9/21/2019,FBS,Nebraska,Illinois,DEFENSE,JoJo,Domann,TFL,1
+5551088,9/21/2019,FBS,Nebraska,Illinois,DEFENSE,JoJo,Domann,INT,0
+5551089,9/21/2019,FBS,Nebraska,Illinois,DEFENSE,JoJo,Domann,FF,1
+5551090,9/21/2019,FBS,Nebraska,Illinois,DEFENSE,JoJo,Domann,FR,0
+5551091,9/21/2019,FBS,Nebraska,Illinois,DEFENSE,Cam,Taylor-Britt,TOT,0
+5551092,9/21/2019,FBS,Nebraska,Illinois,DEFENSE,Cam,Taylor-Britt,SOLO,0
+5551093,9/21/2019,FBS,Nebraska,Illinois,DEFENSE,Cam,Taylor-Britt,SACKS,0.0
+5551094,9/21/2019,FBS,Nebraska,Illinois,DEFENSE,Cam,Taylor-Britt,TFL,0
+5551095,9/21/2019,FBS,Nebraska,Illinois,DEFENSE,Cam,Taylor-Britt,INT,1
+5551096,9/21/2019,FBS,Nebraska,Illinois,DEFENSE,Cam,Taylor-Britt,FF,0
+5551097,9/21/2019,FBS,Nebraska,Illinois,DEFENSE,Cam,Taylor-Britt,FR,0
+5551098,9/21/2019,FBS,Illinois,Nebraska,RUSHING,Reggie,Corbin,ATT,20
+5551099,9/21/2019,FBS,Illinois,Nebraska,RUSHING,Reggie,Corbin,YDS,134
+5551100,9/21/2019,FBS,Illinois,Nebraska,RUSHING,Reggie,Corbin,TD,1
+5551101,9/21/2019,FBS,Illinois,Nebraska,RUSHING,Reggie,Corbin,LONG,66
+5551102,9/21/2019,FBS,Illinois,Nebraska,RUSHING,Dre,Brown,ATT,6
+5551103,9/21/2019,FBS,Illinois,Nebraska,RUSHING,Dre,Brown,YDS,59
+5551104,9/21/2019,FBS,Illinois,Nebraska,RUSHING,Dre,Brown,TD,1
+5551105,9/21/2019,FBS,Illinois,Nebraska,RUSHING,Dre,Brown,LONG,36
+5551106,9/21/2019,FBS,Illinois,Nebraska,RUSHING,Jakari,Norwood,ATT,1
+5551107,9/21/2019,FBS,Illinois,Nebraska,RUSHING,Jakari,Norwood,YDS,16
+5551108,9/21/2019,FBS,Illinois,Nebraska,RUSHING,Jakari,Norwood,TD,0
+5551109,9/21/2019,FBS,Illinois,Nebraska,RUSHING,Jakari,Norwood,LONG,16
+5551110,9/21/2019,FBS,Illinois,Nebraska,RUSHING,Ra'Von,Bonner,ATT,5
+5551111,9/21/2019,FBS,Illinois,Nebraska,RUSHING,Ra'Von,Bonner,YDS,13
+5551112,9/21/2019,FBS,Illinois,Nebraska,RUSHING,Ra'Von,Bonner,TD,1
+5551113,9/21/2019,FBS,Illinois,Nebraska,RUSHING,Ra'Von,Bonner,LONG,8
+5551114,9/21/2019,FBS,Illinois,Nebraska,RUSHING,Brandon,Peters,ATT,4
+5551115,9/21/2019,FBS,Illinois,Nebraska,RUSHING,Brandon,Peters,YDS,2
+5551116,9/21/2019,FBS,Illinois,Nebraska,RUSHING,Brandon,Peters,TD,1
+5551117,9/21/2019,FBS,Illinois,Nebraska,RUSHING,Brandon,Peters,LONG,10
+5551118,9/21/2019,FBS,Illinois,Nebraska,RUSHING,Isaiah,Williams,ATT,2
+5551119,9/21/2019,FBS,Illinois,Nebraska,RUSHING,Isaiah,Williams,YDS,-3
+5551120,9/21/2019,FBS,Illinois,Nebraska,RUSHING,Isaiah,Williams,TD,0
+5551121,9/21/2019,FBS,Illinois,Nebraska,RUSHING,Isaiah,Williams,LONG,-1
+5551122,9/21/2019,FBS,Illinois,Nebraska,PASSING,Brandon,Peters,CP-ATT-INT,9-22-1
+5551123,9/21/2019,FBS,Illinois,Nebraska,PASSING,Brandon,Peters,YDS,78
+5551124,9/21/2019,FBS,Illinois,Nebraska,PASSING,Brandon,Peters,TD,1
+5551125,9/21/2019,FBS,Illinois,Nebraska,PASSING,Brandon,Peters,LONG,26
+5551126,9/21/2019,FBS,Illinois,Nebraska,PASSING,Trenard,Davis,CP-ATT-INT,0-1-0
+5551127,9/21/2019,FBS,Illinois,Nebraska,PASSING,Trenard,Davis,YDS,0
+5551128,9/21/2019,FBS,Illinois,Nebraska,PASSING,Trenard,Davis,TD,0
+5551129,9/21/2019,FBS,Illinois,Nebraska,PASSING,Trenard,Davis,LONG,0
+5551130,9/21/2019,FBS,Illinois,Nebraska,PASSING,Matt,Robinson,CP-ATT-INT,0-1-0
+5551131,9/21/2019,FBS,Illinois,Nebraska,PASSING,Matt,Robinson,YDS,0
+5551132,9/21/2019,FBS,Illinois,Nebraska,PASSING,Matt,Robinson,TD,0
+5551133,9/21/2019,FBS,Illinois,Nebraska,PASSING,Matt,Robinson,LONG,0
+5551134,9/21/2019,FBS,Illinois,Nebraska,RECEIVING,Ricky,Smalling,REC,5
+5551135,9/21/2019,FBS,Illinois,Nebraska,RECEIVING,Ricky,Smalling,YDS,41
+5551136,9/21/2019,FBS,Illinois,Nebraska,RECEIVING,Ricky,Smalling,TD,0
+5551137,9/21/2019,FBS,Illinois,Nebraska,RECEIVING,Ricky,Smalling,LONG,17
+5551138,9/21/2019,FBS,Illinois,Nebraska,RECEIVING,Josh,Imatorbhebhe,REC,1
+5551139,9/21/2019,FBS,Illinois,Nebraska,RECEIVING,Josh,Imatorbhebhe,YDS,26
+5551140,9/21/2019,FBS,Illinois,Nebraska,RECEIVING,Josh,Imatorbhebhe,TD,1
+5551141,9/21/2019,FBS,Illinois,Nebraska,RECEIVING,Josh,Imatorbhebhe,LONG,26
+5551142,9/21/2019,FBS,Illinois,Nebraska,RECEIVING,Ra'Von,Bonner,REC,1
+5551143,9/21/2019,FBS,Illinois,Nebraska,RECEIVING,Ra'Von,Bonner,YDS,8
+5551144,9/21/2019,FBS,Illinois,Nebraska,RECEIVING,Ra'Von,Bonner,TD,0
+5551145,9/21/2019,FBS,Illinois,Nebraska,RECEIVING,Ra'Von,Bonner,LONG,8
+5551146,9/21/2019,FBS,Illinois,Nebraska,RECEIVING,Dre,Brown,REC,1
+5551147,9/21/2019,FBS,Illinois,Nebraska,RECEIVING,Dre,Brown,YDS,3
+5551148,9/21/2019,FBS,Illinois,Nebraska,RECEIVING,Dre,Brown,TD,0
+5551149,9/21/2019,FBS,Illinois,Nebraska,RECEIVING,Dre,Brown,LONG,3
+5551150,9/21/2019,FBS,Illinois,Nebraska,RECEIVING,Trevon,Sidney,REC,1
+5551151,9/21/2019,FBS,Illinois,Nebraska,RECEIVING,Trevon,Sidney,YDS,0
+5551152,9/21/2019,FBS,Illinois,Nebraska,RECEIVING,Trevon,Sidney,TD,0
+5551153,9/21/2019,FBS,Illinois,Nebraska,RECEIVING,Trevon,Sidney,LONG,0
+5551154,9/21/2019,FBS,Illinois,Nebraska,KICKING,James,McCourt,FG-FGA,1/1
+5551155,9/21/2019,FBS,Illinois,Nebraska,KICKING,James,McCourt,LONG,47
+5551156,9/21/2019,FBS,Illinois,Nebraska,KICKING,James,McCourt,XP,5
+5551157,9/21/2019,FBS,Illinois,Nebraska,KICKING,James,McCourt,PTS,8
+5551158,9/21/2019,FBS,Illinois,Nebraska,PUNTING,Blake,Hayes,NO,8
+5551159,9/21/2019,FBS,Illinois,Nebraska,PUNTING,Blake,Hayes,YDS,368
+5551160,9/21/2019,FBS,Illinois,Nebraska,PUNTING,Blake,Hayes,AVG,46.0
+5551161,9/21/2019,FBS,Illinois,Nebraska,PUNTING,Blake,Hayes,LONG,59
+5551162,9/21/2019,FBS,Illinois,Nebraska,PUNT RETURNS,Trevon,Sidney,NO,1
+5551163,9/21/2019,FBS,Illinois,Nebraska,PUNT RETURNS,Trevon,Sidney,YDS,5
+5551164,9/21/2019,FBS,Illinois,Nebraska,PUNT RETURNS,Trevon,Sidney,AVG,5.0
+5551165,9/21/2019,FBS,Illinois,Nebraska,PUNT RETURNS,Trevon,Sidney,LONG,5
+5551166,9/21/2019,FBS,Illinois,Nebraska,PUNT RETURNS,Jordan,Holmes,NO,0
+5551167,9/21/2019,FBS,Illinois,Nebraska,PUNT RETURNS,Jordan,Holmes,YDS,0
+5551168,9/21/2019,FBS,Illinois,Nebraska,PUNT RETURNS,Jordan,Holmes,AVG,-
+5551169,9/21/2019,FBS,Illinois,Nebraska,PUNT RETURNS,Jordan,Holmes,LONG,0
+5551170,9/21/2019,FBS,Illinois,Nebraska,KICK RETURNS,Dre,Brown,NO,5
+5551171,9/21/2019,FBS,Illinois,Nebraska,KICK RETURNS,Dre,Brown,YDS,143
+5551172,9/21/2019,FBS,Illinois,Nebraska,KICK RETURNS,Dre,Brown,AVG,28.6
+5551173,9/21/2019,FBS,Illinois,Nebraska,KICK RETURNS,Dre,Brown,LONG,38
+5551174,9/21/2019,FBS,Illinois,Nebraska,KICK RETURNS,Kenyon,Sims,NO,1
+5551175,9/21/2019,FBS,Illinois,Nebraska,KICK RETURNS,Kenyon,Sims,YDS,15
+5551176,9/21/2019,FBS,Illinois,Nebraska,KICK RETURNS,Kenyon,Sims,AVG,15.0
+5551177,9/21/2019,FBS,Illinois,Nebraska,KICK RETURNS,Kenyon,Sims,LONG,15
+5551178,9/21/2019,FBS,Illinois,Nebraska,DEFENSE,Ayo,Shogbonyo,TOT,1
+5551179,9/21/2019,FBS,Illinois,Nebraska,DEFENSE,Ayo,Shogbonyo,SOLO,1
+5551180,9/21/2019,FBS,Illinois,Nebraska,DEFENSE,Ayo,Shogbonyo,SACKS,1.0
+5551181,9/21/2019,FBS,Illinois,Nebraska,DEFENSE,Ayo,Shogbonyo,TFL,1
+5551182,9/21/2019,FBS,Illinois,Nebraska,DEFENSE,Ayo,Shogbonyo,INT,0
+5551183,9/21/2019,FBS,Illinois,Nebraska,DEFENSE,Ayo,Shogbonyo,FF,1
+5551184,9/21/2019,FBS,Illinois,Nebraska,DEFENSE,Ayo,Shogbonyo,FR,0
+5551185,9/21/2019,FBS,Illinois,Nebraska,DEFENSE,Oluwole,BetikuJr.,TOT,1
+5551186,9/21/2019,FBS,Illinois,Nebraska,DEFENSE,Oluwole,BetikuJr.,SOLO,1
+5551187,9/21/2019,FBS,Illinois,Nebraska,DEFENSE,Oluwole,BetikuJr.,SACKS,1.0
+5551188,9/21/2019,FBS,Illinois,Nebraska,DEFENSE,Oluwole,BetikuJr.,TFL,1
+5551189,9/21/2019,FBS,Illinois,Nebraska,DEFENSE,Oluwole,BetikuJr.,INT,0
+5551190,9/21/2019,FBS,Illinois,Nebraska,DEFENSE,Oluwole,BetikuJr.,FF,0
+5551191,9/21/2019,FBS,Illinois,Nebraska,DEFENSE,Oluwole,BetikuJr.,FR,1
+5551192,9/21/2019,FBS,Illinois,Nebraska,DEFENSE,Jake,Hansen,TOT,2
+5551193,9/21/2019,FBS,Illinois,Nebraska,DEFENSE,Jake,Hansen,SOLO,2
+5551194,9/21/2019,FBS,Illinois,Nebraska,DEFENSE,Jake,Hansen,SACKS,0.0
+5551195,9/21/2019,FBS,Illinois,Nebraska,DEFENSE,Jake,Hansen,TFL,0
+5551196,9/21/2019,FBS,Illinois,Nebraska,DEFENSE,Jake,Hansen,INT,0
+5551197,9/21/2019,FBS,Illinois,Nebraska,DEFENSE,Jake,Hansen,FF,2
+5551198,9/21/2019,FBS,Illinois,Nebraska,DEFENSE,Jake,Hansen,FR,1
+5551199,9/21/2019,FBS,Illinois,Nebraska,DEFENSE,Jartavius,Martin,TOT,0
+5551200,9/21/2019,FBS,Illinois,Nebraska,DEFENSE,Jartavius,Martin,SOLO,0
+5551201,9/21/2019,FBS,Illinois,Nebraska,DEFENSE,Jartavius,Martin,SACKS,0.0
+5551202,9/21/2019,FBS,Illinois,Nebraska,DEFENSE,Jartavius,Martin,TFL,0
+5551203,9/21/2019,FBS,Illinois,Nebraska,DEFENSE,Jartavius,Martin,INT,0
+5551204,9/21/2019,FBS,Illinois,Nebraska,DEFENSE,Jartavius,Martin,FF,0
+5551205,9/21/2019,FBS,Illinois,Nebraska,DEFENSE,Jartavius,Martin,FR,2
+5551206,9/21/2019,FBS,Illinois,Nebraska,DEFENSE,Dele,Harding,TOT,1
+5551207,9/21/2019,FBS,Illinois,Nebraska,DEFENSE,Dele,Harding,SOLO,1
+5551208,9/21/2019,FBS,Illinois,Nebraska,DEFENSE,Dele,Harding,SACKS,0.0
+5551209,9/21/2019,FBS,Illinois,Nebraska,DEFENSE,Dele,Harding,TFL,0
+5551210,9/21/2019,FBS,Illinois,Nebraska,DEFENSE,Dele,Harding,INT,0
+5551211,9/21/2019,FBS,Illinois,Nebraska,DEFENSE,Dele,Harding,FF,1
+5551212,9/21/2019,FBS,Illinois,Nebraska,DEFENSE,Dele,Harding,FR,0

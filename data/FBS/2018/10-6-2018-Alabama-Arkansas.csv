@@ -1,0 +1,222 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+4775001,10/6/2018,FBS,Alabama,Arkansas,RUSHING,Damien,Harris,ATT,15
+4775002,10/6/2018,FBS,Alabama,Arkansas,RUSHING,Damien,Harris,YDS,111
+4775003,10/6/2018,FBS,Alabama,Arkansas,RUSHING,Damien,Harris,TD,2
+4775004,10/6/2018,FBS,Alabama,Arkansas,RUSHING,Damien,Harris,LONG,19
+4775005,10/6/2018,FBS,Alabama,Arkansas,RUSHING,Najee,Harris,ATT,7
+4775006,10/6/2018,FBS,Alabama,Arkansas,RUSHING,Najee,Harris,YDS,63
+4775007,10/6/2018,FBS,Alabama,Arkansas,RUSHING,Najee,Harris,TD,0
+4775008,10/6/2018,FBS,Alabama,Arkansas,RUSHING,Najee,Harris,LONG,23
+4775009,10/6/2018,FBS,Alabama,Arkansas,RUSHING,Jalen,Hurts,ATT,4
+4775010,10/6/2018,FBS,Alabama,Arkansas,RUSHING,Jalen,Hurts,YDS,35
+4775011,10/6/2018,FBS,Alabama,Arkansas,RUSHING,Jalen,Hurts,TD,0
+4775012,10/6/2018,FBS,Alabama,Arkansas,RUSHING,Jalen,Hurts,LONG,27
+4775013,10/6/2018,FBS,Alabama,Arkansas,RUSHING,Brian,RobinsonJr.,ATT,6
+4775014,10/6/2018,FBS,Alabama,Arkansas,RUSHING,Brian,RobinsonJr.,YDS,23
+4775015,10/6/2018,FBS,Alabama,Arkansas,RUSHING,Brian,RobinsonJr.,TD,1
+4775016,10/6/2018,FBS,Alabama,Arkansas,RUSHING,Brian,RobinsonJr.,LONG,7
+4775017,10/6/2018,FBS,Alabama,Arkansas,RUSHING,Josh,Jacobs,ATT,5
+4775018,10/6/2018,FBS,Alabama,Arkansas,RUSHING,Josh,Jacobs,YDS,10
+4775019,10/6/2018,FBS,Alabama,Arkansas,RUSHING,Josh,Jacobs,TD,1
+4775020,10/6/2018,FBS,Alabama,Arkansas,RUSHING,Josh,Jacobs,LONG,9
+4775021,10/6/2018,FBS,Alabama,Arkansas,RUSHING,Tua,Tagovailoa,ATT,3
+4775022,10/6/2018,FBS,Alabama,Arkansas,RUSHING,Tua,Tagovailoa,YDS,7
+4775023,10/6/2018,FBS,Alabama,Arkansas,RUSHING,Tua,Tagovailoa,TD,0
+4775024,10/6/2018,FBS,Alabama,Arkansas,RUSHING,Tua,Tagovailoa,LONG,3
+4775025,10/6/2018,FBS,Alabama,Arkansas,RUSHING,,Team,ATT,1
+4775026,10/6/2018,FBS,Alabama,Arkansas,RUSHING,,Team,YDS,-3
+4775027,10/6/2018,FBS,Alabama,Arkansas,RUSHING,,Team,TD,0
+4775028,10/6/2018,FBS,Alabama,Arkansas,RUSHING,,Team,LONG,-3
+4775029,10/6/2018,FBS,Alabama,Arkansas,PASSING,Tua,Tagovailoa,CP-ATT-INT,10-13-0
+4775030,10/6/2018,FBS,Alabama,Arkansas,PASSING,Tua,Tagovailoa,YDS,334
+4775031,10/6/2018,FBS,Alabama,Arkansas,PASSING,Tua,Tagovailoa,TD,4
+4775032,10/6/2018,FBS,Alabama,Arkansas,PASSING,Tua,Tagovailoa,LONG,76
+4775033,10/6/2018,FBS,Alabama,Arkansas,PASSING,Jalen,Hurts,CP-ATT-INT,4-5-0
+4775034,10/6/2018,FBS,Alabama,Arkansas,PASSING,Jalen,Hurts,YDS,59
+4775035,10/6/2018,FBS,Alabama,Arkansas,PASSING,Jalen,Hurts,TD,0
+4775036,10/6/2018,FBS,Alabama,Arkansas,PASSING,Jalen,Hurts,LONG,26
+4775037,10/6/2018,FBS,Alabama,Arkansas,RECEIVING,Jerry,Jeudy,REC,4
+4775038,10/6/2018,FBS,Alabama,Arkansas,RECEIVING,Jerry,Jeudy,YDS,135
+4775039,10/6/2018,FBS,Alabama,Arkansas,RECEIVING,Jerry,Jeudy,TD,2
+4775040,10/6/2018,FBS,Alabama,Arkansas,RECEIVING,Jerry,Jeudy,LONG,60
+4775041,10/6/2018,FBS,Alabama,Arkansas,RECEIVING,Irv,SmithJr.,REC,2
+4775042,10/6/2018,FBS,Alabama,Arkansas,RECEIVING,Irv,SmithJr.,YDS,123
+4775043,10/6/2018,FBS,Alabama,Arkansas,RECEIVING,Irv,SmithJr.,TD,1
+4775044,10/6/2018,FBS,Alabama,Arkansas,RECEIVING,Irv,SmithJr.,LONG,76
+4775045,10/6/2018,FBS,Alabama,Arkansas,RECEIVING,Jaylen,Waddle,REC,4
+4775046,10/6/2018,FBS,Alabama,Arkansas,RECEIVING,Jaylen,Waddle,YDS,49
+4775047,10/6/2018,FBS,Alabama,Arkansas,RECEIVING,Jaylen,Waddle,TD,0
+4775048,10/6/2018,FBS,Alabama,Arkansas,RECEIVING,Jaylen,Waddle,LONG,17
+4775049,10/6/2018,FBS,Alabama,Arkansas,RECEIVING,Devonta,Smith,REC,2
+4775050,10/6/2018,FBS,Alabama,Arkansas,RECEIVING,Devonta,Smith,YDS,40
+4775051,10/6/2018,FBS,Alabama,Arkansas,RECEIVING,Devonta,Smith,TD,0
+4775052,10/6/2018,FBS,Alabama,Arkansas,RECEIVING,Devonta,Smith,LONG,26
+4775053,10/6/2018,FBS,Alabama,Arkansas,RECEIVING,Henry,RuggsIII,REC,1
+4775054,10/6/2018,FBS,Alabama,Arkansas,RECEIVING,Henry,RuggsIII,YDS,33
+4775055,10/6/2018,FBS,Alabama,Arkansas,RECEIVING,Henry,RuggsIII,TD,1
+4775056,10/6/2018,FBS,Alabama,Arkansas,RECEIVING,Henry,RuggsIII,LONG,21
+4775057,10/6/2018,FBS,Alabama,Arkansas,RECEIVING,Damien,Harris,REC,1
+4775058,10/6/2018,FBS,Alabama,Arkansas,RECEIVING,Damien,Harris,YDS,13
+4775059,10/6/2018,FBS,Alabama,Arkansas,RECEIVING,Damien,Harris,TD,0
+4775060,10/6/2018,FBS,Alabama,Arkansas,RECEIVING,Damien,Harris,LONG,13
+4775061,10/6/2018,FBS,Alabama,Arkansas,KICKING,Joseph,Bulovas,FG-FGA,1/1
+4775062,10/6/2018,FBS,Alabama,Arkansas,KICKING,Joseph,Bulovas,LONG,27
+4775063,10/6/2018,FBS,Alabama,Arkansas,KICKING,Joseph,Bulovas,XP,8
+4775064,10/6/2018,FBS,Alabama,Arkansas,KICKING,Joseph,Bulovas,PTS,11
+4775065,10/6/2018,FBS,Alabama,Arkansas,PUNT RETURNS,Jaylen,Waddle,NO,0
+4775066,10/6/2018,FBS,Alabama,Arkansas,PUNT RETURNS,Jaylen,Waddle,YDS,0
+4775067,10/6/2018,FBS,Alabama,Arkansas,PUNT RETURNS,Jaylen,Waddle,AVG,-
+4775068,10/6/2018,FBS,Alabama,Arkansas,PUNT RETURNS,Jaylen,Waddle,LONG,0
+4775069,10/6/2018,FBS,Alabama,Arkansas,KICK RETURNS,Josh,Jacobs,NO,2
+4775070,10/6/2018,FBS,Alabama,Arkansas,KICK RETURNS,Josh,Jacobs,YDS,22
+4775071,10/6/2018,FBS,Alabama,Arkansas,KICK RETURNS,Josh,Jacobs,AVG,11.0
+4775072,10/6/2018,FBS,Alabama,Arkansas,KICK RETURNS,Josh,Jacobs,LONG,12
+4775073,10/6/2018,FBS,Alabama,Arkansas,KICK RETURNS,Deionte,Thompson,NO,1
+4775074,10/6/2018,FBS,Alabama,Arkansas,KICK RETURNS,Deionte,Thompson,YDS,20
+4775075,10/6/2018,FBS,Alabama,Arkansas,KICK RETURNS,Deionte,Thompson,AVG,20.0
+4775076,10/6/2018,FBS,Alabama,Arkansas,KICK RETURNS,Deionte,Thompson,LONG,20
+4775077,10/6/2018,FBS,Alabama,Arkansas,KICK RETURNS,Brian,RobinsonJr.,NO,2
+4775078,10/6/2018,FBS,Alabama,Arkansas,KICK RETURNS,Brian,RobinsonJr.,YDS,19
+4775079,10/6/2018,FBS,Alabama,Arkansas,KICK RETURNS,Brian,RobinsonJr.,AVG,9.5
+4775080,10/6/2018,FBS,Alabama,Arkansas,KICK RETURNS,Brian,RobinsonJr.,LONG,11
+4775081,10/6/2018,FBS,Alabama,Arkansas,KICK RETURNS,Irv,SmithJr.,NO,1
+4775082,10/6/2018,FBS,Alabama,Arkansas,KICK RETURNS,Irv,SmithJr.,YDS,6
+4775083,10/6/2018,FBS,Alabama,Arkansas,KICK RETURNS,Irv,SmithJr.,AVG,6.0
+4775084,10/6/2018,FBS,Alabama,Arkansas,KICK RETURNS,Irv,SmithJr.,LONG,6
+4775085,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Quinnen,Williams,TOT,1
+4775086,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Quinnen,Williams,SOLO,0
+4775087,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Quinnen,Williams,SACKS,0.5
+4775088,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Quinnen,Williams,TFL,0
+4775089,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Quinnen,Williams,INT,0
+4775090,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Quinnen,Williams,FF,0
+4775091,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Quinnen,Williams,FR,0
+4775092,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Isaiah,Buggs,TOT,1
+4775093,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Isaiah,Buggs,SOLO,0
+4775094,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Isaiah,Buggs,SACKS,0.5
+4775095,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Isaiah,Buggs,TFL,0
+4775096,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Isaiah,Buggs,INT,0
+4775097,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Isaiah,Buggs,FF,1
+4775098,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Isaiah,Buggs,FR,1
+4775099,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Dylan,Moses,TOT,1
+4775100,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Dylan,Moses,SOLO,1
+4775101,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Dylan,Moses,SACKS,0.0
+4775102,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Dylan,Moses,TFL,0
+4775103,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Dylan,Moses,INT,0
+4775104,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Dylan,Moses,FF,1
+4775105,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Dylan,Moses,FR,0
+4775106,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Deionte,Thompson,TOT,0
+4775107,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Deionte,Thompson,SOLO,0
+4775108,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Deionte,Thompson,SACKS,0.0
+4775109,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Deionte,Thompson,TFL,0
+4775110,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Deionte,Thompson,INT,0
+4775111,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Deionte,Thompson,FF,0
+4775112,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Deionte,Thompson,FR,1
+4775113,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Shyheim,Carter,TOT,0
+4775114,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Shyheim,Carter,SOLO,0
+4775115,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Shyheim,Carter,SACKS,0.0
+4775116,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Shyheim,Carter,TFL,0
+4775117,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Shyheim,Carter,INT,1
+4775118,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Shyheim,Carter,FF,0
+4775119,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Shyheim,Carter,FR,0
+4775120,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Patrick,SurtainJr.,TOT,1
+4775121,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Patrick,SurtainJr.,SOLO,1
+4775122,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Patrick,SurtainJr.,SACKS,0.0
+4775123,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Patrick,SurtainJr.,TFL,0
+4775124,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Patrick,SurtainJr.,INT,0
+4775125,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Patrick,SurtainJr.,FF,1
+4775126,10/6/2018,FBS,Alabama,Arkansas,DEFENSE,Patrick,SurtainJr.,FR,0
+4775127,10/6/2018,FBS,Arkansas,Alabama,RUSHING,Rakeem,Boyd,ATT,15
+4775128,10/6/2018,FBS,Arkansas,Alabama,RUSHING,Rakeem,Boyd,YDS,102
+4775129,10/6/2018,FBS,Arkansas,Alabama,RUSHING,Rakeem,Boyd,TD,0
+4775130,10/6/2018,FBS,Arkansas,Alabama,RUSHING,Rakeem,Boyd,LONG,32
+4775131,10/6/2018,FBS,Arkansas,Alabama,RUSHING,Ty,Storey,ATT,9
+4775132,10/6/2018,FBS,Arkansas,Alabama,RUSHING,Ty,Storey,YDS,36
+4775133,10/6/2018,FBS,Arkansas,Alabama,RUSHING,Ty,Storey,TD,0
+4775134,10/6/2018,FBS,Arkansas,Alabama,RUSHING,Ty,Storey,LONG,11
+4775135,10/6/2018,FBS,Arkansas,Alabama,RUSHING,Chase,Hayden,ATT,2
+4775136,10/6/2018,FBS,Arkansas,Alabama,RUSHING,Chase,Hayden,YDS,18
+4775137,10/6/2018,FBS,Arkansas,Alabama,RUSHING,Chase,Hayden,TD,0
+4775138,10/6/2018,FBS,Arkansas,Alabama,RUSHING,Chase,Hayden,LONG,17
+4775139,10/6/2018,FBS,Arkansas,Alabama,RUSHING,Jordan,Jones,ATT,1
+4775140,10/6/2018,FBS,Arkansas,Alabama,RUSHING,Jordan,Jones,YDS,9
+4775141,10/6/2018,FBS,Arkansas,Alabama,RUSHING,Jordan,Jones,TD,0
+4775142,10/6/2018,FBS,Arkansas,Alabama,RUSHING,Jordan,Jones,LONG,9
+4775143,10/6/2018,FBS,Arkansas,Alabama,RUSHING,Cole,Kelley,ATT,3
+4775144,10/6/2018,FBS,Arkansas,Alabama,RUSHING,Cole,Kelley,YDS,6
+4775145,10/6/2018,FBS,Arkansas,Alabama,RUSHING,Cole,Kelley,TD,1
+4775146,10/6/2018,FBS,Arkansas,Alabama,RUSHING,Cole,Kelley,LONG,3
+4775147,10/6/2018,FBS,Arkansas,Alabama,RUSHING,Maleek,Williams,ATT,1
+4775148,10/6/2018,FBS,Arkansas,Alabama,RUSHING,Maleek,Williams,YDS,1
+4775149,10/6/2018,FBS,Arkansas,Alabama,RUSHING,Maleek,Williams,TD,0
+4775150,10/6/2018,FBS,Arkansas,Alabama,RUSHING,Maleek,Williams,LONG,1
+4775151,10/6/2018,FBS,Arkansas,Alabama,PASSING,Ty,Storey,CP-ATT-INT,25-39-1
+4775152,10/6/2018,FBS,Arkansas,Alabama,PASSING,Ty,Storey,YDS,230
+4775153,10/6/2018,FBS,Arkansas,Alabama,PASSING,Ty,Storey,TD,2
+4775154,10/6/2018,FBS,Arkansas,Alabama,PASSING,Ty,Storey,LONG,37
+4775155,10/6/2018,FBS,Arkansas,Alabama,PASSING,Cole,Kelley,CP-ATT-INT,1-1-0
+4775156,10/6/2018,FBS,Arkansas,Alabama,PASSING,Cole,Kelley,YDS,3
+4775157,10/6/2018,FBS,Arkansas,Alabama,PASSING,Cole,Kelley,TD,1
+4775158,10/6/2018,FBS,Arkansas,Alabama,PASSING,Cole,Kelley,LONG,3
+4775159,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,Deon,Stewart,REC,2
+4775160,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,Deon,Stewart,YDS,53
+4775161,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,Deon,Stewart,TD,0
+4775162,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,Deon,Stewart,LONG,37
+4775163,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,Cheyenne,O'Grady,REC,7
+4775164,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,Cheyenne,O'Grady,YDS,48
+4775165,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,Cheyenne,O'Grady,TD,2
+4775166,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,Cheyenne,O'Grady,LONG,16
+4775167,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,Chase,Hayden,REC,2
+4775168,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,Chase,Hayden,YDS,26
+4775169,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,Chase,Hayden,TD,0
+4775170,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,Chase,Hayden,LONG,20
+4775171,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,Rakeem,Boyd,REC,5
+4775172,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,Rakeem,Boyd,YDS,24
+4775173,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,Rakeem,Boyd,TD,0
+4775174,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,Rakeem,Boyd,LONG,21
+4775175,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,Austin,Cantrell,REC,2
+4775176,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,Austin,Cantrell,YDS,21
+4775177,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,Austin,Cantrell,TD,0
+4775178,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,Austin,Cantrell,LONG,13
+4775179,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,De'Vion,Warren,REC,1
+4775180,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,De'Vion,Warren,YDS,17
+4775181,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,De'Vion,Warren,TD,1
+4775182,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,De'Vion,Warren,LONG,17
+4775183,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,La'Michael,Pettway,REC,3
+4775184,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,La'Michael,Pettway,YDS,17
+4775185,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,La'Michael,Pettway,TD,0
+4775186,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,La'Michael,Pettway,LONG,9
+4775187,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,Tyson,Morris,REC,1
+4775188,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,Tyson,Morris,YDS,11
+4775189,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,Tyson,Morris,TD,0
+4775190,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,Tyson,Morris,LONG,11
+4775191,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,Grayson,Gunter,REC,1
+4775192,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,Grayson,Gunter,YDS,10
+4775193,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,Grayson,Gunter,TD,0
+4775194,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,Grayson,Gunter,LONG,10
+4775195,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,Michael,Woods,REC,2
+4775196,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,Michael,Woods,YDS,6
+4775197,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,Michael,Woods,TD,0
+4775198,10/6/2018,FBS,Arkansas,Alabama,RECEIVING,Michael,Woods,LONG,4
+4775199,10/6/2018,FBS,Arkansas,Alabama,KICKING,Connor,Limpert,FG-FGA,1/1
+4775200,10/6/2018,FBS,Arkansas,Alabama,KICKING,Connor,Limpert,LONG,41
+4775201,10/6/2018,FBS,Arkansas,Alabama,KICKING,Connor,Limpert,XP,4
+4775202,10/6/2018,FBS,Arkansas,Alabama,KICKING,Connor,Limpert,PTS,7
+4775203,10/6/2018,FBS,Arkansas,Alabama,PUNTING,Reid,Bauer,NO,2
+4775204,10/6/2018,FBS,Arkansas,Alabama,PUNTING,Reid,Bauer,YDS,66
+4775205,10/6/2018,FBS,Arkansas,Alabama,PUNTING,Reid,Bauer,AVG,33.0
+4775206,10/6/2018,FBS,Arkansas,Alabama,PUNTING,Reid,Bauer,LONG,35
+4775207,10/6/2018,FBS,Arkansas,Alabama,PUNTING,Matthew,Phillips,NO,1
+4775208,10/6/2018,FBS,Arkansas,Alabama,PUNTING,Matthew,Phillips,YDS,47
+4775209,10/6/2018,FBS,Arkansas,Alabama,PUNTING,Matthew,Phillips,AVG,47.0
+4775210,10/6/2018,FBS,Arkansas,Alabama,PUNTING,Matthew,Phillips,LONG,47
+4775211,10/6/2018,FBS,Arkansas,Alabama,KICK RETURNS,De'Vion,Warren,NO,1
+4775212,10/6/2018,FBS,Arkansas,Alabama,KICK RETURNS,De'Vion,Warren,YDS,78
+4775213,10/6/2018,FBS,Arkansas,Alabama,KICK RETURNS,De'Vion,Warren,AVG,78.0
+4775214,10/6/2018,FBS,Arkansas,Alabama,KICK RETURNS,De'Vion,Warren,LONG,78
+4775215,10/6/2018,FBS,Arkansas,Alabama,DEFENSE,Ryan,Pulley,TOT,1
+4775216,10/6/2018,FBS,Arkansas,Alabama,DEFENSE,Ryan,Pulley,SOLO,1
+4775217,10/6/2018,FBS,Arkansas,Alabama,DEFENSE,Ryan,Pulley,SACKS,0.0
+4775218,10/6/2018,FBS,Arkansas,Alabama,DEFENSE,Ryan,Pulley,TFL,0
+4775219,10/6/2018,FBS,Arkansas,Alabama,DEFENSE,Ryan,Pulley,INT,0
+4775220,10/6/2018,FBS,Arkansas,Alabama,DEFENSE,Ryan,Pulley,FF,1
+4775221,10/6/2018,FBS,Arkansas,Alabama,DEFENSE,Ryan,Pulley,FR,0

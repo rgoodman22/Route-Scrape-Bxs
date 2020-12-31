@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2668001,9/3/2016,FBS,Clemson,Auburn,RUSHING,Wayne,Gallman,ATT,30
+2668002,9/3/2016,FBS,Clemson,Auburn,RUSHING,Wayne,Gallman,YDS,123
+2668003,9/3/2016,FBS,Clemson,Auburn,RUSHING,Wayne,Gallman,TD,1
+2668004,9/3/2016,FBS,Clemson,Auburn,RUSHING,Wayne,Gallman,LONG,20
+2668005,9/3/2016,FBS,Clemson,Auburn,RUSHING,Deshaun,Watson,ATT,11
+2668006,9/3/2016,FBS,Clemson,Auburn,RUSHING,Deshaun,Watson,YDS,21
+2668007,9/3/2016,FBS,Clemson,Auburn,RUSHING,Deshaun,Watson,TD,0
+2668008,9/3/2016,FBS,Clemson,Auburn,RUSHING,Deshaun,Watson,LONG,6
+2668009,9/3/2016,FBS,Clemson,Auburn,RUSHING,Adam,Choice,ATT,3
+2668010,9/3/2016,FBS,Clemson,Auburn,RUSHING,Adam,Choice,YDS,7
+2668011,9/3/2016,FBS,Clemson,Auburn,RUSHING,Adam,Choice,TD,0
+2668012,9/3/2016,FBS,Clemson,Auburn,RUSHING,Adam,Choice,LONG,5
+2668013,9/3/2016,FBS,Clemson,Auburn,PASSING,Deshaun,Watson,CP-ATT-INT,19-34-1
+2668014,9/3/2016,FBS,Clemson,Auburn,PASSING,Deshaun,Watson,YDS,248
+2668015,9/3/2016,FBS,Clemson,Auburn,PASSING,Deshaun,Watson,TD,1
+2668016,9/3/2016,FBS,Clemson,Auburn,PASSING,Deshaun,Watson,LONG,34
+2668017,9/3/2016,FBS,Clemson,Auburn,RECEIVING,Mike,Williams,REC,9
+2668018,9/3/2016,FBS,Clemson,Auburn,RECEIVING,Mike,Williams,YDS,174
+2668019,9/3/2016,FBS,Clemson,Auburn,RECEIVING,Mike,Williams,TD,0
+2668020,9/3/2016,FBS,Clemson,Auburn,RECEIVING,Mike,Williams,LONG,34
+2668021,9/3/2016,FBS,Clemson,Auburn,RECEIVING,Artavis,Scott,REC,3
+2668022,9/3/2016,FBS,Clemson,Auburn,RECEIVING,Artavis,Scott,YDS,30
+2668023,9/3/2016,FBS,Clemson,Auburn,RECEIVING,Artavis,Scott,TD,0
+2668024,9/3/2016,FBS,Clemson,Auburn,RECEIVING,Artavis,Scott,LONG,20
+2668025,9/3/2016,FBS,Clemson,Auburn,RECEIVING,Hunter,Renfrow,REC,3
+2668026,9/3/2016,FBS,Clemson,Auburn,RECEIVING,Hunter,Renfrow,YDS,27
+2668027,9/3/2016,FBS,Clemson,Auburn,RECEIVING,Hunter,Renfrow,TD,1
+2668028,9/3/2016,FBS,Clemson,Auburn,RECEIVING,Hunter,Renfrow,LONG,16
+2668029,9/3/2016,FBS,Clemson,Auburn,RECEIVING,Wayne,Gallman,REC,1
+2668030,9/3/2016,FBS,Clemson,Auburn,RECEIVING,Wayne,Gallman,YDS,8
+2668031,9/3/2016,FBS,Clemson,Auburn,RECEIVING,Wayne,Gallman,TD,0
+2668032,9/3/2016,FBS,Clemson,Auburn,RECEIVING,Wayne,Gallman,LONG,8
+2668033,9/3/2016,FBS,Clemson,Auburn,RECEIVING,Ray,RayMcCloud,REC,2
+2668034,9/3/2016,FBS,Clemson,Auburn,RECEIVING,Ray,RayMcCloud,YDS,8
+2668035,9/3/2016,FBS,Clemson,Auburn,RECEIVING,Ray,RayMcCloud,TD,0
+2668036,9/3/2016,FBS,Clemson,Auburn,RECEIVING,Ray,RayMcCloud,LONG,5
+2668037,9/3/2016,FBS,Clemson,Auburn,RECEIVING,Deon,Cain,REC,1
+2668038,9/3/2016,FBS,Clemson,Auburn,RECEIVING,Deon,Cain,YDS,1
+2668039,9/3/2016,FBS,Clemson,Auburn,RECEIVING,Deon,Cain,TD,0
+2668040,9/3/2016,FBS,Clemson,Auburn,RECEIVING,Deon,Cain,LONG,1
+2668041,9/3/2016,FBS,Clemson,Auburn,KICKING,Greg,Huegel,FG-FGA,2/2
+2668042,9/3/2016,FBS,Clemson,Auburn,KICKING,Greg,Huegel,LONG,40
+2668043,9/3/2016,FBS,Clemson,Auburn,KICKING,Greg,Huegel,XP,1
+2668044,9/3/2016,FBS,Clemson,Auburn,KICKING,Greg,Huegel,PTS,7
+2668045,9/3/2016,FBS,Clemson,Auburn,PUNTING,Andy,Teasdall,NO,4
+2668046,9/3/2016,FBS,Clemson,Auburn,PUNTING,Andy,Teasdall,YDS,166
+2668047,9/3/2016,FBS,Clemson,Auburn,PUNTING,Andy,Teasdall,AVG,41.5
+2668048,9/3/2016,FBS,Clemson,Auburn,PUNTING,Andy,Teasdall,LONG,59
+2668049,9/3/2016,FBS,Clemson,Auburn,PUNT RETURNS,Ray,RayMcCloud,NO,0
+2668050,9/3/2016,FBS,Clemson,Auburn,PUNT RETURNS,Ray,RayMcCloud,YDS,0
+2668051,9/3/2016,FBS,Clemson,Auburn,PUNT RETURNS,Ray,RayMcCloud,AVG,-
+2668052,9/3/2016,FBS,Clemson,Auburn,PUNT RETURNS,Ray,RayMcCloud,LONG,0
+2668053,9/3/2016,FBS,Clemson,Auburn,KICK RETURNS,Artavis,Scott,NO,1
+2668054,9/3/2016,FBS,Clemson,Auburn,KICK RETURNS,Artavis,Scott,YDS,16
+2668055,9/3/2016,FBS,Clemson,Auburn,KICK RETURNS,Artavis,Scott,AVG,16.0
+2668056,9/3/2016,FBS,Clemson,Auburn,KICK RETURNS,Artavis,Scott,LONG,16
+2668057,9/3/2016,FBS,Auburn,Clemson,RUSHING,Kerryon,Johnson,ATT,23
+2668058,9/3/2016,FBS,Auburn,Clemson,RUSHING,Kerryon,Johnson,YDS,94
+2668059,9/3/2016,FBS,Auburn,Clemson,RUSHING,Kerryon,Johnson,TD,1
+2668060,9/3/2016,FBS,Auburn,Clemson,RUSHING,Kerryon,Johnson,LONG,18
+2668061,9/3/2016,FBS,Auburn,Clemson,RUSHING,Stanton,Truitt,ATT,4
+2668062,9/3/2016,FBS,Auburn,Clemson,RUSHING,Stanton,Truitt,YDS,7
+2668063,9/3/2016,FBS,Auburn,Clemson,RUSHING,Stanton,Truitt,TD,0
+2668064,9/3/2016,FBS,Auburn,Clemson,RUSHING,Stanton,Truitt,LONG,7
+2668065,9/3/2016,FBS,Auburn,Clemson,RUSHING,Chandler,Cox,ATT,4
+2668066,9/3/2016,FBS,Auburn,Clemson,RUSHING,Chandler,Cox,YDS,6
+2668067,9/3/2016,FBS,Auburn,Clemson,RUSHING,Chandler,Cox,TD,0
+2668068,9/3/2016,FBS,Auburn,Clemson,RUSHING,Chandler,Cox,LONG,3
+2668069,9/3/2016,FBS,Auburn,Clemson,RUSHING,Sean,White,ATT,4
+2668070,9/3/2016,FBS,Auburn,Clemson,RUSHING,Sean,White,YDS,-2
+2668071,9/3/2016,FBS,Auburn,Clemson,RUSHING,Sean,White,TD,0
+2668072,9/3/2016,FBS,Auburn,Clemson,RUSHING,Sean,White,LONG,7
+2668073,9/3/2016,FBS,Auburn,Clemson,RUSHING,Jeremy,Johnson,ATT,6
+2668074,9/3/2016,FBS,Auburn,Clemson,RUSHING,Jeremy,Johnson,YDS,-18
+2668075,9/3/2016,FBS,Auburn,Clemson,RUSHING,Jeremy,Johnson,TD,0
+2668076,9/3/2016,FBS,Auburn,Clemson,RUSHING,Jeremy,Johnson,LONG,3
+2668077,9/3/2016,FBS,Auburn,Clemson,PASSING,Sean,White,CP-ATT-INT,10-21-1
+2668078,9/3/2016,FBS,Auburn,Clemson,PASSING,Sean,White,YDS,140
+2668079,9/3/2016,FBS,Auburn,Clemson,PASSING,Sean,White,TD,0
+2668080,9/3/2016,FBS,Auburn,Clemson,PASSING,Sean,White,LONG,43
+2668081,9/3/2016,FBS,Auburn,Clemson,PASSING,Jeremy,Johnson,CP-ATT-INT,4-6-1
+2668082,9/3/2016,FBS,Auburn,Clemson,PASSING,Jeremy,Johnson,YDS,38
+2668083,9/3/2016,FBS,Auburn,Clemson,PASSING,Jeremy,Johnson,TD,0
+2668084,9/3/2016,FBS,Auburn,Clemson,PASSING,Jeremy,Johnson,LONG,18
+2668085,9/3/2016,FBS,Auburn,Clemson,PASSING,,Team,CP-ATT-INT,0-2-0
+2668086,9/3/2016,FBS,Auburn,Clemson,PASSING,,Team,YDS,0
+2668087,9/3/2016,FBS,Auburn,Clemson,PASSING,,Team,TD,0
+2668088,9/3/2016,FBS,Auburn,Clemson,PASSING,,Team,LONG,0
+2668089,9/3/2016,FBS,Auburn,Clemson,PASSING,John,FranklinIII,CP-ATT-INT,1-1-0
+2668090,9/3/2016,FBS,Auburn,Clemson,PASSING,John,FranklinIII,YDS,-3
+2668091,9/3/2016,FBS,Auburn,Clemson,PASSING,John,FranklinIII,TD,0
+2668092,9/3/2016,FBS,Auburn,Clemson,PASSING,John,FranklinIII,LONG,-3
+2668093,9/3/2016,FBS,Auburn,Clemson,RECEIVING,Marcus,Davis,REC,5
+2668094,9/3/2016,FBS,Auburn,Clemson,RECEIVING,Marcus,Davis,YDS,56
+2668095,9/3/2016,FBS,Auburn,Clemson,RECEIVING,Marcus,Davis,TD,0
+2668096,9/3/2016,FBS,Auburn,Clemson,RECEIVING,Marcus,Davis,LONG,21
+2668097,9/3/2016,FBS,Auburn,Clemson,RECEIVING,Kyle,Davis,REC,1
+2668098,9/3/2016,FBS,Auburn,Clemson,RECEIVING,Kyle,Davis,YDS,43
+2668099,9/3/2016,FBS,Auburn,Clemson,RECEIVING,Kyle,Davis,TD,0
+2668100,9/3/2016,FBS,Auburn,Clemson,RECEIVING,Kyle,Davis,LONG,43
+2668101,9/3/2016,FBS,Auburn,Clemson,RECEIVING,Will,Hastings,REC,3
+2668102,9/3/2016,FBS,Auburn,Clemson,RECEIVING,Will,Hastings,YDS,29
+2668103,9/3/2016,FBS,Auburn,Clemson,RECEIVING,Will,Hastings,TD,0
+2668104,9/3/2016,FBS,Auburn,Clemson,RECEIVING,Will,Hastings,LONG,11
+2668105,9/3/2016,FBS,Auburn,Clemson,RECEIVING,Ryan,Davis,REC,2
+2668106,9/3/2016,FBS,Auburn,Clemson,RECEIVING,Ryan,Davis,YDS,17
+2668107,9/3/2016,FBS,Auburn,Clemson,RECEIVING,Ryan,Davis,TD,0
+2668108,9/3/2016,FBS,Auburn,Clemson,RECEIVING,Ryan,Davis,LONG,15
+2668109,9/3/2016,FBS,Auburn,Clemson,RECEIVING,Stanton,Truitt,REC,2
+2668110,9/3/2016,FBS,Auburn,Clemson,RECEIVING,Stanton,Truitt,YDS,17
+2668111,9/3/2016,FBS,Auburn,Clemson,RECEIVING,Stanton,Truitt,TD,0
+2668112,9/3/2016,FBS,Auburn,Clemson,RECEIVING,Stanton,Truitt,LONG,9
+2668113,9/3/2016,FBS,Auburn,Clemson,RECEIVING,Tony,Stevens,REC,1
+2668114,9/3/2016,FBS,Auburn,Clemson,RECEIVING,Tony,Stevens,YDS,16
+2668115,9/3/2016,FBS,Auburn,Clemson,RECEIVING,Tony,Stevens,TD,0
+2668116,9/3/2016,FBS,Auburn,Clemson,RECEIVING,Tony,Stevens,LONG,16
+2668117,9/3/2016,FBS,Auburn,Clemson,RECEIVING,Kerryon,Johnson,REC,1
+2668118,9/3/2016,FBS,Auburn,Clemson,RECEIVING,Kerryon,Johnson,YDS,-3
+2668119,9/3/2016,FBS,Auburn,Clemson,RECEIVING,Kerryon,Johnson,TD,0
+2668120,9/3/2016,FBS,Auburn,Clemson,RECEIVING,Kerryon,Johnson,LONG,0
+2668121,9/3/2016,FBS,Auburn,Clemson,KICKING,Daniel,Carlson,FG-FGA,2/2
+2668122,9/3/2016,FBS,Auburn,Clemson,KICKING,Daniel,Carlson,LONG,53
+2668123,9/3/2016,FBS,Auburn,Clemson,KICKING,Daniel,Carlson,XP,1
+2668124,9/3/2016,FBS,Auburn,Clemson,KICKING,Daniel,Carlson,PTS,7
+2668125,9/3/2016,FBS,Auburn,Clemson,PUNTING,Kevin,Phillips,NO,5
+2668126,9/3/2016,FBS,Auburn,Clemson,PUNTING,Kevin,Phillips,YDS,222
+2668127,9/3/2016,FBS,Auburn,Clemson,PUNTING,Kevin,Phillips,AVG,44.4
+2668128,9/3/2016,FBS,Auburn,Clemson,PUNTING,Kevin,Phillips,LONG,68
+2668129,9/3/2016,FBS,Auburn,Clemson,PUNT RETURNS,Marcus,Davis,NO,0
+2668130,9/3/2016,FBS,Auburn,Clemson,PUNT RETURNS,Marcus,Davis,YDS,0
+2668131,9/3/2016,FBS,Auburn,Clemson,PUNT RETURNS,Marcus,Davis,AVG,-
+2668132,9/3/2016,FBS,Auburn,Clemson,PUNT RETURNS,Marcus,Davis,LONG,0
+2668133,9/3/2016,FBS,Auburn,Clemson,KICK RETURNS,Johnathan,Ford,NO,3
+2668134,9/3/2016,FBS,Auburn,Clemson,KICK RETURNS,Johnathan,Ford,YDS,42
+2668135,9/3/2016,FBS,Auburn,Clemson,KICK RETURNS,Johnathan,Ford,AVG,14.0
+2668136,9/3/2016,FBS,Auburn,Clemson,KICK RETURNS,Johnathan,Ford,LONG,21

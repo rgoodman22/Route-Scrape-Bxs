@@ -1,0 +1,183 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+5781001,10/26/2019,FBS,Illinois,Purdue,RUSHING,Dre,Brown,ATT,18
+5781002,10/26/2019,FBS,Illinois,Purdue,RUSHING,Dre,Brown,YDS,131
+5781003,10/26/2019,FBS,Illinois,Purdue,RUSHING,Dre,Brown,TD,0
+5781004,10/26/2019,FBS,Illinois,Purdue,RUSHING,Dre,Brown,LONG,44
+5781005,10/26/2019,FBS,Illinois,Purdue,RUSHING,Ra'Von,Bonner,ATT,10
+5781006,10/26/2019,FBS,Illinois,Purdue,RUSHING,Ra'Von,Bonner,YDS,48
+5781007,10/26/2019,FBS,Illinois,Purdue,RUSHING,Ra'Von,Bonner,TD,0
+5781008,10/26/2019,FBS,Illinois,Purdue,RUSHING,Ra'Von,Bonner,LONG,10
+5781009,10/26/2019,FBS,Illinois,Purdue,RUSHING,Reggie,Corbin,ATT,12
+5781010,10/26/2019,FBS,Illinois,Purdue,RUSHING,Reggie,Corbin,YDS,47
+5781011,10/26/2019,FBS,Illinois,Purdue,RUSHING,Reggie,Corbin,TD,1
+5781012,10/26/2019,FBS,Illinois,Purdue,RUSHING,Reggie,Corbin,LONG,20
+5781013,10/26/2019,FBS,Illinois,Purdue,RUSHING,Brandon,Peters,ATT,12
+5781014,10/26/2019,FBS,Illinois,Purdue,RUSHING,Brandon,Peters,YDS,17
+5781015,10/26/2019,FBS,Illinois,Purdue,RUSHING,Brandon,Peters,TD,1
+5781016,10/26/2019,FBS,Illinois,Purdue,RUSHING,Brandon,Peters,LONG,10
+5781017,10/26/2019,FBS,Illinois,Purdue,RUSHING,,Team,ATT,1
+5781018,10/26/2019,FBS,Illinois,Purdue,RUSHING,,Team,YDS,-1
+5781019,10/26/2019,FBS,Illinois,Purdue,RUSHING,,Team,TD,0
+5781020,10/26/2019,FBS,Illinois,Purdue,RUSHING,,Team,LONG,-1
+5781021,10/26/2019,FBS,Illinois,Purdue,PASSING,Brandon,Peters,CP-ATT-INT,3-6-0
+5781022,10/26/2019,FBS,Illinois,Purdue,PASSING,Brandon,Peters,YDS,26
+5781023,10/26/2019,FBS,Illinois,Purdue,PASSING,Brandon,Peters,TD,0
+5781024,10/26/2019,FBS,Illinois,Purdue,PASSING,Brandon,Peters,LONG,17
+5781025,10/26/2019,FBS,Illinois,Purdue,PASSING,Casey,Washington,CP-ATT-INT,0-1-0
+5781026,10/26/2019,FBS,Illinois,Purdue,PASSING,Casey,Washington,YDS,0
+5781027,10/26/2019,FBS,Illinois,Purdue,PASSING,Casey,Washington,TD,0
+5781028,10/26/2019,FBS,Illinois,Purdue,PASSING,Casey,Washington,LONG,0
+5781029,10/26/2019,FBS,Illinois,Purdue,RECEIVING,Donny,Navarro,REC,1
+5781030,10/26/2019,FBS,Illinois,Purdue,RECEIVING,Donny,Navarro,YDS,17
+5781031,10/26/2019,FBS,Illinois,Purdue,RECEIVING,Donny,Navarro,TD,0
+5781032,10/26/2019,FBS,Illinois,Purdue,RECEIVING,Donny,Navarro,LONG,17
+5781033,10/26/2019,FBS,Illinois,Purdue,RECEIVING,Justice,Williams,REC,1
+5781034,10/26/2019,FBS,Illinois,Purdue,RECEIVING,Justice,Williams,YDS,8
+5781035,10/26/2019,FBS,Illinois,Purdue,RECEIVING,Justice,Williams,TD,0
+5781036,10/26/2019,FBS,Illinois,Purdue,RECEIVING,Justice,Williams,LONG,8
+5781037,10/26/2019,FBS,Illinois,Purdue,RECEIVING,Caleb,Reams,REC,1
+5781038,10/26/2019,FBS,Illinois,Purdue,RECEIVING,Caleb,Reams,YDS,1
+5781039,10/26/2019,FBS,Illinois,Purdue,RECEIVING,Caleb,Reams,TD,0
+5781040,10/26/2019,FBS,Illinois,Purdue,RECEIVING,Caleb,Reams,LONG,1
+5781041,10/26/2019,FBS,Illinois,Purdue,KICKING,James,McCourt,FG-FGA,1/2
+5781042,10/26/2019,FBS,Illinois,Purdue,KICKING,James,McCourt,LONG,38
+5781043,10/26/2019,FBS,Illinois,Purdue,KICKING,James,McCourt,XP,3
+5781044,10/26/2019,FBS,Illinois,Purdue,KICKING,James,McCourt,PTS,6
+5781045,10/26/2019,FBS,Illinois,Purdue,PUNTING,Blake,Hayes,NO,8
+5781046,10/26/2019,FBS,Illinois,Purdue,PUNTING,Blake,Hayes,YDS,342
+5781047,10/26/2019,FBS,Illinois,Purdue,PUNTING,Blake,Hayes,AVG,42.8
+5781048,10/26/2019,FBS,Illinois,Purdue,PUNTING,Blake,Hayes,LONG,64
+5781049,10/26/2019,FBS,Illinois,Purdue,PUNT RETURNS,Jordan,Holmes,NO,1
+5781050,10/26/2019,FBS,Illinois,Purdue,PUNT RETURNS,Jordan,Holmes,YDS,3
+5781051,10/26/2019,FBS,Illinois,Purdue,PUNT RETURNS,Jordan,Holmes,AVG,3.0
+5781052,10/26/2019,FBS,Illinois,Purdue,PUNT RETURNS,Jordan,Holmes,LONG,3
+5781053,10/26/2019,FBS,Illinois,Purdue,KICK RETURNS,Daniel,Barker,NO,1
+5781054,10/26/2019,FBS,Illinois,Purdue,KICK RETURNS,Daniel,Barker,YDS,0
+5781055,10/26/2019,FBS,Illinois,Purdue,KICK RETURNS,Daniel,Barker,AVG,-
+5781056,10/26/2019,FBS,Illinois,Purdue,KICK RETURNS,Daniel,Barker,LONG,0
+5781057,10/26/2019,FBS,Illinois,Purdue,DEFENSE,Owen,CarneyJr.,TOT,1
+5781058,10/26/2019,FBS,Illinois,Purdue,DEFENSE,Owen,CarneyJr.,SOLO,1
+5781059,10/26/2019,FBS,Illinois,Purdue,DEFENSE,Owen,CarneyJr.,SACKS,1.0
+5781060,10/26/2019,FBS,Illinois,Purdue,DEFENSE,Owen,CarneyJr.,TFL,1
+5781061,10/26/2019,FBS,Illinois,Purdue,DEFENSE,Owen,CarneyJr.,INT,0
+5781062,10/26/2019,FBS,Illinois,Purdue,DEFENSE,Owen,CarneyJr.,FF,0
+5781063,10/26/2019,FBS,Illinois,Purdue,DEFENSE,Owen,CarneyJr.,FR,0
+5781064,10/26/2019,FBS,Illinois,Purdue,DEFENSE,Jamal,Milan,TOT,1
+5781065,10/26/2019,FBS,Illinois,Purdue,DEFENSE,Jamal,Milan,SOLO,1
+5781066,10/26/2019,FBS,Illinois,Purdue,DEFENSE,Jamal,Milan,SACKS,1.0
+5781067,10/26/2019,FBS,Illinois,Purdue,DEFENSE,Jamal,Milan,TFL,1
+5781068,10/26/2019,FBS,Illinois,Purdue,DEFENSE,Jamal,Milan,INT,0
+5781069,10/26/2019,FBS,Illinois,Purdue,DEFENSE,Jamal,Milan,FF,0
+5781070,10/26/2019,FBS,Illinois,Purdue,DEFENSE,Jamal,Milan,FR,0
+5781071,10/26/2019,FBS,Illinois,Purdue,DEFENSE,Dele,Harding,TOT,0
+5781072,10/26/2019,FBS,Illinois,Purdue,DEFENSE,Dele,Harding,SOLO,0
+5781073,10/26/2019,FBS,Illinois,Purdue,DEFENSE,Dele,Harding,SACKS,0.0
+5781074,10/26/2019,FBS,Illinois,Purdue,DEFENSE,Dele,Harding,TFL,0
+5781075,10/26/2019,FBS,Illinois,Purdue,DEFENSE,Dele,Harding,INT,0
+5781076,10/26/2019,FBS,Illinois,Purdue,DEFENSE,Dele,Harding,FF,0
+5781077,10/26/2019,FBS,Illinois,Purdue,DEFENSE,Dele,Harding,FR,1
+5781078,10/26/2019,FBS,Illinois,Purdue,DEFENSE,Nate,Hobbs,TOT,1
+5781079,10/26/2019,FBS,Illinois,Purdue,DEFENSE,Nate,Hobbs,SOLO,1
+5781080,10/26/2019,FBS,Illinois,Purdue,DEFENSE,Nate,Hobbs,SACKS,0.0
+5781081,10/26/2019,FBS,Illinois,Purdue,DEFENSE,Nate,Hobbs,TFL,0
+5781082,10/26/2019,FBS,Illinois,Purdue,DEFENSE,Nate,Hobbs,INT,0
+5781083,10/26/2019,FBS,Illinois,Purdue,DEFENSE,Nate,Hobbs,FF,1
+5781084,10/26/2019,FBS,Illinois,Purdue,DEFENSE,Nate,Hobbs,FR,0
+5781085,10/26/2019,FBS,Illinois,Purdue,DEFENSE,Tony,Adams,TOT,0
+5781086,10/26/2019,FBS,Illinois,Purdue,DEFENSE,Tony,Adams,SOLO,0
+5781087,10/26/2019,FBS,Illinois,Purdue,DEFENSE,Tony,Adams,SACKS,0.0
+5781088,10/26/2019,FBS,Illinois,Purdue,DEFENSE,Tony,Adams,TFL,0
+5781089,10/26/2019,FBS,Illinois,Purdue,DEFENSE,Tony,Adams,INT,1
+5781090,10/26/2019,FBS,Illinois,Purdue,DEFENSE,Tony,Adams,FF,0
+5781091,10/26/2019,FBS,Illinois,Purdue,DEFENSE,Tony,Adams,FR,0
+5781092,10/26/2019,FBS,Purdue,Illinois,RUSHING,Zander,Horvath,ATT,9
+5781093,10/26/2019,FBS,Purdue,Illinois,RUSHING,Zander,Horvath,YDS,54
+5781094,10/26/2019,FBS,Purdue,Illinois,RUSHING,Zander,Horvath,TD,0
+5781095,10/26/2019,FBS,Purdue,Illinois,RUSHING,Zander,Horvath,LONG,19
+5781096,10/26/2019,FBS,Purdue,Illinois,RUSHING,King,Doerue,ATT,15
+5781097,10/26/2019,FBS,Purdue,Illinois,RUSHING,King,Doerue,YDS,37
+5781098,10/26/2019,FBS,Purdue,Illinois,RUSHING,King,Doerue,TD,0
+5781099,10/26/2019,FBS,Purdue,Illinois,RUSHING,King,Doerue,LONG,11
+5781100,10/26/2019,FBS,Purdue,Illinois,RUSHING,Tario,Fuller,ATT,5
+5781101,10/26/2019,FBS,Purdue,Illinois,RUSHING,Tario,Fuller,YDS,19
+5781102,10/26/2019,FBS,Purdue,Illinois,RUSHING,Tario,Fuller,TD,0
+5781103,10/26/2019,FBS,Purdue,Illinois,RUSHING,Tario,Fuller,LONG,9
+5781104,10/26/2019,FBS,Purdue,Illinois,RUSHING,Jack,Plummer,ATT,9
+5781105,10/26/2019,FBS,Purdue,Illinois,RUSHING,Jack,Plummer,YDS,18
+5781106,10/26/2019,FBS,Purdue,Illinois,RUSHING,Jack,Plummer,TD,0
+5781107,10/26/2019,FBS,Purdue,Illinois,RUSHING,Jack,Plummer,LONG,8
+5781108,10/26/2019,FBS,Purdue,Illinois,RUSHING,Milton,Wright,ATT,1
+5781109,10/26/2019,FBS,Purdue,Illinois,RUSHING,Milton,Wright,YDS,2
+5781110,10/26/2019,FBS,Purdue,Illinois,RUSHING,Milton,Wright,TD,0
+5781111,10/26/2019,FBS,Purdue,Illinois,RUSHING,Milton,Wright,LONG,2
+5781112,10/26/2019,FBS,Purdue,Illinois,RUSHING,Jackson,Anthrop,ATT,3
+5781113,10/26/2019,FBS,Purdue,Illinois,RUSHING,Jackson,Anthrop,YDS,2
+5781114,10/26/2019,FBS,Purdue,Illinois,RUSHING,Jackson,Anthrop,TD,0
+5781115,10/26/2019,FBS,Purdue,Illinois,RUSHING,Jackson,Anthrop,LONG,5
+5781116,10/26/2019,FBS,Purdue,Illinois,RUSHING,Aidan,O'Connell,ATT,1
+5781117,10/26/2019,FBS,Purdue,Illinois,RUSHING,Aidan,O'Connell,YDS,2
+5781118,10/26/2019,FBS,Purdue,Illinois,RUSHING,Aidan,O'Connell,TD,0
+5781119,10/26/2019,FBS,Purdue,Illinois,RUSHING,Aidan,O'Connell,LONG,2
+5781120,10/26/2019,FBS,Purdue,Illinois,RUSHING,David,Bell,ATT,1
+5781121,10/26/2019,FBS,Purdue,Illinois,RUSHING,David,Bell,YDS,1
+5781122,10/26/2019,FBS,Purdue,Illinois,RUSHING,David,Bell,TD,0
+5781123,10/26/2019,FBS,Purdue,Illinois,RUSHING,David,Bell,LONG,1
+5781124,10/26/2019,FBS,Purdue,Illinois,PASSING,Jack,Plummer,CP-ATT-INT,8-20-1
+5781125,10/26/2019,FBS,Purdue,Illinois,PASSING,Jack,Plummer,YDS,71
+5781126,10/26/2019,FBS,Purdue,Illinois,PASSING,Jack,Plummer,TD,0
+5781127,10/26/2019,FBS,Purdue,Illinois,PASSING,Jack,Plummer,LONG,22
+5781128,10/26/2019,FBS,Purdue,Illinois,PASSING,Aidan,O'Connell,CP-ATT-INT,7-13-0
+5781129,10/26/2019,FBS,Purdue,Illinois,PASSING,Aidan,O'Connell,YDS,65
+5781130,10/26/2019,FBS,Purdue,Illinois,PASSING,Aidan,O'Connell,TD,1
+5781131,10/26/2019,FBS,Purdue,Illinois,PASSING,Aidan,O'Connell,LONG,20
+5781132,10/26/2019,FBS,Purdue,Illinois,RECEIVING,Jackson,Anthrop,REC,3
+5781133,10/26/2019,FBS,Purdue,Illinois,RECEIVING,Jackson,Anthrop,YDS,51
+5781134,10/26/2019,FBS,Purdue,Illinois,RECEIVING,Jackson,Anthrop,TD,0
+5781135,10/26/2019,FBS,Purdue,Illinois,RECEIVING,Jackson,Anthrop,LONG,22
+5781136,10/26/2019,FBS,Purdue,Illinois,RECEIVING,Brycen,Hopkins,REC,5
+5781137,10/26/2019,FBS,Purdue,Illinois,RECEIVING,Brycen,Hopkins,YDS,45
+5781138,10/26/2019,FBS,Purdue,Illinois,RECEIVING,Brycen,Hopkins,TD,0
+5781139,10/26/2019,FBS,Purdue,Illinois,RECEIVING,Brycen,Hopkins,LONG,20
+5781140,10/26/2019,FBS,Purdue,Illinois,RECEIVING,David,Bell,REC,5
+5781141,10/26/2019,FBS,Purdue,Illinois,RECEIVING,David,Bell,YDS,18
+5781142,10/26/2019,FBS,Purdue,Illinois,RECEIVING,David,Bell,TD,0
+5781143,10/26/2019,FBS,Purdue,Illinois,RECEIVING,David,Bell,LONG,7
+5781144,10/26/2019,FBS,Purdue,Illinois,RECEIVING,Milton,Wright,REC,1
+5781145,10/26/2019,FBS,Purdue,Illinois,RECEIVING,Milton,Wright,YDS,11
+5781146,10/26/2019,FBS,Purdue,Illinois,RECEIVING,Milton,Wright,TD,0
+5781147,10/26/2019,FBS,Purdue,Illinois,RECEIVING,Milton,Wright,LONG,11
+5781148,10/26/2019,FBS,Purdue,Illinois,RECEIVING,Payne,Durham,REC,1
+5781149,10/26/2019,FBS,Purdue,Illinois,RECEIVING,Payne,Durham,YDS,11
+5781150,10/26/2019,FBS,Purdue,Illinois,RECEIVING,Payne,Durham,TD,1
+5781151,10/26/2019,FBS,Purdue,Illinois,RECEIVING,Payne,Durham,LONG,11
+5781152,10/26/2019,FBS,Purdue,Illinois,PUNTING,Zac,Collins,NO,8
+5781153,10/26/2019,FBS,Purdue,Illinois,PUNTING,Zac,Collins,YDS,310
+5781154,10/26/2019,FBS,Purdue,Illinois,PUNTING,Zac,Collins,AVG,38.8
+5781155,10/26/2019,FBS,Purdue,Illinois,PUNTING,Zac,Collins,LONG,46
+5781156,10/26/2019,FBS,Purdue,Illinois,PUNTING,Danny,Carollo,NO,1
+5781157,10/26/2019,FBS,Purdue,Illinois,PUNTING,Danny,Carollo,YDS,15
+5781158,10/26/2019,FBS,Purdue,Illinois,PUNTING,Danny,Carollo,AVG,15.0
+5781159,10/26/2019,FBS,Purdue,Illinois,PUNTING,Danny,Carollo,LONG,15
+5781160,10/26/2019,FBS,Purdue,Illinois,PUNT RETURNS,Jackson,Anthrop,NO,2
+5781161,10/26/2019,FBS,Purdue,Illinois,PUNT RETURNS,Jackson,Anthrop,YDS,31
+5781162,10/26/2019,FBS,Purdue,Illinois,PUNT RETURNS,Jackson,Anthrop,AVG,15.5
+5781163,10/26/2019,FBS,Purdue,Illinois,PUNT RETURNS,Jackson,Anthrop,LONG,17
+5781164,10/26/2019,FBS,Purdue,Illinois,PUNT RETURNS,Amad,AndersonJr.,NO,1
+5781165,10/26/2019,FBS,Purdue,Illinois,PUNT RETURNS,Amad,AndersonJr.,YDS,7
+5781166,10/26/2019,FBS,Purdue,Illinois,PUNT RETURNS,Amad,AndersonJr.,AVG,7.0
+5781167,10/26/2019,FBS,Purdue,Illinois,PUNT RETURNS,Amad,AndersonJr.,LONG,7
+5781168,10/26/2019,FBS,Purdue,Illinois,KICK RETURNS,Amad,AndersonJr.,NO,1
+5781169,10/26/2019,FBS,Purdue,Illinois,KICK RETURNS,Amad,AndersonJr.,YDS,21
+5781170,10/26/2019,FBS,Purdue,Illinois,KICK RETURNS,Amad,AndersonJr.,AVG,21.0
+5781171,10/26/2019,FBS,Purdue,Illinois,KICK RETURNS,Amad,AndersonJr.,LONG,21
+5781172,10/26/2019,FBS,Purdue,Illinois,KICK RETURNS,Jackson,Anthrop,NO,1
+5781173,10/26/2019,FBS,Purdue,Illinois,KICK RETURNS,Jackson,Anthrop,YDS,17
+5781174,10/26/2019,FBS,Purdue,Illinois,KICK RETURNS,Jackson,Anthrop,AVG,17.0
+5781175,10/26/2019,FBS,Purdue,Illinois,KICK RETURNS,Jackson,Anthrop,LONG,17
+5781176,10/26/2019,FBS,Purdue,Illinois,DEFENSE,George,Karlaftis,TOT,1
+5781177,10/26/2019,FBS,Purdue,Illinois,DEFENSE,George,Karlaftis,SOLO,1
+5781178,10/26/2019,FBS,Purdue,Illinois,DEFENSE,George,Karlaftis,SACKS,1.0
+5781179,10/26/2019,FBS,Purdue,Illinois,DEFENSE,George,Karlaftis,TFL,1
+5781180,10/26/2019,FBS,Purdue,Illinois,DEFENSE,George,Karlaftis,INT,0
+5781181,10/26/2019,FBS,Purdue,Illinois,DEFENSE,George,Karlaftis,FF,0
+5781182,10/26/2019,FBS,Purdue,Illinois,DEFENSE,George,Karlaftis,FR,0

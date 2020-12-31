@@ -1,0 +1,374 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+6042001,11/23/2019,FBS,Oregon St.,Washington St.,RUSHING,Jermar,Jefferson,ATT,21
+6042002,11/23/2019,FBS,Oregon St.,Washington St.,RUSHING,Jermar,Jefferson,YDS,132
+6042003,11/23/2019,FBS,Oregon St.,Washington St.,RUSHING,Jermar,Jefferson,TD,2
+6042004,11/23/2019,FBS,Oregon St.,Washington St.,RUSHING,Jermar,Jefferson,LONG,54
+6042005,11/23/2019,FBS,Oregon St.,Washington St.,RUSHING,Artavis,Pierce,ATT,7
+6042006,11/23/2019,FBS,Oregon St.,Washington St.,RUSHING,Artavis,Pierce,YDS,58
+6042007,11/23/2019,FBS,Oregon St.,Washington St.,RUSHING,Artavis,Pierce,TD,0
+6042008,11/23/2019,FBS,Oregon St.,Washington St.,RUSHING,Artavis,Pierce,LONG,33
+6042009,11/23/2019,FBS,Oregon St.,Washington St.,RUSHING,Jake,Luton,ATT,4
+6042010,11/23/2019,FBS,Oregon St.,Washington St.,RUSHING,Jake,Luton,YDS,2
+6042011,11/23/2019,FBS,Oregon St.,Washington St.,RUSHING,Jake,Luton,TD,0
+6042012,11/23/2019,FBS,Oregon St.,Washington St.,RUSHING,Jake,Luton,LONG,3
+6042013,11/23/2019,FBS,Oregon St.,Washington St.,RUSHING,Tyjon,Lindsey,ATT,1
+6042014,11/23/2019,FBS,Oregon St.,Washington St.,RUSHING,Tyjon,Lindsey,YDS,1
+6042015,11/23/2019,FBS,Oregon St.,Washington St.,RUSHING,Tyjon,Lindsey,TD,0
+6042016,11/23/2019,FBS,Oregon St.,Washington St.,RUSHING,Tyjon,Lindsey,LONG,1
+6042017,11/23/2019,FBS,Oregon St.,Washington St.,PASSING,Jake,Luton,CP-ATT-INT,22-40-1
+6042018,11/23/2019,FBS,Oregon St.,Washington St.,PASSING,Jake,Luton,YDS,408
+6042019,11/23/2019,FBS,Oregon St.,Washington St.,PASSING,Jake,Luton,TD,5
+6042020,11/23/2019,FBS,Oregon St.,Washington St.,PASSING,Jake,Luton,LONG,46
+6042021,11/23/2019,FBS,Oregon St.,Washington St.,RECEIVING,Champ,Flemings,REC,4
+6042022,11/23/2019,FBS,Oregon St.,Washington St.,RECEIVING,Champ,Flemings,YDS,110
+6042023,11/23/2019,FBS,Oregon St.,Washington St.,RECEIVING,Champ,Flemings,TD,1
+6042024,11/23/2019,FBS,Oregon St.,Washington St.,RECEIVING,Champ,Flemings,LONG,46
+6042025,11/23/2019,FBS,Oregon St.,Washington St.,RECEIVING,Noah,Togiai,REC,5
+6042026,11/23/2019,FBS,Oregon St.,Washington St.,RECEIVING,Noah,Togiai,YDS,67
+6042027,11/23/2019,FBS,Oregon St.,Washington St.,RECEIVING,Noah,Togiai,TD,1
+6042028,11/23/2019,FBS,Oregon St.,Washington St.,RECEIVING,Noah,Togiai,LONG,23
+6042029,11/23/2019,FBS,Oregon St.,Washington St.,RECEIVING,Isaiah,Hodgins,REC,5
+6042030,11/23/2019,FBS,Oregon St.,Washington St.,RECEIVING,Isaiah,Hodgins,YDS,65
+6042031,11/23/2019,FBS,Oregon St.,Washington St.,RECEIVING,Isaiah,Hodgins,TD,0
+6042032,11/23/2019,FBS,Oregon St.,Washington St.,RECEIVING,Isaiah,Hodgins,LONG,34
+6042033,11/23/2019,FBS,Oregon St.,Washington St.,RECEIVING,Tyjon,Lindsey,REC,2
+6042034,11/23/2019,FBS,Oregon St.,Washington St.,RECEIVING,Tyjon,Lindsey,YDS,58
+6042035,11/23/2019,FBS,Oregon St.,Washington St.,RECEIVING,Tyjon,Lindsey,TD,0
+6042036,11/23/2019,FBS,Oregon St.,Washington St.,RECEIVING,Tyjon,Lindsey,LONG,34
+6042037,11/23/2019,FBS,Oregon St.,Washington St.,RECEIVING,Jermar,Jefferson,REC,3
+6042038,11/23/2019,FBS,Oregon St.,Washington St.,RECEIVING,Jermar,Jefferson,YDS,52
+6042039,11/23/2019,FBS,Oregon St.,Washington St.,RECEIVING,Jermar,Jefferson,TD,2
+6042040,11/23/2019,FBS,Oregon St.,Washington St.,RECEIVING,Jermar,Jefferson,LONG,39
+6042041,11/23/2019,FBS,Oregon St.,Washington St.,RECEIVING,Teagan,Quitoriano,REC,1
+6042042,11/23/2019,FBS,Oregon St.,Washington St.,RECEIVING,Teagan,Quitoriano,YDS,28
+6042043,11/23/2019,FBS,Oregon St.,Washington St.,RECEIVING,Teagan,Quitoriano,TD,1
+6042044,11/23/2019,FBS,Oregon St.,Washington St.,RECEIVING,Teagan,Quitoriano,LONG,28
+6042045,11/23/2019,FBS,Oregon St.,Washington St.,RECEIVING,Artavis,Pierce,REC,1
+6042046,11/23/2019,FBS,Oregon St.,Washington St.,RECEIVING,Artavis,Pierce,YDS,17
+6042047,11/23/2019,FBS,Oregon St.,Washington St.,RECEIVING,Artavis,Pierce,TD,0
+6042048,11/23/2019,FBS,Oregon St.,Washington St.,RECEIVING,Artavis,Pierce,LONG,17
+6042049,11/23/2019,FBS,Oregon St.,Washington St.,RECEIVING,Kolby,Taylor,REC,1
+6042050,11/23/2019,FBS,Oregon St.,Washington St.,RECEIVING,Kolby,Taylor,YDS,11
+6042051,11/23/2019,FBS,Oregon St.,Washington St.,RECEIVING,Kolby,Taylor,TD,0
+6042052,11/23/2019,FBS,Oregon St.,Washington St.,RECEIVING,Kolby,Taylor,LONG,11
+6042053,11/23/2019,FBS,Oregon St.,Washington St.,KICKING,Everett,Hayes,FG-FGA,1/1
+6042054,11/23/2019,FBS,Oregon St.,Washington St.,KICKING,Everett,Hayes,LONG,47
+6042055,11/23/2019,FBS,Oregon St.,Washington St.,KICKING,Everett,Hayes,XP,6
+6042056,11/23/2019,FBS,Oregon St.,Washington St.,KICKING,Everett,Hayes,PTS,9
+6042057,11/23/2019,FBS,Oregon St.,Washington St.,PUNTING,Daniel,Rodriguez,NO,3
+6042058,11/23/2019,FBS,Oregon St.,Washington St.,PUNTING,Daniel,Rodriguez,YDS,112
+6042059,11/23/2019,FBS,Oregon St.,Washington St.,PUNTING,Daniel,Rodriguez,AVG,37.3
+6042060,11/23/2019,FBS,Oregon St.,Washington St.,PUNTING,Daniel,Rodriguez,LONG,42
+6042061,11/23/2019,FBS,Oregon St.,Washington St.,PUNT RETURNS,Kolby,Taylor,NO,1
+6042062,11/23/2019,FBS,Oregon St.,Washington St.,PUNT RETURNS,Kolby,Taylor,YDS,-1
+6042063,11/23/2019,FBS,Oregon St.,Washington St.,PUNT RETURNS,Kolby,Taylor,AVG,-
+6042064,11/23/2019,FBS,Oregon St.,Washington St.,PUNT RETURNS,Kolby,Taylor,LONG,-1
+6042065,11/23/2019,FBS,Oregon St.,Washington St.,KICK RETURNS,Connor,Morton,NO,1
+6042066,11/23/2019,FBS,Oregon St.,Washington St.,KICK RETURNS,Connor,Morton,YDS,22
+6042067,11/23/2019,FBS,Oregon St.,Washington St.,KICK RETURNS,Connor,Morton,AVG,22.0
+6042068,11/23/2019,FBS,Oregon St.,Washington St.,KICK RETURNS,Connor,Morton,LONG,22
+6042069,11/23/2019,FBS,Oregon St.,Washington St.,KICK RETURNS,John,McCartan,NO,0
+6042070,11/23/2019,FBS,Oregon St.,Washington St.,KICK RETURNS,John,McCartan,YDS,6
+6042071,11/23/2019,FBS,Oregon St.,Washington St.,KICK RETURNS,John,McCartan,AVG,-
+6042072,11/23/2019,FBS,Oregon St.,Washington St.,KICK RETURNS,John,McCartan,LONG,6
+6042073,11/23/2019,FBS,Oregon St.,Washington St.,KICK RETURNS,Luke,Leonnig,NO,0
+6042074,11/23/2019,FBS,Oregon St.,Washington St.,KICK RETURNS,Luke,Leonnig,YDS,3
+6042075,11/23/2019,FBS,Oregon St.,Washington St.,KICK RETURNS,Luke,Leonnig,AVG,-
+6042076,11/23/2019,FBS,Oregon St.,Washington St.,KICK RETURNS,Luke,Leonnig,LONG,4
+6042077,11/23/2019,FBS,Oregon St.,Washington St.,KICK RETURNS,Champ,Flemings,NO,0
+6042078,11/23/2019,FBS,Oregon St.,Washington St.,KICK RETURNS,Champ,Flemings,YDS,-6
+6042079,11/23/2019,FBS,Oregon St.,Washington St.,KICK RETURNS,Champ,Flemings,AVG,-
+6042080,11/23/2019,FBS,Oregon St.,Washington St.,KICK RETURNS,Champ,Flemings,LONG,-2
+6042081,11/23/2019,FBS,Oregon St.,Washington St.,KICK RETURNS,Tyjon,Lindsey,NO,1
+6042082,11/23/2019,FBS,Oregon St.,Washington St.,KICK RETURNS,Tyjon,Lindsey,YDS,-20
+6042083,11/23/2019,FBS,Oregon St.,Washington St.,KICK RETURNS,Tyjon,Lindsey,AVG,-
+6042084,11/23/2019,FBS,Oregon St.,Washington St.,KICK RETURNS,Tyjon,Lindsey,LONG,7
+6042085,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Isaac,Garcia,TOT,0
+6042086,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Isaac,Garcia,SOLO,0
+6042087,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Isaac,Garcia,SACKS,0.0
+6042088,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Isaac,Garcia,TFL,0
+6042089,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Isaac,Garcia,INT,0
+6042090,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Isaac,Garcia,FF,0
+6042091,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Isaac,Garcia,FR,1
+6042092,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Isaac,Hodgins,TOT,1
+6042093,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Isaac,Hodgins,SOLO,1
+6042094,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Isaac,Hodgins,SACKS,1.0
+6042095,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Isaac,Hodgins,TFL,1
+6042096,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Isaac,Hodgins,INT,0
+6042097,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Isaac,Hodgins,FF,0
+6042098,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Isaac,Hodgins,FR,0
+6042099,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Riley,Sharp,TOT,1
+6042100,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Riley,Sharp,SOLO,1
+6042101,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Riley,Sharp,SACKS,0.0
+6042102,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Riley,Sharp,TFL,0
+6042103,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Riley,Sharp,INT,0
+6042104,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Riley,Sharp,FF,0
+6042105,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Riley,Sharp,FR,0
+6042106,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Simon,Sandberg,TOT,1
+6042107,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Simon,Sandberg,SOLO,1
+6042108,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Simon,Sandberg,SACKS,0.0
+6042109,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Simon,Sandberg,TFL,0
+6042110,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Simon,Sandberg,INT,0
+6042111,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Simon,Sandberg,FF,0
+6042112,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Simon,Sandberg,FR,0
+6042113,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Doug,Taumoelau,TOT,4
+6042114,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Doug,Taumoelau,SOLO,4
+6042115,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Doug,Taumoelau,SACKS,0.0
+6042116,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Doug,Taumoelau,TFL,0
+6042117,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Doug,Taumoelau,INT,0
+6042118,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Doug,Taumoelau,FF,1
+6042119,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Doug,Taumoelau,FR,0
+6042120,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Omar,Speights,TOT,6
+6042121,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Omar,Speights,SOLO,4
+6042122,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Omar,Speights,SACKS,0.0
+6042123,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Omar,Speights,TFL,0
+6042124,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Omar,Speights,INT,1
+6042125,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Omar,Speights,FF,0
+6042126,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Omar,Speights,FR,0
+6042127,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Avery,Roberts,TOT,10
+6042128,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Avery,Roberts,SOLO,9
+6042129,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Avery,Roberts,SACKS,0.0
+6042130,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Avery,Roberts,TFL,0
+6042131,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Avery,Roberts,INT,0
+6042132,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Avery,Roberts,FF,0
+6042133,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Avery,Roberts,FR,0
+6042134,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Jalen,Moore,TOT,5
+6042135,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Jalen,Moore,SOLO,5
+6042136,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Jalen,Moore,SACKS,0.0
+6042137,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Jalen,Moore,TFL,0
+6042138,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Jalen,Moore,INT,0
+6042139,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Jalen,Moore,FF,0
+6042140,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Jalen,Moore,FR,0
+6042141,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,David,Morris,TOT,5
+6042142,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,David,Morris,SOLO,3
+6042143,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,David,Morris,SACKS,0.0
+6042144,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,David,Morris,TFL,0
+6042145,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,David,Morris,INT,0
+6042146,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,David,Morris,FF,0
+6042147,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,David,Morris,FR,0
+6042148,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Isaiah,Dunn,TOT,6
+6042149,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Isaiah,Dunn,SOLO,4
+6042150,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Isaiah,Dunn,SACKS,0.0
+6042151,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Isaiah,Dunn,TFL,0
+6042152,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Isaiah,Dunn,INT,0
+6042153,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Isaiah,Dunn,FF,0
+6042154,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Isaiah,Dunn,FR,0
+6042155,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Nahshon,Wright,TOT,5
+6042156,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Nahshon,Wright,SOLO,5
+6042157,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Nahshon,Wright,SACKS,0.0
+6042158,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Nahshon,Wright,TFL,0
+6042159,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Nahshon,Wright,INT,1
+6042160,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Nahshon,Wright,FF,0
+6042161,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Nahshon,Wright,FR,0
+6042162,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Matthew,Tago,TOT,1
+6042163,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Matthew,Tago,SOLO,1
+6042164,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Matthew,Tago,SACKS,0.0
+6042165,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Matthew,Tago,TFL,1
+6042166,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Matthew,Tago,INT,0
+6042167,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Matthew,Tago,FF,0
+6042168,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Matthew,Tago,FR,0
+6042169,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,John,McCartan,TOT,0
+6042170,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,John,McCartan,SOLO,0
+6042171,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,John,McCartan,SACKS,0.0
+6042172,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,John,McCartan,TFL,0
+6042173,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,John,McCartan,INT,1
+6042174,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,John,McCartan,FF,0
+6042175,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,John,McCartan,FR,0
+6042176,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Jaydon,Grant,TOT,5
+6042177,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Jaydon,Grant,SOLO,4
+6042178,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Jaydon,Grant,SACKS,0.0
+6042179,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Jaydon,Grant,TFL,1
+6042180,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Jaydon,Grant,INT,0
+6042181,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Jaydon,Grant,FF,0
+6042182,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Jaydon,Grant,FR,0
+6042183,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Shawn,Wilson,TOT,6
+6042184,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Shawn,Wilson,SOLO,6
+6042185,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Shawn,Wilson,SACKS,0.0
+6042186,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Shawn,Wilson,TFL,0
+6042187,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Shawn,Wilson,INT,0
+6042188,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Shawn,Wilson,FF,0
+6042189,11/23/2019,FBS,Oregon St.,Washington St.,DEFENSE,Shawn,Wilson,FR,0
+6042190,11/23/2019,FBS,Washington St.,Oregon St.,RUSHING,Max,Borghi,ATT,10
+6042191,11/23/2019,FBS,Washington St.,Oregon St.,RUSHING,Max,Borghi,YDS,44
+6042192,11/23/2019,FBS,Washington St.,Oregon St.,RUSHING,Max,Borghi,TD,2
+6042193,11/23/2019,FBS,Washington St.,Oregon St.,RUSHING,Max,Borghi,LONG,18
+6042194,11/23/2019,FBS,Washington St.,Oregon St.,RUSHING,Anthony,Gordon,ATT,3
+6042195,11/23/2019,FBS,Washington St.,Oregon St.,RUSHING,Anthony,Gordon,YDS,-9
+6042196,11/23/2019,FBS,Washington St.,Oregon St.,RUSHING,Anthony,Gordon,TD,0
+6042197,11/23/2019,FBS,Washington St.,Oregon St.,RUSHING,Anthony,Gordon,LONG,2
+6042198,11/23/2019,FBS,Washington St.,Oregon St.,PASSING,Anthony,Gordon,CP-ATT-INT,50-70-3
+6042199,11/23/2019,FBS,Washington St.,Oregon St.,PASSING,Anthony,Gordon,YDS,606
+6042200,11/23/2019,FBS,Washington St.,Oregon St.,PASSING,Anthony,Gordon,TD,6
+6042201,11/23/2019,FBS,Washington St.,Oregon St.,PASSING,Anthony,Gordon,LONG,41
+6042202,11/23/2019,FBS,Washington St.,Oregon St.,RECEIVING,Renard,Bell,REC,8
+6042203,11/23/2019,FBS,Washington St.,Oregon St.,RECEIVING,Renard,Bell,YDS,108
+6042204,11/23/2019,FBS,Washington St.,Oregon St.,RECEIVING,Renard,Bell,TD,2
+6042205,11/23/2019,FBS,Washington St.,Oregon St.,RECEIVING,Renard,Bell,LONG,41
+6042206,11/23/2019,FBS,Washington St.,Oregon St.,RECEIVING,Deon,McIntosh,REC,6
+6042207,11/23/2019,FBS,Washington St.,Oregon St.,RECEIVING,Deon,McIntosh,YDS,93
+6042208,11/23/2019,FBS,Washington St.,Oregon St.,RECEIVING,Deon,McIntosh,TD,1
+6042209,11/23/2019,FBS,Washington St.,Oregon St.,RECEIVING,Deon,McIntosh,LONG,41
+6042210,11/23/2019,FBS,Washington St.,Oregon St.,RECEIVING,Easop,WinstonJr.,REC,7
+6042211,11/23/2019,FBS,Washington St.,Oregon St.,RECEIVING,Easop,WinstonJr.,YDS,88
+6042212,11/23/2019,FBS,Washington St.,Oregon St.,RECEIVING,Easop,WinstonJr.,TD,0
+6042213,11/23/2019,FBS,Washington St.,Oregon St.,RECEIVING,Easop,WinstonJr.,LONG,20
+6042214,11/23/2019,FBS,Washington St.,Oregon St.,RECEIVING,Calvin,JacksonJr.,REC,4
+6042215,11/23/2019,FBS,Washington St.,Oregon St.,RECEIVING,Calvin,JacksonJr.,YDS,76
+6042216,11/23/2019,FBS,Washington St.,Oregon St.,RECEIVING,Calvin,JacksonJr.,TD,1
+6042217,11/23/2019,FBS,Washington St.,Oregon St.,RECEIVING,Calvin,JacksonJr.,LONG,36
+6042218,11/23/2019,FBS,Washington St.,Oregon St.,RECEIVING,Dezmon,Patmon,REC,5
+6042219,11/23/2019,FBS,Washington St.,Oregon St.,RECEIVING,Dezmon,Patmon,YDS,75
+6042220,11/23/2019,FBS,Washington St.,Oregon St.,RECEIVING,Dezmon,Patmon,TD,2
+6042221,11/23/2019,FBS,Washington St.,Oregon St.,RECEIVING,Dezmon,Patmon,LONG,20
+6042222,11/23/2019,FBS,Washington St.,Oregon St.,RECEIVING,Davontavean,Martin,REC,5
+6042223,11/23/2019,FBS,Washington St.,Oregon St.,RECEIVING,Davontavean,Martin,YDS,61
+6042224,11/23/2019,FBS,Washington St.,Oregon St.,RECEIVING,Davontavean,Martin,TD,0
+6042225,11/23/2019,FBS,Washington St.,Oregon St.,RECEIVING,Davontavean,Martin,LONG,24
+6042226,11/23/2019,FBS,Washington St.,Oregon St.,RECEIVING,Max,Borghi,REC,9
+6042227,11/23/2019,FBS,Washington St.,Oregon St.,RECEIVING,Max,Borghi,YDS,40
+6042228,11/23/2019,FBS,Washington St.,Oregon St.,RECEIVING,Max,Borghi,TD,0
+6042229,11/23/2019,FBS,Washington St.,Oregon St.,RECEIVING,Max,Borghi,LONG,12
+6042230,11/23/2019,FBS,Washington St.,Oregon St.,RECEIVING,Brandon,Arconado,REC,3
+6042231,11/23/2019,FBS,Washington St.,Oregon St.,RECEIVING,Brandon,Arconado,YDS,39
+6042232,11/23/2019,FBS,Washington St.,Oregon St.,RECEIVING,Brandon,Arconado,TD,0
+6042233,11/23/2019,FBS,Washington St.,Oregon St.,RECEIVING,Brandon,Arconado,LONG,25
+6042234,11/23/2019,FBS,Washington St.,Oregon St.,RECEIVING,Travell,Harris,REC,3
+6042235,11/23/2019,FBS,Washington St.,Oregon St.,RECEIVING,Travell,Harris,YDS,26
+6042236,11/23/2019,FBS,Washington St.,Oregon St.,RECEIVING,Travell,Harris,TD,0
+6042237,11/23/2019,FBS,Washington St.,Oregon St.,RECEIVING,Travell,Harris,LONG,9
+6042238,11/23/2019,FBS,Washington St.,Oregon St.,KICKING,Blake,Mazza,FG-FGA,0/1
+6042239,11/23/2019,FBS,Washington St.,Oregon St.,KICKING,Blake,Mazza,LONG,0
+6042240,11/23/2019,FBS,Washington St.,Oregon St.,KICKING,Blake,Mazza,XP,6
+6042241,11/23/2019,FBS,Washington St.,Oregon St.,KICKING,Blake,Mazza,PTS,6
+6042242,11/23/2019,FBS,Washington St.,Oregon St.,PUNTING,Oscar,DraguicevichIII,NO,1
+6042243,11/23/2019,FBS,Washington St.,Oregon St.,PUNTING,Oscar,DraguicevichIII,YDS,51
+6042244,11/23/2019,FBS,Washington St.,Oregon St.,PUNTING,Oscar,DraguicevichIII,AVG,51.0
+6042245,11/23/2019,FBS,Washington St.,Oregon St.,PUNTING,Oscar,DraguicevichIII,LONG,51
+6042246,11/23/2019,FBS,Washington St.,Oregon St.,PUNT RETURNS,Travell,Harris,NO,0
+6042247,11/23/2019,FBS,Washington St.,Oregon St.,PUNT RETURNS,Travell,Harris,YDS,0
+6042248,11/23/2019,FBS,Washington St.,Oregon St.,PUNT RETURNS,Travell,Harris,AVG,-
+6042249,11/23/2019,FBS,Washington St.,Oregon St.,PUNT RETURNS,Travell,Harris,LONG,0
+6042250,11/23/2019,FBS,Washington St.,Oregon St.,KICK RETURNS,Max,Borghi,NO,1
+6042251,11/23/2019,FBS,Washington St.,Oregon St.,KICK RETURNS,Max,Borghi,YDS,25
+6042252,11/23/2019,FBS,Washington St.,Oregon St.,KICK RETURNS,Max,Borghi,AVG,25.0
+6042253,11/23/2019,FBS,Washington St.,Oregon St.,KICK RETURNS,Max,Borghi,LONG,25
+6042254,11/23/2019,FBS,Washington St.,Oregon St.,KICK RETURNS,Rodrick,Fisher,NO,1
+6042255,11/23/2019,FBS,Washington St.,Oregon St.,KICK RETURNS,Rodrick,Fisher,YDS,14
+6042256,11/23/2019,FBS,Washington St.,Oregon St.,KICK RETURNS,Rodrick,Fisher,AVG,14.0
+6042257,11/23/2019,FBS,Washington St.,Oregon St.,KICK RETURNS,Rodrick,Fisher,LONG,14
+6042258,11/23/2019,FBS,Washington St.,Oregon St.,KICK RETURNS,Justus,Rogers,NO,1
+6042259,11/23/2019,FBS,Washington St.,Oregon St.,KICK RETURNS,Justus,Rogers,YDS,0
+6042260,11/23/2019,FBS,Washington St.,Oregon St.,KICK RETURNS,Justus,Rogers,AVG,-
+6042261,11/23/2019,FBS,Washington St.,Oregon St.,KICK RETURNS,Justus,Rogers,LONG,0
+6042262,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Dallas,Hobbs,TOT,2
+6042263,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Dallas,Hobbs,SOLO,2
+6042264,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Dallas,Hobbs,SACKS,0.0
+6042265,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Dallas,Hobbs,TFL,0
+6042266,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Dallas,Hobbs,INT,0
+6042267,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Dallas,Hobbs,FF,0
+6042268,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Dallas,Hobbs,FR,0
+6042269,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Will,RodgersIII,TOT,3
+6042270,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Will,RodgersIII,SOLO,2
+6042271,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Will,RodgersIII,SACKS,0.0
+6042272,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Will,RodgersIII,TFL,1
+6042273,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Will,RodgersIII,INT,0
+6042274,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Will,RodgersIII,FF,0
+6042275,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Will,RodgersIII,FR,0
+6042276,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Misiona,Aiolupotea-Pei,TOT,3
+6042277,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Misiona,Aiolupotea-Pei,SOLO,3
+6042278,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Misiona,Aiolupotea-Pei,SACKS,0.0
+6042279,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Misiona,Aiolupotea-Pei,TFL,1
+6042280,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Misiona,Aiolupotea-Pei,INT,0
+6042281,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Misiona,Aiolupotea-Pei,FF,0
+6042282,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Misiona,Aiolupotea-Pei,FR,0
+6042283,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Travion,Brown,TOT,1
+6042284,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Travion,Brown,SOLO,1
+6042285,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Travion,Brown,SACKS,0.0
+6042286,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Travion,Brown,TFL,0
+6042287,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Travion,Brown,INT,0
+6042288,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Travion,Brown,FF,0
+6042289,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Travion,Brown,FR,0
+6042290,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Karson,Block,TOT,3
+6042291,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Karson,Block,SOLO,3
+6042292,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Karson,Block,SACKS,1.0
+6042293,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Karson,Block,TFL,1
+6042294,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Karson,Block,INT,0
+6042295,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Karson,Block,FF,0
+6042296,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Karson,Block,FR,0
+6042297,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Tristan,Brock,TOT,2
+6042298,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Tristan,Brock,SOLO,2
+6042299,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Tristan,Brock,SACKS,0.0
+6042300,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Tristan,Brock,TFL,0
+6042301,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Tristan,Brock,INT,0
+6042302,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Tristan,Brock,FF,0
+6042303,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Tristan,Brock,FR,0
+6042304,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Justus,Rogers,TOT,2
+6042305,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Justus,Rogers,SOLO,1
+6042306,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Justus,Rogers,SACKS,0.0
+6042307,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Justus,Rogers,TFL,0
+6042308,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Justus,Rogers,INT,0
+6042309,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Justus,Rogers,FF,0
+6042310,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Justus,Rogers,FR,0
+6042311,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Armani,Marsh,TOT,2
+6042312,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Armani,Marsh,SOLO,1
+6042313,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Armani,Marsh,SACKS,0.0
+6042314,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Armani,Marsh,TFL,0
+6042315,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Armani,Marsh,INT,0
+6042316,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Armani,Marsh,FF,0
+6042317,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Armani,Marsh,FR,0
+6042318,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Nnamdi,Oguayo,TOT,1
+6042319,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Nnamdi,Oguayo,SOLO,1
+6042320,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Nnamdi,Oguayo,SACKS,0.0
+6042321,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Nnamdi,Oguayo,TFL,0
+6042322,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Nnamdi,Oguayo,INT,0
+6042323,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Nnamdi,Oguayo,FF,0
+6042324,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Nnamdi,Oguayo,FR,0
+6042325,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Willie,TaylorIII,TOT,1
+6042326,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Willie,TaylorIII,SOLO,1
+6042327,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Willie,TaylorIII,SACKS,0.0
+6042328,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Willie,TaylorIII,TFL,0
+6042329,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Willie,TaylorIII,INT,0
+6042330,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Willie,TaylorIII,FF,0
+6042331,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Willie,TaylorIII,FR,0
+6042332,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Bryce,Beekman,TOT,5
+6042333,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Bryce,Beekman,SOLO,5
+6042334,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Bryce,Beekman,SACKS,0.0
+6042335,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Bryce,Beekman,TFL,0
+6042336,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Bryce,Beekman,INT,1
+6042337,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Bryce,Beekman,FF,0
+6042338,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Bryce,Beekman,FR,0
+6042339,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Skyler,Thomas,TOT,5
+6042340,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Skyler,Thomas,SOLO,4
+6042341,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Skyler,Thomas,SACKS,0.0
+6042342,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Skyler,Thomas,TFL,0
+6042343,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Skyler,Thomas,INT,0
+6042344,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Skyler,Thomas,FF,0
+6042345,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Skyler,Thomas,FR,0
+6042346,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,George,HicksIII,TOT,2
+6042347,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,George,HicksIII,SOLO,2
+6042348,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,George,HicksIII,SACKS,0.0
+6042349,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,George,HicksIII,TFL,0
+6042350,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,George,HicksIII,INT,0
+6042351,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,George,HicksIII,FF,0
+6042352,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,George,HicksIII,FR,0
+6042353,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Jahad,Woods,TOT,10
+6042354,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Jahad,Woods,SOLO,6
+6042355,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Jahad,Woods,SACKS,0.0
+6042356,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Jahad,Woods,TFL,1
+6042357,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Jahad,Woods,INT,0
+6042358,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Jahad,Woods,FF,0
+6042359,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Jahad,Woods,FR,0
+6042360,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Ron,StoneJr.,TOT,1
+6042361,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Ron,StoneJr.,SOLO,1
+6042362,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Ron,StoneJr.,SACKS,0.0
+6042363,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Ron,StoneJr.,TFL,0
+6042364,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Ron,StoneJr.,INT,0
+6042365,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Ron,StoneJr.,FF,0
+6042366,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Ron,StoneJr.,FR,0
+6042367,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Marcus,Strong,TOT,5
+6042368,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Marcus,Strong,SOLO,5
+6042369,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Marcus,Strong,SACKS,0.0
+6042370,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Marcus,Strong,TFL,0
+6042371,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Marcus,Strong,INT,0
+6042372,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Marcus,Strong,FF,0
+6042373,11/23/2019,FBS,Washington St.,Oregon St.,DEFENSE,Marcus,Strong,FR,0

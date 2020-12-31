@@ -1,0 +1,186 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+5052001,11/10/2018,FBS,Rice,Louisiana Tech,RUSHING,Aston,Walter,ATT,17
+5052002,11/10/2018,FBS,Rice,Louisiana Tech,RUSHING,Aston,Walter,YDS,72
+5052003,11/10/2018,FBS,Rice,Louisiana Tech,RUSHING,Aston,Walter,TD,0
+5052004,11/10/2018,FBS,Rice,Louisiana Tech,RUSHING,Aston,Walter,LONG,13
+5052005,11/10/2018,FBS,Rice,Louisiana Tech,RUSHING,Juma,Otoviano,ATT,4
+5052006,11/10/2018,FBS,Rice,Louisiana Tech,RUSHING,Juma,Otoviano,YDS,14
+5052007,11/10/2018,FBS,Rice,Louisiana Tech,RUSHING,Juma,Otoviano,TD,0
+5052008,11/10/2018,FBS,Rice,Louisiana Tech,RUSHING,Juma,Otoviano,LONG,16
+5052009,11/10/2018,FBS,Rice,Louisiana Tech,RUSHING,Parker,Towns,ATT,2
+5052010,11/10/2018,FBS,Rice,Louisiana Tech,RUSHING,Parker,Towns,YDS,10
+5052011,11/10/2018,FBS,Rice,Louisiana Tech,RUSHING,Parker,Towns,TD,0
+5052012,11/10/2018,FBS,Rice,Louisiana Tech,RUSHING,Parker,Towns,LONG,8
+5052013,11/10/2018,FBS,Rice,Louisiana Tech,RUSHING,Shawn,Stankavage,ATT,6
+5052014,11/10/2018,FBS,Rice,Louisiana Tech,RUSHING,Shawn,Stankavage,YDS,4
+5052015,11/10/2018,FBS,Rice,Louisiana Tech,RUSHING,Shawn,Stankavage,TD,0
+5052016,11/10/2018,FBS,Rice,Louisiana Tech,RUSHING,Shawn,Stankavage,LONG,8
+5052017,11/10/2018,FBS,Rice,Louisiana Tech,PASSING,Shawn,Stankavage,CP-ATT-INT,18-32-3
+5052018,11/10/2018,FBS,Rice,Louisiana Tech,PASSING,Shawn,Stankavage,YDS,216
+5052019,11/10/2018,FBS,Rice,Louisiana Tech,PASSING,Shawn,Stankavage,TD,1
+5052020,11/10/2018,FBS,Rice,Louisiana Tech,PASSING,Shawn,Stankavage,LONG,68
+5052021,11/10/2018,FBS,Rice,Louisiana Tech,PASSING,Parker,Towns,CP-ATT-INT,1-3-0
+5052022,11/10/2018,FBS,Rice,Louisiana Tech,PASSING,Parker,Towns,YDS,10
+5052023,11/10/2018,FBS,Rice,Louisiana Tech,PASSING,Parker,Towns,TD,0
+5052024,11/10/2018,FBS,Rice,Louisiana Tech,PASSING,Parker,Towns,LONG,10
+5052025,11/10/2018,FBS,Rice,Louisiana Tech,RECEIVING,Austin,Walter,REC,5
+5052026,11/10/2018,FBS,Rice,Louisiana Tech,RECEIVING,Austin,Walter,YDS,101
+5052027,11/10/2018,FBS,Rice,Louisiana Tech,RECEIVING,Austin,Walter,TD,1
+5052028,11/10/2018,FBS,Rice,Louisiana Tech,RECEIVING,Austin,Walter,LONG,68
+5052029,11/10/2018,FBS,Rice,Louisiana Tech,RECEIVING,Aaron,Cephus,REC,7
+5052030,11/10/2018,FBS,Rice,Louisiana Tech,RECEIVING,Aaron,Cephus,YDS,81
+5052031,11/10/2018,FBS,Rice,Louisiana Tech,RECEIVING,Aaron,Cephus,TD,0
+5052032,11/10/2018,FBS,Rice,Louisiana Tech,RECEIVING,Aaron,Cephus,LONG,29
+5052033,11/10/2018,FBS,Rice,Louisiana Tech,RECEIVING,Rhett,Cardwell,REC,2
+5052034,11/10/2018,FBS,Rice,Louisiana Tech,RECEIVING,Rhett,Cardwell,YDS,18
+5052035,11/10/2018,FBS,Rice,Louisiana Tech,RECEIVING,Rhett,Cardwell,TD,0
+5052036,11/10/2018,FBS,Rice,Louisiana Tech,RECEIVING,Rhett,Cardwell,LONG,13
+5052037,11/10/2018,FBS,Rice,Louisiana Tech,RECEIVING,D'Angelo,Ellis,REC,1
+5052038,11/10/2018,FBS,Rice,Louisiana Tech,RECEIVING,D'Angelo,Ellis,YDS,16
+5052039,11/10/2018,FBS,Rice,Louisiana Tech,RECEIVING,D'Angelo,Ellis,TD,0
+5052040,11/10/2018,FBS,Rice,Louisiana Tech,RECEIVING,D'Angelo,Ellis,LONG,16
+5052041,11/10/2018,FBS,Rice,Louisiana Tech,RECEIVING,Austin,Trammell,REC,4
+5052042,11/10/2018,FBS,Rice,Louisiana Tech,RECEIVING,Austin,Trammell,YDS,10
+5052043,11/10/2018,FBS,Rice,Louisiana Tech,RECEIVING,Austin,Trammell,TD,0
+5052044,11/10/2018,FBS,Rice,Louisiana Tech,RECEIVING,Austin,Trammell,LONG,5
+5052045,11/10/2018,FBS,Rice,Louisiana Tech,KICKING,Haden,Tobola,FG-FGA,2/2
+5052046,11/10/2018,FBS,Rice,Louisiana Tech,KICKING,Haden,Tobola,LONG,42
+5052047,11/10/2018,FBS,Rice,Louisiana Tech,KICKING,Haden,Tobola,XP,0
+5052048,11/10/2018,FBS,Rice,Louisiana Tech,KICKING,Haden,Tobola,PTS,6
+5052049,11/10/2018,FBS,Rice,Louisiana Tech,KICKING,Jack,Fox,FG-FGA,0/1
+5052050,11/10/2018,FBS,Rice,Louisiana Tech,KICKING,Jack,Fox,LONG,0
+5052051,11/10/2018,FBS,Rice,Louisiana Tech,KICKING,Jack,Fox,XP,1
+5052052,11/10/2018,FBS,Rice,Louisiana Tech,KICKING,Jack,Fox,PTS,1
+5052053,11/10/2018,FBS,Rice,Louisiana Tech,PUNTING,Jack,Fox,NO,6
+5052054,11/10/2018,FBS,Rice,Louisiana Tech,PUNTING,Jack,Fox,YDS,231
+5052055,11/10/2018,FBS,Rice,Louisiana Tech,PUNTING,Jack,Fox,AVG,38.5
+5052056,11/10/2018,FBS,Rice,Louisiana Tech,PUNTING,Jack,Fox,LONG,48
+5052057,11/10/2018,FBS,Rice,Louisiana Tech,PUNT RETURNS,Austin,Trammell,NO,0
+5052058,11/10/2018,FBS,Rice,Louisiana Tech,PUNT RETURNS,Austin,Trammell,YDS,0
+5052059,11/10/2018,FBS,Rice,Louisiana Tech,PUNT RETURNS,Austin,Trammell,AVG,-
+5052060,11/10/2018,FBS,Rice,Louisiana Tech,PUNT RETURNS,Austin,Trammell,LONG,0
+5052061,11/10/2018,FBS,Rice,Louisiana Tech,KICK RETURNS,Austin,Trammell,NO,2
+5052062,11/10/2018,FBS,Rice,Louisiana Tech,KICK RETURNS,Austin,Trammell,YDS,47
+5052063,11/10/2018,FBS,Rice,Louisiana Tech,KICK RETURNS,Austin,Trammell,AVG,23.5
+5052064,11/10/2018,FBS,Rice,Louisiana Tech,KICK RETURNS,Austin,Trammell,LONG,26
+5052065,11/10/2018,FBS,Rice,Louisiana Tech,KICK RETURNS,Giovanni,Gentosi,NO,1
+5052066,11/10/2018,FBS,Rice,Louisiana Tech,KICK RETURNS,Giovanni,Gentosi,YDS,7
+5052067,11/10/2018,FBS,Rice,Louisiana Tech,KICK RETURNS,Giovanni,Gentosi,AVG,7.0
+5052068,11/10/2018,FBS,Rice,Louisiana Tech,KICK RETURNS,Giovanni,Gentosi,LONG,7
+5052069,11/10/2018,FBS,Rice,Louisiana Tech,KICK RETURNS,Jordan,Myers,NO,1
+5052070,11/10/2018,FBS,Rice,Louisiana Tech,KICK RETURNS,Jordan,Myers,YDS,3
+5052071,11/10/2018,FBS,Rice,Louisiana Tech,KICK RETURNS,Jordan,Myers,AVG,3.0
+5052072,11/10/2018,FBS,Rice,Louisiana Tech,KICK RETURNS,Jordan,Myers,LONG,3
+5052073,11/10/2018,FBS,Rice,Louisiana Tech,DEFENSE,Anthony,Ekpe,TOT,1
+5052074,11/10/2018,FBS,Rice,Louisiana Tech,DEFENSE,Anthony,Ekpe,SOLO,1
+5052075,11/10/2018,FBS,Rice,Louisiana Tech,DEFENSE,Anthony,Ekpe,SACKS,1.0
+5052076,11/10/2018,FBS,Rice,Louisiana Tech,DEFENSE,Anthony,Ekpe,TFL,1
+5052077,11/10/2018,FBS,Rice,Louisiana Tech,DEFENSE,Anthony,Ekpe,INT,0
+5052078,11/10/2018,FBS,Rice,Louisiana Tech,DEFENSE,Anthony,Ekpe,FF,0
+5052079,11/10/2018,FBS,Rice,Louisiana Tech,DEFENSE,Anthony,Ekpe,FR,0
+5052080,11/10/2018,FBS,Rice,Louisiana Tech,DEFENSE,Treshawn,Chamberlain,TOT,0
+5052081,11/10/2018,FBS,Rice,Louisiana Tech,DEFENSE,Treshawn,Chamberlain,SOLO,0
+5052082,11/10/2018,FBS,Rice,Louisiana Tech,DEFENSE,Treshawn,Chamberlain,SACKS,0.0
+5052083,11/10/2018,FBS,Rice,Louisiana Tech,DEFENSE,Treshawn,Chamberlain,TFL,0
+5052084,11/10/2018,FBS,Rice,Louisiana Tech,DEFENSE,Treshawn,Chamberlain,INT,0
+5052085,11/10/2018,FBS,Rice,Louisiana Tech,DEFENSE,Treshawn,Chamberlain,FF,0
+5052086,11/10/2018,FBS,Rice,Louisiana Tech,DEFENSE,Treshawn,Chamberlain,FR,1
+5052087,11/10/2018,FBS,Rice,Louisiana Tech,DEFENSE,Prudy,Calderon,TOT,0
+5052088,11/10/2018,FBS,Rice,Louisiana Tech,DEFENSE,Prudy,Calderon,SOLO,0
+5052089,11/10/2018,FBS,Rice,Louisiana Tech,DEFENSE,Prudy,Calderon,SACKS,0.0
+5052090,11/10/2018,FBS,Rice,Louisiana Tech,DEFENSE,Prudy,Calderon,TFL,0
+5052091,11/10/2018,FBS,Rice,Louisiana Tech,DEFENSE,Prudy,Calderon,INT,2
+5052092,11/10/2018,FBS,Rice,Louisiana Tech,DEFENSE,Prudy,Calderon,FF,0
+5052093,11/10/2018,FBS,Rice,Louisiana Tech,DEFENSE,Prudy,Calderon,FR,0
+5052094,11/10/2018,FBS,Louisiana Tech,Rice,RUSHING,Jaqwis,Dancy,ATT,15
+5052095,11/10/2018,FBS,Louisiana Tech,Rice,RUSHING,Jaqwis,Dancy,YDS,80
+5052096,11/10/2018,FBS,Louisiana Tech,Rice,RUSHING,Jaqwis,Dancy,TD,3
+5052097,11/10/2018,FBS,Louisiana Tech,Rice,RUSHING,Jaqwis,Dancy,LONG,18
+5052098,11/10/2018,FBS,Louisiana Tech,Rice,RUSHING,Kam,McKnight,ATT,5
+5052099,11/10/2018,FBS,Louisiana Tech,Rice,RUSHING,Kam,McKnight,YDS,16
+5052100,11/10/2018,FBS,Louisiana Tech,Rice,RUSHING,Kam,McKnight,TD,0
+5052101,11/10/2018,FBS,Louisiana Tech,Rice,RUSHING,Kam,McKnight,LONG,11
+5052102,11/10/2018,FBS,Louisiana Tech,Rice,RUSHING,Israel,Tucker,ATT,5
+5052103,11/10/2018,FBS,Louisiana Tech,Rice,RUSHING,Israel,Tucker,YDS,10
+5052104,11/10/2018,FBS,Louisiana Tech,Rice,RUSHING,Israel,Tucker,TD,0
+5052105,11/10/2018,FBS,Louisiana Tech,Rice,RUSHING,Israel,Tucker,LONG,4
+5052106,11/10/2018,FBS,Louisiana Tech,Rice,RUSHING,J'mar,Smith,ATT,7
+5052107,11/10/2018,FBS,Louisiana Tech,Rice,RUSHING,J'mar,Smith,YDS,3
+5052108,11/10/2018,FBS,Louisiana Tech,Rice,RUSHING,J'mar,Smith,TD,0
+5052109,11/10/2018,FBS,Louisiana Tech,Rice,RUSHING,J'mar,Smith,LONG,4
+5052110,11/10/2018,FBS,Louisiana Tech,Rice,RUSHING,Justin,Henderson,ATT,1
+5052111,11/10/2018,FBS,Louisiana Tech,Rice,RUSHING,Justin,Henderson,YDS,1
+5052112,11/10/2018,FBS,Louisiana Tech,Rice,RUSHING,Justin,Henderson,TD,0
+5052113,11/10/2018,FBS,Louisiana Tech,Rice,RUSHING,Justin,Henderson,LONG,1
+5052114,11/10/2018,FBS,Louisiana Tech,Rice,RUSHING,,Team,ATT,1
+5052115,11/10/2018,FBS,Louisiana Tech,Rice,RUSHING,,Team,YDS,-1
+5052116,11/10/2018,FBS,Louisiana Tech,Rice,RUSHING,,Team,TD,0
+5052117,11/10/2018,FBS,Louisiana Tech,Rice,RUSHING,,Team,LONG,-1
+5052118,11/10/2018,FBS,Louisiana Tech,Rice,PASSING,J'mar,Smith,CP-ATT-INT,21-34-2
+5052119,11/10/2018,FBS,Louisiana Tech,Rice,PASSING,J'mar,Smith,YDS,314
+5052120,11/10/2018,FBS,Louisiana Tech,Rice,PASSING,J'mar,Smith,TD,1
+5052121,11/10/2018,FBS,Louisiana Tech,Rice,PASSING,J'mar,Smith,LONG,49
+5052122,11/10/2018,FBS,Louisiana Tech,Rice,RECEIVING,Adrian,Hardy,REC,10
+5052123,11/10/2018,FBS,Louisiana Tech,Rice,RECEIVING,Adrian,Hardy,YDS,160
+5052124,11/10/2018,FBS,Louisiana Tech,Rice,RECEIVING,Adrian,Hardy,TD,0
+5052125,11/10/2018,FBS,Louisiana Tech,Rice,RECEIVING,Adrian,Hardy,LONG,49
+5052126,11/10/2018,FBS,Louisiana Tech,Rice,RECEIVING,Alfred,Smith,REC,3
+5052127,11/10/2018,FBS,Louisiana Tech,Rice,RECEIVING,Alfred,Smith,YDS,56
+5052128,11/10/2018,FBS,Louisiana Tech,Rice,RECEIVING,Alfred,Smith,TD,1
+5052129,11/10/2018,FBS,Louisiana Tech,Rice,RECEIVING,Alfred,Smith,LONG,34
+5052130,11/10/2018,FBS,Louisiana Tech,Rice,RECEIVING,Wayne,Toussant,REC,1
+5052131,11/10/2018,FBS,Louisiana Tech,Rice,RECEIVING,Wayne,Toussant,YDS,44
+5052132,11/10/2018,FBS,Louisiana Tech,Rice,RECEIVING,Wayne,Toussant,TD,0
+5052133,11/10/2018,FBS,Louisiana Tech,Rice,RECEIVING,Wayne,Toussant,LONG,44
+5052134,11/10/2018,FBS,Louisiana Tech,Rice,RECEIVING,Teddy,Veal,REC,5
+5052135,11/10/2018,FBS,Louisiana Tech,Rice,RECEIVING,Teddy,Veal,YDS,43
+5052136,11/10/2018,FBS,Louisiana Tech,Rice,RECEIVING,Teddy,Veal,TD,0
+5052137,11/10/2018,FBS,Louisiana Tech,Rice,RECEIVING,Teddy,Veal,LONG,19
+5052138,11/10/2018,FBS,Louisiana Tech,Rice,RECEIVING,Jaqwis,Dancy,REC,2
+5052139,11/10/2018,FBS,Louisiana Tech,Rice,RECEIVING,Jaqwis,Dancy,YDS,11
+5052140,11/10/2018,FBS,Louisiana Tech,Rice,RECEIVING,Jaqwis,Dancy,TD,0
+5052141,11/10/2018,FBS,Louisiana Tech,Rice,RECEIVING,Jaqwis,Dancy,LONG,9
+5052142,11/10/2018,FBS,Louisiana Tech,Rice,KICKING,Bailey,Hale,FG-FGA,0/0
+5052143,11/10/2018,FBS,Louisiana Tech,Rice,KICKING,Bailey,Hale,LONG,-
+5052144,11/10/2018,FBS,Louisiana Tech,Rice,KICKING,Bailey,Hale,XP,4
+5052145,11/10/2018,FBS,Louisiana Tech,Rice,KICKING,Bailey,Hale,PTS,4
+5052146,11/10/2018,FBS,Louisiana Tech,Rice,PUNTING,Davan,Dyer,NO,5
+5052147,11/10/2018,FBS,Louisiana Tech,Rice,PUNTING,Davan,Dyer,YDS,203
+5052148,11/10/2018,FBS,Louisiana Tech,Rice,PUNTING,Davan,Dyer,AVG,40.6
+5052149,11/10/2018,FBS,Louisiana Tech,Rice,PUNTING,Davan,Dyer,LONG,45
+5052150,11/10/2018,FBS,Louisiana Tech,Rice,PUNT RETURNS,Teddy,Veal,NO,0
+5052151,11/10/2018,FBS,Louisiana Tech,Rice,PUNT RETURNS,Teddy,Veal,YDS,0
+5052152,11/10/2018,FBS,Louisiana Tech,Rice,PUNT RETURNS,Teddy,Veal,AVG,-
+5052153,11/10/2018,FBS,Louisiana Tech,Rice,PUNT RETURNS,Teddy,Veal,LONG,0
+5052154,11/10/2018,FBS,Louisiana Tech,Rice,KICK RETURNS,Praise,Okorie,NO,2
+5052155,11/10/2018,FBS,Louisiana Tech,Rice,KICK RETURNS,Praise,Okorie,YDS,26
+5052156,11/10/2018,FBS,Louisiana Tech,Rice,KICK RETURNS,Praise,Okorie,AVG,13.0
+5052157,11/10/2018,FBS,Louisiana Tech,Rice,KICK RETURNS,Praise,Okorie,LONG,23
+5052158,11/10/2018,FBS,Louisiana Tech,Rice,DEFENSE,Willie,Baker,TOT,1
+5052159,11/10/2018,FBS,Louisiana Tech,Rice,DEFENSE,Willie,Baker,SOLO,1
+5052160,11/10/2018,FBS,Louisiana Tech,Rice,DEFENSE,Willie,Baker,SACKS,1.0
+5052161,11/10/2018,FBS,Louisiana Tech,Rice,DEFENSE,Willie,Baker,TFL,1
+5052162,11/10/2018,FBS,Louisiana Tech,Rice,DEFENSE,Willie,Baker,INT,0
+5052163,11/10/2018,FBS,Louisiana Tech,Rice,DEFENSE,Willie,Baker,FF,0
+5052164,11/10/2018,FBS,Louisiana Tech,Rice,DEFENSE,Willie,Baker,FR,0
+5052165,11/10/2018,FBS,Louisiana Tech,Rice,DEFENSE,Collin,Scott,TOT,0
+5052166,11/10/2018,FBS,Louisiana Tech,Rice,DEFENSE,Collin,Scott,SOLO,0
+5052167,11/10/2018,FBS,Louisiana Tech,Rice,DEFENSE,Collin,Scott,SACKS,0.0
+5052168,11/10/2018,FBS,Louisiana Tech,Rice,DEFENSE,Collin,Scott,TFL,0
+5052169,11/10/2018,FBS,Louisiana Tech,Rice,DEFENSE,Collin,Scott,INT,2
+5052170,11/10/2018,FBS,Louisiana Tech,Rice,DEFENSE,Collin,Scott,FF,0
+5052171,11/10/2018,FBS,Louisiana Tech,Rice,DEFENSE,Collin,Scott,FR,0
+5052172,11/10/2018,FBS,Louisiana Tech,Rice,DEFENSE,L'Jarius,Sneed,TOT,0
+5052173,11/10/2018,FBS,Louisiana Tech,Rice,DEFENSE,L'Jarius,Sneed,SOLO,0
+5052174,11/10/2018,FBS,Louisiana Tech,Rice,DEFENSE,L'Jarius,Sneed,SACKS,0.0
+5052175,11/10/2018,FBS,Louisiana Tech,Rice,DEFENSE,L'Jarius,Sneed,TFL,0
+5052176,11/10/2018,FBS,Louisiana Tech,Rice,DEFENSE,L'Jarius,Sneed,INT,1
+5052177,11/10/2018,FBS,Louisiana Tech,Rice,DEFENSE,L'Jarius,Sneed,FF,0
+5052178,11/10/2018,FBS,Louisiana Tech,Rice,DEFENSE,L'Jarius,Sneed,FR,0
+5052179,11/10/2018,FBS,Louisiana Tech,Rice,DEFENSE,James,Jackson,TOT,1
+5052180,11/10/2018,FBS,Louisiana Tech,Rice,DEFENSE,James,Jackson,SOLO,1
+5052181,11/10/2018,FBS,Louisiana Tech,Rice,DEFENSE,James,Jackson,SACKS,1.0
+5052182,11/10/2018,FBS,Louisiana Tech,Rice,DEFENSE,James,Jackson,TFL,1
+5052183,11/10/2018,FBS,Louisiana Tech,Rice,DEFENSE,James,Jackson,INT,0
+5052184,11/10/2018,FBS,Louisiana Tech,Rice,DEFENSE,James,Jackson,FF,0
+5052185,11/10/2018,FBS,Louisiana Tech,Rice,DEFENSE,James,Jackson,FR,0

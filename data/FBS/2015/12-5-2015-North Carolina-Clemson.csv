@@ -1,0 +1,153 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2576001,12/5/2015,FBS,North Carolina,Clemson,RUSHING,Marquise,Williams,ATT,17
+2576002,12/5/2015,FBS,North Carolina,Clemson,RUSHING,Marquise,Williams,YDS,81
+2576003,12/5/2015,FBS,North Carolina,Clemson,RUSHING,Marquise,Williams,TD,1
+2576004,12/5/2015,FBS,North Carolina,Clemson,RUSHING,Marquise,Williams,LONG,29
+2576005,12/5/2015,FBS,North Carolina,Clemson,RUSHING,Elijah,Hood,ATT,14
+2576006,12/5/2015,FBS,North Carolina,Clemson,RUSHING,Elijah,Hood,YDS,65
+2576007,12/5/2015,FBS,North Carolina,Clemson,RUSHING,Elijah,Hood,TD,1
+2576008,12/5/2015,FBS,North Carolina,Clemson,RUSHING,Elijah,Hood,LONG,16
+2576009,12/5/2015,FBS,North Carolina,Clemson,RUSHING,T.J.,Logan,ATT,1
+2576010,12/5/2015,FBS,North Carolina,Clemson,RUSHING,T.J.,Logan,YDS,-4
+2576011,12/5/2015,FBS,North Carolina,Clemson,RUSHING,T.J.,Logan,TD,0
+2576012,12/5/2015,FBS,North Carolina,Clemson,RUSHING,T.J.,Logan,LONG,-4
+2576013,12/5/2015,FBS,North Carolina,Clemson,PASSING,Marquise,Williams,CP-ATT-INT,11-33-1
+2576014,12/5/2015,FBS,North Carolina,Clemson,PASSING,Marquise,Williams,YDS,224
+2576015,12/5/2015,FBS,North Carolina,Clemson,PASSING,Marquise,Williams,TD,3
+2576016,12/5/2015,FBS,North Carolina,Clemson,PASSING,Marquise,Williams,LONG,46
+2576017,12/5/2015,FBS,North Carolina,Clemson,PASSING,Mitch,Trubisky,CP-ATT-INT,1-1-0
+2576018,12/5/2015,FBS,North Carolina,Clemson,PASSING,Mitch,Trubisky,YDS,16
+2576019,12/5/2015,FBS,North Carolina,Clemson,PASSING,Mitch,Trubisky,TD,0
+2576020,12/5/2015,FBS,North Carolina,Clemson,PASSING,Mitch,Trubisky,LONG,16
+2576021,12/5/2015,FBS,North Carolina,Clemson,PASSING,Joey,Mangili,CP-ATT-INT,0-1-0
+2576022,12/5/2015,FBS,North Carolina,Clemson,PASSING,Joey,Mangili,YDS,0
+2576023,12/5/2015,FBS,North Carolina,Clemson,PASSING,Joey,Mangili,TD,0
+2576024,12/5/2015,FBS,North Carolina,Clemson,PASSING,Joey,Mangili,LONG,0
+2576025,12/5/2015,FBS,North Carolina,Clemson,RECEIVING,Quinshad,Davis,REC,3
+2576026,12/5/2015,FBS,North Carolina,Clemson,RECEIVING,Quinshad,Davis,YDS,73
+2576027,12/5/2015,FBS,North Carolina,Clemson,RECEIVING,Quinshad,Davis,TD,0
+2576028,12/5/2015,FBS,North Carolina,Clemson,RECEIVING,Quinshad,Davis,LONG,40
+2576029,12/5/2015,FBS,North Carolina,Clemson,RECEIVING,T.J.,Logan,REC,1
+2576030,12/5/2015,FBS,North Carolina,Clemson,RECEIVING,T.J.,Logan,YDS,46
+2576031,12/5/2015,FBS,North Carolina,Clemson,RECEIVING,T.J.,Logan,TD,1
+2576032,12/5/2015,FBS,North Carolina,Clemson,RECEIVING,T.J.,Logan,LONG,46
+2576033,12/5/2015,FBS,North Carolina,Clemson,RECEIVING,Mack,Hollins,REC,2
+2576034,12/5/2015,FBS,North Carolina,Clemson,RECEIVING,Mack,Hollins,YDS,41
+2576035,12/5/2015,FBS,North Carolina,Clemson,RECEIVING,Mack,Hollins,TD,0
+2576036,12/5/2015,FBS,North Carolina,Clemson,RECEIVING,Mack,Hollins,LONG,25
+2576037,12/5/2015,FBS,North Carolina,Clemson,RECEIVING,Ryan,Switzer,REC,3
+2576038,12/5/2015,FBS,North Carolina,Clemson,RECEIVING,Ryan,Switzer,YDS,41
+2576039,12/5/2015,FBS,North Carolina,Clemson,RECEIVING,Ryan,Switzer,TD,2
+2576040,12/5/2015,FBS,North Carolina,Clemson,RECEIVING,Ryan,Switzer,LONG,21
+2576041,12/5/2015,FBS,North Carolina,Clemson,RECEIVING,Brandon,Fritts,REC,1
+2576042,12/5/2015,FBS,North Carolina,Clemson,RECEIVING,Brandon,Fritts,YDS,27
+2576043,12/5/2015,FBS,North Carolina,Clemson,RECEIVING,Brandon,Fritts,TD,0
+2576044,12/5/2015,FBS,North Carolina,Clemson,RECEIVING,Brandon,Fritts,LONG,27
+2576045,12/5/2015,FBS,North Carolina,Clemson,RECEIVING,Bug,Howard,REC,1
+2576046,12/5/2015,FBS,North Carolina,Clemson,RECEIVING,Bug,Howard,YDS,11
+2576047,12/5/2015,FBS,North Carolina,Clemson,RECEIVING,Bug,Howard,TD,0
+2576048,12/5/2015,FBS,North Carolina,Clemson,RECEIVING,Bug,Howard,LONG,11
+2576049,12/5/2015,FBS,North Carolina,Clemson,RECEIVING,Elijah,Hood,REC,1
+2576050,12/5/2015,FBS,North Carolina,Clemson,RECEIVING,Elijah,Hood,YDS,1
+2576051,12/5/2015,FBS,North Carolina,Clemson,RECEIVING,Elijah,Hood,TD,0
+2576052,12/5/2015,FBS,North Carolina,Clemson,RECEIVING,Elijah,Hood,LONG,1
+2576053,12/5/2015,FBS,North Carolina,Clemson,KICKING,Nick,Weiler,FG-FGA,1/1
+2576054,12/5/2015,FBS,North Carolina,Clemson,KICKING,Nick,Weiler,LONG,30
+2576055,12/5/2015,FBS,North Carolina,Clemson,KICKING,Nick,Weiler,XP,4
+2576056,12/5/2015,FBS,North Carolina,Clemson,KICKING,Nick,Weiler,PTS,7
+2576057,12/5/2015,FBS,North Carolina,Clemson,PUNTING,Joey,Mangili,NO,6
+2576058,12/5/2015,FBS,North Carolina,Clemson,PUNTING,Joey,Mangili,YDS,249
+2576059,12/5/2015,FBS,North Carolina,Clemson,PUNTING,Joey,Mangili,AVG,41.5
+2576060,12/5/2015,FBS,North Carolina,Clemson,PUNTING,Joey,Mangili,LONG,51
+2576061,12/5/2015,FBS,North Carolina,Clemson,PUNT RETURNS,Ryan,Switzer,NO,2
+2576062,12/5/2015,FBS,North Carolina,Clemson,PUNT RETURNS,Ryan,Switzer,YDS,29
+2576063,12/5/2015,FBS,North Carolina,Clemson,PUNT RETURNS,Ryan,Switzer,AVG,14.5
+2576064,12/5/2015,FBS,North Carolina,Clemson,PUNT RETURNS,Ryan,Switzer,LONG,29
+2576065,12/5/2015,FBS,North Carolina,Clemson,PUNT RETURNS,Cameron,Albright,NO,0
+2576066,12/5/2015,FBS,North Carolina,Clemson,PUNT RETURNS,Cameron,Albright,YDS,0
+2576067,12/5/2015,FBS,North Carolina,Clemson,PUNT RETURNS,Cameron,Albright,AVG,-
+2576068,12/5/2015,FBS,North Carolina,Clemson,PUNT RETURNS,Cameron,Albright,LONG,0
+2576069,12/5/2015,FBS,North Carolina,Clemson,KICK RETURNS,T.J.,Logan,NO,4
+2576070,12/5/2015,FBS,North Carolina,Clemson,KICK RETURNS,T.J.,Logan,YDS,95
+2576071,12/5/2015,FBS,North Carolina,Clemson,KICK RETURNS,T.J.,Logan,AVG,23.8
+2576072,12/5/2015,FBS,North Carolina,Clemson,KICK RETURNS,T.J.,Logan,LONG,32
+2576073,12/5/2015,FBS,North Carolina,Clemson,KICK RETURNS,Romar,Morris,NO,1
+2576074,12/5/2015,FBS,North Carolina,Clemson,KICK RETURNS,Romar,Morris,YDS,12
+2576075,12/5/2015,FBS,North Carolina,Clemson,KICK RETURNS,Romar,Morris,AVG,12.0
+2576076,12/5/2015,FBS,North Carolina,Clemson,KICK RETURNS,Romar,Morris,LONG,12
+2576077,12/5/2015,FBS,North Carolina,Clemson,KICK RETURNS,Dan,Mastromatteo,NO,1
+2576078,12/5/2015,FBS,North Carolina,Clemson,KICK RETURNS,Dan,Mastromatteo,YDS,3
+2576079,12/5/2015,FBS,North Carolina,Clemson,KICK RETURNS,Dan,Mastromatteo,AVG,3.0
+2576080,12/5/2015,FBS,North Carolina,Clemson,KICK RETURNS,Dan,Mastromatteo,LONG,3
+2576081,12/5/2015,FBS,Clemson,North Carolina,RUSHING,Wayne,Gallman,ATT,28
+2576082,12/5/2015,FBS,Clemson,North Carolina,RUSHING,Wayne,Gallman,YDS,187
+2576083,12/5/2015,FBS,Clemson,North Carolina,RUSHING,Wayne,Gallman,TD,1
+2576084,12/5/2015,FBS,Clemson,North Carolina,RUSHING,Wayne,Gallman,LONG,31
+2576085,12/5/2015,FBS,Clemson,North Carolina,RUSHING,Deshaun,Watson,ATT,24
+2576086,12/5/2015,FBS,Clemson,North Carolina,RUSHING,Deshaun,Watson,YDS,131
+2576087,12/5/2015,FBS,Clemson,North Carolina,RUSHING,Deshaun,Watson,TD,2
+2576088,12/5/2015,FBS,Clemson,North Carolina,RUSHING,Deshaun,Watson,LONG,33
+2576089,12/5/2015,FBS,Clemson,North Carolina,RUSHING,Andy,Teasdall,ATT,1
+2576090,12/5/2015,FBS,Clemson,North Carolina,RUSHING,Andy,Teasdall,YDS,4
+2576091,12/5/2015,FBS,Clemson,North Carolina,RUSHING,Andy,Teasdall,TD,0
+2576092,12/5/2015,FBS,Clemson,North Carolina,RUSHING,Andy,Teasdall,LONG,4
+2576093,12/5/2015,FBS,Clemson,North Carolina,RUSHING,Zac,Brooks,ATT,1
+2576094,12/5/2015,FBS,Clemson,North Carolina,RUSHING,Zac,Brooks,YDS,1
+2576095,12/5/2015,FBS,Clemson,North Carolina,RUSHING,Zac,Brooks,TD,0
+2576096,12/5/2015,FBS,Clemson,North Carolina,RUSHING,Zac,Brooks,LONG,1
+2576097,12/5/2015,FBS,Clemson,North Carolina,RUSHING,,Team,ATT,2
+2576098,12/5/2015,FBS,Clemson,North Carolina,RUSHING,,Team,YDS,-4
+2576099,12/5/2015,FBS,Clemson,North Carolina,RUSHING,,Team,TD,0
+2576100,12/5/2015,FBS,Clemson,North Carolina,RUSHING,,Team,LONG,-1
+2576101,12/5/2015,FBS,Clemson,North Carolina,PASSING,Deshaun,Watson,CP-ATT-INT,26-42-1
+2576102,12/5/2015,FBS,Clemson,North Carolina,PASSING,Deshaun,Watson,YDS,289
+2576103,12/5/2015,FBS,Clemson,North Carolina,PASSING,Deshaun,Watson,TD,3
+2576104,12/5/2015,FBS,Clemson,North Carolina,PASSING,Deshaun,Watson,LONG,42
+2576105,12/5/2015,FBS,Clemson,North Carolina,RECEIVING,Artavis,Scott,REC,7
+2576106,12/5/2015,FBS,Clemson,North Carolina,RECEIVING,Artavis,Scott,YDS,96
+2576107,12/5/2015,FBS,Clemson,North Carolina,RECEIVING,Artavis,Scott,TD,1
+2576108,12/5/2015,FBS,Clemson,North Carolina,RECEIVING,Artavis,Scott,LONG,42
+2576109,12/5/2015,FBS,Clemson,North Carolina,RECEIVING,Wayne,Gallman,REC,4
+2576110,12/5/2015,FBS,Clemson,North Carolina,RECEIVING,Wayne,Gallman,YDS,68
+2576111,12/5/2015,FBS,Clemson,North Carolina,RECEIVING,Wayne,Gallman,TD,1
+2576112,12/5/2015,FBS,Clemson,North Carolina,RECEIVING,Wayne,Gallman,LONG,22
+2576113,12/5/2015,FBS,Clemson,North Carolina,RECEIVING,Charone,Peake,REC,4
+2576114,12/5/2015,FBS,Clemson,North Carolina,RECEIVING,Charone,Peake,YDS,40
+2576115,12/5/2015,FBS,Clemson,North Carolina,RECEIVING,Charone,Peake,TD,0
+2576116,12/5/2015,FBS,Clemson,North Carolina,RECEIVING,Charone,Peake,LONG,12
+2576117,12/5/2015,FBS,Clemson,North Carolina,RECEIVING,Ray,RayMcCloud,REC,3
+2576118,12/5/2015,FBS,Clemson,North Carolina,RECEIVING,Ray,RayMcCloud,YDS,27
+2576119,12/5/2015,FBS,Clemson,North Carolina,RECEIVING,Ray,RayMcCloud,TD,0
+2576120,12/5/2015,FBS,Clemson,North Carolina,RECEIVING,Ray,RayMcCloud,LONG,16
+2576121,12/5/2015,FBS,Clemson,North Carolina,RECEIVING,Jordan,Leggett,REC,3
+2576122,12/5/2015,FBS,Clemson,North Carolina,RECEIVING,Jordan,Leggett,YDS,24
+2576123,12/5/2015,FBS,Clemson,North Carolina,RECEIVING,Jordan,Leggett,TD,1
+2576124,12/5/2015,FBS,Clemson,North Carolina,RECEIVING,Jordan,Leggett,LONG,13
+2576125,12/5/2015,FBS,Clemson,North Carolina,RECEIVING,Hunter,Renfrow,REC,3
+2576126,12/5/2015,FBS,Clemson,North Carolina,RECEIVING,Hunter,Renfrow,YDS,22
+2576127,12/5/2015,FBS,Clemson,North Carolina,RECEIVING,Hunter,Renfrow,TD,0
+2576128,12/5/2015,FBS,Clemson,North Carolina,RECEIVING,Hunter,Renfrow,LONG,9
+2576129,12/5/2015,FBS,Clemson,North Carolina,RECEIVING,Deon,Cain,REC,2
+2576130,12/5/2015,FBS,Clemson,North Carolina,RECEIVING,Deon,Cain,YDS,12
+2576131,12/5/2015,FBS,Clemson,North Carolina,RECEIVING,Deon,Cain,TD,0
+2576132,12/5/2015,FBS,Clemson,North Carolina,RECEIVING,Deon,Cain,LONG,8
+2576133,12/5/2015,FBS,Clemson,North Carolina,KICKING,Greg,Huegel,FG-FGA,1/2
+2576134,12/5/2015,FBS,Clemson,North Carolina,KICKING,Greg,Huegel,LONG,27
+2576135,12/5/2015,FBS,Clemson,North Carolina,KICKING,Greg,Huegel,XP,0
+2576136,12/5/2015,FBS,Clemson,North Carolina,KICKING,Greg,Huegel,PTS,3
+2576137,12/5/2015,FBS,Clemson,North Carolina,KICKING,Ammon,Lakip,FG-FGA,0/0
+2576138,12/5/2015,FBS,Clemson,North Carolina,KICKING,Ammon,Lakip,LONG,-
+2576139,12/5/2015,FBS,Clemson,North Carolina,KICKING,Ammon,Lakip,XP,6
+2576140,12/5/2015,FBS,Clemson,North Carolina,KICKING,Ammon,Lakip,PTS,6
+2576141,12/5/2015,FBS,Clemson,North Carolina,PUNTING,Andy,Teasdall,NO,5
+2576142,12/5/2015,FBS,Clemson,North Carolina,PUNTING,Andy,Teasdall,YDS,199
+2576143,12/5/2015,FBS,Clemson,North Carolina,PUNTING,Andy,Teasdall,AVG,39.8
+2576144,12/5/2015,FBS,Clemson,North Carolina,PUNTING,Andy,Teasdall,LONG,50
+2576145,12/5/2015,FBS,Clemson,North Carolina,PUNT RETURNS,Artavis,Scott,NO,1
+2576146,12/5/2015,FBS,Clemson,North Carolina,PUNT RETURNS,Artavis,Scott,YDS,-1
+2576147,12/5/2015,FBS,Clemson,North Carolina,PUNT RETURNS,Artavis,Scott,AVG,-
+2576148,12/5/2015,FBS,Clemson,North Carolina,PUNT RETURNS,Artavis,Scott,LONG,0
+2576149,12/5/2015,FBS,Clemson,North Carolina,KICK RETURNS,C.J.,Fuller,NO,4
+2576150,12/5/2015,FBS,Clemson,North Carolina,KICK RETURNS,C.J.,Fuller,YDS,66
+2576151,12/5/2015,FBS,Clemson,North Carolina,KICK RETURNS,C.J.,Fuller,AVG,16.5
+2576152,12/5/2015,FBS,Clemson,North Carolina,KICK RETURNS,C.J.,Fuller,LONG,20

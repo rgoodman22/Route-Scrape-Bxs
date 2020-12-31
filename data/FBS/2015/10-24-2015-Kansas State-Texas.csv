@@ -1,0 +1,133 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2256001,10/24/2015,FBS,Kansas State,Texas,RUSHING,Charles,Jones,ATT,18
+2256002,10/24/2015,FBS,Kansas State,Texas,RUSHING,Charles,Jones,YDS,122
+2256003,10/24/2015,FBS,Kansas State,Texas,RUSHING,Charles,Jones,TD,0
+2256004,10/24/2015,FBS,Kansas State,Texas,RUSHING,Charles,Jones,LONG,22
+2256005,10/24/2015,FBS,Kansas State,Texas,RUSHING,Joe,Hubener,ATT,15
+2256006,10/24/2015,FBS,Kansas State,Texas,RUSHING,Joe,Hubener,YDS,18
+2256007,10/24/2015,FBS,Kansas State,Texas,RUSHING,Joe,Hubener,TD,0
+2256008,10/24/2015,FBS,Kansas State,Texas,RUSHING,Joe,Hubener,LONG,18
+2256009,10/24/2015,FBS,Kansas State,Texas,RUSHING,Justin,Silmon,ATT,2
+2256010,10/24/2015,FBS,Kansas State,Texas,RUSHING,Justin,Silmon,YDS,-2
+2256011,10/24/2015,FBS,Kansas State,Texas,RUSHING,Justin,Silmon,TD,0
+2256012,10/24/2015,FBS,Kansas State,Texas,RUSHING,Justin,Silmon,LONG,3
+2256013,10/24/2015,FBS,Kansas State,Texas,RUSHING,Kody,Cook,ATT,2
+2256014,10/24/2015,FBS,Kansas State,Texas,RUSHING,Kody,Cook,YDS,-3
+2256015,10/24/2015,FBS,Kansas State,Texas,RUSHING,Kody,Cook,TD,0
+2256016,10/24/2015,FBS,Kansas State,Texas,RUSHING,Kody,Cook,LONG,-1
+2256017,10/24/2015,FBS,Kansas State,Texas,PASSING,Joe,Hubener,CP-ATT-INT,10-22-1
+2256018,10/24/2015,FBS,Kansas State,Texas,PASSING,Joe,Hubener,YDS,97
+2256019,10/24/2015,FBS,Kansas State,Texas,PASSING,Joe,Hubener,TD,1
+2256020,10/24/2015,FBS,Kansas State,Texas,PASSING,Joe,Hubener,LONG,16
+2256021,10/24/2015,FBS,Kansas State,Texas,PASSING,Kody,Cook,CP-ATT-INT,1-2-0
+2256022,10/24/2015,FBS,Kansas State,Texas,PASSING,Kody,Cook,YDS,10
+2256023,10/24/2015,FBS,Kansas State,Texas,PASSING,Kody,Cook,TD,0
+2256024,10/24/2015,FBS,Kansas State,Texas,PASSING,Kody,Cook,LONG,10
+2256025,10/24/2015,FBS,Kansas State,Texas,RECEIVING,Deante,Burton,REC,5
+2256026,10/24/2015,FBS,Kansas State,Texas,RECEIVING,Deante,Burton,YDS,39
+2256027,10/24/2015,FBS,Kansas State,Texas,RECEIVING,Deante,Burton,TD,0
+2256028,10/24/2015,FBS,Kansas State,Texas,RECEIVING,Deante,Burton,LONG,10
+2256029,10/24/2015,FBS,Kansas State,Texas,RECEIVING,Dominique,Heath,REC,2
+2256030,10/24/2015,FBS,Kansas State,Texas,RECEIVING,Dominique,Heath,YDS,23
+2256031,10/24/2015,FBS,Kansas State,Texas,RECEIVING,Dominique,Heath,TD,1
+2256032,10/24/2015,FBS,Kansas State,Texas,RECEIVING,Dominique,Heath,LONG,16
+2256033,10/24/2015,FBS,Kansas State,Texas,RECEIVING,Andre,Davis,REC,2
+2256034,10/24/2015,FBS,Kansas State,Texas,RECEIVING,Andre,Davis,YDS,17
+2256035,10/24/2015,FBS,Kansas State,Texas,RECEIVING,Andre,Davis,TD,0
+2256036,10/24/2015,FBS,Kansas State,Texas,RECEIVING,Andre,Davis,LONG,10
+2256037,10/24/2015,FBS,Kansas State,Texas,RECEIVING,Glenn,Gronkowski,REC,1
+2256038,10/24/2015,FBS,Kansas State,Texas,RECEIVING,Glenn,Gronkowski,YDS,16
+2256039,10/24/2015,FBS,Kansas State,Texas,RECEIVING,Glenn,Gronkowski,TD,0
+2256040,10/24/2015,FBS,Kansas State,Texas,RECEIVING,Glenn,Gronkowski,LONG,16
+2256041,10/24/2015,FBS,Kansas State,Texas,RECEIVING,Kyle,Klein,REC,1
+2256042,10/24/2015,FBS,Kansas State,Texas,RECEIVING,Kyle,Klein,YDS,12
+2256043,10/24/2015,FBS,Kansas State,Texas,RECEIVING,Kyle,Klein,TD,0
+2256044,10/24/2015,FBS,Kansas State,Texas,RECEIVING,Kyle,Klein,LONG,12
+2256045,10/24/2015,FBS,Kansas State,Texas,KICKING,Jack,Cantele,FG-FGA,1/1
+2256046,10/24/2015,FBS,Kansas State,Texas,KICKING,Jack,Cantele,LONG,36
+2256047,10/24/2015,FBS,Kansas State,Texas,KICKING,Jack,Cantele,XP,0
+2256048,10/24/2015,FBS,Kansas State,Texas,KICKING,Jack,Cantele,PTS,3
+2256049,10/24/2015,FBS,Kansas State,Texas,PUNTING,Nick,Walsh,NO,7
+2256050,10/24/2015,FBS,Kansas State,Texas,PUNTING,Nick,Walsh,YDS,283
+2256051,10/24/2015,FBS,Kansas State,Texas,PUNTING,Nick,Walsh,AVG,40.4
+2256052,10/24/2015,FBS,Kansas State,Texas,PUNTING,Nick,Walsh,LONG,58
+2256053,10/24/2015,FBS,Kansas State,Texas,PUNT RETURNS,Dominique,Heath,NO,1
+2256054,10/24/2015,FBS,Kansas State,Texas,PUNT RETURNS,Dominique,Heath,YDS,11
+2256055,10/24/2015,FBS,Kansas State,Texas,PUNT RETURNS,Dominique,Heath,AVG,11.0
+2256056,10/24/2015,FBS,Kansas State,Texas,PUNT RETURNS,Dominique,Heath,LONG,11
+2256057,10/24/2015,FBS,Kansas State,Texas,KICK RETURNS,Morgan,Burns,NO,3
+2256058,10/24/2015,FBS,Kansas State,Texas,KICK RETURNS,Morgan,Burns,YDS,72
+2256059,10/24/2015,FBS,Kansas State,Texas,KICK RETURNS,Morgan,Burns,AVG,24.0
+2256060,10/24/2015,FBS,Kansas State,Texas,KICK RETURNS,Morgan,Burns,LONG,34
+2256061,10/24/2015,FBS,Texas,Kansas State,RUSHING,Johnathan,Gray,ATT,18
+2256062,10/24/2015,FBS,Texas,Kansas State,RUSHING,Johnathan,Gray,YDS,103
+2256063,10/24/2015,FBS,Texas,Kansas State,RUSHING,Johnathan,Gray,TD,0
+2256064,10/24/2015,FBS,Texas,Kansas State,RUSHING,Johnathan,Gray,LONG,46
+2256065,10/24/2015,FBS,Texas,Kansas State,RUSHING,Jerrod,Heard,ATT,15
+2256066,10/24/2015,FBS,Texas,Kansas State,RUSHING,Jerrod,Heard,YDS,61
+2256067,10/24/2015,FBS,Texas,Kansas State,RUSHING,Jerrod,Heard,TD,0
+2256068,10/24/2015,FBS,Texas,Kansas State,RUSHING,Jerrod,Heard,LONG,16
+2256069,10/24/2015,FBS,Texas,Kansas State,RUSHING,Tyrone,Swoopes,ATT,7
+2256070,10/24/2015,FBS,Texas,Kansas State,RUSHING,Tyrone,Swoopes,YDS,50
+2256071,10/24/2015,FBS,Texas,Kansas State,RUSHING,Tyrone,Swoopes,TD,3
+2256072,10/24/2015,FBS,Texas,Kansas State,RUSHING,Tyrone,Swoopes,LONG,29
+2256073,10/24/2015,FBS,Texas,Kansas State,RUSHING,D'Onta,Foreman,ATT,10
+2256074,10/24/2015,FBS,Texas,Kansas State,RUSHING,D'Onta,Foreman,YDS,43
+2256075,10/24/2015,FBS,Texas,Kansas State,RUSHING,D'Onta,Foreman,TD,0
+2256076,10/24/2015,FBS,Texas,Kansas State,RUSHING,D'Onta,Foreman,LONG,15
+2256077,10/24/2015,FBS,Texas,Kansas State,RUSHING,Chris,WarrenIII,ATT,2
+2256078,10/24/2015,FBS,Texas,Kansas State,RUSHING,Chris,WarrenIII,YDS,19
+2256079,10/24/2015,FBS,Texas,Kansas State,RUSHING,Chris,WarrenIII,TD,0
+2256080,10/24/2015,FBS,Texas,Kansas State,RUSHING,Chris,WarrenIII,LONG,14
+2256081,10/24/2015,FBS,Texas,Kansas State,RUSHING,,Team,ATT,1
+2256082,10/24/2015,FBS,Texas,Kansas State,RUSHING,,Team,YDS,-2
+2256083,10/24/2015,FBS,Texas,Kansas State,RUSHING,,Team,TD,0
+2256084,10/24/2015,FBS,Texas,Kansas State,RUSHING,,Team,LONG,-2
+2256085,10/24/2015,FBS,Texas,Kansas State,PASSING,Jerrod,Heard,CP-ATT-INT,10-15-0
+2256086,10/24/2015,FBS,Texas,Kansas State,PASSING,Jerrod,Heard,YDS,99
+2256087,10/24/2015,FBS,Texas,Kansas State,PASSING,Jerrod,Heard,TD,0
+2256088,10/24/2015,FBS,Texas,Kansas State,PASSING,Jerrod,Heard,LONG,28
+2256089,10/24/2015,FBS,Texas,Kansas State,PASSING,Tyrone,Swoopes,CP-ATT-INT,0-1-0
+2256090,10/24/2015,FBS,Texas,Kansas State,PASSING,Tyrone,Swoopes,YDS,0
+2256091,10/24/2015,FBS,Texas,Kansas State,PASSING,Tyrone,Swoopes,TD,0
+2256092,10/24/2015,FBS,Texas,Kansas State,PASSING,Tyrone,Swoopes,LONG,0
+2256093,10/24/2015,FBS,Texas,Kansas State,RECEIVING,Daje,Johnson,REC,6
+2256094,10/24/2015,FBS,Texas,Kansas State,RECEIVING,Daje,Johnson,YDS,41
+2256095,10/24/2015,FBS,Texas,Kansas State,RECEIVING,Daje,Johnson,TD,0
+2256096,10/24/2015,FBS,Texas,Kansas State,RECEIVING,Daje,Johnson,LONG,14
+2256097,10/24/2015,FBS,Texas,Kansas State,RECEIVING,Caleb,Bluiett,REC,1
+2256098,10/24/2015,FBS,Texas,Kansas State,RECEIVING,Caleb,Bluiett,YDS,28
+2256099,10/24/2015,FBS,Texas,Kansas State,RECEIVING,Caleb,Bluiett,TD,0
+2256100,10/24/2015,FBS,Texas,Kansas State,RECEIVING,Caleb,Bluiett,LONG,28
+2256101,10/24/2015,FBS,Texas,Kansas State,RECEIVING,John,Burt,REC,2
+2256102,10/24/2015,FBS,Texas,Kansas State,RECEIVING,John,Burt,YDS,25
+2256103,10/24/2015,FBS,Texas,Kansas State,RECEIVING,John,Burt,TD,0
+2256104,10/24/2015,FBS,Texas,Kansas State,RECEIVING,John,Burt,LONG,20
+2256105,10/24/2015,FBS,Texas,Kansas State,RECEIVING,Andrew,Beck,REC,1
+2256106,10/24/2015,FBS,Texas,Kansas State,RECEIVING,Andrew,Beck,YDS,5
+2256107,10/24/2015,FBS,Texas,Kansas State,RECEIVING,Andrew,Beck,TD,0
+2256108,10/24/2015,FBS,Texas,Kansas State,RECEIVING,Andrew,Beck,LONG,5
+2256109,10/24/2015,FBS,Texas,Kansas State,KICKING,Nick,Rose,FG-FGA,1/1
+2256110,10/24/2015,FBS,Texas,Kansas State,KICKING,Nick,Rose,LONG,28
+2256111,10/24/2015,FBS,Texas,Kansas State,KICKING,Nick,Rose,XP,2
+2256112,10/24/2015,FBS,Texas,Kansas State,KICKING,Nick,Rose,PTS,5
+2256113,10/24/2015,FBS,Texas,Kansas State,PUNTING,Michael,Dickson,NO,6
+2256114,10/24/2015,FBS,Texas,Kansas State,PUNTING,Michael,Dickson,YDS,222
+2256115,10/24/2015,FBS,Texas,Kansas State,PUNTING,Michael,Dickson,AVG,37.0
+2256116,10/24/2015,FBS,Texas,Kansas State,PUNTING,Michael,Dickson,LONG,51
+2256117,10/24/2015,FBS,Texas,Kansas State,PUNT RETURNS,Daje,Johnson,NO,1
+2256118,10/24/2015,FBS,Texas,Kansas State,PUNT RETURNS,Daje,Johnson,YDS,0
+2256119,10/24/2015,FBS,Texas,Kansas State,PUNT RETURNS,Daje,Johnson,AVG,-
+2256120,10/24/2015,FBS,Texas,Kansas State,PUNT RETURNS,Daje,Johnson,LONG,0
+2256121,10/24/2015,FBS,Texas,Kansas State,PUNT RETURNS,Duke,Thomas,NO,1
+2256122,10/24/2015,FBS,Texas,Kansas State,PUNT RETURNS,Duke,Thomas,YDS,-1
+2256123,10/24/2015,FBS,Texas,Kansas State,PUNT RETURNS,Duke,Thomas,AVG,-
+2256124,10/24/2015,FBS,Texas,Kansas State,PUNT RETURNS,Duke,Thomas,LONG,-1
+2256125,10/24/2015,FBS,Texas,Kansas State,KICK RETURNS,Daje,Johnson,NO,2
+2256126,10/24/2015,FBS,Texas,Kansas State,KICK RETURNS,Daje,Johnson,YDS,45
+2256127,10/24/2015,FBS,Texas,Kansas State,KICK RETURNS,Daje,Johnson,AVG,22.5
+2256128,10/24/2015,FBS,Texas,Kansas State,KICK RETURNS,Daje,Johnson,LONG,30
+2256129,10/24/2015,FBS,Texas,Kansas State,KICK RETURNS,Kris,Boyd,NO,1
+2256130,10/24/2015,FBS,Texas,Kansas State,KICK RETURNS,Kris,Boyd,YDS,-1
+2256131,10/24/2015,FBS,Texas,Kansas State,KICK RETURNS,Kris,Boyd,AVG,-
+2256132,10/24/2015,FBS,Texas,Kansas State,KICK RETURNS,Kris,Boyd,LONG,-1

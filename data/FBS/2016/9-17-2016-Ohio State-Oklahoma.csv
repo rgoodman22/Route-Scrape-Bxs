@@ -1,0 +1,133 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2823001,9/17/2016,FBS,Ohio State,Oklahoma,RUSHING,Mike,Weber,ATT,18
+2823002,9/17/2016,FBS,Ohio State,Oklahoma,RUSHING,Mike,Weber,YDS,123
+2823003,9/17/2016,FBS,Ohio State,Oklahoma,RUSHING,Mike,Weber,TD,0
+2823004,9/17/2016,FBS,Ohio State,Oklahoma,RUSHING,Mike,Weber,LONG,35
+2823005,9/17/2016,FBS,Ohio State,Oklahoma,RUSHING,Curtis,Samuel,ATT,11
+2823006,9/17/2016,FBS,Ohio State,Oklahoma,RUSHING,Curtis,Samuel,YDS,98
+2823007,9/17/2016,FBS,Ohio State,Oklahoma,RUSHING,Curtis,Samuel,TD,1
+2823008,9/17/2016,FBS,Ohio State,Oklahoma,RUSHING,Curtis,Samuel,LONG,36
+2823009,9/17/2016,FBS,Ohio State,Oklahoma,RUSHING,JT,Barrett,ATT,17
+2823010,9/17/2016,FBS,Ohio State,Oklahoma,RUSHING,JT,Barrett,YDS,74
+2823011,9/17/2016,FBS,Ohio State,Oklahoma,RUSHING,JT,Barrett,TD,0
+2823012,9/17/2016,FBS,Ohio State,Oklahoma,RUSHING,JT,Barrett,LONG,14
+2823013,9/17/2016,FBS,Ohio State,Oklahoma,RUSHING,,Team,ATT,2
+2823014,9/17/2016,FBS,Ohio State,Oklahoma,RUSHING,,Team,YDS,-4
+2823015,9/17/2016,FBS,Ohio State,Oklahoma,RUSHING,,Team,TD,0
+2823016,9/17/2016,FBS,Ohio State,Oklahoma,RUSHING,,Team,LONG,-2
+2823017,9/17/2016,FBS,Ohio State,Oklahoma,PASSING,JT,Barrett,CP-ATT-INT,14-20-0
+2823018,9/17/2016,FBS,Ohio State,Oklahoma,PASSING,JT,Barrett,YDS,152
+2823019,9/17/2016,FBS,Ohio State,Oklahoma,PASSING,JT,Barrett,TD,4
+2823020,9/17/2016,FBS,Ohio State,Oklahoma,PASSING,JT,Barrett,LONG,37
+2823021,9/17/2016,FBS,Ohio State,Oklahoma,RECEIVING,Noah,Brown,REC,5
+2823022,9/17/2016,FBS,Ohio State,Oklahoma,RECEIVING,Noah,Brown,YDS,72
+2823023,9/17/2016,FBS,Ohio State,Oklahoma,RECEIVING,Noah,Brown,TD,4
+2823024,9/17/2016,FBS,Ohio State,Oklahoma,RECEIVING,Noah,Brown,LONG,37
+2823025,9/17/2016,FBS,Ohio State,Oklahoma,RECEIVING,Curtis,Samuel,REC,2
+2823026,9/17/2016,FBS,Ohio State,Oklahoma,RECEIVING,Curtis,Samuel,YDS,20
+2823027,9/17/2016,FBS,Ohio State,Oklahoma,RECEIVING,Curtis,Samuel,TD,0
+2823028,9/17/2016,FBS,Ohio State,Oklahoma,RECEIVING,Curtis,Samuel,LONG,15
+2823029,9/17/2016,FBS,Ohio State,Oklahoma,RECEIVING,Dontre,Wilson,REC,2
+2823030,9/17/2016,FBS,Ohio State,Oklahoma,RECEIVING,Dontre,Wilson,YDS,19
+2823031,9/17/2016,FBS,Ohio State,Oklahoma,RECEIVING,Dontre,Wilson,TD,0
+2823032,9/17/2016,FBS,Ohio State,Oklahoma,RECEIVING,Dontre,Wilson,LONG,12
+2823033,9/17/2016,FBS,Ohio State,Oklahoma,RECEIVING,Parris,Campbell,REC,1
+2823034,9/17/2016,FBS,Ohio State,Oklahoma,RECEIVING,Parris,Campbell,YDS,16
+2823035,9/17/2016,FBS,Ohio State,Oklahoma,RECEIVING,Parris,Campbell,TD,0
+2823036,9/17/2016,FBS,Ohio State,Oklahoma,RECEIVING,Parris,Campbell,LONG,16
+2823037,9/17/2016,FBS,Ohio State,Oklahoma,RECEIVING,Terry,McLaurin,REC,1
+2823038,9/17/2016,FBS,Ohio State,Oklahoma,RECEIVING,Terry,McLaurin,YDS,10
+2823039,9/17/2016,FBS,Ohio State,Oklahoma,RECEIVING,Terry,McLaurin,TD,0
+2823040,9/17/2016,FBS,Ohio State,Oklahoma,RECEIVING,Terry,McLaurin,LONG,10
+2823041,9/17/2016,FBS,Ohio State,Oklahoma,RECEIVING,James,Clark,REC,2
+2823042,9/17/2016,FBS,Ohio State,Oklahoma,RECEIVING,James,Clark,YDS,9
+2823043,9/17/2016,FBS,Ohio State,Oklahoma,RECEIVING,James,Clark,TD,0
+2823044,9/17/2016,FBS,Ohio State,Oklahoma,RECEIVING,James,Clark,LONG,5
+2823045,9/17/2016,FBS,Ohio State,Oklahoma,RECEIVING,Mike,Weber,REC,1
+2823046,9/17/2016,FBS,Ohio State,Oklahoma,RECEIVING,Mike,Weber,YDS,6
+2823047,9/17/2016,FBS,Ohio State,Oklahoma,RECEIVING,Mike,Weber,TD,0
+2823048,9/17/2016,FBS,Ohio State,Oklahoma,RECEIVING,Mike,Weber,LONG,6
+2823049,9/17/2016,FBS,Ohio State,Oklahoma,KICKING,Tyler,Durbin,FG-FGA,1/1
+2823050,9/17/2016,FBS,Ohio State,Oklahoma,KICKING,Tyler,Durbin,LONG,31
+2823051,9/17/2016,FBS,Ohio State,Oklahoma,KICKING,Tyler,Durbin,XP,6
+2823052,9/17/2016,FBS,Ohio State,Oklahoma,KICKING,Tyler,Durbin,PTS,9
+2823053,9/17/2016,FBS,Ohio State,Oklahoma,PUNTING,Cameron,Johnston,NO,5
+2823054,9/17/2016,FBS,Ohio State,Oklahoma,PUNTING,Cameron,Johnston,YDS,253
+2823055,9/17/2016,FBS,Ohio State,Oklahoma,PUNTING,Cameron,Johnston,AVG,50.6
+2823056,9/17/2016,FBS,Ohio State,Oklahoma,PUNTING,Cameron,Johnston,LONG,68
+2823057,9/17/2016,FBS,Ohio State,Oklahoma,PUNT RETURNS,Dontre,Wilson,NO,1
+2823058,9/17/2016,FBS,Ohio State,Oklahoma,PUNT RETURNS,Dontre,Wilson,YDS,0
+2823059,9/17/2016,FBS,Ohio State,Oklahoma,PUNT RETURNS,Dontre,Wilson,AVG,-
+2823060,9/17/2016,FBS,Ohio State,Oklahoma,PUNT RETURNS,Dontre,Wilson,LONG,0
+2823061,9/17/2016,FBS,Ohio State,Oklahoma,KICK RETURNS,Parris,Campbell,NO,1
+2823062,9/17/2016,FBS,Ohio State,Oklahoma,KICK RETURNS,Parris,Campbell,YDS,42
+2823063,9/17/2016,FBS,Ohio State,Oklahoma,KICK RETURNS,Parris,Campbell,AVG,42.0
+2823064,9/17/2016,FBS,Ohio State,Oklahoma,KICK RETURNS,Parris,Campbell,LONG,42
+2823065,9/17/2016,FBS,Ohio State,Oklahoma,KICK RETURNS,Dontre,Wilson,NO,1
+2823066,9/17/2016,FBS,Ohio State,Oklahoma,KICK RETURNS,Dontre,Wilson,YDS,20
+2823067,9/17/2016,FBS,Ohio State,Oklahoma,KICK RETURNS,Dontre,Wilson,AVG,20.0
+2823068,9/17/2016,FBS,Ohio State,Oklahoma,KICK RETURNS,Dontre,Wilson,LONG,20
+2823069,9/17/2016,FBS,Oklahoma,Ohio State,RUSHING,Joe,Mixon,ATT,9
+2823070,9/17/2016,FBS,Oklahoma,Ohio State,RUSHING,Joe,Mixon,YDS,78
+2823071,9/17/2016,FBS,Oklahoma,Ohio State,RUSHING,Joe,Mixon,TD,0
+2823072,9/17/2016,FBS,Oklahoma,Ohio State,RUSHING,Joe,Mixon,LONG,31
+2823073,9/17/2016,FBS,Oklahoma,Ohio State,RUSHING,Samaje,Perine,ATT,17
+2823074,9/17/2016,FBS,Oklahoma,Ohio State,RUSHING,Samaje,Perine,YDS,60
+2823075,9/17/2016,FBS,Oklahoma,Ohio State,RUSHING,Samaje,Perine,TD,0
+2823076,9/17/2016,FBS,Oklahoma,Ohio State,RUSHING,Samaje,Perine,LONG,20
+2823077,9/17/2016,FBS,Oklahoma,Ohio State,RUSHING,Dede,Westbrook,ATT,1
+2823078,9/17/2016,FBS,Oklahoma,Ohio State,RUSHING,Dede,Westbrook,YDS,35
+2823079,9/17/2016,FBS,Oklahoma,Ohio State,RUSHING,Dede,Westbrook,TD,0
+2823080,9/17/2016,FBS,Oklahoma,Ohio State,RUSHING,Dede,Westbrook,LONG,35
+2823081,9/17/2016,FBS,Oklahoma,Ohio State,RUSHING,Baker,Mayfield,ATT,8
+2823082,9/17/2016,FBS,Oklahoma,Ohio State,RUSHING,Baker,Mayfield,YDS,5
+2823083,9/17/2016,FBS,Oklahoma,Ohio State,RUSHING,Baker,Mayfield,TD,0
+2823084,9/17/2016,FBS,Oklahoma,Ohio State,RUSHING,Baker,Mayfield,LONG,11
+2823085,9/17/2016,FBS,Oklahoma,Ohio State,RUSHING,,Team,ATT,1
+2823086,9/17/2016,FBS,Oklahoma,Ohio State,RUSHING,,Team,YDS,-1
+2823087,9/17/2016,FBS,Oklahoma,Ohio State,RUSHING,,Team,TD,0
+2823088,9/17/2016,FBS,Oklahoma,Ohio State,RUSHING,,Team,LONG,-1
+2823089,9/17/2016,FBS,Oklahoma,Ohio State,PASSING,Baker,Mayfield,CP-ATT-INT,17-32-2
+2823090,9/17/2016,FBS,Oklahoma,Ohio State,PASSING,Baker,Mayfield,YDS,226
+2823091,9/17/2016,FBS,Oklahoma,Ohio State,PASSING,Baker,Mayfield,TD,2
+2823092,9/17/2016,FBS,Oklahoma,Ohio State,PASSING,Baker,Mayfield,LONG,36
+2823093,9/17/2016,FBS,Oklahoma,Ohio State,RECEIVING,A.D.,Miller,REC,3
+2823094,9/17/2016,FBS,Oklahoma,Ohio State,RECEIVING,A.D.,Miller,YDS,72
+2823095,9/17/2016,FBS,Oklahoma,Ohio State,RECEIVING,A.D.,Miller,TD,1
+2823096,9/17/2016,FBS,Oklahoma,Ohio State,RECEIVING,A.D.,Miller,LONG,36
+2823097,9/17/2016,FBS,Oklahoma,Ohio State,RECEIVING,Mark,Andrews,REC,4
+2823098,9/17/2016,FBS,Oklahoma,Ohio State,RECEIVING,Mark,Andrews,YDS,57
+2823099,9/17/2016,FBS,Oklahoma,Ohio State,RECEIVING,Mark,Andrews,TD,1
+2823100,9/17/2016,FBS,Oklahoma,Ohio State,RECEIVING,Mark,Andrews,LONG,20
+2823101,9/17/2016,FBS,Oklahoma,Ohio State,RECEIVING,Dede,Westbrook,REC,5
+2823102,9/17/2016,FBS,Oklahoma,Ohio State,RECEIVING,Dede,Westbrook,YDS,51
+2823103,9/17/2016,FBS,Oklahoma,Ohio State,RECEIVING,Dede,Westbrook,TD,0
+2823104,9/17/2016,FBS,Oklahoma,Ohio State,RECEIVING,Dede,Westbrook,LONG,23
+2823105,9/17/2016,FBS,Oklahoma,Ohio State,RECEIVING,Geno,Lewis,REC,2
+2823106,9/17/2016,FBS,Oklahoma,Ohio State,RECEIVING,Geno,Lewis,YDS,28
+2823107,9/17/2016,FBS,Oklahoma,Ohio State,RECEIVING,Geno,Lewis,TD,0
+2823108,9/17/2016,FBS,Oklahoma,Ohio State,RECEIVING,Geno,Lewis,LONG,14
+2823109,9/17/2016,FBS,Oklahoma,Ohio State,RECEIVING,Joe,Mixon,REC,2
+2823110,9/17/2016,FBS,Oklahoma,Ohio State,RECEIVING,Joe,Mixon,YDS,15
+2823111,9/17/2016,FBS,Oklahoma,Ohio State,RECEIVING,Joe,Mixon,TD,0
+2823112,9/17/2016,FBS,Oklahoma,Ohio State,RECEIVING,Joe,Mixon,LONG,8
+2823113,9/17/2016,FBS,Oklahoma,Ohio State,RECEIVING,Mykel,Jones,REC,1
+2823114,9/17/2016,FBS,Oklahoma,Ohio State,RECEIVING,Mykel,Jones,YDS,3
+2823115,9/17/2016,FBS,Oklahoma,Ohio State,RECEIVING,Mykel,Jones,TD,0
+2823116,9/17/2016,FBS,Oklahoma,Ohio State,RECEIVING,Mykel,Jones,LONG,3
+2823117,9/17/2016,FBS,Oklahoma,Ohio State,KICKING,Austin,Seibert,FG-FGA,1/2
+2823118,9/17/2016,FBS,Oklahoma,Ohio State,KICKING,Austin,Seibert,LONG,26
+2823119,9/17/2016,FBS,Oklahoma,Ohio State,KICKING,Austin,Seibert,XP,3
+2823120,9/17/2016,FBS,Oklahoma,Ohio State,KICKING,Austin,Seibert,PTS,6
+2823121,9/17/2016,FBS,Oklahoma,Ohio State,PUNTING,Austin,Seibert,NO,3
+2823122,9/17/2016,FBS,Oklahoma,Ohio State,PUNTING,Austin,Seibert,YDS,111
+2823123,9/17/2016,FBS,Oklahoma,Ohio State,PUNTING,Austin,Seibert,AVG,37.0
+2823124,9/17/2016,FBS,Oklahoma,Ohio State,PUNTING,Austin,Seibert,LONG,45
+2823125,9/17/2016,FBS,Oklahoma,Ohio State,PUNT RETURNS,Joe,Mixon,NO,0
+2823126,9/17/2016,FBS,Oklahoma,Ohio State,PUNT RETURNS,Joe,Mixon,YDS,0
+2823127,9/17/2016,FBS,Oklahoma,Ohio State,PUNT RETURNS,Joe,Mixon,AVG,-
+2823128,9/17/2016,FBS,Oklahoma,Ohio State,PUNT RETURNS,Joe,Mixon,LONG,0
+2823129,9/17/2016,FBS,Oklahoma,Ohio State,KICK RETURNS,Joe,Mixon,NO,3
+2823130,9/17/2016,FBS,Oklahoma,Ohio State,KICK RETURNS,Joe,Mixon,YDS,132
+2823131,9/17/2016,FBS,Oklahoma,Ohio State,KICK RETURNS,Joe,Mixon,AVG,44.0
+2823132,9/17/2016,FBS,Oklahoma,Ohio State,KICK RETURNS,Joe,Mixon,LONG,97

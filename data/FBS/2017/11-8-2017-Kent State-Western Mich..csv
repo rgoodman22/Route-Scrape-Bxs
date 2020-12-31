@@ -1,0 +1,165 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+4148001,11/8/2017,FBS,Kent State,Western Mich.,RUSHING,Dustin,Crum,ATT,3
+4148002,11/8/2017,FBS,Kent State,Western Mich.,RUSHING,Dustin,Crum,YDS,80
+4148003,11/8/2017,FBS,Kent State,Western Mich.,RUSHING,Dustin,Crum,TD,1
+4148004,11/8/2017,FBS,Kent State,Western Mich.,RUSHING,Dustin,Crum,LONG,58
+4148005,11/8/2017,FBS,Kent State,Western Mich.,RUSHING,Justin,Rankin,ATT,14
+4148006,11/8/2017,FBS,Kent State,Western Mich.,RUSHING,Justin,Rankin,YDS,67
+4148007,11/8/2017,FBS,Kent State,Western Mich.,RUSHING,Justin,Rankin,TD,2
+4148008,11/8/2017,FBS,Kent State,Western Mich.,RUSHING,Justin,Rankin,LONG,21
+4148009,11/8/2017,FBS,Kent State,Western Mich.,RUSHING,George,Bollas,ATT,11
+4148010,11/8/2017,FBS,Kent State,Western Mich.,RUSHING,George,Bollas,YDS,20
+4148011,11/8/2017,FBS,Kent State,Western Mich.,RUSHING,George,Bollas,TD,0
+4148012,11/8/2017,FBS,Kent State,Western Mich.,RUSHING,George,Bollas,LONG,21
+4148013,11/8/2017,FBS,Kent State,Western Mich.,RUSHING,Kesean,Gamble,ATT,7
+4148014,11/8/2017,FBS,Kent State,Western Mich.,RUSHING,Kesean,Gamble,YDS,14
+4148015,11/8/2017,FBS,Kent State,Western Mich.,RUSHING,Kesean,Gamble,TD,0
+4148016,11/8/2017,FBS,Kent State,Western Mich.,RUSHING,Kesean,Gamble,LONG,7
+4148017,11/8/2017,FBS,Kent State,Western Mich.,RUSHING,Derek,Adams,ATT,1
+4148018,11/8/2017,FBS,Kent State,Western Mich.,RUSHING,Derek,Adams,YDS,-4
+4148019,11/8/2017,FBS,Kent State,Western Mich.,RUSHING,Derek,Adams,TD,0
+4148020,11/8/2017,FBS,Kent State,Western Mich.,RUSHING,Derek,Adams,LONG,-4
+4148021,11/8/2017,FBS,Kent State,Western Mich.,RUSHING,,Team,ATT,1
+4148022,11/8/2017,FBS,Kent State,Western Mich.,RUSHING,,Team,YDS,-15
+4148023,11/8/2017,FBS,Kent State,Western Mich.,RUSHING,,Team,TD,0
+4148024,11/8/2017,FBS,Kent State,Western Mich.,RUSHING,,Team,LONG,-15
+4148025,11/8/2017,FBS,Kent State,Western Mich.,PASSING,George,Bollas,CP-ATT-INT,11-22-2
+4148026,11/8/2017,FBS,Kent State,Western Mich.,PASSING,George,Bollas,YDS,102
+4148027,11/8/2017,FBS,Kent State,Western Mich.,PASSING,George,Bollas,TD,0
+4148028,11/8/2017,FBS,Kent State,Western Mich.,PASSING,George,Bollas,LONG,42
+4148029,11/8/2017,FBS,Kent State,Western Mich.,PASSING,Dustin,Crum,CP-ATT-INT,2-2-0
+4148030,11/8/2017,FBS,Kent State,Western Mich.,PASSING,Dustin,Crum,YDS,17
+4148031,11/8/2017,FBS,Kent State,Western Mich.,PASSING,Dustin,Crum,TD,0
+4148032,11/8/2017,FBS,Kent State,Western Mich.,PASSING,Dustin,Crum,LONG,12
+4148033,11/8/2017,FBS,Kent State,Western Mich.,RECEIVING,Mike,Carrigan,REC,1
+4148034,11/8/2017,FBS,Kent State,Western Mich.,RECEIVING,Mike,Carrigan,YDS,42
+4148035,11/8/2017,FBS,Kent State,Western Mich.,RECEIVING,Mike,Carrigan,TD,0
+4148036,11/8/2017,FBS,Kent State,Western Mich.,RECEIVING,Mike,Carrigan,LONG,42
+4148037,11/8/2017,FBS,Kent State,Western Mich.,RECEIVING,Chalfonte,Butler,REC,2
+4148038,11/8/2017,FBS,Kent State,Western Mich.,RECEIVING,Chalfonte,Butler,YDS,22
+4148039,11/8/2017,FBS,Kent State,Western Mich.,RECEIVING,Chalfonte,Butler,TD,0
+4148040,11/8/2017,FBS,Kent State,Western Mich.,RECEIVING,Chalfonte,Butler,LONG,14
+4148041,11/8/2017,FBS,Kent State,Western Mich.,RECEIVING,Justin,Rankin,REC,5
+4148042,11/8/2017,FBS,Kent State,Western Mich.,RECEIVING,Justin,Rankin,YDS,18
+4148043,11/8/2017,FBS,Kent State,Western Mich.,RECEIVING,Justin,Rankin,TD,0
+4148044,11/8/2017,FBS,Kent State,Western Mich.,RECEIVING,Justin,Rankin,LONG,12
+4148045,11/8/2017,FBS,Kent State,Western Mich.,RECEIVING,Raekwon,James,REC,1
+4148046,11/8/2017,FBS,Kent State,Western Mich.,RECEIVING,Raekwon,James,YDS,13
+4148047,11/8/2017,FBS,Kent State,Western Mich.,RECEIVING,Raekwon,James,TD,0
+4148048,11/8/2017,FBS,Kent State,Western Mich.,RECEIVING,Raekwon,James,LONG,13
+4148049,11/8/2017,FBS,Kent State,Western Mich.,RECEIVING,James,Alexander,REC,1
+4148050,11/8/2017,FBS,Kent State,Western Mich.,RECEIVING,James,Alexander,YDS,13
+4148051,11/8/2017,FBS,Kent State,Western Mich.,RECEIVING,James,Alexander,TD,0
+4148052,11/8/2017,FBS,Kent State,Western Mich.,RECEIVING,James,Alexander,LONG,13
+4148053,11/8/2017,FBS,Kent State,Western Mich.,RECEIVING,Conor,Brumfield,REC,1
+4148054,11/8/2017,FBS,Kent State,Western Mich.,RECEIVING,Conor,Brumfield,YDS,5
+4148055,11/8/2017,FBS,Kent State,Western Mich.,RECEIVING,Conor,Brumfield,TD,0
+4148056,11/8/2017,FBS,Kent State,Western Mich.,RECEIVING,Conor,Brumfield,LONG,5
+4148057,11/8/2017,FBS,Kent State,Western Mich.,RECEIVING,Kavious,Price,REC,1
+4148058,11/8/2017,FBS,Kent State,Western Mich.,RECEIVING,Kavious,Price,YDS,5
+4148059,11/8/2017,FBS,Kent State,Western Mich.,RECEIVING,Kavious,Price,TD,0
+4148060,11/8/2017,FBS,Kent State,Western Mich.,RECEIVING,Kavious,Price,LONG,5
+4148061,11/8/2017,FBS,Kent State,Western Mich.,RECEIVING,Trey,Harrell,REC,1
+4148062,11/8/2017,FBS,Kent State,Western Mich.,RECEIVING,Trey,Harrell,YDS,1
+4148063,11/8/2017,FBS,Kent State,Western Mich.,RECEIVING,Trey,Harrell,TD,0
+4148064,11/8/2017,FBS,Kent State,Western Mich.,RECEIVING,Trey,Harrell,LONG,1
+4148065,11/8/2017,FBS,Kent State,Western Mich.,KICKING,Shane,Hynes,FG-FGA,0/0
+4148066,11/8/2017,FBS,Kent State,Western Mich.,KICKING,Shane,Hynes,LONG,-
+4148067,11/8/2017,FBS,Kent State,Western Mich.,KICKING,Shane,Hynes,XP,2
+4148068,11/8/2017,FBS,Kent State,Western Mich.,KICKING,Shane,Hynes,PTS,2
+4148069,11/8/2017,FBS,Kent State,Western Mich.,PUNTING,Derek,Adams,NO,7
+4148070,11/8/2017,FBS,Kent State,Western Mich.,PUNTING,Derek,Adams,YDS,278
+4148071,11/8/2017,FBS,Kent State,Western Mich.,PUNTING,Derek,Adams,AVG,39.7
+4148072,11/8/2017,FBS,Kent State,Western Mich.,PUNTING,Derek,Adams,LONG,51
+4148073,11/8/2017,FBS,Kent State,Western Mich.,PUNTING,George,Bollas,NO,2
+4148074,11/8/2017,FBS,Kent State,Western Mich.,PUNTING,George,Bollas,YDS,58
+4148075,11/8/2017,FBS,Kent State,Western Mich.,PUNTING,George,Bollas,AVG,29.0
+4148076,11/8/2017,FBS,Kent State,Western Mich.,PUNTING,George,Bollas,LONG,39
+4148077,11/8/2017,FBS,Kent State,Western Mich.,PUNT RETURNS,Raekwon,James,NO,2
+4148078,11/8/2017,FBS,Kent State,Western Mich.,PUNT RETURNS,Raekwon,James,YDS,16
+4148079,11/8/2017,FBS,Kent State,Western Mich.,PUNT RETURNS,Raekwon,James,AVG,8.0
+4148080,11/8/2017,FBS,Kent State,Western Mich.,PUNT RETURNS,Raekwon,James,LONG,13
+4148081,11/8/2017,FBS,Kent State,Western Mich.,PUNT RETURNS,Mike,Carrigan,NO,1
+4148082,11/8/2017,FBS,Kent State,Western Mich.,PUNT RETURNS,Mike,Carrigan,YDS,2
+4148083,11/8/2017,FBS,Kent State,Western Mich.,PUNT RETURNS,Mike,Carrigan,AVG,2.0
+4148084,11/8/2017,FBS,Kent State,Western Mich.,PUNT RETURNS,Mike,Carrigan,LONG,2
+4148085,11/8/2017,FBS,Kent State,Western Mich.,KICK RETURNS,Jamal,Parker,NO,3
+4148086,11/8/2017,FBS,Kent State,Western Mich.,KICK RETURNS,Jamal,Parker,YDS,54
+4148087,11/8/2017,FBS,Kent State,Western Mich.,KICK RETURNS,Jamal,Parker,AVG,18.0
+4148088,11/8/2017,FBS,Kent State,Western Mich.,KICK RETURNS,Jamal,Parker,LONG,22
+4148089,11/8/2017,FBS,Kent State,Western Mich.,KICK RETURNS,Raekwon,James,NO,2
+4148090,11/8/2017,FBS,Kent State,Western Mich.,KICK RETURNS,Raekwon,James,YDS,46
+4148091,11/8/2017,FBS,Kent State,Western Mich.,KICK RETURNS,Raekwon,James,AVG,23.0
+4148092,11/8/2017,FBS,Kent State,Western Mich.,KICK RETURNS,Raekwon,James,LONG,25
+4148093,11/8/2017,FBS,Kent State,Western Mich.,KICK RETURNS,Mike,Carrigan,NO,2
+4148094,11/8/2017,FBS,Kent State,Western Mich.,KICK RETURNS,Mike,Carrigan,YDS,37
+4148095,11/8/2017,FBS,Kent State,Western Mich.,KICK RETURNS,Mike,Carrigan,AVG,18.5
+4148096,11/8/2017,FBS,Kent State,Western Mich.,KICK RETURNS,Mike,Carrigan,LONG,20
+4148097,11/8/2017,FBS,Kent State,Western Mich.,KICK RETURNS,Kavious,Price,NO,1
+4148098,11/8/2017,FBS,Kent State,Western Mich.,KICK RETURNS,Kavious,Price,YDS,13
+4148099,11/8/2017,FBS,Kent State,Western Mich.,KICK RETURNS,Kavious,Price,AVG,13.0
+4148100,11/8/2017,FBS,Kent State,Western Mich.,KICK RETURNS,Kavious,Price,LONG,13
+4148101,11/8/2017,FBS,Western Mich.,Kent State,RUSHING,Jarvion,Franklin,ATT,22
+4148102,11/8/2017,FBS,Western Mich.,Kent State,RUSHING,Jarvion,Franklin,YDS,191
+4148103,11/8/2017,FBS,Western Mich.,Kent State,RUSHING,Jarvion,Franklin,TD,1
+4148104,11/8/2017,FBS,Western Mich.,Kent State,RUSHING,Jarvion,Franklin,LONG,72
+4148105,11/8/2017,FBS,Western Mich.,Kent State,RUSHING,Ra'Sean,Davie,ATT,5
+4148106,11/8/2017,FBS,Western Mich.,Kent State,RUSHING,Ra'Sean,Davie,YDS,56
+4148107,11/8/2017,FBS,Western Mich.,Kent State,RUSHING,Ra'Sean,Davie,TD,1
+4148108,11/8/2017,FBS,Western Mich.,Kent State,RUSHING,Ra'Sean,Davie,LONG,46
+4148109,11/8/2017,FBS,Western Mich.,Kent State,RUSHING,Matt,Falcon,ATT,10
+4148110,11/8/2017,FBS,Western Mich.,Kent State,RUSHING,Matt,Falcon,YDS,37
+4148111,11/8/2017,FBS,Western Mich.,Kent State,RUSHING,Matt,Falcon,TD,0
+4148112,11/8/2017,FBS,Western Mich.,Kent State,RUSHING,Matt,Falcon,LONG,33
+4148113,11/8/2017,FBS,Western Mich.,Kent State,RUSHING,Reece,Goddard,ATT,13
+4148114,11/8/2017,FBS,Western Mich.,Kent State,RUSHING,Reece,Goddard,YDS,8
+4148115,11/8/2017,FBS,Western Mich.,Kent State,RUSHING,Reece,Goddard,TD,1
+4148116,11/8/2017,FBS,Western Mich.,Kent State,RUSHING,Reece,Goddard,LONG,10
+4148117,11/8/2017,FBS,Western Mich.,Kent State,PASSING,Reece,Goddard,CP-ATT-INT,8-19-0
+4148118,11/8/2017,FBS,Western Mich.,Kent State,PASSING,Reece,Goddard,YDS,97
+4148119,11/8/2017,FBS,Western Mich.,Kent State,PASSING,Reece,Goddard,TD,0
+4148120,11/8/2017,FBS,Western Mich.,Kent State,PASSING,Reece,Goddard,LONG,20
+4148121,11/8/2017,FBS,Western Mich.,Kent State,RECEIVING,Keishawn,Watson,REC,3
+4148122,11/8/2017,FBS,Western Mich.,Kent State,RECEIVING,Keishawn,Watson,YDS,33
+4148123,11/8/2017,FBS,Western Mich.,Kent State,RECEIVING,Keishawn,Watson,TD,0
+4148124,11/8/2017,FBS,Western Mich.,Kent State,RECEIVING,Keishawn,Watson,LONG,12
+4148125,11/8/2017,FBS,Western Mich.,Kent State,RECEIVING,Anton,Curtis,REC,2
+4148126,11/8/2017,FBS,Western Mich.,Kent State,RECEIVING,Anton,Curtis,YDS,29
+4148127,11/8/2017,FBS,Western Mich.,Kent State,RECEIVING,Anton,Curtis,TD,0
+4148128,11/8/2017,FBS,Western Mich.,Kent State,RECEIVING,Anton,Curtis,LONG,20
+4148129,11/8/2017,FBS,Western Mich.,Kent State,RECEIVING,Luke,Sanders,REC,1
+4148130,11/8/2017,FBS,Western Mich.,Kent State,RECEIVING,Luke,Sanders,YDS,13
+4148131,11/8/2017,FBS,Western Mich.,Kent State,RECEIVING,Luke,Sanders,TD,0
+4148132,11/8/2017,FBS,Western Mich.,Kent State,RECEIVING,Luke,Sanders,LONG,13
+4148133,11/8/2017,FBS,Western Mich.,Kent State,RECEIVING,D'Wayne,Eskridge,REC,1
+4148134,11/8/2017,FBS,Western Mich.,Kent State,RECEIVING,D'Wayne,Eskridge,YDS,12
+4148135,11/8/2017,FBS,Western Mich.,Kent State,RECEIVING,D'Wayne,Eskridge,TD,0
+4148136,11/8/2017,FBS,Western Mich.,Kent State,RECEIVING,D'Wayne,Eskridge,LONG,12
+4148137,11/8/2017,FBS,Western Mich.,Kent State,RECEIVING,Donnie,Ernsberger,REC,1
+4148138,11/8/2017,FBS,Western Mich.,Kent State,RECEIVING,Donnie,Ernsberger,YDS,10
+4148139,11/8/2017,FBS,Western Mich.,Kent State,RECEIVING,Donnie,Ernsberger,TD,0
+4148140,11/8/2017,FBS,Western Mich.,Kent State,RECEIVING,Donnie,Ernsberger,LONG,10
+4148141,11/8/2017,FBS,Western Mich.,Kent State,KICKING,Josh,Grant,FG-FGA,2/3
+4148142,11/8/2017,FBS,Western Mich.,Kent State,KICKING,Josh,Grant,LONG,42
+4148143,11/8/2017,FBS,Western Mich.,Kent State,KICKING,Josh,Grant,XP,5
+4148144,11/8/2017,FBS,Western Mich.,Kent State,KICKING,Josh,Grant,PTS,11
+4148145,11/8/2017,FBS,Western Mich.,Kent State,KICKING,Austin,Regan,FG-FGA,0/0
+4148146,11/8/2017,FBS,Western Mich.,Kent State,KICKING,Austin,Regan,LONG,-
+4148147,11/8/2017,FBS,Western Mich.,Kent State,KICKING,Austin,Regan,XP,1
+4148148,11/8/2017,FBS,Western Mich.,Kent State,KICKING,Austin,Regan,PTS,1
+4148149,11/8/2017,FBS,Western Mich.,Kent State,PUNTING,Derrick,Mitchell,NO,7
+4148150,11/8/2017,FBS,Western Mich.,Kent State,PUNTING,Derrick,Mitchell,YDS,318
+4148151,11/8/2017,FBS,Western Mich.,Kent State,PUNTING,Derrick,Mitchell,AVG,45.4
+4148152,11/8/2017,FBS,Western Mich.,Kent State,PUNTING,Derrick,Mitchell,LONG,61
+4148153,11/8/2017,FBS,Western Mich.,Kent State,PUNT RETURNS,Darius,Phillips,NO,2
+4148154,11/8/2017,FBS,Western Mich.,Kent State,PUNT RETURNS,Darius,Phillips,YDS,-1
+4148155,11/8/2017,FBS,Western Mich.,Kent State,PUNT RETURNS,Darius,Phillips,AVG,-
+4148156,11/8/2017,FBS,Western Mich.,Kent State,PUNT RETURNS,Darius,Phillips,LONG,0
+4148157,11/8/2017,FBS,Western Mich.,Kent State,KICK RETURNS,Darius,Phillips,NO,3
+4148158,11/8/2017,FBS,Western Mich.,Kent State,KICK RETURNS,Darius,Phillips,YDS,62
+4148159,11/8/2017,FBS,Western Mich.,Kent State,KICK RETURNS,Darius,Phillips,AVG,20.7
+4148160,11/8/2017,FBS,Western Mich.,Kent State,KICK RETURNS,Darius,Phillips,LONG,26
+4148161,11/8/2017,FBS,Western Mich.,Kent State,KICK RETURNS,Keishawn,Watson,NO,0
+4148162,11/8/2017,FBS,Western Mich.,Kent State,KICK RETURNS,Keishawn,Watson,YDS,0
+4148163,11/8/2017,FBS,Western Mich.,Kent State,KICK RETURNS,Keishawn,Watson,AVG,-
+4148164,11/8/2017,FBS,Western Mich.,Kent State,KICK RETURNS,Keishawn,Watson,LONG,0

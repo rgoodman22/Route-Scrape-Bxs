@@ -1,0 +1,149 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3456001,12/3/2016,FBS,Georgia State,Idaho,RUSHING,Kyler,Neal,ATT,15
+3456002,12/3/2016,FBS,Georgia State,Idaho,RUSHING,Kyler,Neal,YDS,46
+3456003,12/3/2016,FBS,Georgia State,Idaho,RUSHING,Kyler,Neal,TD,0
+3456004,12/3/2016,FBS,Georgia State,Idaho,RUSHING,Kyler,Neal,LONG,9
+3456005,12/3/2016,FBS,Georgia State,Idaho,RUSHING,Conner,Manning,ATT,4
+3456006,12/3/2016,FBS,Georgia State,Idaho,RUSHING,Conner,Manning,YDS,30
+3456007,12/3/2016,FBS,Georgia State,Idaho,RUSHING,Conner,Manning,TD,0
+3456008,12/3/2016,FBS,Georgia State,Idaho,RUSHING,Conner,Manning,LONG,11
+3456009,12/3/2016,FBS,Georgia State,Idaho,RUSHING,Aaron,Winchester,ATT,1
+3456010,12/3/2016,FBS,Georgia State,Idaho,RUSHING,Aaron,Winchester,YDS,7
+3456011,12/3/2016,FBS,Georgia State,Idaho,RUSHING,Aaron,Winchester,TD,0
+3456012,12/3/2016,FBS,Georgia State,Idaho,RUSHING,Aaron,Winchester,LONG,7
+3456013,12/3/2016,FBS,Georgia State,Idaho,RUSHING,Tra,Barnett,ATT,1
+3456014,12/3/2016,FBS,Georgia State,Idaho,RUSHING,Tra,Barnett,YDS,7
+3456015,12/3/2016,FBS,Georgia State,Idaho,RUSHING,Tra,Barnett,TD,0
+3456016,12/3/2016,FBS,Georgia State,Idaho,RUSHING,Tra,Barnett,LONG,7
+3456017,12/3/2016,FBS,Georgia State,Idaho,RUSHING,Glenn,Smith,ATT,2
+3456018,12/3/2016,FBS,Georgia State,Idaho,RUSHING,Glenn,Smith,YDS,2
+3456019,12/3/2016,FBS,Georgia State,Idaho,RUSHING,Glenn,Smith,TD,0
+3456020,12/3/2016,FBS,Georgia State,Idaho,RUSHING,Glenn,Smith,LONG,2
+3456021,12/3/2016,FBS,Georgia State,Idaho,RUSHING,Darius,Stubbs,ATT,1
+3456022,12/3/2016,FBS,Georgia State,Idaho,RUSHING,Darius,Stubbs,YDS,0
+3456023,12/3/2016,FBS,Georgia State,Idaho,RUSHING,Darius,Stubbs,TD,0
+3456024,12/3/2016,FBS,Georgia State,Idaho,RUSHING,Darius,Stubbs,LONG,0
+3456025,12/3/2016,FBS,Georgia State,Idaho,PASSING,Conner,Manning,CP-ATT-INT,22-37-4
+3456026,12/3/2016,FBS,Georgia State,Idaho,PASSING,Conner,Manning,YDS,266
+3456027,12/3/2016,FBS,Georgia State,Idaho,PASSING,Conner,Manning,TD,2
+3456028,12/3/2016,FBS,Georgia State,Idaho,PASSING,Conner,Manning,LONG,63
+3456029,12/3/2016,FBS,Georgia State,Idaho,RECEIVING,Robert,Davis,REC,9
+3456030,12/3/2016,FBS,Georgia State,Idaho,RECEIVING,Robert,Davis,YDS,112
+3456031,12/3/2016,FBS,Georgia State,Idaho,RECEIVING,Robert,Davis,TD,0
+3456032,12/3/2016,FBS,Georgia State,Idaho,RECEIVING,Robert,Davis,LONG,26
+3456033,12/3/2016,FBS,Georgia State,Idaho,RECEIVING,Jawan,Nobles,REC,4
+3456034,12/3/2016,FBS,Georgia State,Idaho,RECEIVING,Jawan,Nobles,YDS,76
+3456035,12/3/2016,FBS,Georgia State,Idaho,RECEIVING,Jawan,Nobles,TD,1
+3456036,12/3/2016,FBS,Georgia State,Idaho,RECEIVING,Jawan,Nobles,LONG,63
+3456037,12/3/2016,FBS,Georgia State,Idaho,RECEIVING,Ari,Werts,REC,4
+3456038,12/3/2016,FBS,Georgia State,Idaho,RECEIVING,Ari,Werts,YDS,42
+3456039,12/3/2016,FBS,Georgia State,Idaho,RECEIVING,Ari,Werts,TD,1
+3456040,12/3/2016,FBS,Georgia State,Idaho,RECEIVING,Ari,Werts,LONG,19
+3456041,12/3/2016,FBS,Georgia State,Idaho,RECEIVING,Glenn,Smith,REC,4
+3456042,12/3/2016,FBS,Georgia State,Idaho,RECEIVING,Glenn,Smith,YDS,19
+3456043,12/3/2016,FBS,Georgia State,Idaho,RECEIVING,Glenn,Smith,TD,0
+3456044,12/3/2016,FBS,Georgia State,Idaho,RECEIVING,Glenn,Smith,LONG,6
+3456045,12/3/2016,FBS,Georgia State,Idaho,RECEIVING,Keith,Rucker,REC,1
+3456046,12/3/2016,FBS,Georgia State,Idaho,RECEIVING,Keith,Rucker,YDS,17
+3456047,12/3/2016,FBS,Georgia State,Idaho,RECEIVING,Keith,Rucker,TD,0
+3456048,12/3/2016,FBS,Georgia State,Idaho,RECEIVING,Keith,Rucker,LONG,17
+3456049,12/3/2016,FBS,Georgia State,Idaho,KICKING,Brandon,Wright,FG-FGA,0/1
+3456050,12/3/2016,FBS,Georgia State,Idaho,KICKING,Brandon,Wright,LONG,0
+3456051,12/3/2016,FBS,Georgia State,Idaho,KICKING,Brandon,Wright,XP,0
+3456052,12/3/2016,FBS,Georgia State,Idaho,KICKING,Brandon,Wright,PTS,0
+3456053,12/3/2016,FBS,Georgia State,Idaho,KICKING,Rogier,TenLohuis,FG-FGA,0/0
+3456054,12/3/2016,FBS,Georgia State,Idaho,KICKING,Rogier,TenLohuis,LONG,-
+3456055,12/3/2016,FBS,Georgia State,Idaho,KICKING,Rogier,TenLohuis,XP,0
+3456056,12/3/2016,FBS,Georgia State,Idaho,KICKING,Rogier,TenLohuis,PTS,0
+3456057,12/3/2016,FBS,Georgia State,Idaho,PUNTING,Brandon,Wright,NO,2
+3456058,12/3/2016,FBS,Georgia State,Idaho,PUNTING,Brandon,Wright,YDS,83
+3456059,12/3/2016,FBS,Georgia State,Idaho,PUNTING,Brandon,Wright,AVG,27.7
+3456060,12/3/2016,FBS,Georgia State,Idaho,PUNTING,Brandon,Wright,LONG,43
+3456061,12/3/2016,FBS,Georgia State,Idaho,PUNT RETURNS,Cederic,Stone,NO,1
+3456062,12/3/2016,FBS,Georgia State,Idaho,PUNT RETURNS,Cederic,Stone,YDS,0
+3456063,12/3/2016,FBS,Georgia State,Idaho,PUNT RETURNS,Cederic,Stone,AVG,-
+3456064,12/3/2016,FBS,Georgia State,Idaho,PUNT RETURNS,Cederic,Stone,LONG,0
+3456065,12/3/2016,FBS,Georgia State,Idaho,KICK RETURNS,Tra,Barnett,NO,4
+3456066,12/3/2016,FBS,Georgia State,Idaho,KICK RETURNS,Tra,Barnett,YDS,79
+3456067,12/3/2016,FBS,Georgia State,Idaho,KICK RETURNS,Tra,Barnett,AVG,19.8
+3456068,12/3/2016,FBS,Georgia State,Idaho,KICK RETURNS,Tra,Barnett,LONG,29
+3456069,12/3/2016,FBS,Idaho,Georgia State,RUSHING,Isaiah,Saunders,ATT,22
+3456070,12/3/2016,FBS,Idaho,Georgia State,RUSHING,Isaiah,Saunders,YDS,99
+3456071,12/3/2016,FBS,Idaho,Georgia State,RUSHING,Isaiah,Saunders,TD,0
+3456072,12/3/2016,FBS,Idaho,Georgia State,RUSHING,Isaiah,Saunders,LONG,13
+3456073,12/3/2016,FBS,Idaho,Georgia State,RUSHING,Aaron,Duckworth,ATT,9
+3456074,12/3/2016,FBS,Idaho,Georgia State,RUSHING,Aaron,Duckworth,YDS,43
+3456075,12/3/2016,FBS,Idaho,Georgia State,RUSHING,Aaron,Duckworth,TD,0
+3456076,12/3/2016,FBS,Idaho,Georgia State,RUSHING,Aaron,Duckworth,LONG,13
+3456077,12/3/2016,FBS,Idaho,Georgia State,RUSHING,Matt,Linehan,ATT,8
+3456078,12/3/2016,FBS,Idaho,Georgia State,RUSHING,Matt,Linehan,YDS,5
+3456079,12/3/2016,FBS,Idaho,Georgia State,RUSHING,Matt,Linehan,TD,0
+3456080,12/3/2016,FBS,Idaho,Georgia State,RUSHING,Matt,Linehan,LONG,16
+3456081,12/3/2016,FBS,Idaho,Georgia State,RUSHING,Tueni,Lupeamanu,ATT,2
+3456082,12/3/2016,FBS,Idaho,Georgia State,RUSHING,Tueni,Lupeamanu,YDS,4
+3456083,12/3/2016,FBS,Idaho,Georgia State,RUSHING,Tueni,Lupeamanu,TD,0
+3456084,12/3/2016,FBS,Idaho,Georgia State,RUSHING,Tueni,Lupeamanu,LONG,3
+3456085,12/3/2016,FBS,Idaho,Georgia State,RUSHING,Mason,Petrino,ATT,3
+3456086,12/3/2016,FBS,Idaho,Georgia State,RUSHING,Mason,Petrino,YDS,-1
+3456087,12/3/2016,FBS,Idaho,Georgia State,RUSHING,Mason,Petrino,TD,0
+3456088,12/3/2016,FBS,Idaho,Georgia State,RUSHING,Mason,Petrino,LONG,2
+3456089,12/3/2016,FBS,Idaho,Georgia State,RUSHING,Doug,Coman,ATT,1
+3456090,12/3/2016,FBS,Idaho,Georgia State,RUSHING,Doug,Coman,YDS,-1
+3456091,12/3/2016,FBS,Idaho,Georgia State,RUSHING,Doug,Coman,TD,0
+3456092,12/3/2016,FBS,Idaho,Georgia State,RUSHING,Doug,Coman,LONG,-1
+3456093,12/3/2016,FBS,Idaho,Georgia State,PASSING,Matt,Linehan,CP-ATT-INT,15-19-0
+3456094,12/3/2016,FBS,Idaho,Georgia State,PASSING,Matt,Linehan,YDS,126
+3456095,12/3/2016,FBS,Idaho,Georgia State,PASSING,Matt,Linehan,TD,3
+3456096,12/3/2016,FBS,Idaho,Georgia State,PASSING,Matt,Linehan,LONG,24
+3456097,12/3/2016,FBS,Idaho,Georgia State,PASSING,Mason,Petrino,CP-ATT-INT,1-1-0
+3456098,12/3/2016,FBS,Idaho,Georgia State,PASSING,Mason,Petrino,YDS,12
+3456099,12/3/2016,FBS,Idaho,Georgia State,PASSING,Mason,Petrino,TD,0
+3456100,12/3/2016,FBS,Idaho,Georgia State,PASSING,Mason,Petrino,LONG,12
+3456101,12/3/2016,FBS,Idaho,Georgia State,RECEIVING,Jordan,Frysinger,REC,4
+3456102,12/3/2016,FBS,Idaho,Georgia State,RECEIVING,Jordan,Frysinger,YDS,44
+3456103,12/3/2016,FBS,Idaho,Georgia State,RECEIVING,Jordan,Frysinger,TD,0
+3456104,12/3/2016,FBS,Idaho,Georgia State,RECEIVING,Jordan,Frysinger,LONG,15
+3456105,12/3/2016,FBS,Idaho,Georgia State,RECEIVING,Jacob,Sannon,REC,3
+3456106,12/3/2016,FBS,Idaho,Georgia State,RECEIVING,Jacob,Sannon,YDS,38
+3456107,12/3/2016,FBS,Idaho,Georgia State,RECEIVING,Jacob,Sannon,TD,0
+3456108,12/3/2016,FBS,Idaho,Georgia State,RECEIVING,Jacob,Sannon,LONG,24
+3456109,12/3/2016,FBS,Idaho,Georgia State,RECEIVING,Callen,Hightower,REC,3
+3456110,12/3/2016,FBS,Idaho,Georgia State,RECEIVING,Callen,Hightower,YDS,22
+3456111,12/3/2016,FBS,Idaho,Georgia State,RECEIVING,Callen,Hightower,TD,1
+3456112,12/3/2016,FBS,Idaho,Georgia State,RECEIVING,Callen,Hightower,LONG,11
+3456113,12/3/2016,FBS,Idaho,Georgia State,RECEIVING,Deon,Watson,REC,1
+3456114,12/3/2016,FBS,Idaho,Georgia State,RECEIVING,Deon,Watson,YDS,17
+3456115,12/3/2016,FBS,Idaho,Georgia State,RECEIVING,Deon,Watson,TD,1
+3456116,12/3/2016,FBS,Idaho,Georgia State,RECEIVING,Deon,Watson,LONG,17
+3456117,12/3/2016,FBS,Idaho,Georgia State,RECEIVING,Trent,Cowan,REC,3
+3456118,12/3/2016,FBS,Idaho,Georgia State,RECEIVING,Trent,Cowan,YDS,15
+3456119,12/3/2016,FBS,Idaho,Georgia State,RECEIVING,Trent,Cowan,TD,1
+3456120,12/3/2016,FBS,Idaho,Georgia State,RECEIVING,Trent,Cowan,LONG,6
+3456121,12/3/2016,FBS,Idaho,Georgia State,RECEIVING,Aaron,Duckworth,REC,1
+3456122,12/3/2016,FBS,Idaho,Georgia State,RECEIVING,Aaron,Duckworth,YDS,1
+3456123,12/3/2016,FBS,Idaho,Georgia State,RECEIVING,Aaron,Duckworth,TD,0
+3456124,12/3/2016,FBS,Idaho,Georgia State,RECEIVING,Aaron,Duckworth,LONG,1
+3456125,12/3/2016,FBS,Idaho,Georgia State,RECEIVING,Isaiah,Saunders,REC,1
+3456126,12/3/2016,FBS,Idaho,Georgia State,RECEIVING,Isaiah,Saunders,YDS,1
+3456127,12/3/2016,FBS,Idaho,Georgia State,RECEIVING,Isaiah,Saunders,TD,0
+3456128,12/3/2016,FBS,Idaho,Georgia State,RECEIVING,Isaiah,Saunders,LONG,1
+3456129,12/3/2016,FBS,Idaho,Georgia State,KICKING,Austin,Rehkow,FG-FGA,3/4
+3456130,12/3/2016,FBS,Idaho,Georgia State,KICKING,Austin,Rehkow,LONG,45
+3456131,12/3/2016,FBS,Idaho,Georgia State,KICKING,Austin,Rehkow,XP,4
+3456132,12/3/2016,FBS,Idaho,Georgia State,KICKING,Austin,Rehkow,PTS,13
+3456133,12/3/2016,FBS,Idaho,Georgia State,PUNTING,Austin,Rehkow,NO,3
+3456134,12/3/2016,FBS,Idaho,Georgia State,PUNTING,Austin,Rehkow,YDS,118
+3456135,12/3/2016,FBS,Idaho,Georgia State,PUNTING,Austin,Rehkow,AVG,39.3
+3456136,12/3/2016,FBS,Idaho,Georgia State,PUNTING,Austin,Rehkow,LONG,42
+3456137,12/3/2016,FBS,Idaho,Georgia State,PUNT RETURNS,Alfonso,Onunwor,NO,2
+3456138,12/3/2016,FBS,Idaho,Georgia State,PUNT RETURNS,Alfonso,Onunwor,YDS,40
+3456139,12/3/2016,FBS,Idaho,Georgia State,PUNT RETURNS,Alfonso,Onunwor,AVG,20.0
+3456140,12/3/2016,FBS,Idaho,Georgia State,PUNT RETURNS,Alfonso,Onunwor,LONG,35
+3456141,12/3/2016,FBS,Idaho,Georgia State,PUNT RETURNS,Lloyd,Hightower,NO,1
+3456142,12/3/2016,FBS,Idaho,Georgia State,PUNT RETURNS,Lloyd,Hightower,YDS,33
+3456143,12/3/2016,FBS,Idaho,Georgia State,PUNT RETURNS,Lloyd,Hightower,AVG,33.0
+3456144,12/3/2016,FBS,Idaho,Georgia State,PUNT RETURNS,Lloyd,Hightower,LONG,25
+3456145,12/3/2016,FBS,Idaho,Georgia State,KICK RETURNS,Rueben,Mwehla,NO,2
+3456146,12/3/2016,FBS,Idaho,Georgia State,KICK RETURNS,Rueben,Mwehla,YDS,43
+3456147,12/3/2016,FBS,Idaho,Georgia State,KICK RETURNS,Rueben,Mwehla,AVG,21.5
+3456148,12/3/2016,FBS,Idaho,Georgia State,KICK RETURNS,Rueben,Mwehla,LONG,22

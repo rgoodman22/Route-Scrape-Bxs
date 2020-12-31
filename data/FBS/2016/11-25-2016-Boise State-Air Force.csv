@@ -1,0 +1,109 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3392001,11/25/2016,FBS,Boise State,Air Force,RUSHING,Jeremy,McNichols,ATT,22
+3392002,11/25/2016,FBS,Boise State,Air Force,RUSHING,Jeremy,McNichols,YDS,88
+3392003,11/25/2016,FBS,Boise State,Air Force,RUSHING,Jeremy,McNichols,TD,1
+3392004,11/25/2016,FBS,Boise State,Air Force,RUSHING,Jeremy,McNichols,LONG,56
+3392005,11/25/2016,FBS,Boise State,Air Force,RUSHING,Brett,Rypien,ATT,2
+3392006,11/25/2016,FBS,Boise State,Air Force,RUSHING,Brett,Rypien,YDS,1
+3392007,11/25/2016,FBS,Boise State,Air Force,RUSHING,Brett,Rypien,TD,0
+3392008,11/25/2016,FBS,Boise State,Air Force,RUSHING,Brett,Rypien,LONG,2
+3392009,11/25/2016,FBS,Boise State,Air Force,RUSHING,Thomas,Sperbeck,ATT,1
+3392010,11/25/2016,FBS,Boise State,Air Force,RUSHING,Thomas,Sperbeck,YDS,-5
+3392011,11/25/2016,FBS,Boise State,Air Force,RUSHING,Thomas,Sperbeck,TD,0
+3392012,11/25/2016,FBS,Boise State,Air Force,RUSHING,Thomas,Sperbeck,LONG,-5
+3392013,11/25/2016,FBS,Boise State,Air Force,PASSING,Brett,Rypien,CP-ATT-INT,9-26-0
+3392014,11/25/2016,FBS,Boise State,Air Force,PASSING,Brett,Rypien,YDS,316
+3392015,11/25/2016,FBS,Boise State,Air Force,PASSING,Brett,Rypien,TD,1
+3392016,11/25/2016,FBS,Boise State,Air Force,PASSING,Brett,Rypien,LONG,75
+3392017,11/25/2016,FBS,Boise State,Air Force,RECEIVING,Cedrick,Wilson,REC,4
+3392018,11/25/2016,FBS,Boise State,Air Force,RECEIVING,Cedrick,Wilson,YDS,193
+3392019,11/25/2016,FBS,Boise State,Air Force,RECEIVING,Cedrick,Wilson,TD,1
+3392020,11/25/2016,FBS,Boise State,Air Force,RECEIVING,Cedrick,Wilson,LONG,75
+3392021,11/25/2016,FBS,Boise State,Air Force,RECEIVING,Thomas,Sperbeck,REC,5
+3392022,11/25/2016,FBS,Boise State,Air Force,RECEIVING,Thomas,Sperbeck,YDS,123
+3392023,11/25/2016,FBS,Boise State,Air Force,RECEIVING,Thomas,Sperbeck,TD,0
+3392024,11/25/2016,FBS,Boise State,Air Force,RECEIVING,Thomas,Sperbeck,LONG,47
+3392025,11/25/2016,FBS,Boise State,Air Force,KICKING,Tyler,Rausa,FG-FGA,2/2
+3392026,11/25/2016,FBS,Boise State,Air Force,KICKING,Tyler,Rausa,LONG,31
+3392027,11/25/2016,FBS,Boise State,Air Force,KICKING,Tyler,Rausa,XP,2
+3392028,11/25/2016,FBS,Boise State,Air Force,KICKING,Tyler,Rausa,PTS,8
+3392029,11/25/2016,FBS,Boise State,Air Force,PUNTING,Sean,Wale,NO,6
+3392030,11/25/2016,FBS,Boise State,Air Force,PUNTING,Sean,Wale,YDS,294
+3392031,11/25/2016,FBS,Boise State,Air Force,PUNTING,Sean,Wale,AVG,42.0
+3392032,11/25/2016,FBS,Boise State,Air Force,PUNTING,Sean,Wale,LONG,68
+3392033,11/25/2016,FBS,Boise State,Air Force,PUNT RETURNS,Cedrick,Wilson,NO,2
+3392034,11/25/2016,FBS,Boise State,Air Force,PUNT RETURNS,Cedrick,Wilson,YDS,12
+3392035,11/25/2016,FBS,Boise State,Air Force,PUNT RETURNS,Cedrick,Wilson,AVG,6.0
+3392036,11/25/2016,FBS,Boise State,Air Force,PUNT RETURNS,Cedrick,Wilson,LONG,10
+3392037,11/25/2016,FBS,Boise State,Air Force,KICK RETURNS,Cedrick,Wilson,NO,3
+3392038,11/25/2016,FBS,Boise State,Air Force,KICK RETURNS,Cedrick,Wilson,YDS,50
+3392039,11/25/2016,FBS,Boise State,Air Force,KICK RETURNS,Cedrick,Wilson,AVG,16.7
+3392040,11/25/2016,FBS,Boise State,Air Force,KICK RETURNS,Cedrick,Wilson,LONG,20
+3392041,11/25/2016,FBS,Air Force,Boise State,RUSHING,Arion,Worthman,ATT,26
+3392042,11/25/2016,FBS,Air Force,Boise State,RUSHING,Arion,Worthman,YDS,80
+3392043,11/25/2016,FBS,Air Force,Boise State,RUSHING,Arion,Worthman,TD,0
+3392044,11/25/2016,FBS,Air Force,Boise State,RUSHING,Arion,Worthman,LONG,23
+3392045,11/25/2016,FBS,Air Force,Boise State,RUSHING,DJ,Johnson,ATT,17
+3392046,11/25/2016,FBS,Air Force,Boise State,RUSHING,DJ,Johnson,YDS,73
+3392047,11/25/2016,FBS,Air Force,Boise State,RUSHING,DJ,Johnson,TD,1
+3392048,11/25/2016,FBS,Air Force,Boise State,RUSHING,DJ,Johnson,LONG,9
+3392049,11/25/2016,FBS,Air Force,Boise State,RUSHING,Timothy,McVey,ATT,8
+3392050,11/25/2016,FBS,Air Force,Boise State,RUSHING,Timothy,McVey,YDS,61
+3392051,11/25/2016,FBS,Air Force,Boise State,RUSHING,Timothy,McVey,TD,0
+3392052,11/25/2016,FBS,Air Force,Boise State,RUSHING,Timothy,McVey,LONG,18
+3392053,11/25/2016,FBS,Air Force,Boise State,RUSHING,Jacobi,Owens,ATT,12
+3392054,11/25/2016,FBS,Air Force,Boise State,RUSHING,Jacobi,Owens,YDS,48
+3392055,11/25/2016,FBS,Air Force,Boise State,RUSHING,Jacobi,Owens,TD,0
+3392056,11/25/2016,FBS,Air Force,Boise State,RUSHING,Jacobi,Owens,LONG,12
+3392057,11/25/2016,FBS,Air Force,Boise State,RUSHING,Shayne,Davern,ATT,8
+3392058,11/25/2016,FBS,Air Force,Boise State,RUSHING,Shayne,Davern,YDS,38
+3392059,11/25/2016,FBS,Air Force,Boise State,RUSHING,Shayne,Davern,TD,1
+3392060,11/25/2016,FBS,Air Force,Boise State,RUSHING,Shayne,Davern,LONG,8
+3392061,11/25/2016,FBS,Air Force,Boise State,RUSHING,Ronald,Cleveland,ATT,3
+3392062,11/25/2016,FBS,Air Force,Boise State,RUSHING,Ronald,Cleveland,YDS,14
+3392063,11/25/2016,FBS,Air Force,Boise State,RUSHING,Ronald,Cleveland,TD,0
+3392064,11/25/2016,FBS,Air Force,Boise State,RUSHING,Ronald,Cleveland,LONG,7
+3392065,11/25/2016,FBS,Air Force,Boise State,RUSHING,Tyler,Williams,ATT,1
+3392066,11/25/2016,FBS,Air Force,Boise State,RUSHING,Tyler,Williams,YDS,3
+3392067,11/25/2016,FBS,Air Force,Boise State,RUSHING,Tyler,Williams,TD,0
+3392068,11/25/2016,FBS,Air Force,Boise State,RUSHING,Tyler,Williams,LONG,3
+3392069,11/25/2016,FBS,Air Force,Boise State,RUSHING,,Team,ATT,2
+3392070,11/25/2016,FBS,Air Force,Boise State,RUSHING,,Team,YDS,-3
+3392071,11/25/2016,FBS,Air Force,Boise State,RUSHING,,Team,TD,0
+3392072,11/25/2016,FBS,Air Force,Boise State,RUSHING,,Team,LONG,-1
+3392073,11/25/2016,FBS,Air Force,Boise State,PASSING,Arion,Worthman,CP-ATT-INT,3-5-0
+3392074,11/25/2016,FBS,Air Force,Boise State,PASSING,Arion,Worthman,YDS,45
+3392075,11/25/2016,FBS,Air Force,Boise State,PASSING,Arion,Worthman,TD,0
+3392076,11/25/2016,FBS,Air Force,Boise State,PASSING,Arion,Worthman,LONG,34
+3392077,11/25/2016,FBS,Air Force,Boise State,PASSING,Tyler,Williams,CP-ATT-INT,0-1-1
+3392078,11/25/2016,FBS,Air Force,Boise State,PASSING,Tyler,Williams,YDS,0
+3392079,11/25/2016,FBS,Air Force,Boise State,PASSING,Tyler,Williams,TD,0
+3392080,11/25/2016,FBS,Air Force,Boise State,PASSING,Tyler,Williams,LONG,0
+3392081,11/25/2016,FBS,Air Force,Boise State,RECEIVING,Jalen,Robinette,REC,3
+3392082,11/25/2016,FBS,Air Force,Boise State,RECEIVING,Jalen,Robinette,YDS,45
+3392083,11/25/2016,FBS,Air Force,Boise State,RECEIVING,Jalen,Robinette,TD,0
+3392084,11/25/2016,FBS,Air Force,Boise State,RECEIVING,Jalen,Robinette,LONG,34
+3392085,11/25/2016,FBS,Air Force,Boise State,KICKING,Luke,Strebel,FG-FGA,2/2
+3392086,11/25/2016,FBS,Air Force,Boise State,KICKING,Luke,Strebel,LONG,36
+3392087,11/25/2016,FBS,Air Force,Boise State,KICKING,Luke,Strebel,XP,3
+3392088,11/25/2016,FBS,Air Force,Boise State,KICKING,Luke,Strebel,PTS,9
+3392089,11/25/2016,FBS,Air Force,Boise State,PUNTING,Steve,Brosy,NO,5
+3392090,11/25/2016,FBS,Air Force,Boise State,PUNTING,Steve,Brosy,YDS,202
+3392091,11/25/2016,FBS,Air Force,Boise State,PUNTING,Steve,Brosy,AVG,40.4
+3392092,11/25/2016,FBS,Air Force,Boise State,PUNTING,Steve,Brosy,LONG,56
+3392093,11/25/2016,FBS,Air Force,Boise State,PUNT RETURNS,Ronald,Cleveland,NO,1
+3392094,11/25/2016,FBS,Air Force,Boise State,PUNT RETURNS,Ronald,Cleveland,YDS,28
+3392095,11/25/2016,FBS,Air Force,Boise State,PUNT RETURNS,Ronald,Cleveland,AVG,28.0
+3392096,11/25/2016,FBS,Air Force,Boise State,PUNT RETURNS,Ronald,Cleveland,LONG,28
+3392097,11/25/2016,FBS,Air Force,Boise State,PUNT RETURNS,Brett,Baldwin,NO,1
+3392098,11/25/2016,FBS,Air Force,Boise State,PUNT RETURNS,Brett,Baldwin,YDS,13
+3392099,11/25/2016,FBS,Air Force,Boise State,PUNT RETURNS,Brett,Baldwin,AVG,13.0
+3392100,11/25/2016,FBS,Air Force,Boise State,PUNT RETURNS,Brett,Baldwin,LONG,0
+3392101,11/25/2016,FBS,Air Force,Boise State,PUNT RETURNS,Tyler,Weaver,NO,0
+3392102,11/25/2016,FBS,Air Force,Boise State,PUNT RETURNS,Tyler,Weaver,YDS,11
+3392103,11/25/2016,FBS,Air Force,Boise State,PUNT RETURNS,Tyler,Weaver,AVG,-
+3392104,11/25/2016,FBS,Air Force,Boise State,PUNT RETURNS,Tyler,Weaver,LONG,11
+3392105,11/25/2016,FBS,Air Force,Boise State,KICK RETURNS,Bryan,Driskell,NO,2
+3392106,11/25/2016,FBS,Air Force,Boise State,KICK RETURNS,Bryan,Driskell,YDS,40
+3392107,11/25/2016,FBS,Air Force,Boise State,KICK RETURNS,Bryan,Driskell,AVG,20.0
+3392108,11/25/2016,FBS,Air Force,Boise State,KICK RETURNS,Bryan,Driskell,LONG,23

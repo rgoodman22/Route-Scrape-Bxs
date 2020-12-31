@@ -1,0 +1,169 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2236001,10/24/2015,FBS,Penn State,Maryland,RUSHING,Saquon,Barkley,ATT,20
+2236002,10/24/2015,FBS,Penn State,Maryland,RUSHING,Saquon,Barkley,YDS,65
+2236003,10/24/2015,FBS,Penn State,Maryland,RUSHING,Saquon,Barkley,TD,1
+2236004,10/24/2015,FBS,Penn State,Maryland,RUSHING,Saquon,Barkley,LONG,10
+2236005,10/24/2015,FBS,Penn State,Maryland,RUSHING,Brandon,Polk,ATT,1
+2236006,10/24/2015,FBS,Penn State,Maryland,RUSHING,Brandon,Polk,YDS,8
+2236007,10/24/2015,FBS,Penn State,Maryland,RUSHING,Brandon,Polk,TD,0
+2236008,10/24/2015,FBS,Penn State,Maryland,RUSHING,Brandon,Polk,LONG,8
+2236009,10/24/2015,FBS,Penn State,Maryland,RUSHING,Nick,Scott,ATT,1
+2236010,10/24/2015,FBS,Penn State,Maryland,RUSHING,Nick,Scott,YDS,1
+2236011,10/24/2015,FBS,Penn State,Maryland,RUSHING,Nick,Scott,TD,0
+2236012,10/24/2015,FBS,Penn State,Maryland,RUSHING,Nick,Scott,LONG,1
+2236013,10/24/2015,FBS,Penn State,Maryland,RUSHING,Brian,Gaia,ATT,0
+2236014,10/24/2015,FBS,Penn State,Maryland,RUSHING,Brian,Gaia,YDS,0
+2236015,10/24/2015,FBS,Penn State,Maryland,RUSHING,Brian,Gaia,TD,0
+2236016,10/24/2015,FBS,Penn State,Maryland,RUSHING,Brian,Gaia,LONG,0
+2236017,10/24/2015,FBS,Penn State,Maryland,RUSHING,Trace,McSorley,ATT,1
+2236018,10/24/2015,FBS,Penn State,Maryland,RUSHING,Trace,McSorley,YDS,-5
+2236019,10/24/2015,FBS,Penn State,Maryland,RUSHING,Trace,McSorley,TD,0
+2236020,10/24/2015,FBS,Penn State,Maryland,RUSHING,Trace,McSorley,LONG,-5
+2236021,10/24/2015,FBS,Penn State,Maryland,RUSHING,,Team,ATT,3
+2236022,10/24/2015,FBS,Penn State,Maryland,RUSHING,,Team,YDS,-5
+2236023,10/24/2015,FBS,Penn State,Maryland,RUSHING,,Team,TD,0
+2236024,10/24/2015,FBS,Penn State,Maryland,RUSHING,,Team,LONG,-1
+2236025,10/24/2015,FBS,Penn State,Maryland,RUSHING,Christian,Hackenberg,ATT,5
+2236026,10/24/2015,FBS,Penn State,Maryland,RUSHING,Christian,Hackenberg,YDS,-16
+2236027,10/24/2015,FBS,Penn State,Maryland,RUSHING,Christian,Hackenberg,TD,0
+2236028,10/24/2015,FBS,Penn State,Maryland,RUSHING,Christian,Hackenberg,LONG,0
+2236029,10/24/2015,FBS,Penn State,Maryland,PASSING,Christian,Hackenberg,CP-ATT-INT,13-29-0
+2236030,10/24/2015,FBS,Penn State,Maryland,PASSING,Christian,Hackenberg,YDS,315
+2236031,10/24/2015,FBS,Penn State,Maryland,PASSING,Christian,Hackenberg,TD,3
+2236032,10/24/2015,FBS,Penn State,Maryland,PASSING,Christian,Hackenberg,LONG,40
+2236033,10/24/2015,FBS,Penn State,Maryland,PASSING,Trace,McSorley,CP-ATT-INT,0-0-0
+2236034,10/24/2015,FBS,Penn State,Maryland,PASSING,Trace,McSorley,YDS,0
+2236035,10/24/2015,FBS,Penn State,Maryland,PASSING,Trace,McSorley,TD,0
+2236036,10/24/2015,FBS,Penn State,Maryland,PASSING,Trace,McSorley,LONG,0
+2236037,10/24/2015,FBS,Penn State,Maryland,PASSING,Geno,Lewis,CP-ATT-INT,0-1-0
+2236038,10/24/2015,FBS,Penn State,Maryland,PASSING,Geno,Lewis,YDS,0
+2236039,10/24/2015,FBS,Penn State,Maryland,PASSING,Geno,Lewis,TD,0
+2236040,10/24/2015,FBS,Penn State,Maryland,PASSING,Geno,Lewis,LONG,0
+2236041,10/24/2015,FBS,Penn State,Maryland,RECEIVING,Chris,Godwin,REC,4
+2236042,10/24/2015,FBS,Penn State,Maryland,RECEIVING,Chris,Godwin,YDS,135
+2236043,10/24/2015,FBS,Penn State,Maryland,RECEIVING,Chris,Godwin,TD,1
+2236044,10/24/2015,FBS,Penn State,Maryland,RECEIVING,Chris,Godwin,LONG,40
+2236045,10/24/2015,FBS,Penn State,Maryland,RECEIVING,DaeSean,Hamilton,REC,5
+2236046,10/24/2015,FBS,Penn State,Maryland,RECEIVING,DaeSean,Hamilton,YDS,96
+2236047,10/24/2015,FBS,Penn State,Maryland,RECEIVING,DaeSean,Hamilton,TD,1
+2236048,10/24/2015,FBS,Penn State,Maryland,RECEIVING,DaeSean,Hamilton,LONG,38
+2236049,10/24/2015,FBS,Penn State,Maryland,RECEIVING,Saeed,Blacknall,REC,1
+2236050,10/24/2015,FBS,Penn State,Maryland,RECEIVING,Saeed,Blacknall,YDS,38
+2236051,10/24/2015,FBS,Penn State,Maryland,RECEIVING,Saeed,Blacknall,TD,0
+2236052,10/24/2015,FBS,Penn State,Maryland,RECEIVING,Saeed,Blacknall,LONG,38
+2236053,10/24/2015,FBS,Penn State,Maryland,RECEIVING,Geno,Lewis,REC,1
+2236054,10/24/2015,FBS,Penn State,Maryland,RECEIVING,Geno,Lewis,YDS,27
+2236055,10/24/2015,FBS,Penn State,Maryland,RECEIVING,Geno,Lewis,TD,1
+2236056,10/24/2015,FBS,Penn State,Maryland,RECEIVING,Geno,Lewis,LONG,27
+2236057,10/24/2015,FBS,Penn State,Maryland,RECEIVING,Kyle,Carter,REC,1
+2236058,10/24/2015,FBS,Penn State,Maryland,RECEIVING,Kyle,Carter,YDS,17
+2236059,10/24/2015,FBS,Penn State,Maryland,RECEIVING,Kyle,Carter,TD,0
+2236060,10/24/2015,FBS,Penn State,Maryland,RECEIVING,Kyle,Carter,LONG,17
+2236061,10/24/2015,FBS,Penn State,Maryland,RECEIVING,DeAndre,Thompkins,REC,1
+2236062,10/24/2015,FBS,Penn State,Maryland,RECEIVING,DeAndre,Thompkins,YDS,2
+2236063,10/24/2015,FBS,Penn State,Maryland,RECEIVING,DeAndre,Thompkins,TD,0
+2236064,10/24/2015,FBS,Penn State,Maryland,RECEIVING,DeAndre,Thompkins,LONG,2
+2236065,10/24/2015,FBS,Penn State,Maryland,KICKING,Joey,Julius,FG-FGA,1/2
+2236066,10/24/2015,FBS,Penn State,Maryland,KICKING,Joey,Julius,LONG,40
+2236067,10/24/2015,FBS,Penn State,Maryland,KICKING,Joey,Julius,XP,4
+2236068,10/24/2015,FBS,Penn State,Maryland,KICKING,Joey,Julius,PTS,7
+2236069,10/24/2015,FBS,Penn State,Maryland,PUNTING,Daniel,Pasquariello,NO,6
+2236070,10/24/2015,FBS,Penn State,Maryland,PUNTING,Daniel,Pasquariello,YDS,234
+2236071,10/24/2015,FBS,Penn State,Maryland,PUNTING,Daniel,Pasquariello,AVG,39.0
+2236072,10/24/2015,FBS,Penn State,Maryland,PUNTING,Daniel,Pasquariello,LONG,55
+2236073,10/24/2015,FBS,Penn State,Maryland,PUNT RETURNS,DeAndre,Thompkins,NO,0
+2236074,10/24/2015,FBS,Penn State,Maryland,PUNT RETURNS,DeAndre,Thompkins,YDS,0
+2236075,10/24/2015,FBS,Penn State,Maryland,PUNT RETURNS,DeAndre,Thompkins,AVG,-
+2236076,10/24/2015,FBS,Penn State,Maryland,PUNT RETURNS,DeAndre,Thompkins,LONG,0
+2236077,10/24/2015,FBS,Penn State,Maryland,KICK RETURNS,Nick,Scott,NO,4
+2236078,10/24/2015,FBS,Penn State,Maryland,KICK RETURNS,Nick,Scott,YDS,85
+2236079,10/24/2015,FBS,Penn State,Maryland,KICK RETURNS,Nick,Scott,AVG,21.2
+2236080,10/24/2015,FBS,Penn State,Maryland,KICK RETURNS,Nick,Scott,LONG,27
+2236081,10/24/2015,FBS,Penn State,Maryland,KICK RETURNS,Brandon,Polk,NO,2
+2236082,10/24/2015,FBS,Penn State,Maryland,KICK RETURNS,Brandon,Polk,YDS,40
+2236083,10/24/2015,FBS,Penn State,Maryland,KICK RETURNS,Brandon,Polk,AVG,20.0
+2236084,10/24/2015,FBS,Penn State,Maryland,KICK RETURNS,Brandon,Polk,LONG,22
+2236085,10/24/2015,FBS,Maryland,Penn State,RUSHING,Perry,Hills,ATT,26
+2236086,10/24/2015,FBS,Maryland,Penn State,RUSHING,Perry,Hills,YDS,124
+2236087,10/24/2015,FBS,Maryland,Penn State,RUSHING,Perry,Hills,TD,1
+2236088,10/24/2015,FBS,Maryland,Penn State,RUSHING,Perry,Hills,LONG,36
+2236089,10/24/2015,FBS,Maryland,Penn State,RUSHING,Brandon,Ross,ATT,10
+2236090,10/24/2015,FBS,Maryland,Penn State,RUSHING,Brandon,Ross,YDS,58
+2236091,10/24/2015,FBS,Maryland,Penn State,RUSHING,Brandon,Ross,TD,1
+2236092,10/24/2015,FBS,Maryland,Penn State,RUSHING,Brandon,Ross,LONG,16
+2236093,10/24/2015,FBS,Maryland,Penn State,RUSHING,William,Likely,ATT,4
+2236094,10/24/2015,FBS,Maryland,Penn State,RUSHING,William,Likely,YDS,30
+2236095,10/24/2015,FBS,Maryland,Penn State,RUSHING,William,Likely,TD,0
+2236096,10/24/2015,FBS,Maryland,Penn State,RUSHING,William,Likely,LONG,17
+2236097,10/24/2015,FBS,Maryland,Penn State,RUSHING,Wes,Brown,ATT,5
+2236098,10/24/2015,FBS,Maryland,Penn State,RUSHING,Wes,Brown,YDS,17
+2236099,10/24/2015,FBS,Maryland,Penn State,RUSHING,Wes,Brown,TD,0
+2236100,10/24/2015,FBS,Maryland,Penn State,RUSHING,Wes,Brown,LONG,9
+2236101,10/24/2015,FBS,Maryland,Penn State,RUSHING,Ty,Johnson,ATT,2
+2236102,10/24/2015,FBS,Maryland,Penn State,RUSHING,Ty,Johnson,YDS,11
+2236103,10/24/2015,FBS,Maryland,Penn State,RUSHING,Ty,Johnson,TD,0
+2236104,10/24/2015,FBS,Maryland,Penn State,RUSHING,Ty,Johnson,LONG,8
+2236105,10/24/2015,FBS,Maryland,Penn State,RUSHING,Kenneth,GoinsJr.,ATT,1
+2236106,10/24/2015,FBS,Maryland,Penn State,RUSHING,Kenneth,GoinsJr.,YDS,1
+2236107,10/24/2015,FBS,Maryland,Penn State,RUSHING,Kenneth,GoinsJr.,TD,0
+2236108,10/24/2015,FBS,Maryland,Penn State,RUSHING,Kenneth,GoinsJr.,LONG,1
+2236109,10/24/2015,FBS,Maryland,Penn State,RUSHING,Ryan,Doyle,ATT,0
+2236110,10/24/2015,FBS,Maryland,Penn State,RUSHING,Ryan,Doyle,YDS,0
+2236111,10/24/2015,FBS,Maryland,Penn State,RUSHING,Ryan,Doyle,TD,0
+2236112,10/24/2015,FBS,Maryland,Penn State,RUSHING,Ryan,Doyle,LONG,0
+2236113,10/24/2015,FBS,Maryland,Penn State,PASSING,Perry,Hills,CP-ATT-INT,19-28-3
+2236114,10/24/2015,FBS,Maryland,Penn State,PASSING,Perry,Hills,YDS,225
+2236115,10/24/2015,FBS,Maryland,Penn State,PASSING,Perry,Hills,TD,1
+2236116,10/24/2015,FBS,Maryland,Penn State,PASSING,Perry,Hills,LONG,48
+2236117,10/24/2015,FBS,Maryland,Penn State,RECEIVING,Malcolm,Culmer,REC,3
+2236118,10/24/2015,FBS,Maryland,Penn State,RECEIVING,Malcolm,Culmer,YDS,65
+2236119,10/24/2015,FBS,Maryland,Penn State,RECEIVING,Malcolm,Culmer,TD,0
+2236120,10/24/2015,FBS,Maryland,Penn State,RECEIVING,Malcolm,Culmer,LONG,48
+2236121,10/24/2015,FBS,Maryland,Penn State,RECEIVING,Levern,Jacobs,REC,4
+2236122,10/24/2015,FBS,Maryland,Penn State,RECEIVING,Levern,Jacobs,YDS,50
+2236123,10/24/2015,FBS,Maryland,Penn State,RECEIVING,Levern,Jacobs,TD,0
+2236124,10/24/2015,FBS,Maryland,Penn State,RECEIVING,Levern,Jacobs,LONG,24
+2236125,10/24/2015,FBS,Maryland,Penn State,RECEIVING,Taivon,Jacobs,REC,1
+2236126,10/24/2015,FBS,Maryland,Penn State,RECEIVING,Taivon,Jacobs,YDS,43
+2236127,10/24/2015,FBS,Maryland,Penn State,RECEIVING,Taivon,Jacobs,TD,0
+2236128,10/24/2015,FBS,Maryland,Penn State,RECEIVING,Taivon,Jacobs,LONG,43
+2236129,10/24/2015,FBS,Maryland,Penn State,RECEIVING,Amba,Etta-Tawo,REC,2
+2236130,10/24/2015,FBS,Maryland,Penn State,RECEIVING,Amba,Etta-Tawo,YDS,27
+2236131,10/24/2015,FBS,Maryland,Penn State,RECEIVING,Amba,Etta-Tawo,TD,0
+2236132,10/24/2015,FBS,Maryland,Penn State,RECEIVING,Amba,Etta-Tawo,LONG,18
+2236133,10/24/2015,FBS,Maryland,Penn State,RECEIVING,D.J.,Moore,REC,3
+2236134,10/24/2015,FBS,Maryland,Penn State,RECEIVING,D.J.,Moore,YDS,24
+2236135,10/24/2015,FBS,Maryland,Penn State,RECEIVING,D.J.,Moore,TD,0
+2236136,10/24/2015,FBS,Maryland,Penn State,RECEIVING,D.J.,Moore,LONG,16
+2236137,10/24/2015,FBS,Maryland,Penn State,RECEIVING,DeAndre,Lane,REC,1
+2236138,10/24/2015,FBS,Maryland,Penn State,RECEIVING,DeAndre,Lane,YDS,10
+2236139,10/24/2015,FBS,Maryland,Penn State,RECEIVING,DeAndre,Lane,TD,1
+2236140,10/24/2015,FBS,Maryland,Penn State,RECEIVING,DeAndre,Lane,LONG,10
+2236141,10/24/2015,FBS,Maryland,Penn State,RECEIVING,Wes,Brown,REC,3
+2236142,10/24/2015,FBS,Maryland,Penn State,RECEIVING,Wes,Brown,YDS,5
+2236143,10/24/2015,FBS,Maryland,Penn State,RECEIVING,Wes,Brown,TD,0
+2236144,10/24/2015,FBS,Maryland,Penn State,RECEIVING,Wes,Brown,LONG,7
+2236145,10/24/2015,FBS,Maryland,Penn State,RECEIVING,William,Likely,REC,1
+2236146,10/24/2015,FBS,Maryland,Penn State,RECEIVING,William,Likely,YDS,4
+2236147,10/24/2015,FBS,Maryland,Penn State,RECEIVING,William,Likely,TD,0
+2236148,10/24/2015,FBS,Maryland,Penn State,RECEIVING,William,Likely,LONG,4
+2236149,10/24/2015,FBS,Maryland,Penn State,RECEIVING,Brandon,Ross,REC,1
+2236150,10/24/2015,FBS,Maryland,Penn State,RECEIVING,Brandon,Ross,YDS,-3
+2236151,10/24/2015,FBS,Maryland,Penn State,RECEIVING,Brandon,Ross,TD,0
+2236152,10/24/2015,FBS,Maryland,Penn State,RECEIVING,Brandon,Ross,LONG,-3
+2236153,10/24/2015,FBS,Maryland,Penn State,KICKING,Brad,Craddock,FG-FGA,3/4
+2236154,10/24/2015,FBS,Maryland,Penn State,KICKING,Brad,Craddock,LONG,44
+2236155,10/24/2015,FBS,Maryland,Penn State,KICKING,Brad,Craddock,XP,3
+2236156,10/24/2015,FBS,Maryland,Penn State,KICKING,Brad,Craddock,PTS,12
+2236157,10/24/2015,FBS,Maryland,Penn State,PUNTING,Nicolas,Pritchard,NO,2
+2236158,10/24/2015,FBS,Maryland,Penn State,PUNTING,Nicolas,Pritchard,YDS,69
+2236159,10/24/2015,FBS,Maryland,Penn State,PUNTING,Nicolas,Pritchard,AVG,34.5
+2236160,10/24/2015,FBS,Maryland,Penn State,PUNTING,Nicolas,Pritchard,LONG,35
+2236161,10/24/2015,FBS,Maryland,Penn State,PUNT RETURNS,William,Likely,NO,3
+2236162,10/24/2015,FBS,Maryland,Penn State,PUNT RETURNS,William,Likely,YDS,24
+2236163,10/24/2015,FBS,Maryland,Penn State,PUNT RETURNS,William,Likely,AVG,8.0
+2236164,10/24/2015,FBS,Maryland,Penn State,PUNT RETURNS,William,Likely,LONG,10
+2236165,10/24/2015,FBS,Maryland,Penn State,KICK RETURNS,William,Likely,NO,4
+2236166,10/24/2015,FBS,Maryland,Penn State,KICK RETURNS,William,Likely,YDS,100
+2236167,10/24/2015,FBS,Maryland,Penn State,KICK RETURNS,William,Likely,AVG,25.0
+2236168,10/24/2015,FBS,Maryland,Penn State,KICK RETURNS,William,Likely,LONG,30

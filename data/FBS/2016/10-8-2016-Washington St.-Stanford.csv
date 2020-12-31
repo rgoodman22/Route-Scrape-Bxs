@@ -1,0 +1,177 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3018001,10/8/2016,FBS,Washington St.,Stanford,RUSHING,Jamal,Morrow,ATT,8
+3018002,10/8/2016,FBS,Washington St.,Stanford,RUSHING,Jamal,Morrow,YDS,40
+3018003,10/8/2016,FBS,Washington St.,Stanford,RUSHING,Jamal,Morrow,TD,0
+3018004,10/8/2016,FBS,Washington St.,Stanford,RUSHING,Jamal,Morrow,LONG,10
+3018005,10/8/2016,FBS,Washington St.,Stanford,RUSHING,Gerard,Wicks,ATT,10
+3018006,10/8/2016,FBS,Washington St.,Stanford,RUSHING,Gerard,Wicks,YDS,36
+3018007,10/8/2016,FBS,Washington St.,Stanford,RUSHING,Gerard,Wicks,TD,1
+3018008,10/8/2016,FBS,Washington St.,Stanford,RUSHING,Gerard,Wicks,LONG,12
+3018009,10/8/2016,FBS,Washington St.,Stanford,RUSHING,James,Williams,ATT,7
+3018010,10/8/2016,FBS,Washington St.,Stanford,RUSHING,James,Williams,YDS,28
+3018011,10/8/2016,FBS,Washington St.,Stanford,RUSHING,James,Williams,TD,1
+3018012,10/8/2016,FBS,Washington St.,Stanford,RUSHING,James,Williams,LONG,7
+3018013,10/8/2016,FBS,Washington St.,Stanford,RUSHING,Cole,Madison,ATT,0
+3018014,10/8/2016,FBS,Washington St.,Stanford,RUSHING,Cole,Madison,YDS,0
+3018015,10/8/2016,FBS,Washington St.,Stanford,RUSHING,Cole,Madison,TD,0
+3018016,10/8/2016,FBS,Washington St.,Stanford,RUSHING,Cole,Madison,LONG,0
+3018017,10/8/2016,FBS,Washington St.,Stanford,RUSHING,Luke,Falk,ATT,5
+3018018,10/8/2016,FBS,Washington St.,Stanford,RUSHING,Luke,Falk,YDS,-3
+3018019,10/8/2016,FBS,Washington St.,Stanford,RUSHING,Luke,Falk,TD,0
+3018020,10/8/2016,FBS,Washington St.,Stanford,RUSHING,Luke,Falk,LONG,8
+3018021,10/8/2016,FBS,Washington St.,Stanford,PASSING,Luke,Falk,CP-ATT-INT,30-41-2
+3018022,10/8/2016,FBS,Washington St.,Stanford,PASSING,Luke,Falk,YDS,357
+3018023,10/8/2016,FBS,Washington St.,Stanford,PASSING,Luke,Falk,TD,4
+3018024,10/8/2016,FBS,Washington St.,Stanford,PASSING,Luke,Falk,LONG,45
+3018025,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,River,Cracraft,REC,7
+3018026,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,River,Cracraft,YDS,130
+3018027,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,River,Cracraft,TD,1
+3018028,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,River,Cracraft,LONG,30
+3018029,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,Jamal,Morrow,REC,3
+3018030,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,Jamal,Morrow,YDS,55
+3018031,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,Jamal,Morrow,TD,0
+3018032,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,Jamal,Morrow,LONG,45
+3018033,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,Gabe,Marks,REC,5
+3018034,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,Gabe,Marks,YDS,39
+3018035,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,Gabe,Marks,TD,1
+3018036,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,Gabe,Marks,LONG,17
+3018037,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,Tavares,MartinJr.,REC,2
+3018038,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,Tavares,MartinJr.,YDS,34
+3018039,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,Tavares,MartinJr.,TD,2
+3018040,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,Tavares,MartinJr.,LONG,29
+3018041,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,Isaiah,Johnson-Mack,REC,3
+3018042,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,Isaiah,Johnson-Mack,YDS,30
+3018043,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,Isaiah,Johnson-Mack,TD,0
+3018044,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,Isaiah,Johnson-Mack,LONG,15
+3018045,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,CJ,Dimry,REC,1
+3018046,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,CJ,Dimry,YDS,18
+3018047,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,CJ,Dimry,TD,0
+3018048,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,CJ,Dimry,LONG,18
+3018049,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,Robert,Lewis,REC,2
+3018050,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,Robert,Lewis,YDS,12
+3018051,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,Robert,Lewis,TD,0
+3018052,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,Robert,Lewis,LONG,7
+3018053,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,James,Williams,REC,3
+3018054,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,James,Williams,YDS,11
+3018055,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,James,Williams,TD,0
+3018056,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,James,Williams,LONG,6
+3018057,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,John,Thompson,REC,1
+3018058,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,John,Thompson,YDS,11
+3018059,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,John,Thompson,TD,0
+3018060,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,John,Thompson,LONG,11
+3018061,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,Gerard,Wicks,REC,2
+3018062,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,Gerard,Wicks,YDS,9
+3018063,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,Gerard,Wicks,TD,0
+3018064,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,Gerard,Wicks,LONG,9
+3018065,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,Kyle,Sweet,REC,1
+3018066,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,Kyle,Sweet,YDS,8
+3018067,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,Kyle,Sweet,TD,0
+3018068,10/8/2016,FBS,Washington St.,Stanford,RECEIVING,Kyle,Sweet,LONG,8
+3018069,10/8/2016,FBS,Washington St.,Stanford,KICKING,Erik,Powell,FG-FGA,0/1
+3018070,10/8/2016,FBS,Washington St.,Stanford,KICKING,Erik,Powell,LONG,0
+3018071,10/8/2016,FBS,Washington St.,Stanford,KICKING,Erik,Powell,XP,6
+3018072,10/8/2016,FBS,Washington St.,Stanford,KICKING,Erik,Powell,PTS,6
+3018073,10/8/2016,FBS,Washington St.,Stanford,PUNTING,Kyle,Sweet,NO,2
+3018074,10/8/2016,FBS,Washington St.,Stanford,PUNTING,Kyle,Sweet,YDS,65
+3018075,10/8/2016,FBS,Washington St.,Stanford,PUNTING,Kyle,Sweet,AVG,32.5
+3018076,10/8/2016,FBS,Washington St.,Stanford,PUNTING,Kyle,Sweet,LONG,39
+3018077,10/8/2016,FBS,Washington St.,Stanford,PUNTING,Zach,Charme,NO,1
+3018078,10/8/2016,FBS,Washington St.,Stanford,PUNTING,Zach,Charme,YDS,38
+3018079,10/8/2016,FBS,Washington St.,Stanford,PUNTING,Zach,Charme,AVG,38.0
+3018080,10/8/2016,FBS,Washington St.,Stanford,PUNTING,Zach,Charme,LONG,38
+3018081,10/8/2016,FBS,Washington St.,Stanford,PUNT RETURNS,Kaleb,Fossum,NO,0
+3018082,10/8/2016,FBS,Washington St.,Stanford,PUNT RETURNS,Kaleb,Fossum,YDS,0
+3018083,10/8/2016,FBS,Washington St.,Stanford,PUNT RETURNS,Kaleb,Fossum,AVG,-
+3018084,10/8/2016,FBS,Washington St.,Stanford,PUNT RETURNS,Kaleb,Fossum,LONG,0
+3018085,10/8/2016,FBS,Washington St.,Stanford,KICK RETURNS,Robert,Taylor,NO,1
+3018086,10/8/2016,FBS,Washington St.,Stanford,KICK RETURNS,Robert,Taylor,YDS,16
+3018087,10/8/2016,FBS,Washington St.,Stanford,KICK RETURNS,Robert,Taylor,AVG,16.0
+3018088,10/8/2016,FBS,Washington St.,Stanford,KICK RETURNS,Robert,Taylor,LONG,16
+3018089,10/8/2016,FBS,Stanford,Washington St.,RUSHING,Christian,McCaffrey,ATT,8
+3018090,10/8/2016,FBS,Stanford,Washington St.,RUSHING,Christian,McCaffrey,YDS,35
+3018091,10/8/2016,FBS,Stanford,Washington St.,RUSHING,Christian,McCaffrey,TD,0
+3018092,10/8/2016,FBS,Stanford,Washington St.,RUSHING,Christian,McCaffrey,LONG,23
+3018093,10/8/2016,FBS,Stanford,Washington St.,RUSHING,Keller,Chryst,ATT,4
+3018094,10/8/2016,FBS,Stanford,Washington St.,RUSHING,Keller,Chryst,YDS,18
+3018095,10/8/2016,FBS,Stanford,Washington St.,RUSHING,Keller,Chryst,TD,0
+3018096,10/8/2016,FBS,Stanford,Washington St.,RUSHING,Keller,Chryst,LONG,8
+3018097,10/8/2016,FBS,Stanford,Washington St.,RUSHING,Ryan,Burns,ATT,10
+3018098,10/8/2016,FBS,Stanford,Washington St.,RUSHING,Ryan,Burns,YDS,5
+3018099,10/8/2016,FBS,Stanford,Washington St.,RUSHING,Ryan,Burns,TD,0
+3018100,10/8/2016,FBS,Stanford,Washington St.,RUSHING,Ryan,Burns,LONG,7
+3018101,10/8/2016,FBS,Stanford,Washington St.,RUSHING,Bryce,Love,ATT,4
+3018102,10/8/2016,FBS,Stanford,Washington St.,RUSHING,Bryce,Love,YDS,3
+3018103,10/8/2016,FBS,Stanford,Washington St.,RUSHING,Bryce,Love,TD,0
+3018104,10/8/2016,FBS,Stanford,Washington St.,RUSHING,Bryce,Love,LONG,4
+3018105,10/8/2016,FBS,Stanford,Washington St.,PASSING,Ryan,Burns,CP-ATT-INT,19-25-1
+3018106,10/8/2016,FBS,Stanford,Washington St.,PASSING,Ryan,Burns,YDS,222
+3018107,10/8/2016,FBS,Stanford,Washington St.,PASSING,Ryan,Burns,TD,1
+3018108,10/8/2016,FBS,Stanford,Washington St.,PASSING,Ryan,Burns,LONG,44
+3018109,10/8/2016,FBS,Stanford,Washington St.,PASSING,Keller,Chryst,CP-ATT-INT,2-9-1
+3018110,10/8/2016,FBS,Stanford,Washington St.,PASSING,Keller,Chryst,YDS,13
+3018111,10/8/2016,FBS,Stanford,Washington St.,PASSING,Keller,Chryst,TD,0
+3018112,10/8/2016,FBS,Stanford,Washington St.,PASSING,Keller,Chryst,LONG,11
+3018113,10/8/2016,FBS,Stanford,Washington St.,RECEIVING,Michael,Rector,REC,5
+3018114,10/8/2016,FBS,Stanford,Washington St.,RECEIVING,Michael,Rector,YDS,90
+3018115,10/8/2016,FBS,Stanford,Washington St.,RECEIVING,Michael,Rector,TD,0
+3018116,10/8/2016,FBS,Stanford,Washington St.,RECEIVING,Michael,Rector,LONG,44
+3018117,10/8/2016,FBS,Stanford,Washington St.,RECEIVING,JJ,Arcega-Whiteside,REC,5
+3018118,10/8/2016,FBS,Stanford,Washington St.,RECEIVING,JJ,Arcega-Whiteside,YDS,68
+3018119,10/8/2016,FBS,Stanford,Washington St.,RECEIVING,JJ,Arcega-Whiteside,TD,1
+3018120,10/8/2016,FBS,Stanford,Washington St.,RECEIVING,JJ,Arcega-Whiteside,LONG,28
+3018121,10/8/2016,FBS,Stanford,Washington St.,RECEIVING,Trenton,Irwin,REC,4
+3018122,10/8/2016,FBS,Stanford,Washington St.,RECEIVING,Trenton,Irwin,YDS,28
+3018123,10/8/2016,FBS,Stanford,Washington St.,RECEIVING,Trenton,Irwin,TD,0
+3018124,10/8/2016,FBS,Stanford,Washington St.,RECEIVING,Trenton,Irwin,LONG,12
+3018125,10/8/2016,FBS,Stanford,Washington St.,RECEIVING,Bryce,Love,REC,2
+3018126,10/8/2016,FBS,Stanford,Washington St.,RECEIVING,Bryce,Love,YDS,14
+3018127,10/8/2016,FBS,Stanford,Washington St.,RECEIVING,Bryce,Love,TD,0
+3018128,10/8/2016,FBS,Stanford,Washington St.,RECEIVING,Bryce,Love,LONG,10
+3018129,10/8/2016,FBS,Stanford,Washington St.,RECEIVING,Dalton,Schultz,REC,2
+3018130,10/8/2016,FBS,Stanford,Washington St.,RECEIVING,Dalton,Schultz,YDS,12
+3018131,10/8/2016,FBS,Stanford,Washington St.,RECEIVING,Dalton,Schultz,TD,0
+3018132,10/8/2016,FBS,Stanford,Washington St.,RECEIVING,Dalton,Schultz,LONG,7
+3018133,10/8/2016,FBS,Stanford,Washington St.,RECEIVING,Isaiah,Brandt-Sims,REC,1
+3018134,10/8/2016,FBS,Stanford,Washington St.,RECEIVING,Isaiah,Brandt-Sims,YDS,10
+3018135,10/8/2016,FBS,Stanford,Washington St.,RECEIVING,Isaiah,Brandt-Sims,TD,0
+3018136,10/8/2016,FBS,Stanford,Washington St.,RECEIVING,Isaiah,Brandt-Sims,LONG,10
+3018137,10/8/2016,FBS,Stanford,Washington St.,RECEIVING,Donald,Stewart,REC,1
+3018138,10/8/2016,FBS,Stanford,Washington St.,RECEIVING,Donald,Stewart,YDS,8
+3018139,10/8/2016,FBS,Stanford,Washington St.,RECEIVING,Donald,Stewart,TD,0
+3018140,10/8/2016,FBS,Stanford,Washington St.,RECEIVING,Donald,Stewart,LONG,8
+3018141,10/8/2016,FBS,Stanford,Washington St.,RECEIVING,Christian,McCaffrey,REC,1
+3018142,10/8/2016,FBS,Stanford,Washington St.,RECEIVING,Christian,McCaffrey,YDS,5
+3018143,10/8/2016,FBS,Stanford,Washington St.,RECEIVING,Christian,McCaffrey,TD,0
+3018144,10/8/2016,FBS,Stanford,Washington St.,RECEIVING,Christian,McCaffrey,LONG,5
+3018145,10/8/2016,FBS,Stanford,Washington St.,KICKING,Conrad,Ukropina,FG-FGA,1/3
+3018146,10/8/2016,FBS,Stanford,Washington St.,KICKING,Conrad,Ukropina,LONG,43
+3018147,10/8/2016,FBS,Stanford,Washington St.,KICKING,Conrad,Ukropina,XP,1
+3018148,10/8/2016,FBS,Stanford,Washington St.,KICKING,Conrad,Ukropina,PTS,4
+3018149,10/8/2016,FBS,Stanford,Washington St.,PUNTING,Jake,Bailey,NO,3
+3018150,10/8/2016,FBS,Stanford,Washington St.,PUNTING,Jake,Bailey,YDS,152
+3018151,10/8/2016,FBS,Stanford,Washington St.,PUNTING,Jake,Bailey,AVG,50.7
+3018152,10/8/2016,FBS,Stanford,Washington St.,PUNTING,Jake,Bailey,LONG,58
+3018153,10/8/2016,FBS,Stanford,Washington St.,PUNTING,Alex,Robinson,NO,1
+3018154,10/8/2016,FBS,Stanford,Washington St.,PUNTING,Alex,Robinson,YDS,36
+3018155,10/8/2016,FBS,Stanford,Washington St.,PUNTING,Alex,Robinson,AVG,36.0
+3018156,10/8/2016,FBS,Stanford,Washington St.,PUNTING,Alex,Robinson,LONG,36
+3018157,10/8/2016,FBS,Stanford,Washington St.,KICK RETURNS,Christian,McCaffrey,NO,3
+3018158,10/8/2016,FBS,Stanford,Washington St.,KICK RETURNS,Christian,McCaffrey,YDS,43
+3018159,10/8/2016,FBS,Stanford,Washington St.,KICK RETURNS,Christian,McCaffrey,AVG,14.3
+3018160,10/8/2016,FBS,Stanford,Washington St.,KICK RETURNS,Christian,McCaffrey,LONG,19
+3018161,10/8/2016,FBS,Stanford,Washington St.,KICK RETURNS,Terrence,Alexander,NO,1
+3018162,10/8/2016,FBS,Stanford,Washington St.,KICK RETURNS,Terrence,Alexander,YDS,16
+3018163,10/8/2016,FBS,Stanford,Washington St.,KICK RETURNS,Terrence,Alexander,AVG,16.0
+3018164,10/8/2016,FBS,Stanford,Washington St.,KICK RETURNS,Terrence,Alexander,LONG,16
+3018165,10/8/2016,FBS,Stanford,Washington St.,KICK RETURNS,Michael,Rector,NO,1
+3018166,10/8/2016,FBS,Stanford,Washington St.,KICK RETURNS,Michael,Rector,YDS,15
+3018167,10/8/2016,FBS,Stanford,Washington St.,KICK RETURNS,Michael,Rector,AVG,15.0
+3018168,10/8/2016,FBS,Stanford,Washington St.,KICK RETURNS,Michael,Rector,LONG,15
+3018169,10/8/2016,FBS,Stanford,Washington St.,KICK RETURNS,Bryce,Love,NO,1
+3018170,10/8/2016,FBS,Stanford,Washington St.,KICK RETURNS,Bryce,Love,YDS,14
+3018171,10/8/2016,FBS,Stanford,Washington St.,KICK RETURNS,Bryce,Love,AVG,14.0
+3018172,10/8/2016,FBS,Stanford,Washington St.,KICK RETURNS,Bryce,Love,LONG,14
+3018173,10/8/2016,FBS,Stanford,Washington St.,KICK RETURNS,Cameron,Scarlett,NO,1
+3018174,10/8/2016,FBS,Stanford,Washington St.,KICK RETURNS,Cameron,Scarlett,YDS,9
+3018175,10/8/2016,FBS,Stanford,Washington St.,KICK RETURNS,Cameron,Scarlett,AVG,9.0
+3018176,10/8/2016,FBS,Stanford,Washington St.,KICK RETURNS,Cameron,Scarlett,LONG,9

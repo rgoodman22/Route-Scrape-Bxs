@@ -1,0 +1,141 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3341001,11/19/2016,FBS,Texas Tech,Iowa State,RUSHING,Da'Leon,Ward,ATT,25
+3341002,11/19/2016,FBS,Texas Tech,Iowa State,RUSHING,Da'Leon,Ward,YDS,97
+3341003,11/19/2016,FBS,Texas Tech,Iowa State,RUSHING,Da'Leon,Ward,TD,0
+3341004,11/19/2016,FBS,Texas Tech,Iowa State,RUSHING,Da'Leon,Ward,LONG,15
+3341005,11/19/2016,FBS,Texas Tech,Iowa State,RUSHING,Keke,Coutee,ATT,1
+3341006,11/19/2016,FBS,Texas Tech,Iowa State,RUSHING,Keke,Coutee,YDS,0
+3341007,11/19/2016,FBS,Texas Tech,Iowa State,RUSHING,Keke,Coutee,TD,0
+3341008,11/19/2016,FBS,Texas Tech,Iowa State,RUSHING,Keke,Coutee,LONG,0
+3341009,11/19/2016,FBS,Texas Tech,Iowa State,RUSHING,Cameron,Batson,ATT,1
+3341010,11/19/2016,FBS,Texas Tech,Iowa State,RUSHING,Cameron,Batson,YDS,0
+3341011,11/19/2016,FBS,Texas Tech,Iowa State,RUSHING,Cameron,Batson,TD,0
+3341012,11/19/2016,FBS,Texas Tech,Iowa State,RUSHING,Cameron,Batson,LONG,0
+3341013,11/19/2016,FBS,Texas Tech,Iowa State,RUSHING,Patrick,MahomesII,ATT,2
+3341014,11/19/2016,FBS,Texas Tech,Iowa State,RUSHING,Patrick,MahomesII,YDS,-2
+3341015,11/19/2016,FBS,Texas Tech,Iowa State,RUSHING,Patrick,MahomesII,TD,0
+3341016,11/19/2016,FBS,Texas Tech,Iowa State,RUSHING,Patrick,MahomesII,LONG,7
+3341017,11/19/2016,FBS,Texas Tech,Iowa State,RUSHING,Nic,Shimonek,ATT,1
+3341018,11/19/2016,FBS,Texas Tech,Iowa State,RUSHING,Nic,Shimonek,YDS,-11
+3341019,11/19/2016,FBS,Texas Tech,Iowa State,RUSHING,Nic,Shimonek,TD,0
+3341020,11/19/2016,FBS,Texas Tech,Iowa State,RUSHING,Nic,Shimonek,LONG,-11
+3341021,11/19/2016,FBS,Texas Tech,Iowa State,PASSING,Patrick,MahomesII,CP-ATT-INT,18-36-2
+3341022,11/19/2016,FBS,Texas Tech,Iowa State,PASSING,Patrick,MahomesII,YDS,219
+3341023,11/19/2016,FBS,Texas Tech,Iowa State,PASSING,Patrick,MahomesII,TD,1
+3341024,11/19/2016,FBS,Texas Tech,Iowa State,PASSING,Patrick,MahomesII,LONG,34
+3341025,11/19/2016,FBS,Texas Tech,Iowa State,PASSING,Nic,Shimonek,CP-ATT-INT,1-3-0
+3341026,11/19/2016,FBS,Texas Tech,Iowa State,PASSING,Nic,Shimonek,YDS,3
+3341027,11/19/2016,FBS,Texas Tech,Iowa State,PASSING,Nic,Shimonek,TD,0
+3341028,11/19/2016,FBS,Texas Tech,Iowa State,PASSING,Nic,Shimonek,LONG,3
+3341029,11/19/2016,FBS,Texas Tech,Iowa State,RECEIVING,Keke,Coutee,REC,8
+3341030,11/19/2016,FBS,Texas Tech,Iowa State,RECEIVING,Keke,Coutee,YDS,115
+3341031,11/19/2016,FBS,Texas Tech,Iowa State,RECEIVING,Keke,Coutee,TD,1
+3341032,11/19/2016,FBS,Texas Tech,Iowa State,RECEIVING,Keke,Coutee,LONG,34
+3341033,11/19/2016,FBS,Texas Tech,Iowa State,RECEIVING,Cameron,Batson,REC,4
+3341034,11/19/2016,FBS,Texas Tech,Iowa State,RECEIVING,Cameron,Batson,YDS,57
+3341035,11/19/2016,FBS,Texas Tech,Iowa State,RECEIVING,Cameron,Batson,TD,0
+3341036,11/19/2016,FBS,Texas Tech,Iowa State,RECEIVING,Cameron,Batson,LONG,25
+3341037,11/19/2016,FBS,Texas Tech,Iowa State,RECEIVING,Dylan,Cantrell,REC,3
+3341038,11/19/2016,FBS,Texas Tech,Iowa State,RECEIVING,Dylan,Cantrell,YDS,45
+3341039,11/19/2016,FBS,Texas Tech,Iowa State,RECEIVING,Dylan,Cantrell,TD,0
+3341040,11/19/2016,FBS,Texas Tech,Iowa State,RECEIVING,Dylan,Cantrell,LONG,21
+3341041,11/19/2016,FBS,Texas Tech,Iowa State,RECEIVING,Derrick,Willies,REC,2
+3341042,11/19/2016,FBS,Texas Tech,Iowa State,RECEIVING,Derrick,Willies,YDS,7
+3341043,11/19/2016,FBS,Texas Tech,Iowa State,RECEIVING,Derrick,Willies,TD,0
+3341044,11/19/2016,FBS,Texas Tech,Iowa State,RECEIVING,Derrick,Willies,LONG,4
+3341045,11/19/2016,FBS,Texas Tech,Iowa State,RECEIVING,Da'Leon,Ward,REC,2
+3341046,11/19/2016,FBS,Texas Tech,Iowa State,RECEIVING,Da'Leon,Ward,YDS,-2
+3341047,11/19/2016,FBS,Texas Tech,Iowa State,RECEIVING,Da'Leon,Ward,TD,0
+3341048,11/19/2016,FBS,Texas Tech,Iowa State,RECEIVING,Da'Leon,Ward,LONG,-1
+3341049,11/19/2016,FBS,Texas Tech,Iowa State,KICKING,Clayton,Hatfield,FG-FGA,1/1
+3341050,11/19/2016,FBS,Texas Tech,Iowa State,KICKING,Clayton,Hatfield,LONG,31
+3341051,11/19/2016,FBS,Texas Tech,Iowa State,KICKING,Clayton,Hatfield,XP,1
+3341052,11/19/2016,FBS,Texas Tech,Iowa State,KICKING,Clayton,Hatfield,PTS,4
+3341053,11/19/2016,FBS,Texas Tech,Iowa State,PUNTING,Michael,Barden,NO,6
+3341054,11/19/2016,FBS,Texas Tech,Iowa State,PUNTING,Michael,Barden,YDS,200
+3341055,11/19/2016,FBS,Texas Tech,Iowa State,PUNTING,Michael,Barden,AVG,33.3
+3341056,11/19/2016,FBS,Texas Tech,Iowa State,PUNTING,Michael,Barden,LONG,43
+3341057,11/19/2016,FBS,Texas Tech,Iowa State,PUNT RETURNS,Cameron,Batson,NO,1
+3341058,11/19/2016,FBS,Texas Tech,Iowa State,PUNT RETURNS,Cameron,Batson,YDS,-4
+3341059,11/19/2016,FBS,Texas Tech,Iowa State,PUNT RETURNS,Cameron,Batson,AVG,-
+3341060,11/19/2016,FBS,Texas Tech,Iowa State,PUNT RETURNS,Cameron,Batson,LONG,0
+3341061,11/19/2016,FBS,Texas Tech,Iowa State,KICK RETURNS,Cameron,Batson,NO,4
+3341062,11/19/2016,FBS,Texas Tech,Iowa State,KICK RETURNS,Cameron,Batson,YDS,71
+3341063,11/19/2016,FBS,Texas Tech,Iowa State,KICK RETURNS,Cameron,Batson,AVG,17.8
+3341064,11/19/2016,FBS,Texas Tech,Iowa State,KICK RETURNS,Cameron,Batson,LONG,27
+3341065,11/19/2016,FBS,Texas Tech,Iowa State,KICK RETURNS,Keke,Coutee,NO,1
+3341066,11/19/2016,FBS,Texas Tech,Iowa State,KICK RETURNS,Keke,Coutee,YDS,15
+3341067,11/19/2016,FBS,Texas Tech,Iowa State,KICK RETURNS,Keke,Coutee,AVG,15.0
+3341068,11/19/2016,FBS,Texas Tech,Iowa State,KICK RETURNS,Keke,Coutee,LONG,15
+3341069,11/19/2016,FBS,Iowa State,Texas Tech,RUSHING,Joel,Lanning,ATT,17
+3341070,11/19/2016,FBS,Iowa State,Texas Tech,RUSHING,Joel,Lanning,YDS,171
+3341071,11/19/2016,FBS,Iowa State,Texas Tech,RUSHING,Joel,Lanning,TD,5
+3341072,11/19/2016,FBS,Iowa State,Texas Tech,RUSHING,Joel,Lanning,LONG,35
+3341073,11/19/2016,FBS,Iowa State,Texas Tech,RUSHING,Kene,Nwangwu,ATT,6
+3341074,11/19/2016,FBS,Iowa State,Texas Tech,RUSHING,Kene,Nwangwu,YDS,44
+3341075,11/19/2016,FBS,Iowa State,Texas Tech,RUSHING,Kene,Nwangwu,TD,0
+3341076,11/19/2016,FBS,Iowa State,Texas Tech,RUSHING,Kene,Nwangwu,LONG,14
+3341077,11/19/2016,FBS,Iowa State,Texas Tech,RUSHING,David,Montgomery,ATT,11
+3341078,11/19/2016,FBS,Iowa State,Texas Tech,RUSHING,David,Montgomery,YDS,31
+3341079,11/19/2016,FBS,Iowa State,Texas Tech,RUSHING,David,Montgomery,TD,0
+3341080,11/19/2016,FBS,Iowa State,Texas Tech,RUSHING,David,Montgomery,LONG,8
+3341081,11/19/2016,FBS,Iowa State,Texas Tech,RUSHING,Mike,Warren,ATT,5
+3341082,11/19/2016,FBS,Iowa State,Texas Tech,RUSHING,Mike,Warren,YDS,15
+3341083,11/19/2016,FBS,Iowa State,Texas Tech,RUSHING,Mike,Warren,TD,0
+3341084,11/19/2016,FBS,Iowa State,Texas Tech,RUSHING,Mike,Warren,LONG,5
+3341085,11/19/2016,FBS,Iowa State,Texas Tech,RUSHING,Mitchell,Harger,ATT,2
+3341086,11/19/2016,FBS,Iowa State,Texas Tech,RUSHING,Mitchell,Harger,YDS,6
+3341087,11/19/2016,FBS,Iowa State,Texas Tech,RUSHING,Mitchell,Harger,TD,0
+3341088,11/19/2016,FBS,Iowa State,Texas Tech,RUSHING,Mitchell,Harger,LONG,6
+3341089,11/19/2016,FBS,Iowa State,Texas Tech,RUSHING,Jacob,Park,ATT,2
+3341090,11/19/2016,FBS,Iowa State,Texas Tech,RUSHING,Jacob,Park,YDS,5
+3341091,11/19/2016,FBS,Iowa State,Texas Tech,RUSHING,Jacob,Park,TD,1
+3341092,11/19/2016,FBS,Iowa State,Texas Tech,RUSHING,Jacob,Park,LONG,3
+3341093,11/19/2016,FBS,Iowa State,Texas Tech,PASSING,Jacob,Park,CP-ATT-INT,14-18-0
+3341094,11/19/2016,FBS,Iowa State,Texas Tech,PASSING,Jacob,Park,YDS,285
+3341095,11/19/2016,FBS,Iowa State,Texas Tech,PASSING,Jacob,Park,TD,2
+3341096,11/19/2016,FBS,Iowa State,Texas Tech,PASSING,Jacob,Park,LONG,45
+3341097,11/19/2016,FBS,Iowa State,Texas Tech,PASSING,Joel,Lanning,CP-ATT-INT,3-4-0
+3341098,11/19/2016,FBS,Iowa State,Texas Tech,PASSING,Joel,Lanning,YDS,51
+3341099,11/19/2016,FBS,Iowa State,Texas Tech,PASSING,Joel,Lanning,TD,0
+3341100,11/19/2016,FBS,Iowa State,Texas Tech,PASSING,Joel,Lanning,LONG,38
+3341101,11/19/2016,FBS,Iowa State,Texas Tech,RECEIVING,Allen,Lazard,REC,7
+3341102,11/19/2016,FBS,Iowa State,Texas Tech,RECEIVING,Allen,Lazard,YDS,137
+3341103,11/19/2016,FBS,Iowa State,Texas Tech,RECEIVING,Allen,Lazard,TD,1
+3341104,11/19/2016,FBS,Iowa State,Texas Tech,RECEIVING,Allen,Lazard,LONG,38
+3341105,11/19/2016,FBS,Iowa State,Texas Tech,RECEIVING,Dondre,Daley,REC,2
+3341106,11/19/2016,FBS,Iowa State,Texas Tech,RECEIVING,Dondre,Daley,YDS,63
+3341107,11/19/2016,FBS,Iowa State,Texas Tech,RECEIVING,Dondre,Daley,TD,0
+3341108,11/19/2016,FBS,Iowa State,Texas Tech,RECEIVING,Dondre,Daley,LONG,45
+3341109,11/19/2016,FBS,Iowa State,Texas Tech,RECEIVING,Deshaunte,Jones,REC,3
+3341110,11/19/2016,FBS,Iowa State,Texas Tech,RECEIVING,Deshaunte,Jones,YDS,58
+3341111,11/19/2016,FBS,Iowa State,Texas Tech,RECEIVING,Deshaunte,Jones,TD,0
+3341112,11/19/2016,FBS,Iowa State,Texas Tech,RECEIVING,Deshaunte,Jones,LONG,34
+3341113,11/19/2016,FBS,Iowa State,Texas Tech,RECEIVING,Hakeem,Butler,REC,1
+3341114,11/19/2016,FBS,Iowa State,Texas Tech,RECEIVING,Hakeem,Butler,YDS,39
+3341115,11/19/2016,FBS,Iowa State,Texas Tech,RECEIVING,Hakeem,Butler,TD,1
+3341116,11/19/2016,FBS,Iowa State,Texas Tech,RECEIVING,Hakeem,Butler,LONG,39
+3341117,11/19/2016,FBS,Iowa State,Texas Tech,RECEIVING,Trever,Ryen,REC,3
+3341118,11/19/2016,FBS,Iowa State,Texas Tech,RECEIVING,Trever,Ryen,YDS,25
+3341119,11/19/2016,FBS,Iowa State,Texas Tech,RECEIVING,Trever,Ryen,TD,0
+3341120,11/19/2016,FBS,Iowa State,Texas Tech,RECEIVING,Trever,Ryen,LONG,18
+3341121,11/19/2016,FBS,Iowa State,Texas Tech,RECEIVING,David,Montgomery,REC,1
+3341122,11/19/2016,FBS,Iowa State,Texas Tech,RECEIVING,David,Montgomery,YDS,14
+3341123,11/19/2016,FBS,Iowa State,Texas Tech,RECEIVING,David,Montgomery,TD,0
+3341124,11/19/2016,FBS,Iowa State,Texas Tech,RECEIVING,David,Montgomery,LONG,14
+3341125,11/19/2016,FBS,Iowa State,Texas Tech,KICKING,Cole,Netten,FG-FGA,1/1
+3341126,11/19/2016,FBS,Iowa State,Texas Tech,KICKING,Cole,Netten,LONG,27
+3341127,11/19/2016,FBS,Iowa State,Texas Tech,KICKING,Cole,Netten,XP,8
+3341128,11/19/2016,FBS,Iowa State,Texas Tech,KICKING,Cole,Netten,PTS,11
+3341129,11/19/2016,FBS,Iowa State,Texas Tech,KICKING,Peyton,Paddock,FG-FGA,0/0
+3341130,11/19/2016,FBS,Iowa State,Texas Tech,KICKING,Peyton,Paddock,LONG,-
+3341131,11/19/2016,FBS,Iowa State,Texas Tech,KICKING,Peyton,Paddock,XP,1
+3341132,11/19/2016,FBS,Iowa State,Texas Tech,KICKING,Peyton,Paddock,PTS,1
+3341133,11/19/2016,FBS,Iowa State,Texas Tech,PUNTING,Colin,Downing,NO,3
+3341134,11/19/2016,FBS,Iowa State,Texas Tech,PUNTING,Colin,Downing,YDS,107
+3341135,11/19/2016,FBS,Iowa State,Texas Tech,PUNTING,Colin,Downing,AVG,35.7
+3341136,11/19/2016,FBS,Iowa State,Texas Tech,PUNTING,Colin,Downing,LONG,40
+3341137,11/19/2016,FBS,Iowa State,Texas Tech,KICK RETURNS,Deshaunte,Jones,NO,1
+3341138,11/19/2016,FBS,Iowa State,Texas Tech,KICK RETURNS,Deshaunte,Jones,YDS,11
+3341139,11/19/2016,FBS,Iowa State,Texas Tech,KICK RETURNS,Deshaunte,Jones,AVG,11.0
+3341140,11/19/2016,FBS,Iowa State,Texas Tech,KICK RETURNS,Deshaunte,Jones,LONG,11

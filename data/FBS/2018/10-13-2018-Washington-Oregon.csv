@@ -1,0 +1,177 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+4806001,10/13/2018,FBS,Washington,Oregon,RUSHING,Myles,Gaskin,ATT,15
+4806002,10/13/2018,FBS,Washington,Oregon,RUSHING,Myles,Gaskin,YDS,69
+4806003,10/13/2018,FBS,Washington,Oregon,RUSHING,Myles,Gaskin,TD,0
+4806004,10/13/2018,FBS,Washington,Oregon,RUSHING,Myles,Gaskin,LONG,10
+4806005,10/13/2018,FBS,Washington,Oregon,RUSHING,Salvon,Ahmed,ATT,11
+4806006,10/13/2018,FBS,Washington,Oregon,RUSHING,Salvon,Ahmed,YDS,61
+4806007,10/13/2018,FBS,Washington,Oregon,RUSHING,Salvon,Ahmed,TD,2
+4806008,10/13/2018,FBS,Washington,Oregon,RUSHING,Salvon,Ahmed,LONG,25
+4806009,10/13/2018,FBS,Washington,Oregon,RUSHING,Kamari,Pleasant,ATT,4
+4806010,10/13/2018,FBS,Washington,Oregon,RUSHING,Kamari,Pleasant,YDS,30
+4806011,10/13/2018,FBS,Washington,Oregon,RUSHING,Kamari,Pleasant,TD,0
+4806012,10/13/2018,FBS,Washington,Oregon,RUSHING,Kamari,Pleasant,LONG,19
+4806013,10/13/2018,FBS,Washington,Oregon,RUSHING,Sean,McGrew,ATT,8
+4806014,10/13/2018,FBS,Washington,Oregon,RUSHING,Sean,McGrew,YDS,30
+4806015,10/13/2018,FBS,Washington,Oregon,RUSHING,Sean,McGrew,TD,0
+4806016,10/13/2018,FBS,Washington,Oregon,RUSHING,Sean,McGrew,LONG,8
+4806017,10/13/2018,FBS,Washington,Oregon,RUSHING,Jake,Browning,ATT,6
+4806018,10/13/2018,FBS,Washington,Oregon,RUSHING,Jake,Browning,YDS,5
+4806019,10/13/2018,FBS,Washington,Oregon,RUSHING,Jake,Browning,TD,0
+4806020,10/13/2018,FBS,Washington,Oregon,RUSHING,Jake,Browning,LONG,8
+4806021,10/13/2018,FBS,Washington,Oregon,RUSHING,,Team,ATT,1
+4806022,10/13/2018,FBS,Washington,Oregon,RUSHING,,Team,YDS,-1
+4806023,10/13/2018,FBS,Washington,Oregon,RUSHING,,Team,TD,0
+4806024,10/13/2018,FBS,Washington,Oregon,RUSHING,,Team,LONG,-1
+4806025,10/13/2018,FBS,Washington,Oregon,PASSING,Jake,Browning,CP-ATT-INT,15-25-1
+4806026,10/13/2018,FBS,Washington,Oregon,PASSING,Jake,Browning,YDS,243
+4806027,10/13/2018,FBS,Washington,Oregon,PASSING,Jake,Browning,TD,1
+4806028,10/13/2018,FBS,Washington,Oregon,PASSING,Jake,Browning,LONG,43
+4806029,10/13/2018,FBS,Washington,Oregon,RECEIVING,Drew,Sample,REC,4
+4806030,10/13/2018,FBS,Washington,Oregon,RECEIVING,Drew,Sample,YDS,79
+4806031,10/13/2018,FBS,Washington,Oregon,RECEIVING,Drew,Sample,TD,0
+4806032,10/13/2018,FBS,Washington,Oregon,RECEIVING,Drew,Sample,LONG,33
+4806033,10/13/2018,FBS,Washington,Oregon,RECEIVING,Ty,Jones,REC,2
+4806034,10/13/2018,FBS,Washington,Oregon,RECEIVING,Ty,Jones,YDS,55
+4806035,10/13/2018,FBS,Washington,Oregon,RECEIVING,Ty,Jones,TD,1
+4806036,10/13/2018,FBS,Washington,Oregon,RECEIVING,Ty,Jones,LONG,43
+4806037,10/13/2018,FBS,Washington,Oregon,RECEIVING,Cade,Otton,REC,2
+4806038,10/13/2018,FBS,Washington,Oregon,RECEIVING,Cade,Otton,YDS,36
+4806039,10/13/2018,FBS,Washington,Oregon,RECEIVING,Cade,Otton,TD,0
+4806040,10/13/2018,FBS,Washington,Oregon,RECEIVING,Cade,Otton,LONG,20
+4806041,10/13/2018,FBS,Washington,Oregon,RECEIVING,Sean,McGrew,REC,2
+4806042,10/13/2018,FBS,Washington,Oregon,RECEIVING,Sean,McGrew,YDS,34
+4806043,10/13/2018,FBS,Washington,Oregon,RECEIVING,Sean,McGrew,TD,0
+4806044,10/13/2018,FBS,Washington,Oregon,RECEIVING,Sean,McGrew,LONG,30
+4806045,10/13/2018,FBS,Washington,Oregon,RECEIVING,Aaron,Fuller,REC,2
+4806046,10/13/2018,FBS,Washington,Oregon,RECEIVING,Aaron,Fuller,YDS,15
+4806047,10/13/2018,FBS,Washington,Oregon,RECEIVING,Aaron,Fuller,TD,0
+4806048,10/13/2018,FBS,Washington,Oregon,RECEIVING,Aaron,Fuller,LONG,12
+4806049,10/13/2018,FBS,Washington,Oregon,RECEIVING,Andre,Baccellia,REC,1
+4806050,10/13/2018,FBS,Washington,Oregon,RECEIVING,Andre,Baccellia,YDS,14
+4806051,10/13/2018,FBS,Washington,Oregon,RECEIVING,Andre,Baccellia,TD,0
+4806052,10/13/2018,FBS,Washington,Oregon,RECEIVING,Andre,Baccellia,LONG,14
+4806053,10/13/2018,FBS,Washington,Oregon,RECEIVING,Kamari,Pleasant,REC,1
+4806054,10/13/2018,FBS,Washington,Oregon,RECEIVING,Kamari,Pleasant,YDS,7
+4806055,10/13/2018,FBS,Washington,Oregon,RECEIVING,Kamari,Pleasant,TD,0
+4806056,10/13/2018,FBS,Washington,Oregon,RECEIVING,Kamari,Pleasant,LONG,7
+4806057,10/13/2018,FBS,Washington,Oregon,RECEIVING,Salvon,Ahmed,REC,1
+4806058,10/13/2018,FBS,Washington,Oregon,RECEIVING,Salvon,Ahmed,YDS,3
+4806059,10/13/2018,FBS,Washington,Oregon,RECEIVING,Salvon,Ahmed,TD,0
+4806060,10/13/2018,FBS,Washington,Oregon,RECEIVING,Salvon,Ahmed,LONG,3
+4806061,10/13/2018,FBS,Washington,Oregon,KICKING,Peyton,Henry,FG-FGA,2/3
+4806062,10/13/2018,FBS,Washington,Oregon,KICKING,Peyton,Henry,LONG,41
+4806063,10/13/2018,FBS,Washington,Oregon,KICKING,Peyton,Henry,XP,3
+4806064,10/13/2018,FBS,Washington,Oregon,KICKING,Peyton,Henry,PTS,9
+4806065,10/13/2018,FBS,Washington,Oregon,PUNTING,Joel,Whitford,NO,2
+4806066,10/13/2018,FBS,Washington,Oregon,PUNTING,Joel,Whitford,YDS,67
+4806067,10/13/2018,FBS,Washington,Oregon,PUNTING,Joel,Whitford,AVG,33.5
+4806068,10/13/2018,FBS,Washington,Oregon,PUNTING,Joel,Whitford,LONG,40
+4806069,10/13/2018,FBS,Washington,Oregon,PUNTING,Race,Porter,NO,1
+4806070,10/13/2018,FBS,Washington,Oregon,PUNTING,Race,Porter,YDS,56
+4806071,10/13/2018,FBS,Washington,Oregon,PUNTING,Race,Porter,AVG,56.0
+4806072,10/13/2018,FBS,Washington,Oregon,PUNTING,Race,Porter,LONG,56
+4806073,10/13/2018,FBS,Washington,Oregon,PUNT RETURNS,Aaron,Fuller,NO,1
+4806074,10/13/2018,FBS,Washington,Oregon,PUNT RETURNS,Aaron,Fuller,YDS,0
+4806075,10/13/2018,FBS,Washington,Oregon,PUNT RETURNS,Aaron,Fuller,AVG,-
+4806076,10/13/2018,FBS,Washington,Oregon,PUNT RETURNS,Aaron,Fuller,LONG,0
+4806077,10/13/2018,FBS,Washington,Oregon,KICK RETURNS,Sean,McGrew,NO,3
+4806078,10/13/2018,FBS,Washington,Oregon,KICK RETURNS,Sean,McGrew,YDS,57
+4806079,10/13/2018,FBS,Washington,Oregon,KICK RETURNS,Sean,McGrew,AVG,19.0
+4806080,10/13/2018,FBS,Washington,Oregon,KICK RETURNS,Sean,McGrew,LONG,25
+4806081,10/13/2018,FBS,Washington,Oregon,DEFENSE,Tevis,Bartlett,TOT,2
+4806082,10/13/2018,FBS,Washington,Oregon,DEFENSE,Tevis,Bartlett,SOLO,2
+4806083,10/13/2018,FBS,Washington,Oregon,DEFENSE,Tevis,Bartlett,SACKS,1.0
+4806084,10/13/2018,FBS,Washington,Oregon,DEFENSE,Tevis,Bartlett,TFL,1
+4806085,10/13/2018,FBS,Washington,Oregon,DEFENSE,Tevis,Bartlett,INT,0
+4806086,10/13/2018,FBS,Washington,Oregon,DEFENSE,Tevis,Bartlett,FF,1
+4806087,10/13/2018,FBS,Washington,Oregon,DEFENSE,Tevis,Bartlett,FR,0
+4806088,10/13/2018,FBS,Oregon,Washington,RUSHING,CJ,Verdell,ATT,29
+4806089,10/13/2018,FBS,Oregon,Washington,RUSHING,CJ,Verdell,YDS,111
+4806090,10/13/2018,FBS,Oregon,Washington,RUSHING,CJ,Verdell,TD,2
+4806091,10/13/2018,FBS,Oregon,Washington,RUSHING,CJ,Verdell,LONG,9
+4806092,10/13/2018,FBS,Oregon,Washington,RUSHING,Travis,Dye,ATT,15
+4806093,10/13/2018,FBS,Oregon,Washington,RUSHING,Travis,Dye,YDS,67
+4806094,10/13/2018,FBS,Oregon,Washington,RUSHING,Travis,Dye,TD,0
+4806095,10/13/2018,FBS,Oregon,Washington,RUSHING,Travis,Dye,LONG,14
+4806096,10/13/2018,FBS,Oregon,Washington,RUSHING,Justin,Herbert,ATT,5
+4806097,10/13/2018,FBS,Oregon,Washington,RUSHING,Justin,Herbert,YDS,-1
+4806098,10/13/2018,FBS,Oregon,Washington,RUSHING,Justin,Herbert,TD,0
+4806099,10/13/2018,FBS,Oregon,Washington,RUSHING,Justin,Herbert,LONG,5
+4806100,10/13/2018,FBS,Oregon,Washington,PASSING,Justin,Herbert,CP-ATT-INT,18-32-0
+4806101,10/13/2018,FBS,Oregon,Washington,PASSING,Justin,Herbert,YDS,202
+4806102,10/13/2018,FBS,Oregon,Washington,PASSING,Justin,Herbert,TD,2
+4806103,10/13/2018,FBS,Oregon,Washington,PASSING,Justin,Herbert,LONG,23
+4806104,10/13/2018,FBS,Oregon,Washington,RECEIVING,Dillon,Mitchell,REC,8
+4806105,10/13/2018,FBS,Oregon,Washington,RECEIVING,Dillon,Mitchell,YDS,119
+4806106,10/13/2018,FBS,Oregon,Washington,RECEIVING,Dillon,Mitchell,TD,1
+4806107,10/13/2018,FBS,Oregon,Washington,RECEIVING,Dillon,Mitchell,LONG,23
+4806108,10/13/2018,FBS,Oregon,Washington,RECEIVING,Jaylon,Redd,REC,3
+4806109,10/13/2018,FBS,Oregon,Washington,RECEIVING,Jaylon,Redd,YDS,33
+4806110,10/13/2018,FBS,Oregon,Washington,RECEIVING,Jaylon,Redd,TD,1
+4806111,10/13/2018,FBS,Oregon,Washington,RECEIVING,Jaylon,Redd,LONG,19
+4806112,10/13/2018,FBS,Oregon,Washington,RECEIVING,Ryan,Bay,REC,3
+4806113,10/13/2018,FBS,Oregon,Washington,RECEIVING,Ryan,Bay,YDS,23
+4806114,10/13/2018,FBS,Oregon,Washington,RECEIVING,Ryan,Bay,TD,0
+4806115,10/13/2018,FBS,Oregon,Washington,RECEIVING,Ryan,Bay,LONG,12
+4806116,10/13/2018,FBS,Oregon,Washington,RECEIVING,Jacob,Breeland,REC,2
+4806117,10/13/2018,FBS,Oregon,Washington,RECEIVING,Jacob,Breeland,YDS,12
+4806118,10/13/2018,FBS,Oregon,Washington,RECEIVING,Jacob,Breeland,TD,0
+4806119,10/13/2018,FBS,Oregon,Washington,RECEIVING,Jacob,Breeland,LONG,10
+4806120,10/13/2018,FBS,Oregon,Washington,RECEIVING,Kano,Dillon,REC,1
+4806121,10/13/2018,FBS,Oregon,Washington,RECEIVING,Kano,Dillon,YDS,8
+4806122,10/13/2018,FBS,Oregon,Washington,RECEIVING,Kano,Dillon,TD,0
+4806123,10/13/2018,FBS,Oregon,Washington,RECEIVING,Kano,Dillon,LONG,8
+4806124,10/13/2018,FBS,Oregon,Washington,RECEIVING,Travis,Dye,REC,1
+4806125,10/13/2018,FBS,Oregon,Washington,RECEIVING,Travis,Dye,YDS,7
+4806126,10/13/2018,FBS,Oregon,Washington,RECEIVING,Travis,Dye,TD,0
+4806127,10/13/2018,FBS,Oregon,Washington,RECEIVING,Travis,Dye,LONG,7
+4806128,10/13/2018,FBS,Oregon,Washington,KICKING,Adam,Stack,FG-FGA,1/2
+4806129,10/13/2018,FBS,Oregon,Washington,KICKING,Adam,Stack,LONG,39
+4806130,10/13/2018,FBS,Oregon,Washington,KICKING,Adam,Stack,XP,3
+4806131,10/13/2018,FBS,Oregon,Washington,KICKING,Adam,Stack,PTS,6
+4806132,10/13/2018,FBS,Oregon,Washington,PUNTING,Blake,Maimone,NO,2
+4806133,10/13/2018,FBS,Oregon,Washington,PUNTING,Blake,Maimone,YDS,96
+4806134,10/13/2018,FBS,Oregon,Washington,PUNTING,Blake,Maimone,AVG,48.0
+4806135,10/13/2018,FBS,Oregon,Washington,PUNTING,Blake,Maimone,LONG,52
+4806136,10/13/2018,FBS,Oregon,Washington,PUNTING,Tom,Snee,NO,2
+4806137,10/13/2018,FBS,Oregon,Washington,PUNTING,Tom,Snee,YDS,58
+4806138,10/13/2018,FBS,Oregon,Washington,PUNTING,Tom,Snee,AVG,29.0
+4806139,10/13/2018,FBS,Oregon,Washington,PUNTING,Tom,Snee,LONG,30
+4806140,10/13/2018,FBS,Oregon,Washington,PUNT RETURNS,Dillon,Mitchell,NO,1
+4806141,10/13/2018,FBS,Oregon,Washington,PUNT RETURNS,Dillon,Mitchell,YDS,0
+4806142,10/13/2018,FBS,Oregon,Washington,PUNT RETURNS,Dillon,Mitchell,AVG,-
+4806143,10/13/2018,FBS,Oregon,Washington,PUNT RETURNS,Dillon,Mitchell,LONG,0
+4806144,10/13/2018,FBS,Oregon,Washington,KICK RETURNS,Tony,Brooks-James,NO,2
+4806145,10/13/2018,FBS,Oregon,Washington,KICK RETURNS,Tony,Brooks-James,YDS,96
+4806146,10/13/2018,FBS,Oregon,Washington,KICK RETURNS,Tony,Brooks-James,AVG,48.0
+4806147,10/13/2018,FBS,Oregon,Washington,KICK RETURNS,Tony,Brooks-James,LONG,56
+4806148,10/13/2018,FBS,Oregon,Washington,KICK RETURNS,Jaylon,Redd,NO,1
+4806149,10/13/2018,FBS,Oregon,Washington,KICK RETURNS,Jaylon,Redd,YDS,11
+4806150,10/13/2018,FBS,Oregon,Washington,KICK RETURNS,Jaylon,Redd,AVG,11.0
+4806151,10/13/2018,FBS,Oregon,Washington,KICK RETURNS,Jaylon,Redd,LONG,11
+4806152,10/13/2018,FBS,Oregon,Washington,KICK RETURNS,Ryan,Bay,NO,1
+4806153,10/13/2018,FBS,Oregon,Washington,KICK RETURNS,Ryan,Bay,YDS,1
+4806154,10/13/2018,FBS,Oregon,Washington,KICK RETURNS,Ryan,Bay,AVG,1.0
+4806155,10/13/2018,FBS,Oregon,Washington,KICK RETURNS,Ryan,Bay,LONG,1
+4806156,10/13/2018,FBS,Oregon,Washington,DEFENSE,Austin,Faoliu,TOT,1
+4806157,10/13/2018,FBS,Oregon,Washington,DEFENSE,Austin,Faoliu,SOLO,0
+4806158,10/13/2018,FBS,Oregon,Washington,DEFENSE,Austin,Faoliu,SACKS,0.5
+4806159,10/13/2018,FBS,Oregon,Washington,DEFENSE,Austin,Faoliu,TFL,0
+4806160,10/13/2018,FBS,Oregon,Washington,DEFENSE,Austin,Faoliu,INT,0
+4806161,10/13/2018,FBS,Oregon,Washington,DEFENSE,Austin,Faoliu,FF,0
+4806162,10/13/2018,FBS,Oregon,Washington,DEFENSE,Austin,Faoliu,FR,0
+4806163,10/13/2018,FBS,Oregon,Washington,DEFENSE,Kaulana,Apelu,TOT,1
+4806164,10/13/2018,FBS,Oregon,Washington,DEFENSE,Kaulana,Apelu,SOLO,0
+4806165,10/13/2018,FBS,Oregon,Washington,DEFENSE,Kaulana,Apelu,SACKS,0.5
+4806166,10/13/2018,FBS,Oregon,Washington,DEFENSE,Kaulana,Apelu,TFL,0
+4806167,10/13/2018,FBS,Oregon,Washington,DEFENSE,Kaulana,Apelu,INT,0
+4806168,10/13/2018,FBS,Oregon,Washington,DEFENSE,Kaulana,Apelu,FF,0
+4806169,10/13/2018,FBS,Oregon,Washington,DEFENSE,Kaulana,Apelu,FR,0
+4806170,10/13/2018,FBS,Oregon,Washington,DEFENSE,Deommodore,Lenoir,TOT,0
+4806171,10/13/2018,FBS,Oregon,Washington,DEFENSE,Deommodore,Lenoir,SOLO,0
+4806172,10/13/2018,FBS,Oregon,Washington,DEFENSE,Deommodore,Lenoir,SACKS,0.0
+4806173,10/13/2018,FBS,Oregon,Washington,DEFENSE,Deommodore,Lenoir,TFL,0
+4806174,10/13/2018,FBS,Oregon,Washington,DEFENSE,Deommodore,Lenoir,INT,1
+4806175,10/13/2018,FBS,Oregon,Washington,DEFENSE,Deommodore,Lenoir,FF,0
+4806176,10/13/2018,FBS,Oregon,Washington,DEFENSE,Deommodore,Lenoir,FR,0

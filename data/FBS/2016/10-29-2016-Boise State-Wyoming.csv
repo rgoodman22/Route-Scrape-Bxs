@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3170001,10/29/2016,FBS,Boise State,Wyoming,RUSHING,Jeremy,McNichols,ATT,18
+3170002,10/29/2016,FBS,Boise State,Wyoming,RUSHING,Jeremy,McNichols,YDS,143
+3170003,10/29/2016,FBS,Boise State,Wyoming,RUSHING,Jeremy,McNichols,TD,2
+3170004,10/29/2016,FBS,Boise State,Wyoming,RUSHING,Jeremy,McNichols,LONG,40
+3170005,10/29/2016,FBS,Boise State,Wyoming,RUSHING,Alexander,Mattison,ATT,4
+3170006,10/29/2016,FBS,Boise State,Wyoming,RUSHING,Alexander,Mattison,YDS,40
+3170007,10/29/2016,FBS,Boise State,Wyoming,RUSHING,Alexander,Mattison,TD,1
+3170008,10/29/2016,FBS,Boise State,Wyoming,RUSHING,Alexander,Mattison,LONG,16
+3170009,10/29/2016,FBS,Boise State,Wyoming,RUSHING,Brett,Rypien,ATT,5
+3170010,10/29/2016,FBS,Boise State,Wyoming,RUSHING,Brett,Rypien,YDS,-24
+3170011,10/29/2016,FBS,Boise State,Wyoming,RUSHING,Brett,Rypien,TD,0
+3170012,10/29/2016,FBS,Boise State,Wyoming,RUSHING,Brett,Rypien,LONG,2
+3170013,10/29/2016,FBS,Boise State,Wyoming,PASSING,Brett,Rypien,CP-ATT-INT,22-35-1
+3170014,10/29/2016,FBS,Boise State,Wyoming,PASSING,Brett,Rypien,YDS,295
+3170015,10/29/2016,FBS,Boise State,Wyoming,PASSING,Brett,Rypien,TD,0
+3170016,10/29/2016,FBS,Boise State,Wyoming,PASSING,Brett,Rypien,LONG,43
+3170017,10/29/2016,FBS,Boise State,Wyoming,PASSING,Thomas,Sperbeck,CP-ATT-INT,1-1-0
+3170018,10/29/2016,FBS,Boise State,Wyoming,PASSING,Thomas,Sperbeck,YDS,33
+3170019,10/29/2016,FBS,Boise State,Wyoming,PASSING,Thomas,Sperbeck,TD,1
+3170020,10/29/2016,FBS,Boise State,Wyoming,PASSING,Thomas,Sperbeck,LONG,33
+3170021,10/29/2016,FBS,Boise State,Wyoming,RECEIVING,Cedrick,Wilson,REC,4
+3170022,10/29/2016,FBS,Boise State,Wyoming,RECEIVING,Cedrick,Wilson,YDS,84
+3170023,10/29/2016,FBS,Boise State,Wyoming,RECEIVING,Cedrick,Wilson,TD,0
+3170024,10/29/2016,FBS,Boise State,Wyoming,RECEIVING,Cedrick,Wilson,LONG,43
+3170025,10/29/2016,FBS,Boise State,Wyoming,RECEIVING,Thomas,Sperbeck,REC,8
+3170026,10/29/2016,FBS,Boise State,Wyoming,RECEIVING,Thomas,Sperbeck,YDS,80
+3170027,10/29/2016,FBS,Boise State,Wyoming,RECEIVING,Thomas,Sperbeck,TD,0
+3170028,10/29/2016,FBS,Boise State,Wyoming,RECEIVING,Thomas,Sperbeck,LONG,19
+3170029,10/29/2016,FBS,Boise State,Wyoming,RECEIVING,Chaz,Anderson,REC,3
+3170030,10/29/2016,FBS,Boise State,Wyoming,RECEIVING,Chaz,Anderson,YDS,50
+3170031,10/29/2016,FBS,Boise State,Wyoming,RECEIVING,Chaz,Anderson,TD,0
+3170032,10/29/2016,FBS,Boise State,Wyoming,RECEIVING,Chaz,Anderson,LONG,20
+3170033,10/29/2016,FBS,Boise State,Wyoming,RECEIVING,Brett,Rypien,REC,1
+3170034,10/29/2016,FBS,Boise State,Wyoming,RECEIVING,Brett,Rypien,YDS,33
+3170035,10/29/2016,FBS,Boise State,Wyoming,RECEIVING,Brett,Rypien,TD,1
+3170036,10/29/2016,FBS,Boise State,Wyoming,RECEIVING,Brett,Rypien,LONG,33
+3170037,10/29/2016,FBS,Boise State,Wyoming,RECEIVING,Chase,Blakley,REC,1
+3170038,10/29/2016,FBS,Boise State,Wyoming,RECEIVING,Chase,Blakley,YDS,28
+3170039,10/29/2016,FBS,Boise State,Wyoming,RECEIVING,Chase,Blakley,TD,0
+3170040,10/29/2016,FBS,Boise State,Wyoming,RECEIVING,Chase,Blakley,LONG,28
+3170041,10/29/2016,FBS,Boise State,Wyoming,RECEIVING,Sean,Modster,REC,2
+3170042,10/29/2016,FBS,Boise State,Wyoming,RECEIVING,Sean,Modster,YDS,27
+3170043,10/29/2016,FBS,Boise State,Wyoming,RECEIVING,Sean,Modster,TD,0
+3170044,10/29/2016,FBS,Boise State,Wyoming,RECEIVING,Sean,Modster,LONG,18
+3170045,10/29/2016,FBS,Boise State,Wyoming,RECEIVING,Jeremy,McNichols,REC,2
+3170046,10/29/2016,FBS,Boise State,Wyoming,RECEIVING,Jeremy,McNichols,YDS,18
+3170047,10/29/2016,FBS,Boise State,Wyoming,RECEIVING,Jeremy,McNichols,TD,0
+3170048,10/29/2016,FBS,Boise State,Wyoming,RECEIVING,Jeremy,McNichols,LONG,10
+3170049,10/29/2016,FBS,Boise State,Wyoming,RECEIVING,Alec,Dhaenens,REC,1
+3170050,10/29/2016,FBS,Boise State,Wyoming,RECEIVING,Alec,Dhaenens,YDS,5
+3170051,10/29/2016,FBS,Boise State,Wyoming,RECEIVING,Alec,Dhaenens,TD,0
+3170052,10/29/2016,FBS,Boise State,Wyoming,RECEIVING,Alec,Dhaenens,LONG,5
+3170053,10/29/2016,FBS,Boise State,Wyoming,RECEIVING,Alexander,Mattison,REC,1
+3170054,10/29/2016,FBS,Boise State,Wyoming,RECEIVING,Alexander,Mattison,YDS,3
+3170055,10/29/2016,FBS,Boise State,Wyoming,RECEIVING,Alexander,Mattison,TD,0
+3170056,10/29/2016,FBS,Boise State,Wyoming,RECEIVING,Alexander,Mattison,LONG,3
+3170057,10/29/2016,FBS,Boise State,Wyoming,KICKING,Tyler,Rausa,FG-FGA,0/0
+3170058,10/29/2016,FBS,Boise State,Wyoming,KICKING,Tyler,Rausa,LONG,-
+3170059,10/29/2016,FBS,Boise State,Wyoming,KICKING,Tyler,Rausa,XP,4
+3170060,10/29/2016,FBS,Boise State,Wyoming,KICKING,Tyler,Rausa,PTS,4
+3170061,10/29/2016,FBS,Boise State,Wyoming,PUNTING,Sean,Wale,NO,5
+3170062,10/29/2016,FBS,Boise State,Wyoming,PUNTING,Sean,Wale,YDS,227
+3170063,10/29/2016,FBS,Boise State,Wyoming,PUNTING,Sean,Wale,AVG,45.4
+3170064,10/29/2016,FBS,Boise State,Wyoming,PUNTING,Sean,Wale,LONG,54
+3170065,10/29/2016,FBS,Boise State,Wyoming,PUNT RETURNS,Cedrick,Wilson,NO,2
+3170066,10/29/2016,FBS,Boise State,Wyoming,PUNT RETURNS,Cedrick,Wilson,YDS,2
+3170067,10/29/2016,FBS,Boise State,Wyoming,PUNT RETURNS,Cedrick,Wilson,AVG,1.0
+3170068,10/29/2016,FBS,Boise State,Wyoming,PUNT RETURNS,Cedrick,Wilson,LONG,6
+3170069,10/29/2016,FBS,Boise State,Wyoming,KICK RETURNS,Jonathan,Moxey,NO,4
+3170070,10/29/2016,FBS,Boise State,Wyoming,KICK RETURNS,Jonathan,Moxey,YDS,82
+3170071,10/29/2016,FBS,Boise State,Wyoming,KICK RETURNS,Jonathan,Moxey,AVG,20.5
+3170072,10/29/2016,FBS,Boise State,Wyoming,KICK RETURNS,Jonathan,Moxey,LONG,24
+3170073,10/29/2016,FBS,Wyoming,Boise State,RUSHING,Brian,Hill,ATT,28
+3170074,10/29/2016,FBS,Wyoming,Boise State,RUSHING,Brian,Hill,YDS,146
+3170075,10/29/2016,FBS,Wyoming,Boise State,RUSHING,Brian,Hill,TD,0
+3170076,10/29/2016,FBS,Wyoming,Boise State,RUSHING,Brian,Hill,LONG,27
+3170077,10/29/2016,FBS,Wyoming,Boise State,RUSHING,Josh,Allen,ATT,11
+3170078,10/29/2016,FBS,Wyoming,Boise State,RUSHING,Josh,Allen,YDS,53
+3170079,10/29/2016,FBS,Wyoming,Boise State,RUSHING,Josh,Allen,TD,0
+3170080,10/29/2016,FBS,Wyoming,Boise State,RUSHING,Josh,Allen,LONG,16
+3170081,10/29/2016,FBS,Wyoming,Boise State,RUSHING,Shaun,Wick,ATT,5
+3170082,10/29/2016,FBS,Wyoming,Boise State,RUSHING,Shaun,Wick,YDS,10
+3170083,10/29/2016,FBS,Wyoming,Boise State,RUSHING,Shaun,Wick,TD,0
+3170084,10/29/2016,FBS,Wyoming,Boise State,RUSHING,Shaun,Wick,LONG,11
+3170085,10/29/2016,FBS,Wyoming,Boise State,RUSHING,Austin,Conway,ATT,3
+3170086,10/29/2016,FBS,Wyoming,Boise State,RUSHING,Austin,Conway,YDS,10
+3170087,10/29/2016,FBS,Wyoming,Boise State,RUSHING,Austin,Conway,TD,0
+3170088,10/29/2016,FBS,Wyoming,Boise State,RUSHING,Austin,Conway,LONG,7
+3170089,10/29/2016,FBS,Wyoming,Boise State,RUSHING,,Team,ATT,1
+3170090,10/29/2016,FBS,Wyoming,Boise State,RUSHING,,Team,YDS,-1
+3170091,10/29/2016,FBS,Wyoming,Boise State,RUSHING,,Team,TD,0
+3170092,10/29/2016,FBS,Wyoming,Boise State,RUSHING,,Team,LONG,-1
+3170093,10/29/2016,FBS,Wyoming,Boise State,RUSHING,Tanner,Gentry,ATT,1
+3170094,10/29/2016,FBS,Wyoming,Boise State,RUSHING,Tanner,Gentry,YDS,-3
+3170095,10/29/2016,FBS,Wyoming,Boise State,RUSHING,Tanner,Gentry,TD,0
+3170096,10/29/2016,FBS,Wyoming,Boise State,RUSHING,Tanner,Gentry,LONG,-3
+3170097,10/29/2016,FBS,Wyoming,Boise State,PASSING,Josh,Allen,CP-ATT-INT,18-31-1
+3170098,10/29/2016,FBS,Wyoming,Boise State,PASSING,Josh,Allen,YDS,274
+3170099,10/29/2016,FBS,Wyoming,Boise State,PASSING,Josh,Allen,TD,3
+3170100,10/29/2016,FBS,Wyoming,Boise State,PASSING,Josh,Allen,LONG,29
+3170101,10/29/2016,FBS,Wyoming,Boise State,RECEIVING,Jacob,Hollister,REC,6
+3170102,10/29/2016,FBS,Wyoming,Boise State,RECEIVING,Jacob,Hollister,YDS,144
+3170103,10/29/2016,FBS,Wyoming,Boise State,RECEIVING,Jacob,Hollister,TD,2
+3170104,10/29/2016,FBS,Wyoming,Boise State,RECEIVING,Jacob,Hollister,LONG,29
+3170105,10/29/2016,FBS,Wyoming,Boise State,RECEIVING,Tanner,Gentry,REC,6
+3170106,10/29/2016,FBS,Wyoming,Boise State,RECEIVING,Tanner,Gentry,YDS,73
+3170107,10/29/2016,FBS,Wyoming,Boise State,RECEIVING,Tanner,Gentry,TD,1
+3170108,10/29/2016,FBS,Wyoming,Boise State,RECEIVING,Tanner,Gentry,LONG,27
+3170109,10/29/2016,FBS,Wyoming,Boise State,RECEIVING,C.J.,Johnson,REC,1
+3170110,10/29/2016,FBS,Wyoming,Boise State,RECEIVING,C.J.,Johnson,YDS,25
+3170111,10/29/2016,FBS,Wyoming,Boise State,RECEIVING,C.J.,Johnson,TD,0
+3170112,10/29/2016,FBS,Wyoming,Boise State,RECEIVING,C.J.,Johnson,LONG,25
+3170113,10/29/2016,FBS,Wyoming,Boise State,RECEIVING,Josh,Harshman,REC,2
+3170114,10/29/2016,FBS,Wyoming,Boise State,RECEIVING,Josh,Harshman,YDS,16
+3170115,10/29/2016,FBS,Wyoming,Boise State,RECEIVING,Josh,Harshman,TD,0
+3170116,10/29/2016,FBS,Wyoming,Boise State,RECEIVING,Josh,Harshman,LONG,9
+3170117,10/29/2016,FBS,Wyoming,Boise State,RECEIVING,Jake,Maulhardt,REC,2
+3170118,10/29/2016,FBS,Wyoming,Boise State,RECEIVING,Jake,Maulhardt,YDS,13
+3170119,10/29/2016,FBS,Wyoming,Boise State,RECEIVING,Jake,Maulhardt,TD,0
+3170120,10/29/2016,FBS,Wyoming,Boise State,RECEIVING,Jake,Maulhardt,LONG,7
+3170121,10/29/2016,FBS,Wyoming,Boise State,RECEIVING,Austin,Conway,REC,1
+3170122,10/29/2016,FBS,Wyoming,Boise State,RECEIVING,Austin,Conway,YDS,3
+3170123,10/29/2016,FBS,Wyoming,Boise State,RECEIVING,Austin,Conway,TD,0
+3170124,10/29/2016,FBS,Wyoming,Boise State,RECEIVING,Austin,Conway,LONG,3
+3170125,10/29/2016,FBS,Wyoming,Boise State,KICKING,Cooper,Rothe,FG-FGA,2/2
+3170126,10/29/2016,FBS,Wyoming,Boise State,KICKING,Cooper,Rothe,LONG,40
+3170127,10/29/2016,FBS,Wyoming,Boise State,KICKING,Cooper,Rothe,XP,2
+3170128,10/29/2016,FBS,Wyoming,Boise State,KICKING,Cooper,Rothe,PTS,8
+3170129,10/29/2016,FBS,Wyoming,Boise State,PUNTING,Ethan,Wood,NO,5
+3170130,10/29/2016,FBS,Wyoming,Boise State,PUNTING,Ethan,Wood,YDS,232
+3170131,10/29/2016,FBS,Wyoming,Boise State,PUNTING,Ethan,Wood,AVG,46.4
+3170132,10/29/2016,FBS,Wyoming,Boise State,PUNTING,Ethan,Wood,LONG,52
+3170133,10/29/2016,FBS,Wyoming,Boise State,PUNT RETURNS,Austin,Conway,NO,2
+3170134,10/29/2016,FBS,Wyoming,Boise State,PUNT RETURNS,Austin,Conway,YDS,-1
+3170135,10/29/2016,FBS,Wyoming,Boise State,PUNT RETURNS,Austin,Conway,AVG,-
+3170136,10/29/2016,FBS,Wyoming,Boise State,PUNT RETURNS,Austin,Conway,LONG,4

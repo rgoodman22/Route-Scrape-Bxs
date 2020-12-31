@@ -1,0 +1,165 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2844001,9/17/2016,FBS,Georgia,Missouri,RUSHING,Nick,Chubb,ATT,19
+2844002,9/17/2016,FBS,Georgia,Missouri,RUSHING,Nick,Chubb,YDS,63
+2844003,9/17/2016,FBS,Georgia,Missouri,RUSHING,Nick,Chubb,TD,0
+2844004,9/17/2016,FBS,Georgia,Missouri,RUSHING,Nick,Chubb,LONG,16
+2844005,9/17/2016,FBS,Georgia,Missouri,RUSHING,Sony,Michel,ATT,9
+2844006,9/17/2016,FBS,Georgia,Missouri,RUSHING,Sony,Michel,YDS,37
+2844007,9/17/2016,FBS,Georgia,Missouri,RUSHING,Sony,Michel,TD,0
+2844008,9/17/2016,FBS,Georgia,Missouri,RUSHING,Sony,Michel,LONG,15
+2844009,9/17/2016,FBS,Georgia,Missouri,RUSHING,Isaiah,McKenzie,ATT,2
+2844010,9/17/2016,FBS,Georgia,Missouri,RUSHING,Isaiah,McKenzie,YDS,19
+2844011,9/17/2016,FBS,Georgia,Missouri,RUSHING,Isaiah,McKenzie,TD,1
+2844012,9/17/2016,FBS,Georgia,Missouri,RUSHING,Isaiah,McKenzie,LONG,13
+2844013,9/17/2016,FBS,Georgia,Missouri,RUSHING,,Team,ATT,3
+2844014,9/17/2016,FBS,Georgia,Missouri,RUSHING,,Team,YDS,-6
+2844015,9/17/2016,FBS,Georgia,Missouri,RUSHING,,Team,TD,0
+2844016,9/17/2016,FBS,Georgia,Missouri,RUSHING,,Team,LONG,-2
+2844017,9/17/2016,FBS,Georgia,Missouri,RUSHING,Jacob,Eason,ATT,5
+2844018,9/17/2016,FBS,Georgia,Missouri,RUSHING,Jacob,Eason,YDS,-12
+2844019,9/17/2016,FBS,Georgia,Missouri,RUSHING,Jacob,Eason,TD,0
+2844020,9/17/2016,FBS,Georgia,Missouri,RUSHING,Jacob,Eason,LONG,12
+2844021,9/17/2016,FBS,Georgia,Missouri,PASSING,Jacob,Eason,CP-ATT-INT,29-55-1
+2844022,9/17/2016,FBS,Georgia,Missouri,PASSING,Jacob,Eason,YDS,308
+2844023,9/17/2016,FBS,Georgia,Missouri,PASSING,Jacob,Eason,TD,3
+2844024,9/17/2016,FBS,Georgia,Missouri,PASSING,Jacob,Eason,LONG,32
+2844025,9/17/2016,FBS,Georgia,Missouri,RECEIVING,Isaiah,McKenzie,REC,10
+2844026,9/17/2016,FBS,Georgia,Missouri,RECEIVING,Isaiah,McKenzie,YDS,122
+2844027,9/17/2016,FBS,Georgia,Missouri,RECEIVING,Isaiah,McKenzie,TD,2
+2844028,9/17/2016,FBS,Georgia,Missouri,RECEIVING,Isaiah,McKenzie,LONG,31
+2844029,9/17/2016,FBS,Georgia,Missouri,RECEIVING,Terry,Godwin,REC,4
+2844030,9/17/2016,FBS,Georgia,Missouri,RECEIVING,Terry,Godwin,YDS,68
+2844031,9/17/2016,FBS,Georgia,Missouri,RECEIVING,Terry,Godwin,TD,0
+2844032,9/17/2016,FBS,Georgia,Missouri,RECEIVING,Terry,Godwin,LONG,32
+2844033,9/17/2016,FBS,Georgia,Missouri,RECEIVING,Christian,Payne,REC,5
+2844034,9/17/2016,FBS,Georgia,Missouri,RECEIVING,Christian,Payne,YDS,41
+2844035,9/17/2016,FBS,Georgia,Missouri,RECEIVING,Christian,Payne,TD,1
+2844036,9/17/2016,FBS,Georgia,Missouri,RECEIVING,Christian,Payne,LONG,19
+2844037,9/17/2016,FBS,Georgia,Missouri,RECEIVING,Sony,Michel,REC,3
+2844038,9/17/2016,FBS,Georgia,Missouri,RECEIVING,Sony,Michel,YDS,19
+2844039,9/17/2016,FBS,Georgia,Missouri,RECEIVING,Sony,Michel,TD,0
+2844040,9/17/2016,FBS,Georgia,Missouri,RECEIVING,Sony,Michel,LONG,9
+2844041,9/17/2016,FBS,Georgia,Missouri,RECEIVING,Jeb,Blazevich,REC,1
+2844042,9/17/2016,FBS,Georgia,Missouri,RECEIVING,Jeb,Blazevich,YDS,17
+2844043,9/17/2016,FBS,Georgia,Missouri,RECEIVING,Jeb,Blazevich,TD,0
+2844044,9/17/2016,FBS,Georgia,Missouri,RECEIVING,Jeb,Blazevich,LONG,17
+2844045,9/17/2016,FBS,Georgia,Missouri,RECEIVING,Isaac,Nauta,REC,3
+2844046,9/17/2016,FBS,Georgia,Missouri,RECEIVING,Isaac,Nauta,YDS,16
+2844047,9/17/2016,FBS,Georgia,Missouri,RECEIVING,Isaac,Nauta,TD,0
+2844048,9/17/2016,FBS,Georgia,Missouri,RECEIVING,Isaac,Nauta,LONG,7
+2844049,9/17/2016,FBS,Georgia,Missouri,RECEIVING,Reggie,Davis,REC,1
+2844050,9/17/2016,FBS,Georgia,Missouri,RECEIVING,Reggie,Davis,YDS,11
+2844051,9/17/2016,FBS,Georgia,Missouri,RECEIVING,Reggie,Davis,TD,0
+2844052,9/17/2016,FBS,Georgia,Missouri,RECEIVING,Reggie,Davis,LONG,11
+2844053,9/17/2016,FBS,Georgia,Missouri,RECEIVING,Michael,Chigbu,REC,1
+2844054,9/17/2016,FBS,Georgia,Missouri,RECEIVING,Michael,Chigbu,YDS,9
+2844055,9/17/2016,FBS,Georgia,Missouri,RECEIVING,Michael,Chigbu,TD,0
+2844056,9/17/2016,FBS,Georgia,Missouri,RECEIVING,Michael,Chigbu,LONG,9
+2844057,9/17/2016,FBS,Georgia,Missouri,RECEIVING,Jackson,Harris,REC,1
+2844058,9/17/2016,FBS,Georgia,Missouri,RECEIVING,Jackson,Harris,YDS,5
+2844059,9/17/2016,FBS,Georgia,Missouri,RECEIVING,Jackson,Harris,TD,0
+2844060,9/17/2016,FBS,Georgia,Missouri,RECEIVING,Jackson,Harris,LONG,5
+2844061,9/17/2016,FBS,Georgia,Missouri,KICKING,William,Ham,FG-FGA,0/2
+2844062,9/17/2016,FBS,Georgia,Missouri,KICKING,William,Ham,LONG,0
+2844063,9/17/2016,FBS,Georgia,Missouri,KICKING,William,Ham,XP,4
+2844064,9/17/2016,FBS,Georgia,Missouri,KICKING,William,Ham,PTS,4
+2844065,9/17/2016,FBS,Georgia,Missouri,PUNTING,Marshall,Long,NO,8
+2844066,9/17/2016,FBS,Georgia,Missouri,PUNTING,Marshall,Long,YDS,299
+2844067,9/17/2016,FBS,Georgia,Missouri,PUNTING,Marshall,Long,AVG,37.4
+2844068,9/17/2016,FBS,Georgia,Missouri,PUNTING,Marshall,Long,LONG,52
+2844069,9/17/2016,FBS,Georgia,Missouri,PUNT RETURNS,Isaiah,McKenzie,NO,2
+2844070,9/17/2016,FBS,Georgia,Missouri,PUNT RETURNS,Isaiah,McKenzie,YDS,25
+2844071,9/17/2016,FBS,Georgia,Missouri,PUNT RETURNS,Isaiah,McKenzie,AVG,12.5
+2844072,9/17/2016,FBS,Georgia,Missouri,PUNT RETURNS,Isaiah,McKenzie,LONG,16
+2844073,9/17/2016,FBS,Georgia,Missouri,KICK RETURNS,Reggie,Davis,NO,1
+2844074,9/17/2016,FBS,Georgia,Missouri,KICK RETURNS,Reggie,Davis,YDS,31
+2844075,9/17/2016,FBS,Georgia,Missouri,KICK RETURNS,Reggie,Davis,AVG,31.0
+2844076,9/17/2016,FBS,Georgia,Missouri,KICK RETURNS,Reggie,Davis,LONG,31
+2844077,9/17/2016,FBS,Missouri,Georgia,RUSHING,Ish,Witter,ATT,25
+2844078,9/17/2016,FBS,Missouri,Georgia,RUSHING,Ish,Witter,YDS,76
+2844079,9/17/2016,FBS,Missouri,Georgia,RUSHING,Ish,Witter,TD,0
+2844080,9/17/2016,FBS,Missouri,Georgia,RUSHING,Ish,Witter,LONG,11
+2844081,9/17/2016,FBS,Missouri,Georgia,RUSHING,Damarea,Crockett,ATT,8
+2844082,9/17/2016,FBS,Missouri,Georgia,RUSHING,Damarea,Crockett,YDS,23
+2844083,9/17/2016,FBS,Missouri,Georgia,RUSHING,Damarea,Crockett,TD,0
+2844084,9/17/2016,FBS,Missouri,Georgia,RUSHING,Damarea,Crockett,LONG,6
+2844085,9/17/2016,FBS,Missouri,Georgia,RUSHING,Drew,Lock,ATT,2
+2844086,9/17/2016,FBS,Missouri,Georgia,RUSHING,Drew,Lock,YDS,9
+2844087,9/17/2016,FBS,Missouri,Georgia,RUSHING,Drew,Lock,TD,0
+2844088,9/17/2016,FBS,Missouri,Georgia,RUSHING,Drew,Lock,LONG,10
+2844089,9/17/2016,FBS,Missouri,Georgia,RUSHING,Josh,Augusta,ATT,1
+2844090,9/17/2016,FBS,Missouri,Georgia,RUSHING,Josh,Augusta,YDS,1
+2844091,9/17/2016,FBS,Missouri,Georgia,RUSHING,Josh,Augusta,TD,0
+2844092,9/17/2016,FBS,Missouri,Georgia,RUSHING,Josh,Augusta,LONG,1
+2844093,9/17/2016,FBS,Missouri,Georgia,RUSHING,,Team,ATT,1
+2844094,9/17/2016,FBS,Missouri,Georgia,RUSHING,,Team,YDS,-14
+2844095,9/17/2016,FBS,Missouri,Georgia,RUSHING,,Team,TD,0
+2844096,9/17/2016,FBS,Missouri,Georgia,RUSHING,,Team,LONG,-14
+2844097,9/17/2016,FBS,Missouri,Georgia,PASSING,Drew,Lock,CP-ATT-INT,23-38-3
+2844098,9/17/2016,FBS,Missouri,Georgia,PASSING,Drew,Lock,YDS,376
+2844099,9/17/2016,FBS,Missouri,Georgia,PASSING,Drew,Lock,TD,3
+2844100,9/17/2016,FBS,Missouri,Georgia,PASSING,Drew,Lock,LONG,79
+2844101,9/17/2016,FBS,Missouri,Georgia,RECEIVING,J'Mon,Moore,REC,8
+2844102,9/17/2016,FBS,Missouri,Georgia,RECEIVING,J'Mon,Moore,YDS,196
+2844103,9/17/2016,FBS,Missouri,Georgia,RECEIVING,J'Mon,Moore,TD,2
+2844104,9/17/2016,FBS,Missouri,Georgia,RECEIVING,J'Mon,Moore,LONG,79
+2844105,9/17/2016,FBS,Missouri,Georgia,RECEIVING,Chris,Black,REC,3
+2844106,9/17/2016,FBS,Missouri,Georgia,RECEIVING,Chris,Black,YDS,44
+2844107,9/17/2016,FBS,Missouri,Georgia,RECEIVING,Chris,Black,TD,0
+2844108,9/17/2016,FBS,Missouri,Georgia,RECEIVING,Chris,Black,LONG,33
+2844109,9/17/2016,FBS,Missouri,Georgia,RECEIVING,Jason,Reese,REC,3
+2844110,9/17/2016,FBS,Missouri,Georgia,RECEIVING,Jason,Reese,YDS,28
+2844111,9/17/2016,FBS,Missouri,Georgia,RECEIVING,Jason,Reese,TD,1
+2844112,9/17/2016,FBS,Missouri,Georgia,RECEIVING,Jason,Reese,LONG,15
+2844113,9/17/2016,FBS,Missouri,Georgia,RECEIVING,Kendall,Blanton,REC,2
+2844114,9/17/2016,FBS,Missouri,Georgia,RECEIVING,Kendall,Blanton,YDS,26
+2844115,9/17/2016,FBS,Missouri,Georgia,RECEIVING,Kendall,Blanton,TD,0
+2844116,9/17/2016,FBS,Missouri,Georgia,RECEIVING,Kendall,Blanton,LONG,17
+2844117,9/17/2016,FBS,Missouri,Georgia,RECEIVING,Emanuel,Hall,REC,1
+2844118,9/17/2016,FBS,Missouri,Georgia,RECEIVING,Emanuel,Hall,YDS,21
+2844119,9/17/2016,FBS,Missouri,Georgia,RECEIVING,Emanuel,Hall,TD,0
+2844120,9/17/2016,FBS,Missouri,Georgia,RECEIVING,Emanuel,Hall,LONG,21
+2844121,9/17/2016,FBS,Missouri,Georgia,RECEIVING,Ish,Witter,REC,2
+2844122,9/17/2016,FBS,Missouri,Georgia,RECEIVING,Ish,Witter,YDS,20
+2844123,9/17/2016,FBS,Missouri,Georgia,RECEIVING,Ish,Witter,TD,0
+2844124,9/17/2016,FBS,Missouri,Georgia,RECEIVING,Ish,Witter,LONG,14
+2844125,9/17/2016,FBS,Missouri,Georgia,RECEIVING,Johnathon,Johnson,REC,1
+2844126,9/17/2016,FBS,Missouri,Georgia,RECEIVING,Johnathon,Johnson,YDS,16
+2844127,9/17/2016,FBS,Missouri,Georgia,RECEIVING,Johnathon,Johnson,TD,0
+2844128,9/17/2016,FBS,Missouri,Georgia,RECEIVING,Johnathon,Johnson,LONG,16
+2844129,9/17/2016,FBS,Missouri,Georgia,RECEIVING,Dimetrios,Mason,REC,1
+2844130,9/17/2016,FBS,Missouri,Georgia,RECEIVING,Dimetrios,Mason,YDS,10
+2844131,9/17/2016,FBS,Missouri,Georgia,RECEIVING,Dimetrios,Mason,TD,0
+2844132,9/17/2016,FBS,Missouri,Georgia,RECEIVING,Dimetrios,Mason,LONG,10
+2844133,9/17/2016,FBS,Missouri,Georgia,RECEIVING,Sean,Culkin,REC,1
+2844134,9/17/2016,FBS,Missouri,Georgia,RECEIVING,Sean,Culkin,YDS,8
+2844135,9/17/2016,FBS,Missouri,Georgia,RECEIVING,Sean,Culkin,TD,0
+2844136,9/17/2016,FBS,Missouri,Georgia,RECEIVING,Sean,Culkin,LONG,8
+2844137,9/17/2016,FBS,Missouri,Georgia,RECEIVING,Justin,Smith,REC,1
+2844138,9/17/2016,FBS,Missouri,Georgia,RECEIVING,Justin,Smith,YDS,7
+2844139,9/17/2016,FBS,Missouri,Georgia,RECEIVING,Justin,Smith,TD,0
+2844140,9/17/2016,FBS,Missouri,Georgia,RECEIVING,Justin,Smith,LONG,7
+2844141,9/17/2016,FBS,Missouri,Georgia,KICKING,Tucker,McCann,FG-FGA,2/2
+2844142,9/17/2016,FBS,Missouri,Georgia,KICKING,Tucker,McCann,LONG,46
+2844143,9/17/2016,FBS,Missouri,Georgia,KICKING,Tucker,McCann,XP,3
+2844144,9/17/2016,FBS,Missouri,Georgia,KICKING,Tucker,McCann,PTS,9
+2844145,9/17/2016,FBS,Missouri,Georgia,PUNTING,Corey,Fatony,NO,5
+2844146,9/17/2016,FBS,Missouri,Georgia,PUNTING,Corey,Fatony,YDS,252
+2844147,9/17/2016,FBS,Missouri,Georgia,PUNTING,Corey,Fatony,AVG,50.4
+2844148,9/17/2016,FBS,Missouri,Georgia,PUNTING,Corey,Fatony,LONG,60
+2844149,9/17/2016,FBS,Missouri,Georgia,PUNT RETURNS,Chris,Black,NO,1
+2844150,9/17/2016,FBS,Missouri,Georgia,PUNT RETURNS,Chris,Black,YDS,2
+2844151,9/17/2016,FBS,Missouri,Georgia,PUNT RETURNS,Chris,Black,AVG,2.0
+2844152,9/17/2016,FBS,Missouri,Georgia,PUNT RETURNS,Chris,Black,LONG,2
+2844153,9/17/2016,FBS,Missouri,Georgia,PUNT RETURNS,Johnathon,Johnson,NO,2
+2844154,9/17/2016,FBS,Missouri,Georgia,PUNT RETURNS,Johnathon,Johnson,YDS,-7
+2844155,9/17/2016,FBS,Missouri,Georgia,PUNT RETURNS,Johnathon,Johnson,AVG,-
+2844156,9/17/2016,FBS,Missouri,Georgia,PUNT RETURNS,Johnathon,Johnson,LONG,0
+2844157,9/17/2016,FBS,Missouri,Georgia,KICK RETURNS,Johnathon,Johnson,NO,4
+2844158,9/17/2016,FBS,Missouri,Georgia,KICK RETURNS,Johnathon,Johnson,YDS,82
+2844159,9/17/2016,FBS,Missouri,Georgia,KICK RETURNS,Johnathon,Johnson,AVG,20.5
+2844160,9/17/2016,FBS,Missouri,Georgia,KICK RETURNS,Johnathon,Johnson,LONG,36
+2844161,9/17/2016,FBS,Missouri,Georgia,KICK RETURNS,Damarea,Crockett,NO,1
+2844162,9/17/2016,FBS,Missouri,Georgia,KICK RETURNS,Damarea,Crockett,YDS,10
+2844163,9/17/2016,FBS,Missouri,Georgia,KICK RETURNS,Damarea,Crockett,AVG,10.0
+2844164,9/17/2016,FBS,Missouri,Georgia,KICK RETURNS,Damarea,Crockett,LONG,10

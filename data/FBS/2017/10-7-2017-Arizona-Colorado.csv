@@ -1,0 +1,133 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3885001,10/7/2017,FBS,Arizona,Colorado,RUSHING,Khalil,Tate,ATT,14
+3885002,10/7/2017,FBS,Arizona,Colorado,RUSHING,Khalil,Tate,YDS,327
+3885003,10/7/2017,FBS,Arizona,Colorado,RUSHING,Khalil,Tate,TD,4
+3885004,10/7/2017,FBS,Arizona,Colorado,RUSHING,Khalil,Tate,LONG,75
+3885005,10/7/2017,FBS,Arizona,Colorado,RUSHING,Nick,Wilson,ATT,11
+3885006,10/7/2017,FBS,Arizona,Colorado,RUSHING,Nick,Wilson,YDS,42
+3885007,10/7/2017,FBS,Arizona,Colorado,RUSHING,Nick,Wilson,TD,0
+3885008,10/7/2017,FBS,Arizona,Colorado,RUSHING,Nick,Wilson,LONG,12
+3885009,10/7/2017,FBS,Arizona,Colorado,RUSHING,J.J.,Taylor,ATT,10
+3885010,10/7/2017,FBS,Arizona,Colorado,RUSHING,J.J.,Taylor,YDS,29
+3885011,10/7/2017,FBS,Arizona,Colorado,RUSHING,J.J.,Taylor,TD,0
+3885012,10/7/2017,FBS,Arizona,Colorado,RUSHING,J.J.,Taylor,LONG,7
+3885013,10/7/2017,FBS,Arizona,Colorado,RUSHING,Brandon,Dawkins,ATT,4
+3885014,10/7/2017,FBS,Arizona,Colorado,RUSHING,Brandon,Dawkins,YDS,17
+3885015,10/7/2017,FBS,Arizona,Colorado,RUSHING,Brandon,Dawkins,TD,0
+3885016,10/7/2017,FBS,Arizona,Colorado,RUSHING,Brandon,Dawkins,LONG,8
+3885017,10/7/2017,FBS,Arizona,Colorado,RUSHING,Shun,Brown,ATT,1
+3885018,10/7/2017,FBS,Arizona,Colorado,RUSHING,Shun,Brown,YDS,12
+3885019,10/7/2017,FBS,Arizona,Colorado,RUSHING,Shun,Brown,TD,0
+3885020,10/7/2017,FBS,Arizona,Colorado,RUSHING,Shun,Brown,LONG,12
+3885021,10/7/2017,FBS,Arizona,Colorado,RUSHING,Zach,Green,ATT,1
+3885022,10/7/2017,FBS,Arizona,Colorado,RUSHING,Zach,Green,YDS,1
+3885023,10/7/2017,FBS,Arizona,Colorado,RUSHING,Zach,Green,TD,1
+3885024,10/7/2017,FBS,Arizona,Colorado,RUSHING,Zach,Green,LONG,1
+3885025,10/7/2017,FBS,Arizona,Colorado,RUSHING,,Team,ATT,2
+3885026,10/7/2017,FBS,Arizona,Colorado,RUSHING,,Team,YDS,-3
+3885027,10/7/2017,FBS,Arizona,Colorado,RUSHING,,Team,TD,0
+3885028,10/7/2017,FBS,Arizona,Colorado,RUSHING,,Team,LONG,-1
+3885029,10/7/2017,FBS,Arizona,Colorado,PASSING,Khalil,Tate,CP-ATT-INT,11-12-0
+3885030,10/7/2017,FBS,Arizona,Colorado,PASSING,Khalil,Tate,YDS,142
+3885031,10/7/2017,FBS,Arizona,Colorado,PASSING,Khalil,Tate,TD,1
+3885032,10/7/2017,FBS,Arizona,Colorado,PASSING,Khalil,Tate,LONG,60
+3885033,10/7/2017,FBS,Arizona,Colorado,PASSING,Brandon,Dawkins,CP-ATT-INT,0-1-0
+3885034,10/7/2017,FBS,Arizona,Colorado,PASSING,Brandon,Dawkins,YDS,0
+3885035,10/7/2017,FBS,Arizona,Colorado,PASSING,Brandon,Dawkins,TD,0
+3885036,10/7/2017,FBS,Arizona,Colorado,PASSING,Brandon,Dawkins,LONG,0
+3885037,10/7/2017,FBS,Arizona,Colorado,RECEIVING,Tony,Ellison,REC,1
+3885038,10/7/2017,FBS,Arizona,Colorado,RECEIVING,Tony,Ellison,YDS,60
+3885039,10/7/2017,FBS,Arizona,Colorado,RECEIVING,Tony,Ellison,TD,0
+3885040,10/7/2017,FBS,Arizona,Colorado,RECEIVING,Tony,Ellison,LONG,60
+3885041,10/7/2017,FBS,Arizona,Colorado,RECEIVING,Tyrell,Johnson,REC,1
+3885042,10/7/2017,FBS,Arizona,Colorado,RECEIVING,Tyrell,Johnson,YDS,28
+3885043,10/7/2017,FBS,Arizona,Colorado,RECEIVING,Tyrell,Johnson,TD,0
+3885044,10/7/2017,FBS,Arizona,Colorado,RECEIVING,Tyrell,Johnson,LONG,28
+3885045,10/7/2017,FBS,Arizona,Colorado,RECEIVING,Shun,Brown,REC,6
+3885046,10/7/2017,FBS,Arizona,Colorado,RECEIVING,Shun,Brown,YDS,26
+3885047,10/7/2017,FBS,Arizona,Colorado,RECEIVING,Shun,Brown,TD,1
+3885048,10/7/2017,FBS,Arizona,Colorado,RECEIVING,Shun,Brown,LONG,13
+3885049,10/7/2017,FBS,Arizona,Colorado,RECEIVING,Bryce,Wolma,REC,2
+3885050,10/7/2017,FBS,Arizona,Colorado,RECEIVING,Bryce,Wolma,YDS,17
+3885051,10/7/2017,FBS,Arizona,Colorado,RECEIVING,Bryce,Wolma,TD,0
+3885052,10/7/2017,FBS,Arizona,Colorado,RECEIVING,Bryce,Wolma,LONG,9
+3885053,10/7/2017,FBS,Arizona,Colorado,RECEIVING,Shawn,Poindexter,REC,1
+3885054,10/7/2017,FBS,Arizona,Colorado,RECEIVING,Shawn,Poindexter,YDS,11
+3885055,10/7/2017,FBS,Arizona,Colorado,RECEIVING,Shawn,Poindexter,TD,0
+3885056,10/7/2017,FBS,Arizona,Colorado,RECEIVING,Shawn,Poindexter,LONG,11
+3885057,10/7/2017,FBS,Arizona,Colorado,KICKING,Josh,Pollack,FG-FGA,1/1
+3885058,10/7/2017,FBS,Arizona,Colorado,KICKING,Josh,Pollack,LONG,24
+3885059,10/7/2017,FBS,Arizona,Colorado,KICKING,Josh,Pollack,XP,6
+3885060,10/7/2017,FBS,Arizona,Colorado,KICKING,Josh,Pollack,PTS,9
+3885061,10/7/2017,FBS,Arizona,Colorado,PUNTING,Jake,Glatting,NO,1
+3885062,10/7/2017,FBS,Arizona,Colorado,PUNTING,Jake,Glatting,YDS,35
+3885063,10/7/2017,FBS,Arizona,Colorado,PUNTING,Jake,Glatting,AVG,35.0
+3885064,10/7/2017,FBS,Arizona,Colorado,PUNTING,Jake,Glatting,LONG,35
+3885065,10/7/2017,FBS,Arizona,Colorado,PUNT RETURNS,Shun,Brown,NO,1
+3885066,10/7/2017,FBS,Arizona,Colorado,PUNT RETURNS,Shun,Brown,YDS,6
+3885067,10/7/2017,FBS,Arizona,Colorado,PUNT RETURNS,Shun,Brown,AVG,6.0
+3885068,10/7/2017,FBS,Arizona,Colorado,PUNT RETURNS,Shun,Brown,LONG,6
+3885069,10/7/2017,FBS,Arizona,Colorado,KICK RETURNS,Tyrell,Johnson,NO,1
+3885070,10/7/2017,FBS,Arizona,Colorado,KICK RETURNS,Tyrell,Johnson,YDS,32
+3885071,10/7/2017,FBS,Arizona,Colorado,KICK RETURNS,Tyrell,Johnson,AVG,32.0
+3885072,10/7/2017,FBS,Arizona,Colorado,KICK RETURNS,Tyrell,Johnson,LONG,32
+3885073,10/7/2017,FBS,Colorado,Arizona,RUSHING,Phillip,Lindsay,ATT,41
+3885074,10/7/2017,FBS,Colorado,Arizona,RUSHING,Phillip,Lindsay,YDS,281
+3885075,10/7/2017,FBS,Colorado,Arizona,RUSHING,Phillip,Lindsay,TD,3
+3885076,10/7/2017,FBS,Colorado,Arizona,RUSHING,Phillip,Lindsay,LONG,45
+3885077,10/7/2017,FBS,Colorado,Arizona,RUSHING,Beau,Bisharat,ATT,8
+3885078,10/7/2017,FBS,Colorado,Arizona,RUSHING,Beau,Bisharat,YDS,32
+3885079,10/7/2017,FBS,Colorado,Arizona,RUSHING,Beau,Bisharat,TD,0
+3885080,10/7/2017,FBS,Colorado,Arizona,RUSHING,Beau,Bisharat,LONG,7
+3885081,10/7/2017,FBS,Colorado,Arizona,RUSHING,Michael,AdkinsII,ATT,1
+3885082,10/7/2017,FBS,Colorado,Arizona,RUSHING,Michael,AdkinsII,YDS,2
+3885083,10/7/2017,FBS,Colorado,Arizona,RUSHING,Michael,AdkinsII,TD,0
+3885084,10/7/2017,FBS,Colorado,Arizona,RUSHING,Michael,AdkinsII,LONG,2
+3885085,10/7/2017,FBS,Colorado,Arizona,RUSHING,Steven,Montez,ATT,8
+3885086,10/7/2017,FBS,Colorado,Arizona,RUSHING,Steven,Montez,YDS,-15
+3885087,10/7/2017,FBS,Colorado,Arizona,RUSHING,Steven,Montez,TD,0
+3885088,10/7/2017,FBS,Colorado,Arizona,RUSHING,Steven,Montez,LONG,11
+3885089,10/7/2017,FBS,Colorado,Arizona,PASSING,Steven,Montez,CP-ATT-INT,19-32-0
+3885090,10/7/2017,FBS,Colorado,Arizona,PASSING,Steven,Montez,YDS,251
+3885091,10/7/2017,FBS,Colorado,Arizona,PASSING,Steven,Montez,TD,3
+3885092,10/7/2017,FBS,Colorado,Arizona,PASSING,Steven,Montez,LONG,39
+3885093,10/7/2017,FBS,Colorado,Arizona,RECEIVING,Jay,MacIntyre,REC,3
+3885094,10/7/2017,FBS,Colorado,Arizona,RECEIVING,Jay,MacIntyre,YDS,57
+3885095,10/7/2017,FBS,Colorado,Arizona,RECEIVING,Jay,MacIntyre,TD,0
+3885096,10/7/2017,FBS,Colorado,Arizona,RECEIVING,Jay,MacIntyre,LONG,39
+3885097,10/7/2017,FBS,Colorado,Arizona,RECEIVING,Bryce,Bobo,REC,6
+3885098,10/7/2017,FBS,Colorado,Arizona,RECEIVING,Bryce,Bobo,YDS,53
+3885099,10/7/2017,FBS,Colorado,Arizona,RECEIVING,Bryce,Bobo,TD,1
+3885100,10/7/2017,FBS,Colorado,Arizona,RECEIVING,Bryce,Bobo,LONG,14
+3885101,10/7/2017,FBS,Colorado,Arizona,RECEIVING,Chris,Bounds,REC,2
+3885102,10/7/2017,FBS,Colorado,Arizona,RECEIVING,Chris,Bounds,YDS,41
+3885103,10/7/2017,FBS,Colorado,Arizona,RECEIVING,Chris,Bounds,TD,2
+3885104,10/7/2017,FBS,Colorado,Arizona,RECEIVING,Chris,Bounds,LONG,39
+3885105,10/7/2017,FBS,Colorado,Arizona,RECEIVING,Phillip,Lindsay,REC,3
+3885106,10/7/2017,FBS,Colorado,Arizona,RECEIVING,Phillip,Lindsay,YDS,39
+3885107,10/7/2017,FBS,Colorado,Arizona,RECEIVING,Phillip,Lindsay,TD,0
+3885108,10/7/2017,FBS,Colorado,Arizona,RECEIVING,Phillip,Lindsay,LONG,16
+3885109,10/7/2017,FBS,Colorado,Arizona,RECEIVING,Shay,Fields,REC,3
+3885110,10/7/2017,FBS,Colorado,Arizona,RECEIVING,Shay,Fields,YDS,38
+3885111,10/7/2017,FBS,Colorado,Arizona,RECEIVING,Shay,Fields,TD,0
+3885112,10/7/2017,FBS,Colorado,Arizona,RECEIVING,Shay,Fields,LONG,15
+3885113,10/7/2017,FBS,Colorado,Arizona,RECEIVING,Juwann,Winfree,REC,2
+3885114,10/7/2017,FBS,Colorado,Arizona,RECEIVING,Juwann,Winfree,YDS,23
+3885115,10/7/2017,FBS,Colorado,Arizona,RECEIVING,Juwann,Winfree,TD,0
+3885116,10/7/2017,FBS,Colorado,Arizona,RECEIVING,Juwann,Winfree,LONG,14
+3885117,10/7/2017,FBS,Colorado,Arizona,KICKING,James,Stefanou,FG-FGA,0/1
+3885118,10/7/2017,FBS,Colorado,Arizona,KICKING,James,Stefanou,LONG,0
+3885119,10/7/2017,FBS,Colorado,Arizona,KICKING,James,Stefanou,XP,6
+3885120,10/7/2017,FBS,Colorado,Arizona,KICKING,James,Stefanou,PTS,6
+3885121,10/7/2017,FBS,Colorado,Arizona,PUNTING,Alex,Kinney,NO,3
+3885122,10/7/2017,FBS,Colorado,Arizona,PUNTING,Alex,Kinney,YDS,125
+3885123,10/7/2017,FBS,Colorado,Arizona,PUNTING,Alex,Kinney,AVG,41.7
+3885124,10/7/2017,FBS,Colorado,Arizona,PUNTING,Alex,Kinney,LONG,50
+3885125,10/7/2017,FBS,Colorado,Arizona,PUNT RETURNS,Isaiah,Oliver,NO,0
+3885126,10/7/2017,FBS,Colorado,Arizona,PUNT RETURNS,Isaiah,Oliver,YDS,0
+3885127,10/7/2017,FBS,Colorado,Arizona,PUNT RETURNS,Isaiah,Oliver,AVG,-
+3885128,10/7/2017,FBS,Colorado,Arizona,PUNT RETURNS,Isaiah,Oliver,LONG,0
+3885129,10/7/2017,FBS,Colorado,Arizona,KICK RETURNS,K.D.,Nixon,NO,1
+3885130,10/7/2017,FBS,Colorado,Arizona,KICK RETURNS,K.D.,Nixon,YDS,17
+3885131,10/7/2017,FBS,Colorado,Arizona,KICK RETURNS,K.D.,Nixon,AVG,17.0
+3885132,10/7/2017,FBS,Colorado,Arizona,KICK RETURNS,K.D.,Nixon,LONG,17

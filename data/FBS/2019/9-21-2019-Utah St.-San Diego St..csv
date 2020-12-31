@@ -1,0 +1,192 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+5557001,9/21/2019,FBS,Utah St.,San Diego St.,RUSHING,Jaylen,Warren,ATT,17
+5557002,9/21/2019,FBS,Utah St.,San Diego St.,RUSHING,Jaylen,Warren,YDS,74
+5557003,9/21/2019,FBS,Utah St.,San Diego St.,RUSHING,Jaylen,Warren,TD,1
+5557004,9/21/2019,FBS,Utah St.,San Diego St.,RUSHING,Jaylen,Warren,LONG,12
+5557005,9/21/2019,FBS,Utah St.,San Diego St.,RUSHING,Gerold,Bright,ATT,6
+5557006,9/21/2019,FBS,Utah St.,San Diego St.,RUSHING,Gerold,Bright,YDS,18
+5557007,9/21/2019,FBS,Utah St.,San Diego St.,RUSHING,Gerold,Bright,TD,0
+5557008,9/21/2019,FBS,Utah St.,San Diego St.,RUSHING,Gerold,Bright,LONG,12
+5557009,9/21/2019,FBS,Utah St.,San Diego St.,RUSHING,,Team,ATT,1
+5557010,9/21/2019,FBS,Utah St.,San Diego St.,RUSHING,,Team,YDS,-1
+5557011,9/21/2019,FBS,Utah St.,San Diego St.,RUSHING,,Team,TD,0
+5557012,9/21/2019,FBS,Utah St.,San Diego St.,RUSHING,,Team,LONG,-1
+5557013,9/21/2019,FBS,Utah St.,San Diego St.,RUSHING,Jordan,Love,ATT,3
+5557014,9/21/2019,FBS,Utah St.,San Diego St.,RUSHING,Jordan,Love,YDS,-9
+5557015,9/21/2019,FBS,Utah St.,San Diego St.,RUSHING,Jordan,Love,TD,0
+5557016,9/21/2019,FBS,Utah St.,San Diego St.,RUSHING,Jordan,Love,LONG,0
+5557017,9/21/2019,FBS,Utah St.,San Diego St.,PASSING,Jordan,Love,CP-ATT-INT,30-47-0
+5557018,9/21/2019,FBS,Utah St.,San Diego St.,PASSING,Jordan,Love,YDS,293
+5557019,9/21/2019,FBS,Utah St.,San Diego St.,PASSING,Jordan,Love,TD,0
+5557020,9/21/2019,FBS,Utah St.,San Diego St.,PASSING,Jordan,Love,LONG,48
+5557021,9/21/2019,FBS,Utah St.,San Diego St.,RECEIVING,Savon,Scarver,REC,5
+5557022,9/21/2019,FBS,Utah St.,San Diego St.,RECEIVING,Savon,Scarver,YDS,90
+5557023,9/21/2019,FBS,Utah St.,San Diego St.,RECEIVING,Savon,Scarver,TD,0
+5557024,9/21/2019,FBS,Utah St.,San Diego St.,RECEIVING,Savon,Scarver,LONG,48
+5557025,9/21/2019,FBS,Utah St.,San Diego St.,RECEIVING,Siaosi,Mariner,REC,7
+5557026,9/21/2019,FBS,Utah St.,San Diego St.,RECEIVING,Siaosi,Mariner,YDS,74
+5557027,9/21/2019,FBS,Utah St.,San Diego St.,RECEIVING,Siaosi,Mariner,TD,0
+5557028,9/21/2019,FBS,Utah St.,San Diego St.,RECEIVING,Siaosi,Mariner,LONG,16
+5557029,9/21/2019,FBS,Utah St.,San Diego St.,RECEIVING,Jaylen,Warren,REC,3
+5557030,9/21/2019,FBS,Utah St.,San Diego St.,RECEIVING,Jaylen,Warren,YDS,40
+5557031,9/21/2019,FBS,Utah St.,San Diego St.,RECEIVING,Jaylen,Warren,TD,0
+5557032,9/21/2019,FBS,Utah St.,San Diego St.,RECEIVING,Jaylen,Warren,LONG,30
+5557033,9/21/2019,FBS,Utah St.,San Diego St.,RECEIVING,Carson,Terrell,REC,4
+5557034,9/21/2019,FBS,Utah St.,San Diego St.,RECEIVING,Carson,Terrell,YDS,33
+5557035,9/21/2019,FBS,Utah St.,San Diego St.,RECEIVING,Carson,Terrell,TD,0
+5557036,9/21/2019,FBS,Utah St.,San Diego St.,RECEIVING,Carson,Terrell,LONG,12
+5557037,9/21/2019,FBS,Utah St.,San Diego St.,RECEIVING,Caleb,Repp,REC,3
+5557038,9/21/2019,FBS,Utah St.,San Diego St.,RECEIVING,Caleb,Repp,YDS,23
+5557039,9/21/2019,FBS,Utah St.,San Diego St.,RECEIVING,Caleb,Repp,TD,0
+5557040,9/21/2019,FBS,Utah St.,San Diego St.,RECEIVING,Caleb,Repp,LONG,9
+5557041,9/21/2019,FBS,Utah St.,San Diego St.,RECEIVING,Jordan,Nathan,REC,4
+5557042,9/21/2019,FBS,Utah St.,San Diego St.,RECEIVING,Jordan,Nathan,YDS,20
+5557043,9/21/2019,FBS,Utah St.,San Diego St.,RECEIVING,Jordan,Nathan,TD,0
+5557044,9/21/2019,FBS,Utah St.,San Diego St.,RECEIVING,Jordan,Nathan,LONG,12
+5557045,9/21/2019,FBS,Utah St.,San Diego St.,RECEIVING,Taylor,Compton,REC,1
+5557046,9/21/2019,FBS,Utah St.,San Diego St.,RECEIVING,Taylor,Compton,YDS,14
+5557047,9/21/2019,FBS,Utah St.,San Diego St.,RECEIVING,Taylor,Compton,TD,0
+5557048,9/21/2019,FBS,Utah St.,San Diego St.,RECEIVING,Taylor,Compton,LONG,14
+5557049,9/21/2019,FBS,Utah St.,San Diego St.,RECEIVING,Deven,Thompkins,REC,2
+5557050,9/21/2019,FBS,Utah St.,San Diego St.,RECEIVING,Deven,Thompkins,YDS,2
+5557051,9/21/2019,FBS,Utah St.,San Diego St.,RECEIVING,Deven,Thompkins,TD,0
+5557052,9/21/2019,FBS,Utah St.,San Diego St.,RECEIVING,Deven,Thompkins,LONG,2
+5557053,9/21/2019,FBS,Utah St.,San Diego St.,RECEIVING,Gerold,Bright,REC,1
+5557054,9/21/2019,FBS,Utah St.,San Diego St.,RECEIVING,Gerold,Bright,YDS,-3
+5557055,9/21/2019,FBS,Utah St.,San Diego St.,RECEIVING,Gerold,Bright,TD,0
+5557056,9/21/2019,FBS,Utah St.,San Diego St.,RECEIVING,Gerold,Bright,LONG,0
+5557057,9/21/2019,FBS,Utah St.,San Diego St.,KICKING,Dominik,Eberle,FG-FGA,3/4
+5557058,9/21/2019,FBS,Utah St.,San Diego St.,KICKING,Dominik,Eberle,LONG,32
+5557059,9/21/2019,FBS,Utah St.,San Diego St.,KICKING,Dominik,Eberle,XP,2
+5557060,9/21/2019,FBS,Utah St.,San Diego St.,KICKING,Dominik,Eberle,PTS,11
+5557061,9/21/2019,FBS,Utah St.,San Diego St.,PUNTING,Pierce,Callister,NO,4
+5557062,9/21/2019,FBS,Utah St.,San Diego St.,PUNTING,Pierce,Callister,YDS,159
+5557063,9/21/2019,FBS,Utah St.,San Diego St.,PUNTING,Pierce,Callister,AVG,39.8
+5557064,9/21/2019,FBS,Utah St.,San Diego St.,PUNTING,Pierce,Callister,LONG,52
+5557065,9/21/2019,FBS,Utah St.,San Diego St.,PUNT RETURNS,Jordan,Nathan,NO,0
+5557066,9/21/2019,FBS,Utah St.,San Diego St.,PUNT RETURNS,Jordan,Nathan,YDS,0
+5557067,9/21/2019,FBS,Utah St.,San Diego St.,PUNT RETURNS,Jordan,Nathan,AVG,-
+5557068,9/21/2019,FBS,Utah St.,San Diego St.,PUNT RETURNS,Jordan,Nathan,LONG,0
+5557069,9/21/2019,FBS,Utah St.,San Diego St.,KICK RETURNS,Gerold,Bright,NO,2
+5557070,9/21/2019,FBS,Utah St.,San Diego St.,KICK RETURNS,Gerold,Bright,YDS,35
+5557071,9/21/2019,FBS,Utah St.,San Diego St.,KICK RETURNS,Gerold,Bright,AVG,17.5
+5557072,9/21/2019,FBS,Utah St.,San Diego St.,KICK RETURNS,Gerold,Bright,LONG,21
+5557073,9/21/2019,FBS,Utah St.,San Diego St.,KICK RETURNS,Savon,Scarver,NO,1
+5557074,9/21/2019,FBS,Utah St.,San Diego St.,KICK RETURNS,Savon,Scarver,YDS,24
+5557075,9/21/2019,FBS,Utah St.,San Diego St.,KICK RETURNS,Savon,Scarver,AVG,24.0
+5557076,9/21/2019,FBS,Utah St.,San Diego St.,KICK RETURNS,Savon,Scarver,LONG,24
+5557077,9/21/2019,FBS,Utah St.,San Diego St.,DEFENSE,Jacoby,Wildman,TOT,1
+5557078,9/21/2019,FBS,Utah St.,San Diego St.,DEFENSE,Jacoby,Wildman,SOLO,1
+5557079,9/21/2019,FBS,Utah St.,San Diego St.,DEFENSE,Jacoby,Wildman,SACKS,1.0
+5557080,9/21/2019,FBS,Utah St.,San Diego St.,DEFENSE,Jacoby,Wildman,TFL,1
+5557081,9/21/2019,FBS,Utah St.,San Diego St.,DEFENSE,Jacoby,Wildman,INT,0
+5557082,9/21/2019,FBS,Utah St.,San Diego St.,DEFENSE,Jacoby,Wildman,FF,0
+5557083,9/21/2019,FBS,Utah St.,San Diego St.,DEFENSE,Jacoby,Wildman,FR,0
+5557084,9/21/2019,FBS,Utah St.,San Diego St.,DEFENSE,Justus,Te'i,TOT,1
+5557085,9/21/2019,FBS,Utah St.,San Diego St.,DEFENSE,Justus,Te'i,SOLO,1
+5557086,9/21/2019,FBS,Utah St.,San Diego St.,DEFENSE,Justus,Te'i,SACKS,1.0
+5557087,9/21/2019,FBS,Utah St.,San Diego St.,DEFENSE,Justus,Te'i,TFL,1
+5557088,9/21/2019,FBS,Utah St.,San Diego St.,DEFENSE,Justus,Te'i,INT,0
+5557089,9/21/2019,FBS,Utah St.,San Diego St.,DEFENSE,Justus,Te'i,FF,0
+5557090,9/21/2019,FBS,Utah St.,San Diego St.,DEFENSE,Justus,Te'i,FR,0
+5557091,9/21/2019,FBS,Utah St.,San Diego St.,DEFENSE,Nick,Heninger,TOT,1
+5557092,9/21/2019,FBS,Utah St.,San Diego St.,DEFENSE,Nick,Heninger,SOLO,1
+5557093,9/21/2019,FBS,Utah St.,San Diego St.,DEFENSE,Nick,Heninger,SACKS,1.0
+5557094,9/21/2019,FBS,Utah St.,San Diego St.,DEFENSE,Nick,Heninger,TFL,1
+5557095,9/21/2019,FBS,Utah St.,San Diego St.,DEFENSE,Nick,Heninger,INT,0
+5557096,9/21/2019,FBS,Utah St.,San Diego St.,DEFENSE,Nick,Heninger,FF,0
+5557097,9/21/2019,FBS,Utah St.,San Diego St.,DEFENSE,Nick,Heninger,FR,0
+5557098,9/21/2019,FBS,Utah St.,San Diego St.,DEFENSE,Tipa,Galeai,TOT,1
+5557099,9/21/2019,FBS,Utah St.,San Diego St.,DEFENSE,Tipa,Galeai,SOLO,1
+5557100,9/21/2019,FBS,Utah St.,San Diego St.,DEFENSE,Tipa,Galeai,SACKS,1.0
+5557101,9/21/2019,FBS,Utah St.,San Diego St.,DEFENSE,Tipa,Galeai,TFL,1
+5557102,9/21/2019,FBS,Utah St.,San Diego St.,DEFENSE,Tipa,Galeai,INT,0
+5557103,9/21/2019,FBS,Utah St.,San Diego St.,DEFENSE,Tipa,Galeai,FF,0
+5557104,9/21/2019,FBS,Utah St.,San Diego St.,DEFENSE,Tipa,Galeai,FR,0
+5557105,9/21/2019,FBS,Utah St.,San Diego St.,DEFENSE,Shaq,Bond,TOT,0
+5557106,9/21/2019,FBS,Utah St.,San Diego St.,DEFENSE,Shaq,Bond,SOLO,0
+5557107,9/21/2019,FBS,Utah St.,San Diego St.,DEFENSE,Shaq,Bond,SACKS,0.0
+5557108,9/21/2019,FBS,Utah St.,San Diego St.,DEFENSE,Shaq,Bond,TFL,0
+5557109,9/21/2019,FBS,Utah St.,San Diego St.,DEFENSE,Shaq,Bond,INT,1
+5557110,9/21/2019,FBS,Utah St.,San Diego St.,DEFENSE,Shaq,Bond,FF,0
+5557111,9/21/2019,FBS,Utah St.,San Diego St.,DEFENSE,Shaq,Bond,FR,0
+5557112,9/21/2019,FBS,San Diego St.,Utah St.,RUSHING,Chance,Bell,ATT,18
+5557113,9/21/2019,FBS,San Diego St.,Utah St.,RUSHING,Chance,Bell,YDS,63
+5557114,9/21/2019,FBS,San Diego St.,Utah St.,RUSHING,Chance,Bell,TD,0
+5557115,9/21/2019,FBS,San Diego St.,Utah St.,RUSHING,Chance,Bell,LONG,12
+5557116,9/21/2019,FBS,San Diego St.,Utah St.,RUSHING,Chase,Jasmin,ATT,9
+5557117,9/21/2019,FBS,San Diego St.,Utah St.,RUSHING,Chase,Jasmin,YDS,33
+5557118,9/21/2019,FBS,San Diego St.,Utah St.,RUSHING,Chase,Jasmin,TD,0
+5557119,9/21/2019,FBS,San Diego St.,Utah St.,RUSHING,Chase,Jasmin,LONG,14
+5557120,9/21/2019,FBS,San Diego St.,Utah St.,RUSHING,Jordan,Byrd,ATT,10
+5557121,9/21/2019,FBS,San Diego St.,Utah St.,RUSHING,Jordan,Byrd,YDS,20
+5557122,9/21/2019,FBS,San Diego St.,Utah St.,RUSHING,Jordan,Byrd,TD,0
+5557123,9/21/2019,FBS,San Diego St.,Utah St.,RUSHING,Jordan,Byrd,LONG,6
+5557124,9/21/2019,FBS,San Diego St.,Utah St.,RUSHING,Jesse,Matthews,ATT,1
+5557125,9/21/2019,FBS,San Diego St.,Utah St.,RUSHING,Jesse,Matthews,YDS,7
+5557126,9/21/2019,FBS,San Diego St.,Utah St.,RUSHING,Jesse,Matthews,TD,0
+5557127,9/21/2019,FBS,San Diego St.,Utah St.,RUSHING,Jesse,Matthews,LONG,7
+5557128,9/21/2019,FBS,San Diego St.,Utah St.,RUSHING,Ryan,Agnew,ATT,8
+5557129,9/21/2019,FBS,San Diego St.,Utah St.,RUSHING,Ryan,Agnew,YDS,-32
+5557130,9/21/2019,FBS,San Diego St.,Utah St.,RUSHING,Ryan,Agnew,TD,0
+5557131,9/21/2019,FBS,San Diego St.,Utah St.,RUSHING,Ryan,Agnew,LONG,13
+5557132,9/21/2019,FBS,San Diego St.,Utah St.,PASSING,Ryan,Agnew,CP-ATT-INT,20-37-1
+5557133,9/21/2019,FBS,San Diego St.,Utah St.,PASSING,Ryan,Agnew,YDS,281
+5557134,9/21/2019,FBS,San Diego St.,Utah St.,PASSING,Ryan,Agnew,TD,2
+5557135,9/21/2019,FBS,San Diego St.,Utah St.,PASSING,Ryan,Agnew,LONG,49
+5557136,9/21/2019,FBS,San Diego St.,Utah St.,RECEIVING,Kobe,Smith,REC,7
+5557137,9/21/2019,FBS,San Diego St.,Utah St.,RECEIVING,Kobe,Smith,YDS,102
+5557138,9/21/2019,FBS,San Diego St.,Utah St.,RECEIVING,Kobe,Smith,TD,1
+5557139,9/21/2019,FBS,San Diego St.,Utah St.,RECEIVING,Kobe,Smith,LONG,25
+5557140,9/21/2019,FBS,San Diego St.,Utah St.,RECEIVING,Isaiah,Richardson,REC,3
+5557141,9/21/2019,FBS,San Diego St.,Utah St.,RECEIVING,Isaiah,Richardson,YDS,65
+5557142,9/21/2019,FBS,San Diego St.,Utah St.,RECEIVING,Isaiah,Richardson,TD,1
+5557143,9/21/2019,FBS,San Diego St.,Utah St.,RECEIVING,Isaiah,Richardson,LONG,49
+5557144,9/21/2019,FBS,San Diego St.,Utah St.,RECEIVING,Chance,Bell,REC,3
+5557145,9/21/2019,FBS,San Diego St.,Utah St.,RECEIVING,Chance,Bell,YDS,31
+5557146,9/21/2019,FBS,San Diego St.,Utah St.,RECEIVING,Chance,Bell,TD,0
+5557147,9/21/2019,FBS,San Diego St.,Utah St.,RECEIVING,Chance,Bell,LONG,20
+5557148,9/21/2019,FBS,San Diego St.,Utah St.,RECEIVING,Elijah,Kothe,REC,2
+5557149,9/21/2019,FBS,San Diego St.,Utah St.,RECEIVING,Elijah,Kothe,YDS,30
+5557150,9/21/2019,FBS,San Diego St.,Utah St.,RECEIVING,Elijah,Kothe,TD,0
+5557151,9/21/2019,FBS,San Diego St.,Utah St.,RECEIVING,Elijah,Kothe,LONG,15
+5557152,9/21/2019,FBS,San Diego St.,Utah St.,RECEIVING,Jesse,Matthews,REC,1
+5557153,9/21/2019,FBS,San Diego St.,Utah St.,RECEIVING,Jesse,Matthews,YDS,20
+5557154,9/21/2019,FBS,San Diego St.,Utah St.,RECEIVING,Jesse,Matthews,TD,0
+5557155,9/21/2019,FBS,San Diego St.,Utah St.,RECEIVING,Jesse,Matthews,LONG,20
+5557156,9/21/2019,FBS,San Diego St.,Utah St.,RECEIVING,Ethan,Dedeaux,REC,2
+5557157,9/21/2019,FBS,San Diego St.,Utah St.,RECEIVING,Ethan,Dedeaux,YDS,18
+5557158,9/21/2019,FBS,San Diego St.,Utah St.,RECEIVING,Ethan,Dedeaux,TD,0
+5557159,9/21/2019,FBS,San Diego St.,Utah St.,RECEIVING,Ethan,Dedeaux,LONG,12
+5557160,9/21/2019,FBS,San Diego St.,Utah St.,RECEIVING,Chase,Jasmin,REC,2
+5557161,9/21/2019,FBS,San Diego St.,Utah St.,RECEIVING,Chase,Jasmin,YDS,15
+5557162,9/21/2019,FBS,San Diego St.,Utah St.,RECEIVING,Chase,Jasmin,TD,0
+5557163,9/21/2019,FBS,San Diego St.,Utah St.,RECEIVING,Chase,Jasmin,LONG,11
+5557164,9/21/2019,FBS,San Diego St.,Utah St.,KICKING,Matt,Araiza,FG-FGA,1/1
+5557165,9/21/2019,FBS,San Diego St.,Utah St.,KICKING,Matt,Araiza,LONG,22
+5557166,9/21/2019,FBS,San Diego St.,Utah St.,KICKING,Matt,Araiza,XP,2
+5557167,9/21/2019,FBS,San Diego St.,Utah St.,KICKING,Matt,Araiza,PTS,5
+5557168,9/21/2019,FBS,San Diego St.,Utah St.,PUNTING,Brandon,Heicklen,NO,4
+5557169,9/21/2019,FBS,San Diego St.,Utah St.,PUNTING,Brandon,Heicklen,YDS,157
+5557170,9/21/2019,FBS,San Diego St.,Utah St.,PUNTING,Brandon,Heicklen,AVG,39.2
+5557171,9/21/2019,FBS,San Diego St.,Utah St.,PUNTING,Brandon,Heicklen,LONG,50
+5557172,9/21/2019,FBS,San Diego St.,Utah St.,PUNT RETURNS,Jesse,Matthews,NO,1
+5557173,9/21/2019,FBS,San Diego St.,Utah St.,PUNT RETURNS,Jesse,Matthews,YDS,13
+5557174,9/21/2019,FBS,San Diego St.,Utah St.,PUNT RETURNS,Jesse,Matthews,AVG,13.0
+5557175,9/21/2019,FBS,San Diego St.,Utah St.,PUNT RETURNS,Jesse,Matthews,LONG,13
+5557176,9/21/2019,FBS,San Diego St.,Utah St.,PUNT RETURNS,Tariq,Thompson,NO,1
+5557177,9/21/2019,FBS,San Diego St.,Utah St.,PUNT RETURNS,Tariq,Thompson,YDS,0
+5557178,9/21/2019,FBS,San Diego St.,Utah St.,PUNT RETURNS,Tariq,Thompson,AVG,-
+5557179,9/21/2019,FBS,San Diego St.,Utah St.,PUNT RETURNS,Tariq,Thompson,LONG,0
+5557180,9/21/2019,FBS,San Diego St.,Utah St.,KICK RETURNS,Jordan,Byrd,NO,3
+5557181,9/21/2019,FBS,San Diego St.,Utah St.,KICK RETURNS,Jordan,Byrd,YDS,50
+5557182,9/21/2019,FBS,San Diego St.,Utah St.,KICK RETURNS,Jordan,Byrd,AVG,16.7
+5557183,9/21/2019,FBS,San Diego St.,Utah St.,KICK RETURNS,Jordan,Byrd,LONG,22
+5557184,9/21/2019,FBS,San Diego St.,Utah St.,KICK RETURNS,Chase,Jasmin,NO,1
+5557185,9/21/2019,FBS,San Diego St.,Utah St.,KICK RETURNS,Chase,Jasmin,YDS,20
+5557186,9/21/2019,FBS,San Diego St.,Utah St.,KICK RETURNS,Chase,Jasmin,AVG,20.0
+5557187,9/21/2019,FBS,San Diego St.,Utah St.,KICK RETURNS,Chase,Jasmin,LONG,20
+5557188,9/21/2019,FBS,San Diego St.,Utah St.,KICK RETURNS,Kaegun,Williams,NO,1
+5557189,9/21/2019,FBS,San Diego St.,Utah St.,KICK RETURNS,Kaegun,Williams,YDS,18
+5557190,9/21/2019,FBS,San Diego St.,Utah St.,KICK RETURNS,Kaegun,Williams,AVG,18.0
+5557191,9/21/2019,FBS,San Diego St.,Utah St.,KICK RETURNS,Kaegun,Williams,LONG,18

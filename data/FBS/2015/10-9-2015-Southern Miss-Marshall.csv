@@ -1,0 +1,133 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2104001,10/9/2015,FBS,Southern Miss,Marshall,RUSHING,Jalen,Richard,ATT,16
+2104002,10/9/2015,FBS,Southern Miss,Marshall,RUSHING,Jalen,Richard,YDS,87
+2104003,10/9/2015,FBS,Southern Miss,Marshall,RUSHING,Jalen,Richard,TD,0
+2104004,10/9/2015,FBS,Southern Miss,Marshall,RUSHING,Jalen,Richard,LONG,31
+2104005,10/9/2015,FBS,Southern Miss,Marshall,RUSHING,Ito,Smith,ATT,9
+2104006,10/9/2015,FBS,Southern Miss,Marshall,RUSHING,Ito,Smith,YDS,46
+2104007,10/9/2015,FBS,Southern Miss,Marshall,RUSHING,Ito,Smith,TD,0
+2104008,10/9/2015,FBS,Southern Miss,Marshall,RUSHING,Ito,Smith,LONG,21
+2104009,10/9/2015,FBS,Southern Miss,Marshall,RUSHING,Justice,Hayes,ATT,3
+2104010,10/9/2015,FBS,Southern Miss,Marshall,RUSHING,Justice,Hayes,YDS,14
+2104011,10/9/2015,FBS,Southern Miss,Marshall,RUSHING,Justice,Hayes,TD,0
+2104012,10/9/2015,FBS,Southern Miss,Marshall,RUSHING,Justice,Hayes,LONG,11
+2104013,10/9/2015,FBS,Southern Miss,Marshall,RUSHING,,Team,ATT,1
+2104014,10/9/2015,FBS,Southern Miss,Marshall,RUSHING,,Team,YDS,-1
+2104015,10/9/2015,FBS,Southern Miss,Marshall,RUSHING,,Team,TD,0
+2104016,10/9/2015,FBS,Southern Miss,Marshall,RUSHING,,Team,LONG,-1
+2104017,10/9/2015,FBS,Southern Miss,Marshall,RUSHING,Nick,Mullens,ATT,6
+2104018,10/9/2015,FBS,Southern Miss,Marshall,RUSHING,Nick,Mullens,YDS,-21
+2104019,10/9/2015,FBS,Southern Miss,Marshall,RUSHING,Nick,Mullens,TD,0
+2104020,10/9/2015,FBS,Southern Miss,Marshall,RUSHING,Nick,Mullens,LONG,9
+2104021,10/9/2015,FBS,Southern Miss,Marshall,PASSING,Nick,Mullens,CP-ATT-INT,29-58-1
+2104022,10/9/2015,FBS,Southern Miss,Marshall,PASSING,Nick,Mullens,YDS,314
+2104023,10/9/2015,FBS,Southern Miss,Marshall,PASSING,Nick,Mullens,TD,1
+2104024,10/9/2015,FBS,Southern Miss,Marshall,PASSING,Nick,Mullens,LONG,31
+2104025,10/9/2015,FBS,Southern Miss,Marshall,RECEIVING,Mike,Thomas,REC,7
+2104026,10/9/2015,FBS,Southern Miss,Marshall,RECEIVING,Mike,Thomas,YDS,109
+2104027,10/9/2015,FBS,Southern Miss,Marshall,RECEIVING,Mike,Thomas,TD,1
+2104028,10/9/2015,FBS,Southern Miss,Marshall,RECEIVING,Mike,Thomas,LONG,31
+2104029,10/9/2015,FBS,Southern Miss,Marshall,RECEIVING,Casey,Martin,REC,9
+2104030,10/9/2015,FBS,Southern Miss,Marshall,RECEIVING,Casey,Martin,YDS,85
+2104031,10/9/2015,FBS,Southern Miss,Marshall,RECEIVING,Casey,Martin,TD,0
+2104032,10/9/2015,FBS,Southern Miss,Marshall,RECEIVING,Casey,Martin,LONG,29
+2104033,10/9/2015,FBS,Southern Miss,Marshall,RECEIVING,D.J.,Thompson,REC,4
+2104034,10/9/2015,FBS,Southern Miss,Marshall,RECEIVING,D.J.,Thompson,YDS,40
+2104035,10/9/2015,FBS,Southern Miss,Marshall,RECEIVING,D.J.,Thompson,TD,0
+2104036,10/9/2015,FBS,Southern Miss,Marshall,RECEIVING,D.J.,Thompson,LONG,17
+2104037,10/9/2015,FBS,Southern Miss,Marshall,RECEIVING,Ito,Smith,REC,4
+2104038,10/9/2015,FBS,Southern Miss,Marshall,RECEIVING,Ito,Smith,YDS,32
+2104039,10/9/2015,FBS,Southern Miss,Marshall,RECEIVING,Ito,Smith,TD,0
+2104040,10/9/2015,FBS,Southern Miss,Marshall,RECEIVING,Ito,Smith,LONG,16
+2104041,10/9/2015,FBS,Southern Miss,Marshall,RECEIVING,Taylor,Marini,REC,2
+2104042,10/9/2015,FBS,Southern Miss,Marshall,RECEIVING,Taylor,Marini,YDS,30
+2104043,10/9/2015,FBS,Southern Miss,Marshall,RECEIVING,Taylor,Marini,TD,0
+2104044,10/9/2015,FBS,Southern Miss,Marshall,RECEIVING,Taylor,Marini,LONG,15
+2104045,10/9/2015,FBS,Southern Miss,Marshall,RECEIVING,Ricky,Parks,REC,1
+2104046,10/9/2015,FBS,Southern Miss,Marshall,RECEIVING,Ricky,Parks,YDS,14
+2104047,10/9/2015,FBS,Southern Miss,Marshall,RECEIVING,Ricky,Parks,TD,0
+2104048,10/9/2015,FBS,Southern Miss,Marshall,RECEIVING,Ricky,Parks,LONG,14
+2104049,10/9/2015,FBS,Southern Miss,Marshall,RECEIVING,Jalen,Richard,REC,1
+2104050,10/9/2015,FBS,Southern Miss,Marshall,RECEIVING,Jalen,Richard,YDS,3
+2104051,10/9/2015,FBS,Southern Miss,Marshall,RECEIVING,Jalen,Richard,TD,0
+2104052,10/9/2015,FBS,Southern Miss,Marshall,RECEIVING,Jalen,Richard,LONG,3
+2104053,10/9/2015,FBS,Southern Miss,Marshall,RECEIVING,Justice,Hayes,REC,1
+2104054,10/9/2015,FBS,Southern Miss,Marshall,RECEIVING,Justice,Hayes,YDS,1
+2104055,10/9/2015,FBS,Southern Miss,Marshall,RECEIVING,Justice,Hayes,TD,0
+2104056,10/9/2015,FBS,Southern Miss,Marshall,RECEIVING,Justice,Hayes,LONG,1
+2104057,10/9/2015,FBS,Southern Miss,Marshall,KICKING,Parker,Shaunfield,FG-FGA,1/2
+2104058,10/9/2015,FBS,Southern Miss,Marshall,KICKING,Parker,Shaunfield,LONG,33
+2104059,10/9/2015,FBS,Southern Miss,Marshall,KICKING,Parker,Shaunfield,XP,1
+2104060,10/9/2015,FBS,Southern Miss,Marshall,KICKING,Parker,Shaunfield,PTS,4
+2104061,10/9/2015,FBS,Southern Miss,Marshall,PUNTING,Tyler,Sarrazin,NO,2
+2104062,10/9/2015,FBS,Southern Miss,Marshall,PUNTING,Tyler,Sarrazin,YDS,105
+2104063,10/9/2015,FBS,Southern Miss,Marshall,PUNTING,Tyler,Sarrazin,AVG,52.5
+2104064,10/9/2015,FBS,Southern Miss,Marshall,PUNTING,Tyler,Sarrazin,LONG,53
+2104065,10/9/2015,FBS,Southern Miss,Marshall,PUNT RETURNS,Jalen,Richard,NO,2
+2104066,10/9/2015,FBS,Southern Miss,Marshall,PUNT RETURNS,Jalen,Richard,YDS,27
+2104067,10/9/2015,FBS,Southern Miss,Marshall,PUNT RETURNS,Jalen,Richard,AVG,13.5
+2104068,10/9/2015,FBS,Southern Miss,Marshall,PUNT RETURNS,Jalen,Richard,LONG,22
+2104069,10/9/2015,FBS,Southern Miss,Marshall,PUNT RETURNS,Casey,Martin,NO,1
+2104070,10/9/2015,FBS,Southern Miss,Marshall,PUNT RETURNS,Casey,Martin,YDS,-2
+2104071,10/9/2015,FBS,Southern Miss,Marshall,PUNT RETURNS,Casey,Martin,AVG,-
+2104072,10/9/2015,FBS,Southern Miss,Marshall,PUNT RETURNS,Casey,Martin,LONG,-2
+2104073,10/9/2015,FBS,Southern Miss,Marshall,KICK RETURNS,Ito,Smith,NO,2
+2104074,10/9/2015,FBS,Southern Miss,Marshall,KICK RETURNS,Ito,Smith,YDS,36
+2104075,10/9/2015,FBS,Southern Miss,Marshall,KICK RETURNS,Ito,Smith,AVG,18.0
+2104076,10/9/2015,FBS,Southern Miss,Marshall,KICK RETURNS,Ito,Smith,LONG,22
+2104077,10/9/2015,FBS,Southern Miss,Marshall,KICK RETURNS,Curtis,Mikell,NO,1
+2104078,10/9/2015,FBS,Southern Miss,Marshall,KICK RETURNS,Curtis,Mikell,YDS,16
+2104079,10/9/2015,FBS,Southern Miss,Marshall,KICK RETURNS,Curtis,Mikell,AVG,16.0
+2104080,10/9/2015,FBS,Southern Miss,Marshall,KICK RETURNS,Curtis,Mikell,LONG,16
+2104081,10/9/2015,FBS,Marshall,Southern Miss,RUSHING,Devon,Johnson,ATT,22
+2104082,10/9/2015,FBS,Marshall,Southern Miss,RUSHING,Devon,Johnson,YDS,82
+2104083,10/9/2015,FBS,Marshall,Southern Miss,RUSHING,Devon,Johnson,TD,1
+2104084,10/9/2015,FBS,Marshall,Southern Miss,RUSHING,Devon,Johnson,LONG,16
+2104085,10/9/2015,FBS,Marshall,Southern Miss,RUSHING,Chase,Litton,ATT,3
+2104086,10/9/2015,FBS,Marshall,Southern Miss,RUSHING,Chase,Litton,YDS,19
+2104087,10/9/2015,FBS,Marshall,Southern Miss,RUSHING,Chase,Litton,TD,0
+2104088,10/9/2015,FBS,Marshall,Southern Miss,RUSHING,Chase,Litton,LONG,17
+2104089,10/9/2015,FBS,Marshall,Southern Miss,RUSHING,Remi,Watson,ATT,8
+2104090,10/9/2015,FBS,Marshall,Southern Miss,RUSHING,Remi,Watson,YDS,18
+2104091,10/9/2015,FBS,Marshall,Southern Miss,RUSHING,Remi,Watson,TD,0
+2104092,10/9/2015,FBS,Marshall,Southern Miss,RUSHING,Remi,Watson,LONG,8
+2104093,10/9/2015,FBS,Marshall,Southern Miss,RUSHING,,Team,ATT,2
+2104094,10/9/2015,FBS,Marshall,Southern Miss,RUSHING,,Team,YDS,-5
+2104095,10/9/2015,FBS,Marshall,Southern Miss,RUSHING,,Team,TD,0
+2104096,10/9/2015,FBS,Marshall,Southern Miss,RUSHING,,Team,LONG,-2
+2104097,10/9/2015,FBS,Marshall,Southern Miss,PASSING,Chase,Litton,CP-ATT-INT,11-21-1
+2104098,10/9/2015,FBS,Marshall,Southern Miss,PASSING,Chase,Litton,YDS,163
+2104099,10/9/2015,FBS,Marshall,Southern Miss,PASSING,Chase,Litton,TD,2
+2104100,10/9/2015,FBS,Marshall,Southern Miss,PASSING,Chase,Litton,LONG,61
+2104101,10/9/2015,FBS,Marshall,Southern Miss,RECEIVING,Deandre,Reaves,REC,2
+2104102,10/9/2015,FBS,Marshall,Southern Miss,RECEIVING,Deandre,Reaves,YDS,76
+2104103,10/9/2015,FBS,Marshall,Southern Miss,RECEIVING,Deandre,Reaves,TD,1
+2104104,10/9/2015,FBS,Marshall,Southern Miss,RECEIVING,Deandre,Reaves,LONG,61
+2104105,10/9/2015,FBS,Marshall,Southern Miss,RECEIVING,Davonte,Allen,REC,5
+2104106,10/9/2015,FBS,Marshall,Southern Miss,RECEIVING,Davonte,Allen,YDS,57
+2104107,10/9/2015,FBS,Marshall,Southern Miss,RECEIVING,Davonte,Allen,TD,0
+2104108,10/9/2015,FBS,Marshall,Southern Miss,RECEIVING,Davonte,Allen,LONG,27
+2104109,10/9/2015,FBS,Marshall,Southern Miss,RECEIVING,Ryan,Yurachek,REC,3
+2104110,10/9/2015,FBS,Marshall,Southern Miss,RECEIVING,Ryan,Yurachek,YDS,18
+2104111,10/9/2015,FBS,Marshall,Southern Miss,RECEIVING,Ryan,Yurachek,TD,1
+2104112,10/9/2015,FBS,Marshall,Southern Miss,RECEIVING,Ryan,Yurachek,LONG,8
+2104113,10/9/2015,FBS,Marshall,Southern Miss,RECEIVING,Deon-Tay,McManus,REC,1
+2104114,10/9/2015,FBS,Marshall,Southern Miss,RECEIVING,Deon-Tay,McManus,YDS,12
+2104115,10/9/2015,FBS,Marshall,Southern Miss,RECEIVING,Deon-Tay,McManus,TD,0
+2104116,10/9/2015,FBS,Marshall,Southern Miss,RECEIVING,Deon-Tay,McManus,LONG,12
+2104117,10/9/2015,FBS,Marshall,Southern Miss,KICKING,Nick,Smith,FG-FGA,1/1
+2104118,10/9/2015,FBS,Marshall,Southern Miss,KICKING,Nick,Smith,LONG,34
+2104119,10/9/2015,FBS,Marshall,Southern Miss,KICKING,Nick,Smith,XP,4
+2104120,10/9/2015,FBS,Marshall,Southern Miss,KICKING,Nick,Smith,PTS,7
+2104121,10/9/2015,FBS,Marshall,Southern Miss,PUNTING,Tyler,Williams,NO,7
+2104122,10/9/2015,FBS,Marshall,Southern Miss,PUNTING,Tyler,Williams,YDS,336
+2104123,10/9/2015,FBS,Marshall,Southern Miss,PUNTING,Tyler,Williams,AVG,48.0
+2104124,10/9/2015,FBS,Marshall,Southern Miss,PUNTING,Tyler,Williams,LONG,56
+2104125,10/9/2015,FBS,Marshall,Southern Miss,KICK RETURNS,Deandre,Reaves,NO,2
+2104126,10/9/2015,FBS,Marshall,Southern Miss,KICK RETURNS,Deandre,Reaves,YDS,53
+2104127,10/9/2015,FBS,Marshall,Southern Miss,KICK RETURNS,Deandre,Reaves,AVG,26.5
+2104128,10/9/2015,FBS,Marshall,Southern Miss,KICK RETURNS,Deandre,Reaves,LONG,33
+2104129,10/9/2015,FBS,Marshall,Southern Miss,KICK RETURNS,Remi,Watson,NO,1
+2104130,10/9/2015,FBS,Marshall,Southern Miss,KICK RETURNS,Remi,Watson,YDS,33
+2104131,10/9/2015,FBS,Marshall,Southern Miss,KICK RETURNS,Remi,Watson,AVG,33.0
+2104132,10/9/2015,FBS,Marshall,Southern Miss,KICK RETURNS,Remi,Watson,LONG,33

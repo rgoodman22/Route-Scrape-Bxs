@@ -1,0 +1,105 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3032001,10/14/2016,FBS,San Diego State,Fresno State,RUSHING,Donnel,Pumphrey,ATT,38
+3032002,10/14/2016,FBS,San Diego State,Fresno State,RUSHING,Donnel,Pumphrey,YDS,220
+3032003,10/14/2016,FBS,San Diego State,Fresno State,RUSHING,Donnel,Pumphrey,TD,2
+3032004,10/14/2016,FBS,San Diego State,Fresno State,RUSHING,Donnel,Pumphrey,LONG,22
+3032005,10/14/2016,FBS,San Diego State,Fresno State,RUSHING,Rashaad,Penny,ATT,15
+3032006,10/14/2016,FBS,San Diego State,Fresno State,RUSHING,Rashaad,Penny,YDS,49
+3032007,10/14/2016,FBS,San Diego State,Fresno State,RUSHING,Rashaad,Penny,TD,0
+3032008,10/14/2016,FBS,San Diego State,Fresno State,RUSHING,Rashaad,Penny,LONG,12
+3032009,10/14/2016,FBS,San Diego State,Fresno State,RUSHING,Christian,Chapman,ATT,6
+3032010,10/14/2016,FBS,San Diego State,Fresno State,RUSHING,Christian,Chapman,YDS,26
+3032011,10/14/2016,FBS,San Diego State,Fresno State,RUSHING,Christian,Chapman,TD,0
+3032012,10/14/2016,FBS,San Diego State,Fresno State,RUSHING,Christian,Chapman,LONG,13
+3032013,10/14/2016,FBS,San Diego State,Fresno State,RUSHING,,Team,ATT,2
+3032014,10/14/2016,FBS,San Diego State,Fresno State,RUSHING,,Team,YDS,-3
+3032015,10/14/2016,FBS,San Diego State,Fresno State,RUSHING,,Team,TD,0
+3032016,10/14/2016,FBS,San Diego State,Fresno State,RUSHING,,Team,LONG,-1
+3032017,10/14/2016,FBS,San Diego State,Fresno State,PASSING,Christian,Chapman,CP-ATT-INT,7-12-0
+3032018,10/14/2016,FBS,San Diego State,Fresno State,PASSING,Christian,Chapman,YDS,72
+3032019,10/14/2016,FBS,San Diego State,Fresno State,PASSING,Christian,Chapman,TD,0
+3032020,10/14/2016,FBS,San Diego State,Fresno State,PASSING,Christian,Chapman,LONG,14
+3032021,10/14/2016,FBS,San Diego State,Fresno State,RECEIVING,David,Wells,REC,3
+3032022,10/14/2016,FBS,San Diego State,Fresno State,RECEIVING,David,Wells,YDS,30
+3032023,10/14/2016,FBS,San Diego State,Fresno State,RECEIVING,David,Wells,TD,0
+3032024,10/14/2016,FBS,San Diego State,Fresno State,RECEIVING,David,Wells,LONG,14
+3032025,10/14/2016,FBS,San Diego State,Fresno State,RECEIVING,Nick,Bawden,REC,2
+3032026,10/14/2016,FBS,San Diego State,Fresno State,RECEIVING,Nick,Bawden,YDS,23
+3032027,10/14/2016,FBS,San Diego State,Fresno State,RECEIVING,Nick,Bawden,TD,0
+3032028,10/14/2016,FBS,San Diego State,Fresno State,RECEIVING,Nick,Bawden,LONG,14
+3032029,10/14/2016,FBS,San Diego State,Fresno State,RECEIVING,Parker,Houston,REC,1
+3032030,10/14/2016,FBS,San Diego State,Fresno State,RECEIVING,Parker,Houston,YDS,14
+3032031,10/14/2016,FBS,San Diego State,Fresno State,RECEIVING,Parker,Houston,TD,0
+3032032,10/14/2016,FBS,San Diego State,Fresno State,RECEIVING,Parker,Houston,LONG,14
+3032033,10/14/2016,FBS,San Diego State,Fresno State,RECEIVING,Rashaad,Penny,REC,1
+3032034,10/14/2016,FBS,San Diego State,Fresno State,RECEIVING,Rashaad,Penny,YDS,5
+3032035,10/14/2016,FBS,San Diego State,Fresno State,RECEIVING,Rashaad,Penny,TD,0
+3032036,10/14/2016,FBS,San Diego State,Fresno State,RECEIVING,Rashaad,Penny,LONG,5
+3032037,10/14/2016,FBS,San Diego State,Fresno State,KICKING,John,BaronII,FG-FGA,1/1
+3032038,10/14/2016,FBS,San Diego State,Fresno State,KICKING,John,BaronII,LONG,47
+3032039,10/14/2016,FBS,San Diego State,Fresno State,KICKING,John,BaronII,XP,2
+3032040,10/14/2016,FBS,San Diego State,Fresno State,KICKING,John,BaronII,PTS,5
+3032041,10/14/2016,FBS,San Diego State,Fresno State,PUNTING,Tanner,Blain,NO,4
+3032042,10/14/2016,FBS,San Diego State,Fresno State,PUNTING,Tanner,Blain,YDS,145
+3032043,10/14/2016,FBS,San Diego State,Fresno State,PUNTING,Tanner,Blain,AVG,36.2
+3032044,10/14/2016,FBS,San Diego State,Fresno State,PUNTING,Tanner,Blain,LONG,57
+3032045,10/14/2016,FBS,San Diego State,Fresno State,PUNT RETURNS,Quest,Truxton,NO,1
+3032046,10/14/2016,FBS,San Diego State,Fresno State,PUNT RETURNS,Quest,Truxton,YDS,0
+3032047,10/14/2016,FBS,San Diego State,Fresno State,PUNT RETURNS,Quest,Truxton,AVG,-
+3032048,10/14/2016,FBS,San Diego State,Fresno State,PUNT RETURNS,Quest,Truxton,LONG,0
+3032049,10/14/2016,FBS,San Diego State,Fresno State,KICK RETURNS,Rashaad,Penny,NO,2
+3032050,10/14/2016,FBS,San Diego State,Fresno State,KICK RETURNS,Rashaad,Penny,YDS,41
+3032051,10/14/2016,FBS,San Diego State,Fresno State,KICK RETURNS,Rashaad,Penny,AVG,20.5
+3032052,10/14/2016,FBS,San Diego State,Fresno State,KICK RETURNS,Rashaad,Penny,LONG,25
+3032053,10/14/2016,FBS,Fresno State,San Diego State,RUSHING,Chason,Virgil,ATT,9
+3032054,10/14/2016,FBS,Fresno State,San Diego State,RUSHING,Chason,Virgil,YDS,44
+3032055,10/14/2016,FBS,Fresno State,San Diego State,RUSHING,Chason,Virgil,TD,0
+3032056,10/14/2016,FBS,Fresno State,San Diego State,RUSHING,Chason,Virgil,LONG,28
+3032057,10/14/2016,FBS,Fresno State,San Diego State,RUSHING,Dontel,James,ATT,15
+3032058,10/14/2016,FBS,Fresno State,San Diego State,RUSHING,Dontel,James,YDS,34
+3032059,10/14/2016,FBS,Fresno State,San Diego State,RUSHING,Dontel,James,TD,0
+3032060,10/14/2016,FBS,Fresno State,San Diego State,RUSHING,Dontel,James,LONG,10
+3032061,10/14/2016,FBS,Fresno State,San Diego State,PASSING,Chason,Virgil,CP-ATT-INT,16-26-2
+3032062,10/14/2016,FBS,Fresno State,San Diego State,PASSING,Chason,Virgil,YDS,139
+3032063,10/14/2016,FBS,Fresno State,San Diego State,PASSING,Chason,Virgil,TD,0
+3032064,10/14/2016,FBS,Fresno State,San Diego State,PASSING,Chason,Virgil,LONG,49
+3032065,10/14/2016,FBS,Fresno State,San Diego State,PASSING,Blake,Cusick,CP-ATT-INT,0-1-1
+3032066,10/14/2016,FBS,Fresno State,San Diego State,PASSING,Blake,Cusick,YDS,0
+3032067,10/14/2016,FBS,Fresno State,San Diego State,PASSING,Blake,Cusick,TD,0
+3032068,10/14/2016,FBS,Fresno State,San Diego State,PASSING,Blake,Cusick,LONG,0
+3032069,10/14/2016,FBS,Fresno State,San Diego State,RECEIVING,KeeSean,Johnson,REC,8
+3032070,10/14/2016,FBS,Fresno State,San Diego State,RECEIVING,KeeSean,Johnson,YDS,56
+3032071,10/14/2016,FBS,Fresno State,San Diego State,RECEIVING,KeeSean,Johnson,TD,0
+3032072,10/14/2016,FBS,Fresno State,San Diego State,RECEIVING,KeeSean,Johnson,LONG,22
+3032073,10/14/2016,FBS,Fresno State,San Diego State,RECEIVING,Jamire,Jordan,REC,1
+3032074,10/14/2016,FBS,Fresno State,San Diego State,RECEIVING,Jamire,Jordan,YDS,49
+3032075,10/14/2016,FBS,Fresno State,San Diego State,RECEIVING,Jamire,Jordan,TD,0
+3032076,10/14/2016,FBS,Fresno State,San Diego State,RECEIVING,Jamire,Jordan,LONG,49
+3032077,10/14/2016,FBS,Fresno State,San Diego State,RECEIVING,Aaron,Peck,REC,6
+3032078,10/14/2016,FBS,Fresno State,San Diego State,RECEIVING,Aaron,Peck,YDS,32
+3032079,10/14/2016,FBS,Fresno State,San Diego State,RECEIVING,Aaron,Peck,TD,0
+3032080,10/14/2016,FBS,Fresno State,San Diego State,RECEIVING,Aaron,Peck,LONG,8
+3032081,10/14/2016,FBS,Fresno State,San Diego State,RECEIVING,Kyle,Riddering,REC,1
+3032082,10/14/2016,FBS,Fresno State,San Diego State,RECEIVING,Kyle,Riddering,YDS,2
+3032083,10/14/2016,FBS,Fresno State,San Diego State,RECEIVING,Kyle,Riddering,TD,0
+3032084,10/14/2016,FBS,Fresno State,San Diego State,RECEIVING,Kyle,Riddering,LONG,2
+3032085,10/14/2016,FBS,Fresno State,San Diego State,KICKING,Kody,Kroening,FG-FGA,1/1
+3032086,10/14/2016,FBS,Fresno State,San Diego State,KICKING,Kody,Kroening,LONG,39
+3032087,10/14/2016,FBS,Fresno State,San Diego State,KICKING,Kody,Kroening,XP,0
+3032088,10/14/2016,FBS,Fresno State,San Diego State,KICKING,Kody,Kroening,PTS,3
+3032089,10/14/2016,FBS,Fresno State,San Diego State,PUNTING,Blake,Cusick,NO,5
+3032090,10/14/2016,FBS,Fresno State,San Diego State,PUNTING,Blake,Cusick,YDS,197
+3032091,10/14/2016,FBS,Fresno State,San Diego State,PUNTING,Blake,Cusick,AVG,39.4
+3032092,10/14/2016,FBS,Fresno State,San Diego State,PUNTING,Blake,Cusick,LONG,43
+3032093,10/14/2016,FBS,Fresno State,San Diego State,PUNT RETURNS,Tyquwan,Glass,NO,0
+3032094,10/14/2016,FBS,Fresno State,San Diego State,PUNT RETURNS,Tyquwan,Glass,YDS,0
+3032095,10/14/2016,FBS,Fresno State,San Diego State,PUNT RETURNS,Tyquwan,Glass,AVG,-
+3032096,10/14/2016,FBS,Fresno State,San Diego State,PUNT RETURNS,Tyquwan,Glass,LONG,0
+3032097,10/14/2016,FBS,Fresno State,San Diego State,KICK RETURNS,Tyquwan,Glass,NO,3
+3032098,10/14/2016,FBS,Fresno State,San Diego State,KICK RETURNS,Tyquwan,Glass,YDS,64
+3032099,10/14/2016,FBS,Fresno State,San Diego State,KICK RETURNS,Tyquwan,Glass,AVG,21.3
+3032100,10/14/2016,FBS,Fresno State,San Diego State,KICK RETURNS,Tyquwan,Glass,LONG,24
+3032101,10/14/2016,FBS,Fresno State,San Diego State,KICK RETURNS,KeeSean,Johnson,NO,1
+3032102,10/14/2016,FBS,Fresno State,San Diego State,KICK RETURNS,KeeSean,Johnson,YDS,27
+3032103,10/14/2016,FBS,Fresno State,San Diego State,KICK RETURNS,KeeSean,Johnson,AVG,27.0
+3032104,10/14/2016,FBS,Fresno State,San Diego State,KICK RETURNS,KeeSean,Johnson,LONG,27

@@ -1,0 +1,125 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3252001,11/5/2016,FBS,Louisiana Tech,North Texas,RUSHING,Jarred,Craft,ATT,24
+3252002,11/5/2016,FBS,Louisiana Tech,North Texas,RUSHING,Jarred,Craft,YDS,120
+3252003,11/5/2016,FBS,Louisiana Tech,North Texas,RUSHING,Jarred,Craft,TD,1
+3252004,11/5/2016,FBS,Louisiana Tech,North Texas,RUSHING,Jarred,Craft,LONG,17
+3252005,11/5/2016,FBS,Louisiana Tech,North Texas,RUSHING,Ryan,Higgins,ATT,7
+3252006,11/5/2016,FBS,Louisiana Tech,North Texas,RUSHING,Ryan,Higgins,YDS,50
+3252007,11/5/2016,FBS,Louisiana Tech,North Texas,RUSHING,Ryan,Higgins,TD,0
+3252008,11/5/2016,FBS,Louisiana Tech,North Texas,RUSHING,Ryan,Higgins,LONG,31
+3252009,11/5/2016,FBS,Louisiana Tech,North Texas,RUSHING,Boston,Scott,ATT,6
+3252010,11/5/2016,FBS,Louisiana Tech,North Texas,RUSHING,Boston,Scott,YDS,29
+3252011,11/5/2016,FBS,Louisiana Tech,North Texas,RUSHING,Boston,Scott,TD,0
+3252012,11/5/2016,FBS,Louisiana Tech,North Texas,RUSHING,Boston,Scott,LONG,11
+3252013,11/5/2016,FBS,Louisiana Tech,North Texas,RUSHING,Carlos,Henderson,ATT,2
+3252014,11/5/2016,FBS,Louisiana Tech,North Texas,RUSHING,Carlos,Henderson,YDS,28
+3252015,11/5/2016,FBS,Louisiana Tech,North Texas,RUSHING,Carlos,Henderson,TD,1
+3252016,11/5/2016,FBS,Louisiana Tech,North Texas,RUSHING,Carlos,Henderson,LONG,24
+3252017,11/5/2016,FBS,Louisiana Tech,North Texas,RUSHING,,Team,ATT,1
+3252018,11/5/2016,FBS,Louisiana Tech,North Texas,RUSHING,,Team,YDS,-1
+3252019,11/5/2016,FBS,Louisiana Tech,North Texas,RUSHING,,Team,TD,0
+3252020,11/5/2016,FBS,Louisiana Tech,North Texas,RUSHING,,Team,LONG,-1
+3252021,11/5/2016,FBS,Louisiana Tech,North Texas,PASSING,Ryan,Higgins,CP-ATT-INT,18-30-1
+3252022,11/5/2016,FBS,Louisiana Tech,North Texas,PASSING,Ryan,Higgins,YDS,253
+3252023,11/5/2016,FBS,Louisiana Tech,North Texas,PASSING,Ryan,Higgins,TD,4
+3252024,11/5/2016,FBS,Louisiana Tech,North Texas,PASSING,Ryan,Higgins,LONG,52
+3252025,11/5/2016,FBS,Louisiana Tech,North Texas,RECEIVING,Carlos,Henderson,REC,8
+3252026,11/5/2016,FBS,Louisiana Tech,North Texas,RECEIVING,Carlos,Henderson,YDS,133
+3252027,11/5/2016,FBS,Louisiana Tech,North Texas,RECEIVING,Carlos,Henderson,TD,4
+3252028,11/5/2016,FBS,Louisiana Tech,North Texas,RECEIVING,Carlos,Henderson,LONG,52
+3252029,11/5/2016,FBS,Louisiana Tech,North Texas,RECEIVING,Kameron,McKnight,REC,1
+3252030,11/5/2016,FBS,Louisiana Tech,North Texas,RECEIVING,Kameron,McKnight,YDS,50
+3252031,11/5/2016,FBS,Louisiana Tech,North Texas,RECEIVING,Kameron,McKnight,TD,0
+3252032,11/5/2016,FBS,Louisiana Tech,North Texas,RECEIVING,Kameron,McKnight,LONG,50
+3252033,11/5/2016,FBS,Louisiana Tech,North Texas,RECEIVING,Trent,Taylor,REC,5
+3252034,11/5/2016,FBS,Louisiana Tech,North Texas,RECEIVING,Trent,Taylor,YDS,44
+3252035,11/5/2016,FBS,Louisiana Tech,North Texas,RECEIVING,Trent,Taylor,TD,0
+3252036,11/5/2016,FBS,Louisiana Tech,North Texas,RECEIVING,Trent,Taylor,LONG,14
+3252037,11/5/2016,FBS,Louisiana Tech,North Texas,RECEIVING,Jarred,Craft,REC,4
+3252038,11/5/2016,FBS,Louisiana Tech,North Texas,RECEIVING,Jarred,Craft,YDS,26
+3252039,11/5/2016,FBS,Louisiana Tech,North Texas,RECEIVING,Jarred,Craft,TD,0
+3252040,11/5/2016,FBS,Louisiana Tech,North Texas,RECEIVING,Jarred,Craft,LONG,12
+3252041,11/5/2016,FBS,Louisiana Tech,North Texas,KICKING,Jonathan,Barnes,FG-FGA,1/2
+3252042,11/5/2016,FBS,Louisiana Tech,North Texas,KICKING,Jonathan,Barnes,LONG,48
+3252043,11/5/2016,FBS,Louisiana Tech,North Texas,KICKING,Jonathan,Barnes,XP,6
+3252044,11/5/2016,FBS,Louisiana Tech,North Texas,KICKING,Jonathan,Barnes,PTS,9
+3252045,11/5/2016,FBS,Louisiana Tech,North Texas,PUNTING,Gerald,Shouse,NO,2
+3252046,11/5/2016,FBS,Louisiana Tech,North Texas,PUNTING,Gerald,Shouse,YDS,72
+3252047,11/5/2016,FBS,Louisiana Tech,North Texas,PUNTING,Gerald,Shouse,AVG,36.0
+3252048,11/5/2016,FBS,Louisiana Tech,North Texas,PUNTING,Gerald,Shouse,LONG,38
+3252049,11/5/2016,FBS,Louisiana Tech,North Texas,PUNT RETURNS,Trent,Taylor,NO,2
+3252050,11/5/2016,FBS,Louisiana Tech,North Texas,PUNT RETURNS,Trent,Taylor,YDS,15
+3252051,11/5/2016,FBS,Louisiana Tech,North Texas,PUNT RETURNS,Trent,Taylor,AVG,7.5
+3252052,11/5/2016,FBS,Louisiana Tech,North Texas,PUNT RETURNS,Trent,Taylor,LONG,14
+3252053,11/5/2016,FBS,Louisiana Tech,North Texas,KICK RETURNS,Alfred,Smith,NO,2
+3252054,11/5/2016,FBS,Louisiana Tech,North Texas,KICK RETURNS,Alfred,Smith,YDS,41
+3252055,11/5/2016,FBS,Louisiana Tech,North Texas,KICK RETURNS,Alfred,Smith,AVG,20.5
+3252056,11/5/2016,FBS,Louisiana Tech,North Texas,KICK RETURNS,Alfred,Smith,LONG,25
+3252057,11/5/2016,FBS,Louisiana Tech,North Texas,KICK RETURNS,Carlos,Henderson,NO,1
+3252058,11/5/2016,FBS,Louisiana Tech,North Texas,KICK RETURNS,Carlos,Henderson,YDS,16
+3252059,11/5/2016,FBS,Louisiana Tech,North Texas,KICK RETURNS,Carlos,Henderson,AVG,16.0
+3252060,11/5/2016,FBS,Louisiana Tech,North Texas,KICK RETURNS,Carlos,Henderson,LONG,16
+3252061,11/5/2016,FBS,North Texas,Louisiana Tech,RUSHING,Jeffrey,Wilson,ATT,15
+3252062,11/5/2016,FBS,North Texas,Louisiana Tech,RUSHING,Jeffrey,Wilson,YDS,66
+3252063,11/5/2016,FBS,North Texas,Louisiana Tech,RUSHING,Jeffrey,Wilson,TD,1
+3252064,11/5/2016,FBS,North Texas,Louisiana Tech,RUSHING,Jeffrey,Wilson,LONG,11
+3252065,11/5/2016,FBS,North Texas,Louisiana Tech,RUSHING,Willy,Ivery,ATT,5
+3252066,11/5/2016,FBS,North Texas,Louisiana Tech,RUSHING,Willy,Ivery,YDS,16
+3252067,11/5/2016,FBS,North Texas,Louisiana Tech,RUSHING,Willy,Ivery,TD,1
+3252068,11/5/2016,FBS,North Texas,Louisiana Tech,RUSHING,Willy,Ivery,LONG,9
+3252069,11/5/2016,FBS,North Texas,Louisiana Tech,RUSHING,Mason,Fine,ATT,9
+3252070,11/5/2016,FBS,North Texas,Louisiana Tech,RUSHING,Mason,Fine,YDS,1
+3252071,11/5/2016,FBS,North Texas,Louisiana Tech,RUSHING,Mason,Fine,TD,0
+3252072,11/5/2016,FBS,North Texas,Louisiana Tech,RUSHING,Mason,Fine,LONG,15
+3252073,11/5/2016,FBS,North Texas,Louisiana Tech,RUSHING,,Team,ATT,1
+3252074,11/5/2016,FBS,North Texas,Louisiana Tech,RUSHING,,Team,YDS,-1
+3252075,11/5/2016,FBS,North Texas,Louisiana Tech,RUSHING,,Team,TD,0
+3252076,11/5/2016,FBS,North Texas,Louisiana Tech,RUSHING,,Team,LONG,-1
+3252077,11/5/2016,FBS,North Texas,Louisiana Tech,PASSING,Mason,Fine,CP-ATT-INT,23-34-1
+3252078,11/5/2016,FBS,North Texas,Louisiana Tech,PASSING,Mason,Fine,YDS,207
+3252079,11/5/2016,FBS,North Texas,Louisiana Tech,PASSING,Mason,Fine,TD,1
+3252080,11/5/2016,FBS,North Texas,Louisiana Tech,PASSING,Mason,Fine,LONG,32
+3252081,11/5/2016,FBS,North Texas,Louisiana Tech,RECEIVING,Jeffrey,Wilson,REC,4
+3252082,11/5/2016,FBS,North Texas,Louisiana Tech,RECEIVING,Jeffrey,Wilson,YDS,61
+3252083,11/5/2016,FBS,North Texas,Louisiana Tech,RECEIVING,Jeffrey,Wilson,TD,0
+3252084,11/5/2016,FBS,North Texas,Louisiana Tech,RECEIVING,Jeffrey,Wilson,LONG,28
+3252085,11/5/2016,FBS,North Texas,Louisiana Tech,RECEIVING,Tee,Goree,REC,4
+3252086,11/5/2016,FBS,North Texas,Louisiana Tech,RECEIVING,Tee,Goree,YDS,46
+3252087,11/5/2016,FBS,North Texas,Louisiana Tech,RECEIVING,Tee,Goree,TD,1
+3252088,11/5/2016,FBS,North Texas,Louisiana Tech,RECEIVING,Tee,Goree,LONG,32
+3252089,11/5/2016,FBS,North Texas,Louisiana Tech,RECEIVING,Thaddeous,Thompson,REC,4
+3252090,11/5/2016,FBS,North Texas,Louisiana Tech,RECEIVING,Thaddeous,Thompson,YDS,34
+3252091,11/5/2016,FBS,North Texas,Louisiana Tech,RECEIVING,Thaddeous,Thompson,TD,0
+3252092,11/5/2016,FBS,North Texas,Louisiana Tech,RECEIVING,Thaddeous,Thompson,LONG,11
+3252093,11/5/2016,FBS,North Texas,Louisiana Tech,RECEIVING,Willy,Ivery,REC,3
+3252094,11/5/2016,FBS,North Texas,Louisiana Tech,RECEIVING,Willy,Ivery,YDS,32
+3252095,11/5/2016,FBS,North Texas,Louisiana Tech,RECEIVING,Willy,Ivery,TD,0
+3252096,11/5/2016,FBS,North Texas,Louisiana Tech,RECEIVING,Willy,Ivery,LONG,19
+3252097,11/5/2016,FBS,North Texas,Louisiana Tech,RECEIVING,Kenny,Buyers,REC,5
+3252098,11/5/2016,FBS,North Texas,Louisiana Tech,RECEIVING,Kenny,Buyers,YDS,23
+3252099,11/5/2016,FBS,North Texas,Louisiana Tech,RECEIVING,Kenny,Buyers,TD,0
+3252100,11/5/2016,FBS,North Texas,Louisiana Tech,RECEIVING,Kenny,Buyers,LONG,7
+3252101,11/5/2016,FBS,North Texas,Louisiana Tech,RECEIVING,Turner,Smiley,REC,2
+3252102,11/5/2016,FBS,North Texas,Louisiana Tech,RECEIVING,Turner,Smiley,YDS,10
+3252103,11/5/2016,FBS,North Texas,Louisiana Tech,RECEIVING,Turner,Smiley,TD,0
+3252104,11/5/2016,FBS,North Texas,Louisiana Tech,RECEIVING,Turner,Smiley,LONG,6
+3252105,11/5/2016,FBS,North Texas,Louisiana Tech,RECEIVING,O'Keeron,Rutherford,REC,1
+3252106,11/5/2016,FBS,North Texas,Louisiana Tech,RECEIVING,O'Keeron,Rutherford,YDS,1
+3252107,11/5/2016,FBS,North Texas,Louisiana Tech,RECEIVING,O'Keeron,Rutherford,TD,0
+3252108,11/5/2016,FBS,North Texas,Louisiana Tech,RECEIVING,O'Keeron,Rutherford,LONG,1
+3252109,11/5/2016,FBS,North Texas,Louisiana Tech,KICKING,Trevor,Moore,FG-FGA,1/1
+3252110,11/5/2016,FBS,North Texas,Louisiana Tech,KICKING,Trevor,Moore,LONG,51
+3252111,11/5/2016,FBS,North Texas,Louisiana Tech,KICKING,Trevor,Moore,XP,3
+3252112,11/5/2016,FBS,North Texas,Louisiana Tech,KICKING,Trevor,Moore,PTS,6
+3252113,11/5/2016,FBS,North Texas,Louisiana Tech,PUNTING,Eric,Keena,NO,5
+3252114,11/5/2016,FBS,North Texas,Louisiana Tech,PUNTING,Eric,Keena,YDS,223
+3252115,11/5/2016,FBS,North Texas,Louisiana Tech,PUNTING,Eric,Keena,AVG,44.6
+3252116,11/5/2016,FBS,North Texas,Louisiana Tech,PUNTING,Eric,Keena,LONG,52
+3252117,11/5/2016,FBS,North Texas,Louisiana Tech,KICK RETURNS,Tyler,Wilson,NO,5
+3252118,11/5/2016,FBS,North Texas,Louisiana Tech,KICK RETURNS,Tyler,Wilson,YDS,108
+3252119,11/5/2016,FBS,North Texas,Louisiana Tech,KICK RETURNS,Tyler,Wilson,AVG,21.6
+3252120,11/5/2016,FBS,North Texas,Louisiana Tech,KICK RETURNS,Tyler,Wilson,LONG,26
+3252121,11/5/2016,FBS,North Texas,Louisiana Tech,KICK RETURNS,Cannon,Maki,NO,1
+3252122,11/5/2016,FBS,North Texas,Louisiana Tech,KICK RETURNS,Cannon,Maki,YDS,12
+3252123,11/5/2016,FBS,North Texas,Louisiana Tech,KICK RETURNS,Cannon,Maki,AVG,12.0
+3252124,11/5/2016,FBS,North Texas,Louisiana Tech,KICK RETURNS,Cannon,Maki,LONG,12

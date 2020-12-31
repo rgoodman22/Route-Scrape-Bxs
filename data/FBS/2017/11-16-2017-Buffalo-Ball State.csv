@@ -1,0 +1,145 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+4212001,11/16/2017,FBS,Buffalo,Ball State,RUSHING,Emmanuel,Reed,ATT,18
+4212002,11/16/2017,FBS,Buffalo,Ball State,RUSHING,Emmanuel,Reed,YDS,123
+4212003,11/16/2017,FBS,Buffalo,Ball State,RUSHING,Emmanuel,Reed,TD,0
+4212004,11/16/2017,FBS,Buffalo,Ball State,RUSHING,Emmanuel,Reed,LONG,34
+4212005,11/16/2017,FBS,Buffalo,Ball State,RUSHING,Theo,Anderson,ATT,14
+4212006,11/16/2017,FBS,Buffalo,Ball State,RUSHING,Theo,Anderson,YDS,91
+4212007,11/16/2017,FBS,Buffalo,Ball State,RUSHING,Theo,Anderson,TD,0
+4212008,11/16/2017,FBS,Buffalo,Ball State,RUSHING,Theo,Anderson,LONG,45
+4212009,11/16/2017,FBS,Buffalo,Ball State,RUSHING,K.J.,Osborn,ATT,1
+4212010,11/16/2017,FBS,Buffalo,Ball State,RUSHING,K.J.,Osborn,YDS,16
+4212011,11/16/2017,FBS,Buffalo,Ball State,RUSHING,K.J.,Osborn,TD,1
+4212012,11/16/2017,FBS,Buffalo,Ball State,RUSHING,K.J.,Osborn,LONG,16
+4212013,11/16/2017,FBS,Buffalo,Ball State,RUSHING,,Team,ATT,3
+4212014,11/16/2017,FBS,Buffalo,Ball State,RUSHING,,Team,YDS,-6
+4212015,11/16/2017,FBS,Buffalo,Ball State,RUSHING,,Team,TD,0
+4212016,11/16/2017,FBS,Buffalo,Ball State,RUSHING,,Team,LONG,-1
+4212017,11/16/2017,FBS,Buffalo,Ball State,RUSHING,Tyree,Jackson,ATT,3
+4212018,11/16/2017,FBS,Buffalo,Ball State,RUSHING,Tyree,Jackson,YDS,-9
+4212019,11/16/2017,FBS,Buffalo,Ball State,RUSHING,Tyree,Jackson,TD,0
+4212020,11/16/2017,FBS,Buffalo,Ball State,RUSHING,Tyree,Jackson,LONG,5
+4212021,11/16/2017,FBS,Buffalo,Ball State,PASSING,Tyree,Jackson,CP-ATT-INT,16-28-1
+4212022,11/16/2017,FBS,Buffalo,Ball State,PASSING,Tyree,Jackson,YDS,350
+4212023,11/16/2017,FBS,Buffalo,Ball State,PASSING,Tyree,Jackson,TD,4
+4212024,11/16/2017,FBS,Buffalo,Ball State,PASSING,Tyree,Jackson,LONG,57
+4212025,11/16/2017,FBS,Buffalo,Ball State,RECEIVING,Anthony,Johnson,REC,7
+4212026,11/16/2017,FBS,Buffalo,Ball State,RECEIVING,Anthony,Johnson,YDS,153
+4212027,11/16/2017,FBS,Buffalo,Ball State,RECEIVING,Anthony,Johnson,TD,4
+4212028,11/16/2017,FBS,Buffalo,Ball State,RECEIVING,Anthony,Johnson,LONG,56
+4212029,11/16/2017,FBS,Buffalo,Ball State,RECEIVING,Antonio,Nunn,REC,2
+4212030,11/16/2017,FBS,Buffalo,Ball State,RECEIVING,Antonio,Nunn,YDS,102
+4212031,11/16/2017,FBS,Buffalo,Ball State,RECEIVING,Antonio,Nunn,TD,0
+4212032,11/16/2017,FBS,Buffalo,Ball State,RECEIVING,Antonio,Nunn,LONG,57
+4212033,11/16/2017,FBS,Buffalo,Ball State,RECEIVING,K.J.,Osborn,REC,5
+4212034,11/16/2017,FBS,Buffalo,Ball State,RECEIVING,K.J.,Osborn,YDS,76
+4212035,11/16/2017,FBS,Buffalo,Ball State,RECEIVING,K.J.,Osborn,TD,0
+4212036,11/16/2017,FBS,Buffalo,Ball State,RECEIVING,K.J.,Osborn,LONG,33
+4212037,11/16/2017,FBS,Buffalo,Ball State,RECEIVING,Jamarl,Eiland,REC,1
+4212038,11/16/2017,FBS,Buffalo,Ball State,RECEIVING,Jamarl,Eiland,YDS,12
+4212039,11/16/2017,FBS,Buffalo,Ball State,RECEIVING,Jamarl,Eiland,TD,0
+4212040,11/16/2017,FBS,Buffalo,Ball State,RECEIVING,Jamarl,Eiland,LONG,12
+4212041,11/16/2017,FBS,Buffalo,Ball State,RECEIVING,Tyler,Mabry,REC,1
+4212042,11/16/2017,FBS,Buffalo,Ball State,RECEIVING,Tyler,Mabry,YDS,7
+4212043,11/16/2017,FBS,Buffalo,Ball State,RECEIVING,Tyler,Mabry,TD,0
+4212044,11/16/2017,FBS,Buffalo,Ball State,RECEIVING,Tyler,Mabry,LONG,7
+4212045,11/16/2017,FBS,Buffalo,Ball State,KICKING,Adam,Mitcheson,FG-FGA,2/3
+4212046,11/16/2017,FBS,Buffalo,Ball State,KICKING,Adam,Mitcheson,LONG,33
+4212047,11/16/2017,FBS,Buffalo,Ball State,KICKING,Adam,Mitcheson,XP,4
+4212048,11/16/2017,FBS,Buffalo,Ball State,KICKING,Adam,Mitcheson,PTS,10
+4212049,11/16/2017,FBS,Buffalo,Ball State,PUNTING,Kyle,DeWeen,NO,2
+4212050,11/16/2017,FBS,Buffalo,Ball State,PUNTING,Kyle,DeWeen,YDS,77
+4212051,11/16/2017,FBS,Buffalo,Ball State,PUNTING,Kyle,DeWeen,AVG,38.5
+4212052,11/16/2017,FBS,Buffalo,Ball State,PUNTING,Kyle,DeWeen,LONG,49
+4212053,11/16/2017,FBS,Buffalo,Ball State,PUNT RETURNS,K.J.,Osborn,NO,1
+4212054,11/16/2017,FBS,Buffalo,Ball State,PUNT RETURNS,K.J.,Osborn,YDS,3
+4212055,11/16/2017,FBS,Buffalo,Ball State,PUNT RETURNS,K.J.,Osborn,AVG,3.0
+4212056,11/16/2017,FBS,Buffalo,Ball State,PUNT RETURNS,K.J.,Osborn,LONG,3
+4212057,11/16/2017,FBS,Buffalo,Ball State,PUNT RETURNS,Jamarl,Eiland,NO,1
+4212058,11/16/2017,FBS,Buffalo,Ball State,PUNT RETURNS,Jamarl,Eiland,YDS,1
+4212059,11/16/2017,FBS,Buffalo,Ball State,PUNT RETURNS,Jamarl,Eiland,AVG,1.0
+4212060,11/16/2017,FBS,Buffalo,Ball State,PUNT RETURNS,Jamarl,Eiland,LONG,1
+4212061,11/16/2017,FBS,Buffalo,Ball State,KICK RETURNS,K.J.,Osborn,NO,5
+4212062,11/16/2017,FBS,Buffalo,Ball State,KICK RETURNS,K.J.,Osborn,YDS,101
+4212063,11/16/2017,FBS,Buffalo,Ball State,KICK RETURNS,K.J.,Osborn,AVG,20.2
+4212064,11/16/2017,FBS,Buffalo,Ball State,KICK RETURNS,K.J.,Osborn,LONG,27
+4212065,11/16/2017,FBS,Ball State,Buffalo,RUSHING,Caleb,Huntley,ATT,26
+4212066,11/16/2017,FBS,Ball State,Buffalo,RUSHING,Caleb,Huntley,YDS,141
+4212067,11/16/2017,FBS,Ball State,Buffalo,RUSHING,Caleb,Huntley,TD,0
+4212068,11/16/2017,FBS,Ball State,Buffalo,RUSHING,Caleb,Huntley,LONG,13
+4212069,11/16/2017,FBS,Ball State,Buffalo,RUSHING,Malik,Dunner,ATT,4
+4212070,11/16/2017,FBS,Ball State,Buffalo,RUSHING,Malik,Dunner,YDS,63
+4212071,11/16/2017,FBS,Ball State,Buffalo,RUSHING,Malik,Dunner,TD,1
+4212072,11/16/2017,FBS,Ball State,Buffalo,RUSHING,Malik,Dunner,LONG,50
+4212073,11/16/2017,FBS,Ball State,Buffalo,RUSHING,Markice,HurtJr.,ATT,1
+4212074,11/16/2017,FBS,Ball State,Buffalo,RUSHING,Markice,HurtJr.,YDS,3
+4212075,11/16/2017,FBS,Ball State,Buffalo,RUSHING,Markice,HurtJr.,TD,0
+4212076,11/16/2017,FBS,Ball State,Buffalo,RUSHING,Markice,HurtJr.,LONG,3
+4212077,11/16/2017,FBS,Ball State,Buffalo,RUSHING,Jack,Milas,ATT,3
+4212078,11/16/2017,FBS,Ball State,Buffalo,RUSHING,Jack,Milas,YDS,3
+4212079,11/16/2017,FBS,Ball State,Buffalo,RUSHING,Jack,Milas,TD,0
+4212080,11/16/2017,FBS,Ball State,Buffalo,RUSHING,Jack,Milas,LONG,6
+4212081,11/16/2017,FBS,Ball State,Buffalo,RUSHING,Justin,Hall,ATT,1
+4212082,11/16/2017,FBS,Ball State,Buffalo,RUSHING,Justin,Hall,YDS,2
+4212083,11/16/2017,FBS,Ball State,Buffalo,RUSHING,Justin,Hall,TD,0
+4212084,11/16/2017,FBS,Ball State,Buffalo,RUSHING,Justin,Hall,LONG,2
+4212085,11/16/2017,FBS,Ball State,Buffalo,RUSHING,Curtis,Blackwell,ATT,0
+4212086,11/16/2017,FBS,Ball State,Buffalo,RUSHING,Curtis,Blackwell,YDS,0
+4212087,11/16/2017,FBS,Ball State,Buffalo,RUSHING,Curtis,Blackwell,TD,0
+4212088,11/16/2017,FBS,Ball State,Buffalo,RUSHING,Curtis,Blackwell,LONG,0
+4212089,11/16/2017,FBS,Ball State,Buffalo,RUSHING,,Team,ATT,1
+4212090,11/16/2017,FBS,Ball State,Buffalo,RUSHING,,Team,YDS,-5
+4212091,11/16/2017,FBS,Ball State,Buffalo,RUSHING,,Team,TD,0
+4212092,11/16/2017,FBS,Ball State,Buffalo,RUSHING,,Team,LONG,-5
+4212093,11/16/2017,FBS,Ball State,Buffalo,RUSHING,Drew,Plitt,ATT,1
+4212094,11/16/2017,FBS,Ball State,Buffalo,RUSHING,Drew,Plitt,YDS,-13
+4212095,11/16/2017,FBS,Ball State,Buffalo,RUSHING,Drew,Plitt,TD,0
+4212096,11/16/2017,FBS,Ball State,Buffalo,RUSHING,Drew,Plitt,LONG,-13
+4212097,11/16/2017,FBS,Ball State,Buffalo,PASSING,Jack,Milas,CP-ATT-INT,13-26-0
+4212098,11/16/2017,FBS,Ball State,Buffalo,PASSING,Jack,Milas,YDS,127
+4212099,11/16/2017,FBS,Ball State,Buffalo,PASSING,Jack,Milas,TD,2
+4212100,11/16/2017,FBS,Ball State,Buffalo,PASSING,Jack,Milas,LONG,47
+4212101,11/16/2017,FBS,Ball State,Buffalo,PASSING,Drew,Plitt,CP-ATT-INT,2-3-1
+4212102,11/16/2017,FBS,Ball State,Buffalo,PASSING,Drew,Plitt,YDS,16
+4212103,11/16/2017,FBS,Ball State,Buffalo,PASSING,Drew,Plitt,TD,0
+4212104,11/16/2017,FBS,Ball State,Buffalo,PASSING,Drew,Plitt,LONG,9
+4212105,11/16/2017,FBS,Ball State,Buffalo,RECEIVING,Justin,Hall,REC,8
+4212106,11/16/2017,FBS,Ball State,Buffalo,RECEIVING,Justin,Hall,YDS,102
+4212107,11/16/2017,FBS,Ball State,Buffalo,RECEIVING,Justin,Hall,TD,1
+4212108,11/16/2017,FBS,Ball State,Buffalo,RECEIVING,Justin,Hall,LONG,47
+4212109,11/16/2017,FBS,Ball State,Buffalo,RECEIVING,Khalil,Newton,REC,2
+4212110,11/16/2017,FBS,Ball State,Buffalo,RECEIVING,Khalil,Newton,YDS,11
+4212111,11/16/2017,FBS,Ball State,Buffalo,RECEIVING,Khalil,Newton,TD,0
+4212112,11/16/2017,FBS,Ball State,Buffalo,RECEIVING,Khalil,Newton,LONG,7
+4212113,11/16/2017,FBS,Ball State,Buffalo,RECEIVING,Nolan,Givan,REC,1
+4212114,11/16/2017,FBS,Ball State,Buffalo,RECEIVING,Nolan,Givan,YDS,11
+4212115,11/16/2017,FBS,Ball State,Buffalo,RECEIVING,Nolan,Givan,TD,1
+4212116,11/16/2017,FBS,Ball State,Buffalo,RECEIVING,Nolan,Givan,LONG,11
+4212117,11/16/2017,FBS,Ball State,Buffalo,RECEIVING,Caleb,Huntley,REC,1
+4212118,11/16/2017,FBS,Ball State,Buffalo,RECEIVING,Caleb,Huntley,YDS,10
+4212119,11/16/2017,FBS,Ball State,Buffalo,RECEIVING,Caleb,Huntley,TD,0
+4212120,11/16/2017,FBS,Ball State,Buffalo,RECEIVING,Caleb,Huntley,LONG,10
+4212121,11/16/2017,FBS,Ball State,Buffalo,RECEIVING,Riley,Miller,REC,1
+4212122,11/16/2017,FBS,Ball State,Buffalo,RECEIVING,Riley,Miller,YDS,7
+4212123,11/16/2017,FBS,Ball State,Buffalo,RECEIVING,Riley,Miller,TD,0
+4212124,11/16/2017,FBS,Ball State,Buffalo,RECEIVING,Riley,Miller,LONG,7
+4212125,11/16/2017,FBS,Ball State,Buffalo,RECEIVING,Malik,Dunner,REC,2
+4212126,11/16/2017,FBS,Ball State,Buffalo,RECEIVING,Malik,Dunner,YDS,2
+4212127,11/16/2017,FBS,Ball State,Buffalo,RECEIVING,Malik,Dunner,TD,0
+4212128,11/16/2017,FBS,Ball State,Buffalo,RECEIVING,Malik,Dunner,LONG,4
+4212129,11/16/2017,FBS,Ball State,Buffalo,KICKING,Morgan,Hagee,FG-FGA,1/1
+4212130,11/16/2017,FBS,Ball State,Buffalo,KICKING,Morgan,Hagee,LONG,21
+4212131,11/16/2017,FBS,Ball State,Buffalo,KICKING,Morgan,Hagee,XP,3
+4212132,11/16/2017,FBS,Ball State,Buffalo,KICKING,Morgan,Hagee,PTS,6
+4212133,11/16/2017,FBS,Ball State,Buffalo,PUNTING,Morgan,Hagee,NO,3
+4212134,11/16/2017,FBS,Ball State,Buffalo,PUNTING,Morgan,Hagee,YDS,109
+4212135,11/16/2017,FBS,Ball State,Buffalo,PUNTING,Morgan,Hagee,AVG,36.3
+4212136,11/16/2017,FBS,Ball State,Buffalo,PUNTING,Morgan,Hagee,LONG,43
+4212137,11/16/2017,FBS,Ball State,Buffalo,PUNTING,Nathan,Snyder,NO,2
+4212138,11/16/2017,FBS,Ball State,Buffalo,PUNTING,Nathan,Snyder,YDS,75
+4212139,11/16/2017,FBS,Ball State,Buffalo,PUNTING,Nathan,Snyder,AVG,37.5
+4212140,11/16/2017,FBS,Ball State,Buffalo,PUNTING,Nathan,Snyder,LONG,38
+4212141,11/16/2017,FBS,Ball State,Buffalo,KICK RETURNS,Malik,Dunner,NO,3
+4212142,11/16/2017,FBS,Ball State,Buffalo,KICK RETURNS,Malik,Dunner,YDS,59
+4212143,11/16/2017,FBS,Ball State,Buffalo,KICK RETURNS,Malik,Dunner,AVG,19.7
+4212144,11/16/2017,FBS,Ball State,Buffalo,KICK RETURNS,Malik,Dunner,LONG,24

@@ -1,0 +1,141 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3318001,11/12/2016,FBS,Mississippi,Texas A&M,RUSHING,Akeem,Judd,ATT,20
+3318002,11/12/2016,FBS,Mississippi,Texas A&M,RUSHING,Akeem,Judd,YDS,100
+3318003,11/12/2016,FBS,Mississippi,Texas A&M,RUSHING,Akeem,Judd,TD,1
+3318004,11/12/2016,FBS,Mississippi,Texas A&M,RUSHING,Akeem,Judd,LONG,21
+3318005,11/12/2016,FBS,Mississippi,Texas A&M,RUSHING,Shea,Patterson,ATT,15
+3318006,11/12/2016,FBS,Mississippi,Texas A&M,RUSHING,Shea,Patterson,YDS,64
+3318007,11/12/2016,FBS,Mississippi,Texas A&M,RUSHING,Shea,Patterson,TD,0
+3318008,11/12/2016,FBS,Mississippi,Texas A&M,RUSHING,Shea,Patterson,LONG,16
+3318009,11/12/2016,FBS,Mississippi,Texas A&M,RUSHING,Eugene,Brazley,ATT,8
+3318010,11/12/2016,FBS,Mississippi,Texas A&M,RUSHING,Eugene,Brazley,YDS,9
+3318011,11/12/2016,FBS,Mississippi,Texas A&M,RUSHING,Eugene,Brazley,TD,0
+3318012,11/12/2016,FBS,Mississippi,Texas A&M,RUSHING,Eugene,Brazley,LONG,5
+3318013,11/12/2016,FBS,Mississippi,Texas A&M,RUSHING,Jason,Pellerin,ATT,2
+3318014,11/12/2016,FBS,Mississippi,Texas A&M,RUSHING,Jason,Pellerin,YDS,-6
+3318015,11/12/2016,FBS,Mississippi,Texas A&M,RUSHING,Jason,Pellerin,TD,0
+3318016,11/12/2016,FBS,Mississippi,Texas A&M,RUSHING,Jason,Pellerin,LONG,3
+3318017,11/12/2016,FBS,Mississippi,Texas A&M,RUSHING,,Team,ATT,2
+3318018,11/12/2016,FBS,Mississippi,Texas A&M,RUSHING,,Team,YDS,-15
+3318019,11/12/2016,FBS,Mississippi,Texas A&M,RUSHING,,Team,TD,0
+3318020,11/12/2016,FBS,Mississippi,Texas A&M,RUSHING,,Team,LONG,-3
+3318021,11/12/2016,FBS,Mississippi,Texas A&M,PASSING,Shea,Patterson,CP-ATT-INT,25-42-1
+3318022,11/12/2016,FBS,Mississippi,Texas A&M,PASSING,Shea,Patterson,YDS,338
+3318023,11/12/2016,FBS,Mississippi,Texas A&M,PASSING,Shea,Patterson,TD,2
+3318024,11/12/2016,FBS,Mississippi,Texas A&M,PASSING,Shea,Patterson,LONG,40
+3318025,11/12/2016,FBS,Mississippi,Texas A&M,PASSING,Jason,Pellerin,CP-ATT-INT,0-0-0
+3318026,11/12/2016,FBS,Mississippi,Texas A&M,PASSING,Jason,Pellerin,YDS,0
+3318027,11/12/2016,FBS,Mississippi,Texas A&M,PASSING,Jason,Pellerin,TD,0
+3318028,11/12/2016,FBS,Mississippi,Texas A&M,PASSING,Jason,Pellerin,LONG,0
+3318029,11/12/2016,FBS,Mississippi,Texas A&M,RECEIVING,A.J.,Brown,REC,4
+3318030,11/12/2016,FBS,Mississippi,Texas A&M,RECEIVING,A.J.,Brown,YDS,77
+3318031,11/12/2016,FBS,Mississippi,Texas A&M,RECEIVING,A.J.,Brown,TD,0
+3318032,11/12/2016,FBS,Mississippi,Texas A&M,RECEIVING,A.J.,Brown,LONG,29
+3318033,11/12/2016,FBS,Mississippi,Texas A&M,RECEIVING,Damore'ea,Stringfellow,REC,5
+3318034,11/12/2016,FBS,Mississippi,Texas A&M,RECEIVING,Damore'ea,Stringfellow,YDS,74
+3318035,11/12/2016,FBS,Mississippi,Texas A&M,RECEIVING,Damore'ea,Stringfellow,TD,1
+3318036,11/12/2016,FBS,Mississippi,Texas A&M,RECEIVING,Damore'ea,Stringfellow,LONG,40
+3318037,11/12/2016,FBS,Mississippi,Texas A&M,RECEIVING,Van,Jefferson,REC,4
+3318038,11/12/2016,FBS,Mississippi,Texas A&M,RECEIVING,Van,Jefferson,YDS,51
+3318039,11/12/2016,FBS,Mississippi,Texas A&M,RECEIVING,Van,Jefferson,TD,1
+3318040,11/12/2016,FBS,Mississippi,Texas A&M,RECEIVING,Van,Jefferson,LONG,32
+3318041,11/12/2016,FBS,Mississippi,Texas A&M,RECEIVING,Evan,Engram,REC,6
+3318042,11/12/2016,FBS,Mississippi,Texas A&M,RECEIVING,Evan,Engram,YDS,49
+3318043,11/12/2016,FBS,Mississippi,Texas A&M,RECEIVING,Evan,Engram,TD,0
+3318044,11/12/2016,FBS,Mississippi,Texas A&M,RECEIVING,Evan,Engram,LONG,17
+3318045,11/12/2016,FBS,Mississippi,Texas A&M,RECEIVING,Quincy,Adeboyejo,REC,2
+3318046,11/12/2016,FBS,Mississippi,Texas A&M,RECEIVING,Quincy,Adeboyejo,YDS,37
+3318047,11/12/2016,FBS,Mississippi,Texas A&M,RECEIVING,Quincy,Adeboyejo,TD,0
+3318048,11/12/2016,FBS,Mississippi,Texas A&M,RECEIVING,Quincy,Adeboyejo,LONG,28
+3318049,11/12/2016,FBS,Mississippi,Texas A&M,RECEIVING,Markell,Pack,REC,1
+3318050,11/12/2016,FBS,Mississippi,Texas A&M,RECEIVING,Markell,Pack,YDS,26
+3318051,11/12/2016,FBS,Mississippi,Texas A&M,RECEIVING,Markell,Pack,TD,0
+3318052,11/12/2016,FBS,Mississippi,Texas A&M,RECEIVING,Markell,Pack,LONG,26
+3318053,11/12/2016,FBS,Mississippi,Texas A&M,RECEIVING,DaMarkus,Lodge,REC,1
+3318054,11/12/2016,FBS,Mississippi,Texas A&M,RECEIVING,DaMarkus,Lodge,YDS,15
+3318055,11/12/2016,FBS,Mississippi,Texas A&M,RECEIVING,DaMarkus,Lodge,TD,0
+3318056,11/12/2016,FBS,Mississippi,Texas A&M,RECEIVING,DaMarkus,Lodge,LONG,15
+3318057,11/12/2016,FBS,Mississippi,Texas A&M,RECEIVING,Akeem,Judd,REC,2
+3318058,11/12/2016,FBS,Mississippi,Texas A&M,RECEIVING,Akeem,Judd,YDS,9
+3318059,11/12/2016,FBS,Mississippi,Texas A&M,RECEIVING,Akeem,Judd,TD,0
+3318060,11/12/2016,FBS,Mississippi,Texas A&M,RECEIVING,Akeem,Judd,LONG,7
+3318061,11/12/2016,FBS,Mississippi,Texas A&M,KICKING,Gary,Wunderlich,FG-FGA,3/3
+3318062,11/12/2016,FBS,Mississippi,Texas A&M,KICKING,Gary,Wunderlich,LONG,39
+3318063,11/12/2016,FBS,Mississippi,Texas A&M,KICKING,Gary,Wunderlich,XP,2
+3318064,11/12/2016,FBS,Mississippi,Texas A&M,KICKING,Gary,Wunderlich,PTS,11
+3318065,11/12/2016,FBS,Mississippi,Texas A&M,PUNTING,Gary,Wunderlich,NO,4
+3318066,11/12/2016,FBS,Mississippi,Texas A&M,PUNTING,Gary,Wunderlich,YDS,162
+3318067,11/12/2016,FBS,Mississippi,Texas A&M,PUNTING,Gary,Wunderlich,AVG,40.5
+3318068,11/12/2016,FBS,Mississippi,Texas A&M,PUNTING,Gary,Wunderlich,LONG,47
+3318069,11/12/2016,FBS,Mississippi,Texas A&M,PUNTING,Will,Gleeson,NO,1
+3318070,11/12/2016,FBS,Mississippi,Texas A&M,PUNTING,Will,Gleeson,YDS,38
+3318071,11/12/2016,FBS,Mississippi,Texas A&M,PUNTING,Will,Gleeson,AVG,38.0
+3318072,11/12/2016,FBS,Mississippi,Texas A&M,PUNTING,Will,Gleeson,LONG,38
+3318073,11/12/2016,FBS,Mississippi,Texas A&M,PUNT RETURNS,Van,Jefferson,NO,1
+3318074,11/12/2016,FBS,Mississippi,Texas A&M,PUNT RETURNS,Van,Jefferson,YDS,-2
+3318075,11/12/2016,FBS,Mississippi,Texas A&M,PUNT RETURNS,Van,Jefferson,AVG,-
+3318076,11/12/2016,FBS,Mississippi,Texas A&M,PUNT RETURNS,Van,Jefferson,LONG,0
+3318077,11/12/2016,FBS,Texas A&M,Mississippi,RUSHING,Trayveon,Williams,ATT,17
+3318078,11/12/2016,FBS,Texas A&M,Mississippi,RUSHING,Trayveon,Williams,YDS,72
+3318079,11/12/2016,FBS,Texas A&M,Mississippi,RUSHING,Trayveon,Williams,TD,0
+3318080,11/12/2016,FBS,Texas A&M,Mississippi,RUSHING,Trayveon,Williams,LONG,14
+3318081,11/12/2016,FBS,Texas A&M,Mississippi,RUSHING,Jake,Hubenak,ATT,9
+3318082,11/12/2016,FBS,Texas A&M,Mississippi,RUSHING,Jake,Hubenak,YDS,30
+3318083,11/12/2016,FBS,Texas A&M,Mississippi,RUSHING,Jake,Hubenak,TD,0
+3318084,11/12/2016,FBS,Texas A&M,Mississippi,RUSHING,Jake,Hubenak,LONG,22
+3318085,11/12/2016,FBS,Texas A&M,Mississippi,RUSHING,Keith,Ford,ATT,8
+3318086,11/12/2016,FBS,Texas A&M,Mississippi,RUSHING,Keith,Ford,YDS,27
+3318087,11/12/2016,FBS,Texas A&M,Mississippi,RUSHING,Keith,Ford,TD,2
+3318088,11/12/2016,FBS,Texas A&M,Mississippi,RUSHING,Keith,Ford,LONG,6
+3318089,11/12/2016,FBS,Texas A&M,Mississippi,PASSING,Jake,Hubenak,CP-ATT-INT,16-27-1
+3318090,11/12/2016,FBS,Texas A&M,Mississippi,PASSING,Jake,Hubenak,YDS,213
+3318091,11/12/2016,FBS,Texas A&M,Mississippi,PASSING,Jake,Hubenak,TD,2
+3318092,11/12/2016,FBS,Texas A&M,Mississippi,PASSING,Jake,Hubenak,LONG,69
+3318093,11/12/2016,FBS,Texas A&M,Mississippi,PASSING,Christian,Kirk,CP-ATT-INT,0-1-0
+3318094,11/12/2016,FBS,Texas A&M,Mississippi,PASSING,Christian,Kirk,YDS,0
+3318095,11/12/2016,FBS,Texas A&M,Mississippi,PASSING,Christian,Kirk,TD,0
+3318096,11/12/2016,FBS,Texas A&M,Mississippi,PASSING,Christian,Kirk,LONG,0
+3318097,11/12/2016,FBS,Texas A&M,Mississippi,RECEIVING,Josh,Reynolds,REC,4
+3318098,11/12/2016,FBS,Texas A&M,Mississippi,RECEIVING,Josh,Reynolds,YDS,70
+3318099,11/12/2016,FBS,Texas A&M,Mississippi,RECEIVING,Josh,Reynolds,TD,1
+3318100,11/12/2016,FBS,Texas A&M,Mississippi,RECEIVING,Josh,Reynolds,LONG,44
+3318101,11/12/2016,FBS,Texas A&M,Mississippi,RECEIVING,Christian,Kirk,REC,3
+3318102,11/12/2016,FBS,Texas A&M,Mississippi,RECEIVING,Christian,Kirk,YDS,69
+3318103,11/12/2016,FBS,Texas A&M,Mississippi,RECEIVING,Christian,Kirk,TD,0
+3318104,11/12/2016,FBS,Texas A&M,Mississippi,RECEIVING,Christian,Kirk,LONG,69
+3318105,11/12/2016,FBS,Texas A&M,Mississippi,RECEIVING,Speedy,Noil,REC,4
+3318106,11/12/2016,FBS,Texas A&M,Mississippi,RECEIVING,Speedy,Noil,YDS,59
+3318107,11/12/2016,FBS,Texas A&M,Mississippi,RECEIVING,Speedy,Noil,TD,1
+3318108,11/12/2016,FBS,Texas A&M,Mississippi,RECEIVING,Speedy,Noil,LONG,27
+3318109,11/12/2016,FBS,Texas A&M,Mississippi,RECEIVING,Jamal,Jeffery,REC,1
+3318110,11/12/2016,FBS,Texas A&M,Mississippi,RECEIVING,Jamal,Jeffery,YDS,12
+3318111,11/12/2016,FBS,Texas A&M,Mississippi,RECEIVING,Jamal,Jeffery,TD,0
+3318112,11/12/2016,FBS,Texas A&M,Mississippi,RECEIVING,Jamal,Jeffery,LONG,12
+3318113,11/12/2016,FBS,Texas A&M,Mississippi,RECEIVING,Ricky,Seals-Jones,REC,1
+3318114,11/12/2016,FBS,Texas A&M,Mississippi,RECEIVING,Ricky,Seals-Jones,YDS,4
+3318115,11/12/2016,FBS,Texas A&M,Mississippi,RECEIVING,Ricky,Seals-Jones,TD,0
+3318116,11/12/2016,FBS,Texas A&M,Mississippi,RECEIVING,Ricky,Seals-Jones,LONG,4
+3318117,11/12/2016,FBS,Texas A&M,Mississippi,RECEIVING,Trayveon,Williams,REC,3
+3318118,11/12/2016,FBS,Texas A&M,Mississippi,RECEIVING,Trayveon,Williams,YDS,-1
+3318119,11/12/2016,FBS,Texas A&M,Mississippi,RECEIVING,Trayveon,Williams,TD,0
+3318120,11/12/2016,FBS,Texas A&M,Mississippi,RECEIVING,Trayveon,Williams,LONG,10
+3318121,11/12/2016,FBS,Texas A&M,Mississippi,KICKING,Daniel,LaCamera,FG-FGA,0/0
+3318122,11/12/2016,FBS,Texas A&M,Mississippi,KICKING,Daniel,LaCamera,LONG,-
+3318123,11/12/2016,FBS,Texas A&M,Mississippi,KICKING,Daniel,LaCamera,XP,4
+3318124,11/12/2016,FBS,Texas A&M,Mississippi,KICKING,Daniel,LaCamera,PTS,4
+3318125,11/12/2016,FBS,Texas A&M,Mississippi,PUNTING,Shane,Tripucka,NO,6
+3318126,11/12/2016,FBS,Texas A&M,Mississippi,PUNTING,Shane,Tripucka,YDS,287
+3318127,11/12/2016,FBS,Texas A&M,Mississippi,PUNTING,Shane,Tripucka,AVG,47.8
+3318128,11/12/2016,FBS,Texas A&M,Mississippi,PUNTING,Shane,Tripucka,LONG,50
+3318129,11/12/2016,FBS,Texas A&M,Mississippi,PUNT RETURNS,Christian,Kirk,NO,1
+3318130,11/12/2016,FBS,Texas A&M,Mississippi,PUNT RETURNS,Christian,Kirk,YDS,5
+3318131,11/12/2016,FBS,Texas A&M,Mississippi,PUNT RETURNS,Christian,Kirk,AVG,5.0
+3318132,11/12/2016,FBS,Texas A&M,Mississippi,PUNT RETURNS,Christian,Kirk,LONG,5
+3318133,11/12/2016,FBS,Texas A&M,Mississippi,KICK RETURNS,Justin,Evans,NO,1
+3318134,11/12/2016,FBS,Texas A&M,Mississippi,KICK RETURNS,Justin,Evans,YDS,90
+3318135,11/12/2016,FBS,Texas A&M,Mississippi,KICK RETURNS,Justin,Evans,AVG,90.0
+3318136,11/12/2016,FBS,Texas A&M,Mississippi,KICK RETURNS,Justin,Evans,LONG,90
+3318137,11/12/2016,FBS,Texas A&M,Mississippi,KICK RETURNS,Trayveon,Williams,NO,4
+3318138,11/12/2016,FBS,Texas A&M,Mississippi,KICK RETURNS,Trayveon,Williams,YDS,74
+3318139,11/12/2016,FBS,Texas A&M,Mississippi,KICK RETURNS,Trayveon,Williams,AVG,18.5
+3318140,11/12/2016,FBS,Texas A&M,Mississippi,KICK RETURNS,Trayveon,Williams,LONG,24

@@ -1,0 +1,129 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3079001,10/15/2016,FBS,Florida Atlantic,Marshall,RUSHING,Devin,Singletary,ATT,13
+3079002,10/15/2016,FBS,Florida Atlantic,Marshall,RUSHING,Devin,Singletary,YDS,111
+3079003,10/15/2016,FBS,Florida Atlantic,Marshall,RUSHING,Devin,Singletary,TD,1
+3079004,10/15/2016,FBS,Florida Atlantic,Marshall,RUSHING,Devin,Singletary,LONG,48
+3079005,10/15/2016,FBS,Florida Atlantic,Marshall,RUSHING,Greg,HowellJr.,ATT,20
+3079006,10/15/2016,FBS,Florida Atlantic,Marshall,RUSHING,Greg,HowellJr.,YDS,109
+3079007,10/15/2016,FBS,Florida Atlantic,Marshall,RUSHING,Greg,HowellJr.,TD,1
+3079008,10/15/2016,FBS,Florida Atlantic,Marshall,RUSHING,Greg,HowellJr.,LONG,17
+3079009,10/15/2016,FBS,Florida Atlantic,Marshall,RUSHING,Jason,Driskel,ATT,8
+3079010,10/15/2016,FBS,Florida Atlantic,Marshall,RUSHING,Jason,Driskel,YDS,57
+3079011,10/15/2016,FBS,Florida Atlantic,Marshall,RUSHING,Jason,Driskel,TD,1
+3079012,10/15/2016,FBS,Florida Atlantic,Marshall,RUSHING,Jason,Driskel,LONG,18
+3079013,10/15/2016,FBS,Florida Atlantic,Marshall,RUSHING,Daniel,Parr,ATT,2
+3079014,10/15/2016,FBS,Florida Atlantic,Marshall,RUSHING,Daniel,Parr,YDS,4
+3079015,10/15/2016,FBS,Florida Atlantic,Marshall,RUSHING,Daniel,Parr,TD,0
+3079016,10/15/2016,FBS,Florida Atlantic,Marshall,RUSHING,Daniel,Parr,LONG,7
+3079017,10/15/2016,FBS,Florida Atlantic,Marshall,RUSHING,Kerrith,Whyte,ATT,2
+3079018,10/15/2016,FBS,Florida Atlantic,Marshall,RUSHING,Kerrith,Whyte,YDS,0
+3079019,10/15/2016,FBS,Florida Atlantic,Marshall,RUSHING,Kerrith,Whyte,TD,0
+3079020,10/15/2016,FBS,Florida Atlantic,Marshall,RUSHING,Kerrith,Whyte,LONG,3
+3079021,10/15/2016,FBS,Florida Atlantic,Marshall,PASSING,Jason,Driskel,CP-ATT-INT,9-17-1
+3079022,10/15/2016,FBS,Florida Atlantic,Marshall,PASSING,Jason,Driskel,YDS,151
+3079023,10/15/2016,FBS,Florida Atlantic,Marshall,PASSING,Jason,Driskel,TD,0
+3079024,10/15/2016,FBS,Florida Atlantic,Marshall,PASSING,Jason,Driskel,LONG,36
+3079025,10/15/2016,FBS,Florida Atlantic,Marshall,PASSING,Daniel,Parr,CP-ATT-INT,2-3-0
+3079026,10/15/2016,FBS,Florida Atlantic,Marshall,PASSING,Daniel,Parr,YDS,24
+3079027,10/15/2016,FBS,Florida Atlantic,Marshall,PASSING,Daniel,Parr,TD,0
+3079028,10/15/2016,FBS,Florida Atlantic,Marshall,PASSING,Daniel,Parr,LONG,18
+3079029,10/15/2016,FBS,Florida Atlantic,Marshall,RECEIVING,Kalib,Woods,REC,5
+3079030,10/15/2016,FBS,Florida Atlantic,Marshall,RECEIVING,Kalib,Woods,YDS,100
+3079031,10/15/2016,FBS,Florida Atlantic,Marshall,RECEIVING,Kalib,Woods,TD,0
+3079032,10/15/2016,FBS,Florida Atlantic,Marshall,RECEIVING,Kalib,Woods,LONG,36
+3079033,10/15/2016,FBS,Florida Atlantic,Marshall,RECEIVING,Devin,Singletary,REC,3
+3079034,10/15/2016,FBS,Florida Atlantic,Marshall,RECEIVING,Devin,Singletary,YDS,44
+3079035,10/15/2016,FBS,Florida Atlantic,Marshall,RECEIVING,Devin,Singletary,TD,0
+3079036,10/15/2016,FBS,Florida Atlantic,Marshall,RECEIVING,Devin,Singletary,LONG,26
+3079037,10/15/2016,FBS,Florida Atlantic,Marshall,RECEIVING,Harrison,Bryant,REC,2
+3079038,10/15/2016,FBS,Florida Atlantic,Marshall,RECEIVING,Harrison,Bryant,YDS,27
+3079039,10/15/2016,FBS,Florida Atlantic,Marshall,RECEIVING,Harrison,Bryant,TD,0
+3079040,10/15/2016,FBS,Florida Atlantic,Marshall,RECEIVING,Harrison,Bryant,LONG,20
+3079041,10/15/2016,FBS,Florida Atlantic,Marshall,RECEIVING,Tavaris,Harrison,REC,1
+3079042,10/15/2016,FBS,Florida Atlantic,Marshall,RECEIVING,Tavaris,Harrison,YDS,4
+3079043,10/15/2016,FBS,Florida Atlantic,Marshall,RECEIVING,Tavaris,Harrison,TD,0
+3079044,10/15/2016,FBS,Florida Atlantic,Marshall,RECEIVING,Tavaris,Harrison,LONG,4
+3079045,10/15/2016,FBS,Florida Atlantic,Marshall,KICKING,Greg,Joseph,FG-FGA,0/0
+3079046,10/15/2016,FBS,Florida Atlantic,Marshall,KICKING,Greg,Joseph,LONG,-
+3079047,10/15/2016,FBS,Florida Atlantic,Marshall,KICKING,Greg,Joseph,XP,3
+3079048,10/15/2016,FBS,Florida Atlantic,Marshall,KICKING,Greg,Joseph,PTS,3
+3079049,10/15/2016,FBS,Florida Atlantic,Marshall,PUNTING,Dalton,Schomp,NO,4
+3079050,10/15/2016,FBS,Florida Atlantic,Marshall,PUNTING,Dalton,Schomp,YDS,178
+3079051,10/15/2016,FBS,Florida Atlantic,Marshall,PUNTING,Dalton,Schomp,AVG,44.5
+3079052,10/15/2016,FBS,Florida Atlantic,Marshall,PUNTING,Dalton,Schomp,LONG,48
+3079053,10/15/2016,FBS,Florida Atlantic,Marshall,PUNT RETURNS,Jalen,Young,NO,1
+3079054,10/15/2016,FBS,Florida Atlantic,Marshall,PUNT RETURNS,Jalen,Young,YDS,12
+3079055,10/15/2016,FBS,Florida Atlantic,Marshall,PUNT RETURNS,Jalen,Young,AVG,12.0
+3079056,10/15/2016,FBS,Florida Atlantic,Marshall,PUNT RETURNS,Jalen,Young,LONG,12
+3079057,10/15/2016,FBS,Florida Atlantic,Marshall,KICK RETURNS,Kerrith,Whyte,NO,1
+3079058,10/15/2016,FBS,Florida Atlantic,Marshall,KICK RETURNS,Kerrith,Whyte,YDS,11
+3079059,10/15/2016,FBS,Florida Atlantic,Marshall,KICK RETURNS,Kerrith,Whyte,AVG,11.0
+3079060,10/15/2016,FBS,Florida Atlantic,Marshall,KICK RETURNS,Kerrith,Whyte,LONG,11
+3079061,10/15/2016,FBS,Marshall,Florida Atlantic,RUSHING,Keion,Davis,ATT,22
+3079062,10/15/2016,FBS,Marshall,Florida Atlantic,RUSHING,Keion,Davis,YDS,74
+3079063,10/15/2016,FBS,Marshall,Florida Atlantic,RUSHING,Keion,Davis,TD,2
+3079064,10/15/2016,FBS,Marshall,Florida Atlantic,RUSHING,Keion,Davis,LONG,30
+3079065,10/15/2016,FBS,Marshall,Florida Atlantic,RUSHING,Hyleck,Foster,ATT,12
+3079066,10/15/2016,FBS,Marshall,Florida Atlantic,RUSHING,Hyleck,Foster,YDS,45
+3079067,10/15/2016,FBS,Marshall,Florida Atlantic,RUSHING,Hyleck,Foster,TD,0
+3079068,10/15/2016,FBS,Marshall,Florida Atlantic,RUSHING,Hyleck,Foster,LONG,12
+3079069,10/15/2016,FBS,Marshall,Florida Atlantic,RUSHING,Chase,Litton,ATT,4
+3079070,10/15/2016,FBS,Marshall,Florida Atlantic,RUSHING,Chase,Litton,YDS,-6
+3079071,10/15/2016,FBS,Marshall,Florida Atlantic,RUSHING,Chase,Litton,TD,0
+3079072,10/15/2016,FBS,Marshall,Florida Atlantic,RUSHING,Chase,Litton,LONG,4
+3079073,10/15/2016,FBS,Marshall,Florida Atlantic,RUSHING,,Team,ATT,4
+3079074,10/15/2016,FBS,Marshall,Florida Atlantic,RUSHING,,Team,YDS,-7
+3079075,10/15/2016,FBS,Marshall,Florida Atlantic,RUSHING,,Team,TD,0
+3079076,10/15/2016,FBS,Marshall,Florida Atlantic,RUSHING,,Team,LONG,-1
+3079077,10/15/2016,FBS,Marshall,Florida Atlantic,PASSING,Chase,Litton,CP-ATT-INT,27-39-1
+3079078,10/15/2016,FBS,Marshall,Florida Atlantic,PASSING,Chase,Litton,YDS,330
+3079079,10/15/2016,FBS,Marshall,Florida Atlantic,PASSING,Chase,Litton,TD,1
+3079080,10/15/2016,FBS,Marshall,Florida Atlantic,PASSING,Chase,Litton,LONG,65
+3079081,10/15/2016,FBS,Marshall,Florida Atlantic,RECEIVING,Josh,Knight,REC,9
+3079082,10/15/2016,FBS,Marshall,Florida Atlantic,RECEIVING,Josh,Knight,YDS,128
+3079083,10/15/2016,FBS,Marshall,Florida Atlantic,RECEIVING,Josh,Knight,TD,1
+3079084,10/15/2016,FBS,Marshall,Florida Atlantic,RECEIVING,Josh,Knight,LONG,65
+3079085,10/15/2016,FBS,Marshall,Florida Atlantic,RECEIVING,Emanuel,Byrd,REC,5
+3079086,10/15/2016,FBS,Marshall,Florida Atlantic,RECEIVING,Emanuel,Byrd,YDS,52
+3079087,10/15/2016,FBS,Marshall,Florida Atlantic,RECEIVING,Emanuel,Byrd,TD,0
+3079088,10/15/2016,FBS,Marshall,Florida Atlantic,RECEIVING,Emanuel,Byrd,LONG,14
+3079089,10/15/2016,FBS,Marshall,Florida Atlantic,RECEIVING,Ryan,Yurachek,REC,4
+3079090,10/15/2016,FBS,Marshall,Florida Atlantic,RECEIVING,Ryan,Yurachek,YDS,49
+3079091,10/15/2016,FBS,Marshall,Florida Atlantic,RECEIVING,Ryan,Yurachek,TD,0
+3079092,10/15/2016,FBS,Marshall,Florida Atlantic,RECEIVING,Ryan,Yurachek,LONG,25
+3079093,10/15/2016,FBS,Marshall,Florida Atlantic,RECEIVING,Michael,Clark,REC,3
+3079094,10/15/2016,FBS,Marshall,Florida Atlantic,RECEIVING,Michael,Clark,YDS,47
+3079095,10/15/2016,FBS,Marshall,Florida Atlantic,RECEIVING,Michael,Clark,TD,0
+3079096,10/15/2016,FBS,Marshall,Florida Atlantic,RECEIVING,Michael,Clark,LONG,25
+3079097,10/15/2016,FBS,Marshall,Florida Atlantic,RECEIVING,Justin,Hunt,REC,1
+3079098,10/15/2016,FBS,Marshall,Florida Atlantic,RECEIVING,Justin,Hunt,YDS,29
+3079099,10/15/2016,FBS,Marshall,Florida Atlantic,RECEIVING,Justin,Hunt,TD,0
+3079100,10/15/2016,FBS,Marshall,Florida Atlantic,RECEIVING,Justin,Hunt,LONG,29
+3079101,10/15/2016,FBS,Marshall,Florida Atlantic,RECEIVING,Nick,Mathews,REC,1
+3079102,10/15/2016,FBS,Marshall,Florida Atlantic,RECEIVING,Nick,Mathews,YDS,18
+3079103,10/15/2016,FBS,Marshall,Florida Atlantic,RECEIVING,Nick,Mathews,TD,0
+3079104,10/15/2016,FBS,Marshall,Florida Atlantic,RECEIVING,Nick,Mathews,LONG,18
+3079105,10/15/2016,FBS,Marshall,Florida Atlantic,RECEIVING,Donquell,Green,REC,2
+3079106,10/15/2016,FBS,Marshall,Florida Atlantic,RECEIVING,Donquell,Green,YDS,14
+3079107,10/15/2016,FBS,Marshall,Florida Atlantic,RECEIVING,Donquell,Green,TD,0
+3079108,10/15/2016,FBS,Marshall,Florida Atlantic,RECEIVING,Donquell,Green,LONG,8
+3079109,10/15/2016,FBS,Marshall,Florida Atlantic,RECEIVING,Keion,Davis,REC,2
+3079110,10/15/2016,FBS,Marshall,Florida Atlantic,RECEIVING,Keion,Davis,YDS,-7
+3079111,10/15/2016,FBS,Marshall,Florida Atlantic,RECEIVING,Keion,Davis,TD,0
+3079112,10/15/2016,FBS,Marshall,Florida Atlantic,RECEIVING,Keion,Davis,LONG,-3
+3079113,10/15/2016,FBS,Marshall,Florida Atlantic,KICKING,Amoreto,Curraj,FG-FGA,2/2
+3079114,10/15/2016,FBS,Marshall,Florida Atlantic,KICKING,Amoreto,Curraj,LONG,39
+3079115,10/15/2016,FBS,Marshall,Florida Atlantic,KICKING,Amoreto,Curraj,XP,1
+3079116,10/15/2016,FBS,Marshall,Florida Atlantic,KICKING,Amoreto,Curraj,PTS,7
+3079117,10/15/2016,FBS,Marshall,Florida Atlantic,PUNTING,Kaare,Vedvik,NO,2
+3079118,10/15/2016,FBS,Marshall,Florida Atlantic,PUNTING,Kaare,Vedvik,YDS,104
+3079119,10/15/2016,FBS,Marshall,Florida Atlantic,PUNTING,Kaare,Vedvik,AVG,52.0
+3079120,10/15/2016,FBS,Marshall,Florida Atlantic,PUNTING,Kaare,Vedvik,LONG,55
+3079121,10/15/2016,FBS,Marshall,Florida Atlantic,PUNT RETURNS,Hyleck,Foster,NO,2
+3079122,10/15/2016,FBS,Marshall,Florida Atlantic,PUNT RETURNS,Hyleck,Foster,YDS,22
+3079123,10/15/2016,FBS,Marshall,Florida Atlantic,PUNT RETURNS,Hyleck,Foster,AVG,11.0
+3079124,10/15/2016,FBS,Marshall,Florida Atlantic,PUNT RETURNS,Hyleck,Foster,LONG,18
+3079125,10/15/2016,FBS,Marshall,Florida Atlantic,KICK RETURNS,Keion,Davis,NO,2
+3079126,10/15/2016,FBS,Marshall,Florida Atlantic,KICK RETURNS,Keion,Davis,YDS,42
+3079127,10/15/2016,FBS,Marshall,Florida Atlantic,KICK RETURNS,Keion,Davis,AVG,21.0
+3079128,10/15/2016,FBS,Marshall,Florida Atlantic,KICK RETURNS,Keion,Davis,LONG,23

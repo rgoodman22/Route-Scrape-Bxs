@@ -1,0 +1,141 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3741001,9/23/2017,FBS,Rutgers,Nebraska,RUSHING,Gus,Edwards,ATT,15
+3741002,9/23/2017,FBS,Rutgers,Nebraska,RUSHING,Gus,Edwards,YDS,58
+3741003,9/23/2017,FBS,Rutgers,Nebraska,RUSHING,Gus,Edwards,TD,1
+3741004,9/23/2017,FBS,Rutgers,Nebraska,RUSHING,Gus,Edwards,LONG,13
+3741005,9/23/2017,FBS,Rutgers,Nebraska,RUSHING,Robert,Martin,ATT,5
+3741006,9/23/2017,FBS,Rutgers,Nebraska,RUSHING,Robert,Martin,YDS,14
+3741007,9/23/2017,FBS,Rutgers,Nebraska,RUSHING,Robert,Martin,TD,0
+3741008,9/23/2017,FBS,Rutgers,Nebraska,RUSHING,Robert,Martin,LONG,6
+3741009,9/23/2017,FBS,Rutgers,Nebraska,RUSHING,Kyle,Bolin,ATT,1
+3741010,9/23/2017,FBS,Rutgers,Nebraska,RUSHING,Kyle,Bolin,YDS,11
+3741011,9/23/2017,FBS,Rutgers,Nebraska,RUSHING,Kyle,Bolin,TD,0
+3741012,9/23/2017,FBS,Rutgers,Nebraska,RUSHING,Kyle,Bolin,LONG,11
+3741013,9/23/2017,FBS,Rutgers,Nebraska,RUSHING,Johnathan,Lewis,ATT,1
+3741014,9/23/2017,FBS,Rutgers,Nebraska,RUSHING,Johnathan,Lewis,YDS,2
+3741015,9/23/2017,FBS,Rutgers,Nebraska,RUSHING,Johnathan,Lewis,TD,0
+3741016,9/23/2017,FBS,Rutgers,Nebraska,RUSHING,Johnathan,Lewis,LONG,2
+3741017,9/23/2017,FBS,Rutgers,Nebraska,RUSHING,Raheem,Blackshear,ATT,1
+3741018,9/23/2017,FBS,Rutgers,Nebraska,RUSHING,Raheem,Blackshear,YDS,1
+3741019,9/23/2017,FBS,Rutgers,Nebraska,RUSHING,Raheem,Blackshear,TD,0
+3741020,9/23/2017,FBS,Rutgers,Nebraska,RUSHING,Raheem,Blackshear,LONG,1
+3741021,9/23/2017,FBS,Rutgers,Nebraska,RUSHING,,Team,ATT,1
+3741022,9/23/2017,FBS,Rutgers,Nebraska,RUSHING,,Team,YDS,-18
+3741023,9/23/2017,FBS,Rutgers,Nebraska,RUSHING,,Team,TD,0
+3741024,9/23/2017,FBS,Rutgers,Nebraska,RUSHING,,Team,LONG,-18
+3741025,9/23/2017,FBS,Rutgers,Nebraska,PASSING,Kyle,Bolin,CP-ATT-INT,15-29-2
+3741026,9/23/2017,FBS,Rutgers,Nebraska,PASSING,Kyle,Bolin,YDS,126
+3741027,9/23/2017,FBS,Rutgers,Nebraska,PASSING,Kyle,Bolin,TD,0
+3741028,9/23/2017,FBS,Rutgers,Nebraska,PASSING,Kyle,Bolin,LONG,19
+3741029,9/23/2017,FBS,Rutgers,Nebraska,RECEIVING,Dacoven,Bailey,REC,3
+3741030,9/23/2017,FBS,Rutgers,Nebraska,RECEIVING,Dacoven,Bailey,YDS,38
+3741031,9/23/2017,FBS,Rutgers,Nebraska,RECEIVING,Dacoven,Bailey,TD,0
+3741032,9/23/2017,FBS,Rutgers,Nebraska,RECEIVING,Dacoven,Bailey,LONG,19
+3741033,9/23/2017,FBS,Rutgers,Nebraska,RECEIVING,Hunter,Hayek,REC,3
+3741034,9/23/2017,FBS,Rutgers,Nebraska,RECEIVING,Hunter,Hayek,YDS,32
+3741035,9/23/2017,FBS,Rutgers,Nebraska,RECEIVING,Hunter,Hayek,TD,0
+3741036,9/23/2017,FBS,Rutgers,Nebraska,RECEIVING,Hunter,Hayek,LONG,19
+3741037,9/23/2017,FBS,Rutgers,Nebraska,RECEIVING,Jerome,Washington,REC,3
+3741038,9/23/2017,FBS,Rutgers,Nebraska,RECEIVING,Jerome,Washington,YDS,27
+3741039,9/23/2017,FBS,Rutgers,Nebraska,RECEIVING,Jerome,Washington,TD,0
+3741040,9/23/2017,FBS,Rutgers,Nebraska,RECEIVING,Jerome,Washington,LONG,11
+3741041,9/23/2017,FBS,Rutgers,Nebraska,RECEIVING,Damon,Mitchell,REC,1
+3741042,9/23/2017,FBS,Rutgers,Nebraska,RECEIVING,Damon,Mitchell,YDS,16
+3741043,9/23/2017,FBS,Rutgers,Nebraska,RECEIVING,Damon,Mitchell,TD,0
+3741044,9/23/2017,FBS,Rutgers,Nebraska,RECEIVING,Damon,Mitchell,LONG,16
+3741045,9/23/2017,FBS,Rutgers,Nebraska,RECEIVING,Nakia,Griffin-Stewart,REC,1
+3741046,9/23/2017,FBS,Rutgers,Nebraska,RECEIVING,Nakia,Griffin-Stewart,YDS,12
+3741047,9/23/2017,FBS,Rutgers,Nebraska,RECEIVING,Nakia,Griffin-Stewart,TD,0
+3741048,9/23/2017,FBS,Rutgers,Nebraska,RECEIVING,Nakia,Griffin-Stewart,LONG,12
+3741049,9/23/2017,FBS,Rutgers,Nebraska,RECEIVING,Jawuan,Harris,REC,1
+3741050,9/23/2017,FBS,Rutgers,Nebraska,RECEIVING,Jawuan,Harris,YDS,4
+3741051,9/23/2017,FBS,Rutgers,Nebraska,RECEIVING,Jawuan,Harris,TD,0
+3741052,9/23/2017,FBS,Rutgers,Nebraska,RECEIVING,Jawuan,Harris,LONG,4
+3741053,9/23/2017,FBS,Rutgers,Nebraska,RECEIVING,Gus,Edwards,REC,1
+3741054,9/23/2017,FBS,Rutgers,Nebraska,RECEIVING,Gus,Edwards,YDS,2
+3741055,9/23/2017,FBS,Rutgers,Nebraska,RECEIVING,Gus,Edwards,TD,0
+3741056,9/23/2017,FBS,Rutgers,Nebraska,RECEIVING,Gus,Edwards,LONG,2
+3741057,9/23/2017,FBS,Rutgers,Nebraska,RECEIVING,Robert,Martin,REC,2
+3741058,9/23/2017,FBS,Rutgers,Nebraska,RECEIVING,Robert,Martin,YDS,-5
+3741059,9/23/2017,FBS,Rutgers,Nebraska,RECEIVING,Robert,Martin,TD,0
+3741060,9/23/2017,FBS,Rutgers,Nebraska,RECEIVING,Robert,Martin,LONG,-2
+3741061,9/23/2017,FBS,Rutgers,Nebraska,KICKING,Andrew,Harte,FG-FGA,1/1
+3741062,9/23/2017,FBS,Rutgers,Nebraska,KICKING,Andrew,Harte,LONG,33
+3741063,9/23/2017,FBS,Rutgers,Nebraska,KICKING,Andrew,Harte,XP,2
+3741064,9/23/2017,FBS,Rutgers,Nebraska,KICKING,Andrew,Harte,PTS,5
+3741065,9/23/2017,FBS,Rutgers,Nebraska,PUNTING,Ryan,Anderson,NO,6
+3741066,9/23/2017,FBS,Rutgers,Nebraska,PUNTING,Ryan,Anderson,YDS,274
+3741067,9/23/2017,FBS,Rutgers,Nebraska,PUNTING,Ryan,Anderson,AVG,45.7
+3741068,9/23/2017,FBS,Rutgers,Nebraska,PUNTING,Ryan,Anderson,LONG,60
+3741069,9/23/2017,FBS,Rutgers,Nebraska,PUNT RETURNS,Hunter,Hayek,NO,0
+3741070,9/23/2017,FBS,Rutgers,Nebraska,PUNT RETURNS,Hunter,Hayek,YDS,0
+3741071,9/23/2017,FBS,Rutgers,Nebraska,PUNT RETURNS,Hunter,Hayek,AVG,-
+3741072,9/23/2017,FBS,Rutgers,Nebraska,PUNT RETURNS,Hunter,Hayek,LONG,0
+3741073,9/23/2017,FBS,Rutgers,Nebraska,KICK RETURNS,Josh,Hicks,NO,1
+3741074,9/23/2017,FBS,Rutgers,Nebraska,KICK RETURNS,Josh,Hicks,YDS,27
+3741075,9/23/2017,FBS,Rutgers,Nebraska,KICK RETURNS,Josh,Hicks,AVG,27.0
+3741076,9/23/2017,FBS,Rutgers,Nebraska,KICK RETURNS,Josh,Hicks,LONG,27
+3741077,9/23/2017,FBS,Rutgers,Nebraska,KICK RETURNS,Raheem,Blackshear,NO,1
+3741078,9/23/2017,FBS,Rutgers,Nebraska,KICK RETURNS,Raheem,Blackshear,YDS,14
+3741079,9/23/2017,FBS,Rutgers,Nebraska,KICK RETURNS,Raheem,Blackshear,AVG,14.0
+3741080,9/23/2017,FBS,Rutgers,Nebraska,KICK RETURNS,Raheem,Blackshear,LONG,14
+3741081,9/23/2017,FBS,Nebraska,Rutgers,RUSHING,Devine,Ozigbo,ATT,24
+3741082,9/23/2017,FBS,Nebraska,Rutgers,RUSHING,Devine,Ozigbo,YDS,101
+3741083,9/23/2017,FBS,Nebraska,Rutgers,RUSHING,Devine,Ozigbo,TD,0
+3741084,9/23/2017,FBS,Nebraska,Rutgers,RUSHING,Devine,Ozigbo,LONG,20
+3741085,9/23/2017,FBS,Nebraska,Rutgers,RUSHING,Mikale,Wilbon,ATT,14
+3741086,9/23/2017,FBS,Nebraska,Rutgers,RUSHING,Mikale,Wilbon,YDS,78
+3741087,9/23/2017,FBS,Nebraska,Rutgers,RUSHING,Mikale,Wilbon,TD,1
+3741088,9/23/2017,FBS,Nebraska,Rutgers,RUSHING,Mikale,Wilbon,LONG,15
+3741089,9/23/2017,FBS,Nebraska,Rutgers,RUSHING,Jaylin,Bradley,ATT,6
+3741090,9/23/2017,FBS,Nebraska,Rutgers,RUSHING,Jaylin,Bradley,YDS,16
+3741091,9/23/2017,FBS,Nebraska,Rutgers,RUSHING,Jaylin,Bradley,TD,0
+3741092,9/23/2017,FBS,Nebraska,Rutgers,RUSHING,Jaylin,Bradley,LONG,8
+3741093,9/23/2017,FBS,Nebraska,Rutgers,RUSHING,JD,Spielman,ATT,1
+3741094,9/23/2017,FBS,Nebraska,Rutgers,RUSHING,JD,Spielman,YDS,6
+3741095,9/23/2017,FBS,Nebraska,Rutgers,RUSHING,JD,Spielman,TD,0
+3741096,9/23/2017,FBS,Nebraska,Rutgers,RUSHING,JD,Spielman,LONG,6
+3741097,9/23/2017,FBS,Nebraska,Rutgers,RUSHING,,Team,ATT,2
+3741098,9/23/2017,FBS,Nebraska,Rutgers,RUSHING,,Team,YDS,-4
+3741099,9/23/2017,FBS,Nebraska,Rutgers,RUSHING,,Team,TD,0
+3741100,9/23/2017,FBS,Nebraska,Rutgers,RUSHING,,Team,LONG,-2
+3741101,9/23/2017,FBS,Nebraska,Rutgers,PASSING,Tanner,Lee,CP-ATT-INT,13-26-2
+3741102,9/23/2017,FBS,Nebraska,Rutgers,PASSING,Tanner,Lee,YDS,109
+3741103,9/23/2017,FBS,Nebraska,Rutgers,PASSING,Tanner,Lee,TD,2
+3741104,9/23/2017,FBS,Nebraska,Rutgers,PASSING,Tanner,Lee,LONG,18
+3741105,9/23/2017,FBS,Nebraska,Rutgers,RECEIVING,JD,Spielman,REC,5
+3741106,9/23/2017,FBS,Nebraska,Rutgers,RECEIVING,JD,Spielman,YDS,46
+3741107,9/23/2017,FBS,Nebraska,Rutgers,RECEIVING,JD,Spielman,TD,1
+3741108,9/23/2017,FBS,Nebraska,Rutgers,RECEIVING,JD,Spielman,LONG,18
+3741109,9/23/2017,FBS,Nebraska,Rutgers,RECEIVING,Gabe,Rahn,REC,2
+3741110,9/23/2017,FBS,Nebraska,Rutgers,RECEIVING,Gabe,Rahn,YDS,27
+3741111,9/23/2017,FBS,Nebraska,Rutgers,RECEIVING,Gabe,Rahn,TD,0
+3741112,9/23/2017,FBS,Nebraska,Rutgers,RECEIVING,Gabe,Rahn,LONG,17
+3741113,9/23/2017,FBS,Nebraska,Rutgers,RECEIVING,De'Mornay,Pierson-El,REC,3
+3741114,9/23/2017,FBS,Nebraska,Rutgers,RECEIVING,De'Mornay,Pierson-El,YDS,22
+3741115,9/23/2017,FBS,Nebraska,Rutgers,RECEIVING,De'Mornay,Pierson-El,TD,1
+3741116,9/23/2017,FBS,Nebraska,Rutgers,RECEIVING,De'Mornay,Pierson-El,LONG,10
+3741117,9/23/2017,FBS,Nebraska,Rutgers,RECEIVING,Tyler,Hoppes,REC,2
+3741118,9/23/2017,FBS,Nebraska,Rutgers,RECEIVING,Tyler,Hoppes,YDS,16
+3741119,9/23/2017,FBS,Nebraska,Rutgers,RECEIVING,Tyler,Hoppes,TD,0
+3741120,9/23/2017,FBS,Nebraska,Rutgers,RECEIVING,Tyler,Hoppes,LONG,9
+3741121,9/23/2017,FBS,Nebraska,Rutgers,RECEIVING,Mikale,Wilbon,REC,1
+3741122,9/23/2017,FBS,Nebraska,Rutgers,RECEIVING,Mikale,Wilbon,YDS,-2
+3741123,9/23/2017,FBS,Nebraska,Rutgers,RECEIVING,Mikale,Wilbon,TD,0
+3741124,9/23/2017,FBS,Nebraska,Rutgers,RECEIVING,Mikale,Wilbon,LONG,0
+3741125,9/23/2017,FBS,Nebraska,Rutgers,KICKING,Drew,Brown,FG-FGA,2/2
+3741126,9/23/2017,FBS,Nebraska,Rutgers,KICKING,Drew,Brown,LONG,32
+3741127,9/23/2017,FBS,Nebraska,Rutgers,KICKING,Drew,Brown,XP,3
+3741128,9/23/2017,FBS,Nebraska,Rutgers,KICKING,Drew,Brown,PTS,9
+3741129,9/23/2017,FBS,Nebraska,Rutgers,PUNTING,Caleb,Lightbourn,NO,5
+3741130,9/23/2017,FBS,Nebraska,Rutgers,PUNTING,Caleb,Lightbourn,YDS,194
+3741131,9/23/2017,FBS,Nebraska,Rutgers,PUNTING,Caleb,Lightbourn,AVG,38.8
+3741132,9/23/2017,FBS,Nebraska,Rutgers,PUNTING,Caleb,Lightbourn,LONG,64
+3741133,9/23/2017,FBS,Nebraska,Rutgers,PUNT RETURNS,De'Mornay,Pierson-El,NO,3
+3741134,9/23/2017,FBS,Nebraska,Rutgers,PUNT RETURNS,De'Mornay,Pierson-El,YDS,56
+3741135,9/23/2017,FBS,Nebraska,Rutgers,PUNT RETURNS,De'Mornay,Pierson-El,AVG,18.7
+3741136,9/23/2017,FBS,Nebraska,Rutgers,PUNT RETURNS,De'Mornay,Pierson-El,LONG,63
+3741137,9/23/2017,FBS,Nebraska,Rutgers,KICK RETURNS,JD,Spielman,NO,2
+3741138,9/23/2017,FBS,Nebraska,Rutgers,KICK RETURNS,JD,Spielman,YDS,49
+3741139,9/23/2017,FBS,Nebraska,Rutgers,KICK RETURNS,JD,Spielman,AVG,24.5
+3741140,9/23/2017,FBS,Nebraska,Rutgers,KICK RETURNS,JD,Spielman,LONG,25

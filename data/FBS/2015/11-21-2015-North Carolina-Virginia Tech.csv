@@ -1,0 +1,133 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2489001,11/21/2015,FBS,North Carolina,Virginia Tech,RUSHING,Elijah,Hood,ATT,17
+2489002,11/21/2015,FBS,North Carolina,Virginia Tech,RUSHING,Elijah,Hood,YDS,115
+2489003,11/21/2015,FBS,North Carolina,Virginia Tech,RUSHING,Elijah,Hood,TD,2
+2489004,11/21/2015,FBS,North Carolina,Virginia Tech,RUSHING,Elijah,Hood,LONG,31
+2489005,11/21/2015,FBS,North Carolina,Virginia Tech,RUSHING,Marquise,Williams,ATT,18
+2489006,11/21/2015,FBS,North Carolina,Virginia Tech,RUSHING,Marquise,Williams,YDS,74
+2489007,11/21/2015,FBS,North Carolina,Virginia Tech,RUSHING,Marquise,Williams,TD,1
+2489008,11/21/2015,FBS,North Carolina,Virginia Tech,RUSHING,Marquise,Williams,LONG,19
+2489009,11/21/2015,FBS,North Carolina,Virginia Tech,RUSHING,T.J.,Logan,ATT,10
+2489010,11/21/2015,FBS,North Carolina,Virginia Tech,RUSHING,T.J.,Logan,YDS,55
+2489011,11/21/2015,FBS,North Carolina,Virginia Tech,RUSHING,T.J.,Logan,TD,0
+2489012,11/21/2015,FBS,North Carolina,Virginia Tech,RUSHING,T.J.,Logan,LONG,21
+2489013,11/21/2015,FBS,North Carolina,Virginia Tech,RUSHING,Ryan,Switzer,ATT,1
+2489014,11/21/2015,FBS,North Carolina,Virginia Tech,RUSHING,Ryan,Switzer,YDS,1
+2489015,11/21/2015,FBS,North Carolina,Virginia Tech,RUSHING,Ryan,Switzer,TD,0
+2489016,11/21/2015,FBS,North Carolina,Virginia Tech,RUSHING,Ryan,Switzer,LONG,1
+2489017,11/21/2015,FBS,North Carolina,Virginia Tech,RUSHING,,Team,ATT,1
+2489018,11/21/2015,FBS,North Carolina,Virginia Tech,RUSHING,,Team,YDS,-5
+2489019,11/21/2015,FBS,North Carolina,Virginia Tech,RUSHING,,Team,TD,0
+2489020,11/21/2015,FBS,North Carolina,Virginia Tech,RUSHING,,Team,LONG,-5
+2489021,11/21/2015,FBS,North Carolina,Virginia Tech,PASSING,Marquise,Williams,CP-ATT-INT,13-26-0
+2489022,11/21/2015,FBS,North Carolina,Virginia Tech,PASSING,Marquise,Williams,YDS,205
+2489023,11/21/2015,FBS,North Carolina,Virginia Tech,PASSING,Marquise,Williams,TD,1
+2489024,11/21/2015,FBS,North Carolina,Virginia Tech,PASSING,Marquise,Williams,LONG,32
+2489025,11/21/2015,FBS,North Carolina,Virginia Tech,RECEIVING,Brandon,Fritts,REC,3
+2489026,11/21/2015,FBS,North Carolina,Virginia Tech,RECEIVING,Brandon,Fritts,YDS,63
+2489027,11/21/2015,FBS,North Carolina,Virginia Tech,RECEIVING,Brandon,Fritts,TD,0
+2489028,11/21/2015,FBS,North Carolina,Virginia Tech,RECEIVING,Brandon,Fritts,LONG,32
+2489029,11/21/2015,FBS,North Carolina,Virginia Tech,RECEIVING,Ryan,Switzer,REC,4
+2489030,11/21/2015,FBS,North Carolina,Virginia Tech,RECEIVING,Ryan,Switzer,YDS,46
+2489031,11/21/2015,FBS,North Carolina,Virginia Tech,RECEIVING,Ryan,Switzer,TD,0
+2489032,11/21/2015,FBS,North Carolina,Virginia Tech,RECEIVING,Ryan,Switzer,LONG,18
+2489033,11/21/2015,FBS,North Carolina,Virginia Tech,RECEIVING,Quinshad,Davis,REC,3
+2489034,11/21/2015,FBS,North Carolina,Virginia Tech,RECEIVING,Quinshad,Davis,YDS,42
+2489035,11/21/2015,FBS,North Carolina,Virginia Tech,RECEIVING,Quinshad,Davis,TD,1
+2489036,11/21/2015,FBS,North Carolina,Virginia Tech,RECEIVING,Quinshad,Davis,LONG,21
+2489037,11/21/2015,FBS,North Carolina,Virginia Tech,RECEIVING,Austin,Proehl,REC,1
+2489038,11/21/2015,FBS,North Carolina,Virginia Tech,RECEIVING,Austin,Proehl,YDS,32
+2489039,11/21/2015,FBS,North Carolina,Virginia Tech,RECEIVING,Austin,Proehl,TD,0
+2489040,11/21/2015,FBS,North Carolina,Virginia Tech,RECEIVING,Austin,Proehl,LONG,32
+2489041,11/21/2015,FBS,North Carolina,Virginia Tech,RECEIVING,Mack,Hollins,REC,1
+2489042,11/21/2015,FBS,North Carolina,Virginia Tech,RECEIVING,Mack,Hollins,YDS,20
+2489043,11/21/2015,FBS,North Carolina,Virginia Tech,RECEIVING,Mack,Hollins,TD,0
+2489044,11/21/2015,FBS,North Carolina,Virginia Tech,RECEIVING,Mack,Hollins,LONG,20
+2489045,11/21/2015,FBS,North Carolina,Virginia Tech,RECEIVING,T.J.,Logan,REC,1
+2489046,11/21/2015,FBS,North Carolina,Virginia Tech,RECEIVING,T.J.,Logan,YDS,2
+2489047,11/21/2015,FBS,North Carolina,Virginia Tech,RECEIVING,T.J.,Logan,TD,0
+2489048,11/21/2015,FBS,North Carolina,Virginia Tech,RECEIVING,T.J.,Logan,LONG,2
+2489049,11/21/2015,FBS,North Carolina,Virginia Tech,KICKING,Nick,Weiler,FG-FGA,1/1
+2489050,11/21/2015,FBS,North Carolina,Virginia Tech,KICKING,Nick,Weiler,LONG,20
+2489051,11/21/2015,FBS,North Carolina,Virginia Tech,KICKING,Nick,Weiler,XP,3
+2489052,11/21/2015,FBS,North Carolina,Virginia Tech,KICKING,Nick,Weiler,PTS,6
+2489053,11/21/2015,FBS,North Carolina,Virginia Tech,PUNTING,Joey,Mangili,NO,8
+2489054,11/21/2015,FBS,North Carolina,Virginia Tech,PUNTING,Joey,Mangili,YDS,321
+2489055,11/21/2015,FBS,North Carolina,Virginia Tech,PUNTING,Joey,Mangili,AVG,40.1
+2489056,11/21/2015,FBS,North Carolina,Virginia Tech,PUNTING,Joey,Mangili,LONG,48
+2489057,11/21/2015,FBS,North Carolina,Virginia Tech,PUNT RETURNS,Bug,Howard,NO,1
+2489058,11/21/2015,FBS,North Carolina,Virginia Tech,PUNT RETURNS,Bug,Howard,YDS,1
+2489059,11/21/2015,FBS,North Carolina,Virginia Tech,PUNT RETURNS,Bug,Howard,AVG,1.0
+2489060,11/21/2015,FBS,North Carolina,Virginia Tech,PUNT RETURNS,Bug,Howard,LONG,0
+2489061,11/21/2015,FBS,North Carolina,Virginia Tech,PUNT RETURNS,Ryan,Switzer,NO,3
+2489062,11/21/2015,FBS,North Carolina,Virginia Tech,PUNT RETURNS,Ryan,Switzer,YDS,-5
+2489063,11/21/2015,FBS,North Carolina,Virginia Tech,PUNT RETURNS,Ryan,Switzer,AVG,-
+2489064,11/21/2015,FBS,North Carolina,Virginia Tech,PUNT RETURNS,Ryan,Switzer,LONG,1
+2489065,11/21/2015,FBS,Virginia Tech,North Carolina,RUSHING,Travon,McMillian,ATT,21
+2489066,11/21/2015,FBS,Virginia Tech,North Carolina,RUSHING,Travon,McMillian,YDS,80
+2489067,11/21/2015,FBS,Virginia Tech,North Carolina,RUSHING,Travon,McMillian,TD,0
+2489068,11/21/2015,FBS,Virginia Tech,North Carolina,RUSHING,Travon,McMillian,LONG,10
+2489069,11/21/2015,FBS,Virginia Tech,North Carolina,RUSHING,Sam,Rogers,ATT,12
+2489070,11/21/2015,FBS,Virginia Tech,North Carolina,RUSHING,Sam,Rogers,YDS,52
+2489071,11/21/2015,FBS,Virginia Tech,North Carolina,RUSHING,Sam,Rogers,TD,0
+2489072,11/21/2015,FBS,Virginia Tech,North Carolina,RUSHING,Sam,Rogers,LONG,18
+2489073,11/21/2015,FBS,Virginia Tech,North Carolina,RUSHING,J.C.,Coleman,ATT,2
+2489074,11/21/2015,FBS,Virginia Tech,North Carolina,RUSHING,J.C.,Coleman,YDS,10
+2489075,11/21/2015,FBS,Virginia Tech,North Carolina,RUSHING,J.C.,Coleman,TD,0
+2489076,11/21/2015,FBS,Virginia Tech,North Carolina,RUSHING,J.C.,Coleman,LONG,8
+2489077,11/21/2015,FBS,Virginia Tech,North Carolina,RUSHING,,Team,ATT,1
+2489078,11/21/2015,FBS,Virginia Tech,North Carolina,RUSHING,,Team,YDS,-1
+2489079,11/21/2015,FBS,Virginia Tech,North Carolina,RUSHING,,Team,TD,0
+2489080,11/21/2015,FBS,Virginia Tech,North Carolina,RUSHING,,Team,LONG,-1
+2489081,11/21/2015,FBS,Virginia Tech,North Carolina,RUSHING,Michael,Brewer,ATT,11
+2489082,11/21/2015,FBS,Virginia Tech,North Carolina,RUSHING,Michael,Brewer,YDS,-11
+2489083,11/21/2015,FBS,Virginia Tech,North Carolina,RUSHING,Michael,Brewer,TD,1
+2489084,11/21/2015,FBS,Virginia Tech,North Carolina,RUSHING,Michael,Brewer,LONG,4
+2489085,11/21/2015,FBS,Virginia Tech,North Carolina,PASSING,Michael,Brewer,CP-ATT-INT,20-35-2
+2489086,11/21/2015,FBS,Virginia Tech,North Carolina,PASSING,Michael,Brewer,YDS,273
+2489087,11/21/2015,FBS,Virginia Tech,North Carolina,PASSING,Michael,Brewer,TD,2
+2489088,11/21/2015,FBS,Virginia Tech,North Carolina,PASSING,Michael,Brewer,LONG,44
+2489089,11/21/2015,FBS,Virginia Tech,North Carolina,RECEIVING,Isaiah,Ford,REC,8
+2489090,11/21/2015,FBS,Virginia Tech,North Carolina,RECEIVING,Isaiah,Ford,YDS,155
+2489091,11/21/2015,FBS,Virginia Tech,North Carolina,RECEIVING,Isaiah,Ford,TD,1
+2489092,11/21/2015,FBS,Virginia Tech,North Carolina,RECEIVING,Isaiah,Ford,LONG,44
+2489093,11/21/2015,FBS,Virginia Tech,North Carolina,RECEIVING,Bucky,Hodges,REC,6
+2489094,11/21/2015,FBS,Virginia Tech,North Carolina,RECEIVING,Bucky,Hodges,YDS,44
+2489095,11/21/2015,FBS,Virginia Tech,North Carolina,RECEIVING,Bucky,Hodges,TD,1
+2489096,11/21/2015,FBS,Virginia Tech,North Carolina,RECEIVING,Bucky,Hodges,LONG,10
+2489097,11/21/2015,FBS,Virginia Tech,North Carolina,RECEIVING,Sam,Rogers,REC,2
+2489098,11/21/2015,FBS,Virginia Tech,North Carolina,RECEIVING,Sam,Rogers,YDS,36
+2489099,11/21/2015,FBS,Virginia Tech,North Carolina,RECEIVING,Sam,Rogers,TD,0
+2489100,11/21/2015,FBS,Virginia Tech,North Carolina,RECEIVING,Sam,Rogers,LONG,25
+2489101,11/21/2015,FBS,Virginia Tech,North Carolina,RECEIVING,Cam,Phillips,REC,3
+2489102,11/21/2015,FBS,Virginia Tech,North Carolina,RECEIVING,Cam,Phillips,YDS,31
+2489103,11/21/2015,FBS,Virginia Tech,North Carolina,RECEIVING,Cam,Phillips,TD,0
+2489104,11/21/2015,FBS,Virginia Tech,North Carolina,RECEIVING,Cam,Phillips,LONG,12
+2489105,11/21/2015,FBS,Virginia Tech,North Carolina,RECEIVING,Ryan,Malleck,REC,1
+2489106,11/21/2015,FBS,Virginia Tech,North Carolina,RECEIVING,Ryan,Malleck,YDS,7
+2489107,11/21/2015,FBS,Virginia Tech,North Carolina,RECEIVING,Ryan,Malleck,TD,0
+2489108,11/21/2015,FBS,Virginia Tech,North Carolina,RECEIVING,Ryan,Malleck,LONG,7
+2489109,11/21/2015,FBS,Virginia Tech,North Carolina,KICKING,Joey,Slye,FG-FGA,2/3
+2489110,11/21/2015,FBS,Virginia Tech,North Carolina,KICKING,Joey,Slye,LONG,41
+2489111,11/21/2015,FBS,Virginia Tech,North Carolina,KICKING,Joey,Slye,XP,3
+2489112,11/21/2015,FBS,Virginia Tech,North Carolina,KICKING,Joey,Slye,PTS,9
+2489113,11/21/2015,FBS,Virginia Tech,North Carolina,PUNTING,A.J.,Hughes,NO,5
+2489114,11/21/2015,FBS,Virginia Tech,North Carolina,PUNTING,A.J.,Hughes,YDS,204
+2489115,11/21/2015,FBS,Virginia Tech,North Carolina,PUNTING,A.J.,Hughes,AVG,34.0
+2489116,11/21/2015,FBS,Virginia Tech,North Carolina,PUNTING,A.J.,Hughes,LONG,47
+2489117,11/21/2015,FBS,Virginia Tech,North Carolina,PUNT RETURNS,Greg,Stroman,NO,2
+2489118,11/21/2015,FBS,Virginia Tech,North Carolina,PUNT RETURNS,Greg,Stroman,YDS,24
+2489119,11/21/2015,FBS,Virginia Tech,North Carolina,PUNT RETURNS,Greg,Stroman,AVG,12.0
+2489120,11/21/2015,FBS,Virginia Tech,North Carolina,PUNT RETURNS,Greg,Stroman,LONG,27
+2489121,11/21/2015,FBS,Virginia Tech,North Carolina,PUNT RETURNS,Cam,Phillips,NO,0
+2489122,11/21/2015,FBS,Virginia Tech,North Carolina,PUNT RETURNS,Cam,Phillips,YDS,0
+2489123,11/21/2015,FBS,Virginia Tech,North Carolina,PUNT RETURNS,Cam,Phillips,AVG,-
+2489124,11/21/2015,FBS,Virginia Tech,North Carolina,PUNT RETURNS,Cam,Phillips,LONG,0
+2489125,11/21/2015,FBS,Virginia Tech,North Carolina,KICK RETURNS,J.C.,Coleman,NO,2
+2489126,11/21/2015,FBS,Virginia Tech,North Carolina,KICK RETURNS,J.C.,Coleman,YDS,46
+2489127,11/21/2015,FBS,Virginia Tech,North Carolina,KICK RETURNS,J.C.,Coleman,AVG,23.0
+2489128,11/21/2015,FBS,Virginia Tech,North Carolina,KICK RETURNS,J.C.,Coleman,LONG,25
+2489129,11/21/2015,FBS,Virginia Tech,North Carolina,KICK RETURNS,Der'Woun,Greene,NO,2
+2489130,11/21/2015,FBS,Virginia Tech,North Carolina,KICK RETURNS,Der'Woun,Greene,YDS,35
+2489131,11/21/2015,FBS,Virginia Tech,North Carolina,KICK RETURNS,Der'Woun,Greene,AVG,17.5
+2489132,11/21/2015,FBS,Virginia Tech,North Carolina,KICK RETURNS,Der'Woun,Greene,LONG,19

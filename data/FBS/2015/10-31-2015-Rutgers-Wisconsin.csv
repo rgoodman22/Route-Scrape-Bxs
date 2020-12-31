@@ -1,0 +1,153 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2307001,10/31/2015,FBS,Rutgers,Wisconsin,RUSHING,Josh,Hicks,ATT,15
+2307002,10/31/2015,FBS,Rutgers,Wisconsin,RUSHING,Josh,Hicks,YDS,72
+2307003,10/31/2015,FBS,Rutgers,Wisconsin,RUSHING,Josh,Hicks,TD,0
+2307004,10/31/2015,FBS,Rutgers,Wisconsin,RUSHING,Josh,Hicks,LONG,22
+2307005,10/31/2015,FBS,Rutgers,Wisconsin,RUSHING,Robert,Martin,ATT,9
+2307006,10/31/2015,FBS,Rutgers,Wisconsin,RUSHING,Robert,Martin,YDS,21
+2307007,10/31/2015,FBS,Rutgers,Wisconsin,RUSHING,Robert,Martin,TD,0
+2307008,10/31/2015,FBS,Rutgers,Wisconsin,RUSHING,Robert,Martin,LONG,5
+2307009,10/31/2015,FBS,Rutgers,Wisconsin,RUSHING,Paul,James,ATT,6
+2307010,10/31/2015,FBS,Rutgers,Wisconsin,RUSHING,Paul,James,YDS,16
+2307011,10/31/2015,FBS,Rutgers,Wisconsin,RUSHING,Paul,James,TD,0
+2307012,10/31/2015,FBS,Rutgers,Wisconsin,RUSHING,Paul,James,LONG,6
+2307013,10/31/2015,FBS,Rutgers,Wisconsin,RUSHING,Justin,Goodwin,ATT,1
+2307014,10/31/2015,FBS,Rutgers,Wisconsin,RUSHING,Justin,Goodwin,YDS,6
+2307015,10/31/2015,FBS,Rutgers,Wisconsin,RUSHING,Justin,Goodwin,TD,0
+2307016,10/31/2015,FBS,Rutgers,Wisconsin,RUSHING,Justin,Goodwin,LONG,6
+2307017,10/31/2015,FBS,Rutgers,Wisconsin,RUSHING,Hayden,Rettig,ATT,2
+2307018,10/31/2015,FBS,Rutgers,Wisconsin,RUSHING,Hayden,Rettig,YDS,-12
+2307019,10/31/2015,FBS,Rutgers,Wisconsin,RUSHING,Hayden,Rettig,TD,0
+2307020,10/31/2015,FBS,Rutgers,Wisconsin,RUSHING,Hayden,Rettig,LONG,-2
+2307021,10/31/2015,FBS,Rutgers,Wisconsin,RUSHING,Chris,Laviano,ATT,5
+2307022,10/31/2015,FBS,Rutgers,Wisconsin,RUSHING,Chris,Laviano,YDS,-20
+2307023,10/31/2015,FBS,Rutgers,Wisconsin,RUSHING,Chris,Laviano,TD,0
+2307024,10/31/2015,FBS,Rutgers,Wisconsin,RUSHING,Chris,Laviano,LONG,3
+2307025,10/31/2015,FBS,Rutgers,Wisconsin,PASSING,Hayden,Rettig,CP-ATT-INT,2-6-0
+2307026,10/31/2015,FBS,Rutgers,Wisconsin,PASSING,Hayden,Rettig,YDS,51
+2307027,10/31/2015,FBS,Rutgers,Wisconsin,PASSING,Hayden,Rettig,TD,0
+2307028,10/31/2015,FBS,Rutgers,Wisconsin,PASSING,Hayden,Rettig,LONG,49
+2307029,10/31/2015,FBS,Rutgers,Wisconsin,PASSING,Chris,Laviano,CP-ATT-INT,4-14-1
+2307030,10/31/2015,FBS,Rutgers,Wisconsin,PASSING,Chris,Laviano,YDS,31
+2307031,10/31/2015,FBS,Rutgers,Wisconsin,PASSING,Chris,Laviano,TD,0
+2307032,10/31/2015,FBS,Rutgers,Wisconsin,PASSING,Chris,Laviano,LONG,10
+2307033,10/31/2015,FBS,Rutgers,Wisconsin,RECEIVING,Carlton,Agudosi,REC,1
+2307034,10/31/2015,FBS,Rutgers,Wisconsin,RECEIVING,Carlton,Agudosi,YDS,49
+2307035,10/31/2015,FBS,Rutgers,Wisconsin,RECEIVING,Carlton,Agudosi,TD,0
+2307036,10/31/2015,FBS,Rutgers,Wisconsin,RECEIVING,Carlton,Agudosi,LONG,49
+2307037,10/31/2015,FBS,Rutgers,Wisconsin,RECEIVING,Andre,Patton,REC,2
+2307038,10/31/2015,FBS,Rutgers,Wisconsin,RECEIVING,Andre,Patton,YDS,20
+2307039,10/31/2015,FBS,Rutgers,Wisconsin,RECEIVING,Andre,Patton,TD,0
+2307040,10/31/2015,FBS,Rutgers,Wisconsin,RECEIVING,Andre,Patton,LONG,10
+2307041,10/31/2015,FBS,Rutgers,Wisconsin,RECEIVING,Janarion,Grant,REC,2
+2307042,10/31/2015,FBS,Rutgers,Wisconsin,RECEIVING,Janarion,Grant,YDS,11
+2307043,10/31/2015,FBS,Rutgers,Wisconsin,RECEIVING,Janarion,Grant,TD,0
+2307044,10/31/2015,FBS,Rutgers,Wisconsin,RECEIVING,Janarion,Grant,LONG,6
+2307045,10/31/2015,FBS,Rutgers,Wisconsin,RECEIVING,Paul,James,REC,1
+2307046,10/31/2015,FBS,Rutgers,Wisconsin,RECEIVING,Paul,James,YDS,2
+2307047,10/31/2015,FBS,Rutgers,Wisconsin,RECEIVING,Paul,James,TD,0
+2307048,10/31/2015,FBS,Rutgers,Wisconsin,RECEIVING,Paul,James,LONG,2
+2307049,10/31/2015,FBS,Rutgers,Wisconsin,KICKING,Kyle,Federico,FG-FGA,1/2
+2307050,10/31/2015,FBS,Rutgers,Wisconsin,KICKING,Kyle,Federico,LONG,21
+2307051,10/31/2015,FBS,Rutgers,Wisconsin,KICKING,Kyle,Federico,XP,1
+2307052,10/31/2015,FBS,Rutgers,Wisconsin,KICKING,Kyle,Federico,PTS,4
+2307053,10/31/2015,FBS,Rutgers,Wisconsin,PUNTING,Joey,Roth,NO,6
+2307054,10/31/2015,FBS,Rutgers,Wisconsin,PUNTING,Joey,Roth,YDS,211
+2307055,10/31/2015,FBS,Rutgers,Wisconsin,PUNTING,Joey,Roth,AVG,35.2
+2307056,10/31/2015,FBS,Rutgers,Wisconsin,PUNTING,Joey,Roth,LONG,45
+2307057,10/31/2015,FBS,Rutgers,Wisconsin,PUNTING,Michael,Cintron,NO,3
+2307058,10/31/2015,FBS,Rutgers,Wisconsin,PUNTING,Michael,Cintron,YDS,153
+2307059,10/31/2015,FBS,Rutgers,Wisconsin,PUNTING,Michael,Cintron,AVG,51.0
+2307060,10/31/2015,FBS,Rutgers,Wisconsin,PUNTING,Michael,Cintron,LONG,57
+2307061,10/31/2015,FBS,Rutgers,Wisconsin,PUNT RETURNS,Janarion,Grant,NO,1
+2307062,10/31/2015,FBS,Rutgers,Wisconsin,PUNT RETURNS,Janarion,Grant,YDS,4
+2307063,10/31/2015,FBS,Rutgers,Wisconsin,PUNT RETURNS,Janarion,Grant,AVG,4.0
+2307064,10/31/2015,FBS,Rutgers,Wisconsin,PUNT RETURNS,Janarion,Grant,LONG,4
+2307065,10/31/2015,FBS,Rutgers,Wisconsin,KICK RETURNS,Janarion,Grant,NO,5
+2307066,10/31/2015,FBS,Rutgers,Wisconsin,KICK RETURNS,Janarion,Grant,YDS,102
+2307067,10/31/2015,FBS,Rutgers,Wisconsin,KICK RETURNS,Janarion,Grant,AVG,20.4
+2307068,10/31/2015,FBS,Rutgers,Wisconsin,KICK RETURNS,Janarion,Grant,LONG,42
+2307069,10/31/2015,FBS,Rutgers,Wisconsin,KICK RETURNS,Justin,Goodwin,NO,2
+2307070,10/31/2015,FBS,Rutgers,Wisconsin,KICK RETURNS,Justin,Goodwin,YDS,24
+2307071,10/31/2015,FBS,Rutgers,Wisconsin,KICK RETURNS,Justin,Goodwin,AVG,12.0
+2307072,10/31/2015,FBS,Rutgers,Wisconsin,KICK RETURNS,Justin,Goodwin,LONG,13
+2307073,10/31/2015,FBS,Wisconsin,Rutgers,RUSHING,Corey,Clement,ATT,11
+2307074,10/31/2015,FBS,Wisconsin,Rutgers,RUSHING,Corey,Clement,YDS,115
+2307075,10/31/2015,FBS,Wisconsin,Rutgers,RUSHING,Corey,Clement,TD,3
+2307076,10/31/2015,FBS,Wisconsin,Rutgers,RUSHING,Corey,Clement,LONG,58
+2307077,10/31/2015,FBS,Wisconsin,Rutgers,RUSHING,Dare,Ogunbowale,ATT,14
+2307078,10/31/2015,FBS,Wisconsin,Rutgers,RUSHING,Dare,Ogunbowale,YDS,41
+2307079,10/31/2015,FBS,Wisconsin,Rutgers,RUSHING,Dare,Ogunbowale,TD,1
+2307080,10/31/2015,FBS,Wisconsin,Rutgers,RUSHING,Dare,Ogunbowale,LONG,24
+2307081,10/31/2015,FBS,Wisconsin,Rutgers,RUSHING,Tanner,McEvoy,ATT,2
+2307082,10/31/2015,FBS,Wisconsin,Rutgers,RUSHING,Tanner,McEvoy,YDS,29
+2307083,10/31/2015,FBS,Wisconsin,Rutgers,RUSHING,Tanner,McEvoy,TD,1
+2307084,10/31/2015,FBS,Wisconsin,Rutgers,RUSHING,Tanner,McEvoy,LONG,20
+2307085,10/31/2015,FBS,Wisconsin,Rutgers,RUSHING,Alec,Ingold,ATT,6
+2307086,10/31/2015,FBS,Wisconsin,Rutgers,RUSHING,Alec,Ingold,YDS,9
+2307087,10/31/2015,FBS,Wisconsin,Rutgers,RUSHING,Alec,Ingold,TD,0
+2307088,10/31/2015,FBS,Wisconsin,Rutgers,RUSHING,Alec,Ingold,LONG,6
+2307089,10/31/2015,FBS,Wisconsin,Rutgers,RUSHING,Serge,Trezy,ATT,4
+2307090,10/31/2015,FBS,Wisconsin,Rutgers,RUSHING,Serge,Trezy,YDS,9
+2307091,10/31/2015,FBS,Wisconsin,Rutgers,RUSHING,Serge,Trezy,TD,0
+2307092,10/31/2015,FBS,Wisconsin,Rutgers,RUSHING,Serge,Trezy,LONG,4
+2307093,10/31/2015,FBS,Wisconsin,Rutgers,RUSHING,Reggie,Love,ATT,1
+2307094,10/31/2015,FBS,Wisconsin,Rutgers,RUSHING,Reggie,Love,YDS,6
+2307095,10/31/2015,FBS,Wisconsin,Rutgers,RUSHING,Reggie,Love,TD,0
+2307096,10/31/2015,FBS,Wisconsin,Rutgers,RUSHING,Reggie,Love,LONG,6
+2307097,10/31/2015,FBS,Wisconsin,Rutgers,PASSING,Joel,Stave,CP-ATT-INT,13-25-2
+2307098,10/31/2015,FBS,Wisconsin,Rutgers,PASSING,Joel,Stave,YDS,217
+2307099,10/31/2015,FBS,Wisconsin,Rutgers,PASSING,Joel,Stave,TD,1
+2307100,10/31/2015,FBS,Wisconsin,Rutgers,PASSING,Joel,Stave,LONG,31
+2307101,10/31/2015,FBS,Wisconsin,Rutgers,PASSING,Bart,Houston,CP-ATT-INT,0-2-0
+2307102,10/31/2015,FBS,Wisconsin,Rutgers,PASSING,Bart,Houston,YDS,0
+2307103,10/31/2015,FBS,Wisconsin,Rutgers,PASSING,Bart,Houston,TD,0
+2307104,10/31/2015,FBS,Wisconsin,Rutgers,PASSING,Bart,Houston,LONG,0
+2307105,10/31/2015,FBS,Wisconsin,Rutgers,PASSING,,Team,CP-ATT-INT,0-1-0
+2307106,10/31/2015,FBS,Wisconsin,Rutgers,PASSING,,Team,YDS,0
+2307107,10/31/2015,FBS,Wisconsin,Rutgers,PASSING,,Team,TD,0
+2307108,10/31/2015,FBS,Wisconsin,Rutgers,PASSING,,Team,LONG,0
+2307109,10/31/2015,FBS,Wisconsin,Rutgers,RECEIVING,Alex,Erickson,REC,6
+2307110,10/31/2015,FBS,Wisconsin,Rutgers,RECEIVING,Alex,Erickson,YDS,103
+2307111,10/31/2015,FBS,Wisconsin,Rutgers,RECEIVING,Alex,Erickson,TD,1
+2307112,10/31/2015,FBS,Wisconsin,Rutgers,RECEIVING,Alex,Erickson,LONG,31
+2307113,10/31/2015,FBS,Wisconsin,Rutgers,RECEIVING,Troy,Fumagalli,REC,3
+2307114,10/31/2015,FBS,Wisconsin,Rutgers,RECEIVING,Troy,Fumagalli,YDS,55
+2307115,10/31/2015,FBS,Wisconsin,Rutgers,RECEIVING,Troy,Fumagalli,TD,0
+2307116,10/31/2015,FBS,Wisconsin,Rutgers,RECEIVING,Troy,Fumagalli,LONG,31
+2307117,10/31/2015,FBS,Wisconsin,Rutgers,RECEIVING,Dare,Ogunbowale,REC,2
+2307118,10/31/2015,FBS,Wisconsin,Rutgers,RECEIVING,Dare,Ogunbowale,YDS,26
+2307119,10/31/2015,FBS,Wisconsin,Rutgers,RECEIVING,Dare,Ogunbowale,TD,0
+2307120,10/31/2015,FBS,Wisconsin,Rutgers,RECEIVING,Dare,Ogunbowale,LONG,16
+2307121,10/31/2015,FBS,Wisconsin,Rutgers,RECEIVING,Jordan,Fredrick,REC,1
+2307122,10/31/2015,FBS,Wisconsin,Rutgers,RECEIVING,Jordan,Fredrick,YDS,19
+2307123,10/31/2015,FBS,Wisconsin,Rutgers,RECEIVING,Jordan,Fredrick,TD,0
+2307124,10/31/2015,FBS,Wisconsin,Rutgers,RECEIVING,Jordan,Fredrick,LONG,19
+2307125,10/31/2015,FBS,Wisconsin,Rutgers,RECEIVING,Reggie,Love,REC,1
+2307126,10/31/2015,FBS,Wisconsin,Rutgers,RECEIVING,Reggie,Love,YDS,14
+2307127,10/31/2015,FBS,Wisconsin,Rutgers,RECEIVING,Reggie,Love,TD,0
+2307128,10/31/2015,FBS,Wisconsin,Rutgers,RECEIVING,Reggie,Love,LONG,14
+2307129,10/31/2015,FBS,Wisconsin,Rutgers,KICKING,Rafael,Gaglianone,FG-FGA,2/2
+2307130,10/31/2015,FBS,Wisconsin,Rutgers,KICKING,Rafael,Gaglianone,LONG,49
+2307131,10/31/2015,FBS,Wisconsin,Rutgers,KICKING,Rafael,Gaglianone,XP,6
+2307132,10/31/2015,FBS,Wisconsin,Rutgers,KICKING,Rafael,Gaglianone,PTS,12
+2307133,10/31/2015,FBS,Wisconsin,Rutgers,PUNTING,Drew,Meyer,NO,5
+2307134,10/31/2015,FBS,Wisconsin,Rutgers,PUNTING,Drew,Meyer,YDS,194
+2307135,10/31/2015,FBS,Wisconsin,Rutgers,PUNTING,Drew,Meyer,AVG,38.8
+2307136,10/31/2015,FBS,Wisconsin,Rutgers,PUNTING,Drew,Meyer,LONG,49
+2307137,10/31/2015,FBS,Wisconsin,Rutgers,PUNT RETURNS,Alex,Erickson,NO,3
+2307138,10/31/2015,FBS,Wisconsin,Rutgers,PUNT RETURNS,Alex,Erickson,YDS,55
+2307139,10/31/2015,FBS,Wisconsin,Rutgers,PUNT RETURNS,Alex,Erickson,AVG,18.3
+2307140,10/31/2015,FBS,Wisconsin,Rutgers,PUNT RETURNS,Alex,Erickson,LONG,25
+2307141,10/31/2015,FBS,Wisconsin,Rutgers,PUNT RETURNS,Jazz,Peavy,NO,1
+2307142,10/31/2015,FBS,Wisconsin,Rutgers,PUNT RETURNS,Jazz,Peavy,YDS,9
+2307143,10/31/2015,FBS,Wisconsin,Rutgers,PUNT RETURNS,Jazz,Peavy,AVG,9.0
+2307144,10/31/2015,FBS,Wisconsin,Rutgers,PUNT RETURNS,Jazz,Peavy,LONG,9
+2307145,10/31/2015,FBS,Wisconsin,Rutgers,KICK RETURNS,Alec,Ingold,NO,1
+2307146,10/31/2015,FBS,Wisconsin,Rutgers,KICK RETURNS,Alec,Ingold,YDS,10
+2307147,10/31/2015,FBS,Wisconsin,Rutgers,KICK RETURNS,Alec,Ingold,AVG,10.0
+2307148,10/31/2015,FBS,Wisconsin,Rutgers,KICK RETURNS,Alec,Ingold,LONG,10
+2307149,10/31/2015,FBS,Wisconsin,Rutgers,KICK RETURNS,Zander,Neuville,NO,1
+2307150,10/31/2015,FBS,Wisconsin,Rutgers,KICK RETURNS,Zander,Neuville,YDS,3
+2307151,10/31/2015,FBS,Wisconsin,Rutgers,KICK RETURNS,Zander,Neuville,AVG,3.0
+2307152,10/31/2015,FBS,Wisconsin,Rutgers,KICK RETURNS,Zander,Neuville,LONG,3

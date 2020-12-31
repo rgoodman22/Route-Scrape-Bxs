@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2123001,10/10/2015,FBS,Arkansas,Alabama,RUSHING,Alex,Collins,ATT,12
+2123002,10/10/2015,FBS,Arkansas,Alabama,RUSHING,Alex,Collins,YDS,26
+2123003,10/10/2015,FBS,Arkansas,Alabama,RUSHING,Alex,Collins,TD,0
+2123004,10/10/2015,FBS,Arkansas,Alabama,RUSHING,Alex,Collins,LONG,5
+2123005,10/10/2015,FBS,Arkansas,Alabama,RUSHING,Rawleigh,WilliamsIII,ATT,5
+2123006,10/10/2015,FBS,Arkansas,Alabama,RUSHING,Rawleigh,WilliamsIII,YDS,10
+2123007,10/10/2015,FBS,Arkansas,Alabama,RUSHING,Rawleigh,WilliamsIII,TD,0
+2123008,10/10/2015,FBS,Arkansas,Alabama,RUSHING,Rawleigh,WilliamsIII,LONG,4
+2123009,10/10/2015,FBS,Arkansas,Alabama,RUSHING,Brandon,Allen,ATT,7
+2123010,10/10/2015,FBS,Arkansas,Alabama,RUSHING,Brandon,Allen,YDS,6
+2123011,10/10/2015,FBS,Arkansas,Alabama,RUSHING,Brandon,Allen,TD,0
+2123012,10/10/2015,FBS,Arkansas,Alabama,RUSHING,Brandon,Allen,LONG,8
+2123013,10/10/2015,FBS,Arkansas,Alabama,RUSHING,Toby,Baker,ATT,1
+2123014,10/10/2015,FBS,Arkansas,Alabama,RUSHING,Toby,Baker,YDS,2
+2123015,10/10/2015,FBS,Arkansas,Alabama,RUSHING,Toby,Baker,TD,0
+2123016,10/10/2015,FBS,Arkansas,Alabama,RUSHING,Toby,Baker,LONG,2
+2123017,10/10/2015,FBS,Arkansas,Alabama,PASSING,Brandon,Allen,CP-ATT-INT,15-32-1
+2123018,10/10/2015,FBS,Arkansas,Alabama,PASSING,Brandon,Allen,YDS,176
+2123019,10/10/2015,FBS,Arkansas,Alabama,PASSING,Brandon,Allen,TD,2
+2123020,10/10/2015,FBS,Arkansas,Alabama,PASSING,Brandon,Allen,LONG,54
+2123021,10/10/2015,FBS,Arkansas,Alabama,RECEIVING,Dominique,Reed,REC,3
+2123022,10/10/2015,FBS,Arkansas,Alabama,RECEIVING,Dominique,Reed,YDS,77
+2123023,10/10/2015,FBS,Arkansas,Alabama,RECEIVING,Dominique,Reed,TD,1
+2123024,10/10/2015,FBS,Arkansas,Alabama,RECEIVING,Dominique,Reed,LONG,54
+2123025,10/10/2015,FBS,Arkansas,Alabama,RECEIVING,Jeremy,Sprinkle,REC,4
+2123026,10/10/2015,FBS,Arkansas,Alabama,RECEIVING,Jeremy,Sprinkle,YDS,41
+2123027,10/10/2015,FBS,Arkansas,Alabama,RECEIVING,Jeremy,Sprinkle,TD,0
+2123028,10/10/2015,FBS,Arkansas,Alabama,RECEIVING,Jeremy,Sprinkle,LONG,21
+2123029,10/10/2015,FBS,Arkansas,Alabama,RECEIVING,Hunter,Henry,REC,1
+2123030,10/10/2015,FBS,Arkansas,Alabama,RECEIVING,Hunter,Henry,YDS,18
+2123031,10/10/2015,FBS,Arkansas,Alabama,RECEIVING,Hunter,Henry,TD,0
+2123032,10/10/2015,FBS,Arkansas,Alabama,RECEIVING,Hunter,Henry,LONG,18
+2123033,10/10/2015,FBS,Arkansas,Alabama,RECEIVING,Drew,Morgan,REC,4
+2123034,10/10/2015,FBS,Arkansas,Alabama,RECEIVING,Drew,Morgan,YDS,15
+2123035,10/10/2015,FBS,Arkansas,Alabama,RECEIVING,Drew,Morgan,TD,1
+2123036,10/10/2015,FBS,Arkansas,Alabama,RECEIVING,Drew,Morgan,LONG,7
+2123037,10/10/2015,FBS,Arkansas,Alabama,RECEIVING,JoJo,Robinson,REC,1
+2123038,10/10/2015,FBS,Arkansas,Alabama,RECEIVING,JoJo,Robinson,YDS,15
+2123039,10/10/2015,FBS,Arkansas,Alabama,RECEIVING,JoJo,Robinson,TD,0
+2123040,10/10/2015,FBS,Arkansas,Alabama,RECEIVING,JoJo,Robinson,LONG,15
+2123041,10/10/2015,FBS,Arkansas,Alabama,RECEIVING,Kendrick,Edwards,REC,1
+2123042,10/10/2015,FBS,Arkansas,Alabama,RECEIVING,Kendrick,Edwards,YDS,6
+2123043,10/10/2015,FBS,Arkansas,Alabama,RECEIVING,Kendrick,Edwards,TD,0
+2123044,10/10/2015,FBS,Arkansas,Alabama,RECEIVING,Kendrick,Edwards,LONG,6
+2123045,10/10/2015,FBS,Arkansas,Alabama,RECEIVING,Alex,Collins,REC,1
+2123046,10/10/2015,FBS,Arkansas,Alabama,RECEIVING,Alex,Collins,YDS,4
+2123047,10/10/2015,FBS,Arkansas,Alabama,RECEIVING,Alex,Collins,TD,0
+2123048,10/10/2015,FBS,Arkansas,Alabama,RECEIVING,Alex,Collins,LONG,4
+2123049,10/10/2015,FBS,Arkansas,Alabama,KICKING,Cole,Hedlund,FG-FGA,0/0
+2123050,10/10/2015,FBS,Arkansas,Alabama,KICKING,Cole,Hedlund,LONG,-
+2123051,10/10/2015,FBS,Arkansas,Alabama,KICKING,Cole,Hedlund,XP,2
+2123052,10/10/2015,FBS,Arkansas,Alabama,KICKING,Cole,Hedlund,PTS,2
+2123053,10/10/2015,FBS,Arkansas,Alabama,PUNTING,Toby,Baker,NO,10
+2123054,10/10/2015,FBS,Arkansas,Alabama,PUNTING,Toby,Baker,YDS,402
+2123055,10/10/2015,FBS,Arkansas,Alabama,PUNTING,Toby,Baker,AVG,40.2
+2123056,10/10/2015,FBS,Arkansas,Alabama,PUNTING,Toby,Baker,LONG,49
+2123057,10/10/2015,FBS,Arkansas,Alabama,PUNT RETURNS,DJ,Dean,NO,2
+2123058,10/10/2015,FBS,Arkansas,Alabama,PUNT RETURNS,DJ,Dean,YDS,11
+2123059,10/10/2015,FBS,Arkansas,Alabama,PUNT RETURNS,DJ,Dean,AVG,5.5
+2123060,10/10/2015,FBS,Arkansas,Alabama,PUNT RETURNS,DJ,Dean,LONG,11
+2123061,10/10/2015,FBS,Arkansas,Alabama,KICK RETURNS,JoJo,Robinson,NO,2
+2123062,10/10/2015,FBS,Arkansas,Alabama,KICK RETURNS,JoJo,Robinson,YDS,31
+2123063,10/10/2015,FBS,Arkansas,Alabama,KICK RETURNS,JoJo,Robinson,AVG,15.5
+2123064,10/10/2015,FBS,Arkansas,Alabama,KICK RETURNS,JoJo,Robinson,LONG,17
+2123065,10/10/2015,FBS,Arkansas,Alabama,KICK RETURNS,Alex,Voelzke,NO,0
+2123066,10/10/2015,FBS,Arkansas,Alabama,KICK RETURNS,Alex,Voelzke,YDS,0
+2123067,10/10/2015,FBS,Arkansas,Alabama,KICK RETURNS,Alex,Voelzke,AVG,-
+2123068,10/10/2015,FBS,Arkansas,Alabama,KICK RETURNS,Alex,Voelzke,LONG,0
+2123069,10/10/2015,FBS,Alabama,Arkansas,RUSHING,Derrick,Henry,ATT,27
+2123070,10/10/2015,FBS,Alabama,Arkansas,RUSHING,Derrick,Henry,YDS,95
+2123071,10/10/2015,FBS,Alabama,Arkansas,RUSHING,Derrick,Henry,TD,1
+2123072,10/10/2015,FBS,Alabama,Arkansas,RUSHING,Derrick,Henry,LONG,15
+2123073,10/10/2015,FBS,Alabama,Arkansas,RUSHING,Kenyan,Drake,ATT,7
+2123074,10/10/2015,FBS,Alabama,Arkansas,RUSHING,Kenyan,Drake,YDS,29
+2123075,10/10/2015,FBS,Alabama,Arkansas,RUSHING,Kenyan,Drake,TD,0
+2123076,10/10/2015,FBS,Alabama,Arkansas,RUSHING,Kenyan,Drake,LONG,7
+2123077,10/10/2015,FBS,Alabama,Arkansas,RUSHING,Jake,Coker,ATT,7
+2123078,10/10/2015,FBS,Alabama,Arkansas,RUSHING,Jake,Coker,YDS,17
+2123079,10/10/2015,FBS,Alabama,Arkansas,RUSHING,Jake,Coker,TD,0
+2123080,10/10/2015,FBS,Alabama,Arkansas,RUSHING,Jake,Coker,LONG,15
+2123081,10/10/2015,FBS,Alabama,Arkansas,RUSHING,,Team,ATT,2
+2123082,10/10/2015,FBS,Alabama,Arkansas,RUSHING,,Team,YDS,-3
+2123083,10/10/2015,FBS,Alabama,Arkansas,RUSHING,,Team,TD,0
+2123084,10/10/2015,FBS,Alabama,Arkansas,RUSHING,,Team,LONG,-1
+2123085,10/10/2015,FBS,Alabama,Arkansas,RUSHING,Damien,Harris,ATT,3
+2123086,10/10/2015,FBS,Alabama,Arkansas,RUSHING,Damien,Harris,YDS,-4
+2123087,10/10/2015,FBS,Alabama,Arkansas,RUSHING,Damien,Harris,TD,0
+2123088,10/10/2015,FBS,Alabama,Arkansas,RUSHING,Damien,Harris,LONG,1
+2123089,10/10/2015,FBS,Alabama,Arkansas,PASSING,Jake,Coker,CP-ATT-INT,24-33-2
+2123090,10/10/2015,FBS,Alabama,Arkansas,PASSING,Jake,Coker,YDS,262
+2123091,10/10/2015,FBS,Alabama,Arkansas,PASSING,Jake,Coker,TD,2
+2123092,10/10/2015,FBS,Alabama,Arkansas,PASSING,Jake,Coker,LONG,81
+2123093,10/10/2015,FBS,Alabama,Arkansas,RECEIVING,Calvin,Ridley,REC,9
+2123094,10/10/2015,FBS,Alabama,Arkansas,RECEIVING,Calvin,Ridley,YDS,140
+2123095,10/10/2015,FBS,Alabama,Arkansas,RECEIVING,Calvin,Ridley,TD,1
+2123096,10/10/2015,FBS,Alabama,Arkansas,RECEIVING,Calvin,Ridley,LONG,81
+2123097,10/10/2015,FBS,Alabama,Arkansas,RECEIVING,ArDarius,Stewart,REC,2
+2123098,10/10/2015,FBS,Alabama,Arkansas,RECEIVING,ArDarius,Stewart,YDS,38
+2123099,10/10/2015,FBS,Alabama,Arkansas,RECEIVING,ArDarius,Stewart,TD,0
+2123100,10/10/2015,FBS,Alabama,Arkansas,RECEIVING,ArDarius,Stewart,LONG,37
+2123101,10/10/2015,FBS,Alabama,Arkansas,RECEIVING,Kenyan,Drake,REC,5
+2123102,10/10/2015,FBS,Alabama,Arkansas,RECEIVING,Kenyan,Drake,YDS,37
+2123103,10/10/2015,FBS,Alabama,Arkansas,RECEIVING,Kenyan,Drake,TD,0
+2123104,10/10/2015,FBS,Alabama,Arkansas,RECEIVING,Kenyan,Drake,LONG,18
+2123105,10/10/2015,FBS,Alabama,Arkansas,RECEIVING,Richard,Mullaney,REC,4
+2123106,10/10/2015,FBS,Alabama,Arkansas,RECEIVING,Richard,Mullaney,YDS,25
+2123107,10/10/2015,FBS,Alabama,Arkansas,RECEIVING,Richard,Mullaney,TD,1
+2123108,10/10/2015,FBS,Alabama,Arkansas,RECEIVING,Richard,Mullaney,LONG,9
+2123109,10/10/2015,FBS,Alabama,Arkansas,RECEIVING,O.J.,Howard,REC,3
+2123110,10/10/2015,FBS,Alabama,Arkansas,RECEIVING,O.J.,Howard,YDS,17
+2123111,10/10/2015,FBS,Alabama,Arkansas,RECEIVING,O.J.,Howard,TD,0
+2123112,10/10/2015,FBS,Alabama,Arkansas,RECEIVING,O.J.,Howard,LONG,7
+2123113,10/10/2015,FBS,Alabama,Arkansas,RECEIVING,Hale,Hentges,REC,1
+2123114,10/10/2015,FBS,Alabama,Arkansas,RECEIVING,Hale,Hentges,YDS,5
+2123115,10/10/2015,FBS,Alabama,Arkansas,RECEIVING,Hale,Hentges,TD,0
+2123116,10/10/2015,FBS,Alabama,Arkansas,RECEIVING,Hale,Hentges,LONG,5
+2123117,10/10/2015,FBS,Alabama,Arkansas,KICKING,Adam,Griffith,FG-FGA,2/4
+2123118,10/10/2015,FBS,Alabama,Arkansas,KICKING,Adam,Griffith,LONG,35
+2123119,10/10/2015,FBS,Alabama,Arkansas,KICKING,Adam,Griffith,XP,3
+2123120,10/10/2015,FBS,Alabama,Arkansas,KICKING,Adam,Griffith,PTS,9
+2123121,10/10/2015,FBS,Alabama,Arkansas,PUNTING,JK,Scott,NO,4
+2123122,10/10/2015,FBS,Alabama,Arkansas,PUNTING,JK,Scott,YDS,200
+2123123,10/10/2015,FBS,Alabama,Arkansas,PUNTING,JK,Scott,AVG,50.0
+2123124,10/10/2015,FBS,Alabama,Arkansas,PUNTING,JK,Scott,LONG,58
+2123125,10/10/2015,FBS,Alabama,Arkansas,PUNT RETURNS,Cyrus,Jones,NO,3
+2123126,10/10/2015,FBS,Alabama,Arkansas,PUNT RETURNS,Cyrus,Jones,YDS,39
+2123127,10/10/2015,FBS,Alabama,Arkansas,PUNT RETURNS,Cyrus,Jones,AVG,13.0
+2123128,10/10/2015,FBS,Alabama,Arkansas,PUNT RETURNS,Cyrus,Jones,LONG,27
+2123129,10/10/2015,FBS,Alabama,Arkansas,KICK RETURNS,Damien,Harris,NO,1
+2123130,10/10/2015,FBS,Alabama,Arkansas,KICK RETURNS,Damien,Harris,YDS,22
+2123131,10/10/2015,FBS,Alabama,Arkansas,KICK RETURNS,Damien,Harris,AVG,22.0
+2123132,10/10/2015,FBS,Alabama,Arkansas,KICK RETURNS,Damien,Harris,LONG,22
+2123133,10/10/2015,FBS,Alabama,Arkansas,KICK RETURNS,Michael,Nysewander,NO,1
+2123134,10/10/2015,FBS,Alabama,Arkansas,KICK RETURNS,Michael,Nysewander,YDS,16
+2123135,10/10/2015,FBS,Alabama,Arkansas,KICK RETURNS,Michael,Nysewander,AVG,16.0
+2123136,10/10/2015,FBS,Alabama,Arkansas,KICK RETURNS,Michael,Nysewander,LONG,16

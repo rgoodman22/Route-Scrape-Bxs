@@ -1,0 +1,141 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2015001,9/26/2015,FBS,San Diego State,Penn State,RUSHING,Donnel,Pumphrey,ATT,18
+2015002,9/26/2015,FBS,San Diego State,Penn State,RUSHING,Donnel,Pumphrey,YDS,56
+2015003,9/26/2015,FBS,San Diego State,Penn State,RUSHING,Donnel,Pumphrey,TD,1
+2015004,9/26/2015,FBS,San Diego State,Penn State,RUSHING,Donnel,Pumphrey,LONG,18
+2015005,9/26/2015,FBS,San Diego State,Penn State,RUSHING,Rashaad,Penny,ATT,1
+2015006,9/26/2015,FBS,San Diego State,Penn State,RUSHING,Rashaad,Penny,YDS,55
+2015007,9/26/2015,FBS,San Diego State,Penn State,RUSHING,Rashaad,Penny,TD,0
+2015008,9/26/2015,FBS,San Diego State,Penn State,RUSHING,Rashaad,Penny,LONG,55
+2015009,9/26/2015,FBS,San Diego State,Penn State,RUSHING,Chase,Price,ATT,4
+2015010,9/26/2015,FBS,San Diego State,Penn State,RUSHING,Chase,Price,YDS,24
+2015011,9/26/2015,FBS,San Diego State,Penn State,RUSHING,Chase,Price,TD,0
+2015012,9/26/2015,FBS,San Diego State,Penn State,RUSHING,Chase,Price,LONG,13
+2015013,9/26/2015,FBS,San Diego State,Penn State,RUSHING,,Team,ATT,3
+2015014,9/26/2015,FBS,San Diego State,Penn State,RUSHING,,Team,YDS,-5
+2015015,9/26/2015,FBS,San Diego State,Penn State,RUSHING,,Team,TD,0
+2015016,9/26/2015,FBS,San Diego State,Penn State,RUSHING,,Team,LONG,-1
+2015017,9/26/2015,FBS,San Diego State,Penn State,RUSHING,Maxwell,Smith,ATT,8
+2015018,9/26/2015,FBS,San Diego State,Penn State,RUSHING,Maxwell,Smith,YDS,-29
+2015019,9/26/2015,FBS,San Diego State,Penn State,RUSHING,Maxwell,Smith,TD,0
+2015020,9/26/2015,FBS,San Diego State,Penn State,RUSHING,Maxwell,Smith,LONG,1
+2015021,9/26/2015,FBS,San Diego State,Penn State,PASSING,Maxwell,Smith,CP-ATT-INT,10-29-0
+2015022,9/26/2015,FBS,San Diego State,Penn State,PASSING,Maxwell,Smith,YDS,141
+2015023,9/26/2015,FBS,San Diego State,Penn State,PASSING,Maxwell,Smith,TD,1
+2015024,9/26/2015,FBS,San Diego State,Penn State,PASSING,Maxwell,Smith,LONG,31
+2015025,9/26/2015,FBS,San Diego State,Penn State,RECEIVING,Mikah,Holder,REC,4
+2015026,9/26/2015,FBS,San Diego State,Penn State,RECEIVING,Mikah,Holder,YDS,78
+2015027,9/26/2015,FBS,San Diego State,Penn State,RECEIVING,Mikah,Holder,TD,1
+2015028,9/26/2015,FBS,San Diego State,Penn State,RECEIVING,Mikah,Holder,LONG,31
+2015029,9/26/2015,FBS,San Diego State,Penn State,RECEIVING,Donnel,Pumphrey,REC,4
+2015030,9/26/2015,FBS,San Diego State,Penn State,RECEIVING,Donnel,Pumphrey,YDS,51
+2015031,9/26/2015,FBS,San Diego State,Penn State,RECEIVING,Donnel,Pumphrey,TD,0
+2015032,9/26/2015,FBS,San Diego State,Penn State,RECEIVING,Donnel,Pumphrey,LONG,30
+2015033,9/26/2015,FBS,San Diego State,Penn State,RECEIVING,Chase,Price,REC,1
+2015034,9/26/2015,FBS,San Diego State,Penn State,RECEIVING,Chase,Price,YDS,10
+2015035,9/26/2015,FBS,San Diego State,Penn State,RECEIVING,Chase,Price,TD,0
+2015036,9/26/2015,FBS,San Diego State,Penn State,RECEIVING,Chase,Price,LONG,10
+2015037,9/26/2015,FBS,San Diego State,Penn State,RECEIVING,Lloyd,Mills,REC,1
+2015038,9/26/2015,FBS,San Diego State,Penn State,RECEIVING,Lloyd,Mills,YDS,2
+2015039,9/26/2015,FBS,San Diego State,Penn State,RECEIVING,Lloyd,Mills,TD,0
+2015040,9/26/2015,FBS,San Diego State,Penn State,RECEIVING,Lloyd,Mills,LONG,2
+2015041,9/26/2015,FBS,San Diego State,Penn State,KICKING,Donny,Hageman,FG-FGA,0/0
+2015042,9/26/2015,FBS,San Diego State,Penn State,KICKING,Donny,Hageman,LONG,-
+2015043,9/26/2015,FBS,San Diego State,Penn State,KICKING,Donny,Hageman,XP,3
+2015044,9/26/2015,FBS,San Diego State,Penn State,KICKING,Donny,Hageman,PTS,3
+2015045,9/26/2015,FBS,San Diego State,Penn State,PUNTING,Tanner,Blain,NO,8
+2015046,9/26/2015,FBS,San Diego State,Penn State,PUNTING,Tanner,Blain,YDS,313
+2015047,9/26/2015,FBS,San Diego State,Penn State,PUNTING,Tanner,Blain,AVG,39.1
+2015048,9/26/2015,FBS,San Diego State,Penn State,PUNTING,Tanner,Blain,LONG,48
+2015049,9/26/2015,FBS,San Diego State,Penn State,PUNT RETURNS,Lloyd,Mills,NO,2
+2015050,9/26/2015,FBS,San Diego State,Penn State,PUNT RETURNS,Lloyd,Mills,YDS,-5
+2015051,9/26/2015,FBS,San Diego State,Penn State,PUNT RETURNS,Lloyd,Mills,AVG,-
+2015052,9/26/2015,FBS,San Diego State,Penn State,PUNT RETURNS,Lloyd,Mills,LONG,0
+2015053,9/26/2015,FBS,San Diego State,Penn State,KICK RETURNS,Rashaad,Penny,NO,2
+2015054,9/26/2015,FBS,San Diego State,Penn State,KICK RETURNS,Rashaad,Penny,YDS,137
+2015055,9/26/2015,FBS,San Diego State,Penn State,KICK RETURNS,Rashaad,Penny,AVG,68.5
+2015056,9/26/2015,FBS,San Diego State,Penn State,KICK RETURNS,Rashaad,Penny,LONG,100
+2015057,9/26/2015,FBS,Penn State,San Diego State,RUSHING,Saquon,Barkley,ATT,8
+2015058,9/26/2015,FBS,Penn State,San Diego State,RUSHING,Saquon,Barkley,YDS,62
+2015059,9/26/2015,FBS,Penn State,San Diego State,RUSHING,Saquon,Barkley,TD,0
+2015060,9/26/2015,FBS,Penn State,San Diego State,RUSHING,Saquon,Barkley,LONG,34
+2015061,9/26/2015,FBS,Penn State,San Diego State,RUSHING,Akeel,Lynch,ATT,10
+2015062,9/26/2015,FBS,Penn State,San Diego State,RUSHING,Akeel,Lynch,YDS,18
+2015063,9/26/2015,FBS,Penn State,San Diego State,RUSHING,Akeel,Lynch,TD,0
+2015064,9/26/2015,FBS,Penn State,San Diego State,RUSHING,Akeel,Lynch,LONG,7
+2015065,9/26/2015,FBS,Penn State,San Diego State,RUSHING,Nick,Scott,ATT,6
+2015066,9/26/2015,FBS,Penn State,San Diego State,RUSHING,Nick,Scott,YDS,9
+2015067,9/26/2015,FBS,Penn State,San Diego State,RUSHING,Nick,Scott,TD,0
+2015068,9/26/2015,FBS,Penn State,San Diego State,RUSHING,Nick,Scott,LONG,4
+2015069,9/26/2015,FBS,Penn State,San Diego State,RUSHING,Mark,Allen,ATT,5
+2015070,9/26/2015,FBS,Penn State,San Diego State,RUSHING,Mark,Allen,YDS,5
+2015071,9/26/2015,FBS,Penn State,San Diego State,RUSHING,Mark,Allen,TD,0
+2015072,9/26/2015,FBS,Penn State,San Diego State,RUSHING,Mark,Allen,LONG,6
+2015073,9/26/2015,FBS,Penn State,San Diego State,RUSHING,Brandon,Polk,ATT,1
+2015074,9/26/2015,FBS,Penn State,San Diego State,RUSHING,Brandon,Polk,YDS,1
+2015075,9/26/2015,FBS,Penn State,San Diego State,RUSHING,Brandon,Polk,TD,0
+2015076,9/26/2015,FBS,Penn State,San Diego State,RUSHING,Brandon,Polk,LONG,1
+2015077,9/26/2015,FBS,Penn State,San Diego State,RUSHING,Christian,Hackenberg,ATT,3
+2015078,9/26/2015,FBS,Penn State,San Diego State,RUSHING,Christian,Hackenberg,YDS,-6
+2015079,9/26/2015,FBS,Penn State,San Diego State,RUSHING,Christian,Hackenberg,TD,0
+2015080,9/26/2015,FBS,Penn State,San Diego State,RUSHING,Christian,Hackenberg,LONG,3
+2015081,9/26/2015,FBS,Penn State,San Diego State,RUSHING,,Team,ATT,1
+2015082,9/26/2015,FBS,Penn State,San Diego State,RUSHING,,Team,YDS,-17
+2015083,9/26/2015,FBS,Penn State,San Diego State,RUSHING,,Team,TD,0
+2015084,9/26/2015,FBS,Penn State,San Diego State,RUSHING,,Team,LONG,-17
+2015085,9/26/2015,FBS,Penn State,San Diego State,PASSING,Christian,Hackenberg,CP-ATT-INT,21-35-0
+2015086,9/26/2015,FBS,Penn State,San Diego State,PASSING,Christian,Hackenberg,YDS,296
+2015087,9/26/2015,FBS,Penn State,San Diego State,PASSING,Christian,Hackenberg,TD,3
+2015088,9/26/2015,FBS,Penn State,San Diego State,PASSING,Christian,Hackenberg,LONG,46
+2015089,9/26/2015,FBS,Penn State,San Diego State,PASSING,Nick,Scott,CP-ATT-INT,1-1-0
+2015090,9/26/2015,FBS,Penn State,San Diego State,PASSING,Nick,Scott,YDS,32
+2015091,9/26/2015,FBS,Penn State,San Diego State,PASSING,Nick,Scott,TD,0
+2015092,9/26/2015,FBS,Penn State,San Diego State,PASSING,Nick,Scott,LONG,32
+2015093,9/26/2015,FBS,Penn State,San Diego State,RECEIVING,Saeed,Blacknall,REC,4
+2015094,9/26/2015,FBS,Penn State,San Diego State,RECEIVING,Saeed,Blacknall,YDS,101
+2015095,9/26/2015,FBS,Penn State,San Diego State,RECEIVING,Saeed,Blacknall,TD,0
+2015096,9/26/2015,FBS,Penn State,San Diego State,RECEIVING,Saeed,Blacknall,LONG,46
+2015097,9/26/2015,FBS,Penn State,San Diego State,RECEIVING,Chris,Godwin,REC,5
+2015098,9/26/2015,FBS,Penn State,San Diego State,RECEIVING,Chris,Godwin,YDS,78
+2015099,9/26/2015,FBS,Penn State,San Diego State,RECEIVING,Chris,Godwin,TD,1
+2015100,9/26/2015,FBS,Penn State,San Diego State,RECEIVING,Chris,Godwin,LONG,32
+2015101,9/26/2015,FBS,Penn State,San Diego State,RECEIVING,Kyle,Carter,REC,3
+2015102,9/26/2015,FBS,Penn State,San Diego State,RECEIVING,Kyle,Carter,YDS,47
+2015103,9/26/2015,FBS,Penn State,San Diego State,RECEIVING,Kyle,Carter,TD,0
+2015104,9/26/2015,FBS,Penn State,San Diego State,RECEIVING,Kyle,Carter,LONG,35
+2015105,9/26/2015,FBS,Penn State,San Diego State,RECEIVING,DaeSean,Hamilton,REC,5
+2015106,9/26/2015,FBS,Penn State,San Diego State,RECEIVING,DaeSean,Hamilton,YDS,40
+2015107,9/26/2015,FBS,Penn State,San Diego State,RECEIVING,DaeSean,Hamilton,TD,0
+2015108,9/26/2015,FBS,Penn State,San Diego State,RECEIVING,DaeSean,Hamilton,LONG,14
+2015109,9/26/2015,FBS,Penn State,San Diego State,RECEIVING,Mark,Allen,REC,2
+2015110,9/26/2015,FBS,Penn State,San Diego State,RECEIVING,Mark,Allen,YDS,29
+2015111,9/26/2015,FBS,Penn State,San Diego State,RECEIVING,Mark,Allen,TD,1
+2015112,9/26/2015,FBS,Penn State,San Diego State,RECEIVING,Mark,Allen,LONG,16
+2015113,9/26/2015,FBS,Penn State,San Diego State,RECEIVING,Saquon,Barkley,REC,1
+2015114,9/26/2015,FBS,Penn State,San Diego State,RECEIVING,Saquon,Barkley,YDS,22
+2015115,9/26/2015,FBS,Penn State,San Diego State,RECEIVING,Saquon,Barkley,TD,1
+2015116,9/26/2015,FBS,Penn State,San Diego State,RECEIVING,Saquon,Barkley,LONG,22
+2015117,9/26/2015,FBS,Penn State,San Diego State,RECEIVING,Mike,Gesicki,REC,2
+2015118,9/26/2015,FBS,Penn State,San Diego State,RECEIVING,Mike,Gesicki,YDS,11
+2015119,9/26/2015,FBS,Penn State,San Diego State,RECEIVING,Mike,Gesicki,TD,0
+2015120,9/26/2015,FBS,Penn State,San Diego State,RECEIVING,Mike,Gesicki,LONG,8
+2015121,9/26/2015,FBS,Penn State,San Diego State,KICKING,Joey,Julius,FG-FGA,3/3
+2015122,9/26/2015,FBS,Penn State,San Diego State,KICKING,Joey,Julius,LONG,40
+2015123,9/26/2015,FBS,Penn State,San Diego State,KICKING,Joey,Julius,XP,4
+2015124,9/26/2015,FBS,Penn State,San Diego State,KICKING,Joey,Julius,PTS,13
+2015125,9/26/2015,FBS,Penn State,San Diego State,PUNTING,Chris,Gulla,NO,7
+2015126,9/26/2015,FBS,Penn State,San Diego State,PUNTING,Chris,Gulla,YDS,294
+2015127,9/26/2015,FBS,Penn State,San Diego State,PUNTING,Chris,Gulla,AVG,42.0
+2015128,9/26/2015,FBS,Penn State,San Diego State,PUNTING,Chris,Gulla,LONG,51
+2015129,9/26/2015,FBS,Penn State,San Diego State,PUNT RETURNS,DeAndre,Thompkins,NO,4
+2015130,9/26/2015,FBS,Penn State,San Diego State,PUNT RETURNS,DeAndre,Thompkins,YDS,17
+2015131,9/26/2015,FBS,Penn State,San Diego State,PUNT RETURNS,DeAndre,Thompkins,AVG,4.2
+2015132,9/26/2015,FBS,Penn State,San Diego State,PUNT RETURNS,DeAndre,Thompkins,LONG,10
+2015133,9/26/2015,FBS,Penn State,San Diego State,KICK RETURNS,Nick,Scott,NO,3
+2015134,9/26/2015,FBS,Penn State,San Diego State,KICK RETURNS,Nick,Scott,YDS,72
+2015135,9/26/2015,FBS,Penn State,San Diego State,KICK RETURNS,Nick,Scott,AVG,24.0
+2015136,9/26/2015,FBS,Penn State,San Diego State,KICK RETURNS,Nick,Scott,LONG,28
+2015137,9/26/2015,FBS,Penn State,San Diego State,KICK RETURNS,Koa,Farmer,NO,1
+2015138,9/26/2015,FBS,Penn State,San Diego State,KICK RETURNS,Koa,Farmer,YDS,26
+2015139,9/26/2015,FBS,Penn State,San Diego State,KICK RETURNS,Koa,Farmer,AVG,26.0
+2015140,9/26/2015,FBS,Penn State,San Diego State,KICK RETURNS,Koa,Farmer,LONG,26

@@ -1,0 +1,153 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+2397001,11/14/2015,FBS,Georgia State,Texas State,RUSHING,Taz,Bateman,ATT,8
+2397002,11/14/2015,FBS,Georgia State,Texas State,RUSHING,Taz,Bateman,YDS,51
+2397003,11/14/2015,FBS,Georgia State,Texas State,RUSHING,Taz,Bateman,TD,1
+2397004,11/14/2015,FBS,Georgia State,Texas State,RUSHING,Taz,Bateman,LONG,23
+2397005,11/14/2015,FBS,Georgia State,Texas State,RUSHING,Demarcus,Kirk,ATT,10
+2397006,11/14/2015,FBS,Georgia State,Texas State,RUSHING,Demarcus,Kirk,YDS,47
+2397007,11/14/2015,FBS,Georgia State,Texas State,RUSHING,Demarcus,Kirk,TD,0
+2397008,11/14/2015,FBS,Georgia State,Texas State,RUSHING,Demarcus,Kirk,LONG,10
+2397009,11/14/2015,FBS,Georgia State,Texas State,RUSHING,Glenn,Smith,ATT,10
+2397010,11/14/2015,FBS,Georgia State,Texas State,RUSHING,Glenn,Smith,YDS,31
+2397011,11/14/2015,FBS,Georgia State,Texas State,RUSHING,Glenn,Smith,TD,0
+2397012,11/14/2015,FBS,Georgia State,Texas State,RUSHING,Glenn,Smith,LONG,20
+2397013,11/14/2015,FBS,Georgia State,Texas State,RUSHING,Nick,Arbuckle,ATT,2
+2397014,11/14/2015,FBS,Georgia State,Texas State,RUSHING,Nick,Arbuckle,YDS,25
+2397015,11/14/2015,FBS,Georgia State,Texas State,RUSHING,Nick,Arbuckle,TD,0
+2397016,11/14/2015,FBS,Georgia State,Texas State,RUSHING,Nick,Arbuckle,LONG,25
+2397017,11/14/2015,FBS,Georgia State,Texas State,RUSHING,Marquan,Greene,ATT,6
+2397018,11/14/2015,FBS,Georgia State,Texas State,RUSHING,Marquan,Greene,YDS,19
+2397019,11/14/2015,FBS,Georgia State,Texas State,RUSHING,Marquan,Greene,TD,0
+2397020,11/14/2015,FBS,Georgia State,Texas State,RUSHING,Marquan,Greene,LONG,6
+2397021,11/14/2015,FBS,Georgia State,Texas State,RUSHING,,Team,ATT,1
+2397022,11/14/2015,FBS,Georgia State,Texas State,RUSHING,,Team,YDS,-1
+2397023,11/14/2015,FBS,Georgia State,Texas State,RUSHING,,Team,TD,0
+2397024,11/14/2015,FBS,Georgia State,Texas State,RUSHING,,Team,LONG,-1
+2397025,11/14/2015,FBS,Georgia State,Texas State,PASSING,Nick,Arbuckle,CP-ATT-INT,23-34-2
+2397026,11/14/2015,FBS,Georgia State,Texas State,PASSING,Nick,Arbuckle,YDS,471
+2397027,11/14/2015,FBS,Georgia State,Texas State,PASSING,Nick,Arbuckle,TD,4
+2397028,11/14/2015,FBS,Georgia State,Texas State,PASSING,Nick,Arbuckle,LONG,48
+2397029,11/14/2015,FBS,Georgia State,Texas State,PASSING,Emiere,Scaife,CP-ATT-INT,0-1-0
+2397030,11/14/2015,FBS,Georgia State,Texas State,PASSING,Emiere,Scaife,YDS,0
+2397031,11/14/2015,FBS,Georgia State,Texas State,PASSING,Emiere,Scaife,TD,0
+2397032,11/14/2015,FBS,Georgia State,Texas State,PASSING,Emiere,Scaife,LONG,0
+2397033,11/14/2015,FBS,Georgia State,Texas State,RECEIVING,Robert,Davis,REC,5
+2397034,11/14/2015,FBS,Georgia State,Texas State,RECEIVING,Robert,Davis,YDS,177
+2397035,11/14/2015,FBS,Georgia State,Texas State,RECEIVING,Robert,Davis,TD,1
+2397036,11/14/2015,FBS,Georgia State,Texas State,RECEIVING,Robert,Davis,LONG,48
+2397037,11/14/2015,FBS,Georgia State,Texas State,RECEIVING,Penny,Hart,REC,6
+2397038,11/14/2015,FBS,Georgia State,Texas State,RECEIVING,Penny,Hart,YDS,113
+2397039,11/14/2015,FBS,Georgia State,Texas State,RECEIVING,Penny,Hart,TD,1
+2397040,11/14/2015,FBS,Georgia State,Texas State,RECEIVING,Penny,Hart,LONG,34
+2397041,11/14/2015,FBS,Georgia State,Texas State,RECEIVING,Todd,Boyd,REC,3
+2397042,11/14/2015,FBS,Georgia State,Texas State,RECEIVING,Todd,Boyd,YDS,63
+2397043,11/14/2015,FBS,Georgia State,Texas State,RECEIVING,Todd,Boyd,TD,0
+2397044,11/14/2015,FBS,Georgia State,Texas State,RECEIVING,Todd,Boyd,LONG,45
+2397045,11/14/2015,FBS,Georgia State,Texas State,RECEIVING,Donovan,Harden,REC,5
+2397046,11/14/2015,FBS,Georgia State,Texas State,RECEIVING,Donovan,Harden,YDS,58
+2397047,11/14/2015,FBS,Georgia State,Texas State,RECEIVING,Donovan,Harden,TD,2
+2397048,11/14/2015,FBS,Georgia State,Texas State,RECEIVING,Donovan,Harden,LONG,24
+2397049,11/14/2015,FBS,Georgia State,Texas State,RECEIVING,Nyiakki,Height,REC,1
+2397050,11/14/2015,FBS,Georgia State,Texas State,RECEIVING,Nyiakki,Height,YDS,39
+2397051,11/14/2015,FBS,Georgia State,Texas State,RECEIVING,Nyiakki,Height,TD,0
+2397052,11/14/2015,FBS,Georgia State,Texas State,RECEIVING,Nyiakki,Height,LONG,39
+2397053,11/14/2015,FBS,Georgia State,Texas State,RECEIVING,Kyler,Neal,REC,1
+2397054,11/14/2015,FBS,Georgia State,Texas State,RECEIVING,Kyler,Neal,YDS,14
+2397055,11/14/2015,FBS,Georgia State,Texas State,RECEIVING,Kyler,Neal,TD,0
+2397056,11/14/2015,FBS,Georgia State,Texas State,RECEIVING,Kyler,Neal,LONG,14
+2397057,11/14/2015,FBS,Georgia State,Texas State,RECEIVING,Kam,Myers,REC,1
+2397058,11/14/2015,FBS,Georgia State,Texas State,RECEIVING,Kam,Myers,YDS,5
+2397059,11/14/2015,FBS,Georgia State,Texas State,RECEIVING,Kam,Myers,TD,0
+2397060,11/14/2015,FBS,Georgia State,Texas State,RECEIVING,Kam,Myers,LONG,5
+2397061,11/14/2015,FBS,Georgia State,Texas State,RECEIVING,Taz,Bateman,REC,1
+2397062,11/14/2015,FBS,Georgia State,Texas State,RECEIVING,Taz,Bateman,YDS,2
+2397063,11/14/2015,FBS,Georgia State,Texas State,RECEIVING,Taz,Bateman,TD,0
+2397064,11/14/2015,FBS,Georgia State,Texas State,RECEIVING,Taz,Bateman,LONG,2
+2397065,11/14/2015,FBS,Georgia State,Texas State,KICKING,Wil,Lutz,FG-FGA,2/2
+2397066,11/14/2015,FBS,Georgia State,Texas State,KICKING,Wil,Lutz,LONG,44
+2397067,11/14/2015,FBS,Georgia State,Texas State,KICKING,Wil,Lutz,XP,5
+2397068,11/14/2015,FBS,Georgia State,Texas State,KICKING,Wil,Lutz,PTS,11
+2397069,11/14/2015,FBS,Georgia State,Texas State,PUNTING,Wil,Lutz,NO,4
+2397070,11/14/2015,FBS,Georgia State,Texas State,PUNTING,Wil,Lutz,YDS,165
+2397071,11/14/2015,FBS,Georgia State,Texas State,PUNTING,Wil,Lutz,AVG,41.2
+2397072,11/14/2015,FBS,Georgia State,Texas State,PUNTING,Wil,Lutz,LONG,55
+2397073,11/14/2015,FBS,Georgia State,Texas State,PUNT RETURNS,Avery,Sweeting,NO,1
+2397074,11/14/2015,FBS,Georgia State,Texas State,PUNT RETURNS,Avery,Sweeting,YDS,15
+2397075,11/14/2015,FBS,Georgia State,Texas State,PUNT RETURNS,Avery,Sweeting,AVG,15.0
+2397076,11/14/2015,FBS,Georgia State,Texas State,PUNT RETURNS,Avery,Sweeting,LONG,15
+2397077,11/14/2015,FBS,Georgia State,Texas State,PUNT RETURNS,Donovan,Harden,NO,1
+2397078,11/14/2015,FBS,Georgia State,Texas State,PUNT RETURNS,Donovan,Harden,YDS,-2
+2397079,11/14/2015,FBS,Georgia State,Texas State,PUNT RETURNS,Donovan,Harden,AVG,-
+2397080,11/14/2015,FBS,Georgia State,Texas State,PUNT RETURNS,Donovan,Harden,LONG,0
+2397081,11/14/2015,FBS,Georgia State,Texas State,KICK RETURNS,Kam,Myers,NO,1
+2397082,11/14/2015,FBS,Georgia State,Texas State,KICK RETURNS,Kam,Myers,YDS,36
+2397083,11/14/2015,FBS,Georgia State,Texas State,KICK RETURNS,Kam,Myers,AVG,36.0
+2397084,11/14/2015,FBS,Georgia State,Texas State,KICK RETURNS,Kam,Myers,LONG,36
+2397085,11/14/2015,FBS,Texas State,Georgia State,RUSHING,Robert,Lowe,ATT,17
+2397086,11/14/2015,FBS,Texas State,Georgia State,RUSHING,Robert,Lowe,YDS,88
+2397087,11/14/2015,FBS,Texas State,Georgia State,RUSHING,Robert,Lowe,TD,1
+2397088,11/14/2015,FBS,Texas State,Georgia State,RUSHING,Robert,Lowe,LONG,11
+2397089,11/14/2015,FBS,Texas State,Georgia State,RUSHING,Tyler,Jones,ATT,13
+2397090,11/14/2015,FBS,Texas State,Georgia State,RUSHING,Tyler,Jones,YDS,62
+2397091,11/14/2015,FBS,Texas State,Georgia State,RUSHING,Tyler,Jones,TD,0
+2397092,11/14/2015,FBS,Texas State,Georgia State,RUSHING,Tyler,Jones,LONG,19
+2397093,11/14/2015,FBS,Texas State,Georgia State,RUSHING,CJ,Best,ATT,2
+2397094,11/14/2015,FBS,Texas State,Georgia State,RUSHING,CJ,Best,YDS,36
+2397095,11/14/2015,FBS,Texas State,Georgia State,RUSHING,CJ,Best,TD,0
+2397096,11/14/2015,FBS,Texas State,Georgia State,RUSHING,CJ,Best,LONG,16
+2397097,11/14/2015,FBS,Texas State,Georgia State,PASSING,Tyler,Jones,CP-ATT-INT,29-51-2
+2397098,11/14/2015,FBS,Texas State,Georgia State,PASSING,Tyler,Jones,YDS,267
+2397099,11/14/2015,FBS,Texas State,Georgia State,PASSING,Tyler,Jones,TD,1
+2397100,11/14/2015,FBS,Texas State,Georgia State,PASSING,Tyler,Jones,LONG,29
+2397101,11/14/2015,FBS,Texas State,Georgia State,PASSING,,Team,CP-ATT-INT,0-1-0
+2397102,11/14/2015,FBS,Texas State,Georgia State,PASSING,,Team,YDS,0
+2397103,11/14/2015,FBS,Texas State,Georgia State,PASSING,,Team,TD,0
+2397104,11/14/2015,FBS,Texas State,Georgia State,PASSING,,Team,LONG,0
+2397105,11/14/2015,FBS,Texas State,Georgia State,RECEIVING,Brandon,Smith,REC,6
+2397106,11/14/2015,FBS,Texas State,Georgia State,RECEIVING,Brandon,Smith,YDS,69
+2397107,11/14/2015,FBS,Texas State,Georgia State,RECEIVING,Brandon,Smith,TD,0
+2397108,11/14/2015,FBS,Texas State,Georgia State,RECEIVING,Brandon,Smith,LONG,27
+2397109,11/14/2015,FBS,Texas State,Georgia State,RECEIVING,CJ,Best,REC,7
+2397110,11/14/2015,FBS,Texas State,Georgia State,RECEIVING,CJ,Best,YDS,63
+2397111,11/14/2015,FBS,Texas State,Georgia State,RECEIVING,CJ,Best,TD,0
+2397112,11/14/2015,FBS,Texas State,Georgia State,RECEIVING,CJ,Best,LONG,29
+2397113,11/14/2015,FBS,Texas State,Georgia State,RECEIVING,Ryan,Carden,REC,5
+2397114,11/14/2015,FBS,Texas State,Georgia State,RECEIVING,Ryan,Carden,YDS,61
+2397115,11/14/2015,FBS,Texas State,Georgia State,RECEIVING,Ryan,Carden,TD,0
+2397116,11/14/2015,FBS,Texas State,Georgia State,RECEIVING,Ryan,Carden,LONG,26
+2397117,11/14/2015,FBS,Texas State,Georgia State,RECEIVING,Jafus,Gaines,REC,5
+2397118,11/14/2015,FBS,Texas State,Georgia State,RECEIVING,Jafus,Gaines,YDS,36
+2397119,11/14/2015,FBS,Texas State,Georgia State,RECEIVING,Jafus,Gaines,TD,0
+2397120,11/14/2015,FBS,Texas State,Georgia State,RECEIVING,Jafus,Gaines,LONG,14
+2397121,11/14/2015,FBS,Texas State,Georgia State,RECEIVING,Lawrence,White,REC,1
+2397122,11/14/2015,FBS,Texas State,Georgia State,RECEIVING,Lawrence,White,YDS,14
+2397123,11/14/2015,FBS,Texas State,Georgia State,RECEIVING,Lawrence,White,TD,0
+2397124,11/14/2015,FBS,Texas State,Georgia State,RECEIVING,Lawrence,White,LONG,14
+2397125,11/14/2015,FBS,Texas State,Georgia State,RECEIVING,Robert,Lowe,REC,3
+2397126,11/14/2015,FBS,Texas State,Georgia State,RECEIVING,Robert,Lowe,YDS,11
+2397127,11/14/2015,FBS,Texas State,Georgia State,RECEIVING,Robert,Lowe,TD,1
+2397128,11/14/2015,FBS,Texas State,Georgia State,RECEIVING,Robert,Lowe,LONG,5
+2397129,11/14/2015,FBS,Texas State,Georgia State,RECEIVING,Demun,Mercer,REC,1
+2397130,11/14/2015,FBS,Texas State,Georgia State,RECEIVING,Demun,Mercer,YDS,9
+2397131,11/14/2015,FBS,Texas State,Georgia State,RECEIVING,Demun,Mercer,TD,0
+2397132,11/14/2015,FBS,Texas State,Georgia State,RECEIVING,Demun,Mercer,LONG,9
+2397133,11/14/2015,FBS,Texas State,Georgia State,RECEIVING,Ryan,Garrey,REC,1
+2397134,11/14/2015,FBS,Texas State,Georgia State,RECEIVING,Ryan,Garrey,YDS,4
+2397135,11/14/2015,FBS,Texas State,Georgia State,RECEIVING,Ryan,Garrey,TD,0
+2397136,11/14/2015,FBS,Texas State,Georgia State,RECEIVING,Ryan,Garrey,LONG,4
+2397137,11/14/2015,FBS,Texas State,Georgia State,KICKING,Lumi,Kaba,FG-FGA,2/3
+2397138,11/14/2015,FBS,Texas State,Georgia State,KICKING,Lumi,Kaba,LONG,50
+2397139,11/14/2015,FBS,Texas State,Georgia State,KICKING,Lumi,Kaba,XP,1
+2397140,11/14/2015,FBS,Texas State,Georgia State,KICKING,Lumi,Kaba,PTS,7
+2397141,11/14/2015,FBS,Texas State,Georgia State,PUNTING,Lumi,Kaba,NO,5
+2397142,11/14/2015,FBS,Texas State,Georgia State,PUNTING,Lumi,Kaba,YDS,256
+2397143,11/14/2015,FBS,Texas State,Georgia State,PUNTING,Lumi,Kaba,AVG,51.2
+2397144,11/14/2015,FBS,Texas State,Georgia State,PUNTING,Lumi,Kaba,LONG,65
+2397145,11/14/2015,FBS,Texas State,Georgia State,PUNT RETURNS,Brandon,McDowell,NO,1
+2397146,11/14/2015,FBS,Texas State,Georgia State,PUNT RETURNS,Brandon,McDowell,YDS,2
+2397147,11/14/2015,FBS,Texas State,Georgia State,PUNT RETURNS,Brandon,McDowell,AVG,2.0
+2397148,11/14/2015,FBS,Texas State,Georgia State,PUNT RETURNS,Brandon,McDowell,LONG,2
+2397149,11/14/2015,FBS,Texas State,Georgia State,KICK RETURNS,Brandon,Smith,NO,4
+2397150,11/14/2015,FBS,Texas State,Georgia State,KICK RETURNS,Brandon,Smith,YDS,86
+2397151,11/14/2015,FBS,Texas State,Georgia State,KICK RETURNS,Brandon,Smith,AVG,21.5
+2397152,11/14/2015,FBS,Texas State,Georgia State,KICK RETURNS,Brandon,Smith,LONG,25

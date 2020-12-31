@@ -1,0 +1,125 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3424001,11/26/2016,FBS,Boston College,Wake Forest,RUSHING,Tyler,Rouse,ATT,1
+3424002,11/26/2016,FBS,Boston College,Wake Forest,RUSHING,Tyler,Rouse,YDS,27
+3424003,11/26/2016,FBS,Boston College,Wake Forest,RUSHING,Tyler,Rouse,TD,0
+3424004,11/26/2016,FBS,Boston College,Wake Forest,RUSHING,Tyler,Rouse,LONG,27
+3424005,11/26/2016,FBS,Boston College,Wake Forest,RUSHING,Davon,Jones,ATT,10
+3424006,11/26/2016,FBS,Boston College,Wake Forest,RUSHING,Davon,Jones,YDS,24
+3424007,11/26/2016,FBS,Boston College,Wake Forest,RUSHING,Davon,Jones,TD,0
+3424008,11/26/2016,FBS,Boston College,Wake Forest,RUSHING,Davon,Jones,LONG,7
+3424009,11/26/2016,FBS,Boston College,Wake Forest,RUSHING,Myles,Willis,ATT,5
+3424010,11/26/2016,FBS,Boston College,Wake Forest,RUSHING,Myles,Willis,YDS,21
+3424011,11/26/2016,FBS,Boston College,Wake Forest,RUSHING,Myles,Willis,TD,1
+3424012,11/26/2016,FBS,Boston College,Wake Forest,RUSHING,Myles,Willis,LONG,11
+3424013,11/26/2016,FBS,Boston College,Wake Forest,RUSHING,Patrick,Towles,ATT,10
+3424014,11/26/2016,FBS,Boston College,Wake Forest,RUSHING,Patrick,Towles,YDS,13
+3424015,11/26/2016,FBS,Boston College,Wake Forest,RUSHING,Patrick,Towles,TD,0
+3424016,11/26/2016,FBS,Boston College,Wake Forest,RUSHING,Patrick,Towles,LONG,14
+3424017,11/26/2016,FBS,Boston College,Wake Forest,RUSHING,Jon,Hilliman,ATT,6
+3424018,11/26/2016,FBS,Boston College,Wake Forest,RUSHING,Jon,Hilliman,YDS,8
+3424019,11/26/2016,FBS,Boston College,Wake Forest,RUSHING,Jon,Hilliman,TD,0
+3424020,11/26/2016,FBS,Boston College,Wake Forest,RUSHING,Jon,Hilliman,LONG,4
+3424021,11/26/2016,FBS,Boston College,Wake Forest,RUSHING,Jeff,Smith,ATT,5
+3424022,11/26/2016,FBS,Boston College,Wake Forest,RUSHING,Jeff,Smith,YDS,6
+3424023,11/26/2016,FBS,Boston College,Wake Forest,RUSHING,Jeff,Smith,TD,0
+3424024,11/26/2016,FBS,Boston College,Wake Forest,RUSHING,Jeff,Smith,LONG,6
+3424025,11/26/2016,FBS,Boston College,Wake Forest,RUSHING,,Team,ATT,2
+3424026,11/26/2016,FBS,Boston College,Wake Forest,RUSHING,,Team,YDS,-6
+3424027,11/26/2016,FBS,Boston College,Wake Forest,RUSHING,,Team,TD,0
+3424028,11/26/2016,FBS,Boston College,Wake Forest,RUSHING,,Team,LONG,-1
+3424029,11/26/2016,FBS,Boston College,Wake Forest,PASSING,Patrick,Towles,CP-ATT-INT,10-23-0
+3424030,11/26/2016,FBS,Boston College,Wake Forest,PASSING,Patrick,Towles,YDS,74
+3424031,11/26/2016,FBS,Boston College,Wake Forest,PASSING,Patrick,Towles,TD,1
+3424032,11/26/2016,FBS,Boston College,Wake Forest,PASSING,Patrick,Towles,LONG,16
+3424033,11/26/2016,FBS,Boston College,Wake Forest,RECEIVING,Tommy,Sweeney,REC,4
+3424034,11/26/2016,FBS,Boston College,Wake Forest,RECEIVING,Tommy,Sweeney,YDS,39
+3424035,11/26/2016,FBS,Boston College,Wake Forest,RECEIVING,Tommy,Sweeney,TD,1
+3424036,11/26/2016,FBS,Boston College,Wake Forest,RECEIVING,Tommy,Sweeney,LONG,16
+3424037,11/26/2016,FBS,Boston College,Wake Forest,RECEIVING,Jeff,Smith,REC,4
+3424038,11/26/2016,FBS,Boston College,Wake Forest,RECEIVING,Jeff,Smith,YDS,20
+3424039,11/26/2016,FBS,Boston College,Wake Forest,RECEIVING,Jeff,Smith,TD,0
+3424040,11/26/2016,FBS,Boston College,Wake Forest,RECEIVING,Jeff,Smith,LONG,9
+3424041,11/26/2016,FBS,Boston College,Wake Forest,RECEIVING,Michael,Walker,REC,1
+3424042,11/26/2016,FBS,Boston College,Wake Forest,RECEIVING,Michael,Walker,YDS,10
+3424043,11/26/2016,FBS,Boston College,Wake Forest,RECEIVING,Michael,Walker,TD,0
+3424044,11/26/2016,FBS,Boston College,Wake Forest,RECEIVING,Michael,Walker,LONG,10
+3424045,11/26/2016,FBS,Boston College,Wake Forest,RECEIVING,Charlie,Callinan,REC,1
+3424046,11/26/2016,FBS,Boston College,Wake Forest,RECEIVING,Charlie,Callinan,YDS,5
+3424047,11/26/2016,FBS,Boston College,Wake Forest,RECEIVING,Charlie,Callinan,TD,0
+3424048,11/26/2016,FBS,Boston College,Wake Forest,RECEIVING,Charlie,Callinan,LONG,5
+3424049,11/26/2016,FBS,Boston College,Wake Forest,KICKING,Mike,Knoll,FG-FGA,1/1
+3424050,11/26/2016,FBS,Boston College,Wake Forest,KICKING,Mike,Knoll,LONG,22
+3424051,11/26/2016,FBS,Boston College,Wake Forest,KICKING,Mike,Knoll,XP,2
+3424052,11/26/2016,FBS,Boston College,Wake Forest,KICKING,Mike,Knoll,PTS,5
+3424053,11/26/2016,FBS,Boston College,Wake Forest,PUNTING,Mike,Knoll,NO,11
+3424054,11/26/2016,FBS,Boston College,Wake Forest,PUNTING,Mike,Knoll,YDS,410
+3424055,11/26/2016,FBS,Boston College,Wake Forest,PUNTING,Mike,Knoll,AVG,37.3
+3424056,11/26/2016,FBS,Boston College,Wake Forest,PUNTING,Mike,Knoll,LONG,55
+3424057,11/26/2016,FBS,Boston College,Wake Forest,PUNT RETURNS,Tyler,Rouse,NO,2
+3424058,11/26/2016,FBS,Boston College,Wake Forest,PUNT RETURNS,Tyler,Rouse,YDS,31
+3424059,11/26/2016,FBS,Boston College,Wake Forest,PUNT RETURNS,Tyler,Rouse,AVG,15.5
+3424060,11/26/2016,FBS,Boston College,Wake Forest,PUNT RETURNS,Tyler,Rouse,LONG,31
+3424061,11/26/2016,FBS,Boston College,Wake Forest,PUNT RETURNS,Michael,Walker,NO,1
+3424062,11/26/2016,FBS,Boston College,Wake Forest,PUNT RETURNS,Michael,Walker,YDS,8
+3424063,11/26/2016,FBS,Boston College,Wake Forest,PUNT RETURNS,Michael,Walker,AVG,8.0
+3424064,11/26/2016,FBS,Boston College,Wake Forest,PUNT RETURNS,Michael,Walker,LONG,8
+3424065,11/26/2016,FBS,Boston College,Wake Forest,KICK RETURNS,Myles,Willis,NO,1
+3424066,11/26/2016,FBS,Boston College,Wake Forest,KICK RETURNS,Myles,Willis,YDS,28
+3424067,11/26/2016,FBS,Boston College,Wake Forest,KICK RETURNS,Myles,Willis,AVG,28.0
+3424068,11/26/2016,FBS,Boston College,Wake Forest,KICK RETURNS,Myles,Willis,LONG,28
+3424069,11/26/2016,FBS,Wake Forest,Boston College,RUSHING,John,Wolford,ATT,14
+3424070,11/26/2016,FBS,Wake Forest,Boston College,RUSHING,John,Wolford,YDS,69
+3424071,11/26/2016,FBS,Wake Forest,Boston College,RUSHING,John,Wolford,TD,0
+3424072,11/26/2016,FBS,Wake Forest,Boston College,RUSHING,John,Wolford,LONG,35
+3424073,11/26/2016,FBS,Wake Forest,Boston College,RUSHING,Cade,Carney,ATT,14
+3424074,11/26/2016,FBS,Wake Forest,Boston College,RUSHING,Cade,Carney,YDS,43
+3424075,11/26/2016,FBS,Wake Forest,Boston College,RUSHING,Cade,Carney,TD,0
+3424076,11/26/2016,FBS,Wake Forest,Boston College,RUSHING,Cade,Carney,LONG,11
+3424077,11/26/2016,FBS,Wake Forest,Boston College,RUSHING,Matt,Colburn,ATT,7
+3424078,11/26/2016,FBS,Wake Forest,Boston College,RUSHING,Matt,Colburn,YDS,38
+3424079,11/26/2016,FBS,Wake Forest,Boston College,RUSHING,Matt,Colburn,TD,0
+3424080,11/26/2016,FBS,Wake Forest,Boston College,RUSHING,Matt,Colburn,LONG,9
+3424081,11/26/2016,FBS,Wake Forest,Boston College,PASSING,John,Wolford,CP-ATT-INT,16-33-2
+3424082,11/26/2016,FBS,Wake Forest,Boston College,PASSING,John,Wolford,YDS,137
+3424083,11/26/2016,FBS,Wake Forest,Boston College,PASSING,John,Wolford,TD,2
+3424084,11/26/2016,FBS,Wake Forest,Boston College,PASSING,John,Wolford,LONG,37
+3424085,11/26/2016,FBS,Wake Forest,Boston College,RECEIVING,Cortez,Lewis,REC,4
+3424086,11/26/2016,FBS,Wake Forest,Boston College,RECEIVING,Cortez,Lewis,YDS,67
+3424087,11/26/2016,FBS,Wake Forest,Boston College,RECEIVING,Cortez,Lewis,TD,1
+3424088,11/26/2016,FBS,Wake Forest,Boston College,RECEIVING,Cortez,Lewis,LONG,37
+3424089,11/26/2016,FBS,Wake Forest,Boston College,RECEIVING,Cam,Serigne,REC,6
+3424090,11/26/2016,FBS,Wake Forest,Boston College,RECEIVING,Cam,Serigne,YDS,49
+3424091,11/26/2016,FBS,Wake Forest,Boston College,RECEIVING,Cam,Serigne,TD,1
+3424092,11/26/2016,FBS,Wake Forest,Boston College,RECEIVING,Cam,Serigne,LONG,15
+3424093,11/26/2016,FBS,Wake Forest,Boston College,RECEIVING,Tabari,Hines,REC,2
+3424094,11/26/2016,FBS,Wake Forest,Boston College,RECEIVING,Tabari,Hines,YDS,12
+3424095,11/26/2016,FBS,Wake Forest,Boston College,RECEIVING,Tabari,Hines,TD,0
+3424096,11/26/2016,FBS,Wake Forest,Boston College,RECEIVING,Tabari,Hines,LONG,7
+3424097,11/26/2016,FBS,Wake Forest,Boston College,RECEIVING,Chuck,Wade,REC,1
+3424098,11/26/2016,FBS,Wake Forest,Boston College,RECEIVING,Chuck,Wade,YDS,5
+3424099,11/26/2016,FBS,Wake Forest,Boston College,RECEIVING,Chuck,Wade,TD,0
+3424100,11/26/2016,FBS,Wake Forest,Boston College,RECEIVING,Chuck,Wade,LONG,5
+3424101,11/26/2016,FBS,Wake Forest,Boston College,RECEIVING,Cade,Carney,REC,1
+3424102,11/26/2016,FBS,Wake Forest,Boston College,RECEIVING,Cade,Carney,YDS,5
+3424103,11/26/2016,FBS,Wake Forest,Boston College,RECEIVING,Cade,Carney,TD,0
+3424104,11/26/2016,FBS,Wake Forest,Boston College,RECEIVING,Cade,Carney,LONG,5
+3424105,11/26/2016,FBS,Wake Forest,Boston College,RECEIVING,Alex,Bachman,REC,1
+3424106,11/26/2016,FBS,Wake Forest,Boston College,RECEIVING,Alex,Bachman,YDS,3
+3424107,11/26/2016,FBS,Wake Forest,Boston College,RECEIVING,Alex,Bachman,TD,0
+3424108,11/26/2016,FBS,Wake Forest,Boston College,RECEIVING,Alex,Bachman,LONG,3
+3424109,11/26/2016,FBS,Wake Forest,Boston College,RECEIVING,Tyler,Hayworth,REC,1
+3424110,11/26/2016,FBS,Wake Forest,Boston College,RECEIVING,Tyler,Hayworth,YDS,-4
+3424111,11/26/2016,FBS,Wake Forest,Boston College,RECEIVING,Tyler,Hayworth,TD,0
+3424112,11/26/2016,FBS,Wake Forest,Boston College,RECEIVING,Tyler,Hayworth,LONG,-4
+3424113,11/26/2016,FBS,Wake Forest,Boston College,KICKING,Mike,Weaver,FG-FGA,0/2
+3424114,11/26/2016,FBS,Wake Forest,Boston College,KICKING,Mike,Weaver,LONG,0
+3424115,11/26/2016,FBS,Wake Forest,Boston College,KICKING,Mike,Weaver,XP,2
+3424116,11/26/2016,FBS,Wake Forest,Boston College,KICKING,Mike,Weaver,PTS,2
+3424117,11/26/2016,FBS,Wake Forest,Boston College,PUNTING,Dom,Maggio,NO,7
+3424118,11/26/2016,FBS,Wake Forest,Boston College,PUNTING,Dom,Maggio,YDS,323
+3424119,11/26/2016,FBS,Wake Forest,Boston College,PUNTING,Dom,Maggio,AVG,46.1
+3424120,11/26/2016,FBS,Wake Forest,Boston College,PUNTING,Dom,Maggio,LONG,55
+3424121,11/26/2016,FBS,Wake Forest,Boston College,PUNT RETURNS,Jessie,Bates,NO,3
+3424122,11/26/2016,FBS,Wake Forest,Boston College,PUNT RETURNS,Jessie,Bates,YDS,-4
+3424123,11/26/2016,FBS,Wake Forest,Boston College,PUNT RETURNS,Jessie,Bates,AVG,-
+3424124,11/26/2016,FBS,Wake Forest,Boston College,PUNT RETURNS,Jessie,Bates,LONG,0

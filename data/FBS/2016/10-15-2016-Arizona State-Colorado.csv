@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3067001,10/15/2016,FBS,Arizona State,Colorado,RUSHING,Demario,Richard,ATT,10
+3067002,10/15/2016,FBS,Arizona State,Colorado,RUSHING,Demario,Richard,YDS,59
+3067003,10/15/2016,FBS,Arizona State,Colorado,RUSHING,Demario,Richard,TD,0
+3067004,10/15/2016,FBS,Arizona State,Colorado,RUSHING,Demario,Richard,LONG,37
+3067005,10/15/2016,FBS,Arizona State,Colorado,RUSHING,Kalen,Ballage,ATT,7
+3067006,10/15/2016,FBS,Arizona State,Colorado,RUSHING,Kalen,Ballage,YDS,14
+3067007,10/15/2016,FBS,Arizona State,Colorado,RUSHING,Kalen,Ballage,TD,0
+3067008,10/15/2016,FBS,Arizona State,Colorado,RUSHING,Kalen,Ballage,LONG,5
+3067009,10/15/2016,FBS,Arizona State,Colorado,RUSHING,Nick,Ralston,ATT,2
+3067010,10/15/2016,FBS,Arizona State,Colorado,RUSHING,Nick,Ralston,YDS,8
+3067011,10/15/2016,FBS,Arizona State,Colorado,RUSHING,Nick,Ralston,TD,0
+3067012,10/15/2016,FBS,Arizona State,Colorado,RUSHING,Nick,Ralston,LONG,5
+3067013,10/15/2016,FBS,Arizona State,Colorado,RUSHING,Stephon,McCray,ATT,0
+3067014,10/15/2016,FBS,Arizona State,Colorado,RUSHING,Stephon,McCray,YDS,0
+3067015,10/15/2016,FBS,Arizona State,Colorado,RUSHING,Stephon,McCray,TD,0
+3067016,10/15/2016,FBS,Arizona State,Colorado,RUSHING,Stephon,McCray,LONG,0
+3067017,10/15/2016,FBS,Arizona State,Colorado,RUSHING,Manny,Wilkins,ATT,9
+3067018,10/15/2016,FBS,Arizona State,Colorado,RUSHING,Manny,Wilkins,YDS,-31
+3067019,10/15/2016,FBS,Arizona State,Colorado,RUSHING,Manny,Wilkins,TD,0
+3067020,10/15/2016,FBS,Arizona State,Colorado,RUSHING,Manny,Wilkins,LONG,7
+3067021,10/15/2016,FBS,Arizona State,Colorado,PASSING,Manny,Wilkins,CP-ATT-INT,13-35-1
+3067022,10/15/2016,FBS,Arizona State,Colorado,PASSING,Manny,Wilkins,YDS,149
+3067023,10/15/2016,FBS,Arizona State,Colorado,PASSING,Manny,Wilkins,TD,1
+3067024,10/15/2016,FBS,Arizona State,Colorado,PASSING,Manny,Wilkins,LONG,44
+3067025,10/15/2016,FBS,Arizona State,Colorado,RECEIVING,Tim,White,REC,5
+3067026,10/15/2016,FBS,Arizona State,Colorado,RECEIVING,Tim,White,YDS,97
+3067027,10/15/2016,FBS,Arizona State,Colorado,RECEIVING,Tim,White,TD,0
+3067028,10/15/2016,FBS,Arizona State,Colorado,RECEIVING,Tim,White,LONG,44
+3067029,10/15/2016,FBS,Arizona State,Colorado,RECEIVING,Demario,Richard,REC,1
+3067030,10/15/2016,FBS,Arizona State,Colorado,RECEIVING,Demario,Richard,YDS,14
+3067031,10/15/2016,FBS,Arizona State,Colorado,RECEIVING,Demario,Richard,TD,0
+3067032,10/15/2016,FBS,Arizona State,Colorado,RECEIVING,Demario,Richard,LONG,14
+3067033,10/15/2016,FBS,Arizona State,Colorado,RECEIVING,N'Keal,Harry,REC,3
+3067034,10/15/2016,FBS,Arizona State,Colorado,RECEIVING,N'Keal,Harry,YDS,13
+3067035,10/15/2016,FBS,Arizona State,Colorado,RECEIVING,N'Keal,Harry,TD,0
+3067036,10/15/2016,FBS,Arizona State,Colorado,RECEIVING,N'Keal,Harry,LONG,11
+3067037,10/15/2016,FBS,Arizona State,Colorado,RECEIVING,Cameron,Smith,REC,1
+3067038,10/15/2016,FBS,Arizona State,Colorado,RECEIVING,Cameron,Smith,YDS,13
+3067039,10/15/2016,FBS,Arizona State,Colorado,RECEIVING,Cameron,Smith,TD,0
+3067040,10/15/2016,FBS,Arizona State,Colorado,RECEIVING,Cameron,Smith,LONG,13
+3067041,10/15/2016,FBS,Arizona State,Colorado,RECEIVING,Kody,Kohl,REC,1
+3067042,10/15/2016,FBS,Arizona State,Colorado,RECEIVING,Kody,Kohl,YDS,5
+3067043,10/15/2016,FBS,Arizona State,Colorado,RECEIVING,Kody,Kohl,TD,1
+3067044,10/15/2016,FBS,Arizona State,Colorado,RECEIVING,Kody,Kohl,LONG,5
+3067045,10/15/2016,FBS,Arizona State,Colorado,RECEIVING,Ryan,Jenkins,REC,1
+3067046,10/15/2016,FBS,Arizona State,Colorado,RECEIVING,Ryan,Jenkins,YDS,4
+3067047,10/15/2016,FBS,Arizona State,Colorado,RECEIVING,Ryan,Jenkins,TD,0
+3067048,10/15/2016,FBS,Arizona State,Colorado,RECEIVING,Ryan,Jenkins,LONG,4
+3067049,10/15/2016,FBS,Arizona State,Colorado,RECEIVING,Kalen,Ballage,REC,1
+3067050,10/15/2016,FBS,Arizona State,Colorado,RECEIVING,Kalen,Ballage,YDS,3
+3067051,10/15/2016,FBS,Arizona State,Colorado,RECEIVING,Kalen,Ballage,TD,0
+3067052,10/15/2016,FBS,Arizona State,Colorado,RECEIVING,Kalen,Ballage,LONG,3
+3067053,10/15/2016,FBS,Arizona State,Colorado,KICKING,Zane,Gonzalez,FG-FGA,3/3
+3067054,10/15/2016,FBS,Arizona State,Colorado,KICKING,Zane,Gonzalez,LONG,59
+3067055,10/15/2016,FBS,Arizona State,Colorado,KICKING,Zane,Gonzalez,XP,1
+3067056,10/15/2016,FBS,Arizona State,Colorado,KICKING,Zane,Gonzalez,PTS,10
+3067057,10/15/2016,FBS,Arizona State,Colorado,PUNTING,Matt,Haack,NO,10
+3067058,10/15/2016,FBS,Arizona State,Colorado,PUNTING,Matt,Haack,YDS,521
+3067059,10/15/2016,FBS,Arizona State,Colorado,PUNTING,Matt,Haack,AVG,52.1
+3067060,10/15/2016,FBS,Arizona State,Colorado,PUNTING,Matt,Haack,LONG,76
+3067061,10/15/2016,FBS,Arizona State,Colorado,PUNT RETURNS,Tim,White,NO,5
+3067062,10/15/2016,FBS,Arizona State,Colorado,PUNT RETURNS,Tim,White,YDS,35
+3067063,10/15/2016,FBS,Arizona State,Colorado,PUNT RETURNS,Tim,White,AVG,7.0
+3067064,10/15/2016,FBS,Arizona State,Colorado,PUNT RETURNS,Tim,White,LONG,20
+3067065,10/15/2016,FBS,Arizona State,Colorado,KICK RETURNS,Tim,White,NO,2
+3067066,10/15/2016,FBS,Arizona State,Colorado,KICK RETURNS,Tim,White,YDS,38
+3067067,10/15/2016,FBS,Arizona State,Colorado,KICK RETURNS,Tim,White,AVG,19.0
+3067068,10/15/2016,FBS,Arizona State,Colorado,KICK RETURNS,Tim,White,LONG,20
+3067069,10/15/2016,FBS,Arizona State,Colorado,KICK RETURNS,Kalen,Ballage,NO,1
+3067070,10/15/2016,FBS,Arizona State,Colorado,KICK RETURNS,Kalen,Ballage,YDS,28
+3067071,10/15/2016,FBS,Arizona State,Colorado,KICK RETURNS,Kalen,Ballage,AVG,28.0
+3067072,10/15/2016,FBS,Arizona State,Colorado,KICK RETURNS,Kalen,Ballage,LONG,28
+3067073,10/15/2016,FBS,Colorado,Arizona State,RUSHING,Phillip,Lindsay,ATT,26
+3067074,10/15/2016,FBS,Colorado,Arizona State,RUSHING,Phillip,Lindsay,YDS,219
+3067075,10/15/2016,FBS,Colorado,Arizona State,RUSHING,Phillip,Lindsay,TD,3
+3067076,10/15/2016,FBS,Colorado,Arizona State,RUSHING,Phillip,Lindsay,LONG,75
+3067077,10/15/2016,FBS,Colorado,Arizona State,RUSHING,Kyle,Evans,ATT,11
+3067078,10/15/2016,FBS,Colorado,Arizona State,RUSHING,Kyle,Evans,YDS,59
+3067079,10/15/2016,FBS,Colorado,Arizona State,RUSHING,Kyle,Evans,TD,1
+3067080,10/15/2016,FBS,Colorado,Arizona State,RUSHING,Kyle,Evans,LONG,16
+3067081,10/15/2016,FBS,Colorado,Arizona State,RUSHING,Sefo,Liufau,ATT,14
+3067082,10/15/2016,FBS,Colorado,Arizona State,RUSHING,Sefo,Liufau,YDS,38
+3067083,10/15/2016,FBS,Colorado,Arizona State,RUSHING,Sefo,Liufau,TD,1
+3067084,10/15/2016,FBS,Colorado,Arizona State,RUSHING,Sefo,Liufau,LONG,9
+3067085,10/15/2016,FBS,Colorado,Arizona State,RUSHING,,Team,ATT,1
+3067086,10/15/2016,FBS,Colorado,Arizona State,RUSHING,,Team,YDS,-1
+3067087,10/15/2016,FBS,Colorado,Arizona State,RUSHING,,Team,TD,0
+3067088,10/15/2016,FBS,Colorado,Arizona State,RUSHING,,Team,LONG,-1
+3067089,10/15/2016,FBS,Colorado,Arizona State,PASSING,Sefo,Liufau,CP-ATT-INT,23-31-0
+3067090,10/15/2016,FBS,Colorado,Arizona State,PASSING,Sefo,Liufau,YDS,265
+3067091,10/15/2016,FBS,Colorado,Arizona State,PASSING,Sefo,Liufau,TD,0
+3067092,10/15/2016,FBS,Colorado,Arizona State,PASSING,Sefo,Liufau,LONG,66
+3067093,10/15/2016,FBS,Colorado,Arizona State,PASSING,Jay,MacIntyre,CP-ATT-INT,0-1-0
+3067094,10/15/2016,FBS,Colorado,Arizona State,PASSING,Jay,MacIntyre,YDS,0
+3067095,10/15/2016,FBS,Colorado,Arizona State,PASSING,Jay,MacIntyre,TD,0
+3067096,10/15/2016,FBS,Colorado,Arizona State,PASSING,Jay,MacIntyre,LONG,0
+3067097,10/15/2016,FBS,Colorado,Arizona State,RECEIVING,Bryce,Bobo,REC,6
+3067098,10/15/2016,FBS,Colorado,Arizona State,RECEIVING,Bryce,Bobo,YDS,110
+3067099,10/15/2016,FBS,Colorado,Arizona State,RECEIVING,Bryce,Bobo,TD,0
+3067100,10/15/2016,FBS,Colorado,Arizona State,RECEIVING,Bryce,Bobo,LONG,66
+3067101,10/15/2016,FBS,Colorado,Arizona State,RECEIVING,Devin,Ross,REC,6
+3067102,10/15/2016,FBS,Colorado,Arizona State,RECEIVING,Devin,Ross,YDS,46
+3067103,10/15/2016,FBS,Colorado,Arizona State,RECEIVING,Devin,Ross,TD,0
+3067104,10/15/2016,FBS,Colorado,Arizona State,RECEIVING,Devin,Ross,LONG,15
+3067105,10/15/2016,FBS,Colorado,Arizona State,RECEIVING,Jay,MacIntyre,REC,4
+3067106,10/15/2016,FBS,Colorado,Arizona State,RECEIVING,Jay,MacIntyre,YDS,37
+3067107,10/15/2016,FBS,Colorado,Arizona State,RECEIVING,Jay,MacIntyre,TD,0
+3067108,10/15/2016,FBS,Colorado,Arizona State,RECEIVING,Jay,MacIntyre,LONG,26
+3067109,10/15/2016,FBS,Colorado,Arizona State,RECEIVING,Kyle,Evans,REC,1
+3067110,10/15/2016,FBS,Colorado,Arizona State,RECEIVING,Kyle,Evans,YDS,32
+3067111,10/15/2016,FBS,Colorado,Arizona State,RECEIVING,Kyle,Evans,TD,0
+3067112,10/15/2016,FBS,Colorado,Arizona State,RECEIVING,Kyle,Evans,LONG,32
+3067113,10/15/2016,FBS,Colorado,Arizona State,RECEIVING,Phillip,Lindsay,REC,4
+3067114,10/15/2016,FBS,Colorado,Arizona State,RECEIVING,Phillip,Lindsay,YDS,20
+3067115,10/15/2016,FBS,Colorado,Arizona State,RECEIVING,Phillip,Lindsay,TD,0
+3067116,10/15/2016,FBS,Colorado,Arizona State,RECEIVING,Phillip,Lindsay,LONG,15
+3067117,10/15/2016,FBS,Colorado,Arizona State,RECEIVING,Shay,Fields,REC,2
+3067118,10/15/2016,FBS,Colorado,Arizona State,RECEIVING,Shay,Fields,YDS,20
+3067119,10/15/2016,FBS,Colorado,Arizona State,RECEIVING,Shay,Fields,TD,0
+3067120,10/15/2016,FBS,Colorado,Arizona State,RECEIVING,Shay,Fields,LONG,11
+3067121,10/15/2016,FBS,Colorado,Arizona State,KICKING,Davis,Price,FG-FGA,1/2
+3067122,10/15/2016,FBS,Colorado,Arizona State,KICKING,Davis,Price,LONG,20
+3067123,10/15/2016,FBS,Colorado,Arizona State,KICKING,Davis,Price,XP,3
+3067124,10/15/2016,FBS,Colorado,Arizona State,KICKING,Davis,Price,PTS,6
+3067125,10/15/2016,FBS,Colorado,Arizona State,KICKING,Chris,Graham,FG-FGA,1/1
+3067126,10/15/2016,FBS,Colorado,Arizona State,KICKING,Chris,Graham,LONG,36
+3067127,10/15/2016,FBS,Colorado,Arizona State,KICKING,Chris,Graham,XP,1
+3067128,10/15/2016,FBS,Colorado,Arizona State,KICKING,Chris,Graham,PTS,4
+3067129,10/15/2016,FBS,Colorado,Arizona State,PUNTING,Alex,Kinney,NO,6
+3067130,10/15/2016,FBS,Colorado,Arizona State,PUNTING,Alex,Kinney,YDS,266
+3067131,10/15/2016,FBS,Colorado,Arizona State,PUNTING,Alex,Kinney,AVG,44.3
+3067132,10/15/2016,FBS,Colorado,Arizona State,PUNTING,Alex,Kinney,LONG,47
+3067133,10/15/2016,FBS,Colorado,Arizona State,PUNT RETURNS,Jay,MacIntyre,NO,4
+3067134,10/15/2016,FBS,Colorado,Arizona State,PUNT RETURNS,Jay,MacIntyre,YDS,16
+3067135,10/15/2016,FBS,Colorado,Arizona State,PUNT RETURNS,Jay,MacIntyre,AVG,4.0
+3067136,10/15/2016,FBS,Colorado,Arizona State,PUNT RETURNS,Jay,MacIntyre,LONG,9

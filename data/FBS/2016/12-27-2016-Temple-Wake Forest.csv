@@ -1,0 +1,145 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3482001,12/27/2016,FBS,Temple,Wake Forest,RUSHING,Jahad,Thomas,ATT,7
+3482002,12/27/2016,FBS,Temple,Wake Forest,RUSHING,Jahad,Thomas,YDS,35
+3482003,12/27/2016,FBS,Temple,Wake Forest,RUSHING,Jahad,Thomas,TD,0
+3482004,12/27/2016,FBS,Temple,Wake Forest,RUSHING,Jahad,Thomas,LONG,23
+3482005,12/27/2016,FBS,Temple,Wake Forest,RUSHING,Nick,Sharga,ATT,1
+3482006,12/27/2016,FBS,Temple,Wake Forest,RUSHING,Nick,Sharga,YDS,1
+3482007,12/27/2016,FBS,Temple,Wake Forest,RUSHING,Nick,Sharga,TD,0
+3482008,12/27/2016,FBS,Temple,Wake Forest,RUSHING,Nick,Sharga,LONG,1
+3482009,12/27/2016,FBS,Temple,Wake Forest,RUSHING,Ryquell,Armstead,ATT,7
+3482010,12/27/2016,FBS,Temple,Wake Forest,RUSHING,Ryquell,Armstead,YDS,1
+3482011,12/27/2016,FBS,Temple,Wake Forest,RUSHING,Ryquell,Armstead,TD,0
+3482012,12/27/2016,FBS,Temple,Wake Forest,RUSHING,Ryquell,Armstead,LONG,4
+3482013,12/27/2016,FBS,Temple,Wake Forest,RUSHING,Isaiah,Wright,ATT,1
+3482014,12/27/2016,FBS,Temple,Wake Forest,RUSHING,Isaiah,Wright,YDS,-3
+3482015,12/27/2016,FBS,Temple,Wake Forest,RUSHING,Isaiah,Wright,TD,0
+3482016,12/27/2016,FBS,Temple,Wake Forest,RUSHING,Isaiah,Wright,LONG,-3
+3482017,12/27/2016,FBS,Temple,Wake Forest,RUSHING,P.J.,Walker,ATT,7
+3482018,12/27/2016,FBS,Temple,Wake Forest,RUSHING,P.J.,Walker,YDS,-54
+3482019,12/27/2016,FBS,Temple,Wake Forest,RUSHING,P.J.,Walker,TD,0
+3482020,12/27/2016,FBS,Temple,Wake Forest,RUSHING,P.J.,Walker,LONG,5
+3482021,12/27/2016,FBS,Temple,Wake Forest,PASSING,P.J.,Walker,CP-ATT-INT,28-49-1
+3482022,12/27/2016,FBS,Temple,Wake Forest,PASSING,P.J.,Walker,YDS,396
+3482023,12/27/2016,FBS,Temple,Wake Forest,PASSING,P.J.,Walker,TD,2
+3482024,12/27/2016,FBS,Temple,Wake Forest,PASSING,P.J.,Walker,LONG,58
+3482025,12/27/2016,FBS,Temple,Wake Forest,RECEIVING,Adonis,Jennings,REC,7
+3482026,12/27/2016,FBS,Temple,Wake Forest,RECEIVING,Adonis,Jennings,YDS,154
+3482027,12/27/2016,FBS,Temple,Wake Forest,RECEIVING,Adonis,Jennings,TD,2
+3482028,12/27/2016,FBS,Temple,Wake Forest,RECEIVING,Adonis,Jennings,LONG,58
+3482029,12/27/2016,FBS,Temple,Wake Forest,RECEIVING,Ventell,Bryant,REC,11
+3482030,12/27/2016,FBS,Temple,Wake Forest,RECEIVING,Ventell,Bryant,YDS,151
+3482031,12/27/2016,FBS,Temple,Wake Forest,RECEIVING,Ventell,Bryant,TD,0
+3482032,12/27/2016,FBS,Temple,Wake Forest,RECEIVING,Ventell,Bryant,LONG,35
+3482033,12/27/2016,FBS,Temple,Wake Forest,RECEIVING,Keith,Kirkwood,REC,6
+3482034,12/27/2016,FBS,Temple,Wake Forest,RECEIVING,Keith,Kirkwood,YDS,81
+3482035,12/27/2016,FBS,Temple,Wake Forest,RECEIVING,Keith,Kirkwood,TD,0
+3482036,12/27/2016,FBS,Temple,Wake Forest,RECEIVING,Keith,Kirkwood,LONG,23
+3482037,12/27/2016,FBS,Temple,Wake Forest,RECEIVING,Isaiah,Wright,REC,1
+3482038,12/27/2016,FBS,Temple,Wake Forest,RECEIVING,Isaiah,Wright,YDS,7
+3482039,12/27/2016,FBS,Temple,Wake Forest,RECEIVING,Isaiah,Wright,TD,0
+3482040,12/27/2016,FBS,Temple,Wake Forest,RECEIVING,Isaiah,Wright,LONG,7
+3482041,12/27/2016,FBS,Temple,Wake Forest,RECEIVING,Ryquell,Armstead,REC,1
+3482042,12/27/2016,FBS,Temple,Wake Forest,RECEIVING,Ryquell,Armstead,YDS,7
+3482043,12/27/2016,FBS,Temple,Wake Forest,RECEIVING,Ryquell,Armstead,TD,0
+3482044,12/27/2016,FBS,Temple,Wake Forest,RECEIVING,Ryquell,Armstead,LONG,7
+3482045,12/27/2016,FBS,Temple,Wake Forest,RECEIVING,Romond,Deloatch,REC,1
+3482046,12/27/2016,FBS,Temple,Wake Forest,RECEIVING,Romond,Deloatch,YDS,4
+3482047,12/27/2016,FBS,Temple,Wake Forest,RECEIVING,Romond,Deloatch,TD,0
+3482048,12/27/2016,FBS,Temple,Wake Forest,RECEIVING,Romond,Deloatch,LONG,4
+3482049,12/27/2016,FBS,Temple,Wake Forest,RECEIVING,Jahad,Thomas,REC,1
+3482050,12/27/2016,FBS,Temple,Wake Forest,RECEIVING,Jahad,Thomas,YDS,-8
+3482051,12/27/2016,FBS,Temple,Wake Forest,RECEIVING,Jahad,Thomas,TD,0
+3482052,12/27/2016,FBS,Temple,Wake Forest,RECEIVING,Jahad,Thomas,LONG,-8
+3482053,12/27/2016,FBS,Temple,Wake Forest,KICKING,Aaron,Boumerhi,FG-FGA,4/4
+3482054,12/27/2016,FBS,Temple,Wake Forest,KICKING,Aaron,Boumerhi,LONG,45
+3482055,12/27/2016,FBS,Temple,Wake Forest,KICKING,Aaron,Boumerhi,XP,2
+3482056,12/27/2016,FBS,Temple,Wake Forest,KICKING,Aaron,Boumerhi,PTS,14
+3482057,12/27/2016,FBS,Temple,Wake Forest,PUNTING,Alex,Starzyk,NO,5
+3482058,12/27/2016,FBS,Temple,Wake Forest,PUNTING,Alex,Starzyk,YDS,161
+3482059,12/27/2016,FBS,Temple,Wake Forest,PUNTING,Alex,Starzyk,AVG,32.2
+3482060,12/27/2016,FBS,Temple,Wake Forest,PUNTING,Alex,Starzyk,LONG,37
+3482061,12/27/2016,FBS,Temple,Wake Forest,PUNT RETURNS,Jyquis,Thomas,NO,0
+3482062,12/27/2016,FBS,Temple,Wake Forest,PUNT RETURNS,Jyquis,Thomas,YDS,0
+3482063,12/27/2016,FBS,Temple,Wake Forest,PUNT RETURNS,Jyquis,Thomas,AVG,-
+3482064,12/27/2016,FBS,Temple,Wake Forest,PUNT RETURNS,Jyquis,Thomas,LONG,0
+3482065,12/27/2016,FBS,Temple,Wake Forest,PUNT RETURNS,Jahad,Thomas,NO,0
+3482066,12/27/2016,FBS,Temple,Wake Forest,PUNT RETURNS,Jahad,Thomas,YDS,0
+3482067,12/27/2016,FBS,Temple,Wake Forest,PUNT RETURNS,Jahad,Thomas,AVG,-
+3482068,12/27/2016,FBS,Temple,Wake Forest,PUNT RETURNS,Jahad,Thomas,LONG,0
+3482069,12/27/2016,FBS,Temple,Wake Forest,PUNT RETURNS,Sean,Chandler,NO,1
+3482070,12/27/2016,FBS,Temple,Wake Forest,PUNT RETURNS,Sean,Chandler,YDS,-1
+3482071,12/27/2016,FBS,Temple,Wake Forest,PUNT RETURNS,Sean,Chandler,AVG,-
+3482072,12/27/2016,FBS,Temple,Wake Forest,PUNT RETURNS,Sean,Chandler,LONG,-1
+3482073,12/27/2016,FBS,Temple,Wake Forest,KICK RETURNS,Isaiah,Wright,NO,6
+3482074,12/27/2016,FBS,Temple,Wake Forest,KICK RETURNS,Isaiah,Wright,YDS,169
+3482075,12/27/2016,FBS,Temple,Wake Forest,KICK RETURNS,Isaiah,Wright,AVG,28.2
+3482076,12/27/2016,FBS,Temple,Wake Forest,KICK RETURNS,Isaiah,Wright,LONG,47
+3482077,12/27/2016,FBS,Wake Forest,Temple,RUSHING,Cade,Carney,ATT,17
+3482078,12/27/2016,FBS,Wake Forest,Temple,RUSHING,Cade,Carney,YDS,71
+3482079,12/27/2016,FBS,Wake Forest,Temple,RUSHING,Cade,Carney,TD,1
+3482080,12/27/2016,FBS,Wake Forest,Temple,RUSHING,Cade,Carney,LONG,11
+3482081,12/27/2016,FBS,Wake Forest,Temple,RUSHING,Matt,Colburn,ATT,14
+3482082,12/27/2016,FBS,Wake Forest,Temple,RUSHING,Matt,Colburn,YDS,60
+3482083,12/27/2016,FBS,Wake Forest,Temple,RUSHING,Matt,Colburn,TD,1
+3482084,12/27/2016,FBS,Wake Forest,Temple,RUSHING,Matt,Colburn,LONG,13
+3482085,12/27/2016,FBS,Wake Forest,Temple,RUSHING,John,Wolford,ATT,9
+3482086,12/27/2016,FBS,Wake Forest,Temple,RUSHING,John,Wolford,YDS,-2
+3482087,12/27/2016,FBS,Wake Forest,Temple,RUSHING,John,Wolford,TD,0
+3482088,12/27/2016,FBS,Wake Forest,Temple,RUSHING,John,Wolford,LONG,8
+3482089,12/27/2016,FBS,Wake Forest,Temple,RUSHING,,Team,ATT,3
+3482090,12/27/2016,FBS,Wake Forest,Temple,RUSHING,,Team,YDS,-4
+3482091,12/27/2016,FBS,Wake Forest,Temple,RUSHING,,Team,TD,0
+3482092,12/27/2016,FBS,Wake Forest,Temple,RUSHING,,Team,LONG,-1
+3482093,12/27/2016,FBS,Wake Forest,Temple,PASSING,John,Wolford,CP-ATT-INT,10-19-1
+3482094,12/27/2016,FBS,Wake Forest,Temple,PASSING,John,Wolford,YDS,183
+3482095,12/27/2016,FBS,Wake Forest,Temple,PASSING,John,Wolford,TD,2
+3482096,12/27/2016,FBS,Wake Forest,Temple,PASSING,John,Wolford,LONG,41
+3482097,12/27/2016,FBS,Wake Forest,Temple,PASSING,Kyle,Kearns,CP-ATT-INT,4-10-1
+3482098,12/27/2016,FBS,Wake Forest,Temple,PASSING,Kyle,Kearns,YDS,60
+3482099,12/27/2016,FBS,Wake Forest,Temple,PASSING,Kyle,Kearns,TD,0
+3482100,12/27/2016,FBS,Wake Forest,Temple,PASSING,Kyle,Kearns,LONG,21
+3482101,12/27/2016,FBS,Wake Forest,Temple,RECEIVING,Cam,Serigne,REC,3
+3482102,12/27/2016,FBS,Wake Forest,Temple,RECEIVING,Cam,Serigne,YDS,68
+3482103,12/27/2016,FBS,Wake Forest,Temple,RECEIVING,Cam,Serigne,TD,1
+3482104,12/27/2016,FBS,Wake Forest,Temple,RECEIVING,Cam,Serigne,LONG,41
+3482105,12/27/2016,FBS,Wake Forest,Temple,RECEIVING,Scotty,Washington,REC,5
+3482106,12/27/2016,FBS,Wake Forest,Temple,RECEIVING,Scotty,Washington,YDS,57
+3482107,12/27/2016,FBS,Wake Forest,Temple,RECEIVING,Scotty,Washington,TD,0
+3482108,12/27/2016,FBS,Wake Forest,Temple,RECEIVING,Scotty,Washington,LONG,21
+3482109,12/27/2016,FBS,Wake Forest,Temple,RECEIVING,Tabari,Hines,REC,3
+3482110,12/27/2016,FBS,Wake Forest,Temple,RECEIVING,Tabari,Hines,YDS,46
+3482111,12/27/2016,FBS,Wake Forest,Temple,RECEIVING,Tabari,Hines,TD,1
+3482112,12/27/2016,FBS,Wake Forest,Temple,RECEIVING,Tabari,Hines,LONG,20
+3482113,12/27/2016,FBS,Wake Forest,Temple,RECEIVING,Chuck,Wade,REC,1
+3482114,12/27/2016,FBS,Wake Forest,Temple,RECEIVING,Chuck,Wade,YDS,31
+3482115,12/27/2016,FBS,Wake Forest,Temple,RECEIVING,Chuck,Wade,TD,0
+3482116,12/27/2016,FBS,Wake Forest,Temple,RECEIVING,Chuck,Wade,LONG,31
+3482117,12/27/2016,FBS,Wake Forest,Temple,RECEIVING,Matt,Colburn,REC,1
+3482118,12/27/2016,FBS,Wake Forest,Temple,RECEIVING,Matt,Colburn,YDS,21
+3482119,12/27/2016,FBS,Wake Forest,Temple,RECEIVING,Matt,Colburn,TD,0
+3482120,12/27/2016,FBS,Wake Forest,Temple,RECEIVING,Matt,Colburn,LONG,21
+3482121,12/27/2016,FBS,Wake Forest,Temple,RECEIVING,Alex,Bachman,REC,1
+3482122,12/27/2016,FBS,Wake Forest,Temple,RECEIVING,Alex,Bachman,YDS,20
+3482123,12/27/2016,FBS,Wake Forest,Temple,RECEIVING,Alex,Bachman,TD,0
+3482124,12/27/2016,FBS,Wake Forest,Temple,RECEIVING,Alex,Bachman,LONG,20
+3482125,12/27/2016,FBS,Wake Forest,Temple,KICKING,Mike,Weaver,FG-FGA,2/2
+3482126,12/27/2016,FBS,Wake Forest,Temple,KICKING,Mike,Weaver,LONG,30
+3482127,12/27/2016,FBS,Wake Forest,Temple,KICKING,Mike,Weaver,XP,4
+3482128,12/27/2016,FBS,Wake Forest,Temple,KICKING,Mike,Weaver,PTS,10
+3482129,12/27/2016,FBS,Wake Forest,Temple,PUNTING,Dom,Maggio,NO,5
+3482130,12/27/2016,FBS,Wake Forest,Temple,PUNTING,Dom,Maggio,YDS,173
+3482131,12/27/2016,FBS,Wake Forest,Temple,PUNTING,Dom,Maggio,AVG,34.6
+3482132,12/27/2016,FBS,Wake Forest,Temple,PUNTING,Dom,Maggio,LONG,52
+3482133,12/27/2016,FBS,Wake Forest,Temple,PUNT RETURNS,Jessie,Bates,NO,3
+3482134,12/27/2016,FBS,Wake Forest,Temple,PUNT RETURNS,Jessie,Bates,YDS,2
+3482135,12/27/2016,FBS,Wake Forest,Temple,PUNT RETURNS,Jessie,Bates,AVG,0.7
+3482136,12/27/2016,FBS,Wake Forest,Temple,PUNT RETURNS,Jessie,Bates,LONG,2
+3482137,12/27/2016,FBS,Wake Forest,Temple,KICK RETURNS,John,Armstrong,NO,4
+3482138,12/27/2016,FBS,Wake Forest,Temple,KICK RETURNS,John,Armstrong,YDS,133
+3482139,12/27/2016,FBS,Wake Forest,Temple,KICK RETURNS,John,Armstrong,AVG,33.2
+3482140,12/27/2016,FBS,Wake Forest,Temple,KICK RETURNS,John,Armstrong,LONG,80
+3482141,12/27/2016,FBS,Wake Forest,Temple,KICK RETURNS,Grant,Dawson,NO,1
+3482142,12/27/2016,FBS,Wake Forest,Temple,KICK RETURNS,Grant,Dawson,YDS,1
+3482143,12/27/2016,FBS,Wake Forest,Temple,KICK RETURNS,Grant,Dawson,AVG,1.0
+3482144,12/27/2016,FBS,Wake Forest,Temple,KICK RETURNS,Grant,Dawson,LONG,1

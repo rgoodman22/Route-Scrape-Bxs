@@ -1,0 +1,129 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3789001,9/23/2017,FBS,Liberty,Jacksonville St.,RUSHING,Carrington,Mosley,ATT,14
+3789002,9/23/2017,FBS,Liberty,Jacksonville St.,RUSHING,Carrington,Mosley,YDS,36
+3789003,9/23/2017,FBS,Liberty,Jacksonville St.,RUSHING,Carrington,Mosley,TD,0
+3789004,9/23/2017,FBS,Liberty,Jacksonville St.,RUSHING,Carrington,Mosley,LONG,11
+3789005,9/23/2017,FBS,Liberty,Jacksonville St.,RUSHING,Frankie,Hickson,ATT,10
+3789006,9/23/2017,FBS,Liberty,Jacksonville St.,RUSHING,Frankie,Hickson,YDS,22
+3789007,9/23/2017,FBS,Liberty,Jacksonville St.,RUSHING,Frankie,Hickson,TD,0
+3789008,9/23/2017,FBS,Liberty,Jacksonville St.,RUSHING,Frankie,Hickson,LONG,5
+3789009,9/23/2017,FBS,Liberty,Jacksonville St.,RUSHING,Kentory,Matthews,ATT,1
+3789010,9/23/2017,FBS,Liberty,Jacksonville St.,RUSHING,Kentory,Matthews,YDS,-8
+3789011,9/23/2017,FBS,Liberty,Jacksonville St.,RUSHING,Kentory,Matthews,TD,0
+3789012,9/23/2017,FBS,Liberty,Jacksonville St.,RUSHING,Kentory,Matthews,LONG,0
+3789013,9/23/2017,FBS,Liberty,Jacksonville St.,RUSHING,Stephen,Calvert,ATT,2
+3789014,9/23/2017,FBS,Liberty,Jacksonville St.,RUSHING,Stephen,Calvert,YDS,-19
+3789015,9/23/2017,FBS,Liberty,Jacksonville St.,RUSHING,Stephen,Calvert,TD,0
+3789016,9/23/2017,FBS,Liberty,Jacksonville St.,RUSHING,Stephen,Calvert,LONG,0
+3789017,9/23/2017,FBS,Liberty,Jacksonville St.,PASSING,Stephen,Calvert,CP-ATT-INT,22-47-1
+3789018,9/23/2017,FBS,Liberty,Jacksonville St.,PASSING,Stephen,Calvert,YDS,285
+3789019,9/23/2017,FBS,Liberty,Jacksonville St.,PASSING,Stephen,Calvert,TD,1
+3789020,9/23/2017,FBS,Liberty,Jacksonville St.,PASSING,Stephen,Calvert,LONG,65
+3789021,9/23/2017,FBS,Liberty,Jacksonville St.,RECEIVING,Antonio,Gandy-Golden,REC,7
+3789022,9/23/2017,FBS,Liberty,Jacksonville St.,RECEIVING,Antonio,Gandy-Golden,YDS,126
+3789023,9/23/2017,FBS,Liberty,Jacksonville St.,RECEIVING,Antonio,Gandy-Golden,TD,0
+3789024,9/23/2017,FBS,Liberty,Jacksonville St.,RECEIVING,Antonio,Gandy-Golden,LONG,55
+3789025,9/23/2017,FBS,Liberty,Jacksonville St.,RECEIVING,B.J.,Farrow,REC,6
+3789026,9/23/2017,FBS,Liberty,Jacksonville St.,RECEIVING,B.J.,Farrow,YDS,93
+3789027,9/23/2017,FBS,Liberty,Jacksonville St.,RECEIVING,B.J.,Farrow,TD,1
+3789028,9/23/2017,FBS,Liberty,Jacksonville St.,RECEIVING,B.J.,Farrow,LONG,65
+3789029,9/23/2017,FBS,Liberty,Jacksonville St.,RECEIVING,David,King,REC,4
+3789030,9/23/2017,FBS,Liberty,Jacksonville St.,RECEIVING,David,King,YDS,33
+3789031,9/23/2017,FBS,Liberty,Jacksonville St.,RECEIVING,David,King,TD,0
+3789032,9/23/2017,FBS,Liberty,Jacksonville St.,RECEIVING,David,King,LONG,22
+3789033,9/23/2017,FBS,Liberty,Jacksonville St.,RECEIVING,Carrington,Mosley,REC,3
+3789034,9/23/2017,FBS,Liberty,Jacksonville St.,RECEIVING,Carrington,Mosley,YDS,16
+3789035,9/23/2017,FBS,Liberty,Jacksonville St.,RECEIVING,Carrington,Mosley,TD,0
+3789036,9/23/2017,FBS,Liberty,Jacksonville St.,RECEIVING,Carrington,Mosley,LONG,15
+3789037,9/23/2017,FBS,Liberty,Jacksonville St.,RECEIVING,Zac,Foutz,REC,1
+3789038,9/23/2017,FBS,Liberty,Jacksonville St.,RECEIVING,Zac,Foutz,YDS,11
+3789039,9/23/2017,FBS,Liberty,Jacksonville St.,RECEIVING,Zac,Foutz,TD,0
+3789040,9/23/2017,FBS,Liberty,Jacksonville St.,RECEIVING,Zac,Foutz,LONG,11
+3789041,9/23/2017,FBS,Liberty,Jacksonville St.,RECEIVING,Frankie,Hickson,REC,1
+3789042,9/23/2017,FBS,Liberty,Jacksonville St.,RECEIVING,Frankie,Hickson,YDS,6
+3789043,9/23/2017,FBS,Liberty,Jacksonville St.,RECEIVING,Frankie,Hickson,TD,0
+3789044,9/23/2017,FBS,Liberty,Jacksonville St.,RECEIVING,Frankie,Hickson,LONG,6
+3789045,9/23/2017,FBS,Liberty,Jacksonville St.,KICKING,Alex,Probert,FG-FGA,1/1
+3789046,9/23/2017,FBS,Liberty,Jacksonville St.,KICKING,Alex,Probert,LONG,28
+3789047,9/23/2017,FBS,Liberty,Jacksonville St.,KICKING,Alex,Probert,XP,1
+3789048,9/23/2017,FBS,Liberty,Jacksonville St.,KICKING,Alex,Probert,PTS,4
+3789049,9/23/2017,FBS,Liberty,Jacksonville St.,PUNTING,Trey,Turner,NO,9
+3789050,9/23/2017,FBS,Liberty,Jacksonville St.,PUNTING,Trey,Turner,YDS,341
+3789051,9/23/2017,FBS,Liberty,Jacksonville St.,PUNTING,Trey,Turner,AVG,37.9
+3789052,9/23/2017,FBS,Liberty,Jacksonville St.,PUNTING,Trey,Turner,LONG,45
+3789053,9/23/2017,FBS,Liberty,Jacksonville St.,PUNT RETURNS,DJ,Stubbs,NO,2
+3789054,9/23/2017,FBS,Liberty,Jacksonville St.,PUNT RETURNS,DJ,Stubbs,YDS,14
+3789055,9/23/2017,FBS,Liberty,Jacksonville St.,PUNT RETURNS,DJ,Stubbs,AVG,7.0
+3789056,9/23/2017,FBS,Liberty,Jacksonville St.,PUNT RETURNS,DJ,Stubbs,LONG,10
+3789057,9/23/2017,FBS,Liberty,Jacksonville St.,KICK RETURNS,Frankie,Hickson,NO,4
+3789058,9/23/2017,FBS,Liberty,Jacksonville St.,KICK RETURNS,Frankie,Hickson,YDS,76
+3789059,9/23/2017,FBS,Liberty,Jacksonville St.,KICK RETURNS,Frankie,Hickson,AVG,19.0
+3789060,9/23/2017,FBS,Liberty,Jacksonville St.,KICK RETURNS,Frankie,Hickson,LONG,27
+3789061,9/23/2017,FBS,Jacksonville St.,Liberty,RUSHING,Roc,Thomas,ATT,18
+3789062,9/23/2017,FBS,Jacksonville St.,Liberty,RUSHING,Roc,Thomas,YDS,87
+3789063,9/23/2017,FBS,Jacksonville St.,Liberty,RUSHING,Roc,Thomas,TD,2
+3789064,9/23/2017,FBS,Jacksonville St.,Liberty,RUSHING,Roc,Thomas,LONG,14
+3789065,9/23/2017,FBS,Jacksonville St.,Liberty,RUSHING,Kendrick,Doss,ATT,3
+3789066,9/23/2017,FBS,Jacksonville St.,Liberty,RUSHING,Kendrick,Doss,YDS,32
+3789067,9/23/2017,FBS,Jacksonville St.,Liberty,RUSHING,Kendrick,Doss,TD,1
+3789068,9/23/2017,FBS,Jacksonville St.,Liberty,RUSHING,Kendrick,Doss,LONG,16
+3789069,9/23/2017,FBS,Jacksonville St.,Liberty,RUSHING,Tramel,Terry,ATT,7
+3789070,9/23/2017,FBS,Jacksonville St.,Liberty,RUSHING,Tramel,Terry,YDS,17
+3789071,9/23/2017,FBS,Jacksonville St.,Liberty,RUSHING,Tramel,Terry,TD,0
+3789072,9/23/2017,FBS,Jacksonville St.,Liberty,RUSHING,Tramel,Terry,LONG,4
+3789073,9/23/2017,FBS,Jacksonville St.,Liberty,RUSHING,Bryant,Horn,ATT,3
+3789074,9/23/2017,FBS,Jacksonville St.,Liberty,RUSHING,Bryant,Horn,YDS,4
+3789075,9/23/2017,FBS,Jacksonville St.,Liberty,RUSHING,Bryant,Horn,TD,0
+3789076,9/23/2017,FBS,Jacksonville St.,Liberty,RUSHING,Bryant,Horn,LONG,5
+3789077,9/23/2017,FBS,Jacksonville St.,Liberty,PASSING,Bryant,Horn,CP-ATT-INT,9-19-1
+3789078,9/23/2017,FBS,Jacksonville St.,Liberty,PASSING,Bryant,Horn,YDS,181
+3789079,9/23/2017,FBS,Jacksonville St.,Liberty,PASSING,Bryant,Horn,TD,1
+3789080,9/23/2017,FBS,Jacksonville St.,Liberty,PASSING,Bryant,Horn,LONG,80
+3789081,9/23/2017,FBS,Jacksonville St.,Liberty,PASSING,Kendrick,Doss,CP-ATT-INT,8-10-0
+3789082,9/23/2017,FBS,Jacksonville St.,Liberty,PASSING,Kendrick,Doss,YDS,64
+3789083,9/23/2017,FBS,Jacksonville St.,Liberty,PASSING,Kendrick,Doss,TD,0
+3789084,9/23/2017,FBS,Jacksonville St.,Liberty,PASSING,Kendrick,Doss,LONG,28
+3789085,9/23/2017,FBS,Jacksonville St.,Liberty,RECEIVING,Trae,Barry,REC,1
+3789086,9/23/2017,FBS,Jacksonville St.,Liberty,RECEIVING,Trae,Barry,YDS,80
+3789087,9/23/2017,FBS,Jacksonville St.,Liberty,RECEIVING,Trae,Barry,TD,1
+3789088,9/23/2017,FBS,Jacksonville St.,Liberty,RECEIVING,Trae,Barry,LONG,80
+3789089,9/23/2017,FBS,Jacksonville St.,Liberty,RECEIVING,Demontez,Terry,REC,3
+3789090,9/23/2017,FBS,Jacksonville St.,Liberty,RECEIVING,Demontez,Terry,YDS,54
+3789091,9/23/2017,FBS,Jacksonville St.,Liberty,RECEIVING,Demontez,Terry,TD,0
+3789092,9/23/2017,FBS,Jacksonville St.,Liberty,RECEIVING,Demontez,Terry,LONG,28
+3789093,9/23/2017,FBS,Jacksonville St.,Liberty,RECEIVING,Krenwick,Sanders,REC,4
+3789094,9/23/2017,FBS,Jacksonville St.,Liberty,RECEIVING,Krenwick,Sanders,YDS,37
+3789095,9/23/2017,FBS,Jacksonville St.,Liberty,RECEIVING,Krenwick,Sanders,TD,0
+3789096,9/23/2017,FBS,Jacksonville St.,Liberty,RECEIVING,Krenwick,Sanders,LONG,18
+3789097,9/23/2017,FBS,Jacksonville St.,Liberty,RECEIVING,Shaq,Davidson,REC,4
+3789098,9/23/2017,FBS,Jacksonville St.,Liberty,RECEIVING,Shaq,Davidson,YDS,37
+3789099,9/23/2017,FBS,Jacksonville St.,Liberty,RECEIVING,Shaq,Davidson,TD,0
+3789100,9/23/2017,FBS,Jacksonville St.,Liberty,RECEIVING,Shaq,Davidson,LONG,22
+3789101,9/23/2017,FBS,Jacksonville St.,Liberty,RECEIVING,Jamari,Hester,REC,2
+3789102,9/23/2017,FBS,Jacksonville St.,Liberty,RECEIVING,Jamari,Hester,YDS,25
+3789103,9/23/2017,FBS,Jacksonville St.,Liberty,RECEIVING,Jamari,Hester,TD,0
+3789104,9/23/2017,FBS,Jacksonville St.,Liberty,RECEIVING,Jamari,Hester,LONG,13
+3789105,9/23/2017,FBS,Jacksonville St.,Liberty,RECEIVING,Landon,Smith,REC,1
+3789106,9/23/2017,FBS,Jacksonville St.,Liberty,RECEIVING,Landon,Smith,YDS,8
+3789107,9/23/2017,FBS,Jacksonville St.,Liberty,RECEIVING,Landon,Smith,TD,0
+3789108,9/23/2017,FBS,Jacksonville St.,Liberty,RECEIVING,Landon,Smith,LONG,8
+3789109,9/23/2017,FBS,Jacksonville St.,Liberty,RECEIVING,Roc,Thomas,REC,2
+3789110,9/23/2017,FBS,Jacksonville St.,Liberty,RECEIVING,Roc,Thomas,YDS,4
+3789111,9/23/2017,FBS,Jacksonville St.,Liberty,RECEIVING,Roc,Thomas,TD,0
+3789112,9/23/2017,FBS,Jacksonville St.,Liberty,RECEIVING,Roc,Thomas,LONG,9
+3789113,9/23/2017,FBS,Jacksonville St.,Liberty,KICKING,Cade,Stinnett,FG-FGA,1/1
+3789114,9/23/2017,FBS,Jacksonville St.,Liberty,KICKING,Cade,Stinnett,LONG,49
+3789115,9/23/2017,FBS,Jacksonville St.,Liberty,KICKING,Cade,Stinnett,XP,4
+3789116,9/23/2017,FBS,Jacksonville St.,Liberty,KICKING,Cade,Stinnett,PTS,7
+3789117,9/23/2017,FBS,Jacksonville St.,Liberty,PUNTING,Dean,Kelly,NO,7
+3789118,9/23/2017,FBS,Jacksonville St.,Liberty,PUNTING,Dean,Kelly,YDS,308
+3789119,9/23/2017,FBS,Jacksonville St.,Liberty,PUNTING,Dean,Kelly,AVG,44.0
+3789120,9/23/2017,FBS,Jacksonville St.,Liberty,PUNTING,Dean,Kelly,LONG,59
+3789121,9/23/2017,FBS,Jacksonville St.,Liberty,PUNT RETURNS,De'Marcus,Flowers,NO,1
+3789122,9/23/2017,FBS,Jacksonville St.,Liberty,PUNT RETURNS,De'Marcus,Flowers,YDS,6
+3789123,9/23/2017,FBS,Jacksonville St.,Liberty,PUNT RETURNS,De'Marcus,Flowers,AVG,6.0
+3789124,9/23/2017,FBS,Jacksonville St.,Liberty,PUNT RETURNS,De'Marcus,Flowers,LONG,6
+3789125,9/23/2017,FBS,Jacksonville St.,Liberty,KICK RETURNS,De'Marcus,Flowers,NO,3
+3789126,9/23/2017,FBS,Jacksonville St.,Liberty,KICK RETURNS,De'Marcus,Flowers,YDS,56
+3789127,9/23/2017,FBS,Jacksonville St.,Liberty,KICK RETURNS,De'Marcus,Flowers,AVG,18.7
+3789128,9/23/2017,FBS,Jacksonville St.,Liberty,KICK RETURNS,De'Marcus,Flowers,LONG,21

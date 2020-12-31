@@ -1,0 +1,129 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3001001,10/8/2016,FBS,Air Force,Wyoming,RUSHING,DJ,Johnson,ATT,7
+3001002,10/8/2016,FBS,Air Force,Wyoming,RUSHING,DJ,Johnson,YDS,73
+3001003,10/8/2016,FBS,Air Force,Wyoming,RUSHING,DJ,Johnson,TD,0
+3001004,10/8/2016,FBS,Air Force,Wyoming,RUSHING,DJ,Johnson,LONG,32
+3001005,10/8/2016,FBS,Air Force,Wyoming,RUSHING,Timothy,McVey,ATT,5
+3001006,10/8/2016,FBS,Air Force,Wyoming,RUSHING,Timothy,McVey,YDS,39
+3001007,10/8/2016,FBS,Air Force,Wyoming,RUSHING,Timothy,McVey,TD,0
+3001008,10/8/2016,FBS,Air Force,Wyoming,RUSHING,Timothy,McVey,LONG,28
+3001009,10/8/2016,FBS,Air Force,Wyoming,RUSHING,Jacobi,Owens,ATT,5
+3001010,10/8/2016,FBS,Air Force,Wyoming,RUSHING,Jacobi,Owens,YDS,17
+3001011,10/8/2016,FBS,Air Force,Wyoming,RUSHING,Jacobi,Owens,TD,0
+3001012,10/8/2016,FBS,Air Force,Wyoming,RUSHING,Jacobi,Owens,LONG,8
+3001013,10/8/2016,FBS,Air Force,Wyoming,RUSHING,Shayne,Davern,ATT,5
+3001014,10/8/2016,FBS,Air Force,Wyoming,RUSHING,Shayne,Davern,YDS,13
+3001015,10/8/2016,FBS,Air Force,Wyoming,RUSHING,Shayne,Davern,TD,0
+3001016,10/8/2016,FBS,Air Force,Wyoming,RUSHING,Shayne,Davern,LONG,5
+3001017,10/8/2016,FBS,Air Force,Wyoming,RUSHING,Nate,Romine,ATT,12
+3001018,10/8/2016,FBS,Air Force,Wyoming,RUSHING,Nate,Romine,YDS,9
+3001019,10/8/2016,FBS,Air Force,Wyoming,RUSHING,Nate,Romine,TD,1
+3001020,10/8/2016,FBS,Air Force,Wyoming,RUSHING,Nate,Romine,LONG,15
+3001021,10/8/2016,FBS,Air Force,Wyoming,RUSHING,Ronald,Cleveland,ATT,1
+3001022,10/8/2016,FBS,Air Force,Wyoming,RUSHING,Ronald,Cleveland,YDS,-1
+3001023,10/8/2016,FBS,Air Force,Wyoming,RUSHING,Ronald,Cleveland,TD,0
+3001024,10/8/2016,FBS,Air Force,Wyoming,RUSHING,Ronald,Cleveland,LONG,-1
+3001025,10/8/2016,FBS,Air Force,Wyoming,RUSHING,Tyler,Williams,ATT,4
+3001026,10/8/2016,FBS,Air Force,Wyoming,RUSHING,Tyler,Williams,YDS,-1
+3001027,10/8/2016,FBS,Air Force,Wyoming,RUSHING,Tyler,Williams,TD,0
+3001028,10/8/2016,FBS,Air Force,Wyoming,RUSHING,Tyler,Williams,LONG,2
+3001029,10/8/2016,FBS,Air Force,Wyoming,PASSING,Nate,Romine,CP-ATT-INT,6-19-3
+3001030,10/8/2016,FBS,Air Force,Wyoming,PASSING,Nate,Romine,YDS,188
+3001031,10/8/2016,FBS,Air Force,Wyoming,PASSING,Nate,Romine,TD,2
+3001032,10/8/2016,FBS,Air Force,Wyoming,PASSING,Nate,Romine,LONG,75
+3001033,10/8/2016,FBS,Air Force,Wyoming,RECEIVING,Jalen,Robinette,REC,3
+3001034,10/8/2016,FBS,Air Force,Wyoming,RECEIVING,Jalen,Robinette,YDS,101
+3001035,10/8/2016,FBS,Air Force,Wyoming,RECEIVING,Jalen,Robinette,TD,1
+3001036,10/8/2016,FBS,Air Force,Wyoming,RECEIVING,Jalen,Robinette,LONG,75
+3001037,10/8/2016,FBS,Air Force,Wyoming,RECEIVING,Timothy,McVey,REC,2
+3001038,10/8/2016,FBS,Air Force,Wyoming,RECEIVING,Timothy,McVey,YDS,77
+3001039,10/8/2016,FBS,Air Force,Wyoming,RECEIVING,Timothy,McVey,TD,1
+3001040,10/8/2016,FBS,Air Force,Wyoming,RECEIVING,Timothy,McVey,LONG,49
+3001041,10/8/2016,FBS,Air Force,Wyoming,RECEIVING,Ryan,Reffitt,REC,1
+3001042,10/8/2016,FBS,Air Force,Wyoming,RECEIVING,Ryan,Reffitt,YDS,10
+3001043,10/8/2016,FBS,Air Force,Wyoming,RECEIVING,Ryan,Reffitt,TD,0
+3001044,10/8/2016,FBS,Air Force,Wyoming,RECEIVING,Ryan,Reffitt,LONG,10
+3001045,10/8/2016,FBS,Air Force,Wyoming,KICKING,Luke,Strebel,FG-FGA,2/2
+3001046,10/8/2016,FBS,Air Force,Wyoming,KICKING,Luke,Strebel,LONG,47
+3001047,10/8/2016,FBS,Air Force,Wyoming,KICKING,Luke,Strebel,XP,2
+3001048,10/8/2016,FBS,Air Force,Wyoming,KICKING,Luke,Strebel,PTS,8
+3001049,10/8/2016,FBS,Air Force,Wyoming,PUNTING,Steve,Brosy,NO,6
+3001050,10/8/2016,FBS,Air Force,Wyoming,PUNTING,Steve,Brosy,YDS,288
+3001051,10/8/2016,FBS,Air Force,Wyoming,PUNTING,Steve,Brosy,AVG,48.0
+3001052,10/8/2016,FBS,Air Force,Wyoming,PUNTING,Steve,Brosy,LONG,62
+3001053,10/8/2016,FBS,Air Force,Wyoming,PUNT RETURNS,Ronald,Cleveland,NO,1
+3001054,10/8/2016,FBS,Air Force,Wyoming,PUNT RETURNS,Ronald,Cleveland,YDS,4
+3001055,10/8/2016,FBS,Air Force,Wyoming,PUNT RETURNS,Ronald,Cleveland,AVG,4.0
+3001056,10/8/2016,FBS,Air Force,Wyoming,PUNT RETURNS,Ronald,Cleveland,LONG,4
+3001057,10/8/2016,FBS,Air Force,Wyoming,KICK RETURNS,Timothy,McVey,NO,1
+3001058,10/8/2016,FBS,Air Force,Wyoming,KICK RETURNS,Timothy,McVey,YDS,18
+3001059,10/8/2016,FBS,Air Force,Wyoming,KICK RETURNS,Timothy,McVey,AVG,18.0
+3001060,10/8/2016,FBS,Air Force,Wyoming,KICK RETURNS,Timothy,McVey,LONG,18
+3001061,10/8/2016,FBS,Wyoming,Air Force,RUSHING,Brian,Hill,ATT,29
+3001062,10/8/2016,FBS,Wyoming,Air Force,RUSHING,Brian,Hill,YDS,92
+3001063,10/8/2016,FBS,Wyoming,Air Force,RUSHING,Brian,Hill,TD,1
+3001064,10/8/2016,FBS,Wyoming,Air Force,RUSHING,Brian,Hill,LONG,15
+3001065,10/8/2016,FBS,Wyoming,Air Force,RUSHING,Josh,Allen,ATT,13
+3001066,10/8/2016,FBS,Wyoming,Air Force,RUSHING,Josh,Allen,YDS,74
+3001067,10/8/2016,FBS,Wyoming,Air Force,RUSHING,Josh,Allen,TD,0
+3001068,10/8/2016,FBS,Wyoming,Air Force,RUSHING,Josh,Allen,LONG,32
+3001069,10/8/2016,FBS,Wyoming,Air Force,RUSHING,Tanner,Gentry,ATT,1
+3001070,10/8/2016,FBS,Wyoming,Air Force,RUSHING,Tanner,Gentry,YDS,15
+3001071,10/8/2016,FBS,Wyoming,Air Force,RUSHING,Tanner,Gentry,TD,0
+3001072,10/8/2016,FBS,Wyoming,Air Force,RUSHING,Tanner,Gentry,LONG,15
+3001073,10/8/2016,FBS,Wyoming,Air Force,RUSHING,Shaun,Wick,ATT,3
+3001074,10/8/2016,FBS,Wyoming,Air Force,RUSHING,Shaun,Wick,YDS,10
+3001075,10/8/2016,FBS,Wyoming,Air Force,RUSHING,Shaun,Wick,TD,0
+3001076,10/8/2016,FBS,Wyoming,Air Force,RUSHING,Shaun,Wick,LONG,6
+3001077,10/8/2016,FBS,Wyoming,Air Force,RUSHING,,Team,ATT,2
+3001078,10/8/2016,FBS,Wyoming,Air Force,RUSHING,,Team,YDS,-2
+3001079,10/8/2016,FBS,Wyoming,Air Force,RUSHING,,Team,TD,0
+3001080,10/8/2016,FBS,Wyoming,Air Force,RUSHING,,Team,LONG,-1
+3001081,10/8/2016,FBS,Wyoming,Air Force,PASSING,Josh,Allen,CP-ATT-INT,15-27-0
+3001082,10/8/2016,FBS,Wyoming,Air Force,PASSING,Josh,Allen,YDS,173
+3001083,10/8/2016,FBS,Wyoming,Air Force,PASSING,Josh,Allen,TD,3
+3001084,10/8/2016,FBS,Wyoming,Air Force,PASSING,Josh,Allen,LONG,32
+3001085,10/8/2016,FBS,Wyoming,Air Force,RECEIVING,Jake,Maulhardt,REC,3
+3001086,10/8/2016,FBS,Wyoming,Air Force,RECEIVING,Jake,Maulhardt,YDS,42
+3001087,10/8/2016,FBS,Wyoming,Air Force,RECEIVING,Jake,Maulhardt,TD,1
+3001088,10/8/2016,FBS,Wyoming,Air Force,RECEIVING,Jake,Maulhardt,LONG,20
+3001089,10/8/2016,FBS,Wyoming,Air Force,RECEIVING,Jacob,Hollister,REC,2
+3001090,10/8/2016,FBS,Wyoming,Air Force,RECEIVING,Jacob,Hollister,YDS,39
+3001091,10/8/2016,FBS,Wyoming,Air Force,RECEIVING,Jacob,Hollister,TD,1
+3001092,10/8/2016,FBS,Wyoming,Air Force,RECEIVING,Jacob,Hollister,LONG,32
+3001093,10/8/2016,FBS,Wyoming,Air Force,RECEIVING,C.J.,Johnson,REC,3
+3001094,10/8/2016,FBS,Wyoming,Air Force,RECEIVING,C.J.,Johnson,YDS,27
+3001095,10/8/2016,FBS,Wyoming,Air Force,RECEIVING,C.J.,Johnson,TD,0
+3001096,10/8/2016,FBS,Wyoming,Air Force,RECEIVING,C.J.,Johnson,LONG,10
+3001097,10/8/2016,FBS,Wyoming,Air Force,RECEIVING,Tanner,Gentry,REC,2
+3001098,10/8/2016,FBS,Wyoming,Air Force,RECEIVING,Tanner,Gentry,YDS,24
+3001099,10/8/2016,FBS,Wyoming,Air Force,RECEIVING,Tanner,Gentry,TD,1
+3001100,10/8/2016,FBS,Wyoming,Air Force,RECEIVING,Tanner,Gentry,LONG,17
+3001101,10/8/2016,FBS,Wyoming,Air Force,RECEIVING,Austin,Conway,REC,4
+3001102,10/8/2016,FBS,Wyoming,Air Force,RECEIVING,Austin,Conway,YDS,24
+3001103,10/8/2016,FBS,Wyoming,Air Force,RECEIVING,Austin,Conway,TD,0
+3001104,10/8/2016,FBS,Wyoming,Air Force,RECEIVING,Austin,Conway,LONG,14
+3001105,10/8/2016,FBS,Wyoming,Air Force,RECEIVING,James,Price,REC,1
+3001106,10/8/2016,FBS,Wyoming,Air Force,RECEIVING,James,Price,YDS,17
+3001107,10/8/2016,FBS,Wyoming,Air Force,RECEIVING,James,Price,TD,0
+3001108,10/8/2016,FBS,Wyoming,Air Force,RECEIVING,James,Price,LONG,17
+3001109,10/8/2016,FBS,Wyoming,Air Force,KICKING,Cooper,Rothe,FG-FGA,0/0
+3001110,10/8/2016,FBS,Wyoming,Air Force,KICKING,Cooper,Rothe,LONG,-
+3001111,10/8/2016,FBS,Wyoming,Air Force,KICKING,Cooper,Rothe,XP,5
+3001112,10/8/2016,FBS,Wyoming,Air Force,KICKING,Cooper,Rothe,PTS,5
+3001113,10/8/2016,FBS,Wyoming,Air Force,PUNTING,Ethan,Wood,NO,8
+3001114,10/8/2016,FBS,Wyoming,Air Force,PUNTING,Ethan,Wood,YDS,307
+3001115,10/8/2016,FBS,Wyoming,Air Force,PUNTING,Ethan,Wood,AVG,38.4
+3001116,10/8/2016,FBS,Wyoming,Air Force,PUNTING,Ethan,Wood,LONG,49
+3001117,10/8/2016,FBS,Wyoming,Air Force,PUNT RETURNS,Austin,Conway,NO,4
+3001118,10/8/2016,FBS,Wyoming,Air Force,PUNT RETURNS,Austin,Conway,YDS,22
+3001119,10/8/2016,FBS,Wyoming,Air Force,PUNT RETURNS,Austin,Conway,AVG,5.5
+3001120,10/8/2016,FBS,Wyoming,Air Force,PUNT RETURNS,Austin,Conway,LONG,24
+3001121,10/8/2016,FBS,Wyoming,Air Force,KICK RETURNS,D.J.,May,NO,2
+3001122,10/8/2016,FBS,Wyoming,Air Force,KICK RETURNS,D.J.,May,YDS,41
+3001123,10/8/2016,FBS,Wyoming,Air Force,KICK RETURNS,D.J.,May,AVG,20.5
+3001124,10/8/2016,FBS,Wyoming,Air Force,KICK RETURNS,D.J.,May,LONG,25
+3001125,10/8/2016,FBS,Wyoming,Air Force,KICK RETURNS,Lucas,Wacha,NO,1
+3001126,10/8/2016,FBS,Wyoming,Air Force,KICK RETURNS,Lucas,Wacha,YDS,6
+3001127,10/8/2016,FBS,Wyoming,Air Force,KICK RETURNS,Lucas,Wacha,AVG,6.0
+3001128,10/8/2016,FBS,Wyoming,Air Force,KICK RETURNS,Lucas,Wacha,LONG,6

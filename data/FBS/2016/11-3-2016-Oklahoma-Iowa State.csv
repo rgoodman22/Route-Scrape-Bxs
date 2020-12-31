@@ -1,0 +1,157 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+3202001,11/3/2016,FBS,Oklahoma,Iowa State,RUSHING,Dimitri,Flowers,ATT,22
+3202002,11/3/2016,FBS,Oklahoma,Iowa State,RUSHING,Dimitri,Flowers,YDS,115
+3202003,11/3/2016,FBS,Oklahoma,Iowa State,RUSHING,Dimitri,Flowers,TD,0
+3202004,11/3/2016,FBS,Oklahoma,Iowa State,RUSHING,Dimitri,Flowers,LONG,13
+3202005,11/3/2016,FBS,Oklahoma,Iowa State,RUSHING,Abdul,Adams,ATT,8
+3202006,11/3/2016,FBS,Oklahoma,Iowa State,RUSHING,Abdul,Adams,YDS,54
+3202007,11/3/2016,FBS,Oklahoma,Iowa State,RUSHING,Abdul,Adams,TD,0
+3202008,11/3/2016,FBS,Oklahoma,Iowa State,RUSHING,Abdul,Adams,LONG,32
+3202009,11/3/2016,FBS,Oklahoma,Iowa State,RUSHING,Jarvis,Baxter,ATT,1
+3202010,11/3/2016,FBS,Oklahoma,Iowa State,RUSHING,Jarvis,Baxter,YDS,4
+3202011,11/3/2016,FBS,Oklahoma,Iowa State,RUSHING,Jarvis,Baxter,TD,0
+3202012,11/3/2016,FBS,Oklahoma,Iowa State,RUSHING,Jarvis,Baxter,LONG,4
+3202013,11/3/2016,FBS,Oklahoma,Iowa State,RUSHING,,Team,ATT,2
+3202014,11/3/2016,FBS,Oklahoma,Iowa State,RUSHING,,Team,YDS,-4
+3202015,11/3/2016,FBS,Oklahoma,Iowa State,RUSHING,,Team,TD,0
+3202016,11/3/2016,FBS,Oklahoma,Iowa State,RUSHING,,Team,LONG,-2
+3202017,11/3/2016,FBS,Oklahoma,Iowa State,RUSHING,Baker,Mayfield,ATT,9
+3202018,11/3/2016,FBS,Oklahoma,Iowa State,RUSHING,Baker,Mayfield,YDS,-20
+3202019,11/3/2016,FBS,Oklahoma,Iowa State,RUSHING,Baker,Mayfield,TD,0
+3202020,11/3/2016,FBS,Oklahoma,Iowa State,RUSHING,Baker,Mayfield,LONG,3
+3202021,11/3/2016,FBS,Oklahoma,Iowa State,PASSING,Baker,Mayfield,CP-ATT-INT,25-34-1
+3202022,11/3/2016,FBS,Oklahoma,Iowa State,PASSING,Baker,Mayfield,YDS,328
+3202023,11/3/2016,FBS,Oklahoma,Iowa State,PASSING,Baker,Mayfield,TD,4
+3202024,11/3/2016,FBS,Oklahoma,Iowa State,PASSING,Baker,Mayfield,LONG,65
+3202025,11/3/2016,FBS,Oklahoma,Iowa State,RECEIVING,Dede,Westbrook,REC,7
+3202026,11/3/2016,FBS,Oklahoma,Iowa State,RECEIVING,Dede,Westbrook,YDS,131
+3202027,11/3/2016,FBS,Oklahoma,Iowa State,RECEIVING,Dede,Westbrook,TD,1
+3202028,11/3/2016,FBS,Oklahoma,Iowa State,RECEIVING,Dede,Westbrook,LONG,65
+3202029,11/3/2016,FBS,Oklahoma,Iowa State,RECEIVING,Geno,Lewis,REC,6
+3202030,11/3/2016,FBS,Oklahoma,Iowa State,RECEIVING,Geno,Lewis,YDS,59
+3202031,11/3/2016,FBS,Oklahoma,Iowa State,RECEIVING,Geno,Lewis,TD,0
+3202032,11/3/2016,FBS,Oklahoma,Iowa State,RECEIVING,Geno,Lewis,LONG,22
+3202033,11/3/2016,FBS,Oklahoma,Iowa State,RECEIVING,Jeffery,Mead,REC,2
+3202034,11/3/2016,FBS,Oklahoma,Iowa State,RECEIVING,Jeffery,Mead,YDS,42
+3202035,11/3/2016,FBS,Oklahoma,Iowa State,RECEIVING,Jeffery,Mead,TD,1
+3202036,11/3/2016,FBS,Oklahoma,Iowa State,RECEIVING,Jeffery,Mead,LONG,30
+3202037,11/3/2016,FBS,Oklahoma,Iowa State,RECEIVING,Nick,Basquine,REC,4
+3202038,11/3/2016,FBS,Oklahoma,Iowa State,RECEIVING,Nick,Basquine,YDS,36
+3202039,11/3/2016,FBS,Oklahoma,Iowa State,RECEIVING,Nick,Basquine,TD,0
+3202040,11/3/2016,FBS,Oklahoma,Iowa State,RECEIVING,Nick,Basquine,LONG,17
+3202041,11/3/2016,FBS,Oklahoma,Iowa State,RECEIVING,Dimitri,Flowers,REC,3
+3202042,11/3/2016,FBS,Oklahoma,Iowa State,RECEIVING,Dimitri,Flowers,YDS,34
+3202043,11/3/2016,FBS,Oklahoma,Iowa State,RECEIVING,Dimitri,Flowers,TD,1
+3202044,11/3/2016,FBS,Oklahoma,Iowa State,RECEIVING,Dimitri,Flowers,LONG,17
+3202045,11/3/2016,FBS,Oklahoma,Iowa State,RECEIVING,Mark,Andrews,REC,2
+3202046,11/3/2016,FBS,Oklahoma,Iowa State,RECEIVING,Mark,Andrews,YDS,19
+3202047,11/3/2016,FBS,Oklahoma,Iowa State,RECEIVING,Mark,Andrews,TD,1
+3202048,11/3/2016,FBS,Oklahoma,Iowa State,RECEIVING,Mark,Andrews,LONG,13
+3202049,11/3/2016,FBS,Oklahoma,Iowa State,RECEIVING,Abdul,Adams,REC,1
+3202050,11/3/2016,FBS,Oklahoma,Iowa State,RECEIVING,Abdul,Adams,YDS,7
+3202051,11/3/2016,FBS,Oklahoma,Iowa State,RECEIVING,Abdul,Adams,TD,0
+3202052,11/3/2016,FBS,Oklahoma,Iowa State,RECEIVING,Abdul,Adams,LONG,7
+3202053,11/3/2016,FBS,Oklahoma,Iowa State,KICKING,Austin,Seibert,FG-FGA,2/3
+3202054,11/3/2016,FBS,Oklahoma,Iowa State,KICKING,Austin,Seibert,LONG,36
+3202055,11/3/2016,FBS,Oklahoma,Iowa State,KICKING,Austin,Seibert,XP,4
+3202056,11/3/2016,FBS,Oklahoma,Iowa State,KICKING,Austin,Seibert,PTS,10
+3202057,11/3/2016,FBS,Oklahoma,Iowa State,PUNTING,Austin,Seibert,NO,2
+3202058,11/3/2016,FBS,Oklahoma,Iowa State,PUNTING,Austin,Seibert,YDS,95
+3202059,11/3/2016,FBS,Oklahoma,Iowa State,PUNTING,Austin,Seibert,AVG,47.5
+3202060,11/3/2016,FBS,Oklahoma,Iowa State,PUNTING,Austin,Seibert,LONG,50
+3202061,11/3/2016,FBS,Oklahoma,Iowa State,PUNT RETURNS,Dede,Westbrook,NO,1
+3202062,11/3/2016,FBS,Oklahoma,Iowa State,PUNT RETURNS,Dede,Westbrook,YDS,5
+3202063,11/3/2016,FBS,Oklahoma,Iowa State,PUNT RETURNS,Dede,Westbrook,AVG,5.0
+3202064,11/3/2016,FBS,Oklahoma,Iowa State,PUNT RETURNS,Dede,Westbrook,LONG,5
+3202065,11/3/2016,FBS,Oklahoma,Iowa State,KICK RETURNS,Dede,Westbrook,NO,2
+3202066,11/3/2016,FBS,Oklahoma,Iowa State,KICK RETURNS,Dede,Westbrook,YDS,97
+3202067,11/3/2016,FBS,Oklahoma,Iowa State,KICK RETURNS,Dede,Westbrook,AVG,48.5
+3202068,11/3/2016,FBS,Oklahoma,Iowa State,KICK RETURNS,Dede,Westbrook,LONG,63
+3202069,11/3/2016,FBS,Oklahoma,Iowa State,KICK RETURNS,Mykel,Jones,NO,2
+3202070,11/3/2016,FBS,Oklahoma,Iowa State,KICK RETURNS,Mykel,Jones,YDS,21
+3202071,11/3/2016,FBS,Oklahoma,Iowa State,KICK RETURNS,Mykel,Jones,AVG,10.5
+3202072,11/3/2016,FBS,Oklahoma,Iowa State,KICK RETURNS,Mykel,Jones,LONG,12
+3202073,11/3/2016,FBS,Iowa State,Oklahoma,RUSHING,Joel,Lanning,ATT,7
+3202074,11/3/2016,FBS,Iowa State,Oklahoma,RUSHING,Joel,Lanning,YDS,61
+3202075,11/3/2016,FBS,Iowa State,Oklahoma,RUSHING,Joel,Lanning,TD,1
+3202076,11/3/2016,FBS,Iowa State,Oklahoma,RUSHING,Joel,Lanning,LONG,41
+3202077,11/3/2016,FBS,Iowa State,Oklahoma,RUSHING,David,Montgomery,ATT,10
+3202078,11/3/2016,FBS,Iowa State,Oklahoma,RUSHING,David,Montgomery,YDS,44
+3202079,11/3/2016,FBS,Iowa State,Oklahoma,RUSHING,David,Montgomery,TD,0
+3202080,11/3/2016,FBS,Iowa State,Oklahoma,RUSHING,David,Montgomery,LONG,14
+3202081,11/3/2016,FBS,Iowa State,Oklahoma,RUSHING,Kene,Nwangwu,ATT,6
+3202082,11/3/2016,FBS,Iowa State,Oklahoma,RUSHING,Kene,Nwangwu,YDS,25
+3202083,11/3/2016,FBS,Iowa State,Oklahoma,RUSHING,Kene,Nwangwu,TD,0
+3202084,11/3/2016,FBS,Iowa State,Oklahoma,RUSHING,Kene,Nwangwu,LONG,8
+3202085,11/3/2016,FBS,Iowa State,Oklahoma,RUSHING,Mitchell,Harger,ATT,1
+3202086,11/3/2016,FBS,Iowa State,Oklahoma,RUSHING,Mitchell,Harger,YDS,2
+3202087,11/3/2016,FBS,Iowa State,Oklahoma,RUSHING,Mitchell,Harger,TD,0
+3202088,11/3/2016,FBS,Iowa State,Oklahoma,RUSHING,Mitchell,Harger,LONG,2
+3202089,11/3/2016,FBS,Iowa State,Oklahoma,RUSHING,Jacob,Park,ATT,2
+3202090,11/3/2016,FBS,Iowa State,Oklahoma,RUSHING,Jacob,Park,YDS,-2
+3202091,11/3/2016,FBS,Iowa State,Oklahoma,RUSHING,Jacob,Park,TD,0
+3202092,11/3/2016,FBS,Iowa State,Oklahoma,RUSHING,Jacob,Park,LONG,4
+3202093,11/3/2016,FBS,Iowa State,Oklahoma,PASSING,Jacob,Park,CP-ATT-INT,16-29-0
+3202094,11/3/2016,FBS,Iowa State,Oklahoma,PASSING,Jacob,Park,YDS,160
+3202095,11/3/2016,FBS,Iowa State,Oklahoma,PASSING,Jacob,Park,TD,2
+3202096,11/3/2016,FBS,Iowa State,Oklahoma,PASSING,Jacob,Park,LONG,31
+3202097,11/3/2016,FBS,Iowa State,Oklahoma,PASSING,Joel,Lanning,CP-ATT-INT,0-1-0
+3202098,11/3/2016,FBS,Iowa State,Oklahoma,PASSING,Joel,Lanning,YDS,0
+3202099,11/3/2016,FBS,Iowa State,Oklahoma,PASSING,Joel,Lanning,TD,0
+3202100,11/3/2016,FBS,Iowa State,Oklahoma,PASSING,Joel,Lanning,LONG,0
+3202101,11/3/2016,FBS,Iowa State,Oklahoma,RECEIVING,Allen,Lazard,REC,6
+3202102,11/3/2016,FBS,Iowa State,Oklahoma,RECEIVING,Allen,Lazard,YDS,76
+3202103,11/3/2016,FBS,Iowa State,Oklahoma,RECEIVING,Allen,Lazard,TD,1
+3202104,11/3/2016,FBS,Iowa State,Oklahoma,RECEIVING,Allen,Lazard,LONG,31
+3202105,11/3/2016,FBS,Iowa State,Oklahoma,RECEIVING,Dondre,Daley,REC,3
+3202106,11/3/2016,FBS,Iowa State,Oklahoma,RECEIVING,Dondre,Daley,YDS,39
+3202107,11/3/2016,FBS,Iowa State,Oklahoma,RECEIVING,Dondre,Daley,TD,1
+3202108,11/3/2016,FBS,Iowa State,Oklahoma,RECEIVING,Dondre,Daley,LONG,23
+3202109,11/3/2016,FBS,Iowa State,Oklahoma,RECEIVING,Hakeem,Butler,REC,1
+3202110,11/3/2016,FBS,Iowa State,Oklahoma,RECEIVING,Hakeem,Butler,YDS,17
+3202111,11/3/2016,FBS,Iowa State,Oklahoma,RECEIVING,Hakeem,Butler,TD,0
+3202112,11/3/2016,FBS,Iowa State,Oklahoma,RECEIVING,Hakeem,Butler,LONG,17
+3202113,11/3/2016,FBS,Iowa State,Oklahoma,RECEIVING,Deshaunte,Jones,REC,2
+3202114,11/3/2016,FBS,Iowa State,Oklahoma,RECEIVING,Deshaunte,Jones,YDS,13
+3202115,11/3/2016,FBS,Iowa State,Oklahoma,RECEIVING,Deshaunte,Jones,TD,0
+3202116,11/3/2016,FBS,Iowa State,Oklahoma,RECEIVING,Deshaunte,Jones,LONG,9
+3202117,11/3/2016,FBS,Iowa State,Oklahoma,RECEIVING,Sam,Harms,REC,1
+3202118,11/3/2016,FBS,Iowa State,Oklahoma,RECEIVING,Sam,Harms,YDS,6
+3202119,11/3/2016,FBS,Iowa State,Oklahoma,RECEIVING,Sam,Harms,TD,0
+3202120,11/3/2016,FBS,Iowa State,Oklahoma,RECEIVING,Sam,Harms,LONG,6
+3202121,11/3/2016,FBS,Iowa State,Oklahoma,RECEIVING,Carson,Epps,REC,1
+3202122,11/3/2016,FBS,Iowa State,Oklahoma,RECEIVING,Carson,Epps,YDS,5
+3202123,11/3/2016,FBS,Iowa State,Oklahoma,RECEIVING,Carson,Epps,TD,0
+3202124,11/3/2016,FBS,Iowa State,Oklahoma,RECEIVING,Carson,Epps,LONG,5
+3202125,11/3/2016,FBS,Iowa State,Oklahoma,RECEIVING,Trever,Ryen,REC,1
+3202126,11/3/2016,FBS,Iowa State,Oklahoma,RECEIVING,Trever,Ryen,YDS,4
+3202127,11/3/2016,FBS,Iowa State,Oklahoma,RECEIVING,Trever,Ryen,TD,0
+3202128,11/3/2016,FBS,Iowa State,Oklahoma,RECEIVING,Trever,Ryen,LONG,4
+3202129,11/3/2016,FBS,Iowa State,Oklahoma,RECEIVING,David,Montgomery,REC,1
+3202130,11/3/2016,FBS,Iowa State,Oklahoma,RECEIVING,David,Montgomery,YDS,0
+3202131,11/3/2016,FBS,Iowa State,Oklahoma,RECEIVING,David,Montgomery,TD,0
+3202132,11/3/2016,FBS,Iowa State,Oklahoma,RECEIVING,David,Montgomery,LONG,0
+3202133,11/3/2016,FBS,Iowa State,Oklahoma,KICKING,Cole,Netten,FG-FGA,1/1
+3202134,11/3/2016,FBS,Iowa State,Oklahoma,KICKING,Cole,Netten,LONG,28
+3202135,11/3/2016,FBS,Iowa State,Oklahoma,KICKING,Cole,Netten,XP,3
+3202136,11/3/2016,FBS,Iowa State,Oklahoma,KICKING,Cole,Netten,PTS,6
+3202137,11/3/2016,FBS,Iowa State,Oklahoma,PUNTING,Colin,Downing,NO,5
+3202138,11/3/2016,FBS,Iowa State,Oklahoma,PUNTING,Colin,Downing,YDS,217
+3202139,11/3/2016,FBS,Iowa State,Oklahoma,PUNTING,Colin,Downing,AVG,43.4
+3202140,11/3/2016,FBS,Iowa State,Oklahoma,PUNTING,Colin,Downing,LONG,47
+3202141,11/3/2016,FBS,Iowa State,Oklahoma,PUNT RETURNS,Trever,Ryen,NO,1
+3202142,11/3/2016,FBS,Iowa State,Oklahoma,PUNT RETURNS,Trever,Ryen,YDS,26
+3202143,11/3/2016,FBS,Iowa State,Oklahoma,PUNT RETURNS,Trever,Ryen,AVG,26.0
+3202144,11/3/2016,FBS,Iowa State,Oklahoma,PUNT RETURNS,Trever,Ryen,LONG,26
+3202145,11/3/2016,FBS,Iowa State,Oklahoma,PUNT RETURNS,Allen,Lazard,NO,1
+3202146,11/3/2016,FBS,Iowa State,Oklahoma,PUNT RETURNS,Allen,Lazard,YDS,-2
+3202147,11/3/2016,FBS,Iowa State,Oklahoma,PUNT RETURNS,Allen,Lazard,AVG,-
+3202148,11/3/2016,FBS,Iowa State,Oklahoma,PUNT RETURNS,Allen,Lazard,LONG,-2
+3202149,11/3/2016,FBS,Iowa State,Oklahoma,KICK RETURNS,Kene,Nwangwu,NO,4
+3202150,11/3/2016,FBS,Iowa State,Oklahoma,KICK RETURNS,Kene,Nwangwu,YDS,102
+3202151,11/3/2016,FBS,Iowa State,Oklahoma,KICK RETURNS,Kene,Nwangwu,AVG,25.5
+3202152,11/3/2016,FBS,Iowa State,Oklahoma,KICK RETURNS,Kene,Nwangwu,LONG,30
+3202153,11/3/2016,FBS,Iowa State,Oklahoma,KICK RETURNS,De'Monte,Ruth,NO,1
+3202154,11/3/2016,FBS,Iowa State,Oklahoma,KICK RETURNS,De'Monte,Ruth,YDS,9
+3202155,11/3/2016,FBS,Iowa State,Oklahoma,KICK RETURNS,De'Monte,Ruth,AVG,9.0
+3202156,11/3/2016,FBS,Iowa State,Oklahoma,KICK RETURNS,De'Monte,Ruth,LONG,9
