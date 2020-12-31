@@ -13,22 +13,26 @@ class main:
     def __init__(self):
         ID = 1000
         gameLinks = []
-        m = menuSelect(menuDriver)
-        for div in divs:
-            m.selectDivision(div)
+        m = menuSelect(menuDriver) #open boxscore database site
+        for div in divs: #loop over divisions
+            m.selectDivision(div) #select division combobox on site
             last = None
-            curDates = dates
+
+            ##
+            #code used to customize dates used for current division
+            curDates = dates # 
             # if div == "FBS":
-            #     curDates = dates[308:]
-            #     m.yearSelect('2014')
+            #     curDates = dates[662:]
+            #     m.yearSelect('2016')
+
             for date in curDates:
                 time.sleep(.2)
                 if '08/1/' in date:
                     year = date[5:]
-                    m.yearSelect(year)
+                    m.yearSelect(year) # move to next year since the first date of a new season is always august first
                 m.changeDate(date)
-                cur = m.getBoxes()
-                if last == cur:
+                cur = m.getBoxes() # get box score links from page
+                if last == cur: # if the links are new
                     continue
                 else:
                     last = cur

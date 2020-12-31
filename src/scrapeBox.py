@@ -43,8 +43,8 @@ class scrapeBox:
             self.fields = ['ID','date','division','team','opponent','statCategory','firstName','lastName','statistic','value']
             self.data = []
             self.ID = ID+1
-            self.getDetails()
-            self.parseBox(0)
+            self.getDetails() #date of game, team names
+            self.parseBox(0) #parse box a second time after 
             self.switchTeam()
             self.parseBox(1)
             self.write()
@@ -68,7 +68,7 @@ class scrapeBox:
         self.driver.get(self.url)    
     
     def switchTeam(self):
-        time.sleep(.5)
+        #time.sleep(.5)
         myXpath = "//div[@class='boxscore-team-selector-team homeTeam-bg-primary_color awayTeam-border-primary_color home']"
         homeTeam = self.driver.find_element_by_xpath(myXpath)
         self.driver.execute_script("arguments[0].click();", homeTeam)
