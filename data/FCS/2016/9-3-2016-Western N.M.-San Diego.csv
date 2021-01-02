@@ -1,0 +1,85 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9255001,9/3/2016,FCS,Western N.M.,San Diego,RUSHING,,Team,ATT,28
+9255002,9/3/2016,FCS,Western N.M.,San Diego,RUSHING,,Team,YDS,80
+9255003,9/3/2016,FCS,Western N.M.,San Diego,RUSHING,,Team,TD,0
+9255004,9/3/2016,FCS,Western N.M.,San Diego,RUSHING,,Team,LONG,60
+9255005,9/3/2016,FCS,Western N.M.,San Diego,PASSING,,Team,CP-ATT-INT,16-36-1
+9255006,9/3/2016,FCS,Western N.M.,San Diego,PASSING,,Team,YDS,142
+9255007,9/3/2016,FCS,Western N.M.,San Diego,PASSING,,Team,TD,0
+9255008,9/3/2016,FCS,Western N.M.,San Diego,PASSING,,Team,LONG,0
+9255009,9/3/2016,FCS,Western N.M.,San Diego,RECEIVING,,Team,REC,16
+9255010,9/3/2016,FCS,Western N.M.,San Diego,RECEIVING,,Team,YDS,142
+9255011,9/3/2016,FCS,Western N.M.,San Diego,RECEIVING,,Team,TD,0
+9255012,9/3/2016,FCS,Western N.M.,San Diego,RECEIVING,,Team,LONG,92
+9255013,9/3/2016,FCS,San Diego,Western N.M.,RUSHING,Jonah,Hodges,ATT,16
+9255014,9/3/2016,FCS,San Diego,Western N.M.,RUSHING,Jonah,Hodges,YDS,106
+9255015,9/3/2016,FCS,San Diego,Western N.M.,RUSHING,Jonah,Hodges,TD,2
+9255016,9/3/2016,FCS,San Diego,Western N.M.,RUSHING,Jonah,Hodges,LONG,31
+9255017,9/3/2016,FCS,San Diego,Western N.M.,RUSHING,Jereke,Armstrong,ATT,15
+9255018,9/3/2016,FCS,San Diego,Western N.M.,RUSHING,Jereke,Armstrong,YDS,53
+9255019,9/3/2016,FCS,San Diego,Western N.M.,RUSHING,Jereke,Armstrong,TD,0
+9255020,9/3/2016,FCS,San Diego,Western N.M.,RUSHING,Jereke,Armstrong,LONG,16
+9255021,9/3/2016,FCS,San Diego,Western N.M.,RUSHING,Anthony,Lawrence,ATT,7
+9255022,9/3/2016,FCS,San Diego,Western N.M.,RUSHING,Anthony,Lawrence,YDS,16
+9255023,9/3/2016,FCS,San Diego,Western N.M.,RUSHING,Anthony,Lawrence,TD,0
+9255024,9/3/2016,FCS,San Diego,Western N.M.,RUSHING,Anthony,Lawrence,LONG,6
+9255025,9/3/2016,FCS,San Diego,Western N.M.,RUSHING,Jordan,Charles,ATT,1
+9255026,9/3/2016,FCS,San Diego,Western N.M.,RUSHING,Jordan,Charles,YDS,12
+9255027,9/3/2016,FCS,San Diego,Western N.M.,RUSHING,Jordan,Charles,TD,0
+9255028,9/3/2016,FCS,San Diego,Western N.M.,RUSHING,Jordan,Charles,LONG,12
+9255029,9/3/2016,FCS,San Diego,Western N.M.,RUSHING,Fia,Malepeai,ATT,2
+9255030,9/3/2016,FCS,San Diego,Western N.M.,RUSHING,Fia,Malepeai,YDS,7
+9255031,9/3/2016,FCS,San Diego,Western N.M.,RUSHING,Fia,Malepeai,TD,0
+9255032,9/3/2016,FCS,San Diego,Western N.M.,RUSHING,Fia,Malepeai,LONG,5
+9255033,9/3/2016,FCS,San Diego,Western N.M.,RUSHING,,Team,ATT,1
+9255034,9/3/2016,FCS,San Diego,Western N.M.,RUSHING,,Team,YDS,-2
+9255035,9/3/2016,FCS,San Diego,Western N.M.,RUSHING,,Team,TD,0
+9255036,9/3/2016,FCS,San Diego,Western N.M.,RUSHING,,Team,LONG,0
+9255037,9/3/2016,FCS,San Diego,Western N.M.,PASSING,Anthony,Lawrence,CP-ATT-INT,17-26-0
+9255038,9/3/2016,FCS,San Diego,Western N.M.,PASSING,Anthony,Lawrence,YDS,211
+9255039,9/3/2016,FCS,San Diego,Western N.M.,PASSING,Anthony,Lawrence,TD,1
+9255040,9/3/2016,FCS,San Diego,Western N.M.,PASSING,Anthony,Lawrence,LONG,50
+9255041,9/3/2016,FCS,San Diego,Western N.M.,RECEIVING,Brian,Riley,REC,3
+9255042,9/3/2016,FCS,San Diego,Western N.M.,RECEIVING,Brian,Riley,YDS,92
+9255043,9/3/2016,FCS,San Diego,Western N.M.,RECEIVING,Brian,Riley,TD,0
+9255044,9/3/2016,FCS,San Diego,Western N.M.,RECEIVING,Brian,Riley,LONG,50
+9255045,9/3/2016,FCS,San Diego,Western N.M.,RECEIVING,Jonah,Hodges,REC,6
+9255046,9/3/2016,FCS,San Diego,Western N.M.,RECEIVING,Jonah,Hodges,YDS,53
+9255047,9/3/2016,FCS,San Diego,Western N.M.,RECEIVING,Jonah,Hodges,TD,0
+9255048,9/3/2016,FCS,San Diego,Western N.M.,RECEIVING,Jonah,Hodges,LONG,32
+9255049,9/3/2016,FCS,San Diego,Western N.M.,RECEIVING,Ross,Dwelley,REC,3
+9255050,9/3/2016,FCS,San Diego,Western N.M.,RECEIVING,Ross,Dwelley,YDS,46
+9255051,9/3/2016,FCS,San Diego,Western N.M.,RECEIVING,Ross,Dwelley,TD,1
+9255052,9/3/2016,FCS,San Diego,Western N.M.,RECEIVING,Ross,Dwelley,LONG,17
+9255053,9/3/2016,FCS,San Diego,Western N.M.,RECEIVING,Justin,Priest,REC,3
+9255054,9/3/2016,FCS,San Diego,Western N.M.,RECEIVING,Justin,Priest,YDS,13
+9255055,9/3/2016,FCS,San Diego,Western N.M.,RECEIVING,Justin,Priest,TD,0
+9255056,9/3/2016,FCS,San Diego,Western N.M.,RECEIVING,Justin,Priest,LONG,8
+9255057,9/3/2016,FCS,San Diego,Western N.M.,RECEIVING,Jacob,Arnell,REC,1
+9255058,9/3/2016,FCS,San Diego,Western N.M.,RECEIVING,Jacob,Arnell,YDS,8
+9255059,9/3/2016,FCS,San Diego,Western N.M.,RECEIVING,Jacob,Arnell,TD,0
+9255060,9/3/2016,FCS,San Diego,Western N.M.,RECEIVING,Jacob,Arnell,LONG,8
+9255061,9/3/2016,FCS,San Diego,Western N.M.,RECEIVING,Jereke,Armstrong,REC,1
+9255062,9/3/2016,FCS,San Diego,Western N.M.,RECEIVING,Jereke,Armstrong,YDS,-1
+9255063,9/3/2016,FCS,San Diego,Western N.M.,RECEIVING,Jereke,Armstrong,TD,0
+9255064,9/3/2016,FCS,San Diego,Western N.M.,RECEIVING,Jereke,Armstrong,LONG,0
+9255065,9/3/2016,FCS,San Diego,Western N.M.,KICKING,Patrick,Murray,FG-FGA,2/3
+9255066,9/3/2016,FCS,San Diego,Western N.M.,KICKING,Patrick,Murray,LONG,0
+9255067,9/3/2016,FCS,San Diego,Western N.M.,KICKING,Patrick,Murray,XP,3
+9255068,9/3/2016,FCS,San Diego,Western N.M.,KICKING,Patrick,Murray,PTS,9
+9255069,9/3/2016,FCS,San Diego,Western N.M.,PUNTING,Ryan,Belden,NO,5
+9255070,9/3/2016,FCS,San Diego,Western N.M.,PUNTING,Ryan,Belden,YDS,165
+9255071,9/3/2016,FCS,San Diego,Western N.M.,PUNTING,Ryan,Belden,AVG,33.0
+9255072,9/3/2016,FCS,San Diego,Western N.M.,PUNTING,Ryan,Belden,LONG,44
+9255073,9/3/2016,FCS,San Diego,Western N.M.,PUNT RETURNS,Jamal,Agnew,NO,2
+9255074,9/3/2016,FCS,San Diego,Western N.M.,PUNT RETURNS,Jamal,Agnew,YDS,5
+9255075,9/3/2016,FCS,San Diego,Western N.M.,PUNT RETURNS,Jamal,Agnew,AVG,2.5
+9255076,9/3/2016,FCS,San Diego,Western N.M.,PUNT RETURNS,Jamal,Agnew,LONG,3
+9255077,9/3/2016,FCS,San Diego,Western N.M.,PUNT RETURNS,Jacob,Arnell,NO,1
+9255078,9/3/2016,FCS,San Diego,Western N.M.,PUNT RETURNS,Jacob,Arnell,YDS,-1
+9255079,9/3/2016,FCS,San Diego,Western N.M.,PUNT RETURNS,Jacob,Arnell,AVG,-
+9255080,9/3/2016,FCS,San Diego,Western N.M.,PUNT RETURNS,Jacob,Arnell,LONG,0
+9255081,9/3/2016,FCS,San Diego,Western N.M.,KICK RETURNS,Jacob,Arnell,NO,1
+9255082,9/3/2016,FCS,San Diego,Western N.M.,KICK RETURNS,Jacob,Arnell,YDS,26
+9255083,9/3/2016,FCS,San Diego,Western N.M.,KICK RETURNS,Jacob,Arnell,AVG,26.0
+9255084,9/3/2016,FCS,San Diego,Western N.M.,KICK RETURNS,Jacob,Arnell,LONG,26

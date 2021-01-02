@@ -1,0 +1,177 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9098001,11/14/2015,FCS,San Diego,Davidson,RUSHING,Dallas,Kessman,ATT,10
+9098002,11/14/2015,FCS,San Diego,Davidson,RUSHING,Dallas,Kessman,YDS,124
+9098003,11/14/2015,FCS,San Diego,Davidson,RUSHING,Dallas,Kessman,TD,1
+9098004,11/14/2015,FCS,San Diego,Davidson,RUSHING,Dallas,Kessman,LONG,56
+9098005,11/14/2015,FCS,San Diego,Davidson,RUSHING,Jereke,Armstrong,ATT,8
+9098006,11/14/2015,FCS,San Diego,Davidson,RUSHING,Jereke,Armstrong,YDS,122
+9098007,11/14/2015,FCS,San Diego,Davidson,RUSHING,Jereke,Armstrong,TD,1
+9098008,11/14/2015,FCS,San Diego,Davidson,RUSHING,Jereke,Armstrong,LONG,65
+9098009,11/14/2015,FCS,San Diego,Davidson,RUSHING,Jonah,Hodges,ATT,9
+9098010,11/14/2015,FCS,San Diego,Davidson,RUSHING,Jonah,Hodges,YDS,37
+9098011,11/14/2015,FCS,San Diego,Davidson,RUSHING,Jonah,Hodges,TD,1
+9098012,11/14/2015,FCS,San Diego,Davidson,RUSHING,Jonah,Hodges,LONG,11
+9098013,11/14/2015,FCS,San Diego,Davidson,RUSHING,Chris,Willson,ATT,2
+9098014,11/14/2015,FCS,San Diego,Davidson,RUSHING,Chris,Willson,YDS,13
+9098015,11/14/2015,FCS,San Diego,Davidson,RUSHING,Chris,Willson,TD,1
+9098016,11/14/2015,FCS,San Diego,Davidson,RUSHING,Chris,Willson,LONG,11
+9098017,11/14/2015,FCS,San Diego,Davidson,RUSHING,Blake,Martin,ATT,4
+9098018,11/14/2015,FCS,San Diego,Davidson,RUSHING,Blake,Martin,YDS,11
+9098019,11/14/2015,FCS,San Diego,Davidson,RUSHING,Blake,Martin,TD,0
+9098020,11/14/2015,FCS,San Diego,Davidson,RUSHING,Blake,Martin,LONG,11
+9098021,11/14/2015,FCS,San Diego,Davidson,RUSHING,Brian,Riley,ATT,1
+9098022,11/14/2015,FCS,San Diego,Davidson,RUSHING,Brian,Riley,YDS,8
+9098023,11/14/2015,FCS,San Diego,Davidson,RUSHING,Brian,Riley,TD,0
+9098024,11/14/2015,FCS,San Diego,Davidson,RUSHING,Brian,Riley,LONG,8
+9098025,11/14/2015,FCS,San Diego,Davidson,RUSHING,Chris,Campano,ATT,1
+9098026,11/14/2015,FCS,San Diego,Davidson,RUSHING,Chris,Campano,YDS,1
+9098027,11/14/2015,FCS,San Diego,Davidson,RUSHING,Chris,Campano,TD,0
+9098028,11/14/2015,FCS,San Diego,Davidson,RUSHING,Chris,Campano,LONG,1
+9098029,11/14/2015,FCS,San Diego,Davidson,RUSHING,,Team,ATT,1
+9098030,11/14/2015,FCS,San Diego,Davidson,RUSHING,,Team,YDS,-2
+9098031,11/14/2015,FCS,San Diego,Davidson,RUSHING,,Team,TD,0
+9098032,11/14/2015,FCS,San Diego,Davidson,RUSHING,,Team,LONG,0
+9098033,11/14/2015,FCS,San Diego,Davidson,RUSHING,Anthony,Lawrence,ATT,8
+9098034,11/14/2015,FCS,San Diego,Davidson,RUSHING,Anthony,Lawrence,YDS,-36
+9098035,11/14/2015,FCS,San Diego,Davidson,RUSHING,Anthony,Lawrence,TD,0
+9098036,11/14/2015,FCS,San Diego,Davidson,RUSHING,Anthony,Lawrence,LONG,4
+9098037,11/14/2015,FCS,San Diego,Davidson,PASSING,Anthony,Lawrence,CP-ATT-INT,15-28-0
+9098038,11/14/2015,FCS,San Diego,Davidson,PASSING,Anthony,Lawrence,YDS,151
+9098039,11/14/2015,FCS,San Diego,Davidson,PASSING,Anthony,Lawrence,TD,1
+9098040,11/14/2015,FCS,San Diego,Davidson,PASSING,Anthony,Lawrence,LONG,37
+9098041,11/14/2015,FCS,San Diego,Davidson,PASSING,Justin,Priest,CP-ATT-INT,0-1-0
+9098042,11/14/2015,FCS,San Diego,Davidson,PASSING,Justin,Priest,YDS,0
+9098043,11/14/2015,FCS,San Diego,Davidson,PASSING,Justin,Priest,TD,0
+9098044,11/14/2015,FCS,San Diego,Davidson,PASSING,Justin,Priest,LONG,0
+9098045,11/14/2015,FCS,San Diego,Davidson,RECEIVING,Ross,Dwelley,REC,5
+9098046,11/14/2015,FCS,San Diego,Davidson,RECEIVING,Ross,Dwelley,YDS,56
+9098047,11/14/2015,FCS,San Diego,Davidson,RECEIVING,Ross,Dwelley,TD,0
+9098048,11/14/2015,FCS,San Diego,Davidson,RECEIVING,Ross,Dwelley,LONG,16
+9098049,11/14/2015,FCS,San Diego,Davidson,RECEIVING,Trevor,Barney,REC,1
+9098050,11/14/2015,FCS,San Diego,Davidson,RECEIVING,Trevor,Barney,YDS,37
+9098051,11/14/2015,FCS,San Diego,Davidson,RECEIVING,Trevor,Barney,TD,1
+9098052,11/14/2015,FCS,San Diego,Davidson,RECEIVING,Trevor,Barney,LONG,37
+9098053,11/14/2015,FCS,San Diego,Davidson,RECEIVING,Jonah,Hodges,REC,3
+9098054,11/14/2015,FCS,San Diego,Davidson,RECEIVING,Jonah,Hodges,YDS,21
+9098055,11/14/2015,FCS,San Diego,Davidson,RECEIVING,Jonah,Hodges,TD,0
+9098056,11/14/2015,FCS,San Diego,Davidson,RECEIVING,Jonah,Hodges,LONG,9
+9098057,11/14/2015,FCS,San Diego,Davidson,RECEIVING,Mason,Burnett,REC,1
+9098058,11/14/2015,FCS,San Diego,Davidson,RECEIVING,Mason,Burnett,YDS,12
+9098059,11/14/2015,FCS,San Diego,Davidson,RECEIVING,Mason,Burnett,TD,0
+9098060,11/14/2015,FCS,San Diego,Davidson,RECEIVING,Mason,Burnett,LONG,12
+9098061,11/14/2015,FCS,San Diego,Davidson,RECEIVING,Justin,Priest,REC,2
+9098062,11/14/2015,FCS,San Diego,Davidson,RECEIVING,Justin,Priest,YDS,9
+9098063,11/14/2015,FCS,San Diego,Davidson,RECEIVING,Justin,Priest,TD,0
+9098064,11/14/2015,FCS,San Diego,Davidson,RECEIVING,Justin,Priest,LONG,7
+9098065,11/14/2015,FCS,San Diego,Davidson,RECEIVING,Brian,Riley,REC,1
+9098066,11/14/2015,FCS,San Diego,Davidson,RECEIVING,Brian,Riley,YDS,6
+9098067,11/14/2015,FCS,San Diego,Davidson,RECEIVING,Brian,Riley,TD,0
+9098068,11/14/2015,FCS,San Diego,Davidson,RECEIVING,Brian,Riley,LONG,6
+9098069,11/14/2015,FCS,San Diego,Davidson,RECEIVING,Russell,Enholm,REC,1
+9098070,11/14/2015,FCS,San Diego,Davidson,RECEIVING,Russell,Enholm,YDS,5
+9098071,11/14/2015,FCS,San Diego,Davidson,RECEIVING,Russell,Enholm,TD,0
+9098072,11/14/2015,FCS,San Diego,Davidson,RECEIVING,Russell,Enholm,LONG,5
+9098073,11/14/2015,FCS,San Diego,Davidson,RECEIVING,Jereke,Armstrong,REC,1
+9098074,11/14/2015,FCS,San Diego,Davidson,RECEIVING,Jereke,Armstrong,YDS,5
+9098075,11/14/2015,FCS,San Diego,Davidson,RECEIVING,Jereke,Armstrong,TD,0
+9098076,11/14/2015,FCS,San Diego,Davidson,RECEIVING,Jereke,Armstrong,LONG,4
+9098077,11/14/2015,FCS,San Diego,Davidson,KICKING,Daniel,McManus,FG-FGA,0/1
+9098078,11/14/2015,FCS,San Diego,Davidson,KICKING,Daniel,McManus,LONG,0
+9098079,11/14/2015,FCS,San Diego,Davidson,KICKING,Daniel,McManus,XP,5
+9098080,11/14/2015,FCS,San Diego,Davidson,KICKING,Daniel,McManus,PTS,5
+9098081,11/14/2015,FCS,San Diego,Davidson,PUNTING,Ryan,Belden,NO,5
+9098082,11/14/2015,FCS,San Diego,Davidson,PUNTING,Ryan,Belden,YDS,183
+9098083,11/14/2015,FCS,San Diego,Davidson,PUNTING,Ryan,Belden,AVG,36.6
+9098084,11/14/2015,FCS,San Diego,Davidson,PUNTING,Ryan,Belden,LONG,60
+9098085,11/14/2015,FCS,San Diego,Davidson,PUNTING,Daniel,McManus,NO,1
+9098086,11/14/2015,FCS,San Diego,Davidson,PUNTING,Daniel,McManus,YDS,37
+9098087,11/14/2015,FCS,San Diego,Davidson,PUNTING,Daniel,McManus,AVG,37.0
+9098088,11/14/2015,FCS,San Diego,Davidson,PUNTING,Daniel,McManus,LONG,37
+9098089,11/14/2015,FCS,San Diego,Davidson,PUNT RETURNS,Jacob,Arnell,NO,2
+9098090,11/14/2015,FCS,San Diego,Davidson,PUNT RETURNS,Jacob,Arnell,YDS,9
+9098091,11/14/2015,FCS,San Diego,Davidson,PUNT RETURNS,Jacob,Arnell,AVG,4.5
+9098092,11/14/2015,FCS,San Diego,Davidson,PUNT RETURNS,Jacob,Arnell,LONG,5
+9098093,11/14/2015,FCS,San Diego,Davidson,PUNT RETURNS,Ross,Dwelley,NO,1
+9098094,11/14/2015,FCS,San Diego,Davidson,PUNT RETURNS,Ross,Dwelley,YDS,-3
+9098095,11/14/2015,FCS,San Diego,Davidson,PUNT RETURNS,Ross,Dwelley,AVG,-
+9098096,11/14/2015,FCS,San Diego,Davidson,PUNT RETURNS,Ross,Dwelley,LONG,-3
+9098097,11/14/2015,FCS,San Diego,Davidson,KICK RETURNS,Jacob,Arnell,NO,1
+9098098,11/14/2015,FCS,San Diego,Davidson,KICK RETURNS,Jacob,Arnell,YDS,20
+9098099,11/14/2015,FCS,San Diego,Davidson,KICK RETURNS,Jacob,Arnell,AVG,20.0
+9098100,11/14/2015,FCS,San Diego,Davidson,KICK RETURNS,Jacob,Arnell,LONG,20
+9098101,11/14/2015,FCS,San Diego,Davidson,KICK RETURNS,Jereke,Armstrong,NO,1
+9098102,11/14/2015,FCS,San Diego,Davidson,KICK RETURNS,Jereke,Armstrong,YDS,14
+9098103,11/14/2015,FCS,San Diego,Davidson,KICK RETURNS,Jereke,Armstrong,AVG,14.0
+9098104,11/14/2015,FCS,San Diego,Davidson,KICK RETURNS,Jereke,Armstrong,LONG,14
+9098105,11/14/2015,FCS,Davidson,San Diego,RUSHING,Jeffrey,Keil,ATT,5
+9098106,11/14/2015,FCS,Davidson,San Diego,RUSHING,Jeffrey,Keil,YDS,26
+9098107,11/14/2015,FCS,Davidson,San Diego,RUSHING,Jeffrey,Keil,TD,0
+9098108,11/14/2015,FCS,Davidson,San Diego,RUSHING,Jeffrey,Keil,LONG,18
+9098109,11/14/2015,FCS,Davidson,San Diego,RUSHING,David,Smith,ATT,9
+9098110,11/14/2015,FCS,Davidson,San Diego,RUSHING,David,Smith,YDS,20
+9098111,11/14/2015,FCS,Davidson,San Diego,RUSHING,David,Smith,TD,0
+9098112,11/14/2015,FCS,Davidson,San Diego,RUSHING,David,Smith,LONG,12
+9098113,11/14/2015,FCS,Davidson,San Diego,RUSHING,David,Rogers,ATT,5
+9098114,11/14/2015,FCS,Davidson,San Diego,RUSHING,David,Rogers,YDS,15
+9098115,11/14/2015,FCS,Davidson,San Diego,RUSHING,David,Rogers,TD,0
+9098116,11/14/2015,FCS,Davidson,San Diego,RUSHING,David,Rogers,LONG,11
+9098117,11/14/2015,FCS,Davidson,San Diego,RUSHING,,Team,ATT,1
+9098118,11/14/2015,FCS,Davidson,San Diego,RUSHING,,Team,YDS,-1
+9098119,11/14/2015,FCS,Davidson,San Diego,RUSHING,,Team,TD,0
+9098120,11/14/2015,FCS,Davidson,San Diego,RUSHING,,Team,LONG,0
+9098121,11/14/2015,FCS,Davidson,San Diego,RUSHING,Taylor,Mitchell,ATT,2
+9098122,11/14/2015,FCS,Davidson,San Diego,RUSHING,Taylor,Mitchell,YDS,-12
+9098123,11/14/2015,FCS,Davidson,San Diego,RUSHING,Taylor,Mitchell,TD,0
+9098124,11/14/2015,FCS,Davidson,San Diego,RUSHING,Taylor,Mitchell,LONG,0
+9098125,11/14/2015,FCS,Davidson,San Diego,PASSING,Taylor,Mitchell,CP-ATT-INT,20-37-1
+9098126,11/14/2015,FCS,Davidson,San Diego,PASSING,Taylor,Mitchell,YDS,180
+9098127,11/14/2015,FCS,Davidson,San Diego,PASSING,Taylor,Mitchell,TD,1
+9098128,11/14/2015,FCS,Davidson,San Diego,PASSING,Taylor,Mitchell,LONG,38
+9098129,11/14/2015,FCS,Davidson,San Diego,RECEIVING,William,Morris,REC,6
+9098130,11/14/2015,FCS,Davidson,San Diego,RECEIVING,William,Morris,YDS,68
+9098131,11/14/2015,FCS,Davidson,San Diego,RECEIVING,William,Morris,TD,0
+9098132,11/14/2015,FCS,Davidson,San Diego,RECEIVING,William,Morris,LONG,38
+9098133,11/14/2015,FCS,Davidson,San Diego,RECEIVING,Jeffrey,Keil,REC,1
+9098134,11/14/2015,FCS,Davidson,San Diego,RECEIVING,Jeffrey,Keil,YDS,34
+9098135,11/14/2015,FCS,Davidson,San Diego,RECEIVING,Jeffrey,Keil,TD,0
+9098136,11/14/2015,FCS,Davidson,San Diego,RECEIVING,Jeffrey,Keil,LONG,34
+9098137,11/14/2015,FCS,Davidson,San Diego,RECEIVING,Kahleel,Shaw,REC,2
+9098138,11/14/2015,FCS,Davidson,San Diego,RECEIVING,Kahleel,Shaw,YDS,21
+9098139,11/14/2015,FCS,Davidson,San Diego,RECEIVING,Kahleel,Shaw,TD,0
+9098140,11/14/2015,FCS,Davidson,San Diego,RECEIVING,Kahleel,Shaw,LONG,15
+9098141,11/14/2015,FCS,Davidson,San Diego,RECEIVING,Cam,Cheuvront,REC,2
+9098142,11/14/2015,FCS,Davidson,San Diego,RECEIVING,Cam,Cheuvront,YDS,18
+9098143,11/14/2015,FCS,Davidson,San Diego,RECEIVING,Cam,Cheuvront,TD,0
+9098144,11/14/2015,FCS,Davidson,San Diego,RECEIVING,Cam,Cheuvront,LONG,11
+9098145,11/14/2015,FCS,Davidson,San Diego,RECEIVING,Nick,Wheeler,REC,3
+9098146,11/14/2015,FCS,Davidson,San Diego,RECEIVING,Nick,Wheeler,YDS,17
+9098147,11/14/2015,FCS,Davidson,San Diego,RECEIVING,Nick,Wheeler,TD,0
+9098148,11/14/2015,FCS,Davidson,San Diego,RECEIVING,Nick,Wheeler,LONG,7
+9098149,11/14/2015,FCS,Davidson,San Diego,RECEIVING,Derek,Jones,REC,3
+9098150,11/14/2015,FCS,Davidson,San Diego,RECEIVING,Derek,Jones,YDS,16
+9098151,11/14/2015,FCS,Davidson,San Diego,RECEIVING,Derek,Jones,TD,0
+9098152,11/14/2015,FCS,Davidson,San Diego,RECEIVING,Derek,Jones,LONG,7
+9098153,11/14/2015,FCS,Davidson,San Diego,RECEIVING,David,Smith,REC,2
+9098154,11/14/2015,FCS,Davidson,San Diego,RECEIVING,David,Smith,YDS,12
+9098155,11/14/2015,FCS,Davidson,San Diego,RECEIVING,David,Smith,TD,1
+9098156,11/14/2015,FCS,Davidson,San Diego,RECEIVING,David,Smith,LONG,17
+9098157,11/14/2015,FCS,Davidson,San Diego,RECEIVING,Austin,Wells,REC,1
+9098158,11/14/2015,FCS,Davidson,San Diego,RECEIVING,Austin,Wells,YDS,-6
+9098159,11/14/2015,FCS,Davidson,San Diego,RECEIVING,Austin,Wells,TD,0
+9098160,11/14/2015,FCS,Davidson,San Diego,RECEIVING,Austin,Wells,LONG,-6
+9098161,11/14/2015,FCS,Davidson,San Diego,KICKING,Trevor,Smith,FG-FGA,1/2
+9098162,11/14/2015,FCS,Davidson,San Diego,KICKING,Trevor,Smith,LONG,28
+9098163,11/14/2015,FCS,Davidson,San Diego,KICKING,Trevor,Smith,XP,1
+9098164,11/14/2015,FCS,Davidson,San Diego,KICKING,Trevor,Smith,PTS,4
+9098165,11/14/2015,FCS,Davidson,San Diego,PUNTING,John,Cook,NO,7
+9098166,11/14/2015,FCS,Davidson,San Diego,PUNTING,John,Cook,YDS,272
+9098167,11/14/2015,FCS,Davidson,San Diego,PUNTING,John,Cook,AVG,38.9
+9098168,11/14/2015,FCS,Davidson,San Diego,PUNTING,John,Cook,LONG,58
+9098169,11/14/2015,FCS,Davidson,San Diego,KICK RETURNS,Ben,Rowell,NO,1
+9098170,11/14/2015,FCS,Davidson,San Diego,KICK RETURNS,Ben,Rowell,YDS,45
+9098171,11/14/2015,FCS,Davidson,San Diego,KICK RETURNS,Ben,Rowell,AVG,45.0
+9098172,11/14/2015,FCS,Davidson,San Diego,KICK RETURNS,Ben,Rowell,LONG,45
+9098173,11/14/2015,FCS,Davidson,San Diego,KICK RETURNS,Austin,Wells,NO,2
+9098174,11/14/2015,FCS,Davidson,San Diego,KICK RETURNS,Austin,Wells,YDS,30
+9098175,11/14/2015,FCS,Davidson,San Diego,KICK RETURNS,Austin,Wells,AVG,15.0
+9098176,11/14/2015,FCS,Davidson,San Diego,KICK RETURNS,Austin,Wells,LONG,21

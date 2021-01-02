@@ -1,0 +1,133 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+10712001,11/18/2017,FCS,Southern Ill.,Western Illinois,RUSHING,Matt,DeSomer,ATT,15
+10712002,11/18/2017,FCS,Southern Ill.,Western Illinois,RUSHING,Matt,DeSomer,YDS,73
+10712003,11/18/2017,FCS,Southern Ill.,Western Illinois,RUSHING,Matt,DeSomer,TD,0
+10712004,11/18/2017,FCS,Southern Ill.,Western Illinois,RUSHING,Matt,DeSomer,LONG,17
+10712005,11/18/2017,FCS,Southern Ill.,Western Illinois,RUSHING,D.J.,Davis,ATT,8
+10712006,11/18/2017,FCS,Southern Ill.,Western Illinois,RUSHING,D.J.,Davis,YDS,47
+10712007,11/18/2017,FCS,Southern Ill.,Western Illinois,RUSHING,D.J.,Davis,TD,0
+10712008,11/18/2017,FCS,Southern Ill.,Western Illinois,RUSHING,D.J.,Davis,LONG,32
+10712009,11/18/2017,FCS,Southern Ill.,Western Illinois,RUSHING,Jonathan,Mixon,ATT,9
+10712010,11/18/2017,FCS,Southern Ill.,Western Illinois,RUSHING,Jonathan,Mixon,YDS,25
+10712011,11/18/2017,FCS,Southern Ill.,Western Illinois,RUSHING,Jonathan,Mixon,TD,0
+10712012,11/18/2017,FCS,Southern Ill.,Western Illinois,RUSHING,Jonathan,Mixon,LONG,6
+10712013,11/18/2017,FCS,Southern Ill.,Western Illinois,RUSHING,Chris,Perkins,ATT,2
+10712014,11/18/2017,FCS,Southern Ill.,Western Illinois,RUSHING,Chris,Perkins,YDS,4
+10712015,11/18/2017,FCS,Southern Ill.,Western Illinois,RUSHING,Chris,Perkins,TD,0
+10712016,11/18/2017,FCS,Southern Ill.,Western Illinois,RUSHING,Chris,Perkins,LONG,4
+10712017,11/18/2017,FCS,Southern Ill.,Western Illinois,RUSHING,,Team,ATT,1
+10712018,11/18/2017,FCS,Southern Ill.,Western Illinois,RUSHING,,Team,YDS,-2
+10712019,11/18/2017,FCS,Southern Ill.,Western Illinois,RUSHING,,Team,TD,0
+10712020,11/18/2017,FCS,Southern Ill.,Western Illinois,RUSHING,,Team,LONG,0
+10712021,11/18/2017,FCS,Southern Ill.,Western Illinois,PASSING,Matt,DeSomer,CP-ATT-INT,6-10-2
+10712022,11/18/2017,FCS,Southern Ill.,Western Illinois,PASSING,Matt,DeSomer,YDS,62
+10712023,11/18/2017,FCS,Southern Ill.,Western Illinois,PASSING,Matt,DeSomer,TD,2
+10712024,11/18/2017,FCS,Southern Ill.,Western Illinois,PASSING,Matt,DeSomer,LONG,44
+10712025,11/18/2017,FCS,Southern Ill.,Western Illinois,PASSING,Tanner,Hearn,CP-ATT-INT,0-1-0
+10712026,11/18/2017,FCS,Southern Ill.,Western Illinois,PASSING,Tanner,Hearn,YDS,0
+10712027,11/18/2017,FCS,Southern Ill.,Western Illinois,PASSING,Tanner,Hearn,TD,0
+10712028,11/18/2017,FCS,Southern Ill.,Western Illinois,PASSING,Tanner,Hearn,LONG,0
+10712029,11/18/2017,FCS,Southern Ill.,Western Illinois,RECEIVING,Darrell,James,REC,3
+10712030,11/18/2017,FCS,Southern Ill.,Western Illinois,RECEIVING,Darrell,James,YDS,49
+10712031,11/18/2017,FCS,Southern Ill.,Western Illinois,RECEIVING,Darrell,James,TD,1
+10712032,11/18/2017,FCS,Southern Ill.,Western Illinois,RECEIVING,Darrell,James,LONG,44
+10712033,11/18/2017,FCS,Southern Ill.,Western Illinois,RECEIVING,Raphael,Leonard,REC,1
+10712034,11/18/2017,FCS,Southern Ill.,Western Illinois,RECEIVING,Raphael,Leonard,YDS,10
+10712035,11/18/2017,FCS,Southern Ill.,Western Illinois,RECEIVING,Raphael,Leonard,TD,1
+10712036,11/18/2017,FCS,Southern Ill.,Western Illinois,RECEIVING,Raphael,Leonard,LONG,10
+10712037,11/18/2017,FCS,Southern Ill.,Western Illinois,RECEIVING,D.J.,Davis,REC,2
+10712038,11/18/2017,FCS,Southern Ill.,Western Illinois,RECEIVING,D.J.,Davis,YDS,3
+10712039,11/18/2017,FCS,Southern Ill.,Western Illinois,RECEIVING,D.J.,Davis,TD,0
+10712040,11/18/2017,FCS,Southern Ill.,Western Illinois,RECEIVING,D.J.,Davis,LONG,3
+10712041,11/18/2017,FCS,Southern Ill.,Western Illinois,KICKING,Nico,Gualdoni,FG-FGA,0/0
+10712042,11/18/2017,FCS,Southern Ill.,Western Illinois,KICKING,Nico,Gualdoni,LONG,-
+10712043,11/18/2017,FCS,Southern Ill.,Western Illinois,KICKING,Nico,Gualdoni,XP,2
+10712044,11/18/2017,FCS,Southern Ill.,Western Illinois,KICKING,Nico,Gualdoni,PTS,2
+10712045,11/18/2017,FCS,Southern Ill.,Western Illinois,PUNTING,Lane,Reazin,NO,6
+10712046,11/18/2017,FCS,Southern Ill.,Western Illinois,PUNTING,Lane,Reazin,YDS,259
+10712047,11/18/2017,FCS,Southern Ill.,Western Illinois,PUNTING,Lane,Reazin,AVG,43.2
+10712048,11/18/2017,FCS,Southern Ill.,Western Illinois,PUNTING,Lane,Reazin,LONG,66
+10712049,11/18/2017,FCS,Southern Ill.,Western Illinois,PUNT RETURNS,Darrell,James,NO,3
+10712050,11/18/2017,FCS,Southern Ill.,Western Illinois,PUNT RETURNS,Darrell,James,YDS,20
+10712051,11/18/2017,FCS,Southern Ill.,Western Illinois,PUNT RETURNS,Darrell,James,AVG,6.7
+10712052,11/18/2017,FCS,Southern Ill.,Western Illinois,PUNT RETURNS,Darrell,James,LONG,17
+10712053,11/18/2017,FCS,Southern Ill.,Western Illinois,KICK RETURNS,D.J.,Davis,NO,1
+10712054,11/18/2017,FCS,Southern Ill.,Western Illinois,KICK RETURNS,D.J.,Davis,YDS,6
+10712055,11/18/2017,FCS,Southern Ill.,Western Illinois,KICK RETURNS,D.J.,Davis,AVG,6.0
+10712056,11/18/2017,FCS,Southern Ill.,Western Illinois,KICK RETURNS,D.J.,Davis,LONG,6
+10712057,11/18/2017,FCS,Western Illinois,Southern Ill.,RUSHING,Max,Norris,ATT,14
+10712058,11/18/2017,FCS,Western Illinois,Southern Ill.,RUSHING,Max,Norris,YDS,68
+10712059,11/18/2017,FCS,Western Illinois,Southern Ill.,RUSHING,Max,Norris,TD,1
+10712060,11/18/2017,FCS,Western Illinois,Southern Ill.,RUSHING,Max,Norris,LONG,17
+10712061,11/18/2017,FCS,Western Illinois,Southern Ill.,RUSHING,Steve,McShane,ATT,18
+10712062,11/18/2017,FCS,Western Illinois,Southern Ill.,RUSHING,Steve,McShane,YDS,55
+10712063,11/18/2017,FCS,Western Illinois,Southern Ill.,RUSHING,Steve,McShane,TD,0
+10712064,11/18/2017,FCS,Western Illinois,Southern Ill.,RUSHING,Steve,McShane,LONG,15
+10712065,11/18/2017,FCS,Western Illinois,Southern Ill.,RUSHING,Clint,Ratkovich,ATT,4
+10712066,11/18/2017,FCS,Western Illinois,Southern Ill.,RUSHING,Clint,Ratkovich,YDS,29
+10712067,11/18/2017,FCS,Western Illinois,Southern Ill.,RUSHING,Clint,Ratkovich,TD,0
+10712068,11/18/2017,FCS,Western Illinois,Southern Ill.,RUSHING,Clint,Ratkovich,LONG,11
+10712069,11/18/2017,FCS,Western Illinois,Southern Ill.,RUSHING,Jaelon,Acklin,ATT,3
+10712070,11/18/2017,FCS,Western Illinois,Southern Ill.,RUSHING,Jaelon,Acklin,YDS,19
+10712071,11/18/2017,FCS,Western Illinois,Southern Ill.,RUSHING,Jaelon,Acklin,TD,1
+10712072,11/18/2017,FCS,Western Illinois,Southern Ill.,RUSHING,Jaelon,Acklin,LONG,9
+10712073,11/18/2017,FCS,Western Illinois,Southern Ill.,RUSHING,Sean,McGuire,ATT,1
+10712074,11/18/2017,FCS,Western Illinois,Southern Ill.,RUSHING,Sean,McGuire,YDS,7
+10712075,11/18/2017,FCS,Western Illinois,Southern Ill.,RUSHING,Sean,McGuire,TD,0
+10712076,11/18/2017,FCS,Western Illinois,Southern Ill.,RUSHING,Sean,McGuire,LONG,7
+10712077,11/18/2017,FCS,Western Illinois,Southern Ill.,RUSHING,Khalen,Saunders,ATT,1
+10712078,11/18/2017,FCS,Western Illinois,Southern Ill.,RUSHING,Khalen,Saunders,YDS,1
+10712079,11/18/2017,FCS,Western Illinois,Southern Ill.,RUSHING,Khalen,Saunders,TD,0
+10712080,11/18/2017,FCS,Western Illinois,Southern Ill.,RUSHING,Khalen,Saunders,LONG,1
+10712081,11/18/2017,FCS,Western Illinois,Southern Ill.,RUSHING,,Team,ATT,3
+10712082,11/18/2017,FCS,Western Illinois,Southern Ill.,RUSHING,,Team,YDS,-10
+10712083,11/18/2017,FCS,Western Illinois,Southern Ill.,RUSHING,,Team,TD,0
+10712084,11/18/2017,FCS,Western Illinois,Southern Ill.,RUSHING,,Team,LONG,0
+10712085,11/18/2017,FCS,Western Illinois,Southern Ill.,PASSING,Sean,McGuire,CP-ATT-INT,16-27-0
+10712086,11/18/2017,FCS,Western Illinois,Southern Ill.,PASSING,Sean,McGuire,YDS,158
+10712087,11/18/2017,FCS,Western Illinois,Southern Ill.,PASSING,Sean,McGuire,TD,2
+10712088,11/18/2017,FCS,Western Illinois,Southern Ill.,PASSING,Sean,McGuire,LONG,52
+10712089,11/18/2017,FCS,Western Illinois,Southern Ill.,RECEIVING,Jaelon,Acklin,REC,6
+10712090,11/18/2017,FCS,Western Illinois,Southern Ill.,RECEIVING,Jaelon,Acklin,YDS,93
+10712091,11/18/2017,FCS,Western Illinois,Southern Ill.,RECEIVING,Jaelon,Acklin,TD,1
+10712092,11/18/2017,FCS,Western Illinois,Southern Ill.,RECEIVING,Jaelon,Acklin,LONG,52
+10712093,11/18/2017,FCS,Western Illinois,Southern Ill.,RECEIVING,Steve,McShane,REC,4
+10712094,11/18/2017,FCS,Western Illinois,Southern Ill.,RECEIVING,Steve,McShane,YDS,28
+10712095,11/18/2017,FCS,Western Illinois,Southern Ill.,RECEIVING,Steve,McShane,TD,1
+10712096,11/18/2017,FCS,Western Illinois,Southern Ill.,RECEIVING,Steve,McShane,LONG,14
+10712097,11/18/2017,FCS,Western Illinois,Southern Ill.,RECEIVING,Brandon,Gaston,REC,2
+10712098,11/18/2017,FCS,Western Illinois,Southern Ill.,RECEIVING,Brandon,Gaston,YDS,19
+10712099,11/18/2017,FCS,Western Illinois,Southern Ill.,RECEIVING,Brandon,Gaston,TD,0
+10712100,11/18/2017,FCS,Western Illinois,Southern Ill.,RECEIVING,Brandon,Gaston,LONG,10
+10712101,11/18/2017,FCS,Western Illinois,Southern Ill.,RECEIVING,Tony,Harper,REC,2
+10712102,11/18/2017,FCS,Western Illinois,Southern Ill.,RECEIVING,Tony,Harper,YDS,9
+10712103,11/18/2017,FCS,Western Illinois,Southern Ill.,RECEIVING,Tony,Harper,TD,0
+10712104,11/18/2017,FCS,Western Illinois,Southern Ill.,RECEIVING,Tony,Harper,LONG,5
+10712105,11/18/2017,FCS,Western Illinois,Southern Ill.,RECEIVING,Clint,Ratkovich,REC,2
+10712106,11/18/2017,FCS,Western Illinois,Southern Ill.,RECEIVING,Clint,Ratkovich,YDS,9
+10712107,11/18/2017,FCS,Western Illinois,Southern Ill.,RECEIVING,Clint,Ratkovich,TD,0
+10712108,11/18/2017,FCS,Western Illinois,Southern Ill.,RECEIVING,Clint,Ratkovich,LONG,6
+10712109,11/18/2017,FCS,Western Illinois,Southern Ill.,KICKING,Nathan,Erickson,FG-FGA,0/1
+10712110,11/18/2017,FCS,Western Illinois,Southern Ill.,KICKING,Nathan,Erickson,LONG,0
+10712111,11/18/2017,FCS,Western Illinois,Southern Ill.,KICKING,Nathan,Erickson,XP,0
+10712112,11/18/2017,FCS,Western Illinois,Southern Ill.,KICKING,Nathan,Erickson,PTS,0
+10712113,11/18/2017,FCS,Western Illinois,Southern Ill.,KICKING,Sam,Crosa,FG-FGA,0/0
+10712114,11/18/2017,FCS,Western Illinois,Southern Ill.,KICKING,Sam,Crosa,LONG,-
+10712115,11/18/2017,FCS,Western Illinois,Southern Ill.,KICKING,Sam,Crosa,XP,4
+10712116,11/18/2017,FCS,Western Illinois,Southern Ill.,KICKING,Sam,Crosa,PTS,4
+10712117,11/18/2017,FCS,Western Illinois,Southern Ill.,PUNTING,Adam,Fellner,NO,6
+10712118,11/18/2017,FCS,Western Illinois,Southern Ill.,PUNTING,Adam,Fellner,YDS,202
+10712119,11/18/2017,FCS,Western Illinois,Southern Ill.,PUNTING,Adam,Fellner,AVG,33.7
+10712120,11/18/2017,FCS,Western Illinois,Southern Ill.,PUNTING,Adam,Fellner,LONG,62
+10712121,11/18/2017,FCS,Western Illinois,Southern Ill.,PUNT RETURNS,Steve,McShane,NO,2
+10712122,11/18/2017,FCS,Western Illinois,Southern Ill.,PUNT RETURNS,Steve,McShane,YDS,34
+10712123,11/18/2017,FCS,Western Illinois,Southern Ill.,PUNT RETURNS,Steve,McShane,AVG,17.0
+10712124,11/18/2017,FCS,Western Illinois,Southern Ill.,PUNT RETURNS,Steve,McShane,LONG,23
+10712125,11/18/2017,FCS,Western Illinois,Southern Ill.,KICK RETURNS,Clint,Ratkovich,NO,1
+10712126,11/18/2017,FCS,Western Illinois,Southern Ill.,KICK RETURNS,Clint,Ratkovich,YDS,19
+10712127,11/18/2017,FCS,Western Illinois,Southern Ill.,KICK RETURNS,Clint,Ratkovich,AVG,19.0
+10712128,11/18/2017,FCS,Western Illinois,Southern Ill.,KICK RETURNS,Clint,Ratkovich,LONG,19
+10712129,11/18/2017,FCS,Western Illinois,Southern Ill.,KICK RETURNS,Darron,Wheeler,NO,1
+10712130,11/18/2017,FCS,Western Illinois,Southern Ill.,KICK RETURNS,Darron,Wheeler,YDS,17
+10712131,11/18/2017,FCS,Western Illinois,Southern Ill.,KICK RETURNS,Darron,Wheeler,AVG,17.0
+10712132,11/18/2017,FCS,Western Illinois,Southern Ill.,KICK RETURNS,Darron,Wheeler,LONG,17

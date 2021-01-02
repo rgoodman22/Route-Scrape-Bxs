@@ -1,0 +1,149 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+10501001,10/21/2017,FCS,Stetson,Morehead State,RUSHING,Bryce,Blackmon,ATT,15
+10501002,10/21/2017,FCS,Stetson,Morehead State,RUSHING,Bryce,Blackmon,YDS,63
+10501003,10/21/2017,FCS,Stetson,Morehead State,RUSHING,Bryce,Blackmon,TD,1
+10501004,10/21/2017,FCS,Stetson,Morehead State,RUSHING,Bryce,Blackmon,LONG,17
+10501005,10/21/2017,FCS,Stetson,Morehead State,RUSHING,Gordon,Stetson,ATT,11
+10501006,10/21/2017,FCS,Stetson,Morehead State,RUSHING,Gordon,Stetson,YDS,23
+10501007,10/21/2017,FCS,Stetson,Morehead State,RUSHING,Gordon,Stetson,TD,0
+10501008,10/21/2017,FCS,Stetson,Morehead State,RUSHING,Gordon,Stetson,LONG,6
+10501009,10/21/2017,FCS,Stetson,Morehead State,RUSHING,Colin,McGovern,ATT,7
+10501010,10/21/2017,FCS,Stetson,Morehead State,RUSHING,Colin,McGovern,YDS,-1
+10501011,10/21/2017,FCS,Stetson,Morehead State,RUSHING,Colin,McGovern,TD,0
+10501012,10/21/2017,FCS,Stetson,Morehead State,RUSHING,Colin,McGovern,LONG,3
+10501013,10/21/2017,FCS,Stetson,Morehead State,PASSING,Colin,McGovern,CP-ATT-INT,23-36-2
+10501014,10/21/2017,FCS,Stetson,Morehead State,PASSING,Colin,McGovern,YDS,240
+10501015,10/21/2017,FCS,Stetson,Morehead State,PASSING,Colin,McGovern,TD,1
+10501016,10/21/2017,FCS,Stetson,Morehead State,PASSING,Colin,McGovern,LONG,26
+10501017,10/21/2017,FCS,Stetson,Morehead State,RECEIVING,Donald,Parham,REC,9
+10501018,10/21/2017,FCS,Stetson,Morehead State,RECEIVING,Donald,Parham,YDS,98
+10501019,10/21/2017,FCS,Stetson,Morehead State,RECEIVING,Donald,Parham,TD,0
+10501020,10/21/2017,FCS,Stetson,Morehead State,RECEIVING,Donald,Parham,LONG,26
+10501021,10/21/2017,FCS,Stetson,Morehead State,RECEIVING,Justin,Jordan,REC,8
+10501022,10/21/2017,FCS,Stetson,Morehead State,RECEIVING,Justin,Jordan,YDS,98
+10501023,10/21/2017,FCS,Stetson,Morehead State,RECEIVING,Justin,Jordan,TD,0
+10501024,10/21/2017,FCS,Stetson,Morehead State,RECEIVING,Justin,Jordan,LONG,20
+10501025,10/21/2017,FCS,Stetson,Morehead State,RECEIVING,Ja'Vonta,Swinton,REC,3
+10501026,10/21/2017,FCS,Stetson,Morehead State,RECEIVING,Ja'Vonta,Swinton,YDS,24
+10501027,10/21/2017,FCS,Stetson,Morehead State,RECEIVING,Ja'Vonta,Swinton,TD,0
+10501028,10/21/2017,FCS,Stetson,Morehead State,RECEIVING,Ja'Vonta,Swinton,LONG,17
+10501029,10/21/2017,FCS,Stetson,Morehead State,RECEIVING,Gordon,Stetson,REC,2
+10501030,10/21/2017,FCS,Stetson,Morehead State,RECEIVING,Gordon,Stetson,YDS,13
+10501031,10/21/2017,FCS,Stetson,Morehead State,RECEIVING,Gordon,Stetson,TD,1
+10501032,10/21/2017,FCS,Stetson,Morehead State,RECEIVING,Gordon,Stetson,LONG,9
+10501033,10/21/2017,FCS,Stetson,Morehead State,RECEIVING,Jeremiah,Nails,REC,1
+10501034,10/21/2017,FCS,Stetson,Morehead State,RECEIVING,Jeremiah,Nails,YDS,7
+10501035,10/21/2017,FCS,Stetson,Morehead State,RECEIVING,Jeremiah,Nails,TD,0
+10501036,10/21/2017,FCS,Stetson,Morehead State,RECEIVING,Jeremiah,Nails,LONG,7
+10501037,10/21/2017,FCS,Stetson,Morehead State,KICKING,Jonny,Messina,FG-FGA,2/2
+10501038,10/21/2017,FCS,Stetson,Morehead State,KICKING,Jonny,Messina,LONG,27
+10501039,10/21/2017,FCS,Stetson,Morehead State,KICKING,Jonny,Messina,XP,2
+10501040,10/21/2017,FCS,Stetson,Morehead State,KICKING,Jonny,Messina,PTS,8
+10501041,10/21/2017,FCS,Stetson,Morehead State,PUNTING,Matias,Gasc,NO,3
+10501042,10/21/2017,FCS,Stetson,Morehead State,PUNTING,Matias,Gasc,YDS,98
+10501043,10/21/2017,FCS,Stetson,Morehead State,PUNTING,Matias,Gasc,AVG,32.7
+10501044,10/21/2017,FCS,Stetson,Morehead State,PUNTING,Matias,Gasc,LONG,35
+10501045,10/21/2017,FCS,Stetson,Morehead State,KICK RETURNS,Gordon,Stetson,NO,3
+10501046,10/21/2017,FCS,Stetson,Morehead State,KICK RETURNS,Gordon,Stetson,YDS,61
+10501047,10/21/2017,FCS,Stetson,Morehead State,KICK RETURNS,Gordon,Stetson,AVG,20.3
+10501048,10/21/2017,FCS,Stetson,Morehead State,KICK RETURNS,Gordon,Stetson,LONG,23
+10501049,10/21/2017,FCS,Stetson,Morehead State,KICK RETURNS,Ja'Vonta,Swinton,NO,1
+10501050,10/21/2017,FCS,Stetson,Morehead State,KICK RETURNS,Ja'Vonta,Swinton,YDS,13
+10501051,10/21/2017,FCS,Stetson,Morehead State,KICK RETURNS,Ja'Vonta,Swinton,AVG,13.0
+10501052,10/21/2017,FCS,Stetson,Morehead State,KICK RETURNS,Ja'Vonta,Swinton,LONG,13
+10501053,10/21/2017,FCS,Stetson,Morehead State,KICK RETURNS,Bryce,Blackmon,NO,1
+10501054,10/21/2017,FCS,Stetson,Morehead State,KICK RETURNS,Bryce,Blackmon,YDS,10
+10501055,10/21/2017,FCS,Stetson,Morehead State,KICK RETURNS,Bryce,Blackmon,AVG,10.0
+10501056,10/21/2017,FCS,Stetson,Morehead State,KICK RETURNS,Bryce,Blackmon,LONG,0
+10501057,10/21/2017,FCS,Morehead State,Stetson,RUSHING,Lawson,Page,ATT,16
+10501058,10/21/2017,FCS,Morehead State,Stetson,RUSHING,Lawson,Page,YDS,103
+10501059,10/21/2017,FCS,Morehead State,Stetson,RUSHING,Lawson,Page,TD,1
+10501060,10/21/2017,FCS,Morehead State,Stetson,RUSHING,Lawson,Page,LONG,28
+10501061,10/21/2017,FCS,Morehead State,Stetson,RUSHING,Logan,Holbrook,ATT,13
+10501062,10/21/2017,FCS,Morehead State,Stetson,RUSHING,Logan,Holbrook,YDS,28
+10501063,10/21/2017,FCS,Morehead State,Stetson,RUSHING,Logan,Holbrook,TD,0
+10501064,10/21/2017,FCS,Morehead State,Stetson,RUSHING,Logan,Holbrook,LONG,11
+10501065,10/21/2017,FCS,Morehead State,Stetson,RUSHING,Arien,Beasley,ATT,7
+10501066,10/21/2017,FCS,Morehead State,Stetson,RUSHING,Arien,Beasley,YDS,18
+10501067,10/21/2017,FCS,Morehead State,Stetson,RUSHING,Arien,Beasley,TD,0
+10501068,10/21/2017,FCS,Morehead State,Stetson,RUSHING,Arien,Beasley,LONG,9
+10501069,10/21/2017,FCS,Morehead State,Stetson,RUSHING,Juanyea,Tarver,ATT,2
+10501070,10/21/2017,FCS,Morehead State,Stetson,RUSHING,Juanyea,Tarver,YDS,-10
+10501071,10/21/2017,FCS,Morehead State,Stetson,RUSHING,Juanyea,Tarver,TD,0
+10501072,10/21/2017,FCS,Morehead State,Stetson,RUSHING,Juanyea,Tarver,LONG,0
+10501073,10/21/2017,FCS,Morehead State,Stetson,PASSING,Lawson,Page,CP-ATT-INT,25-34-1
+10501074,10/21/2017,FCS,Morehead State,Stetson,PASSING,Lawson,Page,YDS,221
+10501075,10/21/2017,FCS,Morehead State,Stetson,PASSING,Lawson,Page,TD,3
+10501076,10/21/2017,FCS,Morehead State,Stetson,PASSING,Lawson,Page,LONG,26
+10501077,10/21/2017,FCS,Morehead State,Stetson,PASSING,Bradley,Boone,CP-ATT-INT,1-1-0
+10501078,10/21/2017,FCS,Morehead State,Stetson,PASSING,Bradley,Boone,YDS,32
+10501079,10/21/2017,FCS,Morehead State,Stetson,PASSING,Bradley,Boone,TD,0
+10501080,10/21/2017,FCS,Morehead State,Stetson,PASSING,Bradley,Boone,LONG,32
+10501081,10/21/2017,FCS,Morehead State,Stetson,PASSING,Juanyea,Tarver,CP-ATT-INT,0-0-0
+10501082,10/21/2017,FCS,Morehead State,Stetson,PASSING,Juanyea,Tarver,YDS,0
+10501083,10/21/2017,FCS,Morehead State,Stetson,PASSING,Juanyea,Tarver,TD,0
+10501084,10/21/2017,FCS,Morehead State,Stetson,PASSING,Juanyea,Tarver,LONG,0
+10501085,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Landon,Hurst,REC,7
+10501086,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Landon,Hurst,YDS,70
+10501087,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Landon,Hurst,TD,2
+10501088,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Landon,Hurst,LONG,26
+10501089,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Jake,Sutherland,REC,3
+10501090,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Jake,Sutherland,YDS,37
+10501091,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Jake,Sutherland,TD,0
+10501092,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Jake,Sutherland,LONG,18
+10501093,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Dalton,Frasure,REC,1
+10501094,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Dalton,Frasure,YDS,32
+10501095,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Dalton,Frasure,TD,0
+10501096,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Dalton,Frasure,LONG,32
+10501097,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Nathan,Sames,REC,3
+10501098,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Nathan,Sames,YDS,31
+10501099,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Nathan,Sames,TD,1
+10501100,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Nathan,Sames,LONG,15
+10501101,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Christian,Robinson,REC,1
+10501102,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Christian,Robinson,YDS,24
+10501103,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Christian,Robinson,TD,0
+10501104,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Christian,Robinson,LONG,24
+10501105,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,De'Vonte,Adams,REC,2
+10501106,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,De'Vonte,Adams,YDS,16
+10501107,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,De'Vonte,Adams,TD,0
+10501108,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,De'Vonte,Adams,LONG,10
+10501109,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Jarin,Higginbotham,REC,2
+10501110,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Jarin,Higginbotham,YDS,15
+10501111,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Jarin,Higginbotham,TD,0
+10501112,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Jarin,Higginbotham,LONG,10
+10501113,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Sugar,RayWyche,REC,2
+10501114,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Sugar,RayWyche,YDS,11
+10501115,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Sugar,RayWyche,TD,0
+10501116,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Sugar,RayWyche,LONG,9
+10501117,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Logan,Holbrook,REC,3
+10501118,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Logan,Holbrook,YDS,10
+10501119,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Logan,Holbrook,TD,0
+10501120,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Logan,Holbrook,LONG,7
+10501121,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Kordell,Brown,REC,1
+10501122,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Kordell,Brown,YDS,8
+10501123,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Kordell,Brown,TD,0
+10501124,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Kordell,Brown,LONG,8
+10501125,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Arien,Beasley,REC,1
+10501126,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Arien,Beasley,YDS,-1
+10501127,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Arien,Beasley,TD,0
+10501128,10/21/2017,FCS,Morehead State,Stetson,RECEIVING,Arien,Beasley,LONG,0
+10501129,10/21/2017,FCS,Morehead State,Stetson,KICKING,Sam,McDonogh,FG-FGA,0/1
+10501130,10/21/2017,FCS,Morehead State,Stetson,KICKING,Sam,McDonogh,LONG,0
+10501131,10/21/2017,FCS,Morehead State,Stetson,KICKING,Sam,McDonogh,XP,3
+10501132,10/21/2017,FCS,Morehead State,Stetson,KICKING,Sam,McDonogh,PTS,3
+10501133,10/21/2017,FCS,Morehead State,Stetson,PUNTING,Bradley,Boone,NO,3
+10501134,10/21/2017,FCS,Morehead State,Stetson,PUNTING,Bradley,Boone,YDS,75
+10501135,10/21/2017,FCS,Morehead State,Stetson,PUNTING,Bradley,Boone,AVG,25.0
+10501136,10/21/2017,FCS,Morehead State,Stetson,PUNTING,Bradley,Boone,LONG,35
+10501137,10/21/2017,FCS,Morehead State,Stetson,PUNT RETURNS,Landon,Hurst,NO,1
+10501138,10/21/2017,FCS,Morehead State,Stetson,PUNT RETURNS,Landon,Hurst,YDS,31
+10501139,10/21/2017,FCS,Morehead State,Stetson,PUNT RETURNS,Landon,Hurst,AVG,31.0
+10501140,10/21/2017,FCS,Morehead State,Stetson,PUNT RETURNS,Landon,Hurst,LONG,31
+10501141,10/21/2017,FCS,Morehead State,Stetson,KICK RETURNS,Juanyea,Tarver,NO,4
+10501142,10/21/2017,FCS,Morehead State,Stetson,KICK RETURNS,Juanyea,Tarver,YDS,143
+10501143,10/21/2017,FCS,Morehead State,Stetson,KICK RETURNS,Juanyea,Tarver,AVG,35.8
+10501144,10/21/2017,FCS,Morehead State,Stetson,KICK RETURNS,Juanyea,Tarver,LONG,78
+10501145,10/21/2017,FCS,Morehead State,Stetson,KICK RETURNS,Jake,Sutherland,NO,1
+10501146,10/21/2017,FCS,Morehead State,Stetson,KICK RETURNS,Jake,Sutherland,YDS,9
+10501147,10/21/2017,FCS,Morehead State,Stetson,KICK RETURNS,Jake,Sutherland,AVG,9.0
+10501148,10/21/2017,FCS,Morehead State,Stetson,KICK RETURNS,Jake,Sutherland,LONG,9

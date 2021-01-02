@@ -1,0 +1,141 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9689001,10/22/2016,FCS,Lehigh,Holy Cross,RUSHING,Dominick,Bragalone,ATT,17
+9689002,10/22/2016,FCS,Lehigh,Holy Cross,RUSHING,Dominick,Bragalone,YDS,182
+9689003,10/22/2016,FCS,Lehigh,Holy Cross,RUSHING,Dominick,Bragalone,TD,2
+9689004,10/22/2016,FCS,Lehigh,Holy Cross,RUSHING,Dominick,Bragalone,LONG,66
+9689005,10/22/2016,FCS,Lehigh,Holy Cross,RUSHING,Micco,Brisker,ATT,10
+9689006,10/22/2016,FCS,Lehigh,Holy Cross,RUSHING,Micco,Brisker,YDS,41
+9689007,10/22/2016,FCS,Lehigh,Holy Cross,RUSHING,Micco,Brisker,TD,1
+9689008,10/22/2016,FCS,Lehigh,Holy Cross,RUSHING,Micco,Brisker,LONG,14
+9689009,10/22/2016,FCS,Lehigh,Holy Cross,RUSHING,Nick,Thevanayagam,ATT,4
+9689010,10/22/2016,FCS,Lehigh,Holy Cross,RUSHING,Nick,Thevanayagam,YDS,4
+9689011,10/22/2016,FCS,Lehigh,Holy Cross,RUSHING,Nick,Thevanayagam,TD,0
+9689012,10/22/2016,FCS,Lehigh,Holy Cross,RUSHING,Nick,Thevanayagam,LONG,4
+9689013,10/22/2016,FCS,Lehigh,Holy Cross,RUSHING,Nana,Amankwah-Ayeh,ATT,3
+9689014,10/22/2016,FCS,Lehigh,Holy Cross,RUSHING,Nana,Amankwah-Ayeh,YDS,2
+9689015,10/22/2016,FCS,Lehigh,Holy Cross,RUSHING,Nana,Amankwah-Ayeh,TD,0
+9689016,10/22/2016,FCS,Lehigh,Holy Cross,RUSHING,Nana,Amankwah-Ayeh,LONG,1
+9689017,10/22/2016,FCS,Lehigh,Holy Cross,RUSHING,Brad,Mayes,ATT,4
+9689018,10/22/2016,FCS,Lehigh,Holy Cross,RUSHING,Brad,Mayes,YDS,-1
+9689019,10/22/2016,FCS,Lehigh,Holy Cross,RUSHING,Brad,Mayes,TD,0
+9689020,10/22/2016,FCS,Lehigh,Holy Cross,RUSHING,Brad,Mayes,LONG,4
+9689021,10/22/2016,FCS,Lehigh,Holy Cross,RUSHING,,Team,ATT,2
+9689022,10/22/2016,FCS,Lehigh,Holy Cross,RUSHING,,Team,YDS,-6
+9689023,10/22/2016,FCS,Lehigh,Holy Cross,RUSHING,,Team,TD,0
+9689024,10/22/2016,FCS,Lehigh,Holy Cross,RUSHING,,Team,LONG,0
+9689025,10/22/2016,FCS,Lehigh,Holy Cross,PASSING,Brad,Mayes,CP-ATT-INT,20-30-0
+9689026,10/22/2016,FCS,Lehigh,Holy Cross,PASSING,Brad,Mayes,YDS,287
+9689027,10/22/2016,FCS,Lehigh,Holy Cross,PASSING,Brad,Mayes,TD,3
+9689028,10/22/2016,FCS,Lehigh,Holy Cross,PASSING,Brad,Mayes,LONG,40
+9689029,10/22/2016,FCS,Lehigh,Holy Cross,PASSING,Matt,Timochenko,CP-ATT-INT,2-2-0
+9689030,10/22/2016,FCS,Lehigh,Holy Cross,PASSING,Matt,Timochenko,YDS,8
+9689031,10/22/2016,FCS,Lehigh,Holy Cross,PASSING,Matt,Timochenko,TD,0
+9689032,10/22/2016,FCS,Lehigh,Holy Cross,PASSING,Matt,Timochenko,LONG,8
+9689033,10/22/2016,FCS,Lehigh,Holy Cross,RECEIVING,Derek,Knott,REC,5
+9689034,10/22/2016,FCS,Lehigh,Holy Cross,RECEIVING,Derek,Knott,YDS,123
+9689035,10/22/2016,FCS,Lehigh,Holy Cross,RECEIVING,Derek,Knott,TD,0
+9689036,10/22/2016,FCS,Lehigh,Holy Cross,RECEIVING,Derek,Knott,LONG,40
+9689037,10/22/2016,FCS,Lehigh,Holy Cross,RECEIVING,Gatlin,Casey,REC,6
+9689038,10/22/2016,FCS,Lehigh,Holy Cross,RECEIVING,Gatlin,Casey,YDS,94
+9689039,10/22/2016,FCS,Lehigh,Holy Cross,RECEIVING,Gatlin,Casey,TD,1
+9689040,10/22/2016,FCS,Lehigh,Holy Cross,RECEIVING,Gatlin,Casey,LONG,28
+9689041,10/22/2016,FCS,Lehigh,Holy Cross,RECEIVING,Troy,Pelletier,REC,9
+9689042,10/22/2016,FCS,Lehigh,Holy Cross,RECEIVING,Troy,Pelletier,YDS,70
+9689043,10/22/2016,FCS,Lehigh,Holy Cross,RECEIVING,Troy,Pelletier,TD,2
+9689044,10/22/2016,FCS,Lehigh,Holy Cross,RECEIVING,Troy,Pelletier,LONG,18
+9689045,10/22/2016,FCS,Lehigh,Holy Cross,RECEIVING,Greg,Gamble,REC,1
+9689046,10/22/2016,FCS,Lehigh,Holy Cross,RECEIVING,Greg,Gamble,YDS,8
+9689047,10/22/2016,FCS,Lehigh,Holy Cross,RECEIVING,Greg,Gamble,TD,0
+9689048,10/22/2016,FCS,Lehigh,Holy Cross,RECEIVING,Greg,Gamble,LONG,8
+9689049,10/22/2016,FCS,Lehigh,Holy Cross,RECEIVING,Luke,Christiano,REC,1
+9689050,10/22/2016,FCS,Lehigh,Holy Cross,RECEIVING,Luke,Christiano,YDS,0
+9689051,10/22/2016,FCS,Lehigh,Holy Cross,RECEIVING,Luke,Christiano,TD,0
+9689052,10/22/2016,FCS,Lehigh,Holy Cross,RECEIVING,Luke,Christiano,LONG,0
+9689053,10/22/2016,FCS,Lehigh,Holy Cross,KICKING,Ed,Mish,FG-FGA,1/2
+9689054,10/22/2016,FCS,Lehigh,Holy Cross,KICKING,Ed,Mish,LONG,34
+9689055,10/22/2016,FCS,Lehigh,Holy Cross,KICKING,Ed,Mish,XP,5
+9689056,10/22/2016,FCS,Lehigh,Holy Cross,KICKING,Ed,Mish,PTS,8
+9689057,10/22/2016,FCS,Lehigh,Holy Cross,PUNTING,Ed,Mish,NO,6
+9689058,10/22/2016,FCS,Lehigh,Holy Cross,PUNTING,Ed,Mish,YDS,273
+9689059,10/22/2016,FCS,Lehigh,Holy Cross,PUNTING,Ed,Mish,AVG,45.5
+9689060,10/22/2016,FCS,Lehigh,Holy Cross,PUNTING,Ed,Mish,LONG,52
+9689061,10/22/2016,FCS,Lehigh,Holy Cross,KICK RETURNS,Gatlin,Casey,NO,1
+9689062,10/22/2016,FCS,Lehigh,Holy Cross,KICK RETURNS,Gatlin,Casey,YDS,12
+9689063,10/22/2016,FCS,Lehigh,Holy Cross,KICK RETURNS,Gatlin,Casey,AVG,12.0
+9689064,10/22/2016,FCS,Lehigh,Holy Cross,KICK RETURNS,Gatlin,Casey,LONG,12
+9689065,10/22/2016,FCS,Lehigh,Holy Cross,KICK RETURNS,Marc,Raye-RedmondJr.,NO,1
+9689066,10/22/2016,FCS,Lehigh,Holy Cross,KICK RETURNS,Marc,Raye-RedmondJr.,YDS,5
+9689067,10/22/2016,FCS,Lehigh,Holy Cross,KICK RETURNS,Marc,Raye-RedmondJr.,AVG,5.0
+9689068,10/22/2016,FCS,Lehigh,Holy Cross,KICK RETURNS,Marc,Raye-RedmondJr.,LONG,5
+9689069,10/22/2016,FCS,Holy Cross,Lehigh,RUSHING,Domenic,Cozier,ATT,17
+9689070,10/22/2016,FCS,Holy Cross,Lehigh,RUSHING,Domenic,Cozier,YDS,59
+9689071,10/22/2016,FCS,Holy Cross,Lehigh,RUSHING,Domenic,Cozier,TD,1
+9689072,10/22/2016,FCS,Holy Cross,Lehigh,RUSHING,Domenic,Cozier,LONG,17
+9689073,10/22/2016,FCS,Holy Cross,Lehigh,RUSHING,Diquan,Walker,ATT,4
+9689074,10/22/2016,FCS,Holy Cross,Lehigh,RUSHING,Diquan,Walker,YDS,27
+9689075,10/22/2016,FCS,Holy Cross,Lehigh,RUSHING,Diquan,Walker,TD,0
+9689076,10/22/2016,FCS,Holy Cross,Lehigh,RUSHING,Diquan,Walker,LONG,15
+9689077,10/22/2016,FCS,Holy Cross,Lehigh,RUSHING,Blaise,Bell,ATT,13
+9689078,10/22/2016,FCS,Holy Cross,Lehigh,RUSHING,Blaise,Bell,YDS,21
+9689079,10/22/2016,FCS,Holy Cross,Lehigh,RUSHING,Blaise,Bell,TD,0
+9689080,10/22/2016,FCS,Holy Cross,Lehigh,RUSHING,Blaise,Bell,LONG,15
+9689081,10/22/2016,FCS,Holy Cross,Lehigh,RUSHING,Brendan,Flaherty,ATT,5
+9689082,10/22/2016,FCS,Holy Cross,Lehigh,RUSHING,Brendan,Flaherty,YDS,18
+9689083,10/22/2016,FCS,Holy Cross,Lehigh,RUSHING,Brendan,Flaherty,TD,1
+9689084,10/22/2016,FCS,Holy Cross,Lehigh,RUSHING,Brendan,Flaherty,LONG,8
+9689085,10/22/2016,FCS,Holy Cross,Lehigh,RUSHING,Jake,Wieczorek,ATT,1
+9689086,10/22/2016,FCS,Holy Cross,Lehigh,RUSHING,Jake,Wieczorek,YDS,10
+9689087,10/22/2016,FCS,Holy Cross,Lehigh,RUSHING,Jake,Wieczorek,TD,0
+9689088,10/22/2016,FCS,Holy Cross,Lehigh,RUSHING,Jake,Wieczorek,LONG,10
+9689089,10/22/2016,FCS,Holy Cross,Lehigh,RUSHING,Emmett,Clifford,ATT,2
+9689090,10/22/2016,FCS,Holy Cross,Lehigh,RUSHING,Emmett,Clifford,YDS,-3
+9689091,10/22/2016,FCS,Holy Cross,Lehigh,RUSHING,Emmett,Clifford,TD,0
+9689092,10/22/2016,FCS,Holy Cross,Lehigh,RUSHING,Emmett,Clifford,LONG,0
+9689093,10/22/2016,FCS,Holy Cross,Lehigh,PASSING,Blaise,Bell,CP-ATT-INT,14-27-3
+9689094,10/22/2016,FCS,Holy Cross,Lehigh,PASSING,Blaise,Bell,YDS,157
+9689095,10/22/2016,FCS,Holy Cross,Lehigh,PASSING,Blaise,Bell,TD,0
+9689096,10/22/2016,FCS,Holy Cross,Lehigh,PASSING,Blaise,Bell,LONG,47
+9689097,10/22/2016,FCS,Holy Cross,Lehigh,PASSING,Emmett,Clifford,CP-ATT-INT,1-2-1
+9689098,10/22/2016,FCS,Holy Cross,Lehigh,PASSING,Emmett,Clifford,YDS,15
+9689099,10/22/2016,FCS,Holy Cross,Lehigh,PASSING,Emmett,Clifford,TD,0
+9689100,10/22/2016,FCS,Holy Cross,Lehigh,PASSING,Emmett,Clifford,LONG,15
+9689101,10/22/2016,FCS,Holy Cross,Lehigh,RECEIVING,Jake,Wieczorek,REC,4
+9689102,10/22/2016,FCS,Holy Cross,Lehigh,RECEIVING,Jake,Wieczorek,YDS,76
+9689103,10/22/2016,FCS,Holy Cross,Lehigh,RECEIVING,Jake,Wieczorek,TD,0
+9689104,10/22/2016,FCS,Holy Cross,Lehigh,RECEIVING,Jake,Wieczorek,LONG,38
+9689105,10/22/2016,FCS,Holy Cross,Lehigh,RECEIVING,Darrius,Lacy,REC,2
+9689106,10/22/2016,FCS,Holy Cross,Lehigh,RECEIVING,Darrius,Lacy,YDS,52
+9689107,10/22/2016,FCS,Holy Cross,Lehigh,RECEIVING,Darrius,Lacy,TD,0
+9689108,10/22/2016,FCS,Holy Cross,Lehigh,RECEIVING,Darrius,Lacy,LONG,47
+9689109,10/22/2016,FCS,Holy Cross,Lehigh,RECEIVING,Lucas,Nikolaisen,REC,2
+9689110,10/22/2016,FCS,Holy Cross,Lehigh,RECEIVING,Lucas,Nikolaisen,YDS,16
+9689111,10/22/2016,FCS,Holy Cross,Lehigh,RECEIVING,Lucas,Nikolaisen,TD,0
+9689112,10/22/2016,FCS,Holy Cross,Lehigh,RECEIVING,Lucas,Nikolaisen,LONG,10
+9689113,10/22/2016,FCS,Holy Cross,Lehigh,RECEIVING,Brendan,Flaherty,REC,5
+9689114,10/22/2016,FCS,Holy Cross,Lehigh,RECEIVING,Brendan,Flaherty,YDS,15
+9689115,10/22/2016,FCS,Holy Cross,Lehigh,RECEIVING,Brendan,Flaherty,TD,0
+9689116,10/22/2016,FCS,Holy Cross,Lehigh,RECEIVING,Brendan,Flaherty,LONG,7
+9689117,10/22/2016,FCS,Holy Cross,Lehigh,RECEIVING,Domenic,Cozier,REC,1
+9689118,10/22/2016,FCS,Holy Cross,Lehigh,RECEIVING,Domenic,Cozier,YDS,9
+9689119,10/22/2016,FCS,Holy Cross,Lehigh,RECEIVING,Domenic,Cozier,TD,0
+9689120,10/22/2016,FCS,Holy Cross,Lehigh,RECEIVING,Domenic,Cozier,LONG,9
+9689121,10/22/2016,FCS,Holy Cross,Lehigh,RECEIVING,Jordan,Montgomery,REC,1
+9689122,10/22/2016,FCS,Holy Cross,Lehigh,RECEIVING,Jordan,Montgomery,YDS,4
+9689123,10/22/2016,FCS,Holy Cross,Lehigh,RECEIVING,Jordan,Montgomery,TD,0
+9689124,10/22/2016,FCS,Holy Cross,Lehigh,RECEIVING,Jordan,Montgomery,LONG,4
+9689125,10/22/2016,FCS,Holy Cross,Lehigh,KICKING,Zane,Wasp,FG-FGA,0/0
+9689126,10/22/2016,FCS,Holy Cross,Lehigh,KICKING,Zane,Wasp,LONG,-
+9689127,10/22/2016,FCS,Holy Cross,Lehigh,KICKING,Zane,Wasp,XP,2
+9689128,10/22/2016,FCS,Holy Cross,Lehigh,KICKING,Zane,Wasp,PTS,2
+9689129,10/22/2016,FCS,Holy Cross,Lehigh,PUNTING,A.J.,Wells,NO,7
+9689130,10/22/2016,FCS,Holy Cross,Lehigh,PUNTING,A.J.,Wells,YDS,310
+9689131,10/22/2016,FCS,Holy Cross,Lehigh,PUNTING,A.J.,Wells,AVG,44.3
+9689132,10/22/2016,FCS,Holy Cross,Lehigh,PUNTING,A.J.,Wells,LONG,52
+9689133,10/22/2016,FCS,Holy Cross,Lehigh,PUNT RETURNS,Jake,Wieczorek,NO,3
+9689134,10/22/2016,FCS,Holy Cross,Lehigh,PUNT RETURNS,Jake,Wieczorek,YDS,23
+9689135,10/22/2016,FCS,Holy Cross,Lehigh,PUNT RETURNS,Jake,Wieczorek,AVG,7.7
+9689136,10/22/2016,FCS,Holy Cross,Lehigh,PUNT RETURNS,Jake,Wieczorek,LONG,15
+9689137,10/22/2016,FCS,Holy Cross,Lehigh,KICK RETURNS,Jake,Wieczorek,NO,5
+9689138,10/22/2016,FCS,Holy Cross,Lehigh,KICK RETURNS,Jake,Wieczorek,YDS,121
+9689139,10/22/2016,FCS,Holy Cross,Lehigh,KICK RETURNS,Jake,Wieczorek,AVG,24.2
+9689140,10/22/2016,FCS,Holy Cross,Lehigh,KICK RETURNS,Jake,Wieczorek,LONG,39

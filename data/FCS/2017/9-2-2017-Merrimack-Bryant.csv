@@ -1,0 +1,109 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+10027001,9/2/2017,FCS,Merrimack,Bryant,RUSHING,,Team,ATT,37
+10027002,9/2/2017,FCS,Merrimack,Bryant,RUSHING,,Team,YDS,77
+10027003,9/2/2017,FCS,Merrimack,Bryant,RUSHING,,Team,TD,2
+10027004,9/2/2017,FCS,Merrimack,Bryant,RUSHING,,Team,LONG,18
+10027005,9/2/2017,FCS,Merrimack,Bryant,PASSING,,Team,CP-ATT-INT,41-73-1
+10027006,9/2/2017,FCS,Merrimack,Bryant,PASSING,,Team,YDS,469
+10027007,9/2/2017,FCS,Merrimack,Bryant,PASSING,,Team,TD,4
+10027008,9/2/2017,FCS,Merrimack,Bryant,PASSING,,Team,LONG,40
+10027009,9/2/2017,FCS,Merrimack,Bryant,RECEIVING,,Team,REC,41
+10027010,9/2/2017,FCS,Merrimack,Bryant,RECEIVING,,Team,YDS,469
+10027011,9/2/2017,FCS,Merrimack,Bryant,RECEIVING,,Team,TD,4
+10027012,9/2/2017,FCS,Merrimack,Bryant,RECEIVING,,Team,LONG,40
+10027013,9/2/2017,FCS,Merrimack,Bryant,KICKING,,Team,FG-FGA,0/2
+10027014,9/2/2017,FCS,Merrimack,Bryant,KICKING,,Team,LONG,0
+10027015,9/2/2017,FCS,Merrimack,Bryant,KICKING,,Team,XP,5
+10027016,9/2/2017,FCS,Merrimack,Bryant,KICKING,,Team,PTS,5
+10027017,9/2/2017,FCS,Merrimack,Bryant,PUNTING,,Team,NO,7
+10027018,9/2/2017,FCS,Merrimack,Bryant,PUNTING,,Team,YDS,192
+10027019,9/2/2017,FCS,Merrimack,Bryant,PUNTING,,Team,AVG,27.4
+10027020,9/2/2017,FCS,Merrimack,Bryant,PUNTING,,Team,LONG,47
+10027021,9/2/2017,FCS,Merrimack,Bryant,PUNT RETURNS,,Team,NO,1
+10027022,9/2/2017,FCS,Merrimack,Bryant,PUNT RETURNS,,Team,YDS,4
+10027023,9/2/2017,FCS,Merrimack,Bryant,PUNT RETURNS,,Team,AVG,4.0
+10027024,9/2/2017,FCS,Merrimack,Bryant,PUNT RETURNS,,Team,LONG,4
+10027025,9/2/2017,FCS,Merrimack,Bryant,KICK RETURNS,,Team,NO,6
+10027026,9/2/2017,FCS,Merrimack,Bryant,KICK RETURNS,,Team,YDS,119
+10027027,9/2/2017,FCS,Merrimack,Bryant,KICK RETURNS,,Team,AVG,19.8
+10027028,9/2/2017,FCS,Merrimack,Bryant,KICK RETURNS,,Team,LONG,34
+10027029,9/2/2017,FCS,Bryant,Merrimack,RUSHING,Brenden,Femiano,ATT,17
+10027030,9/2/2017,FCS,Bryant,Merrimack,RUSHING,Brenden,Femiano,YDS,102
+10027031,9/2/2017,FCS,Bryant,Merrimack,RUSHING,Brenden,Femiano,TD,1
+10027032,9/2/2017,FCS,Bryant,Merrimack,RUSHING,Brenden,Femiano,LONG,40
+10027033,9/2/2017,FCS,Bryant,Merrimack,RUSHING,Isaac,McCray,ATT,9
+10027034,9/2/2017,FCS,Bryant,Merrimack,RUSHING,Isaac,McCray,YDS,49
+10027035,9/2/2017,FCS,Bryant,Merrimack,RUSHING,Isaac,McCray,TD,1
+10027036,9/2/2017,FCS,Bryant,Merrimack,RUSHING,Isaac,McCray,LONG,24
+10027037,9/2/2017,FCS,Bryant,Merrimack,RUSHING,Matt,Sewall,ATT,1
+10027038,9/2/2017,FCS,Bryant,Merrimack,RUSHING,Matt,Sewall,YDS,39
+10027039,9/2/2017,FCS,Bryant,Merrimack,RUSHING,Matt,Sewall,TD,0
+10027040,9/2/2017,FCS,Bryant,Merrimack,RUSHING,Matt,Sewall,LONG,27
+10027041,9/2/2017,FCS,Bryant,Merrimack,RUSHING,Devin,Ray,ATT,9
+10027042,9/2/2017,FCS,Bryant,Merrimack,RUSHING,Devin,Ray,YDS,4
+10027043,9/2/2017,FCS,Bryant,Merrimack,RUSHING,Devin,Ray,TD,0
+10027044,9/2/2017,FCS,Bryant,Merrimack,RUSHING,Devin,Ray,LONG,4
+10027045,9/2/2017,FCS,Bryant,Merrimack,RUSHING,Price,Wilson,ATT,3
+10027046,9/2/2017,FCS,Bryant,Merrimack,RUSHING,Price,Wilson,YDS,-17
+10027047,9/2/2017,FCS,Bryant,Merrimack,RUSHING,Price,Wilson,TD,0
+10027048,9/2/2017,FCS,Bryant,Merrimack,RUSHING,Price,Wilson,LONG,0
+10027049,9/2/2017,FCS,Bryant,Merrimack,PASSING,Price,Wilson,CP-ATT-INT,21-38-2
+10027050,9/2/2017,FCS,Bryant,Merrimack,PASSING,Price,Wilson,YDS,378
+10027051,9/2/2017,FCS,Bryant,Merrimack,PASSING,Price,Wilson,TD,4
+10027052,9/2/2017,FCS,Bryant,Merrimack,PASSING,Price,Wilson,LONG,57
+10027053,9/2/2017,FCS,Bryant,Merrimack,PASSING,Devin,Ray,CP-ATT-INT,0-1-0
+10027054,9/2/2017,FCS,Bryant,Merrimack,PASSING,Devin,Ray,YDS,0
+10027055,9/2/2017,FCS,Bryant,Merrimack,PASSING,Devin,Ray,TD,0
+10027056,9/2/2017,FCS,Bryant,Merrimack,PASSING,Devin,Ray,LONG,0
+10027057,9/2/2017,FCS,Bryant,Merrimack,RECEIVING,Matt,Sewall,REC,9
+10027058,9/2/2017,FCS,Bryant,Merrimack,RECEIVING,Matt,Sewall,YDS,146
+10027059,9/2/2017,FCS,Bryant,Merrimack,RECEIVING,Matt,Sewall,TD,2
+10027060,9/2/2017,FCS,Bryant,Merrimack,RECEIVING,Matt,Sewall,LONG,45
+10027061,9/2/2017,FCS,Bryant,Merrimack,RECEIVING,Jean,Constant,REC,5
+10027062,9/2/2017,FCS,Bryant,Merrimack,RECEIVING,Jean,Constant,YDS,72
+10027063,9/2/2017,FCS,Bryant,Merrimack,RECEIVING,Jean,Constant,TD,1
+10027064,9/2/2017,FCS,Bryant,Merrimack,RECEIVING,Jean,Constant,LONG,23
+10027065,9/2/2017,FCS,Bryant,Merrimack,RECEIVING,Tom,Kennedy,REC,2
+10027066,9/2/2017,FCS,Bryant,Merrimack,RECEIVING,Tom,Kennedy,YDS,61
+10027067,9/2/2017,FCS,Bryant,Merrimack,RECEIVING,Tom,Kennedy,TD,1
+10027068,9/2/2017,FCS,Bryant,Merrimack,RECEIVING,Tom,Kennedy,LONG,57
+10027069,9/2/2017,FCS,Bryant,Merrimack,RECEIVING,Aaron,Aryee,REC,2
+10027070,9/2/2017,FCS,Bryant,Merrimack,RECEIVING,Aaron,Aryee,YDS,51
+10027071,9/2/2017,FCS,Bryant,Merrimack,RECEIVING,Aaron,Aryee,TD,0
+10027072,9/2/2017,FCS,Bryant,Merrimack,RECEIVING,Aaron,Aryee,LONG,37
+10027073,9/2/2017,FCS,Bryant,Merrimack,RECEIVING,Brenden,Femiano,REC,1
+10027074,9/2/2017,FCS,Bryant,Merrimack,RECEIVING,Brenden,Femiano,YDS,28
+10027075,9/2/2017,FCS,Bryant,Merrimack,RECEIVING,Brenden,Femiano,TD,0
+10027076,9/2/2017,FCS,Bryant,Merrimack,RECEIVING,Brenden,Femiano,LONG,28
+10027077,9/2/2017,FCS,Bryant,Merrimack,RECEIVING,Isaac,McCray,REC,1
+10027078,9/2/2017,FCS,Bryant,Merrimack,RECEIVING,Isaac,McCray,YDS,16
+10027079,9/2/2017,FCS,Bryant,Merrimack,RECEIVING,Isaac,McCray,TD,0
+10027080,9/2/2017,FCS,Bryant,Merrimack,RECEIVING,Isaac,McCray,LONG,16
+10027081,9/2/2017,FCS,Bryant,Merrimack,RECEIVING,Joe,Fine,REC,1
+10027082,9/2/2017,FCS,Bryant,Merrimack,RECEIVING,Joe,Fine,YDS,4
+10027083,9/2/2017,FCS,Bryant,Merrimack,RECEIVING,Joe,Fine,TD,0
+10027084,9/2/2017,FCS,Bryant,Merrimack,RECEIVING,Joe,Fine,LONG,4
+10027085,9/2/2017,FCS,Bryant,Merrimack,KICKING,Gavin,Rowley,FG-FGA,1/1
+10027086,9/2/2017,FCS,Bryant,Merrimack,KICKING,Gavin,Rowley,LONG,21
+10027087,9/2/2017,FCS,Bryant,Merrimack,KICKING,Gavin,Rowley,XP,4
+10027088,9/2/2017,FCS,Bryant,Merrimack,KICKING,Gavin,Rowley,PTS,7
+10027089,9/2/2017,FCS,Bryant,Merrimack,PUNTING,Gavin,Rowley,NO,5
+10027090,9/2/2017,FCS,Bryant,Merrimack,PUNTING,Gavin,Rowley,YDS,235
+10027091,9/2/2017,FCS,Bryant,Merrimack,PUNTING,Gavin,Rowley,AVG,47.0
+10027092,9/2/2017,FCS,Bryant,Merrimack,PUNTING,Gavin,Rowley,LONG,59
+10027093,9/2/2017,FCS,Bryant,Merrimack,PUNT RETURNS,Matt,Sewall,NO,2
+10027094,9/2/2017,FCS,Bryant,Merrimack,PUNT RETURNS,Matt,Sewall,YDS,18
+10027095,9/2/2017,FCS,Bryant,Merrimack,PUNT RETURNS,Matt,Sewall,AVG,9.0
+10027096,9/2/2017,FCS,Bryant,Merrimack,PUNT RETURNS,Matt,Sewall,LONG,15
+10027097,9/2/2017,FCS,Bryant,Merrimack,PUNT RETURNS,Torrey,Dixon,NO,1
+10027098,9/2/2017,FCS,Bryant,Merrimack,PUNT RETURNS,Torrey,Dixon,YDS,9
+10027099,9/2/2017,FCS,Bryant,Merrimack,PUNT RETURNS,Torrey,Dixon,AVG,9.0
+10027100,9/2/2017,FCS,Bryant,Merrimack,PUNT RETURNS,Torrey,Dixon,LONG,9
+10027101,9/2/2017,FCS,Bryant,Merrimack,KICK RETURNS,Jean,Constant,NO,4
+10027102,9/2/2017,FCS,Bryant,Merrimack,KICK RETURNS,Jean,Constant,YDS,128
+10027103,9/2/2017,FCS,Bryant,Merrimack,KICK RETURNS,Jean,Constant,AVG,32.0
+10027104,9/2/2017,FCS,Bryant,Merrimack,KICK RETURNS,Jean,Constant,LONG,37
+10027105,9/2/2017,FCS,Bryant,Merrimack,KICK RETURNS,Torrey,Dixon,NO,3
+10027106,9/2/2017,FCS,Bryant,Merrimack,KICK RETURNS,Torrey,Dixon,YDS,62
+10027107,9/2/2017,FCS,Bryant,Merrimack,KICK RETURNS,Torrey,Dixon,AVG,20.7
+10027108,9/2/2017,FCS,Bryant,Merrimack,KICK RETURNS,Torrey,Dixon,LONG,24

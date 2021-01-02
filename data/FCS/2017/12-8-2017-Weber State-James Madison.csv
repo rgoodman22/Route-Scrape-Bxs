@@ -1,0 +1,129 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+10763001,12/8/2017,FCS,Weber State,James Madison,RUSHING,Stefan,Cantwell,ATT,14
+10763002,12/8/2017,FCS,Weber State,James Madison,RUSHING,Stefan,Cantwell,YDS,47
+10763003,12/8/2017,FCS,Weber State,James Madison,RUSHING,Stefan,Cantwell,TD,1
+10763004,12/8/2017,FCS,Weber State,James Madison,RUSHING,Stefan,Cantwell,LONG,8
+10763005,12/8/2017,FCS,Weber State,James Madison,RUSHING,Kevin,Smith,ATT,14
+10763006,12/8/2017,FCS,Weber State,James Madison,RUSHING,Kevin,Smith,YDS,45
+10763007,12/8/2017,FCS,Weber State,James Madison,RUSHING,Kevin,Smith,TD,1
+10763008,12/8/2017,FCS,Weber State,James Madison,RUSHING,Kevin,Smith,LONG,24
+10763009,12/8/2017,FCS,Weber State,James Madison,RUSHING,David,Jones,ATT,1
+10763010,12/8/2017,FCS,Weber State,James Madison,RUSHING,David,Jones,YDS,4
+10763011,12/8/2017,FCS,Weber State,James Madison,RUSHING,David,Jones,TD,0
+10763012,12/8/2017,FCS,Weber State,James Madison,RUSHING,David,Jones,LONG,4
+10763013,12/8/2017,FCS,Weber State,James Madison,RUSHING,Treshawn,Garrett,ATT,1
+10763014,12/8/2017,FCS,Weber State,James Madison,RUSHING,Treshawn,Garrett,YDS,0
+10763015,12/8/2017,FCS,Weber State,James Madison,RUSHING,Treshawn,Garrett,TD,0
+10763016,12/8/2017,FCS,Weber State,James Madison,RUSHING,Treshawn,Garrett,LONG,0
+10763017,12/8/2017,FCS,Weber State,James Madison,RUSHING,,Team,ATT,1
+10763018,12/8/2017,FCS,Weber State,James Madison,RUSHING,,Team,YDS,-2
+10763019,12/8/2017,FCS,Weber State,James Madison,RUSHING,,Team,TD,0
+10763020,12/8/2017,FCS,Weber State,James Madison,RUSHING,,Team,LONG,-2
+10763021,12/8/2017,FCS,Weber State,James Madison,RUSHING,Rashid,Shaheed,ATT,1
+10763022,12/8/2017,FCS,Weber State,James Madison,RUSHING,Rashid,Shaheed,YDS,-3
+10763023,12/8/2017,FCS,Weber State,James Madison,RUSHING,Rashid,Shaheed,TD,0
+10763024,12/8/2017,FCS,Weber State,James Madison,RUSHING,Rashid,Shaheed,LONG,-3
+10763025,12/8/2017,FCS,Weber State,James Madison,PASSING,Stefan,Cantwell,CP-ATT-INT,12-30-1
+10763026,12/8/2017,FCS,Weber State,James Madison,PASSING,Stefan,Cantwell,YDS,238
+10763027,12/8/2017,FCS,Weber State,James Madison,PASSING,Stefan,Cantwell,TD,2
+10763028,12/8/2017,FCS,Weber State,James Madison,PASSING,Stefan,Cantwell,LONG,81
+10763029,12/8/2017,FCS,Weber State,James Madison,RECEIVING,Kevin,Smith,REC,2
+10763030,12/8/2017,FCS,Weber State,James Madison,RECEIVING,Kevin,Smith,YDS,85
+10763031,12/8/2017,FCS,Weber State,James Madison,RECEIVING,Kevin,Smith,TD,1
+10763032,12/8/2017,FCS,Weber State,James Madison,RECEIVING,Kevin,Smith,LONG,81
+10763033,12/8/2017,FCS,Weber State,James Madison,RECEIVING,Drew,Batchelor,REC,4
+10763034,12/8/2017,FCS,Weber State,James Madison,RECEIVING,Drew,Batchelor,YDS,82
+10763035,12/8/2017,FCS,Weber State,James Madison,RECEIVING,Drew,Batchelor,TD,1
+10763036,12/8/2017,FCS,Weber State,James Madison,RECEIVING,Drew,Batchelor,LONG,36
+10763037,12/8/2017,FCS,Weber State,James Madison,RECEIVING,Andrew,Vollert,REC,5
+10763038,12/8/2017,FCS,Weber State,James Madison,RECEIVING,Andrew,Vollert,YDS,47
+10763039,12/8/2017,FCS,Weber State,James Madison,RECEIVING,Andrew,Vollert,TD,0
+10763040,12/8/2017,FCS,Weber State,James Madison,RECEIVING,Andrew,Vollert,LONG,25
+10763041,12/8/2017,FCS,Weber State,James Madison,RECEIVING,Rashid,Shaheed,REC,1
+10763042,12/8/2017,FCS,Weber State,James Madison,RECEIVING,Rashid,Shaheed,YDS,24
+10763043,12/8/2017,FCS,Weber State,James Madison,RECEIVING,Rashid,Shaheed,TD,0
+10763044,12/8/2017,FCS,Weber State,James Madison,RECEIVING,Rashid,Shaheed,LONG,24
+10763045,12/8/2017,FCS,Weber State,James Madison,KICKING,Trey,Tuttle,FG-FGA,0/0
+10763046,12/8/2017,FCS,Weber State,James Madison,KICKING,Trey,Tuttle,LONG,-
+10763047,12/8/2017,FCS,Weber State,James Madison,KICKING,Trey,Tuttle,XP,4
+10763048,12/8/2017,FCS,Weber State,James Madison,KICKING,Trey,Tuttle,PTS,4
+10763049,12/8/2017,FCS,Weber State,James Madison,PUNTING,Jacob,DeMaio,NO,8
+10763050,12/8/2017,FCS,Weber State,James Madison,PUNTING,Jacob,DeMaio,YDS,350
+10763051,12/8/2017,FCS,Weber State,James Madison,PUNTING,Jacob,DeMaio,AVG,43.8
+10763052,12/8/2017,FCS,Weber State,James Madison,PUNTING,Jacob,DeMaio,LONG,67
+10763053,12/8/2017,FCS,Weber State,James Madison,PUNTING,Doug,Lloyd,NO,1
+10763054,12/8/2017,FCS,Weber State,James Madison,PUNTING,Doug,Lloyd,YDS,44
+10763055,12/8/2017,FCS,Weber State,James Madison,PUNTING,Doug,Lloyd,AVG,44.0
+10763056,12/8/2017,FCS,Weber State,James Madison,PUNTING,Doug,Lloyd,LONG,44
+10763057,12/8/2017,FCS,Weber State,James Madison,PUNT RETURNS,Xequille,Harry,NO,4
+10763058,12/8/2017,FCS,Weber State,James Madison,PUNT RETURNS,Xequille,Harry,YDS,5
+10763059,12/8/2017,FCS,Weber State,James Madison,PUNT RETURNS,Xequille,Harry,AVG,1.2
+10763060,12/8/2017,FCS,Weber State,James Madison,PUNT RETURNS,Xequille,Harry,LONG,2
+10763061,12/8/2017,FCS,Weber State,James Madison,KICK RETURNS,Rashid,Shaheed,NO,5
+10763062,12/8/2017,FCS,Weber State,James Madison,KICK RETURNS,Rashid,Shaheed,YDS,133
+10763063,12/8/2017,FCS,Weber State,James Madison,KICK RETURNS,Rashid,Shaheed,AVG,26.6
+10763064,12/8/2017,FCS,Weber State,James Madison,KICK RETURNS,Rashid,Shaheed,LONG,34
+10763065,12/8/2017,FCS,James Madison,Weber State,RUSHING,Marcus,Marshall,ATT,14
+10763066,12/8/2017,FCS,James Madison,Weber State,RUSHING,Marcus,Marshall,YDS,128
+10763067,12/8/2017,FCS,James Madison,Weber State,RUSHING,Marcus,Marshall,TD,2
+10763068,12/8/2017,FCS,James Madison,Weber State,RUSHING,Marcus,Marshall,LONG,43
+10763069,12/8/2017,FCS,James Madison,Weber State,RUSHING,Trai,Sharp,ATT,13
+10763070,12/8/2017,FCS,James Madison,Weber State,RUSHING,Trai,Sharp,YDS,27
+10763071,12/8/2017,FCS,James Madison,Weber State,RUSHING,Trai,Sharp,TD,0
+10763072,12/8/2017,FCS,James Madison,Weber State,RUSHING,Trai,Sharp,LONG,9
+10763073,12/8/2017,FCS,James Madison,Weber State,RUSHING,Bryan,Schor,ATT,15
+10763074,12/8/2017,FCS,James Madison,Weber State,RUSHING,Bryan,Schor,YDS,26
+10763075,12/8/2017,FCS,James Madison,Weber State,RUSHING,Bryan,Schor,TD,0
+10763076,12/8/2017,FCS,James Madison,Weber State,RUSHING,Bryan,Schor,LONG,14
+10763077,12/8/2017,FCS,James Madison,Weber State,RUSHING,Taylor,Woods,ATT,2
+10763078,12/8/2017,FCS,James Madison,Weber State,RUSHING,Taylor,Woods,YDS,9
+10763079,12/8/2017,FCS,James Madison,Weber State,RUSHING,Taylor,Woods,TD,0
+10763080,12/8/2017,FCS,James Madison,Weber State,RUSHING,Taylor,Woods,LONG,7
+10763081,12/8/2017,FCS,James Madison,Weber State,RUSHING,Zaire,Bethea,ATT,0
+10763082,12/8/2017,FCS,James Madison,Weber State,RUSHING,Zaire,Bethea,YDS,0
+10763083,12/8/2017,FCS,James Madison,Weber State,RUSHING,Zaire,Bethea,TD,0
+10763084,12/8/2017,FCS,James Madison,Weber State,RUSHING,Zaire,Bethea,LONG,0
+10763085,12/8/2017,FCS,James Madison,Weber State,PASSING,Bryan,Schor,CP-ATT-INT,21-45-1
+10763086,12/8/2017,FCS,James Madison,Weber State,PASSING,Bryan,Schor,YDS,359
+10763087,12/8/2017,FCS,James Madison,Weber State,PASSING,Bryan,Schor,TD,1
+10763088,12/8/2017,FCS,James Madison,Weber State,PASSING,Bryan,Schor,LONG,40
+10763089,12/8/2017,FCS,James Madison,Weber State,RECEIVING,Riley,Stapleton,REC,8
+10763090,12/8/2017,FCS,James Madison,Weber State,RECEIVING,Riley,Stapleton,YDS,189
+10763091,12/8/2017,FCS,James Madison,Weber State,RECEIVING,Riley,Stapleton,TD,1
+10763092,12/8/2017,FCS,James Madison,Weber State,RECEIVING,Riley,Stapleton,LONG,40
+10763093,12/8/2017,FCS,James Madison,Weber State,RECEIVING,Terrence,Alls,REC,6
+10763094,12/8/2017,FCS,James Madison,Weber State,RECEIVING,Terrence,Alls,YDS,117
+10763095,12/8/2017,FCS,James Madison,Weber State,RECEIVING,Terrence,Alls,TD,0
+10763096,12/8/2017,FCS,James Madison,Weber State,RECEIVING,Terrence,Alls,LONG,37
+10763097,12/8/2017,FCS,James Madison,Weber State,RECEIVING,Ishmael,Hyman,REC,4
+10763098,12/8/2017,FCS,James Madison,Weber State,RECEIVING,Ishmael,Hyman,YDS,29
+10763099,12/8/2017,FCS,James Madison,Weber State,RECEIVING,Ishmael,Hyman,TD,0
+10763100,12/8/2017,FCS,James Madison,Weber State,RECEIVING,Ishmael,Hyman,LONG,11
+10763101,12/8/2017,FCS,James Madison,Weber State,RECEIVING,Clayton,Cheatham,REC,1
+10763102,12/8/2017,FCS,James Madison,Weber State,RECEIVING,Clayton,Cheatham,YDS,14
+10763103,12/8/2017,FCS,James Madison,Weber State,RECEIVING,Clayton,Cheatham,TD,0
+10763104,12/8/2017,FCS,James Madison,Weber State,RECEIVING,Clayton,Cheatham,LONG,14
+10763105,12/8/2017,FCS,James Madison,Weber State,RECEIVING,Taylor,Woods,REC,1
+10763106,12/8/2017,FCS,James Madison,Weber State,RECEIVING,Taylor,Woods,YDS,9
+10763107,12/8/2017,FCS,James Madison,Weber State,RECEIVING,Taylor,Woods,TD,0
+10763108,12/8/2017,FCS,James Madison,Weber State,RECEIVING,Taylor,Woods,LONG,9
+10763109,12/8/2017,FCS,James Madison,Weber State,RECEIVING,Marcus,Marshall,REC,1
+10763110,12/8/2017,FCS,James Madison,Weber State,RECEIVING,Marcus,Marshall,YDS,1
+10763111,12/8/2017,FCS,James Madison,Weber State,RECEIVING,Marcus,Marshall,TD,0
+10763112,12/8/2017,FCS,James Madison,Weber State,RECEIVING,Marcus,Marshall,LONG,1
+10763113,12/8/2017,FCS,James Madison,Weber State,KICKING,Ethan,Ratke,FG-FGA,3/4
+10763114,12/8/2017,FCS,James Madison,Weber State,KICKING,Ethan,Ratke,LONG,46
+10763115,12/8/2017,FCS,James Madison,Weber State,KICKING,Ethan,Ratke,XP,2
+10763116,12/8/2017,FCS,James Madison,Weber State,KICKING,Ethan,Ratke,PTS,11
+10763117,12/8/2017,FCS,James Madison,Weber State,PUNTING,Harry,O'Kelly,NO,7
+10763118,12/8/2017,FCS,James Madison,Weber State,PUNTING,Harry,O'Kelly,YDS,276
+10763119,12/8/2017,FCS,James Madison,Weber State,PUNTING,Harry,O'Kelly,AVG,39.4
+10763120,12/8/2017,FCS,James Madison,Weber State,PUNTING,Harry,O'Kelly,LONG,45
+10763121,12/8/2017,FCS,James Madison,Weber State,PUNT RETURNS,D'Angelo,Amos,NO,1
+10763122,12/8/2017,FCS,James Madison,Weber State,PUNT RETURNS,D'Angelo,Amos,YDS,24
+10763123,12/8/2017,FCS,James Madison,Weber State,PUNT RETURNS,D'Angelo,Amos,AVG,24.0
+10763124,12/8/2017,FCS,James Madison,Weber State,PUNT RETURNS,D'Angelo,Amos,LONG,24
+10763125,12/8/2017,FCS,James Madison,Weber State,KICK RETURNS,Marcus,Marshall,NO,5
+10763126,12/8/2017,FCS,James Madison,Weber State,KICK RETURNS,Marcus,Marshall,YDS,90
+10763127,12/8/2017,FCS,James Madison,Weber State,KICK RETURNS,Marcus,Marshall,AVG,18.0
+10763128,12/8/2017,FCS,James Madison,Weber State,KICK RETURNS,Marcus,Marshall,LONG,30

@@ -1,0 +1,210 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+8718001,10/3/2015,FCS,Rhode Island,Brown,RUSHING,Harold,Cooper,ATT,14
+8718002,10/3/2015,FCS,Rhode Island,Brown,RUSHING,Harold,Cooper,YDS,109
+8718003,10/3/2015,FCS,Rhode Island,Brown,RUSHING,Harold,Cooper,TD,1
+8718004,10/3/2015,FCS,Rhode Island,Brown,RUSHING,Harold,Cooper,LONG,30
+8718005,10/3/2015,FCS,Rhode Island,Brown,RUSHING,Paul,Mroz,ATT,6
+8718006,10/3/2015,FCS,Rhode Island,Brown,RUSHING,Paul,Mroz,YDS,33
+8718007,10/3/2015,FCS,Rhode Island,Brown,RUSHING,Paul,Mroz,TD,0
+8718008,10/3/2015,FCS,Rhode Island,Brown,RUSHING,Paul,Mroz,LONG,21
+8718009,10/3/2015,FCS,Rhode Island,Brown,RUSHING,T.J.,Anderson,ATT,2
+8718010,10/3/2015,FCS,Rhode Island,Brown,RUSHING,T.J.,Anderson,YDS,6
+8718011,10/3/2015,FCS,Rhode Island,Brown,RUSHING,T.J.,Anderson,TD,0
+8718012,10/3/2015,FCS,Rhode Island,Brown,RUSHING,T.J.,Anderson,LONG,4
+8718013,10/3/2015,FCS,Rhode Island,Brown,RUSHING,Robbie,Delgado,ATT,1
+8718014,10/3/2015,FCS,Rhode Island,Brown,RUSHING,Robbie,Delgado,YDS,0
+8718015,10/3/2015,FCS,Rhode Island,Brown,RUSHING,Robbie,Delgado,TD,0
+8718016,10/3/2015,FCS,Rhode Island,Brown,RUSHING,Robbie,Delgado,LONG,0
+8718017,10/3/2015,FCS,Rhode Island,Brown,RUSHING,Jordan,Sebastian,ATT,1
+8718018,10/3/2015,FCS,Rhode Island,Brown,RUSHING,Jordan,Sebastian,YDS,-1
+8718019,10/3/2015,FCS,Rhode Island,Brown,RUSHING,Jordan,Sebastian,TD,0
+8718020,10/3/2015,FCS,Rhode Island,Brown,RUSHING,Jordan,Sebastian,LONG,0
+8718021,10/3/2015,FCS,Rhode Island,Brown,PASSING,Paul,Mroz,CP-ATT-INT,14-32-3
+8718022,10/3/2015,FCS,Rhode Island,Brown,PASSING,Paul,Mroz,YDS,195
+8718023,10/3/2015,FCS,Rhode Island,Brown,PASSING,Paul,Mroz,TD,1
+8718024,10/3/2015,FCS,Rhode Island,Brown,PASSING,Paul,Mroz,LONG,0
+8718025,10/3/2015,FCS,Rhode Island,Brown,RECEIVING,Khayri,Denny,REC,3
+8718026,10/3/2015,FCS,Rhode Island,Brown,RECEIVING,Khayri,Denny,YDS,60
+8718027,10/3/2015,FCS,Rhode Island,Brown,RECEIVING,Khayri,Denny,TD,0
+8718028,10/3/2015,FCS,Rhode Island,Brown,RECEIVING,Khayri,Denny,LONG,27
+8718029,10/3/2015,FCS,Rhode Island,Brown,RECEIVING,Marvin,Beauvais,REC,4
+8718030,10/3/2015,FCS,Rhode Island,Brown,RECEIVING,Marvin,Beauvais,YDS,56
+8718031,10/3/2015,FCS,Rhode Island,Brown,RECEIVING,Marvin,Beauvais,TD,0
+8718032,10/3/2015,FCS,Rhode Island,Brown,RECEIVING,Marvin,Beauvais,LONG,25
+8718033,10/3/2015,FCS,Rhode Island,Brown,RECEIVING,Phadrae,White,REC,3
+8718034,10/3/2015,FCS,Rhode Island,Brown,RECEIVING,Phadrae,White,YDS,31
+8718035,10/3/2015,FCS,Rhode Island,Brown,RECEIVING,Phadrae,White,TD,1
+8718036,10/3/2015,FCS,Rhode Island,Brown,RECEIVING,Phadrae,White,LONG,13
+8718037,10/3/2015,FCS,Rhode Island,Brown,RECEIVING,Charlie,McKeeman,REC,1
+8718038,10/3/2015,FCS,Rhode Island,Brown,RECEIVING,Charlie,McKeeman,YDS,25
+8718039,10/3/2015,FCS,Rhode Island,Brown,RECEIVING,Charlie,McKeeman,TD,0
+8718040,10/3/2015,FCS,Rhode Island,Brown,RECEIVING,Charlie,McKeeman,LONG,25
+8718041,10/3/2015,FCS,Rhode Island,Brown,RECEIVING,Harold,Cooper,REC,2
+8718042,10/3/2015,FCS,Rhode Island,Brown,RECEIVING,Harold,Cooper,YDS,13
+8718043,10/3/2015,FCS,Rhode Island,Brown,RECEIVING,Harold,Cooper,TD,0
+8718044,10/3/2015,FCS,Rhode Island,Brown,RECEIVING,Harold,Cooper,LONG,7
+8718045,10/3/2015,FCS,Rhode Island,Brown,RECEIVING,D.J.,Stewart,REC,1
+8718046,10/3/2015,FCS,Rhode Island,Brown,RECEIVING,D.J.,Stewart,YDS,10
+8718047,10/3/2015,FCS,Rhode Island,Brown,RECEIVING,D.J.,Stewart,TD,0
+8718048,10/3/2015,FCS,Rhode Island,Brown,RECEIVING,D.J.,Stewart,LONG,10
+8718049,10/3/2015,FCS,Rhode Island,Brown,KICKING,Justin,Rohrwasser,FG-FGA,1/3
+8718050,10/3/2015,FCS,Rhode Island,Brown,KICKING,Justin,Rohrwasser,LONG,23
+8718051,10/3/2015,FCS,Rhode Island,Brown,KICKING,Justin,Rohrwasser,XP,4
+8718052,10/3/2015,FCS,Rhode Island,Brown,KICKING,Justin,Rohrwasser,PTS,7
+8718053,10/3/2015,FCS,Rhode Island,Brown,PUNTING,Connor,McHugh,NO,4
+8718054,10/3/2015,FCS,Rhode Island,Brown,PUNTING,Connor,McHugh,YDS,168
+8718055,10/3/2015,FCS,Rhode Island,Brown,PUNTING,Connor,McHugh,AVG,42.0
+8718056,10/3/2015,FCS,Rhode Island,Brown,PUNTING,Connor,McHugh,LONG,47
+8718057,10/3/2015,FCS,Rhode Island,Brown,PUNT RETURNS,Justin,Caines,NO,1
+8718058,10/3/2015,FCS,Rhode Island,Brown,PUNT RETURNS,Justin,Caines,YDS,7
+8718059,10/3/2015,FCS,Rhode Island,Brown,PUNT RETURNS,Justin,Caines,AVG,7.0
+8718060,10/3/2015,FCS,Rhode Island,Brown,PUNT RETURNS,Justin,Caines,LONG,7
+8718061,10/3/2015,FCS,Rhode Island,Brown,KICK RETURNS,Harold,Cooper,NO,3
+8718062,10/3/2015,FCS,Rhode Island,Brown,KICK RETURNS,Harold,Cooper,YDS,183
+8718063,10/3/2015,FCS,Rhode Island,Brown,KICK RETURNS,Harold,Cooper,AVG,61.0
+8718064,10/3/2015,FCS,Rhode Island,Brown,KICK RETURNS,Harold,Cooper,LONG,92
+8718065,10/3/2015,FCS,Rhode Island,Brown,KICK RETURNS,Robbie,Delgado,NO,1
+8718066,10/3/2015,FCS,Rhode Island,Brown,KICK RETURNS,Robbie,Delgado,YDS,31
+8718067,10/3/2015,FCS,Rhode Island,Brown,KICK RETURNS,Robbie,Delgado,AVG,31.0
+8718068,10/3/2015,FCS,Rhode Island,Brown,KICK RETURNS,Robbie,Delgado,LONG,31
+8718069,10/3/2015,FCS,Rhode Island,Brown,KICK RETURNS,Ahkema,Evans,NO,1
+8718070,10/3/2015,FCS,Rhode Island,Brown,KICK RETURNS,Ahkema,Evans,YDS,8
+8718071,10/3/2015,FCS,Rhode Island,Brown,KICK RETURNS,Ahkema,Evans,AVG,8.0
+8718072,10/3/2015,FCS,Rhode Island,Brown,KICK RETURNS,Ahkema,Evans,LONG,8
+8718073,10/3/2015,FCS,Rhode Island,Brown,KICK RETURNS,Mike,Ezirike,NO,1
+8718074,10/3/2015,FCS,Rhode Island,Brown,KICK RETURNS,Mike,Ezirike,YDS,0
+8718075,10/3/2015,FCS,Rhode Island,Brown,KICK RETURNS,Mike,Ezirike,AVG,-
+8718076,10/3/2015,FCS,Rhode Island,Brown,KICK RETURNS,Mike,Ezirike,LONG,0
+8718077,10/3/2015,FCS,Rhode Island,Brown,DEFENSE,Adam,Parker,TOT,11
+8718078,10/3/2015,FCS,Rhode Island,Brown,DEFENSE,Adam,Parker,SOLO,6
+8718079,10/3/2015,FCS,Rhode Island,Brown,DEFENSE,Adam,Parker,SACKS,0
+8718080,10/3/2015,FCS,Rhode Island,Brown,DEFENSE,Adam,Parker,TFL,0
+8718081,10/3/2015,FCS,Rhode Island,Brown,DEFENSE,Adam,Parker,INT,0
+8718082,10/3/2015,FCS,Rhode Island,Brown,DEFENSE,Adam,Parker,FF,0
+8718083,10/3/2015,FCS,Rhode Island,Brown,DEFENSE,Adam,Parker,FR,1
+8718084,10/3/2015,FCS,Rhode Island,Brown,DEFENSE,Greg,Doutre,TOT,1
+8718085,10/3/2015,FCS,Rhode Island,Brown,DEFENSE,Greg,Doutre,SOLO,1
+8718086,10/3/2015,FCS,Rhode Island,Brown,DEFENSE,Greg,Doutre,SACKS,1
+8718087,10/3/2015,FCS,Rhode Island,Brown,DEFENSE,Greg,Doutre,TFL,1
+8718088,10/3/2015,FCS,Rhode Island,Brown,DEFENSE,Greg,Doutre,INT,0
+8718089,10/3/2015,FCS,Rhode Island,Brown,DEFENSE,Greg,Doutre,FF,2
+8718090,10/3/2015,FCS,Rhode Island,Brown,DEFENSE,Greg,Doutre,FR,0
+8718091,10/3/2015,FCS,Rhode Island,Brown,DEFENSE,Tez,Wilson,TOT,10
+8718092,10/3/2015,FCS,Rhode Island,Brown,DEFENSE,Tez,Wilson,SOLO,7
+8718093,10/3/2015,FCS,Rhode Island,Brown,DEFENSE,Tez,Wilson,SACKS,0
+8718094,10/3/2015,FCS,Rhode Island,Brown,DEFENSE,Tez,Wilson,TFL,0
+8718095,10/3/2015,FCS,Rhode Island,Brown,DEFENSE,Tez,Wilson,INT,0
+8718096,10/3/2015,FCS,Rhode Island,Brown,DEFENSE,Tez,Wilson,FF,1
+8718097,10/3/2015,FCS,Rhode Island,Brown,DEFENSE,Tez,Wilson,FR,0
+8718098,10/3/2015,FCS,Brown,Rhode Island,RUSHING,Seth,Rosenbauer,ATT,15
+8718099,10/3/2015,FCS,Brown,Rhode Island,RUSHING,Seth,Rosenbauer,YDS,76
+8718100,10/3/2015,FCS,Brown,Rhode Island,RUSHING,Seth,Rosenbauer,TD,1
+8718101,10/3/2015,FCS,Brown,Rhode Island,RUSHING,Seth,Rosenbauer,LONG,12
+8718102,10/3/2015,FCS,Brown,Rhode Island,RUSHING,Andrew,Coke,ATT,9
+8718103,10/3/2015,FCS,Brown,Rhode Island,RUSHING,Andrew,Coke,YDS,32
+8718104,10/3/2015,FCS,Brown,Rhode Island,RUSHING,Andrew,Coke,TD,0
+8718105,10/3/2015,FCS,Brown,Rhode Island,RUSHING,Andrew,Coke,LONG,7
+8718106,10/3/2015,FCS,Brown,Rhode Island,RUSHING,Alexander,Jette,ATT,1
+8718107,10/3/2015,FCS,Brown,Rhode Island,RUSHING,Alexander,Jette,YDS,15
+8718108,10/3/2015,FCS,Brown,Rhode Island,RUSHING,Alexander,Jette,TD,0
+8718109,10/3/2015,FCS,Brown,Rhode Island,RUSHING,Alexander,Jette,LONG,15
+8718110,10/3/2015,FCS,Brown,Rhode Island,RUSHING,Troy,Doles,ATT,1
+8718111,10/3/2015,FCS,Brown,Rhode Island,RUSHING,Troy,Doles,YDS,9
+8718112,10/3/2015,FCS,Brown,Rhode Island,RUSHING,Troy,Doles,TD,0
+8718113,10/3/2015,FCS,Brown,Rhode Island,RUSHING,Troy,Doles,LONG,9
+8718114,10/3/2015,FCS,Brown,Rhode Island,RUSHING,Johnny,Pena,ATT,6
+8718115,10/3/2015,FCS,Brown,Rhode Island,RUSHING,Johnny,Pena,YDS,6
+8718116,10/3/2015,FCS,Brown,Rhode Island,RUSHING,Johnny,Pena,TD,0
+8718117,10/3/2015,FCS,Brown,Rhode Island,RUSHING,Johnny,Pena,LONG,6
+8718118,10/3/2015,FCS,Brown,Rhode Island,RUSHING,Marcus,Fuller,ATT,7
+8718119,10/3/2015,FCS,Brown,Rhode Island,RUSHING,Marcus,Fuller,YDS,5
+8718120,10/3/2015,FCS,Brown,Rhode Island,RUSHING,Marcus,Fuller,TD,0
+8718121,10/3/2015,FCS,Brown,Rhode Island,RUSHING,Marcus,Fuller,LONG,8
+8718122,10/3/2015,FCS,Brown,Rhode Island,RUSHING,,Team,ATT,2
+8718123,10/3/2015,FCS,Brown,Rhode Island,RUSHING,,Team,YDS,-2
+8718124,10/3/2015,FCS,Brown,Rhode Island,RUSHING,,Team,TD,0
+8718125,10/3/2015,FCS,Brown,Rhode Island,RUSHING,,Team,LONG,0
+8718126,10/3/2015,FCS,Brown,Rhode Island,RUSHING,Grant,Senne,ATT,1
+8718127,10/3/2015,FCS,Brown,Rhode Island,RUSHING,Grant,Senne,YDS,-20
+8718128,10/3/2015,FCS,Brown,Rhode Island,RUSHING,Grant,Senne,TD,0
+8718129,10/3/2015,FCS,Brown,Rhode Island,RUSHING,Grant,Senne,LONG,0
+8718130,10/3/2015,FCS,Brown,Rhode Island,PASSING,Marcus,Fuller,CP-ATT-INT,41-58-0
+8718131,10/3/2015,FCS,Brown,Rhode Island,PASSING,Marcus,Fuller,YDS,438
+8718132,10/3/2015,FCS,Brown,Rhode Island,PASSING,Marcus,Fuller,TD,4
+8718133,10/3/2015,FCS,Brown,Rhode Island,PASSING,Marcus,Fuller,LONG,0
+8718134,10/3/2015,FCS,Brown,Rhode Island,RECEIVING,Brian,Strachan,REC,15
+8718135,10/3/2015,FCS,Brown,Rhode Island,RECEIVING,Brian,Strachan,YDS,135
+8718136,10/3/2015,FCS,Brown,Rhode Island,RECEIVING,Brian,Strachan,TD,0
+8718137,10/3/2015,FCS,Brown,Rhode Island,RECEIVING,Brian,Strachan,LONG,29
+8718138,10/3/2015,FCS,Brown,Rhode Island,RECEIVING,Troy,Doles,REC,9
+8718139,10/3/2015,FCS,Brown,Rhode Island,RECEIVING,Troy,Doles,YDS,127
+8718140,10/3/2015,FCS,Brown,Rhode Island,RECEIVING,Troy,Doles,TD,1
+8718141,10/3/2015,FCS,Brown,Rhode Island,RECEIVING,Troy,Doles,LONG,29
+8718142,10/3/2015,FCS,Brown,Rhode Island,RECEIVING,Alexander,Jette,REC,9
+8718143,10/3/2015,FCS,Brown,Rhode Island,RECEIVING,Alexander,Jette,YDS,116
+8718144,10/3/2015,FCS,Brown,Rhode Island,RECEIVING,Alexander,Jette,TD,2
+8718145,10/3/2015,FCS,Brown,Rhode Island,RECEIVING,Alexander,Jette,LONG,35
+8718146,10/3/2015,FCS,Brown,Rhode Island,RECEIVING,Seth,Rosenbauer,REC,4
+8718147,10/3/2015,FCS,Brown,Rhode Island,RECEIVING,Seth,Rosenbauer,YDS,28
+8718148,10/3/2015,FCS,Brown,Rhode Island,RECEIVING,Seth,Rosenbauer,TD,0
+8718149,10/3/2015,FCS,Brown,Rhode Island,RECEIVING,Seth,Rosenbauer,LONG,18
+8718150,10/3/2015,FCS,Brown,Rhode Island,RECEIVING,Oliver,Bucka,REC,1
+8718151,10/3/2015,FCS,Brown,Rhode Island,RECEIVING,Oliver,Bucka,YDS,15
+8718152,10/3/2015,FCS,Brown,Rhode Island,RECEIVING,Oliver,Bucka,TD,1
+8718153,10/3/2015,FCS,Brown,Rhode Island,RECEIVING,Oliver,Bucka,LONG,15
+8718154,10/3/2015,FCS,Brown,Rhode Island,RECEIVING,Anton,Casey,REC,1
+8718155,10/3/2015,FCS,Brown,Rhode Island,RECEIVING,Anton,Casey,YDS,10
+8718156,10/3/2015,FCS,Brown,Rhode Island,RECEIVING,Anton,Casey,TD,0
+8718157,10/3/2015,FCS,Brown,Rhode Island,RECEIVING,Anton,Casey,LONG,10
+8718158,10/3/2015,FCS,Brown,Rhode Island,RECEIVING,Andrew,Coke,REC,2
+8718159,10/3/2015,FCS,Brown,Rhode Island,RECEIVING,Andrew,Coke,YDS,7
+8718160,10/3/2015,FCS,Brown,Rhode Island,RECEIVING,Andrew,Coke,TD,0
+8718161,10/3/2015,FCS,Brown,Rhode Island,RECEIVING,Andrew,Coke,LONG,7
+8718162,10/3/2015,FCS,Brown,Rhode Island,KICKING,Grant,Senne,FG-FGA,0/1
+8718163,10/3/2015,FCS,Brown,Rhode Island,KICKING,Grant,Senne,LONG,0
+8718164,10/3/2015,FCS,Brown,Rhode Island,KICKING,Grant,Senne,XP,5
+8718165,10/3/2015,FCS,Brown,Rhode Island,KICKING,Grant,Senne,PTS,5
+8718166,10/3/2015,FCS,Brown,Rhode Island,PUNTING,Grant,Senne,NO,4
+8718167,10/3/2015,FCS,Brown,Rhode Island,PUNTING,Grant,Senne,YDS,129
+8718168,10/3/2015,FCS,Brown,Rhode Island,PUNTING,Grant,Senne,AVG,32.2
+8718169,10/3/2015,FCS,Brown,Rhode Island,PUNTING,Grant,Senne,LONG,47
+8718170,10/3/2015,FCS,Brown,Rhode Island,PUNT RETURNS,Alexander,Jette,NO,2
+8718171,10/3/2015,FCS,Brown,Rhode Island,PUNT RETURNS,Alexander,Jette,YDS,3
+8718172,10/3/2015,FCS,Brown,Rhode Island,PUNT RETURNS,Alexander,Jette,AVG,1.5
+8718173,10/3/2015,FCS,Brown,Rhode Island,PUNT RETURNS,Alexander,Jette,LONG,3
+8718174,10/3/2015,FCS,Brown,Rhode Island,KICK RETURNS,Troy,Doles,NO,4
+8718175,10/3/2015,FCS,Brown,Rhode Island,KICK RETURNS,Troy,Doles,YDS,89
+8718176,10/3/2015,FCS,Brown,Rhode Island,KICK RETURNS,Troy,Doles,AVG,22.2
+8718177,10/3/2015,FCS,Brown,Rhode Island,KICK RETURNS,Troy,Doles,LONG,40
+8718178,10/3/2015,FCS,Brown,Rhode Island,KICK RETURNS,Jeffrey,Biestek,NO,1
+8718179,10/3/2015,FCS,Brown,Rhode Island,KICK RETURNS,Jeffrey,Biestek,YDS,0
+8718180,10/3/2015,FCS,Brown,Rhode Island,KICK RETURNS,Jeffrey,Biestek,AVG,-
+8718181,10/3/2015,FCS,Brown,Rhode Island,KICK RETURNS,Jeffrey,Biestek,LONG,0
+8718182,10/3/2015,FCS,Brown,Rhode Island,DEFENSE,Robert,Hughes,TOT,6
+8718183,10/3/2015,FCS,Brown,Rhode Island,DEFENSE,Robert,Hughes,SOLO,4
+8718184,10/3/2015,FCS,Brown,Rhode Island,DEFENSE,Robert,Hughes,SACKS,1
+8718185,10/3/2015,FCS,Brown,Rhode Island,DEFENSE,Robert,Hughes,TFL,2
+8718186,10/3/2015,FCS,Brown,Rhode Island,DEFENSE,Robert,Hughes,INT,0
+8718187,10/3/2015,FCS,Brown,Rhode Island,DEFENSE,Robert,Hughes,FF,0
+8718188,10/3/2015,FCS,Brown,Rhode Island,DEFENSE,Robert,Hughes,FR,0
+8718189,10/3/2015,FCS,Brown,Rhode Island,DEFENSE,Will,Quigley,TOT,5
+8718190,10/3/2015,FCS,Brown,Rhode Island,DEFENSE,Will,Quigley,SOLO,4
+8718191,10/3/2015,FCS,Brown,Rhode Island,DEFENSE,Will,Quigley,SACKS,0
+8718192,10/3/2015,FCS,Brown,Rhode Island,DEFENSE,Will,Quigley,TFL,0
+8718193,10/3/2015,FCS,Brown,Rhode Island,DEFENSE,Will,Quigley,INT,1
+8718194,10/3/2015,FCS,Brown,Rhode Island,DEFENSE,Will,Quigley,FF,0
+8718195,10/3/2015,FCS,Brown,Rhode Island,DEFENSE,Will,Quigley,FR,0
+8718196,10/3/2015,FCS,Brown,Rhode Island,DEFENSE,Quintin,Rizek,TOT,2
+8718197,10/3/2015,FCS,Brown,Rhode Island,DEFENSE,Quintin,Rizek,SOLO,2
+8718198,10/3/2015,FCS,Brown,Rhode Island,DEFENSE,Quintin,Rizek,SACKS,0
+8718199,10/3/2015,FCS,Brown,Rhode Island,DEFENSE,Quintin,Rizek,TFL,0
+8718200,10/3/2015,FCS,Brown,Rhode Island,DEFENSE,Quintin,Rizek,INT,1
+8718201,10/3/2015,FCS,Brown,Rhode Island,DEFENSE,Quintin,Rizek,FF,0
+8718202,10/3/2015,FCS,Brown,Rhode Island,DEFENSE,Quintin,Rizek,FR,0
+8718203,10/3/2015,FCS,Brown,Rhode Island,DEFENSE,Jordan,Ferguson,TOT,1
+8718204,10/3/2015,FCS,Brown,Rhode Island,DEFENSE,Jordan,Ferguson,SOLO,1
+8718205,10/3/2015,FCS,Brown,Rhode Island,DEFENSE,Jordan,Ferguson,SACKS,0
+8718206,10/3/2015,FCS,Brown,Rhode Island,DEFENSE,Jordan,Ferguson,TFL,0
+8718207,10/3/2015,FCS,Brown,Rhode Island,DEFENSE,Jordan,Ferguson,INT,1
+8718208,10/3/2015,FCS,Brown,Rhode Island,DEFENSE,Jordan,Ferguson,FF,0
+8718209,10/3/2015,FCS,Brown,Rhode Island,DEFENSE,Jordan,Ferguson,FR,0

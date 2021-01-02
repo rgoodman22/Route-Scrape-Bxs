@@ -1,0 +1,244 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+11169001,10/12/2018,FCS,Holy Cross,Harvard,RUSHING,Domenic,Cozier,ATT,15
+11169002,10/12/2018,FCS,Holy Cross,Harvard,RUSHING,Domenic,Cozier,YDS,74
+11169003,10/12/2018,FCS,Holy Cross,Harvard,RUSHING,Domenic,Cozier,TD,2
+11169004,10/12/2018,FCS,Holy Cross,Harvard,RUSHING,Domenic,Cozier,LONG,24
+11169005,10/12/2018,FCS,Holy Cross,Harvard,RUSHING,Peter,Oliver,ATT,3
+11169006,10/12/2018,FCS,Holy Cross,Harvard,RUSHING,Peter,Oliver,YDS,57
+11169007,10/12/2018,FCS,Holy Cross,Harvard,RUSHING,Peter,Oliver,TD,0
+11169008,10/12/2018,FCS,Holy Cross,Harvard,RUSHING,Peter,Oliver,LONG,49
+11169009,10/12/2018,FCS,Holy Cross,Harvard,RUSHING,Miles,Alexander,ATT,6
+11169010,10/12/2018,FCS,Holy Cross,Harvard,RUSHING,Miles,Alexander,YDS,16
+11169011,10/12/2018,FCS,Holy Cross,Harvard,RUSHING,Miles,Alexander,TD,0
+11169012,10/12/2018,FCS,Holy Cross,Harvard,RUSHING,Miles,Alexander,LONG,9
+11169013,10/12/2018,FCS,Holy Cross,Harvard,RUSHING,Geoff,Wade,ATT,14
+11169014,10/12/2018,FCS,Holy Cross,Harvard,RUSHING,Geoff,Wade,YDS,4
+11169015,10/12/2018,FCS,Holy Cross,Harvard,RUSHING,Geoff,Wade,TD,0
+11169016,10/12/2018,FCS,Holy Cross,Harvard,RUSHING,Geoff,Wade,LONG,11
+11169017,10/12/2018,FCS,Holy Cross,Harvard,RUSHING,Emmett,Clifford,ATT,1
+11169018,10/12/2018,FCS,Holy Cross,Harvard,RUSHING,Emmett,Clifford,YDS,-1
+11169019,10/12/2018,FCS,Holy Cross,Harvard,RUSHING,Emmett,Clifford,TD,0
+11169020,10/12/2018,FCS,Holy Cross,Harvard,RUSHING,Emmett,Clifford,LONG,0
+11169021,10/12/2018,FCS,Holy Cross,Harvard,RUSHING,,Team,ATT,1
+11169022,10/12/2018,FCS,Holy Cross,Harvard,RUSHING,,Team,YDS,-2
+11169023,10/12/2018,FCS,Holy Cross,Harvard,RUSHING,,Team,TD,0
+11169024,10/12/2018,FCS,Holy Cross,Harvard,RUSHING,,Team,LONG,0
+11169025,10/12/2018,FCS,Holy Cross,Harvard,PASSING,Geoff,Wade,CP-ATT-INT,13-19-0
+11169026,10/12/2018,FCS,Holy Cross,Harvard,PASSING,Geoff,Wade,YDS,149
+11169027,10/12/2018,FCS,Holy Cross,Harvard,PASSING,Geoff,Wade,TD,2
+11169028,10/12/2018,FCS,Holy Cross,Harvard,PASSING,Geoff,Wade,LONG,23
+11169029,10/12/2018,FCS,Holy Cross,Harvard,PASSING,Jon,JonRoberts,CP-ATT-INT,1-1-0
+11169030,10/12/2018,FCS,Holy Cross,Harvard,PASSING,Jon,JonRoberts,YDS,61
+11169031,10/12/2018,FCS,Holy Cross,Harvard,PASSING,Jon,JonRoberts,TD,0
+11169032,10/12/2018,FCS,Holy Cross,Harvard,PASSING,Jon,JonRoberts,LONG,61
+11169033,10/12/2018,FCS,Holy Cross,Harvard,PASSING,Emmett,Clifford,CP-ATT-INT,1-1-0
+11169034,10/12/2018,FCS,Holy Cross,Harvard,PASSING,Emmett,Clifford,YDS,2
+11169035,10/12/2018,FCS,Holy Cross,Harvard,PASSING,Emmett,Clifford,TD,0
+11169036,10/12/2018,FCS,Holy Cross,Harvard,PASSING,Emmett,Clifford,LONG,2
+11169037,10/12/2018,FCS,Holy Cross,Harvard,RECEIVING,Richie,DeNicola,REC,4
+11169038,10/12/2018,FCS,Holy Cross,Harvard,RECEIVING,Richie,DeNicola,YDS,106
+11169039,10/12/2018,FCS,Holy Cross,Harvard,RECEIVING,Richie,DeNicola,TD,0
+11169040,10/12/2018,FCS,Holy Cross,Harvard,RECEIVING,Richie,DeNicola,LONG,61
+11169041,10/12/2018,FCS,Holy Cross,Harvard,RECEIVING,Martin,Dorsey,REC,6
+11169042,10/12/2018,FCS,Holy Cross,Harvard,RECEIVING,Martin,Dorsey,YDS,73
+11169043,10/12/2018,FCS,Holy Cross,Harvard,RECEIVING,Martin,Dorsey,TD,2
+11169044,10/12/2018,FCS,Holy Cross,Harvard,RECEIVING,Martin,Dorsey,LONG,19
+11169045,10/12/2018,FCS,Holy Cross,Harvard,RECEIVING,Blaise,Bell,REC,2
+11169046,10/12/2018,FCS,Holy Cross,Harvard,RECEIVING,Blaise,Bell,YDS,21
+11169047,10/12/2018,FCS,Holy Cross,Harvard,RECEIVING,Blaise,Bell,TD,0
+11169048,10/12/2018,FCS,Holy Cross,Harvard,RECEIVING,Blaise,Bell,LONG,16
+11169049,10/12/2018,FCS,Holy Cross,Harvard,RECEIVING,Domenic,Cozier,REC,3
+11169050,10/12/2018,FCS,Holy Cross,Harvard,RECEIVING,Domenic,Cozier,YDS,12
+11169051,10/12/2018,FCS,Holy Cross,Harvard,RECEIVING,Domenic,Cozier,TD,0
+11169052,10/12/2018,FCS,Holy Cross,Harvard,RECEIVING,Domenic,Cozier,LONG,6
+11169053,10/12/2018,FCS,Holy Cross,Harvard,KICKING,Derek,Ng,FG-FGA,0/0
+11169054,10/12/2018,FCS,Holy Cross,Harvard,KICKING,Derek,Ng,LONG,-
+11169055,10/12/2018,FCS,Holy Cross,Harvard,KICKING,Derek,Ng,XP,3
+11169056,10/12/2018,FCS,Holy Cross,Harvard,KICKING,Derek,Ng,PTS,3
+11169057,10/12/2018,FCS,Holy Cross,Harvard,PUNTING,Derek,Ng,NO,6
+11169058,10/12/2018,FCS,Holy Cross,Harvard,PUNTING,Derek,Ng,YDS,212
+11169059,10/12/2018,FCS,Holy Cross,Harvard,PUNTING,Derek,Ng,AVG,35.3
+11169060,10/12/2018,FCS,Holy Cross,Harvard,PUNTING,Derek,Ng,LONG,47
+11169061,10/12/2018,FCS,Holy Cross,Harvard,PUNTING,Cody,Wilkinson,NO,2
+11169062,10/12/2018,FCS,Holy Cross,Harvard,PUNTING,Cody,Wilkinson,YDS,79
+11169063,10/12/2018,FCS,Holy Cross,Harvard,PUNTING,Cody,Wilkinson,AVG,39.5
+11169064,10/12/2018,FCS,Holy Cross,Harvard,PUNTING,Cody,Wilkinson,LONG,40
+11169065,10/12/2018,FCS,Holy Cross,Harvard,PUNT RETURNS,Richie,DeNicola,NO,1
+11169066,10/12/2018,FCS,Holy Cross,Harvard,PUNT RETURNS,Richie,DeNicola,YDS,0
+11169067,10/12/2018,FCS,Holy Cross,Harvard,PUNT RETURNS,Richie,DeNicola,AVG,-
+11169068,10/12/2018,FCS,Holy Cross,Harvard,PUNT RETURNS,Richie,DeNicola,LONG,0
+11169069,10/12/2018,FCS,Holy Cross,Harvard,KICK RETURNS,Spencer,Gilliam,NO,4
+11169070,10/12/2018,FCS,Holy Cross,Harvard,KICK RETURNS,Spencer,Gilliam,YDS,91
+11169071,10/12/2018,FCS,Holy Cross,Harvard,KICK RETURNS,Spencer,Gilliam,AVG,22.8
+11169072,10/12/2018,FCS,Holy Cross,Harvard,KICK RETURNS,Spencer,Gilliam,LONG,26
+11169073,10/12/2018,FCS,Holy Cross,Harvard,KICK RETURNS,Jon,JonRoberts,NO,1
+11169074,10/12/2018,FCS,Holy Cross,Harvard,KICK RETURNS,Jon,JonRoberts,YDS,16
+11169075,10/12/2018,FCS,Holy Cross,Harvard,KICK RETURNS,Jon,JonRoberts,AVG,16.0
+11169076,10/12/2018,FCS,Holy Cross,Harvard,KICK RETURNS,Jon,JonRoberts,LONG,16
+11169077,10/12/2018,FCS,Holy Cross,Harvard,DEFENSE,Teddy,Capsis,TOT,0
+11169078,10/12/2018,FCS,Holy Cross,Harvard,DEFENSE,Teddy,Capsis,SOLO,0
+11169079,10/12/2018,FCS,Holy Cross,Harvard,DEFENSE,Teddy,Capsis,SACKS,1
+11169080,10/12/2018,FCS,Holy Cross,Harvard,DEFENSE,Teddy,Capsis,TFL,0
+11169081,10/12/2018,FCS,Holy Cross,Harvard,DEFENSE,Teddy,Capsis,INT,0
+11169082,10/12/2018,FCS,Holy Cross,Harvard,DEFENSE,Teddy,Capsis,FF,0
+11169083,10/12/2018,FCS,Holy Cross,Harvard,DEFENSE,Teddy,Capsis,FR,0
+11169084,10/12/2018,FCS,Holy Cross,Harvard,DEFENSE,Benton,Whitley,TOT,0
+11169085,10/12/2018,FCS,Holy Cross,Harvard,DEFENSE,Benton,Whitley,SOLO,0
+11169086,10/12/2018,FCS,Holy Cross,Harvard,DEFENSE,Benton,Whitley,SACKS,1
+11169087,10/12/2018,FCS,Holy Cross,Harvard,DEFENSE,Benton,Whitley,TFL,0
+11169088,10/12/2018,FCS,Holy Cross,Harvard,DEFENSE,Benton,Whitley,INT,0
+11169089,10/12/2018,FCS,Holy Cross,Harvard,DEFENSE,Benton,Whitley,FF,0
+11169090,10/12/2018,FCS,Holy Cross,Harvard,DEFENSE,Benton,Whitley,FR,0
+11169091,10/12/2018,FCS,Holy Cross,Harvard,DEFENSE,Joe,Lang,TOT,0
+11169092,10/12/2018,FCS,Holy Cross,Harvard,DEFENSE,Joe,Lang,SOLO,0
+11169093,10/12/2018,FCS,Holy Cross,Harvard,DEFENSE,Joe,Lang,SACKS,0
+11169094,10/12/2018,FCS,Holy Cross,Harvard,DEFENSE,Joe,Lang,TFL,0
+11169095,10/12/2018,FCS,Holy Cross,Harvard,DEFENSE,Joe,Lang,INT,0
+11169096,10/12/2018,FCS,Holy Cross,Harvard,DEFENSE,Joe,Lang,FF,1
+11169097,10/12/2018,FCS,Holy Cross,Harvard,DEFENSE,Joe,Lang,FR,0
+11169098,10/12/2018,FCS,Holy Cross,Harvard,DEFENSE,Cristos,Argys,TOT,0
+11169099,10/12/2018,FCS,Holy Cross,Harvard,DEFENSE,Cristos,Argys,SOLO,0
+11169100,10/12/2018,FCS,Holy Cross,Harvard,DEFENSE,Cristos,Argys,SACKS,0
+11169101,10/12/2018,FCS,Holy Cross,Harvard,DEFENSE,Cristos,Argys,TFL,0
+11169102,10/12/2018,FCS,Holy Cross,Harvard,DEFENSE,Cristos,Argys,INT,0
+11169103,10/12/2018,FCS,Holy Cross,Harvard,DEFENSE,Cristos,Argys,FF,0
+11169104,10/12/2018,FCS,Holy Cross,Harvard,DEFENSE,Cristos,Argys,FR,1
+11169105,10/12/2018,FCS,Holy Cross,Harvard,DEFENSE,Josh,Hicks,TOT,0
+11169106,10/12/2018,FCS,Holy Cross,Harvard,DEFENSE,Josh,Hicks,SOLO,0
+11169107,10/12/2018,FCS,Holy Cross,Harvard,DEFENSE,Josh,Hicks,SACKS,0
+11169108,10/12/2018,FCS,Holy Cross,Harvard,DEFENSE,Josh,Hicks,TFL,0
+11169109,10/12/2018,FCS,Holy Cross,Harvard,DEFENSE,Josh,Hicks,INT,0
+11169110,10/12/2018,FCS,Holy Cross,Harvard,DEFENSE,Josh,Hicks,FF,0
+11169111,10/12/2018,FCS,Holy Cross,Harvard,DEFENSE,Josh,Hicks,FR,1
+11169112,10/12/2018,FCS,Harvard,Holy Cross,RUSHING,Aaron,Shampklin,ATT,13
+11169113,10/12/2018,FCS,Harvard,Holy Cross,RUSHING,Aaron,Shampklin,YDS,128
+11169114,10/12/2018,FCS,Harvard,Holy Cross,RUSHING,Aaron,Shampklin,TD,1
+11169115,10/12/2018,FCS,Harvard,Holy Cross,RUSHING,Aaron,Shampklin,LONG,57
+11169116,10/12/2018,FCS,Harvard,Holy Cross,RUSHING,Tyler,Adams,ATT,2
+11169117,10/12/2018,FCS,Harvard,Holy Cross,RUSHING,Tyler,Adams,YDS,33
+11169118,10/12/2018,FCS,Harvard,Holy Cross,RUSHING,Tyler,Adams,TD,0
+11169119,10/12/2018,FCS,Harvard,Holy Cross,RUSHING,Tyler,Adams,LONG,19
+11169120,10/12/2018,FCS,Harvard,Holy Cross,RUSHING,Devin,Darrington,ATT,3
+11169121,10/12/2018,FCS,Harvard,Holy Cross,RUSHING,Devin,Darrington,YDS,32
+11169122,10/12/2018,FCS,Harvard,Holy Cross,RUSHING,Devin,Darrington,TD,0
+11169123,10/12/2018,FCS,Harvard,Holy Cross,RUSHING,Devin,Darrington,LONG,20
+11169124,10/12/2018,FCS,Harvard,Holy Cross,RUSHING,Charlie,BookerIII,ATT,10
+11169125,10/12/2018,FCS,Harvard,Holy Cross,RUSHING,Charlie,BookerIII,YDS,31
+11169126,10/12/2018,FCS,Harvard,Holy Cross,RUSHING,Charlie,BookerIII,TD,0
+11169127,10/12/2018,FCS,Harvard,Holy Cross,RUSHING,Charlie,BookerIII,LONG,8
+11169128,10/12/2018,FCS,Harvard,Holy Cross,RUSHING,Tom,Stewart,ATT,12
+11169129,10/12/2018,FCS,Harvard,Holy Cross,RUSHING,Tom,Stewart,YDS,29
+11169130,10/12/2018,FCS,Harvard,Holy Cross,RUSHING,Tom,Stewart,TD,0
+11169131,10/12/2018,FCS,Harvard,Holy Cross,RUSHING,Tom,Stewart,LONG,18
+11169132,10/12/2018,FCS,Harvard,Holy Cross,RUSHING,Henry,Taylor,ATT,1
+11169133,10/12/2018,FCS,Harvard,Holy Cross,RUSHING,Henry,Taylor,YDS,27
+11169134,10/12/2018,FCS,Harvard,Holy Cross,RUSHING,Henry,Taylor,TD,0
+11169135,10/12/2018,FCS,Harvard,Holy Cross,RUSHING,Henry,Taylor,LONG,27
+11169136,10/12/2018,FCS,Harvard,Holy Cross,RUSHING,,Team,ATT,2
+11169137,10/12/2018,FCS,Harvard,Holy Cross,RUSHING,,Team,YDS,-12
+11169138,10/12/2018,FCS,Harvard,Holy Cross,RUSHING,,Team,TD,0
+11169139,10/12/2018,FCS,Harvard,Holy Cross,RUSHING,,Team,LONG,0
+11169140,10/12/2018,FCS,Harvard,Holy Cross,PASSING,Tom,Stewart,CP-ATT-INT,20-36-0
+11169141,10/12/2018,FCS,Harvard,Holy Cross,PASSING,Tom,Stewart,YDS,272
+11169142,10/12/2018,FCS,Harvard,Holy Cross,PASSING,Tom,Stewart,TD,2
+11169143,10/12/2018,FCS,Harvard,Holy Cross,PASSING,Tom,Stewart,LONG,35
+11169144,10/12/2018,FCS,Harvard,Holy Cross,RECEIVING,Tyler,Adams,REC,7
+11169145,10/12/2018,FCS,Harvard,Holy Cross,RECEIVING,Tyler,Adams,YDS,84
+11169146,10/12/2018,FCS,Harvard,Holy Cross,RECEIVING,Tyler,Adams,TD,1
+11169147,10/12/2018,FCS,Harvard,Holy Cross,RECEIVING,Tyler,Adams,LONG,30
+11169148,10/12/2018,FCS,Harvard,Holy Cross,RECEIVING,Adam,Scott,REC,5
+11169149,10/12/2018,FCS,Harvard,Holy Cross,RECEIVING,Adam,Scott,YDS,71
+11169150,10/12/2018,FCS,Harvard,Holy Cross,RECEIVING,Adam,Scott,TD,0
+11169151,10/12/2018,FCS,Harvard,Holy Cross,RECEIVING,Adam,Scott,LONG,33
+11169152,10/12/2018,FCS,Harvard,Holy Cross,RECEIVING,Henry,Taylor,REC,5
+11169153,10/12/2018,FCS,Harvard,Holy Cross,RECEIVING,Henry,Taylor,YDS,52
+11169154,10/12/2018,FCS,Harvard,Holy Cross,RECEIVING,Henry,Taylor,TD,0
+11169155,10/12/2018,FCS,Harvard,Holy Cross,RECEIVING,Henry,Taylor,LONG,21
+11169156,10/12/2018,FCS,Harvard,Holy Cross,RECEIVING,James,Batch,REC,1
+11169157,10/12/2018,FCS,Harvard,Holy Cross,RECEIVING,James,Batch,YDS,35
+11169158,10/12/2018,FCS,Harvard,Holy Cross,RECEIVING,James,Batch,TD,1
+11169159,10/12/2018,FCS,Harvard,Holy Cross,RECEIVING,James,Batch,LONG,35
+11169160,10/12/2018,FCS,Harvard,Holy Cross,RECEIVING,Adam,West,REC,1
+11169161,10/12/2018,FCS,Harvard,Holy Cross,RECEIVING,Adam,West,YDS,21
+11169162,10/12/2018,FCS,Harvard,Holy Cross,RECEIVING,Adam,West,TD,0
+11169163,10/12/2018,FCS,Harvard,Holy Cross,RECEIVING,Adam,West,LONG,21
+11169164,10/12/2018,FCS,Harvard,Holy Cross,RECEIVING,Aaron,Shampklin,REC,1
+11169165,10/12/2018,FCS,Harvard,Holy Cross,RECEIVING,Aaron,Shampklin,YDS,9
+11169166,10/12/2018,FCS,Harvard,Holy Cross,RECEIVING,Aaron,Shampklin,TD,0
+11169167,10/12/2018,FCS,Harvard,Holy Cross,RECEIVING,Aaron,Shampklin,LONG,9
+11169168,10/12/2018,FCS,Harvard,Holy Cross,KICKING,Jake,McIntyre,FG-FGA,4/5
+11169169,10/12/2018,FCS,Harvard,Holy Cross,KICKING,Jake,McIntyre,LONG,34
+11169170,10/12/2018,FCS,Harvard,Holy Cross,KICKING,Jake,McIntyre,XP,1
+11169171,10/12/2018,FCS,Harvard,Holy Cross,KICKING,Jake,McIntyre,PTS,13
+11169172,10/12/2018,FCS,Harvard,Holy Cross,PUNTING,Jon,Sot,NO,4
+11169173,10/12/2018,FCS,Harvard,Holy Cross,PUNTING,Jon,Sot,YDS,172
+11169174,10/12/2018,FCS,Harvard,Holy Cross,PUNTING,Jon,Sot,AVG,43.0
+11169175,10/12/2018,FCS,Harvard,Holy Cross,PUNTING,Jon,Sot,LONG,54
+11169176,10/12/2018,FCS,Harvard,Holy Cross,PUNT RETURNS,Henry,Taylor,NO,1
+11169177,10/12/2018,FCS,Harvard,Holy Cross,PUNT RETURNS,Henry,Taylor,YDS,-1
+11169178,10/12/2018,FCS,Harvard,Holy Cross,PUNT RETURNS,Henry,Taylor,AVG,-
+11169179,10/12/2018,FCS,Harvard,Holy Cross,PUNT RETURNS,Henry,Taylor,LONG,0
+11169180,10/12/2018,FCS,Harvard,Holy Cross,KICK RETURNS,Kym,"Wimberly,Jr.",NO,3
+11169181,10/12/2018,FCS,Harvard,Holy Cross,KICK RETURNS,Kym,"Wimberly,Jr.",YDS,50
+11169182,10/12/2018,FCS,Harvard,Holy Cross,KICK RETURNS,Kym,"Wimberly,Jr.",AVG,16.7
+11169183,10/12/2018,FCS,Harvard,Holy Cross,KICK RETURNS,Kym,"Wimberly,Jr.",LONG,24
+11169184,10/12/2018,FCS,Harvard,Holy Cross,KICK RETURNS,Adam,Scott,NO,1
+11169185,10/12/2018,FCS,Harvard,Holy Cross,KICK RETURNS,Adam,Scott,YDS,0
+11169186,10/12/2018,FCS,Harvard,Holy Cross,KICK RETURNS,Adam,Scott,AVG,-
+11169187,10/12/2018,FCS,Harvard,Holy Cross,KICK RETURNS,Adam,Scott,LONG,0
+11169188,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Kelvin,Apari,TOT,0
+11169189,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Kelvin,Apari,SOLO,0
+11169190,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Kelvin,Apari,SACKS,0
+11169191,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Kelvin,Apari,TFL,0
+11169192,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Kelvin,Apari,INT,0
+11169193,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Kelvin,Apari,FF,0
+11169194,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Kelvin,Apari,FR,1
+11169195,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Stone,Hart,TOT,0
+11169196,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Stone,Hart,SOLO,0
+11169197,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Stone,Hart,SACKS,0.5
+11169198,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Stone,Hart,TFL,0
+11169199,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Stone,Hart,INT,0
+11169200,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Stone,Hart,FF,1
+11169201,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Stone,Hart,FR,0
+11169202,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,John,Stivers,TOT,0
+11169203,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,John,Stivers,SOLO,0
+11169204,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,John,Stivers,SACKS,0
+11169205,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,John,Stivers,TFL,0
+11169206,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,John,Stivers,INT,0
+11169207,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,John,Stivers,FF,0
+11169208,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,John,Stivers,FR,1
+11169209,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Brogan,McPartland,TOT,0
+11169210,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Brogan,McPartland,SOLO,0
+11169211,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Brogan,McPartland,SACKS,1
+11169212,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Brogan,McPartland,TFL,0
+11169213,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Brogan,McPartland,INT,0
+11169214,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Brogan,McPartland,FF,0
+11169215,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Brogan,McPartland,FR,0
+11169216,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Jordan,Hill,TOT,0
+11169217,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Jordan,Hill,SOLO,0
+11169218,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Jordan,Hill,SACKS,0.5
+11169219,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Jordan,Hill,TFL,0
+11169220,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Jordan,Hill,INT,0
+11169221,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Jordan,Hill,FF,0
+11169222,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Jordan,Hill,FR,1
+11169223,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Cameron,Kline,TOT,0
+11169224,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Cameron,Kline,SOLO,0
+11169225,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Cameron,Kline,SACKS,1
+11169226,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Cameron,Kline,TFL,0
+11169227,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Cameron,Kline,INT,0
+11169228,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Cameron,Kline,FF,0
+11169229,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Cameron,Kline,FR,0
+11169230,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Richie,Ryan,TOT,0
+11169231,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Richie,Ryan,SOLO,0
+11169232,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Richie,Ryan,SACKS,0.5
+11169233,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Richie,Ryan,TFL,0
+11169234,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Richie,Ryan,INT,0
+11169235,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Richie,Ryan,FF,0
+11169236,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Richie,Ryan,FR,0
+11169237,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Andrew,Irwin,TOT,0
+11169238,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Andrew,Irwin,SOLO,0
+11169239,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Andrew,Irwin,SACKS,0.5
+11169240,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Andrew,Irwin,TFL,0
+11169241,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Andrew,Irwin,INT,0
+11169242,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Andrew,Irwin,FF,0
+11169243,10/12/2018,FCS,Harvard,Holy Cross,DEFENSE,Andrew,Irwin,FR,0

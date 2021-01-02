@@ -1,0 +1,165 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9626001,10/15/2016,FCS,James Madison,New Hampshire,RUSHING,Bryan,Schor,ATT,12
+9626002,10/15/2016,FCS,James Madison,New Hampshire,RUSHING,Bryan,Schor,YDS,70
+9626003,10/15/2016,FCS,James Madison,New Hampshire,RUSHING,Bryan,Schor,TD,1
+9626004,10/15/2016,FCS,James Madison,New Hampshire,RUSHING,Bryan,Schor,LONG,24
+9626005,10/15/2016,FCS,James Madison,New Hampshire,RUSHING,Khalid,Abdullah,ATT,12
+9626006,10/15/2016,FCS,James Madison,New Hampshire,RUSHING,Khalid,Abdullah,YDS,57
+9626007,10/15/2016,FCS,James Madison,New Hampshire,RUSHING,Khalid,Abdullah,TD,0
+9626008,10/15/2016,FCS,James Madison,New Hampshire,RUSHING,Khalid,Abdullah,LONG,15
+9626009,10/15/2016,FCS,James Madison,New Hampshire,RUSHING,Cardon,Johnson,ATT,11
+9626010,10/15/2016,FCS,James Madison,New Hampshire,RUSHING,Cardon,Johnson,YDS,40
+9626011,10/15/2016,FCS,James Madison,New Hampshire,RUSHING,Cardon,Johnson,TD,0
+9626012,10/15/2016,FCS,James Madison,New Hampshire,RUSHING,Cardon,Johnson,LONG,14
+9626013,10/15/2016,FCS,James Madison,New Hampshire,RUSHING,Rashard,Davis,ATT,4
+9626014,10/15/2016,FCS,James Madison,New Hampshire,RUSHING,Rashard,Davis,YDS,23
+9626015,10/15/2016,FCS,James Madison,New Hampshire,RUSHING,Rashard,Davis,TD,0
+9626016,10/15/2016,FCS,James Madison,New Hampshire,RUSHING,Rashard,Davis,LONG,9
+9626017,10/15/2016,FCS,James Madison,New Hampshire,RUSHING,John,Miller,ATT,1
+9626018,10/15/2016,FCS,James Madison,New Hampshire,RUSHING,John,Miller,YDS,9
+9626019,10/15/2016,FCS,James Madison,New Hampshire,RUSHING,John,Miller,TD,0
+9626020,10/15/2016,FCS,James Madison,New Hampshire,RUSHING,John,Miller,LONG,9
+9626021,10/15/2016,FCS,James Madison,New Hampshire,RUSHING,,Team,ATT,3
+9626022,10/15/2016,FCS,James Madison,New Hampshire,RUSHING,,Team,YDS,-4
+9626023,10/15/2016,FCS,James Madison,New Hampshire,RUSHING,,Team,TD,0
+9626024,10/15/2016,FCS,James Madison,New Hampshire,RUSHING,,Team,LONG,0
+9626025,10/15/2016,FCS,James Madison,New Hampshire,PASSING,Bryan,Schor,CP-ATT-INT,15-24-0
+9626026,10/15/2016,FCS,James Madison,New Hampshire,PASSING,Bryan,Schor,YDS,242
+9626027,10/15/2016,FCS,James Madison,New Hampshire,PASSING,Bryan,Schor,TD,4
+9626028,10/15/2016,FCS,James Madison,New Hampshire,PASSING,Bryan,Schor,LONG,54
+9626029,10/15/2016,FCS,James Madison,New Hampshire,RECEIVING,Terrence,Alls,REC,4
+9626030,10/15/2016,FCS,James Madison,New Hampshire,RECEIVING,Terrence,Alls,YDS,95
+9626031,10/15/2016,FCS,James Madison,New Hampshire,RECEIVING,Terrence,Alls,TD,2
+9626032,10/15/2016,FCS,James Madison,New Hampshire,RECEIVING,Terrence,Alls,LONG,54
+9626033,10/15/2016,FCS,James Madison,New Hampshire,RECEIVING,Brandon,Ravenel,REC,3
+9626034,10/15/2016,FCS,James Madison,New Hampshire,RECEIVING,Brandon,Ravenel,YDS,55
+9626035,10/15/2016,FCS,James Madison,New Hampshire,RECEIVING,Brandon,Ravenel,TD,2
+9626036,10/15/2016,FCS,James Madison,New Hampshire,RECEIVING,Brandon,Ravenel,LONG,30
+9626037,10/15/2016,FCS,James Madison,New Hampshire,RECEIVING,Rashard,Davis,REC,3
+9626038,10/15/2016,FCS,James Madison,New Hampshire,RECEIVING,Rashard,Davis,YDS,44
+9626039,10/15/2016,FCS,James Madison,New Hampshire,RECEIVING,Rashard,Davis,TD,0
+9626040,10/15/2016,FCS,James Madison,New Hampshire,RECEIVING,Rashard,Davis,LONG,19
+9626041,10/15/2016,FCS,James Madison,New Hampshire,RECEIVING,Domo,Taylor,REC,1
+9626042,10/15/2016,FCS,James Madison,New Hampshire,RECEIVING,Domo,Taylor,YDS,21
+9626043,10/15/2016,FCS,James Madison,New Hampshire,RECEIVING,Domo,Taylor,TD,0
+9626044,10/15/2016,FCS,James Madison,New Hampshire,RECEIVING,Domo,Taylor,LONG,21
+9626045,10/15/2016,FCS,James Madison,New Hampshire,RECEIVING,John,Miller,REC,2
+9626046,10/15/2016,FCS,James Madison,New Hampshire,RECEIVING,John,Miller,YDS,16
+9626047,10/15/2016,FCS,James Madison,New Hampshire,RECEIVING,John,Miller,TD,0
+9626048,10/15/2016,FCS,James Madison,New Hampshire,RECEIVING,John,Miller,LONG,11
+9626049,10/15/2016,FCS,James Madison,New Hampshire,RECEIVING,Khalid,Abdullah,REC,1
+9626050,10/15/2016,FCS,James Madison,New Hampshire,RECEIVING,Khalid,Abdullah,YDS,6
+9626051,10/15/2016,FCS,James Madison,New Hampshire,RECEIVING,Khalid,Abdullah,TD,0
+9626052,10/15/2016,FCS,James Madison,New Hampshire,RECEIVING,Khalid,Abdullah,LONG,6
+9626053,10/15/2016,FCS,James Madison,New Hampshire,RECEIVING,Ishmael,Hyman,REC,1
+9626054,10/15/2016,FCS,James Madison,New Hampshire,RECEIVING,Ishmael,Hyman,YDS,5
+9626055,10/15/2016,FCS,James Madison,New Hampshire,RECEIVING,Ishmael,Hyman,TD,0
+9626056,10/15/2016,FCS,James Madison,New Hampshire,RECEIVING,Ishmael,Hyman,LONG,5
+9626057,10/15/2016,FCS,James Madison,New Hampshire,KICKING,Tyler,Gray,FG-FGA,0/0
+9626058,10/15/2016,FCS,James Madison,New Hampshire,KICKING,Tyler,Gray,LONG,-
+9626059,10/15/2016,FCS,James Madison,New Hampshire,KICKING,Tyler,Gray,XP,6
+9626060,10/15/2016,FCS,James Madison,New Hampshire,KICKING,Tyler,Gray,PTS,6
+9626061,10/15/2016,FCS,James Madison,New Hampshire,PUNTING,Gunnar,Kane,NO,5
+9626062,10/15/2016,FCS,James Madison,New Hampshire,PUNTING,Gunnar,Kane,YDS,235
+9626063,10/15/2016,FCS,James Madison,New Hampshire,PUNTING,Gunnar,Kane,AVG,47.0
+9626064,10/15/2016,FCS,James Madison,New Hampshire,PUNTING,Gunnar,Kane,LONG,55
+9626065,10/15/2016,FCS,James Madison,New Hampshire,KICK RETURNS,Robbie,Walker,NO,3
+9626066,10/15/2016,FCS,James Madison,New Hampshire,KICK RETURNS,Robbie,Walker,YDS,50
+9626067,10/15/2016,FCS,James Madison,New Hampshire,KICK RETURNS,Robbie,Walker,AVG,16.7
+9626068,10/15/2016,FCS,James Madison,New Hampshire,KICK RETURNS,Robbie,Walker,LONG,20
+9626069,10/15/2016,FCS,James Madison,New Hampshire,KICK RETURNS,John,Miller,NO,1
+9626070,10/15/2016,FCS,James Madison,New Hampshire,KICK RETURNS,John,Miller,YDS,7
+9626071,10/15/2016,FCS,James Madison,New Hampshire,KICK RETURNS,John,Miller,AVG,7.0
+9626072,10/15/2016,FCS,James Madison,New Hampshire,KICK RETURNS,John,Miller,LONG,7
+9626073,10/15/2016,FCS,James Madison,New Hampshire,KICK RETURNS,Terrence,Alls,NO,1
+9626074,10/15/2016,FCS,James Madison,New Hampshire,KICK RETURNS,Terrence,Alls,YDS,0
+9626075,10/15/2016,FCS,James Madison,New Hampshire,KICK RETURNS,Terrence,Alls,AVG,-
+9626076,10/15/2016,FCS,James Madison,New Hampshire,KICK RETURNS,Terrence,Alls,LONG,0
+9626077,10/15/2016,FCS,James Madison,New Hampshire,KICK RETURNS,Domo,Taylor,NO,1
+9626078,10/15/2016,FCS,James Madison,New Hampshire,KICK RETURNS,Domo,Taylor,YDS,-1
+9626079,10/15/2016,FCS,James Madison,New Hampshire,KICK RETURNS,Domo,Taylor,AVG,-
+9626080,10/15/2016,FCS,James Madison,New Hampshire,KICK RETURNS,Domo,Taylor,LONG,0
+9626081,10/15/2016,FCS,New Hampshire,James Madison,RUSHING,Dalton,Crossan,ATT,13
+9626082,10/15/2016,FCS,New Hampshire,James Madison,RUSHING,Dalton,Crossan,YDS,35
+9626083,10/15/2016,FCS,New Hampshire,James Madison,RUSHING,Dalton,Crossan,TD,1
+9626084,10/15/2016,FCS,New Hampshire,James Madison,RUSHING,Dalton,Crossan,LONG,11
+9626085,10/15/2016,FCS,New Hampshire,James Madison,RUSHING,Trevor,Knight,ATT,8
+9626086,10/15/2016,FCS,New Hampshire,James Madison,RUSHING,Trevor,Knight,YDS,10
+9626087,10/15/2016,FCS,New Hampshire,James Madison,RUSHING,Trevor,Knight,TD,0
+9626088,10/15/2016,FCS,New Hampshire,James Madison,RUSHING,Trevor,Knight,LONG,11
+9626089,10/15/2016,FCS,New Hampshire,James Madison,RUSHING,Donald,Goodrich,ATT,4
+9626090,10/15/2016,FCS,New Hampshire,James Madison,RUSHING,Donald,Goodrich,YDS,8
+9626091,10/15/2016,FCS,New Hampshire,James Madison,RUSHING,Donald,Goodrich,TD,0
+9626092,10/15/2016,FCS,New Hampshire,James Madison,RUSHING,Donald,Goodrich,LONG,3
+9626093,10/15/2016,FCS,New Hampshire,James Madison,RUSHING,Neil,O'Connor,ATT,1
+9626094,10/15/2016,FCS,New Hampshire,James Madison,RUSHING,Neil,O'Connor,YDS,7
+9626095,10/15/2016,FCS,New Hampshire,James Madison,RUSHING,Neil,O'Connor,TD,0
+9626096,10/15/2016,FCS,New Hampshire,James Madison,RUSHING,Neil,O'Connor,LONG,7
+9626097,10/15/2016,FCS,New Hampshire,James Madison,RUSHING,Adam,Riese,ATT,4
+9626098,10/15/2016,FCS,New Hampshire,James Madison,RUSHING,Adam,Riese,YDS,-3
+9626099,10/15/2016,FCS,New Hampshire,James Madison,RUSHING,Adam,Riese,TD,1
+9626100,10/15/2016,FCS,New Hampshire,James Madison,RUSHING,Adam,Riese,LONG,2
+9626101,10/15/2016,FCS,New Hampshire,James Madison,PASSING,Trevor,Knight,CP-ATT-INT,31-49-0
+9626102,10/15/2016,FCS,New Hampshire,James Madison,PASSING,Trevor,Knight,YDS,314
+9626103,10/15/2016,FCS,New Hampshire,James Madison,PASSING,Trevor,Knight,TD,1
+9626104,10/15/2016,FCS,New Hampshire,James Madison,PASSING,Trevor,Knight,LONG,36
+9626105,10/15/2016,FCS,New Hampshire,James Madison,PASSING,Adam,Riese,CP-ATT-INT,13-21-0
+9626106,10/15/2016,FCS,New Hampshire,James Madison,PASSING,Adam,Riese,YDS,198
+9626107,10/15/2016,FCS,New Hampshire,James Madison,PASSING,Adam,Riese,TD,2
+9626108,10/15/2016,FCS,New Hampshire,James Madison,PASSING,Adam,Riese,LONG,42
+9626109,10/15/2016,FCS,New Hampshire,James Madison,RECEIVING,Neil,O'Connor,REC,10
+9626110,10/15/2016,FCS,New Hampshire,James Madison,RECEIVING,Neil,O'Connor,YDS,192
+9626111,10/15/2016,FCS,New Hampshire,James Madison,RECEIVING,Neil,O'Connor,TD,0
+9626112,10/15/2016,FCS,New Hampshire,James Madison,RECEIVING,Neil,O'Connor,LONG,42
+9626113,10/15/2016,FCS,New Hampshire,James Madison,RECEIVING,Malik,Love,REC,12
+9626114,10/15/2016,FCS,New Hampshire,James Madison,RECEIVING,Malik,Love,YDS,127
+9626115,10/15/2016,FCS,New Hampshire,James Madison,RECEIVING,Malik,Love,TD,0
+9626116,10/15/2016,FCS,New Hampshire,James Madison,RECEIVING,Malik,Love,LONG,17
+9626117,10/15/2016,FCS,New Hampshire,James Madison,RECEIVING,Jordan,Powell,REC,9
+9626118,10/15/2016,FCS,New Hampshire,James Madison,RECEIVING,Jordan,Powell,YDS,92
+9626119,10/15/2016,FCS,New Hampshire,James Madison,RECEIVING,Jordan,Powell,TD,1
+9626120,10/15/2016,FCS,New Hampshire,James Madison,RECEIVING,Jordan,Powell,LONG,29
+9626121,10/15/2016,FCS,New Hampshire,James Madison,RECEIVING,Rory,Donovan,REC,5
+9626122,10/15/2016,FCS,New Hampshire,James Madison,RECEIVING,Rory,Donovan,YDS,42
+9626123,10/15/2016,FCS,New Hampshire,James Madison,RECEIVING,Rory,Donovan,TD,1
+9626124,10/15/2016,FCS,New Hampshire,James Madison,RECEIVING,Rory,Donovan,LONG,13
+9626125,10/15/2016,FCS,New Hampshire,James Madison,RECEIVING,Dalton,Crossan,REC,5
+9626126,10/15/2016,FCS,New Hampshire,James Madison,RECEIVING,Dalton,Crossan,YDS,32
+9626127,10/15/2016,FCS,New Hampshire,James Madison,RECEIVING,Dalton,Crossan,TD,1
+9626128,10/15/2016,FCS,New Hampshire,James Madison,RECEIVING,Dalton,Crossan,LONG,19
+9626129,10/15/2016,FCS,New Hampshire,James Madison,RECEIVING,Justin,Malone-Woods,REC,2
+9626130,10/15/2016,FCS,New Hampshire,James Madison,RECEIVING,Justin,Malone-Woods,YDS,25
+9626131,10/15/2016,FCS,New Hampshire,James Madison,RECEIVING,Justin,Malone-Woods,TD,0
+9626132,10/15/2016,FCS,New Hampshire,James Madison,RECEIVING,Justin,Malone-Woods,LONG,14
+9626133,10/15/2016,FCS,New Hampshire,James Madison,RECEIVING,Trevor,Knight,REC,1
+9626134,10/15/2016,FCS,New Hampshire,James Madison,RECEIVING,Trevor,Knight,YDS,2
+9626135,10/15/2016,FCS,New Hampshire,James Madison,RECEIVING,Trevor,Knight,TD,0
+9626136,10/15/2016,FCS,New Hampshire,James Madison,RECEIVING,Trevor,Knight,LONG,2
+9626137,10/15/2016,FCS,New Hampshire,James Madison,KICKING,Morgan,Ellman,FG-FGA,2/2
+9626138,10/15/2016,FCS,New Hampshire,James Madison,KICKING,Morgan,Ellman,LONG,37
+9626139,10/15/2016,FCS,New Hampshire,James Madison,KICKING,Morgan,Ellman,XP,1
+9626140,10/15/2016,FCS,New Hampshire,James Madison,KICKING,Morgan,Ellman,PTS,7
+9626141,10/15/2016,FCS,New Hampshire,James Madison,PUNTING,Max,Pedinoff,NO,4
+9626142,10/15/2016,FCS,New Hampshire,James Madison,PUNTING,Max,Pedinoff,YDS,165
+9626143,10/15/2016,FCS,New Hampshire,James Madison,PUNTING,Max,Pedinoff,AVG,41.2
+9626144,10/15/2016,FCS,New Hampshire,James Madison,PUNTING,Max,Pedinoff,LONG,50
+9626145,10/15/2016,FCS,New Hampshire,James Madison,PUNT RETURNS,Casey,DeAndrade,NO,2
+9626146,10/15/2016,FCS,New Hampshire,James Madison,PUNT RETURNS,Casey,DeAndrade,YDS,37
+9626147,10/15/2016,FCS,New Hampshire,James Madison,PUNT RETURNS,Casey,DeAndrade,AVG,18.5
+9626148,10/15/2016,FCS,New Hampshire,James Madison,PUNT RETURNS,Casey,DeAndrade,LONG,28
+9626149,10/15/2016,FCS,New Hampshire,James Madison,KICK RETURNS,Casey,DeAndrade,NO,2
+9626150,10/15/2016,FCS,New Hampshire,James Madison,KICK RETURNS,Casey,DeAndrade,YDS,57
+9626151,10/15/2016,FCS,New Hampshire,James Madison,KICK RETURNS,Casey,DeAndrade,AVG,28.5
+9626152,10/15/2016,FCS,New Hampshire,James Madison,KICK RETURNS,Casey,DeAndrade,LONG,30
+9626153,10/15/2016,FCS,New Hampshire,James Madison,KICK RETURNS,Dalton,Crossan,NO,3
+9626154,10/15/2016,FCS,New Hampshire,James Madison,KICK RETURNS,Dalton,Crossan,YDS,46
+9626155,10/15/2016,FCS,New Hampshire,James Madison,KICK RETURNS,Dalton,Crossan,AVG,15.3
+9626156,10/15/2016,FCS,New Hampshire,James Madison,KICK RETURNS,Dalton,Crossan,LONG,25
+9626157,10/15/2016,FCS,New Hampshire,James Madison,KICK RETURNS,Donald,Goodrich,NO,1
+9626158,10/15/2016,FCS,New Hampshire,James Madison,KICK RETURNS,Donald,Goodrich,YDS,9
+9626159,10/15/2016,FCS,New Hampshire,James Madison,KICK RETURNS,Donald,Goodrich,AVG,9.0
+9626160,10/15/2016,FCS,New Hampshire,James Madison,KICK RETURNS,Donald,Goodrich,LONG,9
+9626161,10/15/2016,FCS,New Hampshire,James Madison,KICK RETURNS,Garette,Craig,NO,1
+9626162,10/15/2016,FCS,New Hampshire,James Madison,KICK RETURNS,Garette,Craig,YDS,-1
+9626163,10/15/2016,FCS,New Hampshire,James Madison,KICK RETURNS,Garette,Craig,AVG,-
+9626164,10/15/2016,FCS,New Hampshire,James Madison,KICK RETURNS,Garette,Craig,LONG,2

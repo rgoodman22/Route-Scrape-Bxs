@@ -1,0 +1,117 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+8050001,10/11/2014,FCS,Southern Ill.,North Dakota St.,RUSHING,Malcolm,Agnew,ATT,21
+8050002,10/11/2014,FCS,Southern Ill.,North Dakota St.,RUSHING,Malcolm,Agnew,YDS,117
+8050003,10/11/2014,FCS,Southern Ill.,North Dakota St.,RUSHING,Malcolm,Agnew,TD,0
+8050004,10/11/2014,FCS,Southern Ill.,North Dakota St.,RUSHING,Malcolm,Agnew,LONG,41
+8050005,10/11/2014,FCS,Southern Ill.,North Dakota St.,RUSHING,Mark,Iannotti,ATT,10
+8050006,10/11/2014,FCS,Southern Ill.,North Dakota St.,RUSHING,Mark,Iannotti,YDS,4
+8050007,10/11/2014,FCS,Southern Ill.,North Dakota St.,RUSHING,Mark,Iannotti,TD,0
+8050008,10/11/2014,FCS,Southern Ill.,North Dakota St.,RUSHING,Mark,Iannotti,LONG,10
+8050009,10/11/2014,FCS,Southern Ill.,North Dakota St.,RUSHING,,Team,ATT,0
+8050010,10/11/2014,FCS,Southern Ill.,North Dakota St.,RUSHING,,Team,YDS,0
+8050011,10/11/2014,FCS,Southern Ill.,North Dakota St.,RUSHING,,Team,TD,0
+8050012,10/11/2014,FCS,Southern Ill.,North Dakota St.,RUSHING,,Team,LONG,0
+8050013,10/11/2014,FCS,Southern Ill.,North Dakota St.,PASSING,Mark,Iannotti,CP-ATT-INT,18-33-0
+8050014,10/11/2014,FCS,Southern Ill.,North Dakota St.,PASSING,Mark,Iannotti,YDS,146
+8050015,10/11/2014,FCS,Southern Ill.,North Dakota St.,PASSING,Mark,Iannotti,TD,1
+8050016,10/11/2014,FCS,Southern Ill.,North Dakota St.,PASSING,Mark,Iannotti,LONG,26
+8050017,10/11/2014,FCS,Southern Ill.,North Dakota St.,RECEIVING,MyCole,Pruitt,REC,7
+8050018,10/11/2014,FCS,Southern Ill.,North Dakota St.,RECEIVING,MyCole,Pruitt,YDS,55
+8050019,10/11/2014,FCS,Southern Ill.,North Dakota St.,RECEIVING,MyCole,Pruitt,TD,1
+8050020,10/11/2014,FCS,Southern Ill.,North Dakota St.,RECEIVING,MyCole,Pruitt,LONG,26
+8050021,10/11/2014,FCS,Southern Ill.,North Dakota St.,RECEIVING,Malcolm,Agnew,REC,4
+8050022,10/11/2014,FCS,Southern Ill.,North Dakota St.,RECEIVING,Malcolm,Agnew,YDS,30
+8050023,10/11/2014,FCS,Southern Ill.,North Dakota St.,RECEIVING,Malcolm,Agnew,TD,0
+8050024,10/11/2014,FCS,Southern Ill.,North Dakota St.,RECEIVING,Malcolm,Agnew,LONG,17
+8050025,10/11/2014,FCS,Southern Ill.,North Dakota St.,RECEIVING,LaSteven,McKinney,REC,3
+8050026,10/11/2014,FCS,Southern Ill.,North Dakota St.,RECEIVING,LaSteven,McKinney,YDS,28
+8050027,10/11/2014,FCS,Southern Ill.,North Dakota St.,RECEIVING,LaSteven,McKinney,TD,0
+8050028,10/11/2014,FCS,Southern Ill.,North Dakota St.,RECEIVING,LaSteven,McKinney,LONG,17
+8050029,10/11/2014,FCS,Southern Ill.,North Dakota St.,RECEIVING,Connor,Iwema,REC,1
+8050030,10/11/2014,FCS,Southern Ill.,North Dakota St.,RECEIVING,Connor,Iwema,YDS,13
+8050031,10/11/2014,FCS,Southern Ill.,North Dakota St.,RECEIVING,Connor,Iwema,TD,0
+8050032,10/11/2014,FCS,Southern Ill.,North Dakota St.,RECEIVING,Connor,Iwema,LONG,13
+8050033,10/11/2014,FCS,Southern Ill.,North Dakota St.,RECEIVING,Josh,Sullivan,REC,2
+8050034,10/11/2014,FCS,Southern Ill.,North Dakota St.,RECEIVING,Josh,Sullivan,YDS,10
+8050035,10/11/2014,FCS,Southern Ill.,North Dakota St.,RECEIVING,Josh,Sullivan,TD,0
+8050036,10/11/2014,FCS,Southern Ill.,North Dakota St.,RECEIVING,Josh,Sullivan,LONG,6
+8050037,10/11/2014,FCS,Southern Ill.,North Dakota St.,RECEIVING,Adam,Fuehne,REC,1
+8050038,10/11/2014,FCS,Southern Ill.,North Dakota St.,RECEIVING,Adam,Fuehne,YDS,10
+8050039,10/11/2014,FCS,Southern Ill.,North Dakota St.,RECEIVING,Adam,Fuehne,TD,0
+8050040,10/11/2014,FCS,Southern Ill.,North Dakota St.,RECEIVING,Adam,Fuehne,LONG,10
+8050041,10/11/2014,FCS,Southern Ill.,North Dakota St.,KICKING,Thomas,Kinney,FG-FGA,1/2
+8050042,10/11/2014,FCS,Southern Ill.,North Dakota St.,KICKING,Thomas,Kinney,LONG,44
+8050043,10/11/2014,FCS,Southern Ill.,North Dakota St.,KICKING,Thomas,Kinney,XP,1
+8050044,10/11/2014,FCS,Southern Ill.,North Dakota St.,KICKING,Thomas,Kinney,PTS,4
+8050045,10/11/2014,FCS,Southern Ill.,North Dakota St.,PUNTING,Nick,Neidig,NO,7
+8050046,10/11/2014,FCS,Southern Ill.,North Dakota St.,PUNTING,Nick,Neidig,YDS,266
+8050047,10/11/2014,FCS,Southern Ill.,North Dakota St.,PUNTING,Nick,Neidig,AVG,38.0
+8050048,10/11/2014,FCS,Southern Ill.,North Dakota St.,PUNTING,Nick,Neidig,LONG,58
+8050049,10/11/2014,FCS,Southern Ill.,North Dakota St.,PUNT RETURNS,LaSteven,McKinney,NO,1
+8050050,10/11/2014,FCS,Southern Ill.,North Dakota St.,PUNT RETURNS,LaSteven,McKinney,YDS,9
+8050051,10/11/2014,FCS,Southern Ill.,North Dakota St.,PUNT RETURNS,LaSteven,McKinney,AVG,9.0
+8050052,10/11/2014,FCS,Southern Ill.,North Dakota St.,PUNT RETURNS,LaSteven,McKinney,LONG,9
+8050053,10/11/2014,FCS,Southern Ill.,North Dakota St.,KICK RETURNS,Tay,Willis,NO,5
+8050054,10/11/2014,FCS,Southern Ill.,North Dakota St.,KICK RETURNS,Tay,Willis,YDS,94
+8050055,10/11/2014,FCS,Southern Ill.,North Dakota St.,KICK RETURNS,Tay,Willis,AVG,18.8
+8050056,10/11/2014,FCS,Southern Ill.,North Dakota St.,KICK RETURNS,Tay,Willis,LONG,23
+8050057,10/11/2014,FCS,North Dakota St.,Southern Ill.,RUSHING,John,Crockett,ATT,22
+8050058,10/11/2014,FCS,North Dakota St.,Southern Ill.,RUSHING,John,Crockett,YDS,99
+8050059,10/11/2014,FCS,North Dakota St.,Southern Ill.,RUSHING,John,Crockett,TD,1
+8050060,10/11/2014,FCS,North Dakota St.,Southern Ill.,RUSHING,John,Crockett,LONG,29
+8050061,10/11/2014,FCS,North Dakota St.,Southern Ill.,RUSHING,Chase,Morlock,ATT,5
+8050062,10/11/2014,FCS,North Dakota St.,Southern Ill.,RUSHING,Chase,Morlock,YDS,71
+8050063,10/11/2014,FCS,North Dakota St.,Southern Ill.,RUSHING,Chase,Morlock,TD,1
+8050064,10/11/2014,FCS,North Dakota St.,Southern Ill.,RUSHING,Chase,Morlock,LONG,48
+8050065,10/11/2014,FCS,North Dakota St.,Southern Ill.,RUSHING,King,Frazier,ATT,7
+8050066,10/11/2014,FCS,North Dakota St.,Southern Ill.,RUSHING,King,Frazier,YDS,57
+8050067,10/11/2014,FCS,North Dakota St.,Southern Ill.,RUSHING,King,Frazier,TD,0
+8050068,10/11/2014,FCS,North Dakota St.,Southern Ill.,RUSHING,King,Frazier,LONG,20
+8050069,10/11/2014,FCS,North Dakota St.,Southern Ill.,RUSHING,Carson,Wentz,ATT,10
+8050070,10/11/2014,FCS,North Dakota St.,Southern Ill.,RUSHING,Carson,Wentz,YDS,36
+8050071,10/11/2014,FCS,North Dakota St.,Southern Ill.,RUSHING,Carson,Wentz,TD,1
+8050072,10/11/2014,FCS,North Dakota St.,Southern Ill.,RUSHING,Carson,Wentz,LONG,14
+8050073,10/11/2014,FCS,North Dakota St.,Southern Ill.,RUSHING,Darius,Anderson,ATT,1
+8050074,10/11/2014,FCS,North Dakota St.,Southern Ill.,RUSHING,Darius,Anderson,YDS,-7
+8050075,10/11/2014,FCS,North Dakota St.,Southern Ill.,RUSHING,Darius,Anderson,TD,0
+8050076,10/11/2014,FCS,North Dakota St.,Southern Ill.,RUSHING,Darius,Anderson,LONG,0
+8050077,10/11/2014,FCS,North Dakota St.,Southern Ill.,PASSING,Carson,Wentz,CP-ATT-INT,7-13-1
+8050078,10/11/2014,FCS,North Dakota St.,Southern Ill.,PASSING,Carson,Wentz,YDS,174
+8050079,10/11/2014,FCS,North Dakota St.,Southern Ill.,PASSING,Carson,Wentz,TD,2
+8050080,10/11/2014,FCS,North Dakota St.,Southern Ill.,PASSING,Carson,Wentz,LONG,75
+8050081,10/11/2014,FCS,North Dakota St.,Southern Ill.,RECEIVING,Trevor,Gebhart,REC,1
+8050082,10/11/2014,FCS,North Dakota St.,Southern Ill.,RECEIVING,Trevor,Gebhart,YDS,75
+8050083,10/11/2014,FCS,North Dakota St.,Southern Ill.,RECEIVING,Trevor,Gebhart,TD,1
+8050084,10/11/2014,FCS,North Dakota St.,Southern Ill.,RECEIVING,Trevor,Gebhart,LONG,75
+8050085,10/11/2014,FCS,North Dakota St.,Southern Ill.,RECEIVING,John,Crockett,REC,3
+8050086,10/11/2014,FCS,North Dakota St.,Southern Ill.,RECEIVING,John,Crockett,YDS,52
+8050087,10/11/2014,FCS,North Dakota St.,Southern Ill.,RECEIVING,John,Crockett,TD,0
+8050088,10/11/2014,FCS,North Dakota St.,Southern Ill.,RECEIVING,John,Crockett,LONG,29
+8050089,10/11/2014,FCS,North Dakota St.,Southern Ill.,RECEIVING,Andrew,Bonnet,REC,1
+8050090,10/11/2014,FCS,North Dakota St.,Southern Ill.,RECEIVING,Andrew,Bonnet,YDS,27
+8050091,10/11/2014,FCS,North Dakota St.,Southern Ill.,RECEIVING,Andrew,Bonnet,TD,0
+8050092,10/11/2014,FCS,North Dakota St.,Southern Ill.,RECEIVING,Andrew,Bonnet,LONG,27
+8050093,10/11/2014,FCS,North Dakota St.,Southern Ill.,RECEIVING,RJ,Urzendowski,REC,1
+8050094,10/11/2014,FCS,North Dakota St.,Southern Ill.,RECEIVING,RJ,Urzendowski,YDS,11
+8050095,10/11/2014,FCS,North Dakota St.,Southern Ill.,RECEIVING,RJ,Urzendowski,TD,0
+8050096,10/11/2014,FCS,North Dakota St.,Southern Ill.,RECEIVING,RJ,Urzendowski,LONG,11
+8050097,10/11/2014,FCS,North Dakota St.,Southern Ill.,RECEIVING,Luke,Albers,REC,1
+8050098,10/11/2014,FCS,North Dakota St.,Southern Ill.,RECEIVING,Luke,Albers,YDS,9
+8050099,10/11/2014,FCS,North Dakota St.,Southern Ill.,RECEIVING,Luke,Albers,TD,1
+8050100,10/11/2014,FCS,North Dakota St.,Southern Ill.,RECEIVING,Luke,Albers,LONG,9
+8050101,10/11/2014,FCS,North Dakota St.,Southern Ill.,KICKING,Adam,Keller,FG-FGA,1/1
+8050102,10/11/2014,FCS,North Dakota St.,Southern Ill.,KICKING,Adam,Keller,LONG,46
+8050103,10/11/2014,FCS,North Dakota St.,Southern Ill.,KICKING,Adam,Keller,XP,5
+8050104,10/11/2014,FCS,North Dakota St.,Southern Ill.,KICKING,Adam,Keller,PTS,8
+8050105,10/11/2014,FCS,North Dakota St.,Southern Ill.,PUNTING,Ben,LeCompte,NO,5
+8050106,10/11/2014,FCS,North Dakota St.,Southern Ill.,PUNTING,Ben,LeCompte,YDS,199
+8050107,10/11/2014,FCS,North Dakota St.,Southern Ill.,PUNTING,Ben,LeCompte,AVG,39.8
+8050108,10/11/2014,FCS,North Dakota St.,Southern Ill.,PUNTING,Ben,LeCompte,LONG,65
+8050109,10/11/2014,FCS,North Dakota St.,Southern Ill.,PUNT RETURNS,Christian,Dudzik,NO,1
+8050110,10/11/2014,FCS,North Dakota St.,Southern Ill.,PUNT RETURNS,Christian,Dudzik,YDS,2
+8050111,10/11/2014,FCS,North Dakota St.,Southern Ill.,PUNT RETURNS,Christian,Dudzik,AVG,2.0
+8050112,10/11/2014,FCS,North Dakota St.,Southern Ill.,PUNT RETURNS,Christian,Dudzik,LONG,0
+8050113,10/11/2014,FCS,North Dakota St.,Southern Ill.,KICK RETURNS,Christian,Dudzik,NO,1
+8050114,10/11/2014,FCS,North Dakota St.,Southern Ill.,KICK RETURNS,Christian,Dudzik,YDS,19
+8050115,10/11/2014,FCS,North Dakota St.,Southern Ill.,KICK RETURNS,Christian,Dudzik,AVG,19.0
+8050116,10/11/2014,FCS,North Dakota St.,Southern Ill.,KICK RETURNS,Christian,Dudzik,LONG,19

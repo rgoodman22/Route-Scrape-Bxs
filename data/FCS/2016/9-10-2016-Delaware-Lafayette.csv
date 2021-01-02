@@ -1,0 +1,117 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9372001,9/10/2016,FCS,Delaware,Lafayette,RUSHING,Thomas,Jefferson,ATT,17
+9372002,9/10/2016,FCS,Delaware,Lafayette,RUSHING,Thomas,Jefferson,YDS,124
+9372003,9/10/2016,FCS,Delaware,Lafayette,RUSHING,Thomas,Jefferson,TD,1
+9372004,9/10/2016,FCS,Delaware,Lafayette,RUSHING,Thomas,Jefferson,LONG,16
+9372005,9/10/2016,FCS,Delaware,Lafayette,RUSHING,Jalen,Randolph,ATT,18
+9372006,9/10/2016,FCS,Delaware,Lafayette,RUSHING,Jalen,Randolph,YDS,105
+9372007,9/10/2016,FCS,Delaware,Lafayette,RUSHING,Jalen,Randolph,TD,1
+9372008,9/10/2016,FCS,Delaware,Lafayette,RUSHING,Jalen,Randolph,LONG,34
+9372009,9/10/2016,FCS,Delaware,Lafayette,RUSHING,Joe,Walker,ATT,9
+9372010,9/10/2016,FCS,Delaware,Lafayette,RUSHING,Joe,Walker,YDS,50
+9372011,9/10/2016,FCS,Delaware,Lafayette,RUSHING,Joe,Walker,TD,0
+9372012,9/10/2016,FCS,Delaware,Lafayette,RUSHING,Joe,Walker,LONG,19
+9372013,9/10/2016,FCS,Delaware,Lafayette,RUSHING,Wes,Hills,ATT,1
+9372014,9/10/2016,FCS,Delaware,Lafayette,RUSHING,Wes,Hills,YDS,1
+9372015,9/10/2016,FCS,Delaware,Lafayette,RUSHING,Wes,Hills,TD,0
+9372016,9/10/2016,FCS,Delaware,Lafayette,RUSHING,Wes,Hills,LONG,1
+9372017,9/10/2016,FCS,Delaware,Lafayette,RUSHING,,Team,ATT,2
+9372018,9/10/2016,FCS,Delaware,Lafayette,RUSHING,,Team,YDS,-4
+9372019,9/10/2016,FCS,Delaware,Lafayette,RUSHING,,Team,TD,0
+9372020,9/10/2016,FCS,Delaware,Lafayette,RUSHING,,Team,LONG,0
+9372021,9/10/2016,FCS,Delaware,Lafayette,PASSING,Joe,Walker,CP-ATT-INT,5-15-0
+9372022,9/10/2016,FCS,Delaware,Lafayette,PASSING,Joe,Walker,YDS,66
+9372023,9/10/2016,FCS,Delaware,Lafayette,PASSING,Joe,Walker,TD,1
+9372024,9/10/2016,FCS,Delaware,Lafayette,PASSING,Joe,Walker,LONG,35
+9372025,9/10/2016,FCS,Delaware,Lafayette,RECEIVING,Diante,Cherry,REC,4
+9372026,9/10/2016,FCS,Delaware,Lafayette,RECEIVING,Diante,Cherry,YDS,63
+9372027,9/10/2016,FCS,Delaware,Lafayette,RECEIVING,Diante,Cherry,TD,1
+9372028,9/10/2016,FCS,Delaware,Lafayette,RECEIVING,Diante,Cherry,LONG,35
+9372029,9/10/2016,FCS,Delaware,Lafayette,RECEIVING,Jalen,Randolph,REC,1
+9372030,9/10/2016,FCS,Delaware,Lafayette,RECEIVING,Jalen,Randolph,YDS,3
+9372031,9/10/2016,FCS,Delaware,Lafayette,RECEIVING,Jalen,Randolph,TD,0
+9372032,9/10/2016,FCS,Delaware,Lafayette,RECEIVING,Jalen,Randolph,LONG,3
+9372033,9/10/2016,FCS,Delaware,Lafayette,KICKING,Frank,Raggo,FG-FGA,1/1
+9372034,9/10/2016,FCS,Delaware,Lafayette,KICKING,Frank,Raggo,LONG,43
+9372035,9/10/2016,FCS,Delaware,Lafayette,KICKING,Frank,Raggo,XP,3
+9372036,9/10/2016,FCS,Delaware,Lafayette,KICKING,Frank,Raggo,PTS,6
+9372037,9/10/2016,FCS,Delaware,Lafayette,PUNTING,Will,Stephenson,NO,7
+9372038,9/10/2016,FCS,Delaware,Lafayette,PUNTING,Will,Stephenson,YDS,235
+9372039,9/10/2016,FCS,Delaware,Lafayette,PUNTING,Will,Stephenson,AVG,33.6
+9372040,9/10/2016,FCS,Delaware,Lafayette,PUNTING,Will,Stephenson,LONG,44
+9372041,9/10/2016,FCS,Delaware,Lafayette,PUNT RETURNS,Justin,Watson,NO,3
+9372042,9/10/2016,FCS,Delaware,Lafayette,PUNT RETURNS,Justin,Watson,YDS,11
+9372043,9/10/2016,FCS,Delaware,Lafayette,PUNT RETURNS,Justin,Watson,AVG,3.7
+9372044,9/10/2016,FCS,Delaware,Lafayette,PUNT RETURNS,Justin,Watson,LONG,14
+9372045,9/10/2016,FCS,Delaware,Lafayette,PUNT RETURNS,Troy,Gallen,NO,2
+9372046,9/10/2016,FCS,Delaware,Lafayette,PUNT RETURNS,Troy,Gallen,YDS,10
+9372047,9/10/2016,FCS,Delaware,Lafayette,PUNT RETURNS,Troy,Gallen,AVG,5.0
+9372048,9/10/2016,FCS,Delaware,Lafayette,PUNT RETURNS,Troy,Gallen,LONG,8
+9372049,9/10/2016,FCS,Delaware,Lafayette,KICK RETURNS,Wes,Hills,NO,1
+9372050,9/10/2016,FCS,Delaware,Lafayette,KICK RETURNS,Wes,Hills,YDS,50
+9372051,9/10/2016,FCS,Delaware,Lafayette,KICK RETURNS,Wes,Hills,AVG,50.0
+9372052,9/10/2016,FCS,Delaware,Lafayette,KICK RETURNS,Wes,Hills,LONG,50
+9372053,9/10/2016,FCS,Delaware,Lafayette,KICK RETURNS,Nasir,Adderley,NO,1
+9372054,9/10/2016,FCS,Delaware,Lafayette,KICK RETURNS,Nasir,Adderley,YDS,23
+9372055,9/10/2016,FCS,Delaware,Lafayette,KICK RETURNS,Nasir,Adderley,AVG,23.0
+9372056,9/10/2016,FCS,Delaware,Lafayette,KICK RETURNS,Nasir,Adderley,LONG,23
+9372057,9/10/2016,FCS,Delaware,Lafayette,KICK RETURNS,Justin,Watson,NO,1
+9372058,9/10/2016,FCS,Delaware,Lafayette,KICK RETURNS,Justin,Watson,YDS,20
+9372059,9/10/2016,FCS,Delaware,Lafayette,KICK RETURNS,Justin,Watson,AVG,20.0
+9372060,9/10/2016,FCS,Delaware,Lafayette,KICK RETURNS,Justin,Watson,LONG,20
+9372061,9/10/2016,FCS,Lafayette,Delaware,RUSHING,Kyle,Mayfield,ATT,5
+9372062,9/10/2016,FCS,Lafayette,Delaware,RUSHING,Kyle,Mayfield,YDS,34
+9372063,9/10/2016,FCS,Lafayette,Delaware,RUSHING,Kyle,Mayfield,TD,0
+9372064,9/10/2016,FCS,Lafayette,Delaware,RUSHING,Kyle,Mayfield,LONG,11
+9372065,9/10/2016,FCS,Lafayette,Delaware,RUSHING,C.J.,Amill,ATT,16
+9372066,9/10/2016,FCS,Lafayette,Delaware,RUSHING,C.J.,Amill,YDS,24
+9372067,9/10/2016,FCS,Lafayette,Delaware,RUSHING,C.J.,Amill,TD,0
+9372068,9/10/2016,FCS,Lafayette,Delaware,RUSHING,C.J.,Amill,LONG,13
+9372069,9/10/2016,FCS,Lafayette,Delaware,RUSHING,Drew,Reed,ATT,8
+9372070,9/10/2016,FCS,Lafayette,Delaware,RUSHING,Drew,Reed,YDS,20
+9372071,9/10/2016,FCS,Lafayette,Delaware,RUSHING,Drew,Reed,TD,0
+9372072,9/10/2016,FCS,Lafayette,Delaware,RUSHING,Drew,Reed,LONG,14
+9372073,9/10/2016,FCS,Lafayette,Delaware,PASSING,Drew,Reed,CP-ATT-INT,14-31-2
+9372074,9/10/2016,FCS,Lafayette,Delaware,PASSING,Drew,Reed,YDS,111
+9372075,9/10/2016,FCS,Lafayette,Delaware,PASSING,Drew,Reed,TD,0
+9372076,9/10/2016,FCS,Lafayette,Delaware,PASSING,Drew,Reed,LONG,25
+9372077,9/10/2016,FCS,Lafayette,Delaware,RECEIVING,Matt,Mrazek,REC,8
+9372078,9/10/2016,FCS,Lafayette,Delaware,RECEIVING,Matt,Mrazek,YDS,59
+9372079,9/10/2016,FCS,Lafayette,Delaware,RECEIVING,Matt,Mrazek,TD,0
+9372080,9/10/2016,FCS,Lafayette,Delaware,RECEIVING,Matt,Mrazek,LONG,12
+9372081,9/10/2016,FCS,Lafayette,Delaware,RECEIVING,Dylan,Wadsworth,REC,2
+9372082,9/10/2016,FCS,Lafayette,Delaware,RECEIVING,Dylan,Wadsworth,YDS,37
+9372083,9/10/2016,FCS,Lafayette,Delaware,RECEIVING,Dylan,Wadsworth,TD,0
+9372084,9/10/2016,FCS,Lafayette,Delaware,RECEIVING,Dylan,Wadsworth,LONG,25
+9372085,9/10/2016,FCS,Lafayette,Delaware,RECEIVING,Nick,Franzese,REC,1
+9372086,9/10/2016,FCS,Lafayette,Delaware,RECEIVING,Nick,Franzese,YDS,11
+9372087,9/10/2016,FCS,Lafayette,Delaware,RECEIVING,Nick,Franzese,TD,0
+9372088,9/10/2016,FCS,Lafayette,Delaware,RECEIVING,Nick,Franzese,LONG,11
+9372089,9/10/2016,FCS,Lafayette,Delaware,RECEIVING,Yasir,Thomas,REC,1
+9372090,9/10/2016,FCS,Lafayette,Delaware,RECEIVING,Yasir,Thomas,YDS,3
+9372091,9/10/2016,FCS,Lafayette,Delaware,RECEIVING,Yasir,Thomas,TD,0
+9372092,9/10/2016,FCS,Lafayette,Delaware,RECEIVING,Yasir,Thomas,LONG,3
+9372093,9/10/2016,FCS,Lafayette,Delaware,RECEIVING,C.J.,Amill,REC,1
+9372094,9/10/2016,FCS,Lafayette,Delaware,RECEIVING,C.J.,Amill,YDS,2
+9372095,9/10/2016,FCS,Lafayette,Delaware,RECEIVING,C.J.,Amill,TD,0
+9372096,9/10/2016,FCS,Lafayette,Delaware,RECEIVING,C.J.,Amill,LONG,2
+9372097,9/10/2016,FCS,Lafayette,Delaware,RECEIVING,Joey,Chenoweth,REC,1
+9372098,9/10/2016,FCS,Lafayette,Delaware,RECEIVING,Joey,Chenoweth,YDS,-1
+9372099,9/10/2016,FCS,Lafayette,Delaware,RECEIVING,Joey,Chenoweth,TD,0
+9372100,9/10/2016,FCS,Lafayette,Delaware,RECEIVING,Joey,Chenoweth,LONG,0
+9372101,9/10/2016,FCS,Lafayette,Delaware,KICKING,Jacob,Bissell,FG-FGA,2/2
+9372102,9/10/2016,FCS,Lafayette,Delaware,KICKING,Jacob,Bissell,LONG,27
+9372103,9/10/2016,FCS,Lafayette,Delaware,KICKING,Jacob,Bissell,XP,0
+9372104,9/10/2016,FCS,Lafayette,Delaware,KICKING,Jacob,Bissell,PTS,6
+9372105,9/10/2016,FCS,Lafayette,Delaware,PUNTING,Ryan,Forrester,NO,9
+9372106,9/10/2016,FCS,Lafayette,Delaware,PUNTING,Ryan,Forrester,YDS,390
+9372107,9/10/2016,FCS,Lafayette,Delaware,PUNTING,Ryan,Forrester,AVG,43.3
+9372108,9/10/2016,FCS,Lafayette,Delaware,PUNTING,Ryan,Forrester,LONG,53
+9372109,9/10/2016,FCS,Lafayette,Delaware,PUNT RETURNS,Tim,Vangelas,NO,1
+9372110,9/10/2016,FCS,Lafayette,Delaware,PUNT RETURNS,Tim,Vangelas,YDS,5
+9372111,9/10/2016,FCS,Lafayette,Delaware,PUNT RETURNS,Tim,Vangelas,AVG,5.0
+9372112,9/10/2016,FCS,Lafayette,Delaware,PUNT RETURNS,Tim,Vangelas,LONG,5
+9372113,9/10/2016,FCS,Lafayette,Delaware,KICK RETURNS,Yasir,Thomas,NO,4
+9372114,9/10/2016,FCS,Lafayette,Delaware,KICK RETURNS,Yasir,Thomas,YDS,76
+9372115,9/10/2016,FCS,Lafayette,Delaware,KICK RETURNS,Yasir,Thomas,AVG,19.0
+9372116,9/10/2016,FCS,Lafayette,Delaware,KICK RETURNS,Yasir,Thomas,LONG,30

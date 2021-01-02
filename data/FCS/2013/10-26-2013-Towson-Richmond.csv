@@ -1,0 +1,177 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+7316001,10/26/2013,FCS,Towson,Richmond,RUSHING,Terrance,West,ATT,29
+7316002,10/26/2013,FCS,Towson,Richmond,RUSHING,Terrance,West,YDS,272
+7316003,10/26/2013,FCS,Towson,Richmond,RUSHING,Terrance,West,TD,4
+7316004,10/26/2013,FCS,Towson,Richmond,RUSHING,Terrance,West,LONG,79
+7316005,10/26/2013,FCS,Towson,Richmond,RUSHING,Darius,Victor,ATT,9
+7316006,10/26/2013,FCS,Towson,Richmond,RUSHING,Darius,Victor,YDS,66
+7316007,10/26/2013,FCS,Towson,Richmond,RUSHING,Darius,Victor,TD,0
+7316008,10/26/2013,FCS,Towson,Richmond,RUSHING,Darius,Victor,LONG,23
+7316009,10/26/2013,FCS,Towson,Richmond,RUSHING,Peter,Athens,ATT,4
+7316010,10/26/2013,FCS,Towson,Richmond,RUSHING,Peter,Athens,YDS,6
+7316011,10/26/2013,FCS,Towson,Richmond,RUSHING,Peter,Athens,TD,0
+7316012,10/26/2013,FCS,Towson,Richmond,RUSHING,Peter,Athens,LONG,5
+7316013,10/26/2013,FCS,Towson,Richmond,RUSHING,Leon,Kinnard,ATT,1
+7316014,10/26/2013,FCS,Towson,Richmond,RUSHING,Leon,Kinnard,YDS,0
+7316015,10/26/2013,FCS,Towson,Richmond,RUSHING,Leon,Kinnard,TD,0
+7316016,10/26/2013,FCS,Towson,Richmond,RUSHING,Leon,Kinnard,LONG,0
+7316017,10/26/2013,FCS,Towson,Richmond,RUSHING,Connor,Frazier,ATT,1
+7316018,10/26/2013,FCS,Towson,Richmond,RUSHING,Connor,Frazier,YDS,-1
+7316019,10/26/2013,FCS,Towson,Richmond,RUSHING,Connor,Frazier,TD,0
+7316020,10/26/2013,FCS,Towson,Richmond,RUSHING,Connor,Frazier,LONG,0
+7316021,10/26/2013,FCS,Towson,Richmond,RUSHING,,Team,ATT,1
+7316022,10/26/2013,FCS,Towson,Richmond,RUSHING,,Team,YDS,-2
+7316023,10/26/2013,FCS,Towson,Richmond,RUSHING,,Team,TD,0
+7316024,10/26/2013,FCS,Towson,Richmond,RUSHING,,Team,LONG,0
+7316025,10/26/2013,FCS,Towson,Richmond,PASSING,Peter,Athens,CP-ATT-INT,16-21-1
+7316026,10/26/2013,FCS,Towson,Richmond,PASSING,Peter,Athens,YDS,228
+7316027,10/26/2013,FCS,Towson,Richmond,PASSING,Peter,Athens,TD,1
+7316028,10/26/2013,FCS,Towson,Richmond,PASSING,Peter,Athens,LONG,38
+7316029,10/26/2013,FCS,Towson,Richmond,RECEIVING,Leon,Kinnard,REC,4
+7316030,10/26/2013,FCS,Towson,Richmond,RECEIVING,Leon,Kinnard,YDS,81
+7316031,10/26/2013,FCS,Towson,Richmond,RECEIVING,Leon,Kinnard,TD,0
+7316032,10/26/2013,FCS,Towson,Richmond,RECEIVING,Leon,Kinnard,LONG,31
+7316033,10/26/2013,FCS,Towson,Richmond,RECEIVING,Spencer,Wilkins,REC,3
+7316034,10/26/2013,FCS,Towson,Richmond,RECEIVING,Spencer,Wilkins,YDS,29
+7316035,10/26/2013,FCS,Towson,Richmond,RECEIVING,Spencer,Wilkins,TD,0
+7316036,10/26/2013,FCS,Towson,Richmond,RECEIVING,Spencer,Wilkins,LONG,18
+7316037,10/26/2013,FCS,Towson,Richmond,RECEIVING,Brian,Dowling,REC,2
+7316038,10/26/2013,FCS,Towson,Richmond,RECEIVING,Brian,Dowling,YDS,46
+7316039,10/26/2013,FCS,Towson,Richmond,RECEIVING,Brian,Dowling,TD,0
+7316040,10/26/2013,FCS,Towson,Richmond,RECEIVING,Brian,Dowling,LONG,38
+7316041,10/26/2013,FCS,Towson,Richmond,RECEIVING,Emmanuel,Holder,REC,2
+7316042,10/26/2013,FCS,Towson,Richmond,RECEIVING,Emmanuel,Holder,YDS,20
+7316043,10/26/2013,FCS,Towson,Richmond,RECEIVING,Emmanuel,Holder,TD,0
+7316044,10/26/2013,FCS,Towson,Richmond,RECEIVING,Emmanuel,Holder,LONG,14
+7316045,10/26/2013,FCS,Towson,Richmond,RECEIVING,Terrance,West,REC,2
+7316046,10/26/2013,FCS,Towson,Richmond,RECEIVING,Terrance,West,YDS,14
+7316047,10/26/2013,FCS,Towson,Richmond,RECEIVING,Terrance,West,TD,1
+7316048,10/26/2013,FCS,Towson,Richmond,RECEIVING,Terrance,West,LONG,8
+7316049,10/26/2013,FCS,Towson,Richmond,RECEIVING,James,Oboh,REC,1
+7316050,10/26/2013,FCS,Towson,Richmond,RECEIVING,James,Oboh,YDS,14
+7316051,10/26/2013,FCS,Towson,Richmond,RECEIVING,James,Oboh,TD,0
+7316052,10/26/2013,FCS,Towson,Richmond,RECEIVING,James,Oboh,LONG,14
+7316053,10/26/2013,FCS,Towson,Richmond,RECEIVING,Arione,Scott,REC,1
+7316054,10/26/2013,FCS,Towson,Richmond,RECEIVING,Arione,Scott,YDS,13
+7316055,10/26/2013,FCS,Towson,Richmond,RECEIVING,Arione,Scott,TD,0
+7316056,10/26/2013,FCS,Towson,Richmond,RECEIVING,Arione,Scott,LONG,13
+7316057,10/26/2013,FCS,Towson,Richmond,RECEIVING,Derrick,Joseph,REC,1
+7316058,10/26/2013,FCS,Towson,Richmond,RECEIVING,Derrick,Joseph,YDS,11
+7316059,10/26/2013,FCS,Towson,Richmond,RECEIVING,Derrick,Joseph,TD,0
+7316060,10/26/2013,FCS,Towson,Richmond,RECEIVING,Derrick,Joseph,LONG,11
+7316061,10/26/2013,FCS,Towson,Richmond,KICKING,Drew,Evangelista,FG-FGA,0/0
+7316062,10/26/2013,FCS,Towson,Richmond,KICKING,Drew,Evangelista,LONG,-
+7316063,10/26/2013,FCS,Towson,Richmond,KICKING,Drew,Evangelista,XP,6
+7316064,10/26/2013,FCS,Towson,Richmond,KICKING,Drew,Evangelista,PTS,6
+7316065,10/26/2013,FCS,Towson,Richmond,PUNTING,Jake,Ryder,NO,1
+7316066,10/26/2013,FCS,Towson,Richmond,PUNTING,Jake,Ryder,YDS,50
+7316067,10/26/2013,FCS,Towson,Richmond,PUNTING,Jake,Ryder,AVG,50.0
+7316068,10/26/2013,FCS,Towson,Richmond,PUNTING,Jake,Ryder,LONG,50
+7316069,10/26/2013,FCS,Towson,Richmond,PUNTING,Drew,Evangelista,NO,1
+7316070,10/26/2013,FCS,Towson,Richmond,PUNTING,Drew,Evangelista,YDS,27
+7316071,10/26/2013,FCS,Towson,Richmond,PUNTING,Drew,Evangelista,AVG,27.0
+7316072,10/26/2013,FCS,Towson,Richmond,PUNTING,Drew,Evangelista,LONG,27
+7316073,10/26/2013,FCS,Towson,Richmond,PUNT RETURNS,Derrick,Joseph,NO,1
+7316074,10/26/2013,FCS,Towson,Richmond,PUNT RETURNS,Derrick,Joseph,YDS,-25
+7316075,10/26/2013,FCS,Towson,Richmond,PUNT RETURNS,Derrick,Joseph,AVG,-25.0
+7316076,10/26/2013,FCS,Towson,Richmond,PUNT RETURNS,Derrick,Joseph,LONG,0
+7316077,10/26/2013,FCS,Towson,Richmond,KICK RETURNS,Derrick,Joseph,NO,2
+7316078,10/26/2013,FCS,Towson,Richmond,KICK RETURNS,Derrick,Joseph,YDS,45
+7316079,10/26/2013,FCS,Towson,Richmond,KICK RETURNS,Derrick,Joseph,AVG,22.5
+7316080,10/26/2013,FCS,Towson,Richmond,KICK RETURNS,Derrick,Joseph,LONG,23
+7316081,10/26/2013,FCS,Towson,Richmond,KICK RETURNS,Brian,Dowling,NO,1
+7316082,10/26/2013,FCS,Towson,Richmond,KICK RETURNS,Brian,Dowling,YDS,14
+7316083,10/26/2013,FCS,Towson,Richmond,KICK RETURNS,Brian,Dowling,AVG,14.0
+7316084,10/26/2013,FCS,Towson,Richmond,KICK RETURNS,Brian,Dowling,LONG,14
+7316085,10/26/2013,FCS,Towson,Richmond,KICK RETURNS,Leon,Kinnard,NO,1
+7316086,10/26/2013,FCS,Towson,Richmond,KICK RETURNS,Leon,Kinnard,YDS,13
+7316087,10/26/2013,FCS,Towson,Richmond,KICK RETURNS,Leon,Kinnard,AVG,13.0
+7316088,10/26/2013,FCS,Towson,Richmond,KICK RETURNS,Leon,Kinnard,LONG,13
+7316089,10/26/2013,FCS,Richmond,Towson,RUSHING,Seth,Fisher,ATT,8
+7316090,10/26/2013,FCS,Richmond,Towson,RUSHING,Seth,Fisher,YDS,44
+7316091,10/26/2013,FCS,Richmond,Towson,RUSHING,Seth,Fisher,TD,0
+7316092,10/26/2013,FCS,Richmond,Towson,RUSHING,Seth,Fisher,LONG,13
+7316093,10/26/2013,FCS,Richmond,Towson,RUSHING,David,Broadus,ATT,6
+7316094,10/26/2013,FCS,Richmond,Towson,RUSHING,David,Broadus,YDS,35
+7316095,10/26/2013,FCS,Richmond,Towson,RUSHING,David,Broadus,TD,1
+7316096,10/26/2013,FCS,Richmond,Towson,RUSHING,David,Broadus,LONG,8
+7316097,10/26/2013,FCS,Richmond,Towson,RUSHING,Kyle,Lauletta,ATT,2
+7316098,10/26/2013,FCS,Richmond,Towson,RUSHING,Kyle,Lauletta,YDS,15
+7316099,10/26/2013,FCS,Richmond,Towson,RUSHING,Kyle,Lauletta,TD,0
+7316100,10/26/2013,FCS,Richmond,Towson,RUSHING,Kyle,Lauletta,LONG,8
+7316101,10/26/2013,FCS,Richmond,Towson,RUSHING,Michael,Strauss,ATT,10
+7316102,10/26/2013,FCS,Richmond,Towson,RUSHING,Michael,Strauss,YDS,12
+7316103,10/26/2013,FCS,Richmond,Towson,RUSHING,Michael,Strauss,TD,0
+7316104,10/26/2013,FCS,Richmond,Towson,RUSHING,Michael,Strauss,LONG,13
+7316105,10/26/2013,FCS,Richmond,Towson,RUSHING,Jacobi,Green,ATT,4
+7316106,10/26/2013,FCS,Richmond,Towson,RUSHING,Jacobi,Green,YDS,12
+7316107,10/26/2013,FCS,Richmond,Towson,RUSHING,Jacobi,Green,TD,0
+7316108,10/26/2013,FCS,Richmond,Towson,RUSHING,Jacobi,Green,LONG,5
+7316109,10/26/2013,FCS,Richmond,Towson,RUSHING,Rashad,Ponder,ATT,2
+7316110,10/26/2013,FCS,Richmond,Towson,RUSHING,Rashad,Ponder,YDS,12
+7316111,10/26/2013,FCS,Richmond,Towson,RUSHING,Rashad,Ponder,TD,0
+7316112,10/26/2013,FCS,Richmond,Towson,RUSHING,Rashad,Ponder,LONG,11
+7316113,10/26/2013,FCS,Richmond,Towson,PASSING,Michael,Strauss,CP-ATT-INT,28-38-1
+7316114,10/26/2013,FCS,Richmond,Towson,PASSING,Michael,Strauss,YDS,281
+7316115,10/26/2013,FCS,Richmond,Towson,PASSING,Michael,Strauss,TD,2
+7316116,10/26/2013,FCS,Richmond,Towson,PASSING,Michael,Strauss,LONG,37
+7316117,10/26/2013,FCS,Richmond,Towson,PASSING,Kyle,Lauletta,CP-ATT-INT,8-10-0
+7316118,10/26/2013,FCS,Richmond,Towson,PASSING,Kyle,Lauletta,YDS,44
+7316119,10/26/2013,FCS,Richmond,Towson,PASSING,Kyle,Lauletta,TD,1
+7316120,10/26/2013,FCS,Richmond,Towson,PASSING,Kyle,Lauletta,LONG,10
+7316121,10/26/2013,FCS,Richmond,Towson,PASSING,David,Broadus,CP-ATT-INT,0-1-1
+7316122,10/26/2013,FCS,Richmond,Towson,PASSING,David,Broadus,YDS,0
+7316123,10/26/2013,FCS,Richmond,Towson,PASSING,David,Broadus,TD,0
+7316124,10/26/2013,FCS,Richmond,Towson,PASSING,David,Broadus,LONG,0
+7316125,10/26/2013,FCS,Richmond,Towson,RECEIVING,Stephen,Barnette,REC,11
+7316126,10/26/2013,FCS,Richmond,Towson,RECEIVING,Stephen,Barnette,YDS,148
+7316127,10/26/2013,FCS,Richmond,Towson,RECEIVING,Stephen,Barnette,TD,0
+7316128,10/26/2013,FCS,Richmond,Towson,RECEIVING,Stephen,Barnette,LONG,37
+7316129,10/26/2013,FCS,Richmond,Towson,RECEIVING,Shane,Savage,REC,9
+7316130,10/26/2013,FCS,Richmond,Towson,RECEIVING,Shane,Savage,YDS,63
+7316131,10/26/2013,FCS,Richmond,Towson,RECEIVING,Shane,Savage,TD,2
+7316132,10/26/2013,FCS,Richmond,Towson,RECEIVING,Shane,Savage,LONG,10
+7316133,10/26/2013,FCS,Richmond,Towson,RECEIVING,Reggie,Diggs,REC,6
+7316134,10/26/2013,FCS,Richmond,Towson,RECEIVING,Reggie,Diggs,YDS,51
+7316135,10/26/2013,FCS,Richmond,Towson,RECEIVING,Reggie,Diggs,TD,0
+7316136,10/26/2013,FCS,Richmond,Towson,RECEIVING,Reggie,Diggs,LONG,17
+7316137,10/26/2013,FCS,Richmond,Towson,RECEIVING,Hunter,Westfall,REC,3
+7316138,10/26/2013,FCS,Richmond,Towson,RECEIVING,Hunter,Westfall,YDS,18
+7316139,10/26/2013,FCS,Richmond,Towson,RECEIVING,Hunter,Westfall,TD,0
+7316140,10/26/2013,FCS,Richmond,Towson,RECEIVING,Hunter,Westfall,LONG,8
+7316141,10/26/2013,FCS,Richmond,Towson,RECEIVING,Sean,Fitzpatrick,REC,2
+7316142,10/26/2013,FCS,Richmond,Towson,RECEIVING,Sean,Fitzpatrick,YDS,13
+7316143,10/26/2013,FCS,Richmond,Towson,RECEIVING,Sean,Fitzpatrick,TD,0
+7316144,10/26/2013,FCS,Richmond,Towson,RECEIVING,Sean,Fitzpatrick,LONG,7
+7316145,10/26/2013,FCS,Richmond,Towson,RECEIVING,Seth,Fisher,REC,2
+7316146,10/26/2013,FCS,Richmond,Towson,RECEIVING,Seth,Fisher,YDS,13
+7316147,10/26/2013,FCS,Richmond,Towson,RECEIVING,Seth,Fisher,TD,0
+7316148,10/26/2013,FCS,Richmond,Towson,RECEIVING,Seth,Fisher,LONG,9
+7316149,10/26/2013,FCS,Richmond,Towson,RECEIVING,Rashad,Ponder,REC,1
+7316150,10/26/2013,FCS,Richmond,Towson,RECEIVING,Rashad,Ponder,YDS,11
+7316151,10/26/2013,FCS,Richmond,Towson,RECEIVING,Rashad,Ponder,TD,1
+7316152,10/26/2013,FCS,Richmond,Towson,RECEIVING,Rashad,Ponder,LONG,11
+7316153,10/26/2013,FCS,Richmond,Towson,RECEIVING,Brian,Brown,REC,1
+7316154,10/26/2013,FCS,Richmond,Towson,RECEIVING,Brian,Brown,YDS,8
+7316155,10/26/2013,FCS,Richmond,Towson,RECEIVING,Brian,Brown,TD,0
+7316156,10/26/2013,FCS,Richmond,Towson,RECEIVING,Brian,Brown,LONG,8
+7316157,10/26/2013,FCS,Richmond,Towson,RECEIVING,Jacobi,Green,REC,1
+7316158,10/26/2013,FCS,Richmond,Towson,RECEIVING,Jacobi,Green,YDS,0
+7316159,10/26/2013,FCS,Richmond,Towson,RECEIVING,Jacobi,Green,TD,0
+7316160,10/26/2013,FCS,Richmond,Towson,RECEIVING,Jacobi,Green,LONG,0
+7316161,10/26/2013,FCS,Richmond,Towson,KICKING,Brandon,Jordi,FG-FGA,0/0
+7316162,10/26/2013,FCS,Richmond,Towson,KICKING,Brandon,Jordi,LONG,-
+7316163,10/26/2013,FCS,Richmond,Towson,KICKING,Brandon,Jordi,XP,0
+7316164,10/26/2013,FCS,Richmond,Towson,KICKING,Brandon,Jordi,PTS,0
+7316165,10/26/2013,FCS,Richmond,Towson,PUNTING,Joe,Gulli,NO,4
+7316166,10/26/2013,FCS,Richmond,Towson,PUNTING,Joe,Gulli,YDS,197
+7316167,10/26/2013,FCS,Richmond,Towson,PUNTING,Joe,Gulli,AVG,49.3
+7316168,10/26/2013,FCS,Richmond,Towson,PUNTING,Joe,Gulli,LONG,63
+7316169,10/26/2013,FCS,Richmond,Towson,PUNT RETURNS,Shane,Savage,NO,1
+7316170,10/26/2013,FCS,Richmond,Towson,PUNT RETURNS,Shane,Savage,YDS,7
+7316171,10/26/2013,FCS,Richmond,Towson,PUNT RETURNS,Shane,Savage,AVG,7.0
+7316172,10/26/2013,FCS,Richmond,Towson,PUNT RETURNS,Shane,Savage,LONG,7
+7316173,10/26/2013,FCS,Richmond,Towson,KICK RETURNS,Justin,Grant,NO,5
+7316174,10/26/2013,FCS,Richmond,Towson,KICK RETURNS,Justin,Grant,YDS,89
+7316175,10/26/2013,FCS,Richmond,Towson,KICK RETURNS,Justin,Grant,AVG,17.8
+7316176,10/26/2013,FCS,Richmond,Towson,KICK RETURNS,Justin,Grant,LONG,45

@@ -1,0 +1,133 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+10523001,10/28/2017,FCS,Illinois State,Youngstown St.,RUSHING,Markel,Smith,ATT,18
+10523002,10/28/2017,FCS,Illinois State,Youngstown St.,RUSHING,Markel,Smith,YDS,124
+10523003,10/28/2017,FCS,Illinois State,Youngstown St.,RUSHING,Markel,Smith,TD,1
+10523004,10/28/2017,FCS,Illinois State,Youngstown St.,RUSHING,Markel,Smith,LONG,30
+10523005,10/28/2017,FCS,Illinois State,Youngstown St.,RUSHING,James,Robinson,ATT,22
+10523006,10/28/2017,FCS,Illinois State,Youngstown St.,RUSHING,James,Robinson,YDS,117
+10523007,10/28/2017,FCS,Illinois State,Youngstown St.,RUSHING,James,Robinson,TD,3
+10523008,10/28/2017,FCS,Illinois State,Youngstown St.,RUSHING,James,Robinson,LONG,20
+10523009,10/28/2017,FCS,Illinois State,Youngstown St.,RUSHING,Artiss,Henderson,ATT,5
+10523010,10/28/2017,FCS,Illinois State,Youngstown St.,RUSHING,Artiss,Henderson,YDS,28
+10523011,10/28/2017,FCS,Illinois State,Youngstown St.,RUSHING,Artiss,Henderson,TD,0
+10523012,10/28/2017,FCS,Illinois State,Youngstown St.,RUSHING,Artiss,Henderson,LONG,13
+10523013,10/28/2017,FCS,Illinois State,Youngstown St.,RUSHING,Jake,Kolbe,ATT,3
+10523014,10/28/2017,FCS,Illinois State,Youngstown St.,RUSHING,Jake,Kolbe,YDS,26
+10523015,10/28/2017,FCS,Illinois State,Youngstown St.,RUSHING,Jake,Kolbe,TD,0
+10523016,10/28/2017,FCS,Illinois State,Youngstown St.,RUSHING,Jake,Kolbe,LONG,12
+10523017,10/28/2017,FCS,Illinois State,Youngstown St.,RUSHING,Malachi,Broadnax,ATT,3
+10523018,10/28/2017,FCS,Illinois State,Youngstown St.,RUSHING,Malachi,Broadnax,YDS,6
+10523019,10/28/2017,FCS,Illinois State,Youngstown St.,RUSHING,Malachi,Broadnax,TD,0
+10523020,10/28/2017,FCS,Illinois State,Youngstown St.,RUSHING,Malachi,Broadnax,LONG,8
+10523021,10/28/2017,FCS,Illinois State,Youngstown St.,RUSHING,,Team,ATT,2
+10523022,10/28/2017,FCS,Illinois State,Youngstown St.,RUSHING,,Team,YDS,-2
+10523023,10/28/2017,FCS,Illinois State,Youngstown St.,RUSHING,,Team,TD,0
+10523024,10/28/2017,FCS,Illinois State,Youngstown St.,RUSHING,,Team,LONG,0
+10523025,10/28/2017,FCS,Illinois State,Youngstown St.,PASSING,Jake,Kolbe,CP-ATT-INT,6-11-0
+10523026,10/28/2017,FCS,Illinois State,Youngstown St.,PASSING,Jake,Kolbe,YDS,42
+10523027,10/28/2017,FCS,Illinois State,Youngstown St.,PASSING,Jake,Kolbe,TD,0
+10523028,10/28/2017,FCS,Illinois State,Youngstown St.,PASSING,Jake,Kolbe,LONG,11
+10523029,10/28/2017,FCS,Illinois State,Youngstown St.,PASSING,Malachi,Broadnax,CP-ATT-INT,0-1-0
+10523030,10/28/2017,FCS,Illinois State,Youngstown St.,PASSING,Malachi,Broadnax,YDS,0
+10523031,10/28/2017,FCS,Illinois State,Youngstown St.,PASSING,Malachi,Broadnax,TD,0
+10523032,10/28/2017,FCS,Illinois State,Youngstown St.,PASSING,Malachi,Broadnax,LONG,0
+10523033,10/28/2017,FCS,Illinois State,Youngstown St.,RECEIVING,Spencer,Schnell,REC,4
+10523034,10/28/2017,FCS,Illinois State,Youngstown St.,RECEIVING,Spencer,Schnell,YDS,32
+10523035,10/28/2017,FCS,Illinois State,Youngstown St.,RECEIVING,Spencer,Schnell,TD,0
+10523036,10/28/2017,FCS,Illinois State,Youngstown St.,RECEIVING,Spencer,Schnell,LONG,11
+10523037,10/28/2017,FCS,Illinois State,Youngstown St.,RECEIVING,Malachi,Broadnax,REC,1
+10523038,10/28/2017,FCS,Illinois State,Youngstown St.,RECEIVING,Malachi,Broadnax,YDS,9
+10523039,10/28/2017,FCS,Illinois State,Youngstown St.,RECEIVING,Malachi,Broadnax,TD,0
+10523040,10/28/2017,FCS,Illinois State,Youngstown St.,RECEIVING,Malachi,Broadnax,LONG,9
+10523041,10/28/2017,FCS,Illinois State,Youngstown St.,RECEIVING,Jake,Hendershot,REC,1
+10523042,10/28/2017,FCS,Illinois State,Youngstown St.,RECEIVING,Jake,Hendershot,YDS,1
+10523043,10/28/2017,FCS,Illinois State,Youngstown St.,RECEIVING,Jake,Hendershot,TD,0
+10523044,10/28/2017,FCS,Illinois State,Youngstown St.,RECEIVING,Jake,Hendershot,LONG,1
+10523045,10/28/2017,FCS,Illinois State,Youngstown St.,KICKING,Sean,Slattery,FG-FGA,0/0
+10523046,10/28/2017,FCS,Illinois State,Youngstown St.,KICKING,Sean,Slattery,LONG,-
+10523047,10/28/2017,FCS,Illinois State,Youngstown St.,KICKING,Sean,Slattery,XP,5
+10523048,10/28/2017,FCS,Illinois State,Youngstown St.,KICKING,Sean,Slattery,PTS,5
+10523049,10/28/2017,FCS,Illinois State,Youngstown St.,PUNTING,Zach,Breen,NO,5
+10523050,10/28/2017,FCS,Illinois State,Youngstown St.,PUNTING,Zach,Breen,YDS,208
+10523051,10/28/2017,FCS,Illinois State,Youngstown St.,PUNTING,Zach,Breen,AVG,41.6
+10523052,10/28/2017,FCS,Illinois State,Youngstown St.,PUNTING,Zach,Breen,LONG,48
+10523053,10/28/2017,FCS,Illinois State,Youngstown St.,PUNT RETURNS,Spencer,Schnell,NO,1
+10523054,10/28/2017,FCS,Illinois State,Youngstown St.,PUNT RETURNS,Spencer,Schnell,YDS,5
+10523055,10/28/2017,FCS,Illinois State,Youngstown St.,PUNT RETURNS,Spencer,Schnell,AVG,5.0
+10523056,10/28/2017,FCS,Illinois State,Youngstown St.,PUNT RETURNS,Spencer,Schnell,LONG,5
+10523057,10/28/2017,FCS,Illinois State,Youngstown St.,KICK RETURNS,Jordan,Birch,NO,1
+10523058,10/28/2017,FCS,Illinois State,Youngstown St.,KICK RETURNS,Jordan,Birch,YDS,17
+10523059,10/28/2017,FCS,Illinois State,Youngstown St.,KICK RETURNS,Jordan,Birch,AVG,17.0
+10523060,10/28/2017,FCS,Illinois State,Youngstown St.,KICK RETURNS,Jordan,Birch,LONG,17
+10523061,10/28/2017,FCS,Youngstown St.,Illinois State,RUSHING,Tevin,McCaster,ATT,9
+10523062,10/28/2017,FCS,Youngstown St.,Illinois State,RUSHING,Tevin,McCaster,YDS,32
+10523063,10/28/2017,FCS,Youngstown St.,Illinois State,RUSHING,Tevin,McCaster,TD,0
+10523064,10/28/2017,FCS,Youngstown St.,Illinois State,RUSHING,Tevin,McCaster,LONG,12
+10523065,10/28/2017,FCS,Youngstown St.,Illinois State,RUSHING,Ricky,Davis,ATT,9
+10523066,10/28/2017,FCS,Youngstown St.,Illinois State,RUSHING,Ricky,Davis,YDS,22
+10523067,10/28/2017,FCS,Youngstown St.,Illinois State,RUSHING,Ricky,Davis,TD,0
+10523068,10/28/2017,FCS,Youngstown St.,Illinois State,RUSHING,Ricky,Davis,LONG,12
+10523069,10/28/2017,FCS,Youngstown St.,Illinois State,RUSHING,Christian,Turner,ATT,3
+10523070,10/28/2017,FCS,Youngstown St.,Illinois State,RUSHING,Christian,Turner,YDS,17
+10523071,10/28/2017,FCS,Youngstown St.,Illinois State,RUSHING,Christian,Turner,TD,0
+10523072,10/28/2017,FCS,Youngstown St.,Illinois State,RUSHING,Christian,Turner,LONG,9
+10523073,10/28/2017,FCS,Youngstown St.,Illinois State,RUSHING,Alvin,Bailey,ATT,3
+10523074,10/28/2017,FCS,Youngstown St.,Illinois State,RUSHING,Alvin,Bailey,YDS,10
+10523075,10/28/2017,FCS,Youngstown St.,Illinois State,RUSHING,Alvin,Bailey,TD,0
+10523076,10/28/2017,FCS,Youngstown St.,Illinois State,RUSHING,Alvin,Bailey,LONG,9
+10523077,10/28/2017,FCS,Youngstown St.,Illinois State,RUSHING,Nathan,Mays,ATT,7
+10523078,10/28/2017,FCS,Youngstown St.,Illinois State,RUSHING,Nathan,Mays,YDS,3
+10523079,10/28/2017,FCS,Youngstown St.,Illinois State,RUSHING,Nathan,Mays,TD,0
+10523080,10/28/2017,FCS,Youngstown St.,Illinois State,RUSHING,Nathan,Mays,LONG,10
+10523081,10/28/2017,FCS,Youngstown St.,Illinois State,RUSHING,,Team,ATT,1
+10523082,10/28/2017,FCS,Youngstown St.,Illinois State,RUSHING,,Team,YDS,0
+10523083,10/28/2017,FCS,Youngstown St.,Illinois State,RUSHING,,Team,TD,0
+10523084,10/28/2017,FCS,Youngstown St.,Illinois State,RUSHING,,Team,LONG,0
+10523085,10/28/2017,FCS,Youngstown St.,Illinois State,PASSING,Ricky,Davis,CP-ATT-INT,5-13-1
+10523086,10/28/2017,FCS,Youngstown St.,Illinois State,PASSING,Ricky,Davis,YDS,47
+10523087,10/28/2017,FCS,Youngstown St.,Illinois State,PASSING,Ricky,Davis,TD,0
+10523088,10/28/2017,FCS,Youngstown St.,Illinois State,PASSING,Ricky,Davis,LONG,13
+10523089,10/28/2017,FCS,Youngstown St.,Illinois State,PASSING,Nathan,Mays,CP-ATT-INT,3-5-0
+10523090,10/28/2017,FCS,Youngstown St.,Illinois State,PASSING,Nathan,Mays,YDS,16
+10523091,10/28/2017,FCS,Youngstown St.,Illinois State,PASSING,Nathan,Mays,TD,0
+10523092,10/28/2017,FCS,Youngstown St.,Illinois State,PASSING,Nathan,Mays,LONG,10
+10523093,10/28/2017,FCS,Youngstown St.,Illinois State,RECEIVING,Kevin,Rader,REC,2
+10523094,10/28/2017,FCS,Youngstown St.,Illinois State,RECEIVING,Kevin,Rader,YDS,23
+10523095,10/28/2017,FCS,Youngstown St.,Illinois State,RECEIVING,Kevin,Rader,TD,0
+10523096,10/28/2017,FCS,Youngstown St.,Illinois State,RECEIVING,Kevin,Rader,LONG,13
+10523097,10/28/2017,FCS,Youngstown St.,Illinois State,RECEIVING,Christian,Turner,REC,2
+10523098,10/28/2017,FCS,Youngstown St.,Illinois State,RECEIVING,Christian,Turner,YDS,17
+10523099,10/28/2017,FCS,Youngstown St.,Illinois State,RECEIVING,Christian,Turner,TD,0
+10523100,10/28/2017,FCS,Youngstown St.,Illinois State,RECEIVING,Christian,Turner,LONG,13
+10523101,10/28/2017,FCS,Youngstown St.,Illinois State,RECEIVING,Alvin,Bailey,REC,2
+10523102,10/28/2017,FCS,Youngstown St.,Illinois State,RECEIVING,Alvin,Bailey,YDS,9
+10523103,10/28/2017,FCS,Youngstown St.,Illinois State,RECEIVING,Alvin,Bailey,TD,0
+10523104,10/28/2017,FCS,Youngstown St.,Illinois State,RECEIVING,Alvin,Bailey,LONG,7
+10523105,10/28/2017,FCS,Youngstown St.,Illinois State,RECEIVING,Stefan,DerrickII,REC,1
+10523106,10/28/2017,FCS,Youngstown St.,Illinois State,RECEIVING,Stefan,DerrickII,YDS,7
+10523107,10/28/2017,FCS,Youngstown St.,Illinois State,RECEIVING,Stefan,DerrickII,TD,0
+10523108,10/28/2017,FCS,Youngstown St.,Illinois State,RECEIVING,Stefan,DerrickII,LONG,7
+10523109,10/28/2017,FCS,Youngstown St.,Illinois State,RECEIVING,Tevin,McCaster,REC,1
+10523110,10/28/2017,FCS,Youngstown St.,Illinois State,RECEIVING,Tevin,McCaster,YDS,7
+10523111,10/28/2017,FCS,Youngstown St.,Illinois State,RECEIVING,Tevin,McCaster,TD,0
+10523112,10/28/2017,FCS,Youngstown St.,Illinois State,RECEIVING,Tevin,McCaster,LONG,7
+10523113,10/28/2017,FCS,Youngstown St.,Illinois State,PUNTING,Mark,Schuler,NO,8
+10523114,10/28/2017,FCS,Youngstown St.,Illinois State,PUNTING,Mark,Schuler,YDS,324
+10523115,10/28/2017,FCS,Youngstown St.,Illinois State,PUNTING,Mark,Schuler,AVG,40.5
+10523116,10/28/2017,FCS,Youngstown St.,Illinois State,PUNTING,Mark,Schuler,LONG,47
+10523117,10/28/2017,FCS,Youngstown St.,Illinois State,PUNT RETURNS,Jake,Coates,NO,4
+10523118,10/28/2017,FCS,Youngstown St.,Illinois State,PUNT RETURNS,Jake,Coates,YDS,8
+10523119,10/28/2017,FCS,Youngstown St.,Illinois State,PUNT RETURNS,Jake,Coates,AVG,2.0
+10523120,10/28/2017,FCS,Youngstown St.,Illinois State,PUNT RETURNS,Jake,Coates,LONG,10
+10523121,10/28/2017,FCS,Youngstown St.,Illinois State,KICK RETURNS,Christian,Turner,NO,2
+10523122,10/28/2017,FCS,Youngstown St.,Illinois State,KICK RETURNS,Christian,Turner,YDS,52
+10523123,10/28/2017,FCS,Youngstown St.,Illinois State,KICK RETURNS,Christian,Turner,AVG,26.0
+10523124,10/28/2017,FCS,Youngstown St.,Illinois State,KICK RETURNS,Christian,Turner,LONG,29
+10523125,10/28/2017,FCS,Youngstown St.,Illinois State,KICK RETURNS,Jake,Coates,NO,3
+10523126,10/28/2017,FCS,Youngstown St.,Illinois State,KICK RETURNS,Jake,Coates,YDS,45
+10523127,10/28/2017,FCS,Youngstown St.,Illinois State,KICK RETURNS,Jake,Coates,AVG,15.0
+10523128,10/28/2017,FCS,Youngstown St.,Illinois State,KICK RETURNS,Jake,Coates,LONG,18
+10523129,10/28/2017,FCS,Youngstown St.,Illinois State,KICK RETURNS,Shane,Kuhn,NO,1
+10523130,10/28/2017,FCS,Youngstown St.,Illinois State,KICK RETURNS,Shane,Kuhn,YDS,0
+10523131,10/28/2017,FCS,Youngstown St.,Illinois State,KICK RETURNS,Shane,Kuhn,AVG,-
+10523132,10/28/2017,FCS,Youngstown St.,Illinois State,KICK RETURNS,Shane,Kuhn,LONG,0

@@ -1,0 +1,105 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+10088001,9/7/2017,FCS,West Alabama,Samford,RUSHING,,Team,ATT,24
+10088002,9/7/2017,FCS,West Alabama,Samford,RUSHING,,Team,YDS,58
+10088003,9/7/2017,FCS,West Alabama,Samford,RUSHING,,Team,TD,2
+10088004,9/7/2017,FCS,West Alabama,Samford,RUSHING,,Team,LONG,31
+10088005,9/7/2017,FCS,West Alabama,Samford,PASSING,,Team,CP-ATT-INT,37-54-2
+10088006,9/7/2017,FCS,West Alabama,Samford,PASSING,,Team,YDS,464
+10088007,9/7/2017,FCS,West Alabama,Samford,PASSING,,Team,TD,3
+10088008,9/7/2017,FCS,West Alabama,Samford,PASSING,,Team,LONG,63
+10088009,9/7/2017,FCS,West Alabama,Samford,RECEIVING,,Team,REC,37
+10088010,9/7/2017,FCS,West Alabama,Samford,RECEIVING,,Team,YDS,464
+10088011,9/7/2017,FCS,West Alabama,Samford,RECEIVING,,Team,TD,3
+10088012,9/7/2017,FCS,West Alabama,Samford,RECEIVING,,Team,LONG,63
+10088013,9/7/2017,FCS,West Alabama,Samford,KICKING,,Team,FG-FGA,0/0
+10088014,9/7/2017,FCS,West Alabama,Samford,KICKING,,Team,LONG,-
+10088015,9/7/2017,FCS,West Alabama,Samford,KICKING,,Team,XP,5
+10088016,9/7/2017,FCS,West Alabama,Samford,KICKING,,Team,PTS,5
+10088017,9/7/2017,FCS,West Alabama,Samford,PUNTING,,Team,NO,9
+10088018,9/7/2017,FCS,West Alabama,Samford,PUNTING,,Team,YDS,362
+10088019,9/7/2017,FCS,West Alabama,Samford,PUNTING,,Team,AVG,40.2
+10088020,9/7/2017,FCS,West Alabama,Samford,PUNTING,,Team,LONG,110
+10088021,9/7/2017,FCS,West Alabama,Samford,PUNT RETURNS,,Team,NO,5
+10088022,9/7/2017,FCS,West Alabama,Samford,PUNT RETURNS,,Team,YDS,80
+10088023,9/7/2017,FCS,West Alabama,Samford,PUNT RETURNS,,Team,AVG,16.0
+10088024,9/7/2017,FCS,West Alabama,Samford,PUNT RETURNS,,Team,LONG,60
+10088025,9/7/2017,FCS,West Alabama,Samford,KICK RETURNS,,Team,NO,6
+10088026,9/7/2017,FCS,West Alabama,Samford,KICK RETURNS,,Team,YDS,139
+10088027,9/7/2017,FCS,West Alabama,Samford,KICK RETURNS,,Team,AVG,23.2
+10088028,9/7/2017,FCS,West Alabama,Samford,KICK RETURNS,,Team,LONG,75
+10088029,9/7/2017,FCS,Samford,West Alabama,RUSHING,Roland,Adams,ATT,12
+10088030,9/7/2017,FCS,Samford,West Alabama,RUSHING,Roland,Adams,YDS,53
+10088031,9/7/2017,FCS,Samford,West Alabama,RUSHING,Roland,Adams,TD,0
+10088032,9/7/2017,FCS,Samford,West Alabama,RUSHING,Roland,Adams,LONG,24
+10088033,9/7/2017,FCS,Samford,West Alabama,RUSHING,Devlin,Hodges,ATT,10
+10088034,9/7/2017,FCS,Samford,West Alabama,RUSHING,Devlin,Hodges,YDS,51
+10088035,9/7/2017,FCS,Samford,West Alabama,RUSHING,Devlin,Hodges,TD,1
+10088036,9/7/2017,FCS,Samford,West Alabama,RUSHING,Devlin,Hodges,LONG,25
+10088037,9/7/2017,FCS,Samford,West Alabama,RUSHING,Treyvon,Paulk,ATT,7
+10088038,9/7/2017,FCS,Samford,West Alabama,RUSHING,Treyvon,Paulk,YDS,11
+10088039,9/7/2017,FCS,Samford,West Alabama,RUSHING,Treyvon,Paulk,TD,0
+10088040,9/7/2017,FCS,Samford,West Alabama,RUSHING,Treyvon,Paulk,LONG,8
+10088041,9/7/2017,FCS,Samford,West Alabama,RUSHING,Kelvin,McKnight,ATT,1
+10088042,9/7/2017,FCS,Samford,West Alabama,RUSHING,Kelvin,McKnight,YDS,5
+10088043,9/7/2017,FCS,Samford,West Alabama,RUSHING,Kelvin,McKnight,TD,0
+10088044,9/7/2017,FCS,Samford,West Alabama,RUSHING,Kelvin,McKnight,LONG,5
+10088045,9/7/2017,FCS,Samford,West Alabama,RUSHING,Moise,Satine,ATT,1
+10088046,9/7/2017,FCS,Samford,West Alabama,RUSHING,Moise,Satine,YDS,2
+10088047,9/7/2017,FCS,Samford,West Alabama,RUSHING,Moise,Satine,TD,0
+10088048,9/7/2017,FCS,Samford,West Alabama,RUSHING,Moise,Satine,LONG,2
+10088049,9/7/2017,FCS,Samford,West Alabama,PASSING,Devlin,Hodges,CP-ATT-INT,30-47-1
+10088050,9/7/2017,FCS,Samford,West Alabama,PASSING,Devlin,Hodges,YDS,317
+10088051,9/7/2017,FCS,Samford,West Alabama,PASSING,Devlin,Hodges,TD,3
+10088052,9/7/2017,FCS,Samford,West Alabama,PASSING,Devlin,Hodges,LONG,57
+10088053,9/7/2017,FCS,Samford,West Alabama,RECEIVING,Kelvin,McKnight,REC,13
+10088054,9/7/2017,FCS,Samford,West Alabama,RECEIVING,Kelvin,McKnight,YDS,136
+10088055,9/7/2017,FCS,Samford,West Alabama,RECEIVING,Kelvin,McKnight,TD,2
+10088056,9/7/2017,FCS,Samford,West Alabama,RECEIVING,Kelvin,McKnight,LONG,32
+10088057,9/7/2017,FCS,Samford,West Alabama,RECEIVING,Andrew,Harris,REC,3
+10088058,9/7/2017,FCS,Samford,West Alabama,RECEIVING,Andrew,Harris,YDS,96
+10088059,9/7/2017,FCS,Samford,West Alabama,RECEIVING,Andrew,Harris,TD,1
+10088060,9/7/2017,FCS,Samford,West Alabama,RECEIVING,Andrew,Harris,LONG,57
+10088061,9/7/2017,FCS,Samford,West Alabama,RECEIVING,Yassar,El-Amin,REC,3
+10088062,9/7/2017,FCS,Samford,West Alabama,RECEIVING,Yassar,El-Amin,YDS,34
+10088063,9/7/2017,FCS,Samford,West Alabama,RECEIVING,Yassar,El-Amin,TD,0
+10088064,9/7/2017,FCS,Samford,West Alabama,RECEIVING,Yassar,El-Amin,LONG,21
+10088065,9/7/2017,FCS,Samford,West Alabama,RECEIVING,Chris,Shelling,REC,6
+10088066,9/7/2017,FCS,Samford,West Alabama,RECEIVING,Chris,Shelling,YDS,29
+10088067,9/7/2017,FCS,Samford,West Alabama,RECEIVING,Chris,Shelling,TD,0
+10088068,9/7/2017,FCS,Samford,West Alabama,RECEIVING,Chris,Shelling,LONG,11
+10088069,9/7/2017,FCS,Samford,West Alabama,RECEIVING,Jai'Rus,Creamer,REC,1
+10088070,9/7/2017,FCS,Samford,West Alabama,RECEIVING,Jai'Rus,Creamer,YDS,12
+10088071,9/7/2017,FCS,Samford,West Alabama,RECEIVING,Jai'Rus,Creamer,TD,0
+10088072,9/7/2017,FCS,Samford,West Alabama,RECEIVING,Jai'Rus,Creamer,LONG,12
+10088073,9/7/2017,FCS,Samford,West Alabama,RECEIVING,Treyvon,Paulk,REC,2
+10088074,9/7/2017,FCS,Samford,West Alabama,RECEIVING,Treyvon,Paulk,YDS,6
+10088075,9/7/2017,FCS,Samford,West Alabama,RECEIVING,Treyvon,Paulk,TD,0
+10088076,9/7/2017,FCS,Samford,West Alabama,RECEIVING,Treyvon,Paulk,LONG,4
+10088077,9/7/2017,FCS,Samford,West Alabama,RECEIVING,Justin,Curry,REC,1
+10088078,9/7/2017,FCS,Samford,West Alabama,RECEIVING,Justin,Curry,YDS,4
+10088079,9/7/2017,FCS,Samford,West Alabama,RECEIVING,Justin,Curry,TD,0
+10088080,9/7/2017,FCS,Samford,West Alabama,RECEIVING,Justin,Curry,LONG,4
+10088081,9/7/2017,FCS,Samford,West Alabama,RECEIVING,Roland,Adams,REC,1
+10088082,9/7/2017,FCS,Samford,West Alabama,RECEIVING,Roland,Adams,YDS,0
+10088083,9/7/2017,FCS,Samford,West Alabama,RECEIVING,Roland,Adams,TD,0
+10088084,9/7/2017,FCS,Samford,West Alabama,RECEIVING,Roland,Adams,LONG,0
+10088085,9/7/2017,FCS,Samford,West Alabama,KICKING,Jordan,Weaver,FG-FGA,0/0
+10088086,9/7/2017,FCS,Samford,West Alabama,KICKING,Jordan,Weaver,LONG,-
+10088087,9/7/2017,FCS,Samford,West Alabama,KICKING,Jordan,Weaver,XP,7
+10088088,9/7/2017,FCS,Samford,West Alabama,KICKING,Jordan,Weaver,PTS,7
+10088089,9/7/2017,FCS,Samford,West Alabama,PUNTING,Austin,Barnard,NO,9
+10088090,9/7/2017,FCS,Samford,West Alabama,PUNTING,Austin,Barnard,YDS,395
+10088091,9/7/2017,FCS,Samford,West Alabama,PUNTING,Austin,Barnard,AVG,43.9
+10088092,9/7/2017,FCS,Samford,West Alabama,PUNTING,Austin,Barnard,LONG,52
+10088093,9/7/2017,FCS,Samford,West Alabama,PUNT RETURNS,Kelvin,McKnight,NO,3
+10088094,9/7/2017,FCS,Samford,West Alabama,PUNT RETURNS,Kelvin,McKnight,YDS,24
+10088095,9/7/2017,FCS,Samford,West Alabama,PUNT RETURNS,Kelvin,McKnight,AVG,8.0
+10088096,9/7/2017,FCS,Samford,West Alabama,PUNT RETURNS,Kelvin,McKnight,LONG,24
+10088097,9/7/2017,FCS,Samford,West Alabama,KICK RETURNS,Darius,Harvey,NO,5
+10088098,9/7/2017,FCS,Samford,West Alabama,KICK RETURNS,Darius,Harvey,YDS,159
+10088099,9/7/2017,FCS,Samford,West Alabama,KICK RETURNS,Darius,Harvey,AVG,31.8
+10088100,9/7/2017,FCS,Samford,West Alabama,KICK RETURNS,Darius,Harvey,LONG,93
+10088101,9/7/2017,FCS,Samford,West Alabama,KICK RETURNS,Treyvon,Paulk,NO,1
+10088102,9/7/2017,FCS,Samford,West Alabama,KICK RETURNS,Treyvon,Paulk,YDS,23
+10088103,9/7/2017,FCS,Samford,West Alabama,KICK RETURNS,Treyvon,Paulk,AVG,23.0
+10088104,9/7/2017,FCS,Samford,West Alabama,KICK RETURNS,Treyvon,Paulk,LONG,23

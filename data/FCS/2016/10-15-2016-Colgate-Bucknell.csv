@@ -1,0 +1,125 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9639001,10/15/2016,FCS,Colgate,Bucknell,RUSHING,Keyon,Washington,ATT,25
+9639002,10/15/2016,FCS,Colgate,Bucknell,RUSHING,Keyon,Washington,YDS,158
+9639003,10/15/2016,FCS,Colgate,Bucknell,RUSHING,Keyon,Washington,TD,0
+9639004,10/15/2016,FCS,Colgate,Bucknell,RUSHING,Keyon,Washington,LONG,22
+9639005,10/15/2016,FCS,Colgate,Bucknell,RUSHING,Alex,Mathews,ATT,5
+9639006,10/15/2016,FCS,Colgate,Bucknell,RUSHING,Alex,Mathews,YDS,37
+9639007,10/15/2016,FCS,Colgate,Bucknell,RUSHING,Alex,Mathews,TD,0
+9639008,10/15/2016,FCS,Colgate,Bucknell,RUSHING,Alex,Mathews,LONG,22
+9639009,10/15/2016,FCS,Colgate,Bucknell,RUSHING,Jake,Melville,ATT,10
+9639010,10/15/2016,FCS,Colgate,Bucknell,RUSHING,Jake,Melville,YDS,36
+9639011,10/15/2016,FCS,Colgate,Bucknell,RUSHING,Jake,Melville,TD,2
+9639012,10/15/2016,FCS,Colgate,Bucknell,RUSHING,Jake,Melville,LONG,9
+9639013,10/15/2016,FCS,Colgate,Bucknell,RUSHING,,Team,ATT,1
+9639014,10/15/2016,FCS,Colgate,Bucknell,RUSHING,,Team,YDS,-1
+9639015,10/15/2016,FCS,Colgate,Bucknell,RUSHING,,Team,TD,0
+9639016,10/15/2016,FCS,Colgate,Bucknell,RUSHING,,Team,LONG,0
+9639017,10/15/2016,FCS,Colgate,Bucknell,PASSING,Jake,Melville,CP-ATT-INT,17-28-1
+9639018,10/15/2016,FCS,Colgate,Bucknell,PASSING,Jake,Melville,YDS,149
+9639019,10/15/2016,FCS,Colgate,Bucknell,PASSING,Jake,Melville,TD,1
+9639020,10/15/2016,FCS,Colgate,Bucknell,PASSING,Jake,Melville,LONG,18
+9639021,10/15/2016,FCS,Colgate,Bucknell,RECEIVING,Alex,Greenawalt,REC,6
+9639022,10/15/2016,FCS,Colgate,Bucknell,RECEIVING,Alex,Greenawalt,YDS,71
+9639023,10/15/2016,FCS,Colgate,Bucknell,RECEIVING,Alex,Greenawalt,TD,0
+9639024,10/15/2016,FCS,Colgate,Bucknell,RECEIVING,Alex,Greenawalt,LONG,18
+9639025,10/15/2016,FCS,Colgate,Bucknell,RECEIVING,Nick,Martinsen,REC,4
+9639026,10/15/2016,FCS,Colgate,Bucknell,RECEIVING,Nick,Martinsen,YDS,31
+9639027,10/15/2016,FCS,Colgate,Bucknell,RECEIVING,Nick,Martinsen,TD,0
+9639028,10/15/2016,FCS,Colgate,Bucknell,RECEIVING,Nick,Martinsen,LONG,18
+9639029,10/15/2016,FCS,Colgate,Bucknell,RECEIVING,Owen,Rockett,REC,2
+9639030,10/15/2016,FCS,Colgate,Bucknell,RECEIVING,Owen,Rockett,YDS,25
+9639031,10/15/2016,FCS,Colgate,Bucknell,RECEIVING,Owen,Rockett,TD,1
+9639032,10/15/2016,FCS,Colgate,Bucknell,RECEIVING,Owen,Rockett,LONG,16
+9639033,10/15/2016,FCS,Colgate,Bucknell,RECEIVING,John,Maddaluna,REC,5
+9639034,10/15/2016,FCS,Colgate,Bucknell,RECEIVING,John,Maddaluna,YDS,22
+9639035,10/15/2016,FCS,Colgate,Bucknell,RECEIVING,John,Maddaluna,TD,0
+9639036,10/15/2016,FCS,Colgate,Bucknell,RECEIVING,John,Maddaluna,LONG,15
+9639037,10/15/2016,FCS,Colgate,Bucknell,KICKING,Jonah,Bowman,FG-FGA,2/3
+9639038,10/15/2016,FCS,Colgate,Bucknell,KICKING,Jonah,Bowman,LONG,36
+9639039,10/15/2016,FCS,Colgate,Bucknell,KICKING,Jonah,Bowman,XP,3
+9639040,10/15/2016,FCS,Colgate,Bucknell,KICKING,Jonah,Bowman,PTS,9
+9639041,10/15/2016,FCS,Colgate,Bucknell,PUNTING,Josh,Cerra,NO,3
+9639042,10/15/2016,FCS,Colgate,Bucknell,PUNTING,Josh,Cerra,YDS,90
+9639043,10/15/2016,FCS,Colgate,Bucknell,PUNTING,Josh,Cerra,AVG,30.0
+9639044,10/15/2016,FCS,Colgate,Bucknell,PUNTING,Josh,Cerra,LONG,38
+9639045,10/15/2016,FCS,Colgate,Bucknell,PUNT RETURNS,Abu,Daramy,NO,3
+9639046,10/15/2016,FCS,Colgate,Bucknell,PUNT RETURNS,Abu,Daramy,YDS,19
+9639047,10/15/2016,FCS,Colgate,Bucknell,PUNT RETURNS,Abu,Daramy,AVG,6.3
+9639048,10/15/2016,FCS,Colgate,Bucknell,PUNT RETURNS,Abu,Daramy,LONG,16
+9639049,10/15/2016,FCS,Colgate,Bucknell,KICK RETURNS,Abu,Daramy,NO,2
+9639050,10/15/2016,FCS,Colgate,Bucknell,KICK RETURNS,Abu,Daramy,YDS,35
+9639051,10/15/2016,FCS,Colgate,Bucknell,KICK RETURNS,Abu,Daramy,AVG,17.5
+9639052,10/15/2016,FCS,Colgate,Bucknell,KICK RETURNS,Abu,Daramy,LONG,22
+9639053,10/15/2016,FCS,Bucknell,Colgate,RUSHING,Joey,DeFloria,ATT,11
+9639054,10/15/2016,FCS,Bucknell,Colgate,RUSHING,Joey,DeFloria,YDS,38
+9639055,10/15/2016,FCS,Bucknell,Colgate,RUSHING,Joey,DeFloria,TD,0
+9639056,10/15/2016,FCS,Bucknell,Colgate,RUSHING,Joey,DeFloria,LONG,23
+9639057,10/15/2016,FCS,Bucknell,Colgate,RUSHING,Chad,Freshnock,ATT,8
+9639058,10/15/2016,FCS,Bucknell,Colgate,RUSHING,Chad,Freshnock,YDS,14
+9639059,10/15/2016,FCS,Bucknell,Colgate,RUSHING,Chad,Freshnock,TD,0
+9639060,10/15/2016,FCS,Bucknell,Colgate,RUSHING,Chad,Freshnock,LONG,4
+9639061,10/15/2016,FCS,Bucknell,Colgate,RUSHING,Matt,Muh,ATT,2
+9639062,10/15/2016,FCS,Bucknell,Colgate,RUSHING,Matt,Muh,YDS,-10
+9639063,10/15/2016,FCS,Bucknell,Colgate,RUSHING,Matt,Muh,TD,0
+9639064,10/15/2016,FCS,Bucknell,Colgate,RUSHING,Matt,Muh,LONG,0
+9639065,10/15/2016,FCS,Bucknell,Colgate,RUSHING,John,Chiarolanzio,ATT,2
+9639066,10/15/2016,FCS,Bucknell,Colgate,RUSHING,John,Chiarolanzio,YDS,-15
+9639067,10/15/2016,FCS,Bucknell,Colgate,RUSHING,John,Chiarolanzio,TD,0
+9639068,10/15/2016,FCS,Bucknell,Colgate,RUSHING,John,Chiarolanzio,LONG,0
+9639069,10/15/2016,FCS,Bucknell,Colgate,PASSING,John,Chiarolanzio,CP-ATT-INT,11-19-0
+9639070,10/15/2016,FCS,Bucknell,Colgate,PASSING,John,Chiarolanzio,YDS,139
+9639071,10/15/2016,FCS,Bucknell,Colgate,PASSING,John,Chiarolanzio,TD,1
+9639072,10/15/2016,FCS,Bucknell,Colgate,PASSING,John,Chiarolanzio,LONG,0
+9639073,10/15/2016,FCS,Bucknell,Colgate,PASSING,Matt,Muh,CP-ATT-INT,7-17-1
+9639074,10/15/2016,FCS,Bucknell,Colgate,PASSING,Matt,Muh,YDS,50
+9639075,10/15/2016,FCS,Bucknell,Colgate,PASSING,Matt,Muh,TD,0
+9639076,10/15/2016,FCS,Bucknell,Colgate,PASSING,Matt,Muh,LONG,0
+9639077,10/15/2016,FCS,Bucknell,Colgate,PASSING,Jack,Horan,CP-ATT-INT,1-1-0
+9639078,10/15/2016,FCS,Bucknell,Colgate,PASSING,Jack,Horan,YDS,33
+9639079,10/15/2016,FCS,Bucknell,Colgate,PASSING,Jack,Horan,TD,0
+9639080,10/15/2016,FCS,Bucknell,Colgate,PASSING,Jack,Horan,LONG,0
+9639081,10/15/2016,FCS,Bucknell,Colgate,RECEIVING,Will,Carter,REC,3
+9639082,10/15/2016,FCS,Bucknell,Colgate,RECEIVING,Will,Carter,YDS,89
+9639083,10/15/2016,FCS,Bucknell,Colgate,RECEIVING,Will,Carter,TD,0
+9639084,10/15/2016,FCS,Bucknell,Colgate,RECEIVING,Will,Carter,LONG,42
+9639085,10/15/2016,FCS,Bucknell,Colgate,RECEIVING,Andrew,Owers,REC,7
+9639086,10/15/2016,FCS,Bucknell,Colgate,RECEIVING,Andrew,Owers,YDS,52
+9639087,10/15/2016,FCS,Bucknell,Colgate,RECEIVING,Andrew,Owers,TD,1
+9639088,10/15/2016,FCS,Bucknell,Colgate,RECEIVING,Andrew,Owers,LONG,12
+9639089,10/15/2016,FCS,Bucknell,Colgate,RECEIVING,Joey,DeFloria,REC,4
+9639090,10/15/2016,FCS,Bucknell,Colgate,RECEIVING,Joey,DeFloria,YDS,28
+9639091,10/15/2016,FCS,Bucknell,Colgate,RECEIVING,Joey,DeFloria,TD,0
+9639092,10/15/2016,FCS,Bucknell,Colgate,RECEIVING,Joey,DeFloria,LONG,16
+9639093,10/15/2016,FCS,Bucknell,Colgate,RECEIVING,Alan,Butler,REC,3
+9639094,10/15/2016,FCS,Bucknell,Colgate,RECEIVING,Alan,Butler,YDS,25
+9639095,10/15/2016,FCS,Bucknell,Colgate,RECEIVING,Alan,Butler,TD,0
+9639096,10/15/2016,FCS,Bucknell,Colgate,RECEIVING,Alan,Butler,LONG,14
+9639097,10/15/2016,FCS,Bucknell,Colgate,RECEIVING,Justin,Bethea,REC,1
+9639098,10/15/2016,FCS,Bucknell,Colgate,RECEIVING,Justin,Bethea,YDS,24
+9639099,10/15/2016,FCS,Bucknell,Colgate,RECEIVING,Justin,Bethea,TD,0
+9639100,10/15/2016,FCS,Bucknell,Colgate,RECEIVING,Justin,Bethea,LONG,24
+9639101,10/15/2016,FCS,Bucknell,Colgate,RECEIVING,Chad,Freshnock,REC,1
+9639102,10/15/2016,FCS,Bucknell,Colgate,RECEIVING,Chad,Freshnock,YDS,4
+9639103,10/15/2016,FCS,Bucknell,Colgate,RECEIVING,Chad,Freshnock,TD,0
+9639104,10/15/2016,FCS,Bucknell,Colgate,RECEIVING,Chad,Freshnock,LONG,4
+9639105,10/15/2016,FCS,Bucknell,Colgate,KICKING,Jack,Chambers,FG-FGA,0/1
+9639106,10/15/2016,FCS,Bucknell,Colgate,KICKING,Jack,Chambers,LONG,0
+9639107,10/15/2016,FCS,Bucknell,Colgate,KICKING,Jack,Chambers,XP,1
+9639108,10/15/2016,FCS,Bucknell,Colgate,KICKING,Jack,Chambers,PTS,1
+9639109,10/15/2016,FCS,Bucknell,Colgate,PUNTING,Matt,Muh,NO,4
+9639110,10/15/2016,FCS,Bucknell,Colgate,PUNTING,Matt,Muh,YDS,150
+9639111,10/15/2016,FCS,Bucknell,Colgate,PUNTING,Matt,Muh,AVG,37.5
+9639112,10/15/2016,FCS,Bucknell,Colgate,PUNTING,Matt,Muh,LONG,40
+9639113,10/15/2016,FCS,Bucknell,Colgate,PUNTING,Bret,Berg,NO,2
+9639114,10/15/2016,FCS,Bucknell,Colgate,PUNTING,Bret,Berg,YDS,81
+9639115,10/15/2016,FCS,Bucknell,Colgate,PUNTING,Bret,Berg,AVG,40.5
+9639116,10/15/2016,FCS,Bucknell,Colgate,PUNTING,Bret,Berg,LONG,45
+9639117,10/15/2016,FCS,Bucknell,Colgate,KICK RETURNS,Bryan,Marine,NO,3
+9639118,10/15/2016,FCS,Bucknell,Colgate,KICK RETURNS,Bryan,Marine,YDS,70
+9639119,10/15/2016,FCS,Bucknell,Colgate,KICK RETURNS,Bryan,Marine,AVG,23.3
+9639120,10/15/2016,FCS,Bucknell,Colgate,KICK RETURNS,Bryan,Marine,LONG,29
+9639121,10/15/2016,FCS,Bucknell,Colgate,KICK RETURNS,Justin,Bethea,NO,3
+9639122,10/15/2016,FCS,Bucknell,Colgate,KICK RETURNS,Justin,Bethea,YDS,69
+9639123,10/15/2016,FCS,Bucknell,Colgate,KICK RETURNS,Justin,Bethea,AVG,23.0
+9639124,10/15/2016,FCS,Bucknell,Colgate,KICK RETURNS,Justin,Bethea,LONG,25

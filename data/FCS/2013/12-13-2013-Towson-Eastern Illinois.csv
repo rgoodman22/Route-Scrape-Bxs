@@ -1,0 +1,153 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+7578001,12/13/2013,FCS,Towson,Eastern Illinois,RUSHING,Terrance,West,ATT,39
+7578002,12/13/2013,FCS,Towson,Eastern Illinois,RUSHING,Terrance,West,YDS,354
+7578003,12/13/2013,FCS,Towson,Eastern Illinois,RUSHING,Terrance,West,TD,5
+7578004,12/13/2013,FCS,Towson,Eastern Illinois,RUSHING,Terrance,West,LONG,63
+7578005,12/13/2013,FCS,Towson,Eastern Illinois,RUSHING,Darius,Victor,ATT,11
+7578006,12/13/2013,FCS,Towson,Eastern Illinois,RUSHING,Darius,Victor,YDS,80
+7578007,12/13/2013,FCS,Towson,Eastern Illinois,RUSHING,Darius,Victor,TD,1
+7578008,12/13/2013,FCS,Towson,Eastern Illinois,RUSHING,Darius,Victor,LONG,22
+7578009,12/13/2013,FCS,Towson,Eastern Illinois,RUSHING,Connor,Frazier,ATT,5
+7578010,12/13/2013,FCS,Towson,Eastern Illinois,RUSHING,Connor,Frazier,YDS,40
+7578011,12/13/2013,FCS,Towson,Eastern Illinois,RUSHING,Connor,Frazier,TD,1
+7578012,12/13/2013,FCS,Towson,Eastern Illinois,RUSHING,Connor,Frazier,LONG,16
+7578013,12/13/2013,FCS,Towson,Eastern Illinois,RUSHING,Peter,Athens,ATT,2
+7578014,12/13/2013,FCS,Towson,Eastern Illinois,RUSHING,Peter,Athens,YDS,2
+7578015,12/13/2013,FCS,Towson,Eastern Illinois,RUSHING,Peter,Athens,TD,0
+7578016,12/13/2013,FCS,Towson,Eastern Illinois,RUSHING,Peter,Athens,LONG,3
+7578017,12/13/2013,FCS,Towson,Eastern Illinois,RUSHING,,Team,ATT,2
+7578018,12/13/2013,FCS,Towson,Eastern Illinois,RUSHING,,Team,YDS,-4
+7578019,12/13/2013,FCS,Towson,Eastern Illinois,RUSHING,,Team,TD,0
+7578020,12/13/2013,FCS,Towson,Eastern Illinois,RUSHING,,Team,LONG,0
+7578021,12/13/2013,FCS,Towson,Eastern Illinois,PASSING,Peter,Athens,CP-ATT-INT,8-13-0
+7578022,12/13/2013,FCS,Towson,Eastern Illinois,PASSING,Peter,Athens,YDS,115
+7578023,12/13/2013,FCS,Towson,Eastern Illinois,PASSING,Peter,Athens,TD,0
+7578024,12/13/2013,FCS,Towson,Eastern Illinois,PASSING,Peter,Athens,LONG,30
+7578025,12/13/2013,FCS,Towson,Eastern Illinois,PASSING,,Team,CP-ATT-INT,0-1-0
+7578026,12/13/2013,FCS,Towson,Eastern Illinois,PASSING,,Team,YDS,0
+7578027,12/13/2013,FCS,Towson,Eastern Illinois,PASSING,,Team,TD,0
+7578028,12/13/2013,FCS,Towson,Eastern Illinois,PASSING,,Team,LONG,0
+7578029,12/13/2013,FCS,Towson,Eastern Illinois,RECEIVING,James,Oboh,REC,3
+7578030,12/13/2013,FCS,Towson,Eastern Illinois,RECEIVING,James,Oboh,YDS,41
+7578031,12/13/2013,FCS,Towson,Eastern Illinois,RECEIVING,James,Oboh,TD,0
+7578032,12/13/2013,FCS,Towson,Eastern Illinois,RECEIVING,James,Oboh,LONG,30
+7578033,12/13/2013,FCS,Towson,Eastern Illinois,RECEIVING,A,Dessenberg,REC,1
+7578034,12/13/2013,FCS,Towson,Eastern Illinois,RECEIVING,A,Dessenberg,YDS,29
+7578035,12/13/2013,FCS,Towson,Eastern Illinois,RECEIVING,A,Dessenberg,TD,0
+7578036,12/13/2013,FCS,Towson,Eastern Illinois,RECEIVING,A,Dessenberg,LONG,29
+7578037,12/13/2013,FCS,Towson,Eastern Illinois,RECEIVING,Brian,Dowling,REC,1
+7578038,12/13/2013,FCS,Towson,Eastern Illinois,RECEIVING,Brian,Dowling,YDS,23
+7578039,12/13/2013,FCS,Towson,Eastern Illinois,RECEIVING,Brian,Dowling,TD,0
+7578040,12/13/2013,FCS,Towson,Eastern Illinois,RECEIVING,Brian,Dowling,LONG,23
+7578041,12/13/2013,FCS,Towson,Eastern Illinois,RECEIVING,Derrick,Joseph,REC,1
+7578042,12/13/2013,FCS,Towson,Eastern Illinois,RECEIVING,Derrick,Joseph,YDS,18
+7578043,12/13/2013,FCS,Towson,Eastern Illinois,RECEIVING,Derrick,Joseph,TD,0
+7578044,12/13/2013,FCS,Towson,Eastern Illinois,RECEIVING,Derrick,Joseph,LONG,18
+7578045,12/13/2013,FCS,Towson,Eastern Illinois,RECEIVING,Emmanuel,Holder,REC,1
+7578046,12/13/2013,FCS,Towson,Eastern Illinois,RECEIVING,Emmanuel,Holder,YDS,3
+7578047,12/13/2013,FCS,Towson,Eastern Illinois,RECEIVING,Emmanuel,Holder,TD,0
+7578048,12/13/2013,FCS,Towson,Eastern Illinois,RECEIVING,Emmanuel,Holder,LONG,3
+7578049,12/13/2013,FCS,Towson,Eastern Illinois,RECEIVING,Terrance,West,REC,1
+7578050,12/13/2013,FCS,Towson,Eastern Illinois,RECEIVING,Terrance,West,YDS,1
+7578051,12/13/2013,FCS,Towson,Eastern Illinois,RECEIVING,Terrance,West,TD,0
+7578052,12/13/2013,FCS,Towson,Eastern Illinois,RECEIVING,Terrance,West,LONG,1
+7578053,12/13/2013,FCS,Towson,Eastern Illinois,PUNTING,D,Evangelista,NO,2
+7578054,12/13/2013,FCS,Towson,Eastern Illinois,PUNTING,D,Evangelista,YDS,87
+7578055,12/13/2013,FCS,Towson,Eastern Illinois,PUNTING,D,Evangelista,AVG,43.5
+7578056,12/13/2013,FCS,Towson,Eastern Illinois,PUNTING,D,Evangelista,LONG,59
+7578057,12/13/2013,FCS,Towson,Eastern Illinois,KICK RETURNS,Derrick,Joseph,NO,1
+7578058,12/13/2013,FCS,Towson,Eastern Illinois,KICK RETURNS,Derrick,Joseph,YDS,12
+7578059,12/13/2013,FCS,Towson,Eastern Illinois,KICK RETURNS,Derrick,Joseph,AVG,12.0
+7578060,12/13/2013,FCS,Towson,Eastern Illinois,KICK RETURNS,Derrick,Joseph,LONG,12
+7578061,12/13/2013,FCS,Towson,Eastern Illinois,KICK RETURNS,Jordan,Love,NO,3
+7578062,12/13/2013,FCS,Towson,Eastern Illinois,KICK RETURNS,Jordan,Love,YDS,33
+7578063,12/13/2013,FCS,Towson,Eastern Illinois,KICK RETURNS,Jordan,Love,AVG,11.0
+7578064,12/13/2013,FCS,Towson,Eastern Illinois,KICK RETURNS,Jordan,Love,LONG,10
+7578065,12/13/2013,FCS,Towson,Eastern Illinois,KICK RETURNS,Navassa,Brown,NO,1
+7578066,12/13/2013,FCS,Towson,Eastern Illinois,KICK RETURNS,Navassa,Brown,YDS,7
+7578067,12/13/2013,FCS,Towson,Eastern Illinois,KICK RETURNS,Navassa,Brown,AVG,7.0
+7578068,12/13/2013,FCS,Towson,Eastern Illinois,KICK RETURNS,Navassa,Brown,LONG,7
+7578069,12/13/2013,FCS,Towson,Eastern Illinois,KICK RETURNS,Brian,Dowling,NO,1
+7578070,12/13/2013,FCS,Towson,Eastern Illinois,KICK RETURNS,Brian,Dowling,YDS,14
+7578071,12/13/2013,FCS,Towson,Eastern Illinois,KICK RETURNS,Brian,Dowling,AVG,14.0
+7578072,12/13/2013,FCS,Towson,Eastern Illinois,KICK RETURNS,Brian,Dowling,LONG,14
+7578073,12/13/2013,FCS,Eastern Illinois,Towson,RUSHING,Taylor,Duncan,ATT,20
+7578074,12/13/2013,FCS,Eastern Illinois,Towson,RUSHING,Taylor,Duncan,YDS,100
+7578075,12/13/2013,FCS,Eastern Illinois,Towson,RUSHING,Taylor,Duncan,TD,0
+7578076,12/13/2013,FCS,Eastern Illinois,Towson,RUSHING,Taylor,Duncan,LONG,13
+7578077,12/13/2013,FCS,Eastern Illinois,Towson,RUSHING,Shepard,Little,ATT,14
+7578078,12/13/2013,FCS,Eastern Illinois,Towson,RUSHING,Shepard,Little,YDS,58
+7578079,12/13/2013,FCS,Eastern Illinois,Towson,RUSHING,Shepard,Little,TD,0
+7578080,12/13/2013,FCS,Eastern Illinois,Towson,RUSHING,Shepard,Little,LONG,16
+7578081,12/13/2013,FCS,Eastern Illinois,Towson,RUSHING,Jimmy,Garoppolo,ATT,10
+7578082,12/13/2013,FCS,Eastern Illinois,Towson,RUSHING,Jimmy,Garoppolo,YDS,12
+7578083,12/13/2013,FCS,Eastern Illinois,Towson,RUSHING,Jimmy,Garoppolo,TD,2
+7578084,12/13/2013,FCS,Eastern Illinois,Towson,RUSHING,Jimmy,Garoppolo,LONG,14
+7578085,12/13/2013,FCS,Eastern Illinois,Towson,RUSHING,Jimmy,Lera,ATT,2
+7578086,12/13/2013,FCS,Eastern Illinois,Towson,RUSHING,Jimmy,Lera,YDS,12
+7578087,12/13/2013,FCS,Eastern Illinois,Towson,RUSHING,Jimmy,Lera,TD,0
+7578088,12/13/2013,FCS,Eastern Illinois,Towson,RUSHING,Jimmy,Lera,LONG,9
+7578089,12/13/2013,FCS,Eastern Illinois,Towson,RUSHING,Ryan,Meyer,ATT,1
+7578090,12/13/2013,FCS,Eastern Illinois,Towson,RUSHING,Ryan,Meyer,YDS,10
+7578091,12/13/2013,FCS,Eastern Illinois,Towson,RUSHING,Ryan,Meyer,TD,1
+7578092,12/13/2013,FCS,Eastern Illinois,Towson,RUSHING,Ryan,Meyer,LONG,10
+7578093,12/13/2013,FCS,Eastern Illinois,Towson,RUSHING,,Team,ATT,1
+7578094,12/13/2013,FCS,Eastern Illinois,Towson,RUSHING,,Team,YDS,-2
+7578095,12/13/2013,FCS,Eastern Illinois,Towson,RUSHING,,Team,TD,0
+7578096,12/13/2013,FCS,Eastern Illinois,Towson,RUSHING,,Team,LONG,0
+7578097,12/13/2013,FCS,Eastern Illinois,Towson,PASSING,Jimmy,Garoppolo,CP-ATT-INT,38-50-0
+7578098,12/13/2013,FCS,Eastern Illinois,Towson,PASSING,Jimmy,Garoppolo,YDS,321
+7578099,12/13/2013,FCS,Eastern Illinois,Towson,PASSING,Jimmy,Garoppolo,TD,2
+7578100,12/13/2013,FCS,Eastern Illinois,Towson,PASSING,Jimmy,Garoppolo,LONG,39
+7578101,12/13/2013,FCS,Eastern Illinois,Towson,PASSING,Taylor,Duncan,CP-ATT-INT,0-1-0
+7578102,12/13/2013,FCS,Eastern Illinois,Towson,PASSING,Taylor,Duncan,YDS,0
+7578103,12/13/2013,FCS,Eastern Illinois,Towson,PASSING,Taylor,Duncan,TD,0
+7578104,12/13/2013,FCS,Eastern Illinois,Towson,PASSING,Taylor,Duncan,LONG,0
+7578105,12/13/2013,FCS,Eastern Illinois,Towson,RECEIVING,Erik,Lora,REC,18
+7578106,12/13/2013,FCS,Eastern Illinois,Towson,RECEIVING,Erik,Lora,YDS,129
+7578107,12/13/2013,FCS,Eastern Illinois,Towson,RECEIVING,Erik,Lora,TD,1
+7578108,12/13/2013,FCS,Eastern Illinois,Towson,RECEIVING,Erik,Lora,LONG,35
+7578109,12/13/2013,FCS,Eastern Illinois,Towson,RECEIVING,Jeff,Lepak,REC,5
+7578110,12/13/2013,FCS,Eastern Illinois,Towson,RECEIVING,Jeff,Lepak,YDS,67
+7578111,12/13/2013,FCS,Eastern Illinois,Towson,RECEIVING,Jeff,Lepak,TD,1
+7578112,12/13/2013,FCS,Eastern Illinois,Towson,RECEIVING,Jeff,Lepak,LONG,39
+7578113,12/13/2013,FCS,Eastern Illinois,Towson,RECEIVING,Adam,Drake,REC,4
+7578114,12/13/2013,FCS,Eastern Illinois,Towson,RECEIVING,Adam,Drake,YDS,65
+7578115,12/13/2013,FCS,Eastern Illinois,Towson,RECEIVING,Adam,Drake,TD,0
+7578116,12/13/2013,FCS,Eastern Illinois,Towson,RECEIVING,Adam,Drake,LONG,36
+7578117,12/13/2013,FCS,Eastern Illinois,Towson,RECEIVING,Keiondre,Gober,REC,3
+7578118,12/13/2013,FCS,Eastern Illinois,Towson,RECEIVING,Keiondre,Gober,YDS,24
+7578119,12/13/2013,FCS,Eastern Illinois,Towson,RECEIVING,Keiondre,Gober,TD,0
+7578120,12/13/2013,FCS,Eastern Illinois,Towson,RECEIVING,Keiondre,Gober,LONG,13
+7578121,12/13/2013,FCS,Eastern Illinois,Towson,RECEIVING,Taylor,Duncan,REC,4
+7578122,12/13/2013,FCS,Eastern Illinois,Towson,RECEIVING,Taylor,Duncan,YDS,20
+7578123,12/13/2013,FCS,Eastern Illinois,Towson,RECEIVING,Taylor,Duncan,TD,0
+7578124,12/13/2013,FCS,Eastern Illinois,Towson,RECEIVING,Taylor,Duncan,LONG,14
+7578125,12/13/2013,FCS,Eastern Illinois,Towson,RECEIVING,Shepard,Little,REC,4
+7578126,12/13/2013,FCS,Eastern Illinois,Towson,RECEIVING,Shepard,Little,YDS,16
+7578127,12/13/2013,FCS,Eastern Illinois,Towson,RECEIVING,Shepard,Little,TD,0
+7578128,12/13/2013,FCS,Eastern Illinois,Towson,RECEIVING,Shepard,Little,LONG,6
+7578129,12/13/2013,FCS,Eastern Illinois,Towson,PUNTING,Sc,Weatherford,NO,4
+7578130,12/13/2013,FCS,Eastern Illinois,Towson,PUNTING,Sc,Weatherford,YDS,127
+7578131,12/13/2013,FCS,Eastern Illinois,Towson,PUNTING,Sc,Weatherford,AVG,31.8
+7578132,12/13/2013,FCS,Eastern Illinois,Towson,PUNTING,Sc,Weatherford,LONG,37
+7578133,12/13/2013,FCS,Eastern Illinois,Towson,PUNT RETURNS,Erik,Lora,NO,1
+7578134,12/13/2013,FCS,Eastern Illinois,Towson,PUNT RETURNS,Erik,Lora,YDS,-1
+7578135,12/13/2013,FCS,Eastern Illinois,Towson,PUNT RETURNS,Erik,Lora,AVG,-1.0
+7578136,12/13/2013,FCS,Eastern Illinois,Towson,PUNT RETURNS,Erik,Lora,LONG,0
+7578137,12/13/2013,FCS,Eastern Illinois,Towson,KICK RETURNS,Shepard,Little,NO,2
+7578138,12/13/2013,FCS,Eastern Illinois,Towson,KICK RETURNS,Shepard,Little,YDS,28
+7578139,12/13/2013,FCS,Eastern Illinois,Towson,KICK RETURNS,Shepard,Little,AVG,14.0
+7578140,12/13/2013,FCS,Eastern Illinois,Towson,KICK RETURNS,Shepard,Little,LONG,18
+7578141,12/13/2013,FCS,Eastern Illinois,Towson,KICK RETURNS,Tr,Pendergrass,NO,2
+7578142,12/13/2013,FCS,Eastern Illinois,Towson,KICK RETURNS,Tr,Pendergrass,YDS,41
+7578143,12/13/2013,FCS,Eastern Illinois,Towson,KICK RETURNS,Tr,Pendergrass,AVG,20.5
+7578144,12/13/2013,FCS,Eastern Illinois,Towson,KICK RETURNS,Tr,Pendergrass,LONG,21
+7578145,12/13/2013,FCS,Eastern Illinois,Towson,KICK RETURNS,Andre,Hodge,NO,1
+7578146,12/13/2013,FCS,Eastern Illinois,Towson,KICK RETURNS,Andre,Hodge,YDS,0
+7578147,12/13/2013,FCS,Eastern Illinois,Towson,KICK RETURNS,Andre,Hodge,AVG,0.0
+7578148,12/13/2013,FCS,Eastern Illinois,Towson,KICK RETURNS,Andre,Hodge,LONG,0
+7578149,12/13/2013,FCS,Eastern Illinois,Towson,KICK RETURNS,Seth,Mcdonald,NO,3
+7578150,12/13/2013,FCS,Eastern Illinois,Towson,KICK RETURNS,Seth,Mcdonald,YDS,18
+7578151,12/13/2013,FCS,Eastern Illinois,Towson,KICK RETURNS,Seth,Mcdonald,AVG,6.0
+7578152,12/13/2013,FCS,Eastern Illinois,Towson,KICK RETURNS,Seth,Mcdonald,LONG,7

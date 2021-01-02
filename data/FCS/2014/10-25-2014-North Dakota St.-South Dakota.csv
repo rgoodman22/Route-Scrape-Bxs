@@ -1,0 +1,157 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+8113001,10/25/2014,FCS,North Dakota St.,South Dakota,RUSHING,John,Crockett,ATT,23
+8113002,10/25/2014,FCS,North Dakota St.,South Dakota,RUSHING,John,Crockett,YDS,123
+8113003,10/25/2014,FCS,North Dakota St.,South Dakota,RUSHING,John,Crockett,TD,1
+8113004,10/25/2014,FCS,North Dakota St.,South Dakota,RUSHING,John,Crockett,LONG,33
+8113005,10/25/2014,FCS,North Dakota St.,South Dakota,RUSHING,King,Frazier,ATT,10
+8113006,10/25/2014,FCS,North Dakota St.,South Dakota,RUSHING,King,Frazier,YDS,106
+8113007,10/25/2014,FCS,North Dakota St.,South Dakota,RUSHING,King,Frazier,TD,0
+8113008,10/25/2014,FCS,North Dakota St.,South Dakota,RUSHING,King,Frazier,LONG,23
+8113009,10/25/2014,FCS,North Dakota St.,South Dakota,RUSHING,Chase,Morlock,ATT,4
+8113010,10/25/2014,FCS,North Dakota St.,South Dakota,RUSHING,Chase,Morlock,YDS,39
+8113011,10/25/2014,FCS,North Dakota St.,South Dakota,RUSHING,Chase,Morlock,TD,1
+8113012,10/25/2014,FCS,North Dakota St.,South Dakota,RUSHING,Chase,Morlock,LONG,23
+8113013,10/25/2014,FCS,North Dakota St.,South Dakota,RUSHING,Tyler,Wrice,ATT,2
+8113014,10/25/2014,FCS,North Dakota St.,South Dakota,RUSHING,Tyler,Wrice,YDS,19
+8113015,10/25/2014,FCS,North Dakota St.,South Dakota,RUSHING,Tyler,Wrice,TD,0
+8113016,10/25/2014,FCS,North Dakota St.,South Dakota,RUSHING,Tyler,Wrice,LONG,13
+8113017,10/25/2014,FCS,North Dakota St.,South Dakota,RUSHING,Carson,Wentz,ATT,4
+8113018,10/25/2014,FCS,North Dakota St.,South Dakota,RUSHING,Carson,Wentz,YDS,6
+8113019,10/25/2014,FCS,North Dakota St.,South Dakota,RUSHING,Carson,Wentz,TD,0
+8113020,10/25/2014,FCS,North Dakota St.,South Dakota,RUSHING,Carson,Wentz,LONG,7
+8113021,10/25/2014,FCS,North Dakota St.,South Dakota,RUSHING,Connor,Wentz,ATT,0
+8113022,10/25/2014,FCS,North Dakota St.,South Dakota,RUSHING,Connor,Wentz,YDS,0
+8113023,10/25/2014,FCS,North Dakota St.,South Dakota,RUSHING,Connor,Wentz,TD,0
+8113024,10/25/2014,FCS,North Dakota St.,South Dakota,RUSHING,Connor,Wentz,LONG,0
+8113025,10/25/2014,FCS,North Dakota St.,South Dakota,PASSING,Carson,Wentz,CP-ATT-INT,14-26-0
+8113026,10/25/2014,FCS,North Dakota St.,South Dakota,PASSING,Carson,Wentz,YDS,231
+8113027,10/25/2014,FCS,North Dakota St.,South Dakota,PASSING,Carson,Wentz,TD,3
+8113028,10/25/2014,FCS,North Dakota St.,South Dakota,PASSING,Carson,Wentz,LONG,34
+8113029,10/25/2014,FCS,North Dakota St.,South Dakota,PASSING,Connor,Wentz,CP-ATT-INT,0-0-0
+8113030,10/25/2014,FCS,North Dakota St.,South Dakota,PASSING,Connor,Wentz,YDS,0
+8113031,10/25/2014,FCS,North Dakota St.,South Dakota,PASSING,Connor,Wentz,TD,0
+8113032,10/25/2014,FCS,North Dakota St.,South Dakota,PASSING,Connor,Wentz,LONG,0
+8113033,10/25/2014,FCS,North Dakota St.,South Dakota,PASSING,Cole,Davis,CP-ATT-INT,0-1-0
+8113034,10/25/2014,FCS,North Dakota St.,South Dakota,PASSING,Cole,Davis,YDS,0
+8113035,10/25/2014,FCS,North Dakota St.,South Dakota,PASSING,Cole,Davis,TD,0
+8113036,10/25/2014,FCS,North Dakota St.,South Dakota,PASSING,Cole,Davis,LONG,0
+8113037,10/25/2014,FCS,North Dakota St.,South Dakota,RECEIVING,RJ,Urzendowski,REC,4
+8113038,10/25/2014,FCS,North Dakota St.,South Dakota,RECEIVING,RJ,Urzendowski,YDS,107
+8113039,10/25/2014,FCS,North Dakota St.,South Dakota,RECEIVING,RJ,Urzendowski,TD,1
+8113040,10/25/2014,FCS,North Dakota St.,South Dakota,RECEIVING,RJ,Urzendowski,LONG,34
+8113041,10/25/2014,FCS,North Dakota St.,South Dakota,RECEIVING,John,Crockett,REC,2
+8113042,10/25/2014,FCS,North Dakota St.,South Dakota,RECEIVING,John,Crockett,YDS,46
+8113043,10/25/2014,FCS,North Dakota St.,South Dakota,RECEIVING,John,Crockett,TD,1
+8113044,10/25/2014,FCS,North Dakota St.,South Dakota,RECEIVING,John,Crockett,LONG,25
+8113045,10/25/2014,FCS,North Dakota St.,South Dakota,RECEIVING,Luke,Albers,REC,3
+8113046,10/25/2014,FCS,North Dakota St.,South Dakota,RECEIVING,Luke,Albers,YDS,42
+8113047,10/25/2014,FCS,North Dakota St.,South Dakota,RECEIVING,Luke,Albers,TD,1
+8113048,10/25/2014,FCS,North Dakota St.,South Dakota,RECEIVING,Luke,Albers,LONG,18
+8113049,10/25/2014,FCS,North Dakota St.,South Dakota,RECEIVING,Zach,Vraa,REC,1
+8113050,10/25/2014,FCS,North Dakota St.,South Dakota,RECEIVING,Zach,Vraa,YDS,11
+8113051,10/25/2014,FCS,North Dakota St.,South Dakota,RECEIVING,Zach,Vraa,TD,0
+8113052,10/25/2014,FCS,North Dakota St.,South Dakota,RECEIVING,Zach,Vraa,LONG,11
+8113053,10/25/2014,FCS,North Dakota St.,South Dakota,RECEIVING,Chase,Morlock,REC,1
+8113054,10/25/2014,FCS,North Dakota St.,South Dakota,RECEIVING,Chase,Morlock,YDS,10
+8113055,10/25/2014,FCS,North Dakota St.,South Dakota,RECEIVING,Chase,Morlock,TD,0
+8113056,10/25/2014,FCS,North Dakota St.,South Dakota,RECEIVING,Chase,Morlock,LONG,10
+8113057,10/25/2014,FCS,North Dakota St.,South Dakota,RECEIVING,Jeff,Illies,REC,1
+8113058,10/25/2014,FCS,North Dakota St.,South Dakota,RECEIVING,Jeff,Illies,YDS,6
+8113059,10/25/2014,FCS,North Dakota St.,South Dakota,RECEIVING,Jeff,Illies,TD,0
+8113060,10/25/2014,FCS,North Dakota St.,South Dakota,RECEIVING,Jeff,Illies,LONG,6
+8113061,10/25/2014,FCS,North Dakota St.,South Dakota,RECEIVING,Trevor,Gebhart,REC,1
+8113062,10/25/2014,FCS,North Dakota St.,South Dakota,RECEIVING,Trevor,Gebhart,YDS,5
+8113063,10/25/2014,FCS,North Dakota St.,South Dakota,RECEIVING,Trevor,Gebhart,TD,0
+8113064,10/25/2014,FCS,North Dakota St.,South Dakota,RECEIVING,Trevor,Gebhart,LONG,5
+8113065,10/25/2014,FCS,North Dakota St.,South Dakota,RECEIVING,Connor,Wentz,REC,1
+8113066,10/25/2014,FCS,North Dakota St.,South Dakota,RECEIVING,Connor,Wentz,YDS,4
+8113067,10/25/2014,FCS,North Dakota St.,South Dakota,RECEIVING,Connor,Wentz,TD,0
+8113068,10/25/2014,FCS,North Dakota St.,South Dakota,RECEIVING,Connor,Wentz,LONG,4
+8113069,10/25/2014,FCS,North Dakota St.,South Dakota,KICKING,Adam,Keller,FG-FGA,4/4
+8113070,10/25/2014,FCS,North Dakota St.,South Dakota,KICKING,Adam,Keller,LONG,49
+8113071,10/25/2014,FCS,North Dakota St.,South Dakota,KICKING,Adam,Keller,XP,5
+8113072,10/25/2014,FCS,North Dakota St.,South Dakota,KICKING,Adam,Keller,PTS,17
+8113073,10/25/2014,FCS,North Dakota St.,South Dakota,PUNTING,Ben,LeCompte,NO,3
+8113074,10/25/2014,FCS,North Dakota St.,South Dakota,PUNTING,Ben,LeCompte,YDS,122
+8113075,10/25/2014,FCS,North Dakota St.,South Dakota,PUNTING,Ben,LeCompte,AVG,40.7
+8113076,10/25/2014,FCS,North Dakota St.,South Dakota,PUNTING,Ben,LeCompte,LONG,42
+8113077,10/25/2014,FCS,North Dakota St.,South Dakota,PUNT RETURNS,CJ,Smith,NO,1
+8113078,10/25/2014,FCS,North Dakota St.,South Dakota,PUNT RETURNS,CJ,Smith,YDS,21
+8113079,10/25/2014,FCS,North Dakota St.,South Dakota,PUNT RETURNS,CJ,Smith,AVG,21.0
+8113080,10/25/2014,FCS,North Dakota St.,South Dakota,PUNT RETURNS,CJ,Smith,LONG,21
+8113081,10/25/2014,FCS,North Dakota St.,South Dakota,KICK RETURNS,Darius,Anderson,NO,1
+8113082,10/25/2014,FCS,North Dakota St.,South Dakota,KICK RETURNS,Darius,Anderson,YDS,26
+8113083,10/25/2014,FCS,North Dakota St.,South Dakota,KICK RETURNS,Darius,Anderson,AVG,26.0
+8113084,10/25/2014,FCS,North Dakota St.,South Dakota,KICK RETURNS,Darius,Anderson,LONG,26
+8113085,10/25/2014,FCS,North Dakota St.,South Dakota,KICK RETURNS,Andrew,Bonnet,NO,1
+8113086,10/25/2014,FCS,North Dakota St.,South Dakota,KICK RETURNS,Andrew,Bonnet,YDS,2
+8113087,10/25/2014,FCS,North Dakota St.,South Dakota,KICK RETURNS,Andrew,Bonnet,AVG,2.0
+8113088,10/25/2014,FCS,North Dakota St.,South Dakota,KICK RETURNS,Andrew,Bonnet,LONG,2
+8113089,10/25/2014,FCS,South Dakota,North Dakota St.,RUSHING,Jasper,Sanders,ATT,23
+8113090,10/25/2014,FCS,South Dakota,North Dakota St.,RUSHING,Jasper,Sanders,YDS,67
+8113091,10/25/2014,FCS,South Dakota,North Dakota St.,RUSHING,Jasper,Sanders,TD,0
+8113092,10/25/2014,FCS,South Dakota,North Dakota St.,RUSHING,Jasper,Sanders,LONG,11
+8113093,10/25/2014,FCS,South Dakota,North Dakota St.,RUSHING,Jordan,Roberts,ATT,5
+8113094,10/25/2014,FCS,South Dakota,North Dakota St.,RUSHING,Jordan,Roberts,YDS,32
+8113095,10/25/2014,FCS,South Dakota,North Dakota St.,RUSHING,Jordan,Roberts,TD,0
+8113096,10/25/2014,FCS,South Dakota,North Dakota St.,RUSHING,Jordan,Roberts,LONG,9
+8113097,10/25/2014,FCS,South Dakota,North Dakota St.,RUSHING,Josh,VanderMaten,ATT,2
+8113098,10/25/2014,FCS,South Dakota,North Dakota St.,RUSHING,Josh,VanderMaten,YDS,18
+8113099,10/25/2014,FCS,South Dakota,North Dakota St.,RUSHING,Josh,VanderMaten,TD,0
+8113100,10/25/2014,FCS,South Dakota,North Dakota St.,RUSHING,Josh,VanderMaten,LONG,11
+8113101,10/25/2014,FCS,South Dakota,North Dakota St.,RUSHING,Kevin,Earl,ATT,5
+8113102,10/25/2014,FCS,South Dakota,North Dakota St.,RUSHING,Kevin,Earl,YDS,4
+8113103,10/25/2014,FCS,South Dakota,North Dakota St.,RUSHING,Kevin,Earl,TD,0
+8113104,10/25/2014,FCS,South Dakota,North Dakota St.,RUSHING,Kevin,Earl,LONG,13
+8113105,10/25/2014,FCS,South Dakota,North Dakota St.,PASSING,Kevin,Earl,CP-ATT-INT,14-28-2
+8113106,10/25/2014,FCS,South Dakota,North Dakota St.,PASSING,Kevin,Earl,YDS,104
+8113107,10/25/2014,FCS,South Dakota,North Dakota St.,PASSING,Kevin,Earl,TD,1
+8113108,10/25/2014,FCS,South Dakota,North Dakota St.,PASSING,Kevin,Earl,LONG,20
+8113109,10/25/2014,FCS,South Dakota,North Dakota St.,PASSING,Miles,Bergner,CP-ATT-INT,1-1-0
+8113110,10/25/2014,FCS,South Dakota,North Dakota St.,PASSING,Miles,Bergner,YDS,18
+8113111,10/25/2014,FCS,South Dakota,North Dakota St.,PASSING,Miles,Bergner,TD,0
+8113112,10/25/2014,FCS,South Dakota,North Dakota St.,PASSING,Miles,Bergner,LONG,18
+8113113,10/25/2014,FCS,South Dakota,North Dakota St.,RECEIVING,Eric,"Shufford,Jr.",REC,4
+8113114,10/25/2014,FCS,South Dakota,North Dakota St.,RECEIVING,Eric,"Shufford,Jr.",YDS,41
+8113115,10/25/2014,FCS,South Dakota,North Dakota St.,RECEIVING,Eric,"Shufford,Jr.",TD,0
+8113116,10/25/2014,FCS,South Dakota,North Dakota St.,RECEIVING,Eric,"Shufford,Jr.",LONG,20
+8113117,10/25/2014,FCS,South Dakota,North Dakota St.,RECEIVING,Josh,VanderMaten,REC,5
+8113118,10/25/2014,FCS,South Dakota,North Dakota St.,RECEIVING,Josh,VanderMaten,YDS,28
+8113119,10/25/2014,FCS,South Dakota,North Dakota St.,RECEIVING,Josh,VanderMaten,TD,0
+8113120,10/25/2014,FCS,South Dakota,North Dakota St.,RECEIVING,Josh,VanderMaten,LONG,12
+8113121,10/25/2014,FCS,South Dakota,North Dakota St.,RECEIVING,Riley,Donovan,REC,3
+8113122,10/25/2014,FCS,South Dakota,North Dakota St.,RECEIVING,Riley,Donovan,YDS,20
+8113123,10/25/2014,FCS,South Dakota,North Dakota St.,RECEIVING,Riley,Donovan,TD,1
+8113124,10/25/2014,FCS,South Dakota,North Dakota St.,RECEIVING,Riley,Donovan,LONG,10
+8113125,10/25/2014,FCS,South Dakota,North Dakota St.,RECEIVING,Jordan,Roberts,REC,1
+8113126,10/25/2014,FCS,South Dakota,North Dakota St.,RECEIVING,Jordan,Roberts,YDS,18
+8113127,10/25/2014,FCS,South Dakota,North Dakota St.,RECEIVING,Jordan,Roberts,TD,0
+8113128,10/25/2014,FCS,South Dakota,North Dakota St.,RECEIVING,Jordan,Roberts,LONG,18
+8113129,10/25/2014,FCS,South Dakota,North Dakota St.,RECEIVING,Nick,Meyer,REC,1
+8113130,10/25/2014,FCS,South Dakota,North Dakota St.,RECEIVING,Nick,Meyer,YDS,9
+8113131,10/25/2014,FCS,South Dakota,North Dakota St.,RECEIVING,Nick,Meyer,TD,0
+8113132,10/25/2014,FCS,South Dakota,North Dakota St.,RECEIVING,Nick,Meyer,LONG,9
+8113133,10/25/2014,FCS,South Dakota,North Dakota St.,RECEIVING,Drew,Potter,REC,1
+8113134,10/25/2014,FCS,South Dakota,North Dakota St.,RECEIVING,Drew,Potter,YDS,6
+8113135,10/25/2014,FCS,South Dakota,North Dakota St.,RECEIVING,Drew,Potter,TD,0
+8113136,10/25/2014,FCS,South Dakota,North Dakota St.,RECEIVING,Drew,Potter,LONG,6
+8113137,10/25/2014,FCS,South Dakota,North Dakota St.,KICKING,Miles,Bergner,FG-FGA,0/0
+8113138,10/25/2014,FCS,South Dakota,North Dakota St.,KICKING,Miles,Bergner,LONG,-
+8113139,10/25/2014,FCS,South Dakota,North Dakota St.,KICKING,Miles,Bergner,XP,1
+8113140,10/25/2014,FCS,South Dakota,North Dakota St.,KICKING,Miles,Bergner,PTS,1
+8113141,10/25/2014,FCS,South Dakota,North Dakota St.,PUNTING,Miles,Bergner,NO,5
+8113142,10/25/2014,FCS,South Dakota,North Dakota St.,PUNTING,Miles,Bergner,YDS,204
+8113143,10/25/2014,FCS,South Dakota,North Dakota St.,PUNTING,Miles,Bergner,AVG,40.8
+8113144,10/25/2014,FCS,South Dakota,North Dakota St.,PUNTING,Miles,Bergner,LONG,55
+8113145,10/25/2014,FCS,South Dakota,North Dakota St.,PUNT RETURNS,Josh,VanderMaten,NO,1
+8113146,10/25/2014,FCS,South Dakota,North Dakota St.,PUNT RETURNS,Josh,VanderMaten,YDS,-9
+8113147,10/25/2014,FCS,South Dakota,North Dakota St.,PUNT RETURNS,Josh,VanderMaten,AVG,-
+8113148,10/25/2014,FCS,South Dakota,North Dakota St.,PUNT RETURNS,Josh,VanderMaten,LONG,0
+8113149,10/25/2014,FCS,South Dakota,North Dakota St.,KICK RETURNS,Eric,"Shufford,Jr.",NO,3
+8113150,10/25/2014,FCS,South Dakota,North Dakota St.,KICK RETURNS,Eric,"Shufford,Jr.",YDS,73
+8113151,10/25/2014,FCS,South Dakota,North Dakota St.,KICK RETURNS,Eric,"Shufford,Jr.",AVG,24.3
+8113152,10/25/2014,FCS,South Dakota,North Dakota St.,KICK RETURNS,Eric,"Shufford,Jr.",LONG,28
+8113153,10/25/2014,FCS,South Dakota,North Dakota St.,KICK RETURNS,Josh,VanderMaten,NO,1
+8113154,10/25/2014,FCS,South Dakota,North Dakota St.,KICK RETURNS,Josh,VanderMaten,YDS,21
+8113155,10/25/2014,FCS,South Dakota,North Dakota St.,KICK RETURNS,Josh,VanderMaten,AVG,21.0
+8113156,10/25/2014,FCS,South Dakota,North Dakota St.,KICK RETURNS,Josh,VanderMaten,LONG,21

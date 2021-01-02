@@ -1,0 +1,206 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+11592001,8/31/2019,FCS,Montana,South Dakota,RUSHING,Marcus,Knight,ATT,7
+11592002,8/31/2019,FCS,Montana,South Dakota,RUSHING,Marcus,Knight,YDS,47
+11592003,8/31/2019,FCS,Montana,South Dakota,RUSHING,Marcus,Knight,TD,0
+11592004,8/31/2019,FCS,Montana,South Dakota,RUSHING,Marcus,Knight,LONG,17
+11592005,8/31/2019,FCS,Montana,South Dakota,RUSHING,Jerry,Louie-McGee,ATT,1
+11592006,8/31/2019,FCS,Montana,South Dakota,RUSHING,Jerry,Louie-McGee,YDS,14
+11592007,8/31/2019,FCS,Montana,South Dakota,RUSHING,Jerry,Louie-McGee,TD,0
+11592008,8/31/2019,FCS,Montana,South Dakota,RUSHING,Jerry,Louie-McGee,LONG,14
+11592009,8/31/2019,FCS,Montana,South Dakota,RUSHING,Adam,Eastwood,ATT,8
+11592010,8/31/2019,FCS,Montana,South Dakota,RUSHING,Adam,Eastwood,YDS,14
+11592011,8/31/2019,FCS,Montana,South Dakota,RUSHING,Adam,Eastwood,TD,0
+11592012,8/31/2019,FCS,Montana,South Dakota,RUSHING,Adam,Eastwood,LONG,4
+11592013,8/31/2019,FCS,Montana,South Dakota,RUSHING,Dalton,Sneed,ATT,10
+11592014,8/31/2019,FCS,Montana,South Dakota,RUSHING,Dalton,Sneed,YDS,11
+11592015,8/31/2019,FCS,Montana,South Dakota,RUSHING,Dalton,Sneed,TD,1
+11592016,8/31/2019,FCS,Montana,South Dakota,RUSHING,Dalton,Sneed,LONG,8
+11592017,8/31/2019,FCS,Montana,South Dakota,RUSHING,,Team,ATT,3
+11592018,8/31/2019,FCS,Montana,South Dakota,RUSHING,,Team,YDS,-3
+11592019,8/31/2019,FCS,Montana,South Dakota,RUSHING,,Team,TD,0
+11592020,8/31/2019,FCS,Montana,South Dakota,RUSHING,,Team,LONG,0
+11592021,8/31/2019,FCS,Montana,South Dakota,PASSING,Dalton,Sneed,CP-ATT-INT,37-52-2
+11592022,8/31/2019,FCS,Montana,South Dakota,PASSING,Dalton,Sneed,YDS,427
+11592023,8/31/2019,FCS,Montana,South Dakota,PASSING,Dalton,Sneed,TD,3
+11592024,8/31/2019,FCS,Montana,South Dakota,PASSING,Dalton,Sneed,LONG,45
+11592025,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Samuel,Akem,REC,9
+11592026,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Samuel,Akem,YDS,158
+11592027,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Samuel,Akem,TD,1
+11592028,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Samuel,Akem,LONG,43
+11592029,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Samori,Toure,REC,9
+11592030,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Samori,Toure,YDS,142
+11592031,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Samori,Toure,TD,1
+11592032,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Samori,Toure,LONG,45
+11592033,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Jerry,Louie-McGee,REC,8
+11592034,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Jerry,Louie-McGee,YDS,41
+11592035,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Jerry,Louie-McGee,TD,0
+11592036,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Jerry,Louie-McGee,LONG,11
+11592037,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Adam,Eastwood,REC,3
+11592038,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Adam,Eastwood,YDS,29
+11592039,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Adam,Eastwood,TD,0
+11592040,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Adam,Eastwood,LONG,16
+11592041,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Marcus,Knight,REC,2
+11592042,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Marcus,Knight,YDS,21
+11592043,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Marcus,Knight,TD,1
+11592044,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Marcus,Knight,LONG,15
+11592045,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Gabe,Sulser,REC,2
+11592046,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Gabe,Sulser,YDS,16
+11592047,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Gabe,Sulser,TD,0
+11592048,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Gabe,Sulser,LONG,13
+11592049,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Bryson,Deming,REC,1
+11592050,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Bryson,Deming,YDS,8
+11592051,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Bryson,Deming,TD,0
+11592052,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Bryson,Deming,LONG,8
+11592053,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Matt,Rensvold,REC,1
+11592054,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Matt,Rensvold,YDS,6
+11592055,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Matt,Rensvold,TD,0
+11592056,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Matt,Rensvold,LONG,6
+11592057,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Colin,Bingham,REC,1
+11592058,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Colin,Bingham,YDS,5
+11592059,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Colin,Bingham,TD,0
+11592060,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Colin,Bingham,LONG,5
+11592061,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Mitch,Roberts,REC,1
+11592062,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Mitch,Roberts,YDS,1
+11592063,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Mitch,Roberts,TD,0
+11592064,8/31/2019,FCS,Montana,South Dakota,RECEIVING,Mitch,Roberts,LONG,1
+11592065,8/31/2019,FCS,Montana,South Dakota,KICKING,Brandon,Purdy,FG-FGA,1/2
+11592066,8/31/2019,FCS,Montana,South Dakota,KICKING,Brandon,Purdy,LONG,43
+11592067,8/31/2019,FCS,Montana,South Dakota,KICKING,Brandon,Purdy,XP,4
+11592068,8/31/2019,FCS,Montana,South Dakota,KICKING,Brandon,Purdy,PTS,7
+11592069,8/31/2019,FCS,Montana,South Dakota,PUNTING,Adam,Wilson,NO,2
+11592070,8/31/2019,FCS,Montana,South Dakota,PUNTING,Adam,Wilson,YDS,87
+11592071,8/31/2019,FCS,Montana,South Dakota,PUNTING,Adam,Wilson,AVG,43.5
+11592072,8/31/2019,FCS,Montana,South Dakota,PUNTING,Adam,Wilson,LONG,45
+11592073,8/31/2019,FCS,Montana,South Dakota,PUNT RETURNS,Jerry,Louie-McGee,NO,1
+11592074,8/31/2019,FCS,Montana,South Dakota,PUNT RETURNS,Jerry,Louie-McGee,YDS,6
+11592075,8/31/2019,FCS,Montana,South Dakota,PUNT RETURNS,Jerry,Louie-McGee,AVG,6.0
+11592076,8/31/2019,FCS,Montana,South Dakota,PUNT RETURNS,Jerry,Louie-McGee,LONG,6
+11592077,8/31/2019,FCS,Montana,South Dakota,KICK RETURNS,Malik,Flowers,NO,4
+11592078,8/31/2019,FCS,Montana,South Dakota,KICK RETURNS,Malik,Flowers,YDS,116
+11592079,8/31/2019,FCS,Montana,South Dakota,KICK RETURNS,Malik,Flowers,AVG,29.0
+11592080,8/31/2019,FCS,Montana,South Dakota,KICK RETURNS,Malik,Flowers,LONG,34
+11592081,8/31/2019,FCS,Montana,South Dakota,DEFENSE,Jace,Lewis,TOT,0
+11592082,8/31/2019,FCS,Montana,South Dakota,DEFENSE,Jace,Lewis,SOLO,0
+11592083,8/31/2019,FCS,Montana,South Dakota,DEFENSE,Jace,Lewis,SACKS,1
+11592084,8/31/2019,FCS,Montana,South Dakota,DEFENSE,Jace,Lewis,TFL,0
+11592085,8/31/2019,FCS,Montana,South Dakota,DEFENSE,Jace,Lewis,INT,0
+11592086,8/31/2019,FCS,Montana,South Dakota,DEFENSE,Jace,Lewis,FF,0
+11592087,8/31/2019,FCS,Montana,South Dakota,DEFENSE,Jace,Lewis,FR,0
+11592088,8/31/2019,FCS,Montana,South Dakota,DEFENSE,Justin,Calhoun,TOT,0
+11592089,8/31/2019,FCS,Montana,South Dakota,DEFENSE,Justin,Calhoun,SOLO,0
+11592090,8/31/2019,FCS,Montana,South Dakota,DEFENSE,Justin,Calhoun,SACKS,0
+11592091,8/31/2019,FCS,Montana,South Dakota,DEFENSE,Justin,Calhoun,TFL,0
+11592092,8/31/2019,FCS,Montana,South Dakota,DEFENSE,Justin,Calhoun,INT,1
+11592093,8/31/2019,FCS,Montana,South Dakota,DEFENSE,Justin,Calhoun,FF,0
+11592094,8/31/2019,FCS,Montana,South Dakota,DEFENSE,Justin,Calhoun,FR,0
+11592095,8/31/2019,FCS,South Dakota,Montana,RUSHING,Canaan,Brooks,ATT,13
+11592096,8/31/2019,FCS,South Dakota,Montana,RUSHING,Canaan,Brooks,YDS,41
+11592097,8/31/2019,FCS,South Dakota,Montana,RUSHING,Canaan,Brooks,TD,0
+11592098,8/31/2019,FCS,South Dakota,Montana,RUSHING,Canaan,Brooks,LONG,19
+11592099,8/31/2019,FCS,South Dakota,Montana,RUSHING,Kai,Henry,ATT,4
+11592100,8/31/2019,FCS,South Dakota,Montana,RUSHING,Kai,Henry,YDS,29
+11592101,8/31/2019,FCS,South Dakota,Montana,RUSHING,Kai,Henry,TD,0
+11592102,8/31/2019,FCS,South Dakota,Montana,RUSHING,Kai,Henry,LONG,17
+11592103,8/31/2019,FCS,South Dakota,Montana,RUSHING,Austin,Simmons,ATT,9
+11592104,8/31/2019,FCS,South Dakota,Montana,RUSHING,Austin,Simmons,YDS,25
+11592105,8/31/2019,FCS,South Dakota,Montana,RUSHING,Austin,Simmons,TD,0
+11592106,8/31/2019,FCS,South Dakota,Montana,RUSHING,Austin,Simmons,LONG,21
+11592107,8/31/2019,FCS,South Dakota,Montana,RUSHING,Trey,Rodriguez,ATT,4
+11592108,8/31/2019,FCS,South Dakota,Montana,RUSHING,Trey,Rodriguez,YDS,11
+11592109,8/31/2019,FCS,South Dakota,Montana,RUSHING,Trey,Rodriguez,TD,0
+11592110,8/31/2019,FCS,South Dakota,Montana,RUSHING,Trey,Rodriguez,LONG,5
+11592111,8/31/2019,FCS,South Dakota,Montana,PASSING,Austin,Simmons,CP-ATT-INT,23-33-1
+11592112,8/31/2019,FCS,South Dakota,Montana,PASSING,Austin,Simmons,YDS,246
+11592113,8/31/2019,FCS,South Dakota,Montana,PASSING,Austin,Simmons,TD,2
+11592114,8/31/2019,FCS,South Dakota,Montana,PASSING,Austin,Simmons,LONG,31
+11592115,8/31/2019,FCS,South Dakota,Montana,RECEIVING,Kody,Case,REC,11
+11592116,8/31/2019,FCS,South Dakota,Montana,RECEIVING,Kody,Case,YDS,144
+11592117,8/31/2019,FCS,South Dakota,Montana,RECEIVING,Kody,Case,TD,2
+11592118,8/31/2019,FCS,South Dakota,Montana,RECEIVING,Kody,Case,LONG,30
+11592119,8/31/2019,FCS,South Dakota,Montana,RECEIVING,Caleb,VanderEsch,REC,4
+11592120,8/31/2019,FCS,South Dakota,Montana,RECEIVING,Caleb,VanderEsch,YDS,38
+11592121,8/31/2019,FCS,South Dakota,Montana,RECEIVING,Caleb,VanderEsch,TD,0
+11592122,8/31/2019,FCS,South Dakota,Montana,RECEIVING,Caleb,VanderEsch,LONG,31
+11592123,8/31/2019,FCS,South Dakota,Montana,RECEIVING,Dakarai,Allen,REC,2
+11592124,8/31/2019,FCS,South Dakota,Montana,RECEIVING,Dakarai,Allen,YDS,17
+11592125,8/31/2019,FCS,South Dakota,Montana,RECEIVING,Dakarai,Allen,TD,0
+11592126,8/31/2019,FCS,South Dakota,Montana,RECEIVING,Dakarai,Allen,LONG,11
+11592127,8/31/2019,FCS,South Dakota,Montana,RECEIVING,Kai,Henry,REC,1
+11592128,8/31/2019,FCS,South Dakota,Montana,RECEIVING,Kai,Henry,YDS,16
+11592129,8/31/2019,FCS,South Dakota,Montana,RECEIVING,Kai,Henry,TD,0
+11592130,8/31/2019,FCS,South Dakota,Montana,RECEIVING,Kai,Henry,LONG,16
+11592131,8/31/2019,FCS,South Dakota,Montana,RECEIVING,Trey,Rodriguez,REC,1
+11592132,8/31/2019,FCS,South Dakota,Montana,RECEIVING,Trey,Rodriguez,YDS,9
+11592133,8/31/2019,FCS,South Dakota,Montana,RECEIVING,Trey,Rodriguez,TD,0
+11592134,8/31/2019,FCS,South Dakota,Montana,RECEIVING,Trey,Rodriguez,LONG,9
+11592135,8/31/2019,FCS,South Dakota,Montana,RECEIVING,Levi,Falck,REC,1
+11592136,8/31/2019,FCS,South Dakota,Montana,RECEIVING,Levi,Falck,YDS,8
+11592137,8/31/2019,FCS,South Dakota,Montana,RECEIVING,Levi,Falck,TD,0
+11592138,8/31/2019,FCS,South Dakota,Montana,RECEIVING,Levi,Falck,LONG,8
+11592139,8/31/2019,FCS,South Dakota,Montana,RECEIVING,Canaan,Brooks,REC,1
+11592140,8/31/2019,FCS,South Dakota,Montana,RECEIVING,Canaan,Brooks,YDS,8
+11592141,8/31/2019,FCS,South Dakota,Montana,RECEIVING,Canaan,Brooks,TD,0
+11592142,8/31/2019,FCS,South Dakota,Montana,RECEIVING,Canaan,Brooks,LONG,8
+11592143,8/31/2019,FCS,South Dakota,Montana,RECEIVING,Austin,Goehring,REC,1
+11592144,8/31/2019,FCS,South Dakota,Montana,RECEIVING,Austin,Goehring,YDS,4
+11592145,8/31/2019,FCS,South Dakota,Montana,RECEIVING,Austin,Goehring,TD,0
+11592146,8/31/2019,FCS,South Dakota,Montana,RECEIVING,Austin,Goehring,LONG,4
+11592147,8/31/2019,FCS,South Dakota,Montana,RECEIVING,Connor,Herrmann,REC,1
+11592148,8/31/2019,FCS,South Dakota,Montana,RECEIVING,Connor,Herrmann,YDS,2
+11592149,8/31/2019,FCS,South Dakota,Montana,RECEIVING,Connor,Herrmann,TD,0
+11592150,8/31/2019,FCS,South Dakota,Montana,RECEIVING,Connor,Herrmann,LONG,2
+11592151,8/31/2019,FCS,South Dakota,Montana,KICKING,Mason,Lorber,FG-FGA,1/1
+11592152,8/31/2019,FCS,South Dakota,Montana,KICKING,Mason,Lorber,LONG,20
+11592153,8/31/2019,FCS,South Dakota,Montana,KICKING,Mason,Lorber,XP,2
+11592154,8/31/2019,FCS,South Dakota,Montana,KICKING,Mason,Lorber,PTS,5
+11592155,8/31/2019,FCS,South Dakota,Montana,PUNTING,Brady,Schutt,NO,4
+11592156,8/31/2019,FCS,South Dakota,Montana,PUNTING,Brady,Schutt,YDS,197
+11592157,8/31/2019,FCS,South Dakota,Montana,PUNTING,Brady,Schutt,AVG,49.2
+11592158,8/31/2019,FCS,South Dakota,Montana,PUNTING,Brady,Schutt,LONG,61
+11592159,8/31/2019,FCS,South Dakota,Montana,KICK RETURNS,Canaan,Brooks,NO,1
+11592160,8/31/2019,FCS,South Dakota,Montana,KICK RETURNS,Canaan,Brooks,YDS,22
+11592161,8/31/2019,FCS,South Dakota,Montana,KICK RETURNS,Canaan,Brooks,AVG,22.0
+11592162,8/31/2019,FCS,South Dakota,Montana,KICK RETURNS,Canaan,Brooks,LONG,22
+11592163,8/31/2019,FCS,South Dakota,Montana,KICK RETURNS,Caleb,VanderEsch,NO,1
+11592164,8/31/2019,FCS,South Dakota,Montana,KICK RETURNS,Caleb,VanderEsch,YDS,22
+11592165,8/31/2019,FCS,South Dakota,Montana,KICK RETURNS,Caleb,VanderEsch,AVG,22.0
+11592166,8/31/2019,FCS,South Dakota,Montana,KICK RETURNS,Caleb,VanderEsch,LONG,22
+11592167,8/31/2019,FCS,South Dakota,Montana,KICK RETURNS,Trey,Rodriguez,NO,1
+11592168,8/31/2019,FCS,South Dakota,Montana,KICK RETURNS,Trey,Rodriguez,YDS,20
+11592169,8/31/2019,FCS,South Dakota,Montana,KICK RETURNS,Trey,Rodriguez,AVG,20.0
+11592170,8/31/2019,FCS,South Dakota,Montana,KICK RETURNS,Trey,Rodriguez,LONG,20
+11592171,8/31/2019,FCS,South Dakota,Montana,DEFENSE,Jackson,Coker,TOT,0
+11592172,8/31/2019,FCS,South Dakota,Montana,DEFENSE,Jackson,Coker,SOLO,0
+11592173,8/31/2019,FCS,South Dakota,Montana,DEFENSE,Jackson,Coker,SACKS,0
+11592174,8/31/2019,FCS,South Dakota,Montana,DEFENSE,Jackson,Coker,TFL,0
+11592175,8/31/2019,FCS,South Dakota,Montana,DEFENSE,Jackson,Coker,INT,0
+11592176,8/31/2019,FCS,South Dakota,Montana,DEFENSE,Jackson,Coker,FF,1
+11592177,8/31/2019,FCS,South Dakota,Montana,DEFENSE,Jackson,Coker,FR,0
+11592178,8/31/2019,FCS,South Dakota,Montana,DEFENSE,DeValon,Whitcomb,TOT,0
+11592179,8/31/2019,FCS,South Dakota,Montana,DEFENSE,DeValon,Whitcomb,SOLO,0
+11592180,8/31/2019,FCS,South Dakota,Montana,DEFENSE,DeValon,Whitcomb,SACKS,1
+11592181,8/31/2019,FCS,South Dakota,Montana,DEFENSE,DeValon,Whitcomb,TFL,0
+11592182,8/31/2019,FCS,South Dakota,Montana,DEFENSE,DeValon,Whitcomb,INT,0
+11592183,8/31/2019,FCS,South Dakota,Montana,DEFENSE,DeValon,Whitcomb,FF,0
+11592184,8/31/2019,FCS,South Dakota,Montana,DEFENSE,DeValon,Whitcomb,FR,0
+11592185,8/31/2019,FCS,South Dakota,Montana,DEFENSE,Jack,Cochrane,TOT,0
+11592186,8/31/2019,FCS,South Dakota,Montana,DEFENSE,Jack,Cochrane,SOLO,0
+11592187,8/31/2019,FCS,South Dakota,Montana,DEFENSE,Jack,Cochrane,SACKS,0
+11592188,8/31/2019,FCS,South Dakota,Montana,DEFENSE,Jack,Cochrane,TFL,0
+11592189,8/31/2019,FCS,South Dakota,Montana,DEFENSE,Jack,Cochrane,INT,1
+11592190,8/31/2019,FCS,South Dakota,Montana,DEFENSE,Jack,Cochrane,FF,0
+11592191,8/31/2019,FCS,South Dakota,Montana,DEFENSE,Jack,Cochrane,FR,0
+11592192,8/31/2019,FCS,South Dakota,Montana,DEFENSE,Dakota,Smith,TOT,0
+11592193,8/31/2019,FCS,South Dakota,Montana,DEFENSE,Dakota,Smith,SOLO,0
+11592194,8/31/2019,FCS,South Dakota,Montana,DEFENSE,Dakota,Smith,SACKS,1
+11592195,8/31/2019,FCS,South Dakota,Montana,DEFENSE,Dakota,Smith,TFL,0
+11592196,8/31/2019,FCS,South Dakota,Montana,DEFENSE,Dakota,Smith,INT,0
+11592197,8/31/2019,FCS,South Dakota,Montana,DEFENSE,Dakota,Smith,FF,0
+11592198,8/31/2019,FCS,South Dakota,Montana,DEFENSE,Dakota,Smith,FR,0
+11592199,8/31/2019,FCS,South Dakota,Montana,DEFENSE,Mark,CollinsJr.,TOT,0
+11592200,8/31/2019,FCS,South Dakota,Montana,DEFENSE,Mark,CollinsJr.,SOLO,0
+11592201,8/31/2019,FCS,South Dakota,Montana,DEFENSE,Mark,CollinsJr.,SACKS,0
+11592202,8/31/2019,FCS,South Dakota,Montana,DEFENSE,Mark,CollinsJr.,TFL,0
+11592203,8/31/2019,FCS,South Dakota,Montana,DEFENSE,Mark,CollinsJr.,INT,1
+11592204,8/31/2019,FCS,South Dakota,Montana,DEFENSE,Mark,CollinsJr.,FF,0
+11592205,8/31/2019,FCS,South Dakota,Montana,DEFENSE,Mark,CollinsJr.,FR,0

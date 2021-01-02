@@ -1,0 +1,153 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9999001,8/26/2017,FCS,Texas Southern,Florida A&M,RUSHING,Jay,Christophe,ATT,10
+9999002,8/26/2017,FCS,Texas Southern,Florida A&M,RUSHING,Jay,Christophe,YDS,29
+9999003,8/26/2017,FCS,Texas Southern,Florida A&M,RUSHING,Jay,Christophe,TD,0
+9999004,8/26/2017,FCS,Texas Southern,Florida A&M,RUSHING,Jay,Christophe,LONG,13
+9999005,8/26/2017,FCS,Texas Southern,Florida A&M,RUSHING,Brad,Woodard,ATT,5
+9999006,8/26/2017,FCS,Texas Southern,Florida A&M,RUSHING,Brad,Woodard,YDS,25
+9999007,8/26/2017,FCS,Texas Southern,Florida A&M,RUSHING,Brad,Woodard,TD,0
+9999008,8/26/2017,FCS,Texas Southern,Florida A&M,RUSHING,Brad,Woodard,LONG,10
+9999009,8/26/2017,FCS,Texas Southern,Florida A&M,RUSHING,Mario,Smalls,ATT,1
+9999010,8/26/2017,FCS,Texas Southern,Florida A&M,RUSHING,Mario,Smalls,YDS,8
+9999011,8/26/2017,FCS,Texas Southern,Florida A&M,RUSHING,Mario,Smalls,TD,0
+9999012,8/26/2017,FCS,Texas Southern,Florida A&M,RUSHING,Mario,Smalls,LONG,8
+9999013,8/26/2017,FCS,Texas Southern,Florida A&M,RUSHING,Matthew,Butler,ATT,2
+9999014,8/26/2017,FCS,Texas Southern,Florida A&M,RUSHING,Matthew,Butler,YDS,0
+9999015,8/26/2017,FCS,Texas Southern,Florida A&M,RUSHING,Matthew,Butler,TD,0
+9999016,8/26/2017,FCS,Texas Southern,Florida A&M,RUSHING,Matthew,Butler,LONG,4
+9999017,8/26/2017,FCS,Texas Southern,Florida A&M,PASSING,Jay,Christophe,CP-ATT-INT,12-39-1
+9999018,8/26/2017,FCS,Texas Southern,Florida A&M,PASSING,Jay,Christophe,YDS,140
+9999019,8/26/2017,FCS,Texas Southern,Florida A&M,PASSING,Jay,Christophe,TD,1
+9999020,8/26/2017,FCS,Texas Southern,Florida A&M,PASSING,Jay,Christophe,LONG,44
+9999021,8/26/2017,FCS,Texas Southern,Florida A&M,RECEIVING,DeAndre,Angelle,REC,4
+9999022,8/26/2017,FCS,Texas Southern,Florida A&M,RECEIVING,DeAndre,Angelle,YDS,70
+9999023,8/26/2017,FCS,Texas Southern,Florida A&M,RECEIVING,DeAndre,Angelle,TD,0
+9999024,8/26/2017,FCS,Texas Southern,Florida A&M,RECEIVING,DeAndre,Angelle,LONG,44
+9999025,8/26/2017,FCS,Texas Southern,Florida A&M,RECEIVING,Darvin,Kidsy,REC,3
+9999026,8/26/2017,FCS,Texas Southern,Florida A&M,RECEIVING,Darvin,Kidsy,YDS,49
+9999027,8/26/2017,FCS,Texas Southern,Florida A&M,RECEIVING,Darvin,Kidsy,TD,1
+9999028,8/26/2017,FCS,Texas Southern,Florida A&M,RECEIVING,Darvin,Kidsy,LONG,30
+9999029,8/26/2017,FCS,Texas Southern,Florida A&M,RECEIVING,Tony,Upchurch,REC,2
+9999030,8/26/2017,FCS,Texas Southern,Florida A&M,RECEIVING,Tony,Upchurch,YDS,13
+9999031,8/26/2017,FCS,Texas Southern,Florida A&M,RECEIVING,Tony,Upchurch,TD,0
+9999032,8/26/2017,FCS,Texas Southern,Florida A&M,RECEIVING,Tony,Upchurch,LONG,9
+9999033,8/26/2017,FCS,Texas Southern,Florida A&M,RECEIVING,Brad,Woodard,REC,1
+9999034,8/26/2017,FCS,Texas Southern,Florida A&M,RECEIVING,Brad,Woodard,YDS,5
+9999035,8/26/2017,FCS,Texas Southern,Florida A&M,RECEIVING,Brad,Woodard,TD,0
+9999036,8/26/2017,FCS,Texas Southern,Florida A&M,RECEIVING,Brad,Woodard,LONG,5
+9999037,8/26/2017,FCS,Texas Southern,Florida A&M,RECEIVING,Mario,Smalls,REC,1
+9999038,8/26/2017,FCS,Texas Southern,Florida A&M,RECEIVING,Mario,Smalls,YDS,3
+9999039,8/26/2017,FCS,Texas Southern,Florida A&M,RECEIVING,Mario,Smalls,TD,0
+9999040,8/26/2017,FCS,Texas Southern,Florida A&M,RECEIVING,Mario,Smalls,LONG,3
+9999041,8/26/2017,FCS,Texas Southern,Florida A&M,RECEIVING,Tracy,Johnson,REC,1
+9999042,8/26/2017,FCS,Texas Southern,Florida A&M,RECEIVING,Tracy,Johnson,YDS,0
+9999043,8/26/2017,FCS,Texas Southern,Florida A&M,RECEIVING,Tracy,Johnson,TD,0
+9999044,8/26/2017,FCS,Texas Southern,Florida A&M,RECEIVING,Tracy,Johnson,LONG,0
+9999045,8/26/2017,FCS,Texas Southern,Florida A&M,KICKING,Aaron,Cuevas,FG-FGA,0/0
+9999046,8/26/2017,FCS,Texas Southern,Florida A&M,KICKING,Aaron,Cuevas,LONG,-
+9999047,8/26/2017,FCS,Texas Southern,Florida A&M,KICKING,Aaron,Cuevas,XP,1
+9999048,8/26/2017,FCS,Texas Southern,Florida A&M,KICKING,Aaron,Cuevas,PTS,1
+9999049,8/26/2017,FCS,Texas Southern,Florida A&M,PUNTING,Donald,Halstead,NO,9
+9999050,8/26/2017,FCS,Texas Southern,Florida A&M,PUNTING,Donald,Halstead,YDS,350
+9999051,8/26/2017,FCS,Texas Southern,Florida A&M,PUNTING,Donald,Halstead,AVG,38.9
+9999052,8/26/2017,FCS,Texas Southern,Florida A&M,PUNTING,Donald,Halstead,LONG,61
+9999053,8/26/2017,FCS,Texas Southern,Florida A&M,KICK RETURNS,Tylor,Cook,NO,3
+9999054,8/26/2017,FCS,Texas Southern,Florida A&M,KICK RETURNS,Tylor,Cook,YDS,49
+9999055,8/26/2017,FCS,Texas Southern,Florida A&M,KICK RETURNS,Tylor,Cook,AVG,16.3
+9999056,8/26/2017,FCS,Texas Southern,Florida A&M,KICK RETURNS,Tylor,Cook,LONG,18
+9999057,8/26/2017,FCS,Texas Southern,Florida A&M,KICK RETURNS,Terio,Brown,NO,2
+9999058,8/26/2017,FCS,Texas Southern,Florida A&M,KICK RETURNS,Terio,Brown,YDS,14
+9999059,8/26/2017,FCS,Texas Southern,Florida A&M,KICK RETURNS,Terio,Brown,AVG,7.0
+9999060,8/26/2017,FCS,Texas Southern,Florida A&M,KICK RETURNS,Terio,Brown,LONG,16
+9999061,8/26/2017,FCS,Florida A&M,Texas Southern,RUSHING,Ricky,Henrilus,ATT,14
+9999062,8/26/2017,FCS,Florida A&M,Texas Southern,RUSHING,Ricky,Henrilus,YDS,81
+9999063,8/26/2017,FCS,Florida A&M,Texas Southern,RUSHING,Ricky,Henrilus,TD,0
+9999064,8/26/2017,FCS,Florida A&M,Texas Southern,RUSHING,Ricky,Henrilus,LONG,19
+9999065,8/26/2017,FCS,Florida A&M,Texas Southern,RUSHING,Devin,Bowers,ATT,15
+9999066,8/26/2017,FCS,Florida A&M,Texas Southern,RUSHING,Devin,Bowers,YDS,41
+9999067,8/26/2017,FCS,Florida A&M,Texas Southern,RUSHING,Devin,Bowers,TD,1
+9999068,8/26/2017,FCS,Florida A&M,Texas Southern,RUSHING,Devin,Bowers,LONG,11
+9999069,8/26/2017,FCS,Florida A&M,Texas Southern,RUSHING,Bishop,Bonnet,ATT,2
+9999070,8/26/2017,FCS,Florida A&M,Texas Southern,RUSHING,Bishop,Bonnet,YDS,23
+9999071,8/26/2017,FCS,Florida A&M,Texas Southern,RUSHING,Bishop,Bonnet,TD,0
+9999072,8/26/2017,FCS,Florida A&M,Texas Southern,RUSHING,Bishop,Bonnet,LONG,17
+9999073,8/26/2017,FCS,Florida A&M,Texas Southern,RUSHING,Ryan,Stanley,ATT,3
+9999074,8/26/2017,FCS,Florida A&M,Texas Southern,RUSHING,Ryan,Stanley,YDS,21
+9999075,8/26/2017,FCS,Florida A&M,Texas Southern,RUSHING,Ryan,Stanley,TD,1
+9999076,8/26/2017,FCS,Florida A&M,Texas Southern,RUSHING,Ryan,Stanley,LONG,9
+9999077,8/26/2017,FCS,Florida A&M,Texas Southern,RUSHING,Azende,Rey,ATT,5
+9999078,8/26/2017,FCS,Florida A&M,Texas Southern,RUSHING,Azende,Rey,YDS,16
+9999079,8/26/2017,FCS,Florida A&M,Texas Southern,RUSHING,Azende,Rey,TD,0
+9999080,8/26/2017,FCS,Florida A&M,Texas Southern,RUSHING,Azende,Rey,LONG,6
+9999081,8/26/2017,FCS,Florida A&M,Texas Southern,RUSHING,Vincent,Jeffries,ATT,1
+9999082,8/26/2017,FCS,Florida A&M,Texas Southern,RUSHING,Vincent,Jeffries,YDS,12
+9999083,8/26/2017,FCS,Florida A&M,Texas Southern,RUSHING,Vincent,Jeffries,TD,1
+9999084,8/26/2017,FCS,Florida A&M,Texas Southern,RUSHING,Vincent,Jeffries,LONG,12
+9999085,8/26/2017,FCS,Florida A&M,Texas Southern,RUSHING,Hans,Supre,ATT,1
+9999086,8/26/2017,FCS,Florida A&M,Texas Southern,RUSHING,Hans,Supre,YDS,1
+9999087,8/26/2017,FCS,Florida A&M,Texas Southern,RUSHING,Hans,Supre,TD,0
+9999088,8/26/2017,FCS,Florida A&M,Texas Southern,RUSHING,Hans,Supre,LONG,1
+9999089,8/26/2017,FCS,Florida A&M,Texas Southern,RUSHING,,Team,ATT,1
+9999090,8/26/2017,FCS,Florida A&M,Texas Southern,RUSHING,,Team,YDS,-2
+9999091,8/26/2017,FCS,Florida A&M,Texas Southern,RUSHING,,Team,TD,0
+9999092,8/26/2017,FCS,Florida A&M,Texas Southern,RUSHING,,Team,LONG,0
+9999093,8/26/2017,FCS,Florida A&M,Texas Southern,PASSING,Ryan,Stanley,CP-ATT-INT,19-32-0
+9999094,8/26/2017,FCS,Florida A&M,Texas Southern,PASSING,Ryan,Stanley,YDS,217
+9999095,8/26/2017,FCS,Florida A&M,Texas Southern,PASSING,Ryan,Stanley,TD,1
+9999096,8/26/2017,FCS,Florida A&M,Texas Southern,PASSING,Ryan,Stanley,LONG,35
+9999097,8/26/2017,FCS,Florida A&M,Texas Southern,PASSING,Vincent,Jeffries,CP-ATT-INT,1-6-0
+9999098,8/26/2017,FCS,Florida A&M,Texas Southern,PASSING,Vincent,Jeffries,YDS,5
+9999099,8/26/2017,FCS,Florida A&M,Texas Southern,PASSING,Vincent,Jeffries,TD,0
+9999100,8/26/2017,FCS,Florida A&M,Texas Southern,PASSING,Vincent,Jeffries,LONG,5
+9999101,8/26/2017,FCS,Florida A&M,Texas Southern,RECEIVING,Brandon,Norwood,REC,5
+9999102,8/26/2017,FCS,Florida A&M,Texas Southern,RECEIVING,Brandon,Norwood,YDS,63
+9999103,8/26/2017,FCS,Florida A&M,Texas Southern,RECEIVING,Brandon,Norwood,TD,1
+9999104,8/26/2017,FCS,Florida A&M,Texas Southern,RECEIVING,Brandon,Norwood,LONG,35
+9999105,8/26/2017,FCS,Florida A&M,Texas Southern,RECEIVING,Marcus,Williams,REC,3
+9999106,8/26/2017,FCS,Florida A&M,Texas Southern,RECEIVING,Marcus,Williams,YDS,51
+9999107,8/26/2017,FCS,Florida A&M,Texas Southern,RECEIVING,Marcus,Williams,TD,0
+9999108,8/26/2017,FCS,Florida A&M,Texas Southern,RECEIVING,Marcus,Williams,LONG,27
+9999109,8/26/2017,FCS,Florida A&M,Texas Southern,RECEIVING,Kareem,Smith,REC,3
+9999110,8/26/2017,FCS,Florida A&M,Texas Southern,RECEIVING,Kareem,Smith,YDS,38
+9999111,8/26/2017,FCS,Florida A&M,Texas Southern,RECEIVING,Kareem,Smith,TD,0
+9999112,8/26/2017,FCS,Florida A&M,Texas Southern,RECEIVING,Kareem,Smith,LONG,22
+9999113,8/26/2017,FCS,Florida A&M,Texas Southern,RECEIVING,Elijah,Jones,REC,3
+9999114,8/26/2017,FCS,Florida A&M,Texas Southern,RECEIVING,Elijah,Jones,YDS,24
+9999115,8/26/2017,FCS,Florida A&M,Texas Southern,RECEIVING,Elijah,Jones,TD,0
+9999116,8/26/2017,FCS,Florida A&M,Texas Southern,RECEIVING,Elijah,Jones,LONG,15
+9999117,8/26/2017,FCS,Florida A&M,Texas Southern,RECEIVING,Chaviss,Murphy,REC,1
+9999118,8/26/2017,FCS,Florida A&M,Texas Southern,RECEIVING,Chaviss,Murphy,YDS,16
+9999119,8/26/2017,FCS,Florida A&M,Texas Southern,RECEIVING,Chaviss,Murphy,TD,0
+9999120,8/26/2017,FCS,Florida A&M,Texas Southern,RECEIVING,Chaviss,Murphy,LONG,16
+9999121,8/26/2017,FCS,Florida A&M,Texas Southern,RECEIVING,Chad,Hunter,REC,2
+9999122,8/26/2017,FCS,Florida A&M,Texas Southern,RECEIVING,Chad,Hunter,YDS,11
+9999123,8/26/2017,FCS,Florida A&M,Texas Southern,RECEIVING,Chad,Hunter,TD,0
+9999124,8/26/2017,FCS,Florida A&M,Texas Southern,RECEIVING,Chad,Hunter,LONG,6
+9999125,8/26/2017,FCS,Florida A&M,Texas Southern,RECEIVING,Desmond,Noird,REC,1
+9999126,8/26/2017,FCS,Florida A&M,Texas Southern,RECEIVING,Desmond,Noird,YDS,9
+9999127,8/26/2017,FCS,Florida A&M,Texas Southern,RECEIVING,Desmond,Noird,TD,0
+9999128,8/26/2017,FCS,Florida A&M,Texas Southern,RECEIVING,Desmond,Noird,LONG,9
+9999129,8/26/2017,FCS,Florida A&M,Texas Southern,RECEIVING,Kevin,Newman,REC,1
+9999130,8/26/2017,FCS,Florida A&M,Texas Southern,RECEIVING,Kevin,Newman,YDS,8
+9999131,8/26/2017,FCS,Florida A&M,Texas Southern,RECEIVING,Kevin,Newman,TD,0
+9999132,8/26/2017,FCS,Florida A&M,Texas Southern,RECEIVING,Kevin,Newman,LONG,8
+9999133,8/26/2017,FCS,Florida A&M,Texas Southern,RECEIVING,Devin,Bowers,REC,1
+9999134,8/26/2017,FCS,Florida A&M,Texas Southern,RECEIVING,Devin,Bowers,YDS,2
+9999135,8/26/2017,FCS,Florida A&M,Texas Southern,RECEIVING,Devin,Bowers,TD,0
+9999136,8/26/2017,FCS,Florida A&M,Texas Southern,RECEIVING,Devin,Bowers,LONG,2
+9999137,8/26/2017,FCS,Florida A&M,Texas Southern,KICKING,Yahia,Aly,FG-FGA,0/1
+9999138,8/26/2017,FCS,Florida A&M,Texas Southern,KICKING,Yahia,Aly,LONG,0
+9999139,8/26/2017,FCS,Florida A&M,Texas Southern,KICKING,Yahia,Aly,XP,3
+9999140,8/26/2017,FCS,Florida A&M,Texas Southern,KICKING,Yahia,Aly,PTS,3
+9999141,8/26/2017,FCS,Florida A&M,Texas Southern,PUNTING,Chris,Faddoul,NO,4
+9999142,8/26/2017,FCS,Florida A&M,Texas Southern,PUNTING,Chris,Faddoul,YDS,144
+9999143,8/26/2017,FCS,Florida A&M,Texas Southern,PUNTING,Chris,Faddoul,AVG,36.0
+9999144,8/26/2017,FCS,Florida A&M,Texas Southern,PUNTING,Chris,Faddoul,LONG,44
+9999145,8/26/2017,FCS,Florida A&M,Texas Southern,PUNT RETURNS,Kareem,Smith,NO,5
+9999146,8/26/2017,FCS,Florida A&M,Texas Southern,PUNT RETURNS,Kareem,Smith,YDS,22
+9999147,8/26/2017,FCS,Florida A&M,Texas Southern,PUNT RETURNS,Kareem,Smith,AVG,4.4
+9999148,8/26/2017,FCS,Florida A&M,Texas Southern,PUNT RETURNS,Kareem,Smith,LONG,29
+9999149,8/26/2017,FCS,Florida A&M,Texas Southern,KICK RETURNS,Orlando,McKinley,NO,2
+9999150,8/26/2017,FCS,Florida A&M,Texas Southern,KICK RETURNS,Orlando,McKinley,YDS,52
+9999151,8/26/2017,FCS,Florida A&M,Texas Southern,KICK RETURNS,Orlando,McKinley,AVG,26.0
+9999152,8/26/2017,FCS,Florida A&M,Texas Southern,KICK RETURNS,Orlando,McKinley,LONG,27

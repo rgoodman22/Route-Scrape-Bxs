@@ -1,0 +1,65 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+8354001,11/22/2014,FCS,Villanova,Delaware,RUSHING,John,Robertson,ATT,23
+8354002,11/22/2014,FCS,Villanova,Delaware,RUSHING,John,Robertson,YDS,117
+8354003,11/22/2014,FCS,Villanova,Delaware,RUSHING,John,Robertson,TD,0
+8354004,11/22/2014,FCS,Villanova,Delaware,RUSHING,John,Robertson,LONG,19
+8354005,11/22/2014,FCS,Villanova,Delaware,RUSHING,Kevin,Monangai,ATT,17
+8354006,11/22/2014,FCS,Villanova,Delaware,RUSHING,Kevin,Monangai,YDS,71
+8354007,11/22/2014,FCS,Villanova,Delaware,RUSHING,Kevin,Monangai,TD,2
+8354008,11/22/2014,FCS,Villanova,Delaware,RUSHING,Kevin,Monangai,LONG,14
+8354009,11/22/2014,FCS,Villanova,Delaware,RUSHING,Aaron,Wells,ATT,2
+8354010,11/22/2014,FCS,Villanova,Delaware,RUSHING,Aaron,Wells,YDS,35
+8354011,11/22/2014,FCS,Villanova,Delaware,RUSHING,Aaron,Wells,TD,0
+8354012,11/22/2014,FCS,Villanova,Delaware,RUSHING,Aaron,Wells,LONG,31
+8354013,11/22/2014,FCS,Villanova,Delaware,RUSHING,Austin,Medley,ATT,2
+8354014,11/22/2014,FCS,Villanova,Delaware,RUSHING,Austin,Medley,YDS,7
+8354015,11/22/2014,FCS,Villanova,Delaware,RUSHING,Austin,Medley,TD,0
+8354016,11/22/2014,FCS,Villanova,Delaware,RUSHING,Austin,Medley,LONG,5
+8354017,11/22/2014,FCS,Villanova,Delaware,PASSING,John,Robertson,CP-ATT-INT,14-25-1
+8354018,11/22/2014,FCS,Villanova,Delaware,PASSING,John,Robertson,YDS,217
+8354019,11/22/2014,FCS,Villanova,Delaware,PASSING,John,Robertson,TD,3
+8354020,11/22/2014,FCS,Villanova,Delaware,PASSING,John,Robertson,LONG,45
+8354021,11/22/2014,FCS,Villanova,Delaware,RECEIVING,Poppy,Livers,REC,6
+8354022,11/22/2014,FCS,Villanova,Delaware,RECEIVING,Poppy,Livers,YDS,102
+8354023,11/22/2014,FCS,Villanova,Delaware,RECEIVING,Poppy,Livers,TD,1
+8354024,11/22/2014,FCS,Villanova,Delaware,RECEIVING,Poppy,Livers,LONG,42
+8354025,11/22/2014,FCS,Villanova,Delaware,RECEIVING,Aaron,Wells,REC,1
+8354026,11/22/2014,FCS,Villanova,Delaware,RECEIVING,Aaron,Wells,YDS,45
+8354027,11/22/2014,FCS,Villanova,Delaware,RECEIVING,Aaron,Wells,TD,0
+8354028,11/22/2014,FCS,Villanova,Delaware,RECEIVING,Aaron,Wells,LONG,45
+8354029,11/22/2014,FCS,Villanova,Delaware,RECEIVING,Kevin,Gulyas,REC,1
+8354030,11/22/2014,FCS,Villanova,Delaware,RECEIVING,Kevin,Gulyas,YDS,21
+8354031,11/22/2014,FCS,Villanova,Delaware,RECEIVING,Kevin,Gulyas,TD,1
+8354032,11/22/2014,FCS,Villanova,Delaware,RECEIVING,Kevin,Gulyas,LONG,21
+8354033,11/22/2014,FCS,Villanova,Delaware,RECEIVING,Clay,Horne,REC,1
+8354034,11/22/2014,FCS,Villanova,Delaware,RECEIVING,Clay,Horne,YDS,17
+8354035,11/22/2014,FCS,Villanova,Delaware,RECEIVING,Clay,Horne,TD,0
+8354036,11/22/2014,FCS,Villanova,Delaware,RECEIVING,Clay,Horne,LONG,17
+8354037,11/22/2014,FCS,Villanova,Delaware,RECEIVING,Earnest,Pettway,REC,2
+8354038,11/22/2014,FCS,Villanova,Delaware,RECEIVING,Earnest,Pettway,YDS,15
+8354039,11/22/2014,FCS,Villanova,Delaware,RECEIVING,Earnest,Pettway,TD,0
+8354040,11/22/2014,FCS,Villanova,Delaware,RECEIVING,Earnest,Pettway,LONG,11
+8354041,11/22/2014,FCS,Villanova,Delaware,RECEIVING,Anthony,DeCamillo,REC,1
+8354042,11/22/2014,FCS,Villanova,Delaware,RECEIVING,Anthony,DeCamillo,YDS,9
+8354043,11/22/2014,FCS,Villanova,Delaware,RECEIVING,Anthony,DeCamillo,TD,0
+8354044,11/22/2014,FCS,Villanova,Delaware,RECEIVING,Anthony,DeCamillo,LONG,9
+8354045,11/22/2014,FCS,Villanova,Delaware,RECEIVING,Kevin,Monangai,REC,2
+8354046,11/22/2014,FCS,Villanova,Delaware,RECEIVING,Kevin,Monangai,YDS,8
+8354047,11/22/2014,FCS,Villanova,Delaware,RECEIVING,Kevin,Monangai,TD,1
+8354048,11/22/2014,FCS,Villanova,Delaware,RECEIVING,Kevin,Monangai,LONG,5
+8354049,11/22/2014,FCS,Villanova,Delaware,KICKING,Steve,Weyler,FG-FGA,0/1
+8354050,11/22/2014,FCS,Villanova,Delaware,KICKING,Steve,Weyler,LONG,0
+8354051,11/22/2014,FCS,Villanova,Delaware,KICKING,Steve,Weyler,XP,3
+8354052,11/22/2014,FCS,Villanova,Delaware,KICKING,Steve,Weyler,PTS,3
+8354053,11/22/2014,FCS,Villanova,Delaware,PUNTING,John,Hinchen,NO,4
+8354054,11/22/2014,FCS,Villanova,Delaware,PUNTING,John,Hinchen,YDS,145
+8354055,11/22/2014,FCS,Villanova,Delaware,PUNTING,John,Hinchen,AVG,36.2
+8354056,11/22/2014,FCS,Villanova,Delaware,PUNTING,John,Hinchen,LONG,47
+8354057,11/22/2014,FCS,Villanova,Delaware,KICK RETURNS,Matt,Gudzak,NO,4
+8354058,11/22/2014,FCS,Villanova,Delaware,KICK RETURNS,Matt,Gudzak,YDS,79
+8354059,11/22/2014,FCS,Villanova,Delaware,KICK RETURNS,Matt,Gudzak,AVG,19.8
+8354060,11/22/2014,FCS,Villanova,Delaware,KICK RETURNS,Matt,Gudzak,LONG,25
+8354061,11/22/2014,FCS,Villanova,Delaware,KICK RETURNS,Joe,Sarnese,NO,1
+8354062,11/22/2014,FCS,Villanova,Delaware,KICK RETURNS,Joe,Sarnese,YDS,16
+8354063,11/22/2014,FCS,Villanova,Delaware,KICK RETURNS,Joe,Sarnese,AVG,16.0
+8354064,11/22/2014,FCS,Villanova,Delaware,KICK RETURNS,Joe,Sarnese,LONG,16

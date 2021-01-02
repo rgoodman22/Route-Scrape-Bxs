@@ -1,0 +1,157 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+10601001,11/4/2017,FCS,Houston Baptist,Nicholls State,RUSHING,Bailey,Zappe,ATT,12
+10601002,11/4/2017,FCS,Houston Baptist,Nicholls State,RUSHING,Bailey,Zappe,YDS,80
+10601003,11/4/2017,FCS,Houston Baptist,Nicholls State,RUSHING,Bailey,Zappe,TD,0
+10601004,11/4/2017,FCS,Houston Baptist,Nicholls State,RUSHING,Bailey,Zappe,LONG,43
+10601005,11/4/2017,FCS,Houston Baptist,Nicholls State,RUSHING,Terrance,PetersJr.,ATT,7
+10601006,11/4/2017,FCS,Houston Baptist,Nicholls State,RUSHING,Terrance,PetersJr.,YDS,38
+10601007,11/4/2017,FCS,Houston Baptist,Nicholls State,RUSHING,Terrance,PetersJr.,TD,0
+10601008,11/4/2017,FCS,Houston Baptist,Nicholls State,RUSHING,Terrance,PetersJr.,LONG,9
+10601009,11/4/2017,FCS,Houston Baptist,Nicholls State,RUSHING,Jack,Swenson,ATT,1
+10601010,11/4/2017,FCS,Houston Baptist,Nicholls State,RUSHING,Jack,Swenson,YDS,16
+10601011,11/4/2017,FCS,Houston Baptist,Nicholls State,RUSHING,Jack,Swenson,TD,0
+10601012,11/4/2017,FCS,Houston Baptist,Nicholls State,RUSHING,Jack,Swenson,LONG,16
+10601013,11/4/2017,FCS,Houston Baptist,Nicholls State,RUSHING,B.J.,Kelly,ATT,14
+10601014,11/4/2017,FCS,Houston Baptist,Nicholls State,RUSHING,B.J.,Kelly,YDS,7
+10601015,11/4/2017,FCS,Houston Baptist,Nicholls State,RUSHING,B.J.,Kelly,TD,1
+10601016,11/4/2017,FCS,Houston Baptist,Nicholls State,RUSHING,B.J.,Kelly,LONG,5
+10601017,11/4/2017,FCS,Houston Baptist,Nicholls State,RUSHING,James,Brown,ATT,5
+10601018,11/4/2017,FCS,Houston Baptist,Nicholls State,RUSHING,James,Brown,YDS,5
+10601019,11/4/2017,FCS,Houston Baptist,Nicholls State,RUSHING,James,Brown,TD,0
+10601020,11/4/2017,FCS,Houston Baptist,Nicholls State,RUSHING,James,Brown,LONG,5
+10601021,11/4/2017,FCS,Houston Baptist,Nicholls State,RUSHING,Isaiah,Hall,ATT,1
+10601022,11/4/2017,FCS,Houston Baptist,Nicholls State,RUSHING,Isaiah,Hall,YDS,5
+10601023,11/4/2017,FCS,Houston Baptist,Nicholls State,RUSHING,Isaiah,Hall,TD,0
+10601024,11/4/2017,FCS,Houston Baptist,Nicholls State,RUSHING,Isaiah,Hall,LONG,5
+10601025,11/4/2017,FCS,Houston Baptist,Nicholls State,PASSING,Bailey,Zappe,CP-ATT-INT,9-20-2
+10601026,11/4/2017,FCS,Houston Baptist,Nicholls State,PASSING,Bailey,Zappe,YDS,125
+10601027,11/4/2017,FCS,Houston Baptist,Nicholls State,PASSING,Bailey,Zappe,TD,1
+10601028,11/4/2017,FCS,Houston Baptist,Nicholls State,PASSING,Bailey,Zappe,LONG,35
+10601029,11/4/2017,FCS,Houston Baptist,Nicholls State,PASSING,Jack,Swenson,CP-ATT-INT,0-2-0
+10601030,11/4/2017,FCS,Houston Baptist,Nicholls State,PASSING,Jack,Swenson,YDS,0
+10601031,11/4/2017,FCS,Houston Baptist,Nicholls State,PASSING,Jack,Swenson,TD,0
+10601032,11/4/2017,FCS,Houston Baptist,Nicholls State,PASSING,Jack,Swenson,LONG,0
+10601033,11/4/2017,FCS,Houston Baptist,Nicholls State,PASSING,,Team,CP-ATT-INT,0-2-0
+10601034,11/4/2017,FCS,Houston Baptist,Nicholls State,PASSING,,Team,YDS,0
+10601035,11/4/2017,FCS,Houston Baptist,Nicholls State,PASSING,,Team,TD,0
+10601036,11/4/2017,FCS,Houston Baptist,Nicholls State,PASSING,,Team,LONG,0
+10601037,11/4/2017,FCS,Houston Baptist,Nicholls State,RECEIVING,Ethan,Fry,REC,7
+10601038,11/4/2017,FCS,Houston Baptist,Nicholls State,RECEIVING,Ethan,Fry,YDS,111
+10601039,11/4/2017,FCS,Houston Baptist,Nicholls State,RECEIVING,Ethan,Fry,TD,1
+10601040,11/4/2017,FCS,Houston Baptist,Nicholls State,RECEIVING,Ethan,Fry,LONG,35
+10601041,11/4/2017,FCS,Houston Baptist,Nicholls State,RECEIVING,Tyler,Kelly,REC,1
+10601042,11/4/2017,FCS,Houston Baptist,Nicholls State,RECEIVING,Tyler,Kelly,YDS,11
+10601043,11/4/2017,FCS,Houston Baptist,Nicholls State,RECEIVING,Tyler,Kelly,TD,0
+10601044,11/4/2017,FCS,Houston Baptist,Nicholls State,RECEIVING,Tyler,Kelly,LONG,11
+10601045,11/4/2017,FCS,Houston Baptist,Nicholls State,RECEIVING,Terrance,PetersJr.,REC,1
+10601046,11/4/2017,FCS,Houston Baptist,Nicholls State,RECEIVING,Terrance,PetersJr.,YDS,3
+10601047,11/4/2017,FCS,Houston Baptist,Nicholls State,RECEIVING,Terrance,PetersJr.,TD,0
+10601048,11/4/2017,FCS,Houston Baptist,Nicholls State,RECEIVING,Terrance,PetersJr.,LONG,3
+10601049,11/4/2017,FCS,Houston Baptist,Nicholls State,KICKING,Alec,Chadwick,FG-FGA,1/2
+10601050,11/4/2017,FCS,Houston Baptist,Nicholls State,KICKING,Alec,Chadwick,LONG,50
+10601051,11/4/2017,FCS,Houston Baptist,Nicholls State,KICKING,Alec,Chadwick,XP,2
+10601052,11/4/2017,FCS,Houston Baptist,Nicholls State,KICKING,Alec,Chadwick,PTS,5
+10601053,11/4/2017,FCS,Houston Baptist,Nicholls State,PUNTING,Christian,Guzman,NO,6
+10601054,11/4/2017,FCS,Houston Baptist,Nicholls State,PUNTING,Christian,Guzman,YDS,263
+10601055,11/4/2017,FCS,Houston Baptist,Nicholls State,PUNTING,Christian,Guzman,AVG,43.8
+10601056,11/4/2017,FCS,Houston Baptist,Nicholls State,PUNTING,Christian,Guzman,LONG,55
+10601057,11/4/2017,FCS,Houston Baptist,Nicholls State,PUNT RETURNS,Brandon,Taylor,NO,1
+10601058,11/4/2017,FCS,Houston Baptist,Nicholls State,PUNT RETURNS,Brandon,Taylor,YDS,12
+10601059,11/4/2017,FCS,Houston Baptist,Nicholls State,PUNT RETURNS,Brandon,Taylor,AVG,12.0
+10601060,11/4/2017,FCS,Houston Baptist,Nicholls State,PUNT RETURNS,Brandon,Taylor,LONG,12
+10601061,11/4/2017,FCS,Houston Baptist,Nicholls State,KICK RETURNS,Brandon,Taylor,NO,1
+10601062,11/4/2017,FCS,Houston Baptist,Nicholls State,KICK RETURNS,Brandon,Taylor,YDS,25
+10601063,11/4/2017,FCS,Houston Baptist,Nicholls State,KICK RETURNS,Brandon,Taylor,AVG,25.0
+10601064,11/4/2017,FCS,Houston Baptist,Nicholls State,KICK RETURNS,Brandon,Taylor,LONG,25
+10601065,11/4/2017,FCS,Houston Baptist,Nicholls State,KICK RETURNS,LaDarius,Dickens,NO,1
+10601066,11/4/2017,FCS,Houston Baptist,Nicholls State,KICK RETURNS,LaDarius,Dickens,YDS,19
+10601067,11/4/2017,FCS,Houston Baptist,Nicholls State,KICK RETURNS,LaDarius,Dickens,AVG,19.0
+10601068,11/4/2017,FCS,Houston Baptist,Nicholls State,KICK RETURNS,LaDarius,Dickens,LONG,19
+10601069,11/4/2017,FCS,Houston Baptist,Nicholls State,KICK RETURNS,James,Brown,NO,1
+10601070,11/4/2017,FCS,Houston Baptist,Nicholls State,KICK RETURNS,James,Brown,YDS,8
+10601071,11/4/2017,FCS,Houston Baptist,Nicholls State,KICK RETURNS,James,Brown,AVG,8.0
+10601072,11/4/2017,FCS,Houston Baptist,Nicholls State,KICK RETURNS,James,Brown,LONG,8
+10601073,11/4/2017,FCS,Nicholls State,Houston Baptist,RUSHING,Dontrell,Taylor,ATT,24
+10601074,11/4/2017,FCS,Nicholls State,Houston Baptist,RUSHING,Dontrell,Taylor,YDS,103
+10601075,11/4/2017,FCS,Nicholls State,Houston Baptist,RUSHING,Dontrell,Taylor,TD,1
+10601076,11/4/2017,FCS,Nicholls State,Houston Baptist,RUSHING,Dontrell,Taylor,LONG,18
+10601077,11/4/2017,FCS,Nicholls State,Houston Baptist,RUSHING,Kyran,Irvin,ATT,17
+10601078,11/4/2017,FCS,Nicholls State,Houston Baptist,RUSHING,Kyran,Irvin,YDS,61
+10601079,11/4/2017,FCS,Nicholls State,Houston Baptist,RUSHING,Kyran,Irvin,TD,0
+10601080,11/4/2017,FCS,Nicholls State,Houston Baptist,RUSHING,Kyran,Irvin,LONG,14
+10601081,11/4/2017,FCS,Nicholls State,Houston Baptist,RUSHING,Chase,Fourcade,ATT,6
+10601082,11/4/2017,FCS,Nicholls State,Houston Baptist,RUSHING,Chase,Fourcade,YDS,27
+10601083,11/4/2017,FCS,Nicholls State,Houston Baptist,RUSHING,Chase,Fourcade,TD,0
+10601084,11/4/2017,FCS,Nicholls State,Houston Baptist,RUSHING,Chase,Fourcade,LONG,10
+10601085,11/4/2017,FCS,Nicholls State,Houston Baptist,PASSING,Chase,Fourcade,CP-ATT-INT,20-40-1
+10601086,11/4/2017,FCS,Nicholls State,Houston Baptist,PASSING,Chase,Fourcade,YDS,254
+10601087,11/4/2017,FCS,Nicholls State,Houston Baptist,PASSING,Chase,Fourcade,TD,1
+10601088,11/4/2017,FCS,Nicholls State,Houston Baptist,PASSING,Chase,Fourcade,LONG,44
+10601089,11/4/2017,FCS,Nicholls State,Houston Baptist,PASSING,,Team,CP-ATT-INT,0-1-0
+10601090,11/4/2017,FCS,Nicholls State,Houston Baptist,PASSING,,Team,YDS,0
+10601091,11/4/2017,FCS,Nicholls State,Houston Baptist,PASSING,,Team,TD,0
+10601092,11/4/2017,FCS,Nicholls State,Houston Baptist,PASSING,,Team,LONG,0
+10601093,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Damion,JeanpiereJr.,REC,6
+10601094,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Damion,JeanpiereJr.,YDS,60
+10601095,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Damion,JeanpiereJr.,TD,0
+10601096,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Damion,JeanpiereJr.,LONG,21
+10601097,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Dai'Jean,Dixon,REC,1
+10601098,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Dai'Jean,Dixon,YDS,44
+10601099,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Dai'Jean,Dixon,TD,1
+10601100,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Dai'Jean,Dixon,LONG,44
+10601101,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Mason,Roberts,REC,3
+10601102,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Mason,Roberts,YDS,40
+10601103,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Mason,Roberts,TD,0
+10601104,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Mason,Roberts,LONG,25
+10601105,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Jarrell,Rogers,REC,3
+10601106,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Jarrell,Rogers,YDS,40
+10601107,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Jarrell,Rogers,TD,0
+10601108,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Jarrell,Rogers,LONG,24
+10601109,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Raheem,Falkins,REC,2
+10601110,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Raheem,Falkins,YDS,19
+10601111,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Raheem,Falkins,TD,0
+10601112,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Raheem,Falkins,LONG,10
+10601113,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Christian,Booker,REC,1
+10601114,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Christian,Booker,YDS,16
+10601115,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Christian,Booker,TD,0
+10601116,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Christian,Booker,LONG,16
+10601117,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Stefano,Guarisco,REC,1
+10601118,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Stefano,Guarisco,YDS,14
+10601119,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Stefano,Guarisco,TD,0
+10601120,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Stefano,Guarisco,LONG,14
+10601121,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Dontrell,Taylor,REC,1
+10601122,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Dontrell,Taylor,YDS,9
+10601123,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Dontrell,Taylor,TD,0
+10601124,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Dontrell,Taylor,LONG,9
+10601125,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Kyran,Irvin,REC,1
+10601126,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Kyran,Irvin,YDS,8
+10601127,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Kyran,Irvin,TD,0
+10601128,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Kyran,Irvin,LONG,8
+10601129,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Stephen,LeBouef,REC,1
+10601130,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Stephen,LeBouef,YDS,4
+10601131,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Stephen,LeBouef,TD,0
+10601132,11/4/2017,FCS,Nicholls State,Houston Baptist,RECEIVING,Stephen,LeBouef,LONG,4
+10601133,11/4/2017,FCS,Nicholls State,Houston Baptist,KICKING,Lorran,Fonseca,FG-FGA,3/4
+10601134,11/4/2017,FCS,Nicholls State,Houston Baptist,KICKING,Lorran,Fonseca,LONG,50
+10601135,11/4/2017,FCS,Nicholls State,Houston Baptist,KICKING,Lorran,Fonseca,XP,0
+10601136,11/4/2017,FCS,Nicholls State,Houston Baptist,KICKING,Lorran,Fonseca,PTS,9
+10601137,11/4/2017,FCS,Nicholls State,Houston Baptist,PUNTING,Tyler,St.Germain,NO,5
+10601138,11/4/2017,FCS,Nicholls State,Houston Baptist,PUNTING,Tyler,St.Germain,YDS,202
+10601139,11/4/2017,FCS,Nicholls State,Houston Baptist,PUNTING,Tyler,St.Germain,AVG,40.4
+10601140,11/4/2017,FCS,Nicholls State,Houston Baptist,PUNTING,Tyler,St.Germain,LONG,52
+10601141,11/4/2017,FCS,Nicholls State,Houston Baptist,PUNT RETURNS,Mason,Roberts,NO,2
+10601142,11/4/2017,FCS,Nicholls State,Houston Baptist,PUNT RETURNS,Mason,Roberts,YDS,5
+10601143,11/4/2017,FCS,Nicholls State,Houston Baptist,PUNT RETURNS,Mason,Roberts,AVG,2.5
+10601144,11/4/2017,FCS,Nicholls State,Houston Baptist,PUNT RETURNS,Mason,Roberts,LONG,5
+10601145,11/4/2017,FCS,Nicholls State,Houston Baptist,PUNT RETURNS,Khristian,Mims,NO,1
+10601146,11/4/2017,FCS,Nicholls State,Houston Baptist,PUNT RETURNS,Khristian,Mims,YDS,0
+10601147,11/4/2017,FCS,Nicholls State,Houston Baptist,PUNT RETURNS,Khristian,Mims,AVG,-
+10601148,11/4/2017,FCS,Nicholls State,Houston Baptist,PUNT RETURNS,Khristian,Mims,LONG,0
+10601149,11/4/2017,FCS,Nicholls State,Houston Baptist,KICK RETURNS,Jay,JaySmith,NO,2
+10601150,11/4/2017,FCS,Nicholls State,Houston Baptist,KICK RETURNS,Jay,JaySmith,YDS,41
+10601151,11/4/2017,FCS,Nicholls State,Houston Baptist,KICK RETURNS,Jay,JaySmith,AVG,20.5
+10601152,11/4/2017,FCS,Nicholls State,Houston Baptist,KICK RETURNS,Jay,JaySmith,LONG,21
+10601153,11/4/2017,FCS,Nicholls State,Houston Baptist,KICK RETURNS,Mason,Roberts,NO,1
+10601154,11/4/2017,FCS,Nicholls State,Houston Baptist,KICK RETURNS,Mason,Roberts,YDS,24
+10601155,11/4/2017,FCS,Nicholls State,Houston Baptist,KICK RETURNS,Mason,Roberts,AVG,24.0
+10601156,11/4/2017,FCS,Nicholls State,Houston Baptist,KICK RETURNS,Mason,Roberts,LONG,24

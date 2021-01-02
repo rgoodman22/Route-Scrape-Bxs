@@ -1,0 +1,149 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+8771001,10/10/2015,FCS,Idaho State,North Dakota,RUSHING,Xavier,Finney,ATT,17
+8771002,10/10/2015,FCS,Idaho State,North Dakota,RUSHING,Xavier,Finney,YDS,36
+8771003,10/10/2015,FCS,Idaho State,North Dakota,RUSHING,Xavier,Finney,TD,0
+8771004,10/10/2015,FCS,Idaho State,North Dakota,RUSHING,Xavier,Finney,LONG,9
+8771005,10/10/2015,FCS,Idaho State,North Dakota,RUSHING,Jakori,Ford,ATT,7
+8771006,10/10/2015,FCS,Idaho State,North Dakota,RUSHING,Jakori,Ford,YDS,21
+8771007,10/10/2015,FCS,Idaho State,North Dakota,RUSHING,Jakori,Ford,TD,1
+8771008,10/10/2015,FCS,Idaho State,North Dakota,RUSHING,Jakori,Ford,LONG,15
+8771009,10/10/2015,FCS,Idaho State,North Dakota,RUSHING,,Team,ATT,2
+8771010,10/10/2015,FCS,Idaho State,North Dakota,RUSHING,,Team,YDS,-4
+8771011,10/10/2015,FCS,Idaho State,North Dakota,RUSHING,,Team,TD,0
+8771012,10/10/2015,FCS,Idaho State,North Dakota,RUSHING,,Team,LONG,0
+8771013,10/10/2015,FCS,Idaho State,North Dakota,PASSING,Michael,Sanders,CP-ATT-INT,32-49-0
+8771014,10/10/2015,FCS,Idaho State,North Dakota,PASSING,Michael,Sanders,YDS,427
+8771015,10/10/2015,FCS,Idaho State,North Dakota,PASSING,Michael,Sanders,TD,4
+8771016,10/10/2015,FCS,Idaho State,North Dakota,PASSING,Michael,Sanders,LONG,47
+8771017,10/10/2015,FCS,Idaho State,North Dakota,RECEIVING,KW,Williams,REC,12
+8771018,10/10/2015,FCS,Idaho State,North Dakota,RECEIVING,KW,Williams,YDS,204
+8771019,10/10/2015,FCS,Idaho State,North Dakota,RECEIVING,KW,Williams,TD,2
+8771020,10/10/2015,FCS,Idaho State,North Dakota,RECEIVING,KW,Williams,LONG,47
+8771021,10/10/2015,FCS,Idaho State,North Dakota,RECEIVING,Madison,Mangum,REC,10
+8771022,10/10/2015,FCS,Idaho State,North Dakota,RECEIVING,Madison,Mangum,YDS,142
+8771023,10/10/2015,FCS,Idaho State,North Dakota,RECEIVING,Madison,Mangum,TD,1
+8771024,10/10/2015,FCS,Idaho State,North Dakota,RECEIVING,Madison,Mangum,LONG,34
+8771025,10/10/2015,FCS,Idaho State,North Dakota,RECEIVING,Josh,Cook,REC,4
+8771026,10/10/2015,FCS,Idaho State,North Dakota,RECEIVING,Josh,Cook,YDS,29
+8771027,10/10/2015,FCS,Idaho State,North Dakota,RECEIVING,Josh,Cook,TD,0
+8771028,10/10/2015,FCS,Idaho State,North Dakota,RECEIVING,Josh,Cook,LONG,10
+8771029,10/10/2015,FCS,Idaho State,North Dakota,RECEIVING,Jakori,Ford,REC,2
+8771030,10/10/2015,FCS,Idaho State,North Dakota,RECEIVING,Jakori,Ford,YDS,28
+8771031,10/10/2015,FCS,Idaho State,North Dakota,RECEIVING,Jakori,Ford,TD,1
+8771032,10/10/2015,FCS,Idaho State,North Dakota,RECEIVING,Jakori,Ford,LONG,27
+8771033,10/10/2015,FCS,Idaho State,North Dakota,RECEIVING,Hagen,Graves,REC,2
+8771034,10/10/2015,FCS,Idaho State,North Dakota,RECEIVING,Hagen,Graves,YDS,13
+8771035,10/10/2015,FCS,Idaho State,North Dakota,RECEIVING,Hagen,Graves,TD,0
+8771036,10/10/2015,FCS,Idaho State,North Dakota,RECEIVING,Hagen,Graves,LONG,9
+8771037,10/10/2015,FCS,Idaho State,North Dakota,RECEIVING,Xavier,Finney,REC,2
+8771038,10/10/2015,FCS,Idaho State,North Dakota,RECEIVING,Xavier,Finney,YDS,11
+8771039,10/10/2015,FCS,Idaho State,North Dakota,RECEIVING,Xavier,Finney,TD,0
+8771040,10/10/2015,FCS,Idaho State,North Dakota,RECEIVING,Xavier,Finney,LONG,7
+8771041,10/10/2015,FCS,Idaho State,North Dakota,KICKING,Zak,Johnson,FG-FGA,1/2
+8771042,10/10/2015,FCS,Idaho State,North Dakota,KICKING,Zak,Johnson,LONG,35
+8771043,10/10/2015,FCS,Idaho State,North Dakota,KICKING,Zak,Johnson,XP,2
+8771044,10/10/2015,FCS,Idaho State,North Dakota,KICKING,Zak,Johnson,PTS,5
+8771045,10/10/2015,FCS,Idaho State,North Dakota,PUNTING,Sean,Cheney,NO,5
+8771046,10/10/2015,FCS,Idaho State,North Dakota,PUNTING,Sean,Cheney,YDS,205
+8771047,10/10/2015,FCS,Idaho State,North Dakota,PUNTING,Sean,Cheney,AVG,41.0
+8771048,10/10/2015,FCS,Idaho State,North Dakota,PUNTING,Sean,Cheney,LONG,48
+8771049,10/10/2015,FCS,Idaho State,North Dakota,PUNTING,,Team,NO,1
+8771050,10/10/2015,FCS,Idaho State,North Dakota,PUNTING,,Team,YDS,0
+8771051,10/10/2015,FCS,Idaho State,North Dakota,PUNTING,,Team,AVG,-
+8771052,10/10/2015,FCS,Idaho State,North Dakota,PUNTING,,Team,LONG,0
+8771053,10/10/2015,FCS,Idaho State,North Dakota,PUNT RETURNS,Hagen,Graves,NO,1
+8771054,10/10/2015,FCS,Idaho State,North Dakota,PUNT RETURNS,Hagen,Graves,YDS,4
+8771055,10/10/2015,FCS,Idaho State,North Dakota,PUNT RETURNS,Hagen,Graves,AVG,4.0
+8771056,10/10/2015,FCS,Idaho State,North Dakota,PUNT RETURNS,Hagen,Graves,LONG,4
+8771057,10/10/2015,FCS,Idaho State,North Dakota,KICK RETURNS,Nikko,Hayes,NO,4
+8771058,10/10/2015,FCS,Idaho State,North Dakota,KICK RETURNS,Nikko,Hayes,YDS,90
+8771059,10/10/2015,FCS,Idaho State,North Dakota,KICK RETURNS,Nikko,Hayes,AVG,22.5
+8771060,10/10/2015,FCS,Idaho State,North Dakota,KICK RETURNS,Nikko,Hayes,LONG,32
+8771061,10/10/2015,FCS,Idaho State,North Dakota,KICK RETURNS,Lonell,Woodhouse,NO,1
+8771062,10/10/2015,FCS,Idaho State,North Dakota,KICK RETURNS,Lonell,Woodhouse,YDS,11
+8771063,10/10/2015,FCS,Idaho State,North Dakota,KICK RETURNS,Lonell,Woodhouse,AVG,11.0
+8771064,10/10/2015,FCS,Idaho State,North Dakota,KICK RETURNS,Lonell,Woodhouse,LONG,11
+8771065,10/10/2015,FCS,North Dakota,Idaho State,RUSHING,John,Santiago,ATT,24
+8771066,10/10/2015,FCS,North Dakota,Idaho State,RUSHING,John,Santiago,YDS,155
+8771067,10/10/2015,FCS,North Dakota,Idaho State,RUSHING,John,Santiago,TD,2
+8771068,10/10/2015,FCS,North Dakota,Idaho State,RUSHING,John,Santiago,LONG,27
+8771069,10/10/2015,FCS,North Dakota,Idaho State,RUSHING,Keaton,Studsrud,ATT,10
+8771070,10/10/2015,FCS,North Dakota,Idaho State,RUSHING,Keaton,Studsrud,YDS,45
+8771071,10/10/2015,FCS,North Dakota,Idaho State,RUSHING,Keaton,Studsrud,TD,0
+8771072,10/10/2015,FCS,North Dakota,Idaho State,RUSHING,Keaton,Studsrud,LONG,38
+8771073,10/10/2015,FCS,North Dakota,Idaho State,RUSHING,Brady,Oliveira,ATT,7
+8771074,10/10/2015,FCS,North Dakota,Idaho State,RUSHING,Brady,Oliveira,YDS,40
+8771075,10/10/2015,FCS,North Dakota,Idaho State,RUSHING,Brady,Oliveira,TD,0
+8771076,10/10/2015,FCS,North Dakota,Idaho State,RUSHING,Brady,Oliveira,LONG,8
+8771077,10/10/2015,FCS,North Dakota,Idaho State,RUSHING,Ryan,Bartels,ATT,3
+8771078,10/10/2015,FCS,North Dakota,Idaho State,RUSHING,Ryan,Bartels,YDS,23
+8771079,10/10/2015,FCS,North Dakota,Idaho State,RUSHING,Ryan,Bartels,TD,0
+8771080,10/10/2015,FCS,North Dakota,Idaho State,RUSHING,Ryan,Bartels,LONG,21
+8771081,10/10/2015,FCS,North Dakota,Idaho State,RUSHING,Iwarri,Smith,ATT,3
+8771082,10/10/2015,FCS,North Dakota,Idaho State,RUSHING,Iwarri,Smith,YDS,10
+8771083,10/10/2015,FCS,North Dakota,Idaho State,RUSHING,Iwarri,Smith,TD,0
+8771084,10/10/2015,FCS,North Dakota,Idaho State,RUSHING,Iwarri,Smith,LONG,6
+8771085,10/10/2015,FCS,North Dakota,Idaho State,RUSHING,Josh,Seibel,ATT,2
+8771086,10/10/2015,FCS,North Dakota,Idaho State,RUSHING,Josh,Seibel,YDS,-3
+8771087,10/10/2015,FCS,North Dakota,Idaho State,RUSHING,Josh,Seibel,TD,0
+8771088,10/10/2015,FCS,North Dakota,Idaho State,RUSHING,Josh,Seibel,LONG,0
+8771089,10/10/2015,FCS,North Dakota,Idaho State,PASSING,Keaton,Studsrud,CP-ATT-INT,8-14-1
+8771090,10/10/2015,FCS,North Dakota,Idaho State,PASSING,Keaton,Studsrud,YDS,81
+8771091,10/10/2015,FCS,North Dakota,Idaho State,PASSING,Keaton,Studsrud,TD,2
+8771092,10/10/2015,FCS,North Dakota,Idaho State,PASSING,Keaton,Studsrud,LONG,13
+8771093,10/10/2015,FCS,North Dakota,Idaho State,PASSING,Ryan,Bartels,CP-ATT-INT,3-8-0
+8771094,10/10/2015,FCS,North Dakota,Idaho State,PASSING,Ryan,Bartels,YDS,47
+8771095,10/10/2015,FCS,North Dakota,Idaho State,PASSING,Ryan,Bartels,TD,0
+8771096,10/10/2015,FCS,North Dakota,Idaho State,PASSING,Ryan,Bartels,LONG,36
+8771097,10/10/2015,FCS,North Dakota,Idaho State,RECEIVING,Zach,Adler,REC,3
+8771098,10/10/2015,FCS,North Dakota,Idaho State,RECEIVING,Zach,Adler,YDS,57
+8771099,10/10/2015,FCS,North Dakota,Idaho State,RECEIVING,Zach,Adler,TD,0
+8771100,10/10/2015,FCS,North Dakota,Idaho State,RECEIVING,Zach,Adler,LONG,36
+8771101,10/10/2015,FCS,North Dakota,Idaho State,RECEIVING,Miguel,Cerriteno,REC,2
+8771102,10/10/2015,FCS,North Dakota,Idaho State,RECEIVING,Miguel,Cerriteno,YDS,21
+8771103,10/10/2015,FCS,North Dakota,Idaho State,RECEIVING,Miguel,Cerriteno,TD,1
+8771104,10/10/2015,FCS,North Dakota,Idaho State,RECEIVING,Miguel,Cerriteno,LONG,12
+8771105,10/10/2015,FCS,North Dakota,Idaho State,RECEIVING,Josh,Seibel,REC,2
+8771106,10/10/2015,FCS,North Dakota,Idaho State,RECEIVING,Josh,Seibel,YDS,21
+8771107,10/10/2015,FCS,North Dakota,Idaho State,RECEIVING,Josh,Seibel,TD,1
+8771108,10/10/2015,FCS,North Dakota,Idaho State,RECEIVING,Josh,Seibel,LONG,13
+8771109,10/10/2015,FCS,North Dakota,Idaho State,RECEIVING,Luke,Stanley,REC,2
+8771110,10/10/2015,FCS,North Dakota,Idaho State,RECEIVING,Luke,Stanley,YDS,15
+8771111,10/10/2015,FCS,North Dakota,Idaho State,RECEIVING,Luke,Stanley,TD,0
+8771112,10/10/2015,FCS,North Dakota,Idaho State,RECEIVING,Luke,Stanley,LONG,8
+8771113,10/10/2015,FCS,North Dakota,Idaho State,RECEIVING,Brady,Oliveira,REC,1
+8771114,10/10/2015,FCS,North Dakota,Idaho State,RECEIVING,Brady,Oliveira,YDS,10
+8771115,10/10/2015,FCS,North Dakota,Idaho State,RECEIVING,Brady,Oliveira,TD,0
+8771116,10/10/2015,FCS,North Dakota,Idaho State,RECEIVING,Brady,Oliveira,LONG,10
+8771117,10/10/2015,FCS,North Dakota,Idaho State,RECEIVING,John,Santiago,REC,1
+8771118,10/10/2015,FCS,North Dakota,Idaho State,RECEIVING,John,Santiago,YDS,4
+8771119,10/10/2015,FCS,North Dakota,Idaho State,RECEIVING,John,Santiago,TD,0
+8771120,10/10/2015,FCS,North Dakota,Idaho State,RECEIVING,John,Santiago,LONG,4
+8771121,10/10/2015,FCS,North Dakota,Idaho State,KICKING,Reid,Taubenheim,FG-FGA,1/1
+8771122,10/10/2015,FCS,North Dakota,Idaho State,KICKING,Reid,Taubenheim,LONG,33
+8771123,10/10/2015,FCS,North Dakota,Idaho State,KICKING,Reid,Taubenheim,XP,4
+8771124,10/10/2015,FCS,North Dakota,Idaho State,KICKING,Reid,Taubenheim,PTS,7
+8771125,10/10/2015,FCS,North Dakota,Idaho State,PUNTING,Mitch,Meindel,NO,4
+8771126,10/10/2015,FCS,North Dakota,Idaho State,PUNTING,Mitch,Meindel,YDS,152
+8771127,10/10/2015,FCS,North Dakota,Idaho State,PUNTING,Mitch,Meindel,AVG,38.0
+8771128,10/10/2015,FCS,North Dakota,Idaho State,PUNTING,Mitch,Meindel,LONG,45
+8771129,10/10/2015,FCS,North Dakota,Idaho State,PUNT RETURNS,Josh,Seibel,NO,2
+8771130,10/10/2015,FCS,North Dakota,Idaho State,PUNT RETURNS,Josh,Seibel,YDS,17
+8771131,10/10/2015,FCS,North Dakota,Idaho State,PUNT RETURNS,Josh,Seibel,AVG,8.5
+8771132,10/10/2015,FCS,North Dakota,Idaho State,PUNT RETURNS,Josh,Seibel,LONG,17
+8771133,10/10/2015,FCS,North Dakota,Idaho State,PUNT RETURNS,Connor,O'Brien,NO,1
+8771134,10/10/2015,FCS,North Dakota,Idaho State,PUNT RETURNS,Connor,O'Brien,YDS,3
+8771135,10/10/2015,FCS,North Dakota,Idaho State,PUNT RETURNS,Connor,O'Brien,AVG,3.0
+8771136,10/10/2015,FCS,North Dakota,Idaho State,PUNT RETURNS,Connor,O'Brien,LONG,0
+8771137,10/10/2015,FCS,North Dakota,Idaho State,KICK RETURNS,John,Santiago,NO,4
+8771138,10/10/2015,FCS,North Dakota,Idaho State,KICK RETURNS,John,Santiago,YDS,152
+8771139,10/10/2015,FCS,North Dakota,Idaho State,KICK RETURNS,John,Santiago,AVG,38.0
+8771140,10/10/2015,FCS,North Dakota,Idaho State,KICK RETURNS,John,Santiago,LONG,45
+8771141,10/10/2015,FCS,North Dakota,Idaho State,KICK RETURNS,Alex,Reed,NO,1
+8771142,10/10/2015,FCS,North Dakota,Idaho State,KICK RETURNS,Alex,Reed,YDS,9
+8771143,10/10/2015,FCS,North Dakota,Idaho State,KICK RETURNS,Alex,Reed,AVG,9.0
+8771144,10/10/2015,FCS,North Dakota,Idaho State,KICK RETURNS,Alex,Reed,LONG,9
+8771145,10/10/2015,FCS,North Dakota,Idaho State,KICK RETURNS,Will,Ratelle,NO,1
+8771146,10/10/2015,FCS,North Dakota,Idaho State,KICK RETURNS,Will,Ratelle,YDS,6
+8771147,10/10/2015,FCS,North Dakota,Idaho State,KICK RETURNS,Will,Ratelle,AVG,6.0
+8771148,10/10/2015,FCS,North Dakota,Idaho State,KICK RETURNS,Will,Ratelle,LONG,6

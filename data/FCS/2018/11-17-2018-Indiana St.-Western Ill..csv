@@ -1,0 +1,179 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+11513001,11/17/2018,FCS,Indiana St.,Western Ill.,RUSHING,Peterson,Kerlegrand,ATT,21
+11513002,11/17/2018,FCS,Indiana St.,Western Ill.,RUSHING,Peterson,Kerlegrand,YDS,102
+11513003,11/17/2018,FCS,Indiana St.,Western Ill.,RUSHING,Peterson,Kerlegrand,TD,0
+11513004,11/17/2018,FCS,Indiana St.,Western Ill.,RUSHING,Peterson,Kerlegrand,LONG,31
+11513005,11/17/2018,FCS,Indiana St.,Western Ill.,RUSHING,Titus,McCoy,ATT,14
+11513006,11/17/2018,FCS,Indiana St.,Western Ill.,RUSHING,Titus,McCoy,YDS,46
+11513007,11/17/2018,FCS,Indiana St.,Western Ill.,RUSHING,Titus,McCoy,TD,0
+11513008,11/17/2018,FCS,Indiana St.,Western Ill.,RUSHING,Titus,McCoy,LONG,9
+11513009,11/17/2018,FCS,Indiana St.,Western Ill.,RUSHING,Ryan,Boyle,ATT,14
+11513010,11/17/2018,FCS,Indiana St.,Western Ill.,RUSHING,Ryan,Boyle,YDS,6
+11513011,11/17/2018,FCS,Indiana St.,Western Ill.,RUSHING,Ryan,Boyle,TD,1
+11513012,11/17/2018,FCS,Indiana St.,Western Ill.,RUSHING,Ryan,Boyle,LONG,12
+11513013,11/17/2018,FCS,Indiana St.,Western Ill.,RUSHING,Travis,Reiner,ATT,0
+11513014,11/17/2018,FCS,Indiana St.,Western Ill.,RUSHING,Travis,Reiner,YDS,6
+11513015,11/17/2018,FCS,Indiana St.,Western Ill.,RUSHING,Travis,Reiner,TD,0
+11513016,11/17/2018,FCS,Indiana St.,Western Ill.,RUSHING,Travis,Reiner,LONG,0
+11513017,11/17/2018,FCS,Indiana St.,Western Ill.,RUSHING,,Team,ATT,2
+11513018,11/17/2018,FCS,Indiana St.,Western Ill.,RUSHING,,Team,YDS,-15
+11513019,11/17/2018,FCS,Indiana St.,Western Ill.,RUSHING,,Team,TD,0
+11513020,11/17/2018,FCS,Indiana St.,Western Ill.,RUSHING,,Team,LONG,0
+11513021,11/17/2018,FCS,Indiana St.,Western Ill.,PASSING,Ryan,Boyle,CP-ATT-INT,9-17-1
+11513022,11/17/2018,FCS,Indiana St.,Western Ill.,PASSING,Ryan,Boyle,YDS,149
+11513023,11/17/2018,FCS,Indiana St.,Western Ill.,PASSING,Ryan,Boyle,TD,0
+11513024,11/17/2018,FCS,Indiana St.,Western Ill.,PASSING,Ryan,Boyle,LONG,37
+11513025,11/17/2018,FCS,Indiana St.,Western Ill.,RECEIVING,Dante,JonesII,REC,4
+11513026,11/17/2018,FCS,Indiana St.,Western Ill.,RECEIVING,Dante,JonesII,YDS,45
+11513027,11/17/2018,FCS,Indiana St.,Western Ill.,RECEIVING,Dante,JonesII,TD,0
+11513028,11/17/2018,FCS,Indiana St.,Western Ill.,RECEIVING,Dante,JonesII,LONG,24
+11513029,11/17/2018,FCS,Indiana St.,Western Ill.,RECEIVING,Dante,Hendrix,REC,2
+11513030,11/17/2018,FCS,Indiana St.,Western Ill.,RECEIVING,Dante,Hendrix,YDS,41
+11513031,11/17/2018,FCS,Indiana St.,Western Ill.,RECEIVING,Dante,Hendrix,TD,0
+11513032,11/17/2018,FCS,Indiana St.,Western Ill.,RECEIVING,Dante,Hendrix,LONG,36
+11513033,11/17/2018,FCS,Indiana St.,Western Ill.,RECEIVING,Dakota,Caton,REC,1
+11513034,11/17/2018,FCS,Indiana St.,Western Ill.,RECEIVING,Dakota,Caton,YDS,37
+11513035,11/17/2018,FCS,Indiana St.,Western Ill.,RECEIVING,Dakota,Caton,TD,0
+11513036,11/17/2018,FCS,Indiana St.,Western Ill.,RECEIVING,Dakota,Caton,LONG,37
+11513037,11/17/2018,FCS,Indiana St.,Western Ill.,RECEIVING,Tynan,Williams,REC,2
+11513038,11/17/2018,FCS,Indiana St.,Western Ill.,RECEIVING,Tynan,Williams,YDS,26
+11513039,11/17/2018,FCS,Indiana St.,Western Ill.,RECEIVING,Tynan,Williams,TD,0
+11513040,11/17/2018,FCS,Indiana St.,Western Ill.,RECEIVING,Tynan,Williams,LONG,14
+11513041,11/17/2018,FCS,Indiana St.,Western Ill.,KICKING,Jerry,Nunez,FG-FGA,3/3
+11513042,11/17/2018,FCS,Indiana St.,Western Ill.,KICKING,Jerry,Nunez,LONG,27
+11513043,11/17/2018,FCS,Indiana St.,Western Ill.,KICKING,Jerry,Nunez,XP,0
+11513044,11/17/2018,FCS,Indiana St.,Western Ill.,KICKING,Jerry,Nunez,PTS,9
+11513045,11/17/2018,FCS,Indiana St.,Western Ill.,PUNTING,Travis,Reiner,NO,6
+11513046,11/17/2018,FCS,Indiana St.,Western Ill.,PUNTING,Travis,Reiner,YDS,236
+11513047,11/17/2018,FCS,Indiana St.,Western Ill.,PUNTING,Travis,Reiner,AVG,39.3
+11513048,11/17/2018,FCS,Indiana St.,Western Ill.,PUNTING,Travis,Reiner,LONG,59
+11513049,11/17/2018,FCS,Indiana St.,Western Ill.,KICK RETURNS,Dakota,Caton,NO,2
+11513050,11/17/2018,FCS,Indiana St.,Western Ill.,KICK RETURNS,Dakota,Caton,YDS,37
+11513051,11/17/2018,FCS,Indiana St.,Western Ill.,KICK RETURNS,Dakota,Caton,AVG,18.5
+11513052,11/17/2018,FCS,Indiana St.,Western Ill.,KICK RETURNS,Dakota,Caton,LONG,27
+11513053,11/17/2018,FCS,Indiana St.,Western Ill.,DEFENSE,Filip,Zacok,TOT,1
+11513054,11/17/2018,FCS,Indiana St.,Western Ill.,DEFENSE,Filip,Zacok,SOLO,1
+11513055,11/17/2018,FCS,Indiana St.,Western Ill.,DEFENSE,Filip,Zacok,SACKS,1
+11513056,11/17/2018,FCS,Indiana St.,Western Ill.,DEFENSE,Filip,Zacok,TFL,1
+11513057,11/17/2018,FCS,Indiana St.,Western Ill.,DEFENSE,Filip,Zacok,INT,0
+11513058,11/17/2018,FCS,Indiana St.,Western Ill.,DEFENSE,Filip,Zacok,FF,0
+11513059,11/17/2018,FCS,Indiana St.,Western Ill.,DEFENSE,Filip,Zacok,FR,0
+11513060,11/17/2018,FCS,Indiana St.,Western Ill.,DEFENSE,Rex,Mosley,TOT,0
+11513061,11/17/2018,FCS,Indiana St.,Western Ill.,DEFENSE,Rex,Mosley,SOLO,0
+11513062,11/17/2018,FCS,Indiana St.,Western Ill.,DEFENSE,Rex,Mosley,SACKS,0
+11513063,11/17/2018,FCS,Indiana St.,Western Ill.,DEFENSE,Rex,Mosley,TFL,0
+11513064,11/17/2018,FCS,Indiana St.,Western Ill.,DEFENSE,Rex,Mosley,INT,0
+11513065,11/17/2018,FCS,Indiana St.,Western Ill.,DEFENSE,Rex,Mosley,FF,0
+11513066,11/17/2018,FCS,Indiana St.,Western Ill.,DEFENSE,Rex,Mosley,FR,1
+11513067,11/17/2018,FCS,Indiana St.,Western Ill.,DEFENSE,Jonas,Griffith,TOT,9
+11513068,11/17/2018,FCS,Indiana St.,Western Ill.,DEFENSE,Jonas,Griffith,SOLO,8
+11513069,11/17/2018,FCS,Indiana St.,Western Ill.,DEFENSE,Jonas,Griffith,SACKS,1
+11513070,11/17/2018,FCS,Indiana St.,Western Ill.,DEFENSE,Jonas,Griffith,TFL,4.5
+11513071,11/17/2018,FCS,Indiana St.,Western Ill.,DEFENSE,Jonas,Griffith,INT,0
+11513072,11/17/2018,FCS,Indiana St.,Western Ill.,DEFENSE,Jonas,Griffith,FF,0
+11513073,11/17/2018,FCS,Indiana St.,Western Ill.,DEFENSE,Jonas,Griffith,FR,0
+11513074,11/17/2018,FCS,Indiana St.,Western Ill.,DEFENSE,Denzel,Bonner,TOT,0
+11513075,11/17/2018,FCS,Indiana St.,Western Ill.,DEFENSE,Denzel,Bonner,SOLO,0
+11513076,11/17/2018,FCS,Indiana St.,Western Ill.,DEFENSE,Denzel,Bonner,SACKS,0
+11513077,11/17/2018,FCS,Indiana St.,Western Ill.,DEFENSE,Denzel,Bonner,TFL,0
+11513078,11/17/2018,FCS,Indiana St.,Western Ill.,DEFENSE,Denzel,Bonner,INT,0
+11513079,11/17/2018,FCS,Indiana St.,Western Ill.,DEFENSE,Denzel,Bonner,FF,1
+11513080,11/17/2018,FCS,Indiana St.,Western Ill.,DEFENSE,Denzel,Bonner,FR,0
+11513081,11/17/2018,FCS,Western Ill.,Indiana St.,RUSHING,Steve,McShane,ATT,16
+11513082,11/17/2018,FCS,Western Ill.,Indiana St.,RUSHING,Steve,McShane,YDS,129
+11513083,11/17/2018,FCS,Western Ill.,Indiana St.,RUSHING,Steve,McShane,TD,1
+11513084,11/17/2018,FCS,Western Ill.,Indiana St.,RUSHING,Steve,McShane,LONG,65
+11513085,11/17/2018,FCS,Western Ill.,Indiana St.,RUSHING,Sean,McGuire,ATT,11
+11513086,11/17/2018,FCS,Western Ill.,Indiana St.,RUSHING,Sean,McGuire,YDS,18
+11513087,11/17/2018,FCS,Western Ill.,Indiana St.,RUSHING,Sean,McGuire,TD,0
+11513088,11/17/2018,FCS,Western Ill.,Indiana St.,RUSHING,Sean,McGuire,LONG,11
+11513089,11/17/2018,FCS,Western Ill.,Indiana St.,RUSHING,Clint,Ratkovich,ATT,1
+11513090,11/17/2018,FCS,Western Ill.,Indiana St.,RUSHING,Clint,Ratkovich,YDS,7
+11513091,11/17/2018,FCS,Western Ill.,Indiana St.,RUSHING,Clint,Ratkovich,TD,0
+11513092,11/17/2018,FCS,Western Ill.,Indiana St.,RUSHING,Clint,Ratkovich,LONG,7
+11513093,11/17/2018,FCS,Western Ill.,Indiana St.,PASSING,Sean,McGuire,CP-ATT-INT,16-27-0
+11513094,11/17/2018,FCS,Western Ill.,Indiana St.,PASSING,Sean,McGuire,YDS,202
+11513095,11/17/2018,FCS,Western Ill.,Indiana St.,PASSING,Sean,McGuire,TD,0
+11513096,11/17/2018,FCS,Western Ill.,Indiana St.,PASSING,Sean,McGuire,LONG,52
+11513097,11/17/2018,FCS,Western Ill.,Indiana St.,RECEIVING,Clint,Ratkovich,REC,4
+11513098,11/17/2018,FCS,Western Ill.,Indiana St.,RECEIVING,Clint,Ratkovich,YDS,79
+11513099,11/17/2018,FCS,Western Ill.,Indiana St.,RECEIVING,Clint,Ratkovich,TD,0
+11513100,11/17/2018,FCS,Western Ill.,Indiana St.,RECEIVING,Clint,Ratkovich,LONG,52
+11513101,11/17/2018,FCS,Western Ill.,Indiana St.,RECEIVING,John,Brunner,REC,3
+11513102,11/17/2018,FCS,Western Ill.,Indiana St.,RECEIVING,John,Brunner,YDS,53
+11513103,11/17/2018,FCS,Western Ill.,Indiana St.,RECEIVING,John,Brunner,TD,0
+11513104,11/17/2018,FCS,Western Ill.,Indiana St.,RECEIVING,John,Brunner,LONG,44
+11513105,11/17/2018,FCS,Western Ill.,Indiana St.,RECEIVING,Steve,McShane,REC,4
+11513106,11/17/2018,FCS,Western Ill.,Indiana St.,RECEIVING,Steve,McShane,YDS,33
+11513107,11/17/2018,FCS,Western Ill.,Indiana St.,RECEIVING,Steve,McShane,TD,0
+11513108,11/17/2018,FCS,Western Ill.,Indiana St.,RECEIVING,Steve,McShane,LONG,20
+11513109,11/17/2018,FCS,Western Ill.,Indiana St.,RECEIVING,Tony,Tate,REC,4
+11513110,11/17/2018,FCS,Western Ill.,Indiana St.,RECEIVING,Tony,Tate,YDS,30
+11513111,11/17/2018,FCS,Western Ill.,Indiana St.,RECEIVING,Tony,Tate,TD,0
+11513112,11/17/2018,FCS,Western Ill.,Indiana St.,RECEIVING,Tony,Tate,LONG,10
+11513113,11/17/2018,FCS,Western Ill.,Indiana St.,RECEIVING,Isaiah,LeSure,REC,1
+11513114,11/17/2018,FCS,Western Ill.,Indiana St.,RECEIVING,Isaiah,LeSure,YDS,7
+11513115,11/17/2018,FCS,Western Ill.,Indiana St.,RECEIVING,Isaiah,LeSure,TD,0
+11513116,11/17/2018,FCS,Western Ill.,Indiana St.,RECEIVING,Isaiah,LeSure,LONG,7
+11513117,11/17/2018,FCS,Western Ill.,Indiana St.,KICKING,Sam,Crosa,FG-FGA,2/3
+11513118,11/17/2018,FCS,Western Ill.,Indiana St.,KICKING,Sam,Crosa,LONG,0
+11513119,11/17/2018,FCS,Western Ill.,Indiana St.,KICKING,Sam,Crosa,XP,1
+11513120,11/17/2018,FCS,Western Ill.,Indiana St.,KICKING,Sam,Crosa,PTS,7
+11513121,11/17/2018,FCS,Western Ill.,Indiana St.,PUNTING,Adam,Fellner,NO,7
+11513122,11/17/2018,FCS,Western Ill.,Indiana St.,PUNTING,Adam,Fellner,YDS,255
+11513123,11/17/2018,FCS,Western Ill.,Indiana St.,PUNTING,Adam,Fellner,AVG,36.4
+11513124,11/17/2018,FCS,Western Ill.,Indiana St.,PUNTING,Adam,Fellner,LONG,50
+11513125,11/17/2018,FCS,Western Ill.,Indiana St.,PUNT RETURNS,Steve,McShane,NO,1
+11513126,11/17/2018,FCS,Western Ill.,Indiana St.,PUNT RETURNS,Steve,McShane,YDS,-5
+11513127,11/17/2018,FCS,Western Ill.,Indiana St.,PUNT RETURNS,Steve,McShane,AVG,-
+11513128,11/17/2018,FCS,Western Ill.,Indiana St.,PUNT RETURNS,Steve,McShane,LONG,0
+11513129,11/17/2018,FCS,Western Ill.,Indiana St.,KICK RETURNS,Cameron,Clemons,NO,2
+11513130,11/17/2018,FCS,Western Ill.,Indiana St.,KICK RETURNS,Cameron,Clemons,YDS,48
+11513131,11/17/2018,FCS,Western Ill.,Indiana St.,KICK RETURNS,Cameron,Clemons,AVG,24.0
+11513132,11/17/2018,FCS,Western Ill.,Indiana St.,KICK RETURNS,Cameron,Clemons,LONG,28
+11513133,11/17/2018,FCS,Western Ill.,Indiana St.,KICK RETURNS,Isaiah,LeSure,NO,1
+11513134,11/17/2018,FCS,Western Ill.,Indiana St.,KICK RETURNS,Isaiah,LeSure,YDS,0
+11513135,11/17/2018,FCS,Western Ill.,Indiana St.,KICK RETURNS,Isaiah,LeSure,AVG,-
+11513136,11/17/2018,FCS,Western Ill.,Indiana St.,KICK RETURNS,Isaiah,LeSure,LONG,0
+11513137,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Khalen,Saunders,TOT,11
+11513138,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Khalen,Saunders,SOLO,8
+11513139,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Khalen,Saunders,SACKS,2
+11513140,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Khalen,Saunders,TFL,2
+11513141,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Khalen,Saunders,INT,0
+11513142,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Khalen,Saunders,FF,0
+11513143,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Khalen,Saunders,FR,0
+11513144,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Shabar,Wilson,TOT,0
+11513145,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Shabar,Wilson,SOLO,0
+11513146,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Shabar,Wilson,SACKS,1
+11513147,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Shabar,Wilson,TFL,0
+11513148,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Shabar,Wilson,INT,0
+11513149,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Shabar,Wilson,FF,0
+11513150,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Shabar,Wilson,FR,0
+11513151,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Pete,Swenson,TOT,7
+11513152,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Pete,Swenson,SOLO,3
+11513153,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Pete,Swenson,SACKS,0.5
+11513154,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Pete,Swenson,TFL,1.5
+11513155,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Pete,Swenson,INT,0
+11513156,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Pete,Swenson,FF,0
+11513157,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Pete,Swenson,FR,0
+11513158,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Michael,Bishoff,TOT,3
+11513159,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Michael,Bishoff,SOLO,2
+11513160,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Michael,Bishoff,SACKS,0.5
+11513161,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Michael,Bishoff,TFL,0.5
+11513162,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Michael,Bishoff,INT,0
+11513163,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Michael,Bishoff,FF,0
+11513164,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Michael,Bishoff,FR,0
+11513165,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Quentin,Moon,TOT,13
+11513166,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Quentin,Moon,SOLO,5
+11513167,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Quentin,Moon,SACKS,1
+11513168,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Quentin,Moon,TFL,1
+11513169,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Quentin,Moon,INT,0
+11513170,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Quentin,Moon,FF,0
+11513171,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Quentin,Moon,FR,0
+11513172,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Xavier,Rowe,TOT,0
+11513173,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Xavier,Rowe,SOLO,0
+11513174,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Xavier,Rowe,SACKS,0
+11513175,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Xavier,Rowe,TFL,0
+11513176,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Xavier,Rowe,INT,1
+11513177,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Xavier,Rowe,FF,0
+11513178,11/17/2018,FCS,Western Ill.,Indiana St.,DEFENSE,Xavier,Rowe,FR,0

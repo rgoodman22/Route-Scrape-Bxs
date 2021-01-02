@@ -1,0 +1,117 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+11297001,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RUSHING,William,Robinson,ATT,21
+11297002,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RUSHING,William,Robinson,YDS,165
+11297003,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RUSHING,William,Robinson,TD,1
+11297004,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RUSHING,William,Robinson,LONG,35
+11297005,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RUSHING,Delmon,Williams,ATT,19
+11297006,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RUSHING,Delmon,Williams,YDS,47
+11297007,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RUSHING,Delmon,Williams,TD,2
+11297008,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RUSHING,Delmon,Williams,LONG,12
+11297009,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RUSHING,Raeshad,Herriot,ATT,6
+11297010,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RUSHING,Raeshad,Herriot,YDS,20
+11297011,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RUSHING,Raeshad,Herriot,TD,0
+11297012,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RUSHING,Raeshad,Herriot,LONG,9
+11297013,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RUSHING,Will,Eason,ATT,5
+11297014,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RUSHING,Will,Eason,YDS,11
+11297015,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RUSHING,Will,Eason,TD,0
+11297016,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RUSHING,Will,Eason,LONG,6
+11297017,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RUSHING,,Team,ATT,1
+11297018,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RUSHING,,Team,YDS,-1
+11297019,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RUSHING,,Team,TD,0
+11297020,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RUSHING,,Team,LONG,0
+11297021,10/27/2018,FCS,Hampton,Virginia-Lynchburg,PASSING,Delmon,Williams,CP-ATT-INT,24-30-2
+11297022,10/27/2018,FCS,Hampton,Virginia-Lynchburg,PASSING,Delmon,Williams,YDS,371
+11297023,10/27/2018,FCS,Hampton,Virginia-Lynchburg,PASSING,Delmon,Williams,TD,3
+11297024,10/27/2018,FCS,Hampton,Virginia-Lynchburg,PASSING,Delmon,Williams,LONG,44
+11297025,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RECEIVING,Byron,Barney,REC,7
+11297026,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RECEIVING,Byron,Barney,YDS,108
+11297027,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RECEIVING,Byron,Barney,TD,1
+11297028,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RECEIVING,Byron,Barney,LONG,26
+11297029,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RECEIVING,Antonio,Graham,REC,6
+11297030,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RECEIVING,Antonio,Graham,YDS,88
+11297031,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RECEIVING,Antonio,Graham,TD,0
+11297032,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RECEIVING,Antonio,Graham,LONG,37
+11297033,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RECEIVING,Marcel,Paul,REC,3
+11297034,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RECEIVING,Marcel,Paul,YDS,59
+11297035,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RECEIVING,Marcel,Paul,TD,2
+11297036,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RECEIVING,Marcel,Paul,LONG,28
+11297037,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RECEIVING,Jadakis,Bonds,REC,1
+11297038,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RECEIVING,Jadakis,Bonds,YDS,44
+11297039,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RECEIVING,Jadakis,Bonds,TD,0
+11297040,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RECEIVING,Jadakis,Bonds,LONG,44
+11297041,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RECEIVING,Alec,Dana,REC,4
+11297042,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RECEIVING,Alec,Dana,YDS,42
+11297043,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RECEIVING,Alec,Dana,TD,0
+11297044,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RECEIVING,Alec,Dana,LONG,16
+11297045,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RECEIVING,William,Robinson,REC,2
+11297046,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RECEIVING,William,Robinson,YDS,33
+11297047,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RECEIVING,William,Robinson,TD,0
+11297048,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RECEIVING,William,Robinson,LONG,29
+11297049,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RECEIVING,Raeshad,Herriot,REC,1
+11297050,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RECEIVING,Raeshad,Herriot,YDS,-3
+11297051,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RECEIVING,Raeshad,Herriot,TD,0
+11297052,10/27/2018,FCS,Hampton,Virginia-Lynchburg,RECEIVING,Raeshad,Herriot,LONG,0
+11297053,10/27/2018,FCS,Hampton,Virginia-Lynchburg,KICKING,Evan,Lomax,FG-FGA,1/1
+11297054,10/27/2018,FCS,Hampton,Virginia-Lynchburg,KICKING,Evan,Lomax,LONG,29
+11297055,10/27/2018,FCS,Hampton,Virginia-Lynchburg,KICKING,Evan,Lomax,XP,6
+11297056,10/27/2018,FCS,Hampton,Virginia-Lynchburg,KICKING,Evan,Lomax,PTS,9
+11297057,10/27/2018,FCS,Hampton,Virginia-Lynchburg,PUNTING,Ivan,Oraha,NO,2
+11297058,10/27/2018,FCS,Hampton,Virginia-Lynchburg,PUNTING,Ivan,Oraha,YDS,79
+11297059,10/27/2018,FCS,Hampton,Virginia-Lynchburg,PUNTING,Ivan,Oraha,AVG,39.5
+11297060,10/27/2018,FCS,Hampton,Virginia-Lynchburg,PUNTING,Ivan,Oraha,LONG,40
+11297061,10/27/2018,FCS,Hampton,Virginia-Lynchburg,PUNT RETURNS,Lonzo,Thompson,NO,1
+11297062,10/27/2018,FCS,Hampton,Virginia-Lynchburg,PUNT RETURNS,Lonzo,Thompson,YDS,26
+11297063,10/27/2018,FCS,Hampton,Virginia-Lynchburg,PUNT RETURNS,Lonzo,Thompson,AVG,26.0
+11297064,10/27/2018,FCS,Hampton,Virginia-Lynchburg,PUNT RETURNS,Lonzo,Thompson,LONG,0
+11297065,10/27/2018,FCS,Hampton,Virginia-Lynchburg,PUNT RETURNS,Adeon,Johnson,NO,2
+11297066,10/27/2018,FCS,Hampton,Virginia-Lynchburg,PUNT RETURNS,Adeon,Johnson,YDS,16
+11297067,10/27/2018,FCS,Hampton,Virginia-Lynchburg,PUNT RETURNS,Adeon,Johnson,AVG,8.0
+11297068,10/27/2018,FCS,Hampton,Virginia-Lynchburg,PUNT RETURNS,Adeon,Johnson,LONG,15
+11297069,10/27/2018,FCS,Hampton,Virginia-Lynchburg,PUNT RETURNS,Jalen,Poston,NO,0
+11297070,10/27/2018,FCS,Hampton,Virginia-Lynchburg,PUNT RETURNS,Jalen,Poston,YDS,10
+11297071,10/27/2018,FCS,Hampton,Virginia-Lynchburg,PUNT RETURNS,Jalen,Poston,AVG,-
+11297072,10/27/2018,FCS,Hampton,Virginia-Lynchburg,PUNT RETURNS,Jalen,Poston,LONG,10
+11297073,10/27/2018,FCS,Hampton,Virginia-Lynchburg,KICK RETURNS,Antonio,Graham,NO,2
+11297074,10/27/2018,FCS,Hampton,Virginia-Lynchburg,KICK RETURNS,Antonio,Graham,YDS,26
+11297075,10/27/2018,FCS,Hampton,Virginia-Lynchburg,KICK RETURNS,Antonio,Graham,AVG,13.0
+11297076,10/27/2018,FCS,Hampton,Virginia-Lynchburg,KICK RETURNS,Antonio,Graham,LONG,19
+11297077,10/27/2018,FCS,Hampton,Virginia-Lynchburg,KICK RETURNS,Ronald,Bell,NO,1
+11297078,10/27/2018,FCS,Hampton,Virginia-Lynchburg,KICK RETURNS,Ronald,Bell,YDS,19
+11297079,10/27/2018,FCS,Hampton,Virginia-Lynchburg,KICK RETURNS,Ronald,Bell,AVG,19.0
+11297080,10/27/2018,FCS,Hampton,Virginia-Lynchburg,KICK RETURNS,Ronald,Bell,LONG,19
+11297081,10/27/2018,FCS,Hampton,Virginia-Lynchburg,KICK RETURNS,Byron,Barney,NO,1
+11297082,10/27/2018,FCS,Hampton,Virginia-Lynchburg,KICK RETURNS,Byron,Barney,YDS,9
+11297083,10/27/2018,FCS,Hampton,Virginia-Lynchburg,KICK RETURNS,Byron,Barney,AVG,9.0
+11297084,10/27/2018,FCS,Hampton,Virginia-Lynchburg,KICK RETURNS,Byron,Barney,LONG,9
+11297085,10/27/2018,FCS,Hampton,Virginia-Lynchburg,KICK RETURNS,Aladonte,Howard,NO,1
+11297086,10/27/2018,FCS,Hampton,Virginia-Lynchburg,KICK RETURNS,Aladonte,Howard,YDS,0
+11297087,10/27/2018,FCS,Hampton,Virginia-Lynchburg,KICK RETURNS,Aladonte,Howard,AVG,-
+11297088,10/27/2018,FCS,Hampton,Virginia-Lynchburg,KICK RETURNS,Aladonte,Howard,LONG,0
+11297089,10/27/2018,FCS,Hampton,Virginia-Lynchburg,DEFENSE,Devin,Marcano,TOT,1
+11297090,10/27/2018,FCS,Hampton,Virginia-Lynchburg,DEFENSE,Devin,Marcano,SOLO,0
+11297091,10/27/2018,FCS,Hampton,Virginia-Lynchburg,DEFENSE,Devin,Marcano,SACKS,0
+11297092,10/27/2018,FCS,Hampton,Virginia-Lynchburg,DEFENSE,Devin,Marcano,TFL,0.5
+11297093,10/27/2018,FCS,Hampton,Virginia-Lynchburg,DEFENSE,Devin,Marcano,INT,0
+11297094,10/27/2018,FCS,Hampton,Virginia-Lynchburg,DEFENSE,Devin,Marcano,FF,0
+11297095,10/27/2018,FCS,Hampton,Virginia-Lynchburg,DEFENSE,Devin,Marcano,FR,1
+11297096,10/27/2018,FCS,Hampton,Virginia-Lynchburg,DEFENSE,Cameron,Walker,TOT,1
+11297097,10/27/2018,FCS,Hampton,Virginia-Lynchburg,DEFENSE,Cameron,Walker,SOLO,1
+11297098,10/27/2018,FCS,Hampton,Virginia-Lynchburg,DEFENSE,Cameron,Walker,SACKS,1
+11297099,10/27/2018,FCS,Hampton,Virginia-Lynchburg,DEFENSE,Cameron,Walker,TFL,1
+11297100,10/27/2018,FCS,Hampton,Virginia-Lynchburg,DEFENSE,Cameron,Walker,INT,0
+11297101,10/27/2018,FCS,Hampton,Virginia-Lynchburg,DEFENSE,Cameron,Walker,FF,0
+11297102,10/27/2018,FCS,Hampton,Virginia-Lynchburg,DEFENSE,Cameron,Walker,FR,0
+11297103,10/27/2018,FCS,Hampton,Virginia-Lynchburg,DEFENSE,Terry,Chisley,TOT,0
+11297104,10/27/2018,FCS,Hampton,Virginia-Lynchburg,DEFENSE,Terry,Chisley,SOLO,0
+11297105,10/27/2018,FCS,Hampton,Virginia-Lynchburg,DEFENSE,Terry,Chisley,SACKS,0
+11297106,10/27/2018,FCS,Hampton,Virginia-Lynchburg,DEFENSE,Terry,Chisley,TFL,0
+11297107,10/27/2018,FCS,Hampton,Virginia-Lynchburg,DEFENSE,Terry,Chisley,INT,1
+11297108,10/27/2018,FCS,Hampton,Virginia-Lynchburg,DEFENSE,Terry,Chisley,FF,0
+11297109,10/27/2018,FCS,Hampton,Virginia-Lynchburg,DEFENSE,Terry,Chisley,FR,1
+11297110,10/27/2018,FCS,Hampton,Virginia-Lynchburg,DEFENSE,Kapri,Doucet,TOT,2
+11297111,10/27/2018,FCS,Hampton,Virginia-Lynchburg,DEFENSE,Kapri,Doucet,SOLO,1
+11297112,10/27/2018,FCS,Hampton,Virginia-Lynchburg,DEFENSE,Kapri,Doucet,SACKS,0
+11297113,10/27/2018,FCS,Hampton,Virginia-Lynchburg,DEFENSE,Kapri,Doucet,TFL,0
+11297114,10/27/2018,FCS,Hampton,Virginia-Lynchburg,DEFENSE,Kapri,Doucet,INT,0
+11297115,10/27/2018,FCS,Hampton,Virginia-Lynchburg,DEFENSE,Kapri,Doucet,FF,1
+11297116,10/27/2018,FCS,Hampton,Virginia-Lynchburg,DEFENSE,Kapri,Doucet,FR,0

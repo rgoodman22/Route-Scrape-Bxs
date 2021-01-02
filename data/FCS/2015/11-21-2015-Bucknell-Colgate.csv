@@ -1,0 +1,117 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9155001,11/21/2015,FCS,Bucknell,Colgate,RUSHING,Matt,DelMauro,ATT,17
+9155002,11/21/2015,FCS,Bucknell,Colgate,RUSHING,Matt,DelMauro,YDS,48
+9155003,11/21/2015,FCS,Bucknell,Colgate,RUSHING,Matt,DelMauro,TD,0
+9155004,11/21/2015,FCS,Bucknell,Colgate,RUSHING,Matt,DelMauro,LONG,15
+9155005,11/21/2015,FCS,Bucknell,Colgate,RUSHING,Omar,Garcia,ATT,7
+9155006,11/21/2015,FCS,Bucknell,Colgate,RUSHING,Omar,Garcia,YDS,16
+9155007,11/21/2015,FCS,Bucknell,Colgate,RUSHING,Omar,Garcia,TD,0
+9155008,11/21/2015,FCS,Bucknell,Colgate,RUSHING,Omar,Garcia,LONG,9
+9155009,11/21/2015,FCS,Bucknell,Colgate,RUSHING,Will,Carter,ATT,1
+9155010,11/21/2015,FCS,Bucknell,Colgate,RUSHING,Will,Carter,YDS,8
+9155011,11/21/2015,FCS,Bucknell,Colgate,RUSHING,Will,Carter,TD,0
+9155012,11/21/2015,FCS,Bucknell,Colgate,RUSHING,Will,Carter,LONG,8
+9155013,11/21/2015,FCS,Bucknell,Colgate,RUSHING,,Team,ATT,1
+9155014,11/21/2015,FCS,Bucknell,Colgate,RUSHING,,Team,YDS,0
+9155015,11/21/2015,FCS,Bucknell,Colgate,RUSHING,,Team,TD,0
+9155016,11/21/2015,FCS,Bucknell,Colgate,RUSHING,,Team,LONG,0
+9155017,11/21/2015,FCS,Bucknell,Colgate,RUSHING,RJ,Nitti,ATT,6
+9155018,11/21/2015,FCS,Bucknell,Colgate,RUSHING,RJ,Nitti,YDS,-32
+9155019,11/21/2015,FCS,Bucknell,Colgate,RUSHING,RJ,Nitti,TD,0
+9155020,11/21/2015,FCS,Bucknell,Colgate,RUSHING,RJ,Nitti,LONG,0
+9155021,11/21/2015,FCS,Bucknell,Colgate,PASSING,RJ,Nitti,CP-ATT-INT,21-30-2
+9155022,11/21/2015,FCS,Bucknell,Colgate,PASSING,RJ,Nitti,YDS,295
+9155023,11/21/2015,FCS,Bucknell,Colgate,PASSING,RJ,Nitti,TD,1
+9155024,11/21/2015,FCS,Bucknell,Colgate,PASSING,RJ,Nitti,LONG,56
+9155025,11/21/2015,FCS,Bucknell,Colgate,RECEIVING,Will,Carter,REC,8
+9155026,11/21/2015,FCS,Bucknell,Colgate,RECEIVING,Will,Carter,YDS,96
+9155027,11/21/2015,FCS,Bucknell,Colgate,RECEIVING,Will,Carter,TD,1
+9155028,11/21/2015,FCS,Bucknell,Colgate,RECEIVING,Will,Carter,LONG,47
+9155029,11/21/2015,FCS,Bucknell,Colgate,RECEIVING,Bobby,Kaslander,REC,4
+9155030,11/21/2015,FCS,Bucknell,Colgate,RECEIVING,Bobby,Kaslander,YDS,92
+9155031,11/21/2015,FCS,Bucknell,Colgate,RECEIVING,Bobby,Kaslander,TD,0
+9155032,11/21/2015,FCS,Bucknell,Colgate,RECEIVING,Bobby,Kaslander,LONG,56
+9155033,11/21/2015,FCS,Bucknell,Colgate,RECEIVING,Andrew,Owers,REC,1
+9155034,11/21/2015,FCS,Bucknell,Colgate,RECEIVING,Andrew,Owers,YDS,43
+9155035,11/21/2015,FCS,Bucknell,Colgate,RECEIVING,Andrew,Owers,TD,0
+9155036,11/21/2015,FCS,Bucknell,Colgate,RECEIVING,Andrew,Owers,LONG,43
+9155037,11/21/2015,FCS,Bucknell,Colgate,RECEIVING,Matt,DelMauro,REC,3
+9155038,11/21/2015,FCS,Bucknell,Colgate,RECEIVING,Matt,DelMauro,YDS,31
+9155039,11/21/2015,FCS,Bucknell,Colgate,RECEIVING,Matt,DelMauro,TD,0
+9155040,11/21/2015,FCS,Bucknell,Colgate,RECEIVING,Matt,DelMauro,LONG,25
+9155041,11/21/2015,FCS,Bucknell,Colgate,RECEIVING,Marcus,Ademilola,REC,2
+9155042,11/21/2015,FCS,Bucknell,Colgate,RECEIVING,Marcus,Ademilola,YDS,14
+9155043,11/21/2015,FCS,Bucknell,Colgate,RECEIVING,Marcus,Ademilola,TD,0
+9155044,11/21/2015,FCS,Bucknell,Colgate,RECEIVING,Marcus,Ademilola,LONG,9
+9155045,11/21/2015,FCS,Bucknell,Colgate,RECEIVING,Omar,Garcia,REC,2
+9155046,11/21/2015,FCS,Bucknell,Colgate,RECEIVING,Omar,Garcia,YDS,5
+9155047,11/21/2015,FCS,Bucknell,Colgate,RECEIVING,Omar,Garcia,TD,0
+9155048,11/21/2015,FCS,Bucknell,Colgate,RECEIVING,Omar,Garcia,LONG,6
+9155049,11/21/2015,FCS,Bucknell,Colgate,RECEIVING,Andrew,Podbielski,REC,1
+9155050,11/21/2015,FCS,Bucknell,Colgate,RECEIVING,Andrew,Podbielski,YDS,2
+9155051,11/21/2015,FCS,Bucknell,Colgate,RECEIVING,Andrew,Podbielski,TD,0
+9155052,11/21/2015,FCS,Bucknell,Colgate,RECEIVING,Andrew,Podbielski,LONG,2
+9155053,11/21/2015,FCS,Bucknell,Colgate,KICKING,Alex,Pechin,FG-FGA,1/2
+9155054,11/21/2015,FCS,Bucknell,Colgate,KICKING,Alex,Pechin,LONG,19
+9155055,11/21/2015,FCS,Bucknell,Colgate,KICKING,Alex,Pechin,XP,1
+9155056,11/21/2015,FCS,Bucknell,Colgate,KICKING,Alex,Pechin,PTS,4
+9155057,11/21/2015,FCS,Bucknell,Colgate,PUNTING,Alex,Pechin,NO,5
+9155058,11/21/2015,FCS,Bucknell,Colgate,PUNTING,Alex,Pechin,YDS,209
+9155059,11/21/2015,FCS,Bucknell,Colgate,PUNTING,Alex,Pechin,AVG,41.8
+9155060,11/21/2015,FCS,Bucknell,Colgate,PUNTING,Alex,Pechin,LONG,56
+9155061,11/21/2015,FCS,Bucknell,Colgate,PUNT RETURNS,Alan,Butler,NO,3
+9155062,11/21/2015,FCS,Bucknell,Colgate,PUNT RETURNS,Alan,Butler,YDS,15
+9155063,11/21/2015,FCS,Bucknell,Colgate,PUNT RETURNS,Alan,Butler,AVG,5.0
+9155064,11/21/2015,FCS,Bucknell,Colgate,PUNT RETURNS,Alan,Butler,LONG,9
+9155065,11/21/2015,FCS,Bucknell,Colgate,KICK RETURNS,Brian,Regan,NO,2
+9155066,11/21/2015,FCS,Bucknell,Colgate,KICK RETURNS,Brian,Regan,YDS,48
+9155067,11/21/2015,FCS,Bucknell,Colgate,KICK RETURNS,Brian,Regan,AVG,24.0
+9155068,11/21/2015,FCS,Bucknell,Colgate,KICK RETURNS,Brian,Regan,LONG,29
+9155069,11/21/2015,FCS,Bucknell,Colgate,KICK RETURNS,Matt,DelMauro,NO,1
+9155070,11/21/2015,FCS,Bucknell,Colgate,KICK RETURNS,Matt,DelMauro,YDS,18
+9155071,11/21/2015,FCS,Bucknell,Colgate,KICK RETURNS,Matt,DelMauro,AVG,18.0
+9155072,11/21/2015,FCS,Bucknell,Colgate,KICK RETURNS,Matt,DelMauro,LONG,18
+9155073,11/21/2015,FCS,Colgate,Bucknell,RUSHING,Demetrius,Russell,ATT,15
+9155074,11/21/2015,FCS,Colgate,Bucknell,RUSHING,Demetrius,Russell,YDS,54
+9155075,11/21/2015,FCS,Colgate,Bucknell,RUSHING,Demetrius,Russell,TD,1
+9155076,11/21/2015,FCS,Colgate,Bucknell,RUSHING,Demetrius,Russell,LONG,8
+9155077,11/21/2015,FCS,Colgate,Bucknell,RUSHING,James,Holland,ATT,8
+9155078,11/21/2015,FCS,Colgate,Bucknell,RUSHING,James,Holland,YDS,42
+9155079,11/21/2015,FCS,Colgate,Bucknell,RUSHING,James,Holland,TD,0
+9155080,11/21/2015,FCS,Colgate,Bucknell,RUSHING,James,Holland,LONG,26
+9155081,11/21/2015,FCS,Colgate,Bucknell,RUSHING,Jake,Melville,ATT,13
+9155082,11/21/2015,FCS,Colgate,Bucknell,RUSHING,Jake,Melville,YDS,39
+9155083,11/21/2015,FCS,Colgate,Bucknell,RUSHING,Jake,Melville,TD,1
+9155084,11/21/2015,FCS,Colgate,Bucknell,RUSHING,Jake,Melville,LONG,13
+9155085,11/21/2015,FCS,Colgate,Bucknell,RUSHING,,Team,ATT,1
+9155086,11/21/2015,FCS,Colgate,Bucknell,RUSHING,,Team,YDS,0
+9155087,11/21/2015,FCS,Colgate,Bucknell,RUSHING,,Team,TD,0
+9155088,11/21/2015,FCS,Colgate,Bucknell,RUSHING,,Team,LONG,0
+9155089,11/21/2015,FCS,Colgate,Bucknell,PASSING,Jake,Melville,CP-ATT-INT,8-22-0
+9155090,11/21/2015,FCS,Colgate,Bucknell,PASSING,Jake,Melville,YDS,163
+9155091,11/21/2015,FCS,Colgate,Bucknell,PASSING,Jake,Melville,TD,0
+9155092,11/21/2015,FCS,Colgate,Bucknell,PASSING,Jake,Melville,LONG,46
+9155093,11/21/2015,FCS,Colgate,Bucknell,RECEIVING,John,Maddaluna,REC,5
+9155094,11/21/2015,FCS,Colgate,Bucknell,RECEIVING,John,Maddaluna,YDS,134
+9155095,11/21/2015,FCS,Colgate,Bucknell,RECEIVING,John,Maddaluna,TD,0
+9155096,11/21/2015,FCS,Colgate,Bucknell,RECEIVING,John,Maddaluna,LONG,46
+9155097,11/21/2015,FCS,Colgate,Bucknell,RECEIVING,Demetrius,Russell,REC,3
+9155098,11/21/2015,FCS,Colgate,Bucknell,RECEIVING,Demetrius,Russell,YDS,29
+9155099,11/21/2015,FCS,Colgate,Bucknell,RECEIVING,Demetrius,Russell,TD,0
+9155100,11/21/2015,FCS,Colgate,Bucknell,RECEIVING,Demetrius,Russell,LONG,13
+9155101,11/21/2015,FCS,Colgate,Bucknell,KICKING,Jonah,Bowman,FG-FGA,0/0
+9155102,11/21/2015,FCS,Colgate,Bucknell,KICKING,Jonah,Bowman,LONG,-
+9155103,11/21/2015,FCS,Colgate,Bucknell,KICKING,Jonah,Bowman,XP,2
+9155104,11/21/2015,FCS,Colgate,Bucknell,KICKING,Jonah,Bowman,PTS,2
+9155105,11/21/2015,FCS,Colgate,Bucknell,PUNTING,Nikko,Armiento,NO,9
+9155106,11/21/2015,FCS,Colgate,Bucknell,PUNTING,Nikko,Armiento,YDS,336
+9155107,11/21/2015,FCS,Colgate,Bucknell,PUNTING,Nikko,Armiento,AVG,37.3
+9155108,11/21/2015,FCS,Colgate,Bucknell,PUNTING,Nikko,Armiento,LONG,48
+9155109,11/21/2015,FCS,Colgate,Bucknell,PUNT RETURNS,Christian,Hardegree,NO,2
+9155110,11/21/2015,FCS,Colgate,Bucknell,PUNT RETURNS,Christian,Hardegree,YDS,-2
+9155111,11/21/2015,FCS,Colgate,Bucknell,PUNT RETURNS,Christian,Hardegree,AVG,-
+9155112,11/21/2015,FCS,Colgate,Bucknell,PUNT RETURNS,Christian,Hardegree,LONG,0
+9155113,11/21/2015,FCS,Colgate,Bucknell,KICK RETURNS,John,Maddaluna,NO,3
+9155114,11/21/2015,FCS,Colgate,Bucknell,KICK RETURNS,John,Maddaluna,YDS,74
+9155115,11/21/2015,FCS,Colgate,Bucknell,KICK RETURNS,John,Maddaluna,AVG,24.7
+9155116,11/21/2015,FCS,Colgate,Bucknell,KICK RETURNS,John,Maddaluna,LONG,30

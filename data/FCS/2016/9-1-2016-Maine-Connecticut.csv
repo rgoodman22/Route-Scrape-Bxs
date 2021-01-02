@@ -1,0 +1,109 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9220001,9/1/2016,FCS,Maine,Connecticut,RUSHING,Joshua,Mack,ATT,9
+9220002,9/1/2016,FCS,Maine,Connecticut,RUSHING,Joshua,Mack,YDS,27
+9220003,9/1/2016,FCS,Maine,Connecticut,RUSHING,Joshua,Mack,TD,0
+9220004,9/1/2016,FCS,Maine,Connecticut,RUSHING,Joshua,Mack,LONG,7
+9220005,9/1/2016,FCS,Maine,Connecticut,RUSHING,Nigel,Beckford,ATT,9
+9220006,9/1/2016,FCS,Maine,Connecticut,RUSHING,Nigel,Beckford,YDS,7
+9220007,9/1/2016,FCS,Maine,Connecticut,RUSHING,Nigel,Beckford,TD,0
+9220008,9/1/2016,FCS,Maine,Connecticut,RUSHING,Nigel,Beckford,LONG,10
+9220009,9/1/2016,FCS,Maine,Connecticut,RUSHING,Jared,Osumah,ATT,1
+9220010,9/1/2016,FCS,Maine,Connecticut,RUSHING,Jared,Osumah,YDS,6
+9220011,9/1/2016,FCS,Maine,Connecticut,RUSHING,Jared,Osumah,TD,0
+9220012,9/1/2016,FCS,Maine,Connecticut,RUSHING,Jared,Osumah,LONG,6
+9220013,9/1/2016,FCS,Maine,Connecticut,PASSING,Dan,Collins,CP-ATT-INT,19-33-0
+9220014,9/1/2016,FCS,Maine,Connecticut,PASSING,Dan,Collins,YDS,269
+9220015,9/1/2016,FCS,Maine,Connecticut,PASSING,Dan,Collins,TD,2
+9220016,9/1/2016,FCS,Maine,Connecticut,PASSING,Dan,Collins,LONG,48
+9220017,9/1/2016,FCS,Maine,Connecticut,RECEIVING,Jaleel,Reed,REC,8
+9220018,9/1/2016,FCS,Maine,Connecticut,RECEIVING,Jaleel,Reed,YDS,169
+9220019,9/1/2016,FCS,Maine,Connecticut,RECEIVING,Jaleel,Reed,TD,1
+9220020,9/1/2016,FCS,Maine,Connecticut,RECEIVING,Jaleel,Reed,LONG,48
+9220021,9/1/2016,FCS,Maine,Connecticut,RECEIVING,Joshua,Mack,REC,3
+9220022,9/1/2016,FCS,Maine,Connecticut,RECEIVING,Joshua,Mack,YDS,36
+9220023,9/1/2016,FCS,Maine,Connecticut,RECEIVING,Joshua,Mack,TD,1
+9220024,9/1/2016,FCS,Maine,Connecticut,RECEIVING,Joshua,Mack,LONG,20
+9220025,9/1/2016,FCS,Maine,Connecticut,RECEIVING,Jared,Osumah,REC,4
+9220026,9/1/2016,FCS,Maine,Connecticut,RECEIVING,Jared,Osumah,YDS,27
+9220027,9/1/2016,FCS,Maine,Connecticut,RECEIVING,Jared,Osumah,TD,0
+9220028,9/1/2016,FCS,Maine,Connecticut,RECEIVING,Jared,Osumah,LONG,9
+9220029,9/1/2016,FCS,Maine,Connecticut,RECEIVING,Marquise,Adams,REC,1
+9220030,9/1/2016,FCS,Maine,Connecticut,RECEIVING,Marquise,Adams,YDS,20
+9220031,9/1/2016,FCS,Maine,Connecticut,RECEIVING,Marquise,Adams,TD,0
+9220032,9/1/2016,FCS,Maine,Connecticut,RECEIVING,Marquise,Adams,LONG,20
+9220033,9/1/2016,FCS,Maine,Connecticut,RECEIVING,Jordan,Dunn,REC,2
+9220034,9/1/2016,FCS,Maine,Connecticut,RECEIVING,Jordan,Dunn,YDS,9
+9220035,9/1/2016,FCS,Maine,Connecticut,RECEIVING,Jordan,Dunn,TD,0
+9220036,9/1/2016,FCS,Maine,Connecticut,RECEIVING,Jordan,Dunn,LONG,7
+9220037,9/1/2016,FCS,Maine,Connecticut,RECEIVING,Jaquan,Blair,REC,1
+9220038,9/1/2016,FCS,Maine,Connecticut,RECEIVING,Jaquan,Blair,YDS,8
+9220039,9/1/2016,FCS,Maine,Connecticut,RECEIVING,Jaquan,Blair,TD,0
+9220040,9/1/2016,FCS,Maine,Connecticut,RECEIVING,Jaquan,Blair,LONG,8
+9220041,9/1/2016,FCS,Maine,Connecticut,KICKING,Patrick,Leonard,FG-FGA,0/2
+9220042,9/1/2016,FCS,Maine,Connecticut,KICKING,Patrick,Leonard,LONG,0
+9220043,9/1/2016,FCS,Maine,Connecticut,KICKING,Patrick,Leonard,XP,3
+9220044,9/1/2016,FCS,Maine,Connecticut,KICKING,Patrick,Leonard,PTS,3
+9220045,9/1/2016,FCS,Maine,Connecticut,PUNTING,Derek,Deoul,NO,5
+9220046,9/1/2016,FCS,Maine,Connecticut,PUNTING,Derek,Deoul,YDS,191
+9220047,9/1/2016,FCS,Maine,Connecticut,PUNTING,Derek,Deoul,AVG,38.2
+9220048,9/1/2016,FCS,Maine,Connecticut,PUNTING,Derek,Deoul,LONG,48
+9220049,9/1/2016,FCS,Maine,Connecticut,KICK RETURNS,DeAndre,Scott,NO,1
+9220050,9/1/2016,FCS,Maine,Connecticut,KICK RETURNS,DeAndre,Scott,YDS,18
+9220051,9/1/2016,FCS,Maine,Connecticut,KICK RETURNS,DeAndre,Scott,AVG,18.0
+9220052,9/1/2016,FCS,Maine,Connecticut,KICK RETURNS,DeAndre,Scott,LONG,18
+9220053,9/1/2016,FCS,Maine,Connecticut,KICK RETURNS,Dakota,Tarbox,NO,1
+9220054,9/1/2016,FCS,Maine,Connecticut,KICK RETURNS,Dakota,Tarbox,YDS,16
+9220055,9/1/2016,FCS,Maine,Connecticut,KICK RETURNS,Dakota,Tarbox,AVG,16.0
+9220056,9/1/2016,FCS,Maine,Connecticut,KICK RETURNS,Dakota,Tarbox,LONG,16
+9220057,9/1/2016,FCS,Connecticut,Maine,RUSHING,Bryant,Shirreffs,ATT,20
+9220058,9/1/2016,FCS,Connecticut,Maine,RUSHING,Bryant,Shirreffs,YDS,95
+9220059,9/1/2016,FCS,Connecticut,Maine,RUSHING,Bryant,Shirreffs,TD,0
+9220060,9/1/2016,FCS,Connecticut,Maine,RUSHING,Bryant,Shirreffs,LONG,35
+9220061,9/1/2016,FCS,Connecticut,Maine,RUSHING,Ron,Johnson,ATT,15
+9220062,9/1/2016,FCS,Connecticut,Maine,RUSHING,Ron,Johnson,YDS,65
+9220063,9/1/2016,FCS,Connecticut,Maine,RUSHING,Ron,Johnson,TD,2
+9220064,9/1/2016,FCS,Connecticut,Maine,RUSHING,Ron,Johnson,LONG,21
+9220065,9/1/2016,FCS,Connecticut,Maine,RUSHING,Arkeel,Newsome,ATT,15
+9220066,9/1/2016,FCS,Connecticut,Maine,RUSHING,Arkeel,Newsome,YDS,40
+9220067,9/1/2016,FCS,Connecticut,Maine,RUSHING,Arkeel,Newsome,TD,1
+9220068,9/1/2016,FCS,Connecticut,Maine,RUSHING,Arkeel,Newsome,LONG,8
+9220069,9/1/2016,FCS,Connecticut,Maine,PASSING,Bryant,Shirreffs,CP-ATT-INT,16-23-0
+9220070,9/1/2016,FCS,Connecticut,Maine,PASSING,Bryant,Shirreffs,YDS,162
+9220071,9/1/2016,FCS,Connecticut,Maine,PASSING,Bryant,Shirreffs,TD,0
+9220072,9/1/2016,FCS,Connecticut,Maine,PASSING,Bryant,Shirreffs,LONG,24
+9220073,9/1/2016,FCS,Connecticut,Maine,RECEIVING,Noel,Thomas,REC,9
+9220074,9/1/2016,FCS,Connecticut,Maine,RECEIVING,Noel,Thomas,YDS,70
+9220075,9/1/2016,FCS,Connecticut,Maine,RECEIVING,Noel,Thomas,TD,0
+9220076,9/1/2016,FCS,Connecticut,Maine,RECEIVING,Noel,Thomas,LONG,18
+9220077,9/1/2016,FCS,Connecticut,Maine,RECEIVING,Arkeel,Newsome,REC,1
+9220078,9/1/2016,FCS,Connecticut,Maine,RECEIVING,Arkeel,Newsome,YDS,24
+9220079,9/1/2016,FCS,Connecticut,Maine,RECEIVING,Arkeel,Newsome,TD,0
+9220080,9/1/2016,FCS,Connecticut,Maine,RECEIVING,Arkeel,Newsome,LONG,24
+9220081,9/1/2016,FCS,Connecticut,Maine,RECEIVING,Tyler,Davis,REC,2
+9220082,9/1/2016,FCS,Connecticut,Maine,RECEIVING,Tyler,Davis,YDS,21
+9220083,9/1/2016,FCS,Connecticut,Maine,RECEIVING,Tyler,Davis,TD,0
+9220084,9/1/2016,FCS,Connecticut,Maine,RECEIVING,Tyler,Davis,LONG,12
+9220085,9/1/2016,FCS,Connecticut,Maine,RECEIVING,Brian,Lemelle,REC,1
+9220086,9/1/2016,FCS,Connecticut,Maine,RECEIVING,Brian,Lemelle,YDS,18
+9220087,9/1/2016,FCS,Connecticut,Maine,RECEIVING,Brian,Lemelle,TD,0
+9220088,9/1/2016,FCS,Connecticut,Maine,RECEIVING,Brian,Lemelle,LONG,18
+9220089,9/1/2016,FCS,Connecticut,Maine,RECEIVING,Tommy,Myers,REC,1
+9220090,9/1/2016,FCS,Connecticut,Maine,RECEIVING,Tommy,Myers,YDS,15
+9220091,9/1/2016,FCS,Connecticut,Maine,RECEIVING,Tommy,Myers,TD,0
+9220092,9/1/2016,FCS,Connecticut,Maine,RECEIVING,Tommy,Myers,LONG,15
+9220093,9/1/2016,FCS,Connecticut,Maine,RECEIVING,Ron,Johnson,REC,2
+9220094,9/1/2016,FCS,Connecticut,Maine,RECEIVING,Ron,Johnson,YDS,14
+9220095,9/1/2016,FCS,Connecticut,Maine,RECEIVING,Ron,Johnson,TD,0
+9220096,9/1/2016,FCS,Connecticut,Maine,RECEIVING,Ron,Johnson,LONG,8
+9220097,9/1/2016,FCS,Connecticut,Maine,KICKING,Bobby,Puyol,FG-FGA,1/1
+9220098,9/1/2016,FCS,Connecticut,Maine,KICKING,Bobby,Puyol,LONG,37
+9220099,9/1/2016,FCS,Connecticut,Maine,KICKING,Bobby,Puyol,XP,3
+9220100,9/1/2016,FCS,Connecticut,Maine,KICKING,Bobby,Puyol,PTS,6
+9220101,9/1/2016,FCS,Connecticut,Maine,PUNTING,Justin,Wain,NO,5
+9220102,9/1/2016,FCS,Connecticut,Maine,PUNTING,Justin,Wain,YDS,213
+9220103,9/1/2016,FCS,Connecticut,Maine,PUNTING,Justin,Wain,AVG,42.6
+9220104,9/1/2016,FCS,Connecticut,Maine,PUNTING,Justin,Wain,LONG,51
+9220105,9/1/2016,FCS,Connecticut,Maine,KICK RETURNS,Arkeel,Newsome,NO,3
+9220106,9/1/2016,FCS,Connecticut,Maine,KICK RETURNS,Arkeel,Newsome,YDS,52
+9220107,9/1/2016,FCS,Connecticut,Maine,KICK RETURNS,Arkeel,Newsome,AVG,17.3
+9220108,9/1/2016,FCS,Connecticut,Maine,KICK RETURNS,Arkeel,Newsome,LONG,22

@@ -1,0 +1,117 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9005001,11/7/2015,FCS,Montana,Idaho State,RUSHING,Makena,Simis,ATT,22
+9005002,11/7/2015,FCS,Montana,Idaho State,RUSHING,Makena,Simis,YDS,105
+9005003,11/7/2015,FCS,Montana,Idaho State,RUSHING,Makena,Simis,TD,0
+9005004,11/7/2015,FCS,Montana,Idaho State,RUSHING,Makena,Simis,LONG,31
+9005005,11/7/2015,FCS,Montana,Idaho State,RUSHING,Jeremy,Calhoun,ATT,21
+9005006,11/7/2015,FCS,Montana,Idaho State,RUSHING,Jeremy,Calhoun,YDS,98
+9005007,11/7/2015,FCS,Montana,Idaho State,RUSHING,Jeremy,Calhoun,TD,1
+9005008,11/7/2015,FCS,Montana,Idaho State,RUSHING,Jeremy,Calhoun,LONG,27
+9005009,11/7/2015,FCS,Montana,Idaho State,RUSHING,John,Nguyen,ATT,17
+9005010,11/7/2015,FCS,Montana,Idaho State,RUSHING,John,Nguyen,YDS,62
+9005011,11/7/2015,FCS,Montana,Idaho State,RUSHING,John,Nguyen,TD,1
+9005012,11/7/2015,FCS,Montana,Idaho State,RUSHING,John,Nguyen,LONG,28
+9005013,11/7/2015,FCS,Montana,Idaho State,PASSING,Makena,Simis,CP-ATT-INT,23-39-1
+9005014,11/7/2015,FCS,Montana,Idaho State,PASSING,Makena,Simis,YDS,169
+9005015,11/7/2015,FCS,Montana,Idaho State,PASSING,Makena,Simis,TD,0
+9005016,11/7/2015,FCS,Montana,Idaho State,PASSING,Makena,Simis,LONG,21
+9005017,11/7/2015,FCS,Montana,Idaho State,RECEIVING,Jamaal,Jones,REC,5
+9005018,11/7/2015,FCS,Montana,Idaho State,RECEIVING,Jamaal,Jones,YDS,56
+9005019,11/7/2015,FCS,Montana,Idaho State,RECEIVING,Jamaal,Jones,TD,0
+9005020,11/7/2015,FCS,Montana,Idaho State,RECEIVING,Jamaal,Jones,LONG,21
+9005021,11/7/2015,FCS,Montana,Idaho State,RECEIVING,Ellis,Henderson,REC,5
+9005022,11/7/2015,FCS,Montana,Idaho State,RECEIVING,Ellis,Henderson,YDS,46
+9005023,11/7/2015,FCS,Montana,Idaho State,RECEIVING,Ellis,Henderson,TD,0
+9005024,11/7/2015,FCS,Montana,Idaho State,RECEIVING,Ellis,Henderson,LONG,18
+9005025,11/7/2015,FCS,Montana,Idaho State,RECEIVING,John,Nguyen,REC,4
+9005026,11/7/2015,FCS,Montana,Idaho State,RECEIVING,John,Nguyen,YDS,24
+9005027,11/7/2015,FCS,Montana,Idaho State,RECEIVING,John,Nguyen,TD,0
+9005028,11/7/2015,FCS,Montana,Idaho State,RECEIVING,John,Nguyen,LONG,10
+9005029,11/7/2015,FCS,Montana,Idaho State,RECEIVING,Ben,Roberts,REC,6
+9005030,11/7/2015,FCS,Montana,Idaho State,RECEIVING,Ben,Roberts,YDS,24
+9005031,11/7/2015,FCS,Montana,Idaho State,RECEIVING,Ben,Roberts,TD,0
+9005032,11/7/2015,FCS,Montana,Idaho State,RECEIVING,Ben,Roberts,LONG,5
+9005033,11/7/2015,FCS,Montana,Idaho State,RECEIVING,Josh,Horner,REC,1
+9005034,11/7/2015,FCS,Montana,Idaho State,RECEIVING,Josh,Horner,YDS,14
+9005035,11/7/2015,FCS,Montana,Idaho State,RECEIVING,Josh,Horner,TD,0
+9005036,11/7/2015,FCS,Montana,Idaho State,RECEIVING,Josh,Horner,LONG,14
+9005037,11/7/2015,FCS,Montana,Idaho State,RECEIVING,Keenan,Curran,REC,1
+9005038,11/7/2015,FCS,Montana,Idaho State,RECEIVING,Keenan,Curran,YDS,5
+9005039,11/7/2015,FCS,Montana,Idaho State,RECEIVING,Keenan,Curran,TD,0
+9005040,11/7/2015,FCS,Montana,Idaho State,RECEIVING,Keenan,Curran,LONG,5
+9005041,11/7/2015,FCS,Montana,Idaho State,RECEIVING,Jeremy,Calhoun,REC,1
+9005042,11/7/2015,FCS,Montana,Idaho State,RECEIVING,Jeremy,Calhoun,YDS,0
+9005043,11/7/2015,FCS,Montana,Idaho State,RECEIVING,Jeremy,Calhoun,TD,0
+9005044,11/7/2015,FCS,Montana,Idaho State,RECEIVING,Jeremy,Calhoun,LONG,0
+9005045,11/7/2015,FCS,Montana,Idaho State,KICKING,Daniel,Sullivan,FG-FGA,2/4
+9005046,11/7/2015,FCS,Montana,Idaho State,KICKING,Daniel,Sullivan,LONG,26
+9005047,11/7/2015,FCS,Montana,Idaho State,KICKING,Daniel,Sullivan,XP,3
+9005048,11/7/2015,FCS,Montana,Idaho State,KICKING,Daniel,Sullivan,PTS,9
+9005049,11/7/2015,FCS,Montana,Idaho State,PUNTING,Chris,Lider,NO,5
+9005050,11/7/2015,FCS,Montana,Idaho State,PUNTING,Chris,Lider,YDS,224
+9005051,11/7/2015,FCS,Montana,Idaho State,PUNTING,Chris,Lider,AVG,44.8
+9005052,11/7/2015,FCS,Montana,Idaho State,PUNTING,Chris,Lider,LONG,61
+9005053,11/7/2015,FCS,Montana,Idaho State,KICK RETURNS,Keenan,Curran,NO,2
+9005054,11/7/2015,FCS,Montana,Idaho State,KICK RETURNS,Keenan,Curran,YDS,33
+9005055,11/7/2015,FCS,Montana,Idaho State,KICK RETURNS,Keenan,Curran,AVG,16.5
+9005056,11/7/2015,FCS,Montana,Idaho State,KICK RETURNS,Keenan,Curran,LONG,21
+9005057,11/7/2015,FCS,Idaho State,Montana,RUSHING,Xavier,Finney,ATT,24
+9005058,11/7/2015,FCS,Idaho State,Montana,RUSHING,Xavier,Finney,YDS,105
+9005059,11/7/2015,FCS,Idaho State,Montana,RUSHING,Xavier,Finney,TD,0
+9005060,11/7/2015,FCS,Idaho State,Montana,RUSHING,Xavier,Finney,LONG,10
+9005061,11/7/2015,FCS,Idaho State,Montana,RUSHING,Jakori,Ford,ATT,6
+9005062,11/7/2015,FCS,Idaho State,Montana,RUSHING,Jakori,Ford,YDS,87
+9005063,11/7/2015,FCS,Idaho State,Montana,RUSHING,Jakori,Ford,TD,1
+9005064,11/7/2015,FCS,Idaho State,Montana,RUSHING,Jakori,Ford,LONG,53
+9005065,11/7/2015,FCS,Idaho State,Montana,RUSHING,Tanner,Gueller,ATT,13
+9005066,11/7/2015,FCS,Idaho State,Montana,RUSHING,Tanner,Gueller,YDS,-16
+9005067,11/7/2015,FCS,Idaho State,Montana,RUSHING,Tanner,Gueller,TD,0
+9005068,11/7/2015,FCS,Idaho State,Montana,RUSHING,Tanner,Gueller,LONG,13
+9005069,11/7/2015,FCS,Idaho State,Montana,RUSHING,,Team,ATT,1
+9005070,11/7/2015,FCS,Idaho State,Montana,RUSHING,,Team,YDS,-43
+9005071,11/7/2015,FCS,Idaho State,Montana,RUSHING,,Team,TD,0
+9005072,11/7/2015,FCS,Idaho State,Montana,RUSHING,,Team,LONG,0
+9005073,11/7/2015,FCS,Idaho State,Montana,PASSING,Tanner,Gueller,CP-ATT-INT,23-49-3
+9005074,11/7/2015,FCS,Idaho State,Montana,PASSING,Tanner,Gueller,YDS,253
+9005075,11/7/2015,FCS,Idaho State,Montana,PASSING,Tanner,Gueller,TD,3
+9005076,11/7/2015,FCS,Idaho State,Montana,PASSING,Tanner,Gueller,LONG,26
+9005077,11/7/2015,FCS,Idaho State,Montana,RECEIVING,KW,Williams,REC,7
+9005078,11/7/2015,FCS,Idaho State,Montana,RECEIVING,KW,Williams,YDS,87
+9005079,11/7/2015,FCS,Idaho State,Montana,RECEIVING,KW,Williams,TD,2
+9005080,11/7/2015,FCS,Idaho State,Montana,RECEIVING,KW,Williams,LONG,26
+9005081,11/7/2015,FCS,Idaho State,Montana,RECEIVING,Broc,Malcom,REC,4
+9005082,11/7/2015,FCS,Idaho State,Montana,RECEIVING,Broc,Malcom,YDS,51
+9005083,11/7/2015,FCS,Idaho State,Montana,RECEIVING,Broc,Malcom,TD,0
+9005084,11/7/2015,FCS,Idaho State,Montana,RECEIVING,Broc,Malcom,LONG,20
+9005085,11/7/2015,FCS,Idaho State,Montana,RECEIVING,Madison,Mangum,REC,4
+9005086,11/7/2015,FCS,Idaho State,Montana,RECEIVING,Madison,Mangum,YDS,42
+9005087,11/7/2015,FCS,Idaho State,Montana,RECEIVING,Madison,Mangum,TD,0
+9005088,11/7/2015,FCS,Idaho State,Montana,RECEIVING,Madison,Mangum,LONG,14
+9005089,11/7/2015,FCS,Idaho State,Montana,RECEIVING,Xavier,Finney,REC,4
+9005090,11/7/2015,FCS,Idaho State,Montana,RECEIVING,Xavier,Finney,YDS,41
+9005091,11/7/2015,FCS,Idaho State,Montana,RECEIVING,Xavier,Finney,TD,0
+9005092,11/7/2015,FCS,Idaho State,Montana,RECEIVING,Xavier,Finney,LONG,16
+9005093,11/7/2015,FCS,Idaho State,Montana,RECEIVING,Tyler,Graves,REC,3
+9005094,11/7/2015,FCS,Idaho State,Montana,RECEIVING,Tyler,Graves,YDS,32
+9005095,11/7/2015,FCS,Idaho State,Montana,RECEIVING,Tyler,Graves,TD,1
+9005096,11/7/2015,FCS,Idaho State,Montana,RECEIVING,Tyler,Graves,LONG,21
+9005097,11/7/2015,FCS,Idaho State,Montana,RECEIVING,Jakori,Ford,REC,1
+9005098,11/7/2015,FCS,Idaho State,Montana,RECEIVING,Jakori,Ford,YDS,0
+9005099,11/7/2015,FCS,Idaho State,Montana,RECEIVING,Jakori,Ford,TD,0
+9005100,11/7/2015,FCS,Idaho State,Montana,RECEIVING,Jakori,Ford,LONG,0
+9005101,11/7/2015,FCS,Idaho State,Montana,KICKING,Zak,Johnson,FG-FGA,0/0
+9005102,11/7/2015,FCS,Idaho State,Montana,KICKING,Zak,Johnson,LONG,-
+9005103,11/7/2015,FCS,Idaho State,Montana,KICKING,Zak,Johnson,XP,1
+9005104,11/7/2015,FCS,Idaho State,Montana,KICKING,Zak,Johnson,PTS,1
+9005105,11/7/2015,FCS,Idaho State,Montana,PUNTING,Zak,Johnson,NO,7
+9005106,11/7/2015,FCS,Idaho State,Montana,PUNTING,Zak,Johnson,YDS,276
+9005107,11/7/2015,FCS,Idaho State,Montana,PUNTING,Zak,Johnson,AVG,39.4
+9005108,11/7/2015,FCS,Idaho State,Montana,PUNTING,Zak,Johnson,LONG,48
+9005109,11/7/2015,FCS,Idaho State,Montana,PUNT RETURNS,Madison,Mangum,NO,2
+9005110,11/7/2015,FCS,Idaho State,Montana,PUNT RETURNS,Madison,Mangum,YDS,10
+9005111,11/7/2015,FCS,Idaho State,Montana,PUNT RETURNS,Madison,Mangum,AVG,5.0
+9005112,11/7/2015,FCS,Idaho State,Montana,PUNT RETURNS,Madison,Mangum,LONG,10
+9005113,11/7/2015,FCS,Idaho State,Montana,KICK RETURNS,Hagen,Graves,NO,2
+9005114,11/7/2015,FCS,Idaho State,Montana,KICK RETURNS,Hagen,Graves,YDS,30
+9005115,11/7/2015,FCS,Idaho State,Montana,KICK RETURNS,Hagen,Graves,AVG,15.0
+9005116,11/7/2015,FCS,Idaho State,Montana,KICK RETURNS,Hagen,Graves,LONG,15

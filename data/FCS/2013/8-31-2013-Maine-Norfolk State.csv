@@ -1,0 +1,149 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+6784001,8/31/2013,FCS,Maine,Norfolk State,RUSHING,Marcus,Wasilewski,ATT,11
+6784002,8/31/2013,FCS,Maine,Norfolk State,RUSHING,Marcus,Wasilewski,YDS,54
+6784003,8/31/2013,FCS,Maine,Norfolk State,RUSHING,Marcus,Wasilewski,TD,0
+6784004,8/31/2013,FCS,Maine,Norfolk State,RUSHING,Marcus,Wasilewski,LONG,10
+6784005,8/31/2013,FCS,Maine,Norfolk State,RUSHING,Zedric,Joseph,ATT,12
+6784006,8/31/2013,FCS,Maine,Norfolk State,RUSHING,Zedric,Joseph,YDS,46
+6784007,8/31/2013,FCS,Maine,Norfolk State,RUSHING,Zedric,Joseph,TD,0
+6784008,8/31/2013,FCS,Maine,Norfolk State,RUSHING,Zedric,Joseph,LONG,11
+6784009,8/31/2013,FCS,Maine,Norfolk State,RUSHING,Rickey,Stevens,ATT,10
+6784010,8/31/2013,FCS,Maine,Norfolk State,RUSHING,Rickey,Stevens,YDS,46
+6784011,8/31/2013,FCS,Maine,Norfolk State,RUSHING,Rickey,Stevens,TD,1
+6784012,8/31/2013,FCS,Maine,Norfolk State,RUSHING,Rickey,Stevens,LONG,12
+6784013,8/31/2013,FCS,Maine,Norfolk State,RUSHING,Nigel,Jones,ATT,6
+6784014,8/31/2013,FCS,Maine,Norfolk State,RUSHING,Nigel,Jones,YDS,23
+6784015,8/31/2013,FCS,Maine,Norfolk State,RUSHING,Nigel,Jones,TD,0
+6784016,8/31/2013,FCS,Maine,Norfolk State,RUSHING,Nigel,Jones,LONG,8
+6784017,8/31/2013,FCS,Maine,Norfolk State,RUSHING,,Team,ATT,1
+6784018,8/31/2013,FCS,Maine,Norfolk State,RUSHING,,Team,YDS,-1
+6784019,8/31/2013,FCS,Maine,Norfolk State,RUSHING,,Team,TD,0
+6784020,8/31/2013,FCS,Maine,Norfolk State,RUSHING,,Team,LONG,0
+6784021,8/31/2013,FCS,Maine,Norfolk State,PASSING,Marcus,Wasilewski,CP-ATT-INT,15-28-1
+6784022,8/31/2013,FCS,Maine,Norfolk State,PASSING,Marcus,Wasilewski,YDS,209
+6784023,8/31/2013,FCS,Maine,Norfolk State,PASSING,Marcus,Wasilewski,TD,1
+6784024,8/31/2013,FCS,Maine,Norfolk State,PASSING,Marcus,Wasilewski,LONG,85
+6784025,8/31/2013,FCS,Maine,Norfolk State,RECEIVING,Derrick,Johnson,REC,8
+6784026,8/31/2013,FCS,Maine,Norfolk State,RECEIVING,Derrick,Johnson,YDS,82
+6784027,8/31/2013,FCS,Maine,Norfolk State,RECEIVING,Derrick,Johnson,TD,0
+6784028,8/31/2013,FCS,Maine,Norfolk State,RECEIVING,Derrick,Johnson,LONG,33
+6784029,8/31/2013,FCS,Maine,Norfolk State,RECEIVING,John,Ebeling,REC,3
+6784030,8/31/2013,FCS,Maine,Norfolk State,RECEIVING,John,Ebeling,YDS,28
+6784031,8/31/2013,FCS,Maine,Norfolk State,RECEIVING,John,Ebeling,TD,0
+6784032,8/31/2013,FCS,Maine,Norfolk State,RECEIVING,John,Ebeling,LONG,19
+6784033,8/31/2013,FCS,Maine,Norfolk State,RECEIVING,Zedric,Joseph,REC,2
+6784034,8/31/2013,FCS,Maine,Norfolk State,RECEIVING,Zedric,Joseph,YDS,90
+6784035,8/31/2013,FCS,Maine,Norfolk State,RECEIVING,Zedric,Joseph,TD,1
+6784036,8/31/2013,FCS,Maine,Norfolk State,RECEIVING,Zedric,Joseph,LONG,85
+6784037,8/31/2013,FCS,Maine,Norfolk State,RECEIVING,Rickey,Stevens,REC,1
+6784038,8/31/2013,FCS,Maine,Norfolk State,RECEIVING,Rickey,Stevens,YDS,7
+6784039,8/31/2013,FCS,Maine,Norfolk State,RECEIVING,Rickey,Stevens,TD,0
+6784040,8/31/2013,FCS,Maine,Norfolk State,RECEIVING,Rickey,Stevens,LONG,7
+6784041,8/31/2013,FCS,Maine,Norfolk State,RECEIVING,Damarr,Aultman,REC,1
+6784042,8/31/2013,FCS,Maine,Norfolk State,RECEIVING,Damarr,Aultman,YDS,2
+6784043,8/31/2013,FCS,Maine,Norfolk State,RECEIVING,Damarr,Aultman,TD,0
+6784044,8/31/2013,FCS,Maine,Norfolk State,RECEIVING,Damarr,Aultman,LONG,2
+6784045,8/31/2013,FCS,Maine,Norfolk State,KICKING,Sean,Decloux,FG-FGA,3/4
+6784046,8/31/2013,FCS,Maine,Norfolk State,KICKING,Sean,Decloux,LONG,41
+6784047,8/31/2013,FCS,Maine,Norfolk State,KICKING,Sean,Decloux,XP,2
+6784048,8/31/2013,FCS,Maine,Norfolk State,KICKING,Sean,Decloux,PTS,11
+6784049,8/31/2013,FCS,Maine,Norfolk State,PUNTING,Jeffrey,Ondish,NO,5
+6784050,8/31/2013,FCS,Maine,Norfolk State,PUNTING,Jeffrey,Ondish,YDS,225
+6784051,8/31/2013,FCS,Maine,Norfolk State,PUNTING,Jeffrey,Ondish,AVG,45.0
+6784052,8/31/2013,FCS,Maine,Norfolk State,PUNTING,Jeffrey,Ondish,LONG,58
+6784053,8/31/2013,FCS,Maine,Norfolk State,PUNTING,Marcus,Wasilewski,NO,1
+6784054,8/31/2013,FCS,Maine,Norfolk State,PUNTING,Marcus,Wasilewski,YDS,17
+6784055,8/31/2013,FCS,Maine,Norfolk State,PUNTING,Marcus,Wasilewski,AVG,17.0
+6784056,8/31/2013,FCS,Maine,Norfolk State,PUNTING,Marcus,Wasilewski,LONG,17
+6784057,8/31/2013,FCS,Maine,Norfolk State,PUNT RETURNS,Sherrod,Baltimore,NO,5
+6784058,8/31/2013,FCS,Maine,Norfolk State,PUNT RETURNS,Sherrod,Baltimore,YDS,30
+6784059,8/31/2013,FCS,Maine,Norfolk State,PUNT RETURNS,Sherrod,Baltimore,AVG,6.0
+6784060,8/31/2013,FCS,Maine,Norfolk State,PUNT RETURNS,Sherrod,Baltimore,LONG,15
+6784061,8/31/2013,FCS,Maine,Norfolk State,KICK RETURNS,Rickey,Stevens,NO,2
+6784062,8/31/2013,FCS,Maine,Norfolk State,KICK RETURNS,Rickey,Stevens,YDS,53
+6784063,8/31/2013,FCS,Maine,Norfolk State,KICK RETURNS,Rickey,Stevens,AVG,26.5
+6784064,8/31/2013,FCS,Maine,Norfolk State,KICK RETURNS,Rickey,Stevens,LONG,37
+6784065,8/31/2013,FCS,Norfolk State,Maine,RUSHING,Rolandan,Finch,ATT,17
+6784066,8/31/2013,FCS,Norfolk State,Maine,RUSHING,Rolandan,Finch,YDS,80
+6784067,8/31/2013,FCS,Norfolk State,Maine,RUSHING,Rolandan,Finch,TD,0
+6784068,8/31/2013,FCS,Norfolk State,Maine,RUSHING,Rolandan,Finch,LONG,16
+6784069,8/31/2013,FCS,Norfolk State,Maine,RUSHING,Brendon,Riddick,ATT,6
+6784070,8/31/2013,FCS,Norfolk State,Maine,RUSHING,Brendon,Riddick,YDS,25
+6784071,8/31/2013,FCS,Norfolk State,Maine,RUSHING,Brendon,Riddick,TD,0
+6784072,8/31/2013,FCS,Norfolk State,Maine,RUSHING,Brendon,Riddick,LONG,9
+6784073,8/31/2013,FCS,Norfolk State,Maine,RUSHING,Malik,Stokes,ATT,5
+6784074,8/31/2013,FCS,Norfolk State,Maine,RUSHING,Malik,Stokes,YDS,21
+6784075,8/31/2013,FCS,Norfolk State,Maine,RUSHING,Malik,Stokes,TD,0
+6784076,8/31/2013,FCS,Norfolk State,Maine,RUSHING,Malik,Stokes,LONG,10
+6784077,8/31/2013,FCS,Norfolk State,Maine,RUSHING,,Team,ATT,1
+6784078,8/31/2013,FCS,Norfolk State,Maine,RUSHING,,Team,YDS,-9
+6784079,8/31/2013,FCS,Norfolk State,Maine,RUSHING,,Team,TD,0
+6784080,8/31/2013,FCS,Norfolk State,Maine,RUSHING,,Team,LONG,0
+6784081,8/31/2013,FCS,Norfolk State,Maine,RUSHING,Dalton,Fraser,ATT,1
+6784082,8/31/2013,FCS,Norfolk State,Maine,RUSHING,Dalton,Fraser,YDS,-16
+6784083,8/31/2013,FCS,Norfolk State,Maine,RUSHING,Dalton,Fraser,TD,0
+6784084,8/31/2013,FCS,Norfolk State,Maine,RUSHING,Dalton,Fraser,LONG,0
+6784085,8/31/2013,FCS,Norfolk State,Maine,RUSHING,Tyler,Clark,ATT,4
+6784086,8/31/2013,FCS,Norfolk State,Maine,RUSHING,Tyler,Clark,YDS,-21
+6784087,8/31/2013,FCS,Norfolk State,Maine,RUSHING,Tyler,Clark,TD,0
+6784088,8/31/2013,FCS,Norfolk State,Maine,RUSHING,Tyler,Clark,LONG,0
+6784089,8/31/2013,FCS,Norfolk State,Maine,PASSING,Malik,Stokes,CP-ATT-INT,10-29-0
+6784090,8/31/2013,FCS,Norfolk State,Maine,PASSING,Malik,Stokes,YDS,104
+6784091,8/31/2013,FCS,Norfolk State,Maine,PASSING,Malik,Stokes,TD,1
+6784092,8/31/2013,FCS,Norfolk State,Maine,PASSING,Malik,Stokes,LONG,34
+6784093,8/31/2013,FCS,Norfolk State,Maine,PASSING,Tyler,Clark,CP-ATT-INT,3-8-1
+6784094,8/31/2013,FCS,Norfolk State,Maine,PASSING,Tyler,Clark,YDS,40
+6784095,8/31/2013,FCS,Norfolk State,Maine,PASSING,Tyler,Clark,TD,0
+6784096,8/31/2013,FCS,Norfolk State,Maine,PASSING,Tyler,Clark,LONG,21
+6784097,8/31/2013,FCS,Norfolk State,Maine,PASSING,,Team,CP-ATT-INT,0-1-0
+6784098,8/31/2013,FCS,Norfolk State,Maine,PASSING,,Team,YDS,0
+6784099,8/31/2013,FCS,Norfolk State,Maine,PASSING,,Team,TD,0
+6784100,8/31/2013,FCS,Norfolk State,Maine,PASSING,,Team,LONG,0
+6784101,8/31/2013,FCS,Norfolk State,Maine,RECEIVING,Joseph,Hawkins,REC,3
+6784102,8/31/2013,FCS,Norfolk State,Maine,RECEIVING,Joseph,Hawkins,YDS,49
+6784103,8/31/2013,FCS,Norfolk State,Maine,RECEIVING,Joseph,Hawkins,TD,1
+6784104,8/31/2013,FCS,Norfolk State,Maine,RECEIVING,Joseph,Hawkins,LONG,34
+6784105,8/31/2013,FCS,Norfolk State,Maine,RECEIVING,Rolandan,Finch,REC,3
+6784106,8/31/2013,FCS,Norfolk State,Maine,RECEIVING,Rolandan,Finch,YDS,24
+6784107,8/31/2013,FCS,Norfolk State,Maine,RECEIVING,Rolandan,Finch,TD,0
+6784108,8/31/2013,FCS,Norfolk State,Maine,RECEIVING,Rolandan,Finch,LONG,20
+6784109,8/31/2013,FCS,Norfolk State,Maine,RECEIVING,Keith,Johnson,REC,2
+6784110,8/31/2013,FCS,Norfolk State,Maine,RECEIVING,Keith,Johnson,YDS,32
+6784111,8/31/2013,FCS,Norfolk State,Maine,RECEIVING,Keith,Johnson,TD,0
+6784112,8/31/2013,FCS,Norfolk State,Maine,RECEIVING,Keith,Johnson,LONG,21
+6784113,8/31/2013,FCS,Norfolk State,Maine,RECEIVING,Je'Ron,Stokes,REC,2
+6784114,8/31/2013,FCS,Norfolk State,Maine,RECEIVING,Je'Ron,Stokes,YDS,24
+6784115,8/31/2013,FCS,Norfolk State,Maine,RECEIVING,Je'Ron,Stokes,TD,0
+6784116,8/31/2013,FCS,Norfolk State,Maine,RECEIVING,Je'Ron,Stokes,LONG,14
+6784117,8/31/2013,FCS,Norfolk State,Maine,RECEIVING,Brendon,Riddick,REC,2
+6784118,8/31/2013,FCS,Norfolk State,Maine,RECEIVING,Brendon,Riddick,YDS,6
+6784119,8/31/2013,FCS,Norfolk State,Maine,RECEIVING,Brendon,Riddick,TD,0
+6784120,8/31/2013,FCS,Norfolk State,Maine,RECEIVING,Brendon,Riddick,LONG,7
+6784121,8/31/2013,FCS,Norfolk State,Maine,RECEIVING,Conley,Smith,REC,1
+6784122,8/31/2013,FCS,Norfolk State,Maine,RECEIVING,Conley,Smith,YDS,9
+6784123,8/31/2013,FCS,Norfolk State,Maine,RECEIVING,Conley,Smith,TD,0
+6784124,8/31/2013,FCS,Norfolk State,Maine,RECEIVING,Conley,Smith,LONG,9
+6784125,8/31/2013,FCS,Norfolk State,Maine,KICKING,Ryan,Lee,FG-FGA,0/0
+6784126,8/31/2013,FCS,Norfolk State,Maine,KICKING,Ryan,Lee,LONG,-
+6784127,8/31/2013,FCS,Norfolk State,Maine,KICKING,Ryan,Lee,XP,0
+6784128,8/31/2013,FCS,Norfolk State,Maine,KICKING,Ryan,Lee,PTS,0
+6784129,8/31/2013,FCS,Norfolk State,Maine,PUNTING,Dalton,Fraser,NO,12
+6784130,8/31/2013,FCS,Norfolk State,Maine,PUNTING,Dalton,Fraser,YDS,431
+6784131,8/31/2013,FCS,Norfolk State,Maine,PUNTING,Dalton,Fraser,AVG,35.9
+6784132,8/31/2013,FCS,Norfolk State,Maine,PUNTING,Dalton,Fraser,LONG,42
+6784133,8/31/2013,FCS,Norfolk State,Maine,PUNT RETURNS,Collin,Frazer,NO,2
+6784134,8/31/2013,FCS,Norfolk State,Maine,PUNT RETURNS,Collin,Frazer,YDS,5
+6784135,8/31/2013,FCS,Norfolk State,Maine,PUNT RETURNS,Collin,Frazer,AVG,2.5
+6784136,8/31/2013,FCS,Norfolk State,Maine,PUNT RETURNS,Collin,Frazer,LONG,5
+6784137,8/31/2013,FCS,Norfolk State,Maine,PUNT RETURNS,Je'Ron,Stokes,NO,1
+6784138,8/31/2013,FCS,Norfolk State,Maine,PUNT RETURNS,Je'Ron,Stokes,YDS,2
+6784139,8/31/2013,FCS,Norfolk State,Maine,PUNT RETURNS,Je'Ron,Stokes,AVG,2.0
+6784140,8/31/2013,FCS,Norfolk State,Maine,PUNT RETURNS,Je'Ron,Stokes,LONG,2
+6784141,8/31/2013,FCS,Norfolk State,Maine,KICK RETURNS,Collin,Frazer,NO,5
+6784142,8/31/2013,FCS,Norfolk State,Maine,KICK RETURNS,Collin,Frazer,YDS,92
+6784143,8/31/2013,FCS,Norfolk State,Maine,KICK RETURNS,Collin,Frazer,AVG,18.4
+6784144,8/31/2013,FCS,Norfolk State,Maine,KICK RETURNS,Collin,Frazer,LONG,26
+6784145,8/31/2013,FCS,Norfolk State,Maine,KICK RETURNS,Aaron,Daniels,NO,1
+6784146,8/31/2013,FCS,Norfolk State,Maine,KICK RETURNS,Aaron,Daniels,YDS,17
+6784147,8/31/2013,FCS,Norfolk State,Maine,KICK RETURNS,Aaron,Daniels,AVG,17.0
+6784148,8/31/2013,FCS,Norfolk State,Maine,KICK RETURNS,Aaron,Daniels,LONG,17

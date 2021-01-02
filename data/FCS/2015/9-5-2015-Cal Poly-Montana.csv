@@ -1,0 +1,202 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+8485001,9/5/2015,FCS,Cal Poly,Montana,RUSHING,Chris,Brown,ATT,24
+8485002,9/5/2015,FCS,Cal Poly,Montana,RUSHING,Chris,Brown,YDS,130
+8485003,9/5/2015,FCS,Cal Poly,Montana,RUSHING,Chris,Brown,TD,1
+8485004,9/5/2015,FCS,Cal Poly,Montana,RUSHING,Chris,Brown,LONG,60
+8485005,9/5/2015,FCS,Cal Poly,Montana,RUSHING,Joe,Protheroe,ATT,29
+8485006,9/5/2015,FCS,Cal Poly,Montana,RUSHING,Joe,Protheroe,YDS,112
+8485007,9/5/2015,FCS,Cal Poly,Montana,RUSHING,Joe,Protheroe,TD,0
+8485008,9/5/2015,FCS,Cal Poly,Montana,RUSHING,Joe,Protheroe,LONG,8
+8485009,9/5/2015,FCS,Cal Poly,Montana,RUSHING,Kori,Garcia,ATT,15
+8485010,9/5/2015,FCS,Cal Poly,Montana,RUSHING,Kori,Garcia,YDS,49
+8485011,9/5/2015,FCS,Cal Poly,Montana,RUSHING,Kori,Garcia,TD,0
+8485012,9/5/2015,FCS,Cal Poly,Montana,RUSHING,Kori,Garcia,LONG,10
+8485013,9/5/2015,FCS,Cal Poly,Montana,RUSHING,Jared,Mohamed,ATT,7
+8485014,9/5/2015,FCS,Cal Poly,Montana,RUSHING,Jared,Mohamed,YDS,34
+8485015,9/5/2015,FCS,Cal Poly,Montana,RUSHING,Jared,Mohamed,TD,0
+8485016,9/5/2015,FCS,Cal Poly,Montana,RUSHING,Jared,Mohamed,LONG,13
+8485017,9/5/2015,FCS,Cal Poly,Montana,RUSHING,Elias,Stokes,ATT,1
+8485018,9/5/2015,FCS,Cal Poly,Montana,RUSHING,Elias,Stokes,YDS,5
+8485019,9/5/2015,FCS,Cal Poly,Montana,RUSHING,Elias,Stokes,TD,0
+8485020,9/5/2015,FCS,Cal Poly,Montana,RUSHING,Elias,Stokes,LONG,5
+8485021,9/5/2015,FCS,Cal Poly,Montana,PASSING,Chris,Brown,CP-ATT-INT,4-12-0
+8485022,9/5/2015,FCS,Cal Poly,Montana,PASSING,Chris,Brown,YDS,56
+8485023,9/5/2015,FCS,Cal Poly,Montana,PASSING,Chris,Brown,TD,1
+8485024,9/5/2015,FCS,Cal Poly,Montana,PASSING,Chris,Brown,LONG,36
+8485025,9/5/2015,FCS,Cal Poly,Montana,PASSING,,Team,CP-ATT-INT,0-1-0
+8485026,9/5/2015,FCS,Cal Poly,Montana,PASSING,,Team,YDS,0
+8485027,9/5/2015,FCS,Cal Poly,Montana,PASSING,,Team,TD,0
+8485028,9/5/2015,FCS,Cal Poly,Montana,PASSING,,Team,LONG,0
+8485029,9/5/2015,FCS,Cal Poly,Montana,RECEIVING,Roland,JacksonJr.,REC,2
+8485030,9/5/2015,FCS,Cal Poly,Montana,RECEIVING,Roland,JacksonJr.,YDS,47
+8485031,9/5/2015,FCS,Cal Poly,Montana,RECEIVING,Roland,JacksonJr.,TD,1
+8485032,9/5/2015,FCS,Cal Poly,Montana,RECEIVING,Roland,JacksonJr.,LONG,36
+8485033,9/5/2015,FCS,Cal Poly,Montana,RECEIVING,Jordan,Hines,REC,1
+8485034,9/5/2015,FCS,Cal Poly,Montana,RECEIVING,Jordan,Hines,YDS,6
+8485035,9/5/2015,FCS,Cal Poly,Montana,RECEIVING,Jordan,Hines,TD,0
+8485036,9/5/2015,FCS,Cal Poly,Montana,RECEIVING,Jordan,Hines,LONG,6
+8485037,9/5/2015,FCS,Cal Poly,Montana,RECEIVING,DJ,Peluso,REC,1
+8485038,9/5/2015,FCS,Cal Poly,Montana,RECEIVING,DJ,Peluso,YDS,3
+8485039,9/5/2015,FCS,Cal Poly,Montana,RECEIVING,DJ,Peluso,TD,0
+8485040,9/5/2015,FCS,Cal Poly,Montana,RECEIVING,DJ,Peluso,LONG,3
+8485041,9/5/2015,FCS,Cal Poly,Montana,KICKING,Stephen,Pyle,FG-FGA,1/2
+8485042,9/5/2015,FCS,Cal Poly,Montana,KICKING,Stephen,Pyle,LONG,48
+8485043,9/5/2015,FCS,Cal Poly,Montana,KICKING,Stephen,Pyle,XP,2
+8485044,9/5/2015,FCS,Cal Poly,Montana,KICKING,Stephen,Pyle,PTS,5
+8485045,9/5/2015,FCS,Cal Poly,Montana,KICKING,Alex,Vega,FG-FGA,1/1
+8485046,9/5/2015,FCS,Cal Poly,Montana,KICKING,Alex,Vega,LONG,49
+8485047,9/5/2015,FCS,Cal Poly,Montana,KICKING,Alex,Vega,XP,0
+8485048,9/5/2015,FCS,Cal Poly,Montana,KICKING,Alex,Vega,PTS,3
+8485049,9/5/2015,FCS,Cal Poly,Montana,PUNTING,Stephen,Pyle,NO,7
+8485050,9/5/2015,FCS,Cal Poly,Montana,PUNTING,Stephen,Pyle,YDS,248
+8485051,9/5/2015,FCS,Cal Poly,Montana,PUNTING,Stephen,Pyle,AVG,35.4
+8485052,9/5/2015,FCS,Cal Poly,Montana,PUNTING,Stephen,Pyle,LONG,59
+8485053,9/5/2015,FCS,Cal Poly,Montana,PUNT RETURNS,Chris,Fletcher,NO,2
+8485054,9/5/2015,FCS,Cal Poly,Montana,PUNT RETURNS,Chris,Fletcher,YDS,1
+8485055,9/5/2015,FCS,Cal Poly,Montana,PUNT RETURNS,Chris,Fletcher,AVG,0.5
+8485056,9/5/2015,FCS,Cal Poly,Montana,PUNT RETURNS,Chris,Fletcher,LONG,1
+8485057,9/5/2015,FCS,Cal Poly,Montana,KICK RETURNS,DJ,Peluso,NO,1
+8485058,9/5/2015,FCS,Cal Poly,Montana,KICK RETURNS,DJ,Peluso,YDS,23
+8485059,9/5/2015,FCS,Cal Poly,Montana,KICK RETURNS,DJ,Peluso,AVG,23.0
+8485060,9/5/2015,FCS,Cal Poly,Montana,KICK RETURNS,DJ,Peluso,LONG,23
+8485061,9/5/2015,FCS,Cal Poly,Montana,KICK RETURNS,Roland,JacksonJr.,NO,1
+8485062,9/5/2015,FCS,Cal Poly,Montana,KICK RETURNS,Roland,JacksonJr.,YDS,16
+8485063,9/5/2015,FCS,Cal Poly,Montana,KICK RETURNS,Roland,JacksonJr.,AVG,16.0
+8485064,9/5/2015,FCS,Cal Poly,Montana,KICK RETURNS,Roland,JacksonJr.,LONG,16
+8485065,9/5/2015,FCS,Cal Poly,Montana,KICK RETURNS,Chris,Santini,NO,1
+8485066,9/5/2015,FCS,Cal Poly,Montana,KICK RETURNS,Chris,Santini,YDS,8
+8485067,9/5/2015,FCS,Cal Poly,Montana,KICK RETURNS,Chris,Santini,AVG,8.0
+8485068,9/5/2015,FCS,Cal Poly,Montana,KICK RETURNS,Chris,Santini,LONG,8
+8485069,9/5/2015,FCS,Cal Poly,Montana,DEFENSE,Logan,Mayes,TOT,0
+8485070,9/5/2015,FCS,Cal Poly,Montana,DEFENSE,Logan,Mayes,SOLO,0
+8485071,9/5/2015,FCS,Cal Poly,Montana,DEFENSE,Logan,Mayes,SACKS,1
+8485072,9/5/2015,FCS,Cal Poly,Montana,DEFENSE,Logan,Mayes,TFL,0
+8485073,9/5/2015,FCS,Cal Poly,Montana,DEFENSE,Logan,Mayes,INT,0
+8485074,9/5/2015,FCS,Cal Poly,Montana,DEFENSE,Logan,Mayes,FF,1
+8485075,9/5/2015,FCS,Cal Poly,Montana,DEFENSE,Logan,Mayes,FR,0
+8485076,9/5/2015,FCS,Cal Poly,Montana,DEFENSE,Tu'uta,Inoke,TOT,0
+8485077,9/5/2015,FCS,Cal Poly,Montana,DEFENSE,Tu'uta,Inoke,SOLO,0
+8485078,9/5/2015,FCS,Cal Poly,Montana,DEFENSE,Tu'uta,Inoke,SACKS,0
+8485079,9/5/2015,FCS,Cal Poly,Montana,DEFENSE,Tu'uta,Inoke,TFL,0
+8485080,9/5/2015,FCS,Cal Poly,Montana,DEFENSE,Tu'uta,Inoke,INT,0
+8485081,9/5/2015,FCS,Cal Poly,Montana,DEFENSE,Tu'uta,Inoke,FF,2
+8485082,9/5/2015,FCS,Cal Poly,Montana,DEFENSE,Tu'uta,Inoke,FR,0
+8485083,9/5/2015,FCS,Cal Poly,Montana,DEFENSE,Joseph,GigantinoIII,TOT,0
+8485084,9/5/2015,FCS,Cal Poly,Montana,DEFENSE,Joseph,GigantinoIII,SOLO,0
+8485085,9/5/2015,FCS,Cal Poly,Montana,DEFENSE,Joseph,GigantinoIII,SACKS,0
+8485086,9/5/2015,FCS,Cal Poly,Montana,DEFENSE,Joseph,GigantinoIII,TFL,0
+8485087,9/5/2015,FCS,Cal Poly,Montana,DEFENSE,Joseph,GigantinoIII,INT,0
+8485088,9/5/2015,FCS,Cal Poly,Montana,DEFENSE,Joseph,GigantinoIII,FF,0
+8485089,9/5/2015,FCS,Cal Poly,Montana,DEFENSE,Joseph,GigantinoIII,FR,1
+8485090,9/5/2015,FCS,Cal Poly,Montana,DEFENSE,B.J.,Nard,TOT,0
+8485091,9/5/2015,FCS,Cal Poly,Montana,DEFENSE,B.J.,Nard,SOLO,0
+8485092,9/5/2015,FCS,Cal Poly,Montana,DEFENSE,B.J.,Nard,SACKS,0
+8485093,9/5/2015,FCS,Cal Poly,Montana,DEFENSE,B.J.,Nard,TFL,0
+8485094,9/5/2015,FCS,Cal Poly,Montana,DEFENSE,B.J.,Nard,INT,3
+8485095,9/5/2015,FCS,Cal Poly,Montana,DEFENSE,B.J.,Nard,FF,0
+8485096,9/5/2015,FCS,Cal Poly,Montana,DEFENSE,B.J.,Nard,FR,0
+8485097,9/5/2015,FCS,Montana,Cal Poly,RUSHING,John,Nguyen,ATT,14
+8485098,9/5/2015,FCS,Montana,Cal Poly,RUSHING,John,Nguyen,YDS,70
+8485099,9/5/2015,FCS,Montana,Cal Poly,RUSHING,John,Nguyen,TD,0
+8485100,9/5/2015,FCS,Montana,Cal Poly,RUSHING,John,Nguyen,LONG,41
+8485101,9/5/2015,FCS,Montana,Cal Poly,RUSHING,Brady,Gustafson,ATT,9
+8485102,9/5/2015,FCS,Montana,Cal Poly,RUSHING,Brady,Gustafson,YDS,29
+8485103,9/5/2015,FCS,Montana,Cal Poly,RUSHING,Brady,Gustafson,TD,1
+8485104,9/5/2015,FCS,Montana,Cal Poly,RUSHING,Brady,Gustafson,LONG,6
+8485105,9/5/2015,FCS,Montana,Cal Poly,RUSHING,Joey,Counts,ATT,2
+8485106,9/5/2015,FCS,Montana,Cal Poly,RUSHING,Joey,Counts,YDS,9
+8485107,9/5/2015,FCS,Montana,Cal Poly,RUSHING,Joey,Counts,TD,0
+8485108,9/5/2015,FCS,Montana,Cal Poly,RUSHING,Joey,Counts,LONG,5
+8485109,9/5/2015,FCS,Montana,Cal Poly,RUSHING,Herbert,Gamboa,ATT,1
+8485110,9/5/2015,FCS,Montana,Cal Poly,RUSHING,Herbert,Gamboa,YDS,0
+8485111,9/5/2015,FCS,Montana,Cal Poly,RUSHING,Herbert,Gamboa,TD,0
+8485112,9/5/2015,FCS,Montana,Cal Poly,RUSHING,Herbert,Gamboa,LONG,0
+8485113,9/5/2015,FCS,Montana,Cal Poly,RUSHING,Jamaal,Jones,ATT,1
+8485114,9/5/2015,FCS,Montana,Cal Poly,RUSHING,Jamaal,Jones,YDS,-2
+8485115,9/5/2015,FCS,Montana,Cal Poly,RUSHING,Jamaal,Jones,TD,0
+8485116,9/5/2015,FCS,Montana,Cal Poly,RUSHING,Jamaal,Jones,LONG,0
+8485117,9/5/2015,FCS,Montana,Cal Poly,PASSING,Brady,Gustafson,CP-ATT-INT,40-64-3
+8485118,9/5/2015,FCS,Montana,Cal Poly,PASSING,Brady,Gustafson,YDS,353
+8485119,9/5/2015,FCS,Montana,Cal Poly,PASSING,Brady,Gustafson,TD,1
+8485120,9/5/2015,FCS,Montana,Cal Poly,PASSING,Brady,Gustafson,LONG,44
+8485121,9/5/2015,FCS,Montana,Cal Poly,PASSING,,Team,CP-ATT-INT,0-1-0
+8485122,9/5/2015,FCS,Montana,Cal Poly,PASSING,,Team,YDS,0
+8485123,9/5/2015,FCS,Montana,Cal Poly,PASSING,,Team,TD,0
+8485124,9/5/2015,FCS,Montana,Cal Poly,PASSING,,Team,LONG,0
+8485125,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,Jamaal,Jones,REC,9
+8485126,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,Jamaal,Jones,YDS,86
+8485127,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,Jamaal,Jones,TD,0
+8485128,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,Jamaal,Jones,LONG,18
+8485129,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,Chase,Naccarato,REC,10
+8485130,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,Chase,Naccarato,YDS,81
+8485131,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,Chase,Naccarato,TD,0
+8485132,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,Chase,Naccarato,LONG,25
+8485133,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,Ellis,Henderson,REC,5
+8485134,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,Ellis,Henderson,YDS,47
+8485135,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,Ellis,Henderson,TD,1
+8485136,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,Ellis,Henderson,LONG,15
+8485137,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,Josh,Horner,REC,1
+8485138,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,Josh,Horner,YDS,44
+8485139,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,Josh,Horner,TD,0
+8485140,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,Josh,Horner,LONG,44
+8485141,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,Reese,Carlson,REC,3
+8485142,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,Reese,Carlson,YDS,28
+8485143,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,Reese,Carlson,TD,0
+8485144,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,Reese,Carlson,LONG,15
+8485145,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,John,Nguyen,REC,6
+8485146,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,John,Nguyen,YDS,22
+8485147,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,John,Nguyen,TD,0
+8485148,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,John,Nguyen,LONG,9
+8485149,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,Ryan,Burke,REC,2
+8485150,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,Ryan,Burke,YDS,19
+8485151,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,Ryan,Burke,TD,0
+8485152,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,Ryan,Burke,LONG,10
+8485153,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,Joey,Counts,REC,2
+8485154,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,Joey,Counts,YDS,11
+8485155,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,Joey,Counts,TD,0
+8485156,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,Joey,Counts,LONG,7
+8485157,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,Ben,Roberts,REC,1
+8485158,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,Ben,Roberts,YDS,9
+8485159,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,Ben,Roberts,TD,0
+8485160,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,Ben,Roberts,LONG,9
+8485161,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,Caleb,Lyons,REC,1
+8485162,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,Caleb,Lyons,YDS,6
+8485163,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,Caleb,Lyons,TD,0
+8485164,9/5/2015,FCS,Montana,Cal Poly,RECEIVING,Caleb,Lyons,LONG,6
+8485165,9/5/2015,FCS,Montana,Cal Poly,KICKING,Daniel,Sullivan,FG-FGA,1/2
+8485166,9/5/2015,FCS,Montana,Cal Poly,KICKING,Daniel,Sullivan,LONG,24
+8485167,9/5/2015,FCS,Montana,Cal Poly,KICKING,Daniel,Sullivan,XP,2
+8485168,9/5/2015,FCS,Montana,Cal Poly,KICKING,Daniel,Sullivan,PTS,5
+8485169,9/5/2015,FCS,Montana,Cal Poly,PUNTING,Chris,Lider,NO,5
+8485170,9/5/2015,FCS,Montana,Cal Poly,PUNTING,Chris,Lider,YDS,194
+8485171,9/5/2015,FCS,Montana,Cal Poly,PUNTING,Chris,Lider,AVG,38.8
+8485172,9/5/2015,FCS,Montana,Cal Poly,PUNTING,Chris,Lider,LONG,57
+8485173,9/5/2015,FCS,Montana,Cal Poly,KICK RETURNS,Ellis,Henderson,NO,3
+8485174,9/5/2015,FCS,Montana,Cal Poly,KICK RETURNS,Ellis,Henderson,YDS,64
+8485175,9/5/2015,FCS,Montana,Cal Poly,KICK RETURNS,Ellis,Henderson,AVG,21.3
+8485176,9/5/2015,FCS,Montana,Cal Poly,KICK RETURNS,Ellis,Henderson,LONG,40
+8485177,9/5/2015,FCS,Montana,Cal Poly,KICK RETURNS,Jamaal,Jones,NO,2
+8485178,9/5/2015,FCS,Montana,Cal Poly,KICK RETURNS,Jamaal,Jones,YDS,32
+8485179,9/5/2015,FCS,Montana,Cal Poly,KICK RETURNS,Jamaal,Jones,AVG,16.0
+8485180,9/5/2015,FCS,Montana,Cal Poly,KICK RETURNS,Jamaal,Jones,LONG,17
+8485181,9/5/2015,FCS,Montana,Cal Poly,DEFENSE,Tyrone,Holmes,TOT,0
+8485182,9/5/2015,FCS,Montana,Cal Poly,DEFENSE,Tyrone,Holmes,SOLO,0
+8485183,9/5/2015,FCS,Montana,Cal Poly,DEFENSE,Tyrone,Holmes,SACKS,1
+8485184,9/5/2015,FCS,Montana,Cal Poly,DEFENSE,Tyrone,Holmes,TFL,0
+8485185,9/5/2015,FCS,Montana,Cal Poly,DEFENSE,Tyrone,Holmes,INT,0
+8485186,9/5/2015,FCS,Montana,Cal Poly,DEFENSE,Tyrone,Holmes,FF,0
+8485187,9/5/2015,FCS,Montana,Cal Poly,DEFENSE,Tyrone,Holmes,FR,0
+8485188,9/5/2015,FCS,Montana,Cal Poly,DEFENSE,Jamal,Wilson,TOT,0
+8485189,9/5/2015,FCS,Montana,Cal Poly,DEFENSE,Jamal,Wilson,SOLO,0
+8485190,9/5/2015,FCS,Montana,Cal Poly,DEFENSE,Jamal,Wilson,SACKS,1
+8485191,9/5/2015,FCS,Montana,Cal Poly,DEFENSE,Jamal,Wilson,TFL,0
+8485192,9/5/2015,FCS,Montana,Cal Poly,DEFENSE,Jamal,Wilson,INT,0
+8485193,9/5/2015,FCS,Montana,Cal Poly,DEFENSE,Jamal,Wilson,FF,0
+8485194,9/5/2015,FCS,Montana,Cal Poly,DEFENSE,Jamal,Wilson,FR,0
+8485195,9/5/2015,FCS,Montana,Cal Poly,DEFENSE,Ellis,Henderson,TOT,0
+8485196,9/5/2015,FCS,Montana,Cal Poly,DEFENSE,Ellis,Henderson,SOLO,0
+8485197,9/5/2015,FCS,Montana,Cal Poly,DEFENSE,Ellis,Henderson,SACKS,0
+8485198,9/5/2015,FCS,Montana,Cal Poly,DEFENSE,Ellis,Henderson,TFL,0
+8485199,9/5/2015,FCS,Montana,Cal Poly,DEFENSE,Ellis,Henderson,INT,0
+8485200,9/5/2015,FCS,Montana,Cal Poly,DEFENSE,Ellis,Henderson,FF,1
+8485201,9/5/2015,FCS,Montana,Cal Poly,DEFENSE,Ellis,Henderson,FR,1

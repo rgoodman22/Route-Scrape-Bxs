@@ -1,0 +1,235 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+12001001,10/12/2019,FCS,Alabama St.,Jackson St.,RUSHING,Ezra,Gray,ATT,21
+12001002,10/12/2019,FCS,Alabama St.,Jackson St.,RUSHING,Ezra,Gray,YDS,69
+12001003,10/12/2019,FCS,Alabama St.,Jackson St.,RUSHING,Ezra,Gray,TD,1
+12001004,10/12/2019,FCS,Alabama St.,Jackson St.,RUSHING,Ezra,Gray,LONG,15
+12001005,10/12/2019,FCS,Alabama St.,Jackson St.,RUSHING,Jacory,Merritt,ATT,19
+12001006,10/12/2019,FCS,Alabama St.,Jackson St.,RUSHING,Jacory,Merritt,YDS,69
+12001007,10/12/2019,FCS,Alabama St.,Jackson St.,RUSHING,Jacory,Merritt,TD,0
+12001008,10/12/2019,FCS,Alabama St.,Jackson St.,RUSHING,Jacory,Merritt,LONG,18
+12001009,10/12/2019,FCS,Alabama St.,Jackson St.,RUSHING,Jett,Even,ATT,7
+12001010,10/12/2019,FCS,Alabama St.,Jackson St.,RUSHING,Jett,Even,YDS,7
+12001011,10/12/2019,FCS,Alabama St.,Jackson St.,RUSHING,Jett,Even,TD,2
+12001012,10/12/2019,FCS,Alabama St.,Jackson St.,RUSHING,Jett,Even,LONG,10
+12001013,10/12/2019,FCS,Alabama St.,Jackson St.,RUSHING,Chris,Scott,ATT,2
+12001014,10/12/2019,FCS,Alabama St.,Jackson St.,RUSHING,Chris,Scott,YDS,4
+12001015,10/12/2019,FCS,Alabama St.,Jackson St.,RUSHING,Chris,Scott,TD,0
+12001016,10/12/2019,FCS,Alabama St.,Jackson St.,RUSHING,Chris,Scott,LONG,6
+12001017,10/12/2019,FCS,Alabama St.,Jackson St.,PASSING,Jett,Even,CP-ATT-INT,15-26-1
+12001018,10/12/2019,FCS,Alabama St.,Jackson St.,PASSING,Jett,Even,YDS,189
+12001019,10/12/2019,FCS,Alabama St.,Jackson St.,PASSING,Jett,Even,TD,1
+12001020,10/12/2019,FCS,Alabama St.,Jackson St.,PASSING,Jett,Even,LONG,28
+12001021,10/12/2019,FCS,Alabama St.,Jackson St.,RECEIVING,Jahod,Booker,REC,7
+12001022,10/12/2019,FCS,Alabama St.,Jackson St.,RECEIVING,Jahod,Booker,YDS,106
+12001023,10/12/2019,FCS,Alabama St.,Jackson St.,RECEIVING,Jahod,Booker,TD,1
+12001024,10/12/2019,FCS,Alabama St.,Jackson St.,RECEIVING,Jahod,Booker,LONG,28
+12001025,10/12/2019,FCS,Alabama St.,Jackson St.,RECEIVING,Tyrek,Allen,REC,5
+12001026,10/12/2019,FCS,Alabama St.,Jackson St.,RECEIVING,Tyrek,Allen,YDS,47
+12001027,10/12/2019,FCS,Alabama St.,Jackson St.,RECEIVING,Tyrek,Allen,TD,0
+12001028,10/12/2019,FCS,Alabama St.,Jackson St.,RECEIVING,Tyrek,Allen,LONG,15
+12001029,10/12/2019,FCS,Alabama St.,Jackson St.,RECEIVING,Moses,MarshallIV,REC,1
+12001030,10/12/2019,FCS,Alabama St.,Jackson St.,RECEIVING,Moses,MarshallIV,YDS,15
+12001031,10/12/2019,FCS,Alabama St.,Jackson St.,RECEIVING,Moses,MarshallIV,TD,0
+12001032,10/12/2019,FCS,Alabama St.,Jackson St.,RECEIVING,Moses,MarshallIV,LONG,15
+12001033,10/12/2019,FCS,Alabama St.,Jackson St.,RECEIVING,Michael,Jefferson,REC,1
+12001034,10/12/2019,FCS,Alabama St.,Jackson St.,RECEIVING,Michael,Jefferson,YDS,12
+12001035,10/12/2019,FCS,Alabama St.,Jackson St.,RECEIVING,Michael,Jefferson,TD,0
+12001036,10/12/2019,FCS,Alabama St.,Jackson St.,RECEIVING,Michael,Jefferson,LONG,12
+12001037,10/12/2019,FCS,Alabama St.,Jackson St.,RECEIVING,Joshua,Knight,REC,1
+12001038,10/12/2019,FCS,Alabama St.,Jackson St.,RECEIVING,Joshua,Knight,YDS,9
+12001039,10/12/2019,FCS,Alabama St.,Jackson St.,RECEIVING,Joshua,Knight,TD,0
+12001040,10/12/2019,FCS,Alabama St.,Jackson St.,RECEIVING,Joshua,Knight,LONG,9
+12001041,10/12/2019,FCS,Alabama St.,Jackson St.,KICKING,Hunter,Hanson,FG-FGA,1/1
+12001042,10/12/2019,FCS,Alabama St.,Jackson St.,KICKING,Hunter,Hanson,LONG,42
+12001043,10/12/2019,FCS,Alabama St.,Jackson St.,KICKING,Hunter,Hanson,XP,4
+12001044,10/12/2019,FCS,Alabama St.,Jackson St.,KICKING,Hunter,Hanson,PTS,7
+12001045,10/12/2019,FCS,Alabama St.,Jackson St.,PUNTING,Anthony,Craven,NO,6
+12001046,10/12/2019,FCS,Alabama St.,Jackson St.,PUNTING,Anthony,Craven,YDS,233
+12001047,10/12/2019,FCS,Alabama St.,Jackson St.,PUNTING,Anthony,Craven,AVG,38.8
+12001048,10/12/2019,FCS,Alabama St.,Jackson St.,PUNTING,Anthony,Craven,LONG,56
+12001049,10/12/2019,FCS,Alabama St.,Jackson St.,PUNT RETURNS,Kobi,Crabb,NO,2
+12001050,10/12/2019,FCS,Alabama St.,Jackson St.,PUNT RETURNS,Kobi,Crabb,YDS,-1
+12001051,10/12/2019,FCS,Alabama St.,Jackson St.,PUNT RETURNS,Kobi,Crabb,AVG,-
+12001052,10/12/2019,FCS,Alabama St.,Jackson St.,PUNT RETURNS,Kobi,Crabb,LONG,1
+12001053,10/12/2019,FCS,Alabama St.,Jackson St.,KICK RETURNS,Ezra,Gray,NO,2
+12001054,10/12/2019,FCS,Alabama St.,Jackson St.,KICK RETURNS,Ezra,Gray,YDS,47
+12001055,10/12/2019,FCS,Alabama St.,Jackson St.,KICK RETURNS,Ezra,Gray,AVG,23.5
+12001056,10/12/2019,FCS,Alabama St.,Jackson St.,KICK RETURNS,Ezra,Gray,LONG,29
+12001057,10/12/2019,FCS,Alabama St.,Jackson St.,KICK RETURNS,Jacory,Merritt,NO,1
+12001058,10/12/2019,FCS,Alabama St.,Jackson St.,KICK RETURNS,Jacory,Merritt,YDS,20
+12001059,10/12/2019,FCS,Alabama St.,Jackson St.,KICK RETURNS,Jacory,Merritt,AVG,20.0
+12001060,10/12/2019,FCS,Alabama St.,Jackson St.,KICK RETURNS,Jacory,Merritt,LONG,20
+12001061,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Andrew,Ogletree,TOT,0
+12001062,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Andrew,Ogletree,SOLO,0
+12001063,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Andrew,Ogletree,SACKS,1
+12001064,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Andrew,Ogletree,TFL,0
+12001065,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Andrew,Ogletree,INT,0
+12001066,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Andrew,Ogletree,FF,0
+12001067,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Andrew,Ogletree,FR,0
+12001068,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Trevor,Goodrum,TOT,5
+12001069,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Trevor,Goodrum,SOLO,1
+12001070,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Trevor,Goodrum,SACKS,1.5
+12001071,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Trevor,Goodrum,TFL,1.5
+12001072,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Trevor,Goodrum,INT,0
+12001073,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Trevor,Goodrum,FF,0
+12001074,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Trevor,Goodrum,FR,0
+12001075,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Darron,Johnson,TOT,0
+12001076,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Darron,Johnson,SOLO,0
+12001077,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Darron,Johnson,SACKS,0
+12001078,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Darron,Johnson,TFL,0
+12001079,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Darron,Johnson,INT,0
+12001080,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Darron,Johnson,FF,1
+12001081,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Darron,Johnson,FR,0
+12001082,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Aaron,Pope,TOT,1
+12001083,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Aaron,Pope,SOLO,0
+12001084,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Aaron,Pope,SACKS,0.5
+12001085,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Aaron,Pope,TFL,0.5
+12001086,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Aaron,Pope,INT,0
+12001087,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Aaron,Pope,FF,0
+12001088,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Aaron,Pope,FR,0
+12001089,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Joshua,Hill,TOT,0
+12001090,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Joshua,Hill,SOLO,0
+12001091,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Joshua,Hill,SACKS,0
+12001092,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Joshua,Hill,TFL,0
+12001093,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Joshua,Hill,INT,1
+12001094,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Joshua,Hill,FF,0
+12001095,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Joshua,Hill,FR,0
+12001096,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Naytron,Culpepper,TOT,0
+12001097,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Naytron,Culpepper,SOLO,0
+12001098,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Naytron,Culpepper,SACKS,0
+12001099,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Naytron,Culpepper,TFL,0
+12001100,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Naytron,Culpepper,INT,1
+12001101,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Naytron,Culpepper,FF,0
+12001102,10/12/2019,FCS,Alabama St.,Jackson St.,DEFENSE,Naytron,Culpepper,FR,0
+12001103,10/12/2019,FCS,Jackson St.,Alabama St.,RUSHING,Tyson,Alexander,ATT,14
+12001104,10/12/2019,FCS,Jackson St.,Alabama St.,RUSHING,Tyson,Alexander,YDS,57
+12001105,10/12/2019,FCS,Jackson St.,Alabama St.,RUSHING,Tyson,Alexander,TD,0
+12001106,10/12/2019,FCS,Jackson St.,Alabama St.,RUSHING,Tyson,Alexander,LONG,19
+12001107,10/12/2019,FCS,Jackson St.,Alabama St.,RUSHING,Kymani,Clarke,ATT,4
+12001108,10/12/2019,FCS,Jackson St.,Alabama St.,RUSHING,Kymani,Clarke,YDS,26
+12001109,10/12/2019,FCS,Jackson St.,Alabama St.,RUSHING,Kymani,Clarke,TD,0
+12001110,10/12/2019,FCS,Jackson St.,Alabama St.,RUSHING,Kymani,Clarke,LONG,18
+12001111,10/12/2019,FCS,Jackson St.,Alabama St.,RUSHING,Jordan,Johnson,ATT,2
+12001112,10/12/2019,FCS,Jackson St.,Alabama St.,RUSHING,Jordan,Johnson,YDS,3
+12001113,10/12/2019,FCS,Jackson St.,Alabama St.,RUSHING,Jordan,Johnson,TD,0
+12001114,10/12/2019,FCS,Jackson St.,Alabama St.,RUSHING,Jordan,Johnson,LONG,2
+12001115,10/12/2019,FCS,Jackson St.,Alabama St.,RUSHING,Josh,Littles,ATT,1
+12001116,10/12/2019,FCS,Jackson St.,Alabama St.,RUSHING,Josh,Littles,YDS,1
+12001117,10/12/2019,FCS,Jackson St.,Alabama St.,RUSHING,Josh,Littles,TD,0
+12001118,10/12/2019,FCS,Jackson St.,Alabama St.,RUSHING,Josh,Littles,LONG,1
+12001119,10/12/2019,FCS,Jackson St.,Alabama St.,RUSHING,Adrian,Salazar,ATT,1
+12001120,10/12/2019,FCS,Jackson St.,Alabama St.,RUSHING,Adrian,Salazar,YDS,-10
+12001121,10/12/2019,FCS,Jackson St.,Alabama St.,RUSHING,Adrian,Salazar,TD,0
+12001122,10/12/2019,FCS,Jackson St.,Alabama St.,RUSHING,Adrian,Salazar,LONG,0
+12001123,10/12/2019,FCS,Jackson St.,Alabama St.,RUSHING,Derrick,Ponder,ATT,8
+12001124,10/12/2019,FCS,Jackson St.,Alabama St.,RUSHING,Derrick,Ponder,YDS,-11
+12001125,10/12/2019,FCS,Jackson St.,Alabama St.,RUSHING,Derrick,Ponder,TD,0
+12001126,10/12/2019,FCS,Jackson St.,Alabama St.,RUSHING,Derrick,Ponder,LONG,9
+12001127,10/12/2019,FCS,Jackson St.,Alabama St.,PASSING,Derrick,Ponder,CP-ATT-INT,15-30-1
+12001128,10/12/2019,FCS,Jackson St.,Alabama St.,PASSING,Derrick,Ponder,YDS,164
+12001129,10/12/2019,FCS,Jackson St.,Alabama St.,PASSING,Derrick,Ponder,TD,2
+12001130,10/12/2019,FCS,Jackson St.,Alabama St.,PASSING,Derrick,Ponder,LONG,22
+12001131,10/12/2019,FCS,Jackson St.,Alabama St.,PASSING,Jalon,Jones,CP-ATT-INT,1-5-1
+12001132,10/12/2019,FCS,Jackson St.,Alabama St.,PASSING,Jalon,Jones,YDS,20
+12001133,10/12/2019,FCS,Jackson St.,Alabama St.,PASSING,Jalon,Jones,TD,0
+12001134,10/12/2019,FCS,Jackson St.,Alabama St.,PASSING,Jalon,Jones,LONG,20
+12001135,10/12/2019,FCS,Jackson St.,Alabama St.,RECEIVING,Daniel,Crowell,REC,4
+12001136,10/12/2019,FCS,Jackson St.,Alabama St.,RECEIVING,Daniel,Crowell,YDS,48
+12001137,10/12/2019,FCS,Jackson St.,Alabama St.,RECEIVING,Daniel,Crowell,TD,0
+12001138,10/12/2019,FCS,Jackson St.,Alabama St.,RECEIVING,Daniel,Crowell,LONG,22
+12001139,10/12/2019,FCS,Jackson St.,Alabama St.,RECEIVING,Terrell,KennedyIII,REC,3
+12001140,10/12/2019,FCS,Jackson St.,Alabama St.,RECEIVING,Terrell,KennedyIII,YDS,30
+12001141,10/12/2019,FCS,Jackson St.,Alabama St.,RECEIVING,Terrell,KennedyIII,TD,1
+12001142,10/12/2019,FCS,Jackson St.,Alabama St.,RECEIVING,Terrell,KennedyIII,LONG,20
+12001143,10/12/2019,FCS,Jackson St.,Alabama St.,RECEIVING,Warren,Newman,REC,2
+12001144,10/12/2019,FCS,Jackson St.,Alabama St.,RECEIVING,Warren,Newman,YDS,25
+12001145,10/12/2019,FCS,Jackson St.,Alabama St.,RECEIVING,Warren,Newman,TD,0
+12001146,10/12/2019,FCS,Jackson St.,Alabama St.,RECEIVING,Warren,Newman,LONG,20
+12001147,10/12/2019,FCS,Jackson St.,Alabama St.,RECEIVING,Jordan,Jefferson,REC,1
+12001148,10/12/2019,FCS,Jackson St.,Alabama St.,RECEIVING,Jordan,Jefferson,YDS,22
+12001149,10/12/2019,FCS,Jackson St.,Alabama St.,RECEIVING,Jordan,Jefferson,TD,0
+12001150,10/12/2019,FCS,Jackson St.,Alabama St.,RECEIVING,Jordan,Jefferson,LONG,22
+12001151,10/12/2019,FCS,Jackson St.,Alabama St.,RECEIVING,Kobe,Gates,REC,1
+12001152,10/12/2019,FCS,Jackson St.,Alabama St.,RECEIVING,Kobe,Gates,YDS,18
+12001153,10/12/2019,FCS,Jackson St.,Alabama St.,RECEIVING,Kobe,Gates,TD,0
+12001154,10/12/2019,FCS,Jackson St.,Alabama St.,RECEIVING,Kobe,Gates,LONG,18
+12001155,10/12/2019,FCS,Jackson St.,Alabama St.,RECEIVING,Ra'Meik,Wallace,REC,1
+12001156,10/12/2019,FCS,Jackson St.,Alabama St.,RECEIVING,Ra'Meik,Wallace,YDS,15
+12001157,10/12/2019,FCS,Jackson St.,Alabama St.,RECEIVING,Ra'Meik,Wallace,TD,0
+12001158,10/12/2019,FCS,Jackson St.,Alabama St.,RECEIVING,Ra'Meik,Wallace,LONG,15
+12001159,10/12/2019,FCS,Jackson St.,Alabama St.,RECEIVING,Kyland,Richey,REC,1
+12001160,10/12/2019,FCS,Jackson St.,Alabama St.,RECEIVING,Kyland,Richey,YDS,13
+12001161,10/12/2019,FCS,Jackson St.,Alabama St.,RECEIVING,Kyland,Richey,TD,0
+12001162,10/12/2019,FCS,Jackson St.,Alabama St.,RECEIVING,Kyland,Richey,LONG,13
+12001163,10/12/2019,FCS,Jackson St.,Alabama St.,RECEIVING,Kennen,Young,REC,2
+12001164,10/12/2019,FCS,Jackson St.,Alabama St.,RECEIVING,Kennen,Young,YDS,12
+12001165,10/12/2019,FCS,Jackson St.,Alabama St.,RECEIVING,Kennen,Young,TD,1
+12001166,10/12/2019,FCS,Jackson St.,Alabama St.,RECEIVING,Kennen,Young,LONG,9
+12001167,10/12/2019,FCS,Jackson St.,Alabama St.,RECEIVING,Josh,Littles,REC,1
+12001168,10/12/2019,FCS,Jackson St.,Alabama St.,RECEIVING,Josh,Littles,YDS,1
+12001169,10/12/2019,FCS,Jackson St.,Alabama St.,RECEIVING,Josh,Littles,TD,0
+12001170,10/12/2019,FCS,Jackson St.,Alabama St.,RECEIVING,Josh,Littles,LONG,1
+12001171,10/12/2019,FCS,Jackson St.,Alabama St.,KICKING,Adrian,Salazar,FG-FGA,1/1
+12001172,10/12/2019,FCS,Jackson St.,Alabama St.,KICKING,Adrian,Salazar,LONG,39
+12001173,10/12/2019,FCS,Jackson St.,Alabama St.,KICKING,Adrian,Salazar,XP,1
+12001174,10/12/2019,FCS,Jackson St.,Alabama St.,KICKING,Adrian,Salazar,PTS,4
+12001175,10/12/2019,FCS,Jackson St.,Alabama St.,PUNTING,Zach,Gleaton,NO,6
+12001176,10/12/2019,FCS,Jackson St.,Alabama St.,PUNTING,Zach,Gleaton,YDS,208
+12001177,10/12/2019,FCS,Jackson St.,Alabama St.,PUNTING,Zach,Gleaton,AVG,34.7
+12001178,10/12/2019,FCS,Jackson St.,Alabama St.,PUNTING,Zach,Gleaton,LONG,39
+12001179,10/12/2019,FCS,Jackson St.,Alabama St.,PUNTING,Marcus,O'Neal,NO,2
+12001180,10/12/2019,FCS,Jackson St.,Alabama St.,PUNTING,Marcus,O'Neal,YDS,57
+12001181,10/12/2019,FCS,Jackson St.,Alabama St.,PUNTING,Marcus,O'Neal,AVG,28.5
+12001182,10/12/2019,FCS,Jackson St.,Alabama St.,PUNTING,Marcus,O'Neal,LONG,36
+12001183,10/12/2019,FCS,Jackson St.,Alabama St.,PUNT RETURNS,Warren,Newman,NO,1
+12001184,10/12/2019,FCS,Jackson St.,Alabama St.,PUNT RETURNS,Warren,Newman,YDS,6
+12001185,10/12/2019,FCS,Jackson St.,Alabama St.,PUNT RETURNS,Warren,Newman,AVG,6.0
+12001186,10/12/2019,FCS,Jackson St.,Alabama St.,PUNT RETURNS,Warren,Newman,LONG,6
+12001187,10/12/2019,FCS,Jackson St.,Alabama St.,PUNT RETURNS,Jashon,Baker,NO,1
+12001188,10/12/2019,FCS,Jackson St.,Alabama St.,PUNT RETURNS,Jashon,Baker,YDS,0
+12001189,10/12/2019,FCS,Jackson St.,Alabama St.,PUNT RETURNS,Jashon,Baker,AVG,-
+12001190,10/12/2019,FCS,Jackson St.,Alabama St.,PUNT RETURNS,Jashon,Baker,LONG,0
+12001191,10/12/2019,FCS,Jackson St.,Alabama St.,KICK RETURNS,Jordan,Johnson,NO,2
+12001192,10/12/2019,FCS,Jackson St.,Alabama St.,KICK RETURNS,Jordan,Johnson,YDS,18
+12001193,10/12/2019,FCS,Jackson St.,Alabama St.,KICK RETURNS,Jordan,Johnson,AVG,9.0
+12001194,10/12/2019,FCS,Jackson St.,Alabama St.,KICK RETURNS,Jordan,Johnson,LONG,10
+12001195,10/12/2019,FCS,Jackson St.,Alabama St.,KICK RETURNS,Josh,Littles,NO,1
+12001196,10/12/2019,FCS,Jackson St.,Alabama St.,KICK RETURNS,Josh,Littles,YDS,17
+12001197,10/12/2019,FCS,Jackson St.,Alabama St.,KICK RETURNS,Josh,Littles,AVG,17.0
+12001198,10/12/2019,FCS,Jackson St.,Alabama St.,KICK RETURNS,Josh,Littles,LONG,17
+12001199,10/12/2019,FCS,Jackson St.,Alabama St.,KICK RETURNS,Kymani,Clarke,NO,1
+12001200,10/12/2019,FCS,Jackson St.,Alabama St.,KICK RETURNS,Kymani,Clarke,YDS,9
+12001201,10/12/2019,FCS,Jackson St.,Alabama St.,KICK RETURNS,Kymani,Clarke,AVG,9.0
+12001202,10/12/2019,FCS,Jackson St.,Alabama St.,KICK RETURNS,Kymani,Clarke,LONG,9
+12001203,10/12/2019,FCS,Jackson St.,Alabama St.,KICK RETURNS,Adarius,Craft,NO,1
+12001204,10/12/2019,FCS,Jackson St.,Alabama St.,KICK RETURNS,Adarius,Craft,YDS,0
+12001205,10/12/2019,FCS,Jackson St.,Alabama St.,KICK RETURNS,Adarius,Craft,AVG,-
+12001206,10/12/2019,FCS,Jackson St.,Alabama St.,KICK RETURNS,Adarius,Craft,LONG,0
+12001207,10/12/2019,FCS,Jackson St.,Alabama St.,DEFENSE,Jakaiszer,Glass,TOT,8
+12001208,10/12/2019,FCS,Jackson St.,Alabama St.,DEFENSE,Jakaiszer,Glass,SOLO,3
+12001209,10/12/2019,FCS,Jackson St.,Alabama St.,DEFENSE,Jakaiszer,Glass,SACKS,0.5
+12001210,10/12/2019,FCS,Jackson St.,Alabama St.,DEFENSE,Jakaiszer,Glass,TFL,0.5
+12001211,10/12/2019,FCS,Jackson St.,Alabama St.,DEFENSE,Jakaiszer,Glass,INT,0
+12001212,10/12/2019,FCS,Jackson St.,Alabama St.,DEFENSE,Jakaiszer,Glass,FF,0
+12001213,10/12/2019,FCS,Jackson St.,Alabama St.,DEFENSE,Jakaiszer,Glass,FR,0
+12001214,10/12/2019,FCS,Jackson St.,Alabama St.,DEFENSE,Khalil,Arrington,TOT,0
+12001215,10/12/2019,FCS,Jackson St.,Alabama St.,DEFENSE,Khalil,Arrington,SOLO,0
+12001216,10/12/2019,FCS,Jackson St.,Alabama St.,DEFENSE,Khalil,Arrington,SACKS,1
+12001217,10/12/2019,FCS,Jackson St.,Alabama St.,DEFENSE,Khalil,Arrington,TFL,0
+12001218,10/12/2019,FCS,Jackson St.,Alabama St.,DEFENSE,Khalil,Arrington,INT,0
+12001219,10/12/2019,FCS,Jackson St.,Alabama St.,DEFENSE,Khalil,Arrington,FF,0
+12001220,10/12/2019,FCS,Jackson St.,Alabama St.,DEFENSE,Khalil,Arrington,FR,0
+12001221,10/12/2019,FCS,Jackson St.,Alabama St.,DEFENSE,Bryon,Hanspard,TOT,9
+12001222,10/12/2019,FCS,Jackson St.,Alabama St.,DEFENSE,Bryon,Hanspard,SOLO,4
+12001223,10/12/2019,FCS,Jackson St.,Alabama St.,DEFENSE,Bryon,Hanspard,SACKS,0.5
+12001224,10/12/2019,FCS,Jackson St.,Alabama St.,DEFENSE,Bryon,Hanspard,TFL,0.5
+12001225,10/12/2019,FCS,Jackson St.,Alabama St.,DEFENSE,Bryon,Hanspard,INT,0
+12001226,10/12/2019,FCS,Jackson St.,Alabama St.,DEFENSE,Bryon,Hanspard,FF,0
+12001227,10/12/2019,FCS,Jackson St.,Alabama St.,DEFENSE,Bryon,Hanspard,FR,0
+12001228,10/12/2019,FCS,Jackson St.,Alabama St.,DEFENSE,Keshawn,Harper,TOT,0
+12001229,10/12/2019,FCS,Jackson St.,Alabama St.,DEFENSE,Keshawn,Harper,SOLO,0
+12001230,10/12/2019,FCS,Jackson St.,Alabama St.,DEFENSE,Keshawn,Harper,SACKS,0
+12001231,10/12/2019,FCS,Jackson St.,Alabama St.,DEFENSE,Keshawn,Harper,TFL,0
+12001232,10/12/2019,FCS,Jackson St.,Alabama St.,DEFENSE,Keshawn,Harper,INT,1
+12001233,10/12/2019,FCS,Jackson St.,Alabama St.,DEFENSE,Keshawn,Harper,FF,0
+12001234,10/12/2019,FCS,Jackson St.,Alabama St.,DEFENSE,Keshawn,Harper,FR,0

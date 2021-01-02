@@ -1,0 +1,153 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+8835001,10/17/2015,FCS,Montana State,Portland State,RUSHING,Dakota,Prukop,ATT,14
+8835002,10/17/2015,FCS,Montana State,Portland State,RUSHING,Dakota,Prukop,YDS,102
+8835003,10/17/2015,FCS,Montana State,Portland State,RUSHING,Dakota,Prukop,TD,3
+8835004,10/17/2015,FCS,Montana State,Portland State,RUSHING,Dakota,Prukop,LONG,61
+8835005,10/17/2015,FCS,Montana State,Portland State,RUSHING,Chad,Newell,ATT,13
+8835006,10/17/2015,FCS,Montana State,Portland State,RUSHING,Chad,Newell,YDS,59
+8835007,10/17/2015,FCS,Montana State,Portland State,RUSHING,Chad,Newell,TD,0
+8835008,10/17/2015,FCS,Montana State,Portland State,RUSHING,Chad,Newell,LONG,24
+8835009,10/17/2015,FCS,Montana State,Portland State,RUSHING,Tavon,Dodd,ATT,1
+8835010,10/17/2015,FCS,Montana State,Portland State,RUSHING,Tavon,Dodd,YDS,52
+8835011,10/17/2015,FCS,Montana State,Portland State,RUSHING,Tavon,Dodd,TD,0
+8835012,10/17/2015,FCS,Montana State,Portland State,RUSHING,Tavon,Dodd,LONG,52
+8835013,10/17/2015,FCS,Montana State,Portland State,RUSHING,Gunnar,Brekke,ATT,1
+8835014,10/17/2015,FCS,Montana State,Portland State,RUSHING,Gunnar,Brekke,YDS,11
+8835015,10/17/2015,FCS,Montana State,Portland State,RUSHING,Gunnar,Brekke,TD,0
+8835016,10/17/2015,FCS,Montana State,Portland State,RUSHING,Gunnar,Brekke,LONG,11
+8835017,10/17/2015,FCS,Montana State,Portland State,RUSHING,Nick,LaSane,ATT,1
+8835018,10/17/2015,FCS,Montana State,Portland State,RUSHING,Nick,LaSane,YDS,6
+8835019,10/17/2015,FCS,Montana State,Portland State,RUSHING,Nick,LaSane,TD,1
+8835020,10/17/2015,FCS,Montana State,Portland State,RUSHING,Nick,LaSane,LONG,6
+8835021,10/17/2015,FCS,Montana State,Portland State,RUSHING,Jayshawn,Gates,ATT,1
+8835022,10/17/2015,FCS,Montana State,Portland State,RUSHING,Jayshawn,Gates,YDS,-1
+8835023,10/17/2015,FCS,Montana State,Portland State,RUSHING,Jayshawn,Gates,TD,0
+8835024,10/17/2015,FCS,Montana State,Portland State,RUSHING,Jayshawn,Gates,LONG,0
+8835025,10/17/2015,FCS,Montana State,Portland State,PASSING,Dakota,Prukop,CP-ATT-INT,14-25-1
+8835026,10/17/2015,FCS,Montana State,Portland State,PASSING,Dakota,Prukop,YDS,211
+8835027,10/17/2015,FCS,Montana State,Portland State,PASSING,Dakota,Prukop,TD,1
+8835028,10/17/2015,FCS,Montana State,Portland State,PASSING,Dakota,Prukop,LONG,41
+8835029,10/17/2015,FCS,Montana State,Portland State,RECEIVING,Chad,Newell,REC,4
+8835030,10/17/2015,FCS,Montana State,Portland State,RECEIVING,Chad,Newell,YDS,70
+8835031,10/17/2015,FCS,Montana State,Portland State,RECEIVING,Chad,Newell,TD,0
+8835032,10/17/2015,FCS,Montana State,Portland State,RECEIVING,Chad,Newell,LONG,35
+8835033,10/17/2015,FCS,Montana State,Portland State,RECEIVING,Justin,Paige,REC,1
+8835034,10/17/2015,FCS,Montana State,Portland State,RECEIVING,Justin,Paige,YDS,41
+8835035,10/17/2015,FCS,Montana State,Portland State,RECEIVING,Justin,Paige,TD,0
+8835036,10/17/2015,FCS,Montana State,Portland State,RECEIVING,Justin,Paige,LONG,41
+8835037,10/17/2015,FCS,Montana State,Portland State,RECEIVING,Mitchell,Herbert,REC,3
+8835038,10/17/2015,FCS,Montana State,Portland State,RECEIVING,Mitchell,Herbert,YDS,35
+8835039,10/17/2015,FCS,Montana State,Portland State,RECEIVING,Mitchell,Herbert,TD,1
+8835040,10/17/2015,FCS,Montana State,Portland State,RECEIVING,Mitchell,Herbert,LONG,19
+8835041,10/17/2015,FCS,Montana State,Portland State,RECEIVING,Mitch,Griebel,REC,3
+8835042,10/17/2015,FCS,Montana State,Portland State,RECEIVING,Mitch,Griebel,YDS,32
+8835043,10/17/2015,FCS,Montana State,Portland State,RECEIVING,Mitch,Griebel,TD,0
+8835044,10/17/2015,FCS,Montana State,Portland State,RECEIVING,Mitch,Griebel,LONG,21
+8835045,10/17/2015,FCS,Montana State,Portland State,RECEIVING,Beau,Sandland,REC,2
+8835046,10/17/2015,FCS,Montana State,Portland State,RECEIVING,Beau,Sandland,YDS,19
+8835047,10/17/2015,FCS,Montana State,Portland State,RECEIVING,Beau,Sandland,TD,0
+8835048,10/17/2015,FCS,Montana State,Portland State,RECEIVING,Beau,Sandland,LONG,17
+8835049,10/17/2015,FCS,Montana State,Portland State,RECEIVING,Nick,LaSane,REC,1
+8835050,10/17/2015,FCS,Montana State,Portland State,RECEIVING,Nick,LaSane,YDS,14
+8835051,10/17/2015,FCS,Montana State,Portland State,RECEIVING,Nick,LaSane,TD,0
+8835052,10/17/2015,FCS,Montana State,Portland State,RECEIVING,Nick,LaSane,LONG,14
+8835053,10/17/2015,FCS,Montana State,Portland State,KICKING,Luke,Daly,FG-FGA,0/0
+8835054,10/17/2015,FCS,Montana State,Portland State,KICKING,Luke,Daly,LONG,-
+8835055,10/17/2015,FCS,Montana State,Portland State,KICKING,Luke,Daly,XP,6
+8835056,10/17/2015,FCS,Montana State,Portland State,KICKING,Luke,Daly,PTS,6
+8835057,10/17/2015,FCS,Montana State,Portland State,PUNTING,Trevor,Bolton,NO,2
+8835058,10/17/2015,FCS,Montana State,Portland State,PUNTING,Trevor,Bolton,YDS,88
+8835059,10/17/2015,FCS,Montana State,Portland State,PUNTING,Trevor,Bolton,AVG,44.0
+8835060,10/17/2015,FCS,Montana State,Portland State,PUNTING,Trevor,Bolton,LONG,62
+8835061,10/17/2015,FCS,Montana State,Portland State,KICK RETURNS,Logan,Jones,NO,4
+8835062,10/17/2015,FCS,Montana State,Portland State,KICK RETURNS,Logan,Jones,YDS,179
+8835063,10/17/2015,FCS,Montana State,Portland State,KICK RETURNS,Logan,Jones,AVG,44.8
+8835064,10/17/2015,FCS,Montana State,Portland State,KICK RETURNS,Logan,Jones,LONG,100
+8835065,10/17/2015,FCS,Montana State,Portland State,KICK RETURNS,Gunnar,Brekke,NO,2
+8835066,10/17/2015,FCS,Montana State,Portland State,KICK RETURNS,Gunnar,Brekke,YDS,44
+8835067,10/17/2015,FCS,Montana State,Portland State,KICK RETURNS,Gunnar,Brekke,AVG,22.0
+8835068,10/17/2015,FCS,Montana State,Portland State,KICK RETURNS,Gunnar,Brekke,LONG,31
+8835069,10/17/2015,FCS,Montana State,Portland State,KICK RETURNS,Jayshawn,Gates,NO,1
+8835070,10/17/2015,FCS,Montana State,Portland State,KICK RETURNS,Jayshawn,Gates,YDS,22
+8835071,10/17/2015,FCS,Montana State,Portland State,KICK RETURNS,Jayshawn,Gates,AVG,22.0
+8835072,10/17/2015,FCS,Montana State,Portland State,KICK RETURNS,Jayshawn,Gates,LONG,22
+8835073,10/17/2015,FCS,Montana State,Portland State,KICK RETURNS,Mitch,Griebel,NO,1
+8835074,10/17/2015,FCS,Montana State,Portland State,KICK RETURNS,Mitch,Griebel,YDS,15
+8835075,10/17/2015,FCS,Montana State,Portland State,KICK RETURNS,Mitch,Griebel,AVG,15.0
+8835076,10/17/2015,FCS,Montana State,Portland State,KICK RETURNS,Mitch,Griebel,LONG,15
+8835077,10/17/2015,FCS,Portland State,Montana State,RUSHING,David,Jones,ATT,23
+8835078,10/17/2015,FCS,Portland State,Montana State,RUSHING,David,Jones,YDS,285
+8835079,10/17/2015,FCS,Portland State,Montana State,RUSHING,David,Jones,TD,3
+8835080,10/17/2015,FCS,Portland State,Montana State,RUSHING,David,Jones,LONG,79
+8835081,10/17/2015,FCS,Portland State,Montana State,RUSHING,Nate,Tago,ATT,13
+8835082,10/17/2015,FCS,Portland State,Montana State,RUSHING,Nate,Tago,YDS,56
+8835083,10/17/2015,FCS,Portland State,Montana State,RUSHING,Nate,Tago,TD,1
+8835084,10/17/2015,FCS,Portland State,Montana State,RUSHING,Nate,Tago,LONG,11
+8835085,10/17/2015,FCS,Portland State,Montana State,RUSHING,Alex,Kuresa,ATT,13
+8835086,10/17/2015,FCS,Portland State,Montana State,RUSHING,Alex,Kuresa,YDS,51
+8835087,10/17/2015,FCS,Portland State,Montana State,RUSHING,Alex,Kuresa,TD,1
+8835088,10/17/2015,FCS,Portland State,Montana State,RUSHING,Alex,Kuresa,LONG,11
+8835089,10/17/2015,FCS,Portland State,Montana State,RUSHING,Paris,Penn,ATT,5
+8835090,10/17/2015,FCS,Portland State,Montana State,RUSHING,Paris,Penn,YDS,33
+8835091,10/17/2015,FCS,Portland State,Montana State,RUSHING,Paris,Penn,TD,2
+8835092,10/17/2015,FCS,Portland State,Montana State,RUSHING,Paris,Penn,LONG,10
+8835093,10/17/2015,FCS,Portland State,Montana State,RUSHING,Steven,Long,ATT,8
+8835094,10/17/2015,FCS,Portland State,Montana State,RUSHING,Steven,Long,YDS,26
+8835095,10/17/2015,FCS,Portland State,Montana State,RUSHING,Steven,Long,TD,0
+8835096,10/17/2015,FCS,Portland State,Montana State,RUSHING,Steven,Long,LONG,11
+8835097,10/17/2015,FCS,Portland State,Montana State,RUSHING,Josh,Kraght,ATT,3
+8835098,10/17/2015,FCS,Portland State,Montana State,RUSHING,Josh,Kraght,YDS,14
+8835099,10/17/2015,FCS,Portland State,Montana State,RUSHING,Josh,Kraght,TD,0
+8835100,10/17/2015,FCS,Portland State,Montana State,RUSHING,Josh,Kraght,LONG,7
+8835101,10/17/2015,FCS,Portland State,Montana State,PASSING,Alex,Kuresa,CP-ATT-INT,10-14-0
+8835102,10/17/2015,FCS,Portland State,Montana State,PASSING,Alex,Kuresa,YDS,217
+8835103,10/17/2015,FCS,Portland State,Montana State,PASSING,Alex,Kuresa,TD,1
+8835104,10/17/2015,FCS,Portland State,Montana State,PASSING,Alex,Kuresa,LONG,44
+8835105,10/17/2015,FCS,Portland State,Montana State,RECEIVING,Trent,Riley,REC,1
+8835106,10/17/2015,FCS,Portland State,Montana State,RECEIVING,Trent,Riley,YDS,44
+8835107,10/17/2015,FCS,Portland State,Montana State,RECEIVING,Trent,Riley,TD,0
+8835108,10/17/2015,FCS,Portland State,Montana State,RECEIVING,Trent,Riley,LONG,44
+8835109,10/17/2015,FCS,Portland State,Montana State,RECEIVING,Cam,Sommer,REC,2
+8835110,10/17/2015,FCS,Portland State,Montana State,RECEIVING,Cam,Sommer,YDS,39
+8835111,10/17/2015,FCS,Portland State,Montana State,RECEIVING,Cam,Sommer,TD,0
+8835112,10/17/2015,FCS,Portland State,Montana State,RECEIVING,Cam,Sommer,LONG,21
+8835113,10/17/2015,FCS,Portland State,Montana State,RECEIVING,Josh,Kraght,REC,2
+8835114,10/17/2015,FCS,Portland State,Montana State,RECEIVING,Josh,Kraght,YDS,34
+8835115,10/17/2015,FCS,Portland State,Montana State,RECEIVING,Josh,Kraght,TD,0
+8835116,10/17/2015,FCS,Portland State,Montana State,RECEIVING,Josh,Kraght,LONG,19
+8835117,10/17/2015,FCS,Portland State,Montana State,RECEIVING,Darnell,Adams,REC,1
+8835118,10/17/2015,FCS,Portland State,Montana State,RECEIVING,Darnell,Adams,YDS,31
+8835119,10/17/2015,FCS,Portland State,Montana State,RECEIVING,Darnell,Adams,TD,0
+8835120,10/17/2015,FCS,Portland State,Montana State,RECEIVING,Darnell,Adams,LONG,31
+8835121,10/17/2015,FCS,Portland State,Montana State,RECEIVING,Stevie,Coury,REC,2
+8835122,10/17/2015,FCS,Portland State,Montana State,RECEIVING,Stevie,Coury,YDS,30
+8835123,10/17/2015,FCS,Portland State,Montana State,RECEIVING,Stevie,Coury,TD,0
+8835124,10/17/2015,FCS,Portland State,Montana State,RECEIVING,Stevie,Coury,LONG,20
+8835125,10/17/2015,FCS,Portland State,Montana State,RECEIVING,Thomas,CarterIII,REC,1
+8835126,10/17/2015,FCS,Portland State,Montana State,RECEIVING,Thomas,CarterIII,YDS,24
+8835127,10/17/2015,FCS,Portland State,Montana State,RECEIVING,Thomas,CarterIII,TD,1
+8835128,10/17/2015,FCS,Portland State,Montana State,RECEIVING,Thomas,CarterIII,LONG,24
+8835129,10/17/2015,FCS,Portland State,Montana State,RECEIVING,David,Jones,REC,1
+8835130,10/17/2015,FCS,Portland State,Montana State,RECEIVING,David,Jones,YDS,15
+8835131,10/17/2015,FCS,Portland State,Montana State,RECEIVING,David,Jones,TD,0
+8835132,10/17/2015,FCS,Portland State,Montana State,RECEIVING,David,Jones,LONG,15
+8835133,10/17/2015,FCS,Portland State,Montana State,KICKING,Jonathan,Gonzales,FG-FGA,1/1
+8835134,10/17/2015,FCS,Portland State,Montana State,KICKING,Jonathan,Gonzales,LONG,29
+8835135,10/17/2015,FCS,Portland State,Montana State,KICKING,Jonathan,Gonzales,XP,8
+8835136,10/17/2015,FCS,Portland State,Montana State,KICKING,Jonathan,Gonzales,PTS,11
+8835137,10/17/2015,FCS,Portland State,Montana State,PUNTING,Marcus,Kinsella,NO,1
+8835138,10/17/2015,FCS,Portland State,Montana State,PUNTING,Marcus,Kinsella,YDS,47
+8835139,10/17/2015,FCS,Portland State,Montana State,PUNTING,Marcus,Kinsella,AVG,47.0
+8835140,10/17/2015,FCS,Portland State,Montana State,PUNTING,Marcus,Kinsella,LONG,47
+8835141,10/17/2015,FCS,Portland State,Montana State,PUNT RETURNS,Josh,Kraght,NO,1
+8835142,10/17/2015,FCS,Portland State,Montana State,PUNT RETURNS,Josh,Kraght,YDS,8
+8835143,10/17/2015,FCS,Portland State,Montana State,PUNT RETURNS,Josh,Kraght,AVG,8.0
+8835144,10/17/2015,FCS,Portland State,Montana State,PUNT RETURNS,Josh,Kraght,LONG,8
+8835145,10/17/2015,FCS,Portland State,Montana State,KICK RETURNS,Kahlil,Dawson,NO,4
+8835146,10/17/2015,FCS,Portland State,Montana State,KICK RETURNS,Kahlil,Dawson,YDS,95
+8835147,10/17/2015,FCS,Portland State,Montana State,KICK RETURNS,Kahlil,Dawson,AVG,23.8
+8835148,10/17/2015,FCS,Portland State,Montana State,KICK RETURNS,Kahlil,Dawson,LONG,33
+8835149,10/17/2015,FCS,Portland State,Montana State,KICK RETURNS,Steven,Long,NO,1
+8835150,10/17/2015,FCS,Portland State,Montana State,KICK RETURNS,Steven,Long,YDS,12
+8835151,10/17/2015,FCS,Portland State,Montana State,KICK RETURNS,Steven,Long,AVG,12.0
+8835152,10/17/2015,FCS,Portland State,Montana State,KICK RETURNS,Steven,Long,LONG,12

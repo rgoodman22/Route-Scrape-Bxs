@@ -1,0 +1,210 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+11510001,11/17/2018,FCS,Morgan St.,Norfolk St.,RUSHING,DJ,Golatt,ATT,20
+11510002,11/17/2018,FCS,Morgan St.,Norfolk St.,RUSHING,DJ,Golatt,YDS,156
+11510003,11/17/2018,FCS,Morgan St.,Norfolk St.,RUSHING,DJ,Golatt,TD,1
+11510004,11/17/2018,FCS,Morgan St.,Norfolk St.,RUSHING,DJ,Golatt,LONG,18
+11510005,11/17/2018,FCS,Morgan St.,Norfolk St.,RUSHING,David,Adeleke,ATT,15
+11510006,11/17/2018,FCS,Morgan St.,Norfolk St.,RUSHING,David,Adeleke,YDS,66
+11510007,11/17/2018,FCS,Morgan St.,Norfolk St.,RUSHING,David,Adeleke,TD,0
+11510008,11/17/2018,FCS,Morgan St.,Norfolk St.,RUSHING,David,Adeleke,LONG,14
+11510009,11/17/2018,FCS,Morgan St.,Norfolk St.,RUSHING,Jalen,Jackson,ATT,3
+11510010,11/17/2018,FCS,Morgan St.,Norfolk St.,RUSHING,Jalen,Jackson,YDS,63
+11510011,11/17/2018,FCS,Morgan St.,Norfolk St.,RUSHING,Jalen,Jackson,TD,1
+11510012,11/17/2018,FCS,Morgan St.,Norfolk St.,RUSHING,Jalen,Jackson,LONG,50
+11510013,11/17/2018,FCS,Morgan St.,Norfolk St.,RUSHING,DeAndre,Harris,ATT,5
+11510014,11/17/2018,FCS,Morgan St.,Norfolk St.,RUSHING,DeAndre,Harris,YDS,41
+11510015,11/17/2018,FCS,Morgan St.,Norfolk St.,RUSHING,DeAndre,Harris,TD,0
+11510016,11/17/2018,FCS,Morgan St.,Norfolk St.,RUSHING,DeAndre,Harris,LONG,15
+11510017,11/17/2018,FCS,Morgan St.,Norfolk St.,RUSHING,Tyler,Holley,ATT,2
+11510018,11/17/2018,FCS,Morgan St.,Norfolk St.,RUSHING,Tyler,Holley,YDS,4
+11510019,11/17/2018,FCS,Morgan St.,Norfolk St.,RUSHING,Tyler,Holley,TD,0
+11510020,11/17/2018,FCS,Morgan St.,Norfolk St.,RUSHING,Tyler,Holley,LONG,7
+11510021,11/17/2018,FCS,Morgan St.,Norfolk St.,RUSHING,Jelani,Dula,ATT,1
+11510022,11/17/2018,FCS,Morgan St.,Norfolk St.,RUSHING,Jelani,Dula,YDS,2
+11510023,11/17/2018,FCS,Morgan St.,Norfolk St.,RUSHING,Jelani,Dula,TD,0
+11510024,11/17/2018,FCS,Morgan St.,Norfolk St.,RUSHING,Jelani,Dula,LONG,2
+11510025,11/17/2018,FCS,Morgan St.,Norfolk St.,RUSHING,Anthony,Butler,ATT,1
+11510026,11/17/2018,FCS,Morgan St.,Norfolk St.,RUSHING,Anthony,Butler,YDS,1
+11510027,11/17/2018,FCS,Morgan St.,Norfolk St.,RUSHING,Anthony,Butler,TD,0
+11510028,11/17/2018,FCS,Morgan St.,Norfolk St.,RUSHING,Anthony,Butler,LONG,1
+11510029,11/17/2018,FCS,Morgan St.,Norfolk St.,PASSING,DJ,Golatt,CP-ATT-INT,17-23-1
+11510030,11/17/2018,FCS,Morgan St.,Norfolk St.,PASSING,DJ,Golatt,YDS,168
+11510031,11/17/2018,FCS,Morgan St.,Norfolk St.,PASSING,DJ,Golatt,TD,3
+11510032,11/17/2018,FCS,Morgan St.,Norfolk St.,PASSING,DJ,Golatt,LONG,41
+11510033,11/17/2018,FCS,Morgan St.,Norfolk St.,PASSING,DeAndre,Harris,CP-ATT-INT,1-1-0
+11510034,11/17/2018,FCS,Morgan St.,Norfolk St.,PASSING,DeAndre,Harris,YDS,3
+11510035,11/17/2018,FCS,Morgan St.,Norfolk St.,PASSING,DeAndre,Harris,TD,0
+11510036,11/17/2018,FCS,Morgan St.,Norfolk St.,PASSING,DeAndre,Harris,LONG,3
+11510037,11/17/2018,FCS,Morgan St.,Norfolk St.,RECEIVING,Xavier,Gravette,REC,6
+11510038,11/17/2018,FCS,Morgan St.,Norfolk St.,RECEIVING,Xavier,Gravette,YDS,78
+11510039,11/17/2018,FCS,Morgan St.,Norfolk St.,RECEIVING,Xavier,Gravette,TD,2
+11510040,11/17/2018,FCS,Morgan St.,Norfolk St.,RECEIVING,Xavier,Gravette,LONG,41
+11510041,11/17/2018,FCS,Morgan St.,Norfolk St.,RECEIVING,Manassah,Bailey,REC,4
+11510042,11/17/2018,FCS,Morgan St.,Norfolk St.,RECEIVING,Manassah,Bailey,YDS,33
+11510043,11/17/2018,FCS,Morgan St.,Norfolk St.,RECEIVING,Manassah,Bailey,TD,1
+11510044,11/17/2018,FCS,Morgan St.,Norfolk St.,RECEIVING,Manassah,Bailey,LONG,10
+11510045,11/17/2018,FCS,Morgan St.,Norfolk St.,RECEIVING,DeAndre,Harris,REC,1
+11510046,11/17/2018,FCS,Morgan St.,Norfolk St.,RECEIVING,DeAndre,Harris,YDS,22
+11510047,11/17/2018,FCS,Morgan St.,Norfolk St.,RECEIVING,DeAndre,Harris,TD,0
+11510048,11/17/2018,FCS,Morgan St.,Norfolk St.,RECEIVING,DeAndre,Harris,LONG,22
+11510049,11/17/2018,FCS,Morgan St.,Norfolk St.,RECEIVING,Corey,Holmes,REC,2
+11510050,11/17/2018,FCS,Morgan St.,Norfolk St.,RECEIVING,Corey,Holmes,YDS,19
+11510051,11/17/2018,FCS,Morgan St.,Norfolk St.,RECEIVING,Corey,Holmes,TD,0
+11510052,11/17/2018,FCS,Morgan St.,Norfolk St.,RECEIVING,Corey,Holmes,LONG,14
+11510053,11/17/2018,FCS,Morgan St.,Norfolk St.,RECEIVING,Darien,Pollion,REC,2
+11510054,11/17/2018,FCS,Morgan St.,Norfolk St.,RECEIVING,Darien,Pollion,YDS,12
+11510055,11/17/2018,FCS,Morgan St.,Norfolk St.,RECEIVING,Darien,Pollion,TD,0
+11510056,11/17/2018,FCS,Morgan St.,Norfolk St.,RECEIVING,Darien,Pollion,LONG,7
+11510057,11/17/2018,FCS,Morgan St.,Norfolk St.,RECEIVING,Daylen,Baldwin,REC,2
+11510058,11/17/2018,FCS,Morgan St.,Norfolk St.,RECEIVING,Daylen,Baldwin,YDS,8
+11510059,11/17/2018,FCS,Morgan St.,Norfolk St.,RECEIVING,Daylen,Baldwin,TD,0
+11510060,11/17/2018,FCS,Morgan St.,Norfolk St.,RECEIVING,Daylen,Baldwin,LONG,4
+11510061,11/17/2018,FCS,Morgan St.,Norfolk St.,RECEIVING,Deontaye,White,REC,1
+11510062,11/17/2018,FCS,Morgan St.,Norfolk St.,RECEIVING,Deontaye,White,YDS,-1
+11510063,11/17/2018,FCS,Morgan St.,Norfolk St.,RECEIVING,Deontaye,White,TD,0
+11510064,11/17/2018,FCS,Morgan St.,Norfolk St.,RECEIVING,Deontaye,White,LONG,-1
+11510065,11/17/2018,FCS,Morgan St.,Norfolk St.,KICKING,Alex,Raya,FG-FGA,1/1
+11510066,11/17/2018,FCS,Morgan St.,Norfolk St.,KICKING,Alex,Raya,LONG,39
+11510067,11/17/2018,FCS,Morgan St.,Norfolk St.,KICKING,Alex,Raya,XP,5
+11510068,11/17/2018,FCS,Morgan St.,Norfolk St.,KICKING,Alex,Raya,PTS,8
+11510069,11/17/2018,FCS,Morgan St.,Norfolk St.,PUNTING,Nicholas,O'Shea,NO,3
+11510070,11/17/2018,FCS,Morgan St.,Norfolk St.,PUNTING,Nicholas,O'Shea,YDS,91
+11510071,11/17/2018,FCS,Morgan St.,Norfolk St.,PUNTING,Nicholas,O'Shea,AVG,30.3
+11510072,11/17/2018,FCS,Morgan St.,Norfolk St.,PUNTING,Nicholas,O'Shea,LONG,32
+11510073,11/17/2018,FCS,Morgan St.,Norfolk St.,PUNT RETURNS,Marquise,Thorns,NO,1
+11510074,11/17/2018,FCS,Morgan St.,Norfolk St.,PUNT RETURNS,Marquise,Thorns,YDS,1
+11510075,11/17/2018,FCS,Morgan St.,Norfolk St.,PUNT RETURNS,Marquise,Thorns,AVG,1.0
+11510076,11/17/2018,FCS,Morgan St.,Norfolk St.,PUNT RETURNS,Marquise,Thorns,LONG,0
+11510077,11/17/2018,FCS,Morgan St.,Norfolk St.,KICK RETURNS,Corey,Holmes,NO,1
+11510078,11/17/2018,FCS,Morgan St.,Norfolk St.,KICK RETURNS,Corey,Holmes,YDS,13
+11510079,11/17/2018,FCS,Morgan St.,Norfolk St.,KICK RETURNS,Corey,Holmes,AVG,13.0
+11510080,11/17/2018,FCS,Morgan St.,Norfolk St.,KICK RETURNS,Corey,Holmes,LONG,13
+11510081,11/17/2018,FCS,Morgan St.,Norfolk St.,KICK RETURNS,Jordan,Cofield,NO,1
+11510082,11/17/2018,FCS,Morgan St.,Norfolk St.,KICK RETURNS,Jordan,Cofield,YDS,11
+11510083,11/17/2018,FCS,Morgan St.,Norfolk St.,KICK RETURNS,Jordan,Cofield,AVG,11.0
+11510084,11/17/2018,FCS,Morgan St.,Norfolk St.,KICK RETURNS,Jordan,Cofield,LONG,11
+11510085,11/17/2018,FCS,Morgan St.,Norfolk St.,DEFENSE,Dominick,Trigg,TOT,0
+11510086,11/17/2018,FCS,Morgan St.,Norfolk St.,DEFENSE,Dominick,Trigg,SOLO,0
+11510087,11/17/2018,FCS,Morgan St.,Norfolk St.,DEFENSE,Dominick,Trigg,SACKS,0
+11510088,11/17/2018,FCS,Morgan St.,Norfolk St.,DEFENSE,Dominick,Trigg,TFL,0
+11510089,11/17/2018,FCS,Morgan St.,Norfolk St.,DEFENSE,Dominick,Trigg,INT,1
+11510090,11/17/2018,FCS,Morgan St.,Norfolk St.,DEFENSE,Dominick,Trigg,FF,0
+11510091,11/17/2018,FCS,Morgan St.,Norfolk St.,DEFENSE,Dominick,Trigg,FR,0
+11510092,11/17/2018,FCS,Morgan St.,Norfolk St.,DEFENSE,Ayodeji,Agbelese,TOT,0
+11510093,11/17/2018,FCS,Morgan St.,Norfolk St.,DEFENSE,Ayodeji,Agbelese,SOLO,0
+11510094,11/17/2018,FCS,Morgan St.,Norfolk St.,DEFENSE,Ayodeji,Agbelese,SACKS,0.5
+11510095,11/17/2018,FCS,Morgan St.,Norfolk St.,DEFENSE,Ayodeji,Agbelese,TFL,0
+11510096,11/17/2018,FCS,Morgan St.,Norfolk St.,DEFENSE,Ayodeji,Agbelese,INT,0
+11510097,11/17/2018,FCS,Morgan St.,Norfolk St.,DEFENSE,Ayodeji,Agbelese,FF,0
+11510098,11/17/2018,FCS,Morgan St.,Norfolk St.,DEFENSE,Ayodeji,Agbelese,FR,0
+11510099,11/17/2018,FCS,Morgan St.,Norfolk St.,DEFENSE,Damare',Whitaker,TOT,0
+11510100,11/17/2018,FCS,Morgan St.,Norfolk St.,DEFENSE,Damare',Whitaker,SOLO,0
+11510101,11/17/2018,FCS,Morgan St.,Norfolk St.,DEFENSE,Damare',Whitaker,SACKS,1.5
+11510102,11/17/2018,FCS,Morgan St.,Norfolk St.,DEFENSE,Damare',Whitaker,TFL,0
+11510103,11/17/2018,FCS,Morgan St.,Norfolk St.,DEFENSE,Damare',Whitaker,INT,0
+11510104,11/17/2018,FCS,Morgan St.,Norfolk St.,DEFENSE,Damare',Whitaker,FF,0
+11510105,11/17/2018,FCS,Morgan St.,Norfolk St.,DEFENSE,Damare',Whitaker,FR,0
+11510106,11/17/2018,FCS,Norfolk St.,Morgan St.,RUSHING,Juwan,Carter,ATT,6
+11510107,11/17/2018,FCS,Norfolk St.,Morgan St.,RUSHING,Juwan,Carter,YDS,15
+11510108,11/17/2018,FCS,Norfolk St.,Morgan St.,RUSHING,Juwan,Carter,TD,0
+11510109,11/17/2018,FCS,Norfolk St.,Morgan St.,RUSHING,Juwan,Carter,LONG,27
+11510110,11/17/2018,FCS,Norfolk St.,Morgan St.,RUSHING,Aaron,Savage,ATT,4
+11510111,11/17/2018,FCS,Norfolk St.,Morgan St.,RUSHING,Aaron,Savage,YDS,11
+11510112,11/17/2018,FCS,Norfolk St.,Morgan St.,RUSHING,Aaron,Savage,TD,0
+11510113,11/17/2018,FCS,Norfolk St.,Morgan St.,RUSHING,Aaron,Savage,LONG,4
+11510114,11/17/2018,FCS,Norfolk St.,Morgan St.,RUSHING,Cameryn,Brent,ATT,4
+11510115,11/17/2018,FCS,Norfolk St.,Morgan St.,RUSHING,Cameryn,Brent,YDS,7
+11510116,11/17/2018,FCS,Norfolk St.,Morgan St.,RUSHING,Cameryn,Brent,TD,1
+11510117,11/17/2018,FCS,Norfolk St.,Morgan St.,RUSHING,Cameryn,Brent,LONG,2
+11510118,11/17/2018,FCS,Norfolk St.,Morgan St.,RUSHING,Gerald,Hulett,ATT,1
+11510119,11/17/2018,FCS,Norfolk St.,Morgan St.,RUSHING,Gerald,Hulett,YDS,7
+11510120,11/17/2018,FCS,Norfolk St.,Morgan St.,RUSHING,Gerald,Hulett,TD,0
+11510121,11/17/2018,FCS,Norfolk St.,Morgan St.,RUSHING,Gerald,Hulett,LONG,7
+11510122,11/17/2018,FCS,Norfolk St.,Morgan St.,RUSHING,D'Andre,Thomas,ATT,1
+11510123,11/17/2018,FCS,Norfolk St.,Morgan St.,RUSHING,D'Andre,Thomas,YDS,6
+11510124,11/17/2018,FCS,Norfolk St.,Morgan St.,RUSHING,D'Andre,Thomas,TD,0
+11510125,11/17/2018,FCS,Norfolk St.,Morgan St.,RUSHING,D'Andre,Thomas,LONG,6
+11510126,11/17/2018,FCS,Norfolk St.,Morgan St.,PASSING,Juwan,Carter,CP-ATT-INT,28-44-1
+11510127,11/17/2018,FCS,Norfolk St.,Morgan St.,PASSING,Juwan,Carter,YDS,467
+11510128,11/17/2018,FCS,Norfolk St.,Morgan St.,PASSING,Juwan,Carter,TD,3
+11510129,11/17/2018,FCS,Norfolk St.,Morgan St.,PASSING,Juwan,Carter,LONG,71
+11510130,11/17/2018,FCS,Norfolk St.,Morgan St.,PASSING,D'Andre,Thomas,CP-ATT-INT,2-3-0
+11510131,11/17/2018,FCS,Norfolk St.,Morgan St.,PASSING,D'Andre,Thomas,YDS,9
+11510132,11/17/2018,FCS,Norfolk St.,Morgan St.,PASSING,D'Andre,Thomas,TD,0
+11510133,11/17/2018,FCS,Norfolk St.,Morgan St.,PASSING,D'Andre,Thomas,LONG,7
+11510134,11/17/2018,FCS,Norfolk St.,Morgan St.,RECEIVING,Isaiah,Winstead,REC,8
+11510135,11/17/2018,FCS,Norfolk St.,Morgan St.,RECEIVING,Isaiah,Winstead,YDS,156
+11510136,11/17/2018,FCS,Norfolk St.,Morgan St.,RECEIVING,Isaiah,Winstead,TD,2
+11510137,11/17/2018,FCS,Norfolk St.,Morgan St.,RECEIVING,Isaiah,Winstead,LONG,48
+11510138,11/17/2018,FCS,Norfolk St.,Morgan St.,RECEIVING,Marcus,Taylor,REC,6
+11510139,11/17/2018,FCS,Norfolk St.,Morgan St.,RECEIVING,Marcus,Taylor,YDS,141
+11510140,11/17/2018,FCS,Norfolk St.,Morgan St.,RECEIVING,Marcus,Taylor,TD,1
+11510141,11/17/2018,FCS,Norfolk St.,Morgan St.,RECEIVING,Marcus,Taylor,LONG,71
+11510142,11/17/2018,FCS,Norfolk St.,Morgan St.,RECEIVING,Chuma,Awanna,REC,6
+11510143,11/17/2018,FCS,Norfolk St.,Morgan St.,RECEIVING,Chuma,Awanna,YDS,89
+11510144,11/17/2018,FCS,Norfolk St.,Morgan St.,RECEIVING,Chuma,Awanna,TD,0
+11510145,11/17/2018,FCS,Norfolk St.,Morgan St.,RECEIVING,Chuma,Awanna,LONG,31
+11510146,11/17/2018,FCS,Norfolk St.,Morgan St.,RECEIVING,Justin,Smith,REC,2
+11510147,11/17/2018,FCS,Norfolk St.,Morgan St.,RECEIVING,Justin,Smith,YDS,43
+11510148,11/17/2018,FCS,Norfolk St.,Morgan St.,RECEIVING,Justin,Smith,TD,0
+11510149,11/17/2018,FCS,Norfolk St.,Morgan St.,RECEIVING,Justin,Smith,LONG,24
+11510150,11/17/2018,FCS,Norfolk St.,Morgan St.,RECEIVING,Gerald,Hulett,REC,3
+11510151,11/17/2018,FCS,Norfolk St.,Morgan St.,RECEIVING,Gerald,Hulett,YDS,21
+11510152,11/17/2018,FCS,Norfolk St.,Morgan St.,RECEIVING,Gerald,Hulett,TD,0
+11510153,11/17/2018,FCS,Norfolk St.,Morgan St.,RECEIVING,Gerald,Hulett,LONG,10
+11510154,11/17/2018,FCS,Norfolk St.,Morgan St.,RECEIVING,Aaron,Savage,REC,2
+11510155,11/17/2018,FCS,Norfolk St.,Morgan St.,RECEIVING,Aaron,Savage,YDS,16
+11510156,11/17/2018,FCS,Norfolk St.,Morgan St.,RECEIVING,Aaron,Savage,TD,0
+11510157,11/17/2018,FCS,Norfolk St.,Morgan St.,RECEIVING,Aaron,Savage,LONG,13
+11510158,11/17/2018,FCS,Norfolk St.,Morgan St.,RECEIVING,Marcque,Ellington,REC,1
+11510159,11/17/2018,FCS,Norfolk St.,Morgan St.,RECEIVING,Marcque,Ellington,YDS,7
+11510160,11/17/2018,FCS,Norfolk St.,Morgan St.,RECEIVING,Marcque,Ellington,TD,0
+11510161,11/17/2018,FCS,Norfolk St.,Morgan St.,RECEIVING,Marcque,Ellington,LONG,7
+11510162,11/17/2018,FCS,Norfolk St.,Morgan St.,RECEIVING,Cameryn,Brent,REC,2
+11510163,11/17/2018,FCS,Norfolk St.,Morgan St.,RECEIVING,Cameryn,Brent,YDS,3
+11510164,11/17/2018,FCS,Norfolk St.,Morgan St.,RECEIVING,Cameryn,Brent,TD,0
+11510165,11/17/2018,FCS,Norfolk St.,Morgan St.,RECEIVING,Cameryn,Brent,LONG,4
+11510166,11/17/2018,FCS,Norfolk St.,Morgan St.,KICKING,Josh,Nardone,FG-FGA,0/0
+11510167,11/17/2018,FCS,Norfolk St.,Morgan St.,KICKING,Josh,Nardone,LONG,-
+11510168,11/17/2018,FCS,Norfolk St.,Morgan St.,KICKING,Josh,Nardone,XP,1
+11510169,11/17/2018,FCS,Norfolk St.,Morgan St.,KICKING,Josh,Nardone,PTS,1
+11510170,11/17/2018,FCS,Norfolk St.,Morgan St.,PUNTING,Taylor,Goettie,NO,6
+11510171,11/17/2018,FCS,Norfolk St.,Morgan St.,PUNTING,Taylor,Goettie,YDS,265
+11510172,11/17/2018,FCS,Norfolk St.,Morgan St.,PUNTING,Taylor,Goettie,AVG,44.2
+11510173,11/17/2018,FCS,Norfolk St.,Morgan St.,PUNTING,Taylor,Goettie,LONG,51
+11510174,11/17/2018,FCS,Norfolk St.,Morgan St.,KICK RETURNS,Marcus,Taylor,NO,2
+11510175,11/17/2018,FCS,Norfolk St.,Morgan St.,KICK RETURNS,Marcus,Taylor,YDS,42
+11510176,11/17/2018,FCS,Norfolk St.,Morgan St.,KICK RETURNS,Marcus,Taylor,AVG,21.0
+11510177,11/17/2018,FCS,Norfolk St.,Morgan St.,KICK RETURNS,Marcus,Taylor,LONG,27
+11510178,11/17/2018,FCS,Norfolk St.,Morgan St.,KICK RETURNS,Bobby,Price,NO,1
+11510179,11/17/2018,FCS,Norfolk St.,Morgan St.,KICK RETURNS,Bobby,Price,YDS,13
+11510180,11/17/2018,FCS,Norfolk St.,Morgan St.,KICK RETURNS,Bobby,Price,AVG,13.0
+11510181,11/17/2018,FCS,Norfolk St.,Morgan St.,KICK RETURNS,Bobby,Price,LONG,13
+11510182,11/17/2018,FCS,Norfolk St.,Morgan St.,DEFENSE,Marquis,Hall,TOT,0
+11510183,11/17/2018,FCS,Norfolk St.,Morgan St.,DEFENSE,Marquis,Hall,SOLO,0
+11510184,11/17/2018,FCS,Norfolk St.,Morgan St.,DEFENSE,Marquis,Hall,SACKS,0.5
+11510185,11/17/2018,FCS,Norfolk St.,Morgan St.,DEFENSE,Marquis,Hall,TFL,0
+11510186,11/17/2018,FCS,Norfolk St.,Morgan St.,DEFENSE,Marquis,Hall,INT,0
+11510187,11/17/2018,FCS,Norfolk St.,Morgan St.,DEFENSE,Marquis,Hall,FF,0
+11510188,11/17/2018,FCS,Norfolk St.,Morgan St.,DEFENSE,Marquis,Hall,FR,0
+11510189,11/17/2018,FCS,Norfolk St.,Morgan St.,DEFENSE,Allen,Boykins,TOT,0
+11510190,11/17/2018,FCS,Norfolk St.,Morgan St.,DEFENSE,Allen,Boykins,SOLO,0
+11510191,11/17/2018,FCS,Norfolk St.,Morgan St.,DEFENSE,Allen,Boykins,SACKS,0
+11510192,11/17/2018,FCS,Norfolk St.,Morgan St.,DEFENSE,Allen,Boykins,TFL,0
+11510193,11/17/2018,FCS,Norfolk St.,Morgan St.,DEFENSE,Allen,Boykins,INT,0
+11510194,11/17/2018,FCS,Norfolk St.,Morgan St.,DEFENSE,Allen,Boykins,FF,0
+11510195,11/17/2018,FCS,Norfolk St.,Morgan St.,DEFENSE,Allen,Boykins,FR,1
+11510196,11/17/2018,FCS,Norfolk St.,Morgan St.,DEFENSE,Nigel,Chavis,TOT,0
+11510197,11/17/2018,FCS,Norfolk St.,Morgan St.,DEFENSE,Nigel,Chavis,SOLO,0
+11510198,11/17/2018,FCS,Norfolk St.,Morgan St.,DEFENSE,Nigel,Chavis,SACKS,0.5
+11510199,11/17/2018,FCS,Norfolk St.,Morgan St.,DEFENSE,Nigel,Chavis,TFL,0
+11510200,11/17/2018,FCS,Norfolk St.,Morgan St.,DEFENSE,Nigel,Chavis,INT,0
+11510201,11/17/2018,FCS,Norfolk St.,Morgan St.,DEFENSE,Nigel,Chavis,FF,1
+11510202,11/17/2018,FCS,Norfolk St.,Morgan St.,DEFENSE,Nigel,Chavis,FR,0
+11510203,11/17/2018,FCS,Norfolk St.,Morgan St.,DEFENSE,Aaron,Chandler,TOT,0
+11510204,11/17/2018,FCS,Norfolk St.,Morgan St.,DEFENSE,Aaron,Chandler,SOLO,0
+11510205,11/17/2018,FCS,Norfolk St.,Morgan St.,DEFENSE,Aaron,Chandler,SACKS,0
+11510206,11/17/2018,FCS,Norfolk St.,Morgan St.,DEFENSE,Aaron,Chandler,TFL,0
+11510207,11/17/2018,FCS,Norfolk St.,Morgan St.,DEFENSE,Aaron,Chandler,INT,1
+11510208,11/17/2018,FCS,Norfolk St.,Morgan St.,DEFENSE,Aaron,Chandler,FF,0
+11510209,11/17/2018,FCS,Norfolk St.,Morgan St.,DEFENSE,Aaron,Chandler,FR,0

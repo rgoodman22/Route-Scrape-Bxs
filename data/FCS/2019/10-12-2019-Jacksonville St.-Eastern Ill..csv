@@ -1,0 +1,187 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+11971001,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RUSHING,Michael,Matthews,ATT,15
+11971002,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RUSHING,Michael,Matthews,YDS,92
+11971003,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RUSHING,Michael,Matthews,TD,1
+11971004,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RUSHING,Michael,Matthews,LONG,34
+11971005,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RUSHING,Uriah,West,ATT,4
+11971006,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RUSHING,Uriah,West,YDS,42
+11971007,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RUSHING,Uriah,West,TD,0
+11971008,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RUSHING,Uriah,West,LONG,23
+11971009,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RUSHING,Jaelen,Greene,ATT,7
+11971010,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RUSHING,Jaelen,Greene,YDS,38
+11971011,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RUSHING,Jaelen,Greene,TD,0
+11971012,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RUSHING,Jaelen,Greene,LONG,17
+11971013,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RUSHING,Austin,Kinsey,ATT,4
+11971014,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RUSHING,Austin,Kinsey,YDS,11
+11971015,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RUSHING,Austin,Kinsey,TD,0
+11971016,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RUSHING,Austin,Kinsey,LONG,4
+11971017,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RUSHING,Jamari,Hester,ATT,2
+11971018,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RUSHING,Jamari,Hester,YDS,5
+11971019,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RUSHING,Jamari,Hester,TD,0
+11971020,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RUSHING,Jamari,Hester,LONG,3
+11971021,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RUSHING,,Team,ATT,1
+11971022,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RUSHING,,Team,YDS,-1
+11971023,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RUSHING,,Team,TD,0
+11971024,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RUSHING,,Team,LONG,0
+11971025,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RUSHING,Zerrick,Cooper,ATT,12
+11971026,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RUSHING,Zerrick,Cooper,YDS,-2
+11971027,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RUSHING,Zerrick,Cooper,TD,0
+11971028,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RUSHING,Zerrick,Cooper,LONG,10
+11971029,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,PASSING,Zerrick,Cooper,CP-ATT-INT,22-34-1
+11971030,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,PASSING,Zerrick,Cooper,YDS,237
+11971031,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,PASSING,Zerrick,Cooper,TD,3
+11971032,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,PASSING,Zerrick,Cooper,LONG,39
+11971033,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RECEIVING,Jamari,Hester,REC,9
+11971034,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RECEIVING,Jamari,Hester,YDS,99
+11971035,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RECEIVING,Jamari,Hester,TD,0
+11971036,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RECEIVING,Jamari,Hester,LONG,20
+11971037,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RECEIVING,Josh,Pearson,REC,5
+11971038,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RECEIVING,Josh,Pearson,YDS,70
+11971039,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RECEIVING,Josh,Pearson,TD,2
+11971040,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RECEIVING,Josh,Pearson,LONG,39
+11971041,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RECEIVING,KJ,Stepherson,REC,3
+11971042,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RECEIVING,KJ,Stepherson,YDS,40
+11971043,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RECEIVING,KJ,Stepherson,TD,1
+11971044,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RECEIVING,KJ,Stepherson,LONG,19
+11971045,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RECEIVING,Daniel,Byrd,REC,4
+11971046,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RECEIVING,Daniel,Byrd,YDS,20
+11971047,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RECEIVING,Daniel,Byrd,TD,0
+11971048,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RECEIVING,Daniel,Byrd,LONG,8
+11971049,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RECEIVING,Jaelen,Greene,REC,1
+11971050,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RECEIVING,Jaelen,Greene,YDS,8
+11971051,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RECEIVING,Jaelen,Greene,TD,0
+11971052,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,RECEIVING,Jaelen,Greene,LONG,8
+11971053,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,KICKING,Bryant,Wallace,FG-FGA,0/1
+11971054,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,KICKING,Bryant,Wallace,LONG,0
+11971055,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,KICKING,Bryant,Wallace,XP,4
+11971056,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,KICKING,Bryant,Wallace,PTS,4
+11971057,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,PUNTING,Jason,Pierce,NO,3
+11971058,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,PUNTING,Jason,Pierce,YDS,94
+11971059,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,PUNTING,Jason,Pierce,AVG,31.3
+11971060,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,PUNTING,Jason,Pierce,LONG,51
+11971061,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,PUNTING,Preston,Knight,NO,2
+11971062,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,PUNTING,Preston,Knight,YDS,54
+11971063,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,PUNTING,Preston,Knight,AVG,27.0
+11971064,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,PUNTING,Preston,Knight,LONG,33
+11971065,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,PUNT RETURNS,Daniel,Byrd,NO,2
+11971066,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,PUNT RETURNS,Daniel,Byrd,YDS,0
+11971067,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,PUNT RETURNS,Daniel,Byrd,AVG,-
+11971068,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,PUNT RETURNS,Daniel,Byrd,LONG,7
+11971069,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,KICK RETURNS,Yul,Gowdy,NO,2
+11971070,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,KICK RETURNS,Yul,Gowdy,YDS,30
+11971071,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,KICK RETURNS,Yul,Gowdy,AVG,15.0
+11971072,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,KICK RETURNS,Yul,Gowdy,LONG,16
+11971073,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,KICK RETURNS,Daniel,Byrd,NO,1
+11971074,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,KICK RETURNS,Daniel,Byrd,YDS,8
+11971075,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,KICK RETURNS,Daniel,Byrd,AVG,8.0
+11971076,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,KICK RETURNS,Daniel,Byrd,LONG,8
+11971077,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,DEFENSE,Zack,Woodard,TOT,0
+11971078,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,DEFENSE,Zack,Woodard,SOLO,0
+11971079,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,DEFENSE,Zack,Woodard,SACKS,0
+11971080,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,DEFENSE,Zack,Woodard,TFL,0
+11971081,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,DEFENSE,Zack,Woodard,INT,1
+11971082,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,DEFENSE,Zack,Woodard,FF,0
+11971083,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,DEFENSE,Zack,Woodard,FR,0
+11971084,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,DEFENSE,Traco,Williams,TOT,0
+11971085,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,DEFENSE,Traco,Williams,SOLO,0
+11971086,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,DEFENSE,Traco,Williams,SACKS,0
+11971087,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,DEFENSE,Traco,Williams,TFL,0
+11971088,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,DEFENSE,Traco,Williams,INT,2
+11971089,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,DEFENSE,Traco,Williams,FF,0
+11971090,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,DEFENSE,Traco,Williams,FR,0
+11971091,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,DEFENSE,DJ,Coleman,TOT,0
+11971092,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,DEFENSE,DJ,Coleman,SOLO,0
+11971093,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,DEFENSE,DJ,Coleman,SACKS,1
+11971094,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,DEFENSE,DJ,Coleman,TFL,0
+11971095,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,DEFENSE,DJ,Coleman,INT,0
+11971096,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,DEFENSE,DJ,Coleman,FF,0
+11971097,10/12/2019,FCS,Jacksonville St.,Eastern Ill.,DEFENSE,DJ,Coleman,FR,0
+11971098,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RUSHING,Chris,Walker,ATT,12
+11971099,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RUSHING,Chris,Walker,YDS,45
+11971100,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RUSHING,Chris,Walker,TD,0
+11971101,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RUSHING,Chris,Walker,LONG,20
+11971102,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RUSHING,Jaelin,Hayes-Benefield,ATT,14
+11971103,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RUSHING,Jaelin,Hayes-Benefield,YDS,26
+11971104,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RUSHING,Jaelin,Hayes-Benefield,TD,1
+11971105,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RUSHING,Jaelin,Hayes-Benefield,LONG,10
+11971106,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RUSHING,Harry,Woodbery,ATT,5
+11971107,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RUSHING,Harry,Woodbery,YDS,20
+11971108,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RUSHING,Harry,Woodbery,TD,0
+11971109,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RUSHING,Harry,Woodbery,LONG,15
+11971110,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RUSHING,Isaiah,Hill,ATT,3
+11971111,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RUSHING,Isaiah,Hill,YDS,18
+11971112,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RUSHING,Isaiah,Hill,TD,1
+11971113,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RUSHING,Isaiah,Hill,LONG,10
+11971114,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,PASSING,Harry,Woodbery,CP-ATT-INT,19-38-3
+11971115,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,PASSING,Harry,Woodbery,YDS,208
+11971116,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,PASSING,Harry,Woodbery,TD,1
+11971117,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,PASSING,Harry,Woodbery,LONG,35
+11971118,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RECEIVING,James,Sheehan,REC,7
+11971119,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RECEIVING,James,Sheehan,YDS,65
+11971120,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RECEIVING,James,Sheehan,TD,0
+11971121,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RECEIVING,James,Sheehan,LONG,21
+11971122,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RECEIVING,Teriq,Phillips,REC,2
+11971123,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RECEIVING,Teriq,Phillips,YDS,44
+11971124,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RECEIVING,Teriq,Phillips,TD,0
+11971125,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RECEIVING,Teriq,Phillips,LONG,35
+11971126,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RECEIVING,Jaelin,Hayes-Benefield,REC,4
+11971127,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RECEIVING,Jaelin,Hayes-Benefield,YDS,43
+11971128,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RECEIVING,Jaelin,Hayes-Benefield,TD,0
+11971129,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RECEIVING,Jaelin,Hayes-Benefield,LONG,21
+11971130,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RECEIVING,Isaiah,Hill,REC,4
+11971131,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RECEIVING,Isaiah,Hill,YDS,41
+11971132,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RECEIVING,Isaiah,Hill,TD,1
+11971133,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RECEIVING,Isaiah,Hill,LONG,25
+11971134,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RECEIVING,DeWayne,CooksJr.,REC,1
+11971135,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RECEIVING,DeWayne,CooksJr.,YDS,12
+11971136,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RECEIVING,DeWayne,CooksJr.,TD,0
+11971137,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RECEIVING,DeWayne,CooksJr.,LONG,12
+11971138,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RECEIVING,Chris,Walker,REC,1
+11971139,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RECEIVING,Chris,Walker,YDS,3
+11971140,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RECEIVING,Chris,Walker,TD,0
+11971141,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,RECEIVING,Chris,Walker,LONG,3
+11971142,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,KICKING,Josh,Delgado,FG-FGA,0/0
+11971143,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,KICKING,Josh,Delgado,LONG,-
+11971144,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,KICKING,Josh,Delgado,XP,2
+11971145,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,KICKING,Josh,Delgado,PTS,2
+11971146,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,PUNTING,Stone,Galloway,NO,6
+11971147,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,PUNTING,Stone,Galloway,YDS,210
+11971148,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,PUNTING,Stone,Galloway,AVG,35.0
+11971149,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,PUNTING,Stone,Galloway,LONG,41
+11971150,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,PUNT RETURNS,Isaiah,Hill,NO,1
+11971151,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,PUNT RETURNS,Isaiah,Hill,YDS,9
+11971152,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,PUNT RETURNS,Isaiah,Hill,AVG,9.0
+11971153,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,PUNT RETURNS,Isaiah,Hill,LONG,9
+11971154,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,KICK RETURNS,Isaiah,Hill,NO,2
+11971155,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,KICK RETURNS,Isaiah,Hill,YDS,41
+11971156,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,KICK RETURNS,Isaiah,Hill,AVG,20.5
+11971157,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,KICK RETURNS,Isaiah,Hill,LONG,26
+11971158,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,KICK RETURNS,Dylan,Hughes,NO,1
+11971159,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,KICK RETURNS,Dylan,Hughes,YDS,14
+11971160,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,KICK RETURNS,Dylan,Hughes,AVG,14.0
+11971161,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,KICK RETURNS,Dylan,Hughes,LONG,14
+11971162,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,KICK RETURNS,Bryce,Walker,NO,1
+11971163,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,KICK RETURNS,Bryce,Walker,YDS,8
+11971164,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,KICK RETURNS,Bryce,Walker,AVG,8.0
+11971165,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,KICK RETURNS,Bryce,Walker,LONG,8
+11971166,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,DEFENSE,D'Mitri,George,TOT,0
+11971167,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,DEFENSE,D'Mitri,George,SOLO,0
+11971168,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,DEFENSE,D'Mitri,George,SACKS,0
+11971169,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,DEFENSE,D'Mitri,George,TFL,0
+11971170,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,DEFENSE,D'Mitri,George,INT,0
+11971171,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,DEFENSE,D'Mitri,George,FF,0
+11971172,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,DEFENSE,D'Mitri,George,FR,1
+11971173,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,DEFENSE,Dytarious,Johnson,TOT,0
+11971174,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,DEFENSE,Dytarious,Johnson,SOLO,0
+11971175,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,DEFENSE,Dytarious,Johnson,SACKS,0
+11971176,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,DEFENSE,Dytarious,Johnson,TFL,0
+11971177,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,DEFENSE,Dytarious,Johnson,INT,0
+11971178,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,DEFENSE,Dytarious,Johnson,FF,1
+11971179,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,DEFENSE,Dytarious,Johnson,FR,0
+11971180,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,DEFENSE,Cornelius,Page,TOT,0
+11971181,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,DEFENSE,Cornelius,Page,SOLO,0
+11971182,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,DEFENSE,Cornelius,Page,SACKS,0
+11971183,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,DEFENSE,Cornelius,Page,TFL,0
+11971184,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,DEFENSE,Cornelius,Page,INT,1
+11971185,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,DEFENSE,Cornelius,Page,FF,0
+11971186,10/12/2019,FCS,Eastern Ill.,Jacksonville St.,DEFENSE,Cornelius,Page,FR,0

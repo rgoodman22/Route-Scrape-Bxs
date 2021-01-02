@@ -1,0 +1,157 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9816001,11/5/2016,FCS,Montana State,Southern Utah,RUSHING,Chris,Murray,ATT,19
+9816002,11/5/2016,FCS,Montana State,Southern Utah,RUSHING,Chris,Murray,YDS,106
+9816003,11/5/2016,FCS,Montana State,Southern Utah,RUSHING,Chris,Murray,TD,1
+9816004,11/5/2016,FCS,Montana State,Southern Utah,RUSHING,Chris,Murray,LONG,17
+9816005,11/5/2016,FCS,Montana State,Southern Utah,RUSHING,Chad,Newell,ATT,10
+9816006,11/5/2016,FCS,Montana State,Southern Utah,RUSHING,Chad,Newell,YDS,46
+9816007,11/5/2016,FCS,Montana State,Southern Utah,RUSHING,Chad,Newell,TD,0
+9816008,11/5/2016,FCS,Montana State,Southern Utah,RUSHING,Chad,Newell,LONG,17
+9816009,11/5/2016,FCS,Montana State,Southern Utah,RUSHING,Nick,LaSane,ATT,7
+9816010,11/5/2016,FCS,Montana State,Southern Utah,RUSHING,Nick,LaSane,YDS,41
+9816011,11/5/2016,FCS,Montana State,Southern Utah,RUSHING,Nick,LaSane,TD,0
+9816012,11/5/2016,FCS,Montana State,Southern Utah,RUSHING,Nick,LaSane,LONG,27
+9816013,11/5/2016,FCS,Montana State,Southern Utah,RUSHING,Gunnar,Brekke,ATT,9
+9816014,11/5/2016,FCS,Montana State,Southern Utah,RUSHING,Gunnar,Brekke,YDS,35
+9816015,11/5/2016,FCS,Montana State,Southern Utah,RUSHING,Gunnar,Brekke,TD,0
+9816016,11/5/2016,FCS,Montana State,Southern Utah,RUSHING,Gunnar,Brekke,LONG,12
+9816017,11/5/2016,FCS,Montana State,Southern Utah,RUSHING,Tyler,Bruggman,ATT,1
+9816018,11/5/2016,FCS,Montana State,Southern Utah,RUSHING,Tyler,Bruggman,YDS,-14
+9816019,11/5/2016,FCS,Montana State,Southern Utah,RUSHING,Tyler,Bruggman,TD,0
+9816020,11/5/2016,FCS,Montana State,Southern Utah,RUSHING,Tyler,Bruggman,LONG,0
+9816021,11/5/2016,FCS,Montana State,Southern Utah,PASSING,Chris,Murray,CP-ATT-INT,8-17-3
+9816022,11/5/2016,FCS,Montana State,Southern Utah,PASSING,Chris,Murray,YDS,159
+9816023,11/5/2016,FCS,Montana State,Southern Utah,PASSING,Chris,Murray,TD,2
+9816024,11/5/2016,FCS,Montana State,Southern Utah,PASSING,Chris,Murray,LONG,49
+9816025,11/5/2016,FCS,Montana State,Southern Utah,PASSING,Tyler,Bruggman,CP-ATT-INT,2-6-1
+9816026,11/5/2016,FCS,Montana State,Southern Utah,PASSING,Tyler,Bruggman,YDS,8
+9816027,11/5/2016,FCS,Montana State,Southern Utah,PASSING,Tyler,Bruggman,TD,0
+9816028,11/5/2016,FCS,Montana State,Southern Utah,PASSING,Tyler,Bruggman,LONG,7
+9816029,11/5/2016,FCS,Montana State,Southern Utah,RECEIVING,Mitchell,Herbert,REC,3
+9816030,11/5/2016,FCS,Montana State,Southern Utah,RECEIVING,Mitchell,Herbert,YDS,106
+9816031,11/5/2016,FCS,Montana State,Southern Utah,RECEIVING,Mitchell,Herbert,TD,1
+9816032,11/5/2016,FCS,Montana State,Southern Utah,RECEIVING,Mitchell,Herbert,LONG,49
+9816033,11/5/2016,FCS,Montana State,Southern Utah,RECEIVING,Keon,Stephens,REC,2
+9816034,11/5/2016,FCS,Montana State,Southern Utah,RECEIVING,Keon,Stephens,YDS,38
+9816035,11/5/2016,FCS,Montana State,Southern Utah,RECEIVING,Keon,Stephens,TD,1
+9816036,11/5/2016,FCS,Montana State,Southern Utah,RECEIVING,Keon,Stephens,LONG,31
+9816037,11/5/2016,FCS,Montana State,Southern Utah,RECEIVING,Cameron,Sutton,REC,1
+9816038,11/5/2016,FCS,Montana State,Southern Utah,RECEIVING,Cameron,Sutton,YDS,7
+9816039,11/5/2016,FCS,Montana State,Southern Utah,RECEIVING,Cameron,Sutton,TD,0
+9816040,11/5/2016,FCS,Montana State,Southern Utah,RECEIVING,Cameron,Sutton,LONG,7
+9816041,11/5/2016,FCS,Montana State,Southern Utah,RECEIVING,Kevin,Kassis,REC,1
+9816042,11/5/2016,FCS,Montana State,Southern Utah,RECEIVING,Kevin,Kassis,YDS,6
+9816043,11/5/2016,FCS,Montana State,Southern Utah,RECEIVING,Kevin,Kassis,TD,0
+9816044,11/5/2016,FCS,Montana State,Southern Utah,RECEIVING,Kevin,Kassis,LONG,6
+9816045,11/5/2016,FCS,Montana State,Southern Utah,RECEIVING,Chad,Newell,REC,1
+9816046,11/5/2016,FCS,Montana State,Southern Utah,RECEIVING,Chad,Newell,YDS,6
+9816047,11/5/2016,FCS,Montana State,Southern Utah,RECEIVING,Chad,Newell,TD,0
+9816048,11/5/2016,FCS,Montana State,Southern Utah,RECEIVING,Chad,Newell,LONG,6
+9816049,11/5/2016,FCS,Montana State,Southern Utah,RECEIVING,Justin,Paige,REC,1
+9816050,11/5/2016,FCS,Montana State,Southern Utah,RECEIVING,Justin,Paige,YDS,3
+9816051,11/5/2016,FCS,Montana State,Southern Utah,RECEIVING,Justin,Paige,TD,0
+9816052,11/5/2016,FCS,Montana State,Southern Utah,RECEIVING,Justin,Paige,LONG,3
+9816053,11/5/2016,FCS,Montana State,Southern Utah,RECEIVING,Jayshawn,Gates,REC,1
+9816054,11/5/2016,FCS,Montana State,Southern Utah,RECEIVING,Jayshawn,Gates,YDS,1
+9816055,11/5/2016,FCS,Montana State,Southern Utah,RECEIVING,Jayshawn,Gates,TD,0
+9816056,11/5/2016,FCS,Montana State,Southern Utah,RECEIVING,Jayshawn,Gates,LONG,1
+9816057,11/5/2016,FCS,Montana State,Southern Utah,KICKING,Gabe,Peppenger,FG-FGA,0/0
+9816058,11/5/2016,FCS,Montana State,Southern Utah,KICKING,Gabe,Peppenger,LONG,-
+9816059,11/5/2016,FCS,Montana State,Southern Utah,KICKING,Gabe,Peppenger,XP,3
+9816060,11/5/2016,FCS,Montana State,Southern Utah,KICKING,Gabe,Peppenger,PTS,3
+9816061,11/5/2016,FCS,Montana State,Southern Utah,PUNTING,Jered,Padmos,NO,5
+9816062,11/5/2016,FCS,Montana State,Southern Utah,PUNTING,Jered,Padmos,YDS,201
+9816063,11/5/2016,FCS,Montana State,Southern Utah,PUNTING,Jered,Padmos,AVG,40.2
+9816064,11/5/2016,FCS,Montana State,Southern Utah,PUNTING,Jered,Padmos,LONG,49
+9816065,11/5/2016,FCS,Montana State,Southern Utah,KICK RETURNS,Jayshawn,Gates,NO,1
+9816066,11/5/2016,FCS,Montana State,Southern Utah,KICK RETURNS,Jayshawn,Gates,YDS,3
+9816067,11/5/2016,FCS,Montana State,Southern Utah,KICK RETURNS,Jayshawn,Gates,AVG,3.0
+9816068,11/5/2016,FCS,Montana State,Southern Utah,KICK RETURNS,Jayshawn,Gates,LONG,3
+9816069,11/5/2016,FCS,Southern Utah,Montana State,RUSHING,Malik,Brown,ATT,16
+9816070,11/5/2016,FCS,Southern Utah,Montana State,RUSHING,Malik,Brown,YDS,84
+9816071,11/5/2016,FCS,Southern Utah,Montana State,RUSHING,Malik,Brown,TD,1
+9816072,11/5/2016,FCS,Southern Utah,Montana State,RUSHING,Malik,Brown,LONG,20
+9816073,11/5/2016,FCS,Southern Utah,Montana State,RUSHING,Raysean,Pringle,ATT,5
+9816074,11/5/2016,FCS,Southern Utah,Montana State,RUSHING,Raysean,Pringle,YDS,41
+9816075,11/5/2016,FCS,Southern Utah,Montana State,RUSHING,Raysean,Pringle,TD,1
+9816076,11/5/2016,FCS,Southern Utah,Montana State,RUSHING,Raysean,Pringle,LONG,18
+9816077,11/5/2016,FCS,Southern Utah,Montana State,RUSHING,Jarom,Healey,ATT,3
+9816078,11/5/2016,FCS,Southern Utah,Montana State,RUSHING,Jarom,Healey,YDS,17
+9816079,11/5/2016,FCS,Southern Utah,Montana State,RUSHING,Jarom,Healey,TD,0
+9816080,11/5/2016,FCS,Southern Utah,Montana State,RUSHING,Jarom,Healey,LONG,8
+9816081,11/5/2016,FCS,Southern Utah,Montana State,RUSHING,James,Felila,ATT,5
+9816082,11/5/2016,FCS,Southern Utah,Montana State,RUSHING,James,Felila,YDS,7
+9816083,11/5/2016,FCS,Southern Utah,Montana State,RUSHING,James,Felila,TD,0
+9816084,11/5/2016,FCS,Southern Utah,Montana State,RUSHING,James,Felila,LONG,4
+9816085,11/5/2016,FCS,Southern Utah,Montana State,RUSHING,Patrick,Tyler,ATT,1
+9816086,11/5/2016,FCS,Southern Utah,Montana State,RUSHING,Patrick,Tyler,YDS,-11
+9816087,11/5/2016,FCS,Southern Utah,Montana State,RUSHING,Patrick,Tyler,TD,0
+9816088,11/5/2016,FCS,Southern Utah,Montana State,RUSHING,Patrick,Tyler,LONG,0
+9816089,11/5/2016,FCS,Southern Utah,Montana State,PASSING,Patrick,Tyler,CP-ATT-INT,25-41-0
+9816090,11/5/2016,FCS,Southern Utah,Montana State,PASSING,Patrick,Tyler,YDS,231
+9816091,11/5/2016,FCS,Southern Utah,Montana State,PASSING,Patrick,Tyler,TD,3
+9816092,11/5/2016,FCS,Southern Utah,Montana State,PASSING,Patrick,Tyler,LONG,40
+9816093,11/5/2016,FCS,Southern Utah,Montana State,PASSING,Chris,d'Entremont,CP-ATT-INT,0-1-0
+9816094,11/5/2016,FCS,Southern Utah,Montana State,PASSING,Chris,d'Entremont,YDS,0
+9816095,11/5/2016,FCS,Southern Utah,Montana State,PASSING,Chris,d'Entremont,TD,0
+9816096,11/5/2016,FCS,Southern Utah,Montana State,PASSING,Chris,d'Entremont,LONG,0
+9816097,11/5/2016,FCS,Southern Utah,Montana State,RECEIVING,Mike,Sharp,REC,8
+9816098,11/5/2016,FCS,Southern Utah,Montana State,RECEIVING,Mike,Sharp,YDS,63
+9816099,11/5/2016,FCS,Southern Utah,Montana State,RECEIVING,Mike,Sharp,TD,0
+9816100,11/5/2016,FCS,Southern Utah,Montana State,RECEIVING,Mike,Sharp,LONG,25
+9816101,11/5/2016,FCS,Southern Utah,Montana State,RECEIVING,Steven,Wroblewski,REC,3
+9816102,11/5/2016,FCS,Southern Utah,Montana State,RECEIVING,Steven,Wroblewski,YDS,52
+9816103,11/5/2016,FCS,Southern Utah,Montana State,RECEIVING,Steven,Wroblewski,TD,1
+9816104,11/5/2016,FCS,Southern Utah,Montana State,RECEIVING,Steven,Wroblewski,LONG,40
+9816105,11/5/2016,FCS,Southern Utah,Montana State,RECEIVING,Logan,Parker,REC,4
+9816106,11/5/2016,FCS,Southern Utah,Montana State,RECEIVING,Logan,Parker,YDS,36
+9816107,11/5/2016,FCS,Southern Utah,Montana State,RECEIVING,Logan,Parker,TD,1
+9816108,11/5/2016,FCS,Southern Utah,Montana State,RECEIVING,Logan,Parker,LONG,13
+9816109,11/5/2016,FCS,Southern Utah,Montana State,RECEIVING,Cameron,Chambers,REC,3
+9816110,11/5/2016,FCS,Southern Utah,Montana State,RECEIVING,Cameron,Chambers,YDS,31
+9816111,11/5/2016,FCS,Southern Utah,Montana State,RECEIVING,Cameron,Chambers,TD,1
+9816112,11/5/2016,FCS,Southern Utah,Montana State,RECEIVING,Cameron,Chambers,LONG,18
+9816113,11/5/2016,FCS,Southern Utah,Montana State,RECEIVING,Malik,Brown,REC,2
+9816114,11/5/2016,FCS,Southern Utah,Montana State,RECEIVING,Malik,Brown,YDS,30
+9816115,11/5/2016,FCS,Southern Utah,Montana State,RECEIVING,Malik,Brown,TD,0
+9816116,11/5/2016,FCS,Southern Utah,Montana State,RECEIVING,Malik,Brown,LONG,19
+9816117,11/5/2016,FCS,Southern Utah,Montana State,RECEIVING,James,Felila,REC,1
+9816118,11/5/2016,FCS,Southern Utah,Montana State,RECEIVING,James,Felila,YDS,14
+9816119,11/5/2016,FCS,Southern Utah,Montana State,RECEIVING,James,Felila,TD,0
+9816120,11/5/2016,FCS,Southern Utah,Montana State,RECEIVING,James,Felila,LONG,14
+9816121,11/5/2016,FCS,Southern Utah,Montana State,RECEIVING,Ty,Rutledge,REC,2
+9816122,11/5/2016,FCS,Southern Utah,Montana State,RECEIVING,Ty,Rutledge,YDS,9
+9816123,11/5/2016,FCS,Southern Utah,Montana State,RECEIVING,Ty,Rutledge,TD,0
+9816124,11/5/2016,FCS,Southern Utah,Montana State,RECEIVING,Ty,Rutledge,LONG,11
+9816125,11/5/2016,FCS,Southern Utah,Montana State,RECEIVING,Raysean,Pringle,REC,2
+9816126,11/5/2016,FCS,Southern Utah,Montana State,RECEIVING,Raysean,Pringle,YDS,-4
+9816127,11/5/2016,FCS,Southern Utah,Montana State,RECEIVING,Raysean,Pringle,TD,0
+9816128,11/5/2016,FCS,Southern Utah,Montana State,RECEIVING,Raysean,Pringle,LONG,5
+9816129,11/5/2016,FCS,Southern Utah,Montana State,KICKING,Keita,Calhoun,FG-FGA,1/1
+9816130,11/5/2016,FCS,Southern Utah,Montana State,KICKING,Keita,Calhoun,LONG,48
+9816131,11/5/2016,FCS,Southern Utah,Montana State,KICKING,Keita,Calhoun,XP,5
+9816132,11/5/2016,FCS,Southern Utah,Montana State,KICKING,Keita,Calhoun,PTS,8
+9816133,11/5/2016,FCS,Southern Utah,Montana State,PUNTING,Tate,Lewis,NO,7
+9816134,11/5/2016,FCS,Southern Utah,Montana State,PUNTING,Tate,Lewis,YDS,309
+9816135,11/5/2016,FCS,Southern Utah,Montana State,PUNTING,Tate,Lewis,AVG,44.1
+9816136,11/5/2016,FCS,Southern Utah,Montana State,PUNTING,Tate,Lewis,LONG,52
+9816137,11/5/2016,FCS,Southern Utah,Montana State,PUNT RETURNS,Terrance,Barnes,NO,2
+9816138,11/5/2016,FCS,Southern Utah,Montana State,PUNT RETURNS,Terrance,Barnes,YDS,2
+9816139,11/5/2016,FCS,Southern Utah,Montana State,PUNT RETURNS,Terrance,Barnes,AVG,1.0
+9816140,11/5/2016,FCS,Southern Utah,Montana State,PUNT RETURNS,Terrance,Barnes,LONG,9
+9816141,11/5/2016,FCS,Southern Utah,Montana State,PUNT RETURNS,Ty,Rutledge,NO,1
+9816142,11/5/2016,FCS,Southern Utah,Montana State,PUNT RETURNS,Ty,Rutledge,YDS,2
+9816143,11/5/2016,FCS,Southern Utah,Montana State,PUNT RETURNS,Ty,Rutledge,AVG,2.0
+9816144,11/5/2016,FCS,Southern Utah,Montana State,PUNT RETURNS,Ty,Rutledge,LONG,2
+9816145,11/5/2016,FCS,Southern Utah,Montana State,KICK RETURNS,Raysean,Pringle,NO,1
+9816146,11/5/2016,FCS,Southern Utah,Montana State,KICK RETURNS,Raysean,Pringle,YDS,23
+9816147,11/5/2016,FCS,Southern Utah,Montana State,KICK RETURNS,Raysean,Pringle,AVG,23.0
+9816148,11/5/2016,FCS,Southern Utah,Montana State,KICK RETURNS,Raysean,Pringle,LONG,23
+9816149,11/5/2016,FCS,Southern Utah,Montana State,KICK RETURNS,Elijah,Givens,NO,1
+9816150,11/5/2016,FCS,Southern Utah,Montana State,KICK RETURNS,Elijah,Givens,YDS,16
+9816151,11/5/2016,FCS,Southern Utah,Montana State,KICK RETURNS,Elijah,Givens,AVG,16.0
+9816152,11/5/2016,FCS,Southern Utah,Montana State,KICK RETURNS,Elijah,Givens,LONG,16
+9816153,11/5/2016,FCS,Southern Utah,Montana State,KICK RETURNS,Isaiah,Diego-Williams,NO,1
+9816154,11/5/2016,FCS,Southern Utah,Montana State,KICK RETURNS,Isaiah,Diego-Williams,YDS,1
+9816155,11/5/2016,FCS,Southern Utah,Montana State,KICK RETURNS,Isaiah,Diego-Williams,AVG,1.0
+9816156,11/5/2016,FCS,Southern Utah,Montana State,KICK RETURNS,Isaiah,Diego-Williams,LONG,1

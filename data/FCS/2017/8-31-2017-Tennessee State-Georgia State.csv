@@ -1,0 +1,145 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+10004001,8/31/2017,FCS,Tennessee State,Georgia State,RUSHING,Treon,Harris,ATT,11
+10004002,8/31/2017,FCS,Tennessee State,Georgia State,RUSHING,Treon,Harris,YDS,91
+10004003,8/31/2017,FCS,Tennessee State,Georgia State,RUSHING,Treon,Harris,TD,1
+10004004,8/31/2017,FCS,Tennessee State,Georgia State,RUSHING,Treon,Harris,LONG,21
+10004005,8/31/2017,FCS,Tennessee State,Georgia State,RUSHING,Seth,Rowland,ATT,9
+10004006,8/31/2017,FCS,Tennessee State,Georgia State,RUSHING,Seth,Rowland,YDS,76
+10004007,8/31/2017,FCS,Tennessee State,Georgia State,RUSHING,Seth,Rowland,TD,1
+10004008,8/31/2017,FCS,Tennessee State,Georgia State,RUSHING,Seth,Rowland,LONG,59
+10004009,8/31/2017,FCS,Tennessee State,Georgia State,RUSHING,Sabree,CurtisJr.,ATT,17
+10004010,8/31/2017,FCS,Tennessee State,Georgia State,RUSHING,Sabree,CurtisJr.,YDS,73
+10004011,8/31/2017,FCS,Tennessee State,Georgia State,RUSHING,Sabree,CurtisJr.,TD,0
+10004012,8/31/2017,FCS,Tennessee State,Georgia State,RUSHING,Sabree,CurtisJr.,LONG,31
+10004013,8/31/2017,FCS,Tennessee State,Georgia State,RUSHING,Andrew,Knox,ATT,3
+10004014,8/31/2017,FCS,Tennessee State,Georgia State,RUSHING,Andrew,Knox,YDS,2
+10004015,8/31/2017,FCS,Tennessee State,Georgia State,RUSHING,Andrew,Knox,TD,0
+10004016,8/31/2017,FCS,Tennessee State,Georgia State,RUSHING,Andrew,Knox,LONG,1
+10004017,8/31/2017,FCS,Tennessee State,Georgia State,RUSHING,,Team,ATT,2
+10004018,8/31/2017,FCS,Tennessee State,Georgia State,RUSHING,,Team,YDS,-4
+10004019,8/31/2017,FCS,Tennessee State,Georgia State,RUSHING,,Team,TD,0
+10004020,8/31/2017,FCS,Tennessee State,Georgia State,RUSHING,,Team,LONG,0
+10004021,8/31/2017,FCS,Tennessee State,Georgia State,PASSING,Treon,Harris,CP-ATT-INT,12-25-0
+10004022,8/31/2017,FCS,Tennessee State,Georgia State,PASSING,Treon,Harris,YDS,145
+10004023,8/31/2017,FCS,Tennessee State,Georgia State,PASSING,Treon,Harris,TD,0
+10004024,8/31/2017,FCS,Tennessee State,Georgia State,PASSING,Treon,Harris,LONG,21
+10004025,8/31/2017,FCS,Tennessee State,Georgia State,RECEIVING,Patrick,Smith,REC,6
+10004026,8/31/2017,FCS,Tennessee State,Georgia State,RECEIVING,Patrick,Smith,YDS,70
+10004027,8/31/2017,FCS,Tennessee State,Georgia State,RECEIVING,Patrick,Smith,TD,0
+10004028,8/31/2017,FCS,Tennessee State,Georgia State,RECEIVING,Patrick,Smith,LONG,20
+10004029,8/31/2017,FCS,Tennessee State,Georgia State,RECEIVING,Steven,Newbold,REC,2
+10004030,8/31/2017,FCS,Tennessee State,Georgia State,RECEIVING,Steven,Newbold,YDS,37
+10004031,8/31/2017,FCS,Tennessee State,Georgia State,RECEIVING,Steven,Newbold,TD,0
+10004032,8/31/2017,FCS,Tennessee State,Georgia State,RECEIVING,Steven,Newbold,LONG,21
+10004033,8/31/2017,FCS,Tennessee State,Georgia State,RECEIVING,Miles,Cavitt,REC,1
+10004034,8/31/2017,FCS,Tennessee State,Georgia State,RECEIVING,Miles,Cavitt,YDS,12
+10004035,8/31/2017,FCS,Tennessee State,Georgia State,RECEIVING,Miles,Cavitt,TD,0
+10004036,8/31/2017,FCS,Tennessee State,Georgia State,RECEIVING,Miles,Cavitt,LONG,12
+10004037,8/31/2017,FCS,Tennessee State,Georgia State,RECEIVING,Andrew,Knox,REC,1
+10004038,8/31/2017,FCS,Tennessee State,Georgia State,RECEIVING,Andrew,Knox,YDS,11
+10004039,8/31/2017,FCS,Tennessee State,Georgia State,RECEIVING,Andrew,Knox,TD,0
+10004040,8/31/2017,FCS,Tennessee State,Georgia State,RECEIVING,Andrew,Knox,LONG,11
+10004041,8/31/2017,FCS,Tennessee State,Georgia State,RECEIVING,DeVon,Johnson,REC,1
+10004042,8/31/2017,FCS,Tennessee State,Georgia State,RECEIVING,DeVon,Johnson,YDS,10
+10004043,8/31/2017,FCS,Tennessee State,Georgia State,RECEIVING,DeVon,Johnson,TD,0
+10004044,8/31/2017,FCS,Tennessee State,Georgia State,RECEIVING,DeVon,Johnson,LONG,10
+10004045,8/31/2017,FCS,Tennessee State,Georgia State,RECEIVING,Mahlon,Medley,REC,1
+10004046,8/31/2017,FCS,Tennessee State,Georgia State,RECEIVING,Mahlon,Medley,YDS,5
+10004047,8/31/2017,FCS,Tennessee State,Georgia State,RECEIVING,Mahlon,Medley,TD,0
+10004048,8/31/2017,FCS,Tennessee State,Georgia State,RECEIVING,Mahlon,Medley,LONG,5
+10004049,8/31/2017,FCS,Tennessee State,Georgia State,KICKING,Lane,Clark,FG-FGA,1/4
+10004050,8/31/2017,FCS,Tennessee State,Georgia State,KICKING,Lane,Clark,LONG,18
+10004051,8/31/2017,FCS,Tennessee State,Georgia State,KICKING,Lane,Clark,XP,2
+10004052,8/31/2017,FCS,Tennessee State,Georgia State,KICKING,Lane,Clark,PTS,5
+10004053,8/31/2017,FCS,Tennessee State,Georgia State,PUNTING,Austin,Rowley,NO,5
+10004054,8/31/2017,FCS,Tennessee State,Georgia State,PUNTING,Austin,Rowley,YDS,189
+10004055,8/31/2017,FCS,Tennessee State,Georgia State,PUNTING,Austin,Rowley,AVG,37.8
+10004056,8/31/2017,FCS,Tennessee State,Georgia State,PUNTING,Austin,Rowley,LONG,54
+10004057,8/31/2017,FCS,Tennessee State,Georgia State,KICK RETURNS,Jared,Simpkins,NO,3
+10004058,8/31/2017,FCS,Tennessee State,Georgia State,KICK RETURNS,Jared,Simpkins,YDS,44
+10004059,8/31/2017,FCS,Tennessee State,Georgia State,KICK RETURNS,Jared,Simpkins,AVG,14.7
+10004060,8/31/2017,FCS,Tennessee State,Georgia State,KICK RETURNS,Jared,Simpkins,LONG,23
+10004061,8/31/2017,FCS,Georgia State,Tennessee State,RUSHING,Taz,Bateman,ATT,11
+10004062,8/31/2017,FCS,Georgia State,Tennessee State,RUSHING,Taz,Bateman,YDS,31
+10004063,8/31/2017,FCS,Georgia State,Tennessee State,RUSHING,Taz,Bateman,TD,0
+10004064,8/31/2017,FCS,Georgia State,Tennessee State,RUSHING,Taz,Bateman,LONG,17
+10004065,8/31/2017,FCS,Georgia State,Tennessee State,RUSHING,Aaron,Winchester,ATT,8
+10004066,8/31/2017,FCS,Georgia State,Tennessee State,RUSHING,Aaron,Winchester,YDS,12
+10004067,8/31/2017,FCS,Georgia State,Tennessee State,RUSHING,Aaron,Winchester,TD,0
+10004068,8/31/2017,FCS,Georgia State,Tennessee State,RUSHING,Aaron,Winchester,LONG,17
+10004069,8/31/2017,FCS,Georgia State,Tennessee State,RUSHING,Conner,Manning,ATT,4
+10004070,8/31/2017,FCS,Georgia State,Tennessee State,RUSHING,Conner,Manning,YDS,6
+10004071,8/31/2017,FCS,Georgia State,Tennessee State,RUSHING,Conner,Manning,TD,0
+10004072,8/31/2017,FCS,Georgia State,Tennessee State,RUSHING,Conner,Manning,LONG,8
+10004073,8/31/2017,FCS,Georgia State,Tennessee State,RUSHING,Kyler,Neal,ATT,5
+10004074,8/31/2017,FCS,Georgia State,Tennessee State,RUSHING,Kyler,Neal,YDS,2
+10004075,8/31/2017,FCS,Georgia State,Tennessee State,RUSHING,Kyler,Neal,TD,0
+10004076,8/31/2017,FCS,Georgia State,Tennessee State,RUSHING,Kyler,Neal,LONG,4
+10004077,8/31/2017,FCS,Georgia State,Tennessee State,RUSHING,,Team,ATT,1
+10004078,8/31/2017,FCS,Georgia State,Tennessee State,RUSHING,,Team,YDS,-2
+10004079,8/31/2017,FCS,Georgia State,Tennessee State,RUSHING,,Team,TD,0
+10004080,8/31/2017,FCS,Georgia State,Tennessee State,RUSHING,,Team,LONG,0
+10004081,8/31/2017,FCS,Georgia State,Tennessee State,PASSING,Conner,Manning,CP-ATT-INT,14-17-0
+10004082,8/31/2017,FCS,Georgia State,Tennessee State,PASSING,Conner,Manning,YDS,159
+10004083,8/31/2017,FCS,Georgia State,Tennessee State,PASSING,Conner,Manning,TD,0
+10004084,8/31/2017,FCS,Georgia State,Tennessee State,PASSING,Conner,Manning,LONG,59
+10004085,8/31/2017,FCS,Georgia State,Tennessee State,PASSING,Aaron,Winchester,CP-ATT-INT,4-6-1
+10004086,8/31/2017,FCS,Georgia State,Tennessee State,PASSING,Aaron,Winchester,YDS,65
+10004087,8/31/2017,FCS,Georgia State,Tennessee State,PASSING,Aaron,Winchester,TD,1
+10004088,8/31/2017,FCS,Georgia State,Tennessee State,PASSING,Aaron,Winchester,LONG,36
+10004089,8/31/2017,FCS,Georgia State,Tennessee State,RECEIVING,Taz,Bateman,REC,6
+10004090,8/31/2017,FCS,Georgia State,Tennessee State,RECEIVING,Taz,Bateman,YDS,74
+10004091,8/31/2017,FCS,Georgia State,Tennessee State,RECEIVING,Taz,Bateman,TD,1
+10004092,8/31/2017,FCS,Georgia State,Tennessee State,RECEIVING,Taz,Bateman,LONG,36
+10004093,8/31/2017,FCS,Georgia State,Tennessee State,RECEIVING,Ari,Werts,REC,2
+10004094,8/31/2017,FCS,Georgia State,Tennessee State,RECEIVING,Ari,Werts,YDS,62
+10004095,8/31/2017,FCS,Georgia State,Tennessee State,RECEIVING,Ari,Werts,TD,0
+10004096,8/31/2017,FCS,Georgia State,Tennessee State,RECEIVING,Ari,Werts,LONG,59
+10004097,8/31/2017,FCS,Georgia State,Tennessee State,RECEIVING,Penny,Hart,REC,5
+10004098,8/31/2017,FCS,Georgia State,Tennessee State,RECEIVING,Penny,Hart,YDS,36
+10004099,8/31/2017,FCS,Georgia State,Tennessee State,RECEIVING,Penny,Hart,TD,0
+10004100,8/31/2017,FCS,Georgia State,Tennessee State,RECEIVING,Penny,Hart,LONG,13
+10004101,8/31/2017,FCS,Georgia State,Tennessee State,RECEIVING,Todd,Boyd,REC,2
+10004102,8/31/2017,FCS,Georgia State,Tennessee State,RECEIVING,Todd,Boyd,YDS,36
+10004103,8/31/2017,FCS,Georgia State,Tennessee State,RECEIVING,Todd,Boyd,TD,0
+10004104,8/31/2017,FCS,Georgia State,Tennessee State,RECEIVING,Todd,Boyd,LONG,19
+10004105,8/31/2017,FCS,Georgia State,Tennessee State,RECEIVING,Kyler,Neal,REC,1
+10004106,8/31/2017,FCS,Georgia State,Tennessee State,RECEIVING,Kyler,Neal,YDS,8
+10004107,8/31/2017,FCS,Georgia State,Tennessee State,RECEIVING,Kyler,Neal,TD,0
+10004108,8/31/2017,FCS,Georgia State,Tennessee State,RECEIVING,Kyler,Neal,LONG,8
+10004109,8/31/2017,FCS,Georgia State,Tennessee State,RECEIVING,Emiere,Scaife,REC,1
+10004110,8/31/2017,FCS,Georgia State,Tennessee State,RECEIVING,Emiere,Scaife,YDS,5
+10004111,8/31/2017,FCS,Georgia State,Tennessee State,RECEIVING,Emiere,Scaife,TD,0
+10004112,8/31/2017,FCS,Georgia State,Tennessee State,RECEIVING,Emiere,Scaife,LONG,5
+10004113,8/31/2017,FCS,Georgia State,Tennessee State,RECEIVING,Glenn,Smith,REC,1
+10004114,8/31/2017,FCS,Georgia State,Tennessee State,RECEIVING,Glenn,Smith,YDS,3
+10004115,8/31/2017,FCS,Georgia State,Tennessee State,RECEIVING,Glenn,Smith,TD,0
+10004116,8/31/2017,FCS,Georgia State,Tennessee State,RECEIVING,Glenn,Smith,LONG,3
+10004117,8/31/2017,FCS,Georgia State,Tennessee State,KICKING,Brandon,Wright,FG-FGA,1/1
+10004118,8/31/2017,FCS,Georgia State,Tennessee State,KICKING,Brandon,Wright,LONG,20
+10004119,8/31/2017,FCS,Georgia State,Tennessee State,KICKING,Brandon,Wright,XP,1
+10004120,8/31/2017,FCS,Georgia State,Tennessee State,KICKING,Brandon,Wright,PTS,4
+10004121,8/31/2017,FCS,Georgia State,Tennessee State,PUNTING,Oliver,Holdenson,NO,2
+10004122,8/31/2017,FCS,Georgia State,Tennessee State,PUNTING,Oliver,Holdenson,YDS,83
+10004123,8/31/2017,FCS,Georgia State,Tennessee State,PUNTING,Oliver,Holdenson,AVG,41.5
+10004124,8/31/2017,FCS,Georgia State,Tennessee State,PUNTING,Oliver,Holdenson,LONG,48
+10004125,8/31/2017,FCS,Georgia State,Tennessee State,PUNTING,Brandon,Wright,NO,1
+10004126,8/31/2017,FCS,Georgia State,Tennessee State,PUNTING,Brandon,Wright,YDS,26
+10004127,8/31/2017,FCS,Georgia State,Tennessee State,PUNTING,Brandon,Wright,AVG,26.0
+10004128,8/31/2017,FCS,Georgia State,Tennessee State,PUNTING,Brandon,Wright,LONG,26
+10004129,8/31/2017,FCS,Georgia State,Tennessee State,PUNT RETURNS,Taz,Bateman,NO,2
+10004130,8/31/2017,FCS,Georgia State,Tennessee State,PUNT RETURNS,Taz,Bateman,YDS,10
+10004131,8/31/2017,FCS,Georgia State,Tennessee State,PUNT RETURNS,Taz,Bateman,AVG,5.0
+10004132,8/31/2017,FCS,Georgia State,Tennessee State,PUNT RETURNS,Taz,Bateman,LONG,5
+10004133,8/31/2017,FCS,Georgia State,Tennessee State,KICK RETURNS,Glenn,Smith,NO,1
+10004134,8/31/2017,FCS,Georgia State,Tennessee State,KICK RETURNS,Glenn,Smith,YDS,33
+10004135,8/31/2017,FCS,Georgia State,Tennessee State,KICK RETURNS,Glenn,Smith,AVG,33.0
+10004136,8/31/2017,FCS,Georgia State,Tennessee State,KICK RETURNS,Glenn,Smith,LONG,33
+10004137,8/31/2017,FCS,Georgia State,Tennessee State,KICK RETURNS,Taz,Bateman,NO,1
+10004138,8/31/2017,FCS,Georgia State,Tennessee State,KICK RETURNS,Taz,Bateman,YDS,9
+10004139,8/31/2017,FCS,Georgia State,Tennessee State,KICK RETURNS,Taz,Bateman,AVG,9.0
+10004140,8/31/2017,FCS,Georgia State,Tennessee State,KICK RETURNS,Taz,Bateman,LONG,9
+10004141,8/31/2017,FCS,Georgia State,Tennessee State,KICK RETURNS,James,Traylor,NO,1
+10004142,8/31/2017,FCS,Georgia State,Tennessee State,KICK RETURNS,James,Traylor,YDS,0
+10004143,8/31/2017,FCS,Georgia State,Tennessee State,KICK RETURNS,James,Traylor,AVG,-
+10004144,8/31/2017,FCS,Georgia State,Tennessee State,KICK RETURNS,James,Traylor,LONG,0

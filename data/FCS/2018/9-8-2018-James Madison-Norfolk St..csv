@@ -1,0 +1,72 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+10923001,9/8/2018,FCS,James Madison,Norfolk St.,RUSHING,Ben,DiNucci,ATT,4
+10923002,9/8/2018,FCS,James Madison,Norfolk St.,RUSHING,Ben,DiNucci,YDS,67
+10923003,9/8/2018,FCS,James Madison,Norfolk St.,RUSHING,Ben,DiNucci,TD,1
+10923004,9/8/2018,FCS,James Madison,Norfolk St.,RUSHING,Ben,DiNucci,LONG,56
+10923005,9/8/2018,FCS,James Madison,Norfolk St.,RUSHING,Cardon,Johnson,ATT,5
+10923006,9/8/2018,FCS,James Madison,Norfolk St.,RUSHING,Cardon,Johnson,YDS,20
+10923007,9/8/2018,FCS,James Madison,Norfolk St.,RUSHING,Cardon,Johnson,TD,0
+10923008,9/8/2018,FCS,James Madison,Norfolk St.,RUSHING,Cardon,Johnson,LONG,7
+10923009,9/8/2018,FCS,James Madison,Norfolk St.,RUSHING,Marcus,Marshall,ATT,3
+10923010,9/8/2018,FCS,James Madison,Norfolk St.,RUSHING,Marcus,Marshall,YDS,12
+10923011,9/8/2018,FCS,James Madison,Norfolk St.,RUSHING,Marcus,Marshall,TD,0
+10923012,9/8/2018,FCS,James Madison,Norfolk St.,RUSHING,Marcus,Marshall,LONG,15
+10923013,9/8/2018,FCS,James Madison,Norfolk St.,RUSHING,Trai,Sharp,ATT,1
+10923014,9/8/2018,FCS,James Madison,Norfolk St.,RUSHING,Trai,Sharp,YDS,7
+10923015,9/8/2018,FCS,James Madison,Norfolk St.,RUSHING,Trai,Sharp,TD,0
+10923016,9/8/2018,FCS,James Madison,Norfolk St.,RUSHING,Trai,Sharp,LONG,7
+10923017,9/8/2018,FCS,James Madison,Norfolk St.,PASSING,Ben,DiNucci,CP-ATT-INT,1-6-0
+10923018,9/8/2018,FCS,James Madison,Norfolk St.,PASSING,Ben,DiNucci,YDS,12
+10923019,9/8/2018,FCS,James Madison,Norfolk St.,PASSING,Ben,DiNucci,TD,0
+10923020,9/8/2018,FCS,James Madison,Norfolk St.,PASSING,Ben,DiNucci,LONG,12
+10923021,9/8/2018,FCS,James Madison,Norfolk St.,RECEIVING,Riley,Stapleton,REC,1
+10923022,9/8/2018,FCS,James Madison,Norfolk St.,RECEIVING,Riley,Stapleton,YDS,12
+10923023,9/8/2018,FCS,James Madison,Norfolk St.,RECEIVING,Riley,Stapleton,TD,0
+10923024,9/8/2018,FCS,James Madison,Norfolk St.,RECEIVING,Riley,Stapleton,LONG,12
+10923025,9/8/2018,FCS,James Madison,Norfolk St.,KICKING,Ethan,Ratke,FG-FGA,1/1
+10923026,9/8/2018,FCS,James Madison,Norfolk St.,KICKING,Ethan,Ratke,LONG,28
+10923027,9/8/2018,FCS,James Madison,Norfolk St.,KICKING,Ethan,Ratke,XP,2
+10923028,9/8/2018,FCS,James Madison,Norfolk St.,KICKING,Ethan,Ratke,PTS,5
+10923029,9/8/2018,FCS,James Madison,Norfolk St.,PUNTING,Harry,O'Kelly,NO,1
+10923030,9/8/2018,FCS,James Madison,Norfolk St.,PUNTING,Harry,O'Kelly,YDS,36
+10923031,9/8/2018,FCS,James Madison,Norfolk St.,PUNTING,Harry,O'Kelly,AVG,36.0
+10923032,9/8/2018,FCS,James Madison,Norfolk St.,PUNTING,Harry,O'Kelly,LONG,36
+10923033,9/8/2018,FCS,James Madison,Norfolk St.,PUNT RETURNS,D'Angelo,Amos,NO,2
+10923034,9/8/2018,FCS,James Madison,Norfolk St.,PUNT RETURNS,D'Angelo,Amos,YDS,103
+10923035,9/8/2018,FCS,James Madison,Norfolk St.,PUNT RETURNS,D'Angelo,Amos,AVG,51.5
+10923036,9/8/2018,FCS,James Madison,Norfolk St.,PUNT RETURNS,D'Angelo,Amos,LONG,76
+10923037,9/8/2018,FCS,James Madison,Norfolk St.,DEFENSE,Jimmy,Moreland,TOT,0
+10923038,9/8/2018,FCS,James Madison,Norfolk St.,DEFENSE,Jimmy,Moreland,SOLO,0
+10923039,9/8/2018,FCS,James Madison,Norfolk St.,DEFENSE,Jimmy,Moreland,SACKS,0
+10923040,9/8/2018,FCS,James Madison,Norfolk St.,DEFENSE,Jimmy,Moreland,TFL,0
+10923041,9/8/2018,FCS,James Madison,Norfolk St.,DEFENSE,Jimmy,Moreland,INT,1
+10923042,9/8/2018,FCS,James Madison,Norfolk St.,DEFENSE,Jimmy,Moreland,FF,0
+10923043,9/8/2018,FCS,James Madison,Norfolk St.,DEFENSE,Jimmy,Moreland,FR,0
+10923044,9/8/2018,FCS,Norfolk St.,James Madison,RUSHING,Aaron,Savage,ATT,5
+10923045,9/8/2018,FCS,Norfolk St.,James Madison,RUSHING,Aaron,Savage,YDS,11
+10923046,9/8/2018,FCS,Norfolk St.,James Madison,RUSHING,Aaron,Savage,TD,0
+10923047,9/8/2018,FCS,Norfolk St.,James Madison,RUSHING,Aaron,Savage,LONG,4
+10923048,9/8/2018,FCS,Norfolk St.,James Madison,RUSHING,D'Andre,Thomas,ATT,3
+10923049,9/8/2018,FCS,Norfolk St.,James Madison,RUSHING,D'Andre,Thomas,YDS,8
+10923050,9/8/2018,FCS,Norfolk St.,James Madison,RUSHING,D'Andre,Thomas,TD,0
+10923051,9/8/2018,FCS,Norfolk St.,James Madison,RUSHING,D'Andre,Thomas,LONG,4
+10923052,9/8/2018,FCS,Norfolk St.,James Madison,RUSHING,Cameryn,Brent,ATT,2
+10923053,9/8/2018,FCS,Norfolk St.,James Madison,RUSHING,Cameryn,Brent,YDS,5
+10923054,9/8/2018,FCS,Norfolk St.,James Madison,RUSHING,Cameryn,Brent,TD,0
+10923055,9/8/2018,FCS,Norfolk St.,James Madison,RUSHING,Cameryn,Brent,LONG,3
+10923056,9/8/2018,FCS,Norfolk St.,James Madison,PASSING,D'Andre,Thomas,CP-ATT-INT,1-5-1
+10923057,9/8/2018,FCS,Norfolk St.,James Madison,PASSING,D'Andre,Thomas,YDS,5
+10923058,9/8/2018,FCS,Norfolk St.,James Madison,PASSING,D'Andre,Thomas,TD,0
+10923059,9/8/2018,FCS,Norfolk St.,James Madison,PASSING,D'Andre,Thomas,LONG,5
+10923060,9/8/2018,FCS,Norfolk St.,James Madison,RECEIVING,Chuma,Awanna,REC,1
+10923061,9/8/2018,FCS,Norfolk St.,James Madison,RECEIVING,Chuma,Awanna,YDS,5
+10923062,9/8/2018,FCS,Norfolk St.,James Madison,RECEIVING,Chuma,Awanna,TD,0
+10923063,9/8/2018,FCS,Norfolk St.,James Madison,RECEIVING,Chuma,Awanna,LONG,5
+10923064,9/8/2018,FCS,Norfolk St.,James Madison,PUNTING,Taylor,Goettie,NO,3
+10923065,9/8/2018,FCS,Norfolk St.,James Madison,PUNTING,Taylor,Goettie,YDS,141
+10923066,9/8/2018,FCS,Norfolk St.,James Madison,PUNTING,Taylor,Goettie,AVG,47.0
+10923067,9/8/2018,FCS,Norfolk St.,James Madison,PUNTING,Taylor,Goettie,LONG,49
+10923068,9/8/2018,FCS,Norfolk St.,James Madison,KICK RETURNS,Marcus,Taylor,NO,2
+10923069,9/8/2018,FCS,Norfolk St.,James Madison,KICK RETURNS,Marcus,Taylor,YDS,17
+10923070,9/8/2018,FCS,Norfolk St.,James Madison,KICK RETURNS,Marcus,Taylor,AVG,8.5
+10923071,9/8/2018,FCS,Norfolk St.,James Madison,KICK RETURNS,Marcus,Taylor,LONG,9

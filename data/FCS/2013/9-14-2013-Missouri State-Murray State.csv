@@ -1,0 +1,145 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+6941001,9/14/2013,FCS,Missouri State,Murray State,RUSHING,Vernon,Scott,ATT,26
+6941002,9/14/2013,FCS,Missouri State,Murray State,RUSHING,Vernon,Scott,YDS,201
+6941003,9/14/2013,FCS,Missouri State,Murray State,RUSHING,Vernon,Scott,TD,2
+6941004,9/14/2013,FCS,Missouri State,Murray State,RUSHING,Vernon,Scott,LONG,25
+6941005,9/14/2013,FCS,Missouri State,Murray State,RUSHING,Kierra,Harris,ATT,14
+6941006,9/14/2013,FCS,Missouri State,Murray State,RUSHING,Kierra,Harris,YDS,62
+6941007,9/14/2013,FCS,Missouri State,Murray State,RUSHING,Kierra,Harris,TD,3
+6941008,9/14/2013,FCS,Missouri State,Murray State,RUSHING,Kierra,Harris,LONG,16
+6941009,9/14/2013,FCS,Missouri State,Murray State,RUSHING,Cedric,Miller,ATT,12
+6941010,9/14/2013,FCS,Missouri State,Murray State,RUSHING,Cedric,Miller,YDS,42
+6941011,9/14/2013,FCS,Missouri State,Murray State,RUSHING,Cedric,Miller,TD,0
+6941012,9/14/2013,FCS,Missouri State,Murray State,RUSHING,Cedric,Miller,LONG,16
+6941013,9/14/2013,FCS,Missouri State,Murray State,RUSHING,Mikael,Cooper-Falls,ATT,10
+6941014,9/14/2013,FCS,Missouri State,Murray State,RUSHING,Mikael,Cooper-Falls,YDS,39
+6941015,9/14/2013,FCS,Missouri State,Murray State,RUSHING,Mikael,Cooper-Falls,TD,0
+6941016,9/14/2013,FCS,Missouri State,Murray State,RUSHING,Mikael,Cooper-Falls,LONG,6
+6941017,9/14/2013,FCS,Missouri State,Murray State,RUSHING,Phoenix,Johnson,ATT,6
+6941018,9/14/2013,FCS,Missouri State,Murray State,RUSHING,Phoenix,Johnson,YDS,22
+6941019,9/14/2013,FCS,Missouri State,Murray State,RUSHING,Phoenix,Johnson,TD,0
+6941020,9/14/2013,FCS,Missouri State,Murray State,RUSHING,Phoenix,Johnson,LONG,7
+6941021,9/14/2013,FCS,Missouri State,Murray State,PASSING,Kierra,Harris,CP-ATT-INT,20-31-2
+6941022,9/14/2013,FCS,Missouri State,Murray State,PASSING,Kierra,Harris,YDS,212
+6941023,9/14/2013,FCS,Missouri State,Murray State,PASSING,Kierra,Harris,TD,0
+6941024,9/14/2013,FCS,Missouri State,Murray State,PASSING,Kierra,Harris,LONG,23
+6941025,9/14/2013,FCS,Missouri State,Murray State,RECEIVING,Julian,Burton,REC,7
+6941026,9/14/2013,FCS,Missouri State,Murray State,RECEIVING,Julian,Burton,YDS,73
+6941027,9/14/2013,FCS,Missouri State,Murray State,RECEIVING,Julian,Burton,TD,0
+6941028,9/14/2013,FCS,Missouri State,Murray State,RECEIVING,Julian,Burton,LONG,23
+6941029,9/14/2013,FCS,Missouri State,Murray State,RECEIVING,Eric,Christophel,REC,7
+6941030,9/14/2013,FCS,Missouri State,Murray State,RECEIVING,Eric,Christophel,YDS,69
+6941031,9/14/2013,FCS,Missouri State,Murray State,RECEIVING,Eric,Christophel,TD,0
+6941032,9/14/2013,FCS,Missouri State,Murray State,RECEIVING,Eric,Christophel,LONG,20
+6941033,9/14/2013,FCS,Missouri State,Murray State,RECEIVING,Maddy,Johnson,REC,3
+6941034,9/14/2013,FCS,Missouri State,Murray State,RECEIVING,Maddy,Johnson,YDS,40
+6941035,9/14/2013,FCS,Missouri State,Murray State,RECEIVING,Maddy,Johnson,TD,0
+6941036,9/14/2013,FCS,Missouri State,Murray State,RECEIVING,Maddy,Johnson,LONG,15
+6941037,9/14/2013,FCS,Missouri State,Murray State,RECEIVING,Dorian,Buford,REC,2
+6941038,9/14/2013,FCS,Missouri State,Murray State,RECEIVING,Dorian,Buford,YDS,15
+6941039,9/14/2013,FCS,Missouri State,Murray State,RECEIVING,Dorian,Buford,TD,0
+6941040,9/14/2013,FCS,Missouri State,Murray State,RECEIVING,Dorian,Buford,LONG,14
+6941041,9/14/2013,FCS,Missouri State,Murray State,RECEIVING,Ryan,Boatright,REC,1
+6941042,9/14/2013,FCS,Missouri State,Murray State,RECEIVING,Ryan,Boatright,YDS,15
+6941043,9/14/2013,FCS,Missouri State,Murray State,RECEIVING,Ryan,Boatright,TD,0
+6941044,9/14/2013,FCS,Missouri State,Murray State,RECEIVING,Ryan,Boatright,LONG,15
+6941045,9/14/2013,FCS,Missouri State,Murray State,KICKING,Austin,Witmer,FG-FGA,1/2
+6941046,9/14/2013,FCS,Missouri State,Murray State,KICKING,Austin,Witmer,LONG,35
+6941047,9/14/2013,FCS,Missouri State,Murray State,KICKING,Austin,Witmer,XP,5
+6941048,9/14/2013,FCS,Missouri State,Murray State,KICKING,Austin,Witmer,PTS,8
+6941049,9/14/2013,FCS,Missouri State,Murray State,PUNTING,Chris,Sullens,NO,5
+6941050,9/14/2013,FCS,Missouri State,Murray State,PUNTING,Chris,Sullens,YDS,155
+6941051,9/14/2013,FCS,Missouri State,Murray State,PUNTING,Chris,Sullens,AVG,31.0
+6941052,9/14/2013,FCS,Missouri State,Murray State,PUNTING,Chris,Sullens,LONG,36
+6941053,9/14/2013,FCS,Missouri State,Murray State,PUNT RETURNS,Julian,Burton,NO,1
+6941054,9/14/2013,FCS,Missouri State,Murray State,PUNT RETURNS,Julian,Burton,YDS,1
+6941055,9/14/2013,FCS,Missouri State,Murray State,PUNT RETURNS,Julian,Burton,AVG,1.0
+6941056,9/14/2013,FCS,Missouri State,Murray State,PUNT RETURNS,Julian,Burton,LONG,1
+6941057,9/14/2013,FCS,Missouri State,Murray State,KICK RETURNS,Julian,Burton,NO,4
+6941058,9/14/2013,FCS,Missouri State,Murray State,KICK RETURNS,Julian,Burton,YDS,72
+6941059,9/14/2013,FCS,Missouri State,Murray State,KICK RETURNS,Julian,Burton,AVG,18.0
+6941060,9/14/2013,FCS,Missouri State,Murray State,KICK RETURNS,Julian,Burton,LONG,32
+6941061,9/14/2013,FCS,Missouri State,Murray State,KICK RETURNS,LeMarcus,Stewart,NO,1
+6941062,9/14/2013,FCS,Missouri State,Murray State,KICK RETURNS,LeMarcus,Stewart,YDS,17
+6941063,9/14/2013,FCS,Missouri State,Murray State,KICK RETURNS,LeMarcus,Stewart,AVG,17.0
+6941064,9/14/2013,FCS,Missouri State,Murray State,KICK RETURNS,LeMarcus,Stewart,LONG,20
+6941065,9/14/2013,FCS,Murray State,Missouri State,RUSHING,Duane,Brady,ATT,7
+6941066,9/14/2013,FCS,Murray State,Missouri State,RUSHING,Duane,Brady,YDS,60
+6941067,9/14/2013,FCS,Murray State,Missouri State,RUSHING,Duane,Brady,TD,0
+6941068,9/14/2013,FCS,Murray State,Missouri State,RUSHING,Duane,Brady,LONG,18
+6941069,9/14/2013,FCS,Murray State,Missouri State,RUSHING,Jaamal,Berry,ATT,6
+6941070,9/14/2013,FCS,Murray State,Missouri State,RUSHING,Jaamal,Berry,YDS,22
+6941071,9/14/2013,FCS,Murray State,Missouri State,RUSHING,Jaamal,Berry,TD,0
+6941072,9/14/2013,FCS,Murray State,Missouri State,RUSHING,Jaamal,Berry,LONG,6
+6941073,9/14/2013,FCS,Murray State,Missouri State,RUSHING,Maikhail,Miller,ATT,8
+6941074,9/14/2013,FCS,Murray State,Missouri State,RUSHING,Maikhail,Miller,YDS,11
+6941075,9/14/2013,FCS,Murray State,Missouri State,RUSHING,Maikhail,Miller,TD,0
+6941076,9/14/2013,FCS,Murray State,Missouri State,RUSHING,Maikhail,Miller,LONG,9
+6941077,9/14/2013,FCS,Murray State,Missouri State,RUSHING,,Team,ATT,1
+6941078,9/14/2013,FCS,Murray State,Missouri State,RUSHING,,Team,YDS,-1
+6941079,9/14/2013,FCS,Murray State,Missouri State,RUSHING,,Team,TD,0
+6941080,9/14/2013,FCS,Murray State,Missouri State,RUSHING,,Team,LONG,0
+6941081,9/14/2013,FCS,Murray State,Missouri State,PASSING,Maikhail,Miller,CP-ATT-INT,24-33-0
+6941082,9/14/2013,FCS,Murray State,Missouri State,PASSING,Maikhail,Miller,YDS,272
+6941083,9/14/2013,FCS,Murray State,Missouri State,PASSING,Maikhail,Miller,TD,5
+6941084,9/14/2013,FCS,Murray State,Missouri State,PASSING,Maikhail,Miller,LONG,66
+6941085,9/14/2013,FCS,Murray State,Missouri State,RECEIVING,Walter,Powell,REC,11
+6941086,9/14/2013,FCS,Murray State,Missouri State,RECEIVING,Walter,Powell,YDS,155
+6941087,9/14/2013,FCS,Murray State,Missouri State,RECEIVING,Walter,Powell,TD,4
+6941088,9/14/2013,FCS,Murray State,Missouri State,RECEIVING,Walter,Powell,LONG,66
+6941089,9/14/2013,FCS,Murray State,Missouri State,RECEIVING,Nevar,Griffin,REC,4
+6941090,9/14/2013,FCS,Murray State,Missouri State,RECEIVING,Nevar,Griffin,YDS,12
+6941091,9/14/2013,FCS,Murray State,Missouri State,RECEIVING,Nevar,Griffin,TD,0
+6941092,9/14/2013,FCS,Murray State,Missouri State,RECEIVING,Nevar,Griffin,LONG,9
+6941093,9/14/2013,FCS,Murray State,Missouri State,RECEIVING,Janawski,Davis,REC,2
+6941094,9/14/2013,FCS,Murray State,Missouri State,RECEIVING,Janawski,Davis,YDS,53
+6941095,9/14/2013,FCS,Murray State,Missouri State,RECEIVING,Janawski,Davis,TD,1
+6941096,9/14/2013,FCS,Murray State,Missouri State,RECEIVING,Janawski,Davis,LONG,52
+6941097,9/14/2013,FCS,Murray State,Missouri State,RECEIVING,Jaamal,Berry,REC,2
+6941098,9/14/2013,FCS,Murray State,Missouri State,RECEIVING,Jaamal,Berry,YDS,16
+6941099,9/14/2013,FCS,Murray State,Missouri State,RECEIVING,Jaamal,Berry,TD,0
+6941100,9/14/2013,FCS,Murray State,Missouri State,RECEIVING,Jaamal,Berry,LONG,9
+6941101,9/14/2013,FCS,Murray State,Missouri State,RECEIVING,Paul,Rice,REC,1
+6941102,9/14/2013,FCS,Murray State,Missouri State,RECEIVING,Paul,Rice,YDS,22
+6941103,9/14/2013,FCS,Murray State,Missouri State,RECEIVING,Paul,Rice,TD,0
+6941104,9/14/2013,FCS,Murray State,Missouri State,RECEIVING,Paul,Rice,LONG,22
+6941105,9/14/2013,FCS,Murray State,Missouri State,RECEIVING,Pokey,Harris,REC,1
+6941106,9/14/2013,FCS,Murray State,Missouri State,RECEIVING,Pokey,Harris,YDS,8
+6941107,9/14/2013,FCS,Murray State,Missouri State,RECEIVING,Pokey,Harris,TD,0
+6941108,9/14/2013,FCS,Murray State,Missouri State,RECEIVING,Pokey,Harris,LONG,8
+6941109,9/14/2013,FCS,Murray State,Missouri State,RECEIVING,Jeremy,Harness,REC,1
+6941110,9/14/2013,FCS,Murray State,Missouri State,RECEIVING,Jeremy,Harness,YDS,8
+6941111,9/14/2013,FCS,Murray State,Missouri State,RECEIVING,Jeremy,Harness,TD,0
+6941112,9/14/2013,FCS,Murray State,Missouri State,RECEIVING,Jeremy,Harness,LONG,8
+6941113,9/14/2013,FCS,Murray State,Missouri State,RECEIVING,Jordan,Morrow,REC,1
+6941114,9/14/2013,FCS,Murray State,Missouri State,RECEIVING,Jordan,Morrow,YDS,1
+6941115,9/14/2013,FCS,Murray State,Missouri State,RECEIVING,Jordan,Morrow,TD,0
+6941116,9/14/2013,FCS,Murray State,Missouri State,RECEIVING,Jordan,Morrow,LONG,1
+6941117,9/14/2013,FCS,Murray State,Missouri State,RECEIVING,Duane,Brady,REC,1
+6941118,9/14/2013,FCS,Murray State,Missouri State,RECEIVING,Duane,Brady,YDS,-3
+6941119,9/14/2013,FCS,Murray State,Missouri State,RECEIVING,Duane,Brady,TD,0
+6941120,9/14/2013,FCS,Murray State,Missouri State,RECEIVING,Duane,Brady,LONG,0
+6941121,9/14/2013,FCS,Murray State,Missouri State,KICKING,Jordan,Benton,FG-FGA,0/0
+6941122,9/14/2013,FCS,Murray State,Missouri State,KICKING,Jordan,Benton,LONG,-
+6941123,9/14/2013,FCS,Murray State,Missouri State,KICKING,Jordan,Benton,XP,3
+6941124,9/14/2013,FCS,Murray State,Missouri State,KICKING,Jordan,Benton,PTS,3
+6941125,9/14/2013,FCS,Murray State,Missouri State,PUNTING,Steven,Mix,NO,6
+6941126,9/14/2013,FCS,Murray State,Missouri State,PUNTING,Steven,Mix,YDS,248
+6941127,9/14/2013,FCS,Murray State,Missouri State,PUNTING,Steven,Mix,AVG,41.3
+6941128,9/14/2013,FCS,Murray State,Missouri State,PUNTING,Steven,Mix,LONG,56
+6941129,9/14/2013,FCS,Murray State,Missouri State,PUNT RETURNS,Walter,Powell,NO,1
+6941130,9/14/2013,FCS,Murray State,Missouri State,PUNT RETURNS,Walter,Powell,YDS,0
+6941131,9/14/2013,FCS,Murray State,Missouri State,PUNT RETURNS,Walter,Powell,AVG,0.0
+6941132,9/14/2013,FCS,Murray State,Missouri State,PUNT RETURNS,Walter,Powell,LONG,0
+6941133,9/14/2013,FCS,Murray State,Missouri State,PUNT RETURNS,Jeremy,Harness,NO,1
+6941134,9/14/2013,FCS,Murray State,Missouri State,PUNT RETURNS,Jeremy,Harness,YDS,0
+6941135,9/14/2013,FCS,Murray State,Missouri State,PUNT RETURNS,Jeremy,Harness,AVG,0.0
+6941136,9/14/2013,FCS,Murray State,Missouri State,PUNT RETURNS,Jeremy,Harness,LONG,0
+6941137,9/14/2013,FCS,Murray State,Missouri State,KICK RETURNS,Walter,Powell,NO,3
+6941138,9/14/2013,FCS,Murray State,Missouri State,KICK RETURNS,Walter,Powell,YDS,151
+6941139,9/14/2013,FCS,Murray State,Missouri State,KICK RETURNS,Walter,Powell,AVG,50.3
+6941140,9/14/2013,FCS,Murray State,Missouri State,KICK RETURNS,Walter,Powell,LONG,98
+6941141,9/14/2013,FCS,Murray State,Missouri State,KICK RETURNS,Jaamal,Berry,NO,1
+6941142,9/14/2013,FCS,Murray State,Missouri State,KICK RETURNS,Jaamal,Berry,YDS,17
+6941143,9/14/2013,FCS,Murray State,Missouri State,KICK RETURNS,Jaamal,Berry,AVG,17.0
+6941144,9/14/2013,FCS,Murray State,Missouri State,KICK RETURNS,Jaamal,Berry,LONG,17

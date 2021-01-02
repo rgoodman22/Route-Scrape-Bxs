@@ -1,0 +1,169 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+7200001,10/12/2013,FCS,Villanova,Towson,RUSHING,John,Robertson,ATT,32
+7200002,10/12/2013,FCS,Villanova,Towson,RUSHING,John,Robertson,YDS,150
+7200003,10/12/2013,FCS,Villanova,Towson,RUSHING,John,Robertson,TD,3
+7200004,10/12/2013,FCS,Villanova,Towson,RUSHING,John,Robertson,LONG,17
+7200005,10/12/2013,FCS,Villanova,Towson,RUSHING,Kevin,Monangai,ATT,18
+7200006,10/12/2013,FCS,Villanova,Towson,RUSHING,Kevin,Monangai,YDS,62
+7200007,10/12/2013,FCS,Villanova,Towson,RUSHING,Kevin,Monangai,TD,1
+7200008,10/12/2013,FCS,Villanova,Towson,RUSHING,Kevin,Monangai,LONG,7
+7200009,10/12/2013,FCS,Villanova,Towson,RUSHING,Jamal,Abdur-Rahman,ATT,8
+7200010,10/12/2013,FCS,Villanova,Towson,RUSHING,Jamal,Abdur-Rahman,YDS,36
+7200011,10/12/2013,FCS,Villanova,Towson,RUSHING,Jamal,Abdur-Rahman,TD,0
+7200012,10/12/2013,FCS,Villanova,Towson,RUSHING,Jamal,Abdur-Rahman,LONG,13
+7200013,10/12/2013,FCS,Villanova,Towson,RUSHING,Austin,Medley,ATT,4
+7200014,10/12/2013,FCS,Villanova,Towson,RUSHING,Austin,Medley,YDS,16
+7200015,10/12/2013,FCS,Villanova,Towson,RUSHING,Austin,Medley,TD,0
+7200016,10/12/2013,FCS,Villanova,Towson,RUSHING,Austin,Medley,LONG,7
+7200017,10/12/2013,FCS,Villanova,Towson,RUSHING,Poppy,Livers,ATT,1
+7200018,10/12/2013,FCS,Villanova,Towson,RUSHING,Poppy,Livers,YDS,7
+7200019,10/12/2013,FCS,Villanova,Towson,RUSHING,Poppy,Livers,TD,0
+7200020,10/12/2013,FCS,Villanova,Towson,RUSHING,Poppy,Livers,LONG,7
+7200021,10/12/2013,FCS,Villanova,Towson,RUSHING,,Team,ATT,2
+7200022,10/12/2013,FCS,Villanova,Towson,RUSHING,,Team,YDS,-2
+7200023,10/12/2013,FCS,Villanova,Towson,RUSHING,,Team,TD,0
+7200024,10/12/2013,FCS,Villanova,Towson,RUSHING,,Team,LONG,0
+7200025,10/12/2013,FCS,Villanova,Towson,PASSING,John,Robertson,CP-ATT-INT,17-18-0
+7200026,10/12/2013,FCS,Villanova,Towson,PASSING,John,Robertson,YDS,182
+7200027,10/12/2013,FCS,Villanova,Towson,PASSING,John,Robertson,TD,2
+7200028,10/12/2013,FCS,Villanova,Towson,PASSING,John,Robertson,LONG,36
+7200029,10/12/2013,FCS,Villanova,Towson,RECEIVING,Jamal,Abdur-Rahman,REC,6
+7200030,10/12/2013,FCS,Villanova,Towson,RECEIVING,Jamal,Abdur-Rahman,YDS,89
+7200031,10/12/2013,FCS,Villanova,Towson,RECEIVING,Jamal,Abdur-Rahman,TD,0
+7200032,10/12/2013,FCS,Villanova,Towson,RECEIVING,Jamal,Abdur-Rahman,LONG,36
+7200033,10/12/2013,FCS,Villanova,Towson,RECEIVING,Poppy,Livers,REC,4
+7200034,10/12/2013,FCS,Villanova,Towson,RECEIVING,Poppy,Livers,YDS,24
+7200035,10/12/2013,FCS,Villanova,Towson,RECEIVING,Poppy,Livers,TD,0
+7200036,10/12/2013,FCS,Villanova,Towson,RECEIVING,Poppy,Livers,LONG,9
+7200037,10/12/2013,FCS,Villanova,Towson,RECEIVING,Kevin,Gulyas,REC,2
+7200038,10/12/2013,FCS,Villanova,Towson,RECEIVING,Kevin,Gulyas,YDS,18
+7200039,10/12/2013,FCS,Villanova,Towson,RECEIVING,Kevin,Gulyas,TD,0
+7200040,10/12/2013,FCS,Villanova,Towson,RECEIVING,Kevin,Gulyas,LONG,10
+7200041,10/12/2013,FCS,Villanova,Towson,RECEIVING,Earnest,Pettway,REC,2
+7200042,10/12/2013,FCS,Villanova,Towson,RECEIVING,Earnest,Pettway,YDS,14
+7200043,10/12/2013,FCS,Villanova,Towson,RECEIVING,Earnest,Pettway,TD,1
+7200044,10/12/2013,FCS,Villanova,Towson,RECEIVING,Earnest,Pettway,LONG,7
+7200045,10/12/2013,FCS,Villanova,Towson,RECEIVING,Gary,Underwood,REC,1
+7200046,10/12/2013,FCS,Villanova,Towson,RECEIVING,Gary,Underwood,YDS,20
+7200047,10/12/2013,FCS,Villanova,Towson,RECEIVING,Gary,Underwood,TD,1
+7200048,10/12/2013,FCS,Villanova,Towson,RECEIVING,Gary,Underwood,LONG,20
+7200049,10/12/2013,FCS,Villanova,Towson,RECEIVING,Aaron,Wells,REC,1
+7200050,10/12/2013,FCS,Villanova,Towson,RECEIVING,Aaron,Wells,YDS,11
+7200051,10/12/2013,FCS,Villanova,Towson,RECEIVING,Aaron,Wells,TD,0
+7200052,10/12/2013,FCS,Villanova,Towson,RECEIVING,Aaron,Wells,LONG,11
+7200053,10/12/2013,FCS,Villanova,Towson,RECEIVING,Mike,Burke,REC,1
+7200054,10/12/2013,FCS,Villanova,Towson,RECEIVING,Mike,Burke,YDS,6
+7200055,10/12/2013,FCS,Villanova,Towson,RECEIVING,Mike,Burke,TD,0
+7200056,10/12/2013,FCS,Villanova,Towson,RECEIVING,Mike,Burke,LONG,6
+7200057,10/12/2013,FCS,Villanova,Towson,KICKING,Mark,Hamilton,FG-FGA,1/1
+7200058,10/12/2013,FCS,Villanova,Towson,KICKING,Mark,Hamilton,LONG,21
+7200059,10/12/2013,FCS,Villanova,Towson,KICKING,Mark,Hamilton,XP,6
+7200060,10/12/2013,FCS,Villanova,Towson,KICKING,Mark,Hamilton,PTS,9
+7200061,10/12/2013,FCS,Villanova,Towson,PUNTING,Mark,Hamilton,NO,2
+7200062,10/12/2013,FCS,Villanova,Towson,PUNTING,Mark,Hamilton,YDS,71
+7200063,10/12/2013,FCS,Villanova,Towson,PUNTING,Mark,Hamilton,AVG,35.5
+7200064,10/12/2013,FCS,Villanova,Towson,PUNTING,Mark,Hamilton,LONG,36
+7200065,10/12/2013,FCS,Villanova,Towson,PUNTING,,Team,NO,1
+7200066,10/12/2013,FCS,Villanova,Towson,PUNTING,,Team,YDS,0
+7200067,10/12/2013,FCS,Villanova,Towson,PUNTING,,Team,AVG,0.0
+7200068,10/12/2013,FCS,Villanova,Towson,PUNTING,,Team,LONG,0
+7200069,10/12/2013,FCS,Villanova,Towson,KICK RETURNS,Poppy,Livers,NO,1
+7200070,10/12/2013,FCS,Villanova,Towson,KICK RETURNS,Poppy,Livers,YDS,26
+7200071,10/12/2013,FCS,Villanova,Towson,KICK RETURNS,Poppy,Livers,AVG,26.0
+7200072,10/12/2013,FCS,Villanova,Towson,KICK RETURNS,Poppy,Livers,LONG,26
+7200073,10/12/2013,FCS,Villanova,Towson,KICK RETURNS,Javon,White,NO,1
+7200074,10/12/2013,FCS,Villanova,Towson,KICK RETURNS,Javon,White,YDS,19
+7200075,10/12/2013,FCS,Villanova,Towson,KICK RETURNS,Javon,White,AVG,19.0
+7200076,10/12/2013,FCS,Villanova,Towson,KICK RETURNS,Javon,White,LONG,19
+7200077,10/12/2013,FCS,Villanova,Towson,KICK RETURNS,Joe,Sarnese,NO,1
+7200078,10/12/2013,FCS,Villanova,Towson,KICK RETURNS,Joe,Sarnese,YDS,10
+7200079,10/12/2013,FCS,Villanova,Towson,KICK RETURNS,Joe,Sarnese,AVG,10.0
+7200080,10/12/2013,FCS,Villanova,Towson,KICK RETURNS,Joe,Sarnese,LONG,10
+7200081,10/12/2013,FCS,Villanova,Towson,KICK RETURNS,,Team,NO,1
+7200082,10/12/2013,FCS,Villanova,Towson,KICK RETURNS,,Team,YDS,0
+7200083,10/12/2013,FCS,Villanova,Towson,KICK RETURNS,,Team,AVG,0.0
+7200084,10/12/2013,FCS,Villanova,Towson,KICK RETURNS,,Team,LONG,0
+7200085,10/12/2013,FCS,Villanova,Towson,KICK RETURNS,Austin,Medley,NO,1
+7200086,10/12/2013,FCS,Villanova,Towson,KICK RETURNS,Austin,Medley,YDS,0
+7200087,10/12/2013,FCS,Villanova,Towson,KICK RETURNS,Austin,Medley,AVG,0.0
+7200088,10/12/2013,FCS,Villanova,Towson,KICK RETURNS,Austin,Medley,LONG,0
+7200089,10/12/2013,FCS,Towson,Villanova,RUSHING,Terrance,West,ATT,15
+7200090,10/12/2013,FCS,Towson,Villanova,RUSHING,Terrance,West,YDS,61
+7200091,10/12/2013,FCS,Towson,Villanova,RUSHING,Terrance,West,TD,2
+7200092,10/12/2013,FCS,Towson,Villanova,RUSHING,Terrance,West,LONG,15
+7200093,10/12/2013,FCS,Towson,Villanova,RUSHING,Peter,Athens,ATT,3
+7200094,10/12/2013,FCS,Towson,Villanova,RUSHING,Peter,Athens,YDS,21
+7200095,10/12/2013,FCS,Towson,Villanova,RUSHING,Peter,Athens,TD,0
+7200096,10/12/2013,FCS,Towson,Villanova,RUSHING,Peter,Athens,LONG,10
+7200097,10/12/2013,FCS,Towson,Villanova,RUSHING,Connor,Frazier,ATT,1
+7200098,10/12/2013,FCS,Towson,Villanova,RUSHING,Connor,Frazier,YDS,5
+7200099,10/12/2013,FCS,Towson,Villanova,RUSHING,Connor,Frazier,TD,0
+7200100,10/12/2013,FCS,Towson,Villanova,RUSHING,Connor,Frazier,LONG,5
+7200101,10/12/2013,FCS,Towson,Villanova,RUSHING,Derrick,Joseph,ATT,1
+7200102,10/12/2013,FCS,Towson,Villanova,RUSHING,Derrick,Joseph,YDS,4
+7200103,10/12/2013,FCS,Towson,Villanova,RUSHING,Derrick,Joseph,TD,0
+7200104,10/12/2013,FCS,Towson,Villanova,RUSHING,Derrick,Joseph,LONG,4
+7200105,10/12/2013,FCS,Towson,Villanova,PASSING,Peter,Athens,CP-ATT-INT,24-41-3
+7200106,10/12/2013,FCS,Towson,Villanova,PASSING,Peter,Athens,YDS,355
+7200107,10/12/2013,FCS,Towson,Villanova,PASSING,Peter,Athens,TD,2
+7200108,10/12/2013,FCS,Towson,Villanova,PASSING,Peter,Athens,LONG,80
+7200109,10/12/2013,FCS,Towson,Villanova,PASSING,Leon,Kinnard,CP-ATT-INT,1-1-0
+7200110,10/12/2013,FCS,Towson,Villanova,PASSING,Leon,Kinnard,YDS,20
+7200111,10/12/2013,FCS,Towson,Villanova,PASSING,Leon,Kinnard,TD,0
+7200112,10/12/2013,FCS,Towson,Villanova,PASSING,Leon,Kinnard,LONG,20
+7200113,10/12/2013,FCS,Towson,Villanova,RECEIVING,Terrance,West,REC,6
+7200114,10/12/2013,FCS,Towson,Villanova,RECEIVING,Terrance,West,YDS,101
+7200115,10/12/2013,FCS,Towson,Villanova,RECEIVING,Terrance,West,TD,0
+7200116,10/12/2013,FCS,Towson,Villanova,RECEIVING,Terrance,West,LONG,29
+7200117,10/12/2013,FCS,Towson,Villanova,RECEIVING,Spencer,Wilkins,REC,5
+7200118,10/12/2013,FCS,Towson,Villanova,RECEIVING,Spencer,Wilkins,YDS,125
+7200119,10/12/2013,FCS,Towson,Villanova,RECEIVING,Spencer,Wilkins,TD,1
+7200120,10/12/2013,FCS,Towson,Villanova,RECEIVING,Spencer,Wilkins,LONG,80
+7200121,10/12/2013,FCS,Towson,Villanova,RECEIVING,Leon,Kinnard,REC,5
+7200122,10/12/2013,FCS,Towson,Villanova,RECEIVING,Leon,Kinnard,YDS,41
+7200123,10/12/2013,FCS,Towson,Villanova,RECEIVING,Leon,Kinnard,TD,0
+7200124,10/12/2013,FCS,Towson,Villanova,RECEIVING,Leon,Kinnard,LONG,19
+7200125,10/12/2013,FCS,Towson,Villanova,RECEIVING,Brian,Dowling,REC,3
+7200126,10/12/2013,FCS,Towson,Villanova,RECEIVING,Brian,Dowling,YDS,38
+7200127,10/12/2013,FCS,Towson,Villanova,RECEIVING,Brian,Dowling,TD,0
+7200128,10/12/2013,FCS,Towson,Villanova,RECEIVING,Brian,Dowling,LONG,22
+7200129,10/12/2013,FCS,Towson,Villanova,RECEIVING,Derrick,Joseph,REC,2
+7200130,10/12/2013,FCS,Towson,Villanova,RECEIVING,Derrick,Joseph,YDS,28
+7200131,10/12/2013,FCS,Towson,Villanova,RECEIVING,Derrick,Joseph,TD,0
+7200132,10/12/2013,FCS,Towson,Villanova,RECEIVING,Derrick,Joseph,LONG,20
+7200133,10/12/2013,FCS,Towson,Villanova,RECEIVING,James,Oboh,REC,2
+7200134,10/12/2013,FCS,Towson,Villanova,RECEIVING,James,Oboh,YDS,22
+7200135,10/12/2013,FCS,Towson,Villanova,RECEIVING,James,Oboh,TD,1
+7200136,10/12/2013,FCS,Towson,Villanova,RECEIVING,James,Oboh,LONG,13
+7200137,10/12/2013,FCS,Towson,Villanova,RECEIVING,Connor,Frazier,REC,2
+7200138,10/12/2013,FCS,Towson,Villanova,RECEIVING,Connor,Frazier,YDS,20
+7200139,10/12/2013,FCS,Towson,Villanova,RECEIVING,Connor,Frazier,TD,0
+7200140,10/12/2013,FCS,Towson,Villanova,RECEIVING,Connor,Frazier,LONG,14
+7200141,10/12/2013,FCS,Towson,Villanova,KICKING,Drew,Evangelista,FG-FGA,0/1
+7200142,10/12/2013,FCS,Towson,Villanova,KICKING,Drew,Evangelista,LONG,-
+7200143,10/12/2013,FCS,Towson,Villanova,KICKING,Drew,Evangelista,XP,1
+7200144,10/12/2013,FCS,Towson,Villanova,KICKING,Drew,Evangelista,PTS,1
+7200145,10/12/2013,FCS,Towson,Villanova,KICKING,D.J.,Soven,FG-FGA,0/1
+7200146,10/12/2013,FCS,Towson,Villanova,KICKING,D.J.,Soven,LONG,-
+7200147,10/12/2013,FCS,Towson,Villanova,KICKING,D.J.,Soven,XP,0
+7200148,10/12/2013,FCS,Towson,Villanova,KICKING,D.J.,Soven,PTS,0
+7200149,10/12/2013,FCS,Towson,Villanova,PUNTING,Jake,Ryder,NO,1
+7200150,10/12/2013,FCS,Towson,Villanova,PUNTING,Jake,Ryder,YDS,29
+7200151,10/12/2013,FCS,Towson,Villanova,PUNTING,Jake,Ryder,AVG,29.0
+7200152,10/12/2013,FCS,Towson,Villanova,PUNTING,Jake,Ryder,LONG,29
+7200153,10/12/2013,FCS,Towson,Villanova,PUNT RETURNS,Arione,Scott,NO,1
+7200154,10/12/2013,FCS,Towson,Villanova,PUNT RETURNS,Arione,Scott,YDS,2
+7200155,10/12/2013,FCS,Towson,Villanova,PUNT RETURNS,Arione,Scott,AVG,2.0
+7200156,10/12/2013,FCS,Towson,Villanova,PUNT RETURNS,Arione,Scott,LONG,0
+7200157,10/12/2013,FCS,Towson,Villanova,PUNT RETURNS,Andre,Dessenberg,NO,0
+7200158,10/12/2013,FCS,Towson,Villanova,PUNT RETURNS,Andre,Dessenberg,YDS,3
+7200159,10/12/2013,FCS,Towson,Villanova,PUNT RETURNS,Andre,Dessenberg,AVG,-
+7200160,10/12/2013,FCS,Towson,Villanova,PUNT RETURNS,Andre,Dessenberg,LONG,3
+7200161,10/12/2013,FCS,Towson,Villanova,KICK RETURNS,Derrick,Joseph,NO,5
+7200162,10/12/2013,FCS,Towson,Villanova,KICK RETURNS,Derrick,Joseph,YDS,187
+7200163,10/12/2013,FCS,Towson,Villanova,KICK RETURNS,Derrick,Joseph,AVG,37.4
+7200164,10/12/2013,FCS,Towson,Villanova,KICK RETURNS,Derrick,Joseph,LONG,90
+7200165,10/12/2013,FCS,Towson,Villanova,KICK RETURNS,Emmanuel,Holder,NO,1
+7200166,10/12/2013,FCS,Towson,Villanova,KICK RETURNS,Emmanuel,Holder,YDS,0
+7200167,10/12/2013,FCS,Towson,Villanova,KICK RETURNS,Emmanuel,Holder,AVG,0.0
+7200168,10/12/2013,FCS,Towson,Villanova,KICK RETURNS,Emmanuel,Holder,LONG,0

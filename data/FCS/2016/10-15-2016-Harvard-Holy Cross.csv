@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9642001,10/15/2016,FCS,Harvard,Holy Cross,RUSHING,Noah,Reimers,ATT,11
+9642002,10/15/2016,FCS,Harvard,Holy Cross,RUSHING,Noah,Reimers,YDS,36
+9642003,10/15/2016,FCS,Harvard,Holy Cross,RUSHING,Noah,Reimers,TD,1
+9642004,10/15/2016,FCS,Harvard,Holy Cross,RUSHING,Noah,Reimers,LONG,14
+9642005,10/15/2016,FCS,Harvard,Holy Cross,RUSHING,Lavance,Northington,ATT,6
+9642006,10/15/2016,FCS,Harvard,Holy Cross,RUSHING,Lavance,Northington,YDS,16
+9642007,10/15/2016,FCS,Harvard,Holy Cross,RUSHING,Lavance,Northington,TD,0
+9642008,10/15/2016,FCS,Harvard,Holy Cross,RUSHING,Lavance,Northington,LONG,4
+9642009,10/15/2016,FCS,Harvard,Holy Cross,RUSHING,Joseph,Foster,ATT,1
+9642010,10/15/2016,FCS,Harvard,Holy Cross,RUSHING,Joseph,Foster,YDS,9
+9642011,10/15/2016,FCS,Harvard,Holy Cross,RUSHING,Joseph,Foster,TD,0
+9642012,10/15/2016,FCS,Harvard,Holy Cross,RUSHING,Joseph,Foster,LONG,9
+9642013,10/15/2016,FCS,Harvard,Holy Cross,RUSHING,Tom,Stewart,ATT,11
+9642014,10/15/2016,FCS,Harvard,Holy Cross,RUSHING,Tom,Stewart,YDS,-35
+9642015,10/15/2016,FCS,Harvard,Holy Cross,RUSHING,Tom,Stewart,TD,0
+9642016,10/15/2016,FCS,Harvard,Holy Cross,RUSHING,Tom,Stewart,LONG,10
+9642017,10/15/2016,FCS,Harvard,Holy Cross,PASSING,Tom,Stewart,CP-ATT-INT,19-33-1
+9642018,10/15/2016,FCS,Harvard,Holy Cross,PASSING,Tom,Stewart,YDS,219
+9642019,10/15/2016,FCS,Harvard,Holy Cross,PASSING,Tom,Stewart,TD,1
+9642020,10/15/2016,FCS,Harvard,Holy Cross,PASSING,Tom,Stewart,LONG,35
+9642021,10/15/2016,FCS,Harvard,Holy Cross,RECEIVING,Brian,Dunlap,REC,6
+9642022,10/15/2016,FCS,Harvard,Holy Cross,RECEIVING,Brian,Dunlap,YDS,72
+9642023,10/15/2016,FCS,Harvard,Holy Cross,RECEIVING,Brian,Dunlap,TD,1
+9642024,10/15/2016,FCS,Harvard,Holy Cross,RECEIVING,Brian,Dunlap,LONG,24
+9642025,10/15/2016,FCS,Harvard,Holy Cross,RECEIVING,Anthony,Firkser,REC,6
+9642026,10/15/2016,FCS,Harvard,Holy Cross,RECEIVING,Anthony,Firkser,YDS,72
+9642027,10/15/2016,FCS,Harvard,Holy Cross,RECEIVING,Anthony,Firkser,TD,0
+9642028,10/15/2016,FCS,Harvard,Holy Cross,RECEIVING,Anthony,Firkser,LONG,29
+9642029,10/15/2016,FCS,Harvard,Holy Cross,RECEIVING,Joseph,Foster,REC,3
+9642030,10/15/2016,FCS,Harvard,Holy Cross,RECEIVING,Joseph,Foster,YDS,49
+9642031,10/15/2016,FCS,Harvard,Holy Cross,RECEIVING,Joseph,Foster,TD,0
+9642032,10/15/2016,FCS,Harvard,Holy Cross,RECEIVING,Joseph,Foster,LONG,35
+9642033,10/15/2016,FCS,Harvard,Holy Cross,RECEIVING,Alex,LaPolice,REC,1
+9642034,10/15/2016,FCS,Harvard,Holy Cross,RECEIVING,Alex,LaPolice,YDS,15
+9642035,10/15/2016,FCS,Harvard,Holy Cross,RECEIVING,Alex,LaPolice,TD,0
+9642036,10/15/2016,FCS,Harvard,Holy Cross,RECEIVING,Alex,LaPolice,LONG,15
+9642037,10/15/2016,FCS,Harvard,Holy Cross,RECEIVING,Noah,Reimers,REC,3
+9642038,10/15/2016,FCS,Harvard,Holy Cross,RECEIVING,Noah,Reimers,YDS,11
+9642039,10/15/2016,FCS,Harvard,Holy Cross,RECEIVING,Noah,Reimers,TD,0
+9642040,10/15/2016,FCS,Harvard,Holy Cross,RECEIVING,Noah,Reimers,LONG,5
+9642041,10/15/2016,FCS,Harvard,Holy Cross,KICKING,Jack,McIntyre,FG-FGA,1/1
+9642042,10/15/2016,FCS,Harvard,Holy Cross,KICKING,Jack,McIntyre,LONG,37
+9642043,10/15/2016,FCS,Harvard,Holy Cross,KICKING,Jack,McIntyre,XP,2
+9642044,10/15/2016,FCS,Harvard,Holy Cross,KICKING,Jack,McIntyre,PTS,5
+9642045,10/15/2016,FCS,Harvard,Holy Cross,PUNTING,Zach,Schmid,NO,8
+9642046,10/15/2016,FCS,Harvard,Holy Cross,PUNTING,Zach,Schmid,YDS,359
+9642047,10/15/2016,FCS,Harvard,Holy Cross,PUNTING,Zach,Schmid,AVG,44.9
+9642048,10/15/2016,FCS,Harvard,Holy Cross,PUNTING,Zach,Schmid,LONG,54
+9642049,10/15/2016,FCS,Harvard,Holy Cross,PUNT RETURNS,Alex,LaPolice,NO,1
+9642050,10/15/2016,FCS,Harvard,Holy Cross,PUNT RETURNS,Alex,LaPolice,YDS,10
+9642051,10/15/2016,FCS,Harvard,Holy Cross,PUNT RETURNS,Alex,LaPolice,AVG,10.0
+9642052,10/15/2016,FCS,Harvard,Holy Cross,PUNT RETURNS,Alex,LaPolice,LONG,10
+9642053,10/15/2016,FCS,Harvard,Holy Cross,PUNT RETURNS,,Team,NO,1
+9642054,10/15/2016,FCS,Harvard,Holy Cross,PUNT RETURNS,,Team,YDS,-10
+9642055,10/15/2016,FCS,Harvard,Holy Cross,PUNT RETURNS,,Team,AVG,-
+9642056,10/15/2016,FCS,Harvard,Holy Cross,PUNT RETURNS,,Team,LONG,0
+9642057,10/15/2016,FCS,Harvard,Holy Cross,KICK RETURNS,Alex,LaPolice,NO,6
+9642058,10/15/2016,FCS,Harvard,Holy Cross,KICK RETURNS,Alex,LaPolice,YDS,103
+9642059,10/15/2016,FCS,Harvard,Holy Cross,KICK RETURNS,Alex,LaPolice,AVG,17.2
+9642060,10/15/2016,FCS,Harvard,Holy Cross,KICK RETURNS,Alex,LaPolice,LONG,25
+9642061,10/15/2016,FCS,Holy Cross,Harvard,RUSHING,Domenic,Cozier,ATT,16
+9642062,10/15/2016,FCS,Holy Cross,Harvard,RUSHING,Domenic,Cozier,YDS,112
+9642063,10/15/2016,FCS,Holy Cross,Harvard,RUSHING,Domenic,Cozier,TD,0
+9642064,10/15/2016,FCS,Holy Cross,Harvard,RUSHING,Domenic,Cozier,LONG,36
+9642065,10/15/2016,FCS,Holy Cross,Harvard,RUSHING,Brendan,Flaherty,ATT,5
+9642066,10/15/2016,FCS,Holy Cross,Harvard,RUSHING,Brendan,Flaherty,YDS,27
+9642067,10/15/2016,FCS,Holy Cross,Harvard,RUSHING,Brendan,Flaherty,TD,0
+9642068,10/15/2016,FCS,Holy Cross,Harvard,RUSHING,Brendan,Flaherty,LONG,23
+9642069,10/15/2016,FCS,Holy Cross,Harvard,RUSHING,Diquan,Walker,ATT,3
+9642070,10/15/2016,FCS,Holy Cross,Harvard,RUSHING,Diquan,Walker,YDS,14
+9642071,10/15/2016,FCS,Holy Cross,Harvard,RUSHING,Diquan,Walker,TD,0
+9642072,10/15/2016,FCS,Holy Cross,Harvard,RUSHING,Diquan,Walker,LONG,6
+9642073,10/15/2016,FCS,Holy Cross,Harvard,RUSHING,Richie,DeNicola,ATT,1
+9642074,10/15/2016,FCS,Holy Cross,Harvard,RUSHING,Richie,DeNicola,YDS,4
+9642075,10/15/2016,FCS,Holy Cross,Harvard,RUSHING,Richie,DeNicola,TD,0
+9642076,10/15/2016,FCS,Holy Cross,Harvard,RUSHING,Richie,DeNicola,LONG,4
+9642077,10/15/2016,FCS,Holy Cross,Harvard,RUSHING,Lucas,Nikolaisen,ATT,1
+9642078,10/15/2016,FCS,Holy Cross,Harvard,RUSHING,Lucas,Nikolaisen,YDS,3
+9642079,10/15/2016,FCS,Holy Cross,Harvard,RUSHING,Lucas,Nikolaisen,TD,0
+9642080,10/15/2016,FCS,Holy Cross,Harvard,RUSHING,Lucas,Nikolaisen,LONG,3
+9642081,10/15/2016,FCS,Holy Cross,Harvard,RUSHING,Geoff,Wade,ATT,9
+9642082,10/15/2016,FCS,Holy Cross,Harvard,RUSHING,Geoff,Wade,YDS,-30
+9642083,10/15/2016,FCS,Holy Cross,Harvard,RUSHING,Geoff,Wade,TD,0
+9642084,10/15/2016,FCS,Holy Cross,Harvard,RUSHING,Geoff,Wade,LONG,7
+9642085,10/15/2016,FCS,Holy Cross,Harvard,PASSING,Geoff,Wade,CP-ATT-INT,23-35-0
+9642086,10/15/2016,FCS,Holy Cross,Harvard,PASSING,Geoff,Wade,YDS,244
+9642087,10/15/2016,FCS,Holy Cross,Harvard,PASSING,Geoff,Wade,TD,2
+9642088,10/15/2016,FCS,Holy Cross,Harvard,PASSING,Geoff,Wade,LONG,53
+9642089,10/15/2016,FCS,Holy Cross,Harvard,RECEIVING,Brendan,Flaherty,REC,8
+9642090,10/15/2016,FCS,Holy Cross,Harvard,RECEIVING,Brendan,Flaherty,YDS,96
+9642091,10/15/2016,FCS,Holy Cross,Harvard,RECEIVING,Brendan,Flaherty,TD,1
+9642092,10/15/2016,FCS,Holy Cross,Harvard,RECEIVING,Brendan,Flaherty,LONG,32
+9642093,10/15/2016,FCS,Holy Cross,Harvard,RECEIVING,Jake,Wieczorek,REC,3
+9642094,10/15/2016,FCS,Holy Cross,Harvard,RECEIVING,Jake,Wieczorek,YDS,69
+9642095,10/15/2016,FCS,Holy Cross,Harvard,RECEIVING,Jake,Wieczorek,TD,1
+9642096,10/15/2016,FCS,Holy Cross,Harvard,RECEIVING,Jake,Wieczorek,LONG,53
+9642097,10/15/2016,FCS,Holy Cross,Harvard,RECEIVING,Richie,DeNicola,REC,3
+9642098,10/15/2016,FCS,Holy Cross,Harvard,RECEIVING,Richie,DeNicola,YDS,59
+9642099,10/15/2016,FCS,Holy Cross,Harvard,RECEIVING,Richie,DeNicola,TD,0
+9642100,10/15/2016,FCS,Holy Cross,Harvard,RECEIVING,Richie,DeNicola,LONG,46
+9642101,10/15/2016,FCS,Holy Cross,Harvard,RECEIVING,Domenic,Cozier,REC,4
+9642102,10/15/2016,FCS,Holy Cross,Harvard,RECEIVING,Domenic,Cozier,YDS,13
+9642103,10/15/2016,FCS,Holy Cross,Harvard,RECEIVING,Domenic,Cozier,TD,0
+9642104,10/15/2016,FCS,Holy Cross,Harvard,RECEIVING,Domenic,Cozier,LONG,11
+9642105,10/15/2016,FCS,Holy Cross,Harvard,RECEIVING,Lucas,Nikolaisen,REC,3
+9642106,10/15/2016,FCS,Holy Cross,Harvard,RECEIVING,Lucas,Nikolaisen,YDS,6
+9642107,10/15/2016,FCS,Holy Cross,Harvard,RECEIVING,Lucas,Nikolaisen,TD,0
+9642108,10/15/2016,FCS,Holy Cross,Harvard,RECEIVING,Lucas,Nikolaisen,LONG,6
+9642109,10/15/2016,FCS,Holy Cross,Harvard,RECEIVING,Diquan,Walker,REC,1
+9642110,10/15/2016,FCS,Holy Cross,Harvard,RECEIVING,Diquan,Walker,YDS,1
+9642111,10/15/2016,FCS,Holy Cross,Harvard,RECEIVING,Diquan,Walker,TD,0
+9642112,10/15/2016,FCS,Holy Cross,Harvard,RECEIVING,Diquan,Walker,LONG,1
+9642113,10/15/2016,FCS,Holy Cross,Harvard,RECEIVING,Jordan,Montgomery,REC,1
+9642114,10/15/2016,FCS,Holy Cross,Harvard,RECEIVING,Jordan,Montgomery,YDS,0
+9642115,10/15/2016,FCS,Holy Cross,Harvard,RECEIVING,Jordan,Montgomery,TD,0
+9642116,10/15/2016,FCS,Holy Cross,Harvard,RECEIVING,Jordan,Montgomery,LONG,0
+9642117,10/15/2016,FCS,Holy Cross,Harvard,KICKING,Zane,Wasp,FG-FGA,2/4
+9642118,10/15/2016,FCS,Holy Cross,Harvard,KICKING,Zane,Wasp,LONG,44
+9642119,10/15/2016,FCS,Holy Cross,Harvard,KICKING,Zane,Wasp,XP,3
+9642120,10/15/2016,FCS,Holy Cross,Harvard,KICKING,Zane,Wasp,PTS,9
+9642121,10/15/2016,FCS,Holy Cross,Harvard,PUNTING,Will,McGrail,NO,6
+9642122,10/15/2016,FCS,Holy Cross,Harvard,PUNTING,Will,McGrail,YDS,219
+9642123,10/15/2016,FCS,Holy Cross,Harvard,PUNTING,Will,McGrail,AVG,36.5
+9642124,10/15/2016,FCS,Holy Cross,Harvard,PUNTING,Will,McGrail,LONG,47
+9642125,10/15/2016,FCS,Holy Cross,Harvard,PUNT RETURNS,Jake,Wieczorek,NO,5
+9642126,10/15/2016,FCS,Holy Cross,Harvard,PUNT RETURNS,Jake,Wieczorek,YDS,50
+9642127,10/15/2016,FCS,Holy Cross,Harvard,PUNT RETURNS,Jake,Wieczorek,AVG,10.0
+9642128,10/15/2016,FCS,Holy Cross,Harvard,PUNT RETURNS,Jake,Wieczorek,LONG,21
+9642129,10/15/2016,FCS,Holy Cross,Harvard,KICK RETURNS,Jake,Wieczorek,NO,2
+9642130,10/15/2016,FCS,Holy Cross,Harvard,KICK RETURNS,Jake,Wieczorek,YDS,53
+9642131,10/15/2016,FCS,Holy Cross,Harvard,KICK RETURNS,Jake,Wieczorek,AVG,26.5
+9642132,10/15/2016,FCS,Holy Cross,Harvard,KICK RETURNS,Jake,Wieczorek,LONG,39
+9642133,10/15/2016,FCS,Holy Cross,Harvard,KICK RETURNS,Tate,Beachley,NO,1
+9642134,10/15/2016,FCS,Holy Cross,Harvard,KICK RETURNS,Tate,Beachley,YDS,12
+9642135,10/15/2016,FCS,Holy Cross,Harvard,KICK RETURNS,Tate,Beachley,AVG,12.0
+9642136,10/15/2016,FCS,Holy Cross,Harvard,KICK RETURNS,Tate,Beachley,LONG,12

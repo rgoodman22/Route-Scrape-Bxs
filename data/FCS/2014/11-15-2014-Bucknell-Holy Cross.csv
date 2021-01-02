@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+8302001,11/15/2014,FCS,Bucknell,Holy Cross,RUSHING,Matt,DelMauro,ATT,30
+8302002,11/15/2014,FCS,Bucknell,Holy Cross,RUSHING,Matt,DelMauro,YDS,139
+8302003,11/15/2014,FCS,Bucknell,Holy Cross,RUSHING,Matt,DelMauro,TD,3
+8302004,11/15/2014,FCS,Bucknell,Holy Cross,RUSHING,Matt,DelMauro,LONG,15
+8302005,11/15/2014,FCS,Bucknell,Holy Cross,RUSHING,Trey,Lauletta,ATT,8
+8302006,11/15/2014,FCS,Bucknell,Holy Cross,RUSHING,Trey,Lauletta,YDS,21
+8302007,11/15/2014,FCS,Bucknell,Holy Cross,RUSHING,Trey,Lauletta,TD,1
+8302008,11/15/2014,FCS,Bucknell,Holy Cross,RUSHING,Trey,Lauletta,LONG,8
+8302009,11/15/2014,FCS,Bucknell,Holy Cross,RUSHING,Kareem,Hyman,ATT,2
+8302010,11/15/2014,FCS,Bucknell,Holy Cross,RUSHING,Kareem,Hyman,YDS,5
+8302011,11/15/2014,FCS,Bucknell,Holy Cross,RUSHING,Kareem,Hyman,TD,0
+8302012,11/15/2014,FCS,Bucknell,Holy Cross,RUSHING,Kareem,Hyman,LONG,3
+8302013,11/15/2014,FCS,Bucknell,Holy Cross,RUSHING,Matt,Muh,ATT,1
+8302014,11/15/2014,FCS,Bucknell,Holy Cross,RUSHING,Matt,Muh,YDS,1
+8302015,11/15/2014,FCS,Bucknell,Holy Cross,RUSHING,Matt,Muh,TD,0
+8302016,11/15/2014,FCS,Bucknell,Holy Cross,RUSHING,Matt,Muh,LONG,1
+8302017,11/15/2014,FCS,Bucknell,Holy Cross,RUSHING,,Team,ATT,1
+8302018,11/15/2014,FCS,Bucknell,Holy Cross,RUSHING,,Team,YDS,-2
+8302019,11/15/2014,FCS,Bucknell,Holy Cross,RUSHING,,Team,TD,0
+8302020,11/15/2014,FCS,Bucknell,Holy Cross,RUSHING,,Team,LONG,0
+8302021,11/15/2014,FCS,Bucknell,Holy Cross,PASSING,Trey,Lauletta,CP-ATT-INT,15-25-0
+8302022,11/15/2014,FCS,Bucknell,Holy Cross,PASSING,Trey,Lauletta,YDS,203
+8302023,11/15/2014,FCS,Bucknell,Holy Cross,PASSING,Trey,Lauletta,TD,0
+8302024,11/15/2014,FCS,Bucknell,Holy Cross,PASSING,Trey,Lauletta,LONG,38
+8302025,11/15/2014,FCS,Bucknell,Holy Cross,PASSING,Matt,Muh,CP-ATT-INT,1-1-0
+8302026,11/15/2014,FCS,Bucknell,Holy Cross,PASSING,Matt,Muh,YDS,-4
+8302027,11/15/2014,FCS,Bucknell,Holy Cross,PASSING,Matt,Muh,TD,0
+8302028,11/15/2014,FCS,Bucknell,Holy Cross,PASSING,Matt,Muh,LONG,0
+8302029,11/15/2014,FCS,Bucknell,Holy Cross,RECEIVING,Jake,Hartman,REC,7
+8302030,11/15/2014,FCS,Bucknell,Holy Cross,RECEIVING,Jake,Hartman,YDS,87
+8302031,11/15/2014,FCS,Bucknell,Holy Cross,RECEIVING,Jake,Hartman,TD,0
+8302032,11/15/2014,FCS,Bucknell,Holy Cross,RECEIVING,Jake,Hartman,LONG,38
+8302033,11/15/2014,FCS,Bucknell,Holy Cross,RECEIVING,Matt,DelMauro,REC,2
+8302034,11/15/2014,FCS,Bucknell,Holy Cross,RECEIVING,Matt,DelMauro,YDS,53
+8302035,11/15/2014,FCS,Bucknell,Holy Cross,RECEIVING,Matt,DelMauro,TD,0
+8302036,11/15/2014,FCS,Bucknell,Holy Cross,RECEIVING,Matt,DelMauro,LONG,36
+8302037,11/15/2014,FCS,Bucknell,Holy Cross,RECEIVING,Will,Carter,REC,5
+8302038,11/15/2014,FCS,Bucknell,Holy Cross,RECEIVING,Will,Carter,YDS,46
+8302039,11/15/2014,FCS,Bucknell,Holy Cross,RECEIVING,Will,Carter,TD,0
+8302040,11/15/2014,FCS,Bucknell,Holy Cross,RECEIVING,Will,Carter,LONG,21
+8302041,11/15/2014,FCS,Bucknell,Holy Cross,RECEIVING,Josh,Brake,REC,1
+8302042,11/15/2014,FCS,Bucknell,Holy Cross,RECEIVING,Josh,Brake,YDS,8
+8302043,11/15/2014,FCS,Bucknell,Holy Cross,RECEIVING,Josh,Brake,TD,0
+8302044,11/15/2014,FCS,Bucknell,Holy Cross,RECEIVING,Josh,Brake,LONG,8
+8302045,11/15/2014,FCS,Bucknell,Holy Cross,RECEIVING,Josh,Lebo,REC,1
+8302046,11/15/2014,FCS,Bucknell,Holy Cross,RECEIVING,Josh,Lebo,YDS,5
+8302047,11/15/2014,FCS,Bucknell,Holy Cross,RECEIVING,Josh,Lebo,TD,0
+8302048,11/15/2014,FCS,Bucknell,Holy Cross,RECEIVING,Josh,Lebo,LONG,5
+8302049,11/15/2014,FCS,Bucknell,Holy Cross,KICKING,Derek,Maurer,FG-FGA,1/1
+8302050,11/15/2014,FCS,Bucknell,Holy Cross,KICKING,Derek,Maurer,LONG,25
+8302051,11/15/2014,FCS,Bucknell,Holy Cross,KICKING,Derek,Maurer,XP,4
+8302052,11/15/2014,FCS,Bucknell,Holy Cross,KICKING,Derek,Maurer,PTS,7
+8302053,11/15/2014,FCS,Bucknell,Holy Cross,PUNTING,Derek,Maurer,NO,5
+8302054,11/15/2014,FCS,Bucknell,Holy Cross,PUNTING,Derek,Maurer,YDS,181
+8302055,11/15/2014,FCS,Bucknell,Holy Cross,PUNTING,Derek,Maurer,AVG,36.2
+8302056,11/15/2014,FCS,Bucknell,Holy Cross,PUNTING,Derek,Maurer,LONG,42
+8302057,11/15/2014,FCS,Bucknell,Holy Cross,PUNT RETURNS,Josh,Brake,NO,3
+8302058,11/15/2014,FCS,Bucknell,Holy Cross,PUNT RETURNS,Josh,Brake,YDS,14
+8302059,11/15/2014,FCS,Bucknell,Holy Cross,PUNT RETURNS,Josh,Brake,AVG,4.7
+8302060,11/15/2014,FCS,Bucknell,Holy Cross,PUNT RETURNS,Josh,Brake,LONG,11
+8302061,11/15/2014,FCS,Bucknell,Holy Cross,PUNT RETURNS,Trey,Johnson,NO,1
+8302062,11/15/2014,FCS,Bucknell,Holy Cross,PUNT RETURNS,Trey,Johnson,YDS,6
+8302063,11/15/2014,FCS,Bucknell,Holy Cross,PUNT RETURNS,Trey,Johnson,AVG,6.0
+8302064,11/15/2014,FCS,Bucknell,Holy Cross,PUNT RETURNS,Trey,Johnson,LONG,6
+8302065,11/15/2014,FCS,Bucknell,Holy Cross,KICK RETURNS,Brian,Regan,NO,2
+8302066,11/15/2014,FCS,Bucknell,Holy Cross,KICK RETURNS,Brian,Regan,YDS,33
+8302067,11/15/2014,FCS,Bucknell,Holy Cross,KICK RETURNS,Brian,Regan,AVG,16.5
+8302068,11/15/2014,FCS,Bucknell,Holy Cross,KICK RETURNS,Brian,Regan,LONG,22
+8302069,11/15/2014,FCS,Bucknell,Holy Cross,KICK RETURNS,Will,Carter,NO,3
+8302070,11/15/2014,FCS,Bucknell,Holy Cross,KICK RETURNS,Will,Carter,YDS,31
+8302071,11/15/2014,FCS,Bucknell,Holy Cross,KICK RETURNS,Will,Carter,AVG,10.3
+8302072,11/15/2014,FCS,Bucknell,Holy Cross,KICK RETURNS,Will,Carter,LONG,15
+8302073,11/15/2014,FCS,Bucknell,Holy Cross,KICK RETURNS,,Team,NO,0
+8302074,11/15/2014,FCS,Bucknell,Holy Cross,KICK RETURNS,,Team,YDS,0
+8302075,11/15/2014,FCS,Bucknell,Holy Cross,KICK RETURNS,,Team,AVG,-
+8302076,11/15/2014,FCS,Bucknell,Holy Cross,KICK RETURNS,,Team,LONG,0
+8302077,11/15/2014,FCS,Holy Cross,Bucknell,RUSHING,Gabe,Guild,ATT,15
+8302078,11/15/2014,FCS,Holy Cross,Bucknell,RUSHING,Gabe,Guild,YDS,70
+8302079,11/15/2014,FCS,Holy Cross,Bucknell,RUSHING,Gabe,Guild,TD,0
+8302080,11/15/2014,FCS,Holy Cross,Bucknell,RUSHING,Gabe,Guild,LONG,12
+8302081,11/15/2014,FCS,Holy Cross,Bucknell,RUSHING,Peter,Pujals,ATT,20
+8302082,11/15/2014,FCS,Holy Cross,Bucknell,RUSHING,Peter,Pujals,YDS,44
+8302083,11/15/2014,FCS,Holy Cross,Bucknell,RUSHING,Peter,Pujals,TD,3
+8302084,11/15/2014,FCS,Holy Cross,Bucknell,RUSHING,Peter,Pujals,LONG,14
+8302085,11/15/2014,FCS,Holy Cross,Bucknell,RUSHING,Diquan,Walker,ATT,2
+8302086,11/15/2014,FCS,Holy Cross,Bucknell,RUSHING,Diquan,Walker,YDS,4
+8302087,11/15/2014,FCS,Holy Cross,Bucknell,RUSHING,Diquan,Walker,TD,0
+8302088,11/15/2014,FCS,Holy Cross,Bucknell,RUSHING,Diquan,Walker,LONG,3
+8302089,11/15/2014,FCS,Holy Cross,Bucknell,RUSHING,,Team,ATT,0
+8302090,11/15/2014,FCS,Holy Cross,Bucknell,RUSHING,,Team,YDS,0
+8302091,11/15/2014,FCS,Holy Cross,Bucknell,RUSHING,,Team,TD,0
+8302092,11/15/2014,FCS,Holy Cross,Bucknell,RUSHING,,Team,LONG,0
+8302093,11/15/2014,FCS,Holy Cross,Bucknell,PASSING,Peter,Pujals,CP-ATT-INT,23-38-2
+8302094,11/15/2014,FCS,Holy Cross,Bucknell,PASSING,Peter,Pujals,YDS,201
+8302095,11/15/2014,FCS,Holy Cross,Bucknell,PASSING,Peter,Pujals,TD,0
+8302096,11/15/2014,FCS,Holy Cross,Bucknell,PASSING,Peter,Pujals,LONG,27
+8302097,11/15/2014,FCS,Holy Cross,Bucknell,RECEIVING,Brendan,Flaherty,REC,7
+8302098,11/15/2014,FCS,Holy Cross,Bucknell,RECEIVING,Brendan,Flaherty,YDS,81
+8302099,11/15/2014,FCS,Holy Cross,Bucknell,RECEIVING,Brendan,Flaherty,TD,0
+8302100,11/15/2014,FCS,Holy Cross,Bucknell,RECEIVING,Brendan,Flaherty,LONG,25
+8302101,11/15/2014,FCS,Holy Cross,Bucknell,RECEIVING,Jake,Wieczorek,REC,8
+8302102,11/15/2014,FCS,Holy Cross,Bucknell,RECEIVING,Jake,Wieczorek,YDS,53
+8302103,11/15/2014,FCS,Holy Cross,Bucknell,RECEIVING,Jake,Wieczorek,TD,0
+8302104,11/15/2014,FCS,Holy Cross,Bucknell,RECEIVING,Jake,Wieczorek,LONG,22
+8302105,11/15/2014,FCS,Holy Cross,Bucknell,RECEIVING,Tyler,Artim,REC,4
+8302106,11/15/2014,FCS,Holy Cross,Bucknell,RECEIVING,Tyler,Artim,YDS,29
+8302107,11/15/2014,FCS,Holy Cross,Bucknell,RECEIVING,Tyler,Artim,TD,0
+8302108,11/15/2014,FCS,Holy Cross,Bucknell,RECEIVING,Tyler,Artim,LONG,9
+8302109,11/15/2014,FCS,Holy Cross,Bucknell,RECEIVING,Jereme,Murray,REC,1
+8302110,11/15/2014,FCS,Holy Cross,Bucknell,RECEIVING,Jereme,Murray,YDS,27
+8302111,11/15/2014,FCS,Holy Cross,Bucknell,RECEIVING,Jereme,Murray,TD,0
+8302112,11/15/2014,FCS,Holy Cross,Bucknell,RECEIVING,Jereme,Murray,LONG,27
+8302113,11/15/2014,FCS,Holy Cross,Bucknell,RECEIVING,Lucas,Nikolaisen,REC,2
+8302114,11/15/2014,FCS,Holy Cross,Bucknell,RECEIVING,Lucas,Nikolaisen,YDS,9
+8302115,11/15/2014,FCS,Holy Cross,Bucknell,RECEIVING,Lucas,Nikolaisen,TD,0
+8302116,11/15/2014,FCS,Holy Cross,Bucknell,RECEIVING,Lucas,Nikolaisen,LONG,7
+8302117,11/15/2014,FCS,Holy Cross,Bucknell,RECEIVING,Gabe,Guild,REC,1
+8302118,11/15/2014,FCS,Holy Cross,Bucknell,RECEIVING,Gabe,Guild,YDS,2
+8302119,11/15/2014,FCS,Holy Cross,Bucknell,RECEIVING,Gabe,Guild,TD,0
+8302120,11/15/2014,FCS,Holy Cross,Bucknell,RECEIVING,Gabe,Guild,LONG,2
+8302121,11/15/2014,FCS,Holy Cross,Bucknell,KICKING,Connor,Fitzgerald,FG-FGA,1/1
+8302122,11/15/2014,FCS,Holy Cross,Bucknell,KICKING,Connor,Fitzgerald,LONG,32
+8302123,11/15/2014,FCS,Holy Cross,Bucknell,KICKING,Connor,Fitzgerald,XP,3
+8302124,11/15/2014,FCS,Holy Cross,Bucknell,KICKING,Connor,Fitzgerald,PTS,6
+8302125,11/15/2014,FCS,Holy Cross,Bucknell,PUNTING,Connor,Fitzgerald,NO,7
+8302126,11/15/2014,FCS,Holy Cross,Bucknell,PUNTING,Connor,Fitzgerald,YDS,281
+8302127,11/15/2014,FCS,Holy Cross,Bucknell,PUNTING,Connor,Fitzgerald,AVG,40.1
+8302128,11/15/2014,FCS,Holy Cross,Bucknell,PUNTING,Connor,Fitzgerald,LONG,52
+8302129,11/15/2014,FCS,Holy Cross,Bucknell,PUNT RETURNS,Jake,Wieczorek,NO,1
+8302130,11/15/2014,FCS,Holy Cross,Bucknell,PUNT RETURNS,Jake,Wieczorek,YDS,3
+8302131,11/15/2014,FCS,Holy Cross,Bucknell,PUNT RETURNS,Jake,Wieczorek,AVG,3.0
+8302132,11/15/2014,FCS,Holy Cross,Bucknell,PUNT RETURNS,Jake,Wieczorek,LONG,3
+8302133,11/15/2014,FCS,Holy Cross,Bucknell,KICK RETURNS,Brendan,Flaherty,NO,1
+8302134,11/15/2014,FCS,Holy Cross,Bucknell,KICK RETURNS,Brendan,Flaherty,YDS,13
+8302135,11/15/2014,FCS,Holy Cross,Bucknell,KICK RETURNS,Brendan,Flaherty,AVG,13.0
+8302136,11/15/2014,FCS,Holy Cross,Bucknell,KICK RETURNS,Brendan,Flaherty,LONG,13

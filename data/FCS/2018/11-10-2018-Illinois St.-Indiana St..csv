@@ -1,0 +1,156 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+11424001,11/10/2018,FCS,Illinois St.,Indiana St.,RUSHING,Markel,Smith,ATT,11
+11424002,11/10/2018,FCS,Illinois St.,Indiana St.,RUSHING,Markel,Smith,YDS,83
+11424003,11/10/2018,FCS,Illinois St.,Indiana St.,RUSHING,Markel,Smith,TD,1
+11424004,11/10/2018,FCS,Illinois St.,Indiana St.,RUSHING,Markel,Smith,LONG,26
+11424005,11/10/2018,FCS,Illinois St.,Indiana St.,RUSHING,James,Robinson,ATT,20
+11424006,11/10/2018,FCS,Illinois St.,Indiana St.,RUSHING,James,Robinson,YDS,73
+11424007,11/10/2018,FCS,Illinois St.,Indiana St.,RUSHING,James,Robinson,TD,0
+11424008,11/10/2018,FCS,Illinois St.,Indiana St.,RUSHING,James,Robinson,LONG,14
+11424009,11/10/2018,FCS,Illinois St.,Indiana St.,RUSHING,Brady,Davis,ATT,8
+11424010,11/10/2018,FCS,Illinois St.,Indiana St.,RUSHING,Brady,Davis,YDS,25
+11424011,11/10/2018,FCS,Illinois St.,Indiana St.,RUSHING,Brady,Davis,TD,0
+11424012,11/10/2018,FCS,Illinois St.,Indiana St.,RUSHING,Brady,Davis,LONG,11
+11424013,11/10/2018,FCS,Illinois St.,Indiana St.,RUSHING,Spencer,Schnell,ATT,1
+11424014,11/10/2018,FCS,Illinois St.,Indiana St.,RUSHING,Spencer,Schnell,YDS,13
+11424015,11/10/2018,FCS,Illinois St.,Indiana St.,RUSHING,Spencer,Schnell,TD,0
+11424016,11/10/2018,FCS,Illinois St.,Indiana St.,RUSHING,Spencer,Schnell,LONG,13
+11424017,11/10/2018,FCS,Illinois St.,Indiana St.,PASSING,Brady,Davis,CP-ATT-INT,25-41-2
+11424018,11/10/2018,FCS,Illinois St.,Indiana St.,PASSING,Brady,Davis,YDS,294
+11424019,11/10/2018,FCS,Illinois St.,Indiana St.,PASSING,Brady,Davis,TD,2
+11424020,11/10/2018,FCS,Illinois St.,Indiana St.,PASSING,Brady,Davis,LONG,29
+11424021,11/10/2018,FCS,Illinois St.,Indiana St.,PASSING,,Team,CP-ATT-INT,0-1-0
+11424022,11/10/2018,FCS,Illinois St.,Indiana St.,PASSING,,Team,YDS,0
+11424023,11/10/2018,FCS,Illinois St.,Indiana St.,PASSING,,Team,TD,0
+11424024,11/10/2018,FCS,Illinois St.,Indiana St.,PASSING,,Team,LONG,0
+11424025,11/10/2018,FCS,Illinois St.,Indiana St.,RECEIVING,Spencer,Schnell,REC,11
+11424026,11/10/2018,FCS,Illinois St.,Indiana St.,RECEIVING,Spencer,Schnell,YDS,155
+11424027,11/10/2018,FCS,Illinois St.,Indiana St.,RECEIVING,Spencer,Schnell,TD,2
+11424028,11/10/2018,FCS,Illinois St.,Indiana St.,RECEIVING,Spencer,Schnell,LONG,29
+11424029,11/10/2018,FCS,Illinois St.,Indiana St.,RECEIVING,Andrew,Edgar,REC,8
+11424030,11/10/2018,FCS,Illinois St.,Indiana St.,RECEIVING,Andrew,Edgar,YDS,104
+11424031,11/10/2018,FCS,Illinois St.,Indiana St.,RECEIVING,Andrew,Edgar,TD,0
+11424032,11/10/2018,FCS,Illinois St.,Indiana St.,RECEIVING,Andrew,Edgar,LONG,21
+11424033,11/10/2018,FCS,Illinois St.,Indiana St.,RECEIVING,Tanner,Taula,REC,3
+11424034,11/10/2018,FCS,Illinois St.,Indiana St.,RECEIVING,Tanner,Taula,YDS,23
+11424035,11/10/2018,FCS,Illinois St.,Indiana St.,RECEIVING,Tanner,Taula,TD,0
+11424036,11/10/2018,FCS,Illinois St.,Indiana St.,RECEIVING,Tanner,Taula,LONG,9
+11424037,11/10/2018,FCS,Illinois St.,Indiana St.,RECEIVING,Luther,Kirk,REC,1
+11424038,11/10/2018,FCS,Illinois St.,Indiana St.,RECEIVING,Luther,Kirk,YDS,12
+11424039,11/10/2018,FCS,Illinois St.,Indiana St.,RECEIVING,Luther,Kirk,TD,0
+11424040,11/10/2018,FCS,Illinois St.,Indiana St.,RECEIVING,Luther,Kirk,LONG,12
+11424041,11/10/2018,FCS,Illinois St.,Indiana St.,RECEIVING,Markel,Smith,REC,1
+11424042,11/10/2018,FCS,Illinois St.,Indiana St.,RECEIVING,Markel,Smith,YDS,0
+11424043,11/10/2018,FCS,Illinois St.,Indiana St.,RECEIVING,Markel,Smith,TD,0
+11424044,11/10/2018,FCS,Illinois St.,Indiana St.,RECEIVING,Markel,Smith,LONG,0
+11424045,11/10/2018,FCS,Illinois St.,Indiana St.,RECEIVING,James,Robinson,REC,1
+11424046,11/10/2018,FCS,Illinois St.,Indiana St.,RECEIVING,James,Robinson,YDS,0
+11424047,11/10/2018,FCS,Illinois St.,Indiana St.,RECEIVING,James,Robinson,TD,0
+11424048,11/10/2018,FCS,Illinois St.,Indiana St.,RECEIVING,James,Robinson,LONG,0
+11424049,11/10/2018,FCS,Illinois St.,Indiana St.,KICKING,JT,Bohlken,FG-FGA,1/2
+11424050,11/10/2018,FCS,Illinois St.,Indiana St.,KICKING,JT,Bohlken,LONG,27
+11424051,11/10/2018,FCS,Illinois St.,Indiana St.,KICKING,JT,Bohlken,XP,1
+11424052,11/10/2018,FCS,Illinois St.,Indiana St.,KICKING,JT,Bohlken,PTS,4
+11424053,11/10/2018,FCS,Illinois St.,Indiana St.,KICKING,Sam,Fenlason,FG-FGA,0/0
+11424054,11/10/2018,FCS,Illinois St.,Indiana St.,KICKING,Sam,Fenlason,LONG,-
+11424055,11/10/2018,FCS,Illinois St.,Indiana St.,KICKING,Sam,Fenlason,XP,1
+11424056,11/10/2018,FCS,Illinois St.,Indiana St.,KICKING,Sam,Fenlason,PTS,1
+11424057,11/10/2018,FCS,Illinois St.,Indiana St.,PUNTING,JT,Bohlken,NO,4
+11424058,11/10/2018,FCS,Illinois St.,Indiana St.,PUNTING,JT,Bohlken,YDS,145
+11424059,11/10/2018,FCS,Illinois St.,Indiana St.,PUNTING,JT,Bohlken,AVG,36.2
+11424060,11/10/2018,FCS,Illinois St.,Indiana St.,PUNTING,JT,Bohlken,LONG,47
+11424061,11/10/2018,FCS,Illinois St.,Indiana St.,PUNT RETURNS,Spencer,Schnell,NO,1
+11424062,11/10/2018,FCS,Illinois St.,Indiana St.,PUNT RETURNS,Spencer,Schnell,YDS,12
+11424063,11/10/2018,FCS,Illinois St.,Indiana St.,PUNT RETURNS,Spencer,Schnell,AVG,12.0
+11424064,11/10/2018,FCS,Illinois St.,Indiana St.,PUNT RETURNS,Spencer,Schnell,LONG,12
+11424065,11/10/2018,FCS,Illinois St.,Indiana St.,KICK RETURNS,Christian,Uphoff,NO,4
+11424066,11/10/2018,FCS,Illinois St.,Indiana St.,KICK RETURNS,Christian,Uphoff,YDS,114
+11424067,11/10/2018,FCS,Illinois St.,Indiana St.,KICK RETURNS,Christian,Uphoff,AVG,28.5
+11424068,11/10/2018,FCS,Illinois St.,Indiana St.,KICK RETURNS,Christian,Uphoff,LONG,50
+11424069,11/10/2018,FCS,Illinois St.,Indiana St.,DEFENSE,Luther,Kirk,TOT,0
+11424070,11/10/2018,FCS,Illinois St.,Indiana St.,DEFENSE,Luther,Kirk,SOLO,0
+11424071,11/10/2018,FCS,Illinois St.,Indiana St.,DEFENSE,Luther,Kirk,SACKS,0
+11424072,11/10/2018,FCS,Illinois St.,Indiana St.,DEFENSE,Luther,Kirk,TFL,0
+11424073,11/10/2018,FCS,Illinois St.,Indiana St.,DEFENSE,Luther,Kirk,INT,1
+11424074,11/10/2018,FCS,Illinois St.,Indiana St.,DEFENSE,Luther,Kirk,FF,0
+11424075,11/10/2018,FCS,Illinois St.,Indiana St.,DEFENSE,Luther,Kirk,FR,0
+11424076,11/10/2018,FCS,Indiana St.,Illinois St.,RUSHING,Titus,McCoy,ATT,26
+11424077,11/10/2018,FCS,Indiana St.,Illinois St.,RUSHING,Titus,McCoy,YDS,132
+11424078,11/10/2018,FCS,Indiana St.,Illinois St.,RUSHING,Titus,McCoy,TD,2
+11424079,11/10/2018,FCS,Indiana St.,Illinois St.,RUSHING,Titus,McCoy,LONG,34
+11424080,11/10/2018,FCS,Indiana St.,Illinois St.,RUSHING,Ryan,Boyle,ATT,9
+11424081,11/10/2018,FCS,Indiana St.,Illinois St.,RUSHING,Ryan,Boyle,YDS,46
+11424082,11/10/2018,FCS,Indiana St.,Illinois St.,RUSHING,Ryan,Boyle,TD,0
+11424083,11/10/2018,FCS,Indiana St.,Illinois St.,RUSHING,Ryan,Boyle,LONG,12
+11424084,11/10/2018,FCS,Indiana St.,Illinois St.,RUSHING,Peterson,Kerlegrand,ATT,2
+11424085,11/10/2018,FCS,Indiana St.,Illinois St.,RUSHING,Peterson,Kerlegrand,YDS,21
+11424086,11/10/2018,FCS,Indiana St.,Illinois St.,RUSHING,Peterson,Kerlegrand,TD,0
+11424087,11/10/2018,FCS,Indiana St.,Illinois St.,RUSHING,Peterson,Kerlegrand,LONG,17
+11424088,11/10/2018,FCS,Indiana St.,Illinois St.,RUSHING,,Team,ATT,1
+11424089,11/10/2018,FCS,Indiana St.,Illinois St.,RUSHING,,Team,YDS,-2
+11424090,11/10/2018,FCS,Indiana St.,Illinois St.,RUSHING,,Team,TD,0
+11424091,11/10/2018,FCS,Indiana St.,Illinois St.,RUSHING,,Team,LONG,0
+11424092,11/10/2018,FCS,Indiana St.,Illinois St.,PASSING,Ryan,Boyle,CP-ATT-INT,12-22-1
+11424093,11/10/2018,FCS,Indiana St.,Illinois St.,PASSING,Ryan,Boyle,YDS,86
+11424094,11/10/2018,FCS,Indiana St.,Illinois St.,PASSING,Ryan,Boyle,TD,2
+11424095,11/10/2018,FCS,Indiana St.,Illinois St.,PASSING,Ryan,Boyle,LONG,25
+11424096,11/10/2018,FCS,Indiana St.,Illinois St.,RECEIVING,Dante,JonesII,REC,5
+11424097,11/10/2018,FCS,Indiana St.,Illinois St.,RECEIVING,Dante,JonesII,YDS,41
+11424098,11/10/2018,FCS,Indiana St.,Illinois St.,RECEIVING,Dante,JonesII,TD,1
+11424099,11/10/2018,FCS,Indiana St.,Illinois St.,RECEIVING,Dante,JonesII,LONG,16
+11424100,11/10/2018,FCS,Indiana St.,Illinois St.,RECEIVING,Dakota,Caton,REC,3
+11424101,11/10/2018,FCS,Indiana St.,Illinois St.,RECEIVING,Dakota,Caton,YDS,30
+11424102,11/10/2018,FCS,Indiana St.,Illinois St.,RECEIVING,Dakota,Caton,TD,1
+11424103,11/10/2018,FCS,Indiana St.,Illinois St.,RECEIVING,Dakota,Caton,LONG,25
+11424104,11/10/2018,FCS,Indiana St.,Illinois St.,RECEIVING,Joe,Wildt,REC,3
+11424105,11/10/2018,FCS,Indiana St.,Illinois St.,RECEIVING,Joe,Wildt,YDS,9
+11424106,11/10/2018,FCS,Indiana St.,Illinois St.,RECEIVING,Joe,Wildt,TD,0
+11424107,11/10/2018,FCS,Indiana St.,Illinois St.,RECEIVING,Joe,Wildt,LONG,9
+11424108,11/10/2018,FCS,Indiana St.,Illinois St.,RECEIVING,Dante,Hendrix,REC,1
+11424109,11/10/2018,FCS,Indiana St.,Illinois St.,RECEIVING,Dante,Hendrix,YDS,6
+11424110,11/10/2018,FCS,Indiana St.,Illinois St.,RECEIVING,Dante,Hendrix,TD,0
+11424111,11/10/2018,FCS,Indiana St.,Illinois St.,RECEIVING,Dante,Hendrix,LONG,6
+11424112,11/10/2018,FCS,Indiana St.,Illinois St.,KICKING,Jerry,Nunez,FG-FGA,0/0
+11424113,11/10/2018,FCS,Indiana St.,Illinois St.,KICKING,Jerry,Nunez,LONG,-
+11424114,11/10/2018,FCS,Indiana St.,Illinois St.,KICKING,Jerry,Nunez,XP,4
+11424115,11/10/2018,FCS,Indiana St.,Illinois St.,KICKING,Jerry,Nunez,PTS,4
+11424116,11/10/2018,FCS,Indiana St.,Illinois St.,PUNTING,Travis,Reiner,NO,7
+11424117,11/10/2018,FCS,Indiana St.,Illinois St.,PUNTING,Travis,Reiner,YDS,241
+11424118,11/10/2018,FCS,Indiana St.,Illinois St.,PUNTING,Travis,Reiner,AVG,34.4
+11424119,11/10/2018,FCS,Indiana St.,Illinois St.,PUNTING,Travis,Reiner,LONG,43
+11424120,11/10/2018,FCS,Indiana St.,Illinois St.,KICK RETURNS,Dakota,Caton,NO,4
+11424121,11/10/2018,FCS,Indiana St.,Illinois St.,KICK RETURNS,Dakota,Caton,YDS,74
+11424122,11/10/2018,FCS,Indiana St.,Illinois St.,KICK RETURNS,Dakota,Caton,AVG,18.5
+11424123,11/10/2018,FCS,Indiana St.,Illinois St.,KICK RETURNS,Dakota,Caton,LONG,22
+11424124,11/10/2018,FCS,Indiana St.,Illinois St.,KICK RETURNS,Rondell,Green,NO,1
+11424125,11/10/2018,FCS,Indiana St.,Illinois St.,KICK RETURNS,Rondell,Green,YDS,0
+11424126,11/10/2018,FCS,Indiana St.,Illinois St.,KICK RETURNS,Rondell,Green,AVG,-
+11424127,11/10/2018,FCS,Indiana St.,Illinois St.,KICK RETURNS,Rondell,Green,LONG,0
+11424128,11/10/2018,FCS,Indiana St.,Illinois St.,DEFENSE,Matt,Thompson,TOT,0
+11424129,11/10/2018,FCS,Indiana St.,Illinois St.,DEFENSE,Matt,Thompson,SOLO,0
+11424130,11/10/2018,FCS,Indiana St.,Illinois St.,DEFENSE,Matt,Thompson,SACKS,0
+11424131,11/10/2018,FCS,Indiana St.,Illinois St.,DEFENSE,Matt,Thompson,TFL,0
+11424132,11/10/2018,FCS,Indiana St.,Illinois St.,DEFENSE,Matt,Thompson,INT,0
+11424133,11/10/2018,FCS,Indiana St.,Illinois St.,DEFENSE,Matt,Thompson,FF,0
+11424134,11/10/2018,FCS,Indiana St.,Illinois St.,DEFENSE,Matt,Thompson,FR,1
+11424135,11/10/2018,FCS,Indiana St.,Illinois St.,DEFENSE,Katrell,Moss,TOT,13
+11424136,11/10/2018,FCS,Indiana St.,Illinois St.,DEFENSE,Katrell,Moss,SOLO,7
+11424137,11/10/2018,FCS,Indiana St.,Illinois St.,DEFENSE,Katrell,Moss,SACKS,1
+11424138,11/10/2018,FCS,Indiana St.,Illinois St.,DEFENSE,Katrell,Moss,TFL,1.5
+11424139,11/10/2018,FCS,Indiana St.,Illinois St.,DEFENSE,Katrell,Moss,INT,0
+11424140,11/10/2018,FCS,Indiana St.,Illinois St.,DEFENSE,Katrell,Moss,FF,0
+11424141,11/10/2018,FCS,Indiana St.,Illinois St.,DEFENSE,Katrell,Moss,FR,0
+11424142,11/10/2018,FCS,Indiana St.,Illinois St.,DEFENSE,Jamal,Jones,TOT,9
+11424143,11/10/2018,FCS,Indiana St.,Illinois St.,DEFENSE,Jamal,Jones,SOLO,4
+11424144,11/10/2018,FCS,Indiana St.,Illinois St.,DEFENSE,Jamal,Jones,SACKS,0
+11424145,11/10/2018,FCS,Indiana St.,Illinois St.,DEFENSE,Jamal,Jones,TFL,0
+11424146,11/10/2018,FCS,Indiana St.,Illinois St.,DEFENSE,Jamal,Jones,INT,1
+11424147,11/10/2018,FCS,Indiana St.,Illinois St.,DEFENSE,Jamal,Jones,FF,0
+11424148,11/10/2018,FCS,Indiana St.,Illinois St.,DEFENSE,Jamal,Jones,FR,0
+11424149,11/10/2018,FCS,Indiana St.,Illinois St.,DEFENSE,Denzel,Bonner,TOT,7
+11424150,11/10/2018,FCS,Indiana St.,Illinois St.,DEFENSE,Denzel,Bonner,SOLO,4
+11424151,11/10/2018,FCS,Indiana St.,Illinois St.,DEFENSE,Denzel,Bonner,SACKS,0
+11424152,11/10/2018,FCS,Indiana St.,Illinois St.,DEFENSE,Denzel,Bonner,TFL,0
+11424153,11/10/2018,FCS,Indiana St.,Illinois St.,DEFENSE,Denzel,Bonner,INT,1
+11424154,11/10/2018,FCS,Indiana St.,Illinois St.,DEFENSE,Denzel,Bonner,FF,1
+11424155,11/10/2018,FCS,Indiana St.,Illinois St.,DEFENSE,Denzel,Bonner,FR,0

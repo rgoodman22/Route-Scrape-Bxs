@@ -1,0 +1,121 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9923001,11/19/2016,FCS,Montana State,Montana,RUSHING,Chris,Murray,ATT,26
+9923002,11/19/2016,FCS,Montana State,Montana,RUSHING,Chris,Murray,YDS,142
+9923003,11/19/2016,FCS,Montana State,Montana,RUSHING,Chris,Murray,TD,2
+9923004,11/19/2016,FCS,Montana State,Montana,RUSHING,Chris,Murray,LONG,48
+9923005,11/19/2016,FCS,Montana State,Montana,RUSHING,Gunnar,Brekke,ATT,10
+9923006,11/19/2016,FCS,Montana State,Montana,RUSHING,Gunnar,Brekke,YDS,96
+9923007,11/19/2016,FCS,Montana State,Montana,RUSHING,Gunnar,Brekke,TD,0
+9923008,11/19/2016,FCS,Montana State,Montana,RUSHING,Gunnar,Brekke,LONG,65
+9923009,11/19/2016,FCS,Montana State,Montana,RUSHING,Chad,Newell,ATT,20
+9923010,11/19/2016,FCS,Montana State,Montana,RUSHING,Chad,Newell,YDS,72
+9923011,11/19/2016,FCS,Montana State,Montana,RUSHING,Chad,Newell,TD,1
+9923012,11/19/2016,FCS,Montana State,Montana,RUSHING,Chad,Newell,LONG,26
+9923013,11/19/2016,FCS,Montana State,Montana,RUSHING,Nick,LaSane,ATT,2
+9923014,11/19/2016,FCS,Montana State,Montana,RUSHING,Nick,LaSane,YDS,62
+9923015,11/19/2016,FCS,Montana State,Montana,RUSHING,Nick,LaSane,TD,0
+9923016,11/19/2016,FCS,Montana State,Montana,RUSHING,Nick,LaSane,LONG,61
+9923017,11/19/2016,FCS,Montana State,Montana,RUSHING,Jayshawn,Gates,ATT,1
+9923018,11/19/2016,FCS,Montana State,Montana,RUSHING,Jayshawn,Gates,YDS,2
+9923019,11/19/2016,FCS,Montana State,Montana,RUSHING,Jayshawn,Gates,TD,0
+9923020,11/19/2016,FCS,Montana State,Montana,RUSHING,Jayshawn,Gates,LONG,2
+9923021,11/19/2016,FCS,Montana State,Montana,RUSHING,,Team,ATT,3
+9923022,11/19/2016,FCS,Montana State,Montana,RUSHING,,Team,YDS,-6
+9923023,11/19/2016,FCS,Montana State,Montana,RUSHING,,Team,TD,0
+9923024,11/19/2016,FCS,Montana State,Montana,RUSHING,,Team,LONG,0
+9923025,11/19/2016,FCS,Montana State,Montana,PASSING,Chris,Murray,CP-ATT-INT,2-9-0
+9923026,11/19/2016,FCS,Montana State,Montana,PASSING,Chris,Murray,YDS,37
+9923027,11/19/2016,FCS,Montana State,Montana,PASSING,Chris,Murray,TD,0
+9923028,11/19/2016,FCS,Montana State,Montana,PASSING,Chris,Murray,LONG,26
+9923029,11/19/2016,FCS,Montana State,Montana,PASSING,,Team,CP-ATT-INT,0-1-0
+9923030,11/19/2016,FCS,Montana State,Montana,PASSING,,Team,YDS,0
+9923031,11/19/2016,FCS,Montana State,Montana,PASSING,,Team,TD,0
+9923032,11/19/2016,FCS,Montana State,Montana,PASSING,,Team,LONG,0
+9923033,11/19/2016,FCS,Montana State,Montana,RECEIVING,Connor,Sullivan,REC,1
+9923034,11/19/2016,FCS,Montana State,Montana,RECEIVING,Connor,Sullivan,YDS,26
+9923035,11/19/2016,FCS,Montana State,Montana,RECEIVING,Connor,Sullivan,TD,0
+9923036,11/19/2016,FCS,Montana State,Montana,RECEIVING,Connor,Sullivan,LONG,26
+9923037,11/19/2016,FCS,Montana State,Montana,RECEIVING,Mitchell,Herbert,REC,1
+9923038,11/19/2016,FCS,Montana State,Montana,RECEIVING,Mitchell,Herbert,YDS,11
+9923039,11/19/2016,FCS,Montana State,Montana,RECEIVING,Mitchell,Herbert,TD,0
+9923040,11/19/2016,FCS,Montana State,Montana,RECEIVING,Mitchell,Herbert,LONG,11
+9923041,11/19/2016,FCS,Montana State,Montana,KICKING,Gabe,Peppenger,FG-FGA,1/3
+9923042,11/19/2016,FCS,Montana State,Montana,KICKING,Gabe,Peppenger,LONG,21
+9923043,11/19/2016,FCS,Montana State,Montana,KICKING,Gabe,Peppenger,XP,3
+9923044,11/19/2016,FCS,Montana State,Montana,KICKING,Gabe,Peppenger,PTS,6
+9923045,11/19/2016,FCS,Montana State,Montana,PUNTING,Jered,Padmos,NO,6
+9923046,11/19/2016,FCS,Montana State,Montana,PUNTING,Jered,Padmos,YDS,221
+9923047,11/19/2016,FCS,Montana State,Montana,PUNTING,Jered,Padmos,AVG,36.8
+9923048,11/19/2016,FCS,Montana State,Montana,PUNTING,Jered,Padmos,LONG,50
+9923049,11/19/2016,FCS,Montana State,Montana,PUNTING,Chris,Murray,NO,1
+9923050,11/19/2016,FCS,Montana State,Montana,PUNTING,Chris,Murray,YDS,31
+9923051,11/19/2016,FCS,Montana State,Montana,PUNTING,Chris,Murray,AVG,31.0
+9923052,11/19/2016,FCS,Montana State,Montana,PUNTING,Chris,Murray,LONG,31
+9923053,11/19/2016,FCS,Montana State,Montana,PUNT RETURNS,Kevin,Kassis,NO,2
+9923054,11/19/2016,FCS,Montana State,Montana,PUNT RETURNS,Kevin,Kassis,YDS,27
+9923055,11/19/2016,FCS,Montana State,Montana,PUNT RETURNS,Kevin,Kassis,AVG,13.5
+9923056,11/19/2016,FCS,Montana State,Montana,PUNT RETURNS,Kevin,Kassis,LONG,22
+9923057,11/19/2016,FCS,Montana State,Montana,KICK RETURNS,Gunnar,Brekke,NO,3
+9923058,11/19/2016,FCS,Montana State,Montana,KICK RETURNS,Gunnar,Brekke,YDS,39
+9923059,11/19/2016,FCS,Montana State,Montana,KICK RETURNS,Gunnar,Brekke,AVG,13.0
+9923060,11/19/2016,FCS,Montana State,Montana,KICK RETURNS,Gunnar,Brekke,LONG,17
+9923061,11/19/2016,FCS,Montana State,Montana,KICK RETURNS,Kevin,Kassis,NO,1
+9923062,11/19/2016,FCS,Montana State,Montana,KICK RETURNS,Kevin,Kassis,YDS,13
+9923063,11/19/2016,FCS,Montana State,Montana,KICK RETURNS,Kevin,Kassis,AVG,13.0
+9923064,11/19/2016,FCS,Montana State,Montana,KICK RETURNS,Kevin,Kassis,LONG,13
+9923065,11/19/2016,FCS,Montana,Montana State,RUSHING,Jeremy,Calhoun,ATT,8
+9923066,11/19/2016,FCS,Montana,Montana State,RUSHING,Jeremy,Calhoun,YDS,51
+9923067,11/19/2016,FCS,Montana,Montana State,RUSHING,Jeremy,Calhoun,TD,0
+9923068,11/19/2016,FCS,Montana,Montana State,RUSHING,Jeremy,Calhoun,LONG,19
+9923069,11/19/2016,FCS,Montana,Montana State,RUSHING,John,Nguyen,ATT,9
+9923070,11/19/2016,FCS,Montana,Montana State,RUSHING,John,Nguyen,YDS,39
+9923071,11/19/2016,FCS,Montana,Montana State,RUSHING,John,Nguyen,TD,0
+9923072,11/19/2016,FCS,Montana,Montana State,RUSHING,John,Nguyen,LONG,21
+9923073,11/19/2016,FCS,Montana,Montana State,RUSHING,Brady,Gustafson,ATT,5
+9923074,11/19/2016,FCS,Montana,Montana State,RUSHING,Brady,Gustafson,YDS,14
+9923075,11/19/2016,FCS,Montana,Montana State,RUSHING,Brady,Gustafson,TD,0
+9923076,11/19/2016,FCS,Montana,Montana State,RUSHING,Brady,Gustafson,LONG,7
+9923077,11/19/2016,FCS,Montana,Montana State,RUSHING,Joey,Counts,ATT,5
+9923078,11/19/2016,FCS,Montana,Montana State,RUSHING,Joey,Counts,YDS,10
+9923079,11/19/2016,FCS,Montana,Montana State,RUSHING,Joey,Counts,TD,1
+9923080,11/19/2016,FCS,Montana,Montana State,RUSHING,Joey,Counts,LONG,4
+9923081,11/19/2016,FCS,Montana,Montana State,RUSHING,,Team,ATT,1
+9923082,11/19/2016,FCS,Montana,Montana State,RUSHING,,Team,YDS,-1
+9923083,11/19/2016,FCS,Montana,Montana State,RUSHING,,Team,TD,0
+9923084,11/19/2016,FCS,Montana,Montana State,RUSHING,,Team,LONG,0
+9923085,11/19/2016,FCS,Montana,Montana State,PASSING,Brady,Gustafson,CP-ATT-INT,16-31-1
+9923086,11/19/2016,FCS,Montana,Montana State,PASSING,Brady,Gustafson,YDS,192
+9923087,11/19/2016,FCS,Montana,Montana State,PASSING,Brady,Gustafson,TD,1
+9923088,11/19/2016,FCS,Montana,Montana State,PASSING,Brady,Gustafson,LONG,58
+9923089,11/19/2016,FCS,Montana,Montana State,RECEIVING,Keenan,Curran,REC,6
+9923090,11/19/2016,FCS,Montana,Montana State,RECEIVING,Keenan,Curran,YDS,68
+9923091,11/19/2016,FCS,Montana,Montana State,RECEIVING,Keenan,Curran,TD,0
+9923092,11/19/2016,FCS,Montana,Montana State,RECEIVING,Keenan,Curran,LONG,37
+9923093,11/19/2016,FCS,Montana,Montana State,RECEIVING,Justin,Calhoun,REC,1
+9923094,11/19/2016,FCS,Montana,Montana State,RECEIVING,Justin,Calhoun,YDS,58
+9923095,11/19/2016,FCS,Montana,Montana State,RECEIVING,Justin,Calhoun,TD,1
+9923096,11/19/2016,FCS,Montana,Montana State,RECEIVING,Justin,Calhoun,LONG,58
+9923097,11/19/2016,FCS,Montana,Montana State,RECEIVING,Jerry,Louie-McGee,REC,6
+9923098,11/19/2016,FCS,Montana,Montana State,RECEIVING,Jerry,Louie-McGee,YDS,29
+9923099,11/19/2016,FCS,Montana,Montana State,RECEIVING,Jerry,Louie-McGee,TD,0
+9923100,11/19/2016,FCS,Montana,Montana State,RECEIVING,Jerry,Louie-McGee,LONG,12
+9923101,11/19/2016,FCS,Montana,Montana State,RECEIVING,Colin,Bingham,REC,1
+9923102,11/19/2016,FCS,Montana,Montana State,RECEIVING,Colin,Bingham,YDS,21
+9923103,11/19/2016,FCS,Montana,Montana State,RECEIVING,Colin,Bingham,TD,0
+9923104,11/19/2016,FCS,Montana,Montana State,RECEIVING,Colin,Bingham,LONG,17
+9923105,11/19/2016,FCS,Montana,Montana State,RECEIVING,John,Nguyen,REC,2
+9923106,11/19/2016,FCS,Montana,Montana State,RECEIVING,John,Nguyen,YDS,16
+9923107,11/19/2016,FCS,Montana,Montana State,RECEIVING,John,Nguyen,TD,0
+9923108,11/19/2016,FCS,Montana,Montana State,RECEIVING,John,Nguyen,LONG,18
+9923109,11/19/2016,FCS,Montana,Montana State,KICKING,Brandon,Purdy,FG-FGA,1/1
+9923110,11/19/2016,FCS,Montana,Montana State,KICKING,Brandon,Purdy,LONG,28
+9923111,11/19/2016,FCS,Montana,Montana State,KICKING,Brandon,Purdy,XP,2
+9923112,11/19/2016,FCS,Montana,Montana State,KICKING,Brandon,Purdy,PTS,5
+9923113,11/19/2016,FCS,Montana,Montana State,PUNTING,Eric,Williams,NO,7
+9923114,11/19/2016,FCS,Montana,Montana State,PUNTING,Eric,Williams,YDS,277
+9923115,11/19/2016,FCS,Montana,Montana State,PUNTING,Eric,Williams,AVG,39.6
+9923116,11/19/2016,FCS,Montana,Montana State,PUNTING,Eric,Williams,LONG,59
+9923117,11/19/2016,FCS,Montana,Montana State,KICK RETURNS,John,Nguyen,NO,2
+9923118,11/19/2016,FCS,Montana,Montana State,KICK RETURNS,John,Nguyen,YDS,42
+9923119,11/19/2016,FCS,Montana,Montana State,KICK RETURNS,John,Nguyen,AVG,21.0
+9923120,11/19/2016,FCS,Montana,Montana State,KICK RETURNS,John,Nguyen,LONG,24

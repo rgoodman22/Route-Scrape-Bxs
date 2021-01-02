@@ -1,0 +1,153 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+10388001,10/7/2017,FCS,Montana,Idaho State,RUSHING,Jeremy,Calhoun,ATT,15
+10388002,10/7/2017,FCS,Montana,Idaho State,RUSHING,Jeremy,Calhoun,YDS,90
+10388003,10/7/2017,FCS,Montana,Idaho State,RUSHING,Jeremy,Calhoun,TD,0
+10388004,10/7/2017,FCS,Montana,Idaho State,RUSHING,Jeremy,Calhoun,LONG,15
+10388005,10/7/2017,FCS,Montana,Idaho State,RUSHING,Alijah,Lee,ATT,12
+10388006,10/7/2017,FCS,Montana,Idaho State,RUSHING,Alijah,Lee,YDS,48
+10388007,10/7/2017,FCS,Montana,Idaho State,RUSHING,Alijah,Lee,TD,1
+10388008,10/7/2017,FCS,Montana,Idaho State,RUSHING,Alijah,Lee,LONG,13
+10388009,10/7/2017,FCS,Montana,Idaho State,RUSHING,Gresch,Jensen,ATT,10
+10388010,10/7/2017,FCS,Montana,Idaho State,RUSHING,Gresch,Jensen,YDS,23
+10388011,10/7/2017,FCS,Montana,Idaho State,RUSHING,Gresch,Jensen,TD,1
+10388012,10/7/2017,FCS,Montana,Idaho State,RUSHING,Gresch,Jensen,LONG,10
+10388013,10/7/2017,FCS,Montana,Idaho State,RUSHING,,Team,ATT,2
+10388014,10/7/2017,FCS,Montana,Idaho State,RUSHING,,Team,YDS,-2
+10388015,10/7/2017,FCS,Montana,Idaho State,RUSHING,,Team,TD,0
+10388016,10/7/2017,FCS,Montana,Idaho State,RUSHING,,Team,LONG,0
+10388017,10/7/2017,FCS,Montana,Idaho State,PASSING,Gresch,Jensen,CP-ATT-INT,23-35-0
+10388018,10/7/2017,FCS,Montana,Idaho State,PASSING,Gresch,Jensen,YDS,360
+10388019,10/7/2017,FCS,Montana,Idaho State,PASSING,Gresch,Jensen,TD,4
+10388020,10/7/2017,FCS,Montana,Idaho State,PASSING,Gresch,Jensen,LONG,71
+10388021,10/7/2017,FCS,Montana,Idaho State,RECEIVING,Justin,Calhoun,REC,3
+10388022,10/7/2017,FCS,Montana,Idaho State,RECEIVING,Justin,Calhoun,YDS,86
+10388023,10/7/2017,FCS,Montana,Idaho State,RECEIVING,Justin,Calhoun,TD,1
+10388024,10/7/2017,FCS,Montana,Idaho State,RECEIVING,Justin,Calhoun,LONG,46
+10388025,10/7/2017,FCS,Montana,Idaho State,RECEIVING,Samori,Toure,REC,3
+10388026,10/7/2017,FCS,Montana,Idaho State,RECEIVING,Samori,Toure,YDS,82
+10388027,10/7/2017,FCS,Montana,Idaho State,RECEIVING,Samori,Toure,TD,0
+10388028,10/7/2017,FCS,Montana,Idaho State,RECEIVING,Samori,Toure,LONG,71
+10388029,10/7/2017,FCS,Montana,Idaho State,RECEIVING,Jerry,Louie-McGee,REC,4
+10388030,10/7/2017,FCS,Montana,Idaho State,RECEIVING,Jerry,Louie-McGee,YDS,72
+10388031,10/7/2017,FCS,Montana,Idaho State,RECEIVING,Jerry,Louie-McGee,TD,0
+10388032,10/7/2017,FCS,Montana,Idaho State,RECEIVING,Jerry,Louie-McGee,LONG,33
+10388033,10/7/2017,FCS,Montana,Idaho State,RECEIVING,Samuel,Akem,REC,2
+10388034,10/7/2017,FCS,Montana,Idaho State,RECEIVING,Samuel,Akem,YDS,45
+10388035,10/7/2017,FCS,Montana,Idaho State,RECEIVING,Samuel,Akem,TD,1
+10388036,10/7/2017,FCS,Montana,Idaho State,RECEIVING,Samuel,Akem,LONG,41
+10388037,10/7/2017,FCS,Montana,Idaho State,RECEIVING,Keenan,Curran,REC,3
+10388038,10/7/2017,FCS,Montana,Idaho State,RECEIVING,Keenan,Curran,YDS,26
+10388039,10/7/2017,FCS,Montana,Idaho State,RECEIVING,Keenan,Curran,TD,0
+10388040,10/7/2017,FCS,Montana,Idaho State,RECEIVING,Keenan,Curran,LONG,14
+10388041,10/7/2017,FCS,Montana,Idaho State,RECEIVING,Josh,Horner,REC,3
+10388042,10/7/2017,FCS,Montana,Idaho State,RECEIVING,Josh,Horner,YDS,26
+10388043,10/7/2017,FCS,Montana,Idaho State,RECEIVING,Josh,Horner,TD,1
+10388044,10/7/2017,FCS,Montana,Idaho State,RECEIVING,Josh,Horner,LONG,11
+10388045,10/7/2017,FCS,Montana,Idaho State,RECEIVING,Jeremy,Calhoun,REC,2
+10388046,10/7/2017,FCS,Montana,Idaho State,RECEIVING,Jeremy,Calhoun,YDS,12
+10388047,10/7/2017,FCS,Montana,Idaho State,RECEIVING,Jeremy,Calhoun,TD,0
+10388048,10/7/2017,FCS,Montana,Idaho State,RECEIVING,Jeremy,Calhoun,LONG,16
+10388049,10/7/2017,FCS,Montana,Idaho State,RECEIVING,Alijah,Lee,REC,2
+10388050,10/7/2017,FCS,Montana,Idaho State,RECEIVING,Alijah,Lee,YDS,8
+10388051,10/7/2017,FCS,Montana,Idaho State,RECEIVING,Alijah,Lee,TD,0
+10388052,10/7/2017,FCS,Montana,Idaho State,RECEIVING,Alijah,Lee,LONG,4
+10388053,10/7/2017,FCS,Montana,Idaho State,RECEIVING,Makena,Simis,REC,1
+10388054,10/7/2017,FCS,Montana,Idaho State,RECEIVING,Makena,Simis,YDS,3
+10388055,10/7/2017,FCS,Montana,Idaho State,RECEIVING,Makena,Simis,TD,1
+10388056,10/7/2017,FCS,Montana,Idaho State,RECEIVING,Makena,Simis,LONG,3
+10388057,10/7/2017,FCS,Montana,Idaho State,KICKING,Brandon,Purdy,FG-FGA,0/1
+10388058,10/7/2017,FCS,Montana,Idaho State,KICKING,Brandon,Purdy,LONG,0
+10388059,10/7/2017,FCS,Montana,Idaho State,KICKING,Brandon,Purdy,XP,3
+10388060,10/7/2017,FCS,Montana,Idaho State,KICKING,Brandon,Purdy,PTS,3
+10388061,10/7/2017,FCS,Montana,Idaho State,PUNTING,Eric,Williams,NO,6
+10388062,10/7/2017,FCS,Montana,Idaho State,PUNTING,Eric,Williams,YDS,275
+10388063,10/7/2017,FCS,Montana,Idaho State,PUNTING,Eric,Williams,AVG,45.8
+10388064,10/7/2017,FCS,Montana,Idaho State,PUNTING,Eric,Williams,LONG,51
+10388065,10/7/2017,FCS,Montana,Idaho State,PUNT RETURNS,Jerry,Louie-McGee,NO,1
+10388066,10/7/2017,FCS,Montana,Idaho State,PUNT RETURNS,Jerry,Louie-McGee,YDS,2
+10388067,10/7/2017,FCS,Montana,Idaho State,PUNT RETURNS,Jerry,Louie-McGee,AVG,2.0
+10388068,10/7/2017,FCS,Montana,Idaho State,PUNT RETURNS,Jerry,Louie-McGee,LONG,0
+10388069,10/7/2017,FCS,Montana,Idaho State,KICK RETURNS,Kobey,Eaton,NO,5
+10388070,10/7/2017,FCS,Montana,Idaho State,KICK RETURNS,Kobey,Eaton,YDS,89
+10388071,10/7/2017,FCS,Montana,Idaho State,KICK RETURNS,Kobey,Eaton,AVG,17.8
+10388072,10/7/2017,FCS,Montana,Idaho State,KICK RETURNS,Kobey,Eaton,LONG,25
+10388073,10/7/2017,FCS,Montana,Idaho State,KICK RETURNS,Jeremy,Calhoun,NO,1
+10388074,10/7/2017,FCS,Montana,Idaho State,KICK RETURNS,Jeremy,Calhoun,YDS,1
+10388075,10/7/2017,FCS,Montana,Idaho State,KICK RETURNS,Jeremy,Calhoun,AVG,1.0
+10388076,10/7/2017,FCS,Montana,Idaho State,KICK RETURNS,Jeremy,Calhoun,LONG,1
+10388077,10/7/2017,FCS,Idaho State,Montana,RUSHING,James,Madison,ATT,18
+10388078,10/7/2017,FCS,Idaho State,Montana,RUSHING,James,Madison,YDS,88
+10388079,10/7/2017,FCS,Idaho State,Montana,RUSHING,James,Madison,TD,0
+10388080,10/7/2017,FCS,Idaho State,Montana,RUSHING,James,Madison,LONG,27
+10388081,10/7/2017,FCS,Idaho State,Montana,RUSHING,Ty,Flanagan,ATT,12
+10388082,10/7/2017,FCS,Idaho State,Montana,RUSHING,Ty,Flanagan,YDS,55
+10388083,10/7/2017,FCS,Idaho State,Montana,RUSHING,Ty,Flanagan,TD,1
+10388084,10/7/2017,FCS,Idaho State,Montana,RUSHING,Ty,Flanagan,LONG,15
+10388085,10/7/2017,FCS,Idaho State,Montana,RUSHING,Tanner,Gueller,ATT,16
+10388086,10/7/2017,FCS,Idaho State,Montana,RUSHING,Tanner,Gueller,YDS,13
+10388087,10/7/2017,FCS,Idaho State,Montana,RUSHING,Tanner,Gueller,TD,0
+10388088,10/7/2017,FCS,Idaho State,Montana,RUSHING,Tanner,Gueller,LONG,21
+10388089,10/7/2017,FCS,Idaho State,Montana,RUSHING,Michael,Dean,ATT,2
+10388090,10/7/2017,FCS,Idaho State,Montana,RUSHING,Michael,Dean,YDS,9
+10388091,10/7/2017,FCS,Idaho State,Montana,RUSHING,Michael,Dean,TD,0
+10388092,10/7/2017,FCS,Idaho State,Montana,RUSHING,Michael,Dean,LONG,7
+10388093,10/7/2017,FCS,Idaho State,Montana,PASSING,Tanner,Gueller,CP-ATT-INT,25-40-0
+10388094,10/7/2017,FCS,Idaho State,Montana,PASSING,Tanner,Gueller,YDS,359
+10388095,10/7/2017,FCS,Idaho State,Montana,PASSING,Tanner,Gueller,TD,3
+10388096,10/7/2017,FCS,Idaho State,Montana,PASSING,Tanner,Gueller,LONG,75
+10388097,10/7/2017,FCS,Idaho State,Montana,PASSING,Mitch,Gueller,CP-ATT-INT,1-1-0
+10388098,10/7/2017,FCS,Idaho State,Montana,PASSING,Mitch,Gueller,YDS,8
+10388099,10/7/2017,FCS,Idaho State,Montana,PASSING,Mitch,Gueller,TD,0
+10388100,10/7/2017,FCS,Idaho State,Montana,PASSING,Mitch,Gueller,LONG,8
+10388101,10/7/2017,FCS,Idaho State,Montana,RECEIVING,Mitch,Gueller,REC,9
+10388102,10/7/2017,FCS,Idaho State,Montana,RECEIVING,Mitch,Gueller,YDS,188
+10388103,10/7/2017,FCS,Idaho State,Montana,RECEIVING,Mitch,Gueller,TD,2
+10388104,10/7/2017,FCS,Idaho State,Montana,RECEIVING,Mitch,Gueller,LONG,75
+10388105,10/7/2017,FCS,Idaho State,Montana,RECEIVING,James,Madison,REC,3
+10388106,10/7/2017,FCS,Idaho State,Montana,RECEIVING,James,Madison,YDS,48
+10388107,10/7/2017,FCS,Idaho State,Montana,RECEIVING,James,Madison,TD,1
+10388108,10/7/2017,FCS,Idaho State,Montana,RECEIVING,James,Madison,LONG,22
+10388109,10/7/2017,FCS,Idaho State,Montana,RECEIVING,Michael,Dean,REC,6
+10388110,10/7/2017,FCS,Idaho State,Montana,RECEIVING,Michael,Dean,YDS,40
+10388111,10/7/2017,FCS,Idaho State,Montana,RECEIVING,Michael,Dean,TD,0
+10388112,10/7/2017,FCS,Idaho State,Montana,RECEIVING,Michael,Dean,LONG,13
+10388113,10/7/2017,FCS,Idaho State,Montana,RECEIVING,Nate,Page,REC,2
+10388114,10/7/2017,FCS,Idaho State,Montana,RECEIVING,Nate,Page,YDS,30
+10388115,10/7/2017,FCS,Idaho State,Montana,RECEIVING,Nate,Page,TD,0
+10388116,10/7/2017,FCS,Idaho State,Montana,RECEIVING,Nate,Page,LONG,16
+10388117,10/7/2017,FCS,Idaho State,Montana,RECEIVING,Ty,Flanagan,REC,2
+10388118,10/7/2017,FCS,Idaho State,Montana,RECEIVING,Ty,Flanagan,YDS,26
+10388119,10/7/2017,FCS,Idaho State,Montana,RECEIVING,Ty,Flanagan,TD,0
+10388120,10/7/2017,FCS,Idaho State,Montana,RECEIVING,Ty,Flanagan,LONG,16
+10388121,10/7/2017,FCS,Idaho State,Montana,RECEIVING,Hagen,Graves,REC,2
+10388122,10/7/2017,FCS,Idaho State,Montana,RECEIVING,Hagen,Graves,YDS,15
+10388123,10/7/2017,FCS,Idaho State,Montana,RECEIVING,Hagen,Graves,TD,0
+10388124,10/7/2017,FCS,Idaho State,Montana,RECEIVING,Hagen,Graves,LONG,15
+10388125,10/7/2017,FCS,Idaho State,Montana,RECEIVING,Austin,Campbell,REC,1
+10388126,10/7/2017,FCS,Idaho State,Montana,RECEIVING,Austin,Campbell,YDS,12
+10388127,10/7/2017,FCS,Idaho State,Montana,RECEIVING,Austin,Campbell,TD,0
+10388128,10/7/2017,FCS,Idaho State,Montana,RECEIVING,Austin,Campbell,LONG,12
+10388129,10/7/2017,FCS,Idaho State,Montana,RECEIVING,Tanner,Gueller,REC,1
+10388130,10/7/2017,FCS,Idaho State,Montana,RECEIVING,Tanner,Gueller,YDS,8
+10388131,10/7/2017,FCS,Idaho State,Montana,RECEIVING,Tanner,Gueller,TD,0
+10388132,10/7/2017,FCS,Idaho State,Montana,RECEIVING,Tanner,Gueller,LONG,8
+10388133,10/7/2017,FCS,Idaho State,Montana,KICKING,Parker,Johnson,FG-FGA,1/1
+10388134,10/7/2017,FCS,Idaho State,Montana,KICKING,Parker,Johnson,LONG,35
+10388135,10/7/2017,FCS,Idaho State,Montana,KICKING,Parker,Johnson,XP,4
+10388136,10/7/2017,FCS,Idaho State,Montana,KICKING,Parker,Johnson,PTS,7
+10388137,10/7/2017,FCS,Idaho State,Montana,PUNTING,Sean,Cheney,NO,6
+10388138,10/7/2017,FCS,Idaho State,Montana,PUNTING,Sean,Cheney,YDS,223
+10388139,10/7/2017,FCS,Idaho State,Montana,PUNTING,Sean,Cheney,AVG,37.2
+10388140,10/7/2017,FCS,Idaho State,Montana,PUNTING,Sean,Cheney,LONG,45
+10388141,10/7/2017,FCS,Idaho State,Montana,PUNTING,,Team,NO,1
+10388142,10/7/2017,FCS,Idaho State,Montana,PUNTING,,Team,YDS,0
+10388143,10/7/2017,FCS,Idaho State,Montana,PUNTING,,Team,AVG,-
+10388144,10/7/2017,FCS,Idaho State,Montana,PUNTING,,Team,LONG,0
+10388145,10/7/2017,FCS,Idaho State,Montana,PUNT RETURNS,Kieran,Yancy,NO,1
+10388146,10/7/2017,FCS,Idaho State,Montana,PUNT RETURNS,Kieran,Yancy,YDS,8
+10388147,10/7/2017,FCS,Idaho State,Montana,PUNT RETURNS,Kieran,Yancy,AVG,8.0
+10388148,10/7/2017,FCS,Idaho State,Montana,PUNT RETURNS,Kieran,Yancy,LONG,8
+10388149,10/7/2017,FCS,Idaho State,Montana,KICK RETURNS,Kieran,Yancy,NO,3
+10388150,10/7/2017,FCS,Idaho State,Montana,KICK RETURNS,Kieran,Yancy,YDS,60
+10388151,10/7/2017,FCS,Idaho State,Montana,KICK RETURNS,Kieran,Yancy,AVG,20.0
+10388152,10/7/2017,FCS,Idaho State,Montana,KICK RETURNS,Kieran,Yancy,LONG,26

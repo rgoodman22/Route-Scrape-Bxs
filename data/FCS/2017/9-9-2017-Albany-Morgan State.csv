@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+10130001,9/9/2017,FCS,Albany,Morgan State,RUSHING,Karl,Mofor,ATT,18
+10130002,9/9/2017,FCS,Albany,Morgan State,RUSHING,Karl,Mofor,YDS,98
+10130003,9/9/2017,FCS,Albany,Morgan State,RUSHING,Karl,Mofor,TD,2
+10130004,9/9/2017,FCS,Albany,Morgan State,RUSHING,Karl,Mofor,LONG,29
+10130005,9/9/2017,FCS,Albany,Morgan State,RUSHING,Kendall,RodgersJr.,ATT,8
+10130006,9/9/2017,FCS,Albany,Morgan State,RUSHING,Kendall,RodgersJr.,YDS,60
+10130007,9/9/2017,FCS,Albany,Morgan State,RUSHING,Kendall,RodgersJr.,TD,0
+10130008,9/9/2017,FCS,Albany,Morgan State,RUSHING,Kendall,RodgersJr.,LONG,27
+10130009,9/9/2017,FCS,Albany,Morgan State,RUSHING,Neven,Sussman,ATT,11
+10130010,9/9/2017,FCS,Albany,Morgan State,RUSHING,Neven,Sussman,YDS,48
+10130011,9/9/2017,FCS,Albany,Morgan State,RUSHING,Neven,Sussman,TD,0
+10130012,9/9/2017,FCS,Albany,Morgan State,RUSHING,Neven,Sussman,LONG,14
+10130013,9/9/2017,FCS,Albany,Morgan State,RUSHING,Will,Brunson,ATT,6
+10130014,9/9/2017,FCS,Albany,Morgan State,RUSHING,Will,Brunson,YDS,4
+10130015,9/9/2017,FCS,Albany,Morgan State,RUSHING,Will,Brunson,TD,0
+10130016,9/9/2017,FCS,Albany,Morgan State,RUSHING,Will,Brunson,LONG,11
+10130017,9/9/2017,FCS,Albany,Morgan State,RUSHING,,Team,ATT,2
+10130018,9/9/2017,FCS,Albany,Morgan State,RUSHING,,Team,YDS,-4
+10130019,9/9/2017,FCS,Albany,Morgan State,RUSHING,,Team,TD,0
+10130020,9/9/2017,FCS,Albany,Morgan State,RUSHING,,Team,LONG,0
+10130021,9/9/2017,FCS,Albany,Morgan State,RUSHING,Donovan,McDonald,ATT,1
+10130022,9/9/2017,FCS,Albany,Morgan State,RUSHING,Donovan,McDonald,YDS,-9
+10130023,9/9/2017,FCS,Albany,Morgan State,RUSHING,Donovan,McDonald,TD,0
+10130024,9/9/2017,FCS,Albany,Morgan State,RUSHING,Donovan,McDonald,LONG,0
+10130025,9/9/2017,FCS,Albany,Morgan State,PASSING,Will,Brunson,CP-ATT-INT,10-21-0
+10130026,9/9/2017,FCS,Albany,Morgan State,PASSING,Will,Brunson,YDS,143
+10130027,9/9/2017,FCS,Albany,Morgan State,PASSING,Will,Brunson,TD,1
+10130028,9/9/2017,FCS,Albany,Morgan State,PASSING,Will,Brunson,LONG,34
+10130029,9/9/2017,FCS,Albany,Morgan State,RECEIVING,Jordan,Crockett,REC,2
+10130030,9/9/2017,FCS,Albany,Morgan State,RECEIVING,Jordan,Crockett,YDS,55
+10130031,9/9/2017,FCS,Albany,Morgan State,RECEIVING,Jordan,Crockett,TD,1
+10130032,9/9/2017,FCS,Albany,Morgan State,RECEIVING,Jordan,Crockett,LONG,34
+10130033,9/9/2017,FCS,Albany,Morgan State,RECEIVING,Jerod,Diggs,REC,3
+10130034,9/9/2017,FCS,Albany,Morgan State,RECEIVING,Jerod,Diggs,YDS,46
+10130035,9/9/2017,FCS,Albany,Morgan State,RECEIVING,Jerod,Diggs,TD,0
+10130036,9/9/2017,FCS,Albany,Morgan State,RECEIVING,Jerod,Diggs,LONG,30
+10130037,9/9/2017,FCS,Albany,Morgan State,RECEIVING,Brad,Harris,REC,4
+10130038,9/9/2017,FCS,Albany,Morgan State,RECEIVING,Brad,Harris,YDS,40
+10130039,9/9/2017,FCS,Albany,Morgan State,RECEIVING,Brad,Harris,TD,0
+10130040,9/9/2017,FCS,Albany,Morgan State,RECEIVING,Brad,Harris,LONG,15
+10130041,9/9/2017,FCS,Albany,Morgan State,RECEIVING,Karl,Mofor,REC,1
+10130042,9/9/2017,FCS,Albany,Morgan State,RECEIVING,Karl,Mofor,YDS,2
+10130043,9/9/2017,FCS,Albany,Morgan State,RECEIVING,Karl,Mofor,TD,0
+10130044,9/9/2017,FCS,Albany,Morgan State,RECEIVING,Karl,Mofor,LONG,2
+10130045,9/9/2017,FCS,Albany,Morgan State,KICKING,Ethan,Stark,FG-FGA,2/2
+10130046,9/9/2017,FCS,Albany,Morgan State,KICKING,Ethan,Stark,LONG,41
+10130047,9/9/2017,FCS,Albany,Morgan State,KICKING,Ethan,Stark,XP,2
+10130048,9/9/2017,FCS,Albany,Morgan State,KICKING,Ethan,Stark,PTS,8
+10130049,9/9/2017,FCS,Albany,Morgan State,PUNTING,Neven,Sussman,NO,5
+10130050,9/9/2017,FCS,Albany,Morgan State,PUNTING,Neven,Sussman,YDS,212
+10130051,9/9/2017,FCS,Albany,Morgan State,PUNTING,Neven,Sussman,AVG,42.4
+10130052,9/9/2017,FCS,Albany,Morgan State,PUNTING,Neven,Sussman,LONG,53
+10130053,9/9/2017,FCS,Albany,Morgan State,PUNT RETURNS,Donovan,McDonald,NO,1
+10130054,9/9/2017,FCS,Albany,Morgan State,PUNT RETURNS,Donovan,McDonald,YDS,15
+10130055,9/9/2017,FCS,Albany,Morgan State,PUNT RETURNS,Donovan,McDonald,AVG,15.0
+10130056,9/9/2017,FCS,Albany,Morgan State,PUNT RETURNS,Donovan,McDonald,LONG,15
+10130057,9/9/2017,FCS,Albany,Morgan State,KICK RETURNS,Aaqil,Sheppard,NO,1
+10130058,9/9/2017,FCS,Albany,Morgan State,KICK RETURNS,Aaqil,Sheppard,YDS,0
+10130059,9/9/2017,FCS,Albany,Morgan State,KICK RETURNS,Aaqil,Sheppard,AVG,-
+10130060,9/9/2017,FCS,Albany,Morgan State,KICK RETURNS,Aaqil,Sheppard,LONG,0
+10130061,9/9/2017,FCS,Morgan State,Albany,RUSHING,Elijah,Staley,ATT,5
+10130062,9/9/2017,FCS,Morgan State,Albany,RUSHING,Elijah,Staley,YDS,30
+10130063,9/9/2017,FCS,Morgan State,Albany,RUSHING,Elijah,Staley,TD,0
+10130064,9/9/2017,FCS,Morgan State,Albany,RUSHING,Elijah,Staley,LONG,18
+10130065,9/9/2017,FCS,Morgan State,Albany,RUSHING,Eric,Harrell,ATT,4
+10130066,9/9/2017,FCS,Morgan State,Albany,RUSHING,Eric,Harrell,YDS,17
+10130067,9/9/2017,FCS,Morgan State,Albany,RUSHING,Eric,Harrell,TD,0
+10130068,9/9/2017,FCS,Morgan State,Albany,RUSHING,Eric,Harrell,LONG,10
+10130069,9/9/2017,FCS,Morgan State,Albany,RUSHING,Manassah,Bailey,ATT,3
+10130070,9/9/2017,FCS,Morgan State,Albany,RUSHING,Manassah,Bailey,YDS,9
+10130071,9/9/2017,FCS,Morgan State,Albany,RUSHING,Manassah,Bailey,TD,0
+10130072,9/9/2017,FCS,Morgan State,Albany,RUSHING,Manassah,Bailey,LONG,6
+10130073,9/9/2017,FCS,Morgan State,Albany,RUSHING,Herb,WalkerJr.,ATT,11
+10130074,9/9/2017,FCS,Morgan State,Albany,RUSHING,Herb,WalkerJr.,YDS,8
+10130075,9/9/2017,FCS,Morgan State,Albany,RUSHING,Herb,WalkerJr.,TD,0
+10130076,9/9/2017,FCS,Morgan State,Albany,RUSHING,Herb,WalkerJr.,LONG,3
+10130077,9/9/2017,FCS,Morgan State,Albany,PASSING,Elijah,Staley,CP-ATT-INT,18-40-0
+10130078,9/9/2017,FCS,Morgan State,Albany,PASSING,Elijah,Staley,YDS,170
+10130079,9/9/2017,FCS,Morgan State,Albany,PASSING,Elijah,Staley,TD,0
+10130080,9/9/2017,FCS,Morgan State,Albany,PASSING,Elijah,Staley,LONG,22
+10130081,9/9/2017,FCS,Morgan State,Albany,RECEIVING,Manassah,Bailey,REC,4
+10130082,9/9/2017,FCS,Morgan State,Albany,RECEIVING,Manassah,Bailey,YDS,57
+10130083,9/9/2017,FCS,Morgan State,Albany,RECEIVING,Manassah,Bailey,TD,0
+10130084,9/9/2017,FCS,Morgan State,Albany,RECEIVING,Manassah,Bailey,LONG,22
+10130085,9/9/2017,FCS,Morgan State,Albany,RECEIVING,Torrance,Little,REC,3
+10130086,9/9/2017,FCS,Morgan State,Albany,RECEIVING,Torrance,Little,YDS,52
+10130087,9/9/2017,FCS,Morgan State,Albany,RECEIVING,Torrance,Little,TD,0
+10130088,9/9/2017,FCS,Morgan State,Albany,RECEIVING,Torrance,Little,LONG,22
+10130089,9/9/2017,FCS,Morgan State,Albany,RECEIVING,Brandon,Jones,REC,3
+10130090,9/9/2017,FCS,Morgan State,Albany,RECEIVING,Brandon,Jones,YDS,26
+10130091,9/9/2017,FCS,Morgan State,Albany,RECEIVING,Brandon,Jones,TD,0
+10130092,9/9/2017,FCS,Morgan State,Albany,RECEIVING,Brandon,Jones,LONG,14
+10130093,9/9/2017,FCS,Morgan State,Albany,RECEIVING,Amonta,Poteat,REC,2
+10130094,9/9/2017,FCS,Morgan State,Albany,RECEIVING,Amonta,Poteat,YDS,21
+10130095,9/9/2017,FCS,Morgan State,Albany,RECEIVING,Amonta,Poteat,TD,0
+10130096,9/9/2017,FCS,Morgan State,Albany,RECEIVING,Amonta,Poteat,LONG,14
+10130097,9/9/2017,FCS,Morgan State,Albany,RECEIVING,Daylen,Baldwin,REC,1
+10130098,9/9/2017,FCS,Morgan State,Albany,RECEIVING,Daylen,Baldwin,YDS,9
+10130099,9/9/2017,FCS,Morgan State,Albany,RECEIVING,Daylen,Baldwin,TD,0
+10130100,9/9/2017,FCS,Morgan State,Albany,RECEIVING,Daylen,Baldwin,LONG,9
+10130101,9/9/2017,FCS,Morgan State,Albany,RECEIVING,Eric,Harrell,REC,1
+10130102,9/9/2017,FCS,Morgan State,Albany,RECEIVING,Eric,Harrell,YDS,6
+10130103,9/9/2017,FCS,Morgan State,Albany,RECEIVING,Eric,Harrell,TD,0
+10130104,9/9/2017,FCS,Morgan State,Albany,RECEIVING,Eric,Harrell,LONG,6
+10130105,9/9/2017,FCS,Morgan State,Albany,RECEIVING,Herb,WalkerJr.,REC,3
+10130106,9/9/2017,FCS,Morgan State,Albany,RECEIVING,Herb,WalkerJr.,YDS,2
+10130107,9/9/2017,FCS,Morgan State,Albany,RECEIVING,Herb,WalkerJr.,TD,0
+10130108,9/9/2017,FCS,Morgan State,Albany,RECEIVING,Herb,WalkerJr.,LONG,8
+10130109,9/9/2017,FCS,Morgan State,Albany,RECEIVING,Dushon,David,REC,1
+10130110,9/9/2017,FCS,Morgan State,Albany,RECEIVING,Dushon,David,YDS,-3
+10130111,9/9/2017,FCS,Morgan State,Albany,RECEIVING,Dushon,David,TD,0
+10130112,9/9/2017,FCS,Morgan State,Albany,RECEIVING,Dushon,David,LONG,0
+10130113,9/9/2017,FCS,Morgan State,Albany,PUNTING,Julian,Jacobs,NO,5
+10130114,9/9/2017,FCS,Morgan State,Albany,PUNTING,Julian,Jacobs,YDS,170
+10130115,9/9/2017,FCS,Morgan State,Albany,PUNTING,Julian,Jacobs,AVG,34.0
+10130116,9/9/2017,FCS,Morgan State,Albany,PUNTING,Julian,Jacobs,LONG,43
+10130117,9/9/2017,FCS,Morgan State,Albany,PUNTING,Luke,Uransel,NO,1
+10130118,9/9/2017,FCS,Morgan State,Albany,PUNTING,Luke,Uransel,YDS,8
+10130119,9/9/2017,FCS,Morgan State,Albany,PUNTING,Luke,Uransel,AVG,8.0
+10130120,9/9/2017,FCS,Morgan State,Albany,PUNTING,Luke,Uransel,LONG,8
+10130121,9/9/2017,FCS,Morgan State,Albany,PUNT RETURNS,Carl,Garnes,NO,2
+10130122,9/9/2017,FCS,Morgan State,Albany,PUNT RETURNS,Carl,Garnes,YDS,14
+10130123,9/9/2017,FCS,Morgan State,Albany,PUNT RETURNS,Carl,Garnes,AVG,7.0
+10130124,9/9/2017,FCS,Morgan State,Albany,PUNT RETURNS,Carl,Garnes,LONG,8
+10130125,9/9/2017,FCS,Morgan State,Albany,KICK RETURNS,Deontaye,White,NO,1
+10130126,9/9/2017,FCS,Morgan State,Albany,KICK RETURNS,Deontaye,White,YDS,26
+10130127,9/9/2017,FCS,Morgan State,Albany,KICK RETURNS,Deontaye,White,AVG,26.0
+10130128,9/9/2017,FCS,Morgan State,Albany,KICK RETURNS,Deontaye,White,LONG,18
+10130129,9/9/2017,FCS,Morgan State,Albany,KICK RETURNS,Manassah,Bailey,NO,1
+10130130,9/9/2017,FCS,Morgan State,Albany,KICK RETURNS,Manassah,Bailey,YDS,22
+10130131,9/9/2017,FCS,Morgan State,Albany,KICK RETURNS,Manassah,Bailey,AVG,22.0
+10130132,9/9/2017,FCS,Morgan State,Albany,KICK RETURNS,Manassah,Bailey,LONG,22
+10130133,9/9/2017,FCS,Morgan State,Albany,KICK RETURNS,Amonta,Poteat,NO,1
+10130134,9/9/2017,FCS,Morgan State,Albany,KICK RETURNS,Amonta,Poteat,YDS,19
+10130135,9/9/2017,FCS,Morgan State,Albany,KICK RETURNS,Amonta,Poteat,AVG,19.0
+10130136,9/9/2017,FCS,Morgan State,Albany,KICK RETURNS,Amonta,Poteat,LONG,19

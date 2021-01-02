@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9567001,10/8/2016,FCS,Columbia,Wagner,RUSHING,Alan,Watson,ATT,23
+9567002,10/8/2016,FCS,Columbia,Wagner,RUSHING,Alan,Watson,YDS,107
+9567003,10/8/2016,FCS,Columbia,Wagner,RUSHING,Alan,Watson,TD,0
+9567004,10/8/2016,FCS,Columbia,Wagner,RUSHING,Alan,Watson,LONG,24
+9567005,10/8/2016,FCS,Columbia,Wagner,RUSHING,Anders,Hill,ATT,23
+9567006,10/8/2016,FCS,Columbia,Wagner,RUSHING,Anders,Hill,YDS,59
+9567007,10/8/2016,FCS,Columbia,Wagner,RUSHING,Anders,Hill,TD,0
+9567008,10/8/2016,FCS,Columbia,Wagner,RUSHING,Anders,Hill,LONG,28
+9567009,10/8/2016,FCS,Columbia,Wagner,RUSHING,Tanner,Thomas,ATT,3
+9567010,10/8/2016,FCS,Columbia,Wagner,RUSHING,Tanner,Thomas,YDS,6
+9567011,10/8/2016,FCS,Columbia,Wagner,RUSHING,Tanner,Thomas,TD,0
+9567012,10/8/2016,FCS,Columbia,Wagner,RUSHING,Tanner,Thomas,LONG,3
+9567013,10/8/2016,FCS,Columbia,Wagner,RUSHING,Skyler,Mornhinweg,ATT,1
+9567014,10/8/2016,FCS,Columbia,Wagner,RUSHING,Skyler,Mornhinweg,YDS,0
+9567015,10/8/2016,FCS,Columbia,Wagner,RUSHING,Skyler,Mornhinweg,TD,0
+9567016,10/8/2016,FCS,Columbia,Wagner,RUSHING,Skyler,Mornhinweg,LONG,0
+9567017,10/8/2016,FCS,Columbia,Wagner,RUSHING,,Team,ATT,2
+9567018,10/8/2016,FCS,Columbia,Wagner,RUSHING,,Team,YDS,-10
+9567019,10/8/2016,FCS,Columbia,Wagner,RUSHING,,Team,TD,0
+9567020,10/8/2016,FCS,Columbia,Wagner,RUSHING,,Team,LONG,0
+9567021,10/8/2016,FCS,Columbia,Wagner,PASSING,Anders,Hill,CP-ATT-INT,16-29-0
+9567022,10/8/2016,FCS,Columbia,Wagner,PASSING,Anders,Hill,YDS,129
+9567023,10/8/2016,FCS,Columbia,Wagner,PASSING,Anders,Hill,TD,0
+9567024,10/8/2016,FCS,Columbia,Wagner,PASSING,Anders,Hill,LONG,21
+9567025,10/8/2016,FCS,Columbia,Wagner,PASSING,,Team,CP-ATT-INT,0-1-0
+9567026,10/8/2016,FCS,Columbia,Wagner,PASSING,,Team,YDS,0
+9567027,10/8/2016,FCS,Columbia,Wagner,PASSING,,Team,TD,0
+9567028,10/8/2016,FCS,Columbia,Wagner,PASSING,,Team,LONG,0
+9567029,10/8/2016,FCS,Columbia,Wagner,RECEIVING,Josh,Wainwright,REC,10
+9567030,10/8/2016,FCS,Columbia,Wagner,RECEIVING,Josh,Wainwright,YDS,81
+9567031,10/8/2016,FCS,Columbia,Wagner,RECEIVING,Josh,Wainwright,TD,0
+9567032,10/8/2016,FCS,Columbia,Wagner,RECEIVING,Josh,Wainwright,LONG,21
+9567033,10/8/2016,FCS,Columbia,Wagner,RECEIVING,Cameron,Dunn,REC,3
+9567034,10/8/2016,FCS,Columbia,Wagner,RECEIVING,Cameron,Dunn,YDS,25
+9567035,10/8/2016,FCS,Columbia,Wagner,RECEIVING,Cameron,Dunn,TD,0
+9567036,10/8/2016,FCS,Columbia,Wagner,RECEIVING,Cameron,Dunn,LONG,13
+9567037,10/8/2016,FCS,Columbia,Wagner,RECEIVING,Scooter,Hollis,REC,2
+9567038,10/8/2016,FCS,Columbia,Wagner,RECEIVING,Scooter,Hollis,YDS,15
+9567039,10/8/2016,FCS,Columbia,Wagner,RECEIVING,Scooter,Hollis,TD,0
+9567040,10/8/2016,FCS,Columbia,Wagner,RECEIVING,Scooter,Hollis,LONG,8
+9567041,10/8/2016,FCS,Columbia,Wagner,RECEIVING,John,Hunton,REC,1
+9567042,10/8/2016,FCS,Columbia,Wagner,RECEIVING,John,Hunton,YDS,8
+9567043,10/8/2016,FCS,Columbia,Wagner,RECEIVING,John,Hunton,TD,0
+9567044,10/8/2016,FCS,Columbia,Wagner,RECEIVING,John,Hunton,LONG,8
+9567045,10/8/2016,FCS,Columbia,Wagner,KICKING,Oren,Milstein,FG-FGA,5/5
+9567046,10/8/2016,FCS,Columbia,Wagner,KICKING,Oren,Milstein,LONG,39
+9567047,10/8/2016,FCS,Columbia,Wagner,KICKING,Oren,Milstein,XP,0
+9567048,10/8/2016,FCS,Columbia,Wagner,KICKING,Oren,Milstein,PTS,15
+9567049,10/8/2016,FCS,Columbia,Wagner,PUNTING,Matthew,Panton,NO,4
+9567050,10/8/2016,FCS,Columbia,Wagner,PUNTING,Matthew,Panton,YDS,166
+9567051,10/8/2016,FCS,Columbia,Wagner,PUNTING,Matthew,Panton,AVG,41.5
+9567052,10/8/2016,FCS,Columbia,Wagner,PUNTING,Matthew,Panton,LONG,45
+9567053,10/8/2016,FCS,Columbia,Wagner,PUNTING,Cameron,Nizialek,NO,3
+9567054,10/8/2016,FCS,Columbia,Wagner,PUNTING,Cameron,Nizialek,YDS,126
+9567055,10/8/2016,FCS,Columbia,Wagner,PUNTING,Cameron,Nizialek,AVG,42.0
+9567056,10/8/2016,FCS,Columbia,Wagner,PUNTING,Cameron,Nizialek,LONG,48
+9567057,10/8/2016,FCS,Columbia,Wagner,PUNT RETURNS,Lynnard,Rose,NO,1
+9567058,10/8/2016,FCS,Columbia,Wagner,PUNT RETURNS,Lynnard,Rose,YDS,20
+9567059,10/8/2016,FCS,Columbia,Wagner,PUNT RETURNS,Lynnard,Rose,AVG,20.0
+9567060,10/8/2016,FCS,Columbia,Wagner,PUNT RETURNS,Lynnard,Rose,LONG,20
+9567061,10/8/2016,FCS,Columbia,Wagner,KICK RETURNS,Tanner,Thomas,NO,1
+9567062,10/8/2016,FCS,Columbia,Wagner,KICK RETURNS,Tanner,Thomas,YDS,10
+9567063,10/8/2016,FCS,Columbia,Wagner,KICK RETURNS,Tanner,Thomas,AVG,10.0
+9567064,10/8/2016,FCS,Columbia,Wagner,KICK RETURNS,Tanner,Thomas,LONG,10
+9567065,10/8/2016,FCS,Wagner,Columbia,RUSHING,Franklin,Labady,ATT,3
+9567066,10/8/2016,FCS,Wagner,Columbia,RUSHING,Franklin,Labady,YDS,64
+9567067,10/8/2016,FCS,Wagner,Columbia,RUSHING,Franklin,Labady,TD,0
+9567068,10/8/2016,FCS,Wagner,Columbia,RUSHING,Franklin,Labady,LONG,54
+9567069,10/8/2016,FCS,Wagner,Columbia,RUSHING,Matthias,McKinnon,ATT,20
+9567070,10/8/2016,FCS,Wagner,Columbia,RUSHING,Matthias,McKinnon,YDS,54
+9567071,10/8/2016,FCS,Wagner,Columbia,RUSHING,Matthias,McKinnon,TD,0
+9567072,10/8/2016,FCS,Wagner,Columbia,RUSHING,Matthias,McKinnon,LONG,9
+9567073,10/8/2016,FCS,Wagner,Columbia,RUSHING,Denzel,Knight,ATT,5
+9567074,10/8/2016,FCS,Wagner,Columbia,RUSHING,Denzel,Knight,YDS,16
+9567075,10/8/2016,FCS,Wagner,Columbia,RUSHING,Denzel,Knight,TD,0
+9567076,10/8/2016,FCS,Wagner,Columbia,RUSHING,Denzel,Knight,LONG,8
+9567077,10/8/2016,FCS,Wagner,Columbia,RUSHING,Brandon,Peoples,ATT,1
+9567078,10/8/2016,FCS,Wagner,Columbia,RUSHING,Brandon,Peoples,YDS,13
+9567079,10/8/2016,FCS,Wagner,Columbia,RUSHING,Brandon,Peoples,TD,0
+9567080,10/8/2016,FCS,Wagner,Columbia,RUSHING,Brandon,Peoples,LONG,13
+9567081,10/8/2016,FCS,Wagner,Columbia,RUSHING,,Team,ATT,1
+9567082,10/8/2016,FCS,Wagner,Columbia,RUSHING,,Team,YDS,1
+9567083,10/8/2016,FCS,Wagner,Columbia,RUSHING,,Team,TD,0
+9567084,10/8/2016,FCS,Wagner,Columbia,RUSHING,,Team,LONG,1
+9567085,10/8/2016,FCS,Wagner,Columbia,RUSHING,Alex,Thomson,ATT,5
+9567086,10/8/2016,FCS,Wagner,Columbia,RUSHING,Alex,Thomson,YDS,-27
+9567087,10/8/2016,FCS,Wagner,Columbia,RUSHING,Alex,Thomson,TD,0
+9567088,10/8/2016,FCS,Wagner,Columbia,RUSHING,Alex,Thomson,LONG,4
+9567089,10/8/2016,FCS,Wagner,Columbia,PASSING,Alex,Thomson,CP-ATT-INT,10-24-0
+9567090,10/8/2016,FCS,Wagner,Columbia,PASSING,Alex,Thomson,YDS,149
+9567091,10/8/2016,FCS,Wagner,Columbia,PASSING,Alex,Thomson,TD,1
+9567092,10/8/2016,FCS,Wagner,Columbia,PASSING,Alex,Thomson,LONG,47
+9567093,10/8/2016,FCS,Wagner,Columbia,RECEIVING,John,Williams,REC,2
+9567094,10/8/2016,FCS,Wagner,Columbia,RECEIVING,John,Williams,YDS,50
+9567095,10/8/2016,FCS,Wagner,Columbia,RECEIVING,John,Williams,TD,0
+9567096,10/8/2016,FCS,Wagner,Columbia,RECEIVING,John,Williams,LONG,25
+9567097,10/8/2016,FCS,Wagner,Columbia,RECEIVING,Matthias,McKinnon,REC,1
+9567098,10/8/2016,FCS,Wagner,Columbia,RECEIVING,Matthias,McKinnon,YDS,47
+9567099,10/8/2016,FCS,Wagner,Columbia,RECEIVING,Matthias,McKinnon,TD,1
+9567100,10/8/2016,FCS,Wagner,Columbia,RECEIVING,Matthias,McKinnon,LONG,47
+9567101,10/8/2016,FCS,Wagner,Columbia,RECEIVING,Chris,Woodard,REC,2
+9567102,10/8/2016,FCS,Wagner,Columbia,RECEIVING,Chris,Woodard,YDS,20
+9567103,10/8/2016,FCS,Wagner,Columbia,RECEIVING,Chris,Woodard,TD,0
+9567104,10/8/2016,FCS,Wagner,Columbia,RECEIVING,Chris,Woodard,LONG,15
+9567105,10/8/2016,FCS,Wagner,Columbia,RECEIVING,Ryan,Owens,REC,3
+9567106,10/8/2016,FCS,Wagner,Columbia,RECEIVING,Ryan,Owens,YDS,16
+9567107,10/8/2016,FCS,Wagner,Columbia,RECEIVING,Ryan,Owens,TD,0
+9567108,10/8/2016,FCS,Wagner,Columbia,RECEIVING,Ryan,Owens,LONG,9
+9567109,10/8/2016,FCS,Wagner,Columbia,RECEIVING,Caleb,Scepanaik,REC,2
+9567110,10/8/2016,FCS,Wagner,Columbia,RECEIVING,Caleb,Scepanaik,YDS,16
+9567111,10/8/2016,FCS,Wagner,Columbia,RECEIVING,Caleb,Scepanaik,TD,0
+9567112,10/8/2016,FCS,Wagner,Columbia,RECEIVING,Caleb,Scepanaik,LONG,9
+9567113,10/8/2016,FCS,Wagner,Columbia,KICKING,Jim,Cooper,FG-FGA,2/2
+9567114,10/8/2016,FCS,Wagner,Columbia,KICKING,Jim,Cooper,LONG,38
+9567115,10/8/2016,FCS,Wagner,Columbia,KICKING,Jim,Cooper,XP,1
+9567116,10/8/2016,FCS,Wagner,Columbia,KICKING,Jim,Cooper,PTS,7
+9567117,10/8/2016,FCS,Wagner,Columbia,PUNTING,Bryan,Rafano,NO,7
+9567118,10/8/2016,FCS,Wagner,Columbia,PUNTING,Bryan,Rafano,YDS,258
+9567119,10/8/2016,FCS,Wagner,Columbia,PUNTING,Bryan,Rafano,AVG,36.9
+9567120,10/8/2016,FCS,Wagner,Columbia,PUNTING,Bryan,Rafano,LONG,44
+9567121,10/8/2016,FCS,Wagner,Columbia,PUNT RETURNS,Andre,Yevchinecz,NO,2
+9567122,10/8/2016,FCS,Wagner,Columbia,PUNT RETURNS,Andre,Yevchinecz,YDS,0
+9567123,10/8/2016,FCS,Wagner,Columbia,PUNT RETURNS,Andre,Yevchinecz,AVG,-
+9567124,10/8/2016,FCS,Wagner,Columbia,PUNT RETURNS,Andre,Yevchinecz,LONG,0
+9567125,10/8/2016,FCS,Wagner,Columbia,KICK RETURNS,Myron,Morris,NO,1
+9567126,10/8/2016,FCS,Wagner,Columbia,KICK RETURNS,Myron,Morris,YDS,19
+9567127,10/8/2016,FCS,Wagner,Columbia,KICK RETURNS,Myron,Morris,AVG,19.0
+9567128,10/8/2016,FCS,Wagner,Columbia,KICK RETURNS,Myron,Morris,LONG,19
+9567129,10/8/2016,FCS,Wagner,Columbia,KICK RETURNS,Franklin,Labady,NO,1
+9567130,10/8/2016,FCS,Wagner,Columbia,KICK RETURNS,Franklin,Labady,YDS,13
+9567131,10/8/2016,FCS,Wagner,Columbia,KICK RETURNS,Franklin,Labady,AVG,13.0
+9567132,10/8/2016,FCS,Wagner,Columbia,KICK RETURNS,Franklin,Labady,LONG,13
+9567133,10/8/2016,FCS,Wagner,Columbia,KICK RETURNS,Jeffery,Bost,NO,1
+9567134,10/8/2016,FCS,Wagner,Columbia,KICK RETURNS,Jeffery,Bost,YDS,4
+9567135,10/8/2016,FCS,Wagner,Columbia,KICK RETURNS,Jeffery,Bost,AVG,4.0
+9567136,10/8/2016,FCS,Wagner,Columbia,KICK RETURNS,Jeffery,Bost,LONG,4

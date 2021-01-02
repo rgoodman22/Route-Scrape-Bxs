@@ -1,0 +1,153 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+7221001,10/19/2013,FCS,Cornell,Monmouth,RUSHING,Luke,Hagy,ATT,7
+7221002,10/19/2013,FCS,Cornell,Monmouth,RUSHING,Luke,Hagy,YDS,22
+7221003,10/19/2013,FCS,Cornell,Monmouth,RUSHING,Luke,Hagy,TD,0
+7221004,10/19/2013,FCS,Cornell,Monmouth,RUSHING,Luke,Hagy,LONG,8
+7221005,10/19/2013,FCS,Cornell,Monmouth,RUSHING,Jeff,Mathews,ATT,8
+7221006,10/19/2013,FCS,Cornell,Monmouth,RUSHING,Jeff,Mathews,YDS,16
+7221007,10/19/2013,FCS,Cornell,Monmouth,RUSHING,Jeff,Mathews,TD,1
+7221008,10/19/2013,FCS,Cornell,Monmouth,RUSHING,Jeff,Mathews,LONG,19
+7221009,10/19/2013,FCS,Cornell,Monmouth,RUSHING,Grant,Gellatly,ATT,2
+7221010,10/19/2013,FCS,Cornell,Monmouth,RUSHING,Grant,Gellatly,YDS,14
+7221011,10/19/2013,FCS,Cornell,Monmouth,RUSHING,Grant,Gellatly,TD,0
+7221012,10/19/2013,FCS,Cornell,Monmouth,RUSHING,Grant,Gellatly,LONG,9
+7221013,10/19/2013,FCS,Cornell,Monmouth,RUSHING,Dustin,Dillard,ATT,2
+7221014,10/19/2013,FCS,Cornell,Monmouth,RUSHING,Dustin,Dillard,YDS,8
+7221015,10/19/2013,FCS,Cornell,Monmouth,RUSHING,Dustin,Dillard,TD,0
+7221016,10/19/2013,FCS,Cornell,Monmouth,RUSHING,Dustin,Dillard,LONG,5
+7221017,10/19/2013,FCS,Cornell,Monmouth,RUSHING,Conner,Armstrong,ATT,2
+7221018,10/19/2013,FCS,Cornell,Monmouth,RUSHING,Conner,Armstrong,YDS,0
+7221019,10/19/2013,FCS,Cornell,Monmouth,RUSHING,Conner,Armstrong,TD,0
+7221020,10/19/2013,FCS,Cornell,Monmouth,RUSHING,Conner,Armstrong,LONG,0
+7221021,10/19/2013,FCS,Cornell,Monmouth,RUSHING,James,Few,ATT,1
+7221022,10/19/2013,FCS,Cornell,Monmouth,RUSHING,James,Few,YDS,-8
+7221023,10/19/2013,FCS,Cornell,Monmouth,RUSHING,James,Few,TD,0
+7221024,10/19/2013,FCS,Cornell,Monmouth,RUSHING,James,Few,LONG,0
+7221025,10/19/2013,FCS,Cornell,Monmouth,PASSING,Jeff,Mathews,CP-ATT-INT,13-29-1
+7221026,10/19/2013,FCS,Cornell,Monmouth,PASSING,Jeff,Mathews,YDS,223
+7221027,10/19/2013,FCS,Cornell,Monmouth,PASSING,Jeff,Mathews,TD,2
+7221028,10/19/2013,FCS,Cornell,Monmouth,PASSING,Jeff,Mathews,LONG,42
+7221029,10/19/2013,FCS,Cornell,Monmouth,PASSING,James,Few,CP-ATT-INT,1-1-0
+7221030,10/19/2013,FCS,Cornell,Monmouth,PASSING,James,Few,YDS,15
+7221031,10/19/2013,FCS,Cornell,Monmouth,PASSING,James,Few,TD,0
+7221032,10/19/2013,FCS,Cornell,Monmouth,PASSING,James,Few,LONG,15
+7221033,10/19/2013,FCS,Cornell,Monmouth,RECEIVING,Grant,Gellatly,REC,5
+7221034,10/19/2013,FCS,Cornell,Monmouth,RECEIVING,Grant,Gellatly,YDS,86
+7221035,10/19/2013,FCS,Cornell,Monmouth,RECEIVING,Grant,Gellatly,TD,1
+7221036,10/19/2013,FCS,Cornell,Monmouth,RECEIVING,Grant,Gellatly,LONG,32
+7221037,10/19/2013,FCS,Cornell,Monmouth,RECEIVING,Lucas,Shapiro,REC,3
+7221038,10/19/2013,FCS,Cornell,Monmouth,RECEIVING,Lucas,Shapiro,YDS,75
+7221039,10/19/2013,FCS,Cornell,Monmouth,RECEIVING,Lucas,Shapiro,TD,1
+7221040,10/19/2013,FCS,Cornell,Monmouth,RECEIVING,Lucas,Shapiro,LONG,42
+7221041,10/19/2013,FCS,Cornell,Monmouth,RECEIVING,Luke,Hagy,REC,2
+7221042,10/19/2013,FCS,Cornell,Monmouth,RECEIVING,Luke,Hagy,YDS,41
+7221043,10/19/2013,FCS,Cornell,Monmouth,RECEIVING,Luke,Hagy,TD,0
+7221044,10/19/2013,FCS,Cornell,Monmouth,RECEIVING,Luke,Hagy,LONG,21
+7221045,10/19/2013,FCS,Cornell,Monmouth,RECEIVING,Dustin,Dillard,REC,2
+7221046,10/19/2013,FCS,Cornell,Monmouth,RECEIVING,Dustin,Dillard,YDS,8
+7221047,10/19/2013,FCS,Cornell,Monmouth,RECEIVING,Dustin,Dillard,TD,0
+7221048,10/19/2013,FCS,Cornell,Monmouth,RECEIVING,Dustin,Dillard,LONG,6
+7221049,10/19/2013,FCS,Cornell,Monmouth,RECEIVING,Matt,Doneth,REC,1
+7221050,10/19/2013,FCS,Cornell,Monmouth,RECEIVING,Matt,Doneth,YDS,15
+7221051,10/19/2013,FCS,Cornell,Monmouth,RECEIVING,Matt,Doneth,TD,0
+7221052,10/19/2013,FCS,Cornell,Monmouth,RECEIVING,Matt,Doneth,LONG,15
+7221053,10/19/2013,FCS,Cornell,Monmouth,RECEIVING,Ben,Rogers,REC,1
+7221054,10/19/2013,FCS,Cornell,Monmouth,RECEIVING,Ben,Rogers,YDS,13
+7221055,10/19/2013,FCS,Cornell,Monmouth,RECEIVING,Ben,Rogers,TD,0
+7221056,10/19/2013,FCS,Cornell,Monmouth,RECEIVING,Ben,Rogers,LONG,13
+7221057,10/19/2013,FCS,Cornell,Monmouth,KICKING,Boomer,Olsen,FG-FGA,0/0
+7221058,10/19/2013,FCS,Cornell,Monmouth,KICKING,Boomer,Olsen,LONG,-
+7221059,10/19/2013,FCS,Cornell,Monmouth,KICKING,Boomer,Olsen,XP,3
+7221060,10/19/2013,FCS,Cornell,Monmouth,KICKING,Boomer,Olsen,PTS,3
+7221061,10/19/2013,FCS,Cornell,Monmouth,PUNTING,Chris,Fraser,NO,4
+7221062,10/19/2013,FCS,Cornell,Monmouth,PUNTING,Chris,Fraser,YDS,185
+7221063,10/19/2013,FCS,Cornell,Monmouth,PUNTING,Chris,Fraser,AVG,46.3
+7221064,10/19/2013,FCS,Cornell,Monmouth,PUNTING,Chris,Fraser,LONG,57
+7221065,10/19/2013,FCS,Cornell,Monmouth,PUNT RETURNS,Matt,Smith,NO,1
+7221066,10/19/2013,FCS,Cornell,Monmouth,PUNT RETURNS,Matt,Smith,YDS,11
+7221067,10/19/2013,FCS,Cornell,Monmouth,PUNT RETURNS,Matt,Smith,AVG,11.0
+7221068,10/19/2013,FCS,Cornell,Monmouth,PUNT RETURNS,Matt,Smith,LONG,0
+7221069,10/19/2013,FCS,Cornell,Monmouth,PUNT RETURNS,Twan,Terrell,NO,1
+7221070,10/19/2013,FCS,Cornell,Monmouth,PUNT RETURNS,Twan,Terrell,YDS,6
+7221071,10/19/2013,FCS,Cornell,Monmouth,PUNT RETURNS,Twan,Terrell,AVG,6.0
+7221072,10/19/2013,FCS,Cornell,Monmouth,PUNT RETURNS,Twan,Terrell,LONG,0
+7221073,10/19/2013,FCS,Cornell,Monmouth,KICK RETURNS,Ben,Rogers,NO,6
+7221074,10/19/2013,FCS,Cornell,Monmouth,KICK RETURNS,Ben,Rogers,YDS,164
+7221075,10/19/2013,FCS,Cornell,Monmouth,KICK RETURNS,Ben,Rogers,AVG,27.3
+7221076,10/19/2013,FCS,Cornell,Monmouth,KICK RETURNS,Ben,Rogers,LONG,37
+7221077,10/19/2013,FCS,Cornell,Monmouth,KICK RETURNS,Matt,Smith,NO,1
+7221078,10/19/2013,FCS,Cornell,Monmouth,KICK RETURNS,Matt,Smith,YDS,14
+7221079,10/19/2013,FCS,Cornell,Monmouth,KICK RETURNS,Matt,Smith,AVG,14.0
+7221080,10/19/2013,FCS,Cornell,Monmouth,KICK RETURNS,Matt,Smith,LONG,14
+7221081,10/19/2013,FCS,Cornell,Monmouth,KICK RETURNS,VJ,Fitzgerald,NO,1
+7221082,10/19/2013,FCS,Cornell,Monmouth,KICK RETURNS,VJ,Fitzgerald,YDS,14
+7221083,10/19/2013,FCS,Cornell,Monmouth,KICK RETURNS,VJ,Fitzgerald,AVG,14.0
+7221084,10/19/2013,FCS,Cornell,Monmouth,KICK RETURNS,VJ,Fitzgerald,LONG,14
+7221085,10/19/2013,FCS,Monmouth,Cornell,RUSHING,Kwabena,Asante,ATT,26
+7221086,10/19/2013,FCS,Monmouth,Cornell,RUSHING,Kwabena,Asante,YDS,176
+7221087,10/19/2013,FCS,Monmouth,Cornell,RUSHING,Kwabena,Asante,TD,2
+7221088,10/19/2013,FCS,Monmouth,Cornell,RUSHING,Kwabena,Asante,LONG,23
+7221089,10/19/2013,FCS,Monmouth,Cornell,RUSHING,Julian,Hayes,ATT,17
+7221090,10/19/2013,FCS,Monmouth,Cornell,RUSHING,Julian,Hayes,YDS,96
+7221091,10/19/2013,FCS,Monmouth,Cornell,RUSHING,Julian,Hayes,TD,0
+7221092,10/19/2013,FCS,Monmouth,Cornell,RUSHING,Julian,Hayes,LONG,24
+7221093,10/19/2013,FCS,Monmouth,Cornell,RUSHING,Brandon,Hill,ATT,1
+7221094,10/19/2013,FCS,Monmouth,Cornell,RUSHING,Brandon,Hill,YDS,-6
+7221095,10/19/2013,FCS,Monmouth,Cornell,RUSHING,Brandon,Hill,TD,0
+7221096,10/19/2013,FCS,Monmouth,Cornell,RUSHING,Brandon,Hill,LONG,0
+7221097,10/19/2013,FCS,Monmouth,Cornell,RUSHING,,Team,ATT,2
+7221098,10/19/2013,FCS,Monmouth,Cornell,RUSHING,,Team,YDS,-47
+7221099,10/19/2013,FCS,Monmouth,Cornell,RUSHING,,Team,TD,0
+7221100,10/19/2013,FCS,Monmouth,Cornell,RUSHING,,Team,LONG,0
+7221101,10/19/2013,FCS,Monmouth,Cornell,PASSING,Brandon,Hill,CP-ATT-INT,20-32-0
+7221102,10/19/2013,FCS,Monmouth,Cornell,PASSING,Brandon,Hill,YDS,313
+7221103,10/19/2013,FCS,Monmouth,Cornell,PASSING,Brandon,Hill,TD,4
+7221104,10/19/2013,FCS,Monmouth,Cornell,PASSING,Brandon,Hill,LONG,40
+7221105,10/19/2013,FCS,Monmouth,Cornell,RECEIVING,Lamar,Davenport,REC,4
+7221106,10/19/2013,FCS,Monmouth,Cornell,RECEIVING,Lamar,Davenport,YDS,102
+7221107,10/19/2013,FCS,Monmouth,Cornell,RECEIVING,Lamar,Davenport,TD,1
+7221108,10/19/2013,FCS,Monmouth,Cornell,RECEIVING,Lamar,Davenport,LONG,40
+7221109,10/19/2013,FCS,Monmouth,Cornell,RECEIVING,Neal,Sterling,REC,4
+7221110,10/19/2013,FCS,Monmouth,Cornell,RECEIVING,Neal,Sterling,YDS,62
+7221111,10/19/2013,FCS,Monmouth,Cornell,RECEIVING,Neal,Sterling,TD,1
+7221112,10/19/2013,FCS,Monmouth,Cornell,RECEIVING,Neal,Sterling,LONG,26
+7221113,10/19/2013,FCS,Monmouth,Cornell,RECEIVING,Michael,McLafferty,REC,3
+7221114,10/19/2013,FCS,Monmouth,Cornell,RECEIVING,Michael,McLafferty,YDS,49
+7221115,10/19/2013,FCS,Monmouth,Cornell,RECEIVING,Michael,McLafferty,TD,1
+7221116,10/19/2013,FCS,Monmouth,Cornell,RECEIVING,Michael,McLafferty,LONG,32
+7221117,10/19/2013,FCS,Monmouth,Cornell,RECEIVING,Elijah,Phillips,REC,2
+7221118,10/19/2013,FCS,Monmouth,Cornell,RECEIVING,Elijah,Phillips,YDS,28
+7221119,10/19/2013,FCS,Monmouth,Cornell,RECEIVING,Elijah,Phillips,TD,0
+7221120,10/19/2013,FCS,Monmouth,Cornell,RECEIVING,Elijah,Phillips,LONG,16
+7221121,10/19/2013,FCS,Monmouth,Cornell,RECEIVING,Kwabena,Asante,REC,2
+7221122,10/19/2013,FCS,Monmouth,Cornell,RECEIVING,Kwabena,Asante,YDS,22
+7221123,10/19/2013,FCS,Monmouth,Cornell,RECEIVING,Kwabena,Asante,TD,0
+7221124,10/19/2013,FCS,Monmouth,Cornell,RECEIVING,Kwabena,Asante,LONG,14
+7221125,10/19/2013,FCS,Monmouth,Cornell,RECEIVING,Thaddeus,Richards,REC,2
+7221126,10/19/2013,FCS,Monmouth,Cornell,RECEIVING,Thaddeus,Richards,YDS,8
+7221127,10/19/2013,FCS,Monmouth,Cornell,RECEIVING,Thaddeus,Richards,TD,1
+7221128,10/19/2013,FCS,Monmouth,Cornell,RECEIVING,Thaddeus,Richards,LONG,7
+7221129,10/19/2013,FCS,Monmouth,Cornell,RECEIVING,Eric,Sumlin,REC,1
+7221130,10/19/2013,FCS,Monmouth,Cornell,RECEIVING,Eric,Sumlin,YDS,32
+7221131,10/19/2013,FCS,Monmouth,Cornell,RECEIVING,Eric,Sumlin,TD,0
+7221132,10/19/2013,FCS,Monmouth,Cornell,RECEIVING,Eric,Sumlin,LONG,32
+7221133,10/19/2013,FCS,Monmouth,Cornell,RECEIVING,Lavon,Chaney,REC,1
+7221134,10/19/2013,FCS,Monmouth,Cornell,RECEIVING,Lavon,Chaney,YDS,6
+7221135,10/19/2013,FCS,Monmouth,Cornell,RECEIVING,Lavon,Chaney,TD,0
+7221136,10/19/2013,FCS,Monmouth,Cornell,RECEIVING,Lavon,Chaney,LONG,6
+7221137,10/19/2013,FCS,Monmouth,Cornell,RECEIVING,Jake,Mauro,REC,1
+7221138,10/19/2013,FCS,Monmouth,Cornell,RECEIVING,Jake,Mauro,YDS,4
+7221139,10/19/2013,FCS,Monmouth,Cornell,RECEIVING,Jake,Mauro,TD,0
+7221140,10/19/2013,FCS,Monmouth,Cornell,RECEIVING,Jake,Mauro,LONG,4
+7221141,10/19/2013,FCS,Monmouth,Cornell,KICKING,Eric,Spillane,FG-FGA,2/2
+7221142,10/19/2013,FCS,Monmouth,Cornell,KICKING,Eric,Spillane,LONG,28
+7221143,10/19/2013,FCS,Monmouth,Cornell,KICKING,Eric,Spillane,XP,6
+7221144,10/19/2013,FCS,Monmouth,Cornell,KICKING,Eric,Spillane,PTS,12
+7221145,10/19/2013,FCS,Monmouth,Cornell,PUNTING,,Team,NO,2
+7221146,10/19/2013,FCS,Monmouth,Cornell,PUNTING,,Team,YDS,0
+7221147,10/19/2013,FCS,Monmouth,Cornell,PUNTING,,Team,AVG,0.0
+7221148,10/19/2013,FCS,Monmouth,Cornell,PUNTING,,Team,LONG,0
+7221149,10/19/2013,FCS,Monmouth,Cornell,PUNT RETURNS,Elijah,Phillips,NO,1
+7221150,10/19/2013,FCS,Monmouth,Cornell,PUNT RETURNS,Elijah,Phillips,YDS,13
+7221151,10/19/2013,FCS,Monmouth,Cornell,PUNT RETURNS,Elijah,Phillips,AVG,13.0
+7221152,10/19/2013,FCS,Monmouth,Cornell,PUNT RETURNS,Elijah,Phillips,LONG,13

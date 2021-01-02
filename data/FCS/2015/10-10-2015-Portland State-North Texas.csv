@@ -1,0 +1,197 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+8805001,10/10/2015,FCS,Portland State,North Texas,RUSHING,David,Jones,ATT,9
+8805002,10/10/2015,FCS,Portland State,North Texas,RUSHING,David,Jones,YDS,134
+8805003,10/10/2015,FCS,Portland State,North Texas,RUSHING,David,Jones,TD,2
+8805004,10/10/2015,FCS,Portland State,North Texas,RUSHING,David,Jones,LONG,70
+8805005,10/10/2015,FCS,Portland State,North Texas,RUSHING,Steven,Long,ATT,12
+8805006,10/10/2015,FCS,Portland State,North Texas,RUSHING,Steven,Long,YDS,79
+8805007,10/10/2015,FCS,Portland State,North Texas,RUSHING,Steven,Long,TD,1
+8805008,10/10/2015,FCS,Portland State,North Texas,RUSHING,Steven,Long,LONG,28
+8805009,10/10/2015,FCS,Portland State,North Texas,RUSHING,Mitchell,Thompson,ATT,3
+8805010,10/10/2015,FCS,Portland State,North Texas,RUSHING,Mitchell,Thompson,YDS,73
+8805011,10/10/2015,FCS,Portland State,North Texas,RUSHING,Mitchell,Thompson,TD,1
+8805012,10/10/2015,FCS,Portland State,North Texas,RUSHING,Mitchell,Thompson,LONG,68
+8805013,10/10/2015,FCS,Portland State,North Texas,RUSHING,Nate,Tago,ATT,9
+8805014,10/10/2015,FCS,Portland State,North Texas,RUSHING,Nate,Tago,YDS,61
+8805015,10/10/2015,FCS,Portland State,North Texas,RUSHING,Nate,Tago,TD,2
+8805016,10/10/2015,FCS,Portland State,North Texas,RUSHING,Nate,Tago,LONG,18
+8805017,10/10/2015,FCS,Portland State,North Texas,RUSHING,Alex,Kuresa,ATT,7
+8805018,10/10/2015,FCS,Portland State,North Texas,RUSHING,Alex,Kuresa,YDS,21
+8805019,10/10/2015,FCS,Portland State,North Texas,RUSHING,Alex,Kuresa,TD,0
+8805020,10/10/2015,FCS,Portland State,North Texas,RUSHING,Alex,Kuresa,LONG,11
+8805021,10/10/2015,FCS,Portland State,North Texas,RUSHING,Josh,Kraght,ATT,2
+8805022,10/10/2015,FCS,Portland State,North Texas,RUSHING,Josh,Kraght,YDS,3
+8805023,10/10/2015,FCS,Portland State,North Texas,RUSHING,Josh,Kraght,TD,0
+8805024,10/10/2015,FCS,Portland State,North Texas,RUSHING,Josh,Kraght,LONG,4
+8805025,10/10/2015,FCS,Portland State,North Texas,RUSHING,Paris,Penn,ATT,1
+8805026,10/10/2015,FCS,Portland State,North Texas,RUSHING,Paris,Penn,YDS,1
+8805027,10/10/2015,FCS,Portland State,North Texas,RUSHING,Paris,Penn,TD,0
+8805028,10/10/2015,FCS,Portland State,North Texas,RUSHING,Paris,Penn,LONG,1
+8805029,10/10/2015,FCS,Portland State,North Texas,RUSHING,Aidan,Wilder,ATT,1
+8805030,10/10/2015,FCS,Portland State,North Texas,RUSHING,Aidan,Wilder,YDS,-2
+8805031,10/10/2015,FCS,Portland State,North Texas,RUSHING,Aidan,Wilder,TD,0
+8805032,10/10/2015,FCS,Portland State,North Texas,RUSHING,Aidan,Wilder,LONG,0
+8805033,10/10/2015,FCS,Portland State,North Texas,RUSHING,,Team,ATT,2
+8805034,10/10/2015,FCS,Portland State,North Texas,RUSHING,,Team,YDS,-2
+8805035,10/10/2015,FCS,Portland State,North Texas,RUSHING,,Team,TD,0
+8805036,10/10/2015,FCS,Portland State,North Texas,RUSHING,,Team,LONG,0
+8805037,10/10/2015,FCS,Portland State,North Texas,PASSING,Alex,Kuresa,CP-ATT-INT,11-19-0
+8805038,10/10/2015,FCS,Portland State,North Texas,PASSING,Alex,Kuresa,YDS,269
+8805039,10/10/2015,FCS,Portland State,North Texas,PASSING,Alex,Kuresa,TD,3
+8805040,10/10/2015,FCS,Portland State,North Texas,PASSING,Alex,Kuresa,LONG,60
+8805041,10/10/2015,FCS,Portland State,North Texas,PASSING,Kieran,McDonagh,CP-ATT-INT,2-3-0
+8805042,10/10/2015,FCS,Portland State,North Texas,PASSING,Kieran,McDonagh,YDS,33
+8805043,10/10/2015,FCS,Portland State,North Texas,PASSING,Kieran,McDonagh,TD,0
+8805044,10/10/2015,FCS,Portland State,North Texas,PASSING,Kieran,McDonagh,LONG,25
+8805045,10/10/2015,FCS,Portland State,North Texas,RECEIVING,Darnell,Adams,REC,4
+8805046,10/10/2015,FCS,Portland State,North Texas,RECEIVING,Darnell,Adams,YDS,100
+8805047,10/10/2015,FCS,Portland State,North Texas,RECEIVING,Darnell,Adams,TD,1
+8805048,10/10/2015,FCS,Portland State,North Texas,RECEIVING,Darnell,Adams,LONG,37
+8805049,10/10/2015,FCS,Portland State,North Texas,RECEIVING,David,Jones,REC,1
+8805050,10/10/2015,FCS,Portland State,North Texas,RECEIVING,David,Jones,YDS,60
+8805051,10/10/2015,FCS,Portland State,North Texas,RECEIVING,David,Jones,TD,1
+8805052,10/10/2015,FCS,Portland State,North Texas,RECEIVING,David,Jones,LONG,60
+8805053,10/10/2015,FCS,Portland State,North Texas,RECEIVING,Thomas,CarterIII,REC,1
+8805054,10/10/2015,FCS,Portland State,North Texas,RECEIVING,Thomas,CarterIII,YDS,56
+8805055,10/10/2015,FCS,Portland State,North Texas,RECEIVING,Thomas,CarterIII,TD,1
+8805056,10/10/2015,FCS,Portland State,North Texas,RECEIVING,Thomas,CarterIII,LONG,56
+8805057,10/10/2015,FCS,Portland State,North Texas,RECEIVING,Alex,Kuresa,REC,1
+8805058,10/10/2015,FCS,Portland State,North Texas,RECEIVING,Alex,Kuresa,YDS,25
+8805059,10/10/2015,FCS,Portland State,North Texas,RECEIVING,Alex,Kuresa,TD,0
+8805060,10/10/2015,FCS,Portland State,North Texas,RECEIVING,Alex,Kuresa,LONG,25
+8805061,10/10/2015,FCS,Portland State,North Texas,RECEIVING,Chase,Loftin,REC,2
+8805062,10/10/2015,FCS,Portland State,North Texas,RECEIVING,Chase,Loftin,YDS,23
+8805063,10/10/2015,FCS,Portland State,North Texas,RECEIVING,Chase,Loftin,TD,0
+8805064,10/10/2015,FCS,Portland State,North Texas,RECEIVING,Chase,Loftin,LONG,14
+8805065,10/10/2015,FCS,Portland State,North Texas,RECEIVING,Cameron,Thompson,REC,2
+8805066,10/10/2015,FCS,Portland State,North Texas,RECEIVING,Cameron,Thompson,YDS,18
+8805067,10/10/2015,FCS,Portland State,North Texas,RECEIVING,Cameron,Thompson,TD,0
+8805068,10/10/2015,FCS,Portland State,North Texas,RECEIVING,Cameron,Thompson,LONG,9
+8805069,10/10/2015,FCS,Portland State,North Texas,RECEIVING,Josh,Kraght,REC,1
+8805070,10/10/2015,FCS,Portland State,North Texas,RECEIVING,Josh,Kraght,YDS,14
+8805071,10/10/2015,FCS,Portland State,North Texas,RECEIVING,Josh,Kraght,TD,0
+8805072,10/10/2015,FCS,Portland State,North Texas,RECEIVING,Josh,Kraght,LONG,14
+8805073,10/10/2015,FCS,Portland State,North Texas,RECEIVING,Jamarr,Graves,REC,1
+8805074,10/10/2015,FCS,Portland State,North Texas,RECEIVING,Jamarr,Graves,YDS,6
+8805075,10/10/2015,FCS,Portland State,North Texas,RECEIVING,Jamarr,Graves,TD,0
+8805076,10/10/2015,FCS,Portland State,North Texas,RECEIVING,Jamarr,Graves,LONG,6
+8805077,10/10/2015,FCS,Portland State,North Texas,KICKING,Jonathan,Gonzales,FG-FGA,1/1
+8805078,10/10/2015,FCS,Portland State,North Texas,KICKING,Jonathan,Gonzales,LONG,46
+8805079,10/10/2015,FCS,Portland State,North Texas,KICKING,Jonathan,Gonzales,XP,9
+8805080,10/10/2015,FCS,Portland State,North Texas,KICKING,Jonathan,Gonzales,PTS,12
+8805081,10/10/2015,FCS,Portland State,North Texas,PUNTING,Marcus,Kinsella,NO,5
+8805082,10/10/2015,FCS,Portland State,North Texas,PUNTING,Marcus,Kinsella,YDS,191
+8805083,10/10/2015,FCS,Portland State,North Texas,PUNTING,Marcus,Kinsella,AVG,38.2
+8805084,10/10/2015,FCS,Portland State,North Texas,PUNTING,Marcus,Kinsella,LONG,52
+8805085,10/10/2015,FCS,Portland State,North Texas,PUNT RETURNS,Josh,Kraght,NO,2
+8805086,10/10/2015,FCS,Portland State,North Texas,PUNT RETURNS,Josh,Kraght,YDS,1
+8805087,10/10/2015,FCS,Portland State,North Texas,PUNT RETURNS,Josh,Kraght,AVG,0.5
+8805088,10/10/2015,FCS,Portland State,North Texas,PUNT RETURNS,Josh,Kraght,LONG,1
+8805089,10/10/2015,FCS,Portland State,North Texas,KICK RETURNS,Kahlil,Dawson,NO,2
+8805090,10/10/2015,FCS,Portland State,North Texas,KICK RETURNS,Kahlil,Dawson,YDS,40
+8805091,10/10/2015,FCS,Portland State,North Texas,KICK RETURNS,Kahlil,Dawson,AVG,20.0
+8805092,10/10/2015,FCS,Portland State,North Texas,KICK RETURNS,Kahlil,Dawson,LONG,31
+8805093,10/10/2015,FCS,North Texas,Portland State,RUSHING,Jeffrey,Wilson,ATT,9
+8805094,10/10/2015,FCS,North Texas,Portland State,RUSHING,Jeffrey,Wilson,YDS,49
+8805095,10/10/2015,FCS,North Texas,Portland State,RUSHING,Jeffrey,Wilson,TD,0
+8805096,10/10/2015,FCS,North Texas,Portland State,RUSHING,Jeffrey,Wilson,LONG,13
+8805097,10/10/2015,FCS,North Texas,Portland State,RUSHING,DaMarcus,Smith,ATT,2
+8805098,10/10/2015,FCS,North Texas,Portland State,RUSHING,DaMarcus,Smith,YDS,23
+8805099,10/10/2015,FCS,North Texas,Portland State,RUSHING,DaMarcus,Smith,TD,0
+8805100,10/10/2015,FCS,North Texas,Portland State,RUSHING,DaMarcus,Smith,LONG,15
+8805101,10/10/2015,FCS,North Texas,Portland State,RUSHING,Andrew,Tucker,ATT,3
+8805102,10/10/2015,FCS,North Texas,Portland State,RUSHING,Andrew,Tucker,YDS,18
+8805103,10/10/2015,FCS,North Texas,Portland State,RUSHING,Andrew,Tucker,TD,0
+8805104,10/10/2015,FCS,North Texas,Portland State,RUSHING,Andrew,Tucker,LONG,8
+8805105,10/10/2015,FCS,North Texas,Portland State,RUSHING,A.J.,Ezzard,ATT,1
+8805106,10/10/2015,FCS,North Texas,Portland State,RUSHING,A.J.,Ezzard,YDS,5
+8805107,10/10/2015,FCS,North Texas,Portland State,RUSHING,A.J.,Ezzard,TD,0
+8805108,10/10/2015,FCS,North Texas,Portland State,RUSHING,A.J.,Ezzard,LONG,5
+8805109,10/10/2015,FCS,North Texas,Portland State,RUSHING,Jarrod,Lynn,ATT,1
+8805110,10/10/2015,FCS,North Texas,Portland State,RUSHING,Jarrod,Lynn,YDS,1
+8805111,10/10/2015,FCS,North Texas,Portland State,RUSHING,Jarrod,Lynn,TD,0
+8805112,10/10/2015,FCS,North Texas,Portland State,RUSHING,Jarrod,Lynn,LONG,1
+8805113,10/10/2015,FCS,North Texas,Portland State,RUSHING,Willy,Ivery,ATT,4
+8805114,10/10/2015,FCS,North Texas,Portland State,RUSHING,Willy,Ivery,YDS,0
+8805115,10/10/2015,FCS,North Texas,Portland State,RUSHING,Willy,Ivery,TD,0
+8805116,10/10/2015,FCS,North Texas,Portland State,RUSHING,Willy,Ivery,LONG,6
+8805117,10/10/2015,FCS,North Texas,Portland State,RUSHING,Josh,Greer,ATT,1
+8805118,10/10/2015,FCS,North Texas,Portland State,RUSHING,Josh,Greer,YDS,-4
+8805119,10/10/2015,FCS,North Texas,Portland State,RUSHING,Josh,Greer,TD,0
+8805120,10/10/2015,FCS,North Texas,Portland State,RUSHING,Josh,Greer,LONG,0
+8805121,10/10/2015,FCS,North Texas,Portland State,RUSHING,Antoinne,Jimmerson,ATT,8
+8805122,10/10/2015,FCS,North Texas,Portland State,RUSHING,Antoinne,Jimmerson,YDS,-5
+8805123,10/10/2015,FCS,North Texas,Portland State,RUSHING,Antoinne,Jimmerson,TD,0
+8805124,10/10/2015,FCS,North Texas,Portland State,RUSHING,Antoinne,Jimmerson,LONG,4
+8805125,10/10/2015,FCS,North Texas,Portland State,RUSHING,Andrew,McNulty,ATT,2
+8805126,10/10/2015,FCS,North Texas,Portland State,RUSHING,Andrew,McNulty,YDS,-11
+8805127,10/10/2015,FCS,North Texas,Portland State,RUSHING,Andrew,McNulty,TD,0
+8805128,10/10/2015,FCS,North Texas,Portland State,RUSHING,Andrew,McNulty,LONG,0
+8805129,10/10/2015,FCS,North Texas,Portland State,PASSING,Andrew,McNulty,CP-ATT-INT,10-25-0
+8805130,10/10/2015,FCS,North Texas,Portland State,PASSING,Andrew,McNulty,YDS,57
+8805131,10/10/2015,FCS,North Texas,Portland State,PASSING,Andrew,McNulty,TD,0
+8805132,10/10/2015,FCS,North Texas,Portland State,PASSING,Andrew,McNulty,LONG,11
+8805133,10/10/2015,FCS,North Texas,Portland State,PASSING,DaMarcus,Smith,CP-ATT-INT,3-6-0
+8805134,10/10/2015,FCS,North Texas,Portland State,PASSING,DaMarcus,Smith,YDS,35
+8805135,10/10/2015,FCS,North Texas,Portland State,PASSING,DaMarcus,Smith,TD,1
+8805136,10/10/2015,FCS,North Texas,Portland State,PASSING,DaMarcus,Smith,LONG,17
+8805137,10/10/2015,FCS,North Texas,Portland State,PASSING,Josh,Greer,CP-ATT-INT,3-10-0
+8805138,10/10/2015,FCS,North Texas,Portland State,PASSING,Josh,Greer,YDS,30
+8805139,10/10/2015,FCS,North Texas,Portland State,PASSING,Josh,Greer,TD,0
+8805140,10/10/2015,FCS,North Texas,Portland State,PASSING,Josh,Greer,LONG,13
+8805141,10/10/2015,FCS,North Texas,Portland State,RECEIVING,Carlos,Harris,REC,9
+8805142,10/10/2015,FCS,North Texas,Portland State,RECEIVING,Carlos,Harris,YDS,57
+8805143,10/10/2015,FCS,North Texas,Portland State,RECEIVING,Carlos,Harris,TD,1
+8805144,10/10/2015,FCS,North Texas,Portland State,RECEIVING,Carlos,Harris,LONG,11
+8805145,10/10/2015,FCS,North Texas,Portland State,RECEIVING,Marcus,Smith,REC,3
+8805146,10/10/2015,FCS,North Texas,Portland State,RECEIVING,Marcus,Smith,YDS,39
+8805147,10/10/2015,FCS,North Texas,Portland State,RECEIVING,Marcus,Smith,TD,0
+8805148,10/10/2015,FCS,North Texas,Portland State,RECEIVING,Marcus,Smith,LONG,17
+8805149,10/10/2015,FCS,North Texas,Portland State,RECEIVING,Antoinne,Jimmerson,REC,1
+8805150,10/10/2015,FCS,North Texas,Portland State,RECEIVING,Antoinne,Jimmerson,YDS,10
+8805151,10/10/2015,FCS,North Texas,Portland State,RECEIVING,Antoinne,Jimmerson,TD,0
+8805152,10/10/2015,FCS,North Texas,Portland State,RECEIVING,Antoinne,Jimmerson,LONG,10
+8805153,10/10/2015,FCS,North Texas,Portland State,RECEIVING,A.J.,Ezzard,REC,1
+8805154,10/10/2015,FCS,North Texas,Portland State,RECEIVING,A.J.,Ezzard,YDS,8
+8805155,10/10/2015,FCS,North Texas,Portland State,RECEIVING,A.J.,Ezzard,TD,0
+8805156,10/10/2015,FCS,North Texas,Portland State,RECEIVING,A.J.,Ezzard,LONG,8
+8805157,10/10/2015,FCS,North Texas,Portland State,RECEIVING,Tee,Goree,REC,1
+8805158,10/10/2015,FCS,North Texas,Portland State,RECEIVING,Tee,Goree,YDS,5
+8805159,10/10/2015,FCS,North Texas,Portland State,RECEIVING,Tee,Goree,TD,0
+8805160,10/10/2015,FCS,North Texas,Portland State,RECEIVING,Tee,Goree,LONG,5
+8805161,10/10/2015,FCS,North Texas,Portland State,RECEIVING,Willy,Ivery,REC,1
+8805162,10/10/2015,FCS,North Texas,Portland State,RECEIVING,Willy,Ivery,YDS,3
+8805163,10/10/2015,FCS,North Texas,Portland State,RECEIVING,Willy,Ivery,TD,0
+8805164,10/10/2015,FCS,North Texas,Portland State,RECEIVING,Willy,Ivery,LONG,3
+8805165,10/10/2015,FCS,North Texas,Portland State,KICKING,Trevor,Moore,FG-FGA,0/0
+8805166,10/10/2015,FCS,North Texas,Portland State,KICKING,Trevor,Moore,LONG,-
+8805167,10/10/2015,FCS,North Texas,Portland State,KICKING,Trevor,Moore,XP,1
+8805168,10/10/2015,FCS,North Texas,Portland State,KICKING,Trevor,Moore,PTS,1
+8805169,10/10/2015,FCS,North Texas,Portland State,PUNTING,Eric,Keena,NO,8
+8805170,10/10/2015,FCS,North Texas,Portland State,PUNTING,Eric,Keena,YDS,398
+8805171,10/10/2015,FCS,North Texas,Portland State,PUNTING,Eric,Keena,AVG,49.8
+8805172,10/10/2015,FCS,North Texas,Portland State,PUNTING,Eric,Keena,LONG,59
+8805173,10/10/2015,FCS,North Texas,Portland State,PUNTING,Blake,Macek,NO,2
+8805174,10/10/2015,FCS,North Texas,Portland State,PUNTING,Blake,Macek,YDS,63
+8805175,10/10/2015,FCS,North Texas,Portland State,PUNTING,Blake,Macek,AVG,31.5
+8805176,10/10/2015,FCS,North Texas,Portland State,PUNTING,Blake,Macek,LONG,41
+8805177,10/10/2015,FCS,North Texas,Portland State,PUNTING,,Team,NO,1
+8805178,10/10/2015,FCS,North Texas,Portland State,PUNTING,,Team,YDS,13
+8805179,10/10/2015,FCS,North Texas,Portland State,PUNTING,,Team,AVG,13.0
+8805180,10/10/2015,FCS,North Texas,Portland State,PUNTING,,Team,LONG,13
+8805181,10/10/2015,FCS,North Texas,Portland State,PUNT RETURNS,Darvin,Kidsy,NO,3
+8805182,10/10/2015,FCS,North Texas,Portland State,PUNT RETURNS,Darvin,Kidsy,YDS,15
+8805183,10/10/2015,FCS,North Texas,Portland State,PUNT RETURNS,Darvin,Kidsy,AVG,5.0
+8805184,10/10/2015,FCS,North Texas,Portland State,PUNT RETURNS,Darvin,Kidsy,LONG,20
+8805185,10/10/2015,FCS,North Texas,Portland State,KICK RETURNS,Jeffrey,Wilson,NO,4
+8805186,10/10/2015,FCS,North Texas,Portland State,KICK RETURNS,Jeffrey,Wilson,YDS,119
+8805187,10/10/2015,FCS,North Texas,Portland State,KICK RETURNS,Jeffrey,Wilson,AVG,29.8
+8805188,10/10/2015,FCS,North Texas,Portland State,KICK RETURNS,Jeffrey,Wilson,LONG,50
+8805189,10/10/2015,FCS,North Texas,Portland State,KICK RETURNS,Darvin,Kidsy,NO,2
+8805190,10/10/2015,FCS,North Texas,Portland State,KICK RETURNS,Darvin,Kidsy,YDS,39
+8805191,10/10/2015,FCS,North Texas,Portland State,KICK RETURNS,Darvin,Kidsy,AVG,19.5
+8805192,10/10/2015,FCS,North Texas,Portland State,KICK RETURNS,Darvin,Kidsy,LONG,21
+8805193,10/10/2015,FCS,North Texas,Portland State,KICK RETURNS,Jarrian,Roberts,NO,1
+8805194,10/10/2015,FCS,North Texas,Portland State,KICK RETURNS,Jarrian,Roberts,YDS,0
+8805195,10/10/2015,FCS,North Texas,Portland State,KICK RETURNS,Jarrian,Roberts,AVG,-
+8805196,10/10/2015,FCS,North Texas,Portland State,KICK RETURNS,Jarrian,Roberts,LONG,0

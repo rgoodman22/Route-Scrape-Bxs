@@ -1,0 +1,109 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9996001,8/26/2017,FCS,Colgate,Cal Poly,RUSHING,James,Holland,ATT,20
+9996002,8/26/2017,FCS,Colgate,Cal Poly,RUSHING,James,Holland,YDS,91
+9996003,8/26/2017,FCS,Colgate,Cal Poly,RUSHING,James,Holland,TD,1
+9996004,8/26/2017,FCS,Colgate,Cal Poly,RUSHING,James,Holland,LONG,17
+9996005,8/26/2017,FCS,Colgate,Cal Poly,RUSHING,Alex,Mathews,ATT,7
+9996006,8/26/2017,FCS,Colgate,Cal Poly,RUSHING,Alex,Mathews,YDS,78
+9996007,8/26/2017,FCS,Colgate,Cal Poly,RUSHING,Alex,Mathews,TD,1
+9996008,8/26/2017,FCS,Colgate,Cal Poly,RUSHING,Alex,Mathews,LONG,57
+9996009,8/26/2017,FCS,Colgate,Cal Poly,RUSHING,Carmine,Scarfone,ATT,4
+9996010,8/26/2017,FCS,Colgate,Cal Poly,RUSHING,Carmine,Scarfone,YDS,5
+9996011,8/26/2017,FCS,Colgate,Cal Poly,RUSHING,Carmine,Scarfone,TD,0
+9996012,8/26/2017,FCS,Colgate,Cal Poly,RUSHING,Carmine,Scarfone,LONG,7
+9996013,8/26/2017,FCS,Colgate,Cal Poly,RUSHING,,Team,ATT,4
+9996014,8/26/2017,FCS,Colgate,Cal Poly,RUSHING,,Team,YDS,-18
+9996015,8/26/2017,FCS,Colgate,Cal Poly,RUSHING,,Team,TD,0
+9996016,8/26/2017,FCS,Colgate,Cal Poly,RUSHING,,Team,LONG,0
+9996017,8/26/2017,FCS,Colgate,Cal Poly,PASSING,Carmine,Scarfone,CP-ATT-INT,8-15-1
+9996018,8/26/2017,FCS,Colgate,Cal Poly,PASSING,Carmine,Scarfone,YDS,94
+9996019,8/26/2017,FCS,Colgate,Cal Poly,PASSING,Carmine,Scarfone,TD,0
+9996020,8/26/2017,FCS,Colgate,Cal Poly,PASSING,Carmine,Scarfone,LONG,31
+9996021,8/26/2017,FCS,Colgate,Cal Poly,RECEIVING,Nick,Martinsen,REC,2
+9996022,8/26/2017,FCS,Colgate,Cal Poly,RECEIVING,Nick,Martinsen,YDS,34
+9996023,8/26/2017,FCS,Colgate,Cal Poly,RECEIVING,Nick,Martinsen,TD,0
+9996024,8/26/2017,FCS,Colgate,Cal Poly,RECEIVING,Nick,Martinsen,LONG,31
+9996025,8/26/2017,FCS,Colgate,Cal Poly,RECEIVING,Thomas,Ives,REC,2
+9996026,8/26/2017,FCS,Colgate,Cal Poly,RECEIVING,Thomas,Ives,YDS,21
+9996027,8/26/2017,FCS,Colgate,Cal Poly,RECEIVING,Thomas,Ives,TD,0
+9996028,8/26/2017,FCS,Colgate,Cal Poly,RECEIVING,Thomas,Ives,LONG,11
+9996029,8/26/2017,FCS,Colgate,Cal Poly,RECEIVING,Alex,Greenawalt,REC,2
+9996030,8/26/2017,FCS,Colgate,Cal Poly,RECEIVING,Alex,Greenawalt,YDS,17
+9996031,8/26/2017,FCS,Colgate,Cal Poly,RECEIVING,Alex,Greenawalt,TD,0
+9996032,8/26/2017,FCS,Colgate,Cal Poly,RECEIVING,Alex,Greenawalt,LONG,11
+9996033,8/26/2017,FCS,Colgate,Cal Poly,RECEIVING,Brett,Gasiorowski,REC,1
+9996034,8/26/2017,FCS,Colgate,Cal Poly,RECEIVING,Brett,Gasiorowski,YDS,13
+9996035,8/26/2017,FCS,Colgate,Cal Poly,RECEIVING,Brett,Gasiorowski,TD,0
+9996036,8/26/2017,FCS,Colgate,Cal Poly,RECEIVING,Brett,Gasiorowski,LONG,13
+9996037,8/26/2017,FCS,Colgate,Cal Poly,RECEIVING,Owen,Rockett,REC,1
+9996038,8/26/2017,FCS,Colgate,Cal Poly,RECEIVING,Owen,Rockett,YDS,9
+9996039,8/26/2017,FCS,Colgate,Cal Poly,RECEIVING,Owen,Rockett,TD,0
+9996040,8/26/2017,FCS,Colgate,Cal Poly,RECEIVING,Owen,Rockett,LONG,9
+9996041,8/26/2017,FCS,Colgate,Cal Poly,KICKING,Chris,Puzzi,FG-FGA,2/2
+9996042,8/26/2017,FCS,Colgate,Cal Poly,KICKING,Chris,Puzzi,LONG,35
+9996043,8/26/2017,FCS,Colgate,Cal Poly,KICKING,Chris,Puzzi,XP,2
+9996044,8/26/2017,FCS,Colgate,Cal Poly,KICKING,Chris,Puzzi,PTS,8
+9996045,8/26/2017,FCS,Colgate,Cal Poly,PUNTING,Josh,Cerra,NO,6
+9996046,8/26/2017,FCS,Colgate,Cal Poly,PUNTING,Josh,Cerra,YDS,242
+9996047,8/26/2017,FCS,Colgate,Cal Poly,PUNTING,Josh,Cerra,AVG,40.3
+9996048,8/26/2017,FCS,Colgate,Cal Poly,PUNTING,Josh,Cerra,LONG,47
+9996049,8/26/2017,FCS,Colgate,Cal Poly,PUNT RETURNS,Abu,Daramy,NO,1
+9996050,8/26/2017,FCS,Colgate,Cal Poly,PUNT RETURNS,Abu,Daramy,YDS,2
+9996051,8/26/2017,FCS,Colgate,Cal Poly,PUNT RETURNS,Abu,Daramy,AVG,2.0
+9996052,8/26/2017,FCS,Colgate,Cal Poly,PUNT RETURNS,Abu,Daramy,LONG,2
+9996053,8/26/2017,FCS,Colgate,Cal Poly,KICK RETURNS,Abu,Daramy,NO,3
+9996054,8/26/2017,FCS,Colgate,Cal Poly,KICK RETURNS,Abu,Daramy,YDS,47
+9996055,8/26/2017,FCS,Colgate,Cal Poly,KICK RETURNS,Abu,Daramy,AVG,15.7
+9996056,8/26/2017,FCS,Colgate,Cal Poly,KICK RETURNS,Abu,Daramy,LONG,17
+9996057,8/26/2017,FCS,Cal Poly,Colgate,RUSHING,Joe,Protheroe,ATT,39
+9996058,8/26/2017,FCS,Cal Poly,Colgate,RUSHING,Joe,Protheroe,YDS,139
+9996059,8/26/2017,FCS,Cal Poly,Colgate,RUSHING,Joe,Protheroe,TD,1
+9996060,8/26/2017,FCS,Cal Poly,Colgate,RUSHING,Joe,Protheroe,LONG,10
+9996061,8/26/2017,FCS,Cal Poly,Colgate,RUSHING,Khaleel,Jenkins,ATT,5
+9996062,8/26/2017,FCS,Cal Poly,Colgate,RUSHING,Khaleel,Jenkins,YDS,23
+9996063,8/26/2017,FCS,Cal Poly,Colgate,RUSHING,Khaleel,Jenkins,TD,0
+9996064,8/26/2017,FCS,Cal Poly,Colgate,RUSHING,Khaleel,Jenkins,LONG,11
+9996065,8/26/2017,FCS,Cal Poly,Colgate,RUSHING,Jared,Mohamed,ATT,5
+9996066,8/26/2017,FCS,Cal Poly,Colgate,RUSHING,Jared,Mohamed,YDS,23
+9996067,8/26/2017,FCS,Cal Poly,Colgate,RUSHING,Jared,Mohamed,TD,0
+9996068,8/26/2017,FCS,Cal Poly,Colgate,RUSHING,Jared,Mohamed,LONG,8
+9996069,8/26/2017,FCS,Cal Poly,Colgate,RUSHING,Kyle,Lewis,ATT,7
+9996070,8/26/2017,FCS,Cal Poly,Colgate,RUSHING,Kyle,Lewis,YDS,19
+9996071,8/26/2017,FCS,Cal Poly,Colgate,RUSHING,Kyle,Lewis,TD,0
+9996072,8/26/2017,FCS,Cal Poly,Colgate,RUSHING,Kyle,Lewis,LONG,9
+9996073,8/26/2017,FCS,Cal Poly,Colgate,RUSHING,Chuby,Dunu,ATT,6
+9996074,8/26/2017,FCS,Cal Poly,Colgate,RUSHING,Chuby,Dunu,YDS,6
+9996075,8/26/2017,FCS,Cal Poly,Colgate,RUSHING,Chuby,Dunu,TD,0
+9996076,8/26/2017,FCS,Cal Poly,Colgate,RUSHING,Chuby,Dunu,LONG,6
+9996077,8/26/2017,FCS,Cal Poly,Colgate,PASSING,Khaleel,Jenkins,CP-ATT-INT,6-17-0
+9996078,8/26/2017,FCS,Cal Poly,Colgate,PASSING,Khaleel,Jenkins,YDS,85
+9996079,8/26/2017,FCS,Cal Poly,Colgate,PASSING,Khaleel,Jenkins,TD,1
+9996080,8/26/2017,FCS,Cal Poly,Colgate,PASSING,Khaleel,Jenkins,LONG,35
+9996081,8/26/2017,FCS,Cal Poly,Colgate,RECEIVING,Kyle,Lewis,REC,2
+9996082,8/26/2017,FCS,Cal Poly,Colgate,RECEIVING,Kyle,Lewis,YDS,51
+9996083,8/26/2017,FCS,Cal Poly,Colgate,RECEIVING,Kyle,Lewis,TD,1
+9996084,8/26/2017,FCS,Cal Poly,Colgate,RECEIVING,Kyle,Lewis,LONG,35
+9996085,8/26/2017,FCS,Cal Poly,Colgate,RECEIVING,Jake,Smeltzer,REC,2
+9996086,8/26/2017,FCS,Cal Poly,Colgate,RECEIVING,Jake,Smeltzer,YDS,27
+9996087,8/26/2017,FCS,Cal Poly,Colgate,RECEIVING,Jake,Smeltzer,TD,0
+9996088,8/26/2017,FCS,Cal Poly,Colgate,RECEIVING,Jake,Smeltzer,LONG,21
+9996089,8/26/2017,FCS,Cal Poly,Colgate,RECEIVING,J.J.,Koski,REC,2
+9996090,8/26/2017,FCS,Cal Poly,Colgate,RECEIVING,J.J.,Koski,YDS,7
+9996091,8/26/2017,FCS,Cal Poly,Colgate,RECEIVING,J.J.,Koski,TD,0
+9996092,8/26/2017,FCS,Cal Poly,Colgate,RECEIVING,J.J.,Koski,LONG,5
+9996093,8/26/2017,FCS,Cal Poly,Colgate,KICKING,Casey,Sublette,FG-FGA,0/0
+9996094,8/26/2017,FCS,Cal Poly,Colgate,KICKING,Casey,Sublette,LONG,-
+9996095,8/26/2017,FCS,Cal Poly,Colgate,KICKING,Casey,Sublette,XP,2
+9996096,8/26/2017,FCS,Cal Poly,Colgate,KICKING,Casey,Sublette,PTS,2
+9996097,8/26/2017,FCS,Cal Poly,Colgate,PUNTING,Casey,Sublette,NO,5
+9996098,8/26/2017,FCS,Cal Poly,Colgate,PUNTING,Casey,Sublette,YDS,203
+9996099,8/26/2017,FCS,Cal Poly,Colgate,PUNTING,Casey,Sublette,AVG,40.6
+9996100,8/26/2017,FCS,Cal Poly,Colgate,PUNTING,Casey,Sublette,LONG,51
+9996101,8/26/2017,FCS,Cal Poly,Colgate,PUNT RETURNS,J.J.,Koski,NO,2
+9996102,8/26/2017,FCS,Cal Poly,Colgate,PUNT RETURNS,J.J.,Koski,YDS,2
+9996103,8/26/2017,FCS,Cal Poly,Colgate,PUNT RETURNS,J.J.,Koski,AVG,1.0
+9996104,8/26/2017,FCS,Cal Poly,Colgate,PUNT RETURNS,J.J.,Koski,LONG,1
+9996105,8/26/2017,FCS,Cal Poly,Colgate,KICK RETURNS,Kyle,Lewis,NO,4
+9996106,8/26/2017,FCS,Cal Poly,Colgate,KICK RETURNS,Kyle,Lewis,YDS,110
+9996107,8/26/2017,FCS,Cal Poly,Colgate,KICK RETURNS,Kyle,Lewis,AVG,27.5
+9996108,8/26/2017,FCS,Cal Poly,Colgate,KICK RETURNS,Kyle,Lewis,LONG,40

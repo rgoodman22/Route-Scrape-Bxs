@@ -1,0 +1,161 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9010001,11/7/2015,FCS,Portland State,Northern Colo.,RUSHING,David,Jones,ATT,25
+9010002,11/7/2015,FCS,Portland State,Northern Colo.,RUSHING,David,Jones,YDS,110
+9010003,11/7/2015,FCS,Portland State,Northern Colo.,RUSHING,David,Jones,TD,0
+9010004,11/7/2015,FCS,Portland State,Northern Colo.,RUSHING,David,Jones,LONG,20
+9010005,11/7/2015,FCS,Portland State,Northern Colo.,RUSHING,Steven,Long,ATT,13
+9010006,11/7/2015,FCS,Portland State,Northern Colo.,RUSHING,Steven,Long,YDS,81
+9010007,11/7/2015,FCS,Portland State,Northern Colo.,RUSHING,Steven,Long,TD,2
+9010008,11/7/2015,FCS,Portland State,Northern Colo.,RUSHING,Steven,Long,LONG,25
+9010009,11/7/2015,FCS,Portland State,Northern Colo.,RUSHING,Alex,Kuresa,ATT,11
+9010010,11/7/2015,FCS,Portland State,Northern Colo.,RUSHING,Alex,Kuresa,YDS,35
+9010011,11/7/2015,FCS,Portland State,Northern Colo.,RUSHING,Alex,Kuresa,TD,0
+9010012,11/7/2015,FCS,Portland State,Northern Colo.,RUSHING,Alex,Kuresa,LONG,15
+9010013,11/7/2015,FCS,Portland State,Northern Colo.,RUSHING,Josh,Kraght,ATT,1
+9010014,11/7/2015,FCS,Portland State,Northern Colo.,RUSHING,Josh,Kraght,YDS,7
+9010015,11/7/2015,FCS,Portland State,Northern Colo.,RUSHING,Josh,Kraght,TD,0
+9010016,11/7/2015,FCS,Portland State,Northern Colo.,RUSHING,Josh,Kraght,LONG,7
+9010017,11/7/2015,FCS,Portland State,Northern Colo.,RUSHING,Paris,Penn,ATT,2
+9010018,11/7/2015,FCS,Portland State,Northern Colo.,RUSHING,Paris,Penn,YDS,7
+9010019,11/7/2015,FCS,Portland State,Northern Colo.,RUSHING,Paris,Penn,TD,0
+9010020,11/7/2015,FCS,Portland State,Northern Colo.,RUSHING,Paris,Penn,LONG,6
+9010021,11/7/2015,FCS,Portland State,Northern Colo.,RUSHING,Thomas,CarterIII,ATT,1
+9010022,11/7/2015,FCS,Portland State,Northern Colo.,RUSHING,Thomas,CarterIII,YDS,3
+9010023,11/7/2015,FCS,Portland State,Northern Colo.,RUSHING,Thomas,CarterIII,TD,0
+9010024,11/7/2015,FCS,Portland State,Northern Colo.,RUSHING,Thomas,CarterIII,LONG,3
+9010025,11/7/2015,FCS,Portland State,Northern Colo.,PASSING,Alex,Kuresa,CP-ATT-INT,18-27-1
+9010026,11/7/2015,FCS,Portland State,Northern Colo.,PASSING,Alex,Kuresa,YDS,250
+9010027,11/7/2015,FCS,Portland State,Northern Colo.,PASSING,Alex,Kuresa,TD,2
+9010028,11/7/2015,FCS,Portland State,Northern Colo.,PASSING,Alex,Kuresa,LONG,64
+9010029,11/7/2015,FCS,Portland State,Northern Colo.,RECEIVING,Darnell,Adams,REC,3
+9010030,11/7/2015,FCS,Portland State,Northern Colo.,RECEIVING,Darnell,Adams,YDS,94
+9010031,11/7/2015,FCS,Portland State,Northern Colo.,RECEIVING,Darnell,Adams,TD,2
+9010032,11/7/2015,FCS,Portland State,Northern Colo.,RECEIVING,Darnell,Adams,LONG,64
+9010033,11/7/2015,FCS,Portland State,Northern Colo.,RECEIVING,Thomas,CarterIII,REC,4
+9010034,11/7/2015,FCS,Portland State,Northern Colo.,RECEIVING,Thomas,CarterIII,YDS,49
+9010035,11/7/2015,FCS,Portland State,Northern Colo.,RECEIVING,Thomas,CarterIII,TD,0
+9010036,11/7/2015,FCS,Portland State,Northern Colo.,RECEIVING,Thomas,CarterIII,LONG,16
+9010037,11/7/2015,FCS,Portland State,Northern Colo.,RECEIVING,Chase,Loftin,REC,2
+9010038,11/7/2015,FCS,Portland State,Northern Colo.,RECEIVING,Chase,Loftin,YDS,36
+9010039,11/7/2015,FCS,Portland State,Northern Colo.,RECEIVING,Chase,Loftin,TD,0
+9010040,11/7/2015,FCS,Portland State,Northern Colo.,RECEIVING,Chase,Loftin,LONG,29
+9010041,11/7/2015,FCS,Portland State,Northern Colo.,RECEIVING,David,Jones,REC,3
+9010042,11/7/2015,FCS,Portland State,Northern Colo.,RECEIVING,David,Jones,YDS,23
+9010043,11/7/2015,FCS,Portland State,Northern Colo.,RECEIVING,David,Jones,TD,0
+9010044,11/7/2015,FCS,Portland State,Northern Colo.,RECEIVING,David,Jones,LONG,16
+9010045,11/7/2015,FCS,Portland State,Northern Colo.,RECEIVING,Josh,Kraght,REC,3
+9010046,11/7/2015,FCS,Portland State,Northern Colo.,RECEIVING,Josh,Kraght,YDS,22
+9010047,11/7/2015,FCS,Portland State,Northern Colo.,RECEIVING,Josh,Kraght,TD,0
+9010048,11/7/2015,FCS,Portland State,Northern Colo.,RECEIVING,Josh,Kraght,LONG,15
+9010049,11/7/2015,FCS,Portland State,Northern Colo.,RECEIVING,Steven,Long,REC,2
+9010050,11/7/2015,FCS,Portland State,Northern Colo.,RECEIVING,Steven,Long,YDS,14
+9010051,11/7/2015,FCS,Portland State,Northern Colo.,RECEIVING,Steven,Long,TD,0
+9010052,11/7/2015,FCS,Portland State,Northern Colo.,RECEIVING,Steven,Long,LONG,9
+9010053,11/7/2015,FCS,Portland State,Northern Colo.,RECEIVING,Stevie,Coury,REC,1
+9010054,11/7/2015,FCS,Portland State,Northern Colo.,RECEIVING,Stevie,Coury,YDS,6
+9010055,11/7/2015,FCS,Portland State,Northern Colo.,RECEIVING,Stevie,Coury,TD,0
+9010056,11/7/2015,FCS,Portland State,Northern Colo.,RECEIVING,Stevie,Coury,LONG,6
+9010057,11/7/2015,FCS,Portland State,Northern Colo.,KICKING,Jonathan,Gonzales,FG-FGA,1/1
+9010058,11/7/2015,FCS,Portland State,Northern Colo.,KICKING,Jonathan,Gonzales,LONG,35
+9010059,11/7/2015,FCS,Portland State,Northern Colo.,KICKING,Jonathan,Gonzales,XP,3
+9010060,11/7/2015,FCS,Portland State,Northern Colo.,KICKING,Jonathan,Gonzales,PTS,6
+9010061,11/7/2015,FCS,Portland State,Northern Colo.,PUNTING,Marcus,Kinsella,NO,4
+9010062,11/7/2015,FCS,Portland State,Northern Colo.,PUNTING,Marcus,Kinsella,YDS,156
+9010063,11/7/2015,FCS,Portland State,Northern Colo.,PUNTING,Marcus,Kinsella,AVG,39.0
+9010064,11/7/2015,FCS,Portland State,Northern Colo.,PUNTING,Marcus,Kinsella,LONG,57
+9010065,11/7/2015,FCS,Portland State,Northern Colo.,PUNT RETURNS,Josh,Kraght,NO,1
+9010066,11/7/2015,FCS,Portland State,Northern Colo.,PUNT RETURNS,Josh,Kraght,YDS,-1
+9010067,11/7/2015,FCS,Portland State,Northern Colo.,PUNT RETURNS,Josh,Kraght,AVG,-
+9010068,11/7/2015,FCS,Portland State,Northern Colo.,PUNT RETURNS,Josh,Kraght,LONG,0
+9010069,11/7/2015,FCS,Portland State,Northern Colo.,KICK RETURNS,Kahlil,Dawson,NO,3
+9010070,11/7/2015,FCS,Portland State,Northern Colo.,KICK RETURNS,Kahlil,Dawson,YDS,82
+9010071,11/7/2015,FCS,Portland State,Northern Colo.,KICK RETURNS,Kahlil,Dawson,AVG,27.3
+9010072,11/7/2015,FCS,Portland State,Northern Colo.,KICK RETURNS,Kahlil,Dawson,LONG,33
+9010073,11/7/2015,FCS,Northern Colo.,Portland State,RUSHING,Trae,Riek,ATT,25
+9010074,11/7/2015,FCS,Northern Colo.,Portland State,RUSHING,Trae,Riek,YDS,145
+9010075,11/7/2015,FCS,Northern Colo.,Portland State,RUSHING,Trae,Riek,TD,1
+9010076,11/7/2015,FCS,Northern Colo.,Portland State,RUSHING,Trae,Riek,LONG,64
+9010077,11/7/2015,FCS,Northern Colo.,Portland State,RUSHING,Jacob,Knipp,ATT,7
+9010078,11/7/2015,FCS,Northern Colo.,Portland State,RUSHING,Jacob,Knipp,YDS,28
+9010079,11/7/2015,FCS,Northern Colo.,Portland State,RUSHING,Jacob,Knipp,TD,1
+9010080,11/7/2015,FCS,Northern Colo.,Portland State,RUSHING,Jacob,Knipp,LONG,15
+9010081,11/7/2015,FCS,Northern Colo.,Portland State,RUSHING,Brandon,Cartagena,ATT,1
+9010082,11/7/2015,FCS,Northern Colo.,Portland State,RUSHING,Brandon,Cartagena,YDS,16
+9010083,11/7/2015,FCS,Northern Colo.,Portland State,RUSHING,Brandon,Cartagena,TD,1
+9010084,11/7/2015,FCS,Northern Colo.,Portland State,RUSHING,Brandon,Cartagena,LONG,16
+9010085,11/7/2015,FCS,Northern Colo.,Portland State,RUSHING,Anthony,Davis,ATT,3
+9010086,11/7/2015,FCS,Northern Colo.,Portland State,RUSHING,Anthony,Davis,YDS,16
+9010087,11/7/2015,FCS,Northern Colo.,Portland State,RUSHING,Anthony,Davis,TD,0
+9010088,11/7/2015,FCS,Northern Colo.,Portland State,RUSHING,Anthony,Davis,LONG,9
+9010089,11/7/2015,FCS,Northern Colo.,Portland State,RUSHING,Alex,Wesley,ATT,1
+9010090,11/7/2015,FCS,Northern Colo.,Portland State,RUSHING,Alex,Wesley,YDS,9
+9010091,11/7/2015,FCS,Northern Colo.,Portland State,RUSHING,Alex,Wesley,TD,0
+9010092,11/7/2015,FCS,Northern Colo.,Portland State,RUSHING,Alex,Wesley,LONG,0
+9010093,11/7/2015,FCS,Northern Colo.,Portland State,RUSHING,Darius,Graham,ATT,1
+9010094,11/7/2015,FCS,Northern Colo.,Portland State,RUSHING,Darius,Graham,YDS,0
+9010095,11/7/2015,FCS,Northern Colo.,Portland State,RUSHING,Darius,Graham,TD,0
+9010096,11/7/2015,FCS,Northern Colo.,Portland State,RUSHING,Darius,Graham,LONG,0
+9010097,11/7/2015,FCS,Northern Colo.,Portland State,RUSHING,,Team,ATT,1
+9010098,11/7/2015,FCS,Northern Colo.,Portland State,RUSHING,,Team,YDS,-1
+9010099,11/7/2015,FCS,Northern Colo.,Portland State,RUSHING,,Team,TD,0
+9010100,11/7/2015,FCS,Northern Colo.,Portland State,RUSHING,,Team,LONG,0
+9010101,11/7/2015,FCS,Northern Colo.,Portland State,PASSING,Jacob,Knipp,CP-ATT-INT,18-30-1
+9010102,11/7/2015,FCS,Northern Colo.,Portland State,PASSING,Jacob,Knipp,YDS,270
+9010103,11/7/2015,FCS,Northern Colo.,Portland State,PASSING,Jacob,Knipp,TD,1
+9010104,11/7/2015,FCS,Northern Colo.,Portland State,PASSING,Jacob,Knipp,LONG,58
+9010105,11/7/2015,FCS,Northern Colo.,Portland State,RECEIVING,Alex,Wesley,REC,3
+9010106,11/7/2015,FCS,Northern Colo.,Portland State,RECEIVING,Alex,Wesley,YDS,89
+9010107,11/7/2015,FCS,Northern Colo.,Portland State,RECEIVING,Alex,Wesley,TD,1
+9010108,11/7/2015,FCS,Northern Colo.,Portland State,RECEIVING,Alex,Wesley,LONG,58
+9010109,11/7/2015,FCS,Northern Colo.,Portland State,RECEIVING,Trae,Riek,REC,5
+9010110,11/7/2015,FCS,Northern Colo.,Portland State,RECEIVING,Trae,Riek,YDS,57
+9010111,11/7/2015,FCS,Northern Colo.,Portland State,RECEIVING,Trae,Riek,TD,0
+9010112,11/7/2015,FCS,Northern Colo.,Portland State,RECEIVING,Trae,Riek,LONG,34
+9010113,11/7/2015,FCS,Northern Colo.,Portland State,RECEIVING,Stephen,Miller,REC,3
+9010114,11/7/2015,FCS,Northern Colo.,Portland State,RECEIVING,Stephen,Miller,YDS,48
+9010115,11/7/2015,FCS,Northern Colo.,Portland State,RECEIVING,Stephen,Miller,TD,0
+9010116,11/7/2015,FCS,Northern Colo.,Portland State,RECEIVING,Stephen,Miller,LONG,24
+9010117,11/7/2015,FCS,Northern Colo.,Portland State,RECEIVING,Theron,Verna,REC,2
+9010118,11/7/2015,FCS,Northern Colo.,Portland State,RECEIVING,Theron,Verna,YDS,29
+9010119,11/7/2015,FCS,Northern Colo.,Portland State,RECEIVING,Theron,Verna,TD,0
+9010120,11/7/2015,FCS,Northern Colo.,Portland State,RECEIVING,Theron,Verna,LONG,18
+9010121,11/7/2015,FCS,Northern Colo.,Portland State,RECEIVING,Michael,McCauley,REC,2
+9010122,11/7/2015,FCS,Northern Colo.,Portland State,RECEIVING,Michael,McCauley,YDS,19
+9010123,11/7/2015,FCS,Northern Colo.,Portland State,RECEIVING,Michael,McCauley,TD,0
+9010124,11/7/2015,FCS,Northern Colo.,Portland State,RECEIVING,Michael,McCauley,LONG,13
+9010125,11/7/2015,FCS,Northern Colo.,Portland State,RECEIVING,Hakeem,Deggs,REC,2
+9010126,11/7/2015,FCS,Northern Colo.,Portland State,RECEIVING,Hakeem,Deggs,YDS,16
+9010127,11/7/2015,FCS,Northern Colo.,Portland State,RECEIVING,Hakeem,Deggs,TD,0
+9010128,11/7/2015,FCS,Northern Colo.,Portland State,RECEIVING,Hakeem,Deggs,LONG,9
+9010129,11/7/2015,FCS,Northern Colo.,Portland State,RECEIVING,Ellis,OnicII,REC,1
+9010130,11/7/2015,FCS,Northern Colo.,Portland State,RECEIVING,Ellis,OnicII,YDS,12
+9010131,11/7/2015,FCS,Northern Colo.,Portland State,RECEIVING,Ellis,OnicII,TD,0
+9010132,11/7/2015,FCS,Northern Colo.,Portland State,RECEIVING,Ellis,OnicII,LONG,12
+9010133,11/7/2015,FCS,Northern Colo.,Portland State,KICKING,Jamie,Falloon,FG-FGA,0/0
+9010134,11/7/2015,FCS,Northern Colo.,Portland State,KICKING,Jamie,Falloon,LONG,-
+9010135,11/7/2015,FCS,Northern Colo.,Portland State,KICKING,Jamie,Falloon,XP,5
+9010136,11/7/2015,FCS,Northern Colo.,Portland State,KICKING,Jamie,Falloon,PTS,5
+9010137,11/7/2015,FCS,Northern Colo.,Portland State,PUNTING,Keifer,Glau,NO,5
+9010138,11/7/2015,FCS,Northern Colo.,Portland State,PUNTING,Keifer,Glau,YDS,176
+9010139,11/7/2015,FCS,Northern Colo.,Portland State,PUNTING,Keifer,Glau,AVG,35.2
+9010140,11/7/2015,FCS,Northern Colo.,Portland State,PUNTING,Keifer,Glau,LONG,47
+9010141,11/7/2015,FCS,Northern Colo.,Portland State,KICK RETURNS,Ellis,OnicII,NO,1
+9010142,11/7/2015,FCS,Northern Colo.,Portland State,KICK RETURNS,Ellis,OnicII,YDS,41
+9010143,11/7/2015,FCS,Northern Colo.,Portland State,KICK RETURNS,Ellis,OnicII,AVG,41.0
+9010144,11/7/2015,FCS,Northern Colo.,Portland State,KICK RETURNS,Ellis,OnicII,LONG,41
+9010145,11/7/2015,FCS,Northern Colo.,Portland State,KICK RETURNS,Kyle,Sloter,NO,1
+9010146,11/7/2015,FCS,Northern Colo.,Portland State,KICK RETURNS,Kyle,Sloter,YDS,14
+9010147,11/7/2015,FCS,Northern Colo.,Portland State,KICK RETURNS,Kyle,Sloter,AVG,14.0
+9010148,11/7/2015,FCS,Northern Colo.,Portland State,KICK RETURNS,Kyle,Sloter,LONG,14
+9010149,11/7/2015,FCS,Northern Colo.,Portland State,KICK RETURNS,Anthony,Davis,NO,1
+9010150,11/7/2015,FCS,Northern Colo.,Portland State,KICK RETURNS,Anthony,Davis,YDS,13
+9010151,11/7/2015,FCS,Northern Colo.,Portland State,KICK RETURNS,Anthony,Davis,AVG,13.0
+9010152,11/7/2015,FCS,Northern Colo.,Portland State,KICK RETURNS,Anthony,Davis,LONG,13
+9010153,11/7/2015,FCS,Northern Colo.,Portland State,KICK RETURNS,Hakeem,Deggs,NO,1
+9010154,11/7/2015,FCS,Northern Colo.,Portland State,KICK RETURNS,Hakeem,Deggs,YDS,11
+9010155,11/7/2015,FCS,Northern Colo.,Portland State,KICK RETURNS,Hakeem,Deggs,AVG,11.0
+9010156,11/7/2015,FCS,Northern Colo.,Portland State,KICK RETURNS,Hakeem,Deggs,LONG,11
+9010157,11/7/2015,FCS,Northern Colo.,Portland State,KICK RETURNS,Thomas,Singleton,NO,1
+9010158,11/7/2015,FCS,Northern Colo.,Portland State,KICK RETURNS,Thomas,Singleton,YDS,9
+9010159,11/7/2015,FCS,Northern Colo.,Portland State,KICK RETURNS,Thomas,Singleton,AVG,9.0
+9010160,11/7/2015,FCS,Northern Colo.,Portland State,KICK RETURNS,Thomas,Singleton,LONG,9

@@ -1,0 +1,81 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9244001,9/3/2016,FCS,Dayton,Central State,RUSHING,Jack,Adams,ATT,12
+9244002,9/3/2016,FCS,Dayton,Central State,RUSHING,Jack,Adams,YDS,56
+9244003,9/3/2016,FCS,Dayton,Central State,RUSHING,Jack,Adams,TD,1
+9244004,9/3/2016,FCS,Dayton,Central State,RUSHING,Jack,Adams,LONG,27
+9244005,9/3/2016,FCS,Dayton,Central State,RUSHING,Tucker,Yinger,ATT,11
+9244006,9/3/2016,FCS,Dayton,Central State,RUSHING,Tucker,Yinger,YDS,53
+9244007,9/3/2016,FCS,Dayton,Central State,RUSHING,Tucker,Yinger,TD,0
+9244008,9/3/2016,FCS,Dayton,Central State,RUSHING,Tucker,Yinger,LONG,11
+9244009,9/3/2016,FCS,Dayton,Central State,RUSHING,Owen,Williams,ATT,6
+9244010,9/3/2016,FCS,Dayton,Central State,RUSHING,Owen,Williams,YDS,28
+9244011,9/3/2016,FCS,Dayton,Central State,RUSHING,Owen,Williams,TD,0
+9244012,9/3/2016,FCS,Dayton,Central State,RUSHING,Owen,Williams,LONG,15
+9244013,9/3/2016,FCS,Dayton,Central State,RUSHING,Alex,Jeske,ATT,8
+9244014,9/3/2016,FCS,Dayton,Central State,RUSHING,Alex,Jeske,YDS,23
+9244015,9/3/2016,FCS,Dayton,Central State,RUSHING,Alex,Jeske,TD,1
+9244016,9/3/2016,FCS,Dayton,Central State,RUSHING,Alex,Jeske,LONG,9
+9244017,9/3/2016,FCS,Dayton,Central State,RUSHING,Ryan,Skibinski,ATT,1
+9244018,9/3/2016,FCS,Dayton,Central State,RUSHING,Ryan,Skibinski,YDS,12
+9244019,9/3/2016,FCS,Dayton,Central State,RUSHING,Ryan,Skibinski,TD,0
+9244020,9/3/2016,FCS,Dayton,Central State,RUSHING,Ryan,Skibinski,LONG,12
+9244021,9/3/2016,FCS,Dayton,Central State,RUSHING,,Team,ATT,3
+9244022,9/3/2016,FCS,Dayton,Central State,RUSHING,,Team,YDS,-20
+9244023,9/3/2016,FCS,Dayton,Central State,RUSHING,,Team,TD,0
+9244024,9/3/2016,FCS,Dayton,Central State,RUSHING,,Team,LONG,0
+9244025,9/3/2016,FCS,Dayton,Central State,PASSING,Alex,Jeske,CP-ATT-INT,18-27-1
+9244026,9/3/2016,FCS,Dayton,Central State,PASSING,Alex,Jeske,YDS,256
+9244027,9/3/2016,FCS,Dayton,Central State,PASSING,Alex,Jeske,TD,2
+9244028,9/3/2016,FCS,Dayton,Central State,PASSING,Alex,Jeske,LONG,57
+9244029,9/3/2016,FCS,Dayton,Central State,RECEIVING,Jack,Euritt,REC,5
+9244030,9/3/2016,FCS,Dayton,Central State,RECEIVING,Jack,Euritt,YDS,93
+9244031,9/3/2016,FCS,Dayton,Central State,RECEIVING,Jack,Euritt,TD,1
+9244032,9/3/2016,FCS,Dayton,Central State,RECEIVING,Jack,Euritt,LONG,35
+9244033,9/3/2016,FCS,Dayton,Central State,RECEIVING,J.P.,Forcucci,REC,2
+9244034,9/3/2016,FCS,Dayton,Central State,RECEIVING,J.P.,Forcucci,YDS,67
+9244035,9/3/2016,FCS,Dayton,Central State,RECEIVING,J.P.,Forcucci,TD,1
+9244036,9/3/2016,FCS,Dayton,Central State,RECEIVING,J.P.,Forcucci,LONG,57
+9244037,9/3/2016,FCS,Dayton,Central State,RECEIVING,Tyler,Tumpane,REC,3
+9244038,9/3/2016,FCS,Dayton,Central State,RECEIVING,Tyler,Tumpane,YDS,32
+9244039,9/3/2016,FCS,Dayton,Central State,RECEIVING,Tyler,Tumpane,TD,0
+9244040,9/3/2016,FCS,Dayton,Central State,RECEIVING,Tyler,Tumpane,LONG,16
+9244041,9/3/2016,FCS,Dayton,Central State,RECEIVING,Ryan,Skibinski,REC,3
+9244042,9/3/2016,FCS,Dayton,Central State,RECEIVING,Ryan,Skibinski,YDS,23
+9244043,9/3/2016,FCS,Dayton,Central State,RECEIVING,Ryan,Skibinski,TD,0
+9244044,9/3/2016,FCS,Dayton,Central State,RECEIVING,Ryan,Skibinski,LONG,19
+9244045,9/3/2016,FCS,Dayton,Central State,RECEIVING,Adam,Trautman,REC,2
+9244046,9/3/2016,FCS,Dayton,Central State,RECEIVING,Adam,Trautman,YDS,20
+9244047,9/3/2016,FCS,Dayton,Central State,RECEIVING,Adam,Trautman,TD,0
+9244048,9/3/2016,FCS,Dayton,Central State,RECEIVING,Adam,Trautman,LONG,14
+9244049,9/3/2016,FCS,Dayton,Central State,RECEIVING,Jack,Adams,REC,1
+9244050,9/3/2016,FCS,Dayton,Central State,RECEIVING,Jack,Adams,YDS,7
+9244051,9/3/2016,FCS,Dayton,Central State,RECEIVING,Jack,Adams,TD,0
+9244052,9/3/2016,FCS,Dayton,Central State,RECEIVING,Jack,Adams,LONG,7
+9244053,9/3/2016,FCS,Dayton,Central State,RECEIVING,Tucker,Yinger,REC,1
+9244054,9/3/2016,FCS,Dayton,Central State,RECEIVING,Tucker,Yinger,YDS,7
+9244055,9/3/2016,FCS,Dayton,Central State,RECEIVING,Tucker,Yinger,TD,0
+9244056,9/3/2016,FCS,Dayton,Central State,RECEIVING,Tucker,Yinger,LONG,7
+9244057,9/3/2016,FCS,Dayton,Central State,RECEIVING,Alex,Kenner,REC,1
+9244058,9/3/2016,FCS,Dayton,Central State,RECEIVING,Alex,Kenner,YDS,7
+9244059,9/3/2016,FCS,Dayton,Central State,RECEIVING,Alex,Kenner,TD,0
+9244060,9/3/2016,FCS,Dayton,Central State,RECEIVING,Alex,Kenner,LONG,7
+9244061,9/3/2016,FCS,Dayton,Central State,KICKING,William,Will,FG-FGA,1/2
+9244062,9/3/2016,FCS,Dayton,Central State,KICKING,William,Will,LONG,22
+9244063,9/3/2016,FCS,Dayton,Central State,KICKING,William,Will,XP,4
+9244064,9/3/2016,FCS,Dayton,Central State,KICKING,William,Will,PTS,7
+9244065,9/3/2016,FCS,Dayton,Central State,PUNTING,Sean,Smith,NO,4
+9244066,9/3/2016,FCS,Dayton,Central State,PUNTING,Sean,Smith,YDS,187
+9244067,9/3/2016,FCS,Dayton,Central State,PUNTING,Sean,Smith,AVG,46.8
+9244068,9/3/2016,FCS,Dayton,Central State,PUNTING,Sean,Smith,LONG,62
+9244069,9/3/2016,FCS,Dayton,Central State,PUNT RETURNS,Christian,Searles,NO,1
+9244070,9/3/2016,FCS,Dayton,Central State,PUNT RETURNS,Christian,Searles,YDS,0
+9244071,9/3/2016,FCS,Dayton,Central State,PUNT RETURNS,Christian,Searles,AVG,-
+9244072,9/3/2016,FCS,Dayton,Central State,PUNT RETURNS,Christian,Searles,LONG,0
+9244073,9/3/2016,FCS,Dayton,Central State,KICK RETURNS,Cameron,Stubbs,NO,1
+9244074,9/3/2016,FCS,Dayton,Central State,KICK RETURNS,Cameron,Stubbs,YDS,16
+9244075,9/3/2016,FCS,Dayton,Central State,KICK RETURNS,Cameron,Stubbs,AVG,16.0
+9244076,9/3/2016,FCS,Dayton,Central State,KICK RETURNS,Cameron,Stubbs,LONG,16
+9244077,9/3/2016,FCS,Dayton,Central State,KICK RETURNS,Shane,Hannah,NO,1
+9244078,9/3/2016,FCS,Dayton,Central State,KICK RETURNS,Shane,Hannah,YDS,0
+9244079,9/3/2016,FCS,Dayton,Central State,KICK RETURNS,Shane,Hannah,AVG,-
+9244080,9/3/2016,FCS,Dayton,Central State,KICK RETURNS,Shane,Hannah,LONG,0

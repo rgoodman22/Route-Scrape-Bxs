@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9451001,9/24/2016,FCS,Howard,Morgan State,RUSHING,William,Parker,ATT,13
+9451002,9/24/2016,FCS,Howard,Morgan State,RUSHING,William,Parker,YDS,80
+9451003,9/24/2016,FCS,Howard,Morgan State,RUSHING,William,Parker,TD,1
+9451004,9/24/2016,FCS,Howard,Morgan State,RUSHING,William,Parker,LONG,26
+9451005,9/24/2016,FCS,Howard,Morgan State,RUSHING,CJ,Rainey,ATT,16
+9451006,9/24/2016,FCS,Howard,Morgan State,RUSHING,CJ,Rainey,YDS,78
+9451007,9/24/2016,FCS,Howard,Morgan State,RUSHING,CJ,Rainey,TD,0
+9451008,9/24/2016,FCS,Howard,Morgan State,RUSHING,CJ,Rainey,LONG,27
+9451009,9/24/2016,FCS,Howard,Morgan State,RUSHING,Da'Vaun,Johnson,ATT,10
+9451010,9/24/2016,FCS,Howard,Morgan State,RUSHING,Da'Vaun,Johnson,YDS,48
+9451011,9/24/2016,FCS,Howard,Morgan State,RUSHING,Da'Vaun,Johnson,TD,1
+9451012,9/24/2016,FCS,Howard,Morgan State,RUSHING,Da'Vaun,Johnson,LONG,16
+9451013,9/24/2016,FCS,Howard,Morgan State,RUSHING,Kalen,Johnson,ATT,12
+9451014,9/24/2016,FCS,Howard,Morgan State,RUSHING,Kalen,Johnson,YDS,19
+9451015,9/24/2016,FCS,Howard,Morgan State,RUSHING,Kalen,Johnson,TD,0
+9451016,9/24/2016,FCS,Howard,Morgan State,RUSHING,Kalen,Johnson,LONG,10
+9451017,9/24/2016,FCS,Howard,Morgan State,RUSHING,David,Lee,ATT,1
+9451018,9/24/2016,FCS,Howard,Morgan State,RUSHING,David,Lee,YDS,3
+9451019,9/24/2016,FCS,Howard,Morgan State,RUSHING,David,Lee,TD,0
+9451020,9/24/2016,FCS,Howard,Morgan State,RUSHING,David,Lee,LONG,3
+9451021,9/24/2016,FCS,Howard,Morgan State,RUSHING,,Team,ATT,1
+9451022,9/24/2016,FCS,Howard,Morgan State,RUSHING,,Team,YDS,-12
+9451023,9/24/2016,FCS,Howard,Morgan State,RUSHING,,Team,TD,0
+9451024,9/24/2016,FCS,Howard,Morgan State,RUSHING,,Team,LONG,0
+9451025,9/24/2016,FCS,Howard,Morgan State,PASSING,Kalen,Johnson,CP-ATT-INT,12-32-1
+9451026,9/24/2016,FCS,Howard,Morgan State,PASSING,Kalen,Johnson,YDS,176
+9451027,9/24/2016,FCS,Howard,Morgan State,PASSING,Kalen,Johnson,TD,0
+9451028,9/24/2016,FCS,Howard,Morgan State,PASSING,Kalen,Johnson,LONG,33
+9451029,9/24/2016,FCS,Howard,Morgan State,RECEIVING,Kyle,Anthony,REC,3
+9451030,9/24/2016,FCS,Howard,Morgan State,RECEIVING,Kyle,Anthony,YDS,55
+9451031,9/24/2016,FCS,Howard,Morgan State,RECEIVING,Kyle,Anthony,TD,0
+9451032,9/24/2016,FCS,Howard,Morgan State,RECEIVING,Kyle,Anthony,LONG,33
+9451033,9/24/2016,FCS,Howard,Morgan State,RECEIVING,Guy,LemonierJr.,REC,3
+9451034,9/24/2016,FCS,Howard,Morgan State,RECEIVING,Guy,LemonierJr.,YDS,40
+9451035,9/24/2016,FCS,Howard,Morgan State,RECEIVING,Guy,LemonierJr.,TD,0
+9451036,9/24/2016,FCS,Howard,Morgan State,RECEIVING,Guy,LemonierJr.,LONG,22
+9451037,9/24/2016,FCS,Howard,Morgan State,RECEIVING,Robert,Mercer,REC,2
+9451038,9/24/2016,FCS,Howard,Morgan State,RECEIVING,Robert,Mercer,YDS,29
+9451039,9/24/2016,FCS,Howard,Morgan State,RECEIVING,Robert,Mercer,TD,0
+9451040,9/24/2016,FCS,Howard,Morgan State,RECEIVING,Robert,Mercer,LONG,26
+9451041,9/24/2016,FCS,Howard,Morgan State,RECEIVING,Jalen,Avery,REC,2
+9451042,9/24/2016,FCS,Howard,Morgan State,RECEIVING,Jalen,Avery,YDS,22
+9451043,9/24/2016,FCS,Howard,Morgan State,RECEIVING,Jalen,Avery,TD,0
+9451044,9/24/2016,FCS,Howard,Morgan State,RECEIVING,Jalen,Avery,LONG,12
+9451045,9/24/2016,FCS,Howard,Morgan State,RECEIVING,Da'Vaun,Johnson,REC,1
+9451046,9/24/2016,FCS,Howard,Morgan State,RECEIVING,Da'Vaun,Johnson,YDS,19
+9451047,9/24/2016,FCS,Howard,Morgan State,RECEIVING,Da'Vaun,Johnson,TD,0
+9451048,9/24/2016,FCS,Howard,Morgan State,RECEIVING,Da'Vaun,Johnson,LONG,19
+9451049,9/24/2016,FCS,Howard,Morgan State,RECEIVING,Evan,Brooks,REC,1
+9451050,9/24/2016,FCS,Howard,Morgan State,RECEIVING,Evan,Brooks,YDS,11
+9451051,9/24/2016,FCS,Howard,Morgan State,RECEIVING,Evan,Brooks,TD,0
+9451052,9/24/2016,FCS,Howard,Morgan State,RECEIVING,Evan,Brooks,LONG,11
+9451053,9/24/2016,FCS,Howard,Morgan State,KICKING,Jordan,Griggs,FG-FGA,3/4
+9451054,9/24/2016,FCS,Howard,Morgan State,KICKING,Jordan,Griggs,LONG,45
+9451055,9/24/2016,FCS,Howard,Morgan State,KICKING,Jordan,Griggs,XP,1
+9451056,9/24/2016,FCS,Howard,Morgan State,KICKING,Jordan,Griggs,PTS,10
+9451057,9/24/2016,FCS,Howard,Morgan State,PUNTING,Dakota,Lebofsky,NO,4
+9451058,9/24/2016,FCS,Howard,Morgan State,PUNTING,Dakota,Lebofsky,YDS,100
+9451059,9/24/2016,FCS,Howard,Morgan State,PUNTING,Dakota,Lebofsky,AVG,25.0
+9451060,9/24/2016,FCS,Howard,Morgan State,PUNTING,Dakota,Lebofsky,LONG,30
+9451061,9/24/2016,FCS,Howard,Morgan State,PUNT RETURNS,Jalen,Avery,NO,1
+9451062,9/24/2016,FCS,Howard,Morgan State,PUNT RETURNS,Jalen,Avery,YDS,8
+9451063,9/24/2016,FCS,Howard,Morgan State,PUNT RETURNS,Jalen,Avery,AVG,8.0
+9451064,9/24/2016,FCS,Howard,Morgan State,PUNT RETURNS,Jalen,Avery,LONG,8
+9451065,9/24/2016,FCS,Howard,Morgan State,KICK RETURNS,Jequez,Ezzard,NO,2
+9451066,9/24/2016,FCS,Howard,Morgan State,KICK RETURNS,Jequez,Ezzard,YDS,18
+9451067,9/24/2016,FCS,Howard,Morgan State,KICK RETURNS,Jequez,Ezzard,AVG,9.0
+9451068,9/24/2016,FCS,Howard,Morgan State,KICK RETURNS,Jequez,Ezzard,LONG,18
+9451069,9/24/2016,FCS,Howard,Morgan State,KICK RETURNS,Guy,LemonierJr.,NO,1
+9451070,9/24/2016,FCS,Howard,Morgan State,KICK RETURNS,Guy,LemonierJr.,YDS,16
+9451071,9/24/2016,FCS,Howard,Morgan State,KICK RETURNS,Guy,LemonierJr.,AVG,16.0
+9451072,9/24/2016,FCS,Howard,Morgan State,KICK RETURNS,Guy,LemonierJr.,LONG,16
+9451073,9/24/2016,FCS,Morgan State,Howard,RUSHING,Lamont,BrownIII,ATT,12
+9451074,9/24/2016,FCS,Morgan State,Howard,RUSHING,Lamont,BrownIII,YDS,57
+9451075,9/24/2016,FCS,Morgan State,Howard,RUSHING,Lamont,BrownIII,TD,0
+9451076,9/24/2016,FCS,Morgan State,Howard,RUSHING,Lamont,BrownIII,LONG,16
+9451077,9/24/2016,FCS,Morgan State,Howard,RUSHING,Eric,Harrell,ATT,10
+9451078,9/24/2016,FCS,Morgan State,Howard,RUSHING,Eric,Harrell,YDS,52
+9451079,9/24/2016,FCS,Morgan State,Howard,RUSHING,Eric,Harrell,TD,1
+9451080,9/24/2016,FCS,Morgan State,Howard,RUSHING,Eric,Harrell,LONG,8
+9451081,9/24/2016,FCS,Morgan State,Howard,RUSHING,Chris,Andrews,ATT,9
+9451082,9/24/2016,FCS,Morgan State,Howard,RUSHING,Chris,Andrews,YDS,51
+9451083,9/24/2016,FCS,Morgan State,Howard,RUSHING,Chris,Andrews,TD,0
+9451084,9/24/2016,FCS,Morgan State,Howard,RUSHING,Chris,Andrews,LONG,11
+9451085,9/24/2016,FCS,Morgan State,Howard,RUSHING,Orlando,Johnson,ATT,5
+9451086,9/24/2016,FCS,Morgan State,Howard,RUSHING,Orlando,Johnson,YDS,7
+9451087,9/24/2016,FCS,Morgan State,Howard,RUSHING,Orlando,Johnson,TD,0
+9451088,9/24/2016,FCS,Morgan State,Howard,RUSHING,Orlando,Johnson,LONG,4
+9451089,9/24/2016,FCS,Morgan State,Howard,RUSHING,,Team,ATT,1
+9451090,9/24/2016,FCS,Morgan State,Howard,RUSHING,,Team,YDS,-19
+9451091,9/24/2016,FCS,Morgan State,Howard,RUSHING,,Team,TD,0
+9451092,9/24/2016,FCS,Morgan State,Howard,RUSHING,,Team,LONG,0
+9451093,9/24/2016,FCS,Morgan State,Howard,PASSING,Chris,Andrews,CP-ATT-INT,7-18-2
+9451094,9/24/2016,FCS,Morgan State,Howard,PASSING,Chris,Andrews,YDS,178
+9451095,9/24/2016,FCS,Morgan State,Howard,PASSING,Chris,Andrews,TD,3
+9451096,9/24/2016,FCS,Morgan State,Howard,PASSING,Chris,Andrews,LONG,51
+9451097,9/24/2016,FCS,Morgan State,Howard,PASSING,Chris,ClackJr.,CP-ATT-INT,0-1-0
+9451098,9/24/2016,FCS,Morgan State,Howard,PASSING,Chris,ClackJr.,YDS,0
+9451099,9/24/2016,FCS,Morgan State,Howard,PASSING,Chris,ClackJr.,TD,0
+9451100,9/24/2016,FCS,Morgan State,Howard,PASSING,Chris,ClackJr.,LONG,0
+9451101,9/24/2016,FCS,Morgan State,Howard,RECEIVING,Ladarious,Spearman,REC,2
+9451102,9/24/2016,FCS,Morgan State,Howard,RECEIVING,Ladarious,Spearman,YDS,71
+9451103,9/24/2016,FCS,Morgan State,Howard,RECEIVING,Ladarious,Spearman,TD,1
+9451104,9/24/2016,FCS,Morgan State,Howard,RECEIVING,Ladarious,Spearman,LONG,51
+9451105,9/24/2016,FCS,Morgan State,Howard,RECEIVING,Willie,GillusIII,REC,1
+9451106,9/24/2016,FCS,Morgan State,Howard,RECEIVING,Willie,GillusIII,YDS,44
+9451107,9/24/2016,FCS,Morgan State,Howard,RECEIVING,Willie,GillusIII,TD,1
+9451108,9/24/2016,FCS,Morgan State,Howard,RECEIVING,Willie,GillusIII,LONG,44
+9451109,9/24/2016,FCS,Morgan State,Howard,RECEIVING,Ricky,Fisk,REC,2
+9451110,9/24/2016,FCS,Morgan State,Howard,RECEIVING,Ricky,Fisk,YDS,39
+9451111,9/24/2016,FCS,Morgan State,Howard,RECEIVING,Ricky,Fisk,TD,1
+9451112,9/24/2016,FCS,Morgan State,Howard,RECEIVING,Ricky,Fisk,LONG,32
+9451113,9/24/2016,FCS,Morgan State,Howard,RECEIVING,Orlando,Johnson,REC,1
+9451114,9/24/2016,FCS,Morgan State,Howard,RECEIVING,Orlando,Johnson,YDS,12
+9451115,9/24/2016,FCS,Morgan State,Howard,RECEIVING,Orlando,Johnson,TD,0
+9451116,9/24/2016,FCS,Morgan State,Howard,RECEIVING,Orlando,Johnson,LONG,12
+9451117,9/24/2016,FCS,Morgan State,Howard,RECEIVING,Grayling,Harrison,REC,1
+9451118,9/24/2016,FCS,Morgan State,Howard,RECEIVING,Grayling,Harrison,YDS,12
+9451119,9/24/2016,FCS,Morgan State,Howard,RECEIVING,Grayling,Harrison,TD,0
+9451120,9/24/2016,FCS,Morgan State,Howard,RECEIVING,Grayling,Harrison,LONG,12
+9451121,9/24/2016,FCS,Morgan State,Howard,KICKING,Alex,Raya,FG-FGA,0/1
+9451122,9/24/2016,FCS,Morgan State,Howard,KICKING,Alex,Raya,LONG,0
+9451123,9/24/2016,FCS,Morgan State,Howard,KICKING,Alex,Raya,XP,2
+9451124,9/24/2016,FCS,Morgan State,Howard,KICKING,Alex,Raya,PTS,2
+9451125,9/24/2016,FCS,Morgan State,Howard,PUNTING,Alex,Raya,NO,3
+9451126,9/24/2016,FCS,Morgan State,Howard,PUNTING,Alex,Raya,YDS,109
+9451127,9/24/2016,FCS,Morgan State,Howard,PUNTING,Alex,Raya,AVG,36.3
+9451128,9/24/2016,FCS,Morgan State,Howard,PUNTING,Alex,Raya,LONG,52
+9451129,9/24/2016,FCS,Morgan State,Howard,KICK RETURNS,Orlando,Johnson,NO,3
+9451130,9/24/2016,FCS,Morgan State,Howard,KICK RETURNS,Orlando,Johnson,YDS,55
+9451131,9/24/2016,FCS,Morgan State,Howard,KICK RETURNS,Orlando,Johnson,AVG,18.3
+9451132,9/24/2016,FCS,Morgan State,Howard,KICK RETURNS,Orlando,Johnson,LONG,27
+9451133,9/24/2016,FCS,Morgan State,Howard,KICK RETURNS,Eric,Harrell,NO,2
+9451134,9/24/2016,FCS,Morgan State,Howard,KICK RETURNS,Eric,Harrell,YDS,26
+9451135,9/24/2016,FCS,Morgan State,Howard,KICK RETURNS,Eric,Harrell,AVG,13.0
+9451136,9/24/2016,FCS,Morgan State,Howard,KICK RETURNS,Eric,Harrell,LONG,14

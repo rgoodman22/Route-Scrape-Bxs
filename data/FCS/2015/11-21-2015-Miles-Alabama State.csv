@@ -1,0 +1,69 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9163001,11/21/2015,FCS,Alabama State,Miles,RUSHING,Ellis,Richardson,ATT,11
+9163002,11/21/2015,FCS,Alabama State,Miles,RUSHING,Ellis,Richardson,YDS,123
+9163003,11/21/2015,FCS,Alabama State,Miles,RUSHING,Ellis,Richardson,TD,1
+9163004,11/21/2015,FCS,Alabama State,Miles,RUSHING,Ellis,Richardson,LONG,53
+9163005,11/21/2015,FCS,Alabama State,Miles,RUSHING,Khalid,Thomas,ATT,21
+9163006,11/21/2015,FCS,Alabama State,Miles,RUSHING,Khalid,Thomas,YDS,78
+9163007,11/21/2015,FCS,Alabama State,Miles,RUSHING,Khalid,Thomas,TD,1
+9163008,11/21/2015,FCS,Alabama State,Miles,RUSHING,Khalid,Thomas,LONG,12
+9163009,11/21/2015,FCS,Alabama State,Miles,RUSHING,Robert,Pritchett,ATT,7
+9163010,11/21/2015,FCS,Alabama State,Miles,RUSHING,Robert,Pritchett,YDS,47
+9163011,11/21/2015,FCS,Alabama State,Miles,RUSHING,Robert,Pritchett,TD,0
+9163012,11/21/2015,FCS,Alabama State,Miles,RUSHING,Robert,Pritchett,LONG,17
+9163013,11/21/2015,FCS,Alabama State,Miles,RUSHING,Stanley,Robinson,ATT,9
+9163014,11/21/2015,FCS,Alabama State,Miles,RUSHING,Stanley,Robinson,YDS,23
+9163015,11/21/2015,FCS,Alabama State,Miles,RUSHING,Stanley,Robinson,TD,1
+9163016,11/21/2015,FCS,Alabama State,Miles,RUSHING,Stanley,Robinson,LONG,4
+9163017,11/21/2015,FCS,Alabama State,Miles,RUSHING,Daniel,Duhart,ATT,5
+9163018,11/21/2015,FCS,Alabama State,Miles,RUSHING,Daniel,Duhart,YDS,16
+9163019,11/21/2015,FCS,Alabama State,Miles,RUSHING,Daniel,Duhart,TD,0
+9163020,11/21/2015,FCS,Alabama State,Miles,RUSHING,Daniel,Duhart,LONG,18
+9163021,11/21/2015,FCS,Alabama State,Miles,PASSING,Daniel,Duhart,CP-ATT-INT,9-16-0
+9163022,11/21/2015,FCS,Alabama State,Miles,PASSING,Daniel,Duhart,YDS,113
+9163023,11/21/2015,FCS,Alabama State,Miles,PASSING,Daniel,Duhart,TD,0
+9163024,11/21/2015,FCS,Alabama State,Miles,PASSING,Daniel,Duhart,LONG,46
+9163025,11/21/2015,FCS,Alabama State,Miles,PASSING,Ellis,Richardson,CP-ATT-INT,6-10-1
+9163026,11/21/2015,FCS,Alabama State,Miles,PASSING,Ellis,Richardson,YDS,78
+9163027,11/21/2015,FCS,Alabama State,Miles,PASSING,Ellis,Richardson,TD,0
+9163028,11/21/2015,FCS,Alabama State,Miles,PASSING,Ellis,Richardson,LONG,39
+9163029,11/21/2015,FCS,Alabama State,Miles,RECEIVING,Ephraim,Henderson,REC,7
+9163030,11/21/2015,FCS,Alabama State,Miles,RECEIVING,Ephraim,Henderson,YDS,78
+9163031,11/21/2015,FCS,Alabama State,Miles,RECEIVING,Ephraim,Henderson,TD,0
+9163032,11/21/2015,FCS,Alabama State,Miles,RECEIVING,Ephraim,Henderson,LONG,46
+9163033,11/21/2015,FCS,Alabama State,Miles,RECEIVING,Joshua,Davis,REC,3
+9163034,11/21/2015,FCS,Alabama State,Miles,RECEIVING,Joshua,Davis,YDS,61
+9163035,11/21/2015,FCS,Alabama State,Miles,RECEIVING,Joshua,Davis,TD,0
+9163036,11/21/2015,FCS,Alabama State,Miles,RECEIVING,Joshua,Davis,LONG,39
+9163037,11/21/2015,FCS,Alabama State,Miles,RECEIVING,Joe,WilliamsIV,REC,2
+9163038,11/21/2015,FCS,Alabama State,Miles,RECEIVING,Joe,WilliamsIV,YDS,21
+9163039,11/21/2015,FCS,Alabama State,Miles,RECEIVING,Joe,WilliamsIV,TD,0
+9163040,11/21/2015,FCS,Alabama State,Miles,RECEIVING,Joe,WilliamsIV,LONG,11
+9163041,11/21/2015,FCS,Alabama State,Miles,RECEIVING,Austin,Beamus,REC,1
+9163042,11/21/2015,FCS,Alabama State,Miles,RECEIVING,Austin,Beamus,YDS,15
+9163043,11/21/2015,FCS,Alabama State,Miles,RECEIVING,Austin,Beamus,TD,0
+9163044,11/21/2015,FCS,Alabama State,Miles,RECEIVING,Austin,Beamus,LONG,15
+9163045,11/21/2015,FCS,Alabama State,Miles,RECEIVING,Khalid,Thomas,REC,1
+9163046,11/21/2015,FCS,Alabama State,Miles,RECEIVING,Khalid,Thomas,YDS,10
+9163047,11/21/2015,FCS,Alabama State,Miles,RECEIVING,Khalid,Thomas,TD,0
+9163048,11/21/2015,FCS,Alabama State,Miles,RECEIVING,Khalid,Thomas,LONG,10
+9163049,11/21/2015,FCS,Alabama State,Miles,RECEIVING,Shawan,Parks,REC,1
+9163050,11/21/2015,FCS,Alabama State,Miles,RECEIVING,Shawan,Parks,YDS,6
+9163051,11/21/2015,FCS,Alabama State,Miles,RECEIVING,Shawan,Parks,TD,0
+9163052,11/21/2015,FCS,Alabama State,Miles,RECEIVING,Shawan,Parks,LONG,6
+9163053,11/21/2015,FCS,Alabama State,Miles,KICKING,David,Albert,FG-FGA,1/1
+9163054,11/21/2015,FCS,Alabama State,Miles,KICKING,David,Albert,LONG,26
+9163055,11/21/2015,FCS,Alabama State,Miles,KICKING,David,Albert,XP,1
+9163056,11/21/2015,FCS,Alabama State,Miles,KICKING,David,Albert,PTS,4
+9163057,11/21/2015,FCS,Alabama State,Miles,PUNTING,Trevor,Vincent,NO,3
+9163058,11/21/2015,FCS,Alabama State,Miles,PUNTING,Trevor,Vincent,YDS,122
+9163059,11/21/2015,FCS,Alabama State,Miles,PUNTING,Trevor,Vincent,AVG,40.7
+9163060,11/21/2015,FCS,Alabama State,Miles,PUNTING,Trevor,Vincent,LONG,56
+9163061,11/21/2015,FCS,Alabama State,Miles,KICK RETURNS,Shawan,Parks,NO,2
+9163062,11/21/2015,FCS,Alabama State,Miles,KICK RETURNS,Shawan,Parks,YDS,32
+9163063,11/21/2015,FCS,Alabama State,Miles,KICK RETURNS,Shawan,Parks,AVG,16.0
+9163064,11/21/2015,FCS,Alabama State,Miles,KICK RETURNS,Shawan,Parks,LONG,21
+9163065,11/21/2015,FCS,Alabama State,Miles,KICK RETURNS,Khalid,Thomas,NO,1
+9163066,11/21/2015,FCS,Alabama State,Miles,KICK RETURNS,Khalid,Thomas,YDS,22
+9163067,11/21/2015,FCS,Alabama State,Miles,KICK RETURNS,Khalid,Thomas,AVG,22.0
+9163068,11/21/2015,FCS,Alabama State,Miles,KICK RETURNS,Khalid,Thomas,LONG,22

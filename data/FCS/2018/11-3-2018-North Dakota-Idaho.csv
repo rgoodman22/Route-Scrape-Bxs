@@ -1,0 +1,200 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+11360001,11/3/2018,FCS,North Dakota,Idaho,RUSHING,Brady,Oliveira,ATT,28
+11360002,11/3/2018,FCS,North Dakota,Idaho,RUSHING,Brady,Oliveira,YDS,190
+11360003,11/3/2018,FCS,North Dakota,Idaho,RUSHING,Brady,Oliveira,TD,2
+11360004,11/3/2018,FCS,North Dakota,Idaho,RUSHING,Brady,Oliveira,LONG,68
+11360005,11/3/2018,FCS,North Dakota,Idaho,RUSHING,James,Johannesson,ATT,8
+11360006,11/3/2018,FCS,North Dakota,Idaho,RUSHING,James,Johannesson,YDS,28
+11360007,11/3/2018,FCS,North Dakota,Idaho,RUSHING,James,Johannesson,TD,0
+11360008,11/3/2018,FCS,North Dakota,Idaho,RUSHING,James,Johannesson,LONG,10
+11360009,11/3/2018,FCS,North Dakota,Idaho,RUSHING,Cam,McKinney,ATT,1
+11360010,11/3/2018,FCS,North Dakota,Idaho,RUSHING,Cam,McKinney,YDS,5
+11360011,11/3/2018,FCS,North Dakota,Idaho,RUSHING,Cam,McKinney,TD,0
+11360012,11/3/2018,FCS,North Dakota,Idaho,RUSHING,Cam,McKinney,LONG,5
+11360013,11/3/2018,FCS,North Dakota,Idaho,RUSHING,Nate,Ketteringham,ATT,9
+11360014,11/3/2018,FCS,North Dakota,Idaho,RUSHING,Nate,Ketteringham,YDS,-51
+11360015,11/3/2018,FCS,North Dakota,Idaho,RUSHING,Nate,Ketteringham,TD,0
+11360016,11/3/2018,FCS,North Dakota,Idaho,RUSHING,Nate,Ketteringham,LONG,2
+11360017,11/3/2018,FCS,North Dakota,Idaho,PASSING,Nate,Ketteringham,CP-ATT-INT,16-31-1
+11360018,11/3/2018,FCS,North Dakota,Idaho,PASSING,Nate,Ketteringham,YDS,163
+11360019,11/3/2018,FCS,North Dakota,Idaho,PASSING,Nate,Ketteringham,TD,2
+11360020,11/3/2018,FCS,North Dakota,Idaho,PASSING,Nate,Ketteringham,LONG,40
+11360021,11/3/2018,FCS,North Dakota,Idaho,PASSING,Luke,Stanley,CP-ATT-INT,0-1-0
+11360022,11/3/2018,FCS,North Dakota,Idaho,PASSING,Luke,Stanley,YDS,0
+11360023,11/3/2018,FCS,North Dakota,Idaho,PASSING,Luke,Stanley,TD,0
+11360024,11/3/2018,FCS,North Dakota,Idaho,PASSING,Luke,Stanley,LONG,0
+11360025,11/3/2018,FCS,North Dakota,Idaho,RECEIVING,Garett,Maag,REC,7
+11360026,11/3/2018,FCS,North Dakota,Idaho,RECEIVING,Garett,Maag,YDS,74
+11360027,11/3/2018,FCS,North Dakota,Idaho,RECEIVING,Garett,Maag,TD,2
+11360028,11/3/2018,FCS,North Dakota,Idaho,RECEIVING,Garett,Maag,LONG,40
+11360029,11/3/2018,FCS,North Dakota,Idaho,RECEIVING,Luke,Stanley,REC,4
+11360030,11/3/2018,FCS,North Dakota,Idaho,RECEIVING,Luke,Stanley,YDS,51
+11360031,11/3/2018,FCS,North Dakota,Idaho,RECEIVING,Luke,Stanley,TD,0
+11360032,11/3/2018,FCS,North Dakota,Idaho,RECEIVING,Luke,Stanley,LONG,20
+11360033,11/3/2018,FCS,North Dakota,Idaho,RECEIVING,Cam,McKinney,REC,4
+11360034,11/3/2018,FCS,North Dakota,Idaho,RECEIVING,Cam,McKinney,YDS,29
+11360035,11/3/2018,FCS,North Dakota,Idaho,RECEIVING,Cam,McKinney,TD,0
+11360036,11/3/2018,FCS,North Dakota,Idaho,RECEIVING,Cam,McKinney,LONG,15
+11360037,11/3/2018,FCS,North Dakota,Idaho,RECEIVING,Brady,Oliveira,REC,1
+11360038,11/3/2018,FCS,North Dakota,Idaho,RECEIVING,Brady,Oliveira,YDS,9
+11360039,11/3/2018,FCS,North Dakota,Idaho,RECEIVING,Brady,Oliveira,TD,0
+11360040,11/3/2018,FCS,North Dakota,Idaho,RECEIVING,Brady,Oliveira,LONG,9
+11360041,11/3/2018,FCS,North Dakota,Idaho,KICKING,Brady,Leach,FG-FGA,0/0
+11360042,11/3/2018,FCS,North Dakota,Idaho,KICKING,Brady,Leach,LONG,-
+11360043,11/3/2018,FCS,North Dakota,Idaho,KICKING,Brady,Leach,XP,3
+11360044,11/3/2018,FCS,North Dakota,Idaho,KICKING,Brady,Leach,PTS,3
+11360045,11/3/2018,FCS,North Dakota,Idaho,PUNTING,Cade,Peterson,NO,7
+11360046,11/3/2018,FCS,North Dakota,Idaho,PUNTING,Cade,Peterson,YDS,280
+11360047,11/3/2018,FCS,North Dakota,Idaho,PUNTING,Cade,Peterson,AVG,40.0
+11360048,11/3/2018,FCS,North Dakota,Idaho,PUNTING,Cade,Peterson,LONG,46
+11360049,11/3/2018,FCS,North Dakota,Idaho,PUNTING,,Team,NO,1
+11360050,11/3/2018,FCS,North Dakota,Idaho,PUNTING,,Team,YDS,0
+11360051,11/3/2018,FCS,North Dakota,Idaho,PUNTING,,Team,AVG,-
+11360052,11/3/2018,FCS,North Dakota,Idaho,PUNTING,,Team,LONG,0
+11360053,11/3/2018,FCS,North Dakota,Idaho,PUNT RETURNS,Mikey,Griebel,NO,1
+11360054,11/3/2018,FCS,North Dakota,Idaho,PUNT RETURNS,Mikey,Griebel,YDS,14
+11360055,11/3/2018,FCS,North Dakota,Idaho,PUNT RETURNS,Mikey,Griebel,AVG,14.0
+11360056,11/3/2018,FCS,North Dakota,Idaho,PUNT RETURNS,Mikey,Griebel,LONG,14
+11360057,11/3/2018,FCS,North Dakota,Idaho,KICK RETURNS,Evan,Holm,NO,1
+11360058,11/3/2018,FCS,North Dakota,Idaho,KICK RETURNS,Evan,Holm,YDS,21
+11360059,11/3/2018,FCS,North Dakota,Idaho,KICK RETURNS,Evan,Holm,AVG,21.0
+11360060,11/3/2018,FCS,North Dakota,Idaho,KICK RETURNS,Evan,Holm,LONG,21
+11360061,11/3/2018,FCS,North Dakota,Idaho,KICK RETURNS,Hunter,Pinke,NO,1
+11360062,11/3/2018,FCS,North Dakota,Idaho,KICK RETURNS,Hunter,Pinke,YDS,10
+11360063,11/3/2018,FCS,North Dakota,Idaho,KICK RETURNS,Hunter,Pinke,AVG,10.0
+11360064,11/3/2018,FCS,North Dakota,Idaho,KICK RETURNS,Hunter,Pinke,LONG,10
+11360065,11/3/2018,FCS,North Dakota,Idaho,KICK RETURNS,Hayden,Blubaugh,NO,1
+11360066,11/3/2018,FCS,North Dakota,Idaho,KICK RETURNS,Hayden,Blubaugh,YDS,9
+11360067,11/3/2018,FCS,North Dakota,Idaho,KICK RETURNS,Hayden,Blubaugh,AVG,9.0
+11360068,11/3/2018,FCS,North Dakota,Idaho,KICK RETURNS,Hayden,Blubaugh,LONG,9
+11360069,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Austin,Cieslak,TOT,1
+11360070,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Austin,Cieslak,SOLO,1
+11360071,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Austin,Cieslak,SACKS,1
+11360072,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Austin,Cieslak,TFL,1
+11360073,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Austin,Cieslak,INT,0
+11360074,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Austin,Cieslak,FF,0
+11360075,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Austin,Cieslak,FR,0
+11360076,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Mason,Bennett,TOT,0
+11360077,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Mason,Bennett,SOLO,0
+11360078,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Mason,Bennett,SACKS,0
+11360079,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Mason,Bennett,TFL,0
+11360080,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Mason,Bennett,INT,0
+11360081,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Mason,Bennett,FF,0
+11360082,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Mason,Bennett,FR,1
+11360083,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Noah,Larson,TOT,0
+11360084,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Noah,Larson,SOLO,0
+11360085,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Noah,Larson,SACKS,0
+11360086,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Noah,Larson,TFL,0
+11360087,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Noah,Larson,INT,0
+11360088,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Noah,Larson,FF,0
+11360089,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Noah,Larson,FR,1
+11360090,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Lenny,NelsonIV,TOT,0
+11360091,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Lenny,NelsonIV,SOLO,0
+11360092,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Lenny,NelsonIV,SACKS,0
+11360093,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Lenny,NelsonIV,TFL,0
+11360094,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Lenny,NelsonIV,INT,0
+11360095,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Lenny,NelsonIV,FF,1
+11360096,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Lenny,NelsonIV,FR,0
+11360097,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Jaxson,Turner,TOT,3
+11360098,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Jaxson,Turner,SOLO,3
+11360099,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Jaxson,Turner,SACKS,1
+11360100,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Jaxson,Turner,TFL,1
+11360101,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Jaxson,Turner,INT,0
+11360102,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Jaxson,Turner,FF,1
+11360103,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Jaxson,Turner,FR,0
+11360104,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Evan,Holm,TOT,5
+11360105,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Evan,Holm,SOLO,5
+11360106,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Evan,Holm,SACKS,1
+11360107,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Evan,Holm,TFL,1
+11360108,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Evan,Holm,INT,0
+11360109,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Evan,Holm,FF,1
+11360110,11/3/2018,FCS,North Dakota,Idaho,DEFENSE,Evan,Holm,FR,0
+11360111,11/3/2018,FCS,Idaho,North Dakota,RUSHING,Isaiah,Saunders,ATT,17
+11360112,11/3/2018,FCS,Idaho,North Dakota,RUSHING,Isaiah,Saunders,YDS,94
+11360113,11/3/2018,FCS,Idaho,North Dakota,RUSHING,Isaiah,Saunders,TD,1
+11360114,11/3/2018,FCS,Idaho,North Dakota,RUSHING,Isaiah,Saunders,LONG,43
+11360115,11/3/2018,FCS,Idaho,North Dakota,RUSHING,Tyrese,Walker,ATT,5
+11360116,11/3/2018,FCS,Idaho,North Dakota,RUSHING,Tyrese,Walker,YDS,19
+11360117,11/3/2018,FCS,Idaho,North Dakota,RUSHING,Tyrese,Walker,TD,0
+11360118,11/3/2018,FCS,Idaho,North Dakota,RUSHING,Tyrese,Walker,LONG,11
+11360119,11/3/2018,FCS,Idaho,North Dakota,RUSHING,Roshaun,Johnson,ATT,1
+11360120,11/3/2018,FCS,Idaho,North Dakota,RUSHING,Roshaun,Johnson,YDS,6
+11360121,11/3/2018,FCS,Idaho,North Dakota,RUSHING,Roshaun,Johnson,TD,0
+11360122,11/3/2018,FCS,Idaho,North Dakota,RUSHING,Roshaun,Johnson,LONG,6
+11360123,11/3/2018,FCS,Idaho,North Dakota,RUSHING,Mason,Petrino,ATT,3
+11360124,11/3/2018,FCS,Idaho,North Dakota,RUSHING,Mason,Petrino,YDS,-18
+11360125,11/3/2018,FCS,Idaho,North Dakota,RUSHING,Mason,Petrino,TD,0
+11360126,11/3/2018,FCS,Idaho,North Dakota,RUSHING,Mason,Petrino,LONG,0
+11360127,11/3/2018,FCS,Idaho,North Dakota,PASSING,Mason,Petrino,CP-ATT-INT,27-50-0
+11360128,11/3/2018,FCS,Idaho,North Dakota,PASSING,Mason,Petrino,YDS,277
+11360129,11/3/2018,FCS,Idaho,North Dakota,PASSING,Mason,Petrino,TD,2
+11360130,11/3/2018,FCS,Idaho,North Dakota,PASSING,Mason,Petrino,LONG,32
+11360131,11/3/2018,FCS,Idaho,North Dakota,RECEIVING,Jeff,Cotton,REC,10
+11360132,11/3/2018,FCS,Idaho,North Dakota,RECEIVING,Jeff,Cotton,YDS,137
+11360133,11/3/2018,FCS,Idaho,North Dakota,RECEIVING,Jeff,Cotton,TD,1
+11360134,11/3/2018,FCS,Idaho,North Dakota,RECEIVING,Jeff,Cotton,LONG,32
+11360135,11/3/2018,FCS,Idaho,North Dakota,RECEIVING,David,Ungerer,REC,9
+11360136,11/3/2018,FCS,Idaho,North Dakota,RECEIVING,David,Ungerer,YDS,72
+11360137,11/3/2018,FCS,Idaho,North Dakota,RECEIVING,David,Ungerer,TD,1
+11360138,11/3/2018,FCS,Idaho,North Dakota,RECEIVING,David,Ungerer,LONG,28
+11360139,11/3/2018,FCS,Idaho,North Dakota,RECEIVING,Connor,Whitney,REC,3
+11360140,11/3/2018,FCS,Idaho,North Dakota,RECEIVING,Connor,Whitney,YDS,38
+11360141,11/3/2018,FCS,Idaho,North Dakota,RECEIVING,Connor,Whitney,TD,0
+11360142,11/3/2018,FCS,Idaho,North Dakota,RECEIVING,Connor,Whitney,LONG,23
+11360143,11/3/2018,FCS,Idaho,North Dakota,RECEIVING,Cutrell,Haywood,REC,3
+11360144,11/3/2018,FCS,Idaho,North Dakota,RECEIVING,Cutrell,Haywood,YDS,12
+11360145,11/3/2018,FCS,Idaho,North Dakota,RECEIVING,Cutrell,Haywood,TD,0
+11360146,11/3/2018,FCS,Idaho,North Dakota,RECEIVING,Cutrell,Haywood,LONG,8
+11360147,11/3/2018,FCS,Idaho,North Dakota,RECEIVING,DJ,Lee,REC,1
+11360148,11/3/2018,FCS,Idaho,North Dakota,RECEIVING,DJ,Lee,YDS,12
+11360149,11/3/2018,FCS,Idaho,North Dakota,RECEIVING,DJ,Lee,TD,0
+11360150,11/3/2018,FCS,Idaho,North Dakota,RECEIVING,DJ,Lee,LONG,12
+11360151,11/3/2018,FCS,Idaho,North Dakota,RECEIVING,Isaiah,Saunders,REC,1
+11360152,11/3/2018,FCS,Idaho,North Dakota,RECEIVING,Isaiah,Saunders,YDS,6
+11360153,11/3/2018,FCS,Idaho,North Dakota,RECEIVING,Isaiah,Saunders,TD,0
+11360154,11/3/2018,FCS,Idaho,North Dakota,RECEIVING,Isaiah,Saunders,LONG,6
+11360155,11/3/2018,FCS,Idaho,North Dakota,KICKING,Cade,Coffey,FG-FGA,1/1
+11360156,11/3/2018,FCS,Idaho,North Dakota,KICKING,Cade,Coffey,LONG,21
+11360157,11/3/2018,FCS,Idaho,North Dakota,KICKING,Cade,Coffey,XP,4
+11360158,11/3/2018,FCS,Idaho,North Dakota,KICKING,Cade,Coffey,PTS,7
+11360159,11/3/2018,FCS,Idaho,North Dakota,PUNTING,Cade,Coffey,NO,7
+11360160,11/3/2018,FCS,Idaho,North Dakota,PUNTING,Cade,Coffey,YDS,265
+11360161,11/3/2018,FCS,Idaho,North Dakota,PUNTING,Cade,Coffey,AVG,37.9
+11360162,11/3/2018,FCS,Idaho,North Dakota,PUNTING,Cade,Coffey,LONG,62
+11360163,11/3/2018,FCS,Idaho,North Dakota,PUNT RETURNS,Jalen,Hoover,NO,1
+11360164,11/3/2018,FCS,Idaho,North Dakota,PUNT RETURNS,Jalen,Hoover,YDS,27
+11360165,11/3/2018,FCS,Idaho,North Dakota,PUNT RETURNS,Jalen,Hoover,AVG,27.0
+11360166,11/3/2018,FCS,Idaho,North Dakota,PUNT RETURNS,Jalen,Hoover,LONG,27
+11360167,11/3/2018,FCS,Idaho,North Dakota,PUNT RETURNS,Connor,Whitney,NO,0
+11360168,11/3/2018,FCS,Idaho,North Dakota,PUNT RETURNS,Connor,Whitney,YDS,3
+11360169,11/3/2018,FCS,Idaho,North Dakota,PUNT RETURNS,Connor,Whitney,AVG,-
+11360170,11/3/2018,FCS,Idaho,North Dakota,PUNT RETURNS,Connor,Whitney,LONG,3
+11360171,11/3/2018,FCS,Idaho,North Dakota,PUNT RETURNS,David,Ungerer,NO,1
+11360172,11/3/2018,FCS,Idaho,North Dakota,PUNT RETURNS,David,Ungerer,YDS,0
+11360173,11/3/2018,FCS,Idaho,North Dakota,PUNT RETURNS,David,Ungerer,AVG,-
+11360174,11/3/2018,FCS,Idaho,North Dakota,PUNT RETURNS,David,Ungerer,LONG,0
+11360175,11/3/2018,FCS,Idaho,North Dakota,KICK RETURNS,Jeff,Cotton,NO,1
+11360176,11/3/2018,FCS,Idaho,North Dakota,KICK RETURNS,Jeff,Cotton,YDS,30
+11360177,11/3/2018,FCS,Idaho,North Dakota,KICK RETURNS,Jeff,Cotton,AVG,30.0
+11360178,11/3/2018,FCS,Idaho,North Dakota,KICK RETURNS,Jeff,Cotton,LONG,30
+11360179,11/3/2018,FCS,Idaho,North Dakota,DEFENSE,Charles,Akanno,TOT,6
+11360180,11/3/2018,FCS,Idaho,North Dakota,DEFENSE,Charles,Akanno,SOLO,5
+11360181,11/3/2018,FCS,Idaho,North Dakota,DEFENSE,Charles,Akanno,SACKS,2
+11360182,11/3/2018,FCS,Idaho,North Dakota,DEFENSE,Charles,Akanno,TFL,3
+11360183,11/3/2018,FCS,Idaho,North Dakota,DEFENSE,Charles,Akanno,INT,0
+11360184,11/3/2018,FCS,Idaho,North Dakota,DEFENSE,Charles,Akanno,FF,0
+11360185,11/3/2018,FCS,Idaho,North Dakota,DEFENSE,Charles,Akanno,FR,0
+11360186,11/3/2018,FCS,Idaho,North Dakota,DEFENSE,Denzal,Brantley,TOT,0
+11360187,11/3/2018,FCS,Idaho,North Dakota,DEFENSE,Denzal,Brantley,SOLO,0
+11360188,11/3/2018,FCS,Idaho,North Dakota,DEFENSE,Denzal,Brantley,SACKS,0
+11360189,11/3/2018,FCS,Idaho,North Dakota,DEFENSE,Denzal,Brantley,TFL,0
+11360190,11/3/2018,FCS,Idaho,North Dakota,DEFENSE,Denzal,Brantley,INT,1
+11360191,11/3/2018,FCS,Idaho,North Dakota,DEFENSE,Denzal,Brantley,FF,0
+11360192,11/3/2018,FCS,Idaho,North Dakota,DEFENSE,Denzal,Brantley,FR,0
+11360193,11/3/2018,FCS,Idaho,North Dakota,DEFENSE,D.J.,Henderson,TOT,6
+11360194,11/3/2018,FCS,Idaho,North Dakota,DEFENSE,D.J.,Henderson,SOLO,5
+11360195,11/3/2018,FCS,Idaho,North Dakota,DEFENSE,D.J.,Henderson,SACKS,2
+11360196,11/3/2018,FCS,Idaho,North Dakota,DEFENSE,D.J.,Henderson,TFL,4
+11360197,11/3/2018,FCS,Idaho,North Dakota,DEFENSE,D.J.,Henderson,INT,0
+11360198,11/3/2018,FCS,Idaho,North Dakota,DEFENSE,D.J.,Henderson,FF,0
+11360199,11/3/2018,FCS,Idaho,North Dakota,DEFENSE,D.J.,Henderson,FR,0

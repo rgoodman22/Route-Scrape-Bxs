@@ -1,0 +1,173 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9641001,10/15/2016,FCS,Liberty,Kennesaw State,RUSHING,Todd,Macon,ATT,16
+9641002,10/15/2016,FCS,Liberty,Kennesaw State,RUSHING,Todd,Macon,YDS,74
+9641003,10/15/2016,FCS,Liberty,Kennesaw State,RUSHING,Todd,Macon,TD,1
+9641004,10/15/2016,FCS,Liberty,Kennesaw State,RUSHING,Todd,Macon,LONG,20
+9641005,10/15/2016,FCS,Liberty,Kennesaw State,RUSHING,Carrington,Mosley,ATT,8
+9641006,10/15/2016,FCS,Liberty,Kennesaw State,RUSHING,Carrington,Mosley,YDS,69
+9641007,10/15/2016,FCS,Liberty,Kennesaw State,RUSHING,Carrington,Mosley,TD,1
+9641008,10/15/2016,FCS,Liberty,Kennesaw State,RUSHING,Carrington,Mosley,LONG,52
+9641009,10/15/2016,FCS,Liberty,Kennesaw State,RUSHING,Frankie,Hickson,ATT,11
+9641010,10/15/2016,FCS,Liberty,Kennesaw State,RUSHING,Frankie,Hickson,YDS,41
+9641011,10/15/2016,FCS,Liberty,Kennesaw State,RUSHING,Frankie,Hickson,TD,0
+9641012,10/15/2016,FCS,Liberty,Kennesaw State,RUSHING,Frankie,Hickson,LONG,10
+9641013,10/15/2016,FCS,Liberty,Kennesaw State,RUSHING,Damian,King,ATT,1
+9641014,10/15/2016,FCS,Liberty,Kennesaw State,RUSHING,Damian,King,YDS,14
+9641015,10/15/2016,FCS,Liberty,Kennesaw State,RUSHING,Damian,King,TD,0
+9641016,10/15/2016,FCS,Liberty,Kennesaw State,RUSHING,Damian,King,LONG,14
+9641017,10/15/2016,FCS,Liberty,Kennesaw State,RUSHING,Stephen,Calvert,ATT,3
+9641018,10/15/2016,FCS,Liberty,Kennesaw State,RUSHING,Stephen,Calvert,YDS,6
+9641019,10/15/2016,FCS,Liberty,Kennesaw State,RUSHING,Stephen,Calvert,TD,0
+9641020,10/15/2016,FCS,Liberty,Kennesaw State,RUSHING,Stephen,Calvert,LONG,5
+9641021,10/15/2016,FCS,Liberty,Kennesaw State,RUSHING,,Team,ATT,1
+9641022,10/15/2016,FCS,Liberty,Kennesaw State,RUSHING,,Team,YDS,-1
+9641023,10/15/2016,FCS,Liberty,Kennesaw State,RUSHING,,Team,TD,0
+9641024,10/15/2016,FCS,Liberty,Kennesaw State,RUSHING,,Team,LONG,0
+9641025,10/15/2016,FCS,Liberty,Kennesaw State,PASSING,Stephen,Calvert,CP-ATT-INT,22-30-0
+9641026,10/15/2016,FCS,Liberty,Kennesaw State,PASSING,Stephen,Calvert,YDS,211
+9641027,10/15/2016,FCS,Liberty,Kennesaw State,PASSING,Stephen,Calvert,TD,1
+9641028,10/15/2016,FCS,Liberty,Kennesaw State,PASSING,Stephen,Calvert,LONG,37
+9641029,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Zac,Parker,REC,3
+9641030,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Zac,Parker,YDS,50
+9641031,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Zac,Parker,TD,0
+9641032,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Zac,Parker,LONG,37
+9641033,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,B.J.,Farrow,REC,4
+9641034,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,B.J.,Farrow,YDS,36
+9641035,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,B.J.,Farrow,TD,1
+9641036,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,B.J.,Farrow,LONG,14
+9641037,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Dante',Shells,REC,4
+9641038,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Dante',Shells,YDS,32
+9641039,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Dante',Shells,TD,0
+9641040,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Dante',Shells,LONG,15
+9641041,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Carrington,Mosley,REC,1
+9641042,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Carrington,Mosley,YDS,28
+9641043,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Carrington,Mosley,TD,0
+9641044,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Carrington,Mosley,LONG,28
+9641045,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Kendall,Couamin,REC,3
+9641046,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Kendall,Couamin,YDS,26
+9641047,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Kendall,Couamin,TD,0
+9641048,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Kendall,Couamin,LONG,13
+9641049,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Canon,Smith,REC,1
+9641050,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Canon,Smith,YDS,13
+9641051,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Canon,Smith,TD,0
+9641052,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Canon,Smith,LONG,13
+9641053,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Damian,King,REC,1
+9641054,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Damian,King,YDS,7
+9641055,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Damian,King,TD,0
+9641056,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Damian,King,LONG,7
+9641057,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Antonio,Gandy-Golden,REC,1
+9641058,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Antonio,Gandy-Golden,YDS,6
+9641059,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Antonio,Gandy-Golden,TD,0
+9641060,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Antonio,Gandy-Golden,LONG,6
+9641061,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Frankie,Hickson,REC,1
+9641062,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Frankie,Hickson,YDS,6
+9641063,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Frankie,Hickson,TD,0
+9641064,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Frankie,Hickson,LONG,6
+9641065,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Todd,Macon,REC,2
+9641066,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Todd,Macon,YDS,4
+9641067,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Todd,Macon,TD,0
+9641068,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Todd,Macon,LONG,4
+9641069,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Thomas,Kennedy,REC,1
+9641070,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Thomas,Kennedy,YDS,3
+9641071,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Thomas,Kennedy,TD,0
+9641072,10/15/2016,FCS,Liberty,Kennesaw State,RECEIVING,Thomas,Kennedy,LONG,3
+9641073,10/15/2016,FCS,Liberty,Kennesaw State,KICKING,Alex,Probert,FG-FGA,3/3
+9641074,10/15/2016,FCS,Liberty,Kennesaw State,KICKING,Alex,Probert,LONG,50
+9641075,10/15/2016,FCS,Liberty,Kennesaw State,KICKING,Alex,Probert,XP,3
+9641076,10/15/2016,FCS,Liberty,Kennesaw State,KICKING,Alex,Probert,PTS,12
+9641077,10/15/2016,FCS,Liberty,Kennesaw State,PUNTING,Trey,Turner,NO,4
+9641078,10/15/2016,FCS,Liberty,Kennesaw State,PUNTING,Trey,Turner,YDS,152
+9641079,10/15/2016,FCS,Liberty,Kennesaw State,PUNTING,Trey,Turner,AVG,38.0
+9641080,10/15/2016,FCS,Liberty,Kennesaw State,PUNTING,Trey,Turner,LONG,47
+9641081,10/15/2016,FCS,Liberty,Kennesaw State,PUNT RETURNS,T.J.,Tillery,NO,1
+9641082,10/15/2016,FCS,Liberty,Kennesaw State,PUNT RETURNS,T.J.,Tillery,YDS,-1
+9641083,10/15/2016,FCS,Liberty,Kennesaw State,PUNT RETURNS,T.J.,Tillery,AVG,-
+9641084,10/15/2016,FCS,Liberty,Kennesaw State,PUNT RETURNS,T.J.,Tillery,LONG,0
+9641085,10/15/2016,FCS,Liberty,Kennesaw State,PUNT RETURNS,Damian,King,NO,1
+9641086,10/15/2016,FCS,Liberty,Kennesaw State,PUNT RETURNS,Damian,King,YDS,-1
+9641087,10/15/2016,FCS,Liberty,Kennesaw State,PUNT RETURNS,Damian,King,AVG,-
+9641088,10/15/2016,FCS,Liberty,Kennesaw State,PUNT RETURNS,Damian,King,LONG,0
+9641089,10/15/2016,FCS,Liberty,Kennesaw State,KICK RETURNS,Frankie,Hickson,NO,1
+9641090,10/15/2016,FCS,Liberty,Kennesaw State,KICK RETURNS,Frankie,Hickson,YDS,99
+9641091,10/15/2016,FCS,Liberty,Kennesaw State,KICK RETURNS,Frankie,Hickson,AVG,99.0
+9641092,10/15/2016,FCS,Liberty,Kennesaw State,KICK RETURNS,Frankie,Hickson,LONG,99
+9641093,10/15/2016,FCS,Liberty,Kennesaw State,KICK RETURNS,Zac,Parker,NO,1
+9641094,10/15/2016,FCS,Liberty,Kennesaw State,KICK RETURNS,Zac,Parker,YDS,7
+9641095,10/15/2016,FCS,Liberty,Kennesaw State,KICK RETURNS,Zac,Parker,AVG,7.0
+9641096,10/15/2016,FCS,Liberty,Kennesaw State,KICK RETURNS,Zac,Parker,LONG,7
+9641097,10/15/2016,FCS,Kennesaw State,Liberty,RUSHING,Chandler,Burks,ATT,28
+9641098,10/15/2016,FCS,Kennesaw State,Liberty,RUSHING,Chandler,Burks,YDS,98
+9641099,10/15/2016,FCS,Kennesaw State,Liberty,RUSHING,Chandler,Burks,TD,1
+9641100,10/15/2016,FCS,Kennesaw State,Liberty,RUSHING,Chandler,Burks,LONG,12
+9641101,10/15/2016,FCS,Kennesaw State,Liberty,RUSHING,Chaston,Bennett,ATT,5
+9641102,10/15/2016,FCS,Kennesaw State,Liberty,RUSHING,Chaston,Bennett,YDS,76
+9641103,10/15/2016,FCS,Kennesaw State,Liberty,RUSHING,Chaston,Bennett,TD,1
+9641104,10/15/2016,FCS,Kennesaw State,Liberty,RUSHING,Chaston,Bennett,LONG,63
+9641105,10/15/2016,FCS,Kennesaw State,Liberty,RUSHING,Darnell,Holland,ATT,2
+9641106,10/15/2016,FCS,Kennesaw State,Liberty,RUSHING,Darnell,Holland,YDS,59
+9641107,10/15/2016,FCS,Kennesaw State,Liberty,RUSHING,Darnell,Holland,TD,0
+9641108,10/15/2016,FCS,Kennesaw State,Liberty,RUSHING,Darnell,Holland,LONG,53
+9641109,10/15/2016,FCS,Kennesaw State,Liberty,RUSHING,Jake,McKenzie,ATT,9
+9641110,10/15/2016,FCS,Kennesaw State,Liberty,RUSHING,Jake,McKenzie,YDS,19
+9641111,10/15/2016,FCS,Kennesaw State,Liberty,RUSHING,Jake,McKenzie,TD,0
+9641112,10/15/2016,FCS,Kennesaw State,Liberty,RUSHING,Jake,McKenzie,LONG,4
+9641113,10/15/2016,FCS,Kennesaw State,Liberty,RUSHING,Daniel,David,ATT,2
+9641114,10/15/2016,FCS,Kennesaw State,Liberty,RUSHING,Daniel,David,YDS,15
+9641115,10/15/2016,FCS,Kennesaw State,Liberty,RUSHING,Daniel,David,TD,0
+9641116,10/15/2016,FCS,Kennesaw State,Liberty,RUSHING,Daniel,David,LONG,14
+9641117,10/15/2016,FCS,Kennesaw State,Liberty,PASSING,Chandler,Burks,CP-ATT-INT,11-19-0
+9641118,10/15/2016,FCS,Kennesaw State,Liberty,PASSING,Chandler,Burks,YDS,141
+9641119,10/15/2016,FCS,Kennesaw State,Liberty,PASSING,Chandler,Burks,TD,1
+9641120,10/15/2016,FCS,Kennesaw State,Liberty,PASSING,Chandler,Burks,LONG,43
+9641121,10/15/2016,FCS,Kennesaw State,Liberty,PASSING,Daniel,David,CP-ATT-INT,1-4-0
+9641122,10/15/2016,FCS,Kennesaw State,Liberty,PASSING,Daniel,David,YDS,35
+9641123,10/15/2016,FCS,Kennesaw State,Liberty,PASSING,Daniel,David,TD,0
+9641124,10/15/2016,FCS,Kennesaw State,Liberty,PASSING,Daniel,David,LONG,35
+9641125,10/15/2016,FCS,Kennesaw State,Liberty,PASSING,Jake,McKenzie,CP-ATT-INT,1-1-0
+9641126,10/15/2016,FCS,Kennesaw State,Liberty,PASSING,Jake,McKenzie,YDS,29
+9641127,10/15/2016,FCS,Kennesaw State,Liberty,PASSING,Jake,McKenzie,TD,0
+9641128,10/15/2016,FCS,Kennesaw State,Liberty,PASSING,Jake,McKenzie,LONG,29
+9641129,10/15/2016,FCS,Kennesaw State,Liberty,RECEIVING,Xavier,Harper,REC,5
+9641130,10/15/2016,FCS,Kennesaw State,Liberty,RECEIVING,Xavier,Harper,YDS,88
+9641131,10/15/2016,FCS,Kennesaw State,Liberty,RECEIVING,Xavier,Harper,TD,0
+9641132,10/15/2016,FCS,Kennesaw State,Liberty,RECEIVING,Xavier,Harper,LONG,35
+9641133,10/15/2016,FCS,Kennesaw State,Liberty,RECEIVING,Chaston,Bennett,REC,2
+9641134,10/15/2016,FCS,Kennesaw State,Liberty,RECEIVING,Chaston,Bennett,YDS,41
+9641135,10/15/2016,FCS,Kennesaw State,Liberty,RECEIVING,Chaston,Bennett,TD,1
+9641136,10/15/2016,FCS,Kennesaw State,Liberty,RECEIVING,Chaston,Bennett,LONG,43
+9641137,10/15/2016,FCS,Kennesaw State,Liberty,RECEIVING,Tremayne,Trawick,REC,4
+9641138,10/15/2016,FCS,Kennesaw State,Liberty,RECEIVING,Tremayne,Trawick,YDS,32
+9641139,10/15/2016,FCS,Kennesaw State,Liberty,RECEIVING,Tremayne,Trawick,TD,0
+9641140,10/15/2016,FCS,Kennesaw State,Liberty,RECEIVING,Tremayne,Trawick,LONG,10
+9641141,10/15/2016,FCS,Kennesaw State,Liberty,RECEIVING,Darnell,Holland,REC,1
+9641142,10/15/2016,FCS,Kennesaw State,Liberty,RECEIVING,Darnell,Holland,YDS,29
+9641143,10/15/2016,FCS,Kennesaw State,Liberty,RECEIVING,Darnell,Holland,TD,0
+9641144,10/15/2016,FCS,Kennesaw State,Liberty,RECEIVING,Darnell,Holland,LONG,29
+9641145,10/15/2016,FCS,Kennesaw State,Liberty,RECEIVING,Jake,McKenzie,REC,1
+9641146,10/15/2016,FCS,Kennesaw State,Liberty,RECEIVING,Jake,McKenzie,YDS,15
+9641147,10/15/2016,FCS,Kennesaw State,Liberty,RECEIVING,Jake,McKenzie,TD,0
+9641148,10/15/2016,FCS,Kennesaw State,Liberty,RECEIVING,Jake,McKenzie,LONG,15
+9641149,10/15/2016,FCS,Kennesaw State,Liberty,KICKING,Justin,Thompson,FG-FGA,0/1
+9641150,10/15/2016,FCS,Kennesaw State,Liberty,KICKING,Justin,Thompson,LONG,0
+9641151,10/15/2016,FCS,Kennesaw State,Liberty,KICKING,Justin,Thompson,XP,2
+9641152,10/15/2016,FCS,Kennesaw State,Liberty,KICKING,Justin,Thompson,PTS,2
+9641153,10/15/2016,FCS,Kennesaw State,Liberty,KICKING,Jordan,Genovese,FG-FGA,0/0
+9641154,10/15/2016,FCS,Kennesaw State,Liberty,KICKING,Jordan,Genovese,LONG,-
+9641155,10/15/2016,FCS,Kennesaw State,Liberty,KICKING,Jordan,Genovese,XP,1
+9641156,10/15/2016,FCS,Kennesaw State,Liberty,KICKING,Jordan,Genovese,PTS,1
+9641157,10/15/2016,FCS,Kennesaw State,Liberty,PUNTING,,Team,NO,5
+9641158,10/15/2016,FCS,Kennesaw State,Liberty,PUNTING,,Team,YDS,189
+9641159,10/15/2016,FCS,Kennesaw State,Liberty,PUNTING,,Team,AVG,37.8
+9641160,10/15/2016,FCS,Kennesaw State,Liberty,PUNTING,,Team,LONG,45
+9641161,10/15/2016,FCS,Kennesaw State,Liberty,PUNT RETURNS,Taylor,Henkle,NO,2
+9641162,10/15/2016,FCS,Kennesaw State,Liberty,PUNT RETURNS,Taylor,Henkle,YDS,7
+9641163,10/15/2016,FCS,Kennesaw State,Liberty,PUNT RETURNS,Taylor,Henkle,AVG,3.5
+9641164,10/15/2016,FCS,Kennesaw State,Liberty,PUNT RETURNS,Taylor,Henkle,LONG,7
+9641165,10/15/2016,FCS,Kennesaw State,Liberty,PUNT RETURNS,TJ,Reed,NO,1
+9641166,10/15/2016,FCS,Kennesaw State,Liberty,PUNT RETURNS,TJ,Reed,YDS,2
+9641167,10/15/2016,FCS,Kennesaw State,Liberty,PUNT RETURNS,TJ,Reed,AVG,2.0
+9641168,10/15/2016,FCS,Kennesaw State,Liberty,PUNT RETURNS,TJ,Reed,LONG,1
+9641169,10/15/2016,FCS,Kennesaw State,Liberty,KICK RETURNS,Chaston,Bennett,NO,6
+9641170,10/15/2016,FCS,Kennesaw State,Liberty,KICK RETURNS,Chaston,Bennett,YDS,124
+9641171,10/15/2016,FCS,Kennesaw State,Liberty,KICK RETURNS,Chaston,Bennett,AVG,20.7
+9641172,10/15/2016,FCS,Kennesaw State,Liberty,KICK RETURNS,Chaston,Bennett,LONG,29

@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9387001,9/17/2016,FCS,Marist,Sacred Heart,RUSHING,Marcellus,Calhoun,ATT,15
+9387002,9/17/2016,FCS,Marist,Sacred Heart,RUSHING,Marcellus,Calhoun,YDS,36
+9387003,9/17/2016,FCS,Marist,Sacred Heart,RUSHING,Marcellus,Calhoun,TD,0
+9387004,9/17/2016,FCS,Marist,Sacred Heart,RUSHING,Marcellus,Calhoun,LONG,16
+9387005,9/17/2016,FCS,Marist,Sacred Heart,RUSHING,Tyler,Gagnon,ATT,2
+9387006,9/17/2016,FCS,Marist,Sacred Heart,RUSHING,Tyler,Gagnon,YDS,7
+9387007,9/17/2016,FCS,Marist,Sacred Heart,RUSHING,Tyler,Gagnon,TD,0
+9387008,9/17/2016,FCS,Marist,Sacred Heart,RUSHING,Tyler,Gagnon,LONG,8
+9387009,9/17/2016,FCS,Marist,Sacred Heart,RUSHING,Mike,White,ATT,10
+9387010,9/17/2016,FCS,Marist,Sacred Heart,RUSHING,Mike,White,YDS,4
+9387011,9/17/2016,FCS,Marist,Sacred Heart,RUSHING,Mike,White,TD,0
+9387012,9/17/2016,FCS,Marist,Sacred Heart,RUSHING,Mike,White,LONG,16
+9387013,9/17/2016,FCS,Marist,Sacred Heart,RUSHING,,Team,ATT,2
+9387014,9/17/2016,FCS,Marist,Sacred Heart,RUSHING,,Team,YDS,-26
+9387015,9/17/2016,FCS,Marist,Sacred Heart,RUSHING,,Team,TD,0
+9387016,9/17/2016,FCS,Marist,Sacred Heart,RUSHING,,Team,LONG,0
+9387017,9/17/2016,FCS,Marist,Sacred Heart,PASSING,Mike,White,CP-ATT-INT,13-48-1
+9387018,9/17/2016,FCS,Marist,Sacred Heart,PASSING,Mike,White,YDS,210
+9387019,9/17/2016,FCS,Marist,Sacred Heart,PASSING,Mike,White,TD,0
+9387020,9/17/2016,FCS,Marist,Sacred Heart,PASSING,Mike,White,LONG,51
+9387021,9/17/2016,FCS,Marist,Sacred Heart,RECEIVING,Juston,Christian,REC,5
+9387022,9/17/2016,FCS,Marist,Sacred Heart,RECEIVING,Juston,Christian,YDS,123
+9387023,9/17/2016,FCS,Marist,Sacred Heart,RECEIVING,Juston,Christian,TD,0
+9387024,9/17/2016,FCS,Marist,Sacred Heart,RECEIVING,Juston,Christian,LONG,51
+9387025,9/17/2016,FCS,Marist,Sacred Heart,RECEIVING,Marcellus,Calhoun,REC,5
+9387026,9/17/2016,FCS,Marist,Sacred Heart,RECEIVING,Marcellus,Calhoun,YDS,39
+9387027,9/17/2016,FCS,Marist,Sacred Heart,RECEIVING,Marcellus,Calhoun,TD,0
+9387028,9/17/2016,FCS,Marist,Sacred Heart,RECEIVING,Marcellus,Calhoun,LONG,11
+9387029,9/17/2016,FCS,Marist,Sacred Heart,RECEIVING,Joe,Jordan,REC,2
+9387030,9/17/2016,FCS,Marist,Sacred Heart,RECEIVING,Joe,Jordan,YDS,31
+9387031,9/17/2016,FCS,Marist,Sacred Heart,RECEIVING,Joe,Jordan,TD,0
+9387032,9/17/2016,FCS,Marist,Sacred Heart,RECEIVING,Joe,Jordan,LONG,23
+9387033,9/17/2016,FCS,Marist,Sacred Heart,RECEIVING,Lawrence,Dickens,REC,1
+9387034,9/17/2016,FCS,Marist,Sacred Heart,RECEIVING,Lawrence,Dickens,YDS,17
+9387035,9/17/2016,FCS,Marist,Sacred Heart,RECEIVING,Lawrence,Dickens,TD,0
+9387036,9/17/2016,FCS,Marist,Sacred Heart,RECEIVING,Lawrence,Dickens,LONG,17
+9387037,9/17/2016,FCS,Marist,Sacred Heart,KICKING,Mike,Maccarone,FG-FGA,2/2
+9387038,9/17/2016,FCS,Marist,Sacred Heart,KICKING,Mike,Maccarone,LONG,39
+9387039,9/17/2016,FCS,Marist,Sacred Heart,KICKING,Mike,Maccarone,XP,0
+9387040,9/17/2016,FCS,Marist,Sacred Heart,KICKING,Mike,Maccarone,PTS,6
+9387041,9/17/2016,FCS,Marist,Sacred Heart,PUNTING,Mike,Maccarone,NO,8
+9387042,9/17/2016,FCS,Marist,Sacred Heart,PUNTING,Mike,Maccarone,YDS,312
+9387043,9/17/2016,FCS,Marist,Sacred Heart,PUNTING,Mike,Maccarone,AVG,39.0
+9387044,9/17/2016,FCS,Marist,Sacred Heart,PUNTING,Mike,Maccarone,LONG,46
+9387045,9/17/2016,FCS,Marist,Sacred Heart,PUNT RETURNS,Leon,Cummings,NO,2
+9387046,9/17/2016,FCS,Marist,Sacred Heart,PUNT RETURNS,Leon,Cummings,YDS,16
+9387047,9/17/2016,FCS,Marist,Sacred Heart,PUNT RETURNS,Leon,Cummings,AVG,8.0
+9387048,9/17/2016,FCS,Marist,Sacred Heart,PUNT RETURNS,Leon,Cummings,LONG,16
+9387049,9/17/2016,FCS,Marist,Sacred Heart,PUNT RETURNS,Drew,Daniel,NO,3
+9387050,9/17/2016,FCS,Marist,Sacred Heart,PUNT RETURNS,Drew,Daniel,YDS,14
+9387051,9/17/2016,FCS,Marist,Sacred Heart,PUNT RETURNS,Drew,Daniel,AVG,4.7
+9387052,9/17/2016,FCS,Marist,Sacred Heart,PUNT RETURNS,Drew,Daniel,LONG,6
+9387053,9/17/2016,FCS,Marist,Sacred Heart,KICK RETURNS,Christian,Keenan,NO,2
+9387054,9/17/2016,FCS,Marist,Sacred Heart,KICK RETURNS,Christian,Keenan,YDS,38
+9387055,9/17/2016,FCS,Marist,Sacred Heart,KICK RETURNS,Christian,Keenan,AVG,19.0
+9387056,9/17/2016,FCS,Marist,Sacred Heart,KICK RETURNS,Christian,Keenan,LONG,21
+9387057,9/17/2016,FCS,Marist,Sacred Heart,KICK RETURNS,Lawrence,Dickens,NO,2
+9387058,9/17/2016,FCS,Marist,Sacred Heart,KICK RETURNS,Lawrence,Dickens,YDS,30
+9387059,9/17/2016,FCS,Marist,Sacred Heart,KICK RETURNS,Lawrence,Dickens,AVG,15.0
+9387060,9/17/2016,FCS,Marist,Sacred Heart,KICK RETURNS,Lawrence,Dickens,LONG,18
+9387061,9/17/2016,FCS,Marist,Sacred Heart,KICK RETURNS,Anthony,Olivencia,NO,1
+9387062,9/17/2016,FCS,Marist,Sacred Heart,KICK RETURNS,Anthony,Olivencia,YDS,15
+9387063,9/17/2016,FCS,Marist,Sacred Heart,KICK RETURNS,Anthony,Olivencia,AVG,15.0
+9387064,9/17/2016,FCS,Marist,Sacred Heart,KICK RETURNS,Anthony,Olivencia,LONG,15
+9387065,9/17/2016,FCS,Marist,Sacred Heart,KICK RETURNS,Drew,Daniel,NO,1
+9387066,9/17/2016,FCS,Marist,Sacred Heart,KICK RETURNS,Drew,Daniel,YDS,15
+9387067,9/17/2016,FCS,Marist,Sacred Heart,KICK RETURNS,Drew,Daniel,AVG,15.0
+9387068,9/17/2016,FCS,Marist,Sacred Heart,KICK RETURNS,Drew,Daniel,LONG,15
+9387069,9/17/2016,FCS,Sacred Heart,Marist,RUSHING,Nate,Chavious,ATT,16
+9387070,9/17/2016,FCS,Sacred Heart,Marist,RUSHING,Nate,Chavious,YDS,125
+9387071,9/17/2016,FCS,Sacred Heart,Marist,RUSHING,Nate,Chavious,TD,2
+9387072,9/17/2016,FCS,Sacred Heart,Marist,RUSHING,Nate,Chavious,LONG,52
+9387073,9/17/2016,FCS,Sacred Heart,Marist,RUSHING,Ose,Imeokparia,ATT,19
+9387074,9/17/2016,FCS,Sacred Heart,Marist,RUSHING,Ose,Imeokparia,YDS,86
+9387075,9/17/2016,FCS,Sacred Heart,Marist,RUSHING,Ose,Imeokparia,TD,0
+9387076,9/17/2016,FCS,Sacred Heart,Marist,RUSHING,Ose,Imeokparia,LONG,11
+9387077,9/17/2016,FCS,Sacred Heart,Marist,RUSHING,RJ,Noel,ATT,9
+9387078,9/17/2016,FCS,Sacred Heart,Marist,RUSHING,RJ,Noel,YDS,82
+9387079,9/17/2016,FCS,Sacred Heart,Marist,RUSHING,RJ,Noel,TD,0
+9387080,9/17/2016,FCS,Sacred Heart,Marist,RUSHING,RJ,Noel,LONG,29
+9387081,9/17/2016,FCS,Sacred Heart,Marist,RUSHING,Jay,Croom,ATT,5
+9387082,9/17/2016,FCS,Sacred Heart,Marist,RUSHING,Jay,Croom,YDS,19
+9387083,9/17/2016,FCS,Sacred Heart,Marist,RUSHING,Jay,Croom,TD,1
+9387084,9/17/2016,FCS,Sacred Heart,Marist,RUSHING,Jay,Croom,LONG,6
+9387085,9/17/2016,FCS,Sacred Heart,Marist,RUSHING,Moses,Webb,ATT,2
+9387086,9/17/2016,FCS,Sacred Heart,Marist,RUSHING,Moses,Webb,YDS,14
+9387087,9/17/2016,FCS,Sacred Heart,Marist,RUSHING,Moses,Webb,TD,0
+9387088,9/17/2016,FCS,Sacred Heart,Marist,RUSHING,Moses,Webb,LONG,7
+9387089,9/17/2016,FCS,Sacred Heart,Marist,RUSHING,Jordan,Meachum,ATT,5
+9387090,9/17/2016,FCS,Sacred Heart,Marist,RUSHING,Jordan,Meachum,YDS,13
+9387091,9/17/2016,FCS,Sacred Heart,Marist,RUSHING,Jordan,Meachum,TD,0
+9387092,9/17/2016,FCS,Sacred Heart,Marist,RUSHING,Jordan,Meachum,LONG,5
+9387093,9/17/2016,FCS,Sacred Heart,Marist,PASSING,RJ,Noel,CP-ATT-INT,12-26-1
+9387094,9/17/2016,FCS,Sacred Heart,Marist,PASSING,RJ,Noel,YDS,104
+9387095,9/17/2016,FCS,Sacred Heart,Marist,PASSING,RJ,Noel,TD,1
+9387096,9/17/2016,FCS,Sacred Heart,Marist,PASSING,RJ,Noel,LONG,28
+9387097,9/17/2016,FCS,Sacred Heart,Marist,RECEIVING,Moses,Webb,REC,6
+9387098,9/17/2016,FCS,Sacred Heart,Marist,RECEIVING,Moses,Webb,YDS,68
+9387099,9/17/2016,FCS,Sacred Heart,Marist,RECEIVING,Moses,Webb,TD,1
+9387100,9/17/2016,FCS,Sacred Heart,Marist,RECEIVING,Moses,Webb,LONG,28
+9387101,9/17/2016,FCS,Sacred Heart,Marist,RECEIVING,Andrew,O'Neill,REC,1
+9387102,9/17/2016,FCS,Sacred Heart,Marist,RECEIVING,Andrew,O'Neill,YDS,23
+9387103,9/17/2016,FCS,Sacred Heart,Marist,RECEIVING,Andrew,O'Neill,TD,0
+9387104,9/17/2016,FCS,Sacred Heart,Marist,RECEIVING,Andrew,O'Neill,LONG,23
+9387105,9/17/2016,FCS,Sacred Heart,Marist,RECEIVING,Jordan,Meachum,REC,1
+9387106,9/17/2016,FCS,Sacred Heart,Marist,RECEIVING,Jordan,Meachum,YDS,9
+9387107,9/17/2016,FCS,Sacred Heart,Marist,RECEIVING,Jordan,Meachum,TD,0
+9387108,9/17/2016,FCS,Sacred Heart,Marist,RECEIVING,Jordan,Meachum,LONG,9
+9387109,9/17/2016,FCS,Sacred Heart,Marist,RECEIVING,Ose,Imeokparia,REC,2
+9387110,9/17/2016,FCS,Sacred Heart,Marist,RECEIVING,Ose,Imeokparia,YDS,4
+9387111,9/17/2016,FCS,Sacred Heart,Marist,RECEIVING,Ose,Imeokparia,TD,0
+9387112,9/17/2016,FCS,Sacred Heart,Marist,RECEIVING,Ose,Imeokparia,LONG,6
+9387113,9/17/2016,FCS,Sacred Heart,Marist,RECEIVING,Byron,Barney,REC,1
+9387114,9/17/2016,FCS,Sacred Heart,Marist,RECEIVING,Byron,Barney,YDS,3
+9387115,9/17/2016,FCS,Sacred Heart,Marist,RECEIVING,Byron,Barney,TD,0
+9387116,9/17/2016,FCS,Sacred Heart,Marist,RECEIVING,Byron,Barney,LONG,3
+9387117,9/17/2016,FCS,Sacred Heart,Marist,RECEIVING,Nate,Chavious,REC,1
+9387118,9/17/2016,FCS,Sacred Heart,Marist,RECEIVING,Nate,Chavious,YDS,-3
+9387119,9/17/2016,FCS,Sacred Heart,Marist,RECEIVING,Nate,Chavious,TD,0
+9387120,9/17/2016,FCS,Sacred Heart,Marist,RECEIVING,Nate,Chavious,LONG,0
+9387121,9/17/2016,FCS,Sacred Heart,Marist,KICKING,Alec,Finney,FG-FGA,1/1
+9387122,9/17/2016,FCS,Sacred Heart,Marist,KICKING,Alec,Finney,LONG,30
+9387123,9/17/2016,FCS,Sacred Heart,Marist,KICKING,Alec,Finney,XP,4
+9387124,9/17/2016,FCS,Sacred Heart,Marist,KICKING,Alec,Finney,PTS,7
+9387125,9/17/2016,FCS,Sacred Heart,Marist,PUNTING,Alec,Finney,NO,8
+9387126,9/17/2016,FCS,Sacred Heart,Marist,PUNTING,Alec,Finney,YDS,323
+9387127,9/17/2016,FCS,Sacred Heart,Marist,PUNTING,Alec,Finney,AVG,40.4
+9387128,9/17/2016,FCS,Sacred Heart,Marist,PUNTING,Alec,Finney,LONG,49
+9387129,9/17/2016,FCS,Sacred Heart,Marist,PUNT RETURNS,Andrew,O'Neill,NO,4
+9387130,9/17/2016,FCS,Sacred Heart,Marist,PUNT RETURNS,Andrew,O'Neill,YDS,11
+9387131,9/17/2016,FCS,Sacred Heart,Marist,PUNT RETURNS,Andrew,O'Neill,AVG,2.8
+9387132,9/17/2016,FCS,Sacred Heart,Marist,PUNT RETURNS,Andrew,O'Neill,LONG,9
+9387133,9/17/2016,FCS,Sacred Heart,Marist,KICK RETURNS,Nate,Chavious,NO,2
+9387134,9/17/2016,FCS,Sacred Heart,Marist,KICK RETURNS,Nate,Chavious,YDS,33
+9387135,9/17/2016,FCS,Sacred Heart,Marist,KICK RETURNS,Nate,Chavious,AVG,16.5
+9387136,9/17/2016,FCS,Sacred Heart,Marist,KICK RETURNS,Nate,Chavious,LONG,17

@@ -1,0 +1,121 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9531001,10/1/2016,FCS,Brown,Rhode Island,RUSHING,Johnny,Pena,ATT,7
+9531002,10/1/2016,FCS,Brown,Rhode Island,RUSHING,Johnny,Pena,YDS,55
+9531003,10/1/2016,FCS,Brown,Rhode Island,RUSHING,Johnny,Pena,TD,0
+9531004,10/1/2016,FCS,Brown,Rhode Island,RUSHING,Johnny,Pena,LONG,21
+9531005,10/1/2016,FCS,Brown,Rhode Island,RUSHING,Jalen,Broome,ATT,9
+9531006,10/1/2016,FCS,Brown,Rhode Island,RUSHING,Jalen,Broome,YDS,33
+9531007,10/1/2016,FCS,Brown,Rhode Island,RUSHING,Jalen,Broome,TD,0
+9531008,10/1/2016,FCS,Brown,Rhode Island,RUSHING,Jalen,Broome,LONG,10
+9531009,10/1/2016,FCS,Brown,Rhode Island,RUSHING,David,Moodie,ATT,6
+9531010,10/1/2016,FCS,Brown,Rhode Island,RUSHING,David,Moodie,YDS,28
+9531011,10/1/2016,FCS,Brown,Rhode Island,RUSHING,David,Moodie,TD,0
+9531012,10/1/2016,FCS,Brown,Rhode Island,RUSHING,David,Moodie,LONG,13
+9531013,10/1/2016,FCS,Brown,Rhode Island,RUSHING,Alexander,Jette,ATT,4
+9531014,10/1/2016,FCS,Brown,Rhode Island,RUSHING,Alexander,Jette,YDS,23
+9531015,10/1/2016,FCS,Brown,Rhode Island,RUSHING,Alexander,Jette,TD,0
+9531016,10/1/2016,FCS,Brown,Rhode Island,RUSHING,Alexander,Jette,LONG,10
+9531017,10/1/2016,FCS,Brown,Rhode Island,RUSHING,Kyle,Moreno,ATT,11
+9531018,10/1/2016,FCS,Brown,Rhode Island,RUSHING,Kyle,Moreno,YDS,-12
+9531019,10/1/2016,FCS,Brown,Rhode Island,RUSHING,Kyle,Moreno,TD,0
+9531020,10/1/2016,FCS,Brown,Rhode Island,RUSHING,Kyle,Moreno,LONG,7
+9531021,10/1/2016,FCS,Brown,Rhode Island,PASSING,Kyle,Moreno,CP-ATT-INT,20-50-1
+9531022,10/1/2016,FCS,Brown,Rhode Island,PASSING,Kyle,Moreno,YDS,137
+9531023,10/1/2016,FCS,Brown,Rhode Island,PASSING,Kyle,Moreno,TD,1
+9531024,10/1/2016,FCS,Brown,Rhode Island,PASSING,Kyle,Moreno,LONG,23
+9531025,10/1/2016,FCS,Brown,Rhode Island,RECEIVING,Alexander,Jette,REC,5
+9531026,10/1/2016,FCS,Brown,Rhode Island,RECEIVING,Alexander,Jette,YDS,38
+9531027,10/1/2016,FCS,Brown,Rhode Island,RECEIVING,Alexander,Jette,TD,1
+9531028,10/1/2016,FCS,Brown,Rhode Island,RECEIVING,Alexander,Jette,LONG,13
+9531029,10/1/2016,FCS,Brown,Rhode Island,RECEIVING,Anton,Casey,REC,5
+9531030,10/1/2016,FCS,Brown,Rhode Island,RECEIVING,Anton,Casey,YDS,37
+9531031,10/1/2016,FCS,Brown,Rhode Island,RECEIVING,Anton,Casey,TD,0
+9531032,10/1/2016,FCS,Brown,Rhode Island,RECEIVING,Anton,Casey,LONG,14
+9531033,10/1/2016,FCS,Brown,Rhode Island,RECEIVING,Isaac,Whitney,REC,2
+9531034,10/1/2016,FCS,Brown,Rhode Island,RECEIVING,Isaac,Whitney,YDS,29
+9531035,10/1/2016,FCS,Brown,Rhode Island,RECEIVING,Isaac,Whitney,TD,0
+9531036,10/1/2016,FCS,Brown,Rhode Island,RECEIVING,Isaac,Whitney,LONG,23
+9531037,10/1/2016,FCS,Brown,Rhode Island,RECEIVING,Garrett,Swanky,REC,6
+9531038,10/1/2016,FCS,Brown,Rhode Island,RECEIVING,Garrett,Swanky,YDS,21
+9531039,10/1/2016,FCS,Brown,Rhode Island,RECEIVING,Garrett,Swanky,TD,0
+9531040,10/1/2016,FCS,Brown,Rhode Island,RECEIVING,Garrett,Swanky,LONG,9
+9531041,10/1/2016,FCS,Brown,Rhode Island,RECEIVING,Jalen,Broome,REC,2
+9531042,10/1/2016,FCS,Brown,Rhode Island,RECEIVING,Jalen,Broome,YDS,12
+9531043,10/1/2016,FCS,Brown,Rhode Island,RECEIVING,Jalen,Broome,TD,0
+9531044,10/1/2016,FCS,Brown,Rhode Island,RECEIVING,Jalen,Broome,LONG,16
+9531045,10/1/2016,FCS,Brown,Rhode Island,KICKING,Jacob,Wilner,FG-FGA,0/0
+9531046,10/1/2016,FCS,Brown,Rhode Island,KICKING,Jacob,Wilner,LONG,-
+9531047,10/1/2016,FCS,Brown,Rhode Island,KICKING,Jacob,Wilner,XP,1
+9531048,10/1/2016,FCS,Brown,Rhode Island,KICKING,Jacob,Wilner,PTS,1
+9531049,10/1/2016,FCS,Brown,Rhode Island,PUNTING,Alexander,Jette,NO,9
+9531050,10/1/2016,FCS,Brown,Rhode Island,PUNTING,Alexander,Jette,YDS,321
+9531051,10/1/2016,FCS,Brown,Rhode Island,PUNTING,Alexander,Jette,AVG,35.7
+9531052,10/1/2016,FCS,Brown,Rhode Island,PUNTING,Alexander,Jette,LONG,61
+9531053,10/1/2016,FCS,Brown,Rhode Island,PUNT RETURNS,Jakob,Prall,NO,2
+9531054,10/1/2016,FCS,Brown,Rhode Island,PUNT RETURNS,Jakob,Prall,YDS,4
+9531055,10/1/2016,FCS,Brown,Rhode Island,PUNT RETURNS,Jakob,Prall,AVG,2.0
+9531056,10/1/2016,FCS,Brown,Rhode Island,PUNT RETURNS,Jakob,Prall,LONG,4
+9531057,10/1/2016,FCS,Brown,Rhode Island,KICK RETURNS,Terrell,Smith,NO,2
+9531058,10/1/2016,FCS,Brown,Rhode Island,KICK RETURNS,Terrell,Smith,YDS,39
+9531059,10/1/2016,FCS,Brown,Rhode Island,KICK RETURNS,Terrell,Smith,AVG,19.5
+9531060,10/1/2016,FCS,Brown,Rhode Island,KICK RETURNS,Terrell,Smith,LONG,20
+9531061,10/1/2016,FCS,Brown,Rhode Island,KICK RETURNS,Connor,Coughlin,NO,1
+9531062,10/1/2016,FCS,Brown,Rhode Island,KICK RETURNS,Connor,Coughlin,YDS,23
+9531063,10/1/2016,FCS,Brown,Rhode Island,KICK RETURNS,Connor,Coughlin,AVG,23.0
+9531064,10/1/2016,FCS,Brown,Rhode Island,KICK RETURNS,Connor,Coughlin,LONG,23
+9531065,10/1/2016,FCS,Brown,Rhode Island,KICK RETURNS,Isaac,Whitney,NO,2
+9531066,10/1/2016,FCS,Brown,Rhode Island,KICK RETURNS,Isaac,Whitney,YDS,13
+9531067,10/1/2016,FCS,Brown,Rhode Island,KICK RETURNS,Isaac,Whitney,AVG,6.5
+9531068,10/1/2016,FCS,Brown,Rhode Island,KICK RETURNS,Isaac,Whitney,LONG,20
+9531069,10/1/2016,FCS,Rhode Island,Brown,RUSHING,Harold,Cooper,ATT,18
+9531070,10/1/2016,FCS,Rhode Island,Brown,RUSHING,Harold,Cooper,YDS,135
+9531071,10/1/2016,FCS,Rhode Island,Brown,RUSHING,Harold,Cooper,TD,2
+9531072,10/1/2016,FCS,Rhode Island,Brown,RUSHING,Harold,Cooper,LONG,42
+9531073,10/1/2016,FCS,Rhode Island,Brown,RUSHING,T.J.,Anderson,ATT,9
+9531074,10/1/2016,FCS,Rhode Island,Brown,RUSHING,T.J.,Anderson,YDS,39
+9531075,10/1/2016,FCS,Rhode Island,Brown,RUSHING,T.J.,Anderson,TD,1
+9531076,10/1/2016,FCS,Rhode Island,Brown,RUSHING,T.J.,Anderson,LONG,13
+9531077,10/1/2016,FCS,Rhode Island,Brown,RUSHING,Wesley,McKoy,ATT,5
+9531078,10/1/2016,FCS,Rhode Island,Brown,RUSHING,Wesley,McKoy,YDS,12
+9531079,10/1/2016,FCS,Rhode Island,Brown,RUSHING,Wesley,McKoy,TD,0
+9531080,10/1/2016,FCS,Rhode Island,Brown,RUSHING,Wesley,McKoy,LONG,12
+9531081,10/1/2016,FCS,Rhode Island,Brown,RUSHING,Jordan,Vazzano,ATT,6
+9531082,10/1/2016,FCS,Rhode Island,Brown,RUSHING,Jordan,Vazzano,YDS,-1
+9531083,10/1/2016,FCS,Rhode Island,Brown,RUSHING,Jordan,Vazzano,TD,0
+9531084,10/1/2016,FCS,Rhode Island,Brown,RUSHING,Jordan,Vazzano,LONG,10
+9531085,10/1/2016,FCS,Rhode Island,Brown,RUSHING,,Team,ATT,4
+9531086,10/1/2016,FCS,Rhode Island,Brown,RUSHING,,Team,YDS,-5
+9531087,10/1/2016,FCS,Rhode Island,Brown,RUSHING,,Team,TD,0
+9531088,10/1/2016,FCS,Rhode Island,Brown,RUSHING,,Team,LONG,0
+9531089,10/1/2016,FCS,Rhode Island,Brown,PASSING,Jordan,Vazzano,CP-ATT-INT,4-24-1
+9531090,10/1/2016,FCS,Rhode Island,Brown,PASSING,Jordan,Vazzano,YDS,42
+9531091,10/1/2016,FCS,Rhode Island,Brown,PASSING,Jordan,Vazzano,TD,1
+9531092,10/1/2016,FCS,Rhode Island,Brown,PASSING,Jordan,Vazzano,LONG,17
+9531093,10/1/2016,FCS,Rhode Island,Brown,PASSING,Wesley,McKoy,CP-ATT-INT,1-1-0
+9531094,10/1/2016,FCS,Rhode Island,Brown,PASSING,Wesley,McKoy,YDS,2
+9531095,10/1/2016,FCS,Rhode Island,Brown,PASSING,Wesley,McKoy,TD,0
+9531096,10/1/2016,FCS,Rhode Island,Brown,PASSING,Wesley,McKoy,LONG,2
+9531097,10/1/2016,FCS,Rhode Island,Brown,RECEIVING,Charlie,McKeeman,REC,2
+9531098,10/1/2016,FCS,Rhode Island,Brown,RECEIVING,Charlie,McKeeman,YDS,21
+9531099,10/1/2016,FCS,Rhode Island,Brown,RECEIVING,Charlie,McKeeman,TD,1
+9531100,10/1/2016,FCS,Rhode Island,Brown,RECEIVING,Charlie,McKeeman,LONG,11
+9531101,10/1/2016,FCS,Rhode Island,Brown,RECEIVING,Harold,Cooper,REC,1
+9531102,10/1/2016,FCS,Rhode Island,Brown,RECEIVING,Harold,Cooper,YDS,17
+9531103,10/1/2016,FCS,Rhode Island,Brown,RECEIVING,Harold,Cooper,TD,0
+9531104,10/1/2016,FCS,Rhode Island,Brown,RECEIVING,Harold,Cooper,LONG,17
+9531105,10/1/2016,FCS,Rhode Island,Brown,RECEIVING,Aaron,Parker,REC,1
+9531106,10/1/2016,FCS,Rhode Island,Brown,RECEIVING,Aaron,Parker,YDS,4
+9531107,10/1/2016,FCS,Rhode Island,Brown,RECEIVING,Aaron,Parker,TD,0
+9531108,10/1/2016,FCS,Rhode Island,Brown,RECEIVING,Aaron,Parker,LONG,4
+9531109,10/1/2016,FCS,Rhode Island,Brown,RECEIVING,Khayri,Denny,REC,1
+9531110,10/1/2016,FCS,Rhode Island,Brown,RECEIVING,Khayri,Denny,YDS,2
+9531111,10/1/2016,FCS,Rhode Island,Brown,RECEIVING,Khayri,Denny,TD,0
+9531112,10/1/2016,FCS,Rhode Island,Brown,RECEIVING,Khayri,Denny,LONG,2
+9531113,10/1/2016,FCS,Rhode Island,Brown,KICKING,Justin,Rohrwasser,FG-FGA,0/0
+9531114,10/1/2016,FCS,Rhode Island,Brown,KICKING,Justin,Rohrwasser,LONG,-
+9531115,10/1/2016,FCS,Rhode Island,Brown,KICKING,Justin,Rohrwasser,XP,4
+9531116,10/1/2016,FCS,Rhode Island,Brown,KICKING,Justin,Rohrwasser,PTS,4
+9531117,10/1/2016,FCS,Rhode Island,Brown,PUNTING,Oliver,Graybar,NO,10
+9531118,10/1/2016,FCS,Rhode Island,Brown,PUNTING,Oliver,Graybar,YDS,390
+9531119,10/1/2016,FCS,Rhode Island,Brown,PUNTING,Oliver,Graybar,AVG,39.0
+9531120,10/1/2016,FCS,Rhode Island,Brown,PUNTING,Oliver,Graybar,LONG,67

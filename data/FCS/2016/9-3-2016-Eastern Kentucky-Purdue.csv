@@ -1,0 +1,177 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9245001,9/3/2016,FCS,Eastern Kentucky,Purdue,RUSHING,Ethan,Thomas,ATT,17
+9245002,9/3/2016,FCS,Eastern Kentucky,Purdue,RUSHING,Ethan,Thomas,YDS,60
+9245003,9/3/2016,FCS,Eastern Kentucky,Purdue,RUSHING,Ethan,Thomas,TD,1
+9245004,9/3/2016,FCS,Eastern Kentucky,Purdue,RUSHING,Ethan,Thomas,LONG,15
+9245005,9/3/2016,FCS,Eastern Kentucky,Purdue,RUSHING,Maty,Mauk,ATT,8
+9245006,9/3/2016,FCS,Eastern Kentucky,Purdue,RUSHING,Maty,Mauk,YDS,39
+9245007,9/3/2016,FCS,Eastern Kentucky,Purdue,RUSHING,Maty,Mauk,TD,0
+9245008,9/3/2016,FCS,Eastern Kentucky,Purdue,RUSHING,Maty,Mauk,LONG,13
+9245009,9/3/2016,FCS,Eastern Kentucky,Purdue,RUSHING,Henry,Enyenihi,ATT,6
+9245010,9/3/2016,FCS,Eastern Kentucky,Purdue,RUSHING,Henry,Enyenihi,YDS,35
+9245011,9/3/2016,FCS,Eastern Kentucky,Purdue,RUSHING,Henry,Enyenihi,TD,0
+9245012,9/3/2016,FCS,Eastern Kentucky,Purdue,RUSHING,Henry,Enyenihi,LONG,8
+9245013,9/3/2016,FCS,Eastern Kentucky,Purdue,RUSHING,Bennie,Coney,ATT,6
+9245014,9/3/2016,FCS,Eastern Kentucky,Purdue,RUSHING,Bennie,Coney,YDS,16
+9245015,9/3/2016,FCS,Eastern Kentucky,Purdue,RUSHING,Bennie,Coney,TD,0
+9245016,9/3/2016,FCS,Eastern Kentucky,Purdue,RUSHING,Bennie,Coney,LONG,4
+9245017,9/3/2016,FCS,Eastern Kentucky,Purdue,RUSHING,Kentayvus,Hopkins,ATT,5
+9245018,9/3/2016,FCS,Eastern Kentucky,Purdue,RUSHING,Kentayvus,Hopkins,YDS,15
+9245019,9/3/2016,FCS,Eastern Kentucky,Purdue,RUSHING,Kentayvus,Hopkins,TD,0
+9245020,9/3/2016,FCS,Eastern Kentucky,Purdue,RUSHING,Kentayvus,Hopkins,LONG,6
+9245021,9/3/2016,FCS,Eastern Kentucky,Purdue,RUSHING,Daryl,McCleskeyJr.,ATT,5
+9245022,9/3/2016,FCS,Eastern Kentucky,Purdue,RUSHING,Daryl,McCleskeyJr.,YDS,11
+9245023,9/3/2016,FCS,Eastern Kentucky,Purdue,RUSHING,Daryl,McCleskeyJr.,TD,0
+9245024,9/3/2016,FCS,Eastern Kentucky,Purdue,RUSHING,Daryl,McCleskeyJr.,LONG,4
+9245025,9/3/2016,FCS,Eastern Kentucky,Purdue,PASSING,Bennie,Coney,CP-ATT-INT,13-23-0
+9245026,9/3/2016,FCS,Eastern Kentucky,Purdue,PASSING,Bennie,Coney,YDS,158
+9245027,9/3/2016,FCS,Eastern Kentucky,Purdue,PASSING,Bennie,Coney,TD,1
+9245028,9/3/2016,FCS,Eastern Kentucky,Purdue,PASSING,Bennie,Coney,LONG,26
+9245029,9/3/2016,FCS,Eastern Kentucky,Purdue,PASSING,Tyler,Swafford,CP-ATT-INT,5-6-0
+9245030,9/3/2016,FCS,Eastern Kentucky,Purdue,PASSING,Tyler,Swafford,YDS,46
+9245031,9/3/2016,FCS,Eastern Kentucky,Purdue,PASSING,Tyler,Swafford,TD,1
+9245032,9/3/2016,FCS,Eastern Kentucky,Purdue,PASSING,Tyler,Swafford,LONG,26
+9245033,9/3/2016,FCS,Eastern Kentucky,Purdue,PASSING,Maty,Mauk,CP-ATT-INT,2-7-2
+9245034,9/3/2016,FCS,Eastern Kentucky,Purdue,PASSING,Maty,Mauk,YDS,18
+9245035,9/3/2016,FCS,Eastern Kentucky,Purdue,PASSING,Maty,Mauk,TD,0
+9245036,9/3/2016,FCS,Eastern Kentucky,Purdue,PASSING,Maty,Mauk,LONG,10
+9245037,9/3/2016,FCS,Eastern Kentucky,Purdue,PASSING,James,SmithJr.,CP-ATT-INT,0-1-1
+9245038,9/3/2016,FCS,Eastern Kentucky,Purdue,PASSING,James,SmithJr.,YDS,0
+9245039,9/3/2016,FCS,Eastern Kentucky,Purdue,PASSING,James,SmithJr.,TD,0
+9245040,9/3/2016,FCS,Eastern Kentucky,Purdue,PASSING,James,SmithJr.,LONG,0
+9245041,9/3/2016,FCS,Eastern Kentucky,Purdue,RECEIVING,Devin,Borders,REC,7
+9245042,9/3/2016,FCS,Eastern Kentucky,Purdue,RECEIVING,Devin,Borders,YDS,77
+9245043,9/3/2016,FCS,Eastern Kentucky,Purdue,RECEIVING,Devin,Borders,TD,0
+9245044,9/3/2016,FCS,Eastern Kentucky,Purdue,RECEIVING,Devin,Borders,LONG,26
+9245045,9/3/2016,FCS,Eastern Kentucky,Purdue,RECEIVING,James,SmithJr.,REC,3
+9245046,9/3/2016,FCS,Eastern Kentucky,Purdue,RECEIVING,James,SmithJr.,YDS,39
+9245047,9/3/2016,FCS,Eastern Kentucky,Purdue,RECEIVING,James,SmithJr.,TD,0
+9245048,9/3/2016,FCS,Eastern Kentucky,Purdue,RECEIVING,James,SmithJr.,LONG,15
+9245049,9/3/2016,FCS,Eastern Kentucky,Purdue,RECEIVING,Ryan,Markush,REC,2
+9245050,9/3/2016,FCS,Eastern Kentucky,Purdue,RECEIVING,Ryan,Markush,YDS,34
+9245051,9/3/2016,FCS,Eastern Kentucky,Purdue,RECEIVING,Ryan,Markush,TD,0
+9245052,9/3/2016,FCS,Eastern Kentucky,Purdue,RECEIVING,Ryan,Markush,LONG,26
+9245053,9/3/2016,FCS,Eastern Kentucky,Purdue,RECEIVING,Neiko,Creamer,REC,3
+9245054,9/3/2016,FCS,Eastern Kentucky,Purdue,RECEIVING,Neiko,Creamer,YDS,26
+9245055,9/3/2016,FCS,Eastern Kentucky,Purdue,RECEIVING,Neiko,Creamer,TD,0
+9245056,9/3/2016,FCS,Eastern Kentucky,Purdue,RECEIVING,Neiko,Creamer,LONG,11
+9245057,9/3/2016,FCS,Eastern Kentucky,Purdue,RECEIVING,Matt,Clark,REC,1
+9245058,9/3/2016,FCS,Eastern Kentucky,Purdue,RECEIVING,Matt,Clark,YDS,17
+9245059,9/3/2016,FCS,Eastern Kentucky,Purdue,RECEIVING,Matt,Clark,TD,0
+9245060,9/3/2016,FCS,Eastern Kentucky,Purdue,RECEIVING,Matt,Clark,LONG,17
+9245061,9/3/2016,FCS,Eastern Kentucky,Purdue,RECEIVING,Dan,Paul,REC,1
+9245062,9/3/2016,FCS,Eastern Kentucky,Purdue,RECEIVING,Dan,Paul,YDS,10
+9245063,9/3/2016,FCS,Eastern Kentucky,Purdue,RECEIVING,Dan,Paul,TD,0
+9245064,9/3/2016,FCS,Eastern Kentucky,Purdue,RECEIVING,Dan,Paul,LONG,10
+9245065,9/3/2016,FCS,Eastern Kentucky,Purdue,RECEIVING,Dan,Crimmins,REC,1
+9245066,9/3/2016,FCS,Eastern Kentucky,Purdue,RECEIVING,Dan,Crimmins,YDS,10
+9245067,9/3/2016,FCS,Eastern Kentucky,Purdue,RECEIVING,Dan,Crimmins,TD,1
+9245068,9/3/2016,FCS,Eastern Kentucky,Purdue,RECEIVING,Dan,Crimmins,LONG,10
+9245069,9/3/2016,FCS,Eastern Kentucky,Purdue,RECEIVING,Cameron,Fogle,REC,2
+9245070,9/3/2016,FCS,Eastern Kentucky,Purdue,RECEIVING,Cameron,Fogle,YDS,9
+9245071,9/3/2016,FCS,Eastern Kentucky,Purdue,RECEIVING,Cameron,Fogle,TD,1
+9245072,9/3/2016,FCS,Eastern Kentucky,Purdue,RECEIVING,Cameron,Fogle,LONG,7
+9245073,9/3/2016,FCS,Eastern Kentucky,Purdue,KICKING,Lucas,Williams,FG-FGA,1/1
+9245074,9/3/2016,FCS,Eastern Kentucky,Purdue,KICKING,Lucas,Williams,LONG,35
+9245075,9/3/2016,FCS,Eastern Kentucky,Purdue,KICKING,Lucas,Williams,XP,1
+9245076,9/3/2016,FCS,Eastern Kentucky,Purdue,KICKING,Lucas,Williams,PTS,4
+9245077,9/3/2016,FCS,Eastern Kentucky,Purdue,PUNTING,Keith,Wrzuszczak,NO,7
+9245078,9/3/2016,FCS,Eastern Kentucky,Purdue,PUNTING,Keith,Wrzuszczak,YDS,305
+9245079,9/3/2016,FCS,Eastern Kentucky,Purdue,PUNTING,Keith,Wrzuszczak,AVG,43.6
+9245080,9/3/2016,FCS,Eastern Kentucky,Purdue,PUNTING,Keith,Wrzuszczak,LONG,49
+9245081,9/3/2016,FCS,Eastern Kentucky,Purdue,PUNT RETURNS,Kiante,Northington,NO,2
+9245082,9/3/2016,FCS,Eastern Kentucky,Purdue,PUNT RETURNS,Kiante,Northington,YDS,16
+9245083,9/3/2016,FCS,Eastern Kentucky,Purdue,PUNT RETURNS,Kiante,Northington,AVG,8.0
+9245084,9/3/2016,FCS,Eastern Kentucky,Purdue,PUNT RETURNS,Kiante,Northington,LONG,8
+9245085,9/3/2016,FCS,Eastern Kentucky,Purdue,KICK RETURNS,Jared,Sanders,NO,7
+9245086,9/3/2016,FCS,Eastern Kentucky,Purdue,KICK RETURNS,Jared,Sanders,YDS,160
+9245087,9/3/2016,FCS,Eastern Kentucky,Purdue,KICK RETURNS,Jared,Sanders,AVG,22.9
+9245088,9/3/2016,FCS,Eastern Kentucky,Purdue,KICK RETURNS,Jared,Sanders,LONG,29
+9245089,9/3/2016,FCS,Purdue,Eastern Kentucky,RUSHING,Markell,Jones,ATT,24
+9245090,9/3/2016,FCS,Purdue,Eastern Kentucky,RUSHING,Markell,Jones,YDS,145
+9245091,9/3/2016,FCS,Purdue,Eastern Kentucky,RUSHING,Markell,Jones,TD,1
+9245092,9/3/2016,FCS,Purdue,Eastern Kentucky,RUSHING,Markell,Jones,LONG,23
+9245093,9/3/2016,FCS,Purdue,Eastern Kentucky,RUSHING,Brian,Lankford-Johnson,ATT,4
+9245094,9/3/2016,FCS,Purdue,Eastern Kentucky,RUSHING,Brian,Lankford-Johnson,YDS,58
+9245095,9/3/2016,FCS,Purdue,Eastern Kentucky,RUSHING,Brian,Lankford-Johnson,TD,1
+9245096,9/3/2016,FCS,Purdue,Eastern Kentucky,RUSHING,Brian,Lankford-Johnson,LONG,48
+9245097,9/3/2016,FCS,Purdue,Eastern Kentucky,RUSHING,Richie,Worship,ATT,4
+9245098,9/3/2016,FCS,Purdue,Eastern Kentucky,RUSHING,Richie,Worship,YDS,20
+9245099,9/3/2016,FCS,Purdue,Eastern Kentucky,RUSHING,Richie,Worship,TD,0
+9245100,9/3/2016,FCS,Purdue,Eastern Kentucky,RUSHING,Richie,Worship,LONG,9
+9245101,9/3/2016,FCS,Purdue,Eastern Kentucky,RUSHING,David,Blough,ATT,4
+9245102,9/3/2016,FCS,Purdue,Eastern Kentucky,RUSHING,David,Blough,YDS,18
+9245103,9/3/2016,FCS,Purdue,Eastern Kentucky,RUSHING,David,Blough,TD,2
+9245104,9/3/2016,FCS,Purdue,Eastern Kentucky,RUSHING,David,Blough,LONG,13
+9245105,9/3/2016,FCS,Purdue,Eastern Kentucky,RUSHING,Tario,Fuller,ATT,2
+9245106,9/3/2016,FCS,Purdue,Eastern Kentucky,RUSHING,Tario,Fuller,YDS,16
+9245107,9/3/2016,FCS,Purdue,Eastern Kentucky,RUSHING,Tario,Fuller,TD,0
+9245108,9/3/2016,FCS,Purdue,Eastern Kentucky,RUSHING,Tario,Fuller,LONG,12
+9245109,9/3/2016,FCS,Purdue,Eastern Kentucky,RUSHING,Cameron,Posey,ATT,1
+9245110,9/3/2016,FCS,Purdue,Eastern Kentucky,RUSHING,Cameron,Posey,YDS,4
+9245111,9/3/2016,FCS,Purdue,Eastern Kentucky,RUSHING,Cameron,Posey,TD,0
+9245112,9/3/2016,FCS,Purdue,Eastern Kentucky,RUSHING,Cameron,Posey,LONG,4
+9245113,9/3/2016,FCS,Purdue,Eastern Kentucky,RUSHING,Jason,King,ATT,0
+9245114,9/3/2016,FCS,Purdue,Eastern Kentucky,RUSHING,Jason,King,YDS,0
+9245115,9/3/2016,FCS,Purdue,Eastern Kentucky,RUSHING,Jason,King,TD,0
+9245116,9/3/2016,FCS,Purdue,Eastern Kentucky,RUSHING,Jason,King,LONG,0
+9245117,9/3/2016,FCS,Purdue,Eastern Kentucky,PASSING,David,Blough,CP-ATT-INT,25-43-1
+9245118,9/3/2016,FCS,Purdue,Eastern Kentucky,PASSING,David,Blough,YDS,245
+9245119,9/3/2016,FCS,Purdue,Eastern Kentucky,PASSING,David,Blough,TD,1
+9245120,9/3/2016,FCS,Purdue,Eastern Kentucky,PASSING,David,Blough,LONG,35
+9245121,9/3/2016,FCS,Purdue,Eastern Kentucky,PASSING,Elijah,Sindelar,CP-ATT-INT,1-1-0
+9245122,9/3/2016,FCS,Purdue,Eastern Kentucky,PASSING,Elijah,Sindelar,YDS,6
+9245123,9/3/2016,FCS,Purdue,Eastern Kentucky,PASSING,Elijah,Sindelar,TD,0
+9245124,9/3/2016,FCS,Purdue,Eastern Kentucky,PASSING,Elijah,Sindelar,LONG,6
+9245125,9/3/2016,FCS,Purdue,Eastern Kentucky,RECEIVING,Domonique,Young,REC,8
+9245126,9/3/2016,FCS,Purdue,Eastern Kentucky,RECEIVING,Domonique,Young,YDS,74
+9245127,9/3/2016,FCS,Purdue,Eastern Kentucky,RECEIVING,Domonique,Young,TD,0
+9245128,9/3/2016,FCS,Purdue,Eastern Kentucky,RECEIVING,Domonique,Young,LONG,19
+9245129,9/3/2016,FCS,Purdue,Eastern Kentucky,RECEIVING,Cameron,Posey,REC,5
+9245130,9/3/2016,FCS,Purdue,Eastern Kentucky,RECEIVING,Cameron,Posey,YDS,41
+9245131,9/3/2016,FCS,Purdue,Eastern Kentucky,RECEIVING,Cameron,Posey,TD,0
+9245132,9/3/2016,FCS,Purdue,Eastern Kentucky,RECEIVING,Cameron,Posey,LONG,14
+9245133,9/3/2016,FCS,Purdue,Eastern Kentucky,RECEIVING,DeAngelo,Yancey,REC,1
+9245134,9/3/2016,FCS,Purdue,Eastern Kentucky,RECEIVING,DeAngelo,Yancey,YDS,35
+9245135,9/3/2016,FCS,Purdue,Eastern Kentucky,RECEIVING,DeAngelo,Yancey,TD,1
+9245136,9/3/2016,FCS,Purdue,Eastern Kentucky,RECEIVING,DeAngelo,Yancey,LONG,35
+9245137,9/3/2016,FCS,Purdue,Eastern Kentucky,RECEIVING,Tario,Fuller,REC,3
+9245138,9/3/2016,FCS,Purdue,Eastern Kentucky,RECEIVING,Tario,Fuller,YDS,32
+9245139,9/3/2016,FCS,Purdue,Eastern Kentucky,RECEIVING,Tario,Fuller,TD,0
+9245140,9/3/2016,FCS,Purdue,Eastern Kentucky,RECEIVING,Tario,Fuller,LONG,27
+9245141,9/3/2016,FCS,Purdue,Eastern Kentucky,RECEIVING,Markell,Jones,REC,4
+9245142,9/3/2016,FCS,Purdue,Eastern Kentucky,RECEIVING,Markell,Jones,YDS,24
+9245143,9/3/2016,FCS,Purdue,Eastern Kentucky,RECEIVING,Markell,Jones,TD,0
+9245144,9/3/2016,FCS,Purdue,Eastern Kentucky,RECEIVING,Markell,Jones,LONG,15
+9245145,9/3/2016,FCS,Purdue,Eastern Kentucky,RECEIVING,Cole,Herdman,REC,1
+9245146,9/3/2016,FCS,Purdue,Eastern Kentucky,RECEIVING,Cole,Herdman,YDS,22
+9245147,9/3/2016,FCS,Purdue,Eastern Kentucky,RECEIVING,Cole,Herdman,TD,0
+9245148,9/3/2016,FCS,Purdue,Eastern Kentucky,RECEIVING,Cole,Herdman,LONG,22
+9245149,9/3/2016,FCS,Purdue,Eastern Kentucky,RECEIVING,Bilal,Marshall,REC,2
+9245150,9/3/2016,FCS,Purdue,Eastern Kentucky,RECEIVING,Bilal,Marshall,YDS,16
+9245151,9/3/2016,FCS,Purdue,Eastern Kentucky,RECEIVING,Bilal,Marshall,TD,0
+9245152,9/3/2016,FCS,Purdue,Eastern Kentucky,RECEIVING,Bilal,Marshall,LONG,10
+9245153,9/3/2016,FCS,Purdue,Eastern Kentucky,RECEIVING,Jarrett,Burgess,REC,1
+9245154,9/3/2016,FCS,Purdue,Eastern Kentucky,RECEIVING,Jarrett,Burgess,YDS,4
+9245155,9/3/2016,FCS,Purdue,Eastern Kentucky,RECEIVING,Jarrett,Burgess,TD,0
+9245156,9/3/2016,FCS,Purdue,Eastern Kentucky,RECEIVING,Jarrett,Burgess,LONG,4
+9245157,9/3/2016,FCS,Purdue,Eastern Kentucky,RECEIVING,Richie,Worship,REC,1
+9245158,9/3/2016,FCS,Purdue,Eastern Kentucky,RECEIVING,Richie,Worship,YDS,3
+9245159,9/3/2016,FCS,Purdue,Eastern Kentucky,RECEIVING,Richie,Worship,TD,0
+9245160,9/3/2016,FCS,Purdue,Eastern Kentucky,RECEIVING,Richie,Worship,LONG,3
+9245161,9/3/2016,FCS,Purdue,Eastern Kentucky,KICKING,J.D.,Dellinger,FG-FGA,1/2
+9245162,9/3/2016,FCS,Purdue,Eastern Kentucky,KICKING,J.D.,Dellinger,LONG,30
+9245163,9/3/2016,FCS,Purdue,Eastern Kentucky,KICKING,J.D.,Dellinger,XP,6
+9245164,9/3/2016,FCS,Purdue,Eastern Kentucky,KICKING,J.D.,Dellinger,PTS,9
+9245165,9/3/2016,FCS,Purdue,Eastern Kentucky,PUNTING,Joe,Schopper,NO,5
+9245166,9/3/2016,FCS,Purdue,Eastern Kentucky,PUNTING,Joe,Schopper,YDS,213
+9245167,9/3/2016,FCS,Purdue,Eastern Kentucky,PUNTING,Joe,Schopper,AVG,42.6
+9245168,9/3/2016,FCS,Purdue,Eastern Kentucky,PUNTING,Joe,Schopper,LONG,57
+9245169,9/3/2016,FCS,Purdue,Eastern Kentucky,PUNT RETURNS,Malik,Kimbrough,NO,2
+9245170,9/3/2016,FCS,Purdue,Eastern Kentucky,PUNT RETURNS,Malik,Kimbrough,YDS,-6
+9245171,9/3/2016,FCS,Purdue,Eastern Kentucky,PUNT RETURNS,Malik,Kimbrough,AVG,-
+9245172,9/3/2016,FCS,Purdue,Eastern Kentucky,PUNT RETURNS,Malik,Kimbrough,LONG,0
+9245173,9/3/2016,FCS,Purdue,Eastern Kentucky,KICK RETURNS,Malik,Kimbrough,NO,3
+9245174,9/3/2016,FCS,Purdue,Eastern Kentucky,KICK RETURNS,Malik,Kimbrough,YDS,76
+9245175,9/3/2016,FCS,Purdue,Eastern Kentucky,KICK RETURNS,Malik,Kimbrough,AVG,25.3
+9245176,9/3/2016,FCS,Purdue,Eastern Kentucky,KICK RETURNS,Malik,Kimbrough,LONG,36

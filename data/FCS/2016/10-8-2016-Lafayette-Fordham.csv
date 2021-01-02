@@ -1,0 +1,165 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9580001,10/8/2016,FCS,Lafayette,Fordham,RUSHING,DeSean,Brown,ATT,12
+9580002,10/8/2016,FCS,Lafayette,Fordham,RUSHING,DeSean,Brown,YDS,39
+9580003,10/8/2016,FCS,Lafayette,Fordham,RUSHING,DeSean,Brown,TD,1
+9580004,10/8/2016,FCS,Lafayette,Fordham,RUSHING,DeSean,Brown,LONG,14
+9580005,10/8/2016,FCS,Lafayette,Fordham,RUSHING,Kyle,Mayfield,ATT,9
+9580006,10/8/2016,FCS,Lafayette,Fordham,RUSHING,Kyle,Mayfield,YDS,26
+9580007,10/8/2016,FCS,Lafayette,Fordham,RUSHING,Kyle,Mayfield,TD,0
+9580008,10/8/2016,FCS,Lafayette,Fordham,RUSHING,Kyle,Mayfield,LONG,13
+9580009,10/8/2016,FCS,Lafayette,Fordham,RUSHING,Rajhan,Meriwether,ATT,7
+9580010,10/8/2016,FCS,Lafayette,Fordham,RUSHING,Rajhan,Meriwether,YDS,23
+9580011,10/8/2016,FCS,Lafayette,Fordham,RUSHING,Rajhan,Meriwether,TD,0
+9580012,10/8/2016,FCS,Lafayette,Fordham,RUSHING,Rajhan,Meriwether,LONG,8
+9580013,10/8/2016,FCS,Lafayette,Fordham,RUSHING,Blake,Searfoss,ATT,6
+9580014,10/8/2016,FCS,Lafayette,Fordham,RUSHING,Blake,Searfoss,YDS,13
+9580015,10/8/2016,FCS,Lafayette,Fordham,RUSHING,Blake,Searfoss,TD,1
+9580016,10/8/2016,FCS,Lafayette,Fordham,RUSHING,Blake,Searfoss,LONG,13
+9580017,10/8/2016,FCS,Lafayette,Fordham,RUSHING,C.J.,Amill,ATT,3
+9580018,10/8/2016,FCS,Lafayette,Fordham,RUSHING,C.J.,Amill,YDS,13
+9580019,10/8/2016,FCS,Lafayette,Fordham,RUSHING,C.J.,Amill,TD,0
+9580020,10/8/2016,FCS,Lafayette,Fordham,RUSHING,C.J.,Amill,LONG,6
+9580021,10/8/2016,FCS,Lafayette,Fordham,RUSHING,Joey,Chenoweth,ATT,1
+9580022,10/8/2016,FCS,Lafayette,Fordham,RUSHING,Joey,Chenoweth,YDS,-2
+9580023,10/8/2016,FCS,Lafayette,Fordham,RUSHING,Joey,Chenoweth,TD,0
+9580024,10/8/2016,FCS,Lafayette,Fordham,RUSHING,Joey,Chenoweth,LONG,0
+9580025,10/8/2016,FCS,Lafayette,Fordham,PASSING,Blake,Searfoss,CP-ATT-INT,25-41-2
+9580026,10/8/2016,FCS,Lafayette,Fordham,PASSING,Blake,Searfoss,YDS,325
+9580027,10/8/2016,FCS,Lafayette,Fordham,PASSING,Blake,Searfoss,TD,1
+9580028,10/8/2016,FCS,Lafayette,Fordham,PASSING,Blake,Searfoss,LONG,65
+9580029,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Matt,Mrazek,REC,9
+9580030,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Matt,Mrazek,YDS,88
+9580031,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Matt,Mrazek,TD,0
+9580032,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Matt,Mrazek,LONG,21
+9580033,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Joey,Chenoweth,REC,5
+9580034,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Joey,Chenoweth,YDS,79
+9580035,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Joey,Chenoweth,TD,1
+9580036,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Joey,Chenoweth,LONG,65
+9580037,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Dylan,Wadsworth,REC,3
+9580038,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Dylan,Wadsworth,YDS,54
+9580039,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Dylan,Wadsworth,TD,0
+9580040,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Dylan,Wadsworth,LONG,22
+9580041,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Angus,Evans,REC,1
+9580042,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Angus,Evans,YDS,20
+9580043,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Angus,Evans,TD,0
+9580044,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Angus,Evans,LONG,20
+9580045,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Blake,Searfoss,REC,1
+9580046,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Blake,Searfoss,YDS,18
+9580047,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Blake,Searfoss,TD,0
+9580048,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Blake,Searfoss,LONG,18
+9580049,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Tim,Vangelas,REC,2
+9580050,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Tim,Vangelas,YDS,15
+9580051,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Tim,Vangelas,TD,0
+9580052,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Tim,Vangelas,LONG,9
+9580053,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Rocco,Palumbo,REC,1
+9580054,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Rocco,Palumbo,YDS,15
+9580055,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Rocco,Palumbo,TD,0
+9580056,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Rocco,Palumbo,LONG,15
+9580057,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Nick,Franzese,REC,1
+9580058,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Nick,Franzese,YDS,14
+9580059,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Nick,Franzese,TD,0
+9580060,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Nick,Franzese,LONG,14
+9580061,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Kyle,Mayfield,REC,1
+9580062,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Kyle,Mayfield,YDS,14
+9580063,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Kyle,Mayfield,TD,0
+9580064,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Kyle,Mayfield,LONG,14
+9580065,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Yasir,Thomas,REC,1
+9580066,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Yasir,Thomas,YDS,8
+9580067,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Yasir,Thomas,TD,0
+9580068,10/8/2016,FCS,Lafayette,Fordham,RECEIVING,Yasir,Thomas,LONG,8
+9580069,10/8/2016,FCS,Lafayette,Fordham,KICKING,Jacob,Bissell,FG-FGA,2/2
+9580070,10/8/2016,FCS,Lafayette,Fordham,KICKING,Jacob,Bissell,LONG,35
+9580071,10/8/2016,FCS,Lafayette,Fordham,KICKING,Jacob,Bissell,XP,4
+9580072,10/8/2016,FCS,Lafayette,Fordham,KICKING,Jacob,Bissell,PTS,10
+9580073,10/8/2016,FCS,Lafayette,Fordham,PUNTING,Ryan,Forrester,NO,5
+9580074,10/8/2016,FCS,Lafayette,Fordham,PUNTING,Ryan,Forrester,YDS,217
+9580075,10/8/2016,FCS,Lafayette,Fordham,PUNTING,Ryan,Forrester,AVG,43.4
+9580076,10/8/2016,FCS,Lafayette,Fordham,PUNTING,Ryan,Forrester,LONG,55
+9580077,10/8/2016,FCS,Lafayette,Fordham,KICK RETURNS,Eric,Mitchell,NO,4
+9580078,10/8/2016,FCS,Lafayette,Fordham,KICK RETURNS,Eric,Mitchell,YDS,76
+9580079,10/8/2016,FCS,Lafayette,Fordham,KICK RETURNS,Eric,Mitchell,AVG,19.0
+9580080,10/8/2016,FCS,Lafayette,Fordham,KICK RETURNS,Eric,Mitchell,LONG,23
+9580081,10/8/2016,FCS,Lafayette,Fordham,KICK RETURNS,C.J.,Amill,NO,5
+9580082,10/8/2016,FCS,Lafayette,Fordham,KICK RETURNS,C.J.,Amill,YDS,75
+9580083,10/8/2016,FCS,Lafayette,Fordham,KICK RETURNS,C.J.,Amill,AVG,15.0
+9580084,10/8/2016,FCS,Lafayette,Fordham,KICK RETURNS,C.J.,Amill,LONG,25
+9580085,10/8/2016,FCS,Fordham,Lafayette,RUSHING,Chase,Edmonds,ATT,17
+9580086,10/8/2016,FCS,Fordham,Lafayette,RUSHING,Chase,Edmonds,YDS,359
+9580087,10/8/2016,FCS,Fordham,Lafayette,RUSHING,Chase,Edmonds,TD,4
+9580088,10/8/2016,FCS,Fordham,Lafayette,RUSHING,Chase,Edmonds,LONG,74
+9580089,10/8/2016,FCS,Fordham,Lafayette,RUSHING,Kevin,Anderson,ATT,10
+9580090,10/8/2016,FCS,Fordham,Lafayette,RUSHING,Kevin,Anderson,YDS,108
+9580091,10/8/2016,FCS,Fordham,Lafayette,RUSHING,Kevin,Anderson,TD,1
+9580092,10/8/2016,FCS,Fordham,Lafayette,RUSHING,Kevin,Anderson,LONG,33
+9580093,10/8/2016,FCS,Fordham,Lafayette,RUSHING,Kendall,Pearcey,ATT,11
+9580094,10/8/2016,FCS,Fordham,Lafayette,RUSHING,Kendall,Pearcey,YDS,32
+9580095,10/8/2016,FCS,Fordham,Lafayette,RUSHING,Kendall,Pearcey,TD,0
+9580096,10/8/2016,FCS,Fordham,Lafayette,RUSHING,Kendall,Pearcey,LONG,16
+9580097,10/8/2016,FCS,Fordham,Lafayette,RUSHING,Jarred,Brevard,ATT,2
+9580098,10/8/2016,FCS,Fordham,Lafayette,RUSHING,Jarred,Brevard,YDS,14
+9580099,10/8/2016,FCS,Fordham,Lafayette,RUSHING,Jarred,Brevard,TD,0
+9580100,10/8/2016,FCS,Fordham,Lafayette,RUSHING,Jarred,Brevard,LONG,14
+9580101,10/8/2016,FCS,Fordham,Lafayette,RUSHING,Luke,Medlock,ATT,1
+9580102,10/8/2016,FCS,Fordham,Lafayette,RUSHING,Luke,Medlock,YDS,13
+9580103,10/8/2016,FCS,Fordham,Lafayette,RUSHING,Luke,Medlock,TD,0
+9580104,10/8/2016,FCS,Fordham,Lafayette,RUSHING,Luke,Medlock,LONG,13
+9580105,10/8/2016,FCS,Fordham,Lafayette,RUSHING,,Team,ATT,2
+9580106,10/8/2016,FCS,Fordham,Lafayette,RUSHING,,Team,YDS,-10
+9580107,10/8/2016,FCS,Fordham,Lafayette,RUSHING,,Team,TD,0
+9580108,10/8/2016,FCS,Fordham,Lafayette,RUSHING,,Team,LONG,0
+9580109,10/8/2016,FCS,Fordham,Lafayette,PASSING,Kevin,Anderson,CP-ATT-INT,12-18-1
+9580110,10/8/2016,FCS,Fordham,Lafayette,PASSING,Kevin,Anderson,YDS,181
+9580111,10/8/2016,FCS,Fordham,Lafayette,PASSING,Kevin,Anderson,TD,3
+9580112,10/8/2016,FCS,Fordham,Lafayette,PASSING,Kevin,Anderson,LONG,25
+9580113,10/8/2016,FCS,Fordham,Lafayette,PASSING,Luke,Medlock,CP-ATT-INT,1-3-0
+9580114,10/8/2016,FCS,Fordham,Lafayette,PASSING,Luke,Medlock,YDS,12
+9580115,10/8/2016,FCS,Fordham,Lafayette,PASSING,Luke,Medlock,TD,0
+9580116,10/8/2016,FCS,Fordham,Lafayette,PASSING,Luke,Medlock,LONG,12
+9580117,10/8/2016,FCS,Fordham,Lafayette,PASSING,,Team,CP-ATT-INT,0-1-0
+9580118,10/8/2016,FCS,Fordham,Lafayette,PASSING,,Team,YDS,0
+9580119,10/8/2016,FCS,Fordham,Lafayette,PASSING,,Team,TD,0
+9580120,10/8/2016,FCS,Fordham,Lafayette,PASSING,,Team,LONG,0
+9580121,10/8/2016,FCS,Fordham,Lafayette,RECEIVING,Corey,Caddle,REC,4
+9580122,10/8/2016,FCS,Fordham,Lafayette,RECEIVING,Corey,Caddle,YDS,55
+9580123,10/8/2016,FCS,Fordham,Lafayette,RECEIVING,Corey,Caddle,TD,2
+9580124,10/8/2016,FCS,Fordham,Lafayette,RECEIVING,Corey,Caddle,LONG,25
+9580125,10/8/2016,FCS,Fordham,Lafayette,RECEIVING,Robbie,Cantelli,REC,2
+9580126,10/8/2016,FCS,Fordham,Lafayette,RECEIVING,Robbie,Cantelli,YDS,40
+9580127,10/8/2016,FCS,Fordham,Lafayette,RECEIVING,Robbie,Cantelli,TD,1
+9580128,10/8/2016,FCS,Fordham,Lafayette,RECEIVING,Robbie,Cantelli,LONG,22
+9580129,10/8/2016,FCS,Fordham,Lafayette,RECEIVING,Austin,Longi,REC,2
+9580130,10/8/2016,FCS,Fordham,Lafayette,RECEIVING,Austin,Longi,YDS,28
+9580131,10/8/2016,FCS,Fordham,Lafayette,RECEIVING,Austin,Longi,TD,0
+9580132,10/8/2016,FCS,Fordham,Lafayette,RECEIVING,Austin,Longi,LONG,21
+9580133,10/8/2016,FCS,Fordham,Lafayette,RECEIVING,Phazahn,Odom,REC,1
+9580134,10/8/2016,FCS,Fordham,Lafayette,RECEIVING,Phazahn,Odom,YDS,23
+9580135,10/8/2016,FCS,Fordham,Lafayette,RECEIVING,Phazahn,Odom,TD,0
+9580136,10/8/2016,FCS,Fordham,Lafayette,RECEIVING,Phazahn,Odom,LONG,23
+9580137,10/8/2016,FCS,Fordham,Lafayette,RECEIVING,Jordan,Allen,REC,2
+9580138,10/8/2016,FCS,Fordham,Lafayette,RECEIVING,Jordan,Allen,YDS,21
+9580139,10/8/2016,FCS,Fordham,Lafayette,RECEIVING,Jordan,Allen,TD,0
+9580140,10/8/2016,FCS,Fordham,Lafayette,RECEIVING,Jordan,Allen,LONG,11
+9580141,10/8/2016,FCS,Fordham,Lafayette,RECEIVING,Chase,Edmonds,REC,1
+9580142,10/8/2016,FCS,Fordham,Lafayette,RECEIVING,Chase,Edmonds,YDS,17
+9580143,10/8/2016,FCS,Fordham,Lafayette,RECEIVING,Chase,Edmonds,TD,0
+9580144,10/8/2016,FCS,Fordham,Lafayette,RECEIVING,Chase,Edmonds,LONG,17
+9580145,10/8/2016,FCS,Fordham,Lafayette,RECEIVING,Isaiah,Searight,REC,1
+9580146,10/8/2016,FCS,Fordham,Lafayette,RECEIVING,Isaiah,Searight,YDS,9
+9580147,10/8/2016,FCS,Fordham,Lafayette,RECEIVING,Isaiah,Searight,TD,0
+9580148,10/8/2016,FCS,Fordham,Lafayette,RECEIVING,Isaiah,Searight,LONG,9
+9580149,10/8/2016,FCS,Fordham,Lafayette,KICKING,Makay,Redd,FG-FGA,1/1
+9580150,10/8/2016,FCS,Fordham,Lafayette,KICKING,Makay,Redd,LONG,44
+9580151,10/8/2016,FCS,Fordham,Lafayette,KICKING,Makay,Redd,XP,7
+9580152,10/8/2016,FCS,Fordham,Lafayette,KICKING,Makay,Redd,PTS,10
+9580153,10/8/2016,FCS,Fordham,Lafayette,PUNTING,Joe,Pavlik,NO,1
+9580154,10/8/2016,FCS,Fordham,Lafayette,PUNTING,Joe,Pavlik,YDS,31
+9580155,10/8/2016,FCS,Fordham,Lafayette,PUNTING,Joe,Pavlik,AVG,31.0
+9580156,10/8/2016,FCS,Fordham,Lafayette,PUNTING,Joe,Pavlik,LONG,31
+9580157,10/8/2016,FCS,Fordham,Lafayette,PUNT RETURNS,Corey,Caddle,NO,3
+9580158,10/8/2016,FCS,Fordham,Lafayette,PUNT RETURNS,Corey,Caddle,YDS,43
+9580159,10/8/2016,FCS,Fordham,Lafayette,PUNT RETURNS,Corey,Caddle,AVG,14.3
+9580160,10/8/2016,FCS,Fordham,Lafayette,PUNT RETURNS,Corey,Caddle,LONG,18
+9580161,10/8/2016,FCS,Fordham,Lafayette,KICK RETURNS,Kendall,Pearcey,NO,4
+9580162,10/8/2016,FCS,Fordham,Lafayette,KICK RETURNS,Kendall,Pearcey,YDS,72
+9580163,10/8/2016,FCS,Fordham,Lafayette,KICK RETURNS,Kendall,Pearcey,AVG,18.0
+9580164,10/8/2016,FCS,Fordham,Lafayette,KICK RETURNS,Kendall,Pearcey,LONG,29

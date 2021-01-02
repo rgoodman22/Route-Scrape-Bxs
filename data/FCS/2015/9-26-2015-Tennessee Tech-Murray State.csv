@@ -1,0 +1,141 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+8706001,9/26/2015,FCS,Tennessee Tech,Murray State,RUSHING,Jared,Davis,ATT,15
+8706002,9/26/2015,FCS,Tennessee Tech,Murray State,RUSHING,Jared,Davis,YDS,63
+8706003,9/26/2015,FCS,Tennessee Tech,Murray State,RUSHING,Jared,Davis,TD,1
+8706004,9/26/2015,FCS,Tennessee Tech,Murray State,RUSHING,Jared,Davis,LONG,41
+8706005,9/26/2015,FCS,Tennessee Tech,Murray State,RUSHING,Ladarius,Vanlier,ATT,13
+8706006,9/26/2015,FCS,Tennessee Tech,Murray State,RUSHING,Ladarius,Vanlier,YDS,36
+8706007,9/26/2015,FCS,Tennessee Tech,Murray State,RUSHING,Ladarius,Vanlier,TD,0
+8706008,9/26/2015,FCS,Tennessee Tech,Murray State,RUSHING,Ladarius,Vanlier,LONG,20
+8706009,9/26/2015,FCS,Tennessee Tech,Murray State,RUSHING,Willie,Davis,ATT,3
+8706010,9/26/2015,FCS,Tennessee Tech,Murray State,RUSHING,Willie,Davis,YDS,21
+8706011,9/26/2015,FCS,Tennessee Tech,Murray State,RUSHING,Willie,Davis,TD,1
+8706012,9/26/2015,FCS,Tennessee Tech,Murray State,RUSHING,Willie,Davis,LONG,10
+8706013,9/26/2015,FCS,Tennessee Tech,Murray State,RUSHING,Radir,Annoor,ATT,2
+8706014,9/26/2015,FCS,Tennessee Tech,Murray State,RUSHING,Radir,Annoor,YDS,1
+8706015,9/26/2015,FCS,Tennessee Tech,Murray State,RUSHING,Radir,Annoor,TD,0
+8706016,9/26/2015,FCS,Tennessee Tech,Murray State,RUSHING,Radir,Annoor,LONG,1
+8706017,9/26/2015,FCS,Tennessee Tech,Murray State,RUSHING,Dorian,Carter,ATT,1
+8706018,9/26/2015,FCS,Tennessee Tech,Murray State,RUSHING,Dorian,Carter,YDS,1
+8706019,9/26/2015,FCS,Tennessee Tech,Murray State,RUSHING,Dorian,Carter,TD,0
+8706020,9/26/2015,FCS,Tennessee Tech,Murray State,RUSHING,Dorian,Carter,LONG,1
+8706021,9/26/2015,FCS,Tennessee Tech,Murray State,RUSHING,,Team,ATT,3
+8706022,9/26/2015,FCS,Tennessee Tech,Murray State,RUSHING,,Team,YDS,-6
+8706023,9/26/2015,FCS,Tennessee Tech,Murray State,RUSHING,,Team,TD,0
+8706024,9/26/2015,FCS,Tennessee Tech,Murray State,RUSHING,,Team,LONG,0
+8706025,9/26/2015,FCS,Tennessee Tech,Murray State,PASSING,Jared,Davis,CP-ATT-INT,26-40-1
+8706026,9/26/2015,FCS,Tennessee Tech,Murray State,PASSING,Jared,Davis,YDS,264
+8706027,9/26/2015,FCS,Tennessee Tech,Murray State,PASSING,Jared,Davis,TD,2
+8706028,9/26/2015,FCS,Tennessee Tech,Murray State,PASSING,Jared,Davis,LONG,30
+8706029,9/26/2015,FCS,Tennessee Tech,Murray State,RECEIVING,Brock,McCoin,REC,14
+8706030,9/26/2015,FCS,Tennessee Tech,Murray State,RECEIVING,Brock,McCoin,YDS,108
+8706031,9/26/2015,FCS,Tennessee Tech,Murray State,RECEIVING,Brock,McCoin,TD,0
+8706032,9/26/2015,FCS,Tennessee Tech,Murray State,RECEIVING,Brock,McCoin,LONG,23
+8706033,9/26/2015,FCS,Tennessee Tech,Murray State,RECEIVING,Jordan,Smith,REC,5
+8706034,9/26/2015,FCS,Tennessee Tech,Murray State,RECEIVING,Jordan,Smith,YDS,78
+8706035,9/26/2015,FCS,Tennessee Tech,Murray State,RECEIVING,Jordan,Smith,TD,2
+8706036,9/26/2015,FCS,Tennessee Tech,Murray State,RECEIVING,Jordan,Smith,LONG,30
+8706037,9/26/2015,FCS,Tennessee Tech,Murray State,RECEIVING,Krys,Cates,REC,4
+8706038,9/26/2015,FCS,Tennessee Tech,Murray State,RECEIVING,Krys,Cates,YDS,43
+8706039,9/26/2015,FCS,Tennessee Tech,Murray State,RECEIVING,Krys,Cates,TD,0
+8706040,9/26/2015,FCS,Tennessee Tech,Murray State,RECEIVING,Krys,Cates,LONG,17
+8706041,9/26/2015,FCS,Tennessee Tech,Murray State,RECEIVING,Steve,Wilson,REC,2
+8706042,9/26/2015,FCS,Tennessee Tech,Murray State,RECEIVING,Steve,Wilson,YDS,28
+8706043,9/26/2015,FCS,Tennessee Tech,Murray State,RECEIVING,Steve,Wilson,TD,0
+8706044,9/26/2015,FCS,Tennessee Tech,Murray State,RECEIVING,Steve,Wilson,LONG,17
+8706045,9/26/2015,FCS,Tennessee Tech,Murray State,RECEIVING,Ladarius,Vanlier,REC,1
+8706046,9/26/2015,FCS,Tennessee Tech,Murray State,RECEIVING,Ladarius,Vanlier,YDS,7
+8706047,9/26/2015,FCS,Tennessee Tech,Murray State,RECEIVING,Ladarius,Vanlier,TD,0
+8706048,9/26/2015,FCS,Tennessee Tech,Murray State,RECEIVING,Ladarius,Vanlier,LONG,7
+8706049,9/26/2015,FCS,Tennessee Tech,Murray State,KICKING,John,Arnold,FG-FGA,1/1
+8706050,9/26/2015,FCS,Tennessee Tech,Murray State,KICKING,John,Arnold,LONG,31
+8706051,9/26/2015,FCS,Tennessee Tech,Murray State,KICKING,John,Arnold,XP,4
+8706052,9/26/2015,FCS,Tennessee Tech,Murray State,KICKING,John,Arnold,PTS,7
+8706053,9/26/2015,FCS,Tennessee Tech,Murray State,PUNTING,Jonathan,King,NO,8
+8706054,9/26/2015,FCS,Tennessee Tech,Murray State,PUNTING,Jonathan,King,YDS,362
+8706055,9/26/2015,FCS,Tennessee Tech,Murray State,PUNTING,Jonathan,King,AVG,45.2
+8706056,9/26/2015,FCS,Tennessee Tech,Murray State,PUNTING,Jonathan,King,LONG,54
+8706057,9/26/2015,FCS,Tennessee Tech,Murray State,PUNT RETURNS,Ladarius,Vanlier,NO,1
+8706058,9/26/2015,FCS,Tennessee Tech,Murray State,PUNT RETURNS,Ladarius,Vanlier,YDS,8
+8706059,9/26/2015,FCS,Tennessee Tech,Murray State,PUNT RETURNS,Ladarius,Vanlier,AVG,8.0
+8706060,9/26/2015,FCS,Tennessee Tech,Murray State,PUNT RETURNS,Ladarius,Vanlier,LONG,8
+8706061,9/26/2015,FCS,Tennessee Tech,Murray State,KICK RETURNS,Ladarius,Vanlier,NO,3
+8706062,9/26/2015,FCS,Tennessee Tech,Murray State,KICK RETURNS,Ladarius,Vanlier,YDS,83
+8706063,9/26/2015,FCS,Tennessee Tech,Murray State,KICK RETURNS,Ladarius,Vanlier,AVG,27.7
+8706064,9/26/2015,FCS,Tennessee Tech,Murray State,KICK RETURNS,Ladarius,Vanlier,LONG,55
+8706065,9/26/2015,FCS,Murray State,Tennessee Tech,RUSHING,Nick,Taylor,ATT,7
+8706066,9/26/2015,FCS,Murray State,Tennessee Tech,RUSHING,Nick,Taylor,YDS,51
+8706067,9/26/2015,FCS,Murray State,Tennessee Tech,RUSHING,Nick,Taylor,TD,0
+8706068,9/26/2015,FCS,Murray State,Tennessee Tech,RUSHING,Nick,Taylor,LONG,12
+8706069,9/26/2015,FCS,Murray State,Tennessee Tech,RUSHING,Roman,Clay,ATT,7
+8706070,9/26/2015,FCS,Murray State,Tennessee Tech,RUSHING,Roman,Clay,YDS,16
+8706071,9/26/2015,FCS,Murray State,Tennessee Tech,RUSHING,Roman,Clay,TD,0
+8706072,9/26/2015,FCS,Murray State,Tennessee Tech,RUSHING,Roman,Clay,LONG,6
+8706073,9/26/2015,FCS,Murray State,Tennessee Tech,RUSHING,KD,Humphries,ATT,13
+8706074,9/26/2015,FCS,Murray State,Tennessee Tech,RUSHING,KD,Humphries,YDS,12
+8706075,9/26/2015,FCS,Murray State,Tennessee Tech,RUSHING,KD,Humphries,TD,1
+8706076,9/26/2015,FCS,Murray State,Tennessee Tech,RUSHING,KD,Humphries,LONG,11
+8706077,9/26/2015,FCS,Murray State,Tennessee Tech,RUSHING,Paul,Rice,ATT,1
+8706078,9/26/2015,FCS,Murray State,Tennessee Tech,RUSHING,Paul,Rice,YDS,-19
+8706079,9/26/2015,FCS,Murray State,Tennessee Tech,RUSHING,Paul,Rice,TD,0
+8706080,9/26/2015,FCS,Murray State,Tennessee Tech,RUSHING,Paul,Rice,LONG,0
+8706081,9/26/2015,FCS,Murray State,Tennessee Tech,PASSING,KD,Humphries,CP-ATT-INT,43-57-0
+8706082,9/26/2015,FCS,Murray State,Tennessee Tech,PASSING,KD,Humphries,YDS,491
+8706083,9/26/2015,FCS,Murray State,Tennessee Tech,PASSING,KD,Humphries,TD,3
+8706084,9/26/2015,FCS,Murray State,Tennessee Tech,PASSING,KD,Humphries,LONG,54
+8706085,9/26/2015,FCS,Murray State,Tennessee Tech,RECEIVING,Janawski,Davis,REC,7
+8706086,9/26/2015,FCS,Murray State,Tennessee Tech,RECEIVING,Janawski,Davis,YDS,140
+8706087,9/26/2015,FCS,Murray State,Tennessee Tech,RECEIVING,Janawski,Davis,TD,3
+8706088,9/26/2015,FCS,Murray State,Tennessee Tech,RECEIVING,Janawski,Davis,LONG,54
+8706089,9/26/2015,FCS,Murray State,Tennessee Tech,RECEIVING,Jeremy,Harness,REC,11
+8706090,9/26/2015,FCS,Murray State,Tennessee Tech,RECEIVING,Jeremy,Harness,YDS,115
+8706091,9/26/2015,FCS,Murray State,Tennessee Tech,RECEIVING,Jeremy,Harness,TD,0
+8706092,9/26/2015,FCS,Murray State,Tennessee Tech,RECEIVING,Jeremy,Harness,LONG,24
+8706093,9/26/2015,FCS,Murray State,Tennessee Tech,RECEIVING,Paul,Rice,REC,8
+8706094,9/26/2015,FCS,Murray State,Tennessee Tech,RECEIVING,Paul,Rice,YDS,86
+8706095,9/26/2015,FCS,Murray State,Tennessee Tech,RECEIVING,Paul,Rice,TD,0
+8706096,9/26/2015,FCS,Murray State,Tennessee Tech,RECEIVING,Paul,Rice,LONG,21
+8706097,9/26/2015,FCS,Murray State,Tennessee Tech,RECEIVING,Dominique,Rhymes,REC,2
+8706098,9/26/2015,FCS,Murray State,Tennessee Tech,RECEIVING,Dominique,Rhymes,YDS,50
+8706099,9/26/2015,FCS,Murray State,Tennessee Tech,RECEIVING,Dominique,Rhymes,TD,0
+8706100,9/26/2015,FCS,Murray State,Tennessee Tech,RECEIVING,Dominique,Rhymes,LONG,37
+8706101,9/26/2015,FCS,Murray State,Tennessee Tech,RECEIVING,Roman,Clay,REC,7
+8706102,9/26/2015,FCS,Murray State,Tennessee Tech,RECEIVING,Roman,Clay,YDS,43
+8706103,9/26/2015,FCS,Murray State,Tennessee Tech,RECEIVING,Roman,Clay,TD,0
+8706104,9/26/2015,FCS,Murray State,Tennessee Tech,RECEIVING,Roman,Clay,LONG,13
+8706105,9/26/2015,FCS,Murray State,Tennessee Tech,RECEIVING,Jesse,Blackburn,REC,5
+8706106,9/26/2015,FCS,Murray State,Tennessee Tech,RECEIVING,Jesse,Blackburn,YDS,33
+8706107,9/26/2015,FCS,Murray State,Tennessee Tech,RECEIVING,Jesse,Blackburn,TD,0
+8706108,9/26/2015,FCS,Murray State,Tennessee Tech,RECEIVING,Jesse,Blackburn,LONG,12
+8706109,9/26/2015,FCS,Murray State,Tennessee Tech,RECEIVING,Mitch,Stults,REC,2
+8706110,9/26/2015,FCS,Murray State,Tennessee Tech,RECEIVING,Mitch,Stults,YDS,16
+8706111,9/26/2015,FCS,Murray State,Tennessee Tech,RECEIVING,Mitch,Stults,TD,0
+8706112,9/26/2015,FCS,Murray State,Tennessee Tech,RECEIVING,Mitch,Stults,LONG,14
+8706113,9/26/2015,FCS,Murray State,Tennessee Tech,RECEIVING,Nick,Taylor,REC,1
+8706114,9/26/2015,FCS,Murray State,Tennessee Tech,RECEIVING,Nick,Taylor,YDS,8
+8706115,9/26/2015,FCS,Murray State,Tennessee Tech,RECEIVING,Nick,Taylor,TD,0
+8706116,9/26/2015,FCS,Murray State,Tennessee Tech,RECEIVING,Nick,Taylor,LONG,8
+8706117,9/26/2015,FCS,Murray State,Tennessee Tech,KICKING,Carson,Greifenkamp,FG-FGA,1/3
+8706118,9/26/2015,FCS,Murray State,Tennessee Tech,KICKING,Carson,Greifenkamp,LONG,34
+8706119,9/26/2015,FCS,Murray State,Tennessee Tech,KICKING,Carson,Greifenkamp,XP,2
+8706120,9/26/2015,FCS,Murray State,Tennessee Tech,KICKING,Carson,Greifenkamp,PTS,5
+8706121,9/26/2015,FCS,Murray State,Tennessee Tech,PUNTING,Landon,Stratton,NO,5
+8706122,9/26/2015,FCS,Murray State,Tennessee Tech,PUNTING,Landon,Stratton,YDS,178
+8706123,9/26/2015,FCS,Murray State,Tennessee Tech,PUNTING,Landon,Stratton,AVG,35.6
+8706124,9/26/2015,FCS,Murray State,Tennessee Tech,PUNTING,Landon,Stratton,LONG,41
+8706125,9/26/2015,FCS,Murray State,Tennessee Tech,PUNT RETURNS,Janawski,Davis,NO,3
+8706126,9/26/2015,FCS,Murray State,Tennessee Tech,PUNT RETURNS,Janawski,Davis,YDS,60
+8706127,9/26/2015,FCS,Murray State,Tennessee Tech,PUNT RETURNS,Janawski,Davis,AVG,20.0
+8706128,9/26/2015,FCS,Murray State,Tennessee Tech,PUNT RETURNS,Janawski,Davis,LONG,28
+8706129,9/26/2015,FCS,Murray State,Tennessee Tech,KICK RETURNS,Pokey,Harris,NO,3
+8706130,9/26/2015,FCS,Murray State,Tennessee Tech,KICK RETURNS,Pokey,Harris,YDS,80
+8706131,9/26/2015,FCS,Murray State,Tennessee Tech,KICK RETURNS,Pokey,Harris,AVG,26.7
+8706132,9/26/2015,FCS,Murray State,Tennessee Tech,KICK RETURNS,Pokey,Harris,LONG,46
+8706133,9/26/2015,FCS,Murray State,Tennessee Tech,KICK RETURNS,Janawski,Davis,NO,1
+8706134,9/26/2015,FCS,Murray State,Tennessee Tech,KICK RETURNS,Janawski,Davis,YDS,19
+8706135,9/26/2015,FCS,Murray State,Tennessee Tech,KICK RETURNS,Janawski,Davis,AVG,19.0
+8706136,9/26/2015,FCS,Murray State,Tennessee Tech,KICK RETURNS,Janawski,Davis,LONG,19
+8706137,9/26/2015,FCS,Murray State,Tennessee Tech,KICK RETURNS,Jesse,Blackburn,NO,1
+8706138,9/26/2015,FCS,Murray State,Tennessee Tech,KICK RETURNS,Jesse,Blackburn,YDS,6
+8706139,9/26/2015,FCS,Murray State,Tennessee Tech,KICK RETURNS,Jesse,Blackburn,AVG,6.0
+8706140,9/26/2015,FCS,Murray State,Tennessee Tech,KICK RETURNS,Jesse,Blackburn,LONG,6

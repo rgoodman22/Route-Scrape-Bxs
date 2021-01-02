@@ -1,0 +1,138 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+11269001,10/20/2018,FCS,Illinois St.,North Dakota St.,RUSHING,James,Robinson,ATT,20
+11269002,10/20/2018,FCS,Illinois St.,North Dakota St.,RUSHING,James,Robinson,YDS,128
+11269003,10/20/2018,FCS,Illinois St.,North Dakota St.,RUSHING,James,Robinson,TD,1
+11269004,10/20/2018,FCS,Illinois St.,North Dakota St.,RUSHING,James,Robinson,LONG,25
+11269005,10/20/2018,FCS,Illinois St.,North Dakota St.,RUSHING,Markel,Smith,ATT,6
+11269006,10/20/2018,FCS,Illinois St.,North Dakota St.,RUSHING,Markel,Smith,YDS,28
+11269007,10/20/2018,FCS,Illinois St.,North Dakota St.,RUSHING,Markel,Smith,TD,0
+11269008,10/20/2018,FCS,Illinois St.,North Dakota St.,RUSHING,Markel,Smith,LONG,9
+11269009,10/20/2018,FCS,Illinois St.,North Dakota St.,RUSHING,Brady,Davis,ATT,7
+11269010,10/20/2018,FCS,Illinois St.,North Dakota St.,RUSHING,Brady,Davis,YDS,2
+11269011,10/20/2018,FCS,Illinois St.,North Dakota St.,RUSHING,Brady,Davis,TD,0
+11269012,10/20/2018,FCS,Illinois St.,North Dakota St.,RUSHING,Brady,Davis,LONG,4
+11269013,10/20/2018,FCS,Illinois St.,North Dakota St.,PASSING,Brady,Davis,CP-ATT-INT,12-24-2
+11269014,10/20/2018,FCS,Illinois St.,North Dakota St.,PASSING,Brady,Davis,YDS,206
+11269015,10/20/2018,FCS,Illinois St.,North Dakota St.,PASSING,Brady,Davis,TD,1
+11269016,10/20/2018,FCS,Illinois St.,North Dakota St.,PASSING,Brady,Davis,LONG,42
+11269017,10/20/2018,FCS,Illinois St.,North Dakota St.,RECEIVING,Spencer,Schnell,REC,5
+11269018,10/20/2018,FCS,Illinois St.,North Dakota St.,RECEIVING,Spencer,Schnell,YDS,112
+11269019,10/20/2018,FCS,Illinois St.,North Dakota St.,RECEIVING,Spencer,Schnell,TD,1
+11269020,10/20/2018,FCS,Illinois St.,North Dakota St.,RECEIVING,Spencer,Schnell,LONG,42
+11269021,10/20/2018,FCS,Illinois St.,North Dakota St.,RECEIVING,Andrew,Edgar,REC,3
+11269022,10/20/2018,FCS,Illinois St.,North Dakota St.,RECEIVING,Andrew,Edgar,YDS,57
+11269023,10/20/2018,FCS,Illinois St.,North Dakota St.,RECEIVING,Andrew,Edgar,TD,0
+11269024,10/20/2018,FCS,Illinois St.,North Dakota St.,RECEIVING,Andrew,Edgar,LONG,32
+11269025,10/20/2018,FCS,Illinois St.,North Dakota St.,RECEIVING,Tylor,Petkovich,REC,3
+11269026,10/20/2018,FCS,Illinois St.,North Dakota St.,RECEIVING,Tylor,Petkovich,YDS,23
+11269027,10/20/2018,FCS,Illinois St.,North Dakota St.,RECEIVING,Tylor,Petkovich,TD,0
+11269028,10/20/2018,FCS,Illinois St.,North Dakota St.,RECEIVING,Tylor,Petkovich,LONG,11
+11269029,10/20/2018,FCS,Illinois St.,North Dakota St.,RECEIVING,Braxton,Haley,REC,1
+11269030,10/20/2018,FCS,Illinois St.,North Dakota St.,RECEIVING,Braxton,Haley,YDS,14
+11269031,10/20/2018,FCS,Illinois St.,North Dakota St.,RECEIVING,Braxton,Haley,TD,0
+11269032,10/20/2018,FCS,Illinois St.,North Dakota St.,RECEIVING,Braxton,Haley,LONG,14
+11269033,10/20/2018,FCS,Illinois St.,North Dakota St.,KICKING,JT,Bohlken,FG-FGA,0/1
+11269034,10/20/2018,FCS,Illinois St.,North Dakota St.,KICKING,JT,Bohlken,LONG,0
+11269035,10/20/2018,FCS,Illinois St.,North Dakota St.,KICKING,JT,Bohlken,XP,2
+11269036,10/20/2018,FCS,Illinois St.,North Dakota St.,KICKING,JT,Bohlken,PTS,2
+11269037,10/20/2018,FCS,Illinois St.,North Dakota St.,PUNTING,JT,Bohlken,NO,5
+11269038,10/20/2018,FCS,Illinois St.,North Dakota St.,PUNTING,JT,Bohlken,YDS,249
+11269039,10/20/2018,FCS,Illinois St.,North Dakota St.,PUNTING,JT,Bohlken,AVG,49.8
+11269040,10/20/2018,FCS,Illinois St.,North Dakota St.,PUNTING,JT,Bohlken,LONG,55
+11269041,10/20/2018,FCS,Illinois St.,North Dakota St.,KICK RETURNS,Charles,Woods,NO,2
+11269042,10/20/2018,FCS,Illinois St.,North Dakota St.,KICK RETURNS,Charles,Woods,YDS,45
+11269043,10/20/2018,FCS,Illinois St.,North Dakota St.,KICK RETURNS,Charles,Woods,AVG,22.5
+11269044,10/20/2018,FCS,Illinois St.,North Dakota St.,KICK RETURNS,Charles,Woods,LONG,25
+11269045,10/20/2018,FCS,Illinois St.,North Dakota St.,KICK RETURNS,Christian,Uphoff,NO,1
+11269046,10/20/2018,FCS,Illinois St.,North Dakota St.,KICK RETURNS,Christian,Uphoff,YDS,23
+11269047,10/20/2018,FCS,Illinois St.,North Dakota St.,KICK RETURNS,Christian,Uphoff,AVG,23.0
+11269048,10/20/2018,FCS,Illinois St.,North Dakota St.,KICK RETURNS,Christian,Uphoff,LONG,23
+11269049,10/20/2018,FCS,Illinois St.,North Dakota St.,DEFENSE,Mitchell,Brees,TOT,0
+11269050,10/20/2018,FCS,Illinois St.,North Dakota St.,DEFENSE,Mitchell,Brees,SOLO,0
+11269051,10/20/2018,FCS,Illinois St.,North Dakota St.,DEFENSE,Mitchell,Brees,SACKS,0
+11269052,10/20/2018,FCS,Illinois St.,North Dakota St.,DEFENSE,Mitchell,Brees,TFL,0
+11269053,10/20/2018,FCS,Illinois St.,North Dakota St.,DEFENSE,Mitchell,Brees,INT,1
+11269054,10/20/2018,FCS,Illinois St.,North Dakota St.,DEFENSE,Mitchell,Brees,FF,0
+11269055,10/20/2018,FCS,Illinois St.,North Dakota St.,DEFENSE,Mitchell,Brees,FR,0
+11269056,10/20/2018,FCS,North Dakota St.,Illinois St.,RUSHING,Easton,Stick,ATT,10
+11269057,10/20/2018,FCS,North Dakota St.,Illinois St.,RUSHING,Easton,Stick,YDS,70
+11269058,10/20/2018,FCS,North Dakota St.,Illinois St.,RUSHING,Easton,Stick,TD,0
+11269059,10/20/2018,FCS,North Dakota St.,Illinois St.,RUSHING,Easton,Stick,LONG,20
+11269060,10/20/2018,FCS,North Dakota St.,Illinois St.,RUSHING,Lance,Dunn,ATT,19
+11269061,10/20/2018,FCS,North Dakota St.,Illinois St.,RUSHING,Lance,Dunn,YDS,61
+11269062,10/20/2018,FCS,North Dakota St.,Illinois St.,RUSHING,Lance,Dunn,TD,3
+11269063,10/20/2018,FCS,North Dakota St.,Illinois St.,RUSHING,Lance,Dunn,LONG,8
+11269064,10/20/2018,FCS,North Dakota St.,Illinois St.,RUSHING,Ty,Brooks,ATT,9
+11269065,10/20/2018,FCS,North Dakota St.,Illinois St.,RUSHING,Ty,Brooks,YDS,32
+11269066,10/20/2018,FCS,North Dakota St.,Illinois St.,RUSHING,Ty,Brooks,TD,0
+11269067,10/20/2018,FCS,North Dakota St.,Illinois St.,RUSHING,Ty,Brooks,LONG,18
+11269068,10/20/2018,FCS,North Dakota St.,Illinois St.,RUSHING,Dallas,Freeman,ATT,1
+11269069,10/20/2018,FCS,North Dakota St.,Illinois St.,RUSHING,Dallas,Freeman,YDS,9
+11269070,10/20/2018,FCS,North Dakota St.,Illinois St.,RUSHING,Dallas,Freeman,TD,1
+11269071,10/20/2018,FCS,North Dakota St.,Illinois St.,RUSHING,Dallas,Freeman,LONG,9
+11269072,10/20/2018,FCS,North Dakota St.,Illinois St.,RUSHING,Darrius,Shepherd,ATT,1
+11269073,10/20/2018,FCS,North Dakota St.,Illinois St.,RUSHING,Darrius,Shepherd,YDS,7
+11269074,10/20/2018,FCS,North Dakota St.,Illinois St.,RUSHING,Darrius,Shepherd,TD,0
+11269075,10/20/2018,FCS,North Dakota St.,Illinois St.,RUSHING,Darrius,Shepherd,LONG,7
+11269076,10/20/2018,FCS,North Dakota St.,Illinois St.,RUSHING,Adam,Cofield,ATT,2
+11269077,10/20/2018,FCS,North Dakota St.,Illinois St.,RUSHING,Adam,Cofield,YDS,5
+11269078,10/20/2018,FCS,North Dakota St.,Illinois St.,RUSHING,Adam,Cofield,TD,0
+11269079,10/20/2018,FCS,North Dakota St.,Illinois St.,RUSHING,Adam,Cofield,LONG,4
+11269080,10/20/2018,FCS,North Dakota St.,Illinois St.,RUSHING,,Team,ATT,3
+11269081,10/20/2018,FCS,North Dakota St.,Illinois St.,RUSHING,,Team,YDS,-6
+11269082,10/20/2018,FCS,North Dakota St.,Illinois St.,RUSHING,,Team,TD,0
+11269083,10/20/2018,FCS,North Dakota St.,Illinois St.,RUSHING,,Team,LONG,0
+11269084,10/20/2018,FCS,North Dakota St.,Illinois St.,PASSING,Easton,Stick,CP-ATT-INT,13-22-1
+11269085,10/20/2018,FCS,North Dakota St.,Illinois St.,PASSING,Easton,Stick,YDS,207
+11269086,10/20/2018,FCS,North Dakota St.,Illinois St.,PASSING,Easton,Stick,TD,0
+11269087,10/20/2018,FCS,North Dakota St.,Illinois St.,PASSING,Easton,Stick,LONG,55
+11269088,10/20/2018,FCS,North Dakota St.,Illinois St.,RECEIVING,Darrius,Shepherd,REC,6
+11269089,10/20/2018,FCS,North Dakota St.,Illinois St.,RECEIVING,Darrius,Shepherd,YDS,126
+11269090,10/20/2018,FCS,North Dakota St.,Illinois St.,RECEIVING,Darrius,Shepherd,TD,0
+11269091,10/20/2018,FCS,North Dakota St.,Illinois St.,RECEIVING,Darrius,Shepherd,LONG,55
+11269092,10/20/2018,FCS,North Dakota St.,Illinois St.,RECEIVING,Dallas,Freeman,REC,3
+11269093,10/20/2018,FCS,North Dakota St.,Illinois St.,RECEIVING,Dallas,Freeman,YDS,34
+11269094,10/20/2018,FCS,North Dakota St.,Illinois St.,RECEIVING,Dallas,Freeman,TD,0
+11269095,10/20/2018,FCS,North Dakota St.,Illinois St.,RECEIVING,Dallas,Freeman,LONG,15
+11269096,10/20/2018,FCS,North Dakota St.,Illinois St.,RECEIVING,Ben,Ellefson,REC,1
+11269097,10/20/2018,FCS,North Dakota St.,Illinois St.,RECEIVING,Ben,Ellefson,YDS,23
+11269098,10/20/2018,FCS,North Dakota St.,Illinois St.,RECEIVING,Ben,Ellefson,TD,0
+11269099,10/20/2018,FCS,North Dakota St.,Illinois St.,RECEIVING,Ben,Ellefson,LONG,23
+11269100,10/20/2018,FCS,North Dakota St.,Illinois St.,RECEIVING,Nate,Jenson,REC,2
+11269101,10/20/2018,FCS,North Dakota St.,Illinois St.,RECEIVING,Nate,Jenson,YDS,22
+11269102,10/20/2018,FCS,North Dakota St.,Illinois St.,RECEIVING,Nate,Jenson,TD,0
+11269103,10/20/2018,FCS,North Dakota St.,Illinois St.,RECEIVING,Nate,Jenson,LONG,15
+11269104,10/20/2018,FCS,North Dakota St.,Illinois St.,RECEIVING,Brock,Robbins,REC,1
+11269105,10/20/2018,FCS,North Dakota St.,Illinois St.,RECEIVING,Brock,Robbins,YDS,2
+11269106,10/20/2018,FCS,North Dakota St.,Illinois St.,RECEIVING,Brock,Robbins,TD,0
+11269107,10/20/2018,FCS,North Dakota St.,Illinois St.,RECEIVING,Brock,Robbins,LONG,2
+11269108,10/20/2018,FCS,North Dakota St.,Illinois St.,KICKING,Cam,Pedersen,FG-FGA,0/0
+11269109,10/20/2018,FCS,North Dakota St.,Illinois St.,KICKING,Cam,Pedersen,LONG,-
+11269110,10/20/2018,FCS,North Dakota St.,Illinois St.,KICKING,Cam,Pedersen,XP,4
+11269111,10/20/2018,FCS,North Dakota St.,Illinois St.,KICKING,Cam,Pedersen,PTS,4
+11269112,10/20/2018,FCS,North Dakota St.,Illinois St.,PUNTING,Garret,Wegner,NO,5
+11269113,10/20/2018,FCS,North Dakota St.,Illinois St.,PUNTING,Garret,Wegner,YDS,224
+11269114,10/20/2018,FCS,North Dakota St.,Illinois St.,PUNTING,Garret,Wegner,AVG,44.8
+11269115,10/20/2018,FCS,North Dakota St.,Illinois St.,PUNTING,Garret,Wegner,LONG,56
+11269116,10/20/2018,FCS,North Dakota St.,Illinois St.,PUNT RETURNS,Darrius,Shepherd,NO,2
+11269117,10/20/2018,FCS,North Dakota St.,Illinois St.,PUNT RETURNS,Darrius,Shepherd,YDS,103
+11269118,10/20/2018,FCS,North Dakota St.,Illinois St.,PUNT RETURNS,Darrius,Shepherd,AVG,51.5
+11269119,10/20/2018,FCS,North Dakota St.,Illinois St.,PUNT RETURNS,Darrius,Shepherd,LONG,69
+11269120,10/20/2018,FCS,North Dakota St.,Illinois St.,KICK RETURNS,Ty,Brooks,NO,2
+11269121,10/20/2018,FCS,North Dakota St.,Illinois St.,KICK RETURNS,Ty,Brooks,YDS,66
+11269122,10/20/2018,FCS,North Dakota St.,Illinois St.,KICK RETURNS,Ty,Brooks,AVG,33.0
+11269123,10/20/2018,FCS,North Dakota St.,Illinois St.,KICK RETURNS,Ty,Brooks,LONG,36
+11269124,10/20/2018,FCS,North Dakota St.,Illinois St.,DEFENSE,Jalen,Allison,TOT,0
+11269125,10/20/2018,FCS,North Dakota St.,Illinois St.,DEFENSE,Jalen,Allison,SOLO,0
+11269126,10/20/2018,FCS,North Dakota St.,Illinois St.,DEFENSE,Jalen,Allison,SACKS,0
+11269127,10/20/2018,FCS,North Dakota St.,Illinois St.,DEFENSE,Jalen,Allison,TFL,0
+11269128,10/20/2018,FCS,North Dakota St.,Illinois St.,DEFENSE,Jalen,Allison,INT,1
+11269129,10/20/2018,FCS,North Dakota St.,Illinois St.,DEFENSE,Jalen,Allison,FF,0
+11269130,10/20/2018,FCS,North Dakota St.,Illinois St.,DEFENSE,Jalen,Allison,FR,0
+11269131,10/20/2018,FCS,North Dakota St.,Illinois St.,DEFENSE,Robbie,Grimsley,TOT,8
+11269132,10/20/2018,FCS,North Dakota St.,Illinois St.,DEFENSE,Robbie,Grimsley,SOLO,5
+11269133,10/20/2018,FCS,North Dakota St.,Illinois St.,DEFENSE,Robbie,Grimsley,SACKS,1
+11269134,10/20/2018,FCS,North Dakota St.,Illinois St.,DEFENSE,Robbie,Grimsley,TFL,1
+11269135,10/20/2018,FCS,North Dakota St.,Illinois St.,DEFENSE,Robbie,Grimsley,INT,1
+11269136,10/20/2018,FCS,North Dakota St.,Illinois St.,DEFENSE,Robbie,Grimsley,FF,0
+11269137,10/20/2018,FCS,North Dakota St.,Illinois St.,DEFENSE,Robbie,Grimsley,FR,0

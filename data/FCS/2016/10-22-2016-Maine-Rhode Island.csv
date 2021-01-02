@@ -1,0 +1,113 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9707001,10/22/2016,FCS,Maine,Rhode Island,RUSHING,Joshua,Mack,ATT,11
+9707002,10/22/2016,FCS,Maine,Rhode Island,RUSHING,Joshua,Mack,YDS,115
+9707003,10/22/2016,FCS,Maine,Rhode Island,RUSHING,Joshua,Mack,TD,1
+9707004,10/22/2016,FCS,Maine,Rhode Island,RUSHING,Joshua,Mack,LONG,65
+9707005,10/22/2016,FCS,Maine,Rhode Island,RUSHING,Zaire,Williams,ATT,10
+9707006,10/22/2016,FCS,Maine,Rhode Island,RUSHING,Zaire,Williams,YDS,50
+9707007,10/22/2016,FCS,Maine,Rhode Island,RUSHING,Zaire,Williams,TD,0
+9707008,10/22/2016,FCS,Maine,Rhode Island,RUSHING,Zaire,Williams,LONG,12
+9707009,10/22/2016,FCS,Maine,Rhode Island,RUSHING,Darian,Davis-Ray,ATT,9
+9707010,10/22/2016,FCS,Maine,Rhode Island,RUSHING,Darian,Davis-Ray,YDS,36
+9707011,10/22/2016,FCS,Maine,Rhode Island,RUSHING,Darian,Davis-Ray,TD,0
+9707012,10/22/2016,FCS,Maine,Rhode Island,RUSHING,Darian,Davis-Ray,LONG,9
+9707013,10/22/2016,FCS,Maine,Rhode Island,PASSING,Dan,Collins,CP-ATT-INT,13-30-0
+9707014,10/22/2016,FCS,Maine,Rhode Island,PASSING,Dan,Collins,YDS,147
+9707015,10/22/2016,FCS,Maine,Rhode Island,PASSING,Dan,Collins,TD,2
+9707016,10/22/2016,FCS,Maine,Rhode Island,PASSING,Dan,Collins,LONG,43
+9707017,10/22/2016,FCS,Maine,Rhode Island,RECEIVING,Micah,Wright,REC,7
+9707018,10/22/2016,FCS,Maine,Rhode Island,RECEIVING,Micah,Wright,YDS,97
+9707019,10/22/2016,FCS,Maine,Rhode Island,RECEIVING,Micah,Wright,TD,2
+9707020,10/22/2016,FCS,Maine,Rhode Island,RECEIVING,Micah,Wright,LONG,43
+9707021,10/22/2016,FCS,Maine,Rhode Island,RECEIVING,Marquise,Adams,REC,1
+9707022,10/22/2016,FCS,Maine,Rhode Island,RECEIVING,Marquise,Adams,YDS,21
+9707023,10/22/2016,FCS,Maine,Rhode Island,RECEIVING,Marquise,Adams,TD,0
+9707024,10/22/2016,FCS,Maine,Rhode Island,RECEIVING,Marquise,Adams,LONG,21
+9707025,10/22/2016,FCS,Maine,Rhode Island,RECEIVING,Jeremy,Salmon,REC,2
+9707026,10/22/2016,FCS,Maine,Rhode Island,RECEIVING,Jeremy,Salmon,YDS,14
+9707027,10/22/2016,FCS,Maine,Rhode Island,RECEIVING,Jeremy,Salmon,TD,0
+9707028,10/22/2016,FCS,Maine,Rhode Island,RECEIVING,Jeremy,Salmon,LONG,13
+9707029,10/22/2016,FCS,Maine,Rhode Island,RECEIVING,Jared,Osumah,REC,1
+9707030,10/22/2016,FCS,Maine,Rhode Island,RECEIVING,Jared,Osumah,YDS,7
+9707031,10/22/2016,FCS,Maine,Rhode Island,RECEIVING,Jared,Osumah,TD,0
+9707032,10/22/2016,FCS,Maine,Rhode Island,RECEIVING,Jared,Osumah,LONG,7
+9707033,10/22/2016,FCS,Maine,Rhode Island,RECEIVING,Jordan,Dunn,REC,1
+9707034,10/22/2016,FCS,Maine,Rhode Island,RECEIVING,Jordan,Dunn,YDS,6
+9707035,10/22/2016,FCS,Maine,Rhode Island,RECEIVING,Jordan,Dunn,TD,0
+9707036,10/22/2016,FCS,Maine,Rhode Island,RECEIVING,Jordan,Dunn,LONG,6
+9707037,10/22/2016,FCS,Maine,Rhode Island,RECEIVING,Joshua,Mack,REC,1
+9707038,10/22/2016,FCS,Maine,Rhode Island,RECEIVING,Joshua,Mack,YDS,2
+9707039,10/22/2016,FCS,Maine,Rhode Island,RECEIVING,Joshua,Mack,TD,0
+9707040,10/22/2016,FCS,Maine,Rhode Island,RECEIVING,Joshua,Mack,LONG,2
+9707041,10/22/2016,FCS,Maine,Rhode Island,KICKING,Patrick,Leonard,FG-FGA,0/0
+9707042,10/22/2016,FCS,Maine,Rhode Island,KICKING,Patrick,Leonard,LONG,-
+9707043,10/22/2016,FCS,Maine,Rhode Island,KICKING,Patrick,Leonard,XP,4
+9707044,10/22/2016,FCS,Maine,Rhode Island,KICKING,Patrick,Leonard,PTS,4
+9707045,10/22/2016,FCS,Maine,Rhode Island,PUNTING,James,DeMartini,NO,10
+9707046,10/22/2016,FCS,Maine,Rhode Island,PUNTING,James,DeMartini,YDS,395
+9707047,10/22/2016,FCS,Maine,Rhode Island,PUNTING,James,DeMartini,AVG,39.5
+9707048,10/22/2016,FCS,Maine,Rhode Island,PUNTING,James,DeMartini,LONG,50
+9707049,10/22/2016,FCS,Maine,Rhode Island,PUNT RETURNS,Micah,Wright,NO,3
+9707050,10/22/2016,FCS,Maine,Rhode Island,PUNT RETURNS,Micah,Wright,YDS,29
+9707051,10/22/2016,FCS,Maine,Rhode Island,PUNT RETURNS,Micah,Wright,AVG,9.7
+9707052,10/22/2016,FCS,Maine,Rhode Island,PUNT RETURNS,Micah,Wright,LONG,20
+9707053,10/22/2016,FCS,Maine,Rhode Island,KICK RETURNS,Earnest,Edwards,NO,4
+9707054,10/22/2016,FCS,Maine,Rhode Island,KICK RETURNS,Earnest,Edwards,YDS,76
+9707055,10/22/2016,FCS,Maine,Rhode Island,KICK RETURNS,Earnest,Edwards,AVG,19.0
+9707056,10/22/2016,FCS,Maine,Rhode Island,KICK RETURNS,Earnest,Edwards,LONG,26
+9707057,10/22/2016,FCS,Rhode Island,Maine,RUSHING,Sean,Anderson,ATT,15
+9707058,10/22/2016,FCS,Rhode Island,Maine,RUSHING,Sean,Anderson,YDS,48
+9707059,10/22/2016,FCS,Rhode Island,Maine,RUSHING,Sean,Anderson,TD,0
+9707060,10/22/2016,FCS,Rhode Island,Maine,RUSHING,Sean,Anderson,LONG,8
+9707061,10/22/2016,FCS,Rhode Island,Maine,RUSHING,Harold,Cooper,ATT,12
+9707062,10/22/2016,FCS,Rhode Island,Maine,RUSHING,Harold,Cooper,YDS,25
+9707063,10/22/2016,FCS,Rhode Island,Maine,RUSHING,Harold,Cooper,TD,0
+9707064,10/22/2016,FCS,Rhode Island,Maine,RUSHING,Harold,Cooper,LONG,14
+9707065,10/22/2016,FCS,Rhode Island,Maine,RUSHING,Jordan,Vazzano,ATT,3
+9707066,10/22/2016,FCS,Rhode Island,Maine,RUSHING,Jordan,Vazzano,YDS,10
+9707067,10/22/2016,FCS,Rhode Island,Maine,RUSHING,Jordan,Vazzano,TD,1
+9707068,10/22/2016,FCS,Rhode Island,Maine,RUSHING,Jordan,Vazzano,LONG,5
+9707069,10/22/2016,FCS,Rhode Island,Maine,PASSING,Jordan,Vazzano,CP-ATT-INT,20-47-5
+9707070,10/22/2016,FCS,Rhode Island,Maine,PASSING,Jordan,Vazzano,YDS,347
+9707071,10/22/2016,FCS,Rhode Island,Maine,PASSING,Jordan,Vazzano,TD,2
+9707072,10/22/2016,FCS,Rhode Island,Maine,PASSING,Jordan,Vazzano,LONG,65
+9707073,10/22/2016,FCS,Rhode Island,Maine,RECEIVING,Harold,BucknerIII,REC,9
+9707074,10/22/2016,FCS,Rhode Island,Maine,RECEIVING,Harold,BucknerIII,YDS,141
+9707075,10/22/2016,FCS,Rhode Island,Maine,RECEIVING,Harold,BucknerIII,TD,0
+9707076,10/22/2016,FCS,Rhode Island,Maine,RECEIVING,Harold,BucknerIII,LONG,32
+9707077,10/22/2016,FCS,Rhode Island,Maine,RECEIVING,Aaron,Parker,REC,2
+9707078,10/22/2016,FCS,Rhode Island,Maine,RECEIVING,Aaron,Parker,YDS,71
+9707079,10/22/2016,FCS,Rhode Island,Maine,RECEIVING,Aaron,Parker,TD,1
+9707080,10/22/2016,FCS,Rhode Island,Maine,RECEIVING,Aaron,Parker,LONG,65
+9707081,10/22/2016,FCS,Rhode Island,Maine,RECEIVING,Khayri,Denny,REC,4
+9707082,10/22/2016,FCS,Rhode Island,Maine,RECEIVING,Khayri,Denny,YDS,66
+9707083,10/22/2016,FCS,Rhode Island,Maine,RECEIVING,Khayri,Denny,TD,0
+9707084,10/22/2016,FCS,Rhode Island,Maine,RECEIVING,Khayri,Denny,LONG,40
+9707085,10/22/2016,FCS,Rhode Island,Maine,RECEIVING,Marvin,Beauvais,REC,2
+9707086,10/22/2016,FCS,Rhode Island,Maine,RECEIVING,Marvin,Beauvais,YDS,50
+9707087,10/22/2016,FCS,Rhode Island,Maine,RECEIVING,Marvin,Beauvais,TD,1
+9707088,10/22/2016,FCS,Rhode Island,Maine,RECEIVING,Marvin,Beauvais,LONG,25
+9707089,10/22/2016,FCS,Rhode Island,Maine,RECEIVING,Harold,Cooper,REC,3
+9707090,10/22/2016,FCS,Rhode Island,Maine,RECEIVING,Harold,Cooper,YDS,19
+9707091,10/22/2016,FCS,Rhode Island,Maine,RECEIVING,Harold,Cooper,TD,0
+9707092,10/22/2016,FCS,Rhode Island,Maine,RECEIVING,Harold,Cooper,LONG,13
+9707093,10/22/2016,FCS,Rhode Island,Maine,KICKING,Justin,Rohrwasser,FG-FGA,0/1
+9707094,10/22/2016,FCS,Rhode Island,Maine,KICKING,Justin,Rohrwasser,LONG,0
+9707095,10/22/2016,FCS,Rhode Island,Maine,KICKING,Justin,Rohrwasser,XP,3
+9707096,10/22/2016,FCS,Rhode Island,Maine,KICKING,Justin,Rohrwasser,PTS,3
+9707097,10/22/2016,FCS,Rhode Island,Maine,PUNTING,Oliver,Graybar,NO,7
+9707098,10/22/2016,FCS,Rhode Island,Maine,PUNTING,Oliver,Graybar,YDS,282
+9707099,10/22/2016,FCS,Rhode Island,Maine,PUNTING,Oliver,Graybar,AVG,40.3
+9707100,10/22/2016,FCS,Rhode Island,Maine,PUNTING,Oliver,Graybar,LONG,53
+9707101,10/22/2016,FCS,Rhode Island,Maine,PUNT RETURNS,Aaron,Parker,NO,4
+9707102,10/22/2016,FCS,Rhode Island,Maine,PUNT RETURNS,Aaron,Parker,YDS,46
+9707103,10/22/2016,FCS,Rhode Island,Maine,PUNT RETURNS,Aaron,Parker,AVG,11.5
+9707104,10/22/2016,FCS,Rhode Island,Maine,PUNT RETURNS,Aaron,Parker,LONG,26
+9707105,10/22/2016,FCS,Rhode Island,Maine,KICK RETURNS,Harold,Cooper,NO,4
+9707106,10/22/2016,FCS,Rhode Island,Maine,KICK RETURNS,Harold,Cooper,YDS,88
+9707107,10/22/2016,FCS,Rhode Island,Maine,KICK RETURNS,Harold,Cooper,AVG,22.0
+9707108,10/22/2016,FCS,Rhode Island,Maine,KICK RETURNS,Harold,Cooper,LONG,50
+9707109,10/22/2016,FCS,Rhode Island,Maine,KICK RETURNS,Isaiah,Hill,NO,1
+9707110,10/22/2016,FCS,Rhode Island,Maine,KICK RETURNS,Isaiah,Hill,YDS,24
+9707111,10/22/2016,FCS,Rhode Island,Maine,KICK RETURNS,Isaiah,Hill,AVG,24.0
+9707112,10/22/2016,FCS,Rhode Island,Maine,KICK RETURNS,Isaiah,Hill,LONG,24

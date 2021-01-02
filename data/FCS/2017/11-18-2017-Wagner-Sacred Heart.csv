@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+10715001,11/18/2017,FCS,Wagner,Sacred Heart,RUSHING,Ryan,Fulse,ATT,26
+10715002,11/18/2017,FCS,Wagner,Sacred Heart,RUSHING,Ryan,Fulse,YDS,192
+10715003,11/18/2017,FCS,Wagner,Sacred Heart,RUSHING,Ryan,Fulse,TD,3
+10715004,11/18/2017,FCS,Wagner,Sacred Heart,RUSHING,Ryan,Fulse,LONG,65
+10715005,11/18/2017,FCS,Wagner,Sacred Heart,RUSHING,Denzel,Knight,ATT,12
+10715006,11/18/2017,FCS,Wagner,Sacred Heart,RUSHING,Denzel,Knight,YDS,55
+10715007,11/18/2017,FCS,Wagner,Sacred Heart,RUSHING,Denzel,Knight,TD,0
+10715008,11/18/2017,FCS,Wagner,Sacred Heart,RUSHING,Denzel,Knight,LONG,19
+10715009,11/18/2017,FCS,Wagner,Sacred Heart,RUSHING,Luke,Massei,ATT,1
+10715010,11/18/2017,FCS,Wagner,Sacred Heart,RUSHING,Luke,Massei,YDS,3
+10715011,11/18/2017,FCS,Wagner,Sacred Heart,RUSHING,Luke,Massei,TD,0
+10715012,11/18/2017,FCS,Wagner,Sacred Heart,RUSHING,Luke,Massei,LONG,3
+10715013,11/18/2017,FCS,Wagner,Sacred Heart,RUSHING,,Team,ATT,1
+10715014,11/18/2017,FCS,Wagner,Sacred Heart,RUSHING,,Team,YDS,-1
+10715015,11/18/2017,FCS,Wagner,Sacred Heart,RUSHING,,Team,TD,0
+10715016,11/18/2017,FCS,Wagner,Sacred Heart,RUSHING,,Team,LONG,0
+10715017,11/18/2017,FCS,Wagner,Sacred Heart,PASSING,Luke,Massei,CP-ATT-INT,6-14-1
+10715018,11/18/2017,FCS,Wagner,Sacred Heart,PASSING,Luke,Massei,YDS,47
+10715019,11/18/2017,FCS,Wagner,Sacred Heart,PASSING,Luke,Massei,TD,0
+10715020,11/18/2017,FCS,Wagner,Sacred Heart,PASSING,Luke,Massei,LONG,28
+10715021,11/18/2017,FCS,Wagner,Sacred Heart,RECEIVING,Jeffery,Bost,REC,2
+10715022,11/18/2017,FCS,Wagner,Sacred Heart,RECEIVING,Jeffery,Bost,YDS,26
+10715023,11/18/2017,FCS,Wagner,Sacred Heart,RECEIVING,Jeffery,Bost,TD,0
+10715024,11/18/2017,FCS,Wagner,Sacred Heart,RECEIVING,Jeffery,Bost,LONG,28
+10715025,11/18/2017,FCS,Wagner,Sacred Heart,RECEIVING,Willie,Dale,REC,2
+10715026,11/18/2017,FCS,Wagner,Sacred Heart,RECEIVING,Willie,Dale,YDS,21
+10715027,11/18/2017,FCS,Wagner,Sacred Heart,RECEIVING,Willie,Dale,TD,0
+10715028,11/18/2017,FCS,Wagner,Sacred Heart,RECEIVING,Willie,Dale,LONG,11
+10715029,11/18/2017,FCS,Wagner,Sacred Heart,RECEIVING,Denzel,Knight,REC,2
+10715030,11/18/2017,FCS,Wagner,Sacred Heart,RECEIVING,Denzel,Knight,YDS,0
+10715031,11/18/2017,FCS,Wagner,Sacred Heart,RECEIVING,Denzel,Knight,TD,0
+10715032,11/18/2017,FCS,Wagner,Sacred Heart,RECEIVING,Denzel,Knight,LONG,4
+10715033,11/18/2017,FCS,Wagner,Sacred Heart,KICKING,James,Cooper,FG-FGA,0/0
+10715034,11/18/2017,FCS,Wagner,Sacred Heart,KICKING,James,Cooper,LONG,-
+10715035,11/18/2017,FCS,Wagner,Sacred Heart,KICKING,James,Cooper,XP,4
+10715036,11/18/2017,FCS,Wagner,Sacred Heart,KICKING,James,Cooper,PTS,4
+10715037,11/18/2017,FCS,Wagner,Sacred Heart,PUNTING,Eric,Silvester,NO,8
+10715038,11/18/2017,FCS,Wagner,Sacred Heart,PUNTING,Eric,Silvester,YDS,295
+10715039,11/18/2017,FCS,Wagner,Sacred Heart,PUNTING,Eric,Silvester,AVG,36.9
+10715040,11/18/2017,FCS,Wagner,Sacred Heart,PUNTING,Eric,Silvester,LONG,49
+10715041,11/18/2017,FCS,Wagner,Sacred Heart,PUNT RETURNS,Jesse,Flaherty,NO,2
+10715042,11/18/2017,FCS,Wagner,Sacred Heart,PUNT RETURNS,Jesse,Flaherty,YDS,0
+10715043,11/18/2017,FCS,Wagner,Sacred Heart,PUNT RETURNS,Jesse,Flaherty,AVG,-
+10715044,11/18/2017,FCS,Wagner,Sacred Heart,PUNT RETURNS,Jesse,Flaherty,LONG,1
+10715045,11/18/2017,FCS,Wagner,Sacred Heart,KICK RETURNS,David,Thomas,NO,1
+10715046,11/18/2017,FCS,Wagner,Sacred Heart,KICK RETURNS,David,Thomas,YDS,15
+10715047,11/18/2017,FCS,Wagner,Sacred Heart,KICK RETURNS,David,Thomas,AVG,15.0
+10715048,11/18/2017,FCS,Wagner,Sacred Heart,KICK RETURNS,David,Thomas,LONG,15
+10715049,11/18/2017,FCS,Wagner,Sacred Heart,KICK RETURNS,Denzel,Knight,NO,1
+10715050,11/18/2017,FCS,Wagner,Sacred Heart,KICK RETURNS,Denzel,Knight,YDS,5
+10715051,11/18/2017,FCS,Wagner,Sacred Heart,KICK RETURNS,Denzel,Knight,AVG,5.0
+10715052,11/18/2017,FCS,Wagner,Sacred Heart,KICK RETURNS,Denzel,Knight,LONG,5
+10715053,11/18/2017,FCS,Wagner,Sacred Heart,KICK RETURNS,Mathieu,Loiselle,NO,1
+10715054,11/18/2017,FCS,Wagner,Sacred Heart,KICK RETURNS,Mathieu,Loiselle,YDS,5
+10715055,11/18/2017,FCS,Wagner,Sacred Heart,KICK RETURNS,Mathieu,Loiselle,AVG,5.0
+10715056,11/18/2017,FCS,Wagner,Sacred Heart,KICK RETURNS,Mathieu,Loiselle,LONG,5
+10715057,11/18/2017,FCS,Sacred Heart,Wagner,RUSHING,Nate,Chavious,ATT,17
+10715058,11/18/2017,FCS,Sacred Heart,Wagner,RUSHING,Nate,Chavious,YDS,31
+10715059,11/18/2017,FCS,Sacred Heart,Wagner,RUSHING,Nate,Chavious,TD,0
+10715060,11/18/2017,FCS,Sacred Heart,Wagner,RUSHING,Nate,Chavious,LONG,14
+10715061,11/18/2017,FCS,Sacred Heart,Wagner,RUSHING,Jordan,Meachum,ATT,3
+10715062,11/18/2017,FCS,Sacred Heart,Wagner,RUSHING,Jordan,Meachum,YDS,25
+10715063,11/18/2017,FCS,Sacred Heart,Wagner,RUSHING,Jordan,Meachum,TD,0
+10715064,11/18/2017,FCS,Sacred Heart,Wagner,RUSHING,Jordan,Meachum,LONG,10
+10715065,11/18/2017,FCS,Sacred Heart,Wagner,RUSHING,Ose,Imeokparia,ATT,5
+10715066,11/18/2017,FCS,Sacred Heart,Wagner,RUSHING,Ose,Imeokparia,YDS,17
+10715067,11/18/2017,FCS,Sacred Heart,Wagner,RUSHING,Ose,Imeokparia,TD,0
+10715068,11/18/2017,FCS,Sacred Heart,Wagner,RUSHING,Ose,Imeokparia,LONG,9
+10715069,11/18/2017,FCS,Sacred Heart,Wagner,RUSHING,Kevin,Duke,ATT,10
+10715070,11/18/2017,FCS,Sacred Heart,Wagner,RUSHING,Kevin,Duke,YDS,10
+10715071,11/18/2017,FCS,Sacred Heart,Wagner,RUSHING,Kevin,Duke,TD,0
+10715072,11/18/2017,FCS,Sacred Heart,Wagner,RUSHING,Kevin,Duke,LONG,8
+10715073,11/18/2017,FCS,Sacred Heart,Wagner,RUSHING,Andrew,O'Neill,ATT,1
+10715074,11/18/2017,FCS,Sacred Heart,Wagner,RUSHING,Andrew,O'Neill,YDS,3
+10715075,11/18/2017,FCS,Sacred Heart,Wagner,RUSHING,Andrew,O'Neill,TD,0
+10715076,11/18/2017,FCS,Sacred Heart,Wagner,RUSHING,Andrew,O'Neill,LONG,3
+10715077,11/18/2017,FCS,Sacred Heart,Wagner,RUSHING,Ezekiel,Ennis,ATT,1
+10715078,11/18/2017,FCS,Sacred Heart,Wagner,RUSHING,Ezekiel,Ennis,YDS,0
+10715079,11/18/2017,FCS,Sacred Heart,Wagner,RUSHING,Ezekiel,Ennis,TD,0
+10715080,11/18/2017,FCS,Sacred Heart,Wagner,RUSHING,Ezekiel,Ennis,LONG,0
+10715081,11/18/2017,FCS,Sacred Heart,Wagner,RUSHING,,Team,ATT,1
+10715082,11/18/2017,FCS,Sacred Heart,Wagner,RUSHING,,Team,YDS,-24
+10715083,11/18/2017,FCS,Sacred Heart,Wagner,RUSHING,,Team,TD,0
+10715084,11/18/2017,FCS,Sacred Heart,Wagner,RUSHING,,Team,LONG,0
+10715085,11/18/2017,FCS,Sacred Heart,Wagner,PASSING,Kevin,Duke,CP-ATT-INT,24-40-0
+10715086,11/18/2017,FCS,Sacred Heart,Wagner,PASSING,Kevin,Duke,YDS,377
+10715087,11/18/2017,FCS,Sacred Heart,Wagner,PASSING,Kevin,Duke,TD,2
+10715088,11/18/2017,FCS,Sacred Heart,Wagner,PASSING,Kevin,Duke,LONG,38
+10715089,11/18/2017,FCS,Sacred Heart,Wagner,RECEIVING,RJ,Trimble-Edwards,REC,6
+10715090,11/18/2017,FCS,Sacred Heart,Wagner,RECEIVING,RJ,Trimble-Edwards,YDS,126
+10715091,11/18/2017,FCS,Sacred Heart,Wagner,RECEIVING,RJ,Trimble-Edwards,TD,1
+10715092,11/18/2017,FCS,Sacred Heart,Wagner,RECEIVING,RJ,Trimble-Edwards,LONG,38
+10715093,11/18/2017,FCS,Sacred Heart,Wagner,RECEIVING,Andrew,O'Neill,REC,5
+10715094,11/18/2017,FCS,Sacred Heart,Wagner,RECEIVING,Andrew,O'Neill,YDS,70
+10715095,11/18/2017,FCS,Sacred Heart,Wagner,RECEIVING,Andrew,O'Neill,TD,0
+10715096,11/18/2017,FCS,Sacred Heart,Wagner,RECEIVING,Andrew,O'Neill,LONG,21
+10715097,11/18/2017,FCS,Sacred Heart,Wagner,RECEIVING,Brandon,Ricketts,REC,3
+10715098,11/18/2017,FCS,Sacred Heart,Wagner,RECEIVING,Brandon,Ricketts,YDS,45
+10715099,11/18/2017,FCS,Sacred Heart,Wagner,RECEIVING,Brandon,Ricketts,TD,1
+10715100,11/18/2017,FCS,Sacred Heart,Wagner,RECEIVING,Brandon,Ricketts,LONG,31
+10715101,11/18/2017,FCS,Sacred Heart,Wagner,RECEIVING,Jordan,Meachum,REC,3
+10715102,11/18/2017,FCS,Sacred Heart,Wagner,RECEIVING,Jordan,Meachum,YDS,37
+10715103,11/18/2017,FCS,Sacred Heart,Wagner,RECEIVING,Jordan,Meachum,TD,0
+10715104,11/18/2017,FCS,Sacred Heart,Wagner,RECEIVING,Jordan,Meachum,LONG,25
+10715105,11/18/2017,FCS,Sacred Heart,Wagner,RECEIVING,Ose,Imeokparia,REC,1
+10715106,11/18/2017,FCS,Sacred Heart,Wagner,RECEIVING,Ose,Imeokparia,YDS,34
+10715107,11/18/2017,FCS,Sacred Heart,Wagner,RECEIVING,Ose,Imeokparia,TD,0
+10715108,11/18/2017,FCS,Sacred Heart,Wagner,RECEIVING,Ose,Imeokparia,LONG,34
+10715109,11/18/2017,FCS,Sacred Heart,Wagner,RECEIVING,Nate,Chavious,REC,2
+10715110,11/18/2017,FCS,Sacred Heart,Wagner,RECEIVING,Nate,Chavious,YDS,33
+10715111,11/18/2017,FCS,Sacred Heart,Wagner,RECEIVING,Nate,Chavious,TD,0
+10715112,11/18/2017,FCS,Sacred Heart,Wagner,RECEIVING,Nate,Chavious,LONG,28
+10715113,11/18/2017,FCS,Sacred Heart,Wagner,RECEIVING,Ezekiel,Ennis,REC,3
+10715114,11/18/2017,FCS,Sacred Heart,Wagner,RECEIVING,Ezekiel,Ennis,YDS,27
+10715115,11/18/2017,FCS,Sacred Heart,Wagner,RECEIVING,Ezekiel,Ennis,TD,0
+10715116,11/18/2017,FCS,Sacred Heart,Wagner,RECEIVING,Ezekiel,Ennis,LONG,18
+10715117,11/18/2017,FCS,Sacred Heart,Wagner,RECEIVING,Mike,Whalen,REC,1
+10715118,11/18/2017,FCS,Sacred Heart,Wagner,RECEIVING,Mike,Whalen,YDS,5
+10715119,11/18/2017,FCS,Sacred Heart,Wagner,RECEIVING,Mike,Whalen,TD,0
+10715120,11/18/2017,FCS,Sacred Heart,Wagner,RECEIVING,Mike,Whalen,LONG,5
+10715121,11/18/2017,FCS,Sacred Heart,Wagner,KICKING,Josh,Freiria,FG-FGA,1/1
+10715122,11/18/2017,FCS,Sacred Heart,Wagner,KICKING,Josh,Freiria,LONG,43
+10715123,11/18/2017,FCS,Sacred Heart,Wagner,KICKING,Josh,Freiria,XP,0
+10715124,11/18/2017,FCS,Sacred Heart,Wagner,KICKING,Josh,Freiria,PTS,3
+10715125,11/18/2017,FCS,Sacred Heart,Wagner,PUNTING,Josh,Freiria,NO,6
+10715126,11/18/2017,FCS,Sacred Heart,Wagner,PUNTING,Josh,Freiria,YDS,183
+10715127,11/18/2017,FCS,Sacred Heart,Wagner,PUNTING,Josh,Freiria,AVG,30.5
+10715128,11/18/2017,FCS,Sacred Heart,Wagner,PUNTING,Josh,Freiria,LONG,40
+10715129,11/18/2017,FCS,Sacred Heart,Wagner,PUNT RETURNS,Andrew,O'Neill,NO,1
+10715130,11/18/2017,FCS,Sacred Heart,Wagner,PUNT RETURNS,Andrew,O'Neill,YDS,13
+10715131,11/18/2017,FCS,Sacred Heart,Wagner,PUNT RETURNS,Andrew,O'Neill,AVG,13.0
+10715132,11/18/2017,FCS,Sacred Heart,Wagner,PUNT RETURNS,Andrew,O'Neill,LONG,7
+10715133,11/18/2017,FCS,Sacred Heart,Wagner,KICK RETURNS,Nate,Chavious,NO,3
+10715134,11/18/2017,FCS,Sacred Heart,Wagner,KICK RETURNS,Nate,Chavious,YDS,52
+10715135,11/18/2017,FCS,Sacred Heart,Wagner,KICK RETURNS,Nate,Chavious,AVG,17.3
+10715136,11/18/2017,FCS,Sacred Heart,Wagner,KICK RETURNS,Nate,Chavious,LONG,19

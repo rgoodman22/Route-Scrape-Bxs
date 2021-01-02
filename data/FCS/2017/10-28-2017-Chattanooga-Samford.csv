@@ -1,0 +1,153 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+10550001,10/28/2017,FCS,Chattanooga,Samford,RUSHING,Darrell,Bridges,ATT,22
+10550002,10/28/2017,FCS,Chattanooga,Samford,RUSHING,Darrell,Bridges,YDS,89
+10550003,10/28/2017,FCS,Chattanooga,Samford,RUSHING,Darrell,Bridges,TD,0
+10550004,10/28/2017,FCS,Chattanooga,Samford,RUSHING,Darrell,Bridges,LONG,19
+10550005,10/28/2017,FCS,Chattanooga,Samford,RUSHING,Alex,Trotter,ATT,14
+10550006,10/28/2017,FCS,Chattanooga,Samford,RUSHING,Alex,Trotter,YDS,58
+10550007,10/28/2017,FCS,Chattanooga,Samford,RUSHING,Alex,Trotter,TD,0
+10550008,10/28/2017,FCS,Chattanooga,Samford,RUSHING,Alex,Trotter,LONG,17
+10550009,10/28/2017,FCS,Chattanooga,Samford,RUSHING,Alphonso,Stewart,ATT,1
+10550010,10/28/2017,FCS,Chattanooga,Samford,RUSHING,Alphonso,Stewart,YDS,7
+10550011,10/28/2017,FCS,Chattanooga,Samford,RUSHING,Alphonso,Stewart,TD,0
+10550012,10/28/2017,FCS,Chattanooga,Samford,RUSHING,Alphonso,Stewart,LONG,7
+10550013,10/28/2017,FCS,Chattanooga,Samford,RUSHING,,Team,ATT,1
+10550014,10/28/2017,FCS,Chattanooga,Samford,RUSHING,,Team,YDS,-2
+10550015,10/28/2017,FCS,Chattanooga,Samford,RUSHING,,Team,TD,0
+10550016,10/28/2017,FCS,Chattanooga,Samford,RUSHING,,Team,LONG,0
+10550017,10/28/2017,FCS,Chattanooga,Samford,RUSHING,Cole,Copeland,ATT,7
+10550018,10/28/2017,FCS,Chattanooga,Samford,RUSHING,Cole,Copeland,YDS,-17
+10550019,10/28/2017,FCS,Chattanooga,Samford,RUSHING,Cole,Copeland,TD,0
+10550020,10/28/2017,FCS,Chattanooga,Samford,RUSHING,Cole,Copeland,LONG,3
+10550021,10/28/2017,FCS,Chattanooga,Samford,PASSING,Cole,Copeland,CP-ATT-INT,14-27-2
+10550022,10/28/2017,FCS,Chattanooga,Samford,PASSING,Cole,Copeland,YDS,144
+10550023,10/28/2017,FCS,Chattanooga,Samford,PASSING,Cole,Copeland,TD,2
+10550024,10/28/2017,FCS,Chattanooga,Samford,PASSING,Cole,Copeland,LONG,28
+10550025,10/28/2017,FCS,Chattanooga,Samford,RECEIVING,Wil,Young,REC,2
+10550026,10/28/2017,FCS,Chattanooga,Samford,RECEIVING,Wil,Young,YDS,43
+10550027,10/28/2017,FCS,Chattanooga,Samford,RECEIVING,Wil,Young,TD,0
+10550028,10/28/2017,FCS,Chattanooga,Samford,RECEIVING,Wil,Young,LONG,28
+10550029,10/28/2017,FCS,Chattanooga,Samford,RECEIVING,Joseph,Parker,REC,4
+10550030,10/28/2017,FCS,Chattanooga,Samford,RECEIVING,Joseph,Parker,YDS,38
+10550031,10/28/2017,FCS,Chattanooga,Samford,RECEIVING,Joseph,Parker,TD,1
+10550032,10/28/2017,FCS,Chattanooga,Samford,RECEIVING,Joseph,Parker,LONG,14
+10550033,10/28/2017,FCS,Chattanooga,Samford,RECEIVING,Alphonso,Stewart,REC,2
+10550034,10/28/2017,FCS,Chattanooga,Samford,RECEIVING,Alphonso,Stewart,YDS,29
+10550035,10/28/2017,FCS,Chattanooga,Samford,RECEIVING,Alphonso,Stewart,TD,1
+10550036,10/28/2017,FCS,Chattanooga,Samford,RECEIVING,Alphonso,Stewart,LONG,16
+10550037,10/28/2017,FCS,Chattanooga,Samford,RECEIVING,Bingo,Morton,REC,4
+10550038,10/28/2017,FCS,Chattanooga,Samford,RECEIVING,Bingo,Morton,YDS,26
+10550039,10/28/2017,FCS,Chattanooga,Samford,RECEIVING,Bingo,Morton,TD,0
+10550040,10/28/2017,FCS,Chattanooga,Samford,RECEIVING,Bingo,Morton,LONG,13
+10550041,10/28/2017,FCS,Chattanooga,Samford,RECEIVING,Bailey,Lenoir,REC,1
+10550042,10/28/2017,FCS,Chattanooga,Samford,RECEIVING,Bailey,Lenoir,YDS,5
+10550043,10/28/2017,FCS,Chattanooga,Samford,RECEIVING,Bailey,Lenoir,TD,0
+10550044,10/28/2017,FCS,Chattanooga,Samford,RECEIVING,Bailey,Lenoir,LONG,5
+10550045,10/28/2017,FCS,Chattanooga,Samford,RECEIVING,Malcolm,Colvin,REC,1
+10550046,10/28/2017,FCS,Chattanooga,Samford,RECEIVING,Malcolm,Colvin,YDS,3
+10550047,10/28/2017,FCS,Chattanooga,Samford,RECEIVING,Malcolm,Colvin,TD,0
+10550048,10/28/2017,FCS,Chattanooga,Samford,RECEIVING,Malcolm,Colvin,LONG,3
+10550049,10/28/2017,FCS,Chattanooga,Samford,KICKING,Victor,Ulmo,FG-FGA,1/1
+10550050,10/28/2017,FCS,Chattanooga,Samford,KICKING,Victor,Ulmo,LONG,39
+10550051,10/28/2017,FCS,Chattanooga,Samford,KICKING,Victor,Ulmo,XP,2
+10550052,10/28/2017,FCS,Chattanooga,Samford,KICKING,Victor,Ulmo,PTS,5
+10550053,10/28/2017,FCS,Chattanooga,Samford,PUNTING,Colin,Brewer,NO,5
+10550054,10/28/2017,FCS,Chattanooga,Samford,PUNTING,Colin,Brewer,YDS,197
+10550055,10/28/2017,FCS,Chattanooga,Samford,PUNTING,Colin,Brewer,AVG,39.4
+10550056,10/28/2017,FCS,Chattanooga,Samford,PUNTING,Colin,Brewer,LONG,47
+10550057,10/28/2017,FCS,Chattanooga,Samford,PUNT RETURNS,Alphonso,Stewart,NO,1
+10550058,10/28/2017,FCS,Chattanooga,Samford,PUNT RETURNS,Alphonso,Stewart,YDS,0
+10550059,10/28/2017,FCS,Chattanooga,Samford,PUNT RETURNS,Alphonso,Stewart,AVG,-
+10550060,10/28/2017,FCS,Chattanooga,Samford,PUNT RETURNS,Alphonso,Stewart,LONG,0
+10550061,10/28/2017,FCS,Chattanooga,Samford,KICK RETURNS,Brandon,Dowdell,NO,2
+10550062,10/28/2017,FCS,Chattanooga,Samford,KICK RETURNS,Brandon,Dowdell,YDS,34
+10550063,10/28/2017,FCS,Chattanooga,Samford,KICK RETURNS,Brandon,Dowdell,AVG,17.0
+10550064,10/28/2017,FCS,Chattanooga,Samford,KICK RETURNS,Brandon,Dowdell,LONG,18
+10550065,10/28/2017,FCS,Chattanooga,Samford,KICK RETURNS,Chris,Jones,NO,1
+10550066,10/28/2017,FCS,Chattanooga,Samford,KICK RETURNS,Chris,Jones,YDS,7
+10550067,10/28/2017,FCS,Chattanooga,Samford,KICK RETURNS,Chris,Jones,AVG,7.0
+10550068,10/28/2017,FCS,Chattanooga,Samford,KICK RETURNS,Chris,Jones,LONG,7
+10550069,10/28/2017,FCS,Samford,Chattanooga,RUSHING,Roland,Adams,ATT,7
+10550070,10/28/2017,FCS,Samford,Chattanooga,RUSHING,Roland,Adams,YDS,26
+10550071,10/28/2017,FCS,Samford,Chattanooga,RUSHING,Roland,Adams,TD,0
+10550072,10/28/2017,FCS,Samford,Chattanooga,RUSHING,Roland,Adams,LONG,13
+10550073,10/28/2017,FCS,Samford,Chattanooga,RUSHING,Devlin,Hodges,ATT,13
+10550074,10/28/2017,FCS,Samford,Chattanooga,RUSHING,Devlin,Hodges,YDS,16
+10550075,10/28/2017,FCS,Samford,Chattanooga,RUSHING,Devlin,Hodges,TD,1
+10550076,10/28/2017,FCS,Samford,Chattanooga,RUSHING,Devlin,Hodges,LONG,16
+10550077,10/28/2017,FCS,Samford,Chattanooga,RUSHING,Moise,Satine,ATT,3
+10550078,10/28/2017,FCS,Samford,Chattanooga,RUSHING,Moise,Satine,YDS,-2
+10550079,10/28/2017,FCS,Samford,Chattanooga,RUSHING,Moise,Satine,TD,0
+10550080,10/28/2017,FCS,Samford,Chattanooga,RUSHING,Moise,Satine,LONG,6
+10550081,10/28/2017,FCS,Samford,Chattanooga,RUSHING,Treyvon,Paulk,ATT,4
+10550082,10/28/2017,FCS,Samford,Chattanooga,RUSHING,Treyvon,Paulk,YDS,-6
+10550083,10/28/2017,FCS,Samford,Chattanooga,RUSHING,Treyvon,Paulk,TD,0
+10550084,10/28/2017,FCS,Samford,Chattanooga,RUSHING,Treyvon,Paulk,LONG,4
+10550085,10/28/2017,FCS,Samford,Chattanooga,PASSING,Devlin,Hodges,CP-ATT-INT,33-54-3
+10550086,10/28/2017,FCS,Samford,Chattanooga,PASSING,Devlin,Hodges,YDS,333
+10550087,10/28/2017,FCS,Samford,Chattanooga,PASSING,Devlin,Hodges,TD,2
+10550088,10/28/2017,FCS,Samford,Chattanooga,PASSING,Devlin,Hodges,LONG,30
+10550089,10/28/2017,FCS,Samford,Chattanooga,PASSING,,Team,CP-ATT-INT,0-1-0
+10550090,10/28/2017,FCS,Samford,Chattanooga,PASSING,,Team,YDS,0
+10550091,10/28/2017,FCS,Samford,Chattanooga,PASSING,,Team,TD,0
+10550092,10/28/2017,FCS,Samford,Chattanooga,PASSING,,Team,LONG,0
+10550093,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Chris,Shelling,REC,7
+10550094,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Chris,Shelling,YDS,87
+10550095,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Chris,Shelling,TD,1
+10550096,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Chris,Shelling,LONG,30
+10550097,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Kelvin,McKnight,REC,5
+10550098,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Kelvin,McKnight,YDS,81
+10550099,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Kelvin,McKnight,TD,1
+10550100,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Kelvin,McKnight,LONG,22
+10550101,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Kevin,Marion,REC,7
+10550102,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Kevin,Marion,YDS,78
+10550103,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Kevin,Marion,TD,0
+10550104,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Kevin,Marion,LONG,18
+10550105,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Liam,Welch,REC,1
+10550106,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Liam,Welch,YDS,23
+10550107,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Liam,Welch,TD,0
+10550108,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Liam,Welch,LONG,23
+10550109,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Andrew,Harris,REC,2
+10550110,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Andrew,Harris,YDS,22
+10550111,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Andrew,Harris,TD,0
+10550112,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Andrew,Harris,LONG,13
+10550113,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Montrell,Washington,REC,2
+10550114,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Montrell,Washington,YDS,20
+10550115,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Montrell,Washington,TD,0
+10550116,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Montrell,Washington,LONG,15
+10550117,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,TaDarryl,Marshall,REC,4
+10550118,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,TaDarryl,Marshall,YDS,19
+10550119,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,TaDarryl,Marshall,TD,0
+10550120,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,TaDarryl,Marshall,LONG,8
+10550121,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Treyvon,Paulk,REC,2
+10550122,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Treyvon,Paulk,YDS,10
+10550123,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Treyvon,Paulk,TD,0
+10550124,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Treyvon,Paulk,LONG,8
+10550125,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Roland,Adams,REC,1
+10550126,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Roland,Adams,YDS,-1
+10550127,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Roland,Adams,TD,0
+10550128,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Roland,Adams,LONG,0
+10550129,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Nick,Nixon,REC,1
+10550130,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Nick,Nixon,YDS,-2
+10550131,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Nick,Nixon,TD,0
+10550132,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Nick,Nixon,LONG,0
+10550133,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Moise,Satine,REC,1
+10550134,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Moise,Satine,YDS,-4
+10550135,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Moise,Satine,TD,0
+10550136,10/28/2017,FCS,Samford,Chattanooga,RECEIVING,Moise,Satine,LONG,0
+10550137,10/28/2017,FCS,Samford,Chattanooga,KICKING,Jordan,Weaver,FG-FGA,0/1
+10550138,10/28/2017,FCS,Samford,Chattanooga,KICKING,Jordan,Weaver,LONG,0
+10550139,10/28/2017,FCS,Samford,Chattanooga,KICKING,Jordan,Weaver,XP,3
+10550140,10/28/2017,FCS,Samford,Chattanooga,KICKING,Jordan,Weaver,PTS,3
+10550141,10/28/2017,FCS,Samford,Chattanooga,PUNTING,Austin,Barnard,NO,3
+10550142,10/28/2017,FCS,Samford,Chattanooga,PUNTING,Austin,Barnard,YDS,117
+10550143,10/28/2017,FCS,Samford,Chattanooga,PUNTING,Austin,Barnard,AVG,39.0
+10550144,10/28/2017,FCS,Samford,Chattanooga,PUNTING,Austin,Barnard,LONG,51
+10550145,10/28/2017,FCS,Samford,Chattanooga,PUNT RETURNS,Darius,Harvey,NO,2
+10550146,10/28/2017,FCS,Samford,Chattanooga,PUNT RETURNS,Darius,Harvey,YDS,-3
+10550147,10/28/2017,FCS,Samford,Chattanooga,PUNT RETURNS,Darius,Harvey,AVG,-
+10550148,10/28/2017,FCS,Samford,Chattanooga,PUNT RETURNS,Darius,Harvey,LONG,5
+10550149,10/28/2017,FCS,Samford,Chattanooga,KICK RETURNS,Darius,Harvey,NO,4
+10550150,10/28/2017,FCS,Samford,Chattanooga,KICK RETURNS,Darius,Harvey,YDS,65
+10550151,10/28/2017,FCS,Samford,Chattanooga,KICK RETURNS,Darius,Harvey,AVG,16.2
+10550152,10/28/2017,FCS,Samford,Chattanooga,KICK RETURNS,Darius,Harvey,LONG,23

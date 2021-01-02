@@ -1,0 +1,189 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+7890001,9/27/2014,FCS,Villanova,Penn,RUSHING,Gary,Underwood,ATT,6
+7890002,9/27/2014,FCS,Villanova,Penn,RUSHING,Gary,Underwood,YDS,93
+7890003,9/27/2014,FCS,Villanova,Penn,RUSHING,Gary,Underwood,TD,2
+7890004,9/27/2014,FCS,Villanova,Penn,RUSHING,Gary,Underwood,LONG,54
+7890005,9/27/2014,FCS,Villanova,Penn,RUSHING,Kevin,Monangai,ATT,13
+7890006,9/27/2014,FCS,Villanova,Penn,RUSHING,Kevin,Monangai,YDS,67
+7890007,9/27/2014,FCS,Villanova,Penn,RUSHING,Kevin,Monangai,TD,0
+7890008,9/27/2014,FCS,Villanova,Penn,RUSHING,Kevin,Monangai,LONG,19
+7890009,9/27/2014,FCS,Villanova,Penn,RUSHING,Matt,Gudzak,ATT,13
+7890010,9/27/2014,FCS,Villanova,Penn,RUSHING,Matt,Gudzak,YDS,52
+7890011,9/27/2014,FCS,Villanova,Penn,RUSHING,Matt,Gudzak,TD,0
+7890012,9/27/2014,FCS,Villanova,Penn,RUSHING,Matt,Gudzak,LONG,7
+7890013,9/27/2014,FCS,Villanova,Penn,RUSHING,Chris,Polony,ATT,7
+7890014,9/27/2014,FCS,Villanova,Penn,RUSHING,Chris,Polony,YDS,46
+7890015,9/27/2014,FCS,Villanova,Penn,RUSHING,Chris,Polony,TD,0
+7890016,9/27/2014,FCS,Villanova,Penn,RUSHING,Chris,Polony,LONG,16
+7890017,9/27/2014,FCS,Villanova,Penn,RUSHING,John,Robertson,ATT,9
+7890018,9/27/2014,FCS,Villanova,Penn,RUSHING,John,Robertson,YDS,45
+7890019,9/27/2014,FCS,Villanova,Penn,RUSHING,John,Robertson,TD,0
+7890020,9/27/2014,FCS,Villanova,Penn,RUSHING,John,Robertson,LONG,11
+7890021,9/27/2014,FCS,Villanova,Penn,RUSHING,Fred,O'Connor,ATT,4
+7890022,9/27/2014,FCS,Villanova,Penn,RUSHING,Fred,O'Connor,YDS,8
+7890023,9/27/2014,FCS,Villanova,Penn,RUSHING,Fred,O'Connor,TD,0
+7890024,9/27/2014,FCS,Villanova,Penn,RUSHING,Fred,O'Connor,LONG,5
+7890025,9/27/2014,FCS,Villanova,Penn,RUSHING,Cody,Pittman,ATT,3
+7890026,9/27/2014,FCS,Villanova,Penn,RUSHING,Cody,Pittman,YDS,6
+7890027,9/27/2014,FCS,Villanova,Penn,RUSHING,Cody,Pittman,TD,0
+7890028,9/27/2014,FCS,Villanova,Penn,RUSHING,Cody,Pittman,LONG,4
+7890029,9/27/2014,FCS,Villanova,Penn,RUSHING,,Team,ATT,0
+7890030,9/27/2014,FCS,Villanova,Penn,RUSHING,,Team,YDS,0
+7890031,9/27/2014,FCS,Villanova,Penn,RUSHING,,Team,TD,0
+7890032,9/27/2014,FCS,Villanova,Penn,RUSHING,,Team,LONG,0
+7890033,9/27/2014,FCS,Villanova,Penn,PASSING,John,Robertson,CP-ATT-INT,15-21-0
+7890034,9/27/2014,FCS,Villanova,Penn,PASSING,John,Robertson,YDS,230
+7890035,9/27/2014,FCS,Villanova,Penn,PASSING,John,Robertson,TD,4
+7890036,9/27/2014,FCS,Villanova,Penn,PASSING,John,Robertson,LONG,66
+7890037,9/27/2014,FCS,Villanova,Penn,PASSING,Chris,Polony,CP-ATT-INT,3-5-0
+7890038,9/27/2014,FCS,Villanova,Penn,PASSING,Chris,Polony,YDS,20
+7890039,9/27/2014,FCS,Villanova,Penn,PASSING,Chris,Polony,TD,0
+7890040,9/27/2014,FCS,Villanova,Penn,PASSING,Chris,Polony,LONG,9
+7890041,9/27/2014,FCS,Villanova,Penn,PASSING,,Team,CP-ATT-INT,0-0-0
+7890042,9/27/2014,FCS,Villanova,Penn,PASSING,,Team,YDS,0
+7890043,9/27/2014,FCS,Villanova,Penn,PASSING,,Team,TD,0
+7890044,9/27/2014,FCS,Villanova,Penn,PASSING,,Team,LONG,0
+7890045,9/27/2014,FCS,Villanova,Penn,RECEIVING,Kevin,Gulyas,REC,5
+7890046,9/27/2014,FCS,Villanova,Penn,RECEIVING,Kevin,Gulyas,YDS,123
+7890047,9/27/2014,FCS,Villanova,Penn,RECEIVING,Kevin,Gulyas,TD,1
+7890048,9/27/2014,FCS,Villanova,Penn,RECEIVING,Kevin,Gulyas,LONG,66
+7890049,9/27/2014,FCS,Villanova,Penn,RECEIVING,Earnest,Pettway,REC,2
+7890050,9/27/2014,FCS,Villanova,Penn,RECEIVING,Earnest,Pettway,YDS,46
+7890051,9/27/2014,FCS,Villanova,Penn,RECEIVING,Earnest,Pettway,TD,1
+7890052,9/27/2014,FCS,Villanova,Penn,RECEIVING,Earnest,Pettway,LONG,36
+7890053,9/27/2014,FCS,Villanova,Penn,RECEIVING,Poppy,Livers,REC,5
+7890054,9/27/2014,FCS,Villanova,Penn,RECEIVING,Poppy,Livers,YDS,32
+7890055,9/27/2014,FCS,Villanova,Penn,RECEIVING,Poppy,Livers,TD,1
+7890056,9/27/2014,FCS,Villanova,Penn,RECEIVING,Poppy,Livers,LONG,10
+7890057,9/27/2014,FCS,Villanova,Penn,RECEIVING,Mike,Burke,REC,2
+7890058,9/27/2014,FCS,Villanova,Penn,RECEIVING,Mike,Burke,YDS,30
+7890059,9/27/2014,FCS,Villanova,Penn,RECEIVING,Mike,Burke,TD,1
+7890060,9/27/2014,FCS,Villanova,Penn,RECEIVING,Mike,Burke,LONG,17
+7890061,9/27/2014,FCS,Villanova,Penn,RECEIVING,Lincoln,Collins,REC,1
+7890062,9/27/2014,FCS,Villanova,Penn,RECEIVING,Lincoln,Collins,YDS,9
+7890063,9/27/2014,FCS,Villanova,Penn,RECEIVING,Lincoln,Collins,TD,0
+7890064,9/27/2014,FCS,Villanova,Penn,RECEIVING,Lincoln,Collins,LONG,9
+7890065,9/27/2014,FCS,Villanova,Penn,RECEIVING,Kevin,Monangai,REC,1
+7890066,9/27/2014,FCS,Villanova,Penn,RECEIVING,Kevin,Monangai,YDS,7
+7890067,9/27/2014,FCS,Villanova,Penn,RECEIVING,Kevin,Monangai,TD,0
+7890068,9/27/2014,FCS,Villanova,Penn,RECEIVING,Kevin,Monangai,LONG,7
+7890069,9/27/2014,FCS,Villanova,Penn,RECEIVING,Gary,Underwood,REC,1
+7890070,9/27/2014,FCS,Villanova,Penn,RECEIVING,Gary,Underwood,YDS,5
+7890071,9/27/2014,FCS,Villanova,Penn,RECEIVING,Gary,Underwood,TD,0
+7890072,9/27/2014,FCS,Villanova,Penn,RECEIVING,Gary,Underwood,LONG,5
+7890073,9/27/2014,FCS,Villanova,Penn,RECEIVING,Aaron,Wells,REC,1
+7890074,9/27/2014,FCS,Villanova,Penn,RECEIVING,Aaron,Wells,YDS,-2
+7890075,9/27/2014,FCS,Villanova,Penn,RECEIVING,Aaron,Wells,TD,0
+7890076,9/27/2014,FCS,Villanova,Penn,RECEIVING,Aaron,Wells,LONG,0
+7890077,9/27/2014,FCS,Villanova,Penn,KICKING,Chris,Gough,FG-FGA,0/1
+7890078,9/27/2014,FCS,Villanova,Penn,KICKING,Chris,Gough,LONG,0
+7890079,9/27/2014,FCS,Villanova,Penn,KICKING,Chris,Gough,XP,5
+7890080,9/27/2014,FCS,Villanova,Penn,KICKING,Chris,Gough,PTS,5
+7890081,9/27/2014,FCS,Villanova,Penn,PUNTING,John,Hinchen,NO,4
+7890082,9/27/2014,FCS,Villanova,Penn,PUNTING,John,Hinchen,YDS,162
+7890083,9/27/2014,FCS,Villanova,Penn,PUNTING,John,Hinchen,AVG,40.5
+7890084,9/27/2014,FCS,Villanova,Penn,PUNTING,John,Hinchen,LONG,46
+7890085,9/27/2014,FCS,Villanova,Penn,PUNT RETURNS,Poppy,Livers,NO,2
+7890086,9/27/2014,FCS,Villanova,Penn,PUNT RETURNS,Poppy,Livers,YDS,15
+7890087,9/27/2014,FCS,Villanova,Penn,PUNT RETURNS,Poppy,Livers,AVG,7.5
+7890088,9/27/2014,FCS,Villanova,Penn,PUNT RETURNS,Poppy,Livers,LONG,10
+7890089,9/27/2014,FCS,Penn,Villanova,RUSHING,Kyle,Wilcox,ATT,9
+7890090,9/27/2014,FCS,Penn,Villanova,RUSHING,Kyle,Wilcox,YDS,93
+7890091,9/27/2014,FCS,Penn,Villanova,RUSHING,Kyle,Wilcox,TD,1
+7890092,9/27/2014,FCS,Penn,Villanova,RUSHING,Kyle,Wilcox,LONG,67
+7890093,9/27/2014,FCS,Penn,Villanova,RUSHING,Tre,Soloman,ATT,7
+7890094,9/27/2014,FCS,Penn,Villanova,RUSHING,Tre,Soloman,YDS,20
+7890095,9/27/2014,FCS,Penn,Villanova,RUSHING,Tre,Soloman,TD,0
+7890096,9/27/2014,FCS,Penn,Villanova,RUSHING,Tre,Soloman,LONG,5
+7890097,9/27/2014,FCS,Penn,Villanova,RUSHING,Brian,Schoenauer,ATT,4
+7890098,9/27/2014,FCS,Penn,Villanova,RUSHING,Brian,Schoenauer,YDS,9
+7890099,9/27/2014,FCS,Penn,Villanova,RUSHING,Brian,Schoenauer,TD,0
+7890100,9/27/2014,FCS,Penn,Villanova,RUSHING,Brian,Schoenauer,LONG,6
+7890101,9/27/2014,FCS,Penn,Villanova,RUSHING,,Team,ATT,0
+7890102,9/27/2014,FCS,Penn,Villanova,RUSHING,,Team,YDS,0
+7890103,9/27/2014,FCS,Penn,Villanova,RUSHING,,Team,TD,0
+7890104,9/27/2014,FCS,Penn,Villanova,RUSHING,,Team,LONG,0
+7890105,9/27/2014,FCS,Penn,Villanova,RUSHING,Adam,Strouss,ATT,1
+7890106,9/27/2014,FCS,Penn,Villanova,RUSHING,Adam,Strouss,YDS,-1
+7890107,9/27/2014,FCS,Penn,Villanova,RUSHING,Adam,Strouss,TD,0
+7890108,9/27/2014,FCS,Penn,Villanova,RUSHING,Adam,Strouss,LONG,0
+7890109,9/27/2014,FCS,Penn,Villanova,RUSHING,Alex,Torgerson,ATT,10
+7890110,9/27/2014,FCS,Penn,Villanova,RUSHING,Alex,Torgerson,YDS,-28
+7890111,9/27/2014,FCS,Penn,Villanova,RUSHING,Alex,Torgerson,TD,0
+7890112,9/27/2014,FCS,Penn,Villanova,RUSHING,Alex,Torgerson,LONG,4
+7890113,9/27/2014,FCS,Penn,Villanova,PASSING,Alex,Torgerson,CP-ATT-INT,18-30-2
+7890114,9/27/2014,FCS,Penn,Villanova,PASSING,Alex,Torgerson,YDS,180
+7890115,9/27/2014,FCS,Penn,Villanova,PASSING,Alex,Torgerson,TD,0
+7890116,9/27/2014,FCS,Penn,Villanova,PASSING,Alex,Torgerson,LONG,37
+7890117,9/27/2014,FCS,Penn,Villanova,RECEIVING,Justin,Watson,REC,5
+7890118,9/27/2014,FCS,Penn,Villanova,RECEIVING,Justin,Watson,YDS,65
+7890119,9/27/2014,FCS,Penn,Villanova,RECEIVING,Justin,Watson,TD,0
+7890120,9/27/2014,FCS,Penn,Villanova,RECEIVING,Justin,Watson,LONG,37
+7890121,9/27/2014,FCS,Penn,Villanova,RECEIVING,Conner,Scott,REC,4
+7890122,9/27/2014,FCS,Penn,Villanova,RECEIVING,Conner,Scott,YDS,44
+7890123,9/27/2014,FCS,Penn,Villanova,RECEIVING,Conner,Scott,TD,0
+7890124,9/27/2014,FCS,Penn,Villanova,RECEIVING,Conner,Scott,LONG,21
+7890125,9/27/2014,FCS,Penn,Villanova,RECEIVING,Ryan,O'Malley,REC,1
+7890126,9/27/2014,FCS,Penn,Villanova,RECEIVING,Ryan,O'Malley,YDS,30
+7890127,9/27/2014,FCS,Penn,Villanova,RECEIVING,Ryan,O'Malley,TD,0
+7890128,9/27/2014,FCS,Penn,Villanova,RECEIVING,Ryan,O'Malley,LONG,30
+7890129,9/27/2014,FCS,Penn,Villanova,RECEIVING,Spencer,Kulcsar,REC,2
+7890130,9/27/2014,FCS,Penn,Villanova,RECEIVING,Spencer,Kulcsar,YDS,14
+7890131,9/27/2014,FCS,Penn,Villanova,RECEIVING,Spencer,Kulcsar,TD,0
+7890132,9/27/2014,FCS,Penn,Villanova,RECEIVING,Spencer,Kulcsar,LONG,8
+7890133,9/27/2014,FCS,Penn,Villanova,RECEIVING,Matt,Schwartz,REC,1
+7890134,9/27/2014,FCS,Penn,Villanova,RECEIVING,Matt,Schwartz,YDS,12
+7890135,9/27/2014,FCS,Penn,Villanova,RECEIVING,Matt,Schwartz,TD,0
+7890136,9/27/2014,FCS,Penn,Villanova,RECEIVING,Matt,Schwartz,LONG,12
+7890137,9/27/2014,FCS,Penn,Villanova,RECEIVING,Mitchell,King,REC,1
+7890138,9/27/2014,FCS,Penn,Villanova,RECEIVING,Mitchell,King,YDS,5
+7890139,9/27/2014,FCS,Penn,Villanova,RECEIVING,Mitchell,King,TD,0
+7890140,9/27/2014,FCS,Penn,Villanova,RECEIVING,Mitchell,King,LONG,5
+7890141,9/27/2014,FCS,Penn,Villanova,RECEIVING,Eric,Fiore,REC,1
+7890142,9/27/2014,FCS,Penn,Villanova,RECEIVING,Eric,Fiore,YDS,5
+7890143,9/27/2014,FCS,Penn,Villanova,RECEIVING,Eric,Fiore,TD,0
+7890144,9/27/2014,FCS,Penn,Villanova,RECEIVING,Eric,Fiore,LONG,5
+7890145,9/27/2014,FCS,Penn,Villanova,RECEIVING,Tre,Soloman,REC,1
+7890146,9/27/2014,FCS,Penn,Villanova,RECEIVING,Tre,Soloman,YDS,4
+7890147,9/27/2014,FCS,Penn,Villanova,RECEIVING,Tre,Soloman,TD,0
+7890148,9/27/2014,FCS,Penn,Villanova,RECEIVING,Tre,Soloman,LONG,4
+7890149,9/27/2014,FCS,Penn,Villanova,RECEIVING,Danny,Gallagher,REC,1
+7890150,9/27/2014,FCS,Penn,Villanova,RECEIVING,Danny,Gallagher,YDS,2
+7890151,9/27/2014,FCS,Penn,Villanova,RECEIVING,Danny,Gallagher,TD,0
+7890152,9/27/2014,FCS,Penn,Villanova,RECEIVING,Danny,Gallagher,LONG,2
+7890153,9/27/2014,FCS,Penn,Villanova,RECEIVING,Brian,Schoenauer,REC,1
+7890154,9/27/2014,FCS,Penn,Villanova,RECEIVING,Brian,Schoenauer,YDS,-1
+7890155,9/27/2014,FCS,Penn,Villanova,RECEIVING,Brian,Schoenauer,TD,0
+7890156,9/27/2014,FCS,Penn,Villanova,RECEIVING,Brian,Schoenauer,LONG,0
+7890157,9/27/2014,FCS,Penn,Villanova,KICKING,Jimmy,Gammill,FG-FGA,0/0
+7890158,9/27/2014,FCS,Penn,Villanova,KICKING,Jimmy,Gammill,LONG,-
+7890159,9/27/2014,FCS,Penn,Villanova,KICKING,Jimmy,Gammill,XP,1
+7890160,9/27/2014,FCS,Penn,Villanova,KICKING,Jimmy,Gammill,PTS,1
+7890161,9/27/2014,FCS,Penn,Villanova,PUNTING,Hunter,Kelley,NO,6
+7890162,9/27/2014,FCS,Penn,Villanova,PUNTING,Hunter,Kelley,YDS,243
+7890163,9/27/2014,FCS,Penn,Villanova,PUNTING,Hunter,Kelley,AVG,40.5
+7890164,9/27/2014,FCS,Penn,Villanova,PUNTING,Hunter,Kelley,LONG,46
+7890165,9/27/2014,FCS,Penn,Villanova,PUNTING,Brock,Elmore,NO,1
+7890166,9/27/2014,FCS,Penn,Villanova,PUNTING,Brock,Elmore,YDS,55
+7890167,9/27/2014,FCS,Penn,Villanova,PUNTING,Brock,Elmore,AVG,55.0
+7890168,9/27/2014,FCS,Penn,Villanova,PUNTING,Brock,Elmore,LONG,55
+7890169,9/27/2014,FCS,Penn,Villanova,PUNTING,,Team,NO,0
+7890170,9/27/2014,FCS,Penn,Villanova,PUNTING,,Team,YDS,0
+7890171,9/27/2014,FCS,Penn,Villanova,PUNTING,,Team,AVG,-
+7890172,9/27/2014,FCS,Penn,Villanova,PUNTING,,Team,LONG,0
+7890173,9/27/2014,FCS,Penn,Villanova,PUNT RETURNS,Spencer,Kulcsar,NO,2
+7890174,9/27/2014,FCS,Penn,Villanova,PUNT RETURNS,Spencer,Kulcsar,YDS,7
+7890175,9/27/2014,FCS,Penn,Villanova,PUNT RETURNS,Spencer,Kulcsar,AVG,3.5
+7890176,9/27/2014,FCS,Penn,Villanova,PUNT RETURNS,Spencer,Kulcsar,LONG,7
+7890177,9/27/2014,FCS,Penn,Villanova,KICK RETURNS,Tre,Soloman,NO,4
+7890178,9/27/2014,FCS,Penn,Villanova,KICK RETURNS,Tre,Soloman,YDS,81
+7890179,9/27/2014,FCS,Penn,Villanova,KICK RETURNS,Tre,Soloman,AVG,20.2
+7890180,9/27/2014,FCS,Penn,Villanova,KICK RETURNS,Tre,Soloman,LONG,32
+7890181,9/27/2014,FCS,Penn,Villanova,KICK RETURNS,Spencer,Kulcsar,NO,0
+7890182,9/27/2014,FCS,Penn,Villanova,KICK RETURNS,Spencer,Kulcsar,YDS,21
+7890183,9/27/2014,FCS,Penn,Villanova,KICK RETURNS,Spencer,Kulcsar,AVG,-
+7890184,9/27/2014,FCS,Penn,Villanova,KICK RETURNS,Spencer,Kulcsar,LONG,21
+7890185,9/27/2014,FCS,Penn,Villanova,KICK RETURNS,,Team,NO,0
+7890186,9/27/2014,FCS,Penn,Villanova,KICK RETURNS,,Team,YDS,0
+7890187,9/27/2014,FCS,Penn,Villanova,KICK RETURNS,,Team,AVG,-
+7890188,9/27/2014,FCS,Penn,Villanova,KICK RETURNS,,Team,LONG,0

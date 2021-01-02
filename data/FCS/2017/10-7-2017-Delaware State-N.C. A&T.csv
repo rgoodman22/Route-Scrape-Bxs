@@ -1,0 +1,161 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+10362001,10/7/2017,FCS,Delaware State,N.C. A&T,RUSHING,Fatu,Sua-Godinet,ATT,1
+10362002,10/7/2017,FCS,Delaware State,N.C. A&T,RUSHING,Fatu,Sua-Godinet,YDS,3
+10362003,10/7/2017,FCS,Delaware State,N.C. A&T,RUSHING,Fatu,Sua-Godinet,TD,0
+10362004,10/7/2017,FCS,Delaware State,N.C. A&T,RUSHING,Fatu,Sua-Godinet,LONG,3
+10362005,10/7/2017,FCS,Delaware State,N.C. A&T,RUSHING,Brycen,Alleyne,ATT,4
+10362006,10/7/2017,FCS,Delaware State,N.C. A&T,RUSHING,Brycen,Alleyne,YDS,0
+10362007,10/7/2017,FCS,Delaware State,N.C. A&T,RUSHING,Brycen,Alleyne,TD,0
+10362008,10/7/2017,FCS,Delaware State,N.C. A&T,RUSHING,Brycen,Alleyne,LONG,3
+10362009,10/7/2017,FCS,Delaware State,N.C. A&T,RUSHING,Nyfease,West,ATT,1
+10362010,10/7/2017,FCS,Delaware State,N.C. A&T,RUSHING,Nyfease,West,YDS,-2
+10362011,10/7/2017,FCS,Delaware State,N.C. A&T,RUSHING,Nyfease,West,TD,0
+10362012,10/7/2017,FCS,Delaware State,N.C. A&T,RUSHING,Nyfease,West,LONG,0
+10362013,10/7/2017,FCS,Delaware State,N.C. A&T,RUSHING,Keenan,Black,ATT,5
+10362014,10/7/2017,FCS,Delaware State,N.C. A&T,RUSHING,Keenan,Black,YDS,-13
+10362015,10/7/2017,FCS,Delaware State,N.C. A&T,RUSHING,Keenan,Black,TD,0
+10362016,10/7/2017,FCS,Delaware State,N.C. A&T,RUSHING,Keenan,Black,LONG,6
+10362017,10/7/2017,FCS,Delaware State,N.C. A&T,RUSHING,Jack,McDaniels,ATT,8
+10362018,10/7/2017,FCS,Delaware State,N.C. A&T,RUSHING,Jack,McDaniels,YDS,-26
+10362019,10/7/2017,FCS,Delaware State,N.C. A&T,RUSHING,Jack,McDaniels,TD,0
+10362020,10/7/2017,FCS,Delaware State,N.C. A&T,RUSHING,Jack,McDaniels,LONG,3
+10362021,10/7/2017,FCS,Delaware State,N.C. A&T,PASSING,Jack,McDaniels,CP-ATT-INT,11-15-0
+10362022,10/7/2017,FCS,Delaware State,N.C. A&T,PASSING,Jack,McDaniels,YDS,83
+10362023,10/7/2017,FCS,Delaware State,N.C. A&T,PASSING,Jack,McDaniels,TD,0
+10362024,10/7/2017,FCS,Delaware State,N.C. A&T,PASSING,Jack,McDaniels,LONG,33
+10362025,10/7/2017,FCS,Delaware State,N.C. A&T,PASSING,Keenan,Black,CP-ATT-INT,7-17-0
+10362026,10/7/2017,FCS,Delaware State,N.C. A&T,PASSING,Keenan,Black,YDS,83
+10362027,10/7/2017,FCS,Delaware State,N.C. A&T,PASSING,Keenan,Black,TD,0
+10362028,10/7/2017,FCS,Delaware State,N.C. A&T,PASSING,Keenan,Black,LONG,16
+10362029,10/7/2017,FCS,Delaware State,N.C. A&T,RECEIVING,Taronn,Selby,REC,7
+10362030,10/7/2017,FCS,Delaware State,N.C. A&T,RECEIVING,Taronn,Selby,YDS,84
+10362031,10/7/2017,FCS,Delaware State,N.C. A&T,RECEIVING,Taronn,Selby,TD,0
+10362032,10/7/2017,FCS,Delaware State,N.C. A&T,RECEIVING,Taronn,Selby,LONG,33
+10362033,10/7/2017,FCS,Delaware State,N.C. A&T,RECEIVING,Jordan,Hannah,REC,2
+10362034,10/7/2017,FCS,Delaware State,N.C. A&T,RECEIVING,Jordan,Hannah,YDS,31
+10362035,10/7/2017,FCS,Delaware State,N.C. A&T,RECEIVING,Jordan,Hannah,TD,0
+10362036,10/7/2017,FCS,Delaware State,N.C. A&T,RECEIVING,Jordan,Hannah,LONG,16
+10362037,10/7/2017,FCS,Delaware State,N.C. A&T,RECEIVING,Brycen,Alleyne,REC,3
+10362038,10/7/2017,FCS,Delaware State,N.C. A&T,RECEIVING,Brycen,Alleyne,YDS,21
+10362039,10/7/2017,FCS,Delaware State,N.C. A&T,RECEIVING,Brycen,Alleyne,TD,0
+10362040,10/7/2017,FCS,Delaware State,N.C. A&T,RECEIVING,Brycen,Alleyne,LONG,9
+10362041,10/7/2017,FCS,Delaware State,N.C. A&T,RECEIVING,Fatu,Sua-Godinet,REC,3
+10362042,10/7/2017,FCS,Delaware State,N.C. A&T,RECEIVING,Fatu,Sua-Godinet,YDS,20
+10362043,10/7/2017,FCS,Delaware State,N.C. A&T,RECEIVING,Fatu,Sua-Godinet,TD,0
+10362044,10/7/2017,FCS,Delaware State,N.C. A&T,RECEIVING,Fatu,Sua-Godinet,LONG,16
+10362045,10/7/2017,FCS,Delaware State,N.C. A&T,RECEIVING,Nyfease,West,REC,2
+10362046,10/7/2017,FCS,Delaware State,N.C. A&T,RECEIVING,Nyfease,West,YDS,14
+10362047,10/7/2017,FCS,Delaware State,N.C. A&T,RECEIVING,Nyfease,West,TD,0
+10362048,10/7/2017,FCS,Delaware State,N.C. A&T,RECEIVING,Nyfease,West,LONG,10
+10362049,10/7/2017,FCS,Delaware State,N.C. A&T,RECEIVING,Kwannah,Kollie,REC,1
+10362050,10/7/2017,FCS,Delaware State,N.C. A&T,RECEIVING,Kwannah,Kollie,YDS,-4
+10362051,10/7/2017,FCS,Delaware State,N.C. A&T,RECEIVING,Kwannah,Kollie,TD,0
+10362052,10/7/2017,FCS,Delaware State,N.C. A&T,RECEIVING,Kwannah,Kollie,LONG,0
+10362053,10/7/2017,FCS,Delaware State,N.C. A&T,KICKING,Wisdom,Nzidee,FG-FGA,1/1
+10362054,10/7/2017,FCS,Delaware State,N.C. A&T,KICKING,Wisdom,Nzidee,LONG,47
+10362055,10/7/2017,FCS,Delaware State,N.C. A&T,KICKING,Wisdom,Nzidee,XP,0
+10362056,10/7/2017,FCS,Delaware State,N.C. A&T,KICKING,Wisdom,Nzidee,PTS,3
+10362057,10/7/2017,FCS,Delaware State,N.C. A&T,PUNTING,Fidel,Romo-Martinez,NO,9
+10362058,10/7/2017,FCS,Delaware State,N.C. A&T,PUNTING,Fidel,Romo-Martinez,YDS,428
+10362059,10/7/2017,FCS,Delaware State,N.C. A&T,PUNTING,Fidel,Romo-Martinez,AVG,47.6
+10362060,10/7/2017,FCS,Delaware State,N.C. A&T,PUNTING,Fidel,Romo-Martinez,LONG,62
+10362061,10/7/2017,FCS,Delaware State,N.C. A&T,KICK RETURNS,Brycen,Alleyne,NO,5
+10362062,10/7/2017,FCS,Delaware State,N.C. A&T,KICK RETURNS,Brycen,Alleyne,YDS,135
+10362063,10/7/2017,FCS,Delaware State,N.C. A&T,KICK RETURNS,Brycen,Alleyne,AVG,27.0
+10362064,10/7/2017,FCS,Delaware State,N.C. A&T,KICK RETURNS,Brycen,Alleyne,LONG,56
+10362065,10/7/2017,FCS,Delaware State,N.C. A&T,KICK RETURNS,Nyfease,West,NO,1
+10362066,10/7/2017,FCS,Delaware State,N.C. A&T,KICK RETURNS,Nyfease,West,YDS,33
+10362067,10/7/2017,FCS,Delaware State,N.C. A&T,KICK RETURNS,Nyfease,West,AVG,33.0
+10362068,10/7/2017,FCS,Delaware State,N.C. A&T,KICK RETURNS,Nyfease,West,LONG,33
+10362069,10/7/2017,FCS,N.C. A&T,Delaware State,RUSHING,Marquell,Cartwright,ATT,19
+10362070,10/7/2017,FCS,N.C. A&T,Delaware State,RUSHING,Marquell,Cartwright,YDS,96
+10362071,10/7/2017,FCS,N.C. A&T,Delaware State,RUSHING,Marquell,Cartwright,TD,2
+10362072,10/7/2017,FCS,N.C. A&T,Delaware State,RUSHING,Marquell,Cartwright,LONG,18
+10362073,10/7/2017,FCS,N.C. A&T,Delaware State,RUSHING,Kylil,Carter,ATT,6
+10362074,10/7/2017,FCS,N.C. A&T,Delaware State,RUSHING,Kylil,Carter,YDS,26
+10362075,10/7/2017,FCS,N.C. A&T,Delaware State,RUSHING,Kylil,Carter,TD,0
+10362076,10/7/2017,FCS,N.C. A&T,Delaware State,RUSHING,Kylil,Carter,LONG,16
+10362077,10/7/2017,FCS,N.C. A&T,Delaware State,RUSHING,Jamari,Smith,ATT,5
+10362078,10/7/2017,FCS,N.C. A&T,Delaware State,RUSHING,Jamari,Smith,YDS,8
+10362079,10/7/2017,FCS,N.C. A&T,Delaware State,RUSHING,Jamari,Smith,TD,0
+10362080,10/7/2017,FCS,N.C. A&T,Delaware State,RUSHING,Jamari,Smith,LONG,6
+10362081,10/7/2017,FCS,N.C. A&T,Delaware State,RUSHING,Lamar,Raynard,ATT,1
+10362082,10/7/2017,FCS,N.C. A&T,Delaware State,RUSHING,Lamar,Raynard,YDS,-5
+10362083,10/7/2017,FCS,N.C. A&T,Delaware State,RUSHING,Lamar,Raynard,TD,0
+10362084,10/7/2017,FCS,N.C. A&T,Delaware State,RUSHING,Lamar,Raynard,LONG,0
+10362085,10/7/2017,FCS,N.C. A&T,Delaware State,RUSHING,,Team,ATT,1
+10362086,10/7/2017,FCS,N.C. A&T,Delaware State,RUSHING,,Team,YDS,-8
+10362087,10/7/2017,FCS,N.C. A&T,Delaware State,RUSHING,,Team,TD,0
+10362088,10/7/2017,FCS,N.C. A&T,Delaware State,RUSHING,,Team,LONG,0
+10362089,10/7/2017,FCS,N.C. A&T,Delaware State,PASSING,Lamar,Raynard,CP-ATT-INT,20-26-0
+10362090,10/7/2017,FCS,N.C. A&T,Delaware State,PASSING,Lamar,Raynard,YDS,324
+10362091,10/7/2017,FCS,N.C. A&T,Delaware State,PASSING,Lamar,Raynard,TD,3
+10362092,10/7/2017,FCS,N.C. A&T,Delaware State,PASSING,Lamar,Raynard,LONG,61
+10362093,10/7/2017,FCS,N.C. A&T,Delaware State,PASSING,Kylil,Carter,CP-ATT-INT,3-4-0
+10362094,10/7/2017,FCS,N.C. A&T,Delaware State,PASSING,Kylil,Carter,YDS,50
+10362095,10/7/2017,FCS,N.C. A&T,Delaware State,PASSING,Kylil,Carter,TD,1
+10362096,10/7/2017,FCS,N.C. A&T,Delaware State,PASSING,Kylil,Carter,LONG,25
+10362097,10/7/2017,FCS,N.C. A&T,Delaware State,PASSING,Jaquil,Capel,CP-ATT-INT,1-1-0
+10362098,10/7/2017,FCS,N.C. A&T,Delaware State,PASSING,Jaquil,Capel,YDS,8
+10362099,10/7/2017,FCS,N.C. A&T,Delaware State,PASSING,Jaquil,Capel,TD,0
+10362100,10/7/2017,FCS,N.C. A&T,Delaware State,PASSING,Jaquil,Capel,LONG,8
+10362101,10/7/2017,FCS,N.C. A&T,Delaware State,RECEIVING,Elijah,Bell,REC,9
+10362102,10/7/2017,FCS,N.C. A&T,Delaware State,RECEIVING,Elijah,Bell,YDS,178
+10362103,10/7/2017,FCS,N.C. A&T,Delaware State,RECEIVING,Elijah,Bell,TD,1
+10362104,10/7/2017,FCS,N.C. A&T,Delaware State,RECEIVING,Elijah,Bell,LONG,61
+10362105,10/7/2017,FCS,N.C. A&T,Delaware State,RECEIVING,Jamari,Smith,REC,4
+10362106,10/7/2017,FCS,N.C. A&T,Delaware State,RECEIVING,Jamari,Smith,YDS,85
+10362107,10/7/2017,FCS,N.C. A&T,Delaware State,RECEIVING,Jamari,Smith,TD,0
+10362108,10/7/2017,FCS,N.C. A&T,Delaware State,RECEIVING,Jamari,Smith,LONG,44
+10362109,10/7/2017,FCS,N.C. A&T,Delaware State,RECEIVING,Trey,Scott,REC,2
+10362110,10/7/2017,FCS,N.C. A&T,Delaware State,RECEIVING,Trey,Scott,YDS,28
+10362111,10/7/2017,FCS,N.C. A&T,Delaware State,RECEIVING,Trey,Scott,TD,1
+10362112,10/7/2017,FCS,N.C. A&T,Delaware State,RECEIVING,Trey,Scott,LONG,25
+10362113,10/7/2017,FCS,N.C. A&T,Delaware State,RECEIVING,Khris,Gardin,REC,2
+10362114,10/7/2017,FCS,N.C. A&T,Delaware State,RECEIVING,Khris,Gardin,YDS,23
+10362115,10/7/2017,FCS,N.C. A&T,Delaware State,RECEIVING,Khris,Gardin,TD,1
+10362116,10/7/2017,FCS,N.C. A&T,Delaware State,RECEIVING,Khris,Gardin,LONG,12
+10362117,10/7/2017,FCS,N.C. A&T,Delaware State,RECEIVING,Ron,Hunt,REC,2
+10362118,10/7/2017,FCS,N.C. A&T,Delaware State,RECEIVING,Ron,Hunt,YDS,19
+10362119,10/7/2017,FCS,N.C. A&T,Delaware State,RECEIVING,Ron,Hunt,TD,0
+10362120,10/7/2017,FCS,N.C. A&T,Delaware State,RECEIVING,Ron,Hunt,LONG,12
+10362121,10/7/2017,FCS,N.C. A&T,Delaware State,RECEIVING,Jaquil,Capel,REC,2
+10362122,10/7/2017,FCS,N.C. A&T,Delaware State,RECEIVING,Jaquil,Capel,YDS,17
+10362123,10/7/2017,FCS,N.C. A&T,Delaware State,RECEIVING,Jaquil,Capel,TD,0
+10362124,10/7/2017,FCS,N.C. A&T,Delaware State,RECEIVING,Jaquil,Capel,LONG,12
+10362125,10/7/2017,FCS,N.C. A&T,Delaware State,RECEIVING,Leroy,Hill,REC,1
+10362126,10/7/2017,FCS,N.C. A&T,Delaware State,RECEIVING,Leroy,Hill,YDS,14
+10362127,10/7/2017,FCS,N.C. A&T,Delaware State,RECEIVING,Leroy,Hill,TD,0
+10362128,10/7/2017,FCS,N.C. A&T,Delaware State,RECEIVING,Leroy,Hill,LONG,14
+10362129,10/7/2017,FCS,N.C. A&T,Delaware State,RECEIVING,Xavier,Griffin,REC,1
+10362130,10/7/2017,FCS,N.C. A&T,Delaware State,RECEIVING,Xavier,Griffin,YDS,10
+10362131,10/7/2017,FCS,N.C. A&T,Delaware State,RECEIVING,Xavier,Griffin,TD,1
+10362132,10/7/2017,FCS,N.C. A&T,Delaware State,RECEIVING,Xavier,Griffin,LONG,10
+10362133,10/7/2017,FCS,N.C. A&T,Delaware State,RECEIVING,Caleb,Gabriel,REC,1
+10362134,10/7/2017,FCS,N.C. A&T,Delaware State,RECEIVING,Caleb,Gabriel,YDS,8
+10362135,10/7/2017,FCS,N.C. A&T,Delaware State,RECEIVING,Caleb,Gabriel,TD,0
+10362136,10/7/2017,FCS,N.C. A&T,Delaware State,RECEIVING,Caleb,Gabriel,LONG,8
+10362137,10/7/2017,FCS,N.C. A&T,Delaware State,KICKING,Noel,Ruiz,FG-FGA,0/0
+10362138,10/7/2017,FCS,N.C. A&T,Delaware State,KICKING,Noel,Ruiz,LONG,-
+10362139,10/7/2017,FCS,N.C. A&T,Delaware State,KICKING,Noel,Ruiz,XP,6
+10362140,10/7/2017,FCS,N.C. A&T,Delaware State,KICKING,Noel,Ruiz,PTS,6
+10362141,10/7/2017,FCS,N.C. A&T,Delaware State,PUNTING,James,Mackey,NO,3
+10362142,10/7/2017,FCS,N.C. A&T,Delaware State,PUNTING,James,Mackey,YDS,110
+10362143,10/7/2017,FCS,N.C. A&T,Delaware State,PUNTING,James,Mackey,AVG,36.7
+10362144,10/7/2017,FCS,N.C. A&T,Delaware State,PUNTING,James,Mackey,LONG,40
+10362145,10/7/2017,FCS,N.C. A&T,Delaware State,PUNTING,Garrett,Nestor,NO,1
+10362146,10/7/2017,FCS,N.C. A&T,Delaware State,PUNTING,Garrett,Nestor,YDS,28
+10362147,10/7/2017,FCS,N.C. A&T,Delaware State,PUNTING,Garrett,Nestor,AVG,28.0
+10362148,10/7/2017,FCS,N.C. A&T,Delaware State,PUNTING,Garrett,Nestor,LONG,28
+10362149,10/7/2017,FCS,N.C. A&T,Delaware State,PUNT RETURNS,Jaquil,Capel,NO,1
+10362150,10/7/2017,FCS,N.C. A&T,Delaware State,PUNT RETURNS,Jaquil,Capel,YDS,18
+10362151,10/7/2017,FCS,N.C. A&T,Delaware State,PUNT RETURNS,Jaquil,Capel,AVG,18.0
+10362152,10/7/2017,FCS,N.C. A&T,Delaware State,PUNT RETURNS,Jaquil,Capel,LONG,18
+10362153,10/7/2017,FCS,N.C. A&T,Delaware State,PUNT RETURNS,Khris,Gardin,NO,3
+10362154,10/7/2017,FCS,N.C. A&T,Delaware State,PUNT RETURNS,Khris,Gardin,YDS,17
+10362155,10/7/2017,FCS,N.C. A&T,Delaware State,PUNT RETURNS,Khris,Gardin,AVG,5.7
+10362156,10/7/2017,FCS,N.C. A&T,Delaware State,PUNT RETURNS,Khris,Gardin,LONG,16
+10362157,10/7/2017,FCS,N.C. A&T,Delaware State,KICK RETURNS,Khris,Gardin,NO,3
+10362158,10/7/2017,FCS,N.C. A&T,Delaware State,KICK RETURNS,Khris,Gardin,YDS,136
+10362159,10/7/2017,FCS,N.C. A&T,Delaware State,KICK RETURNS,Khris,Gardin,AVG,45.3
+10362160,10/7/2017,FCS,N.C. A&T,Delaware State,KICK RETURNS,Khris,Gardin,LONG,78

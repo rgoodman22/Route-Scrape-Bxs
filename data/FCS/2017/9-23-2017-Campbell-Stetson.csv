@@ -1,0 +1,165 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+10231001,9/23/2017,FCS,Campbell,Stetson,RUSHING,Daniel,Smith,ATT,12
+10231002,9/23/2017,FCS,Campbell,Stetson,RUSHING,Daniel,Smith,YDS,179
+10231003,9/23/2017,FCS,Campbell,Stetson,RUSHING,Daniel,Smith,TD,2
+10231004,9/23/2017,FCS,Campbell,Stetson,RUSHING,Daniel,Smith,LONG,50
+10231005,9/23/2017,FCS,Campbell,Stetson,RUSHING,Joshua,Jones,ATT,9
+10231006,9/23/2017,FCS,Campbell,Stetson,RUSHING,Joshua,Jones,YDS,47
+10231007,9/23/2017,FCS,Campbell,Stetson,RUSHING,Joshua,Jones,TD,0
+10231008,9/23/2017,FCS,Campbell,Stetson,RUSHING,Joshua,Jones,LONG,13
+10231009,9/23/2017,FCS,Campbell,Stetson,RUSHING,Montel,Goods,ATT,10
+10231010,9/23/2017,FCS,Campbell,Stetson,RUSHING,Montel,Goods,YDS,22
+10231011,9/23/2017,FCS,Campbell,Stetson,RUSHING,Montel,Goods,TD,1
+10231012,9/23/2017,FCS,Campbell,Stetson,RUSHING,Montel,Goods,LONG,7
+10231013,9/23/2017,FCS,Campbell,Stetson,RUSHING,Kahlil,Dixon,ATT,1
+10231014,9/23/2017,FCS,Campbell,Stetson,RUSHING,Kahlil,Dixon,YDS,0
+10231015,9/23/2017,FCS,Campbell,Stetson,RUSHING,Kahlil,Dixon,TD,0
+10231016,9/23/2017,FCS,Campbell,Stetson,RUSHING,Kahlil,Dixon,LONG,2
+10231017,9/23/2017,FCS,Campbell,Stetson,RUSHING,,Team,ATT,2
+10231018,9/23/2017,FCS,Campbell,Stetson,RUSHING,,Team,YDS,-5
+10231019,9/23/2017,FCS,Campbell,Stetson,RUSHING,,Team,TD,0
+10231020,9/23/2017,FCS,Campbell,Stetson,RUSHING,,Team,LONG,0
+10231021,9/23/2017,FCS,Campbell,Stetson,PASSING,Daniel,Smith,CP-ATT-INT,14-29-0
+10231022,9/23/2017,FCS,Campbell,Stetson,PASSING,Daniel,Smith,YDS,188
+10231023,9/23/2017,FCS,Campbell,Stetson,PASSING,Daniel,Smith,TD,2
+10231024,9/23/2017,FCS,Campbell,Stetson,PASSING,Daniel,Smith,LONG,45
+10231025,9/23/2017,FCS,Campbell,Stetson,RECEIVING,Zach,Roderick,REC,4
+10231026,9/23/2017,FCS,Campbell,Stetson,RECEIVING,Zach,Roderick,YDS,51
+10231027,9/23/2017,FCS,Campbell,Stetson,RECEIVING,Zach,Roderick,TD,1
+10231028,9/23/2017,FCS,Campbell,Stetson,RECEIVING,Zach,Roderick,LONG,20
+10231029,9/23/2017,FCS,Campbell,Stetson,RECEIVING,Montel,Goods,REC,1
+10231030,9/23/2017,FCS,Campbell,Stetson,RECEIVING,Montel,Goods,YDS,45
+10231031,9/23/2017,FCS,Campbell,Stetson,RECEIVING,Montel,Goods,TD,1
+10231032,9/23/2017,FCS,Campbell,Stetson,RECEIVING,Montel,Goods,LONG,45
+10231033,9/23/2017,FCS,Campbell,Stetson,RECEIVING,Bryan,Bailey,REC,2
+10231034,9/23/2017,FCS,Campbell,Stetson,RECEIVING,Bryan,Bailey,YDS,29
+10231035,9/23/2017,FCS,Campbell,Stetson,RECEIVING,Bryan,Bailey,TD,0
+10231036,9/23/2017,FCS,Campbell,Stetson,RECEIVING,Bryan,Bailey,LONG,20
+10231037,9/23/2017,FCS,Campbell,Stetson,RECEIVING,Aaron,Dobbins,REC,2
+10231038,9/23/2017,FCS,Campbell,Stetson,RECEIVING,Aaron,Dobbins,YDS,25
+10231039,9/23/2017,FCS,Campbell,Stetson,RECEIVING,Aaron,Dobbins,TD,0
+10231040,9/23/2017,FCS,Campbell,Stetson,RECEIVING,Aaron,Dobbins,LONG,13
+10231041,9/23/2017,FCS,Campbell,Stetson,RECEIVING,Jaquan,Brooks,REC,3
+10231042,9/23/2017,FCS,Campbell,Stetson,RECEIVING,Jaquan,Brooks,YDS,20
+10231043,9/23/2017,FCS,Campbell,Stetson,RECEIVING,Jaquan,Brooks,TD,0
+10231044,9/23/2017,FCS,Campbell,Stetson,RECEIVING,Jaquan,Brooks,LONG,12
+10231045,9/23/2017,FCS,Campbell,Stetson,RECEIVING,Will,Howard,REC,1
+10231046,9/23/2017,FCS,Campbell,Stetson,RECEIVING,Will,Howard,YDS,11
+10231047,9/23/2017,FCS,Campbell,Stetson,RECEIVING,Will,Howard,TD,0
+10231048,9/23/2017,FCS,Campbell,Stetson,RECEIVING,Will,Howard,LONG,11
+10231049,9/23/2017,FCS,Campbell,Stetson,RECEIVING,Trey,Sanders,REC,1
+10231050,9/23/2017,FCS,Campbell,Stetson,RECEIVING,Trey,Sanders,YDS,7
+10231051,9/23/2017,FCS,Campbell,Stetson,RECEIVING,Trey,Sanders,TD,0
+10231052,9/23/2017,FCS,Campbell,Stetson,RECEIVING,Trey,Sanders,LONG,7
+10231053,9/23/2017,FCS,Campbell,Stetson,KICKING,Mitchell,Brown,FG-FGA,0/0
+10231054,9/23/2017,FCS,Campbell,Stetson,KICKING,Mitchell,Brown,LONG,-
+10231055,9/23/2017,FCS,Campbell,Stetson,KICKING,Mitchell,Brown,XP,7
+10231056,9/23/2017,FCS,Campbell,Stetson,KICKING,Mitchell,Brown,PTS,7
+10231057,9/23/2017,FCS,Campbell,Stetson,PUNTING,Brad,Dennis,NO,3
+10231058,9/23/2017,FCS,Campbell,Stetson,PUNTING,Brad,Dennis,YDS,112
+10231059,9/23/2017,FCS,Campbell,Stetson,PUNTING,Brad,Dennis,AVG,37.3
+10231060,9/23/2017,FCS,Campbell,Stetson,PUNTING,Brad,Dennis,LONG,46
+10231061,9/23/2017,FCS,Campbell,Stetson,PUNT RETURNS,Jaquan,Brooks,NO,3
+10231062,9/23/2017,FCS,Campbell,Stetson,PUNT RETURNS,Jaquan,Brooks,YDS,10
+10231063,9/23/2017,FCS,Campbell,Stetson,PUNT RETURNS,Jaquan,Brooks,AVG,3.3
+10231064,9/23/2017,FCS,Campbell,Stetson,PUNT RETURNS,Jaquan,Brooks,LONG,5
+10231065,9/23/2017,FCS,Campbell,Stetson,KICK RETURNS,Trey,Sanders,NO,3
+10231066,9/23/2017,FCS,Campbell,Stetson,KICK RETURNS,Trey,Sanders,YDS,92
+10231067,9/23/2017,FCS,Campbell,Stetson,KICK RETURNS,Trey,Sanders,AVG,30.7
+10231068,9/23/2017,FCS,Campbell,Stetson,KICK RETURNS,Trey,Sanders,LONG,53
+10231069,9/23/2017,FCS,Campbell,Stetson,KICK RETURNS,Joshua,Jones,NO,1
+10231070,9/23/2017,FCS,Campbell,Stetson,KICK RETURNS,Joshua,Jones,YDS,0
+10231071,9/23/2017,FCS,Campbell,Stetson,KICK RETURNS,Joshua,Jones,AVG,-
+10231072,9/23/2017,FCS,Campbell,Stetson,KICK RETURNS,Joshua,Jones,LONG,0
+10231073,9/23/2017,FCS,Stetson,Campbell,RUSHING,Bryce,Blackmon,ATT,10
+10231074,9/23/2017,FCS,Stetson,Campbell,RUSHING,Bryce,Blackmon,YDS,31
+10231075,9/23/2017,FCS,Stetson,Campbell,RUSHING,Bryce,Blackmon,TD,0
+10231076,9/23/2017,FCS,Stetson,Campbell,RUSHING,Bryce,Blackmon,LONG,16
+10231077,9/23/2017,FCS,Stetson,Campbell,RUSHING,Colin,McGovern,ATT,9
+10231078,9/23/2017,FCS,Stetson,Campbell,RUSHING,Colin,McGovern,YDS,9
+10231079,9/23/2017,FCS,Stetson,Campbell,RUSHING,Colin,McGovern,TD,0
+10231080,9/23/2017,FCS,Stetson,Campbell,RUSHING,Colin,McGovern,LONG,11
+10231081,9/23/2017,FCS,Stetson,Campbell,RUSHING,Gordon,Stetson,ATT,7
+10231082,9/23/2017,FCS,Stetson,Campbell,RUSHING,Gordon,Stetson,YDS,6
+10231083,9/23/2017,FCS,Stetson,Campbell,RUSHING,Gordon,Stetson,TD,1
+10231084,9/23/2017,FCS,Stetson,Campbell,RUSHING,Gordon,Stetson,LONG,6
+10231085,9/23/2017,FCS,Stetson,Campbell,RUSHING,Arkee,Brown,ATT,4
+10231086,9/23/2017,FCS,Stetson,Campbell,RUSHING,Arkee,Brown,YDS,4
+10231087,9/23/2017,FCS,Stetson,Campbell,RUSHING,Arkee,Brown,TD,0
+10231088,9/23/2017,FCS,Stetson,Campbell,RUSHING,Arkee,Brown,LONG,8
+10231089,9/23/2017,FCS,Stetson,Campbell,RUSHING,Cole,Martin,ATT,1
+10231090,9/23/2017,FCS,Stetson,Campbell,RUSHING,Cole,Martin,YDS,-11
+10231091,9/23/2017,FCS,Stetson,Campbell,RUSHING,Cole,Martin,TD,0
+10231092,9/23/2017,FCS,Stetson,Campbell,RUSHING,Cole,Martin,LONG,0
+10231093,9/23/2017,FCS,Stetson,Campbell,PASSING,Colin,McGovern,CP-ATT-INT,26-41-4
+10231094,9/23/2017,FCS,Stetson,Campbell,PASSING,Colin,McGovern,YDS,268
+10231095,9/23/2017,FCS,Stetson,Campbell,PASSING,Colin,McGovern,TD,1
+10231096,9/23/2017,FCS,Stetson,Campbell,PASSING,Colin,McGovern,LONG,45
+10231097,9/23/2017,FCS,Stetson,Campbell,PASSING,Cole,Martin,CP-ATT-INT,4-6-0
+10231098,9/23/2017,FCS,Stetson,Campbell,PASSING,Cole,Martin,YDS,64
+10231099,9/23/2017,FCS,Stetson,Campbell,PASSING,Cole,Martin,TD,1
+10231100,9/23/2017,FCS,Stetson,Campbell,PASSING,Cole,Martin,LONG,46
+10231101,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Donald,Parham,REC,9
+10231102,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Donald,Parham,YDS,157
+10231103,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Donald,Parham,TD,0
+10231104,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Donald,Parham,LONG,45
+10231105,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Matt,Taft,REC,1
+10231106,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Matt,Taft,YDS,46
+10231107,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Matt,Taft,TD,0
+10231108,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Matt,Taft,LONG,46
+10231109,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Ja'Vonta,Swinton,REC,5
+10231110,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Ja'Vonta,Swinton,YDS,43
+10231111,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Ja'Vonta,Swinton,TD,1
+10231112,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Ja'Vonta,Swinton,LONG,15
+10231113,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Justin,Jordan,REC,4
+10231114,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Justin,Jordan,YDS,19
+10231115,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Justin,Jordan,TD,0
+10231116,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Justin,Jordan,LONG,12
+10231117,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Jeremiah,Nails,REC,1
+10231118,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Jeremiah,Nails,YDS,18
+10231119,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Jeremiah,Nails,TD,0
+10231120,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Jeremiah,Nails,LONG,18
+10231121,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Tony,Gilotti,REC,2
+10231122,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Tony,Gilotti,YDS,14
+10231123,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Tony,Gilotti,TD,0
+10231124,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Tony,Gilotti,LONG,10
+10231125,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Bryce,Blackmon,REC,3
+10231126,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Bryce,Blackmon,YDS,12
+10231127,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Bryce,Blackmon,TD,0
+10231128,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Bryce,Blackmon,LONG,7
+10231129,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Makhail,Smith,REC,2
+10231130,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Makhail,Smith,YDS,10
+10231131,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Makhail,Smith,TD,0
+10231132,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Makhail,Smith,LONG,6
+10231133,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Bensley,Bornelus,REC,1
+10231134,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Bensley,Bornelus,YDS,8
+10231135,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Bensley,Bornelus,TD,1
+10231136,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Bensley,Bornelus,LONG,8
+10231137,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Gordon,Stetson,REC,1
+10231138,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Gordon,Stetson,YDS,4
+10231139,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Gordon,Stetson,TD,0
+10231140,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Gordon,Stetson,LONG,4
+10231141,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Arkee,Brown,REC,1
+10231142,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Arkee,Brown,YDS,1
+10231143,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Arkee,Brown,TD,0
+10231144,9/23/2017,FCS,Stetson,Campbell,RECEIVING,Arkee,Brown,LONG,1
+10231145,9/23/2017,FCS,Stetson,Campbell,KICKING,Jonny,Messina,FG-FGA,0/1
+10231146,9/23/2017,FCS,Stetson,Campbell,KICKING,Jonny,Messina,LONG,0
+10231147,9/23/2017,FCS,Stetson,Campbell,KICKING,Jonny,Messina,XP,3
+10231148,9/23/2017,FCS,Stetson,Campbell,KICKING,Jonny,Messina,PTS,3
+10231149,9/23/2017,FCS,Stetson,Campbell,PUNTING,Jonny,Messina,NO,5
+10231150,9/23/2017,FCS,Stetson,Campbell,PUNTING,Jonny,Messina,YDS,212
+10231151,9/23/2017,FCS,Stetson,Campbell,PUNTING,Jonny,Messina,AVG,42.4
+10231152,9/23/2017,FCS,Stetson,Campbell,PUNTING,Jonny,Messina,LONG,66
+10231153,9/23/2017,FCS,Stetson,Campbell,KICK RETURNS,Gordon,Stetson,NO,4
+10231154,9/23/2017,FCS,Stetson,Campbell,KICK RETURNS,Gordon,Stetson,YDS,75
+10231155,9/23/2017,FCS,Stetson,Campbell,KICK RETURNS,Gordon,Stetson,AVG,18.8
+10231156,9/23/2017,FCS,Stetson,Campbell,KICK RETURNS,Gordon,Stetson,LONG,26
+10231157,9/23/2017,FCS,Stetson,Campbell,KICK RETURNS,Bryce,Blackmon,NO,1
+10231158,9/23/2017,FCS,Stetson,Campbell,KICK RETURNS,Bryce,Blackmon,YDS,28
+10231159,9/23/2017,FCS,Stetson,Campbell,KICK RETURNS,Bryce,Blackmon,AVG,28.0
+10231160,9/23/2017,FCS,Stetson,Campbell,KICK RETURNS,Bryce,Blackmon,LONG,28
+10231161,9/23/2017,FCS,Stetson,Campbell,KICK RETURNS,Ja'Vonta,Swinton,NO,1
+10231162,9/23/2017,FCS,Stetson,Campbell,KICK RETURNS,Ja'Vonta,Swinton,YDS,20
+10231163,9/23/2017,FCS,Stetson,Campbell,KICK RETURNS,Ja'Vonta,Swinton,AVG,20.0
+10231164,9/23/2017,FCS,Stetson,Campbell,KICK RETURNS,Ja'Vonta,Swinton,LONG,20

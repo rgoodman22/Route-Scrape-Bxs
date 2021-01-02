@@ -1,0 +1,177 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+10207001,9/16/2017,FCS,Morgan State,Rutgers,RUSHING,Eric,Harrell,ATT,13
+10207002,9/16/2017,FCS,Morgan State,Rutgers,RUSHING,Eric,Harrell,YDS,34
+10207003,9/16/2017,FCS,Morgan State,Rutgers,RUSHING,Eric,Harrell,TD,0
+10207004,9/16/2017,FCS,Morgan State,Rutgers,RUSHING,Eric,Harrell,LONG,7
+10207005,9/16/2017,FCS,Morgan State,Rutgers,RUSHING,Herb,WalkerJr.,ATT,10
+10207006,9/16/2017,FCS,Morgan State,Rutgers,RUSHING,Herb,WalkerJr.,YDS,27
+10207007,9/16/2017,FCS,Morgan State,Rutgers,RUSHING,Herb,WalkerJr.,TD,0
+10207008,9/16/2017,FCS,Morgan State,Rutgers,RUSHING,Herb,WalkerJr.,LONG,6
+10207009,9/16/2017,FCS,Morgan State,Rutgers,RUSHING,Elijah,Staley,ATT,3
+10207010,9/16/2017,FCS,Morgan State,Rutgers,RUSHING,Elijah,Staley,YDS,19
+10207011,9/16/2017,FCS,Morgan State,Rutgers,RUSHING,Elijah,Staley,TD,0
+10207012,9/16/2017,FCS,Morgan State,Rutgers,RUSHING,Elijah,Staley,LONG,7
+10207013,9/16/2017,FCS,Morgan State,Rutgers,RUSHING,Brandon,Womack,ATT,6
+10207014,9/16/2017,FCS,Morgan State,Rutgers,RUSHING,Brandon,Womack,YDS,11
+10207015,9/16/2017,FCS,Morgan State,Rutgers,RUSHING,Brandon,Womack,TD,0
+10207016,9/16/2017,FCS,Morgan State,Rutgers,RUSHING,Brandon,Womack,LONG,6
+10207017,9/16/2017,FCS,Morgan State,Rutgers,RUSHING,DeAndre,Harris,ATT,4
+10207018,9/16/2017,FCS,Morgan State,Rutgers,RUSHING,DeAndre,Harris,YDS,1
+10207019,9/16/2017,FCS,Morgan State,Rutgers,RUSHING,DeAndre,Harris,TD,0
+10207020,9/16/2017,FCS,Morgan State,Rutgers,RUSHING,DeAndre,Harris,LONG,3
+10207021,9/16/2017,FCS,Morgan State,Rutgers,RUSHING,,Team,ATT,1
+10207022,9/16/2017,FCS,Morgan State,Rutgers,RUSHING,,Team,YDS,-12
+10207023,9/16/2017,FCS,Morgan State,Rutgers,RUSHING,,Team,TD,0
+10207024,9/16/2017,FCS,Morgan State,Rutgers,RUSHING,,Team,LONG,-12
+10207025,9/16/2017,FCS,Morgan State,Rutgers,PASSING,DeAndre,Harris,CP-ATT-INT,6-11-2
+10207026,9/16/2017,FCS,Morgan State,Rutgers,PASSING,DeAndre,Harris,YDS,41
+10207027,9/16/2017,FCS,Morgan State,Rutgers,PASSING,DeAndre,Harris,TD,0
+10207028,9/16/2017,FCS,Morgan State,Rutgers,PASSING,DeAndre,Harris,LONG,22
+10207029,9/16/2017,FCS,Morgan State,Rutgers,PASSING,Elijah,Staley,CP-ATT-INT,2-12-1
+10207030,9/16/2017,FCS,Morgan State,Rutgers,PASSING,Elijah,Staley,YDS,24
+10207031,9/16/2017,FCS,Morgan State,Rutgers,PASSING,Elijah,Staley,TD,0
+10207032,9/16/2017,FCS,Morgan State,Rutgers,PASSING,Elijah,Staley,LONG,12
+10207033,9/16/2017,FCS,Morgan State,Rutgers,RECEIVING,Torrance,Little,REC,1
+10207034,9/16/2017,FCS,Morgan State,Rutgers,RECEIVING,Torrance,Little,YDS,22
+10207035,9/16/2017,FCS,Morgan State,Rutgers,RECEIVING,Torrance,Little,TD,0
+10207036,9/16/2017,FCS,Morgan State,Rutgers,RECEIVING,Torrance,Little,LONG,22
+10207037,9/16/2017,FCS,Morgan State,Rutgers,RECEIVING,Manassah,Bailey,REC,1
+10207038,9/16/2017,FCS,Morgan State,Rutgers,RECEIVING,Manassah,Bailey,YDS,12
+10207039,9/16/2017,FCS,Morgan State,Rutgers,RECEIVING,Manassah,Bailey,TD,0
+10207040,9/16/2017,FCS,Morgan State,Rutgers,RECEIVING,Manassah,Bailey,LONG,12
+10207041,9/16/2017,FCS,Morgan State,Rutgers,RECEIVING,Eric,Harrell,REC,2
+10207042,9/16/2017,FCS,Morgan State,Rutgers,RECEIVING,Eric,Harrell,YDS,11
+10207043,9/16/2017,FCS,Morgan State,Rutgers,RECEIVING,Eric,Harrell,TD,0
+10207044,9/16/2017,FCS,Morgan State,Rutgers,RECEIVING,Eric,Harrell,LONG,12
+10207045,9/16/2017,FCS,Morgan State,Rutgers,RECEIVING,Amonta,Poteat,REC,1
+10207046,9/16/2017,FCS,Morgan State,Rutgers,RECEIVING,Amonta,Poteat,YDS,7
+10207047,9/16/2017,FCS,Morgan State,Rutgers,RECEIVING,Amonta,Poteat,TD,0
+10207048,9/16/2017,FCS,Morgan State,Rutgers,RECEIVING,Amonta,Poteat,LONG,7
+10207049,9/16/2017,FCS,Morgan State,Rutgers,RECEIVING,Daylen,Baldwin,REC,1
+10207050,9/16/2017,FCS,Morgan State,Rutgers,RECEIVING,Daylen,Baldwin,YDS,7
+10207051,9/16/2017,FCS,Morgan State,Rutgers,RECEIVING,Daylen,Baldwin,TD,0
+10207052,9/16/2017,FCS,Morgan State,Rutgers,RECEIVING,Daylen,Baldwin,LONG,7
+10207053,9/16/2017,FCS,Morgan State,Rutgers,RECEIVING,Brian,Gentry,REC,1
+10207054,9/16/2017,FCS,Morgan State,Rutgers,RECEIVING,Brian,Gentry,YDS,3
+10207055,9/16/2017,FCS,Morgan State,Rutgers,RECEIVING,Brian,Gentry,TD,0
+10207056,9/16/2017,FCS,Morgan State,Rutgers,RECEIVING,Brian,Gentry,LONG,3
+10207057,9/16/2017,FCS,Morgan State,Rutgers,RECEIVING,Brandon,Jones,REC,1
+10207058,9/16/2017,FCS,Morgan State,Rutgers,RECEIVING,Brandon,Jones,YDS,3
+10207059,9/16/2017,FCS,Morgan State,Rutgers,RECEIVING,Brandon,Jones,TD,0
+10207060,9/16/2017,FCS,Morgan State,Rutgers,RECEIVING,Brandon,Jones,LONG,3
+10207061,9/16/2017,FCS,Morgan State,Rutgers,PUNTING,Luke,Uransel,NO,10
+10207062,9/16/2017,FCS,Morgan State,Rutgers,PUNTING,Luke,Uransel,YDS,319
+10207063,9/16/2017,FCS,Morgan State,Rutgers,PUNTING,Luke,Uransel,AVG,29.0
+10207064,9/16/2017,FCS,Morgan State,Rutgers,PUNTING,Luke,Uransel,LONG,43
+10207065,9/16/2017,FCS,Morgan State,Rutgers,PUNT RETURNS,Carl,Garnes,NO,0
+10207066,9/16/2017,FCS,Morgan State,Rutgers,PUNT RETURNS,Carl,Garnes,YDS,0
+10207067,9/16/2017,FCS,Morgan State,Rutgers,PUNT RETURNS,Carl,Garnes,AVG,-
+10207068,9/16/2017,FCS,Morgan State,Rutgers,PUNT RETURNS,Carl,Garnes,LONG,0
+10207069,9/16/2017,FCS,Morgan State,Rutgers,KICK RETURNS,William,King,NO,2
+10207070,9/16/2017,FCS,Morgan State,Rutgers,KICK RETURNS,William,King,YDS,33
+10207071,9/16/2017,FCS,Morgan State,Rutgers,KICK RETURNS,William,King,AVG,16.5
+10207072,9/16/2017,FCS,Morgan State,Rutgers,KICK RETURNS,William,King,LONG,18
+10207073,9/16/2017,FCS,Morgan State,Rutgers,KICK RETURNS,Manassah,Bailey,NO,3
+10207074,9/16/2017,FCS,Morgan State,Rutgers,KICK RETURNS,Manassah,Bailey,YDS,33
+10207075,9/16/2017,FCS,Morgan State,Rutgers,KICK RETURNS,Manassah,Bailey,AVG,11.0
+10207076,9/16/2017,FCS,Morgan State,Rutgers,KICK RETURNS,Manassah,Bailey,LONG,12
+10207077,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Raheem,Blackshear,ATT,14
+10207078,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Raheem,Blackshear,YDS,98
+10207079,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Raheem,Blackshear,TD,2
+10207080,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Raheem,Blackshear,LONG,33
+10207081,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Gus,Edwards,ATT,11
+10207082,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Gus,Edwards,YDS,66
+10207083,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Gus,Edwards,TD,0
+10207084,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Gus,Edwards,LONG,25
+10207085,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Johnathan,Lewis,ATT,11
+10207086,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Johnathan,Lewis,YDS,58
+10207087,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Johnathan,Lewis,TD,4
+10207088,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Johnathan,Lewis,LONG,16
+10207089,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Josh,Hicks,ATT,4
+10207090,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Josh,Hicks,YDS,45
+10207091,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Josh,Hicks,TD,0
+10207092,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Josh,Hicks,LONG,35
+10207093,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Robert,Martin,ATT,6
+10207094,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Robert,Martin,YDS,35
+10207095,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Robert,Martin,TD,1
+10207096,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Robert,Martin,LONG,13
+10207097,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Giovanni,Rescigno,ATT,1
+10207098,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Giovanni,Rescigno,YDS,19
+10207099,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Giovanni,Rescigno,TD,0
+10207100,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Giovanni,Rescigno,LONG,19
+10207101,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Aslan,Pugh,ATT,1
+10207102,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Aslan,Pugh,YDS,5
+10207103,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Aslan,Pugh,TD,0
+10207104,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Aslan,Pugh,LONG,5
+10207105,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Janarion,Grant,ATT,1
+10207106,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Janarion,Grant,YDS,3
+10207107,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Janarion,Grant,TD,0
+10207108,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Janarion,Grant,LONG,3
+10207109,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Zach,Allen,ATT,1
+10207110,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Zach,Allen,YDS,-1
+10207111,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Zach,Allen,TD,0
+10207112,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Zach,Allen,LONG,-1
+10207113,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Kyle,Bolin,ATT,2
+10207114,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Kyle,Bolin,YDS,-3
+10207115,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Kyle,Bolin,TD,0
+10207116,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,Kyle,Bolin,LONG,7
+10207117,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,McDerby,Ceneus,ATT,2
+10207118,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,McDerby,Ceneus,YDS,-3
+10207119,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,McDerby,Ceneus,TD,0
+10207120,9/16/2017,FCS,Rutgers,Morgan State,RUSHING,McDerby,Ceneus,LONG,1
+10207121,9/16/2017,FCS,Rutgers,Morgan State,PASSING,Kyle,Bolin,CP-ATT-INT,11-17-0
+10207122,9/16/2017,FCS,Rutgers,Morgan State,PASSING,Kyle,Bolin,YDS,140
+10207123,9/16/2017,FCS,Rutgers,Morgan State,PASSING,Kyle,Bolin,TD,1
+10207124,9/16/2017,FCS,Rutgers,Morgan State,PASSING,Kyle,Bolin,LONG,48
+10207125,9/16/2017,FCS,Rutgers,Morgan State,PASSING,Johnathan,Lewis,CP-ATT-INT,2-2-0
+10207126,9/16/2017,FCS,Rutgers,Morgan State,PASSING,Johnathan,Lewis,YDS,12
+10207127,9/16/2017,FCS,Rutgers,Morgan State,PASSING,Johnathan,Lewis,TD,1
+10207128,9/16/2017,FCS,Rutgers,Morgan State,PASSING,Johnathan,Lewis,LONG,18
+10207129,9/16/2017,FCS,Rutgers,Morgan State,RECEIVING,Bo,Melton,REC,1
+10207130,9/16/2017,FCS,Rutgers,Morgan State,RECEIVING,Bo,Melton,YDS,48
+10207131,9/16/2017,FCS,Rutgers,Morgan State,RECEIVING,Bo,Melton,TD,0
+10207132,9/16/2017,FCS,Rutgers,Morgan State,RECEIVING,Bo,Melton,LONG,48
+10207133,9/16/2017,FCS,Rutgers,Morgan State,RECEIVING,Raheem,Blackshear,REC,2
+10207134,9/16/2017,FCS,Rutgers,Morgan State,RECEIVING,Raheem,Blackshear,YDS,30
+10207135,9/16/2017,FCS,Rutgers,Morgan State,RECEIVING,Raheem,Blackshear,TD,0
+10207136,9/16/2017,FCS,Rutgers,Morgan State,RECEIVING,Raheem,Blackshear,LONG,22
+10207137,9/16/2017,FCS,Rutgers,Morgan State,RECEIVING,Nakia,Griffin-Stewart,REC,2
+10207138,9/16/2017,FCS,Rutgers,Morgan State,RECEIVING,Nakia,Griffin-Stewart,YDS,21
+10207139,9/16/2017,FCS,Rutgers,Morgan State,RECEIVING,Nakia,Griffin-Stewart,TD,1
+10207140,9/16/2017,FCS,Rutgers,Morgan State,RECEIVING,Nakia,Griffin-Stewart,LONG,18
+10207141,9/16/2017,FCS,Rutgers,Morgan State,RECEIVING,Jerome,Washington,REC,3
+10207142,9/16/2017,FCS,Rutgers,Morgan State,RECEIVING,Jerome,Washington,YDS,18
+10207143,9/16/2017,FCS,Rutgers,Morgan State,RECEIVING,Jerome,Washington,TD,1
+10207144,9/16/2017,FCS,Rutgers,Morgan State,RECEIVING,Jerome,Washington,LONG,9
+10207145,9/16/2017,FCS,Rutgers,Morgan State,RECEIVING,Josh,Hicks,REC,2
+10207146,9/16/2017,FCS,Rutgers,Morgan State,RECEIVING,Josh,Hicks,YDS,17
+10207147,9/16/2017,FCS,Rutgers,Morgan State,RECEIVING,Josh,Hicks,TD,0
+10207148,9/16/2017,FCS,Rutgers,Morgan State,RECEIVING,Josh,Hicks,LONG,23
+10207149,9/16/2017,FCS,Rutgers,Morgan State,RECEIVING,Damon,Mitchell,REC,1
+10207150,9/16/2017,FCS,Rutgers,Morgan State,RECEIVING,Damon,Mitchell,YDS,12
+10207151,9/16/2017,FCS,Rutgers,Morgan State,RECEIVING,Damon,Mitchell,TD,0
+10207152,9/16/2017,FCS,Rutgers,Morgan State,RECEIVING,Damon,Mitchell,LONG,12
+10207153,9/16/2017,FCS,Rutgers,Morgan State,RECEIVING,Myles,Nash,REC,1
+10207154,9/16/2017,FCS,Rutgers,Morgan State,RECEIVING,Myles,Nash,YDS,4
+10207155,9/16/2017,FCS,Rutgers,Morgan State,RECEIVING,Myles,Nash,TD,0
+10207156,9/16/2017,FCS,Rutgers,Morgan State,RECEIVING,Myles,Nash,LONG,4
+10207157,9/16/2017,FCS,Rutgers,Morgan State,RECEIVING,Janarion,Grant,REC,1
+10207158,9/16/2017,FCS,Rutgers,Morgan State,RECEIVING,Janarion,Grant,YDS,2
+10207159,9/16/2017,FCS,Rutgers,Morgan State,RECEIVING,Janarion,Grant,TD,0
+10207160,9/16/2017,FCS,Rutgers,Morgan State,RECEIVING,Janarion,Grant,LONG,2
+10207161,9/16/2017,FCS,Rutgers,Morgan State,KICKING,Andrew,Harte,FG-FGA,1/1
+10207162,9/16/2017,FCS,Rutgers,Morgan State,KICKING,Andrew,Harte,LONG,38
+10207163,9/16/2017,FCS,Rutgers,Morgan State,KICKING,Andrew,Harte,XP,8
+10207164,9/16/2017,FCS,Rutgers,Morgan State,KICKING,Andrew,Harte,PTS,11
+10207165,9/16/2017,FCS,Rutgers,Morgan State,PUNTING,Ryan,Anderson,NO,3
+10207166,9/16/2017,FCS,Rutgers,Morgan State,PUNTING,Ryan,Anderson,YDS,97
+10207167,9/16/2017,FCS,Rutgers,Morgan State,PUNTING,Ryan,Anderson,AVG,32.3
+10207168,9/16/2017,FCS,Rutgers,Morgan State,PUNTING,Ryan,Anderson,LONG,43
+10207169,9/16/2017,FCS,Rutgers,Morgan State,PUNT RETURNS,Janarion,Grant,NO,2
+10207170,9/16/2017,FCS,Rutgers,Morgan State,PUNT RETURNS,Janarion,Grant,YDS,33
+10207171,9/16/2017,FCS,Rutgers,Morgan State,PUNT RETURNS,Janarion,Grant,AVG,16.5
+10207172,9/16/2017,FCS,Rutgers,Morgan State,PUNT RETURNS,Janarion,Grant,LONG,24
+10207173,9/16/2017,FCS,Rutgers,Morgan State,PUNT RETURNS,Hunter,Hayek,NO,1
+10207174,9/16/2017,FCS,Rutgers,Morgan State,PUNT RETURNS,Hunter,Hayek,YDS,0
+10207175,9/16/2017,FCS,Rutgers,Morgan State,PUNT RETURNS,Hunter,Hayek,AVG,-
+10207176,9/16/2017,FCS,Rutgers,Morgan State,PUNT RETURNS,Hunter,Hayek,LONG,0

@@ -1,0 +1,161 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9230001,9/2/2016,FCS,Furman,Michigan State,RUSHING,Darius,Morehead,ATT,20
+9230002,9/2/2016,FCS,Furman,Michigan State,RUSHING,Darius,Morehead,YDS,83
+9230003,9/2/2016,FCS,Furman,Michigan State,RUSHING,Darius,Morehead,TD,0
+9230004,9/2/2016,FCS,Furman,Michigan State,RUSHING,Darius,Morehead,LONG,11
+9230005,9/2/2016,FCS,Furman,Michigan State,RUSHING,Richard,HayesIII,ATT,4
+9230006,9/2/2016,FCS,Furman,Michigan State,RUSHING,Richard,HayesIII,YDS,16
+9230007,9/2/2016,FCS,Furman,Michigan State,RUSHING,Richard,HayesIII,TD,0
+9230008,9/2/2016,FCS,Furman,Michigan State,RUSHING,Richard,HayesIII,LONG,14
+9230009,9/2/2016,FCS,Furman,Michigan State,RUSHING,Antonio,Wilcox,ATT,3
+9230010,9/2/2016,FCS,Furman,Michigan State,RUSHING,Antonio,Wilcox,YDS,10
+9230011,9/2/2016,FCS,Furman,Michigan State,RUSHING,Antonio,Wilcox,TD,1
+9230012,9/2/2016,FCS,Furman,Michigan State,RUSHING,Antonio,Wilcox,LONG,6
+9230013,9/2/2016,FCS,Furman,Michigan State,RUSHING,Ridge,Gibson,ATT,1
+9230014,9/2/2016,FCS,Furman,Michigan State,RUSHING,Ridge,Gibson,YDS,0
+9230015,9/2/2016,FCS,Furman,Michigan State,RUSHING,Ridge,Gibson,TD,0
+9230016,9/2/2016,FCS,Furman,Michigan State,RUSHING,Ridge,Gibson,LONG,0
+9230017,9/2/2016,FCS,Furman,Michigan State,RUSHING,,Team,ATT,1
+9230018,9/2/2016,FCS,Furman,Michigan State,RUSHING,,Team,YDS,-8
+9230019,9/2/2016,FCS,Furman,Michigan State,RUSHING,,Team,TD,0
+9230020,9/2/2016,FCS,Furman,Michigan State,RUSHING,,Team,LONG,-8
+9230021,9/2/2016,FCS,Furman,Michigan State,RUSHING,P.J.,Blazejowski,ATT,4
+9230022,9/2/2016,FCS,Furman,Michigan State,RUSHING,P.J.,Blazejowski,YDS,-14
+9230023,9/2/2016,FCS,Furman,Michigan State,RUSHING,P.J.,Blazejowski,TD,0
+9230024,9/2/2016,FCS,Furman,Michigan State,RUSHING,P.J.,Blazejowski,LONG,3
+9230025,9/2/2016,FCS,Furman,Michigan State,PASSING,P.J.,Blazejowski,CP-ATT-INT,15-30-1
+9230026,9/2/2016,FCS,Furman,Michigan State,PASSING,P.J.,Blazejowski,YDS,123
+9230027,9/2/2016,FCS,Furman,Michigan State,PASSING,P.J.,Blazejowski,TD,0
+9230028,9/2/2016,FCS,Furman,Michigan State,PASSING,P.J.,Blazejowski,LONG,16
+9230029,9/2/2016,FCS,Furman,Michigan State,PASSING,Duncan,Fletcher,CP-ATT-INT,1-1-0
+9230030,9/2/2016,FCS,Furman,Michigan State,PASSING,Duncan,Fletcher,YDS,16
+9230031,9/2/2016,FCS,Furman,Michigan State,PASSING,Duncan,Fletcher,TD,0
+9230032,9/2/2016,FCS,Furman,Michigan State,PASSING,Duncan,Fletcher,LONG,16
+9230033,9/2/2016,FCS,Furman,Michigan State,RECEIVING,Andrej,Suttles,REC,4
+9230034,9/2/2016,FCS,Furman,Michigan State,RECEIVING,Andrej,Suttles,YDS,32
+9230035,9/2/2016,FCS,Furman,Michigan State,RECEIVING,Andrej,Suttles,TD,0
+9230036,9/2/2016,FCS,Furman,Michigan State,RECEIVING,Andrej,Suttles,LONG,13
+9230037,9/2/2016,FCS,Furman,Michigan State,RECEIVING,Logan,McCarter,REC,3
+9230038,9/2/2016,FCS,Furman,Michigan State,RECEIVING,Logan,McCarter,YDS,31
+9230039,9/2/2016,FCS,Furman,Michigan State,RECEIVING,Logan,McCarter,TD,0
+9230040,9/2/2016,FCS,Furman,Michigan State,RECEIVING,Logan,McCarter,LONG,11
+9230041,9/2/2016,FCS,Furman,Michigan State,RECEIVING,JD,Tuten,REC,2
+9230042,9/2/2016,FCS,Furman,Michigan State,RECEIVING,JD,Tuten,YDS,30
+9230043,9/2/2016,FCS,Furman,Michigan State,RECEIVING,JD,Tuten,TD,0
+9230044,9/2/2016,FCS,Furman,Michigan State,RECEIVING,JD,Tuten,LONG,16
+9230045,9/2/2016,FCS,Furman,Michigan State,RECEIVING,Darius,Morehead,REC,2
+9230046,9/2/2016,FCS,Furman,Michigan State,RECEIVING,Darius,Morehead,YDS,25
+9230047,9/2/2016,FCS,Furman,Michigan State,RECEIVING,Darius,Morehead,TD,0
+9230048,9/2/2016,FCS,Furman,Michigan State,RECEIVING,Darius,Morehead,LONG,16
+9230049,9/2/2016,FCS,Furman,Michigan State,RECEIVING,Duncan,Fletcher,REC,4
+9230050,9/2/2016,FCS,Furman,Michigan State,RECEIVING,Duncan,Fletcher,YDS,17
+9230051,9/2/2016,FCS,Furman,Michigan State,RECEIVING,Duncan,Fletcher,TD,0
+9230052,9/2/2016,FCS,Furman,Michigan State,RECEIVING,Duncan,Fletcher,LONG,8
+9230053,9/2/2016,FCS,Furman,Michigan State,RECEIVING,Richard,HayesIII,REC,1
+9230054,9/2/2016,FCS,Furman,Michigan State,RECEIVING,Richard,HayesIII,YDS,4
+9230055,9/2/2016,FCS,Furman,Michigan State,RECEIVING,Richard,HayesIII,TD,0
+9230056,9/2/2016,FCS,Furman,Michigan State,RECEIVING,Richard,HayesIII,LONG,4
+9230057,9/2/2016,FCS,Furman,Michigan State,KICKING,Jon,CroftHollingsworth,FG-FGA,2/3
+9230058,9/2/2016,FCS,Furman,Michigan State,KICKING,Jon,CroftHollingsworth,LONG,23
+9230059,9/2/2016,FCS,Furman,Michigan State,KICKING,Jon,CroftHollingsworth,XP,1
+9230060,9/2/2016,FCS,Furman,Michigan State,KICKING,Jon,CroftHollingsworth,PTS,7
+9230061,9/2/2016,FCS,Furman,Michigan State,PUNTING,Jon,CroftHollingsworth,NO,5
+9230062,9/2/2016,FCS,Furman,Michigan State,PUNTING,Jon,CroftHollingsworth,YDS,189
+9230063,9/2/2016,FCS,Furman,Michigan State,PUNTING,Jon,CroftHollingsworth,AVG,37.8
+9230064,9/2/2016,FCS,Furman,Michigan State,PUNTING,Jon,CroftHollingsworth,LONG,44
+9230065,9/2/2016,FCS,Furman,Michigan State,PUNT RETURNS,Andrej,Suttles,NO,1
+9230066,9/2/2016,FCS,Furman,Michigan State,PUNT RETURNS,Andrej,Suttles,YDS,5
+9230067,9/2/2016,FCS,Furman,Michigan State,PUNT RETURNS,Andrej,Suttles,AVG,5.0
+9230068,9/2/2016,FCS,Furman,Michigan State,PUNT RETURNS,Andrej,Suttles,LONG,5
+9230069,9/2/2016,FCS,Furman,Michigan State,KICK RETURNS,Aaquil,Annoor,NO,1
+9230070,9/2/2016,FCS,Furman,Michigan State,KICK RETURNS,Aaquil,Annoor,YDS,25
+9230071,9/2/2016,FCS,Furman,Michigan State,KICK RETURNS,Aaquil,Annoor,AVG,25.0
+9230072,9/2/2016,FCS,Furman,Michigan State,KICK RETURNS,Aaquil,Annoor,LONG,25
+9230073,9/2/2016,FCS,Michigan State,Furman,RUSHING,LJ,Scott,ATT,20
+9230074,9/2/2016,FCS,Michigan State,Furman,RUSHING,LJ,Scott,YDS,105
+9230075,9/2/2016,FCS,Michigan State,Furman,RUSHING,LJ,Scott,TD,1
+9230076,9/2/2016,FCS,Michigan State,Furman,RUSHING,LJ,Scott,LONG,21
+9230077,9/2/2016,FCS,Michigan State,Furman,RUSHING,RJ,Shelton,ATT,1
+9230078,9/2/2016,FCS,Michigan State,Furman,RUSHING,RJ,Shelton,YDS,32
+9230079,9/2/2016,FCS,Michigan State,Furman,RUSHING,RJ,Shelton,TD,0
+9230080,9/2/2016,FCS,Michigan State,Furman,RUSHING,RJ,Shelton,LONG,32
+9230081,9/2/2016,FCS,Michigan State,Furman,RUSHING,Madre,London,ATT,5
+9230082,9/2/2016,FCS,Michigan State,Furman,RUSHING,Madre,London,YDS,14
+9230083,9/2/2016,FCS,Michigan State,Furman,RUSHING,Madre,London,TD,0
+9230084,9/2/2016,FCS,Michigan State,Furman,RUSHING,Madre,London,LONG,5
+9230085,9/2/2016,FCS,Michigan State,Furman,RUSHING,Monty,Madaris,ATT,1
+9230086,9/2/2016,FCS,Michigan State,Furman,RUSHING,Monty,Madaris,YDS,12
+9230087,9/2/2016,FCS,Michigan State,Furman,RUSHING,Monty,Madaris,TD,0
+9230088,9/2/2016,FCS,Michigan State,Furman,RUSHING,Monty,Madaris,LONG,12
+9230089,9/2/2016,FCS,Michigan State,Furman,RUSHING,Tyler,O'Connor,ATT,6
+9230090,9/2/2016,FCS,Michigan State,Furman,RUSHING,Tyler,O'Connor,YDS,11
+9230091,9/2/2016,FCS,Michigan State,Furman,RUSHING,Tyler,O'Connor,TD,0
+9230092,9/2/2016,FCS,Michigan State,Furman,RUSHING,Tyler,O'Connor,LONG,9
+9230093,9/2/2016,FCS,Michigan State,Furman,RUSHING,Prescott,Line,ATT,1
+9230094,9/2/2016,FCS,Michigan State,Furman,RUSHING,Prescott,Line,YDS,3
+9230095,9/2/2016,FCS,Michigan State,Furman,RUSHING,Prescott,Line,TD,0
+9230096,9/2/2016,FCS,Michigan State,Furman,RUSHING,Prescott,Line,LONG,3
+9230097,9/2/2016,FCS,Michigan State,Furman,RUSHING,Donnie,Corley,ATT,1
+9230098,9/2/2016,FCS,Michigan State,Furman,RUSHING,Donnie,Corley,YDS,1
+9230099,9/2/2016,FCS,Michigan State,Furman,RUSHING,Donnie,Corley,TD,0
+9230100,9/2/2016,FCS,Michigan State,Furman,RUSHING,Donnie,Corley,LONG,1
+9230101,9/2/2016,FCS,Michigan State,Furman,RUSHING,Darrell,"Stewart,Jr.",ATT,1
+9230102,9/2/2016,FCS,Michigan State,Furman,RUSHING,Darrell,"Stewart,Jr.",YDS,1
+9230103,9/2/2016,FCS,Michigan State,Furman,RUSHING,Darrell,"Stewart,Jr.",TD,0
+9230104,9/2/2016,FCS,Michigan State,Furman,RUSHING,Darrell,"Stewart,Jr.",LONG,1
+9230105,9/2/2016,FCS,Michigan State,Furman,RUSHING,,Team,ATT,4
+9230106,9/2/2016,FCS,Michigan State,Furman,RUSHING,,Team,YDS,-8
+9230107,9/2/2016,FCS,Michigan State,Furman,RUSHING,,Team,TD,0
+9230108,9/2/2016,FCS,Michigan State,Furman,RUSHING,,Team,LONG,-1
+9230109,9/2/2016,FCS,Michigan State,Furman,PASSING,Tyler,O'Connor,CP-ATT-INT,13-18-1
+9230110,9/2/2016,FCS,Michigan State,Furman,PASSING,Tyler,O'Connor,YDS,190
+9230111,9/2/2016,FCS,Michigan State,Furman,PASSING,Tyler,O'Connor,TD,3
+9230112,9/2/2016,FCS,Michigan State,Furman,PASSING,Tyler,O'Connor,LONG,31
+9230113,9/2/2016,FCS,Michigan State,Furman,RECEIVING,Monty,Madaris,REC,5
+9230114,9/2/2016,FCS,Michigan State,Furman,RECEIVING,Monty,Madaris,YDS,85
+9230115,9/2/2016,FCS,Michigan State,Furman,RECEIVING,Monty,Madaris,TD,0
+9230116,9/2/2016,FCS,Michigan State,Furman,RECEIVING,Monty,Madaris,LONG,31
+9230117,9/2/2016,FCS,Michigan State,Furman,RECEIVING,Felton,DavisIII,REC,3
+9230118,9/2/2016,FCS,Michigan State,Furman,RECEIVING,Felton,DavisIII,YDS,40
+9230119,9/2/2016,FCS,Michigan State,Furman,RECEIVING,Felton,DavisIII,TD,1
+9230120,9/2/2016,FCS,Michigan State,Furman,RECEIVING,Felton,DavisIII,LONG,16
+9230121,9/2/2016,FCS,Michigan State,Furman,RECEIVING,Josiah,Price,REC,1
+9230122,9/2/2016,FCS,Michigan State,Furman,RECEIVING,Josiah,Price,YDS,21
+9230123,9/2/2016,FCS,Michigan State,Furman,RECEIVING,Josiah,Price,TD,1
+9230124,9/2/2016,FCS,Michigan State,Furman,RECEIVING,Josiah,Price,LONG,21
+9230125,9/2/2016,FCS,Michigan State,Furman,RECEIVING,Donnie,Corley,REC,2
+9230126,9/2/2016,FCS,Michigan State,Furman,RECEIVING,Donnie,Corley,YDS,17
+9230127,9/2/2016,FCS,Michigan State,Furman,RECEIVING,Donnie,Corley,TD,0
+9230128,9/2/2016,FCS,Michigan State,Furman,RECEIVING,Donnie,Corley,LONG,11
+9230129,9/2/2016,FCS,Michigan State,Furman,RECEIVING,Madre,London,REC,1
+9230130,9/2/2016,FCS,Michigan State,Furman,RECEIVING,Madre,London,YDS,15
+9230131,9/2/2016,FCS,Michigan State,Furman,RECEIVING,Madre,London,TD,0
+9230132,9/2/2016,FCS,Michigan State,Furman,RECEIVING,Madre,London,LONG,15
+9230133,9/2/2016,FCS,Michigan State,Furman,RECEIVING,Jamal,Lyles,REC,1
+9230134,9/2/2016,FCS,Michigan State,Furman,RECEIVING,Jamal,Lyles,YDS,12
+9230135,9/2/2016,FCS,Michigan State,Furman,RECEIVING,Jamal,Lyles,TD,1
+9230136,9/2/2016,FCS,Michigan State,Furman,RECEIVING,Jamal,Lyles,LONG,12
+9230137,9/2/2016,FCS,Michigan State,Furman,KICKING,Michael,Geiger,FG-FGA,0/1
+9230138,9/2/2016,FCS,Michigan State,Furman,KICKING,Michael,Geiger,LONG,0
+9230139,9/2/2016,FCS,Michigan State,Furman,KICKING,Michael,Geiger,XP,4
+9230140,9/2/2016,FCS,Michigan State,Furman,KICKING,Michael,Geiger,PTS,4
+9230141,9/2/2016,FCS,Michigan State,Furman,PUNTING,Jake,Hartbarger,NO,3
+9230142,9/2/2016,FCS,Michigan State,Furman,PUNTING,Jake,Hartbarger,YDS,134
+9230143,9/2/2016,FCS,Michigan State,Furman,PUNTING,Jake,Hartbarger,AVG,44.7
+9230144,9/2/2016,FCS,Michigan State,Furman,PUNTING,Jake,Hartbarger,LONG,58
+9230145,9/2/2016,FCS,Michigan State,Furman,PUNT RETURNS,RJ,Shelton,NO,2
+9230146,9/2/2016,FCS,Michigan State,Furman,PUNT RETURNS,RJ,Shelton,YDS,19
+9230147,9/2/2016,FCS,Michigan State,Furman,PUNT RETURNS,RJ,Shelton,AVG,9.5
+9230148,9/2/2016,FCS,Michigan State,Furman,PUNT RETURNS,RJ,Shelton,LONG,13
+9230149,9/2/2016,FCS,Michigan State,Furman,PUNT RETURNS,Brandon,Sowards,NO,2
+9230150,9/2/2016,FCS,Michigan State,Furman,PUNT RETURNS,Brandon,Sowards,YDS,4
+9230151,9/2/2016,FCS,Michigan State,Furman,PUNT RETURNS,Brandon,Sowards,AVG,2.0
+9230152,9/2/2016,FCS,Michigan State,Furman,PUNT RETURNS,Brandon,Sowards,LONG,3
+9230153,9/2/2016,FCS,Michigan State,Furman,KICK RETURNS,Darrell,"Stewart,Jr.",NO,2
+9230154,9/2/2016,FCS,Michigan State,Furman,KICK RETURNS,Darrell,"Stewart,Jr.",YDS,52
+9230155,9/2/2016,FCS,Michigan State,Furman,KICK RETURNS,Darrell,"Stewart,Jr.",AVG,26.0
+9230156,9/2/2016,FCS,Michigan State,Furman,KICK RETURNS,Darrell,"Stewart,Jr.",LONG,27
+9230157,9/2/2016,FCS,Michigan State,Furman,KICK RETURNS,RJ,Shelton,NO,1
+9230158,9/2/2016,FCS,Michigan State,Furman,KICK RETURNS,RJ,Shelton,YDS,18
+9230159,9/2/2016,FCS,Michigan State,Furman,KICK RETURNS,RJ,Shelton,AVG,18.0
+9230160,9/2/2016,FCS,Michigan State,Furman,KICK RETURNS,RJ,Shelton,LONG,18

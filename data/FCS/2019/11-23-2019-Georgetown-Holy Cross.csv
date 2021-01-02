@@ -1,0 +1,192 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+12325001,11/23/2019,FCS,Georgetown,Holy Cross,RUSHING,Jay,Tolliver,ATT,16
+12325002,11/23/2019,FCS,Georgetown,Holy Cross,RUSHING,Jay,Tolliver,YDS,46
+12325003,11/23/2019,FCS,Georgetown,Holy Cross,RUSHING,Jay,Tolliver,TD,0
+12325004,11/23/2019,FCS,Georgetown,Holy Cross,RUSHING,Jay,Tolliver,LONG,8
+12325005,11/23/2019,FCS,Georgetown,Holy Cross,RUSHING,Gunther,Johnson,ATT,11
+12325006,11/23/2019,FCS,Georgetown,Holy Cross,RUSHING,Gunther,Johnson,YDS,1
+12325007,11/23/2019,FCS,Georgetown,Holy Cross,RUSHING,Gunther,Johnson,TD,0
+12325008,11/23/2019,FCS,Georgetown,Holy Cross,RUSHING,Gunther,Johnson,LONG,4
+12325009,11/23/2019,FCS,Georgetown,Holy Cross,RUSHING,Joseph,Brunell,ATT,2
+12325010,11/23/2019,FCS,Georgetown,Holy Cross,RUSHING,Joseph,Brunell,YDS,-3
+12325011,11/23/2019,FCS,Georgetown,Holy Cross,RUSHING,Joseph,Brunell,TD,0
+12325012,11/23/2019,FCS,Georgetown,Holy Cross,RUSHING,Joseph,Brunell,LONG,0
+12325013,11/23/2019,FCS,Georgetown,Holy Cross,PASSING,Gunther,Johnson,CP-ATT-INT,12-21-2
+12325014,11/23/2019,FCS,Georgetown,Holy Cross,PASSING,Gunther,Johnson,YDS,121
+12325015,11/23/2019,FCS,Georgetown,Holy Cross,PASSING,Gunther,Johnson,TD,0
+12325016,11/23/2019,FCS,Georgetown,Holy Cross,PASSING,Gunther,Johnson,LONG,25
+12325017,11/23/2019,FCS,Georgetown,Holy Cross,PASSING,Joseph,Brunell,CP-ATT-INT,7-11-1
+12325018,11/23/2019,FCS,Georgetown,Holy Cross,PASSING,Joseph,Brunell,YDS,68
+12325019,11/23/2019,FCS,Georgetown,Holy Cross,PASSING,Joseph,Brunell,TD,0
+12325020,11/23/2019,FCS,Georgetown,Holy Cross,PASSING,Joseph,Brunell,LONG,20
+12325021,11/23/2019,FCS,Georgetown,Holy Cross,RECEIVING,Joshua,Tomas,REC,6
+12325022,11/23/2019,FCS,Georgetown,Holy Cross,RECEIVING,Joshua,Tomas,YDS,68
+12325023,11/23/2019,FCS,Georgetown,Holy Cross,RECEIVING,Joshua,Tomas,TD,0
+12325024,11/23/2019,FCS,Georgetown,Holy Cross,RECEIVING,Joshua,Tomas,LONG,25
+12325025,11/23/2019,FCS,Georgetown,Holy Cross,RECEIVING,Michael,Dereus,REC,5
+12325026,11/23/2019,FCS,Georgetown,Holy Cross,RECEIVING,Michael,Dereus,YDS,60
+12325027,11/23/2019,FCS,Georgetown,Holy Cross,RECEIVING,Michael,Dereus,TD,0
+12325028,11/23/2019,FCS,Georgetown,Holy Cross,RECEIVING,Michael,Dereus,LONG,17
+12325029,11/23/2019,FCS,Georgetown,Holy Cross,RECEIVING,Cole,Miller,REC,4
+12325030,11/23/2019,FCS,Georgetown,Holy Cross,RECEIVING,Cole,Miller,YDS,27
+12325031,11/23/2019,FCS,Georgetown,Holy Cross,RECEIVING,Cole,Miller,TD,0
+12325032,11/23/2019,FCS,Georgetown,Holy Cross,RECEIVING,Cole,Miller,LONG,9
+12325033,11/23/2019,FCS,Georgetown,Holy Cross,RECEIVING,Jay,Tolliver,REC,2
+12325034,11/23/2019,FCS,Georgetown,Holy Cross,RECEIVING,Jay,Tolliver,YDS,22
+12325035,11/23/2019,FCS,Georgetown,Holy Cross,RECEIVING,Jay,Tolliver,TD,0
+12325036,11/23/2019,FCS,Georgetown,Holy Cross,RECEIVING,Jay,Tolliver,LONG,20
+12325037,11/23/2019,FCS,Georgetown,Holy Cross,RECEIVING,Isaac,Schley,REC,2
+12325038,11/23/2019,FCS,Georgetown,Holy Cross,RECEIVING,Isaac,Schley,YDS,12
+12325039,11/23/2019,FCS,Georgetown,Holy Cross,RECEIVING,Isaac,Schley,TD,0
+12325040,11/23/2019,FCS,Georgetown,Holy Cross,RECEIVING,Isaac,Schley,LONG,6
+12325041,11/23/2019,FCS,Georgetown,Holy Cross,KICKING,Brad,Hurst,FG-FGA,0/1
+12325042,11/23/2019,FCS,Georgetown,Holy Cross,KICKING,Brad,Hurst,LONG,0
+12325043,11/23/2019,FCS,Georgetown,Holy Cross,KICKING,Brad,Hurst,XP,0
+12325044,11/23/2019,FCS,Georgetown,Holy Cross,KICKING,Brad,Hurst,PTS,0
+12325045,11/23/2019,FCS,Georgetown,Holy Cross,PUNTING,Brad,Hurst,NO,6
+12325046,11/23/2019,FCS,Georgetown,Holy Cross,PUNTING,Brad,Hurst,YDS,182
+12325047,11/23/2019,FCS,Georgetown,Holy Cross,PUNTING,Brad,Hurst,AVG,30.3
+12325048,11/23/2019,FCS,Georgetown,Holy Cross,PUNTING,Brad,Hurst,LONG,52
+12325049,11/23/2019,FCS,Georgetown,Holy Cross,PUNT RETURNS,Joshua,Tomas,NO,2
+12325050,11/23/2019,FCS,Georgetown,Holy Cross,PUNT RETURNS,Joshua,Tomas,YDS,2
+12325051,11/23/2019,FCS,Georgetown,Holy Cross,PUNT RETURNS,Joshua,Tomas,AVG,1.0
+12325052,11/23/2019,FCS,Georgetown,Holy Cross,PUNT RETURNS,Joshua,Tomas,LONG,2
+12325053,11/23/2019,FCS,Georgetown,Holy Cross,PUNT RETURNS,Cameron,Deen,NO,1
+12325054,11/23/2019,FCS,Georgetown,Holy Cross,PUNT RETURNS,Cameron,Deen,YDS,1
+12325055,11/23/2019,FCS,Georgetown,Holy Cross,PUNT RETURNS,Cameron,Deen,AVG,1.0
+12325056,11/23/2019,FCS,Georgetown,Holy Cross,PUNT RETURNS,Cameron,Deen,LONG,1
+12325057,11/23/2019,FCS,Georgetown,Holy Cross,KICK RETURNS,Michael,Dereus,NO,2
+12325058,11/23/2019,FCS,Georgetown,Holy Cross,KICK RETURNS,Michael,Dereus,YDS,35
+12325059,11/23/2019,FCS,Georgetown,Holy Cross,KICK RETURNS,Michael,Dereus,AVG,17.5
+12325060,11/23/2019,FCS,Georgetown,Holy Cross,KICK RETURNS,Michael,Dereus,LONG,19
+12325061,11/23/2019,FCS,Georgetown,Holy Cross,KICK RETURNS,Joshua,Tomas,NO,1
+12325062,11/23/2019,FCS,Georgetown,Holy Cross,KICK RETURNS,Joshua,Tomas,YDS,20
+12325063,11/23/2019,FCS,Georgetown,Holy Cross,KICK RETURNS,Joshua,Tomas,AVG,20.0
+12325064,11/23/2019,FCS,Georgetown,Holy Cross,KICK RETURNS,Joshua,Tomas,LONG,20
+12325065,11/23/2019,FCS,Georgetown,Holy Cross,KICK RETURNS,Xavier,Reddick,NO,1
+12325066,11/23/2019,FCS,Georgetown,Holy Cross,KICK RETURNS,Xavier,Reddick,YDS,5
+12325067,11/23/2019,FCS,Georgetown,Holy Cross,KICK RETURNS,Xavier,Reddick,AVG,5.0
+12325068,11/23/2019,FCS,Georgetown,Holy Cross,KICK RETURNS,Xavier,Reddick,LONG,5
+12325069,11/23/2019,FCS,Georgetown,Holy Cross,DEFENSE,Roemello,Walton,TOT,10
+12325070,11/23/2019,FCS,Georgetown,Holy Cross,DEFENSE,Roemello,Walton,SOLO,6
+12325071,11/23/2019,FCS,Georgetown,Holy Cross,DEFENSE,Roemello,Walton,SACKS,0
+12325072,11/23/2019,FCS,Georgetown,Holy Cross,DEFENSE,Roemello,Walton,TFL,1
+12325073,11/23/2019,FCS,Georgetown,Holy Cross,DEFENSE,Roemello,Walton,INT,0
+12325074,11/23/2019,FCS,Georgetown,Holy Cross,DEFENSE,Roemello,Walton,FF,0
+12325075,11/23/2019,FCS,Georgetown,Holy Cross,DEFENSE,Roemello,Walton,FR,1
+12325076,11/23/2019,FCS,Georgetown,Holy Cross,DEFENSE,Xavier,Reddick,TOT,0
+12325077,11/23/2019,FCS,Georgetown,Holy Cross,DEFENSE,Xavier,Reddick,SOLO,0
+12325078,11/23/2019,FCS,Georgetown,Holy Cross,DEFENSE,Xavier,Reddick,SACKS,1
+12325079,11/23/2019,FCS,Georgetown,Holy Cross,DEFENSE,Xavier,Reddick,TFL,0
+12325080,11/23/2019,FCS,Georgetown,Holy Cross,DEFENSE,Xavier,Reddick,INT,0
+12325081,11/23/2019,FCS,Georgetown,Holy Cross,DEFENSE,Xavier,Reddick,FF,0
+12325082,11/23/2019,FCS,Georgetown,Holy Cross,DEFENSE,Xavier,Reddick,FR,0
+12325083,11/23/2019,FCS,Georgetown,Holy Cross,DEFENSE,George,Ikott,TOT,4
+12325084,11/23/2019,FCS,Georgetown,Holy Cross,DEFENSE,George,Ikott,SOLO,3
+12325085,11/23/2019,FCS,Georgetown,Holy Cross,DEFENSE,George,Ikott,SACKS,0
+12325086,11/23/2019,FCS,Georgetown,Holy Cross,DEFENSE,George,Ikott,TFL,0
+12325087,11/23/2019,FCS,Georgetown,Holy Cross,DEFENSE,George,Ikott,INT,0
+12325088,11/23/2019,FCS,Georgetown,Holy Cross,DEFENSE,George,Ikott,FF,1
+12325089,11/23/2019,FCS,Georgetown,Holy Cross,DEFENSE,George,Ikott,FR,0
+12325090,11/23/2019,FCS,Georgetown,Holy Cross,DEFENSE,Jovone,Campbell,TOT,9
+12325091,11/23/2019,FCS,Georgetown,Holy Cross,DEFENSE,Jovone,Campbell,SOLO,7
+12325092,11/23/2019,FCS,Georgetown,Holy Cross,DEFENSE,Jovone,Campbell,SACKS,1
+12325093,11/23/2019,FCS,Georgetown,Holy Cross,DEFENSE,Jovone,Campbell,TFL,1
+12325094,11/23/2019,FCS,Georgetown,Holy Cross,DEFENSE,Jovone,Campbell,INT,0
+12325095,11/23/2019,FCS,Georgetown,Holy Cross,DEFENSE,Jovone,Campbell,FF,0
+12325096,11/23/2019,FCS,Georgetown,Holy Cross,DEFENSE,Jovone,Campbell,FR,0
+12325097,11/23/2019,FCS,Holy Cross,Georgetown,RUSHING,Domenic,Cozier,ATT,23
+12325098,11/23/2019,FCS,Holy Cross,Georgetown,RUSHING,Domenic,Cozier,YDS,161
+12325099,11/23/2019,FCS,Holy Cross,Georgetown,RUSHING,Domenic,Cozier,TD,2
+12325100,11/23/2019,FCS,Holy Cross,Georgetown,RUSHING,Domenic,Cozier,LONG,51
+12325101,11/23/2019,FCS,Holy Cross,Georgetown,RUSHING,Miles,Alexander,ATT,4
+12325102,11/23/2019,FCS,Holy Cross,Georgetown,RUSHING,Miles,Alexander,YDS,17
+12325103,11/23/2019,FCS,Holy Cross,Georgetown,RUSHING,Miles,Alexander,TD,0
+12325104,11/23/2019,FCS,Holy Cross,Georgetown,RUSHING,Miles,Alexander,LONG,9
+12325105,11/23/2019,FCS,Holy Cross,Georgetown,RUSHING,Peter,Oliver,ATT,6
+12325106,11/23/2019,FCS,Holy Cross,Georgetown,RUSHING,Peter,Oliver,YDS,12
+12325107,11/23/2019,FCS,Holy Cross,Georgetown,RUSHING,Peter,Oliver,TD,0
+12325108,11/23/2019,FCS,Holy Cross,Georgetown,RUSHING,Peter,Oliver,LONG,13
+12325109,11/23/2019,FCS,Holy Cross,Georgetown,RUSHING,Connor,Degenhardt,ATT,8
+12325110,11/23/2019,FCS,Holy Cross,Georgetown,RUSHING,Connor,Degenhardt,YDS,7
+12325111,11/23/2019,FCS,Holy Cross,Georgetown,RUSHING,Connor,Degenhardt,TD,0
+12325112,11/23/2019,FCS,Holy Cross,Georgetown,RUSHING,Connor,Degenhardt,LONG,9
+12325113,11/23/2019,FCS,Holy Cross,Georgetown,RUSHING,,Team,ATT,2
+12325114,11/23/2019,FCS,Holy Cross,Georgetown,RUSHING,,Team,YDS,-2
+12325115,11/23/2019,FCS,Holy Cross,Georgetown,RUSHING,,Team,TD,0
+12325116,11/23/2019,FCS,Holy Cross,Georgetown,RUSHING,,Team,LONG,0
+12325117,11/23/2019,FCS,Holy Cross,Georgetown,PASSING,Connor,Degenhardt,CP-ATT-INT,10-14-0
+12325118,11/23/2019,FCS,Holy Cross,Georgetown,PASSING,Connor,Degenhardt,YDS,144
+12325119,11/23/2019,FCS,Holy Cross,Georgetown,PASSING,Connor,Degenhardt,TD,0
+12325120,11/23/2019,FCS,Holy Cross,Georgetown,PASSING,Connor,Degenhardt,LONG,46
+12325121,11/23/2019,FCS,Holy Cross,Georgetown,RECEIVING,Ayir,Asante,REC,6
+12325122,11/23/2019,FCS,Holy Cross,Georgetown,RECEIVING,Ayir,Asante,YDS,78
+12325123,11/23/2019,FCS,Holy Cross,Georgetown,RECEIVING,Ayir,Asante,TD,0
+12325124,11/23/2019,FCS,Holy Cross,Georgetown,RECEIVING,Ayir,Asante,LONG,46
+12325125,11/23/2019,FCS,Holy Cross,Georgetown,RECEIVING,Derek,Mountain,REC,1
+12325126,11/23/2019,FCS,Holy Cross,Georgetown,RECEIVING,Derek,Mountain,YDS,30
+12325127,11/23/2019,FCS,Holy Cross,Georgetown,RECEIVING,Derek,Mountain,TD,0
+12325128,11/23/2019,FCS,Holy Cross,Georgetown,RECEIVING,Derek,Mountain,LONG,30
+12325129,11/23/2019,FCS,Holy Cross,Georgetown,RECEIVING,Tenio,Ayeni,REC,1
+12325130,11/23/2019,FCS,Holy Cross,Georgetown,RECEIVING,Tenio,Ayeni,YDS,22
+12325131,11/23/2019,FCS,Holy Cross,Georgetown,RECEIVING,Tenio,Ayeni,TD,0
+12325132,11/23/2019,FCS,Holy Cross,Georgetown,RECEIVING,Tenio,Ayeni,LONG,22
+12325133,11/23/2019,FCS,Holy Cross,Georgetown,RECEIVING,Dean,Nagle,REC,1
+12325134,11/23/2019,FCS,Holy Cross,Georgetown,RECEIVING,Dean,Nagle,YDS,10
+12325135,11/23/2019,FCS,Holy Cross,Georgetown,RECEIVING,Dean,Nagle,TD,0
+12325136,11/23/2019,FCS,Holy Cross,Georgetown,RECEIVING,Dean,Nagle,LONG,10
+12325137,11/23/2019,FCS,Holy Cross,Georgetown,RECEIVING,Domenic,Cozier,REC,1
+12325138,11/23/2019,FCS,Holy Cross,Georgetown,RECEIVING,Domenic,Cozier,YDS,4
+12325139,11/23/2019,FCS,Holy Cross,Georgetown,RECEIVING,Domenic,Cozier,TD,0
+12325140,11/23/2019,FCS,Holy Cross,Georgetown,RECEIVING,Domenic,Cozier,LONG,4
+12325141,11/23/2019,FCS,Holy Cross,Georgetown,KICKING,Derek,Ng,FG-FGA,1/2
+12325142,11/23/2019,FCS,Holy Cross,Georgetown,KICKING,Derek,Ng,LONG,21
+12325143,11/23/2019,FCS,Holy Cross,Georgetown,KICKING,Derek,Ng,XP,3
+12325144,11/23/2019,FCS,Holy Cross,Georgetown,KICKING,Derek,Ng,PTS,6
+12325145,11/23/2019,FCS,Holy Cross,Georgetown,PUNTING,Cody,Wilkinson,NO,4
+12325146,11/23/2019,FCS,Holy Cross,Georgetown,PUNTING,Cody,Wilkinson,YDS,130
+12325147,11/23/2019,FCS,Holy Cross,Georgetown,PUNTING,Cody,Wilkinson,AVG,32.5
+12325148,11/23/2019,FCS,Holy Cross,Georgetown,PUNTING,Cody,Wilkinson,LONG,41
+12325149,11/23/2019,FCS,Holy Cross,Georgetown,PUNTING,Derek,Ng,NO,1
+12325150,11/23/2019,FCS,Holy Cross,Georgetown,PUNTING,Derek,Ng,YDS,32
+12325151,11/23/2019,FCS,Holy Cross,Georgetown,PUNTING,Derek,Ng,AVG,32.0
+12325152,11/23/2019,FCS,Holy Cross,Georgetown,PUNTING,Derek,Ng,LONG,32
+12325153,11/23/2019,FCS,Holy Cross,Georgetown,PUNT RETURNS,Ayir,Asante,NO,1
+12325154,11/23/2019,FCS,Holy Cross,Georgetown,PUNT RETURNS,Ayir,Asante,YDS,4
+12325155,11/23/2019,FCS,Holy Cross,Georgetown,PUNT RETURNS,Ayir,Asante,AVG,4.0
+12325156,11/23/2019,FCS,Holy Cross,Georgetown,PUNT RETURNS,Ayir,Asante,LONG,4
+12325157,11/23/2019,FCS,Holy Cross,Georgetown,DEFENSE,Mark,Ebo,TOT,4
+12325158,11/23/2019,FCS,Holy Cross,Georgetown,DEFENSE,Mark,Ebo,SOLO,3
+12325159,11/23/2019,FCS,Holy Cross,Georgetown,DEFENSE,Mark,Ebo,SACKS,1.5
+12325160,11/23/2019,FCS,Holy Cross,Georgetown,DEFENSE,Mark,Ebo,TFL,2
+12325161,11/23/2019,FCS,Holy Cross,Georgetown,DEFENSE,Mark,Ebo,INT,0
+12325162,11/23/2019,FCS,Holy Cross,Georgetown,DEFENSE,Mark,Ebo,FF,0
+12325163,11/23/2019,FCS,Holy Cross,Georgetown,DEFENSE,Mark,Ebo,FR,0
+12325164,11/23/2019,FCS,Holy Cross,Georgetown,DEFENSE,Dan,Kuznetsov,TOT,4
+12325165,11/23/2019,FCS,Holy Cross,Georgetown,DEFENSE,Dan,Kuznetsov,SOLO,3
+12325166,11/23/2019,FCS,Holy Cross,Georgetown,DEFENSE,Dan,Kuznetsov,SACKS,1
+12325167,11/23/2019,FCS,Holy Cross,Georgetown,DEFENSE,Dan,Kuznetsov,TFL,1
+12325168,11/23/2019,FCS,Holy Cross,Georgetown,DEFENSE,Dan,Kuznetsov,INT,0
+12325169,11/23/2019,FCS,Holy Cross,Georgetown,DEFENSE,Dan,Kuznetsov,FF,0
+12325170,11/23/2019,FCS,Holy Cross,Georgetown,DEFENSE,Dan,Kuznetsov,FR,0
+12325171,11/23/2019,FCS,Holy Cross,Georgetown,DEFENSE,Liam,Doran,TOT,3
+12325172,11/23/2019,FCS,Holy Cross,Georgetown,DEFENSE,Liam,Doran,SOLO,2
+12325173,11/23/2019,FCS,Holy Cross,Georgetown,DEFENSE,Liam,Doran,SACKS,1
+12325174,11/23/2019,FCS,Holy Cross,Georgetown,DEFENSE,Liam,Doran,TFL,1
+12325175,11/23/2019,FCS,Holy Cross,Georgetown,DEFENSE,Liam,Doran,INT,0
+12325176,11/23/2019,FCS,Holy Cross,Georgetown,DEFENSE,Liam,Doran,FF,0
+12325177,11/23/2019,FCS,Holy Cross,Georgetown,DEFENSE,Liam,Doran,FR,0
+12325178,11/23/2019,FCS,Holy Cross,Georgetown,DEFENSE,Jacob,Dobbs,TOT,7
+12325179,11/23/2019,FCS,Holy Cross,Georgetown,DEFENSE,Jacob,Dobbs,SOLO,5
+12325180,11/23/2019,FCS,Holy Cross,Georgetown,DEFENSE,Jacob,Dobbs,SACKS,1
+12325181,11/23/2019,FCS,Holy Cross,Georgetown,DEFENSE,Jacob,Dobbs,TFL,2
+12325182,11/23/2019,FCS,Holy Cross,Georgetown,DEFENSE,Jacob,Dobbs,INT,2
+12325183,11/23/2019,FCS,Holy Cross,Georgetown,DEFENSE,Jacob,Dobbs,FF,0
+12325184,11/23/2019,FCS,Holy Cross,Georgetown,DEFENSE,Jacob,Dobbs,FR,0
+12325185,11/23/2019,FCS,Holy Cross,Georgetown,DEFENSE,Walter,Reynolds,TOT,3
+12325186,11/23/2019,FCS,Holy Cross,Georgetown,DEFENSE,Walter,Reynolds,SOLO,3
+12325187,11/23/2019,FCS,Holy Cross,Georgetown,DEFENSE,Walter,Reynolds,SACKS,0
+12325188,11/23/2019,FCS,Holy Cross,Georgetown,DEFENSE,Walter,Reynolds,TFL,0
+12325189,11/23/2019,FCS,Holy Cross,Georgetown,DEFENSE,Walter,Reynolds,INT,1
+12325190,11/23/2019,FCS,Holy Cross,Georgetown,DEFENSE,Walter,Reynolds,FF,1
+12325191,11/23/2019,FCS,Holy Cross,Georgetown,DEFENSE,Walter,Reynolds,FR,1

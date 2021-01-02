@@ -1,0 +1,141 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9113001,11/14/2015,FCS,Dartmouth,Brown,RUSHING,Kyle,Bramble,ATT,17
+9113002,11/14/2015,FCS,Dartmouth,Brown,RUSHING,Kyle,Bramble,YDS,93
+9113003,11/14/2015,FCS,Dartmouth,Brown,RUSHING,Kyle,Bramble,TD,1
+9113004,11/14/2015,FCS,Dartmouth,Brown,RUSHING,Kyle,Bramble,LONG,19
+9113005,11/14/2015,FCS,Dartmouth,Brown,RUSHING,Brian,Grove,ATT,8
+9113006,11/14/2015,FCS,Dartmouth,Brown,RUSHING,Brian,Grove,YDS,90
+9113007,11/14/2015,FCS,Dartmouth,Brown,RUSHING,Brian,Grove,TD,1
+9113008,11/14/2015,FCS,Dartmouth,Brown,RUSHING,Brian,Grove,LONG,61
+9113009,11/14/2015,FCS,Dartmouth,Brown,RUSHING,Ryder,Stone,ATT,5
+9113010,11/14/2015,FCS,Dartmouth,Brown,RUSHING,Ryder,Stone,YDS,15
+9113011,11/14/2015,FCS,Dartmouth,Brown,RUSHING,Ryder,Stone,TD,1
+9113012,11/14/2015,FCS,Dartmouth,Brown,RUSHING,Ryder,Stone,LONG,9
+9113013,11/14/2015,FCS,Dartmouth,Brown,RUSHING,,Team,ATT,1
+9113014,11/14/2015,FCS,Dartmouth,Brown,RUSHING,,Team,YDS,-2
+9113015,11/14/2015,FCS,Dartmouth,Brown,RUSHING,,Team,TD,0
+9113016,11/14/2015,FCS,Dartmouth,Brown,RUSHING,,Team,LONG,0
+9113017,11/14/2015,FCS,Dartmouth,Brown,RUSHING,Dalyn,Williams,ATT,7
+9113018,11/14/2015,FCS,Dartmouth,Brown,RUSHING,Dalyn,Williams,YDS,-25
+9113019,11/14/2015,FCS,Dartmouth,Brown,RUSHING,Dalyn,Williams,TD,0
+9113020,11/14/2015,FCS,Dartmouth,Brown,RUSHING,Dalyn,Williams,LONG,8
+9113021,11/14/2015,FCS,Dartmouth,Brown,PASSING,Dalyn,Williams,CP-ATT-INT,11-22-3
+9113022,11/14/2015,FCS,Dartmouth,Brown,PASSING,Dalyn,Williams,YDS,110
+9113023,11/14/2015,FCS,Dartmouth,Brown,PASSING,Dalyn,Williams,TD,1
+9113024,11/14/2015,FCS,Dartmouth,Brown,PASSING,Dalyn,Williams,LONG,0
+9113025,11/14/2015,FCS,Dartmouth,Brown,RECEIVING,Houston,Brown,REC,3
+9113026,11/14/2015,FCS,Dartmouth,Brown,RECEIVING,Houston,Brown,YDS,45
+9113027,11/14/2015,FCS,Dartmouth,Brown,RECEIVING,Houston,Brown,TD,1
+9113028,11/14/2015,FCS,Dartmouth,Brown,RECEIVING,Houston,Brown,LONG,24
+9113029,11/14/2015,FCS,Dartmouth,Brown,RECEIVING,Kyle,Bramble,REC,2
+9113030,11/14/2015,FCS,Dartmouth,Brown,RECEIVING,Kyle,Bramble,YDS,38
+9113031,11/14/2015,FCS,Dartmouth,Brown,RECEIVING,Kyle,Bramble,TD,0
+9113032,11/14/2015,FCS,Dartmouth,Brown,RECEIVING,Kyle,Bramble,LONG,23
+9113033,11/14/2015,FCS,Dartmouth,Brown,RECEIVING,Victor,Williams,REC,4
+9113034,11/14/2015,FCS,Dartmouth,Brown,RECEIVING,Victor,Williams,YDS,25
+9113035,11/14/2015,FCS,Dartmouth,Brown,RECEIVING,Victor,Williams,TD,0
+9113036,11/14/2015,FCS,Dartmouth,Brown,RECEIVING,Victor,Williams,LONG,16
+9113037,11/14/2015,FCS,Dartmouth,Brown,RECEIVING,Ryan,McManus,REC,2
+9113038,11/14/2015,FCS,Dartmouth,Brown,RECEIVING,Ryan,McManus,YDS,2
+9113039,11/14/2015,FCS,Dartmouth,Brown,RECEIVING,Ryan,McManus,TD,0
+9113040,11/14/2015,FCS,Dartmouth,Brown,RECEIVING,Ryan,McManus,LONG,4
+9113041,11/14/2015,FCS,Dartmouth,Brown,KICKING,Alex,Gakenheimer,FG-FGA,0/0
+9113042,11/14/2015,FCS,Dartmouth,Brown,KICKING,Alex,Gakenheimer,LONG,-
+9113043,11/14/2015,FCS,Dartmouth,Brown,KICKING,Alex,Gakenheimer,XP,4
+9113044,11/14/2015,FCS,Dartmouth,Brown,KICKING,Alex,Gakenheimer,PTS,4
+9113045,11/14/2015,FCS,Dartmouth,Brown,PUNTING,Ben,Kepley,NO,5
+9113046,11/14/2015,FCS,Dartmouth,Brown,PUNTING,Ben,Kepley,YDS,130
+9113047,11/14/2015,FCS,Dartmouth,Brown,PUNTING,Ben,Kepley,AVG,26.0
+9113048,11/14/2015,FCS,Dartmouth,Brown,PUNTING,Ben,Kepley,LONG,52
+9113049,11/14/2015,FCS,Dartmouth,Brown,PUNT RETURNS,Ryan,McManus,NO,4
+9113050,11/14/2015,FCS,Dartmouth,Brown,PUNT RETURNS,Ryan,McManus,YDS,10
+9113051,11/14/2015,FCS,Dartmouth,Brown,PUNT RETURNS,Ryan,McManus,AVG,2.5
+9113052,11/14/2015,FCS,Dartmouth,Brown,PUNT RETURNS,Ryan,McManus,LONG,8
+9113053,11/14/2015,FCS,Dartmouth,Brown,KICK RETURNS,Ryder,Stone,NO,1
+9113054,11/14/2015,FCS,Dartmouth,Brown,KICK RETURNS,Ryder,Stone,YDS,89
+9113055,11/14/2015,FCS,Dartmouth,Brown,KICK RETURNS,Ryder,Stone,AVG,89.0
+9113056,11/14/2015,FCS,Dartmouth,Brown,KICK RETURNS,Ryder,Stone,LONG,89
+9113057,11/14/2015,FCS,Dartmouth,Brown,KICK RETURNS,Danny,McManus,NO,1
+9113058,11/14/2015,FCS,Dartmouth,Brown,KICK RETURNS,Danny,McManus,YDS,6
+9113059,11/14/2015,FCS,Dartmouth,Brown,KICK RETURNS,Danny,McManus,AVG,6.0
+9113060,11/14/2015,FCS,Dartmouth,Brown,KICK RETURNS,Danny,McManus,LONG,6
+9113061,11/14/2015,FCS,Dartmouth,Brown,KICK RETURNS,David,Caldwell,NO,1
+9113062,11/14/2015,FCS,Dartmouth,Brown,KICK RETURNS,David,Caldwell,YDS,0
+9113063,11/14/2015,FCS,Dartmouth,Brown,KICK RETURNS,David,Caldwell,AVG,-
+9113064,11/14/2015,FCS,Dartmouth,Brown,KICK RETURNS,David,Caldwell,LONG,0
+9113065,11/14/2015,FCS,Brown,Dartmouth,RUSHING,Kyle,Moreno,ATT,14
+9113066,11/14/2015,FCS,Brown,Dartmouth,RUSHING,Kyle,Moreno,YDS,78
+9113067,11/14/2015,FCS,Brown,Dartmouth,RUSHING,Kyle,Moreno,TD,1
+9113068,11/14/2015,FCS,Brown,Dartmouth,RUSHING,Kyle,Moreno,LONG,30
+9113069,11/14/2015,FCS,Brown,Dartmouth,RUSHING,Troy,Doles,ATT,6
+9113070,11/14/2015,FCS,Brown,Dartmouth,RUSHING,Troy,Doles,YDS,31
+9113071,11/14/2015,FCS,Brown,Dartmouth,RUSHING,Troy,Doles,TD,0
+9113072,11/14/2015,FCS,Brown,Dartmouth,RUSHING,Troy,Doles,LONG,14
+9113073,11/14/2015,FCS,Brown,Dartmouth,RUSHING,Seth,Rosenbauer,ATT,13
+9113074,11/14/2015,FCS,Brown,Dartmouth,RUSHING,Seth,Rosenbauer,YDS,29
+9113075,11/14/2015,FCS,Brown,Dartmouth,RUSHING,Seth,Rosenbauer,TD,1
+9113076,11/14/2015,FCS,Brown,Dartmouth,RUSHING,Seth,Rosenbauer,LONG,5
+9113077,11/14/2015,FCS,Brown,Dartmouth,RUSHING,Alexander,Jette,ATT,5
+9113078,11/14/2015,FCS,Brown,Dartmouth,RUSHING,Alexander,Jette,YDS,25
+9113079,11/14/2015,FCS,Brown,Dartmouth,RUSHING,Alexander,Jette,TD,0
+9113080,11/14/2015,FCS,Brown,Dartmouth,RUSHING,Alexander,Jette,LONG,13
+9113081,11/14/2015,FCS,Brown,Dartmouth,RUSHING,Johnny,Pena,ATT,5
+9113082,11/14/2015,FCS,Brown,Dartmouth,RUSHING,Johnny,Pena,YDS,20
+9113083,11/14/2015,FCS,Brown,Dartmouth,RUSHING,Johnny,Pena,TD,0
+9113084,11/14/2015,FCS,Brown,Dartmouth,RUSHING,Johnny,Pena,LONG,7
+9113085,11/14/2015,FCS,Brown,Dartmouth,RUSHING,Brian,Strachan,ATT,1
+9113086,11/14/2015,FCS,Brown,Dartmouth,RUSHING,Brian,Strachan,YDS,-4
+9113087,11/14/2015,FCS,Brown,Dartmouth,RUSHING,Brian,Strachan,TD,0
+9113088,11/14/2015,FCS,Brown,Dartmouth,RUSHING,Brian,Strachan,LONG,-4
+9113089,11/14/2015,FCS,Brown,Dartmouth,PASSING,Marcus,Fuller,CP-ATT-INT,13-20-3
+9113090,11/14/2015,FCS,Brown,Dartmouth,PASSING,Marcus,Fuller,YDS,84
+9113091,11/14/2015,FCS,Brown,Dartmouth,PASSING,Marcus,Fuller,TD,0
+9113092,11/14/2015,FCS,Brown,Dartmouth,PASSING,Marcus,Fuller,LONG,0
+9113093,11/14/2015,FCS,Brown,Dartmouth,PASSING,Kyle,Moreno,CP-ATT-INT,3-7-0
+9113094,11/14/2015,FCS,Brown,Dartmouth,PASSING,Kyle,Moreno,YDS,11
+9113095,11/14/2015,FCS,Brown,Dartmouth,PASSING,Kyle,Moreno,TD,0
+9113096,11/14/2015,FCS,Brown,Dartmouth,PASSING,Kyle,Moreno,LONG,0
+9113097,11/14/2015,FCS,Brown,Dartmouth,PASSING,Alexander,Jette,CP-ATT-INT,0-1-1
+9113098,11/14/2015,FCS,Brown,Dartmouth,PASSING,Alexander,Jette,YDS,0
+9113099,11/14/2015,FCS,Brown,Dartmouth,PASSING,Alexander,Jette,TD,0
+9113100,11/14/2015,FCS,Brown,Dartmouth,PASSING,Alexander,Jette,LONG,0
+9113101,11/14/2015,FCS,Brown,Dartmouth,PASSING,Troy,Doles,CP-ATT-INT,0-1-0
+9113102,11/14/2015,FCS,Brown,Dartmouth,PASSING,Troy,Doles,YDS,0
+9113103,11/14/2015,FCS,Brown,Dartmouth,PASSING,Troy,Doles,TD,0
+9113104,11/14/2015,FCS,Brown,Dartmouth,PASSING,Troy,Doles,LONG,0
+9113105,11/14/2015,FCS,Brown,Dartmouth,RECEIVING,Troy,Doles,REC,5
+9113106,11/14/2015,FCS,Brown,Dartmouth,RECEIVING,Troy,Doles,YDS,34
+9113107,11/14/2015,FCS,Brown,Dartmouth,RECEIVING,Troy,Doles,TD,0
+9113108,11/14/2015,FCS,Brown,Dartmouth,RECEIVING,Troy,Doles,LONG,10
+9113109,11/14/2015,FCS,Brown,Dartmouth,RECEIVING,Seth,Rosenbauer,REC,2
+9113110,11/14/2015,FCS,Brown,Dartmouth,RECEIVING,Seth,Rosenbauer,YDS,29
+9113111,11/14/2015,FCS,Brown,Dartmouth,RECEIVING,Seth,Rosenbauer,TD,0
+9113112,11/14/2015,FCS,Brown,Dartmouth,RECEIVING,Seth,Rosenbauer,LONG,18
+9113113,11/14/2015,FCS,Brown,Dartmouth,RECEIVING,Brian,Strachan,REC,4
+9113114,11/14/2015,FCS,Brown,Dartmouth,RECEIVING,Brian,Strachan,YDS,18
+9113115,11/14/2015,FCS,Brown,Dartmouth,RECEIVING,Brian,Strachan,TD,0
+9113116,11/14/2015,FCS,Brown,Dartmouth,RECEIVING,Brian,Strachan,LONG,12
+9113117,11/14/2015,FCS,Brown,Dartmouth,RECEIVING,Alexander,Jette,REC,3
+9113118,11/14/2015,FCS,Brown,Dartmouth,RECEIVING,Alexander,Jette,YDS,15
+9113119,11/14/2015,FCS,Brown,Dartmouth,RECEIVING,Alexander,Jette,TD,0
+9113120,11/14/2015,FCS,Brown,Dartmouth,RECEIVING,Alexander,Jette,LONG,7
+9113121,11/14/2015,FCS,Brown,Dartmouth,RECEIVING,Oliver,Bucka,REC,1
+9113122,11/14/2015,FCS,Brown,Dartmouth,RECEIVING,Oliver,Bucka,YDS,2
+9113123,11/14/2015,FCS,Brown,Dartmouth,RECEIVING,Oliver,Bucka,TD,0
+9113124,11/14/2015,FCS,Brown,Dartmouth,RECEIVING,Oliver,Bucka,LONG,2
+9113125,11/14/2015,FCS,Brown,Dartmouth,RECEIVING,Johnny,Pena,REC,1
+9113126,11/14/2015,FCS,Brown,Dartmouth,RECEIVING,Johnny,Pena,YDS,-3
+9113127,11/14/2015,FCS,Brown,Dartmouth,RECEIVING,Johnny,Pena,TD,0
+9113128,11/14/2015,FCS,Brown,Dartmouth,RECEIVING,Johnny,Pena,LONG,-3
+9113129,11/14/2015,FCS,Brown,Dartmouth,KICKING,Grant,Senne,FG-FGA,0/1
+9113130,11/14/2015,FCS,Brown,Dartmouth,KICKING,Grant,Senne,LONG,0
+9113131,11/14/2015,FCS,Brown,Dartmouth,KICKING,Grant,Senne,XP,0
+9113132,11/14/2015,FCS,Brown,Dartmouth,KICKING,Grant,Senne,PTS,0
+9113133,11/14/2015,FCS,Brown,Dartmouth,PUNTING,Alexander,Jette,NO,5
+9113134,11/14/2015,FCS,Brown,Dartmouth,PUNTING,Alexander,Jette,YDS,180
+9113135,11/14/2015,FCS,Brown,Dartmouth,PUNTING,Alexander,Jette,AVG,36.0
+9113136,11/14/2015,FCS,Brown,Dartmouth,PUNTING,Alexander,Jette,LONG,53
+9113137,11/14/2015,FCS,Brown,Dartmouth,KICK RETURNS,Howard,Strachan,NO,4
+9113138,11/14/2015,FCS,Brown,Dartmouth,KICK RETURNS,Howard,Strachan,YDS,65
+9113139,11/14/2015,FCS,Brown,Dartmouth,KICK RETURNS,Howard,Strachan,AVG,16.2
+9113140,11/14/2015,FCS,Brown,Dartmouth,KICK RETURNS,Howard,Strachan,LONG,31

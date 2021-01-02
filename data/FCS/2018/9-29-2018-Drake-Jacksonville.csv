@@ -1,0 +1,199 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+11096001,9/29/2018,FCS,Drake,Jacksonville,RUSHING,Drew,Lauer,ATT,11
+11096002,9/29/2018,FCS,Drake,Jacksonville,RUSHING,Drew,Lauer,YDS,44
+11096003,9/29/2018,FCS,Drake,Jacksonville,RUSHING,Drew,Lauer,TD,0
+11096004,9/29/2018,FCS,Drake,Jacksonville,RUSHING,Drew,Lauer,LONG,13
+11096005,9/29/2018,FCS,Drake,Jacksonville,RUSHING,Cross,Robinson,ATT,8
+11096006,9/29/2018,FCS,Drake,Jacksonville,RUSHING,Cross,Robinson,YDS,26
+11096007,9/29/2018,FCS,Drake,Jacksonville,RUSHING,Cross,Robinson,TD,1
+11096008,9/29/2018,FCS,Drake,Jacksonville,RUSHING,Cross,Robinson,LONG,6
+11096009,9/29/2018,FCS,Drake,Jacksonville,RUSHING,Isaiah,Skinner,ATT,4
+11096010,9/29/2018,FCS,Drake,Jacksonville,RUSHING,Isaiah,Skinner,YDS,22
+11096011,9/29/2018,FCS,Drake,Jacksonville,RUSHING,Isaiah,Skinner,TD,0
+11096012,9/29/2018,FCS,Drake,Jacksonville,RUSHING,Isaiah,Skinner,LONG,11
+11096013,9/29/2018,FCS,Drake,Jacksonville,RUSHING,Braeden,Hartwig,ATT,6
+11096014,9/29/2018,FCS,Drake,Jacksonville,RUSHING,Braeden,Hartwig,YDS,13
+11096015,9/29/2018,FCS,Drake,Jacksonville,RUSHING,Braeden,Hartwig,TD,0
+11096016,9/29/2018,FCS,Drake,Jacksonville,RUSHING,Braeden,Hartwig,LONG,6
+11096017,9/29/2018,FCS,Drake,Jacksonville,RUSHING,Alex,Bray,ATT,1
+11096018,9/29/2018,FCS,Drake,Jacksonville,RUSHING,Alex,Bray,YDS,11
+11096019,9/29/2018,FCS,Drake,Jacksonville,RUSHING,Alex,Bray,TD,0
+11096020,9/29/2018,FCS,Drake,Jacksonville,RUSHING,Alex,Bray,LONG,11
+11096021,9/29/2018,FCS,Drake,Jacksonville,RUSHING,Grant,Kraemer,ATT,1
+11096022,9/29/2018,FCS,Drake,Jacksonville,RUSHING,Grant,Kraemer,YDS,-14
+11096023,9/29/2018,FCS,Drake,Jacksonville,RUSHING,Grant,Kraemer,TD,0
+11096024,9/29/2018,FCS,Drake,Jacksonville,RUSHING,Grant,Kraemer,LONG,0
+11096025,9/29/2018,FCS,Drake,Jacksonville,PASSING,Grant,Kraemer,CP-ATT-INT,16-24-1
+11096026,9/29/2018,FCS,Drake,Jacksonville,PASSING,Grant,Kraemer,YDS,176
+11096027,9/29/2018,FCS,Drake,Jacksonville,PASSING,Grant,Kraemer,TD,4
+11096028,9/29/2018,FCS,Drake,Jacksonville,PASSING,Grant,Kraemer,LONG,43
+11096029,9/29/2018,FCS,Drake,Jacksonville,PASSING,Alex,Bray,CP-ATT-INT,0-1-0
+11096030,9/29/2018,FCS,Drake,Jacksonville,PASSING,Alex,Bray,YDS,0
+11096031,9/29/2018,FCS,Drake,Jacksonville,PASSING,Alex,Bray,TD,0
+11096032,9/29/2018,FCS,Drake,Jacksonville,PASSING,Alex,Bray,LONG,0
+11096033,9/29/2018,FCS,Drake,Jacksonville,RECEIVING,Steven,Doran,REC,5
+11096034,9/29/2018,FCS,Drake,Jacksonville,RECEIVING,Steven,Doran,YDS,103
+11096035,9/29/2018,FCS,Drake,Jacksonville,RECEIVING,Steven,Doran,TD,3
+11096036,9/29/2018,FCS,Drake,Jacksonville,RECEIVING,Steven,Doran,LONG,43
+11096037,9/29/2018,FCS,Drake,Jacksonville,RECEIVING,Mitch,McFarlane,REC,4
+11096038,9/29/2018,FCS,Drake,Jacksonville,RECEIVING,Mitch,McFarlane,YDS,33
+11096039,9/29/2018,FCS,Drake,Jacksonville,RECEIVING,Mitch,McFarlane,TD,1
+11096040,9/29/2018,FCS,Drake,Jacksonville,RECEIVING,Mitch,McFarlane,LONG,11
+11096041,9/29/2018,FCS,Drake,Jacksonville,RECEIVING,Devin,Cates,REC,1
+11096042,9/29/2018,FCS,Drake,Jacksonville,RECEIVING,Devin,Cates,YDS,14
+11096043,9/29/2018,FCS,Drake,Jacksonville,RECEIVING,Devin,Cates,TD,0
+11096044,9/29/2018,FCS,Drake,Jacksonville,RECEIVING,Devin,Cates,LONG,14
+11096045,9/29/2018,FCS,Drake,Jacksonville,RECEIVING,Zach,DeLeon,REC,2
+11096046,9/29/2018,FCS,Drake,Jacksonville,RECEIVING,Zach,DeLeon,YDS,13
+11096047,9/29/2018,FCS,Drake,Jacksonville,RECEIVING,Zach,DeLeon,TD,0
+11096048,9/29/2018,FCS,Drake,Jacksonville,RECEIVING,Zach,DeLeon,LONG,10
+11096049,9/29/2018,FCS,Drake,Jacksonville,RECEIVING,Braeden,Hartwig,REC,1
+11096050,9/29/2018,FCS,Drake,Jacksonville,RECEIVING,Braeden,Hartwig,YDS,6
+11096051,9/29/2018,FCS,Drake,Jacksonville,RECEIVING,Braeden,Hartwig,TD,0
+11096052,9/29/2018,FCS,Drake,Jacksonville,RECEIVING,Braeden,Hartwig,LONG,6
+11096053,9/29/2018,FCS,Drake,Jacksonville,RECEIVING,Grant,Gossling,REC,1
+11096054,9/29/2018,FCS,Drake,Jacksonville,RECEIVING,Grant,Gossling,YDS,6
+11096055,9/29/2018,FCS,Drake,Jacksonville,RECEIVING,Grant,Gossling,TD,0
+11096056,9/29/2018,FCS,Drake,Jacksonville,RECEIVING,Grant,Gossling,LONG,6
+11096057,9/29/2018,FCS,Drake,Jacksonville,RECEIVING,Cross,Robinson,REC,2
+11096058,9/29/2018,FCS,Drake,Jacksonville,RECEIVING,Cross,Robinson,YDS,1
+11096059,9/29/2018,FCS,Drake,Jacksonville,RECEIVING,Cross,Robinson,TD,0
+11096060,9/29/2018,FCS,Drake,Jacksonville,RECEIVING,Cross,Robinson,LONG,2
+11096061,9/29/2018,FCS,Drake,Jacksonville,KICKING,Danny,Donley,FG-FGA,2/2
+11096062,9/29/2018,FCS,Drake,Jacksonville,KICKING,Danny,Donley,LONG,33
+11096063,9/29/2018,FCS,Drake,Jacksonville,KICKING,Danny,Donley,XP,5
+11096064,9/29/2018,FCS,Drake,Jacksonville,KICKING,Danny,Donley,PTS,11
+11096065,9/29/2018,FCS,Drake,Jacksonville,PUNTING,Ross,Kennedy,NO,1
+11096066,9/29/2018,FCS,Drake,Jacksonville,PUNTING,Ross,Kennedy,YDS,37
+11096067,9/29/2018,FCS,Drake,Jacksonville,PUNTING,Ross,Kennedy,AVG,37.0
+11096068,9/29/2018,FCS,Drake,Jacksonville,PUNTING,Ross,Kennedy,LONG,37
+11096069,9/29/2018,FCS,Drake,Jacksonville,PUNTING,,Team,NO,1
+11096070,9/29/2018,FCS,Drake,Jacksonville,PUNTING,,Team,YDS,-3
+11096071,9/29/2018,FCS,Drake,Jacksonville,PUNTING,,Team,AVG,-
+11096072,9/29/2018,FCS,Drake,Jacksonville,PUNTING,,Team,LONG,0
+11096073,9/29/2018,FCS,Drake,Jacksonville,PUNT RETURNS,Terry,Wallen,NO,2
+11096074,9/29/2018,FCS,Drake,Jacksonville,PUNT RETURNS,Terry,Wallen,YDS,36
+11096075,9/29/2018,FCS,Drake,Jacksonville,PUNT RETURNS,Terry,Wallen,AVG,18.0
+11096076,9/29/2018,FCS,Drake,Jacksonville,PUNT RETURNS,Terry,Wallen,LONG,21
+11096077,9/29/2018,FCS,Drake,Jacksonville,PUNT RETURNS,Will,Kulick,NO,1
+11096078,9/29/2018,FCS,Drake,Jacksonville,PUNT RETURNS,Will,Kulick,YDS,14
+11096079,9/29/2018,FCS,Drake,Jacksonville,PUNT RETURNS,Will,Kulick,AVG,14.0
+11096080,9/29/2018,FCS,Drake,Jacksonville,PUNT RETURNS,Will,Kulick,LONG,0
+11096081,9/29/2018,FCS,Drake,Jacksonville,KICK RETURNS,Braeden,Hartwig,NO,1
+11096082,9/29/2018,FCS,Drake,Jacksonville,KICK RETURNS,Braeden,Hartwig,YDS,24
+11096083,9/29/2018,FCS,Drake,Jacksonville,KICK RETURNS,Braeden,Hartwig,AVG,24.0
+11096084,9/29/2018,FCS,Drake,Jacksonville,KICK RETURNS,Braeden,Hartwig,LONG,24
+11096085,9/29/2018,FCS,Drake,Jacksonville,DEFENSE,Tyler,Terveer,TOT,0
+11096086,9/29/2018,FCS,Drake,Jacksonville,DEFENSE,Tyler,Terveer,SOLO,0
+11096087,9/29/2018,FCS,Drake,Jacksonville,DEFENSE,Tyler,Terveer,SACKS,0.5
+11096088,9/29/2018,FCS,Drake,Jacksonville,DEFENSE,Tyler,Terveer,TFL,0
+11096089,9/29/2018,FCS,Drake,Jacksonville,DEFENSE,Tyler,Terveer,INT,0
+11096090,9/29/2018,FCS,Drake,Jacksonville,DEFENSE,Tyler,Terveer,FF,0
+11096091,9/29/2018,FCS,Drake,Jacksonville,DEFENSE,Tyler,Terveer,FR,0
+11096092,9/29/2018,FCS,Drake,Jacksonville,DEFENSE,Jack,Borvan,TOT,0
+11096093,9/29/2018,FCS,Drake,Jacksonville,DEFENSE,Jack,Borvan,SOLO,0
+11096094,9/29/2018,FCS,Drake,Jacksonville,DEFENSE,Jack,Borvan,SACKS,1
+11096095,9/29/2018,FCS,Drake,Jacksonville,DEFENSE,Jack,Borvan,TFL,0
+11096096,9/29/2018,FCS,Drake,Jacksonville,DEFENSE,Jack,Borvan,INT,0
+11096097,9/29/2018,FCS,Drake,Jacksonville,DEFENSE,Jack,Borvan,FF,0
+11096098,9/29/2018,FCS,Drake,Jacksonville,DEFENSE,Jack,Borvan,FR,0
+11096099,9/29/2018,FCS,Drake,Jacksonville,DEFENSE,Kieran,Severa,TOT,0
+11096100,9/29/2018,FCS,Drake,Jacksonville,DEFENSE,Kieran,Severa,SOLO,0
+11096101,9/29/2018,FCS,Drake,Jacksonville,DEFENSE,Kieran,Severa,SACKS,1.5
+11096102,9/29/2018,FCS,Drake,Jacksonville,DEFENSE,Kieran,Severa,TFL,0
+11096103,9/29/2018,FCS,Drake,Jacksonville,DEFENSE,Kieran,Severa,INT,0
+11096104,9/29/2018,FCS,Drake,Jacksonville,DEFENSE,Kieran,Severa,FF,0
+11096105,9/29/2018,FCS,Drake,Jacksonville,DEFENSE,Kieran,Severa,FR,1
+11096106,9/29/2018,FCS,Drake,Jacksonville,DEFENSE,Jeran,Proctor,TOT,0
+11096107,9/29/2018,FCS,Drake,Jacksonville,DEFENSE,Jeran,Proctor,SOLO,0
+11096108,9/29/2018,FCS,Drake,Jacksonville,DEFENSE,Jeran,Proctor,SACKS,0
+11096109,9/29/2018,FCS,Drake,Jacksonville,DEFENSE,Jeran,Proctor,TFL,0
+11096110,9/29/2018,FCS,Drake,Jacksonville,DEFENSE,Jeran,Proctor,INT,1
+11096111,9/29/2018,FCS,Drake,Jacksonville,DEFENSE,Jeran,Proctor,FF,0
+11096112,9/29/2018,FCS,Drake,Jacksonville,DEFENSE,Jeran,Proctor,FR,0
+11096113,9/29/2018,FCS,Drake,Jacksonville,DEFENSE,Austin,Dismond,TOT,0
+11096114,9/29/2018,FCS,Drake,Jacksonville,DEFENSE,Austin,Dismond,SOLO,0
+11096115,9/29/2018,FCS,Drake,Jacksonville,DEFENSE,Austin,Dismond,SACKS,0
+11096116,9/29/2018,FCS,Drake,Jacksonville,DEFENSE,Austin,Dismond,TFL,0
+11096117,9/29/2018,FCS,Drake,Jacksonville,DEFENSE,Austin,Dismond,INT,0
+11096118,9/29/2018,FCS,Drake,Jacksonville,DEFENSE,Austin,Dismond,FF,1
+11096119,9/29/2018,FCS,Drake,Jacksonville,DEFENSE,Austin,Dismond,FR,0
+11096120,9/29/2018,FCS,Jacksonville,Drake,RUSHING,Calvin,TurnerJr.,ATT,27
+11096121,9/29/2018,FCS,Jacksonville,Drake,RUSHING,Calvin,TurnerJr.,YDS,137
+11096122,9/29/2018,FCS,Jacksonville,Drake,RUSHING,Calvin,TurnerJr.,TD,1
+11096123,9/29/2018,FCS,Jacksonville,Drake,RUSHING,Calvin,TurnerJr.,LONG,73
+11096124,9/29/2018,FCS,Jacksonville,Drake,RUSHING,A.J.,Davis,ATT,9
+11096125,9/29/2018,FCS,Jacksonville,Drake,RUSHING,A.J.,Davis,YDS,23
+11096126,9/29/2018,FCS,Jacksonville,Drake,RUSHING,A.J.,Davis,TD,0
+11096127,9/29/2018,FCS,Jacksonville,Drake,RUSHING,A.J.,Davis,LONG,4
+11096128,9/29/2018,FCS,Jacksonville,Drake,RUSHING,Prince,Gray,ATT,1
+11096129,9/29/2018,FCS,Jacksonville,Drake,RUSHING,Prince,Gray,YDS,17
+11096130,9/29/2018,FCS,Jacksonville,Drake,RUSHING,Prince,Gray,TD,0
+11096131,9/29/2018,FCS,Jacksonville,Drake,RUSHING,Prince,Gray,LONG,17
+11096132,9/29/2018,FCS,Jacksonville,Drake,RUSHING,Garnett,Nicholas,ATT,2
+11096133,9/29/2018,FCS,Jacksonville,Drake,RUSHING,Garnett,Nicholas,YDS,14
+11096134,9/29/2018,FCS,Jacksonville,Drake,RUSHING,Garnett,Nicholas,TD,0
+11096135,9/29/2018,FCS,Jacksonville,Drake,RUSHING,Garnett,Nicholas,LONG,9
+11096136,9/29/2018,FCS,Jacksonville,Drake,RUSHING,Craige,Saxton,ATT,1
+11096137,9/29/2018,FCS,Jacksonville,Drake,RUSHING,Craige,Saxton,YDS,9
+11096138,9/29/2018,FCS,Jacksonville,Drake,RUSHING,Craige,Saxton,TD,0
+11096139,9/29/2018,FCS,Jacksonville,Drake,RUSHING,Craige,Saxton,LONG,9
+11096140,9/29/2018,FCS,Jacksonville,Drake,RUSHING,Will,Montgomery,ATT,2
+11096141,9/29/2018,FCS,Jacksonville,Drake,RUSHING,Will,Montgomery,YDS,6
+11096142,9/29/2018,FCS,Jacksonville,Drake,RUSHING,Will,Montgomery,TD,0
+11096143,9/29/2018,FCS,Jacksonville,Drake,RUSHING,Will,Montgomery,LONG,4
+11096144,9/29/2018,FCS,Jacksonville,Drake,RUSHING,Nasser,Clark,ATT,3
+11096145,9/29/2018,FCS,Jacksonville,Drake,RUSHING,Nasser,Clark,YDS,2
+11096146,9/29/2018,FCS,Jacksonville,Drake,RUSHING,Nasser,Clark,TD,0
+11096147,9/29/2018,FCS,Jacksonville,Drake,RUSHING,Nasser,Clark,LONG,3
+11096148,9/29/2018,FCS,Jacksonville,Drake,RUSHING,Jalen,Mason,ATT,2
+11096149,9/29/2018,FCS,Jacksonville,Drake,RUSHING,Jalen,Mason,YDS,1
+11096150,9/29/2018,FCS,Jacksonville,Drake,RUSHING,Jalen,Mason,TD,0
+11096151,9/29/2018,FCS,Jacksonville,Drake,RUSHING,Jalen,Mason,LONG,2
+11096152,9/29/2018,FCS,Jacksonville,Drake,RUSHING,Irvin,Riley,ATT,5
+11096153,9/29/2018,FCS,Jacksonville,Drake,RUSHING,Irvin,Riley,YDS,0
+11096154,9/29/2018,FCS,Jacksonville,Drake,RUSHING,Irvin,Riley,TD,0
+11096155,9/29/2018,FCS,Jacksonville,Drake,RUSHING,Irvin,Riley,LONG,2
+11096156,9/29/2018,FCS,Jacksonville,Drake,PASSING,Calvin,TurnerJr.,CP-ATT-INT,1-3-1
+11096157,9/29/2018,FCS,Jacksonville,Drake,PASSING,Calvin,TurnerJr.,YDS,9
+11096158,9/29/2018,FCS,Jacksonville,Drake,PASSING,Calvin,TurnerJr.,TD,0
+11096159,9/29/2018,FCS,Jacksonville,Drake,PASSING,Calvin,TurnerJr.,LONG,9
+11096160,9/29/2018,FCS,Jacksonville,Drake,RECEIVING,Jalen,Mason,REC,1
+11096161,9/29/2018,FCS,Jacksonville,Drake,RECEIVING,Jalen,Mason,YDS,9
+11096162,9/29/2018,FCS,Jacksonville,Drake,RECEIVING,Jalen,Mason,TD,0
+11096163,9/29/2018,FCS,Jacksonville,Drake,RECEIVING,Jalen,Mason,LONG,9
+11096164,9/29/2018,FCS,Jacksonville,Drake,KICKING,Javier,Arce-Ramirez,FG-FGA,0/0
+11096165,9/29/2018,FCS,Jacksonville,Drake,KICKING,Javier,Arce-Ramirez,LONG,-
+11096166,9/29/2018,FCS,Jacksonville,Drake,KICKING,Javier,Arce-Ramirez,XP,1
+11096167,9/29/2018,FCS,Jacksonville,Drake,KICKING,Javier,Arce-Ramirez,PTS,1
+11096168,9/29/2018,FCS,Jacksonville,Drake,PUNTING,Craige,Saxton,NO,3
+11096169,9/29/2018,FCS,Jacksonville,Drake,PUNTING,Craige,Saxton,YDS,102
+11096170,9/29/2018,FCS,Jacksonville,Drake,PUNTING,Craige,Saxton,AVG,34.0
+11096171,9/29/2018,FCS,Jacksonville,Drake,PUNTING,Craige,Saxton,LONG,40
+11096172,9/29/2018,FCS,Jacksonville,Drake,PUNTING,Riley,Garrison,NO,0
+11096173,9/29/2018,FCS,Jacksonville,Drake,PUNTING,Riley,Garrison,YDS,0
+11096174,9/29/2018,FCS,Jacksonville,Drake,PUNTING,Riley,Garrison,AVG,-
+11096175,9/29/2018,FCS,Jacksonville,Drake,PUNTING,Riley,Garrison,LONG,0
+11096176,9/29/2018,FCS,Jacksonville,Drake,PUNTING,,Team,NO,1
+11096177,9/29/2018,FCS,Jacksonville,Drake,PUNTING,,Team,YDS,0
+11096178,9/29/2018,FCS,Jacksonville,Drake,PUNTING,,Team,AVG,-
+11096179,9/29/2018,FCS,Jacksonville,Drake,PUNTING,,Team,LONG,0
+11096180,9/29/2018,FCS,Jacksonville,Drake,KICK RETURNS,Prince,Gray,NO,2
+11096181,9/29/2018,FCS,Jacksonville,Drake,KICK RETURNS,Prince,Gray,YDS,37
+11096182,9/29/2018,FCS,Jacksonville,Drake,KICK RETURNS,Prince,Gray,AVG,18.5
+11096183,9/29/2018,FCS,Jacksonville,Drake,KICK RETURNS,Prince,Gray,LONG,19
+11096184,9/29/2018,FCS,Jacksonville,Drake,KICK RETURNS,Tyree,Clarke,NO,1
+11096185,9/29/2018,FCS,Jacksonville,Drake,KICK RETURNS,Tyree,Clarke,YDS,12
+11096186,9/29/2018,FCS,Jacksonville,Drake,KICK RETURNS,Tyree,Clarke,AVG,12.0
+11096187,9/29/2018,FCS,Jacksonville,Drake,KICK RETURNS,Tyree,Clarke,LONG,12
+11096188,9/29/2018,FCS,Jacksonville,Drake,KICK RETURNS,Nasser,Clark,NO,1
+11096189,9/29/2018,FCS,Jacksonville,Drake,KICK RETURNS,Nasser,Clark,YDS,5
+11096190,9/29/2018,FCS,Jacksonville,Drake,KICK RETURNS,Nasser,Clark,AVG,5.0
+11096191,9/29/2018,FCS,Jacksonville,Drake,KICK RETURNS,Nasser,Clark,LONG,5
+11096192,9/29/2018,FCS,Jacksonville,Drake,DEFENSE,T.J.,Coley,TOT,0
+11096193,9/29/2018,FCS,Jacksonville,Drake,DEFENSE,T.J.,Coley,SOLO,0
+11096194,9/29/2018,FCS,Jacksonville,Drake,DEFENSE,T.J.,Coley,SACKS,0
+11096195,9/29/2018,FCS,Jacksonville,Drake,DEFENSE,T.J.,Coley,TFL,0
+11096196,9/29/2018,FCS,Jacksonville,Drake,DEFENSE,T.J.,Coley,INT,1
+11096197,9/29/2018,FCS,Jacksonville,Drake,DEFENSE,T.J.,Coley,FF,0
+11096198,9/29/2018,FCS,Jacksonville,Drake,DEFENSE,T.J.,Coley,FR,0

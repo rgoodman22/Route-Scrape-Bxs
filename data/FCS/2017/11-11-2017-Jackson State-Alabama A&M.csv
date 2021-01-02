@@ -1,0 +1,133 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+10680001,11/11/2017,FCS,Jackson State,Alabama A&M,RUSHING,Terrell,KennedyIII,ATT,8
+10680002,11/11/2017,FCS,Jackson State,Alabama A&M,RUSHING,Terrell,KennedyIII,YDS,62
+10680003,11/11/2017,FCS,Jackson State,Alabama A&M,RUSHING,Terrell,KennedyIII,TD,0
+10680004,11/11/2017,FCS,Jackson State,Alabama A&M,RUSHING,Terrell,KennedyIII,LONG,32
+10680005,11/11/2017,FCS,Jackson State,Alabama A&M,RUSHING,Jordan,Johnson,ATT,20
+10680006,11/11/2017,FCS,Jackson State,Alabama A&M,RUSHING,Jordan,Johnson,YDS,57
+10680007,11/11/2017,FCS,Jackson State,Alabama A&M,RUSHING,Jordan,Johnson,TD,1
+10680008,11/11/2017,FCS,Jackson State,Alabama A&M,RUSHING,Jordan,Johnson,LONG,22
+10680009,11/11/2017,FCS,Jackson State,Alabama A&M,RUSHING,Jordan,Williams,ATT,11
+10680010,11/11/2017,FCS,Jackson State,Alabama A&M,RUSHING,Jordan,Williams,YDS,28
+10680011,11/11/2017,FCS,Jackson State,Alabama A&M,RUSHING,Jordan,Williams,TD,0
+10680012,11/11/2017,FCS,Jackson State,Alabama A&M,RUSHING,Jordan,Williams,LONG,15
+10680013,11/11/2017,FCS,Jackson State,Alabama A&M,RUSHING,Adrian,Salazar,ATT,1
+10680014,11/11/2017,FCS,Jackson State,Alabama A&M,RUSHING,Adrian,Salazar,YDS,6
+10680015,11/11/2017,FCS,Jackson State,Alabama A&M,RUSHING,Adrian,Salazar,TD,0
+10680016,11/11/2017,FCS,Jackson State,Alabama A&M,RUSHING,Adrian,Salazar,LONG,6
+10680017,11/11/2017,FCS,Jackson State,Alabama A&M,RUSHING,Quitten,Brown,ATT,1
+10680018,11/11/2017,FCS,Jackson State,Alabama A&M,RUSHING,Quitten,Brown,YDS,0
+10680019,11/11/2017,FCS,Jackson State,Alabama A&M,RUSHING,Quitten,Brown,TD,0
+10680020,11/11/2017,FCS,Jackson State,Alabama A&M,RUSHING,Quitten,Brown,LONG,0
+10680021,11/11/2017,FCS,Jackson State,Alabama A&M,PASSING,Jordan,Williams,CP-ATT-INT,8-13-1
+10680022,11/11/2017,FCS,Jackson State,Alabama A&M,PASSING,Jordan,Williams,YDS,90
+10680023,11/11/2017,FCS,Jackson State,Alabama A&M,PASSING,Jordan,Williams,TD,0
+10680024,11/11/2017,FCS,Jackson State,Alabama A&M,PASSING,Jordan,Williams,LONG,20
+10680025,11/11/2017,FCS,Jackson State,Alabama A&M,PASSING,Jordan,Johnson,CP-ATT-INT,1-4-1
+10680026,11/11/2017,FCS,Jackson State,Alabama A&M,PASSING,Jordan,Johnson,YDS,9
+10680027,11/11/2017,FCS,Jackson State,Alabama A&M,PASSING,Jordan,Johnson,TD,0
+10680028,11/11/2017,FCS,Jackson State,Alabama A&M,PASSING,Jordan,Johnson,LONG,9
+10680029,11/11/2017,FCS,Jackson State,Alabama A&M,RECEIVING,Benjy,Parrish,REC,4
+10680030,11/11/2017,FCS,Jackson State,Alabama A&M,RECEIVING,Benjy,Parrish,YDS,40
+10680031,11/11/2017,FCS,Jackson State,Alabama A&M,RECEIVING,Benjy,Parrish,TD,0
+10680032,11/11/2017,FCS,Jackson State,Alabama A&M,RECEIVING,Benjy,Parrish,LONG,11
+10680033,11/11/2017,FCS,Jackson State,Alabama A&M,RECEIVING,Richard,JevonFloyd,REC,2
+10680034,11/11/2017,FCS,Jackson State,Alabama A&M,RECEIVING,Richard,JevonFloyd,YDS,21
+10680035,11/11/2017,FCS,Jackson State,Alabama A&M,RECEIVING,Richard,JevonFloyd,TD,0
+10680036,11/11/2017,FCS,Jackson State,Alabama A&M,RECEIVING,Richard,JevonFloyd,LONG,15
+10680037,11/11/2017,FCS,Jackson State,Alabama A&M,RECEIVING,Jamarius,Mabry,REC,1
+10680038,11/11/2017,FCS,Jackson State,Alabama A&M,RECEIVING,Jamarius,Mabry,YDS,20
+10680039,11/11/2017,FCS,Jackson State,Alabama A&M,RECEIVING,Jamarius,Mabry,TD,0
+10680040,11/11/2017,FCS,Jackson State,Alabama A&M,RECEIVING,Jamarius,Mabry,LONG,20
+10680041,11/11/2017,FCS,Jackson State,Alabama A&M,RECEIVING,Terrell,KennedyIII,REC,1
+10680042,11/11/2017,FCS,Jackson State,Alabama A&M,RECEIVING,Terrell,KennedyIII,YDS,9
+10680043,11/11/2017,FCS,Jackson State,Alabama A&M,RECEIVING,Terrell,KennedyIII,TD,0
+10680044,11/11/2017,FCS,Jackson State,Alabama A&M,RECEIVING,Terrell,KennedyIII,LONG,9
+10680045,11/11/2017,FCS,Jackson State,Alabama A&M,RECEIVING,Carle,Ollie,REC,1
+10680046,11/11/2017,FCS,Jackson State,Alabama A&M,RECEIVING,Carle,Ollie,YDS,9
+10680047,11/11/2017,FCS,Jackson State,Alabama A&M,RECEIVING,Carle,Ollie,TD,0
+10680048,11/11/2017,FCS,Jackson State,Alabama A&M,RECEIVING,Carle,Ollie,LONG,9
+10680049,11/11/2017,FCS,Jackson State,Alabama A&M,KICKING,Christian,Jacquemin,FG-FGA,1/1
+10680050,11/11/2017,FCS,Jackson State,Alabama A&M,KICKING,Christian,Jacquemin,LONG,26
+10680051,11/11/2017,FCS,Jackson State,Alabama A&M,KICKING,Christian,Jacquemin,XP,1
+10680052,11/11/2017,FCS,Jackson State,Alabama A&M,KICKING,Christian,Jacquemin,PTS,4
+10680053,11/11/2017,FCS,Jackson State,Alabama A&M,PUNTING,Christian,Jacquemin,NO,6
+10680054,11/11/2017,FCS,Jackson State,Alabama A&M,PUNTING,Christian,Jacquemin,YDS,295
+10680055,11/11/2017,FCS,Jackson State,Alabama A&M,PUNTING,Christian,Jacquemin,AVG,49.2
+10680056,11/11/2017,FCS,Jackson State,Alabama A&M,PUNTING,Christian,Jacquemin,LONG,58
+10680057,11/11/2017,FCS,Jackson State,Alabama A&M,KICK RETURNS,Warren,Newman,NO,1
+10680058,11/11/2017,FCS,Jackson State,Alabama A&M,KICK RETURNS,Warren,Newman,YDS,18
+10680059,11/11/2017,FCS,Jackson State,Alabama A&M,KICK RETURNS,Warren,Newman,AVG,18.0
+10680060,11/11/2017,FCS,Jackson State,Alabama A&M,KICK RETURNS,Warren,Newman,LONG,18
+10680061,11/11/2017,FCS,Alabama A&M,Jackson State,RUSHING,Jordan,Bentley,ATT,21
+10680062,11/11/2017,FCS,Alabama A&M,Jackson State,RUSHING,Jordan,Bentley,YDS,108
+10680063,11/11/2017,FCS,Alabama A&M,Jackson State,RUSHING,Jordan,Bentley,TD,0
+10680064,11/11/2017,FCS,Alabama A&M,Jackson State,RUSHING,Jordan,Bentley,LONG,20
+10680065,11/11/2017,FCS,Alabama A&M,Jackson State,RUSHING,Trevon,Walters,ATT,14
+10680066,11/11/2017,FCS,Alabama A&M,Jackson State,RUSHING,Trevon,Walters,YDS,42
+10680067,11/11/2017,FCS,Alabama A&M,Jackson State,RUSHING,Trevon,Walters,TD,0
+10680068,11/11/2017,FCS,Alabama A&M,Jackson State,RUSHING,Trevon,Walters,LONG,8
+10680069,11/11/2017,FCS,Alabama A&M,Jackson State,RUSHING,Dylan,Smith,ATT,5
+10680070,11/11/2017,FCS,Alabama A&M,Jackson State,RUSHING,Dylan,Smith,YDS,11
+10680071,11/11/2017,FCS,Alabama A&M,Jackson State,RUSHING,Dylan,Smith,TD,0
+10680072,11/11/2017,FCS,Alabama A&M,Jackson State,RUSHING,Dylan,Smith,LONG,5
+10680073,11/11/2017,FCS,Alabama A&M,Jackson State,RUSHING,Aqeel,Glass,ATT,5
+10680074,11/11/2017,FCS,Alabama A&M,Jackson State,RUSHING,Aqeel,Glass,YDS,8
+10680075,11/11/2017,FCS,Alabama A&M,Jackson State,RUSHING,Aqeel,Glass,TD,0
+10680076,11/11/2017,FCS,Alabama A&M,Jackson State,RUSHING,Aqeel,Glass,LONG,10
+10680077,11/11/2017,FCS,Alabama A&M,Jackson State,RUSHING,Damion,May,ATT,1
+10680078,11/11/2017,FCS,Alabama A&M,Jackson State,RUSHING,Damion,May,YDS,-9
+10680079,11/11/2017,FCS,Alabama A&M,Jackson State,RUSHING,Damion,May,TD,0
+10680080,11/11/2017,FCS,Alabama A&M,Jackson State,RUSHING,Damion,May,LONG,0
+10680081,11/11/2017,FCS,Alabama A&M,Jackson State,PASSING,Aqeel,Glass,CP-ATT-INT,12-24-3
+10680082,11/11/2017,FCS,Alabama A&M,Jackson State,PASSING,Aqeel,Glass,YDS,113
+10680083,11/11/2017,FCS,Alabama A&M,Jackson State,PASSING,Aqeel,Glass,TD,1
+10680084,11/11/2017,FCS,Alabama A&M,Jackson State,PASSING,Aqeel,Glass,LONG,19
+10680085,11/11/2017,FCS,Alabama A&M,Jackson State,PASSING,Damion,May,CP-ATT-INT,0-0-0
+10680086,11/11/2017,FCS,Alabama A&M,Jackson State,PASSING,Damion,May,YDS,0
+10680087,11/11/2017,FCS,Alabama A&M,Jackson State,PASSING,Damion,May,TD,0
+10680088,11/11/2017,FCS,Alabama A&M,Jackson State,PASSING,Damion,May,LONG,0
+10680089,11/11/2017,FCS,Alabama A&M,Jackson State,PASSING,Dylan,Smith,CP-ATT-INT,0-2-0
+10680090,11/11/2017,FCS,Alabama A&M,Jackson State,PASSING,Dylan,Smith,YDS,0
+10680091,11/11/2017,FCS,Alabama A&M,Jackson State,PASSING,Dylan,Smith,TD,0
+10680092,11/11/2017,FCS,Alabama A&M,Jackson State,PASSING,Dylan,Smith,LONG,0
+10680093,11/11/2017,FCS,Alabama A&M,Jackson State,RECEIVING,Isaiah,Bailey,REC,4
+10680094,11/11/2017,FCS,Alabama A&M,Jackson State,RECEIVING,Isaiah,Bailey,YDS,41
+10680095,11/11/2017,FCS,Alabama A&M,Jackson State,RECEIVING,Isaiah,Bailey,TD,0
+10680096,11/11/2017,FCS,Alabama A&M,Jackson State,RECEIVING,Isaiah,Bailey,LONG,12
+10680097,11/11/2017,FCS,Alabama A&M,Jackson State,RECEIVING,Kalias,Robertson,REC,2
+10680098,11/11/2017,FCS,Alabama A&M,Jackson State,RECEIVING,Kalias,Robertson,YDS,25
+10680099,11/11/2017,FCS,Alabama A&M,Jackson State,RECEIVING,Kalias,Robertson,TD,1
+10680100,11/11/2017,FCS,Alabama A&M,Jackson State,RECEIVING,Kalias,Robertson,LONG,19
+10680101,11/11/2017,FCS,Alabama A&M,Jackson State,RECEIVING,Marceles,Clash,REC,2
+10680102,11/11/2017,FCS,Alabama A&M,Jackson State,RECEIVING,Marceles,Clash,YDS,19
+10680103,11/11/2017,FCS,Alabama A&M,Jackson State,RECEIVING,Marceles,Clash,TD,0
+10680104,11/11/2017,FCS,Alabama A&M,Jackson State,RECEIVING,Marceles,Clash,LONG,13
+10680105,11/11/2017,FCS,Alabama A&M,Jackson State,RECEIVING,Monte,Jones,REC,1
+10680106,11/11/2017,FCS,Alabama A&M,Jackson State,RECEIVING,Monte,Jones,YDS,15
+10680107,11/11/2017,FCS,Alabama A&M,Jackson State,RECEIVING,Monte,Jones,TD,0
+10680108,11/11/2017,FCS,Alabama A&M,Jackson State,RECEIVING,Monte,Jones,LONG,15
+10680109,11/11/2017,FCS,Alabama A&M,Jackson State,RECEIVING,Charles,Shepherd,REC,1
+10680110,11/11/2017,FCS,Alabama A&M,Jackson State,RECEIVING,Charles,Shepherd,YDS,11
+10680111,11/11/2017,FCS,Alabama A&M,Jackson State,RECEIVING,Charles,Shepherd,TD,0
+10680112,11/11/2017,FCS,Alabama A&M,Jackson State,RECEIVING,Charles,Shepherd,LONG,11
+10680113,11/11/2017,FCS,Alabama A&M,Jackson State,RECEIVING,Trevon,Walters,REC,2
+10680114,11/11/2017,FCS,Alabama A&M,Jackson State,RECEIVING,Trevon,Walters,YDS,2
+10680115,11/11/2017,FCS,Alabama A&M,Jackson State,RECEIVING,Trevon,Walters,TD,0
+10680116,11/11/2017,FCS,Alabama A&M,Jackson State,RECEIVING,Trevon,Walters,LONG,3
+10680117,11/11/2017,FCS,Alabama A&M,Jackson State,KICKING,Nick,Carden,FG-FGA,0/1
+10680118,11/11/2017,FCS,Alabama A&M,Jackson State,KICKING,Nick,Carden,LONG,0
+10680119,11/11/2017,FCS,Alabama A&M,Jackson State,KICKING,Nick,Carden,XP,1
+10680120,11/11/2017,FCS,Alabama A&M,Jackson State,KICKING,Nick,Carden,PTS,1
+10680121,11/11/2017,FCS,Alabama A&M,Jackson State,PUNTING,Nick,Carden,NO,5
+10680122,11/11/2017,FCS,Alabama A&M,Jackson State,PUNTING,Nick,Carden,YDS,159
+10680123,11/11/2017,FCS,Alabama A&M,Jackson State,PUNTING,Nick,Carden,AVG,31.8
+10680124,11/11/2017,FCS,Alabama A&M,Jackson State,PUNTING,Nick,Carden,LONG,39
+10680125,11/11/2017,FCS,Alabama A&M,Jackson State,PUNT RETURNS,Marceles,Clash,NO,2
+10680126,11/11/2017,FCS,Alabama A&M,Jackson State,PUNT RETURNS,Marceles,Clash,YDS,58
+10680127,11/11/2017,FCS,Alabama A&M,Jackson State,PUNT RETURNS,Marceles,Clash,AVG,29.0
+10680128,11/11/2017,FCS,Alabama A&M,Jackson State,PUNT RETURNS,Marceles,Clash,LONG,50
+10680129,11/11/2017,FCS,Alabama A&M,Jackson State,KICK RETURNS,Marceles,Clash,NO,2
+10680130,11/11/2017,FCS,Alabama A&M,Jackson State,KICK RETURNS,Marceles,Clash,YDS,33
+10680131,11/11/2017,FCS,Alabama A&M,Jackson State,KICK RETURNS,Marceles,Clash,AVG,16.5
+10680132,11/11/2017,FCS,Alabama A&M,Jackson State,KICK RETURNS,Marceles,Clash,LONG,17

@@ -1,0 +1,153 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9901001,11/12/2016,FCS,UC Davis,Montana State,RUSHING,Joshua,Kelley,ATT,10
+9901002,11/12/2016,FCS,UC Davis,Montana State,RUSHING,Joshua,Kelley,YDS,99
+9901003,11/12/2016,FCS,UC Davis,Montana State,RUSHING,Joshua,Kelley,TD,0
+9901004,11/12/2016,FCS,UC Davis,Montana State,RUSHING,Joshua,Kelley,LONG,37
+9901005,11/12/2016,FCS,UC Davis,Montana State,RUSHING,Ben,Scott,ATT,1
+9901006,11/12/2016,FCS,UC Davis,Montana State,RUSHING,Ben,Scott,YDS,17
+9901007,11/12/2016,FCS,UC Davis,Montana State,RUSHING,Ben,Scott,TD,0
+9901008,11/12/2016,FCS,UC Davis,Montana State,RUSHING,Ben,Scott,LONG,17
+9901009,11/12/2016,FCS,UC Davis,Montana State,RUSHING,Manusamoa,Luuga,ATT,13
+9901010,11/12/2016,FCS,UC Davis,Montana State,RUSHING,Manusamoa,Luuga,YDS,16
+9901011,11/12/2016,FCS,UC Davis,Montana State,RUSHING,Manusamoa,Luuga,TD,1
+9901012,11/12/2016,FCS,UC Davis,Montana State,RUSHING,Manusamoa,Luuga,LONG,6
+9901013,11/12/2016,FCS,UC Davis,Montana State,RUSHING,CJ,Spencer,ATT,1
+9901014,11/12/2016,FCS,UC Davis,Montana State,RUSHING,CJ,Spencer,YDS,0
+9901015,11/12/2016,FCS,UC Davis,Montana State,RUSHING,CJ,Spencer,TD,0
+9901016,11/12/2016,FCS,UC Davis,Montana State,RUSHING,CJ,Spencer,LONG,0
+9901017,11/12/2016,FCS,UC Davis,Montana State,RUSHING,Mitchell,Layton,ATT,1
+9901018,11/12/2016,FCS,UC Davis,Montana State,RUSHING,Mitchell,Layton,YDS,-2
+9901019,11/12/2016,FCS,UC Davis,Montana State,RUSHING,Mitchell,Layton,TD,0
+9901020,11/12/2016,FCS,UC Davis,Montana State,RUSHING,Mitchell,Layton,LONG,0
+9901021,11/12/2016,FCS,UC Davis,Montana State,PASSING,Ben,Scott,CP-ATT-INT,19-37-0
+9901022,11/12/2016,FCS,UC Davis,Montana State,PASSING,Ben,Scott,YDS,182
+9901023,11/12/2016,FCS,UC Davis,Montana State,PASSING,Ben,Scott,TD,0
+9901024,11/12/2016,FCS,UC Davis,Montana State,PASSING,Ben,Scott,LONG,23
+9901025,11/12/2016,FCS,UC Davis,Montana State,RECEIVING,Chris,Martin,REC,4
+9901026,11/12/2016,FCS,UC Davis,Montana State,RECEIVING,Chris,Martin,YDS,59
+9901027,11/12/2016,FCS,UC Davis,Montana State,RECEIVING,Chris,Martin,TD,0
+9901028,11/12/2016,FCS,UC Davis,Montana State,RECEIVING,Chris,Martin,LONG,23
+9901029,11/12/2016,FCS,UC Davis,Montana State,RECEIVING,Keelan,Doss,REC,7
+9901030,11/12/2016,FCS,UC Davis,Montana State,RECEIVING,Keelan,Doss,YDS,55
+9901031,11/12/2016,FCS,UC Davis,Montana State,RECEIVING,Keelan,Doss,TD,0
+9901032,11/12/2016,FCS,UC Davis,Montana State,RECEIVING,Keelan,Doss,LONG,17
+9901033,11/12/2016,FCS,UC Davis,Montana State,RECEIVING,Gabe,Martinez,REC,2
+9901034,11/12/2016,FCS,UC Davis,Montana State,RECEIVING,Gabe,Martinez,YDS,20
+9901035,11/12/2016,FCS,UC Davis,Montana State,RECEIVING,Gabe,Martinez,TD,0
+9901036,11/12/2016,FCS,UC Davis,Montana State,RECEIVING,Gabe,Martinez,LONG,17
+9901037,11/12/2016,FCS,UC Davis,Montana State,RECEIVING,Jared,Harrell,REC,2
+9901038,11/12/2016,FCS,UC Davis,Montana State,RECEIVING,Jared,Harrell,YDS,17
+9901039,11/12/2016,FCS,UC Davis,Montana State,RECEIVING,Jared,Harrell,TD,0
+9901040,11/12/2016,FCS,UC Davis,Montana State,RECEIVING,Jared,Harrell,LONG,10
+9901041,11/12/2016,FCS,UC Davis,Montana State,RECEIVING,Dan,Plum,REC,1
+9901042,11/12/2016,FCS,UC Davis,Montana State,RECEIVING,Dan,Plum,YDS,12
+9901043,11/12/2016,FCS,UC Davis,Montana State,RECEIVING,Dan,Plum,TD,0
+9901044,11/12/2016,FCS,UC Davis,Montana State,RECEIVING,Dan,Plum,LONG,12
+9901045,11/12/2016,FCS,UC Davis,Montana State,RECEIVING,Marcus,Cummins,REC,1
+9901046,11/12/2016,FCS,UC Davis,Montana State,RECEIVING,Marcus,Cummins,YDS,8
+9901047,11/12/2016,FCS,UC Davis,Montana State,RECEIVING,Marcus,Cummins,TD,0
+9901048,11/12/2016,FCS,UC Davis,Montana State,RECEIVING,Marcus,Cummins,LONG,8
+9901049,11/12/2016,FCS,UC Davis,Montana State,RECEIVING,Manusamoa,Luuga,REC,1
+9901050,11/12/2016,FCS,UC Davis,Montana State,RECEIVING,Manusamoa,Luuga,YDS,8
+9901051,11/12/2016,FCS,UC Davis,Montana State,RECEIVING,Manusamoa,Luuga,TD,0
+9901052,11/12/2016,FCS,UC Davis,Montana State,RECEIVING,Manusamoa,Luuga,LONG,8
+9901053,11/12/2016,FCS,UC Davis,Montana State,RECEIVING,Wesley,Preece,REC,1
+9901054,11/12/2016,FCS,UC Davis,Montana State,RECEIVING,Wesley,Preece,YDS,3
+9901055,11/12/2016,FCS,UC Davis,Montana State,RECEIVING,Wesley,Preece,TD,0
+9901056,11/12/2016,FCS,UC Davis,Montana State,RECEIVING,Wesley,Preece,LONG,3
+9901057,11/12/2016,FCS,UC Davis,Montana State,KICKING,Matt,Blair,FG-FGA,2/2
+9901058,11/12/2016,FCS,UC Davis,Montana State,KICKING,Matt,Blair,LONG,48
+9901059,11/12/2016,FCS,UC Davis,Montana State,KICKING,Matt,Blair,XP,1
+9901060,11/12/2016,FCS,UC Davis,Montana State,KICKING,Matt,Blair,PTS,7
+9901061,11/12/2016,FCS,UC Davis,Montana State,PUNTING,Colby,Wadman,NO,5
+9901062,11/12/2016,FCS,UC Davis,Montana State,PUNTING,Colby,Wadman,YDS,264
+9901063,11/12/2016,FCS,UC Davis,Montana State,PUNTING,Colby,Wadman,AVG,52.8
+9901064,11/12/2016,FCS,UC Davis,Montana State,PUNTING,Colby,Wadman,LONG,66
+9901065,11/12/2016,FCS,UC Davis,Montana State,PUNT RETURNS,Chris,Martin,NO,1
+9901066,11/12/2016,FCS,UC Davis,Montana State,PUNT RETURNS,Chris,Martin,YDS,0
+9901067,11/12/2016,FCS,UC Davis,Montana State,PUNT RETURNS,Chris,Martin,AVG,-
+9901068,11/12/2016,FCS,UC Davis,Montana State,PUNT RETURNS,Chris,Martin,LONG,0
+9901069,11/12/2016,FCS,UC Davis,Montana State,KICK RETURNS,Justin,Williams,NO,2
+9901070,11/12/2016,FCS,UC Davis,Montana State,KICK RETURNS,Justin,Williams,YDS,38
+9901071,11/12/2016,FCS,UC Davis,Montana State,KICK RETURNS,Justin,Williams,AVG,19.0
+9901072,11/12/2016,FCS,UC Davis,Montana State,KICK RETURNS,Justin,Williams,LONG,24
+9901073,11/12/2016,FCS,UC Davis,Montana State,KICK RETURNS,Joshua,Kelley,NO,1
+9901074,11/12/2016,FCS,UC Davis,Montana State,KICK RETURNS,Joshua,Kelley,YDS,19
+9901075,11/12/2016,FCS,UC Davis,Montana State,KICK RETURNS,Joshua,Kelley,AVG,19.0
+9901076,11/12/2016,FCS,UC Davis,Montana State,KICK RETURNS,Joshua,Kelley,LONG,19
+9901077,11/12/2016,FCS,Montana State,UC Davis,RUSHING,Chad,Newell,ATT,23
+9901078,11/12/2016,FCS,Montana State,UC Davis,RUSHING,Chad,Newell,YDS,132
+9901079,11/12/2016,FCS,Montana State,UC Davis,RUSHING,Chad,Newell,TD,1
+9901080,11/12/2016,FCS,Montana State,UC Davis,RUSHING,Chad,Newell,LONG,16
+9901081,11/12/2016,FCS,Montana State,UC Davis,RUSHING,Chris,Murray,ATT,14
+9901082,11/12/2016,FCS,Montana State,UC Davis,RUSHING,Chris,Murray,YDS,98
+9901083,11/12/2016,FCS,Montana State,UC Davis,RUSHING,Chris,Murray,TD,1
+9901084,11/12/2016,FCS,Montana State,UC Davis,RUSHING,Chris,Murray,LONG,22
+9901085,11/12/2016,FCS,Montana State,UC Davis,RUSHING,Nick,LaSane,ATT,4
+9901086,11/12/2016,FCS,Montana State,UC Davis,RUSHING,Nick,LaSane,YDS,12
+9901087,11/12/2016,FCS,Montana State,UC Davis,RUSHING,Nick,LaSane,TD,0
+9901088,11/12/2016,FCS,Montana State,UC Davis,RUSHING,Nick,LaSane,LONG,5
+9901089,11/12/2016,FCS,Montana State,UC Davis,RUSHING,Gunnar,Brekke,ATT,4
+9901090,11/12/2016,FCS,Montana State,UC Davis,RUSHING,Gunnar,Brekke,YDS,12
+9901091,11/12/2016,FCS,Montana State,UC Davis,RUSHING,Gunnar,Brekke,TD,0
+9901092,11/12/2016,FCS,Montana State,UC Davis,RUSHING,Gunnar,Brekke,LONG,4
+9901093,11/12/2016,FCS,Montana State,UC Davis,RUSHING,Keon,Stephens,ATT,1
+9901094,11/12/2016,FCS,Montana State,UC Davis,RUSHING,Keon,Stephens,YDS,5
+9901095,11/12/2016,FCS,Montana State,UC Davis,RUSHING,Keon,Stephens,TD,0
+9901096,11/12/2016,FCS,Montana State,UC Davis,RUSHING,Keon,Stephens,LONG,5
+9901097,11/12/2016,FCS,Montana State,UC Davis,RUSHING,,Team,ATT,2
+9901098,11/12/2016,FCS,Montana State,UC Davis,RUSHING,,Team,YDS,-1
+9901099,11/12/2016,FCS,Montana State,UC Davis,RUSHING,,Team,TD,0
+9901100,11/12/2016,FCS,Montana State,UC Davis,RUSHING,,Team,LONG,0
+9901101,11/12/2016,FCS,Montana State,UC Davis,PASSING,Chris,Murray,CP-ATT-INT,7-13-0
+9901102,11/12/2016,FCS,Montana State,UC Davis,PASSING,Chris,Murray,YDS,66
+9901103,11/12/2016,FCS,Montana State,UC Davis,PASSING,Chris,Murray,TD,0
+9901104,11/12/2016,FCS,Montana State,UC Davis,PASSING,Chris,Murray,LONG,24
+9901105,11/12/2016,FCS,Montana State,UC Davis,PASSING,Kevin,Kassis,CP-ATT-INT,1-1-0
+9901106,11/12/2016,FCS,Montana State,UC Davis,PASSING,Kevin,Kassis,YDS,23
+9901107,11/12/2016,FCS,Montana State,UC Davis,PASSING,Kevin,Kassis,TD,1
+9901108,11/12/2016,FCS,Montana State,UC Davis,PASSING,Kevin,Kassis,LONG,23
+9901109,11/12/2016,FCS,Montana State,UC Davis,RECEIVING,Mitchell,Herbert,REC,1
+9901110,11/12/2016,FCS,Montana State,UC Davis,RECEIVING,Mitchell,Herbert,YDS,24
+9901111,11/12/2016,FCS,Montana State,UC Davis,RECEIVING,Mitchell,Herbert,TD,0
+9901112,11/12/2016,FCS,Montana State,UC Davis,RECEIVING,Mitchell,Herbert,LONG,24
+9901113,11/12/2016,FCS,Montana State,UC Davis,RECEIVING,Cameron,Sutton,REC,1
+9901114,11/12/2016,FCS,Montana State,UC Davis,RECEIVING,Cameron,Sutton,YDS,23
+9901115,11/12/2016,FCS,Montana State,UC Davis,RECEIVING,Cameron,Sutton,TD,1
+9901116,11/12/2016,FCS,Montana State,UC Davis,RECEIVING,Cameron,Sutton,LONG,23
+9901117,11/12/2016,FCS,Montana State,UC Davis,RECEIVING,Kevin,Kassis,REC,2
+9901118,11/12/2016,FCS,Montana State,UC Davis,RECEIVING,Kevin,Kassis,YDS,18
+9901119,11/12/2016,FCS,Montana State,UC Davis,RECEIVING,Kevin,Kassis,TD,0
+9901120,11/12/2016,FCS,Montana State,UC Davis,RECEIVING,Kevin,Kassis,LONG,16
+9901121,11/12/2016,FCS,Montana State,UC Davis,RECEIVING,Austin,Barth,REC,1
+9901122,11/12/2016,FCS,Montana State,UC Davis,RECEIVING,Austin,Barth,YDS,13
+9901123,11/12/2016,FCS,Montana State,UC Davis,RECEIVING,Austin,Barth,TD,0
+9901124,11/12/2016,FCS,Montana State,UC Davis,RECEIVING,Austin,Barth,LONG,13
+9901125,11/12/2016,FCS,Montana State,UC Davis,RECEIVING,Connor,Sullivan,REC,1
+9901126,11/12/2016,FCS,Montana State,UC Davis,RECEIVING,Connor,Sullivan,YDS,11
+9901127,11/12/2016,FCS,Montana State,UC Davis,RECEIVING,Connor,Sullivan,TD,0
+9901128,11/12/2016,FCS,Montana State,UC Davis,RECEIVING,Connor,Sullivan,LONG,11
+9901129,11/12/2016,FCS,Montana State,UC Davis,RECEIVING,Keon,Stephens,REC,1
+9901130,11/12/2016,FCS,Montana State,UC Davis,RECEIVING,Keon,Stephens,YDS,3
+9901131,11/12/2016,FCS,Montana State,UC Davis,RECEIVING,Keon,Stephens,TD,0
+9901132,11/12/2016,FCS,Montana State,UC Davis,RECEIVING,Keon,Stephens,LONG,3
+9901133,11/12/2016,FCS,Montana State,UC Davis,RECEIVING,Jayshawn,Gates,REC,1
+9901134,11/12/2016,FCS,Montana State,UC Davis,RECEIVING,Jayshawn,Gates,YDS,-3
+9901135,11/12/2016,FCS,Montana State,UC Davis,RECEIVING,Jayshawn,Gates,TD,0
+9901136,11/12/2016,FCS,Montana State,UC Davis,RECEIVING,Jayshawn,Gates,LONG,0
+9901137,11/12/2016,FCS,Montana State,UC Davis,KICKING,Gabe,Peppenger,FG-FGA,2/2
+9901138,11/12/2016,FCS,Montana State,UC Davis,KICKING,Gabe,Peppenger,LONG,39
+9901139,11/12/2016,FCS,Montana State,UC Davis,KICKING,Gabe,Peppenger,XP,3
+9901140,11/12/2016,FCS,Montana State,UC Davis,KICKING,Gabe,Peppenger,PTS,9
+9901141,11/12/2016,FCS,Montana State,UC Davis,PUNTING,Jered,Padmos,NO,4
+9901142,11/12/2016,FCS,Montana State,UC Davis,PUNTING,Jered,Padmos,YDS,160
+9901143,11/12/2016,FCS,Montana State,UC Davis,PUNTING,Jered,Padmos,AVG,40.0
+9901144,11/12/2016,FCS,Montana State,UC Davis,PUNTING,Jered,Padmos,LONG,47
+9901145,11/12/2016,FCS,Montana State,UC Davis,PUNT RETURNS,Kevin,Kassis,NO,1
+9901146,11/12/2016,FCS,Montana State,UC Davis,PUNT RETURNS,Kevin,Kassis,YDS,25
+9901147,11/12/2016,FCS,Montana State,UC Davis,PUNT RETURNS,Kevin,Kassis,AVG,25.0
+9901148,11/12/2016,FCS,Montana State,UC Davis,PUNT RETURNS,Kevin,Kassis,LONG,25
+9901149,11/12/2016,FCS,Montana State,UC Davis,KICK RETURNS,Jayshawn,Gates,NO,4
+9901150,11/12/2016,FCS,Montana State,UC Davis,KICK RETURNS,Jayshawn,Gates,YDS,109
+9901151,11/12/2016,FCS,Montana State,UC Davis,KICK RETURNS,Jayshawn,Gates,AVG,27.2
+9901152,11/12/2016,FCS,Montana State,UC Davis,KICK RETURNS,Jayshawn,Gates,LONG,53

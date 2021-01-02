@@ -1,0 +1,169 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+10651001,11/11/2017,FCS,San Diego,Davidson,RUSHING,Alex,Farina,ATT,1
+10651002,11/11/2017,FCS,San Diego,Davidson,RUSHING,Alex,Farina,YDS,87
+10651003,11/11/2017,FCS,San Diego,Davidson,RUSHING,Alex,Farina,TD,1
+10651004,11/11/2017,FCS,San Diego,Davidson,RUSHING,Alex,Farina,LONG,87
+10651005,11/11/2017,FCS,San Diego,Davidson,RUSHING,Emilio,Martinez,ATT,14
+10651006,11/11/2017,FCS,San Diego,Davidson,RUSHING,Emilio,Martinez,YDS,66
+10651007,11/11/2017,FCS,San Diego,Davidson,RUSHING,Emilio,Martinez,TD,1
+10651008,11/11/2017,FCS,San Diego,Davidson,RUSHING,Emilio,Martinez,LONG,16
+10651009,11/11/2017,FCS,San Diego,Davidson,RUSHING,Joseph,BindaJr.,ATT,7
+10651010,11/11/2017,FCS,San Diego,Davidson,RUSHING,Joseph,BindaJr.,YDS,41
+10651011,11/11/2017,FCS,San Diego,Davidson,RUSHING,Joseph,BindaJr.,TD,1
+10651012,11/11/2017,FCS,San Diego,Davidson,RUSHING,Joseph,BindaJr.,LONG,17
+10651013,11/11/2017,FCS,San Diego,Davidson,RUSHING,Blake,Martin,ATT,4
+10651014,11/11/2017,FCS,San Diego,Davidson,RUSHING,Blake,Martin,YDS,31
+10651015,11/11/2017,FCS,San Diego,Davidson,RUSHING,Blake,Martin,TD,1
+10651016,11/11/2017,FCS,San Diego,Davidson,RUSHING,Blake,Martin,LONG,20
+10651017,11/11/2017,FCS,San Diego,Davidson,RUSHING,Jordan,Charles,ATT,4
+10651018,11/11/2017,FCS,San Diego,Davidson,RUSHING,Jordan,Charles,YDS,23
+10651019,11/11/2017,FCS,San Diego,Davidson,RUSHING,Jordan,Charles,TD,0
+10651020,11/11/2017,FCS,San Diego,Davidson,RUSHING,Jordan,Charles,LONG,20
+10651021,11/11/2017,FCS,San Diego,Davidson,RUSHING,Reid,Sinnett,ATT,2
+10651022,11/11/2017,FCS,San Diego,Davidson,RUSHING,Reid,Sinnett,YDS,12
+10651023,11/11/2017,FCS,San Diego,Davidson,RUSHING,Reid,Sinnett,TD,0
+10651024,11/11/2017,FCS,San Diego,Davidson,RUSHING,Reid,Sinnett,LONG,10
+10651025,11/11/2017,FCS,San Diego,Davidson,RUSHING,Griffin,Intrieri,ATT,2
+10651026,11/11/2017,FCS,San Diego,Davidson,RUSHING,Griffin,Intrieri,YDS,9
+10651027,11/11/2017,FCS,San Diego,Davidson,RUSHING,Griffin,Intrieri,TD,0
+10651028,11/11/2017,FCS,San Diego,Davidson,RUSHING,Griffin,Intrieri,LONG,5
+10651029,11/11/2017,FCS,San Diego,Davidson,RUSHING,Zach,Nelson,ATT,2
+10651030,11/11/2017,FCS,San Diego,Davidson,RUSHING,Zach,Nelson,YDS,7
+10651031,11/11/2017,FCS,San Diego,Davidson,RUSHING,Zach,Nelson,TD,0
+10651032,11/11/2017,FCS,San Diego,Davidson,RUSHING,Zach,Nelson,LONG,5
+10651033,11/11/2017,FCS,San Diego,Davidson,RUSHING,Jonathan,Petersen,ATT,3
+10651034,11/11/2017,FCS,San Diego,Davidson,RUSHING,Jonathan,Petersen,YDS,5
+10651035,11/11/2017,FCS,San Diego,Davidson,RUSHING,Jonathan,Petersen,TD,1
+10651036,11/11/2017,FCS,San Diego,Davidson,RUSHING,Jonathan,Petersen,LONG,3
+10651037,11/11/2017,FCS,San Diego,Davidson,RUSHING,,Team,ATT,2
+10651038,11/11/2017,FCS,San Diego,Davidson,RUSHING,,Team,YDS,-2
+10651039,11/11/2017,FCS,San Diego,Davidson,RUSHING,,Team,TD,0
+10651040,11/11/2017,FCS,San Diego,Davidson,RUSHING,,Team,LONG,0
+10651041,11/11/2017,FCS,San Diego,Davidson,PASSING,Anthony,Lawrence,CP-ATT-INT,24-28-0
+10651042,11/11/2017,FCS,San Diego,Davidson,PASSING,Anthony,Lawrence,YDS,403
+10651043,11/11/2017,FCS,San Diego,Davidson,PASSING,Anthony,Lawrence,TD,3
+10651044,11/11/2017,FCS,San Diego,Davidson,PASSING,Anthony,Lawrence,LONG,0
+10651045,11/11/2017,FCS,San Diego,Davidson,PASSING,Reid,Sinnett,CP-ATT-INT,2-4-0
+10651046,11/11/2017,FCS,San Diego,Davidson,PASSING,Reid,Sinnett,YDS,12
+10651047,11/11/2017,FCS,San Diego,Davidson,PASSING,Reid,Sinnett,TD,0
+10651048,11/11/2017,FCS,San Diego,Davidson,PASSING,Reid,Sinnett,LONG,0
+10651049,11/11/2017,FCS,San Diego,Davidson,PASSING,Alex,Farina,CP-ATT-INT,1-1-0
+10651050,11/11/2017,FCS,San Diego,Davidson,PASSING,Alex,Farina,YDS,12
+10651051,11/11/2017,FCS,San Diego,Davidson,PASSING,Alex,Farina,TD,1
+10651052,11/11/2017,FCS,San Diego,Davidson,PASSING,Alex,Farina,LONG,0
+10651053,11/11/2017,FCS,San Diego,Davidson,PASSING,Zack,Holland,CP-ATT-INT,0-1-0
+10651054,11/11/2017,FCS,San Diego,Davidson,PASSING,Zack,Holland,YDS,0
+10651055,11/11/2017,FCS,San Diego,Davidson,PASSING,Zack,Holland,TD,0
+10651056,11/11/2017,FCS,San Diego,Davidson,PASSING,Zack,Holland,LONG,0
+10651057,11/11/2017,FCS,San Diego,Davidson,RECEIVING,Michael,Bandy,REC,6
+10651058,11/11/2017,FCS,San Diego,Davidson,RECEIVING,Michael,Bandy,YDS,133
+10651059,11/11/2017,FCS,San Diego,Davidson,RECEIVING,Michael,Bandy,TD,1
+10651060,11/11/2017,FCS,San Diego,Davidson,RECEIVING,Michael,Bandy,LONG,36
+10651061,11/11/2017,FCS,San Diego,Davidson,RECEIVING,Justin,Priest,REC,8
+10651062,11/11/2017,FCS,San Diego,Davidson,RECEIVING,Justin,Priest,YDS,110
+10651063,11/11/2017,FCS,San Diego,Davidson,RECEIVING,Justin,Priest,TD,1
+10651064,11/11/2017,FCS,San Diego,Davidson,RECEIVING,Justin,Priest,LONG,21
+10651065,11/11/2017,FCS,San Diego,Davidson,RECEIVING,Ross,Dwelley,REC,4
+10651066,11/11/2017,FCS,San Diego,Davidson,RECEIVING,Ross,Dwelley,YDS,99
+10651067,11/11/2017,FCS,San Diego,Davidson,RECEIVING,Ross,Dwelley,TD,1
+10651068,11/11/2017,FCS,San Diego,Davidson,RECEIVING,Ross,Dwelley,LONG,58
+10651069,11/11/2017,FCS,San Diego,Davidson,RECEIVING,Nate,Loya,REC,2
+10651070,11/11/2017,FCS,San Diego,Davidson,RECEIVING,Nate,Loya,YDS,34
+10651071,11/11/2017,FCS,San Diego,Davidson,RECEIVING,Nate,Loya,TD,0
+10651072,11/11/2017,FCS,San Diego,Davidson,RECEIVING,Nate,Loya,LONG,33
+10651073,11/11/2017,FCS,San Diego,Davidson,RECEIVING,Alex,Spadone,REC,2
+10651074,11/11/2017,FCS,San Diego,Davidson,RECEIVING,Alex,Spadone,YDS,19
+10651075,11/11/2017,FCS,San Diego,Davidson,RECEIVING,Alex,Spadone,TD,1
+10651076,11/11/2017,FCS,San Diego,Davidson,RECEIVING,Alex,Spadone,LONG,12
+10651077,11/11/2017,FCS,San Diego,Davidson,RECEIVING,Emilio,Martinez,REC,3
+10651078,11/11/2017,FCS,San Diego,Davidson,RECEIVING,Emilio,Martinez,YDS,16
+10651079,11/11/2017,FCS,San Diego,Davidson,RECEIVING,Emilio,Martinez,TD,0
+10651080,11/11/2017,FCS,San Diego,Davidson,RECEIVING,Emilio,Martinez,LONG,9
+10651081,11/11/2017,FCS,San Diego,Davidson,RECEIVING,Christian,Brooks,REC,2
+10651082,11/11/2017,FCS,San Diego,Davidson,RECEIVING,Christian,Brooks,YDS,16
+10651083,11/11/2017,FCS,San Diego,Davidson,RECEIVING,Christian,Brooks,TD,0
+10651084,11/11/2017,FCS,San Diego,Davidson,RECEIVING,Christian,Brooks,LONG,11
+10651085,11/11/2017,FCS,San Diego,Davidson,KICKING,Patrick,Murray,FG-FGA,0/0
+10651086,11/11/2017,FCS,San Diego,Davidson,KICKING,Patrick,Murray,LONG,-
+10651087,11/11/2017,FCS,San Diego,Davidson,KICKING,Patrick,Murray,XP,9
+10651088,11/11/2017,FCS,San Diego,Davidson,KICKING,Patrick,Murray,PTS,9
+10651089,11/11/2017,FCS,San Diego,Davidson,PUNTING,Jack,Flatau,NO,4
+10651090,11/11/2017,FCS,San Diego,Davidson,PUNTING,Jack,Flatau,YDS,141
+10651091,11/11/2017,FCS,San Diego,Davidson,PUNTING,Jack,Flatau,AVG,35.2
+10651092,11/11/2017,FCS,San Diego,Davidson,PUNTING,Jack,Flatau,LONG,43
+10651093,11/11/2017,FCS,San Diego,Davidson,KICK RETURNS,Emilio,Martinez,NO,2
+10651094,11/11/2017,FCS,San Diego,Davidson,KICK RETURNS,Emilio,Martinez,YDS,50
+10651095,11/11/2017,FCS,San Diego,Davidson,KICK RETURNS,Emilio,Martinez,AVG,25.0
+10651096,11/11/2017,FCS,San Diego,Davidson,KICK RETURNS,Emilio,Martinez,LONG,26
+10651097,11/11/2017,FCS,Davidson,San Diego,RUSHING,Wesley,Dugger,ATT,15
+10651098,11/11/2017,FCS,Davidson,San Diego,RUSHING,Wesley,Dugger,YDS,80
+10651099,11/11/2017,FCS,Davidson,San Diego,RUSHING,Wesley,Dugger,TD,0
+10651100,11/11/2017,FCS,Davidson,San Diego,RUSHING,Wesley,Dugger,LONG,68
+10651101,11/11/2017,FCS,Davidson,San Diego,RUSHING,Jaylon,Bolden,ATT,8
+10651102,11/11/2017,FCS,Davidson,San Diego,RUSHING,Jaylon,Bolden,YDS,27
+10651103,11/11/2017,FCS,Davidson,San Diego,RUSHING,Jaylon,Bolden,TD,0
+10651104,11/11/2017,FCS,Davidson,San Diego,RUSHING,Jaylon,Bolden,LONG,13
+10651105,11/11/2017,FCS,Davidson,San Diego,RUSHING,Tyler,Phelps,ATT,1
+10651106,11/11/2017,FCS,Davidson,San Diego,RUSHING,Tyler,Phelps,YDS,10
+10651107,11/11/2017,FCS,Davidson,San Diego,RUSHING,Tyler,Phelps,TD,0
+10651108,11/11/2017,FCS,Davidson,San Diego,RUSHING,Tyler,Phelps,LONG,10
+10651109,11/11/2017,FCS,Davidson,San Diego,RUSHING,Isaiah,Anthony,ATT,2
+10651110,11/11/2017,FCS,Davidson,San Diego,RUSHING,Isaiah,Anthony,YDS,2
+10651111,11/11/2017,FCS,Davidson,San Diego,RUSHING,Isaiah,Anthony,TD,0
+10651112,11/11/2017,FCS,Davidson,San Diego,RUSHING,Isaiah,Anthony,LONG,2
+10651113,11/11/2017,FCS,Davidson,San Diego,PASSING,Tyler,Phelps,CP-ATT-INT,16-26-0
+10651114,11/11/2017,FCS,Davidson,San Diego,PASSING,Tyler,Phelps,YDS,190
+10651115,11/11/2017,FCS,Davidson,San Diego,PASSING,Tyler,Phelps,TD,1
+10651116,11/11/2017,FCS,Davidson,San Diego,PASSING,Tyler,Phelps,LONG,0
+10651117,11/11/2017,FCS,Davidson,San Diego,PASSING,Taylor,Mitchell,CP-ATT-INT,1-2-1
+10651118,11/11/2017,FCS,Davidson,San Diego,PASSING,Taylor,Mitchell,YDS,7
+10651119,11/11/2017,FCS,Davidson,San Diego,PASSING,Taylor,Mitchell,TD,0
+10651120,11/11/2017,FCS,Davidson,San Diego,PASSING,Taylor,Mitchell,LONG,0
+10651121,11/11/2017,FCS,Davidson,San Diego,RECEIVING,Satchel,Moore,REC,5
+10651122,11/11/2017,FCS,Davidson,San Diego,RECEIVING,Satchel,Moore,YDS,77
+10651123,11/11/2017,FCS,Davidson,San Diego,RECEIVING,Satchel,Moore,TD,0
+10651124,11/11/2017,FCS,Davidson,San Diego,RECEIVING,Satchel,Moore,LONG,35
+10651125,11/11/2017,FCS,Davidson,San Diego,RECEIVING,William,Wicks,REC,6
+10651126,11/11/2017,FCS,Davidson,San Diego,RECEIVING,William,Wicks,YDS,70
+10651127,11/11/2017,FCS,Davidson,San Diego,RECEIVING,William,Wicks,TD,1
+10651128,11/11/2017,FCS,Davidson,San Diego,RECEIVING,William,Wicks,LONG,36
+10651129,11/11/2017,FCS,Davidson,San Diego,RECEIVING,Jaris,Scott,REC,2
+10651130,11/11/2017,FCS,Davidson,San Diego,RECEIVING,Jaris,Scott,YDS,35
+10651131,11/11/2017,FCS,Davidson,San Diego,RECEIVING,Jaris,Scott,TD,0
+10651132,11/11/2017,FCS,Davidson,San Diego,RECEIVING,Jaris,Scott,LONG,28
+10651133,11/11/2017,FCS,Davidson,San Diego,RECEIVING,Hunter,Louthan,REC,2
+10651134,11/11/2017,FCS,Davidson,San Diego,RECEIVING,Hunter,Louthan,YDS,10
+10651135,11/11/2017,FCS,Davidson,San Diego,RECEIVING,Hunter,Louthan,TD,0
+10651136,11/11/2017,FCS,Davidson,San Diego,RECEIVING,Hunter,Louthan,LONG,5
+10651137,11/11/2017,FCS,Davidson,San Diego,RECEIVING,Pat,Tabor,REC,1
+10651138,11/11/2017,FCS,Davidson,San Diego,RECEIVING,Pat,Tabor,YDS,7
+10651139,11/11/2017,FCS,Davidson,San Diego,RECEIVING,Pat,Tabor,TD,0
+10651140,11/11/2017,FCS,Davidson,San Diego,RECEIVING,Pat,Tabor,LONG,7
+10651141,11/11/2017,FCS,Davidson,San Diego,RECEIVING,Jaylon,Bolden,REC,1
+10651142,11/11/2017,FCS,Davidson,San Diego,RECEIVING,Jaylon,Bolden,YDS,-2
+10651143,11/11/2017,FCS,Davidson,San Diego,RECEIVING,Jaylon,Bolden,TD,0
+10651144,11/11/2017,FCS,Davidson,San Diego,RECEIVING,Jaylon,Bolden,LONG,0
+10651145,11/11/2017,FCS,Davidson,San Diego,KICKING,Trevor,Smith,FG-FGA,0/0
+10651146,11/11/2017,FCS,Davidson,San Diego,KICKING,Trevor,Smith,LONG,-
+10651147,11/11/2017,FCS,Davidson,San Diego,KICKING,Trevor,Smith,XP,1
+10651148,11/11/2017,FCS,Davidson,San Diego,KICKING,Trevor,Smith,PTS,1
+10651149,11/11/2017,FCS,Davidson,San Diego,PUNTING,Charles,Morris,NO,8
+10651150,11/11/2017,FCS,Davidson,San Diego,PUNTING,Charles,Morris,YDS,265
+10651151,11/11/2017,FCS,Davidson,San Diego,PUNTING,Charles,Morris,AVG,33.1
+10651152,11/11/2017,FCS,Davidson,San Diego,PUNTING,Charles,Morris,LONG,52
+10651153,11/11/2017,FCS,Davidson,San Diego,PUNT RETURNS,William,Wicks,NO,1
+10651154,11/11/2017,FCS,Davidson,San Diego,PUNT RETURNS,William,Wicks,YDS,-7
+10651155,11/11/2017,FCS,Davidson,San Diego,PUNT RETURNS,William,Wicks,AVG,-
+10651156,11/11/2017,FCS,Davidson,San Diego,PUNT RETURNS,William,Wicks,LONG,0
+10651157,11/11/2017,FCS,Davidson,San Diego,KICK RETURNS,William,Wicks,NO,5
+10651158,11/11/2017,FCS,Davidson,San Diego,KICK RETURNS,William,Wicks,YDS,98
+10651159,11/11/2017,FCS,Davidson,San Diego,KICK RETURNS,William,Wicks,AVG,19.6
+10651160,11/11/2017,FCS,Davidson,San Diego,KICK RETURNS,William,Wicks,LONG,25
+10651161,11/11/2017,FCS,Davidson,San Diego,KICK RETURNS,Isaiah,Anthony,NO,2
+10651162,11/11/2017,FCS,Davidson,San Diego,KICK RETURNS,Isaiah,Anthony,YDS,57
+10651163,11/11/2017,FCS,Davidson,San Diego,KICK RETURNS,Isaiah,Anthony,AVG,28.5
+10651164,11/11/2017,FCS,Davidson,San Diego,KICK RETURNS,Isaiah,Anthony,LONG,39
+10651165,11/11/2017,FCS,Davidson,San Diego,KICK RETURNS,Hunter,Louthan,NO,1
+10651166,11/11/2017,FCS,Davidson,San Diego,KICK RETURNS,Hunter,Louthan,YDS,7
+10651167,11/11/2017,FCS,Davidson,San Diego,KICK RETURNS,Hunter,Louthan,AVG,7.0
+10651168,11/11/2017,FCS,Davidson,San Diego,KICK RETURNS,Hunter,Louthan,LONG,7

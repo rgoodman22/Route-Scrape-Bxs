@@ -1,0 +1,213 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+12345001,11/23/2019,FCS,San Diego,Jacksonville,RUSHING,Joseph,BindaJr.,ATT,26
+12345002,11/23/2019,FCS,San Diego,Jacksonville,RUSHING,Joseph,BindaJr.,YDS,147
+12345003,11/23/2019,FCS,San Diego,Jacksonville,RUSHING,Joseph,BindaJr.,TD,4
+12345004,11/23/2019,FCS,San Diego,Jacksonville,RUSHING,Joseph,BindaJr.,LONG,23
+12345005,11/23/2019,FCS,San Diego,Jacksonville,RUSHING,Rhyle,Hanson,ATT,5
+12345006,11/23/2019,FCS,San Diego,Jacksonville,RUSHING,Rhyle,Hanson,YDS,33
+12345007,11/23/2019,FCS,San Diego,Jacksonville,RUSHING,Rhyle,Hanson,TD,0
+12345008,11/23/2019,FCS,San Diego,Jacksonville,RUSHING,Rhyle,Hanson,LONG,10
+12345009,11/23/2019,FCS,San Diego,Jacksonville,RUSHING,Reid,Sinnett,ATT,4
+12345010,11/23/2019,FCS,San Diego,Jacksonville,RUSHING,Reid,Sinnett,YDS,18
+12345011,11/23/2019,FCS,San Diego,Jacksonville,RUSHING,Reid,Sinnett,TD,2
+12345012,11/23/2019,FCS,San Diego,Jacksonville,RUSHING,Reid,Sinnett,LONG,20
+12345013,11/23/2019,FCS,San Diego,Jacksonville,RUSHING,Brennan,Goring,ATT,1
+12345014,11/23/2019,FCS,San Diego,Jacksonville,RUSHING,Brennan,Goring,YDS,11
+12345015,11/23/2019,FCS,San Diego,Jacksonville,RUSHING,Brennan,Goring,TD,0
+12345016,11/23/2019,FCS,San Diego,Jacksonville,RUSHING,Brennan,Goring,LONG,11
+12345017,11/23/2019,FCS,San Diego,Jacksonville,RUSHING,Terrance,Smith,ATT,1
+12345018,11/23/2019,FCS,San Diego,Jacksonville,RUSHING,Terrance,Smith,YDS,7
+12345019,11/23/2019,FCS,San Diego,Jacksonville,RUSHING,Terrance,Smith,TD,0
+12345020,11/23/2019,FCS,San Diego,Jacksonville,RUSHING,Terrance,Smith,LONG,7
+12345021,11/23/2019,FCS,San Diego,Jacksonville,RUSHING,Zach,Nelson,ATT,2
+12345022,11/23/2019,FCS,San Diego,Jacksonville,RUSHING,Zach,Nelson,YDS,6
+12345023,11/23/2019,FCS,San Diego,Jacksonville,RUSHING,Zach,Nelson,TD,0
+12345024,11/23/2019,FCS,San Diego,Jacksonville,RUSHING,Zach,Nelson,LONG,4
+12345025,11/23/2019,FCS,San Diego,Jacksonville,RUSHING,Michael,Bandy,ATT,1
+12345026,11/23/2019,FCS,San Diego,Jacksonville,RUSHING,Michael,Bandy,YDS,3
+12345027,11/23/2019,FCS,San Diego,Jacksonville,RUSHING,Michael,Bandy,TD,0
+12345028,11/23/2019,FCS,San Diego,Jacksonville,RUSHING,Michael,Bandy,LONG,3
+12345029,11/23/2019,FCS,San Diego,Jacksonville,RUSHING,,Team,ATT,1
+12345030,11/23/2019,FCS,San Diego,Jacksonville,RUSHING,,Team,YDS,0
+12345031,11/23/2019,FCS,San Diego,Jacksonville,RUSHING,,Team,TD,0
+12345032,11/23/2019,FCS,San Diego,Jacksonville,RUSHING,,Team,LONG,0
+12345033,11/23/2019,FCS,San Diego,Jacksonville,PASSING,Reid,Sinnett,CP-ATT-INT,14-21-0
+12345034,11/23/2019,FCS,San Diego,Jacksonville,PASSING,Reid,Sinnett,YDS,266
+12345035,11/23/2019,FCS,San Diego,Jacksonville,PASSING,Reid,Sinnett,TD,0
+12345036,11/23/2019,FCS,San Diego,Jacksonville,PASSING,Reid,Sinnett,LONG,60
+12345037,11/23/2019,FCS,San Diego,Jacksonville,PASSING,Michael,Bandy,CP-ATT-INT,0-1-0
+12345038,11/23/2019,FCS,San Diego,Jacksonville,PASSING,Michael,Bandy,YDS,0
+12345039,11/23/2019,FCS,San Diego,Jacksonville,PASSING,Michael,Bandy,TD,0
+12345040,11/23/2019,FCS,San Diego,Jacksonville,PASSING,Michael,Bandy,LONG,0
+12345041,11/23/2019,FCS,San Diego,Jacksonville,RECEIVING,Bennett,Dondoyano,REC,3
+12345042,11/23/2019,FCS,San Diego,Jacksonville,RECEIVING,Bennett,Dondoyano,YDS,100
+12345043,11/23/2019,FCS,San Diego,Jacksonville,RECEIVING,Bennett,Dondoyano,TD,0
+12345044,11/23/2019,FCS,San Diego,Jacksonville,RECEIVING,Bennett,Dondoyano,LONG,60
+12345045,11/23/2019,FCS,San Diego,Jacksonville,RECEIVING,Michael,Bandy,REC,5
+12345046,11/23/2019,FCS,San Diego,Jacksonville,RECEIVING,Michael,Bandy,YDS,82
+12345047,11/23/2019,FCS,San Diego,Jacksonville,RECEIVING,Michael,Bandy,TD,0
+12345048,11/23/2019,FCS,San Diego,Jacksonville,RECEIVING,Michael,Bandy,LONG,39
+12345049,11/23/2019,FCS,San Diego,Jacksonville,RECEIVING,Michael,Armstead,REC,2
+12345050,11/23/2019,FCS,San Diego,Jacksonville,RECEIVING,Michael,Armstead,YDS,40
+12345051,11/23/2019,FCS,San Diego,Jacksonville,RECEIVING,Michael,Armstead,TD,0
+12345052,11/23/2019,FCS,San Diego,Jacksonville,RECEIVING,Michael,Armstead,LONG,30
+12345053,11/23/2019,FCS,San Diego,Jacksonville,RECEIVING,Zach,Nelson,REC,2
+12345054,11/23/2019,FCS,San Diego,Jacksonville,RECEIVING,Zach,Nelson,YDS,28
+12345055,11/23/2019,FCS,San Diego,Jacksonville,RECEIVING,Zach,Nelson,TD,0
+12345056,11/23/2019,FCS,San Diego,Jacksonville,RECEIVING,Zach,Nelson,LONG,22
+12345057,11/23/2019,FCS,San Diego,Jacksonville,RECEIVING,Dalton,Kincaid,REC,2
+12345058,11/23/2019,FCS,San Diego,Jacksonville,RECEIVING,Dalton,Kincaid,YDS,16
+12345059,11/23/2019,FCS,San Diego,Jacksonville,RECEIVING,Dalton,Kincaid,TD,0
+12345060,11/23/2019,FCS,San Diego,Jacksonville,RECEIVING,Dalton,Kincaid,LONG,8
+12345061,11/23/2019,FCS,San Diego,Jacksonville,KICKING,Brandon,Eickert,FG-FGA,2/2
+12345062,11/23/2019,FCS,San Diego,Jacksonville,KICKING,Brandon,Eickert,LONG,40
+12345063,11/23/2019,FCS,San Diego,Jacksonville,KICKING,Brandon,Eickert,XP,5
+12345064,11/23/2019,FCS,San Diego,Jacksonville,KICKING,Brandon,Eickert,PTS,11
+12345065,11/23/2019,FCS,San Diego,Jacksonville,PUNTING,Tanner,Kuljian,NO,1
+12345066,11/23/2019,FCS,San Diego,Jacksonville,PUNTING,Tanner,Kuljian,YDS,40
+12345067,11/23/2019,FCS,San Diego,Jacksonville,PUNTING,Tanner,Kuljian,AVG,40.0
+12345068,11/23/2019,FCS,San Diego,Jacksonville,PUNTING,Tanner,Kuljian,LONG,40
+12345069,11/23/2019,FCS,San Diego,Jacksonville,PUNT RETURNS,Michael,Armstead,NO,2
+12345070,11/23/2019,FCS,San Diego,Jacksonville,PUNT RETURNS,Michael,Armstead,YDS,46
+12345071,11/23/2019,FCS,San Diego,Jacksonville,PUNT RETURNS,Michael,Armstead,AVG,23.0
+12345072,11/23/2019,FCS,San Diego,Jacksonville,PUNT RETURNS,Michael,Armstead,LONG,36
+12345073,11/23/2019,FCS,San Diego,Jacksonville,KICK RETURNS,Bennett,Dondoyano,NO,2
+12345074,11/23/2019,FCS,San Diego,Jacksonville,KICK RETURNS,Bennett,Dondoyano,YDS,41
+12345075,11/23/2019,FCS,San Diego,Jacksonville,KICK RETURNS,Bennett,Dondoyano,AVG,20.5
+12345076,11/23/2019,FCS,San Diego,Jacksonville,KICK RETURNS,Bennett,Dondoyano,LONG,34
+12345077,11/23/2019,FCS,San Diego,Jacksonville,KICK RETURNS,Michael,Bandy,NO,1
+12345078,11/23/2019,FCS,San Diego,Jacksonville,KICK RETURNS,Michael,Bandy,YDS,13
+12345079,11/23/2019,FCS,San Diego,Jacksonville,KICK RETURNS,Michael,Bandy,AVG,13.0
+12345080,11/23/2019,FCS,San Diego,Jacksonville,KICK RETURNS,Michael,Bandy,LONG,13
+12345081,11/23/2019,FCS,San Diego,Jacksonville,KICK RETURNS,Michael,Armstead,NO,1
+12345082,11/23/2019,FCS,San Diego,Jacksonville,KICK RETURNS,Michael,Armstead,YDS,11
+12345083,11/23/2019,FCS,San Diego,Jacksonville,KICK RETURNS,Michael,Armstead,AVG,11.0
+12345084,11/23/2019,FCS,San Diego,Jacksonville,KICK RETURNS,Michael,Armstead,LONG,11
+12345085,11/23/2019,FCS,San Diego,Jacksonville,KICK RETURNS,Alex,Farina,NO,1
+12345086,11/23/2019,FCS,San Diego,Jacksonville,KICK RETURNS,Alex,Farina,YDS,2
+12345087,11/23/2019,FCS,San Diego,Jacksonville,KICK RETURNS,Alex,Farina,AVG,2.0
+12345088,11/23/2019,FCS,San Diego,Jacksonville,KICK RETURNS,Alex,Farina,LONG,2
+12345089,11/23/2019,FCS,San Diego,Jacksonville,DEFENSE,Myles,Wilson,TOT,7
+12345090,11/23/2019,FCS,San Diego,Jacksonville,DEFENSE,Myles,Wilson,SOLO,3
+12345091,11/23/2019,FCS,San Diego,Jacksonville,DEFENSE,Myles,Wilson,SACKS,0
+12345092,11/23/2019,FCS,San Diego,Jacksonville,DEFENSE,Myles,Wilson,TFL,0
+12345093,11/23/2019,FCS,San Diego,Jacksonville,DEFENSE,Myles,Wilson,INT,0
+12345094,11/23/2019,FCS,San Diego,Jacksonville,DEFENSE,Myles,Wilson,FF,1
+12345095,11/23/2019,FCS,San Diego,Jacksonville,DEFENSE,Myles,Wilson,FR,0
+12345096,11/23/2019,FCS,San Diego,Jacksonville,DEFENSE,Kama,Kamaka,TOT,3
+12345097,11/23/2019,FCS,San Diego,Jacksonville,DEFENSE,Kama,Kamaka,SOLO,2
+12345098,11/23/2019,FCS,San Diego,Jacksonville,DEFENSE,Kama,Kamaka,SACKS,0
+12345099,11/23/2019,FCS,San Diego,Jacksonville,DEFENSE,Kama,Kamaka,TFL,0
+12345100,11/23/2019,FCS,San Diego,Jacksonville,DEFENSE,Kama,Kamaka,INT,1
+12345101,11/23/2019,FCS,San Diego,Jacksonville,DEFENSE,Kama,Kamaka,FF,0
+12345102,11/23/2019,FCS,San Diego,Jacksonville,DEFENSE,Kama,Kamaka,FR,0
+12345103,11/23/2019,FCS,San Diego,Jacksonville,DEFENSE,David,Tolbert,TOT,1
+12345104,11/23/2019,FCS,San Diego,Jacksonville,DEFENSE,David,Tolbert,SOLO,1
+12345105,11/23/2019,FCS,San Diego,Jacksonville,DEFENSE,David,Tolbert,SACKS,0
+12345106,11/23/2019,FCS,San Diego,Jacksonville,DEFENSE,David,Tolbert,TFL,0
+12345107,11/23/2019,FCS,San Diego,Jacksonville,DEFENSE,David,Tolbert,INT,1
+12345108,11/23/2019,FCS,San Diego,Jacksonville,DEFENSE,David,Tolbert,FF,0
+12345109,11/23/2019,FCS,San Diego,Jacksonville,DEFENSE,David,Tolbert,FR,0
+12345110,11/23/2019,FCS,San Diego,Jacksonville,DEFENSE,Jacob,Bergstrom,TOT,1
+12345111,11/23/2019,FCS,San Diego,Jacksonville,DEFENSE,Jacob,Bergstrom,SOLO,1
+12345112,11/23/2019,FCS,San Diego,Jacksonville,DEFENSE,Jacob,Bergstrom,SACKS,0
+12345113,11/23/2019,FCS,San Diego,Jacksonville,DEFENSE,Jacob,Bergstrom,TFL,0
+12345114,11/23/2019,FCS,San Diego,Jacksonville,DEFENSE,Jacob,Bergstrom,INT,0
+12345115,11/23/2019,FCS,San Diego,Jacksonville,DEFENSE,Jacob,Bergstrom,FF,0
+12345116,11/23/2019,FCS,San Diego,Jacksonville,DEFENSE,Jacob,Bergstrom,FR,1
+12345117,11/23/2019,FCS,San Diego,Jacksonville,DEFENSE,Victor,Lopez,TOT,0
+12345118,11/23/2019,FCS,San Diego,Jacksonville,DEFENSE,Victor,Lopez,SOLO,0
+12345119,11/23/2019,FCS,San Diego,Jacksonville,DEFENSE,Victor,Lopez,SACKS,0
+12345120,11/23/2019,FCS,San Diego,Jacksonville,DEFENSE,Victor,Lopez,TFL,0
+12345121,11/23/2019,FCS,San Diego,Jacksonville,DEFENSE,Victor,Lopez,INT,0
+12345122,11/23/2019,FCS,San Diego,Jacksonville,DEFENSE,Victor,Lopez,FF,0
+12345123,11/23/2019,FCS,San Diego,Jacksonville,DEFENSE,Victor,Lopez,FR,1
+12345124,11/23/2019,FCS,Jacksonville,San Diego,RUSHING,Calvin,TurnerJr.,ATT,23
+12345125,11/23/2019,FCS,Jacksonville,San Diego,RUSHING,Calvin,TurnerJr.,YDS,172
+12345126,11/23/2019,FCS,Jacksonville,San Diego,RUSHING,Calvin,TurnerJr.,TD,2
+12345127,11/23/2019,FCS,Jacksonville,San Diego,RUSHING,Calvin,TurnerJr.,LONG,44
+12345128,11/23/2019,FCS,Jacksonville,San Diego,RUSHING,B.J.,Riley,ATT,5
+12345129,11/23/2019,FCS,Jacksonville,San Diego,RUSHING,B.J.,Riley,YDS,39
+12345130,11/23/2019,FCS,Jacksonville,San Diego,RUSHING,B.J.,Riley,TD,0
+12345131,11/23/2019,FCS,Jacksonville,San Diego,RUSHING,B.J.,Riley,LONG,16
+12345132,11/23/2019,FCS,Jacksonville,San Diego,RUSHING,Jordan,Younge-Humphrey,ATT,8
+12345133,11/23/2019,FCS,Jacksonville,San Diego,RUSHING,Jordan,Younge-Humphrey,YDS,28
+12345134,11/23/2019,FCS,Jacksonville,San Diego,RUSHING,Jordan,Younge-Humphrey,TD,0
+12345135,11/23/2019,FCS,Jacksonville,San Diego,RUSHING,Jordan,Younge-Humphrey,LONG,12
+12345136,11/23/2019,FCS,Jacksonville,San Diego,RUSHING,Garnett,Nicolas,ATT,7
+12345137,11/23/2019,FCS,Jacksonville,San Diego,RUSHING,Garnett,Nicolas,YDS,24
+12345138,11/23/2019,FCS,Jacksonville,San Diego,RUSHING,Garnett,Nicolas,TD,0
+12345139,11/23/2019,FCS,Jacksonville,San Diego,RUSHING,Garnett,Nicolas,LONG,7
+12345140,11/23/2019,FCS,Jacksonville,San Diego,RUSHING,Caleb,Grimes,ATT,2
+12345141,11/23/2019,FCS,Jacksonville,San Diego,RUSHING,Caleb,Grimes,YDS,14
+12345142,11/23/2019,FCS,Jacksonville,San Diego,RUSHING,Caleb,Grimes,TD,1
+12345143,11/23/2019,FCS,Jacksonville,San Diego,RUSHING,Caleb,Grimes,LONG,10
+12345144,11/23/2019,FCS,Jacksonville,San Diego,RUSHING,Walker,Wright,ATT,2
+12345145,11/23/2019,FCS,Jacksonville,San Diego,RUSHING,Walker,Wright,YDS,7
+12345146,11/23/2019,FCS,Jacksonville,San Diego,RUSHING,Walker,Wright,TD,0
+12345147,11/23/2019,FCS,Jacksonville,San Diego,RUSHING,Walker,Wright,LONG,8
+12345148,11/23/2019,FCS,Jacksonville,San Diego,RUSHING,A.J.,Davis,ATT,3
+12345149,11/23/2019,FCS,Jacksonville,San Diego,RUSHING,A.J.,Davis,YDS,5
+12345150,11/23/2019,FCS,Jacksonville,San Diego,RUSHING,A.J.,Davis,TD,0
+12345151,11/23/2019,FCS,Jacksonville,San Diego,RUSHING,A.J.,Davis,LONG,3
+12345152,11/23/2019,FCS,Jacksonville,San Diego,RUSHING,BJ,Byrd,ATT,1
+12345153,11/23/2019,FCS,Jacksonville,San Diego,RUSHING,BJ,Byrd,YDS,-7
+12345154,11/23/2019,FCS,Jacksonville,San Diego,RUSHING,BJ,Byrd,TD,0
+12345155,11/23/2019,FCS,Jacksonville,San Diego,RUSHING,BJ,Byrd,LONG,0
+12345156,11/23/2019,FCS,Jacksonville,San Diego,PASSING,Calvin,TurnerJr.,CP-ATT-INT,3-7-1
+12345157,11/23/2019,FCS,Jacksonville,San Diego,PASSING,Calvin,TurnerJr.,YDS,105
+12345158,11/23/2019,FCS,Jacksonville,San Diego,PASSING,Calvin,TurnerJr.,TD,1
+12345159,11/23/2019,FCS,Jacksonville,San Diego,PASSING,Calvin,TurnerJr.,LONG,60
+12345160,11/23/2019,FCS,Jacksonville,San Diego,PASSING,Walker,Wright,CP-ATT-INT,1-2-1
+12345161,11/23/2019,FCS,Jacksonville,San Diego,PASSING,Walker,Wright,YDS,29
+12345162,11/23/2019,FCS,Jacksonville,San Diego,PASSING,Walker,Wright,TD,0
+12345163,11/23/2019,FCS,Jacksonville,San Diego,PASSING,Walker,Wright,LONG,29
+12345164,11/23/2019,FCS,Jacksonville,San Diego,RECEIVING,A.J.,Davis,REC,1
+12345165,11/23/2019,FCS,Jacksonville,San Diego,RECEIVING,A.J.,Davis,YDS,60
+12345166,11/23/2019,FCS,Jacksonville,San Diego,RECEIVING,A.J.,Davis,TD,1
+12345167,11/23/2019,FCS,Jacksonville,San Diego,RECEIVING,A.J.,Davis,LONG,60
+12345168,11/23/2019,FCS,Jacksonville,San Diego,RECEIVING,Craige,Saxton,REC,1
+12345169,11/23/2019,FCS,Jacksonville,San Diego,RECEIVING,Craige,Saxton,YDS,40
+12345170,11/23/2019,FCS,Jacksonville,San Diego,RECEIVING,Craige,Saxton,TD,0
+12345171,11/23/2019,FCS,Jacksonville,San Diego,RECEIVING,Craige,Saxton,LONG,40
+12345172,11/23/2019,FCS,Jacksonville,San Diego,RECEIVING,Mitchell,Bailey,REC,1
+12345173,11/23/2019,FCS,Jacksonville,San Diego,RECEIVING,Mitchell,Bailey,YDS,29
+12345174,11/23/2019,FCS,Jacksonville,San Diego,RECEIVING,Mitchell,Bailey,TD,0
+12345175,11/23/2019,FCS,Jacksonville,San Diego,RECEIVING,Mitchell,Bailey,LONG,29
+12345176,11/23/2019,FCS,Jacksonville,San Diego,RECEIVING,BJ,Byrd,REC,1
+12345177,11/23/2019,FCS,Jacksonville,San Diego,RECEIVING,BJ,Byrd,YDS,5
+12345178,11/23/2019,FCS,Jacksonville,San Diego,RECEIVING,BJ,Byrd,TD,0
+12345179,11/23/2019,FCS,Jacksonville,San Diego,RECEIVING,BJ,Byrd,LONG,5
+12345180,11/23/2019,FCS,Jacksonville,San Diego,KICKING,Zachary,Benwick,FG-FGA,0/0
+12345181,11/23/2019,FCS,Jacksonville,San Diego,KICKING,Zachary,Benwick,LONG,-
+12345182,11/23/2019,FCS,Jacksonville,San Diego,KICKING,Zachary,Benwick,XP,4
+12345183,11/23/2019,FCS,Jacksonville,San Diego,KICKING,Zachary,Benwick,PTS,4
+12345184,11/23/2019,FCS,Jacksonville,San Diego,PUNTING,Derrick,Stumph,NO,3
+12345185,11/23/2019,FCS,Jacksonville,San Diego,PUNTING,Derrick,Stumph,YDS,113
+12345186,11/23/2019,FCS,Jacksonville,San Diego,PUNTING,Derrick,Stumph,AVG,37.7
+12345187,11/23/2019,FCS,Jacksonville,San Diego,PUNTING,Derrick,Stumph,LONG,45
+12345188,11/23/2019,FCS,Jacksonville,San Diego,KICK RETURNS,BJ,Byrd,NO,3
+12345189,11/23/2019,FCS,Jacksonville,San Diego,KICK RETURNS,BJ,Byrd,YDS,68
+12345190,11/23/2019,FCS,Jacksonville,San Diego,KICK RETURNS,BJ,Byrd,AVG,22.7
+12345191,11/23/2019,FCS,Jacksonville,San Diego,KICK RETURNS,BJ,Byrd,LONG,27
+12345192,11/23/2019,FCS,Jacksonville,San Diego,DEFENSE,Crandall,Maines,TOT,0
+12345193,11/23/2019,FCS,Jacksonville,San Diego,DEFENSE,Crandall,Maines,SOLO,0
+12345194,11/23/2019,FCS,Jacksonville,San Diego,DEFENSE,Crandall,Maines,SACKS,1
+12345195,11/23/2019,FCS,Jacksonville,San Diego,DEFENSE,Crandall,Maines,TFL,0
+12345196,11/23/2019,FCS,Jacksonville,San Diego,DEFENSE,Crandall,Maines,INT,0
+12345197,11/23/2019,FCS,Jacksonville,San Diego,DEFENSE,Crandall,Maines,FF,0
+12345198,11/23/2019,FCS,Jacksonville,San Diego,DEFENSE,Crandall,Maines,FR,0
+12345199,11/23/2019,FCS,Jacksonville,San Diego,DEFENSE,Keyshawn,Douglas,TOT,2
+12345200,11/23/2019,FCS,Jacksonville,San Diego,DEFENSE,Keyshawn,Douglas,SOLO,1
+12345201,11/23/2019,FCS,Jacksonville,San Diego,DEFENSE,Keyshawn,Douglas,SACKS,0
+12345202,11/23/2019,FCS,Jacksonville,San Diego,DEFENSE,Keyshawn,Douglas,TFL,0
+12345203,11/23/2019,FCS,Jacksonville,San Diego,DEFENSE,Keyshawn,Douglas,INT,0
+12345204,11/23/2019,FCS,Jacksonville,San Diego,DEFENSE,Keyshawn,Douglas,FF,1
+12345205,11/23/2019,FCS,Jacksonville,San Diego,DEFENSE,Keyshawn,Douglas,FR,1
+12345206,11/23/2019,FCS,Jacksonville,San Diego,DEFENSE,,Team,TOT,59
+12345207,11/23/2019,FCS,Jacksonville,San Diego,DEFENSE,,Team,SOLO,44
+12345208,11/23/2019,FCS,Jacksonville,San Diego,DEFENSE,,Team,SACKS,1
+12345209,11/23/2019,FCS,Jacksonville,San Diego,DEFENSE,,Team,TFL,1
+12345210,11/23/2019,FCS,Jacksonville,San Diego,DEFENSE,,Team,INT,0
+12345211,11/23/2019,FCS,Jacksonville,San Diego,DEFENSE,,Team,FF,0
+12345212,11/23/2019,FCS,Jacksonville,San Diego,DEFENSE,,Team,FR,0

@@ -1,0 +1,164 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+12362001,11/23/2019,FCS,North Dakota St.,Southern Ill.,RUSHING,Adam,Cofield,ATT,15
+12362002,11/23/2019,FCS,North Dakota St.,Southern Ill.,RUSHING,Adam,Cofield,YDS,87
+12362003,11/23/2019,FCS,North Dakota St.,Southern Ill.,RUSHING,Adam,Cofield,TD,1
+12362004,11/23/2019,FCS,North Dakota St.,Southern Ill.,RUSHING,Adam,Cofield,LONG,29
+12362005,11/23/2019,FCS,North Dakota St.,Southern Ill.,RUSHING,Kobe,Johnson,ATT,8
+12362006,11/23/2019,FCS,North Dakota St.,Southern Ill.,RUSHING,Kobe,Johnson,YDS,85
+12362007,11/23/2019,FCS,North Dakota St.,Southern Ill.,RUSHING,Kobe,Johnson,TD,1
+12362008,11/23/2019,FCS,North Dakota St.,Southern Ill.,RUSHING,Kobe,Johnson,LONG,44
+12362009,11/23/2019,FCS,North Dakota St.,Southern Ill.,RUSHING,Trey,Lance,ATT,10
+12362010,11/23/2019,FCS,North Dakota St.,Southern Ill.,RUSHING,Trey,Lance,YDS,57
+12362011,11/23/2019,FCS,North Dakota St.,Southern Ill.,RUSHING,Trey,Lance,TD,1
+12362012,11/23/2019,FCS,North Dakota St.,Southern Ill.,RUSHING,Trey,Lance,LONG,34
+12362013,11/23/2019,FCS,North Dakota St.,Southern Ill.,RUSHING,Ty,Brooks,ATT,6
+12362014,11/23/2019,FCS,North Dakota St.,Southern Ill.,RUSHING,Ty,Brooks,YDS,23
+12362015,11/23/2019,FCS,North Dakota St.,Southern Ill.,RUSHING,Ty,Brooks,TD,0
+12362016,11/23/2019,FCS,North Dakota St.,Southern Ill.,RUSHING,Ty,Brooks,LONG,8
+12362017,11/23/2019,FCS,North Dakota St.,Southern Ill.,RUSHING,Hunter,Luepke,ATT,1
+12362018,11/23/2019,FCS,North Dakota St.,Southern Ill.,RUSHING,Hunter,Luepke,YDS,7
+12362019,11/23/2019,FCS,North Dakota St.,Southern Ill.,RUSHING,Hunter,Luepke,TD,0
+12362020,11/23/2019,FCS,North Dakota St.,Southern Ill.,RUSHING,Hunter,Luepke,LONG,7
+12362021,11/23/2019,FCS,North Dakota St.,Southern Ill.,RUSHING,Phoenix,Sproles,ATT,1
+12362022,11/23/2019,FCS,North Dakota St.,Southern Ill.,RUSHING,Phoenix,Sproles,YDS,1
+12362023,11/23/2019,FCS,North Dakota St.,Southern Ill.,RUSHING,Phoenix,Sproles,TD,0
+12362024,11/23/2019,FCS,North Dakota St.,Southern Ill.,RUSHING,Phoenix,Sproles,LONG,1
+12362025,11/23/2019,FCS,North Dakota St.,Southern Ill.,RUSHING,,Team,ATT,4
+12362026,11/23/2019,FCS,North Dakota St.,Southern Ill.,RUSHING,,Team,YDS,-14
+12362027,11/23/2019,FCS,North Dakota St.,Southern Ill.,RUSHING,,Team,TD,0
+12362028,11/23/2019,FCS,North Dakota St.,Southern Ill.,RUSHING,,Team,LONG,0
+12362029,11/23/2019,FCS,North Dakota St.,Southern Ill.,PASSING,Trey,Lance,CP-ATT-INT,13-23-0
+12362030,11/23/2019,FCS,North Dakota St.,Southern Ill.,PASSING,Trey,Lance,YDS,146
+12362031,11/23/2019,FCS,North Dakota St.,Southern Ill.,PASSING,Trey,Lance,TD,0
+12362032,11/23/2019,FCS,North Dakota St.,Southern Ill.,PASSING,Trey,Lance,LONG,20
+12362033,11/23/2019,FCS,North Dakota St.,Southern Ill.,RECEIVING,Jimmy,Kepouros,REC,6
+12362034,11/23/2019,FCS,North Dakota St.,Southern Ill.,RECEIVING,Jimmy,Kepouros,YDS,80
+12362035,11/23/2019,FCS,North Dakota St.,Southern Ill.,RECEIVING,Jimmy,Kepouros,TD,0
+12362036,11/23/2019,FCS,North Dakota St.,Southern Ill.,RECEIVING,Jimmy,Kepouros,LONG,20
+12362037,11/23/2019,FCS,North Dakota St.,Southern Ill.,RECEIVING,Christian,Watson,REC,3
+12362038,11/23/2019,FCS,North Dakota St.,Southern Ill.,RECEIVING,Christian,Watson,YDS,35
+12362039,11/23/2019,FCS,North Dakota St.,Southern Ill.,RECEIVING,Christian,Watson,TD,0
+12362040,11/23/2019,FCS,North Dakota St.,Southern Ill.,RECEIVING,Christian,Watson,LONG,15
+12362041,11/23/2019,FCS,North Dakota St.,Southern Ill.,RECEIVING,Phoenix,Sproles,REC,1
+12362042,11/23/2019,FCS,North Dakota St.,Southern Ill.,RECEIVING,Phoenix,Sproles,YDS,15
+12362043,11/23/2019,FCS,North Dakota St.,Southern Ill.,RECEIVING,Phoenix,Sproles,TD,0
+12362044,11/23/2019,FCS,North Dakota St.,Southern Ill.,RECEIVING,Phoenix,Sproles,LONG,15
+12362045,11/23/2019,FCS,North Dakota St.,Southern Ill.,RECEIVING,Ben,Ellefson,REC,1
+12362046,11/23/2019,FCS,North Dakota St.,Southern Ill.,RECEIVING,Ben,Ellefson,YDS,6
+12362047,11/23/2019,FCS,North Dakota St.,Southern Ill.,RECEIVING,Ben,Ellefson,TD,0
+12362048,11/23/2019,FCS,North Dakota St.,Southern Ill.,RECEIVING,Ben,Ellefson,LONG,6
+12362049,11/23/2019,FCS,North Dakota St.,Southern Ill.,RECEIVING,Cole,Jacob,REC,1
+12362050,11/23/2019,FCS,North Dakota St.,Southern Ill.,RECEIVING,Cole,Jacob,YDS,5
+12362051,11/23/2019,FCS,North Dakota St.,Southern Ill.,RECEIVING,Cole,Jacob,TD,0
+12362052,11/23/2019,FCS,North Dakota St.,Southern Ill.,RECEIVING,Cole,Jacob,LONG,5
+12362053,11/23/2019,FCS,North Dakota St.,Southern Ill.,RECEIVING,Hunter,Luepke,REC,1
+12362054,11/23/2019,FCS,North Dakota St.,Southern Ill.,RECEIVING,Hunter,Luepke,YDS,5
+12362055,11/23/2019,FCS,North Dakota St.,Southern Ill.,RECEIVING,Hunter,Luepke,TD,0
+12362056,11/23/2019,FCS,North Dakota St.,Southern Ill.,RECEIVING,Hunter,Luepke,LONG,5
+12362057,11/23/2019,FCS,North Dakota St.,Southern Ill.,KICKING,Griffin,Crosa,FG-FGA,0/0
+12362058,11/23/2019,FCS,North Dakota St.,Southern Ill.,KICKING,Griffin,Crosa,LONG,-
+12362059,11/23/2019,FCS,North Dakota St.,Southern Ill.,KICKING,Griffin,Crosa,XP,3
+12362060,11/23/2019,FCS,North Dakota St.,Southern Ill.,KICKING,Griffin,Crosa,PTS,3
+12362061,11/23/2019,FCS,North Dakota St.,Southern Ill.,PUNTING,Garret,Wegner,NO,3
+12362062,11/23/2019,FCS,North Dakota St.,Southern Ill.,PUNTING,Garret,Wegner,YDS,89
+12362063,11/23/2019,FCS,North Dakota St.,Southern Ill.,PUNTING,Garret,Wegner,AVG,29.7
+12362064,11/23/2019,FCS,North Dakota St.,Southern Ill.,PUNTING,Garret,Wegner,LONG,37
+12362065,11/23/2019,FCS,North Dakota St.,Southern Ill.,PUNT RETURNS,Trevor,Heit,NO,1
+12362066,11/23/2019,FCS,North Dakota St.,Southern Ill.,PUNT RETURNS,Trevor,Heit,YDS,21
+12362067,11/23/2019,FCS,North Dakota St.,Southern Ill.,PUNT RETURNS,Trevor,Heit,AVG,21.0
+12362068,11/23/2019,FCS,North Dakota St.,Southern Ill.,PUNT RETURNS,Trevor,Heit,LONG,21
+12362069,11/23/2019,FCS,North Dakota St.,Southern Ill.,KICK RETURNS,Christian,Watson,NO,1
+12362070,11/23/2019,FCS,North Dakota St.,Southern Ill.,KICK RETURNS,Christian,Watson,YDS,20
+12362071,11/23/2019,FCS,North Dakota St.,Southern Ill.,KICK RETURNS,Christian,Watson,AVG,20.0
+12362072,11/23/2019,FCS,North Dakota St.,Southern Ill.,KICK RETURNS,Christian,Watson,LONG,20
+12362073,11/23/2019,FCS,North Dakota St.,Southern Ill.,KICK RETURNS,Kobe,Johnson,NO,1
+12362074,11/23/2019,FCS,North Dakota St.,Southern Ill.,KICK RETURNS,Kobe,Johnson,YDS,4
+12362075,11/23/2019,FCS,North Dakota St.,Southern Ill.,KICK RETURNS,Kobe,Johnson,AVG,4.0
+12362076,11/23/2019,FCS,North Dakota St.,Southern Ill.,KICK RETURNS,Kobe,Johnson,LONG,4
+12362077,11/23/2019,FCS,North Dakota St.,Southern Ill.,DEFENSE,Derrek,Tuszka,TOT,0
+12362078,11/23/2019,FCS,North Dakota St.,Southern Ill.,DEFENSE,Derrek,Tuszka,SOLO,0
+12362079,11/23/2019,FCS,North Dakota St.,Southern Ill.,DEFENSE,Derrek,Tuszka,SACKS,1
+12362080,11/23/2019,FCS,North Dakota St.,Southern Ill.,DEFENSE,Derrek,Tuszka,TFL,0
+12362081,11/23/2019,FCS,North Dakota St.,Southern Ill.,DEFENSE,Derrek,Tuszka,INT,0
+12362082,11/23/2019,FCS,North Dakota St.,Southern Ill.,DEFENSE,Derrek,Tuszka,FF,0
+12362083,11/23/2019,FCS,North Dakota St.,Southern Ill.,DEFENSE,Derrek,Tuszka,FR,0
+12362084,11/23/2019,FCS,North Dakota St.,Southern Ill.,DEFENSE,Jabril,Cox,TOT,0
+12362085,11/23/2019,FCS,North Dakota St.,Southern Ill.,DEFENSE,Jabril,Cox,SOLO,0
+12362086,11/23/2019,FCS,North Dakota St.,Southern Ill.,DEFENSE,Jabril,Cox,SACKS,1
+12362087,11/23/2019,FCS,North Dakota St.,Southern Ill.,DEFENSE,Jabril,Cox,TFL,0
+12362088,11/23/2019,FCS,North Dakota St.,Southern Ill.,DEFENSE,Jabril,Cox,INT,0
+12362089,11/23/2019,FCS,North Dakota St.,Southern Ill.,DEFENSE,Jabril,Cox,FF,0
+12362090,11/23/2019,FCS,North Dakota St.,Southern Ill.,DEFENSE,Jabril,Cox,FR,0
+12362091,11/23/2019,FCS,North Dakota St.,Southern Ill.,DEFENSE,James,Hendricks,TOT,0
+12362092,11/23/2019,FCS,North Dakota St.,Southern Ill.,DEFENSE,James,Hendricks,SOLO,0
+12362093,11/23/2019,FCS,North Dakota St.,Southern Ill.,DEFENSE,James,Hendricks,SACKS,0
+12362094,11/23/2019,FCS,North Dakota St.,Southern Ill.,DEFENSE,James,Hendricks,TFL,0
+12362095,11/23/2019,FCS,North Dakota St.,Southern Ill.,DEFENSE,James,Hendricks,INT,1
+12362096,11/23/2019,FCS,North Dakota St.,Southern Ill.,DEFENSE,James,Hendricks,FF,0
+12362097,11/23/2019,FCS,North Dakota St.,Southern Ill.,DEFENSE,James,Hendricks,FR,0
+12362098,11/23/2019,FCS,Southern Ill.,North Dakota St.,RUSHING,Javon,WilliamsJr.,ATT,23
+12362099,11/23/2019,FCS,Southern Ill.,North Dakota St.,RUSHING,Javon,WilliamsJr.,YDS,117
+12362100,11/23/2019,FCS,Southern Ill.,North Dakota St.,RUSHING,Javon,WilliamsJr.,TD,1
+12362101,11/23/2019,FCS,Southern Ill.,North Dakota St.,RUSHING,Javon,WilliamsJr.,LONG,30
+12362102,11/23/2019,FCS,Southern Ill.,North Dakota St.,RUSHING,D.J.,Davis,ATT,13
+12362103,11/23/2019,FCS,Southern Ill.,North Dakota St.,RUSHING,D.J.,Davis,YDS,70
+12362104,11/23/2019,FCS,Southern Ill.,North Dakota St.,RUSHING,D.J.,Davis,TD,0
+12362105,11/23/2019,FCS,Southern Ill.,North Dakota St.,RUSHING,D.J.,Davis,LONG,34
+12362106,11/23/2019,FCS,Southern Ill.,North Dakota St.,RUSHING,Avante,Cox,ATT,1
+12362107,11/23/2019,FCS,Southern Ill.,North Dakota St.,RUSHING,Avante,Cox,YDS,13
+12362108,11/23/2019,FCS,Southern Ill.,North Dakota St.,RUSHING,Avante,Cox,TD,0
+12362109,11/23/2019,FCS,Southern Ill.,North Dakota St.,RUSHING,Avante,Cox,LONG,13
+12362110,11/23/2019,FCS,Southern Ill.,North Dakota St.,RUSHING,Kare,Lyles,ATT,5
+12362111,11/23/2019,FCS,Southern Ill.,North Dakota St.,RUSHING,Kare,Lyles,YDS,6
+12362112,11/23/2019,FCS,Southern Ill.,North Dakota St.,RUSHING,Kare,Lyles,TD,0
+12362113,11/23/2019,FCS,Southern Ill.,North Dakota St.,RUSHING,Kare,Lyles,LONG,6
+12362114,11/23/2019,FCS,Southern Ill.,North Dakota St.,PASSING,Kare,Lyles,CP-ATT-INT,6-10-1
+12362115,11/23/2019,FCS,Southern Ill.,North Dakota St.,PASSING,Kare,Lyles,YDS,70
+12362116,11/23/2019,FCS,Southern Ill.,North Dakota St.,PASSING,Kare,Lyles,TD,0
+12362117,11/23/2019,FCS,Southern Ill.,North Dakota St.,PASSING,Kare,Lyles,LONG,17
+12362118,11/23/2019,FCS,Southern Ill.,North Dakota St.,PASSING,Javon,WilliamsJr.,CP-ATT-INT,0-0-0
+12362119,11/23/2019,FCS,Southern Ill.,North Dakota St.,PASSING,Javon,WilliamsJr.,YDS,0
+12362120,11/23/2019,FCS,Southern Ill.,North Dakota St.,PASSING,Javon,WilliamsJr.,TD,0
+12362121,11/23/2019,FCS,Southern Ill.,North Dakota St.,PASSING,Javon,WilliamsJr.,LONG,0
+12362122,11/23/2019,FCS,Southern Ill.,North Dakota St.,RECEIVING,Avante,Cox,REC,2
+12362123,11/23/2019,FCS,Southern Ill.,North Dakota St.,RECEIVING,Avante,Cox,YDS,25
+12362124,11/23/2019,FCS,Southern Ill.,North Dakota St.,RECEIVING,Avante,Cox,TD,0
+12362125,11/23/2019,FCS,Southern Ill.,North Dakota St.,RECEIVING,Avante,Cox,LONG,17
+12362126,11/23/2019,FCS,Southern Ill.,North Dakota St.,RECEIVING,Landon,Lenoir,REC,2
+12362127,11/23/2019,FCS,Southern Ill.,North Dakota St.,RECEIVING,Landon,Lenoir,YDS,24
+12362128,11/23/2019,FCS,Southern Ill.,North Dakota St.,RECEIVING,Landon,Lenoir,TD,0
+12362129,11/23/2019,FCS,Southern Ill.,North Dakota St.,RECEIVING,Landon,Lenoir,LONG,17
+12362130,11/23/2019,FCS,Southern Ill.,North Dakota St.,RECEIVING,D.J.,Davis,REC,1
+12362131,11/23/2019,FCS,Southern Ill.,North Dakota St.,RECEIVING,D.J.,Davis,YDS,12
+12362132,11/23/2019,FCS,Southern Ill.,North Dakota St.,RECEIVING,D.J.,Davis,TD,0
+12362133,11/23/2019,FCS,Southern Ill.,North Dakota St.,RECEIVING,D.J.,Davis,LONG,12
+12362134,11/23/2019,FCS,Southern Ill.,North Dakota St.,RECEIVING,Javon,WilliamsJr.,REC,1
+12362135,11/23/2019,FCS,Southern Ill.,North Dakota St.,RECEIVING,Javon,WilliamsJr.,YDS,9
+12362136,11/23/2019,FCS,Southern Ill.,North Dakota St.,RECEIVING,Javon,WilliamsJr.,TD,0
+12362137,11/23/2019,FCS,Southern Ill.,North Dakota St.,RECEIVING,Javon,WilliamsJr.,LONG,9
+12362138,11/23/2019,FCS,Southern Ill.,North Dakota St.,KICKING,Nico,Gualdoni,FG-FGA,0/1
+12362139,11/23/2019,FCS,Southern Ill.,North Dakota St.,KICKING,Nico,Gualdoni,LONG,0
+12362140,11/23/2019,FCS,Southern Ill.,North Dakota St.,KICKING,Nico,Gualdoni,XP,1
+12362141,11/23/2019,FCS,Southern Ill.,North Dakota St.,KICKING,Nico,Gualdoni,PTS,1
+12362142,11/23/2019,FCS,Southern Ill.,North Dakota St.,PUNTING,Jack,Colquhoun,NO,4
+12362143,11/23/2019,FCS,Southern Ill.,North Dakota St.,PUNTING,Jack,Colquhoun,YDS,179
+12362144,11/23/2019,FCS,Southern Ill.,North Dakota St.,PUNTING,Jack,Colquhoun,AVG,44.8
+12362145,11/23/2019,FCS,Southern Ill.,North Dakota St.,PUNTING,Jack,Colquhoun,LONG,53
+12362146,11/23/2019,FCS,Southern Ill.,North Dakota St.,KICK RETURNS,Avante,Cox,NO,3
+12362147,11/23/2019,FCS,Southern Ill.,North Dakota St.,KICK RETURNS,Avante,Cox,YDS,37
+12362148,11/23/2019,FCS,Southern Ill.,North Dakota St.,KICK RETURNS,Avante,Cox,AVG,12.3
+12362149,11/23/2019,FCS,Southern Ill.,North Dakota St.,KICK RETURNS,Avante,Cox,LONG,18
+12362150,11/23/2019,FCS,Southern Ill.,North Dakota St.,DEFENSE,Kyonta,Stallworth,TOT,0
+12362151,11/23/2019,FCS,Southern Ill.,North Dakota St.,DEFENSE,Kyonta,Stallworth,SOLO,0
+12362152,11/23/2019,FCS,Southern Ill.,North Dakota St.,DEFENSE,Kyonta,Stallworth,SACKS,1
+12362153,11/23/2019,FCS,Southern Ill.,North Dakota St.,DEFENSE,Kyonta,Stallworth,TFL,0
+12362154,11/23/2019,FCS,Southern Ill.,North Dakota St.,DEFENSE,Kyonta,Stallworth,INT,0
+12362155,11/23/2019,FCS,Southern Ill.,North Dakota St.,DEFENSE,Kyonta,Stallworth,FF,0
+12362156,11/23/2019,FCS,Southern Ill.,North Dakota St.,DEFENSE,Kyonta,Stallworth,FR,0
+12362157,11/23/2019,FCS,Southern Ill.,North Dakota St.,DEFENSE,Jeremy,Chinn,TOT,0
+12362158,11/23/2019,FCS,Southern Ill.,North Dakota St.,DEFENSE,Jeremy,Chinn,SOLO,0
+12362159,11/23/2019,FCS,Southern Ill.,North Dakota St.,DEFENSE,Jeremy,Chinn,SACKS,1
+12362160,11/23/2019,FCS,Southern Ill.,North Dakota St.,DEFENSE,Jeremy,Chinn,TFL,0
+12362161,11/23/2019,FCS,Southern Ill.,North Dakota St.,DEFENSE,Jeremy,Chinn,INT,0
+12362162,11/23/2019,FCS,Southern Ill.,North Dakota St.,DEFENSE,Jeremy,Chinn,FF,0
+12362163,11/23/2019,FCS,Southern Ill.,North Dakota St.,DEFENSE,Jeremy,Chinn,FR,0

@@ -1,0 +1,173 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+6989001,9/21/2013,FCS,Idaho State,Washington,RUSHING,Xavier,Finney,ATT,12
+6989002,9/21/2013,FCS,Idaho State,Washington,RUSHING,Xavier,Finney,YDS,40
+6989003,9/21/2013,FCS,Idaho State,Washington,RUSHING,Xavier,Finney,TD,0
+6989004,9/21/2013,FCS,Idaho State,Washington,RUSHING,Xavier,Finney,LONG,7
+6989005,9/21/2013,FCS,Idaho State,Washington,RUSHING,Aaron,Prier,ATT,4
+6989006,9/21/2013,FCS,Idaho State,Washington,RUSHING,Aaron,Prier,YDS,23
+6989007,9/21/2013,FCS,Idaho State,Washington,RUSHING,Aaron,Prier,TD,0
+6989008,9/21/2013,FCS,Idaho State,Washington,RUSHING,Aaron,Prier,LONG,9
+6989009,9/21/2013,FCS,Idaho State,Washington,RUSHING,Trevor,Spence,ATT,1
+6989010,9/21/2013,FCS,Idaho State,Washington,RUSHING,Trevor,Spence,YDS,4
+6989011,9/21/2013,FCS,Idaho State,Washington,RUSHING,Trevor,Spence,TD,0
+6989012,9/21/2013,FCS,Idaho State,Washington,RUSHING,Trevor,Spence,LONG,4
+6989013,9/21/2013,FCS,Idaho State,Washington,RUSHING,,Team,ATT,1
+6989014,9/21/2013,FCS,Idaho State,Washington,RUSHING,,Team,YDS,-2
+6989015,9/21/2013,FCS,Idaho State,Washington,RUSHING,,Team,TD,0
+6989016,9/21/2013,FCS,Idaho State,Washington,RUSHING,,Team,LONG,0
+6989017,9/21/2013,FCS,Idaho State,Washington,RUSHING,Justin,Arias,ATT,10
+6989018,9/21/2013,FCS,Idaho State,Washington,RUSHING,Justin,Arias,YDS,-43
+6989019,9/21/2013,FCS,Idaho State,Washington,RUSHING,Justin,Arias,TD,0
+6989020,9/21/2013,FCS,Idaho State,Washington,RUSHING,Justin,Arias,LONG,6
+6989021,9/21/2013,FCS,Idaho State,Washington,PASSING,Justin,Arias,CP-ATT-INT,18-39-2
+6989022,9/21/2013,FCS,Idaho State,Washington,PASSING,Justin,Arias,YDS,140
+6989023,9/21/2013,FCS,Idaho State,Washington,PASSING,Justin,Arias,TD,0
+6989024,9/21/2013,FCS,Idaho State,Washington,PASSING,Justin,Arias,LONG,32
+6989025,9/21/2013,FCS,Idaho State,Washington,PASSING,C.J.,Reyes,CP-ATT-INT,1-1-0
+6989026,9/21/2013,FCS,Idaho State,Washington,PASSING,C.J.,Reyes,YDS,2
+6989027,9/21/2013,FCS,Idaho State,Washington,PASSING,C.J.,Reyes,TD,0
+6989028,9/21/2013,FCS,Idaho State,Washington,PASSING,C.J.,Reyes,LONG,2
+6989029,9/21/2013,FCS,Idaho State,Washington,RECEIVING,Broc,Malcom,REC,7
+6989030,9/21/2013,FCS,Idaho State,Washington,RECEIVING,Broc,Malcom,YDS,69
+6989031,9/21/2013,FCS,Idaho State,Washington,RECEIVING,Broc,Malcom,TD,0
+6989032,9/21/2013,FCS,Idaho State,Washington,RECEIVING,Broc,Malcom,LONG,21
+6989033,9/21/2013,FCS,Idaho State,Washington,RECEIVING,Cameron,Richmond,REC,5
+6989034,9/21/2013,FCS,Idaho State,Washington,RECEIVING,Cameron,Richmond,YDS,16
+6989035,9/21/2013,FCS,Idaho State,Washington,RECEIVING,Cameron,Richmond,TD,0
+6989036,9/21/2013,FCS,Idaho State,Washington,RECEIVING,Cameron,Richmond,LONG,5
+6989037,9/21/2013,FCS,Idaho State,Washington,RECEIVING,Xavier,Finney,REC,3
+6989038,9/21/2013,FCS,Idaho State,Washington,RECEIVING,Xavier,Finney,YDS,46
+6989039,9/21/2013,FCS,Idaho State,Washington,RECEIVING,Xavier,Finney,TD,0
+6989040,9/21/2013,FCS,Idaho State,Washington,RECEIVING,Xavier,Finney,LONG,32
+6989041,9/21/2013,FCS,Idaho State,Washington,RECEIVING,Aaron,Prier,REC,2
+6989042,9/21/2013,FCS,Idaho State,Washington,RECEIVING,Aaron,Prier,YDS,5
+6989043,9/21/2013,FCS,Idaho State,Washington,RECEIVING,Aaron,Prier,TD,0
+6989044,9/21/2013,FCS,Idaho State,Washington,RECEIVING,Aaron,Prier,LONG,3
+6989045,9/21/2013,FCS,Idaho State,Washington,RECEIVING,Josh,Cook,REC,1
+6989046,9/21/2013,FCS,Idaho State,Washington,RECEIVING,Josh,Cook,YDS,5
+6989047,9/21/2013,FCS,Idaho State,Washington,RECEIVING,Josh,Cook,TD,0
+6989048,9/21/2013,FCS,Idaho State,Washington,RECEIVING,Josh,Cook,LONG,5
+6989049,9/21/2013,FCS,Idaho State,Washington,RECEIVING,Madison,Mangum,REC,1
+6989050,9/21/2013,FCS,Idaho State,Washington,RECEIVING,Madison,Mangum,YDS,1
+6989051,9/21/2013,FCS,Idaho State,Washington,RECEIVING,Madison,Mangum,TD,0
+6989052,9/21/2013,FCS,Idaho State,Washington,RECEIVING,Madison,Mangum,LONG,1
+6989053,9/21/2013,FCS,Idaho State,Washington,KICKING,Brendon,Garcia,FG-FGA,0/2
+6989054,9/21/2013,FCS,Idaho State,Washington,KICKING,Brendon,Garcia,LONG,-
+6989055,9/21/2013,FCS,Idaho State,Washington,KICKING,Brendon,Garcia,XP,0
+6989056,9/21/2013,FCS,Idaho State,Washington,KICKING,Brendon,Garcia,PTS,0
+6989057,9/21/2013,FCS,Idaho State,Washington,PUNTING,C.J.,Reyes,NO,7
+6989058,9/21/2013,FCS,Idaho State,Washington,PUNTING,C.J.,Reyes,YDS,252
+6989059,9/21/2013,FCS,Idaho State,Washington,PUNTING,C.J.,Reyes,AVG,36.0
+6989060,9/21/2013,FCS,Idaho State,Washington,PUNTING,C.J.,Reyes,LONG,64
+6989061,9/21/2013,FCS,Idaho State,Washington,KICK RETURNS,Cameron,Gupton,NO,3
+6989062,9/21/2013,FCS,Idaho State,Washington,KICK RETURNS,Cameron,Gupton,YDS,40
+6989063,9/21/2013,FCS,Idaho State,Washington,KICK RETURNS,Cameron,Gupton,AVG,13.3
+6989064,9/21/2013,FCS,Idaho State,Washington,KICK RETURNS,Cameron,Gupton,LONG,16
+6989065,9/21/2013,FCS,Washington,Idaho State,RUSHING,Cyler,Miles,ATT,4
+6989066,9/21/2013,FCS,Washington,Idaho State,RUSHING,Cyler,Miles,YDS,89
+6989067,9/21/2013,FCS,Washington,Idaho State,RUSHING,Cyler,Miles,TD,0
+6989068,9/21/2013,FCS,Washington,Idaho State,RUSHING,Cyler,Miles,LONG,61
+6989069,9/21/2013,FCS,Washington,Idaho State,RUSHING,Bishop,Sankey,ATT,4
+6989070,9/21/2013,FCS,Washington,Idaho State,RUSHING,Bishop,Sankey,YDS,77
+6989071,9/21/2013,FCS,Washington,Idaho State,RUSHING,Bishop,Sankey,TD,1
+6989072,9/21/2013,FCS,Washington,Idaho State,RUSHING,Bishop,Sankey,LONG,36
+6989073,9/21/2013,FCS,Washington,Idaho State,RUSHING,Deontae,Cooper,ATT,14
+6989074,9/21/2013,FCS,Washington,Idaho State,RUSHING,Deontae,Cooper,YDS,59
+6989075,9/21/2013,FCS,Washington,Idaho State,RUSHING,Deontae,Cooper,TD,1
+6989076,9/21/2013,FCS,Washington,Idaho State,RUSHING,Deontae,Cooper,LONG,9
+6989077,9/21/2013,FCS,Washington,Idaho State,RUSHING,Dwayne,Washington,ATT,10
+6989078,9/21/2013,FCS,Washington,Idaho State,RUSHING,Dwayne,Washington,YDS,51
+6989079,9/21/2013,FCS,Washington,Idaho State,RUSHING,Dwayne,Washington,TD,0
+6989080,9/21/2013,FCS,Washington,Idaho State,RUSHING,Dwayne,Washington,LONG,11
+6989081,9/21/2013,FCS,Washington,Idaho State,RUSHING,Ryan,McDaniel,ATT,10
+6989082,9/21/2013,FCS,Washington,Idaho State,RUSHING,Ryan,McDaniel,YDS,47
+6989083,9/21/2013,FCS,Washington,Idaho State,RUSHING,Ryan,McDaniel,TD,0
+6989084,9/21/2013,FCS,Washington,Idaho State,RUSHING,Ryan,McDaniel,LONG,14
+6989085,9/21/2013,FCS,Washington,Idaho State,RUSHING,Jesse,Callier,ATT,7
+6989086,9/21/2013,FCS,Washington,Idaho State,RUSHING,Jesse,Callier,YDS,42
+6989087,9/21/2013,FCS,Washington,Idaho State,RUSHING,Jesse,Callier,TD,1
+6989088,9/21/2013,FCS,Washington,Idaho State,RUSHING,Jesse,Callier,LONG,21
+6989089,9/21/2013,FCS,Washington,Idaho State,RUSHING,Jeff,Lindquist,ATT,1
+6989090,9/21/2013,FCS,Washington,Idaho State,RUSHING,Jeff,Lindquist,YDS,5
+6989091,9/21/2013,FCS,Washington,Idaho State,RUSHING,Jeff,Lindquist,TD,0
+6989092,9/21/2013,FCS,Washington,Idaho State,RUSHING,Jeff,Lindquist,LONG,5
+6989093,9/21/2013,FCS,Washington,Idaho State,RUSHING,Jaydon,Mickens,ATT,1
+6989094,9/21/2013,FCS,Washington,Idaho State,RUSHING,Jaydon,Mickens,YDS,1
+6989095,9/21/2013,FCS,Washington,Idaho State,RUSHING,Jaydon,Mickens,TD,0
+6989096,9/21/2013,FCS,Washington,Idaho State,RUSHING,Jaydon,Mickens,LONG,1
+6989097,9/21/2013,FCS,Washington,Idaho State,RUSHING,Keith,Price,ATT,1
+6989098,9/21/2013,FCS,Washington,Idaho State,RUSHING,Keith,Price,YDS,1
+6989099,9/21/2013,FCS,Washington,Idaho State,RUSHING,Keith,Price,TD,1
+6989100,9/21/2013,FCS,Washington,Idaho State,RUSHING,Keith,Price,LONG,1
+6989101,9/21/2013,FCS,Washington,Idaho State,RUSHING,DiAndre,Campbell,ATT,1
+6989102,9/21/2013,FCS,Washington,Idaho State,RUSHING,DiAndre,Campbell,YDS,-2
+6989103,9/21/2013,FCS,Washington,Idaho State,RUSHING,DiAndre,Campbell,TD,0
+6989104,9/21/2013,FCS,Washington,Idaho State,RUSHING,DiAndre,Campbell,LONG,0
+6989105,9/21/2013,FCS,Washington,Idaho State,PASSING,Keith,Price,CP-ATT-INT,16-21-0
+6989106,9/21/2013,FCS,Washington,Idaho State,PASSING,Keith,Price,YDS,213
+6989107,9/21/2013,FCS,Washington,Idaho State,PASSING,Keith,Price,TD,3
+6989108,9/21/2013,FCS,Washington,Idaho State,PASSING,Keith,Price,LONG,34
+6989109,9/21/2013,FCS,Washington,Idaho State,PASSING,Cyler,Miles,CP-ATT-INT,5-7-0
+6989110,9/21/2013,FCS,Washington,Idaho State,PASSING,Cyler,Miles,YDS,97
+6989111,9/21/2013,FCS,Washington,Idaho State,PASSING,Cyler,Miles,TD,1
+6989112,9/21/2013,FCS,Washington,Idaho State,PASSING,Cyler,Miles,LONG,57
+6989113,9/21/2013,FCS,Washington,Idaho State,RECEIVING,Austin,Seferian-Jenkins,REC,5
+6989114,9/21/2013,FCS,Washington,Idaho State,RECEIVING,Austin,Seferian-Jenkins,YDS,62
+6989115,9/21/2013,FCS,Washington,Idaho State,RECEIVING,Austin,Seferian-Jenkins,TD,1
+6989116,9/21/2013,FCS,Washington,Idaho State,RECEIVING,Austin,Seferian-Jenkins,LONG,34
+6989117,9/21/2013,FCS,Washington,Idaho State,RECEIVING,Kasen,Williams,REC,4
+6989118,9/21/2013,FCS,Washington,Idaho State,RECEIVING,Kasen,Williams,YDS,78
+6989119,9/21/2013,FCS,Washington,Idaho State,RECEIVING,Kasen,Williams,TD,0
+6989120,9/21/2013,FCS,Washington,Idaho State,RECEIVING,Kasen,Williams,LONG,30
+6989121,9/21/2013,FCS,Washington,Idaho State,RECEIVING,Jaydon,Mickens,REC,3
+6989122,9/21/2013,FCS,Washington,Idaho State,RECEIVING,Jaydon,Mickens,YDS,39
+6989123,9/21/2013,FCS,Washington,Idaho State,RECEIVING,Jaydon,Mickens,TD,0
+6989124,9/21/2013,FCS,Washington,Idaho State,RECEIVING,Jaydon,Mickens,LONG,30
+6989125,9/21/2013,FCS,Washington,Idaho State,RECEIVING,Kevin,Smith,REC,2
+6989126,9/21/2013,FCS,Washington,Idaho State,RECEIVING,Kevin,Smith,YDS,28
+6989127,9/21/2013,FCS,Washington,Idaho State,RECEIVING,Kevin,Smith,TD,0
+6989128,9/21/2013,FCS,Washington,Idaho State,RECEIVING,Kevin,Smith,LONG,19
+6989129,9/21/2013,FCS,Washington,Idaho State,RECEIVING,Marvin,Hall,REC,2
+6989130,9/21/2013,FCS,Washington,Idaho State,RECEIVING,Marvin,Hall,YDS,20
+6989131,9/21/2013,FCS,Washington,Idaho State,RECEIVING,Marvin,Hall,TD,0
+6989132,9/21/2013,FCS,Washington,Idaho State,RECEIVING,Marvin,Hall,LONG,11
+6989133,9/21/2013,FCS,Washington,Idaho State,RECEIVING,John,Ross,REC,1
+6989134,9/21/2013,FCS,Washington,Idaho State,RECEIVING,John,Ross,YDS,57
+6989135,9/21/2013,FCS,Washington,Idaho State,RECEIVING,John,Ross,TD,1
+6989136,9/21/2013,FCS,Washington,Idaho State,RECEIVING,John,Ross,LONG,57
+6989137,9/21/2013,FCS,Washington,Idaho State,RECEIVING,DiAndre,Campbell,REC,1
+6989138,9/21/2013,FCS,Washington,Idaho State,RECEIVING,DiAndre,Campbell,YDS,13
+6989139,9/21/2013,FCS,Washington,Idaho State,RECEIVING,DiAndre,Campbell,TD,0
+6989140,9/21/2013,FCS,Washington,Idaho State,RECEIVING,DiAndre,Campbell,LONG,13
+6989141,9/21/2013,FCS,Washington,Idaho State,RECEIVING,Demore'ea,Stringfellow,REC,1
+6989142,9/21/2013,FCS,Washington,Idaho State,RECEIVING,Demore'ea,Stringfellow,YDS,7
+6989143,9/21/2013,FCS,Washington,Idaho State,RECEIVING,Demore'ea,Stringfellow,TD,0
+6989144,9/21/2013,FCS,Washington,Idaho State,RECEIVING,Demore'ea,Stringfellow,LONG,7
+6989145,9/21/2013,FCS,Washington,Idaho State,RECEIVING,Dwayne,Washington,REC,1
+6989146,9/21/2013,FCS,Washington,Idaho State,RECEIVING,Dwayne,Washington,YDS,5
+6989147,9/21/2013,FCS,Washington,Idaho State,RECEIVING,Dwayne,Washington,TD,1
+6989148,9/21/2013,FCS,Washington,Idaho State,RECEIVING,Dwayne,Washington,LONG,5
+6989149,9/21/2013,FCS,Washington,Idaho State,RECEIVING,Joshua,Perkins,REC,1
+6989150,9/21/2013,FCS,Washington,Idaho State,RECEIVING,Joshua,Perkins,YDS,1
+6989151,9/21/2013,FCS,Washington,Idaho State,RECEIVING,Joshua,Perkins,TD,1
+6989152,9/21/2013,FCS,Washington,Idaho State,RECEIVING,Joshua,Perkins,LONG,1
+6989153,9/21/2013,FCS,Washington,Idaho State,KICKING,Travis,Coons,FG-FGA,0/0
+6989154,9/21/2013,FCS,Washington,Idaho State,KICKING,Travis,Coons,LONG,-
+6989155,9/21/2013,FCS,Washington,Idaho State,KICKING,Travis,Coons,XP,8
+6989156,9/21/2013,FCS,Washington,Idaho State,KICKING,Travis,Coons,PTS,8
+6989157,9/21/2013,FCS,Washington,Idaho State,PUNTING,Travis,Coons,NO,1
+6989158,9/21/2013,FCS,Washington,Idaho State,PUNTING,Travis,Coons,YDS,36
+6989159,9/21/2013,FCS,Washington,Idaho State,PUNTING,Travis,Coons,AVG,36.0
+6989160,9/21/2013,FCS,Washington,Idaho State,PUNTING,Travis,Coons,LONG,36
+6989161,9/21/2013,FCS,Washington,Idaho State,PUNT RETURNS,John,Ross,NO,2
+6989162,9/21/2013,FCS,Washington,Idaho State,PUNT RETURNS,John,Ross,YDS,7
+6989163,9/21/2013,FCS,Washington,Idaho State,PUNT RETURNS,John,Ross,AVG,3.5
+6989164,9/21/2013,FCS,Washington,Idaho State,PUNT RETURNS,John,Ross,LONG,10
+6989165,9/21/2013,FCS,Washington,Idaho State,PUNT RETURNS,Kevin,King,NO,0
+6989166,9/21/2013,FCS,Washington,Idaho State,PUNT RETURNS,Kevin,King,YDS,-4
+6989167,9/21/2013,FCS,Washington,Idaho State,PUNT RETURNS,Kevin,King,AVG,-
+6989168,9/21/2013,FCS,Washington,Idaho State,PUNT RETURNS,Kevin,King,LONG,0
+6989169,9/21/2013,FCS,Washington,Idaho State,KICK RETURNS,Kevin,Smith,NO,1
+6989170,9/21/2013,FCS,Washington,Idaho State,KICK RETURNS,Kevin,Smith,YDS,9
+6989171,9/21/2013,FCS,Washington,Idaho State,KICK RETURNS,Kevin,Smith,AVG,9.0
+6989172,9/21/2013,FCS,Washington,Idaho State,KICK RETURNS,Kevin,Smith,LONG,9

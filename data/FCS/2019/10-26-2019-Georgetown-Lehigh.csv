@@ -1,0 +1,165 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+12081001,10/26/2019,FCS,Georgetown,Lehigh,RUSHING,Jackson,Saffold,ATT,15
+12081002,10/26/2019,FCS,Georgetown,Lehigh,RUSHING,Jackson,Saffold,YDS,58
+12081003,10/26/2019,FCS,Georgetown,Lehigh,RUSHING,Jackson,Saffold,TD,0
+12081004,10/26/2019,FCS,Georgetown,Lehigh,RUSHING,Jackson,Saffold,LONG,11
+12081005,10/26/2019,FCS,Georgetown,Lehigh,RUSHING,Joshua,Stakely,ATT,5
+12081006,10/26/2019,FCS,Georgetown,Lehigh,RUSHING,Joshua,Stakely,YDS,15
+12081007,10/26/2019,FCS,Georgetown,Lehigh,RUSHING,Joshua,Stakely,TD,0
+12081008,10/26/2019,FCS,Georgetown,Lehigh,RUSHING,Joshua,Stakely,LONG,6
+12081009,10/26/2019,FCS,Georgetown,Lehigh,RUSHING,Joshua,Tomas,ATT,1
+12081010,10/26/2019,FCS,Georgetown,Lehigh,RUSHING,Joshua,Tomas,YDS,-1
+12081011,10/26/2019,FCS,Georgetown,Lehigh,RUSHING,Joshua,Tomas,TD,0
+12081012,10/26/2019,FCS,Georgetown,Lehigh,RUSHING,Joshua,Tomas,LONG,0
+12081013,10/26/2019,FCS,Georgetown,Lehigh,RUSHING,Gunther,Johnson,ATT,6
+12081014,10/26/2019,FCS,Georgetown,Lehigh,RUSHING,Gunther,Johnson,YDS,-8
+12081015,10/26/2019,FCS,Georgetown,Lehigh,RUSHING,Gunther,Johnson,TD,0
+12081016,10/26/2019,FCS,Georgetown,Lehigh,RUSHING,Gunther,Johnson,LONG,3
+12081017,10/26/2019,FCS,Georgetown,Lehigh,PASSING,Gunther,Johnson,CP-ATT-INT,20-30-0
+12081018,10/26/2019,FCS,Georgetown,Lehigh,PASSING,Gunther,Johnson,YDS,267
+12081019,10/26/2019,FCS,Georgetown,Lehigh,PASSING,Gunther,Johnson,TD,3
+12081020,10/26/2019,FCS,Georgetown,Lehigh,PASSING,Gunther,Johnson,LONG,72
+12081021,10/26/2019,FCS,Georgetown,Lehigh,PASSING,,Team,CP-ATT-INT,0-1-0
+12081022,10/26/2019,FCS,Georgetown,Lehigh,PASSING,,Team,YDS,0
+12081023,10/26/2019,FCS,Georgetown,Lehigh,PASSING,,Team,TD,0
+12081024,10/26/2019,FCS,Georgetown,Lehigh,PASSING,,Team,LONG,0
+12081025,10/26/2019,FCS,Georgetown,Lehigh,RECEIVING,Michael,Dereus,REC,6
+12081026,10/26/2019,FCS,Georgetown,Lehigh,RECEIVING,Michael,Dereus,YDS,155
+12081027,10/26/2019,FCS,Georgetown,Lehigh,RECEIVING,Michael,Dereus,TD,1
+12081028,10/26/2019,FCS,Georgetown,Lehigh,RECEIVING,Michael,Dereus,LONG,72
+12081029,10/26/2019,FCS,Georgetown,Lehigh,RECEIVING,Cameron,Crayton,REC,5
+12081030,10/26/2019,FCS,Georgetown,Lehigh,RECEIVING,Cameron,Crayton,YDS,57
+12081031,10/26/2019,FCS,Georgetown,Lehigh,RECEIVING,Cameron,Crayton,TD,1
+12081032,10/26/2019,FCS,Georgetown,Lehigh,RECEIVING,Cameron,Crayton,LONG,25
+12081033,10/26/2019,FCS,Georgetown,Lehigh,RECEIVING,Joshua,Tomas,REC,7
+12081034,10/26/2019,FCS,Georgetown,Lehigh,RECEIVING,Joshua,Tomas,YDS,54
+12081035,10/26/2019,FCS,Georgetown,Lehigh,RECEIVING,Joshua,Tomas,TD,1
+12081036,10/26/2019,FCS,Georgetown,Lehigh,RECEIVING,Joshua,Tomas,LONG,21
+12081037,10/26/2019,FCS,Georgetown,Lehigh,RECEIVING,Max,Edwards,REC,1
+12081038,10/26/2019,FCS,Georgetown,Lehigh,RECEIVING,Max,Edwards,YDS,1
+12081039,10/26/2019,FCS,Georgetown,Lehigh,RECEIVING,Max,Edwards,TD,0
+12081040,10/26/2019,FCS,Georgetown,Lehigh,RECEIVING,Max,Edwards,LONG,1
+12081041,10/26/2019,FCS,Georgetown,Lehigh,RECEIVING,Skyler,Springs,REC,1
+12081042,10/26/2019,FCS,Georgetown,Lehigh,RECEIVING,Skyler,Springs,YDS,0
+12081043,10/26/2019,FCS,Georgetown,Lehigh,RECEIVING,Skyler,Springs,TD,0
+12081044,10/26/2019,FCS,Georgetown,Lehigh,RECEIVING,Skyler,Springs,LONG,0
+12081045,10/26/2019,FCS,Georgetown,Lehigh,KICKING,Brad,Hurst,FG-FGA,1/1
+12081046,10/26/2019,FCS,Georgetown,Lehigh,KICKING,Brad,Hurst,LONG,23
+12081047,10/26/2019,FCS,Georgetown,Lehigh,KICKING,Brad,Hurst,XP,1
+12081048,10/26/2019,FCS,Georgetown,Lehigh,KICKING,Brad,Hurst,PTS,4
+12081049,10/26/2019,FCS,Georgetown,Lehigh,PUNTING,Brad,Hurst,NO,5
+12081050,10/26/2019,FCS,Georgetown,Lehigh,PUNTING,Brad,Hurst,YDS,213
+12081051,10/26/2019,FCS,Georgetown,Lehigh,PUNTING,Brad,Hurst,AVG,42.6
+12081052,10/26/2019,FCS,Georgetown,Lehigh,PUNTING,Brad,Hurst,LONG,49
+12081053,10/26/2019,FCS,Georgetown,Lehigh,PUNT RETURNS,Joshua,Tomas,NO,1
+12081054,10/26/2019,FCS,Georgetown,Lehigh,PUNT RETURNS,Joshua,Tomas,YDS,1
+12081055,10/26/2019,FCS,Georgetown,Lehigh,PUNT RETURNS,Joshua,Tomas,AVG,1.0
+12081056,10/26/2019,FCS,Georgetown,Lehigh,PUNT RETURNS,Joshua,Tomas,LONG,1
+12081057,10/26/2019,FCS,Georgetown,Lehigh,KICK RETURNS,Tiy,Reed,NO,3
+12081058,10/26/2019,FCS,Georgetown,Lehigh,KICK RETURNS,Tiy,Reed,YDS,46
+12081059,10/26/2019,FCS,Georgetown,Lehigh,KICK RETURNS,Tiy,Reed,AVG,15.3
+12081060,10/26/2019,FCS,Georgetown,Lehigh,KICK RETURNS,Tiy,Reed,LONG,21
+12081061,10/26/2019,FCS,Georgetown,Lehigh,KICK RETURNS,Joshua,Tomas,NO,2
+12081062,10/26/2019,FCS,Georgetown,Lehigh,KICK RETURNS,Joshua,Tomas,YDS,14
+12081063,10/26/2019,FCS,Georgetown,Lehigh,KICK RETURNS,Joshua,Tomas,AVG,7.0
+12081064,10/26/2019,FCS,Georgetown,Lehigh,KICK RETURNS,Joshua,Tomas,LONG,23
+12081065,10/26/2019,FCS,Georgetown,Lehigh,DEFENSE,Owen,Kessler,TOT,2
+12081066,10/26/2019,FCS,Georgetown,Lehigh,DEFENSE,Owen,Kessler,SOLO,2
+12081067,10/26/2019,FCS,Georgetown,Lehigh,DEFENSE,Owen,Kessler,SACKS,1
+12081068,10/26/2019,FCS,Georgetown,Lehigh,DEFENSE,Owen,Kessler,TFL,2
+12081069,10/26/2019,FCS,Georgetown,Lehigh,DEFENSE,Owen,Kessler,INT,0
+12081070,10/26/2019,FCS,Georgetown,Lehigh,DEFENSE,Owen,Kessler,FF,0
+12081071,10/26/2019,FCS,Georgetown,Lehigh,DEFENSE,Owen,Kessler,FR,0
+12081072,10/26/2019,FCS,Georgetown,Lehigh,DEFENSE,Quincy,Chinwuko,TOT,6
+12081073,10/26/2019,FCS,Georgetown,Lehigh,DEFENSE,Quincy,Chinwuko,SOLO,5
+12081074,10/26/2019,FCS,Georgetown,Lehigh,DEFENSE,Quincy,Chinwuko,SACKS,1
+12081075,10/26/2019,FCS,Georgetown,Lehigh,DEFENSE,Quincy,Chinwuko,TFL,3.5
+12081076,10/26/2019,FCS,Georgetown,Lehigh,DEFENSE,Quincy,Chinwuko,INT,0
+12081077,10/26/2019,FCS,Georgetown,Lehigh,DEFENSE,Quincy,Chinwuko,FF,0
+12081078,10/26/2019,FCS,Georgetown,Lehigh,DEFENSE,Quincy,Chinwuko,FR,0
+12081079,10/26/2019,FCS,Georgetown,Lehigh,DEFENSE,George,Ikott,TOT,4
+12081080,10/26/2019,FCS,Georgetown,Lehigh,DEFENSE,George,Ikott,SOLO,4
+12081081,10/26/2019,FCS,Georgetown,Lehigh,DEFENSE,George,Ikott,SACKS,1
+12081082,10/26/2019,FCS,Georgetown,Lehigh,DEFENSE,George,Ikott,TFL,1
+12081083,10/26/2019,FCS,Georgetown,Lehigh,DEFENSE,George,Ikott,INT,0
+12081084,10/26/2019,FCS,Georgetown,Lehigh,DEFENSE,George,Ikott,FF,0
+12081085,10/26/2019,FCS,Georgetown,Lehigh,DEFENSE,George,Ikott,FR,0
+12081086,10/26/2019,FCS,Georgetown,Lehigh,DEFENSE,Delano,Salgado,TOT,0
+12081087,10/26/2019,FCS,Georgetown,Lehigh,DEFENSE,Delano,Salgado,SOLO,0
+12081088,10/26/2019,FCS,Georgetown,Lehigh,DEFENSE,Delano,Salgado,SACKS,0
+12081089,10/26/2019,FCS,Georgetown,Lehigh,DEFENSE,Delano,Salgado,TFL,0
+12081090,10/26/2019,FCS,Georgetown,Lehigh,DEFENSE,Delano,Salgado,INT,0
+12081091,10/26/2019,FCS,Georgetown,Lehigh,DEFENSE,Delano,Salgado,FF,0
+12081092,10/26/2019,FCS,Georgetown,Lehigh,DEFENSE,Delano,Salgado,FR,1
+12081093,10/26/2019,FCS,Lehigh,Georgetown,RUSHING,Zaythan,Hill,ATT,11
+12081094,10/26/2019,FCS,Lehigh,Georgetown,RUSHING,Zaythan,Hill,YDS,77
+12081095,10/26/2019,FCS,Lehigh,Georgetown,RUSHING,Zaythan,Hill,TD,1
+12081096,10/26/2019,FCS,Lehigh,Georgetown,RUSHING,Zaythan,Hill,LONG,32
+12081097,10/26/2019,FCS,Lehigh,Georgetown,RUSHING,Nate,Hope,ATT,12
+12081098,10/26/2019,FCS,Lehigh,Georgetown,RUSHING,Nate,Hope,YDS,30
+12081099,10/26/2019,FCS,Lehigh,Georgetown,RUSHING,Nate,Hope,TD,2
+12081100,10/26/2019,FCS,Lehigh,Georgetown,RUSHING,Nate,Hope,LONG,17
+12081101,10/26/2019,FCS,Lehigh,Georgetown,RUSHING,Jorge,Portorreal,ATT,1
+12081102,10/26/2019,FCS,Lehigh,Georgetown,RUSHING,Jorge,Portorreal,YDS,4
+12081103,10/26/2019,FCS,Lehigh,Georgetown,RUSHING,Jorge,Portorreal,TD,0
+12081104,10/26/2019,FCS,Lehigh,Georgetown,RUSHING,Jorge,Portorreal,LONG,4
+12081105,10/26/2019,FCS,Lehigh,Georgetown,RUSHING,Rashawn,Allen,ATT,4
+12081106,10/26/2019,FCS,Lehigh,Georgetown,RUSHING,Rashawn,Allen,YDS,-2
+12081107,10/26/2019,FCS,Lehigh,Georgetown,RUSHING,Rashawn,Allen,TD,0
+12081108,10/26/2019,FCS,Lehigh,Georgetown,RUSHING,Rashawn,Allen,LONG,1
+12081109,10/26/2019,FCS,Lehigh,Georgetown,RUSHING,Peter,Lucas,ATT,1
+12081110,10/26/2019,FCS,Lehigh,Georgetown,RUSHING,Peter,Lucas,YDS,-6
+12081111,10/26/2019,FCS,Lehigh,Georgetown,RUSHING,Peter,Lucas,TD,0
+12081112,10/26/2019,FCS,Lehigh,Georgetown,RUSHING,Peter,Lucas,LONG,0
+12081113,10/26/2019,FCS,Lehigh,Georgetown,RUSHING,Tyler,Monaco,ATT,5
+12081114,10/26/2019,FCS,Lehigh,Georgetown,RUSHING,Tyler,Monaco,YDS,-27
+12081115,10/26/2019,FCS,Lehigh,Georgetown,RUSHING,Tyler,Monaco,TD,0
+12081116,10/26/2019,FCS,Lehigh,Georgetown,RUSHING,Tyler,Monaco,LONG,0
+12081117,10/26/2019,FCS,Lehigh,Georgetown,PASSING,Tyler,Monaco,CP-ATT-INT,23-36-0
+12081118,10/26/2019,FCS,Lehigh,Georgetown,PASSING,Tyler,Monaco,YDS,271
+12081119,10/26/2019,FCS,Lehigh,Georgetown,PASSING,Tyler,Monaco,TD,0
+12081120,10/26/2019,FCS,Lehigh,Georgetown,PASSING,Tyler,Monaco,LONG,48
+12081121,10/26/2019,FCS,Lehigh,Georgetown,RECEIVING,Jorge,Portorreal,REC,8
+12081122,10/26/2019,FCS,Lehigh,Georgetown,RECEIVING,Jorge,Portorreal,YDS,103
+12081123,10/26/2019,FCS,Lehigh,Georgetown,RECEIVING,Jorge,Portorreal,TD,0
+12081124,10/26/2019,FCS,Lehigh,Georgetown,RECEIVING,Jorge,Portorreal,LONG,39
+12081125,10/26/2019,FCS,Lehigh,Georgetown,RECEIVING,Devon,Bibbens,REC,6
+12081126,10/26/2019,FCS,Lehigh,Georgetown,RECEIVING,Devon,Bibbens,YDS,91
+12081127,10/26/2019,FCS,Lehigh,Georgetown,RECEIVING,Devon,Bibbens,TD,0
+12081128,10/26/2019,FCS,Lehigh,Georgetown,RECEIVING,Devon,Bibbens,LONG,48
+12081129,10/26/2019,FCS,Lehigh,Georgetown,RECEIVING,Austin,Dambach,REC,4
+12081130,10/26/2019,FCS,Lehigh,Georgetown,RECEIVING,Austin,Dambach,YDS,43
+12081131,10/26/2019,FCS,Lehigh,Georgetown,RECEIVING,Austin,Dambach,TD,0
+12081132,10/26/2019,FCS,Lehigh,Georgetown,RECEIVING,Austin,Dambach,LONG,20
+12081133,10/26/2019,FCS,Lehigh,Georgetown,RECEIVING,Nate,Hope,REC,4
+12081134,10/26/2019,FCS,Lehigh,Georgetown,RECEIVING,Nate,Hope,YDS,41
+12081135,10/26/2019,FCS,Lehigh,Georgetown,RECEIVING,Nate,Hope,TD,0
+12081136,10/26/2019,FCS,Lehigh,Georgetown,RECEIVING,Nate,Hope,LONG,14
+12081137,10/26/2019,FCS,Lehigh,Georgetown,RECEIVING,Alex,Snyder,REC,1
+12081138,10/26/2019,FCS,Lehigh,Georgetown,RECEIVING,Alex,Snyder,YDS,-7
+12081139,10/26/2019,FCS,Lehigh,Georgetown,RECEIVING,Alex,Snyder,TD,0
+12081140,10/26/2019,FCS,Lehigh,Georgetown,RECEIVING,Alex,Snyder,LONG,0
+12081141,10/26/2019,FCS,Lehigh,Georgetown,KICKING,Austin,Henning,FG-FGA,2/2
+12081142,10/26/2019,FCS,Lehigh,Georgetown,KICKING,Austin,Henning,LONG,36
+12081143,10/26/2019,FCS,Lehigh,Georgetown,KICKING,Austin,Henning,XP,3
+12081144,10/26/2019,FCS,Lehigh,Georgetown,KICKING,Austin,Henning,PTS,9
+12081145,10/26/2019,FCS,Lehigh,Georgetown,PUNTING,Austin,Henning,NO,5
+12081146,10/26/2019,FCS,Lehigh,Georgetown,PUNTING,Austin,Henning,YDS,160
+12081147,10/26/2019,FCS,Lehigh,Georgetown,PUNTING,Austin,Henning,AVG,32.0
+12081148,10/26/2019,FCS,Lehigh,Georgetown,PUNTING,Austin,Henning,LONG,44
+12081149,10/26/2019,FCS,Lehigh,Georgetown,PUNT RETURNS,Jorge,Portorreal,NO,4
+12081150,10/26/2019,FCS,Lehigh,Georgetown,PUNT RETURNS,Jorge,Portorreal,YDS,33
+12081151,10/26/2019,FCS,Lehigh,Georgetown,PUNT RETURNS,Jorge,Portorreal,AVG,8.2
+12081152,10/26/2019,FCS,Lehigh,Georgetown,PUNT RETURNS,Jorge,Portorreal,LONG,16
+12081153,10/26/2019,FCS,Lehigh,Georgetown,KICK RETURNS,Jaylen,Floyd,NO,2
+12081154,10/26/2019,FCS,Lehigh,Georgetown,KICK RETURNS,Jaylen,Floyd,YDS,47
+12081155,10/26/2019,FCS,Lehigh,Georgetown,KICK RETURNS,Jaylen,Floyd,AVG,23.5
+12081156,10/26/2019,FCS,Lehigh,Georgetown,KICK RETURNS,Jaylen,Floyd,LONG,30
+12081157,10/26/2019,FCS,Lehigh,Georgetown,KICK RETURNS,Zaythan,Hill,NO,1
+12081158,10/26/2019,FCS,Lehigh,Georgetown,KICK RETURNS,Zaythan,Hill,YDS,25
+12081159,10/26/2019,FCS,Lehigh,Georgetown,KICK RETURNS,Zaythan,Hill,AVG,25.0
+12081160,10/26/2019,FCS,Lehigh,Georgetown,KICK RETURNS,Zaythan,Hill,LONG,25
+12081161,10/26/2019,FCS,Lehigh,Georgetown,KICK RETURNS,Jorge,Portorreal,NO,1
+12081162,10/26/2019,FCS,Lehigh,Georgetown,KICK RETURNS,Jorge,Portorreal,YDS,24
+12081163,10/26/2019,FCS,Lehigh,Georgetown,KICK RETURNS,Jorge,Portorreal,AVG,24.0
+12081164,10/26/2019,FCS,Lehigh,Georgetown,KICK RETURNS,Jorge,Portorreal,LONG,24

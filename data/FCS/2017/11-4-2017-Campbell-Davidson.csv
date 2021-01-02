@@ -1,0 +1,125 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+10590001,11/4/2017,FCS,Campbell,Davidson,RUSHING,Daniel,Smith,ATT,23
+10590002,11/4/2017,FCS,Campbell,Davidson,RUSHING,Daniel,Smith,YDS,289
+10590003,11/4/2017,FCS,Campbell,Davidson,RUSHING,Daniel,Smith,TD,4
+10590004,11/4/2017,FCS,Campbell,Davidson,RUSHING,Daniel,Smith,LONG,80
+10590005,11/4/2017,FCS,Campbell,Davidson,RUSHING,Montel,Goods,ATT,10
+10590006,11/4/2017,FCS,Campbell,Davidson,RUSHING,Montel,Goods,YDS,40
+10590007,11/4/2017,FCS,Campbell,Davidson,RUSHING,Montel,Goods,TD,0
+10590008,11/4/2017,FCS,Campbell,Davidson,RUSHING,Montel,Goods,LONG,7
+10590009,11/4/2017,FCS,Campbell,Davidson,RUSHING,Darius,Barnes,ATT,14
+10590010,11/4/2017,FCS,Campbell,Davidson,RUSHING,Darius,Barnes,YDS,38
+10590011,11/4/2017,FCS,Campbell,Davidson,RUSHING,Darius,Barnes,TD,1
+10590012,11/4/2017,FCS,Campbell,Davidson,RUSHING,Darius,Barnes,LONG,11
+10590013,11/4/2017,FCS,Campbell,Davidson,RUSHING,Joshua,Jones,ATT,2
+10590014,11/4/2017,FCS,Campbell,Davidson,RUSHING,Joshua,Jones,YDS,8
+10590015,11/4/2017,FCS,Campbell,Davidson,RUSHING,Joshua,Jones,TD,0
+10590016,11/4/2017,FCS,Campbell,Davidson,RUSHING,Joshua,Jones,LONG,6
+10590017,11/4/2017,FCS,Campbell,Davidson,RUSHING,,Team,ATT,2
+10590018,11/4/2017,FCS,Campbell,Davidson,RUSHING,,Team,YDS,-31
+10590019,11/4/2017,FCS,Campbell,Davidson,RUSHING,,Team,TD,0
+10590020,11/4/2017,FCS,Campbell,Davidson,RUSHING,,Team,LONG,0
+10590021,11/4/2017,FCS,Campbell,Davidson,PASSING,Daniel,Smith,CP-ATT-INT,7-18-1
+10590022,11/4/2017,FCS,Campbell,Davidson,PASSING,Daniel,Smith,YDS,156
+10590023,11/4/2017,FCS,Campbell,Davidson,PASSING,Daniel,Smith,TD,1
+10590024,11/4/2017,FCS,Campbell,Davidson,PASSING,Daniel,Smith,LONG,40
+10590025,11/4/2017,FCS,Campbell,Davidson,RECEIVING,Aaron,Blockmon,REC,3
+10590026,11/4/2017,FCS,Campbell,Davidson,RECEIVING,Aaron,Blockmon,YDS,87
+10590027,11/4/2017,FCS,Campbell,Davidson,RECEIVING,Aaron,Blockmon,TD,0
+10590028,11/4/2017,FCS,Campbell,Davidson,RECEIVING,Aaron,Blockmon,LONG,40
+10590029,11/4/2017,FCS,Campbell,Davidson,RECEIVING,Michael,Wooten,REC,2
+10590030,11/4/2017,FCS,Campbell,Davidson,RECEIVING,Michael,Wooten,YDS,62
+10590031,11/4/2017,FCS,Campbell,Davidson,RECEIVING,Michael,Wooten,TD,0
+10590032,11/4/2017,FCS,Campbell,Davidson,RECEIVING,Michael,Wooten,LONG,34
+10590033,11/4/2017,FCS,Campbell,Davidson,RECEIVING,Bryan,Bailey,REC,2
+10590034,11/4/2017,FCS,Campbell,Davidson,RECEIVING,Bryan,Bailey,YDS,7
+10590035,11/4/2017,FCS,Campbell,Davidson,RECEIVING,Bryan,Bailey,TD,1
+10590036,11/4/2017,FCS,Campbell,Davidson,RECEIVING,Bryan,Bailey,LONG,4
+10590037,11/4/2017,FCS,Campbell,Davidson,KICKING,Colin,Gary,FG-FGA,0/2
+10590038,11/4/2017,FCS,Campbell,Davidson,KICKING,Colin,Gary,LONG,0
+10590039,11/4/2017,FCS,Campbell,Davidson,KICKING,Colin,Gary,XP,3
+10590040,11/4/2017,FCS,Campbell,Davidson,KICKING,Colin,Gary,PTS,3
+10590041,11/4/2017,FCS,Campbell,Davidson,KICKING,Mitchell,Brown,FG-FGA,0/0
+10590042,11/4/2017,FCS,Campbell,Davidson,KICKING,Mitchell,Brown,LONG,-
+10590043,11/4/2017,FCS,Campbell,Davidson,KICKING,Mitchell,Brown,XP,3
+10590044,11/4/2017,FCS,Campbell,Davidson,KICKING,Mitchell,Brown,PTS,3
+10590045,11/4/2017,FCS,Campbell,Davidson,PUNTING,Brad,Dennis,NO,3
+10590046,11/4/2017,FCS,Campbell,Davidson,PUNTING,Brad,Dennis,YDS,134
+10590047,11/4/2017,FCS,Campbell,Davidson,PUNTING,Brad,Dennis,AVG,44.7
+10590048,11/4/2017,FCS,Campbell,Davidson,PUNTING,Brad,Dennis,LONG,54
+10590049,11/4/2017,FCS,Campbell,Davidson,PUNT RETURNS,Trey,Sanders,NO,1
+10590050,11/4/2017,FCS,Campbell,Davidson,PUNT RETURNS,Trey,Sanders,YDS,3
+10590051,11/4/2017,FCS,Campbell,Davidson,PUNT RETURNS,Trey,Sanders,AVG,3.0
+10590052,11/4/2017,FCS,Campbell,Davidson,PUNT RETURNS,Trey,Sanders,LONG,3
+10590053,11/4/2017,FCS,Campbell,Davidson,KICK RETURNS,Jaquan,Brooks,NO,3
+10590054,11/4/2017,FCS,Campbell,Davidson,KICK RETURNS,Jaquan,Brooks,YDS,70
+10590055,11/4/2017,FCS,Campbell,Davidson,KICK RETURNS,Jaquan,Brooks,AVG,23.3
+10590056,11/4/2017,FCS,Campbell,Davidson,KICK RETURNS,Jaquan,Brooks,LONG,29
+10590057,11/4/2017,FCS,Campbell,Davidson,KICK RETURNS,Trey,Sanders,NO,2
+10590058,11/4/2017,FCS,Campbell,Davidson,KICK RETURNS,Trey,Sanders,YDS,45
+10590059,11/4/2017,FCS,Campbell,Davidson,KICK RETURNS,Trey,Sanders,AVG,22.5
+10590060,11/4/2017,FCS,Campbell,Davidson,KICK RETURNS,Trey,Sanders,LONG,25
+10590061,11/4/2017,FCS,Davidson,Campbell,RUSHING,Wesley,Dugger,ATT,27
+10590062,11/4/2017,FCS,Davidson,Campbell,RUSHING,Wesley,Dugger,YDS,139
+10590063,11/4/2017,FCS,Davidson,Campbell,RUSHING,Wesley,Dugger,TD,3
+10590064,11/4/2017,FCS,Davidson,Campbell,RUSHING,Wesley,Dugger,LONG,19
+10590065,11/4/2017,FCS,Davidson,Campbell,RUSHING,Jaylon,Bolden,ATT,6
+10590066,11/4/2017,FCS,Davidson,Campbell,RUSHING,Jaylon,Bolden,YDS,15
+10590067,11/4/2017,FCS,Davidson,Campbell,RUSHING,Jaylon,Bolden,TD,0
+10590068,11/4/2017,FCS,Davidson,Campbell,RUSHING,Jaylon,Bolden,LONG,7
+10590069,11/4/2017,FCS,Davidson,Campbell,RUSHING,Tyler,Phelps,ATT,7
+10590070,11/4/2017,FCS,Davidson,Campbell,RUSHING,Tyler,Phelps,YDS,9
+10590071,11/4/2017,FCS,Davidson,Campbell,RUSHING,Tyler,Phelps,TD,0
+10590072,11/4/2017,FCS,Davidson,Campbell,RUSHING,Tyler,Phelps,LONG,8
+10590073,11/4/2017,FCS,Davidson,Campbell,PASSING,Tyler,Phelps,CP-ATT-INT,32-60-1
+10590074,11/4/2017,FCS,Davidson,Campbell,PASSING,Tyler,Phelps,YDS,287
+10590075,11/4/2017,FCS,Davidson,Campbell,PASSING,Tyler,Phelps,TD,0
+10590076,11/4/2017,FCS,Davidson,Campbell,PASSING,Tyler,Phelps,LONG,30
+10590077,11/4/2017,FCS,Davidson,Campbell,RECEIVING,Hunter,Louthan,REC,7
+10590078,11/4/2017,FCS,Davidson,Campbell,RECEIVING,Hunter,Louthan,YDS,68
+10590079,11/4/2017,FCS,Davidson,Campbell,RECEIVING,Hunter,Louthan,TD,0
+10590080,11/4/2017,FCS,Davidson,Campbell,RECEIVING,Hunter,Louthan,LONG,20
+10590081,11/4/2017,FCS,Davidson,Campbell,RECEIVING,Satchel,Moore,REC,6
+10590082,11/4/2017,FCS,Davidson,Campbell,RECEIVING,Satchel,Moore,YDS,62
+10590083,11/4/2017,FCS,Davidson,Campbell,RECEIVING,Satchel,Moore,TD,0
+10590084,11/4/2017,FCS,Davidson,Campbell,RECEIVING,Satchel,Moore,LONG,29
+10590085,11/4/2017,FCS,Davidson,Campbell,RECEIVING,Wesley,Dugger,REC,4
+10590086,11/4/2017,FCS,Davidson,Campbell,RECEIVING,Wesley,Dugger,YDS,47
+10590087,11/4/2017,FCS,Davidson,Campbell,RECEIVING,Wesley,Dugger,TD,0
+10590088,11/4/2017,FCS,Davidson,Campbell,RECEIVING,Wesley,Dugger,LONG,30
+10590089,11/4/2017,FCS,Davidson,Campbell,RECEIVING,Pat,Tabor,REC,5
+10590090,11/4/2017,FCS,Davidson,Campbell,RECEIVING,Pat,Tabor,YDS,46
+10590091,11/4/2017,FCS,Davidson,Campbell,RECEIVING,Pat,Tabor,TD,0
+10590092,11/4/2017,FCS,Davidson,Campbell,RECEIVING,Pat,Tabor,LONG,24
+10590093,11/4/2017,FCS,Davidson,Campbell,RECEIVING,William,Wicks,REC,5
+10590094,11/4/2017,FCS,Davidson,Campbell,RECEIVING,William,Wicks,YDS,45
+10590095,11/4/2017,FCS,Davidson,Campbell,RECEIVING,William,Wicks,TD,0
+10590096,11/4/2017,FCS,Davidson,Campbell,RECEIVING,William,Wicks,LONG,15
+10590097,11/4/2017,FCS,Davidson,Campbell,RECEIVING,Isaiah,Anthony,REC,3
+10590098,11/4/2017,FCS,Davidson,Campbell,RECEIVING,Isaiah,Anthony,YDS,13
+10590099,11/4/2017,FCS,Davidson,Campbell,RECEIVING,Isaiah,Anthony,TD,0
+10590100,11/4/2017,FCS,Davidson,Campbell,RECEIVING,Isaiah,Anthony,LONG,9
+10590101,11/4/2017,FCS,Davidson,Campbell,RECEIVING,Zach,Hester,REC,1
+10590102,11/4/2017,FCS,Davidson,Campbell,RECEIVING,Zach,Hester,YDS,5
+10590103,11/4/2017,FCS,Davidson,Campbell,RECEIVING,Zach,Hester,TD,0
+10590104,11/4/2017,FCS,Davidson,Campbell,RECEIVING,Zach,Hester,LONG,5
+10590105,11/4/2017,FCS,Davidson,Campbell,RECEIVING,Jaylon,Bolden,REC,1
+10590106,11/4/2017,FCS,Davidson,Campbell,RECEIVING,Jaylon,Bolden,YDS,1
+10590107,11/4/2017,FCS,Davidson,Campbell,RECEIVING,Jaylon,Bolden,TD,0
+10590108,11/4/2017,FCS,Davidson,Campbell,RECEIVING,Jaylon,Bolden,LONG,1
+10590109,11/4/2017,FCS,Davidson,Campbell,KICKING,Trevor,Smith,FG-FGA,2/2
+10590110,11/4/2017,FCS,Davidson,Campbell,KICKING,Trevor,Smith,LONG,35
+10590111,11/4/2017,FCS,Davidson,Campbell,KICKING,Trevor,Smith,XP,3
+10590112,11/4/2017,FCS,Davidson,Campbell,KICKING,Trevor,Smith,PTS,9
+10590113,11/4/2017,FCS,Davidson,Campbell,PUNTING,Charles,Morris,NO,6
+10590114,11/4/2017,FCS,Davidson,Campbell,PUNTING,Charles,Morris,YDS,228
+10590115,11/4/2017,FCS,Davidson,Campbell,PUNTING,Charles,Morris,AVG,38.0
+10590116,11/4/2017,FCS,Davidson,Campbell,PUNTING,Charles,Morris,LONG,44
+10590117,11/4/2017,FCS,Davidson,Campbell,PUNT RETURNS,Ben,Rowell,NO,1
+10590118,11/4/2017,FCS,Davidson,Campbell,PUNT RETURNS,Ben,Rowell,YDS,2
+10590119,11/4/2017,FCS,Davidson,Campbell,PUNT RETURNS,Ben,Rowell,AVG,2.0
+10590120,11/4/2017,FCS,Davidson,Campbell,PUNT RETURNS,Ben,Rowell,LONG,2
+10590121,11/4/2017,FCS,Davidson,Campbell,KICK RETURNS,William,Wicks,NO,6
+10590122,11/4/2017,FCS,Davidson,Campbell,KICK RETURNS,William,Wicks,YDS,118
+10590123,11/4/2017,FCS,Davidson,Campbell,KICK RETURNS,William,Wicks,AVG,19.7
+10590124,11/4/2017,FCS,Davidson,Campbell,KICK RETURNS,William,Wicks,LONG,23

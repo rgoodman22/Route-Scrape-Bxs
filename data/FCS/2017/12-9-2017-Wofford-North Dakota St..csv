@@ -1,0 +1,153 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+10765001,12/9/2017,FCS,Wofford,North Dakota St.,RUSHING,Blake,Morgan,ATT,10
+10765002,12/9/2017,FCS,Wofford,North Dakota St.,RUSHING,Blake,Morgan,YDS,54
+10765003,12/9/2017,FCS,Wofford,North Dakota St.,RUSHING,Blake,Morgan,TD,0
+10765004,12/9/2017,FCS,Wofford,North Dakota St.,RUSHING,Blake,Morgan,LONG,38
+10765005,12/9/2017,FCS,Wofford,North Dakota St.,RUSHING,Jamison,Chapman,ATT,5
+10765006,12/9/2017,FCS,Wofford,North Dakota St.,RUSHING,Jamison,Chapman,YDS,23
+10765007,12/9/2017,FCS,Wofford,North Dakota St.,RUSHING,Jamison,Chapman,TD,0
+10765008,12/9/2017,FCS,Wofford,North Dakota St.,RUSHING,Jamison,Chapman,LONG,9
+10765009,12/9/2017,FCS,Wofford,North Dakota St.,RUSHING,Andre,Stoddard,ATT,6
+10765010,12/9/2017,FCS,Wofford,North Dakota St.,RUSHING,Andre,Stoddard,YDS,18
+10765011,12/9/2017,FCS,Wofford,North Dakota St.,RUSHING,Andre,Stoddard,TD,1
+10765012,12/9/2017,FCS,Wofford,North Dakota St.,RUSHING,Andre,Stoddard,LONG,4
+10765013,12/9/2017,FCS,Wofford,North Dakota St.,RUSHING,Brandon,Goodson,ATT,9
+10765014,12/9/2017,FCS,Wofford,North Dakota St.,RUSHING,Brandon,Goodson,YDS,17
+10765015,12/9/2017,FCS,Wofford,North Dakota St.,RUSHING,Brandon,Goodson,TD,0
+10765016,12/9/2017,FCS,Wofford,North Dakota St.,RUSHING,Brandon,Goodson,LONG,10
+10765017,12/9/2017,FCS,Wofford,North Dakota St.,RUSHING,Chase,Nelson,ATT,4
+10765018,12/9/2017,FCS,Wofford,North Dakota St.,RUSHING,Chase,Nelson,YDS,13
+10765019,12/9/2017,FCS,Wofford,North Dakota St.,RUSHING,Chase,Nelson,TD,0
+10765020,12/9/2017,FCS,Wofford,North Dakota St.,RUSHING,Chase,Nelson,LONG,6
+10765021,12/9/2017,FCS,Wofford,North Dakota St.,RUSHING,Ryan,Lovelace,ATT,2
+10765022,12/9/2017,FCS,Wofford,North Dakota St.,RUSHING,Ryan,Lovelace,YDS,12
+10765023,12/9/2017,FCS,Wofford,North Dakota St.,RUSHING,Ryan,Lovelace,TD,0
+10765024,12/9/2017,FCS,Wofford,North Dakota St.,RUSHING,Ryan,Lovelace,LONG,9
+10765025,12/9/2017,FCS,Wofford,North Dakota St.,RUSHING,Joe,Newman,ATT,1
+10765026,12/9/2017,FCS,Wofford,North Dakota St.,RUSHING,Joe,Newman,YDS,-3
+10765027,12/9/2017,FCS,Wofford,North Dakota St.,RUSHING,Joe,Newman,TD,0
+10765028,12/9/2017,FCS,Wofford,North Dakota St.,RUSHING,Joe,Newman,LONG,0
+10765029,12/9/2017,FCS,Wofford,North Dakota St.,PASSING,Brandon,Goodson,CP-ATT-INT,3-11-0
+10765030,12/9/2017,FCS,Wofford,North Dakota St.,PASSING,Brandon,Goodson,YDS,43
+10765031,12/9/2017,FCS,Wofford,North Dakota St.,PASSING,Brandon,Goodson,TD,0
+10765032,12/9/2017,FCS,Wofford,North Dakota St.,PASSING,Brandon,Goodson,LONG,27
+10765033,12/9/2017,FCS,Wofford,North Dakota St.,PASSING,Joe,Newman,CP-ATT-INT,0-1-0
+10765034,12/9/2017,FCS,Wofford,North Dakota St.,PASSING,Joe,Newman,YDS,0
+10765035,12/9/2017,FCS,Wofford,North Dakota St.,PASSING,Joe,Newman,TD,0
+10765036,12/9/2017,FCS,Wofford,North Dakota St.,PASSING,Joe,Newman,LONG,0
+10765037,12/9/2017,FCS,Wofford,North Dakota St.,RECEIVING,R.J.,Taylor,REC,2
+10765038,12/9/2017,FCS,Wofford,North Dakota St.,RECEIVING,R.J.,Taylor,YDS,38
+10765039,12/9/2017,FCS,Wofford,North Dakota St.,RECEIVING,R.J.,Taylor,TD,0
+10765040,12/9/2017,FCS,Wofford,North Dakota St.,RECEIVING,R.J.,Taylor,LONG,27
+10765041,12/9/2017,FCS,Wofford,North Dakota St.,RECEIVING,Jason,Hill,REC,1
+10765042,12/9/2017,FCS,Wofford,North Dakota St.,RECEIVING,Jason,Hill,YDS,5
+10765043,12/9/2017,FCS,Wofford,North Dakota St.,RECEIVING,Jason,Hill,TD,0
+10765044,12/9/2017,FCS,Wofford,North Dakota St.,RECEIVING,Jason,Hill,LONG,5
+10765045,12/9/2017,FCS,Wofford,North Dakota St.,PUNTING,Luke,Carter,NO,5
+10765046,12/9/2017,FCS,Wofford,North Dakota St.,PUNTING,Luke,Carter,YDS,226
+10765047,12/9/2017,FCS,Wofford,North Dakota St.,PUNTING,Luke,Carter,AVG,45.2
+10765048,12/9/2017,FCS,Wofford,North Dakota St.,PUNTING,Luke,Carter,LONG,50
+10765049,12/9/2017,FCS,Wofford,North Dakota St.,PUNTING,,Team,NO,1
+10765050,12/9/2017,FCS,Wofford,North Dakota St.,PUNTING,,Team,YDS,16
+10765051,12/9/2017,FCS,Wofford,North Dakota St.,PUNTING,,Team,AVG,16.0
+10765052,12/9/2017,FCS,Wofford,North Dakota St.,PUNTING,,Team,LONG,16
+10765053,12/9/2017,FCS,Wofford,North Dakota St.,PUNT RETURNS,Dorian,Lindsey,NO,1
+10765054,12/9/2017,FCS,Wofford,North Dakota St.,PUNT RETURNS,Dorian,Lindsey,YDS,6
+10765055,12/9/2017,FCS,Wofford,North Dakota St.,PUNT RETURNS,Dorian,Lindsey,AVG,6.0
+10765056,12/9/2017,FCS,Wofford,North Dakota St.,PUNT RETURNS,Dorian,Lindsey,LONG,6
+10765057,12/9/2017,FCS,Wofford,North Dakota St.,KICK RETURNS,JoJo,Tillery,NO,1
+10765058,12/9/2017,FCS,Wofford,North Dakota St.,KICK RETURNS,JoJo,Tillery,YDS,30
+10765059,12/9/2017,FCS,Wofford,North Dakota St.,KICK RETURNS,JoJo,Tillery,AVG,30.0
+10765060,12/9/2017,FCS,Wofford,North Dakota St.,KICK RETURNS,JoJo,Tillery,LONG,30
+10765061,12/9/2017,FCS,Wofford,North Dakota St.,KICK RETURNS,Cole,Cleary,NO,2
+10765062,12/9/2017,FCS,Wofford,North Dakota St.,KICK RETURNS,Cole,Cleary,YDS,44
+10765063,12/9/2017,FCS,Wofford,North Dakota St.,KICK RETURNS,Cole,Cleary,AVG,22.0
+10765064,12/9/2017,FCS,Wofford,North Dakota St.,KICK RETURNS,Cole,Cleary,LONG,28
+10765065,12/9/2017,FCS,Wofford,North Dakota St.,KICK RETURNS,Brandon,Brown,NO,1
+10765066,12/9/2017,FCS,Wofford,North Dakota St.,KICK RETURNS,Brandon,Brown,YDS,9
+10765067,12/9/2017,FCS,Wofford,North Dakota St.,KICK RETURNS,Brandon,Brown,AVG,9.0
+10765068,12/9/2017,FCS,Wofford,North Dakota St.,KICK RETURNS,Brandon,Brown,LONG,9
+10765069,12/9/2017,FCS,Wofford,North Dakota St.,KICK RETURNS,Nick,Karas,NO,1
+10765070,12/9/2017,FCS,Wofford,North Dakota St.,KICK RETURNS,Nick,Karas,YDS,9
+10765071,12/9/2017,FCS,Wofford,North Dakota St.,KICK RETURNS,Nick,Karas,AVG,9.0
+10765072,12/9/2017,FCS,Wofford,North Dakota St.,KICK RETURNS,Nick,Karas,LONG,9
+10765073,12/9/2017,FCS,North Dakota St.,Wofford,RUSHING,Seth,Wilson,ATT,15
+10765074,12/9/2017,FCS,North Dakota St.,Wofford,RUSHING,Seth,Wilson,YDS,74
+10765075,12/9/2017,FCS,North Dakota St.,Wofford,RUSHING,Seth,Wilson,TD,0
+10765076,12/9/2017,FCS,North Dakota St.,Wofford,RUSHING,Seth,Wilson,LONG,19
+10765077,12/9/2017,FCS,North Dakota St.,Wofford,RUSHING,Ty,Brooks,ATT,10
+10765078,12/9/2017,FCS,North Dakota St.,Wofford,RUSHING,Ty,Brooks,YDS,73
+10765079,12/9/2017,FCS,North Dakota St.,Wofford,RUSHING,Ty,Brooks,TD,0
+10765080,12/9/2017,FCS,North Dakota St.,Wofford,RUSHING,Ty,Brooks,LONG,33
+10765081,12/9/2017,FCS,North Dakota St.,Wofford,RUSHING,Bruce,Anderson,ATT,15
+10765082,12/9/2017,FCS,North Dakota St.,Wofford,RUSHING,Bruce,Anderson,YDS,62
+10765083,12/9/2017,FCS,North Dakota St.,Wofford,RUSHING,Bruce,Anderson,TD,2
+10765084,12/9/2017,FCS,North Dakota St.,Wofford,RUSHING,Bruce,Anderson,LONG,15
+10765085,12/9/2017,FCS,North Dakota St.,Wofford,RUSHING,Easton,Stick,ATT,8
+10765086,12/9/2017,FCS,North Dakota St.,Wofford,RUSHING,Easton,Stick,YDS,49
+10765087,12/9/2017,FCS,North Dakota St.,Wofford,RUSHING,Easton,Stick,TD,1
+10765088,12/9/2017,FCS,North Dakota St.,Wofford,RUSHING,Easton,Stick,LONG,14
+10765089,12/9/2017,FCS,North Dakota St.,Wofford,RUSHING,Cole,Davis,ATT,1
+10765090,12/9/2017,FCS,North Dakota St.,Wofford,RUSHING,Cole,Davis,YDS,3
+10765091,12/9/2017,FCS,North Dakota St.,Wofford,RUSHING,Cole,Davis,TD,0
+10765092,12/9/2017,FCS,North Dakota St.,Wofford,RUSHING,Cole,Davis,LONG,3
+10765093,12/9/2017,FCS,North Dakota St.,Wofford,PASSING,Easton,Stick,CP-ATT-INT,11-16-0
+10765094,12/9/2017,FCS,North Dakota St.,Wofford,PASSING,Easton,Stick,YDS,184
+10765095,12/9/2017,FCS,North Dakota St.,Wofford,PASSING,Easton,Stick,TD,3
+10765096,12/9/2017,FCS,North Dakota St.,Wofford,PASSING,Easton,Stick,LONG,48
+10765097,12/9/2017,FCS,North Dakota St.,Wofford,PASSING,Cole,Davis,CP-ATT-INT,1-1-0
+10765098,12/9/2017,FCS,North Dakota St.,Wofford,PASSING,Cole,Davis,YDS,19
+10765099,12/9/2017,FCS,North Dakota St.,Wofford,PASSING,Cole,Davis,TD,0
+10765100,12/9/2017,FCS,North Dakota St.,Wofford,PASSING,Cole,Davis,LONG,19
+10765101,12/9/2017,FCS,North Dakota St.,Wofford,RECEIVING,Connor,Wentz,REC,1
+10765102,12/9/2017,FCS,North Dakota St.,Wofford,RECEIVING,Connor,Wentz,YDS,48
+10765103,12/9/2017,FCS,North Dakota St.,Wofford,RECEIVING,Connor,Wentz,TD,1
+10765104,12/9/2017,FCS,North Dakota St.,Wofford,RECEIVING,Connor,Wentz,LONG,48
+10765105,12/9/2017,FCS,North Dakota St.,Wofford,RECEIVING,RJ,Urzendowski,REC,1
+10765106,12/9/2017,FCS,North Dakota St.,Wofford,RECEIVING,RJ,Urzendowski,YDS,44
+10765107,12/9/2017,FCS,North Dakota St.,Wofford,RECEIVING,RJ,Urzendowski,TD,0
+10765108,12/9/2017,FCS,North Dakota St.,Wofford,RECEIVING,RJ,Urzendowski,LONG,44
+10765109,12/9/2017,FCS,North Dakota St.,Wofford,RECEIVING,Nate,Jenson,REC,1
+10765110,12/9/2017,FCS,North Dakota St.,Wofford,RECEIVING,Nate,Jenson,YDS,22
+10765111,12/9/2017,FCS,North Dakota St.,Wofford,RECEIVING,Nate,Jenson,TD,0
+10765112,12/9/2017,FCS,North Dakota St.,Wofford,RECEIVING,Nate,Jenson,LONG,22
+10765113,12/9/2017,FCS,North Dakota St.,Wofford,RECEIVING,Bruce,Anderson,REC,2
+10765114,12/9/2017,FCS,North Dakota St.,Wofford,RECEIVING,Bruce,Anderson,YDS,21
+10765115,12/9/2017,FCS,North Dakota St.,Wofford,RECEIVING,Bruce,Anderson,TD,0
+10765116,12/9/2017,FCS,North Dakota St.,Wofford,RECEIVING,Bruce,Anderson,LONG,19
+10765117,12/9/2017,FCS,North Dakota St.,Wofford,RECEIVING,Seth,Wilson,REC,2
+10765118,12/9/2017,FCS,North Dakota St.,Wofford,RECEIVING,Seth,Wilson,YDS,21
+10765119,12/9/2017,FCS,North Dakota St.,Wofford,RECEIVING,Seth,Wilson,TD,1
+10765120,12/9/2017,FCS,North Dakota St.,Wofford,RECEIVING,Seth,Wilson,LONG,18
+10765121,12/9/2017,FCS,North Dakota St.,Wofford,RECEIVING,Dallas,Freeman,REC,1
+10765122,12/9/2017,FCS,North Dakota St.,Wofford,RECEIVING,Dallas,Freeman,YDS,14
+10765123,12/9/2017,FCS,North Dakota St.,Wofford,RECEIVING,Dallas,Freeman,TD,0
+10765124,12/9/2017,FCS,North Dakota St.,Wofford,RECEIVING,Dallas,Freeman,LONG,14
+10765125,12/9/2017,FCS,North Dakota St.,Wofford,RECEIVING,Dimitri,Williams,REC,1
+10765126,12/9/2017,FCS,North Dakota St.,Wofford,RECEIVING,Dimitri,Williams,YDS,13
+10765127,12/9/2017,FCS,North Dakota St.,Wofford,RECEIVING,Dimitri,Williams,TD,0
+10765128,12/9/2017,FCS,North Dakota St.,Wofford,RECEIVING,Dimitri,Williams,LONG,13
+10765129,12/9/2017,FCS,North Dakota St.,Wofford,RECEIVING,Jeff,Illies,REC,2
+10765130,12/9/2017,FCS,North Dakota St.,Wofford,RECEIVING,Jeff,Illies,YDS,11
+10765131,12/9/2017,FCS,North Dakota St.,Wofford,RECEIVING,Jeff,Illies,TD,1
+10765132,12/9/2017,FCS,North Dakota St.,Wofford,RECEIVING,Jeff,Illies,LONG,7
+10765133,12/9/2017,FCS,North Dakota St.,Wofford,RECEIVING,Darrius,Shepherd,REC,1
+10765134,12/9/2017,FCS,North Dakota St.,Wofford,RECEIVING,Darrius,Shepherd,YDS,9
+10765135,12/9/2017,FCS,North Dakota St.,Wofford,RECEIVING,Darrius,Shepherd,TD,0
+10765136,12/9/2017,FCS,North Dakota St.,Wofford,RECEIVING,Darrius,Shepherd,LONG,9
+10765137,12/9/2017,FCS,North Dakota St.,Wofford,PUNTING,Jackson,Koonce,NO,2
+10765138,12/9/2017,FCS,North Dakota St.,Wofford,PUNTING,Jackson,Koonce,YDS,79
+10765139,12/9/2017,FCS,North Dakota St.,Wofford,PUNTING,Jackson,Koonce,AVG,39.5
+10765140,12/9/2017,FCS,North Dakota St.,Wofford,PUNTING,Jackson,Koonce,LONG,40
+10765141,12/9/2017,FCS,North Dakota St.,Wofford,PUNT RETURNS,Robbie,Grimsley,NO,1
+10765142,12/9/2017,FCS,North Dakota St.,Wofford,PUNT RETURNS,Robbie,Grimsley,YDS,10
+10765143,12/9/2017,FCS,North Dakota St.,Wofford,PUNT RETURNS,Robbie,Grimsley,AVG,10.0
+10765144,12/9/2017,FCS,North Dakota St.,Wofford,PUNT RETURNS,Robbie,Grimsley,LONG,10
+10765145,12/9/2017,FCS,North Dakota St.,Wofford,PUNT RETURNS,James,Hendricks,NO,1
+10765146,12/9/2017,FCS,North Dakota St.,Wofford,PUNT RETURNS,James,Hendricks,YDS,2
+10765147,12/9/2017,FCS,North Dakota St.,Wofford,PUNT RETURNS,James,Hendricks,AVG,2.0
+10765148,12/9/2017,FCS,North Dakota St.,Wofford,PUNT RETURNS,James,Hendricks,LONG,2
+10765149,12/9/2017,FCS,North Dakota St.,Wofford,KICK RETURNS,Dimitri,Williams,NO,3
+10765150,12/9/2017,FCS,North Dakota St.,Wofford,KICK RETURNS,Dimitri,Williams,YDS,94
+10765151,12/9/2017,FCS,North Dakota St.,Wofford,KICK RETURNS,Dimitri,Williams,AVG,31.3
+10765152,12/9/2017,FCS,North Dakota St.,Wofford,KICK RETURNS,Dimitri,Williams,LONG,41

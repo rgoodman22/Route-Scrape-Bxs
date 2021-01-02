@@ -1,0 +1,185 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9652001,10/15/2016,FCS,Morgan State,Hampton,RUSHING,Eric,Harrell,ATT,16
+9652002,10/15/2016,FCS,Morgan State,Hampton,RUSHING,Eric,Harrell,YDS,52
+9652003,10/15/2016,FCS,Morgan State,Hampton,RUSHING,Eric,Harrell,TD,0
+9652004,10/15/2016,FCS,Morgan State,Hampton,RUSHING,Eric,Harrell,LONG,9
+9652005,10/15/2016,FCS,Morgan State,Hampton,RUSHING,Orlando,Johnson,ATT,8
+9652006,10/15/2016,FCS,Morgan State,Hampton,RUSHING,Orlando,Johnson,YDS,31
+9652007,10/15/2016,FCS,Morgan State,Hampton,RUSHING,Orlando,Johnson,TD,0
+9652008,10/15/2016,FCS,Morgan State,Hampton,RUSHING,Orlando,Johnson,LONG,19
+9652009,10/15/2016,FCS,Morgan State,Hampton,RUSHING,Lamont,BrownIII,ATT,10
+9652010,10/15/2016,FCS,Morgan State,Hampton,RUSHING,Lamont,BrownIII,YDS,28
+9652011,10/15/2016,FCS,Morgan State,Hampton,RUSHING,Lamont,BrownIII,TD,0
+9652012,10/15/2016,FCS,Morgan State,Hampton,RUSHING,Lamont,BrownIII,LONG,11
+9652013,10/15/2016,FCS,Morgan State,Hampton,RUSHING,Ricky,Fisk,ATT,1
+9652014,10/15/2016,FCS,Morgan State,Hampton,RUSHING,Ricky,Fisk,YDS,8
+9652015,10/15/2016,FCS,Morgan State,Hampton,RUSHING,Ricky,Fisk,TD,0
+9652016,10/15/2016,FCS,Morgan State,Hampton,RUSHING,Ricky,Fisk,LONG,8
+9652017,10/15/2016,FCS,Morgan State,Hampton,RUSHING,DeAndre,Harris,ATT,2
+9652018,10/15/2016,FCS,Morgan State,Hampton,RUSHING,DeAndre,Harris,YDS,8
+9652019,10/15/2016,FCS,Morgan State,Hampton,RUSHING,DeAndre,Harris,TD,0
+9652020,10/15/2016,FCS,Morgan State,Hampton,RUSHING,DeAndre,Harris,LONG,13
+9652021,10/15/2016,FCS,Morgan State,Hampton,RUSHING,Thomas,Martin,ATT,1
+9652022,10/15/2016,FCS,Morgan State,Hampton,RUSHING,Thomas,Martin,YDS,-2
+9652023,10/15/2016,FCS,Morgan State,Hampton,RUSHING,Thomas,Martin,TD,0
+9652024,10/15/2016,FCS,Morgan State,Hampton,RUSHING,Thomas,Martin,LONG,0
+9652025,10/15/2016,FCS,Morgan State,Hampton,RUSHING,Chris,Andrews,ATT,5
+9652026,10/15/2016,FCS,Morgan State,Hampton,RUSHING,Chris,Andrews,YDS,-9
+9652027,10/15/2016,FCS,Morgan State,Hampton,RUSHING,Chris,Andrews,TD,0
+9652028,10/15/2016,FCS,Morgan State,Hampton,RUSHING,Chris,Andrews,LONG,2
+9652029,10/15/2016,FCS,Morgan State,Hampton,RUSHING,,Team,ATT,2
+9652030,10/15/2016,FCS,Morgan State,Hampton,RUSHING,,Team,YDS,-28
+9652031,10/15/2016,FCS,Morgan State,Hampton,RUSHING,,Team,TD,0
+9652032,10/15/2016,FCS,Morgan State,Hampton,RUSHING,,Team,LONG,0
+9652033,10/15/2016,FCS,Morgan State,Hampton,PASSING,Chris,Andrews,CP-ATT-INT,14-22-1
+9652034,10/15/2016,FCS,Morgan State,Hampton,PASSING,Chris,Andrews,YDS,172
+9652035,10/15/2016,FCS,Morgan State,Hampton,PASSING,Chris,Andrews,TD,2
+9652036,10/15/2016,FCS,Morgan State,Hampton,PASSING,Chris,Andrews,LONG,23
+9652037,10/15/2016,FCS,Morgan State,Hampton,PASSING,DeAndre,Harris,CP-ATT-INT,2-5-1
+9652038,10/15/2016,FCS,Morgan State,Hampton,PASSING,DeAndre,Harris,YDS,30
+9652039,10/15/2016,FCS,Morgan State,Hampton,PASSING,DeAndre,Harris,TD,0
+9652040,10/15/2016,FCS,Morgan State,Hampton,PASSING,DeAndre,Harris,LONG,27
+9652041,10/15/2016,FCS,Morgan State,Hampton,RECEIVING,Grayling,Harrison,REC,4
+9652042,10/15/2016,FCS,Morgan State,Hampton,RECEIVING,Grayling,Harrison,YDS,61
+9652043,10/15/2016,FCS,Morgan State,Hampton,RECEIVING,Grayling,Harrison,TD,1
+9652044,10/15/2016,FCS,Morgan State,Hampton,RECEIVING,Grayling,Harrison,LONG,27
+9652045,10/15/2016,FCS,Morgan State,Hampton,RECEIVING,Ladarious,Spearman,REC,3
+9652046,10/15/2016,FCS,Morgan State,Hampton,RECEIVING,Ladarious,Spearman,YDS,51
+9652047,10/15/2016,FCS,Morgan State,Hampton,RECEIVING,Ladarious,Spearman,TD,1
+9652048,10/15/2016,FCS,Morgan State,Hampton,RECEIVING,Ladarious,Spearman,LONG,22
+9652049,10/15/2016,FCS,Morgan State,Hampton,RECEIVING,Eric,Harrell,REC,2
+9652050,10/15/2016,FCS,Morgan State,Hampton,RECEIVING,Eric,Harrell,YDS,26
+9652051,10/15/2016,FCS,Morgan State,Hampton,RECEIVING,Eric,Harrell,TD,0
+9652052,10/15/2016,FCS,Morgan State,Hampton,RECEIVING,Eric,Harrell,LONG,23
+9652053,10/15/2016,FCS,Morgan State,Hampton,RECEIVING,Lamont,BrownIII,REC,2
+9652054,10/15/2016,FCS,Morgan State,Hampton,RECEIVING,Lamont,BrownIII,YDS,19
+9652055,10/15/2016,FCS,Morgan State,Hampton,RECEIVING,Lamont,BrownIII,TD,0
+9652056,10/15/2016,FCS,Morgan State,Hampton,RECEIVING,Lamont,BrownIII,LONG,8
+9652057,10/15/2016,FCS,Morgan State,Hampton,RECEIVING,Thomas,Martin,REC,2
+9652058,10/15/2016,FCS,Morgan State,Hampton,RECEIVING,Thomas,Martin,YDS,17
+9652059,10/15/2016,FCS,Morgan State,Hampton,RECEIVING,Thomas,Martin,TD,0
+9652060,10/15/2016,FCS,Morgan State,Hampton,RECEIVING,Thomas,Martin,LONG,15
+9652061,10/15/2016,FCS,Morgan State,Hampton,RECEIVING,Willie,GillusIII,REC,1
+9652062,10/15/2016,FCS,Morgan State,Hampton,RECEIVING,Willie,GillusIII,YDS,13
+9652063,10/15/2016,FCS,Morgan State,Hampton,RECEIVING,Willie,GillusIII,TD,0
+9652064,10/15/2016,FCS,Morgan State,Hampton,RECEIVING,Willie,GillusIII,LONG,13
+9652065,10/15/2016,FCS,Morgan State,Hampton,RECEIVING,Amonta,Poteat,REC,1
+9652066,10/15/2016,FCS,Morgan State,Hampton,RECEIVING,Amonta,Poteat,YDS,8
+9652067,10/15/2016,FCS,Morgan State,Hampton,RECEIVING,Amonta,Poteat,TD,0
+9652068,10/15/2016,FCS,Morgan State,Hampton,RECEIVING,Amonta,Poteat,LONG,8
+9652069,10/15/2016,FCS,Morgan State,Hampton,RECEIVING,Ricky,Fisk,REC,1
+9652070,10/15/2016,FCS,Morgan State,Hampton,RECEIVING,Ricky,Fisk,YDS,7
+9652071,10/15/2016,FCS,Morgan State,Hampton,RECEIVING,Ricky,Fisk,TD,0
+9652072,10/15/2016,FCS,Morgan State,Hampton,RECEIVING,Ricky,Fisk,LONG,7
+9652073,10/15/2016,FCS,Morgan State,Hampton,KICKING,Alex,Raya,FG-FGA,0/1
+9652074,10/15/2016,FCS,Morgan State,Hampton,KICKING,Alex,Raya,LONG,0
+9652075,10/15/2016,FCS,Morgan State,Hampton,KICKING,Alex,Raya,XP,0
+9652076,10/15/2016,FCS,Morgan State,Hampton,KICKING,Alex,Raya,PTS,0
+9652077,10/15/2016,FCS,Morgan State,Hampton,PUNTING,Alex,Raya,NO,4
+9652078,10/15/2016,FCS,Morgan State,Hampton,PUNTING,Alex,Raya,YDS,154
+9652079,10/15/2016,FCS,Morgan State,Hampton,PUNTING,Alex,Raya,AVG,38.5
+9652080,10/15/2016,FCS,Morgan State,Hampton,PUNTING,Alex,Raya,LONG,55
+9652081,10/15/2016,FCS,Morgan State,Hampton,PUNTING,,Team,NO,1
+9652082,10/15/2016,FCS,Morgan State,Hampton,PUNTING,,Team,YDS,10
+9652083,10/15/2016,FCS,Morgan State,Hampton,PUNTING,,Team,AVG,10.0
+9652084,10/15/2016,FCS,Morgan State,Hampton,PUNTING,,Team,LONG,10
+9652085,10/15/2016,FCS,Morgan State,Hampton,PUNT RETURNS,Thomas,Martin,NO,2
+9652086,10/15/2016,FCS,Morgan State,Hampton,PUNT RETURNS,Thomas,Martin,YDS,80
+9652087,10/15/2016,FCS,Morgan State,Hampton,PUNT RETURNS,Thomas,Martin,AVG,40.0
+9652088,10/15/2016,FCS,Morgan State,Hampton,PUNT RETURNS,Thomas,Martin,LONG,42
+9652089,10/15/2016,FCS,Morgan State,Hampton,KICK RETURNS,Orlando,Johnson,NO,1
+9652090,10/15/2016,FCS,Morgan State,Hampton,KICK RETURNS,Orlando,Johnson,YDS,35
+9652091,10/15/2016,FCS,Morgan State,Hampton,KICK RETURNS,Orlando,Johnson,AVG,35.0
+9652092,10/15/2016,FCS,Morgan State,Hampton,KICK RETURNS,Orlando,Johnson,LONG,35
+9652093,10/15/2016,FCS,Morgan State,Hampton,KICK RETURNS,William,King,NO,1
+9652094,10/15/2016,FCS,Morgan State,Hampton,KICK RETURNS,William,King,YDS,19
+9652095,10/15/2016,FCS,Morgan State,Hampton,KICK RETURNS,William,King,AVG,19.0
+9652096,10/15/2016,FCS,Morgan State,Hampton,KICK RETURNS,William,King,LONG,19
+9652097,10/15/2016,FCS,Morgan State,Hampton,KICK RETURNS,Darius,Johnson,NO,1
+9652098,10/15/2016,FCS,Morgan State,Hampton,KICK RETURNS,Darius,Johnson,YDS,10
+9652099,10/15/2016,FCS,Morgan State,Hampton,KICK RETURNS,Darius,Johnson,AVG,10.0
+9652100,10/15/2016,FCS,Morgan State,Hampton,KICK RETURNS,Darius,Johnson,LONG,10
+9652101,10/15/2016,FCS,Hampton,Morgan State,RUSHING,Yahkee,Johnson,ATT,14
+9652102,10/15/2016,FCS,Hampton,Morgan State,RUSHING,Yahkee,Johnson,YDS,64
+9652103,10/15/2016,FCS,Hampton,Morgan State,RUSHING,Yahkee,Johnson,TD,0
+9652104,10/15/2016,FCS,Hampton,Morgan State,RUSHING,Yahkee,Johnson,LONG,18
+9652105,10/15/2016,FCS,Hampton,Morgan State,RUSHING,Eric,CarterJr.,ATT,10
+9652106,10/15/2016,FCS,Hampton,Morgan State,RUSHING,Eric,CarterJr.,YDS,23
+9652107,10/15/2016,FCS,Hampton,Morgan State,RUSHING,Eric,CarterJr.,TD,0
+9652108,10/15/2016,FCS,Hampton,Morgan State,RUSHING,Eric,CarterJr.,LONG,7
+9652109,10/15/2016,FCS,Hampton,Morgan State,RUSHING,,Team,ATT,1
+9652110,10/15/2016,FCS,Hampton,Morgan State,RUSHING,,Team,YDS,-2
+9652111,10/15/2016,FCS,Hampton,Morgan State,RUSHING,,Team,TD,0
+9652112,10/15/2016,FCS,Hampton,Morgan State,RUSHING,,Team,LONG,0
+9652113,10/15/2016,FCS,Hampton,Morgan State,RUSHING,Ronald,Bell,ATT,1
+9652114,10/15/2016,FCS,Hampton,Morgan State,RUSHING,Ronald,Bell,YDS,-5
+9652115,10/15/2016,FCS,Hampton,Morgan State,RUSHING,Ronald,Bell,TD,0
+9652116,10/15/2016,FCS,Hampton,Morgan State,RUSHING,Ronald,Bell,LONG,0
+9652117,10/15/2016,FCS,Hampton,Morgan State,RUSHING,Jaylian,Williamson,ATT,1
+9652118,10/15/2016,FCS,Hampton,Morgan State,RUSHING,Jaylian,Williamson,YDS,-7
+9652119,10/15/2016,FCS,Hampton,Morgan State,RUSHING,Jaylian,Williamson,TD,0
+9652120,10/15/2016,FCS,Hampton,Morgan State,RUSHING,Jaylian,Williamson,LONG,0
+9652121,10/15/2016,FCS,Hampton,Morgan State,PASSING,Jaylian,Williamson,CP-ATT-INT,15-25-2
+9652122,10/15/2016,FCS,Hampton,Morgan State,PASSING,Jaylian,Williamson,YDS,143
+9652123,10/15/2016,FCS,Hampton,Morgan State,PASSING,Jaylian,Williamson,TD,2
+9652124,10/15/2016,FCS,Hampton,Morgan State,PASSING,Jaylian,Williamson,LONG,37
+9652125,10/15/2016,FCS,Hampton,Morgan State,PASSING,Keon,Marsh,CP-ATT-INT,2-5-0
+9652126,10/15/2016,FCS,Hampton,Morgan State,PASSING,Keon,Marsh,YDS,22
+9652127,10/15/2016,FCS,Hampton,Morgan State,PASSING,Keon,Marsh,TD,0
+9652128,10/15/2016,FCS,Hampton,Morgan State,PASSING,Keon,Marsh,LONG,12
+9652129,10/15/2016,FCS,Hampton,Morgan State,PASSING,Twarn,Mixson,CP-ATT-INT,1-1-0
+9652130,10/15/2016,FCS,Hampton,Morgan State,PASSING,Twarn,Mixson,YDS,15
+9652131,10/15/2016,FCS,Hampton,Morgan State,PASSING,Twarn,Mixson,TD,1
+9652132,10/15/2016,FCS,Hampton,Morgan State,PASSING,Twarn,Mixson,LONG,15
+9652133,10/15/2016,FCS,Hampton,Morgan State,RECEIVING,Rashawn,Proctor,REC,6
+9652134,10/15/2016,FCS,Hampton,Morgan State,RECEIVING,Rashawn,Proctor,YDS,93
+9652135,10/15/2016,FCS,Hampton,Morgan State,RECEIVING,Rashawn,Proctor,TD,1
+9652136,10/15/2016,FCS,Hampton,Morgan State,RECEIVING,Rashawn,Proctor,LONG,37
+9652137,10/15/2016,FCS,Hampton,Morgan State,RECEIVING,Twarn,Mixson,REC,4
+9652138,10/15/2016,FCS,Hampton,Morgan State,RECEIVING,Twarn,Mixson,YDS,35
+9652139,10/15/2016,FCS,Hampton,Morgan State,RECEIVING,Twarn,Mixson,TD,0
+9652140,10/15/2016,FCS,Hampton,Morgan State,RECEIVING,Twarn,Mixson,LONG,15
+9652141,10/15/2016,FCS,Hampton,Morgan State,RECEIVING,Jack,Willenbrock,REC,3
+9652142,10/15/2016,FCS,Hampton,Morgan State,RECEIVING,Jack,Willenbrock,YDS,33
+9652143,10/15/2016,FCS,Hampton,Morgan State,RECEIVING,Jack,Willenbrock,TD,1
+9652144,10/15/2016,FCS,Hampton,Morgan State,RECEIVING,Jack,Willenbrock,LONG,14
+9652145,10/15/2016,FCS,Hampton,Morgan State,RECEIVING,Jaylian,Williamson,REC,1
+9652146,10/15/2016,FCS,Hampton,Morgan State,RECEIVING,Jaylian,Williamson,YDS,15
+9652147,10/15/2016,FCS,Hampton,Morgan State,RECEIVING,Jaylian,Williamson,TD,1
+9652148,10/15/2016,FCS,Hampton,Morgan State,RECEIVING,Jaylian,Williamson,LONG,15
+9652149,10/15/2016,FCS,Hampton,Morgan State,RECEIVING,Shakim,Alonzo,REC,1
+9652150,10/15/2016,FCS,Hampton,Morgan State,RECEIVING,Shakim,Alonzo,YDS,8
+9652151,10/15/2016,FCS,Hampton,Morgan State,RECEIVING,Shakim,Alonzo,TD,0
+9652152,10/15/2016,FCS,Hampton,Morgan State,RECEIVING,Shakim,Alonzo,LONG,8
+9652153,10/15/2016,FCS,Hampton,Morgan State,RECEIVING,Leon,Shorter,REC,1
+9652154,10/15/2016,FCS,Hampton,Morgan State,RECEIVING,Leon,Shorter,YDS,4
+9652155,10/15/2016,FCS,Hampton,Morgan State,RECEIVING,Leon,Shorter,TD,0
+9652156,10/15/2016,FCS,Hampton,Morgan State,RECEIVING,Leon,Shorter,LONG,4
+9652157,10/15/2016,FCS,Hampton,Morgan State,RECEIVING,Eric,CarterJr.,REC,1
+9652158,10/15/2016,FCS,Hampton,Morgan State,RECEIVING,Eric,CarterJr.,YDS,0
+9652159,10/15/2016,FCS,Hampton,Morgan State,RECEIVING,Eric,CarterJr.,TD,0
+9652160,10/15/2016,FCS,Hampton,Morgan State,RECEIVING,Eric,CarterJr.,LONG,0
+9652161,10/15/2016,FCS,Hampton,Morgan State,RECEIVING,Yahkee,Johnson,REC,1
+9652162,10/15/2016,FCS,Hampton,Morgan State,RECEIVING,Yahkee,Johnson,YDS,-8
+9652163,10/15/2016,FCS,Hampton,Morgan State,RECEIVING,Yahkee,Johnson,TD,0
+9652164,10/15/2016,FCS,Hampton,Morgan State,RECEIVING,Yahkee,Johnson,LONG,0
+9652165,10/15/2016,FCS,Hampton,Morgan State,KICKING,Anthony,Prevost,FG-FGA,0/0
+9652166,10/15/2016,FCS,Hampton,Morgan State,KICKING,Anthony,Prevost,LONG,-
+9652167,10/15/2016,FCS,Hampton,Morgan State,KICKING,Anthony,Prevost,XP,3
+9652168,10/15/2016,FCS,Hampton,Morgan State,KICKING,Anthony,Prevost,PTS,3
+9652169,10/15/2016,FCS,Hampton,Morgan State,PUNTING,Christian,Faber-Kinney,NO,7
+9652170,10/15/2016,FCS,Hampton,Morgan State,PUNTING,Christian,Faber-Kinney,YDS,311
+9652171,10/15/2016,FCS,Hampton,Morgan State,PUNTING,Christian,Faber-Kinney,AVG,44.4
+9652172,10/15/2016,FCS,Hampton,Morgan State,PUNTING,Christian,Faber-Kinney,LONG,66
+9652173,10/15/2016,FCS,Hampton,Morgan State,PUNT RETURNS,Ronald,Bell,NO,1
+9652174,10/15/2016,FCS,Hampton,Morgan State,PUNT RETURNS,Ronald,Bell,YDS,6
+9652175,10/15/2016,FCS,Hampton,Morgan State,PUNT RETURNS,Ronald,Bell,AVG,6.0
+9652176,10/15/2016,FCS,Hampton,Morgan State,PUNT RETURNS,Ronald,Bell,LONG,6
+9652177,10/15/2016,FCS,Hampton,Morgan State,KICK RETURNS,Rashawn,Proctor,NO,1
+9652178,10/15/2016,FCS,Hampton,Morgan State,KICK RETURNS,Rashawn,Proctor,YDS,27
+9652179,10/15/2016,FCS,Hampton,Morgan State,KICK RETURNS,Rashawn,Proctor,AVG,27.0
+9652180,10/15/2016,FCS,Hampton,Morgan State,KICK RETURNS,Rashawn,Proctor,LONG,27
+9652181,10/15/2016,FCS,Hampton,Morgan State,KICK RETURNS,Ronald,Bell,NO,1
+9652182,10/15/2016,FCS,Hampton,Morgan State,KICK RETURNS,Ronald,Bell,YDS,25
+9652183,10/15/2016,FCS,Hampton,Morgan State,KICK RETURNS,Ronald,Bell,AVG,25.0
+9652184,10/15/2016,FCS,Hampton,Morgan State,KICK RETURNS,Ronald,Bell,LONG,25

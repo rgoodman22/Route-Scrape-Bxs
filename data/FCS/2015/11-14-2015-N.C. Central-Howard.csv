@@ -1,0 +1,149 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9090001,11/14/2015,FCS,N.C. Central,Howard,RUSHING,Ramone,Simpson,ATT,10
+9090002,11/14/2015,FCS,N.C. Central,Howard,RUSHING,Ramone,Simpson,YDS,56
+9090003,11/14/2015,FCS,N.C. Central,Howard,RUSHING,Ramone,Simpson,TD,1
+9090004,11/14/2015,FCS,N.C. Central,Howard,RUSHING,Ramone,Simpson,LONG,11
+9090005,11/14/2015,FCS,N.C. Central,Howard,RUSHING,Dorrel,McClain,ATT,13
+9090006,11/14/2015,FCS,N.C. Central,Howard,RUSHING,Dorrel,McClain,YDS,29
+9090007,11/14/2015,FCS,N.C. Central,Howard,RUSHING,Dorrel,McClain,TD,0
+9090008,11/14/2015,FCS,N.C. Central,Howard,RUSHING,Dorrel,McClain,LONG,11
+9090009,11/14/2015,FCS,N.C. Central,Howard,RUSHING,Malcolm,Bell,ATT,11
+9090010,11/14/2015,FCS,N.C. Central,Howard,RUSHING,Malcolm,Bell,YDS,28
+9090011,11/14/2015,FCS,N.C. Central,Howard,RUSHING,Malcolm,Bell,TD,1
+9090012,11/14/2015,FCS,N.C. Central,Howard,RUSHING,Malcolm,Bell,LONG,16
+9090013,11/14/2015,FCS,N.C. Central,Howard,RUSHING,Jonathan,Williams,ATT,2
+9090014,11/14/2015,FCS,N.C. Central,Howard,RUSHING,Jonathan,Williams,YDS,6
+9090015,11/14/2015,FCS,N.C. Central,Howard,RUSHING,Jonathan,Williams,TD,0
+9090016,11/14/2015,FCS,N.C. Central,Howard,RUSHING,Jonathan,Williams,LONG,4
+9090017,11/14/2015,FCS,N.C. Central,Howard,RUSHING,,Team,ATT,1
+9090018,11/14/2015,FCS,N.C. Central,Howard,RUSHING,,Team,YDS,-1
+9090019,11/14/2015,FCS,N.C. Central,Howard,RUSHING,,Team,TD,0
+9090020,11/14/2015,FCS,N.C. Central,Howard,RUSHING,,Team,LONG,-1
+9090021,11/14/2015,FCS,N.C. Central,Howard,PASSING,Malcolm,Bell,CP-ATT-INT,16-26-0
+9090022,11/14/2015,FCS,N.C. Central,Howard,PASSING,Malcolm,Bell,YDS,292
+9090023,11/14/2015,FCS,N.C. Central,Howard,PASSING,Malcolm,Bell,TD,2
+9090024,11/14/2015,FCS,N.C. Central,Howard,PASSING,Malcolm,Bell,LONG,74
+9090025,11/14/2015,FCS,N.C. Central,Howard,PASSING,Quinn,Billerman,CP-ATT-INT,3-3-0
+9090026,11/14/2015,FCS,N.C. Central,Howard,PASSING,Quinn,Billerman,YDS,14
+9090027,11/14/2015,FCS,N.C. Central,Howard,PASSING,Quinn,Billerman,TD,0
+9090028,11/14/2015,FCS,N.C. Central,Howard,PASSING,Quinn,Billerman,LONG,9
+9090029,11/14/2015,FCS,N.C. Central,Howard,RECEIVING,LaVontis,Smith,REC,2
+9090030,11/14/2015,FCS,N.C. Central,Howard,RECEIVING,LaVontis,Smith,YDS,75
+9090031,11/14/2015,FCS,N.C. Central,Howard,RECEIVING,LaVontis,Smith,TD,1
+9090032,11/14/2015,FCS,N.C. Central,Howard,RECEIVING,LaVontis,Smith,LONG,74
+9090033,11/14/2015,FCS,N.C. Central,Howard,RECEIVING,Dorrel,McClain,REC,4
+9090034,11/14/2015,FCS,N.C. Central,Howard,RECEIVING,Dorrel,McClain,YDS,62
+9090035,11/14/2015,FCS,N.C. Central,Howard,RECEIVING,Dorrel,McClain,TD,0
+9090036,11/14/2015,FCS,N.C. Central,Howard,RECEIVING,Dorrel,McClain,LONG,31
+9090037,11/14/2015,FCS,N.C. Central,Howard,RECEIVING,Jvon,Simmons,REC,1
+9090038,11/14/2015,FCS,N.C. Central,Howard,RECEIVING,Jvon,Simmons,YDS,57
+9090039,11/14/2015,FCS,N.C. Central,Howard,RECEIVING,Jvon,Simmons,TD,0
+9090040,11/14/2015,FCS,N.C. Central,Howard,RECEIVING,Jvon,Simmons,LONG,57
+9090041,11/14/2015,FCS,N.C. Central,Howard,RECEIVING,Armani,Lanier,REC,5
+9090042,11/14/2015,FCS,N.C. Central,Howard,RECEIVING,Armani,Lanier,YDS,49
+9090043,11/14/2015,FCS,N.C. Central,Howard,RECEIVING,Armani,Lanier,TD,1
+9090044,11/14/2015,FCS,N.C. Central,Howard,RECEIVING,Armani,Lanier,LONG,17
+9090045,11/14/2015,FCS,N.C. Central,Howard,RECEIVING,David,Miller,REC,5
+9090046,11/14/2015,FCS,N.C. Central,Howard,RECEIVING,David,Miller,YDS,44
+9090047,11/14/2015,FCS,N.C. Central,Howard,RECEIVING,David,Miller,TD,0
+9090048,11/14/2015,FCS,N.C. Central,Howard,RECEIVING,David,Miller,LONG,21
+9090049,11/14/2015,FCS,N.C. Central,Howard,RECEIVING,Ramone,Simpson,REC,1
+9090050,11/14/2015,FCS,N.C. Central,Howard,RECEIVING,Ramone,Simpson,YDS,13
+9090051,11/14/2015,FCS,N.C. Central,Howard,RECEIVING,Ramone,Simpson,TD,0
+9090052,11/14/2015,FCS,N.C. Central,Howard,RECEIVING,Ramone,Simpson,LONG,13
+9090053,11/14/2015,FCS,N.C. Central,Howard,RECEIVING,Glen,Calvin,REC,1
+9090054,11/14/2015,FCS,N.C. Central,Howard,RECEIVING,Glen,Calvin,YDS,6
+9090055,11/14/2015,FCS,N.C. Central,Howard,RECEIVING,Glen,Calvin,TD,0
+9090056,11/14/2015,FCS,N.C. Central,Howard,RECEIVING,Glen,Calvin,LONG,6
+9090057,11/14/2015,FCS,N.C. Central,Howard,KICKING,Nigel,Macauley,FG-FGA,2/3
+9090058,11/14/2015,FCS,N.C. Central,Howard,KICKING,Nigel,Macauley,LONG,25
+9090059,11/14/2015,FCS,N.C. Central,Howard,KICKING,Nigel,Macauley,XP,5
+9090060,11/14/2015,FCS,N.C. Central,Howard,KICKING,Nigel,Macauley,PTS,11
+9090061,11/14/2015,FCS,N.C. Central,Howard,PUNTING,Nathaniel,Tilque,NO,4
+9090062,11/14/2015,FCS,N.C. Central,Howard,PUNTING,Nathaniel,Tilque,YDS,186
+9090063,11/14/2015,FCS,N.C. Central,Howard,PUNTING,Nathaniel,Tilque,AVG,46.5
+9090064,11/14/2015,FCS,N.C. Central,Howard,PUNTING,Nathaniel,Tilque,LONG,53
+9090065,11/14/2015,FCS,N.C. Central,Howard,KICK RETURNS,Ryan,Smith,NO,1
+9090066,11/14/2015,FCS,N.C. Central,Howard,KICK RETURNS,Ryan,Smith,YDS,15
+9090067,11/14/2015,FCS,N.C. Central,Howard,KICK RETURNS,Ryan,Smith,AVG,15.0
+9090068,11/14/2015,FCS,N.C. Central,Howard,KICK RETURNS,Ryan,Smith,LONG,15
+9090069,11/14/2015,FCS,Howard,N.C. Central,RUSHING,Kalen,Johnson,ATT,15
+9090070,11/14/2015,FCS,Howard,N.C. Central,RUSHING,Kalen,Johnson,YDS,57
+9090071,11/14/2015,FCS,Howard,N.C. Central,RUSHING,Kalen,Johnson,TD,0
+9090072,11/14/2015,FCS,Howard,N.C. Central,RUSHING,Kalen,Johnson,LONG,39
+9090073,11/14/2015,FCS,Howard,N.C. Central,RUSHING,Da'Vaun,Johnson,ATT,14
+9090074,11/14/2015,FCS,Howard,N.C. Central,RUSHING,Da'Vaun,Johnson,YDS,33
+9090075,11/14/2015,FCS,Howard,N.C. Central,RUSHING,Da'Vaun,Johnson,TD,0
+9090076,11/14/2015,FCS,Howard,N.C. Central,RUSHING,Da'Vaun,Johnson,LONG,7
+9090077,11/14/2015,FCS,Howard,N.C. Central,RUSHING,Ricquaz,Brannon,ATT,6
+9090078,11/14/2015,FCS,Howard,N.C. Central,RUSHING,Ricquaz,Brannon,YDS,20
+9090079,11/14/2015,FCS,Howard,N.C. Central,RUSHING,Ricquaz,Brannon,TD,0
+9090080,11/14/2015,FCS,Howard,N.C. Central,RUSHING,Ricquaz,Brannon,LONG,9
+9090081,11/14/2015,FCS,Howard,N.C. Central,RUSHING,Rodney,Tyson,ATT,2
+9090082,11/14/2015,FCS,Howard,N.C. Central,RUSHING,Rodney,Tyson,YDS,0
+9090083,11/14/2015,FCS,Howard,N.C. Central,RUSHING,Rodney,Tyson,TD,0
+9090084,11/14/2015,FCS,Howard,N.C. Central,RUSHING,Rodney,Tyson,LONG,2
+9090085,11/14/2015,FCS,Howard,N.C. Central,RUSHING,Guy,Lemonier,ATT,1
+9090086,11/14/2015,FCS,Howard,N.C. Central,RUSHING,Guy,Lemonier,YDS,0
+9090087,11/14/2015,FCS,Howard,N.C. Central,RUSHING,Guy,Lemonier,TD,0
+9090088,11/14/2015,FCS,Howard,N.C. Central,RUSHING,Guy,Lemonier,LONG,0
+9090089,11/14/2015,FCS,Howard,N.C. Central,PASSING,Kalen,Johnson,CP-ATT-INT,19-38-4
+9090090,11/14/2015,FCS,Howard,N.C. Central,PASSING,Kalen,Johnson,YDS,242
+9090091,11/14/2015,FCS,Howard,N.C. Central,PASSING,Kalen,Johnson,TD,0
+9090092,11/14/2015,FCS,Howard,N.C. Central,PASSING,Kalen,Johnson,LONG,46
+9090093,11/14/2015,FCS,Howard,N.C. Central,RECEIVING,Myles,Williams,REC,3
+9090094,11/14/2015,FCS,Howard,N.C. Central,RECEIVING,Myles,Williams,YDS,54
+9090095,11/14/2015,FCS,Howard,N.C. Central,RECEIVING,Myles,Williams,TD,0
+9090096,11/14/2015,FCS,Howard,N.C. Central,RECEIVING,Myles,Williams,LONG,28
+9090097,11/14/2015,FCS,Howard,N.C. Central,RECEIVING,Jalen,Avery,REC,2
+9090098,11/14/2015,FCS,Howard,N.C. Central,RECEIVING,Jalen,Avery,YDS,51
+9090099,11/14/2015,FCS,Howard,N.C. Central,RECEIVING,Jalen,Avery,TD,0
+9090100,11/14/2015,FCS,Howard,N.C. Central,RECEIVING,Jalen,Avery,LONG,46
+9090101,11/14/2015,FCS,Howard,N.C. Central,RECEIVING,Robert,Mercer,REC,2
+9090102,11/14/2015,FCS,Howard,N.C. Central,RECEIVING,Robert,Mercer,YDS,38
+9090103,11/14/2015,FCS,Howard,N.C. Central,RECEIVING,Robert,Mercer,TD,0
+9090104,11/14/2015,FCS,Howard,N.C. Central,RECEIVING,Robert,Mercer,LONG,39
+9090105,11/14/2015,FCS,Howard,N.C. Central,RECEIVING,Da'Vaun,Johnson,REC,4
+9090106,11/14/2015,FCS,Howard,N.C. Central,RECEIVING,Da'Vaun,Johnson,YDS,31
+9090107,11/14/2015,FCS,Howard,N.C. Central,RECEIVING,Da'Vaun,Johnson,TD,0
+9090108,11/14/2015,FCS,Howard,N.C. Central,RECEIVING,Da'Vaun,Johnson,LONG,9
+9090109,11/14/2015,FCS,Howard,N.C. Central,RECEIVING,Tamlin,Antoine,REC,1
+9090110,11/14/2015,FCS,Howard,N.C. Central,RECEIVING,Tamlin,Antoine,YDS,24
+9090111,11/14/2015,FCS,Howard,N.C. Central,RECEIVING,Tamlin,Antoine,TD,0
+9090112,11/14/2015,FCS,Howard,N.C. Central,RECEIVING,Tamlin,Antoine,LONG,24
+9090113,11/14/2015,FCS,Howard,N.C. Central,RECEIVING,Matthew,Colvin,REC,2
+9090114,11/14/2015,FCS,Howard,N.C. Central,RECEIVING,Matthew,Colvin,YDS,18
+9090115,11/14/2015,FCS,Howard,N.C. Central,RECEIVING,Matthew,Colvin,TD,0
+9090116,11/14/2015,FCS,Howard,N.C. Central,RECEIVING,Matthew,Colvin,LONG,9
+9090117,11/14/2015,FCS,Howard,N.C. Central,RECEIVING,Ricquaz,Brannon,REC,2
+9090118,11/14/2015,FCS,Howard,N.C. Central,RECEIVING,Ricquaz,Brannon,YDS,14
+9090119,11/14/2015,FCS,Howard,N.C. Central,RECEIVING,Ricquaz,Brannon,TD,0
+9090120,11/14/2015,FCS,Howard,N.C. Central,RECEIVING,Ricquaz,Brannon,LONG,9
+9090121,11/14/2015,FCS,Howard,N.C. Central,RECEIVING,Guy,Lemonier,REC,2
+9090122,11/14/2015,FCS,Howard,N.C. Central,RECEIVING,Guy,Lemonier,YDS,9
+9090123,11/14/2015,FCS,Howard,N.C. Central,RECEIVING,Guy,Lemonier,TD,0
+9090124,11/14/2015,FCS,Howard,N.C. Central,RECEIVING,Guy,Lemonier,LONG,5
+9090125,11/14/2015,FCS,Howard,N.C. Central,RECEIVING,Rodney,Tyson,REC,1
+9090126,11/14/2015,FCS,Howard,N.C. Central,RECEIVING,Rodney,Tyson,YDS,3
+9090127,11/14/2015,FCS,Howard,N.C. Central,RECEIVING,Rodney,Tyson,TD,0
+9090128,11/14/2015,FCS,Howard,N.C. Central,RECEIVING,Rodney,Tyson,LONG,3
+9090129,11/14/2015,FCS,Howard,N.C. Central,KICKING,John,Fleck,FG-FGA,2/3
+9090130,11/14/2015,FCS,Howard,N.C. Central,KICKING,John,Fleck,LONG,41
+9090131,11/14/2015,FCS,Howard,N.C. Central,KICKING,John,Fleck,XP,0
+9090132,11/14/2015,FCS,Howard,N.C. Central,KICKING,John,Fleck,PTS,6
+9090133,11/14/2015,FCS,Howard,N.C. Central,PUNTING,John,Fleck,NO,4
+9090134,11/14/2015,FCS,Howard,N.C. Central,PUNTING,John,Fleck,YDS,108
+9090135,11/14/2015,FCS,Howard,N.C. Central,PUNTING,John,Fleck,AVG,27.0
+9090136,11/14/2015,FCS,Howard,N.C. Central,PUNTING,John,Fleck,LONG,39
+9090137,11/14/2015,FCS,Howard,N.C. Central,PUNT RETURNS,Jalen,Avery,NO,2
+9090138,11/14/2015,FCS,Howard,N.C. Central,PUNT RETURNS,Jalen,Avery,YDS,15
+9090139,11/14/2015,FCS,Howard,N.C. Central,PUNT RETURNS,Jalen,Avery,AVG,7.5
+9090140,11/14/2015,FCS,Howard,N.C. Central,PUNT RETURNS,Jalen,Avery,LONG,14
+9090141,11/14/2015,FCS,Howard,N.C. Central,KICK RETURNS,Robert,Mercer,NO,2
+9090142,11/14/2015,FCS,Howard,N.C. Central,KICK RETURNS,Robert,Mercer,YDS,54
+9090143,11/14/2015,FCS,Howard,N.C. Central,KICK RETURNS,Robert,Mercer,AVG,27.0
+9090144,11/14/2015,FCS,Howard,N.C. Central,KICK RETURNS,Robert,Mercer,LONG,33
+9090145,11/14/2015,FCS,Howard,N.C. Central,KICK RETURNS,Guy,Lemonier,NO,2
+9090146,11/14/2015,FCS,Howard,N.C. Central,KICK RETURNS,Guy,Lemonier,YDS,35
+9090147,11/14/2015,FCS,Howard,N.C. Central,KICK RETURNS,Guy,Lemonier,AVG,17.5
+9090148,11/14/2015,FCS,Howard,N.C. Central,KICK RETURNS,Guy,Lemonier,LONG,19

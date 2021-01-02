@@ -1,0 +1,149 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+7235001,10/19/2013,FCS,Montana State,Weber State,RUSHING,Cody,Kirk,ATT,17
+7235002,10/19/2013,FCS,Montana State,Weber State,RUSHING,Cody,Kirk,YDS,95
+7235003,10/19/2013,FCS,Montana State,Weber State,RUSHING,Cody,Kirk,TD,1
+7235004,10/19/2013,FCS,Montana State,Weber State,RUSHING,Cody,Kirk,LONG,24
+7235005,10/19/2013,FCS,Montana State,Weber State,RUSHING,Shawn,Johnson,ATT,12
+7235006,10/19/2013,FCS,Montana State,Weber State,RUSHING,Shawn,Johnson,YDS,57
+7235007,10/19/2013,FCS,Montana State,Weber State,RUSHING,Shawn,Johnson,TD,1
+7235008,10/19/2013,FCS,Montana State,Weber State,RUSHING,Shawn,Johnson,LONG,25
+7235009,10/19/2013,FCS,Montana State,Weber State,RUSHING,DeNarius,McGhee,ATT,5
+7235010,10/19/2013,FCS,Montana State,Weber State,RUSHING,DeNarius,McGhee,YDS,11
+7235011,10/19/2013,FCS,Montana State,Weber State,RUSHING,DeNarius,McGhee,TD,0
+7235012,10/19/2013,FCS,Montana State,Weber State,RUSHING,DeNarius,McGhee,LONG,9
+7235013,10/19/2013,FCS,Montana State,Weber State,RUSHING,Jon,Ellis,ATT,1
+7235014,10/19/2013,FCS,Montana State,Weber State,RUSHING,Jon,Ellis,YDS,3
+7235015,10/19/2013,FCS,Montana State,Weber State,RUSHING,Jon,Ellis,TD,0
+7235016,10/19/2013,FCS,Montana State,Weber State,RUSHING,Jon,Ellis,LONG,3
+7235017,10/19/2013,FCS,Montana State,Weber State,RUSHING,,Team,ATT,1
+7235018,10/19/2013,FCS,Montana State,Weber State,RUSHING,,Team,YDS,0
+7235019,10/19/2013,FCS,Montana State,Weber State,RUSHING,,Team,TD,0
+7235020,10/19/2013,FCS,Montana State,Weber State,RUSHING,,Team,LONG,0
+7235021,10/19/2013,FCS,Montana State,Weber State,PASSING,DeNarius,McGhee,CP-ATT-INT,20-29-0
+7235022,10/19/2013,FCS,Montana State,Weber State,PASSING,DeNarius,McGhee,YDS,313
+7235023,10/19/2013,FCS,Montana State,Weber State,PASSING,DeNarius,McGhee,TD,3
+7235024,10/19/2013,FCS,Montana State,Weber State,PASSING,DeNarius,McGhee,LONG,45
+7235025,10/19/2013,FCS,Montana State,Weber State,RECEIVING,Jon,Ellis,REC,5
+7235026,10/19/2013,FCS,Montana State,Weber State,RECEIVING,Jon,Ellis,YDS,93
+7235027,10/19/2013,FCS,Montana State,Weber State,RECEIVING,Jon,Ellis,TD,2
+7235028,10/19/2013,FCS,Montana State,Weber State,RECEIVING,Jon,Ellis,LONG,35
+7235029,10/19/2013,FCS,Montana State,Weber State,RECEIVING,Brian,Flotkoetter,REC,4
+7235030,10/19/2013,FCS,Montana State,Weber State,RECEIVING,Brian,Flotkoetter,YDS,92
+7235031,10/19/2013,FCS,Montana State,Weber State,RECEIVING,Brian,Flotkoetter,TD,1
+7235032,10/19/2013,FCS,Montana State,Weber State,RECEIVING,Brian,Flotkoetter,LONG,45
+7235033,10/19/2013,FCS,Montana State,Weber State,RECEIVING,Tanner,Bleskin,REC,4
+7235034,10/19/2013,FCS,Montana State,Weber State,RECEIVING,Tanner,Bleskin,YDS,56
+7235035,10/19/2013,FCS,Montana State,Weber State,RECEIVING,Tanner,Bleskin,TD,0
+7235036,10/19/2013,FCS,Montana State,Weber State,RECEIVING,Tanner,Bleskin,LONG,31
+7235037,10/19/2013,FCS,Montana State,Weber State,RECEIVING,Cody,Kirk,REC,2
+7235038,10/19/2013,FCS,Montana State,Weber State,RECEIVING,Cody,Kirk,YDS,24
+7235039,10/19/2013,FCS,Montana State,Weber State,RECEIVING,Cody,Kirk,TD,0
+7235040,10/19/2013,FCS,Montana State,Weber State,RECEIVING,Cody,Kirk,LONG,12
+7235041,10/19/2013,FCS,Montana State,Weber State,RECEIVING,Shawn,Johnson,REC,2
+7235042,10/19/2013,FCS,Montana State,Weber State,RECEIVING,Shawn,Johnson,YDS,20
+7235043,10/19/2013,FCS,Montana State,Weber State,RECEIVING,Shawn,Johnson,TD,0
+7235044,10/19/2013,FCS,Montana State,Weber State,RECEIVING,Shawn,Johnson,LONG,12
+7235045,10/19/2013,FCS,Montana State,Weber State,RECEIVING,Tiai,Salanoa,REC,2
+7235046,10/19/2013,FCS,Montana State,Weber State,RECEIVING,Tiai,Salanoa,YDS,17
+7235047,10/19/2013,FCS,Montana State,Weber State,RECEIVING,Tiai,Salanoa,TD,0
+7235048,10/19/2013,FCS,Montana State,Weber State,RECEIVING,Tiai,Salanoa,LONG,13
+7235049,10/19/2013,FCS,Montana State,Weber State,RECEIVING,David,Dash,REC,1
+7235050,10/19/2013,FCS,Montana State,Weber State,RECEIVING,David,Dash,YDS,11
+7235051,10/19/2013,FCS,Montana State,Weber State,RECEIVING,David,Dash,TD,0
+7235052,10/19/2013,FCS,Montana State,Weber State,RECEIVING,David,Dash,LONG,11
+7235053,10/19/2013,FCS,Montana State,Weber State,KICKING,Rory,Perez,FG-FGA,0/0
+7235054,10/19/2013,FCS,Montana State,Weber State,KICKING,Rory,Perez,LONG,-
+7235055,10/19/2013,FCS,Montana State,Weber State,KICKING,Rory,Perez,XP,2
+7235056,10/19/2013,FCS,Montana State,Weber State,KICKING,Rory,Perez,PTS,2
+7235057,10/19/2013,FCS,Montana State,Weber State,PUNTING,Rory,Perez,NO,5
+7235058,10/19/2013,FCS,Montana State,Weber State,PUNTING,Rory,Perez,YDS,260
+7235059,10/19/2013,FCS,Montana State,Weber State,PUNTING,Rory,Perez,AVG,52.0
+7235060,10/19/2013,FCS,Montana State,Weber State,PUNTING,Rory,Perez,LONG,68
+7235061,10/19/2013,FCS,Montana State,Weber State,PUNTING,Trevor,Bolton,NO,2
+7235062,10/19/2013,FCS,Montana State,Weber State,PUNTING,Trevor,Bolton,YDS,80
+7235063,10/19/2013,FCS,Montana State,Weber State,PUNTING,Trevor,Bolton,AVG,40.0
+7235064,10/19/2013,FCS,Montana State,Weber State,PUNTING,Trevor,Bolton,LONG,41
+7235065,10/19/2013,FCS,Montana State,Weber State,PUNT RETURNS,Shawn,Johnson,NO,1
+7235066,10/19/2013,FCS,Montana State,Weber State,PUNT RETURNS,Shawn,Johnson,YDS,12
+7235067,10/19/2013,FCS,Montana State,Weber State,PUNT RETURNS,Shawn,Johnson,AVG,12.0
+7235068,10/19/2013,FCS,Montana State,Weber State,PUNT RETURNS,Shawn,Johnson,LONG,12
+7235069,10/19/2013,FCS,Montana State,Weber State,KICK RETURNS,Jon,Ellis,NO,1
+7235070,10/19/2013,FCS,Montana State,Weber State,KICK RETURNS,Jon,Ellis,YDS,26
+7235071,10/19/2013,FCS,Montana State,Weber State,KICK RETURNS,Jon,Ellis,AVG,26.0
+7235072,10/19/2013,FCS,Montana State,Weber State,KICK RETURNS,Jon,Ellis,LONG,26
+7235073,10/19/2013,FCS,Weber State,Montana State,RUSHING,Bo,Bolen,ATT,20
+7235074,10/19/2013,FCS,Weber State,Montana State,RUSHING,Bo,Bolen,YDS,124
+7235075,10/19/2013,FCS,Weber State,Montana State,RUSHING,Bo,Bolen,TD,1
+7235076,10/19/2013,FCS,Weber State,Montana State,RUSHING,Bo,Bolen,LONG,42
+7235077,10/19/2013,FCS,Weber State,Montana State,RUSHING,Josh,Booker,ATT,6
+7235078,10/19/2013,FCS,Weber State,Montana State,RUSHING,Josh,Booker,YDS,35
+7235079,10/19/2013,FCS,Weber State,Montana State,RUSHING,Josh,Booker,TD,0
+7235080,10/19/2013,FCS,Weber State,Montana State,RUSHING,Josh,Booker,LONG,11
+7235081,10/19/2013,FCS,Weber State,Montana State,RUSHING,Zach,Smith,ATT,6
+7235082,10/19/2013,FCS,Weber State,Montana State,RUSHING,Zach,Smith,YDS,21
+7235083,10/19/2013,FCS,Weber State,Montana State,RUSHING,Zach,Smith,TD,0
+7235084,10/19/2013,FCS,Weber State,Montana State,RUSHING,Zach,Smith,LONG,7
+7235085,10/19/2013,FCS,Weber State,Montana State,RUSHING,Austin,Chipoletti,ATT,8
+7235086,10/19/2013,FCS,Weber State,Montana State,RUSHING,Austin,Chipoletti,YDS,10
+7235087,10/19/2013,FCS,Weber State,Montana State,RUSHING,Austin,Chipoletti,TD,1
+7235088,10/19/2013,FCS,Weber State,Montana State,RUSHING,Austin,Chipoletti,LONG,12
+7235089,10/19/2013,FCS,Weber State,Montana State,RUSHING,Karl,Finai,ATT,1
+7235090,10/19/2013,FCS,Weber State,Montana State,RUSHING,Karl,Finai,YDS,-2
+7235091,10/19/2013,FCS,Weber State,Montana State,RUSHING,Karl,Finai,TD,0
+7235092,10/19/2013,FCS,Weber State,Montana State,RUSHING,Karl,Finai,LONG,0
+7235093,10/19/2013,FCS,Weber State,Montana State,PASSING,Austin,Chipoletti,CP-ATT-INT,26-38-1
+7235094,10/19/2013,FCS,Weber State,Montana State,PASSING,Austin,Chipoletti,YDS,309
+7235095,10/19/2013,FCS,Weber State,Montana State,PASSING,Austin,Chipoletti,TD,0
+7235096,10/19/2013,FCS,Weber State,Montana State,PASSING,Austin,Chipoletti,LONG,42
+7235097,10/19/2013,FCS,Weber State,Montana State,RECEIVING,Erik,Walker,REC,9
+7235098,10/19/2013,FCS,Weber State,Montana State,RECEIVING,Erik,Walker,YDS,106
+7235099,10/19/2013,FCS,Weber State,Montana State,RECEIVING,Erik,Walker,TD,0
+7235100,10/19/2013,FCS,Weber State,Montana State,RECEIVING,Erik,Walker,LONG,41
+7235101,10/19/2013,FCS,Weber State,Montana State,RECEIVING,Cameron,Livingston,REC,5
+7235102,10/19/2013,FCS,Weber State,Montana State,RECEIVING,Cameron,Livingston,YDS,81
+7235103,10/19/2013,FCS,Weber State,Montana State,RECEIVING,Cameron,Livingston,TD,0
+7235104,10/19/2013,FCS,Weber State,Montana State,RECEIVING,Cameron,Livingston,LONG,42
+7235105,10/19/2013,FCS,Weber State,Montana State,RECEIVING,Bo,Bolen,REC,3
+7235106,10/19/2013,FCS,Weber State,Montana State,RECEIVING,Bo,Bolen,YDS,22
+7235107,10/19/2013,FCS,Weber State,Montana State,RECEIVING,Bo,Bolen,TD,0
+7235108,10/19/2013,FCS,Weber State,Montana State,RECEIVING,Bo,Bolen,LONG,12
+7235109,10/19/2013,FCS,Weber State,Montana State,RECEIVING,Josh,Booker,REC,2
+7235110,10/19/2013,FCS,Weber State,Montana State,RECEIVING,Josh,Booker,YDS,33
+7235111,10/19/2013,FCS,Weber State,Montana State,RECEIVING,Josh,Booker,TD,0
+7235112,10/19/2013,FCS,Weber State,Montana State,RECEIVING,Josh,Booker,LONG,20
+7235113,10/19/2013,FCS,Weber State,Montana State,RECEIVING,Eddy,Hall,REC,2
+7235114,10/19/2013,FCS,Weber State,Montana State,RECEIVING,Eddy,Hall,YDS,25
+7235115,10/19/2013,FCS,Weber State,Montana State,RECEIVING,Eddy,Hall,TD,0
+7235116,10/19/2013,FCS,Weber State,Montana State,RECEIVING,Eddy,Hall,LONG,17
+7235117,10/19/2013,FCS,Weber State,Montana State,RECEIVING,Zach,Smith,REC,2
+7235118,10/19/2013,FCS,Weber State,Montana State,RECEIVING,Zach,Smith,YDS,12
+7235119,10/19/2013,FCS,Weber State,Montana State,RECEIVING,Zach,Smith,TD,0
+7235120,10/19/2013,FCS,Weber State,Montana State,RECEIVING,Zach,Smith,LONG,7
+7235121,10/19/2013,FCS,Weber State,Montana State,RECEIVING,Tyler,Parson,REC,1
+7235122,10/19/2013,FCS,Weber State,Montana State,RECEIVING,Tyler,Parson,YDS,13
+7235123,10/19/2013,FCS,Weber State,Montana State,RECEIVING,Tyler,Parson,TD,0
+7235124,10/19/2013,FCS,Weber State,Montana State,RECEIVING,Tyler,Parson,LONG,13
+7235125,10/19/2013,FCS,Weber State,Montana State,RECEIVING,Braden,Corpus,REC,1
+7235126,10/19/2013,FCS,Weber State,Montana State,RECEIVING,Braden,Corpus,YDS,12
+7235127,10/19/2013,FCS,Weber State,Montana State,RECEIVING,Braden,Corpus,TD,0
+7235128,10/19/2013,FCS,Weber State,Montana State,RECEIVING,Braden,Corpus,LONG,12
+7235129,10/19/2013,FCS,Weber State,Montana State,RECEIVING,Gamal,Fowler,REC,1
+7235130,10/19/2013,FCS,Weber State,Montana State,RECEIVING,Gamal,Fowler,YDS,5
+7235131,10/19/2013,FCS,Weber State,Montana State,RECEIVING,Gamal,Fowler,TD,0
+7235132,10/19/2013,FCS,Weber State,Montana State,RECEIVING,Gamal,Fowler,LONG,5
+7235133,10/19/2013,FCS,Weber State,Montana State,KICKING,Shaun,McClain,FG-FGA,1/1
+7235134,10/19/2013,FCS,Weber State,Montana State,KICKING,Shaun,McClain,LONG,50
+7235135,10/19/2013,FCS,Weber State,Montana State,KICKING,Shaun,McClain,XP,1
+7235136,10/19/2013,FCS,Weber State,Montana State,KICKING,Shaun,McClain,PTS,4
+7235137,10/19/2013,FCS,Weber State,Montana State,PUNTING,Tony,Epperson,NO,4
+7235138,10/19/2013,FCS,Weber State,Montana State,PUNTING,Tony,Epperson,YDS,169
+7235139,10/19/2013,FCS,Weber State,Montana State,PUNTING,Tony,Epperson,AVG,42.3
+7235140,10/19/2013,FCS,Weber State,Montana State,PUNTING,Tony,Epperson,LONG,53
+7235141,10/19/2013,FCS,Weber State,Montana State,PUNT RETURNS,Bo,Bolen,NO,1
+7235142,10/19/2013,FCS,Weber State,Montana State,PUNT RETURNS,Bo,Bolen,YDS,-2
+7235143,10/19/2013,FCS,Weber State,Montana State,PUNT RETURNS,Bo,Bolen,AVG,-2.0
+7235144,10/19/2013,FCS,Weber State,Montana State,PUNT RETURNS,Bo,Bolen,LONG,0
+7235145,10/19/2013,FCS,Weber State,Montana State,KICK RETURNS,A.J.,Coney,NO,4
+7235146,10/19/2013,FCS,Weber State,Montana State,KICK RETURNS,A.J.,Coney,YDS,130
+7235147,10/19/2013,FCS,Weber State,Montana State,KICK RETURNS,A.J.,Coney,AVG,32.5
+7235148,10/19/2013,FCS,Weber State,Montana State,KICK RETURNS,A.J.,Coney,LONG,44

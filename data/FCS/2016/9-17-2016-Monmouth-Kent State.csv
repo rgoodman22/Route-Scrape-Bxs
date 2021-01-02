@@ -1,0 +1,161 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9425001,9/17/2016,FCS,Monmouth,Kent State,RUSHING,Zach,Welch,ATT,13
+9425002,9/17/2016,FCS,Monmouth,Kent State,RUSHING,Zach,Welch,YDS,51
+9425003,9/17/2016,FCS,Monmouth,Kent State,RUSHING,Zach,Welch,TD,1
+9425004,9/17/2016,FCS,Monmouth,Kent State,RUSHING,Zach,Welch,LONG,17
+9425005,9/17/2016,FCS,Monmouth,Kent State,RUSHING,Ed,Royds,ATT,9
+9425006,9/17/2016,FCS,Monmouth,Kent State,RUSHING,Ed,Royds,YDS,26
+9425007,9/17/2016,FCS,Monmouth,Kent State,RUSHING,Ed,Royds,TD,0
+9425008,9/17/2016,FCS,Monmouth,Kent State,RUSHING,Ed,Royds,LONG,11
+9425009,9/17/2016,FCS,Monmouth,Kent State,RUSHING,Darren,Ambush,ATT,1
+9425010,9/17/2016,FCS,Monmouth,Kent State,RUSHING,Darren,Ambush,YDS,9
+9425011,9/17/2016,FCS,Monmouth,Kent State,RUSHING,Darren,Ambush,TD,0
+9425012,9/17/2016,FCS,Monmouth,Kent State,RUSHING,Darren,Ambush,LONG,9
+9425013,9/17/2016,FCS,Monmouth,Kent State,RUSHING,Peter,Righi,ATT,0
+9425014,9/17/2016,FCS,Monmouth,Kent State,RUSHING,Peter,Righi,YDS,0
+9425015,9/17/2016,FCS,Monmouth,Kent State,RUSHING,Peter,Righi,TD,0
+9425016,9/17/2016,FCS,Monmouth,Kent State,RUSHING,Peter,Righi,LONG,0
+9425017,9/17/2016,FCS,Monmouth,Kent State,RUSHING,Kenji,Bahar,ATT,6
+9425018,9/17/2016,FCS,Monmouth,Kent State,RUSHING,Kenji,Bahar,YDS,-5
+9425019,9/17/2016,FCS,Monmouth,Kent State,RUSHING,Kenji,Bahar,TD,0
+9425020,9/17/2016,FCS,Monmouth,Kent State,RUSHING,Kenji,Bahar,LONG,11
+9425021,9/17/2016,FCS,Monmouth,Kent State,RUSHING,Cody,Williams,ATT,2
+9425022,9/17/2016,FCS,Monmouth,Kent State,RUSHING,Cody,Williams,YDS,-14
+9425023,9/17/2016,FCS,Monmouth,Kent State,RUSHING,Cody,Williams,TD,0
+9425024,9/17/2016,FCS,Monmouth,Kent State,RUSHING,Cody,Williams,LONG,-5
+9425025,9/17/2016,FCS,Monmouth,Kent State,PASSING,Kenji,Bahar,CP-ATT-INT,12-20-1
+9425026,9/17/2016,FCS,Monmouth,Kent State,PASSING,Kenji,Bahar,YDS,73
+9425027,9/17/2016,FCS,Monmouth,Kent State,PASSING,Kenji,Bahar,TD,0
+9425028,9/17/2016,FCS,Monmouth,Kent State,PASSING,Kenji,Bahar,LONG,10
+9425029,9/17/2016,FCS,Monmouth,Kent State,PASSING,Cody,Williams,CP-ATT-INT,7-15-0
+9425030,9/17/2016,FCS,Monmouth,Kent State,PASSING,Cody,Williams,YDS,59
+9425031,9/17/2016,FCS,Monmouth,Kent State,PASSING,Cody,Williams,TD,0
+9425032,9/17/2016,FCS,Monmouth,Kent State,PASSING,Cody,Williams,LONG,23
+9425033,9/17/2016,FCS,Monmouth,Kent State,RECEIVING,Reggie,WhiteJr.,REC,7
+9425034,9/17/2016,FCS,Monmouth,Kent State,RECEIVING,Reggie,WhiteJr.,YDS,56
+9425035,9/17/2016,FCS,Monmouth,Kent State,RECEIVING,Reggie,WhiteJr.,TD,0
+9425036,9/17/2016,FCS,Monmouth,Kent State,RECEIVING,Reggie,WhiteJr.,LONG,13
+9425037,9/17/2016,FCS,Monmouth,Kent State,RECEIVING,Darren,Ambush,REC,5
+9425038,9/17/2016,FCS,Monmouth,Kent State,RECEIVING,Darren,Ambush,YDS,54
+9425039,9/17/2016,FCS,Monmouth,Kent State,RECEIVING,Darren,Ambush,TD,0
+9425040,9/17/2016,FCS,Monmouth,Kent State,RECEIVING,Darren,Ambush,LONG,23
+9425041,9/17/2016,FCS,Monmouth,Kent State,RECEIVING,Ed,Royds,REC,4
+9425042,9/17/2016,FCS,Monmouth,Kent State,RECEIVING,Ed,Royds,YDS,16
+9425043,9/17/2016,FCS,Monmouth,Kent State,RECEIVING,Ed,Royds,TD,0
+9425044,9/17/2016,FCS,Monmouth,Kent State,RECEIVING,Ed,Royds,LONG,6
+9425045,9/17/2016,FCS,Monmouth,Kent State,RECEIVING,Zach,Welch,REC,2
+9425046,9/17/2016,FCS,Monmouth,Kent State,RECEIVING,Zach,Welch,YDS,5
+9425047,9/17/2016,FCS,Monmouth,Kent State,RECEIVING,Zach,Welch,TD,0
+9425048,9/17/2016,FCS,Monmouth,Kent State,RECEIVING,Zach,Welch,LONG,4
+9425049,9/17/2016,FCS,Monmouth,Kent State,RECEIVING,Mike,Strange,REC,1
+9425050,9/17/2016,FCS,Monmouth,Kent State,RECEIVING,Mike,Strange,YDS,1
+9425051,9/17/2016,FCS,Monmouth,Kent State,RECEIVING,Mike,Strange,TD,0
+9425052,9/17/2016,FCS,Monmouth,Kent State,RECEIVING,Mike,Strange,LONG,1
+9425053,9/17/2016,FCS,Monmouth,Kent State,KICKING,Matt,White,FG-FGA,0/0
+9425054,9/17/2016,FCS,Monmouth,Kent State,KICKING,Matt,White,LONG,-
+9425055,9/17/2016,FCS,Monmouth,Kent State,KICKING,Matt,White,XP,1
+9425056,9/17/2016,FCS,Monmouth,Kent State,KICKING,Matt,White,PTS,1
+9425057,9/17/2016,FCS,Monmouth,Kent State,PUNTING,Matt,White,NO,6
+9425058,9/17/2016,FCS,Monmouth,Kent State,PUNTING,Matt,White,YDS,247
+9425059,9/17/2016,FCS,Monmouth,Kent State,PUNTING,Matt,White,AVG,41.2
+9425060,9/17/2016,FCS,Monmouth,Kent State,PUNTING,Matt,White,LONG,47
+9425061,9/17/2016,FCS,Monmouth,Kent State,PUNT RETURNS,Vinny,Grasso,NO,1
+9425062,9/17/2016,FCS,Monmouth,Kent State,PUNT RETURNS,Vinny,Grasso,YDS,1
+9425063,9/17/2016,FCS,Monmouth,Kent State,PUNT RETURNS,Vinny,Grasso,AVG,1.0
+9425064,9/17/2016,FCS,Monmouth,Kent State,PUNT RETURNS,Vinny,Grasso,LONG,1
+9425065,9/17/2016,FCS,Monmouth,Kent State,PUNT RETURNS,Matt,Castronuova,NO,0
+9425066,9/17/2016,FCS,Monmouth,Kent State,PUNT RETURNS,Matt,Castronuova,YDS,0
+9425067,9/17/2016,FCS,Monmouth,Kent State,PUNT RETURNS,Matt,Castronuova,AVG,-
+9425068,9/17/2016,FCS,Monmouth,Kent State,PUNT RETURNS,Matt,Castronuova,LONG,0
+9425069,9/17/2016,FCS,Monmouth,Kent State,KICK RETURNS,Kamau,Dumas,NO,3
+9425070,9/17/2016,FCS,Monmouth,Kent State,KICK RETURNS,Kamau,Dumas,YDS,73
+9425071,9/17/2016,FCS,Monmouth,Kent State,KICK RETURNS,Kamau,Dumas,AVG,24.3
+9425072,9/17/2016,FCS,Monmouth,Kent State,KICK RETURNS,Kamau,Dumas,LONG,31
+9425073,9/17/2016,FCS,Monmouth,Kent State,KICK RETURNS,Devin,Phelps,NO,2
+9425074,9/17/2016,FCS,Monmouth,Kent State,KICK RETURNS,Devin,Phelps,YDS,46
+9425075,9/17/2016,FCS,Monmouth,Kent State,KICK RETURNS,Devin,Phelps,AVG,23.0
+9425076,9/17/2016,FCS,Monmouth,Kent State,KICK RETURNS,Devin,Phelps,LONG,24
+9425077,9/17/2016,FCS,Kent State,Monmouth,RUSHING,Mylik,Mitchell,ATT,14
+9425078,9/17/2016,FCS,Kent State,Monmouth,RUSHING,Mylik,Mitchell,YDS,77
+9425079,9/17/2016,FCS,Kent State,Monmouth,RUSHING,Mylik,Mitchell,TD,0
+9425080,9/17/2016,FCS,Kent State,Monmouth,RUSHING,Mylik,Mitchell,LONG,26
+9425081,9/17/2016,FCS,Kent State,Monmouth,RUSHING,Justin,Rankin,ATT,12
+9425082,9/17/2016,FCS,Kent State,Monmouth,RUSHING,Justin,Rankin,YDS,59
+9425083,9/17/2016,FCS,Kent State,Monmouth,RUSHING,Justin,Rankin,TD,0
+9425084,9/17/2016,FCS,Kent State,Monmouth,RUSHING,Justin,Rankin,LONG,23
+9425085,9/17/2016,FCS,Kent State,Monmouth,RUSHING,Kavious,Price,ATT,2
+9425086,9/17/2016,FCS,Kent State,Monmouth,RUSHING,Kavious,Price,YDS,33
+9425087,9/17/2016,FCS,Kent State,Monmouth,RUSHING,Kavious,Price,TD,0
+9425088,9/17/2016,FCS,Kent State,Monmouth,RUSHING,Kavious,Price,LONG,21
+9425089,9/17/2016,FCS,Kent State,Monmouth,RUSHING,George,Bollas,ATT,3
+9425090,9/17/2016,FCS,Kent State,Monmouth,RUSHING,George,Bollas,YDS,18
+9425091,9/17/2016,FCS,Kent State,Monmouth,RUSHING,George,Bollas,TD,0
+9425092,9/17/2016,FCS,Kent State,Monmouth,RUSHING,George,Bollas,LONG,9
+9425093,9/17/2016,FCS,Kent State,Monmouth,RUSHING,Myles,Washington,ATT,4
+9425094,9/17/2016,FCS,Kent State,Monmouth,RUSHING,Myles,Washington,YDS,16
+9425095,9/17/2016,FCS,Kent State,Monmouth,RUSHING,Myles,Washington,TD,1
+9425096,9/17/2016,FCS,Kent State,Monmouth,RUSHING,Myles,Washington,LONG,7
+9425097,9/17/2016,FCS,Kent State,Monmouth,RUSHING,Nick,Holley,ATT,2
+9425098,9/17/2016,FCS,Kent State,Monmouth,RUSHING,Nick,Holley,YDS,15
+9425099,9/17/2016,FCS,Kent State,Monmouth,RUSHING,Nick,Holley,TD,0
+9425100,9/17/2016,FCS,Kent State,Monmouth,RUSHING,Nick,Holley,LONG,15
+9425101,9/17/2016,FCS,Kent State,Monmouth,RUSHING,Raekwon,James,ATT,2
+9425102,9/17/2016,FCS,Kent State,Monmouth,RUSHING,Raekwon,James,YDS,12
+9425103,9/17/2016,FCS,Kent State,Monmouth,RUSHING,Raekwon,James,TD,0
+9425104,9/17/2016,FCS,Kent State,Monmouth,RUSHING,Raekwon,James,LONG,6
+9425105,9/17/2016,FCS,Kent State,Monmouth,RUSHING,Will,Matthews,ATT,4
+9425106,9/17/2016,FCS,Kent State,Monmouth,RUSHING,Will,Matthews,YDS,5
+9425107,9/17/2016,FCS,Kent State,Monmouth,RUSHING,Will,Matthews,TD,0
+9425108,9/17/2016,FCS,Kent State,Monmouth,RUSHING,Will,Matthews,LONG,3
+9425109,9/17/2016,FCS,Kent State,Monmouth,RUSHING,Ernest,Calhoun,ATT,1
+9425110,9/17/2016,FCS,Kent State,Monmouth,RUSHING,Ernest,Calhoun,YDS,3
+9425111,9/17/2016,FCS,Kent State,Monmouth,RUSHING,Ernest,Calhoun,TD,0
+9425112,9/17/2016,FCS,Kent State,Monmouth,RUSHING,Ernest,Calhoun,LONG,3
+9425113,9/17/2016,FCS,Kent State,Monmouth,RUSHING,,Team,ATT,2
+9425114,9/17/2016,FCS,Kent State,Monmouth,RUSHING,,Team,YDS,-3
+9425115,9/17/2016,FCS,Kent State,Monmouth,RUSHING,,Team,TD,0
+9425116,9/17/2016,FCS,Kent State,Monmouth,RUSHING,,Team,LONG,-1
+9425117,9/17/2016,FCS,Kent State,Monmouth,PASSING,Mylik,Mitchell,CP-ATT-INT,14-18-0
+9425118,9/17/2016,FCS,Kent State,Monmouth,PASSING,Mylik,Mitchell,YDS,106
+9425119,9/17/2016,FCS,Kent State,Monmouth,PASSING,Mylik,Mitchell,TD,2
+9425120,9/17/2016,FCS,Kent State,Monmouth,PASSING,Mylik,Mitchell,LONG,28
+9425121,9/17/2016,FCS,Kent State,Monmouth,PASSING,George,Bollas,CP-ATT-INT,1-2-0
+9425122,9/17/2016,FCS,Kent State,Monmouth,PASSING,George,Bollas,YDS,2
+9425123,9/17/2016,FCS,Kent State,Monmouth,PASSING,George,Bollas,TD,0
+9425124,9/17/2016,FCS,Kent State,Monmouth,PASSING,George,Bollas,LONG,2
+9425125,9/17/2016,FCS,Kent State,Monmouth,RECEIVING,Nick,Holley,REC,7
+9425126,9/17/2016,FCS,Kent State,Monmouth,RECEIVING,Nick,Holley,YDS,65
+9425127,9/17/2016,FCS,Kent State,Monmouth,RECEIVING,Nick,Holley,TD,2
+9425128,9/17/2016,FCS,Kent State,Monmouth,RECEIVING,Nick,Holley,LONG,28
+9425129,9/17/2016,FCS,Kent State,Monmouth,RECEIVING,Raekwon,James,REC,3
+9425130,9/17/2016,FCS,Kent State,Monmouth,RECEIVING,Raekwon,James,YDS,23
+9425131,9/17/2016,FCS,Kent State,Monmouth,RECEIVING,Raekwon,James,TD,0
+9425132,9/17/2016,FCS,Kent State,Monmouth,RECEIVING,Raekwon,James,LONG,12
+9425133,9/17/2016,FCS,Kent State,Monmouth,RECEIVING,Justin,Rankin,REC,2
+9425134,9/17/2016,FCS,Kent State,Monmouth,RECEIVING,Justin,Rankin,YDS,12
+9425135,9/17/2016,FCS,Kent State,Monmouth,RECEIVING,Justin,Rankin,TD,0
+9425136,9/17/2016,FCS,Kent State,Monmouth,RECEIVING,Justin,Rankin,LONG,10
+9425137,9/17/2016,FCS,Kent State,Monmouth,RECEIVING,Brice,Fackler,REC,1
+9425138,9/17/2016,FCS,Kent State,Monmouth,RECEIVING,Brice,Fackler,YDS,4
+9425139,9/17/2016,FCS,Kent State,Monmouth,RECEIVING,Brice,Fackler,TD,0
+9425140,9/17/2016,FCS,Kent State,Monmouth,RECEIVING,Brice,Fackler,LONG,4
+9425141,9/17/2016,FCS,Kent State,Monmouth,RECEIVING,Mike,Carrigan,REC,1
+9425142,9/17/2016,FCS,Kent State,Monmouth,RECEIVING,Mike,Carrigan,YDS,2
+9425143,9/17/2016,FCS,Kent State,Monmouth,RECEIVING,Mike,Carrigan,TD,0
+9425144,9/17/2016,FCS,Kent State,Monmouth,RECEIVING,Mike,Carrigan,LONG,2
+9425145,9/17/2016,FCS,Kent State,Monmouth,RECEIVING,Myles,Washington,REC,1
+9425146,9/17/2016,FCS,Kent State,Monmouth,RECEIVING,Myles,Washington,YDS,2
+9425147,9/17/2016,FCS,Kent State,Monmouth,RECEIVING,Myles,Washington,TD,0
+9425148,9/17/2016,FCS,Kent State,Monmouth,RECEIVING,Myles,Washington,LONG,2
+9425149,9/17/2016,FCS,Kent State,Monmouth,KICKING,Shane,Hynes,FG-FGA,2/3
+9425150,9/17/2016,FCS,Kent State,Monmouth,KICKING,Shane,Hynes,LONG,38
+9425151,9/17/2016,FCS,Kent State,Monmouth,KICKING,Shane,Hynes,XP,3
+9425152,9/17/2016,FCS,Kent State,Monmouth,KICKING,Shane,Hynes,PTS,9
+9425153,9/17/2016,FCS,Kent State,Monmouth,PUNTING,Derek,Adams,NO,3
+9425154,9/17/2016,FCS,Kent State,Monmouth,PUNTING,Derek,Adams,YDS,112
+9425155,9/17/2016,FCS,Kent State,Monmouth,PUNTING,Derek,Adams,AVG,37.3
+9425156,9/17/2016,FCS,Kent State,Monmouth,PUNTING,Derek,Adams,LONG,50
+9425157,9/17/2016,FCS,Kent State,Monmouth,PUNT RETURNS,Nick,Holley,NO,4
+9425158,9/17/2016,FCS,Kent State,Monmouth,PUNT RETURNS,Nick,Holley,YDS,24
+9425159,9/17/2016,FCS,Kent State,Monmouth,PUNT RETURNS,Nick,Holley,AVG,6.0
+9425160,9/17/2016,FCS,Kent State,Monmouth,PUNT RETURNS,Nick,Holley,LONG,10

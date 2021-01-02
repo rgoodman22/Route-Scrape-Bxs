@@ -1,0 +1,177 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9480001,9/24/2016,FCS,Villanova,Lafayette,RUSHING,Aaron,Forbes,ATT,11
+9480002,9/24/2016,FCS,Villanova,Lafayette,RUSHING,Aaron,Forbes,YDS,111
+9480003,9/24/2016,FCS,Villanova,Lafayette,RUSHING,Aaron,Forbes,TD,1
+9480004,9/24/2016,FCS,Villanova,Lafayette,RUSHING,Aaron,Forbes,LONG,56
+9480005,9/24/2016,FCS,Villanova,Lafayette,RUSHING,Javon,White,ATT,18
+9480006,9/24/2016,FCS,Villanova,Lafayette,RUSHING,Javon,White,YDS,61
+9480007,9/24/2016,FCS,Villanova,Lafayette,RUSHING,Javon,White,TD,1
+9480008,9/24/2016,FCS,Villanova,Lafayette,RUSHING,Javon,White,LONG,9
+9480009,9/24/2016,FCS,Villanova,Lafayette,RUSHING,Jarrett,McClenton,ATT,5
+9480010,9/24/2016,FCS,Villanova,Lafayette,RUSHING,Jarrett,McClenton,YDS,24
+9480011,9/24/2016,FCS,Villanova,Lafayette,RUSHING,Jarrett,McClenton,TD,0
+9480012,9/24/2016,FCS,Villanova,Lafayette,RUSHING,Jarrett,McClenton,LONG,19
+9480013,9/24/2016,FCS,Villanova,Lafayette,RUSHING,Taurus,Phillips,ATT,2
+9480014,9/24/2016,FCS,Villanova,Lafayette,RUSHING,Taurus,Phillips,YDS,24
+9480015,9/24/2016,FCS,Villanova,Lafayette,RUSHING,Taurus,Phillips,TD,0
+9480016,9/24/2016,FCS,Villanova,Lafayette,RUSHING,Taurus,Phillips,LONG,18
+9480017,9/24/2016,FCS,Villanova,Lafayette,RUSHING,Zach,Bednarczyk,ATT,5
+9480018,9/24/2016,FCS,Villanova,Lafayette,RUSHING,Zach,Bednarczyk,YDS,22
+9480019,9/24/2016,FCS,Villanova,Lafayette,RUSHING,Zach,Bednarczyk,TD,0
+9480020,9/24/2016,FCS,Villanova,Lafayette,RUSHING,Zach,Bednarczyk,LONG,18
+9480021,9/24/2016,FCS,Villanova,Lafayette,RUSHING,,Team,ATT,1
+9480022,9/24/2016,FCS,Villanova,Lafayette,RUSHING,,Team,YDS,-4
+9480023,9/24/2016,FCS,Villanova,Lafayette,RUSHING,,Team,TD,0
+9480024,9/24/2016,FCS,Villanova,Lafayette,RUSHING,,Team,LONG,0
+9480025,9/24/2016,FCS,Villanova,Lafayette,PASSING,Zach,Bednarczyk,CP-ATT-INT,13-26-1
+9480026,9/24/2016,FCS,Villanova,Lafayette,PASSING,Zach,Bednarczyk,YDS,135
+9480027,9/24/2016,FCS,Villanova,Lafayette,PASSING,Zach,Bednarczyk,TD,0
+9480028,9/24/2016,FCS,Villanova,Lafayette,PASSING,Zach,Bednarczyk,LONG,23
+9480029,9/24/2016,FCS,Villanova,Lafayette,PASSING,John,Hinchen,CP-ATT-INT,1-1-0
+9480030,9/24/2016,FCS,Villanova,Lafayette,PASSING,John,Hinchen,YDS,5
+9480031,9/24/2016,FCS,Villanova,Lafayette,PASSING,John,Hinchen,TD,0
+9480032,9/24/2016,FCS,Villanova,Lafayette,PASSING,John,Hinchen,LONG,5
+9480033,9/24/2016,FCS,Villanova,Lafayette,RECEIVING,Taurus,Phillips,REC,5
+9480034,9/24/2016,FCS,Villanova,Lafayette,RECEIVING,Taurus,Phillips,YDS,59
+9480035,9/24/2016,FCS,Villanova,Lafayette,RECEIVING,Taurus,Phillips,TD,0
+9480036,9/24/2016,FCS,Villanova,Lafayette,RECEIVING,Taurus,Phillips,LONG,19
+9480037,9/24/2016,FCS,Villanova,Lafayette,RECEIVING,Alex,Padovani,REC,2
+9480038,9/24/2016,FCS,Villanova,Lafayette,RECEIVING,Alex,Padovani,YDS,31
+9480039,9/24/2016,FCS,Villanova,Lafayette,RECEIVING,Alex,Padovani,TD,0
+9480040,9/24/2016,FCS,Villanova,Lafayette,RECEIVING,Alex,Padovani,LONG,23
+9480041,9/24/2016,FCS,Villanova,Lafayette,RECEIVING,Jarrett,McClenton,REC,4
+9480042,9/24/2016,FCS,Villanova,Lafayette,RECEIVING,Jarrett,McClenton,YDS,25
+9480043,9/24/2016,FCS,Villanova,Lafayette,RECEIVING,Jarrett,McClenton,TD,0
+9480044,9/24/2016,FCS,Villanova,Lafayette,RECEIVING,Jarrett,McClenton,LONG,12
+9480045,9/24/2016,FCS,Villanova,Lafayette,RECEIVING,Aaron,Forbes,REC,2
+9480046,9/24/2016,FCS,Villanova,Lafayette,RECEIVING,Aaron,Forbes,YDS,20
+9480047,9/24/2016,FCS,Villanova,Lafayette,RECEIVING,Aaron,Forbes,TD,0
+9480048,9/24/2016,FCS,Villanova,Lafayette,RECEIVING,Aaron,Forbes,LONG,21
+9480049,9/24/2016,FCS,Villanova,Lafayette,RECEIVING,Simon,Bingelis,REC,1
+9480050,9/24/2016,FCS,Villanova,Lafayette,RECEIVING,Simon,Bingelis,YDS,5
+9480051,9/24/2016,FCS,Villanova,Lafayette,RECEIVING,Simon,Bingelis,TD,0
+9480052,9/24/2016,FCS,Villanova,Lafayette,RECEIVING,Simon,Bingelis,LONG,5
+9480053,9/24/2016,FCS,Villanova,Lafayette,KICKING,Gerard,Smith,FG-FGA,1/1
+9480054,9/24/2016,FCS,Villanova,Lafayette,KICKING,Gerard,Smith,LONG,37
+9480055,9/24/2016,FCS,Villanova,Lafayette,KICKING,Gerard,Smith,XP,4
+9480056,9/24/2016,FCS,Villanova,Lafayette,KICKING,Gerard,Smith,PTS,7
+9480057,9/24/2016,FCS,Villanova,Lafayette,PUNTING,John,Hinchen,NO,7
+9480058,9/24/2016,FCS,Villanova,Lafayette,PUNTING,John,Hinchen,YDS,257
+9480059,9/24/2016,FCS,Villanova,Lafayette,PUNTING,John,Hinchen,AVG,36.7
+9480060,9/24/2016,FCS,Villanova,Lafayette,PUNTING,John,Hinchen,LONG,51
+9480061,9/24/2016,FCS,Villanova,Lafayette,PUNT RETURNS,Julian,Williams,NO,1
+9480062,9/24/2016,FCS,Villanova,Lafayette,PUNT RETURNS,Julian,Williams,YDS,8
+9480063,9/24/2016,FCS,Villanova,Lafayette,PUNT RETURNS,Julian,Williams,AVG,8.0
+9480064,9/24/2016,FCS,Villanova,Lafayette,PUNT RETURNS,Julian,Williams,LONG,0
+9480065,9/24/2016,FCS,Villanova,Lafayette,PUNT RETURNS,Jarrett,McClenton,NO,3
+9480066,9/24/2016,FCS,Villanova,Lafayette,PUNT RETURNS,Jarrett,McClenton,YDS,2
+9480067,9/24/2016,FCS,Villanova,Lafayette,PUNT RETURNS,Jarrett,McClenton,AVG,0.7
+9480068,9/24/2016,FCS,Villanova,Lafayette,PUNT RETURNS,Jarrett,McClenton,LONG,6
+9480069,9/24/2016,FCS,Villanova,Lafayette,KICK RETURNS,Jarrett,McClenton,NO,1
+9480070,9/24/2016,FCS,Villanova,Lafayette,KICK RETURNS,Jarrett,McClenton,YDS,24
+9480071,9/24/2016,FCS,Villanova,Lafayette,KICK RETURNS,Jarrett,McClenton,AVG,24.0
+9480072,9/24/2016,FCS,Villanova,Lafayette,KICK RETURNS,Jarrett,McClenton,LONG,24
+9480073,9/24/2016,FCS,Lafayette,Villanova,RUSHING,DeSean,Brown,ATT,18
+9480074,9/24/2016,FCS,Lafayette,Villanova,RUSHING,DeSean,Brown,YDS,63
+9480075,9/24/2016,FCS,Lafayette,Villanova,RUSHING,DeSean,Brown,TD,0
+9480076,9/24/2016,FCS,Lafayette,Villanova,RUSHING,DeSean,Brown,LONG,24
+9480077,9/24/2016,FCS,Lafayette,Villanova,RUSHING,Tyler,West,ATT,3
+9480078,9/24/2016,FCS,Lafayette,Villanova,RUSHING,Tyler,West,YDS,18
+9480079,9/24/2016,FCS,Lafayette,Villanova,RUSHING,Tyler,West,TD,0
+9480080,9/24/2016,FCS,Lafayette,Villanova,RUSHING,Tyler,West,LONG,9
+9480081,9/24/2016,FCS,Lafayette,Villanova,RUSHING,Kyle,Mayfield,ATT,2
+9480082,9/24/2016,FCS,Lafayette,Villanova,RUSHING,Kyle,Mayfield,YDS,2
+9480083,9/24/2016,FCS,Lafayette,Villanova,RUSHING,Kyle,Mayfield,TD,0
+9480084,9/24/2016,FCS,Lafayette,Villanova,RUSHING,Kyle,Mayfield,LONG,1
+9480085,9/24/2016,FCS,Lafayette,Villanova,RUSHING,Joey,Chenoweth,ATT,1
+9480086,9/24/2016,FCS,Lafayette,Villanova,RUSHING,Joey,Chenoweth,YDS,0
+9480087,9/24/2016,FCS,Lafayette,Villanova,RUSHING,Joey,Chenoweth,TD,0
+9480088,9/24/2016,FCS,Lafayette,Villanova,RUSHING,Joey,Chenoweth,LONG,0
+9480089,9/24/2016,FCS,Lafayette,Villanova,RUSHING,,Team,ATT,1
+9480090,9/24/2016,FCS,Lafayette,Villanova,RUSHING,,Team,YDS,-1
+9480091,9/24/2016,FCS,Lafayette,Villanova,RUSHING,,Team,TD,0
+9480092,9/24/2016,FCS,Lafayette,Villanova,RUSHING,,Team,LONG,0
+9480093,9/24/2016,FCS,Lafayette,Villanova,RUSHING,C.J.,Amill,ATT,3
+9480094,9/24/2016,FCS,Lafayette,Villanova,RUSHING,C.J.,Amill,YDS,-2
+9480095,9/24/2016,FCS,Lafayette,Villanova,RUSHING,C.J.,Amill,TD,0
+9480096,9/24/2016,FCS,Lafayette,Villanova,RUSHING,C.J.,Amill,LONG,3
+9480097,9/24/2016,FCS,Lafayette,Villanova,RUSHING,Drew,Reed,ATT,10
+9480098,9/24/2016,FCS,Lafayette,Villanova,RUSHING,Drew,Reed,YDS,-10
+9480099,9/24/2016,FCS,Lafayette,Villanova,RUSHING,Drew,Reed,TD,0
+9480100,9/24/2016,FCS,Lafayette,Villanova,RUSHING,Drew,Reed,LONG,9
+9480101,9/24/2016,FCS,Lafayette,Villanova,PASSING,Drew,Reed,CP-ATT-INT,19-27-2
+9480102,9/24/2016,FCS,Lafayette,Villanova,PASSING,Drew,Reed,YDS,229
+9480103,9/24/2016,FCS,Lafayette,Villanova,PASSING,Drew,Reed,TD,2
+9480104,9/24/2016,FCS,Lafayette,Villanova,PASSING,Drew,Reed,LONG,30
+9480105,9/24/2016,FCS,Lafayette,Villanova,PASSING,Blake,Searfoss,CP-ATT-INT,6-11-1
+9480106,9/24/2016,FCS,Lafayette,Villanova,PASSING,Blake,Searfoss,YDS,43
+9480107,9/24/2016,FCS,Lafayette,Villanova,PASSING,Blake,Searfoss,TD,0
+9480108,9/24/2016,FCS,Lafayette,Villanova,PASSING,Blake,Searfoss,LONG,11
+9480109,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,Dylan,Wadsworth,REC,6
+9480110,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,Dylan,Wadsworth,YDS,97
+9480111,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,Dylan,Wadsworth,TD,0
+9480112,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,Dylan,Wadsworth,LONG,30
+9480113,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,Tim,Vangelas,REC,2
+9480114,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,Tim,Vangelas,YDS,29
+9480115,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,Tim,Vangelas,TD,1
+9480116,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,Tim,Vangelas,LONG,19
+9480117,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,DeSean,Brown,REC,3
+9480118,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,DeSean,Brown,YDS,27
+9480119,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,DeSean,Brown,TD,0
+9480120,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,DeSean,Brown,LONG,17
+9480121,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,Matt,Mrazek,REC,3
+9480122,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,Matt,Mrazek,YDS,24
+9480123,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,Matt,Mrazek,TD,0
+9480124,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,Matt,Mrazek,LONG,14
+9480125,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,Yasir,Thomas,REC,2
+9480126,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,Yasir,Thomas,YDS,24
+9480127,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,Yasir,Thomas,TD,1
+9480128,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,Yasir,Thomas,LONG,14
+9480129,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,Nick,Franzese,REC,2
+9480130,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,Nick,Franzese,YDS,19
+9480131,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,Nick,Franzese,TD,0
+9480132,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,Nick,Franzese,LONG,18
+9480133,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,Angus,Evans,REC,2
+9480134,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,Angus,Evans,YDS,17
+9480135,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,Angus,Evans,TD,0
+9480136,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,Angus,Evans,LONG,9
+9480137,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,C.J.,Amill,REC,2
+9480138,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,C.J.,Amill,YDS,11
+9480139,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,C.J.,Amill,TD,0
+9480140,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,C.J.,Amill,LONG,9
+9480141,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,Joey,Chenoweth,REC,1
+9480142,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,Joey,Chenoweth,YDS,10
+9480143,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,Joey,Chenoweth,TD,0
+9480144,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,Joey,Chenoweth,LONG,10
+9480145,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,Rocco,Palumbo,REC,1
+9480146,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,Rocco,Palumbo,YDS,8
+9480147,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,Rocco,Palumbo,TD,0
+9480148,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,Rocco,Palumbo,LONG,8
+9480149,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,Tyler,West,REC,1
+9480150,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,Tyler,West,YDS,6
+9480151,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,Tyler,West,TD,0
+9480152,9/24/2016,FCS,Lafayette,Villanova,RECEIVING,Tyler,West,LONG,6
+9480153,9/24/2016,FCS,Lafayette,Villanova,KICKING,Jacob,Bissell,FG-FGA,0/0
+9480154,9/24/2016,FCS,Lafayette,Villanova,KICKING,Jacob,Bissell,LONG,-
+9480155,9/24/2016,FCS,Lafayette,Villanova,KICKING,Jacob,Bissell,XP,2
+9480156,9/24/2016,FCS,Lafayette,Villanova,KICKING,Jacob,Bissell,PTS,2
+9480157,9/24/2016,FCS,Lafayette,Villanova,PUNTING,Ryan,Forrester,NO,7
+9480158,9/24/2016,FCS,Lafayette,Villanova,PUNTING,Ryan,Forrester,YDS,274
+9480159,9/24/2016,FCS,Lafayette,Villanova,PUNTING,Ryan,Forrester,AVG,39.1
+9480160,9/24/2016,FCS,Lafayette,Villanova,PUNTING,Ryan,Forrester,LONG,50
+9480161,9/24/2016,FCS,Lafayette,Villanova,PUNTING,,Team,NO,1
+9480162,9/24/2016,FCS,Lafayette,Villanova,PUNTING,,Team,YDS,0
+9480163,9/24/2016,FCS,Lafayette,Villanova,PUNTING,,Team,AVG,-
+9480164,9/24/2016,FCS,Lafayette,Villanova,PUNTING,,Team,LONG,0
+9480165,9/24/2016,FCS,Lafayette,Villanova,PUNT RETURNS,Tim,Vangelas,NO,2
+9480166,9/24/2016,FCS,Lafayette,Villanova,PUNT RETURNS,Tim,Vangelas,YDS,9
+9480167,9/24/2016,FCS,Lafayette,Villanova,PUNT RETURNS,Tim,Vangelas,AVG,4.5
+9480168,9/24/2016,FCS,Lafayette,Villanova,PUNT RETURNS,Tim,Vangelas,LONG,8
+9480169,9/24/2016,FCS,Lafayette,Villanova,KICK RETURNS,Yasir,Thomas,NO,5
+9480170,9/24/2016,FCS,Lafayette,Villanova,KICK RETURNS,Yasir,Thomas,YDS,94
+9480171,9/24/2016,FCS,Lafayette,Villanova,KICK RETURNS,Yasir,Thomas,AVG,18.8
+9480172,9/24/2016,FCS,Lafayette,Villanova,KICK RETURNS,Yasir,Thomas,LONG,24
+9480173,9/24/2016,FCS,Lafayette,Villanova,KICK RETURNS,Ryan,Barnett,NO,1
+9480174,9/24/2016,FCS,Lafayette,Villanova,KICK RETURNS,Ryan,Barnett,YDS,9
+9480175,9/24/2016,FCS,Lafayette,Villanova,KICK RETURNS,Ryan,Barnett,AVG,9.0
+9480176,9/24/2016,FCS,Lafayette,Villanova,KICK RETURNS,Ryan,Barnett,LONG,9

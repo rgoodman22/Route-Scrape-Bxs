@@ -1,0 +1,141 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+7986001,10/4/2014,FCS,Dayton,Davidson,RUSHING,Connor,Kacsor,ATT,47
+7986002,10/4/2014,FCS,Dayton,Davidson,RUSHING,Connor,Kacsor,YDS,213
+7986003,10/4/2014,FCS,Dayton,Davidson,RUSHING,Connor,Kacsor,TD,4
+7986004,10/4/2014,FCS,Dayton,Davidson,RUSHING,Connor,Kacsor,LONG,16
+7986005,10/4/2014,FCS,Dayton,Davidson,RUSHING,Jack,Adams,ATT,7
+7986006,10/4/2014,FCS,Dayton,Davidson,RUSHING,Jack,Adams,YDS,19
+7986007,10/4/2014,FCS,Dayton,Davidson,RUSHING,Jack,Adams,TD,0
+7986008,10/4/2014,FCS,Dayton,Davidson,RUSHING,Jack,Adams,LONG,9
+7986009,10/4/2014,FCS,Dayton,Davidson,RUSHING,,Team,ATT,1
+7986010,10/4/2014,FCS,Dayton,Davidson,RUSHING,,Team,YDS,-2
+7986011,10/4/2014,FCS,Dayton,Davidson,RUSHING,,Team,TD,0
+7986012,10/4/2014,FCS,Dayton,Davidson,RUSHING,,Team,LONG,0
+7986013,10/4/2014,FCS,Dayton,Davidson,RUSHING,Will,Bardo,ATT,3
+7986014,10/4/2014,FCS,Dayton,Davidson,RUSHING,Will,Bardo,YDS,-3
+7986015,10/4/2014,FCS,Dayton,Davidson,RUSHING,Will,Bardo,TD,0
+7986016,10/4/2014,FCS,Dayton,Davidson,RUSHING,Will,Bardo,LONG,1
+7986017,10/4/2014,FCS,Dayton,Davidson,PASSING,Will,Bardo,CP-ATT-INT,26-42-2
+7986018,10/4/2014,FCS,Dayton,Davidson,PASSING,Will,Bardo,YDS,298
+7986019,10/4/2014,FCS,Dayton,Davidson,PASSING,Will,Bardo,TD,3
+7986020,10/4/2014,FCS,Dayton,Davidson,PASSING,Will,Bardo,LONG,27
+7986021,10/4/2014,FCS,Dayton,Davidson,RECEIVING,Ross,Smith,REC,8
+7986022,10/4/2014,FCS,Dayton,Davidson,RECEIVING,Ross,Smith,YDS,114
+7986023,10/4/2014,FCS,Dayton,Davidson,RECEIVING,Ross,Smith,TD,1
+7986024,10/4/2014,FCS,Dayton,Davidson,RECEIVING,Ross,Smith,LONG,23
+7986025,10/4/2014,FCS,Dayton,Davidson,RECEIVING,Gabe,Macis,REC,6
+7986026,10/4/2014,FCS,Dayton,Davidson,RECEIVING,Gabe,Macis,YDS,91
+7986027,10/4/2014,FCS,Dayton,Davidson,RECEIVING,Gabe,Macis,TD,2
+7986028,10/4/2014,FCS,Dayton,Davidson,RECEIVING,Gabe,Macis,LONG,27
+7986029,10/4/2014,FCS,Dayton,Davidson,RECEIVING,Tyler,Tumpane,REC,3
+7986030,10/4/2014,FCS,Dayton,Davidson,RECEIVING,Tyler,Tumpane,YDS,40
+7986031,10/4/2014,FCS,Dayton,Davidson,RECEIVING,Tyler,Tumpane,TD,0
+7986032,10/4/2014,FCS,Dayton,Davidson,RECEIVING,Tyler,Tumpane,LONG,19
+7986033,10/4/2014,FCS,Dayton,Davidson,RECEIVING,Cory,Stuart,REC,3
+7986034,10/4/2014,FCS,Dayton,Davidson,RECEIVING,Cory,Stuart,YDS,30
+7986035,10/4/2014,FCS,Dayton,Davidson,RECEIVING,Cory,Stuart,TD,0
+7986036,10/4/2014,FCS,Dayton,Davidson,RECEIVING,Cory,Stuart,LONG,15
+7986037,10/4/2014,FCS,Dayton,Davidson,RECEIVING,Connor,Kacsor,REC,6
+7986038,10/4/2014,FCS,Dayton,Davidson,RECEIVING,Connor,Kacsor,YDS,23
+7986039,10/4/2014,FCS,Dayton,Davidson,RECEIVING,Connor,Kacsor,TD,0
+7986040,10/4/2014,FCS,Dayton,Davidson,RECEIVING,Connor,Kacsor,LONG,6
+7986041,10/4/2014,FCS,Dayton,Davidson,KICKING,William,Will,FG-FGA,2/3
+7986042,10/4/2014,FCS,Dayton,Davidson,KICKING,William,Will,LONG,39
+7986043,10/4/2014,FCS,Dayton,Davidson,KICKING,William,Will,XP,4
+7986044,10/4/2014,FCS,Dayton,Davidson,KICKING,William,Will,PTS,10
+7986045,10/4/2014,FCS,Dayton,Davidson,PUNTING,Kyle,Pignatiello,NO,3
+7986046,10/4/2014,FCS,Dayton,Davidson,PUNTING,Kyle,Pignatiello,YDS,122
+7986047,10/4/2014,FCS,Dayton,Davidson,PUNTING,Kyle,Pignatiello,AVG,40.7
+7986048,10/4/2014,FCS,Dayton,Davidson,PUNTING,Kyle,Pignatiello,LONG,42
+7986049,10/4/2014,FCS,Dayton,Davidson,PUNT RETURNS,Gabe,Macis,NO,2
+7986050,10/4/2014,FCS,Dayton,Davidson,PUNT RETURNS,Gabe,Macis,YDS,6
+7986051,10/4/2014,FCS,Dayton,Davidson,PUNT RETURNS,Gabe,Macis,AVG,3.0
+7986052,10/4/2014,FCS,Dayton,Davidson,PUNT RETURNS,Gabe,Macis,LONG,6
+7986053,10/4/2014,FCS,Dayton,Davidson,KICK RETURNS,Cameron,Stubbs,NO,2
+7986054,10/4/2014,FCS,Dayton,Davidson,KICK RETURNS,Cameron,Stubbs,YDS,55
+7986055,10/4/2014,FCS,Dayton,Davidson,KICK RETURNS,Cameron,Stubbs,AVG,27.5
+7986056,10/4/2014,FCS,Dayton,Davidson,KICK RETURNS,Cameron,Stubbs,LONG,37
+7986057,10/4/2014,FCS,Dayton,Davidson,KICK RETURNS,Ross,Smith,NO,1
+7986058,10/4/2014,FCS,Dayton,Davidson,KICK RETURNS,Ross,Smith,YDS,5
+7986059,10/4/2014,FCS,Dayton,Davidson,KICK RETURNS,Ross,Smith,AVG,5.0
+7986060,10/4/2014,FCS,Dayton,Davidson,KICK RETURNS,Ross,Smith,LONG,5
+7986061,10/4/2014,FCS,Dayton,Davidson,KICK RETURNS,Mike,Laudizio,NO,1
+7986062,10/4/2014,FCS,Dayton,Davidson,KICK RETURNS,Mike,Laudizio,YDS,0
+7986063,10/4/2014,FCS,Dayton,Davidson,KICK RETURNS,Mike,Laudizio,AVG,-
+7986064,10/4/2014,FCS,Dayton,Davidson,KICK RETURNS,Mike,Laudizio,LONG,0
+7986065,10/4/2014,FCS,Dayton,Davidson,KICK RETURNS,Andy,Powers,NO,1
+7986066,10/4/2014,FCS,Dayton,Davidson,KICK RETURNS,Andy,Powers,YDS,0
+7986067,10/4/2014,FCS,Dayton,Davidson,KICK RETURNS,Andy,Powers,AVG,-
+7986068,10/4/2014,FCS,Dayton,Davidson,KICK RETURNS,Andy,Powers,LONG,0
+7986069,10/4/2014,FCS,Davidson,Dayton,RUSHING,J.P.,Douglas,ATT,17
+7986070,10/4/2014,FCS,Davidson,Dayton,RUSHING,J.P.,Douglas,YDS,62
+7986071,10/4/2014,FCS,Davidson,Dayton,RUSHING,J.P.,Douglas,TD,1
+7986072,10/4/2014,FCS,Davidson,Dayton,RUSHING,J.P.,Douglas,LONG,19
+7986073,10/4/2014,FCS,Davidson,Dayton,RUSHING,David,Rogers,ATT,3
+7986074,10/4/2014,FCS,Davidson,Dayton,RUSHING,David,Rogers,YDS,35
+7986075,10/4/2014,FCS,Davidson,Dayton,RUSHING,David,Rogers,TD,0
+7986076,10/4/2014,FCS,Davidson,Dayton,RUSHING,David,Rogers,LONG,23
+7986077,10/4/2014,FCS,Davidson,Dayton,RUSHING,Cam,Cheuvront,ATT,3
+7986078,10/4/2014,FCS,Davidson,Dayton,RUSHING,Cam,Cheuvront,YDS,16
+7986079,10/4/2014,FCS,Davidson,Dayton,RUSHING,Cam,Cheuvront,TD,0
+7986080,10/4/2014,FCS,Davidson,Dayton,RUSHING,Cam,Cheuvront,LONG,8
+7986081,10/4/2014,FCS,Davidson,Dayton,RUSHING,Austin,Wells,ATT,9
+7986082,10/4/2014,FCS,Davidson,Dayton,RUSHING,Austin,Wells,YDS,14
+7986083,10/4/2014,FCS,Davidson,Dayton,RUSHING,Austin,Wells,TD,0
+7986084,10/4/2014,FCS,Davidson,Dayton,RUSHING,Austin,Wells,LONG,12
+7986085,10/4/2014,FCS,Davidson,Dayton,RUSHING,Jeffrey,Keil,ATT,5
+7986086,10/4/2014,FCS,Davidson,Dayton,RUSHING,Jeffrey,Keil,YDS,8
+7986087,10/4/2014,FCS,Davidson,Dayton,RUSHING,Jeffrey,Keil,TD,1
+7986088,10/4/2014,FCS,Davidson,Dayton,RUSHING,Jeffrey,Keil,LONG,6
+7986089,10/4/2014,FCS,Davidson,Dayton,PASSING,J.P.,Douglas,CP-ATT-INT,38-58-1
+7986090,10/4/2014,FCS,Davidson,Dayton,PASSING,J.P.,Douglas,YDS,313
+7986091,10/4/2014,FCS,Davidson,Dayton,PASSING,J.P.,Douglas,TD,4
+7986092,10/4/2014,FCS,Davidson,Dayton,PASSING,J.P.,Douglas,LONG,41
+7986093,10/4/2014,FCS,Davidson,Dayton,RECEIVING,William,Morris,REC,15
+7986094,10/4/2014,FCS,Davidson,Dayton,RECEIVING,William,Morris,YDS,158
+7986095,10/4/2014,FCS,Davidson,Dayton,RECEIVING,William,Morris,TD,3
+7986096,10/4/2014,FCS,Davidson,Dayton,RECEIVING,William,Morris,LONG,23
+7986097,10/4/2014,FCS,Davidson,Dayton,RECEIVING,Cam,Cheuvront,REC,4
+7986098,10/4/2014,FCS,Davidson,Dayton,RECEIVING,Cam,Cheuvront,YDS,61
+7986099,10/4/2014,FCS,Davidson,Dayton,RECEIVING,Cam,Cheuvront,TD,1
+7986100,10/4/2014,FCS,Davidson,Dayton,RECEIVING,Cam,Cheuvront,LONG,41
+7986101,10/4/2014,FCS,Davidson,Dayton,RECEIVING,Tyler,Hickey,REC,10
+7986102,10/4/2014,FCS,Davidson,Dayton,RECEIVING,Tyler,Hickey,YDS,53
+7986103,10/4/2014,FCS,Davidson,Dayton,RECEIVING,Tyler,Hickey,TD,0
+7986104,10/4/2014,FCS,Davidson,Dayton,RECEIVING,Tyler,Hickey,LONG,15
+7986105,10/4/2014,FCS,Davidson,Dayton,RECEIVING,Trey,Huelskamp,REC,4
+7986106,10/4/2014,FCS,Davidson,Dayton,RECEIVING,Trey,Huelskamp,YDS,20
+7986107,10/4/2014,FCS,Davidson,Dayton,RECEIVING,Trey,Huelskamp,TD,0
+7986108,10/4/2014,FCS,Davidson,Dayton,RECEIVING,Trey,Huelskamp,LONG,9
+7986109,10/4/2014,FCS,Davidson,Dayton,RECEIVING,Jeffrey,Keil,REC,3
+7986110,10/4/2014,FCS,Davidson,Dayton,RECEIVING,Jeffrey,Keil,YDS,10
+7986111,10/4/2014,FCS,Davidson,Dayton,RECEIVING,Jeffrey,Keil,TD,0
+7986112,10/4/2014,FCS,Davidson,Dayton,RECEIVING,Jeffrey,Keil,LONG,6
+7986113,10/4/2014,FCS,Davidson,Dayton,RECEIVING,Se'Vaughn,Carter,REC,1
+7986114,10/4/2014,FCS,Davidson,Dayton,RECEIVING,Se'Vaughn,Carter,YDS,6
+7986115,10/4/2014,FCS,Davidson,Dayton,RECEIVING,Se'Vaughn,Carter,TD,0
+7986116,10/4/2014,FCS,Davidson,Dayton,RECEIVING,Se'Vaughn,Carter,LONG,6
+7986117,10/4/2014,FCS,Davidson,Dayton,RECEIVING,Nick,Wheeler,REC,1
+7986118,10/4/2014,FCS,Davidson,Dayton,RECEIVING,Nick,Wheeler,YDS,5
+7986119,10/4/2014,FCS,Davidson,Dayton,RECEIVING,Nick,Wheeler,TD,0
+7986120,10/4/2014,FCS,Davidson,Dayton,RECEIVING,Nick,Wheeler,LONG,5
+7986121,10/4/2014,FCS,Davidson,Dayton,KICKING,Trevor,Smith,FG-FGA,2/3
+7986122,10/4/2014,FCS,Davidson,Dayton,KICKING,Trevor,Smith,LONG,44
+7986123,10/4/2014,FCS,Davidson,Dayton,KICKING,Trevor,Smith,XP,4
+7986124,10/4/2014,FCS,Davidson,Dayton,KICKING,Trevor,Smith,PTS,10
+7986125,10/4/2014,FCS,Davidson,Dayton,PUNTING,John,Cook,NO,6
+7986126,10/4/2014,FCS,Davidson,Dayton,PUNTING,John,Cook,YDS,207
+7986127,10/4/2014,FCS,Davidson,Dayton,PUNTING,John,Cook,AVG,34.5
+7986128,10/4/2014,FCS,Davidson,Dayton,PUNTING,John,Cook,LONG,47
+7986129,10/4/2014,FCS,Davidson,Dayton,PUNT RETURNS,William,Morris,NO,1
+7986130,10/4/2014,FCS,Davidson,Dayton,PUNT RETURNS,William,Morris,YDS,7
+7986131,10/4/2014,FCS,Davidson,Dayton,PUNT RETURNS,William,Morris,AVG,7.0
+7986132,10/4/2014,FCS,Davidson,Dayton,PUNT RETURNS,William,Morris,LONG,7
+7986133,10/4/2014,FCS,Davidson,Dayton,KICK RETURNS,Austin,Wells,NO,3
+7986134,10/4/2014,FCS,Davidson,Dayton,KICK RETURNS,Austin,Wells,YDS,58
+7986135,10/4/2014,FCS,Davidson,Dayton,KICK RETURNS,Austin,Wells,AVG,19.3
+7986136,10/4/2014,FCS,Davidson,Dayton,KICK RETURNS,Austin,Wells,LONG,22
+7986137,10/4/2014,FCS,Davidson,Dayton,KICK RETURNS,Ben,Rowell,NO,2
+7986138,10/4/2014,FCS,Davidson,Dayton,KICK RETURNS,Ben,Rowell,YDS,31
+7986139,10/4/2014,FCS,Davidson,Dayton,KICK RETURNS,Ben,Rowell,AVG,15.5
+7986140,10/4/2014,FCS,Davidson,Dayton,KICK RETURNS,Ben,Rowell,LONG,20

@@ -1,0 +1,181 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9564001,10/8/2016,FCS,Princeton,Georgetown,RUSHING,Charles,Volker,ATT,23
+9564002,10/8/2016,FCS,Princeton,Georgetown,RUSHING,Charles,Volker,YDS,88
+9564003,10/8/2016,FCS,Princeton,Georgetown,RUSHING,Charles,Volker,TD,0
+9564004,10/8/2016,FCS,Princeton,Georgetown,RUSHING,Charles,Volker,LONG,14
+9564005,10/8/2016,FCS,Princeton,Georgetown,RUSHING,Joe,Rhattigan,ATT,5
+9564006,10/8/2016,FCS,Princeton,Georgetown,RUSHING,Joe,Rhattigan,YDS,60
+9564007,10/8/2016,FCS,Princeton,Georgetown,RUSHING,Joe,Rhattigan,TD,0
+9564008,10/8/2016,FCS,Princeton,Georgetown,RUSHING,Joe,Rhattigan,LONG,42
+9564009,10/8/2016,FCS,Princeton,Georgetown,RUSHING,John,Lovett,ATT,13
+9564010,10/8/2016,FCS,Princeton,Georgetown,RUSHING,John,Lovett,YDS,44
+9564011,10/8/2016,FCS,Princeton,Georgetown,RUSHING,John,Lovett,TD,3
+9564012,10/8/2016,FCS,Princeton,Georgetown,RUSHING,John,Lovett,LONG,7
+9564013,10/8/2016,FCS,Princeton,Georgetown,RUSHING,AJ,Glass,ATT,6
+9564014,10/8/2016,FCS,Princeton,Georgetown,RUSHING,AJ,Glass,YDS,39
+9564015,10/8/2016,FCS,Princeton,Georgetown,RUSHING,AJ,Glass,TD,0
+9564016,10/8/2016,FCS,Princeton,Georgetown,RUSHING,AJ,Glass,LONG,17
+9564017,10/8/2016,FCS,Princeton,Georgetown,RUSHING,Chad,Kanoff,ATT,3
+9564018,10/8/2016,FCS,Princeton,Georgetown,RUSHING,Chad,Kanoff,YDS,4
+9564019,10/8/2016,FCS,Princeton,Georgetown,RUSHING,Chad,Kanoff,TD,0
+9564020,10/8/2016,FCS,Princeton,Georgetown,RUSHING,Chad,Kanoff,LONG,5
+9564021,10/8/2016,FCS,Princeton,Georgetown,RUSHING,,Team,ATT,2
+9564022,10/8/2016,FCS,Princeton,Georgetown,RUSHING,,Team,YDS,-2
+9564023,10/8/2016,FCS,Princeton,Georgetown,RUSHING,,Team,TD,0
+9564024,10/8/2016,FCS,Princeton,Georgetown,RUSHING,,Team,LONG,0
+9564025,10/8/2016,FCS,Princeton,Georgetown,PASSING,Chad,Kanoff,CP-ATT-INT,18-37-1
+9564026,10/8/2016,FCS,Princeton,Georgetown,PASSING,Chad,Kanoff,YDS,168
+9564027,10/8/2016,FCS,Princeton,Georgetown,PASSING,Chad,Kanoff,TD,0
+9564028,10/8/2016,FCS,Princeton,Georgetown,PASSING,Chad,Kanoff,LONG,28
+9564029,10/8/2016,FCS,Princeton,Georgetown,PASSING,John,Lovett,CP-ATT-INT,6-10-0
+9564030,10/8/2016,FCS,Princeton,Georgetown,PASSING,John,Lovett,YDS,13
+9564031,10/8/2016,FCS,Princeton,Georgetown,PASSING,John,Lovett,TD,1
+9564032,10/8/2016,FCS,Princeton,Georgetown,PASSING,John,Lovett,LONG,5
+9564033,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Jesper,Horsted,REC,3
+9564034,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Jesper,Horsted,YDS,55
+9564035,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Jesper,Horsted,TD,0
+9564036,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Jesper,Horsted,LONG,28
+9564037,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Isaiah,Barnes,REC,3
+9564038,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Isaiah,Barnes,YDS,39
+9564039,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Isaiah,Barnes,TD,0
+9564040,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Isaiah,Barnes,LONG,22
+9564041,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Charles,Volker,REC,4
+9564042,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Charles,Volker,YDS,19
+9564043,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Charles,Volker,TD,0
+9564044,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Charles,Volker,LONG,7
+9564045,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,John,Lovett,REC,1
+9564046,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,John,Lovett,YDS,17
+9564047,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,John,Lovett,TD,0
+9564048,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,John,Lovett,LONG,17
+9564049,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Scott,Carpenter,REC,3
+9564050,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Scott,Carpenter,YDS,10
+9564051,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Scott,Carpenter,TD,0
+9564052,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Scott,Carpenter,LONG,4
+9564053,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,AJ,Glass,REC,1
+9564054,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,AJ,Glass,YDS,8
+9564055,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,AJ,Glass,TD,0
+9564056,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,AJ,Glass,LONG,8
+9564057,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Alex,Parkinson,REC,1
+9564058,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Alex,Parkinson,YDS,7
+9564059,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Alex,Parkinson,TD,0
+9564060,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Alex,Parkinson,LONG,7
+9564061,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Trevor,Osborne,REC,1
+9564062,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Trevor,Osborne,YDS,6
+9564063,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Trevor,Osborne,TD,0
+9564064,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Trevor,Osborne,LONG,6
+9564065,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,James,Frusciante,REC,1
+9564066,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,James,Frusciante,YDS,5
+9564067,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,James,Frusciante,TD,0
+9564068,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,James,Frusciante,LONG,5
+9564069,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Nick,Peabody,REC,1
+9564070,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Nick,Peabody,YDS,5
+9564071,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Nick,Peabody,TD,0
+9564072,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Nick,Peabody,LONG,5
+9564073,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Joe,Rhattigan,REC,2
+9564074,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Joe,Rhattigan,YDS,4
+9564075,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Joe,Rhattigan,TD,0
+9564076,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Joe,Rhattigan,LONG,3
+9564077,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Chad,Kanoff,REC,1
+9564078,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Chad,Kanoff,YDS,3
+9564079,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Chad,Kanoff,TD,0
+9564080,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Chad,Kanoff,LONG,3
+9564081,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Graham,Adomitis,REC,1
+9564082,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Graham,Adomitis,YDS,3
+9564083,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Graham,Adomitis,TD,1
+9564084,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Graham,Adomitis,LONG,3
+9564085,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Cody,Smith,REC,1
+9564086,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Cody,Smith,YDS,0
+9564087,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Cody,Smith,TD,0
+9564088,10/8/2016,FCS,Princeton,Georgetown,RECEIVING,Cody,Smith,LONG,0
+9564089,10/8/2016,FCS,Princeton,Georgetown,KICKING,Tavish,Rice,FG-FGA,1/5
+9564090,10/8/2016,FCS,Princeton,Georgetown,KICKING,Tavish,Rice,LONG,22
+9564091,10/8/2016,FCS,Princeton,Georgetown,KICKING,Tavish,Rice,XP,4
+9564092,10/8/2016,FCS,Princeton,Georgetown,KICKING,Tavish,Rice,PTS,7
+9564093,10/8/2016,FCS,Princeton,Georgetown,PUNTING,Tyler,Roth,NO,4
+9564094,10/8/2016,FCS,Princeton,Georgetown,PUNTING,Tyler,Roth,YDS,143
+9564095,10/8/2016,FCS,Princeton,Georgetown,PUNTING,Tyler,Roth,AVG,35.8
+9564096,10/8/2016,FCS,Princeton,Georgetown,PUNTING,Tyler,Roth,LONG,39
+9564097,10/8/2016,FCS,Princeton,Georgetown,PUNT RETURNS,Tiger,Bech,NO,4
+9564098,10/8/2016,FCS,Princeton,Georgetown,PUNT RETURNS,Tiger,Bech,YDS,52
+9564099,10/8/2016,FCS,Princeton,Georgetown,PUNT RETURNS,Tiger,Bech,AVG,13.0
+9564100,10/8/2016,FCS,Princeton,Georgetown,PUNT RETURNS,Tiger,Bech,LONG,19
+9564101,10/8/2016,FCS,Princeton,Georgetown,KICK RETURNS,Trevor,Osborne,NO,2
+9564102,10/8/2016,FCS,Princeton,Georgetown,KICK RETURNS,Trevor,Osborne,YDS,48
+9564103,10/8/2016,FCS,Princeton,Georgetown,KICK RETURNS,Trevor,Osborne,AVG,24.0
+9564104,10/8/2016,FCS,Princeton,Georgetown,KICK RETURNS,Trevor,Osborne,LONG,26
+9564105,10/8/2016,FCS,Princeton,Georgetown,KICK RETURNS,Nick,Peabody,NO,1
+9564106,10/8/2016,FCS,Princeton,Georgetown,KICK RETURNS,Nick,Peabody,YDS,6
+9564107,10/8/2016,FCS,Princeton,Georgetown,KICK RETURNS,Nick,Peabody,AVG,6.0
+9564108,10/8/2016,FCS,Princeton,Georgetown,KICK RETURNS,Nick,Peabody,LONG,6
+9564109,10/8/2016,FCS,Georgetown,Princeton,RUSHING,Alex,Valles,ATT,13
+9564110,10/8/2016,FCS,Georgetown,Princeton,RUSHING,Alex,Valles,YDS,87
+9564111,10/8/2016,FCS,Georgetown,Princeton,RUSHING,Alex,Valles,TD,1
+9564112,10/8/2016,FCS,Georgetown,Princeton,RUSHING,Alex,Valles,LONG,29
+9564113,10/8/2016,FCS,Georgetown,Princeton,RUSHING,Isaac,Ellsworth,ATT,5
+9564114,10/8/2016,FCS,Georgetown,Princeton,RUSHING,Isaac,Ellsworth,YDS,19
+9564115,10/8/2016,FCS,Georgetown,Princeton,RUSHING,Isaac,Ellsworth,TD,0
+9564116,10/8/2016,FCS,Georgetown,Princeton,RUSHING,Isaac,Ellsworth,LONG,10
+9564117,10/8/2016,FCS,Georgetown,Princeton,RUSHING,Michael,Dereus,ATT,1
+9564118,10/8/2016,FCS,Georgetown,Princeton,RUSHING,Michael,Dereus,YDS,3
+9564119,10/8/2016,FCS,Georgetown,Princeton,RUSHING,Michael,Dereus,TD,0
+9564120,10/8/2016,FCS,Georgetown,Princeton,RUSHING,Michael,Dereus,LONG,3
+9564121,10/8/2016,FCS,Georgetown,Princeton,RUSHING,Christian,Bermudez,ATT,1
+9564122,10/8/2016,FCS,Georgetown,Princeton,RUSHING,Christian,Bermudez,YDS,2
+9564123,10/8/2016,FCS,Georgetown,Princeton,RUSHING,Christian,Bermudez,TD,0
+9564124,10/8/2016,FCS,Georgetown,Princeton,RUSHING,Christian,Bermudez,LONG,2
+9564125,10/8/2016,FCS,Georgetown,Princeton,RUSHING,Justin,Harrell,ATT,1
+9564126,10/8/2016,FCS,Georgetown,Princeton,RUSHING,Justin,Harrell,YDS,0
+9564127,10/8/2016,FCS,Georgetown,Princeton,RUSHING,Justin,Harrell,TD,0
+9564128,10/8/2016,FCS,Georgetown,Princeton,RUSHING,Justin,Harrell,LONG,0
+9564129,10/8/2016,FCS,Georgetown,Princeton,RUSHING,,Team,ATT,1
+9564130,10/8/2016,FCS,Georgetown,Princeton,RUSHING,,Team,YDS,-6
+9564131,10/8/2016,FCS,Georgetown,Princeton,RUSHING,,Team,TD,0
+9564132,10/8/2016,FCS,Georgetown,Princeton,RUSHING,,Team,LONG,0
+9564133,10/8/2016,FCS,Georgetown,Princeton,RUSHING,Clay,Norris,ATT,6
+9564134,10/8/2016,FCS,Georgetown,Princeton,RUSHING,Clay,Norris,YDS,-23
+9564135,10/8/2016,FCS,Georgetown,Princeton,RUSHING,Clay,Norris,TD,0
+9564136,10/8/2016,FCS,Georgetown,Princeton,RUSHING,Clay,Norris,LONG,6
+9564137,10/8/2016,FCS,Georgetown,Princeton,PASSING,Clay,Norris,CP-ATT-INT,13-26-1
+9564138,10/8/2016,FCS,Georgetown,Princeton,PASSING,Clay,Norris,YDS,106
+9564139,10/8/2016,FCS,Georgetown,Princeton,PASSING,Clay,Norris,TD,0
+9564140,10/8/2016,FCS,Georgetown,Princeton,PASSING,Clay,Norris,LONG,19
+9564141,10/8/2016,FCS,Georgetown,Princeton,RECEIVING,Justin,Hill,REC,4
+9564142,10/8/2016,FCS,Georgetown,Princeton,RECEIVING,Justin,Hill,YDS,35
+9564143,10/8/2016,FCS,Georgetown,Princeton,RECEIVING,Justin,Hill,TD,0
+9564144,10/8/2016,FCS,Georgetown,Princeton,RECEIVING,Justin,Hill,LONG,13
+9564145,10/8/2016,FCS,Georgetown,Princeton,RECEIVING,Justin,Harrell,REC,3
+9564146,10/8/2016,FCS,Georgetown,Princeton,RECEIVING,Justin,Harrell,YDS,22
+9564147,10/8/2016,FCS,Georgetown,Princeton,RECEIVING,Justin,Harrell,TD,0
+9564148,10/8/2016,FCS,Georgetown,Princeton,RECEIVING,Justin,Harrell,LONG,8
+9564149,10/8/2016,FCS,Georgetown,Princeton,RECEIVING,Tommy,Jesson,REC,1
+9564150,10/8/2016,FCS,Georgetown,Princeton,RECEIVING,Tommy,Jesson,YDS,19
+9564151,10/8/2016,FCS,Georgetown,Princeton,RECEIVING,Tommy,Jesson,TD,0
+9564152,10/8/2016,FCS,Georgetown,Princeton,RECEIVING,Tommy,Jesson,LONG,19
+9564153,10/8/2016,FCS,Georgetown,Princeton,RECEIVING,Jim,McLaughlin,REC,3
+9564154,10/8/2016,FCS,Georgetown,Princeton,RECEIVING,Jim,McLaughlin,YDS,19
+9564155,10/8/2016,FCS,Georgetown,Princeton,RECEIVING,Jim,McLaughlin,TD,0
+9564156,10/8/2016,FCS,Georgetown,Princeton,RECEIVING,Jim,McLaughlin,LONG,8
+9564157,10/8/2016,FCS,Georgetown,Princeton,RECEIVING,Michael,Dereus,REC,1
+9564158,10/8/2016,FCS,Georgetown,Princeton,RECEIVING,Michael,Dereus,YDS,6
+9564159,10/8/2016,FCS,Georgetown,Princeton,RECEIVING,Michael,Dereus,TD,0
+9564160,10/8/2016,FCS,Georgetown,Princeton,RECEIVING,Michael,Dereus,LONG,6
+9564161,10/8/2016,FCS,Georgetown,Princeton,RECEIVING,Matthew,Buckman,REC,1
+9564162,10/8/2016,FCS,Georgetown,Princeton,RECEIVING,Matthew,Buckman,YDS,5
+9564163,10/8/2016,FCS,Georgetown,Princeton,RECEIVING,Matthew,Buckman,TD,0
+9564164,10/8/2016,FCS,Georgetown,Princeton,RECEIVING,Matthew,Buckman,LONG,5
+9564165,10/8/2016,FCS,Georgetown,Princeton,KICKING,Henry,Darmstadter,FG-FGA,1/1
+9564166,10/8/2016,FCS,Georgetown,Princeton,KICKING,Henry,Darmstadter,LONG,34
+9564167,10/8/2016,FCS,Georgetown,Princeton,KICKING,Henry,Darmstadter,XP,2
+9564168,10/8/2016,FCS,Georgetown,Princeton,KICKING,Henry,Darmstadter,PTS,5
+9564169,10/8/2016,FCS,Georgetown,Princeton,PUNTING,Harry,McCollum,NO,8
+9564170,10/8/2016,FCS,Georgetown,Princeton,PUNTING,Harry,McCollum,YDS,346
+9564171,10/8/2016,FCS,Georgetown,Princeton,PUNTING,Harry,McCollum,AVG,43.2
+9564172,10/8/2016,FCS,Georgetown,Princeton,PUNTING,Harry,McCollum,LONG,51
+9564173,10/8/2016,FCS,Georgetown,Princeton,PUNT RETURNS,Alex,Valles,NO,3
+9564174,10/8/2016,FCS,Georgetown,Princeton,PUNT RETURNS,Alex,Valles,YDS,2
+9564175,10/8/2016,FCS,Georgetown,Princeton,PUNT RETURNS,Alex,Valles,AVG,0.7
+9564176,10/8/2016,FCS,Georgetown,Princeton,PUNT RETURNS,Alex,Valles,LONG,2
+9564177,10/8/2016,FCS,Georgetown,Princeton,KICK RETURNS,Isaac,Ellsworth,NO,2
+9564178,10/8/2016,FCS,Georgetown,Princeton,KICK RETURNS,Isaac,Ellsworth,YDS,49
+9564179,10/8/2016,FCS,Georgetown,Princeton,KICK RETURNS,Isaac,Ellsworth,AVG,24.5
+9564180,10/8/2016,FCS,Georgetown,Princeton,KICK RETURNS,Isaac,Ellsworth,LONG,29

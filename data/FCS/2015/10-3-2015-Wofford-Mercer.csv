@@ -1,0 +1,190 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+8765001,10/3/2015,FCS,Wofford,Mercer,RUSHING,Lorenzo,Long,ATT,24
+8765002,10/3/2015,FCS,Wofford,Mercer,RUSHING,Lorenzo,Long,YDS,194
+8765003,10/3/2015,FCS,Wofford,Mercer,RUSHING,Lorenzo,Long,TD,1
+8765004,10/3/2015,FCS,Wofford,Mercer,RUSHING,Lorenzo,Long,LONG,60
+8765005,10/3/2015,FCS,Wofford,Mercer,RUSHING,Evan,Jacks,ATT,11
+8765006,10/3/2015,FCS,Wofford,Mercer,RUSHING,Evan,Jacks,YDS,105
+8765007,10/3/2015,FCS,Wofford,Mercer,RUSHING,Evan,Jacks,TD,2
+8765008,10/3/2015,FCS,Wofford,Mercer,RUSHING,Evan,Jacks,LONG,60
+8765009,10/3/2015,FCS,Wofford,Mercer,RUSHING,Chase,Nelson,ATT,6
+8765010,10/3/2015,FCS,Wofford,Mercer,RUSHING,Chase,Nelson,YDS,40
+8765011,10/3/2015,FCS,Wofford,Mercer,RUSHING,Chase,Nelson,TD,0
+8765012,10/3/2015,FCS,Wofford,Mercer,RUSHING,Chase,Nelson,LONG,24
+8765013,10/3/2015,FCS,Wofford,Mercer,RUSHING,Ray,Smith,ATT,5
+8765014,10/3/2015,FCS,Wofford,Mercer,RUSHING,Ray,Smith,YDS,23
+8765015,10/3/2015,FCS,Wofford,Mercer,RUSHING,Ray,Smith,TD,1
+8765016,10/3/2015,FCS,Wofford,Mercer,RUSHING,Ray,Smith,LONG,11
+8765017,10/3/2015,FCS,Wofford,Mercer,RUSHING,Nick,Colvin,ATT,2
+8765018,10/3/2015,FCS,Wofford,Mercer,RUSHING,Nick,Colvin,YDS,20
+8765019,10/3/2015,FCS,Wofford,Mercer,RUSHING,Nick,Colvin,TD,1
+8765020,10/3/2015,FCS,Wofford,Mercer,RUSHING,Nick,Colvin,LONG,11
+8765021,10/3/2015,FCS,Wofford,Mercer,RUSHING,Hunter,Windham,ATT,1
+8765022,10/3/2015,FCS,Wofford,Mercer,RUSHING,Hunter,Windham,YDS,7
+8765023,10/3/2015,FCS,Wofford,Mercer,RUSHING,Hunter,Windham,TD,0
+8765024,10/3/2015,FCS,Wofford,Mercer,RUSHING,Hunter,Windham,LONG,7
+8765025,10/3/2015,FCS,Wofford,Mercer,RUSHING,Brandon,Goodson,ATT,3
+8765026,10/3/2015,FCS,Wofford,Mercer,RUSHING,Brandon,Goodson,YDS,2
+8765027,10/3/2015,FCS,Wofford,Mercer,RUSHING,Brandon,Goodson,TD,0
+8765028,10/3/2015,FCS,Wofford,Mercer,RUSHING,Brandon,Goodson,LONG,7
+8765029,10/3/2015,FCS,Wofford,Mercer,PASSING,Evan,Jacks,CP-ATT-INT,4-5-0
+8765030,10/3/2015,FCS,Wofford,Mercer,PASSING,Evan,Jacks,YDS,43
+8765031,10/3/2015,FCS,Wofford,Mercer,PASSING,Evan,Jacks,TD,0
+8765032,10/3/2015,FCS,Wofford,Mercer,PASSING,Evan,Jacks,LONG,0
+8765033,10/3/2015,FCS,Wofford,Mercer,PASSING,Brandon,Goodson,CP-ATT-INT,0-1-0
+8765034,10/3/2015,FCS,Wofford,Mercer,PASSING,Brandon,Goodson,YDS,0
+8765035,10/3/2015,FCS,Wofford,Mercer,PASSING,Brandon,Goodson,TD,0
+8765036,10/3/2015,FCS,Wofford,Mercer,PASSING,Brandon,Goodson,LONG,0
+8765037,10/3/2015,FCS,Wofford,Mercer,RECEIVING,Paul,Nelson,REC,2
+8765038,10/3/2015,FCS,Wofford,Mercer,RECEIVING,Paul,Nelson,YDS,24
+8765039,10/3/2015,FCS,Wofford,Mercer,RECEIVING,Paul,Nelson,TD,0
+8765040,10/3/2015,FCS,Wofford,Mercer,RECEIVING,Paul,Nelson,LONG,15
+8765041,10/3/2015,FCS,Wofford,Mercer,RECEIVING,R.J.,Taylor,REC,2
+8765042,10/3/2015,FCS,Wofford,Mercer,RECEIVING,R.J.,Taylor,YDS,19
+8765043,10/3/2015,FCS,Wofford,Mercer,RECEIVING,R.J.,Taylor,TD,0
+8765044,10/3/2015,FCS,Wofford,Mercer,RECEIVING,R.J.,Taylor,LONG,11
+8765045,10/3/2015,FCS,Wofford,Mercer,KICKING,David,Marvin,FG-FGA,0/2
+8765046,10/3/2015,FCS,Wofford,Mercer,KICKING,David,Marvin,LONG,0
+8765047,10/3/2015,FCS,Wofford,Mercer,KICKING,David,Marvin,XP,4
+8765048,10/3/2015,FCS,Wofford,Mercer,KICKING,David,Marvin,PTS,4
+8765049,10/3/2015,FCS,Wofford,Mercer,PUNTING,Brian,Sanders,NO,3
+8765050,10/3/2015,FCS,Wofford,Mercer,PUNTING,Brian,Sanders,YDS,81
+8765051,10/3/2015,FCS,Wofford,Mercer,PUNTING,Brian,Sanders,AVG,27.0
+8765052,10/3/2015,FCS,Wofford,Mercer,PUNTING,Brian,Sanders,LONG,29
+8765053,10/3/2015,FCS,Wofford,Mercer,PUNT RETURNS,Paul,Nelson,NO,1
+8765054,10/3/2015,FCS,Wofford,Mercer,PUNT RETURNS,Paul,Nelson,YDS,21
+8765055,10/3/2015,FCS,Wofford,Mercer,PUNT RETURNS,Paul,Nelson,AVG,21.0
+8765056,10/3/2015,FCS,Wofford,Mercer,PUNT RETURNS,Paul,Nelson,LONG,21
+8765057,10/3/2015,FCS,Wofford,Mercer,KICK RETURNS,Nick,Colvin,NO,2
+8765058,10/3/2015,FCS,Wofford,Mercer,KICK RETURNS,Nick,Colvin,YDS,49
+8765059,10/3/2015,FCS,Wofford,Mercer,KICK RETURNS,Nick,Colvin,AVG,24.5
+8765060,10/3/2015,FCS,Wofford,Mercer,KICK RETURNS,Nick,Colvin,LONG,33
+8765061,10/3/2015,FCS,Wofford,Mercer,KICK RETURNS,Chris,Armfield,NO,1
+8765062,10/3/2015,FCS,Wofford,Mercer,KICK RETURNS,Chris,Armfield,YDS,14
+8765063,10/3/2015,FCS,Wofford,Mercer,KICK RETURNS,Chris,Armfield,AVG,14.0
+8765064,10/3/2015,FCS,Wofford,Mercer,KICK RETURNS,Chris,Armfield,LONG,14
+8765065,10/3/2015,FCS,Wofford,Mercer,KICK RETURNS,Zach,Muller,NO,1
+8765066,10/3/2015,FCS,Wofford,Mercer,KICK RETURNS,Zach,Muller,YDS,3
+8765067,10/3/2015,FCS,Wofford,Mercer,KICK RETURNS,Zach,Muller,AVG,3.0
+8765068,10/3/2015,FCS,Wofford,Mercer,KICK RETURNS,Zach,Muller,LONG,3
+8765069,10/3/2015,FCS,Wofford,Mercer,KICK RETURNS,Paul,Nelson,NO,1
+8765070,10/3/2015,FCS,Wofford,Mercer,KICK RETURNS,Paul,Nelson,YDS,0
+8765071,10/3/2015,FCS,Wofford,Mercer,KICK RETURNS,Paul,Nelson,AVG,-
+8765072,10/3/2015,FCS,Wofford,Mercer,KICK RETURNS,Paul,Nelson,LONG,0
+8765073,10/3/2015,FCS,Wofford,Mercer,DEFENSE,Brandon,Curtis,TOT,2
+8765074,10/3/2015,FCS,Wofford,Mercer,DEFENSE,Brandon,Curtis,SOLO,1
+8765075,10/3/2015,FCS,Wofford,Mercer,DEFENSE,Brandon,Curtis,SACKS,1
+8765076,10/3/2015,FCS,Wofford,Mercer,DEFENSE,Brandon,Curtis,TFL,1
+8765077,10/3/2015,FCS,Wofford,Mercer,DEFENSE,Brandon,Curtis,INT,0
+8765078,10/3/2015,FCS,Wofford,Mercer,DEFENSE,Brandon,Curtis,FF,0
+8765079,10/3/2015,FCS,Wofford,Mercer,DEFENSE,Brandon,Curtis,FR,0
+8765080,10/3/2015,FCS,Wofford,Mercer,DEFENSE,Boston,Bryant,TOT,4
+8765081,10/3/2015,FCS,Wofford,Mercer,DEFENSE,Boston,Bryant,SOLO,3
+8765082,10/3/2015,FCS,Wofford,Mercer,DEFENSE,Boston,Bryant,SACKS,0
+8765083,10/3/2015,FCS,Wofford,Mercer,DEFENSE,Boston,Bryant,TFL,0
+8765084,10/3/2015,FCS,Wofford,Mercer,DEFENSE,Boston,Bryant,INT,0
+8765085,10/3/2015,FCS,Wofford,Mercer,DEFENSE,Boston,Bryant,FF,1
+8765086,10/3/2015,FCS,Wofford,Mercer,DEFENSE,Boston,Bryant,FR,0
+8765087,10/3/2015,FCS,Wofford,Mercer,DEFENSE,Drake,Michaelson,TOT,11
+8765088,10/3/2015,FCS,Wofford,Mercer,DEFENSE,Drake,Michaelson,SOLO,6
+8765089,10/3/2015,FCS,Wofford,Mercer,DEFENSE,Drake,Michaelson,SACKS,0
+8765090,10/3/2015,FCS,Wofford,Mercer,DEFENSE,Drake,Michaelson,TFL,2.5
+8765091,10/3/2015,FCS,Wofford,Mercer,DEFENSE,Drake,Michaelson,INT,0
+8765092,10/3/2015,FCS,Wofford,Mercer,DEFENSE,Drake,Michaelson,FF,1
+8765093,10/3/2015,FCS,Wofford,Mercer,DEFENSE,Drake,Michaelson,FR,1
+8765094,10/3/2015,FCS,Mercer,Wofford,RUSHING,Tee,Mitchell,ATT,24
+8765095,10/3/2015,FCS,Mercer,Wofford,RUSHING,Tee,Mitchell,YDS,110
+8765096,10/3/2015,FCS,Mercer,Wofford,RUSHING,Tee,Mitchell,TD,2
+8765097,10/3/2015,FCS,Mercer,Wofford,RUSHING,Tee,Mitchell,LONG,17
+8765098,10/3/2015,FCS,Mercer,Wofford,RUSHING,John,Russ,ATT,14
+8765099,10/3/2015,FCS,Mercer,Wofford,RUSHING,John,Russ,YDS,46
+8765100,10/3/2015,FCS,Mercer,Wofford,RUSHING,John,Russ,TD,0
+8765101,10/3/2015,FCS,Mercer,Wofford,RUSHING,John,Russ,LONG,14
+8765102,10/3/2015,FCS,Mercer,Wofford,RUSHING,Payton,Usher,ATT,9
+8765103,10/3/2015,FCS,Mercer,Wofford,RUSHING,Payton,Usher,YDS,30
+8765104,10/3/2015,FCS,Mercer,Wofford,RUSHING,Payton,Usher,TD,0
+8765105,10/3/2015,FCS,Mercer,Wofford,RUSHING,Payton,Usher,LONG,12
+8765106,10/3/2015,FCS,Mercer,Wofford,RUSHING,Kyle,Trammell,ATT,1
+8765107,10/3/2015,FCS,Mercer,Wofford,RUSHING,Kyle,Trammell,YDS,1
+8765108,10/3/2015,FCS,Mercer,Wofford,RUSHING,Kyle,Trammell,TD,0
+8765109,10/3/2015,FCS,Mercer,Wofford,RUSHING,Kyle,Trammell,LONG,1
+8765110,10/3/2015,FCS,Mercer,Wofford,PASSING,John,Russ,CP-ATT-INT,23-41-0
+8765111,10/3/2015,FCS,Mercer,Wofford,PASSING,John,Russ,YDS,277
+8765112,10/3/2015,FCS,Mercer,Wofford,PASSING,John,Russ,TD,2
+8765113,10/3/2015,FCS,Mercer,Wofford,PASSING,John,Russ,LONG,0
+8765114,10/3/2015,FCS,Mercer,Wofford,RECEIVING,Avery,Ward,REC,8
+8765115,10/3/2015,FCS,Mercer,Wofford,RECEIVING,Avery,Ward,YDS,95
+8765116,10/3/2015,FCS,Mercer,Wofford,RECEIVING,Avery,Ward,TD,2
+8765117,10/3/2015,FCS,Mercer,Wofford,RECEIVING,Avery,Ward,LONG,25
+8765118,10/3/2015,FCS,Mercer,Wofford,RECEIVING,Robert,Brown,REC,3
+8765119,10/3/2015,FCS,Mercer,Wofford,RECEIVING,Robert,Brown,YDS,55
+8765120,10/3/2015,FCS,Mercer,Wofford,RECEIVING,Robert,Brown,TD,0
+8765121,10/3/2015,FCS,Mercer,Wofford,RECEIVING,Robert,Brown,LONG,21
+8765122,10/3/2015,FCS,Mercer,Wofford,RECEIVING,Sam,Walker,REC,2
+8765123,10/3/2015,FCS,Mercer,Wofford,RECEIVING,Sam,Walker,YDS,39
+8765124,10/3/2015,FCS,Mercer,Wofford,RECEIVING,Sam,Walker,TD,0
+8765125,10/3/2015,FCS,Mercer,Wofford,RECEIVING,Sam,Walker,LONG,29
+8765126,10/3/2015,FCS,Mercer,Wofford,RECEIVING,Josh,Jones,REC,5
+8765127,10/3/2015,FCS,Mercer,Wofford,RECEIVING,Josh,Jones,YDS,37
+8765128,10/3/2015,FCS,Mercer,Wofford,RECEIVING,Josh,Jones,TD,0
+8765129,10/3/2015,FCS,Mercer,Wofford,RECEIVING,Josh,Jones,LONG,11
+8765130,10/3/2015,FCS,Mercer,Wofford,RECEIVING,Jordan,Marshall,REC,3
+8765131,10/3/2015,FCS,Mercer,Wofford,RECEIVING,Jordan,Marshall,YDS,33
+8765132,10/3/2015,FCS,Mercer,Wofford,RECEIVING,Jordan,Marshall,TD,0
+8765133,10/3/2015,FCS,Mercer,Wofford,RECEIVING,Jordan,Marshall,LONG,18
+8765134,10/3/2015,FCS,Mercer,Wofford,RECEIVING,Marquise,Irvin,REC,1
+8765135,10/3/2015,FCS,Mercer,Wofford,RECEIVING,Marquise,Irvin,YDS,12
+8765136,10/3/2015,FCS,Mercer,Wofford,RECEIVING,Marquise,Irvin,TD,0
+8765137,10/3/2015,FCS,Mercer,Wofford,RECEIVING,Marquise,Irvin,LONG,12
+8765138,10/3/2015,FCS,Mercer,Wofford,RECEIVING,Tee,Mitchell,REC,1
+8765139,10/3/2015,FCS,Mercer,Wofford,RECEIVING,Tee,Mitchell,YDS,6
+8765140,10/3/2015,FCS,Mercer,Wofford,RECEIVING,Tee,Mitchell,TD,0
+8765141,10/3/2015,FCS,Mercer,Wofford,RECEIVING,Tee,Mitchell,LONG,6
+8765142,10/3/2015,FCS,Mercer,Wofford,KICKING,Jagger,Lieb,FG-FGA,2/3
+8765143,10/3/2015,FCS,Mercer,Wofford,KICKING,Jagger,Lieb,LONG,43
+8765144,10/3/2015,FCS,Mercer,Wofford,KICKING,Jagger,Lieb,XP,3
+8765145,10/3/2015,FCS,Mercer,Wofford,KICKING,Jagger,Lieb,PTS,9
+8765146,10/3/2015,FCS,Mercer,Wofford,PUNTING,Matthew,Shiel,NO,3
+8765147,10/3/2015,FCS,Mercer,Wofford,PUNTING,Matthew,Shiel,YDS,115
+8765148,10/3/2015,FCS,Mercer,Wofford,PUNTING,Matthew,Shiel,AVG,38.3
+8765149,10/3/2015,FCS,Mercer,Wofford,PUNTING,Matthew,Shiel,LONG,42
+8765150,10/3/2015,FCS,Mercer,Wofford,PUNT RETURNS,Jeff,Bowens,NO,1
+8765151,10/3/2015,FCS,Mercer,Wofford,PUNT RETURNS,Jeff,Bowens,YDS,1
+8765152,10/3/2015,FCS,Mercer,Wofford,PUNT RETURNS,Jeff,Bowens,AVG,1.0
+8765153,10/3/2015,FCS,Mercer,Wofford,PUNT RETURNS,Jeff,Bowens,LONG,1
+8765154,10/3/2015,FCS,Mercer,Wofford,KICK RETURNS,Jimmie,Robinson,NO,3
+8765155,10/3/2015,FCS,Mercer,Wofford,KICK RETURNS,Jimmie,Robinson,YDS,68
+8765156,10/3/2015,FCS,Mercer,Wofford,KICK RETURNS,Jimmie,Robinson,AVG,22.7
+8765157,10/3/2015,FCS,Mercer,Wofford,KICK RETURNS,Jimmie,Robinson,LONG,27
+8765158,10/3/2015,FCS,Mercer,Wofford,KICK RETURNS,Stephen,Houzah,NO,1
+8765159,10/3/2015,FCS,Mercer,Wofford,KICK RETURNS,Stephen,Houzah,YDS,16
+8765160,10/3/2015,FCS,Mercer,Wofford,KICK RETURNS,Stephen,Houzah,AVG,16.0
+8765161,10/3/2015,FCS,Mercer,Wofford,KICK RETURNS,Stephen,Houzah,LONG,16
+8765162,10/3/2015,FCS,Mercer,Wofford,DEFENSE,Blake,Jones,TOT,4
+8765163,10/3/2015,FCS,Mercer,Wofford,DEFENSE,Blake,Jones,SOLO,1
+8765164,10/3/2015,FCS,Mercer,Wofford,DEFENSE,Blake,Jones,SACKS,0
+8765165,10/3/2015,FCS,Mercer,Wofford,DEFENSE,Blake,Jones,TFL,1
+8765166,10/3/2015,FCS,Mercer,Wofford,DEFENSE,Blake,Jones,INT,0
+8765167,10/3/2015,FCS,Mercer,Wofford,DEFENSE,Blake,Jones,FF,0
+8765168,10/3/2015,FCS,Mercer,Wofford,DEFENSE,Blake,Jones,FR,1
+8765169,10/3/2015,FCS,Mercer,Wofford,DEFENSE,Kelly,Brooks,TOT,2
+8765170,10/3/2015,FCS,Mercer,Wofford,DEFENSE,Kelly,Brooks,SOLO,1
+8765171,10/3/2015,FCS,Mercer,Wofford,DEFENSE,Kelly,Brooks,SACKS,0
+8765172,10/3/2015,FCS,Mercer,Wofford,DEFENSE,Kelly,Brooks,TFL,1
+8765173,10/3/2015,FCS,Mercer,Wofford,DEFENSE,Kelly,Brooks,INT,0
+8765174,10/3/2015,FCS,Mercer,Wofford,DEFENSE,Kelly,Brooks,FF,1
+8765175,10/3/2015,FCS,Mercer,Wofford,DEFENSE,Kelly,Brooks,FR,0
+8765176,10/3/2015,FCS,Mercer,Wofford,DEFENSE,Tripp,Patterson,TOT,14
+8765177,10/3/2015,FCS,Mercer,Wofford,DEFENSE,Tripp,Patterson,SOLO,6
+8765178,10/3/2015,FCS,Mercer,Wofford,DEFENSE,Tripp,Patterson,SACKS,0
+8765179,10/3/2015,FCS,Mercer,Wofford,DEFENSE,Tripp,Patterson,TFL,1
+8765180,10/3/2015,FCS,Mercer,Wofford,DEFENSE,Tripp,Patterson,INT,0
+8765181,10/3/2015,FCS,Mercer,Wofford,DEFENSE,Tripp,Patterson,FF,1
+8765182,10/3/2015,FCS,Mercer,Wofford,DEFENSE,Tripp,Patterson,FR,0
+8765183,10/3/2015,FCS,Mercer,Wofford,DEFENSE,Corey,Lockett,TOT,4
+8765184,10/3/2015,FCS,Mercer,Wofford,DEFENSE,Corey,Lockett,SOLO,3
+8765185,10/3/2015,FCS,Mercer,Wofford,DEFENSE,Corey,Lockett,SACKS,0
+8765186,10/3/2015,FCS,Mercer,Wofford,DEFENSE,Corey,Lockett,TFL,1
+8765187,10/3/2015,FCS,Mercer,Wofford,DEFENSE,Corey,Lockett,INT,0
+8765188,10/3/2015,FCS,Mercer,Wofford,DEFENSE,Corey,Lockett,FF,1
+8765189,10/3/2015,FCS,Mercer,Wofford,DEFENSE,Corey,Lockett,FR,1

@@ -1,0 +1,169 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+7226001,10/19/2013,FCS,Georgetown,Lehigh,RUSHING,Nick,Campanella,ATT,23
+7226002,10/19/2013,FCS,Georgetown,Lehigh,RUSHING,Nick,Campanella,YDS,129
+7226003,10/19/2013,FCS,Georgetown,Lehigh,RUSHING,Nick,Campanella,TD,2
+7226004,10/19/2013,FCS,Georgetown,Lehigh,RUSHING,Nick,Campanella,LONG,25
+7226005,10/19/2013,FCS,Georgetown,Lehigh,RUSHING,Dalen,Claytor,ATT,3
+7226006,10/19/2013,FCS,Georgetown,Lehigh,RUSHING,Dalen,Claytor,YDS,35
+7226007,10/19/2013,FCS,Georgetown,Lehigh,RUSHING,Dalen,Claytor,TD,0
+7226008,10/19/2013,FCS,Georgetown,Lehigh,RUSHING,Dalen,Claytor,LONG,18
+7226009,10/19/2013,FCS,Georgetown,Lehigh,RUSHING,Kyle,Nolan,ATT,9
+7226010,10/19/2013,FCS,Georgetown,Lehigh,RUSHING,Kyle,Nolan,YDS,28
+7226011,10/19/2013,FCS,Georgetown,Lehigh,RUSHING,Kyle,Nolan,TD,0
+7226012,10/19/2013,FCS,Georgetown,Lehigh,RUSHING,Kyle,Nolan,LONG,9
+7226013,10/19/2013,FCS,Georgetown,Lehigh,RUSHING,Brandon,Durham,ATT,2
+7226014,10/19/2013,FCS,Georgetown,Lehigh,RUSHING,Brandon,Durham,YDS,24
+7226015,10/19/2013,FCS,Georgetown,Lehigh,RUSHING,Brandon,Durham,TD,0
+7226016,10/19/2013,FCS,Georgetown,Lehigh,RUSHING,Brandon,Durham,LONG,17
+7226017,10/19/2013,FCS,Georgetown,Lehigh,RUSHING,Jo'el,Kimpela,ATT,5
+7226018,10/19/2013,FCS,Georgetown,Lehigh,RUSHING,Jo'el,Kimpela,YDS,15
+7226019,10/19/2013,FCS,Georgetown,Lehigh,RUSHING,Jo'el,Kimpela,TD,0
+7226020,10/19/2013,FCS,Georgetown,Lehigh,RUSHING,Jo'el,Kimpela,LONG,6
+7226021,10/19/2013,FCS,Georgetown,Lehigh,RUSHING,,Team,ATT,1
+7226022,10/19/2013,FCS,Georgetown,Lehigh,RUSHING,,Team,YDS,-2
+7226023,10/19/2013,FCS,Georgetown,Lehigh,RUSHING,,Team,TD,0
+7226024,10/19/2013,FCS,Georgetown,Lehigh,RUSHING,,Team,LONG,0
+7226025,10/19/2013,FCS,Georgetown,Lehigh,PASSING,Kyle,Nolan,CP-ATT-INT,19-30-0
+7226026,10/19/2013,FCS,Georgetown,Lehigh,PASSING,Kyle,Nolan,YDS,140
+7226027,10/19/2013,FCS,Georgetown,Lehigh,PASSING,Kyle,Nolan,TD,1
+7226028,10/19/2013,FCS,Georgetown,Lehigh,PASSING,Kyle,Nolan,LONG,12
+7226029,10/19/2013,FCS,Georgetown,Lehigh,RECEIVING,Zack,Wilke,REC,6
+7226030,10/19/2013,FCS,Georgetown,Lehigh,RECEIVING,Zack,Wilke,YDS,53
+7226031,10/19/2013,FCS,Georgetown,Lehigh,RECEIVING,Zack,Wilke,TD,0
+7226032,10/19/2013,FCS,Georgetown,Lehigh,RECEIVING,Zack,Wilke,LONG,12
+7226033,10/19/2013,FCS,Georgetown,Lehigh,RECEIVING,Jake,DeCicco,REC,5
+7226034,10/19/2013,FCS,Georgetown,Lehigh,RECEIVING,Jake,DeCicco,YDS,36
+7226035,10/19/2013,FCS,Georgetown,Lehigh,RECEIVING,Jake,DeCicco,TD,0
+7226036,10/19/2013,FCS,Georgetown,Lehigh,RECEIVING,Jake,DeCicco,LONG,10
+7226037,10/19/2013,FCS,Georgetown,Lehigh,RECEIVING,Dalen,Claytor,REC,3
+7226038,10/19/2013,FCS,Georgetown,Lehigh,RECEIVING,Dalen,Claytor,YDS,19
+7226039,10/19/2013,FCS,Georgetown,Lehigh,RECEIVING,Dalen,Claytor,TD,0
+7226040,10/19/2013,FCS,Georgetown,Lehigh,RECEIVING,Dalen,Claytor,LONG,11
+7226041,10/19/2013,FCS,Georgetown,Lehigh,RECEIVING,Daniel,Sprotte,REC,3
+7226042,10/19/2013,FCS,Georgetown,Lehigh,RECEIVING,Daniel,Sprotte,YDS,18
+7226043,10/19/2013,FCS,Georgetown,Lehigh,RECEIVING,Daniel,Sprotte,TD,0
+7226044,10/19/2013,FCS,Georgetown,Lehigh,RECEIVING,Daniel,Sprotte,LONG,8
+7226045,10/19/2013,FCS,Georgetown,Lehigh,RECEIVING,Justin,Hill,REC,1
+7226046,10/19/2013,FCS,Georgetown,Lehigh,RECEIVING,Justin,Hill,YDS,7
+7226047,10/19/2013,FCS,Georgetown,Lehigh,RECEIVING,Justin,Hill,TD,0
+7226048,10/19/2013,FCS,Georgetown,Lehigh,RECEIVING,Justin,Hill,LONG,7
+7226049,10/19/2013,FCS,Georgetown,Lehigh,RECEIVING,Nick,Campanella,REC,1
+7226050,10/19/2013,FCS,Georgetown,Lehigh,RECEIVING,Nick,Campanella,YDS,7
+7226051,10/19/2013,FCS,Georgetown,Lehigh,RECEIVING,Nick,Campanella,TD,1
+7226052,10/19/2013,FCS,Georgetown,Lehigh,RECEIVING,Nick,Campanella,LONG,7
+7226053,10/19/2013,FCS,Georgetown,Lehigh,KICKING,Matt,MacZura,FG-FGA,1/1
+7226054,10/19/2013,FCS,Georgetown,Lehigh,KICKING,Matt,MacZura,LONG,23
+7226055,10/19/2013,FCS,Georgetown,Lehigh,KICKING,Matt,MacZura,XP,3
+7226056,10/19/2013,FCS,Georgetown,Lehigh,KICKING,Matt,MacZura,PTS,6
+7226057,10/19/2013,FCS,Georgetown,Lehigh,PUNTING,Matt,MacZura,NO,6
+7226058,10/19/2013,FCS,Georgetown,Lehigh,PUNTING,Matt,MacZura,YDS,245
+7226059,10/19/2013,FCS,Georgetown,Lehigh,PUNTING,Matt,MacZura,AVG,40.8
+7226060,10/19/2013,FCS,Georgetown,Lehigh,PUNTING,Matt,MacZura,LONG,47
+7226061,10/19/2013,FCS,Georgetown,Lehigh,PUNT RETURNS,Jake,DeCicco,NO,1
+7226062,10/19/2013,FCS,Georgetown,Lehigh,PUNT RETURNS,Jake,DeCicco,YDS,1
+7226063,10/19/2013,FCS,Georgetown,Lehigh,PUNT RETURNS,Jake,DeCicco,AVG,1.0
+7226064,10/19/2013,FCS,Georgetown,Lehigh,PUNT RETURNS,Jake,DeCicco,LONG,1
+7226065,10/19/2013,FCS,Georgetown,Lehigh,KICK RETURNS,Brandon,Durham,NO,5
+7226066,10/19/2013,FCS,Georgetown,Lehigh,KICK RETURNS,Brandon,Durham,YDS,72
+7226067,10/19/2013,FCS,Georgetown,Lehigh,KICK RETURNS,Brandon,Durham,AVG,14.4
+7226068,10/19/2013,FCS,Georgetown,Lehigh,KICK RETURNS,Brandon,Durham,LONG,27
+7226069,10/19/2013,FCS,Georgetown,Lehigh,KICK RETURNS,Justin,Hill,NO,2
+7226070,10/19/2013,FCS,Georgetown,Lehigh,KICK RETURNS,Justin,Hill,YDS,46
+7226071,10/19/2013,FCS,Georgetown,Lehigh,KICK RETURNS,Justin,Hill,AVG,23.0
+7226072,10/19/2013,FCS,Georgetown,Lehigh,KICK RETURNS,Justin,Hill,LONG,28
+7226073,10/19/2013,FCS,Georgetown,Lehigh,KICK RETURNS,Mitchell,Black,NO,1
+7226074,10/19/2013,FCS,Georgetown,Lehigh,KICK RETURNS,Mitchell,Black,YDS,0
+7226075,10/19/2013,FCS,Georgetown,Lehigh,KICK RETURNS,Mitchell,Black,AVG,0.0
+7226076,10/19/2013,FCS,Georgetown,Lehigh,KICK RETURNS,Mitchell,Black,LONG,0
+7226077,10/19/2013,FCS,Lehigh,Georgetown,RUSHING,Keith,Sherman,ATT,19
+7226078,10/19/2013,FCS,Lehigh,Georgetown,RUSHING,Keith,Sherman,YDS,157
+7226079,10/19/2013,FCS,Lehigh,Georgetown,RUSHING,Keith,Sherman,TD,2
+7226080,10/19/2013,FCS,Lehigh,Georgetown,RUSHING,Keith,Sherman,LONG,48
+7226081,10/19/2013,FCS,Lehigh,Georgetown,RUSHING,Cody,Haupt,ATT,6
+7226082,10/19/2013,FCS,Lehigh,Georgetown,RUSHING,Cody,Haupt,YDS,29
+7226083,10/19/2013,FCS,Lehigh,Georgetown,RUSHING,Cody,Haupt,TD,0
+7226084,10/19/2013,FCS,Lehigh,Georgetown,RUSHING,Cody,Haupt,LONG,16
+7226085,10/19/2013,FCS,Lehigh,Georgetown,RUSHING,Matt,McHale,ATT,4
+7226086,10/19/2013,FCS,Lehigh,Georgetown,RUSHING,Matt,McHale,YDS,27
+7226087,10/19/2013,FCS,Lehigh,Georgetown,RUSHING,Matt,McHale,TD,0
+7226088,10/19/2013,FCS,Lehigh,Georgetown,RUSHING,Matt,McHale,LONG,12
+7226089,10/19/2013,FCS,Lehigh,Georgetown,RUSHING,Sean,Farrell,ATT,4
+7226090,10/19/2013,FCS,Lehigh,Georgetown,RUSHING,Sean,Farrell,YDS,12
+7226091,10/19/2013,FCS,Lehigh,Georgetown,RUSHING,Sean,Farrell,TD,3
+7226092,10/19/2013,FCS,Lehigh,Georgetown,RUSHING,Sean,Farrell,LONG,6
+7226093,10/19/2013,FCS,Lehigh,Georgetown,RUSHING,Rich,Sodeke,ATT,2
+7226094,10/19/2013,FCS,Lehigh,Georgetown,RUSHING,Rich,Sodeke,YDS,5
+7226095,10/19/2013,FCS,Lehigh,Georgetown,RUSHING,Rich,Sodeke,TD,0
+7226096,10/19/2013,FCS,Lehigh,Georgetown,RUSHING,Rich,Sodeke,LONG,3
+7226097,10/19/2013,FCS,Lehigh,Georgetown,RUSHING,Brandon,Bialkowski,ATT,2
+7226098,10/19/2013,FCS,Lehigh,Georgetown,RUSHING,Brandon,Bialkowski,YDS,3
+7226099,10/19/2013,FCS,Lehigh,Georgetown,RUSHING,Brandon,Bialkowski,TD,0
+7226100,10/19/2013,FCS,Lehigh,Georgetown,RUSHING,Brandon,Bialkowski,LONG,3
+7226101,10/19/2013,FCS,Lehigh,Georgetown,RUSHING,Courtney,Jarvis,ATT,1
+7226102,10/19/2013,FCS,Lehigh,Georgetown,RUSHING,Courtney,Jarvis,YDS,3
+7226103,10/19/2013,FCS,Lehigh,Georgetown,RUSHING,Courtney,Jarvis,TD,0
+7226104,10/19/2013,FCS,Lehigh,Georgetown,RUSHING,Courtney,Jarvis,LONG,3
+7226105,10/19/2013,FCS,Lehigh,Georgetown,RUSHING,,Team,ATT,1
+7226106,10/19/2013,FCS,Lehigh,Georgetown,RUSHING,,Team,YDS,-2
+7226107,10/19/2013,FCS,Lehigh,Georgetown,RUSHING,,Team,TD,0
+7226108,10/19/2013,FCS,Lehigh,Georgetown,RUSHING,,Team,LONG,0
+7226109,10/19/2013,FCS,Lehigh,Georgetown,PASSING,Brandon,Bialkowski,CP-ATT-INT,26-36-0
+7226110,10/19/2013,FCS,Lehigh,Georgetown,PASSING,Brandon,Bialkowski,YDS,299
+7226111,10/19/2013,FCS,Lehigh,Georgetown,PASSING,Brandon,Bialkowski,TD,1
+7226112,10/19/2013,FCS,Lehigh,Georgetown,PASSING,Brandon,Bialkowski,LONG,35
+7226113,10/19/2013,FCS,Lehigh,Georgetown,PASSING,Matt,McHale,CP-ATT-INT,2-2-0
+7226114,10/19/2013,FCS,Lehigh,Georgetown,PASSING,Matt,McHale,YDS,-1
+7226115,10/19/2013,FCS,Lehigh,Georgetown,PASSING,Matt,McHale,TD,0
+7226116,10/19/2013,FCS,Lehigh,Georgetown,PASSING,Matt,McHale,LONG,2
+7226117,10/19/2013,FCS,Lehigh,Georgetown,RECEIVING,Josh,Parris,REC,8
+7226118,10/19/2013,FCS,Lehigh,Georgetown,RECEIVING,Josh,Parris,YDS,69
+7226119,10/19/2013,FCS,Lehigh,Georgetown,RECEIVING,Josh,Parris,TD,0
+7226120,10/19/2013,FCS,Lehigh,Georgetown,RECEIVING,Josh,Parris,LONG,17
+7226121,10/19/2013,FCS,Lehigh,Georgetown,RECEIVING,Lee,Kurfis,REC,7
+7226122,10/19/2013,FCS,Lehigh,Georgetown,RECEIVING,Lee,Kurfis,YDS,77
+7226123,10/19/2013,FCS,Lehigh,Georgetown,RECEIVING,Lee,Kurfis,TD,0
+7226124,10/19/2013,FCS,Lehigh,Georgetown,RECEIVING,Lee,Kurfis,LONG,35
+7226125,10/19/2013,FCS,Lehigh,Georgetown,RECEIVING,Tyler,Coyle,REC,4
+7226126,10/19/2013,FCS,Lehigh,Georgetown,RECEIVING,Tyler,Coyle,YDS,71
+7226127,10/19/2013,FCS,Lehigh,Georgetown,RECEIVING,Tyler,Coyle,TD,0
+7226128,10/19/2013,FCS,Lehigh,Georgetown,RECEIVING,Tyler,Coyle,LONG,31
+7226129,10/19/2013,FCS,Lehigh,Georgetown,RECEIVING,Dylan,Colgate,REC,3
+7226130,10/19/2013,FCS,Lehigh,Georgetown,RECEIVING,Dylan,Colgate,YDS,22
+7226131,10/19/2013,FCS,Lehigh,Georgetown,RECEIVING,Dylan,Colgate,TD,0
+7226132,10/19/2013,FCS,Lehigh,Georgetown,RECEIVING,Dylan,Colgate,LONG,9
+7226133,10/19/2013,FCS,Lehigh,Georgetown,RECEIVING,Derek,Gaul,REC,2
+7226134,10/19/2013,FCS,Lehigh,Georgetown,RECEIVING,Derek,Gaul,YDS,11
+7226135,10/19/2013,FCS,Lehigh,Georgetown,RECEIVING,Derek,Gaul,TD,1
+7226136,10/19/2013,FCS,Lehigh,Georgetown,RECEIVING,Derek,Gaul,LONG,7
+7226137,10/19/2013,FCS,Lehigh,Georgetown,RECEIVING,Keith,Sherman,REC,1
+7226138,10/19/2013,FCS,Lehigh,Georgetown,RECEIVING,Keith,Sherman,YDS,27
+7226139,10/19/2013,FCS,Lehigh,Georgetown,RECEIVING,Keith,Sherman,TD,0
+7226140,10/19/2013,FCS,Lehigh,Georgetown,RECEIVING,Keith,Sherman,LONG,27
+7226141,10/19/2013,FCS,Lehigh,Georgetown,RECEIVING,Sean,Farrell,REC,1
+7226142,10/19/2013,FCS,Lehigh,Georgetown,RECEIVING,Sean,Farrell,YDS,22
+7226143,10/19/2013,FCS,Lehigh,Georgetown,RECEIVING,Sean,Farrell,TD,0
+7226144,10/19/2013,FCS,Lehigh,Georgetown,RECEIVING,Sean,Farrell,LONG,22
+7226145,10/19/2013,FCS,Lehigh,Georgetown,RECEIVING,Alex,Buford,REC,1
+7226146,10/19/2013,FCS,Lehigh,Georgetown,RECEIVING,Alex,Buford,YDS,2
+7226147,10/19/2013,FCS,Lehigh,Georgetown,RECEIVING,Alex,Buford,TD,0
+7226148,10/19/2013,FCS,Lehigh,Georgetown,RECEIVING,Alex,Buford,LONG,2
+7226149,10/19/2013,FCS,Lehigh,Georgetown,RECEIVING,Brandon,Short,REC,1
+7226150,10/19/2013,FCS,Lehigh,Georgetown,RECEIVING,Brandon,Short,YDS,-3
+7226151,10/19/2013,FCS,Lehigh,Georgetown,RECEIVING,Brandon,Short,TD,0
+7226152,10/19/2013,FCS,Lehigh,Georgetown,RECEIVING,Brandon,Short,LONG,0
+7226153,10/19/2013,FCS,Lehigh,Georgetown,KICKING,Ryan,Pandy,FG-FGA,1/1
+7226154,10/19/2013,FCS,Lehigh,Georgetown,KICKING,Ryan,Pandy,LONG,41
+7226155,10/19/2013,FCS,Lehigh,Georgetown,KICKING,Ryan,Pandy,XP,6
+7226156,10/19/2013,FCS,Lehigh,Georgetown,KICKING,Ryan,Pandy,PTS,9
+7226157,10/19/2013,FCS,Lehigh,Georgetown,PUNTING,Tim,Divers,NO,2
+7226158,10/19/2013,FCS,Lehigh,Georgetown,PUNTING,Tim,Divers,YDS,90
+7226159,10/19/2013,FCS,Lehigh,Georgetown,PUNTING,Tim,Divers,AVG,45.0
+7226160,10/19/2013,FCS,Lehigh,Georgetown,PUNTING,Tim,Divers,LONG,50
+7226161,10/19/2013,FCS,Lehigh,Georgetown,PUNT RETURNS,Josh,Parris,NO,2
+7226162,10/19/2013,FCS,Lehigh,Georgetown,PUNT RETURNS,Josh,Parris,YDS,51
+7226163,10/19/2013,FCS,Lehigh,Georgetown,PUNT RETURNS,Josh,Parris,AVG,25.5
+7226164,10/19/2013,FCS,Lehigh,Georgetown,PUNT RETURNS,Josh,Parris,LONG,35
+7226165,10/19/2013,FCS,Lehigh,Georgetown,KICK RETURNS,Brandon,Leaks,NO,5
+7226166,10/19/2013,FCS,Lehigh,Georgetown,KICK RETURNS,Brandon,Leaks,YDS,112
+7226167,10/19/2013,FCS,Lehigh,Georgetown,KICK RETURNS,Brandon,Leaks,AVG,22.4
+7226168,10/19/2013,FCS,Lehigh,Georgetown,KICK RETURNS,Brandon,Leaks,LONG,37

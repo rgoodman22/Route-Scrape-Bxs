@@ -1,0 +1,193 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+12051001,10/19/2019,FCS,Rhode Island,Albany (NY),RUSHING,Zoe,BryantJr.,ATT,15
+12051002,10/19/2019,FCS,Rhode Island,Albany (NY),RUSHING,Zoe,BryantJr.,YDS,109
+12051003,10/19/2019,FCS,Rhode Island,Albany (NY),RUSHING,Zoe,BryantJr.,TD,1
+12051004,10/19/2019,FCS,Rhode Island,Albany (NY),RUSHING,Zoe,BryantJr.,LONG,34
+12051005,10/19/2019,FCS,Rhode Island,Albany (NY),RUSHING,Naim,Jones,ATT,13
+12051006,10/19/2019,FCS,Rhode Island,Albany (NY),RUSHING,Naim,Jones,YDS,38
+12051007,10/19/2019,FCS,Rhode Island,Albany (NY),RUSHING,Naim,Jones,TD,0
+12051008,10/19/2019,FCS,Rhode Island,Albany (NY),RUSHING,Naim,Jones,LONG,9
+12051009,10/19/2019,FCS,Rhode Island,Albany (NY),RUSHING,Ahmere,Dorsey,ATT,1
+12051010,10/19/2019,FCS,Rhode Island,Albany (NY),RUSHING,Ahmere,Dorsey,YDS,3
+12051011,10/19/2019,FCS,Rhode Island,Albany (NY),RUSHING,Ahmere,Dorsey,TD,0
+12051012,10/19/2019,FCS,Rhode Island,Albany (NY),RUSHING,Ahmere,Dorsey,LONG,3
+12051013,10/19/2019,FCS,Rhode Island,Albany (NY),RUSHING,,Team,ATT,1
+12051014,10/19/2019,FCS,Rhode Island,Albany (NY),RUSHING,,Team,YDS,-2
+12051015,10/19/2019,FCS,Rhode Island,Albany (NY),RUSHING,,Team,TD,0
+12051016,10/19/2019,FCS,Rhode Island,Albany (NY),RUSHING,,Team,LONG,0
+12051017,10/19/2019,FCS,Rhode Island,Albany (NY),RUSHING,Vito,Priore,ATT,5
+12051018,10/19/2019,FCS,Rhode Island,Albany (NY),RUSHING,Vito,Priore,YDS,-4
+12051019,10/19/2019,FCS,Rhode Island,Albany (NY),RUSHING,Vito,Priore,TD,1
+12051020,10/19/2019,FCS,Rhode Island,Albany (NY),RUSHING,Vito,Priore,LONG,7
+12051021,10/19/2019,FCS,Rhode Island,Albany (NY),PASSING,Vito,Priore,CP-ATT-INT,26-41-1
+12051022,10/19/2019,FCS,Rhode Island,Albany (NY),PASSING,Vito,Priore,YDS,320
+12051023,10/19/2019,FCS,Rhode Island,Albany (NY),PASSING,Vito,Priore,TD,2
+12051024,10/19/2019,FCS,Rhode Island,Albany (NY),PASSING,Vito,Priore,LONG,0
+12051025,10/19/2019,FCS,Rhode Island,Albany (NY),RECEIVING,Aaron,Parker,REC,8
+12051026,10/19/2019,FCS,Rhode Island,Albany (NY),RECEIVING,Aaron,Parker,YDS,92
+12051027,10/19/2019,FCS,Rhode Island,Albany (NY),RECEIVING,Aaron,Parker,TD,1
+12051028,10/19/2019,FCS,Rhode Island,Albany (NY),RECEIVING,Aaron,Parker,LONG,28
+12051029,10/19/2019,FCS,Rhode Island,Albany (NY),RECEIVING,Ahmere,Dorsey,REC,4
+12051030,10/19/2019,FCS,Rhode Island,Albany (NY),RECEIVING,Ahmere,Dorsey,YDS,64
+12051031,10/19/2019,FCS,Rhode Island,Albany (NY),RECEIVING,Ahmere,Dorsey,TD,1
+12051032,10/19/2019,FCS,Rhode Island,Albany (NY),RECEIVING,Ahmere,Dorsey,LONG,40
+12051033,10/19/2019,FCS,Rhode Island,Albany (NY),RECEIVING,Isaiah,Coulter,REC,3
+12051034,10/19/2019,FCS,Rhode Island,Albany (NY),RECEIVING,Isaiah,Coulter,YDS,53
+12051035,10/19/2019,FCS,Rhode Island,Albany (NY),RECEIVING,Isaiah,Coulter,TD,0
+12051036,10/19/2019,FCS,Rhode Island,Albany (NY),RECEIVING,Isaiah,Coulter,LONG,33
+12051037,10/19/2019,FCS,Rhode Island,Albany (NY),RECEIVING,Ivory,Frimpong,REC,4
+12051038,10/19/2019,FCS,Rhode Island,Albany (NY),RECEIVING,Ivory,Frimpong,YDS,53
+12051039,10/19/2019,FCS,Rhode Island,Albany (NY),RECEIVING,Ivory,Frimpong,TD,0
+12051040,10/19/2019,FCS,Rhode Island,Albany (NY),RECEIVING,Ivory,Frimpong,LONG,18
+12051041,10/19/2019,FCS,Rhode Island,Albany (NY),RECEIVING,Caleb,Warren,REC,3
+12051042,10/19/2019,FCS,Rhode Island,Albany (NY),RECEIVING,Caleb,Warren,YDS,42
+12051043,10/19/2019,FCS,Rhode Island,Albany (NY),RECEIVING,Caleb,Warren,TD,0
+12051044,10/19/2019,FCS,Rhode Island,Albany (NY),RECEIVING,Caleb,Warren,LONG,21
+12051045,10/19/2019,FCS,Rhode Island,Albany (NY),RECEIVING,Hunter,Gorgas,REC,1
+12051046,10/19/2019,FCS,Rhode Island,Albany (NY),RECEIVING,Hunter,Gorgas,YDS,9
+12051047,10/19/2019,FCS,Rhode Island,Albany (NY),RECEIVING,Hunter,Gorgas,TD,0
+12051048,10/19/2019,FCS,Rhode Island,Albany (NY),RECEIVING,Hunter,Gorgas,LONG,9
+12051049,10/19/2019,FCS,Rhode Island,Albany (NY),RECEIVING,Naim,Jones,REC,2
+12051050,10/19/2019,FCS,Rhode Island,Albany (NY),RECEIVING,Naim,Jones,YDS,4
+12051051,10/19/2019,FCS,Rhode Island,Albany (NY),RECEIVING,Naim,Jones,TD,0
+12051052,10/19/2019,FCS,Rhode Island,Albany (NY),RECEIVING,Naim,Jones,LONG,3
+12051053,10/19/2019,FCS,Rhode Island,Albany (NY),RECEIVING,Matt,Pires,REC,1
+12051054,10/19/2019,FCS,Rhode Island,Albany (NY),RECEIVING,Matt,Pires,YDS,3
+12051055,10/19/2019,FCS,Rhode Island,Albany (NY),RECEIVING,Matt,Pires,TD,0
+12051056,10/19/2019,FCS,Rhode Island,Albany (NY),RECEIVING,Matt,Pires,LONG,3
+12051057,10/19/2019,FCS,Rhode Island,Albany (NY),KICKING,C.J.,Carrick,FG-FGA,0/1
+12051058,10/19/2019,FCS,Rhode Island,Albany (NY),KICKING,C.J.,Carrick,LONG,0
+12051059,10/19/2019,FCS,Rhode Island,Albany (NY),KICKING,C.J.,Carrick,XP,4
+12051060,10/19/2019,FCS,Rhode Island,Albany (NY),KICKING,C.J.,Carrick,PTS,4
+12051061,10/19/2019,FCS,Rhode Island,Albany (NY),PUNTING,Davey,Schaum-Bartocci,NO,2
+12051062,10/19/2019,FCS,Rhode Island,Albany (NY),PUNTING,Davey,Schaum-Bartocci,YDS,62
+12051063,10/19/2019,FCS,Rhode Island,Albany (NY),PUNTING,Davey,Schaum-Bartocci,AVG,31.0
+12051064,10/19/2019,FCS,Rhode Island,Albany (NY),PUNTING,Davey,Schaum-Bartocci,LONG,39
+12051065,10/19/2019,FCS,Rhode Island,Albany (NY),PUNT RETURNS,Ahmere,Dorsey,NO,1
+12051066,10/19/2019,FCS,Rhode Island,Albany (NY),PUNT RETURNS,Ahmere,Dorsey,YDS,22
+12051067,10/19/2019,FCS,Rhode Island,Albany (NY),PUNT RETURNS,Ahmere,Dorsey,AVG,22.0
+12051068,10/19/2019,FCS,Rhode Island,Albany (NY),PUNT RETURNS,Ahmere,Dorsey,LONG,22
+12051069,10/19/2019,FCS,Rhode Island,Albany (NY),KICK RETURNS,Ahmere,Dorsey,NO,3
+12051070,10/19/2019,FCS,Rhode Island,Albany (NY),KICK RETURNS,Ahmere,Dorsey,YDS,107
+12051071,10/19/2019,FCS,Rhode Island,Albany (NY),KICK RETURNS,Ahmere,Dorsey,AVG,35.7
+12051072,10/19/2019,FCS,Rhode Island,Albany (NY),KICK RETURNS,Ahmere,Dorsey,LONG,48
+12051073,10/19/2019,FCS,Rhode Island,Albany (NY),KICK RETURNS,Matt,Pires,NO,3
+12051074,10/19/2019,FCS,Rhode Island,Albany (NY),KICK RETURNS,Matt,Pires,YDS,22
+12051075,10/19/2019,FCS,Rhode Island,Albany (NY),KICK RETURNS,Matt,Pires,AVG,7.3
+12051076,10/19/2019,FCS,Rhode Island,Albany (NY),KICK RETURNS,Matt,Pires,LONG,13
+12051077,10/19/2019,FCS,Rhode Island,Albany (NY),DEFENSE,Brandon,Ginnetti,TOT,0
+12051078,10/19/2019,FCS,Rhode Island,Albany (NY),DEFENSE,Brandon,Ginnetti,SOLO,0
+12051079,10/19/2019,FCS,Rhode Island,Albany (NY),DEFENSE,Brandon,Ginnetti,SACKS,0.5
+12051080,10/19/2019,FCS,Rhode Island,Albany (NY),DEFENSE,Brandon,Ginnetti,TFL,0
+12051081,10/19/2019,FCS,Rhode Island,Albany (NY),DEFENSE,Brandon,Ginnetti,INT,0
+12051082,10/19/2019,FCS,Rhode Island,Albany (NY),DEFENSE,Brandon,Ginnetti,FF,0
+12051083,10/19/2019,FCS,Rhode Island,Albany (NY),DEFENSE,Brandon,Ginnetti,FR,0
+12051084,10/19/2019,FCS,Rhode Island,Albany (NY),DEFENSE,Jim,Philistin,TOT,0
+12051085,10/19/2019,FCS,Rhode Island,Albany (NY),DEFENSE,Jim,Philistin,SOLO,0
+12051086,10/19/2019,FCS,Rhode Island,Albany (NY),DEFENSE,Jim,Philistin,SACKS,0.5
+12051087,10/19/2019,FCS,Rhode Island,Albany (NY),DEFENSE,Jim,Philistin,TFL,0
+12051088,10/19/2019,FCS,Rhode Island,Albany (NY),DEFENSE,Jim,Philistin,INT,0
+12051089,10/19/2019,FCS,Rhode Island,Albany (NY),DEFENSE,Jim,Philistin,FF,0
+12051090,10/19/2019,FCS,Rhode Island,Albany (NY),DEFENSE,Jim,Philistin,FR,0
+12051091,10/19/2019,FCS,Albany (NY),Rhode Island,RUSHING,Karl,Mofor,ATT,19
+12051092,10/19/2019,FCS,Albany (NY),Rhode Island,RUSHING,Karl,Mofor,YDS,101
+12051093,10/19/2019,FCS,Albany (NY),Rhode Island,RUSHING,Karl,Mofor,TD,0
+12051094,10/19/2019,FCS,Albany (NY),Rhode Island,RUSHING,Karl,Mofor,LONG,32
+12051095,10/19/2019,FCS,Albany (NY),Rhode Island,RUSHING,Alex,James,ATT,4
+12051096,10/19/2019,FCS,Albany (NY),Rhode Island,RUSHING,Alex,James,YDS,20
+12051097,10/19/2019,FCS,Albany (NY),Rhode Island,RUSHING,Alex,James,TD,0
+12051098,10/19/2019,FCS,Albany (NY),Rhode Island,RUSHING,Alex,James,LONG,11
+12051099,10/19/2019,FCS,Albany (NY),Rhode Island,RUSHING,Jeff,Undercuffler,ATT,3
+12051100,10/19/2019,FCS,Albany (NY),Rhode Island,RUSHING,Jeff,Undercuffler,YDS,11
+12051101,10/19/2019,FCS,Albany (NY),Rhode Island,RUSHING,Jeff,Undercuffler,TD,0
+12051102,10/19/2019,FCS,Albany (NY),Rhode Island,RUSHING,Jeff,Undercuffler,LONG,11
+12051103,10/19/2019,FCS,Albany (NY),Rhode Island,RUSHING,,Team,ATT,3
+12051104,10/19/2019,FCS,Albany (NY),Rhode Island,RUSHING,,Team,YDS,-6
+12051105,10/19/2019,FCS,Albany (NY),Rhode Island,RUSHING,,Team,TD,0
+12051106,10/19/2019,FCS,Albany (NY),Rhode Island,RUSHING,,Team,LONG,0
+12051107,10/19/2019,FCS,Albany (NY),Rhode Island,PASSING,Jeff,Undercuffler,CP-ATT-INT,10-26-0
+12051108,10/19/2019,FCS,Albany (NY),Rhode Island,PASSING,Jeff,Undercuffler,YDS,140
+12051109,10/19/2019,FCS,Albany (NY),Rhode Island,PASSING,Jeff,Undercuffler,TD,4
+12051110,10/19/2019,FCS,Albany (NY),Rhode Island,PASSING,Jeff,Undercuffler,LONG,0
+12051111,10/19/2019,FCS,Albany (NY),Rhode Island,RECEIVING,Juwan,Green,REC,5
+12051112,10/19/2019,FCS,Albany (NY),Rhode Island,RECEIVING,Juwan,Green,YDS,91
+12051113,10/19/2019,FCS,Albany (NY),Rhode Island,RECEIVING,Juwan,Green,TD,2
+12051114,10/19/2019,FCS,Albany (NY),Rhode Island,RECEIVING,Juwan,Green,LONG,62
+12051115,10/19/2019,FCS,Albany (NY),Rhode Island,RECEIVING,LJ,Wesneski,REC,2
+12051116,10/19/2019,FCS,Albany (NY),Rhode Island,RECEIVING,LJ,Wesneski,YDS,27
+12051117,10/19/2019,FCS,Albany (NY),Rhode Island,RECEIVING,LJ,Wesneski,TD,2
+12051118,10/19/2019,FCS,Albany (NY),Rhode Island,RECEIVING,LJ,Wesneski,LONG,14
+12051119,10/19/2019,FCS,Albany (NY),Rhode Island,RECEIVING,Jerah,Reeves,REC,2
+12051120,10/19/2019,FCS,Albany (NY),Rhode Island,RECEIVING,Jerah,Reeves,YDS,16
+12051121,10/19/2019,FCS,Albany (NY),Rhode Island,RECEIVING,Jerah,Reeves,TD,0
+12051122,10/19/2019,FCS,Albany (NY),Rhode Island,RECEIVING,Jerah,Reeves,LONG,14
+12051123,10/19/2019,FCS,Albany (NY),Rhode Island,RECEIVING,Donovan,McDonald,REC,1
+12051124,10/19/2019,FCS,Albany (NY),Rhode Island,RECEIVING,Donovan,McDonald,YDS,6
+12051125,10/19/2019,FCS,Albany (NY),Rhode Island,RECEIVING,Donovan,McDonald,TD,0
+12051126,10/19/2019,FCS,Albany (NY),Rhode Island,RECEIVING,Donovan,McDonald,LONG,6
+12051127,10/19/2019,FCS,Albany (NY),Rhode Island,KICKING,Dylan,Burns,FG-FGA,0/0
+12051128,10/19/2019,FCS,Albany (NY),Rhode Island,KICKING,Dylan,Burns,LONG,-
+12051129,10/19/2019,FCS,Albany (NY),Rhode Island,KICKING,Dylan,Burns,XP,3
+12051130,10/19/2019,FCS,Albany (NY),Rhode Island,KICKING,Dylan,Burns,PTS,3
+12051131,10/19/2019,FCS,Albany (NY),Rhode Island,PUNTING,Joey,Mitchell,NO,7
+12051132,10/19/2019,FCS,Albany (NY),Rhode Island,PUNTING,Joey,Mitchell,YDS,248
+12051133,10/19/2019,FCS,Albany (NY),Rhode Island,PUNTING,Joey,Mitchell,AVG,35.4
+12051134,10/19/2019,FCS,Albany (NY),Rhode Island,PUNTING,Joey,Mitchell,LONG,39
+12051135,10/19/2019,FCS,Albany (NY),Rhode Island,PUNT RETURNS,Donovan,McDonald,NO,1
+12051136,10/19/2019,FCS,Albany (NY),Rhode Island,PUNT RETURNS,Donovan,McDonald,YDS,9
+12051137,10/19/2019,FCS,Albany (NY),Rhode Island,PUNT RETURNS,Donovan,McDonald,AVG,9.0
+12051138,10/19/2019,FCS,Albany (NY),Rhode Island,PUNT RETURNS,Donovan,McDonald,LONG,9
+12051139,10/19/2019,FCS,Albany (NY),Rhode Island,KICK RETURNS,Donovan,McDonald,NO,2
+12051140,10/19/2019,FCS,Albany (NY),Rhode Island,KICK RETURNS,Donovan,McDonald,YDS,49
+12051141,10/19/2019,FCS,Albany (NY),Rhode Island,KICK RETURNS,Donovan,McDonald,AVG,24.5
+12051142,10/19/2019,FCS,Albany (NY),Rhode Island,KICK RETURNS,Donovan,McDonald,LONG,30
+12051143,10/19/2019,FCS,Albany (NY),Rhode Island,KICK RETURNS,Alex,James,NO,1
+12051144,10/19/2019,FCS,Albany (NY),Rhode Island,KICK RETURNS,Alex,James,YDS,30
+12051145,10/19/2019,FCS,Albany (NY),Rhode Island,KICK RETURNS,Alex,James,AVG,30.0
+12051146,10/19/2019,FCS,Albany (NY),Rhode Island,KICK RETURNS,Alex,James,LONG,30
+12051147,10/19/2019,FCS,Albany (NY),Rhode Island,KICK RETURNS,Christian,Lewis,NO,1
+12051148,10/19/2019,FCS,Albany (NY),Rhode Island,KICK RETURNS,Christian,Lewis,YDS,6
+12051149,10/19/2019,FCS,Albany (NY),Rhode Island,KICK RETURNS,Christian,Lewis,AVG,6.0
+12051150,10/19/2019,FCS,Albany (NY),Rhode Island,KICK RETURNS,Christian,Lewis,LONG,6
+12051151,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Nick,Griffin,TOT,0
+12051152,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Nick,Griffin,SOLO,0
+12051153,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Nick,Griffin,SACKS,1
+12051154,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Nick,Griffin,TFL,0
+12051155,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Nick,Griffin,INT,0
+12051156,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Nick,Griffin,FF,0
+12051157,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Nick,Griffin,FR,1
+12051158,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Levi,Metheny,TOT,0
+12051159,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Levi,Metheny,SOLO,0
+12051160,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Levi,Metheny,SACKS,0
+12051161,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Levi,Metheny,TFL,0
+12051162,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Levi,Metheny,INT,0
+12051163,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Levi,Metheny,FF,1
+12051164,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Levi,Metheny,FR,0
+12051165,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Danny,Damico,TOT,0
+12051166,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Danny,Damico,SOLO,0
+12051167,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Danny,Damico,SACKS,0
+12051168,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Danny,Damico,TFL,0
+12051169,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Danny,Damico,INT,0
+12051170,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Danny,Damico,FF,0
+12051171,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Danny,Damico,FR,1
+12051172,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Eli,Mencer,TOT,0
+12051173,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Eli,Mencer,SOLO,0
+12051174,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Eli,Mencer,SACKS,1
+12051175,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Eli,Mencer,TFL,0
+12051176,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Eli,Mencer,INT,0
+12051177,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Eli,Mencer,FF,1
+12051178,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Eli,Mencer,FR,0
+12051179,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Alex,Badine,TOT,0
+12051180,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Alex,Badine,SOLO,0
+12051181,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Alex,Badine,SACKS,0
+12051182,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Alex,Badine,TFL,0
+12051183,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Alex,Badine,INT,0
+12051184,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Alex,Badine,FF,0
+12051185,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Alex,Badine,FR,1
+12051186,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Tyler,Carswell,TOT,0
+12051187,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Tyler,Carswell,SOLO,0
+12051188,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Tyler,Carswell,SACKS,0
+12051189,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Tyler,Carswell,TFL,0
+12051190,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Tyler,Carswell,INT,1
+12051191,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Tyler,Carswell,FF,0
+12051192,10/19/2019,FCS,Albany (NY),Rhode Island,DEFENSE,Tyler,Carswell,FR,0

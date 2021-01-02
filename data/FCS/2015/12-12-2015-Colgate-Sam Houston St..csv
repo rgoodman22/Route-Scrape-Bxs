@@ -1,0 +1,157 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9201001,12/12/2015,FCS,Colgate,Sam Houston St.,RUSHING,Demetrius,Russell,ATT,15
+9201002,12/12/2015,FCS,Colgate,Sam Houston St.,RUSHING,Demetrius,Russell,YDS,77
+9201003,12/12/2015,FCS,Colgate,Sam Houston St.,RUSHING,Demetrius,Russell,TD,0
+9201004,12/12/2015,FCS,Colgate,Sam Houston St.,RUSHING,Demetrius,Russell,LONG,15
+9201005,12/12/2015,FCS,Colgate,Sam Houston St.,RUSHING,Jake,Melville,ATT,13
+9201006,12/12/2015,FCS,Colgate,Sam Houston St.,RUSHING,Jake,Melville,YDS,73
+9201007,12/12/2015,FCS,Colgate,Sam Houston St.,RUSHING,Jake,Melville,TD,1
+9201008,12/12/2015,FCS,Colgate,Sam Houston St.,RUSHING,Jake,Melville,LONG,27
+9201009,12/12/2015,FCS,Colgate,Sam Houston St.,RUSHING,James,Holland,ATT,11
+9201010,12/12/2015,FCS,Colgate,Sam Houston St.,RUSHING,James,Holland,YDS,35
+9201011,12/12/2015,FCS,Colgate,Sam Houston St.,RUSHING,James,Holland,TD,1
+9201012,12/12/2015,FCS,Colgate,Sam Houston St.,RUSHING,James,Holland,LONG,5
+9201013,12/12/2015,FCS,Colgate,Sam Houston St.,RUSHING,John,WilkinsIV,ATT,2
+9201014,12/12/2015,FCS,Colgate,Sam Houston St.,RUSHING,John,WilkinsIV,YDS,8
+9201015,12/12/2015,FCS,Colgate,Sam Houston St.,RUSHING,John,WilkinsIV,TD,0
+9201016,12/12/2015,FCS,Colgate,Sam Houston St.,RUSHING,John,WilkinsIV,LONG,6
+9201017,12/12/2015,FCS,Colgate,Sam Houston St.,RUSHING,Dillon,Deluliis,ATT,1
+9201018,12/12/2015,FCS,Colgate,Sam Houston St.,RUSHING,Dillon,Deluliis,YDS,2
+9201019,12/12/2015,FCS,Colgate,Sam Houston St.,RUSHING,Dillon,Deluliis,TD,0
+9201020,12/12/2015,FCS,Colgate,Sam Houston St.,RUSHING,Dillon,Deluliis,LONG,2
+9201021,12/12/2015,FCS,Colgate,Sam Houston St.,RUSHING,John,Maddaluna,ATT,1
+9201022,12/12/2015,FCS,Colgate,Sam Houston St.,RUSHING,John,Maddaluna,YDS,-1
+9201023,12/12/2015,FCS,Colgate,Sam Houston St.,RUSHING,John,Maddaluna,TD,0
+9201024,12/12/2015,FCS,Colgate,Sam Houston St.,RUSHING,John,Maddaluna,LONG,-1
+9201025,12/12/2015,FCS,Colgate,Sam Houston St.,RUSHING,Bret,Mooney,ATT,1
+9201026,12/12/2015,FCS,Colgate,Sam Houston St.,RUSHING,Bret,Mooney,YDS,-9
+9201027,12/12/2015,FCS,Colgate,Sam Houston St.,RUSHING,Bret,Mooney,TD,0
+9201028,12/12/2015,FCS,Colgate,Sam Houston St.,RUSHING,Bret,Mooney,LONG,-9
+9201029,12/12/2015,FCS,Colgate,Sam Houston St.,PASSING,Jake,Melville,CP-ATT-INT,12-25-0
+9201030,12/12/2015,FCS,Colgate,Sam Houston St.,PASSING,Jake,Melville,YDS,142
+9201031,12/12/2015,FCS,Colgate,Sam Houston St.,PASSING,Jake,Melville,TD,1
+9201032,12/12/2015,FCS,Colgate,Sam Houston St.,PASSING,Jake,Melville,LONG,40
+9201033,12/12/2015,FCS,Colgate,Sam Houston St.,PASSING,Bret,Mooney,CP-ATT-INT,0-0-0
+9201034,12/12/2015,FCS,Colgate,Sam Houston St.,PASSING,Bret,Mooney,YDS,0
+9201035,12/12/2015,FCS,Colgate,Sam Houston St.,PASSING,Bret,Mooney,TD,0
+9201036,12/12/2015,FCS,Colgate,Sam Houston St.,PASSING,Bret,Mooney,LONG,0
+9201037,12/12/2015,FCS,Colgate,Sam Houston St.,RECEIVING,John,Maddaluna,REC,6
+9201038,12/12/2015,FCS,Colgate,Sam Houston St.,RECEIVING,John,Maddaluna,YDS,56
+9201039,12/12/2015,FCS,Colgate,Sam Houston St.,RECEIVING,John,Maddaluna,TD,0
+9201040,12/12/2015,FCS,Colgate,Sam Houston St.,RECEIVING,John,Maddaluna,LONG,28
+9201041,12/12/2015,FCS,Colgate,Sam Houston St.,RECEIVING,Owen,Rockett,REC,1
+9201042,12/12/2015,FCS,Colgate,Sam Houston St.,RECEIVING,Owen,Rockett,YDS,40
+9201043,12/12/2015,FCS,Colgate,Sam Houston St.,RECEIVING,Owen,Rockett,TD,0
+9201044,12/12/2015,FCS,Colgate,Sam Houston St.,RECEIVING,Owen,Rockett,LONG,40
+9201045,12/12/2015,FCS,Colgate,Sam Houston St.,RECEIVING,Alex,Greenawalt,REC,2
+9201046,12/12/2015,FCS,Colgate,Sam Houston St.,RECEIVING,Alex,Greenawalt,YDS,37
+9201047,12/12/2015,FCS,Colgate,Sam Houston St.,RECEIVING,Alex,Greenawalt,TD,1
+9201048,12/12/2015,FCS,Colgate,Sam Houston St.,RECEIVING,Alex,Greenawalt,LONG,31
+9201049,12/12/2015,FCS,Colgate,Sam Houston St.,RECEIVING,Thomas,Ives,REC,1
+9201050,12/12/2015,FCS,Colgate,Sam Houston St.,RECEIVING,Thomas,Ives,YDS,7
+9201051,12/12/2015,FCS,Colgate,Sam Houston St.,RECEIVING,Thomas,Ives,TD,0
+9201052,12/12/2015,FCS,Colgate,Sam Houston St.,RECEIVING,Thomas,Ives,LONG,7
+9201053,12/12/2015,FCS,Colgate,Sam Houston St.,RECEIVING,James,Holland,REC,2
+9201054,12/12/2015,FCS,Colgate,Sam Houston St.,RECEIVING,James,Holland,YDS,2
+9201055,12/12/2015,FCS,Colgate,Sam Houston St.,RECEIVING,James,Holland,TD,0
+9201056,12/12/2015,FCS,Colgate,Sam Houston St.,RECEIVING,James,Holland,LONG,6
+9201057,12/12/2015,FCS,Colgate,Sam Houston St.,KICKING,Jonah,Bowman,FG-FGA,0/0
+9201058,12/12/2015,FCS,Colgate,Sam Houston St.,KICKING,Jonah,Bowman,LONG,-
+9201059,12/12/2015,FCS,Colgate,Sam Houston St.,KICKING,Jonah,Bowman,XP,3
+9201060,12/12/2015,FCS,Colgate,Sam Houston St.,KICKING,Jonah,Bowman,PTS,3
+9201061,12/12/2015,FCS,Colgate,Sam Houston St.,PUNTING,Nikko,Armiento,NO,6
+9201062,12/12/2015,FCS,Colgate,Sam Houston St.,PUNTING,Nikko,Armiento,YDS,282
+9201063,12/12/2015,FCS,Colgate,Sam Houston St.,PUNTING,Nikko,Armiento,AVG,47.0
+9201064,12/12/2015,FCS,Colgate,Sam Houston St.,PUNTING,Nikko,Armiento,LONG,63
+9201065,12/12/2015,FCS,Colgate,Sam Houston St.,PUNT RETURNS,Christian,Hardegree,NO,1
+9201066,12/12/2015,FCS,Colgate,Sam Houston St.,PUNT RETURNS,Christian,Hardegree,YDS,-3
+9201067,12/12/2015,FCS,Colgate,Sam Houston St.,PUNT RETURNS,Christian,Hardegree,AVG,-
+9201068,12/12/2015,FCS,Colgate,Sam Houston St.,PUNT RETURNS,Christian,Hardegree,LONG,0
+9201069,12/12/2015,FCS,Colgate,Sam Houston St.,KICK RETURNS,John,Maddaluna,NO,5
+9201070,12/12/2015,FCS,Colgate,Sam Houston St.,KICK RETURNS,John,Maddaluna,YDS,105
+9201071,12/12/2015,FCS,Colgate,Sam Houston St.,KICK RETURNS,John,Maddaluna,AVG,21.0
+9201072,12/12/2015,FCS,Colgate,Sam Houston St.,KICK RETURNS,John,Maddaluna,LONG,31
+9201073,12/12/2015,FCS,Sam Houston St.,Colgate,RUSHING,Cory,Avery,ATT,25
+9201074,12/12/2015,FCS,Sam Houston St.,Colgate,RUSHING,Cory,Avery,YDS,197
+9201075,12/12/2015,FCS,Sam Houston St.,Colgate,RUSHING,Cory,Avery,TD,1
+9201076,12/12/2015,FCS,Sam Houston St.,Colgate,RUSHING,Cory,Avery,LONG,30
+9201077,12/12/2015,FCS,Sam Houston St.,Colgate,RUSHING,Jalen,Overstreet,ATT,9
+9201078,12/12/2015,FCS,Sam Houston St.,Colgate,RUSHING,Jalen,Overstreet,YDS,39
+9201079,12/12/2015,FCS,Sam Houston St.,Colgate,RUSHING,Jalen,Overstreet,TD,0
+9201080,12/12/2015,FCS,Sam Houston St.,Colgate,RUSHING,Jalen,Overstreet,LONG,6
+9201081,12/12/2015,FCS,Sam Houston St.,Colgate,RUSHING,Ridgeway,Frank,ATT,4
+9201082,12/12/2015,FCS,Sam Houston St.,Colgate,RUSHING,Ridgeway,Frank,YDS,18
+9201083,12/12/2015,FCS,Sam Houston St.,Colgate,RUSHING,Ridgeway,Frank,TD,0
+9201084,12/12/2015,FCS,Sam Houston St.,Colgate,RUSHING,Ridgeway,Frank,LONG,14
+9201085,12/12/2015,FCS,Sam Houston St.,Colgate,RUSHING,Remus,Bulmer,ATT,4
+9201086,12/12/2015,FCS,Sam Houston St.,Colgate,RUSHING,Remus,Bulmer,YDS,15
+9201087,12/12/2015,FCS,Sam Houston St.,Colgate,RUSHING,Remus,Bulmer,TD,0
+9201088,12/12/2015,FCS,Sam Houston St.,Colgate,RUSHING,Remus,Bulmer,LONG,7
+9201089,12/12/2015,FCS,Sam Houston St.,Colgate,RUSHING,Don,KingIII,ATT,1
+9201090,12/12/2015,FCS,Sam Houston St.,Colgate,RUSHING,Don,KingIII,YDS,4
+9201091,12/12/2015,FCS,Sam Houston St.,Colgate,RUSHING,Don,KingIII,TD,0
+9201092,12/12/2015,FCS,Sam Houston St.,Colgate,RUSHING,Don,KingIII,LONG,4
+9201093,12/12/2015,FCS,Sam Houston St.,Colgate,RUSHING,Jeremiah,Briscoe,ATT,2
+9201094,12/12/2015,FCS,Sam Houston St.,Colgate,RUSHING,Jeremiah,Briscoe,YDS,-3
+9201095,12/12/2015,FCS,Sam Houston St.,Colgate,RUSHING,Jeremiah,Briscoe,TD,0
+9201096,12/12/2015,FCS,Sam Houston St.,Colgate,RUSHING,Jeremiah,Briscoe,LONG,1
+9201097,12/12/2015,FCS,Sam Houston St.,Colgate,PASSING,Jeremiah,Briscoe,CP-ATT-INT,28-42-0
+9201098,12/12/2015,FCS,Sam Houston St.,Colgate,PASSING,Jeremiah,Briscoe,YDS,358
+9201099,12/12/2015,FCS,Sam Houston St.,Colgate,PASSING,Jeremiah,Briscoe,TD,4
+9201100,12/12/2015,FCS,Sam Houston St.,Colgate,PASSING,Jeremiah,Briscoe,LONG,40
+9201101,12/12/2015,FCS,Sam Houston St.,Colgate,PASSING,Jalen,Overstreet,CP-ATT-INT,1-1-0
+9201102,12/12/2015,FCS,Sam Houston St.,Colgate,PASSING,Jalen,Overstreet,YDS,25
+9201103,12/12/2015,FCS,Sam Houston St.,Colgate,PASSING,Jalen,Overstreet,TD,1
+9201104,12/12/2015,FCS,Sam Houston St.,Colgate,PASSING,Jalen,Overstreet,LONG,25
+9201105,12/12/2015,FCS,Sam Houston St.,Colgate,RECEIVING,Yedidiah,Louis,REC,9
+9201106,12/12/2015,FCS,Sam Houston St.,Colgate,RECEIVING,Yedidiah,Louis,YDS,119
+9201107,12/12/2015,FCS,Sam Houston St.,Colgate,RECEIVING,Yedidiah,Louis,TD,1
+9201108,12/12/2015,FCS,Sam Houston St.,Colgate,RECEIVING,Yedidiah,Louis,LONG,40
+9201109,12/12/2015,FCS,Sam Houston St.,Colgate,RECEIVING,LaDarius,Brown,REC,8
+9201110,12/12/2015,FCS,Sam Houston St.,Colgate,RECEIVING,LaDarius,Brown,YDS,86
+9201111,12/12/2015,FCS,Sam Houston St.,Colgate,RECEIVING,LaDarius,Brown,TD,2
+9201112,12/12/2015,FCS,Sam Houston St.,Colgate,RECEIVING,LaDarius,Brown,LONG,25
+9201113,12/12/2015,FCS,Sam Houston St.,Colgate,RECEIVING,Gerald,Thomas,REC,5
+9201114,12/12/2015,FCS,Sam Houston St.,Colgate,RECEIVING,Gerald,Thomas,YDS,78
+9201115,12/12/2015,FCS,Sam Houston St.,Colgate,RECEIVING,Gerald,Thomas,TD,1
+9201116,12/12/2015,FCS,Sam Houston St.,Colgate,RECEIVING,Gerald,Thomas,LONG,32
+9201117,12/12/2015,FCS,Sam Houston St.,Colgate,RECEIVING,Davion,Davis,REC,4
+9201118,12/12/2015,FCS,Sam Houston St.,Colgate,RECEIVING,Davion,Davis,YDS,64
+9201119,12/12/2015,FCS,Sam Houston St.,Colgate,RECEIVING,Davion,Davis,TD,1
+9201120,12/12/2015,FCS,Sam Houston St.,Colgate,RECEIVING,Davion,Davis,LONG,26
+9201121,12/12/2015,FCS,Sam Houston St.,Colgate,RECEIVING,Cory,Avery,REC,2
+9201122,12/12/2015,FCS,Sam Houston St.,Colgate,RECEIVING,Cory,Avery,YDS,27
+9201123,12/12/2015,FCS,Sam Houston St.,Colgate,RECEIVING,Cory,Avery,TD,0
+9201124,12/12/2015,FCS,Sam Houston St.,Colgate,RECEIVING,Cory,Avery,LONG,17
+9201125,12/12/2015,FCS,Sam Houston St.,Colgate,RECEIVING,Tyler,Scott,REC,1
+9201126,12/12/2015,FCS,Sam Houston St.,Colgate,RECEIVING,Tyler,Scott,YDS,9
+9201127,12/12/2015,FCS,Sam Houston St.,Colgate,RECEIVING,Tyler,Scott,TD,0
+9201128,12/12/2015,FCS,Sam Houston St.,Colgate,RECEIVING,Tyler,Scott,LONG,9
+9201129,12/12/2015,FCS,Sam Houston St.,Colgate,KICKING,Tre,Honshtein,FG-FGA,2/2
+9201130,12/12/2015,FCS,Sam Houston St.,Colgate,KICKING,Tre,Honshtein,LONG,23
+9201131,12/12/2015,FCS,Sam Houston St.,Colgate,KICKING,Tre,Honshtein,XP,6
+9201132,12/12/2015,FCS,Sam Houston St.,Colgate,KICKING,Tre,Honshtein,PTS,12
+9201133,12/12/2015,FCS,Sam Houston St.,Colgate,PUNTING,Lachlan,Edwards,NO,2
+9201134,12/12/2015,FCS,Sam Houston St.,Colgate,PUNTING,Lachlan,Edwards,YDS,92
+9201135,12/12/2015,FCS,Sam Houston St.,Colgate,PUNTING,Lachlan,Edwards,AVG,46.0
+9201136,12/12/2015,FCS,Sam Houston St.,Colgate,PUNTING,Lachlan,Edwards,LONG,47
+9201137,12/12/2015,FCS,Sam Houston St.,Colgate,PUNT RETURNS,Yedidiah,Louis,NO,1
+9201138,12/12/2015,FCS,Sam Houston St.,Colgate,PUNT RETURNS,Yedidiah,Louis,YDS,5
+9201139,12/12/2015,FCS,Sam Houston St.,Colgate,PUNT RETURNS,Yedidiah,Louis,AVG,5.0
+9201140,12/12/2015,FCS,Sam Houston St.,Colgate,PUNT RETURNS,Yedidiah,Louis,LONG,5
+9201141,12/12/2015,FCS,Sam Houston St.,Colgate,PUNT RETURNS,Gerald,Thomas,NO,1
+9201142,12/12/2015,FCS,Sam Houston St.,Colgate,PUNT RETURNS,Gerald,Thomas,YDS,-2
+9201143,12/12/2015,FCS,Sam Houston St.,Colgate,PUNT RETURNS,Gerald,Thomas,AVG,-
+9201144,12/12/2015,FCS,Sam Houston St.,Colgate,PUNT RETURNS,Gerald,Thomas,LONG,0
+9201145,12/12/2015,FCS,Sam Houston St.,Colgate,KICK RETURNS,Tyler,Scott,NO,1
+9201146,12/12/2015,FCS,Sam Houston St.,Colgate,KICK RETURNS,Tyler,Scott,YDS,33
+9201147,12/12/2015,FCS,Sam Houston St.,Colgate,KICK RETURNS,Tyler,Scott,AVG,33.0
+9201148,12/12/2015,FCS,Sam Houston St.,Colgate,KICK RETURNS,Tyler,Scott,LONG,33
+9201149,12/12/2015,FCS,Sam Houston St.,Colgate,KICK RETURNS,Ridgeway,Frank,NO,1
+9201150,12/12/2015,FCS,Sam Houston St.,Colgate,KICK RETURNS,Ridgeway,Frank,YDS,18
+9201151,12/12/2015,FCS,Sam Houston St.,Colgate,KICK RETURNS,Ridgeway,Frank,AVG,18.0
+9201152,12/12/2015,FCS,Sam Houston St.,Colgate,KICK RETURNS,Ridgeway,Frank,LONG,18
+9201153,12/12/2015,FCS,Sam Houston St.,Colgate,KICK RETURNS,Yedidiah,Louis,NO,1
+9201154,12/12/2015,FCS,Sam Houston St.,Colgate,KICK RETURNS,Yedidiah,Louis,YDS,14
+9201155,12/12/2015,FCS,Sam Houston St.,Colgate,KICK RETURNS,Yedidiah,Louis,AVG,14.0
+9201156,12/12/2015,FCS,Sam Houston St.,Colgate,KICK RETURNS,Yedidiah,Louis,LONG,14

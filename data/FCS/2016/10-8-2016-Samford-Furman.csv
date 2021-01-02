@@ -1,0 +1,157 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9593001,10/8/2016,FCS,Samford,Furman,RUSHING,Justin,Curry,ATT,24
+9593002,10/8/2016,FCS,Samford,Furman,RUSHING,Justin,Curry,YDS,95
+9593003,10/8/2016,FCS,Samford,Furman,RUSHING,Justin,Curry,TD,1
+9593004,10/8/2016,FCS,Samford,Furman,RUSHING,Justin,Curry,LONG,16
+9593005,10/8/2016,FCS,Samford,Furman,RUSHING,Devlin,Hodges,ATT,10
+9593006,10/8/2016,FCS,Samford,Furman,RUSHING,Devlin,Hodges,YDS,8
+9593007,10/8/2016,FCS,Samford,Furman,RUSHING,Devlin,Hodges,TD,1
+9593008,10/8/2016,FCS,Samford,Furman,RUSHING,Devlin,Hodges,LONG,10
+9593009,10/8/2016,FCS,Samford,Furman,RUSHING,Denzel,Williams,ATT,3
+9593010,10/8/2016,FCS,Samford,Furman,RUSHING,Denzel,Williams,YDS,3
+9593011,10/8/2016,FCS,Samford,Furman,RUSHING,Denzel,Williams,TD,0
+9593012,10/8/2016,FCS,Samford,Furman,RUSHING,Denzel,Williams,LONG,4
+9593013,10/8/2016,FCS,Samford,Furman,RUSHING,K'rondis,Larry,ATT,1
+9593014,10/8/2016,FCS,Samford,Furman,RUSHING,K'rondis,Larry,YDS,0
+9593015,10/8/2016,FCS,Samford,Furman,RUSHING,K'rondis,Larry,TD,0
+9593016,10/8/2016,FCS,Samford,Furman,RUSHING,K'rondis,Larry,LONG,0
+9593017,10/8/2016,FCS,Samford,Furman,PASSING,Devlin,Hodges,CP-ATT-INT,27-38-1
+9593018,10/8/2016,FCS,Samford,Furman,PASSING,Devlin,Hodges,YDS,411
+9593019,10/8/2016,FCS,Samford,Furman,PASSING,Devlin,Hodges,TD,3
+9593020,10/8/2016,FCS,Samford,Furman,PASSING,Devlin,Hodges,LONG,63
+9593021,10/8/2016,FCS,Samford,Furman,RECEIVING,Karel,Hamilton,REC,7
+9593022,10/8/2016,FCS,Samford,Furman,RECEIVING,Karel,Hamilton,YDS,168
+9593023,10/8/2016,FCS,Samford,Furman,RECEIVING,Karel,Hamilton,TD,3
+9593024,10/8/2016,FCS,Samford,Furman,RECEIVING,Karel,Hamilton,LONG,63
+9593025,10/8/2016,FCS,Samford,Furman,RECEIVING,Kelvin,McKnight,REC,3
+9593026,10/8/2016,FCS,Samford,Furman,RECEIVING,Kelvin,McKnight,YDS,75
+9593027,10/8/2016,FCS,Samford,Furman,RECEIVING,Kelvin,McKnight,TD,0
+9593028,10/8/2016,FCS,Samford,Furman,RECEIVING,Kelvin,McKnight,LONG,42
+9593029,10/8/2016,FCS,Samford,Furman,RECEIVING,Chris,Shelling,REC,5
+9593030,10/8/2016,FCS,Samford,Furman,RECEIVING,Chris,Shelling,YDS,56
+9593031,10/8/2016,FCS,Samford,Furman,RECEIVING,Chris,Shelling,TD,0
+9593032,10/8/2016,FCS,Samford,Furman,RECEIVING,Chris,Shelling,LONG,21
+9593033,10/8/2016,FCS,Samford,Furman,RECEIVING,Devon,Schmitt,REC,4
+9593034,10/8/2016,FCS,Samford,Furman,RECEIVING,Devon,Schmitt,YDS,52
+9593035,10/8/2016,FCS,Samford,Furman,RECEIVING,Devon,Schmitt,TD,0
+9593036,10/8/2016,FCS,Samford,Furman,RECEIVING,Devon,Schmitt,LONG,19
+9593037,10/8/2016,FCS,Samford,Furman,RECEIVING,Emmanuel,Obajimi,REC,2
+9593038,10/8/2016,FCS,Samford,Furman,RECEIVING,Emmanuel,Obajimi,YDS,31
+9593039,10/8/2016,FCS,Samford,Furman,RECEIVING,Emmanuel,Obajimi,TD,0
+9593040,10/8/2016,FCS,Samford,Furman,RECEIVING,Emmanuel,Obajimi,LONG,27
+9593041,10/8/2016,FCS,Samford,Furman,RECEIVING,TaDarryl,Marshall,REC,2
+9593042,10/8/2016,FCS,Samford,Furman,RECEIVING,TaDarryl,Marshall,YDS,10
+9593043,10/8/2016,FCS,Samford,Furman,RECEIVING,TaDarryl,Marshall,TD,0
+9593044,10/8/2016,FCS,Samford,Furman,RECEIVING,TaDarryl,Marshall,LONG,6
+9593045,10/8/2016,FCS,Samford,Furman,RECEIVING,Kevin,Marion,REC,1
+9593046,10/8/2016,FCS,Samford,Furman,RECEIVING,Kevin,Marion,YDS,7
+9593047,10/8/2016,FCS,Samford,Furman,RECEIVING,Kevin,Marion,TD,0
+9593048,10/8/2016,FCS,Samford,Furman,RECEIVING,Kevin,Marion,LONG,7
+9593049,10/8/2016,FCS,Samford,Furman,RECEIVING,Denzel,Williams,REC,1
+9593050,10/8/2016,FCS,Samford,Furman,RECEIVING,Denzel,Williams,YDS,7
+9593051,10/8/2016,FCS,Samford,Furman,RECEIVING,Denzel,Williams,TD,0
+9593052,10/8/2016,FCS,Samford,Furman,RECEIVING,Denzel,Williams,LONG,7
+9593053,10/8/2016,FCS,Samford,Furman,RECEIVING,Justin,Curry,REC,2
+9593054,10/8/2016,FCS,Samford,Furman,RECEIVING,Justin,Curry,YDS,5
+9593055,10/8/2016,FCS,Samford,Furman,RECEIVING,Justin,Curry,TD,0
+9593056,10/8/2016,FCS,Samford,Furman,RECEIVING,Justin,Curry,LONG,3
+9593057,10/8/2016,FCS,Samford,Furman,KICKING,Reece,Everett,FG-FGA,1/2
+9593058,10/8/2016,FCS,Samford,Furman,KICKING,Reece,Everett,LONG,19
+9593059,10/8/2016,FCS,Samford,Furman,KICKING,Reece,Everett,XP,5
+9593060,10/8/2016,FCS,Samford,Furman,KICKING,Reece,Everett,PTS,8
+9593061,10/8/2016,FCS,Samford,Furman,PUNTING,Austin,Barnard,NO,5
+9593062,10/8/2016,FCS,Samford,Furman,PUNTING,Austin,Barnard,YDS,197
+9593063,10/8/2016,FCS,Samford,Furman,PUNTING,Austin,Barnard,AVG,39.4
+9593064,10/8/2016,FCS,Samford,Furman,PUNTING,Austin,Barnard,LONG,51
+9593065,10/8/2016,FCS,Samford,Furman,PUNT RETURNS,Kelvin,McKnight,NO,3
+9593066,10/8/2016,FCS,Samford,Furman,PUNT RETURNS,Kelvin,McKnight,YDS,15
+9593067,10/8/2016,FCS,Samford,Furman,PUNT RETURNS,Kelvin,McKnight,AVG,5.0
+9593068,10/8/2016,FCS,Samford,Furman,PUNT RETURNS,Kelvin,McKnight,LONG,8
+9593069,10/8/2016,FCS,Samford,Furman,PUNT RETURNS,Karel,Hamilton,NO,1
+9593070,10/8/2016,FCS,Samford,Furman,PUNT RETURNS,Karel,Hamilton,YDS,0
+9593071,10/8/2016,FCS,Samford,Furman,PUNT RETURNS,Karel,Hamilton,AVG,-
+9593072,10/8/2016,FCS,Samford,Furman,PUNT RETURNS,Karel,Hamilton,LONG,0
+9593073,10/8/2016,FCS,Samford,Furman,KICK RETURNS,TaDarryl,Marshall,NO,1
+9593074,10/8/2016,FCS,Samford,Furman,KICK RETURNS,TaDarryl,Marshall,YDS,4
+9593075,10/8/2016,FCS,Samford,Furman,KICK RETURNS,TaDarryl,Marshall,AVG,4.0
+9593076,10/8/2016,FCS,Samford,Furman,KICK RETURNS,TaDarryl,Marshall,LONG,4
+9593077,10/8/2016,FCS,Furman,Samford,RUSHING,Reese,Hannon,ATT,10
+9593078,10/8/2016,FCS,Furman,Samford,RUSHING,Reese,Hannon,YDS,52
+9593079,10/8/2016,FCS,Furman,Samford,RUSHING,Reese,Hannon,TD,1
+9593080,10/8/2016,FCS,Furman,Samford,RUSHING,Reese,Hannon,LONG,36
+9593081,10/8/2016,FCS,Furman,Samford,RUSHING,Antonio,Wilcox,ATT,14
+9593082,10/8/2016,FCS,Furman,Samford,RUSHING,Antonio,Wilcox,YDS,36
+9593083,10/8/2016,FCS,Furman,Samford,RUSHING,Antonio,Wilcox,TD,0
+9593084,10/8/2016,FCS,Furman,Samford,RUSHING,Antonio,Wilcox,LONG,8
+9593085,10/8/2016,FCS,Furman,Samford,RUSHING,Andrej,Suttles,ATT,2
+9593086,10/8/2016,FCS,Furman,Samford,RUSHING,Andrej,Suttles,YDS,18
+9593087,10/8/2016,FCS,Furman,Samford,RUSHING,Andrej,Suttles,TD,0
+9593088,10/8/2016,FCS,Furman,Samford,RUSHING,Andrej,Suttles,LONG,14
+9593089,10/8/2016,FCS,Furman,Samford,RUSHING,Triston,Luke,ATT,5
+9593090,10/8/2016,FCS,Furman,Samford,RUSHING,Triston,Luke,YDS,9
+9593091,10/8/2016,FCS,Furman,Samford,RUSHING,Triston,Luke,TD,0
+9593092,10/8/2016,FCS,Furman,Samford,RUSHING,Triston,Luke,LONG,7
+9593093,10/8/2016,FCS,Furman,Samford,RUSHING,Ridge,Gibson,ATT,2
+9593094,10/8/2016,FCS,Furman,Samford,RUSHING,Ridge,Gibson,YDS,-1
+9593095,10/8/2016,FCS,Furman,Samford,RUSHING,Ridge,Gibson,TD,0
+9593096,10/8/2016,FCS,Furman,Samford,RUSHING,Ridge,Gibson,LONG,0
+9593097,10/8/2016,FCS,Furman,Samford,PASSING,Reese,Hannon,CP-ATT-INT,30-50-1
+9593098,10/8/2016,FCS,Furman,Samford,PASSING,Reese,Hannon,YDS,301
+9593099,10/8/2016,FCS,Furman,Samford,PASSING,Reese,Hannon,TD,2
+9593100,10/8/2016,FCS,Furman,Samford,PASSING,Reese,Hannon,LONG,51
+9593101,10/8/2016,FCS,Furman,Samford,RECEIVING,Andrej,Suttles,REC,5
+9593102,10/8/2016,FCS,Furman,Samford,RECEIVING,Andrej,Suttles,YDS,63
+9593103,10/8/2016,FCS,Furman,Samford,RECEIVING,Andrej,Suttles,TD,2
+9593104,10/8/2016,FCS,Furman,Samford,RECEIVING,Andrej,Suttles,LONG,18
+9593105,10/8/2016,FCS,Furman,Samford,RECEIVING,Thomas,Gordon,REC,5
+9593106,10/8/2016,FCS,Furman,Samford,RECEIVING,Thomas,Gordon,YDS,62
+9593107,10/8/2016,FCS,Furman,Samford,RECEIVING,Thomas,Gordon,TD,0
+9593108,10/8/2016,FCS,Furman,Samford,RECEIVING,Thomas,Gordon,LONG,51
+9593109,10/8/2016,FCS,Furman,Samford,RECEIVING,JD,Tuten,REC,5
+9593110,10/8/2016,FCS,Furman,Samford,RECEIVING,JD,Tuten,YDS,57
+9593111,10/8/2016,FCS,Furman,Samford,RECEIVING,JD,Tuten,TD,0
+9593112,10/8/2016,FCS,Furman,Samford,RECEIVING,JD,Tuten,LONG,20
+9593113,10/8/2016,FCS,Furman,Samford,RECEIVING,Duncan,Fletcher,REC,3
+9593114,10/8/2016,FCS,Furman,Samford,RECEIVING,Duncan,Fletcher,YDS,45
+9593115,10/8/2016,FCS,Furman,Samford,RECEIVING,Duncan,Fletcher,TD,0
+9593116,10/8/2016,FCS,Furman,Samford,RECEIVING,Duncan,Fletcher,LONG,23
+9593117,10/8/2016,FCS,Furman,Samford,RECEIVING,Antonio,Wilcox,REC,5
+9593118,10/8/2016,FCS,Furman,Samford,RECEIVING,Antonio,Wilcox,YDS,31
+9593119,10/8/2016,FCS,Furman,Samford,RECEIVING,Antonio,Wilcox,TD,0
+9593120,10/8/2016,FCS,Furman,Samford,RECEIVING,Antonio,Wilcox,LONG,16
+9593121,10/8/2016,FCS,Furman,Samford,RECEIVING,Triston,Luke,REC,4
+9593122,10/8/2016,FCS,Furman,Samford,RECEIVING,Triston,Luke,YDS,15
+9593123,10/8/2016,FCS,Furman,Samford,RECEIVING,Triston,Luke,TD,0
+9593124,10/8/2016,FCS,Furman,Samford,RECEIVING,Triston,Luke,LONG,11
+9593125,10/8/2016,FCS,Furman,Samford,RECEIVING,Andy,Schumpert,REC,1
+9593126,10/8/2016,FCS,Furman,Samford,RECEIVING,Andy,Schumpert,YDS,15
+9593127,10/8/2016,FCS,Furman,Samford,RECEIVING,Andy,Schumpert,TD,0
+9593128,10/8/2016,FCS,Furman,Samford,RECEIVING,Andy,Schumpert,LONG,15
+9593129,10/8/2016,FCS,Furman,Samford,RECEIVING,Logan,McCarter,REC,1
+9593130,10/8/2016,FCS,Furman,Samford,RECEIVING,Logan,McCarter,YDS,13
+9593131,10/8/2016,FCS,Furman,Samford,RECEIVING,Logan,McCarter,TD,0
+9593132,10/8/2016,FCS,Furman,Samford,RECEIVING,Logan,McCarter,LONG,13
+9593133,10/8/2016,FCS,Furman,Samford,RECEIVING,Kevin,Mall,REC,1
+9593134,10/8/2016,FCS,Furman,Samford,RECEIVING,Kevin,Mall,YDS,0
+9593135,10/8/2016,FCS,Furman,Samford,RECEIVING,Kevin,Mall,TD,0
+9593136,10/8/2016,FCS,Furman,Samford,RECEIVING,Kevin,Mall,LONG,0
+9593137,10/8/2016,FCS,Furman,Samford,KICKING,Jon,CroftHollingsworth,FG-FGA,0/0
+9593138,10/8/2016,FCS,Furman,Samford,KICKING,Jon,CroftHollingsworth,LONG,-
+9593139,10/8/2016,FCS,Furman,Samford,KICKING,Jon,CroftHollingsworth,XP,3
+9593140,10/8/2016,FCS,Furman,Samford,KICKING,Jon,CroftHollingsworth,PTS,3
+9593141,10/8/2016,FCS,Furman,Samford,PUNTING,Jon,CroftHollingsworth,NO,6
+9593142,10/8/2016,FCS,Furman,Samford,PUNTING,Jon,CroftHollingsworth,YDS,245
+9593143,10/8/2016,FCS,Furman,Samford,PUNTING,Jon,CroftHollingsworth,AVG,40.8
+9593144,10/8/2016,FCS,Furman,Samford,PUNTING,Jon,CroftHollingsworth,LONG,49
+9593145,10/8/2016,FCS,Furman,Samford,PUNT RETURNS,Chad,Scott,NO,1
+9593146,10/8/2016,FCS,Furman,Samford,PUNT RETURNS,Chad,Scott,YDS,0
+9593147,10/8/2016,FCS,Furman,Samford,PUNT RETURNS,Chad,Scott,AVG,-
+9593148,10/8/2016,FCS,Furman,Samford,PUNT RETURNS,Chad,Scott,LONG,0
+9593149,10/8/2016,FCS,Furman,Samford,KICK RETURNS,Thomas,Gordon,NO,3
+9593150,10/8/2016,FCS,Furman,Samford,KICK RETURNS,Thomas,Gordon,YDS,51
+9593151,10/8/2016,FCS,Furman,Samford,KICK RETURNS,Thomas,Gordon,AVG,17.0
+9593152,10/8/2016,FCS,Furman,Samford,KICK RETURNS,Thomas,Gordon,LONG,19
+9593153,10/8/2016,FCS,Furman,Samford,KICK RETURNS,Bailey,Rogers,NO,2
+9593154,10/8/2016,FCS,Furman,Samford,KICK RETURNS,Bailey,Rogers,YDS,35
+9593155,10/8/2016,FCS,Furman,Samford,KICK RETURNS,Bailey,Rogers,AVG,17.5
+9593156,10/8/2016,FCS,Furman,Samford,KICK RETURNS,Bailey,Rogers,LONG,19

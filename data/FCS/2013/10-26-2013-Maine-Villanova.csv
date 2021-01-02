@@ -1,0 +1,141 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+7290001,10/26/2013,FCS,Maine,Villanova,RUSHING,Marcus,Wasilewski,ATT,20
+7290002,10/26/2013,FCS,Maine,Villanova,RUSHING,Marcus,Wasilewski,YDS,86
+7290003,10/26/2013,FCS,Maine,Villanova,RUSHING,Marcus,Wasilewski,TD,1
+7290004,10/26/2013,FCS,Maine,Villanova,RUSHING,Marcus,Wasilewski,LONG,19
+7290005,10/26/2013,FCS,Maine,Villanova,RUSHING,Khari,Al-Mateen,ATT,1
+7290006,10/26/2013,FCS,Maine,Villanova,RUSHING,Khari,Al-Mateen,YDS,41
+7290007,10/26/2013,FCS,Maine,Villanova,RUSHING,Khari,Al-Mateen,TD,0
+7290008,10/26/2013,FCS,Maine,Villanova,RUSHING,Khari,Al-Mateen,LONG,41
+7290009,10/26/2013,FCS,Maine,Villanova,RUSHING,Rickey,Stevens,ATT,13
+7290010,10/26/2013,FCS,Maine,Villanova,RUSHING,Rickey,Stevens,YDS,37
+7290011,10/26/2013,FCS,Maine,Villanova,RUSHING,Rickey,Stevens,TD,0
+7290012,10/26/2013,FCS,Maine,Villanova,RUSHING,Rickey,Stevens,LONG,8
+7290013,10/26/2013,FCS,Maine,Villanova,RUSHING,Nigel,Jones,ATT,5
+7290014,10/26/2013,FCS,Maine,Villanova,RUSHING,Nigel,Jones,YDS,30
+7290015,10/26/2013,FCS,Maine,Villanova,RUSHING,Nigel,Jones,TD,1
+7290016,10/26/2013,FCS,Maine,Villanova,RUSHING,Nigel,Jones,LONG,15
+7290017,10/26/2013,FCS,Maine,Villanova,RUSHING,John,Ebeling,ATT,1
+7290018,10/26/2013,FCS,Maine,Villanova,RUSHING,John,Ebeling,YDS,6
+7290019,10/26/2013,FCS,Maine,Villanova,RUSHING,John,Ebeling,TD,0
+7290020,10/26/2013,FCS,Maine,Villanova,RUSHING,John,Ebeling,LONG,6
+7290021,10/26/2013,FCS,Maine,Villanova,RUSHING,,Team,ATT,1
+7290022,10/26/2013,FCS,Maine,Villanova,RUSHING,,Team,YDS,-1
+7290023,10/26/2013,FCS,Maine,Villanova,RUSHING,,Team,TD,0
+7290024,10/26/2013,FCS,Maine,Villanova,RUSHING,,Team,LONG,0
+7290025,10/26/2013,FCS,Maine,Villanova,PASSING,Marcus,Wasilewski,CP-ATT-INT,28-34-0
+7290026,10/26/2013,FCS,Maine,Villanova,PASSING,Marcus,Wasilewski,YDS,337
+7290027,10/26/2013,FCS,Maine,Villanova,PASSING,Marcus,Wasilewski,TD,2
+7290028,10/26/2013,FCS,Maine,Villanova,PASSING,Marcus,Wasilewski,LONG,51
+7290029,10/26/2013,FCS,Maine,Villanova,RECEIVING,Justin,Perillo,REC,7
+7290030,10/26/2013,FCS,Maine,Villanova,RECEIVING,Justin,Perillo,YDS,94
+7290031,10/26/2013,FCS,Maine,Villanova,RECEIVING,Justin,Perillo,TD,0
+7290032,10/26/2013,FCS,Maine,Villanova,RECEIVING,Justin,Perillo,LONG,27
+7290033,10/26/2013,FCS,Maine,Villanova,RECEIVING,John,Ebeling,REC,7
+7290034,10/26/2013,FCS,Maine,Villanova,RECEIVING,John,Ebeling,YDS,62
+7290035,10/26/2013,FCS,Maine,Villanova,RECEIVING,John,Ebeling,TD,0
+7290036,10/26/2013,FCS,Maine,Villanova,RECEIVING,John,Ebeling,LONG,37
+7290037,10/26/2013,FCS,Maine,Villanova,RECEIVING,Damarr,Aultman,REC,6
+7290038,10/26/2013,FCS,Maine,Villanova,RECEIVING,Damarr,Aultman,YDS,86
+7290039,10/26/2013,FCS,Maine,Villanova,RECEIVING,Damarr,Aultman,TD,1
+7290040,10/26/2013,FCS,Maine,Villanova,RECEIVING,Damarr,Aultman,LONG,51
+7290041,10/26/2013,FCS,Maine,Villanova,RECEIVING,Derrick,Johnson,REC,3
+7290042,10/26/2013,FCS,Maine,Villanova,RECEIVING,Derrick,Johnson,YDS,24
+7290043,10/26/2013,FCS,Maine,Villanova,RECEIVING,Derrick,Johnson,TD,0
+7290044,10/26/2013,FCS,Maine,Villanova,RECEIVING,Derrick,Johnson,LONG,9
+7290045,10/26/2013,FCS,Maine,Villanova,RECEIVING,Nigel,Jones,REC,2
+7290046,10/26/2013,FCS,Maine,Villanova,RECEIVING,Nigel,Jones,YDS,31
+7290047,10/26/2013,FCS,Maine,Villanova,RECEIVING,Nigel,Jones,TD,0
+7290048,10/26/2013,FCS,Maine,Villanova,RECEIVING,Nigel,Jones,LONG,28
+7290049,10/26/2013,FCS,Maine,Villanova,RECEIVING,Arthur,Williams,REC,2
+7290050,10/26/2013,FCS,Maine,Villanova,RECEIVING,Arthur,Williams,YDS,4
+7290051,10/26/2013,FCS,Maine,Villanova,RECEIVING,Arthur,Williams,TD,1
+7290052,10/26/2013,FCS,Maine,Villanova,RECEIVING,Arthur,Williams,LONG,5
+7290053,10/26/2013,FCS,Maine,Villanova,RECEIVING,Rickey,Stevens,REC,1
+7290054,10/26/2013,FCS,Maine,Villanova,RECEIVING,Rickey,Stevens,YDS,36
+7290055,10/26/2013,FCS,Maine,Villanova,RECEIVING,Rickey,Stevens,TD,0
+7290056,10/26/2013,FCS,Maine,Villanova,RECEIVING,Rickey,Stevens,LONG,36
+7290057,10/26/2013,FCS,Maine,Villanova,KICKING,Sean,Decloux,FG-FGA,3/3
+7290058,10/26/2013,FCS,Maine,Villanova,KICKING,Sean,Decloux,LONG,42
+7290059,10/26/2013,FCS,Maine,Villanova,KICKING,Sean,Decloux,XP,4
+7290060,10/26/2013,FCS,Maine,Villanova,KICKING,Sean,Decloux,PTS,13
+7290061,10/26/2013,FCS,Maine,Villanova,PUNTING,Jeffrey,Ondish,NO,2
+7290062,10/26/2013,FCS,Maine,Villanova,PUNTING,Jeffrey,Ondish,YDS,75
+7290063,10/26/2013,FCS,Maine,Villanova,PUNTING,Jeffrey,Ondish,AVG,37.5
+7290064,10/26/2013,FCS,Maine,Villanova,PUNTING,Jeffrey,Ondish,LONG,46
+7290065,10/26/2013,FCS,Maine,Villanova,KICK RETURNS,Isaiah,Jones,NO,2
+7290066,10/26/2013,FCS,Maine,Villanova,KICK RETURNS,Isaiah,Jones,YDS,49
+7290067,10/26/2013,FCS,Maine,Villanova,KICK RETURNS,Isaiah,Jones,AVG,24.5
+7290068,10/26/2013,FCS,Maine,Villanova,KICK RETURNS,Isaiah,Jones,LONG,27
+7290069,10/26/2013,FCS,Maine,Villanova,KICK RETURNS,Damarr,Aultman,NO,2
+7290070,10/26/2013,FCS,Maine,Villanova,KICK RETURNS,Damarr,Aultman,YDS,45
+7290071,10/26/2013,FCS,Maine,Villanova,KICK RETURNS,Damarr,Aultman,AVG,22.5
+7290072,10/26/2013,FCS,Maine,Villanova,KICK RETURNS,Damarr,Aultman,LONG,23
+7290073,10/26/2013,FCS,Villanova,Maine,RUSHING,John,Robertson,ATT,22
+7290074,10/26/2013,FCS,Villanova,Maine,RUSHING,John,Robertson,YDS,214
+7290075,10/26/2013,FCS,Villanova,Maine,RUSHING,John,Robertson,TD,4
+7290076,10/26/2013,FCS,Villanova,Maine,RUSHING,John,Robertson,LONG,59
+7290077,10/26/2013,FCS,Villanova,Maine,RUSHING,Kevin,Monangai,ATT,5
+7290078,10/26/2013,FCS,Villanova,Maine,RUSHING,Kevin,Monangai,YDS,31
+7290079,10/26/2013,FCS,Villanova,Maine,RUSHING,Kevin,Monangai,TD,0
+7290080,10/26/2013,FCS,Villanova,Maine,RUSHING,Kevin,Monangai,LONG,13
+7290081,10/26/2013,FCS,Villanova,Maine,RUSHING,Austin,Medley,ATT,4
+7290082,10/26/2013,FCS,Villanova,Maine,RUSHING,Austin,Medley,YDS,21
+7290083,10/26/2013,FCS,Villanova,Maine,RUSHING,Austin,Medley,TD,0
+7290084,10/26/2013,FCS,Villanova,Maine,RUSHING,Austin,Medley,LONG,9
+7290085,10/26/2013,FCS,Villanova,Maine,RUSHING,Mike,Burke,ATT,1
+7290086,10/26/2013,FCS,Villanova,Maine,RUSHING,Mike,Burke,YDS,-1
+7290087,10/26/2013,FCS,Villanova,Maine,RUSHING,Mike,Burke,TD,0
+7290088,10/26/2013,FCS,Villanova,Maine,RUSHING,Mike,Burke,LONG,0
+7290089,10/26/2013,FCS,Villanova,Maine,PASSING,John,Robertson,CP-ATT-INT,13-22-1
+7290090,10/26/2013,FCS,Villanova,Maine,PASSING,John,Robertson,YDS,121
+7290091,10/26/2013,FCS,Villanova,Maine,PASSING,John,Robertson,TD,1
+7290092,10/26/2013,FCS,Villanova,Maine,PASSING,John,Robertson,LONG,25
+7290093,10/26/2013,FCS,Villanova,Maine,RECEIVING,Poppy,Livers,REC,4
+7290094,10/26/2013,FCS,Villanova,Maine,RECEIVING,Poppy,Livers,YDS,66
+7290095,10/26/2013,FCS,Villanova,Maine,RECEIVING,Poppy,Livers,TD,1
+7290096,10/26/2013,FCS,Villanova,Maine,RECEIVING,Poppy,Livers,LONG,25
+7290097,10/26/2013,FCS,Villanova,Maine,RECEIVING,Kevin,Gulyas,REC,3
+7290098,10/26/2013,FCS,Villanova,Maine,RECEIVING,Kevin,Gulyas,YDS,22
+7290099,10/26/2013,FCS,Villanova,Maine,RECEIVING,Kevin,Gulyas,TD,0
+7290100,10/26/2013,FCS,Villanova,Maine,RECEIVING,Kevin,Gulyas,LONG,10
+7290101,10/26/2013,FCS,Villanova,Maine,RECEIVING,Gary,Underwood,REC,1
+7290102,10/26/2013,FCS,Villanova,Maine,RECEIVING,Gary,Underwood,YDS,10
+7290103,10/26/2013,FCS,Villanova,Maine,RECEIVING,Gary,Underwood,TD,0
+7290104,10/26/2013,FCS,Villanova,Maine,RECEIVING,Gary,Underwood,LONG,10
+7290105,10/26/2013,FCS,Villanova,Maine,RECEIVING,Clay,Horne,REC,1
+7290106,10/26/2013,FCS,Villanova,Maine,RECEIVING,Clay,Horne,YDS,8
+7290107,10/26/2013,FCS,Villanova,Maine,RECEIVING,Clay,Horne,TD,0
+7290108,10/26/2013,FCS,Villanova,Maine,RECEIVING,Clay,Horne,LONG,8
+7290109,10/26/2013,FCS,Villanova,Maine,RECEIVING,Kevin,Monangai,REC,1
+7290110,10/26/2013,FCS,Villanova,Maine,RECEIVING,Kevin,Monangai,YDS,7
+7290111,10/26/2013,FCS,Villanova,Maine,RECEIVING,Kevin,Monangai,TD,0
+7290112,10/26/2013,FCS,Villanova,Maine,RECEIVING,Kevin,Monangai,LONG,7
+7290113,10/26/2013,FCS,Villanova,Maine,RECEIVING,Earnest,Pettway,REC,1
+7290114,10/26/2013,FCS,Villanova,Maine,RECEIVING,Earnest,Pettway,YDS,5
+7290115,10/26/2013,FCS,Villanova,Maine,RECEIVING,Earnest,Pettway,TD,0
+7290116,10/26/2013,FCS,Villanova,Maine,RECEIVING,Earnest,Pettway,LONG,5
+7290117,10/26/2013,FCS,Villanova,Maine,RECEIVING,Mike,Burke,REC,1
+7290118,10/26/2013,FCS,Villanova,Maine,RECEIVING,Mike,Burke,YDS,4
+7290119,10/26/2013,FCS,Villanova,Maine,RECEIVING,Mike,Burke,TD,0
+7290120,10/26/2013,FCS,Villanova,Maine,RECEIVING,Mike,Burke,LONG,4
+7290121,10/26/2013,FCS,Villanova,Maine,RECEIVING,Austin,Medley,REC,1
+7290122,10/26/2013,FCS,Villanova,Maine,RECEIVING,Austin,Medley,YDS,-1
+7290123,10/26/2013,FCS,Villanova,Maine,RECEIVING,Austin,Medley,TD,0
+7290124,10/26/2013,FCS,Villanova,Maine,RECEIVING,Austin,Medley,LONG,0
+7290125,10/26/2013,FCS,Villanova,Maine,KICKING,Mark,Hamilton,FG-FGA,0/0
+7290126,10/26/2013,FCS,Villanova,Maine,KICKING,Mark,Hamilton,LONG,-
+7290127,10/26/2013,FCS,Villanova,Maine,KICKING,Mark,Hamilton,XP,5
+7290128,10/26/2013,FCS,Villanova,Maine,KICKING,Mark,Hamilton,PTS,5
+7290129,10/26/2013,FCS,Villanova,Maine,PUNTING,Mark,Hamilton,NO,3
+7290130,10/26/2013,FCS,Villanova,Maine,PUNTING,Mark,Hamilton,YDS,144
+7290131,10/26/2013,FCS,Villanova,Maine,PUNTING,Mark,Hamilton,AVG,48.0
+7290132,10/26/2013,FCS,Villanova,Maine,PUNTING,Mark,Hamilton,LONG,55
+7290133,10/26/2013,FCS,Villanova,Maine,KICK RETURNS,Poppy,Livers,NO,4
+7290134,10/26/2013,FCS,Villanova,Maine,KICK RETURNS,Poppy,Livers,YDS,67
+7290135,10/26/2013,FCS,Villanova,Maine,KICK RETURNS,Poppy,Livers,AVG,16.8
+7290136,10/26/2013,FCS,Villanova,Maine,KICK RETURNS,Poppy,Livers,LONG,23
+7290137,10/26/2013,FCS,Villanova,Maine,KICK RETURNS,Aaron,Wells,NO,1
+7290138,10/26/2013,FCS,Villanova,Maine,KICK RETURNS,Aaron,Wells,YDS,19
+7290139,10/26/2013,FCS,Villanova,Maine,KICK RETURNS,Aaron,Wells,AVG,19.0
+7290140,10/26/2013,FCS,Villanova,Maine,KICK RETURNS,Aaron,Wells,LONG,19

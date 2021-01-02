@@ -1,0 +1,183 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+8440001,9/4/2015,FCS,Lehigh,Central Conn. St.,RUSHING,Nick,Shafnisky,ATT,17
+8440002,9/4/2015,FCS,Lehigh,Central Conn. St.,RUSHING,Nick,Shafnisky,YDS,83
+8440003,9/4/2015,FCS,Lehigh,Central Conn. St.,RUSHING,Nick,Shafnisky,TD,1
+8440004,9/4/2015,FCS,Lehigh,Central Conn. St.,RUSHING,Nick,Shafnisky,LONG,22
+8440005,9/4/2015,FCS,Lehigh,Central Conn. St.,RUSHING,Dominick,Bragalone,ATT,17
+8440006,9/4/2015,FCS,Lehigh,Central Conn. St.,RUSHING,Dominick,Bragalone,YDS,68
+8440007,9/4/2015,FCS,Lehigh,Central Conn. St.,RUSHING,Dominick,Bragalone,TD,0
+8440008,9/4/2015,FCS,Lehigh,Central Conn. St.,RUSHING,Dominick,Bragalone,LONG,22
+8440009,9/4/2015,FCS,Lehigh,Central Conn. St.,RUSHING,Micco,Brisker,ATT,11
+8440010,9/4/2015,FCS,Lehigh,Central Conn. St.,RUSHING,Micco,Brisker,YDS,33
+8440011,9/4/2015,FCS,Lehigh,Central Conn. St.,RUSHING,Micco,Brisker,TD,0
+8440012,9/4/2015,FCS,Lehigh,Central Conn. St.,RUSHING,Micco,Brisker,LONG,8
+8440013,9/4/2015,FCS,Lehigh,Central Conn. St.,RUSHING,,Team,ATT,1
+8440014,9/4/2015,FCS,Lehigh,Central Conn. St.,RUSHING,,Team,YDS,-2
+8440015,9/4/2015,FCS,Lehigh,Central Conn. St.,RUSHING,,Team,TD,0
+8440016,9/4/2015,FCS,Lehigh,Central Conn. St.,RUSHING,,Team,LONG,0
+8440017,9/4/2015,FCS,Lehigh,Central Conn. St.,PASSING,Nick,Shafnisky,CP-ATT-INT,19-27-1
+8440018,9/4/2015,FCS,Lehigh,Central Conn. St.,PASSING,Nick,Shafnisky,YDS,263
+8440019,9/4/2015,FCS,Lehigh,Central Conn. St.,PASSING,Nick,Shafnisky,TD,1
+8440020,9/4/2015,FCS,Lehigh,Central Conn. St.,PASSING,Nick,Shafnisky,LONG,46
+8440021,9/4/2015,FCS,Lehigh,Central Conn. St.,RECEIVING,Trevor,Socarras,REC,6
+8440022,9/4/2015,FCS,Lehigh,Central Conn. St.,RECEIVING,Trevor,Socarras,YDS,80
+8440023,9/4/2015,FCS,Lehigh,Central Conn. St.,RECEIVING,Trevor,Socarras,TD,0
+8440024,9/4/2015,FCS,Lehigh,Central Conn. St.,RECEIVING,Trevor,Socarras,LONG,26
+8440025,9/4/2015,FCS,Lehigh,Central Conn. St.,RECEIVING,Gatlin,Casey,REC,7
+8440026,9/4/2015,FCS,Lehigh,Central Conn. St.,RECEIVING,Gatlin,Casey,YDS,67
+8440027,9/4/2015,FCS,Lehigh,Central Conn. St.,RECEIVING,Gatlin,Casey,TD,1
+8440028,9/4/2015,FCS,Lehigh,Central Conn. St.,RECEIVING,Gatlin,Casey,LONG,24
+8440029,9/4/2015,FCS,Lehigh,Central Conn. St.,RECEIVING,Dominick,Bragalone,REC,1
+8440030,9/4/2015,FCS,Lehigh,Central Conn. St.,RECEIVING,Dominick,Bragalone,YDS,46
+8440031,9/4/2015,FCS,Lehigh,Central Conn. St.,RECEIVING,Dominick,Bragalone,TD,0
+8440032,9/4/2015,FCS,Lehigh,Central Conn. St.,RECEIVING,Dominick,Bragalone,LONG,46
+8440033,9/4/2015,FCS,Lehigh,Central Conn. St.,RECEIVING,Derek,Knott,REC,3
+8440034,9/4/2015,FCS,Lehigh,Central Conn. St.,RECEIVING,Derek,Knott,YDS,37
+8440035,9/4/2015,FCS,Lehigh,Central Conn. St.,RECEIVING,Derek,Knott,TD,0
+8440036,9/4/2015,FCS,Lehigh,Central Conn. St.,RECEIVING,Derek,Knott,LONG,18
+8440037,9/4/2015,FCS,Lehigh,Central Conn. St.,RECEIVING,Drew,Paulsen,REC,1
+8440038,9/4/2015,FCS,Lehigh,Central Conn. St.,RECEIVING,Drew,Paulsen,YDS,18
+8440039,9/4/2015,FCS,Lehigh,Central Conn. St.,RECEIVING,Drew,Paulsen,TD,0
+8440040,9/4/2015,FCS,Lehigh,Central Conn. St.,RECEIVING,Drew,Paulsen,LONG,18
+8440041,9/4/2015,FCS,Lehigh,Central Conn. St.,RECEIVING,Troy,Pelletier,REC,1
+8440042,9/4/2015,FCS,Lehigh,Central Conn. St.,RECEIVING,Troy,Pelletier,YDS,15
+8440043,9/4/2015,FCS,Lehigh,Central Conn. St.,RECEIVING,Troy,Pelletier,TD,0
+8440044,9/4/2015,FCS,Lehigh,Central Conn. St.,RECEIVING,Troy,Pelletier,LONG,15
+8440045,9/4/2015,FCS,Lehigh,Central Conn. St.,KICKING,Ed,Mish,FG-FGA,2/2
+8440046,9/4/2015,FCS,Lehigh,Central Conn. St.,KICKING,Ed,Mish,LONG,27
+8440047,9/4/2015,FCS,Lehigh,Central Conn. St.,KICKING,Ed,Mish,XP,2
+8440048,9/4/2015,FCS,Lehigh,Central Conn. St.,KICKING,Ed,Mish,PTS,8
+8440049,9/4/2015,FCS,Lehigh,Central Conn. St.,PUNTING,Austin,Devine,NO,2
+8440050,9/4/2015,FCS,Lehigh,Central Conn. St.,PUNTING,Austin,Devine,YDS,66
+8440051,9/4/2015,FCS,Lehigh,Central Conn. St.,PUNTING,Austin,Devine,AVG,33.0
+8440052,9/4/2015,FCS,Lehigh,Central Conn. St.,PUNTING,Austin,Devine,LONG,50
+8440053,9/4/2015,FCS,Lehigh,Central Conn. St.,PUNT RETURNS,Derek,Knott,NO,1
+8440054,9/4/2015,FCS,Lehigh,Central Conn. St.,PUNT RETURNS,Derek,Knott,YDS,0
+8440055,9/4/2015,FCS,Lehigh,Central Conn. St.,PUNT RETURNS,Derek,Knott,AVG,-
+8440056,9/4/2015,FCS,Lehigh,Central Conn. St.,PUNT RETURNS,Derek,Knott,LONG,0
+8440057,9/4/2015,FCS,Lehigh,Central Conn. St.,KICK RETURNS,Donavon,Harris,NO,2
+8440058,9/4/2015,FCS,Lehigh,Central Conn. St.,KICK RETURNS,Donavon,Harris,YDS,43
+8440059,9/4/2015,FCS,Lehigh,Central Conn. St.,KICK RETURNS,Donavon,Harris,AVG,21.5
+8440060,9/4/2015,FCS,Lehigh,Central Conn. St.,KICK RETURNS,Donavon,Harris,LONG,23
+8440061,9/4/2015,FCS,Lehigh,Central Conn. St.,KICK RETURNS,Mike,Gies,NO,1
+8440062,9/4/2015,FCS,Lehigh,Central Conn. St.,KICK RETURNS,Mike,Gies,YDS,21
+8440063,9/4/2015,FCS,Lehigh,Central Conn. St.,KICK RETURNS,Mike,Gies,AVG,21.0
+8440064,9/4/2015,FCS,Lehigh,Central Conn. St.,KICK RETURNS,Mike,Gies,LONG,21
+8440065,9/4/2015,FCS,Lehigh,Central Conn. St.,DEFENSE,TJ,Stubbs,TOT,0
+8440066,9/4/2015,FCS,Lehigh,Central Conn. St.,DEFENSE,TJ,Stubbs,SOLO,0
+8440067,9/4/2015,FCS,Lehigh,Central Conn. St.,DEFENSE,TJ,Stubbs,SACKS,1.5
+8440068,9/4/2015,FCS,Lehigh,Central Conn. St.,DEFENSE,TJ,Stubbs,TFL,0
+8440069,9/4/2015,FCS,Lehigh,Central Conn. St.,DEFENSE,TJ,Stubbs,INT,0
+8440070,9/4/2015,FCS,Lehigh,Central Conn. St.,DEFENSE,TJ,Stubbs,FF,0
+8440071,9/4/2015,FCS,Lehigh,Central Conn. St.,DEFENSE,TJ,Stubbs,FR,0
+8440072,9/4/2015,FCS,Lehigh,Central Conn. St.,DEFENSE,Matthew,Laub,TOT,0
+8440073,9/4/2015,FCS,Lehigh,Central Conn. St.,DEFENSE,Matthew,Laub,SOLO,0
+8440074,9/4/2015,FCS,Lehigh,Central Conn. St.,DEFENSE,Matthew,Laub,SACKS,1.5
+8440075,9/4/2015,FCS,Lehigh,Central Conn. St.,DEFENSE,Matthew,Laub,TFL,0
+8440076,9/4/2015,FCS,Lehigh,Central Conn. St.,DEFENSE,Matthew,Laub,INT,0
+8440077,9/4/2015,FCS,Lehigh,Central Conn. St.,DEFENSE,Matthew,Laub,FF,0
+8440078,9/4/2015,FCS,Lehigh,Central Conn. St.,DEFENSE,Matthew,Laub,FR,0
+8440079,9/4/2015,FCS,Central Conn. St.,Lehigh,RUSHING,Tavion,Pauldo,ATT,15
+8440080,9/4/2015,FCS,Central Conn. St.,Lehigh,RUSHING,Tavion,Pauldo,YDS,49
+8440081,9/4/2015,FCS,Central Conn. St.,Lehigh,RUSHING,Tavion,Pauldo,TD,0
+8440082,9/4/2015,FCS,Central Conn. St.,Lehigh,RUSHING,Tavion,Pauldo,LONG,29
+8440083,9/4/2015,FCS,Central Conn. St.,Lehigh,RUSHING,Devon,Lofton,ATT,6
+8440084,9/4/2015,FCS,Central Conn. St.,Lehigh,RUSHING,Devon,Lofton,YDS,42
+8440085,9/4/2015,FCS,Central Conn. St.,Lehigh,RUSHING,Devon,Lofton,TD,0
+8440086,9/4/2015,FCS,Central Conn. St.,Lehigh,RUSHING,Devon,Lofton,LONG,26
+8440087,9/4/2015,FCS,Central Conn. St.,Lehigh,RUSHING,Kyle,Jordan,ATT,10
+8440088,9/4/2015,FCS,Central Conn. St.,Lehigh,RUSHING,Kyle,Jordan,YDS,40
+8440089,9/4/2015,FCS,Central Conn. St.,Lehigh,RUSHING,Kyle,Jordan,TD,0
+8440090,9/4/2015,FCS,Central Conn. St.,Lehigh,RUSHING,Kyle,Jordan,LONG,23
+8440091,9/4/2015,FCS,Central Conn. St.,Lehigh,RUSHING,Mike,Peterson,ATT,8
+8440092,9/4/2015,FCS,Central Conn. St.,Lehigh,RUSHING,Mike,Peterson,YDS,24
+8440093,9/4/2015,FCS,Central Conn. St.,Lehigh,RUSHING,Mike,Peterson,TD,0
+8440094,9/4/2015,FCS,Central Conn. St.,Lehigh,RUSHING,Mike,Peterson,LONG,5
+8440095,9/4/2015,FCS,Central Conn. St.,Lehigh,RUSHING,Ed,Groth,ATT,1
+8440096,9/4/2015,FCS,Central Conn. St.,Lehigh,RUSHING,Ed,Groth,YDS,3
+8440097,9/4/2015,FCS,Central Conn. St.,Lehigh,RUSHING,Ed,Groth,TD,0
+8440098,9/4/2015,FCS,Central Conn. St.,Lehigh,RUSHING,Ed,Groth,LONG,3
+8440099,9/4/2015,FCS,Central Conn. St.,Lehigh,PASSING,Tavion,Pauldo,CP-ATT-INT,12-21-0
+8440100,9/4/2015,FCS,Central Conn. St.,Lehigh,PASSING,Tavion,Pauldo,YDS,116
+8440101,9/4/2015,FCS,Central Conn. St.,Lehigh,PASSING,Tavion,Pauldo,TD,2
+8440102,9/4/2015,FCS,Central Conn. St.,Lehigh,PASSING,Tavion,Pauldo,LONG,32
+8440103,9/4/2015,FCS,Central Conn. St.,Lehigh,RECEIVING,Joey,Fields,REC,1
+8440104,9/4/2015,FCS,Central Conn. St.,Lehigh,RECEIVING,Joey,Fields,YDS,32
+8440105,9/4/2015,FCS,Central Conn. St.,Lehigh,RECEIVING,Joey,Fields,TD,1
+8440106,9/4/2015,FCS,Central Conn. St.,Lehigh,RECEIVING,Joey,Fields,LONG,32
+8440107,9/4/2015,FCS,Central Conn. St.,Lehigh,RECEIVING,KJ,Smith,REC,2
+8440108,9/4/2015,FCS,Central Conn. St.,Lehigh,RECEIVING,KJ,Smith,YDS,24
+8440109,9/4/2015,FCS,Central Conn. St.,Lehigh,RECEIVING,KJ,Smith,TD,0
+8440110,9/4/2015,FCS,Central Conn. St.,Lehigh,RECEIVING,KJ,Smith,LONG,13
+8440111,9/4/2015,FCS,Central Conn. St.,Lehigh,RECEIVING,Jose,Garcia,REC,2
+8440112,9/4/2015,FCS,Central Conn. St.,Lehigh,RECEIVING,Jose,Garcia,YDS,22
+8440113,9/4/2015,FCS,Central Conn. St.,Lehigh,RECEIVING,Jose,Garcia,TD,0
+8440114,9/4/2015,FCS,Central Conn. St.,Lehigh,RECEIVING,Jose,Garcia,LONG,15
+8440115,9/4/2015,FCS,Central Conn. St.,Lehigh,RECEIVING,Eric,McGlone,REC,2
+8440116,9/4/2015,FCS,Central Conn. St.,Lehigh,RECEIVING,Eric,McGlone,YDS,14
+8440117,9/4/2015,FCS,Central Conn. St.,Lehigh,RECEIVING,Eric,McGlone,TD,0
+8440118,9/4/2015,FCS,Central Conn. St.,Lehigh,RECEIVING,Eric,McGlone,LONG,8
+8440119,9/4/2015,FCS,Central Conn. St.,Lehigh,RECEIVING,Courtney,Rush,REC,1
+8440120,9/4/2015,FCS,Central Conn. St.,Lehigh,RECEIVING,Courtney,Rush,YDS,9
+8440121,9/4/2015,FCS,Central Conn. St.,Lehigh,RECEIVING,Courtney,Rush,TD,0
+8440122,9/4/2015,FCS,Central Conn. St.,Lehigh,RECEIVING,Courtney,Rush,LONG,9
+8440123,9/4/2015,FCS,Central Conn. St.,Lehigh,RECEIVING,Dan,Hebert,REC,1
+8440124,9/4/2015,FCS,Central Conn. St.,Lehigh,RECEIVING,Dan,Hebert,YDS,6
+8440125,9/4/2015,FCS,Central Conn. St.,Lehigh,RECEIVING,Dan,Hebert,TD,1
+8440126,9/4/2015,FCS,Central Conn. St.,Lehigh,RECEIVING,Dan,Hebert,LONG,6
+8440127,9/4/2015,FCS,Central Conn. St.,Lehigh,RECEIVING,Mike,Peterson,REC,2
+8440128,9/4/2015,FCS,Central Conn. St.,Lehigh,RECEIVING,Mike,Peterson,YDS,5
+8440129,9/4/2015,FCS,Central Conn. St.,Lehigh,RECEIVING,Mike,Peterson,TD,0
+8440130,9/4/2015,FCS,Central Conn. St.,Lehigh,RECEIVING,Mike,Peterson,LONG,4
+8440131,9/4/2015,FCS,Central Conn. St.,Lehigh,RECEIVING,Devon,Lofton,REC,1
+8440132,9/4/2015,FCS,Central Conn. St.,Lehigh,RECEIVING,Devon,Lofton,YDS,4
+8440133,9/4/2015,FCS,Central Conn. St.,Lehigh,RECEIVING,Devon,Lofton,TD,0
+8440134,9/4/2015,FCS,Central Conn. St.,Lehigh,RECEIVING,Devon,Lofton,LONG,4
+8440135,9/4/2015,FCS,Central Conn. St.,Lehigh,KICKING,Ed,Groth,FG-FGA,0/0
+8440136,9/4/2015,FCS,Central Conn. St.,Lehigh,KICKING,Ed,Groth,LONG,-
+8440137,9/4/2015,FCS,Central Conn. St.,Lehigh,KICKING,Ed,Groth,XP,2
+8440138,9/4/2015,FCS,Central Conn. St.,Lehigh,KICKING,Ed,Groth,PTS,2
+8440139,9/4/2015,FCS,Central Conn. St.,Lehigh,PUNTING,Ed,Groth,NO,6
+8440140,9/4/2015,FCS,Central Conn. St.,Lehigh,PUNTING,Ed,Groth,YDS,212
+8440141,9/4/2015,FCS,Central Conn. St.,Lehigh,PUNTING,Ed,Groth,AVG,35.3
+8440142,9/4/2015,FCS,Central Conn. St.,Lehigh,PUNTING,Ed,Groth,LONG,41
+8440143,9/4/2015,FCS,Central Conn. St.,Lehigh,PUNT RETURNS,Dan,Hebert,NO,1
+8440144,9/4/2015,FCS,Central Conn. St.,Lehigh,PUNT RETURNS,Dan,Hebert,YDS,3
+8440145,9/4/2015,FCS,Central Conn. St.,Lehigh,PUNT RETURNS,Dan,Hebert,AVG,3.0
+8440146,9/4/2015,FCS,Central Conn. St.,Lehigh,PUNT RETURNS,Dan,Hebert,LONG,3
+8440147,9/4/2015,FCS,Central Conn. St.,Lehigh,KICK RETURNS,Jevon,Elmore,NO,3
+8440148,9/4/2015,FCS,Central Conn. St.,Lehigh,KICK RETURNS,Jevon,Elmore,YDS,63
+8440149,9/4/2015,FCS,Central Conn. St.,Lehigh,KICK RETURNS,Jevon,Elmore,AVG,21.0
+8440150,9/4/2015,FCS,Central Conn. St.,Lehigh,KICK RETURNS,Jevon,Elmore,LONG,25
+8440151,9/4/2015,FCS,Central Conn. St.,Lehigh,KICK RETURNS,Cameron,Nash,NO,1
+8440152,9/4/2015,FCS,Central Conn. St.,Lehigh,KICK RETURNS,Cameron,Nash,YDS,26
+8440153,9/4/2015,FCS,Central Conn. St.,Lehigh,KICK RETURNS,Cameron,Nash,AVG,26.0
+8440154,9/4/2015,FCS,Central Conn. St.,Lehigh,KICK RETURNS,Cameron,Nash,LONG,26
+8440155,9/4/2015,FCS,Central Conn. St.,Lehigh,DEFENSE,Dwight,Lomax,TOT,0
+8440156,9/4/2015,FCS,Central Conn. St.,Lehigh,DEFENSE,Dwight,Lomax,SOLO,0
+8440157,9/4/2015,FCS,Central Conn. St.,Lehigh,DEFENSE,Dwight,Lomax,SACKS,1
+8440158,9/4/2015,FCS,Central Conn. St.,Lehigh,DEFENSE,Dwight,Lomax,TFL,0
+8440159,9/4/2015,FCS,Central Conn. St.,Lehigh,DEFENSE,Dwight,Lomax,INT,0
+8440160,9/4/2015,FCS,Central Conn. St.,Lehigh,DEFENSE,Dwight,Lomax,FF,0
+8440161,9/4/2015,FCS,Central Conn. St.,Lehigh,DEFENSE,Dwight,Lomax,FR,0
+8440162,9/4/2015,FCS,Central Conn. St.,Lehigh,DEFENSE,Brandon,Hollomon,TOT,0
+8440163,9/4/2015,FCS,Central Conn. St.,Lehigh,DEFENSE,Brandon,Hollomon,SOLO,0
+8440164,9/4/2015,FCS,Central Conn. St.,Lehigh,DEFENSE,Brandon,Hollomon,SACKS,0
+8440165,9/4/2015,FCS,Central Conn. St.,Lehigh,DEFENSE,Brandon,Hollomon,TFL,0
+8440166,9/4/2015,FCS,Central Conn. St.,Lehigh,DEFENSE,Brandon,Hollomon,INT,0
+8440167,9/4/2015,FCS,Central Conn. St.,Lehigh,DEFENSE,Brandon,Hollomon,FF,0
+8440168,9/4/2015,FCS,Central Conn. St.,Lehigh,DEFENSE,Brandon,Hollomon,FR,1
+8440169,9/4/2015,FCS,Central Conn. St.,Lehigh,DEFENSE,Najae,Brown,TOT,0
+8440170,9/4/2015,FCS,Central Conn. St.,Lehigh,DEFENSE,Najae,Brown,SOLO,0
+8440171,9/4/2015,FCS,Central Conn. St.,Lehigh,DEFENSE,Najae,Brown,SACKS,0
+8440172,9/4/2015,FCS,Central Conn. St.,Lehigh,DEFENSE,Najae,Brown,TFL,0
+8440173,9/4/2015,FCS,Central Conn. St.,Lehigh,DEFENSE,Najae,Brown,INT,1
+8440174,9/4/2015,FCS,Central Conn. St.,Lehigh,DEFENSE,Najae,Brown,FF,0
+8440175,9/4/2015,FCS,Central Conn. St.,Lehigh,DEFENSE,Najae,Brown,FR,0
+8440176,9/4/2015,FCS,Central Conn. St.,Lehigh,DEFENSE,Jevon,Elmore,TOT,0
+8440177,9/4/2015,FCS,Central Conn. St.,Lehigh,DEFENSE,Jevon,Elmore,SOLO,0
+8440178,9/4/2015,FCS,Central Conn. St.,Lehigh,DEFENSE,Jevon,Elmore,SACKS,0
+8440179,9/4/2015,FCS,Central Conn. St.,Lehigh,DEFENSE,Jevon,Elmore,TFL,0
+8440180,9/4/2015,FCS,Central Conn. St.,Lehigh,DEFENSE,Jevon,Elmore,INT,0
+8440181,9/4/2015,FCS,Central Conn. St.,Lehigh,DEFENSE,Jevon,Elmore,FF,1
+8440182,9/4/2015,FCS,Central Conn. St.,Lehigh,DEFENSE,Jevon,Elmore,FR,0

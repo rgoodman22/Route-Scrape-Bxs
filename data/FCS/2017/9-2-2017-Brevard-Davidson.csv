@@ -1,0 +1,81 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+10060001,9/2/2017,FCS,Davidson,Brevard,RUSHING,Wesley,Dugger,ATT,31
+10060002,9/2/2017,FCS,Davidson,Brevard,RUSHING,Wesley,Dugger,YDS,196
+10060003,9/2/2017,FCS,Davidson,Brevard,RUSHING,Wesley,Dugger,TD,1
+10060004,9/2/2017,FCS,Davidson,Brevard,RUSHING,Wesley,Dugger,LONG,26
+10060005,9/2/2017,FCS,Davidson,Brevard,RUSHING,Kahleel,Shaw,ATT,12
+10060006,9/2/2017,FCS,Davidson,Brevard,RUSHING,Kahleel,Shaw,YDS,66
+10060007,9/2/2017,FCS,Davidson,Brevard,RUSHING,Kahleel,Shaw,TD,1
+10060008,9/2/2017,FCS,Davidson,Brevard,RUSHING,Kahleel,Shaw,LONG,20
+10060009,9/2/2017,FCS,Davidson,Brevard,RUSHING,Stockton,McGuire,ATT,9
+10060010,9/2/2017,FCS,Davidson,Brevard,RUSHING,Stockton,McGuire,YDS,49
+10060011,9/2/2017,FCS,Davidson,Brevard,RUSHING,Stockton,McGuire,TD,1
+10060012,9/2/2017,FCS,Davidson,Brevard,RUSHING,Stockton,McGuire,LONG,9
+10060013,9/2/2017,FCS,Davidson,Brevard,RUSHING,Nic,Dillon,ATT,1
+10060014,9/2/2017,FCS,Davidson,Brevard,RUSHING,Nic,Dillon,YDS,6
+10060015,9/2/2017,FCS,Davidson,Brevard,RUSHING,Nic,Dillon,TD,0
+10060016,9/2/2017,FCS,Davidson,Brevard,RUSHING,Nic,Dillon,LONG,6
+10060017,9/2/2017,FCS,Davidson,Brevard,RUSHING,,Team,ATT,2
+10060018,9/2/2017,FCS,Davidson,Brevard,RUSHING,,Team,YDS,-10
+10060019,9/2/2017,FCS,Davidson,Brevard,RUSHING,,Team,TD,0
+10060020,9/2/2017,FCS,Davidson,Brevard,RUSHING,,Team,LONG,0
+10060021,9/2/2017,FCS,Davidson,Brevard,PASSING,Stockton,McGuire,CP-ATT-INT,9-19-0
+10060022,9/2/2017,FCS,Davidson,Brevard,PASSING,Stockton,McGuire,YDS,65
+10060023,9/2/2017,FCS,Davidson,Brevard,PASSING,Stockton,McGuire,TD,0
+10060024,9/2/2017,FCS,Davidson,Brevard,PASSING,Stockton,McGuire,LONG,20
+10060025,9/2/2017,FCS,Davidson,Brevard,PASSING,Tyler,Phelps,CP-ATT-INT,1-1-0
+10060026,9/2/2017,FCS,Davidson,Brevard,PASSING,Tyler,Phelps,YDS,56
+10060027,9/2/2017,FCS,Davidson,Brevard,PASSING,Tyler,Phelps,TD,1
+10060028,9/2/2017,FCS,Davidson,Brevard,PASSING,Tyler,Phelps,LONG,56
+10060029,9/2/2017,FCS,Davidson,Brevard,PASSING,Taylor,Mitchell,CP-ATT-INT,1-3-0
+10060030,9/2/2017,FCS,Davidson,Brevard,PASSING,Taylor,Mitchell,YDS,18
+10060031,9/2/2017,FCS,Davidson,Brevard,PASSING,Taylor,Mitchell,TD,0
+10060032,9/2/2017,FCS,Davidson,Brevard,PASSING,Taylor,Mitchell,LONG,18
+10060033,9/2/2017,FCS,Davidson,Brevard,RECEIVING,Pat,Tabor,REC,5
+10060034,9/2/2017,FCS,Davidson,Brevard,RECEIVING,Pat,Tabor,YDS,79
+10060035,9/2/2017,FCS,Davidson,Brevard,RECEIVING,Pat,Tabor,TD,1
+10060036,9/2/2017,FCS,Davidson,Brevard,RECEIVING,Pat,Tabor,LONG,56
+10060037,9/2/2017,FCS,Davidson,Brevard,RECEIVING,William,Wicks,REC,2
+10060038,9/2/2017,FCS,Davidson,Brevard,RECEIVING,William,Wicks,YDS,30
+10060039,9/2/2017,FCS,Davidson,Brevard,RECEIVING,William,Wicks,TD,0
+10060040,9/2/2017,FCS,Davidson,Brevard,RECEIVING,William,Wicks,LONG,20
+10060041,9/2/2017,FCS,Davidson,Brevard,RECEIVING,Jaris,Scott,REC,2
+10060042,9/2/2017,FCS,Davidson,Brevard,RECEIVING,Jaris,Scott,YDS,20
+10060043,9/2/2017,FCS,Davidson,Brevard,RECEIVING,Jaris,Scott,TD,0
+10060044,9/2/2017,FCS,Davidson,Brevard,RECEIVING,Jaris,Scott,LONG,14
+10060045,9/2/2017,FCS,Davidson,Brevard,RECEIVING,Hunter,Louthan,REC,1
+10060046,9/2/2017,FCS,Davidson,Brevard,RECEIVING,Hunter,Louthan,YDS,6
+10060047,9/2/2017,FCS,Davidson,Brevard,RECEIVING,Hunter,Louthan,TD,0
+10060048,9/2/2017,FCS,Davidson,Brevard,RECEIVING,Hunter,Louthan,LONG,6
+10060049,9/2/2017,FCS,Davidson,Brevard,RECEIVING,James,Story,REC,1
+10060050,9/2/2017,FCS,Davidson,Brevard,RECEIVING,James,Story,YDS,4
+10060051,9/2/2017,FCS,Davidson,Brevard,RECEIVING,James,Story,TD,0
+10060052,9/2/2017,FCS,Davidson,Brevard,RECEIVING,James,Story,LONG,4
+10060053,9/2/2017,FCS,Davidson,Brevard,KICKING,Trevor,Smith,FG-FGA,0/1
+10060054,9/2/2017,FCS,Davidson,Brevard,KICKING,Trevor,Smith,LONG,0
+10060055,9/2/2017,FCS,Davidson,Brevard,KICKING,Trevor,Smith,XP,4
+10060056,9/2/2017,FCS,Davidson,Brevard,KICKING,Trevor,Smith,PTS,4
+10060057,9/2/2017,FCS,Davidson,Brevard,PUNTING,Michael,Matthews,NO,5
+10060058,9/2/2017,FCS,Davidson,Brevard,PUNTING,Michael,Matthews,YDS,184
+10060059,9/2/2017,FCS,Davidson,Brevard,PUNTING,Michael,Matthews,AVG,36.8
+10060060,9/2/2017,FCS,Davidson,Brevard,PUNTING,Michael,Matthews,LONG,41
+10060061,9/2/2017,FCS,Davidson,Brevard,PUNTING,Charles,Morris,NO,1
+10060062,9/2/2017,FCS,Davidson,Brevard,PUNTING,Charles,Morris,YDS,43
+10060063,9/2/2017,FCS,Davidson,Brevard,PUNTING,Charles,Morris,AVG,43.0
+10060064,9/2/2017,FCS,Davidson,Brevard,PUNTING,Charles,Morris,LONG,43
+10060065,9/2/2017,FCS,Davidson,Brevard,PUNT RETURNS,William,Wicks,NO,1
+10060066,9/2/2017,FCS,Davidson,Brevard,PUNT RETURNS,William,Wicks,YDS,40
+10060067,9/2/2017,FCS,Davidson,Brevard,PUNT RETURNS,William,Wicks,AVG,40.0
+10060068,9/2/2017,FCS,Davidson,Brevard,PUNT RETURNS,William,Wicks,LONG,40
+10060069,9/2/2017,FCS,Davidson,Brevard,PUNT RETURNS,Ben,Rowell,NO,6
+10060070,9/2/2017,FCS,Davidson,Brevard,PUNT RETURNS,Ben,Rowell,YDS,30
+10060071,9/2/2017,FCS,Davidson,Brevard,PUNT RETURNS,Ben,Rowell,AVG,5.0
+10060072,9/2/2017,FCS,Davidson,Brevard,PUNT RETURNS,Ben,Rowell,LONG,28
+10060073,9/2/2017,FCS,Davidson,Brevard,KICK RETURNS,James,Story,NO,1
+10060074,9/2/2017,FCS,Davidson,Brevard,KICK RETURNS,James,Story,YDS,32
+10060075,9/2/2017,FCS,Davidson,Brevard,KICK RETURNS,James,Story,AVG,32.0
+10060076,9/2/2017,FCS,Davidson,Brevard,KICK RETURNS,James,Story,LONG,32
+10060077,9/2/2017,FCS,Davidson,Brevard,KICK RETURNS,Tony,Collins,NO,1
+10060078,9/2/2017,FCS,Davidson,Brevard,KICK RETURNS,Tony,Collins,YDS,0
+10060079,9/2/2017,FCS,Davidson,Brevard,KICK RETURNS,Tony,Collins,AVG,-
+10060080,9/2/2017,FCS,Davidson,Brevard,KICK RETURNS,Tony,Collins,LONG,0

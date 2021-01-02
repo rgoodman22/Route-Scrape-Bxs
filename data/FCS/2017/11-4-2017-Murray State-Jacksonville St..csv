@@ -1,0 +1,157 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+10598001,11/4/2017,FCS,Murray State,Jacksonville St.,RUSHING,D.J.,Penick,ATT,12
+10598002,11/4/2017,FCS,Murray State,Jacksonville St.,RUSHING,D.J.,Penick,YDS,21
+10598003,11/4/2017,FCS,Murray State,Jacksonville St.,RUSHING,D.J.,Penick,TD,0
+10598004,11/4/2017,FCS,Murray State,Jacksonville St.,RUSHING,D.J.,Penick,LONG,12
+10598005,11/4/2017,FCS,Murray State,Jacksonville St.,RUSHING,Rico,McGraw,ATT,10
+10598006,11/4/2017,FCS,Murray State,Jacksonville St.,RUSHING,Rico,McGraw,YDS,17
+10598007,11/4/2017,FCS,Murray State,Jacksonville St.,RUSHING,Rico,McGraw,TD,0
+10598008,11/4/2017,FCS,Murray State,Jacksonville St.,RUSHING,Rico,McGraw,LONG,10
+10598009,11/4/2017,FCS,Murray State,Jacksonville St.,RUSHING,,Team,ATT,1
+10598010,11/4/2017,FCS,Murray State,Jacksonville St.,RUSHING,,Team,YDS,-1
+10598011,11/4/2017,FCS,Murray State,Jacksonville St.,RUSHING,,Team,TD,0
+10598012,11/4/2017,FCS,Murray State,Jacksonville St.,RUSHING,,Team,LONG,0
+10598013,11/4/2017,FCS,Murray State,Jacksonville St.,RUSHING,Shuler,Bentley,ATT,5
+10598014,11/4/2017,FCS,Murray State,Jacksonville St.,RUSHING,Shuler,Bentley,YDS,-40
+10598015,11/4/2017,FCS,Murray State,Jacksonville St.,RUSHING,Shuler,Bentley,TD,0
+10598016,11/4/2017,FCS,Murray State,Jacksonville St.,RUSHING,Shuler,Bentley,LONG,0
+10598017,11/4/2017,FCS,Murray State,Jacksonville St.,PASSING,Shuler,Bentley,CP-ATT-INT,12-38-0
+10598018,11/4/2017,FCS,Murray State,Jacksonville St.,PASSING,Shuler,Bentley,YDS,117
+10598019,11/4/2017,FCS,Murray State,Jacksonville St.,PASSING,Shuler,Bentley,TD,2
+10598020,11/4/2017,FCS,Murray State,Jacksonville St.,PASSING,Shuler,Bentley,LONG,32
+10598021,11/4/2017,FCS,Murray State,Jacksonville St.,PASSING,Cameron,Birse,CP-ATT-INT,3-7-1
+10598022,11/4/2017,FCS,Murray State,Jacksonville St.,PASSING,Cameron,Birse,YDS,24
+10598023,11/4/2017,FCS,Murray State,Jacksonville St.,PASSING,Cameron,Birse,TD,0
+10598024,11/4/2017,FCS,Murray State,Jacksonville St.,PASSING,Cameron,Birse,LONG,17
+10598025,11/4/2017,FCS,Murray State,Jacksonville St.,PASSING,Corey,Newble,CP-ATT-INT,1-1-0
+10598026,11/4/2017,FCS,Murray State,Jacksonville St.,PASSING,Corey,Newble,YDS,15
+10598027,11/4/2017,FCS,Murray State,Jacksonville St.,PASSING,Corey,Newble,TD,0
+10598028,11/4/2017,FCS,Murray State,Jacksonville St.,PASSING,Corey,Newble,LONG,15
+10598029,11/4/2017,FCS,Murray State,Jacksonville St.,RECEIVING,Jordon,Gandy,REC,7
+10598030,11/4/2017,FCS,Murray State,Jacksonville St.,RECEIVING,Jordon,Gandy,YDS,76
+10598031,11/4/2017,FCS,Murray State,Jacksonville St.,RECEIVING,Jordon,Gandy,TD,2
+10598032,11/4/2017,FCS,Murray State,Jacksonville St.,RECEIVING,Jordon,Gandy,LONG,23
+10598033,11/4/2017,FCS,Murray State,Jacksonville St.,RECEIVING,Rajai,Perkins,REC,4
+10598034,11/4/2017,FCS,Murray State,Jacksonville St.,RECEIVING,Rajai,Perkins,YDS,63
+10598035,11/4/2017,FCS,Murray State,Jacksonville St.,RECEIVING,Rajai,Perkins,TD,0
+10598036,11/4/2017,FCS,Murray State,Jacksonville St.,RECEIVING,Rajai,Perkins,LONG,32
+10598037,11/4/2017,FCS,Murray State,Jacksonville St.,RECEIVING,Shuler,Bentley,REC,1
+10598038,11/4/2017,FCS,Murray State,Jacksonville St.,RECEIVING,Shuler,Bentley,YDS,15
+10598039,11/4/2017,FCS,Murray State,Jacksonville St.,RECEIVING,Shuler,Bentley,TD,0
+10598040,11/4/2017,FCS,Murray State,Jacksonville St.,RECEIVING,Shuler,Bentley,LONG,15
+10598041,11/4/2017,FCS,Murray State,Jacksonville St.,RECEIVING,Corey,Newble,REC,2
+10598042,11/4/2017,FCS,Murray State,Jacksonville St.,RECEIVING,Corey,Newble,YDS,7
+10598043,11/4/2017,FCS,Murray State,Jacksonville St.,RECEIVING,Corey,Newble,TD,0
+10598044,11/4/2017,FCS,Murray State,Jacksonville St.,RECEIVING,Corey,Newble,LONG,6
+10598045,11/4/2017,FCS,Murray State,Jacksonville St.,RECEIVING,D.J.,Penick,REC,2
+10598046,11/4/2017,FCS,Murray State,Jacksonville St.,RECEIVING,D.J.,Penick,YDS,-5
+10598047,11/4/2017,FCS,Murray State,Jacksonville St.,RECEIVING,D.J.,Penick,TD,0
+10598048,11/4/2017,FCS,Murray State,Jacksonville St.,RECEIVING,D.J.,Penick,LONG,5
+10598049,11/4/2017,FCS,Murray State,Jacksonville St.,KICKING,Gabriel,Vicente,FG-FGA,1/1
+10598050,11/4/2017,FCS,Murray State,Jacksonville St.,KICKING,Gabriel,Vicente,LONG,28
+10598051,11/4/2017,FCS,Murray State,Jacksonville St.,KICKING,Gabriel,Vicente,XP,2
+10598052,11/4/2017,FCS,Murray State,Jacksonville St.,KICKING,Gabriel,Vicente,PTS,5
+10598053,11/4/2017,FCS,Murray State,Jacksonville St.,PUNTING,Landon,Stratton,NO,13
+10598054,11/4/2017,FCS,Murray State,Jacksonville St.,PUNTING,Landon,Stratton,YDS,616
+10598055,11/4/2017,FCS,Murray State,Jacksonville St.,PUNTING,Landon,Stratton,AVG,47.4
+10598056,11/4/2017,FCS,Murray State,Jacksonville St.,PUNTING,Landon,Stratton,LONG,60
+10598057,11/4/2017,FCS,Murray State,Jacksonville St.,KICK RETURNS,D.J.,Penick,NO,3
+10598058,11/4/2017,FCS,Murray State,Jacksonville St.,KICK RETURNS,D.J.,Penick,YDS,52
+10598059,11/4/2017,FCS,Murray State,Jacksonville St.,KICK RETURNS,D.J.,Penick,AVG,17.3
+10598060,11/4/2017,FCS,Murray State,Jacksonville St.,KICK RETURNS,D.J.,Penick,LONG,19
+10598061,11/4/2017,FCS,Murray State,Jacksonville St.,KICK RETURNS,Marquez,Sanford,NO,1
+10598062,11/4/2017,FCS,Murray State,Jacksonville St.,KICK RETURNS,Marquez,Sanford,YDS,16
+10598063,11/4/2017,FCS,Murray State,Jacksonville St.,KICK RETURNS,Marquez,Sanford,AVG,16.0
+10598064,11/4/2017,FCS,Murray State,Jacksonville St.,KICK RETURNS,Marquez,Sanford,LONG,16
+10598065,11/4/2017,FCS,Murray State,Jacksonville St.,KICK RETURNS,Rico,McGraw,NO,1
+10598066,11/4/2017,FCS,Murray State,Jacksonville St.,KICK RETURNS,Rico,McGraw,YDS,14
+10598067,11/4/2017,FCS,Murray State,Jacksonville St.,KICK RETURNS,Rico,McGraw,AVG,14.0
+10598068,11/4/2017,FCS,Murray State,Jacksonville St.,KICK RETURNS,Rico,McGraw,LONG,14
+10598069,11/4/2017,FCS,Jacksonville St.,Murray State,RUSHING,Roc,Thomas,ATT,17
+10598070,11/4/2017,FCS,Jacksonville St.,Murray State,RUSHING,Roc,Thomas,YDS,138
+10598071,11/4/2017,FCS,Jacksonville St.,Murray State,RUSHING,Roc,Thomas,TD,2
+10598072,11/4/2017,FCS,Jacksonville St.,Murray State,RUSHING,Roc,Thomas,LONG,61
+10598073,11/4/2017,FCS,Jacksonville St.,Murray State,RUSHING,Bryant,Horn,ATT,12
+10598074,11/4/2017,FCS,Jacksonville St.,Murray State,RUSHING,Bryant,Horn,YDS,71
+10598075,11/4/2017,FCS,Jacksonville St.,Murray State,RUSHING,Bryant,Horn,TD,1
+10598076,11/4/2017,FCS,Jacksonville St.,Murray State,RUSHING,Bryant,Horn,LONG,19
+10598077,11/4/2017,FCS,Jacksonville St.,Murray State,RUSHING,Tramel,Terry,ATT,5
+10598078,11/4/2017,FCS,Jacksonville St.,Murray State,RUSHING,Tramel,Terry,YDS,67
+10598079,11/4/2017,FCS,Jacksonville St.,Murray State,RUSHING,Tramel,Terry,TD,1
+10598080,11/4/2017,FCS,Jacksonville St.,Murray State,RUSHING,Tramel,Terry,LONG,46
+10598081,11/4/2017,FCS,Jacksonville St.,Murray State,RUSHING,Kendrick,Doss,ATT,5
+10598082,11/4/2017,FCS,Jacksonville St.,Murray State,RUSHING,Kendrick,Doss,YDS,36
+10598083,11/4/2017,FCS,Jacksonville St.,Murray State,RUSHING,Kendrick,Doss,TD,0
+10598084,11/4/2017,FCS,Jacksonville St.,Murray State,RUSHING,Kendrick,Doss,LONG,20
+10598085,11/4/2017,FCS,Jacksonville St.,Murray State,RUSHING,De'Marcus,Flowers,ATT,3
+10598086,11/4/2017,FCS,Jacksonville St.,Murray State,RUSHING,De'Marcus,Flowers,YDS,10
+10598087,11/4/2017,FCS,Jacksonville St.,Murray State,RUSHING,De'Marcus,Flowers,TD,1
+10598088,11/4/2017,FCS,Jacksonville St.,Murray State,RUSHING,De'Marcus,Flowers,LONG,15
+10598089,11/4/2017,FCS,Jacksonville St.,Murray State,RUSHING,Jayse,Pruitt,ATT,1
+10598090,11/4/2017,FCS,Jacksonville St.,Murray State,RUSHING,Jayse,Pruitt,YDS,4
+10598091,11/4/2017,FCS,Jacksonville St.,Murray State,RUSHING,Jayse,Pruitt,TD,0
+10598092,11/4/2017,FCS,Jacksonville St.,Murray State,RUSHING,Jayse,Pruitt,LONG,4
+10598093,11/4/2017,FCS,Jacksonville St.,Murray State,RUSHING,Demontez,Terry,ATT,1
+10598094,11/4/2017,FCS,Jacksonville St.,Murray State,RUSHING,Demontez,Terry,YDS,-1
+10598095,11/4/2017,FCS,Jacksonville St.,Murray State,RUSHING,Demontez,Terry,TD,0
+10598096,11/4/2017,FCS,Jacksonville St.,Murray State,RUSHING,Demontez,Terry,LONG,0
+10598097,11/4/2017,FCS,Jacksonville St.,Murray State,RUSHING,,Team,ATT,1
+10598098,11/4/2017,FCS,Jacksonville St.,Murray State,RUSHING,,Team,YDS,-2
+10598099,11/4/2017,FCS,Jacksonville St.,Murray State,RUSHING,,Team,TD,0
+10598100,11/4/2017,FCS,Jacksonville St.,Murray State,RUSHING,,Team,LONG,0
+10598101,11/4/2017,FCS,Jacksonville St.,Murray State,PASSING,Bryant,Horn,CP-ATT-INT,12-25-2
+10598102,11/4/2017,FCS,Jacksonville St.,Murray State,PASSING,Bryant,Horn,YDS,137
+10598103,11/4/2017,FCS,Jacksonville St.,Murray State,PASSING,Bryant,Horn,TD,3
+10598104,11/4/2017,FCS,Jacksonville St.,Murray State,PASSING,Bryant,Horn,LONG,45
+10598105,11/4/2017,FCS,Jacksonville St.,Murray State,PASSING,Kendrick,Doss,CP-ATT-INT,4-10-0
+10598106,11/4/2017,FCS,Jacksonville St.,Murray State,PASSING,Kendrick,Doss,YDS,24
+10598107,11/4/2017,FCS,Jacksonville St.,Murray State,PASSING,Kendrick,Doss,TD,0
+10598108,11/4/2017,FCS,Jacksonville St.,Murray State,PASSING,Kendrick,Doss,LONG,12
+10598109,11/4/2017,FCS,Jacksonville St.,Murray State,RECEIVING,Demontez,Terry,REC,4
+10598110,11/4/2017,FCS,Jacksonville St.,Murray State,RECEIVING,Demontez,Terry,YDS,64
+10598111,11/4/2017,FCS,Jacksonville St.,Murray State,RECEIVING,Demontez,Terry,TD,1
+10598112,11/4/2017,FCS,Jacksonville St.,Murray State,RECEIVING,Demontez,Terry,LONG,45
+10598113,11/4/2017,FCS,Jacksonville St.,Murray State,RECEIVING,Jamari,Hester,REC,4
+10598114,11/4/2017,FCS,Jacksonville St.,Murray State,RECEIVING,Jamari,Hester,YDS,35
+10598115,11/4/2017,FCS,Jacksonville St.,Murray State,RECEIVING,Jamari,Hester,TD,2
+10598116,11/4/2017,FCS,Jacksonville St.,Murray State,RECEIVING,Jamari,Hester,LONG,15
+10598117,11/4/2017,FCS,Jacksonville St.,Murray State,RECEIVING,Shaq,Davidson,REC,4
+10598118,11/4/2017,FCS,Jacksonville St.,Murray State,RECEIVING,Shaq,Davidson,YDS,31
+10598119,11/4/2017,FCS,Jacksonville St.,Murray State,RECEIVING,Shaq,Davidson,TD,0
+10598120,11/4/2017,FCS,Jacksonville St.,Murray State,RECEIVING,Shaq,Davidson,LONG,12
+10598121,11/4/2017,FCS,Jacksonville St.,Murray State,RECEIVING,Tramel,Terry,REC,2
+10598122,11/4/2017,FCS,Jacksonville St.,Murray State,RECEIVING,Tramel,Terry,YDS,23
+10598123,11/4/2017,FCS,Jacksonville St.,Murray State,RECEIVING,Tramel,Terry,TD,0
+10598124,11/4/2017,FCS,Jacksonville St.,Murray State,RECEIVING,Tramel,Terry,LONG,23
+10598125,11/4/2017,FCS,Jacksonville St.,Murray State,RECEIVING,Daniel,Byrd,REC,1
+10598126,11/4/2017,FCS,Jacksonville St.,Murray State,RECEIVING,Daniel,Byrd,YDS,11
+10598127,11/4/2017,FCS,Jacksonville St.,Murray State,RECEIVING,Daniel,Byrd,TD,0
+10598128,11/4/2017,FCS,Jacksonville St.,Murray State,RECEIVING,Daniel,Byrd,LONG,11
+10598129,11/4/2017,FCS,Jacksonville St.,Murray State,RECEIVING,Roc,Thomas,REC,1
+10598130,11/4/2017,FCS,Jacksonville St.,Murray State,RECEIVING,Roc,Thomas,YDS,-3
+10598131,11/4/2017,FCS,Jacksonville St.,Murray State,RECEIVING,Roc,Thomas,TD,0
+10598132,11/4/2017,FCS,Jacksonville St.,Murray State,RECEIVING,Roc,Thomas,LONG,0
+10598133,11/4/2017,FCS,Jacksonville St.,Murray State,KICKING,Cade,Stinnett,FG-FGA,1/1
+10598134,11/4/2017,FCS,Jacksonville St.,Murray State,KICKING,Cade,Stinnett,LONG,40
+10598135,11/4/2017,FCS,Jacksonville St.,Murray State,KICKING,Cade,Stinnett,XP,5
+10598136,11/4/2017,FCS,Jacksonville St.,Murray State,KICKING,Cade,Stinnett,PTS,8
+10598137,11/4/2017,FCS,Jacksonville St.,Murray State,KICKING,Jake,Lane,FG-FGA,0/0
+10598138,11/4/2017,FCS,Jacksonville St.,Murray State,KICKING,Jake,Lane,LONG,-
+10598139,11/4/2017,FCS,Jacksonville St.,Murray State,KICKING,Jake,Lane,XP,3
+10598140,11/4/2017,FCS,Jacksonville St.,Murray State,KICKING,Jake,Lane,PTS,3
+10598141,11/4/2017,FCS,Jacksonville St.,Murray State,PUNTING,Dean,Kelly,NO,6
+10598142,11/4/2017,FCS,Jacksonville St.,Murray State,PUNTING,Dean,Kelly,YDS,241
+10598143,11/4/2017,FCS,Jacksonville St.,Murray State,PUNTING,Dean,Kelly,AVG,40.2
+10598144,11/4/2017,FCS,Jacksonville St.,Murray State,PUNTING,Dean,Kelly,LONG,46
+10598145,11/4/2017,FCS,Jacksonville St.,Murray State,PUNT RETURNS,Demontez,Terry,NO,4
+10598146,11/4/2017,FCS,Jacksonville St.,Murray State,PUNT RETURNS,Demontez,Terry,YDS,99
+10598147,11/4/2017,FCS,Jacksonville St.,Murray State,PUNT RETURNS,Demontez,Terry,AVG,24.8
+10598148,11/4/2017,FCS,Jacksonville St.,Murray State,PUNT RETURNS,Demontez,Terry,LONG,42
+10598149,11/4/2017,FCS,Jacksonville St.,Murray State,KICK RETURNS,De'Marcus,Flowers,NO,2
+10598150,11/4/2017,FCS,Jacksonville St.,Murray State,KICK RETURNS,De'Marcus,Flowers,YDS,48
+10598151,11/4/2017,FCS,Jacksonville St.,Murray State,KICK RETURNS,De'Marcus,Flowers,AVG,24.0
+10598152,11/4/2017,FCS,Jacksonville St.,Murray State,KICK RETURNS,De'Marcus,Flowers,LONG,25
+10598153,11/4/2017,FCS,Jacksonville St.,Murray State,KICK RETURNS,E.J.,Moss,NO,1
+10598154,11/4/2017,FCS,Jacksonville St.,Murray State,KICK RETURNS,E.J.,Moss,YDS,3
+10598155,11/4/2017,FCS,Jacksonville St.,Murray State,KICK RETURNS,E.J.,Moss,AVG,3.0
+10598156,11/4/2017,FCS,Jacksonville St.,Murray State,KICK RETURNS,E.J.,Moss,LONG,3

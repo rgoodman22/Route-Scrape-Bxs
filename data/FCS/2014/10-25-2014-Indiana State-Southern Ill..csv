@@ -1,0 +1,185 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+8106001,10/25/2014,FCS,Indiana State,Southern Ill.,RUSHING,Buck,Logan,ATT,15
+8106002,10/25/2014,FCS,Indiana State,Southern Ill.,RUSHING,Buck,Logan,YDS,142
+8106003,10/25/2014,FCS,Indiana State,Southern Ill.,RUSHING,Buck,Logan,TD,1
+8106004,10/25/2014,FCS,Indiana State,Southern Ill.,RUSHING,Buck,Logan,LONG,59
+8106005,10/25/2014,FCS,Indiana State,Southern Ill.,RUSHING,LeMonte,Booker,ATT,7
+8106006,10/25/2014,FCS,Indiana State,Southern Ill.,RUSHING,LeMonte,Booker,YDS,48
+8106007,10/25/2014,FCS,Indiana State,Southern Ill.,RUSHING,LeMonte,Booker,TD,0
+8106008,10/25/2014,FCS,Indiana State,Southern Ill.,RUSHING,LeMonte,Booker,LONG,11
+8106009,10/25/2014,FCS,Indiana State,Southern Ill.,RUSHING,Dimitri,Taylor,ATT,11
+8106010,10/25/2014,FCS,Indiana State,Southern Ill.,RUSHING,Dimitri,Taylor,YDS,46
+8106011,10/25/2014,FCS,Indiana State,Southern Ill.,RUSHING,Dimitri,Taylor,TD,0
+8106012,10/25/2014,FCS,Indiana State,Southern Ill.,RUSHING,Dimitri,Taylor,LONG,13
+8106013,10/25/2014,FCS,Indiana State,Southern Ill.,RUSHING,,Team,ATT,1
+8106014,10/25/2014,FCS,Indiana State,Southern Ill.,RUSHING,,Team,YDS,-6
+8106015,10/25/2014,FCS,Indiana State,Southern Ill.,RUSHING,,Team,TD,0
+8106016,10/25/2014,FCS,Indiana State,Southern Ill.,RUSHING,,Team,LONG,0
+8106017,10/25/2014,FCS,Indiana State,Southern Ill.,RUSHING,Mike,Perish,ATT,4
+8106018,10/25/2014,FCS,Indiana State,Southern Ill.,RUSHING,Mike,Perish,YDS,-15
+8106019,10/25/2014,FCS,Indiana State,Southern Ill.,RUSHING,Mike,Perish,TD,0
+8106020,10/25/2014,FCS,Indiana State,Southern Ill.,RUSHING,Mike,Perish,LONG,2
+8106021,10/25/2014,FCS,Indiana State,Southern Ill.,PASSING,Mike,Perish,CP-ATT-INT,27-41-0
+8106022,10/25/2014,FCS,Indiana State,Southern Ill.,PASSING,Mike,Perish,YDS,353
+8106023,10/25/2014,FCS,Indiana State,Southern Ill.,PASSING,Mike,Perish,TD,4
+8106024,10/25/2014,FCS,Indiana State,Southern Ill.,PASSING,Mike,Perish,LONG,47
+8106025,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,Kyani,Harris,REC,5
+8106026,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,Kyani,Harris,YDS,129
+8106027,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,Kyani,Harris,TD,2
+8106028,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,Kyani,Harris,LONG,47
+8106029,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,Robert,TonyanJr.,REC,5
+8106030,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,Robert,TonyanJr.,YDS,76
+8106031,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,Robert,TonyanJr.,TD,1
+8106032,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,Robert,TonyanJr.,LONG,38
+8106033,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,Gary,Owens,REC,4
+8106034,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,Gary,Owens,YDS,37
+8106035,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,Gary,Owens,TD,0
+8106036,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,Gary,Owens,LONG,11
+8106037,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,Chris,O'Leary,REC,2
+8106038,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,Chris,O'Leary,YDS,33
+8106039,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,Chris,O'Leary,TD,0
+8106040,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,Chris,O'Leary,LONG,29
+8106041,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,Travis,Reyes,REC,3
+8106042,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,Travis,Reyes,YDS,32
+8106043,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,Travis,Reyes,TD,0
+8106044,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,Travis,Reyes,LONG,19
+8106045,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,Buck,Logan,REC,2
+8106046,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,Buck,Logan,YDS,10
+8106047,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,Buck,Logan,TD,0
+8106048,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,Buck,Logan,LONG,7
+8106049,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,LeMonte,Booker,REC,1
+8106050,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,LeMonte,Booker,YDS,10
+8106051,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,LeMonte,Booker,TD,0
+8106052,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,LeMonte,Booker,LONG,10
+8106053,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,Dimitri,Taylor,REC,1
+8106054,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,Dimitri,Taylor,YDS,8
+8106055,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,Dimitri,Taylor,TD,0
+8106056,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,Dimitri,Taylor,LONG,8
+8106057,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,A.J.,Johnson,REC,2
+8106058,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,A.J.,Johnson,YDS,6
+8106059,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,A.J.,Johnson,TD,0
+8106060,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,A.J.,Johnson,LONG,4
+8106061,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,Sampson,Levingston,REC,1
+8106062,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,Sampson,Levingston,YDS,6
+8106063,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,Sampson,Levingston,TD,0
+8106064,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,Sampson,Levingston,LONG,6
+8106065,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,Isaac,Beverstock,REC,1
+8106066,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,Isaac,Beverstock,YDS,6
+8106067,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,Isaac,Beverstock,TD,1
+8106068,10/25/2014,FCS,Indiana State,Southern Ill.,RECEIVING,Isaac,Beverstock,LONG,6
+8106069,10/25/2014,FCS,Indiana State,Southern Ill.,KICKING,Eric,Heidorn,FG-FGA,2/3
+8106070,10/25/2014,FCS,Indiana State,Southern Ill.,KICKING,Eric,Heidorn,LONG,40
+8106071,10/25/2014,FCS,Indiana State,Southern Ill.,KICKING,Eric,Heidorn,XP,5
+8106072,10/25/2014,FCS,Indiana State,Southern Ill.,KICKING,Eric,Heidorn,PTS,11
+8106073,10/25/2014,FCS,Indiana State,Southern Ill.,PUNTING,Osborn,Umeh,NO,5
+8106074,10/25/2014,FCS,Indiana State,Southern Ill.,PUNTING,Osborn,Umeh,YDS,150
+8106075,10/25/2014,FCS,Indiana State,Southern Ill.,PUNTING,Osborn,Umeh,AVG,30.0
+8106076,10/25/2014,FCS,Indiana State,Southern Ill.,PUNTING,Osborn,Umeh,LONG,54
+8106077,10/25/2014,FCS,Indiana State,Southern Ill.,PUNT RETURNS,Mark,Sewall,NO,1
+8106078,10/25/2014,FCS,Indiana State,Southern Ill.,PUNT RETURNS,Mark,Sewall,YDS,11
+8106079,10/25/2014,FCS,Indiana State,Southern Ill.,PUNT RETURNS,Mark,Sewall,AVG,11.0
+8106080,10/25/2014,FCS,Indiana State,Southern Ill.,PUNT RETURNS,Mark,Sewall,LONG,11
+8106081,10/25/2014,FCS,Indiana State,Southern Ill.,KICK RETURNS,LeMonte,Booker,NO,2
+8106082,10/25/2014,FCS,Indiana State,Southern Ill.,KICK RETURNS,LeMonte,Booker,YDS,54
+8106083,10/25/2014,FCS,Indiana State,Southern Ill.,KICK RETURNS,LeMonte,Booker,AVG,27.0
+8106084,10/25/2014,FCS,Indiana State,Southern Ill.,KICK RETURNS,LeMonte,Booker,LONG,32
+8106085,10/25/2014,FCS,Indiana State,Southern Ill.,KICK RETURNS,Dimitri,Taylor,NO,1
+8106086,10/25/2014,FCS,Indiana State,Southern Ill.,KICK RETURNS,Dimitri,Taylor,YDS,23
+8106087,10/25/2014,FCS,Indiana State,Southern Ill.,KICK RETURNS,Dimitri,Taylor,AVG,23.0
+8106088,10/25/2014,FCS,Indiana State,Southern Ill.,KICK RETURNS,Dimitri,Taylor,LONG,23
+8106089,10/25/2014,FCS,Southern Ill.,Indiana State,RUSHING,Mika'il,McCall,ATT,7
+8106090,10/25/2014,FCS,Southern Ill.,Indiana State,RUSHING,Mika'il,McCall,YDS,25
+8106091,10/25/2014,FCS,Southern Ill.,Indiana State,RUSHING,Mika'il,McCall,TD,0
+8106092,10/25/2014,FCS,Southern Ill.,Indiana State,RUSHING,Mika'il,McCall,LONG,11
+8106093,10/25/2014,FCS,Southern Ill.,Indiana State,RUSHING,Tay,Willis,ATT,6
+8106094,10/25/2014,FCS,Southern Ill.,Indiana State,RUSHING,Tay,Willis,YDS,21
+8106095,10/25/2014,FCS,Southern Ill.,Indiana State,RUSHING,Tay,Willis,TD,0
+8106096,10/25/2014,FCS,Southern Ill.,Indiana State,RUSHING,Tay,Willis,LONG,6
+8106097,10/25/2014,FCS,Southern Ill.,Indiana State,RUSHING,Cameron,Walter,ATT,4
+8106098,10/25/2014,FCS,Southern Ill.,Indiana State,RUSHING,Cameron,Walter,YDS,11
+8106099,10/25/2014,FCS,Southern Ill.,Indiana State,RUSHING,Cameron,Walter,TD,1
+8106100,10/25/2014,FCS,Southern Ill.,Indiana State,RUSHING,Cameron,Walter,LONG,6
+8106101,10/25/2014,FCS,Southern Ill.,Indiana State,RUSHING,Ken,Malcolme,ATT,1
+8106102,10/25/2014,FCS,Southern Ill.,Indiana State,RUSHING,Ken,Malcolme,YDS,4
+8106103,10/25/2014,FCS,Southern Ill.,Indiana State,RUSHING,Ken,Malcolme,TD,0
+8106104,10/25/2014,FCS,Southern Ill.,Indiana State,RUSHING,Ken,Malcolme,LONG,4
+8106105,10/25/2014,FCS,Southern Ill.,Indiana State,RUSHING,LaSteven,McKinney,ATT,1
+8106106,10/25/2014,FCS,Southern Ill.,Indiana State,RUSHING,LaSteven,McKinney,YDS,1
+8106107,10/25/2014,FCS,Southern Ill.,Indiana State,RUSHING,LaSteven,McKinney,TD,0
+8106108,10/25/2014,FCS,Southern Ill.,Indiana State,RUSHING,LaSteven,McKinney,LONG,1
+8106109,10/25/2014,FCS,Southern Ill.,Indiana State,RUSHING,,Team,ATT,0
+8106110,10/25/2014,FCS,Southern Ill.,Indiana State,RUSHING,,Team,YDS,0
+8106111,10/25/2014,FCS,Southern Ill.,Indiana State,RUSHING,,Team,TD,0
+8106112,10/25/2014,FCS,Southern Ill.,Indiana State,RUSHING,,Team,LONG,0
+8106113,10/25/2014,FCS,Southern Ill.,Indiana State,RUSHING,Ryan,West,ATT,1
+8106114,10/25/2014,FCS,Southern Ill.,Indiana State,RUSHING,Ryan,West,YDS,-3
+8106115,10/25/2014,FCS,Southern Ill.,Indiana State,RUSHING,Ryan,West,TD,0
+8106116,10/25/2014,FCS,Southern Ill.,Indiana State,RUSHING,Ryan,West,LONG,0
+8106117,10/25/2014,FCS,Southern Ill.,Indiana State,RUSHING,Mark,Iannotti,ATT,5
+8106118,10/25/2014,FCS,Southern Ill.,Indiana State,RUSHING,Mark,Iannotti,YDS,-32
+8106119,10/25/2014,FCS,Southern Ill.,Indiana State,RUSHING,Mark,Iannotti,TD,0
+8106120,10/25/2014,FCS,Southern Ill.,Indiana State,RUSHING,Mark,Iannotti,LONG,1
+8106121,10/25/2014,FCS,Southern Ill.,Indiana State,PASSING,Ryan,West,CP-ATT-INT,21-34-1
+8106122,10/25/2014,FCS,Southern Ill.,Indiana State,PASSING,Ryan,West,YDS,195
+8106123,10/25/2014,FCS,Southern Ill.,Indiana State,PASSING,Ryan,West,TD,2
+8106124,10/25/2014,FCS,Southern Ill.,Indiana State,PASSING,Ryan,West,LONG,41
+8106125,10/25/2014,FCS,Southern Ill.,Indiana State,PASSING,Mark,Iannotti,CP-ATT-INT,10-17-1
+8106126,10/25/2014,FCS,Southern Ill.,Indiana State,PASSING,Mark,Iannotti,YDS,96
+8106127,10/25/2014,FCS,Southern Ill.,Indiana State,PASSING,Mark,Iannotti,TD,1
+8106128,10/25/2014,FCS,Southern Ill.,Indiana State,PASSING,Mark,Iannotti,LONG,24
+8106129,10/25/2014,FCS,Southern Ill.,Indiana State,PASSING,,Team,CP-ATT-INT,0-0-0
+8106130,10/25/2014,FCS,Southern Ill.,Indiana State,PASSING,,Team,YDS,0
+8106131,10/25/2014,FCS,Southern Ill.,Indiana State,PASSING,,Team,TD,0
+8106132,10/25/2014,FCS,Southern Ill.,Indiana State,PASSING,,Team,LONG,0
+8106133,10/25/2014,FCS,Southern Ill.,Indiana State,RECEIVING,Tay,Willis,REC,6
+8106134,10/25/2014,FCS,Southern Ill.,Indiana State,RECEIVING,Tay,Willis,YDS,78
+8106135,10/25/2014,FCS,Southern Ill.,Indiana State,RECEIVING,Tay,Willis,TD,1
+8106136,10/25/2014,FCS,Southern Ill.,Indiana State,RECEIVING,Tay,Willis,LONG,41
+8106137,10/25/2014,FCS,Southern Ill.,Indiana State,RECEIVING,MyCole,Pruitt,REC,8
+8106138,10/25/2014,FCS,Southern Ill.,Indiana State,RECEIVING,MyCole,Pruitt,YDS,66
+8106139,10/25/2014,FCS,Southern Ill.,Indiana State,RECEIVING,MyCole,Pruitt,TD,1
+8106140,10/25/2014,FCS,Southern Ill.,Indiana State,RECEIVING,MyCole,Pruitt,LONG,24
+8106141,10/25/2014,FCS,Southern Ill.,Indiana State,RECEIVING,LaSteven,McKinney,REC,7
+8106142,10/25/2014,FCS,Southern Ill.,Indiana State,RECEIVING,LaSteven,McKinney,YDS,55
+8106143,10/25/2014,FCS,Southern Ill.,Indiana State,RECEIVING,LaSteven,McKinney,TD,0
+8106144,10/25/2014,FCS,Southern Ill.,Indiana State,RECEIVING,LaSteven,McKinney,LONG,11
+8106145,10/25/2014,FCS,Southern Ill.,Indiana State,RECEIVING,Josh,Sullivan,REC,3
+8106146,10/25/2014,FCS,Southern Ill.,Indiana State,RECEIVING,Josh,Sullivan,YDS,26
+8106147,10/25/2014,FCS,Southern Ill.,Indiana State,RECEIVING,Josh,Sullivan,TD,0
+8106148,10/25/2014,FCS,Southern Ill.,Indiana State,RECEIVING,Josh,Sullivan,LONG,12
+8106149,10/25/2014,FCS,Southern Ill.,Indiana State,RECEIVING,Adam,Fuehne,REC,2
+8106150,10/25/2014,FCS,Southern Ill.,Indiana State,RECEIVING,Adam,Fuehne,YDS,24
+8106151,10/25/2014,FCS,Southern Ill.,Indiana State,RECEIVING,Adam,Fuehne,TD,0
+8106152,10/25/2014,FCS,Southern Ill.,Indiana State,RECEIVING,Adam,Fuehne,LONG,15
+8106153,10/25/2014,FCS,Southern Ill.,Indiana State,RECEIVING,Cameron,Walter,REC,2
+8106154,10/25/2014,FCS,Southern Ill.,Indiana State,RECEIVING,Cameron,Walter,YDS,19
+8106155,10/25/2014,FCS,Southern Ill.,Indiana State,RECEIVING,Cameron,Walter,TD,0
+8106156,10/25/2014,FCS,Southern Ill.,Indiana State,RECEIVING,Cameron,Walter,LONG,13
+8106157,10/25/2014,FCS,Southern Ill.,Indiana State,RECEIVING,Connor,Iwema,REC,2
+8106158,10/25/2014,FCS,Southern Ill.,Indiana State,RECEIVING,Connor,Iwema,YDS,14
+8106159,10/25/2014,FCS,Southern Ill.,Indiana State,RECEIVING,Connor,Iwema,TD,1
+8106160,10/25/2014,FCS,Southern Ill.,Indiana State,RECEIVING,Connor,Iwema,LONG,11
+8106161,10/25/2014,FCS,Southern Ill.,Indiana State,RECEIVING,Kennington,Easley,REC,1
+8106162,10/25/2014,FCS,Southern Ill.,Indiana State,RECEIVING,Kennington,Easley,YDS,9
+8106163,10/25/2014,FCS,Southern Ill.,Indiana State,RECEIVING,Kennington,Easley,TD,0
+8106164,10/25/2014,FCS,Southern Ill.,Indiana State,RECEIVING,Kennington,Easley,LONG,9
+8106165,10/25/2014,FCS,Southern Ill.,Indiana State,KICKING,Thomas,Kinney,FG-FGA,0/0
+8106166,10/25/2014,FCS,Southern Ill.,Indiana State,KICKING,Thomas,Kinney,LONG,-
+8106167,10/25/2014,FCS,Southern Ill.,Indiana State,KICKING,Thomas,Kinney,XP,2
+8106168,10/25/2014,FCS,Southern Ill.,Indiana State,KICKING,Thomas,Kinney,PTS,2
+8106169,10/25/2014,FCS,Southern Ill.,Indiana State,PUNTING,Nick,Neidig,NO,6
+8106170,10/25/2014,FCS,Southern Ill.,Indiana State,PUNTING,Nick,Neidig,YDS,234
+8106171,10/25/2014,FCS,Southern Ill.,Indiana State,PUNTING,Nick,Neidig,AVG,39.0
+8106172,10/25/2014,FCS,Southern Ill.,Indiana State,PUNTING,Nick,Neidig,LONG,50
+8106173,10/25/2014,FCS,Southern Ill.,Indiana State,KICK RETURNS,Tay,Willis,NO,6
+8106174,10/25/2014,FCS,Southern Ill.,Indiana State,KICK RETURNS,Tay,Willis,YDS,129
+8106175,10/25/2014,FCS,Southern Ill.,Indiana State,KICK RETURNS,Tay,Willis,AVG,21.5
+8106176,10/25/2014,FCS,Southern Ill.,Indiana State,KICK RETURNS,Tay,Willis,LONG,31
+8106177,10/25/2014,FCS,Southern Ill.,Indiana State,KICK RETURNS,MyCole,Pruitt,NO,1
+8106178,10/25/2014,FCS,Southern Ill.,Indiana State,KICK RETURNS,MyCole,Pruitt,YDS,4
+8106179,10/25/2014,FCS,Southern Ill.,Indiana State,KICK RETURNS,MyCole,Pruitt,AVG,4.0
+8106180,10/25/2014,FCS,Southern Ill.,Indiana State,KICK RETURNS,MyCole,Pruitt,LONG,4
+8106181,10/25/2014,FCS,Southern Ill.,Indiana State,KICK RETURNS,,Team,NO,0
+8106182,10/25/2014,FCS,Southern Ill.,Indiana State,KICK RETURNS,,Team,YDS,0
+8106183,10/25/2014,FCS,Southern Ill.,Indiana State,KICK RETURNS,,Team,AVG,-
+8106184,10/25/2014,FCS,Southern Ill.,Indiana State,KICK RETURNS,,Team,LONG,0

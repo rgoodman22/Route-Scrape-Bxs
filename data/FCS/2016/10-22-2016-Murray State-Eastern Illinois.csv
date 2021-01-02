@@ -1,0 +1,189 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9702001,10/22/2016,FCS,Murray State,Eastern Illinois,RUSHING,Mareio,McGraw,ATT,15
+9702002,10/22/2016,FCS,Murray State,Eastern Illinois,RUSHING,Mareio,McGraw,YDS,139
+9702003,10/22/2016,FCS,Murray State,Eastern Illinois,RUSHING,Mareio,McGraw,TD,1
+9702004,10/22/2016,FCS,Murray State,Eastern Illinois,RUSHING,Mareio,McGraw,LONG,77
+9702005,10/22/2016,FCS,Murray State,Eastern Illinois,RUSHING,Demetric,Johnson,ATT,13
+9702006,10/22/2016,FCS,Murray State,Eastern Illinois,RUSHING,Demetric,Johnson,YDS,60
+9702007,10/22/2016,FCS,Murray State,Eastern Illinois,RUSHING,Demetric,Johnson,TD,1
+9702008,10/22/2016,FCS,Murray State,Eastern Illinois,RUSHING,Demetric,Johnson,LONG,14
+9702009,10/22/2016,FCS,Murray State,Eastern Illinois,RUSHING,KD,Humphries,ATT,7
+9702010,10/22/2016,FCS,Murray State,Eastern Illinois,RUSHING,KD,Humphries,YDS,31
+9702011,10/22/2016,FCS,Murray State,Eastern Illinois,RUSHING,KD,Humphries,TD,0
+9702012,10/22/2016,FCS,Murray State,Eastern Illinois,RUSHING,KD,Humphries,LONG,13
+9702013,10/22/2016,FCS,Murray State,Eastern Illinois,RUSHING,Jonathan,Jackson,ATT,1
+9702014,10/22/2016,FCS,Murray State,Eastern Illinois,RUSHING,Jonathan,Jackson,YDS,10
+9702015,10/22/2016,FCS,Murray State,Eastern Illinois,RUSHING,Jonathan,Jackson,TD,0
+9702016,10/22/2016,FCS,Murray State,Eastern Illinois,RUSHING,Jonathan,Jackson,LONG,10
+9702017,10/22/2016,FCS,Murray State,Eastern Illinois,RUSHING,,Team,ATT,2
+9702018,10/22/2016,FCS,Murray State,Eastern Illinois,RUSHING,,Team,YDS,-4
+9702019,10/22/2016,FCS,Murray State,Eastern Illinois,RUSHING,,Team,TD,0
+9702020,10/22/2016,FCS,Murray State,Eastern Illinois,RUSHING,,Team,LONG,0
+9702021,10/22/2016,FCS,Murray State,Eastern Illinois,PASSING,KD,Humphries,CP-ATT-INT,23-43-0
+9702022,10/22/2016,FCS,Murray State,Eastern Illinois,PASSING,KD,Humphries,YDS,299
+9702023,10/22/2016,FCS,Murray State,Eastern Illinois,PASSING,KD,Humphries,TD,1
+9702024,10/22/2016,FCS,Murray State,Eastern Illinois,PASSING,KD,Humphries,LONG,87
+9702025,10/22/2016,FCS,Murray State,Eastern Illinois,RECEIVING,Jesse,Blackburn,REC,4
+9702026,10/22/2016,FCS,Murray State,Eastern Illinois,RECEIVING,Jesse,Blackburn,YDS,147
+9702027,10/22/2016,FCS,Murray State,Eastern Illinois,RECEIVING,Jesse,Blackburn,TD,1
+9702028,10/22/2016,FCS,Murray State,Eastern Illinois,RECEIVING,Jesse,Blackburn,LONG,87
+9702029,10/22/2016,FCS,Murray State,Eastern Illinois,RECEIVING,Demetric,Johnson,REC,4
+9702030,10/22/2016,FCS,Murray State,Eastern Illinois,RECEIVING,Demetric,Johnson,YDS,45
+9702031,10/22/2016,FCS,Murray State,Eastern Illinois,RECEIVING,Demetric,Johnson,TD,0
+9702032,10/22/2016,FCS,Murray State,Eastern Illinois,RECEIVING,Demetric,Johnson,LONG,26
+9702033,10/22/2016,FCS,Murray State,Eastern Illinois,RECEIVING,Jordon,Gandy,REC,3
+9702034,10/22/2016,FCS,Murray State,Eastern Illinois,RECEIVING,Jordon,Gandy,YDS,30
+9702035,10/22/2016,FCS,Murray State,Eastern Illinois,RECEIVING,Jordon,Gandy,TD,0
+9702036,10/22/2016,FCS,Murray State,Eastern Illinois,RECEIVING,Jordon,Gandy,LONG,17
+9702037,10/22/2016,FCS,Murray State,Eastern Illinois,RECEIVING,Malik,Golson,REC,3
+9702038,10/22/2016,FCS,Murray State,Eastern Illinois,RECEIVING,Malik,Golson,YDS,26
+9702039,10/22/2016,FCS,Murray State,Eastern Illinois,RECEIVING,Malik,Golson,TD,0
+9702040,10/22/2016,FCS,Murray State,Eastern Illinois,RECEIVING,Malik,Golson,LONG,10
+9702041,10/22/2016,FCS,Murray State,Eastern Illinois,RECEIVING,Mareio,McGraw,REC,2
+9702042,10/22/2016,FCS,Murray State,Eastern Illinois,RECEIVING,Mareio,McGraw,YDS,17
+9702043,10/22/2016,FCS,Murray State,Eastern Illinois,RECEIVING,Mareio,McGraw,TD,0
+9702044,10/22/2016,FCS,Murray State,Eastern Illinois,RECEIVING,Mareio,McGraw,LONG,12
+9702045,10/22/2016,FCS,Murray State,Eastern Illinois,RECEIVING,Jensen,Feggins,REC,2
+9702046,10/22/2016,FCS,Murray State,Eastern Illinois,RECEIVING,Jensen,Feggins,YDS,14
+9702047,10/22/2016,FCS,Murray State,Eastern Illinois,RECEIVING,Jensen,Feggins,TD,0
+9702048,10/22/2016,FCS,Murray State,Eastern Illinois,RECEIVING,Jensen,Feggins,LONG,8
+9702049,10/22/2016,FCS,Murray State,Eastern Illinois,RECEIVING,Jonathan,Moss,REC,3
+9702050,10/22/2016,FCS,Murray State,Eastern Illinois,RECEIVING,Jonathan,Moss,YDS,11
+9702051,10/22/2016,FCS,Murray State,Eastern Illinois,RECEIVING,Jonathan,Moss,TD,0
+9702052,10/22/2016,FCS,Murray State,Eastern Illinois,RECEIVING,Jonathan,Moss,LONG,6
+9702053,10/22/2016,FCS,Murray State,Eastern Illinois,RECEIVING,Mitch,Stults,REC,1
+9702054,10/22/2016,FCS,Murray State,Eastern Illinois,RECEIVING,Mitch,Stults,YDS,8
+9702055,10/22/2016,FCS,Murray State,Eastern Illinois,RECEIVING,Mitch,Stults,TD,0
+9702056,10/22/2016,FCS,Murray State,Eastern Illinois,RECEIVING,Mitch,Stults,LONG,8
+9702057,10/22/2016,FCS,Murray State,Eastern Illinois,RECEIVING,Tyre,Gray,REC,1
+9702058,10/22/2016,FCS,Murray State,Eastern Illinois,RECEIVING,Tyre,Gray,YDS,1
+9702059,10/22/2016,FCS,Murray State,Eastern Illinois,RECEIVING,Tyre,Gray,TD,0
+9702060,10/22/2016,FCS,Murray State,Eastern Illinois,RECEIVING,Tyre,Gray,LONG,1
+9702061,10/22/2016,FCS,Murray State,Eastern Illinois,KICKING,Connor,Mitchell,FG-FGA,6/6
+9702062,10/22/2016,FCS,Murray State,Eastern Illinois,KICKING,Connor,Mitchell,LONG,49
+9702063,10/22/2016,FCS,Murray State,Eastern Illinois,KICKING,Connor,Mitchell,XP,2
+9702064,10/22/2016,FCS,Murray State,Eastern Illinois,KICKING,Connor,Mitchell,PTS,20
+9702065,10/22/2016,FCS,Murray State,Eastern Illinois,PUNTING,Landon,Stratton,NO,4
+9702066,10/22/2016,FCS,Murray State,Eastern Illinois,PUNTING,Landon,Stratton,YDS,169
+9702067,10/22/2016,FCS,Murray State,Eastern Illinois,PUNTING,Landon,Stratton,AVG,42.2
+9702068,10/22/2016,FCS,Murray State,Eastern Illinois,PUNTING,Landon,Stratton,LONG,45
+9702069,10/22/2016,FCS,Murray State,Eastern Illinois,KICK RETURNS,Malik,Golson,NO,2
+9702070,10/22/2016,FCS,Murray State,Eastern Illinois,KICK RETURNS,Malik,Golson,YDS,35
+9702071,10/22/2016,FCS,Murray State,Eastern Illinois,KICK RETURNS,Malik,Golson,AVG,17.5
+9702072,10/22/2016,FCS,Murray State,Eastern Illinois,KICK RETURNS,Malik,Golson,LONG,20
+9702073,10/22/2016,FCS,Murray State,Eastern Illinois,KICK RETURNS,D'Montre,Wade,NO,2
+9702074,10/22/2016,FCS,Murray State,Eastern Illinois,KICK RETURNS,D'Montre,Wade,YDS,27
+9702075,10/22/2016,FCS,Murray State,Eastern Illinois,KICK RETURNS,D'Montre,Wade,AVG,13.5
+9702076,10/22/2016,FCS,Murray State,Eastern Illinois,KICK RETURNS,D'Montre,Wade,LONG,14
+9702077,10/22/2016,FCS,Eastern Illinois,Murray State,RUSHING,Devin,Church,ATT,25
+9702078,10/22/2016,FCS,Eastern Illinois,Murray State,RUSHING,Devin,Church,YDS,155
+9702079,10/22/2016,FCS,Eastern Illinois,Murray State,RUSHING,Devin,Church,TD,2
+9702080,10/22/2016,FCS,Eastern Illinois,Murray State,RUSHING,Devin,Church,LONG,16
+9702081,10/22/2016,FCS,Eastern Illinois,Murray State,RUSHING,Christopher,Anderson,ATT,6
+9702082,10/22/2016,FCS,Eastern Illinois,Murray State,RUSHING,Christopher,Anderson,YDS,24
+9702083,10/22/2016,FCS,Eastern Illinois,Murray State,RUSHING,Christopher,Anderson,TD,0
+9702084,10/22/2016,FCS,Eastern Illinois,Murray State,RUSHING,Christopher,Anderson,LONG,12
+9702085,10/22/2016,FCS,Eastern Illinois,Murray State,RUSHING,Mitch,Kimble,ATT,6
+9702086,10/22/2016,FCS,Eastern Illinois,Murray State,RUSHING,Mitch,Kimble,YDS,21
+9702087,10/22/2016,FCS,Eastern Illinois,Murray State,RUSHING,Mitch,Kimble,TD,0
+9702088,10/22/2016,FCS,Eastern Illinois,Murray State,RUSHING,Mitch,Kimble,LONG,8
+9702089,10/22/2016,FCS,Eastern Illinois,Murray State,RUSHING,Darshon,McCullough,ATT,6
+9702090,10/22/2016,FCS,Eastern Illinois,Murray State,RUSHING,Darshon,McCullough,YDS,14
+9702091,10/22/2016,FCS,Eastern Illinois,Murray State,RUSHING,Darshon,McCullough,TD,0
+9702092,10/22/2016,FCS,Eastern Illinois,Murray State,RUSHING,Darshon,McCullough,LONG,6
+9702093,10/22/2016,FCS,Eastern Illinois,Murray State,RUSHING,Austin,Green,ATT,2
+9702094,10/22/2016,FCS,Eastern Illinois,Murray State,RUSHING,Austin,Green,YDS,7
+9702095,10/22/2016,FCS,Eastern Illinois,Murray State,RUSHING,Austin,Green,TD,0
+9702096,10/22/2016,FCS,Eastern Illinois,Murray State,RUSHING,Austin,Green,LONG,4
+9702097,10/22/2016,FCS,Eastern Illinois,Murray State,RUSHING,Bud,Martin,ATT,2
+9702098,10/22/2016,FCS,Eastern Illinois,Murray State,RUSHING,Bud,Martin,YDS,6
+9702099,10/22/2016,FCS,Eastern Illinois,Murray State,RUSHING,Bud,Martin,TD,1
+9702100,10/22/2016,FCS,Eastern Illinois,Murray State,RUSHING,Bud,Martin,LONG,5
+9702101,10/22/2016,FCS,Eastern Illinois,Murray State,RUSHING,Isaiah,Nelson,ATT,1
+9702102,10/22/2016,FCS,Eastern Illinois,Murray State,RUSHING,Isaiah,Nelson,YDS,-1
+9702103,10/22/2016,FCS,Eastern Illinois,Murray State,RUSHING,Isaiah,Nelson,TD,0
+9702104,10/22/2016,FCS,Eastern Illinois,Murray State,RUSHING,Isaiah,Nelson,LONG,0
+9702105,10/22/2016,FCS,Eastern Illinois,Murray State,RUSHING,,Team,ATT,1
+9702106,10/22/2016,FCS,Eastern Illinois,Murray State,RUSHING,,Team,YDS,-2
+9702107,10/22/2016,FCS,Eastern Illinois,Murray State,RUSHING,,Team,TD,0
+9702108,10/22/2016,FCS,Eastern Illinois,Murray State,RUSHING,,Team,LONG,0
+9702109,10/22/2016,FCS,Eastern Illinois,Murray State,PASSING,Mitch,Kimble,CP-ATT-INT,16-19-0
+9702110,10/22/2016,FCS,Eastern Illinois,Murray State,PASSING,Mitch,Kimble,YDS,200
+9702111,10/22/2016,FCS,Eastern Illinois,Murray State,PASSING,Mitch,Kimble,TD,2
+9702112,10/22/2016,FCS,Eastern Illinois,Murray State,PASSING,Mitch,Kimble,LONG,51
+9702113,10/22/2016,FCS,Eastern Illinois,Murray State,PASSING,Bud,Martin,CP-ATT-INT,7-14-2
+9702114,10/22/2016,FCS,Eastern Illinois,Murray State,PASSING,Bud,Martin,YDS,119
+9702115,10/22/2016,FCS,Eastern Illinois,Murray State,PASSING,Bud,Martin,TD,0
+9702116,10/22/2016,FCS,Eastern Illinois,Murray State,PASSING,Bud,Martin,LONG,38
+9702117,10/22/2016,FCS,Eastern Illinois,Murray State,PASSING,Austin,Green,CP-ATT-INT,5-10-1
+9702118,10/22/2016,FCS,Eastern Illinois,Murray State,PASSING,Austin,Green,YDS,23
+9702119,10/22/2016,FCS,Eastern Illinois,Murray State,PASSING,Austin,Green,TD,0
+9702120,10/22/2016,FCS,Eastern Illinois,Murray State,PASSING,Austin,Green,LONG,8
+9702121,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Dennis,Turner,REC,5
+9702122,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Dennis,Turner,YDS,68
+9702123,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Dennis,Turner,TD,0
+9702124,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Dennis,Turner,LONG,37
+9702125,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Devin,Church,REC,4
+9702126,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Devin,Church,YDS,58
+9702127,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Devin,Church,TD,1
+9702128,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Devin,Church,LONG,51
+9702129,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Shawn,MitchellJr.,REC,2
+9702130,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Shawn,MitchellJr.,YDS,49
+9702131,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Shawn,MitchellJr.,TD,1
+9702132,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Shawn,MitchellJr.,LONG,28
+9702133,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Darshon,McCullough,REC,2
+9702134,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Darshon,McCullough,YDS,44
+9702135,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Darshon,McCullough,TD,0
+9702136,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Darshon,McCullough,LONG,38
+9702137,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Paul,Gossage,REC,3
+9702138,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Paul,Gossage,YDS,37
+9702139,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Paul,Gossage,TD,0
+9702140,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Paul,Gossage,LONG,18
+9702141,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Anthony,Taylor,REC,3
+9702142,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Anthony,Taylor,YDS,20
+9702143,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Anthony,Taylor,TD,0
+9702144,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Anthony,Taylor,LONG,7
+9702145,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Isaiah,Nelson,REC,3
+9702146,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Isaiah,Nelson,YDS,18
+9702147,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Isaiah,Nelson,TD,0
+9702148,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Isaiah,Nelson,LONG,7
+9702149,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Christopher,Anderson,REC,2
+9702150,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Christopher,Anderson,YDS,17
+9702151,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Christopher,Anderson,TD,0
+9702152,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Christopher,Anderson,LONG,9
+9702153,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Addison,Bounds,REC,3
+9702154,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Addison,Bounds,YDS,16
+9702155,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Addison,Bounds,TD,0
+9702156,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Addison,Bounds,LONG,8
+9702157,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Aaron,Gooch,REC,1
+9702158,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Aaron,Gooch,YDS,15
+9702159,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Aaron,Gooch,TD,0
+9702160,10/22/2016,FCS,Eastern Illinois,Murray State,RECEIVING,Aaron,Gooch,LONG,15
+9702161,10/22/2016,FCS,Eastern Illinois,Murray State,KICKING,Nick,Bruno,FG-FGA,1/1
+9702162,10/22/2016,FCS,Eastern Illinois,Murray State,KICKING,Nick,Bruno,LONG,40
+9702163,10/22/2016,FCS,Eastern Illinois,Murray State,KICKING,Nick,Bruno,XP,5
+9702164,10/22/2016,FCS,Eastern Illinois,Murray State,KICKING,Nick,Bruno,PTS,8
+9702165,10/22/2016,FCS,Eastern Illinois,Murray State,PUNTING,Cody,Edwards,NO,4
+9702166,10/22/2016,FCS,Eastern Illinois,Murray State,PUNTING,Cody,Edwards,YDS,131
+9702167,10/22/2016,FCS,Eastern Illinois,Murray State,PUNTING,Cody,Edwards,AVG,32.8
+9702168,10/22/2016,FCS,Eastern Illinois,Murray State,PUNTING,Cody,Edwards,LONG,39
+9702169,10/22/2016,FCS,Eastern Illinois,Murray State,PUNT RETURNS,Aaron,Gooch,NO,1
+9702170,10/22/2016,FCS,Eastern Illinois,Murray State,PUNT RETURNS,Aaron,Gooch,YDS,7
+9702171,10/22/2016,FCS,Eastern Illinois,Murray State,PUNT RETURNS,Aaron,Gooch,AVG,7.0
+9702172,10/22/2016,FCS,Eastern Illinois,Murray State,PUNT RETURNS,Aaron,Gooch,LONG,7
+9702173,10/22/2016,FCS,Eastern Illinois,Murray State,KICK RETURNS,Devin,Church,NO,3
+9702174,10/22/2016,FCS,Eastern Illinois,Murray State,KICK RETURNS,Devin,Church,YDS,74
+9702175,10/22/2016,FCS,Eastern Illinois,Murray State,KICK RETURNS,Devin,Church,AVG,24.7
+9702176,10/22/2016,FCS,Eastern Illinois,Murray State,KICK RETURNS,Devin,Church,LONG,29
+9702177,10/22/2016,FCS,Eastern Illinois,Murray State,KICK RETURNS,Tray,Mitchell,NO,2
+9702178,10/22/2016,FCS,Eastern Illinois,Murray State,KICK RETURNS,Tray,Mitchell,YDS,46
+9702179,10/22/2016,FCS,Eastern Illinois,Murray State,KICK RETURNS,Tray,Mitchell,AVG,23.0
+9702180,10/22/2016,FCS,Eastern Illinois,Murray State,KICK RETURNS,Tray,Mitchell,LONG,30
+9702181,10/22/2016,FCS,Eastern Illinois,Murray State,KICK RETURNS,Darshon,McCullough,NO,2
+9702182,10/22/2016,FCS,Eastern Illinois,Murray State,KICK RETURNS,Darshon,McCullough,YDS,41
+9702183,10/22/2016,FCS,Eastern Illinois,Murray State,KICK RETURNS,Darshon,McCullough,AVG,20.5
+9702184,10/22/2016,FCS,Eastern Illinois,Murray State,KICK RETURNS,Darshon,McCullough,LONG,23
+9702185,10/22/2016,FCS,Eastern Illinois,Murray State,KICK RETURNS,Andre,Harris,NO,1
+9702186,10/22/2016,FCS,Eastern Illinois,Murray State,KICK RETURNS,Andre,Harris,YDS,6
+9702187,10/22/2016,FCS,Eastern Illinois,Murray State,KICK RETURNS,Andre,Harris,AVG,6.0
+9702188,10/22/2016,FCS,Eastern Illinois,Murray State,KICK RETURNS,Andre,Harris,LONG,6

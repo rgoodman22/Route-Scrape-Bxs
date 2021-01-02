@@ -1,0 +1,165 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9514001,10/1/2016,FCS,Murray State,Austin Peay,RUSHING,Mareio,McGraw,ATT,16
+9514002,10/1/2016,FCS,Murray State,Austin Peay,RUSHING,Mareio,McGraw,YDS,86
+9514003,10/1/2016,FCS,Murray State,Austin Peay,RUSHING,Mareio,McGraw,TD,0
+9514004,10/1/2016,FCS,Murray State,Austin Peay,RUSHING,Mareio,McGraw,LONG,19
+9514005,10/1/2016,FCS,Murray State,Austin Peay,RUSHING,Trae,Gordon,ATT,7
+9514006,10/1/2016,FCS,Murray State,Austin Peay,RUSHING,Trae,Gordon,YDS,23
+9514007,10/1/2016,FCS,Murray State,Austin Peay,RUSHING,Trae,Gordon,TD,0
+9514008,10/1/2016,FCS,Murray State,Austin Peay,RUSHING,Trae,Gordon,LONG,11
+9514009,10/1/2016,FCS,Murray State,Austin Peay,RUSHING,KD,Humphries,ATT,9
+9514010,10/1/2016,FCS,Murray State,Austin Peay,RUSHING,KD,Humphries,YDS,3
+9514011,10/1/2016,FCS,Murray State,Austin Peay,RUSHING,KD,Humphries,TD,1
+9514012,10/1/2016,FCS,Murray State,Austin Peay,RUSHING,KD,Humphries,LONG,10
+9514013,10/1/2016,FCS,Murray State,Austin Peay,RUSHING,Mitch,Stults,ATT,1
+9514014,10/1/2016,FCS,Murray State,Austin Peay,RUSHING,Mitch,Stults,YDS,1
+9514015,10/1/2016,FCS,Murray State,Austin Peay,RUSHING,Mitch,Stults,TD,0
+9514016,10/1/2016,FCS,Murray State,Austin Peay,RUSHING,Mitch,Stults,LONG,1
+9514017,10/1/2016,FCS,Murray State,Austin Peay,RUSHING,,Team,ATT,2
+9514018,10/1/2016,FCS,Murray State,Austin Peay,RUSHING,,Team,YDS,-3
+9514019,10/1/2016,FCS,Murray State,Austin Peay,RUSHING,,Team,TD,0
+9514020,10/1/2016,FCS,Murray State,Austin Peay,RUSHING,,Team,LONG,0
+9514021,10/1/2016,FCS,Murray State,Austin Peay,PASSING,KD,Humphries,CP-ATT-INT,49-60-1
+9514022,10/1/2016,FCS,Murray State,Austin Peay,PASSING,KD,Humphries,YDS,455
+9514023,10/1/2016,FCS,Murray State,Austin Peay,PASSING,KD,Humphries,TD,5
+9514024,10/1/2016,FCS,Murray State,Austin Peay,PASSING,KD,Humphries,LONG,27
+9514025,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Jordon,Gandy,REC,13
+9514026,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Jordon,Gandy,YDS,147
+9514027,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Jordon,Gandy,TD,3
+9514028,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Jordon,Gandy,LONG,23
+9514029,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Jesse,Blackburn,REC,8
+9514030,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Jesse,Blackburn,YDS,94
+9514031,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Jesse,Blackburn,TD,1
+9514032,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Jesse,Blackburn,LONG,19
+9514033,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Mitch,Stults,REC,7
+9514034,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Mitch,Stults,YDS,61
+9514035,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Mitch,Stults,TD,1
+9514036,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Mitch,Stults,LONG,27
+9514037,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Jonathan,Moss,REC,5
+9514038,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Jonathan,Moss,YDS,42
+9514039,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Jonathan,Moss,TD,0
+9514040,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Jonathan,Moss,LONG,22
+9514041,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Mareio,McGraw,REC,5
+9514042,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Mareio,McGraw,YDS,25
+9514043,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Mareio,McGraw,TD,0
+9514044,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Mareio,McGraw,LONG,12
+9514045,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,L.J.,Gainey,REC,4
+9514046,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,L.J.,Gainey,YDS,20
+9514047,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,L.J.,Gainey,TD,0
+9514048,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,L.J.,Gainey,LONG,10
+9514049,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Malik,Golson,REC,3
+9514050,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Malik,Golson,YDS,20
+9514051,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Malik,Golson,TD,0
+9514052,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Malik,Golson,LONG,15
+9514053,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Jensen,Feggins,REC,1
+9514054,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Jensen,Feggins,YDS,19
+9514055,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Jensen,Feggins,TD,0
+9514056,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Jensen,Feggins,LONG,19
+9514057,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Sterling,Taylor,REC,1
+9514058,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Sterling,Taylor,YDS,16
+9514059,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Sterling,Taylor,TD,0
+9514060,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Sterling,Taylor,LONG,16
+9514061,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Trae,Gordon,REC,1
+9514062,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Trae,Gordon,YDS,6
+9514063,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Trae,Gordon,TD,0
+9514064,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Trae,Gordon,LONG,6
+9514065,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Tyre,Gray,REC,1
+9514066,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Tyre,Gray,YDS,5
+9514067,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Tyre,Gray,TD,0
+9514068,10/1/2016,FCS,Murray State,Austin Peay,RECEIVING,Tyre,Gray,LONG,5
+9514069,10/1/2016,FCS,Murray State,Austin Peay,KICKING,Connor,Mitchell,FG-FGA,1/2
+9514070,10/1/2016,FCS,Murray State,Austin Peay,KICKING,Connor,Mitchell,LONG,39
+9514071,10/1/2016,FCS,Murray State,Austin Peay,KICKING,Connor,Mitchell,XP,6
+9514072,10/1/2016,FCS,Murray State,Austin Peay,KICKING,Connor,Mitchell,PTS,9
+9514073,10/1/2016,FCS,Murray State,Austin Peay,PUNT RETURNS,Malik,Golson,NO,2
+9514074,10/1/2016,FCS,Murray State,Austin Peay,PUNT RETURNS,Malik,Golson,YDS,24
+9514075,10/1/2016,FCS,Murray State,Austin Peay,PUNT RETURNS,Malik,Golson,AVG,12.0
+9514076,10/1/2016,FCS,Murray State,Austin Peay,PUNT RETURNS,Malik,Golson,LONG,23
+9514077,10/1/2016,FCS,Murray State,Austin Peay,PUNT RETURNS,Jesse,Blackburn,NO,2
+9514078,10/1/2016,FCS,Murray State,Austin Peay,PUNT RETURNS,Jesse,Blackburn,YDS,13
+9514079,10/1/2016,FCS,Murray State,Austin Peay,PUNT RETURNS,Jesse,Blackburn,AVG,6.5
+9514080,10/1/2016,FCS,Murray State,Austin Peay,PUNT RETURNS,Jesse,Blackburn,LONG,13
+9514081,10/1/2016,FCS,Murray State,Austin Peay,KICK RETURNS,Marquez,Sanford,NO,3
+9514082,10/1/2016,FCS,Murray State,Austin Peay,KICK RETURNS,Marquez,Sanford,YDS,80
+9514083,10/1/2016,FCS,Murray State,Austin Peay,KICK RETURNS,Marquez,Sanford,AVG,26.7
+9514084,10/1/2016,FCS,Murray State,Austin Peay,KICK RETURNS,Marquez,Sanford,LONG,37
+9514085,10/1/2016,FCS,Murray State,Austin Peay,KICK RETURNS,D'Montre,Wade,NO,1
+9514086,10/1/2016,FCS,Murray State,Austin Peay,KICK RETURNS,D'Montre,Wade,YDS,18
+9514087,10/1/2016,FCS,Murray State,Austin Peay,KICK RETURNS,D'Montre,Wade,AVG,18.0
+9514088,10/1/2016,FCS,Murray State,Austin Peay,KICK RETURNS,D'Montre,Wade,LONG,18
+9514089,10/1/2016,FCS,Austin Peay,Murray State,RUSHING,Tommy,Hays,ATT,13
+9514090,10/1/2016,FCS,Austin Peay,Murray State,RUSHING,Tommy,Hays,YDS,62
+9514091,10/1/2016,FCS,Austin Peay,Murray State,RUSHING,Tommy,Hays,TD,2
+9514092,10/1/2016,FCS,Austin Peay,Murray State,RUSHING,Tommy,Hays,LONG,22
+9514093,10/1/2016,FCS,Austin Peay,Murray State,RUSHING,Kendall,Morris,ATT,8
+9514094,10/1/2016,FCS,Austin Peay,Murray State,RUSHING,Kendall,Morris,YDS,57
+9514095,10/1/2016,FCS,Austin Peay,Murray State,RUSHING,Kendall,Morris,TD,0
+9514096,10/1/2016,FCS,Austin Peay,Murray State,RUSHING,Kendall,Morris,LONG,27
+9514097,10/1/2016,FCS,Austin Peay,Murray State,RUSHING,Prince,Momodu,ATT,3
+9514098,10/1/2016,FCS,Austin Peay,Murray State,RUSHING,Prince,Momodu,YDS,30
+9514099,10/1/2016,FCS,Austin Peay,Murray State,RUSHING,Prince,Momodu,TD,0
+9514100,10/1/2016,FCS,Austin Peay,Murray State,RUSHING,Prince,Momodu,LONG,14
+9514101,10/1/2016,FCS,Austin Peay,Murray State,RUSHING,Kyran,Moore,ATT,2
+9514102,10/1/2016,FCS,Austin Peay,Murray State,RUSHING,Kyran,Moore,YDS,13
+9514103,10/1/2016,FCS,Austin Peay,Murray State,RUSHING,Kyran,Moore,TD,0
+9514104,10/1/2016,FCS,Austin Peay,Murray State,RUSHING,Kyran,Moore,LONG,12
+9514105,10/1/2016,FCS,Austin Peay,Murray State,RUSHING,Kentel,Williams,ATT,1
+9514106,10/1/2016,FCS,Austin Peay,Murray State,RUSHING,Kentel,Williams,YDS,9
+9514107,10/1/2016,FCS,Austin Peay,Murray State,RUSHING,Kentel,Williams,TD,0
+9514108,10/1/2016,FCS,Austin Peay,Murray State,RUSHING,Kentel,Williams,LONG,9
+9514109,10/1/2016,FCS,Austin Peay,Murray State,RUSHING,Timarious,Mitchell,ATT,5
+9514110,10/1/2016,FCS,Austin Peay,Murray State,RUSHING,Timarious,Mitchell,YDS,8
+9514111,10/1/2016,FCS,Austin Peay,Murray State,RUSHING,Timarious,Mitchell,TD,0
+9514112,10/1/2016,FCS,Austin Peay,Murray State,RUSHING,Timarious,Mitchell,LONG,6
+9514113,10/1/2016,FCS,Austin Peay,Murray State,RUSHING,Julian,Franklin,ATT,3
+9514114,10/1/2016,FCS,Austin Peay,Murray State,RUSHING,Julian,Franklin,YDS,5
+9514115,10/1/2016,FCS,Austin Peay,Murray State,RUSHING,Julian,Franklin,TD,0
+9514116,10/1/2016,FCS,Austin Peay,Murray State,RUSHING,Julian,Franklin,LONG,4
+9514117,10/1/2016,FCS,Austin Peay,Murray State,PASSING,Tommy,Hays,CP-ATT-INT,14-17-1
+9514118,10/1/2016,FCS,Austin Peay,Murray State,PASSING,Tommy,Hays,YDS,160
+9514119,10/1/2016,FCS,Austin Peay,Murray State,PASSING,Tommy,Hays,TD,0
+9514120,10/1/2016,FCS,Austin Peay,Murray State,PASSING,Tommy,Hays,LONG,27
+9514121,10/1/2016,FCS,Austin Peay,Murray State,PASSING,Timarious,Mitchell,CP-ATT-INT,2-6-0
+9514122,10/1/2016,FCS,Austin Peay,Murray State,PASSING,Timarious,Mitchell,YDS,11
+9514123,10/1/2016,FCS,Austin Peay,Murray State,PASSING,Timarious,Mitchell,TD,0
+9514124,10/1/2016,FCS,Austin Peay,Murray State,PASSING,Timarious,Mitchell,LONG,8
+9514125,10/1/2016,FCS,Austin Peay,Murray State,PASSING,,Team,CP-ATT-INT,0-1-0
+9514126,10/1/2016,FCS,Austin Peay,Murray State,PASSING,,Team,YDS,0
+9514127,10/1/2016,FCS,Austin Peay,Murray State,PASSING,,Team,TD,0
+9514128,10/1/2016,FCS,Austin Peay,Murray State,PASSING,,Team,LONG,0
+9514129,10/1/2016,FCS,Austin Peay,Murray State,RECEIVING,Jared,Beard,REC,7
+9514130,10/1/2016,FCS,Austin Peay,Murray State,RECEIVING,Jared,Beard,YDS,60
+9514131,10/1/2016,FCS,Austin Peay,Murray State,RECEIVING,Jared,Beard,TD,0
+9514132,10/1/2016,FCS,Austin Peay,Murray State,RECEIVING,Jared,Beard,LONG,21
+9514133,10/1/2016,FCS,Austin Peay,Murray State,RECEIVING,Kyran,Moore,REC,3
+9514134,10/1/2016,FCS,Austin Peay,Murray State,RECEIVING,Kyran,Moore,YDS,47
+9514135,10/1/2016,FCS,Austin Peay,Murray State,RECEIVING,Kyran,Moore,TD,0
+9514136,10/1/2016,FCS,Austin Peay,Murray State,RECEIVING,Kyran,Moore,LONG,27
+9514137,10/1/2016,FCS,Austin Peay,Murray State,RECEIVING,Rashaan,Coleman,REC,3
+9514138,10/1/2016,FCS,Austin Peay,Murray State,RECEIVING,Rashaan,Coleman,YDS,30
+9514139,10/1/2016,FCS,Austin Peay,Murray State,RECEIVING,Rashaan,Coleman,TD,0
+9514140,10/1/2016,FCS,Austin Peay,Murray State,RECEIVING,Rashaan,Coleman,LONG,15
+9514141,10/1/2016,FCS,Austin Peay,Murray State,RECEIVING,Zeandre,Floyd,REC,1
+9514142,10/1/2016,FCS,Austin Peay,Murray State,RECEIVING,Zeandre,Floyd,YDS,16
+9514143,10/1/2016,FCS,Austin Peay,Murray State,RECEIVING,Zeandre,Floyd,TD,0
+9514144,10/1/2016,FCS,Austin Peay,Murray State,RECEIVING,Zeandre,Floyd,LONG,16
+9514145,10/1/2016,FCS,Austin Peay,Murray State,RECEIVING,James,Coleman,REC,1
+9514146,10/1/2016,FCS,Austin Peay,Murray State,RECEIVING,James,Coleman,YDS,10
+9514147,10/1/2016,FCS,Austin Peay,Murray State,RECEIVING,James,Coleman,TD,0
+9514148,10/1/2016,FCS,Austin Peay,Murray State,RECEIVING,James,Coleman,LONG,10
+9514149,10/1/2016,FCS,Austin Peay,Murray State,RECEIVING,Kentel,Williams,REC,1
+9514150,10/1/2016,FCS,Austin Peay,Murray State,RECEIVING,Kentel,Williams,YDS,8
+9514151,10/1/2016,FCS,Austin Peay,Murray State,RECEIVING,Kentel,Williams,TD,0
+9514152,10/1/2016,FCS,Austin Peay,Murray State,RECEIVING,Kentel,Williams,LONG,8
+9514153,10/1/2016,FCS,Austin Peay,Murray State,KICKING,Nick,Gauna,FG-FGA,1/1
+9514154,10/1/2016,FCS,Austin Peay,Murray State,KICKING,Nick,Gauna,LONG,39
+9514155,10/1/2016,FCS,Austin Peay,Murray State,KICKING,Nick,Gauna,XP,2
+9514156,10/1/2016,FCS,Austin Peay,Murray State,KICKING,Nick,Gauna,PTS,5
+9514157,10/1/2016,FCS,Austin Peay,Murray State,PUNTING,Devin,Stuart,NO,5
+9514158,10/1/2016,FCS,Austin Peay,Murray State,PUNTING,Devin,Stuart,YDS,196
+9514159,10/1/2016,FCS,Austin Peay,Murray State,PUNTING,Devin,Stuart,AVG,39.2
+9514160,10/1/2016,FCS,Austin Peay,Murray State,PUNTING,Devin,Stuart,LONG,55
+9514161,10/1/2016,FCS,Austin Peay,Murray State,KICK RETURNS,Kyran,Moore,NO,4
+9514162,10/1/2016,FCS,Austin Peay,Murray State,KICK RETURNS,Kyran,Moore,YDS,68
+9514163,10/1/2016,FCS,Austin Peay,Murray State,KICK RETURNS,Kyran,Moore,AVG,17.0
+9514164,10/1/2016,FCS,Austin Peay,Murray State,KICK RETURNS,Kyran,Moore,LONG,21

@@ -1,0 +1,81 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9352001,9/10/2016,FCS,Butler,Franklin,RUSHING,Duvante,Lane,ATT,12
+9352002,9/10/2016,FCS,Butler,Franklin,RUSHING,Duvante,Lane,YDS,104
+9352003,9/10/2016,FCS,Butler,Franklin,RUSHING,Duvante,Lane,TD,3
+9352004,9/10/2016,FCS,Butler,Franklin,RUSHING,Duvante,Lane,LONG,26
+9352005,9/10/2016,FCS,Butler,Franklin,RUSHING,Anthony,Scaccia,ATT,9
+9352006,9/10/2016,FCS,Butler,Franklin,RUSHING,Anthony,Scaccia,YDS,59
+9352007,9/10/2016,FCS,Butler,Franklin,RUSHING,Anthony,Scaccia,TD,0
+9352008,9/10/2016,FCS,Butler,Franklin,RUSHING,Anthony,Scaccia,LONG,16
+9352009,9/10/2016,FCS,Butler,Franklin,RUSHING,,Team,ATT,7
+9352010,9/10/2016,FCS,Butler,Franklin,RUSHING,,Team,YDS,33
+9352011,9/10/2016,FCS,Butler,Franklin,RUSHING,,Team,TD,0
+9352012,9/10/2016,FCS,Butler,Franklin,RUSHING,,Team,LONG,7
+9352013,9/10/2016,FCS,Butler,Franklin,RUSHING,John,Hall,ATT,3
+9352014,9/10/2016,FCS,Butler,Franklin,RUSHING,John,Hall,YDS,26
+9352015,9/10/2016,FCS,Butler,Franklin,RUSHING,John,Hall,TD,1
+9352016,9/10/2016,FCS,Butler,Franklin,RUSHING,John,Hall,LONG,13
+9352017,9/10/2016,FCS,Butler,Franklin,RUSHING,Will,Marty,ATT,4
+9352018,9/10/2016,FCS,Butler,Franklin,RUSHING,Will,Marty,YDS,19
+9352019,9/10/2016,FCS,Butler,Franklin,RUSHING,Will,Marty,TD,0
+9352020,9/10/2016,FCS,Butler,Franklin,RUSHING,Will,Marty,LONG,12
+9352021,9/10/2016,FCS,Butler,Franklin,RUSHING,Malcolm,Weaver,ATT,4
+9352022,9/10/2016,FCS,Butler,Franklin,RUSHING,Malcolm,Weaver,YDS,13
+9352023,9/10/2016,FCS,Butler,Franklin,RUSHING,Malcolm,Weaver,TD,0
+9352024,9/10/2016,FCS,Butler,Franklin,RUSHING,Malcolm,Weaver,LONG,10
+9352025,9/10/2016,FCS,Butler,Franklin,PASSING,Malcolm,Weaver,CP-ATT-INT,16-23-1
+9352026,9/10/2016,FCS,Butler,Franklin,PASSING,Malcolm,Weaver,YDS,260
+9352027,9/10/2016,FCS,Butler,Franklin,PASSING,Malcolm,Weaver,TD,3
+9352028,9/10/2016,FCS,Butler,Franklin,PASSING,Malcolm,Weaver,LONG,39
+9352029,9/10/2016,FCS,Butler,Franklin,PASSING,Will,Marty,CP-ATT-INT,4-4-0
+9352030,9/10/2016,FCS,Butler,Franklin,PASSING,Will,Marty,YDS,23
+9352031,9/10/2016,FCS,Butler,Franklin,PASSING,Will,Marty,TD,0
+9352032,9/10/2016,FCS,Butler,Franklin,PASSING,Will,Marty,LONG,16
+9352033,9/10/2016,FCS,Butler,Franklin,RECEIVING,Danny,Cotter,REC,5
+9352034,9/10/2016,FCS,Butler,Franklin,RECEIVING,Danny,Cotter,YDS,106
+9352035,9/10/2016,FCS,Butler,Franklin,RECEIVING,Danny,Cotter,TD,1
+9352036,9/10/2016,FCS,Butler,Franklin,RECEIVING,Danny,Cotter,LONG,38
+9352037,9/10/2016,FCS,Butler,Franklin,RECEIVING,Pace,Temple,REC,5
+9352038,9/10/2016,FCS,Butler,Franklin,RECEIVING,Pace,Temple,YDS,92
+9352039,9/10/2016,FCS,Butler,Franklin,RECEIVING,Pace,Temple,TD,2
+9352040,9/10/2016,FCS,Butler,Franklin,RECEIVING,Pace,Temple,LONG,39
+9352041,9/10/2016,FCS,Butler,Franklin,RECEIVING,Nick,Weaver,REC,5
+9352042,9/10/2016,FCS,Butler,Franklin,RECEIVING,Nick,Weaver,YDS,65
+9352043,9/10/2016,FCS,Butler,Franklin,RECEIVING,Nick,Weaver,TD,0
+9352044,9/10/2016,FCS,Butler,Franklin,RECEIVING,Nick,Weaver,LONG,38
+9352045,9/10/2016,FCS,Butler,Franklin,RECEIVING,Thomas,Baldwin,REC,2
+9352046,9/10/2016,FCS,Butler,Franklin,RECEIVING,Thomas,Baldwin,YDS,11
+9352047,9/10/2016,FCS,Butler,Franklin,RECEIVING,Thomas,Baldwin,TD,0
+9352048,9/10/2016,FCS,Butler,Franklin,RECEIVING,Thomas,Baldwin,LONG,6
+9352049,9/10/2016,FCS,Butler,Franklin,RECEIVING,Anthony,Scaccia,REC,1
+9352050,9/10/2016,FCS,Butler,Franklin,RECEIVING,Anthony,Scaccia,YDS,8
+9352051,9/10/2016,FCS,Butler,Franklin,RECEIVING,Anthony,Scaccia,TD,0
+9352052,9/10/2016,FCS,Butler,Franklin,RECEIVING,Anthony,Scaccia,LONG,8
+9352053,9/10/2016,FCS,Butler,Franklin,RECEIVING,Cord,Collier,REC,1
+9352054,9/10/2016,FCS,Butler,Franklin,RECEIVING,Cord,Collier,YDS,4
+9352055,9/10/2016,FCS,Butler,Franklin,RECEIVING,Cord,Collier,TD,0
+9352056,9/10/2016,FCS,Butler,Franklin,RECEIVING,Cord,Collier,LONG,4
+9352057,9/10/2016,FCS,Butler,Franklin,RECEIVING,Brad,Sznajder,REC,1
+9352058,9/10/2016,FCS,Butler,Franklin,RECEIVING,Brad,Sznajder,YDS,-3
+9352059,9/10/2016,FCS,Butler,Franklin,RECEIVING,Brad,Sznajder,TD,0
+9352060,9/10/2016,FCS,Butler,Franklin,RECEIVING,Brad,Sznajder,LONG,0
+9352061,9/10/2016,FCS,Butler,Franklin,KICKING,Drew,Bevelhimer,FG-FGA,1/1
+9352062,9/10/2016,FCS,Butler,Franklin,KICKING,Drew,Bevelhimer,LONG,47
+9352063,9/10/2016,FCS,Butler,Franklin,KICKING,Drew,Bevelhimer,XP,8
+9352064,9/10/2016,FCS,Butler,Franklin,KICKING,Drew,Bevelhimer,PTS,11
+9352065,9/10/2016,FCS,Butler,Franklin,PUNTING,Ian,Dobek,NO,2
+9352066,9/10/2016,FCS,Butler,Franklin,PUNTING,Ian,Dobek,YDS,62
+9352067,9/10/2016,FCS,Butler,Franklin,PUNTING,Ian,Dobek,AVG,31.0
+9352068,9/10/2016,FCS,Butler,Franklin,PUNTING,Ian,Dobek,LONG,36
+9352069,9/10/2016,FCS,Butler,Franklin,PUNTING,Evan,Giebel,NO,1
+9352070,9/10/2016,FCS,Butler,Franklin,PUNTING,Evan,Giebel,YDS,28
+9352071,9/10/2016,FCS,Butler,Franklin,PUNTING,Evan,Giebel,AVG,28.0
+9352072,9/10/2016,FCS,Butler,Franklin,PUNTING,Evan,Giebel,LONG,28
+9352073,9/10/2016,FCS,Butler,Franklin,PUNT RETURNS,Isaak,Newhouse,NO,7
+9352074,9/10/2016,FCS,Butler,Franklin,PUNT RETURNS,Isaak,Newhouse,YDS,87
+9352075,9/10/2016,FCS,Butler,Franklin,PUNT RETURNS,Isaak,Newhouse,AVG,12.4
+9352076,9/10/2016,FCS,Butler,Franklin,PUNT RETURNS,Isaak,Newhouse,LONG,23
+9352077,9/10/2016,FCS,Butler,Franklin,KICK RETURNS,Isaak,Newhouse,NO,3
+9352078,9/10/2016,FCS,Butler,Franklin,KICK RETURNS,Isaak,Newhouse,YDS,58
+9352079,9/10/2016,FCS,Butler,Franklin,KICK RETURNS,Isaak,Newhouse,AVG,19.3
+9352080,9/10/2016,FCS,Butler,Franklin,KICK RETURNS,Isaak,Newhouse,LONG,37

@@ -1,0 +1,229 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+12040001,10/19/2019,FCS,Butler,Morehead St.,RUSHING,Brad,Sznajder,ATT,19
+12040002,10/19/2019,FCS,Butler,Morehead St.,RUSHING,Brad,Sznajder,YDS,90
+12040003,10/19/2019,FCS,Butler,Morehead St.,RUSHING,Brad,Sznajder,TD,0
+12040004,10/19/2019,FCS,Butler,Morehead St.,RUSHING,Brad,Sznajder,LONG,41
+12040005,10/19/2019,FCS,Butler,Morehead St.,RUSHING,Kavon,Samuels,ATT,7
+12040006,10/19/2019,FCS,Butler,Morehead St.,RUSHING,Kavon,Samuels,YDS,43
+12040007,10/19/2019,FCS,Butler,Morehead St.,RUSHING,Kavon,Samuels,TD,0
+12040008,10/19/2019,FCS,Butler,Morehead St.,RUSHING,Kavon,Samuels,LONG,19
+12040009,10/19/2019,FCS,Butler,Morehead St.,RUSHING,Nick,Orlando,ATT,11
+12040010,10/19/2019,FCS,Butler,Morehead St.,RUSHING,Nick,Orlando,YDS,38
+12040011,10/19/2019,FCS,Butler,Morehead St.,RUSHING,Nick,Orlando,TD,3
+12040012,10/19/2019,FCS,Butler,Morehead St.,RUSHING,Nick,Orlando,LONG,28
+12040013,10/19/2019,FCS,Butler,Morehead St.,PASSING,Nick,Orlando,CP-ATT-INT,6-13-2
+12040014,10/19/2019,FCS,Butler,Morehead St.,PASSING,Nick,Orlando,YDS,47
+12040015,10/19/2019,FCS,Butler,Morehead St.,PASSING,Nick,Orlando,TD,0
+12040016,10/19/2019,FCS,Butler,Morehead St.,PASSING,Nick,Orlando,LONG,20
+12040017,10/19/2019,FCS,Butler,Morehead St.,PASSING,Brad,Sznajder,CP-ATT-INT,2-2-0
+12040018,10/19/2019,FCS,Butler,Morehead St.,PASSING,Brad,Sznajder,YDS,43
+12040019,10/19/2019,FCS,Butler,Morehead St.,PASSING,Brad,Sznajder,TD,0
+12040020,10/19/2019,FCS,Butler,Morehead St.,PASSING,Brad,Sznajder,LONG,22
+12040021,10/19/2019,FCS,Butler,Morehead St.,PASSING,Sam,Brown,CP-ATT-INT,3-12-0
+12040022,10/19/2019,FCS,Butler,Morehead St.,PASSING,Sam,Brown,YDS,19
+12040023,10/19/2019,FCS,Butler,Morehead St.,PASSING,Sam,Brown,TD,0
+12040024,10/19/2019,FCS,Butler,Morehead St.,PASSING,Sam,Brown,LONG,11
+12040025,10/19/2019,FCS,Butler,Morehead St.,RECEIVING,Stephen,Dennis,REC,3
+12040026,10/19/2019,FCS,Butler,Morehead St.,RECEIVING,Stephen,Dennis,YDS,36
+12040027,10/19/2019,FCS,Butler,Morehead St.,RECEIVING,Stephen,Dennis,TD,0
+12040028,10/19/2019,FCS,Butler,Morehead St.,RECEIVING,Stephen,Dennis,LONG,21
+12040029,10/19/2019,FCS,Butler,Morehead St.,RECEIVING,Nick,Orlando,REC,1
+12040030,10/19/2019,FCS,Butler,Morehead St.,RECEIVING,Nick,Orlando,YDS,22
+12040031,10/19/2019,FCS,Butler,Morehead St.,RECEIVING,Nick,Orlando,TD,0
+12040032,10/19/2019,FCS,Butler,Morehead St.,RECEIVING,Nick,Orlando,LONG,22
+12040033,10/19/2019,FCS,Butler,Morehead St.,RECEIVING,Brad,Sznajder,REC,1
+12040034,10/19/2019,FCS,Butler,Morehead St.,RECEIVING,Brad,Sznajder,YDS,20
+12040035,10/19/2019,FCS,Butler,Morehead St.,RECEIVING,Brad,Sznajder,TD,0
+12040036,10/19/2019,FCS,Butler,Morehead St.,RECEIVING,Brad,Sznajder,LONG,20
+12040037,10/19/2019,FCS,Butler,Morehead St.,RECEIVING,John,Turley,REC,3
+12040038,10/19/2019,FCS,Butler,Morehead St.,RECEIVING,John,Turley,YDS,19
+12040039,10/19/2019,FCS,Butler,Morehead St.,RECEIVING,John,Turley,TD,0
+12040040,10/19/2019,FCS,Butler,Morehead St.,RECEIVING,John,Turley,LONG,11
+12040041,10/19/2019,FCS,Butler,Morehead St.,RECEIVING,Nate,Rusk,REC,1
+12040042,10/19/2019,FCS,Butler,Morehead St.,RECEIVING,Nate,Rusk,YDS,5
+12040043,10/19/2019,FCS,Butler,Morehead St.,RECEIVING,Nate,Rusk,TD,0
+12040044,10/19/2019,FCS,Butler,Morehead St.,RECEIVING,Nate,Rusk,LONG,5
+12040045,10/19/2019,FCS,Butler,Morehead St.,RECEIVING,Kavon,Samuels,REC,1
+12040046,10/19/2019,FCS,Butler,Morehead St.,RECEIVING,Kavon,Samuels,YDS,4
+12040047,10/19/2019,FCS,Butler,Morehead St.,RECEIVING,Kavon,Samuels,TD,0
+12040048,10/19/2019,FCS,Butler,Morehead St.,RECEIVING,Kavon,Samuels,LONG,4
+12040049,10/19/2019,FCS,Butler,Morehead St.,RECEIVING,Brad,Huth,REC,1
+12040050,10/19/2019,FCS,Butler,Morehead St.,RECEIVING,Brad,Huth,YDS,3
+12040051,10/19/2019,FCS,Butler,Morehead St.,RECEIVING,Brad,Huth,TD,0
+12040052,10/19/2019,FCS,Butler,Morehead St.,RECEIVING,Brad,Huth,LONG,3
+12040053,10/19/2019,FCS,Butler,Morehead St.,KICKING,Drew,Dingman,FG-FGA,0/0
+12040054,10/19/2019,FCS,Butler,Morehead St.,KICKING,Drew,Dingman,LONG,-
+12040055,10/19/2019,FCS,Butler,Morehead St.,KICKING,Drew,Dingman,XP,2
+12040056,10/19/2019,FCS,Butler,Morehead St.,KICKING,Drew,Dingman,PTS,2
+12040057,10/19/2019,FCS,Butler,Morehead St.,PUNTING,Drew,Dingman,NO,6
+12040058,10/19/2019,FCS,Butler,Morehead St.,PUNTING,Drew,Dingman,YDS,212
+12040059,10/19/2019,FCS,Butler,Morehead St.,PUNTING,Drew,Dingman,AVG,35.3
+12040060,10/19/2019,FCS,Butler,Morehead St.,PUNTING,Drew,Dingman,LONG,47
+12040061,10/19/2019,FCS,Butler,Morehead St.,PUNT RETURNS,Brad,Sznajder,NO,1
+12040062,10/19/2019,FCS,Butler,Morehead St.,PUNT RETURNS,Brad,Sznajder,YDS,41
+12040063,10/19/2019,FCS,Butler,Morehead St.,PUNT RETURNS,Brad,Sznajder,AVG,41.0
+12040064,10/19/2019,FCS,Butler,Morehead St.,PUNT RETURNS,Brad,Sznajder,LONG,41
+12040065,10/19/2019,FCS,Butler,Morehead St.,KICK RETURNS,AJ,Deinhart,NO,3
+12040066,10/19/2019,FCS,Butler,Morehead St.,KICK RETURNS,AJ,Deinhart,YDS,77
+12040067,10/19/2019,FCS,Butler,Morehead St.,KICK RETURNS,AJ,Deinhart,AVG,25.7
+12040068,10/19/2019,FCS,Butler,Morehead St.,KICK RETURNS,AJ,Deinhart,LONG,35
+12040069,10/19/2019,FCS,Butler,Morehead St.,KICK RETURNS,Kavon,Samuels,NO,1
+12040070,10/19/2019,FCS,Butler,Morehead St.,KICK RETURNS,Kavon,Samuels,YDS,25
+12040071,10/19/2019,FCS,Butler,Morehead St.,KICK RETURNS,Kavon,Samuels,AVG,25.0
+12040072,10/19/2019,FCS,Butler,Morehead St.,KICK RETURNS,Kavon,Samuels,LONG,25
+12040073,10/19/2019,FCS,Butler,Morehead St.,DEFENSE,Nick,Mahalak,TOT,0
+12040074,10/19/2019,FCS,Butler,Morehead St.,DEFENSE,Nick,Mahalak,SOLO,0
+12040075,10/19/2019,FCS,Butler,Morehead St.,DEFENSE,Nick,Mahalak,SACKS,1
+12040076,10/19/2019,FCS,Butler,Morehead St.,DEFENSE,Nick,Mahalak,TFL,0
+12040077,10/19/2019,FCS,Butler,Morehead St.,DEFENSE,Nick,Mahalak,INT,0
+12040078,10/19/2019,FCS,Butler,Morehead St.,DEFENSE,Nick,Mahalak,FF,0
+12040079,10/19/2019,FCS,Butler,Morehead St.,DEFENSE,Nick,Mahalak,FR,0
+12040080,10/19/2019,FCS,Butler,Morehead St.,DEFENSE,Ryan,Smith,TOT,0
+12040081,10/19/2019,FCS,Butler,Morehead St.,DEFENSE,Ryan,Smith,SOLO,0
+12040082,10/19/2019,FCS,Butler,Morehead St.,DEFENSE,Ryan,Smith,SACKS,0
+12040083,10/19/2019,FCS,Butler,Morehead St.,DEFENSE,Ryan,Smith,TFL,0
+12040084,10/19/2019,FCS,Butler,Morehead St.,DEFENSE,Ryan,Smith,INT,1
+12040085,10/19/2019,FCS,Butler,Morehead St.,DEFENSE,Ryan,Smith,FF,0
+12040086,10/19/2019,FCS,Butler,Morehead St.,DEFENSE,Ryan,Smith,FR,0
+12040087,10/19/2019,FCS,Butler,Morehead St.,DEFENSE,Marcus,Robitaille,TOT,0
+12040088,10/19/2019,FCS,Butler,Morehead St.,DEFENSE,Marcus,Robitaille,SOLO,0
+12040089,10/19/2019,FCS,Butler,Morehead St.,DEFENSE,Marcus,Robitaille,SACKS,0
+12040090,10/19/2019,FCS,Butler,Morehead St.,DEFENSE,Marcus,Robitaille,TFL,0
+12040091,10/19/2019,FCS,Butler,Morehead St.,DEFENSE,Marcus,Robitaille,INT,0
+12040092,10/19/2019,FCS,Butler,Morehead St.,DEFENSE,Marcus,Robitaille,FF,1
+12040093,10/19/2019,FCS,Butler,Morehead St.,DEFENSE,Marcus,Robitaille,FR,0
+12040094,10/19/2019,FCS,Morehead St.,Butler,RUSHING,Issiah,Aguero,ATT,15
+12040095,10/19/2019,FCS,Morehead St.,Butler,RUSHING,Issiah,Aguero,YDS,45
+12040096,10/19/2019,FCS,Morehead St.,Butler,RUSHING,Issiah,Aguero,TD,0
+12040097,10/19/2019,FCS,Morehead St.,Butler,RUSHING,Issiah,Aguero,LONG,16
+12040098,10/19/2019,FCS,Morehead St.,Butler,RUSHING,DeAndre,Clayton,ATT,7
+12040099,10/19/2019,FCS,Morehead St.,Butler,RUSHING,DeAndre,Clayton,YDS,31
+12040100,10/19/2019,FCS,Morehead St.,Butler,RUSHING,DeAndre,Clayton,TD,1
+12040101,10/19/2019,FCS,Morehead St.,Butler,RUSHING,DeAndre,Clayton,LONG,16
+12040102,10/19/2019,FCS,Morehead St.,Butler,RUSHING,Earl,Stoudemire,ATT,2
+12040103,10/19/2019,FCS,Morehead St.,Butler,RUSHING,Earl,Stoudemire,YDS,12
+12040104,10/19/2019,FCS,Morehead St.,Butler,RUSHING,Earl,Stoudemire,TD,0
+12040105,10/19/2019,FCS,Morehead St.,Butler,RUSHING,Earl,Stoudemire,LONG,13
+12040106,10/19/2019,FCS,Morehead St.,Butler,RUSHING,Jovan,Smith,ATT,6
+12040107,10/19/2019,FCS,Morehead St.,Butler,RUSHING,Jovan,Smith,YDS,9
+12040108,10/19/2019,FCS,Morehead St.,Butler,RUSHING,Jovan,Smith,TD,0
+12040109,10/19/2019,FCS,Morehead St.,Butler,RUSHING,Jovan,Smith,LONG,4
+12040110,10/19/2019,FCS,Morehead St.,Butler,RUSHING,Mark,Pappas,ATT,1
+12040111,10/19/2019,FCS,Morehead St.,Butler,RUSHING,Mark,Pappas,YDS,0
+12040112,10/19/2019,FCS,Morehead St.,Butler,RUSHING,Mark,Pappas,TD,0
+12040113,10/19/2019,FCS,Morehead St.,Butler,RUSHING,Mark,Pappas,LONG,0
+12040114,10/19/2019,FCS,Morehead St.,Butler,RUSHING,,Team,ATT,3
+12040115,10/19/2019,FCS,Morehead St.,Butler,RUSHING,,Team,YDS,-6
+12040116,10/19/2019,FCS,Morehead St.,Butler,RUSHING,,Team,TD,0
+12040117,10/19/2019,FCS,Morehead St.,Butler,RUSHING,,Team,LONG,0
+12040118,10/19/2019,FCS,Morehead St.,Butler,PASSING,Mark,Pappas,CP-ATT-INT,21-29-1
+12040119,10/19/2019,FCS,Morehead St.,Butler,PASSING,Mark,Pappas,YDS,300
+12040120,10/19/2019,FCS,Morehead St.,Butler,PASSING,Mark,Pappas,TD,3
+12040121,10/19/2019,FCS,Morehead St.,Butler,PASSING,Mark,Pappas,LONG,54
+12040122,10/19/2019,FCS,Morehead St.,Butler,PASSING,DeAndre,Clayton,CP-ATT-INT,1-3-0
+12040123,10/19/2019,FCS,Morehead St.,Butler,PASSING,DeAndre,Clayton,YDS,2
+12040124,10/19/2019,FCS,Morehead St.,Butler,PASSING,DeAndre,Clayton,TD,0
+12040125,10/19/2019,FCS,Morehead St.,Butler,PASSING,DeAndre,Clayton,LONG,2
+12040126,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,Landon,Hurst,REC,8
+12040127,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,Landon,Hurst,YDS,98
+12040128,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,Landon,Hurst,TD,0
+12040129,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,Landon,Hurst,LONG,29
+12040130,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,DeVonte,Adams,REC,1
+12040131,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,DeVonte,Adams,YDS,54
+12040132,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,DeVonte,Adams,TD,1
+12040133,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,DeVonte,Adams,LONG,54
+12040134,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,Matt,Guilfoil,REC,3
+12040135,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,Matt,Guilfoil,YDS,37
+12040136,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,Matt,Guilfoil,TD,0
+12040137,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,Matt,Guilfoil,LONG,26
+12040138,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,Jordan,Huffman,REC,1
+12040139,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,Jordan,Huffman,YDS,32
+12040140,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,Jordan,Huffman,TD,1
+12040141,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,Jordan,Huffman,LONG,32
+12040142,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,Ian,Holder,REC,1
+12040143,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,Ian,Holder,YDS,28
+12040144,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,Ian,Holder,TD,1
+12040145,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,Ian,Holder,LONG,28
+12040146,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,Jacob,Peters,REC,3
+12040147,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,Jacob,Peters,YDS,19
+12040148,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,Jacob,Peters,TD,0
+12040149,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,Jacob,Peters,LONG,13
+12040150,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,Vaughn,TaylorJr.,REC,1
+12040151,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,Vaughn,TaylorJr.,YDS,14
+12040152,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,Vaughn,TaylorJr.,TD,0
+12040153,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,Vaughn,TaylorJr.,LONG,14
+12040154,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,Jovan,Smith,REC,2
+12040155,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,Jovan,Smith,YDS,8
+12040156,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,Jovan,Smith,TD,0
+12040157,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,Jovan,Smith,LONG,6
+12040158,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,Jovel,Smith,REC,1
+12040159,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,Jovel,Smith,YDS,7
+12040160,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,Jovel,Smith,TD,0
+12040161,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,Jovel,Smith,LONG,7
+12040162,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,Matt,Mattingly,REC,1
+12040163,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,Matt,Mattingly,YDS,5
+12040164,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,Matt,Mattingly,TD,0
+12040165,10/19/2019,FCS,Morehead St.,Butler,RECEIVING,Matt,Mattingly,LONG,5
+12040166,10/19/2019,FCS,Morehead St.,Butler,KICKING,Andrew,Foster,FG-FGA,1/1
+12040167,10/19/2019,FCS,Morehead St.,Butler,KICKING,Andrew,Foster,LONG,44
+12040168,10/19/2019,FCS,Morehead St.,Butler,KICKING,Andrew,Foster,XP,4
+12040169,10/19/2019,FCS,Morehead St.,Butler,KICKING,Andrew,Foster,PTS,7
+12040170,10/19/2019,FCS,Morehead St.,Butler,PUNTING,Andrew,Foster,NO,6
+12040171,10/19/2019,FCS,Morehead St.,Butler,PUNTING,Andrew,Foster,YDS,235
+12040172,10/19/2019,FCS,Morehead St.,Butler,PUNTING,Andrew,Foster,AVG,39.2
+12040173,10/19/2019,FCS,Morehead St.,Butler,PUNTING,Andrew,Foster,LONG,47
+12040174,10/19/2019,FCS,Morehead St.,Butler,PUNT RETURNS,Ian,Holder,NO,1
+12040175,10/19/2019,FCS,Morehead St.,Butler,PUNT RETURNS,Ian,Holder,YDS,9
+12040176,10/19/2019,FCS,Morehead St.,Butler,PUNT RETURNS,Ian,Holder,AVG,9.0
+12040177,10/19/2019,FCS,Morehead St.,Butler,PUNT RETURNS,Ian,Holder,LONG,9
+12040178,10/19/2019,FCS,Morehead St.,Butler,PUNT RETURNS,Landon,Hurst,NO,1
+12040179,10/19/2019,FCS,Morehead St.,Butler,PUNT RETURNS,Landon,Hurst,YDS,-6
+12040180,10/19/2019,FCS,Morehead St.,Butler,PUNT RETURNS,Landon,Hurst,AVG,-
+12040181,10/19/2019,FCS,Morehead St.,Butler,PUNT RETURNS,Landon,Hurst,LONG,0
+12040182,10/19/2019,FCS,Morehead St.,Butler,KICK RETURNS,Ian,Holder,NO,2
+12040183,10/19/2019,FCS,Morehead St.,Butler,KICK RETURNS,Ian,Holder,YDS,60
+12040184,10/19/2019,FCS,Morehead St.,Butler,KICK RETURNS,Ian,Holder,AVG,30.0
+12040185,10/19/2019,FCS,Morehead St.,Butler,KICK RETURNS,Ian,Holder,LONG,34
+12040186,10/19/2019,FCS,Morehead St.,Butler,KICK RETURNS,DeVonte,Adams,NO,1
+12040187,10/19/2019,FCS,Morehead St.,Butler,KICK RETURNS,DeVonte,Adams,YDS,22
+12040188,10/19/2019,FCS,Morehead St.,Butler,KICK RETURNS,DeVonte,Adams,AVG,22.0
+12040189,10/19/2019,FCS,Morehead St.,Butler,KICK RETURNS,DeVonte,Adams,LONG,22
+12040190,10/19/2019,FCS,Morehead St.,Butler,KICK RETURNS,Aaron,Turk,NO,1
+12040191,10/19/2019,FCS,Morehead St.,Butler,KICK RETURNS,Aaron,Turk,YDS,18
+12040192,10/19/2019,FCS,Morehead St.,Butler,KICK RETURNS,Aaron,Turk,AVG,18.0
+12040193,10/19/2019,FCS,Morehead St.,Butler,KICK RETURNS,Aaron,Turk,LONG,18
+12040194,10/19/2019,FCS,Morehead St.,Butler,DEFENSE,Jacob,Wilde,TOT,0
+12040195,10/19/2019,FCS,Morehead St.,Butler,DEFENSE,Jacob,Wilde,SOLO,0
+12040196,10/19/2019,FCS,Morehead St.,Butler,DEFENSE,Jacob,Wilde,SACKS,0.5
+12040197,10/19/2019,FCS,Morehead St.,Butler,DEFENSE,Jacob,Wilde,TFL,0
+12040198,10/19/2019,FCS,Morehead St.,Butler,DEFENSE,Jacob,Wilde,INT,0
+12040199,10/19/2019,FCS,Morehead St.,Butler,DEFENSE,Jacob,Wilde,FF,0
+12040200,10/19/2019,FCS,Morehead St.,Butler,DEFENSE,Jacob,Wilde,FR,0
+12040201,10/19/2019,FCS,Morehead St.,Butler,DEFENSE,Vaughn,TaylorJr.,TOT,0
+12040202,10/19/2019,FCS,Morehead St.,Butler,DEFENSE,Vaughn,TaylorJr.,SOLO,0
+12040203,10/19/2019,FCS,Morehead St.,Butler,DEFENSE,Vaughn,TaylorJr.,SACKS,1.5
+12040204,10/19/2019,FCS,Morehead St.,Butler,DEFENSE,Vaughn,TaylorJr.,TFL,0
+12040205,10/19/2019,FCS,Morehead St.,Butler,DEFENSE,Vaughn,TaylorJr.,INT,0
+12040206,10/19/2019,FCS,Morehead St.,Butler,DEFENSE,Vaughn,TaylorJr.,FF,0
+12040207,10/19/2019,FCS,Morehead St.,Butler,DEFENSE,Vaughn,TaylorJr.,FR,0
+12040208,10/19/2019,FCS,Morehead St.,Butler,DEFENSE,Aaron,Turk,TOT,7
+12040209,10/19/2019,FCS,Morehead St.,Butler,DEFENSE,Aaron,Turk,SOLO,6
+12040210,10/19/2019,FCS,Morehead St.,Butler,DEFENSE,Aaron,Turk,SACKS,0
+12040211,10/19/2019,FCS,Morehead St.,Butler,DEFENSE,Aaron,Turk,TFL,1
+12040212,10/19/2019,FCS,Morehead St.,Butler,DEFENSE,Aaron,Turk,INT,1
+12040213,10/19/2019,FCS,Morehead St.,Butler,DEFENSE,Aaron,Turk,FF,0
+12040214,10/19/2019,FCS,Morehead St.,Butler,DEFENSE,Aaron,Turk,FR,0
+12040215,10/19/2019,FCS,Morehead St.,Butler,DEFENSE,Beau,Griego,TOT,0
+12040216,10/19/2019,FCS,Morehead St.,Butler,DEFENSE,Beau,Griego,SOLO,0
+12040217,10/19/2019,FCS,Morehead St.,Butler,DEFENSE,Beau,Griego,SACKS,1
+12040218,10/19/2019,FCS,Morehead St.,Butler,DEFENSE,Beau,Griego,TFL,0
+12040219,10/19/2019,FCS,Morehead St.,Butler,DEFENSE,Beau,Griego,INT,0
+12040220,10/19/2019,FCS,Morehead St.,Butler,DEFENSE,Beau,Griego,FF,0
+12040221,10/19/2019,FCS,Morehead St.,Butler,DEFENSE,Beau,Griego,FR,0
+12040222,10/19/2019,FCS,Morehead St.,Butler,DEFENSE,Kalen,Carson,TOT,0
+12040223,10/19/2019,FCS,Morehead St.,Butler,DEFENSE,Kalen,Carson,SOLO,0
+12040224,10/19/2019,FCS,Morehead St.,Butler,DEFENSE,Kalen,Carson,SACKS,0
+12040225,10/19/2019,FCS,Morehead St.,Butler,DEFENSE,Kalen,Carson,TFL,0
+12040226,10/19/2019,FCS,Morehead St.,Butler,DEFENSE,Kalen,Carson,INT,1
+12040227,10/19/2019,FCS,Morehead St.,Butler,DEFENSE,Kalen,Carson,FF,0
+12040228,10/19/2019,FCS,Morehead St.,Butler,DEFENSE,Kalen,Carson,FR,0

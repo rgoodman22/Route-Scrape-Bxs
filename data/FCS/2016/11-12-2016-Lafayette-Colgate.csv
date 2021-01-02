@@ -1,0 +1,129 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9870001,11/12/2016,FCS,Lafayette,Colgate,RUSHING,DeSean,Brown,ATT,15
+9870002,11/12/2016,FCS,Lafayette,Colgate,RUSHING,DeSean,Brown,YDS,91
+9870003,11/12/2016,FCS,Lafayette,Colgate,RUSHING,DeSean,Brown,TD,1
+9870004,11/12/2016,FCS,Lafayette,Colgate,RUSHING,DeSean,Brown,LONG,25
+9870005,11/12/2016,FCS,Lafayette,Colgate,RUSHING,Tyler,West,ATT,2
+9870006,11/12/2016,FCS,Lafayette,Colgate,RUSHING,Tyler,West,YDS,4
+9870007,11/12/2016,FCS,Lafayette,Colgate,RUSHING,Tyler,West,TD,0
+9870008,11/12/2016,FCS,Lafayette,Colgate,RUSHING,Tyler,West,LONG,4
+9870009,11/12/2016,FCS,Lafayette,Colgate,RUSHING,Mike,Dunn,ATT,3
+9870010,11/12/2016,FCS,Lafayette,Colgate,RUSHING,Mike,Dunn,YDS,3
+9870011,11/12/2016,FCS,Lafayette,Colgate,RUSHING,Mike,Dunn,TD,0
+9870012,11/12/2016,FCS,Lafayette,Colgate,RUSHING,Mike,Dunn,LONG,2
+9870013,11/12/2016,FCS,Lafayette,Colgate,RUSHING,Drew,Reed,ATT,8
+9870014,11/12/2016,FCS,Lafayette,Colgate,RUSHING,Drew,Reed,YDS,-51
+9870015,11/12/2016,FCS,Lafayette,Colgate,RUSHING,Drew,Reed,TD,0
+9870016,11/12/2016,FCS,Lafayette,Colgate,RUSHING,Drew,Reed,LONG,0
+9870017,11/12/2016,FCS,Lafayette,Colgate,PASSING,Drew,Reed,CP-ATT-INT,24-41-0
+9870018,11/12/2016,FCS,Lafayette,Colgate,PASSING,Drew,Reed,YDS,202
+9870019,11/12/2016,FCS,Lafayette,Colgate,PASSING,Drew,Reed,TD,1
+9870020,11/12/2016,FCS,Lafayette,Colgate,PASSING,Drew,Reed,LONG,36
+9870021,11/12/2016,FCS,Lafayette,Colgate,RECEIVING,Rocco,Palumbo,REC,7
+9870022,11/12/2016,FCS,Lafayette,Colgate,RECEIVING,Rocco,Palumbo,YDS,103
+9870023,11/12/2016,FCS,Lafayette,Colgate,RECEIVING,Rocco,Palumbo,TD,1
+9870024,11/12/2016,FCS,Lafayette,Colgate,RECEIVING,Rocco,Palumbo,LONG,36
+9870025,11/12/2016,FCS,Lafayette,Colgate,RECEIVING,Matt,Mrazek,REC,6
+9870026,11/12/2016,FCS,Lafayette,Colgate,RECEIVING,Matt,Mrazek,YDS,42
+9870027,11/12/2016,FCS,Lafayette,Colgate,RECEIVING,Matt,Mrazek,TD,0
+9870028,11/12/2016,FCS,Lafayette,Colgate,RECEIVING,Matt,Mrazek,LONG,17
+9870029,11/12/2016,FCS,Lafayette,Colgate,RECEIVING,C.J.,Amill,REC,3
+9870030,11/12/2016,FCS,Lafayette,Colgate,RECEIVING,C.J.,Amill,YDS,17
+9870031,11/12/2016,FCS,Lafayette,Colgate,RECEIVING,C.J.,Amill,TD,0
+9870032,11/12/2016,FCS,Lafayette,Colgate,RECEIVING,C.J.,Amill,LONG,8
+9870033,11/12/2016,FCS,Lafayette,Colgate,RECEIVING,Dylan,Wadsworth,REC,2
+9870034,11/12/2016,FCS,Lafayette,Colgate,RECEIVING,Dylan,Wadsworth,YDS,16
+9870035,11/12/2016,FCS,Lafayette,Colgate,RECEIVING,Dylan,Wadsworth,TD,0
+9870036,11/12/2016,FCS,Lafayette,Colgate,RECEIVING,Dylan,Wadsworth,LONG,9
+9870037,11/12/2016,FCS,Lafayette,Colgate,RECEIVING,Joey,Chenoweth,REC,2
+9870038,11/12/2016,FCS,Lafayette,Colgate,RECEIVING,Joey,Chenoweth,YDS,12
+9870039,11/12/2016,FCS,Lafayette,Colgate,RECEIVING,Joey,Chenoweth,TD,0
+9870040,11/12/2016,FCS,Lafayette,Colgate,RECEIVING,Joey,Chenoweth,LONG,8
+9870041,11/12/2016,FCS,Lafayette,Colgate,RECEIVING,Tim,Vangelas,REC,1
+9870042,11/12/2016,FCS,Lafayette,Colgate,RECEIVING,Tim,Vangelas,YDS,8
+9870043,11/12/2016,FCS,Lafayette,Colgate,RECEIVING,Tim,Vangelas,TD,0
+9870044,11/12/2016,FCS,Lafayette,Colgate,RECEIVING,Tim,Vangelas,LONG,8
+9870045,11/12/2016,FCS,Lafayette,Colgate,RECEIVING,DeSean,Brown,REC,2
+9870046,11/12/2016,FCS,Lafayette,Colgate,RECEIVING,DeSean,Brown,YDS,5
+9870047,11/12/2016,FCS,Lafayette,Colgate,RECEIVING,DeSean,Brown,TD,0
+9870048,11/12/2016,FCS,Lafayette,Colgate,RECEIVING,DeSean,Brown,LONG,3
+9870049,11/12/2016,FCS,Lafayette,Colgate,RECEIVING,Mike,Dunn,REC,1
+9870050,11/12/2016,FCS,Lafayette,Colgate,RECEIVING,Mike,Dunn,YDS,-1
+9870051,11/12/2016,FCS,Lafayette,Colgate,RECEIVING,Mike,Dunn,TD,0
+9870052,11/12/2016,FCS,Lafayette,Colgate,RECEIVING,Mike,Dunn,LONG,0
+9870053,11/12/2016,FCS,Lafayette,Colgate,KICKING,Jacob,Bissell,FG-FGA,0/0
+9870054,11/12/2016,FCS,Lafayette,Colgate,KICKING,Jacob,Bissell,LONG,-
+9870055,11/12/2016,FCS,Lafayette,Colgate,KICKING,Jacob,Bissell,XP,1
+9870056,11/12/2016,FCS,Lafayette,Colgate,KICKING,Jacob,Bissell,PTS,1
+9870057,11/12/2016,FCS,Lafayette,Colgate,PUNTING,Ryan,Forrester,NO,10
+9870058,11/12/2016,FCS,Lafayette,Colgate,PUNTING,Ryan,Forrester,YDS,423
+9870059,11/12/2016,FCS,Lafayette,Colgate,PUNTING,Ryan,Forrester,AVG,42.3
+9870060,11/12/2016,FCS,Lafayette,Colgate,PUNTING,Ryan,Forrester,LONG,54
+9870061,11/12/2016,FCS,Lafayette,Colgate,KICK RETURNS,C.J.,Amill,NO,5
+9870062,11/12/2016,FCS,Lafayette,Colgate,KICK RETURNS,C.J.,Amill,YDS,100
+9870063,11/12/2016,FCS,Lafayette,Colgate,KICK RETURNS,C.J.,Amill,AVG,20.0
+9870064,11/12/2016,FCS,Lafayette,Colgate,KICK RETURNS,C.J.,Amill,LONG,25
+9870065,11/12/2016,FCS,Lafayette,Colgate,KICK RETURNS,Tim,Vangelas,NO,1
+9870066,11/12/2016,FCS,Lafayette,Colgate,KICK RETURNS,Tim,Vangelas,YDS,16
+9870067,11/12/2016,FCS,Lafayette,Colgate,KICK RETURNS,Tim,Vangelas,AVG,16.0
+9870068,11/12/2016,FCS,Lafayette,Colgate,KICK RETURNS,Tim,Vangelas,LONG,16
+9870069,11/12/2016,FCS,Lafayette,Colgate,KICK RETURNS,Eric,Mitchell,NO,1
+9870070,11/12/2016,FCS,Lafayette,Colgate,KICK RETURNS,Eric,Mitchell,YDS,9
+9870071,11/12/2016,FCS,Lafayette,Colgate,KICK RETURNS,Eric,Mitchell,AVG,9.0
+9870072,11/12/2016,FCS,Lafayette,Colgate,KICK RETURNS,Eric,Mitchell,LONG,9
+9870073,11/12/2016,FCS,Colgate,Lafayette,RUSHING,Jake,Melville,ATT,17
+9870074,11/12/2016,FCS,Colgate,Lafayette,RUSHING,Jake,Melville,YDS,141
+9870075,11/12/2016,FCS,Colgate,Lafayette,RUSHING,Jake,Melville,TD,1
+9870076,11/12/2016,FCS,Colgate,Lafayette,RUSHING,Jake,Melville,LONG,37
+9870077,11/12/2016,FCS,Colgate,Lafayette,RUSHING,John,Wilkins,ATT,8
+9870078,11/12/2016,FCS,Colgate,Lafayette,RUSHING,John,Wilkins,YDS,59
+9870079,11/12/2016,FCS,Colgate,Lafayette,RUSHING,John,Wilkins,TD,2
+9870080,11/12/2016,FCS,Colgate,Lafayette,RUSHING,John,Wilkins,LONG,28
+9870081,11/12/2016,FCS,Colgate,Lafayette,RUSHING,Keyon,Washington,ATT,10
+9870082,11/12/2016,FCS,Colgate,Lafayette,RUSHING,Keyon,Washington,YDS,35
+9870083,11/12/2016,FCS,Colgate,Lafayette,RUSHING,Keyon,Washington,TD,0
+9870084,11/12/2016,FCS,Colgate,Lafayette,RUSHING,Keyon,Washington,LONG,9
+9870085,11/12/2016,FCS,Colgate,Lafayette,RUSHING,,Team,ATT,1
+9870086,11/12/2016,FCS,Colgate,Lafayette,RUSHING,,Team,YDS,0
+9870087,11/12/2016,FCS,Colgate,Lafayette,RUSHING,,Team,TD,0
+9870088,11/12/2016,FCS,Colgate,Lafayette,RUSHING,,Team,LONG,0
+9870089,11/12/2016,FCS,Colgate,Lafayette,PASSING,Jake,Melville,CP-ATT-INT,15-23-0
+9870090,11/12/2016,FCS,Colgate,Lafayette,PASSING,Jake,Melville,YDS,202
+9870091,11/12/2016,FCS,Colgate,Lafayette,PASSING,Jake,Melville,TD,2
+9870092,11/12/2016,FCS,Colgate,Lafayette,PASSING,Jake,Melville,LONG,48
+9870093,11/12/2016,FCS,Colgate,Lafayette,RECEIVING,Owen,Rockett,REC,4
+9870094,11/12/2016,FCS,Colgate,Lafayette,RECEIVING,Owen,Rockett,YDS,93
+9870095,11/12/2016,FCS,Colgate,Lafayette,RECEIVING,Owen,Rockett,TD,1
+9870096,11/12/2016,FCS,Colgate,Lafayette,RECEIVING,Owen,Rockett,LONG,48
+9870097,11/12/2016,FCS,Colgate,Lafayette,RECEIVING,John,Maddaluna,REC,6
+9870098,11/12/2016,FCS,Colgate,Lafayette,RECEIVING,John,Maddaluna,YDS,76
+9870099,11/12/2016,FCS,Colgate,Lafayette,RECEIVING,John,Maddaluna,TD,0
+9870100,11/12/2016,FCS,Colgate,Lafayette,RECEIVING,John,Maddaluna,LONG,22
+9870101,11/12/2016,FCS,Colgate,Lafayette,RECEIVING,Nick,Martinsen,REC,3
+9870102,11/12/2016,FCS,Colgate,Lafayette,RECEIVING,Nick,Martinsen,YDS,20
+9870103,11/12/2016,FCS,Colgate,Lafayette,RECEIVING,Nick,Martinsen,TD,1
+9870104,11/12/2016,FCS,Colgate,Lafayette,RECEIVING,Nick,Martinsen,LONG,12
+9870105,11/12/2016,FCS,Colgate,Lafayette,RECEIVING,Thomas,Ives,REC,1
+9870106,11/12/2016,FCS,Colgate,Lafayette,RECEIVING,Thomas,Ives,YDS,13
+9870107,11/12/2016,FCS,Colgate,Lafayette,RECEIVING,Thomas,Ives,TD,0
+9870108,11/12/2016,FCS,Colgate,Lafayette,RECEIVING,Thomas,Ives,LONG,13
+9870109,11/12/2016,FCS,Colgate,Lafayette,RECEIVING,Keyon,Washington,REC,1
+9870110,11/12/2016,FCS,Colgate,Lafayette,RECEIVING,Keyon,Washington,YDS,0
+9870111,11/12/2016,FCS,Colgate,Lafayette,RECEIVING,Keyon,Washington,TD,0
+9870112,11/12/2016,FCS,Colgate,Lafayette,RECEIVING,Keyon,Washington,LONG,0
+9870113,11/12/2016,FCS,Colgate,Lafayette,KICKING,Jonah,Bowman,FG-FGA,1/1
+9870114,11/12/2016,FCS,Colgate,Lafayette,KICKING,Jonah,Bowman,LONG,39
+9870115,11/12/2016,FCS,Colgate,Lafayette,KICKING,Jonah,Bowman,XP,5
+9870116,11/12/2016,FCS,Colgate,Lafayette,KICKING,Jonah,Bowman,PTS,8
+9870117,11/12/2016,FCS,Colgate,Lafayette,PUNTING,Josh,Cerra,NO,6
+9870118,11/12/2016,FCS,Colgate,Lafayette,PUNTING,Josh,Cerra,YDS,211
+9870119,11/12/2016,FCS,Colgate,Lafayette,PUNTING,Josh,Cerra,AVG,35.2
+9870120,11/12/2016,FCS,Colgate,Lafayette,PUNTING,Josh,Cerra,LONG,47
+9870121,11/12/2016,FCS,Colgate,Lafayette,PUNT RETURNS,Abu,Daramy,NO,4
+9870122,11/12/2016,FCS,Colgate,Lafayette,PUNT RETURNS,Abu,Daramy,YDS,56
+9870123,11/12/2016,FCS,Colgate,Lafayette,PUNT RETURNS,Abu,Daramy,AVG,14.0
+9870124,11/12/2016,FCS,Colgate,Lafayette,PUNT RETURNS,Abu,Daramy,LONG,18
+9870125,11/12/2016,FCS,Colgate,Lafayette,KICK RETURNS,Abu,Daramy,NO,2
+9870126,11/12/2016,FCS,Colgate,Lafayette,KICK RETURNS,Abu,Daramy,YDS,40
+9870127,11/12/2016,FCS,Colgate,Lafayette,KICK RETURNS,Abu,Daramy,AVG,20.0
+9870128,11/12/2016,FCS,Colgate,Lafayette,KICK RETURNS,Abu,Daramy,LONG,26

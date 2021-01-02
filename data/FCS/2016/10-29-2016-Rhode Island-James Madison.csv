@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9771001,10/29/2016,FCS,Rhode Island,James Madison,RUSHING,Markey,Clarke,ATT,13
+9771002,10/29/2016,FCS,Rhode Island,James Madison,RUSHING,Markey,Clarke,YDS,77
+9771003,10/29/2016,FCS,Rhode Island,James Madison,RUSHING,Markey,Clarke,TD,0
+9771004,10/29/2016,FCS,Rhode Island,James Madison,RUSHING,Markey,Clarke,LONG,28
+9771005,10/29/2016,FCS,Rhode Island,James Madison,RUSHING,T.J.,Anderson,ATT,8
+9771006,10/29/2016,FCS,Rhode Island,James Madison,RUSHING,T.J.,Anderson,YDS,16
+9771007,10/29/2016,FCS,Rhode Island,James Madison,RUSHING,T.J.,Anderson,TD,0
+9771008,10/29/2016,FCS,Rhode Island,James Madison,RUSHING,T.J.,Anderson,LONG,6
+9771009,10/29/2016,FCS,Rhode Island,James Madison,RUSHING,Harold,Cooper,ATT,3
+9771010,10/29/2016,FCS,Rhode Island,James Madison,RUSHING,Harold,Cooper,YDS,6
+9771011,10/29/2016,FCS,Rhode Island,James Madison,RUSHING,Harold,Cooper,TD,0
+9771012,10/29/2016,FCS,Rhode Island,James Madison,RUSHING,Harold,Cooper,LONG,9
+9771013,10/29/2016,FCS,Rhode Island,James Madison,RUSHING,Jordan,Vazzano,ATT,2
+9771014,10/29/2016,FCS,Rhode Island,James Madison,RUSHING,Jordan,Vazzano,YDS,-2
+9771015,10/29/2016,FCS,Rhode Island,James Madison,RUSHING,Jordan,Vazzano,TD,0
+9771016,10/29/2016,FCS,Rhode Island,James Madison,RUSHING,Jordan,Vazzano,LONG,1
+9771017,10/29/2016,FCS,Rhode Island,James Madison,PASSING,Jordan,Vazzano,CP-ATT-INT,4-25-5
+9771018,10/29/2016,FCS,Rhode Island,James Madison,PASSING,Jordan,Vazzano,YDS,12
+9771019,10/29/2016,FCS,Rhode Island,James Madison,PASSING,Jordan,Vazzano,TD,0
+9771020,10/29/2016,FCS,Rhode Island,James Madison,PASSING,Jordan,Vazzano,LONG,6
+9771021,10/29/2016,FCS,Rhode Island,James Madison,RECEIVING,Harold,BucknerIII,REC,2
+9771022,10/29/2016,FCS,Rhode Island,James Madison,RECEIVING,Harold,BucknerIII,YDS,7
+9771023,10/29/2016,FCS,Rhode Island,James Madison,RECEIVING,Harold,BucknerIII,TD,0
+9771024,10/29/2016,FCS,Rhode Island,James Madison,RECEIVING,Harold,BucknerIII,LONG,6
+9771025,10/29/2016,FCS,Rhode Island,James Madison,RECEIVING,Aaron,Parker,REC,1
+9771026,10/29/2016,FCS,Rhode Island,James Madison,RECEIVING,Aaron,Parker,YDS,3
+9771027,10/29/2016,FCS,Rhode Island,James Madison,RECEIVING,Aaron,Parker,TD,0
+9771028,10/29/2016,FCS,Rhode Island,James Madison,RECEIVING,Aaron,Parker,LONG,3
+9771029,10/29/2016,FCS,Rhode Island,James Madison,RECEIVING,Charlie,McKeeman,REC,1
+9771030,10/29/2016,FCS,Rhode Island,James Madison,RECEIVING,Charlie,McKeeman,YDS,2
+9771031,10/29/2016,FCS,Rhode Island,James Madison,RECEIVING,Charlie,McKeeman,TD,0
+9771032,10/29/2016,FCS,Rhode Island,James Madison,RECEIVING,Charlie,McKeeman,LONG,2
+9771033,10/29/2016,FCS,Rhode Island,James Madison,KICKING,Justin,Rohrwasser,FG-FGA,0/0
+9771034,10/29/2016,FCS,Rhode Island,James Madison,KICKING,Justin,Rohrwasser,LONG,-
+9771035,10/29/2016,FCS,Rhode Island,James Madison,KICKING,Justin,Rohrwasser,XP,1
+9771036,10/29/2016,FCS,Rhode Island,James Madison,KICKING,Justin,Rohrwasser,PTS,1
+9771037,10/29/2016,FCS,Rhode Island,James Madison,PUNTING,Oliver,Graybar,NO,8
+9771038,10/29/2016,FCS,Rhode Island,James Madison,PUNTING,Oliver,Graybar,YDS,350
+9771039,10/29/2016,FCS,Rhode Island,James Madison,PUNTING,Oliver,Graybar,AVG,43.8
+9771040,10/29/2016,FCS,Rhode Island,James Madison,PUNTING,Oliver,Graybar,LONG,55
+9771041,10/29/2016,FCS,Rhode Island,James Madison,KICK RETURNS,Harold,Cooper,NO,3
+9771042,10/29/2016,FCS,Rhode Island,James Madison,KICK RETURNS,Harold,Cooper,YDS,135
+9771043,10/29/2016,FCS,Rhode Island,James Madison,KICK RETURNS,Harold,Cooper,AVG,45.0
+9771044,10/29/2016,FCS,Rhode Island,James Madison,KICK RETURNS,Harold,Cooper,LONG,99
+9771045,10/29/2016,FCS,Rhode Island,James Madison,KICK RETURNS,Myles,Ross,NO,3
+9771046,10/29/2016,FCS,Rhode Island,James Madison,KICK RETURNS,Myles,Ross,YDS,52
+9771047,10/29/2016,FCS,Rhode Island,James Madison,KICK RETURNS,Myles,Ross,AVG,17.3
+9771048,10/29/2016,FCS,Rhode Island,James Madison,KICK RETURNS,Myles,Ross,LONG,24
+9771049,10/29/2016,FCS,Rhode Island,James Madison,KICK RETURNS,Khayri,Denny,NO,1
+9771050,10/29/2016,FCS,Rhode Island,James Madison,KICK RETURNS,Khayri,Denny,YDS,23
+9771051,10/29/2016,FCS,Rhode Island,James Madison,KICK RETURNS,Khayri,Denny,AVG,23.0
+9771052,10/29/2016,FCS,Rhode Island,James Madison,KICK RETURNS,Khayri,Denny,LONG,23
+9771053,10/29/2016,FCS,James Madison,Rhode Island,RUSHING,Khalid,Abdullah,ATT,18
+9771054,10/29/2016,FCS,James Madison,Rhode Island,RUSHING,Khalid,Abdullah,YDS,97
+9771055,10/29/2016,FCS,James Madison,Rhode Island,RUSHING,Khalid,Abdullah,TD,1
+9771056,10/29/2016,FCS,James Madison,Rhode Island,RUSHING,Khalid,Abdullah,LONG,16
+9771057,10/29/2016,FCS,James Madison,Rhode Island,RUSHING,Trai,Sharp,ATT,13
+9771058,10/29/2016,FCS,James Madison,Rhode Island,RUSHING,Trai,Sharp,YDS,83
+9771059,10/29/2016,FCS,James Madison,Rhode Island,RUSHING,Trai,Sharp,TD,1
+9771060,10/29/2016,FCS,James Madison,Rhode Island,RUSHING,Trai,Sharp,LONG,23
+9771061,10/29/2016,FCS,James Madison,Rhode Island,RUSHING,Bryan,Schor,ATT,7
+9771062,10/29/2016,FCS,James Madison,Rhode Island,RUSHING,Bryan,Schor,YDS,49
+9771063,10/29/2016,FCS,James Madison,Rhode Island,RUSHING,Bryan,Schor,TD,0
+9771064,10/29/2016,FCS,James Madison,Rhode Island,RUSHING,Bryan,Schor,LONG,15
+9771065,10/29/2016,FCS,James Madison,Rhode Island,RUSHING,Taylor,Woods,ATT,10
+9771066,10/29/2016,FCS,James Madison,Rhode Island,RUSHING,Taylor,Woods,YDS,45
+9771067,10/29/2016,FCS,James Madison,Rhode Island,RUSHING,Taylor,Woods,TD,1
+9771068,10/29/2016,FCS,James Madison,Rhode Island,RUSHING,Taylor,Woods,LONG,13
+9771069,10/29/2016,FCS,James Madison,Rhode Island,RUSHING,Cardon,Johnson,ATT,3
+9771070,10/29/2016,FCS,James Madison,Rhode Island,RUSHING,Cardon,Johnson,YDS,44
+9771071,10/29/2016,FCS,James Madison,Rhode Island,RUSHING,Cardon,Johnson,TD,2
+9771072,10/29/2016,FCS,James Madison,Rhode Island,RUSHING,Cardon,Johnson,LONG,36
+9771073,10/29/2016,FCS,James Madison,Rhode Island,RUSHING,John,Miller,ATT,2
+9771074,10/29/2016,FCS,James Madison,Rhode Island,RUSHING,John,Miller,YDS,11
+9771075,10/29/2016,FCS,James Madison,Rhode Island,RUSHING,John,Miller,TD,0
+9771076,10/29/2016,FCS,James Madison,Rhode Island,RUSHING,John,Miller,LONG,8
+9771077,10/29/2016,FCS,James Madison,Rhode Island,RUSHING,Robbie,Walker,ATT,1
+9771078,10/29/2016,FCS,James Madison,Rhode Island,RUSHING,Robbie,Walker,YDS,-2
+9771079,10/29/2016,FCS,James Madison,Rhode Island,RUSHING,Robbie,Walker,TD,0
+9771080,10/29/2016,FCS,James Madison,Rhode Island,RUSHING,Robbie,Walker,LONG,0
+9771081,10/29/2016,FCS,James Madison,Rhode Island,RUSHING,,Team,ATT,4
+9771082,10/29/2016,FCS,James Madison,Rhode Island,RUSHING,,Team,YDS,-8
+9771083,10/29/2016,FCS,James Madison,Rhode Island,RUSHING,,Team,TD,0
+9771084,10/29/2016,FCS,James Madison,Rhode Island,RUSHING,,Team,LONG,0
+9771085,10/29/2016,FCS,James Madison,Rhode Island,PASSING,Bryan,Schor,CP-ATT-INT,21-22-0
+9771086,10/29/2016,FCS,James Madison,Rhode Island,PASSING,Bryan,Schor,YDS,309
+9771087,10/29/2016,FCS,James Madison,Rhode Island,PASSING,Bryan,Schor,TD,5
+9771088,10/29/2016,FCS,James Madison,Rhode Island,PASSING,Bryan,Schor,LONG,58
+9771089,10/29/2016,FCS,James Madison,Rhode Island,PASSING,Hunter,Etheridge,CP-ATT-INT,0-2-0
+9771090,10/29/2016,FCS,James Madison,Rhode Island,PASSING,Hunter,Etheridge,YDS,0
+9771091,10/29/2016,FCS,James Madison,Rhode Island,PASSING,Hunter,Etheridge,TD,0
+9771092,10/29/2016,FCS,James Madison,Rhode Island,PASSING,Hunter,Etheridge,LONG,0
+9771093,10/29/2016,FCS,James Madison,Rhode Island,RECEIVING,Rashard,Davis,REC,5
+9771094,10/29/2016,FCS,James Madison,Rhode Island,RECEIVING,Rashard,Davis,YDS,111
+9771095,10/29/2016,FCS,James Madison,Rhode Island,RECEIVING,Rashard,Davis,TD,1
+9771096,10/29/2016,FCS,James Madison,Rhode Island,RECEIVING,Rashard,Davis,LONG,58
+9771097,10/29/2016,FCS,James Madison,Rhode Island,RECEIVING,Brandon,Ravenel,REC,5
+9771098,10/29/2016,FCS,James Madison,Rhode Island,RECEIVING,Brandon,Ravenel,YDS,97
+9771099,10/29/2016,FCS,James Madison,Rhode Island,RECEIVING,Brandon,Ravenel,TD,0
+9771100,10/29/2016,FCS,James Madison,Rhode Island,RECEIVING,Brandon,Ravenel,LONG,44
+9771101,10/29/2016,FCS,James Madison,Rhode Island,RECEIVING,Domo,Taylor,REC,2
+9771102,10/29/2016,FCS,James Madison,Rhode Island,RECEIVING,Domo,Taylor,YDS,42
+9771103,10/29/2016,FCS,James Madison,Rhode Island,RECEIVING,Domo,Taylor,TD,0
+9771104,10/29/2016,FCS,James Madison,Rhode Island,RECEIVING,Domo,Taylor,LONG,37
+9771105,10/29/2016,FCS,James Madison,Rhode Island,RECEIVING,Daniel,Schiele,REC,3
+9771106,10/29/2016,FCS,James Madison,Rhode Island,RECEIVING,Daniel,Schiele,YDS,30
+9771107,10/29/2016,FCS,James Madison,Rhode Island,RECEIVING,Daniel,Schiele,TD,3
+9771108,10/29/2016,FCS,James Madison,Rhode Island,RECEIVING,Daniel,Schiele,LONG,20
+9771109,10/29/2016,FCS,James Madison,Rhode Island,RECEIVING,Khalid,Abdullah,REC,3
+9771110,10/29/2016,FCS,James Madison,Rhode Island,RECEIVING,Khalid,Abdullah,YDS,17
+9771111,10/29/2016,FCS,James Madison,Rhode Island,RECEIVING,Khalid,Abdullah,TD,1
+9771112,10/29/2016,FCS,James Madison,Rhode Island,RECEIVING,Khalid,Abdullah,LONG,9
+9771113,10/29/2016,FCS,James Madison,Rhode Island,RECEIVING,John,Miller,REC,2
+9771114,10/29/2016,FCS,James Madison,Rhode Island,RECEIVING,John,Miller,YDS,8
+9771115,10/29/2016,FCS,James Madison,Rhode Island,RECEIVING,John,Miller,TD,0
+9771116,10/29/2016,FCS,James Madison,Rhode Island,RECEIVING,John,Miller,LONG,8
+9771117,10/29/2016,FCS,James Madison,Rhode Island,RECEIVING,Terrence,Alls,REC,1
+9771118,10/29/2016,FCS,James Madison,Rhode Island,RECEIVING,Terrence,Alls,YDS,4
+9771119,10/29/2016,FCS,James Madison,Rhode Island,RECEIVING,Terrence,Alls,TD,0
+9771120,10/29/2016,FCS,James Madison,Rhode Island,RECEIVING,Terrence,Alls,LONG,4
+9771121,10/29/2016,FCS,James Madison,Rhode Island,KICKING,Tyler,Gray,FG-FGA,0/0
+9771122,10/29/2016,FCS,James Madison,Rhode Island,KICKING,Tyler,Gray,LONG,-
+9771123,10/29/2016,FCS,James Madison,Rhode Island,KICKING,Tyler,Gray,XP,12
+9771124,10/29/2016,FCS,James Madison,Rhode Island,KICKING,Tyler,Gray,PTS,12
+9771125,10/29/2016,FCS,James Madison,Rhode Island,PUNTING,Gunnar,Kane,NO,3
+9771126,10/29/2016,FCS,James Madison,Rhode Island,PUNTING,Gunnar,Kane,YDS,147
+9771127,10/29/2016,FCS,James Madison,Rhode Island,PUNTING,Gunnar,Kane,AVG,49.0
+9771128,10/29/2016,FCS,James Madison,Rhode Island,PUNTING,Gunnar,Kane,LONG,53
+9771129,10/29/2016,FCS,James Madison,Rhode Island,PUNT RETURNS,John,Miller,NO,3
+9771130,10/29/2016,FCS,James Madison,Rhode Island,PUNT RETURNS,John,Miller,YDS,65
+9771131,10/29/2016,FCS,James Madison,Rhode Island,PUNT RETURNS,John,Miller,AVG,21.7
+9771132,10/29/2016,FCS,James Madison,Rhode Island,PUNT RETURNS,John,Miller,LONG,42
+9771133,10/29/2016,FCS,James Madison,Rhode Island,PUNT RETURNS,Rashard,Davis,NO,1
+9771134,10/29/2016,FCS,James Madison,Rhode Island,PUNT RETURNS,Rashard,Davis,YDS,-1
+9771135,10/29/2016,FCS,James Madison,Rhode Island,PUNT RETURNS,Rashard,Davis,AVG,-
+9771136,10/29/2016,FCS,James Madison,Rhode Island,PUNT RETURNS,Rashard,Davis,LONG,0

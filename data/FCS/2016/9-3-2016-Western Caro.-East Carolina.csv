@@ -1,0 +1,157 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9238001,9/3/2016,FCS,Western Caro.,East Carolina,RUSHING,Tyrie,Adams,ATT,11
+9238002,9/3/2016,FCS,Western Caro.,East Carolina,RUSHING,Tyrie,Adams,YDS,51
+9238003,9/3/2016,FCS,Western Caro.,East Carolina,RUSHING,Tyrie,Adams,TD,0
+9238004,9/3/2016,FCS,Western Caro.,East Carolina,RUSHING,Tyrie,Adams,LONG,13
+9238005,9/3/2016,FCS,Western Caro.,East Carolina,RUSHING,Detrez,Newsome,ATT,16
+9238006,9/3/2016,FCS,Western Caro.,East Carolina,RUSHING,Detrez,Newsome,YDS,50
+9238007,9/3/2016,FCS,Western Caro.,East Carolina,RUSHING,Detrez,Newsome,TD,1
+9238008,9/3/2016,FCS,Western Caro.,East Carolina,RUSHING,Detrez,Newsome,LONG,13
+9238009,9/3/2016,FCS,Western Caro.,East Carolina,RUSHING,Corey,Holloway,ATT,7
+9238010,9/3/2016,FCS,Western Caro.,East Carolina,RUSHING,Corey,Holloway,YDS,25
+9238011,9/3/2016,FCS,Western Caro.,East Carolina,RUSHING,Corey,Holloway,TD,0
+9238012,9/3/2016,FCS,Western Caro.,East Carolina,RUSHING,Corey,Holloway,LONG,10
+9238013,9/3/2016,FCS,Western Caro.,East Carolina,RUSHING,Wes,Holcombe,ATT,2
+9238014,9/3/2016,FCS,Western Caro.,East Carolina,RUSHING,Wes,Holcombe,YDS,23
+9238015,9/3/2016,FCS,Western Caro.,East Carolina,RUSHING,Wes,Holcombe,TD,0
+9238016,9/3/2016,FCS,Western Caro.,East Carolina,RUSHING,Wes,Holcombe,LONG,14
+9238017,9/3/2016,FCS,Western Caro.,East Carolina,RUSHING,Connell,Young,ATT,2
+9238018,9/3/2016,FCS,Western Caro.,East Carolina,RUSHING,Connell,Young,YDS,-1
+9238019,9/3/2016,FCS,Western Caro.,East Carolina,RUSHING,Connell,Young,TD,0
+9238020,9/3/2016,FCS,Western Caro.,East Carolina,RUSHING,Connell,Young,LONG,1
+9238021,9/3/2016,FCS,Western Caro.,East Carolina,PASSING,Tyrie,Adams,CP-ATT-INT,12-24-1
+9238022,9/3/2016,FCS,Western Caro.,East Carolina,PASSING,Tyrie,Adams,YDS,167
+9238023,9/3/2016,FCS,Western Caro.,East Carolina,PASSING,Tyrie,Adams,TD,0
+9238024,9/3/2016,FCS,Western Caro.,East Carolina,PASSING,Tyrie,Adams,LONG,48
+9238025,9/3/2016,FCS,Western Caro.,East Carolina,PASSING,Wes,Holcombe,CP-ATT-INT,1-3-0
+9238026,9/3/2016,FCS,Western Caro.,East Carolina,PASSING,Wes,Holcombe,YDS,5
+9238027,9/3/2016,FCS,Western Caro.,East Carolina,PASSING,Wes,Holcombe,TD,0
+9238028,9/3/2016,FCS,Western Caro.,East Carolina,PASSING,Wes,Holcombe,LONG,5
+9238029,9/3/2016,FCS,Western Caro.,East Carolina,RECEIVING,Terryon,Robinson,REC,4
+9238030,9/3/2016,FCS,Western Caro.,East Carolina,RECEIVING,Terryon,Robinson,YDS,83
+9238031,9/3/2016,FCS,Western Caro.,East Carolina,RECEIVING,Terryon,Robinson,TD,0
+9238032,9/3/2016,FCS,Western Caro.,East Carolina,RECEIVING,Terryon,Robinson,LONG,48
+9238033,9/3/2016,FCS,Western Caro.,East Carolina,RECEIVING,Steffon,Hill,REC,4
+9238034,9/3/2016,FCS,Western Caro.,East Carolina,RECEIVING,Steffon,Hill,YDS,46
+9238035,9/3/2016,FCS,Western Caro.,East Carolina,RECEIVING,Steffon,Hill,TD,0
+9238036,9/3/2016,FCS,Western Caro.,East Carolina,RECEIVING,Steffon,Hill,LONG,16
+9238037,9/3/2016,FCS,Western Caro.,East Carolina,RECEIVING,Michael,HelmsJr.,REC,2
+9238038,9/3/2016,FCS,Western Caro.,East Carolina,RECEIVING,Michael,HelmsJr.,YDS,32
+9238039,9/3/2016,FCS,Western Caro.,East Carolina,RECEIVING,Michael,HelmsJr.,TD,0
+9238040,9/3/2016,FCS,Western Caro.,East Carolina,RECEIVING,Michael,HelmsJr.,LONG,21
+9238041,9/3/2016,FCS,Western Caro.,East Carolina,RECEIVING,Jacob,Robinson,REC,1
+9238042,9/3/2016,FCS,Western Caro.,East Carolina,RECEIVING,Jacob,Robinson,YDS,5
+9238043,9/3/2016,FCS,Western Caro.,East Carolina,RECEIVING,Jacob,Robinson,TD,0
+9238044,9/3/2016,FCS,Western Caro.,East Carolina,RECEIVING,Jacob,Robinson,LONG,5
+9238045,9/3/2016,FCS,Western Caro.,East Carolina,RECEIVING,Detrez,Newsome,REC,1
+9238046,9/3/2016,FCS,Western Caro.,East Carolina,RECEIVING,Detrez,Newsome,YDS,4
+9238047,9/3/2016,FCS,Western Caro.,East Carolina,RECEIVING,Detrez,Newsome,TD,0
+9238048,9/3/2016,FCS,Western Caro.,East Carolina,RECEIVING,Detrez,Newsome,LONG,4
+9238049,9/3/2016,FCS,Western Caro.,East Carolina,RECEIVING,Fred,Payne,REC,1
+9238050,9/3/2016,FCS,Western Caro.,East Carolina,RECEIVING,Fred,Payne,YDS,2
+9238051,9/3/2016,FCS,Western Caro.,East Carolina,RECEIVING,Fred,Payne,TD,0
+9238052,9/3/2016,FCS,Western Caro.,East Carolina,RECEIVING,Fred,Payne,LONG,2
+9238053,9/3/2016,FCS,Western Caro.,East Carolina,KICKING,Christian,Stewart,FG-FGA,0/0
+9238054,9/3/2016,FCS,Western Caro.,East Carolina,KICKING,Christian,Stewart,LONG,-
+9238055,9/3/2016,FCS,Western Caro.,East Carolina,KICKING,Christian,Stewart,XP,1
+9238056,9/3/2016,FCS,Western Caro.,East Carolina,KICKING,Christian,Stewart,PTS,1
+9238057,9/3/2016,FCS,Western Caro.,East Carolina,PUNTING,Ian,Berryman,NO,7
+9238058,9/3/2016,FCS,Western Caro.,East Carolina,PUNTING,Ian,Berryman,YDS,274
+9238059,9/3/2016,FCS,Western Caro.,East Carolina,PUNTING,Ian,Berryman,AVG,39.1
+9238060,9/3/2016,FCS,Western Caro.,East Carolina,PUNTING,Ian,Berryman,LONG,49
+9238061,9/3/2016,FCS,Western Caro.,East Carolina,PUNTING,Destry,Barnwell,NO,1
+9238062,9/3/2016,FCS,Western Caro.,East Carolina,PUNTING,Destry,Barnwell,YDS,36
+9238063,9/3/2016,FCS,Western Caro.,East Carolina,PUNTING,Destry,Barnwell,AVG,36.0
+9238064,9/3/2016,FCS,Western Caro.,East Carolina,PUNTING,Destry,Barnwell,LONG,36
+9238065,9/3/2016,FCS,Western Caro.,East Carolina,PUNTING,,Team,NO,1
+9238066,9/3/2016,FCS,Western Caro.,East Carolina,PUNTING,,Team,YDS,0
+9238067,9/3/2016,FCS,Western Caro.,East Carolina,PUNTING,,Team,AVG,-
+9238068,9/3/2016,FCS,Western Caro.,East Carolina,PUNTING,,Team,LONG,0
+9238069,9/3/2016,FCS,Western Caro.,East Carolina,KICK RETURNS,Detrez,Newsome,NO,3
+9238070,9/3/2016,FCS,Western Caro.,East Carolina,KICK RETURNS,Detrez,Newsome,YDS,62
+9238071,9/3/2016,FCS,Western Caro.,East Carolina,KICK RETURNS,Detrez,Newsome,AVG,20.7
+9238072,9/3/2016,FCS,Western Caro.,East Carolina,KICK RETURNS,Detrez,Newsome,LONG,42
+9238073,9/3/2016,FCS,Western Caro.,East Carolina,KICK RETURNS,Tra,Hardy,NO,2
+9238074,9/3/2016,FCS,Western Caro.,East Carolina,KICK RETURNS,Tra,Hardy,YDS,52
+9238075,9/3/2016,FCS,Western Caro.,East Carolina,KICK RETURNS,Tra,Hardy,AVG,26.0
+9238076,9/3/2016,FCS,Western Caro.,East Carolina,KICK RETURNS,Tra,Hardy,LONG,28
+9238077,9/3/2016,FCS,East Carolina,Western Caro.,RUSHING,Anthony,Scott,ATT,11
+9238078,9/3/2016,FCS,East Carolina,Western Caro.,RUSHING,Anthony,Scott,YDS,120
+9238079,9/3/2016,FCS,East Carolina,Western Caro.,RUSHING,Anthony,Scott,TD,1
+9238080,9/3/2016,FCS,East Carolina,Western Caro.,RUSHING,Anthony,Scott,LONG,48
+9238081,9/3/2016,FCS,East Carolina,Western Caro.,RUSHING,James,Summers,ATT,10
+9238082,9/3/2016,FCS,East Carolina,Western Caro.,RUSHING,James,Summers,YDS,95
+9238083,9/3/2016,FCS,East Carolina,Western Caro.,RUSHING,James,Summers,TD,0
+9238084,9/3/2016,FCS,East Carolina,Western Caro.,RUSHING,James,Summers,LONG,42
+9238085,9/3/2016,FCS,East Carolina,Western Caro.,RUSHING,Devin,Anderson,ATT,9
+9238086,9/3/2016,FCS,East Carolina,Western Caro.,RUSHING,Devin,Anderson,YDS,39
+9238087,9/3/2016,FCS,East Carolina,Western Caro.,RUSHING,Devin,Anderson,TD,0
+9238088,9/3/2016,FCS,East Carolina,Western Caro.,RUSHING,Devin,Anderson,LONG,16
+9238089,9/3/2016,FCS,East Carolina,Western Caro.,RUSHING,Philip,Nelson,ATT,3
+9238090,9/3/2016,FCS,East Carolina,Western Caro.,RUSHING,Philip,Nelson,YDS,7
+9238091,9/3/2016,FCS,East Carolina,Western Caro.,RUSHING,Philip,Nelson,TD,1
+9238092,9/3/2016,FCS,East Carolina,Western Caro.,RUSHING,Philip,Nelson,LONG,7
+9238093,9/3/2016,FCS,East Carolina,Western Caro.,RUSHING,Quay,Johnson,ATT,2
+9238094,9/3/2016,FCS,East Carolina,Western Caro.,RUSHING,Quay,Johnson,YDS,7
+9238095,9/3/2016,FCS,East Carolina,Western Caro.,RUSHING,Quay,Johnson,TD,0
+9238096,9/3/2016,FCS,East Carolina,Western Caro.,RUSHING,Quay,Johnson,LONG,4
+9238097,9/3/2016,FCS,East Carolina,Western Caro.,RUSHING,Hussein,Howe,ATT,3
+9238098,9/3/2016,FCS,East Carolina,Western Caro.,RUSHING,Hussein,Howe,YDS,7
+9238099,9/3/2016,FCS,East Carolina,Western Caro.,RUSHING,Hussein,Howe,TD,0
+9238100,9/3/2016,FCS,East Carolina,Western Caro.,RUSHING,Hussein,Howe,LONG,4
+9238101,9/3/2016,FCS,East Carolina,Western Caro.,PASSING,Philip,Nelson,CP-ATT-INT,28-32-0
+9238102,9/3/2016,FCS,East Carolina,Western Caro.,PASSING,Philip,Nelson,YDS,398
+9238103,9/3/2016,FCS,East Carolina,Western Caro.,PASSING,Philip,Nelson,TD,5
+9238104,9/3/2016,FCS,East Carolina,Western Caro.,PASSING,Philip,Nelson,LONG,33
+9238105,9/3/2016,FCS,East Carolina,Western Caro.,PASSING,James,Summers,CP-ATT-INT,1-1-0
+9238106,9/3/2016,FCS,East Carolina,Western Caro.,PASSING,James,Summers,YDS,15
+9238107,9/3/2016,FCS,East Carolina,Western Caro.,PASSING,James,Summers,TD,0
+9238108,9/3/2016,FCS,East Carolina,Western Caro.,PASSING,James,Summers,LONG,15
+9238109,9/3/2016,FCS,East Carolina,Western Caro.,RECEIVING,Zay,Jones,REC,10
+9238110,9/3/2016,FCS,East Carolina,Western Caro.,RECEIVING,Zay,Jones,YDS,180
+9238111,9/3/2016,FCS,East Carolina,Western Caro.,RECEIVING,Zay,Jones,TD,1
+9238112,9/3/2016,FCS,East Carolina,Western Caro.,RECEIVING,Zay,Jones,LONG,33
+9238113,9/3/2016,FCS,East Carolina,Western Caro.,RECEIVING,Anthony,Scott,REC,9
+9238114,9/3/2016,FCS,East Carolina,Western Caro.,RECEIVING,Anthony,Scott,YDS,90
+9238115,9/3/2016,FCS,East Carolina,Western Caro.,RECEIVING,Anthony,Scott,TD,2
+9238116,9/3/2016,FCS,East Carolina,Western Caro.,RECEIVING,Anthony,Scott,LONG,32
+9238117,9/3/2016,FCS,East Carolina,Western Caro.,RECEIVING,Stephen,Baggett,REC,2
+9238118,9/3/2016,FCS,East Carolina,Western Caro.,RECEIVING,Stephen,Baggett,YDS,43
+9238119,9/3/2016,FCS,East Carolina,Western Caro.,RECEIVING,Stephen,Baggett,TD,0
+9238120,9/3/2016,FCS,East Carolina,Western Caro.,RECEIVING,Stephen,Baggett,LONG,22
+9238121,9/3/2016,FCS,East Carolina,Western Caro.,RECEIVING,Jimmy,Williams,REC,2
+9238122,9/3/2016,FCS,East Carolina,Western Caro.,RECEIVING,Jimmy,Williams,YDS,40
+9238123,9/3/2016,FCS,East Carolina,Western Caro.,RECEIVING,Jimmy,Williams,TD,1
+9238124,9/3/2016,FCS,East Carolina,Western Caro.,RECEIVING,Jimmy,Williams,LONG,31
+9238125,9/3/2016,FCS,East Carolina,Western Caro.,RECEIVING,Quay,Johnson,REC,3
+9238126,9/3/2016,FCS,East Carolina,Western Caro.,RECEIVING,Quay,Johnson,YDS,30
+9238127,9/3/2016,FCS,East Carolina,Western Caro.,RECEIVING,Quay,Johnson,TD,1
+9238128,9/3/2016,FCS,East Carolina,Western Caro.,RECEIVING,Quay,Johnson,LONG,18
+9238129,9/3/2016,FCS,East Carolina,Western Caro.,RECEIVING,Deondre,Farrier,REC,2
+9238130,9/3/2016,FCS,East Carolina,Western Caro.,RECEIVING,Deondre,Farrier,YDS,15
+9238131,9/3/2016,FCS,East Carolina,Western Caro.,RECEIVING,Deondre,Farrier,TD,0
+9238132,9/3/2016,FCS,East Carolina,Western Caro.,RECEIVING,Deondre,Farrier,LONG,8
+9238133,9/3/2016,FCS,East Carolina,Western Caro.,RECEIVING,Devin,Anderson,REC,1
+9238134,9/3/2016,FCS,East Carolina,Western Caro.,RECEIVING,Devin,Anderson,YDS,15
+9238135,9/3/2016,FCS,East Carolina,Western Caro.,RECEIVING,Devin,Anderson,TD,0
+9238136,9/3/2016,FCS,East Carolina,Western Caro.,RECEIVING,Devin,Anderson,LONG,15
+9238137,9/3/2016,FCS,East Carolina,Western Caro.,KICKING,Davis,Plowman,FG-FGA,1/2
+9238138,9/3/2016,FCS,East Carolina,Western Caro.,KICKING,Davis,Plowman,LONG,42
+9238139,9/3/2016,FCS,East Carolina,Western Caro.,KICKING,Davis,Plowman,XP,7
+9238140,9/3/2016,FCS,East Carolina,Western Caro.,KICKING,Davis,Plowman,PTS,10
+9238141,9/3/2016,FCS,East Carolina,Western Caro.,PUNTING,Worth,Gregory,NO,2
+9238142,9/3/2016,FCS,East Carolina,Western Caro.,PUNTING,Worth,Gregory,YDS,61
+9238143,9/3/2016,FCS,East Carolina,Western Caro.,PUNTING,Worth,Gregory,AVG,30.5
+9238144,9/3/2016,FCS,East Carolina,Western Caro.,PUNTING,Worth,Gregory,LONG,44
+9238145,9/3/2016,FCS,East Carolina,Western Caro.,PUNT RETURNS,Quay,Johnson,NO,1
+9238146,9/3/2016,FCS,East Carolina,Western Caro.,PUNT RETURNS,Quay,Johnson,YDS,1
+9238147,9/3/2016,FCS,East Carolina,Western Caro.,PUNT RETURNS,Quay,Johnson,AVG,1.0
+9238148,9/3/2016,FCS,East Carolina,Western Caro.,PUNT RETURNS,Quay,Johnson,LONG,1
+9238149,9/3/2016,FCS,East Carolina,Western Caro.,PUNT RETURNS,Devaris,Brunson,NO,1
+9238150,9/3/2016,FCS,East Carolina,Western Caro.,PUNT RETURNS,Devaris,Brunson,YDS,1
+9238151,9/3/2016,FCS,East Carolina,Western Caro.,PUNT RETURNS,Devaris,Brunson,AVG,1.0
+9238152,9/3/2016,FCS,East Carolina,Western Caro.,PUNT RETURNS,Devaris,Brunson,LONG,0
+9238153,9/3/2016,FCS,East Carolina,Western Caro.,KICK RETURNS,Quay,Johnson,NO,2
+9238154,9/3/2016,FCS,East Carolina,Western Caro.,KICK RETURNS,Quay,Johnson,YDS,44
+9238155,9/3/2016,FCS,East Carolina,Western Caro.,KICK RETURNS,Quay,Johnson,AVG,22.0
+9238156,9/3/2016,FCS,East Carolina,Western Caro.,KICK RETURNS,Quay,Johnson,LONG,24

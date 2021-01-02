@@ -1,0 +1,165 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9256001,9/3/2016,FCS,Rhode Island,Kansas,RUSHING,T.J.,Anderson,ATT,16
+9256002,9/3/2016,FCS,Rhode Island,Kansas,RUSHING,T.J.,Anderson,YDS,59
+9256003,9/3/2016,FCS,Rhode Island,Kansas,RUSHING,T.J.,Anderson,TD,0
+9256004,9/3/2016,FCS,Rhode Island,Kansas,RUSHING,T.J.,Anderson,LONG,12
+9256005,9/3/2016,FCS,Rhode Island,Kansas,RUSHING,Wesley,McKoy,ATT,10
+9256006,9/3/2016,FCS,Rhode Island,Kansas,RUSHING,Wesley,McKoy,YDS,56
+9256007,9/3/2016,FCS,Rhode Island,Kansas,RUSHING,Wesley,McKoy,TD,0
+9256008,9/3/2016,FCS,Rhode Island,Kansas,RUSHING,Wesley,McKoy,LONG,15
+9256009,9/3/2016,FCS,Rhode Island,Kansas,RUSHING,Markey,Clarke,ATT,11
+9256010,9/3/2016,FCS,Rhode Island,Kansas,RUSHING,Markey,Clarke,YDS,43
+9256011,9/3/2016,FCS,Rhode Island,Kansas,RUSHING,Markey,Clarke,TD,0
+9256012,9/3/2016,FCS,Rhode Island,Kansas,RUSHING,Markey,Clarke,LONG,8
+9256013,9/3/2016,FCS,Rhode Island,Kansas,RUSHING,Khayri,Denny,ATT,3
+9256014,9/3/2016,FCS,Rhode Island,Kansas,RUSHING,Khayri,Denny,YDS,12
+9256015,9/3/2016,FCS,Rhode Island,Kansas,RUSHING,Khayri,Denny,TD,0
+9256016,9/3/2016,FCS,Rhode Island,Kansas,RUSHING,Khayri,Denny,LONG,16
+9256017,9/3/2016,FCS,Rhode Island,Kansas,PASSING,Wesley,McKoy,CP-ATT-INT,6-23-1
+9256018,9/3/2016,FCS,Rhode Island,Kansas,PASSING,Wesley,McKoy,YDS,49
+9256019,9/3/2016,FCS,Rhode Island,Kansas,PASSING,Wesley,McKoy,TD,1
+9256020,9/3/2016,FCS,Rhode Island,Kansas,PASSING,Wesley,McKoy,LONG,23
+9256021,9/3/2016,FCS,Rhode Island,Kansas,RECEIVING,Aaron,Parker,REC,2
+9256022,9/3/2016,FCS,Rhode Island,Kansas,RECEIVING,Aaron,Parker,YDS,37
+9256023,9/3/2016,FCS,Rhode Island,Kansas,RECEIVING,Aaron,Parker,TD,1
+9256024,9/3/2016,FCS,Rhode Island,Kansas,RECEIVING,Aaron,Parker,LONG,23
+9256025,9/3/2016,FCS,Rhode Island,Kansas,RECEIVING,Charlie,McKeeman,REC,2
+9256026,9/3/2016,FCS,Rhode Island,Kansas,RECEIVING,Charlie,McKeeman,YDS,12
+9256027,9/3/2016,FCS,Rhode Island,Kansas,RECEIVING,Charlie,McKeeman,TD,0
+9256028,9/3/2016,FCS,Rhode Island,Kansas,RECEIVING,Charlie,McKeeman,LONG,9
+9256029,9/3/2016,FCS,Rhode Island,Kansas,RECEIVING,Khayri,Denny,REC,1
+9256030,9/3/2016,FCS,Rhode Island,Kansas,RECEIVING,Khayri,Denny,YDS,9
+9256031,9/3/2016,FCS,Rhode Island,Kansas,RECEIVING,Khayri,Denny,TD,0
+9256032,9/3/2016,FCS,Rhode Island,Kansas,RECEIVING,Khayri,Denny,LONG,9
+9256033,9/3/2016,FCS,Rhode Island,Kansas,RECEIVING,Derek,Allen,REC,1
+9256034,9/3/2016,FCS,Rhode Island,Kansas,RECEIVING,Derek,Allen,YDS,-9
+9256035,9/3/2016,FCS,Rhode Island,Kansas,RECEIVING,Derek,Allen,TD,0
+9256036,9/3/2016,FCS,Rhode Island,Kansas,RECEIVING,Derek,Allen,LONG,-9
+9256037,9/3/2016,FCS,Rhode Island,Kansas,KICKING,Justin,Rohrwasser,FG-FGA,0/0
+9256038,9/3/2016,FCS,Rhode Island,Kansas,KICKING,Justin,Rohrwasser,LONG,-
+9256039,9/3/2016,FCS,Rhode Island,Kansas,KICKING,Justin,Rohrwasser,XP,0
+9256040,9/3/2016,FCS,Rhode Island,Kansas,KICKING,Justin,Rohrwasser,PTS,0
+9256041,9/3/2016,FCS,Rhode Island,Kansas,PUNTING,Oliver,Graybar,NO,9
+9256042,9/3/2016,FCS,Rhode Island,Kansas,PUNTING,Oliver,Graybar,YDS,323
+9256043,9/3/2016,FCS,Rhode Island,Kansas,PUNTING,Oliver,Graybar,AVG,35.9
+9256044,9/3/2016,FCS,Rhode Island,Kansas,PUNTING,Oliver,Graybar,LONG,48
+9256045,9/3/2016,FCS,Rhode Island,Kansas,PUNT RETURNS,Aaron,Parker,NO,0
+9256046,9/3/2016,FCS,Rhode Island,Kansas,PUNT RETURNS,Aaron,Parker,YDS,0
+9256047,9/3/2016,FCS,Rhode Island,Kansas,PUNT RETURNS,Aaron,Parker,AVG,-
+9256048,9/3/2016,FCS,Rhode Island,Kansas,PUNT RETURNS,Aaron,Parker,LONG,0
+9256049,9/3/2016,FCS,Rhode Island,Kansas,PUNT RETURNS,Harold,Cooper,NO,1
+9256050,9/3/2016,FCS,Rhode Island,Kansas,PUNT RETURNS,Harold,Cooper,YDS,-2
+9256051,9/3/2016,FCS,Rhode Island,Kansas,PUNT RETURNS,Harold,Cooper,AVG,-
+9256052,9/3/2016,FCS,Rhode Island,Kansas,PUNT RETURNS,Harold,Cooper,LONG,-2
+9256053,9/3/2016,FCS,Rhode Island,Kansas,KICK RETURNS,Khayri,Denny,NO,3
+9256054,9/3/2016,FCS,Rhode Island,Kansas,KICK RETURNS,Khayri,Denny,YDS,35
+9256055,9/3/2016,FCS,Rhode Island,Kansas,KICK RETURNS,Khayri,Denny,AVG,11.7
+9256056,9/3/2016,FCS,Rhode Island,Kansas,KICK RETURNS,Khayri,Denny,LONG,16
+9256057,9/3/2016,FCS,Rhode Island,Kansas,KICK RETURNS,Harold,Cooper,NO,1
+9256058,9/3/2016,FCS,Rhode Island,Kansas,KICK RETURNS,Harold,Cooper,YDS,17
+9256059,9/3/2016,FCS,Rhode Island,Kansas,KICK RETURNS,Harold,Cooper,AVG,17.0
+9256060,9/3/2016,FCS,Rhode Island,Kansas,KICK RETURNS,Harold,Cooper,LONG,17
+9256061,9/3/2016,FCS,Kansas,Rhode Island,RUSHING,Ke'aun,Kinner,ATT,7
+9256062,9/3/2016,FCS,Kansas,Rhode Island,RUSHING,Ke'aun,Kinner,YDS,69
+9256063,9/3/2016,FCS,Kansas,Rhode Island,RUSHING,Ke'aun,Kinner,TD,1
+9256064,9/3/2016,FCS,Kansas,Rhode Island,RUSHING,Ke'aun,Kinner,LONG,20
+9256065,9/3/2016,FCS,Kansas,Rhode Island,RUSHING,Taylor,Martin,ATT,6
+9256066,9/3/2016,FCS,Kansas,Rhode Island,RUSHING,Taylor,Martin,YDS,33
+9256067,9/3/2016,FCS,Kansas,Rhode Island,RUSHING,Taylor,Martin,TD,1
+9256068,9/3/2016,FCS,Kansas,Rhode Island,RUSHING,Taylor,Martin,LONG,12
+9256069,9/3/2016,FCS,Kansas,Rhode Island,RUSHING,Denzell,Evans,ATT,9
+9256070,9/3/2016,FCS,Kansas,Rhode Island,RUSHING,Denzell,Evans,YDS,24
+9256071,9/3/2016,FCS,Kansas,Rhode Island,RUSHING,Denzell,Evans,TD,0
+9256072,9/3/2016,FCS,Kansas,Rhode Island,RUSHING,Denzell,Evans,LONG,7
+9256073,9/3/2016,FCS,Kansas,Rhode Island,RUSHING,Ryan,Willis,ATT,2
+9256074,9/3/2016,FCS,Kansas,Rhode Island,RUSHING,Ryan,Willis,YDS,22
+9256075,9/3/2016,FCS,Kansas,Rhode Island,RUSHING,Ryan,Willis,TD,0
+9256076,9/3/2016,FCS,Kansas,Rhode Island,RUSHING,Ryan,Willis,LONG,17
+9256077,9/3/2016,FCS,Kansas,Rhode Island,RUSHING,Montell,Cozart,ATT,4
+9256078,9/3/2016,FCS,Kansas,Rhode Island,RUSHING,Montell,Cozart,YDS,17
+9256079,9/3/2016,FCS,Kansas,Rhode Island,RUSHING,Montell,Cozart,TD,0
+9256080,9/3/2016,FCS,Kansas,Rhode Island,RUSHING,Montell,Cozart,LONG,7
+9256081,9/3/2016,FCS,Kansas,Rhode Island,RUSHING,Khalil,Herbert,ATT,4
+9256082,9/3/2016,FCS,Kansas,Rhode Island,RUSHING,Khalil,Herbert,YDS,15
+9256083,9/3/2016,FCS,Kansas,Rhode Island,RUSHING,Khalil,Herbert,TD,0
+9256084,9/3/2016,FCS,Kansas,Rhode Island,RUSHING,Khalil,Herbert,LONG,9
+9256085,9/3/2016,FCS,Kansas,Rhode Island,RUSHING,Carter,Stanley,ATT,1
+9256086,9/3/2016,FCS,Kansas,Rhode Island,RUSHING,Carter,Stanley,YDS,3
+9256087,9/3/2016,FCS,Kansas,Rhode Island,RUSHING,Carter,Stanley,TD,0
+9256088,9/3/2016,FCS,Kansas,Rhode Island,RUSHING,Carter,Stanley,LONG,3
+9256089,9/3/2016,FCS,Kansas,Rhode Island,RUSHING,,Team,ATT,2
+9256090,9/3/2016,FCS,Kansas,Rhode Island,RUSHING,,Team,YDS,-12
+9256091,9/3/2016,FCS,Kansas,Rhode Island,RUSHING,,Team,TD,0
+9256092,9/3/2016,FCS,Kansas,Rhode Island,RUSHING,,Team,LONG,-6
+9256093,9/3/2016,FCS,Kansas,Rhode Island,PASSING,Montell,Cozart,CP-ATT-INT,18-25-1
+9256094,9/3/2016,FCS,Kansas,Rhode Island,PASSING,Montell,Cozart,YDS,199
+9256095,9/3/2016,FCS,Kansas,Rhode Island,PASSING,Montell,Cozart,TD,3
+9256096,9/3/2016,FCS,Kansas,Rhode Island,PASSING,Montell,Cozart,LONG,35
+9256097,9/3/2016,FCS,Kansas,Rhode Island,PASSING,Ryan,Willis,CP-ATT-INT,7-9-0
+9256098,9/3/2016,FCS,Kansas,Rhode Island,PASSING,Ryan,Willis,YDS,144
+9256099,9/3/2016,FCS,Kansas,Rhode Island,PASSING,Ryan,Willis,TD,2
+9256100,9/3/2016,FCS,Kansas,Rhode Island,PASSING,Ryan,Willis,LONG,71
+9256101,9/3/2016,FCS,Kansas,Rhode Island,PASSING,Carter,Stanley,CP-ATT-INT,3-4-0
+9256102,9/3/2016,FCS,Kansas,Rhode Island,PASSING,Carter,Stanley,YDS,56
+9256103,9/3/2016,FCS,Kansas,Rhode Island,PASSING,Carter,Stanley,TD,1
+9256104,9/3/2016,FCS,Kansas,Rhode Island,PASSING,Carter,Stanley,LONG,38
+9256105,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,Steven,SimsJr.,REC,5
+9256106,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,Steven,SimsJr.,YDS,124
+9256107,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,Steven,SimsJr.,TD,2
+9256108,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,Steven,SimsJr.,LONG,71
+9256109,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,LaQuivionte,Gonzales,REC,7
+9256110,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,LaQuivionte,Gonzales,YDS,78
+9256111,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,LaQuivionte,Gonzales,TD,1
+9256112,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,LaQuivionte,Gonzales,LONG,18
+9256113,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,Tyler,Patrick,REC,5
+9256114,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,Tyler,Patrick,YDS,51
+9256115,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,Tyler,Patrick,TD,1
+9256116,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,Tyler,Patrick,LONG,20
+9256117,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,Chase,Harrell,REC,2
+9256118,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,Chase,Harrell,YDS,51
+9256119,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,Chase,Harrell,TD,1
+9256120,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,Chase,Harrell,LONG,38
+9256121,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,Bobby,HartzogJr.,REC,3
+9256122,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,Bobby,HartzogJr.,YDS,34
+9256123,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,Bobby,HartzogJr.,TD,0
+9256124,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,Bobby,HartzogJr.,LONG,28
+9256125,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,Michael,Zunica,REC,1
+9256126,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,Michael,Zunica,YDS,22
+9256127,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,Michael,Zunica,TD,0
+9256128,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,Michael,Zunica,LONG,22
+9256129,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,Shakiem,Barbel,REC,2
+9256130,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,Shakiem,Barbel,YDS,17
+9256131,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,Shakiem,Barbel,TD,0
+9256132,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,Shakiem,Barbel,LONG,12
+9256133,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,Ke'aun,Kinner,REC,1
+9256134,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,Ke'aun,Kinner,YDS,15
+9256135,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,Ke'aun,Kinner,TD,0
+9256136,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,Ke'aun,Kinner,LONG,15
+9256137,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,Jace,Sternberger,REC,1
+9256138,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,Jace,Sternberger,YDS,5
+9256139,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,Jace,Sternberger,TD,0
+9256140,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,Jace,Sternberger,LONG,5
+9256141,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,Ben,Johnson,REC,1
+9256142,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,Ben,Johnson,YDS,2
+9256143,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,Ben,Johnson,TD,1
+9256144,9/3/2016,FCS,Kansas,Rhode Island,RECEIVING,Ben,Johnson,LONG,2
+9256145,9/3/2016,FCS,Kansas,Rhode Island,KICKING,Matthew,Wyman,FG-FGA,0/1
+9256146,9/3/2016,FCS,Kansas,Rhode Island,KICKING,Matthew,Wyman,LONG,0
+9256147,9/3/2016,FCS,Kansas,Rhode Island,KICKING,Matthew,Wyman,XP,7
+9256148,9/3/2016,FCS,Kansas,Rhode Island,KICKING,Matthew,Wyman,PTS,7
+9256149,9/3/2016,FCS,Kansas,Rhode Island,PUNTING,Cole,Moos,NO,3
+9256150,9/3/2016,FCS,Kansas,Rhode Island,PUNTING,Cole,Moos,YDS,126
+9256151,9/3/2016,FCS,Kansas,Rhode Island,PUNTING,Cole,Moos,AVG,42.0
+9256152,9/3/2016,FCS,Kansas,Rhode Island,PUNTING,Cole,Moos,LONG,44
+9256153,9/3/2016,FCS,Kansas,Rhode Island,PUNT RETURNS,LaQuivionte,Gonzales,NO,1
+9256154,9/3/2016,FCS,Kansas,Rhode Island,PUNT RETURNS,LaQuivionte,Gonzales,YDS,17
+9256155,9/3/2016,FCS,Kansas,Rhode Island,PUNT RETURNS,LaQuivionte,Gonzales,AVG,17.0
+9256156,9/3/2016,FCS,Kansas,Rhode Island,PUNT RETURNS,LaQuivionte,Gonzales,LONG,17
+9256157,9/3/2016,FCS,Kansas,Rhode Island,PUNT RETURNS,Derrick,Neal,NO,1
+9256158,9/3/2016,FCS,Kansas,Rhode Island,PUNT RETURNS,Derrick,Neal,YDS,0
+9256159,9/3/2016,FCS,Kansas,Rhode Island,PUNT RETURNS,Derrick,Neal,AVG,-
+9256160,9/3/2016,FCS,Kansas,Rhode Island,PUNT RETURNS,Derrick,Neal,LONG,0
+9256161,9/3/2016,FCS,Kansas,Rhode Island,KICK RETURNS,LaQuivionte,Gonzales,NO,2
+9256162,9/3/2016,FCS,Kansas,Rhode Island,KICK RETURNS,LaQuivionte,Gonzales,YDS,41
+9256163,9/3/2016,FCS,Kansas,Rhode Island,KICK RETURNS,LaQuivionte,Gonzales,AVG,20.5
+9256164,9/3/2016,FCS,Kansas,Rhode Island,KICK RETURNS,LaQuivionte,Gonzales,LONG,27

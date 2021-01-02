@@ -1,0 +1,129 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9142001,11/21/2015,FCS,Murray State,Jacksonville St.,RUSHING,Roman,Clay,ATT,23
+9142002,11/21/2015,FCS,Murray State,Jacksonville St.,RUSHING,Roman,Clay,YDS,90
+9142003,11/21/2015,FCS,Murray State,Jacksonville St.,RUSHING,Roman,Clay,TD,0
+9142004,11/21/2015,FCS,Murray State,Jacksonville St.,RUSHING,Roman,Clay,LONG,33
+9142005,11/21/2015,FCS,Murray State,Jacksonville St.,RUSHING,Nick,Taylor,ATT,3
+9142006,11/21/2015,FCS,Murray State,Jacksonville St.,RUSHING,Nick,Taylor,YDS,23
+9142007,11/21/2015,FCS,Murray State,Jacksonville St.,RUSHING,Nick,Taylor,TD,0
+9142008,11/21/2015,FCS,Murray State,Jacksonville St.,RUSHING,Nick,Taylor,LONG,14
+9142009,11/21/2015,FCS,Murray State,Jacksonville St.,RUSHING,Marcus,Holliday,ATT,1
+9142010,11/21/2015,FCS,Murray State,Jacksonville St.,RUSHING,Marcus,Holliday,YDS,0
+9142011,11/21/2015,FCS,Murray State,Jacksonville St.,RUSHING,Marcus,Holliday,TD,0
+9142012,11/21/2015,FCS,Murray State,Jacksonville St.,RUSHING,Marcus,Holliday,LONG,0
+9142013,11/21/2015,FCS,Murray State,Jacksonville St.,RUSHING,,Team,ATT,1
+9142014,11/21/2015,FCS,Murray State,Jacksonville St.,RUSHING,,Team,YDS,-1
+9142015,11/21/2015,FCS,Murray State,Jacksonville St.,RUSHING,,Team,TD,0
+9142016,11/21/2015,FCS,Murray State,Jacksonville St.,RUSHING,,Team,LONG,0
+9142017,11/21/2015,FCS,Murray State,Jacksonville St.,RUSHING,KD,Humphries,ATT,9
+9142018,11/21/2015,FCS,Murray State,Jacksonville St.,RUSHING,KD,Humphries,YDS,-24
+9142019,11/21/2015,FCS,Murray State,Jacksonville St.,RUSHING,KD,Humphries,TD,0
+9142020,11/21/2015,FCS,Murray State,Jacksonville St.,RUSHING,KD,Humphries,LONG,8
+9142021,11/21/2015,FCS,Murray State,Jacksonville St.,PASSING,KD,Humphries,CP-ATT-INT,22-45-1
+9142022,11/21/2015,FCS,Murray State,Jacksonville St.,PASSING,KD,Humphries,YDS,286
+9142023,11/21/2015,FCS,Murray State,Jacksonville St.,PASSING,KD,Humphries,TD,1
+9142024,11/21/2015,FCS,Murray State,Jacksonville St.,PASSING,KD,Humphries,LONG,43
+9142025,11/21/2015,FCS,Murray State,Jacksonville St.,PASSING,Roman,Clay,CP-ATT-INT,1-1-0
+9142026,11/21/2015,FCS,Murray State,Jacksonville St.,PASSING,Roman,Clay,YDS,24
+9142027,11/21/2015,FCS,Murray State,Jacksonville St.,PASSING,Roman,Clay,TD,0
+9142028,11/21/2015,FCS,Murray State,Jacksonville St.,PASSING,Roman,Clay,LONG,24
+9142029,11/21/2015,FCS,Murray State,Jacksonville St.,RECEIVING,Jeremy,Harness,REC,8
+9142030,11/21/2015,FCS,Murray State,Jacksonville St.,RECEIVING,Jeremy,Harness,YDS,87
+9142031,11/21/2015,FCS,Murray State,Jacksonville St.,RECEIVING,Jeremy,Harness,TD,0
+9142032,11/21/2015,FCS,Murray State,Jacksonville St.,RECEIVING,Jeremy,Harness,LONG,27
+9142033,11/21/2015,FCS,Murray State,Jacksonville St.,RECEIVING,Paul,Rice,REC,4
+9142034,11/21/2015,FCS,Murray State,Jacksonville St.,RECEIVING,Paul,Rice,YDS,79
+9142035,11/21/2015,FCS,Murray State,Jacksonville St.,RECEIVING,Paul,Rice,TD,0
+9142036,11/21/2015,FCS,Murray State,Jacksonville St.,RECEIVING,Paul,Rice,LONG,33
+9142037,11/21/2015,FCS,Murray State,Jacksonville St.,RECEIVING,Janawski,Davis,REC,4
+9142038,11/21/2015,FCS,Murray State,Jacksonville St.,RECEIVING,Janawski,Davis,YDS,53
+9142039,11/21/2015,FCS,Murray State,Jacksonville St.,RECEIVING,Janawski,Davis,TD,0
+9142040,11/21/2015,FCS,Murray State,Jacksonville St.,RECEIVING,Janawski,Davis,LONG,43
+9142041,11/21/2015,FCS,Murray State,Jacksonville St.,RECEIVING,Dominique,Rhymes,REC,2
+9142042,11/21/2015,FCS,Murray State,Jacksonville St.,RECEIVING,Dominique,Rhymes,YDS,49
+9142043,11/21/2015,FCS,Murray State,Jacksonville St.,RECEIVING,Dominique,Rhymes,TD,1
+9142044,11/21/2015,FCS,Murray State,Jacksonville St.,RECEIVING,Dominique,Rhymes,LONG,35
+9142045,11/21/2015,FCS,Murray State,Jacksonville St.,RECEIVING,Roman,Clay,REC,1
+9142046,11/21/2015,FCS,Murray State,Jacksonville St.,RECEIVING,Roman,Clay,YDS,19
+9142047,11/21/2015,FCS,Murray State,Jacksonville St.,RECEIVING,Roman,Clay,TD,0
+9142048,11/21/2015,FCS,Murray State,Jacksonville St.,RECEIVING,Roman,Clay,LONG,19
+9142049,11/21/2015,FCS,Murray State,Jacksonville St.,RECEIVING,Jesse,Blackburn,REC,2
+9142050,11/21/2015,FCS,Murray State,Jacksonville St.,RECEIVING,Jesse,Blackburn,YDS,16
+9142051,11/21/2015,FCS,Murray State,Jacksonville St.,RECEIVING,Jesse,Blackburn,TD,0
+9142052,11/21/2015,FCS,Murray State,Jacksonville St.,RECEIVING,Jesse,Blackburn,LONG,11
+9142053,11/21/2015,FCS,Murray State,Jacksonville St.,RECEIVING,Pokey,Harris,REC,2
+9142054,11/21/2015,FCS,Murray State,Jacksonville St.,RECEIVING,Pokey,Harris,YDS,7
+9142055,11/21/2015,FCS,Murray State,Jacksonville St.,RECEIVING,Pokey,Harris,TD,0
+9142056,11/21/2015,FCS,Murray State,Jacksonville St.,RECEIVING,Pokey,Harris,LONG,4
+9142057,11/21/2015,FCS,Murray State,Jacksonville St.,KICKING,Connor,Mitchell,FG-FGA,2/3
+9142058,11/21/2015,FCS,Murray State,Jacksonville St.,KICKING,Connor,Mitchell,LONG,31
+9142059,11/21/2015,FCS,Murray State,Jacksonville St.,KICKING,Connor,Mitchell,XP,2
+9142060,11/21/2015,FCS,Murray State,Jacksonville St.,KICKING,Connor,Mitchell,PTS,8
+9142061,11/21/2015,FCS,Murray State,Jacksonville St.,PUNTING,Landon,Stratton,NO,8
+9142062,11/21/2015,FCS,Murray State,Jacksonville St.,PUNTING,Landon,Stratton,YDS,327
+9142063,11/21/2015,FCS,Murray State,Jacksonville St.,PUNTING,Landon,Stratton,AVG,40.9
+9142064,11/21/2015,FCS,Murray State,Jacksonville St.,PUNTING,Landon,Stratton,LONG,48
+9142065,11/21/2015,FCS,Murray State,Jacksonville St.,PUNT RETURNS,Janawski,Davis,NO,4
+9142066,11/21/2015,FCS,Murray State,Jacksonville St.,PUNT RETURNS,Janawski,Davis,YDS,8
+9142067,11/21/2015,FCS,Murray State,Jacksonville St.,PUNT RETURNS,Janawski,Davis,AVG,2.0
+9142068,11/21/2015,FCS,Murray State,Jacksonville St.,PUNT RETURNS,Janawski,Davis,LONG,6
+9142069,11/21/2015,FCS,Murray State,Jacksonville St.,KICK RETURNS,Pokey,Harris,NO,6
+9142070,11/21/2015,FCS,Murray State,Jacksonville St.,KICK RETURNS,Pokey,Harris,YDS,167
+9142071,11/21/2015,FCS,Murray State,Jacksonville St.,KICK RETURNS,Pokey,Harris,AVG,27.8
+9142072,11/21/2015,FCS,Murray State,Jacksonville St.,KICK RETURNS,Pokey,Harris,LONG,47
+9142073,11/21/2015,FCS,Jacksonville St.,Murray State,RUSHING,Eli,Jenkins,ATT,11
+9142074,11/21/2015,FCS,Jacksonville St.,Murray State,RUSHING,Eli,Jenkins,YDS,130
+9142075,11/21/2015,FCS,Jacksonville St.,Murray State,RUSHING,Eli,Jenkins,TD,3
+9142076,11/21/2015,FCS,Jacksonville St.,Murray State,RUSHING,Eli,Jenkins,LONG,65
+9142077,11/21/2015,FCS,Jacksonville St.,Murray State,RUSHING,Troymaine,Pope,ATT,17
+9142078,11/21/2015,FCS,Jacksonville St.,Murray State,RUSHING,Troymaine,Pope,YDS,78
+9142079,11/21/2015,FCS,Jacksonville St.,Murray State,RUSHING,Troymaine,Pope,TD,1
+9142080,11/21/2015,FCS,Jacksonville St.,Murray State,RUSHING,Troymaine,Pope,LONG,22
+9142081,11/21/2015,FCS,Jacksonville St.,Murray State,RUSHING,Miles,Jones,ATT,12
+9142082,11/21/2015,FCS,Jacksonville St.,Murray State,RUSHING,Miles,Jones,YDS,76
+9142083,11/21/2015,FCS,Jacksonville St.,Murray State,RUSHING,Miles,Jones,TD,0
+9142084,11/21/2015,FCS,Jacksonville St.,Murray State,RUSHING,Miles,Jones,LONG,15
+9142085,11/21/2015,FCS,Jacksonville St.,Murray State,RUSHING,Christian,LeMay,ATT,3
+9142086,11/21/2015,FCS,Jacksonville St.,Murray State,RUSHING,Christian,LeMay,YDS,8
+9142087,11/21/2015,FCS,Jacksonville St.,Murray State,RUSHING,Christian,LeMay,TD,0
+9142088,11/21/2015,FCS,Jacksonville St.,Murray State,RUSHING,Christian,LeMay,LONG,3
+9142089,11/21/2015,FCS,Jacksonville St.,Murray State,RUSHING,Bo,Billups,ATT,1
+9142090,11/21/2015,FCS,Jacksonville St.,Murray State,RUSHING,Bo,Billups,YDS,0
+9142091,11/21/2015,FCS,Jacksonville St.,Murray State,RUSHING,Bo,Billups,TD,0
+9142092,11/21/2015,FCS,Jacksonville St.,Murray State,RUSHING,Bo,Billups,LONG,0
+9142093,11/21/2015,FCS,Jacksonville St.,Murray State,PASSING,Eli,Jenkins,CP-ATT-INT,15-30-1
+9142094,11/21/2015,FCS,Jacksonville St.,Murray State,PASSING,Eli,Jenkins,YDS,212
+9142095,11/21/2015,FCS,Jacksonville St.,Murray State,PASSING,Eli,Jenkins,TD,2
+9142096,11/21/2015,FCS,Jacksonville St.,Murray State,PASSING,Eli,Jenkins,LONG,43
+9142097,11/21/2015,FCS,Jacksonville St.,Murray State,RECEIVING,Markis,Merrill,REC,4
+9142098,11/21/2015,FCS,Jacksonville St.,Murray State,RECEIVING,Markis,Merrill,YDS,98
+9142099,11/21/2015,FCS,Jacksonville St.,Murray State,RECEIVING,Markis,Merrill,TD,0
+9142100,11/21/2015,FCS,Jacksonville St.,Murray State,RECEIVING,Markis,Merrill,LONG,43
+9142101,11/21/2015,FCS,Jacksonville St.,Murray State,RECEIVING,Josh,Barge,REC,7
+9142102,11/21/2015,FCS,Jacksonville St.,Murray State,RECEIVING,Josh,Barge,YDS,92
+9142103,11/21/2015,FCS,Jacksonville St.,Murray State,RECEIVING,Josh,Barge,TD,2
+9142104,11/21/2015,FCS,Jacksonville St.,Murray State,RECEIVING,Josh,Barge,LONG,27
+9142105,11/21/2015,FCS,Jacksonville St.,Murray State,RECEIVING,Dalton,Screws,REC,3
+9142106,11/21/2015,FCS,Jacksonville St.,Murray State,RECEIVING,Dalton,Screws,YDS,19
+9142107,11/21/2015,FCS,Jacksonville St.,Murray State,RECEIVING,Dalton,Screws,TD,0
+9142108,11/21/2015,FCS,Jacksonville St.,Murray State,RECEIVING,Dalton,Screws,LONG,7
+9142109,11/21/2015,FCS,Jacksonville St.,Murray State,RECEIVING,Anthony,Johnson,REC,1
+9142110,11/21/2015,FCS,Jacksonville St.,Murray State,RECEIVING,Anthony,Johnson,YDS,3
+9142111,11/21/2015,FCS,Jacksonville St.,Murray State,RECEIVING,Anthony,Johnson,TD,0
+9142112,11/21/2015,FCS,Jacksonville St.,Murray State,RECEIVING,Anthony,Johnson,LONG,3
+9142113,11/21/2015,FCS,Jacksonville St.,Murray State,KICKING,Connor,Rouleau,FG-FGA,0/0
+9142114,11/21/2015,FCS,Jacksonville St.,Murray State,KICKING,Connor,Rouleau,LONG,-
+9142115,11/21/2015,FCS,Jacksonville St.,Murray State,KICKING,Connor,Rouleau,XP,6
+9142116,11/21/2015,FCS,Jacksonville St.,Murray State,KICKING,Connor,Rouleau,PTS,6
+9142117,11/21/2015,FCS,Jacksonville St.,Murray State,PUNTING,Hamish,MacInnes,NO,8
+9142118,11/21/2015,FCS,Jacksonville St.,Murray State,PUNTING,Hamish,MacInnes,YDS,316
+9142119,11/21/2015,FCS,Jacksonville St.,Murray State,PUNTING,Hamish,MacInnes,AVG,39.5
+9142120,11/21/2015,FCS,Jacksonville St.,Murray State,PUNTING,Hamish,MacInnes,LONG,47
+9142121,11/21/2015,FCS,Jacksonville St.,Murray State,KICK RETURNS,Lawon,DeBardelaben,NO,3
+9142122,11/21/2015,FCS,Jacksonville St.,Murray State,KICK RETURNS,Lawon,DeBardelaben,YDS,63
+9142123,11/21/2015,FCS,Jacksonville St.,Murray State,KICK RETURNS,Lawon,DeBardelaben,AVG,21.0
+9142124,11/21/2015,FCS,Jacksonville St.,Murray State,KICK RETURNS,Lawon,DeBardelaben,LONG,29
+9142125,11/21/2015,FCS,Jacksonville St.,Murray State,KICK RETURNS,Anthony,Johnson,NO,1
+9142126,11/21/2015,FCS,Jacksonville St.,Murray State,KICK RETURNS,Anthony,Johnson,YDS,0
+9142127,11/21/2015,FCS,Jacksonville St.,Murray State,KICK RETURNS,Anthony,Johnson,AVG,-
+9142128,11/21/2015,FCS,Jacksonville St.,Murray State,KICK RETURNS,Anthony,Johnson,LONG,0

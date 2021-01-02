@@ -1,0 +1,149 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+7557001,11/23/2013,FCS,Delaware,Villanova,RUSHING,Jerel,Harrison,ATT,4
+7557002,11/23/2013,FCS,Delaware,Villanova,RUSHING,Jerel,Harrison,YDS,59
+7557003,11/23/2013,FCS,Delaware,Villanova,RUSHING,Jerel,Harrison,TD,1
+7557004,11/23/2013,FCS,Delaware,Villanova,RUSHING,Jerel,Harrison,LONG,50
+7557005,11/23/2013,FCS,Delaware,Villanova,RUSHING,Andrew,Pierce,ATT,13
+7557006,11/23/2013,FCS,Delaware,Villanova,RUSHING,Andrew,Pierce,YDS,51
+7557007,11/23/2013,FCS,Delaware,Villanova,RUSHING,Andrew,Pierce,TD,1
+7557008,11/23/2013,FCS,Delaware,Villanova,RUSHING,Andrew,Pierce,LONG,11
+7557009,11/23/2013,FCS,Delaware,Villanova,RUSHING,Julian,Laing,ATT,9
+7557010,11/23/2013,FCS,Delaware,Villanova,RUSHING,Julian,Laing,YDS,32
+7557011,11/23/2013,FCS,Delaware,Villanova,RUSHING,Julian,Laing,TD,0
+7557012,11/23/2013,FCS,Delaware,Villanova,RUSHING,Julian,Laing,LONG,6
+7557013,11/23/2013,FCS,Delaware,Villanova,RUSHING,Trent,Hurley,ATT,8
+7557014,11/23/2013,FCS,Delaware,Villanova,RUSHING,Trent,Hurley,YDS,10
+7557015,11/23/2013,FCS,Delaware,Villanova,RUSHING,Trent,Hurley,TD,0
+7557016,11/23/2013,FCS,Delaware,Villanova,RUSHING,Trent,Hurley,LONG,6
+7557017,11/23/2013,FCS,Delaware,Villanova,RUSHING,Rob,Jones,ATT,1
+7557018,11/23/2013,FCS,Delaware,Villanova,RUSHING,Rob,Jones,YDS,-1
+7557019,11/23/2013,FCS,Delaware,Villanova,RUSHING,Rob,Jones,TD,0
+7557020,11/23/2013,FCS,Delaware,Villanova,RUSHING,Rob,Jones,LONG,0
+7557021,11/23/2013,FCS,Delaware,Villanova,RUSHING,Michael,Johnson,ATT,1
+7557022,11/23/2013,FCS,Delaware,Villanova,RUSHING,Michael,Johnson,YDS,-5
+7557023,11/23/2013,FCS,Delaware,Villanova,RUSHING,Michael,Johnson,TD,0
+7557024,11/23/2013,FCS,Delaware,Villanova,RUSHING,Michael,Johnson,LONG,0
+7557025,11/23/2013,FCS,Delaware,Villanova,PASSING,Trent,Hurley,CP-ATT-INT,19-26-0
+7557026,11/23/2013,FCS,Delaware,Villanova,PASSING,Trent,Hurley,YDS,231
+7557027,11/23/2013,FCS,Delaware,Villanova,PASSING,Trent,Hurley,TD,2
+7557028,11/23/2013,FCS,Delaware,Villanova,PASSING,Trent,Hurley,LONG,37
+7557029,11/23/2013,FCS,Delaware,Villanova,PASSING,Rob,Jones,CP-ATT-INT,1-1-0
+7557030,11/23/2013,FCS,Delaware,Villanova,PASSING,Rob,Jones,YDS,13
+7557031,11/23/2013,FCS,Delaware,Villanova,PASSING,Rob,Jones,TD,1
+7557032,11/23/2013,FCS,Delaware,Villanova,PASSING,Rob,Jones,LONG,13
+7557033,11/23/2013,FCS,Delaware,Villanova,RECEIVING,Michael,Johnson,REC,8
+7557034,11/23/2013,FCS,Delaware,Villanova,RECEIVING,Michael,Johnson,YDS,127
+7557035,11/23/2013,FCS,Delaware,Villanova,RECEIVING,Michael,Johnson,TD,2
+7557036,11/23/2013,FCS,Delaware,Villanova,RECEIVING,Michael,Johnson,LONG,37
+7557037,11/23/2013,FCS,Delaware,Villanova,RECEIVING,Nick,Boyle,REC,4
+7557038,11/23/2013,FCS,Delaware,Villanova,RECEIVING,Nick,Boyle,YDS,30
+7557039,11/23/2013,FCS,Delaware,Villanova,RECEIVING,Nick,Boyle,TD,0
+7557040,11/23/2013,FCS,Delaware,Villanova,RECEIVING,Nick,Boyle,LONG,21
+7557041,11/23/2013,FCS,Delaware,Villanova,RECEIVING,Andrew,Pierce,REC,3
+7557042,11/23/2013,FCS,Delaware,Villanova,RECEIVING,Andrew,Pierce,YDS,48
+7557043,11/23/2013,FCS,Delaware,Villanova,RECEIVING,Andrew,Pierce,TD,0
+7557044,11/23/2013,FCS,Delaware,Villanova,RECEIVING,Andrew,Pierce,LONG,24
+7557045,11/23/2013,FCS,Delaware,Villanova,RECEIVING,Rob,Jones,REC,3
+7557046,11/23/2013,FCS,Delaware,Villanova,RECEIVING,Rob,Jones,YDS,26
+7557047,11/23/2013,FCS,Delaware,Villanova,RECEIVING,Rob,Jones,TD,0
+7557048,11/23/2013,FCS,Delaware,Villanova,RECEIVING,Rob,Jones,LONG,13
+7557049,11/23/2013,FCS,Delaware,Villanova,RECEIVING,Trent,Hurley,REC,1
+7557050,11/23/2013,FCS,Delaware,Villanova,RECEIVING,Trent,Hurley,YDS,13
+7557051,11/23/2013,FCS,Delaware,Villanova,RECEIVING,Trent,Hurley,TD,1
+7557052,11/23/2013,FCS,Delaware,Villanova,RECEIVING,Trent,Hurley,LONG,13
+7557053,11/23/2013,FCS,Delaware,Villanova,RECEIVING,Jerel,Harrison,REC,1
+7557054,11/23/2013,FCS,Delaware,Villanova,RECEIVING,Jerel,Harrison,YDS,0
+7557055,11/23/2013,FCS,Delaware,Villanova,RECEIVING,Jerel,Harrison,TD,0
+7557056,11/23/2013,FCS,Delaware,Villanova,RECEIVING,Jerel,Harrison,LONG,0
+7557057,11/23/2013,FCS,Delaware,Villanova,KICKING,Sean,Baner,FG-FGA,0/0
+7557058,11/23/2013,FCS,Delaware,Villanova,KICKING,Sean,Baner,LONG,-
+7557059,11/23/2013,FCS,Delaware,Villanova,KICKING,Sean,Baner,XP,4
+7557060,11/23/2013,FCS,Delaware,Villanova,KICKING,Sean,Baner,PTS,4
+7557061,11/23/2013,FCS,Delaware,Villanova,PUNTING,Eric,Enderson,NO,7
+7557062,11/23/2013,FCS,Delaware,Villanova,PUNTING,Eric,Enderson,YDS,341
+7557063,11/23/2013,FCS,Delaware,Villanova,PUNTING,Eric,Enderson,AVG,48.7
+7557064,11/23/2013,FCS,Delaware,Villanova,PUNTING,Eric,Enderson,LONG,68
+7557065,11/23/2013,FCS,Delaware,Villanova,PUNT RETURNS,Rob,Jones,NO,1
+7557066,11/23/2013,FCS,Delaware,Villanova,PUNT RETURNS,Rob,Jones,YDS,16
+7557067,11/23/2013,FCS,Delaware,Villanova,PUNT RETURNS,Rob,Jones,AVG,16.0
+7557068,11/23/2013,FCS,Delaware,Villanova,PUNT RETURNS,Rob,Jones,LONG,16
+7557069,11/23/2013,FCS,Delaware,Villanova,KICK RETURNS,Michael,Johnson,NO,2
+7557070,11/23/2013,FCS,Delaware,Villanova,KICK RETURNS,Michael,Johnson,YDS,35
+7557071,11/23/2013,FCS,Delaware,Villanova,KICK RETURNS,Michael,Johnson,AVG,17.5
+7557072,11/23/2013,FCS,Delaware,Villanova,KICK RETURNS,Michael,Johnson,LONG,24
+7557073,11/23/2013,FCS,Delaware,Villanova,KICK RETURNS,Travis,Hawkins,NO,1
+7557074,11/23/2013,FCS,Delaware,Villanova,KICK RETURNS,Travis,Hawkins,YDS,-17
+7557075,11/23/2013,FCS,Delaware,Villanova,KICK RETURNS,Travis,Hawkins,AVG,-17.0
+7557076,11/23/2013,FCS,Delaware,Villanova,KICK RETURNS,Travis,Hawkins,LONG,0
+7557077,11/23/2013,FCS,Villanova,Delaware,RUSHING,John,Robertson,ATT,31
+7557078,11/23/2013,FCS,Villanova,Delaware,RUSHING,John,Robertson,YDS,165
+7557079,11/23/2013,FCS,Villanova,Delaware,RUSHING,John,Robertson,TD,1
+7557080,11/23/2013,FCS,Villanova,Delaware,RUSHING,John,Robertson,LONG,17
+7557081,11/23/2013,FCS,Villanova,Delaware,RUSHING,Kevin,Monangai,ATT,12
+7557082,11/23/2013,FCS,Villanova,Delaware,RUSHING,Kevin,Monangai,YDS,83
+7557083,11/23/2013,FCS,Villanova,Delaware,RUSHING,Kevin,Monangai,TD,0
+7557084,11/23/2013,FCS,Villanova,Delaware,RUSHING,Kevin,Monangai,LONG,20
+7557085,11/23/2013,FCS,Villanova,Delaware,RUSHING,Austin,Medley,ATT,9
+7557086,11/23/2013,FCS,Villanova,Delaware,RUSHING,Austin,Medley,YDS,81
+7557087,11/23/2013,FCS,Villanova,Delaware,RUSHING,Austin,Medley,TD,0
+7557088,11/23/2013,FCS,Villanova,Delaware,RUSHING,Austin,Medley,LONG,21
+7557089,11/23/2013,FCS,Villanova,Delaware,RUSHING,Gary,Underwood,ATT,1
+7557090,11/23/2013,FCS,Villanova,Delaware,RUSHING,Gary,Underwood,YDS,6
+7557091,11/23/2013,FCS,Villanova,Delaware,RUSHING,Gary,Underwood,TD,0
+7557092,11/23/2013,FCS,Villanova,Delaware,RUSHING,Gary,Underwood,LONG,6
+7557093,11/23/2013,FCS,Villanova,Delaware,PASSING,John,Robertson,CP-ATT-INT,19-28-1
+7557094,11/23/2013,FCS,Villanova,Delaware,PASSING,John,Robertson,YDS,252
+7557095,11/23/2013,FCS,Villanova,Delaware,PASSING,John,Robertson,TD,3
+7557096,11/23/2013,FCS,Villanova,Delaware,PASSING,John,Robertson,LONG,50
+7557097,11/23/2013,FCS,Villanova,Delaware,PASSING,Gary,Underwood,CP-ATT-INT,1-1-0
+7557098,11/23/2013,FCS,Villanova,Delaware,PASSING,Gary,Underwood,YDS,39
+7557099,11/23/2013,FCS,Villanova,Delaware,PASSING,Gary,Underwood,TD,0
+7557100,11/23/2013,FCS,Villanova,Delaware,PASSING,Gary,Underwood,LONG,39
+7557101,11/23/2013,FCS,Villanova,Delaware,RECEIVING,Poppy,Livers,REC,6
+7557102,11/23/2013,FCS,Villanova,Delaware,RECEIVING,Poppy,Livers,YDS,63
+7557103,11/23/2013,FCS,Villanova,Delaware,RECEIVING,Poppy,Livers,TD,0
+7557104,11/23/2013,FCS,Villanova,Delaware,RECEIVING,Poppy,Livers,LONG,16
+7557105,11/23/2013,FCS,Villanova,Delaware,RECEIVING,Joe,Price,REC,5
+7557106,11/23/2013,FCS,Villanova,Delaware,RECEIVING,Joe,Price,YDS,103
+7557107,11/23/2013,FCS,Villanova,Delaware,RECEIVING,Joe,Price,TD,2
+7557108,11/23/2013,FCS,Villanova,Delaware,RECEIVING,Joe,Price,LONG,50
+7557109,11/23/2013,FCS,Villanova,Delaware,RECEIVING,Kevin,Gulyas,REC,2
+7557110,11/23/2013,FCS,Villanova,Delaware,RECEIVING,Kevin,Gulyas,YDS,53
+7557111,11/23/2013,FCS,Villanova,Delaware,RECEIVING,Kevin,Gulyas,TD,0
+7557112,11/23/2013,FCS,Villanova,Delaware,RECEIVING,Kevin,Gulyas,LONG,39
+7557113,11/23/2013,FCS,Villanova,Delaware,RECEIVING,Earnest,Pettway,REC,2
+7557114,11/23/2013,FCS,Villanova,Delaware,RECEIVING,Earnest,Pettway,YDS,23
+7557115,11/23/2013,FCS,Villanova,Delaware,RECEIVING,Earnest,Pettway,TD,0
+7557116,11/23/2013,FCS,Villanova,Delaware,RECEIVING,Earnest,Pettway,LONG,14
+7557117,11/23/2013,FCS,Villanova,Delaware,RECEIVING,Clay,Horne,REC,2
+7557118,11/23/2013,FCS,Villanova,Delaware,RECEIVING,Clay,Horne,YDS,20
+7557119,11/23/2013,FCS,Villanova,Delaware,RECEIVING,Clay,Horne,TD,0
+7557120,11/23/2013,FCS,Villanova,Delaware,RECEIVING,Clay,Horne,LONG,11
+7557121,11/23/2013,FCS,Villanova,Delaware,RECEIVING,Austin,Medley,REC,2
+7557122,11/23/2013,FCS,Villanova,Delaware,RECEIVING,Austin,Medley,YDS,4
+7557123,11/23/2013,FCS,Villanova,Delaware,RECEIVING,Austin,Medley,TD,0
+7557124,11/23/2013,FCS,Villanova,Delaware,RECEIVING,Austin,Medley,LONG,7
+7557125,11/23/2013,FCS,Villanova,Delaware,RECEIVING,Gary,Underwood,REC,1
+7557126,11/23/2013,FCS,Villanova,Delaware,RECEIVING,Gary,Underwood,YDS,25
+7557127,11/23/2013,FCS,Villanova,Delaware,RECEIVING,Gary,Underwood,TD,1
+7557128,11/23/2013,FCS,Villanova,Delaware,RECEIVING,Gary,Underwood,LONG,25
+7557129,11/23/2013,FCS,Villanova,Delaware,KICKING,Mark,Hamilton,FG-FGA,3/3
+7557130,11/23/2013,FCS,Villanova,Delaware,KICKING,Mark,Hamilton,LONG,32
+7557131,11/23/2013,FCS,Villanova,Delaware,KICKING,Mark,Hamilton,XP,2
+7557132,11/23/2013,FCS,Villanova,Delaware,KICKING,Mark,Hamilton,PTS,11
+7557133,11/23/2013,FCS,Villanova,Delaware,PUNTING,Mark,Hamilton,NO,5
+7557134,11/23/2013,FCS,Villanova,Delaware,PUNTING,Mark,Hamilton,YDS,199
+7557135,11/23/2013,FCS,Villanova,Delaware,PUNTING,Mark,Hamilton,AVG,39.8
+7557136,11/23/2013,FCS,Villanova,Delaware,PUNTING,Mark,Hamilton,LONG,49
+7557137,11/23/2013,FCS,Villanova,Delaware,PUNT RETURNS,Poppy,Livers,NO,1
+7557138,11/23/2013,FCS,Villanova,Delaware,PUNT RETURNS,Poppy,Livers,YDS,17
+7557139,11/23/2013,FCS,Villanova,Delaware,PUNT RETURNS,Poppy,Livers,AVG,17.0
+7557140,11/23/2013,FCS,Villanova,Delaware,PUNT RETURNS,Poppy,Livers,LONG,17
+7557141,11/23/2013,FCS,Villanova,Delaware,KICK RETURNS,Poppy,Livers,NO,4
+7557142,11/23/2013,FCS,Villanova,Delaware,KICK RETURNS,Poppy,Livers,YDS,70
+7557143,11/23/2013,FCS,Villanova,Delaware,KICK RETURNS,Poppy,Livers,AVG,17.5
+7557144,11/23/2013,FCS,Villanova,Delaware,KICK RETURNS,Poppy,Livers,LONG,25
+7557145,11/23/2013,FCS,Villanova,Delaware,KICK RETURNS,Aaron,Wells,NO,1
+7557146,11/23/2013,FCS,Villanova,Delaware,KICK RETURNS,Aaron,Wells,YDS,0
+7557147,11/23/2013,FCS,Villanova,Delaware,KICK RETURNS,Aaron,Wells,AVG,0.0
+7557148,11/23/2013,FCS,Villanova,Delaware,KICK RETURNS,Aaron,Wells,LONG,0

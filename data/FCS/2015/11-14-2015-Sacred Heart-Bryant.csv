@@ -1,0 +1,157 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9110001,11/14/2015,FCS,Sacred Heart,Bryant,RUSHING,Nate,Chavious,ATT,10
+9110002,11/14/2015,FCS,Sacred Heart,Bryant,RUSHING,Nate,Chavious,YDS,112
+9110003,11/14/2015,FCS,Sacred Heart,Bryant,RUSHING,Nate,Chavious,TD,1
+9110004,11/14/2015,FCS,Sacred Heart,Bryant,RUSHING,Nate,Chavious,LONG,32
+9110005,11/14/2015,FCS,Sacred Heart,Bryant,RUSHING,Ose,Imeokparia,ATT,11
+9110006,11/14/2015,FCS,Sacred Heart,Bryant,RUSHING,Ose,Imeokparia,YDS,62
+9110007,11/14/2015,FCS,Sacred Heart,Bryant,RUSHING,Ose,Imeokparia,TD,0
+9110008,11/14/2015,FCS,Sacred Heart,Bryant,RUSHING,Ose,Imeokparia,LONG,27
+9110009,11/14/2015,FCS,Sacred Heart,Bryant,RUSHING,RJ,Noel,ATT,15
+9110010,11/14/2015,FCS,Sacred Heart,Bryant,RUSHING,RJ,Noel,YDS,55
+9110011,11/14/2015,FCS,Sacred Heart,Bryant,RUSHING,RJ,Noel,TD,2
+9110012,11/14/2015,FCS,Sacred Heart,Bryant,RUSHING,RJ,Noel,LONG,26
+9110013,11/14/2015,FCS,Sacred Heart,Bryant,RUSHING,Moses,Webb,ATT,1
+9110014,11/14/2015,FCS,Sacred Heart,Bryant,RUSHING,Moses,Webb,YDS,5
+9110015,11/14/2015,FCS,Sacred Heart,Bryant,RUSHING,Moses,Webb,TD,0
+9110016,11/14/2015,FCS,Sacred Heart,Bryant,RUSHING,Moses,Webb,LONG,5
+9110017,11/14/2015,FCS,Sacred Heart,Bryant,RUSHING,Tyler,Dube,ATT,1
+9110018,11/14/2015,FCS,Sacred Heart,Bryant,RUSHING,Tyler,Dube,YDS,0
+9110019,11/14/2015,FCS,Sacred Heart,Bryant,RUSHING,Tyler,Dube,TD,0
+9110020,11/14/2015,FCS,Sacred Heart,Bryant,RUSHING,Tyler,Dube,LONG,4
+9110021,11/14/2015,FCS,Sacred Heart,Bryant,RUSHING,Jalyn,Croom,ATT,1
+9110022,11/14/2015,FCS,Sacred Heart,Bryant,RUSHING,Jalyn,Croom,YDS,-1
+9110023,11/14/2015,FCS,Sacred Heart,Bryant,RUSHING,Jalyn,Croom,TD,0
+9110024,11/14/2015,FCS,Sacred Heart,Bryant,RUSHING,Jalyn,Croom,LONG,0
+9110025,11/14/2015,FCS,Sacred Heart,Bryant,RUSHING,,Team,ATT,2
+9110026,11/14/2015,FCS,Sacred Heart,Bryant,RUSHING,,Team,YDS,-3
+9110027,11/14/2015,FCS,Sacred Heart,Bryant,RUSHING,,Team,TD,0
+9110028,11/14/2015,FCS,Sacred Heart,Bryant,RUSHING,,Team,LONG,0
+9110029,11/14/2015,FCS,Sacred Heart,Bryant,PASSING,RJ,Noel,CP-ATT-INT,7-20-0
+9110030,11/14/2015,FCS,Sacred Heart,Bryant,PASSING,RJ,Noel,YDS,126
+9110031,11/14/2015,FCS,Sacred Heart,Bryant,PASSING,RJ,Noel,TD,1
+9110032,11/14/2015,FCS,Sacred Heart,Bryant,PASSING,RJ,Noel,LONG,0
+9110033,11/14/2015,FCS,Sacred Heart,Bryant,PASSING,Kevin,Duke,CP-ATT-INT,0-1-0
+9110034,11/14/2015,FCS,Sacred Heart,Bryant,PASSING,Kevin,Duke,YDS,0
+9110035,11/14/2015,FCS,Sacred Heart,Bryant,PASSING,Kevin,Duke,TD,0
+9110036,11/14/2015,FCS,Sacred Heart,Bryant,PASSING,Kevin,Duke,LONG,0
+9110037,11/14/2015,FCS,Sacred Heart,Bryant,RECEIVING,Tyler,Dube,REC,4
+9110038,11/14/2015,FCS,Sacred Heart,Bryant,RECEIVING,Tyler,Dube,YDS,75
+9110039,11/14/2015,FCS,Sacred Heart,Bryant,RECEIVING,Tyler,Dube,TD,0
+9110040,11/14/2015,FCS,Sacred Heart,Bryant,RECEIVING,Tyler,Dube,LONG,31
+9110041,11/14/2015,FCS,Sacred Heart,Bryant,RECEIVING,Ose,Imeokparia,REC,1
+9110042,11/14/2015,FCS,Sacred Heart,Bryant,RECEIVING,Ose,Imeokparia,YDS,30
+9110043,11/14/2015,FCS,Sacred Heart,Bryant,RECEIVING,Ose,Imeokparia,TD,1
+9110044,11/14/2015,FCS,Sacred Heart,Bryant,RECEIVING,Ose,Imeokparia,LONG,30
+9110045,11/14/2015,FCS,Sacred Heart,Bryant,RECEIVING,Moses,Webb,REC,1
+9110046,11/14/2015,FCS,Sacred Heart,Bryant,RECEIVING,Moses,Webb,YDS,13
+9110047,11/14/2015,FCS,Sacred Heart,Bryant,RECEIVING,Moses,Webb,TD,0
+9110048,11/14/2015,FCS,Sacred Heart,Bryant,RECEIVING,Moses,Webb,LONG,13
+9110049,11/14/2015,FCS,Sacred Heart,Bryant,RECEIVING,Jackson,King,REC,1
+9110050,11/14/2015,FCS,Sacred Heart,Bryant,RECEIVING,Jackson,King,YDS,8
+9110051,11/14/2015,FCS,Sacred Heart,Bryant,RECEIVING,Jackson,King,TD,0
+9110052,11/14/2015,FCS,Sacred Heart,Bryant,RECEIVING,Jackson,King,LONG,8
+9110053,11/14/2015,FCS,Sacred Heart,Bryant,KICKING,Alec,Finney,FG-FGA,0/0
+9110054,11/14/2015,FCS,Sacred Heart,Bryant,KICKING,Alec,Finney,LONG,0
+9110055,11/14/2015,FCS,Sacred Heart,Bryant,KICKING,Alec,Finney,XP,4
+9110056,11/14/2015,FCS,Sacred Heart,Bryant,KICKING,Alec,Finney,PTS,4
+9110057,11/14/2015,FCS,Sacred Heart,Bryant,PUNTING,Jamie,Ross,NO,8
+9110058,11/14/2015,FCS,Sacred Heart,Bryant,PUNTING,Jamie,Ross,YDS,216
+9110059,11/14/2015,FCS,Sacred Heart,Bryant,PUNTING,Jamie,Ross,AVG,27.0
+9110060,11/14/2015,FCS,Sacred Heart,Bryant,PUNTING,Jamie,Ross,LONG,54
+9110061,11/14/2015,FCS,Sacred Heart,Bryant,PUNT RETURNS,Tyler,Dube,NO,1
+9110062,11/14/2015,FCS,Sacred Heart,Bryant,PUNT RETURNS,Tyler,Dube,YDS,-1
+9110063,11/14/2015,FCS,Sacred Heart,Bryant,PUNT RETURNS,Tyler,Dube,AVG,-
+9110064,11/14/2015,FCS,Sacred Heart,Bryant,PUNT RETURNS,Tyler,Dube,LONG,-1
+9110065,11/14/2015,FCS,Sacred Heart,Bryant,KICK RETURNS,Nate,Chavious,NO,5
+9110066,11/14/2015,FCS,Sacred Heart,Bryant,KICK RETURNS,Nate,Chavious,YDS,80
+9110067,11/14/2015,FCS,Sacred Heart,Bryant,KICK RETURNS,Nate,Chavious,AVG,16.0
+9110068,11/14/2015,FCS,Sacred Heart,Bryant,KICK RETURNS,Nate,Chavious,LONG,20
+9110069,11/14/2015,FCS,Sacred Heart,Bryant,KICK RETURNS,Khaamal,Whitaker,NO,1
+9110070,11/14/2015,FCS,Sacred Heart,Bryant,KICK RETURNS,Khaamal,Whitaker,YDS,35
+9110071,11/14/2015,FCS,Sacred Heart,Bryant,KICK RETURNS,Khaamal,Whitaker,AVG,35.0
+9110072,11/14/2015,FCS,Sacred Heart,Bryant,KICK RETURNS,Khaamal,Whitaker,LONG,35
+9110073,11/14/2015,FCS,Bryant,Sacred Heart,RUSHING,Ricardo,McCray,ATT,34
+9110074,11/14/2015,FCS,Bryant,Sacred Heart,RUSHING,Ricardo,McCray,YDS,182
+9110075,11/14/2015,FCS,Bryant,Sacred Heart,RUSHING,Ricardo,McCray,TD,0
+9110076,11/14/2015,FCS,Bryant,Sacred Heart,RUSHING,Ricardo,McCray,LONG,29
+9110077,11/14/2015,FCS,Bryant,Sacred Heart,RUSHING,Patrick,Kenney,ATT,1
+9110078,11/14/2015,FCS,Bryant,Sacred Heart,RUSHING,Patrick,Kenney,YDS,3
+9110079,11/14/2015,FCS,Bryant,Sacred Heart,RUSHING,Patrick,Kenney,TD,0
+9110080,11/14/2015,FCS,Bryant,Sacred Heart,RUSHING,Patrick,Kenney,LONG,3
+9110081,11/14/2015,FCS,Bryant,Sacred Heart,RUSHING,Ryan,Black,ATT,2
+9110082,11/14/2015,FCS,Bryant,Sacred Heart,RUSHING,Ryan,Black,YDS,2
+9110083,11/14/2015,FCS,Bryant,Sacred Heart,RUSHING,Ryan,Black,TD,0
+9110084,11/14/2015,FCS,Bryant,Sacred Heart,RUSHING,Ryan,Black,LONG,3
+9110085,11/14/2015,FCS,Bryant,Sacred Heart,RUSHING,Dalton,Easton,ATT,1
+9110086,11/14/2015,FCS,Bryant,Sacred Heart,RUSHING,Dalton,Easton,YDS,1
+9110087,11/14/2015,FCS,Bryant,Sacred Heart,RUSHING,Dalton,Easton,TD,1
+9110088,11/14/2015,FCS,Bryant,Sacred Heart,RUSHING,Dalton,Easton,LONG,1
+9110089,11/14/2015,FCS,Bryant,Sacred Heart,PASSING,Dalton,Easton,CP-ATT-INT,21-39-4
+9110090,11/14/2015,FCS,Bryant,Sacred Heart,PASSING,Dalton,Easton,YDS,266
+9110091,11/14/2015,FCS,Bryant,Sacred Heart,PASSING,Dalton,Easton,TD,1
+9110092,11/14/2015,FCS,Bryant,Sacred Heart,PASSING,Dalton,Easton,LONG,0
+9110093,11/14/2015,FCS,Bryant,Sacred Heart,PASSING,Kyle,Jennings,CP-ATT-INT,0-1-1
+9110094,11/14/2015,FCS,Bryant,Sacred Heart,PASSING,Kyle,Jennings,YDS,0
+9110095,11/14/2015,FCS,Bryant,Sacred Heart,PASSING,Kyle,Jennings,TD,0
+9110096,11/14/2015,FCS,Bryant,Sacred Heart,PASSING,Kyle,Jennings,LONG,0
+9110097,11/14/2015,FCS,Bryant,Sacred Heart,RECEIVING,Aaron,Aryee,REC,2
+9110098,11/14/2015,FCS,Bryant,Sacred Heart,RECEIVING,Aaron,Aryee,YDS,59
+9110099,11/14/2015,FCS,Bryant,Sacred Heart,RECEIVING,Aaron,Aryee,TD,0
+9110100,11/14/2015,FCS,Bryant,Sacred Heart,RECEIVING,Aaron,Aryee,LONG,45
+9110101,11/14/2015,FCS,Bryant,Sacred Heart,RECEIVING,Taylor,Barthelette,REC,4
+9110102,11/14/2015,FCS,Bryant,Sacred Heart,RECEIVING,Taylor,Barthelette,YDS,52
+9110103,11/14/2015,FCS,Bryant,Sacred Heart,RECEIVING,Taylor,Barthelette,TD,0
+9110104,11/14/2015,FCS,Bryant,Sacred Heart,RECEIVING,Taylor,Barthelette,LONG,22
+9110105,11/14/2015,FCS,Bryant,Sacred Heart,RECEIVING,Chad,Ward,REC,3
+9110106,11/14/2015,FCS,Bryant,Sacred Heart,RECEIVING,Chad,Ward,YDS,39
+9110107,11/14/2015,FCS,Bryant,Sacred Heart,RECEIVING,Chad,Ward,TD,0
+9110108,11/14/2015,FCS,Bryant,Sacred Heart,RECEIVING,Chad,Ward,LONG,27
+9110109,11/14/2015,FCS,Bryant,Sacred Heart,RECEIVING,Ryan,Barrett,REC,3
+9110110,11/14/2015,FCS,Bryant,Sacred Heart,RECEIVING,Ryan,Barrett,YDS,35
+9110111,11/14/2015,FCS,Bryant,Sacred Heart,RECEIVING,Ryan,Barrett,TD,1
+9110112,11/14/2015,FCS,Bryant,Sacred Heart,RECEIVING,Ryan,Barrett,LONG,17
+9110113,11/14/2015,FCS,Bryant,Sacred Heart,RECEIVING,Hunter,Taute,REC,3
+9110114,11/14/2015,FCS,Bryant,Sacred Heart,RECEIVING,Hunter,Taute,YDS,25
+9110115,11/14/2015,FCS,Bryant,Sacred Heart,RECEIVING,Hunter,Taute,TD,0
+9110116,11/14/2015,FCS,Bryant,Sacred Heart,RECEIVING,Hunter,Taute,LONG,16
+9110117,11/14/2015,FCS,Bryant,Sacred Heart,RECEIVING,John,Lavin,REC,2
+9110118,11/14/2015,FCS,Bryant,Sacred Heart,RECEIVING,John,Lavin,YDS,23
+9110119,11/14/2015,FCS,Bryant,Sacred Heart,RECEIVING,John,Lavin,TD,0
+9110120,11/14/2015,FCS,Bryant,Sacred Heart,RECEIVING,John,Lavin,LONG,12
+9110121,11/14/2015,FCS,Bryant,Sacred Heart,RECEIVING,Matt,Sewall,REC,3
+9110122,11/14/2015,FCS,Bryant,Sacred Heart,RECEIVING,Matt,Sewall,YDS,22
+9110123,11/14/2015,FCS,Bryant,Sacred Heart,RECEIVING,Matt,Sewall,TD,0
+9110124,11/14/2015,FCS,Bryant,Sacred Heart,RECEIVING,Matt,Sewall,LONG,14
+9110125,11/14/2015,FCS,Bryant,Sacred Heart,RECEIVING,Ricardo,McCray,REC,1
+9110126,11/14/2015,FCS,Bryant,Sacred Heart,RECEIVING,Ricardo,McCray,YDS,11
+9110127,11/14/2015,FCS,Bryant,Sacred Heart,RECEIVING,Ricardo,McCray,TD,0
+9110128,11/14/2015,FCS,Bryant,Sacred Heart,RECEIVING,Ricardo,McCray,LONG,11
+9110129,11/14/2015,FCS,Bryant,Sacred Heart,KICKING,Ricky,Perez,FG-FGA,2/2
+9110130,11/14/2015,FCS,Bryant,Sacred Heart,KICKING,Ricky,Perez,LONG,41
+9110131,11/14/2015,FCS,Bryant,Sacred Heart,KICKING,Ricky,Perez,XP,0
+9110132,11/14/2015,FCS,Bryant,Sacred Heart,KICKING,Ricky,Perez,PTS,6
+9110133,11/14/2015,FCS,Bryant,Sacred Heart,KICKING,Richard,Ukelegharanya,FG-FGA,2/2
+9110134,11/14/2015,FCS,Bryant,Sacred Heart,KICKING,Richard,Ukelegharanya,LONG,41
+9110135,11/14/2015,FCS,Bryant,Sacred Heart,KICKING,Richard,Ukelegharanya,XP,0
+9110136,11/14/2015,FCS,Bryant,Sacred Heart,KICKING,Richard,Ukelegharanya,PTS,6
+9110137,11/14/2015,FCS,Bryant,Sacred Heart,KICKING,Alex,Malhas,FG-FGA,0/0
+9110138,11/14/2015,FCS,Bryant,Sacred Heart,KICKING,Alex,Malhas,LONG,-
+9110139,11/14/2015,FCS,Bryant,Sacred Heart,KICKING,Alex,Malhas,XP,1
+9110140,11/14/2015,FCS,Bryant,Sacred Heart,KICKING,Alex,Malhas,PTS,1
+9110141,11/14/2015,FCS,Bryant,Sacred Heart,PUNTING,Dom,Kozlowski,NO,2
+9110142,11/14/2015,FCS,Bryant,Sacred Heart,PUNTING,Dom,Kozlowski,YDS,74
+9110143,11/14/2015,FCS,Bryant,Sacred Heart,PUNTING,Dom,Kozlowski,AVG,37.0
+9110144,11/14/2015,FCS,Bryant,Sacred Heart,PUNTING,Dom,Kozlowski,LONG,46
+9110145,11/14/2015,FCS,Bryant,Sacred Heart,PUNT RETURNS,Matt,Sewall,NO,2
+9110146,11/14/2015,FCS,Bryant,Sacred Heart,PUNT RETURNS,Matt,Sewall,YDS,1
+9110147,11/14/2015,FCS,Bryant,Sacred Heart,PUNT RETURNS,Matt,Sewall,AVG,0.5
+9110148,11/14/2015,FCS,Bryant,Sacred Heart,PUNT RETURNS,Matt,Sewall,LONG,6
+9110149,11/14/2015,FCS,Bryant,Sacred Heart,KICK RETURNS,Vincent,Nisivoccia,NO,2
+9110150,11/14/2015,FCS,Bryant,Sacred Heart,KICK RETURNS,Vincent,Nisivoccia,YDS,55
+9110151,11/14/2015,FCS,Bryant,Sacred Heart,KICK RETURNS,Vincent,Nisivoccia,AVG,27.5
+9110152,11/14/2015,FCS,Bryant,Sacred Heart,KICK RETURNS,Vincent,Nisivoccia,LONG,41
+9110153,11/14/2015,FCS,Bryant,Sacred Heart,KICK RETURNS,Joe,Fine,NO,1
+9110154,11/14/2015,FCS,Bryant,Sacred Heart,KICK RETURNS,Joe,Fine,YDS,7
+9110155,11/14/2015,FCS,Bryant,Sacred Heart,KICK RETURNS,Joe,Fine,AVG,7.0
+9110156,11/14/2015,FCS,Bryant,Sacred Heart,KICK RETURNS,Joe,Fine,LONG,7

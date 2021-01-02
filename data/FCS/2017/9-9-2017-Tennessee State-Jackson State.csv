@@ -1,0 +1,133 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+10155001,9/9/2017,FCS,Tennessee State,Jackson State,RUSHING,Treon,Harris,ATT,11
+10155002,9/9/2017,FCS,Tennessee State,Jackson State,RUSHING,Treon,Harris,YDS,91
+10155003,9/9/2017,FCS,Tennessee State,Jackson State,RUSHING,Treon,Harris,TD,1
+10155004,9/9/2017,FCS,Tennessee State,Jackson State,RUSHING,Treon,Harris,LONG,26
+10155005,9/9/2017,FCS,Tennessee State,Jackson State,RUSHING,Seth,Rowland,ATT,10
+10155006,9/9/2017,FCS,Tennessee State,Jackson State,RUSHING,Seth,Rowland,YDS,36
+10155007,9/9/2017,FCS,Tennessee State,Jackson State,RUSHING,Seth,Rowland,TD,0
+10155008,9/9/2017,FCS,Tennessee State,Jackson State,RUSHING,Seth,Rowland,LONG,8
+10155009,9/9/2017,FCS,Tennessee State,Jackson State,RUSHING,Earl,Harrison,ATT,9
+10155010,9/9/2017,FCS,Tennessee State,Jackson State,RUSHING,Earl,Harrison,YDS,16
+10155011,9/9/2017,FCS,Tennessee State,Jackson State,RUSHING,Earl,Harrison,TD,0
+10155012,9/9/2017,FCS,Tennessee State,Jackson State,RUSHING,Earl,Harrison,LONG,9
+10155013,9/9/2017,FCS,Tennessee State,Jackson State,RUSHING,Sabree,CurtisJr.,ATT,4
+10155014,9/9/2017,FCS,Tennessee State,Jackson State,RUSHING,Sabree,CurtisJr.,YDS,15
+10155015,9/9/2017,FCS,Tennessee State,Jackson State,RUSHING,Sabree,CurtisJr.,TD,0
+10155016,9/9/2017,FCS,Tennessee State,Jackson State,RUSHING,Sabree,CurtisJr.,LONG,8
+10155017,9/9/2017,FCS,Tennessee State,Jackson State,RUSHING,Steven,Newbold,ATT,1
+10155018,9/9/2017,FCS,Tennessee State,Jackson State,RUSHING,Steven,Newbold,YDS,2
+10155019,9/9/2017,FCS,Tennessee State,Jackson State,RUSHING,Steven,Newbold,TD,0
+10155020,9/9/2017,FCS,Tennessee State,Jackson State,RUSHING,Steven,Newbold,LONG,2
+10155021,9/9/2017,FCS,Tennessee State,Jackson State,PASSING,Treon,Harris,CP-ATT-INT,5-17-1
+10155022,9/9/2017,FCS,Tennessee State,Jackson State,PASSING,Treon,Harris,YDS,78
+10155023,9/9/2017,FCS,Tennessee State,Jackson State,PASSING,Treon,Harris,TD,0
+10155024,9/9/2017,FCS,Tennessee State,Jackson State,PASSING,Treon,Harris,LONG,32
+10155025,9/9/2017,FCS,Tennessee State,Jackson State,RECEIVING,Patrick,Smith,REC,3
+10155026,9/9/2017,FCS,Tennessee State,Jackson State,RECEIVING,Patrick,Smith,YDS,46
+10155027,9/9/2017,FCS,Tennessee State,Jackson State,RECEIVING,Patrick,Smith,TD,0
+10155028,9/9/2017,FCS,Tennessee State,Jackson State,RECEIVING,Patrick,Smith,LONG,32
+10155029,9/9/2017,FCS,Tennessee State,Jackson State,RECEIVING,Mahlon,Medley,REC,1
+10155030,9/9/2017,FCS,Tennessee State,Jackson State,RECEIVING,Mahlon,Medley,YDS,24
+10155031,9/9/2017,FCS,Tennessee State,Jackson State,RECEIVING,Mahlon,Medley,TD,0
+10155032,9/9/2017,FCS,Tennessee State,Jackson State,RECEIVING,Mahlon,Medley,LONG,24
+10155033,9/9/2017,FCS,Tennessee State,Jackson State,RECEIVING,Steven,Newbold,REC,1
+10155034,9/9/2017,FCS,Tennessee State,Jackson State,RECEIVING,Steven,Newbold,YDS,8
+10155035,9/9/2017,FCS,Tennessee State,Jackson State,RECEIVING,Steven,Newbold,TD,0
+10155036,9/9/2017,FCS,Tennessee State,Jackson State,RECEIVING,Steven,Newbold,LONG,8
+10155037,9/9/2017,FCS,Tennessee State,Jackson State,KICKING,Lane,Clark,FG-FGA,1/1
+10155038,9/9/2017,FCS,Tennessee State,Jackson State,KICKING,Lane,Clark,LONG,26
+10155039,9/9/2017,FCS,Tennessee State,Jackson State,KICKING,Lane,Clark,XP,2
+10155040,9/9/2017,FCS,Tennessee State,Jackson State,KICKING,Lane,Clark,PTS,5
+10155041,9/9/2017,FCS,Tennessee State,Jackson State,PUNTING,Austin,Rowley,NO,6
+10155042,9/9/2017,FCS,Tennessee State,Jackson State,PUNTING,Austin,Rowley,YDS,251
+10155043,9/9/2017,FCS,Tennessee State,Jackson State,PUNTING,Austin,Rowley,AVG,41.8
+10155044,9/9/2017,FCS,Tennessee State,Jackson State,PUNTING,Austin,Rowley,LONG,58
+10155045,9/9/2017,FCS,Tennessee State,Jackson State,PUNT RETURNS,Patrick,Smith,NO,3
+10155046,9/9/2017,FCS,Tennessee State,Jackson State,PUNT RETURNS,Patrick,Smith,YDS,41
+10155047,9/9/2017,FCS,Tennessee State,Jackson State,PUNT RETURNS,Patrick,Smith,AVG,13.7
+10155048,9/9/2017,FCS,Tennessee State,Jackson State,PUNT RETURNS,Patrick,Smith,LONG,56
+10155049,9/9/2017,FCS,Tennessee State,Jackson State,KICK RETURNS,Chris,Rowland,NO,3
+10155050,9/9/2017,FCS,Tennessee State,Jackson State,KICK RETURNS,Chris,Rowland,YDS,41
+10155051,9/9/2017,FCS,Tennessee State,Jackson State,KICK RETURNS,Chris,Rowland,AVG,13.7
+10155052,9/9/2017,FCS,Tennessee State,Jackson State,KICK RETURNS,Chris,Rowland,LONG,31
+10155053,9/9/2017,FCS,Tennessee State,Jackson State,KICK RETURNS,Mahlon,Medley,NO,1
+10155054,9/9/2017,FCS,Tennessee State,Jackson State,KICK RETURNS,Mahlon,Medley,YDS,8
+10155055,9/9/2017,FCS,Tennessee State,Jackson State,KICK RETURNS,Mahlon,Medley,AVG,8.0
+10155056,9/9/2017,FCS,Tennessee State,Jackson State,KICK RETURNS,Mahlon,Medley,LONG,8
+10155057,9/9/2017,FCS,Jackson State,Tennessee State,RUSHING,Brent,Lyles,ATT,13
+10155058,9/9/2017,FCS,Jackson State,Tennessee State,RUSHING,Brent,Lyles,YDS,55
+10155059,9/9/2017,FCS,Jackson State,Tennessee State,RUSHING,Brent,Lyles,TD,0
+10155060,9/9/2017,FCS,Jackson State,Tennessee State,RUSHING,Brent,Lyles,LONG,18
+10155061,9/9/2017,FCS,Jackson State,Tennessee State,RUSHING,Jordan,Johnson,ATT,16
+10155062,9/9/2017,FCS,Jackson State,Tennessee State,RUSHING,Jordan,Johnson,YDS,48
+10155063,9/9/2017,FCS,Jackson State,Tennessee State,RUSHING,Jordan,Johnson,TD,0
+10155064,9/9/2017,FCS,Jackson State,Tennessee State,RUSHING,Jordan,Johnson,LONG,16
+10155065,9/9/2017,FCS,Jackson State,Tennessee State,RUSHING,Terrell,KennedyIII,ATT,4
+10155066,9/9/2017,FCS,Jackson State,Tennessee State,RUSHING,Terrell,KennedyIII,YDS,4
+10155067,9/9/2017,FCS,Jackson State,Tennessee State,RUSHING,Terrell,KennedyIII,TD,0
+10155068,9/9/2017,FCS,Jackson State,Tennessee State,RUSHING,Terrell,KennedyIII,LONG,3
+10155069,9/9/2017,FCS,Jackson State,Tennessee State,PASSING,Brent,Lyles,CP-ATT-INT,24-45-2
+10155070,9/9/2017,FCS,Jackson State,Tennessee State,PASSING,Brent,Lyles,YDS,196
+10155071,9/9/2017,FCS,Jackson State,Tennessee State,PASSING,Brent,Lyles,TD,0
+10155072,9/9/2017,FCS,Jackson State,Tennessee State,PASSING,Brent,Lyles,LONG,16
+10155073,9/9/2017,FCS,Jackson State,Tennessee State,PASSING,,Team,CP-ATT-INT,0-1-0
+10155074,9/9/2017,FCS,Jackson State,Tennessee State,PASSING,,Team,YDS,0
+10155075,9/9/2017,FCS,Jackson State,Tennessee State,PASSING,,Team,TD,0
+10155076,9/9/2017,FCS,Jackson State,Tennessee State,PASSING,,Team,LONG,0
+10155077,9/9/2017,FCS,Jackson State,Tennessee State,RECEIVING,Carle,Ollie,REC,4
+10155078,9/9/2017,FCS,Jackson State,Tennessee State,RECEIVING,Carle,Ollie,YDS,45
+10155079,9/9/2017,FCS,Jackson State,Tennessee State,RECEIVING,Carle,Ollie,TD,0
+10155080,9/9/2017,FCS,Jackson State,Tennessee State,RECEIVING,Carle,Ollie,LONG,16
+10155081,9/9/2017,FCS,Jackson State,Tennessee State,RECEIVING,Richard,JevonFloyd,REC,6
+10155082,9/9/2017,FCS,Jackson State,Tennessee State,RECEIVING,Richard,JevonFloyd,YDS,43
+10155083,9/9/2017,FCS,Jackson State,Tennessee State,RECEIVING,Richard,JevonFloyd,TD,0
+10155084,9/9/2017,FCS,Jackson State,Tennessee State,RECEIVING,Richard,JevonFloyd,LONG,10
+10155085,9/9/2017,FCS,Jackson State,Tennessee State,RECEIVING,Miquel,James,REC,4
+10155086,9/9/2017,FCS,Jackson State,Tennessee State,RECEIVING,Miquel,James,YDS,34
+10155087,9/9/2017,FCS,Jackson State,Tennessee State,RECEIVING,Miquel,James,TD,0
+10155088,9/9/2017,FCS,Jackson State,Tennessee State,RECEIVING,Miquel,James,LONG,15
+10155089,9/9/2017,FCS,Jackson State,Tennessee State,RECEIVING,Kyland,Richey,REC,3
+10155090,9/9/2017,FCS,Jackson State,Tennessee State,RECEIVING,Kyland,Richey,YDS,24
+10155091,9/9/2017,FCS,Jackson State,Tennessee State,RECEIVING,Kyland,Richey,TD,0
+10155092,9/9/2017,FCS,Jackson State,Tennessee State,RECEIVING,Kyland,Richey,LONG,9
+10155093,9/9/2017,FCS,Jackson State,Tennessee State,RECEIVING,Benjy,Parrish,REC,3
+10155094,9/9/2017,FCS,Jackson State,Tennessee State,RECEIVING,Benjy,Parrish,YDS,22
+10155095,9/9/2017,FCS,Jackson State,Tennessee State,RECEIVING,Benjy,Parrish,TD,0
+10155096,9/9/2017,FCS,Jackson State,Tennessee State,RECEIVING,Benjy,Parrish,LONG,9
+10155097,9/9/2017,FCS,Jackson State,Tennessee State,RECEIVING,Keenan,Young,REC,2
+10155098,9/9/2017,FCS,Jackson State,Tennessee State,RECEIVING,Keenan,Young,YDS,18
+10155099,9/9/2017,FCS,Jackson State,Tennessee State,RECEIVING,Keenan,Young,TD,0
+10155100,9/9/2017,FCS,Jackson State,Tennessee State,RECEIVING,Keenan,Young,LONG,13
+10155101,9/9/2017,FCS,Jackson State,Tennessee State,RECEIVING,Jordan,Williams,REC,1
+10155102,9/9/2017,FCS,Jackson State,Tennessee State,RECEIVING,Jordan,Williams,YDS,6
+10155103,9/9/2017,FCS,Jackson State,Tennessee State,RECEIVING,Jordan,Williams,TD,0
+10155104,9/9/2017,FCS,Jackson State,Tennessee State,RECEIVING,Jordan,Williams,LONG,6
+10155105,9/9/2017,FCS,Jackson State,Tennessee State,RECEIVING,Terrell,KennedyIII,REC,1
+10155106,9/9/2017,FCS,Jackson State,Tennessee State,RECEIVING,Terrell,KennedyIII,YDS,4
+10155107,9/9/2017,FCS,Jackson State,Tennessee State,RECEIVING,Terrell,KennedyIII,TD,0
+10155108,9/9/2017,FCS,Jackson State,Tennessee State,RECEIVING,Terrell,KennedyIII,LONG,4
+10155109,9/9/2017,FCS,Jackson State,Tennessee State,KICKING,Christian,Jacquemin,FG-FGA,2/3
+10155110,9/9/2017,FCS,Jackson State,Tennessee State,KICKING,Christian,Jacquemin,LONG,49
+10155111,9/9/2017,FCS,Jackson State,Tennessee State,KICKING,Christian,Jacquemin,XP,0
+10155112,9/9/2017,FCS,Jackson State,Tennessee State,KICKING,Christian,Jacquemin,PTS,6
+10155113,9/9/2017,FCS,Jackson State,Tennessee State,KICKING,Adrian,Salazar,FG-FGA,1/1
+10155114,9/9/2017,FCS,Jackson State,Tennessee State,KICKING,Adrian,Salazar,LONG,25
+10155115,9/9/2017,FCS,Jackson State,Tennessee State,KICKING,Adrian,Salazar,XP,0
+10155116,9/9/2017,FCS,Jackson State,Tennessee State,KICKING,Adrian,Salazar,PTS,3
+10155117,9/9/2017,FCS,Jackson State,Tennessee State,PUNTING,Christian,Jacquemin,NO,5
+10155118,9/9/2017,FCS,Jackson State,Tennessee State,PUNTING,Christian,Jacquemin,YDS,209
+10155119,9/9/2017,FCS,Jackson State,Tennessee State,PUNTING,Christian,Jacquemin,AVG,41.8
+10155120,9/9/2017,FCS,Jackson State,Tennessee State,PUNTING,Christian,Jacquemin,LONG,47
+10155121,9/9/2017,FCS,Jackson State,Tennessee State,PUNT RETURNS,Warren,Newman,NO,1
+10155122,9/9/2017,FCS,Jackson State,Tennessee State,PUNT RETURNS,Warren,Newman,YDS,21
+10155123,9/9/2017,FCS,Jackson State,Tennessee State,PUNT RETURNS,Warren,Newman,AVG,21.0
+10155124,9/9/2017,FCS,Jackson State,Tennessee State,PUNT RETURNS,Warren,Newman,LONG,21
+10155125,9/9/2017,FCS,Jackson State,Tennessee State,PUNT RETURNS,Terrell,KennedyIII,NO,2
+10155126,9/9/2017,FCS,Jackson State,Tennessee State,PUNT RETURNS,Terrell,KennedyIII,YDS,10
+10155127,9/9/2017,FCS,Jackson State,Tennessee State,PUNT RETURNS,Terrell,KennedyIII,AVG,5.0
+10155128,9/9/2017,FCS,Jackson State,Tennessee State,PUNT RETURNS,Terrell,KennedyIII,LONG,7
+10155129,9/9/2017,FCS,Jackson State,Tennessee State,KICK RETURNS,Terrell,KennedyIII,NO,4
+10155130,9/9/2017,FCS,Jackson State,Tennessee State,KICK RETURNS,Terrell,KennedyIII,YDS,144
+10155131,9/9/2017,FCS,Jackson State,Tennessee State,KICK RETURNS,Terrell,KennedyIII,AVG,36.0
+10155132,9/9/2017,FCS,Jackson State,Tennessee State,KICK RETURNS,Terrell,KennedyIII,LONG,89

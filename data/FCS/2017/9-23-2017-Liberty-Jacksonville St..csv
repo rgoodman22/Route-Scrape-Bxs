@@ -1,0 +1,129 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+10275001,9/23/2017,FCS,Liberty,Jacksonville St.,RUSHING,Carrington,Mosley,ATT,14
+10275002,9/23/2017,FCS,Liberty,Jacksonville St.,RUSHING,Carrington,Mosley,YDS,36
+10275003,9/23/2017,FCS,Liberty,Jacksonville St.,RUSHING,Carrington,Mosley,TD,0
+10275004,9/23/2017,FCS,Liberty,Jacksonville St.,RUSHING,Carrington,Mosley,LONG,11
+10275005,9/23/2017,FCS,Liberty,Jacksonville St.,RUSHING,Frankie,Hickson,ATT,10
+10275006,9/23/2017,FCS,Liberty,Jacksonville St.,RUSHING,Frankie,Hickson,YDS,22
+10275007,9/23/2017,FCS,Liberty,Jacksonville St.,RUSHING,Frankie,Hickson,TD,0
+10275008,9/23/2017,FCS,Liberty,Jacksonville St.,RUSHING,Frankie,Hickson,LONG,5
+10275009,9/23/2017,FCS,Liberty,Jacksonville St.,RUSHING,Kentory,Matthews,ATT,1
+10275010,9/23/2017,FCS,Liberty,Jacksonville St.,RUSHING,Kentory,Matthews,YDS,-8
+10275011,9/23/2017,FCS,Liberty,Jacksonville St.,RUSHING,Kentory,Matthews,TD,0
+10275012,9/23/2017,FCS,Liberty,Jacksonville St.,RUSHING,Kentory,Matthews,LONG,0
+10275013,9/23/2017,FCS,Liberty,Jacksonville St.,RUSHING,Stephen,Calvert,ATT,2
+10275014,9/23/2017,FCS,Liberty,Jacksonville St.,RUSHING,Stephen,Calvert,YDS,-19
+10275015,9/23/2017,FCS,Liberty,Jacksonville St.,RUSHING,Stephen,Calvert,TD,0
+10275016,9/23/2017,FCS,Liberty,Jacksonville St.,RUSHING,Stephen,Calvert,LONG,0
+10275017,9/23/2017,FCS,Liberty,Jacksonville St.,PASSING,Stephen,Calvert,CP-ATT-INT,22-47-1
+10275018,9/23/2017,FCS,Liberty,Jacksonville St.,PASSING,Stephen,Calvert,YDS,285
+10275019,9/23/2017,FCS,Liberty,Jacksonville St.,PASSING,Stephen,Calvert,TD,1
+10275020,9/23/2017,FCS,Liberty,Jacksonville St.,PASSING,Stephen,Calvert,LONG,65
+10275021,9/23/2017,FCS,Liberty,Jacksonville St.,RECEIVING,Antonio,Gandy-Golden,REC,7
+10275022,9/23/2017,FCS,Liberty,Jacksonville St.,RECEIVING,Antonio,Gandy-Golden,YDS,126
+10275023,9/23/2017,FCS,Liberty,Jacksonville St.,RECEIVING,Antonio,Gandy-Golden,TD,0
+10275024,9/23/2017,FCS,Liberty,Jacksonville St.,RECEIVING,Antonio,Gandy-Golden,LONG,55
+10275025,9/23/2017,FCS,Liberty,Jacksonville St.,RECEIVING,B.J.,Farrow,REC,6
+10275026,9/23/2017,FCS,Liberty,Jacksonville St.,RECEIVING,B.J.,Farrow,YDS,93
+10275027,9/23/2017,FCS,Liberty,Jacksonville St.,RECEIVING,B.J.,Farrow,TD,1
+10275028,9/23/2017,FCS,Liberty,Jacksonville St.,RECEIVING,B.J.,Farrow,LONG,65
+10275029,9/23/2017,FCS,Liberty,Jacksonville St.,RECEIVING,David,King,REC,4
+10275030,9/23/2017,FCS,Liberty,Jacksonville St.,RECEIVING,David,King,YDS,33
+10275031,9/23/2017,FCS,Liberty,Jacksonville St.,RECEIVING,David,King,TD,0
+10275032,9/23/2017,FCS,Liberty,Jacksonville St.,RECEIVING,David,King,LONG,22
+10275033,9/23/2017,FCS,Liberty,Jacksonville St.,RECEIVING,Carrington,Mosley,REC,3
+10275034,9/23/2017,FCS,Liberty,Jacksonville St.,RECEIVING,Carrington,Mosley,YDS,16
+10275035,9/23/2017,FCS,Liberty,Jacksonville St.,RECEIVING,Carrington,Mosley,TD,0
+10275036,9/23/2017,FCS,Liberty,Jacksonville St.,RECEIVING,Carrington,Mosley,LONG,15
+10275037,9/23/2017,FCS,Liberty,Jacksonville St.,RECEIVING,Zac,Foutz,REC,1
+10275038,9/23/2017,FCS,Liberty,Jacksonville St.,RECEIVING,Zac,Foutz,YDS,11
+10275039,9/23/2017,FCS,Liberty,Jacksonville St.,RECEIVING,Zac,Foutz,TD,0
+10275040,9/23/2017,FCS,Liberty,Jacksonville St.,RECEIVING,Zac,Foutz,LONG,11
+10275041,9/23/2017,FCS,Liberty,Jacksonville St.,RECEIVING,Frankie,Hickson,REC,1
+10275042,9/23/2017,FCS,Liberty,Jacksonville St.,RECEIVING,Frankie,Hickson,YDS,6
+10275043,9/23/2017,FCS,Liberty,Jacksonville St.,RECEIVING,Frankie,Hickson,TD,0
+10275044,9/23/2017,FCS,Liberty,Jacksonville St.,RECEIVING,Frankie,Hickson,LONG,6
+10275045,9/23/2017,FCS,Liberty,Jacksonville St.,KICKING,Alex,Probert,FG-FGA,1/1
+10275046,9/23/2017,FCS,Liberty,Jacksonville St.,KICKING,Alex,Probert,LONG,28
+10275047,9/23/2017,FCS,Liberty,Jacksonville St.,KICKING,Alex,Probert,XP,1
+10275048,9/23/2017,FCS,Liberty,Jacksonville St.,KICKING,Alex,Probert,PTS,4
+10275049,9/23/2017,FCS,Liberty,Jacksonville St.,PUNTING,Trey,Turner,NO,9
+10275050,9/23/2017,FCS,Liberty,Jacksonville St.,PUNTING,Trey,Turner,YDS,341
+10275051,9/23/2017,FCS,Liberty,Jacksonville St.,PUNTING,Trey,Turner,AVG,37.9
+10275052,9/23/2017,FCS,Liberty,Jacksonville St.,PUNTING,Trey,Turner,LONG,45
+10275053,9/23/2017,FCS,Liberty,Jacksonville St.,PUNT RETURNS,DJ,Stubbs,NO,2
+10275054,9/23/2017,FCS,Liberty,Jacksonville St.,PUNT RETURNS,DJ,Stubbs,YDS,14
+10275055,9/23/2017,FCS,Liberty,Jacksonville St.,PUNT RETURNS,DJ,Stubbs,AVG,7.0
+10275056,9/23/2017,FCS,Liberty,Jacksonville St.,PUNT RETURNS,DJ,Stubbs,LONG,10
+10275057,9/23/2017,FCS,Liberty,Jacksonville St.,KICK RETURNS,Frankie,Hickson,NO,4
+10275058,9/23/2017,FCS,Liberty,Jacksonville St.,KICK RETURNS,Frankie,Hickson,YDS,76
+10275059,9/23/2017,FCS,Liberty,Jacksonville St.,KICK RETURNS,Frankie,Hickson,AVG,19.0
+10275060,9/23/2017,FCS,Liberty,Jacksonville St.,KICK RETURNS,Frankie,Hickson,LONG,27
+10275061,9/23/2017,FCS,Jacksonville St.,Liberty,RUSHING,Roc,Thomas,ATT,18
+10275062,9/23/2017,FCS,Jacksonville St.,Liberty,RUSHING,Roc,Thomas,YDS,87
+10275063,9/23/2017,FCS,Jacksonville St.,Liberty,RUSHING,Roc,Thomas,TD,2
+10275064,9/23/2017,FCS,Jacksonville St.,Liberty,RUSHING,Roc,Thomas,LONG,14
+10275065,9/23/2017,FCS,Jacksonville St.,Liberty,RUSHING,Kendrick,Doss,ATT,3
+10275066,9/23/2017,FCS,Jacksonville St.,Liberty,RUSHING,Kendrick,Doss,YDS,32
+10275067,9/23/2017,FCS,Jacksonville St.,Liberty,RUSHING,Kendrick,Doss,TD,1
+10275068,9/23/2017,FCS,Jacksonville St.,Liberty,RUSHING,Kendrick,Doss,LONG,16
+10275069,9/23/2017,FCS,Jacksonville St.,Liberty,RUSHING,Tramel,Terry,ATT,7
+10275070,9/23/2017,FCS,Jacksonville St.,Liberty,RUSHING,Tramel,Terry,YDS,17
+10275071,9/23/2017,FCS,Jacksonville St.,Liberty,RUSHING,Tramel,Terry,TD,0
+10275072,9/23/2017,FCS,Jacksonville St.,Liberty,RUSHING,Tramel,Terry,LONG,4
+10275073,9/23/2017,FCS,Jacksonville St.,Liberty,RUSHING,Bryant,Horn,ATT,3
+10275074,9/23/2017,FCS,Jacksonville St.,Liberty,RUSHING,Bryant,Horn,YDS,4
+10275075,9/23/2017,FCS,Jacksonville St.,Liberty,RUSHING,Bryant,Horn,TD,0
+10275076,9/23/2017,FCS,Jacksonville St.,Liberty,RUSHING,Bryant,Horn,LONG,5
+10275077,9/23/2017,FCS,Jacksonville St.,Liberty,PASSING,Bryant,Horn,CP-ATT-INT,9-19-1
+10275078,9/23/2017,FCS,Jacksonville St.,Liberty,PASSING,Bryant,Horn,YDS,181
+10275079,9/23/2017,FCS,Jacksonville St.,Liberty,PASSING,Bryant,Horn,TD,1
+10275080,9/23/2017,FCS,Jacksonville St.,Liberty,PASSING,Bryant,Horn,LONG,80
+10275081,9/23/2017,FCS,Jacksonville St.,Liberty,PASSING,Kendrick,Doss,CP-ATT-INT,8-10-0
+10275082,9/23/2017,FCS,Jacksonville St.,Liberty,PASSING,Kendrick,Doss,YDS,64
+10275083,9/23/2017,FCS,Jacksonville St.,Liberty,PASSING,Kendrick,Doss,TD,0
+10275084,9/23/2017,FCS,Jacksonville St.,Liberty,PASSING,Kendrick,Doss,LONG,28
+10275085,9/23/2017,FCS,Jacksonville St.,Liberty,RECEIVING,Trae,Barry,REC,1
+10275086,9/23/2017,FCS,Jacksonville St.,Liberty,RECEIVING,Trae,Barry,YDS,80
+10275087,9/23/2017,FCS,Jacksonville St.,Liberty,RECEIVING,Trae,Barry,TD,1
+10275088,9/23/2017,FCS,Jacksonville St.,Liberty,RECEIVING,Trae,Barry,LONG,80
+10275089,9/23/2017,FCS,Jacksonville St.,Liberty,RECEIVING,Demontez,Terry,REC,3
+10275090,9/23/2017,FCS,Jacksonville St.,Liberty,RECEIVING,Demontez,Terry,YDS,54
+10275091,9/23/2017,FCS,Jacksonville St.,Liberty,RECEIVING,Demontez,Terry,TD,0
+10275092,9/23/2017,FCS,Jacksonville St.,Liberty,RECEIVING,Demontez,Terry,LONG,28
+10275093,9/23/2017,FCS,Jacksonville St.,Liberty,RECEIVING,Krenwick,Sanders,REC,4
+10275094,9/23/2017,FCS,Jacksonville St.,Liberty,RECEIVING,Krenwick,Sanders,YDS,37
+10275095,9/23/2017,FCS,Jacksonville St.,Liberty,RECEIVING,Krenwick,Sanders,TD,0
+10275096,9/23/2017,FCS,Jacksonville St.,Liberty,RECEIVING,Krenwick,Sanders,LONG,18
+10275097,9/23/2017,FCS,Jacksonville St.,Liberty,RECEIVING,Shaq,Davidson,REC,4
+10275098,9/23/2017,FCS,Jacksonville St.,Liberty,RECEIVING,Shaq,Davidson,YDS,37
+10275099,9/23/2017,FCS,Jacksonville St.,Liberty,RECEIVING,Shaq,Davidson,TD,0
+10275100,9/23/2017,FCS,Jacksonville St.,Liberty,RECEIVING,Shaq,Davidson,LONG,22
+10275101,9/23/2017,FCS,Jacksonville St.,Liberty,RECEIVING,Jamari,Hester,REC,2
+10275102,9/23/2017,FCS,Jacksonville St.,Liberty,RECEIVING,Jamari,Hester,YDS,25
+10275103,9/23/2017,FCS,Jacksonville St.,Liberty,RECEIVING,Jamari,Hester,TD,0
+10275104,9/23/2017,FCS,Jacksonville St.,Liberty,RECEIVING,Jamari,Hester,LONG,13
+10275105,9/23/2017,FCS,Jacksonville St.,Liberty,RECEIVING,Landon,Smith,REC,1
+10275106,9/23/2017,FCS,Jacksonville St.,Liberty,RECEIVING,Landon,Smith,YDS,8
+10275107,9/23/2017,FCS,Jacksonville St.,Liberty,RECEIVING,Landon,Smith,TD,0
+10275108,9/23/2017,FCS,Jacksonville St.,Liberty,RECEIVING,Landon,Smith,LONG,8
+10275109,9/23/2017,FCS,Jacksonville St.,Liberty,RECEIVING,Roc,Thomas,REC,2
+10275110,9/23/2017,FCS,Jacksonville St.,Liberty,RECEIVING,Roc,Thomas,YDS,4
+10275111,9/23/2017,FCS,Jacksonville St.,Liberty,RECEIVING,Roc,Thomas,TD,0
+10275112,9/23/2017,FCS,Jacksonville St.,Liberty,RECEIVING,Roc,Thomas,LONG,9
+10275113,9/23/2017,FCS,Jacksonville St.,Liberty,KICKING,Cade,Stinnett,FG-FGA,1/1
+10275114,9/23/2017,FCS,Jacksonville St.,Liberty,KICKING,Cade,Stinnett,LONG,49
+10275115,9/23/2017,FCS,Jacksonville St.,Liberty,KICKING,Cade,Stinnett,XP,4
+10275116,9/23/2017,FCS,Jacksonville St.,Liberty,KICKING,Cade,Stinnett,PTS,7
+10275117,9/23/2017,FCS,Jacksonville St.,Liberty,PUNTING,Dean,Kelly,NO,7
+10275118,9/23/2017,FCS,Jacksonville St.,Liberty,PUNTING,Dean,Kelly,YDS,308
+10275119,9/23/2017,FCS,Jacksonville St.,Liberty,PUNTING,Dean,Kelly,AVG,44.0
+10275120,9/23/2017,FCS,Jacksonville St.,Liberty,PUNTING,Dean,Kelly,LONG,59
+10275121,9/23/2017,FCS,Jacksonville St.,Liberty,PUNT RETURNS,De'Marcus,Flowers,NO,1
+10275122,9/23/2017,FCS,Jacksonville St.,Liberty,PUNT RETURNS,De'Marcus,Flowers,YDS,6
+10275123,9/23/2017,FCS,Jacksonville St.,Liberty,PUNT RETURNS,De'Marcus,Flowers,AVG,6.0
+10275124,9/23/2017,FCS,Jacksonville St.,Liberty,PUNT RETURNS,De'Marcus,Flowers,LONG,6
+10275125,9/23/2017,FCS,Jacksonville St.,Liberty,KICK RETURNS,De'Marcus,Flowers,NO,3
+10275126,9/23/2017,FCS,Jacksonville St.,Liberty,KICK RETURNS,De'Marcus,Flowers,YDS,56
+10275127,9/23/2017,FCS,Jacksonville St.,Liberty,KICK RETURNS,De'Marcus,Flowers,AVG,18.7
+10275128,9/23/2017,FCS,Jacksonville St.,Liberty,KICK RETURNS,De'Marcus,Flowers,LONG,21

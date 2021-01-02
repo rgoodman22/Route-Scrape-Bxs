@@ -1,0 +1,165 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+8999001,11/6/2015,FCS,Cornell,Dartmouth,RUSHING,Luke,Hagy,ATT,17
+8999002,11/6/2015,FCS,Cornell,Dartmouth,RUSHING,Luke,Hagy,YDS,65
+8999003,11/6/2015,FCS,Cornell,Dartmouth,RUSHING,Luke,Hagy,TD,0
+8999004,11/6/2015,FCS,Cornell,Dartmouth,RUSHING,Luke,Hagy,LONG,16
+8999005,11/6/2015,FCS,Cornell,Dartmouth,RUSHING,Marshall,Deutz,ATT,1
+8999006,11/6/2015,FCS,Cornell,Dartmouth,RUSHING,Marshall,Deutz,YDS,15
+8999007,11/6/2015,FCS,Cornell,Dartmouth,RUSHING,Marshall,Deutz,TD,0
+8999008,11/6/2015,FCS,Cornell,Dartmouth,RUSHING,Marshall,Deutz,LONG,15
+8999009,11/6/2015,FCS,Cornell,Dartmouth,RUSHING,Jack,Gellatly,ATT,4
+8999010,11/6/2015,FCS,Cornell,Dartmouth,RUSHING,Jack,Gellatly,YDS,12
+8999011,11/6/2015,FCS,Cornell,Dartmouth,RUSHING,Jack,Gellatly,TD,0
+8999012,11/6/2015,FCS,Cornell,Dartmouth,RUSHING,Jack,Gellatly,LONG,8
+8999013,11/6/2015,FCS,Cornell,Dartmouth,RUSHING,Jake,Jatis,ATT,1
+8999014,11/6/2015,FCS,Cornell,Dartmouth,RUSHING,Jake,Jatis,YDS,11
+8999015,11/6/2015,FCS,Cornell,Dartmouth,RUSHING,Jake,Jatis,TD,0
+8999016,11/6/2015,FCS,Cornell,Dartmouth,RUSHING,Jake,Jatis,LONG,11
+8999017,11/6/2015,FCS,Cornell,Dartmouth,RUSHING,Robert,Somborn,ATT,4
+8999018,11/6/2015,FCS,Cornell,Dartmouth,RUSHING,Robert,Somborn,YDS,11
+8999019,11/6/2015,FCS,Cornell,Dartmouth,RUSHING,Robert,Somborn,TD,0
+8999020,11/6/2015,FCS,Cornell,Dartmouth,RUSHING,Robert,Somborn,LONG,7
+8999021,11/6/2015,FCS,Cornell,Dartmouth,RUSHING,,Team,ATT,1
+8999022,11/6/2015,FCS,Cornell,Dartmouth,RUSHING,,Team,YDS,-1
+8999023,11/6/2015,FCS,Cornell,Dartmouth,RUSHING,,Team,TD,0
+8999024,11/6/2015,FCS,Cornell,Dartmouth,RUSHING,,Team,LONG,-1
+8999025,11/6/2015,FCS,Cornell,Dartmouth,RUSHING,Jordan,Young,ATT,1
+8999026,11/6/2015,FCS,Cornell,Dartmouth,RUSHING,Jordan,Young,YDS,-2
+8999027,11/6/2015,FCS,Cornell,Dartmouth,RUSHING,Jordan,Young,TD,0
+8999028,11/6/2015,FCS,Cornell,Dartmouth,RUSHING,Jordan,Young,LONG,-2
+8999029,11/6/2015,FCS,Cornell,Dartmouth,PASSING,Robert,Somborn,CP-ATT-INT,9-25-1
+8999030,11/6/2015,FCS,Cornell,Dartmouth,PASSING,Robert,Somborn,YDS,83
+8999031,11/6/2015,FCS,Cornell,Dartmouth,PASSING,Robert,Somborn,TD,0
+8999032,11/6/2015,FCS,Cornell,Dartmouth,PASSING,Robert,Somborn,LONG,15
+8999033,11/6/2015,FCS,Cornell,Dartmouth,PASSING,Jake,Jatis,CP-ATT-INT,0-4-1
+8999034,11/6/2015,FCS,Cornell,Dartmouth,PASSING,Jake,Jatis,YDS,0
+8999035,11/6/2015,FCS,Cornell,Dartmouth,PASSING,Jake,Jatis,TD,0
+8999036,11/6/2015,FCS,Cornell,Dartmouth,PASSING,Jake,Jatis,LONG,0
+8999037,11/6/2015,FCS,Cornell,Dartmouth,RECEIVING,Luke,Hagy,REC,3
+8999038,11/6/2015,FCS,Cornell,Dartmouth,RECEIVING,Luke,Hagy,YDS,34
+8999039,11/6/2015,FCS,Cornell,Dartmouth,RECEIVING,Luke,Hagy,TD,0
+8999040,11/6/2015,FCS,Cornell,Dartmouth,RECEIVING,Luke,Hagy,LONG,14
+8999041,11/6/2015,FCS,Cornell,Dartmouth,RECEIVING,Marshall,Deutz,REC,1
+8999042,11/6/2015,FCS,Cornell,Dartmouth,RECEIVING,Marshall,Deutz,YDS,15
+8999043,11/6/2015,FCS,Cornell,Dartmouth,RECEIVING,Marshall,Deutz,TD,0
+8999044,11/6/2015,FCS,Cornell,Dartmouth,RECEIVING,Marshall,Deutz,LONG,15
+8999045,11/6/2015,FCS,Cornell,Dartmouth,RECEIVING,Chris,Lenz,REC,2
+8999046,11/6/2015,FCS,Cornell,Dartmouth,RECEIVING,Chris,Lenz,YDS,12
+8999047,11/6/2015,FCS,Cornell,Dartmouth,RECEIVING,Chris,Lenz,TD,0
+8999048,11/6/2015,FCS,Cornell,Dartmouth,RECEIVING,Chris,Lenz,LONG,6
+8999049,11/6/2015,FCS,Cornell,Dartmouth,RECEIVING,Matt,Sullivan,REC,1
+8999050,11/6/2015,FCS,Cornell,Dartmouth,RECEIVING,Matt,Sullivan,YDS,11
+8999051,11/6/2015,FCS,Cornell,Dartmouth,RECEIVING,Matt,Sullivan,TD,0
+8999052,11/6/2015,FCS,Cornell,Dartmouth,RECEIVING,Matt,Sullivan,LONG,11
+8999053,11/6/2015,FCS,Cornell,Dartmouth,RECEIVING,Ben,Rogers,REC,1
+8999054,11/6/2015,FCS,Cornell,Dartmouth,RECEIVING,Ben,Rogers,YDS,6
+8999055,11/6/2015,FCS,Cornell,Dartmouth,RECEIVING,Ben,Rogers,TD,0
+8999056,11/6/2015,FCS,Cornell,Dartmouth,RECEIVING,Ben,Rogers,LONG,6
+8999057,11/6/2015,FCS,Cornell,Dartmouth,RECEIVING,Julian,Gallo,REC,1
+8999058,11/6/2015,FCS,Cornell,Dartmouth,RECEIVING,Julian,Gallo,YDS,5
+8999059,11/6/2015,FCS,Cornell,Dartmouth,RECEIVING,Julian,Gallo,TD,0
+8999060,11/6/2015,FCS,Cornell,Dartmouth,RECEIVING,Julian,Gallo,LONG,5
+8999061,11/6/2015,FCS,Cornell,Dartmouth,KICKING,Zach,Mays,FG-FGA,1/1
+8999062,11/6/2015,FCS,Cornell,Dartmouth,KICKING,Zach,Mays,LONG,30
+8999063,11/6/2015,FCS,Cornell,Dartmouth,KICKING,Zach,Mays,XP,0
+8999064,11/6/2015,FCS,Cornell,Dartmouth,KICKING,Zach,Mays,PTS,3
+8999065,11/6/2015,FCS,Cornell,Dartmouth,PUNTING,Chris,Fraser,NO,5
+8999066,11/6/2015,FCS,Cornell,Dartmouth,PUNTING,Chris,Fraser,YDS,213
+8999067,11/6/2015,FCS,Cornell,Dartmouth,PUNTING,Chris,Fraser,AVG,42.6
+8999068,11/6/2015,FCS,Cornell,Dartmouth,PUNTING,Chris,Fraser,LONG,50
+8999069,11/6/2015,FCS,Cornell,Dartmouth,PUNT RETURNS,Ben,Rogers,NO,1
+8999070,11/6/2015,FCS,Cornell,Dartmouth,PUNT RETURNS,Ben,Rogers,YDS,0
+8999071,11/6/2015,FCS,Cornell,Dartmouth,PUNT RETURNS,Ben,Rogers,AVG,-
+8999072,11/6/2015,FCS,Cornell,Dartmouth,PUNT RETURNS,Ben,Rogers,LONG,0
+8999073,11/6/2015,FCS,Cornell,Dartmouth,KICK RETURNS,Ben,Rogers,NO,4
+8999074,11/6/2015,FCS,Cornell,Dartmouth,KICK RETURNS,Ben,Rogers,YDS,83
+8999075,11/6/2015,FCS,Cornell,Dartmouth,KICK RETURNS,Ben,Rogers,AVG,20.8
+8999076,11/6/2015,FCS,Cornell,Dartmouth,KICK RETURNS,Ben,Rogers,LONG,24
+8999077,11/6/2015,FCS,Dartmouth,Cornell,RUSHING,Brian,Grove,ATT,10
+8999078,11/6/2015,FCS,Dartmouth,Cornell,RUSHING,Brian,Grove,YDS,60
+8999079,11/6/2015,FCS,Dartmouth,Cornell,RUSHING,Brian,Grove,TD,0
+8999080,11/6/2015,FCS,Dartmouth,Cornell,RUSHING,Brian,Grove,LONG,16
+8999081,11/6/2015,FCS,Dartmouth,Cornell,RUSHING,Vito,Penza,ATT,11
+8999082,11/6/2015,FCS,Dartmouth,Cornell,RUSHING,Vito,Penza,YDS,60
+8999083,11/6/2015,FCS,Dartmouth,Cornell,RUSHING,Vito,Penza,TD,0
+8999084,11/6/2015,FCS,Dartmouth,Cornell,RUSHING,Vito,Penza,LONG,8
+8999085,11/6/2015,FCS,Dartmouth,Cornell,RUSHING,Kyle,Bramble,ATT,11
+8999086,11/6/2015,FCS,Dartmouth,Cornell,RUSHING,Kyle,Bramble,YDS,50
+8999087,11/6/2015,FCS,Dartmouth,Cornell,RUSHING,Kyle,Bramble,TD,0
+8999088,11/6/2015,FCS,Dartmouth,Cornell,RUSHING,Kyle,Bramble,LONG,15
+8999089,11/6/2015,FCS,Dartmouth,Cornell,RUSHING,Ryder,Stone,ATT,9
+8999090,11/6/2015,FCS,Dartmouth,Cornell,RUSHING,Ryder,Stone,YDS,37
+8999091,11/6/2015,FCS,Dartmouth,Cornell,RUSHING,Ryder,Stone,TD,1
+8999092,11/6/2015,FCS,Dartmouth,Cornell,RUSHING,Ryder,Stone,LONG,8
+8999093,11/6/2015,FCS,Dartmouth,Cornell,RUSHING,Alex,Gakenheimer,ATT,1
+8999094,11/6/2015,FCS,Dartmouth,Cornell,RUSHING,Alex,Gakenheimer,YDS,5
+8999095,11/6/2015,FCS,Dartmouth,Cornell,RUSHING,Alex,Gakenheimer,TD,0
+8999096,11/6/2015,FCS,Dartmouth,Cornell,RUSHING,Alex,Gakenheimer,LONG,5
+8999097,11/6/2015,FCS,Dartmouth,Cornell,RUSHING,Dalyn,Williams,ATT,5
+8999098,11/6/2015,FCS,Dartmouth,Cornell,RUSHING,Dalyn,Williams,YDS,3
+8999099,11/6/2015,FCS,Dartmouth,Cornell,RUSHING,Dalyn,Williams,TD,1
+8999100,11/6/2015,FCS,Dartmouth,Cornell,RUSHING,Dalyn,Williams,LONG,13
+8999101,11/6/2015,FCS,Dartmouth,Cornell,RUSHING,Bruce,DixonIV,ATT,3
+8999102,11/6/2015,FCS,Dartmouth,Cornell,RUSHING,Bruce,DixonIV,YDS,1
+8999103,11/6/2015,FCS,Dartmouth,Cornell,RUSHING,Bruce,DixonIV,TD,0
+8999104,11/6/2015,FCS,Dartmouth,Cornell,RUSHING,Bruce,DixonIV,LONG,6
+8999105,11/6/2015,FCS,Dartmouth,Cornell,PASSING,Dalyn,Williams,CP-ATT-INT,20-32-0
+8999106,11/6/2015,FCS,Dartmouth,Cornell,PASSING,Dalyn,Williams,YDS,203
+8999107,11/6/2015,FCS,Dartmouth,Cornell,PASSING,Dalyn,Williams,TD,1
+8999108,11/6/2015,FCS,Dartmouth,Cornell,PASSING,Dalyn,Williams,LONG,28
+8999109,11/6/2015,FCS,Dartmouth,Cornell,PASSING,Bruce,DixonIV,CP-ATT-INT,0-1-0
+8999110,11/6/2015,FCS,Dartmouth,Cornell,PASSING,Bruce,DixonIV,YDS,0
+8999111,11/6/2015,FCS,Dartmouth,Cornell,PASSING,Bruce,DixonIV,TD,0
+8999112,11/6/2015,FCS,Dartmouth,Cornell,PASSING,Bruce,DixonIV,LONG,0
+8999113,11/6/2015,FCS,Dartmouth,Cornell,RECEIVING,Ryan,McManus,REC,7
+8999114,11/6/2015,FCS,Dartmouth,Cornell,RECEIVING,Ryan,McManus,YDS,79
+8999115,11/6/2015,FCS,Dartmouth,Cornell,RECEIVING,Ryan,McManus,TD,1
+8999116,11/6/2015,FCS,Dartmouth,Cornell,RECEIVING,Ryan,McManus,LONG,19
+8999117,11/6/2015,FCS,Dartmouth,Cornell,RECEIVING,Jon,MarcCarrier,REC,4
+8999118,11/6/2015,FCS,Dartmouth,Cornell,RECEIVING,Jon,MarcCarrier,YDS,42
+8999119,11/6/2015,FCS,Dartmouth,Cornell,RECEIVING,Jon,MarcCarrier,TD,0
+8999120,11/6/2015,FCS,Dartmouth,Cornell,RECEIVING,Jon,MarcCarrier,LONG,28
+8999121,11/6/2015,FCS,Dartmouth,Cornell,RECEIVING,Houston,Brown,REC,1
+8999122,11/6/2015,FCS,Dartmouth,Cornell,RECEIVING,Houston,Brown,YDS,26
+8999123,11/6/2015,FCS,Dartmouth,Cornell,RECEIVING,Houston,Brown,TD,0
+8999124,11/6/2015,FCS,Dartmouth,Cornell,RECEIVING,Houston,Brown,LONG,26
+8999125,11/6/2015,FCS,Dartmouth,Cornell,RECEIVING,Victor,Williams,REC,3
+8999126,11/6/2015,FCS,Dartmouth,Cornell,RECEIVING,Victor,Williams,YDS,15
+8999127,11/6/2015,FCS,Dartmouth,Cornell,RECEIVING,Victor,Williams,TD,0
+8999128,11/6/2015,FCS,Dartmouth,Cornell,RECEIVING,Victor,Williams,LONG,10
+8999129,11/6/2015,FCS,Dartmouth,Cornell,RECEIVING,Ryder,Stone,REC,1
+8999130,11/6/2015,FCS,Dartmouth,Cornell,RECEIVING,Ryder,Stone,YDS,13
+8999131,11/6/2015,FCS,Dartmouth,Cornell,RECEIVING,Ryder,Stone,TD,0
+8999132,11/6/2015,FCS,Dartmouth,Cornell,RECEIVING,Ryder,Stone,LONG,13
+8999133,11/6/2015,FCS,Dartmouth,Cornell,RECEIVING,K.J.,Booze,REC,1
+8999134,11/6/2015,FCS,Dartmouth,Cornell,RECEIVING,K.J.,Booze,YDS,13
+8999135,11/6/2015,FCS,Dartmouth,Cornell,RECEIVING,K.J.,Booze,TD,0
+8999136,11/6/2015,FCS,Dartmouth,Cornell,RECEIVING,K.J.,Booze,LONG,13
+8999137,11/6/2015,FCS,Dartmouth,Cornell,RECEIVING,Sam,Laptad,REC,1
+8999138,11/6/2015,FCS,Dartmouth,Cornell,RECEIVING,Sam,Laptad,YDS,5
+8999139,11/6/2015,FCS,Dartmouth,Cornell,RECEIVING,Sam,Laptad,TD,0
+8999140,11/6/2015,FCS,Dartmouth,Cornell,RECEIVING,Sam,Laptad,LONG,5
+8999141,11/6/2015,FCS,Dartmouth,Cornell,RECEIVING,Brian,Grove,REC,1
+8999142,11/6/2015,FCS,Dartmouth,Cornell,RECEIVING,Brian,Grove,YDS,5
+8999143,11/6/2015,FCS,Dartmouth,Cornell,RECEIVING,Brian,Grove,TD,0
+8999144,11/6/2015,FCS,Dartmouth,Cornell,RECEIVING,Brian,Grove,LONG,5
+8999145,11/6/2015,FCS,Dartmouth,Cornell,RECEIVING,Cameron,Skaff,REC,1
+8999146,11/6/2015,FCS,Dartmouth,Cornell,RECEIVING,Cameron,Skaff,YDS,5
+8999147,11/6/2015,FCS,Dartmouth,Cornell,RECEIVING,Cameron,Skaff,TD,0
+8999148,11/6/2015,FCS,Dartmouth,Cornell,RECEIVING,Cameron,Skaff,LONG,5
+8999149,11/6/2015,FCS,Dartmouth,Cornell,KICKING,Alex,Gakenheimer,FG-FGA,0/0
+8999150,11/6/2015,FCS,Dartmouth,Cornell,KICKING,Alex,Gakenheimer,LONG,-
+8999151,11/6/2015,FCS,Dartmouth,Cornell,KICKING,Alex,Gakenheimer,XP,3
+8999152,11/6/2015,FCS,Dartmouth,Cornell,KICKING,Alex,Gakenheimer,PTS,3
+8999153,11/6/2015,FCS,Dartmouth,Cornell,PUNTING,Ben,Kepley,NO,3
+8999154,11/6/2015,FCS,Dartmouth,Cornell,PUNTING,Ben,Kepley,YDS,120
+8999155,11/6/2015,FCS,Dartmouth,Cornell,PUNTING,Ben,Kepley,AVG,40.0
+8999156,11/6/2015,FCS,Dartmouth,Cornell,PUNTING,Ben,Kepley,LONG,48
+8999157,11/6/2015,FCS,Dartmouth,Cornell,PUNT RETURNS,Ryan,McManus,NO,4
+8999158,11/6/2015,FCS,Dartmouth,Cornell,PUNT RETURNS,Ryan,McManus,YDS,24
+8999159,11/6/2015,FCS,Dartmouth,Cornell,PUNT RETURNS,Ryan,McManus,AVG,6.0
+8999160,11/6/2015,FCS,Dartmouth,Cornell,PUNT RETURNS,Ryan,McManus,LONG,16
+8999161,11/6/2015,FCS,Dartmouth,Cornell,KICK RETURNS,Danny,McManus,NO,2
+8999162,11/6/2015,FCS,Dartmouth,Cornell,KICK RETURNS,Danny,McManus,YDS,52
+8999163,11/6/2015,FCS,Dartmouth,Cornell,KICK RETURNS,Danny,McManus,AVG,26.0
+8999164,11/6/2015,FCS,Dartmouth,Cornell,KICK RETURNS,Danny,McManus,LONG,27

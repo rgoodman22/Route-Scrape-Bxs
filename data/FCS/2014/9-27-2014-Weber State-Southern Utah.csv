@@ -1,0 +1,161 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+7930001,9/27/2014,FCS,Weber State,Southern Utah,RUSHING,Zach,Smith,ATT,17
+7930002,9/27/2014,FCS,Weber State,Southern Utah,RUSHING,Zach,Smith,YDS,126
+7930003,9/27/2014,FCS,Weber State,Southern Utah,RUSHING,Zach,Smith,TD,0
+7930004,9/27/2014,FCS,Weber State,Southern Utah,RUSHING,Zach,Smith,LONG,32
+7930005,9/27/2014,FCS,Weber State,Southern Utah,RUSHING,Bo,Bolen,ATT,8
+7930006,9/27/2014,FCS,Weber State,Southern Utah,RUSHING,Bo,Bolen,YDS,50
+7930007,9/27/2014,FCS,Weber State,Southern Utah,RUSHING,Bo,Bolen,TD,0
+7930008,9/27/2014,FCS,Weber State,Southern Utah,RUSHING,Bo,Bolen,LONG,18
+7930009,9/27/2014,FCS,Weber State,Southern Utah,RUSHING,Shaydon,Kehano,ATT,2
+7930010,9/27/2014,FCS,Weber State,Southern Utah,RUSHING,Shaydon,Kehano,YDS,4
+7930011,9/27/2014,FCS,Weber State,Southern Utah,RUSHING,Shaydon,Kehano,TD,0
+7930012,9/27/2014,FCS,Weber State,Southern Utah,RUSHING,Shaydon,Kehano,LONG,7
+7930013,9/27/2014,FCS,Weber State,Southern Utah,RUSHING,Eric,Wilkes,ATT,1
+7930014,9/27/2014,FCS,Weber State,Southern Utah,RUSHING,Eric,Wilkes,YDS,-1
+7930015,9/27/2014,FCS,Weber State,Southern Utah,RUSHING,Eric,Wilkes,TD,0
+7930016,9/27/2014,FCS,Weber State,Southern Utah,RUSHING,Eric,Wilkes,LONG,0
+7930017,9/27/2014,FCS,Weber State,Southern Utah,RUSHING,Billy,Green,ATT,3
+7930018,9/27/2014,FCS,Weber State,Southern Utah,RUSHING,Billy,Green,YDS,-28
+7930019,9/27/2014,FCS,Weber State,Southern Utah,RUSHING,Billy,Green,TD,0
+7930020,9/27/2014,FCS,Weber State,Southern Utah,RUSHING,Billy,Green,LONG,0
+7930021,9/27/2014,FCS,Weber State,Southern Utah,PASSING,Billy,Green,CP-ATT-INT,23-36-2
+7930022,9/27/2014,FCS,Weber State,Southern Utah,PASSING,Billy,Green,YDS,341
+7930023,9/27/2014,FCS,Weber State,Southern Utah,PASSING,Billy,Green,TD,3
+7930024,9/27/2014,FCS,Weber State,Southern Utah,PASSING,Billy,Green,LONG,64
+7930025,9/27/2014,FCS,Weber State,Southern Utah,PASSING,,Team,CP-ATT-INT,0-1-0
+7930026,9/27/2014,FCS,Weber State,Southern Utah,PASSING,,Team,YDS,0
+7930027,9/27/2014,FCS,Weber State,Southern Utah,PASSING,,Team,TD,0
+7930028,9/27/2014,FCS,Weber State,Southern Utah,PASSING,,Team,LONG,0
+7930029,9/27/2014,FCS,Weber State,Southern Utah,RECEIVING,Shaydon,Kehano,REC,6
+7930030,9/27/2014,FCS,Weber State,Southern Utah,RECEIVING,Shaydon,Kehano,YDS,118
+7930031,9/27/2014,FCS,Weber State,Southern Utah,RECEIVING,Shaydon,Kehano,TD,1
+7930032,9/27/2014,FCS,Weber State,Southern Utah,RECEIVING,Shaydon,Kehano,LONG,59
+7930033,9/27/2014,FCS,Weber State,Southern Utah,RECEIVING,Drew,Batchelor,REC,4
+7930034,9/27/2014,FCS,Weber State,Southern Utah,RECEIVING,Drew,Batchelor,YDS,92
+7930035,9/27/2014,FCS,Weber State,Southern Utah,RECEIVING,Drew,Batchelor,TD,2
+7930036,9/27/2014,FCS,Weber State,Southern Utah,RECEIVING,Drew,Batchelor,LONG,64
+7930037,9/27/2014,FCS,Weber State,Southern Utah,RECEIVING,Jake,Kahawaii,REC,4
+7930038,9/27/2014,FCS,Weber State,Southern Utah,RECEIVING,Jake,Kahawaii,YDS,51
+7930039,9/27/2014,FCS,Weber State,Southern Utah,RECEIVING,Jake,Kahawaii,TD,0
+7930040,9/27/2014,FCS,Weber State,Southern Utah,RECEIVING,Jake,Kahawaii,LONG,23
+7930041,9/27/2014,FCS,Weber State,Southern Utah,RECEIVING,Cameron,Livingston,REC,5
+7930042,9/27/2014,FCS,Weber State,Southern Utah,RECEIVING,Cameron,Livingston,YDS,38
+7930043,9/27/2014,FCS,Weber State,Southern Utah,RECEIVING,Cameron,Livingston,TD,0
+7930044,9/27/2014,FCS,Weber State,Southern Utah,RECEIVING,Cameron,Livingston,LONG,9
+7930045,9/27/2014,FCS,Weber State,Southern Utah,RECEIVING,Braden,Corpus,REC,2
+7930046,9/27/2014,FCS,Weber State,Southern Utah,RECEIVING,Braden,Corpus,YDS,36
+7930047,9/27/2014,FCS,Weber State,Southern Utah,RECEIVING,Braden,Corpus,TD,0
+7930048,9/27/2014,FCS,Weber State,Southern Utah,RECEIVING,Braden,Corpus,LONG,21
+7930049,9/27/2014,FCS,Weber State,Southern Utah,RECEIVING,Bo,Bolen,REC,1
+7930050,9/27/2014,FCS,Weber State,Southern Utah,RECEIVING,Bo,Bolen,YDS,11
+7930051,9/27/2014,FCS,Weber State,Southern Utah,RECEIVING,Bo,Bolen,TD,0
+7930052,9/27/2014,FCS,Weber State,Southern Utah,RECEIVING,Bo,Bolen,LONG,11
+7930053,9/27/2014,FCS,Weber State,Southern Utah,RECEIVING,Zach,Smith,REC,1
+7930054,9/27/2014,FCS,Weber State,Southern Utah,RECEIVING,Zach,Smith,YDS,-5
+7930055,9/27/2014,FCS,Weber State,Southern Utah,RECEIVING,Zach,Smith,TD,0
+7930056,9/27/2014,FCS,Weber State,Southern Utah,RECEIVING,Zach,Smith,LONG,0
+7930057,9/27/2014,FCS,Weber State,Southern Utah,KICKING,Josh,Kealamakia,FG-FGA,2/2
+7930058,9/27/2014,FCS,Weber State,Southern Utah,KICKING,Josh,Kealamakia,LONG,37
+7930059,9/27/2014,FCS,Weber State,Southern Utah,KICKING,Josh,Kealamakia,XP,2
+7930060,9/27/2014,FCS,Weber State,Southern Utah,KICKING,Josh,Kealamakia,PTS,8
+7930061,9/27/2014,FCS,Weber State,Southern Utah,PUNTING,Blake,O'Neill,NO,5
+7930062,9/27/2014,FCS,Weber State,Southern Utah,PUNTING,Blake,O'Neill,YDS,235
+7930063,9/27/2014,FCS,Weber State,Southern Utah,PUNTING,Blake,O'Neill,AVG,47.0
+7930064,9/27/2014,FCS,Weber State,Southern Utah,PUNTING,Blake,O'Neill,LONG,52
+7930065,9/27/2014,FCS,Weber State,Southern Utah,PUNT RETURNS,Shaydon,Kehano,NO,3
+7930066,9/27/2014,FCS,Weber State,Southern Utah,PUNT RETURNS,Shaydon,Kehano,YDS,27
+7930067,9/27/2014,FCS,Weber State,Southern Utah,PUNT RETURNS,Shaydon,Kehano,AVG,9.0
+7930068,9/27/2014,FCS,Weber State,Southern Utah,PUNT RETURNS,Shaydon,Kehano,LONG,29
+7930069,9/27/2014,FCS,Weber State,Southern Utah,KICK RETURNS,Bo,Bolen,NO,2
+7930070,9/27/2014,FCS,Weber State,Southern Utah,KICK RETURNS,Bo,Bolen,YDS,55
+7930071,9/27/2014,FCS,Weber State,Southern Utah,KICK RETURNS,Bo,Bolen,AVG,27.5
+7930072,9/27/2014,FCS,Weber State,Southern Utah,KICK RETURNS,Bo,Bolen,LONG,28
+7930073,9/27/2014,FCS,Southern Utah,Weber State,RUSHING,Malik,Brown,ATT,12
+7930074,9/27/2014,FCS,Southern Utah,Weber State,RUSHING,Malik,Brown,YDS,73
+7930075,9/27/2014,FCS,Southern Utah,Weber State,RUSHING,Malik,Brown,TD,0
+7930076,9/27/2014,FCS,Southern Utah,Weber State,RUSHING,Malik,Brown,LONG,13
+7930077,9/27/2014,FCS,Southern Utah,Weber State,RUSHING,Ammon,Olsen,ATT,17
+7930078,9/27/2014,FCS,Southern Utah,Weber State,RUSHING,Ammon,Olsen,YDS,20
+7930079,9/27/2014,FCS,Southern Utah,Weber State,RUSHING,Ammon,Olsen,TD,0
+7930080,9/27/2014,FCS,Southern Utah,Weber State,RUSHING,Ammon,Olsen,LONG,12
+7930081,9/27/2014,FCS,Southern Utah,Weber State,RUSHING,Tate,Lewis,ATT,1
+7930082,9/27/2014,FCS,Southern Utah,Weber State,RUSHING,Tate,Lewis,YDS,19
+7930083,9/27/2014,FCS,Southern Utah,Weber State,RUSHING,Tate,Lewis,TD,0
+7930084,9/27/2014,FCS,Southern Utah,Weber State,RUSHING,Tate,Lewis,LONG,19
+7930085,9/27/2014,FCS,Southern Utah,Weber State,RUSHING,Toa,Afatasi,ATT,6
+7930086,9/27/2014,FCS,Southern Utah,Weber State,RUSHING,Toa,Afatasi,YDS,17
+7930087,9/27/2014,FCS,Southern Utah,Weber State,RUSHING,Toa,Afatasi,TD,0
+7930088,9/27/2014,FCS,Southern Utah,Weber State,RUSHING,Toa,Afatasi,LONG,17
+7930089,9/27/2014,FCS,Southern Utah,Weber State,RUSHING,Chris,Robinson,ATT,1
+7930090,9/27/2014,FCS,Southern Utah,Weber State,RUSHING,Chris,Robinson,YDS,10
+7930091,9/27/2014,FCS,Southern Utah,Weber State,RUSHING,Chris,Robinson,TD,1
+7930092,9/27/2014,FCS,Southern Utah,Weber State,RUSHING,Chris,Robinson,LONG,10
+7930093,9/27/2014,FCS,Southern Utah,Weber State,RUSHING,Aaron,Cantu,ATT,1
+7930094,9/27/2014,FCS,Southern Utah,Weber State,RUSHING,Aaron,Cantu,YDS,0
+7930095,9/27/2014,FCS,Southern Utah,Weber State,RUSHING,Aaron,Cantu,TD,0
+7930096,9/27/2014,FCS,Southern Utah,Weber State,RUSHING,Aaron,Cantu,LONG,0
+7930097,9/27/2014,FCS,Southern Utah,Weber State,RUSHING,,Team,ATT,1
+7930098,9/27/2014,FCS,Southern Utah,Weber State,RUSHING,,Team,YDS,-1
+7930099,9/27/2014,FCS,Southern Utah,Weber State,RUSHING,,Team,TD,0
+7930100,9/27/2014,FCS,Southern Utah,Weber State,RUSHING,,Team,LONG,0
+7930101,9/27/2014,FCS,Southern Utah,Weber State,RUSHING,Raysean,Pringle,ATT,1
+7930102,9/27/2014,FCS,Southern Utah,Weber State,RUSHING,Raysean,Pringle,YDS,-2
+7930103,9/27/2014,FCS,Southern Utah,Weber State,RUSHING,Raysean,Pringle,TD,0
+7930104,9/27/2014,FCS,Southern Utah,Weber State,RUSHING,Raysean,Pringle,LONG,0
+7930105,9/27/2014,FCS,Southern Utah,Weber State,PASSING,Ammon,Olsen,CP-ATT-INT,19-33-0
+7930106,9/27/2014,FCS,Southern Utah,Weber State,PASSING,Ammon,Olsen,YDS,224
+7930107,9/27/2014,FCS,Southern Utah,Weber State,PASSING,Ammon,Olsen,TD,3
+7930108,9/27/2014,FCS,Southern Utah,Weber State,PASSING,Ammon,Olsen,LONG,32
+7930109,9/27/2014,FCS,Southern Utah,Weber State,PASSING,Aaron,Cantu,CP-ATT-INT,0-2-0
+7930110,9/27/2014,FCS,Southern Utah,Weber State,PASSING,Aaron,Cantu,YDS,0
+7930111,9/27/2014,FCS,Southern Utah,Weber State,PASSING,Aaron,Cantu,TD,0
+7930112,9/27/2014,FCS,Southern Utah,Weber State,PASSING,Aaron,Cantu,LONG,0
+7930113,9/27/2014,FCS,Southern Utah,Weber State,RECEIVING,Chris,Robinson,REC,3
+7930114,9/27/2014,FCS,Southern Utah,Weber State,RECEIVING,Chris,Robinson,YDS,72
+7930115,9/27/2014,FCS,Southern Utah,Weber State,RECEIVING,Chris,Robinson,TD,2
+7930116,9/27/2014,FCS,Southern Utah,Weber State,RECEIVING,Chris,Robinson,LONG,27
+7930117,9/27/2014,FCS,Southern Utah,Weber State,RECEIVING,Malik,Brown,REC,2
+7930118,9/27/2014,FCS,Southern Utah,Weber State,RECEIVING,Malik,Brown,YDS,35
+7930119,9/27/2014,FCS,Southern Utah,Weber State,RECEIVING,Malik,Brown,TD,0
+7930120,9/27/2014,FCS,Southern Utah,Weber State,RECEIVING,Malik,Brown,LONG,27
+7930121,9/27/2014,FCS,Southern Utah,Weber State,RECEIVING,Tannon,Pedersen,REC,1
+7930122,9/27/2014,FCS,Southern Utah,Weber State,RECEIVING,Tannon,Pedersen,YDS,32
+7930123,9/27/2014,FCS,Southern Utah,Weber State,RECEIVING,Tannon,Pedersen,TD,0
+7930124,9/27/2014,FCS,Southern Utah,Weber State,RECEIVING,Tannon,Pedersen,LONG,32
+7930125,9/27/2014,FCS,Southern Utah,Weber State,RECEIVING,Mitch,Jessop,REC,3
+7930126,9/27/2014,FCS,Southern Utah,Weber State,RECEIVING,Mitch,Jessop,YDS,21
+7930127,9/27/2014,FCS,Southern Utah,Weber State,RECEIVING,Mitch,Jessop,TD,0
+7930128,9/27/2014,FCS,Southern Utah,Weber State,RECEIVING,Mitch,Jessop,LONG,10
+7930129,9/27/2014,FCS,Southern Utah,Weber State,RECEIVING,Brady,Measom,REC,1
+7930130,9/27/2014,FCS,Southern Utah,Weber State,RECEIVING,Brady,Measom,YDS,19
+7930131,9/27/2014,FCS,Southern Utah,Weber State,RECEIVING,Brady,Measom,TD,0
+7930132,9/27/2014,FCS,Southern Utah,Weber State,RECEIVING,Brady,Measom,LONG,19
+7930133,9/27/2014,FCS,Southern Utah,Weber State,RECEIVING,Mike,Sharp,REC,2
+7930134,9/27/2014,FCS,Southern Utah,Weber State,RECEIVING,Mike,Sharp,YDS,12
+7930135,9/27/2014,FCS,Southern Utah,Weber State,RECEIVING,Mike,Sharp,TD,1
+7930136,9/27/2014,FCS,Southern Utah,Weber State,RECEIVING,Mike,Sharp,LONG,8
+7930137,9/27/2014,FCS,Southern Utah,Weber State,RECEIVING,Raysean,Pringle,REC,1
+7930138,9/27/2014,FCS,Southern Utah,Weber State,RECEIVING,Raysean,Pringle,YDS,8
+7930139,9/27/2014,FCS,Southern Utah,Weber State,RECEIVING,Raysean,Pringle,TD,0
+7930140,9/27/2014,FCS,Southern Utah,Weber State,RECEIVING,Raysean,Pringle,LONG,8
+7930141,9/27/2014,FCS,Southern Utah,Weber State,KICKING,Trevor,McGirr,FG-FGA,1/1
+7930142,9/27/2014,FCS,Southern Utah,Weber State,KICKING,Trevor,McGirr,LONG,36
+7930143,9/27/2014,FCS,Southern Utah,Weber State,KICKING,Trevor,McGirr,XP,4
+7930144,9/27/2014,FCS,Southern Utah,Weber State,KICKING,Trevor,McGirr,PTS,7
+7930145,9/27/2014,FCS,Southern Utah,Weber State,PUNTING,Tate,Lewis,NO,9
+7930146,9/27/2014,FCS,Southern Utah,Weber State,PUNTING,Tate,Lewis,YDS,343
+7930147,9/27/2014,FCS,Southern Utah,Weber State,PUNTING,Tate,Lewis,AVG,38.1
+7930148,9/27/2014,FCS,Southern Utah,Weber State,PUNTING,Tate,Lewis,LONG,51
+7930149,9/27/2014,FCS,Southern Utah,Weber State,PUNT RETURNS,Brady,Measom,NO,1
+7930150,9/27/2014,FCS,Southern Utah,Weber State,PUNT RETURNS,Brady,Measom,YDS,17
+7930151,9/27/2014,FCS,Southern Utah,Weber State,PUNT RETURNS,Brady,Measom,AVG,17.0
+7930152,9/27/2014,FCS,Southern Utah,Weber State,PUNT RETURNS,Brady,Measom,LONG,17
+7930153,9/27/2014,FCS,Southern Utah,Weber State,KICK RETURNS,Josh,Smith,NO,4
+7930154,9/27/2014,FCS,Southern Utah,Weber State,KICK RETURNS,Josh,Smith,YDS,71
+7930155,9/27/2014,FCS,Southern Utah,Weber State,KICK RETURNS,Josh,Smith,AVG,17.8
+7930156,9/27/2014,FCS,Southern Utah,Weber State,KICK RETURNS,Josh,Smith,LONG,22
+7930157,9/27/2014,FCS,Southern Utah,Weber State,KICK RETURNS,Brady,Measom,NO,1
+7930158,9/27/2014,FCS,Southern Utah,Weber State,KICK RETURNS,Brady,Measom,YDS,16
+7930159,9/27/2014,FCS,Southern Utah,Weber State,KICK RETURNS,Brady,Measom,AVG,16.0
+7930160,9/27/2014,FCS,Southern Utah,Weber State,KICK RETURNS,Brady,Measom,LONG,16

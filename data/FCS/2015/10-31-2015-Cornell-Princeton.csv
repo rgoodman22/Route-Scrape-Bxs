@@ -1,0 +1,165 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+8950001,10/31/2015,FCS,Cornell,Princeton,RUSHING,Luke,Hagy,ATT,20
+8950002,10/31/2015,FCS,Cornell,Princeton,RUSHING,Luke,Hagy,YDS,128
+8950003,10/31/2015,FCS,Cornell,Princeton,RUSHING,Luke,Hagy,TD,1
+8950004,10/31/2015,FCS,Cornell,Princeton,RUSHING,Luke,Hagy,LONG,44
+8950005,10/31/2015,FCS,Cornell,Princeton,RUSHING,Jake,Jatis,ATT,3
+8950006,10/31/2015,FCS,Cornell,Princeton,RUSHING,Jake,Jatis,YDS,7
+8950007,10/31/2015,FCS,Cornell,Princeton,RUSHING,Jake,Jatis,TD,0
+8950008,10/31/2015,FCS,Cornell,Princeton,RUSHING,Jake,Jatis,LONG,4
+8950009,10/31/2015,FCS,Cornell,Princeton,RUSHING,Jack,Gellatly,ATT,2
+8950010,10/31/2015,FCS,Cornell,Princeton,RUSHING,Jack,Gellatly,YDS,7
+8950011,10/31/2015,FCS,Cornell,Princeton,RUSHING,Jack,Gellatly,TD,0
+8950012,10/31/2015,FCS,Cornell,Princeton,RUSHING,Jack,Gellatly,LONG,4
+8950013,10/31/2015,FCS,Cornell,Princeton,RUSHING,Marshall,Deutz,ATT,1
+8950014,10/31/2015,FCS,Cornell,Princeton,RUSHING,Marshall,Deutz,YDS,2
+8950015,10/31/2015,FCS,Cornell,Princeton,RUSHING,Marshall,Deutz,TD,0
+8950016,10/31/2015,FCS,Cornell,Princeton,RUSHING,Marshall,Deutz,LONG,2
+8950017,10/31/2015,FCS,Cornell,Princeton,RUSHING,Robert,Somborn,ATT,5
+8950018,10/31/2015,FCS,Cornell,Princeton,RUSHING,Robert,Somborn,YDS,-20
+8950019,10/31/2015,FCS,Cornell,Princeton,RUSHING,Robert,Somborn,TD,0
+8950020,10/31/2015,FCS,Cornell,Princeton,RUSHING,Robert,Somborn,LONG,0
+8950021,10/31/2015,FCS,Cornell,Princeton,PASSING,Robert,Somborn,CP-ATT-INT,22-39-1
+8950022,10/31/2015,FCS,Cornell,Princeton,PASSING,Robert,Somborn,YDS,279
+8950023,10/31/2015,FCS,Cornell,Princeton,PASSING,Robert,Somborn,TD,2
+8950024,10/31/2015,FCS,Cornell,Princeton,PASSING,Robert,Somborn,LONG,37
+8950025,10/31/2015,FCS,Cornell,Princeton,PASSING,Jake,Jatis,CP-ATT-INT,2-6-1
+8950026,10/31/2015,FCS,Cornell,Princeton,PASSING,Jake,Jatis,YDS,41
+8950027,10/31/2015,FCS,Cornell,Princeton,PASSING,Jake,Jatis,TD,0
+8950028,10/31/2015,FCS,Cornell,Princeton,PASSING,Jake,Jatis,LONG,21
+8950029,10/31/2015,FCS,Cornell,Princeton,RECEIVING,Ben,Rogers,REC,6
+8950030,10/31/2015,FCS,Cornell,Princeton,RECEIVING,Ben,Rogers,YDS,96
+8950031,10/31/2015,FCS,Cornell,Princeton,RECEIVING,Ben,Rogers,TD,1
+8950032,10/31/2015,FCS,Cornell,Princeton,RECEIVING,Ben,Rogers,LONG,26
+8950033,10/31/2015,FCS,Cornell,Princeton,RECEIVING,Matt,Sullivan,REC,5
+8950034,10/31/2015,FCS,Cornell,Princeton,RECEIVING,Matt,Sullivan,YDS,72
+8950035,10/31/2015,FCS,Cornell,Princeton,RECEIVING,Matt,Sullivan,TD,0
+8950036,10/31/2015,FCS,Cornell,Princeton,RECEIVING,Matt,Sullivan,LONG,37
+8950037,10/31/2015,FCS,Cornell,Princeton,RECEIVING,Marshall,Deutz,REC,6
+8950038,10/31/2015,FCS,Cornell,Princeton,RECEIVING,Marshall,Deutz,YDS,54
+8950039,10/31/2015,FCS,Cornell,Princeton,RECEIVING,Marshall,Deutz,TD,0
+8950040,10/31/2015,FCS,Cornell,Princeton,RECEIVING,Marshall,Deutz,LONG,14
+8950041,10/31/2015,FCS,Cornell,Princeton,RECEIVING,Luke,Hagy,REC,2
+8950042,10/31/2015,FCS,Cornell,Princeton,RECEIVING,Luke,Hagy,YDS,41
+8950043,10/31/2015,FCS,Cornell,Princeton,RECEIVING,Luke,Hagy,TD,0
+8950044,10/31/2015,FCS,Cornell,Princeton,RECEIVING,Luke,Hagy,LONG,21
+8950045,10/31/2015,FCS,Cornell,Princeton,RECEIVING,Chris,Lenz,REC,2
+8950046,10/31/2015,FCS,Cornell,Princeton,RECEIVING,Chris,Lenz,YDS,34
+8950047,10/31/2015,FCS,Cornell,Princeton,RECEIVING,Chris,Lenz,TD,1
+8950048,10/31/2015,FCS,Cornell,Princeton,RECEIVING,Chris,Lenz,LONG,28
+8950049,10/31/2015,FCS,Cornell,Princeton,RECEIVING,Jack,Gellatly,REC,1
+8950050,10/31/2015,FCS,Cornell,Princeton,RECEIVING,Jack,Gellatly,YDS,15
+8950051,10/31/2015,FCS,Cornell,Princeton,RECEIVING,Jack,Gellatly,TD,0
+8950052,10/31/2015,FCS,Cornell,Princeton,RECEIVING,Jack,Gellatly,LONG,15
+8950053,10/31/2015,FCS,Cornell,Princeton,RECEIVING,Matt,Doneth,REC,1
+8950054,10/31/2015,FCS,Cornell,Princeton,RECEIVING,Matt,Doneth,YDS,6
+8950055,10/31/2015,FCS,Cornell,Princeton,RECEIVING,Matt,Doneth,TD,0
+8950056,10/31/2015,FCS,Cornell,Princeton,RECEIVING,Matt,Doneth,LONG,6
+8950057,10/31/2015,FCS,Cornell,Princeton,RECEIVING,James,Hubbard,REC,1
+8950058,10/31/2015,FCS,Cornell,Princeton,RECEIVING,James,Hubbard,YDS,2
+8950059,10/31/2015,FCS,Cornell,Princeton,RECEIVING,James,Hubbard,TD,0
+8950060,10/31/2015,FCS,Cornell,Princeton,RECEIVING,James,Hubbard,LONG,2
+8950061,10/31/2015,FCS,Cornell,Princeton,KICKING,Joe,Pierik,FG-FGA,0/2
+8950062,10/31/2015,FCS,Cornell,Princeton,KICKING,Joe,Pierik,LONG,0
+8950063,10/31/2015,FCS,Cornell,Princeton,KICKING,Joe,Pierik,XP,0
+8950064,10/31/2015,FCS,Cornell,Princeton,KICKING,Joe,Pierik,PTS,0
+8950065,10/31/2015,FCS,Cornell,Princeton,KICKING,Zach,Mays,FG-FGA,0/0
+8950066,10/31/2015,FCS,Cornell,Princeton,KICKING,Zach,Mays,LONG,-
+8950067,10/31/2015,FCS,Cornell,Princeton,KICKING,Zach,Mays,XP,3
+8950068,10/31/2015,FCS,Cornell,Princeton,KICKING,Zach,Mays,PTS,3
+8950069,10/31/2015,FCS,Cornell,Princeton,PUNTING,Chris,Fraser,NO,4
+8950070,10/31/2015,FCS,Cornell,Princeton,PUNTING,Chris,Fraser,YDS,174
+8950071,10/31/2015,FCS,Cornell,Princeton,PUNTING,Chris,Fraser,AVG,43.5
+8950072,10/31/2015,FCS,Cornell,Princeton,PUNTING,Chris,Fraser,LONG,56
+8950073,10/31/2015,FCS,Cornell,Princeton,PUNT RETURNS,Ben,Rogers,NO,2
+8950074,10/31/2015,FCS,Cornell,Princeton,PUNT RETURNS,Ben,Rogers,YDS,29
+8950075,10/31/2015,FCS,Cornell,Princeton,PUNT RETURNS,Ben,Rogers,AVG,14.5
+8950076,10/31/2015,FCS,Cornell,Princeton,PUNT RETURNS,Ben,Rogers,LONG,17
+8950077,10/31/2015,FCS,Cornell,Princeton,KICK RETURNS,Ben,Rogers,NO,6
+8950078,10/31/2015,FCS,Cornell,Princeton,KICK RETURNS,Ben,Rogers,YDS,158
+8950079,10/31/2015,FCS,Cornell,Princeton,KICK RETURNS,Ben,Rogers,AVG,26.3
+8950080,10/31/2015,FCS,Cornell,Princeton,KICK RETURNS,Ben,Rogers,LONG,60
+8950081,10/31/2015,FCS,Princeton,Cornell,RUSHING,Joe,Rhattigan,ATT,12
+8950082,10/31/2015,FCS,Princeton,Cornell,RUSHING,Joe,Rhattigan,YDS,127
+8950083,10/31/2015,FCS,Princeton,Cornell,RUSHING,Joe,Rhattigan,TD,1
+8950084,10/31/2015,FCS,Princeton,Cornell,RUSHING,Joe,Rhattigan,LONG,43
+8950085,10/31/2015,FCS,Princeton,Cornell,RUSHING,John,Lovett,ATT,7
+8950086,10/31/2015,FCS,Princeton,Cornell,RUSHING,John,Lovett,YDS,92
+8950087,10/31/2015,FCS,Princeton,Cornell,RUSHING,John,Lovett,TD,2
+8950088,10/31/2015,FCS,Princeton,Cornell,RUSHING,John,Lovett,LONG,36
+8950089,10/31/2015,FCS,Princeton,Cornell,RUSHING,Dre,Nelson,ATT,6
+8950090,10/31/2015,FCS,Princeton,Cornell,RUSHING,Dre,Nelson,YDS,34
+8950091,10/31/2015,FCS,Princeton,Cornell,RUSHING,Dre,Nelson,TD,1
+8950092,10/31/2015,FCS,Princeton,Cornell,RUSHING,Dre,Nelson,LONG,14
+8950093,10/31/2015,FCS,Princeton,Cornell,RUSHING,AJ,Glass,ATT,3
+8950094,10/31/2015,FCS,Princeton,Cornell,RUSHING,AJ,Glass,YDS,9
+8950095,10/31/2015,FCS,Princeton,Cornell,RUSHING,AJ,Glass,TD,0
+8950096,10/31/2015,FCS,Princeton,Cornell,RUSHING,AJ,Glass,LONG,5
+8950097,10/31/2015,FCS,Princeton,Cornell,RUSHING,Charles,Volker,ATT,3
+8950098,10/31/2015,FCS,Princeton,Cornell,RUSHING,Charles,Volker,YDS,5
+8950099,10/31/2015,FCS,Princeton,Cornell,RUSHING,Charles,Volker,TD,0
+8950100,10/31/2015,FCS,Princeton,Cornell,RUSHING,Charles,Volker,LONG,3
+8950101,10/31/2015,FCS,Princeton,Cornell,RUSHING,Chad,Kanoff,ATT,2
+8950102,10/31/2015,FCS,Princeton,Cornell,RUSHING,Chad,Kanoff,YDS,-6
+8950103,10/31/2015,FCS,Princeton,Cornell,RUSHING,Chad,Kanoff,TD,0
+8950104,10/31/2015,FCS,Princeton,Cornell,RUSHING,Chad,Kanoff,LONG,0
+8950105,10/31/2015,FCS,Princeton,Cornell,PASSING,Chad,Kanoff,CP-ATT-INT,20-34-0
+8950106,10/31/2015,FCS,Princeton,Cornell,PASSING,Chad,Kanoff,YDS,203
+8950107,10/31/2015,FCS,Princeton,Cornell,PASSING,Chad,Kanoff,TD,1
+8950108,10/31/2015,FCS,Princeton,Cornell,PASSING,Chad,Kanoff,LONG,32
+8950109,10/31/2015,FCS,Princeton,Cornell,PASSING,,Team,CP-ATT-INT,0-1-0
+8950110,10/31/2015,FCS,Princeton,Cornell,PASSING,,Team,YDS,0
+8950111,10/31/2015,FCS,Princeton,Cornell,PASSING,,Team,TD,0
+8950112,10/31/2015,FCS,Princeton,Cornell,PASSING,,Team,LONG,0
+8950113,10/31/2015,FCS,Princeton,Cornell,RECEIVING,Scott,Carpenter,REC,4
+8950114,10/31/2015,FCS,Princeton,Cornell,RECEIVING,Scott,Carpenter,YDS,47
+8950115,10/31/2015,FCS,Princeton,Cornell,RECEIVING,Scott,Carpenter,TD,1
+8950116,10/31/2015,FCS,Princeton,Cornell,RECEIVING,Scott,Carpenter,LONG,17
+8950117,10/31/2015,FCS,Princeton,Cornell,RECEIVING,Joe,Rhattigan,REC,5
+8950118,10/31/2015,FCS,Princeton,Cornell,RECEIVING,Joe,Rhattigan,YDS,46
+8950119,10/31/2015,FCS,Princeton,Cornell,RECEIVING,Joe,Rhattigan,TD,0
+8950120,10/31/2015,FCS,Princeton,Cornell,RECEIVING,Joe,Rhattigan,LONG,19
+8950121,10/31/2015,FCS,Princeton,Cornell,RECEIVING,Trevor,Osborne,REC,1
+8950122,10/31/2015,FCS,Princeton,Cornell,RECEIVING,Trevor,Osborne,YDS,32
+8950123,10/31/2015,FCS,Princeton,Cornell,RECEIVING,Trevor,Osborne,TD,0
+8950124,10/31/2015,FCS,Princeton,Cornell,RECEIVING,Trevor,Osborne,LONG,32
+8950125,10/31/2015,FCS,Princeton,Cornell,RECEIVING,Isaiah,Barnes,REC,3
+8950126,10/31/2015,FCS,Princeton,Cornell,RECEIVING,Isaiah,Barnes,YDS,31
+8950127,10/31/2015,FCS,Princeton,Cornell,RECEIVING,Isaiah,Barnes,TD,0
+8950128,10/31/2015,FCS,Princeton,Cornell,RECEIVING,Isaiah,Barnes,LONG,18
+8950129,10/31/2015,FCS,Princeton,Cornell,RECEIVING,Cody,Smith,REC,2
+8950130,10/31/2015,FCS,Princeton,Cornell,RECEIVING,Cody,Smith,YDS,20
+8950131,10/31/2015,FCS,Princeton,Cornell,RECEIVING,Cody,Smith,TD,0
+8950132,10/31/2015,FCS,Princeton,Cornell,RECEIVING,Cody,Smith,LONG,12
+8950133,10/31/2015,FCS,Princeton,Cornell,RECEIVING,John,Lovett,REC,3
+8950134,10/31/2015,FCS,Princeton,Cornell,RECEIVING,John,Lovett,YDS,18
+8950135,10/31/2015,FCS,Princeton,Cornell,RECEIVING,John,Lovett,TD,0
+8950136,10/31/2015,FCS,Princeton,Cornell,RECEIVING,John,Lovett,LONG,8
+8950137,10/31/2015,FCS,Princeton,Cornell,RECEIVING,Alex,Parkinson,REC,1
+8950138,10/31/2015,FCS,Princeton,Cornell,RECEIVING,Alex,Parkinson,YDS,8
+8950139,10/31/2015,FCS,Princeton,Cornell,RECEIVING,Alex,Parkinson,TD,0
+8950140,10/31/2015,FCS,Princeton,Cornell,RECEIVING,Alex,Parkinson,LONG,8
+8950141,10/31/2015,FCS,Princeton,Cornell,RECEIVING,Dre,Nelson,REC,1
+8950142,10/31/2015,FCS,Princeton,Cornell,RECEIVING,Dre,Nelson,YDS,1
+8950143,10/31/2015,FCS,Princeton,Cornell,RECEIVING,Dre,Nelson,TD,0
+8950144,10/31/2015,FCS,Princeton,Cornell,RECEIVING,Dre,Nelson,LONG,1
+8950145,10/31/2015,FCS,Princeton,Cornell,KICKING,Nolan,Bieck,FG-FGA,2/2
+8950146,10/31/2015,FCS,Princeton,Cornell,KICKING,Nolan,Bieck,LONG,34
+8950147,10/31/2015,FCS,Princeton,Cornell,KICKING,Nolan,Bieck,XP,5
+8950148,10/31/2015,FCS,Princeton,Cornell,KICKING,Nolan,Bieck,PTS,11
+8950149,10/31/2015,FCS,Princeton,Cornell,PUNTING,Tyler,Roth,NO,5
+8950150,10/31/2015,FCS,Princeton,Cornell,PUNTING,Tyler,Roth,YDS,183
+8950151,10/31/2015,FCS,Princeton,Cornell,PUNTING,Tyler,Roth,AVG,36.6
+8950152,10/31/2015,FCS,Princeton,Cornell,PUNTING,Tyler,Roth,LONG,45
+8950153,10/31/2015,FCS,Princeton,Cornell,PUNTING,,Team,NO,1
+8950154,10/31/2015,FCS,Princeton,Cornell,PUNTING,,Team,YDS,13
+8950155,10/31/2015,FCS,Princeton,Cornell,PUNTING,,Team,AVG,13.0
+8950156,10/31/2015,FCS,Princeton,Cornell,PUNTING,,Team,LONG,13
+8950157,10/31/2015,FCS,Princeton,Cornell,PUNT RETURNS,James,Frusciante,NO,3
+8950158,10/31/2015,FCS,Princeton,Cornell,PUNT RETURNS,James,Frusciante,YDS,20
+8950159,10/31/2015,FCS,Princeton,Cornell,PUNT RETURNS,James,Frusciante,AVG,6.7
+8950160,10/31/2015,FCS,Princeton,Cornell,PUNT RETURNS,James,Frusciante,LONG,12
+8950161,10/31/2015,FCS,Princeton,Cornell,KICK RETURNS,Dre,Nelson,NO,2
+8950162,10/31/2015,FCS,Princeton,Cornell,KICK RETURNS,Dre,Nelson,YDS,139
+8950163,10/31/2015,FCS,Princeton,Cornell,KICK RETURNS,Dre,Nelson,AVG,69.5
+8950164,10/31/2015,FCS,Princeton,Cornell,KICK RETURNS,Dre,Nelson,LONG,100

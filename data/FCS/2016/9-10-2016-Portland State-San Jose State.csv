@@ -1,0 +1,193 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9300001,9/10/2016,FCS,Portland State,San Jose State,RUSHING,Paris,Penn,ATT,14
+9300002,9/10/2016,FCS,Portland State,San Jose State,RUSHING,Paris,Penn,YDS,137
+9300003,9/10/2016,FCS,Portland State,San Jose State,RUSHING,Paris,Penn,TD,1
+9300004,9/10/2016,FCS,Portland State,San Jose State,RUSHING,Paris,Penn,LONG,36
+9300005,9/10/2016,FCS,Portland State,San Jose State,RUSHING,Alex,Kuresa,ATT,8
+9300006,9/10/2016,FCS,Portland State,San Jose State,RUSHING,Alex,Kuresa,YDS,29
+9300007,9/10/2016,FCS,Portland State,San Jose State,RUSHING,Alex,Kuresa,TD,0
+9300008,9/10/2016,FCS,Portland State,San Jose State,RUSHING,Alex,Kuresa,LONG,20
+9300009,9/10/2016,FCS,Portland State,San Jose State,RUSHING,Nate,Tago,ATT,11
+9300010,9/10/2016,FCS,Portland State,San Jose State,RUSHING,Nate,Tago,YDS,23
+9300011,9/10/2016,FCS,Portland State,San Jose State,RUSHING,Nate,Tago,TD,0
+9300012,9/10/2016,FCS,Portland State,San Jose State,RUSHING,Nate,Tago,LONG,6
+9300013,9/10/2016,FCS,Portland State,San Jose State,RUSHING,Zach,Floyd,ATT,3
+9300014,9/10/2016,FCS,Portland State,San Jose State,RUSHING,Zach,Floyd,YDS,9
+9300015,9/10/2016,FCS,Portland State,San Jose State,RUSHING,Zach,Floyd,TD,1
+9300016,9/10/2016,FCS,Portland State,San Jose State,RUSHING,Zach,Floyd,LONG,5
+9300017,9/10/2016,FCS,Portland State,San Jose State,RUSHING,Carlos,Martin,ATT,2
+9300018,9/10/2016,FCS,Portland State,San Jose State,RUSHING,Carlos,Martin,YDS,4
+9300019,9/10/2016,FCS,Portland State,San Jose State,RUSHING,Carlos,Martin,TD,0
+9300020,9/10/2016,FCS,Portland State,San Jose State,RUSHING,Carlos,Martin,LONG,3
+9300021,9/10/2016,FCS,Portland State,San Jose State,RUSHING,Mitchell,Thompson,ATT,1
+9300022,9/10/2016,FCS,Portland State,San Jose State,RUSHING,Mitchell,Thompson,YDS,3
+9300023,9/10/2016,FCS,Portland State,San Jose State,RUSHING,Mitchell,Thompson,TD,1
+9300024,9/10/2016,FCS,Portland State,San Jose State,RUSHING,Mitchell,Thompson,LONG,3
+9300025,9/10/2016,FCS,Portland State,San Jose State,RUSHING,Chris,Seisay,ATT,1
+9300026,9/10/2016,FCS,Portland State,San Jose State,RUSHING,Chris,Seisay,YDS,1
+9300027,9/10/2016,FCS,Portland State,San Jose State,RUSHING,Chris,Seisay,TD,0
+9300028,9/10/2016,FCS,Portland State,San Jose State,RUSHING,Chris,Seisay,LONG,1
+9300029,9/10/2016,FCS,Portland State,San Jose State,RUSHING,,Team,ATT,2
+9300030,9/10/2016,FCS,Portland State,San Jose State,RUSHING,,Team,YDS,-4
+9300031,9/10/2016,FCS,Portland State,San Jose State,RUSHING,,Team,TD,0
+9300032,9/10/2016,FCS,Portland State,San Jose State,RUSHING,,Team,LONG,0
+9300033,9/10/2016,FCS,Portland State,San Jose State,PASSING,Alex,Kuresa,CP-ATT-INT,10-22-3
+9300034,9/10/2016,FCS,Portland State,San Jose State,PASSING,Alex,Kuresa,YDS,135
+9300035,9/10/2016,FCS,Portland State,San Jose State,PASSING,Alex,Kuresa,TD,1
+9300036,9/10/2016,FCS,Portland State,San Jose State,PASSING,Alex,Kuresa,LONG,48
+9300037,9/10/2016,FCS,Portland State,San Jose State,PASSING,Josh,Kraght,CP-ATT-INT,1-1-0
+9300038,9/10/2016,FCS,Portland State,San Jose State,PASSING,Josh,Kraght,YDS,78
+9300039,9/10/2016,FCS,Portland State,San Jose State,PASSING,Josh,Kraght,TD,1
+9300040,9/10/2016,FCS,Portland State,San Jose State,PASSING,Josh,Kraght,LONG,78
+9300041,9/10/2016,FCS,Portland State,San Jose State,PASSING,Nate,Tago,CP-ATT-INT,1-1-0
+9300042,9/10/2016,FCS,Portland State,San Jose State,PASSING,Nate,Tago,YDS,43
+9300043,9/10/2016,FCS,Portland State,San Jose State,PASSING,Nate,Tago,TD,0
+9300044,9/10/2016,FCS,Portland State,San Jose State,PASSING,Nate,Tago,LONG,43
+9300045,9/10/2016,FCS,Portland State,San Jose State,RECEIVING,Alex,Kuresa,REC,1
+9300046,9/10/2016,FCS,Portland State,San Jose State,RECEIVING,Alex,Kuresa,YDS,78
+9300047,9/10/2016,FCS,Portland State,San Jose State,RECEIVING,Alex,Kuresa,TD,1
+9300048,9/10/2016,FCS,Portland State,San Jose State,RECEIVING,Alex,Kuresa,LONG,78
+9300049,9/10/2016,FCS,Portland State,San Jose State,RECEIVING,Chris,Seisay,REC,2
+9300050,9/10/2016,FCS,Portland State,San Jose State,RECEIVING,Chris,Seisay,YDS,56
+9300051,9/10/2016,FCS,Portland State,San Jose State,RECEIVING,Chris,Seisay,TD,0
+9300052,9/10/2016,FCS,Portland State,San Jose State,RECEIVING,Chris,Seisay,LONG,48
+9300053,9/10/2016,FCS,Portland State,San Jose State,RECEIVING,Nate,Tago,REC,3
+9300054,9/10/2016,FCS,Portland State,San Jose State,RECEIVING,Nate,Tago,YDS,52
+9300055,9/10/2016,FCS,Portland State,San Jose State,RECEIVING,Nate,Tago,TD,0
+9300056,9/10/2016,FCS,Portland State,San Jose State,RECEIVING,Nate,Tago,LONG,29
+9300057,9/10/2016,FCS,Portland State,San Jose State,RECEIVING,Maximo,Espitia,REC,1
+9300058,9/10/2016,FCS,Portland State,San Jose State,RECEIVING,Maximo,Espitia,YDS,43
+9300059,9/10/2016,FCS,Portland State,San Jose State,RECEIVING,Maximo,Espitia,TD,0
+9300060,9/10/2016,FCS,Portland State,San Jose State,RECEIVING,Maximo,Espitia,LONG,43
+9300061,9/10/2016,FCS,Portland State,San Jose State,RECEIVING,Paris,Penn,REC,3
+9300062,9/10/2016,FCS,Portland State,San Jose State,RECEIVING,Paris,Penn,YDS,14
+9300063,9/10/2016,FCS,Portland State,San Jose State,RECEIVING,Paris,Penn,TD,1
+9300064,9/10/2016,FCS,Portland State,San Jose State,RECEIVING,Paris,Penn,LONG,22
+9300065,9/10/2016,FCS,Portland State,San Jose State,RECEIVING,Josh,Kraght,REC,2
+9300066,9/10/2016,FCS,Portland State,San Jose State,RECEIVING,Josh,Kraght,YDS,13
+9300067,9/10/2016,FCS,Portland State,San Jose State,RECEIVING,Josh,Kraght,TD,0
+9300068,9/10/2016,FCS,Portland State,San Jose State,RECEIVING,Josh,Kraght,LONG,7
+9300069,9/10/2016,FCS,Portland State,San Jose State,KICKING,Jonathan,Gonzales,FG-FGA,0/0
+9300070,9/10/2016,FCS,Portland State,San Jose State,KICKING,Jonathan,Gonzales,LONG,-
+9300071,9/10/2016,FCS,Portland State,San Jose State,KICKING,Jonathan,Gonzales,XP,5
+9300072,9/10/2016,FCS,Portland State,San Jose State,KICKING,Jonathan,Gonzales,PTS,5
+9300073,9/10/2016,FCS,Portland State,San Jose State,PUNTING,Marcus,Kinsella,NO,5
+9300074,9/10/2016,FCS,Portland State,San Jose State,PUNTING,Marcus,Kinsella,YDS,176
+9300075,9/10/2016,FCS,Portland State,San Jose State,PUNTING,Marcus,Kinsella,AVG,35.2
+9300076,9/10/2016,FCS,Portland State,San Jose State,PUNTING,Marcus,Kinsella,LONG,44
+9300077,9/10/2016,FCS,Portland State,San Jose State,PUNT RETURNS,Artuz,Manning,NO,0
+9300078,9/10/2016,FCS,Portland State,San Jose State,PUNT RETURNS,Artuz,Manning,YDS,25
+9300079,9/10/2016,FCS,Portland State,San Jose State,PUNT RETURNS,Artuz,Manning,AVG,-
+9300080,9/10/2016,FCS,Portland State,San Jose State,PUNT RETURNS,Artuz,Manning,LONG,25
+9300081,9/10/2016,FCS,Portland State,San Jose State,PUNT RETURNS,Trent,Riley,NO,1
+9300082,9/10/2016,FCS,Portland State,San Jose State,PUNT RETURNS,Trent,Riley,YDS,5
+9300083,9/10/2016,FCS,Portland State,San Jose State,PUNT RETURNS,Trent,Riley,AVG,5.0
+9300084,9/10/2016,FCS,Portland State,San Jose State,PUNT RETURNS,Trent,Riley,LONG,0
+9300085,9/10/2016,FCS,Portland State,San Jose State,PUNT RETURNS,Blair,Cavanaugh,NO,1
+9300086,9/10/2016,FCS,Portland State,San Jose State,PUNT RETURNS,Blair,Cavanaugh,YDS,0
+9300087,9/10/2016,FCS,Portland State,San Jose State,PUNT RETURNS,Blair,Cavanaugh,AVG,-
+9300088,9/10/2016,FCS,Portland State,San Jose State,PUNT RETURNS,Blair,Cavanaugh,LONG,0
+9300089,9/10/2016,FCS,Portland State,San Jose State,KICK RETURNS,Chris,Seisay,NO,1
+9300090,9/10/2016,FCS,Portland State,San Jose State,KICK RETURNS,Chris,Seisay,YDS,34
+9300091,9/10/2016,FCS,Portland State,San Jose State,KICK RETURNS,Chris,Seisay,AVG,34.0
+9300092,9/10/2016,FCS,Portland State,San Jose State,KICK RETURNS,Chris,Seisay,LONG,34
+9300093,9/10/2016,FCS,Portland State,San Jose State,KICK RETURNS,Nate,Tago,NO,2
+9300094,9/10/2016,FCS,Portland State,San Jose State,KICK RETURNS,Nate,Tago,YDS,31
+9300095,9/10/2016,FCS,Portland State,San Jose State,KICK RETURNS,Nate,Tago,AVG,15.5
+9300096,9/10/2016,FCS,Portland State,San Jose State,KICK RETURNS,Nate,Tago,LONG,22
+9300097,9/10/2016,FCS,Portland State,San Jose State,KICK RETURNS,Josh,Brown,NO,2
+9300098,9/10/2016,FCS,Portland State,San Jose State,KICK RETURNS,Josh,Brown,YDS,6
+9300099,9/10/2016,FCS,Portland State,San Jose State,KICK RETURNS,Josh,Brown,AVG,3.0
+9300100,9/10/2016,FCS,Portland State,San Jose State,KICK RETURNS,Josh,Brown,LONG,3
+9300101,9/10/2016,FCS,San Jose State,Portland State,RUSHING,Deontae,Cooper,ATT,18
+9300102,9/10/2016,FCS,San Jose State,Portland State,RUSHING,Deontae,Cooper,YDS,126
+9300103,9/10/2016,FCS,San Jose State,Portland State,RUSHING,Deontae,Cooper,TD,1
+9300104,9/10/2016,FCS,San Jose State,Portland State,RUSHING,Deontae,Cooper,LONG,26
+9300105,9/10/2016,FCS,San Jose State,Portland State,RUSHING,Zamore,Zigler,ATT,15
+9300106,9/10/2016,FCS,San Jose State,Portland State,RUSHING,Zamore,Zigler,YDS,111
+9300107,9/10/2016,FCS,San Jose State,Portland State,RUSHING,Zamore,Zigler,TD,2
+9300108,9/10/2016,FCS,San Jose State,Portland State,RUSHING,Zamore,Zigler,LONG,74
+9300109,9/10/2016,FCS,San Jose State,Portland State,RUSHING,Malik,Roberson,ATT,8
+9300110,9/10/2016,FCS,San Jose State,Portland State,RUSHING,Malik,Roberson,YDS,92
+9300111,9/10/2016,FCS,San Jose State,Portland State,RUSHING,Malik,Roberson,TD,1
+9300112,9/10/2016,FCS,San Jose State,Portland State,RUSHING,Malik,Roberson,LONG,87
+9300113,9/10/2016,FCS,San Jose State,Portland State,RUSHING,Kenny,Potter,ATT,11
+9300114,9/10/2016,FCS,San Jose State,Portland State,RUSHING,Kenny,Potter,YDS,49
+9300115,9/10/2016,FCS,San Jose State,Portland State,RUSHING,Kenny,Potter,TD,2
+9300116,9/10/2016,FCS,San Jose State,Portland State,RUSHING,Kenny,Potter,LONG,20
+9300117,9/10/2016,FCS,San Jose State,Portland State,RUSHING,Rahshead,Johnson,ATT,3
+9300118,9/10/2016,FCS,San Jose State,Portland State,RUSHING,Rahshead,Johnson,YDS,30
+9300119,9/10/2016,FCS,San Jose State,Portland State,RUSHING,Rahshead,Johnson,TD,0
+9300120,9/10/2016,FCS,San Jose State,Portland State,RUSHING,Rahshead,Johnson,LONG,11
+9300121,9/10/2016,FCS,San Jose State,Portland State,RUSHING,Josh,Love,ATT,1
+9300122,9/10/2016,FCS,San Jose State,Portland State,RUSHING,Josh,Love,YDS,1
+9300123,9/10/2016,FCS,San Jose State,Portland State,RUSHING,Josh,Love,TD,0
+9300124,9/10/2016,FCS,San Jose State,Portland State,RUSHING,Josh,Love,LONG,1
+9300125,9/10/2016,FCS,San Jose State,Portland State,RUSHING,,Team,ATT,1
+9300126,9/10/2016,FCS,San Jose State,Portland State,RUSHING,,Team,YDS,0
+9300127,9/10/2016,FCS,San Jose State,Portland State,RUSHING,,Team,TD,0
+9300128,9/10/2016,FCS,San Jose State,Portland State,RUSHING,,Team,LONG,0
+9300129,9/10/2016,FCS,San Jose State,Portland State,PASSING,Kenny,Potter,CP-ATT-INT,14-20-0
+9300130,9/10/2016,FCS,San Jose State,Portland State,PASSING,Kenny,Potter,YDS,233
+9300131,9/10/2016,FCS,San Jose State,Portland State,PASSING,Kenny,Potter,TD,3
+9300132,9/10/2016,FCS,San Jose State,Portland State,PASSING,Kenny,Potter,LONG,46
+9300133,9/10/2016,FCS,San Jose State,Portland State,PASSING,Josh,Love,CP-ATT-INT,0-1-0
+9300134,9/10/2016,FCS,San Jose State,Portland State,PASSING,Josh,Love,YDS,0
+9300135,9/10/2016,FCS,San Jose State,Portland State,PASSING,Josh,Love,TD,0
+9300136,9/10/2016,FCS,San Jose State,Portland State,PASSING,Josh,Love,LONG,0
+9300137,9/10/2016,FCS,San Jose State,Portland State,RECEIVING,Tre,Hartley,REC,4
+9300138,9/10/2016,FCS,San Jose State,Portland State,RECEIVING,Tre,Hartley,YDS,93
+9300139,9/10/2016,FCS,San Jose State,Portland State,RECEIVING,Tre,Hartley,TD,1
+9300140,9/10/2016,FCS,San Jose State,Portland State,RECEIVING,Tre,Hartley,LONG,41
+9300141,9/10/2016,FCS,San Jose State,Portland State,RECEIVING,Justin,Holmes,REC,2
+9300142,9/10/2016,FCS,San Jose State,Portland State,RECEIVING,Justin,Holmes,YDS,68
+9300143,9/10/2016,FCS,San Jose State,Portland State,RECEIVING,Justin,Holmes,TD,1
+9300144,9/10/2016,FCS,San Jose State,Portland State,RECEIVING,Justin,Holmes,LONG,46
+9300145,9/10/2016,FCS,San Jose State,Portland State,RECEIVING,Billy,Freeman,REC,2
+9300146,9/10/2016,FCS,San Jose State,Portland State,RECEIVING,Billy,Freeman,YDS,41
+9300147,9/10/2016,FCS,San Jose State,Portland State,RECEIVING,Billy,Freeman,TD,1
+9300148,9/10/2016,FCS,San Jose State,Portland State,RECEIVING,Billy,Freeman,LONG,36
+9300149,9/10/2016,FCS,San Jose State,Portland State,RECEIVING,Tim,Crawley,REC,2
+9300150,9/10/2016,FCS,San Jose State,Portland State,RECEIVING,Tim,Crawley,YDS,16
+9300151,9/10/2016,FCS,San Jose State,Portland State,RECEIVING,Tim,Crawley,TD,0
+9300152,9/10/2016,FCS,San Jose State,Portland State,RECEIVING,Tim,Crawley,LONG,13
+9300153,9/10/2016,FCS,San Jose State,Portland State,RECEIVING,Rahshead,Johnson,REC,2
+9300154,9/10/2016,FCS,San Jose State,Portland State,RECEIVING,Rahshead,Johnson,YDS,11
+9300155,9/10/2016,FCS,San Jose State,Portland State,RECEIVING,Rahshead,Johnson,TD,0
+9300156,9/10/2016,FCS,San Jose State,Portland State,RECEIVING,Rahshead,Johnson,LONG,9
+9300157,9/10/2016,FCS,San Jose State,Portland State,RECEIVING,Zamore,Zigler,REC,1
+9300158,9/10/2016,FCS,San Jose State,Portland State,RECEIVING,Zamore,Zigler,YDS,3
+9300159,9/10/2016,FCS,San Jose State,Portland State,RECEIVING,Zamore,Zigler,TD,0
+9300160,9/10/2016,FCS,San Jose State,Portland State,RECEIVING,Zamore,Zigler,LONG,3
+9300161,9/10/2016,FCS,San Jose State,Portland State,RECEIVING,Bailey,Gaither,REC,1
+9300162,9/10/2016,FCS,San Jose State,Portland State,RECEIVING,Bailey,Gaither,YDS,1
+9300163,9/10/2016,FCS,San Jose State,Portland State,RECEIVING,Bailey,Gaither,TD,0
+9300164,9/10/2016,FCS,San Jose State,Portland State,RECEIVING,Bailey,Gaither,LONG,1
+9300165,9/10/2016,FCS,San Jose State,Portland State,KICKING,Bryce,Crawford,FG-FGA,1/1
+9300166,9/10/2016,FCS,San Jose State,Portland State,KICKING,Bryce,Crawford,LONG,22
+9300167,9/10/2016,FCS,San Jose State,Portland State,KICKING,Bryce,Crawford,XP,9
+9300168,9/10/2016,FCS,San Jose State,Portland State,KICKING,Bryce,Crawford,PTS,12
+9300169,9/10/2016,FCS,San Jose State,Portland State,PUNTING,Michael,Carrizosa,NO,5
+9300170,9/10/2016,FCS,San Jose State,Portland State,PUNTING,Michael,Carrizosa,YDS,192
+9300171,9/10/2016,FCS,San Jose State,Portland State,PUNTING,Michael,Carrizosa,AVG,38.4
+9300172,9/10/2016,FCS,San Jose State,Portland State,PUNTING,Michael,Carrizosa,LONG,56
+9300173,9/10/2016,FCS,San Jose State,Portland State,PUNTING,,Team,NO,1
+9300174,9/10/2016,FCS,San Jose State,Portland State,PUNTING,,Team,YDS,0
+9300175,9/10/2016,FCS,San Jose State,Portland State,PUNTING,,Team,AVG,-
+9300176,9/10/2016,FCS,San Jose State,Portland State,PUNTING,,Team,LONG,0
+9300177,9/10/2016,FCS,San Jose State,Portland State,KICK RETURNS,Bailey,Gaither,NO,1
+9300178,9/10/2016,FCS,San Jose State,Portland State,KICK RETURNS,Bailey,Gaither,YDS,26
+9300179,9/10/2016,FCS,San Jose State,Portland State,KICK RETURNS,Bailey,Gaither,AVG,26.0
+9300180,9/10/2016,FCS,San Jose State,Portland State,KICK RETURNS,Bailey,Gaither,LONG,26
+9300181,9/10/2016,FCS,San Jose State,Portland State,KICK RETURNS,Rahshead,Johnson,NO,1
+9300182,9/10/2016,FCS,San Jose State,Portland State,KICK RETURNS,Rahshead,Johnson,YDS,19
+9300183,9/10/2016,FCS,San Jose State,Portland State,KICK RETURNS,Rahshead,Johnson,AVG,19.0
+9300184,9/10/2016,FCS,San Jose State,Portland State,KICK RETURNS,Rahshead,Johnson,LONG,19
+9300185,9/10/2016,FCS,San Jose State,Portland State,KICK RETURNS,LeVander,Brown,NO,1
+9300186,9/10/2016,FCS,San Jose State,Portland State,KICK RETURNS,LeVander,Brown,YDS,7
+9300187,9/10/2016,FCS,San Jose State,Portland State,KICK RETURNS,LeVander,Brown,AVG,7.0
+9300188,9/10/2016,FCS,San Jose State,Portland State,KICK RETURNS,LeVander,Brown,LONG,7
+9300189,9/10/2016,FCS,San Jose State,Portland State,KICK RETURNS,Josh,Oliver,NO,1
+9300190,9/10/2016,FCS,San Jose State,Portland State,KICK RETURNS,Josh,Oliver,YDS,3
+9300191,9/10/2016,FCS,San Jose State,Portland State,KICK RETURNS,Josh,Oliver,AVG,3.0
+9300192,9/10/2016,FCS,San Jose State,Portland State,KICK RETURNS,Josh,Oliver,LONG,3

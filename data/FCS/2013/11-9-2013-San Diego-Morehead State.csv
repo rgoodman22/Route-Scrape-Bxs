@@ -1,0 +1,189 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+7435001,11/9/2013,FCS,San Diego,Morehead State,RUSHING,Joe,Ferguson,ATT,7
+7435002,11/9/2013,FCS,San Diego,Morehead State,RUSHING,Joe,Ferguson,YDS,115
+7435003,11/9/2013,FCS,San Diego,Morehead State,RUSHING,Joe,Ferguson,TD,1
+7435004,11/9/2013,FCS,San Diego,Morehead State,RUSHING,Joe,Ferguson,LONG,83
+7435005,11/9/2013,FCS,San Diego,Morehead State,RUSHING,Kenn,James,ATT,15
+7435006,11/9/2013,FCS,San Diego,Morehead State,RUSHING,Kenn,James,YDS,61
+7435007,11/9/2013,FCS,San Diego,Morehead State,RUSHING,Kenn,James,TD,0
+7435008,11/9/2013,FCS,San Diego,Morehead State,RUSHING,Kenn,James,LONG,15
+7435009,11/9/2013,FCS,San Diego,Morehead State,RUSHING,Bug,Rivera,ATT,5
+7435010,11/9/2013,FCS,San Diego,Morehead State,RUSHING,Bug,Rivera,YDS,33
+7435011,11/9/2013,FCS,San Diego,Morehead State,RUSHING,Bug,Rivera,TD,1
+7435012,11/9/2013,FCS,San Diego,Morehead State,RUSHING,Bug,Rivera,LONG,11
+7435013,11/9/2013,FCS,San Diego,Morehead State,RUSHING,,Team,ATT,1
+7435014,11/9/2013,FCS,San Diego,Morehead State,RUSHING,,Team,YDS,-1
+7435015,11/9/2013,FCS,San Diego,Morehead State,RUSHING,,Team,TD,0
+7435016,11/9/2013,FCS,San Diego,Morehead State,RUSHING,,Team,LONG,0
+7435017,11/9/2013,FCS,San Diego,Morehead State,RUSHING,Mason,Mills,ATT,6
+7435018,11/9/2013,FCS,San Diego,Morehead State,RUSHING,Mason,Mills,YDS,-4
+7435019,11/9/2013,FCS,San Diego,Morehead State,RUSHING,Mason,Mills,TD,0
+7435020,11/9/2013,FCS,San Diego,Morehead State,RUSHING,Mason,Mills,LONG,7
+7435021,11/9/2013,FCS,San Diego,Morehead State,PASSING,Mason,Mills,CP-ATT-INT,23-31-0
+7435022,11/9/2013,FCS,San Diego,Morehead State,PASSING,Mason,Mills,YDS,378
+7435023,11/9/2013,FCS,San Diego,Morehead State,PASSING,Mason,Mills,TD,4
+7435024,11/9/2013,FCS,San Diego,Morehead State,PASSING,Mason,Mills,LONG,70
+7435025,11/9/2013,FCS,San Diego,Morehead State,PASSING,Kyle,Miller,CP-ATT-INT,1-1-0
+7435026,11/9/2013,FCS,San Diego,Morehead State,PASSING,Kyle,Miller,YDS,17
+7435027,11/9/2013,FCS,San Diego,Morehead State,PASSING,Kyle,Miller,TD,1
+7435028,11/9/2013,FCS,San Diego,Morehead State,PASSING,Kyle,Miller,LONG,17
+7435029,11/9/2013,FCS,San Diego,Morehead State,RECEIVING,Reggie,Bell,REC,9
+7435030,11/9/2013,FCS,San Diego,Morehead State,RECEIVING,Reggie,Bell,YDS,211
+7435031,11/9/2013,FCS,San Diego,Morehead State,RECEIVING,Reggie,Bell,TD,2
+7435032,11/9/2013,FCS,San Diego,Morehead State,RECEIVING,Reggie,Bell,LONG,70
+7435033,11/9/2013,FCS,San Diego,Morehead State,RECEIVING,Sam,Hoekstra,REC,3
+7435034,11/9/2013,FCS,San Diego,Morehead State,RECEIVING,Sam,Hoekstra,YDS,48
+7435035,11/9/2013,FCS,San Diego,Morehead State,RECEIVING,Sam,Hoekstra,TD,0
+7435036,11/9/2013,FCS,San Diego,Morehead State,RECEIVING,Sam,Hoekstra,LONG,29
+7435037,11/9/2013,FCS,San Diego,Morehead State,RECEIVING,Brandon,White,REC,3
+7435038,11/9/2013,FCS,San Diego,Morehead State,RECEIVING,Brandon,White,YDS,29
+7435039,11/9/2013,FCS,San Diego,Morehead State,RECEIVING,Brandon,White,TD,1
+7435040,11/9/2013,FCS,San Diego,Morehead State,RECEIVING,Brandon,White,LONG,20
+7435041,11/9/2013,FCS,San Diego,Morehead State,RECEIVING,D'Angelo,Barksdale,REC,2
+7435042,11/9/2013,FCS,San Diego,Morehead State,RECEIVING,D'Angelo,Barksdale,YDS,32
+7435043,11/9/2013,FCS,San Diego,Morehead State,RECEIVING,D'Angelo,Barksdale,TD,1
+7435044,11/9/2013,FCS,San Diego,Morehead State,RECEIVING,D'Angelo,Barksdale,LONG,26
+7435045,11/9/2013,FCS,San Diego,Morehead State,RECEIVING,Joe,Ferguson,REC,2
+7435046,11/9/2013,FCS,San Diego,Morehead State,RECEIVING,Joe,Ferguson,YDS,26
+7435047,11/9/2013,FCS,San Diego,Morehead State,RECEIVING,Joe,Ferguson,TD,0
+7435048,11/9/2013,FCS,San Diego,Morehead State,RECEIVING,Joe,Ferguson,LONG,15
+7435049,11/9/2013,FCS,San Diego,Morehead State,RECEIVING,Logan,Smith,REC,2
+7435050,11/9/2013,FCS,San Diego,Morehead State,RECEIVING,Logan,Smith,YDS,11
+7435051,11/9/2013,FCS,San Diego,Morehead State,RECEIVING,Logan,Smith,TD,0
+7435052,11/9/2013,FCS,San Diego,Morehead State,RECEIVING,Logan,Smith,LONG,6
+7435053,11/9/2013,FCS,San Diego,Morehead State,RECEIVING,Lawrence,Larivee,REC,1
+7435054,11/9/2013,FCS,San Diego,Morehead State,RECEIVING,Lawrence,Larivee,YDS,17
+7435055,11/9/2013,FCS,San Diego,Morehead State,RECEIVING,Lawrence,Larivee,TD,1
+7435056,11/9/2013,FCS,San Diego,Morehead State,RECEIVING,Lawrence,Larivee,LONG,17
+7435057,11/9/2013,FCS,San Diego,Morehead State,RECEIVING,Bug,Rivera,REC,1
+7435058,11/9/2013,FCS,San Diego,Morehead State,RECEIVING,Bug,Rivera,YDS,16
+7435059,11/9/2013,FCS,San Diego,Morehead State,RECEIVING,Bug,Rivera,TD,0
+7435060,11/9/2013,FCS,San Diego,Morehead State,RECEIVING,Bug,Rivera,LONG,16
+7435061,11/9/2013,FCS,San Diego,Morehead State,RECEIVING,Cole,Naone,REC,1
+7435062,11/9/2013,FCS,San Diego,Morehead State,RECEIVING,Cole,Naone,YDS,5
+7435063,11/9/2013,FCS,San Diego,Morehead State,RECEIVING,Cole,Naone,TD,0
+7435064,11/9/2013,FCS,San Diego,Morehead State,RECEIVING,Cole,Naone,LONG,5
+7435065,11/9/2013,FCS,San Diego,Morehead State,KICKING,David,Last,FG-FGA,0/1
+7435066,11/9/2013,FCS,San Diego,Morehead State,KICKING,David,Last,LONG,-
+7435067,11/9/2013,FCS,San Diego,Morehead State,KICKING,David,Last,XP,8
+7435068,11/9/2013,FCS,San Diego,Morehead State,KICKING,David,Last,PTS,8
+7435069,11/9/2013,FCS,San Diego,Morehead State,PUNTING,Ryan,Belden,NO,1
+7435070,11/9/2013,FCS,San Diego,Morehead State,PUNTING,Ryan,Belden,YDS,42
+7435071,11/9/2013,FCS,San Diego,Morehead State,PUNTING,Ryan,Belden,AVG,42.0
+7435072,11/9/2013,FCS,San Diego,Morehead State,PUNTING,Ryan,Belden,LONG,42
+7435073,11/9/2013,FCS,San Diego,Morehead State,KICK RETURNS,Kenn,James,NO,1
+7435074,11/9/2013,FCS,San Diego,Morehead State,KICK RETURNS,Kenn,James,YDS,9
+7435075,11/9/2013,FCS,San Diego,Morehead State,KICK RETURNS,Kenn,James,AVG,9.0
+7435076,11/9/2013,FCS,San Diego,Morehead State,KICK RETURNS,Kenn,James,LONG,9
+7435077,11/9/2013,FCS,Morehead State,San Diego,RUSHING,Rees,Macshara,ATT,14
+7435078,11/9/2013,FCS,Morehead State,San Diego,RUSHING,Rees,Macshara,YDS,55
+7435079,11/9/2013,FCS,Morehead State,San Diego,RUSHING,Rees,Macshara,TD,0
+7435080,11/9/2013,FCS,Morehead State,San Diego,RUSHING,Rees,Macshara,LONG,13
+7435081,11/9/2013,FCS,Morehead State,San Diego,RUSHING,Brandon,Reeves,ATT,9
+7435082,11/9/2013,FCS,Morehead State,San Diego,RUSHING,Brandon,Reeves,YDS,31
+7435083,11/9/2013,FCS,Morehead State,San Diego,RUSHING,Brandon,Reeves,TD,0
+7435084,11/9/2013,FCS,Morehead State,San Diego,RUSHING,Brandon,Reeves,LONG,7
+7435085,11/9/2013,FCS,Morehead State,San Diego,RUSHING,Rob,Harden,ATT,3
+7435086,11/9/2013,FCS,Morehead State,San Diego,RUSHING,Rob,Harden,YDS,19
+7435087,11/9/2013,FCS,Morehead State,San Diego,RUSHING,Rob,Harden,TD,0
+7435088,11/9/2013,FCS,Morehead State,San Diego,RUSHING,Rob,Harden,LONG,8
+7435089,11/9/2013,FCS,Morehead State,San Diego,RUSHING,Jake,Raymond,ATT,1
+7435090,11/9/2013,FCS,Morehead State,San Diego,RUSHING,Jake,Raymond,YDS,8
+7435091,11/9/2013,FCS,Morehead State,San Diego,RUSHING,Jake,Raymond,TD,0
+7435092,11/9/2013,FCS,Morehead State,San Diego,RUSHING,Jake,Raymond,LONG,8
+7435093,11/9/2013,FCS,Morehead State,San Diego,RUSHING,Logan,Johnson,ATT,3
+7435094,11/9/2013,FCS,Morehead State,San Diego,RUSHING,Logan,Johnson,YDS,0
+7435095,11/9/2013,FCS,Morehead State,San Diego,RUSHING,Logan,Johnson,TD,0
+7435096,11/9/2013,FCS,Morehead State,San Diego,RUSHING,Logan,Johnson,LONG,6
+7435097,11/9/2013,FCS,Morehead State,San Diego,RUSHING,Brandon,Bornhauser,ATT,1
+7435098,11/9/2013,FCS,Morehead State,San Diego,RUSHING,Brandon,Bornhauser,YDS,0
+7435099,11/9/2013,FCS,Morehead State,San Diego,RUSHING,Brandon,Bornhauser,TD,0
+7435100,11/9/2013,FCS,Morehead State,San Diego,RUSHING,Brandon,Bornhauser,LONG,0
+7435101,11/9/2013,FCS,Morehead State,San Diego,RUSHING,,Team,ATT,1
+7435102,11/9/2013,FCS,Morehead State,San Diego,RUSHING,,Team,YDS,-1
+7435103,11/9/2013,FCS,Morehead State,San Diego,RUSHING,,Team,TD,0
+7435104,11/9/2013,FCS,Morehead State,San Diego,RUSHING,,Team,LONG,0
+7435105,11/9/2013,FCS,Morehead State,San Diego,RUSHING,Austin,Gahafer,ATT,4
+7435106,11/9/2013,FCS,Morehead State,San Diego,RUSHING,Austin,Gahafer,YDS,-7
+7435107,11/9/2013,FCS,Morehead State,San Diego,RUSHING,Austin,Gahafer,TD,0
+7435108,11/9/2013,FCS,Morehead State,San Diego,RUSHING,Austin,Gahafer,LONG,9
+7435109,11/9/2013,FCS,Morehead State,San Diego,PASSING,Austin,Gahafer,CP-ATT-INT,22-35-2
+7435110,11/9/2013,FCS,Morehead State,San Diego,PASSING,Austin,Gahafer,YDS,159
+7435111,11/9/2013,FCS,Morehead State,San Diego,PASSING,Austin,Gahafer,TD,0
+7435112,11/9/2013,FCS,Morehead State,San Diego,PASSING,Austin,Gahafer,LONG,24
+7435113,11/9/2013,FCS,Morehead State,San Diego,PASSING,Logan,Johnson,CP-ATT-INT,5-7-1
+7435114,11/9/2013,FCS,Morehead State,San Diego,PASSING,Logan,Johnson,YDS,28
+7435115,11/9/2013,FCS,Morehead State,San Diego,PASSING,Logan,Johnson,TD,0
+7435116,11/9/2013,FCS,Morehead State,San Diego,PASSING,Logan,Johnson,LONG,13
+7435117,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Mason,Rutherford,REC,7
+7435118,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Mason,Rutherford,YDS,37
+7435119,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Mason,Rutherford,TD,0
+7435120,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Mason,Rutherford,LONG,10
+7435121,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Kitaro,Lewis,REC,6
+7435122,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Kitaro,Lewis,YDS,48
+7435123,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Kitaro,Lewis,TD,0
+7435124,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Kitaro,Lewis,LONG,24
+7435125,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Shade,Whitfield,REC,3
+7435126,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Shade,Whitfield,YDS,24
+7435127,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Shade,Whitfield,TD,0
+7435128,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Shade,Whitfield,LONG,15
+7435129,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Rees,Macshara,REC,3
+7435130,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Rees,Macshara,YDS,17
+7435131,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Rees,Macshara,TD,0
+7435132,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Rees,Macshara,LONG,8
+7435133,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Harrison,Bond,REC,2
+7435134,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Harrison,Bond,YDS,17
+7435135,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Harrison,Bond,TD,0
+7435136,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Harrison,Bond,LONG,13
+7435137,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Justin,Cornwall,REC,1
+7435138,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Justin,Cornwall,YDS,22
+7435139,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Justin,Cornwall,TD,0
+7435140,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Justin,Cornwall,LONG,22
+7435141,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Rob,Harden,REC,1
+7435142,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Rob,Harden,YDS,7
+7435143,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Rob,Harden,TD,0
+7435144,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Rob,Harden,LONG,7
+7435145,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Alex,Sealy,REC,1
+7435146,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Alex,Sealy,YDS,7
+7435147,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Alex,Sealy,TD,0
+7435148,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Alex,Sealy,LONG,7
+7435149,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Jake,Raymond,REC,1
+7435150,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Jake,Raymond,YDS,6
+7435151,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Jake,Raymond,TD,0
+7435152,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Jake,Raymond,LONG,6
+7435153,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Cyrus,Strahm,REC,1
+7435154,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Cyrus,Strahm,YDS,2
+7435155,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Cyrus,Strahm,TD,0
+7435156,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Cyrus,Strahm,LONG,2
+7435157,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Brandon,Reeves,REC,1
+7435158,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Brandon,Reeves,YDS,0
+7435159,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Brandon,Reeves,TD,0
+7435160,11/9/2013,FCS,Morehead State,San Diego,RECEIVING,Brandon,Reeves,LONG,0
+7435161,11/9/2013,FCS,Morehead State,San Diego,KICKING,Luke,Boyd,FG-FGA,1/1
+7435162,11/9/2013,FCS,Morehead State,San Diego,KICKING,Luke,Boyd,LONG,28
+7435163,11/9/2013,FCS,Morehead State,San Diego,KICKING,Luke,Boyd,XP,0
+7435164,11/9/2013,FCS,Morehead State,San Diego,KICKING,Luke,Boyd,PTS,3
+7435165,11/9/2013,FCS,Morehead State,San Diego,PUNTING,Pat,DiSalvio,NO,3
+7435166,11/9/2013,FCS,Morehead State,San Diego,PUNTING,Pat,DiSalvio,YDS,112
+7435167,11/9/2013,FCS,Morehead State,San Diego,PUNTING,Pat,DiSalvio,AVG,37.3
+7435168,11/9/2013,FCS,Morehead State,San Diego,PUNTING,Pat,DiSalvio,LONG,40
+7435169,11/9/2013,FCS,Morehead State,San Diego,PUNTING,Matt,Ward,NO,1
+7435170,11/9/2013,FCS,Morehead State,San Diego,PUNTING,Matt,Ward,YDS,32
+7435171,11/9/2013,FCS,Morehead State,San Diego,PUNTING,Matt,Ward,AVG,32.0
+7435172,11/9/2013,FCS,Morehead State,San Diego,PUNTING,Matt,Ward,LONG,32
+7435173,11/9/2013,FCS,Morehead State,San Diego,KICK RETURNS,Brandon,Bornhauser,NO,2
+7435174,11/9/2013,FCS,Morehead State,San Diego,KICK RETURNS,Brandon,Bornhauser,YDS,54
+7435175,11/9/2013,FCS,Morehead State,San Diego,KICK RETURNS,Brandon,Bornhauser,AVG,27.0
+7435176,11/9/2013,FCS,Morehead State,San Diego,KICK RETURNS,Brandon,Bornhauser,LONG,28
+7435177,11/9/2013,FCS,Morehead State,San Diego,KICK RETURNS,Trey,Watkins,NO,2
+7435178,11/9/2013,FCS,Morehead State,San Diego,KICK RETURNS,Trey,Watkins,YDS,50
+7435179,11/9/2013,FCS,Morehead State,San Diego,KICK RETURNS,Trey,Watkins,AVG,25.0
+7435180,11/9/2013,FCS,Morehead State,San Diego,KICK RETURNS,Trey,Watkins,LONG,25
+7435181,11/9/2013,FCS,Morehead State,San Diego,KICK RETURNS,Mason,Rutherford,NO,2
+7435182,11/9/2013,FCS,Morehead State,San Diego,KICK RETURNS,Mason,Rutherford,YDS,43
+7435183,11/9/2013,FCS,Morehead State,San Diego,KICK RETURNS,Mason,Rutherford,AVG,21.5
+7435184,11/9/2013,FCS,Morehead State,San Diego,KICK RETURNS,Mason,Rutherford,LONG,24
+7435185,11/9/2013,FCS,Morehead State,San Diego,KICK RETURNS,Justin,Cornwall,NO,1
+7435186,11/9/2013,FCS,Morehead State,San Diego,KICK RETURNS,Justin,Cornwall,YDS,26
+7435187,11/9/2013,FCS,Morehead State,San Diego,KICK RETURNS,Justin,Cornwall,AVG,26.0
+7435188,11/9/2013,FCS,Morehead State,San Diego,KICK RETURNS,Justin,Cornwall,LONG,26

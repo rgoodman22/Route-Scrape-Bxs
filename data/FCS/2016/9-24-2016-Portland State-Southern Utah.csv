@@ -1,0 +1,149 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9468001,9/24/2016,FCS,Portland State,Southern Utah,RUSHING,Alex,Kuresa,ATT,18
+9468002,9/24/2016,FCS,Portland State,Southern Utah,RUSHING,Alex,Kuresa,YDS,133
+9468003,9/24/2016,FCS,Portland State,Southern Utah,RUSHING,Alex,Kuresa,TD,1
+9468004,9/24/2016,FCS,Portland State,Southern Utah,RUSHING,Alex,Kuresa,LONG,20
+9468005,9/24/2016,FCS,Portland State,Southern Utah,RUSHING,Nate,Tago,ATT,15
+9468006,9/24/2016,FCS,Portland State,Southern Utah,RUSHING,Nate,Tago,YDS,47
+9468007,9/24/2016,FCS,Portland State,Southern Utah,RUSHING,Nate,Tago,TD,1
+9468008,9/24/2016,FCS,Portland State,Southern Utah,RUSHING,Nate,Tago,LONG,12
+9468009,9/24/2016,FCS,Portland State,Southern Utah,RUSHING,Kahlil,Dawson,ATT,3
+9468010,9/24/2016,FCS,Portland State,Southern Utah,RUSHING,Kahlil,Dawson,YDS,24
+9468011,9/24/2016,FCS,Portland State,Southern Utah,RUSHING,Kahlil,Dawson,TD,0
+9468012,9/24/2016,FCS,Portland State,Southern Utah,RUSHING,Kahlil,Dawson,LONG,20
+9468013,9/24/2016,FCS,Portland State,Southern Utah,RUSHING,Paris,Penn,ATT,9
+9468014,9/24/2016,FCS,Portland State,Southern Utah,RUSHING,Paris,Penn,YDS,12
+9468015,9/24/2016,FCS,Portland State,Southern Utah,RUSHING,Paris,Penn,TD,0
+9468016,9/24/2016,FCS,Portland State,Southern Utah,RUSHING,Paris,Penn,LONG,6
+9468017,9/24/2016,FCS,Portland State,Southern Utah,RUSHING,Austin,Holman,ATT,1
+9468018,9/24/2016,FCS,Portland State,Southern Utah,RUSHING,Austin,Holman,YDS,9
+9468019,9/24/2016,FCS,Portland State,Southern Utah,RUSHING,Austin,Holman,TD,0
+9468020,9/24/2016,FCS,Portland State,Southern Utah,RUSHING,Austin,Holman,LONG,9
+9468021,9/24/2016,FCS,Portland State,Southern Utah,RUSHING,Mitchell,Thompson,ATT,3
+9468022,9/24/2016,FCS,Portland State,Southern Utah,RUSHING,Mitchell,Thompson,YDS,9
+9468023,9/24/2016,FCS,Portland State,Southern Utah,RUSHING,Mitchell,Thompson,TD,0
+9468024,9/24/2016,FCS,Portland State,Southern Utah,RUSHING,Mitchell,Thompson,LONG,8
+9468025,9/24/2016,FCS,Portland State,Southern Utah,PASSING,Alex,Kuresa,CP-ATT-INT,15-33-4
+9468026,9/24/2016,FCS,Portland State,Southern Utah,PASSING,Alex,Kuresa,YDS,264
+9468027,9/24/2016,FCS,Portland State,Southern Utah,PASSING,Alex,Kuresa,TD,2
+9468028,9/24/2016,FCS,Portland State,Southern Utah,PASSING,Alex,Kuresa,LONG,42
+9468029,9/24/2016,FCS,Portland State,Southern Utah,PASSING,Paris,Penn,CP-ATT-INT,1-1-0
+9468030,9/24/2016,FCS,Portland State,Southern Utah,PASSING,Paris,Penn,YDS,11
+9468031,9/24/2016,FCS,Portland State,Southern Utah,PASSING,Paris,Penn,TD,0
+9468032,9/24/2016,FCS,Portland State,Southern Utah,PASSING,Paris,Penn,LONG,11
+9468033,9/24/2016,FCS,Portland State,Southern Utah,RECEIVING,Maximo,Espitia,REC,7
+9468034,9/24/2016,FCS,Portland State,Southern Utah,RECEIVING,Maximo,Espitia,YDS,138
+9468035,9/24/2016,FCS,Portland State,Southern Utah,RECEIVING,Maximo,Espitia,TD,1
+9468036,9/24/2016,FCS,Portland State,Southern Utah,RECEIVING,Maximo,Espitia,LONG,42
+9468037,9/24/2016,FCS,Portland State,Southern Utah,RECEIVING,Austin,Holman,REC,3
+9468038,9/24/2016,FCS,Portland State,Southern Utah,RECEIVING,Austin,Holman,YDS,42
+9468039,9/24/2016,FCS,Portland State,Southern Utah,RECEIVING,Austin,Holman,TD,0
+9468040,9/24/2016,FCS,Portland State,Southern Utah,RECEIVING,Austin,Holman,LONG,30
+9468041,9/24/2016,FCS,Portland State,Southern Utah,RECEIVING,Josh,Kraght,REC,3
+9468042,9/24/2016,FCS,Portland State,Southern Utah,RECEIVING,Josh,Kraght,YDS,39
+9468043,9/24/2016,FCS,Portland State,Southern Utah,RECEIVING,Josh,Kraght,TD,0
+9468044,9/24/2016,FCS,Portland State,Southern Utah,RECEIVING,Josh,Kraght,LONG,14
+9468045,9/24/2016,FCS,Portland State,Southern Utah,RECEIVING,Paris,Penn,REC,1
+9468046,9/24/2016,FCS,Portland State,Southern Utah,RECEIVING,Paris,Penn,YDS,34
+9468047,9/24/2016,FCS,Portland State,Southern Utah,RECEIVING,Paris,Penn,TD,1
+9468048,9/24/2016,FCS,Portland State,Southern Utah,RECEIVING,Paris,Penn,LONG,34
+9468049,9/24/2016,FCS,Portland State,Southern Utah,RECEIVING,Charlie,Taumopeau,REC,1
+9468050,9/24/2016,FCS,Portland State,Southern Utah,RECEIVING,Charlie,Taumopeau,YDS,16
+9468051,9/24/2016,FCS,Portland State,Southern Utah,RECEIVING,Charlie,Taumopeau,TD,0
+9468052,9/24/2016,FCS,Portland State,Southern Utah,RECEIVING,Charlie,Taumopeau,LONG,16
+9468053,9/24/2016,FCS,Portland State,Southern Utah,RECEIVING,Trent,Riley,REC,1
+9468054,9/24/2016,FCS,Portland State,Southern Utah,RECEIVING,Trent,Riley,YDS,6
+9468055,9/24/2016,FCS,Portland State,Southern Utah,RECEIVING,Trent,Riley,TD,0
+9468056,9/24/2016,FCS,Portland State,Southern Utah,RECEIVING,Trent,Riley,LONG,6
+9468057,9/24/2016,FCS,Portland State,Southern Utah,KICKING,Jonathan,Gonzales,FG-FGA,1/1
+9468058,9/24/2016,FCS,Portland State,Southern Utah,KICKING,Jonathan,Gonzales,LONG,37
+9468059,9/24/2016,FCS,Portland State,Southern Utah,KICKING,Jonathan,Gonzales,XP,4
+9468060,9/24/2016,FCS,Portland State,Southern Utah,KICKING,Jonathan,Gonzales,PTS,7
+9468061,9/24/2016,FCS,Portland State,Southern Utah,PUNTING,Marcus,Kinsella,NO,5
+9468062,9/24/2016,FCS,Portland State,Southern Utah,PUNTING,Marcus,Kinsella,YDS,260
+9468063,9/24/2016,FCS,Portland State,Southern Utah,PUNTING,Marcus,Kinsella,AVG,52.0
+9468064,9/24/2016,FCS,Portland State,Southern Utah,PUNTING,Marcus,Kinsella,LONG,67
+9468065,9/24/2016,FCS,Portland State,Southern Utah,KICK RETURNS,Kahlil,Dawson,NO,1
+9468066,9/24/2016,FCS,Portland State,Southern Utah,KICK RETURNS,Kahlil,Dawson,YDS,40
+9468067,9/24/2016,FCS,Portland State,Southern Utah,KICK RETURNS,Kahlil,Dawson,AVG,40.0
+9468068,9/24/2016,FCS,Portland State,Southern Utah,KICK RETURNS,Kahlil,Dawson,LONG,40
+9468069,9/24/2016,FCS,Portland State,Southern Utah,KICK RETURNS,Zach,Floyd,NO,1
+9468070,9/24/2016,FCS,Portland State,Southern Utah,KICK RETURNS,Zach,Floyd,YDS,10
+9468071,9/24/2016,FCS,Portland State,Southern Utah,KICK RETURNS,Zach,Floyd,AVG,10.0
+9468072,9/24/2016,FCS,Portland State,Southern Utah,KICK RETURNS,Zach,Floyd,LONG,10
+9468073,9/24/2016,FCS,Portland State,Southern Utah,KICK RETURNS,Anthony,Jenkins,NO,1
+9468074,9/24/2016,FCS,Portland State,Southern Utah,KICK RETURNS,Anthony,Jenkins,YDS,4
+9468075,9/24/2016,FCS,Portland State,Southern Utah,KICK RETURNS,Anthony,Jenkins,AVG,4.0
+9468076,9/24/2016,FCS,Portland State,Southern Utah,KICK RETURNS,Anthony,Jenkins,LONG,4
+9468077,9/24/2016,FCS,Southern Utah,Portland State,RUSHING,Malik,Brown,ATT,15
+9468078,9/24/2016,FCS,Southern Utah,Portland State,RUSHING,Malik,Brown,YDS,173
+9468079,9/24/2016,FCS,Southern Utah,Portland State,RUSHING,Malik,Brown,TD,1
+9468080,9/24/2016,FCS,Southern Utah,Portland State,RUSHING,Malik,Brown,LONG,87
+9468081,9/24/2016,FCS,Southern Utah,Portland State,RUSHING,Raysean,Pringle,ATT,8
+9468082,9/24/2016,FCS,Southern Utah,Portland State,RUSHING,Raysean,Pringle,YDS,118
+9468083,9/24/2016,FCS,Southern Utah,Portland State,RUSHING,Raysean,Pringle,TD,2
+9468084,9/24/2016,FCS,Southern Utah,Portland State,RUSHING,Raysean,Pringle,LONG,71
+9468085,9/24/2016,FCS,Southern Utah,Portland State,RUSHING,James,Felila,ATT,4
+9468086,9/24/2016,FCS,Southern Utah,Portland State,RUSHING,James,Felila,YDS,7
+9468087,9/24/2016,FCS,Southern Utah,Portland State,RUSHING,James,Felila,TD,0
+9468088,9/24/2016,FCS,Southern Utah,Portland State,RUSHING,James,Felila,LONG,4
+9468089,9/24/2016,FCS,Southern Utah,Portland State,RUSHING,Patrick,Tyler,ATT,3
+9468090,9/24/2016,FCS,Southern Utah,Portland State,RUSHING,Patrick,Tyler,YDS,1
+9468091,9/24/2016,FCS,Southern Utah,Portland State,RUSHING,Patrick,Tyler,TD,0
+9468092,9/24/2016,FCS,Southern Utah,Portland State,RUSHING,Patrick,Tyler,LONG,2
+9468093,9/24/2016,FCS,Southern Utah,Portland State,RUSHING,Mike,Sharp,ATT,2
+9468094,9/24/2016,FCS,Southern Utah,Portland State,RUSHING,Mike,Sharp,YDS,-7
+9468095,9/24/2016,FCS,Southern Utah,Portland State,RUSHING,Mike,Sharp,TD,0
+9468096,9/24/2016,FCS,Southern Utah,Portland State,RUSHING,Mike,Sharp,LONG,0
+9468097,9/24/2016,FCS,Southern Utah,Portland State,PASSING,Patrick,Tyler,CP-ATT-INT,15-30-2
+9468098,9/24/2016,FCS,Southern Utah,Portland State,PASSING,Patrick,Tyler,YDS,249
+9468099,9/24/2016,FCS,Southern Utah,Portland State,PASSING,Patrick,Tyler,TD,2
+9468100,9/24/2016,FCS,Southern Utah,Portland State,PASSING,Patrick,Tyler,LONG,90
+9468101,9/24/2016,FCS,Southern Utah,Portland State,RECEIVING,Mike,Sharp,REC,5
+9468102,9/24/2016,FCS,Southern Utah,Portland State,RECEIVING,Mike,Sharp,YDS,139
+9468103,9/24/2016,FCS,Southern Utah,Portland State,RECEIVING,Mike,Sharp,TD,2
+9468104,9/24/2016,FCS,Southern Utah,Portland State,RECEIVING,Mike,Sharp,LONG,90
+9468105,9/24/2016,FCS,Southern Utah,Portland State,RECEIVING,Isaiah,Diego-Williams,REC,1
+9468106,9/24/2016,FCS,Southern Utah,Portland State,RECEIVING,Isaiah,Diego-Williams,YDS,39
+9468107,9/24/2016,FCS,Southern Utah,Portland State,RECEIVING,Isaiah,Diego-Williams,TD,0
+9468108,9/24/2016,FCS,Southern Utah,Portland State,RECEIVING,Isaiah,Diego-Williams,LONG,39
+9468109,9/24/2016,FCS,Southern Utah,Portland State,RECEIVING,Steven,Wroblewski,REC,3
+9468110,9/24/2016,FCS,Southern Utah,Portland State,RECEIVING,Steven,Wroblewski,YDS,32
+9468111,9/24/2016,FCS,Southern Utah,Portland State,RECEIVING,Steven,Wroblewski,TD,0
+9468112,9/24/2016,FCS,Southern Utah,Portland State,RECEIVING,Steven,Wroblewski,LONG,24
+9468113,9/24/2016,FCS,Southern Utah,Portland State,RECEIVING,DeSean,Holmes,REC,2
+9468114,9/24/2016,FCS,Southern Utah,Portland State,RECEIVING,DeSean,Holmes,YDS,13
+9468115,9/24/2016,FCS,Southern Utah,Portland State,RECEIVING,DeSean,Holmes,TD,0
+9468116,9/24/2016,FCS,Southern Utah,Portland State,RECEIVING,DeSean,Holmes,LONG,9
+9468117,9/24/2016,FCS,Southern Utah,Portland State,RECEIVING,Malik,Brown,REC,1
+9468118,9/24/2016,FCS,Southern Utah,Portland State,RECEIVING,Malik,Brown,YDS,13
+9468119,9/24/2016,FCS,Southern Utah,Portland State,RECEIVING,Malik,Brown,TD,0
+9468120,9/24/2016,FCS,Southern Utah,Portland State,RECEIVING,Malik,Brown,LONG,13
+9468121,9/24/2016,FCS,Southern Utah,Portland State,RECEIVING,Brady,Measom,REC,2
+9468122,9/24/2016,FCS,Southern Utah,Portland State,RECEIVING,Brady,Measom,YDS,7
+9468123,9/24/2016,FCS,Southern Utah,Portland State,RECEIVING,Brady,Measom,TD,0
+9468124,9/24/2016,FCS,Southern Utah,Portland State,RECEIVING,Brady,Measom,LONG,4
+9468125,9/24/2016,FCS,Southern Utah,Portland State,RECEIVING,Raysean,Pringle,REC,1
+9468126,9/24/2016,FCS,Southern Utah,Portland State,RECEIVING,Raysean,Pringle,YDS,6
+9468127,9/24/2016,FCS,Southern Utah,Portland State,RECEIVING,Raysean,Pringle,TD,0
+9468128,9/24/2016,FCS,Southern Utah,Portland State,RECEIVING,Raysean,Pringle,LONG,6
+9468129,9/24/2016,FCS,Southern Utah,Portland State,KICKING,Keita,Calhoun,FG-FGA,1/2
+9468130,9/24/2016,FCS,Southern Utah,Portland State,KICKING,Keita,Calhoun,LONG,41
+9468131,9/24/2016,FCS,Southern Utah,Portland State,KICKING,Keita,Calhoun,XP,6
+9468132,9/24/2016,FCS,Southern Utah,Portland State,KICKING,Keita,Calhoun,PTS,9
+9468133,9/24/2016,FCS,Southern Utah,Portland State,PUNTING,Tate,Lewis,NO,8
+9468134,9/24/2016,FCS,Southern Utah,Portland State,PUNTING,Tate,Lewis,YDS,313
+9468135,9/24/2016,FCS,Southern Utah,Portland State,PUNTING,Tate,Lewis,AVG,39.1
+9468136,9/24/2016,FCS,Southern Utah,Portland State,PUNTING,Tate,Lewis,LONG,51
+9468137,9/24/2016,FCS,Southern Utah,Portland State,PUNT RETURNS,Brady,Measom,NO,1
+9468138,9/24/2016,FCS,Southern Utah,Portland State,PUNT RETURNS,Brady,Measom,YDS,2
+9468139,9/24/2016,FCS,Southern Utah,Portland State,PUNT RETURNS,Brady,Measom,AVG,2.0
+9468140,9/24/2016,FCS,Southern Utah,Portland State,PUNT RETURNS,Brady,Measom,LONG,2
+9468141,9/24/2016,FCS,Southern Utah,Portland State,PUNT RETURNS,Tannon,Pedersen,NO,1
+9468142,9/24/2016,FCS,Southern Utah,Portland State,PUNT RETURNS,Tannon,Pedersen,YDS,0
+9468143,9/24/2016,FCS,Southern Utah,Portland State,PUNT RETURNS,Tannon,Pedersen,AVG,-
+9468144,9/24/2016,FCS,Southern Utah,Portland State,PUNT RETURNS,Tannon,Pedersen,LONG,0
+9468145,9/24/2016,FCS,Southern Utah,Portland State,KICK RETURNS,Raysean,Pringle,NO,2
+9468146,9/24/2016,FCS,Southern Utah,Portland State,KICK RETURNS,Raysean,Pringle,YDS,13
+9468147,9/24/2016,FCS,Southern Utah,Portland State,KICK RETURNS,Raysean,Pringle,AVG,6.5
+9468148,9/24/2016,FCS,Southern Utah,Portland State,KICK RETURNS,Raysean,Pringle,LONG,13

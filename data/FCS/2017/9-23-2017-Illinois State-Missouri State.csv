@@ -1,0 +1,173 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+10223001,9/23/2017,FCS,Illinois State,Missouri State,RUSHING,James,Robinson,ATT,10
+10223002,9/23/2017,FCS,Illinois State,Missouri State,RUSHING,James,Robinson,YDS,81
+10223003,9/23/2017,FCS,Illinois State,Missouri State,RUSHING,James,Robinson,TD,1
+10223004,9/23/2017,FCS,Illinois State,Missouri State,RUSHING,James,Robinson,LONG,18
+10223005,9/23/2017,FCS,Illinois State,Missouri State,RUSHING,Markel,Smith,ATT,7
+10223006,9/23/2017,FCS,Illinois State,Missouri State,RUSHING,Markel,Smith,YDS,42
+10223007,9/23/2017,FCS,Illinois State,Missouri State,RUSHING,Markel,Smith,TD,1
+10223008,9/23/2017,FCS,Illinois State,Missouri State,RUSHING,Markel,Smith,LONG,22
+10223009,9/23/2017,FCS,Illinois State,Missouri State,RUSHING,Malachi,Broadnax,ATT,3
+10223010,9/23/2017,FCS,Illinois State,Missouri State,RUSHING,Malachi,Broadnax,YDS,15
+10223011,9/23/2017,FCS,Illinois State,Missouri State,RUSHING,Malachi,Broadnax,TD,0
+10223012,9/23/2017,FCS,Illinois State,Missouri State,RUSHING,Malachi,Broadnax,LONG,8
+10223013,9/23/2017,FCS,Illinois State,Missouri State,RUSHING,Jake,Kolbe,ATT,2
+10223014,9/23/2017,FCS,Illinois State,Missouri State,RUSHING,Jake,Kolbe,YDS,8
+10223015,9/23/2017,FCS,Illinois State,Missouri State,RUSHING,Jake,Kolbe,TD,1
+10223016,9/23/2017,FCS,Illinois State,Missouri State,RUSHING,Jake,Kolbe,LONG,7
+10223017,9/23/2017,FCS,Illinois State,Missouri State,RUSHING,Artiss,Henderson,ATT,4
+10223018,9/23/2017,FCS,Illinois State,Missouri State,RUSHING,Artiss,Henderson,YDS,5
+10223019,9/23/2017,FCS,Illinois State,Missouri State,RUSHING,Artiss,Henderson,TD,0
+10223020,9/23/2017,FCS,Illinois State,Missouri State,RUSHING,Artiss,Henderson,LONG,4
+10223021,9/23/2017,FCS,Illinois State,Missouri State,RUSHING,Jordan,Birch,ATT,1
+10223022,9/23/2017,FCS,Illinois State,Missouri State,RUSHING,Jordan,Birch,YDS,3
+10223023,9/23/2017,FCS,Illinois State,Missouri State,RUSHING,Jordan,Birch,TD,0
+10223024,9/23/2017,FCS,Illinois State,Missouri State,RUSHING,Jordan,Birch,LONG,3
+10223025,9/23/2017,FCS,Illinois State,Missouri State,RUSHING,Bryce,Jefferson,ATT,1
+10223026,9/23/2017,FCS,Illinois State,Missouri State,RUSHING,Bryce,Jefferson,YDS,2
+10223027,9/23/2017,FCS,Illinois State,Missouri State,RUSHING,Bryce,Jefferson,TD,0
+10223028,9/23/2017,FCS,Illinois State,Missouri State,RUSHING,Bryce,Jefferson,LONG,2
+10223029,9/23/2017,FCS,Illinois State,Missouri State,RUSHING,,Team,ATT,2
+10223030,9/23/2017,FCS,Illinois State,Missouri State,RUSHING,,Team,YDS,-4
+10223031,9/23/2017,FCS,Illinois State,Missouri State,RUSHING,,Team,TD,0
+10223032,9/23/2017,FCS,Illinois State,Missouri State,RUSHING,,Team,LONG,0
+10223033,9/23/2017,FCS,Illinois State,Missouri State,PASSING,Jake,Kolbe,CP-ATT-INT,24-32-1
+10223034,9/23/2017,FCS,Illinois State,Missouri State,PASSING,Jake,Kolbe,YDS,312
+10223035,9/23/2017,FCS,Illinois State,Missouri State,PASSING,Jake,Kolbe,TD,1
+10223036,9/23/2017,FCS,Illinois State,Missouri State,PASSING,Jake,Kolbe,LONG,31
+10223037,9/23/2017,FCS,Illinois State,Missouri State,PASSING,Malachi,Broadnax,CP-ATT-INT,0-2-0
+10223038,9/23/2017,FCS,Illinois State,Missouri State,PASSING,Malachi,Broadnax,YDS,0
+10223039,9/23/2017,FCS,Illinois State,Missouri State,PASSING,Malachi,Broadnax,TD,0
+10223040,9/23/2017,FCS,Illinois State,Missouri State,PASSING,Malachi,Broadnax,LONG,0
+10223041,9/23/2017,FCS,Illinois State,Missouri State,RECEIVING,Spencer,Schnell,REC,9
+10223042,9/23/2017,FCS,Illinois State,Missouri State,RECEIVING,Spencer,Schnell,YDS,135
+10223043,9/23/2017,FCS,Illinois State,Missouri State,RECEIVING,Spencer,Schnell,TD,0
+10223044,9/23/2017,FCS,Illinois State,Missouri State,RECEIVING,Spencer,Schnell,LONG,29
+10223045,9/23/2017,FCS,Illinois State,Missouri State,RECEIVING,Anthony,Fowler,REC,3
+10223046,9/23/2017,FCS,Illinois State,Missouri State,RECEIVING,Anthony,Fowler,YDS,70
+10223047,9/23/2017,FCS,Illinois State,Missouri State,RECEIVING,Anthony,Fowler,TD,1
+10223048,9/23/2017,FCS,Illinois State,Missouri State,RECEIVING,Anthony,Fowler,LONG,31
+10223049,9/23/2017,FCS,Illinois State,Missouri State,RECEIVING,Christian,Gibbs,REC,5
+10223050,9/23/2017,FCS,Illinois State,Missouri State,RECEIVING,Christian,Gibbs,YDS,56
+10223051,9/23/2017,FCS,Illinois State,Missouri State,RECEIVING,Christian,Gibbs,TD,0
+10223052,9/23/2017,FCS,Illinois State,Missouri State,RECEIVING,Christian,Gibbs,LONG,17
+10223053,9/23/2017,FCS,Illinois State,Missouri State,RECEIVING,Bryce,Jefferson,REC,1
+10223054,9/23/2017,FCS,Illinois State,Missouri State,RECEIVING,Bryce,Jefferson,YDS,19
+10223055,9/23/2017,FCS,Illinois State,Missouri State,RECEIVING,Bryce,Jefferson,TD,0
+10223056,9/23/2017,FCS,Illinois State,Missouri State,RECEIVING,Bryce,Jefferson,LONG,19
+10223057,9/23/2017,FCS,Illinois State,Missouri State,RECEIVING,Matt,Biegalski,REC,2
+10223058,9/23/2017,FCS,Illinois State,Missouri State,RECEIVING,Matt,Biegalski,YDS,14
+10223059,9/23/2017,FCS,Illinois State,Missouri State,RECEIVING,Matt,Biegalski,TD,0
+10223060,9/23/2017,FCS,Illinois State,Missouri State,RECEIVING,Matt,Biegalski,LONG,7
+10223061,9/23/2017,FCS,Illinois State,Missouri State,RECEIVING,Markel,Smith,REC,2
+10223062,9/23/2017,FCS,Illinois State,Missouri State,RECEIVING,Markel,Smith,YDS,8
+10223063,9/23/2017,FCS,Illinois State,Missouri State,RECEIVING,Markel,Smith,TD,0
+10223064,9/23/2017,FCS,Illinois State,Missouri State,RECEIVING,Markel,Smith,LONG,5
+10223065,9/23/2017,FCS,Illinois State,Missouri State,RECEIVING,Tylor,Petkovich,REC,1
+10223066,9/23/2017,FCS,Illinois State,Missouri State,RECEIVING,Tylor,Petkovich,YDS,6
+10223067,9/23/2017,FCS,Illinois State,Missouri State,RECEIVING,Tylor,Petkovich,TD,0
+10223068,9/23/2017,FCS,Illinois State,Missouri State,RECEIVING,Tylor,Petkovich,LONG,6
+10223069,9/23/2017,FCS,Illinois State,Missouri State,RECEIVING,James,Robinson,REC,1
+10223070,9/23/2017,FCS,Illinois State,Missouri State,RECEIVING,James,Robinson,YDS,4
+10223071,9/23/2017,FCS,Illinois State,Missouri State,RECEIVING,James,Robinson,TD,0
+10223072,9/23/2017,FCS,Illinois State,Missouri State,RECEIVING,James,Robinson,LONG,4
+10223073,9/23/2017,FCS,Illinois State,Missouri State,KICKING,Sean,Slattery,FG-FGA,2/2
+10223074,9/23/2017,FCS,Illinois State,Missouri State,KICKING,Sean,Slattery,LONG,48
+10223075,9/23/2017,FCS,Illinois State,Missouri State,KICKING,Sean,Slattery,XP,4
+10223076,9/23/2017,FCS,Illinois State,Missouri State,KICKING,Sean,Slattery,PTS,10
+10223077,9/23/2017,FCS,Illinois State,Missouri State,PUNTING,Zach,Breen,NO,2
+10223078,9/23/2017,FCS,Illinois State,Missouri State,PUNTING,Zach,Breen,YDS,88
+10223079,9/23/2017,FCS,Illinois State,Missouri State,PUNTING,Zach,Breen,AVG,44.0
+10223080,9/23/2017,FCS,Illinois State,Missouri State,PUNTING,Zach,Breen,LONG,48
+10223081,9/23/2017,FCS,Illinois State,Missouri State,KICK RETURNS,Artiss,Henderson,NO,1
+10223082,9/23/2017,FCS,Illinois State,Missouri State,KICK RETURNS,Artiss,Henderson,YDS,46
+10223083,9/23/2017,FCS,Illinois State,Missouri State,KICK RETURNS,Artiss,Henderson,AVG,46.0
+10223084,9/23/2017,FCS,Illinois State,Missouri State,KICK RETURNS,Artiss,Henderson,LONG,46
+10223085,9/23/2017,FCS,Illinois State,Missouri State,KICK RETURNS,Markel,Smith,NO,1
+10223086,9/23/2017,FCS,Illinois State,Missouri State,KICK RETURNS,Markel,Smith,YDS,9
+10223087,9/23/2017,FCS,Illinois State,Missouri State,KICK RETURNS,Markel,Smith,AVG,9.0
+10223088,9/23/2017,FCS,Illinois State,Missouri State,KICK RETURNS,Markel,Smith,LONG,9
+10223089,9/23/2017,FCS,Missouri State,Illinois State,RUSHING,Deion,Holliman,ATT,3
+10223090,9/23/2017,FCS,Missouri State,Illinois State,RUSHING,Deion,Holliman,YDS,51
+10223091,9/23/2017,FCS,Missouri State,Illinois State,RUSHING,Deion,Holliman,TD,1
+10223092,9/23/2017,FCS,Missouri State,Illinois State,RUSHING,Deion,Holliman,LONG,53
+10223093,9/23/2017,FCS,Missouri State,Illinois State,RUSHING,Peyton,Huslig,ATT,14
+10223094,9/23/2017,FCS,Missouri State,Illinois State,RUSHING,Peyton,Huslig,YDS,43
+10223095,9/23/2017,FCS,Missouri State,Illinois State,RUSHING,Peyton,Huslig,TD,0
+10223096,9/23/2017,FCS,Missouri State,Illinois State,RUSHING,Peyton,Huslig,LONG,22
+10223097,9/23/2017,FCS,Missouri State,Illinois State,RUSHING,Myron,Mason,ATT,5
+10223098,9/23/2017,FCS,Missouri State,Illinois State,RUSHING,Myron,Mason,YDS,23
+10223099,9/23/2017,FCS,Missouri State,Illinois State,RUSHING,Myron,Mason,TD,0
+10223100,9/23/2017,FCS,Missouri State,Illinois State,RUSHING,Myron,Mason,LONG,9
+10223101,9/23/2017,FCS,Missouri State,Illinois State,RUSHING,Malik,Earl,ATT,1
+10223102,9/23/2017,FCS,Missouri State,Illinois State,RUSHING,Malik,Earl,YDS,20
+10223103,9/23/2017,FCS,Missouri State,Illinois State,RUSHING,Malik,Earl,TD,0
+10223104,9/23/2017,FCS,Missouri State,Illinois State,RUSHING,Malik,Earl,LONG,20
+10223105,9/23/2017,FCS,Missouri State,Illinois State,RUSHING,Calan,Crowder,ATT,4
+10223106,9/23/2017,FCS,Missouri State,Illinois State,RUSHING,Calan,Crowder,YDS,16
+10223107,9/23/2017,FCS,Missouri State,Illinois State,RUSHING,Calan,Crowder,TD,0
+10223108,9/23/2017,FCS,Missouri State,Illinois State,RUSHING,Calan,Crowder,LONG,9
+10223109,9/23/2017,FCS,Missouri State,Illinois State,RUSHING,Jason,Randall,ATT,4
+10223110,9/23/2017,FCS,Missouri State,Illinois State,RUSHING,Jason,Randall,YDS,8
+10223111,9/23/2017,FCS,Missouri State,Illinois State,RUSHING,Jason,Randall,TD,0
+10223112,9/23/2017,FCS,Missouri State,Illinois State,RUSHING,Jason,Randall,LONG,5
+10223113,9/23/2017,FCS,Missouri State,Illinois State,RUSHING,Nick,Masoner,ATT,1
+10223114,9/23/2017,FCS,Missouri State,Illinois State,RUSHING,Nick,Masoner,YDS,1
+10223115,9/23/2017,FCS,Missouri State,Illinois State,RUSHING,Nick,Masoner,TD,0
+10223116,9/23/2017,FCS,Missouri State,Illinois State,RUSHING,Nick,Masoner,LONG,1
+10223117,9/23/2017,FCS,Missouri State,Illinois State,RUSHING,Tyler,Currie,ATT,1
+10223118,9/23/2017,FCS,Missouri State,Illinois State,RUSHING,Tyler,Currie,YDS,-4
+10223119,9/23/2017,FCS,Missouri State,Illinois State,RUSHING,Tyler,Currie,TD,0
+10223120,9/23/2017,FCS,Missouri State,Illinois State,RUSHING,Tyler,Currie,LONG,0
+10223121,9/23/2017,FCS,Missouri State,Illinois State,RUSHING,,Team,ATT,1
+10223122,9/23/2017,FCS,Missouri State,Illinois State,RUSHING,,Team,YDS,-4
+10223123,9/23/2017,FCS,Missouri State,Illinois State,RUSHING,,Team,TD,0
+10223124,9/23/2017,FCS,Missouri State,Illinois State,RUSHING,,Team,LONG,0
+10223125,9/23/2017,FCS,Missouri State,Illinois State,PASSING,Peyton,Huslig,CP-ATT-INT,12-28-0
+10223126,9/23/2017,FCS,Missouri State,Illinois State,PASSING,Peyton,Huslig,YDS,157
+10223127,9/23/2017,FCS,Missouri State,Illinois State,PASSING,Peyton,Huslig,TD,0
+10223128,9/23/2017,FCS,Missouri State,Illinois State,PASSING,Peyton,Huslig,LONG,33
+10223129,9/23/2017,FCS,Missouri State,Illinois State,PASSING,,Team,CP-ATT-INT,0-2-0
+10223130,9/23/2017,FCS,Missouri State,Illinois State,PASSING,,Team,YDS,0
+10223131,9/23/2017,FCS,Missouri State,Illinois State,PASSING,,Team,TD,0
+10223132,9/23/2017,FCS,Missouri State,Illinois State,PASSING,,Team,LONG,0
+10223133,9/23/2017,FCS,Missouri State,Illinois State,RECEIVING,Malik,Earl,REC,4
+10223134,9/23/2017,FCS,Missouri State,Illinois State,RECEIVING,Malik,Earl,YDS,73
+10223135,9/23/2017,FCS,Missouri State,Illinois State,RECEIVING,Malik,Earl,TD,0
+10223136,9/23/2017,FCS,Missouri State,Illinois State,RECEIVING,Malik,Earl,LONG,33
+10223137,9/23/2017,FCS,Missouri State,Illinois State,RECEIVING,Jalen,Esters,REC,2
+10223138,9/23/2017,FCS,Missouri State,Illinois State,RECEIVING,Jalen,Esters,YDS,32
+10223139,9/23/2017,FCS,Missouri State,Illinois State,RECEIVING,Jalen,Esters,TD,0
+10223140,9/23/2017,FCS,Missouri State,Illinois State,RECEIVING,Jalen,Esters,LONG,23
+10223141,9/23/2017,FCS,Missouri State,Illinois State,RECEIVING,Deion,Holliman,REC,3
+10223142,9/23/2017,FCS,Missouri State,Illinois State,RECEIVING,Deion,Holliman,YDS,19
+10223143,9/23/2017,FCS,Missouri State,Illinois State,RECEIVING,Deion,Holliman,TD,0
+10223144,9/23/2017,FCS,Missouri State,Illinois State,RECEIVING,Deion,Holliman,LONG,9
+10223145,9/23/2017,FCS,Missouri State,Illinois State,RECEIVING,Tyler,Currie,REC,1
+10223146,9/23/2017,FCS,Missouri State,Illinois State,RECEIVING,Tyler,Currie,YDS,18
+10223147,9/23/2017,FCS,Missouri State,Illinois State,RECEIVING,Tyler,Currie,TD,0
+10223148,9/23/2017,FCS,Missouri State,Illinois State,RECEIVING,Tyler,Currie,LONG,18
+10223149,9/23/2017,FCS,Missouri State,Illinois State,RECEIVING,Myron,Mason,REC,1
+10223150,9/23/2017,FCS,Missouri State,Illinois State,RECEIVING,Myron,Mason,YDS,8
+10223151,9/23/2017,FCS,Missouri State,Illinois State,RECEIVING,Myron,Mason,TD,0
+10223152,9/23/2017,FCS,Missouri State,Illinois State,RECEIVING,Myron,Mason,LONG,8
+10223153,9/23/2017,FCS,Missouri State,Illinois State,RECEIVING,Erik,Furmanek,REC,1
+10223154,9/23/2017,FCS,Missouri State,Illinois State,RECEIVING,Erik,Furmanek,YDS,7
+10223155,9/23/2017,FCS,Missouri State,Illinois State,RECEIVING,Erik,Furmanek,TD,0
+10223156,9/23/2017,FCS,Missouri State,Illinois State,RECEIVING,Erik,Furmanek,LONG,7
+10223157,9/23/2017,FCS,Missouri State,Illinois State,KICKING,Zach,Drake,FG-FGA,1/3
+10223158,9/23/2017,FCS,Missouri State,Illinois State,KICKING,Zach,Drake,LONG,28
+10223159,9/23/2017,FCS,Missouri State,Illinois State,KICKING,Zach,Drake,XP,0
+10223160,9/23/2017,FCS,Missouri State,Illinois State,KICKING,Zach,Drake,PTS,3
+10223161,9/23/2017,FCS,Missouri State,Illinois State,PUNTING,Brendan,Withrow,NO,6
+10223162,9/23/2017,FCS,Missouri State,Illinois State,PUNTING,Brendan,Withrow,YDS,249
+10223163,9/23/2017,FCS,Missouri State,Illinois State,PUNTING,Brendan,Withrow,AVG,41.5
+10223164,9/23/2017,FCS,Missouri State,Illinois State,PUNTING,Brendan,Withrow,LONG,45
+10223165,9/23/2017,FCS,Missouri State,Illinois State,PUNT RETURNS,Deion,Holliman,NO,1
+10223166,9/23/2017,FCS,Missouri State,Illinois State,PUNT RETURNS,Deion,Holliman,YDS,0
+10223167,9/23/2017,FCS,Missouri State,Illinois State,PUNT RETURNS,Deion,Holliman,AVG,-
+10223168,9/23/2017,FCS,Missouri State,Illinois State,PUNT RETURNS,Deion,Holliman,LONG,0
+10223169,9/23/2017,FCS,Missouri State,Illinois State,KICK RETURNS,Deion,Holliman,NO,3
+10223170,9/23/2017,FCS,Missouri State,Illinois State,KICK RETURNS,Deion,Holliman,YDS,67
+10223171,9/23/2017,FCS,Missouri State,Illinois State,KICK RETURNS,Deion,Holliman,AVG,22.3
+10223172,9/23/2017,FCS,Missouri State,Illinois State,KICK RETURNS,Deion,Holliman,LONG,25

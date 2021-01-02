@@ -1,0 +1,133 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+10579001,11/4/2017,FCS,Lehigh,Bucknell,RUSHING,Dominick,Bragalone,ATT,21
+10579002,11/4/2017,FCS,Lehigh,Bucknell,RUSHING,Dominick,Bragalone,YDS,136
+10579003,11/4/2017,FCS,Lehigh,Bucknell,RUSHING,Dominick,Bragalone,TD,3
+10579004,11/4/2017,FCS,Lehigh,Bucknell,RUSHING,Dominick,Bragalone,LONG,44
+10579005,11/4/2017,FCS,Lehigh,Bucknell,RUSHING,Micco,Brisker,ATT,12
+10579006,11/4/2017,FCS,Lehigh,Bucknell,RUSHING,Micco,Brisker,YDS,58
+10579007,11/4/2017,FCS,Lehigh,Bucknell,RUSHING,Micco,Brisker,TD,1
+10579008,11/4/2017,FCS,Lehigh,Bucknell,RUSHING,Micco,Brisker,LONG,22
+10579009,11/4/2017,FCS,Lehigh,Bucknell,RUSHING,Nana,Amankwah-Ayeh,ATT,6
+10579010,11/4/2017,FCS,Lehigh,Bucknell,RUSHING,Nana,Amankwah-Ayeh,YDS,8
+10579011,11/4/2017,FCS,Lehigh,Bucknell,RUSHING,Nana,Amankwah-Ayeh,TD,0
+10579012,11/4/2017,FCS,Lehigh,Bucknell,RUSHING,Nana,Amankwah-Ayeh,LONG,5
+10579013,11/4/2017,FCS,Lehigh,Bucknell,RUSHING,Brad,Mayes,ATT,4
+10579014,11/4/2017,FCS,Lehigh,Bucknell,RUSHING,Brad,Mayes,YDS,-12
+10579015,11/4/2017,FCS,Lehigh,Bucknell,RUSHING,Brad,Mayes,TD,0
+10579016,11/4/2017,FCS,Lehigh,Bucknell,RUSHING,Brad,Mayes,LONG,3
+10579017,11/4/2017,FCS,Lehigh,Bucknell,PASSING,Brad,Mayes,CP-ATT-INT,17-25-1
+10579018,11/4/2017,FCS,Lehigh,Bucknell,PASSING,Brad,Mayes,YDS,193
+10579019,11/4/2017,FCS,Lehigh,Bucknell,PASSING,Brad,Mayes,TD,2
+10579020,11/4/2017,FCS,Lehigh,Bucknell,PASSING,Brad,Mayes,LONG,47
+10579021,11/4/2017,FCS,Lehigh,Bucknell,RECEIVING,Troy,Pelletier,REC,9
+10579022,11/4/2017,FCS,Lehigh,Bucknell,RECEIVING,Troy,Pelletier,YDS,97
+10579023,11/4/2017,FCS,Lehigh,Bucknell,RECEIVING,Troy,Pelletier,TD,0
+10579024,11/4/2017,FCS,Lehigh,Bucknell,RECEIVING,Troy,Pelletier,LONG,19
+10579025,11/4/2017,FCS,Lehigh,Bucknell,RECEIVING,Gatlin,Casey,REC,5
+10579026,11/4/2017,FCS,Lehigh,Bucknell,RECEIVING,Gatlin,Casey,YDS,88
+10579027,11/4/2017,FCS,Lehigh,Bucknell,RECEIVING,Gatlin,Casey,TD,2
+10579028,11/4/2017,FCS,Lehigh,Bucknell,RECEIVING,Gatlin,Casey,LONG,47
+10579029,11/4/2017,FCS,Lehigh,Bucknell,RECEIVING,Jorge,Portorreal,REC,3
+10579030,11/4/2017,FCS,Lehigh,Bucknell,RECEIVING,Jorge,Portorreal,YDS,8
+10579031,11/4/2017,FCS,Lehigh,Bucknell,RECEIVING,Jorge,Portorreal,TD,0
+10579032,11/4/2017,FCS,Lehigh,Bucknell,RECEIVING,Jorge,Portorreal,LONG,6
+10579033,11/4/2017,FCS,Lehigh,Bucknell,KICKING,Ed,Mish,FG-FGA,0/0
+10579034,11/4/2017,FCS,Lehigh,Bucknell,KICKING,Ed,Mish,LONG,-
+10579035,11/4/2017,FCS,Lehigh,Bucknell,KICKING,Ed,Mish,XP,6
+10579036,11/4/2017,FCS,Lehigh,Bucknell,KICKING,Ed,Mish,PTS,6
+10579037,11/4/2017,FCS,Lehigh,Bucknell,PUNTING,Ed,Mish,NO,4
+10579038,11/4/2017,FCS,Lehigh,Bucknell,PUNTING,Ed,Mish,YDS,178
+10579039,11/4/2017,FCS,Lehigh,Bucknell,PUNTING,Ed,Mish,AVG,44.5
+10579040,11/4/2017,FCS,Lehigh,Bucknell,PUNTING,Ed,Mish,LONG,50
+10579041,11/4/2017,FCS,Lehigh,Bucknell,PUNT RETURNS,Quentin,Jones,NO,2
+10579042,11/4/2017,FCS,Lehigh,Bucknell,PUNT RETURNS,Quentin,Jones,YDS,8
+10579043,11/4/2017,FCS,Lehigh,Bucknell,PUNT RETURNS,Quentin,Jones,AVG,4.0
+10579044,11/4/2017,FCS,Lehigh,Bucknell,PUNT RETURNS,Quentin,Jones,LONG,4
+10579045,11/4/2017,FCS,Lehigh,Bucknell,KICK RETURNS,Marc,Raye-RedmondJr.,NO,1
+10579046,11/4/2017,FCS,Lehigh,Bucknell,KICK RETURNS,Marc,Raye-RedmondJr.,YDS,41
+10579047,11/4/2017,FCS,Lehigh,Bucknell,KICK RETURNS,Marc,Raye-RedmondJr.,AVG,41.0
+10579048,11/4/2017,FCS,Lehigh,Bucknell,KICK RETURNS,Marc,Raye-RedmondJr.,LONG,41
+10579049,11/4/2017,FCS,Lehigh,Bucknell,KICK RETURNS,Devon,Bibbens,NO,1
+10579050,11/4/2017,FCS,Lehigh,Bucknell,KICK RETURNS,Devon,Bibbens,YDS,32
+10579051,11/4/2017,FCS,Lehigh,Bucknell,KICK RETURNS,Devon,Bibbens,AVG,32.0
+10579052,11/4/2017,FCS,Lehigh,Bucknell,KICK RETURNS,Devon,Bibbens,LONG,32
+10579053,11/4/2017,FCS,Bucknell,Lehigh,RUSHING,Chad,Freshnock,ATT,16
+10579054,11/4/2017,FCS,Bucknell,Lehigh,RUSHING,Chad,Freshnock,YDS,174
+10579055,11/4/2017,FCS,Bucknell,Lehigh,RUSHING,Chad,Freshnock,TD,3
+10579056,11/4/2017,FCS,Bucknell,Lehigh,RUSHING,Chad,Freshnock,LONG,85
+10579057,11/4/2017,FCS,Bucknell,Lehigh,RUSHING,Omar,Garcia,ATT,3
+10579058,11/4/2017,FCS,Bucknell,Lehigh,RUSHING,Omar,Garcia,YDS,11
+10579059,11/4/2017,FCS,Bucknell,Lehigh,RUSHING,Omar,Garcia,TD,0
+10579060,11/4/2017,FCS,Bucknell,Lehigh,RUSHING,Omar,Garcia,LONG,8
+10579061,11/4/2017,FCS,Bucknell,Lehigh,RUSHING,Marquis,Carter,ATT,4
+10579062,11/4/2017,FCS,Bucknell,Lehigh,RUSHING,Marquis,Carter,YDS,8
+10579063,11/4/2017,FCS,Bucknell,Lehigh,RUSHING,Marquis,Carter,TD,0
+10579064,11/4/2017,FCS,Bucknell,Lehigh,RUSHING,Marquis,Carter,LONG,3
+10579065,11/4/2017,FCS,Bucknell,Lehigh,RUSHING,Matt,Muh,ATT,3
+10579066,11/4/2017,FCS,Bucknell,Lehigh,RUSHING,Matt,Muh,YDS,5
+10579067,11/4/2017,FCS,Bucknell,Lehigh,RUSHING,Matt,Muh,TD,0
+10579068,11/4/2017,FCS,Bucknell,Lehigh,RUSHING,Matt,Muh,LONG,6
+10579069,11/4/2017,FCS,Bucknell,Lehigh,PASSING,Matt,Muh,CP-ATT-INT,22-37-2
+10579070,11/4/2017,FCS,Bucknell,Lehigh,PASSING,Matt,Muh,YDS,144
+10579071,11/4/2017,FCS,Bucknell,Lehigh,PASSING,Matt,Muh,TD,0
+10579072,11/4/2017,FCS,Bucknell,Lehigh,PASSING,Matt,Muh,LONG,30
+10579073,11/4/2017,FCS,Bucknell,Lehigh,RECEIVING,Marcus,Ademilola,REC,7
+10579074,11/4/2017,FCS,Bucknell,Lehigh,RECEIVING,Marcus,Ademilola,YDS,48
+10579075,11/4/2017,FCS,Bucknell,Lehigh,RECEIVING,Marcus,Ademilola,TD,0
+10579076,11/4/2017,FCS,Bucknell,Lehigh,RECEIVING,Marcus,Ademilola,LONG,12
+10579077,11/4/2017,FCS,Bucknell,Lehigh,RECEIVING,Omar,Garcia,REC,2
+10579078,11/4/2017,FCS,Bucknell,Lehigh,RECEIVING,Omar,Garcia,YDS,34
+10579079,11/4/2017,FCS,Bucknell,Lehigh,RECEIVING,Omar,Garcia,TD,0
+10579080,11/4/2017,FCS,Bucknell,Lehigh,RECEIVING,Omar,Garcia,LONG,30
+10579081,11/4/2017,FCS,Bucknell,Lehigh,RECEIVING,Andrew,Podbielski,REC,3
+10579082,11/4/2017,FCS,Bucknell,Lehigh,RECEIVING,Andrew,Podbielski,YDS,16
+10579083,11/4/2017,FCS,Bucknell,Lehigh,RECEIVING,Andrew,Podbielski,TD,0
+10579084,11/4/2017,FCS,Bucknell,Lehigh,RECEIVING,Andrew,Podbielski,LONG,7
+10579085,11/4/2017,FCS,Bucknell,Lehigh,RECEIVING,Justin,Bethea,REC,2
+10579086,11/4/2017,FCS,Bucknell,Lehigh,RECEIVING,Justin,Bethea,YDS,13
+10579087,11/4/2017,FCS,Bucknell,Lehigh,RECEIVING,Justin,Bethea,TD,0
+10579088,11/4/2017,FCS,Bucknell,Lehigh,RECEIVING,Justin,Bethea,LONG,7
+10579089,11/4/2017,FCS,Bucknell,Lehigh,RECEIVING,Alan,Butler,REC,3
+10579090,11/4/2017,FCS,Bucknell,Lehigh,RECEIVING,Alan,Butler,YDS,12
+10579091,11/4/2017,FCS,Bucknell,Lehigh,RECEIVING,Alan,Butler,TD,0
+10579092,11/4/2017,FCS,Bucknell,Lehigh,RECEIVING,Alan,Butler,LONG,9
+10579093,11/4/2017,FCS,Bucknell,Lehigh,RECEIVING,Chad,Freshnock,REC,3
+10579094,11/4/2017,FCS,Bucknell,Lehigh,RECEIVING,Chad,Freshnock,YDS,10
+10579095,11/4/2017,FCS,Bucknell,Lehigh,RECEIVING,Chad,Freshnock,TD,0
+10579096,11/4/2017,FCS,Bucknell,Lehigh,RECEIVING,Chad,Freshnock,LONG,9
+10579097,11/4/2017,FCS,Bucknell,Lehigh,RECEIVING,Mike,Balzofiore,REC,1
+10579098,11/4/2017,FCS,Bucknell,Lehigh,RECEIVING,Mike,Balzofiore,YDS,6
+10579099,11/4/2017,FCS,Bucknell,Lehigh,RECEIVING,Mike,Balzofiore,TD,0
+10579100,11/4/2017,FCS,Bucknell,Lehigh,RECEIVING,Mike,Balzofiore,LONG,6
+10579101,11/4/2017,FCS,Bucknell,Lehigh,RECEIVING,Kyle,Kinner,REC,1
+10579102,11/4/2017,FCS,Bucknell,Lehigh,RECEIVING,Kyle,Kinner,YDS,5
+10579103,11/4/2017,FCS,Bucknell,Lehigh,RECEIVING,Kyle,Kinner,TD,0
+10579104,11/4/2017,FCS,Bucknell,Lehigh,RECEIVING,Kyle,Kinner,LONG,5
+10579105,11/4/2017,FCS,Bucknell,Lehigh,KICKING,John,Burdick,FG-FGA,0/0
+10579106,11/4/2017,FCS,Bucknell,Lehigh,KICKING,John,Burdick,LONG,-
+10579107,11/4/2017,FCS,Bucknell,Lehigh,KICKING,John,Burdick,XP,3
+10579108,11/4/2017,FCS,Bucknell,Lehigh,KICKING,John,Burdick,PTS,3
+10579109,11/4/2017,FCS,Bucknell,Lehigh,PUNTING,Alex,Pechin,NO,5
+10579110,11/4/2017,FCS,Bucknell,Lehigh,PUNTING,Alex,Pechin,YDS,233
+10579111,11/4/2017,FCS,Bucknell,Lehigh,PUNTING,Alex,Pechin,AVG,46.6
+10579112,11/4/2017,FCS,Bucknell,Lehigh,PUNTING,Alex,Pechin,LONG,51
+10579113,11/4/2017,FCS,Bucknell,Lehigh,PUNTING,,Team,NO,1
+10579114,11/4/2017,FCS,Bucknell,Lehigh,PUNTING,,Team,YDS,24
+10579115,11/4/2017,FCS,Bucknell,Lehigh,PUNTING,,Team,AVG,24.0
+10579116,11/4/2017,FCS,Bucknell,Lehigh,PUNTING,,Team,LONG,24
+10579117,11/4/2017,FCS,Bucknell,Lehigh,PUNT RETURNS,Alan,Butler,NO,3
+10579118,11/4/2017,FCS,Bucknell,Lehigh,PUNT RETURNS,Alan,Butler,YDS,4
+10579119,11/4/2017,FCS,Bucknell,Lehigh,PUNT RETURNS,Alan,Butler,AVG,1.3
+10579120,11/4/2017,FCS,Bucknell,Lehigh,PUNT RETURNS,Alan,Butler,LONG,5
+10579121,11/4/2017,FCS,Bucknell,Lehigh,KICK RETURNS,Stefone,Moore-Green,NO,4
+10579122,11/4/2017,FCS,Bucknell,Lehigh,KICK RETURNS,Stefone,Moore-Green,YDS,77
+10579123,11/4/2017,FCS,Bucknell,Lehigh,KICK RETURNS,Stefone,Moore-Green,AVG,19.2
+10579124,11/4/2017,FCS,Bucknell,Lehigh,KICK RETURNS,Stefone,Moore-Green,LONG,22
+10579125,11/4/2017,FCS,Bucknell,Lehigh,KICK RETURNS,Bryan,Marine,NO,2
+10579126,11/4/2017,FCS,Bucknell,Lehigh,KICK RETURNS,Bryan,Marine,YDS,35
+10579127,11/4/2017,FCS,Bucknell,Lehigh,KICK RETURNS,Bryan,Marine,AVG,17.5
+10579128,11/4/2017,FCS,Bucknell,Lehigh,KICK RETURNS,Bryan,Marine,LONG,21
+10579129,11/4/2017,FCS,Bucknell,Lehigh,KICK RETURNS,Omar,Garcia,NO,1
+10579130,11/4/2017,FCS,Bucknell,Lehigh,KICK RETURNS,Omar,Garcia,YDS,16
+10579131,11/4/2017,FCS,Bucknell,Lehigh,KICK RETURNS,Omar,Garcia,AVG,16.0
+10579132,11/4/2017,FCS,Bucknell,Lehigh,KICK RETURNS,Omar,Garcia,LONG,16

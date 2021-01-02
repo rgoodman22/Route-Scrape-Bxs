@@ -1,0 +1,185 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9854001,11/12/2016,FCS,Cornell,Columbia,RUSHING,Chris,Walker,ATT,22
+9854002,11/12/2016,FCS,Cornell,Columbia,RUSHING,Chris,Walker,YDS,230
+9854003,11/12/2016,FCS,Cornell,Columbia,RUSHING,Chris,Walker,TD,3
+9854004,11/12/2016,FCS,Cornell,Columbia,RUSHING,Chris,Walker,LONG,71
+9854005,11/12/2016,FCS,Cornell,Columbia,RUSHING,Josh,Sweet,ATT,4
+9854006,11/12/2016,FCS,Cornell,Columbia,RUSHING,Josh,Sweet,YDS,20
+9854007,11/12/2016,FCS,Cornell,Columbia,RUSHING,Josh,Sweet,TD,0
+9854008,11/12/2016,FCS,Cornell,Columbia,RUSHING,Josh,Sweet,LONG,10
+9854009,11/12/2016,FCS,Cornell,Columbia,RUSHING,Jake,Jatis,ATT,2
+9854010,11/12/2016,FCS,Cornell,Columbia,RUSHING,Jake,Jatis,YDS,6
+9854011,11/12/2016,FCS,Cornell,Columbia,RUSHING,Jake,Jatis,TD,0
+9854012,11/12/2016,FCS,Cornell,Columbia,RUSHING,Jake,Jatis,LONG,5
+9854013,11/12/2016,FCS,Cornell,Columbia,RUSHING,Ben,Rogers,ATT,1
+9854014,11/12/2016,FCS,Cornell,Columbia,RUSHING,Ben,Rogers,YDS,3
+9854015,11/12/2016,FCS,Cornell,Columbia,RUSHING,Ben,Rogers,TD,0
+9854016,11/12/2016,FCS,Cornell,Columbia,RUSHING,Ben,Rogers,LONG,3
+9854017,11/12/2016,FCS,Cornell,Columbia,RUSHING,Dalton,Banks,ATT,3
+9854018,11/12/2016,FCS,Cornell,Columbia,RUSHING,Dalton,Banks,YDS,3
+9854019,11/12/2016,FCS,Cornell,Columbia,RUSHING,Dalton,Banks,TD,1
+9854020,11/12/2016,FCS,Cornell,Columbia,RUSHING,Dalton,Banks,LONG,2
+9854021,11/12/2016,FCS,Cornell,Columbia,RUSHING,Marshall,Deutz,ATT,1
+9854022,11/12/2016,FCS,Cornell,Columbia,RUSHING,Marshall,Deutz,YDS,1
+9854023,11/12/2016,FCS,Cornell,Columbia,RUSHING,Marshall,Deutz,TD,0
+9854024,11/12/2016,FCS,Cornell,Columbia,RUSHING,Marshall,Deutz,LONG,1
+9854025,11/12/2016,FCS,Cornell,Columbia,RUSHING,,Team,ATT,4
+9854026,11/12/2016,FCS,Cornell,Columbia,RUSHING,,Team,YDS,-4
+9854027,11/12/2016,FCS,Cornell,Columbia,RUSHING,,Team,TD,0
+9854028,11/12/2016,FCS,Cornell,Columbia,RUSHING,,Team,LONG,0
+9854029,11/12/2016,FCS,Cornell,Columbia,PASSING,Dalton,Banks,CP-ATT-INT,24-37-1
+9854030,11/12/2016,FCS,Cornell,Columbia,PASSING,Dalton,Banks,YDS,267
+9854031,11/12/2016,FCS,Cornell,Columbia,PASSING,Dalton,Banks,TD,2
+9854032,11/12/2016,FCS,Cornell,Columbia,PASSING,Dalton,Banks,LONG,47
+9854033,11/12/2016,FCS,Cornell,Columbia,PASSING,Jake,Jatis,CP-ATT-INT,1-1-0
+9854034,11/12/2016,FCS,Cornell,Columbia,PASSING,Jake,Jatis,YDS,33
+9854035,11/12/2016,FCS,Cornell,Columbia,PASSING,Jake,Jatis,TD,0
+9854036,11/12/2016,FCS,Cornell,Columbia,PASSING,Jake,Jatis,LONG,33
+9854037,11/12/2016,FCS,Cornell,Columbia,RECEIVING,Marshall,Deutz,REC,7
+9854038,11/12/2016,FCS,Cornell,Columbia,RECEIVING,Marshall,Deutz,YDS,97
+9854039,11/12/2016,FCS,Cornell,Columbia,RECEIVING,Marshall,Deutz,TD,0
+9854040,11/12/2016,FCS,Cornell,Columbia,RECEIVING,Marshall,Deutz,LONG,33
+9854041,11/12/2016,FCS,Cornell,Columbia,RECEIVING,Ben,Rogers,REC,3
+9854042,11/12/2016,FCS,Cornell,Columbia,RECEIVING,Ben,Rogers,YDS,57
+9854043,11/12/2016,FCS,Cornell,Columbia,RECEIVING,Ben,Rogers,TD,1
+9854044,11/12/2016,FCS,Cornell,Columbia,RECEIVING,Ben,Rogers,LONG,47
+9854045,11/12/2016,FCS,Cornell,Columbia,RECEIVING,Collin,Shaw,REC,4
+9854046,11/12/2016,FCS,Cornell,Columbia,RECEIVING,Collin,Shaw,YDS,44
+9854047,11/12/2016,FCS,Cornell,Columbia,RECEIVING,Collin,Shaw,TD,0
+9854048,11/12/2016,FCS,Cornell,Columbia,RECEIVING,Collin,Shaw,LONG,13
+9854049,11/12/2016,FCS,Cornell,Columbia,RECEIVING,Hayes,Nolte,REC,2
+9854050,11/12/2016,FCS,Cornell,Columbia,RECEIVING,Hayes,Nolte,YDS,37
+9854051,11/12/2016,FCS,Cornell,Columbia,RECEIVING,Hayes,Nolte,TD,1
+9854052,11/12/2016,FCS,Cornell,Columbia,RECEIVING,Hayes,Nolte,LONG,23
+9854053,11/12/2016,FCS,Cornell,Columbia,RECEIVING,Chris,Fraser,REC,1
+9854054,11/12/2016,FCS,Cornell,Columbia,RECEIVING,Chris,Fraser,YDS,33
+9854055,11/12/2016,FCS,Cornell,Columbia,RECEIVING,Chris,Fraser,TD,0
+9854056,11/12/2016,FCS,Cornell,Columbia,RECEIVING,Chris,Fraser,LONG,33
+9854057,11/12/2016,FCS,Cornell,Columbia,RECEIVING,James,Hubbard,REC,5
+9854058,11/12/2016,FCS,Cornell,Columbia,RECEIVING,James,Hubbard,YDS,26
+9854059,11/12/2016,FCS,Cornell,Columbia,RECEIVING,James,Hubbard,TD,0
+9854060,11/12/2016,FCS,Cornell,Columbia,RECEIVING,James,Hubbard,LONG,12
+9854061,11/12/2016,FCS,Cornell,Columbia,RECEIVING,Josh,Sweet,REC,2
+9854062,11/12/2016,FCS,Cornell,Columbia,RECEIVING,Josh,Sweet,YDS,3
+9854063,11/12/2016,FCS,Cornell,Columbia,RECEIVING,Josh,Sweet,TD,0
+9854064,11/12/2016,FCS,Cornell,Columbia,RECEIVING,Josh,Sweet,LONG,5
+9854065,11/12/2016,FCS,Cornell,Columbia,RECEIVING,Chris,Walker,REC,1
+9854066,11/12/2016,FCS,Cornell,Columbia,RECEIVING,Chris,Walker,YDS,3
+9854067,11/12/2016,FCS,Cornell,Columbia,RECEIVING,Chris,Walker,TD,0
+9854068,11/12/2016,FCS,Cornell,Columbia,RECEIVING,Chris,Walker,LONG,3
+9854069,11/12/2016,FCS,Cornell,Columbia,KICKING,Nickolas,Null,FG-FGA,0/0
+9854070,11/12/2016,FCS,Cornell,Columbia,KICKING,Nickolas,Null,LONG,-
+9854071,11/12/2016,FCS,Cornell,Columbia,KICKING,Nickolas,Null,XP,6
+9854072,11/12/2016,FCS,Cornell,Columbia,KICKING,Nickolas,Null,PTS,6
+9854073,11/12/2016,FCS,Cornell,Columbia,PUNTING,Chris,Fraser,NO,6
+9854074,11/12/2016,FCS,Cornell,Columbia,PUNTING,Chris,Fraser,YDS,264
+9854075,11/12/2016,FCS,Cornell,Columbia,PUNTING,Chris,Fraser,AVG,44.0
+9854076,11/12/2016,FCS,Cornell,Columbia,PUNTING,Chris,Fraser,LONG,57
+9854077,11/12/2016,FCS,Cornell,Columbia,PUNT RETURNS,James,Hubbard,NO,2
+9854078,11/12/2016,FCS,Cornell,Columbia,PUNT RETURNS,James,Hubbard,YDS,12
+9854079,11/12/2016,FCS,Cornell,Columbia,PUNT RETURNS,James,Hubbard,AVG,6.0
+9854080,11/12/2016,FCS,Cornell,Columbia,PUNT RETURNS,James,Hubbard,LONG,7
+9854081,11/12/2016,FCS,Cornell,Columbia,KICK RETURNS,Victor,Olapinsin,NO,0
+9854082,11/12/2016,FCS,Cornell,Columbia,KICK RETURNS,Victor,Olapinsin,YDS,11
+9854083,11/12/2016,FCS,Cornell,Columbia,KICK RETURNS,Victor,Olapinsin,AVG,-
+9854084,11/12/2016,FCS,Cornell,Columbia,KICK RETURNS,Victor,Olapinsin,LONG,11
+9854085,11/12/2016,FCS,Cornell,Columbia,KICK RETURNS,Ryan,Weigel,NO,1
+9854086,11/12/2016,FCS,Cornell,Columbia,KICK RETURNS,Ryan,Weigel,YDS,0
+9854087,11/12/2016,FCS,Cornell,Columbia,KICK RETURNS,Ryan,Weigel,AVG,-
+9854088,11/12/2016,FCS,Cornell,Columbia,KICK RETURNS,Ryan,Weigel,LONG,0
+9854089,11/12/2016,FCS,Columbia,Cornell,RUSHING,Alan,Watson,ATT,18
+9854090,11/12/2016,FCS,Columbia,Cornell,RUSHING,Alan,Watson,YDS,105
+9854091,11/12/2016,FCS,Columbia,Cornell,RUSHING,Alan,Watson,TD,0
+9854092,11/12/2016,FCS,Columbia,Cornell,RUSHING,Alan,Watson,LONG,32
+9854093,11/12/2016,FCS,Columbia,Cornell,RUSHING,Anders,Hill,ATT,11
+9854094,11/12/2016,FCS,Columbia,Cornell,RUSHING,Anders,Hill,YDS,20
+9854095,11/12/2016,FCS,Columbia,Cornell,RUSHING,Anders,Hill,TD,0
+9854096,11/12/2016,FCS,Columbia,Cornell,RUSHING,Anders,Hill,LONG,11
+9854097,11/12/2016,FCS,Columbia,Cornell,RUSHING,Hunter,Petlansky,ATT,2
+9854098,11/12/2016,FCS,Columbia,Cornell,RUSHING,Hunter,Petlansky,YDS,18
+9854099,11/12/2016,FCS,Columbia,Cornell,RUSHING,Hunter,Petlansky,TD,1
+9854100,11/12/2016,FCS,Columbia,Cornell,RUSHING,Hunter,Petlansky,LONG,18
+9854101,11/12/2016,FCS,Columbia,Cornell,RUSHING,Tanner,Thomas,ATT,2
+9854102,11/12/2016,FCS,Columbia,Cornell,RUSHING,Tanner,Thomas,YDS,9
+9854103,11/12/2016,FCS,Columbia,Cornell,RUSHING,Tanner,Thomas,TD,1
+9854104,11/12/2016,FCS,Columbia,Cornell,RUSHING,Tanner,Thomas,LONG,7
+9854105,11/12/2016,FCS,Columbia,Cornell,RUSHING,Chris,Schroer,ATT,2
+9854106,11/12/2016,FCS,Columbia,Cornell,RUSHING,Chris,Schroer,YDS,8
+9854107,11/12/2016,FCS,Columbia,Cornell,RUSHING,Chris,Schroer,TD,0
+9854108,11/12/2016,FCS,Columbia,Cornell,RUSHING,Chris,Schroer,LONG,5
+9854109,11/12/2016,FCS,Columbia,Cornell,RUSHING,Josh,Wainwright,ATT,1
+9854110,11/12/2016,FCS,Columbia,Cornell,RUSHING,Josh,Wainwright,YDS,3
+9854111,11/12/2016,FCS,Columbia,Cornell,RUSHING,Josh,Wainwright,TD,0
+9854112,11/12/2016,FCS,Columbia,Cornell,RUSHING,Josh,Wainwright,LONG,3
+9854113,11/12/2016,FCS,Columbia,Cornell,RUSHING,Scooter,Hollis,ATT,1
+9854114,11/12/2016,FCS,Columbia,Cornell,RUSHING,Scooter,Hollis,YDS,2
+9854115,11/12/2016,FCS,Columbia,Cornell,RUSHING,Scooter,Hollis,TD,0
+9854116,11/12/2016,FCS,Columbia,Cornell,RUSHING,Scooter,Hollis,LONG,2
+9854117,11/12/2016,FCS,Columbia,Cornell,PASSING,Anders,Hill,CP-ATT-INT,24-40-2
+9854118,11/12/2016,FCS,Columbia,Cornell,PASSING,Anders,Hill,YDS,284
+9854119,11/12/2016,FCS,Columbia,Cornell,PASSING,Anders,Hill,TD,3
+9854120,11/12/2016,FCS,Columbia,Cornell,PASSING,Anders,Hill,LONG,43
+9854121,11/12/2016,FCS,Columbia,Cornell,PASSING,Skyler,Mornhinweg,CP-ATT-INT,5-9-0
+9854122,11/12/2016,FCS,Columbia,Cornell,PASSING,Skyler,Mornhinweg,YDS,76
+9854123,11/12/2016,FCS,Columbia,Cornell,PASSING,Skyler,Mornhinweg,TD,0
+9854124,11/12/2016,FCS,Columbia,Cornell,PASSING,Skyler,Mornhinweg,LONG,44
+9854125,11/12/2016,FCS,Columbia,Cornell,PASSING,Scooter,Hollis,CP-ATT-INT,1-1-0
+9854126,11/12/2016,FCS,Columbia,Cornell,PASSING,Scooter,Hollis,YDS,37
+9854127,11/12/2016,FCS,Columbia,Cornell,PASSING,Scooter,Hollis,TD,0
+9854128,11/12/2016,FCS,Columbia,Cornell,PASSING,Scooter,Hollis,LONG,37
+9854129,11/12/2016,FCS,Columbia,Cornell,RECEIVING,Ronald,SmithII,REC,11
+9854130,11/12/2016,FCS,Columbia,Cornell,RECEIVING,Ronald,SmithII,YDS,195
+9854131,11/12/2016,FCS,Columbia,Cornell,RECEIVING,Ronald,SmithII,TD,1
+9854132,11/12/2016,FCS,Columbia,Cornell,RECEIVING,Ronald,SmithII,LONG,44
+9854133,11/12/2016,FCS,Columbia,Cornell,RECEIVING,Scooter,Hollis,REC,4
+9854134,11/12/2016,FCS,Columbia,Cornell,RECEIVING,Scooter,Hollis,YDS,67
+9854135,11/12/2016,FCS,Columbia,Cornell,RECEIVING,Scooter,Hollis,TD,0
+9854136,11/12/2016,FCS,Columbia,Cornell,RECEIVING,Scooter,Hollis,LONG,43
+9854137,11/12/2016,FCS,Columbia,Cornell,RECEIVING,Cameron,Dunn,REC,4
+9854138,11/12/2016,FCS,Columbia,Cornell,RECEIVING,Cameron,Dunn,YDS,49
+9854139,11/12/2016,FCS,Columbia,Cornell,RECEIVING,Cameron,Dunn,TD,0
+9854140,11/12/2016,FCS,Columbia,Cornell,RECEIVING,Cameron,Dunn,LONG,16
+9854141,11/12/2016,FCS,Columbia,Cornell,RECEIVING,Josh,Wainwright,REC,5
+9854142,11/12/2016,FCS,Columbia,Cornell,RECEIVING,Josh,Wainwright,YDS,47
+9854143,11/12/2016,FCS,Columbia,Cornell,RECEIVING,Josh,Wainwright,TD,1
+9854144,11/12/2016,FCS,Columbia,Cornell,RECEIVING,Josh,Wainwright,LONG,33
+9854145,11/12/2016,FCS,Columbia,Cornell,RECEIVING,Alan,Watson,REC,3
+9854146,11/12/2016,FCS,Columbia,Cornell,RECEIVING,Alan,Watson,YDS,16
+9854147,11/12/2016,FCS,Columbia,Cornell,RECEIVING,Alan,Watson,TD,0
+9854148,11/12/2016,FCS,Columbia,Cornell,RECEIVING,Alan,Watson,LONG,11
+9854149,11/12/2016,FCS,Columbia,Cornell,RECEIVING,Lynnard,Rose,REC,1
+9854150,11/12/2016,FCS,Columbia,Cornell,RECEIVING,Lynnard,Rose,YDS,13
+9854151,11/12/2016,FCS,Columbia,Cornell,RECEIVING,Lynnard,Rose,TD,1
+9854152,11/12/2016,FCS,Columbia,Cornell,RECEIVING,Lynnard,Rose,LONG,13
+9854153,11/12/2016,FCS,Columbia,Cornell,RECEIVING,Toure,Douglas,REC,1
+9854154,11/12/2016,FCS,Columbia,Cornell,RECEIVING,Toure,Douglas,YDS,6
+9854155,11/12/2016,FCS,Columbia,Cornell,RECEIVING,Toure,Douglas,TD,0
+9854156,11/12/2016,FCS,Columbia,Cornell,RECEIVING,Toure,Douglas,LONG,6
+9854157,11/12/2016,FCS,Columbia,Cornell,RECEIVING,John,Hunton,REC,1
+9854158,11/12/2016,FCS,Columbia,Cornell,RECEIVING,John,Hunton,YDS,4
+9854159,11/12/2016,FCS,Columbia,Cornell,RECEIVING,John,Hunton,TD,0
+9854160,11/12/2016,FCS,Columbia,Cornell,RECEIVING,John,Hunton,LONG,4
+9854161,11/12/2016,FCS,Columbia,Cornell,KICKING,Oren,Milstein,FG-FGA,2/2
+9854162,11/12/2016,FCS,Columbia,Cornell,KICKING,Oren,Milstein,LONG,44
+9854163,11/12/2016,FCS,Columbia,Cornell,KICKING,Oren,Milstein,XP,4
+9854164,11/12/2016,FCS,Columbia,Cornell,KICKING,Oren,Milstein,PTS,10
+9854165,11/12/2016,FCS,Columbia,Cornell,PUNTING,Cameron,Nizialek,NO,2
+9854166,11/12/2016,FCS,Columbia,Cornell,PUNTING,Cameron,Nizialek,YDS,107
+9854167,11/12/2016,FCS,Columbia,Cornell,PUNTING,Cameron,Nizialek,AVG,53.5
+9854168,11/12/2016,FCS,Columbia,Cornell,PUNTING,Cameron,Nizialek,LONG,60
+9854169,11/12/2016,FCS,Columbia,Cornell,PUNTING,Matthew,Panton,NO,2
+9854170,11/12/2016,FCS,Columbia,Cornell,PUNTING,Matthew,Panton,YDS,83
+9854171,11/12/2016,FCS,Columbia,Cornell,PUNTING,Matthew,Panton,AVG,41.5
+9854172,11/12/2016,FCS,Columbia,Cornell,PUNTING,Matthew,Panton,LONG,44
+9854173,11/12/2016,FCS,Columbia,Cornell,PUNT RETURNS,Josh,Wainwright,NO,1
+9854174,11/12/2016,FCS,Columbia,Cornell,PUNT RETURNS,Josh,Wainwright,YDS,2
+9854175,11/12/2016,FCS,Columbia,Cornell,PUNT RETURNS,Josh,Wainwright,AVG,2.0
+9854176,11/12/2016,FCS,Columbia,Cornell,PUNT RETURNS,Josh,Wainwright,LONG,2
+9854177,11/12/2016,FCS,Columbia,Cornell,KICK RETURNS,Lynnard,Rose,NO,4
+9854178,11/12/2016,FCS,Columbia,Cornell,KICK RETURNS,Lynnard,Rose,YDS,93
+9854179,11/12/2016,FCS,Columbia,Cornell,KICK RETURNS,Lynnard,Rose,AVG,23.2
+9854180,11/12/2016,FCS,Columbia,Cornell,KICK RETURNS,Lynnard,Rose,LONG,27
+9854181,11/12/2016,FCS,Columbia,Cornell,KICK RETURNS,Alan,Watson,NO,1
+9854182,11/12/2016,FCS,Columbia,Cornell,KICK RETURNS,Alan,Watson,YDS,69
+9854183,11/12/2016,FCS,Columbia,Cornell,KICK RETURNS,Alan,Watson,AVG,69.0
+9854184,11/12/2016,FCS,Columbia,Cornell,KICK RETURNS,Alan,Watson,LONG,0

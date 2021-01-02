@@ -1,0 +1,181 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+10195001,9/16/2017,FCS,Drake,South Dakota St.,RUSHING,Brock,Reichardt,ATT,16
+10195002,9/16/2017,FCS,Drake,South Dakota St.,RUSHING,Brock,Reichardt,YDS,68
+10195003,9/16/2017,FCS,Drake,South Dakota St.,RUSHING,Brock,Reichardt,TD,0
+10195004,9/16/2017,FCS,Drake,South Dakota St.,RUSHING,Brock,Reichardt,LONG,16
+10195005,9/16/2017,FCS,Drake,South Dakota St.,RUSHING,Taylor,Murph,ATT,6
+10195006,9/16/2017,FCS,Drake,South Dakota St.,RUSHING,Taylor,Murph,YDS,29
+10195007,9/16/2017,FCS,Drake,South Dakota St.,RUSHING,Taylor,Murph,TD,0
+10195008,9/16/2017,FCS,Drake,South Dakota St.,RUSHING,Taylor,Murph,LONG,18
+10195009,9/16/2017,FCS,Drake,South Dakota St.,RUSHING,Jacob,Clay,ATT,7
+10195010,9/16/2017,FCS,Drake,South Dakota St.,RUSHING,Jacob,Clay,YDS,26
+10195011,9/16/2017,FCS,Drake,South Dakota St.,RUSHING,Jacob,Clay,TD,0
+10195012,9/16/2017,FCS,Drake,South Dakota St.,RUSHING,Jacob,Clay,LONG,7
+10195013,9/16/2017,FCS,Drake,South Dakota St.,RUSHING,Sam,Hefner,ATT,3
+10195014,9/16/2017,FCS,Drake,South Dakota St.,RUSHING,Sam,Hefner,YDS,1
+10195015,9/16/2017,FCS,Drake,South Dakota St.,RUSHING,Sam,Hefner,TD,0
+10195016,9/16/2017,FCS,Drake,South Dakota St.,RUSHING,Sam,Hefner,LONG,3
+10195017,9/16/2017,FCS,Drake,South Dakota St.,RUSHING,Grant,Kraemer,ATT,8
+10195018,9/16/2017,FCS,Drake,South Dakota St.,RUSHING,Grant,Kraemer,YDS,-17
+10195019,9/16/2017,FCS,Drake,South Dakota St.,RUSHING,Grant,Kraemer,TD,0
+10195020,9/16/2017,FCS,Drake,South Dakota St.,RUSHING,Grant,Kraemer,LONG,11
+10195021,9/16/2017,FCS,Drake,South Dakota St.,PASSING,Grant,Kraemer,CP-ATT-INT,18-31-1
+10195022,9/16/2017,FCS,Drake,South Dakota St.,PASSING,Grant,Kraemer,YDS,201
+10195023,9/16/2017,FCS,Drake,South Dakota St.,PASSING,Grant,Kraemer,TD,1
+10195024,9/16/2017,FCS,Drake,South Dakota St.,PASSING,Grant,Kraemer,LONG,62
+10195025,9/16/2017,FCS,Drake,South Dakota St.,PASSING,Sam,Hefner,CP-ATT-INT,2-4-0
+10195026,9/16/2017,FCS,Drake,South Dakota St.,PASSING,Sam,Hefner,YDS,16
+10195027,9/16/2017,FCS,Drake,South Dakota St.,PASSING,Sam,Hefner,TD,0
+10195028,9/16/2017,FCS,Drake,South Dakota St.,PASSING,Sam,Hefner,LONG,10
+10195029,9/16/2017,FCS,Drake,South Dakota St.,RECEIVING,Steven,Doran,REC,5
+10195030,9/16/2017,FCS,Drake,South Dakota St.,RECEIVING,Steven,Doran,YDS,91
+10195031,9/16/2017,FCS,Drake,South Dakota St.,RECEIVING,Steven,Doran,TD,1
+10195032,9/16/2017,FCS,Drake,South Dakota St.,RECEIVING,Steven,Doran,LONG,62
+10195033,9/16/2017,FCS,Drake,South Dakota St.,RECEIVING,Devin,Cates,REC,4
+10195034,9/16/2017,FCS,Drake,South Dakota St.,RECEIVING,Devin,Cates,YDS,61
+10195035,9/16/2017,FCS,Drake,South Dakota St.,RECEIVING,Devin,Cates,TD,0
+10195036,9/16/2017,FCS,Drake,South Dakota St.,RECEIVING,Devin,Cates,LONG,23
+10195037,9/16/2017,FCS,Drake,South Dakota St.,RECEIVING,Cole,Neary,REC,5
+10195038,9/16/2017,FCS,Drake,South Dakota St.,RECEIVING,Cole,Neary,YDS,27
+10195039,9/16/2017,FCS,Drake,South Dakota St.,RECEIVING,Cole,Neary,TD,0
+10195040,9/16/2017,FCS,Drake,South Dakota St.,RECEIVING,Cole,Neary,LONG,9
+10195041,9/16/2017,FCS,Drake,South Dakota St.,RECEIVING,Connor,Ostrander,REC,2
+10195042,9/16/2017,FCS,Drake,South Dakota St.,RECEIVING,Connor,Ostrander,YDS,15
+10195043,9/16/2017,FCS,Drake,South Dakota St.,RECEIVING,Connor,Ostrander,TD,0
+10195044,9/16/2017,FCS,Drake,South Dakota St.,RECEIVING,Connor,Ostrander,LONG,18
+10195045,9/16/2017,FCS,Drake,South Dakota St.,RECEIVING,Jacob,Clay,REC,1
+10195046,9/16/2017,FCS,Drake,South Dakota St.,RECEIVING,Jacob,Clay,YDS,10
+10195047,9/16/2017,FCS,Drake,South Dakota St.,RECEIVING,Jacob,Clay,TD,0
+10195048,9/16/2017,FCS,Drake,South Dakota St.,RECEIVING,Jacob,Clay,LONG,10
+10195049,9/16/2017,FCS,Drake,South Dakota St.,RECEIVING,Alex,Bonds,REC,1
+10195050,9/16/2017,FCS,Drake,South Dakota St.,RECEIVING,Alex,Bonds,YDS,6
+10195051,9/16/2017,FCS,Drake,South Dakota St.,RECEIVING,Alex,Bonds,TD,0
+10195052,9/16/2017,FCS,Drake,South Dakota St.,RECEIVING,Alex,Bonds,LONG,6
+10195053,9/16/2017,FCS,Drake,South Dakota St.,RECEIVING,Brock,Reichardt,REC,1
+10195054,9/16/2017,FCS,Drake,South Dakota St.,RECEIVING,Brock,Reichardt,YDS,4
+10195055,9/16/2017,FCS,Drake,South Dakota St.,RECEIVING,Brock,Reichardt,TD,0
+10195056,9/16/2017,FCS,Drake,South Dakota St.,RECEIVING,Brock,Reichardt,LONG,4
+10195057,9/16/2017,FCS,Drake,South Dakota St.,RECEIVING,Mitch,McFarlane,REC,1
+10195058,9/16/2017,FCS,Drake,South Dakota St.,RECEIVING,Mitch,McFarlane,YDS,3
+10195059,9/16/2017,FCS,Drake,South Dakota St.,RECEIVING,Mitch,McFarlane,TD,0
+10195060,9/16/2017,FCS,Drake,South Dakota St.,RECEIVING,Mitch,McFarlane,LONG,3
+10195061,9/16/2017,FCS,Drake,South Dakota St.,KICKING,Danny,Donley,FG-FGA,1/1
+10195062,9/16/2017,FCS,Drake,South Dakota St.,KICKING,Danny,Donley,LONG,24
+10195063,9/16/2017,FCS,Drake,South Dakota St.,KICKING,Danny,Donley,XP,1
+10195064,9/16/2017,FCS,Drake,South Dakota St.,KICKING,Danny,Donley,PTS,4
+10195065,9/16/2017,FCS,Drake,South Dakota St.,PUNTING,Hunter,White,NO,3
+10195066,9/16/2017,FCS,Drake,South Dakota St.,PUNTING,Hunter,White,YDS,109
+10195067,9/16/2017,FCS,Drake,South Dakota St.,PUNTING,Hunter,White,AVG,36.3
+10195068,9/16/2017,FCS,Drake,South Dakota St.,PUNTING,Hunter,White,LONG,38
+10195069,9/16/2017,FCS,Drake,South Dakota St.,PUNTING,Ross,Kennedy,NO,2
+10195070,9/16/2017,FCS,Drake,South Dakota St.,PUNTING,Ross,Kennedy,YDS,62
+10195071,9/16/2017,FCS,Drake,South Dakota St.,PUNTING,Ross,Kennedy,AVG,31.0
+10195072,9/16/2017,FCS,Drake,South Dakota St.,PUNTING,Ross,Kennedy,LONG,42
+10195073,9/16/2017,FCS,Drake,South Dakota St.,PUNTING,,Team,NO,1
+10195074,9/16/2017,FCS,Drake,South Dakota St.,PUNTING,,Team,YDS,0
+10195075,9/16/2017,FCS,Drake,South Dakota St.,PUNTING,,Team,AVG,-
+10195076,9/16/2017,FCS,Drake,South Dakota St.,PUNTING,,Team,LONG,0
+10195077,9/16/2017,FCS,Drake,South Dakota St.,KICK RETURNS,Brock,Reichardt,NO,6
+10195078,9/16/2017,FCS,Drake,South Dakota St.,KICK RETURNS,Brock,Reichardt,YDS,106
+10195079,9/16/2017,FCS,Drake,South Dakota St.,KICK RETURNS,Brock,Reichardt,AVG,17.7
+10195080,9/16/2017,FCS,Drake,South Dakota St.,KICK RETURNS,Brock,Reichardt,LONG,23
+10195081,9/16/2017,FCS,Drake,South Dakota St.,KICK RETURNS,Brady,Eckert,NO,1
+10195082,9/16/2017,FCS,Drake,South Dakota St.,KICK RETURNS,Brady,Eckert,YDS,10
+10195083,9/16/2017,FCS,Drake,South Dakota St.,KICK RETURNS,Brady,Eckert,AVG,10.0
+10195084,9/16/2017,FCS,Drake,South Dakota St.,KICK RETURNS,Brady,Eckert,LONG,10
+10195085,9/16/2017,FCS,South Dakota St.,Drake,RUSHING,Mikey,Daniel,ATT,8
+10195086,9/16/2017,FCS,South Dakota St.,Drake,RUSHING,Mikey,Daniel,YDS,50
+10195087,9/16/2017,FCS,South Dakota St.,Drake,RUSHING,Mikey,Daniel,TD,1
+10195088,9/16/2017,FCS,South Dakota St.,Drake,RUSHING,Mikey,Daniel,LONG,13
+10195089,9/16/2017,FCS,South Dakota St.,Drake,RUSHING,Jake,Wieneke,ATT,1
+10195090,9/16/2017,FCS,South Dakota St.,Drake,RUSHING,Jake,Wieneke,YDS,35
+10195091,9/16/2017,FCS,South Dakota St.,Drake,RUSHING,Jake,Wieneke,TD,0
+10195092,9/16/2017,FCS,South Dakota St.,Drake,RUSHING,Jake,Wieneke,LONG,35
+10195093,9/16/2017,FCS,South Dakota St.,Drake,RUSHING,Blair,Mulholland,ATT,5
+10195094,9/16/2017,FCS,South Dakota St.,Drake,RUSHING,Blair,Mulholland,YDS,20
+10195095,9/16/2017,FCS,South Dakota St.,Drake,RUSHING,Blair,Mulholland,TD,0
+10195096,9/16/2017,FCS,South Dakota St.,Drake,RUSHING,Blair,Mulholland,LONG,7
+10195097,9/16/2017,FCS,South Dakota St.,Drake,RUSHING,Isaac,Wallace,ATT,4
+10195098,9/16/2017,FCS,South Dakota St.,Drake,RUSHING,Isaac,Wallace,YDS,10
+10195099,9/16/2017,FCS,South Dakota St.,Drake,RUSHING,Isaac,Wallace,TD,2
+10195100,9/16/2017,FCS,South Dakota St.,Drake,RUSHING,Isaac,Wallace,LONG,8
+10195101,9/16/2017,FCS,South Dakota St.,Drake,RUSHING,Taryn,Christion,ATT,1
+10195102,9/16/2017,FCS,South Dakota St.,Drake,RUSHING,Taryn,Christion,YDS,10
+10195103,9/16/2017,FCS,South Dakota St.,Drake,RUSHING,Taryn,Christion,TD,1
+10195104,9/16/2017,FCS,South Dakota St.,Drake,RUSHING,Taryn,Christion,LONG,10
+10195105,9/16/2017,FCS,South Dakota St.,Drake,RUSHING,Brady,Mengarelli,ATT,2
+10195106,9/16/2017,FCS,South Dakota St.,Drake,RUSHING,Brady,Mengarelli,YDS,7
+10195107,9/16/2017,FCS,South Dakota St.,Drake,RUSHING,Brady,Mengarelli,TD,0
+10195108,9/16/2017,FCS,South Dakota St.,Drake,RUSHING,Brady,Mengarelli,LONG,4
+10195109,9/16/2017,FCS,South Dakota St.,Drake,RUSHING,Dalton,Douglas,ATT,2
+10195110,9/16/2017,FCS,South Dakota St.,Drake,RUSHING,Dalton,Douglas,YDS,-7
+10195111,9/16/2017,FCS,South Dakota St.,Drake,RUSHING,Dalton,Douglas,TD,0
+10195112,9/16/2017,FCS,South Dakota St.,Drake,RUSHING,Dalton,Douglas,LONG,0
+10195113,9/16/2017,FCS,South Dakota St.,Drake,PASSING,Taryn,Christion,CP-ATT-INT,14-22-0
+10195114,9/16/2017,FCS,South Dakota St.,Drake,PASSING,Taryn,Christion,YDS,171
+10195115,9/16/2017,FCS,South Dakota St.,Drake,PASSING,Taryn,Christion,TD,2
+10195116,9/16/2017,FCS,South Dakota St.,Drake,PASSING,Taryn,Christion,LONG,34
+10195117,9/16/2017,FCS,South Dakota St.,Drake,PASSING,Dalton,Douglas,CP-ATT-INT,7-13-0
+10195118,9/16/2017,FCS,South Dakota St.,Drake,PASSING,Dalton,Douglas,YDS,81
+10195119,9/16/2017,FCS,South Dakota St.,Drake,PASSING,Dalton,Douglas,TD,0
+10195120,9/16/2017,FCS,South Dakota St.,Drake,PASSING,Dalton,Douglas,LONG,29
+10195121,9/16/2017,FCS,South Dakota St.,Drake,RECEIVING,Alex,Wilde,REC,5
+10195122,9/16/2017,FCS,South Dakota St.,Drake,RECEIVING,Alex,Wilde,YDS,64
+10195123,9/16/2017,FCS,South Dakota St.,Drake,RECEIVING,Alex,Wilde,TD,0
+10195124,9/16/2017,FCS,South Dakota St.,Drake,RECEIVING,Alex,Wilde,LONG,29
+10195125,9/16/2017,FCS,South Dakota St.,Drake,RECEIVING,Isaac,Wallace,REC,2
+10195126,9/16/2017,FCS,South Dakota St.,Drake,RECEIVING,Isaac,Wallace,YDS,41
+10195127,9/16/2017,FCS,South Dakota St.,Drake,RECEIVING,Isaac,Wallace,TD,0
+10195128,9/16/2017,FCS,South Dakota St.,Drake,RECEIVING,Isaac,Wallace,LONG,34
+10195129,9/16/2017,FCS,South Dakota St.,Drake,RECEIVING,Dallas,Goedert,REC,3
+10195130,9/16/2017,FCS,South Dakota St.,Drake,RECEIVING,Dallas,Goedert,YDS,35
+10195131,9/16/2017,FCS,South Dakota St.,Drake,RECEIVING,Dallas,Goedert,TD,1
+10195132,9/16/2017,FCS,South Dakota St.,Drake,RECEIVING,Dallas,Goedert,LONG,15
+10195133,9/16/2017,FCS,South Dakota St.,Drake,RECEIVING,Jake,Wieneke,REC,4
+10195134,9/16/2017,FCS,South Dakota St.,Drake,RECEIVING,Jake,Wieneke,YDS,33
+10195135,9/16/2017,FCS,South Dakota St.,Drake,RECEIVING,Jake,Wieneke,TD,1
+10195136,9/16/2017,FCS,South Dakota St.,Drake,RECEIVING,Jake,Wieneke,LONG,13
+10195137,9/16/2017,FCS,South Dakota St.,Drake,RECEIVING,Marquise,Lewis,REC,2
+10195138,9/16/2017,FCS,South Dakota St.,Drake,RECEIVING,Marquise,Lewis,YDS,32
+10195139,9/16/2017,FCS,South Dakota St.,Drake,RECEIVING,Marquise,Lewis,TD,0
+10195140,9/16/2017,FCS,South Dakota St.,Drake,RECEIVING,Marquise,Lewis,LONG,26
+10195141,9/16/2017,FCS,South Dakota St.,Drake,RECEIVING,Cade,Johnson,REC,2
+10195142,9/16/2017,FCS,South Dakota St.,Drake,RECEIVING,Cade,Johnson,YDS,18
+10195143,9/16/2017,FCS,South Dakota St.,Drake,RECEIVING,Cade,Johnson,TD,0
+10195144,9/16/2017,FCS,South Dakota St.,Drake,RECEIVING,Cade,Johnson,LONG,16
+10195145,9/16/2017,FCS,South Dakota St.,Drake,RECEIVING,Kallan,Hart,REC,1
+10195146,9/16/2017,FCS,South Dakota St.,Drake,RECEIVING,Kallan,Hart,YDS,16
+10195147,9/16/2017,FCS,South Dakota St.,Drake,RECEIVING,Kallan,Hart,TD,0
+10195148,9/16/2017,FCS,South Dakota St.,Drake,RECEIVING,Kallan,Hart,LONG,16
+10195149,9/16/2017,FCS,South Dakota St.,Drake,RECEIVING,Brady,Mengarelli,REC,1
+10195150,9/16/2017,FCS,South Dakota St.,Drake,RECEIVING,Brady,Mengarelli,YDS,12
+10195151,9/16/2017,FCS,South Dakota St.,Drake,RECEIVING,Brady,Mengarelli,TD,0
+10195152,9/16/2017,FCS,South Dakota St.,Drake,RECEIVING,Brady,Mengarelli,LONG,12
+10195153,9/16/2017,FCS,South Dakota St.,Drake,RECEIVING,Mikey,Daniel,REC,1
+10195154,9/16/2017,FCS,South Dakota St.,Drake,RECEIVING,Mikey,Daniel,YDS,1
+10195155,9/16/2017,FCS,South Dakota St.,Drake,RECEIVING,Mikey,Daniel,TD,0
+10195156,9/16/2017,FCS,South Dakota St.,Drake,RECEIVING,Mikey,Daniel,LONG,1
+10195157,9/16/2017,FCS,South Dakota St.,Drake,KICKING,Chase,Vinatieri,FG-FGA,1/1
+10195158,9/16/2017,FCS,South Dakota St.,Drake,KICKING,Chase,Vinatieri,LONG,51
+10195159,9/16/2017,FCS,South Dakota St.,Drake,KICKING,Chase,Vinatieri,XP,4
+10195160,9/16/2017,FCS,South Dakota St.,Drake,KICKING,Chase,Vinatieri,PTS,7
+10195161,9/16/2017,FCS,South Dakota St.,Drake,PUNTING,Brady,Hale,NO,3
+10195162,9/16/2017,FCS,South Dakota St.,Drake,PUNTING,Brady,Hale,YDS,128
+10195163,9/16/2017,FCS,South Dakota St.,Drake,PUNTING,Brady,Hale,AVG,42.7
+10195164,9/16/2017,FCS,South Dakota St.,Drake,PUNTING,Brady,Hale,LONG,43
+10195165,9/16/2017,FCS,South Dakota St.,Drake,PUNT RETURNS,Marquise,Lewis,NO,4
+10195166,9/16/2017,FCS,South Dakota St.,Drake,PUNT RETURNS,Marquise,Lewis,YDS,61
+10195167,9/16/2017,FCS,South Dakota St.,Drake,PUNT RETURNS,Marquise,Lewis,AVG,15.2
+10195168,9/16/2017,FCS,South Dakota St.,Drake,PUNT RETURNS,Marquise,Lewis,LONG,33
+10195169,9/16/2017,FCS,South Dakota St.,Drake,PUNT RETURNS,Lorenzo,Williams,NO,1
+10195170,9/16/2017,FCS,South Dakota St.,Drake,PUNT RETURNS,Lorenzo,Williams,YDS,13
+10195171,9/16/2017,FCS,South Dakota St.,Drake,PUNT RETURNS,Lorenzo,Williams,AVG,13.0
+10195172,9/16/2017,FCS,South Dakota St.,Drake,PUNT RETURNS,Lorenzo,Williams,LONG,0
+10195173,9/16/2017,FCS,South Dakota St.,Drake,KICK RETURNS,Cade,Johnson,NO,1
+10195174,9/16/2017,FCS,South Dakota St.,Drake,KICK RETURNS,Cade,Johnson,YDS,95
+10195175,9/16/2017,FCS,South Dakota St.,Drake,KICK RETURNS,Cade,Johnson,AVG,95.0
+10195176,9/16/2017,FCS,South Dakota St.,Drake,KICK RETURNS,Cade,Johnson,LONG,95
+10195177,9/16/2017,FCS,South Dakota St.,Drake,KICK RETURNS,Luke,Sellers,NO,2
+10195178,9/16/2017,FCS,South Dakota St.,Drake,KICK RETURNS,Luke,Sellers,YDS,20
+10195179,9/16/2017,FCS,South Dakota St.,Drake,KICK RETURNS,Luke,Sellers,AVG,10.0
+10195180,9/16/2017,FCS,South Dakota St.,Drake,KICK RETURNS,Luke,Sellers,LONG,12

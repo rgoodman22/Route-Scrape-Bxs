@@ -1,0 +1,121 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+10559001,10/28/2017,FCS,Idaho State,Montana St.,RUSHING,James,Madison,ATT,30
+10559002,10/28/2017,FCS,Idaho State,Montana St.,RUSHING,James,Madison,YDS,105
+10559003,10/28/2017,FCS,Idaho State,Montana St.,RUSHING,James,Madison,TD,1
+10559004,10/28/2017,FCS,Idaho State,Montana St.,RUSHING,James,Madison,LONG,9
+10559005,10/28/2017,FCS,Idaho State,Montana St.,RUSHING,Ty,Flanagan,ATT,16
+10559006,10/28/2017,FCS,Idaho State,Montana St.,RUSHING,Ty,Flanagan,YDS,80
+10559007,10/28/2017,FCS,Idaho State,Montana St.,RUSHING,Ty,Flanagan,TD,0
+10559008,10/28/2017,FCS,Idaho State,Montana St.,RUSHING,Ty,Flanagan,LONG,14
+10559009,10/28/2017,FCS,Idaho State,Montana St.,RUSHING,Tanner,Gueller,ATT,6
+10559010,10/28/2017,FCS,Idaho State,Montana St.,RUSHING,Tanner,Gueller,YDS,16
+10559011,10/28/2017,FCS,Idaho State,Montana St.,RUSHING,Tanner,Gueller,TD,0
+10559012,10/28/2017,FCS,Idaho State,Montana St.,RUSHING,Tanner,Gueller,LONG,8
+10559013,10/28/2017,FCS,Idaho State,Montana St.,PASSING,Tanner,Gueller,CP-ATT-INT,17-28-2
+10559014,10/28/2017,FCS,Idaho State,Montana St.,PASSING,Tanner,Gueller,YDS,193
+10559015,10/28/2017,FCS,Idaho State,Montana St.,PASSING,Tanner,Gueller,TD,1
+10559016,10/28/2017,FCS,Idaho State,Montana St.,PASSING,Tanner,Gueller,LONG,37
+10559017,10/28/2017,FCS,Idaho State,Montana St.,RECEIVING,Mitch,Gueller,REC,5
+10559018,10/28/2017,FCS,Idaho State,Montana St.,RECEIVING,Mitch,Gueller,YDS,88
+10559019,10/28/2017,FCS,Idaho State,Montana St.,RECEIVING,Mitch,Gueller,TD,0
+10559020,10/28/2017,FCS,Idaho State,Montana St.,RECEIVING,Mitch,Gueller,LONG,37
+10559021,10/28/2017,FCS,Idaho State,Montana St.,RECEIVING,Michael,Dean,REC,4
+10559022,10/28/2017,FCS,Idaho State,Montana St.,RECEIVING,Michael,Dean,YDS,42
+10559023,10/28/2017,FCS,Idaho State,Montana St.,RECEIVING,Michael,Dean,TD,1
+10559024,10/28/2017,FCS,Idaho State,Montana St.,RECEIVING,Michael,Dean,LONG,23
+10559025,10/28/2017,FCS,Idaho State,Montana St.,RECEIVING,James,Madison,REC,5
+10559026,10/28/2017,FCS,Idaho State,Montana St.,RECEIVING,James,Madison,YDS,36
+10559027,10/28/2017,FCS,Idaho State,Montana St.,RECEIVING,James,Madison,TD,0
+10559028,10/28/2017,FCS,Idaho State,Montana St.,RECEIVING,James,Madison,LONG,18
+10559029,10/28/2017,FCS,Idaho State,Montana St.,RECEIVING,Hagen,Graves,REC,1
+10559030,10/28/2017,FCS,Idaho State,Montana St.,RECEIVING,Hagen,Graves,YDS,15
+10559031,10/28/2017,FCS,Idaho State,Montana St.,RECEIVING,Hagen,Graves,TD,0
+10559032,10/28/2017,FCS,Idaho State,Montana St.,RECEIVING,Hagen,Graves,LONG,15
+10559033,10/28/2017,FCS,Idaho State,Montana St.,RECEIVING,Ty,Flanagan,REC,2
+10559034,10/28/2017,FCS,Idaho State,Montana St.,RECEIVING,Ty,Flanagan,YDS,12
+10559035,10/28/2017,FCS,Idaho State,Montana St.,RECEIVING,Ty,Flanagan,TD,0
+10559036,10/28/2017,FCS,Idaho State,Montana St.,RECEIVING,Ty,Flanagan,LONG,10
+10559037,10/28/2017,FCS,Idaho State,Montana St.,KICKING,Zak,Johnson,FG-FGA,0/0
+10559038,10/28/2017,FCS,Idaho State,Montana St.,KICKING,Zak,Johnson,LONG,-
+10559039,10/28/2017,FCS,Idaho State,Montana St.,KICKING,Zak,Johnson,XP,1
+10559040,10/28/2017,FCS,Idaho State,Montana St.,KICKING,Zak,Johnson,PTS,1
+10559041,10/28/2017,FCS,Idaho State,Montana St.,KICKING,Sean,Cheney,FG-FGA,0/0
+10559042,10/28/2017,FCS,Idaho State,Montana St.,KICKING,Sean,Cheney,LONG,-
+10559043,10/28/2017,FCS,Idaho State,Montana St.,KICKING,Sean,Cheney,XP,1
+10559044,10/28/2017,FCS,Idaho State,Montana St.,KICKING,Sean,Cheney,PTS,1
+10559045,10/28/2017,FCS,Idaho State,Montana St.,PUNTING,Sean,Cheney,NO,3
+10559046,10/28/2017,FCS,Idaho State,Montana St.,PUNTING,Sean,Cheney,YDS,121
+10559047,10/28/2017,FCS,Idaho State,Montana St.,PUNTING,Sean,Cheney,AVG,40.3
+10559048,10/28/2017,FCS,Idaho State,Montana St.,PUNTING,Sean,Cheney,LONG,49
+10559049,10/28/2017,FCS,Idaho State,Montana St.,PUNT RETURNS,Kieran,Yancy,NO,1
+10559050,10/28/2017,FCS,Idaho State,Montana St.,PUNT RETURNS,Kieran,Yancy,YDS,11
+10559051,10/28/2017,FCS,Idaho State,Montana St.,PUNT RETURNS,Kieran,Yancy,AVG,11.0
+10559052,10/28/2017,FCS,Idaho State,Montana St.,PUNT RETURNS,Kieran,Yancy,LONG,11
+10559053,10/28/2017,FCS,Idaho State,Montana St.,KICK RETURNS,Trey,Bell,NO,3
+10559054,10/28/2017,FCS,Idaho State,Montana St.,KICK RETURNS,Trey,Bell,YDS,66
+10559055,10/28/2017,FCS,Idaho State,Montana St.,KICK RETURNS,Trey,Bell,AVG,22.0
+10559056,10/28/2017,FCS,Idaho State,Montana St.,KICK RETURNS,Trey,Bell,LONG,23
+10559057,10/28/2017,FCS,Idaho State,Montana St.,KICK RETURNS,Kieran,Yancy,NO,2
+10559058,10/28/2017,FCS,Idaho State,Montana St.,KICK RETURNS,Kieran,Yancy,YDS,46
+10559059,10/28/2017,FCS,Idaho State,Montana St.,KICK RETURNS,Kieran,Yancy,AVG,23.0
+10559060,10/28/2017,FCS,Idaho State,Montana St.,KICK RETURNS,Kieran,Yancy,LONG,25
+10559061,10/28/2017,FCS,Montana St.,Idaho State,RUSHING,Nick,LaSane,ATT,13
+10559062,10/28/2017,FCS,Montana St.,Idaho State,RUSHING,Nick,LaSane,YDS,83
+10559063,10/28/2017,FCS,Montana St.,Idaho State,RUSHING,Nick,LaSane,TD,0
+10559064,10/28/2017,FCS,Montana St.,Idaho State,RUSHING,Nick,LaSane,LONG,23
+10559065,10/28/2017,FCS,Montana St.,Idaho State,RUSHING,Chris,Murray,ATT,14
+10559066,10/28/2017,FCS,Montana St.,Idaho State,RUSHING,Chris,Murray,YDS,67
+10559067,10/28/2017,FCS,Montana St.,Idaho State,RUSHING,Chris,Murray,TD,1
+10559068,10/28/2017,FCS,Montana St.,Idaho State,RUSHING,Chris,Murray,LONG,28
+10559069,10/28/2017,FCS,Montana St.,Idaho State,RUSHING,Troy,Andersen,ATT,7
+10559070,10/28/2017,FCS,Montana St.,Idaho State,RUSHING,Troy,Andersen,YDS,57
+10559071,10/28/2017,FCS,Montana St.,Idaho State,RUSHING,Troy,Andersen,TD,0
+10559072,10/28/2017,FCS,Montana St.,Idaho State,RUSHING,Troy,Andersen,LONG,14
+10559073,10/28/2017,FCS,Montana St.,Idaho State,RUSHING,Tyrel,Burgess,ATT,1
+10559074,10/28/2017,FCS,Montana St.,Idaho State,RUSHING,Tyrel,Burgess,YDS,1
+10559075,10/28/2017,FCS,Montana St.,Idaho State,RUSHING,Tyrel,Burgess,TD,0
+10559076,10/28/2017,FCS,Montana St.,Idaho State,RUSHING,Tyrel,Burgess,LONG,1
+10559077,10/28/2017,FCS,Montana St.,Idaho State,RUSHING,,Team,ATT,2
+10559078,10/28/2017,FCS,Montana St.,Idaho State,RUSHING,,Team,YDS,-17
+10559079,10/28/2017,FCS,Montana St.,Idaho State,RUSHING,,Team,TD,0
+10559080,10/28/2017,FCS,Montana St.,Idaho State,RUSHING,,Team,LONG,0
+10559081,10/28/2017,FCS,Montana St.,Idaho State,PASSING,Chris,Murray,CP-ATT-INT,10-20-1
+10559082,10/28/2017,FCS,Montana St.,Idaho State,PASSING,Chris,Murray,YDS,231
+10559083,10/28/2017,FCS,Montana St.,Idaho State,PASSING,Chris,Murray,TD,2
+10559084,10/28/2017,FCS,Montana St.,Idaho State,PASSING,Chris,Murray,LONG,77
+10559085,10/28/2017,FCS,Montana St.,Idaho State,RECEIVING,Nick,LaSane,REC,1
+10559086,10/28/2017,FCS,Montana St.,Idaho State,RECEIVING,Nick,LaSane,YDS,77
+10559087,10/28/2017,FCS,Montana St.,Idaho State,RECEIVING,Nick,LaSane,TD,0
+10559088,10/28/2017,FCS,Montana St.,Idaho State,RECEIVING,Nick,LaSane,LONG,77
+10559089,10/28/2017,FCS,Montana St.,Idaho State,RECEIVING,Jabarri,Johnson,REC,3
+10559090,10/28/2017,FCS,Montana St.,Idaho State,RECEIVING,Jabarri,Johnson,YDS,57
+10559091,10/28/2017,FCS,Montana St.,Idaho State,RECEIVING,Jabarri,Johnson,TD,0
+10559092,10/28/2017,FCS,Montana St.,Idaho State,RECEIVING,Jabarri,Johnson,LONG,37
+10559093,10/28/2017,FCS,Montana St.,Idaho State,RECEIVING,Troy,Andersen,REC,1
+10559094,10/28/2017,FCS,Montana St.,Idaho State,RECEIVING,Troy,Andersen,YDS,43
+10559095,10/28/2017,FCS,Montana St.,Idaho State,RECEIVING,Troy,Andersen,TD,1
+10559096,10/28/2017,FCS,Montana St.,Idaho State,RECEIVING,Troy,Andersen,LONG,43
+10559097,10/28/2017,FCS,Montana St.,Idaho State,RECEIVING,Mitchell,Herbert,REC,4
+10559098,10/28/2017,FCS,Montana St.,Idaho State,RECEIVING,Mitchell,Herbert,YDS,33
+10559099,10/28/2017,FCS,Montana St.,Idaho State,RECEIVING,Mitchell,Herbert,TD,1
+10559100,10/28/2017,FCS,Montana St.,Idaho State,RECEIVING,Mitchell,Herbert,LONG,13
+10559101,10/28/2017,FCS,Montana St.,Idaho State,RECEIVING,Kevin,Kassis,REC,1
+10559102,10/28/2017,FCS,Montana St.,Idaho State,RECEIVING,Kevin,Kassis,YDS,21
+10559103,10/28/2017,FCS,Montana St.,Idaho State,RECEIVING,Kevin,Kassis,TD,0
+10559104,10/28/2017,FCS,Montana St.,Idaho State,RECEIVING,Kevin,Kassis,LONG,21
+10559105,10/28/2017,FCS,Montana St.,Idaho State,KICKING,Gabe,Peppenger,FG-FGA,0/0
+10559106,10/28/2017,FCS,Montana St.,Idaho State,KICKING,Gabe,Peppenger,LONG,-
+10559107,10/28/2017,FCS,Montana St.,Idaho State,KICKING,Gabe,Peppenger,XP,4
+10559108,10/28/2017,FCS,Montana St.,Idaho State,KICKING,Gabe,Peppenger,PTS,4
+10559109,10/28/2017,FCS,Montana St.,Idaho State,PUNTING,Jered,Padmos,NO,5
+10559110,10/28/2017,FCS,Montana St.,Idaho State,PUNTING,Jered,Padmos,YDS,260
+10559111,10/28/2017,FCS,Montana St.,Idaho State,PUNTING,Jered,Padmos,AVG,52.0
+10559112,10/28/2017,FCS,Montana St.,Idaho State,PUNTING,Jered,Padmos,LONG,70
+10559113,10/28/2017,FCS,Montana St.,Idaho State,PUNT RETURNS,Kevin,Kassis,NO,2
+10559114,10/28/2017,FCS,Montana St.,Idaho State,PUNT RETURNS,Kevin,Kassis,YDS,17
+10559115,10/28/2017,FCS,Montana St.,Idaho State,PUNT RETURNS,Kevin,Kassis,AVG,8.5
+10559116,10/28/2017,FCS,Montana St.,Idaho State,PUNT RETURNS,Kevin,Kassis,LONG,19
+10559117,10/28/2017,FCS,Montana St.,Idaho State,KICK RETURNS,Tyrel,Burgess,NO,3
+10559118,10/28/2017,FCS,Montana St.,Idaho State,KICK RETURNS,Tyrel,Burgess,YDS,63
+10559119,10/28/2017,FCS,Montana St.,Idaho State,KICK RETURNS,Tyrel,Burgess,AVG,21.0
+10559120,10/28/2017,FCS,Montana St.,Idaho State,KICK RETURNS,Tyrel,Burgess,LONG,25

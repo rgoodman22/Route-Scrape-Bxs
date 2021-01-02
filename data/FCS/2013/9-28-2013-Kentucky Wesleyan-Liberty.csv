@@ -1,0 +1,153 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+7061001,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RUSHING,Jeff,Ward,ATT,7
+7061002,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RUSHING,Jeff,Ward,YDS,26
+7061003,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RUSHING,Jeff,Ward,TD,0
+7061004,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RUSHING,Jeff,Ward,LONG,11
+7061005,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RUSHING,Devin,Le'Gall,ATT,14
+7061006,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RUSHING,Devin,Le'Gall,YDS,19
+7061007,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RUSHING,Devin,Le'Gall,TD,0
+7061008,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RUSHING,Devin,Le'Gall,LONG,7
+7061009,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RUSHING,LaDon,Laney,ATT,2
+7061010,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RUSHING,LaDon,Laney,YDS,11
+7061011,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RUSHING,LaDon,Laney,TD,0
+7061012,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RUSHING,LaDon,Laney,LONG,7
+7061013,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RUSHING,,Team,ATT,2
+7061014,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RUSHING,,Team,YDS,-4
+7061015,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RUSHING,,Team,TD,0
+7061016,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RUSHING,,Team,LONG,0
+7061017,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RUSHING,Dalton,Oliver,ATT,1
+7061018,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RUSHING,Dalton,Oliver,YDS,-4
+7061019,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RUSHING,Dalton,Oliver,TD,0
+7061020,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RUSHING,Dalton,Oliver,LONG,0
+7061021,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RUSHING,Kemota,Jackson,ATT,1
+7061022,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RUSHING,Kemota,Jackson,YDS,-7
+7061023,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RUSHING,Kemota,Jackson,TD,0
+7061024,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RUSHING,Kemota,Jackson,LONG,0
+7061025,9/28/2013,FCS,Kentucky Wesleyan,Liberty,PASSING,Dalton,Oliver,CP-ATT-INT,12-23-3
+7061026,9/28/2013,FCS,Kentucky Wesleyan,Liberty,PASSING,Dalton,Oliver,YDS,141
+7061027,9/28/2013,FCS,Kentucky Wesleyan,Liberty,PASSING,Dalton,Oliver,TD,1
+7061028,9/28/2013,FCS,Kentucky Wesleyan,Liberty,PASSING,Dalton,Oliver,LONG,48
+7061029,9/28/2013,FCS,Kentucky Wesleyan,Liberty,PASSING,Kemota,Jackson,CP-ATT-INT,2-4-1
+7061030,9/28/2013,FCS,Kentucky Wesleyan,Liberty,PASSING,Kemota,Jackson,YDS,30
+7061031,9/28/2013,FCS,Kentucky Wesleyan,Liberty,PASSING,Kemota,Jackson,TD,0
+7061032,9/28/2013,FCS,Kentucky Wesleyan,Liberty,PASSING,Kemota,Jackson,LONG,16
+7061033,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RECEIVING,Keelan,Cole,REC,6
+7061034,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RECEIVING,Keelan,Cole,YDS,68
+7061035,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RECEIVING,Keelan,Cole,TD,0
+7061036,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RECEIVING,Keelan,Cole,LONG,16
+7061037,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RECEIVING,Jeff,Ward,REC,4
+7061038,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RECEIVING,Jeff,Ward,YDS,76
+7061039,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RECEIVING,Jeff,Ward,TD,1
+7061040,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RECEIVING,Jeff,Ward,LONG,48
+7061041,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RECEIVING,Devin,Le'Gall,REC,2
+7061042,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RECEIVING,Devin,Le'Gall,YDS,9
+7061043,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RECEIVING,Devin,Le'Gall,TD,0
+7061044,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RECEIVING,Devin,Le'Gall,LONG,5
+7061045,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RECEIVING,Roger,Beets,REC,1
+7061046,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RECEIVING,Roger,Beets,YDS,14
+7061047,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RECEIVING,Roger,Beets,TD,0
+7061048,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RECEIVING,Roger,Beets,LONG,14
+7061049,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RECEIVING,Martez,Sivils,REC,1
+7061050,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RECEIVING,Martez,Sivils,YDS,4
+7061051,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RECEIVING,Martez,Sivils,TD,0
+7061052,9/28/2013,FCS,Kentucky Wesleyan,Liberty,RECEIVING,Martez,Sivils,LONG,4
+7061053,9/28/2013,FCS,Kentucky Wesleyan,Liberty,KICKING,Nathan,Ballinger,FG-FGA,0/0
+7061054,9/28/2013,FCS,Kentucky Wesleyan,Liberty,KICKING,Nathan,Ballinger,LONG,-
+7061055,9/28/2013,FCS,Kentucky Wesleyan,Liberty,KICKING,Nathan,Ballinger,XP,1
+7061056,9/28/2013,FCS,Kentucky Wesleyan,Liberty,KICKING,Nathan,Ballinger,PTS,1
+7061057,9/28/2013,FCS,Kentucky Wesleyan,Liberty,PUNTING,Nathan,Ballinger,NO,7
+7061058,9/28/2013,FCS,Kentucky Wesleyan,Liberty,PUNTING,Nathan,Ballinger,YDS,250
+7061059,9/28/2013,FCS,Kentucky Wesleyan,Liberty,PUNTING,Nathan,Ballinger,AVG,35.7
+7061060,9/28/2013,FCS,Kentucky Wesleyan,Liberty,PUNTING,Nathan,Ballinger,LONG,45
+7061061,9/28/2013,FCS,Kentucky Wesleyan,Liberty,PUNTING,,Team,NO,1
+7061062,9/28/2013,FCS,Kentucky Wesleyan,Liberty,PUNTING,,Team,YDS,0
+7061063,9/28/2013,FCS,Kentucky Wesleyan,Liberty,PUNTING,,Team,AVG,0.0
+7061064,9/28/2013,FCS,Kentucky Wesleyan,Liberty,PUNTING,,Team,LONG,0
+7061065,9/28/2013,FCS,Kentucky Wesleyan,Liberty,KICK RETURNS,Jeff,Ward,NO,4
+7061066,9/28/2013,FCS,Kentucky Wesleyan,Liberty,KICK RETURNS,Jeff,Ward,YDS,82
+7061067,9/28/2013,FCS,Kentucky Wesleyan,Liberty,KICK RETURNS,Jeff,Ward,AVG,20.5
+7061068,9/28/2013,FCS,Kentucky Wesleyan,Liberty,KICK RETURNS,Jeff,Ward,LONG,26
+7061069,9/28/2013,FCS,Kentucky Wesleyan,Liberty,KICK RETURNS,Xavier,Mitchell,NO,3
+7061070,9/28/2013,FCS,Kentucky Wesleyan,Liberty,KICK RETURNS,Xavier,Mitchell,YDS,34
+7061071,9/28/2013,FCS,Kentucky Wesleyan,Liberty,KICK RETURNS,Xavier,Mitchell,AVG,11.3
+7061072,9/28/2013,FCS,Kentucky Wesleyan,Liberty,KICK RETURNS,Xavier,Mitchell,LONG,15
+7061073,9/28/2013,FCS,Kentucky Wesleyan,Liberty,KICK RETURNS,Ben,Marigny,NO,1
+7061074,9/28/2013,FCS,Kentucky Wesleyan,Liberty,KICK RETURNS,Ben,Marigny,YDS,18
+7061075,9/28/2013,FCS,Kentucky Wesleyan,Liberty,KICK RETURNS,Ben,Marigny,AVG,18.0
+7061076,9/28/2013,FCS,Kentucky Wesleyan,Liberty,KICK RETURNS,Ben,Marigny,LONG,18
+7061077,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RUSHING,D.J.,Abnar,ATT,15
+7061078,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RUSHING,D.J.,Abnar,YDS,108
+7061079,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RUSHING,D.J.,Abnar,TD,2
+7061080,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RUSHING,D.J.,Abnar,LONG,18
+7061081,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RUSHING,Desmond,Rice,ATT,8
+7061082,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RUSHING,Desmond,Rice,YDS,63
+7061083,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RUSHING,Desmond,Rice,TD,1
+7061084,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RUSHING,Desmond,Rice,LONG,26
+7061085,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RUSHING,Austin,Kaigler,ATT,15
+7061086,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RUSHING,Austin,Kaigler,YDS,54
+7061087,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RUSHING,Austin,Kaigler,TD,2
+7061088,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RUSHING,Austin,Kaigler,LONG,8
+7061089,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RUSHING,Greg,Pratt,ATT,3
+7061090,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RUSHING,Greg,Pratt,YDS,27
+7061091,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RUSHING,Greg,Pratt,TD,0
+7061092,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RUSHING,Greg,Pratt,LONG,14
+7061093,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RUSHING,Josh,Woodrum,ATT,2
+7061094,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RUSHING,Josh,Woodrum,YDS,4
+7061095,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RUSHING,Josh,Woodrum,TD,0
+7061096,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RUSHING,Josh,Woodrum,LONG,7
+7061097,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RUSHING,Javan,Shashaty,ATT,1
+7061098,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RUSHING,Javan,Shashaty,YDS,-1
+7061099,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RUSHING,Javan,Shashaty,TD,0
+7061100,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RUSHING,Javan,Shashaty,LONG,0
+7061101,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RUSHING,,Team,ATT,1
+7061102,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RUSHING,,Team,YDS,-14
+7061103,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RUSHING,,Team,TD,0
+7061104,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RUSHING,,Team,LONG,0
+7061105,9/28/2013,FCS,Liberty,Kentucky Wesleyan,PASSING,Josh,Woodrum,CP-ATT-INT,6-11-1
+7061106,9/28/2013,FCS,Liberty,Kentucky Wesleyan,PASSING,Josh,Woodrum,YDS,114
+7061107,9/28/2013,FCS,Liberty,Kentucky Wesleyan,PASSING,Josh,Woodrum,TD,2
+7061108,9/28/2013,FCS,Liberty,Kentucky Wesleyan,PASSING,Josh,Woodrum,LONG,55
+7061109,9/28/2013,FCS,Liberty,Kentucky Wesleyan,PASSING,Javan,Shashaty,CP-ATT-INT,7-8-0
+7061110,9/28/2013,FCS,Liberty,Kentucky Wesleyan,PASSING,Javan,Shashaty,YDS,107
+7061111,9/28/2013,FCS,Liberty,Kentucky Wesleyan,PASSING,Javan,Shashaty,TD,1
+7061112,9/28/2013,FCS,Liberty,Kentucky Wesleyan,PASSING,Javan,Shashaty,LONG,26
+7061113,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RECEIVING,Darrin,Peterson,REC,5
+7061114,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RECEIVING,Darrin,Peterson,YDS,86
+7061115,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RECEIVING,Darrin,Peterson,TD,2
+7061116,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RECEIVING,Darrin,Peterson,LONG,55
+7061117,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RECEIVING,Jaquan,Glover,REC,4
+7061118,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RECEIVING,Jaquan,Glover,YDS,50
+7061119,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RECEIVING,Jaquan,Glover,TD,0
+7061120,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RECEIVING,Jaquan,Glover,LONG,20
+7061121,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RECEIVING,Greg,Pratt,REC,2
+7061122,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RECEIVING,Greg,Pratt,YDS,34
+7061123,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RECEIVING,Greg,Pratt,TD,0
+7061124,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RECEIVING,Greg,Pratt,LONG,26
+7061125,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RECEIVING,Gabe,Henderson,REC,1
+7061126,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RECEIVING,Gabe,Henderson,YDS,28
+7061127,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RECEIVING,Gabe,Henderson,TD,0
+7061128,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RECEIVING,Gabe,Henderson,LONG,28
+7061129,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RECEIVING,Desmond,Rice,REC,1
+7061130,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RECEIVING,Desmond,Rice,YDS,23
+7061131,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RECEIVING,Desmond,Rice,TD,1
+7061132,9/28/2013,FCS,Liberty,Kentucky Wesleyan,RECEIVING,Desmond,Rice,LONG,23
+7061133,9/28/2013,FCS,Liberty,Kentucky Wesleyan,KICKING,John,Lunsford,FG-FGA,1/1
+7061134,9/28/2013,FCS,Liberty,Kentucky Wesleyan,KICKING,John,Lunsford,LONG,34
+7061135,9/28/2013,FCS,Liberty,Kentucky Wesleyan,KICKING,John,Lunsford,XP,10
+7061136,9/28/2013,FCS,Liberty,Kentucky Wesleyan,KICKING,John,Lunsford,PTS,13
+7061137,9/28/2013,FCS,Liberty,Kentucky Wesleyan,PUNTING,Grant,Bowden,NO,1
+7061138,9/28/2013,FCS,Liberty,Kentucky Wesleyan,PUNTING,Grant,Bowden,YDS,26
+7061139,9/28/2013,FCS,Liberty,Kentucky Wesleyan,PUNTING,Grant,Bowden,AVG,26.0
+7061140,9/28/2013,FCS,Liberty,Kentucky Wesleyan,PUNTING,Grant,Bowden,LONG,26
+7061141,9/28/2013,FCS,Liberty,Kentucky Wesleyan,PUNT RETURNS,Kevin,Fogg,NO,2
+7061142,9/28/2013,FCS,Liberty,Kentucky Wesleyan,PUNT RETURNS,Kevin,Fogg,YDS,12
+7061143,9/28/2013,FCS,Liberty,Kentucky Wesleyan,PUNT RETURNS,Kevin,Fogg,AVG,6.0
+7061144,9/28/2013,FCS,Liberty,Kentucky Wesleyan,PUNT RETURNS,Kevin,Fogg,LONG,14
+7061145,9/28/2013,FCS,Liberty,Kentucky Wesleyan,PUNT RETURNS,Andrew,Jauch,NO,1
+7061146,9/28/2013,FCS,Liberty,Kentucky Wesleyan,PUNT RETURNS,Andrew,Jauch,YDS,44
+7061147,9/28/2013,FCS,Liberty,Kentucky Wesleyan,PUNT RETURNS,Andrew,Jauch,AVG,44.0
+7061148,9/28/2013,FCS,Liberty,Kentucky Wesleyan,PUNT RETURNS,Andrew,Jauch,LONG,30
+7061149,9/28/2013,FCS,Liberty,Kentucky Wesleyan,KICK RETURNS,D.J.,Abnar,NO,1
+7061150,9/28/2013,FCS,Liberty,Kentucky Wesleyan,KICK RETURNS,D.J.,Abnar,YDS,36
+7061151,9/28/2013,FCS,Liberty,Kentucky Wesleyan,KICK RETURNS,D.J.,Abnar,AVG,36.0
+7061152,9/28/2013,FCS,Liberty,Kentucky Wesleyan,KICK RETURNS,D.J.,Abnar,LONG,36

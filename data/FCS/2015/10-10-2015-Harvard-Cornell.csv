@@ -1,0 +1,145 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+8775001,10/10/2015,FCS,Harvard,Cornell,RUSHING,Paul,StantonJr.,ATT,17
+8775002,10/10/2015,FCS,Harvard,Cornell,RUSHING,Paul,StantonJr.,YDS,101
+8775003,10/10/2015,FCS,Harvard,Cornell,RUSHING,Paul,StantonJr.,TD,1
+8775004,10/10/2015,FCS,Harvard,Cornell,RUSHING,Paul,StantonJr.,LONG,17
+8775005,10/10/2015,FCS,Harvard,Cornell,RUSHING,Scott,Hosch,ATT,7
+8775006,10/10/2015,FCS,Harvard,Cornell,RUSHING,Scott,Hosch,YDS,78
+8775007,10/10/2015,FCS,Harvard,Cornell,RUSHING,Scott,Hosch,TD,1
+8775008,10/10/2015,FCS,Harvard,Cornell,RUSHING,Scott,Hosch,LONG,35
+8775009,10/10/2015,FCS,Harvard,Cornell,RUSHING,Jason,Holdway,ATT,3
+8775010,10/10/2015,FCS,Harvard,Cornell,RUSHING,Jason,Holdway,YDS,36
+8775011,10/10/2015,FCS,Harvard,Cornell,RUSHING,Jason,Holdway,TD,0
+8775012,10/10/2015,FCS,Harvard,Cornell,RUSHING,Jason,Holdway,LONG,22
+8775013,10/10/2015,FCS,Harvard,Cornell,RUSHING,Noah,Reimers,ATT,11
+8775014,10/10/2015,FCS,Harvard,Cornell,RUSHING,Noah,Reimers,YDS,33
+8775015,10/10/2015,FCS,Harvard,Cornell,RUSHING,Noah,Reimers,TD,0
+8775016,10/10/2015,FCS,Harvard,Cornell,RUSHING,Noah,Reimers,LONG,11
+8775017,10/10/2015,FCS,Harvard,Cornell,RUSHING,Jimmy,Meyer,ATT,1
+8775018,10/10/2015,FCS,Harvard,Cornell,RUSHING,Jimmy,Meyer,YDS,1
+8775019,10/10/2015,FCS,Harvard,Cornell,RUSHING,Jimmy,Meyer,TD,0
+8775020,10/10/2015,FCS,Harvard,Cornell,RUSHING,Jimmy,Meyer,LONG,1
+8775021,10/10/2015,FCS,Harvard,Cornell,PASSING,Scott,Hosch,CP-ATT-INT,14-30-0
+8775022,10/10/2015,FCS,Harvard,Cornell,PASSING,Scott,Hosch,YDS,244
+8775023,10/10/2015,FCS,Harvard,Cornell,PASSING,Scott,Hosch,TD,3
+8775024,10/10/2015,FCS,Harvard,Cornell,PASSING,Scott,Hosch,LONG,47
+8775025,10/10/2015,FCS,Harvard,Cornell,PASSING,Jimmy,Meyer,CP-ATT-INT,1-2-0
+8775026,10/10/2015,FCS,Harvard,Cornell,PASSING,Jimmy,Meyer,YDS,6
+8775027,10/10/2015,FCS,Harvard,Cornell,PASSING,Jimmy,Meyer,TD,0
+8775028,10/10/2015,FCS,Harvard,Cornell,PASSING,Jimmy,Meyer,LONG,6
+8775029,10/10/2015,FCS,Harvard,Cornell,RECEIVING,Ben,Braunecker,REC,3
+8775030,10/10/2015,FCS,Harvard,Cornell,RECEIVING,Ben,Braunecker,YDS,64
+8775031,10/10/2015,FCS,Harvard,Cornell,RECEIVING,Ben,Braunecker,TD,1
+8775032,10/10/2015,FCS,Harvard,Cornell,RECEIVING,Ben,Braunecker,LONG,47
+8775033,10/10/2015,FCS,Harvard,Cornell,RECEIVING,Justice,Shelton-Mosely,REC,1
+8775034,10/10/2015,FCS,Harvard,Cornell,RECEIVING,Justice,Shelton-Mosely,YDS,46
+8775035,10/10/2015,FCS,Harvard,Cornell,RECEIVING,Justice,Shelton-Mosely,TD,1
+8775036,10/10/2015,FCS,Harvard,Cornell,RECEIVING,Justice,Shelton-Mosely,LONG,46
+8775037,10/10/2015,FCS,Harvard,Cornell,RECEIVING,Anthony,Firkser,REC,3
+8775038,10/10/2015,FCS,Harvard,Cornell,RECEIVING,Anthony,Firkser,YDS,41
+8775039,10/10/2015,FCS,Harvard,Cornell,RECEIVING,Anthony,Firkser,TD,1
+8775040,10/10/2015,FCS,Harvard,Cornell,RECEIVING,Anthony,Firkser,LONG,19
+8775041,10/10/2015,FCS,Harvard,Cornell,RECEIVING,Seitu,SmithII,REC,2
+8775042,10/10/2015,FCS,Harvard,Cornell,RECEIVING,Seitu,SmithII,YDS,37
+8775043,10/10/2015,FCS,Harvard,Cornell,RECEIVING,Seitu,SmithII,TD,0
+8775044,10/10/2015,FCS,Harvard,Cornell,RECEIVING,Seitu,SmithII,LONG,29
+8775045,10/10/2015,FCS,Harvard,Cornell,RECEIVING,David,Trompke,REC,3
+8775046,10/10/2015,FCS,Harvard,Cornell,RECEIVING,David,Trompke,YDS,30
+8775047,10/10/2015,FCS,Harvard,Cornell,RECEIVING,David,Trompke,TD,0
+8775048,10/10/2015,FCS,Harvard,Cornell,RECEIVING,David,Trompke,LONG,20
+8775049,10/10/2015,FCS,Harvard,Cornell,RECEIVING,Tanner,Wrisley,REC,2
+8775050,10/10/2015,FCS,Harvard,Cornell,RECEIVING,Tanner,Wrisley,YDS,21
+8775051,10/10/2015,FCS,Harvard,Cornell,RECEIVING,Tanner,Wrisley,TD,0
+8775052,10/10/2015,FCS,Harvard,Cornell,RECEIVING,Tanner,Wrisley,LONG,15
+8775053,10/10/2015,FCS,Harvard,Cornell,RECEIVING,Ryan,Halvorson,REC,1
+8775054,10/10/2015,FCS,Harvard,Cornell,RECEIVING,Ryan,Halvorson,YDS,11
+8775055,10/10/2015,FCS,Harvard,Cornell,RECEIVING,Ryan,Halvorson,TD,0
+8775056,10/10/2015,FCS,Harvard,Cornell,RECEIVING,Ryan,Halvorson,LONG,11
+8775057,10/10/2015,FCS,Harvard,Cornell,KICKING,Kenny,Smart,FG-FGA,2/3
+8775058,10/10/2015,FCS,Harvard,Cornell,KICKING,Kenny,Smart,LONG,28
+8775059,10/10/2015,FCS,Harvard,Cornell,KICKING,Kenny,Smart,XP,4
+8775060,10/10/2015,FCS,Harvard,Cornell,KICKING,Kenny,Smart,PTS,10
+8775061,10/10/2015,FCS,Harvard,Cornell,PUNTING,Zach,Schmid,NO,4
+8775062,10/10/2015,FCS,Harvard,Cornell,PUNTING,Zach,Schmid,YDS,166
+8775063,10/10/2015,FCS,Harvard,Cornell,PUNTING,Zach,Schmid,AVG,41.5
+8775064,10/10/2015,FCS,Harvard,Cornell,PUNTING,Zach,Schmid,LONG,50
+8775065,10/10/2015,FCS,Harvard,Cornell,PUNT RETURNS,Justice,Shelton-Mosely,NO,3
+8775066,10/10/2015,FCS,Harvard,Cornell,PUNT RETURNS,Justice,Shelton-Mosely,YDS,39
+8775067,10/10/2015,FCS,Harvard,Cornell,PUNT RETURNS,Justice,Shelton-Mosely,AVG,13.0
+8775068,10/10/2015,FCS,Harvard,Cornell,PUNT RETURNS,Justice,Shelton-Mosely,LONG,18
+8775069,10/10/2015,FCS,Harvard,Cornell,KICK RETURNS,Justice,Shelton-Mosely,NO,2
+8775070,10/10/2015,FCS,Harvard,Cornell,KICK RETURNS,Justice,Shelton-Mosely,YDS,78
+8775071,10/10/2015,FCS,Harvard,Cornell,KICK RETURNS,Justice,Shelton-Mosely,AVG,39.0
+8775072,10/10/2015,FCS,Harvard,Cornell,KICK RETURNS,Justice,Shelton-Mosely,LONG,48
+8775073,10/10/2015,FCS,Cornell,Harvard,RUSHING,Chris,Walker,ATT,9
+8775074,10/10/2015,FCS,Cornell,Harvard,RUSHING,Chris,Walker,YDS,47
+8775075,10/10/2015,FCS,Cornell,Harvard,RUSHING,Chris,Walker,TD,0
+8775076,10/10/2015,FCS,Cornell,Harvard,RUSHING,Chris,Walker,LONG,11
+8775077,10/10/2015,FCS,Cornell,Harvard,RUSHING,Luke,Hagy,ATT,15
+8775078,10/10/2015,FCS,Cornell,Harvard,RUSHING,Luke,Hagy,YDS,33
+8775079,10/10/2015,FCS,Cornell,Harvard,RUSHING,Luke,Hagy,TD,0
+8775080,10/10/2015,FCS,Cornell,Harvard,RUSHING,Luke,Hagy,LONG,7
+8775081,10/10/2015,FCS,Cornell,Harvard,RUSHING,Ben,Rogers,ATT,1
+8775082,10/10/2015,FCS,Cornell,Harvard,RUSHING,Ben,Rogers,YDS,4
+8775083,10/10/2015,FCS,Cornell,Harvard,RUSHING,Ben,Rogers,TD,0
+8775084,10/10/2015,FCS,Cornell,Harvard,RUSHING,Ben,Rogers,LONG,4
+8775085,10/10/2015,FCS,Cornell,Harvard,RUSHING,Julian,Gallo,ATT,1
+8775086,10/10/2015,FCS,Cornell,Harvard,RUSHING,Julian,Gallo,YDS,2
+8775087,10/10/2015,FCS,Cornell,Harvard,RUSHING,Julian,Gallo,TD,0
+8775088,10/10/2015,FCS,Cornell,Harvard,RUSHING,Julian,Gallo,LONG,2
+8775089,10/10/2015,FCS,Cornell,Harvard,RUSHING,Josh,Sweet,ATT,1
+8775090,10/10/2015,FCS,Cornell,Harvard,RUSHING,Josh,Sweet,YDS,1
+8775091,10/10/2015,FCS,Cornell,Harvard,RUSHING,Josh,Sweet,TD,0
+8775092,10/10/2015,FCS,Cornell,Harvard,RUSHING,Josh,Sweet,LONG,1
+8775093,10/10/2015,FCS,Cornell,Harvard,RUSHING,Jake,Jatis,ATT,3
+8775094,10/10/2015,FCS,Cornell,Harvard,RUSHING,Jake,Jatis,YDS,0
+8775095,10/10/2015,FCS,Cornell,Harvard,RUSHING,Jake,Jatis,TD,0
+8775096,10/10/2015,FCS,Cornell,Harvard,RUSHING,Jake,Jatis,LONG,9
+8775097,10/10/2015,FCS,Cornell,Harvard,RUSHING,Robert,Somborn,ATT,3
+8775098,10/10/2015,FCS,Cornell,Harvard,RUSHING,Robert,Somborn,YDS,-7
+8775099,10/10/2015,FCS,Cornell,Harvard,RUSHING,Robert,Somborn,TD,0
+8775100,10/10/2015,FCS,Cornell,Harvard,RUSHING,Robert,Somborn,LONG,1
+8775101,10/10/2015,FCS,Cornell,Harvard,PASSING,Robert,Somborn,CP-ATT-INT,9-16-3
+8775102,10/10/2015,FCS,Cornell,Harvard,PASSING,Robert,Somborn,YDS,107
+8775103,10/10/2015,FCS,Cornell,Harvard,PASSING,Robert,Somborn,TD,0
+8775104,10/10/2015,FCS,Cornell,Harvard,PASSING,Robert,Somborn,LONG,33
+8775105,10/10/2015,FCS,Cornell,Harvard,PASSING,Jake,Jatis,CP-ATT-INT,2-3-0
+8775106,10/10/2015,FCS,Cornell,Harvard,PASSING,Jake,Jatis,YDS,5
+8775107,10/10/2015,FCS,Cornell,Harvard,PASSING,Jake,Jatis,TD,0
+8775108,10/10/2015,FCS,Cornell,Harvard,PASSING,Jake,Jatis,LONG,7
+8775109,10/10/2015,FCS,Cornell,Harvard,RECEIVING,Ben,Rogers,REC,4
+8775110,10/10/2015,FCS,Cornell,Harvard,RECEIVING,Ben,Rogers,YDS,38
+8775111,10/10/2015,FCS,Cornell,Harvard,RECEIVING,Ben,Rogers,TD,0
+8775112,10/10/2015,FCS,Cornell,Harvard,RECEIVING,Ben,Rogers,LONG,10
+8775113,10/10/2015,FCS,Cornell,Harvard,RECEIVING,Matt,Sullivan,REC,2
+8775114,10/10/2015,FCS,Cornell,Harvard,RECEIVING,Matt,Sullivan,YDS,31
+8775115,10/10/2015,FCS,Cornell,Harvard,RECEIVING,Matt,Sullivan,TD,0
+8775116,10/10/2015,FCS,Cornell,Harvard,RECEIVING,Matt,Sullivan,LONG,33
+8775117,10/10/2015,FCS,Cornell,Harvard,RECEIVING,James,Hubbard,REC,3
+8775118,10/10/2015,FCS,Cornell,Harvard,RECEIVING,James,Hubbard,YDS,28
+8775119,10/10/2015,FCS,Cornell,Harvard,RECEIVING,James,Hubbard,TD,0
+8775120,10/10/2015,FCS,Cornell,Harvard,RECEIVING,James,Hubbard,LONG,10
+8775121,10/10/2015,FCS,Cornell,Harvard,RECEIVING,Luke,Hagy,REC,1
+8775122,10/10/2015,FCS,Cornell,Harvard,RECEIVING,Luke,Hagy,YDS,10
+8775123,10/10/2015,FCS,Cornell,Harvard,RECEIVING,Luke,Hagy,TD,0
+8775124,10/10/2015,FCS,Cornell,Harvard,RECEIVING,Luke,Hagy,LONG,10
+8775125,10/10/2015,FCS,Cornell,Harvard,RECEIVING,Julian,Gallo,REC,1
+8775126,10/10/2015,FCS,Cornell,Harvard,RECEIVING,Julian,Gallo,YDS,5
+8775127,10/10/2015,FCS,Cornell,Harvard,RECEIVING,Julian,Gallo,TD,0
+8775128,10/10/2015,FCS,Cornell,Harvard,RECEIVING,Julian,Gallo,LONG,5
+8775129,10/10/2015,FCS,Cornell,Harvard,KICKING,Joe,Pierik,FG-FGA,1/1
+8775130,10/10/2015,FCS,Cornell,Harvard,KICKING,Joe,Pierik,LONG,33
+8775131,10/10/2015,FCS,Cornell,Harvard,KICKING,Joe,Pierik,XP,0
+8775132,10/10/2015,FCS,Cornell,Harvard,KICKING,Joe,Pierik,PTS,3
+8775133,10/10/2015,FCS,Cornell,Harvard,PUNTING,Chris,Fraser,NO,7
+8775134,10/10/2015,FCS,Cornell,Harvard,PUNTING,Chris,Fraser,YDS,367
+8775135,10/10/2015,FCS,Cornell,Harvard,PUNTING,Chris,Fraser,AVG,52.4
+8775136,10/10/2015,FCS,Cornell,Harvard,PUNTING,Chris,Fraser,LONG,67
+8775137,10/10/2015,FCS,Cornell,Harvard,PUNT RETURNS,Ben,Rogers,NO,2
+8775138,10/10/2015,FCS,Cornell,Harvard,PUNT RETURNS,Ben,Rogers,YDS,19
+8775139,10/10/2015,FCS,Cornell,Harvard,PUNT RETURNS,Ben,Rogers,AVG,9.5
+8775140,10/10/2015,FCS,Cornell,Harvard,PUNT RETURNS,Ben,Rogers,LONG,16
+8775141,10/10/2015,FCS,Cornell,Harvard,KICK RETURNS,Ben,Rogers,NO,8
+8775142,10/10/2015,FCS,Cornell,Harvard,KICK RETURNS,Ben,Rogers,YDS,133
+8775143,10/10/2015,FCS,Cornell,Harvard,KICK RETURNS,Ben,Rogers,AVG,16.6
+8775144,10/10/2015,FCS,Cornell,Harvard,KICK RETURNS,Ben,Rogers,LONG,23

@@ -1,0 +1,141 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+6813001,9/7/2013,FCS,Albany,Colgate,RUSHING,Omar,Osbourne,ATT,35
+6813002,9/7/2013,FCS,Albany,Colgate,RUSHING,Omar,Osbourne,YDS,256
+6813003,9/7/2013,FCS,Albany,Colgate,RUSHING,Omar,Osbourne,TD,2
+6813004,9/7/2013,FCS,Albany,Colgate,RUSHING,Omar,Osbourne,LONG,36
+6813005,9/7/2013,FCS,Albany,Colgate,RUSHING,Presley,Beauvais,ATT,6
+6813006,9/7/2013,FCS,Albany,Colgate,RUSHING,Presley,Beauvais,YDS,59
+6813007,9/7/2013,FCS,Albany,Colgate,RUSHING,Presley,Beauvais,TD,2
+6813008,9/7/2013,FCS,Albany,Colgate,RUSHING,Presley,Beauvais,LONG,45
+6813009,9/7/2013,FCS,Albany,Colgate,RUSHING,Jake,Meek,ATT,4
+6813010,9/7/2013,FCS,Albany,Colgate,RUSHING,Jake,Meek,YDS,27
+6813011,9/7/2013,FCS,Albany,Colgate,RUSHING,Jake,Meek,TD,0
+6813012,9/7/2013,FCS,Albany,Colgate,RUSHING,Jake,Meek,LONG,13
+6813013,9/7/2013,FCS,Albany,Colgate,RUSHING,,Team,ATT,1
+6813014,9/7/2013,FCS,Albany,Colgate,RUSHING,,Team,YDS,0
+6813015,9/7/2013,FCS,Albany,Colgate,RUSHING,,Team,TD,0
+6813016,9/7/2013,FCS,Albany,Colgate,RUSHING,,Team,LONG,0
+6813017,9/7/2013,FCS,Albany,Colgate,RUSHING,Will,Fiacchi,ATT,1
+6813018,9/7/2013,FCS,Albany,Colgate,RUSHING,Will,Fiacchi,YDS,-4
+6813019,9/7/2013,FCS,Albany,Colgate,RUSHING,Will,Fiacchi,TD,0
+6813020,9/7/2013,FCS,Albany,Colgate,RUSHING,Will,Fiacchi,LONG,0
+6813021,9/7/2013,FCS,Albany,Colgate,PASSING,Will,Fiacchi,CP-ATT-INT,13-24-1
+6813022,9/7/2013,FCS,Albany,Colgate,PASSING,Will,Fiacchi,YDS,180
+6813023,9/7/2013,FCS,Albany,Colgate,PASSING,Will,Fiacchi,TD,1
+6813024,9/7/2013,FCS,Albany,Colgate,PASSING,Will,Fiacchi,LONG,51
+6813025,9/7/2013,FCS,Albany,Colgate,RECEIVING,Kevin,Chillis,REC,5
+6813026,9/7/2013,FCS,Albany,Colgate,RECEIVING,Kevin,Chillis,YDS,112
+6813027,9/7/2013,FCS,Albany,Colgate,RECEIVING,Kevin,Chillis,TD,1
+6813028,9/7/2013,FCS,Albany,Colgate,RECEIVING,Kevin,Chillis,LONG,51
+6813029,9/7/2013,FCS,Albany,Colgate,RECEIVING,Cole,King,REC,3
+6813030,9/7/2013,FCS,Albany,Colgate,RECEIVING,Cole,King,YDS,18
+6813031,9/7/2013,FCS,Albany,Colgate,RECEIVING,Cole,King,TD,0
+6813032,9/7/2013,FCS,Albany,Colgate,RECEIVING,Cole,King,LONG,7
+6813033,9/7/2013,FCS,Albany,Colgate,RECEIVING,Brian,Parker,REC,2
+6813034,9/7/2013,FCS,Albany,Colgate,RECEIVING,Brian,Parker,YDS,21
+6813035,9/7/2013,FCS,Albany,Colgate,RECEIVING,Brian,Parker,TD,0
+6813036,9/7/2013,FCS,Albany,Colgate,RECEIVING,Brian,Parker,LONG,13
+6813037,9/7/2013,FCS,Albany,Colgate,RECEIVING,Presley,Beauvais,REC,1
+6813038,9/7/2013,FCS,Albany,Colgate,RECEIVING,Presley,Beauvais,YDS,13
+6813039,9/7/2013,FCS,Albany,Colgate,RECEIVING,Presley,Beauvais,TD,0
+6813040,9/7/2013,FCS,Albany,Colgate,RECEIVING,Presley,Beauvais,LONG,13
+6813041,9/7/2013,FCS,Albany,Colgate,RECEIVING,Malachi,Lawrence,REC,1
+6813042,9/7/2013,FCS,Albany,Colgate,RECEIVING,Malachi,Lawrence,YDS,8
+6813043,9/7/2013,FCS,Albany,Colgate,RECEIVING,Malachi,Lawrence,TD,0
+6813044,9/7/2013,FCS,Albany,Colgate,RECEIVING,Malachi,Lawrence,LONG,8
+6813045,9/7/2013,FCS,Albany,Colgate,RECEIVING,Omar,Osbourne,REC,1
+6813046,9/7/2013,FCS,Albany,Colgate,RECEIVING,Omar,Osbourne,YDS,8
+6813047,9/7/2013,FCS,Albany,Colgate,RECEIVING,Omar,Osbourne,TD,0
+6813048,9/7/2013,FCS,Albany,Colgate,RECEIVING,Omar,Osbourne,LONG,8
+6813049,9/7/2013,FCS,Albany,Colgate,KICKING,Tom,O'Riordan,FG-FGA,1/1
+6813050,9/7/2013,FCS,Albany,Colgate,KICKING,Tom,O'Riordan,LONG,32
+6813051,9/7/2013,FCS,Albany,Colgate,KICKING,Tom,O'Riordan,XP,4
+6813052,9/7/2013,FCS,Albany,Colgate,KICKING,Tom,O'Riordan,PTS,7
+6813053,9/7/2013,FCS,Albany,Colgate,PUNTING,Jonathan,Martin,NO,4
+6813054,9/7/2013,FCS,Albany,Colgate,PUNTING,Jonathan,Martin,YDS,163
+6813055,9/7/2013,FCS,Albany,Colgate,PUNTING,Jonathan,Martin,AVG,40.8
+6813056,9/7/2013,FCS,Albany,Colgate,PUNTING,Jonathan,Martin,LONG,47
+6813057,9/7/2013,FCS,Albany,Colgate,KICK RETURNS,Clay,Harris,NO,3
+6813058,9/7/2013,FCS,Albany,Colgate,KICK RETURNS,Clay,Harris,YDS,39
+6813059,9/7/2013,FCS,Albany,Colgate,KICK RETURNS,Clay,Harris,AVG,13.0
+6813060,9/7/2013,FCS,Albany,Colgate,KICK RETURNS,Clay,Harris,LONG,26
+6813061,9/7/2013,FCS,Albany,Colgate,KICK RETURNS,Kevin,Chillis,NO,1
+6813062,9/7/2013,FCS,Albany,Colgate,KICK RETURNS,Kevin,Chillis,YDS,41
+6813063,9/7/2013,FCS,Albany,Colgate,KICK RETURNS,Kevin,Chillis,AVG,41.0
+6813064,9/7/2013,FCS,Albany,Colgate,KICK RETURNS,Kevin,Chillis,LONG,41
+6813065,9/7/2013,FCS,Colgate,Albany,RUSHING,Gavin,McCarney,ATT,14
+6813066,9/7/2013,FCS,Colgate,Albany,RUSHING,Gavin,McCarney,YDS,95
+6813067,9/7/2013,FCS,Colgate,Albany,RUSHING,Gavin,McCarney,TD,0
+6813068,9/7/2013,FCS,Colgate,Albany,RUSHING,Gavin,McCarney,LONG,32
+6813069,9/7/2013,FCS,Colgate,Albany,RUSHING,John,Wilkins,ATT,11
+6813070,9/7/2013,FCS,Colgate,Albany,RUSHING,John,Wilkins,YDS,76
+6813071,9/7/2013,FCS,Colgate,Albany,RUSHING,John,Wilkins,TD,1
+6813072,9/7/2013,FCS,Colgate,Albany,RUSHING,John,Wilkins,LONG,16
+6813073,9/7/2013,FCS,Colgate,Albany,RUSHING,Demetrius,Russell,ATT,15
+6813074,9/7/2013,FCS,Colgate,Albany,RUSHING,Demetrius,Russell,YDS,60
+6813075,9/7/2013,FCS,Colgate,Albany,RUSHING,Demetrius,Russell,TD,2
+6813076,9/7/2013,FCS,Colgate,Albany,RUSHING,Demetrius,Russell,LONG,29
+6813077,9/7/2013,FCS,Colgate,Albany,RUSHING,Jimmy,DeCicco,ATT,3
+6813078,9/7/2013,FCS,Colgate,Albany,RUSHING,Jimmy,DeCicco,YDS,50
+6813079,9/7/2013,FCS,Colgate,Albany,RUSHING,Jimmy,DeCicco,TD,1
+6813080,9/7/2013,FCS,Colgate,Albany,RUSHING,Jimmy,DeCicco,LONG,40
+6813081,9/7/2013,FCS,Colgate,Albany,RUSHING,Ed,Pavalko,ATT,2
+6813082,9/7/2013,FCS,Colgate,Albany,RUSHING,Ed,Pavalko,YDS,2
+6813083,9/7/2013,FCS,Colgate,Albany,RUSHING,Ed,Pavalko,TD,0
+6813084,9/7/2013,FCS,Colgate,Albany,RUSHING,Ed,Pavalko,LONG,2
+6813085,9/7/2013,FCS,Colgate,Albany,PASSING,Gavin,McCarney,CP-ATT-INT,25-32-1
+6813086,9/7/2013,FCS,Colgate,Albany,PASSING,Gavin,McCarney,YDS,303
+6813087,9/7/2013,FCS,Colgate,Albany,PASSING,Gavin,McCarney,TD,1
+6813088,9/7/2013,FCS,Colgate,Albany,PASSING,Gavin,McCarney,LONG,29
+6813089,9/7/2013,FCS,Colgate,Albany,RECEIVING,Dan,Cason,REC,6
+6813090,9/7/2013,FCS,Colgate,Albany,RECEIVING,Dan,Cason,YDS,78
+6813091,9/7/2013,FCS,Colgate,Albany,RECEIVING,Dan,Cason,TD,0
+6813092,9/7/2013,FCS,Colgate,Albany,RECEIVING,Dan,Cason,LONG,18
+6813093,9/7/2013,FCS,Colgate,Albany,RECEIVING,Kevin,O'Connell,REC,6
+6813094,9/7/2013,FCS,Colgate,Albany,RECEIVING,Kevin,O'Connell,YDS,68
+6813095,9/7/2013,FCS,Colgate,Albany,RECEIVING,Kevin,O'Connell,TD,0
+6813096,9/7/2013,FCS,Colgate,Albany,RECEIVING,Kevin,O'Connell,LONG,16
+6813097,9/7/2013,FCS,Colgate,Albany,RECEIVING,Nat,Bellamy,REC,5
+6813098,9/7/2013,FCS,Colgate,Albany,RECEIVING,Nat,Bellamy,YDS,67
+6813099,9/7/2013,FCS,Colgate,Albany,RECEIVING,Nat,Bellamy,TD,1
+6813100,9/7/2013,FCS,Colgate,Albany,RECEIVING,Nat,Bellamy,LONG,29
+6813101,9/7/2013,FCS,Colgate,Albany,RECEIVING,Demetrius,Russell,REC,3
+6813102,9/7/2013,FCS,Colgate,Albany,RECEIVING,Demetrius,Russell,YDS,16
+6813103,9/7/2013,FCS,Colgate,Albany,RECEIVING,Demetrius,Russell,TD,0
+6813104,9/7/2013,FCS,Colgate,Albany,RECEIVING,Demetrius,Russell,LONG,7
+6813105,9/7/2013,FCS,Colgate,Albany,RECEIVING,Ryne,Morrison,REC,2
+6813106,9/7/2013,FCS,Colgate,Albany,RECEIVING,Ryne,Morrison,YDS,41
+6813107,9/7/2013,FCS,Colgate,Albany,RECEIVING,Ryne,Morrison,TD,0
+6813108,9/7/2013,FCS,Colgate,Albany,RECEIVING,Ryne,Morrison,LONG,29
+6813109,9/7/2013,FCS,Colgate,Albany,RECEIVING,John,Quazza,REC,1
+6813110,9/7/2013,FCS,Colgate,Albany,RECEIVING,John,Quazza,YDS,17
+6813111,9/7/2013,FCS,Colgate,Albany,RECEIVING,John,Quazza,TD,0
+6813112,9/7/2013,FCS,Colgate,Albany,RECEIVING,John,Quazza,LONG,17
+6813113,9/7/2013,FCS,Colgate,Albany,RECEIVING,Jimmy,DeCicco,REC,1
+6813114,9/7/2013,FCS,Colgate,Albany,RECEIVING,Jimmy,DeCicco,YDS,11
+6813115,9/7/2013,FCS,Colgate,Albany,RECEIVING,Jimmy,DeCicco,TD,0
+6813116,9/7/2013,FCS,Colgate,Albany,RECEIVING,Jimmy,DeCicco,LONG,11
+6813117,9/7/2013,FCS,Colgate,Albany,RECEIVING,John,Wilkins,REC,1
+6813118,9/7/2013,FCS,Colgate,Albany,RECEIVING,John,Wilkins,YDS,5
+6813119,9/7/2013,FCS,Colgate,Albany,RECEIVING,John,Wilkins,TD,0
+6813120,9/7/2013,FCS,Colgate,Albany,RECEIVING,John,Wilkins,LONG,5
+6813121,9/7/2013,FCS,Colgate,Albany,KICKING,Andrew,Burgess,FG-FGA,0/0
+6813122,9/7/2013,FCS,Colgate,Albany,KICKING,Andrew,Burgess,LONG,-
+6813123,9/7/2013,FCS,Colgate,Albany,KICKING,Andrew,Burgess,XP,4
+6813124,9/7/2013,FCS,Colgate,Albany,KICKING,Andrew,Burgess,PTS,4
+6813125,9/7/2013,FCS,Colgate,Albany,PUNTING,Nikko,Armiento,NO,3
+6813126,9/7/2013,FCS,Colgate,Albany,PUNTING,Nikko,Armiento,YDS,114
+6813127,9/7/2013,FCS,Colgate,Albany,PUNTING,Nikko,Armiento,AVG,38.0
+6813128,9/7/2013,FCS,Colgate,Albany,PUNTING,Nikko,Armiento,LONG,46
+6813129,9/7/2013,FCS,Colgate,Albany,PUNT RETURNS,Ryne,Morrison,NO,2
+6813130,9/7/2013,FCS,Colgate,Albany,PUNT RETURNS,Ryne,Morrison,YDS,13
+6813131,9/7/2013,FCS,Colgate,Albany,PUNT RETURNS,Ryne,Morrison,AVG,6.5
+6813132,9/7/2013,FCS,Colgate,Albany,PUNT RETURNS,Ryne,Morrison,LONG,8
+6813133,9/7/2013,FCS,Colgate,Albany,KICK RETURNS,Nat,Bellamy,NO,4
+6813134,9/7/2013,FCS,Colgate,Albany,KICK RETURNS,Nat,Bellamy,YDS,56
+6813135,9/7/2013,FCS,Colgate,Albany,KICK RETURNS,Nat,Bellamy,AVG,14.0
+6813136,9/7/2013,FCS,Colgate,Albany,KICK RETURNS,Nat,Bellamy,LONG,17
+6813137,9/7/2013,FCS,Colgate,Albany,KICK RETURNS,Jimmy,DeCicco,NO,3
+6813138,9/7/2013,FCS,Colgate,Albany,KICK RETURNS,Jimmy,DeCicco,YDS,63
+6813139,9/7/2013,FCS,Colgate,Albany,KICK RETURNS,Jimmy,DeCicco,AVG,21.0
+6813140,9/7/2013,FCS,Colgate,Albany,KICK RETURNS,Jimmy,DeCicco,LONG,34

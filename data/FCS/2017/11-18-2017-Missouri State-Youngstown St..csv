@@ -1,0 +1,129 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+10686001,11/18/2017,FCS,Missouri State,Youngstown St.,RUSHING,Peyton,Huslig,ATT,24
+10686002,11/18/2017,FCS,Missouri State,Youngstown St.,RUSHING,Peyton,Huslig,YDS,124
+10686003,11/18/2017,FCS,Missouri State,Youngstown St.,RUSHING,Peyton,Huslig,TD,0
+10686004,11/18/2017,FCS,Missouri State,Youngstown St.,RUSHING,Peyton,Huslig,LONG,20
+10686005,11/18/2017,FCS,Missouri State,Youngstown St.,RUSHING,Myron,Mason,ATT,11
+10686006,11/18/2017,FCS,Missouri State,Youngstown St.,RUSHING,Myron,Mason,YDS,67
+10686007,11/18/2017,FCS,Missouri State,Youngstown St.,RUSHING,Myron,Mason,TD,1
+10686008,11/18/2017,FCS,Missouri State,Youngstown St.,RUSHING,Myron,Mason,LONG,37
+10686009,11/18/2017,FCS,Missouri State,Youngstown St.,RUSHING,Nick,Masoner,ATT,4
+10686010,11/18/2017,FCS,Missouri State,Youngstown St.,RUSHING,Nick,Masoner,YDS,22
+10686011,11/18/2017,FCS,Missouri State,Youngstown St.,RUSHING,Nick,Masoner,TD,0
+10686012,11/18/2017,FCS,Missouri State,Youngstown St.,RUSHING,Nick,Masoner,LONG,9
+10686013,11/18/2017,FCS,Missouri State,Youngstown St.,RUSHING,Erik,Furmanek,ATT,1
+10686014,11/18/2017,FCS,Missouri State,Youngstown St.,RUSHING,Erik,Furmanek,YDS,4
+10686015,11/18/2017,FCS,Missouri State,Youngstown St.,RUSHING,Erik,Furmanek,TD,0
+10686016,11/18/2017,FCS,Missouri State,Youngstown St.,RUSHING,Erik,Furmanek,LONG,4
+10686017,11/18/2017,FCS,Missouri State,Youngstown St.,RUSHING,Malik,Earl,ATT,1
+10686018,11/18/2017,FCS,Missouri State,Youngstown St.,RUSHING,Malik,Earl,YDS,-1
+10686019,11/18/2017,FCS,Missouri State,Youngstown St.,RUSHING,Malik,Earl,TD,0
+10686020,11/18/2017,FCS,Missouri State,Youngstown St.,RUSHING,Malik,Earl,LONG,0
+10686021,11/18/2017,FCS,Missouri State,Youngstown St.,RUSHING,J.T.,Granato,ATT,1
+10686022,11/18/2017,FCS,Missouri State,Youngstown St.,RUSHING,J.T.,Granato,YDS,-7
+10686023,11/18/2017,FCS,Missouri State,Youngstown St.,RUSHING,J.T.,Granato,TD,0
+10686024,11/18/2017,FCS,Missouri State,Youngstown St.,RUSHING,J.T.,Granato,LONG,0
+10686025,11/18/2017,FCS,Missouri State,Youngstown St.,RUSHING,,Team,ATT,1
+10686026,11/18/2017,FCS,Missouri State,Youngstown St.,RUSHING,,Team,YDS,-31
+10686027,11/18/2017,FCS,Missouri State,Youngstown St.,RUSHING,,Team,TD,0
+10686028,11/18/2017,FCS,Missouri State,Youngstown St.,RUSHING,,Team,LONG,0
+10686029,11/18/2017,FCS,Missouri State,Youngstown St.,PASSING,Peyton,Huslig,CP-ATT-INT,5-21-0
+10686030,11/18/2017,FCS,Missouri State,Youngstown St.,PASSING,Peyton,Huslig,YDS,45
+10686031,11/18/2017,FCS,Missouri State,Youngstown St.,PASSING,Peyton,Huslig,TD,0
+10686032,11/18/2017,FCS,Missouri State,Youngstown St.,PASSING,Peyton,Huslig,LONG,16
+10686033,11/18/2017,FCS,Missouri State,Youngstown St.,PASSING,J.T.,Granato,CP-ATT-INT,0-2-0
+10686034,11/18/2017,FCS,Missouri State,Youngstown St.,PASSING,J.T.,Granato,YDS,0
+10686035,11/18/2017,FCS,Missouri State,Youngstown St.,PASSING,J.T.,Granato,TD,0
+10686036,11/18/2017,FCS,Missouri State,Youngstown St.,PASSING,J.T.,Granato,LONG,0
+10686037,11/18/2017,FCS,Missouri State,Youngstown St.,RECEIVING,Malik,Earl,REC,4
+10686038,11/18/2017,FCS,Missouri State,Youngstown St.,RECEIVING,Malik,Earl,YDS,37
+10686039,11/18/2017,FCS,Missouri State,Youngstown St.,RECEIVING,Malik,Earl,TD,0
+10686040,11/18/2017,FCS,Missouri State,Youngstown St.,RECEIVING,Malik,Earl,LONG,16
+10686041,11/18/2017,FCS,Missouri State,Youngstown St.,RECEIVING,Lorenzo,Thomas,REC,1
+10686042,11/18/2017,FCS,Missouri State,Youngstown St.,RECEIVING,Lorenzo,Thomas,YDS,8
+10686043,11/18/2017,FCS,Missouri State,Youngstown St.,RECEIVING,Lorenzo,Thomas,TD,0
+10686044,11/18/2017,FCS,Missouri State,Youngstown St.,RECEIVING,Lorenzo,Thomas,LONG,8
+10686045,11/18/2017,FCS,Missouri State,Youngstown St.,KICKING,Zach,Drake,FG-FGA,1/2
+10686046,11/18/2017,FCS,Missouri State,Youngstown St.,KICKING,Zach,Drake,LONG,29
+10686047,11/18/2017,FCS,Missouri State,Youngstown St.,KICKING,Zach,Drake,XP,1
+10686048,11/18/2017,FCS,Missouri State,Youngstown St.,KICKING,Zach,Drake,PTS,4
+10686049,11/18/2017,FCS,Missouri State,Youngstown St.,PUNTING,Brendan,Withrow,NO,6
+10686050,11/18/2017,FCS,Missouri State,Youngstown St.,PUNTING,Brendan,Withrow,YDS,239
+10686051,11/18/2017,FCS,Missouri State,Youngstown St.,PUNTING,Brendan,Withrow,AVG,39.8
+10686052,11/18/2017,FCS,Missouri State,Youngstown St.,PUNTING,Brendan,Withrow,LONG,44
+10686053,11/18/2017,FCS,Missouri State,Youngstown St.,PUNT RETURNS,Matt,Rush,NO,1
+10686054,11/18/2017,FCS,Missouri State,Youngstown St.,PUNT RETURNS,Matt,Rush,YDS,1
+10686055,11/18/2017,FCS,Missouri State,Youngstown St.,PUNT RETURNS,Matt,Rush,AVG,1.0
+10686056,11/18/2017,FCS,Missouri State,Youngstown St.,PUNT RETURNS,Matt,Rush,LONG,0
+10686057,11/18/2017,FCS,Missouri State,Youngstown St.,KICK RETURNS,Matt,Rush,NO,5
+10686058,11/18/2017,FCS,Missouri State,Youngstown St.,KICK RETURNS,Matt,Rush,YDS,96
+10686059,11/18/2017,FCS,Missouri State,Youngstown St.,KICK RETURNS,Matt,Rush,AVG,19.2
+10686060,11/18/2017,FCS,Missouri State,Youngstown St.,KICK RETURNS,Matt,Rush,LONG,36
+10686061,11/18/2017,FCS,Youngstown St.,Missouri State,RUSHING,Tevin,McCaster,ATT,27
+10686062,11/18/2017,FCS,Youngstown St.,Missouri State,RUSHING,Tevin,McCaster,YDS,181
+10686063,11/18/2017,FCS,Youngstown St.,Missouri State,RUSHING,Tevin,McCaster,TD,2
+10686064,11/18/2017,FCS,Youngstown St.,Missouri State,RUSHING,Tevin,McCaster,LONG,30
+10686065,11/18/2017,FCS,Youngstown St.,Missouri State,RUSHING,Joe,Alessi,ATT,5
+10686066,11/18/2017,FCS,Youngstown St.,Missouri State,RUSHING,Joe,Alessi,YDS,54
+10686067,11/18/2017,FCS,Youngstown St.,Missouri State,RUSHING,Joe,Alessi,TD,1
+10686068,11/18/2017,FCS,Youngstown St.,Missouri State,RUSHING,Joe,Alessi,LONG,34
+10686069,11/18/2017,FCS,Youngstown St.,Missouri State,RUSHING,Christian,Turner,ATT,2
+10686070,11/18/2017,FCS,Youngstown St.,Missouri State,RUSHING,Christian,Turner,YDS,32
+10686071,11/18/2017,FCS,Youngstown St.,Missouri State,RUSHING,Christian,Turner,TD,0
+10686072,11/18/2017,FCS,Youngstown St.,Missouri State,RUSHING,Christian,Turner,LONG,23
+10686073,11/18/2017,FCS,Youngstown St.,Missouri State,RUSHING,Ricky,Davis,ATT,1
+10686074,11/18/2017,FCS,Youngstown St.,Missouri State,RUSHING,Ricky,Davis,YDS,10
+10686075,11/18/2017,FCS,Youngstown St.,Missouri State,RUSHING,Ricky,Davis,TD,1
+10686076,11/18/2017,FCS,Youngstown St.,Missouri State,RUSHING,Ricky,Davis,LONG,10
+10686077,11/18/2017,FCS,Youngstown St.,Missouri State,RUSHING,Hunter,Wells,ATT,1
+10686078,11/18/2017,FCS,Youngstown St.,Missouri State,RUSHING,Hunter,Wells,YDS,7
+10686079,11/18/2017,FCS,Youngstown St.,Missouri State,RUSHING,Hunter,Wells,TD,0
+10686080,11/18/2017,FCS,Youngstown St.,Missouri State,RUSHING,Hunter,Wells,LONG,7
+10686081,11/18/2017,FCS,Youngstown St.,Missouri State,PASSING,Hunter,Wells,CP-ATT-INT,13-21-0
+10686082,11/18/2017,FCS,Youngstown St.,Missouri State,PASSING,Hunter,Wells,YDS,105
+10686083,11/18/2017,FCS,Youngstown St.,Missouri State,PASSING,Hunter,Wells,TD,0
+10686084,11/18/2017,FCS,Youngstown St.,Missouri State,PASSING,Hunter,Wells,LONG,25
+10686085,11/18/2017,FCS,Youngstown St.,Missouri State,RECEIVING,Damoun,Patterson,REC,5
+10686086,11/18/2017,FCS,Youngstown St.,Missouri State,RECEIVING,Damoun,Patterson,YDS,35
+10686087,11/18/2017,FCS,Youngstown St.,Missouri State,RECEIVING,Damoun,Patterson,TD,0
+10686088,11/18/2017,FCS,Youngstown St.,Missouri State,RECEIVING,Damoun,Patterson,LONG,12
+10686089,11/18/2017,FCS,Youngstown St.,Missouri State,RECEIVING,Christian,Turner,REC,3
+10686090,11/18/2017,FCS,Youngstown St.,Missouri State,RECEIVING,Christian,Turner,YDS,29
+10686091,11/18/2017,FCS,Youngstown St.,Missouri State,RECEIVING,Christian,Turner,TD,0
+10686092,11/18/2017,FCS,Youngstown St.,Missouri State,RECEIVING,Christian,Turner,LONG,25
+10686093,11/18/2017,FCS,Youngstown St.,Missouri State,RECEIVING,Alvin,Bailey,REC,2
+10686094,11/18/2017,FCS,Youngstown St.,Missouri State,RECEIVING,Alvin,Bailey,YDS,27
+10686095,11/18/2017,FCS,Youngstown St.,Missouri State,RECEIVING,Alvin,Bailey,TD,0
+10686096,11/18/2017,FCS,Youngstown St.,Missouri State,RECEIVING,Alvin,Bailey,LONG,14
+10686097,11/18/2017,FCS,Youngstown St.,Missouri State,RECEIVING,Samuel,St.Surin,REC,1
+10686098,11/18/2017,FCS,Youngstown St.,Missouri State,RECEIVING,Samuel,St.Surin,YDS,6
+10686099,11/18/2017,FCS,Youngstown St.,Missouri State,RECEIVING,Samuel,St.Surin,TD,0
+10686100,11/18/2017,FCS,Youngstown St.,Missouri State,RECEIVING,Samuel,St.Surin,LONG,6
+10686101,11/18/2017,FCS,Youngstown St.,Missouri State,RECEIVING,Kevin,Rader,REC,1
+10686102,11/18/2017,FCS,Youngstown St.,Missouri State,RECEIVING,Kevin,Rader,YDS,5
+10686103,11/18/2017,FCS,Youngstown St.,Missouri State,RECEIVING,Kevin,Rader,TD,0
+10686104,11/18/2017,FCS,Youngstown St.,Missouri State,RECEIVING,Kevin,Rader,LONG,5
+10686105,11/18/2017,FCS,Youngstown St.,Missouri State,RECEIVING,Tevin,McCaster,REC,1
+10686106,11/18/2017,FCS,Youngstown St.,Missouri State,RECEIVING,Tevin,McCaster,YDS,3
+10686107,11/18/2017,FCS,Youngstown St.,Missouri State,RECEIVING,Tevin,McCaster,TD,0
+10686108,11/18/2017,FCS,Youngstown St.,Missouri State,RECEIVING,Tevin,McCaster,LONG,3
+10686109,11/18/2017,FCS,Youngstown St.,Missouri State,KICKING,Zak,Kennedy,FG-FGA,1/1
+10686110,11/18/2017,FCS,Youngstown St.,Missouri State,KICKING,Zak,Kennedy,LONG,30
+10686111,11/18/2017,FCS,Youngstown St.,Missouri State,KICKING,Zak,Kennedy,XP,5
+10686112,11/18/2017,FCS,Youngstown St.,Missouri State,KICKING,Zak,Kennedy,PTS,8
+10686113,11/18/2017,FCS,Youngstown St.,Missouri State,PUNTING,Mark,Schuler,NO,4
+10686114,11/18/2017,FCS,Youngstown St.,Missouri State,PUNTING,Mark,Schuler,YDS,126
+10686115,11/18/2017,FCS,Youngstown St.,Missouri State,PUNTING,Mark,Schuler,AVG,31.5
+10686116,11/18/2017,FCS,Youngstown St.,Missouri State,PUNTING,Mark,Schuler,LONG,38
+10686117,11/18/2017,FCS,Youngstown St.,Missouri State,PUNTING,,Team,NO,1
+10686118,11/18/2017,FCS,Youngstown St.,Missouri State,PUNTING,,Team,YDS,12
+10686119,11/18/2017,FCS,Youngstown St.,Missouri State,PUNTING,,Team,AVG,12.0
+10686120,11/18/2017,FCS,Youngstown St.,Missouri State,PUNTING,,Team,LONG,12
+10686121,11/18/2017,FCS,Youngstown St.,Missouri State,PUNT RETURNS,Jake,Coates,NO,2
+10686122,11/18/2017,FCS,Youngstown St.,Missouri State,PUNT RETURNS,Jake,Coates,YDS,7
+10686123,11/18/2017,FCS,Youngstown St.,Missouri State,PUNT RETURNS,Jake,Coates,AVG,3.5
+10686124,11/18/2017,FCS,Youngstown St.,Missouri State,PUNT RETURNS,Jake,Coates,LONG,5
+10686125,11/18/2017,FCS,Youngstown St.,Missouri State,KICK RETURNS,Lasander,Washington,NO,1
+10686126,11/18/2017,FCS,Youngstown St.,Missouri State,KICK RETURNS,Lasander,Washington,YDS,25
+10686127,11/18/2017,FCS,Youngstown St.,Missouri State,KICK RETURNS,Lasander,Washington,AVG,25.0
+10686128,11/18/2017,FCS,Youngstown St.,Missouri State,KICK RETURNS,Lasander,Washington,LONG,25

@@ -1,0 +1,221 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+12230001,11/9/2019,FCS,Illinois St.,South Dakota St.,RUSHING,James,Robinson,ATT,24
+12230002,11/9/2019,FCS,Illinois St.,South Dakota St.,RUSHING,James,Robinson,YDS,98
+12230003,11/9/2019,FCS,Illinois St.,South Dakota St.,RUSHING,James,Robinson,TD,1
+12230004,11/9/2019,FCS,Illinois St.,South Dakota St.,RUSHING,James,Robinson,LONG,16
+12230005,11/9/2019,FCS,Illinois St.,South Dakota St.,RUSHING,Jeffrey,Proctor,ATT,13
+12230006,11/9/2019,FCS,Illinois St.,South Dakota St.,RUSHING,Jeffrey,Proctor,YDS,33
+12230007,11/9/2019,FCS,Illinois St.,South Dakota St.,RUSHING,Jeffrey,Proctor,TD,0
+12230008,11/9/2019,FCS,Illinois St.,South Dakota St.,RUSHING,Jeffrey,Proctor,LONG,12
+12230009,11/9/2019,FCS,Illinois St.,South Dakota St.,RUSHING,Austin,Nagel,ATT,1
+12230010,11/9/2019,FCS,Illinois St.,South Dakota St.,RUSHING,Austin,Nagel,YDS,5
+12230011,11/9/2019,FCS,Illinois St.,South Dakota St.,RUSHING,Austin,Nagel,TD,0
+12230012,11/9/2019,FCS,Illinois St.,South Dakota St.,RUSHING,Austin,Nagel,LONG,5
+12230013,11/9/2019,FCS,Illinois St.,South Dakota St.,RUSHING,Brady,Davis,ATT,5
+12230014,11/9/2019,FCS,Illinois St.,South Dakota St.,RUSHING,Brady,Davis,YDS,4
+12230015,11/9/2019,FCS,Illinois St.,South Dakota St.,RUSHING,Brady,Davis,TD,0
+12230016,11/9/2019,FCS,Illinois St.,South Dakota St.,RUSHING,Brady,Davis,LONG,10
+12230017,11/9/2019,FCS,Illinois St.,South Dakota St.,RUSHING,,Team,ATT,2
+12230018,11/9/2019,FCS,Illinois St.,South Dakota St.,RUSHING,,Team,YDS,-3
+12230019,11/9/2019,FCS,Illinois St.,South Dakota St.,RUSHING,,Team,TD,0
+12230020,11/9/2019,FCS,Illinois St.,South Dakota St.,RUSHING,,Team,LONG,0
+12230021,11/9/2019,FCS,Illinois St.,South Dakota St.,PASSING,Brady,Davis,CP-ATT-INT,11-17-1
+12230022,11/9/2019,FCS,Illinois St.,South Dakota St.,PASSING,Brady,Davis,YDS,165
+12230023,11/9/2019,FCS,Illinois St.,South Dakota St.,PASSING,Brady,Davis,TD,1
+12230024,11/9/2019,FCS,Illinois St.,South Dakota St.,PASSING,Brady,Davis,LONG,0
+12230025,11/9/2019,FCS,Illinois St.,South Dakota St.,RECEIVING,Tanner,Taula,REC,3
+12230026,11/9/2019,FCS,Illinois St.,South Dakota St.,RECEIVING,Tanner,Taula,YDS,47
+12230027,11/9/2019,FCS,Illinois St.,South Dakota St.,RECEIVING,Tanner,Taula,TD,0
+12230028,11/9/2019,FCS,Illinois St.,South Dakota St.,RECEIVING,Tanner,Taula,LONG,26
+12230029,11/9/2019,FCS,Illinois St.,South Dakota St.,RECEIVING,Austin,Nagel,REC,1
+12230030,11/9/2019,FCS,Illinois St.,South Dakota St.,RECEIVING,Austin,Nagel,YDS,44
+12230031,11/9/2019,FCS,Illinois St.,South Dakota St.,RECEIVING,Austin,Nagel,TD,0
+12230032,11/9/2019,FCS,Illinois St.,South Dakota St.,RECEIVING,Austin,Nagel,LONG,44
+12230033,11/9/2019,FCS,Illinois St.,South Dakota St.,RECEIVING,Kacper,Rutkiewicz,REC,2
+12230034,11/9/2019,FCS,Illinois St.,South Dakota St.,RECEIVING,Kacper,Rutkiewicz,YDS,21
+12230035,11/9/2019,FCS,Illinois St.,South Dakota St.,RECEIVING,Kacper,Rutkiewicz,TD,0
+12230036,11/9/2019,FCS,Illinois St.,South Dakota St.,RECEIVING,Kacper,Rutkiewicz,LONG,15
+12230037,11/9/2019,FCS,Illinois St.,South Dakota St.,RECEIVING,Braxton,Haley,REC,1
+12230038,11/9/2019,FCS,Illinois St.,South Dakota St.,RECEIVING,Braxton,Haley,YDS,19
+12230039,11/9/2019,FCS,Illinois St.,South Dakota St.,RECEIVING,Braxton,Haley,TD,0
+12230040,11/9/2019,FCS,Illinois St.,South Dakota St.,RECEIVING,Braxton,Haley,LONG,19
+12230041,11/9/2019,FCS,Illinois St.,South Dakota St.,RECEIVING,Robert,Gillum,REC,1
+12230042,11/9/2019,FCS,Illinois St.,South Dakota St.,RECEIVING,Robert,Gillum,YDS,17
+12230043,11/9/2019,FCS,Illinois St.,South Dakota St.,RECEIVING,Robert,Gillum,TD,0
+12230044,11/9/2019,FCS,Illinois St.,South Dakota St.,RECEIVING,Robert,Gillum,LONG,17
+12230045,11/9/2019,FCS,Illinois St.,South Dakota St.,RECEIVING,Tristan,Bailey,REC,1
+12230046,11/9/2019,FCS,Illinois St.,South Dakota St.,RECEIVING,Tristan,Bailey,YDS,12
+12230047,11/9/2019,FCS,Illinois St.,South Dakota St.,RECEIVING,Tristan,Bailey,TD,1
+12230048,11/9/2019,FCS,Illinois St.,South Dakota St.,RECEIVING,Tristan,Bailey,LONG,12
+12230049,11/9/2019,FCS,Illinois St.,South Dakota St.,RECEIVING,James,Robinson,REC,2
+12230050,11/9/2019,FCS,Illinois St.,South Dakota St.,RECEIVING,James,Robinson,YDS,5
+12230051,11/9/2019,FCS,Illinois St.,South Dakota St.,RECEIVING,James,Robinson,TD,0
+12230052,11/9/2019,FCS,Illinois St.,South Dakota St.,RECEIVING,James,Robinson,LONG,5
+12230053,11/9/2019,FCS,Illinois St.,South Dakota St.,KICKING,Sam,Fenlason,FG-FGA,4/4
+12230054,11/9/2019,FCS,Illinois St.,South Dakota St.,KICKING,Sam,Fenlason,LONG,46
+12230055,11/9/2019,FCS,Illinois St.,South Dakota St.,KICKING,Sam,Fenlason,XP,1
+12230056,11/9/2019,FCS,Illinois St.,South Dakota St.,KICKING,Sam,Fenlason,PTS,13
+12230057,11/9/2019,FCS,Illinois St.,South Dakota St.,PUNTING,JT,Bohlken,NO,3
+12230058,11/9/2019,FCS,Illinois St.,South Dakota St.,PUNTING,JT,Bohlken,YDS,144
+12230059,11/9/2019,FCS,Illinois St.,South Dakota St.,PUNTING,JT,Bohlken,AVG,48.0
+12230060,11/9/2019,FCS,Illinois St.,South Dakota St.,PUNTING,JT,Bohlken,LONG,50
+12230061,11/9/2019,FCS,Illinois St.,South Dakota St.,PUNT RETURNS,Charles,Woods,NO,1
+12230062,11/9/2019,FCS,Illinois St.,South Dakota St.,PUNT RETURNS,Charles,Woods,YDS,-9
+12230063,11/9/2019,FCS,Illinois St.,South Dakota St.,PUNT RETURNS,Charles,Woods,AVG,-
+12230064,11/9/2019,FCS,Illinois St.,South Dakota St.,PUNT RETURNS,Charles,Woods,LONG,0
+12230065,11/9/2019,FCS,Illinois St.,South Dakota St.,KICK RETURNS,Jeffrey,Proctor,NO,2
+12230066,11/9/2019,FCS,Illinois St.,South Dakota St.,KICK RETURNS,Jeffrey,Proctor,YDS,32
+12230067,11/9/2019,FCS,Illinois St.,South Dakota St.,KICK RETURNS,Jeffrey,Proctor,AVG,16.0
+12230068,11/9/2019,FCS,Illinois St.,South Dakota St.,KICK RETURNS,Jeffrey,Proctor,LONG,16
+12230069,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Dylan,Draka,TOT,0
+12230070,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Dylan,Draka,SOLO,0
+12230071,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Dylan,Draka,SACKS,0
+12230072,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Dylan,Draka,TFL,0
+12230073,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Dylan,Draka,INT,0
+12230074,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Dylan,Draka,FF,1
+12230075,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Dylan,Draka,FR,2
+12230076,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Aaron,Mends,TOT,0
+12230077,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Aaron,Mends,SOLO,0
+12230078,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Aaron,Mends,SACKS,1
+12230079,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Aaron,Mends,TFL,0
+12230080,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Aaron,Mends,INT,0
+12230081,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Aaron,Mends,FF,0
+12230082,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Aaron,Mends,FR,0
+12230083,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Luke,Bennyhoff,TOT,0
+12230084,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Luke,Bennyhoff,SOLO,0
+12230085,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Luke,Bennyhoff,SACKS,0
+12230086,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Luke,Bennyhoff,TFL,0
+12230087,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Luke,Bennyhoff,INT,0
+12230088,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Luke,Bennyhoff,FF,0
+12230089,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Luke,Bennyhoff,FR,1
+12230090,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Christian,Uphoff,TOT,0
+12230091,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Christian,Uphoff,SOLO,0
+12230092,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Christian,Uphoff,SACKS,0
+12230093,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Christian,Uphoff,TFL,0
+12230094,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Christian,Uphoff,INT,1
+12230095,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Christian,Uphoff,FF,0
+12230096,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Christian,Uphoff,FR,0
+12230097,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Luther,Kirk,TOT,0
+12230098,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Luther,Kirk,SOLO,0
+12230099,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Luther,Kirk,SACKS,0
+12230100,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Luther,Kirk,TFL,0
+12230101,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Luther,Kirk,INT,0
+12230102,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Luther,Kirk,FF,1
+12230103,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Luther,Kirk,FR,0
+12230104,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Romeo,McKnight,TOT,0
+12230105,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Romeo,McKnight,SOLO,0
+12230106,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Romeo,McKnight,SACKS,0
+12230107,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Romeo,McKnight,TFL,0
+12230108,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Romeo,McKnight,INT,0
+12230109,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Romeo,McKnight,FF,1
+12230110,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Romeo,McKnight,FR,0
+12230111,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Peyton,Jones,TOT,0
+12230112,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Peyton,Jones,SOLO,0
+12230113,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Peyton,Jones,SACKS,0
+12230114,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Peyton,Jones,TFL,0
+12230115,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Peyton,Jones,INT,0
+12230116,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Peyton,Jones,FF,1
+12230117,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Peyton,Jones,FR,0
+12230118,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Zeke,Vandenburgh,TOT,0
+12230119,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Zeke,Vandenburgh,SOLO,0
+12230120,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Zeke,Vandenburgh,SACKS,1
+12230121,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Zeke,Vandenburgh,TFL,0
+12230122,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Zeke,Vandenburgh,INT,0
+12230123,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Zeke,Vandenburgh,FF,0
+12230124,11/9/2019,FCS,Illinois St.,South Dakota St.,DEFENSE,Zeke,Vandenburgh,FR,0
+12230125,11/9/2019,FCS,South Dakota St.,Illinois St.,RUSHING,Mikey,Daniel,ATT,10
+12230126,11/9/2019,FCS,South Dakota St.,Illinois St.,RUSHING,Mikey,Daniel,YDS,40
+12230127,11/9/2019,FCS,South Dakota St.,Illinois St.,RUSHING,Mikey,Daniel,TD,0
+12230128,11/9/2019,FCS,South Dakota St.,Illinois St.,RUSHING,Mikey,Daniel,LONG,17
+12230129,11/9/2019,FCS,South Dakota St.,Illinois St.,RUSHING,Pierre,"Strong,Jr.",ATT,12
+12230130,11/9/2019,FCS,South Dakota St.,Illinois St.,RUSHING,Pierre,"Strong,Jr.",YDS,29
+12230131,11/9/2019,FCS,South Dakota St.,Illinois St.,RUSHING,Pierre,"Strong,Jr.",TD,1
+12230132,11/9/2019,FCS,South Dakota St.,Illinois St.,RUSHING,Pierre,"Strong,Jr.",LONG,7
+12230133,11/9/2019,FCS,South Dakota St.,Illinois St.,RUSHING,Keaton,Heide,ATT,9
+12230134,11/9/2019,FCS,South Dakota St.,Illinois St.,RUSHING,Keaton,Heide,YDS,15
+12230135,11/9/2019,FCS,South Dakota St.,Illinois St.,RUSHING,Keaton,Heide,TD,0
+12230136,11/9/2019,FCS,South Dakota St.,Illinois St.,RUSHING,Keaton,Heide,LONG,10
+12230137,11/9/2019,FCS,South Dakota St.,Illinois St.,RUSHING,Chase,Vinatieri,ATT,1
+12230138,11/9/2019,FCS,South Dakota St.,Illinois St.,RUSHING,Chase,Vinatieri,YDS,-3
+12230139,11/9/2019,FCS,South Dakota St.,Illinois St.,RUSHING,Chase,Vinatieri,TD,0
+12230140,11/9/2019,FCS,South Dakota St.,Illinois St.,RUSHING,Chase,Vinatieri,LONG,0
+12230141,11/9/2019,FCS,South Dakota St.,Illinois St.,PASSING,Keaton,Heide,CP-ATT-INT,15-25-1
+12230142,11/9/2019,FCS,South Dakota St.,Illinois St.,PASSING,Keaton,Heide,YDS,171
+12230143,11/9/2019,FCS,South Dakota St.,Illinois St.,PASSING,Keaton,Heide,TD,1
+12230144,11/9/2019,FCS,South Dakota St.,Illinois St.,PASSING,Keaton,Heide,LONG,0
+12230145,11/9/2019,FCS,South Dakota St.,Illinois St.,PASSING,Pierre,"Strong,Jr.",CP-ATT-INT,1-1-0
+12230146,11/9/2019,FCS,South Dakota St.,Illinois St.,PASSING,Pierre,"Strong,Jr.",YDS,8
+12230147,11/9/2019,FCS,South Dakota St.,Illinois St.,PASSING,Pierre,"Strong,Jr.",TD,0
+12230148,11/9/2019,FCS,South Dakota St.,Illinois St.,PASSING,Pierre,"Strong,Jr.",LONG,0
+12230149,11/9/2019,FCS,South Dakota St.,Illinois St.,RECEIVING,Cade,Johnson,REC,11
+12230150,11/9/2019,FCS,South Dakota St.,Illinois St.,RECEIVING,Cade,Johnson,YDS,74
+12230151,11/9/2019,FCS,South Dakota St.,Illinois St.,RECEIVING,Cade,Johnson,TD,0
+12230152,11/9/2019,FCS,South Dakota St.,Illinois St.,RECEIVING,Cade,Johnson,LONG,16
+12230153,11/9/2019,FCS,South Dakota St.,Illinois St.,RECEIVING,Jaxon,Janke,REC,2
+12230154,11/9/2019,FCS,South Dakota St.,Illinois St.,RECEIVING,Jaxon,Janke,YDS,61
+12230155,11/9/2019,FCS,South Dakota St.,Illinois St.,RECEIVING,Jaxon,Janke,TD,0
+12230156,11/9/2019,FCS,South Dakota St.,Illinois St.,RECEIVING,Jaxon,Janke,LONG,38
+12230157,11/9/2019,FCS,South Dakota St.,Illinois St.,RECEIVING,Adam,Anderson,REC,2
+12230158,11/9/2019,FCS,South Dakota St.,Illinois St.,RECEIVING,Adam,Anderson,YDS,36
+12230159,11/9/2019,FCS,South Dakota St.,Illinois St.,RECEIVING,Adam,Anderson,TD,1
+12230160,11/9/2019,FCS,South Dakota St.,Illinois St.,RECEIVING,Adam,Anderson,LONG,21
+12230161,11/9/2019,FCS,South Dakota St.,Illinois St.,RECEIVING,Mikey,Daniel,REC,1
+12230162,11/9/2019,FCS,South Dakota St.,Illinois St.,RECEIVING,Mikey,Daniel,YDS,8
+12230163,11/9/2019,FCS,South Dakota St.,Illinois St.,RECEIVING,Mikey,Daniel,TD,0
+12230164,11/9/2019,FCS,South Dakota St.,Illinois St.,RECEIVING,Mikey,Daniel,LONG,8
+12230165,11/9/2019,FCS,South Dakota St.,Illinois St.,KICKING,Cole,Frahm,FG-FGA,1/2
+12230166,11/9/2019,FCS,South Dakota St.,Illinois St.,KICKING,Cole,Frahm,LONG,43
+12230167,11/9/2019,FCS,South Dakota St.,Illinois St.,KICKING,Cole,Frahm,XP,1
+12230168,11/9/2019,FCS,South Dakota St.,Illinois St.,KICKING,Cole,Frahm,PTS,4
+12230169,11/9/2019,FCS,South Dakota St.,Illinois St.,PUNTING,Ben,Dinkel,NO,3
+12230170,11/9/2019,FCS,South Dakota St.,Illinois St.,PUNTING,Ben,Dinkel,YDS,165
+12230171,11/9/2019,FCS,South Dakota St.,Illinois St.,PUNTING,Ben,Dinkel,AVG,55.0
+12230172,11/9/2019,FCS,South Dakota St.,Illinois St.,PUNTING,Ben,Dinkel,LONG,68
+12230173,11/9/2019,FCS,South Dakota St.,Illinois St.,PUNT RETURNS,Jaxon,Janke,NO,2
+12230174,11/9/2019,FCS,South Dakota St.,Illinois St.,PUNT RETURNS,Jaxon,Janke,YDS,21
+12230175,11/9/2019,FCS,South Dakota St.,Illinois St.,PUNT RETURNS,Jaxon,Janke,AVG,10.5
+12230176,11/9/2019,FCS,South Dakota St.,Illinois St.,PUNT RETURNS,Jaxon,Janke,LONG,11
+12230177,11/9/2019,FCS,South Dakota St.,Illinois St.,KICK RETURNS,Jadon,Janke,NO,3
+12230178,11/9/2019,FCS,South Dakota St.,Illinois St.,KICK RETURNS,Jadon,Janke,YDS,45
+12230179,11/9/2019,FCS,South Dakota St.,Illinois St.,KICK RETURNS,Jadon,Janke,AVG,15.0
+12230180,11/9/2019,FCS,South Dakota St.,Illinois St.,KICK RETURNS,Jadon,Janke,LONG,23
+12230181,11/9/2019,FCS,South Dakota St.,Illinois St.,KICK RETURNS,Mikey,Daniel,NO,1
+12230182,11/9/2019,FCS,South Dakota St.,Illinois St.,KICK RETURNS,Mikey,Daniel,YDS,36
+12230183,11/9/2019,FCS,South Dakota St.,Illinois St.,KICK RETURNS,Mikey,Daniel,AVG,36.0
+12230184,11/9/2019,FCS,South Dakota St.,Illinois St.,KICK RETURNS,Mikey,Daniel,LONG,36
+12230185,11/9/2019,FCS,South Dakota St.,Illinois St.,KICK RETURNS,Pierre,"Strong,Jr.",NO,1
+12230186,11/9/2019,FCS,South Dakota St.,Illinois St.,KICK RETURNS,Pierre,"Strong,Jr.",YDS,22
+12230187,11/9/2019,FCS,South Dakota St.,Illinois St.,KICK RETURNS,Pierre,"Strong,Jr.",AVG,22.0
+12230188,11/9/2019,FCS,South Dakota St.,Illinois St.,KICK RETURNS,Pierre,"Strong,Jr.",LONG,22
+12230189,11/9/2019,FCS,South Dakota St.,Illinois St.,KICK RETURNS,Jaxon,Janke,NO,1
+12230190,11/9/2019,FCS,South Dakota St.,Illinois St.,KICK RETURNS,Jaxon,Janke,YDS,20
+12230191,11/9/2019,FCS,South Dakota St.,Illinois St.,KICK RETURNS,Jaxon,Janke,AVG,20.0
+12230192,11/9/2019,FCS,South Dakota St.,Illinois St.,KICK RETURNS,Jaxon,Janke,LONG,20
+12230193,11/9/2019,FCS,South Dakota St.,Illinois St.,DEFENSE,Xavier,Ward,TOT,0
+12230194,11/9/2019,FCS,South Dakota St.,Illinois St.,DEFENSE,Xavier,Ward,SOLO,0
+12230195,11/9/2019,FCS,South Dakota St.,Illinois St.,DEFENSE,Xavier,Ward,SACKS,1
+12230196,11/9/2019,FCS,South Dakota St.,Illinois St.,DEFENSE,Xavier,Ward,TFL,0
+12230197,11/9/2019,FCS,South Dakota St.,Illinois St.,DEFENSE,Xavier,Ward,INT,0
+12230198,11/9/2019,FCS,South Dakota St.,Illinois St.,DEFENSE,Xavier,Ward,FF,1
+12230199,11/9/2019,FCS,South Dakota St.,Illinois St.,DEFENSE,Xavier,Ward,FR,0
+12230200,11/9/2019,FCS,South Dakota St.,Illinois St.,DEFENSE,Quinton,Hicks,TOT,0
+12230201,11/9/2019,FCS,South Dakota St.,Illinois St.,DEFENSE,Quinton,Hicks,SOLO,0
+12230202,11/9/2019,FCS,South Dakota St.,Illinois St.,DEFENSE,Quinton,Hicks,SACKS,1
+12230203,11/9/2019,FCS,South Dakota St.,Illinois St.,DEFENSE,Quinton,Hicks,TFL,0
+12230204,11/9/2019,FCS,South Dakota St.,Illinois St.,DEFENSE,Quinton,Hicks,INT,0
+12230205,11/9/2019,FCS,South Dakota St.,Illinois St.,DEFENSE,Quinton,Hicks,FF,0
+12230206,11/9/2019,FCS,South Dakota St.,Illinois St.,DEFENSE,Quinton,Hicks,FR,0
+12230207,11/9/2019,FCS,South Dakota St.,Illinois St.,DEFENSE,Logan,Backhaus,TOT,0
+12230208,11/9/2019,FCS,South Dakota St.,Illinois St.,DEFENSE,Logan,Backhaus,SOLO,0
+12230209,11/9/2019,FCS,South Dakota St.,Illinois St.,DEFENSE,Logan,Backhaus,SACKS,0
+12230210,11/9/2019,FCS,South Dakota St.,Illinois St.,DEFENSE,Logan,Backhaus,TFL,0
+12230211,11/9/2019,FCS,South Dakota St.,Illinois St.,DEFENSE,Logan,Backhaus,INT,1
+12230212,11/9/2019,FCS,South Dakota St.,Illinois St.,DEFENSE,Logan,Backhaus,FF,0
+12230213,11/9/2019,FCS,South Dakota St.,Illinois St.,DEFENSE,Logan,Backhaus,FR,0
+12230214,11/9/2019,FCS,South Dakota St.,Illinois St.,DEFENSE,Christian,Rozeboom,TOT,0
+12230215,11/9/2019,FCS,South Dakota St.,Illinois St.,DEFENSE,Christian,Rozeboom,SOLO,0
+12230216,11/9/2019,FCS,South Dakota St.,Illinois St.,DEFENSE,Christian,Rozeboom,SACKS,1
+12230217,11/9/2019,FCS,South Dakota St.,Illinois St.,DEFENSE,Christian,Rozeboom,TFL,0
+12230218,11/9/2019,FCS,South Dakota St.,Illinois St.,DEFENSE,Christian,Rozeboom,INT,0
+12230219,11/9/2019,FCS,South Dakota St.,Illinois St.,DEFENSE,Christian,Rozeboom,FF,0
+12230220,11/9/2019,FCS,South Dakota St.,Illinois St.,DEFENSE,Christian,Rozeboom,FR,0

@@ -1,0 +1,133 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9128001,11/21/2015,FCS,Norfolk State,Morgan State,RUSHING,Greg,HankersonJr.,ATT,9
+9128002,11/21/2015,FCS,Norfolk State,Morgan State,RUSHING,Greg,HankersonJr.,YDS,88
+9128003,11/21/2015,FCS,Norfolk State,Morgan State,RUSHING,Greg,HankersonJr.,TD,1
+9128004,11/21/2015,FCS,Norfolk State,Morgan State,RUSHING,Greg,HankersonJr.,LONG,57
+9128005,11/21/2015,FCS,Norfolk State,Morgan State,RUSHING,Larry,BishopIII,ATT,12
+9128006,11/21/2015,FCS,Norfolk State,Morgan State,RUSHING,Larry,BishopIII,YDS,49
+9128007,11/21/2015,FCS,Norfolk State,Morgan State,RUSHING,Larry,BishopIII,TD,0
+9128008,11/21/2015,FCS,Norfolk State,Morgan State,RUSHING,Larry,BishopIII,LONG,17
+9128009,11/21/2015,FCS,Norfolk State,Morgan State,RUSHING,Marcus,Taylor,ATT,1
+9128010,11/21/2015,FCS,Norfolk State,Morgan State,RUSHING,Marcus,Taylor,YDS,11
+9128011,11/21/2015,FCS,Norfolk State,Morgan State,RUSHING,Marcus,Taylor,TD,0
+9128012,11/21/2015,FCS,Norfolk State,Morgan State,RUSHING,Marcus,Taylor,LONG,11
+9128013,11/21/2015,FCS,Norfolk State,Morgan State,RUSHING,Conley,Smith,ATT,1
+9128014,11/21/2015,FCS,Norfolk State,Morgan State,RUSHING,Conley,Smith,YDS,2
+9128015,11/21/2015,FCS,Norfolk State,Morgan State,RUSHING,Conley,Smith,TD,0
+9128016,11/21/2015,FCS,Norfolk State,Morgan State,RUSHING,Conley,Smith,LONG,2
+9128017,11/21/2015,FCS,Norfolk State,Morgan State,RUSHING,,Team,ATT,1
+9128018,11/21/2015,FCS,Norfolk State,Morgan State,RUSHING,,Team,YDS,-1
+9128019,11/21/2015,FCS,Norfolk State,Morgan State,RUSHING,,Team,TD,0
+9128020,11/21/2015,FCS,Norfolk State,Morgan State,RUSHING,,Team,LONG,0
+9128021,11/21/2015,FCS,Norfolk State,Morgan State,PASSING,Greg,HankersonJr.,CP-ATT-INT,15-25-0
+9128022,11/21/2015,FCS,Norfolk State,Morgan State,PASSING,Greg,HankersonJr.,YDS,128
+9128023,11/21/2015,FCS,Norfolk State,Morgan State,PASSING,Greg,HankersonJr.,TD,1
+9128024,11/21/2015,FCS,Norfolk State,Morgan State,PASSING,Greg,HankersonJr.,LONG,42
+9128025,11/21/2015,FCS,Norfolk State,Morgan State,RECEIVING,DeAndre,Sangster,REC,8
+9128026,11/21/2015,FCS,Norfolk State,Morgan State,RECEIVING,DeAndre,Sangster,YDS,70
+9128027,11/21/2015,FCS,Norfolk State,Morgan State,RECEIVING,DeAndre,Sangster,TD,0
+9128028,11/21/2015,FCS,Norfolk State,Morgan State,RECEIVING,DeAndre,Sangster,LONG,42
+9128029,11/21/2015,FCS,Norfolk State,Morgan State,RECEIVING,Quinta,Funderburk,REC,3
+9128030,11/21/2015,FCS,Norfolk State,Morgan State,RECEIVING,Quinta,Funderburk,YDS,25
+9128031,11/21/2015,FCS,Norfolk State,Morgan State,RECEIVING,Quinta,Funderburk,TD,0
+9128032,11/21/2015,FCS,Norfolk State,Morgan State,RECEIVING,Quinta,Funderburk,LONG,14
+9128033,11/21/2015,FCS,Norfolk State,Morgan State,RECEIVING,Isaac,White,REC,2
+9128034,11/21/2015,FCS,Norfolk State,Morgan State,RECEIVING,Isaac,White,YDS,20
+9128035,11/21/2015,FCS,Norfolk State,Morgan State,RECEIVING,Isaac,White,TD,1
+9128036,11/21/2015,FCS,Norfolk State,Morgan State,RECEIVING,Isaac,White,LONG,11
+9128037,11/21/2015,FCS,Norfolk State,Morgan State,RECEIVING,Larry,BishopIII,REC,1
+9128038,11/21/2015,FCS,Norfolk State,Morgan State,RECEIVING,Larry,BishopIII,YDS,7
+9128039,11/21/2015,FCS,Norfolk State,Morgan State,RECEIVING,Larry,BishopIII,TD,0
+9128040,11/21/2015,FCS,Norfolk State,Morgan State,RECEIVING,Larry,BishopIII,LONG,7
+9128041,11/21/2015,FCS,Norfolk State,Morgan State,RECEIVING,Marcus,Taylor,REC,1
+9128042,11/21/2015,FCS,Norfolk State,Morgan State,RECEIVING,Marcus,Taylor,YDS,6
+9128043,11/21/2015,FCS,Norfolk State,Morgan State,RECEIVING,Marcus,Taylor,TD,0
+9128044,11/21/2015,FCS,Norfolk State,Morgan State,RECEIVING,Marcus,Taylor,LONG,6
+9128045,11/21/2015,FCS,Norfolk State,Morgan State,KICKING,Cameron,Marouf,FG-FGA,1/1
+9128046,11/21/2015,FCS,Norfolk State,Morgan State,KICKING,Cameron,Marouf,LONG,37
+9128047,11/21/2015,FCS,Norfolk State,Morgan State,KICKING,Cameron,Marouf,XP,2
+9128048,11/21/2015,FCS,Norfolk State,Morgan State,KICKING,Cameron,Marouf,PTS,5
+9128049,11/21/2015,FCS,Norfolk State,Morgan State,PUNTING,Bo,Lomax,NO,5
+9128050,11/21/2015,FCS,Norfolk State,Morgan State,PUNTING,Bo,Lomax,YDS,175
+9128051,11/21/2015,FCS,Norfolk State,Morgan State,PUNTING,Bo,Lomax,AVG,35.0
+9128052,11/21/2015,FCS,Norfolk State,Morgan State,PUNTING,Bo,Lomax,LONG,48
+9128053,11/21/2015,FCS,Norfolk State,Morgan State,KICK RETURNS,Marcus,Taylor,NO,2
+9128054,11/21/2015,FCS,Norfolk State,Morgan State,KICK RETURNS,Marcus,Taylor,YDS,34
+9128055,11/21/2015,FCS,Norfolk State,Morgan State,KICK RETURNS,Marcus,Taylor,AVG,17.0
+9128056,11/21/2015,FCS,Norfolk State,Morgan State,KICK RETURNS,Marcus,Taylor,LONG,19
+9128057,11/21/2015,FCS,Morgan State,Norfolk State,RUSHING,Orlando,Johnson,ATT,14
+9128058,11/21/2015,FCS,Morgan State,Norfolk State,RUSHING,Orlando,Johnson,YDS,63
+9128059,11/21/2015,FCS,Morgan State,Norfolk State,RUSHING,Orlando,Johnson,TD,0
+9128060,11/21/2015,FCS,Morgan State,Norfolk State,RUSHING,Orlando,Johnson,LONG,12
+9128061,11/21/2015,FCS,Morgan State,Norfolk State,RUSHING,Moses,Skillon,ATT,12
+9128062,11/21/2015,FCS,Morgan State,Norfolk State,RUSHING,Moses,Skillon,YDS,51
+9128063,11/21/2015,FCS,Morgan State,Norfolk State,RUSHING,Moses,Skillon,TD,0
+9128064,11/21/2015,FCS,Morgan State,Norfolk State,RUSHING,Moses,Skillon,LONG,16
+9128065,11/21/2015,FCS,Morgan State,Norfolk State,RUSHING,Marcolm,Banks,ATT,2
+9128066,11/21/2015,FCS,Morgan State,Norfolk State,RUSHING,Marcolm,Banks,YDS,7
+9128067,11/21/2015,FCS,Morgan State,Norfolk State,RUSHING,Marcolm,Banks,TD,0
+9128068,11/21/2015,FCS,Morgan State,Norfolk State,RUSHING,Marcolm,Banks,LONG,7
+9128069,11/21/2015,FCS,Morgan State,Norfolk State,RUSHING,Seth,Higgins,ATT,1
+9128070,11/21/2015,FCS,Morgan State,Norfolk State,RUSHING,Seth,Higgins,YDS,4
+9128071,11/21/2015,FCS,Morgan State,Norfolk State,RUSHING,Seth,Higgins,TD,0
+9128072,11/21/2015,FCS,Morgan State,Norfolk State,RUSHING,Seth,Higgins,LONG,4
+9128073,11/21/2015,FCS,Morgan State,Norfolk State,RUSHING,Ricky,Fisk,ATT,2
+9128074,11/21/2015,FCS,Morgan State,Norfolk State,RUSHING,Ricky,Fisk,YDS,4
+9128075,11/21/2015,FCS,Morgan State,Norfolk State,RUSHING,Ricky,Fisk,TD,0
+9128076,11/21/2015,FCS,Morgan State,Norfolk State,RUSHING,Ricky,Fisk,LONG,7
+9128077,11/21/2015,FCS,Morgan State,Norfolk State,RUSHING,Andrew,King,ATT,1
+9128078,11/21/2015,FCS,Morgan State,Norfolk State,RUSHING,Andrew,King,YDS,-7
+9128079,11/21/2015,FCS,Morgan State,Norfolk State,RUSHING,Andrew,King,TD,0
+9128080,11/21/2015,FCS,Morgan State,Norfolk State,RUSHING,Andrew,King,LONG,0
+9128081,11/21/2015,FCS,Morgan State,Norfolk State,PASSING,Moses,Skillon,CP-ATT-INT,24-42-1
+9128082,11/21/2015,FCS,Morgan State,Norfolk State,PASSING,Moses,Skillon,YDS,185
+9128083,11/21/2015,FCS,Morgan State,Norfolk State,PASSING,Moses,Skillon,TD,1
+9128084,11/21/2015,FCS,Morgan State,Norfolk State,PASSING,Moses,Skillon,LONG,16
+9128085,11/21/2015,FCS,Morgan State,Norfolk State,RECEIVING,Landen,Malbrough,REC,4
+9128086,11/21/2015,FCS,Morgan State,Norfolk State,RECEIVING,Landen,Malbrough,YDS,51
+9128087,11/21/2015,FCS,Morgan State,Norfolk State,RECEIVING,Landen,Malbrough,TD,0
+9128088,11/21/2015,FCS,Morgan State,Norfolk State,RECEIVING,Landen,Malbrough,LONG,16
+9128089,11/21/2015,FCS,Morgan State,Norfolk State,RECEIVING,Ladarius,Spearman,REC,3
+9128090,11/21/2015,FCS,Morgan State,Norfolk State,RECEIVING,Ladarius,Spearman,YDS,31
+9128091,11/21/2015,FCS,Morgan State,Norfolk State,RECEIVING,Ladarius,Spearman,TD,0
+9128092,11/21/2015,FCS,Morgan State,Norfolk State,RECEIVING,Ladarius,Spearman,LONG,14
+9128093,11/21/2015,FCS,Morgan State,Norfolk State,RECEIVING,Andrew,King,REC,7
+9128094,11/21/2015,FCS,Morgan State,Norfolk State,RECEIVING,Andrew,King,YDS,29
+9128095,11/21/2015,FCS,Morgan State,Norfolk State,RECEIVING,Andrew,King,TD,0
+9128096,11/21/2015,FCS,Morgan State,Norfolk State,RECEIVING,Andrew,King,LONG,9
+9128097,11/21/2015,FCS,Morgan State,Norfolk State,RECEIVING,Orlando,Johnson,REC,4
+9128098,11/21/2015,FCS,Morgan State,Norfolk State,RECEIVING,Orlando,Johnson,YDS,28
+9128099,11/21/2015,FCS,Morgan State,Norfolk State,RECEIVING,Orlando,Johnson,TD,1
+9128100,11/21/2015,FCS,Morgan State,Norfolk State,RECEIVING,Orlando,Johnson,LONG,12
+9128101,11/21/2015,FCS,Morgan State,Norfolk State,RECEIVING,Amonta,Poteat,REC,3
+9128102,11/21/2015,FCS,Morgan State,Norfolk State,RECEIVING,Amonta,Poteat,YDS,15
+9128103,11/21/2015,FCS,Morgan State,Norfolk State,RECEIVING,Amonta,Poteat,TD,0
+9128104,11/21/2015,FCS,Morgan State,Norfolk State,RECEIVING,Amonta,Poteat,LONG,10
+9128105,11/21/2015,FCS,Morgan State,Norfolk State,RECEIVING,Marcolm,Banks,REC,1
+9128106,11/21/2015,FCS,Morgan State,Norfolk State,RECEIVING,Marcolm,Banks,YDS,13
+9128107,11/21/2015,FCS,Morgan State,Norfolk State,RECEIVING,Marcolm,Banks,TD,0
+9128108,11/21/2015,FCS,Morgan State,Norfolk State,RECEIVING,Marcolm,Banks,LONG,13
+9128109,11/21/2015,FCS,Morgan State,Norfolk State,RECEIVING,Ricky,Fisk,REC,1
+9128110,11/21/2015,FCS,Morgan State,Norfolk State,RECEIVING,Ricky,Fisk,YDS,12
+9128111,11/21/2015,FCS,Morgan State,Norfolk State,RECEIVING,Ricky,Fisk,TD,0
+9128112,11/21/2015,FCS,Morgan State,Norfolk State,RECEIVING,Ricky,Fisk,LONG,12
+9128113,11/21/2015,FCS,Morgan State,Norfolk State,RECEIVING,Willie,GillusIII,REC,1
+9128114,11/21/2015,FCS,Morgan State,Norfolk State,RECEIVING,Willie,GillusIII,YDS,6
+9128115,11/21/2015,FCS,Morgan State,Norfolk State,RECEIVING,Willie,GillusIII,TD,0
+9128116,11/21/2015,FCS,Morgan State,Norfolk State,RECEIVING,Willie,GillusIII,LONG,6
+9128117,11/21/2015,FCS,Morgan State,Norfolk State,KICKING,Chris,Moller,FG-FGA,1/2
+9128118,11/21/2015,FCS,Morgan State,Norfolk State,KICKING,Chris,Moller,LONG,31
+9128119,11/21/2015,FCS,Morgan State,Norfolk State,KICKING,Chris,Moller,XP,1
+9128120,11/21/2015,FCS,Morgan State,Norfolk State,KICKING,Chris,Moller,PTS,4
+9128121,11/21/2015,FCS,Morgan State,Norfolk State,PUNTING,Chris,Moller,NO,5
+9128122,11/21/2015,FCS,Morgan State,Norfolk State,PUNTING,Chris,Moller,YDS,178
+9128123,11/21/2015,FCS,Morgan State,Norfolk State,PUNTING,Chris,Moller,AVG,35.6
+9128124,11/21/2015,FCS,Morgan State,Norfolk State,PUNTING,Chris,Moller,LONG,46
+9128125,11/21/2015,FCS,Morgan State,Norfolk State,KICK RETURNS,Ricky,Fisk,NO,2
+9128126,11/21/2015,FCS,Morgan State,Norfolk State,KICK RETURNS,Ricky,Fisk,YDS,40
+9128127,11/21/2015,FCS,Morgan State,Norfolk State,KICK RETURNS,Ricky,Fisk,AVG,20.0
+9128128,11/21/2015,FCS,Morgan State,Norfolk State,KICK RETURNS,Ricky,Fisk,LONG,26
+9128129,11/21/2015,FCS,Morgan State,Norfolk State,KICK RETURNS,Orlando,Johnson,NO,1
+9128130,11/21/2015,FCS,Morgan State,Norfolk State,KICK RETURNS,Orlando,Johnson,YDS,27
+9128131,11/21/2015,FCS,Morgan State,Norfolk State,KICK RETURNS,Orlando,Johnson,AVG,27.0
+9128132,11/21/2015,FCS,Morgan State,Norfolk State,KICK RETURNS,Orlando,Johnson,LONG,27

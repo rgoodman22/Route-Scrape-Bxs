@@ -1,0 +1,97 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+10140001,9/9/2017,FCS,Drake,Southwestern (KS),RUSHING,Jacob,Clay,ATT,16
+10140002,9/9/2017,FCS,Drake,Southwestern (KS),RUSHING,Jacob,Clay,YDS,64
+10140003,9/9/2017,FCS,Drake,Southwestern (KS),RUSHING,Jacob,Clay,TD,1
+10140004,9/9/2017,FCS,Drake,Southwestern (KS),RUSHING,Jacob,Clay,LONG,13
+10140005,9/9/2017,FCS,Drake,Southwestern (KS),RUSHING,Isaiah,Skinner,ATT,10
+10140006,9/9/2017,FCS,Drake,Southwestern (KS),RUSHING,Isaiah,Skinner,YDS,54
+10140007,9/9/2017,FCS,Drake,Southwestern (KS),RUSHING,Isaiah,Skinner,TD,0
+10140008,9/9/2017,FCS,Drake,Southwestern (KS),RUSHING,Isaiah,Skinner,LONG,11
+10140009,9/9/2017,FCS,Drake,Southwestern (KS),RUSHING,Taylor,Murph,ATT,14
+10140010,9/9/2017,FCS,Drake,Southwestern (KS),RUSHING,Taylor,Murph,YDS,51
+10140011,9/9/2017,FCS,Drake,Southwestern (KS),RUSHING,Taylor,Murph,TD,0
+10140012,9/9/2017,FCS,Drake,Southwestern (KS),RUSHING,Taylor,Murph,LONG,9
+10140013,9/9/2017,FCS,Drake,Southwestern (KS),RUSHING,Sam,Hefner,ATT,1
+10140014,9/9/2017,FCS,Drake,Southwestern (KS),RUSHING,Sam,Hefner,YDS,4
+10140015,9/9/2017,FCS,Drake,Southwestern (KS),RUSHING,Sam,Hefner,TD,0
+10140016,9/9/2017,FCS,Drake,Southwestern (KS),RUSHING,Sam,Hefner,LONG,4
+10140017,9/9/2017,FCS,Drake,Southwestern (KS),RUSHING,,Team,ATT,2
+10140018,9/9/2017,FCS,Drake,Southwestern (KS),RUSHING,,Team,YDS,-4
+10140019,9/9/2017,FCS,Drake,Southwestern (KS),RUSHING,,Team,TD,0
+10140020,9/9/2017,FCS,Drake,Southwestern (KS),RUSHING,,Team,LONG,0
+10140021,9/9/2017,FCS,Drake,Southwestern (KS),RUSHING,Grant,Kraemer,ATT,5
+10140022,9/9/2017,FCS,Drake,Southwestern (KS),RUSHING,Grant,Kraemer,YDS,-5
+10140023,9/9/2017,FCS,Drake,Southwestern (KS),RUSHING,Grant,Kraemer,TD,0
+10140024,9/9/2017,FCS,Drake,Southwestern (KS),RUSHING,Grant,Kraemer,LONG,5
+10140025,9/9/2017,FCS,Drake,Southwestern (KS),PASSING,Grant,Kraemer,CP-ATT-INT,20-27-0
+10140026,9/9/2017,FCS,Drake,Southwestern (KS),PASSING,Grant,Kraemer,YDS,313
+10140027,9/9/2017,FCS,Drake,Southwestern (KS),PASSING,Grant,Kraemer,TD,6
+10140028,9/9/2017,FCS,Drake,Southwestern (KS),PASSING,Grant,Kraemer,LONG,66
+10140029,9/9/2017,FCS,Drake,Southwestern (KS),PASSING,Sam,Hefner,CP-ATT-INT,4-6-0
+10140030,9/9/2017,FCS,Drake,Southwestern (KS),PASSING,Sam,Hefner,YDS,23
+10140031,9/9/2017,FCS,Drake,Southwestern (KS),PASSING,Sam,Hefner,TD,0
+10140032,9/9/2017,FCS,Drake,Southwestern (KS),PASSING,Sam,Hefner,LONG,11
+10140033,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Mitch,McFarlane,REC,7
+10140034,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Mitch,McFarlane,YDS,152
+10140035,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Mitch,McFarlane,TD,3
+10140036,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Mitch,McFarlane,LONG,66
+10140037,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Daeonte,Calvert,REC,4
+10140038,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Daeonte,Calvert,YDS,45
+10140039,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Daeonte,Calvert,TD,0
+10140040,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Daeonte,Calvert,LONG,16
+10140041,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Connor,Ostrander,REC,2
+10140042,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Connor,Ostrander,YDS,39
+10140043,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Connor,Ostrander,TD,1
+10140044,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Connor,Ostrander,LONG,26
+10140045,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Devin,Cates,REC,3
+10140046,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Devin,Cates,YDS,29
+10140047,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Devin,Cates,TD,1
+10140048,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Devin,Cates,LONG,14
+10140049,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Cole,Neary,REC,2
+10140050,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Cole,Neary,YDS,25
+10140051,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Cole,Neary,TD,1
+10140052,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Cole,Neary,LONG,14
+10140053,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Alex,Bonds,REC,2
+10140054,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Alex,Bonds,YDS,23
+10140055,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Alex,Bonds,TD,0
+10140056,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Alex,Bonds,LONG,14
+10140057,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Will,Purdom,REC,1
+10140058,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Will,Purdom,YDS,11
+10140059,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Will,Purdom,TD,0
+10140060,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Will,Purdom,LONG,11
+10140061,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Zach,DeLeon,REC,1
+10140062,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Zach,DeLeon,YDS,5
+10140063,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Zach,DeLeon,TD,0
+10140064,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Zach,DeLeon,LONG,5
+10140065,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Jacob,Clay,REC,1
+10140066,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Jacob,Clay,YDS,4
+10140067,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Jacob,Clay,TD,0
+10140068,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Jacob,Clay,LONG,4
+10140069,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Austin,Pfenninger,REC,1
+10140070,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Austin,Pfenninger,YDS,3
+10140071,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Austin,Pfenninger,TD,0
+10140072,9/9/2017,FCS,Drake,Southwestern (KS),RECEIVING,Austin,Pfenninger,LONG,3
+10140073,9/9/2017,FCS,Drake,Southwestern (KS),KICKING,Danny,Donley,FG-FGA,2/2
+10140074,9/9/2017,FCS,Drake,Southwestern (KS),KICKING,Danny,Donley,LONG,43
+10140075,9/9/2017,FCS,Drake,Southwestern (KS),KICKING,Danny,Donley,XP,6
+10140076,9/9/2017,FCS,Drake,Southwestern (KS),KICKING,Danny,Donley,PTS,12
+10140077,9/9/2017,FCS,Drake,Southwestern (KS),KICKING,Ross,Kennedy,FG-FGA,0/0
+10140078,9/9/2017,FCS,Drake,Southwestern (KS),KICKING,Ross,Kennedy,LONG,-
+10140079,9/9/2017,FCS,Drake,Southwestern (KS),KICKING,Ross,Kennedy,XP,1
+10140080,9/9/2017,FCS,Drake,Southwestern (KS),KICKING,Ross,Kennedy,PTS,1
+10140081,9/9/2017,FCS,Drake,Southwestern (KS),PUNTING,Hunter,White,NO,2
+10140082,9/9/2017,FCS,Drake,Southwestern (KS),PUNTING,Hunter,White,YDS,82
+10140083,9/9/2017,FCS,Drake,Southwestern (KS),PUNTING,Hunter,White,AVG,41.0
+10140084,9/9/2017,FCS,Drake,Southwestern (KS),PUNTING,Hunter,White,LONG,44
+10140085,9/9/2017,FCS,Drake,Southwestern (KS),PUNTING,Ross,Kennedy,NO,1
+10140086,9/9/2017,FCS,Drake,Southwestern (KS),PUNTING,Ross,Kennedy,YDS,46
+10140087,9/9/2017,FCS,Drake,Southwestern (KS),PUNTING,Ross,Kennedy,AVG,46.0
+10140088,9/9/2017,FCS,Drake,Southwestern (KS),PUNTING,Ross,Kennedy,LONG,46
+10140089,9/9/2017,FCS,Drake,Southwestern (KS),PUNT RETURNS,Collin,Seymour,NO,3
+10140090,9/9/2017,FCS,Drake,Southwestern (KS),PUNT RETURNS,Collin,Seymour,YDS,22
+10140091,9/9/2017,FCS,Drake,Southwestern (KS),PUNT RETURNS,Collin,Seymour,AVG,7.3
+10140092,9/9/2017,FCS,Drake,Southwestern (KS),PUNT RETURNS,Collin,Seymour,LONG,13
+10140093,9/9/2017,FCS,Drake,Southwestern (KS),KICK RETURNS,Isaiah,Skinner,NO,2
+10140094,9/9/2017,FCS,Drake,Southwestern (KS),KICK RETURNS,Isaiah,Skinner,YDS,45
+10140095,9/9/2017,FCS,Drake,Southwestern (KS),KICK RETURNS,Isaiah,Skinner,AVG,22.5
+10140096,9/9/2017,FCS,Drake,Southwestern (KS),KICK RETURNS,Isaiah,Skinner,LONG,26

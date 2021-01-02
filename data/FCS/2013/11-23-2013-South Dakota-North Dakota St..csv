@@ -1,0 +1,145 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+7544001,11/23/2013,FCS,South Dakota,North Dakota St.,RUSHING,Jordan,Roberts,ATT,20
+7544002,11/23/2013,FCS,South Dakota,North Dakota St.,RUSHING,Jordan,Roberts,YDS,107
+7544003,11/23/2013,FCS,South Dakota,North Dakota St.,RUSHING,Jordan,Roberts,TD,0
+7544004,11/23/2013,FCS,South Dakota,North Dakota St.,RUSHING,Jordan,Roberts,LONG,15
+7544005,11/23/2013,FCS,South Dakota,North Dakota St.,RUSHING,Josh,VanderMaten,ATT,5
+7544006,11/23/2013,FCS,South Dakota,North Dakota St.,RUSHING,Josh,VanderMaten,YDS,15
+7544007,11/23/2013,FCS,South Dakota,North Dakota St.,RUSHING,Josh,VanderMaten,TD,0
+7544008,11/23/2013,FCS,South Dakota,North Dakota St.,RUSHING,Josh,VanderMaten,LONG,8
+7544009,11/23/2013,FCS,South Dakota,North Dakota St.,RUSHING,Terrance,Terry,ATT,1
+7544010,11/23/2013,FCS,South Dakota,North Dakota St.,RUSHING,Terrance,Terry,YDS,1
+7544011,11/23/2013,FCS,South Dakota,North Dakota St.,RUSHING,Terrance,Terry,TD,0
+7544012,11/23/2013,FCS,South Dakota,North Dakota St.,RUSHING,Terrance,Terry,LONG,1
+7544013,11/23/2013,FCS,South Dakota,North Dakota St.,RUSHING,Kevin,Earl,ATT,3
+7544014,11/23/2013,FCS,South Dakota,North Dakota St.,RUSHING,Kevin,Earl,YDS,-10
+7544015,11/23/2013,FCS,South Dakota,North Dakota St.,RUSHING,Kevin,Earl,TD,0
+7544016,11/23/2013,FCS,South Dakota,North Dakota St.,RUSHING,Kevin,Earl,LONG,2
+7544017,11/23/2013,FCS,South Dakota,North Dakota St.,PASSING,Kevin,Earl,CP-ATT-INT,10-26-2
+7544018,11/23/2013,FCS,South Dakota,North Dakota St.,PASSING,Kevin,Earl,YDS,101
+7544019,11/23/2013,FCS,South Dakota,North Dakota St.,PASSING,Kevin,Earl,TD,0
+7544020,11/23/2013,FCS,South Dakota,North Dakota St.,PASSING,Kevin,Earl,LONG,25
+7544021,11/23/2013,FCS,South Dakota,North Dakota St.,RECEIVING,Nick,Meyer,REC,3
+7544022,11/23/2013,FCS,South Dakota,North Dakota St.,RECEIVING,Nick,Meyer,YDS,30
+7544023,11/23/2013,FCS,South Dakota,North Dakota St.,RECEIVING,Nick,Meyer,TD,0
+7544024,11/23/2013,FCS,South Dakota,North Dakota St.,RECEIVING,Nick,Meyer,LONG,14
+7544025,11/23/2013,FCS,South Dakota,North Dakota St.,RECEIVING,Tyler,Wilhelm,REC,3
+7544026,11/23/2013,FCS,South Dakota,North Dakota St.,RECEIVING,Tyler,Wilhelm,YDS,24
+7544027,11/23/2013,FCS,South Dakota,North Dakota St.,RECEIVING,Tyler,Wilhelm,TD,0
+7544028,11/23/2013,FCS,South Dakota,North Dakota St.,RECEIVING,Tyler,Wilhelm,LONG,14
+7544029,11/23/2013,FCS,South Dakota,North Dakota St.,RECEIVING,Terrance,Terry,REC,3
+7544030,11/23/2013,FCS,South Dakota,North Dakota St.,RECEIVING,Terrance,Terry,YDS,22
+7544031,11/23/2013,FCS,South Dakota,North Dakota St.,RECEIVING,Terrance,Terry,TD,0
+7544032,11/23/2013,FCS,South Dakota,North Dakota St.,RECEIVING,Terrance,Terry,LONG,14
+7544033,11/23/2013,FCS,South Dakota,North Dakota St.,RECEIVING,Josh,VanderMaten,REC,1
+7544034,11/23/2013,FCS,South Dakota,North Dakota St.,RECEIVING,Josh,VanderMaten,YDS,25
+7544035,11/23/2013,FCS,South Dakota,North Dakota St.,RECEIVING,Josh,VanderMaten,TD,0
+7544036,11/23/2013,FCS,South Dakota,North Dakota St.,RECEIVING,Josh,VanderMaten,LONG,25
+7544037,11/23/2013,FCS,South Dakota,North Dakota St.,PUNTING,Miles,Bergner,NO,10
+7544038,11/23/2013,FCS,South Dakota,North Dakota St.,PUNTING,Miles,Bergner,YDS,387
+7544039,11/23/2013,FCS,South Dakota,North Dakota St.,PUNTING,Miles,Bergner,AVG,38.7
+7544040,11/23/2013,FCS,South Dakota,North Dakota St.,PUNTING,Miles,Bergner,LONG,52
+7544041,11/23/2013,FCS,South Dakota,North Dakota St.,KICK RETURNS,Dyllon,Knox,NO,2
+7544042,11/23/2013,FCS,South Dakota,North Dakota St.,KICK RETURNS,Dyllon,Knox,YDS,51
+7544043,11/23/2013,FCS,South Dakota,North Dakota St.,KICK RETURNS,Dyllon,Knox,AVG,25.5
+7544044,11/23/2013,FCS,South Dakota,North Dakota St.,KICK RETURNS,Dyllon,Knox,LONG,29
+7544045,11/23/2013,FCS,South Dakota,North Dakota St.,KICK RETURNS,Aaron,Swift,NO,2
+7544046,11/23/2013,FCS,South Dakota,North Dakota St.,KICK RETURNS,Aaron,Swift,YDS,34
+7544047,11/23/2013,FCS,South Dakota,North Dakota St.,KICK RETURNS,Aaron,Swift,AVG,17.0
+7544048,11/23/2013,FCS,South Dakota,North Dakota St.,KICK RETURNS,Aaron,Swift,LONG,19
+7544049,11/23/2013,FCS,South Dakota,North Dakota St.,KICK RETURNS,Kyle,Guziec,NO,1
+7544050,11/23/2013,FCS,South Dakota,North Dakota St.,KICK RETURNS,Kyle,Guziec,YDS,5
+7544051,11/23/2013,FCS,South Dakota,North Dakota St.,KICK RETURNS,Kyle,Guziec,AVG,5.0
+7544052,11/23/2013,FCS,South Dakota,North Dakota St.,KICK RETURNS,Kyle,Guziec,LONG,5
+7544053,11/23/2013,FCS,North Dakota St.,South Dakota,RUSHING,Sam,Ojuri,ATT,14
+7544054,11/23/2013,FCS,North Dakota St.,South Dakota,RUSHING,Sam,Ojuri,YDS,118
+7544055,11/23/2013,FCS,North Dakota St.,South Dakota,RUSHING,Sam,Ojuri,TD,2
+7544056,11/23/2013,FCS,North Dakota St.,South Dakota,RUSHING,Sam,Ojuri,LONG,55
+7544057,11/23/2013,FCS,North Dakota St.,South Dakota,RUSHING,John,Crockett,ATT,11
+7544058,11/23/2013,FCS,North Dakota St.,South Dakota,RUSHING,John,Crockett,YDS,116
+7544059,11/23/2013,FCS,North Dakota St.,South Dakota,RUSHING,John,Crockett,TD,2
+7544060,11/23/2013,FCS,North Dakota St.,South Dakota,RUSHING,John,Crockett,LONG,28
+7544061,11/23/2013,FCS,North Dakota St.,South Dakota,RUSHING,Derrick,Lang,ATT,8
+7544062,11/23/2013,FCS,North Dakota St.,South Dakota,RUSHING,Derrick,Lang,YDS,42
+7544063,11/23/2013,FCS,North Dakota St.,South Dakota,RUSHING,Derrick,Lang,TD,0
+7544064,11/23/2013,FCS,North Dakota St.,South Dakota,RUSHING,Derrick,Lang,LONG,13
+7544065,11/23/2013,FCS,North Dakota St.,South Dakota,RUSHING,Brock,Jensen,ATT,5
+7544066,11/23/2013,FCS,North Dakota St.,South Dakota,RUSHING,Brock,Jensen,YDS,19
+7544067,11/23/2013,FCS,North Dakota St.,South Dakota,RUSHING,Brock,Jensen,TD,0
+7544068,11/23/2013,FCS,North Dakota St.,South Dakota,RUSHING,Brock,Jensen,LONG,24
+7544069,11/23/2013,FCS,North Dakota St.,South Dakota,RUSHING,Chase,Morlock,ATT,4
+7544070,11/23/2013,FCS,North Dakota St.,South Dakota,RUSHING,Chase,Morlock,YDS,17
+7544071,11/23/2013,FCS,North Dakota St.,South Dakota,RUSHING,Chase,Morlock,TD,0
+7544072,11/23/2013,FCS,North Dakota St.,South Dakota,RUSHING,Chase,Morlock,LONG,7
+7544073,11/23/2013,FCS,North Dakota St.,South Dakota,RUSHING,Darius,Anderson,ATT,2
+7544074,11/23/2013,FCS,North Dakota St.,South Dakota,RUSHING,Darius,Anderson,YDS,3
+7544075,11/23/2013,FCS,North Dakota St.,South Dakota,RUSHING,Darius,Anderson,TD,0
+7544076,11/23/2013,FCS,North Dakota St.,South Dakota,RUSHING,Darius,Anderson,LONG,3
+7544077,11/23/2013,FCS,North Dakota St.,South Dakota,RUSHING,Carson,Wentz,ATT,2
+7544078,11/23/2013,FCS,North Dakota St.,South Dakota,RUSHING,Carson,Wentz,YDS,-5
+7544079,11/23/2013,FCS,North Dakota St.,South Dakota,RUSHING,Carson,Wentz,TD,0
+7544080,11/23/2013,FCS,North Dakota St.,South Dakota,RUSHING,Carson,Wentz,LONG,0
+7544081,11/23/2013,FCS,North Dakota St.,South Dakota,RUSHING,Carlton,Littlejohn,ATT,1
+7544082,11/23/2013,FCS,North Dakota St.,South Dakota,RUSHING,Carlton,Littlejohn,YDS,-14
+7544083,11/23/2013,FCS,North Dakota St.,South Dakota,RUSHING,Carlton,Littlejohn,TD,0
+7544084,11/23/2013,FCS,North Dakota St.,South Dakota,RUSHING,Carlton,Littlejohn,LONG,0
+7544085,11/23/2013,FCS,North Dakota St.,South Dakota,PASSING,Brock,Jensen,CP-ATT-INT,16-22-1
+7544086,11/23/2013,FCS,North Dakota St.,South Dakota,PASSING,Brock,Jensen,YDS,230
+7544087,11/23/2013,FCS,North Dakota St.,South Dakota,PASSING,Brock,Jensen,TD,2
+7544088,11/23/2013,FCS,North Dakota St.,South Dakota,PASSING,Brock,Jensen,LONG,64
+7544089,11/23/2013,FCS,North Dakota St.,South Dakota,PASSING,Carson,Wentz,CP-ATT-INT,3-5-0
+7544090,11/23/2013,FCS,North Dakota St.,South Dakota,PASSING,Carson,Wentz,YDS,27
+7544091,11/23/2013,FCS,North Dakota St.,South Dakota,PASSING,Carson,Wentz,TD,0
+7544092,11/23/2013,FCS,North Dakota St.,South Dakota,PASSING,Carson,Wentz,LONG,15
+7544093,11/23/2013,FCS,North Dakota St.,South Dakota,PASSING,,Team,CP-ATT-INT,0-1-0
+7544094,11/23/2013,FCS,North Dakota St.,South Dakota,PASSING,,Team,YDS,0
+7544095,11/23/2013,FCS,North Dakota St.,South Dakota,PASSING,,Team,TD,0
+7544096,11/23/2013,FCS,North Dakota St.,South Dakota,PASSING,,Team,LONG,0
+7544097,11/23/2013,FCS,North Dakota St.,South Dakota,RECEIVING,Ryan,Smith,REC,4
+7544098,11/23/2013,FCS,North Dakota St.,South Dakota,RECEIVING,Ryan,Smith,YDS,111
+7544099,11/23/2013,FCS,North Dakota St.,South Dakota,RECEIVING,Ryan,Smith,TD,1
+7544100,11/23/2013,FCS,North Dakota St.,South Dakota,RECEIVING,Ryan,Smith,LONG,64
+7544101,11/23/2013,FCS,North Dakota St.,South Dakota,RECEIVING,Zach,Vraa,REC,4
+7544102,11/23/2013,FCS,North Dakota St.,South Dakota,RECEIVING,Zach,Vraa,YDS,40
+7544103,11/23/2013,FCS,North Dakota St.,South Dakota,RECEIVING,Zach,Vraa,TD,1
+7544104,11/23/2013,FCS,North Dakota St.,South Dakota,RECEIVING,Zach,Vraa,LONG,22
+7544105,11/23/2013,FCS,North Dakota St.,South Dakota,RECEIVING,Carey,Woods,REC,3
+7544106,11/23/2013,FCS,North Dakota St.,South Dakota,RECEIVING,Carey,Woods,YDS,35
+7544107,11/23/2013,FCS,North Dakota St.,South Dakota,RECEIVING,Carey,Woods,TD,0
+7544108,11/23/2013,FCS,North Dakota St.,South Dakota,RECEIVING,Carey,Woods,LONG,20
+7544109,11/23/2013,FCS,North Dakota St.,South Dakota,RECEIVING,Andrew,Bonnet,REC,3
+7544110,11/23/2013,FCS,North Dakota St.,South Dakota,RECEIVING,Andrew,Bonnet,YDS,25
+7544111,11/23/2013,FCS,North Dakota St.,South Dakota,RECEIVING,Andrew,Bonnet,TD,0
+7544112,11/23/2013,FCS,North Dakota St.,South Dakota,RECEIVING,Andrew,Bonnet,LONG,15
+7544113,11/23/2013,FCS,North Dakota St.,South Dakota,RECEIVING,Kevin,Vaadeland,REC,2
+7544114,11/23/2013,FCS,North Dakota St.,South Dakota,RECEIVING,Kevin,Vaadeland,YDS,27
+7544115,11/23/2013,FCS,North Dakota St.,South Dakota,RECEIVING,Kevin,Vaadeland,TD,0
+7544116,11/23/2013,FCS,North Dakota St.,South Dakota,RECEIVING,Kevin,Vaadeland,LONG,18
+7544117,11/23/2013,FCS,North Dakota St.,South Dakota,RECEIVING,Sam,Ojuri,REC,1
+7544118,11/23/2013,FCS,North Dakota St.,South Dakota,RECEIVING,Sam,Ojuri,YDS,10
+7544119,11/23/2013,FCS,North Dakota St.,South Dakota,RECEIVING,Sam,Ojuri,TD,0
+7544120,11/23/2013,FCS,North Dakota St.,South Dakota,RECEIVING,Sam,Ojuri,LONG,10
+7544121,11/23/2013,FCS,North Dakota St.,South Dakota,RECEIVING,Trevor,Gebhart,REC,1
+7544122,11/23/2013,FCS,North Dakota St.,South Dakota,RECEIVING,Trevor,Gebhart,YDS,8
+7544123,11/23/2013,FCS,North Dakota St.,South Dakota,RECEIVING,Trevor,Gebhart,TD,0
+7544124,11/23/2013,FCS,North Dakota St.,South Dakota,RECEIVING,Trevor,Gebhart,LONG,8
+7544125,11/23/2013,FCS,North Dakota St.,South Dakota,RECEIVING,Eric,Perkins,REC,1
+7544126,11/23/2013,FCS,North Dakota St.,South Dakota,RECEIVING,Eric,Perkins,YDS,1
+7544127,11/23/2013,FCS,North Dakota St.,South Dakota,RECEIVING,Eric,Perkins,TD,0
+7544128,11/23/2013,FCS,North Dakota St.,South Dakota,RECEIVING,Eric,Perkins,LONG,1
+7544129,11/23/2013,FCS,North Dakota St.,South Dakota,KICKING,Adam,Keller,FG-FGA,0/0
+7544130,11/23/2013,FCS,North Dakota St.,South Dakota,KICKING,Adam,Keller,LONG,-
+7544131,11/23/2013,FCS,North Dakota St.,South Dakota,KICKING,Adam,Keller,XP,6
+7544132,11/23/2013,FCS,North Dakota St.,South Dakota,KICKING,Adam,Keller,PTS,6
+7544133,11/23/2013,FCS,North Dakota St.,South Dakota,PUNTING,Ben,LeCompte,NO,3
+7544134,11/23/2013,FCS,North Dakota St.,South Dakota,PUNTING,Ben,LeCompte,YDS,148
+7544135,11/23/2013,FCS,North Dakota St.,South Dakota,PUNTING,Ben,LeCompte,AVG,49.3
+7544136,11/23/2013,FCS,North Dakota St.,South Dakota,PUNTING,Ben,LeCompte,LONG,52
+7544137,11/23/2013,FCS,North Dakota St.,South Dakota,PUNT RETURNS,Ryan,Smith,NO,2
+7544138,11/23/2013,FCS,North Dakota St.,South Dakota,PUNT RETURNS,Ryan,Smith,YDS,32
+7544139,11/23/2013,FCS,North Dakota St.,South Dakota,PUNT RETURNS,Ryan,Smith,AVG,16.0
+7544140,11/23/2013,FCS,North Dakota St.,South Dakota,PUNT RETURNS,Ryan,Smith,LONG,32
+7544141,11/23/2013,FCS,North Dakota St.,South Dakota,KICK RETURNS,Derrick,Lang,NO,1
+7544142,11/23/2013,FCS,North Dakota St.,South Dakota,KICK RETURNS,Derrick,Lang,YDS,20
+7544143,11/23/2013,FCS,North Dakota St.,South Dakota,KICK RETURNS,Derrick,Lang,AVG,20.0
+7544144,11/23/2013,FCS,North Dakota St.,South Dakota,KICK RETURNS,Derrick,Lang,LONG,20

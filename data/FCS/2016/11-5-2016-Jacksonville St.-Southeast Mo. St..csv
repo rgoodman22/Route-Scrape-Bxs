@@ -1,0 +1,121 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9810001,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,RUSHING,Bryant,Horn,ATT,5
+9810002,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,RUSHING,Bryant,Horn,YDS,55
+9810003,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,RUSHING,Bryant,Horn,TD,0
+9810004,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,RUSHING,Bryant,Horn,LONG,25
+9810005,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,RUSHING,Josh,Clemons,ATT,14
+9810006,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,RUSHING,Josh,Clemons,YDS,46
+9810007,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,RUSHING,Josh,Clemons,TD,0
+9810008,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,RUSHING,Josh,Clemons,LONG,7
+9810009,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,RUSHING,Roc,Thomas,ATT,14
+9810010,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,RUSHING,Roc,Thomas,YDS,46
+9810011,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,RUSHING,Roc,Thomas,TD,0
+9810012,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,RUSHING,Roc,Thomas,LONG,10
+9810013,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,RUSHING,Eli,Jenkins,ATT,9
+9810014,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,RUSHING,Eli,Jenkins,YDS,5
+9810015,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,RUSHING,Eli,Jenkins,TD,0
+9810016,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,RUSHING,Eli,Jenkins,LONG,7
+9810017,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,RUSHING,,Team,ATT,1
+9810018,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,RUSHING,,Team,YDS,-1
+9810019,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,RUSHING,,Team,TD,0
+9810020,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,RUSHING,,Team,LONG,0
+9810021,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,PASSING,Eli,Jenkins,CP-ATT-INT,10-19-0
+9810022,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,PASSING,Eli,Jenkins,YDS,144
+9810023,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,PASSING,Eli,Jenkins,TD,1
+9810024,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,PASSING,Eli,Jenkins,LONG,37
+9810025,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,PASSING,Bryant,Horn,CP-ATT-INT,4-5-0
+9810026,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,PASSING,Bryant,Horn,YDS,55
+9810027,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,PASSING,Bryant,Horn,TD,1
+9810028,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,PASSING,Bryant,Horn,LONG,11
+9810029,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,RECEIVING,Josh,Barge,REC,8
+9810030,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,RECEIVING,Josh,Barge,YDS,145
+9810031,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,RECEIVING,Josh,Barge,TD,1
+9810032,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,RECEIVING,Josh,Barge,LONG,37
+9810033,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,RECEIVING,Jamari,Hester,REC,4
+9810034,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,RECEIVING,Jamari,Hester,YDS,37
+9810035,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,RECEIVING,Jamari,Hester,TD,0
+9810036,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,RECEIVING,Jamari,Hester,LONG,16
+9810037,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,RECEIVING,Josh,Clemons,REC,2
+9810038,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,RECEIVING,Josh,Clemons,YDS,17
+9810039,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,RECEIVING,Josh,Clemons,TD,1
+9810040,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,RECEIVING,Josh,Clemons,LONG,11
+9810041,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,KICKING,Cade,Stinnett,FG-FGA,1/2
+9810042,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,KICKING,Cade,Stinnett,LONG,45
+9810043,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,KICKING,Cade,Stinnett,XP,2
+9810044,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,KICKING,Cade,Stinnett,PTS,5
+9810045,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,PUNTING,Dean,Kelly,NO,7
+9810046,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,PUNTING,Dean,Kelly,YDS,289
+9810047,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,PUNTING,Dean,Kelly,AVG,41.3
+9810048,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,PUNTING,Dean,Kelly,LONG,59
+9810049,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,PUNT RETURNS,Josh,Barge,NO,2
+9810050,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,PUNT RETURNS,Josh,Barge,YDS,19
+9810051,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,PUNT RETURNS,Josh,Barge,AVG,9.5
+9810052,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,PUNT RETURNS,Josh,Barge,LONG,10
+9810053,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,KICK RETURNS,Reggie,Hall,NO,2
+9810054,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,KICK RETURNS,Reggie,Hall,YDS,54
+9810055,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,KICK RETURNS,Reggie,Hall,AVG,27.0
+9810056,11/5/2016,FCS,Jacksonville St.,Southeast Mo. St.,KICK RETURNS,Reggie,Hall,LONG,28
+9810057,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RUSHING,Will,Young,ATT,11
+9810058,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RUSHING,Will,Young,YDS,36
+9810059,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RUSHING,Will,Young,TD,0
+9810060,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RUSHING,Will,Young,LONG,11
+9810061,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RUSHING,Cameron,Sanders,ATT,4
+9810062,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RUSHING,Cameron,Sanders,YDS,6
+9810063,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RUSHING,Cameron,Sanders,TD,0
+9810064,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RUSHING,Cameron,Sanders,LONG,3
+9810065,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RUSHING,Roper,Garrett,ATT,1
+9810066,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RUSHING,Roper,Garrett,YDS,3
+9810067,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RUSHING,Roper,Garrett,TD,0
+9810068,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RUSHING,Roper,Garrett,LONG,3
+9810069,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RUSHING,Tremane,McCullough,ATT,6
+9810070,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RUSHING,Tremane,McCullough,YDS,-6
+9810071,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RUSHING,Tremane,McCullough,TD,0
+9810072,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RUSHING,Tremane,McCullough,LONG,3
+9810073,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RUSHING,Jesse,Hosket,ATT,4
+9810074,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RUSHING,Jesse,Hosket,YDS,-12
+9810075,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RUSHING,Jesse,Hosket,TD,0
+9810076,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RUSHING,Jesse,Hosket,LONG,3
+9810077,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RUSHING,,Team,ATT,2
+9810078,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RUSHING,,Team,YDS,-27
+9810079,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RUSHING,,Team,TD,0
+9810080,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RUSHING,,Team,LONG,0
+9810081,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,PASSING,Jesse,Hosket,CP-ATT-INT,14-39-2
+9810082,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,PASSING,Jesse,Hosket,YDS,206
+9810083,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,PASSING,Jesse,Hosket,TD,1
+9810084,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,PASSING,Jesse,Hosket,LONG,49
+9810085,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,PASSING,,Team,CP-ATT-INT,0-2-0
+9810086,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,PASSING,,Team,YDS,0
+9810087,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,PASSING,,Team,TD,0
+9810088,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,PASSING,,Team,LONG,0
+9810089,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RECEIVING,Kristian,Wilkerson,REC,2
+9810090,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RECEIVING,Kristian,Wilkerson,YDS,93
+9810091,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RECEIVING,Kristian,Wilkerson,TD,1
+9810092,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RECEIVING,Kristian,Wilkerson,LONG,49
+9810093,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RECEIVING,C.J.,Curry,REC,3
+9810094,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RECEIVING,C.J.,Curry,YDS,53
+9810095,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RECEIVING,C.J.,Curry,TD,0
+9810096,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RECEIVING,C.J.,Curry,LONG,26
+9810097,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RECEIVING,Tyler,McLemore,REC,4
+9810098,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RECEIVING,Tyler,McLemore,YDS,46
+9810099,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RECEIVING,Tyler,McLemore,TD,0
+9810100,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RECEIVING,Tyler,McLemore,LONG,17
+9810101,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RECEIVING,Tremane,McCullough,REC,5
+9810102,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RECEIVING,Tremane,McCullough,YDS,14
+9810103,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RECEIVING,Tremane,McCullough,TD,0
+9810104,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,RECEIVING,Tremane,McCullough,LONG,9
+9810105,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,KICKING,Ryan,McCrum,FG-FGA,1/2
+9810106,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,KICKING,Ryan,McCrum,LONG,23
+9810107,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,KICKING,Ryan,McCrum,XP,1
+9810108,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,KICKING,Ryan,McCrum,PTS,4
+9810109,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,PUNTING,Alex,Knight,NO,8
+9810110,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,PUNTING,Alex,Knight,YDS,347
+9810111,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,PUNTING,Alex,Knight,AVG,43.4
+9810112,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,PUNTING,Alex,Knight,LONG,55
+9810113,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,PUNT RETURNS,Tyler,Manne,NO,4
+9810114,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,PUNT RETURNS,Tyler,Manne,YDS,15
+9810115,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,PUNT RETURNS,Tyler,Manne,AVG,3.8
+9810116,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,PUNT RETURNS,Tyler,Manne,LONG,7
+9810117,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,KICK RETURNS,Cameron,Sanders,NO,4
+9810118,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,KICK RETURNS,Cameron,Sanders,YDS,121
+9810119,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,KICK RETURNS,Cameron,Sanders,AVG,30.2
+9810120,11/5/2016,FCS,Southeast Mo. St.,Jacksonville St.,KICK RETURNS,Cameron,Sanders,LONG,49

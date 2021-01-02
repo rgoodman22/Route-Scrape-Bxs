@@ -1,0 +1,125 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9876001,11/12/2016,FCS,Missouri State,Illinois State,RUSHING,Brodie,Lambert,ATT,10
+9876002,11/12/2016,FCS,Missouri State,Illinois State,RUSHING,Brodie,Lambert,YDS,44
+9876003,11/12/2016,FCS,Missouri State,Illinois State,RUSHING,Brodie,Lambert,TD,0
+9876004,11/12/2016,FCS,Missouri State,Illinois State,RUSHING,Brodie,Lambert,LONG,12
+9876005,11/12/2016,FCS,Missouri State,Illinois State,RUSHING,Phoenix,Johnson,ATT,3
+9876006,11/12/2016,FCS,Missouri State,Illinois State,RUSHING,Phoenix,Johnson,YDS,28
+9876007,11/12/2016,FCS,Missouri State,Illinois State,RUSHING,Phoenix,Johnson,TD,0
+9876008,11/12/2016,FCS,Missouri State,Illinois State,RUSHING,Phoenix,Johnson,LONG,17
+9876009,11/12/2016,FCS,Missouri State,Illinois State,RUSHING,Deion,Holliman,ATT,4
+9876010,11/12/2016,FCS,Missouri State,Illinois State,RUSHING,Deion,Holliman,YDS,20
+9876011,11/12/2016,FCS,Missouri State,Illinois State,RUSHING,Deion,Holliman,TD,0
+9876012,11/12/2016,FCS,Missouri State,Illinois State,RUSHING,Deion,Holliman,LONG,11
+9876013,11/12/2016,FCS,Missouri State,Illinois State,RUSHING,Jason,Randall,ATT,11
+9876014,11/12/2016,FCS,Missouri State,Illinois State,RUSHING,Jason,Randall,YDS,17
+9876015,11/12/2016,FCS,Missouri State,Illinois State,RUSHING,Jason,Randall,TD,0
+9876016,11/12/2016,FCS,Missouri State,Illinois State,RUSHING,Jason,Randall,LONG,4
+9876017,11/12/2016,FCS,Missouri State,Illinois State,RUSHING,Calan,Crowder,ATT,3
+9876018,11/12/2016,FCS,Missouri State,Illinois State,RUSHING,Calan,Crowder,YDS,7
+9876019,11/12/2016,FCS,Missouri State,Illinois State,RUSHING,Calan,Crowder,TD,0
+9876020,11/12/2016,FCS,Missouri State,Illinois State,RUSHING,Calan,Crowder,LONG,5
+9876021,11/12/2016,FCS,Missouri State,Illinois State,RUSHING,Nick,Masoner,ATT,2
+9876022,11/12/2016,FCS,Missouri State,Illinois State,RUSHING,Nick,Masoner,YDS,4
+9876023,11/12/2016,FCS,Missouri State,Illinois State,RUSHING,Nick,Masoner,TD,0
+9876024,11/12/2016,FCS,Missouri State,Illinois State,RUSHING,Nick,Masoner,LONG,3
+9876025,11/12/2016,FCS,Missouri State,Illinois State,RUSHING,,Team,ATT,1
+9876026,11/12/2016,FCS,Missouri State,Illinois State,RUSHING,,Team,YDS,-4
+9876027,11/12/2016,FCS,Missouri State,Illinois State,RUSHING,,Team,TD,0
+9876028,11/12/2016,FCS,Missouri State,Illinois State,RUSHING,,Team,LONG,0
+9876029,11/12/2016,FCS,Missouri State,Illinois State,PASSING,Brodie,Lambert,CP-ATT-INT,15-27-2
+9876030,11/12/2016,FCS,Missouri State,Illinois State,PASSING,Brodie,Lambert,YDS,77
+9876031,11/12/2016,FCS,Missouri State,Illinois State,PASSING,Brodie,Lambert,TD,0
+9876032,11/12/2016,FCS,Missouri State,Illinois State,PASSING,Brodie,Lambert,LONG,16
+9876033,11/12/2016,FCS,Missouri State,Illinois State,PASSING,Michael,Briggs,CP-ATT-INT,0-1-0
+9876034,11/12/2016,FCS,Missouri State,Illinois State,PASSING,Michael,Briggs,YDS,0
+9876035,11/12/2016,FCS,Missouri State,Illinois State,PASSING,Michael,Briggs,TD,0
+9876036,11/12/2016,FCS,Missouri State,Illinois State,PASSING,Michael,Briggs,LONG,0
+9876037,11/12/2016,FCS,Missouri State,Illinois State,RECEIVING,Zac,Hoover,REC,2
+9876038,11/12/2016,FCS,Missouri State,Illinois State,RECEIVING,Zac,Hoover,YDS,22
+9876039,11/12/2016,FCS,Missouri State,Illinois State,RECEIVING,Zac,Hoover,TD,0
+9876040,11/12/2016,FCS,Missouri State,Illinois State,RECEIVING,Zac,Hoover,LONG,16
+9876041,11/12/2016,FCS,Missouri State,Illinois State,RECEIVING,Malik,Earl,REC,3
+9876042,11/12/2016,FCS,Missouri State,Illinois State,RECEIVING,Malik,Earl,YDS,18
+9876043,11/12/2016,FCS,Missouri State,Illinois State,RECEIVING,Malik,Earl,TD,0
+9876044,11/12/2016,FCS,Missouri State,Illinois State,RECEIVING,Malik,Earl,LONG,9
+9876045,11/12/2016,FCS,Missouri State,Illinois State,RECEIVING,Erik,Furmanek,REC,3
+9876046,11/12/2016,FCS,Missouri State,Illinois State,RECEIVING,Erik,Furmanek,YDS,16
+9876047,11/12/2016,FCS,Missouri State,Illinois State,RECEIVING,Erik,Furmanek,TD,0
+9876048,11/12/2016,FCS,Missouri State,Illinois State,RECEIVING,Erik,Furmanek,LONG,11
+9876049,11/12/2016,FCS,Missouri State,Illinois State,RECEIVING,Deion,Holliman,REC,3
+9876050,11/12/2016,FCS,Missouri State,Illinois State,RECEIVING,Deion,Holliman,YDS,13
+9876051,11/12/2016,FCS,Missouri State,Illinois State,RECEIVING,Deion,Holliman,TD,0
+9876052,11/12/2016,FCS,Missouri State,Illinois State,RECEIVING,Deion,Holliman,LONG,5
+9876053,11/12/2016,FCS,Missouri State,Illinois State,RECEIVING,Jason,Randall,REC,4
+9876054,11/12/2016,FCS,Missouri State,Illinois State,RECEIVING,Jason,Randall,YDS,8
+9876055,11/12/2016,FCS,Missouri State,Illinois State,RECEIVING,Jason,Randall,TD,0
+9876056,11/12/2016,FCS,Missouri State,Illinois State,RECEIVING,Jason,Randall,LONG,11
+9876057,11/12/2016,FCS,Missouri State,Illinois State,PUNTING,Zach,Drake,NO,8
+9876058,11/12/2016,FCS,Missouri State,Illinois State,PUNTING,Zach,Drake,YDS,299
+9876059,11/12/2016,FCS,Missouri State,Illinois State,PUNTING,Zach,Drake,AVG,37.4
+9876060,11/12/2016,FCS,Missouri State,Illinois State,PUNTING,Zach,Drake,LONG,41
+9876061,11/12/2016,FCS,Missouri State,Illinois State,KICK RETURNS,Deion,Holliman,NO,5
+9876062,11/12/2016,FCS,Missouri State,Illinois State,KICK RETURNS,Deion,Holliman,YDS,113
+9876063,11/12/2016,FCS,Missouri State,Illinois State,KICK RETURNS,Deion,Holliman,AVG,22.6
+9876064,11/12/2016,FCS,Missouri State,Illinois State,KICK RETURNS,Deion,Holliman,LONG,38
+9876065,11/12/2016,FCS,Illinois State,Missouri State,RUSHING,Jamal,Towns,ATT,17
+9876066,11/12/2016,FCS,Illinois State,Missouri State,RUSHING,Jamal,Towns,YDS,134
+9876067,11/12/2016,FCS,Illinois State,Missouri State,RUSHING,Jamal,Towns,TD,1
+9876068,11/12/2016,FCS,Illinois State,Missouri State,RUSHING,Jamal,Towns,LONG,50
+9876069,11/12/2016,FCS,Illinois State,Missouri State,RUSHING,DeMarco,Corbin,ATT,11
+9876070,11/12/2016,FCS,Illinois State,Missouri State,RUSHING,DeMarco,Corbin,YDS,102
+9876071,11/12/2016,FCS,Illinois State,Missouri State,RUSHING,DeMarco,Corbin,TD,0
+9876072,11/12/2016,FCS,Illinois State,Missouri State,RUSHING,DeMarco,Corbin,LONG,54
+9876073,11/12/2016,FCS,Illinois State,Missouri State,RUSHING,Hasan,Muhammad-Rogers,ATT,6
+9876074,11/12/2016,FCS,Illinois State,Missouri State,RUSHING,Hasan,Muhammad-Rogers,YDS,24
+9876075,11/12/2016,FCS,Illinois State,Missouri State,RUSHING,Hasan,Muhammad-Rogers,TD,0
+9876076,11/12/2016,FCS,Illinois State,Missouri State,RUSHING,Hasan,Muhammad-Rogers,LONG,6
+9876077,11/12/2016,FCS,Illinois State,Missouri State,RUSHING,Nick,Kielbasa,ATT,2
+9876078,11/12/2016,FCS,Illinois State,Missouri State,RUSHING,Nick,Kielbasa,YDS,12
+9876079,11/12/2016,FCS,Illinois State,Missouri State,RUSHING,Nick,Kielbasa,TD,0
+9876080,11/12/2016,FCS,Illinois State,Missouri State,RUSHING,Nick,Kielbasa,LONG,12
+9876081,11/12/2016,FCS,Illinois State,Missouri State,RUSHING,Jake,Kolbe,ATT,6
+9876082,11/12/2016,FCS,Illinois State,Missouri State,RUSHING,Jake,Kolbe,YDS,-4
+9876083,11/12/2016,FCS,Illinois State,Missouri State,RUSHING,Jake,Kolbe,TD,0
+9876084,11/12/2016,FCS,Illinois State,Missouri State,RUSHING,Jake,Kolbe,LONG,5
+9876085,11/12/2016,FCS,Illinois State,Missouri State,PASSING,Jake,Kolbe,CP-ATT-INT,17-31-1
+9876086,11/12/2016,FCS,Illinois State,Missouri State,PASSING,Jake,Kolbe,YDS,246
+9876087,11/12/2016,FCS,Illinois State,Missouri State,PASSING,Jake,Kolbe,TD,3
+9876088,11/12/2016,FCS,Illinois State,Missouri State,PASSING,Jake,Kolbe,LONG,38
+9876089,11/12/2016,FCS,Illinois State,Missouri State,RECEIVING,Anthony,Warrum,REC,8
+9876090,11/12/2016,FCS,Illinois State,Missouri State,RECEIVING,Anthony,Warrum,YDS,133
+9876091,11/12/2016,FCS,Illinois State,Missouri State,RECEIVING,Anthony,Warrum,TD,1
+9876092,11/12/2016,FCS,Illinois State,Missouri State,RECEIVING,Anthony,Warrum,LONG,38
+9876093,11/12/2016,FCS,Illinois State,Missouri State,RECEIVING,Spencer,Schnell,REC,5
+9876094,11/12/2016,FCS,Illinois State,Missouri State,RECEIVING,Spencer,Schnell,YDS,69
+9876095,11/12/2016,FCS,Illinois State,Missouri State,RECEIVING,Spencer,Schnell,TD,0
+9876096,11/12/2016,FCS,Illinois State,Missouri State,RECEIVING,Spencer,Schnell,LONG,22
+9876097,11/12/2016,FCS,Illinois State,Missouri State,RECEIVING,Christian,Gibbs,REC,2
+9876098,11/12/2016,FCS,Illinois State,Missouri State,RECEIVING,Christian,Gibbs,YDS,43
+9876099,11/12/2016,FCS,Illinois State,Missouri State,RECEIVING,Christian,Gibbs,TD,1
+9876100,11/12/2016,FCS,Illinois State,Missouri State,RECEIVING,Christian,Gibbs,LONG,35
+9876101,11/12/2016,FCS,Illinois State,Missouri State,RECEIVING,Jake,Hendershot,REC,1
+9876102,11/12/2016,FCS,Illinois State,Missouri State,RECEIVING,Jake,Hendershot,YDS,1
+9876103,11/12/2016,FCS,Illinois State,Missouri State,RECEIVING,Jake,Hendershot,TD,1
+9876104,11/12/2016,FCS,Illinois State,Missouri State,RECEIVING,Jake,Hendershot,LONG,1
+9876105,11/12/2016,FCS,Illinois State,Missouri State,RECEIVING,Tylor,Petkovich,REC,1
+9876106,11/12/2016,FCS,Illinois State,Missouri State,RECEIVING,Tylor,Petkovich,YDS,0
+9876107,11/12/2016,FCS,Illinois State,Missouri State,RECEIVING,Tylor,Petkovich,TD,0
+9876108,11/12/2016,FCS,Illinois State,Missouri State,RECEIVING,Tylor,Petkovich,LONG,0
+9876109,11/12/2016,FCS,Illinois State,Missouri State,KICKING,Sean,Slattery,FG-FGA,3/4
+9876110,11/12/2016,FCS,Illinois State,Missouri State,KICKING,Sean,Slattery,LONG,42
+9876111,11/12/2016,FCS,Illinois State,Missouri State,KICKING,Sean,Slattery,XP,4
+9876112,11/12/2016,FCS,Illinois State,Missouri State,KICKING,Sean,Slattery,PTS,13
+9876113,11/12/2016,FCS,Illinois State,Missouri State,PUNTING,Reece,Attard,NO,3
+9876114,11/12/2016,FCS,Illinois State,Missouri State,PUNTING,Reece,Attard,YDS,139
+9876115,11/12/2016,FCS,Illinois State,Missouri State,PUNTING,Reece,Attard,AVG,46.3
+9876116,11/12/2016,FCS,Illinois State,Missouri State,PUNTING,Reece,Attard,LONG,69
+9876117,11/12/2016,FCS,Illinois State,Missouri State,PUNT RETURNS,Spencer,Schnell,NO,1
+9876118,11/12/2016,FCS,Illinois State,Missouri State,PUNT RETURNS,Spencer,Schnell,YDS,0
+9876119,11/12/2016,FCS,Illinois State,Missouri State,PUNT RETURNS,Spencer,Schnell,AVG,-
+9876120,11/12/2016,FCS,Illinois State,Missouri State,PUNT RETURNS,Spencer,Schnell,LONG,0
+9876121,11/12/2016,FCS,Illinois State,Missouri State,KICK RETURNS,Spencer,Schnell,NO,1
+9876122,11/12/2016,FCS,Illinois State,Missouri State,KICK RETURNS,Spencer,Schnell,YDS,26
+9876123,11/12/2016,FCS,Illinois State,Missouri State,KICK RETURNS,Spencer,Schnell,AVG,26.0
+9876124,11/12/2016,FCS,Illinois State,Missouri State,KICK RETURNS,Spencer,Schnell,LONG,26

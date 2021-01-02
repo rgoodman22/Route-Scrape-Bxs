@@ -1,0 +1,149 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9481001,9/24/2016,FCS,Colgate,Richmond,RUSHING,Jake,Melville,ATT,13
+9481002,9/24/2016,FCS,Colgate,Richmond,RUSHING,Jake,Melville,YDS,88
+9481003,9/24/2016,FCS,Colgate,Richmond,RUSHING,Jake,Melville,TD,1
+9481004,9/24/2016,FCS,Colgate,Richmond,RUSHING,Jake,Melville,LONG,41
+9481005,9/24/2016,FCS,Colgate,Richmond,RUSHING,James,Holland,ATT,16
+9481006,9/24/2016,FCS,Colgate,Richmond,RUSHING,James,Holland,YDS,70
+9481007,9/24/2016,FCS,Colgate,Richmond,RUSHING,James,Holland,TD,1
+9481008,9/24/2016,FCS,Colgate,Richmond,RUSHING,James,Holland,LONG,11
+9481009,9/24/2016,FCS,Colgate,Richmond,RUSHING,Keyon,Washington,ATT,6
+9481010,9/24/2016,FCS,Colgate,Richmond,RUSHING,Keyon,Washington,YDS,40
+9481011,9/24/2016,FCS,Colgate,Richmond,RUSHING,Keyon,Washington,TD,1
+9481012,9/24/2016,FCS,Colgate,Richmond,RUSHING,Keyon,Washington,LONG,18
+9481013,9/24/2016,FCS,Colgate,Richmond,RUSHING,,Team,ATT,1
+9481014,9/24/2016,FCS,Colgate,Richmond,RUSHING,,Team,YDS,-4
+9481015,9/24/2016,FCS,Colgate,Richmond,RUSHING,,Team,TD,0
+9481016,9/24/2016,FCS,Colgate,Richmond,RUSHING,,Team,LONG,0
+9481017,9/24/2016,FCS,Colgate,Richmond,PASSING,Jake,Melville,CP-ATT-INT,5-22-3
+9481018,9/24/2016,FCS,Colgate,Richmond,PASSING,Jake,Melville,YDS,57
+9481019,9/24/2016,FCS,Colgate,Richmond,PASSING,Jake,Melville,TD,0
+9481020,9/24/2016,FCS,Colgate,Richmond,PASSING,Jake,Melville,LONG,18
+9481021,9/24/2016,FCS,Colgate,Richmond,RECEIVING,John,Maddaluna,REC,3
+9481022,9/24/2016,FCS,Colgate,Richmond,RECEIVING,John,Maddaluna,YDS,38
+9481023,9/24/2016,FCS,Colgate,Richmond,RECEIVING,John,Maddaluna,TD,0
+9481024,9/24/2016,FCS,Colgate,Richmond,RECEIVING,John,Maddaluna,LONG,18
+9481025,9/24/2016,FCS,Colgate,Richmond,RECEIVING,Alex,Greenawalt,REC,2
+9481026,9/24/2016,FCS,Colgate,Richmond,RECEIVING,Alex,Greenawalt,YDS,19
+9481027,9/24/2016,FCS,Colgate,Richmond,RECEIVING,Alex,Greenawalt,TD,0
+9481028,9/24/2016,FCS,Colgate,Richmond,RECEIVING,Alex,Greenawalt,LONG,11
+9481029,9/24/2016,FCS,Colgate,Richmond,KICKING,Jonah,Bowman,FG-FGA,1/1
+9481030,9/24/2016,FCS,Colgate,Richmond,KICKING,Jonah,Bowman,LONG,28
+9481031,9/24/2016,FCS,Colgate,Richmond,KICKING,Jonah,Bowman,XP,4
+9481032,9/24/2016,FCS,Colgate,Richmond,KICKING,Jonah,Bowman,PTS,7
+9481033,9/24/2016,FCS,Colgate,Richmond,PUNTING,Josh,Cerra,NO,4
+9481034,9/24/2016,FCS,Colgate,Richmond,PUNTING,Josh,Cerra,YDS,193
+9481035,9/24/2016,FCS,Colgate,Richmond,PUNTING,Josh,Cerra,AVG,48.2
+9481036,9/24/2016,FCS,Colgate,Richmond,PUNTING,Josh,Cerra,LONG,49
+9481037,9/24/2016,FCS,Colgate,Richmond,PUNT RETURNS,Brett,Field,NO,1
+9481038,9/24/2016,FCS,Colgate,Richmond,PUNT RETURNS,Brett,Field,YDS,23
+9481039,9/24/2016,FCS,Colgate,Richmond,PUNT RETURNS,Brett,Field,AVG,23.0
+9481040,9/24/2016,FCS,Colgate,Richmond,PUNT RETURNS,Brett,Field,LONG,0
+9481041,9/24/2016,FCS,Colgate,Richmond,PUNT RETURNS,Ben,Hunt,NO,0
+9481042,9/24/2016,FCS,Colgate,Richmond,PUNT RETURNS,Ben,Hunt,YDS,11
+9481043,9/24/2016,FCS,Colgate,Richmond,PUNT RETURNS,Ben,Hunt,AVG,-
+9481044,9/24/2016,FCS,Colgate,Richmond,PUNT RETURNS,Ben,Hunt,LONG,11
+9481045,9/24/2016,FCS,Colgate,Richmond,PUNT RETURNS,Abu,Daramy,NO,4
+9481046,9/24/2016,FCS,Colgate,Richmond,PUNT RETURNS,Abu,Daramy,YDS,9
+9481047,9/24/2016,FCS,Colgate,Richmond,PUNT RETURNS,Abu,Daramy,AVG,2.2
+9481048,9/24/2016,FCS,Colgate,Richmond,PUNT RETURNS,Abu,Daramy,LONG,9
+9481049,9/24/2016,FCS,Colgate,Richmond,KICK RETURNS,Abu,Daramy,NO,7
+9481050,9/24/2016,FCS,Colgate,Richmond,KICK RETURNS,Abu,Daramy,YDS,178
+9481051,9/24/2016,FCS,Colgate,Richmond,KICK RETURNS,Abu,Daramy,AVG,25.4
+9481052,9/24/2016,FCS,Colgate,Richmond,KICK RETURNS,Abu,Daramy,LONG,84
+9481053,9/24/2016,FCS,Richmond,Colgate,RUSHING,Xavier,Goodall,ATT,20
+9481054,9/24/2016,FCS,Richmond,Colgate,RUSHING,Xavier,Goodall,YDS,127
+9481055,9/24/2016,FCS,Richmond,Colgate,RUSHING,Xavier,Goodall,TD,1
+9481056,9/24/2016,FCS,Richmond,Colgate,RUSHING,Xavier,Goodall,LONG,45
+9481057,9/24/2016,FCS,Richmond,Colgate,RUSHING,David,Broadus,ATT,11
+9481058,9/24/2016,FCS,Richmond,Colgate,RUSHING,David,Broadus,YDS,44
+9481059,9/24/2016,FCS,Richmond,Colgate,RUSHING,David,Broadus,TD,0
+9481060,9/24/2016,FCS,Richmond,Colgate,RUSHING,David,Broadus,LONG,20
+9481061,9/24/2016,FCS,Richmond,Colgate,RUSHING,James,Pavik,ATT,1
+9481062,9/24/2016,FCS,Richmond,Colgate,RUSHING,James,Pavik,YDS,5
+9481063,9/24/2016,FCS,Richmond,Colgate,RUSHING,James,Pavik,TD,0
+9481064,9/24/2016,FCS,Richmond,Colgate,RUSHING,James,Pavik,LONG,5
+9481065,9/24/2016,FCS,Richmond,Colgate,RUSHING,Stephon,Jacob,ATT,1
+9481066,9/24/2016,FCS,Richmond,Colgate,RUSHING,Stephon,Jacob,YDS,2
+9481067,9/24/2016,FCS,Richmond,Colgate,RUSHING,Stephon,Jacob,TD,0
+9481068,9/24/2016,FCS,Richmond,Colgate,RUSHING,Stephon,Jacob,LONG,2
+9481069,9/24/2016,FCS,Richmond,Colgate,RUSHING,Jay,Palmer,ATT,1
+9481070,9/24/2016,FCS,Richmond,Colgate,RUSHING,Jay,Palmer,YDS,0
+9481071,9/24/2016,FCS,Richmond,Colgate,RUSHING,Jay,Palmer,TD,0
+9481072,9/24/2016,FCS,Richmond,Colgate,RUSHING,Jay,Palmer,LONG,0
+9481073,9/24/2016,FCS,Richmond,Colgate,RUSHING,,Team,ATT,2
+9481074,9/24/2016,FCS,Richmond,Colgate,RUSHING,,Team,YDS,-7
+9481075,9/24/2016,FCS,Richmond,Colgate,RUSHING,,Team,TD,0
+9481076,9/24/2016,FCS,Richmond,Colgate,RUSHING,,Team,LONG,0
+9481077,9/24/2016,FCS,Richmond,Colgate,RUSHING,Kyle,Lauletta,ATT,4
+9481078,9/24/2016,FCS,Richmond,Colgate,RUSHING,Kyle,Lauletta,YDS,-13
+9481079,9/24/2016,FCS,Richmond,Colgate,RUSHING,Kyle,Lauletta,TD,0
+9481080,9/24/2016,FCS,Richmond,Colgate,RUSHING,Kyle,Lauletta,LONG,3
+9481081,9/24/2016,FCS,Richmond,Colgate,PASSING,Kyle,Lauletta,CP-ATT-INT,23-34-1
+9481082,9/24/2016,FCS,Richmond,Colgate,PASSING,Kyle,Lauletta,YDS,307
+9481083,9/24/2016,FCS,Richmond,Colgate,PASSING,Kyle,Lauletta,TD,4
+9481084,9/24/2016,FCS,Richmond,Colgate,PASSING,Kyle,Lauletta,LONG,66
+9481085,9/24/2016,FCS,Richmond,Colgate,RECEIVING,Brian,Brown,REC,7
+9481086,9/24/2016,FCS,Richmond,Colgate,RECEIVING,Brian,Brown,YDS,148
+9481087,9/24/2016,FCS,Richmond,Colgate,RECEIVING,Brian,Brown,TD,2
+9481088,9/24/2016,FCS,Richmond,Colgate,RECEIVING,Brian,Brown,LONG,66
+9481089,9/24/2016,FCS,Richmond,Colgate,RECEIVING,Tyler,Wilkins,REC,5
+9481090,9/24/2016,FCS,Richmond,Colgate,RECEIVING,Tyler,Wilkins,YDS,74
+9481091,9/24/2016,FCS,Richmond,Colgate,RECEIVING,Tyler,Wilkins,TD,0
+9481092,9/24/2016,FCS,Richmond,Colgate,RECEIVING,Tyler,Wilkins,LONG,32
+9481093,9/24/2016,FCS,Richmond,Colgate,RECEIVING,Stephon,Jacob,REC,2
+9481094,9/24/2016,FCS,Richmond,Colgate,RECEIVING,Stephon,Jacob,YDS,17
+9481095,9/24/2016,FCS,Richmond,Colgate,RECEIVING,Stephon,Jacob,TD,0
+9481096,9/24/2016,FCS,Richmond,Colgate,RECEIVING,Stephon,Jacob,LONG,9
+9481097,9/24/2016,FCS,Richmond,Colgate,RECEIVING,James,Pavik,REC,1
+9481098,9/24/2016,FCS,Richmond,Colgate,RECEIVING,James,Pavik,YDS,17
+9481099,9/24/2016,FCS,Richmond,Colgate,RECEIVING,James,Pavik,TD,0
+9481100,9/24/2016,FCS,Richmond,Colgate,RECEIVING,James,Pavik,LONG,17
+9481101,9/24/2016,FCS,Richmond,Colgate,RECEIVING,Dashon,Tibbs,REC,2
+9481102,9/24/2016,FCS,Richmond,Colgate,RECEIVING,Dashon,Tibbs,YDS,15
+9481103,9/24/2016,FCS,Richmond,Colgate,RECEIVING,Dashon,Tibbs,TD,0
+9481104,9/24/2016,FCS,Richmond,Colgate,RECEIVING,Dashon,Tibbs,LONG,8
+9481105,9/24/2016,FCS,Richmond,Colgate,RECEIVING,Garrett,Hudson,REC,2
+9481106,9/24/2016,FCS,Richmond,Colgate,RECEIVING,Garrett,Hudson,YDS,15
+9481107,9/24/2016,FCS,Richmond,Colgate,RECEIVING,Garrett,Hudson,TD,1
+9481108,9/24/2016,FCS,Richmond,Colgate,RECEIVING,Garrett,Hudson,LONG,9
+9481109,9/24/2016,FCS,Richmond,Colgate,RECEIVING,Xavier,Goodall,REC,2
+9481110,9/24/2016,FCS,Richmond,Colgate,RECEIVING,Xavier,Goodall,YDS,9
+9481111,9/24/2016,FCS,Richmond,Colgate,RECEIVING,Xavier,Goodall,TD,0
+9481112,9/24/2016,FCS,Richmond,Colgate,RECEIVING,Xavier,Goodall,LONG,8
+9481113,9/24/2016,FCS,Richmond,Colgate,RECEIVING,Jarmal,Bevels,REC,1
+9481114,9/24/2016,FCS,Richmond,Colgate,RECEIVING,Jarmal,Bevels,YDS,8
+9481115,9/24/2016,FCS,Richmond,Colgate,RECEIVING,Jarmal,Bevels,TD,1
+9481116,9/24/2016,FCS,Richmond,Colgate,RECEIVING,Jarmal,Bevels,LONG,8
+9481117,9/24/2016,FCS,Richmond,Colgate,RECEIVING,Jay,Palmer,REC,1
+9481118,9/24/2016,FCS,Richmond,Colgate,RECEIVING,Jay,Palmer,YDS,4
+9481119,9/24/2016,FCS,Richmond,Colgate,RECEIVING,Jay,Palmer,TD,0
+9481120,9/24/2016,FCS,Richmond,Colgate,RECEIVING,Jay,Palmer,LONG,4
+9481121,9/24/2016,FCS,Richmond,Colgate,KICKING,Griffin,Trau,FG-FGA,1/1
+9481122,9/24/2016,FCS,Richmond,Colgate,KICKING,Griffin,Trau,LONG,45
+9481123,9/24/2016,FCS,Richmond,Colgate,KICKING,Griffin,Trau,XP,5
+9481124,9/24/2016,FCS,Richmond,Colgate,KICKING,Griffin,Trau,PTS,8
+9481125,9/24/2016,FCS,Richmond,Colgate,PUNTING,D.J.,Helkowski,NO,4
+9481126,9/24/2016,FCS,Richmond,Colgate,PUNTING,D.J.,Helkowski,YDS,158
+9481127,9/24/2016,FCS,Richmond,Colgate,PUNTING,D.J.,Helkowski,AVG,39.5
+9481128,9/24/2016,FCS,Richmond,Colgate,PUNTING,D.J.,Helkowski,LONG,45
+9481129,9/24/2016,FCS,Richmond,Colgate,PUNTING,,Team,NO,1
+9481130,9/24/2016,FCS,Richmond,Colgate,PUNTING,,Team,YDS,0
+9481131,9/24/2016,FCS,Richmond,Colgate,PUNTING,,Team,AVG,-
+9481132,9/24/2016,FCS,Richmond,Colgate,PUNTING,,Team,LONG,0
+9481133,9/24/2016,FCS,Richmond,Colgate,PUNT RETURNS,Tyler,Wilkins,NO,1
+9481134,9/24/2016,FCS,Richmond,Colgate,PUNT RETURNS,Tyler,Wilkins,YDS,12
+9481135,9/24/2016,FCS,Richmond,Colgate,PUNT RETURNS,Tyler,Wilkins,AVG,12.0
+9481136,9/24/2016,FCS,Richmond,Colgate,PUNT RETURNS,Tyler,Wilkins,LONG,12
+9481137,9/24/2016,FCS,Richmond,Colgate,PUNT RETURNS,David,Jones,NO,1
+9481138,9/24/2016,FCS,Richmond,Colgate,PUNT RETURNS,David,Jones,YDS,4
+9481139,9/24/2016,FCS,Richmond,Colgate,PUNT RETURNS,David,Jones,AVG,4.0
+9481140,9/24/2016,FCS,Richmond,Colgate,PUNT RETURNS,David,Jones,LONG,4
+9481141,9/24/2016,FCS,Richmond,Colgate,KICK RETURNS,Porter,Abell,NO,4
+9481142,9/24/2016,FCS,Richmond,Colgate,KICK RETURNS,Porter,Abell,YDS,77
+9481143,9/24/2016,FCS,Richmond,Colgate,KICK RETURNS,Porter,Abell,AVG,19.2
+9481144,9/24/2016,FCS,Richmond,Colgate,KICK RETURNS,Porter,Abell,LONG,23
+9481145,9/24/2016,FCS,Richmond,Colgate,KICK RETURNS,Dejon,Brissett,NO,2
+9481146,9/24/2016,FCS,Richmond,Colgate,KICK RETURNS,Dejon,Brissett,YDS,38
+9481147,9/24/2016,FCS,Richmond,Colgate,KICK RETURNS,Dejon,Brissett,AVG,19.0
+9481148,9/24/2016,FCS,Richmond,Colgate,KICK RETURNS,Dejon,Brissett,LONG,20

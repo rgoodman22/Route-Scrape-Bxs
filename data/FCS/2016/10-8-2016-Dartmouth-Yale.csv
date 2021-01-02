@@ -1,0 +1,157 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9603001,10/8/2016,FCS,Dartmouth,Yale,RUSHING,Miles,Smith,ATT,15
+9603002,10/8/2016,FCS,Dartmouth,Yale,RUSHING,Miles,Smith,YDS,44
+9603003,10/8/2016,FCS,Dartmouth,Yale,RUSHING,Miles,Smith,TD,0
+9603004,10/8/2016,FCS,Dartmouth,Yale,RUSHING,Miles,Smith,LONG,12
+9603005,10/8/2016,FCS,Dartmouth,Yale,RUSHING,Jack,Heneghan,ATT,6
+9603006,10/8/2016,FCS,Dartmouth,Yale,RUSHING,Jack,Heneghan,YDS,15
+9603007,10/8/2016,FCS,Dartmouth,Yale,RUSHING,Jack,Heneghan,TD,0
+9603008,10/8/2016,FCS,Dartmouth,Yale,RUSHING,Jack,Heneghan,LONG,9
+9603009,10/8/2016,FCS,Dartmouth,Yale,RUSHING,Ryder,Stone,ATT,6
+9603010,10/8/2016,FCS,Dartmouth,Yale,RUSHING,Ryder,Stone,YDS,11
+9603011,10/8/2016,FCS,Dartmouth,Yale,RUSHING,Ryder,Stone,TD,0
+9603012,10/8/2016,FCS,Dartmouth,Yale,RUSHING,Ryder,Stone,LONG,5
+9603013,10/8/2016,FCS,Dartmouth,Yale,RUSHING,,Team,ATT,1
+9603014,10/8/2016,FCS,Dartmouth,Yale,RUSHING,,Team,YDS,-1
+9603015,10/8/2016,FCS,Dartmouth,Yale,RUSHING,,Team,TD,0
+9603016,10/8/2016,FCS,Dartmouth,Yale,RUSHING,,Team,LONG,0
+9603017,10/8/2016,FCS,Dartmouth,Yale,PASSING,Jack,Heneghan,CP-ATT-INT,32-57-2
+9603018,10/8/2016,FCS,Dartmouth,Yale,PASSING,Jack,Heneghan,YDS,348
+9603019,10/8/2016,FCS,Dartmouth,Yale,PASSING,Jack,Heneghan,TD,1
+9603020,10/8/2016,FCS,Dartmouth,Yale,PASSING,Jack,Heneghan,LONG,36
+9603021,10/8/2016,FCS,Dartmouth,Yale,PASSING,Drew,Hunnicutt,CP-ATT-INT,0-1-0
+9603022,10/8/2016,FCS,Dartmouth,Yale,PASSING,Drew,Hunnicutt,YDS,0
+9603023,10/8/2016,FCS,Dartmouth,Yale,PASSING,Drew,Hunnicutt,TD,0
+9603024,10/8/2016,FCS,Dartmouth,Yale,PASSING,Drew,Hunnicutt,LONG,0
+9603025,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Drew,Hunnicutt,REC,5
+9603026,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Drew,Hunnicutt,YDS,77
+9603027,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Drew,Hunnicutt,TD,0
+9603028,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Drew,Hunnicutt,LONG,36
+9603029,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Ryder,Stone,REC,5
+9603030,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Ryder,Stone,YDS,69
+9603031,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Ryder,Stone,TD,0
+9603032,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Ryder,Stone,LONG,22
+9603033,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Emory,Thompson,REC,3
+9603034,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Emory,Thompson,YDS,53
+9603035,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Emory,Thompson,TD,0
+9603036,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Emory,Thompson,LONG,33
+9603037,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Stephen,Johnston,REC,2
+9603038,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Stephen,Johnston,YDS,34
+9603039,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Stephen,Johnston,TD,1
+9603040,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Stephen,Johnston,LONG,21
+9603041,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Hunter,Hagdorn,REC,4
+9603042,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Hunter,Hagdorn,YDS,34
+9603043,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Hunter,Hagdorn,TD,0
+9603044,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Hunter,Hagdorn,LONG,12
+9603045,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Houston,Brown,REC,3
+9603046,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Houston,Brown,YDS,27
+9603047,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Houston,Brown,TD,0
+9603048,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Houston,Brown,LONG,11
+9603049,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Cameron,Skaff,REC,2
+9603050,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Cameron,Skaff,YDS,17
+9603051,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Cameron,Skaff,TD,0
+9603052,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Cameron,Skaff,LONG,11
+9603053,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Miles,Smith,REC,4
+9603054,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Miles,Smith,YDS,15
+9603055,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Miles,Smith,TD,0
+9603056,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Miles,Smith,LONG,11
+9603057,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Charles,Mack,REC,2
+9603058,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Charles,Mack,YDS,12
+9603059,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Charles,Mack,TD,0
+9603060,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Charles,Mack,LONG,8
+9603061,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Vito,Penza,REC,2
+9603062,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Vito,Penza,YDS,10
+9603063,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Vito,Penza,TD,0
+9603064,10/8/2016,FCS,Dartmouth,Yale,RECEIVING,Vito,Penza,LONG,5
+9603065,10/8/2016,FCS,Dartmouth,Yale,KICKING,David,Smith,FG-FGA,2/2
+9603066,10/8/2016,FCS,Dartmouth,Yale,KICKING,David,Smith,LONG,32
+9603067,10/8/2016,FCS,Dartmouth,Yale,KICKING,David,Smith,XP,1
+9603068,10/8/2016,FCS,Dartmouth,Yale,KICKING,David,Smith,PTS,7
+9603069,10/8/2016,FCS,Dartmouth,Yale,PUNTING,Ben,Kepley,NO,6
+9603070,10/8/2016,FCS,Dartmouth,Yale,PUNTING,Ben,Kepley,YDS,233
+9603071,10/8/2016,FCS,Dartmouth,Yale,PUNTING,Ben,Kepley,AVG,38.8
+9603072,10/8/2016,FCS,Dartmouth,Yale,PUNTING,Ben,Kepley,LONG,51
+9603073,10/8/2016,FCS,Dartmouth,Yale,PUNT RETURNS,Charlie,Miller,NO,2
+9603074,10/8/2016,FCS,Dartmouth,Yale,PUNT RETURNS,Charlie,Miller,YDS,3
+9603075,10/8/2016,FCS,Dartmouth,Yale,PUNT RETURNS,Charlie,Miller,AVG,1.5
+9603076,10/8/2016,FCS,Dartmouth,Yale,PUNT RETURNS,Charlie,Miller,LONG,3
+9603077,10/8/2016,FCS,Yale,Dartmouth,RUSHING,Alan,Lamar,ATT,23
+9603078,10/8/2016,FCS,Yale,Dartmouth,RUSHING,Alan,Lamar,YDS,180
+9603079,10/8/2016,FCS,Yale,Dartmouth,RUSHING,Alan,Lamar,TD,2
+9603080,10/8/2016,FCS,Yale,Dartmouth,RUSHING,Alan,Lamar,LONG,43
+9603081,10/8/2016,FCS,Yale,Dartmouth,RUSHING,Candler,Rich,ATT,14
+9603082,10/8/2016,FCS,Yale,Dartmouth,RUSHING,Candler,Rich,YDS,57
+9603083,10/8/2016,FCS,Yale,Dartmouth,RUSHING,Candler,Rich,TD,0
+9603084,10/8/2016,FCS,Yale,Dartmouth,RUSHING,Candler,Rich,LONG,15
+9603085,10/8/2016,FCS,Yale,Dartmouth,RUSHING,Dale,Harris,ATT,2
+9603086,10/8/2016,FCS,Yale,Dartmouth,RUSHING,Dale,Harris,YDS,9
+9603087,10/8/2016,FCS,Yale,Dartmouth,RUSHING,Dale,Harris,TD,0
+9603088,10/8/2016,FCS,Yale,Dartmouth,RUSHING,Dale,Harris,LONG,5
+9603089,10/8/2016,FCS,Yale,Dartmouth,RUSHING,Christopher,Williams-Lopez,ATT,1
+9603090,10/8/2016,FCS,Yale,Dartmouth,RUSHING,Christopher,Williams-Lopez,YDS,2
+9603091,10/8/2016,FCS,Yale,Dartmouth,RUSHING,Christopher,Williams-Lopez,TD,0
+9603092,10/8/2016,FCS,Yale,Dartmouth,RUSHING,Christopher,Williams-Lopez,LONG,2
+9603093,10/8/2016,FCS,Yale,Dartmouth,RUSHING,,Team,ATT,2
+9603094,10/8/2016,FCS,Yale,Dartmouth,RUSHING,,Team,YDS,0
+9603095,10/8/2016,FCS,Yale,Dartmouth,RUSHING,,Team,TD,0
+9603096,10/8/2016,FCS,Yale,Dartmouth,RUSHING,,Team,LONG,0
+9603097,10/8/2016,FCS,Yale,Dartmouth,RUSHING,Tre,Moore,ATT,9
+9603098,10/8/2016,FCS,Yale,Dartmouth,RUSHING,Tre,Moore,YDS,-7
+9603099,10/8/2016,FCS,Yale,Dartmouth,RUSHING,Tre,Moore,TD,0
+9603100,10/8/2016,FCS,Yale,Dartmouth,RUSHING,Tre,Moore,LONG,5
+9603101,10/8/2016,FCS,Yale,Dartmouth,PASSING,Tre,Moore,CP-ATT-INT,20-32-0
+9603102,10/8/2016,FCS,Yale,Dartmouth,PASSING,Tre,Moore,YDS,181
+9603103,10/8/2016,FCS,Yale,Dartmouth,PASSING,Tre,Moore,TD,1
+9603104,10/8/2016,FCS,Yale,Dartmouth,PASSING,Tre,Moore,LONG,42
+9603105,10/8/2016,FCS,Yale,Dartmouth,RECEIVING,Myles,Gaines,REC,9
+9603106,10/8/2016,FCS,Yale,Dartmouth,RECEIVING,Myles,Gaines,YDS,106
+9603107,10/8/2016,FCS,Yale,Dartmouth,RECEIVING,Myles,Gaines,TD,0
+9603108,10/8/2016,FCS,Yale,Dartmouth,RECEIVING,Myles,Gaines,LONG,42
+9603109,10/8/2016,FCS,Yale,Dartmouth,RECEIVING,Reed,AustinKlubnik,REC,3
+9603110,10/8/2016,FCS,Yale,Dartmouth,RECEIVING,Reed,AustinKlubnik,YDS,24
+9603111,10/8/2016,FCS,Yale,Dartmouth,RECEIVING,Reed,AustinKlubnik,TD,1
+9603112,10/8/2016,FCS,Yale,Dartmouth,RECEIVING,Reed,AustinKlubnik,LONG,14
+9603113,10/8/2016,FCS,Yale,Dartmouth,RECEIVING,Christopher,Williams-Lopez,REC,4
+9603114,10/8/2016,FCS,Yale,Dartmouth,RECEIVING,Christopher,Williams-Lopez,YDS,21
+9603115,10/8/2016,FCS,Yale,Dartmouth,RECEIVING,Christopher,Williams-Lopez,TD,0
+9603116,10/8/2016,FCS,Yale,Dartmouth,RECEIVING,Christopher,Williams-Lopez,LONG,12
+9603117,10/8/2016,FCS,Yale,Dartmouth,RECEIVING,Robert,ClemonsIII,REC,1
+9603118,10/8/2016,FCS,Yale,Dartmouth,RECEIVING,Robert,ClemonsIII,YDS,10
+9603119,10/8/2016,FCS,Yale,Dartmouth,RECEIVING,Robert,ClemonsIII,TD,0
+9603120,10/8/2016,FCS,Yale,Dartmouth,RECEIVING,Robert,ClemonsIII,LONG,10
+9603121,10/8/2016,FCS,Yale,Dartmouth,RECEIVING,Conor,Furey,REC,1
+9603122,10/8/2016,FCS,Yale,Dartmouth,RECEIVING,Conor,Furey,YDS,8
+9603123,10/8/2016,FCS,Yale,Dartmouth,RECEIVING,Conor,Furey,TD,0
+9603124,10/8/2016,FCS,Yale,Dartmouth,RECEIVING,Conor,Furey,LONG,8
+9603125,10/8/2016,FCS,Yale,Dartmouth,RECEIVING,Sebastian,Little,REC,1
+9603126,10/8/2016,FCS,Yale,Dartmouth,RECEIVING,Sebastian,Little,YDS,6
+9603127,10/8/2016,FCS,Yale,Dartmouth,RECEIVING,Sebastian,Little,TD,0
+9603128,10/8/2016,FCS,Yale,Dartmouth,RECEIVING,Sebastian,Little,LONG,6
+9603129,10/8/2016,FCS,Yale,Dartmouth,RECEIVING,JP,Shohfi,REC,1
+9603130,10/8/2016,FCS,Yale,Dartmouth,RECEIVING,JP,Shohfi,YDS,6
+9603131,10/8/2016,FCS,Yale,Dartmouth,RECEIVING,JP,Shohfi,TD,0
+9603132,10/8/2016,FCS,Yale,Dartmouth,RECEIVING,JP,Shohfi,LONG,6
+9603133,10/8/2016,FCS,Yale,Dartmouth,KICKING,Alex,Galland,FG-FGA,0/2
+9603134,10/8/2016,FCS,Yale,Dartmouth,KICKING,Alex,Galland,LONG,0
+9603135,10/8/2016,FCS,Yale,Dartmouth,KICKING,Alex,Galland,XP,3
+9603136,10/8/2016,FCS,Yale,Dartmouth,KICKING,Alex,Galland,PTS,3
+9603137,10/8/2016,FCS,Yale,Dartmouth,PUNTING,Alex,Galland,NO,5
+9603138,10/8/2016,FCS,Yale,Dartmouth,PUNTING,Alex,Galland,YDS,144
+9603139,10/8/2016,FCS,Yale,Dartmouth,PUNTING,Alex,Galland,AVG,28.8
+9603140,10/8/2016,FCS,Yale,Dartmouth,PUNTING,Alex,Galland,LONG,37
+9603141,10/8/2016,FCS,Yale,Dartmouth,PUNTING,Bryan,Holmes,NO,1
+9603142,10/8/2016,FCS,Yale,Dartmouth,PUNTING,Bryan,Holmes,YDS,33
+9603143,10/8/2016,FCS,Yale,Dartmouth,PUNTING,Bryan,Holmes,AVG,33.0
+9603144,10/8/2016,FCS,Yale,Dartmouth,PUNTING,Bryan,Holmes,LONG,33
+9603145,10/8/2016,FCS,Yale,Dartmouth,PUNT RETURNS,Jason,Alessi,NO,3
+9603146,10/8/2016,FCS,Yale,Dartmouth,PUNT RETURNS,Jason,Alessi,YDS,27
+9603147,10/8/2016,FCS,Yale,Dartmouth,PUNT RETURNS,Jason,Alessi,AVG,9.0
+9603148,10/8/2016,FCS,Yale,Dartmouth,PUNT RETURNS,Jason,Alessi,LONG,22
+9603149,10/8/2016,FCS,Yale,Dartmouth,KICK RETURNS,Alan,Lamar,NO,1
+9603150,10/8/2016,FCS,Yale,Dartmouth,KICK RETURNS,Alan,Lamar,YDS,14
+9603151,10/8/2016,FCS,Yale,Dartmouth,KICK RETURNS,Alan,Lamar,AVG,14.0
+9603152,10/8/2016,FCS,Yale,Dartmouth,KICK RETURNS,Alan,Lamar,LONG,14
+9603153,10/8/2016,FCS,Yale,Dartmouth,KICK RETURNS,Candler,Rich,NO,1
+9603154,10/8/2016,FCS,Yale,Dartmouth,KICK RETURNS,Candler,Rich,YDS,10
+9603155,10/8/2016,FCS,Yale,Dartmouth,KICK RETURNS,Candler,Rich,AVG,10.0
+9603156,10/8/2016,FCS,Yale,Dartmouth,KICK RETURNS,Candler,Rich,LONG,10

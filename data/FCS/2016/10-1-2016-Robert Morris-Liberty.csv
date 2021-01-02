@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9506001,10/1/2016,FCS,Robert Morris,Liberty,RUSHING,Malik,Wells,ATT,17
+9506002,10/1/2016,FCS,Robert Morris,Liberty,RUSHING,Malik,Wells,YDS,73
+9506003,10/1/2016,FCS,Robert Morris,Liberty,RUSHING,Malik,Wells,TD,0
+9506004,10/1/2016,FCS,Robert Morris,Liberty,RUSHING,Malik,Wells,LONG,11
+9506005,10/1/2016,FCS,Robert Morris,Liberty,RUSHING,Thomas,Neal,ATT,10
+9506006,10/1/2016,FCS,Robert Morris,Liberty,RUSHING,Thomas,Neal,YDS,30
+9506007,10/1/2016,FCS,Robert Morris,Liberty,RUSHING,Thomas,Neal,TD,0
+9506008,10/1/2016,FCS,Robert Morris,Liberty,RUSHING,Thomas,Neal,LONG,10
+9506009,10/1/2016,FCS,Robert Morris,Liberty,RUSHING,Trey,Edwards,ATT,1
+9506010,10/1/2016,FCS,Robert Morris,Liberty,RUSHING,Trey,Edwards,YDS,3
+9506011,10/1/2016,FCS,Robert Morris,Liberty,RUSHING,Trey,Edwards,TD,0
+9506012,10/1/2016,FCS,Robert Morris,Liberty,RUSHING,Trey,Edwards,LONG,3
+9506013,10/1/2016,FCS,Robert Morris,Liberty,RUSHING,,Team,ATT,1
+9506014,10/1/2016,FCS,Robert Morris,Liberty,RUSHING,,Team,YDS,-1
+9506015,10/1/2016,FCS,Robert Morris,Liberty,RUSHING,,Team,TD,0
+9506016,10/1/2016,FCS,Robert Morris,Liberty,RUSHING,,Team,LONG,0
+9506017,10/1/2016,FCS,Robert Morris,Liberty,RUSHING,Andrew,Romanchak,ATT,4
+9506018,10/1/2016,FCS,Robert Morris,Liberty,RUSHING,Andrew,Romanchak,YDS,-6
+9506019,10/1/2016,FCS,Robert Morris,Liberty,RUSHING,Andrew,Romanchak,TD,0
+9506020,10/1/2016,FCS,Robert Morris,Liberty,RUSHING,Andrew,Romanchak,LONG,9
+9506021,10/1/2016,FCS,Robert Morris,Liberty,PASSING,Andrew,Romanchak,CP-ATT-INT,12-23-3
+9506022,10/1/2016,FCS,Robert Morris,Liberty,PASSING,Andrew,Romanchak,YDS,105
+9506023,10/1/2016,FCS,Robert Morris,Liberty,PASSING,Andrew,Romanchak,TD,1
+9506024,10/1/2016,FCS,Robert Morris,Liberty,PASSING,Andrew,Romanchak,LONG,36
+9506025,10/1/2016,FCS,Robert Morris,Liberty,RECEIVING,DeLano,Madison,REC,2
+9506026,10/1/2016,FCS,Robert Morris,Liberty,RECEIVING,DeLano,Madison,YDS,38
+9506027,10/1/2016,FCS,Robert Morris,Liberty,RECEIVING,DeLano,Madison,TD,0
+9506028,10/1/2016,FCS,Robert Morris,Liberty,RECEIVING,DeLano,Madison,LONG,36
+9506029,10/1/2016,FCS,Robert Morris,Liberty,RECEIVING,Tim,Vecchio,REC,5
+9506030,10/1/2016,FCS,Robert Morris,Liberty,RECEIVING,Tim,Vecchio,YDS,28
+9506031,10/1/2016,FCS,Robert Morris,Liberty,RECEIVING,Tim,Vecchio,TD,0
+9506032,10/1/2016,FCS,Robert Morris,Liberty,RECEIVING,Tim,Vecchio,LONG,14
+9506033,10/1/2016,FCS,Robert Morris,Liberty,RECEIVING,Blake,Skuratowicz,REC,2
+9506034,10/1/2016,FCS,Robert Morris,Liberty,RECEIVING,Blake,Skuratowicz,YDS,23
+9506035,10/1/2016,FCS,Robert Morris,Liberty,RECEIVING,Blake,Skuratowicz,TD,1
+9506036,10/1/2016,FCS,Robert Morris,Liberty,RECEIVING,Blake,Skuratowicz,LONG,21
+9506037,10/1/2016,FCS,Robert Morris,Liberty,RECEIVING,Malik,Wells,REC,2
+9506038,10/1/2016,FCS,Robert Morris,Liberty,RECEIVING,Malik,Wells,YDS,16
+9506039,10/1/2016,FCS,Robert Morris,Liberty,RECEIVING,Malik,Wells,TD,0
+9506040,10/1/2016,FCS,Robert Morris,Liberty,RECEIVING,Malik,Wells,LONG,12
+9506041,10/1/2016,FCS,Robert Morris,Liberty,RECEIVING,Brandon,Magee,REC,1
+9506042,10/1/2016,FCS,Robert Morris,Liberty,RECEIVING,Brandon,Magee,YDS,0
+9506043,10/1/2016,FCS,Robert Morris,Liberty,RECEIVING,Brandon,Magee,TD,0
+9506044,10/1/2016,FCS,Robert Morris,Liberty,RECEIVING,Brandon,Magee,LONG,0
+9506045,10/1/2016,FCS,Robert Morris,Liberty,KICKING,Connor,Shennan,FG-FGA,0/0
+9506046,10/1/2016,FCS,Robert Morris,Liberty,KICKING,Connor,Shennan,LONG,-
+9506047,10/1/2016,FCS,Robert Morris,Liberty,KICKING,Connor,Shennan,XP,1
+9506048,10/1/2016,FCS,Robert Morris,Liberty,KICKING,Connor,Shennan,PTS,1
+9506049,10/1/2016,FCS,Robert Morris,Liberty,PUNTING,Adam,Check,NO,9
+9506050,10/1/2016,FCS,Robert Morris,Liberty,PUNTING,Adam,Check,YDS,362
+9506051,10/1/2016,FCS,Robert Morris,Liberty,PUNTING,Adam,Check,AVG,40.2
+9506052,10/1/2016,FCS,Robert Morris,Liberty,PUNTING,Adam,Check,LONG,49
+9506053,10/1/2016,FCS,Robert Morris,Liberty,PUNT RETURNS,Tim,Vecchio,NO,1
+9506054,10/1/2016,FCS,Robert Morris,Liberty,PUNT RETURNS,Tim,Vecchio,YDS,4
+9506055,10/1/2016,FCS,Robert Morris,Liberty,PUNT RETURNS,Tim,Vecchio,AVG,4.0
+9506056,10/1/2016,FCS,Robert Morris,Liberty,PUNT RETURNS,Tim,Vecchio,LONG,4
+9506057,10/1/2016,FCS,Robert Morris,Liberty,KICK RETURNS,Trey,Edwards,NO,2
+9506058,10/1/2016,FCS,Robert Morris,Liberty,KICK RETURNS,Trey,Edwards,YDS,36
+9506059,10/1/2016,FCS,Robert Morris,Liberty,KICK RETURNS,Trey,Edwards,AVG,18.0
+9506060,10/1/2016,FCS,Robert Morris,Liberty,KICK RETURNS,Trey,Edwards,LONG,18
+9506061,10/1/2016,FCS,Liberty,Robert Morris,RUSHING,Carrington,Mosley,ATT,15
+9506062,10/1/2016,FCS,Liberty,Robert Morris,RUSHING,Carrington,Mosley,YDS,33
+9506063,10/1/2016,FCS,Liberty,Robert Morris,RUSHING,Carrington,Mosley,TD,0
+9506064,10/1/2016,FCS,Liberty,Robert Morris,RUSHING,Carrington,Mosley,LONG,9
+9506065,10/1/2016,FCS,Liberty,Robert Morris,RUSHING,Frankie,Hickson,ATT,12
+9506066,10/1/2016,FCS,Liberty,Robert Morris,RUSHING,Frankie,Hickson,YDS,29
+9506067,10/1/2016,FCS,Liberty,Robert Morris,RUSHING,Frankie,Hickson,TD,0
+9506068,10/1/2016,FCS,Liberty,Robert Morris,RUSHING,Frankie,Hickson,LONG,11
+9506069,10/1/2016,FCS,Liberty,Robert Morris,RUSHING,Stephon,Masha,ATT,2
+9506070,10/1/2016,FCS,Liberty,Robert Morris,RUSHING,Stephon,Masha,YDS,10
+9506071,10/1/2016,FCS,Liberty,Robert Morris,RUSHING,Stephon,Masha,TD,0
+9506072,10/1/2016,FCS,Liberty,Robert Morris,RUSHING,Stephon,Masha,LONG,11
+9506073,10/1/2016,FCS,Liberty,Robert Morris,RUSHING,Stephen,Calvert,ATT,1
+9506074,10/1/2016,FCS,Liberty,Robert Morris,RUSHING,Stephen,Calvert,YDS,0
+9506075,10/1/2016,FCS,Liberty,Robert Morris,RUSHING,Stephen,Calvert,TD,0
+9506076,10/1/2016,FCS,Liberty,Robert Morris,RUSHING,Stephen,Calvert,LONG,0
+9506077,10/1/2016,FCS,Liberty,Robert Morris,PASSING,Stephen,Calvert,CP-ATT-INT,23-37-0
+9506078,10/1/2016,FCS,Liberty,Robert Morris,PASSING,Stephen,Calvert,YDS,340
+9506079,10/1/2016,FCS,Liberty,Robert Morris,PASSING,Stephen,Calvert,TD,4
+9506080,10/1/2016,FCS,Liberty,Robert Morris,PASSING,Stephen,Calvert,LONG,69
+9506081,10/1/2016,FCS,Liberty,Robert Morris,PASSING,Stephon,Masha,CP-ATT-INT,0-1-0
+9506082,10/1/2016,FCS,Liberty,Robert Morris,PASSING,Stephon,Masha,YDS,0
+9506083,10/1/2016,FCS,Liberty,Robert Morris,PASSING,Stephon,Masha,TD,0
+9506084,10/1/2016,FCS,Liberty,Robert Morris,PASSING,Stephon,Masha,LONG,0
+9506085,10/1/2016,FCS,Liberty,Robert Morris,RECEIVING,Dante',Shells,REC,6
+9506086,10/1/2016,FCS,Liberty,Robert Morris,RECEIVING,Dante',Shells,YDS,170
+9506087,10/1/2016,FCS,Liberty,Robert Morris,RECEIVING,Dante',Shells,TD,1
+9506088,10/1/2016,FCS,Liberty,Robert Morris,RECEIVING,Dante',Shells,LONG,69
+9506089,10/1/2016,FCS,Liberty,Robert Morris,RECEIVING,Marquis,Fitzgerald,REC,4
+9506090,10/1/2016,FCS,Liberty,Robert Morris,RECEIVING,Marquis,Fitzgerald,YDS,82
+9506091,10/1/2016,FCS,Liberty,Robert Morris,RECEIVING,Marquis,Fitzgerald,TD,0
+9506092,10/1/2016,FCS,Liberty,Robert Morris,RECEIVING,Marquis,Fitzgerald,LONG,44
+9506093,10/1/2016,FCS,Liberty,Robert Morris,RECEIVING,Antonio,Gandy-Golden,REC,3
+9506094,10/1/2016,FCS,Liberty,Robert Morris,RECEIVING,Antonio,Gandy-Golden,YDS,41
+9506095,10/1/2016,FCS,Liberty,Robert Morris,RECEIVING,Antonio,Gandy-Golden,TD,1
+9506096,10/1/2016,FCS,Liberty,Robert Morris,RECEIVING,Antonio,Gandy-Golden,LONG,15
+9506097,10/1/2016,FCS,Liberty,Robert Morris,RECEIVING,Zac,Parker,REC,5
+9506098,10/1/2016,FCS,Liberty,Robert Morris,RECEIVING,Zac,Parker,YDS,27
+9506099,10/1/2016,FCS,Liberty,Robert Morris,RECEIVING,Zac,Parker,TD,0
+9506100,10/1/2016,FCS,Liberty,Robert Morris,RECEIVING,Zac,Parker,LONG,12
+9506101,10/1/2016,FCS,Liberty,Robert Morris,RECEIVING,B.J.,Farrow,REC,2
+9506102,10/1/2016,FCS,Liberty,Robert Morris,RECEIVING,B.J.,Farrow,YDS,13
+9506103,10/1/2016,FCS,Liberty,Robert Morris,RECEIVING,B.J.,Farrow,TD,0
+9506104,10/1/2016,FCS,Liberty,Robert Morris,RECEIVING,B.J.,Farrow,LONG,7
+9506105,10/1/2016,FCS,Liberty,Robert Morris,RECEIVING,Carrington,Mosley,REC,1
+9506106,10/1/2016,FCS,Liberty,Robert Morris,RECEIVING,Carrington,Mosley,YDS,4
+9506107,10/1/2016,FCS,Liberty,Robert Morris,RECEIVING,Carrington,Mosley,TD,1
+9506108,10/1/2016,FCS,Liberty,Robert Morris,RECEIVING,Carrington,Mosley,LONG,4
+9506109,10/1/2016,FCS,Liberty,Robert Morris,RECEIVING,Frankie,Hickson,REC,1
+9506110,10/1/2016,FCS,Liberty,Robert Morris,RECEIVING,Frankie,Hickson,YDS,2
+9506111,10/1/2016,FCS,Liberty,Robert Morris,RECEIVING,Frankie,Hickson,TD,0
+9506112,10/1/2016,FCS,Liberty,Robert Morris,RECEIVING,Frankie,Hickson,LONG,2
+9506113,10/1/2016,FCS,Liberty,Robert Morris,RECEIVING,Zac,Foutz,REC,1
+9506114,10/1/2016,FCS,Liberty,Robert Morris,RECEIVING,Zac,Foutz,YDS,1
+9506115,10/1/2016,FCS,Liberty,Robert Morris,RECEIVING,Zac,Foutz,TD,1
+9506116,10/1/2016,FCS,Liberty,Robert Morris,RECEIVING,Zac,Foutz,LONG,1
+9506117,10/1/2016,FCS,Liberty,Robert Morris,KICKING,Alex,Probert,FG-FGA,2/3
+9506118,10/1/2016,FCS,Liberty,Robert Morris,KICKING,Alex,Probert,LONG,51
+9506119,10/1/2016,FCS,Liberty,Robert Morris,KICKING,Alex,Probert,XP,5
+9506120,10/1/2016,FCS,Liberty,Robert Morris,KICKING,Alex,Probert,PTS,11
+9506121,10/1/2016,FCS,Liberty,Robert Morris,PUNTING,Trey,Turner,NO,6
+9506122,10/1/2016,FCS,Liberty,Robert Morris,PUNTING,Trey,Turner,YDS,257
+9506123,10/1/2016,FCS,Liberty,Robert Morris,PUNTING,Trey,Turner,AVG,42.8
+9506124,10/1/2016,FCS,Liberty,Robert Morris,PUNTING,Trey,Turner,LONG,50
+9506125,10/1/2016,FCS,Liberty,Robert Morris,PUNT RETURNS,B.J.,Farrow,NO,2
+9506126,10/1/2016,FCS,Liberty,Robert Morris,PUNT RETURNS,B.J.,Farrow,YDS,9
+9506127,10/1/2016,FCS,Liberty,Robert Morris,PUNT RETURNS,B.J.,Farrow,AVG,4.5
+9506128,10/1/2016,FCS,Liberty,Robert Morris,PUNT RETURNS,B.J.,Farrow,LONG,5
+9506129,10/1/2016,FCS,Liberty,Robert Morris,PUNT RETURNS,Zac,Parker,NO,2
+9506130,10/1/2016,FCS,Liberty,Robert Morris,PUNT RETURNS,Zac,Parker,YDS,-3
+9506131,10/1/2016,FCS,Liberty,Robert Morris,PUNT RETURNS,Zac,Parker,AVG,-
+9506132,10/1/2016,FCS,Liberty,Robert Morris,PUNT RETURNS,Zac,Parker,LONG,1
+9506133,10/1/2016,FCS,Liberty,Robert Morris,KICK RETURNS,Frankie,Hickson,NO,1
+9506134,10/1/2016,FCS,Liberty,Robert Morris,KICK RETURNS,Frankie,Hickson,YDS,28
+9506135,10/1/2016,FCS,Liberty,Robert Morris,KICK RETURNS,Frankie,Hickson,AVG,28.0
+9506136,10/1/2016,FCS,Liberty,Robert Morris,KICK RETURNS,Frankie,Hickson,LONG,28

@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+7022001,9/21/2013,FCS,Mars Hill,Western Caro.,RUSHING,Shaikel,Davis,ATT,34
+7022002,9/21/2013,FCS,Mars Hill,Western Caro.,RUSHING,Shaikel,Davis,YDS,158
+7022003,9/21/2013,FCS,Mars Hill,Western Caro.,RUSHING,Shaikel,Davis,TD,1
+7022004,9/21/2013,FCS,Mars Hill,Western Caro.,RUSHING,Shaikel,Davis,LONG,29
+7022005,9/21/2013,FCS,Mars Hill,Western Caro.,RUSHING,Foluke,Gordan-Lamar,ATT,4
+7022006,9/21/2013,FCS,Mars Hill,Western Caro.,RUSHING,Foluke,Gordan-Lamar,YDS,16
+7022007,9/21/2013,FCS,Mars Hill,Western Caro.,RUSHING,Foluke,Gordan-Lamar,TD,0
+7022008,9/21/2013,FCS,Mars Hill,Western Caro.,RUSHING,Foluke,Gordan-Lamar,LONG,12
+7022009,9/21/2013,FCS,Mars Hill,Western Caro.,RUSHING,Dimitri,Holmes,ATT,2
+7022010,9/21/2013,FCS,Mars Hill,Western Caro.,RUSHING,Dimitri,Holmes,YDS,3
+7022011,9/21/2013,FCS,Mars Hill,Western Caro.,RUSHING,Dimitri,Holmes,TD,0
+7022012,9/21/2013,FCS,Mars Hill,Western Caro.,RUSHING,Dimitri,Holmes,LONG,9
+7022013,9/21/2013,FCS,Mars Hill,Western Caro.,RUSHING,Marquez,Williams,ATT,1
+7022014,9/21/2013,FCS,Mars Hill,Western Caro.,RUSHING,Marquez,Williams,YDS,2
+7022015,9/21/2013,FCS,Mars Hill,Western Caro.,RUSHING,Marquez,Williams,TD,1
+7022016,9/21/2013,FCS,Mars Hill,Western Caro.,RUSHING,Marquez,Williams,LONG,2
+7022017,9/21/2013,FCS,Mars Hill,Western Caro.,RUSHING,,Team,ATT,1
+7022018,9/21/2013,FCS,Mars Hill,Western Caro.,RUSHING,,Team,YDS,-1
+7022019,9/21/2013,FCS,Mars Hill,Western Caro.,RUSHING,,Team,TD,0
+7022020,9/21/2013,FCS,Mars Hill,Western Caro.,RUSHING,,Team,LONG,0
+7022021,9/21/2013,FCS,Mars Hill,Western Caro.,RUSHING,Trent,Miller,ATT,5
+7022022,9/21/2013,FCS,Mars Hill,Western Caro.,RUSHING,Trent,Miller,YDS,-13
+7022023,9/21/2013,FCS,Mars Hill,Western Caro.,RUSHING,Trent,Miller,TD,0
+7022024,9/21/2013,FCS,Mars Hill,Western Caro.,RUSHING,Trent,Miller,LONG,3
+7022025,9/21/2013,FCS,Mars Hill,Western Caro.,PASSING,Trent,Miller,CP-ATT-INT,12-25-0
+7022026,9/21/2013,FCS,Mars Hill,Western Caro.,PASSING,Trent,Miller,YDS,169
+7022027,9/21/2013,FCS,Mars Hill,Western Caro.,PASSING,Trent,Miller,TD,1
+7022028,9/21/2013,FCS,Mars Hill,Western Caro.,PASSING,Trent,Miller,LONG,26
+7022029,9/21/2013,FCS,Mars Hill,Western Caro.,PASSING,Zach,Lappin,CP-ATT-INT,0-1-0
+7022030,9/21/2013,FCS,Mars Hill,Western Caro.,PASSING,Zach,Lappin,YDS,0
+7022031,9/21/2013,FCS,Mars Hill,Western Caro.,PASSING,Zach,Lappin,TD,0
+7022032,9/21/2013,FCS,Mars Hill,Western Caro.,PASSING,Zach,Lappin,LONG,0
+7022033,9/21/2013,FCS,Mars Hill,Western Caro.,RECEIVING,Dimitri,Holmes,REC,5
+7022034,9/21/2013,FCS,Mars Hill,Western Caro.,RECEIVING,Dimitri,Holmes,YDS,77
+7022035,9/21/2013,FCS,Mars Hill,Western Caro.,RECEIVING,Dimitri,Holmes,TD,1
+7022036,9/21/2013,FCS,Mars Hill,Western Caro.,RECEIVING,Dimitri,Holmes,LONG,20
+7022037,9/21/2013,FCS,Mars Hill,Western Caro.,RECEIVING,Jeremy,Hughes,REC,3
+7022038,9/21/2013,FCS,Mars Hill,Western Caro.,RECEIVING,Jeremy,Hughes,YDS,36
+7022039,9/21/2013,FCS,Mars Hill,Western Caro.,RECEIVING,Jeremy,Hughes,TD,0
+7022040,9/21/2013,FCS,Mars Hill,Western Caro.,RECEIVING,Jeremy,Hughes,LONG,19
+7022041,9/21/2013,FCS,Mars Hill,Western Caro.,RECEIVING,Trent,Miller,REC,1
+7022042,9/21/2013,FCS,Mars Hill,Western Caro.,RECEIVING,Trent,Miller,YDS,26
+7022043,9/21/2013,FCS,Mars Hill,Western Caro.,RECEIVING,Trent,Miller,TD,0
+7022044,9/21/2013,FCS,Mars Hill,Western Caro.,RECEIVING,Trent,Miller,LONG,26
+7022045,9/21/2013,FCS,Mars Hill,Western Caro.,RECEIVING,Cameron,Shuford,REC,1
+7022046,9/21/2013,FCS,Mars Hill,Western Caro.,RECEIVING,Cameron,Shuford,YDS,24
+7022047,9/21/2013,FCS,Mars Hill,Western Caro.,RECEIVING,Cameron,Shuford,TD,0
+7022048,9/21/2013,FCS,Mars Hill,Western Caro.,RECEIVING,Cameron,Shuford,LONG,24
+7022049,9/21/2013,FCS,Mars Hill,Western Caro.,RECEIVING,Steven,Williams,REC,1
+7022050,9/21/2013,FCS,Mars Hill,Western Caro.,RECEIVING,Steven,Williams,YDS,4
+7022051,9/21/2013,FCS,Mars Hill,Western Caro.,RECEIVING,Steven,Williams,TD,0
+7022052,9/21/2013,FCS,Mars Hill,Western Caro.,RECEIVING,Steven,Williams,LONG,4
+7022053,9/21/2013,FCS,Mars Hill,Western Caro.,RECEIVING,Shaikel,Davis,REC,1
+7022054,9/21/2013,FCS,Mars Hill,Western Caro.,RECEIVING,Shaikel,Davis,YDS,2
+7022055,9/21/2013,FCS,Mars Hill,Western Caro.,RECEIVING,Shaikel,Davis,TD,0
+7022056,9/21/2013,FCS,Mars Hill,Western Caro.,RECEIVING,Shaikel,Davis,LONG,2
+7022057,9/21/2013,FCS,Mars Hill,Western Caro.,KICKING,Victor,Yurco,FG-FGA,0/0
+7022058,9/21/2013,FCS,Mars Hill,Western Caro.,KICKING,Victor,Yurco,LONG,-
+7022059,9/21/2013,FCS,Mars Hill,Western Caro.,KICKING,Victor,Yurco,XP,1
+7022060,9/21/2013,FCS,Mars Hill,Western Caro.,KICKING,Victor,Yurco,PTS,1
+7022061,9/21/2013,FCS,Mars Hill,Western Caro.,PUNTING,Michael,Ashley,NO,7
+7022062,9/21/2013,FCS,Mars Hill,Western Caro.,PUNTING,Michael,Ashley,YDS,281
+7022063,9/21/2013,FCS,Mars Hill,Western Caro.,PUNTING,Michael,Ashley,AVG,40.1
+7022064,9/21/2013,FCS,Mars Hill,Western Caro.,PUNTING,Michael,Ashley,LONG,48
+7022065,9/21/2013,FCS,Mars Hill,Western Caro.,PUNT RETURNS,Dimitri,Holmes,NO,1
+7022066,9/21/2013,FCS,Mars Hill,Western Caro.,PUNT RETURNS,Dimitri,Holmes,YDS,3
+7022067,9/21/2013,FCS,Mars Hill,Western Caro.,PUNT RETURNS,Dimitri,Holmes,AVG,3.0
+7022068,9/21/2013,FCS,Mars Hill,Western Caro.,PUNT RETURNS,Dimitri,Holmes,LONG,3
+7022069,9/21/2013,FCS,Mars Hill,Western Caro.,KICK RETURNS,Dimitri,Holmes,NO,2
+7022070,9/21/2013,FCS,Mars Hill,Western Caro.,KICK RETURNS,Dimitri,Holmes,YDS,54
+7022071,9/21/2013,FCS,Mars Hill,Western Caro.,KICK RETURNS,Dimitri,Holmes,AVG,27.0
+7022072,9/21/2013,FCS,Mars Hill,Western Caro.,KICK RETURNS,Dimitri,Holmes,LONG,32
+7022073,9/21/2013,FCS,Mars Hill,Western Caro.,KICK RETURNS,Shaikel,Davis,NO,2
+7022074,9/21/2013,FCS,Mars Hill,Western Caro.,KICK RETURNS,Shaikel,Davis,YDS,36
+7022075,9/21/2013,FCS,Mars Hill,Western Caro.,KICK RETURNS,Shaikel,Davis,AVG,18.0
+7022076,9/21/2013,FCS,Mars Hill,Western Caro.,KICK RETURNS,Shaikel,Davis,LONG,25
+7022077,9/21/2013,FCS,Mars Hill,Western Caro.,KICK RETURNS,Jeremy,Hughes,NO,1
+7022078,9/21/2013,FCS,Mars Hill,Western Caro.,KICK RETURNS,Jeremy,Hughes,YDS,6
+7022079,9/21/2013,FCS,Mars Hill,Western Caro.,KICK RETURNS,Jeremy,Hughes,AVG,6.0
+7022080,9/21/2013,FCS,Mars Hill,Western Caro.,KICK RETURNS,Jeremy,Hughes,LONG,6
+7022081,9/21/2013,FCS,Western Caro.,Mars Hill,RUSHING,Darius,Ramsey,ATT,21
+7022082,9/21/2013,FCS,Western Caro.,Mars Hill,RUSHING,Darius,Ramsey,YDS,71
+7022083,9/21/2013,FCS,Western Caro.,Mars Hill,RUSHING,Darius,Ramsey,TD,0
+7022084,9/21/2013,FCS,Western Caro.,Mars Hill,RUSHING,Darius,Ramsey,LONG,17
+7022085,9/21/2013,FCS,Western Caro.,Mars Hill,RUSHING,Troy,Mitchell,ATT,13
+7022086,9/21/2013,FCS,Western Caro.,Mars Hill,RUSHING,Troy,Mitchell,YDS,64
+7022087,9/21/2013,FCS,Western Caro.,Mars Hill,RUSHING,Troy,Mitchell,TD,0
+7022088,9/21/2013,FCS,Western Caro.,Mars Hill,RUSHING,Troy,Mitchell,LONG,14
+7022089,9/21/2013,FCS,Western Caro.,Mars Hill,RUSHING,Shaun,Warren,ATT,6
+7022090,9/21/2013,FCS,Western Caro.,Mars Hill,RUSHING,Shaun,Warren,YDS,36
+7022091,9/21/2013,FCS,Western Caro.,Mars Hill,RUSHING,Shaun,Warren,TD,1
+7022092,9/21/2013,FCS,Western Caro.,Mars Hill,RUSHING,Shaun,Warren,LONG,22
+7022093,9/21/2013,FCS,Western Caro.,Mars Hill,RUSHING,,Team,ATT,1
+7022094,9/21/2013,FCS,Western Caro.,Mars Hill,RUSHING,,Team,YDS,-6
+7022095,9/21/2013,FCS,Western Caro.,Mars Hill,RUSHING,,Team,TD,0
+7022096,9/21/2013,FCS,Western Caro.,Mars Hill,RUSHING,,Team,LONG,0
+7022097,9/21/2013,FCS,Western Caro.,Mars Hill,PASSING,Troy,Mitchell,CP-ATT-INT,20-35-0
+7022098,9/21/2013,FCS,Western Caro.,Mars Hill,PASSING,Troy,Mitchell,YDS,350
+7022099,9/21/2013,FCS,Western Caro.,Mars Hill,PASSING,Troy,Mitchell,TD,3
+7022100,9/21/2013,FCS,Western Caro.,Mars Hill,PASSING,Troy,Mitchell,LONG,80
+7022101,9/21/2013,FCS,Western Caro.,Mars Hill,RECEIVING,Karnorris,Benson,REC,9
+7022102,9/21/2013,FCS,Western Caro.,Mars Hill,RECEIVING,Karnorris,Benson,YDS,212
+7022103,9/21/2013,FCS,Western Caro.,Mars Hill,RECEIVING,Karnorris,Benson,TD,3
+7022104,9/21/2013,FCS,Western Caro.,Mars Hill,RECEIVING,Karnorris,Benson,LONG,80
+7022105,9/21/2013,FCS,Western Caro.,Mars Hill,RECEIVING,Willie,Police,REC,4
+7022106,9/21/2013,FCS,Western Caro.,Mars Hill,RECEIVING,Willie,Police,YDS,49
+7022107,9/21/2013,FCS,Western Caro.,Mars Hill,RECEIVING,Willie,Police,TD,0
+7022108,9/21/2013,FCS,Western Caro.,Mars Hill,RECEIVING,Willie,Police,LONG,25
+7022109,9/21/2013,FCS,Western Caro.,Mars Hill,RECEIVING,Terryon,Robinson,REC,4
+7022110,9/21/2013,FCS,Western Caro.,Mars Hill,RECEIVING,Terryon,Robinson,YDS,46
+7022111,9/21/2013,FCS,Western Caro.,Mars Hill,RECEIVING,Terryon,Robinson,TD,0
+7022112,9/21/2013,FCS,Western Caro.,Mars Hill,RECEIVING,Terryon,Robinson,LONG,14
+7022113,9/21/2013,FCS,Western Caro.,Mars Hill,RECEIVING,Darius,Ramsey,REC,2
+7022114,9/21/2013,FCS,Western Caro.,Mars Hill,RECEIVING,Darius,Ramsey,YDS,23
+7022115,9/21/2013,FCS,Western Caro.,Mars Hill,RECEIVING,Darius,Ramsey,TD,0
+7022116,9/21/2013,FCS,Western Caro.,Mars Hill,RECEIVING,Darius,Ramsey,LONG,15
+7022117,9/21/2013,FCS,Western Caro.,Mars Hill,RECEIVING,Michael,Helms,REC,1
+7022118,9/21/2013,FCS,Western Caro.,Mars Hill,RECEIVING,Michael,Helms,YDS,20
+7022119,9/21/2013,FCS,Western Caro.,Mars Hill,RECEIVING,Michael,Helms,TD,0
+7022120,9/21/2013,FCS,Western Caro.,Mars Hill,RECEIVING,Michael,Helms,LONG,20
+7022121,9/21/2013,FCS,Western Caro.,Mars Hill,KICKING,Richard,Sigmon,FG-FGA,1/2
+7022122,9/21/2013,FCS,Western Caro.,Mars Hill,KICKING,Richard,Sigmon,LONG,21
+7022123,9/21/2013,FCS,Western Caro.,Mars Hill,KICKING,Richard,Sigmon,XP,3
+7022124,9/21/2013,FCS,Western Caro.,Mars Hill,KICKING,Richard,Sigmon,PTS,6
+7022125,9/21/2013,FCS,Western Caro.,Mars Hill,PUNTING,Clark,Sechrest,NO,6
+7022126,9/21/2013,FCS,Western Caro.,Mars Hill,PUNTING,Clark,Sechrest,YDS,255
+7022127,9/21/2013,FCS,Western Caro.,Mars Hill,PUNTING,Clark,Sechrest,AVG,42.5
+7022128,9/21/2013,FCS,Western Caro.,Mars Hill,PUNTING,Clark,Sechrest,LONG,58
+7022129,9/21/2013,FCS,Western Caro.,Mars Hill,PUNT RETURNS,Terryon,Robinson,NO,1
+7022130,9/21/2013,FCS,Western Caro.,Mars Hill,PUNT RETURNS,Terryon,Robinson,YDS,3
+7022131,9/21/2013,FCS,Western Caro.,Mars Hill,PUNT RETURNS,Terryon,Robinson,AVG,3.0
+7022132,9/21/2013,FCS,Western Caro.,Mars Hill,PUNT RETURNS,Terryon,Robinson,LONG,1
+7022133,9/21/2013,FCS,Western Caro.,Mars Hill,KICK RETURNS,Shaun,Warren,NO,2
+7022134,9/21/2013,FCS,Western Caro.,Mars Hill,KICK RETURNS,Shaun,Warren,YDS,65
+7022135,9/21/2013,FCS,Western Caro.,Mars Hill,KICK RETURNS,Shaun,Warren,AVG,32.5
+7022136,9/21/2013,FCS,Western Caro.,Mars Hill,KICK RETURNS,Shaun,Warren,LONG,46

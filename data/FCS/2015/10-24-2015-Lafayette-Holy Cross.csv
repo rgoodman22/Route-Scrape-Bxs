@@ -1,0 +1,173 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+8899001,10/24/2015,FCS,Lafayette,Holy Cross,RUSHING,DeSean,Brown,ATT,12
+8899002,10/24/2015,FCS,Lafayette,Holy Cross,RUSHING,DeSean,Brown,YDS,70
+8899003,10/24/2015,FCS,Lafayette,Holy Cross,RUSHING,DeSean,Brown,TD,0
+8899004,10/24/2015,FCS,Lafayette,Holy Cross,RUSHING,DeSean,Brown,LONG,11
+8899005,10/24/2015,FCS,Lafayette,Holy Cross,RUSHING,Drew,Reed,ATT,8
+8899006,10/24/2015,FCS,Lafayette,Holy Cross,RUSHING,Drew,Reed,YDS,15
+8899007,10/24/2015,FCS,Lafayette,Holy Cross,RUSHING,Drew,Reed,TD,0
+8899008,10/24/2015,FCS,Lafayette,Holy Cross,RUSHING,Drew,Reed,LONG,16
+8899009,10/24/2015,FCS,Lafayette,Holy Cross,RUSHING,Tyler,West,ATT,1
+8899010,10/24/2015,FCS,Lafayette,Holy Cross,RUSHING,Tyler,West,YDS,6
+8899011,10/24/2015,FCS,Lafayette,Holy Cross,RUSHING,Tyler,West,TD,0
+8899012,10/24/2015,FCS,Lafayette,Holy Cross,RUSHING,Tyler,West,LONG,6
+8899013,10/24/2015,FCS,Lafayette,Holy Cross,RUSHING,Josh,Davis,ATT,1
+8899014,10/24/2015,FCS,Lafayette,Holy Cross,RUSHING,Josh,Davis,YDS,0
+8899015,10/24/2015,FCS,Lafayette,Holy Cross,RUSHING,Josh,Davis,TD,0
+8899016,10/24/2015,FCS,Lafayette,Holy Cross,RUSHING,Josh,Davis,LONG,0
+8899017,10/24/2015,FCS,Lafayette,Holy Cross,RUSHING,Joey,Chenoweth,ATT,1
+8899018,10/24/2015,FCS,Lafayette,Holy Cross,RUSHING,Joey,Chenoweth,YDS,-2
+8899019,10/24/2015,FCS,Lafayette,Holy Cross,RUSHING,Joey,Chenoweth,TD,0
+8899020,10/24/2015,FCS,Lafayette,Holy Cross,RUSHING,Joey,Chenoweth,LONG,0
+8899021,10/24/2015,FCS,Lafayette,Holy Cross,RUSHING,Blake,Searfoss,ATT,2
+8899022,10/24/2015,FCS,Lafayette,Holy Cross,RUSHING,Blake,Searfoss,YDS,-12
+8899023,10/24/2015,FCS,Lafayette,Holy Cross,RUSHING,Blake,Searfoss,TD,0
+8899024,10/24/2015,FCS,Lafayette,Holy Cross,RUSHING,Blake,Searfoss,LONG,1
+8899025,10/24/2015,FCS,Lafayette,Holy Cross,PASSING,Drew,Reed,CP-ATT-INT,15-23-2
+8899026,10/24/2015,FCS,Lafayette,Holy Cross,PASSING,Drew,Reed,YDS,115
+8899027,10/24/2015,FCS,Lafayette,Holy Cross,PASSING,Drew,Reed,TD,0
+8899028,10/24/2015,FCS,Lafayette,Holy Cross,PASSING,Drew,Reed,LONG,26
+8899029,10/24/2015,FCS,Lafayette,Holy Cross,PASSING,Blake,Searfoss,CP-ATT-INT,4-7-0
+8899030,10/24/2015,FCS,Lafayette,Holy Cross,PASSING,Blake,Searfoss,YDS,58
+8899031,10/24/2015,FCS,Lafayette,Holy Cross,PASSING,Blake,Searfoss,TD,0
+8899032,10/24/2015,FCS,Lafayette,Holy Cross,PASSING,Blake,Searfoss,LONG,20
+8899033,10/24/2015,FCS,Lafayette,Holy Cross,RECEIVING,DeSean,Brown,REC,3
+8899034,10/24/2015,FCS,Lafayette,Holy Cross,RECEIVING,DeSean,Brown,YDS,55
+8899035,10/24/2015,FCS,Lafayette,Holy Cross,RECEIVING,DeSean,Brown,TD,0
+8899036,10/24/2015,FCS,Lafayette,Holy Cross,RECEIVING,DeSean,Brown,LONG,26
+8899037,10/24/2015,FCS,Lafayette,Holy Cross,RECEIVING,Quinn,Smith,REC,2
+8899038,10/24/2015,FCS,Lafayette,Holy Cross,RECEIVING,Quinn,Smith,YDS,36
+8899039,10/24/2015,FCS,Lafayette,Holy Cross,RECEIVING,Quinn,Smith,TD,0
+8899040,10/24/2015,FCS,Lafayette,Holy Cross,RECEIVING,Quinn,Smith,LONG,20
+8899041,10/24/2015,FCS,Lafayette,Holy Cross,RECEIVING,Tim,Vangelas,REC,4
+8899042,10/24/2015,FCS,Lafayette,Holy Cross,RECEIVING,Tim,Vangelas,YDS,32
+8899043,10/24/2015,FCS,Lafayette,Holy Cross,RECEIVING,Tim,Vangelas,TD,0
+8899044,10/24/2015,FCS,Lafayette,Holy Cross,RECEIVING,Tim,Vangelas,LONG,17
+8899045,10/24/2015,FCS,Lafayette,Holy Cross,RECEIVING,Joey,Chenoweth,REC,7
+8899046,10/24/2015,FCS,Lafayette,Holy Cross,RECEIVING,Joey,Chenoweth,YDS,29
+8899047,10/24/2015,FCS,Lafayette,Holy Cross,RECEIVING,Joey,Chenoweth,TD,0
+8899048,10/24/2015,FCS,Lafayette,Holy Cross,RECEIVING,Joey,Chenoweth,LONG,6
+8899049,10/24/2015,FCS,Lafayette,Holy Cross,RECEIVING,Matt,Mrazek,REC,3
+8899050,10/24/2015,FCS,Lafayette,Holy Cross,RECEIVING,Matt,Mrazek,YDS,21
+8899051,10/24/2015,FCS,Lafayette,Holy Cross,RECEIVING,Matt,Mrazek,TD,0
+8899052,10/24/2015,FCS,Lafayette,Holy Cross,RECEIVING,Matt,Mrazek,LONG,13
+8899053,10/24/2015,FCS,Lafayette,Holy Cross,PUNTING,Ryan,Forrester,NO,7
+8899054,10/24/2015,FCS,Lafayette,Holy Cross,PUNTING,Ryan,Forrester,YDS,260
+8899055,10/24/2015,FCS,Lafayette,Holy Cross,PUNTING,Ryan,Forrester,AVG,37.1
+8899056,10/24/2015,FCS,Lafayette,Holy Cross,PUNTING,Ryan,Forrester,LONG,55
+8899057,10/24/2015,FCS,Lafayette,Holy Cross,PUNT RETURNS,Tim,Vangelas,NO,1
+8899058,10/24/2015,FCS,Lafayette,Holy Cross,PUNT RETURNS,Tim,Vangelas,YDS,-2
+8899059,10/24/2015,FCS,Lafayette,Holy Cross,PUNT RETURNS,Tim,Vangelas,AVG,-
+8899060,10/24/2015,FCS,Lafayette,Holy Cross,PUNT RETURNS,Tim,Vangelas,LONG,0
+8899061,10/24/2015,FCS,Lafayette,Holy Cross,KICK RETURNS,CJ,Amill,NO,4
+8899062,10/24/2015,FCS,Lafayette,Holy Cross,KICK RETURNS,CJ,Amill,YDS,58
+8899063,10/24/2015,FCS,Lafayette,Holy Cross,KICK RETURNS,CJ,Amill,AVG,14.5
+8899064,10/24/2015,FCS,Lafayette,Holy Cross,KICK RETURNS,CJ,Amill,LONG,20
+8899065,10/24/2015,FCS,Lafayette,Holy Cross,KICK RETURNS,DeSean,Brown,NO,2
+8899066,10/24/2015,FCS,Lafayette,Holy Cross,KICK RETURNS,DeSean,Brown,YDS,18
+8899067,10/24/2015,FCS,Lafayette,Holy Cross,KICK RETURNS,DeSean,Brown,AVG,9.0
+8899068,10/24/2015,FCS,Lafayette,Holy Cross,KICK RETURNS,DeSean,Brown,LONG,14
+8899069,10/24/2015,FCS,Lafayette,Holy Cross,KICK RETURNS,Duncan,Sparks,NO,1
+8899070,10/24/2015,FCS,Lafayette,Holy Cross,KICK RETURNS,Duncan,Sparks,YDS,6
+8899071,10/24/2015,FCS,Lafayette,Holy Cross,KICK RETURNS,Duncan,Sparks,AVG,6.0
+8899072,10/24/2015,FCS,Lafayette,Holy Cross,KICK RETURNS,Duncan,Sparks,LONG,0
+8899073,10/24/2015,FCS,Holy Cross,Lafayette,RUSHING,Gabe,Guild,ATT,6
+8899074,10/24/2015,FCS,Holy Cross,Lafayette,RUSHING,Gabe,Guild,YDS,72
+8899075,10/24/2015,FCS,Holy Cross,Lafayette,RUSHING,Gabe,Guild,TD,0
+8899076,10/24/2015,FCS,Holy Cross,Lafayette,RUSHING,Gabe,Guild,LONG,27
+8899077,10/24/2015,FCS,Holy Cross,Lafayette,RUSHING,Blaise,Bell,ATT,5
+8899078,10/24/2015,FCS,Holy Cross,Lafayette,RUSHING,Blaise,Bell,YDS,35
+8899079,10/24/2015,FCS,Holy Cross,Lafayette,RUSHING,Blaise,Bell,TD,0
+8899080,10/24/2015,FCS,Holy Cross,Lafayette,RUSHING,Blaise,Bell,LONG,12
+8899081,10/24/2015,FCS,Holy Cross,Lafayette,RUSHING,Peter,Pujals,ATT,3
+8899082,10/24/2015,FCS,Holy Cross,Lafayette,RUSHING,Peter,Pujals,YDS,18
+8899083,10/24/2015,FCS,Holy Cross,Lafayette,RUSHING,Peter,Pujals,TD,0
+8899084,10/24/2015,FCS,Holy Cross,Lafayette,RUSHING,Peter,Pujals,LONG,10
+8899085,10/24/2015,FCS,Holy Cross,Lafayette,RUSHING,Diquan,Walker,ATT,5
+8899086,10/24/2015,FCS,Holy Cross,Lafayette,RUSHING,Diquan,Walker,YDS,17
+8899087,10/24/2015,FCS,Holy Cross,Lafayette,RUSHING,Diquan,Walker,TD,0
+8899088,10/24/2015,FCS,Holy Cross,Lafayette,RUSHING,Diquan,Walker,LONG,9
+8899089,10/24/2015,FCS,Holy Cross,Lafayette,RUSHING,Alex,Waked,ATT,4
+8899090,10/24/2015,FCS,Holy Cross,Lafayette,RUSHING,Alex,Waked,YDS,13
+8899091,10/24/2015,FCS,Holy Cross,Lafayette,RUSHING,Alex,Waked,TD,0
+8899092,10/24/2015,FCS,Holy Cross,Lafayette,RUSHING,Alex,Waked,LONG,6
+8899093,10/24/2015,FCS,Holy Cross,Lafayette,RUSHING,Brett,Laurie,ATT,5
+8899094,10/24/2015,FCS,Holy Cross,Lafayette,RUSHING,Brett,Laurie,YDS,7
+8899095,10/24/2015,FCS,Holy Cross,Lafayette,RUSHING,Brett,Laurie,TD,0
+8899096,10/24/2015,FCS,Holy Cross,Lafayette,RUSHING,Brett,Laurie,LONG,4
+8899097,10/24/2015,FCS,Holy Cross,Lafayette,RUSHING,Tate,Beachley,ATT,3
+8899098,10/24/2015,FCS,Holy Cross,Lafayette,RUSHING,Tate,Beachley,YDS,3
+8899099,10/24/2015,FCS,Holy Cross,Lafayette,RUSHING,Tate,Beachley,TD,0
+8899100,10/24/2015,FCS,Holy Cross,Lafayette,RUSHING,Tate,Beachley,LONG,4
+8899101,10/24/2015,FCS,Holy Cross,Lafayette,RUSHING,,Team,ATT,1
+8899102,10/24/2015,FCS,Holy Cross,Lafayette,RUSHING,,Team,YDS,-1
+8899103,10/24/2015,FCS,Holy Cross,Lafayette,RUSHING,,Team,TD,0
+8899104,10/24/2015,FCS,Holy Cross,Lafayette,RUSHING,,Team,LONG,0
+8899105,10/24/2015,FCS,Holy Cross,Lafayette,PASSING,Peter,Pujals,CP-ATT-INT,27-36-0
+8899106,10/24/2015,FCS,Holy Cross,Lafayette,PASSING,Peter,Pujals,YDS,358
+8899107,10/24/2015,FCS,Holy Cross,Lafayette,PASSING,Peter,Pujals,TD,6
+8899108,10/24/2015,FCS,Holy Cross,Lafayette,PASSING,Peter,Pujals,LONG,38
+8899109,10/24/2015,FCS,Holy Cross,Lafayette,PASSING,Blaise,Bell,CP-ATT-INT,5-8-0
+8899110,10/24/2015,FCS,Holy Cross,Lafayette,PASSING,Blaise,Bell,YDS,39
+8899111,10/24/2015,FCS,Holy Cross,Lafayette,PASSING,Blaise,Bell,TD,0
+8899112,10/24/2015,FCS,Holy Cross,Lafayette,PASSING,Blaise,Bell,LONG,13
+8899113,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Kalif,Raymond,REC,11
+8899114,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Kalif,Raymond,YDS,159
+8899115,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Kalif,Raymond,TD,2
+8899116,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Kalif,Raymond,LONG,38
+8899117,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Brendan,Flaherty,REC,7
+8899118,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Brendan,Flaherty,YDS,95
+8899119,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Brendan,Flaherty,TD,4
+8899120,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Brendan,Flaherty,LONG,34
+8899121,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Richie,DeNicola,REC,3
+8899122,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Richie,DeNicola,YDS,29
+8899123,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Richie,DeNicola,TD,0
+8899124,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Richie,DeNicola,LONG,14
+8899125,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Darrius,Lacy,REC,3
+8899126,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Darrius,Lacy,YDS,20
+8899127,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Darrius,Lacy,TD,0
+8899128,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Darrius,Lacy,LONG,11
+8899129,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Blaise,Bell,REC,2
+8899130,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Blaise,Bell,YDS,19
+8899131,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Blaise,Bell,TD,0
+8899132,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Blaise,Bell,LONG,13
+8899133,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Lucas,Nikolaisen,REC,1
+8899134,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Lucas,Nikolaisen,YDS,17
+8899135,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Lucas,Nikolaisen,TD,0
+8899136,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Lucas,Nikolaisen,LONG,17
+8899137,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Zach,Buzzard,REC,1
+8899138,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Zach,Buzzard,YDS,13
+8899139,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Zach,Buzzard,TD,0
+8899140,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Zach,Buzzard,LONG,13
+8899141,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Andre,Harton,REC,2
+8899142,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Andre,Harton,YDS,12
+8899143,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Andre,Harton,TD,0
+8899144,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Andre,Harton,LONG,7
+8899145,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Jordan,Montgomery,REC,1
+8899146,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Jordan,Montgomery,YDS,9
+8899147,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Jordan,Montgomery,TD,0
+8899148,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Jordan,Montgomery,LONG,9
+8899149,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Diquan,Walker,REC,1
+8899150,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Diquan,Walker,YDS,5
+8899151,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Diquan,Walker,TD,0
+8899152,10/24/2015,FCS,Holy Cross,Lafayette,RECEIVING,Diquan,Walker,LONG,5
+8899153,10/24/2015,FCS,Holy Cross,Lafayette,KICKING,Connor,Fitzgerald,FG-FGA,0/0
+8899154,10/24/2015,FCS,Holy Cross,Lafayette,KICKING,Connor,Fitzgerald,LONG,-
+8899155,10/24/2015,FCS,Holy Cross,Lafayette,KICKING,Connor,Fitzgerald,XP,6
+8899156,10/24/2015,FCS,Holy Cross,Lafayette,KICKING,Connor,Fitzgerald,PTS,6
+8899157,10/24/2015,FCS,Holy Cross,Lafayette,PUNTING,Connor,Fitzgerald,NO,3
+8899158,10/24/2015,FCS,Holy Cross,Lafayette,PUNTING,Connor,Fitzgerald,YDS,107
+8899159,10/24/2015,FCS,Holy Cross,Lafayette,PUNTING,Connor,Fitzgerald,AVG,35.7
+8899160,10/24/2015,FCS,Holy Cross,Lafayette,PUNTING,Connor,Fitzgerald,LONG,44
+8899161,10/24/2015,FCS,Holy Cross,Lafayette,PUNT RETURNS,Kalif,Raymond,NO,2
+8899162,10/24/2015,FCS,Holy Cross,Lafayette,PUNT RETURNS,Kalif,Raymond,YDS,40
+8899163,10/24/2015,FCS,Holy Cross,Lafayette,PUNT RETURNS,Kalif,Raymond,AVG,20.0
+8899164,10/24/2015,FCS,Holy Cross,Lafayette,PUNT RETURNS,Kalif,Raymond,LONG,34
+8899165,10/24/2015,FCS,Holy Cross,Lafayette,PUNT RETURNS,Darrius,Lacy,NO,1
+8899166,10/24/2015,FCS,Holy Cross,Lafayette,PUNT RETURNS,Darrius,Lacy,YDS,0
+8899167,10/24/2015,FCS,Holy Cross,Lafayette,PUNT RETURNS,Darrius,Lacy,AVG,-
+8899168,10/24/2015,FCS,Holy Cross,Lafayette,PUNT RETURNS,Darrius,Lacy,LONG,0
+8899169,10/24/2015,FCS,Holy Cross,Lafayette,KICK RETURNS,Kalif,Raymond,NO,1
+8899170,10/24/2015,FCS,Holy Cross,Lafayette,KICK RETURNS,Kalif,Raymond,YDS,17
+8899171,10/24/2015,FCS,Holy Cross,Lafayette,KICK RETURNS,Kalif,Raymond,AVG,17.0
+8899172,10/24/2015,FCS,Holy Cross,Lafayette,KICK RETURNS,Kalif,Raymond,LONG,17

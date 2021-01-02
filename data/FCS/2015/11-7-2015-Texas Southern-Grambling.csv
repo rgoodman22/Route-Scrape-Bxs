@@ -1,0 +1,165 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9000001,11/7/2015,FCS,Texas Southern,Grambling,RUSHING,Darrell,Robinson,ATT,9
+9000002,11/7/2015,FCS,Texas Southern,Grambling,RUSHING,Darrell,Robinson,YDS,39
+9000003,11/7/2015,FCS,Texas Southern,Grambling,RUSHING,Darrell,Robinson,TD,0
+9000004,11/7/2015,FCS,Texas Southern,Grambling,RUSHING,Darrell,Robinson,LONG,28
+9000005,11/7/2015,FCS,Texas Southern,Grambling,RUSHING,Brad,Woodard,ATT,7
+9000006,11/7/2015,FCS,Texas Southern,Grambling,RUSHING,Brad,Woodard,YDS,38
+9000007,11/7/2015,FCS,Texas Southern,Grambling,RUSHING,Brad,Woodard,TD,0
+9000008,11/7/2015,FCS,Texas Southern,Grambling,RUSHING,Brad,Woodard,LONG,28
+9000009,11/7/2015,FCS,Texas Southern,Grambling,RUSHING,Averion,Hurts,ATT,11
+9000010,11/7/2015,FCS,Texas Southern,Grambling,RUSHING,Averion,Hurts,YDS,34
+9000011,11/7/2015,FCS,Texas Southern,Grambling,RUSHING,Averion,Hurts,TD,0
+9000012,11/7/2015,FCS,Texas Southern,Grambling,RUSHING,Averion,Hurts,LONG,31
+9000013,11/7/2015,FCS,Texas Southern,Grambling,RUSHING,Roshard,Burney,ATT,3
+9000014,11/7/2015,FCS,Texas Southern,Grambling,RUSHING,Roshard,Burney,YDS,6
+9000015,11/7/2015,FCS,Texas Southern,Grambling,RUSHING,Roshard,Burney,TD,0
+9000016,11/7/2015,FCS,Texas Southern,Grambling,RUSHING,Roshard,Burney,LONG,4
+9000017,11/7/2015,FCS,Texas Southern,Grambling,RUSHING,Johnathan,Bowen,ATT,10
+9000018,11/7/2015,FCS,Texas Southern,Grambling,RUSHING,Johnathan,Bowen,YDS,5
+9000019,11/7/2015,FCS,Texas Southern,Grambling,RUSHING,Johnathan,Bowen,TD,0
+9000020,11/7/2015,FCS,Texas Southern,Grambling,RUSHING,Johnathan,Bowen,LONG,15
+9000021,11/7/2015,FCS,Texas Southern,Grambling,RUSHING,Derrick,Griffin,ATT,1
+9000022,11/7/2015,FCS,Texas Southern,Grambling,RUSHING,Derrick,Griffin,YDS,1
+9000023,11/7/2015,FCS,Texas Southern,Grambling,RUSHING,Derrick,Griffin,TD,0
+9000024,11/7/2015,FCS,Texas Southern,Grambling,RUSHING,Derrick,Griffin,LONG,1
+9000025,11/7/2015,FCS,Texas Southern,Grambling,RUSHING,Cory,Carter,ATT,1
+9000026,11/7/2015,FCS,Texas Southern,Grambling,RUSHING,Cory,Carter,YDS,0
+9000027,11/7/2015,FCS,Texas Southern,Grambling,RUSHING,Cory,Carter,TD,0
+9000028,11/7/2015,FCS,Texas Southern,Grambling,RUSHING,Cory,Carter,LONG,0
+9000029,11/7/2015,FCS,Texas Southern,Grambling,RUSHING,Erick,MitchellII,ATT,2
+9000030,11/7/2015,FCS,Texas Southern,Grambling,RUSHING,Erick,MitchellII,YDS,-24
+9000031,11/7/2015,FCS,Texas Southern,Grambling,RUSHING,Erick,MitchellII,TD,0
+9000032,11/7/2015,FCS,Texas Southern,Grambling,RUSHING,Erick,MitchellII,LONG,0
+9000033,11/7/2015,FCS,Texas Southern,Grambling,PASSING,Johnathan,Bowen,CP-ATT-INT,7-17-0
+9000034,11/7/2015,FCS,Texas Southern,Grambling,PASSING,Johnathan,Bowen,YDS,82
+9000035,11/7/2015,FCS,Texas Southern,Grambling,PASSING,Johnathan,Bowen,TD,1
+9000036,11/7/2015,FCS,Texas Southern,Grambling,PASSING,Johnathan,Bowen,LONG,36
+9000037,11/7/2015,FCS,Texas Southern,Grambling,PASSING,Averion,Hurts,CP-ATT-INT,4-16-1
+9000038,11/7/2015,FCS,Texas Southern,Grambling,PASSING,Averion,Hurts,YDS,81
+9000039,11/7/2015,FCS,Texas Southern,Grambling,PASSING,Averion,Hurts,TD,1
+9000040,11/7/2015,FCS,Texas Southern,Grambling,PASSING,Averion,Hurts,LONG,26
+9000041,11/7/2015,FCS,Texas Southern,Grambling,PASSING,Travis,Hutchinson,CP-ATT-INT,2-3-0
+9000042,11/7/2015,FCS,Texas Southern,Grambling,PASSING,Travis,Hutchinson,YDS,-11
+9000043,11/7/2015,FCS,Texas Southern,Grambling,PASSING,Travis,Hutchinson,TD,0
+9000044,11/7/2015,FCS,Texas Southern,Grambling,PASSING,Travis,Hutchinson,LONG,0
+9000045,11/7/2015,FCS,Texas Southern,Grambling,RECEIVING,Derrick,Griffin,REC,8
+9000046,11/7/2015,FCS,Texas Southern,Grambling,RECEIVING,Derrick,Griffin,YDS,110
+9000047,11/7/2015,FCS,Texas Southern,Grambling,RECEIVING,Derrick,Griffin,TD,2
+9000048,11/7/2015,FCS,Texas Southern,Grambling,RECEIVING,Derrick,Griffin,LONG,36
+9000049,11/7/2015,FCS,Texas Southern,Grambling,RECEIVING,Malik,Cross,REC,1
+9000050,11/7/2015,FCS,Texas Southern,Grambling,RECEIVING,Malik,Cross,YDS,26
+9000051,11/7/2015,FCS,Texas Southern,Grambling,RECEIVING,Malik,Cross,TD,0
+9000052,11/7/2015,FCS,Texas Southern,Grambling,RECEIVING,Malik,Cross,LONG,26
+9000053,11/7/2015,FCS,Texas Southern,Grambling,RECEIVING,Larry,ClarkIII,REC,3
+9000054,11/7/2015,FCS,Texas Southern,Grambling,RECEIVING,Larry,ClarkIII,YDS,19
+9000055,11/7/2015,FCS,Texas Southern,Grambling,RECEIVING,Larry,ClarkIII,TD,0
+9000056,11/7/2015,FCS,Texas Southern,Grambling,RECEIVING,Larry,ClarkIII,LONG,20
+9000057,11/7/2015,FCS,Texas Southern,Grambling,RECEIVING,Darian,Claiborne,REC,1
+9000058,11/7/2015,FCS,Texas Southern,Grambling,RECEIVING,Darian,Claiborne,YDS,-3
+9000059,11/7/2015,FCS,Texas Southern,Grambling,RECEIVING,Darian,Claiborne,TD,0
+9000060,11/7/2015,FCS,Texas Southern,Grambling,RECEIVING,Darian,Claiborne,LONG,0
+9000061,11/7/2015,FCS,Texas Southern,Grambling,KICKING,Eric,Medina,FG-FGA,1/1
+9000062,11/7/2015,FCS,Texas Southern,Grambling,KICKING,Eric,Medina,LONG,25
+9000063,11/7/2015,FCS,Texas Southern,Grambling,KICKING,Eric,Medina,XP,0
+9000064,11/7/2015,FCS,Texas Southern,Grambling,KICKING,Eric,Medina,PTS,3
+9000065,11/7/2015,FCS,Texas Southern,Grambling,PUNTING,Cory,Carter,NO,3
+9000066,11/7/2015,FCS,Texas Southern,Grambling,PUNTING,Cory,Carter,YDS,105
+9000067,11/7/2015,FCS,Texas Southern,Grambling,PUNTING,Cory,Carter,AVG,35.0
+9000068,11/7/2015,FCS,Texas Southern,Grambling,PUNTING,Cory,Carter,LONG,46
+9000069,11/7/2015,FCS,Texas Southern,Grambling,PUNTING,Travis,Hutchinson,NO,1
+9000070,11/7/2015,FCS,Texas Southern,Grambling,PUNTING,Travis,Hutchinson,YDS,43
+9000071,11/7/2015,FCS,Texas Southern,Grambling,PUNTING,Travis,Hutchinson,AVG,43.0
+9000072,11/7/2015,FCS,Texas Southern,Grambling,PUNTING,Travis,Hutchinson,LONG,43
+9000073,11/7/2015,FCS,Texas Southern,Grambling,KICK RETURNS,Austin,Watts,NO,2
+9000074,11/7/2015,FCS,Texas Southern,Grambling,KICK RETURNS,Austin,Watts,YDS,59
+9000075,11/7/2015,FCS,Texas Southern,Grambling,KICK RETURNS,Austin,Watts,AVG,29.5
+9000076,11/7/2015,FCS,Texas Southern,Grambling,KICK RETURNS,Austin,Watts,LONG,39
+9000077,11/7/2015,FCS,Texas Southern,Grambling,KICK RETURNS,Clyde,Lee,NO,3
+9000078,11/7/2015,FCS,Texas Southern,Grambling,KICK RETURNS,Clyde,Lee,YDS,37
+9000079,11/7/2015,FCS,Texas Southern,Grambling,KICK RETURNS,Clyde,Lee,AVG,12.3
+9000080,11/7/2015,FCS,Texas Southern,Grambling,KICK RETURNS,Clyde,Lee,LONG,23
+9000081,11/7/2015,FCS,Texas Southern,Grambling,KICK RETURNS,Tevin,Jones,NO,1
+9000082,11/7/2015,FCS,Texas Southern,Grambling,KICK RETURNS,Tevin,Jones,YDS,29
+9000083,11/7/2015,FCS,Texas Southern,Grambling,KICK RETURNS,Tevin,Jones,AVG,29.0
+9000084,11/7/2015,FCS,Texas Southern,Grambling,KICK RETURNS,Tevin,Jones,LONG,29
+9000085,11/7/2015,FCS,Grambling,Texas Southern,RUSHING,Martez,Carter,ATT,10
+9000086,11/7/2015,FCS,Grambling,Texas Southern,RUSHING,Martez,Carter,YDS,61
+9000087,11/7/2015,FCS,Grambling,Texas Southern,RUSHING,Martez,Carter,TD,2
+9000088,11/7/2015,FCS,Grambling,Texas Southern,RUSHING,Martez,Carter,LONG,34
+9000089,11/7/2015,FCS,Grambling,Texas Southern,RUSHING,Jestin,Kelly,ATT,10
+9000090,11/7/2015,FCS,Grambling,Texas Southern,RUSHING,Jestin,Kelly,YDS,46
+9000091,11/7/2015,FCS,Grambling,Texas Southern,RUSHING,Jestin,Kelly,TD,0
+9000092,11/7/2015,FCS,Grambling,Texas Southern,RUSHING,Jestin,Kelly,LONG,9
+9000093,11/7/2015,FCS,Grambling,Texas Southern,RUSHING,Dre',Fusilier,ATT,6
+9000094,11/7/2015,FCS,Grambling,Texas Southern,RUSHING,Dre',Fusilier,YDS,42
+9000095,11/7/2015,FCS,Grambling,Texas Southern,RUSHING,Dre',Fusilier,TD,0
+9000096,11/7/2015,FCS,Grambling,Texas Southern,RUSHING,Dre',Fusilier,LONG,15
+9000097,11/7/2015,FCS,Grambling,Texas Southern,RUSHING,Trevon,Cherry,ATT,1
+9000098,11/7/2015,FCS,Grambling,Texas Southern,RUSHING,Trevon,Cherry,YDS,31
+9000099,11/7/2015,FCS,Grambling,Texas Southern,RUSHING,Trevon,Cherry,TD,0
+9000100,11/7/2015,FCS,Grambling,Texas Southern,RUSHING,Trevon,Cherry,LONG,31
+9000101,11/7/2015,FCS,Grambling,Texas Southern,RUSHING,Johnathan,Williams,ATT,5
+9000102,11/7/2015,FCS,Grambling,Texas Southern,RUSHING,Johnathan,Williams,YDS,15
+9000103,11/7/2015,FCS,Grambling,Texas Southern,RUSHING,Johnathan,Williams,TD,0
+9000104,11/7/2015,FCS,Grambling,Texas Southern,RUSHING,Johnathan,Williams,LONG,15
+9000105,11/7/2015,FCS,Grambling,Texas Southern,RUSHING,Dominique,Leake,ATT,1
+9000106,11/7/2015,FCS,Grambling,Texas Southern,RUSHING,Dominique,Leake,YDS,7
+9000107,11/7/2015,FCS,Grambling,Texas Southern,RUSHING,Dominique,Leake,TD,0
+9000108,11/7/2015,FCS,Grambling,Texas Southern,RUSHING,Dominique,Leake,LONG,7
+9000109,11/7/2015,FCS,Grambling,Texas Southern,RUSHING,Koby,Lee,ATT,1
+9000110,11/7/2015,FCS,Grambling,Texas Southern,RUSHING,Koby,Lee,YDS,3
+9000111,11/7/2015,FCS,Grambling,Texas Southern,RUSHING,Koby,Lee,TD,0
+9000112,11/7/2015,FCS,Grambling,Texas Southern,RUSHING,Koby,Lee,LONG,3
+9000113,11/7/2015,FCS,Grambling,Texas Southern,PASSING,Johnathan,Williams,CP-ATT-INT,19-33-1
+9000114,11/7/2015,FCS,Grambling,Texas Southern,PASSING,Johnathan,Williams,YDS,197
+9000115,11/7/2015,FCS,Grambling,Texas Southern,PASSING,Johnathan,Williams,TD,3
+9000116,11/7/2015,FCS,Grambling,Texas Southern,PASSING,Johnathan,Williams,LONG,51
+9000117,11/7/2015,FCS,Grambling,Texas Southern,PASSING,Trevon,Cherry,CP-ATT-INT,0-5-2
+9000118,11/7/2015,FCS,Grambling,Texas Southern,PASSING,Trevon,Cherry,YDS,0
+9000119,11/7/2015,FCS,Grambling,Texas Southern,PASSING,Trevon,Cherry,TD,0
+9000120,11/7/2015,FCS,Grambling,Texas Southern,PASSING,Trevon,Cherry,LONG,0
+9000121,11/7/2015,FCS,Grambling,Texas Southern,RECEIVING,Verlon,Hunter,REC,3
+9000122,11/7/2015,FCS,Grambling,Texas Southern,RECEIVING,Verlon,Hunter,YDS,79
+9000123,11/7/2015,FCS,Grambling,Texas Southern,RECEIVING,Verlon,Hunter,TD,2
+9000124,11/7/2015,FCS,Grambling,Texas Southern,RECEIVING,Verlon,Hunter,LONG,51
+9000125,11/7/2015,FCS,Grambling,Texas Southern,RECEIVING,Chad,Williams,REC,6
+9000126,11/7/2015,FCS,Grambling,Texas Southern,RECEIVING,Chad,Williams,YDS,69
+9000127,11/7/2015,FCS,Grambling,Texas Southern,RECEIVING,Chad,Williams,TD,1
+9000128,11/7/2015,FCS,Grambling,Texas Southern,RECEIVING,Chad,Williams,LONG,29
+9000129,11/7/2015,FCS,Grambling,Texas Southern,RECEIVING,Martez,Carter,REC,1
+9000130,11/7/2015,FCS,Grambling,Texas Southern,RECEIVING,Martez,Carter,YDS,20
+9000131,11/7/2015,FCS,Grambling,Texas Southern,RECEIVING,Martez,Carter,TD,0
+9000132,11/7/2015,FCS,Grambling,Texas Southern,RECEIVING,Martez,Carter,LONG,20
+9000133,11/7/2015,FCS,Grambling,Texas Southern,RECEIVING,Brandon,Byrdsong,REC,2
+9000134,11/7/2015,FCS,Grambling,Texas Southern,RECEIVING,Brandon,Byrdsong,YDS,14
+9000135,11/7/2015,FCS,Grambling,Texas Southern,RECEIVING,Brandon,Byrdsong,TD,0
+9000136,11/7/2015,FCS,Grambling,Texas Southern,RECEIVING,Brandon,Byrdsong,LONG,8
+9000137,11/7/2015,FCS,Grambling,Texas Southern,RECEIVING,Ka'Jandre,Domino,REC,3
+9000138,11/7/2015,FCS,Grambling,Texas Southern,RECEIVING,Ka'Jandre,Domino,YDS,11
+9000139,11/7/2015,FCS,Grambling,Texas Southern,RECEIVING,Ka'Jandre,Domino,TD,0
+9000140,11/7/2015,FCS,Grambling,Texas Southern,RECEIVING,Ka'Jandre,Domino,LONG,6
+9000141,11/7/2015,FCS,Grambling,Texas Southern,RECEIVING,Chester,Rogers,REC,3
+9000142,11/7/2015,FCS,Grambling,Texas Southern,RECEIVING,Chester,Rogers,YDS,10
+9000143,11/7/2015,FCS,Grambling,Texas Southern,RECEIVING,Chester,Rogers,TD,0
+9000144,11/7/2015,FCS,Grambling,Texas Southern,RECEIVING,Chester,Rogers,LONG,6
+9000145,11/7/2015,FCS,Grambling,Texas Southern,RECEIVING,Chris,Bazile,REC,1
+9000146,11/7/2015,FCS,Grambling,Texas Southern,RECEIVING,Chris,Bazile,YDS,-6
+9000147,11/7/2015,FCS,Grambling,Texas Southern,RECEIVING,Chris,Bazile,TD,0
+9000148,11/7/2015,FCS,Grambling,Texas Southern,RECEIVING,Chris,Bazile,LONG,0
+9000149,11/7/2015,FCS,Grambling,Texas Southern,KICKING,Marc,Orozco,FG-FGA,2/3
+9000150,11/7/2015,FCS,Grambling,Texas Southern,KICKING,Marc,Orozco,LONG,39
+9000151,11/7/2015,FCS,Grambling,Texas Southern,KICKING,Marc,Orozco,XP,5
+9000152,11/7/2015,FCS,Grambling,Texas Southern,KICKING,Marc,Orozco,PTS,11
+9000153,11/7/2015,FCS,Grambling,Texas Southern,PUNTING,Jonathan,Wallace,NO,5
+9000154,11/7/2015,FCS,Grambling,Texas Southern,PUNTING,Jonathan,Wallace,YDS,142
+9000155,11/7/2015,FCS,Grambling,Texas Southern,PUNTING,Jonathan,Wallace,AVG,28.4
+9000156,11/7/2015,FCS,Grambling,Texas Southern,PUNTING,Jonathan,Wallace,LONG,48
+9000157,11/7/2015,FCS,Grambling,Texas Southern,PUNT RETURNS,Shawn,McClaine,NO,2
+9000158,11/7/2015,FCS,Grambling,Texas Southern,PUNT RETURNS,Shawn,McClaine,YDS,19
+9000159,11/7/2015,FCS,Grambling,Texas Southern,PUNT RETURNS,Shawn,McClaine,AVG,9.5
+9000160,11/7/2015,FCS,Grambling,Texas Southern,PUNT RETURNS,Shawn,McClaine,LONG,10
+9000161,11/7/2015,FCS,Grambling,Texas Southern,KICK RETURNS,Ka'Jandre,Domino,NO,2
+9000162,11/7/2015,FCS,Grambling,Texas Southern,KICK RETURNS,Ka'Jandre,Domino,YDS,31
+9000163,11/7/2015,FCS,Grambling,Texas Southern,KICK RETURNS,Ka'Jandre,Domino,AVG,15.5
+9000164,11/7/2015,FCS,Grambling,Texas Southern,KICK RETURNS,Ka'Jandre,Domino,LONG,20

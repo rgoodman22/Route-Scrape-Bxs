@@ -1,0 +1,153 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+10244001,9/23/2017,FCS,Princeton,Lafayette,RUSHING,Charlie,Volker,ATT,20
+10244002,9/23/2017,FCS,Princeton,Lafayette,RUSHING,Charlie,Volker,YDS,111
+10244003,9/23/2017,FCS,Princeton,Lafayette,RUSHING,Charlie,Volker,TD,1
+10244004,9/23/2017,FCS,Princeton,Lafayette,RUSHING,Charlie,Volker,LONG,19
+10244005,9/23/2017,FCS,Princeton,Lafayette,RUSHING,Ryan,Quigley,ATT,9
+10244006,9/23/2017,FCS,Princeton,Lafayette,RUSHING,Ryan,Quigley,YDS,53
+10244007,9/23/2017,FCS,Princeton,Lafayette,RUSHING,Ryan,Quigley,TD,1
+10244008,9/23/2017,FCS,Princeton,Lafayette,RUSHING,Ryan,Quigley,LONG,16
+10244009,9/23/2017,FCS,Princeton,Lafayette,RUSHING,Collin,Eaddy,ATT,5
+10244010,9/23/2017,FCS,Princeton,Lafayette,RUSHING,Collin,Eaddy,YDS,21
+10244011,9/23/2017,FCS,Princeton,Lafayette,RUSHING,Collin,Eaddy,TD,0
+10244012,9/23/2017,FCS,Princeton,Lafayette,RUSHING,Collin,Eaddy,LONG,13
+10244013,9/23/2017,FCS,Princeton,Lafayette,RUSHING,Jesper,Horsted,ATT,2
+10244014,9/23/2017,FCS,Princeton,Lafayette,RUSHING,Jesper,Horsted,YDS,8
+10244015,9/23/2017,FCS,Princeton,Lafayette,RUSHING,Jesper,Horsted,TD,0
+10244016,9/23/2017,FCS,Princeton,Lafayette,RUSHING,Jesper,Horsted,LONG,9
+10244017,9/23/2017,FCS,Princeton,Lafayette,RUSHING,Chad,Kanoff,ATT,4
+10244018,9/23/2017,FCS,Princeton,Lafayette,RUSHING,Chad,Kanoff,YDS,6
+10244019,9/23/2017,FCS,Princeton,Lafayette,RUSHING,Chad,Kanoff,TD,0
+10244020,9/23/2017,FCS,Princeton,Lafayette,RUSHING,Chad,Kanoff,LONG,11
+10244021,9/23/2017,FCS,Princeton,Lafayette,RUSHING,Kevin,Davidson,ATT,2
+10244022,9/23/2017,FCS,Princeton,Lafayette,RUSHING,Kevin,Davidson,YDS,1
+10244023,9/23/2017,FCS,Princeton,Lafayette,RUSHING,Kevin,Davidson,TD,0
+10244024,9/23/2017,FCS,Princeton,Lafayette,RUSHING,Kevin,Davidson,LONG,3
+10244025,9/23/2017,FCS,Princeton,Lafayette,RUSHING,,Team,ATT,3
+10244026,9/23/2017,FCS,Princeton,Lafayette,RUSHING,,Team,YDS,-6
+10244027,9/23/2017,FCS,Princeton,Lafayette,RUSHING,,Team,TD,0
+10244028,9/23/2017,FCS,Princeton,Lafayette,RUSHING,,Team,LONG,0
+10244029,9/23/2017,FCS,Princeton,Lafayette,PASSING,Chad,Kanoff,CP-ATT-INT,31-41-2
+10244030,9/23/2017,FCS,Princeton,Lafayette,PASSING,Chad,Kanoff,YDS,256
+10244031,9/23/2017,FCS,Princeton,Lafayette,PASSING,Chad,Kanoff,TD,3
+10244032,9/23/2017,FCS,Princeton,Lafayette,PASSING,Chad,Kanoff,LONG,22
+10244033,9/23/2017,FCS,Princeton,Lafayette,PASSING,Kevin,Davidson,CP-ATT-INT,0-1-0
+10244034,9/23/2017,FCS,Princeton,Lafayette,PASSING,Kevin,Davidson,YDS,0
+10244035,9/23/2017,FCS,Princeton,Lafayette,PASSING,Kevin,Davidson,TD,0
+10244036,9/23/2017,FCS,Princeton,Lafayette,PASSING,Kevin,Davidson,LONG,0
+10244037,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Jesper,Horsted,REC,6
+10244038,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Jesper,Horsted,YDS,58
+10244039,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Jesper,Horsted,TD,2
+10244040,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Jesper,Horsted,LONG,22
+10244041,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Stephen,Carlson,REC,5
+10244042,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Stephen,Carlson,YDS,52
+10244043,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Stephen,Carlson,TD,0
+10244044,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Stephen,Carlson,LONG,20
+10244045,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Alex,Parkinson,REC,4
+10244046,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Alex,Parkinson,YDS,42
+10244047,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Alex,Parkinson,TD,1
+10244048,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Alex,Parkinson,LONG,14
+10244049,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Tiger,Bech,REC,4
+10244050,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Tiger,Bech,YDS,28
+10244051,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Tiger,Bech,TD,0
+10244052,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Tiger,Bech,LONG,11
+10244053,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Graham,Adomitis,REC,3
+10244054,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Graham,Adomitis,YDS,23
+10244055,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Graham,Adomitis,TD,0
+10244056,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Graham,Adomitis,LONG,11
+10244057,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Charlie,Volker,REC,1
+10244058,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Charlie,Volker,YDS,16
+10244059,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Charlie,Volker,TD,0
+10244060,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Charlie,Volker,LONG,16
+10244061,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Ryan,Quigley,REC,4
+10244062,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Ryan,Quigley,YDS,12
+10244063,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Ryan,Quigley,TD,0
+10244064,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Ryan,Quigley,LONG,9
+10244065,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Jordan,Argue,REC,1
+10244066,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Jordan,Argue,YDS,12
+10244067,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Jordan,Argue,TD,0
+10244068,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Jordan,Argue,LONG,12
+10244069,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Kevin,Davidson,REC,1
+10244070,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Kevin,Davidson,YDS,8
+10244071,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Kevin,Davidson,TD,0
+10244072,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Kevin,Davidson,LONG,8
+10244073,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Cody,Smith,REC,2
+10244074,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Cody,Smith,YDS,5
+10244075,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Cody,Smith,TD,0
+10244076,9/23/2017,FCS,Princeton,Lafayette,RECEIVING,Cody,Smith,LONG,4
+10244077,9/23/2017,FCS,Princeton,Lafayette,KICKING,Tavish,Rice,FG-FGA,1/1
+10244078,9/23/2017,FCS,Princeton,Lafayette,KICKING,Tavish,Rice,LONG,25
+10244079,9/23/2017,FCS,Princeton,Lafayette,KICKING,Tavish,Rice,XP,5
+10244080,9/23/2017,FCS,Princeton,Lafayette,KICKING,Tavish,Rice,PTS,8
+10244081,9/23/2017,FCS,Princeton,Lafayette,PUNTING,Antonio,Ferrer,NO,1
+10244082,9/23/2017,FCS,Princeton,Lafayette,PUNTING,Antonio,Ferrer,YDS,40
+10244083,9/23/2017,FCS,Princeton,Lafayette,PUNTING,Antonio,Ferrer,AVG,40.0
+10244084,9/23/2017,FCS,Princeton,Lafayette,PUNTING,Antonio,Ferrer,LONG,40
+10244085,9/23/2017,FCS,Princeton,Lafayette,KICK RETURNS,Tiger,Bech,NO,4
+10244086,9/23/2017,FCS,Princeton,Lafayette,KICK RETURNS,Tiger,Bech,YDS,113
+10244087,9/23/2017,FCS,Princeton,Lafayette,KICK RETURNS,Tiger,Bech,AVG,28.2
+10244088,9/23/2017,FCS,Princeton,Lafayette,KICK RETURNS,Tiger,Bech,LONG,51
+10244089,9/23/2017,FCS,Lafayette,Princeton,RUSHING,DeSean,Brown,ATT,9
+10244090,9/23/2017,FCS,Lafayette,Princeton,RUSHING,DeSean,Brown,YDS,45
+10244091,9/23/2017,FCS,Lafayette,Princeton,RUSHING,DeSean,Brown,TD,0
+10244092,9/23/2017,FCS,Lafayette,Princeton,RUSHING,DeSean,Brown,LONG,15
+10244093,9/23/2017,FCS,Lafayette,Princeton,RUSHING,C.J.,Amill,ATT,2
+10244094,9/23/2017,FCS,Lafayette,Princeton,RUSHING,C.J.,Amill,YDS,4
+10244095,9/23/2017,FCS,Lafayette,Princeton,RUSHING,C.J.,Amill,TD,0
+10244096,9/23/2017,FCS,Lafayette,Princeton,RUSHING,C.J.,Amill,LONG,2
+10244097,9/23/2017,FCS,Lafayette,Princeton,RUSHING,Sean,O'Malley,ATT,6
+10244098,9/23/2017,FCS,Lafayette,Princeton,RUSHING,Sean,O'Malley,YDS,-13
+10244099,9/23/2017,FCS,Lafayette,Princeton,RUSHING,Sean,O'Malley,TD,0
+10244100,9/23/2017,FCS,Lafayette,Princeton,RUSHING,Sean,O'Malley,LONG,5
+10244101,9/23/2017,FCS,Lafayette,Princeton,PASSING,Sean,O'Malley,CP-ATT-INT,30-44-1
+10244102,9/23/2017,FCS,Lafayette,Princeton,PASSING,Sean,O'Malley,YDS,325
+10244103,9/23/2017,FCS,Lafayette,Princeton,PASSING,Sean,O'Malley,TD,2
+10244104,9/23/2017,FCS,Lafayette,Princeton,PASSING,Sean,O'Malley,LONG,70
+10244105,9/23/2017,FCS,Lafayette,Princeton,RECEIVING,Joey,Chenoweth,REC,4
+10244106,9/23/2017,FCS,Lafayette,Princeton,RECEIVING,Joey,Chenoweth,YDS,113
+10244107,9/23/2017,FCS,Lafayette,Princeton,RECEIVING,Joey,Chenoweth,TD,1
+10244108,9/23/2017,FCS,Lafayette,Princeton,RECEIVING,Joey,Chenoweth,LONG,70
+10244109,9/23/2017,FCS,Lafayette,Princeton,RECEIVING,Dylan,Wadsworth,REC,6
+10244110,9/23/2017,FCS,Lafayette,Princeton,RECEIVING,Dylan,Wadsworth,YDS,71
+10244111,9/23/2017,FCS,Lafayette,Princeton,RECEIVING,Dylan,Wadsworth,TD,1
+10244112,9/23/2017,FCS,Lafayette,Princeton,RECEIVING,Dylan,Wadsworth,LONG,19
+10244113,9/23/2017,FCS,Lafayette,Princeton,RECEIVING,Rocco,Palumbo,REC,6
+10244114,9/23/2017,FCS,Lafayette,Princeton,RECEIVING,Rocco,Palumbo,YDS,47
+10244115,9/23/2017,FCS,Lafayette,Princeton,RECEIVING,Rocco,Palumbo,TD,0
+10244116,9/23/2017,FCS,Lafayette,Princeton,RECEIVING,Rocco,Palumbo,LONG,13
+10244117,9/23/2017,FCS,Lafayette,Princeton,RECEIVING,Matt,Mrazek,REC,4
+10244118,9/23/2017,FCS,Lafayette,Princeton,RECEIVING,Matt,Mrazek,YDS,34
+10244119,9/23/2017,FCS,Lafayette,Princeton,RECEIVING,Matt,Mrazek,TD,0
+10244120,9/23/2017,FCS,Lafayette,Princeton,RECEIVING,Matt,Mrazek,LONG,14
+10244121,9/23/2017,FCS,Lafayette,Princeton,RECEIVING,DeSean,Brown,REC,6
+10244122,9/23/2017,FCS,Lafayette,Princeton,RECEIVING,DeSean,Brown,YDS,29
+10244123,9/23/2017,FCS,Lafayette,Princeton,RECEIVING,DeSean,Brown,TD,0
+10244124,9/23/2017,FCS,Lafayette,Princeton,RECEIVING,DeSean,Brown,LONG,11
+10244125,9/23/2017,FCS,Lafayette,Princeton,RECEIVING,C.J.,Amill,REC,3
+10244126,9/23/2017,FCS,Lafayette,Princeton,RECEIVING,C.J.,Amill,YDS,16
+10244127,9/23/2017,FCS,Lafayette,Princeton,RECEIVING,C.J.,Amill,TD,0
+10244128,9/23/2017,FCS,Lafayette,Princeton,RECEIVING,C.J.,Amill,LONG,19
+10244129,9/23/2017,FCS,Lafayette,Princeton,RECEIVING,Jake,Taggart,REC,1
+10244130,9/23/2017,FCS,Lafayette,Princeton,RECEIVING,Jake,Taggart,YDS,15
+10244131,9/23/2017,FCS,Lafayette,Princeton,RECEIVING,Jake,Taggart,TD,0
+10244132,9/23/2017,FCS,Lafayette,Princeton,RECEIVING,Jake,Taggart,LONG,15
+10244133,9/23/2017,FCS,Lafayette,Princeton,KICKING,Jeffrey,Kordenbrock,FG-FGA,1/3
+10244134,9/23/2017,FCS,Lafayette,Princeton,KICKING,Jeffrey,Kordenbrock,LONG,22
+10244135,9/23/2017,FCS,Lafayette,Princeton,KICKING,Jeffrey,Kordenbrock,XP,2
+10244136,9/23/2017,FCS,Lafayette,Princeton,KICKING,Jeffrey,Kordenbrock,PTS,5
+10244137,9/23/2017,FCS,Lafayette,Princeton,PUNTING,Michael,Turk,NO,3
+10244138,9/23/2017,FCS,Lafayette,Princeton,PUNTING,Michael,Turk,YDS,149
+10244139,9/23/2017,FCS,Lafayette,Princeton,PUNTING,Michael,Turk,AVG,49.7
+10244140,9/23/2017,FCS,Lafayette,Princeton,PUNTING,Michael,Turk,LONG,61
+10244141,9/23/2017,FCS,Lafayette,Princeton,PUNT RETURNS,Joey,Chenoweth,NO,1
+10244142,9/23/2017,FCS,Lafayette,Princeton,PUNT RETURNS,Joey,Chenoweth,YDS,6
+10244143,9/23/2017,FCS,Lafayette,Princeton,PUNT RETURNS,Joey,Chenoweth,AVG,6.0
+10244144,9/23/2017,FCS,Lafayette,Princeton,PUNT RETURNS,Joey,Chenoweth,LONG,6
+10244145,9/23/2017,FCS,Lafayette,Princeton,KICK RETURNS,Rajhan,Meriwether,NO,2
+10244146,9/23/2017,FCS,Lafayette,Princeton,KICK RETURNS,Rajhan,Meriwether,YDS,19
+10244147,9/23/2017,FCS,Lafayette,Princeton,KICK RETURNS,Rajhan,Meriwether,AVG,9.5
+10244148,9/23/2017,FCS,Lafayette,Princeton,KICK RETURNS,Rajhan,Meriwether,LONG,13
+10244149,9/23/2017,FCS,Lafayette,Princeton,KICK RETURNS,Selwyn,Simpson,NO,1
+10244150,9/23/2017,FCS,Lafayette,Princeton,KICK RETURNS,Selwyn,Simpson,YDS,3
+10244151,9/23/2017,FCS,Lafayette,Princeton,KICK RETURNS,Selwyn,Simpson,AVG,3.0
+10244152,9/23/2017,FCS,Lafayette,Princeton,KICK RETURNS,Selwyn,Simpson,LONG,3

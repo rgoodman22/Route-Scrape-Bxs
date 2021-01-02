@@ -1,0 +1,184 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+11980001,10/12/2019,FCS,Delaware St.,Morgan St.,RUSHING,Richard,Harris,ATT,21
+11980002,10/12/2019,FCS,Delaware St.,Morgan St.,RUSHING,Richard,Harris,YDS,151
+11980003,10/12/2019,FCS,Delaware St.,Morgan St.,RUSHING,Richard,Harris,TD,0
+11980004,10/12/2019,FCS,Delaware St.,Morgan St.,RUSHING,Richard,Harris,LONG,41
+11980005,10/12/2019,FCS,Delaware St.,Morgan St.,RUSHING,Bryant,Dallas,ATT,3
+11980006,10/12/2019,FCS,Delaware St.,Morgan St.,RUSHING,Bryant,Dallas,YDS,14
+11980007,10/12/2019,FCS,Delaware St.,Morgan St.,RUSHING,Bryant,Dallas,TD,0
+11980008,10/12/2019,FCS,Delaware St.,Morgan St.,RUSHING,Bryant,Dallas,LONG,12
+11980009,10/12/2019,FCS,Delaware St.,Morgan St.,RUSHING,Tylik,Bethea,ATT,8
+11980010,10/12/2019,FCS,Delaware St.,Morgan St.,RUSHING,Tylik,Bethea,YDS,-20
+11980011,10/12/2019,FCS,Delaware St.,Morgan St.,RUSHING,Tylik,Bethea,TD,0
+11980012,10/12/2019,FCS,Delaware St.,Morgan St.,RUSHING,Tylik,Bethea,LONG,8
+11980013,10/12/2019,FCS,Delaware St.,Morgan St.,PASSING,Tylik,Bethea,CP-ATT-INT,13-31-0
+11980014,10/12/2019,FCS,Delaware St.,Morgan St.,PASSING,Tylik,Bethea,YDS,151
+11980015,10/12/2019,FCS,Delaware St.,Morgan St.,PASSING,Tylik,Bethea,TD,0
+11980016,10/12/2019,FCS,Delaware St.,Morgan St.,PASSING,Tylik,Bethea,LONG,35
+11980017,10/12/2019,FCS,Delaware St.,Morgan St.,RECEIVING,Trey,Gross,REC,5
+11980018,10/12/2019,FCS,Delaware St.,Morgan St.,RECEIVING,Trey,Gross,YDS,60
+11980019,10/12/2019,FCS,Delaware St.,Morgan St.,RECEIVING,Trey,Gross,TD,0
+11980020,10/12/2019,FCS,Delaware St.,Morgan St.,RECEIVING,Trey,Gross,LONG,35
+11980021,10/12/2019,FCS,Delaware St.,Morgan St.,RECEIVING,Kwannah,Kollie,REC,3
+11980022,10/12/2019,FCS,Delaware St.,Morgan St.,RECEIVING,Kwannah,Kollie,YDS,40
+11980023,10/12/2019,FCS,Delaware St.,Morgan St.,RECEIVING,Kwannah,Kollie,TD,0
+11980024,10/12/2019,FCS,Delaware St.,Morgan St.,RECEIVING,Kwannah,Kollie,LONG,23
+11980025,10/12/2019,FCS,Delaware St.,Morgan St.,RECEIVING,Corahn,Alleyne,REC,2
+11980026,10/12/2019,FCS,Delaware St.,Morgan St.,RECEIVING,Corahn,Alleyne,YDS,19
+11980027,10/12/2019,FCS,Delaware St.,Morgan St.,RECEIVING,Corahn,Alleyne,TD,0
+11980028,10/12/2019,FCS,Delaware St.,Morgan St.,RECEIVING,Corahn,Alleyne,LONG,13
+11980029,10/12/2019,FCS,Delaware St.,Morgan St.,RECEIVING,Bizzet,Woodley,REC,1
+11980030,10/12/2019,FCS,Delaware St.,Morgan St.,RECEIVING,Bizzet,Woodley,YDS,18
+11980031,10/12/2019,FCS,Delaware St.,Morgan St.,RECEIVING,Bizzet,Woodley,TD,0
+11980032,10/12/2019,FCS,Delaware St.,Morgan St.,RECEIVING,Bizzet,Woodley,LONG,18
+11980033,10/12/2019,FCS,Delaware St.,Morgan St.,RECEIVING,Richard,Harris,REC,1
+11980034,10/12/2019,FCS,Delaware St.,Morgan St.,RECEIVING,Richard,Harris,YDS,9
+11980035,10/12/2019,FCS,Delaware St.,Morgan St.,RECEIVING,Richard,Harris,TD,0
+11980036,10/12/2019,FCS,Delaware St.,Morgan St.,RECEIVING,Richard,Harris,LONG,9
+11980037,10/12/2019,FCS,Delaware St.,Morgan St.,RECEIVING,Bryant,Dallas,REC,1
+11980038,10/12/2019,FCS,Delaware St.,Morgan St.,RECEIVING,Bryant,Dallas,YDS,5
+11980039,10/12/2019,FCS,Delaware St.,Morgan St.,RECEIVING,Bryant,Dallas,TD,0
+11980040,10/12/2019,FCS,Delaware St.,Morgan St.,RECEIVING,Bryant,Dallas,LONG,5
+11980041,10/12/2019,FCS,Delaware St.,Morgan St.,KICKING,Jose,Romo-Martinez,FG-FGA,1/2
+11980042,10/12/2019,FCS,Delaware St.,Morgan St.,KICKING,Jose,Romo-Martinez,LONG,37
+11980043,10/12/2019,FCS,Delaware St.,Morgan St.,KICKING,Jose,Romo-Martinez,XP,0
+11980044,10/12/2019,FCS,Delaware St.,Morgan St.,KICKING,Jose,Romo-Martinez,PTS,3
+11980045,10/12/2019,FCS,Delaware St.,Morgan St.,PUNTING,Jose,Romo-Martinez,NO,6
+11980046,10/12/2019,FCS,Delaware St.,Morgan St.,PUNTING,Jose,Romo-Martinez,YDS,212
+11980047,10/12/2019,FCS,Delaware St.,Morgan St.,PUNTING,Jose,Romo-Martinez,AVG,35.3
+11980048,10/12/2019,FCS,Delaware St.,Morgan St.,PUNTING,Jose,Romo-Martinez,LONG,45
+11980049,10/12/2019,FCS,Delaware St.,Morgan St.,PUNT RETURNS,Keenan,Black,NO,2
+11980050,10/12/2019,FCS,Delaware St.,Morgan St.,PUNT RETURNS,Keenan,Black,YDS,2
+11980051,10/12/2019,FCS,Delaware St.,Morgan St.,PUNT RETURNS,Keenan,Black,AVG,1.0
+11980052,10/12/2019,FCS,Delaware St.,Morgan St.,PUNT RETURNS,Keenan,Black,LONG,0
+11980053,10/12/2019,FCS,Delaware St.,Morgan St.,KICK RETURNS,Jordan,Hannah,NO,4
+11980054,10/12/2019,FCS,Delaware St.,Morgan St.,KICK RETURNS,Jordan,Hannah,YDS,86
+11980055,10/12/2019,FCS,Delaware St.,Morgan St.,KICK RETURNS,Jordan,Hannah,AVG,21.5
+11980056,10/12/2019,FCS,Delaware St.,Morgan St.,KICK RETURNS,Jordan,Hannah,LONG,34
+11980057,10/12/2019,FCS,Delaware St.,Morgan St.,KICK RETURNS,Corahn,Alleyne,NO,2
+11980058,10/12/2019,FCS,Delaware St.,Morgan St.,KICK RETURNS,Corahn,Alleyne,YDS,35
+11980059,10/12/2019,FCS,Delaware St.,Morgan St.,KICK RETURNS,Corahn,Alleyne,AVG,17.5
+11980060,10/12/2019,FCS,Delaware St.,Morgan St.,KICK RETURNS,Corahn,Alleyne,LONG,21
+11980061,10/12/2019,FCS,Delaware St.,Morgan St.,DEFENSE,Brooks,Parker,TOT,0
+11980062,10/12/2019,FCS,Delaware St.,Morgan St.,DEFENSE,Brooks,Parker,SOLO,0
+11980063,10/12/2019,FCS,Delaware St.,Morgan St.,DEFENSE,Brooks,Parker,SACKS,1
+11980064,10/12/2019,FCS,Delaware St.,Morgan St.,DEFENSE,Brooks,Parker,TFL,0
+11980065,10/12/2019,FCS,Delaware St.,Morgan St.,DEFENSE,Brooks,Parker,INT,0
+11980066,10/12/2019,FCS,Delaware St.,Morgan St.,DEFENSE,Brooks,Parker,FF,0
+11980067,10/12/2019,FCS,Delaware St.,Morgan St.,DEFENSE,Brooks,Parker,FR,0
+11980068,10/12/2019,FCS,Delaware St.,Morgan St.,DEFENSE,Olivier,Muembi,TOT,0
+11980069,10/12/2019,FCS,Delaware St.,Morgan St.,DEFENSE,Olivier,Muembi,SOLO,0
+11980070,10/12/2019,FCS,Delaware St.,Morgan St.,DEFENSE,Olivier,Muembi,SACKS,1
+11980071,10/12/2019,FCS,Delaware St.,Morgan St.,DEFENSE,Olivier,Muembi,TFL,0
+11980072,10/12/2019,FCS,Delaware St.,Morgan St.,DEFENSE,Olivier,Muembi,INT,0
+11980073,10/12/2019,FCS,Delaware St.,Morgan St.,DEFENSE,Olivier,Muembi,FF,0
+11980074,10/12/2019,FCS,Delaware St.,Morgan St.,DEFENSE,Olivier,Muembi,FR,0
+11980075,10/12/2019,FCS,Delaware St.,Morgan St.,DEFENSE,Brandon,Carswell,TOT,0
+11980076,10/12/2019,FCS,Delaware St.,Morgan St.,DEFENSE,Brandon,Carswell,SOLO,0
+11980077,10/12/2019,FCS,Delaware St.,Morgan St.,DEFENSE,Brandon,Carswell,SACKS,1
+11980078,10/12/2019,FCS,Delaware St.,Morgan St.,DEFENSE,Brandon,Carswell,TFL,0
+11980079,10/12/2019,FCS,Delaware St.,Morgan St.,DEFENSE,Brandon,Carswell,INT,0
+11980080,10/12/2019,FCS,Delaware St.,Morgan St.,DEFENSE,Brandon,Carswell,FF,0
+11980081,10/12/2019,FCS,Delaware St.,Morgan St.,DEFENSE,Brandon,Carswell,FR,0
+11980082,10/12/2019,FCS,Morgan St.,Delaware St.,RUSHING,Joshua,Chase,ATT,19
+11980083,10/12/2019,FCS,Morgan St.,Delaware St.,RUSHING,Joshua,Chase,YDS,116
+11980084,10/12/2019,FCS,Morgan St.,Delaware St.,RUSHING,Joshua,Chase,TD,2
+11980085,10/12/2019,FCS,Morgan St.,Delaware St.,RUSHING,Joshua,Chase,LONG,33
+11980086,10/12/2019,FCS,Morgan St.,Delaware St.,RUSHING,Eric,Roy,ATT,10
+11980087,10/12/2019,FCS,Morgan St.,Delaware St.,RUSHING,Eric,Roy,YDS,48
+11980088,10/12/2019,FCS,Morgan St.,Delaware St.,RUSHING,Eric,Roy,TD,0
+11980089,10/12/2019,FCS,Morgan St.,Delaware St.,RUSHING,Eric,Roy,LONG,10
+11980090,10/12/2019,FCS,Morgan St.,Delaware St.,RUSHING,Andrew,Howell,ATT,7
+11980091,10/12/2019,FCS,Morgan St.,Delaware St.,RUSHING,Andrew,Howell,YDS,33
+11980092,10/12/2019,FCS,Morgan St.,Delaware St.,RUSHING,Andrew,Howell,TD,0
+11980093,10/12/2019,FCS,Morgan St.,Delaware St.,RUSHING,Andrew,Howell,LONG,20
+11980094,10/12/2019,FCS,Morgan St.,Delaware St.,RUSHING,E'Munn,Parker,ATT,6
+11980095,10/12/2019,FCS,Morgan St.,Delaware St.,RUSHING,E'Munn,Parker,YDS,9
+11980096,10/12/2019,FCS,Morgan St.,Delaware St.,RUSHING,E'Munn,Parker,TD,0
+11980097,10/12/2019,FCS,Morgan St.,Delaware St.,RUSHING,E'Munn,Parker,LONG,6
+11980098,10/12/2019,FCS,Morgan St.,Delaware St.,RUSHING,DeAndre,Harris,ATT,8
+11980099,10/12/2019,FCS,Morgan St.,Delaware St.,RUSHING,DeAndre,Harris,YDS,9
+11980100,10/12/2019,FCS,Morgan St.,Delaware St.,RUSHING,DeAndre,Harris,TD,0
+11980101,10/12/2019,FCS,Morgan St.,Delaware St.,RUSHING,DeAndre,Harris,LONG,13
+11980102,10/12/2019,FCS,Morgan St.,Delaware St.,PASSING,DeAndre,Harris,CP-ATT-INT,11-19-0
+11980103,10/12/2019,FCS,Morgan St.,Delaware St.,PASSING,DeAndre,Harris,YDS,161
+11980104,10/12/2019,FCS,Morgan St.,Delaware St.,PASSING,DeAndre,Harris,TD,2
+11980105,10/12/2019,FCS,Morgan St.,Delaware St.,PASSING,DeAndre,Harris,LONG,27
+11980106,10/12/2019,FCS,Morgan St.,Delaware St.,RECEIVING,Manasseh,Bailey,REC,6
+11980107,10/12/2019,FCS,Morgan St.,Delaware St.,RECEIVING,Manasseh,Bailey,YDS,106
+11980108,10/12/2019,FCS,Morgan St.,Delaware St.,RECEIVING,Manasseh,Bailey,TD,1
+11980109,10/12/2019,FCS,Morgan St.,Delaware St.,RECEIVING,Manasseh,Bailey,LONG,26
+11980110,10/12/2019,FCS,Morgan St.,Delaware St.,RECEIVING,Jordan,Cofield,REC,4
+11980111,10/12/2019,FCS,Morgan St.,Delaware St.,RECEIVING,Jordan,Cofield,YDS,50
+11980112,10/12/2019,FCS,Morgan St.,Delaware St.,RECEIVING,Jordan,Cofield,TD,1
+11980113,10/12/2019,FCS,Morgan St.,Delaware St.,RECEIVING,Jordan,Cofield,LONG,27
+11980114,10/12/2019,FCS,Morgan St.,Delaware St.,RECEIVING,Andrew,Howell,REC,1
+11980115,10/12/2019,FCS,Morgan St.,Delaware St.,RECEIVING,Andrew,Howell,YDS,5
+11980116,10/12/2019,FCS,Morgan St.,Delaware St.,RECEIVING,Andrew,Howell,TD,0
+11980117,10/12/2019,FCS,Morgan St.,Delaware St.,RECEIVING,Andrew,Howell,LONG,5
+11980118,10/12/2019,FCS,Morgan St.,Delaware St.,KICKING,Nicholas,O'Shea,FG-FGA,2/2
+11980119,10/12/2019,FCS,Morgan St.,Delaware St.,KICKING,Nicholas,O'Shea,LONG,38
+11980120,10/12/2019,FCS,Morgan St.,Delaware St.,KICKING,Nicholas,O'Shea,XP,4
+11980121,10/12/2019,FCS,Morgan St.,Delaware St.,KICKING,Nicholas,O'Shea,PTS,10
+11980122,10/12/2019,FCS,Morgan St.,Delaware St.,PUNTING,Nicholas,O'Shea,NO,6
+11980123,10/12/2019,FCS,Morgan St.,Delaware St.,PUNTING,Nicholas,O'Shea,YDS,245
+11980124,10/12/2019,FCS,Morgan St.,Delaware St.,PUNTING,Nicholas,O'Shea,AVG,40.8
+11980125,10/12/2019,FCS,Morgan St.,Delaware St.,PUNTING,Nicholas,O'Shea,LONG,58
+11980126,10/12/2019,FCS,Morgan St.,Delaware St.,PUNT RETURNS,Wesley,Wolfolk,NO,3
+11980127,10/12/2019,FCS,Morgan St.,Delaware St.,PUNT RETURNS,Wesley,Wolfolk,YDS,57
+11980128,10/12/2019,FCS,Morgan St.,Delaware St.,PUNT RETURNS,Wesley,Wolfolk,AVG,19.0
+11980129,10/12/2019,FCS,Morgan St.,Delaware St.,PUNT RETURNS,Wesley,Wolfolk,LONG,23
+11980130,10/12/2019,FCS,Morgan St.,Delaware St.,PUNT RETURNS,Deontaye,White,NO,1
+11980131,10/12/2019,FCS,Morgan St.,Delaware St.,PUNT RETURNS,Deontaye,White,YDS,17
+11980132,10/12/2019,FCS,Morgan St.,Delaware St.,PUNT RETURNS,Deontaye,White,AVG,17.0
+11980133,10/12/2019,FCS,Morgan St.,Delaware St.,PUNT RETURNS,Deontaye,White,LONG,17
+11980134,10/12/2019,FCS,Morgan St.,Delaware St.,KICK RETURNS,Juane,Robinson,NO,1
+11980135,10/12/2019,FCS,Morgan St.,Delaware St.,KICK RETURNS,Juane,Robinson,YDS,29
+11980136,10/12/2019,FCS,Morgan St.,Delaware St.,KICK RETURNS,Juane,Robinson,AVG,29.0
+11980137,10/12/2019,FCS,Morgan St.,Delaware St.,KICK RETURNS,Juane,Robinson,LONG,29
+11980138,10/12/2019,FCS,Morgan St.,Delaware St.,KICK RETURNS,Andrew,Howell,NO,1
+11980139,10/12/2019,FCS,Morgan St.,Delaware St.,KICK RETURNS,Andrew,Howell,YDS,15
+11980140,10/12/2019,FCS,Morgan St.,Delaware St.,KICK RETURNS,Andrew,Howell,AVG,15.0
+11980141,10/12/2019,FCS,Morgan St.,Delaware St.,KICK RETURNS,Andrew,Howell,LONG,15
+11980142,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,Chima,Dunga,TOT,0
+11980143,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,Chima,Dunga,SOLO,0
+11980144,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,Chima,Dunga,SACKS,1
+11980145,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,Chima,Dunga,TFL,0
+11980146,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,Chima,Dunga,INT,0
+11980147,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,Chima,Dunga,FF,0
+11980148,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,Chima,Dunga,FR,0
+11980149,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,Maurice,LewisJr.,TOT,0
+11980150,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,Maurice,LewisJr.,SOLO,0
+11980151,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,Maurice,LewisJr.,SACKS,0
+11980152,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,Maurice,LewisJr.,TFL,0
+11980153,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,Maurice,LewisJr.,INT,0
+11980154,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,Maurice,LewisJr.,FF,0
+11980155,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,Maurice,LewisJr.,FR,1
+11980156,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,Rico,Kennedy,TOT,0
+11980157,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,Rico,Kennedy,SOLO,0
+11980158,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,Rico,Kennedy,SACKS,0.5
+11980159,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,Rico,Kennedy,TFL,0
+11980160,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,Rico,Kennedy,INT,0
+11980161,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,Rico,Kennedy,FF,0
+11980162,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,Rico,Kennedy,FR,0
+11980163,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,Colby,Warrior,TOT,0
+11980164,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,Colby,Warrior,SOLO,0
+11980165,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,Colby,Warrior,SACKS,1
+11980166,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,Colby,Warrior,TFL,0
+11980167,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,Colby,Warrior,INT,0
+11980168,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,Colby,Warrior,FF,0
+11980169,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,Colby,Warrior,FR,0
+11980170,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,Malachi,Washington,TOT,0
+11980171,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,Malachi,Washington,SOLO,0
+11980172,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,Malachi,Washington,SACKS,0.5
+11980173,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,Malachi,Washington,TFL,0
+11980174,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,Malachi,Washington,INT,0
+11980175,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,Malachi,Washington,FF,0
+11980176,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,Malachi,Washington,FR,0
+11980177,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,,Team,TOT,0
+11980178,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,,Team,SOLO,0
+11980179,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,,Team,SACKS,0
+11980180,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,,Team,TFL,0
+11980181,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,,Team,INT,0
+11980182,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,,Team,FF,1
+11980183,10/12/2019,FCS,Morgan St.,Delaware St.,DEFENSE,,Team,FR,0

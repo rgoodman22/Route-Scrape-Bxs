@@ -1,0 +1,149 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+8169001,11/1/2014,FCS,Villanova,Richmond,RUSHING,John,Robertson,ATT,22
+8169002,11/1/2014,FCS,Villanova,Richmond,RUSHING,John,Robertson,YDS,65
+8169003,11/1/2014,FCS,Villanova,Richmond,RUSHING,John,Robertson,TD,0
+8169004,11/1/2014,FCS,Villanova,Richmond,RUSHING,John,Robertson,LONG,11
+8169005,11/1/2014,FCS,Villanova,Richmond,RUSHING,Kevin,Monangai,ATT,18
+8169006,11/1/2014,FCS,Villanova,Richmond,RUSHING,Kevin,Monangai,YDS,52
+8169007,11/1/2014,FCS,Villanova,Richmond,RUSHING,Kevin,Monangai,TD,0
+8169008,11/1/2014,FCS,Villanova,Richmond,RUSHING,Kevin,Monangai,LONG,15
+8169009,11/1/2014,FCS,Villanova,Richmond,RUSHING,Austin,Medley,ATT,3
+8169010,11/1/2014,FCS,Villanova,Richmond,RUSHING,Austin,Medley,YDS,13
+8169011,11/1/2014,FCS,Villanova,Richmond,RUSHING,Austin,Medley,TD,0
+8169012,11/1/2014,FCS,Villanova,Richmond,RUSHING,Austin,Medley,LONG,7
+8169013,11/1/2014,FCS,Villanova,Richmond,RUSHING,,Team,ATT,1
+8169014,11/1/2014,FCS,Villanova,Richmond,RUSHING,,Team,YDS,-16
+8169015,11/1/2014,FCS,Villanova,Richmond,RUSHING,,Team,TD,0
+8169016,11/1/2014,FCS,Villanova,Richmond,RUSHING,,Team,LONG,0
+8169017,11/1/2014,FCS,Villanova,Richmond,PASSING,John,Robertson,CP-ATT-INT,12-25-1
+8169018,11/1/2014,FCS,Villanova,Richmond,PASSING,John,Robertson,YDS,139
+8169019,11/1/2014,FCS,Villanova,Richmond,PASSING,John,Robertson,TD,1
+8169020,11/1/2014,FCS,Villanova,Richmond,PASSING,John,Robertson,LONG,42
+8169021,11/1/2014,FCS,Villanova,Richmond,PASSING,Chris,Polony,CP-ATT-INT,0-1-1
+8169022,11/1/2014,FCS,Villanova,Richmond,PASSING,Chris,Polony,YDS,0
+8169023,11/1/2014,FCS,Villanova,Richmond,PASSING,Chris,Polony,TD,0
+8169024,11/1/2014,FCS,Villanova,Richmond,PASSING,Chris,Polony,LONG,0
+8169025,11/1/2014,FCS,Villanova,Richmond,RECEIVING,Poppy,Livers,REC,2
+8169026,11/1/2014,FCS,Villanova,Richmond,RECEIVING,Poppy,Livers,YDS,54
+8169027,11/1/2014,FCS,Villanova,Richmond,RECEIVING,Poppy,Livers,TD,0
+8169028,11/1/2014,FCS,Villanova,Richmond,RECEIVING,Poppy,Livers,LONG,42
+8169029,11/1/2014,FCS,Villanova,Richmond,RECEIVING,Kevin,Gulyas,REC,2
+8169030,11/1/2014,FCS,Villanova,Richmond,RECEIVING,Kevin,Gulyas,YDS,23
+8169031,11/1/2014,FCS,Villanova,Richmond,RECEIVING,Kevin,Gulyas,TD,0
+8169032,11/1/2014,FCS,Villanova,Richmond,RECEIVING,Kevin,Gulyas,LONG,16
+8169033,11/1/2014,FCS,Villanova,Richmond,RECEIVING,Austin,Medley,REC,1
+8169034,11/1/2014,FCS,Villanova,Richmond,RECEIVING,Austin,Medley,YDS,21
+8169035,11/1/2014,FCS,Villanova,Richmond,RECEIVING,Austin,Medley,TD,0
+8169036,11/1/2014,FCS,Villanova,Richmond,RECEIVING,Austin,Medley,LONG,21
+8169037,11/1/2014,FCS,Villanova,Richmond,RECEIVING,Lincoln,Collins,REC,3
+8169038,11/1/2014,FCS,Villanova,Richmond,RECEIVING,Lincoln,Collins,YDS,20
+8169039,11/1/2014,FCS,Villanova,Richmond,RECEIVING,Lincoln,Collins,TD,1
+8169040,11/1/2014,FCS,Villanova,Richmond,RECEIVING,Lincoln,Collins,LONG,10
+8169041,11/1/2014,FCS,Villanova,Richmond,RECEIVING,Doug,Turrell,REC,1
+8169042,11/1/2014,FCS,Villanova,Richmond,RECEIVING,Doug,Turrell,YDS,7
+8169043,11/1/2014,FCS,Villanova,Richmond,RECEIVING,Doug,Turrell,TD,0
+8169044,11/1/2014,FCS,Villanova,Richmond,RECEIVING,Doug,Turrell,LONG,7
+8169045,11/1/2014,FCS,Villanova,Richmond,RECEIVING,Clay,Horne,REC,1
+8169046,11/1/2014,FCS,Villanova,Richmond,RECEIVING,Clay,Horne,YDS,7
+8169047,11/1/2014,FCS,Villanova,Richmond,RECEIVING,Clay,Horne,TD,0
+8169048,11/1/2014,FCS,Villanova,Richmond,RECEIVING,Clay,Horne,LONG,7
+8169049,11/1/2014,FCS,Villanova,Richmond,RECEIVING,Kevin,Monangai,REC,1
+8169050,11/1/2014,FCS,Villanova,Richmond,RECEIVING,Kevin,Monangai,YDS,5
+8169051,11/1/2014,FCS,Villanova,Richmond,RECEIVING,Kevin,Monangai,TD,0
+8169052,11/1/2014,FCS,Villanova,Richmond,RECEIVING,Kevin,Monangai,LONG,5
+8169053,11/1/2014,FCS,Villanova,Richmond,RECEIVING,Mike,Burke,REC,1
+8169054,11/1/2014,FCS,Villanova,Richmond,RECEIVING,Mike,Burke,YDS,2
+8169055,11/1/2014,FCS,Villanova,Richmond,RECEIVING,Mike,Burke,TD,0
+8169056,11/1/2014,FCS,Villanova,Richmond,RECEIVING,Mike,Burke,LONG,2
+8169057,11/1/2014,FCS,Villanova,Richmond,KICKING,Steve,Weyler,FG-FGA,1/1
+8169058,11/1/2014,FCS,Villanova,Richmond,KICKING,Steve,Weyler,LONG,24
+8169059,11/1/2014,FCS,Villanova,Richmond,KICKING,Steve,Weyler,XP,0
+8169060,11/1/2014,FCS,Villanova,Richmond,KICKING,Steve,Weyler,PTS,3
+8169061,11/1/2014,FCS,Villanova,Richmond,PUNTING,John,Hinchen,NO,6
+8169062,11/1/2014,FCS,Villanova,Richmond,PUNTING,John,Hinchen,YDS,277
+8169063,11/1/2014,FCS,Villanova,Richmond,PUNTING,John,Hinchen,AVG,46.2
+8169064,11/1/2014,FCS,Villanova,Richmond,PUNTING,John,Hinchen,LONG,64
+8169065,11/1/2014,FCS,Villanova,Richmond,KICK RETURNS,Matt,Gudzak,NO,2
+8169066,11/1/2014,FCS,Villanova,Richmond,KICK RETURNS,Matt,Gudzak,YDS,26
+8169067,11/1/2014,FCS,Villanova,Richmond,KICK RETURNS,Matt,Gudzak,AVG,13.0
+8169068,11/1/2014,FCS,Villanova,Richmond,KICK RETURNS,Matt,Gudzak,LONG,13
+8169069,11/1/2014,FCS,Villanova,Richmond,KICK RETURNS,Joe,Sarnese,NO,1
+8169070,11/1/2014,FCS,Villanova,Richmond,KICK RETURNS,Joe,Sarnese,YDS,18
+8169071,11/1/2014,FCS,Villanova,Richmond,KICK RETURNS,Joe,Sarnese,AVG,18.0
+8169072,11/1/2014,FCS,Villanova,Richmond,KICK RETURNS,Joe,Sarnese,LONG,18
+8169073,11/1/2014,FCS,Richmond,Villanova,RUSHING,Seth,Fisher,ATT,12
+8169074,11/1/2014,FCS,Richmond,Villanova,RUSHING,Seth,Fisher,YDS,39
+8169075,11/1/2014,FCS,Richmond,Villanova,RUSHING,Seth,Fisher,TD,0
+8169076,11/1/2014,FCS,Richmond,Villanova,RUSHING,Seth,Fisher,LONG,9
+8169077,11/1/2014,FCS,Richmond,Villanova,RUSHING,Jacobi,Green,ATT,7
+8169078,11/1/2014,FCS,Richmond,Villanova,RUSHING,Jacobi,Green,YDS,18
+8169079,11/1/2014,FCS,Richmond,Villanova,RUSHING,Jacobi,Green,TD,0
+8169080,11/1/2014,FCS,Richmond,Villanova,RUSHING,Jacobi,Green,LONG,8
+8169081,11/1/2014,FCS,Richmond,Villanova,RUSHING,Michael,Rocco,ATT,8
+8169082,11/1/2014,FCS,Richmond,Villanova,RUSHING,Michael,Rocco,YDS,15
+8169083,11/1/2014,FCS,Richmond,Villanova,RUSHING,Michael,Rocco,TD,1
+8169084,11/1/2014,FCS,Richmond,Villanova,RUSHING,Michael,Rocco,LONG,15
+8169085,11/1/2014,FCS,Richmond,Villanova,RUSHING,Brian,Brown,ATT,1
+8169086,11/1/2014,FCS,Richmond,Villanova,RUSHING,Brian,Brown,YDS,1
+8169087,11/1/2014,FCS,Richmond,Villanova,RUSHING,Brian,Brown,TD,0
+8169088,11/1/2014,FCS,Richmond,Villanova,RUSHING,Brian,Brown,LONG,1
+8169089,11/1/2014,FCS,Richmond,Villanova,RUSHING,Porter,Abell,ATT,1
+8169090,11/1/2014,FCS,Richmond,Villanova,RUSHING,Porter,Abell,YDS,-3
+8169091,11/1/2014,FCS,Richmond,Villanova,RUSHING,Porter,Abell,TD,0
+8169092,11/1/2014,FCS,Richmond,Villanova,RUSHING,Porter,Abell,LONG,0
+8169093,11/1/2014,FCS,Richmond,Villanova,RUSHING,,Team,ATT,3
+8169094,11/1/2014,FCS,Richmond,Villanova,RUSHING,,Team,YDS,-4
+8169095,11/1/2014,FCS,Richmond,Villanova,RUSHING,,Team,TD,0
+8169096,11/1/2014,FCS,Richmond,Villanova,RUSHING,,Team,LONG,0
+8169097,11/1/2014,FCS,Richmond,Villanova,PASSING,Michael,Rocco,CP-ATT-INT,21-42-2
+8169098,11/1/2014,FCS,Richmond,Villanova,PASSING,Michael,Rocco,YDS,314
+8169099,11/1/2014,FCS,Richmond,Villanova,PASSING,Michael,Rocco,TD,0
+8169100,11/1/2014,FCS,Richmond,Villanova,PASSING,Michael,Rocco,LONG,42
+8169101,11/1/2014,FCS,Richmond,Villanova,RECEIVING,Brian,Brown,REC,8
+8169102,11/1/2014,FCS,Richmond,Villanova,RECEIVING,Brian,Brown,YDS,119
+8169103,11/1/2014,FCS,Richmond,Villanova,RECEIVING,Brian,Brown,TD,0
+8169104,11/1/2014,FCS,Richmond,Villanova,RECEIVING,Brian,Brown,LONG,42
+8169105,11/1/2014,FCS,Richmond,Villanova,RECEIVING,Reggie,Diggs,REC,4
+8169106,11/1/2014,FCS,Richmond,Villanova,RECEIVING,Reggie,Diggs,YDS,80
+8169107,11/1/2014,FCS,Richmond,Villanova,RECEIVING,Reggie,Diggs,TD,0
+8169108,11/1/2014,FCS,Richmond,Villanova,RECEIVING,Reggie,Diggs,LONG,34
+8169109,11/1/2014,FCS,Richmond,Villanova,RECEIVING,Rashad,Ponder,REC,5
+8169110,11/1/2014,FCS,Richmond,Villanova,RECEIVING,Rashad,Ponder,YDS,60
+8169111,11/1/2014,FCS,Richmond,Villanova,RECEIVING,Rashad,Ponder,TD,0
+8169112,11/1/2014,FCS,Richmond,Villanova,RECEIVING,Rashad,Ponder,LONG,21
+8169113,11/1/2014,FCS,Richmond,Villanova,RECEIVING,Hunter,Westfall,REC,2
+8169114,11/1/2014,FCS,Richmond,Villanova,RECEIVING,Hunter,Westfall,YDS,22
+8169115,11/1/2014,FCS,Richmond,Villanova,RECEIVING,Hunter,Westfall,TD,0
+8169116,11/1/2014,FCS,Richmond,Villanova,RECEIVING,Hunter,Westfall,LONG,16
+8169117,11/1/2014,FCS,Richmond,Villanova,RECEIVING,Jacobi,Green,REC,1
+8169118,11/1/2014,FCS,Richmond,Villanova,RECEIVING,Jacobi,Green,YDS,20
+8169119,11/1/2014,FCS,Richmond,Villanova,RECEIVING,Jacobi,Green,TD,0
+8169120,11/1/2014,FCS,Richmond,Villanova,RECEIVING,Jacobi,Green,LONG,20
+8169121,11/1/2014,FCS,Richmond,Villanova,RECEIVING,Jarmal,Bevels,REC,1
+8169122,11/1/2014,FCS,Richmond,Villanova,RECEIVING,Jarmal,Bevels,YDS,13
+8169123,11/1/2014,FCS,Richmond,Villanova,RECEIVING,Jarmal,Bevels,TD,0
+8169124,11/1/2014,FCS,Richmond,Villanova,RECEIVING,Jarmal,Bevels,LONG,13
+8169125,11/1/2014,FCS,Richmond,Villanova,KICKING,Peter,Yoder,FG-FGA,1/3
+8169126,11/1/2014,FCS,Richmond,Villanova,KICKING,Peter,Yoder,LONG,37
+8169127,11/1/2014,FCS,Richmond,Villanova,KICKING,Peter,Yoder,XP,1
+8169128,11/1/2014,FCS,Richmond,Villanova,KICKING,Peter,Yoder,PTS,4
+8169129,11/1/2014,FCS,Richmond,Villanova,PUNTING,D.J.,Helkowski,NO,4
+8169130,11/1/2014,FCS,Richmond,Villanova,PUNTING,D.J.,Helkowski,YDS,155
+8169131,11/1/2014,FCS,Richmond,Villanova,PUNTING,D.J.,Helkowski,AVG,38.8
+8169132,11/1/2014,FCS,Richmond,Villanova,PUNTING,D.J.,Helkowski,LONG,46
+8169133,11/1/2014,FCS,Richmond,Villanova,PUNTING,Michael,Rocco,NO,1
+8169134,11/1/2014,FCS,Richmond,Villanova,PUNTING,Michael,Rocco,YDS,38
+8169135,11/1/2014,FCS,Richmond,Villanova,PUNTING,Michael,Rocco,AVG,38.0
+8169136,11/1/2014,FCS,Richmond,Villanova,PUNTING,Michael,Rocco,LONG,38
+8169137,11/1/2014,FCS,Richmond,Villanova,PUNTING,,Team,NO,0
+8169138,11/1/2014,FCS,Richmond,Villanova,PUNTING,,Team,YDS,0
+8169139,11/1/2014,FCS,Richmond,Villanova,PUNTING,,Team,AVG,-
+8169140,11/1/2014,FCS,Richmond,Villanova,PUNTING,,Team,LONG,0
+8169141,11/1/2014,FCS,Richmond,Villanova,PUNT RETURNS,Dominique,Miller,NO,2
+8169142,11/1/2014,FCS,Richmond,Villanova,PUNT RETURNS,Dominique,Miller,YDS,0
+8169143,11/1/2014,FCS,Richmond,Villanova,PUNT RETURNS,Dominique,Miller,AVG,-
+8169144,11/1/2014,FCS,Richmond,Villanova,PUNT RETURNS,Dominique,Miller,LONG,0
+8169145,11/1/2014,FCS,Richmond,Villanova,KICK RETURNS,Jeremiah,Hamlin,NO,2
+8169146,11/1/2014,FCS,Richmond,Villanova,KICK RETURNS,Jeremiah,Hamlin,YDS,44
+8169147,11/1/2014,FCS,Richmond,Villanova,KICK RETURNS,Jeremiah,Hamlin,AVG,22.0
+8169148,11/1/2014,FCS,Richmond,Villanova,KICK RETURNS,Jeremiah,Hamlin,LONG,26

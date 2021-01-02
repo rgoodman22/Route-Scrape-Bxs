@@ -1,0 +1,113 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9568001,10/8/2016,FCS,Colgate,Lehigh,RUSHING,Jake,Melville,ATT,18
+9568002,10/8/2016,FCS,Colgate,Lehigh,RUSHING,Jake,Melville,YDS,151
+9568003,10/8/2016,FCS,Colgate,Lehigh,RUSHING,Jake,Melville,TD,1
+9568004,10/8/2016,FCS,Colgate,Lehigh,RUSHING,Jake,Melville,LONG,75
+9568005,10/8/2016,FCS,Colgate,Lehigh,RUSHING,Keyon,Washington,ATT,25
+9568006,10/8/2016,FCS,Colgate,Lehigh,RUSHING,Keyon,Washington,YDS,101
+9568007,10/8/2016,FCS,Colgate,Lehigh,RUSHING,Keyon,Washington,TD,1
+9568008,10/8/2016,FCS,Colgate,Lehigh,RUSHING,Keyon,Washington,LONG,14
+9568009,10/8/2016,FCS,Colgate,Lehigh,PASSING,Jake,Melville,CP-ATT-INT,9-23-1
+9568010,10/8/2016,FCS,Colgate,Lehigh,PASSING,Jake,Melville,YDS,248
+9568011,10/8/2016,FCS,Colgate,Lehigh,PASSING,Jake,Melville,TD,2
+9568012,10/8/2016,FCS,Colgate,Lehigh,PASSING,Jake,Melville,LONG,68
+9568013,10/8/2016,FCS,Colgate,Lehigh,RECEIVING,John,Maddaluna,REC,3
+9568014,10/8/2016,FCS,Colgate,Lehigh,RECEIVING,John,Maddaluna,YDS,88
+9568015,10/8/2016,FCS,Colgate,Lehigh,RECEIVING,John,Maddaluna,TD,0
+9568016,10/8/2016,FCS,Colgate,Lehigh,RECEIVING,John,Maddaluna,LONG,68
+9568017,10/8/2016,FCS,Colgate,Lehigh,RECEIVING,Thomas,Ives,REC,2
+9568018,10/8/2016,FCS,Colgate,Lehigh,RECEIVING,Thomas,Ives,YDS,72
+9568019,10/8/2016,FCS,Colgate,Lehigh,RECEIVING,Thomas,Ives,TD,1
+9568020,10/8/2016,FCS,Colgate,Lehigh,RECEIVING,Thomas,Ives,LONG,59
+9568021,10/8/2016,FCS,Colgate,Lehigh,RECEIVING,Nick,Diaco,REC,1
+9568022,10/8/2016,FCS,Colgate,Lehigh,RECEIVING,Nick,Diaco,YDS,45
+9568023,10/8/2016,FCS,Colgate,Lehigh,RECEIVING,Nick,Diaco,TD,0
+9568024,10/8/2016,FCS,Colgate,Lehigh,RECEIVING,Nick,Diaco,LONG,45
+9568025,10/8/2016,FCS,Colgate,Lehigh,RECEIVING,Owen,Rockett,REC,2
+9568026,10/8/2016,FCS,Colgate,Lehigh,RECEIVING,Owen,Rockett,YDS,28
+9568027,10/8/2016,FCS,Colgate,Lehigh,RECEIVING,Owen,Rockett,TD,1
+9568028,10/8/2016,FCS,Colgate,Lehigh,RECEIVING,Owen,Rockett,LONG,20
+9568029,10/8/2016,FCS,Colgate,Lehigh,RECEIVING,Alex,Greenawalt,REC,1
+9568030,10/8/2016,FCS,Colgate,Lehigh,RECEIVING,Alex,Greenawalt,YDS,15
+9568031,10/8/2016,FCS,Colgate,Lehigh,RECEIVING,Alex,Greenawalt,TD,0
+9568032,10/8/2016,FCS,Colgate,Lehigh,RECEIVING,Alex,Greenawalt,LONG,15
+9568033,10/8/2016,FCS,Colgate,Lehigh,KICKING,Jonah,Bowman,FG-FGA,1/1
+9568034,10/8/2016,FCS,Colgate,Lehigh,KICKING,Jonah,Bowman,LONG,22
+9568035,10/8/2016,FCS,Colgate,Lehigh,KICKING,Jonah,Bowman,XP,4
+9568036,10/8/2016,FCS,Colgate,Lehigh,KICKING,Jonah,Bowman,PTS,7
+9568037,10/8/2016,FCS,Colgate,Lehigh,PUNTING,Josh,Cerra,NO,6
+9568038,10/8/2016,FCS,Colgate,Lehigh,PUNTING,Josh,Cerra,YDS,279
+9568039,10/8/2016,FCS,Colgate,Lehigh,PUNTING,Josh,Cerra,AVG,46.5
+9568040,10/8/2016,FCS,Colgate,Lehigh,PUNTING,Josh,Cerra,LONG,57
+9568041,10/8/2016,FCS,Colgate,Lehigh,PUNT RETURNS,Abu,Daramy,NO,3
+9568042,10/8/2016,FCS,Colgate,Lehigh,PUNT RETURNS,Abu,Daramy,YDS,36
+9568043,10/8/2016,FCS,Colgate,Lehigh,PUNT RETURNS,Abu,Daramy,AVG,12.0
+9568044,10/8/2016,FCS,Colgate,Lehigh,PUNT RETURNS,Abu,Daramy,LONG,29
+9568045,10/8/2016,FCS,Colgate,Lehigh,KICK RETURNS,Abu,Daramy,NO,2
+9568046,10/8/2016,FCS,Colgate,Lehigh,KICK RETURNS,Abu,Daramy,YDS,46
+9568047,10/8/2016,FCS,Colgate,Lehigh,KICK RETURNS,Abu,Daramy,AVG,23.0
+9568048,10/8/2016,FCS,Colgate,Lehigh,KICK RETURNS,Abu,Daramy,LONG,35
+9568049,10/8/2016,FCS,Colgate,Lehigh,KICK RETURNS,John,Maddaluna,NO,1
+9568050,10/8/2016,FCS,Colgate,Lehigh,KICK RETURNS,John,Maddaluna,YDS,25
+9568051,10/8/2016,FCS,Colgate,Lehigh,KICK RETURNS,John,Maddaluna,AVG,25.0
+9568052,10/8/2016,FCS,Colgate,Lehigh,KICK RETURNS,John,Maddaluna,LONG,25
+9568053,10/8/2016,FCS,Lehigh,Colgate,RUSHING,Dominick,Bragalone,ATT,19
+9568054,10/8/2016,FCS,Lehigh,Colgate,RUSHING,Dominick,Bragalone,YDS,74
+9568055,10/8/2016,FCS,Lehigh,Colgate,RUSHING,Dominick,Bragalone,TD,0
+9568056,10/8/2016,FCS,Lehigh,Colgate,RUSHING,Dominick,Bragalone,LONG,13
+9568057,10/8/2016,FCS,Lehigh,Colgate,RUSHING,Nick,Shafnisky,ATT,12
+9568058,10/8/2016,FCS,Lehigh,Colgate,RUSHING,Nick,Shafnisky,YDS,25
+9568059,10/8/2016,FCS,Lehigh,Colgate,RUSHING,Nick,Shafnisky,TD,0
+9568060,10/8/2016,FCS,Lehigh,Colgate,RUSHING,Nick,Shafnisky,LONG,16
+9568061,10/8/2016,FCS,Lehigh,Colgate,RUSHING,Micco,Brisker,ATT,3
+9568062,10/8/2016,FCS,Lehigh,Colgate,RUSHING,Micco,Brisker,YDS,4
+9568063,10/8/2016,FCS,Lehigh,Colgate,RUSHING,Micco,Brisker,TD,0
+9568064,10/8/2016,FCS,Lehigh,Colgate,RUSHING,Micco,Brisker,LONG,3
+9568065,10/8/2016,FCS,Lehigh,Colgate,RUSHING,,Team,ATT,1
+9568066,10/8/2016,FCS,Lehigh,Colgate,RUSHING,,Team,YDS,-4
+9568067,10/8/2016,FCS,Lehigh,Colgate,RUSHING,,Team,TD,0
+9568068,10/8/2016,FCS,Lehigh,Colgate,RUSHING,,Team,LONG,0
+9568069,10/8/2016,FCS,Lehigh,Colgate,PASSING,Nick,Shafnisky,CP-ATT-INT,27-40-1
+9568070,10/8/2016,FCS,Lehigh,Colgate,PASSING,Nick,Shafnisky,YDS,394
+9568071,10/8/2016,FCS,Lehigh,Colgate,PASSING,Nick,Shafnisky,TD,5
+9568072,10/8/2016,FCS,Lehigh,Colgate,PASSING,Nick,Shafnisky,LONG,58
+9568073,10/8/2016,FCS,Lehigh,Colgate,RECEIVING,Gatlin,Casey,REC,11
+9568074,10/8/2016,FCS,Lehigh,Colgate,RECEIVING,Gatlin,Casey,YDS,196
+9568075,10/8/2016,FCS,Lehigh,Colgate,RECEIVING,Gatlin,Casey,TD,3
+9568076,10/8/2016,FCS,Lehigh,Colgate,RECEIVING,Gatlin,Casey,LONG,58
+9568077,10/8/2016,FCS,Lehigh,Colgate,RECEIVING,Troy,Pelletier,REC,6
+9568078,10/8/2016,FCS,Lehigh,Colgate,RECEIVING,Troy,Pelletier,YDS,102
+9568079,10/8/2016,FCS,Lehigh,Colgate,RECEIVING,Troy,Pelletier,TD,1
+9568080,10/8/2016,FCS,Lehigh,Colgate,RECEIVING,Troy,Pelletier,LONG,31
+9568081,10/8/2016,FCS,Lehigh,Colgate,RECEIVING,Derek,Knott,REC,7
+9568082,10/8/2016,FCS,Lehigh,Colgate,RECEIVING,Derek,Knott,YDS,50
+9568083,10/8/2016,FCS,Lehigh,Colgate,RECEIVING,Derek,Knott,TD,0
+9568084,10/8/2016,FCS,Lehigh,Colgate,RECEIVING,Derek,Knott,LONG,20
+9568085,10/8/2016,FCS,Lehigh,Colgate,RECEIVING,Dominick,Bragalone,REC,1
+9568086,10/8/2016,FCS,Lehigh,Colgate,RECEIVING,Dominick,Bragalone,YDS,25
+9568087,10/8/2016,FCS,Lehigh,Colgate,RECEIVING,Dominick,Bragalone,TD,1
+9568088,10/8/2016,FCS,Lehigh,Colgate,RECEIVING,Dominick,Bragalone,LONG,25
+9568089,10/8/2016,FCS,Lehigh,Colgate,RECEIVING,Trevor,Socarras,REC,1
+9568090,10/8/2016,FCS,Lehigh,Colgate,RECEIVING,Trevor,Socarras,YDS,13
+9568091,10/8/2016,FCS,Lehigh,Colgate,RECEIVING,Trevor,Socarras,TD,0
+9568092,10/8/2016,FCS,Lehigh,Colgate,RECEIVING,Trevor,Socarras,LONG,13
+9568093,10/8/2016,FCS,Lehigh,Colgate,RECEIVING,Drew,Paulsen,REC,1
+9568094,10/8/2016,FCS,Lehigh,Colgate,RECEIVING,Drew,Paulsen,YDS,8
+9568095,10/8/2016,FCS,Lehigh,Colgate,RECEIVING,Drew,Paulsen,TD,0
+9568096,10/8/2016,FCS,Lehigh,Colgate,RECEIVING,Drew,Paulsen,LONG,8
+9568097,10/8/2016,FCS,Lehigh,Colgate,KICKING,Ed,Mish,FG-FGA,1/2
+9568098,10/8/2016,FCS,Lehigh,Colgate,KICKING,Ed,Mish,LONG,25
+9568099,10/8/2016,FCS,Lehigh,Colgate,KICKING,Ed,Mish,XP,6
+9568100,10/8/2016,FCS,Lehigh,Colgate,KICKING,Ed,Mish,PTS,9
+9568101,10/8/2016,FCS,Lehigh,Colgate,PUNTING,Ed,Mish,NO,5
+9568102,10/8/2016,FCS,Lehigh,Colgate,PUNTING,Ed,Mish,YDS,232
+9568103,10/8/2016,FCS,Lehigh,Colgate,PUNTING,Ed,Mish,AVG,46.4
+9568104,10/8/2016,FCS,Lehigh,Colgate,PUNTING,Ed,Mish,LONG,62
+9568105,10/8/2016,FCS,Lehigh,Colgate,PUNT RETURNS,Troy,Pelletier,NO,3
+9568106,10/8/2016,FCS,Lehigh,Colgate,PUNT RETURNS,Troy,Pelletier,YDS,27
+9568107,10/8/2016,FCS,Lehigh,Colgate,PUNT RETURNS,Troy,Pelletier,AVG,9.0
+9568108,10/8/2016,FCS,Lehigh,Colgate,PUNT RETURNS,Troy,Pelletier,LONG,18
+9568109,10/8/2016,FCS,Lehigh,Colgate,KICK RETURNS,Gatlin,Casey,NO,5
+9568110,10/8/2016,FCS,Lehigh,Colgate,KICK RETURNS,Gatlin,Casey,YDS,195
+9568111,10/8/2016,FCS,Lehigh,Colgate,KICK RETURNS,Gatlin,Casey,AVG,39.0
+9568112,10/8/2016,FCS,Lehigh,Colgate,KICK RETURNS,Gatlin,Casey,LONG,93

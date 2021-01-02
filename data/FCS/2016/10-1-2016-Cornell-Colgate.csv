@@ -1,0 +1,133 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9526001,10/1/2016,FCS,Cornell,Colgate,RUSHING,Chris,Walker,ATT,13
+9526002,10/1/2016,FCS,Cornell,Colgate,RUSHING,Chris,Walker,YDS,110
+9526003,10/1/2016,FCS,Cornell,Colgate,RUSHING,Chris,Walker,TD,0
+9526004,10/1/2016,FCS,Cornell,Colgate,RUSHING,Chris,Walker,LONG,47
+9526005,10/1/2016,FCS,Cornell,Colgate,RUSHING,Jack,Gellatly,ATT,1
+9526006,10/1/2016,FCS,Cornell,Colgate,RUSHING,Jack,Gellatly,YDS,5
+9526007,10/1/2016,FCS,Cornell,Colgate,RUSHING,Jack,Gellatly,TD,0
+9526008,10/1/2016,FCS,Cornell,Colgate,RUSHING,Jack,Gellatly,LONG,5
+9526009,10/1/2016,FCS,Cornell,Colgate,RUSHING,Dalton,Banks,ATT,8
+9526010,10/1/2016,FCS,Cornell,Colgate,RUSHING,Dalton,Banks,YDS,-2
+9526011,10/1/2016,FCS,Cornell,Colgate,RUSHING,Dalton,Banks,TD,1
+9526012,10/1/2016,FCS,Cornell,Colgate,RUSHING,Dalton,Banks,LONG,7
+9526013,10/1/2016,FCS,Cornell,Colgate,PASSING,Dalton,Banks,CP-ATT-INT,25-45-3
+9526014,10/1/2016,FCS,Cornell,Colgate,PASSING,Dalton,Banks,YDS,454
+9526015,10/1/2016,FCS,Cornell,Colgate,PASSING,Dalton,Banks,TD,4
+9526016,10/1/2016,FCS,Cornell,Colgate,PASSING,Dalton,Banks,LONG,70
+9526017,10/1/2016,FCS,Cornell,Colgate,RECEIVING,James,Hubbard,REC,5
+9526018,10/1/2016,FCS,Cornell,Colgate,RECEIVING,James,Hubbard,YDS,105
+9526019,10/1/2016,FCS,Cornell,Colgate,RECEIVING,James,Hubbard,TD,1
+9526020,10/1/2016,FCS,Cornell,Colgate,RECEIVING,James,Hubbard,LONG,63
+9526021,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Collin,Shaw,REC,2
+9526022,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Collin,Shaw,YDS,89
+9526023,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Collin,Shaw,TD,2
+9526024,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Collin,Shaw,LONG,70
+9526025,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Ben,Rogers,REC,2
+9526026,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Ben,Rogers,YDS,61
+9526027,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Ben,Rogers,TD,0
+9526028,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Ben,Rogers,LONG,41
+9526029,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Marshall,Deutz,REC,5
+9526030,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Marshall,Deutz,YDS,47
+9526031,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Marshall,Deutz,TD,0
+9526032,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Marshall,Deutz,LONG,13
+9526033,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Nick,Bland,REC,3
+9526034,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Nick,Bland,YDS,42
+9526035,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Nick,Bland,TD,1
+9526036,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Nick,Bland,LONG,21
+9526037,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Matt,Sullivan,REC,2
+9526038,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Matt,Sullivan,YDS,32
+9526039,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Matt,Sullivan,TD,0
+9526040,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Matt,Sullivan,LONG,26
+9526041,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Jack,Gellatly,REC,2
+9526042,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Jack,Gellatly,YDS,23
+9526043,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Jack,Gellatly,TD,0
+9526044,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Jack,Gellatly,LONG,19
+9526045,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Brady,Malone,REC,1
+9526046,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Brady,Malone,YDS,21
+9526047,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Brady,Malone,TD,0
+9526048,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Brady,Malone,LONG,21
+9526049,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Hayes,Nolte,REC,1
+9526050,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Hayes,Nolte,YDS,13
+9526051,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Hayes,Nolte,TD,0
+9526052,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Hayes,Nolte,LONG,13
+9526053,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Luis,Uceta,REC,1
+9526054,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Luis,Uceta,YDS,13
+9526055,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Luis,Uceta,TD,0
+9526056,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Luis,Uceta,LONG,13
+9526057,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Chris,Walker,REC,1
+9526058,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Chris,Walker,YDS,8
+9526059,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Chris,Walker,TD,0
+9526060,10/1/2016,FCS,Cornell,Colgate,RECEIVING,Chris,Walker,LONG,8
+9526061,10/1/2016,FCS,Cornell,Colgate,KICKING,Zach,Mays,FG-FGA,1/1
+9526062,10/1/2016,FCS,Cornell,Colgate,KICKING,Zach,Mays,LONG,29
+9526063,10/1/2016,FCS,Cornell,Colgate,KICKING,Zach,Mays,XP,4
+9526064,10/1/2016,FCS,Cornell,Colgate,KICKING,Zach,Mays,PTS,7
+9526065,10/1/2016,FCS,Cornell,Colgate,PUNTING,Chris,Fraser,NO,3
+9526066,10/1/2016,FCS,Cornell,Colgate,PUNTING,Chris,Fraser,YDS,108
+9526067,10/1/2016,FCS,Cornell,Colgate,PUNTING,Chris,Fraser,AVG,36.0
+9526068,10/1/2016,FCS,Cornell,Colgate,PUNTING,Chris,Fraser,LONG,38
+9526069,10/1/2016,FCS,Cornell,Colgate,PUNT RETURNS,Ben,Rogers,NO,3
+9526070,10/1/2016,FCS,Cornell,Colgate,PUNT RETURNS,Ben,Rogers,YDS,15
+9526071,10/1/2016,FCS,Cornell,Colgate,PUNT RETURNS,Ben,Rogers,AVG,5.0
+9526072,10/1/2016,FCS,Cornell,Colgate,PUNT RETURNS,Ben,Rogers,LONG,8
+9526073,10/1/2016,FCS,Cornell,Colgate,KICK RETURNS,Ben,Rogers,NO,6
+9526074,10/1/2016,FCS,Cornell,Colgate,KICK RETURNS,Ben,Rogers,YDS,110
+9526075,10/1/2016,FCS,Cornell,Colgate,KICK RETURNS,Ben,Rogers,AVG,18.3
+9526076,10/1/2016,FCS,Cornell,Colgate,KICK RETURNS,Ben,Rogers,LONG,30
+9526077,10/1/2016,FCS,Cornell,Colgate,KICK RETURNS,James,Hubbard,NO,1
+9526078,10/1/2016,FCS,Cornell,Colgate,KICK RETURNS,James,Hubbard,YDS,10
+9526079,10/1/2016,FCS,Cornell,Colgate,KICK RETURNS,James,Hubbard,AVG,10.0
+9526080,10/1/2016,FCS,Cornell,Colgate,KICK RETURNS,James,Hubbard,LONG,10
+9526081,10/1/2016,FCS,Colgate,Cornell,RUSHING,Keyon,Washington,ATT,26
+9526082,10/1/2016,FCS,Colgate,Cornell,RUSHING,Keyon,Washington,YDS,114
+9526083,10/1/2016,FCS,Colgate,Cornell,RUSHING,Keyon,Washington,TD,2
+9526084,10/1/2016,FCS,Colgate,Cornell,RUSHING,Keyon,Washington,LONG,13
+9526085,10/1/2016,FCS,Colgate,Cornell,RUSHING,Jake,Melville,ATT,19
+9526086,10/1/2016,FCS,Colgate,Cornell,RUSHING,Jake,Melville,YDS,80
+9526087,10/1/2016,FCS,Colgate,Cornell,RUSHING,Jake,Melville,TD,0
+9526088,10/1/2016,FCS,Colgate,Cornell,RUSHING,Jake,Melville,LONG,17
+9526089,10/1/2016,FCS,Colgate,Cornell,RUSHING,Alex,Mathews,ATT,2
+9526090,10/1/2016,FCS,Colgate,Cornell,RUSHING,Alex,Mathews,YDS,3
+9526091,10/1/2016,FCS,Colgate,Cornell,RUSHING,Alex,Mathews,TD,0
+9526092,10/1/2016,FCS,Colgate,Cornell,RUSHING,Alex,Mathews,LONG,3
+9526093,10/1/2016,FCS,Colgate,Cornell,RUSHING,John,Wilkins,ATT,1
+9526094,10/1/2016,FCS,Colgate,Cornell,RUSHING,John,Wilkins,YDS,1
+9526095,10/1/2016,FCS,Colgate,Cornell,RUSHING,John,Wilkins,TD,0
+9526096,10/1/2016,FCS,Colgate,Cornell,RUSHING,John,Wilkins,LONG,1
+9526097,10/1/2016,FCS,Colgate,Cornell,PASSING,Jake,Melville,CP-ATT-INT,23-37-0
+9526098,10/1/2016,FCS,Colgate,Cornell,PASSING,Jake,Melville,YDS,399
+9526099,10/1/2016,FCS,Colgate,Cornell,PASSING,Jake,Melville,TD,3
+9526100,10/1/2016,FCS,Colgate,Cornell,PASSING,Jake,Melville,LONG,93
+9526101,10/1/2016,FCS,Colgate,Cornell,RECEIVING,John,Maddaluna,REC,11
+9526102,10/1/2016,FCS,Colgate,Cornell,RECEIVING,John,Maddaluna,YDS,261
+9526103,10/1/2016,FCS,Colgate,Cornell,RECEIVING,John,Maddaluna,TD,3
+9526104,10/1/2016,FCS,Colgate,Cornell,RECEIVING,John,Maddaluna,LONG,93
+9526105,10/1/2016,FCS,Colgate,Cornell,RECEIVING,Alex,Greenawalt,REC,9
+9526106,10/1/2016,FCS,Colgate,Cornell,RECEIVING,Alex,Greenawalt,YDS,101
+9526107,10/1/2016,FCS,Colgate,Cornell,RECEIVING,Alex,Greenawalt,TD,0
+9526108,10/1/2016,FCS,Colgate,Cornell,RECEIVING,Alex,Greenawalt,LONG,19
+9526109,10/1/2016,FCS,Colgate,Cornell,RECEIVING,Nick,Diaco,REC,1
+9526110,10/1/2016,FCS,Colgate,Cornell,RECEIVING,Nick,Diaco,YDS,14
+9526111,10/1/2016,FCS,Colgate,Cornell,RECEIVING,Nick,Diaco,TD,0
+9526112,10/1/2016,FCS,Colgate,Cornell,RECEIVING,Nick,Diaco,LONG,14
+9526113,10/1/2016,FCS,Colgate,Cornell,RECEIVING,Connor,Wingenroth,REC,1
+9526114,10/1/2016,FCS,Colgate,Cornell,RECEIVING,Connor,Wingenroth,YDS,14
+9526115,10/1/2016,FCS,Colgate,Cornell,RECEIVING,Connor,Wingenroth,TD,0
+9526116,10/1/2016,FCS,Colgate,Cornell,RECEIVING,Connor,Wingenroth,LONG,14
+9526117,10/1/2016,FCS,Colgate,Cornell,RECEIVING,Thomas,Ives,REC,1
+9526118,10/1/2016,FCS,Colgate,Cornell,RECEIVING,Thomas,Ives,YDS,9
+9526119,10/1/2016,FCS,Colgate,Cornell,RECEIVING,Thomas,Ives,TD,0
+9526120,10/1/2016,FCS,Colgate,Cornell,RECEIVING,Thomas,Ives,LONG,9
+9526121,10/1/2016,FCS,Colgate,Cornell,KICKING,Jonah,Bowman,FG-FGA,1/1
+9526122,10/1/2016,FCS,Colgate,Cornell,KICKING,Jonah,Bowman,LONG,19
+9526123,10/1/2016,FCS,Colgate,Cornell,KICKING,Jonah,Bowman,XP,5
+9526124,10/1/2016,FCS,Colgate,Cornell,KICKING,Jonah,Bowman,PTS,8
+9526125,10/1/2016,FCS,Colgate,Cornell,PUNTING,Josh,Cerra,NO,4
+9526126,10/1/2016,FCS,Colgate,Cornell,PUNTING,Josh,Cerra,YDS,170
+9526127,10/1/2016,FCS,Colgate,Cornell,PUNTING,Josh,Cerra,AVG,42.5
+9526128,10/1/2016,FCS,Colgate,Cornell,PUNTING,Josh,Cerra,LONG,47
+9526129,10/1/2016,FCS,Colgate,Cornell,KICK RETURNS,Abu,Daramy,NO,4
+9526130,10/1/2016,FCS,Colgate,Cornell,KICK RETURNS,Abu,Daramy,YDS,91
+9526131,10/1/2016,FCS,Colgate,Cornell,KICK RETURNS,Abu,Daramy,AVG,22.8
+9526132,10/1/2016,FCS,Colgate,Cornell,KICK RETURNS,Abu,Daramy,LONG,30

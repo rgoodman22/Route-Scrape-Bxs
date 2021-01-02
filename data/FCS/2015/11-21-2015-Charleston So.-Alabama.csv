@@ -1,0 +1,173 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9139001,11/21/2015,FCS,Charleston So.,Alabama,RUSHING,Kelan,Fraise,ATT,7
+9139002,11/21/2015,FCS,Charleston So.,Alabama,RUSHING,Kelan,Fraise,YDS,39
+9139003,11/21/2015,FCS,Charleston So.,Alabama,RUSHING,Kelan,Fraise,TD,0
+9139004,11/21/2015,FCS,Charleston So.,Alabama,RUSHING,Kelan,Fraise,LONG,22
+9139005,11/21/2015,FCS,Charleston So.,Alabama,RUSHING,Kyle,Copeland,ATT,15
+9139006,11/21/2015,FCS,Charleston So.,Alabama,RUSHING,Kyle,Copeland,YDS,25
+9139007,11/21/2015,FCS,Charleston So.,Alabama,RUSHING,Kyle,Copeland,TD,1
+9139008,11/21/2015,FCS,Charleston So.,Alabama,RUSHING,Kyle,Copeland,LONG,9
+9139009,11/21/2015,FCS,Charleston So.,Alabama,RUSHING,Alan,Barnwell,ATT,5
+9139010,11/21/2015,FCS,Charleston So.,Alabama,RUSHING,Alan,Barnwell,YDS,21
+9139011,11/21/2015,FCS,Charleston So.,Alabama,RUSHING,Alan,Barnwell,TD,0
+9139012,11/21/2015,FCS,Charleston So.,Alabama,RUSHING,Alan,Barnwell,LONG,9
+9139013,11/21/2015,FCS,Charleston So.,Alabama,RUSHING,Mike,Hollway,ATT,2
+9139014,11/21/2015,FCS,Charleston So.,Alabama,RUSHING,Mike,Hollway,YDS,4
+9139015,11/21/2015,FCS,Charleston So.,Alabama,RUSHING,Mike,Hollway,TD,0
+9139016,11/21/2015,FCS,Charleston So.,Alabama,RUSHING,Mike,Hollway,LONG,3
+9139017,11/21/2015,FCS,Charleston So.,Alabama,RUSHING,Adam,Allen,ATT,0
+9139018,11/21/2015,FCS,Charleston So.,Alabama,RUSHING,Adam,Allen,YDS,0
+9139019,11/21/2015,FCS,Charleston So.,Alabama,RUSHING,Adam,Allen,TD,0
+9139020,11/21/2015,FCS,Charleston So.,Alabama,RUSHING,Adam,Allen,LONG,0
+9139021,11/21/2015,FCS,Charleston So.,Alabama,RUSHING,Ben,Robinson,ATT,4
+9139022,11/21/2015,FCS,Charleston So.,Alabama,RUSHING,Ben,Robinson,YDS,-1
+9139023,11/21/2015,FCS,Charleston So.,Alabama,RUSHING,Ben,Robinson,TD,0
+9139024,11/21/2015,FCS,Charleston So.,Alabama,RUSHING,Ben,Robinson,LONG,6
+9139025,11/21/2015,FCS,Charleston So.,Alabama,RUSHING,Darius,Hammond,ATT,3
+9139026,11/21/2015,FCS,Charleston So.,Alabama,RUSHING,Darius,Hammond,YDS,-3
+9139027,11/21/2015,FCS,Charleston So.,Alabama,RUSHING,Darius,Hammond,TD,0
+9139028,11/21/2015,FCS,Charleston So.,Alabama,RUSHING,Darius,Hammond,LONG,1
+9139029,11/21/2015,FCS,Charleston So.,Alabama,PASSING,Kyle,Copeland,CP-ATT-INT,3-7-1
+9139030,11/21/2015,FCS,Charleston So.,Alabama,PASSING,Kyle,Copeland,YDS,46
+9139031,11/21/2015,FCS,Charleston So.,Alabama,PASSING,Kyle,Copeland,TD,0
+9139032,11/21/2015,FCS,Charleston So.,Alabama,PASSING,Kyle,Copeland,LONG,35
+9139033,11/21/2015,FCS,Charleston So.,Alabama,PASSING,Austin,Brown,CP-ATT-INT,2-3-0
+9139034,11/21/2015,FCS,Charleston So.,Alabama,PASSING,Austin,Brown,YDS,3
+9139035,11/21/2015,FCS,Charleston So.,Alabama,PASSING,Austin,Brown,TD,0
+9139036,11/21/2015,FCS,Charleston So.,Alabama,PASSING,Austin,Brown,LONG,2
+9139037,11/21/2015,FCS,Charleston So.,Alabama,RECEIVING,Saire,Davis,REC,1
+9139038,11/21/2015,FCS,Charleston So.,Alabama,RECEIVING,Saire,Davis,YDS,35
+9139039,11/21/2015,FCS,Charleston So.,Alabama,RECEIVING,Saire,Davis,TD,0
+9139040,11/21/2015,FCS,Charleston So.,Alabama,RECEIVING,Saire,Davis,LONG,35
+9139041,11/21/2015,FCS,Charleston So.,Alabama,RECEIVING,Kevin,GlearsJr.,REC,1
+9139042,11/21/2015,FCS,Charleston So.,Alabama,RECEIVING,Kevin,GlearsJr.,YDS,14
+9139043,11/21/2015,FCS,Charleston So.,Alabama,RECEIVING,Kevin,GlearsJr.,TD,0
+9139044,11/21/2015,FCS,Charleston So.,Alabama,RECEIVING,Kevin,GlearsJr.,LONG,14
+9139045,11/21/2015,FCS,Charleston So.,Alabama,RECEIVING,Mike,Hollway,REC,2
+9139046,11/21/2015,FCS,Charleston So.,Alabama,RECEIVING,Mike,Hollway,YDS,3
+9139047,11/21/2015,FCS,Charleston So.,Alabama,RECEIVING,Mike,Hollway,TD,0
+9139048,11/21/2015,FCS,Charleston So.,Alabama,RECEIVING,Mike,Hollway,LONG,2
+9139049,11/21/2015,FCS,Charleston So.,Alabama,RECEIVING,Ben,Robinson,REC,1
+9139050,11/21/2015,FCS,Charleston So.,Alabama,RECEIVING,Ben,Robinson,YDS,-3
+9139051,11/21/2015,FCS,Charleston So.,Alabama,RECEIVING,Ben,Robinson,TD,0
+9139052,11/21/2015,FCS,Charleston So.,Alabama,RECEIVING,Ben,Robinson,LONG,-3
+9139053,11/21/2015,FCS,Charleston So.,Alabama,PUNTING,Truett,Burns,NO,8
+9139054,11/21/2015,FCS,Charleston So.,Alabama,PUNTING,Truett,Burns,YDS,277
+9139055,11/21/2015,FCS,Charleston So.,Alabama,PUNTING,Truett,Burns,AVG,34.6
+9139056,11/21/2015,FCS,Charleston So.,Alabama,PUNTING,Truett,Burns,LONG,48
+9139057,11/21/2015,FCS,Charleston So.,Alabama,KICK RETURNS,Darius,Hammond,NO,2
+9139058,11/21/2015,FCS,Charleston So.,Alabama,KICK RETURNS,Darius,Hammond,YDS,30
+9139059,11/21/2015,FCS,Charleston So.,Alabama,KICK RETURNS,Darius,Hammond,AVG,15.0
+9139060,11/21/2015,FCS,Charleston So.,Alabama,KICK RETURNS,Darius,Hammond,LONG,18
+9139061,11/21/2015,FCS,Alabama,Charleston So.,RUSHING,Bo,Scarbrough,ATT,10
+9139062,11/21/2015,FCS,Alabama,Charleston So.,RUSHING,Bo,Scarbrough,YDS,69
+9139063,11/21/2015,FCS,Alabama,Charleston So.,RUSHING,Bo,Scarbrough,TD,1
+9139064,11/21/2015,FCS,Alabama,Charleston So.,RUSHING,Bo,Scarbrough,LONG,24
+9139065,11/21/2015,FCS,Alabama,Charleston So.,RUSHING,Derrick,Henry,ATT,9
+9139066,11/21/2015,FCS,Alabama,Charleston So.,RUSHING,Derrick,Henry,YDS,68
+9139067,11/21/2015,FCS,Alabama,Charleston So.,RUSHING,Derrick,Henry,TD,2
+9139068,11/21/2015,FCS,Alabama,Charleston So.,RUSHING,Derrick,Henry,LONG,17
+9139069,11/21/2015,FCS,Alabama,Charleston So.,RUSHING,Damien,Harris,ATT,10
+9139070,11/21/2015,FCS,Alabama,Charleston So.,RUSHING,Damien,Harris,YDS,44
+9139071,11/21/2015,FCS,Alabama,Charleston So.,RUSHING,Damien,Harris,TD,1
+9139072,11/21/2015,FCS,Alabama,Charleston So.,RUSHING,Damien,Harris,LONG,8
+9139073,11/21/2015,FCS,Alabama,Charleston So.,RUSHING,Ronnie,Clark,ATT,2
+9139074,11/21/2015,FCS,Alabama,Charleston So.,RUSHING,Ronnie,Clark,YDS,11
+9139075,11/21/2015,FCS,Alabama,Charleston So.,RUSHING,Ronnie,Clark,TD,0
+9139076,11/21/2015,FCS,Alabama,Charleston So.,RUSHING,Ronnie,Clark,LONG,11
+9139077,11/21/2015,FCS,Alabama,Charleston So.,RUSHING,Derrick,Gore,ATT,1
+9139078,11/21/2015,FCS,Alabama,Charleston So.,RUSHING,Derrick,Gore,YDS,4
+9139079,11/21/2015,FCS,Alabama,Charleston So.,RUSHING,Derrick,Gore,TD,0
+9139080,11/21/2015,FCS,Alabama,Charleston So.,RUSHING,Derrick,Gore,LONG,4
+9139081,11/21/2015,FCS,Alabama,Charleston So.,RUSHING,Jake,Coker,ATT,1
+9139082,11/21/2015,FCS,Alabama,Charleston So.,RUSHING,Jake,Coker,YDS,1
+9139083,11/21/2015,FCS,Alabama,Charleston So.,RUSHING,Jake,Coker,TD,0
+9139084,11/21/2015,FCS,Alabama,Charleston So.,RUSHING,Jake,Coker,LONG,1
+9139085,11/21/2015,FCS,Alabama,Charleston So.,RUSHING,Xavian,Marks,ATT,1
+9139086,11/21/2015,FCS,Alabama,Charleston So.,RUSHING,Xavian,Marks,YDS,0
+9139087,11/21/2015,FCS,Alabama,Charleston So.,RUSHING,Xavian,Marks,TD,0
+9139088,11/21/2015,FCS,Alabama,Charleston So.,RUSHING,Xavian,Marks,LONG,0
+9139089,11/21/2015,FCS,Alabama,Charleston So.,RUSHING,Cooper,Bateman,ATT,1
+9139090,11/21/2015,FCS,Alabama,Charleston So.,RUSHING,Cooper,Bateman,YDS,-2
+9139091,11/21/2015,FCS,Alabama,Charleston So.,RUSHING,Cooper,Bateman,TD,0
+9139092,11/21/2015,FCS,Alabama,Charleston So.,RUSHING,Cooper,Bateman,LONG,-2
+9139093,11/21/2015,FCS,Alabama,Charleston So.,PASSING,Jake,Coker,CP-ATT-INT,11-13-0
+9139094,11/21/2015,FCS,Alabama,Charleston So.,PASSING,Jake,Coker,YDS,155
+9139095,11/21/2015,FCS,Alabama,Charleston So.,PASSING,Jake,Coker,TD,2
+9139096,11/21/2015,FCS,Alabama,Charleston So.,PASSING,Jake,Coker,LONG,30
+9139097,11/21/2015,FCS,Alabama,Charleston So.,PASSING,Cooper,Bateman,CP-ATT-INT,7-11-0
+9139098,11/21/2015,FCS,Alabama,Charleston So.,PASSING,Cooper,Bateman,YDS,47
+9139099,11/21/2015,FCS,Alabama,Charleston So.,PASSING,Cooper,Bateman,TD,0
+9139100,11/21/2015,FCS,Alabama,Charleston So.,PASSING,Cooper,Bateman,LONG,16
+9139101,11/21/2015,FCS,Alabama,Charleston So.,PASSING,Alec,Morris,CP-ATT-INT,1-1-0
+9139102,11/21/2015,FCS,Alabama,Charleston So.,PASSING,Alec,Morris,YDS,6
+9139103,11/21/2015,FCS,Alabama,Charleston So.,PASSING,Alec,Morris,TD,0
+9139104,11/21/2015,FCS,Alabama,Charleston So.,PASSING,Alec,Morris,LONG,6
+9139105,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,Calvin,Ridley,REC,4
+9139106,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,Calvin,Ridley,YDS,49
+9139107,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,Calvin,Ridley,TD,1
+9139108,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,Calvin,Ridley,LONG,30
+9139109,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,ArDarius,Stewart,REC,4
+9139110,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,ArDarius,Stewart,YDS,45
+9139111,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,ArDarius,Stewart,TD,0
+9139112,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,ArDarius,Stewart,LONG,21
+9139113,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,Derrick,Henry,REC,1
+9139114,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,Derrick,Henry,YDS,28
+9139115,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,Derrick,Henry,TD,0
+9139116,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,Derrick,Henry,LONG,28
+9139117,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,Cam,Sims,REC,3
+9139118,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,Cam,Sims,YDS,25
+9139119,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,Cam,Sims,TD,0
+9139120,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,Cam,Sims,LONG,16
+9139121,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,Richard,Mullaney,REC,1
+9139122,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,Richard,Mullaney,YDS,21
+9139123,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,Richard,Mullaney,TD,1
+9139124,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,Richard,Mullaney,LONG,21
+9139125,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,Xavian,Marks,REC,2
+9139126,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,Xavian,Marks,YDS,19
+9139127,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,Xavian,Marks,TD,0
+9139128,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,Xavian,Marks,LONG,13
+9139129,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,O.J.,Howard,REC,1
+9139130,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,O.J.,Howard,YDS,12
+9139131,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,O.J.,Howard,TD,0
+9139132,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,O.J.,Howard,LONG,12
+9139133,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,Dakota,Ball,REC,1
+9139134,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,Dakota,Ball,YDS,8
+9139135,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,Dakota,Ball,TD,0
+9139136,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,Dakota,Ball,LONG,8
+9139137,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,Daylon,Charlot,REC,1
+9139138,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,Daylon,Charlot,YDS,1
+9139139,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,Daylon,Charlot,TD,0
+9139140,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,Daylon,Charlot,LONG,1
+9139141,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,TY,Flournoy-Smith,REC,1
+9139142,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,TY,Flournoy-Smith,YDS,0
+9139143,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,TY,Flournoy-Smith,TD,0
+9139144,11/21/2015,FCS,Alabama,Charleston So.,RECEIVING,TY,Flournoy-Smith,LONG,0
+9139145,11/21/2015,FCS,Alabama,Charleston So.,KICKING,JK,Scott,FG-FGA,0/1
+9139146,11/21/2015,FCS,Alabama,Charleston So.,KICKING,JK,Scott,LONG,0
+9139147,11/21/2015,FCS,Alabama,Charleston So.,KICKING,JK,Scott,XP,1
+9139148,11/21/2015,FCS,Alabama,Charleston So.,KICKING,JK,Scott,PTS,1
+9139149,11/21/2015,FCS,Alabama,Charleston So.,KICKING,Adam,Griffith,FG-FGA,0/0
+9139150,11/21/2015,FCS,Alabama,Charleston So.,KICKING,Adam,Griffith,LONG,-
+9139151,11/21/2015,FCS,Alabama,Charleston So.,KICKING,Adam,Griffith,XP,7
+9139152,11/21/2015,FCS,Alabama,Charleston So.,KICKING,Adam,Griffith,PTS,7
+9139153,11/21/2015,FCS,Alabama,Charleston So.,PUNT RETURNS,Cyrus,Jones,NO,2
+9139154,11/21/2015,FCS,Alabama,Charleston So.,PUNT RETURNS,Cyrus,Jones,YDS,115
+9139155,11/21/2015,FCS,Alabama,Charleston So.,PUNT RETURNS,Cyrus,Jones,AVG,57.5
+9139156,11/21/2015,FCS,Alabama,Charleston So.,PUNT RETURNS,Cyrus,Jones,LONG,72
+9139157,11/21/2015,FCS,Alabama,Charleston So.,PUNT RETURNS,Richard,Mullaney,NO,1
+9139158,11/21/2015,FCS,Alabama,Charleston So.,PUNT RETURNS,Richard,Mullaney,YDS,8
+9139159,11/21/2015,FCS,Alabama,Charleston So.,PUNT RETURNS,Richard,Mullaney,AVG,8.0
+9139160,11/21/2015,FCS,Alabama,Charleston So.,PUNT RETURNS,Richard,Mullaney,LONG,8
+9139161,11/21/2015,FCS,Alabama,Charleston So.,PUNT RETURNS,Xavian,Marks,NO,0
+9139162,11/21/2015,FCS,Alabama,Charleston So.,PUNT RETURNS,Xavian,Marks,YDS,0
+9139163,11/21/2015,FCS,Alabama,Charleston So.,PUNT RETURNS,Xavian,Marks,AVG,-
+9139164,11/21/2015,FCS,Alabama,Charleston So.,PUNT RETURNS,Xavian,Marks,LONG,0
+9139165,11/21/2015,FCS,Alabama,Charleston So.,KICK RETURNS,TY,Flournoy-Smith,NO,1
+9139166,11/21/2015,FCS,Alabama,Charleston So.,KICK RETURNS,TY,Flournoy-Smith,YDS,19
+9139167,11/21/2015,FCS,Alabama,Charleston So.,KICK RETURNS,TY,Flournoy-Smith,AVG,19.0
+9139168,11/21/2015,FCS,Alabama,Charleston So.,KICK RETURNS,TY,Flournoy-Smith,LONG,19
+9139169,11/21/2015,FCS,Alabama,Charleston So.,KICK RETURNS,Hale,Hentges,NO,1
+9139170,11/21/2015,FCS,Alabama,Charleston So.,KICK RETURNS,Hale,Hentges,YDS,2
+9139171,11/21/2015,FCS,Alabama,Charleston So.,KICK RETURNS,Hale,Hentges,AVG,2.0
+9139172,11/21/2015,FCS,Alabama,Charleston So.,KICK RETURNS,Hale,Hentges,LONG,2

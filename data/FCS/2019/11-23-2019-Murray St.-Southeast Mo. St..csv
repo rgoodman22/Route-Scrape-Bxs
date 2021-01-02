@@ -1,0 +1,159 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+12348001,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RUSHING,Preston,Rice,ATT,13
+12348002,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RUSHING,Preston,Rice,YDS,73
+12348003,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RUSHING,Preston,Rice,TD,1
+12348004,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RUSHING,Preston,Rice,LONG,18
+12348005,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RUSHING,Jared,McCray,ATT,5
+12348006,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RUSHING,Jared,McCray,YDS,11
+12348007,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RUSHING,Jared,McCray,TD,0
+12348008,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RUSHING,Jared,McCray,LONG,5
+12348009,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RUSHING,Cory,Thomas,ATT,1
+12348010,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RUSHING,Cory,Thomas,YDS,6
+12348011,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RUSHING,Cory,Thomas,TD,0
+12348012,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RUSHING,Cory,Thomas,LONG,6
+12348013,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RUSHING,Rodney,Castille,ATT,3
+12348014,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RUSHING,Rodney,Castille,YDS,6
+12348015,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RUSHING,Rodney,Castille,TD,0
+12348016,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RUSHING,Rodney,Castille,LONG,3
+12348017,11/23/2019,FCS,Murray St.,Southeast Mo. St.,PASSING,Preston,Rice,CP-ATT-INT,34-48-1
+12348018,11/23/2019,FCS,Murray St.,Southeast Mo. St.,PASSING,Preston,Rice,YDS,284
+12348019,11/23/2019,FCS,Murray St.,Southeast Mo. St.,PASSING,Preston,Rice,TD,2
+12348020,11/23/2019,FCS,Murray St.,Southeast Mo. St.,PASSING,Preston,Rice,LONG,28
+12348021,11/23/2019,FCS,Murray St.,Southeast Mo. St.,PASSING,Tyre,Gray,CP-ATT-INT,1-1-0
+12348022,11/23/2019,FCS,Murray St.,Southeast Mo. St.,PASSING,Tyre,Gray,YDS,23
+12348023,11/23/2019,FCS,Murray St.,Southeast Mo. St.,PASSING,Tyre,Gray,TD,0
+12348024,11/23/2019,FCS,Murray St.,Southeast Mo. St.,PASSING,Tyre,Gray,LONG,23
+12348025,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,Jonathan,Moss,REC,6
+12348026,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,Jonathan,Moss,YDS,64
+12348027,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,Jonathan,Moss,TD,0
+12348028,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,Jonathan,Moss,LONG,20
+12348029,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,Armani,Hayes,REC,2
+12348030,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,Armani,Hayes,YDS,51
+12348031,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,Armani,Hayes,TD,1
+12348032,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,Armani,Hayes,LONG,28
+12348033,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,Rodney,Castille,REC,8
+12348034,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,Rodney,Castille,YDS,41
+12348035,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,Rodney,Castille,TD,0
+12348036,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,Rodney,Castille,LONG,20
+12348037,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,DaQuon,Green,REC,4
+12348038,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,DaQuon,Green,YDS,38
+12348039,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,DaQuon,Green,TD,0
+12348040,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,DaQuon,Green,LONG,21
+12348041,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,Jared,McCray,REC,1
+12348042,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,Jared,McCray,YDS,28
+12348043,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,Jared,McCray,TD,0
+12348044,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,Jared,McCray,LONG,28
+12348045,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,LaMartez,Brooks,REC,4
+12348046,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,LaMartez,Brooks,YDS,26
+12348047,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,LaMartez,Brooks,TD,1
+12348048,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,LaMartez,Brooks,LONG,11
+12348049,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,Preston,Rice,REC,1
+12348050,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,Preston,Rice,YDS,23
+12348051,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,Preston,Rice,TD,0
+12348052,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,Preston,Rice,LONG,23
+12348053,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,Tyre,Gray,REC,5
+12348054,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,Tyre,Gray,YDS,20
+12348055,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,Tyre,Gray,TD,0
+12348056,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,Tyre,Gray,LONG,12
+12348057,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,DeQuan,Dallas,REC,2
+12348058,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,DeQuan,Dallas,YDS,12
+12348059,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,DeQuan,Dallas,TD,0
+12348060,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,DeQuan,Dallas,LONG,13
+12348061,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,Ty,Terrell,REC,2
+12348062,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,Ty,Terrell,YDS,4
+12348063,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,Ty,Terrell,TD,0
+12348064,11/23/2019,FCS,Murray St.,Southeast Mo. St.,RECEIVING,Ty,Terrell,LONG,4
+12348065,11/23/2019,FCS,Murray St.,Southeast Mo. St.,KICKING,Zaden,Webber,FG-FGA,1/2
+12348066,11/23/2019,FCS,Murray St.,Southeast Mo. St.,KICKING,Zaden,Webber,LONG,26
+12348067,11/23/2019,FCS,Murray St.,Southeast Mo. St.,KICKING,Zaden,Webber,XP,3
+12348068,11/23/2019,FCS,Murray St.,Southeast Mo. St.,KICKING,Zaden,Webber,PTS,6
+12348069,11/23/2019,FCS,Murray St.,Southeast Mo. St.,PUNTING,Steve,Dawson,NO,4
+12348070,11/23/2019,FCS,Murray St.,Southeast Mo. St.,PUNTING,Steve,Dawson,YDS,176
+12348071,11/23/2019,FCS,Murray St.,Southeast Mo. St.,PUNTING,Steve,Dawson,AVG,44.0
+12348072,11/23/2019,FCS,Murray St.,Southeast Mo. St.,PUNTING,Steve,Dawson,LONG,52
+12348073,11/23/2019,FCS,Murray St.,Southeast Mo. St.,KICK RETURNS,Quinaz,Turner,NO,3
+12348074,11/23/2019,FCS,Murray St.,Southeast Mo. St.,KICK RETURNS,Quinaz,Turner,YDS,61
+12348075,11/23/2019,FCS,Murray St.,Southeast Mo. St.,KICK RETURNS,Quinaz,Turner,AVG,20.3
+12348076,11/23/2019,FCS,Murray St.,Southeast Mo. St.,KICK RETURNS,Quinaz,Turner,LONG,32
+12348077,11/23/2019,FCS,Murray St.,Southeast Mo. St.,KICK RETURNS,DeQuan,Dallas,NO,1
+12348078,11/23/2019,FCS,Murray St.,Southeast Mo. St.,KICK RETURNS,DeQuan,Dallas,YDS,35
+12348079,11/23/2019,FCS,Murray St.,Southeast Mo. St.,KICK RETURNS,DeQuan,Dallas,AVG,35.0
+12348080,11/23/2019,FCS,Murray St.,Southeast Mo. St.,KICK RETURNS,DeQuan,Dallas,LONG,35
+12348081,11/23/2019,FCS,Murray St.,Southeast Mo. St.,DEFENSE,Kendrick,Catis,TOT,0
+12348082,11/23/2019,FCS,Murray St.,Southeast Mo. St.,DEFENSE,Kendrick,Catis,SOLO,0
+12348083,11/23/2019,FCS,Murray St.,Southeast Mo. St.,DEFENSE,Kendrick,Catis,SACKS,0
+12348084,11/23/2019,FCS,Murray St.,Southeast Mo. St.,DEFENSE,Kendrick,Catis,TFL,0
+12348085,11/23/2019,FCS,Murray St.,Southeast Mo. St.,DEFENSE,Kendrick,Catis,INT,1
+12348086,11/23/2019,FCS,Murray St.,Southeast Mo. St.,DEFENSE,Kendrick,Catis,FF,0
+12348087,11/23/2019,FCS,Murray St.,Southeast Mo. St.,DEFENSE,Kendrick,Catis,FR,0
+12348088,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RUSHING,Zion,Custis,ATT,15
+12348089,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RUSHING,Zion,Custis,YDS,86
+12348090,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RUSHING,Zion,Custis,TD,0
+12348091,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RUSHING,Zion,Custis,LONG,12
+12348092,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RUSHING,Mark,Robinson,ATT,12
+12348093,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RUSHING,Mark,Robinson,YDS,55
+12348094,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RUSHING,Mark,Robinson,TD,0
+12348095,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RUSHING,Mark,Robinson,LONG,24
+12348096,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RUSHING,Daniel,Santacaterina,ATT,7
+12348097,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RUSHING,Daniel,Santacaterina,YDS,9
+12348098,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RUSHING,Daniel,Santacaterina,TD,0
+12348099,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RUSHING,Daniel,Santacaterina,LONG,11
+12348100,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RUSHING,Zack,Smith,ATT,2
+12348101,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RUSHING,Zack,Smith,YDS,2
+12348102,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RUSHING,Zack,Smith,TD,0
+12348103,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RUSHING,Zack,Smith,LONG,2
+12348104,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RUSHING,,Team,ATT,2
+12348105,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RUSHING,,Team,YDS,-4
+12348106,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RUSHING,,Team,TD,0
+12348107,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RUSHING,,Team,LONG,0
+12348108,11/23/2019,FCS,Southeast Mo. St.,Murray St.,PASSING,Daniel,Santacaterina,CP-ATT-INT,29-39-1
+12348109,11/23/2019,FCS,Southeast Mo. St.,Murray St.,PASSING,Daniel,Santacaterina,YDS,215
+12348110,11/23/2019,FCS,Southeast Mo. St.,Murray St.,PASSING,Daniel,Santacaterina,TD,3
+12348111,11/23/2019,FCS,Southeast Mo. St.,Murray St.,PASSING,Daniel,Santacaterina,LONG,21
+12348112,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RECEIVING,Kristian,Wilkerson,REC,11
+12348113,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RECEIVING,Kristian,Wilkerson,YDS,95
+12348114,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RECEIVING,Kristian,Wilkerson,TD,1
+12348115,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RECEIVING,Kristian,Wilkerson,LONG,16
+12348116,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RECEIVING,Aaron,Alston,REC,7
+12348117,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RECEIVING,Aaron,Alston,YDS,53
+12348118,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RECEIVING,Aaron,Alston,TD,0
+12348119,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RECEIVING,Aaron,Alston,LONG,17
+12348120,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RECEIVING,Eric,Williams,REC,2
+12348121,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RECEIVING,Eric,Williams,YDS,37
+12348122,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RECEIVING,Eric,Williams,TD,0
+12348123,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RECEIVING,Eric,Williams,LONG,21
+12348124,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RECEIVING,Zack,Smith,REC,5
+12348125,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RECEIVING,Zack,Smith,YDS,27
+12348126,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RECEIVING,Zack,Smith,TD,2
+12348127,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RECEIVING,Zack,Smith,LONG,17
+12348128,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RECEIVING,Zion,Custis,REC,3
+12348129,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RECEIVING,Zion,Custis,YDS,7
+12348130,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RECEIVING,Zion,Custis,TD,0
+12348131,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RECEIVING,Zion,Custis,LONG,8
+12348132,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RECEIVING,Mark,Robinson,REC,1
+12348133,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RECEIVING,Mark,Robinson,YDS,-4
+12348134,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RECEIVING,Mark,Robinson,TD,0
+12348135,11/23/2019,FCS,Southeast Mo. St.,Murray St.,RECEIVING,Mark,Robinson,LONG,0
+12348136,11/23/2019,FCS,Southeast Mo. St.,Murray St.,KICKING,Kendrick,Tiller,FG-FGA,1/1
+12348137,11/23/2019,FCS,Southeast Mo. St.,Murray St.,KICKING,Kendrick,Tiller,LONG,35
+12348138,11/23/2019,FCS,Southeast Mo. St.,Murray St.,KICKING,Kendrick,Tiller,XP,4
+12348139,11/23/2019,FCS,Southeast Mo. St.,Murray St.,KICKING,Kendrick,Tiller,PTS,7
+12348140,11/23/2019,FCS,Southeast Mo. St.,Murray St.,PUNTING,Jake,Reynolds,NO,3
+12348141,11/23/2019,FCS,Southeast Mo. St.,Murray St.,PUNTING,Jake,Reynolds,YDS,118
+12348142,11/23/2019,FCS,Southeast Mo. St.,Murray St.,PUNTING,Jake,Reynolds,AVG,39.3
+12348143,11/23/2019,FCS,Southeast Mo. St.,Murray St.,PUNTING,Jake,Reynolds,LONG,42
+12348144,11/23/2019,FCS,Southeast Mo. St.,Murray St.,PUNT RETURNS,Shabari,Davis,NO,3
+12348145,11/23/2019,FCS,Southeast Mo. St.,Murray St.,PUNT RETURNS,Shabari,Davis,YDS,26
+12348146,11/23/2019,FCS,Southeast Mo. St.,Murray St.,PUNT RETURNS,Shabari,Davis,AVG,8.7
+12348147,11/23/2019,FCS,Southeast Mo. St.,Murray St.,PUNT RETURNS,Shabari,Davis,LONG,13
+12348148,11/23/2019,FCS,Southeast Mo. St.,Murray St.,KICK RETURNS,Zion,Custis,NO,2
+12348149,11/23/2019,FCS,Southeast Mo. St.,Murray St.,KICK RETURNS,Zion,Custis,YDS,44
+12348150,11/23/2019,FCS,Southeast Mo. St.,Murray St.,KICK RETURNS,Zion,Custis,AVG,22.0
+12348151,11/23/2019,FCS,Southeast Mo. St.,Murray St.,KICK RETURNS,Zion,Custis,LONG,38
+12348152,11/23/2019,FCS,Southeast Mo. St.,Murray St.,DEFENSE,Zach,Hall,TOT,0
+12348153,11/23/2019,FCS,Southeast Mo. St.,Murray St.,DEFENSE,Zach,Hall,SOLO,0
+12348154,11/23/2019,FCS,Southeast Mo. St.,Murray St.,DEFENSE,Zach,Hall,SACKS,0
+12348155,11/23/2019,FCS,Southeast Mo. St.,Murray St.,DEFENSE,Zach,Hall,TFL,0
+12348156,11/23/2019,FCS,Southeast Mo. St.,Murray St.,DEFENSE,Zach,Hall,INT,1
+12348157,11/23/2019,FCS,Southeast Mo. St.,Murray St.,DEFENSE,Zach,Hall,FF,0
+12348158,11/23/2019,FCS,Southeast Mo. St.,Murray St.,DEFENSE,Zach,Hall,FR,0

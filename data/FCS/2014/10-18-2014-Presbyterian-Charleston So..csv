@@ -1,0 +1,129 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+8080001,10/18/2014,FCS,Presbyterian,Charleston So.,RUSHING,Demarcus,Rouse,ATT,17
+8080002,10/18/2014,FCS,Presbyterian,Charleston So.,RUSHING,Demarcus,Rouse,YDS,76
+8080003,10/18/2014,FCS,Presbyterian,Charleston So.,RUSHING,Demarcus,Rouse,TD,1
+8080004,10/18/2014,FCS,Presbyterian,Charleston So.,RUSHING,Demarcus,Rouse,LONG,48
+8080005,10/18/2014,FCS,Presbyterian,Charleston So.,RUSHING,Jeremiah,McKie,ATT,4
+8080006,10/18/2014,FCS,Presbyterian,Charleston So.,RUSHING,Jeremiah,McKie,YDS,51
+8080007,10/18/2014,FCS,Presbyterian,Charleston So.,RUSHING,Jeremiah,McKie,TD,0
+8080008,10/18/2014,FCS,Presbyterian,Charleston So.,RUSHING,Jeremiah,McKie,LONG,19
+8080009,10/18/2014,FCS,Presbyterian,Charleston So.,RUSHING,Blake,Roberts,ATT,8
+8080010,10/18/2014,FCS,Presbyterian,Charleston So.,RUSHING,Blake,Roberts,YDS,31
+8080011,10/18/2014,FCS,Presbyterian,Charleston So.,RUSHING,Blake,Roberts,TD,0
+8080012,10/18/2014,FCS,Presbyterian,Charleston So.,RUSHING,Blake,Roberts,LONG,19
+8080013,10/18/2014,FCS,Presbyterian,Charleston So.,RUSHING,Heys,McMath,ATT,5
+8080014,10/18/2014,FCS,Presbyterian,Charleston So.,RUSHING,Heys,McMath,YDS,5
+8080015,10/18/2014,FCS,Presbyterian,Charleston So.,RUSHING,Heys,McMath,TD,0
+8080016,10/18/2014,FCS,Presbyterian,Charleston So.,RUSHING,Heys,McMath,LONG,6
+8080017,10/18/2014,FCS,Presbyterian,Charleston So.,RUSHING,Marquel,Hines,ATT,1
+8080018,10/18/2014,FCS,Presbyterian,Charleston So.,RUSHING,Marquel,Hines,YDS,1
+8080019,10/18/2014,FCS,Presbyterian,Charleston So.,RUSHING,Marquel,Hines,TD,0
+8080020,10/18/2014,FCS,Presbyterian,Charleston So.,RUSHING,Marquel,Hines,LONG,1
+8080021,10/18/2014,FCS,Presbyterian,Charleston So.,RUSHING,,Team,ATT,2
+8080022,10/18/2014,FCS,Presbyterian,Charleston So.,RUSHING,,Team,YDS,-2
+8080023,10/18/2014,FCS,Presbyterian,Charleston So.,RUSHING,,Team,TD,0
+8080024,10/18/2014,FCS,Presbyterian,Charleston So.,RUSHING,,Team,LONG,0
+8080025,10/18/2014,FCS,Presbyterian,Charleston So.,PASSING,Heys,McMath,CP-ATT-INT,9-18-1
+8080026,10/18/2014,FCS,Presbyterian,Charleston So.,PASSING,Heys,McMath,YDS,162
+8080027,10/18/2014,FCS,Presbyterian,Charleston So.,PASSING,Heys,McMath,TD,0
+8080028,10/18/2014,FCS,Presbyterian,Charleston So.,PASSING,Heys,McMath,LONG,48
+8080029,10/18/2014,FCS,Presbyterian,Charleston So.,RECEIVING,Tobi,Antigha,REC,2
+8080030,10/18/2014,FCS,Presbyterian,Charleston So.,RECEIVING,Tobi,Antigha,YDS,73
+8080031,10/18/2014,FCS,Presbyterian,Charleston So.,RECEIVING,Tobi,Antigha,TD,0
+8080032,10/18/2014,FCS,Presbyterian,Charleston So.,RECEIVING,Tobi,Antigha,LONG,50
+8080033,10/18/2014,FCS,Presbyterian,Charleston So.,RECEIVING,Kris,Hurley,REC,2
+8080034,10/18/2014,FCS,Presbyterian,Charleston So.,RECEIVING,Kris,Hurley,YDS,29
+8080035,10/18/2014,FCS,Presbyterian,Charleston So.,RECEIVING,Kris,Hurley,TD,0
+8080036,10/18/2014,FCS,Presbyterian,Charleston So.,RECEIVING,Kris,Hurley,LONG,18
+8080037,10/18/2014,FCS,Presbyterian,Charleston So.,RECEIVING,DarQuez,Watson,REC,1
+8080038,10/18/2014,FCS,Presbyterian,Charleston So.,RECEIVING,DarQuez,Watson,YDS,25
+8080039,10/18/2014,FCS,Presbyterian,Charleston So.,RECEIVING,DarQuez,Watson,TD,0
+8080040,10/18/2014,FCS,Presbyterian,Charleston So.,RECEIVING,DarQuez,Watson,LONG,25
+8080041,10/18/2014,FCS,Presbyterian,Charleston So.,RECEIVING,Blake,Roberts,REC,1
+8080042,10/18/2014,FCS,Presbyterian,Charleston So.,RECEIVING,Blake,Roberts,YDS,22
+8080043,10/18/2014,FCS,Presbyterian,Charleston So.,RECEIVING,Blake,Roberts,TD,0
+8080044,10/18/2014,FCS,Presbyterian,Charleston So.,RECEIVING,Blake,Roberts,LONG,22
+8080045,10/18/2014,FCS,Presbyterian,Charleston So.,RECEIVING,Jeremiah,McKie,REC,3
+8080046,10/18/2014,FCS,Presbyterian,Charleston So.,RECEIVING,Jeremiah,McKie,YDS,13
+8080047,10/18/2014,FCS,Presbyterian,Charleston So.,RECEIVING,Jeremiah,McKie,TD,0
+8080048,10/18/2014,FCS,Presbyterian,Charleston So.,RECEIVING,Jeremiah,McKie,LONG,8
+8080049,10/18/2014,FCS,Presbyterian,Charleston So.,KICKING,Brandon,Morrow,FG-FGA,0/2
+8080050,10/18/2014,FCS,Presbyterian,Charleston So.,KICKING,Brandon,Morrow,LONG,0
+8080051,10/18/2014,FCS,Presbyterian,Charleston So.,KICKING,Brandon,Morrow,XP,1
+8080052,10/18/2014,FCS,Presbyterian,Charleston So.,KICKING,Brandon,Morrow,PTS,1
+8080053,10/18/2014,FCS,Presbyterian,Charleston So.,PUNTING,Stephen,Doar,NO,5
+8080054,10/18/2014,FCS,Presbyterian,Charleston So.,PUNTING,Stephen,Doar,YDS,163
+8080055,10/18/2014,FCS,Presbyterian,Charleston So.,PUNTING,Stephen,Doar,AVG,32.6
+8080056,10/18/2014,FCS,Presbyterian,Charleston So.,PUNTING,Stephen,Doar,LONG,51
+8080057,10/18/2014,FCS,Presbyterian,Charleston So.,PUNT RETURNS,Jordan,Hallums,NO,1
+8080058,10/18/2014,FCS,Presbyterian,Charleston So.,PUNT RETURNS,Jordan,Hallums,YDS,6
+8080059,10/18/2014,FCS,Presbyterian,Charleston So.,PUNT RETURNS,Jordan,Hallums,AVG,6.0
+8080060,10/18/2014,FCS,Presbyterian,Charleston So.,PUNT RETURNS,Jordan,Hallums,LONG,6
+8080061,10/18/2014,FCS,Presbyterian,Charleston So.,PUNT RETURNS,Jeremiah,McKie,NO,1
+8080062,10/18/2014,FCS,Presbyterian,Charleston So.,PUNT RETURNS,Jeremiah,McKie,YDS,0
+8080063,10/18/2014,FCS,Presbyterian,Charleston So.,PUNT RETURNS,Jeremiah,McKie,AVG,-
+8080064,10/18/2014,FCS,Presbyterian,Charleston So.,PUNT RETURNS,Jeremiah,McKie,LONG,0
+8080065,10/18/2014,FCS,Presbyterian,Charleston So.,KICK RETURNS,Jeremiah,McKie,NO,1
+8080066,10/18/2014,FCS,Presbyterian,Charleston So.,KICK RETURNS,Jeremiah,McKie,YDS,30
+8080067,10/18/2014,FCS,Presbyterian,Charleston So.,KICK RETURNS,Jeremiah,McKie,AVG,30.0
+8080068,10/18/2014,FCS,Presbyterian,Charleston So.,KICK RETURNS,Jeremiah,McKie,LONG,30
+8080069,10/18/2014,FCS,Presbyterian,Charleston So.,KICK RETURNS,Blake,Roberts,NO,1
+8080070,10/18/2014,FCS,Presbyterian,Charleston So.,KICK RETURNS,Blake,Roberts,YDS,11
+8080071,10/18/2014,FCS,Presbyterian,Charleston So.,KICK RETURNS,Blake,Roberts,AVG,11.0
+8080072,10/18/2014,FCS,Presbyterian,Charleston So.,KICK RETURNS,Blake,Roberts,LONG,11
+8080073,10/18/2014,FCS,Charleston So.,Presbyterian,RUSHING,Christian,Reyes,ATT,23
+8080074,10/18/2014,FCS,Charleston So.,Presbyterian,RUSHING,Christian,Reyes,YDS,81
+8080075,10/18/2014,FCS,Charleston So.,Presbyterian,RUSHING,Christian,Reyes,TD,0
+8080076,10/18/2014,FCS,Charleston So.,Presbyterian,RUSHING,Christian,Reyes,LONG,14
+8080077,10/18/2014,FCS,Charleston So.,Presbyterian,RUSHING,Austin,Brown,ATT,12
+8080078,10/18/2014,FCS,Charleston So.,Presbyterian,RUSHING,Austin,Brown,YDS,30
+8080079,10/18/2014,FCS,Charleston So.,Presbyterian,RUSHING,Austin,Brown,TD,0
+8080080,10/18/2014,FCS,Charleston So.,Presbyterian,RUSHING,Austin,Brown,LONG,13
+8080081,10/18/2014,FCS,Charleston So.,Presbyterian,RUSHING,Mike,Holloway,ATT,5
+8080082,10/18/2014,FCS,Charleston So.,Presbyterian,RUSHING,Mike,Holloway,YDS,23
+8080083,10/18/2014,FCS,Charleston So.,Presbyterian,RUSHING,Mike,Holloway,TD,0
+8080084,10/18/2014,FCS,Charleston So.,Presbyterian,RUSHING,Mike,Holloway,LONG,7
+8080085,10/18/2014,FCS,Charleston So.,Presbyterian,RUSHING,Ben,Robinson,ATT,6
+8080086,10/18/2014,FCS,Charleston So.,Presbyterian,RUSHING,Ben,Robinson,YDS,14
+8080087,10/18/2014,FCS,Charleston So.,Presbyterian,RUSHING,Ben,Robinson,TD,0
+8080088,10/18/2014,FCS,Charleston So.,Presbyterian,RUSHING,Ben,Robinson,LONG,8
+8080089,10/18/2014,FCS,Charleston So.,Presbyterian,RUSHING,Zachary,Frazier,ATT,2
+8080090,10/18/2014,FCS,Charleston So.,Presbyterian,RUSHING,Zachary,Frazier,YDS,5
+8080091,10/18/2014,FCS,Charleston So.,Presbyterian,RUSHING,Zachary,Frazier,TD,0
+8080092,10/18/2014,FCS,Charleston So.,Presbyterian,RUSHING,Zachary,Frazier,LONG,3
+8080093,10/18/2014,FCS,Charleston So.,Presbyterian,PASSING,Austin,Brown,CP-ATT-INT,6-18-2
+8080094,10/18/2014,FCS,Charleston So.,Presbyterian,PASSING,Austin,Brown,YDS,97
+8080095,10/18/2014,FCS,Charleston So.,Presbyterian,PASSING,Austin,Brown,TD,0
+8080096,10/18/2014,FCS,Charleston So.,Presbyterian,PASSING,Austin,Brown,LONG,39
+8080097,10/18/2014,FCS,Charleston So.,Presbyterian,RECEIVING,Kenny,Dinkins,REC,1
+8080098,10/18/2014,FCS,Charleston So.,Presbyterian,RECEIVING,Kenny,Dinkins,YDS,39
+8080099,10/18/2014,FCS,Charleston So.,Presbyterian,RECEIVING,Kenny,Dinkins,TD,0
+8080100,10/18/2014,FCS,Charleston So.,Presbyterian,RECEIVING,Kenny,Dinkins,LONG,39
+8080101,10/18/2014,FCS,Charleston So.,Presbyterian,RECEIVING,Nathan,Perera,REC,2
+8080102,10/18/2014,FCS,Charleston So.,Presbyterian,RECEIVING,Nathan,Perera,YDS,26
+8080103,10/18/2014,FCS,Charleston So.,Presbyterian,RECEIVING,Nathan,Perera,TD,0
+8080104,10/18/2014,FCS,Charleston So.,Presbyterian,RECEIVING,Nathan,Perera,LONG,23
+8080105,10/18/2014,FCS,Charleston So.,Presbyterian,RECEIVING,Colton,Korn,REC,2
+8080106,10/18/2014,FCS,Charleston So.,Presbyterian,RECEIVING,Colton,Korn,YDS,24
+8080107,10/18/2014,FCS,Charleston So.,Presbyterian,RECEIVING,Colton,Korn,TD,0
+8080108,10/18/2014,FCS,Charleston So.,Presbyterian,RECEIVING,Colton,Korn,LONG,17
+8080109,10/18/2014,FCS,Charleston So.,Presbyterian,RECEIVING,Ray,Rowe,REC,1
+8080110,10/18/2014,FCS,Charleston So.,Presbyterian,RECEIVING,Ray,Rowe,YDS,8
+8080111,10/18/2014,FCS,Charleston So.,Presbyterian,RECEIVING,Ray,Rowe,TD,0
+8080112,10/18/2014,FCS,Charleston So.,Presbyterian,RECEIVING,Ray,Rowe,LONG,8
+8080113,10/18/2014,FCS,Charleston So.,Presbyterian,KICKING,David,Kennedy,FG-FGA,1/2
+8080114,10/18/2014,FCS,Charleston So.,Presbyterian,KICKING,David,Kennedy,LONG,27
+8080115,10/18/2014,FCS,Charleston So.,Presbyterian,KICKING,David,Kennedy,XP,0
+8080116,10/18/2014,FCS,Charleston So.,Presbyterian,KICKING,David,Kennedy,PTS,3
+8080117,10/18/2014,FCS,Charleston So.,Presbyterian,PUNTING,Truett,Burns,NO,5
+8080118,10/18/2014,FCS,Charleston So.,Presbyterian,PUNTING,Truett,Burns,YDS,208
+8080119,10/18/2014,FCS,Charleston So.,Presbyterian,PUNTING,Truett,Burns,AVG,41.6
+8080120,10/18/2014,FCS,Charleston So.,Presbyterian,PUNTING,Truett,Burns,LONG,59
+8080121,10/18/2014,FCS,Charleston So.,Presbyterian,PUNT RETURNS,Darius,Hammond,NO,1
+8080122,10/18/2014,FCS,Charleston So.,Presbyterian,PUNT RETURNS,Darius,Hammond,YDS,9
+8080123,10/18/2014,FCS,Charleston So.,Presbyterian,PUNT RETURNS,Darius,Hammond,AVG,9.0
+8080124,10/18/2014,FCS,Charleston So.,Presbyterian,PUNT RETURNS,Darius,Hammond,LONG,9
+8080125,10/18/2014,FCS,Charleston So.,Presbyterian,KICK RETURNS,Zachary,Frazier,NO,1
+8080126,10/18/2014,FCS,Charleston So.,Presbyterian,KICK RETURNS,Zachary,Frazier,YDS,13
+8080127,10/18/2014,FCS,Charleston So.,Presbyterian,KICK RETURNS,Zachary,Frazier,AVG,13.0
+8080128,10/18/2014,FCS,Charleston So.,Presbyterian,KICK RETURNS,Zachary,Frazier,LONG,13

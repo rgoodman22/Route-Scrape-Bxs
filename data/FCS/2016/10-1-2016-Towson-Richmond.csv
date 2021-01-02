@@ -1,0 +1,157 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9546001,10/1/2016,FCS,Towson,Richmond,RUSHING,Shane,Simpson,ATT,12
+9546002,10/1/2016,FCS,Towson,Richmond,RUSHING,Shane,Simpson,YDS,106
+9546003,10/1/2016,FCS,Towson,Richmond,RUSHING,Shane,Simpson,TD,0
+9546004,10/1/2016,FCS,Towson,Richmond,RUSHING,Shane,Simpson,LONG,46
+9546005,10/1/2016,FCS,Towson,Richmond,RUSHING,Darius,Victor,ATT,19
+9546006,10/1/2016,FCS,Towson,Richmond,RUSHING,Darius,Victor,YDS,99
+9546007,10/1/2016,FCS,Towson,Richmond,RUSHING,Darius,Victor,TD,4
+9546008,10/1/2016,FCS,Towson,Richmond,RUSHING,Darius,Victor,LONG,16
+9546009,10/1/2016,FCS,Towson,Richmond,RUSHING,Deshaun,Wethington,ATT,2
+9546010,10/1/2016,FCS,Towson,Richmond,RUSHING,Deshaun,Wethington,YDS,24
+9546011,10/1/2016,FCS,Towson,Richmond,RUSHING,Deshaun,Wethington,TD,0
+9546012,10/1/2016,FCS,Towson,Richmond,RUSHING,Deshaun,Wethington,LONG,25
+9546013,10/1/2016,FCS,Towson,Richmond,RUSHING,,Team,ATT,1
+9546014,10/1/2016,FCS,Towson,Richmond,RUSHING,,Team,YDS,-1
+9546015,10/1/2016,FCS,Towson,Richmond,RUSHING,,Team,TD,0
+9546016,10/1/2016,FCS,Towson,Richmond,RUSHING,,Team,LONG,0
+9546017,10/1/2016,FCS,Towson,Richmond,RUSHING,Ellis,Knudson,ATT,4
+9546018,10/1/2016,FCS,Towson,Richmond,RUSHING,Ellis,Knudson,YDS,-3
+9546019,10/1/2016,FCS,Towson,Richmond,RUSHING,Ellis,Knudson,TD,0
+9546020,10/1/2016,FCS,Towson,Richmond,RUSHING,Ellis,Knudson,LONG,1
+9546021,10/1/2016,FCS,Towson,Richmond,PASSING,Ellis,Knudson,CP-ATT-INT,8-19-0
+9546022,10/1/2016,FCS,Towson,Richmond,PASSING,Ellis,Knudson,YDS,105
+9546023,10/1/2016,FCS,Towson,Richmond,PASSING,Ellis,Knudson,TD,0
+9546024,10/1/2016,FCS,Towson,Richmond,PASSING,Ellis,Knudson,LONG,26
+9546025,10/1/2016,FCS,Towson,Richmond,RECEIVING,Andre,Dessenberg,REC,2
+9546026,10/1/2016,FCS,Towson,Richmond,RECEIVING,Andre,Dessenberg,YDS,43
+9546027,10/1/2016,FCS,Towson,Richmond,RECEIVING,Andre,Dessenberg,TD,0
+9546028,10/1/2016,FCS,Towson,Richmond,RECEIVING,Andre,Dessenberg,LONG,26
+9546029,10/1/2016,FCS,Towson,Richmond,RECEIVING,Christian,Summers,REC,4
+9546030,10/1/2016,FCS,Towson,Richmond,RECEIVING,Christian,Summers,YDS,35
+9546031,10/1/2016,FCS,Towson,Richmond,RECEIVING,Christian,Summers,TD,0
+9546032,10/1/2016,FCS,Towson,Richmond,RECEIVING,Christian,Summers,LONG,14
+9546033,10/1/2016,FCS,Towson,Richmond,RECEIVING,Sam,Gallahan,REC,1
+9546034,10/1/2016,FCS,Towson,Richmond,RECEIVING,Sam,Gallahan,YDS,19
+9546035,10/1/2016,FCS,Towson,Richmond,RECEIVING,Sam,Gallahan,TD,0
+9546036,10/1/2016,FCS,Towson,Richmond,RECEIVING,Sam,Gallahan,LONG,19
+9546037,10/1/2016,FCS,Towson,Richmond,RECEIVING,Tanner,Vallely,REC,1
+9546038,10/1/2016,FCS,Towson,Richmond,RECEIVING,Tanner,Vallely,YDS,8
+9546039,10/1/2016,FCS,Towson,Richmond,RECEIVING,Tanner,Vallely,TD,0
+9546040,10/1/2016,FCS,Towson,Richmond,RECEIVING,Tanner,Vallely,LONG,8
+9546041,10/1/2016,FCS,Towson,Richmond,KICKING,Aidan,O'Neill,FG-FGA,0/0
+9546042,10/1/2016,FCS,Towson,Richmond,KICKING,Aidan,O'Neill,LONG,-
+9546043,10/1/2016,FCS,Towson,Richmond,KICKING,Aidan,O'Neill,XP,4
+9546044,10/1/2016,FCS,Towson,Richmond,KICKING,Aidan,O'Neill,PTS,4
+9546045,10/1/2016,FCS,Towson,Richmond,PUNTING,Jake,Ryder,NO,5
+9546046,10/1/2016,FCS,Towson,Richmond,PUNTING,Jake,Ryder,YDS,237
+9546047,10/1/2016,FCS,Towson,Richmond,PUNTING,Jake,Ryder,AVG,47.4
+9546048,10/1/2016,FCS,Towson,Richmond,PUNTING,Jake,Ryder,LONG,54
+9546049,10/1/2016,FCS,Towson,Richmond,PUNTING,,Team,NO,1
+9546050,10/1/2016,FCS,Towson,Richmond,PUNTING,,Team,YDS,-14
+9546051,10/1/2016,FCS,Towson,Richmond,PUNTING,,Team,AVG,-
+9546052,10/1/2016,FCS,Towson,Richmond,PUNTING,,Team,LONG,0
+9546053,10/1/2016,FCS,Towson,Richmond,PUNT RETURNS,Shane,Simpson,NO,1
+9546054,10/1/2016,FCS,Towson,Richmond,PUNT RETURNS,Shane,Simpson,YDS,3
+9546055,10/1/2016,FCS,Towson,Richmond,PUNT RETURNS,Shane,Simpson,AVG,3.0
+9546056,10/1/2016,FCS,Towson,Richmond,PUNT RETURNS,Shane,Simpson,LONG,3
+9546057,10/1/2016,FCS,Towson,Richmond,KICK RETURNS,Shane,Simpson,NO,1
+9546058,10/1/2016,FCS,Towson,Richmond,KICK RETURNS,Shane,Simpson,YDS,30
+9546059,10/1/2016,FCS,Towson,Richmond,KICK RETURNS,Shane,Simpson,AVG,30.0
+9546060,10/1/2016,FCS,Towson,Richmond,KICK RETURNS,Shane,Simpson,LONG,30
+9546061,10/1/2016,FCS,Towson,Richmond,KICK RETURNS,Lyrics,Klugh,NO,1
+9546062,10/1/2016,FCS,Towson,Richmond,KICK RETURNS,Lyrics,Klugh,YDS,21
+9546063,10/1/2016,FCS,Towson,Richmond,KICK RETURNS,Lyrics,Klugh,AVG,21.0
+9546064,10/1/2016,FCS,Towson,Richmond,KICK RETURNS,Lyrics,Klugh,LONG,21
+9546065,10/1/2016,FCS,Richmond,Towson,RUSHING,Xavier,Goodall,ATT,23
+9546066,10/1/2016,FCS,Richmond,Towson,RUSHING,Xavier,Goodall,YDS,128
+9546067,10/1/2016,FCS,Richmond,Towson,RUSHING,Xavier,Goodall,TD,0
+9546068,10/1/2016,FCS,Richmond,Towson,RUSHING,Xavier,Goodall,LONG,27
+9546069,10/1/2016,FCS,Richmond,Towson,RUSHING,David,Broadus,ATT,8
+9546070,10/1/2016,FCS,Richmond,Towson,RUSHING,David,Broadus,YDS,19
+9546071,10/1/2016,FCS,Richmond,Towson,RUSHING,David,Broadus,TD,1
+9546072,10/1/2016,FCS,Richmond,Towson,RUSHING,David,Broadus,LONG,8
+9546073,10/1/2016,FCS,Richmond,Towson,RUSHING,Kyle,Lauletta,ATT,3
+9546074,10/1/2016,FCS,Richmond,Towson,RUSHING,Kyle,Lauletta,YDS,16
+9546075,10/1/2016,FCS,Richmond,Towson,RUSHING,Kyle,Lauletta,TD,0
+9546076,10/1/2016,FCS,Richmond,Towson,RUSHING,Kyle,Lauletta,LONG,12
+9546077,10/1/2016,FCS,Richmond,Towson,RUSHING,Deontez,Thompson,ATT,3
+9546078,10/1/2016,FCS,Richmond,Towson,RUSHING,Deontez,Thompson,YDS,15
+9546079,10/1/2016,FCS,Richmond,Towson,RUSHING,Deontez,Thompson,TD,0
+9546080,10/1/2016,FCS,Richmond,Towson,RUSHING,Deontez,Thompson,LONG,7
+9546081,10/1/2016,FCS,Richmond,Towson,RUSHING,Caleb,Drake,ATT,1
+9546082,10/1/2016,FCS,Richmond,Towson,RUSHING,Caleb,Drake,YDS,9
+9546083,10/1/2016,FCS,Richmond,Towson,RUSHING,Caleb,Drake,TD,0
+9546084,10/1/2016,FCS,Richmond,Towson,RUSHING,Caleb,Drake,LONG,9
+9546085,10/1/2016,FCS,Richmond,Towson,RUSHING,,Team,ATT,2
+9546086,10/1/2016,FCS,Richmond,Towson,RUSHING,,Team,YDS,-2
+9546087,10/1/2016,FCS,Richmond,Towson,RUSHING,,Team,TD,0
+9546088,10/1/2016,FCS,Richmond,Towson,RUSHING,,Team,LONG,0
+9546089,10/1/2016,FCS,Richmond,Towson,PASSING,Kyle,Lauletta,CP-ATT-INT,20-31-1
+9546090,10/1/2016,FCS,Richmond,Towson,PASSING,Kyle,Lauletta,YDS,233
+9546091,10/1/2016,FCS,Richmond,Towson,PASSING,Kyle,Lauletta,TD,3
+9546092,10/1/2016,FCS,Richmond,Towson,PASSING,Kyle,Lauletta,LONG,47
+9546093,10/1/2016,FCS,Richmond,Towson,RECEIVING,Garrett,Hudson,REC,4
+9546094,10/1/2016,FCS,Richmond,Towson,RECEIVING,Garrett,Hudson,YDS,81
+9546095,10/1/2016,FCS,Richmond,Towson,RECEIVING,Garrett,Hudson,TD,1
+9546096,10/1/2016,FCS,Richmond,Towson,RECEIVING,Garrett,Hudson,LONG,47
+9546097,10/1/2016,FCS,Richmond,Towson,RECEIVING,Brian,Brown,REC,4
+9546098,10/1/2016,FCS,Richmond,Towson,RECEIVING,Brian,Brown,YDS,64
+9546099,10/1/2016,FCS,Richmond,Towson,RECEIVING,Brian,Brown,TD,1
+9546100,10/1/2016,FCS,Richmond,Towson,RECEIVING,Brian,Brown,LONG,30
+9546101,10/1/2016,FCS,Richmond,Towson,RECEIVING,Tyler,Wilkins,REC,4
+9546102,10/1/2016,FCS,Richmond,Towson,RECEIVING,Tyler,Wilkins,YDS,36
+9546103,10/1/2016,FCS,Richmond,Towson,RECEIVING,Tyler,Wilkins,TD,0
+9546104,10/1/2016,FCS,Richmond,Towson,RECEIVING,Tyler,Wilkins,LONG,19
+9546105,10/1/2016,FCS,Richmond,Towson,RECEIVING,Xavier,Goodall,REC,4
+9546106,10/1/2016,FCS,Richmond,Towson,RECEIVING,Xavier,Goodall,YDS,14
+9546107,10/1/2016,FCS,Richmond,Towson,RECEIVING,Xavier,Goodall,TD,1
+9546108,10/1/2016,FCS,Richmond,Towson,RECEIVING,Xavier,Goodall,LONG,5
+9546109,10/1/2016,FCS,Richmond,Towson,RECEIVING,James,Pavik,REC,1
+9546110,10/1/2016,FCS,Richmond,Towson,RECEIVING,James,Pavik,YDS,11
+9546111,10/1/2016,FCS,Richmond,Towson,RECEIVING,James,Pavik,TD,0
+9546112,10/1/2016,FCS,Richmond,Towson,RECEIVING,James,Pavik,LONG,11
+9546113,10/1/2016,FCS,Richmond,Towson,RECEIVING,Will,McCombs,REC,1
+9546114,10/1/2016,FCS,Richmond,Towson,RECEIVING,Will,McCombs,YDS,11
+9546115,10/1/2016,FCS,Richmond,Towson,RECEIVING,Will,McCombs,TD,0
+9546116,10/1/2016,FCS,Richmond,Towson,RECEIVING,Will,McCombs,LONG,11
+9546117,10/1/2016,FCS,Richmond,Towson,RECEIVING,Caleb,Drake,REC,1
+9546118,10/1/2016,FCS,Richmond,Towson,RECEIVING,Caleb,Drake,YDS,8
+9546119,10/1/2016,FCS,Richmond,Towson,RECEIVING,Caleb,Drake,TD,0
+9546120,10/1/2016,FCS,Richmond,Towson,RECEIVING,Caleb,Drake,LONG,8
+9546121,10/1/2016,FCS,Richmond,Towson,RECEIVING,Jarmal,Bevels,REC,1
+9546122,10/1/2016,FCS,Richmond,Towson,RECEIVING,Jarmal,Bevels,YDS,8
+9546123,10/1/2016,FCS,Richmond,Towson,RECEIVING,Jarmal,Bevels,TD,0
+9546124,10/1/2016,FCS,Richmond,Towson,RECEIVING,Jarmal,Bevels,LONG,8
+9546125,10/1/2016,FCS,Richmond,Towson,KICKING,Griffin,Trau,FG-FGA,1/2
+9546126,10/1/2016,FCS,Richmond,Towson,KICKING,Griffin,Trau,LONG,44
+9546127,10/1/2016,FCS,Richmond,Towson,KICKING,Griffin,Trau,XP,4
+9546128,10/1/2016,FCS,Richmond,Towson,KICKING,Griffin,Trau,PTS,7
+9546129,10/1/2016,FCS,Richmond,Towson,PUNTING,D.J.,Helkowski,NO,3
+9546130,10/1/2016,FCS,Richmond,Towson,PUNTING,D.J.,Helkowski,YDS,113
+9546131,10/1/2016,FCS,Richmond,Towson,PUNTING,D.J.,Helkowski,AVG,37.7
+9546132,10/1/2016,FCS,Richmond,Towson,PUNTING,D.J.,Helkowski,LONG,44
+9546133,10/1/2016,FCS,Richmond,Towson,PUNTING,David,Broadus,NO,1
+9546134,10/1/2016,FCS,Richmond,Towson,PUNTING,David,Broadus,YDS,39
+9546135,10/1/2016,FCS,Richmond,Towson,PUNTING,David,Broadus,AVG,39.0
+9546136,10/1/2016,FCS,Richmond,Towson,PUNTING,David,Broadus,LONG,39
+9546137,10/1/2016,FCS,Richmond,Towson,PUNT RETURNS,Kieran,Gregory,NO,1
+9546138,10/1/2016,FCS,Richmond,Towson,PUNT RETURNS,Kieran,Gregory,YDS,8
+9546139,10/1/2016,FCS,Richmond,Towson,PUNT RETURNS,Kieran,Gregory,AVG,8.0
+9546140,10/1/2016,FCS,Richmond,Towson,PUNT RETURNS,Kieran,Gregory,LONG,8
+9546141,10/1/2016,FCS,Richmond,Towson,PUNT RETURNS,Dejon,Brissett,NO,1
+9546142,10/1/2016,FCS,Richmond,Towson,PUNT RETURNS,Dejon,Brissett,YDS,0
+9546143,10/1/2016,FCS,Richmond,Towson,PUNT RETURNS,Dejon,Brissett,AVG,-
+9546144,10/1/2016,FCS,Richmond,Towson,PUNT RETURNS,Dejon,Brissett,LONG,0
+9546145,10/1/2016,FCS,Richmond,Towson,PUNT RETURNS,Tyler,Wilkins,NO,1
+9546146,10/1/2016,FCS,Richmond,Towson,PUNT RETURNS,Tyler,Wilkins,YDS,0
+9546147,10/1/2016,FCS,Richmond,Towson,PUNT RETURNS,Tyler,Wilkins,AVG,-
+9546148,10/1/2016,FCS,Richmond,Towson,PUNT RETURNS,Tyler,Wilkins,LONG,0
+9546149,10/1/2016,FCS,Richmond,Towson,KICK RETURNS,Dejon,Brissett,NO,3
+9546150,10/1/2016,FCS,Richmond,Towson,KICK RETURNS,Dejon,Brissett,YDS,72
+9546151,10/1/2016,FCS,Richmond,Towson,KICK RETURNS,Dejon,Brissett,AVG,24.0
+9546152,10/1/2016,FCS,Richmond,Towson,KICK RETURNS,Dejon,Brissett,LONG,43
+9546153,10/1/2016,FCS,Richmond,Towson,KICK RETURNS,Caleb,Drake,NO,2
+9546154,10/1/2016,FCS,Richmond,Towson,KICK RETURNS,Caleb,Drake,YDS,26
+9546155,10/1/2016,FCS,Richmond,Towson,KICK RETURNS,Caleb,Drake,AVG,13.0
+9546156,10/1/2016,FCS,Richmond,Towson,KICK RETURNS,Caleb,Drake,LONG,13

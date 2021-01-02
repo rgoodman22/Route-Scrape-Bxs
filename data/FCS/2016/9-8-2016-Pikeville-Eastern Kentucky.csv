@@ -1,0 +1,89 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9297001,9/8/2016,FCS,Eastern Kentucky,Pikeville,RUSHING,Jared,Sanders,ATT,16
+9297002,9/8/2016,FCS,Eastern Kentucky,Pikeville,RUSHING,Jared,Sanders,YDS,100
+9297003,9/8/2016,FCS,Eastern Kentucky,Pikeville,RUSHING,Jared,Sanders,TD,0
+9297004,9/8/2016,FCS,Eastern Kentucky,Pikeville,RUSHING,Jared,Sanders,LONG,24
+9297005,9/8/2016,FCS,Eastern Kentucky,Pikeville,RUSHING,Henry,Enyenihi,ATT,10
+9297006,9/8/2016,FCS,Eastern Kentucky,Pikeville,RUSHING,Henry,Enyenihi,YDS,63
+9297007,9/8/2016,FCS,Eastern Kentucky,Pikeville,RUSHING,Henry,Enyenihi,TD,1
+9297008,9/8/2016,FCS,Eastern Kentucky,Pikeville,RUSHING,Henry,Enyenihi,LONG,15
+9297009,9/8/2016,FCS,Eastern Kentucky,Pikeville,RUSHING,James,SmithJr.,ATT,8
+9297010,9/8/2016,FCS,Eastern Kentucky,Pikeville,RUSHING,James,SmithJr.,YDS,54
+9297011,9/8/2016,FCS,Eastern Kentucky,Pikeville,RUSHING,James,SmithJr.,TD,1
+9297012,9/8/2016,FCS,Eastern Kentucky,Pikeville,RUSHING,James,SmithJr.,LONG,20
+9297013,9/8/2016,FCS,Eastern Kentucky,Pikeville,RUSHING,Daryl,McCleskeyJr.,ATT,7
+9297014,9/8/2016,FCS,Eastern Kentucky,Pikeville,RUSHING,Daryl,McCleskeyJr.,YDS,38
+9297015,9/8/2016,FCS,Eastern Kentucky,Pikeville,RUSHING,Daryl,McCleskeyJr.,TD,0
+9297016,9/8/2016,FCS,Eastern Kentucky,Pikeville,RUSHING,Daryl,McCleskeyJr.,LONG,18
+9297017,9/8/2016,FCS,Eastern Kentucky,Pikeville,RUSHING,Ralph,Patton,ATT,8
+9297018,9/8/2016,FCS,Eastern Kentucky,Pikeville,RUSHING,Ralph,Patton,YDS,29
+9297019,9/8/2016,FCS,Eastern Kentucky,Pikeville,RUSHING,Ralph,Patton,TD,0
+9297020,9/8/2016,FCS,Eastern Kentucky,Pikeville,RUSHING,Ralph,Patton,LONG,19
+9297021,9/8/2016,FCS,Eastern Kentucky,Pikeville,RUSHING,Raynaldy,Gustave,ATT,4
+9297022,9/8/2016,FCS,Eastern Kentucky,Pikeville,RUSHING,Raynaldy,Gustave,YDS,8
+9297023,9/8/2016,FCS,Eastern Kentucky,Pikeville,RUSHING,Raynaldy,Gustave,TD,1
+9297024,9/8/2016,FCS,Eastern Kentucky,Pikeville,RUSHING,Raynaldy,Gustave,LONG,4
+9297025,9/8/2016,FCS,Eastern Kentucky,Pikeville,RUSHING,Tyler,Swafford,ATT,2
+9297026,9/8/2016,FCS,Eastern Kentucky,Pikeville,RUSHING,Tyler,Swafford,YDS,-8
+9297027,9/8/2016,FCS,Eastern Kentucky,Pikeville,RUSHING,Tyler,Swafford,TD,0
+9297028,9/8/2016,FCS,Eastern Kentucky,Pikeville,RUSHING,Tyler,Swafford,LONG,0
+9297029,9/8/2016,FCS,Eastern Kentucky,Pikeville,PASSING,Tyler,Swafford,CP-ATT-INT,7-12-1
+9297030,9/8/2016,FCS,Eastern Kentucky,Pikeville,PASSING,Tyler,Swafford,YDS,73
+9297031,9/8/2016,FCS,Eastern Kentucky,Pikeville,PASSING,Tyler,Swafford,TD,1
+9297032,9/8/2016,FCS,Eastern Kentucky,Pikeville,PASSING,Tyler,Swafford,LONG,18
+9297033,9/8/2016,FCS,Eastern Kentucky,Pikeville,PASSING,James,SmithJr.,CP-ATT-INT,4-5-0
+9297034,9/8/2016,FCS,Eastern Kentucky,Pikeville,PASSING,James,SmithJr.,YDS,30
+9297035,9/8/2016,FCS,Eastern Kentucky,Pikeville,PASSING,James,SmithJr.,TD,0
+9297036,9/8/2016,FCS,Eastern Kentucky,Pikeville,PASSING,James,SmithJr.,LONG,13
+9297037,9/8/2016,FCS,Eastern Kentucky,Pikeville,RECEIVING,Dan,Crimmins,REC,2
+9297038,9/8/2016,FCS,Eastern Kentucky,Pikeville,RECEIVING,Dan,Crimmins,YDS,29
+9297039,9/8/2016,FCS,Eastern Kentucky,Pikeville,RECEIVING,Dan,Crimmins,TD,0
+9297040,9/8/2016,FCS,Eastern Kentucky,Pikeville,RECEIVING,Dan,Crimmins,LONG,18
+9297041,9/8/2016,FCS,Eastern Kentucky,Pikeville,RECEIVING,Alex,Cabrera,REC,2
+9297042,9/8/2016,FCS,Eastern Kentucky,Pikeville,RECEIVING,Alex,Cabrera,YDS,19
+9297043,9/8/2016,FCS,Eastern Kentucky,Pikeville,RECEIVING,Alex,Cabrera,TD,0
+9297044,9/8/2016,FCS,Eastern Kentucky,Pikeville,RECEIVING,Alex,Cabrera,LONG,13
+9297045,9/8/2016,FCS,Eastern Kentucky,Pikeville,RECEIVING,Cameron,Fogle,REC,2
+9297046,9/8/2016,FCS,Eastern Kentucky,Pikeville,RECEIVING,Cameron,Fogle,YDS,14
+9297047,9/8/2016,FCS,Eastern Kentucky,Pikeville,RECEIVING,Cameron,Fogle,TD,0
+9297048,9/8/2016,FCS,Eastern Kentucky,Pikeville,RECEIVING,Cameron,Fogle,LONG,8
+9297049,9/8/2016,FCS,Eastern Kentucky,Pikeville,RECEIVING,Ryan,Markush,REC,1
+9297050,9/8/2016,FCS,Eastern Kentucky,Pikeville,RECEIVING,Ryan,Markush,YDS,13
+9297051,9/8/2016,FCS,Eastern Kentucky,Pikeville,RECEIVING,Ryan,Markush,TD,1
+9297052,9/8/2016,FCS,Eastern Kentucky,Pikeville,RECEIVING,Ryan,Markush,LONG,13
+9297053,9/8/2016,FCS,Eastern Kentucky,Pikeville,RECEIVING,Clayton,Schmerber,REC,1
+9297054,9/8/2016,FCS,Eastern Kentucky,Pikeville,RECEIVING,Clayton,Schmerber,YDS,10
+9297055,9/8/2016,FCS,Eastern Kentucky,Pikeville,RECEIVING,Clayton,Schmerber,TD,0
+9297056,9/8/2016,FCS,Eastern Kentucky,Pikeville,RECEIVING,Clayton,Schmerber,LONG,10
+9297057,9/8/2016,FCS,Eastern Kentucky,Pikeville,RECEIVING,Devin,Borders,REC,1
+9297058,9/8/2016,FCS,Eastern Kentucky,Pikeville,RECEIVING,Devin,Borders,YDS,9
+9297059,9/8/2016,FCS,Eastern Kentucky,Pikeville,RECEIVING,Devin,Borders,TD,0
+9297060,9/8/2016,FCS,Eastern Kentucky,Pikeville,RECEIVING,Devin,Borders,LONG,9
+9297061,9/8/2016,FCS,Eastern Kentucky,Pikeville,RECEIVING,Neiko,Creamer,REC,1
+9297062,9/8/2016,FCS,Eastern Kentucky,Pikeville,RECEIVING,Neiko,Creamer,YDS,5
+9297063,9/8/2016,FCS,Eastern Kentucky,Pikeville,RECEIVING,Neiko,Creamer,TD,0
+9297064,9/8/2016,FCS,Eastern Kentucky,Pikeville,RECEIVING,Neiko,Creamer,LONG,5
+9297065,9/8/2016,FCS,Eastern Kentucky,Pikeville,RECEIVING,Daryl,McCleskeyJr.,REC,1
+9297066,9/8/2016,FCS,Eastern Kentucky,Pikeville,RECEIVING,Daryl,McCleskeyJr.,YDS,4
+9297067,9/8/2016,FCS,Eastern Kentucky,Pikeville,RECEIVING,Daryl,McCleskeyJr.,TD,0
+9297068,9/8/2016,FCS,Eastern Kentucky,Pikeville,RECEIVING,Daryl,McCleskeyJr.,LONG,4
+9297069,9/8/2016,FCS,Eastern Kentucky,Pikeville,KICKING,Lucas,Williams,FG-FGA,2/2
+9297070,9/8/2016,FCS,Eastern Kentucky,Pikeville,KICKING,Lucas,Williams,LONG,28
+9297071,9/8/2016,FCS,Eastern Kentucky,Pikeville,KICKING,Lucas,Williams,XP,7
+9297072,9/8/2016,FCS,Eastern Kentucky,Pikeville,KICKING,Lucas,Williams,PTS,13
+9297073,9/8/2016,FCS,Eastern Kentucky,Pikeville,PUNTING,Keith,Wrzuszczak,NO,2
+9297074,9/8/2016,FCS,Eastern Kentucky,Pikeville,PUNTING,Keith,Wrzuszczak,YDS,91
+9297075,9/8/2016,FCS,Eastern Kentucky,Pikeville,PUNTING,Keith,Wrzuszczak,AVG,45.5
+9297076,9/8/2016,FCS,Eastern Kentucky,Pikeville,PUNTING,Keith,Wrzuszczak,LONG,49
+9297077,9/8/2016,FCS,Eastern Kentucky,Pikeville,PUNT RETURNS,Kiante,Northington,NO,3
+9297078,9/8/2016,FCS,Eastern Kentucky,Pikeville,PUNT RETURNS,Kiante,Northington,YDS,35
+9297079,9/8/2016,FCS,Eastern Kentucky,Pikeville,PUNT RETURNS,Kiante,Northington,AVG,11.7
+9297080,9/8/2016,FCS,Eastern Kentucky,Pikeville,PUNT RETURNS,Kiante,Northington,LONG,17
+9297081,9/8/2016,FCS,Eastern Kentucky,Pikeville,KICK RETURNS,Daryl,McCleskeyJr.,NO,1
+9297082,9/8/2016,FCS,Eastern Kentucky,Pikeville,KICK RETURNS,Daryl,McCleskeyJr.,YDS,30
+9297083,9/8/2016,FCS,Eastern Kentucky,Pikeville,KICK RETURNS,Daryl,McCleskeyJr.,AVG,30.0
+9297084,9/8/2016,FCS,Eastern Kentucky,Pikeville,KICK RETURNS,Daryl,McCleskeyJr.,LONG,30
+9297085,9/8/2016,FCS,Eastern Kentucky,Pikeville,KICK RETURNS,Henry,Enyenihi,NO,2
+9297086,9/8/2016,FCS,Eastern Kentucky,Pikeville,KICK RETURNS,Henry,Enyenihi,YDS,22
+9297087,9/8/2016,FCS,Eastern Kentucky,Pikeville,KICK RETURNS,Henry,Enyenihi,AVG,11.0
+9297088,9/8/2016,FCS,Eastern Kentucky,Pikeville,KICK RETURNS,Henry,Enyenihi,LONG,17

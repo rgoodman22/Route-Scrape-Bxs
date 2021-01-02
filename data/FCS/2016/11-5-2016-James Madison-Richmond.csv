@@ -1,0 +1,141 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9830001,11/5/2016,FCS,James Madison,Richmond,RUSHING,Khalid,Abdullah,ATT,20
+9830002,11/5/2016,FCS,James Madison,Richmond,RUSHING,Khalid,Abdullah,YDS,123
+9830003,11/5/2016,FCS,James Madison,Richmond,RUSHING,Khalid,Abdullah,TD,2
+9830004,11/5/2016,FCS,James Madison,Richmond,RUSHING,Khalid,Abdullah,LONG,22
+9830005,11/5/2016,FCS,James Madison,Richmond,RUSHING,Bryan,Schor,ATT,12
+9830006,11/5/2016,FCS,James Madison,Richmond,RUSHING,Bryan,Schor,YDS,91
+9830007,11/5/2016,FCS,James Madison,Richmond,RUSHING,Bryan,Schor,TD,1
+9830008,11/5/2016,FCS,James Madison,Richmond,RUSHING,Bryan,Schor,LONG,45
+9830009,11/5/2016,FCS,James Madison,Richmond,RUSHING,Cardon,Johnson,ATT,8
+9830010,11/5/2016,FCS,James Madison,Richmond,RUSHING,Cardon,Johnson,YDS,30
+9830011,11/5/2016,FCS,James Madison,Richmond,RUSHING,Cardon,Johnson,TD,0
+9830012,11/5/2016,FCS,James Madison,Richmond,RUSHING,Cardon,Johnson,LONG,14
+9830013,11/5/2016,FCS,James Madison,Richmond,RUSHING,Trai,Sharp,ATT,1
+9830014,11/5/2016,FCS,James Madison,Richmond,RUSHING,Trai,Sharp,YDS,5
+9830015,11/5/2016,FCS,James Madison,Richmond,RUSHING,Trai,Sharp,TD,0
+9830016,11/5/2016,FCS,James Madison,Richmond,RUSHING,Trai,Sharp,LONG,5
+9830017,11/5/2016,FCS,James Madison,Richmond,PASSING,Bryan,Schor,CP-ATT-INT,22-28-0
+9830018,11/5/2016,FCS,James Madison,Richmond,PASSING,Bryan,Schor,YDS,285
+9830019,11/5/2016,FCS,James Madison,Richmond,PASSING,Bryan,Schor,TD,3
+9830020,11/5/2016,FCS,James Madison,Richmond,PASSING,Bryan,Schor,LONG,46
+9830021,11/5/2016,FCS,James Madison,Richmond,RECEIVING,Terrence,Alls,REC,6
+9830022,11/5/2016,FCS,James Madison,Richmond,RECEIVING,Terrence,Alls,YDS,98
+9830023,11/5/2016,FCS,James Madison,Richmond,RECEIVING,Terrence,Alls,TD,0
+9830024,11/5/2016,FCS,James Madison,Richmond,RECEIVING,Terrence,Alls,LONG,46
+9830025,11/5/2016,FCS,James Madison,Richmond,RECEIVING,Brandon,Ravenel,REC,5
+9830026,11/5/2016,FCS,James Madison,Richmond,RECEIVING,Brandon,Ravenel,YDS,89
+9830027,11/5/2016,FCS,James Madison,Richmond,RECEIVING,Brandon,Ravenel,TD,0
+9830028,11/5/2016,FCS,James Madison,Richmond,RECEIVING,Brandon,Ravenel,LONG,36
+9830029,11/5/2016,FCS,James Madison,Richmond,RECEIVING,Jonathan,Kloosterman,REC,5
+9830030,11/5/2016,FCS,James Madison,Richmond,RECEIVING,Jonathan,Kloosterman,YDS,53
+9830031,11/5/2016,FCS,James Madison,Richmond,RECEIVING,Jonathan,Kloosterman,TD,2
+9830032,11/5/2016,FCS,James Madison,Richmond,RECEIVING,Jonathan,Kloosterman,LONG,20
+9830033,11/5/2016,FCS,James Madison,Richmond,RECEIVING,Rashard,Davis,REC,5
+9830034,11/5/2016,FCS,James Madison,Richmond,RECEIVING,Rashard,Davis,YDS,32
+9830035,11/5/2016,FCS,James Madison,Richmond,RECEIVING,Rashard,Davis,TD,1
+9830036,11/5/2016,FCS,James Madison,Richmond,RECEIVING,Rashard,Davis,LONG,19
+9830037,11/5/2016,FCS,James Madison,Richmond,RECEIVING,Domo,Taylor,REC,1
+9830038,11/5/2016,FCS,James Madison,Richmond,RECEIVING,Domo,Taylor,YDS,13
+9830039,11/5/2016,FCS,James Madison,Richmond,RECEIVING,Domo,Taylor,TD,0
+9830040,11/5/2016,FCS,James Madison,Richmond,RECEIVING,Domo,Taylor,LONG,13
+9830041,11/5/2016,FCS,James Madison,Richmond,KICKING,Tyler,Gray,FG-FGA,2/3
+9830042,11/5/2016,FCS,James Madison,Richmond,KICKING,Tyler,Gray,LONG,25
+9830043,11/5/2016,FCS,James Madison,Richmond,KICKING,Tyler,Gray,XP,5
+9830044,11/5/2016,FCS,James Madison,Richmond,KICKING,Tyler,Gray,PTS,11
+9830045,11/5/2016,FCS,James Madison,Richmond,KICK RETURNS,Robbie,Walker,NO,4
+9830046,11/5/2016,FCS,James Madison,Richmond,KICK RETURNS,Robbie,Walker,YDS,112
+9830047,11/5/2016,FCS,James Madison,Richmond,KICK RETURNS,Robbie,Walker,AVG,28.0
+9830048,11/5/2016,FCS,James Madison,Richmond,KICK RETURNS,Robbie,Walker,LONG,37
+9830049,11/5/2016,FCS,James Madison,Richmond,KICK RETURNS,Jimmy,Moreland,NO,1
+9830050,11/5/2016,FCS,James Madison,Richmond,KICK RETURNS,Jimmy,Moreland,YDS,38
+9830051,11/5/2016,FCS,James Madison,Richmond,KICK RETURNS,Jimmy,Moreland,AVG,38.0
+9830052,11/5/2016,FCS,James Madison,Richmond,KICK RETURNS,Jimmy,Moreland,LONG,38
+9830053,11/5/2016,FCS,James Madison,Richmond,KICK RETURNS,Brandon,Ravenel,NO,1
+9830054,11/5/2016,FCS,James Madison,Richmond,KICK RETURNS,Brandon,Ravenel,YDS,17
+9830055,11/5/2016,FCS,James Madison,Richmond,KICK RETURNS,Brandon,Ravenel,AVG,17.0
+9830056,11/5/2016,FCS,James Madison,Richmond,KICK RETURNS,Brandon,Ravenel,LONG,17
+9830057,11/5/2016,FCS,Richmond,James Madison,RUSHING,Deontez,Thompson,ATT,13
+9830058,11/5/2016,FCS,Richmond,James Madison,RUSHING,Deontez,Thompson,YDS,128
+9830059,11/5/2016,FCS,Richmond,James Madison,RUSHING,Deontez,Thompson,TD,0
+9830060,11/5/2016,FCS,Richmond,James Madison,RUSHING,Deontez,Thompson,LONG,58
+9830061,11/5/2016,FCS,Richmond,James Madison,RUSHING,David,Broadus,ATT,6
+9830062,11/5/2016,FCS,Richmond,James Madison,RUSHING,David,Broadus,YDS,6
+9830063,11/5/2016,FCS,Richmond,James Madison,RUSHING,David,Broadus,TD,0
+9830064,11/5/2016,FCS,Richmond,James Madison,RUSHING,David,Broadus,LONG,5
+9830065,11/5/2016,FCS,Richmond,James Madison,RUSHING,Jay,Palmer,ATT,4
+9830066,11/5/2016,FCS,Richmond,James Madison,RUSHING,Jay,Palmer,YDS,4
+9830067,11/5/2016,FCS,Richmond,James Madison,RUSHING,Jay,Palmer,TD,0
+9830068,11/5/2016,FCS,Richmond,James Madison,RUSHING,Jay,Palmer,LONG,6
+9830069,11/5/2016,FCS,Richmond,James Madison,RUSHING,Kyle,Lauletta,ATT,6
+9830070,11/5/2016,FCS,Richmond,James Madison,RUSHING,Kyle,Lauletta,YDS,-22
+9830071,11/5/2016,FCS,Richmond,James Madison,RUSHING,Kyle,Lauletta,TD,1
+9830072,11/5/2016,FCS,Richmond,James Madison,RUSHING,Kyle,Lauletta,LONG,2
+9830073,11/5/2016,FCS,Richmond,James Madison,PASSING,Kyle,Lauletta,CP-ATT-INT,28-43-0
+9830074,11/5/2016,FCS,Richmond,James Madison,PASSING,Kyle,Lauletta,YDS,435
+9830075,11/5/2016,FCS,Richmond,James Madison,PASSING,Kyle,Lauletta,TD,5
+9830076,11/5/2016,FCS,Richmond,James Madison,PASSING,Kyle,Lauletta,LONG,42
+9830077,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Brian,Brown,REC,5
+9830078,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Brian,Brown,YDS,126
+9830079,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Brian,Brown,TD,1
+9830080,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Brian,Brown,LONG,42
+9830081,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Jarmal,Bevels,REC,7
+9830082,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Jarmal,Bevels,YDS,92
+9830083,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Jarmal,Bevels,TD,0
+9830084,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Jarmal,Bevels,LONG,28
+9830085,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Garrett,Hudson,REC,3
+9830086,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Garrett,Hudson,YDS,77
+9830087,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Garrett,Hudson,TD,0
+9830088,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Garrett,Hudson,LONG,37
+9830089,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Tyler,Wilkins,REC,5
+9830090,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Tyler,Wilkins,YDS,59
+9830091,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Tyler,Wilkins,TD,1
+9830092,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Tyler,Wilkins,LONG,25
+9830093,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Dashon,Tibbs,REC,1
+9830094,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Dashon,Tibbs,YDS,20
+9830095,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Dashon,Tibbs,TD,0
+9830096,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Dashon,Tibbs,LONG,20
+9830097,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Deontez,Thompson,REC,3
+9830098,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Deontez,Thompson,YDS,18
+9830099,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Deontez,Thompson,TD,1
+9830100,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Deontez,Thompson,LONG,7
+9830101,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Alex,Light,REC,1
+9830102,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Alex,Light,YDS,15
+9830103,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Alex,Light,TD,0
+9830104,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Alex,Light,LONG,15
+9830105,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Will,McCombs,REC,1
+9830106,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Will,McCombs,YDS,13
+9830107,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Will,McCombs,TD,1
+9830108,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Will,McCombs,LONG,13
+9830109,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Dejon,Brissett,REC,1
+9830110,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Dejon,Brissett,YDS,11
+9830111,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Dejon,Brissett,TD,0
+9830112,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Dejon,Brissett,LONG,11
+9830113,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Jay,Palmer,REC,1
+9830114,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Jay,Palmer,YDS,4
+9830115,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Jay,Palmer,TD,1
+9830116,11/5/2016,FCS,Richmond,James Madison,RECEIVING,Jay,Palmer,LONG,4
+9830117,11/5/2016,FCS,Richmond,James Madison,KICKING,Griffin,Trau,FG-FGA,1/1
+9830118,11/5/2016,FCS,Richmond,James Madison,KICKING,Griffin,Trau,LONG,27
+9830119,11/5/2016,FCS,Richmond,James Madison,KICKING,Griffin,Trau,XP,4
+9830120,11/5/2016,FCS,Richmond,James Madison,KICKING,Griffin,Trau,PTS,7
+9830121,11/5/2016,FCS,Richmond,James Madison,PUNTING,D.J.,Helkowski,NO,1
+9830122,11/5/2016,FCS,Richmond,James Madison,PUNTING,D.J.,Helkowski,YDS,28
+9830123,11/5/2016,FCS,Richmond,James Madison,PUNTING,D.J.,Helkowski,AVG,28.0
+9830124,11/5/2016,FCS,Richmond,James Madison,PUNTING,D.J.,Helkowski,LONG,28
+9830125,11/5/2016,FCS,Richmond,James Madison,PUNTING,David,Broadus,NO,1
+9830126,11/5/2016,FCS,Richmond,James Madison,PUNTING,David,Broadus,YDS,9
+9830127,11/5/2016,FCS,Richmond,James Madison,PUNTING,David,Broadus,AVG,9.0
+9830128,11/5/2016,FCS,Richmond,James Madison,PUNTING,David,Broadus,LONG,9
+9830129,11/5/2016,FCS,Richmond,James Madison,KICK RETURNS,Porter,Abell,NO,4
+9830130,11/5/2016,FCS,Richmond,James Madison,KICK RETURNS,Porter,Abell,YDS,74
+9830131,11/5/2016,FCS,Richmond,James Madison,KICK RETURNS,Porter,Abell,AVG,18.5
+9830132,11/5/2016,FCS,Richmond,James Madison,KICK RETURNS,Porter,Abell,LONG,19
+9830133,11/5/2016,FCS,Richmond,James Madison,KICK RETURNS,Caleb,Drake,NO,3
+9830134,11/5/2016,FCS,Richmond,James Madison,KICK RETURNS,Caleb,Drake,YDS,61
+9830135,11/5/2016,FCS,Richmond,James Madison,KICK RETURNS,Caleb,Drake,AVG,20.3
+9830136,11/5/2016,FCS,Richmond,James Madison,KICK RETURNS,Caleb,Drake,LONG,21
+9830137,11/5/2016,FCS,Richmond,James Madison,KICK RETURNS,Dejon,Brissett,NO,2
+9830138,11/5/2016,FCS,Richmond,James Madison,KICK RETURNS,Dejon,Brissett,YDS,36
+9830139,11/5/2016,FCS,Richmond,James Madison,KICK RETURNS,Dejon,Brissett,AVG,18.0
+9830140,11/5/2016,FCS,Richmond,James Madison,KICK RETURNS,Dejon,Brissett,LONG,19

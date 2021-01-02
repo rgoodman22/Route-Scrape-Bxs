@@ -1,0 +1,217 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+8441001,9/4/2015,FCS,Rhode Island,Syracuse,RUSHING,Paul,Mroz,ATT,5
+8441002,9/4/2015,FCS,Rhode Island,Syracuse,RUSHING,Paul,Mroz,YDS,11
+8441003,9/4/2015,FCS,Rhode Island,Syracuse,RUSHING,Paul,Mroz,TD,0
+8441004,9/4/2015,FCS,Rhode Island,Syracuse,RUSHING,Paul,Mroz,LONG,9
+8441005,9/4/2015,FCS,Rhode Island,Syracuse,RUSHING,Khayri,Denny,ATT,1
+8441006,9/4/2015,FCS,Rhode Island,Syracuse,RUSHING,Khayri,Denny,YDS,4
+8441007,9/4/2015,FCS,Rhode Island,Syracuse,RUSHING,Khayri,Denny,TD,0
+8441008,9/4/2015,FCS,Rhode Island,Syracuse,RUSHING,Khayri,Denny,LONG,4
+8441009,9/4/2015,FCS,Rhode Island,Syracuse,RUSHING,Markey,Clarke,ATT,5
+8441010,9/4/2015,FCS,Rhode Island,Syracuse,RUSHING,Markey,Clarke,YDS,3
+8441011,9/4/2015,FCS,Rhode Island,Syracuse,RUSHING,Markey,Clarke,TD,0
+8441012,9/4/2015,FCS,Rhode Island,Syracuse,RUSHING,Markey,Clarke,LONG,6
+8441013,9/4/2015,FCS,Rhode Island,Syracuse,RUSHING,Harold,Cooper,ATT,8
+8441014,9/4/2015,FCS,Rhode Island,Syracuse,RUSHING,Harold,Cooper,YDS,-1
+8441015,9/4/2015,FCS,Rhode Island,Syracuse,RUSHING,Harold,Cooper,TD,0
+8441016,9/4/2015,FCS,Rhode Island,Syracuse,RUSHING,Harold,Cooper,LONG,3
+8441017,9/4/2015,FCS,Rhode Island,Syracuse,RUSHING,,Team,ATT,1
+8441018,9/4/2015,FCS,Rhode Island,Syracuse,RUSHING,,Team,YDS,-13
+8441019,9/4/2015,FCS,Rhode Island,Syracuse,RUSHING,,Team,TD,0
+8441020,9/4/2015,FCS,Rhode Island,Syracuse,RUSHING,,Team,LONG,-13
+8441021,9/4/2015,FCS,Rhode Island,Syracuse,PASSING,Paul,Mroz,CP-ATT-INT,10-20-1
+8441022,9/4/2015,FCS,Rhode Island,Syracuse,PASSING,Paul,Mroz,YDS,60
+8441023,9/4/2015,FCS,Rhode Island,Syracuse,PASSING,Paul,Mroz,TD,0
+8441024,9/4/2015,FCS,Rhode Island,Syracuse,PASSING,Paul,Mroz,LONG,18
+8441025,9/4/2015,FCS,Rhode Island,Syracuse,RECEIVING,Khayri,Denny,REC,3
+8441026,9/4/2015,FCS,Rhode Island,Syracuse,RECEIVING,Khayri,Denny,YDS,21
+8441027,9/4/2015,FCS,Rhode Island,Syracuse,RECEIVING,Khayri,Denny,TD,0
+8441028,9/4/2015,FCS,Rhode Island,Syracuse,RECEIVING,Khayri,Denny,LONG,11
+8441029,9/4/2015,FCS,Rhode Island,Syracuse,RECEIVING,Marvin,Beauvais,REC,1
+8441030,9/4/2015,FCS,Rhode Island,Syracuse,RECEIVING,Marvin,Beauvais,YDS,18
+8441031,9/4/2015,FCS,Rhode Island,Syracuse,RECEIVING,Marvin,Beauvais,TD,0
+8441032,9/4/2015,FCS,Rhode Island,Syracuse,RECEIVING,Marvin,Beauvais,LONG,18
+8441033,9/4/2015,FCS,Rhode Island,Syracuse,RECEIVING,Harold,Cooper,REC,3
+8441034,9/4/2015,FCS,Rhode Island,Syracuse,RECEIVING,Harold,Cooper,YDS,13
+8441035,9/4/2015,FCS,Rhode Island,Syracuse,RECEIVING,Harold,Cooper,TD,0
+8441036,9/4/2015,FCS,Rhode Island,Syracuse,RECEIVING,Harold,Cooper,LONG,7
+8441037,9/4/2015,FCS,Rhode Island,Syracuse,RECEIVING,Justin,Caines,REC,2
+8441038,9/4/2015,FCS,Rhode Island,Syracuse,RECEIVING,Justin,Caines,YDS,9
+8441039,9/4/2015,FCS,Rhode Island,Syracuse,RECEIVING,Justin,Caines,TD,0
+8441040,9/4/2015,FCS,Rhode Island,Syracuse,RECEIVING,Justin,Caines,LONG,5
+8441041,9/4/2015,FCS,Rhode Island,Syracuse,RECEIVING,Paul,Mroz,REC,1
+8441042,9/4/2015,FCS,Rhode Island,Syracuse,RECEIVING,Paul,Mroz,YDS,-1
+8441043,9/4/2015,FCS,Rhode Island,Syracuse,RECEIVING,Paul,Mroz,TD,0
+8441044,9/4/2015,FCS,Rhode Island,Syracuse,RECEIVING,Paul,Mroz,LONG,-1
+8441045,9/4/2015,FCS,Rhode Island,Syracuse,PUNTING,Connor,McHugh,NO,9
+8441046,9/4/2015,FCS,Rhode Island,Syracuse,PUNTING,Connor,McHugh,YDS,385
+8441047,9/4/2015,FCS,Rhode Island,Syracuse,PUNTING,Connor,McHugh,AVG,42.8
+8441048,9/4/2015,FCS,Rhode Island,Syracuse,PUNTING,Connor,McHugh,LONG,49
+8441049,9/4/2015,FCS,Rhode Island,Syracuse,PUNT RETURNS,Khayri,Denny,NO,0
+8441050,9/4/2015,FCS,Rhode Island,Syracuse,PUNT RETURNS,Khayri,Denny,YDS,0
+8441051,9/4/2015,FCS,Rhode Island,Syracuse,PUNT RETURNS,Khayri,Denny,AVG,-
+8441052,9/4/2015,FCS,Rhode Island,Syracuse,PUNT RETURNS,Khayri,Denny,LONG,0
+8441053,9/4/2015,FCS,Rhode Island,Syracuse,PUNT RETURNS,Justin,Caines,NO,0
+8441054,9/4/2015,FCS,Rhode Island,Syracuse,PUNT RETURNS,Justin,Caines,YDS,0
+8441055,9/4/2015,FCS,Rhode Island,Syracuse,PUNT RETURNS,Justin,Caines,AVG,-
+8441056,9/4/2015,FCS,Rhode Island,Syracuse,PUNT RETURNS,Justin,Caines,LONG,0
+8441057,9/4/2015,FCS,Rhode Island,Syracuse,KICK RETURNS,Myles,Holmes,NO,4
+8441058,9/4/2015,FCS,Rhode Island,Syracuse,KICK RETURNS,Myles,Holmes,YDS,107
+8441059,9/4/2015,FCS,Rhode Island,Syracuse,KICK RETURNS,Myles,Holmes,AVG,26.8
+8441060,9/4/2015,FCS,Rhode Island,Syracuse,KICK RETURNS,Myles,Holmes,LONG,47
+8441061,9/4/2015,FCS,Rhode Island,Syracuse,DEFENSE,Adam,Parker,TOT,1
+8441062,9/4/2015,FCS,Rhode Island,Syracuse,DEFENSE,Adam,Parker,SOLO,1
+8441063,9/4/2015,FCS,Rhode Island,Syracuse,DEFENSE,Adam,Parker,SACKS,1.0
+8441064,9/4/2015,FCS,Rhode Island,Syracuse,DEFENSE,Adam,Parker,TFL,1
+8441065,9/4/2015,FCS,Rhode Island,Syracuse,DEFENSE,Adam,Parker,INT,0
+8441066,9/4/2015,FCS,Rhode Island,Syracuse,DEFENSE,Adam,Parker,FF,0
+8441067,9/4/2015,FCS,Rhode Island,Syracuse,DEFENSE,Adam,Parker,FR,0
+8441068,9/4/2015,FCS,Rhode Island,Syracuse,DEFENSE,Myles,Holmes,TOT,0
+8441069,9/4/2015,FCS,Rhode Island,Syracuse,DEFENSE,Myles,Holmes,SOLO,0
+8441070,9/4/2015,FCS,Rhode Island,Syracuse,DEFENSE,Myles,Holmes,SACKS,0.0
+8441071,9/4/2015,FCS,Rhode Island,Syracuse,DEFENSE,Myles,Holmes,TFL,0
+8441072,9/4/2015,FCS,Rhode Island,Syracuse,DEFENSE,Myles,Holmes,INT,1
+8441073,9/4/2015,FCS,Rhode Island,Syracuse,DEFENSE,Myles,Holmes,FF,0
+8441074,9/4/2015,FCS,Rhode Island,Syracuse,DEFENSE,Myles,Holmes,FR,0
+8441075,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,Jordan,Fredericks,ATT,14
+8441076,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,Jordan,Fredericks,YDS,103
+8441077,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,Jordan,Fredericks,TD,1
+8441078,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,Jordan,Fredericks,LONG,31
+8441079,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,Jacob,Hill,ATT,17
+8441080,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,Jacob,Hill,YDS,75
+8441081,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,Jacob,Hill,TD,0
+8441082,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,Jacob,Hill,LONG,14
+8441083,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,George,Morris,ATT,12
+8441084,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,George,Morris,YDS,71
+8441085,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,George,Morris,TD,0
+8441086,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,George,Morris,LONG,13
+8441087,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,Dontae,Strickland,ATT,2
+8441088,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,Dontae,Strickland,YDS,42
+8441089,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,Dontae,Strickland,TD,1
+8441090,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,Dontae,Strickland,LONG,21
+8441091,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,Eric,Dungey,ATT,8
+8441092,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,Eric,Dungey,YDS,20
+8441093,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,Eric,Dungey,TD,0
+8441094,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,Eric,Dungey,LONG,9
+8441095,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,Tyrone,Perkins,ATT,1
+8441096,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,Tyrone,Perkins,YDS,5
+8441097,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,Tyrone,Perkins,TD,0
+8441098,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,Tyrone,Perkins,LONG,5
+8441099,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,Terrel,Hunt,ATT,1
+8441100,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,Terrel,Hunt,YDS,2
+8441101,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,Terrel,Hunt,TD,0
+8441102,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,Terrel,Hunt,LONG,2
+8441103,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,Ben,Lewis,ATT,1
+8441104,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,Ben,Lewis,YDS,-1
+8441105,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,Ben,Lewis,TD,0
+8441106,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,Ben,Lewis,LONG,-1
+8441107,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,Ervin,Philips,ATT,1
+8441108,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,Ervin,Philips,YDS,-2
+8441109,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,Ervin,Philips,TD,0
+8441110,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,Ervin,Philips,LONG,-2
+8441111,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,,Team,ATT,1
+8441112,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,,Team,YDS,-3
+8441113,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,,Team,TD,0
+8441114,9/4/2015,FCS,Syracuse,Rhode Island,RUSHING,,Team,LONG,-3
+8441115,9/4/2015,FCS,Syracuse,Rhode Island,PASSING,Eric,Dungey,CP-ATT-INT,10-17-0
+8441116,9/4/2015,FCS,Syracuse,Rhode Island,PASSING,Eric,Dungey,YDS,114
+8441117,9/4/2015,FCS,Syracuse,Rhode Island,PASSING,Eric,Dungey,TD,2
+8441118,9/4/2015,FCS,Syracuse,Rhode Island,PASSING,Eric,Dungey,LONG,32
+8441119,9/4/2015,FCS,Syracuse,Rhode Island,PASSING,Terrel,Hunt,CP-ATT-INT,0-2-1
+8441120,9/4/2015,FCS,Syracuse,Rhode Island,PASSING,Terrel,Hunt,YDS,0
+8441121,9/4/2015,FCS,Syracuse,Rhode Island,PASSING,Terrel,Hunt,TD,0
+8441122,9/4/2015,FCS,Syracuse,Rhode Island,PASSING,Terrel,Hunt,LONG,0
+8441123,9/4/2015,FCS,Syracuse,Rhode Island,PASSING,Austin,Wilson,CP-ATT-INT,0-1-0
+8441124,9/4/2015,FCS,Syracuse,Rhode Island,PASSING,Austin,Wilson,YDS,0
+8441125,9/4/2015,FCS,Syracuse,Rhode Island,PASSING,Austin,Wilson,TD,0
+8441126,9/4/2015,FCS,Syracuse,Rhode Island,PASSING,Austin,Wilson,LONG,0
+8441127,9/4/2015,FCS,Syracuse,Rhode Island,RECEIVING,Ervin,Philips,REC,2
+8441128,9/4/2015,FCS,Syracuse,Rhode Island,RECEIVING,Ervin,Philips,YDS,41
+8441129,9/4/2015,FCS,Syracuse,Rhode Island,RECEIVING,Ervin,Philips,TD,2
+8441130,9/4/2015,FCS,Syracuse,Rhode Island,RECEIVING,Ervin,Philips,LONG,32
+8441131,9/4/2015,FCS,Syracuse,Rhode Island,RECEIVING,Steve,Ishmael,REC,3
+8441132,9/4/2015,FCS,Syracuse,Rhode Island,RECEIVING,Steve,Ishmael,YDS,29
+8441133,9/4/2015,FCS,Syracuse,Rhode Island,RECEIVING,Steve,Ishmael,TD,0
+8441134,9/4/2015,FCS,Syracuse,Rhode Island,RECEIVING,Steve,Ishmael,LONG,11
+8441135,9/4/2015,FCS,Syracuse,Rhode Island,RECEIVING,Ben,Lewis,REC,1
+8441136,9/4/2015,FCS,Syracuse,Rhode Island,RECEIVING,Ben,Lewis,YDS,16
+8441137,9/4/2015,FCS,Syracuse,Rhode Island,RECEIVING,Ben,Lewis,TD,0
+8441138,9/4/2015,FCS,Syracuse,Rhode Island,RECEIVING,Ben,Lewis,LONG,16
+8441139,9/4/2015,FCS,Syracuse,Rhode Island,RECEIVING,Alvin,Cornelius,REC,1
+8441140,9/4/2015,FCS,Syracuse,Rhode Island,RECEIVING,Alvin,Cornelius,YDS,11
+8441141,9/4/2015,FCS,Syracuse,Rhode Island,RECEIVING,Alvin,Cornelius,TD,0
+8441142,9/4/2015,FCS,Syracuse,Rhode Island,RECEIVING,Alvin,Cornelius,LONG,11
+8441143,9/4/2015,FCS,Syracuse,Rhode Island,RECEIVING,Brisly,Estime,REC,1
+8441144,9/4/2015,FCS,Syracuse,Rhode Island,RECEIVING,Brisly,Estime,YDS,9
+8441145,9/4/2015,FCS,Syracuse,Rhode Island,RECEIVING,Brisly,Estime,TD,0
+8441146,9/4/2015,FCS,Syracuse,Rhode Island,RECEIVING,Brisly,Estime,LONG,9
+8441147,9/4/2015,FCS,Syracuse,Rhode Island,RECEIVING,Sean,Avant,REC,1
+8441148,9/4/2015,FCS,Syracuse,Rhode Island,RECEIVING,Sean,Avant,YDS,5
+8441149,9/4/2015,FCS,Syracuse,Rhode Island,RECEIVING,Sean,Avant,TD,0
+8441150,9/4/2015,FCS,Syracuse,Rhode Island,RECEIVING,Sean,Avant,LONG,5
+8441151,9/4/2015,FCS,Syracuse,Rhode Island,RECEIVING,Cameron,MacPherson,REC,1
+8441152,9/4/2015,FCS,Syracuse,Rhode Island,RECEIVING,Cameron,MacPherson,YDS,3
+8441153,9/4/2015,FCS,Syracuse,Rhode Island,RECEIVING,Cameron,MacPherson,TD,0
+8441154,9/4/2015,FCS,Syracuse,Rhode Island,RECEIVING,Cameron,MacPherson,LONG,3
+8441155,9/4/2015,FCS,Syracuse,Rhode Island,KICKING,Cole,Murphy,FG-FGA,1/2
+8441156,9/4/2015,FCS,Syracuse,Rhode Island,KICKING,Cole,Murphy,LONG,23
+8441157,9/4/2015,FCS,Syracuse,Rhode Island,KICKING,Cole,Murphy,XP,6
+8441158,9/4/2015,FCS,Syracuse,Rhode Island,KICKING,Cole,Murphy,PTS,9
+8441159,9/4/2015,FCS,Syracuse,Rhode Island,PUNTING,Riley,Dixon,NO,5
+8441160,9/4/2015,FCS,Syracuse,Rhode Island,PUNTING,Riley,Dixon,YDS,211
+8441161,9/4/2015,FCS,Syracuse,Rhode Island,PUNTING,Riley,Dixon,AVG,42.2
+8441162,9/4/2015,FCS,Syracuse,Rhode Island,PUNTING,Riley,Dixon,LONG,64
+8441163,9/4/2015,FCS,Syracuse,Rhode Island,PUNT RETURNS,Brisly,Estime,NO,3
+8441164,9/4/2015,FCS,Syracuse,Rhode Island,PUNT RETURNS,Brisly,Estime,YDS,96
+8441165,9/4/2015,FCS,Syracuse,Rhode Island,PUNT RETURNS,Brisly,Estime,AVG,32.0
+8441166,9/4/2015,FCS,Syracuse,Rhode Island,PUNT RETURNS,Brisly,Estime,LONG,74
+8441167,9/4/2015,FCS,Syracuse,Rhode Island,PUNT RETURNS,Jacob,Hill,NO,1
+8441168,9/4/2015,FCS,Syracuse,Rhode Island,PUNT RETURNS,Jacob,Hill,YDS,-1
+8441169,9/4/2015,FCS,Syracuse,Rhode Island,PUNT RETURNS,Jacob,Hill,AVG,-
+8441170,9/4/2015,FCS,Syracuse,Rhode Island,PUNT RETURNS,Jacob,Hill,LONG,-1
+8441171,9/4/2015,FCS,Syracuse,Rhode Island,KICK RETURNS,Brisly,Estime,NO,2
+8441172,9/4/2015,FCS,Syracuse,Rhode Island,KICK RETURNS,Brisly,Estime,YDS,46
+8441173,9/4/2015,FCS,Syracuse,Rhode Island,KICK RETURNS,Brisly,Estime,AVG,23.0
+8441174,9/4/2015,FCS,Syracuse,Rhode Island,KICK RETURNS,Brisly,Estime,LONG,28
+8441175,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Kayton,Samuels,TOT,0
+8441176,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Kayton,Samuels,SOLO,0
+8441177,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Kayton,Samuels,SACKS,0.0
+8441178,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Kayton,Samuels,TFL,0
+8441179,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Kayton,Samuels,INT,0
+8441180,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Kayton,Samuels,FF,0
+8441181,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Kayton,Samuels,FR,1
+8441182,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Donnie,Simmons,TOT,1
+8441183,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Donnie,Simmons,SOLO,1
+8441184,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Donnie,Simmons,SACKS,0.0
+8441185,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Donnie,Simmons,TFL,1
+8441186,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Donnie,Simmons,INT,0
+8441187,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Donnie,Simmons,FF,0
+8441188,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Donnie,Simmons,FR,0
+8441189,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Corey,Winfield,TOT,0
+8441190,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Corey,Winfield,SOLO,0
+8441191,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Corey,Winfield,SACKS,0.0
+8441192,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Corey,Winfield,TFL,0
+8441193,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Corey,Winfield,INT,1
+8441194,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Corey,Winfield,FF,0
+8441195,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Corey,Winfield,FR,0
+8441196,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Antwan,Cordy,TOT,0
+8441197,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Antwan,Cordy,SOLO,0
+8441198,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Antwan,Cordy,SACKS,0.0
+8441199,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Antwan,Cordy,TFL,0
+8441200,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Antwan,Cordy,INT,0
+8441201,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Antwan,Cordy,FF,0
+8441202,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Antwan,Cordy,FR,1
+8441203,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Luke,Arciniega,TOT,1
+8441204,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Luke,Arciniega,SOLO,1
+8441205,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Luke,Arciniega,SACKS,0.0
+8441206,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Luke,Arciniega,TFL,1
+8441207,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Luke,Arciniega,INT,0
+8441208,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Luke,Arciniega,FF,1
+8441209,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Luke,Arciniega,FR,0
+8441210,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Zaire,Franklin,TOT,2
+8441211,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Zaire,Franklin,SOLO,2
+8441212,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Zaire,Franklin,SACKS,1.0
+8441213,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Zaire,Franklin,TFL,1
+8441214,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Zaire,Franklin,INT,0
+8441215,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Zaire,Franklin,FF,0
+8441216,9/4/2015,FCS,Syracuse,Rhode Island,DEFENSE,Zaire,Franklin,FR,0

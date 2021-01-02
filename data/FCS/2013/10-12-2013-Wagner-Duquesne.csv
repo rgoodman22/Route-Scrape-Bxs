@@ -1,0 +1,157 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+7201001,10/12/2013,FCS,Wagner,Duquesne,RUSHING,Dominique,Williams,ATT,21
+7201002,10/12/2013,FCS,Wagner,Duquesne,RUSHING,Dominique,Williams,YDS,92
+7201003,10/12/2013,FCS,Wagner,Duquesne,RUSHING,Dominique,Williams,TD,0
+7201004,10/12/2013,FCS,Wagner,Duquesne,RUSHING,Dominique,Williams,LONG,26
+7201005,10/12/2013,FCS,Wagner,Duquesne,RUSHING,Matthias,McKinnon,ATT,10
+7201006,10/12/2013,FCS,Wagner,Duquesne,RUSHING,Matthias,McKinnon,YDS,57
+7201007,10/12/2013,FCS,Wagner,Duquesne,RUSHING,Matthias,McKinnon,TD,1
+7201008,10/12/2013,FCS,Wagner,Duquesne,RUSHING,Matthias,McKinnon,LONG,15
+7201009,10/12/2013,FCS,Wagner,Duquesne,RUSHING,Kramer,Berg,ATT,8
+7201010,10/12/2013,FCS,Wagner,Duquesne,RUSHING,Kramer,Berg,YDS,6
+7201011,10/12/2013,FCS,Wagner,Duquesne,RUSHING,Kramer,Berg,TD,0
+7201012,10/12/2013,FCS,Wagner,Duquesne,RUSHING,Kramer,Berg,LONG,10
+7201013,10/12/2013,FCS,Wagner,Duquesne,RUSHING,Chris,Andrews,ATT,1
+7201014,10/12/2013,FCS,Wagner,Duquesne,RUSHING,Chris,Andrews,YDS,1
+7201015,10/12/2013,FCS,Wagner,Duquesne,RUSHING,Chris,Andrews,TD,0
+7201016,10/12/2013,FCS,Wagner,Duquesne,RUSHING,Chris,Andrews,LONG,1
+7201017,10/12/2013,FCS,Wagner,Duquesne,RUSHING,,Team,ATT,1
+7201018,10/12/2013,FCS,Wagner,Duquesne,RUSHING,,Team,YDS,-15
+7201019,10/12/2013,FCS,Wagner,Duquesne,RUSHING,,Team,TD,0
+7201020,10/12/2013,FCS,Wagner,Duquesne,RUSHING,,Team,LONG,0
+7201021,10/12/2013,FCS,Wagner,Duquesne,PASSING,Kramer,Berg,CP-ATT-INT,13-29-1
+7201022,10/12/2013,FCS,Wagner,Duquesne,PASSING,Kramer,Berg,YDS,87
+7201023,10/12/2013,FCS,Wagner,Duquesne,PASSING,Kramer,Berg,TD,0
+7201024,10/12/2013,FCS,Wagner,Duquesne,PASSING,Kramer,Berg,LONG,15
+7201025,10/12/2013,FCS,Wagner,Duquesne,PASSING,Chris,Andrews,CP-ATT-INT,1-2-0
+7201026,10/12/2013,FCS,Wagner,Duquesne,PASSING,Chris,Andrews,YDS,5
+7201027,10/12/2013,FCS,Wagner,Duquesne,PASSING,Chris,Andrews,TD,0
+7201028,10/12/2013,FCS,Wagner,Duquesne,PASSING,Chris,Andrews,LONG,5
+7201029,10/12/2013,FCS,Wagner,Duquesne,RECEIVING,Tyree,Watkins,REC,6
+7201030,10/12/2013,FCS,Wagner,Duquesne,RECEIVING,Tyree,Watkins,YDS,24
+7201031,10/12/2013,FCS,Wagner,Duquesne,RECEIVING,Tyree,Watkins,TD,0
+7201032,10/12/2013,FCS,Wagner,Duquesne,RECEIVING,Tyree,Watkins,LONG,11
+7201033,10/12/2013,FCS,Wagner,Duquesne,RECEIVING,Ralph,Greene,REC,2
+7201034,10/12/2013,FCS,Wagner,Duquesne,RECEIVING,Ralph,Greene,YDS,25
+7201035,10/12/2013,FCS,Wagner,Duquesne,RECEIVING,Ralph,Greene,TD,0
+7201036,10/12/2013,FCS,Wagner,Duquesne,RECEIVING,Ralph,Greene,LONG,15
+7201037,10/12/2013,FCS,Wagner,Duquesne,RECEIVING,Dominique,Williams,REC,2
+7201038,10/12/2013,FCS,Wagner,Duquesne,RECEIVING,Dominique,Williams,YDS,18
+7201039,10/12/2013,FCS,Wagner,Duquesne,RECEIVING,Dominique,Williams,TD,0
+7201040,10/12/2013,FCS,Wagner,Duquesne,RECEIVING,Dominique,Williams,LONG,13
+7201041,10/12/2013,FCS,Wagner,Duquesne,RECEIVING,Ryan,Owens,REC,2
+7201042,10/12/2013,FCS,Wagner,Duquesne,RECEIVING,Ryan,Owens,YDS,16
+7201043,10/12/2013,FCS,Wagner,Duquesne,RECEIVING,Ryan,Owens,TD,0
+7201044,10/12/2013,FCS,Wagner,Duquesne,RECEIVING,Ryan,Owens,LONG,14
+7201045,10/12/2013,FCS,Wagner,Duquesne,RECEIVING,Anthony,Carrington,REC,1
+7201046,10/12/2013,FCS,Wagner,Duquesne,RECEIVING,Anthony,Carrington,YDS,6
+7201047,10/12/2013,FCS,Wagner,Duquesne,RECEIVING,Anthony,Carrington,TD,0
+7201048,10/12/2013,FCS,Wagner,Duquesne,RECEIVING,Anthony,Carrington,LONG,6
+7201049,10/12/2013,FCS,Wagner,Duquesne,RECEIVING,Matthias,McKinnon,REC,1
+7201050,10/12/2013,FCS,Wagner,Duquesne,RECEIVING,Matthias,McKinnon,YDS,3
+7201051,10/12/2013,FCS,Wagner,Duquesne,RECEIVING,Matthias,McKinnon,TD,0
+7201052,10/12/2013,FCS,Wagner,Duquesne,RECEIVING,Matthias,McKinnon,LONG,3
+7201053,10/12/2013,FCS,Wagner,Duquesne,KICKING,Bryan,Maley,FG-FGA,0/1
+7201054,10/12/2013,FCS,Wagner,Duquesne,KICKING,Bryan,Maley,LONG,-
+7201055,10/12/2013,FCS,Wagner,Duquesne,KICKING,Bryan,Maley,XP,1
+7201056,10/12/2013,FCS,Wagner,Duquesne,KICKING,Bryan,Maley,PTS,1
+7201057,10/12/2013,FCS,Wagner,Duquesne,PUNTING,Matt,Misley,NO,9
+7201058,10/12/2013,FCS,Wagner,Duquesne,PUNTING,Matt,Misley,YDS,313
+7201059,10/12/2013,FCS,Wagner,Duquesne,PUNTING,Matt,Misley,AVG,34.8
+7201060,10/12/2013,FCS,Wagner,Duquesne,PUNTING,Matt,Misley,LONG,55
+7201061,10/12/2013,FCS,Wagner,Duquesne,PUNTING,A.J.,Firestone,NO,2
+7201062,10/12/2013,FCS,Wagner,Duquesne,PUNTING,A.J.,Firestone,YDS,95
+7201063,10/12/2013,FCS,Wagner,Duquesne,PUNTING,A.J.,Firestone,AVG,47.5
+7201064,10/12/2013,FCS,Wagner,Duquesne,PUNTING,A.J.,Firestone,LONG,52
+7201065,10/12/2013,FCS,Wagner,Duquesne,PUNT RETURNS,Daquan,Cooper,NO,1
+7201066,10/12/2013,FCS,Wagner,Duquesne,PUNT RETURNS,Daquan,Cooper,YDS,-1
+7201067,10/12/2013,FCS,Wagner,Duquesne,PUNT RETURNS,Daquan,Cooper,AVG,-1.0
+7201068,10/12/2013,FCS,Wagner,Duquesne,PUNT RETURNS,Daquan,Cooper,LONG,0
+7201069,10/12/2013,FCS,Wagner,Duquesne,KICK RETURNS,Daquan,Cooper,NO,2
+7201070,10/12/2013,FCS,Wagner,Duquesne,KICK RETURNS,Daquan,Cooper,YDS,55
+7201071,10/12/2013,FCS,Wagner,Duquesne,KICK RETURNS,Daquan,Cooper,AVG,27.5
+7201072,10/12/2013,FCS,Wagner,Duquesne,KICK RETURNS,Daquan,Cooper,LONG,32
+7201073,10/12/2013,FCS,Wagner,Duquesne,KICK RETURNS,Deangelo,James,NO,1
+7201074,10/12/2013,FCS,Wagner,Duquesne,KICK RETURNS,Deangelo,James,YDS,28
+7201075,10/12/2013,FCS,Wagner,Duquesne,KICK RETURNS,Deangelo,James,AVG,28.0
+7201076,10/12/2013,FCS,Wagner,Duquesne,KICK RETURNS,Deangelo,James,LONG,28
+7201077,10/12/2013,FCS,Wagner,Duquesne,KICK RETURNS,Brandon,Peoples,NO,1
+7201078,10/12/2013,FCS,Wagner,Duquesne,KICK RETURNS,Brandon,Peoples,YDS,20
+7201079,10/12/2013,FCS,Wagner,Duquesne,KICK RETURNS,Brandon,Peoples,AVG,20.0
+7201080,10/12/2013,FCS,Wagner,Duquesne,KICK RETURNS,Brandon,Peoples,LONG,20
+7201081,10/12/2013,FCS,Wagner,Duquesne,KICK RETURNS,Matthias,McKinnon,NO,1
+7201082,10/12/2013,FCS,Wagner,Duquesne,KICK RETURNS,Matthias,McKinnon,YDS,11
+7201083,10/12/2013,FCS,Wagner,Duquesne,KICK RETURNS,Matthias,McKinnon,AVG,11.0
+7201084,10/12/2013,FCS,Wagner,Duquesne,KICK RETURNS,Matthias,McKinnon,LONG,11
+7201085,10/12/2013,FCS,Duquesne,Wagner,RUSHING,Jason,Douglas,ATT,13
+7201086,10/12/2013,FCS,Duquesne,Wagner,RUSHING,Jason,Douglas,YDS,51
+7201087,10/12/2013,FCS,Duquesne,Wagner,RUSHING,Jason,Douglas,TD,0
+7201088,10/12/2013,FCS,Duquesne,Wagner,RUSHING,Jason,Douglas,LONG,12
+7201089,10/12/2013,FCS,Duquesne,Wagner,RUSHING,Ethan,Dorsey,ATT,1
+7201090,10/12/2013,FCS,Duquesne,Wagner,RUSHING,Ethan,Dorsey,YDS,40
+7201091,10/12/2013,FCS,Duquesne,Wagner,RUSHING,Ethan,Dorsey,TD,1
+7201092,10/12/2013,FCS,Duquesne,Wagner,RUSHING,Ethan,Dorsey,LONG,40
+7201093,10/12/2013,FCS,Duquesne,Wagner,RUSHING,Ryan,Ho,ATT,14
+7201094,10/12/2013,FCS,Duquesne,Wagner,RUSHING,Ryan,Ho,YDS,32
+7201095,10/12/2013,FCS,Duquesne,Wagner,RUSHING,Ryan,Ho,TD,1
+7201096,10/12/2013,FCS,Duquesne,Wagner,RUSHING,Ryan,Ho,LONG,8
+7201097,10/12/2013,FCS,Duquesne,Wagner,RUSHING,Dillon,Buechel,ATT,2
+7201098,10/12/2013,FCS,Duquesne,Wagner,RUSHING,Dillon,Buechel,YDS,2
+7201099,10/12/2013,FCS,Duquesne,Wagner,RUSHING,Dillon,Buechel,TD,0
+7201100,10/12/2013,FCS,Duquesne,Wagner,RUSHING,Dillon,Buechel,LONG,4
+7201101,10/12/2013,FCS,Duquesne,Wagner,RUSHING,Chris,King,ATT,1
+7201102,10/12/2013,FCS,Duquesne,Wagner,RUSHING,Chris,King,YDS,2
+7201103,10/12/2013,FCS,Duquesne,Wagner,RUSHING,Chris,King,TD,0
+7201104,10/12/2013,FCS,Duquesne,Wagner,RUSHING,Chris,King,LONG,2
+7201105,10/12/2013,FCS,Duquesne,Wagner,PASSING,Dillon,Buechel,CP-ATT-INT,25-37-2
+7201106,10/12/2013,FCS,Duquesne,Wagner,PASSING,Dillon,Buechel,YDS,189
+7201107,10/12/2013,FCS,Duquesne,Wagner,PASSING,Dillon,Buechel,TD,1
+7201108,10/12/2013,FCS,Duquesne,Wagner,PASSING,Dillon,Buechel,LONG,16
+7201109,10/12/2013,FCS,Duquesne,Wagner,RECEIVING,Gianni,Carter,REC,8
+7201110,10/12/2013,FCS,Duquesne,Wagner,RECEIVING,Gianni,Carter,YDS,51
+7201111,10/12/2013,FCS,Duquesne,Wagner,RECEIVING,Gianni,Carter,TD,0
+7201112,10/12/2013,FCS,Duquesne,Wagner,RECEIVING,Gianni,Carter,LONG,13
+7201113,10/12/2013,FCS,Duquesne,Wagner,RECEIVING,Dave,Thomas,REC,6
+7201114,10/12/2013,FCS,Duquesne,Wagner,RECEIVING,Dave,Thomas,YDS,42
+7201115,10/12/2013,FCS,Duquesne,Wagner,RECEIVING,Dave,Thomas,TD,0
+7201116,10/12/2013,FCS,Duquesne,Wagner,RECEIVING,Dave,Thomas,LONG,15
+7201117,10/12/2013,FCS,Duquesne,Wagner,RECEIVING,Devin,Rahming,REC,3
+7201118,10/12/2013,FCS,Duquesne,Wagner,RECEIVING,Devin,Rahming,YDS,27
+7201119,10/12/2013,FCS,Duquesne,Wagner,RECEIVING,Devin,Rahming,TD,0
+7201120,10/12/2013,FCS,Duquesne,Wagner,RECEIVING,Devin,Rahming,LONG,16
+7201121,10/12/2013,FCS,Duquesne,Wagner,RECEIVING,Chris,King,REC,3
+7201122,10/12/2013,FCS,Duquesne,Wagner,RECEIVING,Chris,King,YDS,19
+7201123,10/12/2013,FCS,Duquesne,Wagner,RECEIVING,Chris,King,TD,1
+7201124,10/12/2013,FCS,Duquesne,Wagner,RECEIVING,Chris,King,LONG,12
+7201125,10/12/2013,FCS,Duquesne,Wagner,RECEIVING,Noel,Oduho,REC,2
+7201126,10/12/2013,FCS,Duquesne,Wagner,RECEIVING,Noel,Oduho,YDS,26
+7201127,10/12/2013,FCS,Duquesne,Wagner,RECEIVING,Noel,Oduho,TD,0
+7201128,10/12/2013,FCS,Duquesne,Wagner,RECEIVING,Noel,Oduho,LONG,14
+7201129,10/12/2013,FCS,Duquesne,Wagner,RECEIVING,Ethan,Dorsey,REC,1
+7201130,10/12/2013,FCS,Duquesne,Wagner,RECEIVING,Ethan,Dorsey,YDS,13
+7201131,10/12/2013,FCS,Duquesne,Wagner,RECEIVING,Ethan,Dorsey,TD,0
+7201132,10/12/2013,FCS,Duquesne,Wagner,RECEIVING,Ethan,Dorsey,LONG,13
+7201133,10/12/2013,FCS,Duquesne,Wagner,RECEIVING,Ryan,Ho,REC,1
+7201134,10/12/2013,FCS,Duquesne,Wagner,RECEIVING,Ryan,Ho,YDS,10
+7201135,10/12/2013,FCS,Duquesne,Wagner,RECEIVING,Ryan,Ho,TD,0
+7201136,10/12/2013,FCS,Duquesne,Wagner,RECEIVING,Ryan,Ho,LONG,10
+7201137,10/12/2013,FCS,Duquesne,Wagner,RECEIVING,Jason,Douglas,REC,1
+7201138,10/12/2013,FCS,Duquesne,Wagner,RECEIVING,Jason,Douglas,YDS,1
+7201139,10/12/2013,FCS,Duquesne,Wagner,RECEIVING,Jason,Douglas,TD,0
+7201140,10/12/2013,FCS,Duquesne,Wagner,RECEIVING,Jason,Douglas,LONG,1
+7201141,10/12/2013,FCS,Duquesne,Wagner,KICKING,Austin,Crimmins,FG-FGA,2/2
+7201142,10/12/2013,FCS,Duquesne,Wagner,KICKING,Austin,Crimmins,LONG,47
+7201143,10/12/2013,FCS,Duquesne,Wagner,KICKING,Austin,Crimmins,XP,4
+7201144,10/12/2013,FCS,Duquesne,Wagner,KICKING,Austin,Crimmins,PTS,10
+7201145,10/12/2013,FCS,Duquesne,Wagner,PUNTING,Aaron,Fleck,NO,6
+7201146,10/12/2013,FCS,Duquesne,Wagner,PUNTING,Aaron,Fleck,YDS,251
+7201147,10/12/2013,FCS,Duquesne,Wagner,PUNTING,Aaron,Fleck,AVG,41.8
+7201148,10/12/2013,FCS,Duquesne,Wagner,PUNTING,Aaron,Fleck,LONG,48
+7201149,10/12/2013,FCS,Duquesne,Wagner,PUNT RETURNS,Devin,Rahming,NO,6
+7201150,10/12/2013,FCS,Duquesne,Wagner,PUNT RETURNS,Devin,Rahming,YDS,107
+7201151,10/12/2013,FCS,Duquesne,Wagner,PUNT RETURNS,Devin,Rahming,AVG,17.8
+7201152,10/12/2013,FCS,Duquesne,Wagner,PUNT RETURNS,Devin,Rahming,LONG,62
+7201153,10/12/2013,FCS,Duquesne,Wagner,KICK RETURNS,Chris,King,NO,2
+7201154,10/12/2013,FCS,Duquesne,Wagner,KICK RETURNS,Chris,King,YDS,65
+7201155,10/12/2013,FCS,Duquesne,Wagner,KICK RETURNS,Chris,King,AVG,32.5
+7201156,10/12/2013,FCS,Duquesne,Wagner,KICK RETURNS,Chris,King,LONG,46

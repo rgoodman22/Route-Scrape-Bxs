@@ -1,0 +1,149 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9837001,11/5/2016,FCS,Robert Morris,Bryant,RUSHING,Thomas,Neal,ATT,12
+9837002,11/5/2016,FCS,Robert Morris,Bryant,RUSHING,Thomas,Neal,YDS,34
+9837003,11/5/2016,FCS,Robert Morris,Bryant,RUSHING,Thomas,Neal,TD,0
+9837004,11/5/2016,FCS,Robert Morris,Bryant,RUSHING,Thomas,Neal,LONG,20
+9837005,11/5/2016,FCS,Robert Morris,Bryant,RUSHING,Dante,Satcher,ATT,9
+9837006,11/5/2016,FCS,Robert Morris,Bryant,RUSHING,Dante,Satcher,YDS,26
+9837007,11/5/2016,FCS,Robert Morris,Bryant,RUSHING,Dante,Satcher,TD,0
+9837008,11/5/2016,FCS,Robert Morris,Bryant,RUSHING,Dante,Satcher,LONG,14
+9837009,11/5/2016,FCS,Robert Morris,Bryant,RUSHING,Trey,Edwards,ATT,1
+9837010,11/5/2016,FCS,Robert Morris,Bryant,RUSHING,Trey,Edwards,YDS,18
+9837011,11/5/2016,FCS,Robert Morris,Bryant,RUSHING,Trey,Edwards,TD,0
+9837012,11/5/2016,FCS,Robert Morris,Bryant,RUSHING,Trey,Edwards,LONG,18
+9837013,11/5/2016,FCS,Robert Morris,Bryant,RUSHING,Joe,Carroll,ATT,6
+9837014,11/5/2016,FCS,Robert Morris,Bryant,RUSHING,Joe,Carroll,YDS,-7
+9837015,11/5/2016,FCS,Robert Morris,Bryant,RUSHING,Joe,Carroll,TD,0
+9837016,11/5/2016,FCS,Robert Morris,Bryant,RUSHING,Joe,Carroll,LONG,10
+9837017,11/5/2016,FCS,Robert Morris,Bryant,PASSING,Joe,Carroll,CP-ATT-INT,9-31-1
+9837018,11/5/2016,FCS,Robert Morris,Bryant,PASSING,Joe,Carroll,YDS,27
+9837019,11/5/2016,FCS,Robert Morris,Bryant,PASSING,Joe,Carroll,TD,0
+9837020,11/5/2016,FCS,Robert Morris,Bryant,PASSING,Joe,Carroll,LONG,8
+9837021,11/5/2016,FCS,Robert Morris,Bryant,RECEIVING,Tim,Vecchio,REC,3
+9837022,11/5/2016,FCS,Robert Morris,Bryant,RECEIVING,Tim,Vecchio,YDS,8
+9837023,11/5/2016,FCS,Robert Morris,Bryant,RECEIVING,Tim,Vecchio,TD,0
+9837024,11/5/2016,FCS,Robert Morris,Bryant,RECEIVING,Tim,Vecchio,LONG,4
+9837025,11/5/2016,FCS,Robert Morris,Bryant,RECEIVING,Warren,Robinson,REC,1
+9837026,11/5/2016,FCS,Robert Morris,Bryant,RECEIVING,Warren,Robinson,YDS,8
+9837027,11/5/2016,FCS,Robert Morris,Bryant,RECEIVING,Warren,Robinson,TD,0
+9837028,11/5/2016,FCS,Robert Morris,Bryant,RECEIVING,Warren,Robinson,LONG,8
+9837029,11/5/2016,FCS,Robert Morris,Bryant,RECEIVING,Matthew,Gonzalez,REC,3
+9837030,11/5/2016,FCS,Robert Morris,Bryant,RECEIVING,Matthew,Gonzalez,YDS,4
+9837031,11/5/2016,FCS,Robert Morris,Bryant,RECEIVING,Matthew,Gonzalez,TD,0
+9837032,11/5/2016,FCS,Robert Morris,Bryant,RECEIVING,Matthew,Gonzalez,LONG,7
+9837033,11/5/2016,FCS,Robert Morris,Bryant,RECEIVING,Trey,Edwards,REC,1
+9837034,11/5/2016,FCS,Robert Morris,Bryant,RECEIVING,Trey,Edwards,YDS,4
+9837035,11/5/2016,FCS,Robert Morris,Bryant,RECEIVING,Trey,Edwards,TD,0
+9837036,11/5/2016,FCS,Robert Morris,Bryant,RECEIVING,Trey,Edwards,LONG,4
+9837037,11/5/2016,FCS,Robert Morris,Bryant,RECEIVING,Reggie,Green,REC,1
+9837038,11/5/2016,FCS,Robert Morris,Bryant,RECEIVING,Reggie,Green,YDS,3
+9837039,11/5/2016,FCS,Robert Morris,Bryant,RECEIVING,Reggie,Green,TD,0
+9837040,11/5/2016,FCS,Robert Morris,Bryant,RECEIVING,Reggie,Green,LONG,3
+9837041,11/5/2016,FCS,Robert Morris,Bryant,KICKING,Connor,Shennan,FG-FGA,2/2
+9837042,11/5/2016,FCS,Robert Morris,Bryant,KICKING,Connor,Shennan,LONG,44
+9837043,11/5/2016,FCS,Robert Morris,Bryant,KICKING,Connor,Shennan,XP,1
+9837044,11/5/2016,FCS,Robert Morris,Bryant,KICKING,Connor,Shennan,PTS,7
+9837045,11/5/2016,FCS,Robert Morris,Bryant,PUNTING,Adam,Check,NO,8
+9837046,11/5/2016,FCS,Robert Morris,Bryant,PUNTING,Adam,Check,YDS,278
+9837047,11/5/2016,FCS,Robert Morris,Bryant,PUNTING,Adam,Check,AVG,34.8
+9837048,11/5/2016,FCS,Robert Morris,Bryant,PUNTING,Adam,Check,LONG,39
+9837049,11/5/2016,FCS,Robert Morris,Bryant,PUNT RETURNS,Gerald,Ferguson,NO,1
+9837050,11/5/2016,FCS,Robert Morris,Bryant,PUNT RETURNS,Gerald,Ferguson,YDS,37
+9837051,11/5/2016,FCS,Robert Morris,Bryant,PUNT RETURNS,Gerald,Ferguson,AVG,37.0
+9837052,11/5/2016,FCS,Robert Morris,Bryant,PUNT RETURNS,Gerald,Ferguson,LONG,37
+9837053,11/5/2016,FCS,Robert Morris,Bryant,PUNT RETURNS,Warren,Robinson,NO,2
+9837054,11/5/2016,FCS,Robert Morris,Bryant,PUNT RETURNS,Warren,Robinson,YDS,5
+9837055,11/5/2016,FCS,Robert Morris,Bryant,PUNT RETURNS,Warren,Robinson,AVG,2.5
+9837056,11/5/2016,FCS,Robert Morris,Bryant,PUNT RETURNS,Warren,Robinson,LONG,9
+9837057,11/5/2016,FCS,Robert Morris,Bryant,KICK RETURNS,Jonathan,Wanat,NO,1
+9837058,11/5/2016,FCS,Robert Morris,Bryant,KICK RETURNS,Jonathan,Wanat,YDS,9
+9837059,11/5/2016,FCS,Robert Morris,Bryant,KICK RETURNS,Jonathan,Wanat,AVG,9.0
+9837060,11/5/2016,FCS,Robert Morris,Bryant,KICK RETURNS,Jonathan,Wanat,LONG,9
+9837061,11/5/2016,FCS,Robert Morris,Bryant,KICK RETURNS,Dante,Satcher,NO,1
+9837062,11/5/2016,FCS,Robert Morris,Bryant,KICK RETURNS,Dante,Satcher,YDS,6
+9837063,11/5/2016,FCS,Robert Morris,Bryant,KICK RETURNS,Dante,Satcher,AVG,6.0
+9837064,11/5/2016,FCS,Robert Morris,Bryant,KICK RETURNS,Dante,Satcher,LONG,6
+9837065,11/5/2016,FCS,Bryant,Robert Morris,RUSHING,Brenden,Femiano,ATT,17
+9837066,11/5/2016,FCS,Bryant,Robert Morris,RUSHING,Brenden,Femiano,YDS,37
+9837067,11/5/2016,FCS,Bryant,Robert Morris,RUSHING,Brenden,Femiano,TD,1
+9837068,11/5/2016,FCS,Bryant,Robert Morris,RUSHING,Brenden,Femiano,LONG,11
+9837069,11/5/2016,FCS,Bryant,Robert Morris,RUSHING,Hunter,Taute,ATT,9
+9837070,11/5/2016,FCS,Bryant,Robert Morris,RUSHING,Hunter,Taute,YDS,32
+9837071,11/5/2016,FCS,Bryant,Robert Morris,RUSHING,Hunter,Taute,TD,0
+9837072,11/5/2016,FCS,Bryant,Robert Morris,RUSHING,Hunter,Taute,LONG,12
+9837073,11/5/2016,FCS,Bryant,Robert Morris,RUSHING,Ryan,Black,ATT,1
+9837074,11/5/2016,FCS,Bryant,Robert Morris,RUSHING,Ryan,Black,YDS,-2
+9837075,11/5/2016,FCS,Bryant,Robert Morris,RUSHING,Ryan,Black,TD,0
+9837076,11/5/2016,FCS,Bryant,Robert Morris,RUSHING,Ryan,Black,LONG,0
+9837077,11/5/2016,FCS,Bryant,Robert Morris,RUSHING,,Team,ATT,2
+9837078,11/5/2016,FCS,Bryant,Robert Morris,RUSHING,,Team,YDS,-5
+9837079,11/5/2016,FCS,Bryant,Robert Morris,RUSHING,,Team,TD,0
+9837080,11/5/2016,FCS,Bryant,Robert Morris,RUSHING,,Team,LONG,0
+9837081,11/5/2016,FCS,Bryant,Robert Morris,RUSHING,Jacob,Lazarus,ATT,1
+9837082,11/5/2016,FCS,Bryant,Robert Morris,RUSHING,Jacob,Lazarus,YDS,-17
+9837083,11/5/2016,FCS,Bryant,Robert Morris,RUSHING,Jacob,Lazarus,TD,0
+9837084,11/5/2016,FCS,Bryant,Robert Morris,RUSHING,Jacob,Lazarus,LONG,0
+9837085,11/5/2016,FCS,Bryant,Robert Morris,RUSHING,Dalton,Easton,ATT,10
+9837086,11/5/2016,FCS,Bryant,Robert Morris,RUSHING,Dalton,Easton,YDS,-29
+9837087,11/5/2016,FCS,Bryant,Robert Morris,RUSHING,Dalton,Easton,TD,0
+9837088,11/5/2016,FCS,Bryant,Robert Morris,RUSHING,Dalton,Easton,LONG,8
+9837089,11/5/2016,FCS,Bryant,Robert Morris,PASSING,Dalton,Easton,CP-ATT-INT,18-28-0
+9837090,11/5/2016,FCS,Bryant,Robert Morris,PASSING,Dalton,Easton,YDS,209
+9837091,11/5/2016,FCS,Bryant,Robert Morris,PASSING,Dalton,Easton,TD,2
+9837092,11/5/2016,FCS,Bryant,Robert Morris,PASSING,Dalton,Easton,LONG,0
+9837093,11/5/2016,FCS,Bryant,Robert Morris,RECEIVING,Taylor,Barthelette,REC,6
+9837094,11/5/2016,FCS,Bryant,Robert Morris,RECEIVING,Taylor,Barthelette,YDS,93
+9837095,11/5/2016,FCS,Bryant,Robert Morris,RECEIVING,Taylor,Barthelette,TD,0
+9837096,11/5/2016,FCS,Bryant,Robert Morris,RECEIVING,Taylor,Barthelette,LONG,26
+9837097,11/5/2016,FCS,Bryant,Robert Morris,RECEIVING,Mitchell,Baxter,REC,4
+9837098,11/5/2016,FCS,Bryant,Robert Morris,RECEIVING,Mitchell,Baxter,YDS,43
+9837099,11/5/2016,FCS,Bryant,Robert Morris,RECEIVING,Mitchell,Baxter,TD,1
+9837100,11/5/2016,FCS,Bryant,Robert Morris,RECEIVING,Mitchell,Baxter,LONG,22
+9837101,11/5/2016,FCS,Bryant,Robert Morris,RECEIVING,Matt,Sewall,REC,2
+9837102,11/5/2016,FCS,Bryant,Robert Morris,RECEIVING,Matt,Sewall,YDS,33
+9837103,11/5/2016,FCS,Bryant,Robert Morris,RECEIVING,Matt,Sewall,TD,1
+9837104,11/5/2016,FCS,Bryant,Robert Morris,RECEIVING,Matt,Sewall,LONG,23
+9837105,11/5/2016,FCS,Bryant,Robert Morris,RECEIVING,Keenan,Thompson,REC,2
+9837106,11/5/2016,FCS,Bryant,Robert Morris,RECEIVING,Keenan,Thompson,YDS,21
+9837107,11/5/2016,FCS,Bryant,Robert Morris,RECEIVING,Keenan,Thompson,TD,0
+9837108,11/5/2016,FCS,Bryant,Robert Morris,RECEIVING,Keenan,Thompson,LONG,15
+9837109,11/5/2016,FCS,Bryant,Robert Morris,RECEIVING,Joe,Fine,REC,1
+9837110,11/5/2016,FCS,Bryant,Robert Morris,RECEIVING,Joe,Fine,YDS,12
+9837111,11/5/2016,FCS,Bryant,Robert Morris,RECEIVING,Joe,Fine,TD,0
+9837112,11/5/2016,FCS,Bryant,Robert Morris,RECEIVING,Joe,Fine,LONG,12
+9837113,11/5/2016,FCS,Bryant,Robert Morris,RECEIVING,Brenden,Femiano,REC,1
+9837114,11/5/2016,FCS,Bryant,Robert Morris,RECEIVING,Brenden,Femiano,YDS,3
+9837115,11/5/2016,FCS,Bryant,Robert Morris,RECEIVING,Brenden,Femiano,TD,0
+9837116,11/5/2016,FCS,Bryant,Robert Morris,RECEIVING,Brenden,Femiano,LONG,3
+9837117,11/5/2016,FCS,Bryant,Robert Morris,RECEIVING,Hunter,Taute,REC,1
+9837118,11/5/2016,FCS,Bryant,Robert Morris,RECEIVING,Hunter,Taute,YDS,2
+9837119,11/5/2016,FCS,Bryant,Robert Morris,RECEIVING,Hunter,Taute,TD,0
+9837120,11/5/2016,FCS,Bryant,Robert Morris,RECEIVING,Hunter,Taute,LONG,2
+9837121,11/5/2016,FCS,Bryant,Robert Morris,RECEIVING,Christian,Martey,REC,1
+9837122,11/5/2016,FCS,Bryant,Robert Morris,RECEIVING,Christian,Martey,YDS,2
+9837123,11/5/2016,FCS,Bryant,Robert Morris,RECEIVING,Christian,Martey,TD,0
+9837124,11/5/2016,FCS,Bryant,Robert Morris,RECEIVING,Christian,Martey,LONG,2
+9837125,11/5/2016,FCS,Bryant,Robert Morris,KICKING,Ricky,Perez,FG-FGA,1/1
+9837126,11/5/2016,FCS,Bryant,Robert Morris,KICKING,Ricky,Perez,LONG,50
+9837127,11/5/2016,FCS,Bryant,Robert Morris,KICKING,Ricky,Perez,XP,3
+9837128,11/5/2016,FCS,Bryant,Robert Morris,KICKING,Ricky,Perez,PTS,6
+9837129,11/5/2016,FCS,Bryant,Robert Morris,PUNTING,Drew,Chretien,NO,6
+9837130,11/5/2016,FCS,Bryant,Robert Morris,PUNTING,Drew,Chretien,YDS,228
+9837131,11/5/2016,FCS,Bryant,Robert Morris,PUNTING,Drew,Chretien,AVG,38.0
+9837132,11/5/2016,FCS,Bryant,Robert Morris,PUNTING,Drew,Chretien,LONG,41
+9837133,11/5/2016,FCS,Bryant,Robert Morris,PUNTING,Ricky,Perez,NO,1
+9837134,11/5/2016,FCS,Bryant,Robert Morris,PUNTING,Ricky,Perez,YDS,32
+9837135,11/5/2016,FCS,Bryant,Robert Morris,PUNTING,Ricky,Perez,AVG,32.0
+9837136,11/5/2016,FCS,Bryant,Robert Morris,PUNTING,Ricky,Perez,LONG,32
+9837137,11/5/2016,FCS,Bryant,Robert Morris,PUNT RETURNS,Matt,Sewall,NO,1
+9837138,11/5/2016,FCS,Bryant,Robert Morris,PUNT RETURNS,Matt,Sewall,YDS,0
+9837139,11/5/2016,FCS,Bryant,Robert Morris,PUNT RETURNS,Matt,Sewall,AVG,-
+9837140,11/5/2016,FCS,Bryant,Robert Morris,PUNT RETURNS,Matt,Sewall,LONG,0
+9837141,11/5/2016,FCS,Bryant,Robert Morris,KICK RETURNS,Taylor,Barthelette,NO,2
+9837142,11/5/2016,FCS,Bryant,Robert Morris,KICK RETURNS,Taylor,Barthelette,YDS,53
+9837143,11/5/2016,FCS,Bryant,Robert Morris,KICK RETURNS,Taylor,Barthelette,AVG,26.5
+9837144,11/5/2016,FCS,Bryant,Robert Morris,KICK RETURNS,Taylor,Barthelette,LONG,28
+9837145,11/5/2016,FCS,Bryant,Robert Morris,KICK RETURNS,Matt,Sewall,NO,1
+9837146,11/5/2016,FCS,Bryant,Robert Morris,KICK RETURNS,Matt,Sewall,YDS,33
+9837147,11/5/2016,FCS,Bryant,Robert Morris,KICK RETURNS,Matt,Sewall,AVG,33.0
+9837148,11/5/2016,FCS,Bryant,Robert Morris,KICK RETURNS,Matt,Sewall,LONG,33

@@ -1,0 +1,161 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+8000001,10/11/2014,FCS,Southern Univ.,Alabama A&M,RUSHING,Lenard,Tillery,ATT,16
+8000002,10/11/2014,FCS,Southern Univ.,Alabama A&M,RUSHING,Lenard,Tillery,YDS,93
+8000003,10/11/2014,FCS,Southern Univ.,Alabama A&M,RUSHING,Lenard,Tillery,TD,2
+8000004,10/11/2014,FCS,Southern Univ.,Alabama A&M,RUSHING,Lenard,Tillery,LONG,17
+8000005,10/11/2014,FCS,Southern Univ.,Alabama A&M,RUSHING,Malcolm,Crockett,ATT,10
+8000006,10/11/2014,FCS,Southern Univ.,Alabama A&M,RUSHING,Malcolm,Crockett,YDS,44
+8000007,10/11/2014,FCS,Southern Univ.,Alabama A&M,RUSHING,Malcolm,Crockett,TD,1
+8000008,10/11/2014,FCS,Southern Univ.,Alabama A&M,RUSHING,Malcolm,Crockett,LONG,16
+8000009,10/11/2014,FCS,Southern Univ.,Alabama A&M,RUSHING,Austin,Howard,ATT,5
+8000010,10/11/2014,FCS,Southern Univ.,Alabama A&M,RUSHING,Austin,Howard,YDS,20
+8000011,10/11/2014,FCS,Southern Univ.,Alabama A&M,RUSHING,Austin,Howard,TD,0
+8000012,10/11/2014,FCS,Southern Univ.,Alabama A&M,RUSHING,Austin,Howard,LONG,16
+8000013,10/11/2014,FCS,Southern Univ.,Alabama A&M,RUSHING,Justin,Morgan,ATT,2
+8000014,10/11/2014,FCS,Southern Univ.,Alabama A&M,RUSHING,Justin,Morgan,YDS,11
+8000015,10/11/2014,FCS,Southern Univ.,Alabama A&M,RUSHING,Justin,Morgan,TD,0
+8000016,10/11/2014,FCS,Southern Univ.,Alabama A&M,RUSHING,Justin,Morgan,LONG,18
+8000017,10/11/2014,FCS,Southern Univ.,Alabama A&M,RUSHING,Jamarcus,Jarvis,ATT,2
+8000018,10/11/2014,FCS,Southern Univ.,Alabama A&M,RUSHING,Jamarcus,Jarvis,YDS,-1
+8000019,10/11/2014,FCS,Southern Univ.,Alabama A&M,RUSHING,Jamarcus,Jarvis,TD,0
+8000020,10/11/2014,FCS,Southern Univ.,Alabama A&M,RUSHING,Jamarcus,Jarvis,LONG,0
+8000021,10/11/2014,FCS,Southern Univ.,Alabama A&M,PASSING,Austin,Howard,CP-ATT-INT,17-41-1
+8000022,10/11/2014,FCS,Southern Univ.,Alabama A&M,PASSING,Austin,Howard,YDS,265
+8000023,10/11/2014,FCS,Southern Univ.,Alabama A&M,PASSING,Austin,Howard,TD,2
+8000024,10/11/2014,FCS,Southern Univ.,Alabama A&M,PASSING,Austin,Howard,LONG,79
+8000025,10/11/2014,FCS,Southern Univ.,Alabama A&M,RECEIVING,Willie,Quinn,REC,7
+8000026,10/11/2014,FCS,Southern Univ.,Alabama A&M,RECEIVING,Willie,Quinn,YDS,132
+8000027,10/11/2014,FCS,Southern Univ.,Alabama A&M,RECEIVING,Willie,Quinn,TD,1
+8000028,10/11/2014,FCS,Southern Univ.,Alabama A&M,RECEIVING,Willie,Quinn,LONG,79
+8000029,10/11/2014,FCS,Southern Univ.,Alabama A&M,RECEIVING,Justin,Morgan,REC,3
+8000030,10/11/2014,FCS,Southern Univ.,Alabama A&M,RECEIVING,Justin,Morgan,YDS,72
+8000031,10/11/2014,FCS,Southern Univ.,Alabama A&M,RECEIVING,Justin,Morgan,TD,1
+8000032,10/11/2014,FCS,Southern Univ.,Alabama A&M,RECEIVING,Justin,Morgan,LONG,68
+8000033,10/11/2014,FCS,Southern Univ.,Alabama A&M,RECEIVING,Reggie,Travis,REC,2
+8000034,10/11/2014,FCS,Southern Univ.,Alabama A&M,RECEIVING,Reggie,Travis,YDS,20
+8000035,10/11/2014,FCS,Southern Univ.,Alabama A&M,RECEIVING,Reggie,Travis,TD,0
+8000036,10/11/2014,FCS,Southern Univ.,Alabama A&M,RECEIVING,Reggie,Travis,LONG,14
+8000037,10/11/2014,FCS,Southern Univ.,Alabama A&M,RECEIVING,Samuel,Altman,REC,2
+8000038,10/11/2014,FCS,Southern Univ.,Alabama A&M,RECEIVING,Samuel,Altman,YDS,16
+8000039,10/11/2014,FCS,Southern Univ.,Alabama A&M,RECEIVING,Samuel,Altman,TD,0
+8000040,10/11/2014,FCS,Southern Univ.,Alabama A&M,RECEIVING,Samuel,Altman,LONG,9
+8000041,10/11/2014,FCS,Southern Univ.,Alabama A&M,RECEIVING,Montrell,Jones,REC,1
+8000042,10/11/2014,FCS,Southern Univ.,Alabama A&M,RECEIVING,Montrell,Jones,YDS,10
+8000043,10/11/2014,FCS,Southern Univ.,Alabama A&M,RECEIVING,Montrell,Jones,TD,0
+8000044,10/11/2014,FCS,Southern Univ.,Alabama A&M,RECEIVING,Montrell,Jones,LONG,10
+8000045,10/11/2014,FCS,Southern Univ.,Alabama A&M,RECEIVING,Dillon,Beard,REC,1
+8000046,10/11/2014,FCS,Southern Univ.,Alabama A&M,RECEIVING,Dillon,Beard,YDS,8
+8000047,10/11/2014,FCS,Southern Univ.,Alabama A&M,RECEIVING,Dillon,Beard,TD,0
+8000048,10/11/2014,FCS,Southern Univ.,Alabama A&M,RECEIVING,Dillon,Beard,LONG,8
+8000049,10/11/2014,FCS,Southern Univ.,Alabama A&M,RECEIVING,Lenard,Tillery,REC,1
+8000050,10/11/2014,FCS,Southern Univ.,Alabama A&M,RECEIVING,Lenard,Tillery,YDS,7
+8000051,10/11/2014,FCS,Southern Univ.,Alabama A&M,RECEIVING,Lenard,Tillery,TD,0
+8000052,10/11/2014,FCS,Southern Univ.,Alabama A&M,RECEIVING,Lenard,Tillery,LONG,7
+8000053,10/11/2014,FCS,Southern Univ.,Alabama A&M,KICKING,Greg,Pittman,FG-FGA,0/0
+8000054,10/11/2014,FCS,Southern Univ.,Alabama A&M,KICKING,Greg,Pittman,LONG,-
+8000055,10/11/2014,FCS,Southern Univ.,Alabama A&M,KICKING,Greg,Pittman,XP,5
+8000056,10/11/2014,FCS,Southern Univ.,Alabama A&M,KICKING,Greg,Pittman,PTS,5
+8000057,10/11/2014,FCS,Southern Univ.,Alabama A&M,PUNTING,Paul,RandallSoden,NO,7
+8000058,10/11/2014,FCS,Southern Univ.,Alabama A&M,PUNTING,Paul,RandallSoden,YDS,287
+8000059,10/11/2014,FCS,Southern Univ.,Alabama A&M,PUNTING,Paul,RandallSoden,AVG,41.0
+8000060,10/11/2014,FCS,Southern Univ.,Alabama A&M,PUNTING,Paul,RandallSoden,LONG,49
+8000061,10/11/2014,FCS,Southern Univ.,Alabama A&M,PUNT RETURNS,Willie,Quinn,NO,2
+8000062,10/11/2014,FCS,Southern Univ.,Alabama A&M,PUNT RETURNS,Willie,Quinn,YDS,43
+8000063,10/11/2014,FCS,Southern Univ.,Alabama A&M,PUNT RETURNS,Willie,Quinn,AVG,21.5
+8000064,10/11/2014,FCS,Southern Univ.,Alabama A&M,PUNT RETURNS,Willie,Quinn,LONG,28
+8000065,10/11/2014,FCS,Southern Univ.,Alabama A&M,PUNT RETURNS,Danny,Johnson,NO,1
+8000066,10/11/2014,FCS,Southern Univ.,Alabama A&M,PUNT RETURNS,Danny,Johnson,YDS,13
+8000067,10/11/2014,FCS,Southern Univ.,Alabama A&M,PUNT RETURNS,Danny,Johnson,AVG,13.0
+8000068,10/11/2014,FCS,Southern Univ.,Alabama A&M,PUNT RETURNS,Danny,Johnson,LONG,13
+8000069,10/11/2014,FCS,Southern Univ.,Alabama A&M,KICK RETURNS,Danny,Johnson,NO,3
+8000070,10/11/2014,FCS,Southern Univ.,Alabama A&M,KICK RETURNS,Danny,Johnson,YDS,79
+8000071,10/11/2014,FCS,Southern Univ.,Alabama A&M,KICK RETURNS,Danny,Johnson,AVG,26.3
+8000072,10/11/2014,FCS,Southern Univ.,Alabama A&M,KICK RETURNS,Danny,Johnson,LONG,66
+8000073,10/11/2014,FCS,Southern Univ.,Alabama A&M,KICK RETURNS,Jaleel,Richardson,NO,3
+8000074,10/11/2014,FCS,Southern Univ.,Alabama A&M,KICK RETURNS,Jaleel,Richardson,YDS,28
+8000075,10/11/2014,FCS,Southern Univ.,Alabama A&M,KICK RETURNS,Jaleel,Richardson,AVG,9.3
+8000076,10/11/2014,FCS,Southern Univ.,Alabama A&M,KICK RETURNS,Jaleel,Richardson,LONG,15
+8000077,10/11/2014,FCS,Alabama A&M,Southern Univ.,RUSHING,Harvey,Harris,ATT,17
+8000078,10/11/2014,FCS,Alabama A&M,Southern Univ.,RUSHING,Harvey,Harris,YDS,93
+8000079,10/11/2014,FCS,Alabama A&M,Southern Univ.,RUSHING,Harvey,Harris,TD,0
+8000080,10/11/2014,FCS,Alabama A&M,Southern Univ.,RUSHING,Harvey,Harris,LONG,15
+8000081,10/11/2014,FCS,Alabama A&M,Southern Univ.,RUSHING,Brandon,Eldemire,ATT,20
+8000082,10/11/2014,FCS,Alabama A&M,Southern Univ.,RUSHING,Brandon,Eldemire,YDS,74
+8000083,10/11/2014,FCS,Alabama A&M,Southern Univ.,RUSHING,Brandon,Eldemire,TD,1
+8000084,10/11/2014,FCS,Alabama A&M,Southern Univ.,RUSHING,Brandon,Eldemire,LONG,10
+8000085,10/11/2014,FCS,Alabama A&M,Southern Univ.,RUSHING,Jaymason,Lee,ATT,12
+8000086,10/11/2014,FCS,Alabama A&M,Southern Univ.,RUSHING,Jaymason,Lee,YDS,20
+8000087,10/11/2014,FCS,Alabama A&M,Southern Univ.,RUSHING,Jaymason,Lee,TD,0
+8000088,10/11/2014,FCS,Alabama A&M,Southern Univ.,RUSHING,Jaymason,Lee,LONG,17
+8000089,10/11/2014,FCS,Alabama A&M,Southern Univ.,RUSHING,Brandon,Wells,ATT,1
+8000090,10/11/2014,FCS,Alabama A&M,Southern Univ.,RUSHING,Brandon,Wells,YDS,4
+8000091,10/11/2014,FCS,Alabama A&M,Southern Univ.,RUSHING,Brandon,Wells,TD,0
+8000092,10/11/2014,FCS,Alabama A&M,Southern Univ.,RUSHING,Brandon,Wells,LONG,4
+8000093,10/11/2014,FCS,Alabama A&M,Southern Univ.,RUSHING,,Team,ATT,1
+8000094,10/11/2014,FCS,Alabama A&M,Southern Univ.,RUSHING,,Team,YDS,-5
+8000095,10/11/2014,FCS,Alabama A&M,Southern Univ.,RUSHING,,Team,TD,0
+8000096,10/11/2014,FCS,Alabama A&M,Southern Univ.,RUSHING,,Team,LONG,0
+8000097,10/11/2014,FCS,Alabama A&M,Southern Univ.,RUSHING,Chris,Leachman,ATT,2
+8000098,10/11/2014,FCS,Alabama A&M,Southern Univ.,RUSHING,Chris,Leachman,YDS,-11
+8000099,10/11/2014,FCS,Alabama A&M,Southern Univ.,RUSHING,Chris,Leachman,TD,0
+8000100,10/11/2014,FCS,Alabama A&M,Southern Univ.,RUSHING,Chris,Leachman,LONG,0
+8000101,10/11/2014,FCS,Alabama A&M,Southern Univ.,PASSING,Jaymason,Lee,CP-ATT-INT,21-34-0
+8000102,10/11/2014,FCS,Alabama A&M,Southern Univ.,PASSING,Jaymason,Lee,YDS,292
+8000103,10/11/2014,FCS,Alabama A&M,Southern Univ.,PASSING,Jaymason,Lee,TD,3
+8000104,10/11/2014,FCS,Alabama A&M,Southern Univ.,PASSING,Jaymason,Lee,LONG,44
+8000105,10/11/2014,FCS,Alabama A&M,Southern Univ.,PASSING,Chris,Leachman,CP-ATT-INT,5-11-0
+8000106,10/11/2014,FCS,Alabama A&M,Southern Univ.,PASSING,Chris,Leachman,YDS,36
+8000107,10/11/2014,FCS,Alabama A&M,Southern Univ.,PASSING,Chris,Leachman,TD,0
+8000108,10/11/2014,FCS,Alabama A&M,Southern Univ.,PASSING,Chris,Leachman,LONG,17
+8000109,10/11/2014,FCS,Alabama A&M,Southern Univ.,RECEIVING,Montaurius,Smith,REC,8
+8000110,10/11/2014,FCS,Alabama A&M,Southern Univ.,RECEIVING,Montaurius,Smith,YDS,131
+8000111,10/11/2014,FCS,Alabama A&M,Southern Univ.,RECEIVING,Montaurius,Smith,TD,1
+8000112,10/11/2014,FCS,Alabama A&M,Southern Univ.,RECEIVING,Montaurius,Smith,LONG,38
+8000113,10/11/2014,FCS,Alabama A&M,Southern Univ.,RECEIVING,O'Darius,Williams,REC,5
+8000114,10/11/2014,FCS,Alabama A&M,Southern Univ.,RECEIVING,O'Darius,Williams,YDS,73
+8000115,10/11/2014,FCS,Alabama A&M,Southern Univ.,RECEIVING,O'Darius,Williams,TD,0
+8000116,10/11/2014,FCS,Alabama A&M,Southern Univ.,RECEIVING,O'Darius,Williams,LONG,22
+8000117,10/11/2014,FCS,Alabama A&M,Southern Univ.,RECEIVING,Jonathan,Dorsey,REC,3
+8000118,10/11/2014,FCS,Alabama A&M,Southern Univ.,RECEIVING,Jonathan,Dorsey,YDS,67
+8000119,10/11/2014,FCS,Alabama A&M,Southern Univ.,RECEIVING,Jonathan,Dorsey,TD,2
+8000120,10/11/2014,FCS,Alabama A&M,Southern Univ.,RECEIVING,Jonathan,Dorsey,LONG,44
+8000121,10/11/2014,FCS,Alabama A&M,Southern Univ.,RECEIVING,Devone,Johnson,REC,2
+8000122,10/11/2014,FCS,Alabama A&M,Southern Univ.,RECEIVING,Devone,Johnson,YDS,22
+8000123,10/11/2014,FCS,Alabama A&M,Southern Univ.,RECEIVING,Devone,Johnson,TD,0
+8000124,10/11/2014,FCS,Alabama A&M,Southern Univ.,RECEIVING,Devone,Johnson,LONG,15
+8000125,10/11/2014,FCS,Alabama A&M,Southern Univ.,RECEIVING,Harvey,Harris,REC,4
+8000126,10/11/2014,FCS,Alabama A&M,Southern Univ.,RECEIVING,Harvey,Harris,YDS,10
+8000127,10/11/2014,FCS,Alabama A&M,Southern Univ.,RECEIVING,Harvey,Harris,TD,0
+8000128,10/11/2014,FCS,Alabama A&M,Southern Univ.,RECEIVING,Harvey,Harris,LONG,9
+8000129,10/11/2014,FCS,Alabama A&M,Southern Univ.,RECEIVING,Brandon,Eldemire,REC,1
+8000130,10/11/2014,FCS,Alabama A&M,Southern Univ.,RECEIVING,Brandon,Eldemire,YDS,10
+8000131,10/11/2014,FCS,Alabama A&M,Southern Univ.,RECEIVING,Brandon,Eldemire,TD,0
+8000132,10/11/2014,FCS,Alabama A&M,Southern Univ.,RECEIVING,Brandon,Eldemire,LONG,10
+8000133,10/11/2014,FCS,Alabama A&M,Southern Univ.,RECEIVING,Kalias,Robertson,REC,1
+8000134,10/11/2014,FCS,Alabama A&M,Southern Univ.,RECEIVING,Kalias,Robertson,YDS,8
+8000135,10/11/2014,FCS,Alabama A&M,Southern Univ.,RECEIVING,Kalias,Robertson,TD,0
+8000136,10/11/2014,FCS,Alabama A&M,Southern Univ.,RECEIVING,Kalias,Robertson,LONG,8
+8000137,10/11/2014,FCS,Alabama A&M,Southern Univ.,RECEIVING,Tevin,McKenzie,REC,2
+8000138,10/11/2014,FCS,Alabama A&M,Southern Univ.,RECEIVING,Tevin,McKenzie,YDS,7
+8000139,10/11/2014,FCS,Alabama A&M,Southern Univ.,RECEIVING,Tevin,McKenzie,TD,0
+8000140,10/11/2014,FCS,Alabama A&M,Southern Univ.,RECEIVING,Tevin,McKenzie,LONG,6
+8000141,10/11/2014,FCS,Alabama A&M,Southern Univ.,KICKING,Cesar,Ramon,FG-FGA,2/2
+8000142,10/11/2014,FCS,Alabama A&M,Southern Univ.,KICKING,Cesar,Ramon,LONG,40
+8000143,10/11/2014,FCS,Alabama A&M,Southern Univ.,KICKING,Cesar,Ramon,XP,4
+8000144,10/11/2014,FCS,Alabama A&M,Southern Univ.,KICKING,Cesar,Ramon,PTS,10
+8000145,10/11/2014,FCS,Alabama A&M,Southern Univ.,PUNTING,Nick,Carden,NO,6
+8000146,10/11/2014,FCS,Alabama A&M,Southern Univ.,PUNTING,Nick,Carden,YDS,287
+8000147,10/11/2014,FCS,Alabama A&M,Southern Univ.,PUNTING,Nick,Carden,AVG,47.8
+8000148,10/11/2014,FCS,Alabama A&M,Southern Univ.,PUNTING,Nick,Carden,LONG,53
+8000149,10/11/2014,FCS,Alabama A&M,Southern Univ.,PUNT RETURNS,Rashad,Anderson,NO,1
+8000150,10/11/2014,FCS,Alabama A&M,Southern Univ.,PUNT RETURNS,Rashad,Anderson,YDS,8
+8000151,10/11/2014,FCS,Alabama A&M,Southern Univ.,PUNT RETURNS,Rashad,Anderson,AVG,8.0
+8000152,10/11/2014,FCS,Alabama A&M,Southern Univ.,PUNT RETURNS,Rashad,Anderson,LONG,8
+8000153,10/11/2014,FCS,Alabama A&M,Southern Univ.,KICK RETURNS,Octayvius,Miles,NO,2
+8000154,10/11/2014,FCS,Alabama A&M,Southern Univ.,KICK RETURNS,Octayvius,Miles,YDS,35
+8000155,10/11/2014,FCS,Alabama A&M,Southern Univ.,KICK RETURNS,Octayvius,Miles,AVG,17.5
+8000156,10/11/2014,FCS,Alabama A&M,Southern Univ.,KICK RETURNS,Octayvius,Miles,LONG,20
+8000157,10/11/2014,FCS,Alabama A&M,Southern Univ.,KICK RETURNS,Tevin,McKenzie,NO,1
+8000158,10/11/2014,FCS,Alabama A&M,Southern Univ.,KICK RETURNS,Tevin,McKenzie,YDS,12
+8000159,10/11/2014,FCS,Alabama A&M,Southern Univ.,KICK RETURNS,Tevin,McKenzie,AVG,12.0
+8000160,10/11/2014,FCS,Alabama A&M,Southern Univ.,KICK RETURNS,Tevin,McKenzie,LONG,12

@@ -1,0 +1,161 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+7224001,10/19/2013,FCS,Duquesne,Robert Morris,RUSHING,Ryan,Ho,ATT,9
+7224002,10/19/2013,FCS,Duquesne,Robert Morris,RUSHING,Ryan,Ho,YDS,39
+7224003,10/19/2013,FCS,Duquesne,Robert Morris,RUSHING,Ryan,Ho,TD,0
+7224004,10/19/2013,FCS,Duquesne,Robert Morris,RUSHING,Ryan,Ho,LONG,18
+7224005,10/19/2013,FCS,Duquesne,Robert Morris,RUSHING,Jason,Douglas,ATT,11
+7224006,10/19/2013,FCS,Duquesne,Robert Morris,RUSHING,Jason,Douglas,YDS,32
+7224007,10/19/2013,FCS,Duquesne,Robert Morris,RUSHING,Jason,Douglas,TD,0
+7224008,10/19/2013,FCS,Duquesne,Robert Morris,RUSHING,Jason,Douglas,LONG,8
+7224009,10/19/2013,FCS,Duquesne,Robert Morris,RUSHING,Dillon,Buechel,ATT,7
+7224010,10/19/2013,FCS,Duquesne,Robert Morris,RUSHING,Dillon,Buechel,YDS,-2
+7224011,10/19/2013,FCS,Duquesne,Robert Morris,RUSHING,Dillon,Buechel,TD,0
+7224012,10/19/2013,FCS,Duquesne,Robert Morris,RUSHING,Dillon,Buechel,LONG,11
+7224013,10/19/2013,FCS,Duquesne,Robert Morris,RUSHING,,Team,ATT,1
+7224014,10/19/2013,FCS,Duquesne,Robert Morris,RUSHING,,Team,YDS,-2
+7224015,10/19/2013,FCS,Duquesne,Robert Morris,RUSHING,,Team,TD,0
+7224016,10/19/2013,FCS,Duquesne,Robert Morris,RUSHING,,Team,LONG,0
+7224017,10/19/2013,FCS,Duquesne,Robert Morris,PASSING,Dillon,Buechel,CP-ATT-INT,23-41-1
+7224018,10/19/2013,FCS,Duquesne,Robert Morris,PASSING,Dillon,Buechel,YDS,202
+7224019,10/19/2013,FCS,Duquesne,Robert Morris,PASSING,Dillon,Buechel,TD,2
+7224020,10/19/2013,FCS,Duquesne,Robert Morris,PASSING,Dillon,Buechel,LONG,39
+7224021,10/19/2013,FCS,Duquesne,Robert Morris,RECEIVING,Devin,Rahming,REC,6
+7224022,10/19/2013,FCS,Duquesne,Robert Morris,RECEIVING,Devin,Rahming,YDS,86
+7224023,10/19/2013,FCS,Duquesne,Robert Morris,RECEIVING,Devin,Rahming,TD,1
+7224024,10/19/2013,FCS,Duquesne,Robert Morris,RECEIVING,Devin,Rahming,LONG,39
+7224025,10/19/2013,FCS,Duquesne,Robert Morris,RECEIVING,Dave,Thomas,REC,5
+7224026,10/19/2013,FCS,Duquesne,Robert Morris,RECEIVING,Dave,Thomas,YDS,35
+7224027,10/19/2013,FCS,Duquesne,Robert Morris,RECEIVING,Dave,Thomas,TD,0
+7224028,10/19/2013,FCS,Duquesne,Robert Morris,RECEIVING,Dave,Thomas,LONG,10
+7224029,10/19/2013,FCS,Duquesne,Robert Morris,RECEIVING,Gianni,Carter,REC,4
+7224030,10/19/2013,FCS,Duquesne,Robert Morris,RECEIVING,Gianni,Carter,YDS,24
+7224031,10/19/2013,FCS,Duquesne,Robert Morris,RECEIVING,Gianni,Carter,TD,1
+7224032,10/19/2013,FCS,Duquesne,Robert Morris,RECEIVING,Gianni,Carter,LONG,10
+7224033,10/19/2013,FCS,Duquesne,Robert Morris,RECEIVING,Noel,Oduho,REC,3
+7224034,10/19/2013,FCS,Duquesne,Robert Morris,RECEIVING,Noel,Oduho,YDS,34
+7224035,10/19/2013,FCS,Duquesne,Robert Morris,RECEIVING,Noel,Oduho,TD,0
+7224036,10/19/2013,FCS,Duquesne,Robert Morris,RECEIVING,Noel,Oduho,LONG,12
+7224037,10/19/2013,FCS,Duquesne,Robert Morris,RECEIVING,Jason,Douglas,REC,2
+7224038,10/19/2013,FCS,Duquesne,Robert Morris,RECEIVING,Jason,Douglas,YDS,5
+7224039,10/19/2013,FCS,Duquesne,Robert Morris,RECEIVING,Jason,Douglas,TD,0
+7224040,10/19/2013,FCS,Duquesne,Robert Morris,RECEIVING,Jason,Douglas,LONG,7
+7224041,10/19/2013,FCS,Duquesne,Robert Morris,RECEIVING,Chavas,Rawlins,REC,1
+7224042,10/19/2013,FCS,Duquesne,Robert Morris,RECEIVING,Chavas,Rawlins,YDS,8
+7224043,10/19/2013,FCS,Duquesne,Robert Morris,RECEIVING,Chavas,Rawlins,TD,0
+7224044,10/19/2013,FCS,Duquesne,Robert Morris,RECEIVING,Chavas,Rawlins,LONG,8
+7224045,10/19/2013,FCS,Duquesne,Robert Morris,RECEIVING,Kyle,Shuman,REC,1
+7224046,10/19/2013,FCS,Duquesne,Robert Morris,RECEIVING,Kyle,Shuman,YDS,6
+7224047,10/19/2013,FCS,Duquesne,Robert Morris,RECEIVING,Kyle,Shuman,TD,0
+7224048,10/19/2013,FCS,Duquesne,Robert Morris,RECEIVING,Kyle,Shuman,LONG,6
+7224049,10/19/2013,FCS,Duquesne,Robert Morris,RECEIVING,Ryan,Ho,REC,1
+7224050,10/19/2013,FCS,Duquesne,Robert Morris,RECEIVING,Ryan,Ho,YDS,4
+7224051,10/19/2013,FCS,Duquesne,Robert Morris,RECEIVING,Ryan,Ho,TD,0
+7224052,10/19/2013,FCS,Duquesne,Robert Morris,RECEIVING,Ryan,Ho,LONG,4
+7224053,10/19/2013,FCS,Duquesne,Robert Morris,KICKING,Austin,Crimmins,FG-FGA,1/2
+7224054,10/19/2013,FCS,Duquesne,Robert Morris,KICKING,Austin,Crimmins,LONG,40
+7224055,10/19/2013,FCS,Duquesne,Robert Morris,KICKING,Austin,Crimmins,XP,2
+7224056,10/19/2013,FCS,Duquesne,Robert Morris,KICKING,Austin,Crimmins,PTS,5
+7224057,10/19/2013,FCS,Duquesne,Robert Morris,PUNTING,Aaron,Fleck,NO,7
+7224058,10/19/2013,FCS,Duquesne,Robert Morris,PUNTING,Aaron,Fleck,YDS,242
+7224059,10/19/2013,FCS,Duquesne,Robert Morris,PUNTING,Aaron,Fleck,AVG,34.6
+7224060,10/19/2013,FCS,Duquesne,Robert Morris,PUNTING,Aaron,Fleck,LONG,51
+7224061,10/19/2013,FCS,Duquesne,Robert Morris,PUNT RETURNS,Devin,Rahming,NO,2
+7224062,10/19/2013,FCS,Duquesne,Robert Morris,PUNT RETURNS,Devin,Rahming,YDS,5
+7224063,10/19/2013,FCS,Duquesne,Robert Morris,PUNT RETURNS,Devin,Rahming,AVG,2.5
+7224064,10/19/2013,FCS,Duquesne,Robert Morris,PUNT RETURNS,Devin,Rahming,LONG,6
+7224065,10/19/2013,FCS,Duquesne,Robert Morris,PUNT RETURNS,Charles,Lipp,NO,1
+7224066,10/19/2013,FCS,Duquesne,Robert Morris,PUNT RETURNS,Charles,Lipp,YDS,5
+7224067,10/19/2013,FCS,Duquesne,Robert Morris,PUNT RETURNS,Charles,Lipp,AVG,5.0
+7224068,10/19/2013,FCS,Duquesne,Robert Morris,PUNT RETURNS,Charles,Lipp,LONG,0
+7224069,10/19/2013,FCS,Duquesne,Robert Morris,KICK RETURNS,Devin,Rahming,NO,2
+7224070,10/19/2013,FCS,Duquesne,Robert Morris,KICK RETURNS,Devin,Rahming,YDS,78
+7224071,10/19/2013,FCS,Duquesne,Robert Morris,KICK RETURNS,Devin,Rahming,AVG,39.0
+7224072,10/19/2013,FCS,Duquesne,Robert Morris,KICK RETURNS,Devin,Rahming,LONG,49
+7224073,10/19/2013,FCS,Duquesne,Robert Morris,KICK RETURNS,Jason,Douglas,NO,2
+7224074,10/19/2013,FCS,Duquesne,Robert Morris,KICK RETURNS,Jason,Douglas,YDS,49
+7224075,10/19/2013,FCS,Duquesne,Robert Morris,KICK RETURNS,Jason,Douglas,AVG,24.5
+7224076,10/19/2013,FCS,Duquesne,Robert Morris,KICK RETURNS,Jason,Douglas,LONG,29
+7224077,10/19/2013,FCS,Robert Morris,Duquesne,RUSHING,Paul,Jones,ATT,11
+7224078,10/19/2013,FCS,Robert Morris,Duquesne,RUSHING,Paul,Jones,YDS,41
+7224079,10/19/2013,FCS,Robert Morris,Duquesne,RUSHING,Paul,Jones,TD,2
+7224080,10/19/2013,FCS,Robert Morris,Duquesne,RUSHING,Paul,Jones,LONG,24
+7224081,10/19/2013,FCS,Robert Morris,Duquesne,RUSHING,Phil,Peckich,ATT,8
+7224082,10/19/2013,FCS,Robert Morris,Duquesne,RUSHING,Phil,Peckich,YDS,41
+7224083,10/19/2013,FCS,Robert Morris,Duquesne,RUSHING,Phil,Peckich,TD,0
+7224084,10/19/2013,FCS,Robert Morris,Duquesne,RUSHING,Phil,Peckich,LONG,13
+7224085,10/19/2013,FCS,Robert Morris,Duquesne,RUSHING,Deontae,Howard,ATT,13
+7224086,10/19/2013,FCS,Robert Morris,Duquesne,RUSHING,Deontae,Howard,YDS,33
+7224087,10/19/2013,FCS,Robert Morris,Duquesne,RUSHING,Deontae,Howard,TD,1
+7224088,10/19/2013,FCS,Robert Morris,Duquesne,RUSHING,Deontae,Howard,LONG,9
+7224089,10/19/2013,FCS,Robert Morris,Duquesne,RUSHING,Ryan,Thermil,ATT,7
+7224090,10/19/2013,FCS,Robert Morris,Duquesne,RUSHING,Ryan,Thermil,YDS,17
+7224091,10/19/2013,FCS,Robert Morris,Duquesne,RUSHING,Ryan,Thermil,TD,0
+7224092,10/19/2013,FCS,Robert Morris,Duquesne,RUSHING,Ryan,Thermil,LONG,5
+7224093,10/19/2013,FCS,Robert Morris,Duquesne,RUSHING,Donte,Jeter,ATT,1
+7224094,10/19/2013,FCS,Robert Morris,Duquesne,RUSHING,Donte,Jeter,YDS,5
+7224095,10/19/2013,FCS,Robert Morris,Duquesne,RUSHING,Donte,Jeter,TD,0
+7224096,10/19/2013,FCS,Robert Morris,Duquesne,RUSHING,Donte,Jeter,LONG,5
+7224097,10/19/2013,FCS,Robert Morris,Duquesne,RUSHING,,Team,ATT,1
+7224098,10/19/2013,FCS,Robert Morris,Duquesne,RUSHING,,Team,YDS,-2
+7224099,10/19/2013,FCS,Robert Morris,Duquesne,RUSHING,,Team,TD,0
+7224100,10/19/2013,FCS,Robert Morris,Duquesne,RUSHING,,Team,LONG,0
+7224101,10/19/2013,FCS,Robert Morris,Duquesne,PASSING,Paul,Jones,CP-ATT-INT,11-22-1
+7224102,10/19/2013,FCS,Robert Morris,Duquesne,PASSING,Paul,Jones,YDS,100
+7224103,10/19/2013,FCS,Robert Morris,Duquesne,PASSING,Paul,Jones,TD,0
+7224104,10/19/2013,FCS,Robert Morris,Duquesne,PASSING,Paul,Jones,LONG,34
+7224105,10/19/2013,FCS,Robert Morris,Duquesne,PASSING,,Team,CP-ATT-INT,0-1-0
+7224106,10/19/2013,FCS,Robert Morris,Duquesne,PASSING,,Team,YDS,0
+7224107,10/19/2013,FCS,Robert Morris,Duquesne,PASSING,,Team,TD,0
+7224108,10/19/2013,FCS,Robert Morris,Duquesne,PASSING,,Team,LONG,0
+7224109,10/19/2013,FCS,Robert Morris,Duquesne,RECEIVING,Duane,Mitchell,REC,6
+7224110,10/19/2013,FCS,Robert Morris,Duquesne,RECEIVING,Duane,Mitchell,YDS,73
+7224111,10/19/2013,FCS,Robert Morris,Duquesne,RECEIVING,Duane,Mitchell,TD,0
+7224112,10/19/2013,FCS,Robert Morris,Duquesne,RECEIVING,Duane,Mitchell,LONG,34
+7224113,10/19/2013,FCS,Robert Morris,Duquesne,RECEIVING,D.J.,Pearson,REC,2
+7224114,10/19/2013,FCS,Robert Morris,Duquesne,RECEIVING,D.J.,Pearson,YDS,7
+7224115,10/19/2013,FCS,Robert Morris,Duquesne,RECEIVING,D.J.,Pearson,TD,0
+7224116,10/19/2013,FCS,Robert Morris,Duquesne,RECEIVING,D.J.,Pearson,LONG,7
+7224117,10/19/2013,FCS,Robert Morris,Duquesne,RECEIVING,Sean,Gavin,REC,1
+7224118,10/19/2013,FCS,Robert Morris,Duquesne,RECEIVING,Sean,Gavin,YDS,10
+7224119,10/19/2013,FCS,Robert Morris,Duquesne,RECEIVING,Sean,Gavin,TD,0
+7224120,10/19/2013,FCS,Robert Morris,Duquesne,RECEIVING,Sean,Gavin,LONG,10
+7224121,10/19/2013,FCS,Robert Morris,Duquesne,RECEIVING,Tyler,Digby,REC,1
+7224122,10/19/2013,FCS,Robert Morris,Duquesne,RECEIVING,Tyler,Digby,YDS,8
+7224123,10/19/2013,FCS,Robert Morris,Duquesne,RECEIVING,Tyler,Digby,TD,0
+7224124,10/19/2013,FCS,Robert Morris,Duquesne,RECEIVING,Tyler,Digby,LONG,8
+7224125,10/19/2013,FCS,Robert Morris,Duquesne,RECEIVING,Donte,Jeter,REC,1
+7224126,10/19/2013,FCS,Robert Morris,Duquesne,RECEIVING,Donte,Jeter,YDS,5
+7224127,10/19/2013,FCS,Robert Morris,Duquesne,RECEIVING,Donte,Jeter,TD,0
+7224128,10/19/2013,FCS,Robert Morris,Duquesne,RECEIVING,Donte,Jeter,LONG,5
+7224129,10/19/2013,FCS,Robert Morris,Duquesne,RECEIVING,Deontae,Howard,REC,0
+7224130,10/19/2013,FCS,Robert Morris,Duquesne,RECEIVING,Deontae,Howard,YDS,-3
+7224131,10/19/2013,FCS,Robert Morris,Duquesne,RECEIVING,Deontae,Howard,TD,0
+7224132,10/19/2013,FCS,Robert Morris,Duquesne,RECEIVING,Deontae,Howard,LONG,0
+7224133,10/19/2013,FCS,Robert Morris,Duquesne,KICKING,Hunter,Khaleghi,FG-FGA,0/0
+7224134,10/19/2013,FCS,Robert Morris,Duquesne,KICKING,Hunter,Khaleghi,LONG,-
+7224135,10/19/2013,FCS,Robert Morris,Duquesne,KICKING,Hunter,Khaleghi,XP,2
+7224136,10/19/2013,FCS,Robert Morris,Duquesne,KICKING,Hunter,Khaleghi,PTS,2
+7224137,10/19/2013,FCS,Robert Morris,Duquesne,PUNTING,Tony,LaMancusa,NO,5
+7224138,10/19/2013,FCS,Robert Morris,Duquesne,PUNTING,Tony,LaMancusa,YDS,210
+7224139,10/19/2013,FCS,Robert Morris,Duquesne,PUNTING,Tony,LaMancusa,AVG,42.0
+7224140,10/19/2013,FCS,Robert Morris,Duquesne,PUNTING,Tony,LaMancusa,LONG,50
+7224141,10/19/2013,FCS,Robert Morris,Duquesne,PUNTING,,Team,NO,1
+7224142,10/19/2013,FCS,Robert Morris,Duquesne,PUNTING,,Team,YDS,0
+7224143,10/19/2013,FCS,Robert Morris,Duquesne,PUNTING,,Team,AVG,0.0
+7224144,10/19/2013,FCS,Robert Morris,Duquesne,PUNTING,,Team,LONG,0
+7224145,10/19/2013,FCS,Robert Morris,Duquesne,PUNT RETURNS,Antwan,Eddie,NO,2
+7224146,10/19/2013,FCS,Robert Morris,Duquesne,PUNT RETURNS,Antwan,Eddie,YDS,24
+7224147,10/19/2013,FCS,Robert Morris,Duquesne,PUNT RETURNS,Antwan,Eddie,AVG,12.0
+7224148,10/19/2013,FCS,Robert Morris,Duquesne,PUNT RETURNS,Antwan,Eddie,LONG,16
+7224149,10/19/2013,FCS,Robert Morris,Duquesne,PUNT RETURNS,Andy,Smigiera,NO,1
+7224150,10/19/2013,FCS,Robert Morris,Duquesne,PUNT RETURNS,Andy,Smigiera,YDS,14
+7224151,10/19/2013,FCS,Robert Morris,Duquesne,PUNT RETURNS,Andy,Smigiera,AVG,14.0
+7224152,10/19/2013,FCS,Robert Morris,Duquesne,PUNT RETURNS,Andy,Smigiera,LONG,14
+7224153,10/19/2013,FCS,Robert Morris,Duquesne,KICK RETURNS,Andy,Smigiera,NO,3
+7224154,10/19/2013,FCS,Robert Morris,Duquesne,KICK RETURNS,Andy,Smigiera,YDS,23
+7224155,10/19/2013,FCS,Robert Morris,Duquesne,KICK RETURNS,Andy,Smigiera,AVG,7.7
+7224156,10/19/2013,FCS,Robert Morris,Duquesne,KICK RETURNS,Andy,Smigiera,LONG,17
+7224157,10/19/2013,FCS,Robert Morris,Duquesne,KICK RETURNS,Warren,Fields,NO,1
+7224158,10/19/2013,FCS,Robert Morris,Duquesne,KICK RETURNS,Warren,Fields,YDS,25
+7224159,10/19/2013,FCS,Robert Morris,Duquesne,KICK RETURNS,Warren,Fields,AVG,25.0
+7224160,10/19/2013,FCS,Robert Morris,Duquesne,KICK RETURNS,Warren,Fields,LONG,25

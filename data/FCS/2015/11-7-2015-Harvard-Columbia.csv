@@ -1,0 +1,157 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9029001,11/7/2015,FCS,Harvard,Columbia,RUSHING,Paul,StantonJr.,ATT,14
+9029002,11/7/2015,FCS,Harvard,Columbia,RUSHING,Paul,StantonJr.,YDS,51
+9029003,11/7/2015,FCS,Harvard,Columbia,RUSHING,Paul,StantonJr.,TD,0
+9029004,11/7/2015,FCS,Harvard,Columbia,RUSHING,Paul,StantonJr.,LONG,14
+9029005,11/7/2015,FCS,Harvard,Columbia,RUSHING,Scott,Hosch,ATT,2
+9029006,11/7/2015,FCS,Harvard,Columbia,RUSHING,Scott,Hosch,YDS,5
+9029007,11/7/2015,FCS,Harvard,Columbia,RUSHING,Scott,Hosch,TD,0
+9029008,11/7/2015,FCS,Harvard,Columbia,RUSHING,Scott,Hosch,LONG,3
+9029009,11/7/2015,FCS,Harvard,Columbia,RUSHING,Noah,Reimers,ATT,1
+9029010,11/7/2015,FCS,Harvard,Columbia,RUSHING,Noah,Reimers,YDS,3
+9029011,11/7/2015,FCS,Harvard,Columbia,RUSHING,Noah,Reimers,TD,0
+9029012,11/7/2015,FCS,Harvard,Columbia,RUSHING,Noah,Reimers,LONG,3
+9029013,11/7/2015,FCS,Harvard,Columbia,RUSHING,,Team,ATT,3
+9029014,11/7/2015,FCS,Harvard,Columbia,RUSHING,,Team,YDS,-4
+9029015,11/7/2015,FCS,Harvard,Columbia,RUSHING,,Team,TD,0
+9029016,11/7/2015,FCS,Harvard,Columbia,RUSHING,,Team,LONG,0
+9029017,11/7/2015,FCS,Harvard,Columbia,PASSING,Scott,Hosch,CP-ATT-INT,22-39-1
+9029018,11/7/2015,FCS,Harvard,Columbia,PASSING,Scott,Hosch,YDS,324
+9029019,11/7/2015,FCS,Harvard,Columbia,PASSING,Scott,Hosch,TD,2
+9029020,11/7/2015,FCS,Harvard,Columbia,PASSING,Scott,Hosch,LONG,53
+9029021,11/7/2015,FCS,Harvard,Columbia,RECEIVING,Justice,Shelton-Mosely,REC,8
+9029022,11/7/2015,FCS,Harvard,Columbia,RECEIVING,Justice,Shelton-Mosely,YDS,131
+9029023,11/7/2015,FCS,Harvard,Columbia,RECEIVING,Justice,Shelton-Mosely,TD,1
+9029024,11/7/2015,FCS,Harvard,Columbia,RECEIVING,Justice,Shelton-Mosely,LONG,40
+9029025,11/7/2015,FCS,Harvard,Columbia,RECEIVING,Ben,Braunecker,REC,7
+9029026,11/7/2015,FCS,Harvard,Columbia,RECEIVING,Ben,Braunecker,YDS,130
+9029027,11/7/2015,FCS,Harvard,Columbia,RECEIVING,Ben,Braunecker,TD,1
+9029028,11/7/2015,FCS,Harvard,Columbia,RECEIVING,Ben,Braunecker,LONG,53
+9029029,11/7/2015,FCS,Harvard,Columbia,RECEIVING,Seitu,SmithII,REC,1
+9029030,11/7/2015,FCS,Harvard,Columbia,RECEIVING,Seitu,SmithII,YDS,37
+9029031,11/7/2015,FCS,Harvard,Columbia,RECEIVING,Seitu,SmithII,TD,0
+9029032,11/7/2015,FCS,Harvard,Columbia,RECEIVING,Seitu,SmithII,LONG,37
+9029033,11/7/2015,FCS,Harvard,Columbia,RECEIVING,Adam,Scott,REC,4
+9029034,11/7/2015,FCS,Harvard,Columbia,RECEIVING,Adam,Scott,YDS,21
+9029035,11/7/2015,FCS,Harvard,Columbia,RECEIVING,Adam,Scott,TD,0
+9029036,11/7/2015,FCS,Harvard,Columbia,RECEIVING,Adam,Scott,LONG,8
+9029037,11/7/2015,FCS,Harvard,Columbia,RECEIVING,Anthony,Firkser,REC,1
+9029038,11/7/2015,FCS,Harvard,Columbia,RECEIVING,Anthony,Firkser,YDS,5
+9029039,11/7/2015,FCS,Harvard,Columbia,RECEIVING,Anthony,Firkser,TD,0
+9029040,11/7/2015,FCS,Harvard,Columbia,RECEIVING,Anthony,Firkser,LONG,5
+9029041,11/7/2015,FCS,Harvard,Columbia,KICKING,Kenny,Smart,FG-FGA,1/2
+9029042,11/7/2015,FCS,Harvard,Columbia,KICKING,Kenny,Smart,LONG,40
+9029043,11/7/2015,FCS,Harvard,Columbia,KICKING,Kenny,Smart,XP,3
+9029044,11/7/2015,FCS,Harvard,Columbia,KICKING,Kenny,Smart,PTS,6
+9029045,11/7/2015,FCS,Harvard,Columbia,PUNTING,Zach,Schmid,NO,5
+9029046,11/7/2015,FCS,Harvard,Columbia,PUNTING,Zach,Schmid,YDS,186
+9029047,11/7/2015,FCS,Harvard,Columbia,PUNTING,Zach,Schmid,AVG,37.2
+9029048,11/7/2015,FCS,Harvard,Columbia,PUNTING,Zach,Schmid,LONG,50
+9029049,11/7/2015,FCS,Harvard,Columbia,PUNT RETURNS,Justice,Shelton-Mosely,NO,5
+9029050,11/7/2015,FCS,Harvard,Columbia,PUNT RETURNS,Justice,Shelton-Mosely,YDS,121
+9029051,11/7/2015,FCS,Harvard,Columbia,PUNT RETURNS,Justice,Shelton-Mosely,AVG,24.2
+9029052,11/7/2015,FCS,Harvard,Columbia,PUNT RETURNS,Justice,Shelton-Mosely,LONG,86
+9029053,11/7/2015,FCS,Harvard,Columbia,KICK RETURNS,Justice,Shelton-Mosely,NO,1
+9029054,11/7/2015,FCS,Harvard,Columbia,KICK RETURNS,Justice,Shelton-Mosely,YDS,18
+9029055,11/7/2015,FCS,Harvard,Columbia,KICK RETURNS,Justice,Shelton-Mosely,AVG,18.0
+9029056,11/7/2015,FCS,Harvard,Columbia,KICK RETURNS,Justice,Shelton-Mosely,LONG,18
+9029057,11/7/2015,FCS,Harvard,Columbia,KICK RETURNS,Chase,Guillory,NO,1
+9029058,11/7/2015,FCS,Harvard,Columbia,KICK RETURNS,Chase,Guillory,YDS,12
+9029059,11/7/2015,FCS,Harvard,Columbia,KICK RETURNS,Chase,Guillory,AVG,12.0
+9029060,11/7/2015,FCS,Harvard,Columbia,KICK RETURNS,Chase,Guillory,LONG,12
+9029061,11/7/2015,FCS,Columbia,Harvard,RUSHING,Cameron,Molina,ATT,16
+9029062,11/7/2015,FCS,Columbia,Harvard,RUSHING,Cameron,Molina,YDS,61
+9029063,11/7/2015,FCS,Columbia,Harvard,RUSHING,Cameron,Molina,TD,0
+9029064,11/7/2015,FCS,Columbia,Harvard,RUSHING,Cameron,Molina,LONG,9
+9029065,11/7/2015,FCS,Columbia,Harvard,RUSHING,Skyler,Mornhinweg,ATT,11
+9029066,11/7/2015,FCS,Columbia,Harvard,RUSHING,Skyler,Mornhinweg,YDS,56
+9029067,11/7/2015,FCS,Columbia,Harvard,RUSHING,Skyler,Mornhinweg,TD,0
+9029068,11/7/2015,FCS,Columbia,Harvard,RUSHING,Skyler,Mornhinweg,LONG,14
+9029069,11/7/2015,FCS,Columbia,Harvard,RUSHING,Anders,Hill,ATT,6
+9029070,11/7/2015,FCS,Columbia,Harvard,RUSHING,Anders,Hill,YDS,20
+9029071,11/7/2015,FCS,Columbia,Harvard,RUSHING,Anders,Hill,TD,0
+9029072,11/7/2015,FCS,Columbia,Harvard,RUSHING,Anders,Hill,LONG,6
+9029073,11/7/2015,FCS,Columbia,Harvard,RUSHING,Alan,Watson,ATT,2
+9029074,11/7/2015,FCS,Columbia,Harvard,RUSHING,Alan,Watson,YDS,10
+9029075,11/7/2015,FCS,Columbia,Harvard,RUSHING,Alan,Watson,TD,0
+9029076,11/7/2015,FCS,Columbia,Harvard,RUSHING,Alan,Watson,LONG,7
+9029077,11/7/2015,FCS,Columbia,Harvard,RUSHING,Chris,Schroer,ATT,1
+9029078,11/7/2015,FCS,Columbia,Harvard,RUSHING,Chris,Schroer,YDS,1
+9029079,11/7/2015,FCS,Columbia,Harvard,RUSHING,Chris,Schroer,TD,0
+9029080,11/7/2015,FCS,Columbia,Harvard,RUSHING,Chris,Schroer,LONG,1
+9029081,11/7/2015,FCS,Columbia,Harvard,PASSING,Skyler,Mornhinweg,CP-ATT-INT,20-36-1
+9029082,11/7/2015,FCS,Columbia,Harvard,PASSING,Skyler,Mornhinweg,YDS,165
+9029083,11/7/2015,FCS,Columbia,Harvard,PASSING,Skyler,Mornhinweg,TD,1
+9029084,11/7/2015,FCS,Columbia,Harvard,PASSING,Skyler,Mornhinweg,LONG,26
+9029085,11/7/2015,FCS,Columbia,Harvard,PASSING,Anders,Hill,CP-ATT-INT,5-6-0
+9029086,11/7/2015,FCS,Columbia,Harvard,PASSING,Anders,Hill,YDS,91
+9029087,11/7/2015,FCS,Columbia,Harvard,PASSING,Anders,Hill,TD,1
+9029088,11/7/2015,FCS,Columbia,Harvard,PASSING,Anders,Hill,LONG,51
+9029089,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Scooter,Hollis,REC,8
+9029090,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Scooter,Hollis,YDS,89
+9029091,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Scooter,Hollis,TD,0
+9029092,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Scooter,Hollis,LONG,26
+9029093,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Cameron,Dunn,REC,1
+9029094,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Cameron,Dunn,YDS,51
+9029095,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Cameron,Dunn,TD,1
+9029096,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Cameron,Dunn,LONG,51
+9029097,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Cameron,Molina,REC,5
+9029098,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Cameron,Molina,YDS,47
+9029099,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Cameron,Molina,TD,0
+9029100,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Cameron,Molina,LONG,24
+9029101,11/7/2015,FCS,Columbia,Harvard,RECEIVING,John,Hunton,REC,3
+9029102,11/7/2015,FCS,Columbia,Harvard,RECEIVING,John,Hunton,YDS,19
+9029103,11/7/2015,FCS,Columbia,Harvard,RECEIVING,John,Hunton,TD,1
+9029104,11/7/2015,FCS,Columbia,Harvard,RECEIVING,John,Hunton,LONG,11
+9029105,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Hank,Trumbull,REC,1
+9029106,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Hank,Trumbull,YDS,18
+9029107,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Hank,Trumbull,TD,0
+9029108,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Hank,Trumbull,LONG,18
+9029109,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Andrew,Dobitsch,REC,1
+9029110,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Andrew,Dobitsch,YDS,11
+9029111,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Andrew,Dobitsch,TD,0
+9029112,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Andrew,Dobitsch,LONG,11
+9029113,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Nick,Durham,REC,1
+9029114,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Nick,Durham,YDS,8
+9029115,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Nick,Durham,TD,0
+9029116,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Nick,Durham,LONG,8
+9029117,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Ben,Kaplan,REC,1
+9029118,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Ben,Kaplan,YDS,6
+9029119,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Ben,Kaplan,TD,0
+9029120,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Ben,Kaplan,LONG,6
+9029121,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Mark,Cieslak,REC,1
+9029122,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Mark,Cieslak,YDS,6
+9029123,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Mark,Cieslak,TD,0
+9029124,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Mark,Cieslak,LONG,6
+9029125,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Dylan,Weldon,REC,1
+9029126,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Dylan,Weldon,YDS,3
+9029127,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Dylan,Weldon,TD,0
+9029128,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Dylan,Weldon,LONG,3
+9029129,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Alan,Watson,REC,1
+9029130,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Alan,Watson,YDS,-1
+9029131,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Alan,Watson,TD,0
+9029132,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Alan,Watson,LONG,0
+9029133,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Toure,Douglas,REC,1
+9029134,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Toure,Douglas,YDS,-1
+9029135,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Toure,Douglas,TD,0
+9029136,11/7/2015,FCS,Columbia,Harvard,RECEIVING,Toure,Douglas,LONG,0
+9029137,11/7/2015,FCS,Columbia,Harvard,KICKING,Cameron,Nizialek,FG-FGA,1/2
+9029138,11/7/2015,FCS,Columbia,Harvard,KICKING,Cameron,Nizialek,LONG,20
+9029139,11/7/2015,FCS,Columbia,Harvard,KICKING,Cameron,Nizialek,XP,1
+9029140,11/7/2015,FCS,Columbia,Harvard,KICKING,Cameron,Nizialek,PTS,4
+9029141,11/7/2015,FCS,Columbia,Harvard,PUNTING,Cameron,Nizialek,NO,4
+9029142,11/7/2015,FCS,Columbia,Harvard,PUNTING,Cameron,Nizialek,YDS,172
+9029143,11/7/2015,FCS,Columbia,Harvard,PUNTING,Cameron,Nizialek,AVG,43.0
+9029144,11/7/2015,FCS,Columbia,Harvard,PUNTING,Cameron,Nizialek,LONG,51
+9029145,11/7/2015,FCS,Columbia,Harvard,PUNTING,Matthew,Panton,NO,3
+9029146,11/7/2015,FCS,Columbia,Harvard,PUNTING,Matthew,Panton,YDS,132
+9029147,11/7/2015,FCS,Columbia,Harvard,PUNTING,Matthew,Panton,AVG,44.0
+9029148,11/7/2015,FCS,Columbia,Harvard,PUNTING,Matthew,Panton,LONG,47
+9029149,11/7/2015,FCS,Columbia,Harvard,PUNT RETURNS,Brock,Kenyon,NO,1
+9029150,11/7/2015,FCS,Columbia,Harvard,PUNT RETURNS,Brock,Kenyon,YDS,0
+9029151,11/7/2015,FCS,Columbia,Harvard,PUNT RETURNS,Brock,Kenyon,AVG,-
+9029152,11/7/2015,FCS,Columbia,Harvard,PUNT RETURNS,Brock,Kenyon,LONG,0
+9029153,11/7/2015,FCS,Columbia,Harvard,KICK RETURNS,Dylan,Weldon,NO,4
+9029154,11/7/2015,FCS,Columbia,Harvard,KICK RETURNS,Dylan,Weldon,YDS,67
+9029155,11/7/2015,FCS,Columbia,Harvard,KICK RETURNS,Dylan,Weldon,AVG,16.8
+9029156,11/7/2015,FCS,Columbia,Harvard,KICK RETURNS,Dylan,Weldon,LONG,21

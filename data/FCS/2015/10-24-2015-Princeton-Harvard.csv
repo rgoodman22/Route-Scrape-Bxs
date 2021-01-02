@@ -1,0 +1,161 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+8934001,10/24/2015,FCS,Princeton,Harvard,RUSHING,Charles,Volker,ATT,11
+8934002,10/24/2015,FCS,Princeton,Harvard,RUSHING,Charles,Volker,YDS,41
+8934003,10/24/2015,FCS,Princeton,Harvard,RUSHING,Charles,Volker,TD,0
+8934004,10/24/2015,FCS,Princeton,Harvard,RUSHING,Charles,Volker,LONG,11
+8934005,10/24/2015,FCS,Princeton,Harvard,RUSHING,Chad,Kanoff,ATT,2
+8934006,10/24/2015,FCS,Princeton,Harvard,RUSHING,Chad,Kanoff,YDS,10
+8934007,10/24/2015,FCS,Princeton,Harvard,RUSHING,Chad,Kanoff,TD,0
+8934008,10/24/2015,FCS,Princeton,Harvard,RUSHING,Chad,Kanoff,LONG,8
+8934009,10/24/2015,FCS,Princeton,Harvard,RUSHING,Joe,Rhattigan,ATT,4
+8934010,10/24/2015,FCS,Princeton,Harvard,RUSHING,Joe,Rhattigan,YDS,10
+8934011,10/24/2015,FCS,Princeton,Harvard,RUSHING,Joe,Rhattigan,TD,0
+8934012,10/24/2015,FCS,Princeton,Harvard,RUSHING,Joe,Rhattigan,LONG,6
+8934013,10/24/2015,FCS,Princeton,Harvard,RUSHING,John,Lovett,ATT,4
+8934014,10/24/2015,FCS,Princeton,Harvard,RUSHING,John,Lovett,YDS,8
+8934015,10/24/2015,FCS,Princeton,Harvard,RUSHING,John,Lovett,TD,0
+8934016,10/24/2015,FCS,Princeton,Harvard,RUSHING,John,Lovett,LONG,5
+8934017,10/24/2015,FCS,Princeton,Harvard,RUSHING,Cody,Smith,ATT,1
+8934018,10/24/2015,FCS,Princeton,Harvard,RUSHING,Cody,Smith,YDS,5
+8934019,10/24/2015,FCS,Princeton,Harvard,RUSHING,Cody,Smith,TD,0
+8934020,10/24/2015,FCS,Princeton,Harvard,RUSHING,Cody,Smith,LONG,5
+8934021,10/24/2015,FCS,Princeton,Harvard,RUSHING,Dre,Nelson,ATT,2
+8934022,10/24/2015,FCS,Princeton,Harvard,RUSHING,Dre,Nelson,YDS,-5
+8934023,10/24/2015,FCS,Princeton,Harvard,RUSHING,Dre,Nelson,TD,0
+8934024,10/24/2015,FCS,Princeton,Harvard,RUSHING,Dre,Nelson,LONG,0
+8934025,10/24/2015,FCS,Princeton,Harvard,RUSHING,,Team,ATT,1
+8934026,10/24/2015,FCS,Princeton,Harvard,RUSHING,,Team,YDS,-14
+8934027,10/24/2015,FCS,Princeton,Harvard,RUSHING,,Team,TD,0
+8934028,10/24/2015,FCS,Princeton,Harvard,RUSHING,,Team,LONG,0
+8934029,10/24/2015,FCS,Princeton,Harvard,PASSING,Chad,Kanoff,CP-ATT-INT,22-43-1
+8934030,10/24/2015,FCS,Princeton,Harvard,PASSING,Chad,Kanoff,YDS,236
+8934031,10/24/2015,FCS,Princeton,Harvard,PASSING,Chad,Kanoff,TD,0
+8934032,10/24/2015,FCS,Princeton,Harvard,PASSING,Chad,Kanoff,LONG,44
+8934033,10/24/2015,FCS,Princeton,Harvard,PASSING,John,Lovett,CP-ATT-INT,1-1-0
+8934034,10/24/2015,FCS,Princeton,Harvard,PASSING,John,Lovett,YDS,2
+8934035,10/24/2015,FCS,Princeton,Harvard,PASSING,John,Lovett,TD,1
+8934036,10/24/2015,FCS,Princeton,Harvard,PASSING,John,Lovett,LONG,2
+8934037,10/24/2015,FCS,Princeton,Harvard,RECEIVING,John,Lovett,REC,5
+8934038,10/24/2015,FCS,Princeton,Harvard,RECEIVING,John,Lovett,YDS,68
+8934039,10/24/2015,FCS,Princeton,Harvard,RECEIVING,John,Lovett,TD,0
+8934040,10/24/2015,FCS,Princeton,Harvard,RECEIVING,John,Lovett,LONG,44
+8934041,10/24/2015,FCS,Princeton,Harvard,RECEIVING,Isaiah,Barnes,REC,6
+8934042,10/24/2015,FCS,Princeton,Harvard,RECEIVING,Isaiah,Barnes,YDS,67
+8934043,10/24/2015,FCS,Princeton,Harvard,RECEIVING,Isaiah,Barnes,TD,0
+8934044,10/24/2015,FCS,Princeton,Harvard,RECEIVING,Isaiah,Barnes,LONG,32
+8934045,10/24/2015,FCS,Princeton,Harvard,RECEIVING,Trevor,Osborne,REC,5
+8934046,10/24/2015,FCS,Princeton,Harvard,RECEIVING,Trevor,Osborne,YDS,64
+8934047,10/24/2015,FCS,Princeton,Harvard,RECEIVING,Trevor,Osborne,TD,0
+8934048,10/24/2015,FCS,Princeton,Harvard,RECEIVING,Trevor,Osborne,LONG,26
+8934049,10/24/2015,FCS,Princeton,Harvard,RECEIVING,Alex,Walter,REC,2
+8934050,10/24/2015,FCS,Princeton,Harvard,RECEIVING,Alex,Walter,YDS,18
+8934051,10/24/2015,FCS,Princeton,Harvard,RECEIVING,Alex,Walter,TD,0
+8934052,10/24/2015,FCS,Princeton,Harvard,RECEIVING,Alex,Walter,LONG,11
+8934053,10/24/2015,FCS,Princeton,Harvard,RECEIVING,Scott,Carpenter,REC,1
+8934054,10/24/2015,FCS,Princeton,Harvard,RECEIVING,Scott,Carpenter,YDS,7
+8934055,10/24/2015,FCS,Princeton,Harvard,RECEIVING,Scott,Carpenter,TD,0
+8934056,10/24/2015,FCS,Princeton,Harvard,RECEIVING,Scott,Carpenter,LONG,7
+8934057,10/24/2015,FCS,Princeton,Harvard,RECEIVING,Stephen,Carlson,REC,1
+8934058,10/24/2015,FCS,Princeton,Harvard,RECEIVING,Stephen,Carlson,YDS,5
+8934059,10/24/2015,FCS,Princeton,Harvard,RECEIVING,Stephen,Carlson,TD,0
+8934060,10/24/2015,FCS,Princeton,Harvard,RECEIVING,Stephen,Carlson,LONG,5
+8934061,10/24/2015,FCS,Princeton,Harvard,RECEIVING,Joe,Rhattigan,REC,1
+8934062,10/24/2015,FCS,Princeton,Harvard,RECEIVING,Joe,Rhattigan,YDS,4
+8934063,10/24/2015,FCS,Princeton,Harvard,RECEIVING,Joe,Rhattigan,TD,0
+8934064,10/24/2015,FCS,Princeton,Harvard,RECEIVING,Joe,Rhattigan,LONG,4
+8934065,10/24/2015,FCS,Princeton,Harvard,RECEIVING,Cody,Smith,REC,1
+8934066,10/24/2015,FCS,Princeton,Harvard,RECEIVING,Cody,Smith,YDS,3
+8934067,10/24/2015,FCS,Princeton,Harvard,RECEIVING,Cody,Smith,TD,0
+8934068,10/24/2015,FCS,Princeton,Harvard,RECEIVING,Cody,Smith,LONG,3
+8934069,10/24/2015,FCS,Princeton,Harvard,RECEIVING,Nick,Peabody,REC,1
+8934070,10/24/2015,FCS,Princeton,Harvard,RECEIVING,Nick,Peabody,YDS,2
+8934071,10/24/2015,FCS,Princeton,Harvard,RECEIVING,Nick,Peabody,TD,1
+8934072,10/24/2015,FCS,Princeton,Harvard,RECEIVING,Nick,Peabody,LONG,2
+8934073,10/24/2015,FCS,Princeton,Harvard,KICKING,Nolan,Bieck,FG-FGA,0/0
+8934074,10/24/2015,FCS,Princeton,Harvard,KICKING,Nolan,Bieck,LONG,-
+8934075,10/24/2015,FCS,Princeton,Harvard,KICKING,Nolan,Bieck,XP,1
+8934076,10/24/2015,FCS,Princeton,Harvard,KICKING,Nolan,Bieck,PTS,1
+8934077,10/24/2015,FCS,Princeton,Harvard,PUNTING,Tyler,Roth,NO,11
+8934078,10/24/2015,FCS,Princeton,Harvard,PUNTING,Tyler,Roth,YDS,449
+8934079,10/24/2015,FCS,Princeton,Harvard,PUNTING,Tyler,Roth,AVG,40.8
+8934080,10/24/2015,FCS,Princeton,Harvard,PUNTING,Tyler,Roth,LONG,55
+8934081,10/24/2015,FCS,Princeton,Harvard,KICK RETURNS,Dre,Nelson,NO,7
+8934082,10/24/2015,FCS,Princeton,Harvard,KICK RETURNS,Dre,Nelson,YDS,123
+8934083,10/24/2015,FCS,Princeton,Harvard,KICK RETURNS,Dre,Nelson,AVG,17.6
+8934084,10/24/2015,FCS,Princeton,Harvard,KICK RETURNS,Dre,Nelson,LONG,22
+8934085,10/24/2015,FCS,Harvard,Princeton,RUSHING,Paul,StantonJr.,ATT,18
+8934086,10/24/2015,FCS,Harvard,Princeton,RUSHING,Paul,StantonJr.,YDS,119
+8934087,10/24/2015,FCS,Harvard,Princeton,RUSHING,Paul,StantonJr.,TD,2
+8934088,10/24/2015,FCS,Harvard,Princeton,RUSHING,Paul,StantonJr.,LONG,26
+8934089,10/24/2015,FCS,Harvard,Princeton,RUSHING,Seitu,SmithII,ATT,10
+8934090,10/24/2015,FCS,Harvard,Princeton,RUSHING,Seitu,SmithII,YDS,46
+8934091,10/24/2015,FCS,Harvard,Princeton,RUSHING,Seitu,SmithII,TD,1
+8934092,10/24/2015,FCS,Harvard,Princeton,RUSHING,Seitu,SmithII,LONG,18
+8934093,10/24/2015,FCS,Harvard,Princeton,RUSHING,Noah,Reimers,ATT,6
+8934094,10/24/2015,FCS,Harvard,Princeton,RUSHING,Noah,Reimers,YDS,28
+8934095,10/24/2015,FCS,Harvard,Princeton,RUSHING,Noah,Reimers,TD,0
+8934096,10/24/2015,FCS,Harvard,Princeton,RUSHING,Noah,Reimers,LONG,16
+8934097,10/24/2015,FCS,Harvard,Princeton,RUSHING,Scott,Hosch,ATT,4
+8934098,10/24/2015,FCS,Harvard,Princeton,RUSHING,Scott,Hosch,YDS,10
+8934099,10/24/2015,FCS,Harvard,Princeton,RUSHING,Scott,Hosch,TD,1
+8934100,10/24/2015,FCS,Harvard,Princeton,RUSHING,Scott,Hosch,LONG,15
+8934101,10/24/2015,FCS,Harvard,Princeton,RUSHING,Andrew,Fischer,ATT,1
+8934102,10/24/2015,FCS,Harvard,Princeton,RUSHING,Andrew,Fischer,YDS,1
+8934103,10/24/2015,FCS,Harvard,Princeton,RUSHING,Andrew,Fischer,TD,0
+8934104,10/24/2015,FCS,Harvard,Princeton,RUSHING,Andrew,Fischer,LONG,1
+8934105,10/24/2015,FCS,Harvard,Princeton,PASSING,Scott,Hosch,CP-ATT-INT,29-40-0
+8934106,10/24/2015,FCS,Harvard,Princeton,PASSING,Scott,Hosch,YDS,437
+8934107,10/24/2015,FCS,Harvard,Princeton,PASSING,Scott,Hosch,TD,2
+8934108,10/24/2015,FCS,Harvard,Princeton,PASSING,Scott,Hosch,LONG,41
+8934109,10/24/2015,FCS,Harvard,Princeton,PASSING,Jimmy,Meyer,CP-ATT-INT,1-2-0
+8934110,10/24/2015,FCS,Harvard,Princeton,PASSING,Jimmy,Meyer,YDS,7
+8934111,10/24/2015,FCS,Harvard,Princeton,PASSING,Jimmy,Meyer,TD,0
+8934112,10/24/2015,FCS,Harvard,Princeton,PASSING,Jimmy,Meyer,LONG,7
+8934113,10/24/2015,FCS,Harvard,Princeton,RECEIVING,Andrew,Fischer,REC,10
+8934114,10/24/2015,FCS,Harvard,Princeton,RECEIVING,Andrew,Fischer,YDS,190
+8934115,10/24/2015,FCS,Harvard,Princeton,RECEIVING,Andrew,Fischer,TD,1
+8934116,10/24/2015,FCS,Harvard,Princeton,RECEIVING,Andrew,Fischer,LONG,41
+8934117,10/24/2015,FCS,Harvard,Princeton,RECEIVING,Ben,Braunecker,REC,7
+8934118,10/24/2015,FCS,Harvard,Princeton,RECEIVING,Ben,Braunecker,YDS,133
+8934119,10/24/2015,FCS,Harvard,Princeton,RECEIVING,Ben,Braunecker,TD,1
+8934120,10/24/2015,FCS,Harvard,Princeton,RECEIVING,Ben,Braunecker,LONG,36
+8934121,10/24/2015,FCS,Harvard,Princeton,RECEIVING,Justice,Shelton-Mosely,REC,7
+8934122,10/24/2015,FCS,Harvard,Princeton,RECEIVING,Justice,Shelton-Mosely,YDS,86
+8934123,10/24/2015,FCS,Harvard,Princeton,RECEIVING,Justice,Shelton-Mosely,TD,0
+8934124,10/24/2015,FCS,Harvard,Princeton,RECEIVING,Justice,Shelton-Mosely,LONG,38
+8934125,10/24/2015,FCS,Harvard,Princeton,RECEIVING,Anthony,Firkser,REC,2
+8934126,10/24/2015,FCS,Harvard,Princeton,RECEIVING,Anthony,Firkser,YDS,14
+8934127,10/24/2015,FCS,Harvard,Princeton,RECEIVING,Anthony,Firkser,TD,0
+8934128,10/24/2015,FCS,Harvard,Princeton,RECEIVING,Anthony,Firkser,LONG,9
+8934129,10/24/2015,FCS,Harvard,Princeton,RECEIVING,Jack,Stansell,REC,2
+8934130,10/24/2015,FCS,Harvard,Princeton,RECEIVING,Jack,Stansell,YDS,12
+8934131,10/24/2015,FCS,Harvard,Princeton,RECEIVING,Jack,Stansell,TD,0
+8934132,10/24/2015,FCS,Harvard,Princeton,RECEIVING,Jack,Stansell,LONG,7
+8934133,10/24/2015,FCS,Harvard,Princeton,RECEIVING,Tanner,Wrisley,REC,1
+8934134,10/24/2015,FCS,Harvard,Princeton,RECEIVING,Tanner,Wrisley,YDS,7
+8934135,10/24/2015,FCS,Harvard,Princeton,RECEIVING,Tanner,Wrisley,TD,0
+8934136,10/24/2015,FCS,Harvard,Princeton,RECEIVING,Tanner,Wrisley,LONG,7
+8934137,10/24/2015,FCS,Harvard,Princeton,RECEIVING,Paul,StantonJr.,REC,1
+8934138,10/24/2015,FCS,Harvard,Princeton,RECEIVING,Paul,StantonJr.,YDS,2
+8934139,10/24/2015,FCS,Harvard,Princeton,RECEIVING,Paul,StantonJr.,TD,0
+8934140,10/24/2015,FCS,Harvard,Princeton,RECEIVING,Paul,StantonJr.,LONG,2
+8934141,10/24/2015,FCS,Harvard,Princeton,KICKING,Kenny,Smart,FG-FGA,0/0
+8934142,10/24/2015,FCS,Harvard,Princeton,KICKING,Kenny,Smart,LONG,-
+8934143,10/24/2015,FCS,Harvard,Princeton,KICKING,Kenny,Smart,XP,6
+8934144,10/24/2015,FCS,Harvard,Princeton,KICKING,Kenny,Smart,PTS,6
+8934145,10/24/2015,FCS,Harvard,Princeton,PUNTING,Zach,Schmid,NO,4
+8934146,10/24/2015,FCS,Harvard,Princeton,PUNTING,Zach,Schmid,YDS,139
+8934147,10/24/2015,FCS,Harvard,Princeton,PUNTING,Zach,Schmid,AVG,34.8
+8934148,10/24/2015,FCS,Harvard,Princeton,PUNTING,Zach,Schmid,LONG,39
+8934149,10/24/2015,FCS,Harvard,Princeton,PUNT RETURNS,Andrew,Fischer,NO,4
+8934150,10/24/2015,FCS,Harvard,Princeton,PUNT RETURNS,Andrew,Fischer,YDS,48
+8934151,10/24/2015,FCS,Harvard,Princeton,PUNT RETURNS,Andrew,Fischer,AVG,12.0
+8934152,10/24/2015,FCS,Harvard,Princeton,PUNT RETURNS,Andrew,Fischer,LONG,29
+8934153,10/24/2015,FCS,Harvard,Princeton,KICK RETURNS,Justice,Shelton-Mosely,NO,0
+8934154,10/24/2015,FCS,Harvard,Princeton,KICK RETURNS,Justice,Shelton-Mosely,YDS,35
+8934155,10/24/2015,FCS,Harvard,Princeton,KICK RETURNS,Justice,Shelton-Mosely,AVG,-
+8934156,10/24/2015,FCS,Harvard,Princeton,KICK RETURNS,Justice,Shelton-Mosely,LONG,32
+8934157,10/24/2015,FCS,Harvard,Princeton,KICK RETURNS,Andrew,Fischer,NO,2
+8934158,10/24/2015,FCS,Harvard,Princeton,KICK RETURNS,Andrew,Fischer,YDS,16
+8934159,10/24/2015,FCS,Harvard,Princeton,KICK RETURNS,Andrew,Fischer,AVG,8.0
+8934160,10/24/2015,FCS,Harvard,Princeton,KICK RETURNS,Andrew,Fischer,LONG,8

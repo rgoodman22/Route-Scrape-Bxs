@@ -1,0 +1,196 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+12248001,11/9/2019,FCS,Hampton,Charleston So.,RUSHING,Shai,McKenzie,ATT,20
+12248002,11/9/2019,FCS,Hampton,Charleston So.,RUSHING,Shai,McKenzie,YDS,58
+12248003,11/9/2019,FCS,Hampton,Charleston So.,RUSHING,Shai,McKenzie,TD,0
+12248004,11/9/2019,FCS,Hampton,Charleston So.,RUSHING,Shai,McKenzie,LONG,18
+12248005,11/9/2019,FCS,Hampton,Charleston So.,RUSHING,Darran,Butts,ATT,4
+12248006,11/9/2019,FCS,Hampton,Charleston So.,RUSHING,Darran,Butts,YDS,20
+12248007,11/9/2019,FCS,Hampton,Charleston So.,RUSHING,Darran,Butts,TD,0
+12248008,11/9/2019,FCS,Hampton,Charleston So.,RUSHING,Darran,Butts,LONG,10
+12248009,11/9/2019,FCS,Hampton,Charleston So.,RUSHING,KeyRon,Catlett,ATT,1
+12248010,11/9/2019,FCS,Hampton,Charleston So.,RUSHING,KeyRon,Catlett,YDS,6
+12248011,11/9/2019,FCS,Hampton,Charleston So.,RUSHING,KeyRon,Catlett,TD,0
+12248012,11/9/2019,FCS,Hampton,Charleston So.,RUSHING,KeyRon,Catlett,LONG,6
+12248013,11/9/2019,FCS,Hampton,Charleston So.,RUSHING,Deondre,Francois,ATT,13
+12248014,11/9/2019,FCS,Hampton,Charleston So.,RUSHING,Deondre,Francois,YDS,-14
+12248015,11/9/2019,FCS,Hampton,Charleston So.,RUSHING,Deondre,Francois,TD,0
+12248016,11/9/2019,FCS,Hampton,Charleston So.,RUSHING,Deondre,Francois,LONG,18
+12248017,11/9/2019,FCS,Hampton,Charleston So.,PASSING,Deondre,Francois,CP-ATT-INT,26-47-3
+12248018,11/9/2019,FCS,Hampton,Charleston So.,PASSING,Deondre,Francois,YDS,298
+12248019,11/9/2019,FCS,Hampton,Charleston So.,PASSING,Deondre,Francois,TD,3
+12248020,11/9/2019,FCS,Hampton,Charleston So.,PASSING,Deondre,Francois,LONG,0
+12248021,11/9/2019,FCS,Hampton,Charleston So.,RECEIVING,Marcel,Paul,REC,7
+12248022,11/9/2019,FCS,Hampton,Charleston So.,RECEIVING,Marcel,Paul,YDS,99
+12248023,11/9/2019,FCS,Hampton,Charleston So.,RECEIVING,Marcel,Paul,TD,0
+12248024,11/9/2019,FCS,Hampton,Charleston So.,RECEIVING,Marcel,Paul,LONG,37
+12248025,11/9/2019,FCS,Hampton,Charleston So.,RECEIVING,KeyRon,Catlett,REC,8
+12248026,11/9/2019,FCS,Hampton,Charleston So.,RECEIVING,KeyRon,Catlett,YDS,96
+12248027,11/9/2019,FCS,Hampton,Charleston So.,RECEIVING,KeyRon,Catlett,TD,0
+12248028,11/9/2019,FCS,Hampton,Charleston So.,RECEIVING,KeyRon,Catlett,LONG,20
+12248029,11/9/2019,FCS,Hampton,Charleston So.,RECEIVING,Jadakis,Bonds,REC,10
+12248030,11/9/2019,FCS,Hampton,Charleston So.,RECEIVING,Jadakis,Bonds,YDS,91
+12248031,11/9/2019,FCS,Hampton,Charleston So.,RECEIVING,Jadakis,Bonds,TD,3
+12248032,11/9/2019,FCS,Hampton,Charleston So.,RECEIVING,Jadakis,Bonds,LONG,33
+12248033,11/9/2019,FCS,Hampton,Charleston So.,RECEIVING,Darran,Butts,REC,1
+12248034,11/9/2019,FCS,Hampton,Charleston So.,RECEIVING,Darran,Butts,YDS,12
+12248035,11/9/2019,FCS,Hampton,Charleston So.,RECEIVING,Darran,Butts,TD,0
+12248036,11/9/2019,FCS,Hampton,Charleston So.,RECEIVING,Darran,Butts,LONG,12
+12248037,11/9/2019,FCS,Hampton,Charleston So.,KICKING,Evan,Lomax,FG-FGA,0/0
+12248038,11/9/2019,FCS,Hampton,Charleston So.,KICKING,Evan,Lomax,LONG,-
+12248039,11/9/2019,FCS,Hampton,Charleston So.,KICKING,Evan,Lomax,XP,2
+12248040,11/9/2019,FCS,Hampton,Charleston So.,KICKING,Evan,Lomax,PTS,2
+12248041,11/9/2019,FCS,Hampton,Charleston So.,PUNTING,Ivan,Oraha,NO,6
+12248042,11/9/2019,FCS,Hampton,Charleston So.,PUNTING,Ivan,Oraha,YDS,243
+12248043,11/9/2019,FCS,Hampton,Charleston So.,PUNTING,Ivan,Oraha,AVG,40.5
+12248044,11/9/2019,FCS,Hampton,Charleston So.,PUNTING,Ivan,Oraha,LONG,52
+12248045,11/9/2019,FCS,Hampton,Charleston So.,PUNT RETURNS,KeyRon,Catlett,NO,1
+12248046,11/9/2019,FCS,Hampton,Charleston So.,PUNT RETURNS,KeyRon,Catlett,YDS,12
+12248047,11/9/2019,FCS,Hampton,Charleston So.,PUNT RETURNS,KeyRon,Catlett,AVG,12.0
+12248048,11/9/2019,FCS,Hampton,Charleston So.,PUNT RETURNS,KeyRon,Catlett,LONG,12
+12248049,11/9/2019,FCS,Hampton,Charleston So.,KICK RETURNS,Darran,Butts,NO,1
+12248050,11/9/2019,FCS,Hampton,Charleston So.,KICK RETURNS,Darran,Butts,YDS,10
+12248051,11/9/2019,FCS,Hampton,Charleston So.,KICK RETURNS,Darran,Butts,AVG,10.0
+12248052,11/9/2019,FCS,Hampton,Charleston So.,KICK RETURNS,Darran,Butts,LONG,10
+12248053,11/9/2019,FCS,Hampton,Charleston So.,KICK RETURNS,Lonzo,Thompson,NO,1
+12248054,11/9/2019,FCS,Hampton,Charleston So.,KICK RETURNS,Lonzo,Thompson,YDS,9
+12248055,11/9/2019,FCS,Hampton,Charleston So.,KICK RETURNS,Lonzo,Thompson,AVG,9.0
+12248056,11/9/2019,FCS,Hampton,Charleston So.,KICK RETURNS,Lonzo,Thompson,LONG,9
+12248057,11/9/2019,FCS,Hampton,Charleston So.,KICK RETURNS,Justin,Dingle,NO,1
+12248058,11/9/2019,FCS,Hampton,Charleston So.,KICK RETURNS,Justin,Dingle,YDS,7
+12248059,11/9/2019,FCS,Hampton,Charleston So.,KICK RETURNS,Justin,Dingle,AVG,7.0
+12248060,11/9/2019,FCS,Hampton,Charleston So.,KICK RETURNS,Justin,Dingle,LONG,7
+12248061,11/9/2019,FCS,Hampton,Charleston So.,DEFENSE,Kentrelle,Groom,TOT,0
+12248062,11/9/2019,FCS,Hampton,Charleston So.,DEFENSE,Kentrelle,Groom,SOLO,0
+12248063,11/9/2019,FCS,Hampton,Charleston So.,DEFENSE,Kentrelle,Groom,SACKS,2
+12248064,11/9/2019,FCS,Hampton,Charleston So.,DEFENSE,Kentrelle,Groom,TFL,0
+12248065,11/9/2019,FCS,Hampton,Charleston So.,DEFENSE,Kentrelle,Groom,INT,0
+12248066,11/9/2019,FCS,Hampton,Charleston So.,DEFENSE,Kentrelle,Groom,FF,1
+12248067,11/9/2019,FCS,Hampton,Charleston So.,DEFENSE,Kentrelle,Groom,FR,0
+12248068,11/9/2019,FCS,Hampton,Charleston So.,DEFENSE,Mason,King,TOT,0
+12248069,11/9/2019,FCS,Hampton,Charleston So.,DEFENSE,Mason,King,SOLO,0
+12248070,11/9/2019,FCS,Hampton,Charleston So.,DEFENSE,Mason,King,SACKS,1
+12248071,11/9/2019,FCS,Hampton,Charleston So.,DEFENSE,Mason,King,TFL,0
+12248072,11/9/2019,FCS,Hampton,Charleston So.,DEFENSE,Mason,King,INT,0
+12248073,11/9/2019,FCS,Hampton,Charleston So.,DEFENSE,Mason,King,FF,0
+12248074,11/9/2019,FCS,Hampton,Charleston So.,DEFENSE,Mason,King,FR,1
+12248075,11/9/2019,FCS,Hampton,Charleston So.,DEFENSE,Justin,Brown,TOT,0
+12248076,11/9/2019,FCS,Hampton,Charleston So.,DEFENSE,Justin,Brown,SOLO,0
+12248077,11/9/2019,FCS,Hampton,Charleston So.,DEFENSE,Justin,Brown,SACKS,1
+12248078,11/9/2019,FCS,Hampton,Charleston So.,DEFENSE,Justin,Brown,TFL,0
+12248079,11/9/2019,FCS,Hampton,Charleston So.,DEFENSE,Justin,Brown,INT,1
+12248080,11/9/2019,FCS,Hampton,Charleston So.,DEFENSE,Justin,Brown,FF,0
+12248081,11/9/2019,FCS,Hampton,Charleston So.,DEFENSE,Justin,Brown,FR,0
+12248082,11/9/2019,FCS,Charleston So.,Hampton,RUSHING,Darius,Douglas,ATT,13
+12248083,11/9/2019,FCS,Charleston So.,Hampton,RUSHING,Darius,Douglas,YDS,45
+12248084,11/9/2019,FCS,Charleston So.,Hampton,RUSHING,Darius,Douglas,TD,2
+12248085,11/9/2019,FCS,Charleston So.,Hampton,RUSHING,Darius,Douglas,LONG,19
+12248086,11/9/2019,FCS,Charleston So.,Hampton,RUSHING,Ronnie,Harris,ATT,13
+12248087,11/9/2019,FCS,Charleston So.,Hampton,RUSHING,Ronnie,Harris,YDS,7
+12248088,11/9/2019,FCS,Charleston So.,Hampton,RUSHING,Ronnie,Harris,TD,0
+12248089,11/9/2019,FCS,Charleston So.,Hampton,RUSHING,Ronnie,Harris,LONG,4
+12248090,11/9/2019,FCS,Charleston So.,Hampton,RUSHING,Kendrick,Bell,ATT,2
+12248091,11/9/2019,FCS,Charleston So.,Hampton,RUSHING,Kendrick,Bell,YDS,2
+12248092,11/9/2019,FCS,Charleston So.,Hampton,RUSHING,Kendrick,Bell,TD,0
+12248093,11/9/2019,FCS,Charleston So.,Hampton,RUSHING,Kendrick,Bell,LONG,2
+12248094,11/9/2019,FCS,Charleston So.,Hampton,RUSHING,Jamari,Dunbar,ATT,1
+12248095,11/9/2019,FCS,Charleston So.,Hampton,RUSHING,Jamari,Dunbar,YDS,-4
+12248096,11/9/2019,FCS,Charleston So.,Hampton,RUSHING,Jamari,Dunbar,TD,0
+12248097,11/9/2019,FCS,Charleston So.,Hampton,RUSHING,Jamari,Dunbar,LONG,0
+12248098,11/9/2019,FCS,Charleston So.,Hampton,RUSHING,Jack,Chambers,ATT,4
+12248099,11/9/2019,FCS,Charleston So.,Hampton,RUSHING,Jack,Chambers,YDS,-6
+12248100,11/9/2019,FCS,Charleston So.,Hampton,RUSHING,Jack,Chambers,TD,0
+12248101,11/9/2019,FCS,Charleston So.,Hampton,RUSHING,Jack,Chambers,LONG,8
+12248102,11/9/2019,FCS,Charleston So.,Hampton,PASSING,Darius,Douglas,CP-ATT-INT,10-21-0
+12248103,11/9/2019,FCS,Charleston So.,Hampton,PASSING,Darius,Douglas,YDS,174
+12248104,11/9/2019,FCS,Charleston So.,Hampton,PASSING,Darius,Douglas,TD,1
+12248105,11/9/2019,FCS,Charleston So.,Hampton,PASSING,Darius,Douglas,LONG,0
+12248106,11/9/2019,FCS,Charleston So.,Hampton,PASSING,Jack,Chambers,CP-ATT-INT,2-9-1
+12248107,11/9/2019,FCS,Charleston So.,Hampton,PASSING,Jack,Chambers,YDS,57
+12248108,11/9/2019,FCS,Charleston So.,Hampton,PASSING,Jack,Chambers,TD,0
+12248109,11/9/2019,FCS,Charleston So.,Hampton,PASSING,Jack,Chambers,LONG,59
+12248110,11/9/2019,FCS,Charleston So.,Hampton,RECEIVING,Demetrius,Jones,REC,3
+12248111,11/9/2019,FCS,Charleston So.,Hampton,RECEIVING,Demetrius,Jones,YDS,117
+12248112,11/9/2019,FCS,Charleston So.,Hampton,RECEIVING,Demetrius,Jones,TD,0
+12248113,11/9/2019,FCS,Charleston So.,Hampton,RECEIVING,Demetrius,Jones,LONG,59
+12248114,11/9/2019,FCS,Charleston So.,Hampton,RECEIVING,Tyree,Baptiste,REC,1
+12248115,11/9/2019,FCS,Charleston So.,Hampton,RECEIVING,Tyree,Baptiste,YDS,42
+12248116,11/9/2019,FCS,Charleston So.,Hampton,RECEIVING,Tyree,Baptiste,TD,0
+12248117,11/9/2019,FCS,Charleston So.,Hampton,RECEIVING,Tyree,Baptiste,LONG,42
+12248118,11/9/2019,FCS,Charleston So.,Hampton,RECEIVING,Quinn,Caballero,REC,4
+12248119,11/9/2019,FCS,Charleston So.,Hampton,RECEIVING,Quinn,Caballero,YDS,31
+12248120,11/9/2019,FCS,Charleston So.,Hampton,RECEIVING,Quinn,Caballero,TD,0
+12248121,11/9/2019,FCS,Charleston So.,Hampton,RECEIVING,Quinn,Caballero,LONG,17
+12248122,11/9/2019,FCS,Charleston So.,Hampton,RECEIVING,Garris,Schwarting,REC,2
+12248123,11/9/2019,FCS,Charleston So.,Hampton,RECEIVING,Garris,Schwarting,YDS,31
+12248124,11/9/2019,FCS,Charleston So.,Hampton,RECEIVING,Garris,Schwarting,TD,1
+12248125,11/9/2019,FCS,Charleston So.,Hampton,RECEIVING,Garris,Schwarting,LONG,24
+12248126,11/9/2019,FCS,Charleston So.,Hampton,RECEIVING,Jaquan,Williams,REC,1
+12248127,11/9/2019,FCS,Charleston So.,Hampton,RECEIVING,Jaquan,Williams,YDS,12
+12248128,11/9/2019,FCS,Charleston So.,Hampton,RECEIVING,Jaquan,Williams,TD,0
+12248129,11/9/2019,FCS,Charleston So.,Hampton,RECEIVING,Jaquan,Williams,LONG,12
+12248130,11/9/2019,FCS,Charleston So.,Hampton,RECEIVING,Christian,Reid,REC,1
+12248131,11/9/2019,FCS,Charleston So.,Hampton,RECEIVING,Christian,Reid,YDS,-2
+12248132,11/9/2019,FCS,Charleston So.,Hampton,RECEIVING,Christian,Reid,TD,0
+12248133,11/9/2019,FCS,Charleston So.,Hampton,RECEIVING,Christian,Reid,LONG,0
+12248134,11/9/2019,FCS,Charleston So.,Hampton,KICKING,Alex,Usry,FG-FGA,2/3
+12248135,11/9/2019,FCS,Charleston So.,Hampton,KICKING,Alex,Usry,LONG,37
+12248136,11/9/2019,FCS,Charleston So.,Hampton,KICKING,Alex,Usry,XP,3
+12248137,11/9/2019,FCS,Charleston So.,Hampton,KICKING,Alex,Usry,PTS,9
+12248138,11/9/2019,FCS,Charleston So.,Hampton,PUNTING,Kyle,Reighard,NO,7
+12248139,11/9/2019,FCS,Charleston So.,Hampton,PUNTING,Kyle,Reighard,YDS,275
+12248140,11/9/2019,FCS,Charleston So.,Hampton,PUNTING,Kyle,Reighard,AVG,39.3
+12248141,11/9/2019,FCS,Charleston So.,Hampton,PUNTING,Kyle,Reighard,LONG,48
+12248142,11/9/2019,FCS,Charleston So.,Hampton,PUNT RETURNS,Isaac,Ross,NO,1
+12248143,11/9/2019,FCS,Charleston So.,Hampton,PUNT RETURNS,Isaac,Ross,YDS,6
+12248144,11/9/2019,FCS,Charleston So.,Hampton,PUNT RETURNS,Isaac,Ross,AVG,6.0
+12248145,11/9/2019,FCS,Charleston So.,Hampton,PUNT RETURNS,Isaac,Ross,LONG,6
+12248146,11/9/2019,FCS,Charleston So.,Hampton,PUNT RETURNS,JaRon,Godbolt,NO,1
+12248147,11/9/2019,FCS,Charleston So.,Hampton,PUNT RETURNS,JaRon,Godbolt,YDS,0
+12248148,11/9/2019,FCS,Charleston So.,Hampton,PUNT RETURNS,JaRon,Godbolt,AVG,-
+12248149,11/9/2019,FCS,Charleston So.,Hampton,PUNT RETURNS,JaRon,Godbolt,LONG,0
+12248150,11/9/2019,FCS,Charleston So.,Hampton,KICK RETURNS,Isaac,Ross,NO,1
+12248151,11/9/2019,FCS,Charleston So.,Hampton,KICK RETURNS,Isaac,Ross,YDS,8
+12248152,11/9/2019,FCS,Charleston So.,Hampton,KICK RETURNS,Isaac,Ross,AVG,8.0
+12248153,11/9/2019,FCS,Charleston So.,Hampton,KICK RETURNS,Isaac,Ross,LONG,8
+12248154,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,Shaundre,Mims,TOT,0
+12248155,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,Shaundre,Mims,SOLO,0
+12248156,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,Shaundre,Mims,SACKS,4
+12248157,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,Shaundre,Mims,TFL,0
+12248158,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,Shaundre,Mims,INT,0
+12248159,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,Shaundre,Mims,FF,1
+12248160,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,Shaundre,Mims,FR,0
+12248161,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,Justin,McIntire,TOT,0
+12248162,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,Justin,McIntire,SOLO,0
+12248163,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,Justin,McIntire,SACKS,1
+12248164,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,Justin,McIntire,TFL,0
+12248165,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,Justin,McIntire,INT,1
+12248166,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,Justin,McIntire,FF,0
+12248167,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,Justin,McIntire,FR,0
+12248168,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,Nick,Salley,TOT,0
+12248169,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,Nick,Salley,SOLO,0
+12248170,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,Nick,Salley,SACKS,1
+12248171,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,Nick,Salley,TFL,0
+12248172,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,Nick,Salley,INT,0
+12248173,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,Nick,Salley,FF,0
+12248174,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,Nick,Salley,FR,0
+12248175,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,Anton,Williams,TOT,0
+12248176,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,Anton,Williams,SOLO,0
+12248177,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,Anton,Williams,SACKS,1
+12248178,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,Anton,Williams,TFL,0
+12248179,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,Anton,Williams,INT,0
+12248180,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,Anton,Williams,FF,0
+12248181,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,Anton,Williams,FR,1
+12248182,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,Evan,Cruz,TOT,0
+12248183,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,Evan,Cruz,SOLO,0
+12248184,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,Evan,Cruz,SACKS,0
+12248185,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,Evan,Cruz,TFL,0
+12248186,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,Evan,Cruz,INT,1
+12248187,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,Evan,Cruz,FF,0
+12248188,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,Evan,Cruz,FR,0
+12248189,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,J.D.,Sosebee,TOT,0
+12248190,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,J.D.,Sosebee,SOLO,0
+12248191,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,J.D.,Sosebee,SACKS,0
+12248192,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,J.D.,Sosebee,TFL,0
+12248193,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,J.D.,Sosebee,INT,1
+12248194,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,J.D.,Sosebee,FF,0
+12248195,11/9/2019,FCS,Charleston So.,Hampton,DEFENSE,J.D.,Sosebee,FR,0

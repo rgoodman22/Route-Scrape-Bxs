@@ -1,0 +1,153 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9950001,11/19/2016,FCS,Monmouth,Gardner-Webb,RUSHING,Lavon,Chaney,ATT,21
+9950002,11/19/2016,FCS,Monmouth,Gardner-Webb,RUSHING,Lavon,Chaney,YDS,150
+9950003,11/19/2016,FCS,Monmouth,Gardner-Webb,RUSHING,Lavon,Chaney,TD,2
+9950004,11/19/2016,FCS,Monmouth,Gardner-Webb,RUSHING,Lavon,Chaney,LONG,67
+9950005,11/19/2016,FCS,Monmouth,Gardner-Webb,RUSHING,Zach,Welch,ATT,5
+9950006,11/19/2016,FCS,Monmouth,Gardner-Webb,RUSHING,Zach,Welch,YDS,34
+9950007,11/19/2016,FCS,Monmouth,Gardner-Webb,RUSHING,Zach,Welch,TD,1
+9950008,11/19/2016,FCS,Monmouth,Gardner-Webb,RUSHING,Zach,Welch,LONG,15
+9950009,11/19/2016,FCS,Monmouth,Gardner-Webb,RUSHING,Kenji,Bahar,ATT,4
+9950010,11/19/2016,FCS,Monmouth,Gardner-Webb,RUSHING,Kenji,Bahar,YDS,16
+9950011,11/19/2016,FCS,Monmouth,Gardner-Webb,RUSHING,Kenji,Bahar,TD,1
+9950012,11/19/2016,FCS,Monmouth,Gardner-Webb,RUSHING,Kenji,Bahar,LONG,7
+9950013,11/19/2016,FCS,Monmouth,Gardner-Webb,RUSHING,Darren,Ambush,ATT,1
+9950014,11/19/2016,FCS,Monmouth,Gardner-Webb,RUSHING,Darren,Ambush,YDS,6
+9950015,11/19/2016,FCS,Monmouth,Gardner-Webb,RUSHING,Darren,Ambush,TD,0
+9950016,11/19/2016,FCS,Monmouth,Gardner-Webb,RUSHING,Darren,Ambush,LONG,6
+9950017,11/19/2016,FCS,Monmouth,Gardner-Webb,RUSHING,,Team,ATT,1
+9950018,11/19/2016,FCS,Monmouth,Gardner-Webb,RUSHING,,Team,YDS,0
+9950019,11/19/2016,FCS,Monmouth,Gardner-Webb,RUSHING,,Team,TD,0
+9950020,11/19/2016,FCS,Monmouth,Gardner-Webb,RUSHING,,Team,LONG,0
+9950021,11/19/2016,FCS,Monmouth,Gardner-Webb,RUSHING,Matt,Stoneberg,ATT,1
+9950022,11/19/2016,FCS,Monmouth,Gardner-Webb,RUSHING,Matt,Stoneberg,YDS,-6
+9950023,11/19/2016,FCS,Monmouth,Gardner-Webb,RUSHING,Matt,Stoneberg,TD,0
+9950024,11/19/2016,FCS,Monmouth,Gardner-Webb,RUSHING,Matt,Stoneberg,LONG,0
+9950025,11/19/2016,FCS,Monmouth,Gardner-Webb,PASSING,Kenji,Bahar,CP-ATT-INT,27-38-1
+9950026,11/19/2016,FCS,Monmouth,Gardner-Webb,PASSING,Kenji,Bahar,YDS,241
+9950027,11/19/2016,FCS,Monmouth,Gardner-Webb,PASSING,Kenji,Bahar,TD,1
+9950028,11/19/2016,FCS,Monmouth,Gardner-Webb,PASSING,Kenji,Bahar,LONG,38
+9950029,11/19/2016,FCS,Monmouth,Gardner-Webb,PASSING,Matt,Castronuova,CP-ATT-INT,0-1-1
+9950030,11/19/2016,FCS,Monmouth,Gardner-Webb,PASSING,Matt,Castronuova,YDS,0
+9950031,11/19/2016,FCS,Monmouth,Gardner-Webb,PASSING,Matt,Castronuova,TD,0
+9950032,11/19/2016,FCS,Monmouth,Gardner-Webb,PASSING,Matt,Castronuova,LONG,0
+9950033,11/19/2016,FCS,Monmouth,Gardner-Webb,RECEIVING,Reggie,WhiteJr.,REC,10
+9950034,11/19/2016,FCS,Monmouth,Gardner-Webb,RECEIVING,Reggie,WhiteJr.,YDS,149
+9950035,11/19/2016,FCS,Monmouth,Gardner-Webb,RECEIVING,Reggie,WhiteJr.,TD,1
+9950036,11/19/2016,FCS,Monmouth,Gardner-Webb,RECEIVING,Reggie,WhiteJr.,LONG,38
+9950037,11/19/2016,FCS,Monmouth,Gardner-Webb,RECEIVING,Jake,Powell,REC,5
+9950038,11/19/2016,FCS,Monmouth,Gardner-Webb,RECEIVING,Jake,Powell,YDS,32
+9950039,11/19/2016,FCS,Monmouth,Gardner-Webb,RECEIVING,Jake,Powell,TD,0
+9950040,11/19/2016,FCS,Monmouth,Gardner-Webb,RECEIVING,Jake,Powell,LONG,14
+9950041,11/19/2016,FCS,Monmouth,Gardner-Webb,RECEIVING,Darren,Ambush,REC,6
+9950042,11/19/2016,FCS,Monmouth,Gardner-Webb,RECEIVING,Darren,Ambush,YDS,26
+9950043,11/19/2016,FCS,Monmouth,Gardner-Webb,RECEIVING,Darren,Ambush,TD,0
+9950044,11/19/2016,FCS,Monmouth,Gardner-Webb,RECEIVING,Darren,Ambush,LONG,7
+9950045,11/19/2016,FCS,Monmouth,Gardner-Webb,RECEIVING,Lavon,Chaney,REC,3
+9950046,11/19/2016,FCS,Monmouth,Gardner-Webb,RECEIVING,Lavon,Chaney,YDS,16
+9950047,11/19/2016,FCS,Monmouth,Gardner-Webb,RECEIVING,Lavon,Chaney,TD,0
+9950048,11/19/2016,FCS,Monmouth,Gardner-Webb,RECEIVING,Lavon,Chaney,LONG,15
+9950049,11/19/2016,FCS,Monmouth,Gardner-Webb,RECEIVING,Gabe,Hemighaus,REC,1
+9950050,11/19/2016,FCS,Monmouth,Gardner-Webb,RECEIVING,Gabe,Hemighaus,YDS,10
+9950051,11/19/2016,FCS,Monmouth,Gardner-Webb,RECEIVING,Gabe,Hemighaus,TD,0
+9950052,11/19/2016,FCS,Monmouth,Gardner-Webb,RECEIVING,Gabe,Hemighaus,LONG,10
+9950053,11/19/2016,FCS,Monmouth,Gardner-Webb,RECEIVING,Vinny,Grasso,REC,2
+9950054,11/19/2016,FCS,Monmouth,Gardner-Webb,RECEIVING,Vinny,Grasso,YDS,8
+9950055,11/19/2016,FCS,Monmouth,Gardner-Webb,RECEIVING,Vinny,Grasso,TD,0
+9950056,11/19/2016,FCS,Monmouth,Gardner-Webb,RECEIVING,Vinny,Grasso,LONG,5
+9950057,11/19/2016,FCS,Monmouth,Gardner-Webb,KICKING,Matt,White,FG-FGA,0/0
+9950058,11/19/2016,FCS,Monmouth,Gardner-Webb,KICKING,Matt,White,LONG,-
+9950059,11/19/2016,FCS,Monmouth,Gardner-Webb,KICKING,Matt,White,XP,3
+9950060,11/19/2016,FCS,Monmouth,Gardner-Webb,KICKING,Matt,White,PTS,3
+9950061,11/19/2016,FCS,Monmouth,Gardner-Webb,PUNTING,Matt,White,NO,2
+9950062,11/19/2016,FCS,Monmouth,Gardner-Webb,PUNTING,Matt,White,YDS,68
+9950063,11/19/2016,FCS,Monmouth,Gardner-Webb,PUNTING,Matt,White,AVG,34.0
+9950064,11/19/2016,FCS,Monmouth,Gardner-Webb,PUNTING,Matt,White,LONG,36
+9950065,11/19/2016,FCS,Monmouth,Gardner-Webb,PUNT RETURNS,Vinny,Grasso,NO,1
+9950066,11/19/2016,FCS,Monmouth,Gardner-Webb,PUNT RETURNS,Vinny,Grasso,YDS,16
+9950067,11/19/2016,FCS,Monmouth,Gardner-Webb,PUNT RETURNS,Vinny,Grasso,AVG,16.0
+9950068,11/19/2016,FCS,Monmouth,Gardner-Webb,PUNT RETURNS,Vinny,Grasso,LONG,16
+9950069,11/19/2016,FCS,Monmouth,Gardner-Webb,KICK RETURNS,Darren,Ambush,NO,4
+9950070,11/19/2016,FCS,Monmouth,Gardner-Webb,KICK RETURNS,Darren,Ambush,YDS,83
+9950071,11/19/2016,FCS,Monmouth,Gardner-Webb,KICK RETURNS,Darren,Ambush,AVG,20.8
+9950072,11/19/2016,FCS,Monmouth,Gardner-Webb,KICK RETURNS,Darren,Ambush,LONG,40
+9950073,11/19/2016,FCS,Gardner-Webb,Monmouth,RUSHING,Tyrell,Maxwell,ATT,22
+9950074,11/19/2016,FCS,Gardner-Webb,Monmouth,RUSHING,Tyrell,Maxwell,YDS,112
+9950075,11/19/2016,FCS,Gardner-Webb,Monmouth,RUSHING,Tyrell,Maxwell,TD,1
+9950076,11/19/2016,FCS,Gardner-Webb,Monmouth,RUSHING,Tyrell,Maxwell,LONG,26
+9950077,11/19/2016,FCS,Gardner-Webb,Monmouth,RUSHING,Khalil,Lewis,ATT,22
+9950078,11/19/2016,FCS,Gardner-Webb,Monmouth,RUSHING,Khalil,Lewis,YDS,91
+9950079,11/19/2016,FCS,Gardner-Webb,Monmouth,RUSHING,Khalil,Lewis,TD,2
+9950080,11/19/2016,FCS,Gardner-Webb,Monmouth,RUSHING,Khalil,Lewis,LONG,14
+9950081,11/19/2016,FCS,Gardner-Webb,Monmouth,RUSHING,Jayln,Cagle,ATT,10
+9950082,11/19/2016,FCS,Gardner-Webb,Monmouth,RUSHING,Jayln,Cagle,YDS,49
+9950083,11/19/2016,FCS,Gardner-Webb,Monmouth,RUSHING,Jayln,Cagle,TD,1
+9950084,11/19/2016,FCS,Gardner-Webb,Monmouth,RUSHING,Jayln,Cagle,LONG,18
+9950085,11/19/2016,FCS,Gardner-Webb,Monmouth,RUSHING,Elijah,Perry,ATT,1
+9950086,11/19/2016,FCS,Gardner-Webb,Monmouth,RUSHING,Elijah,Perry,YDS,3
+9950087,11/19/2016,FCS,Gardner-Webb,Monmouth,RUSHING,Elijah,Perry,TD,0
+9950088,11/19/2016,FCS,Gardner-Webb,Monmouth,RUSHING,Elijah,Perry,LONG,3
+9950089,11/19/2016,FCS,Gardner-Webb,Monmouth,RUSHING,,Team,ATT,2
+9950090,11/19/2016,FCS,Gardner-Webb,Monmouth,RUSHING,,Team,YDS,-9
+9950091,11/19/2016,FCS,Gardner-Webb,Monmouth,RUSHING,,Team,TD,0
+9950092,11/19/2016,FCS,Gardner-Webb,Monmouth,RUSHING,,Team,LONG,0
+9950093,11/19/2016,FCS,Gardner-Webb,Monmouth,PASSING,Tyrell,Maxwell,CP-ATT-INT,16-22-0
+9950094,11/19/2016,FCS,Gardner-Webb,Monmouth,PASSING,Tyrell,Maxwell,YDS,155
+9950095,11/19/2016,FCS,Gardner-Webb,Monmouth,PASSING,Tyrell,Maxwell,TD,0
+9950096,11/19/2016,FCS,Gardner-Webb,Monmouth,PASSING,Tyrell,Maxwell,LONG,16
+9950097,11/19/2016,FCS,Gardner-Webb,Monmouth,RECEIVING,Mike,Estes,REC,5
+9950098,11/19/2016,FCS,Gardner-Webb,Monmouth,RECEIVING,Mike,Estes,YDS,64
+9950099,11/19/2016,FCS,Gardner-Webb,Monmouth,RECEIVING,Mike,Estes,TD,0
+9950100,11/19/2016,FCS,Gardner-Webb,Monmouth,RECEIVING,Mike,Estes,LONG,15
+9950101,11/19/2016,FCS,Gardner-Webb,Monmouth,RECEIVING,Kyle,Horton,REC,4
+9950102,11/19/2016,FCS,Gardner-Webb,Monmouth,RECEIVING,Kyle,Horton,YDS,17
+9950103,11/19/2016,FCS,Gardner-Webb,Monmouth,RECEIVING,Kyle,Horton,TD,0
+9950104,11/19/2016,FCS,Gardner-Webb,Monmouth,RECEIVING,Kyle,Horton,LONG,9
+9950105,11/19/2016,FCS,Gardner-Webb,Monmouth,RECEIVING,Adonus,Lee,REC,1
+9950106,11/19/2016,FCS,Gardner-Webb,Monmouth,RECEIVING,Adonus,Lee,YDS,16
+9950107,11/19/2016,FCS,Gardner-Webb,Monmouth,RECEIVING,Adonus,Lee,TD,0
+9950108,11/19/2016,FCS,Gardner-Webb,Monmouth,RECEIVING,Adonus,Lee,LONG,16
+9950109,11/19/2016,FCS,Gardner-Webb,Monmouth,RECEIVING,Ralph,Jolly,REC,1
+9950110,11/19/2016,FCS,Gardner-Webb,Monmouth,RECEIVING,Ralph,Jolly,YDS,16
+9950111,11/19/2016,FCS,Gardner-Webb,Monmouth,RECEIVING,Ralph,Jolly,TD,0
+9950112,11/19/2016,FCS,Gardner-Webb,Monmouth,RECEIVING,Ralph,Jolly,LONG,16
+9950113,11/19/2016,FCS,Gardner-Webb,Monmouth,RECEIVING,Willie,JacksonIV,REC,2
+9950114,11/19/2016,FCS,Gardner-Webb,Monmouth,RECEIVING,Willie,JacksonIV,YDS,15
+9950115,11/19/2016,FCS,Gardner-Webb,Monmouth,RECEIVING,Willie,JacksonIV,TD,0
+9950116,11/19/2016,FCS,Gardner-Webb,Monmouth,RECEIVING,Willie,JacksonIV,LONG,9
+9950117,11/19/2016,FCS,Gardner-Webb,Monmouth,RECEIVING,Jacob,Henderson,REC,1
+9950118,11/19/2016,FCS,Gardner-Webb,Monmouth,RECEIVING,Jacob,Henderson,YDS,14
+9950119,11/19/2016,FCS,Gardner-Webb,Monmouth,RECEIVING,Jacob,Henderson,TD,0
+9950120,11/19/2016,FCS,Gardner-Webb,Monmouth,RECEIVING,Jacob,Henderson,LONG,14
+9950121,11/19/2016,FCS,Gardner-Webb,Monmouth,RECEIVING,Tyrell,Maxwell,REC,1
+9950122,11/19/2016,FCS,Gardner-Webb,Monmouth,RECEIVING,Tyrell,Maxwell,YDS,7
+9950123,11/19/2016,FCS,Gardner-Webb,Monmouth,RECEIVING,Tyrell,Maxwell,TD,0
+9950124,11/19/2016,FCS,Gardner-Webb,Monmouth,RECEIVING,Tyrell,Maxwell,LONG,7
+9950125,11/19/2016,FCS,Gardner-Webb,Monmouth,RECEIVING,Khalil,Lewis,REC,1
+9950126,11/19/2016,FCS,Gardner-Webb,Monmouth,RECEIVING,Khalil,Lewis,YDS,6
+9950127,11/19/2016,FCS,Gardner-Webb,Monmouth,RECEIVING,Khalil,Lewis,TD,0
+9950128,11/19/2016,FCS,Gardner-Webb,Monmouth,RECEIVING,Khalil,Lewis,LONG,6
+9950129,11/19/2016,FCS,Gardner-Webb,Monmouth,KICKING,Paul,Schumacher,FG-FGA,2/2
+9950130,11/19/2016,FCS,Gardner-Webb,Monmouth,KICKING,Paul,Schumacher,LONG,34
+9950131,11/19/2016,FCS,Gardner-Webb,Monmouth,KICKING,Paul,Schumacher,XP,4
+9950132,11/19/2016,FCS,Gardner-Webb,Monmouth,KICKING,Paul,Schumacher,PTS,10
+9950133,11/19/2016,FCS,Gardner-Webb,Monmouth,PUNTING,Andrew,Komornik,NO,4
+9950134,11/19/2016,FCS,Gardner-Webb,Monmouth,PUNTING,Andrew,Komornik,YDS,172
+9950135,11/19/2016,FCS,Gardner-Webb,Monmouth,PUNTING,Andrew,Komornik,AVG,43.0
+9950136,11/19/2016,FCS,Gardner-Webb,Monmouth,PUNTING,Andrew,Komornik,LONG,53
+9950137,11/19/2016,FCS,Gardner-Webb,Monmouth,PUNT RETURNS,Jacob,Henderson,NO,1
+9950138,11/19/2016,FCS,Gardner-Webb,Monmouth,PUNT RETURNS,Jacob,Henderson,YDS,4
+9950139,11/19/2016,FCS,Gardner-Webb,Monmouth,PUNT RETURNS,Jacob,Henderson,AVG,4.0
+9950140,11/19/2016,FCS,Gardner-Webb,Monmouth,PUNT RETURNS,Jacob,Henderson,LONG,4
+9950141,11/19/2016,FCS,Gardner-Webb,Monmouth,PUNT RETURNS,Kyle,Horton,NO,1
+9950142,11/19/2016,FCS,Gardner-Webb,Monmouth,PUNT RETURNS,Kyle,Horton,YDS,0
+9950143,11/19/2016,FCS,Gardner-Webb,Monmouth,PUNT RETURNS,Kyle,Horton,AVG,-
+9950144,11/19/2016,FCS,Gardner-Webb,Monmouth,PUNT RETURNS,Kyle,Horton,LONG,0
+9950145,11/19/2016,FCS,Gardner-Webb,Monmouth,KICK RETURNS,Jayln,Cagle,NO,1
+9950146,11/19/2016,FCS,Gardner-Webb,Monmouth,KICK RETURNS,Jayln,Cagle,YDS,19
+9950147,11/19/2016,FCS,Gardner-Webb,Monmouth,KICK RETURNS,Jayln,Cagle,AVG,19.0
+9950148,11/19/2016,FCS,Gardner-Webb,Monmouth,KICK RETURNS,Jayln,Cagle,LONG,19
+9950149,11/19/2016,FCS,Gardner-Webb,Monmouth,KICK RETURNS,Robert,McKoy,NO,1
+9950150,11/19/2016,FCS,Gardner-Webb,Monmouth,KICK RETURNS,Robert,McKoy,YDS,14
+9950151,11/19/2016,FCS,Gardner-Webb,Monmouth,KICK RETURNS,Robert,McKoy,AVG,14.0
+9950152,11/19/2016,FCS,Gardner-Webb,Monmouth,KICK RETURNS,Robert,McKoy,LONG,14

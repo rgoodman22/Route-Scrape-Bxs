@@ -1,0 +1,85 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+10019001,8/31/2017,FCS,Campbell,Methodist,RUSHING,Joshua,Jones,ATT,19
+10019002,8/31/2017,FCS,Campbell,Methodist,RUSHING,Joshua,Jones,YDS,111
+10019003,8/31/2017,FCS,Campbell,Methodist,RUSHING,Joshua,Jones,TD,1
+10019004,8/31/2017,FCS,Campbell,Methodist,RUSHING,Joshua,Jones,LONG,13
+10019005,8/31/2017,FCS,Campbell,Methodist,RUSHING,Daniel,Smith,ATT,5
+10019006,8/31/2017,FCS,Campbell,Methodist,RUSHING,Daniel,Smith,YDS,61
+10019007,8/31/2017,FCS,Campbell,Methodist,RUSHING,Daniel,Smith,TD,1
+10019008,8/31/2017,FCS,Campbell,Methodist,RUSHING,Daniel,Smith,LONG,20
+10019009,8/31/2017,FCS,Campbell,Methodist,RUSHING,Kahlil,Dixon,ATT,12
+10019010,8/31/2017,FCS,Campbell,Methodist,RUSHING,Kahlil,Dixon,YDS,59
+10019011,8/31/2017,FCS,Campbell,Methodist,RUSHING,Kahlil,Dixon,TD,0
+10019012,8/31/2017,FCS,Campbell,Methodist,RUSHING,Kahlil,Dixon,LONG,11
+10019013,8/31/2017,FCS,Campbell,Methodist,RUSHING,Sammie,Cunningham,ATT,8
+10019014,8/31/2017,FCS,Campbell,Methodist,RUSHING,Sammie,Cunningham,YDS,29
+10019015,8/31/2017,FCS,Campbell,Methodist,RUSHING,Sammie,Cunningham,TD,1
+10019016,8/31/2017,FCS,Campbell,Methodist,RUSHING,Sammie,Cunningham,LONG,9
+10019017,8/31/2017,FCS,Campbell,Methodist,RUSHING,Anthony,Robbins,ATT,2
+10019018,8/31/2017,FCS,Campbell,Methodist,RUSHING,Anthony,Robbins,YDS,6
+10019019,8/31/2017,FCS,Campbell,Methodist,RUSHING,Anthony,Robbins,TD,1
+10019020,8/31/2017,FCS,Campbell,Methodist,RUSHING,Anthony,Robbins,LONG,24
+10019021,8/31/2017,FCS,Campbell,Methodist,RUSHING,Darius,Barnes,ATT,2
+10019022,8/31/2017,FCS,Campbell,Methodist,RUSHING,Darius,Barnes,YDS,6
+10019023,8/31/2017,FCS,Campbell,Methodist,RUSHING,Darius,Barnes,TD,0
+10019024,8/31/2017,FCS,Campbell,Methodist,RUSHING,Darius,Barnes,LONG,5
+10019025,8/31/2017,FCS,Campbell,Methodist,RUSHING,,Team,ATT,3
+10019026,8/31/2017,FCS,Campbell,Methodist,RUSHING,,Team,YDS,-11
+10019027,8/31/2017,FCS,Campbell,Methodist,RUSHING,,Team,TD,0
+10019028,8/31/2017,FCS,Campbell,Methodist,RUSHING,,Team,LONG,0
+10019029,8/31/2017,FCS,Campbell,Methodist,PASSING,Daniel,Smith,CP-ATT-INT,5-7-0
+10019030,8/31/2017,FCS,Campbell,Methodist,PASSING,Daniel,Smith,YDS,106
+10019031,8/31/2017,FCS,Campbell,Methodist,PASSING,Daniel,Smith,TD,2
+10019032,8/31/2017,FCS,Campbell,Methodist,PASSING,Daniel,Smith,LONG,71
+10019033,8/31/2017,FCS,Campbell,Methodist,PASSING,Anthony,Robbins,CP-ATT-INT,2-5-0
+10019034,8/31/2017,FCS,Campbell,Methodist,PASSING,Anthony,Robbins,YDS,67
+10019035,8/31/2017,FCS,Campbell,Methodist,PASSING,Anthony,Robbins,TD,2
+10019036,8/31/2017,FCS,Campbell,Methodist,PASSING,Anthony,Robbins,LONG,34
+10019037,8/31/2017,FCS,Campbell,Methodist,RECEIVING,Aaron,Blockmon,REC,2
+10019038,8/31/2017,FCS,Campbell,Methodist,RECEIVING,Aaron,Blockmon,YDS,105
+10019039,8/31/2017,FCS,Campbell,Methodist,RECEIVING,Aaron,Blockmon,TD,1
+10019040,8/31/2017,FCS,Campbell,Methodist,RECEIVING,Aaron,Blockmon,LONG,71
+10019041,8/31/2017,FCS,Campbell,Methodist,RECEIVING,Michael,Wooten,REC,1
+10019042,8/31/2017,FCS,Campbell,Methodist,RECEIVING,Michael,Wooten,YDS,33
+10019043,8/31/2017,FCS,Campbell,Methodist,RECEIVING,Michael,Wooten,TD,1
+10019044,8/31/2017,FCS,Campbell,Methodist,RECEIVING,Michael,Wooten,LONG,33
+10019045,8/31/2017,FCS,Campbell,Methodist,RECEIVING,Bryan,Bailey,REC,1
+10019046,8/31/2017,FCS,Campbell,Methodist,RECEIVING,Bryan,Bailey,YDS,18
+10019047,8/31/2017,FCS,Campbell,Methodist,RECEIVING,Bryan,Bailey,TD,1
+10019048,8/31/2017,FCS,Campbell,Methodist,RECEIVING,Bryan,Bailey,LONG,18
+10019049,8/31/2017,FCS,Campbell,Methodist,RECEIVING,Zach,Roderick,REC,1
+10019050,8/31/2017,FCS,Campbell,Methodist,RECEIVING,Zach,Roderick,YDS,7
+10019051,8/31/2017,FCS,Campbell,Methodist,RECEIVING,Zach,Roderick,TD,1
+10019052,8/31/2017,FCS,Campbell,Methodist,RECEIVING,Zach,Roderick,LONG,7
+10019053,8/31/2017,FCS,Campbell,Methodist,RECEIVING,Joshua,Jones,REC,1
+10019054,8/31/2017,FCS,Campbell,Methodist,RECEIVING,Joshua,Jones,YDS,6
+10019055,8/31/2017,FCS,Campbell,Methodist,RECEIVING,Joshua,Jones,TD,0
+10019056,8/31/2017,FCS,Campbell,Methodist,RECEIVING,Joshua,Jones,LONG,6
+10019057,8/31/2017,FCS,Campbell,Methodist,RECEIVING,Jake,Kemp,REC,1
+10019058,8/31/2017,FCS,Campbell,Methodist,RECEIVING,Jake,Kemp,YDS,4
+10019059,8/31/2017,FCS,Campbell,Methodist,RECEIVING,Jake,Kemp,TD,0
+10019060,8/31/2017,FCS,Campbell,Methodist,RECEIVING,Jake,Kemp,LONG,4
+10019061,8/31/2017,FCS,Campbell,Methodist,KICKING,Mitchell,Brown,FG-FGA,0/0
+10019062,8/31/2017,FCS,Campbell,Methodist,KICKING,Mitchell,Brown,LONG,-
+10019063,8/31/2017,FCS,Campbell,Methodist,KICKING,Mitchell,Brown,XP,7
+10019064,8/31/2017,FCS,Campbell,Methodist,KICKING,Mitchell,Brown,PTS,7
+10019065,8/31/2017,FCS,Campbell,Methodist,KICKING,Colin,Gary,FG-FGA,0/0
+10019066,8/31/2017,FCS,Campbell,Methodist,KICKING,Colin,Gary,LONG,-
+10019067,8/31/2017,FCS,Campbell,Methodist,KICKING,Colin,Gary,XP,3
+10019068,8/31/2017,FCS,Campbell,Methodist,KICKING,Colin,Gary,PTS,3
+10019069,8/31/2017,FCS,Campbell,Methodist,PUNTING,Brad,Dennis,NO,1
+10019070,8/31/2017,FCS,Campbell,Methodist,PUNTING,Brad,Dennis,YDS,43
+10019071,8/31/2017,FCS,Campbell,Methodist,PUNTING,Brad,Dennis,AVG,43.0
+10019072,8/31/2017,FCS,Campbell,Methodist,PUNTING,Brad,Dennis,LONG,43
+10019073,8/31/2017,FCS,Campbell,Methodist,PUNT RETURNS,Jaquan,Brooks,NO,5
+10019074,8/31/2017,FCS,Campbell,Methodist,PUNT RETURNS,Jaquan,Brooks,YDS,141
+10019075,8/31/2017,FCS,Campbell,Methodist,PUNT RETURNS,Jaquan,Brooks,AVG,28.2
+10019076,8/31/2017,FCS,Campbell,Methodist,PUNT RETURNS,Jaquan,Brooks,LONG,54
+10019077,8/31/2017,FCS,Campbell,Methodist,PUNT RETURNS,Blake,Flemming,NO,1
+10019078,8/31/2017,FCS,Campbell,Methodist,PUNT RETURNS,Blake,Flemming,YDS,8
+10019079,8/31/2017,FCS,Campbell,Methodist,PUNT RETURNS,Blake,Flemming,AVG,8.0
+10019080,8/31/2017,FCS,Campbell,Methodist,PUNT RETURNS,Blake,Flemming,LONG,8
+10019081,8/31/2017,FCS,Campbell,Methodist,KICK RETURNS,Trey,Sanders,NO,1
+10019082,8/31/2017,FCS,Campbell,Methodist,KICK RETURNS,Trey,Sanders,YDS,42
+10019083,8/31/2017,FCS,Campbell,Methodist,KICK RETURNS,Trey,Sanders,AVG,42.0
+10019084,8/31/2017,FCS,Campbell,Methodist,KICK RETURNS,Trey,Sanders,LONG,42

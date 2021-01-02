@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9232001,9/2/2016,FCS,Colgate,Syracuse,RUSHING,James,Holland,ATT,14
+9232002,9/2/2016,FCS,Colgate,Syracuse,RUSHING,James,Holland,YDS,45
+9232003,9/2/2016,FCS,Colgate,Syracuse,RUSHING,James,Holland,TD,0
+9232004,9/2/2016,FCS,Colgate,Syracuse,RUSHING,James,Holland,LONG,12
+9232005,9/2/2016,FCS,Colgate,Syracuse,RUSHING,Jake,Melville,ATT,11
+9232006,9/2/2016,FCS,Colgate,Syracuse,RUSHING,Jake,Melville,YDS,10
+9232007,9/2/2016,FCS,Colgate,Syracuse,RUSHING,Jake,Melville,TD,0
+9232008,9/2/2016,FCS,Colgate,Syracuse,RUSHING,Jake,Melville,LONG,6
+9232009,9/2/2016,FCS,Colgate,Syracuse,RUSHING,John,Wilkins,ATT,1
+9232010,9/2/2016,FCS,Colgate,Syracuse,RUSHING,John,Wilkins,YDS,0
+9232011,9/2/2016,FCS,Colgate,Syracuse,RUSHING,John,Wilkins,TD,0
+9232012,9/2/2016,FCS,Colgate,Syracuse,RUSHING,John,Wilkins,LONG,0
+9232013,9/2/2016,FCS,Colgate,Syracuse,RUSHING,Connor,Wingenroth,ATT,1
+9232014,9/2/2016,FCS,Colgate,Syracuse,RUSHING,Connor,Wingenroth,YDS,0
+9232015,9/2/2016,FCS,Colgate,Syracuse,RUSHING,Connor,Wingenroth,TD,0
+9232016,9/2/2016,FCS,Colgate,Syracuse,RUSHING,Connor,Wingenroth,LONG,0
+9232017,9/2/2016,FCS,Colgate,Syracuse,RUSHING,Alex,Mathews,ATT,1
+9232018,9/2/2016,FCS,Colgate,Syracuse,RUSHING,Alex,Mathews,YDS,-1
+9232019,9/2/2016,FCS,Colgate,Syracuse,RUSHING,Alex,Mathews,TD,0
+9232020,9/2/2016,FCS,Colgate,Syracuse,RUSHING,Alex,Mathews,LONG,-1
+9232021,9/2/2016,FCS,Colgate,Syracuse,RUSHING,,Team,ATT,1
+9232022,9/2/2016,FCS,Colgate,Syracuse,RUSHING,,Team,YDS,-4
+9232023,9/2/2016,FCS,Colgate,Syracuse,RUSHING,,Team,TD,0
+9232024,9/2/2016,FCS,Colgate,Syracuse,RUSHING,,Team,LONG,-4
+9232025,9/2/2016,FCS,Colgate,Syracuse,RUSHING,Sage,Attwood,ATT,3
+9232026,9/2/2016,FCS,Colgate,Syracuse,RUSHING,Sage,Attwood,YDS,-5
+9232027,9/2/2016,FCS,Colgate,Syracuse,RUSHING,Sage,Attwood,TD,0
+9232028,9/2/2016,FCS,Colgate,Syracuse,RUSHING,Sage,Attwood,LONG,3
+9232029,9/2/2016,FCS,Colgate,Syracuse,PASSING,Jake,Melville,CP-ATT-INT,10-22-0
+9232030,9/2/2016,FCS,Colgate,Syracuse,PASSING,Jake,Melville,YDS,82
+9232031,9/2/2016,FCS,Colgate,Syracuse,PASSING,Jake,Melville,TD,1
+9232032,9/2/2016,FCS,Colgate,Syracuse,PASSING,Jake,Melville,LONG,19
+9232033,9/2/2016,FCS,Colgate,Syracuse,PASSING,Sage,Attwood,CP-ATT-INT,1-2-0
+9232034,9/2/2016,FCS,Colgate,Syracuse,PASSING,Sage,Attwood,YDS,16
+9232035,9/2/2016,FCS,Colgate,Syracuse,PASSING,Sage,Attwood,TD,0
+9232036,9/2/2016,FCS,Colgate,Syracuse,PASSING,Sage,Attwood,LONG,16
+9232037,9/2/2016,FCS,Colgate,Syracuse,RECEIVING,Owen,Rockett,REC,2
+9232038,9/2/2016,FCS,Colgate,Syracuse,RECEIVING,Owen,Rockett,YDS,35
+9232039,9/2/2016,FCS,Colgate,Syracuse,RECEIVING,Owen,Rockett,TD,1
+9232040,9/2/2016,FCS,Colgate,Syracuse,RECEIVING,Owen,Rockett,LONG,19
+9232041,9/2/2016,FCS,Colgate,Syracuse,RECEIVING,John,Maddaluna,REC,4
+9232042,9/2/2016,FCS,Colgate,Syracuse,RECEIVING,John,Maddaluna,YDS,31
+9232043,9/2/2016,FCS,Colgate,Syracuse,RECEIVING,John,Maddaluna,TD,0
+9232044,9/2/2016,FCS,Colgate,Syracuse,RECEIVING,John,Maddaluna,LONG,13
+9232045,9/2/2016,FCS,Colgate,Syracuse,RECEIVING,Alex,Greenawalt,REC,2
+9232046,9/2/2016,FCS,Colgate,Syracuse,RECEIVING,Alex,Greenawalt,YDS,22
+9232047,9/2/2016,FCS,Colgate,Syracuse,RECEIVING,Alex,Greenawalt,TD,0
+9232048,9/2/2016,FCS,Colgate,Syracuse,RECEIVING,Alex,Greenawalt,LONG,14
+9232049,9/2/2016,FCS,Colgate,Syracuse,RECEIVING,Nick,Martinsen,REC,3
+9232050,9/2/2016,FCS,Colgate,Syracuse,RECEIVING,Nick,Martinsen,YDS,10
+9232051,9/2/2016,FCS,Colgate,Syracuse,RECEIVING,Nick,Martinsen,TD,0
+9232052,9/2/2016,FCS,Colgate,Syracuse,RECEIVING,Nick,Martinsen,LONG,7
+9232053,9/2/2016,FCS,Colgate,Syracuse,KICKING,Jonah,Bowman,FG-FGA,0/0
+9232054,9/2/2016,FCS,Colgate,Syracuse,KICKING,Jonah,Bowman,LONG,-
+9232055,9/2/2016,FCS,Colgate,Syracuse,KICKING,Jonah,Bowman,XP,1
+9232056,9/2/2016,FCS,Colgate,Syracuse,KICKING,Jonah,Bowman,PTS,1
+9232057,9/2/2016,FCS,Colgate,Syracuse,PUNTING,Josh,Cerra,NO,10
+9232058,9/2/2016,FCS,Colgate,Syracuse,PUNTING,Josh,Cerra,YDS,408
+9232059,9/2/2016,FCS,Colgate,Syracuse,PUNTING,Josh,Cerra,AVG,40.8
+9232060,9/2/2016,FCS,Colgate,Syracuse,PUNTING,Josh,Cerra,LONG,56
+9232061,9/2/2016,FCS,Colgate,Syracuse,PUNT RETURNS,Abu,Daramy,NO,1
+9232062,9/2/2016,FCS,Colgate,Syracuse,PUNT RETURNS,Abu,Daramy,YDS,9
+9232063,9/2/2016,FCS,Colgate,Syracuse,PUNT RETURNS,Abu,Daramy,AVG,9.0
+9232064,9/2/2016,FCS,Colgate,Syracuse,PUNT RETURNS,Abu,Daramy,LONG,9
+9232065,9/2/2016,FCS,Colgate,Syracuse,KICK RETURNS,Abu,Daramy,NO,6
+9232066,9/2/2016,FCS,Colgate,Syracuse,KICK RETURNS,Abu,Daramy,YDS,125
+9232067,9/2/2016,FCS,Colgate,Syracuse,KICK RETURNS,Abu,Daramy,AVG,20.8
+9232068,9/2/2016,FCS,Colgate,Syracuse,KICK RETURNS,Abu,Daramy,LONG,24
+9232069,9/2/2016,FCS,Syracuse,Colgate,RUSHING,Moe,Neal,ATT,9
+9232070,9/2/2016,FCS,Syracuse,Colgate,RUSHING,Moe,Neal,YDS,68
+9232071,9/2/2016,FCS,Syracuse,Colgate,RUSHING,Moe,Neal,TD,1
+9232072,9/2/2016,FCS,Syracuse,Colgate,RUSHING,Moe,Neal,LONG,49
+9232073,9/2/2016,FCS,Syracuse,Colgate,RUSHING,Eric,Dungey,ATT,10
+9232074,9/2/2016,FCS,Syracuse,Colgate,RUSHING,Eric,Dungey,YDS,25
+9232075,9/2/2016,FCS,Syracuse,Colgate,RUSHING,Eric,Dungey,TD,0
+9232076,9/2/2016,FCS,Syracuse,Colgate,RUSHING,Eric,Dungey,LONG,12
+9232077,9/2/2016,FCS,Syracuse,Colgate,RUSHING,Dontae,Strickland,ATT,9
+9232078,9/2/2016,FCS,Syracuse,Colgate,RUSHING,Dontae,Strickland,YDS,20
+9232079,9/2/2016,FCS,Syracuse,Colgate,RUSHING,Dontae,Strickland,TD,0
+9232080,9/2/2016,FCS,Syracuse,Colgate,RUSHING,Dontae,Strickland,LONG,7
+9232081,9/2/2016,FCS,Syracuse,Colgate,RUSHING,Jordan,Fredericks,ATT,4
+9232082,9/2/2016,FCS,Syracuse,Colgate,RUSHING,Jordan,Fredericks,YDS,10
+9232083,9/2/2016,FCS,Syracuse,Colgate,RUSHING,Jordan,Fredericks,TD,0
+9232084,9/2/2016,FCS,Syracuse,Colgate,RUSHING,Jordan,Fredericks,LONG,4
+9232085,9/2/2016,FCS,Syracuse,Colgate,RUSHING,Zack,Mahoney,ATT,3
+9232086,9/2/2016,FCS,Syracuse,Colgate,RUSHING,Zack,Mahoney,YDS,-6
+9232087,9/2/2016,FCS,Syracuse,Colgate,RUSHING,Zack,Mahoney,TD,0
+9232088,9/2/2016,FCS,Syracuse,Colgate,RUSHING,Zack,Mahoney,LONG,4
+9232089,9/2/2016,FCS,Syracuse,Colgate,PASSING,Eric,Dungey,CP-ATT-INT,34-40-0
+9232090,9/2/2016,FCS,Syracuse,Colgate,PASSING,Eric,Dungey,YDS,355
+9232091,9/2/2016,FCS,Syracuse,Colgate,PASSING,Eric,Dungey,TD,2
+9232092,9/2/2016,FCS,Syracuse,Colgate,PASSING,Eric,Dungey,LONG,43
+9232093,9/2/2016,FCS,Syracuse,Colgate,PASSING,Zack,Mahoney,CP-ATT-INT,6-6-0
+9232094,9/2/2016,FCS,Syracuse,Colgate,PASSING,Zack,Mahoney,YDS,82
+9232095,9/2/2016,FCS,Syracuse,Colgate,PASSING,Zack,Mahoney,TD,0
+9232096,9/2/2016,FCS,Syracuse,Colgate,PASSING,Zack,Mahoney,LONG,35
+9232097,9/2/2016,FCS,Syracuse,Colgate,RECEIVING,Amba,Etta-Tawo,REC,12
+9232098,9/2/2016,FCS,Syracuse,Colgate,RECEIVING,Amba,Etta-Tawo,YDS,210
+9232099,9/2/2016,FCS,Syracuse,Colgate,RECEIVING,Amba,Etta-Tawo,TD,1
+9232100,9/2/2016,FCS,Syracuse,Colgate,RECEIVING,Amba,Etta-Tawo,LONG,43
+9232101,9/2/2016,FCS,Syracuse,Colgate,RECEIVING,Ervin,Philips,REC,14
+9232102,9/2/2016,FCS,Syracuse,Colgate,RECEIVING,Ervin,Philips,YDS,87
+9232103,9/2/2016,FCS,Syracuse,Colgate,RECEIVING,Ervin,Philips,TD,1
+9232104,9/2/2016,FCS,Syracuse,Colgate,RECEIVING,Ervin,Philips,LONG,12
+9232105,9/2/2016,FCS,Syracuse,Colgate,RECEIVING,Sean,Riley,REC,4
+9232106,9/2/2016,FCS,Syracuse,Colgate,RECEIVING,Sean,Riley,YDS,44
+9232107,9/2/2016,FCS,Syracuse,Colgate,RECEIVING,Sean,Riley,TD,0
+9232108,9/2/2016,FCS,Syracuse,Colgate,RECEIVING,Sean,Riley,LONG,27
+9232109,9/2/2016,FCS,Syracuse,Colgate,RECEIVING,Steve,Ishmael,REC,6
+9232110,9/2/2016,FCS,Syracuse,Colgate,RECEIVING,Steve,Ishmael,YDS,36
+9232111,9/2/2016,FCS,Syracuse,Colgate,RECEIVING,Steve,Ishmael,TD,0
+9232112,9/2/2016,FCS,Syracuse,Colgate,RECEIVING,Steve,Ishmael,LONG,11
+9232113,9/2/2016,FCS,Syracuse,Colgate,RECEIVING,Adly,Enoicy,REC,1
+9232114,9/2/2016,FCS,Syracuse,Colgate,RECEIVING,Adly,Enoicy,YDS,35
+9232115,9/2/2016,FCS,Syracuse,Colgate,RECEIVING,Adly,Enoicy,TD,0
+9232116,9/2/2016,FCS,Syracuse,Colgate,RECEIVING,Adly,Enoicy,LONG,35
+9232117,9/2/2016,FCS,Syracuse,Colgate,RECEIVING,Brisly,Estime,REC,3
+9232118,9/2/2016,FCS,Syracuse,Colgate,RECEIVING,Brisly,Estime,YDS,25
+9232119,9/2/2016,FCS,Syracuse,Colgate,RECEIVING,Brisly,Estime,TD,0
+9232120,9/2/2016,FCS,Syracuse,Colgate,RECEIVING,Brisly,Estime,LONG,20
+9232121,9/2/2016,FCS,Syracuse,Colgate,KICKING,Cole,Murphy,FG-FGA,4/4
+9232122,9/2/2016,FCS,Syracuse,Colgate,KICKING,Cole,Murphy,LONG,41
+9232123,9/2/2016,FCS,Syracuse,Colgate,KICKING,Cole,Murphy,XP,3
+9232124,9/2/2016,FCS,Syracuse,Colgate,KICKING,Cole,Murphy,PTS,15
+9232125,9/2/2016,FCS,Syracuse,Colgate,PUNTING,Sterling,Hofrichter,NO,3
+9232126,9/2/2016,FCS,Syracuse,Colgate,PUNTING,Sterling,Hofrichter,YDS,136
+9232127,9/2/2016,FCS,Syracuse,Colgate,PUNTING,Sterling,Hofrichter,AVG,45.3
+9232128,9/2/2016,FCS,Syracuse,Colgate,PUNTING,Sterling,Hofrichter,LONG,47
+9232129,9/2/2016,FCS,Syracuse,Colgate,PUNT RETURNS,Brisly,Estime,NO,2
+9232130,9/2/2016,FCS,Syracuse,Colgate,PUNT RETURNS,Brisly,Estime,YDS,21
+9232131,9/2/2016,FCS,Syracuse,Colgate,PUNT RETURNS,Brisly,Estime,AVG,10.5
+9232132,9/2/2016,FCS,Syracuse,Colgate,PUNT RETURNS,Brisly,Estime,LONG,11
+9232133,9/2/2016,FCS,Syracuse,Colgate,KICK RETURNS,Brisly,Estime,NO,2
+9232134,9/2/2016,FCS,Syracuse,Colgate,KICK RETURNS,Brisly,Estime,YDS,32
+9232135,9/2/2016,FCS,Syracuse,Colgate,KICK RETURNS,Brisly,Estime,AVG,16.0
+9232136,9/2/2016,FCS,Syracuse,Colgate,KICK RETURNS,Brisly,Estime,LONG,17

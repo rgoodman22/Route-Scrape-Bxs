@@ -1,0 +1,185 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+7189001,10/12/2013,FCS,Rhode Island,New Hampshire,RUSHING,Bob,Bentsen,ATT,11
+7189002,10/12/2013,FCS,Rhode Island,New Hampshire,RUSHING,Bob,Bentsen,YDS,49
+7189003,10/12/2013,FCS,Rhode Island,New Hampshire,RUSHING,Bob,Bentsen,TD,0
+7189004,10/12/2013,FCS,Rhode Island,New Hampshire,RUSHING,Bob,Bentsen,LONG,23
+7189005,10/12/2013,FCS,Rhode Island,New Hampshire,RUSHING,Kolt,Peavey,ATT,7
+7189006,10/12/2013,FCS,Rhode Island,New Hampshire,RUSHING,Kolt,Peavey,YDS,38
+7189007,10/12/2013,FCS,Rhode Island,New Hampshire,RUSHING,Kolt,Peavey,TD,0
+7189008,10/12/2013,FCS,Rhode Island,New Hampshire,RUSHING,Kolt,Peavey,LONG,10
+7189009,10/12/2013,FCS,Rhode Island,New Hampshire,RUSHING,Robbie,Delgado,ATT,9
+7189010,10/12/2013,FCS,Rhode Island,New Hampshire,RUSHING,Robbie,Delgado,YDS,25
+7189011,10/12/2013,FCS,Rhode Island,New Hampshire,RUSHING,Robbie,Delgado,TD,0
+7189012,10/12/2013,FCS,Rhode Island,New Hampshire,RUSHING,Robbie,Delgado,LONG,10
+7189013,10/12/2013,FCS,Rhode Island,New Hampshire,RUSHING,Jordan,Sebastian,ATT,5
+7189014,10/12/2013,FCS,Rhode Island,New Hampshire,RUSHING,Jordan,Sebastian,YDS,14
+7189015,10/12/2013,FCS,Rhode Island,New Hampshire,RUSHING,Jordan,Sebastian,TD,0
+7189016,10/12/2013,FCS,Rhode Island,New Hampshire,RUSHING,Jordan,Sebastian,LONG,7
+7189017,10/12/2013,FCS,Rhode Island,New Hampshire,RUSHING,,Team,ATT,1
+7189018,10/12/2013,FCS,Rhode Island,New Hampshire,RUSHING,,Team,YDS,-4
+7189019,10/12/2013,FCS,Rhode Island,New Hampshire,RUSHING,,Team,TD,0
+7189020,10/12/2013,FCS,Rhode Island,New Hampshire,RUSHING,,Team,LONG,0
+7189021,10/12/2013,FCS,Rhode Island,New Hampshire,RUSHING,Eerin,Young,ATT,8
+7189022,10/12/2013,FCS,Rhode Island,New Hampshire,RUSHING,Eerin,Young,YDS,-7
+7189023,10/12/2013,FCS,Rhode Island,New Hampshire,RUSHING,Eerin,Young,TD,0
+7189024,10/12/2013,FCS,Rhode Island,New Hampshire,RUSHING,Eerin,Young,LONG,2
+7189025,10/12/2013,FCS,Rhode Island,New Hampshire,PASSING,Bob,Bentsen,CP-ATT-INT,21-37-1
+7189026,10/12/2013,FCS,Rhode Island,New Hampshire,PASSING,Bob,Bentsen,YDS,220
+7189027,10/12/2013,FCS,Rhode Island,New Hampshire,PASSING,Bob,Bentsen,TD,2
+7189028,10/12/2013,FCS,Rhode Island,New Hampshire,PASSING,Bob,Bentsen,LONG,26
+7189029,10/12/2013,FCS,Rhode Island,New Hampshire,PASSING,Kolt,Peavey,CP-ATT-INT,5-7-0
+7189030,10/12/2013,FCS,Rhode Island,New Hampshire,PASSING,Kolt,Peavey,YDS,72
+7189031,10/12/2013,FCS,Rhode Island,New Hampshire,PASSING,Kolt,Peavey,TD,1
+7189032,10/12/2013,FCS,Rhode Island,New Hampshire,PASSING,Kolt,Peavey,LONG,26
+7189033,10/12/2013,FCS,Rhode Island,New Hampshire,PASSING,,Team,CP-ATT-INT,0-1-0
+7189034,10/12/2013,FCS,Rhode Island,New Hampshire,PASSING,,Team,YDS,0
+7189035,10/12/2013,FCS,Rhode Island,New Hampshire,PASSING,,Team,TD,0
+7189036,10/12/2013,FCS,Rhode Island,New Hampshire,PASSING,,Team,LONG,0
+7189037,10/12/2013,FCS,Rhode Island,New Hampshire,RECEIVING,Robbie,Jackson,REC,9
+7189038,10/12/2013,FCS,Rhode Island,New Hampshire,RECEIVING,Robbie,Jackson,YDS,111
+7189039,10/12/2013,FCS,Rhode Island,New Hampshire,RECEIVING,Robbie,Jackson,TD,2
+7189040,10/12/2013,FCS,Rhode Island,New Hampshire,RECEIVING,Robbie,Jackson,LONG,26
+7189041,10/12/2013,FCS,Rhode Island,New Hampshire,RECEIVING,Jawaun,Wynn,REC,6
+7189042,10/12/2013,FCS,Rhode Island,New Hampshire,RECEIVING,Jawaun,Wynn,YDS,60
+7189043,10/12/2013,FCS,Rhode Island,New Hampshire,RECEIVING,Jawaun,Wynn,TD,1
+7189044,10/12/2013,FCS,Rhode Island,New Hampshire,RECEIVING,Jawaun,Wynn,LONG,26
+7189045,10/12/2013,FCS,Rhode Island,New Hampshire,RECEIVING,Ross,Kim,REC,5
+7189046,10/12/2013,FCS,Rhode Island,New Hampshire,RECEIVING,Ross,Kim,YDS,48
+7189047,10/12/2013,FCS,Rhode Island,New Hampshire,RECEIVING,Ross,Kim,TD,0
+7189048,10/12/2013,FCS,Rhode Island,New Hampshire,RECEIVING,Ross,Kim,LONG,14
+7189049,10/12/2013,FCS,Rhode Island,New Hampshire,RECEIVING,Josh,Gross,REC,3
+7189050,10/12/2013,FCS,Rhode Island,New Hampshire,RECEIVING,Josh,Gross,YDS,33
+7189051,10/12/2013,FCS,Rhode Island,New Hampshire,RECEIVING,Josh,Gross,TD,0
+7189052,10/12/2013,FCS,Rhode Island,New Hampshire,RECEIVING,Josh,Gross,LONG,15
+7189053,10/12/2013,FCS,Rhode Island,New Hampshire,RECEIVING,Theo,Russell,REC,1
+7189054,10/12/2013,FCS,Rhode Island,New Hampshire,RECEIVING,Theo,Russell,YDS,17
+7189055,10/12/2013,FCS,Rhode Island,New Hampshire,RECEIVING,Theo,Russell,TD,0
+7189056,10/12/2013,FCS,Rhode Island,New Hampshire,RECEIVING,Theo,Russell,LONG,17
+7189057,10/12/2013,FCS,Rhode Island,New Hampshire,RECEIVING,Justin,Favreau,REC,1
+7189058,10/12/2013,FCS,Rhode Island,New Hampshire,RECEIVING,Justin,Favreau,YDS,14
+7189059,10/12/2013,FCS,Rhode Island,New Hampshire,RECEIVING,Justin,Favreau,TD,0
+7189060,10/12/2013,FCS,Rhode Island,New Hampshire,RECEIVING,Justin,Favreau,LONG,14
+7189061,10/12/2013,FCS,Rhode Island,New Hampshire,RECEIVING,Eerin,Young,REC,1
+7189062,10/12/2013,FCS,Rhode Island,New Hampshire,RECEIVING,Eerin,Young,YDS,9
+7189063,10/12/2013,FCS,Rhode Island,New Hampshire,RECEIVING,Eerin,Young,TD,0
+7189064,10/12/2013,FCS,Rhode Island,New Hampshire,RECEIVING,Eerin,Young,LONG,9
+7189065,10/12/2013,FCS,Rhode Island,New Hampshire,KICKING,Dylan,Smith,FG-FGA,0/0
+7189066,10/12/2013,FCS,Rhode Island,New Hampshire,KICKING,Dylan,Smith,LONG,-
+7189067,10/12/2013,FCS,Rhode Island,New Hampshire,KICKING,Dylan,Smith,XP,1
+7189068,10/12/2013,FCS,Rhode Island,New Hampshire,KICKING,Dylan,Smith,PTS,1
+7189069,10/12/2013,FCS,Rhode Island,New Hampshire,PUNTING,Anthony,DiPaula,NO,7
+7189070,10/12/2013,FCS,Rhode Island,New Hampshire,PUNTING,Anthony,DiPaula,YDS,263
+7189071,10/12/2013,FCS,Rhode Island,New Hampshire,PUNTING,Anthony,DiPaula,AVG,37.6
+7189072,10/12/2013,FCS,Rhode Island,New Hampshire,PUNTING,Anthony,DiPaula,LONG,61
+7189073,10/12/2013,FCS,Rhode Island,New Hampshire,PUNTING,Tim,Wienclaw,NO,1
+7189074,10/12/2013,FCS,Rhode Island,New Hampshire,PUNTING,Tim,Wienclaw,YDS,-1
+7189075,10/12/2013,FCS,Rhode Island,New Hampshire,PUNTING,Tim,Wienclaw,AVG,-1.0
+7189076,10/12/2013,FCS,Rhode Island,New Hampshire,PUNTING,Tim,Wienclaw,LONG,0
+7189077,10/12/2013,FCS,Rhode Island,New Hampshire,PUNT RETURNS,Robbie,Jackson,NO,2
+7189078,10/12/2013,FCS,Rhode Island,New Hampshire,PUNT RETURNS,Robbie,Jackson,YDS,55
+7189079,10/12/2013,FCS,Rhode Island,New Hampshire,PUNT RETURNS,Robbie,Jackson,AVG,27.5
+7189080,10/12/2013,FCS,Rhode Island,New Hampshire,PUNT RETURNS,Robbie,Jackson,LONG,32
+7189081,10/12/2013,FCS,Rhode Island,New Hampshire,KICK RETURNS,Mackenzie,Elliott,NO,8
+7189082,10/12/2013,FCS,Rhode Island,New Hampshire,KICK RETURNS,Mackenzie,Elliott,YDS,161
+7189083,10/12/2013,FCS,Rhode Island,New Hampshire,KICK RETURNS,Mackenzie,Elliott,AVG,20.1
+7189084,10/12/2013,FCS,Rhode Island,New Hampshire,KICK RETURNS,Mackenzie,Elliott,LONG,32
+7189085,10/12/2013,FCS,Rhode Island,New Hampshire,KICK RETURNS,Tim,Wienclaw,NO,1
+7189086,10/12/2013,FCS,Rhode Island,New Hampshire,KICK RETURNS,Tim,Wienclaw,YDS,24
+7189087,10/12/2013,FCS,Rhode Island,New Hampshire,KICK RETURNS,Tim,Wienclaw,AVG,24.0
+7189088,10/12/2013,FCS,Rhode Island,New Hampshire,KICK RETURNS,Tim,Wienclaw,LONG,24
+7189089,10/12/2013,FCS,New Hampshire,Rhode Island,RUSHING,Nico,Steriti,ATT,15
+7189090,10/12/2013,FCS,New Hampshire,Rhode Island,RUSHING,Nico,Steriti,YDS,150
+7189091,10/12/2013,FCS,New Hampshire,Rhode Island,RUSHING,Nico,Steriti,TD,2
+7189092,10/12/2013,FCS,New Hampshire,Rhode Island,RUSHING,Nico,Steriti,LONG,54
+7189093,10/12/2013,FCS,New Hampshire,Rhode Island,RUSHING,Sean,Goldrich,ATT,14
+7189094,10/12/2013,FCS,New Hampshire,Rhode Island,RUSHING,Sean,Goldrich,YDS,94
+7189095,10/12/2013,FCS,New Hampshire,Rhode Island,RUSHING,Sean,Goldrich,TD,1
+7189096,10/12/2013,FCS,New Hampshire,Rhode Island,RUSHING,Sean,Goldrich,LONG,24
+7189097,10/12/2013,FCS,New Hampshire,Rhode Island,RUSHING,Dalton,Crossan,ATT,2
+7189098,10/12/2013,FCS,New Hampshire,Rhode Island,RUSHING,Dalton,Crossan,YDS,55
+7189099,10/12/2013,FCS,New Hampshire,Rhode Island,RUSHING,Dalton,Crossan,TD,0
+7189100,10/12/2013,FCS,New Hampshire,Rhode Island,RUSHING,Dalton,Crossan,LONG,59
+7189101,10/12/2013,FCS,New Hampshire,Rhode Island,RUSHING,Jimmy,Owens,ATT,5
+7189102,10/12/2013,FCS,New Hampshire,Rhode Island,RUSHING,Jimmy,Owens,YDS,29
+7189103,10/12/2013,FCS,New Hampshire,Rhode Island,RUSHING,Jimmy,Owens,TD,0
+7189104,10/12/2013,FCS,New Hampshire,Rhode Island,RUSHING,Jimmy,Owens,LONG,13
+7189105,10/12/2013,FCS,New Hampshire,Rhode Island,RUSHING,Chris,Setian,ATT,3
+7189106,10/12/2013,FCS,New Hampshire,Rhode Island,RUSHING,Chris,Setian,YDS,9
+7189107,10/12/2013,FCS,New Hampshire,Rhode Island,RUSHING,Chris,Setian,TD,1
+7189108,10/12/2013,FCS,New Hampshire,Rhode Island,RUSHING,Chris,Setian,LONG,3
+7189109,10/12/2013,FCS,New Hampshire,Rhode Island,RUSHING,Jim,Earley,ATT,2
+7189110,10/12/2013,FCS,New Hampshire,Rhode Island,RUSHING,Jim,Earley,YDS,2
+7189111,10/12/2013,FCS,New Hampshire,Rhode Island,RUSHING,Jim,Earley,TD,0
+7189112,10/12/2013,FCS,New Hampshire,Rhode Island,RUSHING,Jim,Earley,LONG,3
+7189113,10/12/2013,FCS,New Hampshire,Rhode Island,RUSHING,Adam,Riese,ATT,1
+7189114,10/12/2013,FCS,New Hampshire,Rhode Island,RUSHING,Adam,Riese,YDS,1
+7189115,10/12/2013,FCS,New Hampshire,Rhode Island,RUSHING,Adam,Riese,TD,0
+7189116,10/12/2013,FCS,New Hampshire,Rhode Island,RUSHING,Adam,Riese,LONG,1
+7189117,10/12/2013,FCS,New Hampshire,Rhode Island,RUSHING,Jared,Allison,ATT,1
+7189118,10/12/2013,FCS,New Hampshire,Rhode Island,RUSHING,Jared,Allison,YDS,-7
+7189119,10/12/2013,FCS,New Hampshire,Rhode Island,RUSHING,Jared,Allison,TD,0
+7189120,10/12/2013,FCS,New Hampshire,Rhode Island,RUSHING,Jared,Allison,LONG,0
+7189121,10/12/2013,FCS,New Hampshire,Rhode Island,PASSING,Sean,Goldrich,CP-ATT-INT,18-26-1
+7189122,10/12/2013,FCS,New Hampshire,Rhode Island,PASSING,Sean,Goldrich,YDS,241
+7189123,10/12/2013,FCS,New Hampshire,Rhode Island,PASSING,Sean,Goldrich,TD,2
+7189124,10/12/2013,FCS,New Hampshire,Rhode Island,PASSING,Sean,Goldrich,LONG,44
+7189125,10/12/2013,FCS,New Hampshire,Rhode Island,RECEIVING,Jimmy,Giansante,REC,4
+7189126,10/12/2013,FCS,New Hampshire,Rhode Island,RECEIVING,Jimmy,Giansante,YDS,50
+7189127,10/12/2013,FCS,New Hampshire,Rhode Island,RECEIVING,Jimmy,Giansante,TD,0
+7189128,10/12/2013,FCS,New Hampshire,Rhode Island,RECEIVING,Jimmy,Giansante,LONG,20
+7189129,10/12/2013,FCS,New Hampshire,Rhode Island,RECEIVING,Justin,Mello,REC,4
+7189130,10/12/2013,FCS,New Hampshire,Rhode Island,RECEIVING,Justin,Mello,YDS,47
+7189131,10/12/2013,FCS,New Hampshire,Rhode Island,RECEIVING,Justin,Mello,TD,1
+7189132,10/12/2013,FCS,New Hampshire,Rhode Island,RECEIVING,Justin,Mello,LONG,20
+7189133,10/12/2013,FCS,New Hampshire,Rhode Island,RECEIVING,R.J.,Harris,REC,4
+7189134,10/12/2013,FCS,New Hampshire,Rhode Island,RECEIVING,R.J.,Harris,YDS,44
+7189135,10/12/2013,FCS,New Hampshire,Rhode Island,RECEIVING,R.J.,Harris,TD,0
+7189136,10/12/2013,FCS,New Hampshire,Rhode Island,RECEIVING,R.J.,Harris,LONG,19
+7189137,10/12/2013,FCS,New Hampshire,Rhode Island,RECEIVING,Harold,Spears,REC,2
+7189138,10/12/2013,FCS,New Hampshire,Rhode Island,RECEIVING,Harold,Spears,YDS,38
+7189139,10/12/2013,FCS,New Hampshire,Rhode Island,RECEIVING,Harold,Spears,TD,1
+7189140,10/12/2013,FCS,New Hampshire,Rhode Island,RECEIVING,Harold,Spears,LONG,21
+7189141,10/12/2013,FCS,New Hampshire,Rhode Island,RECEIVING,Nico,Steriti,REC,1
+7189142,10/12/2013,FCS,New Hampshire,Rhode Island,RECEIVING,Nico,Steriti,YDS,44
+7189143,10/12/2013,FCS,New Hampshire,Rhode Island,RECEIVING,Nico,Steriti,TD,0
+7189144,10/12/2013,FCS,New Hampshire,Rhode Island,RECEIVING,Nico,Steriti,LONG,44
+7189145,10/12/2013,FCS,New Hampshire,Rhode Island,RECEIVING,Jared,Allison,REC,1
+7189146,10/12/2013,FCS,New Hampshire,Rhode Island,RECEIVING,Jared,Allison,YDS,10
+7189147,10/12/2013,FCS,New Hampshire,Rhode Island,RECEIVING,Jared,Allison,TD,0
+7189148,10/12/2013,FCS,New Hampshire,Rhode Island,RECEIVING,Jared,Allison,LONG,10
+7189149,10/12/2013,FCS,New Hampshire,Rhode Island,RECEIVING,Dalton,Crossan,REC,1
+7189150,10/12/2013,FCS,New Hampshire,Rhode Island,RECEIVING,Dalton,Crossan,YDS,7
+7189151,10/12/2013,FCS,New Hampshire,Rhode Island,RECEIVING,Dalton,Crossan,TD,0
+7189152,10/12/2013,FCS,New Hampshire,Rhode Island,RECEIVING,Dalton,Crossan,LONG,7
+7189153,10/12/2013,FCS,New Hampshire,Rhode Island,RECEIVING,Chris,Setian,REC,1
+7189154,10/12/2013,FCS,New Hampshire,Rhode Island,RECEIVING,Chris,Setian,YDS,1
+7189155,10/12/2013,FCS,New Hampshire,Rhode Island,RECEIVING,Chris,Setian,TD,0
+7189156,10/12/2013,FCS,New Hampshire,Rhode Island,RECEIVING,Chris,Setian,LONG,1
+7189157,10/12/2013,FCS,New Hampshire,Rhode Island,KICKING,Mike,MacArthur,FG-FGA,1/1
+7189158,10/12/2013,FCS,New Hampshire,Rhode Island,KICKING,Mike,MacArthur,LONG,24
+7189159,10/12/2013,FCS,New Hampshire,Rhode Island,KICKING,Mike,MacArthur,XP,7
+7189160,10/12/2013,FCS,New Hampshire,Rhode Island,KICKING,Mike,MacArthur,PTS,10
+7189161,10/12/2013,FCS,New Hampshire,Rhode Island,KICKING,Christian,Breda,FG-FGA,0/0
+7189162,10/12/2013,FCS,New Hampshire,Rhode Island,KICKING,Christian,Breda,LONG,-
+7189163,10/12/2013,FCS,New Hampshire,Rhode Island,KICKING,Christian,Breda,XP,1
+7189164,10/12/2013,FCS,New Hampshire,Rhode Island,KICKING,Christian,Breda,PTS,1
+7189165,10/12/2013,FCS,New Hampshire,Rhode Island,PUNTING,Brad,Prasky,NO,4
+7189166,10/12/2013,FCS,New Hampshire,Rhode Island,PUNTING,Brad,Prasky,YDS,166
+7189167,10/12/2013,FCS,New Hampshire,Rhode Island,PUNTING,Brad,Prasky,AVG,41.5
+7189168,10/12/2013,FCS,New Hampshire,Rhode Island,PUNTING,Brad,Prasky,LONG,52
+7189169,10/12/2013,FCS,New Hampshire,Rhode Island,PUNT RETURNS,Jared,Allison,NO,2
+7189170,10/12/2013,FCS,New Hampshire,Rhode Island,PUNT RETURNS,Jared,Allison,YDS,0
+7189171,10/12/2013,FCS,New Hampshire,Rhode Island,PUNT RETURNS,Jared,Allison,AVG,0.0
+7189172,10/12/2013,FCS,New Hampshire,Rhode Island,PUNT RETURNS,Jared,Allison,LONG,0
+7189173,10/12/2013,FCS,New Hampshire,Rhode Island,PUNT RETURNS,Horace,Chalstrom,NO,1
+7189174,10/12/2013,FCS,New Hampshire,Rhode Island,PUNT RETURNS,Horace,Chalstrom,YDS,2
+7189175,10/12/2013,FCS,New Hampshire,Rhode Island,PUNT RETURNS,Horace,Chalstrom,AVG,2.0
+7189176,10/12/2013,FCS,New Hampshire,Rhode Island,PUNT RETURNS,Horace,Chalstrom,LONG,0
+7189177,10/12/2013,FCS,New Hampshire,Rhode Island,KICK RETURNS,Dalton,Crossan,NO,2
+7189178,10/12/2013,FCS,New Hampshire,Rhode Island,KICK RETURNS,Dalton,Crossan,YDS,43
+7189179,10/12/2013,FCS,New Hampshire,Rhode Island,KICK RETURNS,Dalton,Crossan,AVG,21.5
+7189180,10/12/2013,FCS,New Hampshire,Rhode Island,KICK RETURNS,Dalton,Crossan,LONG,29
+7189181,10/12/2013,FCS,New Hampshire,Rhode Island,KICK RETURNS,Jared,Allison,NO,1
+7189182,10/12/2013,FCS,New Hampshire,Rhode Island,KICK RETURNS,Jared,Allison,YDS,35
+7189183,10/12/2013,FCS,New Hampshire,Rhode Island,KICK RETURNS,Jared,Allison,AVG,35.0
+7189184,10/12/2013,FCS,New Hampshire,Rhode Island,KICK RETURNS,Jared,Allison,LONG,35

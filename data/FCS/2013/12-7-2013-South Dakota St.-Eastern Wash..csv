@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+7574001,12/7/2013,FCS,South Dakota St.,Eastern Wash.,RUSHING,Zach,Zenner,ATT,21
+7574002,12/7/2013,FCS,South Dakota St.,Eastern Wash.,RUSHING,Zach,Zenner,YDS,71
+7574003,12/7/2013,FCS,South Dakota St.,Eastern Wash.,RUSHING,Zach,Zenner,TD,1
+7574004,12/7/2013,FCS,South Dakota St.,Eastern Wash.,RUSHING,Zach,Zenner,LONG,13
+7574005,12/7/2013,FCS,South Dakota St.,Eastern Wash.,RUSHING,Austin,Sumner,ATT,10
+7574006,12/7/2013,FCS,South Dakota St.,Eastern Wash.,RUSHING,Austin,Sumner,YDS,16
+7574007,12/7/2013,FCS,South Dakota St.,Eastern Wash.,RUSHING,Austin,Sumner,TD,0
+7574008,12/7/2013,FCS,South Dakota St.,Eastern Wash.,RUSHING,Austin,Sumner,LONG,21
+7574009,12/7/2013,FCS,South Dakota St.,Eastern Wash.,RUSHING,Reginald,Gandy,ATT,2
+7574010,12/7/2013,FCS,South Dakota St.,Eastern Wash.,RUSHING,Reginald,Gandy,YDS,10
+7574011,12/7/2013,FCS,South Dakota St.,Eastern Wash.,RUSHING,Reginald,Gandy,TD,0
+7574012,12/7/2013,FCS,South Dakota St.,Eastern Wash.,RUSHING,Reginald,Gandy,LONG,7
+7574013,12/7/2013,FCS,South Dakota St.,Eastern Wash.,RUSHING,Ethan,Sawyer,ATT,1
+7574014,12/7/2013,FCS,South Dakota St.,Eastern Wash.,RUSHING,Ethan,Sawyer,YDS,-9
+7574015,12/7/2013,FCS,South Dakota St.,Eastern Wash.,RUSHING,Ethan,Sawyer,TD,0
+7574016,12/7/2013,FCS,South Dakota St.,Eastern Wash.,RUSHING,Ethan,Sawyer,LONG,0
+7574017,12/7/2013,FCS,South Dakota St.,Eastern Wash.,PASSING,Austin,Sumner,CP-ATT-INT,26-40-0
+7574018,12/7/2013,FCS,South Dakota St.,Eastern Wash.,PASSING,Austin,Sumner,YDS,315
+7574019,12/7/2013,FCS,South Dakota St.,Eastern Wash.,PASSING,Austin,Sumner,TD,1
+7574020,12/7/2013,FCS,South Dakota St.,Eastern Wash.,PASSING,Austin,Sumner,LONG,39
+7574021,12/7/2013,FCS,South Dakota St.,Eastern Wash.,RECEIVING,Trevor,Tiefenthaler,REC,11
+7574022,12/7/2013,FCS,South Dakota St.,Eastern Wash.,RECEIVING,Trevor,Tiefenthaler,YDS,139
+7574023,12/7/2013,FCS,South Dakota St.,Eastern Wash.,RECEIVING,Trevor,Tiefenthaler,TD,0
+7574024,12/7/2013,FCS,South Dakota St.,Eastern Wash.,RECEIVING,Trevor,Tiefenthaler,LONG,39
+7574025,12/7/2013,FCS,South Dakota St.,Eastern Wash.,RECEIVING,Jason,Schneider,REC,6
+7574026,12/7/2013,FCS,South Dakota St.,Eastern Wash.,RECEIVING,Jason,Schneider,YDS,81
+7574027,12/7/2013,FCS,South Dakota St.,Eastern Wash.,RECEIVING,Jason,Schneider,TD,0
+7574028,12/7/2013,FCS,South Dakota St.,Eastern Wash.,RECEIVING,Jason,Schneider,LONG,17
+7574029,12/7/2013,FCS,South Dakota St.,Eastern Wash.,RECEIVING,Reginald,Gandy,REC,6
+7574030,12/7/2013,FCS,South Dakota St.,Eastern Wash.,RECEIVING,Reginald,Gandy,YDS,30
+7574031,12/7/2013,FCS,South Dakota St.,Eastern Wash.,RECEIVING,Reginald,Gandy,TD,1
+7574032,12/7/2013,FCS,South Dakota St.,Eastern Wash.,RECEIVING,Reginald,Gandy,LONG,14
+7574033,12/7/2013,FCS,South Dakota St.,Eastern Wash.,RECEIVING,Trevor,Wesley,REC,2
+7574034,12/7/2013,FCS,South Dakota St.,Eastern Wash.,RECEIVING,Trevor,Wesley,YDS,32
+7574035,12/7/2013,FCS,South Dakota St.,Eastern Wash.,RECEIVING,Trevor,Wesley,TD,0
+7574036,12/7/2013,FCS,South Dakota St.,Eastern Wash.,RECEIVING,Trevor,Wesley,LONG,25
+7574037,12/7/2013,FCS,South Dakota St.,Eastern Wash.,RECEIVING,Brandon,Hubert,REC,1
+7574038,12/7/2013,FCS,South Dakota St.,Eastern Wash.,RECEIVING,Brandon,Hubert,YDS,33
+7574039,12/7/2013,FCS,South Dakota St.,Eastern Wash.,RECEIVING,Brandon,Hubert,TD,0
+7574040,12/7/2013,FCS,South Dakota St.,Eastern Wash.,RECEIVING,Brandon,Hubert,LONG,33
+7574041,12/7/2013,FCS,South Dakota St.,Eastern Wash.,KICKING,Justin,Syrovatka,FG-FGA,1/2
+7574042,12/7/2013,FCS,South Dakota St.,Eastern Wash.,KICKING,Justin,Syrovatka,LONG,27
+7574043,12/7/2013,FCS,South Dakota St.,Eastern Wash.,KICKING,Justin,Syrovatka,XP,2
+7574044,12/7/2013,FCS,South Dakota St.,Eastern Wash.,KICKING,Justin,Syrovatka,PTS,5
+7574045,12/7/2013,FCS,South Dakota St.,Eastern Wash.,PUNTING,Ethan,Sawyer,NO,5
+7574046,12/7/2013,FCS,South Dakota St.,Eastern Wash.,PUNTING,Ethan,Sawyer,YDS,188
+7574047,12/7/2013,FCS,South Dakota St.,Eastern Wash.,PUNTING,Ethan,Sawyer,AVG,37.6
+7574048,12/7/2013,FCS,South Dakota St.,Eastern Wash.,PUNTING,Ethan,Sawyer,LONG,44
+7574049,12/7/2013,FCS,South Dakota St.,Eastern Wash.,PUNT RETURNS,Je,RyanButler,NO,3
+7574050,12/7/2013,FCS,South Dakota St.,Eastern Wash.,PUNT RETURNS,Je,RyanButler,YDS,7
+7574051,12/7/2013,FCS,South Dakota St.,Eastern Wash.,PUNT RETURNS,Je,RyanButler,AVG,2.3
+7574052,12/7/2013,FCS,South Dakota St.,Eastern Wash.,PUNT RETURNS,Je,RyanButler,LONG,10
+7574053,12/7/2013,FCS,South Dakota St.,Eastern Wash.,KICK RETURNS,Trevor,Wesley,NO,2
+7574054,12/7/2013,FCS,South Dakota St.,Eastern Wash.,KICK RETURNS,Trevor,Wesley,YDS,45
+7574055,12/7/2013,FCS,South Dakota St.,Eastern Wash.,KICK RETURNS,Trevor,Wesley,AVG,22.5
+7574056,12/7/2013,FCS,South Dakota St.,Eastern Wash.,KICK RETURNS,Trevor,Wesley,LONG,24
+7574057,12/7/2013,FCS,South Dakota St.,Eastern Wash.,KICK RETURNS,Dom,Wright,NO,2
+7574058,12/7/2013,FCS,South Dakota St.,Eastern Wash.,KICK RETURNS,Dom,Wright,YDS,25
+7574059,12/7/2013,FCS,South Dakota St.,Eastern Wash.,KICK RETURNS,Dom,Wright,AVG,12.5
+7574060,12/7/2013,FCS,South Dakota St.,Eastern Wash.,KICK RETURNS,Dom,Wright,LONG,20
+7574061,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RUSHING,Quincy,Forte,ATT,21
+7574062,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RUSHING,Quincy,Forte,YDS,202
+7574063,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RUSHING,Quincy,Forte,TD,1
+7574064,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RUSHING,Quincy,Forte,LONG,49
+7574065,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RUSHING,Mario,Brown,ATT,9
+7574066,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RUSHING,Mario,Brown,YDS,52
+7574067,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RUSHING,Mario,Brown,TD,0
+7574068,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RUSHING,Mario,Brown,LONG,22
+7574069,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RUSHING,Vernon,Adams,ATT,8
+7574070,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RUSHING,Vernon,Adams,YDS,27
+7574071,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RUSHING,Vernon,Adams,TD,0
+7574072,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RUSHING,Vernon,Adams,LONG,12
+7574073,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RUSHING,Demitrius,Bronson,ATT,1
+7574074,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RUSHING,Demitrius,Bronson,YDS,7
+7574075,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RUSHING,Demitrius,Bronson,TD,0
+7574076,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RUSHING,Demitrius,Bronson,LONG,2
+7574077,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RUSHING,Jabari,Wilson,ATT,2
+7574078,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RUSHING,Jabari,Wilson,YDS,1
+7574079,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RUSHING,Jabari,Wilson,TD,0
+7574080,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RUSHING,Jabari,Wilson,LONG,2
+7574081,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RUSHING,,Team,ATT,2
+7574082,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RUSHING,,Team,YDS,-2
+7574083,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RUSHING,,Team,TD,0
+7574084,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RUSHING,,Team,LONG,0
+7574085,12/7/2013,FCS,Eastern Wash.,South Dakota St.,PASSING,Vernon,Adams,CP-ATT-INT,12-22-0
+7574086,12/7/2013,FCS,Eastern Wash.,South Dakota St.,PASSING,Vernon,Adams,YDS,217
+7574087,12/7/2013,FCS,Eastern Wash.,South Dakota St.,PASSING,Vernon,Adams,TD,5
+7574088,12/7/2013,FCS,Eastern Wash.,South Dakota St.,PASSING,Vernon,Adams,LONG,69
+7574089,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RECEIVING,Cooper,Kupp,REC,4
+7574090,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RECEIVING,Cooper,Kupp,YDS,90
+7574091,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RECEIVING,Cooper,Kupp,TD,2
+7574092,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RECEIVING,Cooper,Kupp,LONG,40
+7574093,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RECEIVING,Zack,Gehring,REC,3
+7574094,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RECEIVING,Zack,Gehring,YDS,33
+7574095,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RECEIVING,Zack,Gehring,TD,1
+7574096,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RECEIVING,Zack,Gehring,LONG,22
+7574097,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RECEIVING,Cory,Mitchell,REC,1
+7574098,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RECEIVING,Cory,Mitchell,YDS,69
+7574099,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RECEIVING,Cory,Mitchell,TD,1
+7574100,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RECEIVING,Cory,Mitchell,LONG,69
+7574101,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RECEIVING,Ashton,Clark,REC,1
+7574102,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RECEIVING,Ashton,Clark,YDS,9
+7574103,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RECEIVING,Ashton,Clark,TD,0
+7574104,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RECEIVING,Ashton,Clark,LONG,9
+7574105,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RECEIVING,Shaquille,Hill,REC,1
+7574106,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RECEIVING,Shaquille,Hill,YDS,7
+7574107,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RECEIVING,Shaquille,Hill,TD,0
+7574108,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RECEIVING,Shaquille,Hill,LONG,7
+7574109,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RECEIVING,Quincy,Forte,REC,1
+7574110,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RECEIVING,Quincy,Forte,YDS,6
+7574111,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RECEIVING,Quincy,Forte,TD,0
+7574112,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RECEIVING,Quincy,Forte,LONG,6
+7574113,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RECEIVING,Zach,Wimberly,REC,1
+7574114,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RECEIVING,Zach,Wimberly,YDS,3
+7574115,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RECEIVING,Zach,Wimberly,TD,1
+7574116,12/7/2013,FCS,Eastern Wash.,South Dakota St.,RECEIVING,Zach,Wimberly,LONG,3
+7574117,12/7/2013,FCS,Eastern Wash.,South Dakota St.,KICKING,Kevin,Miller,FG-FGA,0/0
+7574118,12/7/2013,FCS,Eastern Wash.,South Dakota St.,KICKING,Kevin,Miller,LONG,-
+7574119,12/7/2013,FCS,Eastern Wash.,South Dakota St.,KICKING,Kevin,Miller,XP,5
+7574120,12/7/2013,FCS,Eastern Wash.,South Dakota St.,KICKING,Kevin,Miller,PTS,5
+7574121,12/7/2013,FCS,Eastern Wash.,South Dakota St.,PUNTING,Jake,Miller,NO,5
+7574122,12/7/2013,FCS,Eastern Wash.,South Dakota St.,PUNTING,Jake,Miller,YDS,219
+7574123,12/7/2013,FCS,Eastern Wash.,South Dakota St.,PUNTING,Jake,Miller,AVG,43.8
+7574124,12/7/2013,FCS,Eastern Wash.,South Dakota St.,PUNTING,Jake,Miller,LONG,52
+7574125,12/7/2013,FCS,Eastern Wash.,South Dakota St.,PUNT RETURNS,Ashton,Clark,NO,1
+7574126,12/7/2013,FCS,Eastern Wash.,South Dakota St.,PUNT RETURNS,Ashton,Clark,YDS,0
+7574127,12/7/2013,FCS,Eastern Wash.,South Dakota St.,PUNT RETURNS,Ashton,Clark,AVG,0.0
+7574128,12/7/2013,FCS,Eastern Wash.,South Dakota St.,PUNT RETURNS,Ashton,Clark,LONG,0
+7574129,12/7/2013,FCS,Eastern Wash.,South Dakota St.,KICK RETURNS,Shaquille,Hill,NO,2
+7574130,12/7/2013,FCS,Eastern Wash.,South Dakota St.,KICK RETURNS,Shaquille,Hill,YDS,35
+7574131,12/7/2013,FCS,Eastern Wash.,South Dakota St.,KICK RETURNS,Shaquille,Hill,AVG,17.5
+7574132,12/7/2013,FCS,Eastern Wash.,South Dakota St.,KICK RETURNS,Shaquille,Hill,LONG,22
+7574133,12/7/2013,FCS,Eastern Wash.,South Dakota St.,KICK RETURNS,Cory,Mitchell,NO,1
+7574134,12/7/2013,FCS,Eastern Wash.,South Dakota St.,KICK RETURNS,Cory,Mitchell,YDS,7
+7574135,12/7/2013,FCS,Eastern Wash.,South Dakota St.,KICK RETURNS,Cory,Mitchell,AVG,7.0
+7574136,12/7/2013,FCS,Eastern Wash.,South Dakota St.,KICK RETURNS,Cory,Mitchell,LONG,7

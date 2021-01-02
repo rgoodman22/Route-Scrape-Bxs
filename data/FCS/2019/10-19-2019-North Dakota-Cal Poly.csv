@@ -1,0 +1,188 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+12071001,10/19/2019,FCS,North Dakota,Cal Poly,RUSHING,James,Johannesson,ATT,13
+12071002,10/19/2019,FCS,North Dakota,Cal Poly,RUSHING,James,Johannesson,YDS,82
+12071003,10/19/2019,FCS,North Dakota,Cal Poly,RUSHING,James,Johannesson,TD,1
+12071004,10/19/2019,FCS,North Dakota,Cal Poly,RUSHING,James,Johannesson,LONG,25
+12071005,10/19/2019,FCS,North Dakota,Cal Poly,RUSHING,Brock,Boltmann,ATT,8
+12071006,10/19/2019,FCS,North Dakota,Cal Poly,RUSHING,Brock,Boltmann,YDS,33
+12071007,10/19/2019,FCS,North Dakota,Cal Poly,RUSHING,Brock,Boltmann,TD,0
+12071008,10/19/2019,FCS,North Dakota,Cal Poly,RUSHING,Brock,Boltmann,LONG,9
+12071009,10/19/2019,FCS,North Dakota,Cal Poly,RUSHING,Dalton,Gee,ATT,5
+12071010,10/19/2019,FCS,North Dakota,Cal Poly,RUSHING,Dalton,Gee,YDS,16
+12071011,10/19/2019,FCS,North Dakota,Cal Poly,RUSHING,Dalton,Gee,TD,0
+12071012,10/19/2019,FCS,North Dakota,Cal Poly,RUSHING,Dalton,Gee,LONG,6
+12071013,10/19/2019,FCS,North Dakota,Cal Poly,RUSHING,Austin,Gordon,ATT,2
+12071014,10/19/2019,FCS,North Dakota,Cal Poly,RUSHING,Austin,Gordon,YDS,8
+12071015,10/19/2019,FCS,North Dakota,Cal Poly,RUSHING,Austin,Gordon,TD,0
+12071016,10/19/2019,FCS,North Dakota,Cal Poly,RUSHING,Austin,Gordon,LONG,6
+12071017,10/19/2019,FCS,North Dakota,Cal Poly,RUSHING,Nate,Ketteringham,ATT,4
+12071018,10/19/2019,FCS,North Dakota,Cal Poly,RUSHING,Nate,Ketteringham,YDS,-1
+12071019,10/19/2019,FCS,North Dakota,Cal Poly,RUSHING,Nate,Ketteringham,TD,1
+12071020,10/19/2019,FCS,North Dakota,Cal Poly,RUSHING,Nate,Ketteringham,LONG,8
+12071021,10/19/2019,FCS,North Dakota,Cal Poly,RUSHING,,Team,ATT,2
+12071022,10/19/2019,FCS,North Dakota,Cal Poly,RUSHING,,Team,YDS,-4
+12071023,10/19/2019,FCS,North Dakota,Cal Poly,RUSHING,,Team,TD,0
+12071024,10/19/2019,FCS,North Dakota,Cal Poly,RUSHING,,Team,LONG,0
+12071025,10/19/2019,FCS,North Dakota,Cal Poly,PASSING,Nate,Ketteringham,CP-ATT-INT,20-30-0
+12071026,10/19/2019,FCS,North Dakota,Cal Poly,PASSING,Nate,Ketteringham,YDS,234
+12071027,10/19/2019,FCS,North Dakota,Cal Poly,PASSING,Nate,Ketteringham,TD,2
+12071028,10/19/2019,FCS,North Dakota,Cal Poly,PASSING,Nate,Ketteringham,LONG,39
+12071029,10/19/2019,FCS,North Dakota,Cal Poly,PASSING,Brock,Boltmann,CP-ATT-INT,0-1-0
+12071030,10/19/2019,FCS,North Dakota,Cal Poly,PASSING,Brock,Boltmann,YDS,0
+12071031,10/19/2019,FCS,North Dakota,Cal Poly,PASSING,Brock,Boltmann,TD,0
+12071032,10/19/2019,FCS,North Dakota,Cal Poly,PASSING,Brock,Boltmann,LONG,0
+12071033,10/19/2019,FCS,North Dakota,Cal Poly,RECEIVING,Brock,Boltmann,REC,5
+12071034,10/19/2019,FCS,North Dakota,Cal Poly,RECEIVING,Brock,Boltmann,YDS,60
+12071035,10/19/2019,FCS,North Dakota,Cal Poly,RECEIVING,Brock,Boltmann,TD,0
+12071036,10/19/2019,FCS,North Dakota,Cal Poly,RECEIVING,Brock,Boltmann,LONG,25
+12071037,10/19/2019,FCS,North Dakota,Cal Poly,RECEIVING,Noah,Wanzek,REC,3
+12071038,10/19/2019,FCS,North Dakota,Cal Poly,RECEIVING,Noah,Wanzek,YDS,49
+12071039,10/19/2019,FCS,North Dakota,Cal Poly,RECEIVING,Noah,Wanzek,TD,0
+12071040,10/19/2019,FCS,North Dakota,Cal Poly,RECEIVING,Noah,Wanzek,LONG,23
+12071041,10/19/2019,FCS,North Dakota,Cal Poly,RECEIVING,Travis,Toivonen,REC,4
+12071042,10/19/2019,FCS,North Dakota,Cal Poly,RECEIVING,Travis,Toivonen,YDS,45
+12071043,10/19/2019,FCS,North Dakota,Cal Poly,RECEIVING,Travis,Toivonen,TD,0
+12071044,10/19/2019,FCS,North Dakota,Cal Poly,RECEIVING,Travis,Toivonen,LONG,21
+12071045,10/19/2019,FCS,North Dakota,Cal Poly,RECEIVING,Alex,Cloyd,REC,2
+12071046,10/19/2019,FCS,North Dakota,Cal Poly,RECEIVING,Alex,Cloyd,YDS,41
+12071047,10/19/2019,FCS,North Dakota,Cal Poly,RECEIVING,Alex,Cloyd,TD,2
+12071048,10/19/2019,FCS,North Dakota,Cal Poly,RECEIVING,Alex,Cloyd,LONG,39
+12071049,10/19/2019,FCS,North Dakota,Cal Poly,RECEIVING,Garett,Maag,REC,2
+12071050,10/19/2019,FCS,North Dakota,Cal Poly,RECEIVING,Garett,Maag,YDS,26
+12071051,10/19/2019,FCS,North Dakota,Cal Poly,RECEIVING,Garett,Maag,TD,0
+12071052,10/19/2019,FCS,North Dakota,Cal Poly,RECEIVING,Garett,Maag,LONG,14
+12071053,10/19/2019,FCS,North Dakota,Cal Poly,RECEIVING,Nate,Ketteringham,REC,1
+12071054,10/19/2019,FCS,North Dakota,Cal Poly,RECEIVING,Nate,Ketteringham,YDS,4
+12071055,10/19/2019,FCS,North Dakota,Cal Poly,RECEIVING,Nate,Ketteringham,TD,0
+12071056,10/19/2019,FCS,North Dakota,Cal Poly,RECEIVING,Nate,Ketteringham,LONG,4
+12071057,10/19/2019,FCS,North Dakota,Cal Poly,RECEIVING,Luke,Skokna,REC,1
+12071058,10/19/2019,FCS,North Dakota,Cal Poly,RECEIVING,Luke,Skokna,YDS,4
+12071059,10/19/2019,FCS,North Dakota,Cal Poly,RECEIVING,Luke,Skokna,TD,0
+12071060,10/19/2019,FCS,North Dakota,Cal Poly,RECEIVING,Luke,Skokna,LONG,0
+12071061,10/19/2019,FCS,North Dakota,Cal Poly,RECEIVING,Austin,Gordon,REC,1
+12071062,10/19/2019,FCS,North Dakota,Cal Poly,RECEIVING,Austin,Gordon,YDS,3
+12071063,10/19/2019,FCS,North Dakota,Cal Poly,RECEIVING,Austin,Gordon,TD,0
+12071064,10/19/2019,FCS,North Dakota,Cal Poly,RECEIVING,Austin,Gordon,LONG,3
+12071065,10/19/2019,FCS,North Dakota,Cal Poly,RECEIVING,Dalton,Gee,REC,1
+12071066,10/19/2019,FCS,North Dakota,Cal Poly,RECEIVING,Dalton,Gee,YDS,2
+12071067,10/19/2019,FCS,North Dakota,Cal Poly,RECEIVING,Dalton,Gee,TD,0
+12071068,10/19/2019,FCS,North Dakota,Cal Poly,RECEIVING,Dalton,Gee,LONG,2
+12071069,10/19/2019,FCS,North Dakota,Cal Poly,KICKING,Brady,Leach,FG-FGA,1/1
+12071070,10/19/2019,FCS,North Dakota,Cal Poly,KICKING,Brady,Leach,LONG,23
+12071071,10/19/2019,FCS,North Dakota,Cal Poly,KICKING,Brady,Leach,XP,3
+12071072,10/19/2019,FCS,North Dakota,Cal Poly,KICKING,Brady,Leach,PTS,6
+12071073,10/19/2019,FCS,North Dakota,Cal Poly,PUNTING,Cade,Peterson,NO,3
+12071074,10/19/2019,FCS,North Dakota,Cal Poly,PUNTING,Cade,Peterson,YDS,101
+12071075,10/19/2019,FCS,North Dakota,Cal Poly,PUNTING,Cade,Peterson,AVG,33.7
+12071076,10/19/2019,FCS,North Dakota,Cal Poly,PUNTING,Cade,Peterson,LONG,42
+12071077,10/19/2019,FCS,North Dakota,Cal Poly,PUNT RETURNS,Mikey,Griebel,NO,1
+12071078,10/19/2019,FCS,North Dakota,Cal Poly,PUNT RETURNS,Mikey,Griebel,YDS,20
+12071079,10/19/2019,FCS,North Dakota,Cal Poly,PUNT RETURNS,Mikey,Griebel,AVG,20.0
+12071080,10/19/2019,FCS,North Dakota,Cal Poly,PUNT RETURNS,Mikey,Griebel,LONG,20
+12071081,10/19/2019,FCS,North Dakota,Cal Poly,KICK RETURNS,,Team,NO,3
+12071082,10/19/2019,FCS,North Dakota,Cal Poly,KICK RETURNS,,Team,YDS,83
+12071083,10/19/2019,FCS,North Dakota,Cal Poly,KICK RETURNS,,Team,AVG,27.7
+12071084,10/19/2019,FCS,North Dakota,Cal Poly,KICK RETURNS,,Team,LONG,45
+12071085,10/19/2019,FCS,North Dakota,Cal Poly,KICK RETURNS,Luke,Skokna,NO,0
+12071086,10/19/2019,FCS,North Dakota,Cal Poly,KICK RETURNS,Luke,Skokna,YDS,0
+12071087,10/19/2019,FCS,North Dakota,Cal Poly,KICK RETURNS,Luke,Skokna,AVG,-
+12071088,10/19/2019,FCS,North Dakota,Cal Poly,KICK RETURNS,Luke,Skokna,LONG,0
+12071089,10/19/2019,FCS,North Dakota,Cal Poly,DEFENSE,Jaelen,Johnson,TOT,0
+12071090,10/19/2019,FCS,North Dakota,Cal Poly,DEFENSE,Jaelen,Johnson,SOLO,0
+12071091,10/19/2019,FCS,North Dakota,Cal Poly,DEFENSE,Jaelen,Johnson,SACKS,1
+12071092,10/19/2019,FCS,North Dakota,Cal Poly,DEFENSE,Jaelen,Johnson,TFL,0
+12071093,10/19/2019,FCS,North Dakota,Cal Poly,DEFENSE,Jaelen,Johnson,INT,0
+12071094,10/19/2019,FCS,North Dakota,Cal Poly,DEFENSE,Jaelen,Johnson,FF,0
+12071095,10/19/2019,FCS,North Dakota,Cal Poly,DEFENSE,Jaelen,Johnson,FR,0
+12071096,10/19/2019,FCS,North Dakota,Cal Poly,DEFENSE,Donnell,Rodgers,TOT,0
+12071097,10/19/2019,FCS,North Dakota,Cal Poly,DEFENSE,Donnell,Rodgers,SOLO,0
+12071098,10/19/2019,FCS,North Dakota,Cal Poly,DEFENSE,Donnell,Rodgers,SACKS,1
+12071099,10/19/2019,FCS,North Dakota,Cal Poly,DEFENSE,Donnell,Rodgers,TFL,0
+12071100,10/19/2019,FCS,North Dakota,Cal Poly,DEFENSE,Donnell,Rodgers,INT,0
+12071101,10/19/2019,FCS,North Dakota,Cal Poly,DEFENSE,Donnell,Rodgers,FF,0
+12071102,10/19/2019,FCS,North Dakota,Cal Poly,DEFENSE,Donnell,Rodgers,FR,0
+12071103,10/19/2019,FCS,Cal Poly,North Dakota,RUSHING,Duy,Tran-Sampson,ATT,40
+12071104,10/19/2019,FCS,Cal Poly,North Dakota,RUSHING,Duy,Tran-Sampson,YDS,173
+12071105,10/19/2019,FCS,Cal Poly,North Dakota,RUSHING,Duy,Tran-Sampson,TD,1
+12071106,10/19/2019,FCS,Cal Poly,North Dakota,RUSHING,Duy,Tran-Sampson,LONG,16
+12071107,10/19/2019,FCS,Cal Poly,North Dakota,RUSHING,Jalen,Hamler,ATT,19
+12071108,10/19/2019,FCS,Cal Poly,North Dakota,RUSHING,Jalen,Hamler,YDS,47
+12071109,10/19/2019,FCS,Cal Poly,North Dakota,RUSHING,Jalen,Hamler,TD,1
+12071110,10/19/2019,FCS,Cal Poly,North Dakota,RUSHING,Jalen,Hamler,LONG,13
+12071111,10/19/2019,FCS,Cal Poly,North Dakota,RUSHING,Drew,Hernandez,ATT,1
+12071112,10/19/2019,FCS,Cal Poly,North Dakota,RUSHING,Drew,Hernandez,YDS,29
+12071113,10/19/2019,FCS,Cal Poly,North Dakota,RUSHING,Drew,Hernandez,TD,0
+12071114,10/19/2019,FCS,Cal Poly,North Dakota,RUSHING,Drew,Hernandez,LONG,29
+12071115,10/19/2019,FCS,Cal Poly,North Dakota,RUSHING,Lepi,Lataimua,ATT,1
+12071116,10/19/2019,FCS,Cal Poly,North Dakota,RUSHING,Lepi,Lataimua,YDS,13
+12071117,10/19/2019,FCS,Cal Poly,North Dakota,RUSHING,Lepi,Lataimua,TD,0
+12071118,10/19/2019,FCS,Cal Poly,North Dakota,RUSHING,Lepi,Lataimua,LONG,13
+12071119,10/19/2019,FCS,Cal Poly,North Dakota,RUSHING,Trey,Nahhas,ATT,1
+12071120,10/19/2019,FCS,Cal Poly,North Dakota,RUSHING,Trey,Nahhas,YDS,4
+12071121,10/19/2019,FCS,Cal Poly,North Dakota,RUSHING,Trey,Nahhas,TD,0
+12071122,10/19/2019,FCS,Cal Poly,North Dakota,RUSHING,Trey,Nahhas,LONG,4
+12071123,10/19/2019,FCS,Cal Poly,North Dakota,RUSHING,Chuby,Dunu,ATT,1
+12071124,10/19/2019,FCS,Cal Poly,North Dakota,RUSHING,Chuby,Dunu,YDS,2
+12071125,10/19/2019,FCS,Cal Poly,North Dakota,RUSHING,Chuby,Dunu,TD,0
+12071126,10/19/2019,FCS,Cal Poly,North Dakota,RUSHING,Chuby,Dunu,LONG,2
+12071127,10/19/2019,FCS,Cal Poly,North Dakota,PASSING,Jalen,Hamler,CP-ATT-INT,8-11-0
+12071128,10/19/2019,FCS,Cal Poly,North Dakota,PASSING,Jalen,Hamler,YDS,95
+12071129,10/19/2019,FCS,Cal Poly,North Dakota,PASSING,Jalen,Hamler,TD,1
+12071130,10/19/2019,FCS,Cal Poly,North Dakota,PASSING,Jalen,Hamler,LONG,0
+12071131,10/19/2019,FCS,Cal Poly,North Dakota,RECEIVING,J.J.,Koski,REC,4
+12071132,10/19/2019,FCS,Cal Poly,North Dakota,RECEIVING,J.J.,Koski,YDS,71
+12071133,10/19/2019,FCS,Cal Poly,North Dakota,RECEIVING,J.J.,Koski,TD,0
+12071134,10/19/2019,FCS,Cal Poly,North Dakota,RECEIVING,J.J.,Koski,LONG,22
+12071135,10/19/2019,FCS,Cal Poly,North Dakota,RECEIVING,Quentin,Harrison,REC,2
+12071136,10/19/2019,FCS,Cal Poly,North Dakota,RECEIVING,Quentin,Harrison,YDS,23
+12071137,10/19/2019,FCS,Cal Poly,North Dakota,RECEIVING,Quentin,Harrison,TD,1
+12071138,10/19/2019,FCS,Cal Poly,North Dakota,RECEIVING,Quentin,Harrison,LONG,18
+12071139,10/19/2019,FCS,Cal Poly,North Dakota,RECEIVING,Lepi,Lataimua,REC,1
+12071140,10/19/2019,FCS,Cal Poly,North Dakota,RECEIVING,Lepi,Lataimua,YDS,4
+12071141,10/19/2019,FCS,Cal Poly,North Dakota,RECEIVING,Lepi,Lataimua,TD,0
+12071142,10/19/2019,FCS,Cal Poly,North Dakota,RECEIVING,Lepi,Lataimua,LONG,4
+12071143,10/19/2019,FCS,Cal Poly,North Dakota,RECEIVING,Drew,Hernandez,REC,1
+12071144,10/19/2019,FCS,Cal Poly,North Dakota,RECEIVING,Drew,Hernandez,YDS,-3
+12071145,10/19/2019,FCS,Cal Poly,North Dakota,RECEIVING,Drew,Hernandez,TD,0
+12071146,10/19/2019,FCS,Cal Poly,North Dakota,RECEIVING,Drew,Hernandez,LONG,0
+12071147,10/19/2019,FCS,Cal Poly,North Dakota,KICKING,Colton,Theaker,FG-FGA,2/2
+12071148,10/19/2019,FCS,Cal Poly,North Dakota,KICKING,Colton,Theaker,LONG,42
+12071149,10/19/2019,FCS,Cal Poly,North Dakota,KICKING,Colton,Theaker,XP,2
+12071150,10/19/2019,FCS,Cal Poly,North Dakota,KICKING,Colton,Theaker,PTS,8
+12071151,10/19/2019,FCS,Cal Poly,North Dakota,PUNTING,Mitch,Souza,NO,3
+12071152,10/19/2019,FCS,Cal Poly,North Dakota,PUNTING,Mitch,Souza,YDS,99
+12071153,10/19/2019,FCS,Cal Poly,North Dakota,PUNTING,Mitch,Souza,AVG,33.0
+12071154,10/19/2019,FCS,Cal Poly,North Dakota,PUNTING,Mitch,Souza,LONG,49
+12071155,10/19/2019,FCS,Cal Poly,North Dakota,PUNT RETURNS,Bradley,Mickey,NO,1
+12071156,10/19/2019,FCS,Cal Poly,North Dakota,PUNT RETURNS,Bradley,Mickey,YDS,14
+12071157,10/19/2019,FCS,Cal Poly,North Dakota,PUNT RETURNS,Bradley,Mickey,AVG,14.0
+12071158,10/19/2019,FCS,Cal Poly,North Dakota,PUNT RETURNS,Bradley,Mickey,LONG,14
+12071159,10/19/2019,FCS,Cal Poly,North Dakota,KICK RETURNS,Quentin,Harrison,NO,4
+12071160,10/19/2019,FCS,Cal Poly,North Dakota,KICK RETURNS,Quentin,Harrison,YDS,108
+12071161,10/19/2019,FCS,Cal Poly,North Dakota,KICK RETURNS,Quentin,Harrison,AVG,27.0
+12071162,10/19/2019,FCS,Cal Poly,North Dakota,KICK RETURNS,Quentin,Harrison,LONG,52
+12071163,10/19/2019,FCS,Cal Poly,North Dakota,KICK RETURNS,D'Angelo,McKenzie,NO,1
+12071164,10/19/2019,FCS,Cal Poly,North Dakota,KICK RETURNS,D'Angelo,McKenzie,YDS,23
+12071165,10/19/2019,FCS,Cal Poly,North Dakota,KICK RETURNS,D'Angelo,McKenzie,AVG,23.0
+12071166,10/19/2019,FCS,Cal Poly,North Dakota,KICK RETURNS,D'Angelo,McKenzie,LONG,23
+12071167,10/19/2019,FCS,Cal Poly,North Dakota,DEFENSE,Myles,Cecil,TOT,0
+12071168,10/19/2019,FCS,Cal Poly,North Dakota,DEFENSE,Myles,Cecil,SOLO,0
+12071169,10/19/2019,FCS,Cal Poly,North Dakota,DEFENSE,Myles,Cecil,SACKS,0.5
+12071170,10/19/2019,FCS,Cal Poly,North Dakota,DEFENSE,Myles,Cecil,TFL,0
+12071171,10/19/2019,FCS,Cal Poly,North Dakota,DEFENSE,Myles,Cecil,INT,0
+12071172,10/19/2019,FCS,Cal Poly,North Dakota,DEFENSE,Myles,Cecil,FF,0
+12071173,10/19/2019,FCS,Cal Poly,North Dakota,DEFENSE,Myles,Cecil,FR,0
+12071174,10/19/2019,FCS,Cal Poly,North Dakota,DEFENSE,Nik,Navarro,TOT,0
+12071175,10/19/2019,FCS,Cal Poly,North Dakota,DEFENSE,Nik,Navarro,SOLO,0
+12071176,10/19/2019,FCS,Cal Poly,North Dakota,DEFENSE,Nik,Navarro,SACKS,1
+12071177,10/19/2019,FCS,Cal Poly,North Dakota,DEFENSE,Nik,Navarro,TFL,0
+12071178,10/19/2019,FCS,Cal Poly,North Dakota,DEFENSE,Nik,Navarro,INT,0
+12071179,10/19/2019,FCS,Cal Poly,North Dakota,DEFENSE,Nik,Navarro,FF,0
+12071180,10/19/2019,FCS,Cal Poly,North Dakota,DEFENSE,Nik,Navarro,FR,0
+12071181,10/19/2019,FCS,Cal Poly,North Dakota,DEFENSE,Ryan,Boehm,TOT,0
+12071182,10/19/2019,FCS,Cal Poly,North Dakota,DEFENSE,Ryan,Boehm,SOLO,0
+12071183,10/19/2019,FCS,Cal Poly,North Dakota,DEFENSE,Ryan,Boehm,SACKS,0.5
+12071184,10/19/2019,FCS,Cal Poly,North Dakota,DEFENSE,Ryan,Boehm,TFL,0
+12071185,10/19/2019,FCS,Cal Poly,North Dakota,DEFENSE,Ryan,Boehm,INT,0
+12071186,10/19/2019,FCS,Cal Poly,North Dakota,DEFENSE,Ryan,Boehm,FF,0
+12071187,10/19/2019,FCS,Cal Poly,North Dakota,DEFENSE,Ryan,Boehm,FR,0

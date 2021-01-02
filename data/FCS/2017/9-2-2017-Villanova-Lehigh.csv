@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+10051001,9/2/2017,FCS,Villanova,Lehigh,RUSHING,Matt,Gudzak,ATT,12
+10051002,9/2/2017,FCS,Villanova,Lehigh,RUSHING,Matt,Gudzak,YDS,142
+10051003,9/2/2017,FCS,Villanova,Lehigh,RUSHING,Matt,Gudzak,TD,2
+10051004,9/2/2017,FCS,Villanova,Lehigh,RUSHING,Matt,Gudzak,LONG,56
+10051005,9/2/2017,FCS,Villanova,Lehigh,RUSHING,Zach,Bednarczyk,ATT,9
+10051006,9/2/2017,FCS,Villanova,Lehigh,RUSHING,Zach,Bednarczyk,YDS,72
+10051007,9/2/2017,FCS,Villanova,Lehigh,RUSHING,Zach,Bednarczyk,TD,1
+10051008,9/2/2017,FCS,Villanova,Lehigh,RUSHING,Zach,Bednarczyk,LONG,18
+10051009,9/2/2017,FCS,Villanova,Lehigh,RUSHING,Aaron,Forbes,ATT,11
+10051010,9/2/2017,FCS,Villanova,Lehigh,RUSHING,Aaron,Forbes,YDS,44
+10051011,9/2/2017,FCS,Villanova,Lehigh,RUSHING,Aaron,Forbes,TD,0
+10051012,9/2/2017,FCS,Villanova,Lehigh,RUSHING,Aaron,Forbes,LONG,16
+10051013,9/2/2017,FCS,Villanova,Lehigh,RUSHING,Jarrett,McClenton,ATT,3
+10051014,9/2/2017,FCS,Villanova,Lehigh,RUSHING,Jarrett,McClenton,YDS,19
+10051015,9/2/2017,FCS,Villanova,Lehigh,RUSHING,Jarrett,McClenton,TD,0
+10051016,9/2/2017,FCS,Villanova,Lehigh,RUSHING,Jarrett,McClenton,LONG,13
+10051017,9/2/2017,FCS,Villanova,Lehigh,RUSHING,,Team,ATT,3
+10051018,9/2/2017,FCS,Villanova,Lehigh,RUSHING,,Team,YDS,-11
+10051019,9/2/2017,FCS,Villanova,Lehigh,RUSHING,,Team,TD,0
+10051020,9/2/2017,FCS,Villanova,Lehigh,RUSHING,,Team,LONG,0
+10051021,9/2/2017,FCS,Villanova,Lehigh,PASSING,Zach,Bednarczyk,CP-ATT-INT,17-23-0
+10051022,9/2/2017,FCS,Villanova,Lehigh,PASSING,Zach,Bednarczyk,YDS,209
+10051023,9/2/2017,FCS,Villanova,Lehigh,PASSING,Zach,Bednarczyk,TD,2
+10051024,9/2/2017,FCS,Villanova,Lehigh,PASSING,Zach,Bednarczyk,LONG,75
+10051025,9/2/2017,FCS,Villanova,Lehigh,RECEIVING,Taurus,Phillips,REC,3
+10051026,9/2/2017,FCS,Villanova,Lehigh,RECEIVING,Taurus,Phillips,YDS,97
+10051027,9/2/2017,FCS,Villanova,Lehigh,RECEIVING,Taurus,Phillips,TD,1
+10051028,9/2/2017,FCS,Villanova,Lehigh,RECEIVING,Taurus,Phillips,LONG,75
+10051029,9/2/2017,FCS,Villanova,Lehigh,RECEIVING,Ryan,Bell,REC,5
+10051030,9/2/2017,FCS,Villanova,Lehigh,RECEIVING,Ryan,Bell,YDS,78
+10051031,9/2/2017,FCS,Villanova,Lehigh,RECEIVING,Ryan,Bell,TD,1
+10051032,9/2/2017,FCS,Villanova,Lehigh,RECEIVING,Ryan,Bell,LONG,26
+10051033,9/2/2017,FCS,Villanova,Lehigh,RECEIVING,Aaron,Forbes,REC,2
+10051034,9/2/2017,FCS,Villanova,Lehigh,RECEIVING,Aaron,Forbes,YDS,14
+10051035,9/2/2017,FCS,Villanova,Lehigh,RECEIVING,Aaron,Forbes,TD,0
+10051036,9/2/2017,FCS,Villanova,Lehigh,RECEIVING,Aaron,Forbes,LONG,15
+10051037,9/2/2017,FCS,Villanova,Lehigh,RECEIVING,Jarrett,McClenton,REC,3
+10051038,9/2/2017,FCS,Villanova,Lehigh,RECEIVING,Jarrett,McClenton,YDS,8
+10051039,9/2/2017,FCS,Villanova,Lehigh,RECEIVING,Jarrett,McClenton,TD,0
+10051040,9/2/2017,FCS,Villanova,Lehigh,RECEIVING,Jarrett,McClenton,LONG,9
+10051041,9/2/2017,FCS,Villanova,Lehigh,RECEIVING,Brandon,Chadbourn,REC,1
+10051042,9/2/2017,FCS,Villanova,Lehigh,RECEIVING,Brandon,Chadbourn,YDS,7
+10051043,9/2/2017,FCS,Villanova,Lehigh,RECEIVING,Brandon,Chadbourn,TD,0
+10051044,9/2/2017,FCS,Villanova,Lehigh,RECEIVING,Brandon,Chadbourn,LONG,7
+10051045,9/2/2017,FCS,Villanova,Lehigh,RECEIVING,Zac,Kerxton,REC,1
+10051046,9/2/2017,FCS,Villanova,Lehigh,RECEIVING,Zac,Kerxton,YDS,6
+10051047,9/2/2017,FCS,Villanova,Lehigh,RECEIVING,Zac,Kerxton,TD,0
+10051048,9/2/2017,FCS,Villanova,Lehigh,RECEIVING,Zac,Kerxton,LONG,6
+10051049,9/2/2017,FCS,Villanova,Lehigh,RECEIVING,Changa,Hodge,REC,1
+10051050,9/2/2017,FCS,Villanova,Lehigh,RECEIVING,Changa,Hodge,YDS,3
+10051051,9/2/2017,FCS,Villanova,Lehigh,RECEIVING,Changa,Hodge,TD,0
+10051052,9/2/2017,FCS,Villanova,Lehigh,RECEIVING,Changa,Hodge,LONG,3
+10051053,9/2/2017,FCS,Villanova,Lehigh,RECEIVING,Matt,Gudzak,REC,1
+10051054,9/2/2017,FCS,Villanova,Lehigh,RECEIVING,Matt,Gudzak,YDS,-4
+10051055,9/2/2017,FCS,Villanova,Lehigh,RECEIVING,Matt,Gudzak,TD,0
+10051056,9/2/2017,FCS,Villanova,Lehigh,RECEIVING,Matt,Gudzak,LONG,0
+10051057,9/2/2017,FCS,Villanova,Lehigh,KICKING,Drew,Kresge,FG-FGA,1/1
+10051058,9/2/2017,FCS,Villanova,Lehigh,KICKING,Drew,Kresge,LONG,32
+10051059,9/2/2017,FCS,Villanova,Lehigh,KICKING,Drew,Kresge,XP,5
+10051060,9/2/2017,FCS,Villanova,Lehigh,KICKING,Drew,Kresge,PTS,8
+10051061,9/2/2017,FCS,Villanova,Lehigh,PUNTING,John,Hinchen,NO,4
+10051062,9/2/2017,FCS,Villanova,Lehigh,PUNTING,John,Hinchen,YDS,182
+10051063,9/2/2017,FCS,Villanova,Lehigh,PUNTING,John,Hinchen,AVG,45.5
+10051064,9/2/2017,FCS,Villanova,Lehigh,PUNTING,John,Hinchen,LONG,51
+10051065,9/2/2017,FCS,Villanova,Lehigh,PUNT RETURNS,Taurus,Phillips,NO,1
+10051066,9/2/2017,FCS,Villanova,Lehigh,PUNT RETURNS,Taurus,Phillips,YDS,1
+10051067,9/2/2017,FCS,Villanova,Lehigh,PUNT RETURNS,Taurus,Phillips,AVG,1.0
+10051068,9/2/2017,FCS,Villanova,Lehigh,PUNT RETURNS,Taurus,Phillips,LONG,1
+10051069,9/2/2017,FCS,Villanova,Lehigh,PUNT RETURNS,,Team,NO,1
+10051070,9/2/2017,FCS,Villanova,Lehigh,PUNT RETURNS,,Team,YDS,0
+10051071,9/2/2017,FCS,Villanova,Lehigh,PUNT RETURNS,,Team,AVG,-
+10051072,9/2/2017,FCS,Villanova,Lehigh,PUNT RETURNS,,Team,LONG,0
+10051073,9/2/2017,FCS,Villanova,Lehigh,KICK RETURNS,Josh,McGrigg,NO,4
+10051074,9/2/2017,FCS,Villanova,Lehigh,KICK RETURNS,Josh,McGrigg,YDS,104
+10051075,9/2/2017,FCS,Villanova,Lehigh,KICK RETURNS,Josh,McGrigg,AVG,26.0
+10051076,9/2/2017,FCS,Villanova,Lehigh,KICK RETURNS,Josh,McGrigg,LONG,40
+10051077,9/2/2017,FCS,Villanova,Lehigh,KICK RETURNS,Rob,Rolle,NO,1
+10051078,9/2/2017,FCS,Villanova,Lehigh,KICK RETURNS,Rob,Rolle,YDS,27
+10051079,9/2/2017,FCS,Villanova,Lehigh,KICK RETURNS,Rob,Rolle,AVG,27.0
+10051080,9/2/2017,FCS,Villanova,Lehigh,KICK RETURNS,Rob,Rolle,LONG,27
+10051081,9/2/2017,FCS,Lehigh,Villanova,RUSHING,Dominick,Bragalone,ATT,25
+10051082,9/2/2017,FCS,Lehigh,Villanova,RUSHING,Dominick,Bragalone,YDS,82
+10051083,9/2/2017,FCS,Lehigh,Villanova,RUSHING,Dominick,Bragalone,TD,1
+10051084,9/2/2017,FCS,Lehigh,Villanova,RUSHING,Dominick,Bragalone,LONG,9
+10051085,9/2/2017,FCS,Lehigh,Villanova,RUSHING,Nana,Amankwah-Ayeh,ATT,2
+10051086,9/2/2017,FCS,Lehigh,Villanova,RUSHING,Nana,Amankwah-Ayeh,YDS,-1
+10051087,9/2/2017,FCS,Lehigh,Villanova,RUSHING,Nana,Amankwah-Ayeh,TD,0
+10051088,9/2/2017,FCS,Lehigh,Villanova,RUSHING,Nana,Amankwah-Ayeh,LONG,1
+10051089,9/2/2017,FCS,Lehigh,Villanova,RUSHING,Brad,Mayes,ATT,2
+10051090,9/2/2017,FCS,Lehigh,Villanova,RUSHING,Brad,Mayes,YDS,-3
+10051091,9/2/2017,FCS,Lehigh,Villanova,RUSHING,Brad,Mayes,TD,0
+10051092,9/2/2017,FCS,Lehigh,Villanova,RUSHING,Brad,Mayes,LONG,0
+10051093,9/2/2017,FCS,Lehigh,Villanova,PASSING,Brad,Mayes,CP-ATT-INT,33-49-0
+10051094,9/2/2017,FCS,Lehigh,Villanova,PASSING,Brad,Mayes,YDS,406
+10051095,9/2/2017,FCS,Lehigh,Villanova,PASSING,Brad,Mayes,TD,4
+10051096,9/2/2017,FCS,Lehigh,Villanova,PASSING,Brad,Mayes,LONG,66
+10051097,9/2/2017,FCS,Lehigh,Villanova,RECEIVING,Luke,Christiano,REC,8
+10051098,9/2/2017,FCS,Lehigh,Villanova,RECEIVING,Luke,Christiano,YDS,143
+10051099,9/2/2017,FCS,Lehigh,Villanova,RECEIVING,Luke,Christiano,TD,1
+10051100,9/2/2017,FCS,Lehigh,Villanova,RECEIVING,Luke,Christiano,LONG,66
+10051101,9/2/2017,FCS,Lehigh,Villanova,RECEIVING,Troy,Pelletier,REC,11
+10051102,9/2/2017,FCS,Lehigh,Villanova,RECEIVING,Troy,Pelletier,YDS,141
+10051103,9/2/2017,FCS,Lehigh,Villanova,RECEIVING,Troy,Pelletier,TD,1
+10051104,9/2/2017,FCS,Lehigh,Villanova,RECEIVING,Troy,Pelletier,LONG,23
+10051105,9/2/2017,FCS,Lehigh,Villanova,RECEIVING,Gatlin,Casey,REC,5
+10051106,9/2/2017,FCS,Lehigh,Villanova,RECEIVING,Gatlin,Casey,YDS,64
+10051107,9/2/2017,FCS,Lehigh,Villanova,RECEIVING,Gatlin,Casey,TD,2
+10051108,9/2/2017,FCS,Lehigh,Villanova,RECEIVING,Gatlin,Casey,LONG,29
+10051109,9/2/2017,FCS,Lehigh,Villanova,RECEIVING,Sasha,Kelsey,REC,8
+10051110,9/2/2017,FCS,Lehigh,Villanova,RECEIVING,Sasha,Kelsey,YDS,62
+10051111,9/2/2017,FCS,Lehigh,Villanova,RECEIVING,Sasha,Kelsey,TD,0
+10051112,9/2/2017,FCS,Lehigh,Villanova,RECEIVING,Sasha,Kelsey,LONG,16
+10051113,9/2/2017,FCS,Lehigh,Villanova,RECEIVING,Jorge,Portorreal,REC,1
+10051114,9/2/2017,FCS,Lehigh,Villanova,RECEIVING,Jorge,Portorreal,YDS,-4
+10051115,9/2/2017,FCS,Lehigh,Villanova,RECEIVING,Jorge,Portorreal,TD,0
+10051116,9/2/2017,FCS,Lehigh,Villanova,RECEIVING,Jorge,Portorreal,LONG,0
+10051117,9/2/2017,FCS,Lehigh,Villanova,KICKING,Ed,Mish,FG-FGA,0/1
+10051118,9/2/2017,FCS,Lehigh,Villanova,KICKING,Ed,Mish,LONG,43
+10051119,9/2/2017,FCS,Lehigh,Villanova,KICKING,Ed,Mish,XP,5
+10051120,9/2/2017,FCS,Lehigh,Villanova,KICKING,Ed,Mish,PTS,5
+10051121,9/2/2017,FCS,Lehigh,Villanova,PUNTING,Ed,Mish,NO,5
+10051122,9/2/2017,FCS,Lehigh,Villanova,PUNTING,Ed,Mish,YDS,172
+10051123,9/2/2017,FCS,Lehigh,Villanova,PUNTING,Ed,Mish,AVG,34.4
+10051124,9/2/2017,FCS,Lehigh,Villanova,PUNTING,Ed,Mish,LONG,48
+10051125,9/2/2017,FCS,Lehigh,Villanova,PUNT RETURNS,Quentin,Jones,NO,4
+10051126,9/2/2017,FCS,Lehigh,Villanova,PUNT RETURNS,Quentin,Jones,YDS,35
+10051127,9/2/2017,FCS,Lehigh,Villanova,PUNT RETURNS,Quentin,Jones,AVG,8.8
+10051128,9/2/2017,FCS,Lehigh,Villanova,PUNT RETURNS,Quentin,Jones,LONG,20
+10051129,9/2/2017,FCS,Lehigh,Villanova,KICK RETURNS,Gatlin,Casey,NO,5
+10051130,9/2/2017,FCS,Lehigh,Villanova,KICK RETURNS,Gatlin,Casey,YDS,127
+10051131,9/2/2017,FCS,Lehigh,Villanova,KICK RETURNS,Gatlin,Casey,AVG,25.4
+10051132,9/2/2017,FCS,Lehigh,Villanova,KICK RETURNS,Gatlin,Casey,LONG,31
+10051133,9/2/2017,FCS,Lehigh,Villanova,KICK RETURNS,Jorge,Portorreal,NO,1
+10051134,9/2/2017,FCS,Lehigh,Villanova,KICK RETURNS,Jorge,Portorreal,YDS,25
+10051135,9/2/2017,FCS,Lehigh,Villanova,KICK RETURNS,Jorge,Portorreal,AVG,25.0
+10051136,9/2/2017,FCS,Lehigh,Villanova,KICK RETURNS,Jorge,Portorreal,LONG,25

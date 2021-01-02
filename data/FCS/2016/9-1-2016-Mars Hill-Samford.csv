@@ -1,0 +1,105 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9223001,9/1/2016,FCS,Samford,Mars Hill,RUSHING,Roland,Adams,ATT,13
+9223002,9/1/2016,FCS,Samford,Mars Hill,RUSHING,Roland,Adams,YDS,89
+9223003,9/1/2016,FCS,Samford,Mars Hill,RUSHING,Roland,Adams,TD,1
+9223004,9/1/2016,FCS,Samford,Mars Hill,RUSHING,Roland,Adams,LONG,15
+9223005,9/1/2016,FCS,Samford,Mars Hill,RUSHING,Drew,Couto,ATT,8
+9223006,9/1/2016,FCS,Samford,Mars Hill,RUSHING,Drew,Couto,YDS,46
+9223007,9/1/2016,FCS,Samford,Mars Hill,RUSHING,Drew,Couto,TD,2
+9223008,9/1/2016,FCS,Samford,Mars Hill,RUSHING,Drew,Couto,LONG,13
+9223009,9/1/2016,FCS,Samford,Mars Hill,RUSHING,K'rondis,Larry,ATT,10
+9223010,9/1/2016,FCS,Samford,Mars Hill,RUSHING,K'rondis,Larry,YDS,41
+9223011,9/1/2016,FCS,Samford,Mars Hill,RUSHING,K'rondis,Larry,TD,1
+9223012,9/1/2016,FCS,Samford,Mars Hill,RUSHING,K'rondis,Larry,LONG,15
+9223013,9/1/2016,FCS,Samford,Mars Hill,RUSHING,Devlin,Hodges,ATT,6
+9223014,9/1/2016,FCS,Samford,Mars Hill,RUSHING,Devlin,Hodges,YDS,23
+9223015,9/1/2016,FCS,Samford,Mars Hill,RUSHING,Devlin,Hodges,TD,0
+9223016,9/1/2016,FCS,Samford,Mars Hill,RUSHING,Devlin,Hodges,LONG,7
+9223017,9/1/2016,FCS,Samford,Mars Hill,RUSHING,Justin,Curry,ATT,6
+9223018,9/1/2016,FCS,Samford,Mars Hill,RUSHING,Justin,Curry,YDS,17
+9223019,9/1/2016,FCS,Samford,Mars Hill,RUSHING,Justin,Curry,TD,0
+9223020,9/1/2016,FCS,Samford,Mars Hill,RUSHING,Justin,Curry,LONG,6
+9223021,9/1/2016,FCS,Samford,Mars Hill,RUSHING,Liam,Welch,ATT,1
+9223022,9/1/2016,FCS,Samford,Mars Hill,RUSHING,Liam,Welch,YDS,5
+9223023,9/1/2016,FCS,Samford,Mars Hill,RUSHING,Liam,Welch,TD,0
+9223024,9/1/2016,FCS,Samford,Mars Hill,RUSHING,Liam,Welch,LONG,5
+9223025,9/1/2016,FCS,Samford,Mars Hill,PASSING,Devlin,Hodges,CP-ATT-INT,39-49-0
+9223026,9/1/2016,FCS,Samford,Mars Hill,PASSING,Devlin,Hodges,YDS,313
+9223027,9/1/2016,FCS,Samford,Mars Hill,PASSING,Devlin,Hodges,TD,5
+9223028,9/1/2016,FCS,Samford,Mars Hill,PASSING,Devlin,Hodges,LONG,33
+9223029,9/1/2016,FCS,Samford,Mars Hill,PASSING,Liam,Welch,CP-ATT-INT,3-3-0
+9223030,9/1/2016,FCS,Samford,Mars Hill,PASSING,Liam,Welch,YDS,39
+9223031,9/1/2016,FCS,Samford,Mars Hill,PASSING,Liam,Welch,TD,1
+9223032,9/1/2016,FCS,Samford,Mars Hill,PASSING,Liam,Welch,LONG,23
+9223033,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,TaDarryl,Marshall,REC,14
+9223034,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,TaDarryl,Marshall,YDS,100
+9223035,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,TaDarryl,Marshall,TD,1
+9223036,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,TaDarryl,Marshall,LONG,17
+9223037,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,Andrew,Harris,REC,4
+9223038,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,Andrew,Harris,YDS,75
+9223039,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,Andrew,Harris,TD,1
+9223040,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,Andrew,Harris,LONG,33
+9223041,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,Emmanuel,Obajimi,REC,7
+9223042,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,Emmanuel,Obajimi,YDS,51
+9223043,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,Emmanuel,Obajimi,TD,1
+9223044,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,Emmanuel,Obajimi,LONG,15
+9223045,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,Clarke,Miller,REC,5
+9223046,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,Clarke,Miller,YDS,41
+9223047,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,Clarke,Miller,TD,0
+9223048,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,Clarke,Miller,LONG,14
+9223049,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,Devon,Schmitt,REC,3
+9223050,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,Devon,Schmitt,YDS,26
+9223051,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,Devon,Schmitt,TD,1
+9223052,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,Devon,Schmitt,LONG,13
+9223053,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,Roland,Adams,REC,3
+9223054,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,Roland,Adams,YDS,20
+9223055,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,Roland,Adams,TD,1
+9223056,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,Roland,Adams,LONG,12
+9223057,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,Robert,Adams,REC,1
+9223058,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,Robert,Adams,YDS,12
+9223059,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,Robert,Adams,TD,0
+9223060,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,Robert,Adams,LONG,12
+9223061,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,Justin,Curry,REC,1
+9223062,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,Justin,Curry,YDS,11
+9223063,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,Justin,Curry,TD,0
+9223064,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,Justin,Curry,LONG,11
+9223065,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,Troy,Forrest,REC,2
+9223066,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,Troy,Forrest,YDS,9
+9223067,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,Troy,Forrest,TD,1
+9223068,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,Troy,Forrest,LONG,5
+9223069,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,Drew,Couto,REC,1
+9223070,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,Drew,Couto,YDS,4
+9223071,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,Drew,Couto,TD,0
+9223072,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,Drew,Couto,LONG,4
+9223073,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,K'rondis,Larry,REC,1
+9223074,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,K'rondis,Larry,YDS,3
+9223075,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,K'rondis,Larry,TD,0
+9223076,9/1/2016,FCS,Samford,Mars Hill,RECEIVING,K'rondis,Larry,LONG,3
+9223077,9/1/2016,FCS,Samford,Mars Hill,KICKING,Reece,Everett,FG-FGA,0/0
+9223078,9/1/2016,FCS,Samford,Mars Hill,KICKING,Reece,Everett,LONG,-
+9223079,9/1/2016,FCS,Samford,Mars Hill,KICKING,Reece,Everett,XP,8
+9223080,9/1/2016,FCS,Samford,Mars Hill,KICKING,Reece,Everett,PTS,8
+9223081,9/1/2016,FCS,Samford,Mars Hill,KICKING,Matthew,Wylie,FG-FGA,0/0
+9223082,9/1/2016,FCS,Samford,Mars Hill,KICKING,Matthew,Wylie,LONG,-
+9223083,9/1/2016,FCS,Samford,Mars Hill,KICKING,Matthew,Wylie,XP,3
+9223084,9/1/2016,FCS,Samford,Mars Hill,KICKING,Matthew,Wylie,PTS,3
+9223085,9/1/2016,FCS,Samford,Mars Hill,PUNTING,Austin,Barnard,NO,3
+9223086,9/1/2016,FCS,Samford,Mars Hill,PUNTING,Austin,Barnard,YDS,117
+9223087,9/1/2016,FCS,Samford,Mars Hill,PUNTING,Austin,Barnard,AVG,39.0
+9223088,9/1/2016,FCS,Samford,Mars Hill,PUNTING,Austin,Barnard,LONG,47
+9223089,9/1/2016,FCS,Samford,Mars Hill,PUNT RETURNS,K'rondis,Larry,NO,2
+9223090,9/1/2016,FCS,Samford,Mars Hill,PUNT RETURNS,K'rondis,Larry,YDS,42
+9223091,9/1/2016,FCS,Samford,Mars Hill,PUNT RETURNS,K'rondis,Larry,AVG,21.0
+9223092,9/1/2016,FCS,Samford,Mars Hill,PUNT RETURNS,K'rondis,Larry,LONG,24
+9223093,9/1/2016,FCS,Samford,Mars Hill,PUNT RETURNS,Kelvin,McKnight,NO,2
+9223094,9/1/2016,FCS,Samford,Mars Hill,PUNT RETURNS,Kelvin,McKnight,YDS,25
+9223095,9/1/2016,FCS,Samford,Mars Hill,PUNT RETURNS,Kelvin,McKnight,AVG,12.5
+9223096,9/1/2016,FCS,Samford,Mars Hill,PUNT RETURNS,Kelvin,McKnight,LONG,14
+9223097,9/1/2016,FCS,Samford,Mars Hill,KICK RETURNS,Emmanuel,Obajimi,NO,1
+9223098,9/1/2016,FCS,Samford,Mars Hill,KICK RETURNS,Emmanuel,Obajimi,YDS,25
+9223099,9/1/2016,FCS,Samford,Mars Hill,KICK RETURNS,Emmanuel,Obajimi,AVG,25.0
+9223100,9/1/2016,FCS,Samford,Mars Hill,KICK RETURNS,Emmanuel,Obajimi,LONG,25
+9223101,9/1/2016,FCS,Samford,Mars Hill,KICK RETURNS,Aaron,Harris,NO,1
+9223102,9/1/2016,FCS,Samford,Mars Hill,KICK RETURNS,Aaron,Harris,YDS,20
+9223103,9/1/2016,FCS,Samford,Mars Hill,KICK RETURNS,Aaron,Harris,AVG,20.0
+9223104,9/1/2016,FCS,Samford,Mars Hill,KICK RETURNS,Aaron,Harris,LONG,20

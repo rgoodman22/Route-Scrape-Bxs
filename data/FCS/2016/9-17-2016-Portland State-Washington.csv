@@ -1,0 +1,157 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9390001,9/17/2016,FCS,Portland State,Washington,RUSHING,Nate,Tago,ATT,12
+9390002,9/17/2016,FCS,Portland State,Washington,RUSHING,Nate,Tago,YDS,20
+9390003,9/17/2016,FCS,Portland State,Washington,RUSHING,Nate,Tago,TD,0
+9390004,9/17/2016,FCS,Portland State,Washington,RUSHING,Nate,Tago,LONG,7
+9390005,9/17/2016,FCS,Portland State,Washington,RUSHING,Mitchell,Thompson,ATT,2
+9390006,9/17/2016,FCS,Portland State,Washington,RUSHING,Mitchell,Thompson,YDS,8
+9390007,9/17/2016,FCS,Portland State,Washington,RUSHING,Mitchell,Thompson,TD,0
+9390008,9/17/2016,FCS,Portland State,Washington,RUSHING,Mitchell,Thompson,LONG,4
+9390009,9/17/2016,FCS,Portland State,Washington,RUSHING,Paris,Penn,ATT,5
+9390010,9/17/2016,FCS,Portland State,Washington,RUSHING,Paris,Penn,YDS,7
+9390011,9/17/2016,FCS,Portland State,Washington,RUSHING,Paris,Penn,TD,0
+9390012,9/17/2016,FCS,Portland State,Washington,RUSHING,Paris,Penn,LONG,4
+9390013,9/17/2016,FCS,Portland State,Washington,RUSHING,Zach,Floyd,ATT,11
+9390014,9/17/2016,FCS,Portland State,Washington,RUSHING,Zach,Floyd,YDS,7
+9390015,9/17/2016,FCS,Portland State,Washington,RUSHING,Zach,Floyd,TD,0
+9390016,9/17/2016,FCS,Portland State,Washington,RUSHING,Zach,Floyd,LONG,3
+9390017,9/17/2016,FCS,Portland State,Washington,RUSHING,Alex,Kuresa,ATT,12
+9390018,9/17/2016,FCS,Portland State,Washington,RUSHING,Alex,Kuresa,YDS,-8
+9390019,9/17/2016,FCS,Portland State,Washington,RUSHING,Alex,Kuresa,TD,0
+9390020,9/17/2016,FCS,Portland State,Washington,RUSHING,Alex,Kuresa,LONG,12
+9390021,9/17/2016,FCS,Portland State,Washington,PASSING,Alex,Kuresa,CP-ATT-INT,11-17-1
+9390022,9/17/2016,FCS,Portland State,Washington,PASSING,Alex,Kuresa,YDS,148
+9390023,9/17/2016,FCS,Portland State,Washington,PASSING,Alex,Kuresa,TD,0
+9390024,9/17/2016,FCS,Portland State,Washington,PASSING,Alex,Kuresa,LONG,37
+9390025,9/17/2016,FCS,Portland State,Washington,RECEIVING,Maximo,Espitia,REC,4
+9390026,9/17/2016,FCS,Portland State,Washington,RECEIVING,Maximo,Espitia,YDS,75
+9390027,9/17/2016,FCS,Portland State,Washington,RECEIVING,Maximo,Espitia,TD,0
+9390028,9/17/2016,FCS,Portland State,Washington,RECEIVING,Maximo,Espitia,LONG,37
+9390029,9/17/2016,FCS,Portland State,Washington,RECEIVING,Josh,Kraght,REC,2
+9390030,9/17/2016,FCS,Portland State,Washington,RECEIVING,Josh,Kraght,YDS,34
+9390031,9/17/2016,FCS,Portland State,Washington,RECEIVING,Josh,Kraght,TD,0
+9390032,9/17/2016,FCS,Portland State,Washington,RECEIVING,Josh,Kraght,LONG,19
+9390033,9/17/2016,FCS,Portland State,Washington,RECEIVING,Paris,Penn,REC,3
+9390034,9/17/2016,FCS,Portland State,Washington,RECEIVING,Paris,Penn,YDS,22
+9390035,9/17/2016,FCS,Portland State,Washington,RECEIVING,Paris,Penn,TD,0
+9390036,9/17/2016,FCS,Portland State,Washington,RECEIVING,Paris,Penn,LONG,9
+9390037,9/17/2016,FCS,Portland State,Washington,RECEIVING,Chris,Seisay,REC,1
+9390038,9/17/2016,FCS,Portland State,Washington,RECEIVING,Chris,Seisay,YDS,10
+9390039,9/17/2016,FCS,Portland State,Washington,RECEIVING,Chris,Seisay,TD,0
+9390040,9/17/2016,FCS,Portland State,Washington,RECEIVING,Chris,Seisay,LONG,10
+9390041,9/17/2016,FCS,Portland State,Washington,RECEIVING,Charlie,Taumopeau,REC,1
+9390042,9/17/2016,FCS,Portland State,Washington,RECEIVING,Charlie,Taumopeau,YDS,7
+9390043,9/17/2016,FCS,Portland State,Washington,RECEIVING,Charlie,Taumopeau,TD,0
+9390044,9/17/2016,FCS,Portland State,Washington,RECEIVING,Charlie,Taumopeau,LONG,7
+9390045,9/17/2016,FCS,Portland State,Washington,KICKING,Jonathan,Gonzales,FG-FGA,1/1
+9390046,9/17/2016,FCS,Portland State,Washington,KICKING,Jonathan,Gonzales,LONG,26
+9390047,9/17/2016,FCS,Portland State,Washington,KICKING,Jonathan,Gonzales,XP,0
+9390048,9/17/2016,FCS,Portland State,Washington,KICKING,Jonathan,Gonzales,PTS,3
+9390049,9/17/2016,FCS,Portland State,Washington,PUNTING,Marcus,Kinsella,NO,6
+9390050,9/17/2016,FCS,Portland State,Washington,PUNTING,Marcus,Kinsella,YDS,219
+9390051,9/17/2016,FCS,Portland State,Washington,PUNTING,Marcus,Kinsella,AVG,36.5
+9390052,9/17/2016,FCS,Portland State,Washington,PUNTING,Marcus,Kinsella,LONG,62
+9390053,9/17/2016,FCS,Portland State,Washington,KICK RETURNS,Zach,Floyd,NO,1
+9390054,9/17/2016,FCS,Portland State,Washington,KICK RETURNS,Zach,Floyd,YDS,18
+9390055,9/17/2016,FCS,Portland State,Washington,KICK RETURNS,Zach,Floyd,AVG,18.0
+9390056,9/17/2016,FCS,Portland State,Washington,KICK RETURNS,Zach,Floyd,LONG,18
+9390057,9/17/2016,FCS,Portland State,Washington,KICK RETURNS,Nate,Tago,NO,1
+9390058,9/17/2016,FCS,Portland State,Washington,KICK RETURNS,Nate,Tago,YDS,17
+9390059,9/17/2016,FCS,Portland State,Washington,KICK RETURNS,Nate,Tago,AVG,17.0
+9390060,9/17/2016,FCS,Portland State,Washington,KICK RETURNS,Nate,Tago,LONG,17
+9390061,9/17/2016,FCS,Portland State,Washington,KICK RETURNS,Mitchell,Thompson,NO,1
+9390062,9/17/2016,FCS,Portland State,Washington,KICK RETURNS,Mitchell,Thompson,YDS,2
+9390063,9/17/2016,FCS,Portland State,Washington,KICK RETURNS,Mitchell,Thompson,AVG,2.0
+9390064,9/17/2016,FCS,Portland State,Washington,KICK RETURNS,Mitchell,Thompson,LONG,2
+9390065,9/17/2016,FCS,Washington,Portland State,RUSHING,Myles,Gaskin,ATT,13
+9390066,9/17/2016,FCS,Washington,Portland State,RUSHING,Myles,Gaskin,YDS,93
+9390067,9/17/2016,FCS,Washington,Portland State,RUSHING,Myles,Gaskin,TD,1
+9390068,9/17/2016,FCS,Washington,Portland State,RUSHING,Myles,Gaskin,LONG,37
+9390069,9/17/2016,FCS,Washington,Portland State,RUSHING,Lavon,Coleman,ATT,9
+9390070,9/17/2016,FCS,Washington,Portland State,RUSHING,Lavon,Coleman,YDS,59
+9390071,9/17/2016,FCS,Washington,Portland State,RUSHING,Lavon,Coleman,TD,0
+9390072,9/17/2016,FCS,Washington,Portland State,RUSHING,Lavon,Coleman,LONG,21
+9390073,9/17/2016,FCS,Washington,Portland State,RUSHING,Chico,McClatcher,ATT,3
+9390074,9/17/2016,FCS,Washington,Portland State,RUSHING,Chico,McClatcher,YDS,37
+9390075,9/17/2016,FCS,Washington,Portland State,RUSHING,Chico,McClatcher,TD,0
+9390076,9/17/2016,FCS,Washington,Portland State,RUSHING,Chico,McClatcher,LONG,20
+9390077,9/17/2016,FCS,Washington,Portland State,RUSHING,Jomon,Dotson,ATT,5
+9390078,9/17/2016,FCS,Washington,Portland State,RUSHING,Jomon,Dotson,YDS,20
+9390079,9/17/2016,FCS,Washington,Portland State,RUSHING,Jomon,Dotson,TD,0
+9390080,9/17/2016,FCS,Washington,Portland State,RUSHING,Jomon,Dotson,LONG,9
+9390081,9/17/2016,FCS,Washington,Portland State,RUSHING,Aaron,Fuller,ATT,1
+9390082,9/17/2016,FCS,Washington,Portland State,RUSHING,Aaron,Fuller,YDS,3
+9390083,9/17/2016,FCS,Washington,Portland State,RUSHING,Aaron,Fuller,TD,0
+9390084,9/17/2016,FCS,Washington,Portland State,RUSHING,Aaron,Fuller,LONG,3
+9390085,9/17/2016,FCS,Washington,Portland State,RUSHING,Jake,Browning,ATT,2
+9390086,9/17/2016,FCS,Washington,Portland State,RUSHING,Jake,Browning,YDS,1
+9390087,9/17/2016,FCS,Washington,Portland State,RUSHING,Jake,Browning,TD,0
+9390088,9/17/2016,FCS,Washington,Portland State,RUSHING,Jake,Browning,LONG,6
+9390089,9/17/2016,FCS,Washington,Portland State,RUSHING,K.J.,Carta-Samuels,ATT,1
+9390090,9/17/2016,FCS,Washington,Portland State,RUSHING,K.J.,Carta-Samuels,YDS,1
+9390091,9/17/2016,FCS,Washington,Portland State,RUSHING,K.J.,Carta-Samuels,TD,0
+9390092,9/17/2016,FCS,Washington,Portland State,RUSHING,K.J.,Carta-Samuels,LONG,1
+9390093,9/17/2016,FCS,Washington,Portland State,RUSHING,,Team,ATT,1
+9390094,9/17/2016,FCS,Washington,Portland State,RUSHING,,Team,YDS,-1
+9390095,9/17/2016,FCS,Washington,Portland State,RUSHING,,Team,TD,0
+9390096,9/17/2016,FCS,Washington,Portland State,RUSHING,,Team,LONG,-1
+9390097,9/17/2016,FCS,Washington,Portland State,PASSING,Jake,Browning,CP-ATT-INT,12-19-0
+9390098,9/17/2016,FCS,Washington,Portland State,PASSING,Jake,Browning,YDS,163
+9390099,9/17/2016,FCS,Washington,Portland State,PASSING,Jake,Browning,TD,4
+9390100,9/17/2016,FCS,Washington,Portland State,PASSING,Jake,Browning,LONG,43
+9390101,9/17/2016,FCS,Washington,Portland State,PASSING,K.J.,Carta-Samuels,CP-ATT-INT,2-3-0
+9390102,9/17/2016,FCS,Washington,Portland State,PASSING,K.J.,Carta-Samuels,YDS,31
+9390103,9/17/2016,FCS,Washington,Portland State,PASSING,K.J.,Carta-Samuels,TD,1
+9390104,9/17/2016,FCS,Washington,Portland State,PASSING,K.J.,Carta-Samuels,LONG,27
+9390105,9/17/2016,FCS,Washington,Portland State,RECEIVING,Chico,McClatcher,REC,4
+9390106,9/17/2016,FCS,Washington,Portland State,RECEIVING,Chico,McClatcher,YDS,69
+9390107,9/17/2016,FCS,Washington,Portland State,RECEIVING,Chico,McClatcher,TD,2
+9390108,9/17/2016,FCS,Washington,Portland State,RECEIVING,Chico,McClatcher,LONG,43
+9390109,9/17/2016,FCS,Washington,Portland State,RECEIVING,Darrell,Daniels,REC,2
+9390110,9/17/2016,FCS,Washington,Portland State,RECEIVING,Darrell,Daniels,YDS,35
+9390111,9/17/2016,FCS,Washington,Portland State,RECEIVING,Darrell,Daniels,TD,1
+9390112,9/17/2016,FCS,Washington,Portland State,RECEIVING,Darrell,Daniels,LONG,24
+9390113,9/17/2016,FCS,Washington,Portland State,RECEIVING,Aaron,Fuller,REC,3
+9390114,9/17/2016,FCS,Washington,Portland State,RECEIVING,Aaron,Fuller,YDS,34
+9390115,9/17/2016,FCS,Washington,Portland State,RECEIVING,Aaron,Fuller,TD,0
+9390116,9/17/2016,FCS,Washington,Portland State,RECEIVING,Aaron,Fuller,LONG,17
+9390117,9/17/2016,FCS,Washington,Portland State,RECEIVING,Will,Dissly,REC,1
+9390118,9/17/2016,FCS,Washington,Portland State,RECEIVING,Will,Dissly,YDS,27
+9390119,9/17/2016,FCS,Washington,Portland State,RECEIVING,Will,Dissly,TD,1
+9390120,9/17/2016,FCS,Washington,Portland State,RECEIVING,Will,Dissly,LONG,27
+9390121,9/17/2016,FCS,Washington,Portland State,RECEIVING,Drew,Sample,REC,1
+9390122,9/17/2016,FCS,Washington,Portland State,RECEIVING,Drew,Sample,YDS,11
+9390123,9/17/2016,FCS,Washington,Portland State,RECEIVING,Drew,Sample,TD,0
+9390124,9/17/2016,FCS,Washington,Portland State,RECEIVING,Drew,Sample,LONG,11
+9390125,9/17/2016,FCS,Washington,Portland State,RECEIVING,John,Ross,REC,1
+9390126,9/17/2016,FCS,Washington,Portland State,RECEIVING,John,Ross,YDS,10
+9390127,9/17/2016,FCS,Washington,Portland State,RECEIVING,John,Ross,TD,0
+9390128,9/17/2016,FCS,Washington,Portland State,RECEIVING,John,Ross,LONG,10
+9390129,9/17/2016,FCS,Washington,Portland State,RECEIVING,Myles,Gaskin,REC,1
+9390130,9/17/2016,FCS,Washington,Portland State,RECEIVING,Myles,Gaskin,YDS,4
+9390131,9/17/2016,FCS,Washington,Portland State,RECEIVING,Myles,Gaskin,TD,1
+9390132,9/17/2016,FCS,Washington,Portland State,RECEIVING,Myles,Gaskin,LONG,4
+9390133,9/17/2016,FCS,Washington,Portland State,RECEIVING,David,Ajamu,REC,1
+9390134,9/17/2016,FCS,Washington,Portland State,RECEIVING,David,Ajamu,YDS,4
+9390135,9/17/2016,FCS,Washington,Portland State,RECEIVING,David,Ajamu,TD,0
+9390136,9/17/2016,FCS,Washington,Portland State,RECEIVING,David,Ajamu,LONG,4
+9390137,9/17/2016,FCS,Washington,Portland State,KICKING,Cameron,VanWinkle,FG-FGA,0/0
+9390138,9/17/2016,FCS,Washington,Portland State,KICKING,Cameron,VanWinkle,LONG,-
+9390139,9/17/2016,FCS,Washington,Portland State,KICKING,Cameron,VanWinkle,XP,5
+9390140,9/17/2016,FCS,Washington,Portland State,KICKING,Cameron,VanWinkle,PTS,5
+9390141,9/17/2016,FCS,Washington,Portland State,PUNTING,Tristan,Vizcaino,NO,3
+9390142,9/17/2016,FCS,Washington,Portland State,PUNTING,Tristan,Vizcaino,YDS,112
+9390143,9/17/2016,FCS,Washington,Portland State,PUNTING,Tristan,Vizcaino,AVG,37.3
+9390144,9/17/2016,FCS,Washington,Portland State,PUNTING,Tristan,Vizcaino,LONG,46
+9390145,9/17/2016,FCS,Washington,Portland State,PUNT RETURNS,Aaron,Fuller,NO,0
+9390146,9/17/2016,FCS,Washington,Portland State,PUNT RETURNS,Aaron,Fuller,YDS,0
+9390147,9/17/2016,FCS,Washington,Portland State,PUNT RETURNS,Aaron,Fuller,AVG,-
+9390148,9/17/2016,FCS,Washington,Portland State,PUNT RETURNS,Aaron,Fuller,LONG,0
+9390149,9/17/2016,FCS,Washington,Portland State,KICK RETURNS,John,Ross,NO,1
+9390150,9/17/2016,FCS,Washington,Portland State,KICK RETURNS,John,Ross,YDS,10
+9390151,9/17/2016,FCS,Washington,Portland State,KICK RETURNS,John,Ross,AVG,10.0
+9390152,9/17/2016,FCS,Washington,Portland State,KICK RETURNS,John,Ross,LONG,10
+9390153,9/17/2016,FCS,Washington,Portland State,KICK RETURNS,Drew,Sample,NO,0
+9390154,9/17/2016,FCS,Washington,Portland State,KICK RETURNS,Drew,Sample,YDS,0
+9390155,9/17/2016,FCS,Washington,Portland State,KICK RETURNS,Drew,Sample,AVG,-
+9390156,9/17/2016,FCS,Washington,Portland State,KICK RETURNS,Drew,Sample,LONG,0

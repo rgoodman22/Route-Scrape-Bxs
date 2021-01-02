@@ -1,0 +1,157 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+7278001,10/26/2013,FCS,Eastern Illinois,Tennessee State,RUSHING,Shepard,Little,ATT,22
+7278002,10/26/2013,FCS,Eastern Illinois,Tennessee State,RUSHING,Shepard,Little,YDS,138
+7278003,10/26/2013,FCS,Eastern Illinois,Tennessee State,RUSHING,Shepard,Little,TD,1
+7278004,10/26/2013,FCS,Eastern Illinois,Tennessee State,RUSHING,Shepard,Little,LONG,21
+7278005,10/26/2013,FCS,Eastern Illinois,Tennessee State,RUSHING,Taylor,Duncan,ATT,7
+7278006,10/26/2013,FCS,Eastern Illinois,Tennessee State,RUSHING,Taylor,Duncan,YDS,33
+7278007,10/26/2013,FCS,Eastern Illinois,Tennessee State,RUSHING,Taylor,Duncan,TD,0
+7278008,10/26/2013,FCS,Eastern Illinois,Tennessee State,RUSHING,Taylor,Duncan,LONG,14
+7278009,10/26/2013,FCS,Eastern Illinois,Tennessee State,RUSHING,Ben,Krol,ATT,1
+7278010,10/26/2013,FCS,Eastern Illinois,Tennessee State,RUSHING,Ben,Krol,YDS,2
+7278011,10/26/2013,FCS,Eastern Illinois,Tennessee State,RUSHING,Ben,Krol,TD,0
+7278012,10/26/2013,FCS,Eastern Illinois,Tennessee State,RUSHING,Ben,Krol,LONG,2
+7278013,10/26/2013,FCS,Eastern Illinois,Tennessee State,RUSHING,Jimmy,Lera,ATT,2
+7278014,10/26/2013,FCS,Eastern Illinois,Tennessee State,RUSHING,Jimmy,Lera,YDS,-1
+7278015,10/26/2013,FCS,Eastern Illinois,Tennessee State,RUSHING,Jimmy,Lera,TD,0
+7278016,10/26/2013,FCS,Eastern Illinois,Tennessee State,RUSHING,Jimmy,Lera,LONG,1
+7278017,10/26/2013,FCS,Eastern Illinois,Tennessee State,RUSHING,Jimmy,Garoppolo,ATT,4
+7278018,10/26/2013,FCS,Eastern Illinois,Tennessee State,RUSHING,Jimmy,Garoppolo,YDS,-23
+7278019,10/26/2013,FCS,Eastern Illinois,Tennessee State,RUSHING,Jimmy,Garoppolo,TD,0
+7278020,10/26/2013,FCS,Eastern Illinois,Tennessee State,RUSHING,Jimmy,Garoppolo,LONG,4
+7278021,10/26/2013,FCS,Eastern Illinois,Tennessee State,PASSING,Jimmy,Garoppolo,CP-ATT-INT,24-41-1
+7278022,10/26/2013,FCS,Eastern Illinois,Tennessee State,PASSING,Jimmy,Garoppolo,YDS,410
+7278023,10/26/2013,FCS,Eastern Illinois,Tennessee State,PASSING,Jimmy,Garoppolo,TD,4
+7278024,10/26/2013,FCS,Eastern Illinois,Tennessee State,PASSING,Jimmy,Garoppolo,LONG,61
+7278025,10/26/2013,FCS,Eastern Illinois,Tennessee State,PASSING,Ben,Krol,CP-ATT-INT,1-1-0
+7278026,10/26/2013,FCS,Eastern Illinois,Tennessee State,PASSING,Ben,Krol,YDS,8
+7278027,10/26/2013,FCS,Eastern Illinois,Tennessee State,PASSING,Ben,Krol,TD,0
+7278028,10/26/2013,FCS,Eastern Illinois,Tennessee State,PASSING,Ben,Krol,LONG,8
+7278029,10/26/2013,FCS,Eastern Illinois,Tennessee State,RECEIVING,Erik,Lora,REC,10
+7278030,10/26/2013,FCS,Eastern Illinois,Tennessee State,RECEIVING,Erik,Lora,YDS,105
+7278031,10/26/2013,FCS,Eastern Illinois,Tennessee State,RECEIVING,Erik,Lora,TD,0
+7278032,10/26/2013,FCS,Eastern Illinois,Tennessee State,RECEIVING,Erik,Lora,LONG,19
+7278033,10/26/2013,FCS,Eastern Illinois,Tennessee State,RECEIVING,Keiondre,Gober,REC,6
+7278034,10/26/2013,FCS,Eastern Illinois,Tennessee State,RECEIVING,Keiondre,Gober,YDS,128
+7278035,10/26/2013,FCS,Eastern Illinois,Tennessee State,RECEIVING,Keiondre,Gober,TD,2
+7278036,10/26/2013,FCS,Eastern Illinois,Tennessee State,RECEIVING,Keiondre,Gober,LONG,61
+7278037,10/26/2013,FCS,Eastern Illinois,Tennessee State,RECEIVING,Jeff,LePak,REC,4
+7278038,10/26/2013,FCS,Eastern Illinois,Tennessee State,RECEIVING,Jeff,LePak,YDS,112
+7278039,10/26/2013,FCS,Eastern Illinois,Tennessee State,RECEIVING,Jeff,LePak,TD,2
+7278040,10/26/2013,FCS,Eastern Illinois,Tennessee State,RECEIVING,Jeff,LePak,LONG,54
+7278041,10/26/2013,FCS,Eastern Illinois,Tennessee State,RECEIVING,Adam,Drake,REC,3
+7278042,10/26/2013,FCS,Eastern Illinois,Tennessee State,RECEIVING,Adam,Drake,YDS,57
+7278043,10/26/2013,FCS,Eastern Illinois,Tennessee State,RECEIVING,Adam,Drake,TD,0
+7278044,10/26/2013,FCS,Eastern Illinois,Tennessee State,RECEIVING,Adam,Drake,LONG,23
+7278045,10/26/2013,FCS,Eastern Illinois,Tennessee State,RECEIVING,Shepard,Little,REC,1
+7278046,10/26/2013,FCS,Eastern Illinois,Tennessee State,RECEIVING,Shepard,Little,YDS,8
+7278047,10/26/2013,FCS,Eastern Illinois,Tennessee State,RECEIVING,Shepard,Little,TD,0
+7278048,10/26/2013,FCS,Eastern Illinois,Tennessee State,RECEIVING,Shepard,Little,LONG,8
+7278049,10/26/2013,FCS,Eastern Illinois,Tennessee State,RECEIVING,Joe,Powell,REC,1
+7278050,10/26/2013,FCS,Eastern Illinois,Tennessee State,RECEIVING,Joe,Powell,YDS,8
+7278051,10/26/2013,FCS,Eastern Illinois,Tennessee State,RECEIVING,Joe,Powell,TD,0
+7278052,10/26/2013,FCS,Eastern Illinois,Tennessee State,RECEIVING,Joe,Powell,LONG,8
+7278053,10/26/2013,FCS,Eastern Illinois,Tennessee State,KICKING,Cameron,Berra,FG-FGA,0/0
+7278054,10/26/2013,FCS,Eastern Illinois,Tennessee State,KICKING,Cameron,Berra,LONG,-
+7278055,10/26/2013,FCS,Eastern Illinois,Tennessee State,KICKING,Cameron,Berra,XP,4
+7278056,10/26/2013,FCS,Eastern Illinois,Tennessee State,KICKING,Cameron,Berra,PTS,4
+7278057,10/26/2013,FCS,Eastern Illinois,Tennessee State,PUNTING,Scott,Weatherford,NO,6
+7278058,10/26/2013,FCS,Eastern Illinois,Tennessee State,PUNTING,Scott,Weatherford,YDS,199
+7278059,10/26/2013,FCS,Eastern Illinois,Tennessee State,PUNTING,Scott,Weatherford,AVG,33.2
+7278060,10/26/2013,FCS,Eastern Illinois,Tennessee State,PUNTING,Scott,Weatherford,LONG,45
+7278061,10/26/2013,FCS,Eastern Illinois,Tennessee State,PUNT RETURNS,Erik,Lora,NO,2
+7278062,10/26/2013,FCS,Eastern Illinois,Tennessee State,PUNT RETURNS,Erik,Lora,YDS,25
+7278063,10/26/2013,FCS,Eastern Illinois,Tennessee State,PUNT RETURNS,Erik,Lora,AVG,12.5
+7278064,10/26/2013,FCS,Eastern Illinois,Tennessee State,PUNT RETURNS,Erik,Lora,LONG,23
+7278065,10/26/2013,FCS,Eastern Illinois,Tennessee State,KICK RETURNS,Shepard,Little,NO,2
+7278066,10/26/2013,FCS,Eastern Illinois,Tennessee State,KICK RETURNS,Shepard,Little,YDS,58
+7278067,10/26/2013,FCS,Eastern Illinois,Tennessee State,KICK RETURNS,Shepard,Little,AVG,29.0
+7278068,10/26/2013,FCS,Eastern Illinois,Tennessee State,KICK RETURNS,Shepard,Little,LONG,40
+7278069,10/26/2013,FCS,Eastern Illinois,Tennessee State,KICK RETURNS,Andre,Alvarez,NO,1
+7278070,10/26/2013,FCS,Eastern Illinois,Tennessee State,KICK RETURNS,Andre,Alvarez,YDS,4
+7278071,10/26/2013,FCS,Eastern Illinois,Tennessee State,KICK RETURNS,Andre,Alvarez,AVG,4.0
+7278072,10/26/2013,FCS,Eastern Illinois,Tennessee State,KICK RETURNS,Andre,Alvarez,LONG,4
+7278073,10/26/2013,FCS,Tennessee State,Eastern Illinois,RUSHING,Tim,Broughton,ATT,16
+7278074,10/26/2013,FCS,Tennessee State,Eastern Illinois,RUSHING,Tim,Broughton,YDS,93
+7278075,10/26/2013,FCS,Tennessee State,Eastern Illinois,RUSHING,Tim,Broughton,TD,0
+7278076,10/26/2013,FCS,Tennessee State,Eastern Illinois,RUSHING,Tim,Broughton,LONG,27
+7278077,10/26/2013,FCS,Tennessee State,Eastern Illinois,RUSHING,Ronald,Butler,ATT,9
+7278078,10/26/2013,FCS,Tennessee State,Eastern Illinois,RUSHING,Ronald,Butler,YDS,24
+7278079,10/26/2013,FCS,Tennessee State,Eastern Illinois,RUSHING,Ronald,Butler,TD,0
+7278080,10/26/2013,FCS,Tennessee State,Eastern Illinois,RUSHING,Ronald,Butler,LONG,20
+7278081,10/26/2013,FCS,Tennessee State,Eastern Illinois,RUSHING,Telvin,Hooks,ATT,5
+7278082,10/26/2013,FCS,Tennessee State,Eastern Illinois,RUSHING,Telvin,Hooks,YDS,19
+7278083,10/26/2013,FCS,Tennessee State,Eastern Illinois,RUSHING,Telvin,Hooks,TD,0
+7278084,10/26/2013,FCS,Tennessee State,Eastern Illinois,RUSHING,Telvin,Hooks,LONG,7
+7278085,10/26/2013,FCS,Tennessee State,Eastern Illinois,RUSHING,Adam,Davenport,ATT,1
+7278086,10/26/2013,FCS,Tennessee State,Eastern Illinois,RUSHING,Adam,Davenport,YDS,1
+7278087,10/26/2013,FCS,Tennessee State,Eastern Illinois,RUSHING,Adam,Davenport,TD,0
+7278088,10/26/2013,FCS,Tennessee State,Eastern Illinois,RUSHING,Adam,Davenport,LONG,1
+7278089,10/26/2013,FCS,Tennessee State,Eastern Illinois,RUSHING,Ryan,Mitchell,ATT,1
+7278090,10/26/2013,FCS,Tennessee State,Eastern Illinois,RUSHING,Ryan,Mitchell,YDS,-11
+7278091,10/26/2013,FCS,Tennessee State,Eastern Illinois,RUSHING,Ryan,Mitchell,TD,0
+7278092,10/26/2013,FCS,Tennessee State,Eastern Illinois,RUSHING,Ryan,Mitchell,LONG,0
+7278093,10/26/2013,FCS,Tennessee State,Eastern Illinois,PASSING,Ronald,Butler,CP-ATT-INT,24-45-0
+7278094,10/26/2013,FCS,Tennessee State,Eastern Illinois,PASSING,Ronald,Butler,YDS,212
+7278095,10/26/2013,FCS,Tennessee State,Eastern Illinois,PASSING,Ronald,Butler,TD,2
+7278096,10/26/2013,FCS,Tennessee State,Eastern Illinois,PASSING,Ronald,Butler,LONG,27
+7278097,10/26/2013,FCS,Tennessee State,Eastern Illinois,RECEIVING,Lavatiae,Kelly,REC,7
+7278098,10/26/2013,FCS,Tennessee State,Eastern Illinois,RECEIVING,Lavatiae,Kelly,YDS,69
+7278099,10/26/2013,FCS,Tennessee State,Eastern Illinois,RECEIVING,Lavatiae,Kelly,TD,0
+7278100,10/26/2013,FCS,Tennessee State,Eastern Illinois,RECEIVING,Lavatiae,Kelly,LONG,27
+7278101,10/26/2013,FCS,Tennessee State,Eastern Illinois,RECEIVING,Weldon,Garlington,REC,5
+7278102,10/26/2013,FCS,Tennessee State,Eastern Illinois,RECEIVING,Weldon,Garlington,YDS,33
+7278103,10/26/2013,FCS,Tennessee State,Eastern Illinois,RECEIVING,Weldon,Garlington,TD,1
+7278104,10/26/2013,FCS,Tennessee State,Eastern Illinois,RECEIVING,Weldon,Garlington,LONG,19
+7278105,10/26/2013,FCS,Tennessee State,Eastern Illinois,RECEIVING,Devin,Wilson,REC,3
+7278106,10/26/2013,FCS,Tennessee State,Eastern Illinois,RECEIVING,Devin,Wilson,YDS,28
+7278107,10/26/2013,FCS,Tennessee State,Eastern Illinois,RECEIVING,Devin,Wilson,TD,0
+7278108,10/26/2013,FCS,Tennessee State,Eastern Illinois,RECEIVING,Devin,Wilson,LONG,13
+7278109,10/26/2013,FCS,Tennessee State,Eastern Illinois,RECEIVING,Tim,Broughton,REC,2
+7278110,10/26/2013,FCS,Tennessee State,Eastern Illinois,RECEIVING,Tim,Broughton,YDS,20
+7278111,10/26/2013,FCS,Tennessee State,Eastern Illinois,RECEIVING,Tim,Broughton,TD,0
+7278112,10/26/2013,FCS,Tennessee State,Eastern Illinois,RECEIVING,Tim,Broughton,LONG,17
+7278113,10/26/2013,FCS,Tennessee State,Eastern Illinois,RECEIVING,A.C.,Leonard,REC,2
+7278114,10/26/2013,FCS,Tennessee State,Eastern Illinois,RECEIVING,A.C.,Leonard,YDS,14
+7278115,10/26/2013,FCS,Tennessee State,Eastern Illinois,RECEIVING,A.C.,Leonard,TD,0
+7278116,10/26/2013,FCS,Tennessee State,Eastern Illinois,RECEIVING,A.C.,Leonard,LONG,13
+7278117,10/26/2013,FCS,Tennessee State,Eastern Illinois,RECEIVING,Ryan,Mitchell,REC,2
+7278118,10/26/2013,FCS,Tennessee State,Eastern Illinois,RECEIVING,Ryan,Mitchell,YDS,1
+7278119,10/26/2013,FCS,Tennessee State,Eastern Illinois,RECEIVING,Ryan,Mitchell,TD,0
+7278120,10/26/2013,FCS,Tennessee State,Eastern Illinois,RECEIVING,Ryan,Mitchell,LONG,2
+7278121,10/26/2013,FCS,Tennessee State,Eastern Illinois,RECEIVING,Wesley,Samuels,REC,1
+7278122,10/26/2013,FCS,Tennessee State,Eastern Illinois,RECEIVING,Wesley,Samuels,YDS,25
+7278123,10/26/2013,FCS,Tennessee State,Eastern Illinois,RECEIVING,Wesley,Samuels,TD,0
+7278124,10/26/2013,FCS,Tennessee State,Eastern Illinois,RECEIVING,Wesley,Samuels,LONG,25
+7278125,10/26/2013,FCS,Tennessee State,Eastern Illinois,RECEIVING,Dantwan,O'Neal,REC,1
+7278126,10/26/2013,FCS,Tennessee State,Eastern Illinois,RECEIVING,Dantwan,O'Neal,YDS,17
+7278127,10/26/2013,FCS,Tennessee State,Eastern Illinois,RECEIVING,Dantwan,O'Neal,TD,1
+7278128,10/26/2013,FCS,Tennessee State,Eastern Illinois,RECEIVING,Dantwan,O'Neal,LONG,17
+7278129,10/26/2013,FCS,Tennessee State,Eastern Illinois,RECEIVING,Chris,Sanders-McCollum,REC,1
+7278130,10/26/2013,FCS,Tennessee State,Eastern Illinois,RECEIVING,Chris,Sanders-McCollum,YDS,5
+7278131,10/26/2013,FCS,Tennessee State,Eastern Illinois,RECEIVING,Chris,Sanders-McCollum,TD,0
+7278132,10/26/2013,FCS,Tennessee State,Eastern Illinois,RECEIVING,Chris,Sanders-McCollum,LONG,5
+7278133,10/26/2013,FCS,Tennessee State,Eastern Illinois,KICKING,Jamin,Godfrey,FG-FGA,1/2
+7278134,10/26/2013,FCS,Tennessee State,Eastern Illinois,KICKING,Jamin,Godfrey,LONG,43
+7278135,10/26/2013,FCS,Tennessee State,Eastern Illinois,KICKING,Jamin,Godfrey,XP,1
+7278136,10/26/2013,FCS,Tennessee State,Eastern Illinois,KICKING,Jamin,Godfrey,PTS,4
+7278137,10/26/2013,FCS,Tennessee State,Eastern Illinois,PUNTING,Leon,Holderhead,NO,8
+7278138,10/26/2013,FCS,Tennessee State,Eastern Illinois,PUNTING,Leon,Holderhead,YDS,328
+7278139,10/26/2013,FCS,Tennessee State,Eastern Illinois,PUNTING,Leon,Holderhead,AVG,41.0
+7278140,10/26/2013,FCS,Tennessee State,Eastern Illinois,PUNTING,Leon,Holderhead,LONG,48
+7278141,10/26/2013,FCS,Tennessee State,Eastern Illinois,PUNT RETURNS,De'Ante,Saunders,NO,5
+7278142,10/26/2013,FCS,Tennessee State,Eastern Illinois,PUNT RETURNS,De'Ante,Saunders,YDS,56
+7278143,10/26/2013,FCS,Tennessee State,Eastern Illinois,PUNT RETURNS,De'Ante,Saunders,AVG,11.2
+7278144,10/26/2013,FCS,Tennessee State,Eastern Illinois,PUNT RETURNS,De'Ante,Saunders,LONG,23
+7278145,10/26/2013,FCS,Tennessee State,Eastern Illinois,KICK RETURNS,Mike,West,NO,1
+7278146,10/26/2013,FCS,Tennessee State,Eastern Illinois,KICK RETURNS,Mike,West,YDS,13
+7278147,10/26/2013,FCS,Tennessee State,Eastern Illinois,KICK RETURNS,Mike,West,AVG,13.0
+7278148,10/26/2013,FCS,Tennessee State,Eastern Illinois,KICK RETURNS,Mike,West,LONG,13
+7278149,10/26/2013,FCS,Tennessee State,Eastern Illinois,KICK RETURNS,De'Ante,Saunders,NO,1
+7278150,10/26/2013,FCS,Tennessee State,Eastern Illinois,KICK RETURNS,De'Ante,Saunders,YDS,5
+7278151,10/26/2013,FCS,Tennessee State,Eastern Illinois,KICK RETURNS,De'Ante,Saunders,AVG,5.0
+7278152,10/26/2013,FCS,Tennessee State,Eastern Illinois,KICK RETURNS,De'Ante,Saunders,LONG,5
+7278153,10/26/2013,FCS,Tennessee State,Eastern Illinois,KICK RETURNS,Wesley,Samuels,NO,1
+7278154,10/26/2013,FCS,Tennessee State,Eastern Illinois,KICK RETURNS,Wesley,Samuels,YDS,1
+7278155,10/26/2013,FCS,Tennessee State,Eastern Illinois,KICK RETURNS,Wesley,Samuels,AVG,1.0
+7278156,10/26/2013,FCS,Tennessee State,Eastern Illinois,KICK RETURNS,Wesley,Samuels,LONG,1

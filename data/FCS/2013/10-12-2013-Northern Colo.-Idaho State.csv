@@ -1,0 +1,121 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+7184001,10/12/2013,FCS,Northern Colo.,Idaho State,RUSHING,Tromaine,Dennis,ATT,14
+7184002,10/12/2013,FCS,Northern Colo.,Idaho State,RUSHING,Tromaine,Dennis,YDS,65
+7184003,10/12/2013,FCS,Northern Colo.,Idaho State,RUSHING,Tromaine,Dennis,TD,1
+7184004,10/12/2013,FCS,Northern Colo.,Idaho State,RUSHING,Tromaine,Dennis,LONG,17
+7184005,10/12/2013,FCS,Northern Colo.,Idaho State,RUSHING,Darius,Graham,ATT,4
+7184006,10/12/2013,FCS,Northern Colo.,Idaho State,RUSHING,Darius,Graham,YDS,40
+7184007,10/12/2013,FCS,Northern Colo.,Idaho State,RUSHING,Darius,Graham,TD,0
+7184008,10/12/2013,FCS,Northern Colo.,Idaho State,RUSHING,Darius,Graham,LONG,26
+7184009,10/12/2013,FCS,Northern Colo.,Idaho State,RUSHING,,Team,ATT,1
+7184010,10/12/2013,FCS,Northern Colo.,Idaho State,RUSHING,,Team,YDS,-1
+7184011,10/12/2013,FCS,Northern Colo.,Idaho State,RUSHING,,Team,TD,0
+7184012,10/12/2013,FCS,Northern Colo.,Idaho State,RUSHING,,Team,LONG,0
+7184013,10/12/2013,FCS,Northern Colo.,Idaho State,RUSHING,Seth,Lobato,ATT,7
+7184014,10/12/2013,FCS,Northern Colo.,Idaho State,RUSHING,Seth,Lobato,YDS,-21
+7184015,10/12/2013,FCS,Northern Colo.,Idaho State,RUSHING,Seth,Lobato,TD,0
+7184016,10/12/2013,FCS,Northern Colo.,Idaho State,RUSHING,Seth,Lobato,LONG,2
+7184017,10/12/2013,FCS,Northern Colo.,Idaho State,PASSING,Seth,Lobato,CP-ATT-INT,19-42-1
+7184018,10/12/2013,FCS,Northern Colo.,Idaho State,PASSING,Seth,Lobato,YDS,336
+7184019,10/12/2013,FCS,Northern Colo.,Idaho State,PASSING,Seth,Lobato,TD,2
+7184020,10/12/2013,FCS,Northern Colo.,Idaho State,PASSING,Seth,Lobato,LONG,75
+7184021,10/12/2013,FCS,Northern Colo.,Idaho State,RECEIVING,Dimitri,Stimphil,REC,8
+7184022,10/12/2013,FCS,Northern Colo.,Idaho State,RECEIVING,Dimitri,Stimphil,YDS,87
+7184023,10/12/2013,FCS,Northern Colo.,Idaho State,RECEIVING,Dimitri,Stimphil,TD,1
+7184024,10/12/2013,FCS,Northern Colo.,Idaho State,RECEIVING,Dimitri,Stimphil,LONG,30
+7184025,10/12/2013,FCS,Northern Colo.,Idaho State,RECEIVING,Jace,Davis,REC,6
+7184026,10/12/2013,FCS,Northern Colo.,Idaho State,RECEIVING,Jace,Davis,YDS,188
+7184027,10/12/2013,FCS,Northern Colo.,Idaho State,RECEIVING,Jace,Davis,TD,1
+7184028,10/12/2013,FCS,Northern Colo.,Idaho State,RECEIVING,Jace,Davis,LONG,75
+7184029,10/12/2013,FCS,Northern Colo.,Idaho State,RECEIVING,Austin,Wilbers,REC,4
+7184030,10/12/2013,FCS,Northern Colo.,Idaho State,RECEIVING,Austin,Wilbers,YDS,50
+7184031,10/12/2013,FCS,Northern Colo.,Idaho State,RECEIVING,Austin,Wilbers,TD,0
+7184032,10/12/2013,FCS,Northern Colo.,Idaho State,RECEIVING,Austin,Wilbers,LONG,26
+7184033,10/12/2013,FCS,Northern Colo.,Idaho State,RECEIVING,Tromaine,Dennis,REC,1
+7184034,10/12/2013,FCS,Northern Colo.,Idaho State,RECEIVING,Tromaine,Dennis,YDS,11
+7184035,10/12/2013,FCS,Northern Colo.,Idaho State,RECEIVING,Tromaine,Dennis,TD,0
+7184036,10/12/2013,FCS,Northern Colo.,Idaho State,RECEIVING,Tromaine,Dennis,LONG,11
+7184037,10/12/2013,FCS,Northern Colo.,Idaho State,KICKING,Jamie,Falloon,FG-FGA,1/1
+7184038,10/12/2013,FCS,Northern Colo.,Idaho State,KICKING,Jamie,Falloon,LONG,35
+7184039,10/12/2013,FCS,Northern Colo.,Idaho State,KICKING,Jamie,Falloon,XP,3
+7184040,10/12/2013,FCS,Northern Colo.,Idaho State,KICKING,Jamie,Falloon,PTS,6
+7184041,10/12/2013,FCS,Northern Colo.,Idaho State,PUNTING,Tanner,Ellingsen,NO,5
+7184042,10/12/2013,FCS,Northern Colo.,Idaho State,PUNTING,Tanner,Ellingsen,YDS,222
+7184043,10/12/2013,FCS,Northern Colo.,Idaho State,PUNTING,Tanner,Ellingsen,AVG,44.4
+7184044,10/12/2013,FCS,Northern Colo.,Idaho State,PUNTING,Tanner,Ellingsen,LONG,57
+7184045,10/12/2013,FCS,Northern Colo.,Idaho State,PUNTING,Jesse,Holzmer,NO,1
+7184046,10/12/2013,FCS,Northern Colo.,Idaho State,PUNTING,Jesse,Holzmer,YDS,17
+7184047,10/12/2013,FCS,Northern Colo.,Idaho State,PUNTING,Jesse,Holzmer,AVG,17.0
+7184048,10/12/2013,FCS,Northern Colo.,Idaho State,PUNTING,Jesse,Holzmer,LONG,17
+7184049,10/12/2013,FCS,Northern Colo.,Idaho State,PUNT RETURNS,Stephen,Miller,NO,1
+7184050,10/12/2013,FCS,Northern Colo.,Idaho State,PUNT RETURNS,Stephen,Miller,YDS,1
+7184051,10/12/2013,FCS,Northern Colo.,Idaho State,PUNT RETURNS,Stephen,Miller,AVG,1.0
+7184052,10/12/2013,FCS,Northern Colo.,Idaho State,PUNT RETURNS,Stephen,Miller,LONG,1
+7184053,10/12/2013,FCS,Northern Colo.,Idaho State,KICK RETURNS,Dimitri,Stimphil,NO,4
+7184054,10/12/2013,FCS,Northern Colo.,Idaho State,KICK RETURNS,Dimitri,Stimphil,YDS,85
+7184055,10/12/2013,FCS,Northern Colo.,Idaho State,KICK RETURNS,Dimitri,Stimphil,AVG,21.2
+7184056,10/12/2013,FCS,Northern Colo.,Idaho State,KICK RETURNS,Dimitri,Stimphil,LONG,29
+7184057,10/12/2013,FCS,Northern Colo.,Idaho State,KICK RETURNS,Brandon,Lenoir,NO,1
+7184058,10/12/2013,FCS,Northern Colo.,Idaho State,KICK RETURNS,Brandon,Lenoir,YDS,10
+7184059,10/12/2013,FCS,Northern Colo.,Idaho State,KICK RETURNS,Brandon,Lenoir,AVG,10.0
+7184060,10/12/2013,FCS,Northern Colo.,Idaho State,KICK RETURNS,Brandon,Lenoir,LONG,10
+7184061,10/12/2013,FCS,Idaho State,Northern Colo.,RUSHING,Xavier,Finney,ATT,37
+7184062,10/12/2013,FCS,Idaho State,Northern Colo.,RUSHING,Xavier,Finney,YDS,146
+7184063,10/12/2013,FCS,Idaho State,Northern Colo.,RUSHING,Xavier,Finney,TD,1
+7184064,10/12/2013,FCS,Idaho State,Northern Colo.,RUSHING,Xavier,Finney,LONG,13
+7184065,10/12/2013,FCS,Idaho State,Northern Colo.,RUSHING,Aaron,Prier,ATT,6
+7184066,10/12/2013,FCS,Idaho State,Northern Colo.,RUSHING,Aaron,Prier,YDS,11
+7184067,10/12/2013,FCS,Idaho State,Northern Colo.,RUSHING,Aaron,Prier,TD,0
+7184068,10/12/2013,FCS,Idaho State,Northern Colo.,RUSHING,Aaron,Prier,LONG,5
+7184069,10/12/2013,FCS,Idaho State,Northern Colo.,RUSHING,Justin,Arias,ATT,4
+7184070,10/12/2013,FCS,Idaho State,Northern Colo.,RUSHING,Justin,Arias,YDS,0
+7184071,10/12/2013,FCS,Idaho State,Northern Colo.,RUSHING,Justin,Arias,TD,0
+7184072,10/12/2013,FCS,Idaho State,Northern Colo.,RUSHING,Justin,Arias,LONG,3
+7184073,10/12/2013,FCS,Idaho State,Northern Colo.,PASSING,Justin,Arias,CP-ATT-INT,28-41-0
+7184074,10/12/2013,FCS,Idaho State,Northern Colo.,PASSING,Justin,Arias,YDS,375
+7184075,10/12/2013,FCS,Idaho State,Northern Colo.,PASSING,Justin,Arias,TD,4
+7184076,10/12/2013,FCS,Idaho State,Northern Colo.,PASSING,Justin,Arias,LONG,74
+7184077,10/12/2013,FCS,Idaho State,Northern Colo.,RECEIVING,Luke,Austin,REC,8
+7184078,10/12/2013,FCS,Idaho State,Northern Colo.,RECEIVING,Luke,Austin,YDS,173
+7184079,10/12/2013,FCS,Idaho State,Northern Colo.,RECEIVING,Luke,Austin,TD,3
+7184080,10/12/2013,FCS,Idaho State,Northern Colo.,RECEIVING,Luke,Austin,LONG,74
+7184081,10/12/2013,FCS,Idaho State,Northern Colo.,RECEIVING,Broc,Malcom,REC,7
+7184082,10/12/2013,FCS,Idaho State,Northern Colo.,RECEIVING,Broc,Malcom,YDS,61
+7184083,10/12/2013,FCS,Idaho State,Northern Colo.,RECEIVING,Broc,Malcom,TD,0
+7184084,10/12/2013,FCS,Idaho State,Northern Colo.,RECEIVING,Broc,Malcom,LONG,20
+7184085,10/12/2013,FCS,Idaho State,Northern Colo.,RECEIVING,Cameron,Richmond,REC,5
+7184086,10/12/2013,FCS,Idaho State,Northern Colo.,RECEIVING,Cameron,Richmond,YDS,102
+7184087,10/12/2013,FCS,Idaho State,Northern Colo.,RECEIVING,Cameron,Richmond,TD,0
+7184088,10/12/2013,FCS,Idaho State,Northern Colo.,RECEIVING,Cameron,Richmond,LONG,40
+7184089,10/12/2013,FCS,Idaho State,Northern Colo.,RECEIVING,Chad,Hansen,REC,5
+7184090,10/12/2013,FCS,Idaho State,Northern Colo.,RECEIVING,Chad,Hansen,YDS,34
+7184091,10/12/2013,FCS,Idaho State,Northern Colo.,RECEIVING,Chad,Hansen,TD,1
+7184092,10/12/2013,FCS,Idaho State,Northern Colo.,RECEIVING,Chad,Hansen,LONG,11
+7184093,10/12/2013,FCS,Idaho State,Northern Colo.,RECEIVING,Xavier,Finney,REC,2
+7184094,10/12/2013,FCS,Idaho State,Northern Colo.,RECEIVING,Xavier,Finney,YDS,7
+7184095,10/12/2013,FCS,Idaho State,Northern Colo.,RECEIVING,Xavier,Finney,TD,0
+7184096,10/12/2013,FCS,Idaho State,Northern Colo.,RECEIVING,Xavier,Finney,LONG,5
+7184097,10/12/2013,FCS,Idaho State,Northern Colo.,RECEIVING,Aaron,Prier,REC,1
+7184098,10/12/2013,FCS,Idaho State,Northern Colo.,RECEIVING,Aaron,Prier,YDS,-2
+7184099,10/12/2013,FCS,Idaho State,Northern Colo.,RECEIVING,Aaron,Prier,TD,0
+7184100,10/12/2013,FCS,Idaho State,Northern Colo.,RECEIVING,Aaron,Prier,LONG,0
+7184101,10/12/2013,FCS,Idaho State,Northern Colo.,KICKING,Brendon,Garcia,FG-FGA,2/4
+7184102,10/12/2013,FCS,Idaho State,Northern Colo.,KICKING,Brendon,Garcia,LONG,45
+7184103,10/12/2013,FCS,Idaho State,Northern Colo.,KICKING,Brendon,Garcia,XP,4
+7184104,10/12/2013,FCS,Idaho State,Northern Colo.,KICKING,Brendon,Garcia,PTS,10
+7184105,10/12/2013,FCS,Idaho State,Northern Colo.,PUNTING,C.J.,Reyes,NO,3
+7184106,10/12/2013,FCS,Idaho State,Northern Colo.,PUNTING,C.J.,Reyes,YDS,138
+7184107,10/12/2013,FCS,Idaho State,Northern Colo.,PUNTING,C.J.,Reyes,AVG,46.0
+7184108,10/12/2013,FCS,Idaho State,Northern Colo.,PUNTING,C.J.,Reyes,LONG,50
+7184109,10/12/2013,FCS,Idaho State,Northern Colo.,PUNT RETURNS,Luke,Austin,NO,2
+7184110,10/12/2013,FCS,Idaho State,Northern Colo.,PUNT RETURNS,Luke,Austin,YDS,4
+7184111,10/12/2013,FCS,Idaho State,Northern Colo.,PUNT RETURNS,Luke,Austin,AVG,2.0
+7184112,10/12/2013,FCS,Idaho State,Northern Colo.,PUNT RETURNS,Luke,Austin,LONG,6
+7184113,10/12/2013,FCS,Idaho State,Northern Colo.,KICK RETURNS,Aaron,Prier,NO,3
+7184114,10/12/2013,FCS,Idaho State,Northern Colo.,KICK RETURNS,Aaron,Prier,YDS,65
+7184115,10/12/2013,FCS,Idaho State,Northern Colo.,KICK RETURNS,Aaron,Prier,AVG,21.7
+7184116,10/12/2013,FCS,Idaho State,Northern Colo.,KICK RETURNS,Aaron,Prier,LONG,29
+7184117,10/12/2013,FCS,Idaho State,Northern Colo.,KICK RETURNS,Cameron,Gupton,NO,1
+7184118,10/12/2013,FCS,Idaho State,Northern Colo.,KICK RETURNS,Cameron,Gupton,YDS,31
+7184119,10/12/2013,FCS,Idaho State,Northern Colo.,KICK RETURNS,Cameron,Gupton,AVG,31.0
+7184120,10/12/2013,FCS,Idaho State,Northern Colo.,KICK RETURNS,Cameron,Gupton,LONG,31

@@ -1,0 +1,93 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+10003001,8/31/2017,FCS,Tennessee-Martin,Clarion,RUSHING,Ladarius,Galloway,ATT,17
+10003002,8/31/2017,FCS,Tennessee-Martin,Clarion,RUSHING,Ladarius,Galloway,YDS,157
+10003003,8/31/2017,FCS,Tennessee-Martin,Clarion,RUSHING,Ladarius,Galloway,TD,1
+10003004,8/31/2017,FCS,Tennessee-Martin,Clarion,RUSHING,Ladarius,Galloway,LONG,31
+10003005,8/31/2017,FCS,Tennessee-Martin,Clarion,RUSHING,Ty,Brown,ATT,13
+10003006,8/31/2017,FCS,Tennessee-Martin,Clarion,RUSHING,Ty,Brown,YDS,42
+10003007,8/31/2017,FCS,Tennessee-Martin,Clarion,RUSHING,Ty,Brown,TD,1
+10003008,8/31/2017,FCS,Tennessee-Martin,Clarion,RUSHING,Ty,Brown,LONG,7
+10003009,8/31/2017,FCS,Tennessee-Martin,Clarion,RUSHING,Marquez,Grayson,ATT,5
+10003010,8/31/2017,FCS,Tennessee-Martin,Clarion,RUSHING,Marquez,Grayson,YDS,19
+10003011,8/31/2017,FCS,Tennessee-Martin,Clarion,RUSHING,Marquez,Grayson,TD,0
+10003012,8/31/2017,FCS,Tennessee-Martin,Clarion,RUSHING,Marquez,Grayson,LONG,11
+10003013,8/31/2017,FCS,Tennessee-Martin,Clarion,RUSHING,Troy,Cook,ATT,2
+10003014,8/31/2017,FCS,Tennessee-Martin,Clarion,RUSHING,Troy,Cook,YDS,17
+10003015,8/31/2017,FCS,Tennessee-Martin,Clarion,RUSHING,Troy,Cook,TD,0
+10003016,8/31/2017,FCS,Tennessee-Martin,Clarion,RUSHING,Troy,Cook,LONG,10
+10003017,8/31/2017,FCS,Tennessee-Martin,Clarion,RUSHING,Deashun,Fields,ATT,2
+10003018,8/31/2017,FCS,Tennessee-Martin,Clarion,RUSHING,Deashun,Fields,YDS,15
+10003019,8/31/2017,FCS,Tennessee-Martin,Clarion,RUSHING,Deashun,Fields,TD,1
+10003020,8/31/2017,FCS,Tennessee-Martin,Clarion,RUSHING,Deashun,Fields,LONG,15
+10003021,8/31/2017,FCS,Tennessee-Martin,Clarion,RUSHING,Terry,Norris,ATT,2
+10003022,8/31/2017,FCS,Tennessee-Martin,Clarion,RUSHING,Terry,Norris,YDS,15
+10003023,8/31/2017,FCS,Tennessee-Martin,Clarion,RUSHING,Terry,Norris,TD,0
+10003024,8/31/2017,FCS,Tennessee-Martin,Clarion,RUSHING,Terry,Norris,LONG,15
+10003025,8/31/2017,FCS,Tennessee-Martin,Clarion,RUSHING,Peyton,Logan,ATT,2
+10003026,8/31/2017,FCS,Tennessee-Martin,Clarion,RUSHING,Peyton,Logan,YDS,1
+10003027,8/31/2017,FCS,Tennessee-Martin,Clarion,RUSHING,Peyton,Logan,TD,0
+10003028,8/31/2017,FCS,Tennessee-Martin,Clarion,RUSHING,Peyton,Logan,LONG,1
+10003029,8/31/2017,FCS,Tennessee-Martin,Clarion,RUSHING,Jaylen,Smith,ATT,1
+10003030,8/31/2017,FCS,Tennessee-Martin,Clarion,RUSHING,Jaylen,Smith,YDS,-1
+10003031,8/31/2017,FCS,Tennessee-Martin,Clarion,RUSHING,Jaylen,Smith,TD,0
+10003032,8/31/2017,FCS,Tennessee-Martin,Clarion,RUSHING,Jaylen,Smith,LONG,0
+10003033,8/31/2017,FCS,Tennessee-Martin,Clarion,PASSING,Troy,Cook,CP-ATT-INT,13-28-1
+10003034,8/31/2017,FCS,Tennessee-Martin,Clarion,PASSING,Troy,Cook,YDS,192
+10003035,8/31/2017,FCS,Tennessee-Martin,Clarion,PASSING,Troy,Cook,TD,2
+10003036,8/31/2017,FCS,Tennessee-Martin,Clarion,PASSING,Troy,Cook,LONG,37
+10003037,8/31/2017,FCS,Tennessee-Martin,Clarion,RECEIVING,Jaylon,Moore,REC,2
+10003038,8/31/2017,FCS,Tennessee-Martin,Clarion,RECEIVING,Jaylon,Moore,YDS,49
+10003039,8/31/2017,FCS,Tennessee-Martin,Clarion,RECEIVING,Jaylon,Moore,TD,1
+10003040,8/31/2017,FCS,Tennessee-Martin,Clarion,RECEIVING,Jaylon,Moore,LONG,37
+10003041,8/31/2017,FCS,Tennessee-Martin,Clarion,RECEIVING,Ladarius,Galloway,REC,3
+10003042,8/31/2017,FCS,Tennessee-Martin,Clarion,RECEIVING,Ladarius,Galloway,YDS,41
+10003043,8/31/2017,FCS,Tennessee-Martin,Clarion,RECEIVING,Ladarius,Galloway,TD,0
+10003044,8/31/2017,FCS,Tennessee-Martin,Clarion,RECEIVING,Ladarius,Galloway,LONG,21
+10003045,8/31/2017,FCS,Tennessee-Martin,Clarion,RECEIVING,Caylon,Weathers,REC,2
+10003046,8/31/2017,FCS,Tennessee-Martin,Clarion,RECEIVING,Caylon,Weathers,YDS,39
+10003047,8/31/2017,FCS,Tennessee-Martin,Clarion,RECEIVING,Caylon,Weathers,TD,0
+10003048,8/31/2017,FCS,Tennessee-Martin,Clarion,RECEIVING,Caylon,Weathers,LONG,23
+10003049,8/31/2017,FCS,Tennessee-Martin,Clarion,RECEIVING,Jaylen,Smith,REC,1
+10003050,8/31/2017,FCS,Tennessee-Martin,Clarion,RECEIVING,Jaylen,Smith,YDS,22
+10003051,8/31/2017,FCS,Tennessee-Martin,Clarion,RECEIVING,Jaylen,Smith,TD,0
+10003052,8/31/2017,FCS,Tennessee-Martin,Clarion,RECEIVING,Jaylen,Smith,LONG,22
+10003053,8/31/2017,FCS,Tennessee-Martin,Clarion,RECEIVING,Ty,Brown,REC,2
+10003054,8/31/2017,FCS,Tennessee-Martin,Clarion,RECEIVING,Ty,Brown,YDS,19
+10003055,8/31/2017,FCS,Tennessee-Martin,Clarion,RECEIVING,Ty,Brown,TD,0
+10003056,8/31/2017,FCS,Tennessee-Martin,Clarion,RECEIVING,Ty,Brown,LONG,13
+10003057,8/31/2017,FCS,Tennessee-Martin,Clarion,RECEIVING,Brett,Thompson,REC,1
+10003058,8/31/2017,FCS,Tennessee-Martin,Clarion,RECEIVING,Brett,Thompson,YDS,18
+10003059,8/31/2017,FCS,Tennessee-Martin,Clarion,RECEIVING,Brett,Thompson,TD,0
+10003060,8/31/2017,FCS,Tennessee-Martin,Clarion,RECEIVING,Brett,Thompson,LONG,18
+10003061,8/31/2017,FCS,Tennessee-Martin,Clarion,RECEIVING,Londell,Lee,REC,1
+10003062,8/31/2017,FCS,Tennessee-Martin,Clarion,RECEIVING,Londell,Lee,YDS,3
+10003063,8/31/2017,FCS,Tennessee-Martin,Clarion,RECEIVING,Londell,Lee,TD,1
+10003064,8/31/2017,FCS,Tennessee-Martin,Clarion,RECEIVING,Londell,Lee,LONG,3
+10003065,8/31/2017,FCS,Tennessee-Martin,Clarion,RECEIVING,Chance,Key,REC,1
+10003066,8/31/2017,FCS,Tennessee-Martin,Clarion,RECEIVING,Chance,Key,YDS,1
+10003067,8/31/2017,FCS,Tennessee-Martin,Clarion,RECEIVING,Chance,Key,TD,0
+10003068,8/31/2017,FCS,Tennessee-Martin,Clarion,RECEIVING,Chance,Key,LONG,1
+10003069,8/31/2017,FCS,Tennessee-Martin,Clarion,KICKING,Ryan,Courtright,FG-FGA,1/1
+10003070,8/31/2017,FCS,Tennessee-Martin,Clarion,KICKING,Ryan,Courtright,LONG,27
+10003071,8/31/2017,FCS,Tennessee-Martin,Clarion,KICKING,Ryan,Courtright,XP,3
+10003072,8/31/2017,FCS,Tennessee-Martin,Clarion,KICKING,Ryan,Courtright,PTS,6
+10003073,8/31/2017,FCS,Tennessee-Martin,Clarion,KICKING,Brett,Arkelian,FG-FGA,0/0
+10003074,8/31/2017,FCS,Tennessee-Martin,Clarion,KICKING,Brett,Arkelian,LONG,-
+10003075,8/31/2017,FCS,Tennessee-Martin,Clarion,KICKING,Brett,Arkelian,XP,0
+10003076,8/31/2017,FCS,Tennessee-Martin,Clarion,KICKING,Brett,Arkelian,PTS,0
+10003077,8/31/2017,FCS,Tennessee-Martin,Clarion,PUNTING,Brett,Arkelian,NO,3
+10003078,8/31/2017,FCS,Tennessee-Martin,Clarion,PUNTING,Brett,Arkelian,YDS,124
+10003079,8/31/2017,FCS,Tennessee-Martin,Clarion,PUNTING,Brett,Arkelian,AVG,41.3
+10003080,8/31/2017,FCS,Tennessee-Martin,Clarion,PUNTING,Brett,Arkelian,LONG,54
+10003081,8/31/2017,FCS,Tennessee-Martin,Clarion,PUNT RETURNS,Londell,Lee,NO,3
+10003082,8/31/2017,FCS,Tennessee-Martin,Clarion,PUNT RETURNS,Londell,Lee,YDS,56
+10003083,8/31/2017,FCS,Tennessee-Martin,Clarion,PUNT RETURNS,Londell,Lee,AVG,18.7
+10003084,8/31/2017,FCS,Tennessee-Martin,Clarion,PUNT RETURNS,Londell,Lee,LONG,27
+10003085,8/31/2017,FCS,Tennessee-Martin,Clarion,PUNT RETURNS,Peyton,Logan,NO,2
+10003086,8/31/2017,FCS,Tennessee-Martin,Clarion,PUNT RETURNS,Peyton,Logan,YDS,5
+10003087,8/31/2017,FCS,Tennessee-Martin,Clarion,PUNT RETURNS,Peyton,Logan,AVG,2.5
+10003088,8/31/2017,FCS,Tennessee-Martin,Clarion,PUNT RETURNS,Peyton,Logan,LONG,2
+10003089,8/31/2017,FCS,Tennessee-Martin,Clarion,KICK RETURNS,Demonta,Daniel,NO,1
+10003090,8/31/2017,FCS,Tennessee-Martin,Clarion,KICK RETURNS,Demonta,Daniel,YDS,10
+10003091,8/31/2017,FCS,Tennessee-Martin,Clarion,KICK RETURNS,Demonta,Daniel,AVG,10.0
+10003092,8/31/2017,FCS,Tennessee-Martin,Clarion,KICK RETURNS,Demonta,Daniel,LONG,10

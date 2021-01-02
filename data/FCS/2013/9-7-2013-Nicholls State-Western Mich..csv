@@ -1,0 +1,133 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+6842001,9/7/2013,FCS,Nicholls State,Western Mich.,RUSHING,Kalen,Henderson,ATT,6
+6842002,9/7/2013,FCS,Nicholls State,Western Mich.,RUSHING,Kalen,Henderson,YDS,87
+6842003,9/7/2013,FCS,Nicholls State,Western Mich.,RUSHING,Kalen,Henderson,TD,1
+6842004,9/7/2013,FCS,Nicholls State,Western Mich.,RUSHING,Kalen,Henderson,LONG,55
+6842005,9/7/2013,FCS,Nicholls State,Western Mich.,RUSHING,Tuskani,Figaro,ATT,15
+6842006,9/7/2013,FCS,Nicholls State,Western Mich.,RUSHING,Tuskani,Figaro,YDS,72
+6842007,9/7/2013,FCS,Nicholls State,Western Mich.,RUSHING,Tuskani,Figaro,TD,0
+6842008,9/7/2013,FCS,Nicholls State,Western Mich.,RUSHING,Tuskani,Figaro,LONG,10
+6842009,9/7/2013,FCS,Nicholls State,Western Mich.,RUSHING,Marcus,Washington,ATT,18
+6842010,9/7/2013,FCS,Nicholls State,Western Mich.,RUSHING,Marcus,Washington,YDS,65
+6842011,9/7/2013,FCS,Nicholls State,Western Mich.,RUSHING,Marcus,Washington,TD,2
+6842012,9/7/2013,FCS,Nicholls State,Western Mich.,RUSHING,Marcus,Washington,LONG,12
+6842013,9/7/2013,FCS,Nicholls State,Western Mich.,RUSHING,,Team,ATT,1
+6842014,9/7/2013,FCS,Nicholls State,Western Mich.,RUSHING,,Team,YDS,-2
+6842015,9/7/2013,FCS,Nicholls State,Western Mich.,RUSHING,,Team,TD,0
+6842016,9/7/2013,FCS,Nicholls State,Western Mich.,RUSHING,,Team,LONG,0
+6842017,9/7/2013,FCS,Nicholls State,Western Mich.,PASSING,Kalen,Henderson,CP-ATT-INT,8-11-1
+6842018,9/7/2013,FCS,Nicholls State,Western Mich.,PASSING,Kalen,Henderson,YDS,159
+6842019,9/7/2013,FCS,Nicholls State,Western Mich.,PASSING,Kalen,Henderson,TD,0
+6842020,9/7/2013,FCS,Nicholls State,Western Mich.,PASSING,Kalen,Henderson,LONG,41
+6842021,9/7/2013,FCS,Nicholls State,Western Mich.,PASSING,Tuskani,Figaro,CP-ATT-INT,2-7-0
+6842022,9/7/2013,FCS,Nicholls State,Western Mich.,PASSING,Tuskani,Figaro,YDS,66
+6842023,9/7/2013,FCS,Nicholls State,Western Mich.,PASSING,Tuskani,Figaro,TD,0
+6842024,9/7/2013,FCS,Nicholls State,Western Mich.,PASSING,Tuskani,Figaro,LONG,55
+6842025,9/7/2013,FCS,Nicholls State,Western Mich.,RECEIVING,Erik,Buchanan,REC,3
+6842026,9/7/2013,FCS,Nicholls State,Western Mich.,RECEIVING,Erik,Buchanan,YDS,72
+6842027,9/7/2013,FCS,Nicholls State,Western Mich.,RECEIVING,Erik,Buchanan,TD,0
+6842028,9/7/2013,FCS,Nicholls State,Western Mich.,RECEIVING,Erik,Buchanan,LONG,41
+6842029,9/7/2013,FCS,Nicholls State,Western Mich.,RECEIVING,Nick,Scelfo,REC,2
+6842030,9/7/2013,FCS,Nicholls State,Western Mich.,RECEIVING,Nick,Scelfo,YDS,47
+6842031,9/7/2013,FCS,Nicholls State,Western Mich.,RECEIVING,Nick,Scelfo,TD,0
+6842032,9/7/2013,FCS,Nicholls State,Western Mich.,RECEIVING,Nick,Scelfo,LONG,27
+6842033,9/7/2013,FCS,Nicholls State,Western Mich.,RECEIVING,Brad,Nelson,REC,2
+6842034,9/7/2013,FCS,Nicholls State,Western Mich.,RECEIVING,Brad,Nelson,YDS,32
+6842035,9/7/2013,FCS,Nicholls State,Western Mich.,RECEIVING,Brad,Nelson,TD,0
+6842036,9/7/2013,FCS,Nicholls State,Western Mich.,RECEIVING,Brad,Nelson,LONG,21
+6842037,9/7/2013,FCS,Nicholls State,Western Mich.,RECEIVING,Marcus,Washington,REC,2
+6842038,9/7/2013,FCS,Nicholls State,Western Mich.,RECEIVING,Marcus,Washington,YDS,19
+6842039,9/7/2013,FCS,Nicholls State,Western Mich.,RECEIVING,Marcus,Washington,TD,0
+6842040,9/7/2013,FCS,Nicholls State,Western Mich.,RECEIVING,Marcus,Washington,LONG,11
+6842041,9/7/2013,FCS,Nicholls State,Western Mich.,RECEIVING,Demon,Bolt,REC,1
+6842042,9/7/2013,FCS,Nicholls State,Western Mich.,RECEIVING,Demon,Bolt,YDS,55
+6842043,9/7/2013,FCS,Nicholls State,Western Mich.,RECEIVING,Demon,Bolt,TD,0
+6842044,9/7/2013,FCS,Nicholls State,Western Mich.,RECEIVING,Demon,Bolt,LONG,55
+6842045,9/7/2013,FCS,Nicholls State,Western Mich.,KICKING,Andrew,Dolan,FG-FGA,2/2
+6842046,9/7/2013,FCS,Nicholls State,Western Mich.,KICKING,Andrew,Dolan,LONG,29
+6842047,9/7/2013,FCS,Nicholls State,Western Mich.,KICKING,Andrew,Dolan,XP,3
+6842048,9/7/2013,FCS,Nicholls State,Western Mich.,KICKING,Andrew,Dolan,PTS,9
+6842049,9/7/2013,FCS,Nicholls State,Western Mich.,PUNTING,Conner,Fryoux,NO,4
+6842050,9/7/2013,FCS,Nicholls State,Western Mich.,PUNTING,Conner,Fryoux,YDS,149
+6842051,9/7/2013,FCS,Nicholls State,Western Mich.,PUNTING,Conner,Fryoux,AVG,37.3
+6842052,9/7/2013,FCS,Nicholls State,Western Mich.,PUNTING,Conner,Fryoux,LONG,47
+6842053,9/7/2013,FCS,Nicholls State,Western Mich.,PUNT RETURNS,Ronald,Tyler,NO,1
+6842054,9/7/2013,FCS,Nicholls State,Western Mich.,PUNT RETURNS,Ronald,Tyler,YDS,8
+6842055,9/7/2013,FCS,Nicholls State,Western Mich.,PUNT RETURNS,Ronald,Tyler,AVG,8.0
+6842056,9/7/2013,FCS,Nicholls State,Western Mich.,PUNT RETURNS,Ronald,Tyler,LONG,8
+6842057,9/7/2013,FCS,Nicholls State,Western Mich.,PUNT RETURNS,Demon,Bolt,NO,1
+6842058,9/7/2013,FCS,Nicholls State,Western Mich.,PUNT RETURNS,Demon,Bolt,YDS,5
+6842059,9/7/2013,FCS,Nicholls State,Western Mich.,PUNT RETURNS,Demon,Bolt,AVG,5.0
+6842060,9/7/2013,FCS,Nicholls State,Western Mich.,PUNT RETURNS,Demon,Bolt,LONG,5
+6842061,9/7/2013,FCS,Nicholls State,Western Mich.,KICK RETURNS,Demon,Bolt,NO,2
+6842062,9/7/2013,FCS,Nicholls State,Western Mich.,KICK RETURNS,Demon,Bolt,YDS,47
+6842063,9/7/2013,FCS,Nicholls State,Western Mich.,KICK RETURNS,Demon,Bolt,AVG,23.5
+6842064,9/7/2013,FCS,Nicholls State,Western Mich.,KICK RETURNS,Demon,Bolt,LONG,27
+6842065,9/7/2013,FCS,Nicholls State,Western Mich.,KICK RETURNS,Ronald,Tyler,NO,2
+6842066,9/7/2013,FCS,Nicholls State,Western Mich.,KICK RETURNS,Ronald,Tyler,YDS,44
+6842067,9/7/2013,FCS,Nicholls State,Western Mich.,KICK RETURNS,Ronald,Tyler,AVG,22.0
+6842068,9/7/2013,FCS,Nicholls State,Western Mich.,KICK RETURNS,Ronald,Tyler,LONG,31
+6842069,9/7/2013,FCS,Nicholls State,Western Mich.,KICK RETURNS,,Team,NO,1
+6842070,9/7/2013,FCS,Nicholls State,Western Mich.,KICK RETURNS,,Team,YDS,0
+6842071,9/7/2013,FCS,Nicholls State,Western Mich.,KICK RETURNS,,Team,AVG,0.0
+6842072,9/7/2013,FCS,Nicholls State,Western Mich.,KICK RETURNS,,Team,LONG,0
+6842073,9/7/2013,FCS,Western Mich.,Nicholls State,RUSHING,Dareyon,Chance,ATT,21
+6842074,9/7/2013,FCS,Western Mich.,Nicholls State,RUSHING,Dareyon,Chance,YDS,123
+6842075,9/7/2013,FCS,Western Mich.,Nicholls State,RUSHING,Dareyon,Chance,TD,0
+6842076,9/7/2013,FCS,Western Mich.,Nicholls State,RUSHING,Dareyon,Chance,LONG,16
+6842077,9/7/2013,FCS,Western Mich.,Nicholls State,RUSHING,Brian,Fields,ATT,19
+6842078,9/7/2013,FCS,Western Mich.,Nicholls State,RUSHING,Brian,Fields,YDS,103
+6842079,9/7/2013,FCS,Western Mich.,Nicholls State,RUSHING,Brian,Fields,TD,3
+6842080,9/7/2013,FCS,Western Mich.,Nicholls State,RUSHING,Brian,Fields,LONG,19
+6842081,9/7/2013,FCS,Western Mich.,Nicholls State,RUSHING,Tyler,VanTubbergen,ATT,4
+6842082,9/7/2013,FCS,Western Mich.,Nicholls State,RUSHING,Tyler,VanTubbergen,YDS,5
+6842083,9/7/2013,FCS,Western Mich.,Nicholls State,RUSHING,Tyler,VanTubbergen,TD,0
+6842084,9/7/2013,FCS,Western Mich.,Nicholls State,RUSHING,Tyler,VanTubbergen,LONG,9
+6842085,9/7/2013,FCS,Western Mich.,Nicholls State,PASSING,Tyler,VanTubbergen,CP-ATT-INT,24-43-2
+6842086,9/7/2013,FCS,Western Mich.,Nicholls State,PASSING,Tyler,VanTubbergen,YDS,254
+6842087,9/7/2013,FCS,Western Mich.,Nicholls State,PASSING,Tyler,VanTubbergen,TD,0
+6842088,9/7/2013,FCS,Western Mich.,Nicholls State,PASSING,Tyler,VanTubbergen,LONG,27
+6842089,9/7/2013,FCS,Western Mich.,Nicholls State,RECEIVING,Corey,Davis,REC,8
+6842090,9/7/2013,FCS,Western Mich.,Nicholls State,RECEIVING,Corey,Davis,YDS,116
+6842091,9/7/2013,FCS,Western Mich.,Nicholls State,RECEIVING,Corey,Davis,TD,0
+6842092,9/7/2013,FCS,Western Mich.,Nicholls State,RECEIVING,Corey,Davis,LONG,27
+6842093,9/7/2013,FCS,Western Mich.,Nicholls State,RECEIVING,Timmy,Keith,REC,5
+6842094,9/7/2013,FCS,Western Mich.,Nicholls State,RECEIVING,Timmy,Keith,YDS,43
+6842095,9/7/2013,FCS,Western Mich.,Nicholls State,RECEIVING,Timmy,Keith,TD,0
+6842096,9/7/2013,FCS,Western Mich.,Nicholls State,RECEIVING,Timmy,Keith,LONG,14
+6842097,9/7/2013,FCS,Western Mich.,Nicholls State,RECEIVING,Brian,Fields,REC,4
+6842098,9/7/2013,FCS,Western Mich.,Nicholls State,RECEIVING,Brian,Fields,YDS,44
+6842099,9/7/2013,FCS,Western Mich.,Nicholls State,RECEIVING,Brian,Fields,TD,0
+6842100,9/7/2013,FCS,Western Mich.,Nicholls State,RECEIVING,Brian,Fields,LONG,16
+6842101,9/7/2013,FCS,Western Mich.,Nicholls State,RECEIVING,Clark,Mussman,REC,3
+6842102,9/7/2013,FCS,Western Mich.,Nicholls State,RECEIVING,Clark,Mussman,YDS,21
+6842103,9/7/2013,FCS,Western Mich.,Nicholls State,RECEIVING,Clark,Mussman,TD,0
+6842104,9/7/2013,FCS,Western Mich.,Nicholls State,RECEIVING,Clark,Mussman,LONG,9
+6842105,9/7/2013,FCS,Western Mich.,Nicholls State,RECEIVING,Dareyon,Chance,REC,2
+6842106,9/7/2013,FCS,Western Mich.,Nicholls State,RECEIVING,Dareyon,Chance,YDS,19
+6842107,9/7/2013,FCS,Western Mich.,Nicholls State,RECEIVING,Dareyon,Chance,TD,0
+6842108,9/7/2013,FCS,Western Mich.,Nicholls State,RECEIVING,Dareyon,Chance,LONG,16
+6842109,9/7/2013,FCS,Western Mich.,Nicholls State,RECEIVING,Eric,Boyden,REC,2
+6842110,9/7/2013,FCS,Western Mich.,Nicholls State,RECEIVING,Eric,Boyden,YDS,11
+6842111,9/7/2013,FCS,Western Mich.,Nicholls State,RECEIVING,Eric,Boyden,TD,0
+6842112,9/7/2013,FCS,Western Mich.,Nicholls State,RECEIVING,Eric,Boyden,LONG,10
+6842113,9/7/2013,FCS,Western Mich.,Nicholls State,KICKING,Andrew,Haldeman,FG-FGA,1/1
+6842114,9/7/2013,FCS,Western Mich.,Nicholls State,KICKING,Andrew,Haldeman,LONG,42
+6842115,9/7/2013,FCS,Western Mich.,Nicholls State,KICKING,Andrew,Haldeman,XP,2
+6842116,9/7/2013,FCS,Western Mich.,Nicholls State,KICKING,Andrew,Haldeman,PTS,5
+6842117,9/7/2013,FCS,Western Mich.,Nicholls State,PUNTING,J.,Schroeder,NO,5
+6842118,9/7/2013,FCS,Western Mich.,Nicholls State,PUNTING,J.,Schroeder,YDS,210
+6842119,9/7/2013,FCS,Western Mich.,Nicholls State,PUNTING,J.,Schroeder,AVG,42.0
+6842120,9/7/2013,FCS,Western Mich.,Nicholls State,PUNTING,J.,Schroeder,LONG,55
+6842121,9/7/2013,FCS,Western Mich.,Nicholls State,PUNT RETURNS,Dareyon,Chance,NO,1
+6842122,9/7/2013,FCS,Western Mich.,Nicholls State,PUNT RETURNS,Dareyon,Chance,YDS,2
+6842123,9/7/2013,FCS,Western Mich.,Nicholls State,PUNT RETURNS,Dareyon,Chance,AVG,2.0
+6842124,9/7/2013,FCS,Western Mich.,Nicholls State,PUNT RETURNS,Dareyon,Chance,LONG,2
+6842125,9/7/2013,FCS,Western Mich.,Nicholls State,KICK RETURNS,Jon,Henry,NO,3
+6842126,9/7/2013,FCS,Western Mich.,Nicholls State,KICK RETURNS,Jon,Henry,YDS,82
+6842127,9/7/2013,FCS,Western Mich.,Nicholls State,KICK RETURNS,Jon,Henry,AVG,27.3
+6842128,9/7/2013,FCS,Western Mich.,Nicholls State,KICK RETURNS,Jon,Henry,LONG,52
+6842129,9/7/2013,FCS,Western Mich.,Nicholls State,KICK RETURNS,Dareyon,Chance,NO,1
+6842130,9/7/2013,FCS,Western Mich.,Nicholls State,KICK RETURNS,Dareyon,Chance,YDS,16
+6842131,9/7/2013,FCS,Western Mich.,Nicholls State,KICK RETURNS,Dareyon,Chance,AVG,16.0
+6842132,9/7/2013,FCS,Western Mich.,Nicholls State,KICK RETURNS,Dareyon,Chance,LONG,16

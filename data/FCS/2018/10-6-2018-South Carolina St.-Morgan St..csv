@@ -1,0 +1,177 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+11122001,10/6/2018,FCS,South Carolina St.,Morgan St.,RUSHING,Tyrece,Nick,ATT,12
+11122002,10/6/2018,FCS,South Carolina St.,Morgan St.,RUSHING,Tyrece,Nick,YDS,45
+11122003,10/6/2018,FCS,South Carolina St.,Morgan St.,RUSHING,Tyrece,Nick,TD,1
+11122004,10/6/2018,FCS,South Carolina St.,Morgan St.,RUSHING,Tyrece,Nick,LONG,23
+11122005,10/6/2018,FCS,South Carolina St.,Morgan St.,RUSHING,Datron,James,ATT,9
+11122006,10/6/2018,FCS,South Carolina St.,Morgan St.,RUSHING,Datron,James,YDS,39
+11122007,10/6/2018,FCS,South Carolina St.,Morgan St.,RUSHING,Datron,James,TD,0
+11122008,10/6/2018,FCS,South Carolina St.,Morgan St.,RUSHING,Datron,James,LONG,10
+11122009,10/6/2018,FCS,South Carolina St.,Morgan St.,RUSHING,Omar,Cummings,ATT,6
+11122010,10/6/2018,FCS,South Carolina St.,Morgan St.,RUSHING,Omar,Cummings,YDS,25
+11122011,10/6/2018,FCS,South Carolina St.,Morgan St.,RUSHING,Omar,Cummings,TD,0
+11122012,10/6/2018,FCS,South Carolina St.,Morgan St.,RUSHING,Omar,Cummings,LONG,16
+11122013,10/6/2018,FCS,South Carolina St.,Morgan St.,RUSHING,Farrika,Grier,ATT,5
+11122014,10/6/2018,FCS,South Carolina St.,Morgan St.,RUSHING,Farrika,Grier,YDS,18
+11122015,10/6/2018,FCS,South Carolina St.,Morgan St.,RUSHING,Farrika,Grier,TD,0
+11122016,10/6/2018,FCS,South Carolina St.,Morgan St.,RUSHING,Farrika,Grier,LONG,7
+11122017,10/6/2018,FCS,South Carolina St.,Morgan St.,RUSHING,Jarius,Jenkins,ATT,2
+11122018,10/6/2018,FCS,South Carolina St.,Morgan St.,RUSHING,Jarius,Jenkins,YDS,11
+11122019,10/6/2018,FCS,South Carolina St.,Morgan St.,RUSHING,Jarius,Jenkins,TD,1
+11122020,10/6/2018,FCS,South Carolina St.,Morgan St.,RUSHING,Jarius,Jenkins,LONG,11
+11122021,10/6/2018,FCS,South Carolina St.,Morgan St.,RUSHING,,Team,ATT,1
+11122022,10/6/2018,FCS,South Carolina St.,Morgan St.,RUSHING,,Team,YDS,-2
+11122023,10/6/2018,FCS,South Carolina St.,Morgan St.,RUSHING,,Team,TD,0
+11122024,10/6/2018,FCS,South Carolina St.,Morgan St.,RUSHING,,Team,LONG,0
+11122025,10/6/2018,FCS,South Carolina St.,Morgan St.,PASSING,Tyrece,Nick,CP-ATT-INT,11-21-0
+11122026,10/6/2018,FCS,South Carolina St.,Morgan St.,PASSING,Tyrece,Nick,YDS,139
+11122027,10/6/2018,FCS,South Carolina St.,Morgan St.,PASSING,Tyrece,Nick,TD,1
+11122028,10/6/2018,FCS,South Carolina St.,Morgan St.,PASSING,Tyrece,Nick,LONG,23
+11122029,10/6/2018,FCS,South Carolina St.,Morgan St.,RECEIVING,Will,Vereen,REC,3
+11122030,10/6/2018,FCS,South Carolina St.,Morgan St.,RECEIVING,Will,Vereen,YDS,50
+11122031,10/6/2018,FCS,South Carolina St.,Morgan St.,RECEIVING,Will,Vereen,TD,0
+11122032,10/6/2018,FCS,South Carolina St.,Morgan St.,RECEIVING,Will,Vereen,LONG,22
+11122033,10/6/2018,FCS,South Carolina St.,Morgan St.,RECEIVING,Omar,Cummings,REC,3
+11122034,10/6/2018,FCS,South Carolina St.,Morgan St.,RECEIVING,Omar,Cummings,YDS,42
+11122035,10/6/2018,FCS,South Carolina St.,Morgan St.,RECEIVING,Omar,Cummings,TD,1
+11122036,10/6/2018,FCS,South Carolina St.,Morgan St.,RECEIVING,Omar,Cummings,LONG,23
+11122037,10/6/2018,FCS,South Carolina St.,Morgan St.,RECEIVING,Farrika,Grier,REC,1
+11122038,10/6/2018,FCS,South Carolina St.,Morgan St.,RECEIVING,Farrika,Grier,YDS,22
+11122039,10/6/2018,FCS,South Carolina St.,Morgan St.,RECEIVING,Farrika,Grier,TD,0
+11122040,10/6/2018,FCS,South Carolina St.,Morgan St.,RECEIVING,Farrika,Grier,LONG,22
+11122041,10/6/2018,FCS,South Carolina St.,Morgan St.,RECEIVING,Alex,Syphertt,REC,3
+11122042,10/6/2018,FCS,South Carolina St.,Morgan St.,RECEIVING,Alex,Syphertt,YDS,22
+11122043,10/6/2018,FCS,South Carolina St.,Morgan St.,RECEIVING,Alex,Syphertt,TD,0
+11122044,10/6/2018,FCS,South Carolina St.,Morgan St.,RECEIVING,Alex,Syphertt,LONG,11
+11122045,10/6/2018,FCS,South Carolina St.,Morgan St.,RECEIVING,Jermaine,Baxley,REC,1
+11122046,10/6/2018,FCS,South Carolina St.,Morgan St.,RECEIVING,Jermaine,Baxley,YDS,3
+11122047,10/6/2018,FCS,South Carolina St.,Morgan St.,RECEIVING,Jermaine,Baxley,TD,0
+11122048,10/6/2018,FCS,South Carolina St.,Morgan St.,RECEIVING,Jermaine,Baxley,LONG,3
+11122049,10/6/2018,FCS,South Carolina St.,Morgan St.,KICKING,Dillon,Bredson,FG-FGA,0/1
+11122050,10/6/2018,FCS,South Carolina St.,Morgan St.,KICKING,Dillon,Bredson,LONG,0
+11122051,10/6/2018,FCS,South Carolina St.,Morgan St.,KICKING,Dillon,Bredson,XP,3
+11122052,10/6/2018,FCS,South Carolina St.,Morgan St.,KICKING,Dillon,Bredson,PTS,3
+11122053,10/6/2018,FCS,South Carolina St.,Morgan St.,PUNTING,Jerome,Pettiway,NO,7
+11122054,10/6/2018,FCS,South Carolina St.,Morgan St.,PUNTING,Jerome,Pettiway,YDS,270
+11122055,10/6/2018,FCS,South Carolina St.,Morgan St.,PUNTING,Jerome,Pettiway,AVG,38.6
+11122056,10/6/2018,FCS,South Carolina St.,Morgan St.,PUNTING,Jerome,Pettiway,LONG,52
+11122057,10/6/2018,FCS,South Carolina St.,Morgan St.,KICK RETURNS,Farrika,Grier,NO,1
+11122058,10/6/2018,FCS,South Carolina St.,Morgan St.,KICK RETURNS,Farrika,Grier,YDS,5
+11122059,10/6/2018,FCS,South Carolina St.,Morgan St.,KICK RETURNS,Farrika,Grier,AVG,5.0
+11122060,10/6/2018,FCS,South Carolina St.,Morgan St.,KICK RETURNS,Farrika,Grier,LONG,5
+11122061,10/6/2018,FCS,South Carolina St.,Morgan St.,DEFENSE,Scott,Robinson,TOT,0
+11122062,10/6/2018,FCS,South Carolina St.,Morgan St.,DEFENSE,Scott,Robinson,SOLO,0
+11122063,10/6/2018,FCS,South Carolina St.,Morgan St.,DEFENSE,Scott,Robinson,SACKS,0
+11122064,10/6/2018,FCS,South Carolina St.,Morgan St.,DEFENSE,Scott,Robinson,TFL,0
+11122065,10/6/2018,FCS,South Carolina St.,Morgan St.,DEFENSE,Scott,Robinson,INT,1
+11122066,10/6/2018,FCS,South Carolina St.,Morgan St.,DEFENSE,Scott,Robinson,FF,0
+11122067,10/6/2018,FCS,South Carolina St.,Morgan St.,DEFENSE,Scott,Robinson,FR,0
+11122068,10/6/2018,FCS,South Carolina St.,Morgan St.,DEFENSE,Khaliq,Anthony,TOT,0
+11122069,10/6/2018,FCS,South Carolina St.,Morgan St.,DEFENSE,Khaliq,Anthony,SOLO,0
+11122070,10/6/2018,FCS,South Carolina St.,Morgan St.,DEFENSE,Khaliq,Anthony,SACKS,0
+11122071,10/6/2018,FCS,South Carolina St.,Morgan St.,DEFENSE,Khaliq,Anthony,TFL,0
+11122072,10/6/2018,FCS,South Carolina St.,Morgan St.,DEFENSE,Khaliq,Anthony,INT,1
+11122073,10/6/2018,FCS,South Carolina St.,Morgan St.,DEFENSE,Khaliq,Anthony,FF,0
+11122074,10/6/2018,FCS,South Carolina St.,Morgan St.,DEFENSE,Khaliq,Anthony,FR,0
+11122075,10/6/2018,FCS,Morgan St.,South Carolina St.,RUSHING,DeAndre,Harris,ATT,18
+11122076,10/6/2018,FCS,Morgan St.,South Carolina St.,RUSHING,DeAndre,Harris,YDS,78
+11122077,10/6/2018,FCS,Morgan St.,South Carolina St.,RUSHING,DeAndre,Harris,TD,0
+11122078,10/6/2018,FCS,Morgan St.,South Carolina St.,RUSHING,DeAndre,Harris,LONG,17
+11122079,10/6/2018,FCS,Morgan St.,South Carolina St.,RUSHING,William,King,ATT,16
+11122080,10/6/2018,FCS,Morgan St.,South Carolina St.,RUSHING,William,King,YDS,73
+11122081,10/6/2018,FCS,Morgan St.,South Carolina St.,RUSHING,William,King,TD,0
+11122082,10/6/2018,FCS,Morgan St.,South Carolina St.,RUSHING,William,King,LONG,20
+11122083,10/6/2018,FCS,Morgan St.,South Carolina St.,RUSHING,Jordan,Riggins,ATT,10
+11122084,10/6/2018,FCS,Morgan St.,South Carolina St.,RUSHING,Jordan,Riggins,YDS,26
+11122085,10/6/2018,FCS,Morgan St.,South Carolina St.,RUSHING,Jordan,Riggins,TD,1
+11122086,10/6/2018,FCS,Morgan St.,South Carolina St.,RUSHING,Jordan,Riggins,LONG,13
+11122087,10/6/2018,FCS,Morgan St.,South Carolina St.,RUSHING,Joshua,Chase,ATT,8
+11122088,10/6/2018,FCS,Morgan St.,South Carolina St.,RUSHING,Joshua,Chase,YDS,21
+11122089,10/6/2018,FCS,Morgan St.,South Carolina St.,RUSHING,Joshua,Chase,TD,0
+11122090,10/6/2018,FCS,Morgan St.,South Carolina St.,RUSHING,Joshua,Chase,LONG,6
+11122091,10/6/2018,FCS,Morgan St.,South Carolina St.,PASSING,DeAndre,Harris,CP-ATT-INT,11-22-2
+11122092,10/6/2018,FCS,Morgan St.,South Carolina St.,PASSING,DeAndre,Harris,YDS,141
+11122093,10/6/2018,FCS,Morgan St.,South Carolina St.,PASSING,DeAndre,Harris,TD,1
+11122094,10/6/2018,FCS,Morgan St.,South Carolina St.,PASSING,DeAndre,Harris,LONG,34
+11122095,10/6/2018,FCS,Morgan St.,South Carolina St.,PASSING,Nicholas,O'Shea,CP-ATT-INT,0-1-0
+11122096,10/6/2018,FCS,Morgan St.,South Carolina St.,PASSING,Nicholas,O'Shea,YDS,0
+11122097,10/6/2018,FCS,Morgan St.,South Carolina St.,PASSING,Nicholas,O'Shea,TD,0
+11122098,10/6/2018,FCS,Morgan St.,South Carolina St.,PASSING,Nicholas,O'Shea,LONG,0
+11122099,10/6/2018,FCS,Morgan St.,South Carolina St.,RECEIVING,Corey,Holmes,REC,4
+11122100,10/6/2018,FCS,Morgan St.,South Carolina St.,RECEIVING,Corey,Holmes,YDS,73
+11122101,10/6/2018,FCS,Morgan St.,South Carolina St.,RECEIVING,Corey,Holmes,TD,1
+11122102,10/6/2018,FCS,Morgan St.,South Carolina St.,RECEIVING,Corey,Holmes,LONG,34
+11122103,10/6/2018,FCS,Morgan St.,South Carolina St.,RECEIVING,Deontaye,White,REC,1
+11122104,10/6/2018,FCS,Morgan St.,South Carolina St.,RECEIVING,Deontaye,White,YDS,16
+11122105,10/6/2018,FCS,Morgan St.,South Carolina St.,RECEIVING,Deontaye,White,TD,0
+11122106,10/6/2018,FCS,Morgan St.,South Carolina St.,RECEIVING,Deontaye,White,LONG,16
+11122107,10/6/2018,FCS,Morgan St.,South Carolina St.,RECEIVING,Darien,Pollion,REC,1
+11122108,10/6/2018,FCS,Morgan St.,South Carolina St.,RECEIVING,Darien,Pollion,YDS,13
+11122109,10/6/2018,FCS,Morgan St.,South Carolina St.,RECEIVING,Darien,Pollion,TD,0
+11122110,10/6/2018,FCS,Morgan St.,South Carolina St.,RECEIVING,Darien,Pollion,LONG,13
+11122111,10/6/2018,FCS,Morgan St.,South Carolina St.,RECEIVING,William,King,REC,1
+11122112,10/6/2018,FCS,Morgan St.,South Carolina St.,RECEIVING,William,King,YDS,13
+11122113,10/6/2018,FCS,Morgan St.,South Carolina St.,RECEIVING,William,King,TD,0
+11122114,10/6/2018,FCS,Morgan St.,South Carolina St.,RECEIVING,William,King,LONG,13
+11122115,10/6/2018,FCS,Morgan St.,South Carolina St.,RECEIVING,Jordan,Riggins,REC,1
+11122116,10/6/2018,FCS,Morgan St.,South Carolina St.,RECEIVING,Jordan,Riggins,YDS,11
+11122117,10/6/2018,FCS,Morgan St.,South Carolina St.,RECEIVING,Jordan,Riggins,TD,0
+11122118,10/6/2018,FCS,Morgan St.,South Carolina St.,RECEIVING,Jordan,Riggins,LONG,11
+11122119,10/6/2018,FCS,Morgan St.,South Carolina St.,RECEIVING,Jack,McCracken,REC,1
+11122120,10/6/2018,FCS,Morgan St.,South Carolina St.,RECEIVING,Jack,McCracken,YDS,7
+11122121,10/6/2018,FCS,Morgan St.,South Carolina St.,RECEIVING,Jack,McCracken,TD,0
+11122122,10/6/2018,FCS,Morgan St.,South Carolina St.,RECEIVING,Jack,McCracken,LONG,7
+11122123,10/6/2018,FCS,Morgan St.,South Carolina St.,RECEIVING,Manassah,Bailey,REC,1
+11122124,10/6/2018,FCS,Morgan St.,South Carolina St.,RECEIVING,Manassah,Bailey,YDS,4
+11122125,10/6/2018,FCS,Morgan St.,South Carolina St.,RECEIVING,Manassah,Bailey,TD,0
+11122126,10/6/2018,FCS,Morgan St.,South Carolina St.,RECEIVING,Manassah,Bailey,LONG,4
+11122127,10/6/2018,FCS,Morgan St.,South Carolina St.,RECEIVING,Xavier,Gravette,REC,1
+11122128,10/6/2018,FCS,Morgan St.,South Carolina St.,RECEIVING,Xavier,Gravette,YDS,4
+11122129,10/6/2018,FCS,Morgan St.,South Carolina St.,RECEIVING,Xavier,Gravette,TD,0
+11122130,10/6/2018,FCS,Morgan St.,South Carolina St.,RECEIVING,Xavier,Gravette,LONG,4
+11122131,10/6/2018,FCS,Morgan St.,South Carolina St.,KICKING,Alex,Raya,FG-FGA,1/4
+11122132,10/6/2018,FCS,Morgan St.,South Carolina St.,KICKING,Alex,Raya,LONG,35
+11122133,10/6/2018,FCS,Morgan St.,South Carolina St.,KICKING,Alex,Raya,XP,1
+11122134,10/6/2018,FCS,Morgan St.,South Carolina St.,KICKING,Alex,Raya,PTS,4
+11122135,10/6/2018,FCS,Morgan St.,South Carolina St.,PUNTING,Nicholas,O'Shea,NO,4
+11122136,10/6/2018,FCS,Morgan St.,South Carolina St.,PUNTING,Nicholas,O'Shea,YDS,129
+11122137,10/6/2018,FCS,Morgan St.,South Carolina St.,PUNTING,Nicholas,O'Shea,AVG,32.2
+11122138,10/6/2018,FCS,Morgan St.,South Carolina St.,PUNTING,Nicholas,O'Shea,LONG,42
+11122139,10/6/2018,FCS,Morgan St.,South Carolina St.,PUNT RETURNS,Darien,Pollion,NO,1
+11122140,10/6/2018,FCS,Morgan St.,South Carolina St.,PUNT RETURNS,Darien,Pollion,YDS,16
+11122141,10/6/2018,FCS,Morgan St.,South Carolina St.,PUNT RETURNS,Darien,Pollion,AVG,16.0
+11122142,10/6/2018,FCS,Morgan St.,South Carolina St.,PUNT RETURNS,Darien,Pollion,LONG,16
+11122143,10/6/2018,FCS,Morgan St.,South Carolina St.,PUNT RETURNS,William,King,NO,1
+11122144,10/6/2018,FCS,Morgan St.,South Carolina St.,PUNT RETURNS,William,King,YDS,10
+11122145,10/6/2018,FCS,Morgan St.,South Carolina St.,PUNT RETURNS,William,King,AVG,10.0
+11122146,10/6/2018,FCS,Morgan St.,South Carolina St.,PUNT RETURNS,William,King,LONG,10
+11122147,10/6/2018,FCS,Morgan St.,South Carolina St.,PUNT RETURNS,Deontaye,White,NO,1
+11122148,10/6/2018,FCS,Morgan St.,South Carolina St.,PUNT RETURNS,Deontaye,White,YDS,0
+11122149,10/6/2018,FCS,Morgan St.,South Carolina St.,PUNT RETURNS,Deontaye,White,AVG,-
+11122150,10/6/2018,FCS,Morgan St.,South Carolina St.,PUNT RETURNS,Deontaye,White,LONG,0
+11122151,10/6/2018,FCS,Morgan St.,South Carolina St.,KICK RETURNS,Jordan,Cofield,NO,2
+11122152,10/6/2018,FCS,Morgan St.,South Carolina St.,KICK RETURNS,Jordan,Cofield,YDS,67
+11122153,10/6/2018,FCS,Morgan St.,South Carolina St.,KICK RETURNS,Jordan,Cofield,AVG,33.5
+11122154,10/6/2018,FCS,Morgan St.,South Carolina St.,KICK RETURNS,Jordan,Cofield,LONG,37
+11122155,10/6/2018,FCS,Morgan St.,South Carolina St.,KICK RETURNS,Detrick,Washington,NO,1
+11122156,10/6/2018,FCS,Morgan St.,South Carolina St.,KICK RETURNS,Detrick,Washington,YDS,13
+11122157,10/6/2018,FCS,Morgan St.,South Carolina St.,KICK RETURNS,Detrick,Washington,AVG,13.0
+11122158,10/6/2018,FCS,Morgan St.,South Carolina St.,KICK RETURNS,Detrick,Washington,LONG,13
+11122159,10/6/2018,FCS,Morgan St.,South Carolina St.,KICK RETURNS,William,King,NO,1
+11122160,10/6/2018,FCS,Morgan St.,South Carolina St.,KICK RETURNS,William,King,YDS,12
+11122161,10/6/2018,FCS,Morgan St.,South Carolina St.,KICK RETURNS,William,King,AVG,12.0
+11122162,10/6/2018,FCS,Morgan St.,South Carolina St.,KICK RETURNS,William,King,LONG,12
+11122163,10/6/2018,FCS,Morgan St.,South Carolina St.,DEFENSE,Damare',Whitaker,TOT,0
+11122164,10/6/2018,FCS,Morgan St.,South Carolina St.,DEFENSE,Damare',Whitaker,SOLO,0
+11122165,10/6/2018,FCS,Morgan St.,South Carolina St.,DEFENSE,Damare',Whitaker,SACKS,0
+11122166,10/6/2018,FCS,Morgan St.,South Carolina St.,DEFENSE,Damare',Whitaker,TFL,0
+11122167,10/6/2018,FCS,Morgan St.,South Carolina St.,DEFENSE,Damare',Whitaker,INT,0
+11122168,10/6/2018,FCS,Morgan St.,South Carolina St.,DEFENSE,Damare',Whitaker,FF,0
+11122169,10/6/2018,FCS,Morgan St.,South Carolina St.,DEFENSE,Damare',Whitaker,FR,1
+11122170,10/6/2018,FCS,Morgan St.,South Carolina St.,DEFENSE,Ian,McBorrough,TOT,0
+11122171,10/6/2018,FCS,Morgan St.,South Carolina St.,DEFENSE,Ian,McBorrough,SOLO,0
+11122172,10/6/2018,FCS,Morgan St.,South Carolina St.,DEFENSE,Ian,McBorrough,SACKS,1
+11122173,10/6/2018,FCS,Morgan St.,South Carolina St.,DEFENSE,Ian,McBorrough,TFL,0
+11122174,10/6/2018,FCS,Morgan St.,South Carolina St.,DEFENSE,Ian,McBorrough,INT,0
+11122175,10/6/2018,FCS,Morgan St.,South Carolina St.,DEFENSE,Ian,McBorrough,FF,0
+11122176,10/6/2018,FCS,Morgan St.,South Carolina St.,DEFENSE,Ian,McBorrough,FR,0

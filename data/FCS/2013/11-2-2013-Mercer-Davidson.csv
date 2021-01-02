@@ -1,0 +1,141 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+7351001,11/2/2013,FCS,Mercer,Davidson,RUSHING,JeTarii,Donald,ATT,24
+7351002,11/2/2013,FCS,Mercer,Davidson,RUSHING,JeTarii,Donald,YDS,202
+7351003,11/2/2013,FCS,Mercer,Davidson,RUSHING,JeTarii,Donald,TD,2
+7351004,11/2/2013,FCS,Mercer,Davidson,RUSHING,JeTarii,Donald,LONG,57
+7351005,11/2/2013,FCS,Mercer,Davidson,RUSHING,John,Russ,ATT,15
+7351006,11/2/2013,FCS,Mercer,Davidson,RUSHING,John,Russ,YDS,123
+7351007,11/2/2013,FCS,Mercer,Davidson,RUSHING,John,Russ,TD,2
+7351008,11/2/2013,FCS,Mercer,Davidson,RUSHING,John,Russ,LONG,30
+7351009,11/2/2013,FCS,Mercer,Davidson,RUSHING,Caleb,Brown,ATT,11
+7351010,11/2/2013,FCS,Mercer,Davidson,RUSHING,Caleb,Brown,YDS,81
+7351011,11/2/2013,FCS,Mercer,Davidson,RUSHING,Caleb,Brown,TD,1
+7351012,11/2/2013,FCS,Mercer,Davidson,RUSHING,Caleb,Brown,LONG,27
+7351013,11/2/2013,FCS,Mercer,Davidson,RUSHING,,Team,ATT,1
+7351014,11/2/2013,FCS,Mercer,Davidson,RUSHING,,Team,YDS,-9
+7351015,11/2/2013,FCS,Mercer,Davidson,RUSHING,,Team,TD,0
+7351016,11/2/2013,FCS,Mercer,Davidson,RUSHING,,Team,LONG,0
+7351017,11/2/2013,FCS,Mercer,Davidson,PASSING,John,Russ,CP-ATT-INT,11-21-0
+7351018,11/2/2013,FCS,Mercer,Davidson,PASSING,John,Russ,YDS,136
+7351019,11/2/2013,FCS,Mercer,Davidson,PASSING,John,Russ,TD,1
+7351020,11/2/2013,FCS,Mercer,Davidson,PASSING,John,Russ,LONG,51
+7351021,11/2/2013,FCS,Mercer,Davidson,PASSING,Rob,East,CP-ATT-INT,0-1-0
+7351022,11/2/2013,FCS,Mercer,Davidson,PASSING,Rob,East,YDS,0
+7351023,11/2/2013,FCS,Mercer,Davidson,PASSING,Rob,East,TD,0
+7351024,11/2/2013,FCS,Mercer,Davidson,PASSING,Rob,East,LONG,0
+7351025,11/2/2013,FCS,Mercer,Davidson,RECEIVING,JeTarii,Donald,REC,3
+7351026,11/2/2013,FCS,Mercer,Davidson,RECEIVING,JeTarii,Donald,YDS,59
+7351027,11/2/2013,FCS,Mercer,Davidson,RECEIVING,JeTarii,Donald,TD,1
+7351028,11/2/2013,FCS,Mercer,Davidson,RECEIVING,JeTarii,Donald,LONG,51
+7351029,11/2/2013,FCS,Mercer,Davidson,RECEIVING,JT,Palmer,REC,3
+7351030,11/2/2013,FCS,Mercer,Davidson,RECEIVING,JT,Palmer,YDS,26
+7351031,11/2/2013,FCS,Mercer,Davidson,RECEIVING,JT,Palmer,TD,0
+7351032,11/2/2013,FCS,Mercer,Davidson,RECEIVING,JT,Palmer,LONG,14
+7351033,11/2/2013,FCS,Mercer,Davidson,RECEIVING,Josh,Jones,REC,3
+7351034,11/2/2013,FCS,Mercer,Davidson,RECEIVING,Josh,Jones,YDS,22
+7351035,11/2/2013,FCS,Mercer,Davidson,RECEIVING,Josh,Jones,TD,0
+7351036,11/2/2013,FCS,Mercer,Davidson,RECEIVING,Josh,Jones,LONG,10
+7351037,11/2/2013,FCS,Mercer,Davidson,RECEIVING,Hunter,Mackay,REC,1
+7351038,11/2/2013,FCS,Mercer,Davidson,RECEIVING,Hunter,Mackay,YDS,20
+7351039,11/2/2013,FCS,Mercer,Davidson,RECEIVING,Hunter,Mackay,TD,0
+7351040,11/2/2013,FCS,Mercer,Davidson,RECEIVING,Hunter,Mackay,LONG,20
+7351041,11/2/2013,FCS,Mercer,Davidson,RECEIVING,Robert,Brown,REC,1
+7351042,11/2/2013,FCS,Mercer,Davidson,RECEIVING,Robert,Brown,YDS,9
+7351043,11/2/2013,FCS,Mercer,Davidson,RECEIVING,Robert,Brown,TD,0
+7351044,11/2/2013,FCS,Mercer,Davidson,RECEIVING,Robert,Brown,LONG,9
+7351045,11/2/2013,FCS,Mercer,Davidson,KICKING,Tyler,Zielenske,FG-FGA,0/0
+7351046,11/2/2013,FCS,Mercer,Davidson,KICKING,Tyler,Zielenske,LONG,-
+7351047,11/2/2013,FCS,Mercer,Davidson,KICKING,Tyler,Zielenske,XP,7
+7351048,11/2/2013,FCS,Mercer,Davidson,KICKING,Tyler,Zielenske,PTS,7
+7351049,11/2/2013,FCS,Mercer,Davidson,PUNTING,Rob,East,NO,4
+7351050,11/2/2013,FCS,Mercer,Davidson,PUNTING,Rob,East,YDS,175
+7351051,11/2/2013,FCS,Mercer,Davidson,PUNTING,Rob,East,AVG,43.8
+7351052,11/2/2013,FCS,Mercer,Davidson,PUNTING,Rob,East,LONG,47
+7351053,11/2/2013,FCS,Mercer,Davidson,KICK RETURNS,Adrian,Humphrey,NO,2
+7351054,11/2/2013,FCS,Mercer,Davidson,KICK RETURNS,Adrian,Humphrey,YDS,32
+7351055,11/2/2013,FCS,Mercer,Davidson,KICK RETURNS,Adrian,Humphrey,AVG,16.0
+7351056,11/2/2013,FCS,Mercer,Davidson,KICK RETURNS,Adrian,Humphrey,LONG,18
+7351057,11/2/2013,FCS,Mercer,Davidson,KICK RETURNS,Jabari,Scruggs,NO,1
+7351058,11/2/2013,FCS,Mercer,Davidson,KICK RETURNS,Jabari,Scruggs,YDS,20
+7351059,11/2/2013,FCS,Mercer,Davidson,KICK RETURNS,Jabari,Scruggs,AVG,20.0
+7351060,11/2/2013,FCS,Mercer,Davidson,KICK RETURNS,Jabari,Scruggs,LONG,17
+7351061,11/2/2013,FCS,Mercer,Davidson,KICK RETURNS,Seth,Hattaway,NO,1
+7351062,11/2/2013,FCS,Mercer,Davidson,KICK RETURNS,Seth,Hattaway,YDS,8
+7351063,11/2/2013,FCS,Mercer,Davidson,KICK RETURNS,Seth,Hattaway,AVG,8.0
+7351064,11/2/2013,FCS,Mercer,Davidson,KICK RETURNS,Seth,Hattaway,LONG,8
+7351065,11/2/2013,FCS,Mercer,Davidson,KICK RETURNS,Sebastian,Hicks,NO,1
+7351066,11/2/2013,FCS,Mercer,Davidson,KICK RETURNS,Sebastian,Hicks,YDS,-1
+7351067,11/2/2013,FCS,Mercer,Davidson,KICK RETURNS,Sebastian,Hicks,AVG,-1.0
+7351068,11/2/2013,FCS,Mercer,Davidson,KICK RETURNS,Sebastian,Hicks,LONG,0
+7351069,11/2/2013,FCS,Davidson,Mercer,RUSHING,Robert,Klein,ATT,15
+7351070,11/2/2013,FCS,Davidson,Mercer,RUSHING,Robert,Klein,YDS,130
+7351071,11/2/2013,FCS,Davidson,Mercer,RUSHING,Robert,Klein,TD,0
+7351072,11/2/2013,FCS,Davidson,Mercer,RUSHING,Robert,Klein,LONG,36
+7351073,11/2/2013,FCS,Davidson,Mercer,RUSHING,David,Rogers,ATT,13
+7351074,11/2/2013,FCS,Davidson,Mercer,RUSHING,David,Rogers,YDS,71
+7351075,11/2/2013,FCS,Davidson,Mercer,RUSHING,David,Rogers,TD,0
+7351076,11/2/2013,FCS,Davidson,Mercer,RUSHING,David,Rogers,LONG,19
+7351077,11/2/2013,FCS,Davidson,Mercer,RUSHING,,Team,ATT,1
+7351078,11/2/2013,FCS,Davidson,Mercer,RUSHING,,Team,YDS,-2
+7351079,11/2/2013,FCS,Davidson,Mercer,RUSHING,,Team,TD,0
+7351080,11/2/2013,FCS,Davidson,Mercer,RUSHING,,Team,LONG,0
+7351081,11/2/2013,FCS,Davidson,Mercer,RUSHING,J.P.,Douglas,ATT,2
+7351082,11/2/2013,FCS,Davidson,Mercer,RUSHING,J.P.,Douglas,YDS,-4
+7351083,11/2/2013,FCS,Davidson,Mercer,RUSHING,J.P.,Douglas,TD,0
+7351084,11/2/2013,FCS,Davidson,Mercer,RUSHING,J.P.,Douglas,LONG,0
+7351085,11/2/2013,FCS,Davidson,Mercer,RUSHING,Jonathan,Carkhuff,ATT,5
+7351086,11/2/2013,FCS,Davidson,Mercer,RUSHING,Jonathan,Carkhuff,YDS,-9
+7351087,11/2/2013,FCS,Davidson,Mercer,RUSHING,Jonathan,Carkhuff,TD,2
+7351088,11/2/2013,FCS,Davidson,Mercer,RUSHING,Jonathan,Carkhuff,LONG,6
+7351089,11/2/2013,FCS,Davidson,Mercer,PASSING,Jonathan,Carkhuff,CP-ATT-INT,12-26-0
+7351090,11/2/2013,FCS,Davidson,Mercer,PASSING,Jonathan,Carkhuff,YDS,215
+7351091,11/2/2013,FCS,Davidson,Mercer,PASSING,Jonathan,Carkhuff,TD,0
+7351092,11/2/2013,FCS,Davidson,Mercer,PASSING,Jonathan,Carkhuff,LONG,53
+7351093,11/2/2013,FCS,Davidson,Mercer,PASSING,J.P.,Douglas,CP-ATT-INT,7-10-1
+7351094,11/2/2013,FCS,Davidson,Mercer,PASSING,J.P.,Douglas,YDS,60
+7351095,11/2/2013,FCS,Davidson,Mercer,PASSING,J.P.,Douglas,TD,1
+7351096,11/2/2013,FCS,Davidson,Mercer,PASSING,J.P.,Douglas,LONG,28
+7351097,11/2/2013,FCS,Davidson,Mercer,PASSING,David,Rogers,CP-ATT-INT,1-1-0
+7351098,11/2/2013,FCS,Davidson,Mercer,PASSING,David,Rogers,YDS,7
+7351099,11/2/2013,FCS,Davidson,Mercer,PASSING,David,Rogers,TD,1
+7351100,11/2/2013,FCS,Davidson,Mercer,PASSING,David,Rogers,LONG,7
+7351101,11/2/2013,FCS,Davidson,Mercer,RECEIVING,William,Morris,REC,7
+7351102,11/2/2013,FCS,Davidson,Mercer,RECEIVING,William,Morris,YDS,136
+7351103,11/2/2013,FCS,Davidson,Mercer,RECEIVING,William,Morris,TD,0
+7351104,11/2/2013,FCS,Davidson,Mercer,RECEIVING,William,Morris,LONG,53
+7351105,11/2/2013,FCS,Davidson,Mercer,RECEIVING,David,Rogers,REC,5
+7351106,11/2/2013,FCS,Davidson,Mercer,RECEIVING,David,Rogers,YDS,52
+7351107,11/2/2013,FCS,Davidson,Mercer,RECEIVING,David,Rogers,TD,1
+7351108,11/2/2013,FCS,Davidson,Mercer,RECEIVING,David,Rogers,LONG,20
+7351109,11/2/2013,FCS,Davidson,Mercer,RECEIVING,Se'Vaughn,Carter,REC,3
+7351110,11/2/2013,FCS,Davidson,Mercer,RECEIVING,Se'Vaughn,Carter,YDS,27
+7351111,11/2/2013,FCS,Davidson,Mercer,RECEIVING,Se'Vaughn,Carter,TD,0
+7351112,11/2/2013,FCS,Davidson,Mercer,RECEIVING,Se'Vaughn,Carter,LONG,12
+7351113,11/2/2013,FCS,Davidson,Mercer,RECEIVING,Garrett,Diehl,REC,2
+7351114,11/2/2013,FCS,Davidson,Mercer,RECEIVING,Garrett,Diehl,YDS,44
+7351115,11/2/2013,FCS,Davidson,Mercer,RECEIVING,Garrett,Diehl,TD,0
+7351116,11/2/2013,FCS,Davidson,Mercer,RECEIVING,Garrett,Diehl,LONG,38
+7351117,11/2/2013,FCS,Davidson,Mercer,RECEIVING,Jeff,McDaniels,REC,2
+7351118,11/2/2013,FCS,Davidson,Mercer,RECEIVING,Jeff,McDaniels,YDS,15
+7351119,11/2/2013,FCS,Davidson,Mercer,RECEIVING,Jeff,McDaniels,TD,1
+7351120,11/2/2013,FCS,Davidson,Mercer,RECEIVING,Jeff,McDaniels,LONG,8
+7351121,11/2/2013,FCS,Davidson,Mercer,RECEIVING,Robert,Klein,REC,1
+7351122,11/2/2013,FCS,Davidson,Mercer,RECEIVING,Robert,Klein,YDS,8
+7351123,11/2/2013,FCS,Davidson,Mercer,RECEIVING,Robert,Klein,TD,0
+7351124,11/2/2013,FCS,Davidson,Mercer,RECEIVING,Robert,Klein,LONG,8
+7351125,11/2/2013,FCS,Davidson,Mercer,PUNTING,John,Cook,NO,4
+7351126,11/2/2013,FCS,Davidson,Mercer,PUNTING,John,Cook,YDS,117
+7351127,11/2/2013,FCS,Davidson,Mercer,PUNTING,John,Cook,AVG,29.3
+7351128,11/2/2013,FCS,Davidson,Mercer,PUNTING,John,Cook,LONG,36
+7351129,11/2/2013,FCS,Davidson,Mercer,PUNTING,Jeff,McDaniels,NO,2
+7351130,11/2/2013,FCS,Davidson,Mercer,PUNTING,Jeff,McDaniels,YDS,86
+7351131,11/2/2013,FCS,Davidson,Mercer,PUNTING,Jeff,McDaniels,AVG,43.0
+7351132,11/2/2013,FCS,Davidson,Mercer,PUNTING,Jeff,McDaniels,LONG,52
+7351133,11/2/2013,FCS,Davidson,Mercer,PUNT RETURNS,William,Morris,NO,2
+7351134,11/2/2013,FCS,Davidson,Mercer,PUNT RETURNS,William,Morris,YDS,2
+7351135,11/2/2013,FCS,Davidson,Mercer,PUNT RETURNS,William,Morris,AVG,1.0
+7351136,11/2/2013,FCS,Davidson,Mercer,PUNT RETURNS,William,Morris,LONG,2
+7351137,11/2/2013,FCS,Davidson,Mercer,KICK RETURNS,Robert,Klein,NO,5
+7351138,11/2/2013,FCS,Davidson,Mercer,KICK RETURNS,Robert,Klein,YDS,59
+7351139,11/2/2013,FCS,Davidson,Mercer,KICK RETURNS,Robert,Klein,AVG,11.8
+7351140,11/2/2013,FCS,Davidson,Mercer,KICK RETURNS,Robert,Klein,LONG,22

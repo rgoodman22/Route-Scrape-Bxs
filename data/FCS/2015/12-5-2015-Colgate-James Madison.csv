@@ -1,0 +1,133 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9192001,12/5/2015,FCS,Colgate,James Madison,RUSHING,James,Holland,ATT,27
+9192002,12/5/2015,FCS,Colgate,James Madison,RUSHING,James,Holland,YDS,165
+9192003,12/5/2015,FCS,Colgate,James Madison,RUSHING,James,Holland,TD,2
+9192004,12/5/2015,FCS,Colgate,James Madison,RUSHING,James,Holland,LONG,63
+9192005,12/5/2015,FCS,Colgate,James Madison,RUSHING,Jake,Melville,ATT,14
+9192006,12/5/2015,FCS,Colgate,James Madison,RUSHING,Jake,Melville,YDS,163
+9192007,12/5/2015,FCS,Colgate,James Madison,RUSHING,Jake,Melville,TD,2
+9192008,12/5/2015,FCS,Colgate,James Madison,RUSHING,Jake,Melville,LONG,67
+9192009,12/5/2015,FCS,Colgate,James Madison,RUSHING,Demetrius,Russell,ATT,5
+9192010,12/5/2015,FCS,Colgate,James Madison,RUSHING,Demetrius,Russell,YDS,13
+9192011,12/5/2015,FCS,Colgate,James Madison,RUSHING,Demetrius,Russell,TD,0
+9192012,12/5/2015,FCS,Colgate,James Madison,RUSHING,Demetrius,Russell,LONG,8
+9192013,12/5/2015,FCS,Colgate,James Madison,RUSHING,Connor,Wingenroth,ATT,2
+9192014,12/5/2015,FCS,Colgate,James Madison,RUSHING,Connor,Wingenroth,YDS,10
+9192015,12/5/2015,FCS,Colgate,James Madison,RUSHING,Connor,Wingenroth,TD,0
+9192016,12/5/2015,FCS,Colgate,James Madison,RUSHING,Connor,Wingenroth,LONG,8
+9192017,12/5/2015,FCS,Colgate,James Madison,RUSHING,,Team,ATT,2
+9192018,12/5/2015,FCS,Colgate,James Madison,RUSHING,,Team,YDS,-8
+9192019,12/5/2015,FCS,Colgate,James Madison,RUSHING,,Team,TD,0
+9192020,12/5/2015,FCS,Colgate,James Madison,RUSHING,,Team,LONG,-4
+9192021,12/5/2015,FCS,Colgate,James Madison,PASSING,Jake,Melville,CP-ATT-INT,8-23-1
+9192022,12/5/2015,FCS,Colgate,James Madison,PASSING,Jake,Melville,YDS,120
+9192023,12/5/2015,FCS,Colgate,James Madison,PASSING,Jake,Melville,TD,2
+9192024,12/5/2015,FCS,Colgate,James Madison,PASSING,Jake,Melville,LONG,44
+9192025,12/5/2015,FCS,Colgate,James Madison,RECEIVING,Thomas,Ives,REC,2
+9192026,12/5/2015,FCS,Colgate,James Madison,RECEIVING,Thomas,Ives,YDS,55
+9192027,12/5/2015,FCS,Colgate,James Madison,RECEIVING,Thomas,Ives,TD,0
+9192028,12/5/2015,FCS,Colgate,James Madison,RECEIVING,Thomas,Ives,LONG,44
+9192029,12/5/2015,FCS,Colgate,James Madison,RECEIVING,Connor,Wingenroth,REC,1
+9192030,12/5/2015,FCS,Colgate,James Madison,RECEIVING,Connor,Wingenroth,YDS,29
+9192031,12/5/2015,FCS,Colgate,James Madison,RECEIVING,Connor,Wingenroth,TD,0
+9192032,12/5/2015,FCS,Colgate,James Madison,RECEIVING,Connor,Wingenroth,LONG,29
+9192033,12/5/2015,FCS,Colgate,James Madison,RECEIVING,Alex,Greenawalt,REC,1
+9192034,12/5/2015,FCS,Colgate,James Madison,RECEIVING,Alex,Greenawalt,YDS,17
+9192035,12/5/2015,FCS,Colgate,James Madison,RECEIVING,Alex,Greenawalt,TD,1
+9192036,12/5/2015,FCS,Colgate,James Madison,RECEIVING,Alex,Greenawalt,LONG,17
+9192037,12/5/2015,FCS,Colgate,James Madison,RECEIVING,John,Quazza,REC,1
+9192038,12/5/2015,FCS,Colgate,James Madison,RECEIVING,John,Quazza,YDS,10
+9192039,12/5/2015,FCS,Colgate,James Madison,RECEIVING,John,Quazza,TD,1
+9192040,12/5/2015,FCS,Colgate,James Madison,RECEIVING,John,Quazza,LONG,10
+9192041,12/5/2015,FCS,Colgate,James Madison,RECEIVING,John,Maddaluna,REC,3
+9192042,12/5/2015,FCS,Colgate,James Madison,RECEIVING,John,Maddaluna,YDS,9
+9192043,12/5/2015,FCS,Colgate,James Madison,RECEIVING,John,Maddaluna,TD,0
+9192044,12/5/2015,FCS,Colgate,James Madison,RECEIVING,John,Maddaluna,LONG,8
+9192045,12/5/2015,FCS,Colgate,James Madison,KICKING,Jonah,Bowman,FG-FGA,1/1
+9192046,12/5/2015,FCS,Colgate,James Madison,KICKING,Jonah,Bowman,LONG,21
+9192047,12/5/2015,FCS,Colgate,James Madison,KICKING,Jonah,Bowman,XP,5
+9192048,12/5/2015,FCS,Colgate,James Madison,KICKING,Jonah,Bowman,PTS,8
+9192049,12/5/2015,FCS,Colgate,James Madison,PUNTING,Nikko,Armiento,NO,4
+9192050,12/5/2015,FCS,Colgate,James Madison,PUNTING,Nikko,Armiento,YDS,163
+9192051,12/5/2015,FCS,Colgate,James Madison,PUNTING,Nikko,Armiento,AVG,40.8
+9192052,12/5/2015,FCS,Colgate,James Madison,PUNTING,Nikko,Armiento,LONG,47
+9192053,12/5/2015,FCS,Colgate,James Madison,PUNT RETURNS,Christian,Hardegree,NO,2
+9192054,12/5/2015,FCS,Colgate,James Madison,PUNT RETURNS,Christian,Hardegree,YDS,30
+9192055,12/5/2015,FCS,Colgate,James Madison,PUNT RETURNS,Christian,Hardegree,AVG,15.0
+9192056,12/5/2015,FCS,Colgate,James Madison,PUNT RETURNS,Christian,Hardegree,LONG,26
+9192057,12/5/2015,FCS,Colgate,James Madison,KICK RETURNS,John,Maddaluna,NO,4
+9192058,12/5/2015,FCS,Colgate,James Madison,KICK RETURNS,John,Maddaluna,YDS,113
+9192059,12/5/2015,FCS,Colgate,James Madison,KICK RETURNS,John,Maddaluna,AVG,28.2
+9192060,12/5/2015,FCS,Colgate,James Madison,KICK RETURNS,John,Maddaluna,LONG,33
+9192061,12/5/2015,FCS,Colgate,James Madison,KICK RETURNS,Ben,Hunt,NO,1
+9192062,12/5/2015,FCS,Colgate,James Madison,KICK RETURNS,Ben,Hunt,YDS,24
+9192063,12/5/2015,FCS,Colgate,James Madison,KICK RETURNS,Ben,Hunt,AVG,24.0
+9192064,12/5/2015,FCS,Colgate,James Madison,KICK RETURNS,Ben,Hunt,LONG,24
+9192065,12/5/2015,FCS,Colgate,James Madison,KICK RETURNS,Chris,Morgan,NO,1
+9192066,12/5/2015,FCS,Colgate,James Madison,KICK RETURNS,Chris,Morgan,YDS,19
+9192067,12/5/2015,FCS,Colgate,James Madison,KICK RETURNS,Chris,Morgan,AVG,19.0
+9192068,12/5/2015,FCS,Colgate,James Madison,KICK RETURNS,Chris,Morgan,LONG,19
+9192069,12/5/2015,FCS,James Madison,Colgate,RUSHING,Khalid,Abdullah,ATT,14
+9192070,12/5/2015,FCS,James Madison,Colgate,RUSHING,Khalid,Abdullah,YDS,73
+9192071,12/5/2015,FCS,James Madison,Colgate,RUSHING,Khalid,Abdullah,TD,1
+9192072,12/5/2015,FCS,James Madison,Colgate,RUSHING,Khalid,Abdullah,LONG,13
+9192073,12/5/2015,FCS,James Madison,Colgate,RUSHING,Cardon,Johnson,ATT,13
+9192074,12/5/2015,FCS,James Madison,Colgate,RUSHING,Cardon,Johnson,YDS,48
+9192075,12/5/2015,FCS,James Madison,Colgate,RUSHING,Cardon,Johnson,TD,0
+9192076,12/5/2015,FCS,James Madison,Colgate,RUSHING,Cardon,Johnson,LONG,12
+9192077,12/5/2015,FCS,James Madison,Colgate,RUSHING,Bryan,Schor,ATT,14
+9192078,12/5/2015,FCS,James Madison,Colgate,RUSHING,Bryan,Schor,YDS,36
+9192079,12/5/2015,FCS,James Madison,Colgate,RUSHING,Bryan,Schor,TD,1
+9192080,12/5/2015,FCS,James Madison,Colgate,RUSHING,Bryan,Schor,LONG,16
+9192081,12/5/2015,FCS,James Madison,Colgate,PASSING,Bryan,Schor,CP-ATT-INT,13-18-0
+9192082,12/5/2015,FCS,James Madison,Colgate,PASSING,Bryan,Schor,YDS,141
+9192083,12/5/2015,FCS,James Madison,Colgate,PASSING,Bryan,Schor,TD,2
+9192084,12/5/2015,FCS,James Madison,Colgate,PASSING,Bryan,Schor,LONG,28
+9192085,12/5/2015,FCS,James Madison,Colgate,RECEIVING,Rashard,Davis,REC,3
+9192086,12/5/2015,FCS,James Madison,Colgate,RECEIVING,Rashard,Davis,YDS,45
+9192087,12/5/2015,FCS,James Madison,Colgate,RECEIVING,Rashard,Davis,TD,2
+9192088,12/5/2015,FCS,James Madison,Colgate,RECEIVING,Rashard,Davis,LONG,28
+9192089,12/5/2015,FCS,James Madison,Colgate,RECEIVING,Brandon,Ravenel,REC,4
+9192090,12/5/2015,FCS,James Madison,Colgate,RECEIVING,Brandon,Ravenel,YDS,34
+9192091,12/5/2015,FCS,James Madison,Colgate,RECEIVING,Brandon,Ravenel,TD,0
+9192092,12/5/2015,FCS,James Madison,Colgate,RECEIVING,Brandon,Ravenel,LONG,19
+9192093,12/5/2015,FCS,James Madison,Colgate,RECEIVING,Domonique,Taylor,REC,2
+9192094,12/5/2015,FCS,James Madison,Colgate,RECEIVING,Domonique,Taylor,YDS,33
+9192095,12/5/2015,FCS,James Madison,Colgate,RECEIVING,Domonique,Taylor,TD,0
+9192096,12/5/2015,FCS,James Madison,Colgate,RECEIVING,Domonique,Taylor,LONG,24
+9192097,12/5/2015,FCS,James Madison,Colgate,RECEIVING,Khalid,Abdullah,REC,2
+9192098,12/5/2015,FCS,James Madison,Colgate,RECEIVING,Khalid,Abdullah,YDS,22
+9192099,12/5/2015,FCS,James Madison,Colgate,RECEIVING,Khalid,Abdullah,TD,0
+9192100,12/5/2015,FCS,James Madison,Colgate,RECEIVING,Khalid,Abdullah,LONG,11
+9192101,12/5/2015,FCS,James Madison,Colgate,RECEIVING,Deane,Cheatham,REC,1
+9192102,12/5/2015,FCS,James Madison,Colgate,RECEIVING,Deane,Cheatham,YDS,5
+9192103,12/5/2015,FCS,James Madison,Colgate,RECEIVING,Deane,Cheatham,TD,0
+9192104,12/5/2015,FCS,James Madison,Colgate,RECEIVING,Deane,Cheatham,LONG,5
+9192105,12/5/2015,FCS,James Madison,Colgate,RECEIVING,John,Miller,REC,1
+9192106,12/5/2015,FCS,James Madison,Colgate,RECEIVING,John,Miller,YDS,2
+9192107,12/5/2015,FCS,James Madison,Colgate,RECEIVING,John,Miller,TD,0
+9192108,12/5/2015,FCS,James Madison,Colgate,RECEIVING,John,Miller,LONG,2
+9192109,12/5/2015,FCS,James Madison,Colgate,KICKING,Ryan,Maglio,FG-FGA,1/1
+9192110,12/5/2015,FCS,James Madison,Colgate,KICKING,Ryan,Maglio,LONG,40
+9192111,12/5/2015,FCS,James Madison,Colgate,KICKING,Ryan,Maglio,XP,5
+9192112,12/5/2015,FCS,James Madison,Colgate,KICKING,Ryan,Maglio,PTS,8
+9192113,12/5/2015,FCS,James Madison,Colgate,PUNTING,Gunnar,Kane,NO,4
+9192114,12/5/2015,FCS,James Madison,Colgate,PUNTING,Gunnar,Kane,YDS,180
+9192115,12/5/2015,FCS,James Madison,Colgate,PUNTING,Gunnar,Kane,AVG,45.0
+9192116,12/5/2015,FCS,James Madison,Colgate,PUNTING,Gunnar,Kane,LONG,51
+9192117,12/5/2015,FCS,James Madison,Colgate,PUNT RETURNS,John,Miller,NO,4
+9192118,12/5/2015,FCS,James Madison,Colgate,PUNT RETURNS,John,Miller,YDS,28
+9192119,12/5/2015,FCS,James Madison,Colgate,PUNT RETURNS,John,Miller,AVG,7.0
+9192120,12/5/2015,FCS,James Madison,Colgate,PUNT RETURNS,John,Miller,LONG,15
+9192121,12/5/2015,FCS,James Madison,Colgate,KICK RETURNS,Brandon,Ravenel,NO,5
+9192122,12/5/2015,FCS,James Madison,Colgate,KICK RETURNS,Brandon,Ravenel,YDS,184
+9192123,12/5/2015,FCS,James Madison,Colgate,KICK RETURNS,Brandon,Ravenel,AVG,36.8
+9192124,12/5/2015,FCS,James Madison,Colgate,KICK RETURNS,Brandon,Ravenel,LONG,66
+9192125,12/5/2015,FCS,James Madison,Colgate,KICK RETURNS,Deane,Cheatham,NO,1
+9192126,12/5/2015,FCS,James Madison,Colgate,KICK RETURNS,Deane,Cheatham,YDS,7
+9192127,12/5/2015,FCS,James Madison,Colgate,KICK RETURNS,Deane,Cheatham,AVG,7.0
+9192128,12/5/2015,FCS,James Madison,Colgate,KICK RETURNS,Deane,Cheatham,LONG,7
+9192129,12/5/2015,FCS,James Madison,Colgate,KICK RETURNS,Jonathan,Kloosterman,NO,1
+9192130,12/5/2015,FCS,James Madison,Colgate,KICK RETURNS,Jonathan,Kloosterman,YDS,6
+9192131,12/5/2015,FCS,James Madison,Colgate,KICK RETURNS,Jonathan,Kloosterman,AVG,6.0
+9192132,12/5/2015,FCS,James Madison,Colgate,KICK RETURNS,Jonathan,Kloosterman,LONG,6

@@ -1,0 +1,153 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+10527001,10/28/2017,FCS,Cornell,Princeton,RUSHING,Jake,Jatis,ATT,12
+10527002,10/28/2017,FCS,Cornell,Princeton,RUSHING,Jake,Jatis,YDS,61
+10527003,10/28/2017,FCS,Cornell,Princeton,RUSHING,Jake,Jatis,TD,1
+10527004,10/28/2017,FCS,Cornell,Princeton,RUSHING,Jake,Jatis,LONG,21
+10527005,10/28/2017,FCS,Cornell,Princeton,RUSHING,Harold,Coles,ATT,9
+10527006,10/28/2017,FCS,Cornell,Princeton,RUSHING,Harold,Coles,YDS,43
+10527007,10/28/2017,FCS,Cornell,Princeton,RUSHING,Harold,Coles,TD,0
+10527008,10/28/2017,FCS,Cornell,Princeton,RUSHING,Harold,Coles,LONG,18
+10527009,10/28/2017,FCS,Cornell,Princeton,RUSHING,Chris,Walker,ATT,13
+10527010,10/28/2017,FCS,Cornell,Princeton,RUSHING,Chris,Walker,YDS,34
+10527011,10/28/2017,FCS,Cornell,Princeton,RUSHING,Chris,Walker,TD,1
+10527012,10/28/2017,FCS,Cornell,Princeton,RUSHING,Chris,Walker,LONG,14
+10527013,10/28/2017,FCS,Cornell,Princeton,RUSHING,Jack,Gellatly,ATT,6
+10527014,10/28/2017,FCS,Cornell,Princeton,RUSHING,Jack,Gellatly,YDS,25
+10527015,10/28/2017,FCS,Cornell,Princeton,RUSHING,Jack,Gellatly,TD,0
+10527016,10/28/2017,FCS,Cornell,Princeton,RUSHING,Jack,Gellatly,LONG,7
+10527017,10/28/2017,FCS,Cornell,Princeton,RUSHING,Dalton,Banks,ATT,1
+10527018,10/28/2017,FCS,Cornell,Princeton,RUSHING,Dalton,Banks,YDS,1
+10527019,10/28/2017,FCS,Cornell,Princeton,RUSHING,Dalton,Banks,TD,0
+10527020,10/28/2017,FCS,Cornell,Princeton,RUSHING,Dalton,Banks,LONG,1
+10527021,10/28/2017,FCS,Cornell,Princeton,RUSHING,,Team,ATT,1
+10527022,10/28/2017,FCS,Cornell,Princeton,RUSHING,,Team,YDS,-1
+10527023,10/28/2017,FCS,Cornell,Princeton,RUSHING,,Team,TD,0
+10527024,10/28/2017,FCS,Cornell,Princeton,RUSHING,,Team,LONG,0
+10527025,10/28/2017,FCS,Cornell,Princeton,PASSING,Dalton,Banks,CP-ATT-INT,23-29-2
+10527026,10/28/2017,FCS,Cornell,Princeton,PASSING,Dalton,Banks,YDS,171
+10527027,10/28/2017,FCS,Cornell,Princeton,PASSING,Dalton,Banks,TD,1
+10527028,10/28/2017,FCS,Cornell,Princeton,PASSING,Dalton,Banks,LONG,26
+10527029,10/28/2017,FCS,Cornell,Princeton,PASSING,Jake,Jatis,CP-ATT-INT,4-5-0
+10527030,10/28/2017,FCS,Cornell,Princeton,PASSING,Jake,Jatis,YDS,31
+10527031,10/28/2017,FCS,Cornell,Princeton,PASSING,Jake,Jatis,TD,0
+10527032,10/28/2017,FCS,Cornell,Princeton,PASSING,Jake,Jatis,LONG,15
+10527033,10/28/2017,FCS,Cornell,Princeton,RECEIVING,Hayes,Nolte,REC,3
+10527034,10/28/2017,FCS,Cornell,Princeton,RECEIVING,Hayes,Nolte,YDS,42
+10527035,10/28/2017,FCS,Cornell,Princeton,RECEIVING,Hayes,Nolte,TD,1
+10527036,10/28/2017,FCS,Cornell,Princeton,RECEIVING,Hayes,Nolte,LONG,21
+10527037,10/28/2017,FCS,Cornell,Princeton,RECEIVING,Davy,Lizana,REC,4
+10527038,10/28/2017,FCS,Cornell,Princeton,RECEIVING,Davy,Lizana,YDS,40
+10527039,10/28/2017,FCS,Cornell,Princeton,RECEIVING,Davy,Lizana,TD,0
+10527040,10/28/2017,FCS,Cornell,Princeton,RECEIVING,Davy,Lizana,LONG,26
+10527041,10/28/2017,FCS,Cornell,Princeton,RECEIVING,Jack,Gellatly,REC,4
+10527042,10/28/2017,FCS,Cornell,Princeton,RECEIVING,Jack,Gellatly,YDS,38
+10527043,10/28/2017,FCS,Cornell,Princeton,RECEIVING,Jack,Gellatly,TD,0
+10527044,10/28/2017,FCS,Cornell,Princeton,RECEIVING,Jack,Gellatly,LONG,15
+10527045,10/28/2017,FCS,Cornell,Princeton,RECEIVING,James,Hubbard,REC,4
+10527046,10/28/2017,FCS,Cornell,Princeton,RECEIVING,James,Hubbard,YDS,34
+10527047,10/28/2017,FCS,Cornell,Princeton,RECEIVING,James,Hubbard,TD,0
+10527048,10/28/2017,FCS,Cornell,Princeton,RECEIVING,James,Hubbard,LONG,11
+10527049,10/28/2017,FCS,Cornell,Princeton,RECEIVING,Owen,Peters,REC,6
+10527050,10/28/2017,FCS,Cornell,Princeton,RECEIVING,Owen,Peters,YDS,24
+10527051,10/28/2017,FCS,Cornell,Princeton,RECEIVING,Owen,Peters,TD,0
+10527052,10/28/2017,FCS,Cornell,Princeton,RECEIVING,Owen,Peters,LONG,8
+10527053,10/28/2017,FCS,Cornell,Princeton,RECEIVING,Chris,Walker,REC,2
+10527054,10/28/2017,FCS,Cornell,Princeton,RECEIVING,Chris,Walker,YDS,15
+10527055,10/28/2017,FCS,Cornell,Princeton,RECEIVING,Chris,Walker,TD,0
+10527056,10/28/2017,FCS,Cornell,Princeton,RECEIVING,Chris,Walker,LONG,13
+10527057,10/28/2017,FCS,Cornell,Princeton,RECEIVING,Garrett,Cloer,REC,1
+10527058,10/28/2017,FCS,Cornell,Princeton,RECEIVING,Garrett,Cloer,YDS,12
+10527059,10/28/2017,FCS,Cornell,Princeton,RECEIVING,Garrett,Cloer,TD,0
+10527060,10/28/2017,FCS,Cornell,Princeton,RECEIVING,Garrett,Cloer,LONG,12
+10527061,10/28/2017,FCS,Cornell,Princeton,RECEIVING,John,Fitzgerald,REC,1
+10527062,10/28/2017,FCS,Cornell,Princeton,RECEIVING,John,Fitzgerald,YDS,4
+10527063,10/28/2017,FCS,Cornell,Princeton,RECEIVING,John,Fitzgerald,TD,0
+10527064,10/28/2017,FCS,Cornell,Princeton,RECEIVING,John,Fitzgerald,LONG,4
+10527065,10/28/2017,FCS,Cornell,Princeton,RECEIVING,Collin,Shaw,REC,1
+10527066,10/28/2017,FCS,Cornell,Princeton,RECEIVING,Collin,Shaw,YDS,-3
+10527067,10/28/2017,FCS,Cornell,Princeton,RECEIVING,Collin,Shaw,TD,0
+10527068,10/28/2017,FCS,Cornell,Princeton,RECEIVING,Collin,Shaw,LONG,0
+10527069,10/28/2017,FCS,Cornell,Princeton,RECEIVING,SK,Howard,REC,1
+10527070,10/28/2017,FCS,Cornell,Princeton,RECEIVING,SK,Howard,YDS,-4
+10527071,10/28/2017,FCS,Cornell,Princeton,RECEIVING,SK,Howard,TD,0
+10527072,10/28/2017,FCS,Cornell,Princeton,RECEIVING,SK,Howard,LONG,0
+10527073,10/28/2017,FCS,Cornell,Princeton,KICKING,Nickolas,Null,FG-FGA,3/3
+10527074,10/28/2017,FCS,Cornell,Princeton,KICKING,Nickolas,Null,LONG,43
+10527075,10/28/2017,FCS,Cornell,Princeton,KICKING,Nickolas,Null,XP,2
+10527076,10/28/2017,FCS,Cornell,Princeton,KICKING,Nickolas,Null,PTS,11
+10527077,10/28/2017,FCS,Cornell,Princeton,PUNTING,Nickolas,Null,NO,4
+10527078,10/28/2017,FCS,Cornell,Princeton,PUNTING,Nickolas,Null,YDS,150
+10527079,10/28/2017,FCS,Cornell,Princeton,PUNTING,Nickolas,Null,AVG,37.5
+10527080,10/28/2017,FCS,Cornell,Princeton,PUNTING,Nickolas,Null,LONG,51
+10527081,10/28/2017,FCS,Cornell,Princeton,PUNT RETURNS,Nick,Gesualdi,NO,2
+10527082,10/28/2017,FCS,Cornell,Princeton,PUNT RETURNS,Nick,Gesualdi,YDS,15
+10527083,10/28/2017,FCS,Cornell,Princeton,PUNT RETURNS,Nick,Gesualdi,AVG,7.5
+10527084,10/28/2017,FCS,Cornell,Princeton,PUNT RETURNS,Nick,Gesualdi,LONG,11
+10527085,10/28/2017,FCS,Cornell,Princeton,KICK RETURNS,David,Jones,NO,4
+10527086,10/28/2017,FCS,Cornell,Princeton,KICK RETURNS,David,Jones,YDS,142
+10527087,10/28/2017,FCS,Cornell,Princeton,KICK RETURNS,David,Jones,AVG,35.5
+10527088,10/28/2017,FCS,Cornell,Princeton,KICK RETURNS,David,Jones,LONG,61
+10527089,10/28/2017,FCS,Princeton,Cornell,RUSHING,Charlie,Volker,ATT,16
+10527090,10/28/2017,FCS,Princeton,Cornell,RUSHING,Charlie,Volker,YDS,41
+10527091,10/28/2017,FCS,Princeton,Cornell,RUSHING,Charlie,Volker,TD,0
+10527092,10/28/2017,FCS,Princeton,Cornell,RUSHING,Charlie,Volker,LONG,7
+10527093,10/28/2017,FCS,Princeton,Cornell,RUSHING,Chad,Kanoff,ATT,5
+10527094,10/28/2017,FCS,Princeton,Cornell,RUSHING,Chad,Kanoff,YDS,27
+10527095,10/28/2017,FCS,Princeton,Cornell,RUSHING,Chad,Kanoff,TD,1
+10527096,10/28/2017,FCS,Princeton,Cornell,RUSHING,Chad,Kanoff,LONG,14
+10527097,10/28/2017,FCS,Princeton,Cornell,RUSHING,Ryan,Quigley,ATT,5
+10527098,10/28/2017,FCS,Princeton,Cornell,RUSHING,Ryan,Quigley,YDS,24
+10527099,10/28/2017,FCS,Princeton,Cornell,RUSHING,Ryan,Quigley,TD,1
+10527100,10/28/2017,FCS,Princeton,Cornell,RUSHING,Ryan,Quigley,LONG,7
+10527101,10/28/2017,FCS,Princeton,Cornell,RUSHING,Collin,Eaddy,ATT,5
+10527102,10/28/2017,FCS,Princeton,Cornell,RUSHING,Collin,Eaddy,YDS,14
+10527103,10/28/2017,FCS,Princeton,Cornell,RUSHING,Collin,Eaddy,TD,0
+10527104,10/28/2017,FCS,Princeton,Cornell,RUSHING,Collin,Eaddy,LONG,5
+10527105,10/28/2017,FCS,Princeton,Cornell,RUSHING,,Team,ATT,1
+10527106,10/28/2017,FCS,Princeton,Cornell,RUSHING,,Team,YDS,-1
+10527107,10/28/2017,FCS,Princeton,Cornell,RUSHING,,Team,TD,0
+10527108,10/28/2017,FCS,Princeton,Cornell,RUSHING,,Team,LONG,0
+10527109,10/28/2017,FCS,Princeton,Cornell,PASSING,Chad,Kanoff,CP-ATT-INT,28-41-2
+10527110,10/28/2017,FCS,Princeton,Cornell,PASSING,Chad,Kanoff,YDS,370
+10527111,10/28/2017,FCS,Princeton,Cornell,PASSING,Chad,Kanoff,TD,2
+10527112,10/28/2017,FCS,Princeton,Cornell,PASSING,Chad,Kanoff,LONG,38
+10527113,10/28/2017,FCS,Princeton,Cornell,RECEIVING,Jesper,Horsted,REC,10
+10527114,10/28/2017,FCS,Princeton,Cornell,RECEIVING,Jesper,Horsted,YDS,133
+10527115,10/28/2017,FCS,Princeton,Cornell,RECEIVING,Jesper,Horsted,TD,0
+10527116,10/28/2017,FCS,Princeton,Cornell,RECEIVING,Jesper,Horsted,LONG,38
+10527117,10/28/2017,FCS,Princeton,Cornell,RECEIVING,Tiger,Bech,REC,7
+10527118,10/28/2017,FCS,Princeton,Cornell,RECEIVING,Tiger,Bech,YDS,97
+10527119,10/28/2017,FCS,Princeton,Cornell,RECEIVING,Tiger,Bech,TD,0
+10527120,10/28/2017,FCS,Princeton,Cornell,RECEIVING,Tiger,Bech,LONG,29
+10527121,10/28/2017,FCS,Princeton,Cornell,RECEIVING,Stephen,Carlson,REC,6
+10527122,10/28/2017,FCS,Princeton,Cornell,RECEIVING,Stephen,Carlson,YDS,72
+10527123,10/28/2017,FCS,Princeton,Cornell,RECEIVING,Stephen,Carlson,TD,2
+10527124,10/28/2017,FCS,Princeton,Cornell,RECEIVING,Stephen,Carlson,LONG,23
+10527125,10/28/2017,FCS,Princeton,Cornell,RECEIVING,Cody,Smith,REC,1
+10527126,10/28/2017,FCS,Princeton,Cornell,RECEIVING,Cody,Smith,YDS,37
+10527127,10/28/2017,FCS,Princeton,Cornell,RECEIVING,Cody,Smith,TD,0
+10527128,10/28/2017,FCS,Princeton,Cornell,RECEIVING,Cody,Smith,LONG,37
+10527129,10/28/2017,FCS,Princeton,Cornell,RECEIVING,Jordan,Argue,REC,2
+10527130,10/28/2017,FCS,Princeton,Cornell,RECEIVING,Jordan,Argue,YDS,25
+10527131,10/28/2017,FCS,Princeton,Cornell,RECEIVING,Jordan,Argue,TD,0
+10527132,10/28/2017,FCS,Princeton,Cornell,RECEIVING,Jordan,Argue,LONG,16
+10527133,10/28/2017,FCS,Princeton,Cornell,RECEIVING,Collin,Eaddy,REC,2
+10527134,10/28/2017,FCS,Princeton,Cornell,RECEIVING,Collin,Eaddy,YDS,6
+10527135,10/28/2017,FCS,Princeton,Cornell,RECEIVING,Collin,Eaddy,TD,0
+10527136,10/28/2017,FCS,Princeton,Cornell,RECEIVING,Collin,Eaddy,LONG,4
+10527137,10/28/2017,FCS,Princeton,Cornell,KICKING,Tavish,Rice,FG-FGA,0/1
+10527138,10/28/2017,FCS,Princeton,Cornell,KICKING,Tavish,Rice,LONG,0
+10527139,10/28/2017,FCS,Princeton,Cornell,KICKING,Tavish,Rice,XP,4
+10527140,10/28/2017,FCS,Princeton,Cornell,KICKING,Tavish,Rice,PTS,4
+10527141,10/28/2017,FCS,Princeton,Cornell,PUNTING,Chad,Kanoff,NO,5
+10527142,10/28/2017,FCS,Princeton,Cornell,PUNTING,Chad,Kanoff,YDS,175
+10527143,10/28/2017,FCS,Princeton,Cornell,PUNTING,Chad,Kanoff,AVG,35.0
+10527144,10/28/2017,FCS,Princeton,Cornell,PUNTING,Chad,Kanoff,LONG,40
+10527145,10/28/2017,FCS,Princeton,Cornell,PUNT RETURNS,Tiger,Bech,NO,1
+10527146,10/28/2017,FCS,Princeton,Cornell,PUNT RETURNS,Tiger,Bech,YDS,2
+10527147,10/28/2017,FCS,Princeton,Cornell,PUNT RETURNS,Tiger,Bech,AVG,2.0
+10527148,10/28/2017,FCS,Princeton,Cornell,PUNT RETURNS,Tiger,Bech,LONG,2
+10527149,10/28/2017,FCS,Princeton,Cornell,PUNT RETURNS,Eugene,Stallworth,NO,1
+10527150,10/28/2017,FCS,Princeton,Cornell,PUNT RETURNS,Eugene,Stallworth,YDS,0
+10527151,10/28/2017,FCS,Princeton,Cornell,PUNT RETURNS,Eugene,Stallworth,AVG,-
+10527152,10/28/2017,FCS,Princeton,Cornell,PUNT RETURNS,Eugene,Stallworth,LONG,0

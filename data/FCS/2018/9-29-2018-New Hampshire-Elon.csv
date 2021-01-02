@@ -1,0 +1,187 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+11098001,9/29/2018,FCS,New Hampshire,Elon,RUSHING,Sean,Coyne,ATT,1
+11098002,9/29/2018,FCS,New Hampshire,Elon,RUSHING,Sean,Coyne,YDS,25
+11098003,9/29/2018,FCS,New Hampshire,Elon,RUSHING,Sean,Coyne,TD,1
+11098004,9/29/2018,FCS,New Hampshire,Elon,RUSHING,Sean,Coyne,LONG,25
+11098005,9/29/2018,FCS,New Hampshire,Elon,RUSHING,Carlos,"Washington,Jr.",ATT,5
+11098006,9/29/2018,FCS,New Hampshire,Elon,RUSHING,Carlos,"Washington,Jr.",YDS,25
+11098007,9/29/2018,FCS,New Hampshire,Elon,RUSHING,Carlos,"Washington,Jr.",TD,0
+11098008,9/29/2018,FCS,New Hampshire,Elon,RUSHING,Carlos,"Washington,Jr.",LONG,15
+11098009,9/29/2018,FCS,New Hampshire,Elon,RUSHING,Neil,O'Connor,ATT,2
+11098010,9/29/2018,FCS,New Hampshire,Elon,RUSHING,Neil,O'Connor,YDS,17
+11098011,9/29/2018,FCS,New Hampshire,Elon,RUSHING,Neil,O'Connor,TD,0
+11098012,9/29/2018,FCS,New Hampshire,Elon,RUSHING,Neil,O'Connor,LONG,19
+11098013,9/29/2018,FCS,New Hampshire,Elon,RUSHING,Evan,Gray,ATT,8
+11098014,9/29/2018,FCS,New Hampshire,Elon,RUSHING,Evan,Gray,YDS,6
+11098015,9/29/2018,FCS,New Hampshire,Elon,RUSHING,Evan,Gray,TD,0
+11098016,9/29/2018,FCS,New Hampshire,Elon,RUSHING,Evan,Gray,LONG,6
+11098017,9/29/2018,FCS,New Hampshire,Elon,RUSHING,Trevon,Bryant,ATT,1
+11098018,9/29/2018,FCS,New Hampshire,Elon,RUSHING,Trevon,Bryant,YDS,-1
+11098019,9/29/2018,FCS,New Hampshire,Elon,RUSHING,Trevon,Bryant,TD,0
+11098020,9/29/2018,FCS,New Hampshire,Elon,RUSHING,Trevon,Bryant,LONG,0
+11098021,9/29/2018,FCS,New Hampshire,Elon,RUSHING,,Team,ATT,2
+11098022,9/29/2018,FCS,New Hampshire,Elon,RUSHING,,Team,YDS,-4
+11098023,9/29/2018,FCS,New Hampshire,Elon,RUSHING,,Team,TD,0
+11098024,9/29/2018,FCS,New Hampshire,Elon,RUSHING,,Team,LONG,0
+11098025,9/29/2018,FCS,New Hampshire,Elon,RUSHING,Christian,Lupoli,ATT,7
+11098026,9/29/2018,FCS,New Hampshire,Elon,RUSHING,Christian,Lupoli,YDS,-24
+11098027,9/29/2018,FCS,New Hampshire,Elon,RUSHING,Christian,Lupoli,TD,0
+11098028,9/29/2018,FCS,New Hampshire,Elon,RUSHING,Christian,Lupoli,LONG,3
+11098029,9/29/2018,FCS,New Hampshire,Elon,PASSING,Christian,Lupoli,CP-ATT-INT,16-27-1
+11098030,9/29/2018,FCS,New Hampshire,Elon,PASSING,Christian,Lupoli,YDS,174
+11098031,9/29/2018,FCS,New Hampshire,Elon,PASSING,Christian,Lupoli,TD,0
+11098032,9/29/2018,FCS,New Hampshire,Elon,PASSING,Christian,Lupoli,LONG,33
+11098033,9/29/2018,FCS,New Hampshire,Elon,PASSING,Neil,O'Connor,CP-ATT-INT,0-1-1
+11098034,9/29/2018,FCS,New Hampshire,Elon,PASSING,Neil,O'Connor,YDS,0
+11098035,9/29/2018,FCS,New Hampshire,Elon,PASSING,Neil,O'Connor,TD,0
+11098036,9/29/2018,FCS,New Hampshire,Elon,PASSING,Neil,O'Connor,LONG,0
+11098037,9/29/2018,FCS,New Hampshire,Elon,RECEIVING,Neil,O'Connor,REC,4
+11098038,9/29/2018,FCS,New Hampshire,Elon,RECEIVING,Neil,O'Connor,YDS,56
+11098039,9/29/2018,FCS,New Hampshire,Elon,RECEIVING,Neil,O'Connor,TD,0
+11098040,9/29/2018,FCS,New Hampshire,Elon,RECEIVING,Neil,O'Connor,LONG,28
+11098041,9/29/2018,FCS,New Hampshire,Elon,RECEIVING,Kieran,Presley,REC,2
+11098042,9/29/2018,FCS,New Hampshire,Elon,RECEIVING,Kieran,Presley,YDS,36
+11098043,9/29/2018,FCS,New Hampshire,Elon,RECEIVING,Kieran,Presley,TD,0
+11098044,9/29/2018,FCS,New Hampshire,Elon,RECEIVING,Kieran,Presley,LONG,33
+11098045,9/29/2018,FCS,New Hampshire,Elon,RECEIVING,Carlos,"Washington,Jr.",REC,2
+11098046,9/29/2018,FCS,New Hampshire,Elon,RECEIVING,Carlos,"Washington,Jr.",YDS,31
+11098047,9/29/2018,FCS,New Hampshire,Elon,RECEIVING,Carlos,"Washington,Jr.",TD,0
+11098048,9/29/2018,FCS,New Hampshire,Elon,RECEIVING,Carlos,"Washington,Jr.",LONG,26
+11098049,9/29/2018,FCS,New Hampshire,Elon,RECEIVING,Sean,Coyne,REC,5
+11098050,9/29/2018,FCS,New Hampshire,Elon,RECEIVING,Sean,Coyne,YDS,25
+11098051,9/29/2018,FCS,New Hampshire,Elon,RECEIVING,Sean,Coyne,TD,0
+11098052,9/29/2018,FCS,New Hampshire,Elon,RECEIVING,Sean,Coyne,LONG,8
+11098053,9/29/2018,FCS,New Hampshire,Elon,RECEIVING,Evan,Gray,REC,2
+11098054,9/29/2018,FCS,New Hampshire,Elon,RECEIVING,Evan,Gray,YDS,14
+11098055,9/29/2018,FCS,New Hampshire,Elon,RECEIVING,Evan,Gray,TD,0
+11098056,9/29/2018,FCS,New Hampshire,Elon,RECEIVING,Evan,Gray,LONG,14
+11098057,9/29/2018,FCS,New Hampshire,Elon,RECEIVING,Gunner,Gibson,REC,1
+11098058,9/29/2018,FCS,New Hampshire,Elon,RECEIVING,Gunner,Gibson,YDS,12
+11098059,9/29/2018,FCS,New Hampshire,Elon,RECEIVING,Gunner,Gibson,TD,0
+11098060,9/29/2018,FCS,New Hampshire,Elon,RECEIVING,Gunner,Gibson,LONG,12
+11098061,9/29/2018,FCS,New Hampshire,Elon,KICKING,Jason,Hughes,FG-FGA,1/1
+11098062,9/29/2018,FCS,New Hampshire,Elon,KICKING,Jason,Hughes,LONG,41
+11098063,9/29/2018,FCS,New Hampshire,Elon,KICKING,Jason,Hughes,XP,0
+11098064,9/29/2018,FCS,New Hampshire,Elon,KICKING,Jason,Hughes,PTS,3
+11098065,9/29/2018,FCS,New Hampshire,Elon,PUNTING,Drew,Sanborn,NO,6
+11098066,9/29/2018,FCS,New Hampshire,Elon,PUNTING,Drew,Sanborn,YDS,228
+11098067,9/29/2018,FCS,New Hampshire,Elon,PUNTING,Drew,Sanborn,AVG,38.0
+11098068,9/29/2018,FCS,New Hampshire,Elon,PUNTING,Drew,Sanborn,LONG,49
+11098069,9/29/2018,FCS,New Hampshire,Elon,PUNT RETURNS,Sean,Coyne,NO,1
+11098070,9/29/2018,FCS,New Hampshire,Elon,PUNT RETURNS,Sean,Coyne,YDS,2
+11098071,9/29/2018,FCS,New Hampshire,Elon,PUNT RETURNS,Sean,Coyne,AVG,2.0
+11098072,9/29/2018,FCS,New Hampshire,Elon,PUNT RETURNS,Sean,Coyne,LONG,2
+11098073,9/29/2018,FCS,New Hampshire,Elon,KICK RETURNS,Carlos,"Washington,Jr.",NO,4
+11098074,9/29/2018,FCS,New Hampshire,Elon,KICK RETURNS,Carlos,"Washington,Jr.",YDS,59
+11098075,9/29/2018,FCS,New Hampshire,Elon,KICK RETURNS,Carlos,"Washington,Jr.",AVG,14.8
+11098076,9/29/2018,FCS,New Hampshire,Elon,KICK RETURNS,Carlos,"Washington,Jr.",LONG,20
+11098077,9/29/2018,FCS,New Hampshire,Elon,KICK RETURNS,Carson,Leary,NO,1
+11098078,9/29/2018,FCS,New Hampshire,Elon,KICK RETURNS,Carson,Leary,YDS,-2
+11098079,9/29/2018,FCS,New Hampshire,Elon,KICK RETURNS,Carson,Leary,AVG,-
+11098080,9/29/2018,FCS,New Hampshire,Elon,KICK RETURNS,Carson,Leary,LONG,0
+11098081,9/29/2018,FCS,New Hampshire,Elon,DEFENSE,Jared,Kuehl,TOT,0
+11098082,9/29/2018,FCS,New Hampshire,Elon,DEFENSE,Jared,Kuehl,SOLO,0
+11098083,9/29/2018,FCS,New Hampshire,Elon,DEFENSE,Jared,Kuehl,SACKS,0
+11098084,9/29/2018,FCS,New Hampshire,Elon,DEFENSE,Jared,Kuehl,TFL,0
+11098085,9/29/2018,FCS,New Hampshire,Elon,DEFENSE,Jared,Kuehl,INT,0
+11098086,9/29/2018,FCS,New Hampshire,Elon,DEFENSE,Jared,Kuehl,FF,1
+11098087,9/29/2018,FCS,New Hampshire,Elon,DEFENSE,Jared,Kuehl,FR,1
+11098088,9/29/2018,FCS,Elon,New Hampshire,RUSHING,Malcolm,Summers,ATT,22
+11098089,9/29/2018,FCS,Elon,New Hampshire,RUSHING,Malcolm,Summers,YDS,124
+11098090,9/29/2018,FCS,Elon,New Hampshire,RUSHING,Malcolm,Summers,TD,1
+11098091,9/29/2018,FCS,Elon,New Hampshire,RUSHING,Malcolm,Summers,LONG,54
+11098092,9/29/2018,FCS,Elon,New Hampshire,RUSHING,De'Sean,McNair,ATT,12
+11098093,9/29/2018,FCS,Elon,New Hampshire,RUSHING,De'Sean,McNair,YDS,31
+11098094,9/29/2018,FCS,Elon,New Hampshire,RUSHING,De'Sean,McNair,TD,0
+11098095,9/29/2018,FCS,Elon,New Hampshire,RUSHING,De'Sean,McNair,LONG,10
+11098096,9/29/2018,FCS,Elon,New Hampshire,RUSHING,Brelynd,Cyphers,ATT,7
+11098097,9/29/2018,FCS,Elon,New Hampshire,RUSHING,Brelynd,Cyphers,YDS,21
+11098098,9/29/2018,FCS,Elon,New Hampshire,RUSHING,Brelynd,Cyphers,TD,0
+11098099,9/29/2018,FCS,Elon,New Hampshire,RUSHING,Brelynd,Cyphers,LONG,6
+11098100,9/29/2018,FCS,Elon,New Hampshire,RUSHING,Jalen,Greene,ATT,3
+11098101,9/29/2018,FCS,Elon,New Hampshire,RUSHING,Jalen,Greene,YDS,11
+11098102,9/29/2018,FCS,Elon,New Hampshire,RUSHING,Jalen,Greene,TD,1
+11098103,9/29/2018,FCS,Elon,New Hampshire,RUSHING,Jalen,Greene,LONG,7
+11098104,9/29/2018,FCS,Elon,New Hampshire,RUSHING,Copeland,Spell,ATT,3
+11098105,9/29/2018,FCS,Elon,New Hampshire,RUSHING,Copeland,Spell,YDS,4
+11098106,9/29/2018,FCS,Elon,New Hampshire,RUSHING,Copeland,Spell,TD,0
+11098107,9/29/2018,FCS,Elon,New Hampshire,RUSHING,Copeland,Spell,LONG,2
+11098108,9/29/2018,FCS,Elon,New Hampshire,RUSHING,Davis,Cheek,ATT,1
+11098109,9/29/2018,FCS,Elon,New Hampshire,RUSHING,Davis,Cheek,YDS,2
+11098110,9/29/2018,FCS,Elon,New Hampshire,RUSHING,Davis,Cheek,TD,1
+11098111,9/29/2018,FCS,Elon,New Hampshire,RUSHING,Davis,Cheek,LONG,2
+11098112,9/29/2018,FCS,Elon,New Hampshire,PASSING,Davis,Cheek,CP-ATT-INT,24-31-0
+11098113,9/29/2018,FCS,Elon,New Hampshire,PASSING,Davis,Cheek,YDS,258
+11098114,9/29/2018,FCS,Elon,New Hampshire,PASSING,Davis,Cheek,TD,0
+11098115,9/29/2018,FCS,Elon,New Hampshire,PASSING,Davis,Cheek,LONG,28
+11098116,9/29/2018,FCS,Elon,New Hampshire,RECEIVING,Kortez,Weeks,REC,14
+11098117,9/29/2018,FCS,Elon,New Hampshire,RECEIVING,Kortez,Weeks,YDS,165
+11098118,9/29/2018,FCS,Elon,New Hampshire,RECEIVING,Kortez,Weeks,TD,0
+11098119,9/29/2018,FCS,Elon,New Hampshire,RECEIVING,Kortez,Weeks,LONG,28
+11098120,9/29/2018,FCS,Elon,New Hampshire,RECEIVING,Corey,Joyner,REC,5
+11098121,9/29/2018,FCS,Elon,New Hampshire,RECEIVING,Corey,Joyner,YDS,52
+11098122,9/29/2018,FCS,Elon,New Hampshire,RECEIVING,Corey,Joyner,TD,0
+11098123,9/29/2018,FCS,Elon,New Hampshire,RECEIVING,Corey,Joyner,LONG,16
+11098124,9/29/2018,FCS,Elon,New Hampshire,RECEIVING,Cole,Taylor,REC,2
+11098125,9/29/2018,FCS,Elon,New Hampshire,RECEIVING,Cole,Taylor,YDS,29
+11098126,9/29/2018,FCS,Elon,New Hampshire,RECEIVING,Cole,Taylor,TD,0
+11098127,9/29/2018,FCS,Elon,New Hampshire,RECEIVING,Cole,Taylor,LONG,15
+11098128,9/29/2018,FCS,Elon,New Hampshire,RECEIVING,De'Sean,McNair,REC,1
+11098129,9/29/2018,FCS,Elon,New Hampshire,RECEIVING,De'Sean,McNair,YDS,6
+11098130,9/29/2018,FCS,Elon,New Hampshire,RECEIVING,De'Sean,McNair,TD,0
+11098131,9/29/2018,FCS,Elon,New Hampshire,RECEIVING,De'Sean,McNair,LONG,6
+11098132,9/29/2018,FCS,Elon,New Hampshire,RECEIVING,Matt,Foster,REC,1
+11098133,9/29/2018,FCS,Elon,New Hampshire,RECEIVING,Matt,Foster,YDS,5
+11098134,9/29/2018,FCS,Elon,New Hampshire,RECEIVING,Matt,Foster,TD,0
+11098135,9/29/2018,FCS,Elon,New Hampshire,RECEIVING,Matt,Foster,LONG,5
+11098136,9/29/2018,FCS,Elon,New Hampshire,RECEIVING,Malcolm,Summers,REC,1
+11098137,9/29/2018,FCS,Elon,New Hampshire,RECEIVING,Malcolm,Summers,YDS,1
+11098138,9/29/2018,FCS,Elon,New Hampshire,RECEIVING,Malcolm,Summers,TD,0
+11098139,9/29/2018,FCS,Elon,New Hampshire,RECEIVING,Malcolm,Summers,LONG,1
+11098140,9/29/2018,FCS,Elon,New Hampshire,KICKING,Skyler,Davis,FG-FGA,3/3
+11098141,9/29/2018,FCS,Elon,New Hampshire,KICKING,Skyler,Davis,LONG,32
+11098142,9/29/2018,FCS,Elon,New Hampshire,KICKING,Skyler,Davis,XP,3
+11098143,9/29/2018,FCS,Elon,New Hampshire,KICKING,Skyler,Davis,PTS,12
+11098144,9/29/2018,FCS,Elon,New Hampshire,PUNTING,Hunter,Stephenson,NO,4
+11098145,9/29/2018,FCS,Elon,New Hampshire,PUNTING,Hunter,Stephenson,YDS,152
+11098146,9/29/2018,FCS,Elon,New Hampshire,PUNTING,Hunter,Stephenson,AVG,38.0
+11098147,9/29/2018,FCS,Elon,New Hampshire,PUNTING,Hunter,Stephenson,LONG,51
+11098148,9/29/2018,FCS,Elon,New Hampshire,KICK RETURNS,Shamari,Wingard,NO,2
+11098149,9/29/2018,FCS,Elon,New Hampshire,KICK RETURNS,Shamari,Wingard,YDS,47
+11098150,9/29/2018,FCS,Elon,New Hampshire,KICK RETURNS,Shamari,Wingard,AVG,23.5
+11098151,9/29/2018,FCS,Elon,New Hampshire,KICK RETURNS,Shamari,Wingard,LONG,28
+11098152,9/29/2018,FCS,Elon,New Hampshire,DEFENSE,Marcus,Willoughby,TOT,9
+11098153,9/29/2018,FCS,Elon,New Hampshire,DEFENSE,Marcus,Willoughby,SOLO,6
+11098154,9/29/2018,FCS,Elon,New Hampshire,DEFENSE,Marcus,Willoughby,SACKS,2
+11098155,9/29/2018,FCS,Elon,New Hampshire,DEFENSE,Marcus,Willoughby,TFL,4.5
+11098156,9/29/2018,FCS,Elon,New Hampshire,DEFENSE,Marcus,Willoughby,INT,0
+11098157,9/29/2018,FCS,Elon,New Hampshire,DEFENSE,Marcus,Willoughby,FF,0
+11098158,9/29/2018,FCS,Elon,New Hampshire,DEFENSE,Marcus,Willoughby,FR,0
+11098159,9/29/2018,FCS,Elon,New Hampshire,DEFENSE,Tristen,Cox,TOT,2
+11098160,9/29/2018,FCS,Elon,New Hampshire,DEFENSE,Tristen,Cox,SOLO,0
+11098161,9/29/2018,FCS,Elon,New Hampshire,DEFENSE,Tristen,Cox,SACKS,0.5
+11098162,9/29/2018,FCS,Elon,New Hampshire,DEFENSE,Tristen,Cox,TFL,0.5
+11098163,9/29/2018,FCS,Elon,New Hampshire,DEFENSE,Tristen,Cox,INT,0
+11098164,9/29/2018,FCS,Elon,New Hampshire,DEFENSE,Tristen,Cox,FF,0
+11098165,9/29/2018,FCS,Elon,New Hampshire,DEFENSE,Tristen,Cox,FR,0
+11098166,9/29/2018,FCS,Elon,New Hampshire,DEFENSE,Matt,Baker,TOT,5
+11098167,9/29/2018,FCS,Elon,New Hampshire,DEFENSE,Matt,Baker,SOLO,3
+11098168,9/29/2018,FCS,Elon,New Hampshire,DEFENSE,Matt,Baker,SACKS,2
+11098169,9/29/2018,FCS,Elon,New Hampshire,DEFENSE,Matt,Baker,TFL,2
+11098170,9/29/2018,FCS,Elon,New Hampshire,DEFENSE,Matt,Baker,INT,0
+11098171,9/29/2018,FCS,Elon,New Hampshire,DEFENSE,Matt,Baker,FF,0
+11098172,9/29/2018,FCS,Elon,New Hampshire,DEFENSE,Matt,Baker,FR,0
+11098173,9/29/2018,FCS,Elon,New Hampshire,DEFENSE,Zack,Monson,TOT,4
+11098174,9/29/2018,FCS,Elon,New Hampshire,DEFENSE,Zack,Monson,SOLO,1
+11098175,9/29/2018,FCS,Elon,New Hampshire,DEFENSE,Zack,Monson,SACKS,0.5
+11098176,9/29/2018,FCS,Elon,New Hampshire,DEFENSE,Zack,Monson,TFL,0.5
+11098177,9/29/2018,FCS,Elon,New Hampshire,DEFENSE,Zack,Monson,INT,0
+11098178,9/29/2018,FCS,Elon,New Hampshire,DEFENSE,Zack,Monson,FF,0
+11098179,9/29/2018,FCS,Elon,New Hampshire,DEFENSE,Zack,Monson,FR,0
+11098180,9/29/2018,FCS,Elon,New Hampshire,DEFENSE,Greg,"Liggs,Jr.",TOT,0
+11098181,9/29/2018,FCS,Elon,New Hampshire,DEFENSE,Greg,"Liggs,Jr.",SOLO,0
+11098182,9/29/2018,FCS,Elon,New Hampshire,DEFENSE,Greg,"Liggs,Jr.",SACKS,0
+11098183,9/29/2018,FCS,Elon,New Hampshire,DEFENSE,Greg,"Liggs,Jr.",TFL,0
+11098184,9/29/2018,FCS,Elon,New Hampshire,DEFENSE,Greg,"Liggs,Jr.",INT,2
+11098185,9/29/2018,FCS,Elon,New Hampshire,DEFENSE,Greg,"Liggs,Jr.",FF,0
+11098186,9/29/2018,FCS,Elon,New Hampshire,DEFENSE,Greg,"Liggs,Jr.",FR,0

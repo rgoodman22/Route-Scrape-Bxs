@@ -1,0 +1,133 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9270001,9/3/2016,FCS,Northern Ariz.,Arizona State,RUSHING,Kendyl,Taylor,ATT,19
+9270002,9/3/2016,FCS,Northern Ariz.,Arizona State,RUSHING,Kendyl,Taylor,YDS,43
+9270003,9/3/2016,FCS,Northern Ariz.,Arizona State,RUSHING,Kendyl,Taylor,TD,0
+9270004,9/3/2016,FCS,Northern Ariz.,Arizona State,RUSHING,Kendyl,Taylor,LONG,10
+9270005,9/3/2016,FCS,Northern Ariz.,Arizona State,RUSHING,Corbin,Jountti,ATT,10
+9270006,9/3/2016,FCS,Northern Ariz.,Arizona State,RUSHING,Corbin,Jountti,YDS,23
+9270007,9/3/2016,FCS,Northern Ariz.,Arizona State,RUSHING,Corbin,Jountti,TD,0
+9270008,9/3/2016,FCS,Northern Ariz.,Arizona State,RUSHING,Corbin,Jountti,LONG,11
+9270009,9/3/2016,FCS,Northern Ariz.,Arizona State,RUSHING,Case,Cookus,ATT,3
+9270010,9/3/2016,FCS,Northern Ariz.,Arizona State,RUSHING,Case,Cookus,YDS,13
+9270011,9/3/2016,FCS,Northern Ariz.,Arizona State,RUSHING,Case,Cookus,TD,0
+9270012,9/3/2016,FCS,Northern Ariz.,Arizona State,RUSHING,Case,Cookus,LONG,13
+9270013,9/3/2016,FCS,Northern Ariz.,Arizona State,RUSHING,William,Morehand,ATT,1
+9270014,9/3/2016,FCS,Northern Ariz.,Arizona State,RUSHING,William,Morehand,YDS,-9
+9270015,9/3/2016,FCS,Northern Ariz.,Arizona State,RUSHING,William,Morehand,TD,0
+9270016,9/3/2016,FCS,Northern Ariz.,Arizona State,RUSHING,William,Morehand,LONG,-9
+9270017,9/3/2016,FCS,Northern Ariz.,Arizona State,RUSHING,,Team,ATT,1
+9270018,9/3/2016,FCS,Northern Ariz.,Arizona State,RUSHING,,Team,YDS,-14
+9270019,9/3/2016,FCS,Northern Ariz.,Arizona State,RUSHING,,Team,TD,0
+9270020,9/3/2016,FCS,Northern Ariz.,Arizona State,RUSHING,,Team,LONG,-14
+9270021,9/3/2016,FCS,Northern Ariz.,Arizona State,PASSING,Case,Cookus,CP-ATT-INT,23-33-0
+9270022,9/3/2016,FCS,Northern Ariz.,Arizona State,PASSING,Case,Cookus,YDS,369
+9270023,9/3/2016,FCS,Northern Ariz.,Arizona State,PASSING,Case,Cookus,TD,1
+9270024,9/3/2016,FCS,Northern Ariz.,Arizona State,PASSING,Case,Cookus,LONG,87
+9270025,9/3/2016,FCS,Northern Ariz.,Arizona State,RECEIVING,Elijah,Marks,REC,8
+9270026,9/3/2016,FCS,Northern Ariz.,Arizona State,RECEIVING,Elijah,Marks,YDS,174
+9270027,9/3/2016,FCS,Northern Ariz.,Arizona State,RECEIVING,Elijah,Marks,TD,1
+9270028,9/3/2016,FCS,Northern Ariz.,Arizona State,RECEIVING,Elijah,Marks,LONG,87
+9270029,9/3/2016,FCS,Northern Ariz.,Arizona State,RECEIVING,Emmanuel,Butler,REC,7
+9270030,9/3/2016,FCS,Northern Ariz.,Arizona State,RECEIVING,Emmanuel,Butler,YDS,118
+9270031,9/3/2016,FCS,Northern Ariz.,Arizona State,RECEIVING,Emmanuel,Butler,TD,0
+9270032,9/3/2016,FCS,Northern Ariz.,Arizona State,RECEIVING,Emmanuel,Butler,LONG,39
+9270033,9/3/2016,FCS,Northern Ariz.,Arizona State,RECEIVING,Delshawn,McClellon,REC,3
+9270034,9/3/2016,FCS,Northern Ariz.,Arizona State,RECEIVING,Delshawn,McClellon,YDS,43
+9270035,9/3/2016,FCS,Northern Ariz.,Arizona State,RECEIVING,Delshawn,McClellon,TD,0
+9270036,9/3/2016,FCS,Northern Ariz.,Arizona State,RECEIVING,Delshawn,McClellon,LONG,19
+9270037,9/3/2016,FCS,Northern Ariz.,Arizona State,RECEIVING,Jonathan,Baldwin,REC,2
+9270038,9/3/2016,FCS,Northern Ariz.,Arizona State,RECEIVING,Jonathan,Baldwin,YDS,27
+9270039,9/3/2016,FCS,Northern Ariz.,Arizona State,RECEIVING,Jonathan,Baldwin,TD,0
+9270040,9/3/2016,FCS,Northern Ariz.,Arizona State,RECEIVING,Jonathan,Baldwin,LONG,15
+9270041,9/3/2016,FCS,Northern Ariz.,Arizona State,RECEIVING,Hunter,Burton,REC,1
+9270042,9/3/2016,FCS,Northern Ariz.,Arizona State,RECEIVING,Hunter,Burton,YDS,5
+9270043,9/3/2016,FCS,Northern Ariz.,Arizona State,RECEIVING,Hunter,Burton,TD,0
+9270044,9/3/2016,FCS,Northern Ariz.,Arizona State,RECEIVING,Hunter,Burton,LONG,5
+9270045,9/3/2016,FCS,Northern Ariz.,Arizona State,RECEIVING,Kendyl,Taylor,REC,2
+9270046,9/3/2016,FCS,Northern Ariz.,Arizona State,RECEIVING,Kendyl,Taylor,YDS,2
+9270047,9/3/2016,FCS,Northern Ariz.,Arizona State,RECEIVING,Kendyl,Taylor,TD,0
+9270048,9/3/2016,FCS,Northern Ariz.,Arizona State,RECEIVING,Kendyl,Taylor,LONG,3
+9270049,9/3/2016,FCS,Northern Ariz.,Arizona State,KICKING,Griffin,Roehler,FG-FGA,2/2
+9270050,9/3/2016,FCS,Northern Ariz.,Arizona State,KICKING,Griffin,Roehler,LONG,25
+9270051,9/3/2016,FCS,Northern Ariz.,Arizona State,KICKING,Griffin,Roehler,XP,1
+9270052,9/3/2016,FCS,Northern Ariz.,Arizona State,KICKING,Griffin,Roehler,PTS,7
+9270053,9/3/2016,FCS,Northern Ariz.,Arizona State,PUNTING,Dylan,Kegans,NO,6
+9270054,9/3/2016,FCS,Northern Ariz.,Arizona State,PUNTING,Dylan,Kegans,YDS,187
+9270055,9/3/2016,FCS,Northern Ariz.,Arizona State,PUNTING,Dylan,Kegans,AVG,31.2
+9270056,9/3/2016,FCS,Northern Ariz.,Arizona State,PUNTING,Dylan,Kegans,LONG,47
+9270057,9/3/2016,FCS,Northern Ariz.,Arizona State,PUNTING,Case,Cookus,NO,1
+9270058,9/3/2016,FCS,Northern Ariz.,Arizona State,PUNTING,Case,Cookus,YDS,26
+9270059,9/3/2016,FCS,Northern Ariz.,Arizona State,PUNTING,Case,Cookus,AVG,26.0
+9270060,9/3/2016,FCS,Northern Ariz.,Arizona State,PUNTING,Case,Cookus,LONG,26
+9270061,9/3/2016,FCS,Northern Ariz.,Arizona State,KICK RETURNS,Elijah,Marks,NO,1
+9270062,9/3/2016,FCS,Northern Ariz.,Arizona State,KICK RETURNS,Elijah,Marks,YDS,20
+9270063,9/3/2016,FCS,Northern Ariz.,Arizona State,KICK RETURNS,Elijah,Marks,AVG,20.0
+9270064,9/3/2016,FCS,Northern Ariz.,Arizona State,KICK RETURNS,Elijah,Marks,LONG,20
+9270065,9/3/2016,FCS,Arizona State,Northern Ariz.,RUSHING,Manny,Wilkins,ATT,14
+9270066,9/3/2016,FCS,Arizona State,Northern Ariz.,RUSHING,Manny,Wilkins,YDS,89
+9270067,9/3/2016,FCS,Arizona State,Northern Ariz.,RUSHING,Manny,Wilkins,TD,1
+9270068,9/3/2016,FCS,Arizona State,Northern Ariz.,RUSHING,Manny,Wilkins,LONG,28
+9270069,9/3/2016,FCS,Arizona State,Northern Ariz.,RUSHING,Demario,Richard,ATT,19
+9270070,9/3/2016,FCS,Arizona State,Northern Ariz.,RUSHING,Demario,Richard,YDS,78
+9270071,9/3/2016,FCS,Arizona State,Northern Ariz.,RUSHING,Demario,Richard,TD,1
+9270072,9/3/2016,FCS,Arizona State,Northern Ariz.,RUSHING,Demario,Richard,LONG,17
+9270073,9/3/2016,FCS,Arizona State,Northern Ariz.,RUSHING,Kalen,Ballage,ATT,10
+9270074,9/3/2016,FCS,Arizona State,Northern Ariz.,RUSHING,Kalen,Ballage,YDS,56
+9270075,9/3/2016,FCS,Arizona State,Northern Ariz.,RUSHING,Kalen,Ballage,TD,1
+9270076,9/3/2016,FCS,Arizona State,Northern Ariz.,RUSHING,Kalen,Ballage,LONG,30
+9270077,9/3/2016,FCS,Arizona State,Northern Ariz.,RUSHING,N'Keal,Harry,ATT,1
+9270078,9/3/2016,FCS,Arizona State,Northern Ariz.,RUSHING,N'Keal,Harry,YDS,34
+9270079,9/3/2016,FCS,Arizona State,Northern Ariz.,RUSHING,N'Keal,Harry,TD,1
+9270080,9/3/2016,FCS,Arizona State,Northern Ariz.,RUSHING,N'Keal,Harry,LONG,34
+9270081,9/3/2016,FCS,Arizona State,Northern Ariz.,RUSHING,Nick,Ralston,ATT,1
+9270082,9/3/2016,FCS,Arizona State,Northern Ariz.,RUSHING,Nick,Ralston,YDS,12
+9270083,9/3/2016,FCS,Arizona State,Northern Ariz.,RUSHING,Nick,Ralston,TD,1
+9270084,9/3/2016,FCS,Arizona State,Northern Ariz.,RUSHING,Nick,Ralston,LONG,12
+9270085,9/3/2016,FCS,Arizona State,Northern Ariz.,RUSHING,Matt,Haack,ATT,1
+9270086,9/3/2016,FCS,Arizona State,Northern Ariz.,RUSHING,Matt,Haack,YDS,7
+9270087,9/3/2016,FCS,Arizona State,Northern Ariz.,RUSHING,Matt,Haack,TD,0
+9270088,9/3/2016,FCS,Arizona State,Northern Ariz.,RUSHING,Matt,Haack,LONG,7
+9270089,9/3/2016,FCS,Arizona State,Northern Ariz.,PASSING,Manny,Wilkins,CP-ATT-INT,20-27-1
+9270090,9/3/2016,FCS,Arizona State,Northern Ariz.,PASSING,Manny,Wilkins,YDS,180
+9270091,9/3/2016,FCS,Arizona State,Northern Ariz.,PASSING,Manny,Wilkins,TD,0
+9270092,9/3/2016,FCS,Arizona State,Northern Ariz.,PASSING,Manny,Wilkins,LONG,20
+9270093,9/3/2016,FCS,Arizona State,Northern Ariz.,RECEIVING,Tim,White,REC,9
+9270094,9/3/2016,FCS,Arizona State,Northern Ariz.,RECEIVING,Tim,White,YDS,95
+9270095,9/3/2016,FCS,Arizona State,Northern Ariz.,RECEIVING,Tim,White,TD,0
+9270096,9/3/2016,FCS,Arizona State,Northern Ariz.,RECEIVING,Tim,White,LONG,20
+9270097,9/3/2016,FCS,Arizona State,Northern Ariz.,RECEIVING,N'Keal,Harry,REC,4
+9270098,9/3/2016,FCS,Arizona State,Northern Ariz.,RECEIVING,N'Keal,Harry,YDS,31
+9270099,9/3/2016,FCS,Arizona State,Northern Ariz.,RECEIVING,N'Keal,Harry,TD,0
+9270100,9/3/2016,FCS,Arizona State,Northern Ariz.,RECEIVING,N'Keal,Harry,LONG,20
+9270101,9/3/2016,FCS,Arizona State,Northern Ariz.,RECEIVING,Cameron,Smith,REC,3
+9270102,9/3/2016,FCS,Arizona State,Northern Ariz.,RECEIVING,Cameron,Smith,YDS,21
+9270103,9/3/2016,FCS,Arizona State,Northern Ariz.,RECEIVING,Cameron,Smith,TD,0
+9270104,9/3/2016,FCS,Arizona State,Northern Ariz.,RECEIVING,Cameron,Smith,LONG,12
+9270105,9/3/2016,FCS,Arizona State,Northern Ariz.,RECEIVING,Kalen,Ballage,REC,2
+9270106,9/3/2016,FCS,Arizona State,Northern Ariz.,RECEIVING,Kalen,Ballage,YDS,21
+9270107,9/3/2016,FCS,Arizona State,Northern Ariz.,RECEIVING,Kalen,Ballage,TD,0
+9270108,9/3/2016,FCS,Arizona State,Northern Ariz.,RECEIVING,Kalen,Ballage,LONG,15
+9270109,9/3/2016,FCS,Arizona State,Northern Ariz.,RECEIVING,Demario,Richard,REC,2
+9270110,9/3/2016,FCS,Arizona State,Northern Ariz.,RECEIVING,Demario,Richard,YDS,12
+9270111,9/3/2016,FCS,Arizona State,Northern Ariz.,RECEIVING,Demario,Richard,TD,0
+9270112,9/3/2016,FCS,Arizona State,Northern Ariz.,RECEIVING,Demario,Richard,LONG,11
+9270113,9/3/2016,FCS,Arizona State,Northern Ariz.,KICKING,Zane,Gonzalez,FG-FGA,3/3
+9270114,9/3/2016,FCS,Arizona State,Northern Ariz.,KICKING,Zane,Gonzalez,LONG,53
+9270115,9/3/2016,FCS,Arizona State,Northern Ariz.,KICKING,Zane,Gonzalez,XP,3
+9270116,9/3/2016,FCS,Arizona State,Northern Ariz.,KICKING,Zane,Gonzalez,PTS,12
+9270117,9/3/2016,FCS,Arizona State,Northern Ariz.,PUNTING,Matt,Haack,NO,2
+9270118,9/3/2016,FCS,Arizona State,Northern Ariz.,PUNTING,Matt,Haack,YDS,69
+9270119,9/3/2016,FCS,Arizona State,Northern Ariz.,PUNTING,Matt,Haack,AVG,34.5
+9270120,9/3/2016,FCS,Arizona State,Northern Ariz.,PUNTING,Matt,Haack,LONG,36
+9270121,9/3/2016,FCS,Arizona State,Northern Ariz.,PUNT RETURNS,Tim,White,NO,3
+9270122,9/3/2016,FCS,Arizona State,Northern Ariz.,PUNT RETURNS,Tim,White,YDS,43
+9270123,9/3/2016,FCS,Arizona State,Northern Ariz.,PUNT RETURNS,Tim,White,AVG,14.3
+9270124,9/3/2016,FCS,Arizona State,Northern Ariz.,PUNT RETURNS,Tim,White,LONG,43
+9270125,9/3/2016,FCS,Arizona State,Northern Ariz.,KICK RETURNS,Tim,White,NO,2
+9270126,9/3/2016,FCS,Arizona State,Northern Ariz.,KICK RETURNS,Tim,White,YDS,57
+9270127,9/3/2016,FCS,Arizona State,Northern Ariz.,KICK RETURNS,Tim,White,AVG,28.5
+9270128,9/3/2016,FCS,Arizona State,Northern Ariz.,KICK RETURNS,Tim,White,LONG,29
+9270129,9/3/2016,FCS,Arizona State,Northern Ariz.,KICK RETURNS,Kalen,Ballage,NO,1
+9270130,9/3/2016,FCS,Arizona State,Northern Ariz.,KICK RETURNS,Kalen,Ballage,YDS,27
+9270131,9/3/2016,FCS,Arizona State,Northern Ariz.,KICK RETURNS,Kalen,Ballage,AVG,27.0
+9270132,9/3/2016,FCS,Arizona State,Northern Ariz.,KICK RETURNS,Kalen,Ballage,LONG,27

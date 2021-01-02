@@ -1,0 +1,153 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+9627001,10/15/2016,FCS,Robert Morris,Duquesne,RUSHING,Malik,Wells,ATT,10
+9627002,10/15/2016,FCS,Robert Morris,Duquesne,RUSHING,Malik,Wells,YDS,39
+9627003,10/15/2016,FCS,Robert Morris,Duquesne,RUSHING,Malik,Wells,TD,0
+9627004,10/15/2016,FCS,Robert Morris,Duquesne,RUSHING,Malik,Wells,LONG,20
+9627005,10/15/2016,FCS,Robert Morris,Duquesne,RUSHING,Dante,Satcher,ATT,8
+9627006,10/15/2016,FCS,Robert Morris,Duquesne,RUSHING,Dante,Satcher,YDS,12
+9627007,10/15/2016,FCS,Robert Morris,Duquesne,RUSHING,Dante,Satcher,TD,0
+9627008,10/15/2016,FCS,Robert Morris,Duquesne,RUSHING,Dante,Satcher,LONG,12
+9627009,10/15/2016,FCS,Robert Morris,Duquesne,RUSHING,Thomas,Neal,ATT,2
+9627010,10/15/2016,FCS,Robert Morris,Duquesne,RUSHING,Thomas,Neal,YDS,5
+9627011,10/15/2016,FCS,Robert Morris,Duquesne,RUSHING,Thomas,Neal,TD,0
+9627012,10/15/2016,FCS,Robert Morris,Duquesne,RUSHING,Thomas,Neal,LONG,3
+9627013,10/15/2016,FCS,Robert Morris,Duquesne,RUSHING,,Team,ATT,1
+9627014,10/15/2016,FCS,Robert Morris,Duquesne,RUSHING,,Team,YDS,-2
+9627015,10/15/2016,FCS,Robert Morris,Duquesne,RUSHING,,Team,TD,0
+9627016,10/15/2016,FCS,Robert Morris,Duquesne,RUSHING,,Team,LONG,0
+9627017,10/15/2016,FCS,Robert Morris,Duquesne,RUSHING,Trey,Edwards,ATT,1
+9627018,10/15/2016,FCS,Robert Morris,Duquesne,RUSHING,Trey,Edwards,YDS,-6
+9627019,10/15/2016,FCS,Robert Morris,Duquesne,RUSHING,Trey,Edwards,TD,0
+9627020,10/15/2016,FCS,Robert Morris,Duquesne,RUSHING,Trey,Edwards,LONG,0
+9627021,10/15/2016,FCS,Robert Morris,Duquesne,RUSHING,Joe,Carroll,ATT,2
+9627022,10/15/2016,FCS,Robert Morris,Duquesne,RUSHING,Joe,Carroll,YDS,-15
+9627023,10/15/2016,FCS,Robert Morris,Duquesne,RUSHING,Joe,Carroll,TD,0
+9627024,10/15/2016,FCS,Robert Morris,Duquesne,RUSHING,Joe,Carroll,LONG,0
+9627025,10/15/2016,FCS,Robert Morris,Duquesne,PASSING,Joe,Carroll,CP-ATT-INT,7-18-1
+9627026,10/15/2016,FCS,Robert Morris,Duquesne,PASSING,Joe,Carroll,YDS,122
+9627027,10/15/2016,FCS,Robert Morris,Duquesne,PASSING,Joe,Carroll,TD,2
+9627028,10/15/2016,FCS,Robert Morris,Duquesne,PASSING,Joe,Carroll,LONG,65
+9627029,10/15/2016,FCS,Robert Morris,Duquesne,PASSING,Thomas,Neal,CP-ATT-INT,0-1-0
+9627030,10/15/2016,FCS,Robert Morris,Duquesne,PASSING,Thomas,Neal,YDS,0
+9627031,10/15/2016,FCS,Robert Morris,Duquesne,PASSING,Thomas,Neal,TD,0
+9627032,10/15/2016,FCS,Robert Morris,Duquesne,PASSING,Thomas,Neal,LONG,0
+9627033,10/15/2016,FCS,Robert Morris,Duquesne,RECEIVING,Trey,Edwards,REC,2
+9627034,10/15/2016,FCS,Robert Morris,Duquesne,RECEIVING,Trey,Edwards,YDS,90
+9627035,10/15/2016,FCS,Robert Morris,Duquesne,RECEIVING,Trey,Edwards,TD,1
+9627036,10/15/2016,FCS,Robert Morris,Duquesne,RECEIVING,Trey,Edwards,LONG,65
+9627037,10/15/2016,FCS,Robert Morris,Duquesne,RECEIVING,Tim,Vecchio,REC,1
+9627038,10/15/2016,FCS,Robert Morris,Duquesne,RECEIVING,Tim,Vecchio,YDS,17
+9627039,10/15/2016,FCS,Robert Morris,Duquesne,RECEIVING,Tim,Vecchio,TD,1
+9627040,10/15/2016,FCS,Robert Morris,Duquesne,RECEIVING,Tim,Vecchio,LONG,17
+9627041,10/15/2016,FCS,Robert Morris,Duquesne,RECEIVING,Eldin,Anu,REC,1
+9627042,10/15/2016,FCS,Robert Morris,Duquesne,RECEIVING,Eldin,Anu,YDS,8
+9627043,10/15/2016,FCS,Robert Morris,Duquesne,RECEIVING,Eldin,Anu,TD,0
+9627044,10/15/2016,FCS,Robert Morris,Duquesne,RECEIVING,Eldin,Anu,LONG,8
+9627045,10/15/2016,FCS,Robert Morris,Duquesne,RECEIVING,Dante,Satcher,REC,2
+9627046,10/15/2016,FCS,Robert Morris,Duquesne,RECEIVING,Dante,Satcher,YDS,4
+9627047,10/15/2016,FCS,Robert Morris,Duquesne,RECEIVING,Dante,Satcher,TD,0
+9627048,10/15/2016,FCS,Robert Morris,Duquesne,RECEIVING,Dante,Satcher,LONG,3
+9627049,10/15/2016,FCS,Robert Morris,Duquesne,RECEIVING,Reggie,Green,REC,1
+9627050,10/15/2016,FCS,Robert Morris,Duquesne,RECEIVING,Reggie,Green,YDS,3
+9627051,10/15/2016,FCS,Robert Morris,Duquesne,RECEIVING,Reggie,Green,TD,0
+9627052,10/15/2016,FCS,Robert Morris,Duquesne,RECEIVING,Reggie,Green,LONG,3
+9627053,10/15/2016,FCS,Robert Morris,Duquesne,KICKING,Connor,Shennan,FG-FGA,1/1
+9627054,10/15/2016,FCS,Robert Morris,Duquesne,KICKING,Connor,Shennan,LONG,23
+9627055,10/15/2016,FCS,Robert Morris,Duquesne,KICKING,Connor,Shennan,XP,3
+9627056,10/15/2016,FCS,Robert Morris,Duquesne,KICKING,Connor,Shennan,PTS,6
+9627057,10/15/2016,FCS,Robert Morris,Duquesne,PUNTING,Adam,Check,NO,7
+9627058,10/15/2016,FCS,Robert Morris,Duquesne,PUNTING,Adam,Check,YDS,276
+9627059,10/15/2016,FCS,Robert Morris,Duquesne,PUNTING,Adam,Check,AVG,39.4
+9627060,10/15/2016,FCS,Robert Morris,Duquesne,PUNTING,Adam,Check,LONG,51
+9627061,10/15/2016,FCS,Robert Morris,Duquesne,PUNT RETURNS,Warren,Robinson,NO,1
+9627062,10/15/2016,FCS,Robert Morris,Duquesne,PUNT RETURNS,Warren,Robinson,YDS,26
+9627063,10/15/2016,FCS,Robert Morris,Duquesne,PUNT RETURNS,Warren,Robinson,AVG,26.0
+9627064,10/15/2016,FCS,Robert Morris,Duquesne,PUNT RETURNS,Warren,Robinson,LONG,26
+9627065,10/15/2016,FCS,Robert Morris,Duquesne,KICK RETURNS,Luke,Centofanti,NO,4
+9627066,10/15/2016,FCS,Robert Morris,Duquesne,KICK RETURNS,Luke,Centofanti,YDS,51
+9627067,10/15/2016,FCS,Robert Morris,Duquesne,KICK RETURNS,Luke,Centofanti,AVG,12.8
+9627068,10/15/2016,FCS,Robert Morris,Duquesne,KICK RETURNS,Luke,Centofanti,LONG,23
+9627069,10/15/2016,FCS,Robert Morris,Duquesne,KICK RETURNS,Jonah,Lisbon,NO,2
+9627070,10/15/2016,FCS,Robert Morris,Duquesne,KICK RETURNS,Jonah,Lisbon,YDS,25
+9627071,10/15/2016,FCS,Robert Morris,Duquesne,KICK RETURNS,Jonah,Lisbon,AVG,12.5
+9627072,10/15/2016,FCS,Robert Morris,Duquesne,KICK RETURNS,Jonah,Lisbon,LONG,19
+9627073,10/15/2016,FCS,Duquesne,Robert Morris,RUSHING,A.J.,Hines,ATT,27
+9627074,10/15/2016,FCS,Duquesne,Robert Morris,RUSHING,A.J.,Hines,YDS,182
+9627075,10/15/2016,FCS,Duquesne,Robert Morris,RUSHING,A.J.,Hines,TD,0
+9627076,10/15/2016,FCS,Duquesne,Robert Morris,RUSHING,A.J.,Hines,LONG,26
+9627077,10/15/2016,FCS,Duquesne,Robert Morris,RUSHING,P.J.,Fulmore,ATT,15
+9627078,10/15/2016,FCS,Duquesne,Robert Morris,RUSHING,P.J.,Fulmore,YDS,75
+9627079,10/15/2016,FCS,Duquesne,Robert Morris,RUSHING,P.J.,Fulmore,TD,1
+9627080,10/15/2016,FCS,Duquesne,Robert Morris,RUSHING,P.J.,Fulmore,LONG,15
+9627081,10/15/2016,FCS,Duquesne,Robert Morris,RUSHING,Wayne,"Capers,Jr.",ATT,1
+9627082,10/15/2016,FCS,Duquesne,Robert Morris,RUSHING,Wayne,"Capers,Jr.",YDS,2
+9627083,10/15/2016,FCS,Duquesne,Robert Morris,RUSHING,Wayne,"Capers,Jr.",TD,0
+9627084,10/15/2016,FCS,Duquesne,Robert Morris,RUSHING,Wayne,"Capers,Jr.",LONG,2
+9627085,10/15/2016,FCS,Duquesne,Robert Morris,RUSHING,,Team,ATT,2
+9627086,10/15/2016,FCS,Duquesne,Robert Morris,RUSHING,,Team,YDS,-2
+9627087,10/15/2016,FCS,Duquesne,Robert Morris,RUSHING,,Team,TD,0
+9627088,10/15/2016,FCS,Duquesne,Robert Morris,RUSHING,,Team,LONG,0
+9627089,10/15/2016,FCS,Duquesne,Robert Morris,RUSHING,Dillon,Buechel,ATT,4
+9627090,10/15/2016,FCS,Duquesne,Robert Morris,RUSHING,Dillon,Buechel,YDS,-24
+9627091,10/15/2016,FCS,Duquesne,Robert Morris,RUSHING,Dillon,Buechel,TD,0
+9627092,10/15/2016,FCS,Duquesne,Robert Morris,RUSHING,Dillon,Buechel,LONG,0
+9627093,10/15/2016,FCS,Duquesne,Robert Morris,PASSING,Dillon,Buechel,CP-ATT-INT,22-33-0
+9627094,10/15/2016,FCS,Duquesne,Robert Morris,PASSING,Dillon,Buechel,YDS,258
+9627095,10/15/2016,FCS,Duquesne,Robert Morris,PASSING,Dillon,Buechel,TD,3
+9627096,10/15/2016,FCS,Duquesne,Robert Morris,PASSING,Dillon,Buechel,LONG,34
+9627097,10/15/2016,FCS,Duquesne,Robert Morris,RECEIVING,Wayne,"Capers,Jr.",REC,6
+9627098,10/15/2016,FCS,Duquesne,Robert Morris,RECEIVING,Wayne,"Capers,Jr.",YDS,91
+9627099,10/15/2016,FCS,Duquesne,Robert Morris,RECEIVING,Wayne,"Capers,Jr.",TD,0
+9627100,10/15/2016,FCS,Duquesne,Robert Morris,RECEIVING,Wayne,"Capers,Jr.",LONG,34
+9627101,10/15/2016,FCS,Duquesne,Robert Morris,RECEIVING,A.J.,Hines,REC,5
+9627102,10/15/2016,FCS,Duquesne,Robert Morris,RECEIVING,A.J.,Hines,YDS,64
+9627103,10/15/2016,FCS,Duquesne,Robert Morris,RECEIVING,A.J.,Hines,TD,0
+9627104,10/15/2016,FCS,Duquesne,Robert Morris,RECEIVING,A.J.,Hines,LONG,21
+9627105,10/15/2016,FCS,Duquesne,Robert Morris,RECEIVING,Nehari,Crawford,REC,3
+9627106,10/15/2016,FCS,Duquesne,Robert Morris,RECEIVING,Nehari,Crawford,YDS,34
+9627107,10/15/2016,FCS,Duquesne,Robert Morris,RECEIVING,Nehari,Crawford,TD,0
+9627108,10/15/2016,FCS,Duquesne,Robert Morris,RECEIVING,Nehari,Crawford,LONG,18
+9627109,10/15/2016,FCS,Duquesne,Robert Morris,RECEIVING,P.J.,Fulmore,REC,2
+9627110,10/15/2016,FCS,Duquesne,Robert Morris,RECEIVING,P.J.,Fulmore,YDS,19
+9627111,10/15/2016,FCS,Duquesne,Robert Morris,RECEIVING,P.J.,Fulmore,TD,0
+9627112,10/15/2016,FCS,Duquesne,Robert Morris,RECEIVING,P.J.,Fulmore,LONG,13
+9627113,10/15/2016,FCS,Duquesne,Robert Morris,RECEIVING,Kareem,Coles,REC,2
+9627114,10/15/2016,FCS,Duquesne,Robert Morris,RECEIVING,Kareem,Coles,YDS,14
+9627115,10/15/2016,FCS,Duquesne,Robert Morris,RECEIVING,Kareem,Coles,TD,0
+9627116,10/15/2016,FCS,Duquesne,Robert Morris,RECEIVING,Kareem,Coles,LONG,15
+9627117,10/15/2016,FCS,Duquesne,Robert Morris,RECEIVING,Chavas,Rawlins,REC,1
+9627118,10/15/2016,FCS,Duquesne,Robert Morris,RECEIVING,Chavas,Rawlins,YDS,11
+9627119,10/15/2016,FCS,Duquesne,Robert Morris,RECEIVING,Chavas,Rawlins,TD,1
+9627120,10/15/2016,FCS,Duquesne,Robert Morris,RECEIVING,Chavas,Rawlins,LONG,11
+9627121,10/15/2016,FCS,Duquesne,Robert Morris,RECEIVING,Brandon,Stanback,REC,1
+9627122,10/15/2016,FCS,Duquesne,Robert Morris,RECEIVING,Brandon,Stanback,YDS,11
+9627123,10/15/2016,FCS,Duquesne,Robert Morris,RECEIVING,Brandon,Stanback,TD,0
+9627124,10/15/2016,FCS,Duquesne,Robert Morris,RECEIVING,Brandon,Stanback,LONG,11
+9627125,10/15/2016,FCS,Duquesne,Robert Morris,RECEIVING,Blair,Roberts,REC,1
+9627126,10/15/2016,FCS,Duquesne,Robert Morris,RECEIVING,Blair,Roberts,YDS,8
+9627127,10/15/2016,FCS,Duquesne,Robert Morris,RECEIVING,Blair,Roberts,TD,1
+9627128,10/15/2016,FCS,Duquesne,Robert Morris,RECEIVING,Blair,Roberts,LONG,8
+9627129,10/15/2016,FCS,Duquesne,Robert Morris,RECEIVING,Kellon,Taylor,REC,1
+9627130,10/15/2016,FCS,Duquesne,Robert Morris,RECEIVING,Kellon,Taylor,YDS,6
+9627131,10/15/2016,FCS,Duquesne,Robert Morris,RECEIVING,Kellon,Taylor,TD,1
+9627132,10/15/2016,FCS,Duquesne,Robert Morris,RECEIVING,Kellon,Taylor,LONG,6
+9627133,10/15/2016,FCS,Duquesne,Robert Morris,KICKING,Austin,Crimmins,FG-FGA,1/2
+9627134,10/15/2016,FCS,Duquesne,Robert Morris,KICKING,Austin,Crimmins,LONG,32
+9627135,10/15/2016,FCS,Duquesne,Robert Morris,KICKING,Austin,Crimmins,XP,4
+9627136,10/15/2016,FCS,Duquesne,Robert Morris,KICKING,Austin,Crimmins,PTS,7
+9627137,10/15/2016,FCS,Duquesne,Robert Morris,PUNTING,Austin,Crimmins,NO,3
+9627138,10/15/2016,FCS,Duquesne,Robert Morris,PUNTING,Austin,Crimmins,YDS,120
+9627139,10/15/2016,FCS,Duquesne,Robert Morris,PUNTING,Austin,Crimmins,AVG,40.0
+9627140,10/15/2016,FCS,Duquesne,Robert Morris,PUNTING,Austin,Crimmins,LONG,42
+9627141,10/15/2016,FCS,Duquesne,Robert Morris,PUNT RETURNS,Nehari,Crawford,NO,2
+9627142,10/15/2016,FCS,Duquesne,Robert Morris,PUNT RETURNS,Nehari,Crawford,YDS,-3
+9627143,10/15/2016,FCS,Duquesne,Robert Morris,PUNT RETURNS,Nehari,Crawford,AVG,-
+9627144,10/15/2016,FCS,Duquesne,Robert Morris,PUNT RETURNS,Nehari,Crawford,LONG,0
+9627145,10/15/2016,FCS,Duquesne,Robert Morris,KICK RETURNS,Nehari,Crawford,NO,1
+9627146,10/15/2016,FCS,Duquesne,Robert Morris,KICK RETURNS,Nehari,Crawford,YDS,23
+9627147,10/15/2016,FCS,Duquesne,Robert Morris,KICK RETURNS,Nehari,Crawford,AVG,23.0
+9627148,10/15/2016,FCS,Duquesne,Robert Morris,KICK RETURNS,Nehari,Crawford,LONG,23
+9627149,10/15/2016,FCS,Duquesne,Robert Morris,KICK RETURNS,Daquan,Worley,NO,1
+9627150,10/15/2016,FCS,Duquesne,Robert Morris,KICK RETURNS,Daquan,Worley,YDS,21
+9627151,10/15/2016,FCS,Duquesne,Robert Morris,KICK RETURNS,Daquan,Worley,AVG,21.0
+9627152,10/15/2016,FCS,Duquesne,Robert Morris,KICK RETURNS,Daquan,Worley,LONG,21

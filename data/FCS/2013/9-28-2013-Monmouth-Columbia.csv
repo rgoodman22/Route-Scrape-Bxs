@@ -1,0 +1,145 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+7090001,9/28/2013,FCS,Monmouth,Columbia,RUSHING,Kwabena,Asante,ATT,15
+7090002,9/28/2013,FCS,Monmouth,Columbia,RUSHING,Kwabena,Asante,YDS,132
+7090003,9/28/2013,FCS,Monmouth,Columbia,RUSHING,Kwabena,Asante,TD,1
+7090004,9/28/2013,FCS,Monmouth,Columbia,RUSHING,Kwabena,Asante,LONG,35
+7090005,9/28/2013,FCS,Monmouth,Columbia,RUSHING,Julian,Hayes,ATT,33
+7090006,9/28/2013,FCS,Monmouth,Columbia,RUSHING,Julian,Hayes,YDS,123
+7090007,9/28/2013,FCS,Monmouth,Columbia,RUSHING,Julian,Hayes,TD,1
+7090008,9/28/2013,FCS,Monmouth,Columbia,RUSHING,Julian,Hayes,LONG,17
+7090009,9/28/2013,FCS,Monmouth,Columbia,RUSHING,Thaddeus,Richards,ATT,1
+7090010,9/28/2013,FCS,Monmouth,Columbia,RUSHING,Thaddeus,Richards,YDS,6
+7090011,9/28/2013,FCS,Monmouth,Columbia,RUSHING,Thaddeus,Richards,TD,1
+7090012,9/28/2013,FCS,Monmouth,Columbia,RUSHING,Thaddeus,Richards,LONG,6
+7090013,9/28/2013,FCS,Monmouth,Columbia,RUSHING,Brandon,Hill,ATT,7
+7090014,9/28/2013,FCS,Monmouth,Columbia,RUSHING,Brandon,Hill,YDS,-19
+7090015,9/28/2013,FCS,Monmouth,Columbia,RUSHING,Brandon,Hill,TD,0
+7090016,9/28/2013,FCS,Monmouth,Columbia,RUSHING,Brandon,Hill,LONG,8
+7090017,9/28/2013,FCS,Monmouth,Columbia,PASSING,Brandon,Hill,CP-ATT-INT,18-38-0
+7090018,9/28/2013,FCS,Monmouth,Columbia,PASSING,Brandon,Hill,YDS,219
+7090019,9/28/2013,FCS,Monmouth,Columbia,PASSING,Brandon,Hill,TD,1
+7090020,9/28/2013,FCS,Monmouth,Columbia,PASSING,Brandon,Hill,LONG,34
+7090021,9/28/2013,FCS,Monmouth,Columbia,RECEIVING,Neal,Sterling,REC,5
+7090022,9/28/2013,FCS,Monmouth,Columbia,RECEIVING,Neal,Sterling,YDS,62
+7090023,9/28/2013,FCS,Monmouth,Columbia,RECEIVING,Neal,Sterling,TD,0
+7090024,9/28/2013,FCS,Monmouth,Columbia,RECEIVING,Neal,Sterling,LONG,23
+7090025,9/28/2013,FCS,Monmouth,Columbia,RECEIVING,Zach,Fabel,REC,4
+7090026,9/28/2013,FCS,Monmouth,Columbia,RECEIVING,Zach,Fabel,YDS,49
+7090027,9/28/2013,FCS,Monmouth,Columbia,RECEIVING,Zach,Fabel,TD,0
+7090028,9/28/2013,FCS,Monmouth,Columbia,RECEIVING,Zach,Fabel,LONG,18
+7090029,9/28/2013,FCS,Monmouth,Columbia,RECEIVING,Lamar,Davenport,REC,3
+7090030,9/28/2013,FCS,Monmouth,Columbia,RECEIVING,Lamar,Davenport,YDS,35
+7090031,9/28/2013,FCS,Monmouth,Columbia,RECEIVING,Lamar,Davenport,TD,1
+7090032,9/28/2013,FCS,Monmouth,Columbia,RECEIVING,Lamar,Davenport,LONG,14
+7090033,9/28/2013,FCS,Monmouth,Columbia,RECEIVING,Kwabena,Asante,REC,2
+7090034,9/28/2013,FCS,Monmouth,Columbia,RECEIVING,Kwabena,Asante,YDS,17
+7090035,9/28/2013,FCS,Monmouth,Columbia,RECEIVING,Kwabena,Asante,TD,0
+7090036,9/28/2013,FCS,Monmouth,Columbia,RECEIVING,Kwabena,Asante,LONG,11
+7090037,9/28/2013,FCS,Monmouth,Columbia,RECEIVING,Thaddeus,Richards,REC,1
+7090038,9/28/2013,FCS,Monmouth,Columbia,RECEIVING,Thaddeus,Richards,YDS,34
+7090039,9/28/2013,FCS,Monmouth,Columbia,RECEIVING,Thaddeus,Richards,TD,0
+7090040,9/28/2013,FCS,Monmouth,Columbia,RECEIVING,Thaddeus,Richards,LONG,34
+7090041,9/28/2013,FCS,Monmouth,Columbia,RECEIVING,Jake,Mauro,REC,1
+7090042,9/28/2013,FCS,Monmouth,Columbia,RECEIVING,Jake,Mauro,YDS,9
+7090043,9/28/2013,FCS,Monmouth,Columbia,RECEIVING,Jake,Mauro,TD,0
+7090044,9/28/2013,FCS,Monmouth,Columbia,RECEIVING,Jake,Mauro,LONG,9
+7090045,9/28/2013,FCS,Monmouth,Columbia,RECEIVING,Julian,Hayes,REC,1
+7090046,9/28/2013,FCS,Monmouth,Columbia,RECEIVING,Julian,Hayes,YDS,7
+7090047,9/28/2013,FCS,Monmouth,Columbia,RECEIVING,Julian,Hayes,TD,0
+7090048,9/28/2013,FCS,Monmouth,Columbia,RECEIVING,Julian,Hayes,LONG,7
+7090049,9/28/2013,FCS,Monmouth,Columbia,RECEIVING,Eric,Sumlin,REC,1
+7090050,9/28/2013,FCS,Monmouth,Columbia,RECEIVING,Eric,Sumlin,YDS,6
+7090051,9/28/2013,FCS,Monmouth,Columbia,RECEIVING,Eric,Sumlin,TD,0
+7090052,9/28/2013,FCS,Monmouth,Columbia,RECEIVING,Eric,Sumlin,LONG,6
+7090053,9/28/2013,FCS,Monmouth,Columbia,KICKING,Eric,Spillane,FG-FGA,3/4
+7090054,9/28/2013,FCS,Monmouth,Columbia,KICKING,Eric,Spillane,LONG,46
+7090055,9/28/2013,FCS,Monmouth,Columbia,KICKING,Eric,Spillane,XP,4
+7090056,9/28/2013,FCS,Monmouth,Columbia,KICKING,Eric,Spillane,PTS,13
+7090057,9/28/2013,FCS,Monmouth,Columbia,PUNTING,Eric,Spillane,NO,7
+7090058,9/28/2013,FCS,Monmouth,Columbia,PUNTING,Eric,Spillane,YDS,302
+7090059,9/28/2013,FCS,Monmouth,Columbia,PUNTING,Eric,Spillane,AVG,43.1
+7090060,9/28/2013,FCS,Monmouth,Columbia,PUNTING,Eric,Spillane,LONG,55
+7090061,9/28/2013,FCS,Monmouth,Columbia,PUNT RETURNS,Elijah,Phillips,NO,1
+7090062,9/28/2013,FCS,Monmouth,Columbia,PUNT RETURNS,Elijah,Phillips,YDS,4
+7090063,9/28/2013,FCS,Monmouth,Columbia,PUNT RETURNS,Elijah,Phillips,AVG,4.0
+7090064,9/28/2013,FCS,Monmouth,Columbia,PUNT RETURNS,Elijah,Phillips,LONG,4
+7090065,9/28/2013,FCS,Monmouth,Columbia,KICK RETURNS,Tevrin,Brandon,NO,2
+7090066,9/28/2013,FCS,Monmouth,Columbia,KICK RETURNS,Tevrin,Brandon,YDS,34
+7090067,9/28/2013,FCS,Monmouth,Columbia,KICK RETURNS,Tevrin,Brandon,AVG,17.0
+7090068,9/28/2013,FCS,Monmouth,Columbia,KICK RETURNS,Tevrin,Brandon,LONG,22
+7090069,9/28/2013,FCS,Monmouth,Columbia,KICK RETURNS,Elijah,Phillips,NO,1
+7090070,9/28/2013,FCS,Monmouth,Columbia,KICK RETURNS,Elijah,Phillips,YDS,25
+7090071,9/28/2013,FCS,Monmouth,Columbia,KICK RETURNS,Elijah,Phillips,AVG,25.0
+7090072,9/28/2013,FCS,Monmouth,Columbia,KICK RETURNS,Elijah,Phillips,LONG,25
+7090073,9/28/2013,FCS,Columbia,Monmouth,RUSHING,Marcorus,Garrett,ATT,15
+7090074,9/28/2013,FCS,Columbia,Monmouth,RUSHING,Marcorus,Garrett,YDS,151
+7090075,9/28/2013,FCS,Columbia,Monmouth,RUSHING,Marcorus,Garrett,TD,2
+7090076,9/28/2013,FCS,Columbia,Monmouth,RUSHING,Marcorus,Garrett,LONG,43
+7090077,9/28/2013,FCS,Columbia,Monmouth,RUSHING,Alan,Watson,ATT,1
+7090078,9/28/2013,FCS,Columbia,Monmouth,RUSHING,Alan,Watson,YDS,8
+7090079,9/28/2013,FCS,Columbia,Monmouth,RUSHING,Alan,Watson,TD,0
+7090080,9/28/2013,FCS,Columbia,Monmouth,RUSHING,Alan,Watson,LONG,8
+7090081,9/28/2013,FCS,Columbia,Monmouth,RUSHING,Scooter,Hollis,ATT,1
+7090082,9/28/2013,FCS,Columbia,Monmouth,RUSHING,Scooter,Hollis,YDS,1
+7090083,9/28/2013,FCS,Columbia,Monmouth,RUSHING,Scooter,Hollis,TD,0
+7090084,9/28/2013,FCS,Columbia,Monmouth,RUSHING,Scooter,Hollis,LONG,1
+7090085,9/28/2013,FCS,Columbia,Monmouth,RUSHING,Trevor,McDonagh,ATT,6
+7090086,9/28/2013,FCS,Columbia,Monmouth,RUSHING,Trevor,McDonagh,YDS,-43
+7090087,9/28/2013,FCS,Columbia,Monmouth,RUSHING,Trevor,McDonagh,TD,0
+7090088,9/28/2013,FCS,Columbia,Monmouth,RUSHING,Trevor,McDonagh,LONG,0
+7090089,9/28/2013,FCS,Columbia,Monmouth,PASSING,Trevor,McDonagh,CP-ATT-INT,12-34-1
+7090090,9/28/2013,FCS,Columbia,Monmouth,PASSING,Trevor,McDonagh,YDS,109
+7090091,9/28/2013,FCS,Columbia,Monmouth,PASSING,Trevor,McDonagh,TD,0
+7090092,9/28/2013,FCS,Columbia,Monmouth,PASSING,Trevor,McDonagh,LONG,25
+7090093,9/28/2013,FCS,Columbia,Monmouth,PASSING,Cameron,Molina,CP-ATT-INT,0-1-0
+7090094,9/28/2013,FCS,Columbia,Monmouth,PASSING,Cameron,Molina,YDS,0
+7090095,9/28/2013,FCS,Columbia,Monmouth,PASSING,Cameron,Molina,TD,0
+7090096,9/28/2013,FCS,Columbia,Monmouth,PASSING,Cameron,Molina,LONG,0
+7090097,9/28/2013,FCS,Columbia,Monmouth,RECEIVING,Connor,Nelligan,REC,3
+7090098,9/28/2013,FCS,Columbia,Monmouth,RECEIVING,Connor,Nelligan,YDS,36
+7090099,9/28/2013,FCS,Columbia,Monmouth,RECEIVING,Connor,Nelligan,TD,0
+7090100,9/28/2013,FCS,Columbia,Monmouth,RECEIVING,Connor,Nelligan,LONG,25
+7090101,9/28/2013,FCS,Columbia,Monmouth,RECEIVING,Marcorus,Garrett,REC,3
+7090102,9/28/2013,FCS,Columbia,Monmouth,RECEIVING,Marcorus,Garrett,YDS,9
+7090103,9/28/2013,FCS,Columbia,Monmouth,RECEIVING,Marcorus,Garrett,TD,0
+7090104,9/28/2013,FCS,Columbia,Monmouth,RECEIVING,Marcorus,Garrett,LONG,7
+7090105,9/28/2013,FCS,Columbia,Monmouth,RECEIVING,Scooter,Hollis,REC,2
+7090106,9/28/2013,FCS,Columbia,Monmouth,RECEIVING,Scooter,Hollis,YDS,27
+7090107,9/28/2013,FCS,Columbia,Monmouth,RECEIVING,Scooter,Hollis,TD,0
+7090108,9/28/2013,FCS,Columbia,Monmouth,RECEIVING,Scooter,Hollis,LONG,18
+7090109,9/28/2013,FCS,Columbia,Monmouth,RECEIVING,Hamilton,Garner,REC,1
+7090110,9/28/2013,FCS,Columbia,Monmouth,RECEIVING,Hamilton,Garner,YDS,20
+7090111,9/28/2013,FCS,Columbia,Monmouth,RECEIVING,Hamilton,Garner,TD,0
+7090112,9/28/2013,FCS,Columbia,Monmouth,RECEIVING,Hamilton,Garner,LONG,20
+7090113,9/28/2013,FCS,Columbia,Monmouth,RECEIVING,Denzel,Hill,REC,1
+7090114,9/28/2013,FCS,Columbia,Monmouth,RECEIVING,Denzel,Hill,YDS,13
+7090115,9/28/2013,FCS,Columbia,Monmouth,RECEIVING,Denzel,Hill,TD,0
+7090116,9/28/2013,FCS,Columbia,Monmouth,RECEIVING,Denzel,Hill,LONG,13
+7090117,9/28/2013,FCS,Columbia,Monmouth,RECEIVING,Cameron,Dunn,REC,1
+7090118,9/28/2013,FCS,Columbia,Monmouth,RECEIVING,Cameron,Dunn,YDS,3
+7090119,9/28/2013,FCS,Columbia,Monmouth,RECEIVING,Cameron,Dunn,TD,0
+7090120,9/28/2013,FCS,Columbia,Monmouth,RECEIVING,Cameron,Dunn,LONG,3
+7090121,9/28/2013,FCS,Columbia,Monmouth,RECEIVING,Cameron,Molina,REC,1
+7090122,9/28/2013,FCS,Columbia,Monmouth,RECEIVING,Cameron,Molina,YDS,1
+7090123,9/28/2013,FCS,Columbia,Monmouth,RECEIVING,Cameron,Molina,TD,0
+7090124,9/28/2013,FCS,Columbia,Monmouth,RECEIVING,Cameron,Molina,LONG,1
+7090125,9/28/2013,FCS,Columbia,Monmouth,KICKING,Luke,Eddy,FG-FGA,0/0
+7090126,9/28/2013,FCS,Columbia,Monmouth,KICKING,Luke,Eddy,LONG,-
+7090127,9/28/2013,FCS,Columbia,Monmouth,KICKING,Luke,Eddy,XP,2
+7090128,9/28/2013,FCS,Columbia,Monmouth,KICKING,Luke,Eddy,PTS,2
+7090129,9/28/2013,FCS,Columbia,Monmouth,PUNTING,Paul,Delaney,NO,9
+7090130,9/28/2013,FCS,Columbia,Monmouth,PUNTING,Paul,Delaney,YDS,395
+7090131,9/28/2013,FCS,Columbia,Monmouth,PUNTING,Paul,Delaney,AVG,43.9
+7090132,9/28/2013,FCS,Columbia,Monmouth,PUNTING,Paul,Delaney,LONG,62
+7090133,9/28/2013,FCS,Columbia,Monmouth,PUNT RETURNS,Travis,Reim,NO,1
+7090134,9/28/2013,FCS,Columbia,Monmouth,PUNT RETURNS,Travis,Reim,YDS,9
+7090135,9/28/2013,FCS,Columbia,Monmouth,PUNT RETURNS,Travis,Reim,AVG,9.0
+7090136,9/28/2013,FCS,Columbia,Monmouth,PUNT RETURNS,Travis,Reim,LONG,9
+7090137,9/28/2013,FCS,Columbia,Monmouth,KICK RETURNS,Alan,Watson,NO,3
+7090138,9/28/2013,FCS,Columbia,Monmouth,KICK RETURNS,Alan,Watson,YDS,56
+7090139,9/28/2013,FCS,Columbia,Monmouth,KICK RETURNS,Alan,Watson,AVG,18.7
+7090140,9/28/2013,FCS,Columbia,Monmouth,KICK RETURNS,Alan,Watson,LONG,27
+7090141,9/28/2013,FCS,Columbia,Monmouth,KICK RETURNS,Travis,Reim,NO,2
+7090142,9/28/2013,FCS,Columbia,Monmouth,KICK RETURNS,Travis,Reim,YDS,72
+7090143,9/28/2013,FCS,Columbia,Monmouth,KICK RETURNS,Travis,Reim,AVG,36.0
+7090144,9/28/2013,FCS,Columbia,Monmouth,KICK RETURNS,Travis,Reim,LONG,47
