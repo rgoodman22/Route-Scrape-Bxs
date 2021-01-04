@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+15768001,9/24/2016,D-II,West Georgia,Albany State,RUSHING,D,Jackson,ATT,11
+15768002,9/24/2016,D-II,West Georgia,Albany State,RUSHING,D,Jackson,YDS,65
+15768003,9/24/2016,D-II,West Georgia,Albany State,RUSHING,D,Jackson,TD,0
+15768004,9/24/2016,D-II,West Georgia,Albany State,RUSHING,D,Jackson,LONG,40
+15768005,9/24/2016,D-II,West Georgia,Albany State,RUSHING,Lemarcus,Franks,ATT,12
+15768006,9/24/2016,D-II,West Georgia,Albany State,RUSHING,Lemarcus,Franks,YDS,40
+15768007,9/24/2016,D-II,West Georgia,Albany State,RUSHING,Lemarcus,Franks,TD,1
+15768008,9/24/2016,D-II,West Georgia,Albany State,RUSHING,Lemarcus,Franks,LONG,11
+15768009,9/24/2016,D-II,West Georgia,Albany State,RUSHING,Will,Gardner,ATT,2
+15768010,9/24/2016,D-II,West Georgia,Albany State,RUSHING,Will,Gardner,YDS,-21
+15768011,9/24/2016,D-II,West Georgia,Albany State,RUSHING,Will,Gardner,TD,0
+15768012,9/24/2016,D-II,West Georgia,Albany State,RUSHING,Will,Gardner,LONG,0
+15768013,9/24/2016,D-II,West Georgia,Albany State,RUSHING,Jordan,Ikner,ATT,1
+15768014,9/24/2016,D-II,West Georgia,Albany State,RUSHING,Jordan,Ikner,YDS,-23
+15768015,9/24/2016,D-II,West Georgia,Albany State,RUSHING,Jordan,Ikner,TD,0
+15768016,9/24/2016,D-II,West Georgia,Albany State,RUSHING,Jordan,Ikner,LONG,0
+15768017,9/24/2016,D-II,West Georgia,Albany State,PASSING,Will,Gardner,CP-ATT-INT,17-29-1
+15768018,9/24/2016,D-II,West Georgia,Albany State,PASSING,Will,Gardner,YDS,214
+15768019,9/24/2016,D-II,West Georgia,Albany State,PASSING,Will,Gardner,TD,1
+15768020,9/24/2016,D-II,West Georgia,Albany State,PASSING,Will,Gardner,LONG,33
+15768021,9/24/2016,D-II,West Georgia,Albany State,RECEIVING,Qa,Walker,REC,6
+15768022,9/24/2016,D-II,West Georgia,Albany State,RECEIVING,Qa,Walker,YDS,74
+15768023,9/24/2016,D-II,West Georgia,Albany State,RECEIVING,Qa,Walker,TD,1
+15768024,9/24/2016,D-II,West Georgia,Albany State,RECEIVING,Qa,Walker,LONG,23
+15768025,9/24/2016,D-II,West Georgia,Albany State,RECEIVING,D,Jackson,REC,2
+15768026,9/24/2016,D-II,West Georgia,Albany State,RECEIVING,D,Jackson,YDS,46
+15768027,9/24/2016,D-II,West Georgia,Albany State,RECEIVING,D,Jackson,TD,0
+15768028,9/24/2016,D-II,West Georgia,Albany State,RECEIVING,D,Jackson,LONG,33
+15768029,9/24/2016,D-II,West Georgia,Albany State,RECEIVING,Kj,Parmer,REC,4
+15768030,9/24/2016,D-II,West Georgia,Albany State,RECEIVING,Kj,Parmer,YDS,29
+15768031,9/24/2016,D-II,West Georgia,Albany State,RECEIVING,Kj,Parmer,TD,0
+15768032,9/24/2016,D-II,West Georgia,Albany State,RECEIVING,Kj,Parmer,LONG,9
+15768033,9/24/2016,D-II,West Georgia,Albany State,RECEIVING,Thomas,Lester,REC,2
+15768034,9/24/2016,D-II,West Georgia,Albany State,RECEIVING,Thomas,Lester,YDS,27
+15768035,9/24/2016,D-II,West Georgia,Albany State,RECEIVING,Thomas,Lester,TD,0
+15768036,9/24/2016,D-II,West Georgia,Albany State,RECEIVING,Thomas,Lester,LONG,22
+15768037,9/24/2016,D-II,West Georgia,Albany State,RECEIVING,Deniko,Carter,REC,2
+15768038,9/24/2016,D-II,West Georgia,Albany State,RECEIVING,Deniko,Carter,YDS,21
+15768039,9/24/2016,D-II,West Georgia,Albany State,RECEIVING,Deniko,Carter,TD,0
+15768040,9/24/2016,D-II,West Georgia,Albany State,RECEIVING,Deniko,Carter,LONG,13
+15768041,9/24/2016,D-II,West Georgia,Albany State,RECEIVING,Alex,Armah,REC,1
+15768042,9/24/2016,D-II,West Georgia,Albany State,RECEIVING,Alex,Armah,YDS,17
+15768043,9/24/2016,D-II,West Georgia,Albany State,RECEIVING,Alex,Armah,TD,0
+15768044,9/24/2016,D-II,West Georgia,Albany State,RECEIVING,Alex,Armah,LONG,17
+15768045,9/24/2016,D-II,West Georgia,Albany State,PUNTING,Jordan,Ikner,NO,3
+15768046,9/24/2016,D-II,West Georgia,Albany State,PUNTING,Jordan,Ikner,YDS,142
+15768047,9/24/2016,D-II,West Georgia,Albany State,PUNTING,Jordan,Ikner,AVG,47.3
+15768048,9/24/2016,D-II,West Georgia,Albany State,PUNTING,Jordan,Ikner,LONG,52
+15768049,9/24/2016,D-II,West Georgia,Albany State,PUNT RETURNS,Kj,Parmer,NO,1
+15768050,9/24/2016,D-II,West Georgia,Albany State,PUNT RETURNS,Kj,Parmer,YDS,21
+15768051,9/24/2016,D-II,West Georgia,Albany State,PUNT RETURNS,Kj,Parmer,AVG,21.0
+15768052,9/24/2016,D-II,West Georgia,Albany State,PUNT RETURNS,Kj,Parmer,LONG,21
+15768053,9/24/2016,D-II,West Georgia,Albany State,KICK RETURNS,Lemarcus,Franks,NO,1
+15768054,9/24/2016,D-II,West Georgia,Albany State,KICK RETURNS,Lemarcus,Franks,YDS,36
+15768055,9/24/2016,D-II,West Georgia,Albany State,KICK RETURNS,Lemarcus,Franks,AVG,36.0
+15768056,9/24/2016,D-II,West Georgia,Albany State,KICK RETURNS,Lemarcus,Franks,LONG,36
+15768057,9/24/2016,D-II,West Georgia,Albany State,KICK RETURNS,D,Jackson,NO,2
+15768058,9/24/2016,D-II,West Georgia,Albany State,KICK RETURNS,D,Jackson,YDS,109
+15768059,9/24/2016,D-II,West Georgia,Albany State,KICK RETURNS,D,Jackson,AVG,54.5
+15768060,9/24/2016,D-II,West Georgia,Albany State,KICK RETURNS,D,Jackson,LONG,97
+15768061,9/24/2016,D-II,Albany State,West Georgia,RUSHING,Caleb,Edmonds,ATT,15
+15768062,9/24/2016,D-II,Albany State,West Georgia,RUSHING,Caleb,Edmonds,YDS,45
+15768063,9/24/2016,D-II,Albany State,West Georgia,RUSHING,Caleb,Edmonds,TD,0
+15768064,9/24/2016,D-II,Albany State,West Georgia,RUSHING,Caleb,Edmonds,LONG,13
+15768065,9/24/2016,D-II,Albany State,West Georgia,RUSHING,Mckinley,Hamber,ATT,8
+15768066,9/24/2016,D-II,Albany State,West Georgia,RUSHING,Mckinley,Hamber,YDS,31
+15768067,9/24/2016,D-II,Albany State,West Georgia,RUSHING,Mckinley,Hamber,TD,1
+15768068,9/24/2016,D-II,Albany State,West Georgia,RUSHING,Mckinley,Hamber,LONG,15
+15768069,9/24/2016,D-II,Albany State,West Georgia,RUSHING,Jarvis,Small,ATT,12
+15768070,9/24/2016,D-II,Albany State,West Georgia,RUSHING,Jarvis,Small,YDS,28
+15768071,9/24/2016,D-II,Albany State,West Georgia,RUSHING,Jarvis,Small,TD,0
+15768072,9/24/2016,D-II,Albany State,West Georgia,RUSHING,Jarvis,Small,LONG,9
+15768073,9/24/2016,D-II,Albany State,West Georgia,RUSHING,Aaron,Pierce,ATT,1
+15768074,9/24/2016,D-II,Albany State,West Georgia,RUSHING,Aaron,Pierce,YDS,4
+15768075,9/24/2016,D-II,Albany State,West Georgia,RUSHING,Aaron,Pierce,TD,0
+15768076,9/24/2016,D-II,Albany State,West Georgia,RUSHING,Aaron,Pierce,LONG,4
+15768077,9/24/2016,D-II,Albany State,West Georgia,RUSHING,Terry,Wiley,ATT,1
+15768078,9/24/2016,D-II,Albany State,West Georgia,RUSHING,Terry,Wiley,YDS,1
+15768079,9/24/2016,D-II,Albany State,West Georgia,RUSHING,Terry,Wiley,TD,0
+15768080,9/24/2016,D-II,Albany State,West Georgia,RUSHING,Terry,Wiley,LONG,1
+15768081,9/24/2016,D-II,Albany State,West Georgia,RUSHING,Mack,Green,ATT,2
+15768082,9/24/2016,D-II,Albany State,West Georgia,RUSHING,Mack,Green,YDS,-2
+15768083,9/24/2016,D-II,Albany State,West Georgia,RUSHING,Mack,Green,TD,0
+15768084,9/24/2016,D-II,Albany State,West Georgia,RUSHING,Mack,Green,LONG,1
+15768085,9/24/2016,D-II,Albany State,West Georgia,PASSING,Caleb,Edmonds,CP-ATT-INT,19-36-1
+15768086,9/24/2016,D-II,Albany State,West Georgia,PASSING,Caleb,Edmonds,YDS,260
+15768087,9/24/2016,D-II,Albany State,West Georgia,PASSING,Caleb,Edmonds,TD,2
+15768088,9/24/2016,D-II,Albany State,West Georgia,PASSING,Caleb,Edmonds,LONG,43
+15768089,9/24/2016,D-II,Albany State,West Georgia,RECEIVING,Ta'keevian,Harr,REC,5
+15768090,9/24/2016,D-II,Albany State,West Georgia,RECEIVING,Ta'keevian,Harr,YDS,74
+15768091,9/24/2016,D-II,Albany State,West Georgia,RECEIVING,Ta'keevian,Harr,TD,1
+15768092,9/24/2016,D-II,Albany State,West Georgia,RECEIVING,Ta'keevian,Harr,LONG,39
+15768093,9/24/2016,D-II,Albany State,West Georgia,RECEIVING,Michael,Green,REC,4
+15768094,9/24/2016,D-II,Albany State,West Georgia,RECEIVING,Michael,Green,YDS,55
+15768095,9/24/2016,D-II,Albany State,West Georgia,RECEIVING,Michael,Green,TD,1
+15768096,9/24/2016,D-II,Albany State,West Georgia,RECEIVING,Michael,Green,LONG,16
+15768097,9/24/2016,D-II,Albany State,West Georgia,RECEIVING,Thomas,Smith,REC,2
+15768098,9/24/2016,D-II,Albany State,West Georgia,RECEIVING,Thomas,Smith,YDS,51
+15768099,9/24/2016,D-II,Albany State,West Georgia,RECEIVING,Thomas,Smith,TD,0
+15768100,9/24/2016,D-II,Albany State,West Georgia,RECEIVING,Thomas,Smith,LONG,43
+15768101,9/24/2016,D-II,Albany State,West Georgia,RECEIVING,Mckinley,Hamber,REC,3
+15768102,9/24/2016,D-II,Albany State,West Georgia,RECEIVING,Mckinley,Hamber,YDS,41
+15768103,9/24/2016,D-II,Albany State,West Georgia,RECEIVING,Mckinley,Hamber,TD,0
+15768104,9/24/2016,D-II,Albany State,West Georgia,RECEIVING,Mckinley,Hamber,LONG,21
+15768105,9/24/2016,D-II,Albany State,West Georgia,RECEIVING,Quadrey,Simmons,REC,3
+15768106,9/24/2016,D-II,Albany State,West Georgia,RECEIVING,Quadrey,Simmons,YDS,23
+15768107,9/24/2016,D-II,Albany State,West Georgia,RECEIVING,Quadrey,Simmons,TD,0
+15768108,9/24/2016,D-II,Albany State,West Georgia,RECEIVING,Quadrey,Simmons,LONG,10
+15768109,9/24/2016,D-II,Albany State,West Georgia,RECEIVING,Aaron,Pierce,REC,1
+15768110,9/24/2016,D-II,Albany State,West Georgia,RECEIVING,Aaron,Pierce,YDS,11
+15768111,9/24/2016,D-II,Albany State,West Georgia,RECEIVING,Aaron,Pierce,TD,0
+15768112,9/24/2016,D-II,Albany State,West Georgia,RECEIVING,Aaron,Pierce,LONG,11
+15768113,9/24/2016,D-II,Albany State,West Georgia,RECEIVING,Sanford,Seay,REC,1
+15768114,9/24/2016,D-II,Albany State,West Georgia,RECEIVING,Sanford,Seay,YDS,5
+15768115,9/24/2016,D-II,Albany State,West Georgia,RECEIVING,Sanford,Seay,TD,0
+15768116,9/24/2016,D-II,Albany State,West Georgia,RECEIVING,Sanford,Seay,LONG,5
+15768117,9/24/2016,D-II,Albany State,West Georgia,PUNTING,Terry,Wiley,NO,6
+15768118,9/24/2016,D-II,Albany State,West Georgia,PUNTING,Terry,Wiley,YDS,195
+15768119,9/24/2016,D-II,Albany State,West Georgia,PUNTING,Terry,Wiley,AVG,32.5
+15768120,9/24/2016,D-II,Albany State,West Georgia,PUNTING,Terry,Wiley,LONG,43
+15768121,9/24/2016,D-II,Albany State,West Georgia,PUNT RETURNS,Tyler,Storey,NO,1
+15768122,9/24/2016,D-II,Albany State,West Georgia,PUNT RETURNS,Tyler,Storey,YDS,-2
+15768123,9/24/2016,D-II,Albany State,West Georgia,PUNT RETURNS,Tyler,Storey,AVG,-2.0
+15768124,9/24/2016,D-II,Albany State,West Georgia,PUNT RETURNS,Tyler,Storey,LONG,0
+15768125,9/24/2016,D-II,Albany State,West Georgia,KICK RETURNS,Michael,Green,NO,2
+15768126,9/24/2016,D-II,Albany State,West Georgia,KICK RETURNS,Michael,Green,YDS,40
+15768127,9/24/2016,D-II,Albany State,West Georgia,KICK RETURNS,Michael,Green,AVG,20.0
+15768128,9/24/2016,D-II,Albany State,West Georgia,KICK RETURNS,Michael,Green,LONG,20
+15768129,9/24/2016,D-II,Albany State,West Georgia,KICK RETURNS,Mack,Green,NO,3
+15768130,9/24/2016,D-II,Albany State,West Georgia,KICK RETURNS,Mack,Green,YDS,57
+15768131,9/24/2016,D-II,Albany State,West Georgia,KICK RETURNS,Mack,Green,AVG,19.0
+15768132,9/24/2016,D-II,Albany State,West Georgia,KICK RETURNS,Mack,Green,LONG,22
+15768133,9/24/2016,D-II,Albany State,West Georgia,KICK RETURNS,Sanford,Seay,NO,1
+15768134,9/24/2016,D-II,Albany State,West Georgia,KICK RETURNS,Sanford,Seay,YDS,5
+15768135,9/24/2016,D-II,Albany State,West Georgia,KICK RETURNS,Sanford,Seay,AVG,5.0
+15768136,9/24/2016,D-II,Albany State,West Georgia,KICK RETURNS,Sanford,Seay,LONG,5

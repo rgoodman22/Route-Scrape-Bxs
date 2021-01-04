@@ -1,0 +1,129 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+20070001,10/25/2013,D-III,Lake Forest,Cornell (Iowa),RUSHING,Mike,Lewis,ATT,4
+20070002,10/25/2013,D-III,Lake Forest,Cornell (Iowa),RUSHING,Mike,Lewis,YDS,3
+20070003,10/25/2013,D-III,Lake Forest,Cornell (Iowa),RUSHING,Mike,Lewis,TD,0
+20070004,10/25/2013,D-III,Lake Forest,Cornell (Iowa),RUSHING,Mike,Lewis,LONG,15
+20070005,10/25/2013,D-III,Lake Forest,Cornell (Iowa),RUSHING,Charlie,Quinn,ATT,10
+20070006,10/25/2013,D-III,Lake Forest,Cornell (Iowa),RUSHING,Charlie,Quinn,YDS,7
+20070007,10/25/2013,D-III,Lake Forest,Cornell (Iowa),RUSHING,Charlie,Quinn,TD,0
+20070008,10/25/2013,D-III,Lake Forest,Cornell (Iowa),RUSHING,Charlie,Quinn,LONG,4
+20070009,10/25/2013,D-III,Lake Forest,Cornell (Iowa),RUSHING,Alex,Pasiewicz,ATT,12
+20070010,10/25/2013,D-III,Lake Forest,Cornell (Iowa),RUSHING,Alex,Pasiewicz,YDS,27
+20070011,10/25/2013,D-III,Lake Forest,Cornell (Iowa),RUSHING,Alex,Pasiewicz,TD,0
+20070012,10/25/2013,D-III,Lake Forest,Cornell (Iowa),RUSHING,Alex,Pasiewicz,LONG,8
+20070013,10/25/2013,D-III,Lake Forest,Cornell (Iowa),RUSHING,,Team,ATT,1
+20070014,10/25/2013,D-III,Lake Forest,Cornell (Iowa),RUSHING,,Team,YDS,-5
+20070015,10/25/2013,D-III,Lake Forest,Cornell (Iowa),RUSHING,,Team,TD,0
+20070016,10/25/2013,D-III,Lake Forest,Cornell (Iowa),RUSHING,,Team,LONG,0
+20070017,10/25/2013,D-III,Lake Forest,Cornell (Iowa),PASSING,Mike,Lewis,CP-ATT-INT,7-21-1
+20070018,10/25/2013,D-III,Lake Forest,Cornell (Iowa),PASSING,Mike,Lewis,YDS,56
+20070019,10/25/2013,D-III,Lake Forest,Cornell (Iowa),PASSING,Mike,Lewis,TD,1
+20070020,10/25/2013,D-III,Lake Forest,Cornell (Iowa),PASSING,Mike,Lewis,LONG,21
+20070021,10/25/2013,D-III,Lake Forest,Cornell (Iowa),PASSING,,Team,CP-ATT-INT,0-2-0
+20070022,10/25/2013,D-III,Lake Forest,Cornell (Iowa),PASSING,,Team,YDS,0
+20070023,10/25/2013,D-III,Lake Forest,Cornell (Iowa),PASSING,,Team,TD,0
+20070024,10/25/2013,D-III,Lake Forest,Cornell (Iowa),PASSING,,Team,LONG,0
+20070025,10/25/2013,D-III,Lake Forest,Cornell (Iowa),RECEIVING,George,Vidas,REC,2
+20070026,10/25/2013,D-III,Lake Forest,Cornell (Iowa),RECEIVING,George,Vidas,YDS,8
+20070027,10/25/2013,D-III,Lake Forest,Cornell (Iowa),RECEIVING,George,Vidas,TD,0
+20070028,10/25/2013,D-III,Lake Forest,Cornell (Iowa),RECEIVING,George,Vidas,LONG,6
+20070029,10/25/2013,D-III,Lake Forest,Cornell (Iowa),RECEIVING,Greg,Alonso,REC,1
+20070030,10/25/2013,D-III,Lake Forest,Cornell (Iowa),RECEIVING,Greg,Alonso,YDS,4
+20070031,10/25/2013,D-III,Lake Forest,Cornell (Iowa),RECEIVING,Greg,Alonso,TD,0
+20070032,10/25/2013,D-III,Lake Forest,Cornell (Iowa),RECEIVING,Greg,Alonso,LONG,4
+20070033,10/25/2013,D-III,Lake Forest,Cornell (Iowa),RECEIVING,Charlie,Quinn,REC,1
+20070034,10/25/2013,D-III,Lake Forest,Cornell (Iowa),RECEIVING,Charlie,Quinn,YDS,5
+20070035,10/25/2013,D-III,Lake Forest,Cornell (Iowa),RECEIVING,Charlie,Quinn,TD,0
+20070036,10/25/2013,D-III,Lake Forest,Cornell (Iowa),RECEIVING,Charlie,Quinn,LONG,5
+20070037,10/25/2013,D-III,Lake Forest,Cornell (Iowa),RECEIVING,Mike,Peters,REC,3
+20070038,10/25/2013,D-III,Lake Forest,Cornell (Iowa),RECEIVING,Mike,Peters,YDS,39
+20070039,10/25/2013,D-III,Lake Forest,Cornell (Iowa),RECEIVING,Mike,Peters,TD,1
+20070040,10/25/2013,D-III,Lake Forest,Cornell (Iowa),RECEIVING,Mike,Peters,LONG,21
+20070041,10/25/2013,D-III,Lake Forest,Cornell (Iowa),PUNTING,Jon,Gurchak,NO,12
+20070042,10/25/2013,D-III,Lake Forest,Cornell (Iowa),PUNTING,Jon,Gurchak,YDS,456
+20070043,10/25/2013,D-III,Lake Forest,Cornell (Iowa),PUNTING,Jon,Gurchak,AVG,38.0
+20070044,10/25/2013,D-III,Lake Forest,Cornell (Iowa),PUNTING,Jon,Gurchak,LONG,49
+20070045,10/25/2013,D-III,Lake Forest,Cornell (Iowa),PUNT RETURNS,Joey,Kropp,NO,3
+20070046,10/25/2013,D-III,Lake Forest,Cornell (Iowa),PUNT RETURNS,Joey,Kropp,YDS,19
+20070047,10/25/2013,D-III,Lake Forest,Cornell (Iowa),PUNT RETURNS,Joey,Kropp,AVG,6.3
+20070048,10/25/2013,D-III,Lake Forest,Cornell (Iowa),PUNT RETURNS,Joey,Kropp,LONG,11
+20070049,10/25/2013,D-III,Lake Forest,Cornell (Iowa),KICK RETURNS,Alex,Pasiewicz,NO,1
+20070050,10/25/2013,D-III,Lake Forest,Cornell (Iowa),KICK RETURNS,Alex,Pasiewicz,YDS,29
+20070051,10/25/2013,D-III,Lake Forest,Cornell (Iowa),KICK RETURNS,Alex,Pasiewicz,AVG,29.0
+20070052,10/25/2013,D-III,Lake Forest,Cornell (Iowa),KICK RETURNS,Alex,Pasiewicz,LONG,29
+20070053,10/25/2013,D-III,Lake Forest,Cornell (Iowa),KICK RETURNS,Darrius,Mckay,NO,1
+20070054,10/25/2013,D-III,Lake Forest,Cornell (Iowa),KICK RETURNS,Darrius,Mckay,YDS,10
+20070055,10/25/2013,D-III,Lake Forest,Cornell (Iowa),KICK RETURNS,Darrius,Mckay,AVG,10.0
+20070056,10/25/2013,D-III,Lake Forest,Cornell (Iowa),KICK RETURNS,Darrius,Mckay,LONG,10
+20070057,10/25/2013,D-III,Lake Forest,Cornell (Iowa),KICK RETURNS,Sam,Mulford,NO,1
+20070058,10/25/2013,D-III,Lake Forest,Cornell (Iowa),KICK RETURNS,Sam,Mulford,YDS,14
+20070059,10/25/2013,D-III,Lake Forest,Cornell (Iowa),KICK RETURNS,Sam,Mulford,AVG,14.0
+20070060,10/25/2013,D-III,Lake Forest,Cornell (Iowa),KICK RETURNS,Sam,Mulford,LONG,14
+20070061,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RUSHING,Ben,Knake,ATT,1
+20070062,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RUSHING,Ben,Knake,YDS,15
+20070063,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RUSHING,Ben,Knake,TD,0
+20070064,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RUSHING,Ben,Knake,LONG,15
+20070065,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RUSHING,Juan,Flores,ATT,18
+20070066,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RUSHING,Juan,Flores,YDS,48
+20070067,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RUSHING,Juan,Flores,TD,0
+20070068,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RUSHING,Juan,Flores,LONG,17
+20070069,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RUSHING,Preston,Ritchie,ATT,20
+20070070,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RUSHING,Preston,Ritchie,YDS,125
+20070071,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RUSHING,Preston,Ritchie,TD,0
+20070072,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RUSHING,Preston,Ritchie,LONG,26
+20070073,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RUSHING,Ethan,Thompson,ATT,9
+20070074,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RUSHING,Ethan,Thompson,YDS,18
+20070075,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RUSHING,Ethan,Thompson,TD,0
+20070076,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RUSHING,Ethan,Thompson,LONG,5
+20070077,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RUSHING,,Team,ATT,1
+20070078,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RUSHING,,Team,YDS,-1
+20070079,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RUSHING,,Team,TD,0
+20070080,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RUSHING,,Team,LONG,0
+20070081,10/25/2013,D-III,Cornell (Iowa),Lake Forest,PASSING,Ben,Knake,CP-ATT-INT,0-1-0
+20070082,10/25/2013,D-III,Cornell (Iowa),Lake Forest,PASSING,Ben,Knake,YDS,0
+20070083,10/25/2013,D-III,Cornell (Iowa),Lake Forest,PASSING,Ben,Knake,TD,0
+20070084,10/25/2013,D-III,Cornell (Iowa),Lake Forest,PASSING,Ben,Knake,LONG,0
+20070085,10/25/2013,D-III,Cornell (Iowa),Lake Forest,PASSING,Juan,Flores,CP-ATT-INT,17-35-4
+20070086,10/25/2013,D-III,Cornell (Iowa),Lake Forest,PASSING,Juan,Flores,YDS,155
+20070087,10/25/2013,D-III,Cornell (Iowa),Lake Forest,PASSING,Juan,Flores,TD,1
+20070088,10/25/2013,D-III,Cornell (Iowa),Lake Forest,PASSING,Juan,Flores,LONG,20
+20070089,10/25/2013,D-III,Cornell (Iowa),Lake Forest,PASSING,,Team,CP-ATT-INT,0-1-0
+20070090,10/25/2013,D-III,Cornell (Iowa),Lake Forest,PASSING,,Team,YDS,0
+20070091,10/25/2013,D-III,Cornell (Iowa),Lake Forest,PASSING,,Team,TD,0
+20070092,10/25/2013,D-III,Cornell (Iowa),Lake Forest,PASSING,,Team,LONG,0
+20070093,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RECEIVING,Justin,Cox,REC,3
+20070094,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RECEIVING,Justin,Cox,YDS,27
+20070095,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RECEIVING,Justin,Cox,TD,1
+20070096,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RECEIVING,Justin,Cox,LONG,12
+20070097,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RECEIVING,Ben,Knake,REC,6
+20070098,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RECEIVING,Ben,Knake,YDS,45
+20070099,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RECEIVING,Ben,Knake,TD,0
+20070100,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RECEIVING,Ben,Knake,LONG,20
+20070101,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RECEIVING,Brit,Connor,REC,3
+20070102,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RECEIVING,Brit,Connor,YDS,34
+20070103,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RECEIVING,Brit,Connor,TD,0
+20070104,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RECEIVING,Brit,Connor,LONG,13
+20070105,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RECEIVING,Martin,Arispe,REC,3
+20070106,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RECEIVING,Martin,Arispe,YDS,38
+20070107,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RECEIVING,Martin,Arispe,TD,0
+20070108,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RECEIVING,Martin,Arispe,LONG,18
+20070109,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RECEIVING,Preston,Ritchie,REC,1
+20070110,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RECEIVING,Preston,Ritchie,YDS,0
+20070111,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RECEIVING,Preston,Ritchie,TD,0
+20070112,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RECEIVING,Preston,Ritchie,LONG,0
+20070113,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RECEIVING,James,Scully,REC,1
+20070114,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RECEIVING,James,Scully,YDS,11
+20070115,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RECEIVING,James,Scully,TD,0
+20070116,10/25/2013,D-III,Cornell (Iowa),Lake Forest,RECEIVING,James,Scully,LONG,11
+20070117,10/25/2013,D-III,Cornell (Iowa),Lake Forest,PUNTING,Kincade,Kiger,NO,9
+20070118,10/25/2013,D-III,Cornell (Iowa),Lake Forest,PUNTING,Kincade,Kiger,YDS,316
+20070119,10/25/2013,D-III,Cornell (Iowa),Lake Forest,PUNTING,Kincade,Kiger,AVG,35.1
+20070120,10/25/2013,D-III,Cornell (Iowa),Lake Forest,PUNTING,Kincade,Kiger,LONG,62
+20070121,10/25/2013,D-III,Cornell (Iowa),Lake Forest,PUNT RETURNS,Myron,Seabrook,NO,6
+20070122,10/25/2013,D-III,Cornell (Iowa),Lake Forest,PUNT RETURNS,Myron,Seabrook,YDS,24
+20070123,10/25/2013,D-III,Cornell (Iowa),Lake Forest,PUNT RETURNS,Myron,Seabrook,AVG,4.0
+20070124,10/25/2013,D-III,Cornell (Iowa),Lake Forest,PUNT RETURNS,Myron,Seabrook,LONG,8
+20070125,10/25/2013,D-III,Cornell (Iowa),Lake Forest,KICK RETURNS,Ben,Knake,NO,1
+20070126,10/25/2013,D-III,Cornell (Iowa),Lake Forest,KICK RETURNS,Ben,Knake,YDS,25
+20070127,10/25/2013,D-III,Cornell (Iowa),Lake Forest,KICK RETURNS,Ben,Knake,AVG,25.0
+20070128,10/25/2013,D-III,Cornell (Iowa),Lake Forest,KICK RETURNS,Ben,Knake,LONG,25

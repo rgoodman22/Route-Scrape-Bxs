@@ -1,0 +1,133 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+15828001,10/1/2016,D-II,Lane,Lincoln (Mo.),RUSHING,Marcus,Reynolds,ATT,13
+15828002,10/1/2016,D-II,Lane,Lincoln (Mo.),RUSHING,Marcus,Reynolds,YDS,103
+15828003,10/1/2016,D-II,Lane,Lincoln (Mo.),RUSHING,Marcus,Reynolds,TD,1
+15828004,10/1/2016,D-II,Lane,Lincoln (Mo.),RUSHING,Marcus,Reynolds,LONG,68
+15828005,10/1/2016,D-II,Lane,Lincoln (Mo.),RUSHING,Marcus,Holliday,ATT,22
+15828006,10/1/2016,D-II,Lane,Lincoln (Mo.),RUSHING,Marcus,Holliday,YDS,93
+15828007,10/1/2016,D-II,Lane,Lincoln (Mo.),RUSHING,Marcus,Holliday,TD,0
+15828008,10/1/2016,D-II,Lane,Lincoln (Mo.),RUSHING,Marcus,Holliday,LONG,19
+15828009,10/1/2016,D-II,Lane,Lincoln (Mo.),RUSHING,Rodney,Willingh,ATT,8
+15828010,10/1/2016,D-II,Lane,Lincoln (Mo.),RUSHING,Rodney,Willingh,YDS,33
+15828011,10/1/2016,D-II,Lane,Lincoln (Mo.),RUSHING,Rodney,Willingh,TD,0
+15828012,10/1/2016,D-II,Lane,Lincoln (Mo.),RUSHING,Rodney,Willingh,LONG,18
+15828013,10/1/2016,D-II,Lane,Lincoln (Mo.),RUSHING,Darrien,Evans,ATT,2
+15828014,10/1/2016,D-II,Lane,Lincoln (Mo.),RUSHING,Darrien,Evans,YDS,-2
+15828015,10/1/2016,D-II,Lane,Lincoln (Mo.),RUSHING,Darrien,Evans,TD,0
+15828016,10/1/2016,D-II,Lane,Lincoln (Mo.),RUSHING,Darrien,Evans,LONG,2
+15828017,10/1/2016,D-II,Lane,Lincoln (Mo.),PASSING,Marcus,Reynolds,CP-ATT-INT,7-15-0
+15828018,10/1/2016,D-II,Lane,Lincoln (Mo.),PASSING,Marcus,Reynolds,YDS,42
+15828019,10/1/2016,D-II,Lane,Lincoln (Mo.),PASSING,Marcus,Reynolds,TD,0
+15828020,10/1/2016,D-II,Lane,Lincoln (Mo.),PASSING,Marcus,Reynolds,LONG,11
+15828021,10/1/2016,D-II,Lane,Lincoln (Mo.),RECEIVING,Kentrell,Spence,REC,3
+15828022,10/1/2016,D-II,Lane,Lincoln (Mo.),RECEIVING,Kentrell,Spence,YDS,16
+15828023,10/1/2016,D-II,Lane,Lincoln (Mo.),RECEIVING,Kentrell,Spence,TD,0
+15828024,10/1/2016,D-II,Lane,Lincoln (Mo.),RECEIVING,Kentrell,Spence,LONG,11
+15828025,10/1/2016,D-II,Lane,Lincoln (Mo.),RECEIVING,Aaron,Thomas,REC,2
+15828026,10/1/2016,D-II,Lane,Lincoln (Mo.),RECEIVING,Aaron,Thomas,YDS,14
+15828027,10/1/2016,D-II,Lane,Lincoln (Mo.),RECEIVING,Aaron,Thomas,TD,0
+15828028,10/1/2016,D-II,Lane,Lincoln (Mo.),RECEIVING,Aaron,Thomas,LONG,8
+15828029,10/1/2016,D-II,Lane,Lincoln (Mo.),RECEIVING,Jamion,Dunning,REC,1
+15828030,10/1/2016,D-II,Lane,Lincoln (Mo.),RECEIVING,Jamion,Dunning,YDS,8
+15828031,10/1/2016,D-II,Lane,Lincoln (Mo.),RECEIVING,Jamion,Dunning,TD,0
+15828032,10/1/2016,D-II,Lane,Lincoln (Mo.),RECEIVING,Jamion,Dunning,LONG,8
+15828033,10/1/2016,D-II,Lane,Lincoln (Mo.),RECEIVING,Ahmad,Issac,REC,1
+15828034,10/1/2016,D-II,Lane,Lincoln (Mo.),RECEIVING,Ahmad,Issac,YDS,4
+15828035,10/1/2016,D-II,Lane,Lincoln (Mo.),RECEIVING,Ahmad,Issac,TD,0
+15828036,10/1/2016,D-II,Lane,Lincoln (Mo.),RECEIVING,Ahmad,Issac,LONG,4
+15828037,10/1/2016,D-II,Lane,Lincoln (Mo.),PUNTING,Carlas,mooreJr,NO,11
+15828038,10/1/2016,D-II,Lane,Lincoln (Mo.),PUNTING,Carlas,mooreJr,YDS,373
+15828039,10/1/2016,D-II,Lane,Lincoln (Mo.),PUNTING,Carlas,mooreJr,AVG,33.9
+15828040,10/1/2016,D-II,Lane,Lincoln (Mo.),PUNTING,Carlas,mooreJr,LONG,53
+15828041,10/1/2016,D-II,Lane,Lincoln (Mo.),PUNTING,,Team,NO,1
+15828042,10/1/2016,D-II,Lane,Lincoln (Mo.),PUNTING,,Team,YDS,0
+15828043,10/1/2016,D-II,Lane,Lincoln (Mo.),PUNTING,,Team,AVG,0.0
+15828044,10/1/2016,D-II,Lane,Lincoln (Mo.),PUNTING,,Team,LONG,0
+15828045,10/1/2016,D-II,Lane,Lincoln (Mo.),PUNT RETURNS,Jamion,Dunning,NO,1
+15828046,10/1/2016,D-II,Lane,Lincoln (Mo.),PUNT RETURNS,Jamion,Dunning,YDS,2
+15828047,10/1/2016,D-II,Lane,Lincoln (Mo.),PUNT RETURNS,Jamion,Dunning,AVG,2.0
+15828048,10/1/2016,D-II,Lane,Lincoln (Mo.),PUNT RETURNS,Jamion,Dunning,LONG,2
+15828049,10/1/2016,D-II,Lane,Lincoln (Mo.),KICK RETURNS,Jamion,Dunning,NO,2
+15828050,10/1/2016,D-II,Lane,Lincoln (Mo.),KICK RETURNS,Jamion,Dunning,YDS,40
+15828051,10/1/2016,D-II,Lane,Lincoln (Mo.),KICK RETURNS,Jamion,Dunning,AVG,20.0
+15828052,10/1/2016,D-II,Lane,Lincoln (Mo.),KICK RETURNS,Jamion,Dunning,LONG,22
+15828053,10/1/2016,D-II,Lane,Lincoln (Mo.),KICK RETURNS,Darren,Clark,NO,2
+15828054,10/1/2016,D-II,Lane,Lincoln (Mo.),KICK RETURNS,Darren,Clark,YDS,61
+15828055,10/1/2016,D-II,Lane,Lincoln (Mo.),KICK RETURNS,Darren,Clark,AVG,30.5
+15828056,10/1/2016,D-II,Lane,Lincoln (Mo.),KICK RETURNS,Darren,Clark,LONG,29
+15828057,10/1/2016,D-II,Lane,Lincoln (Mo.),KICK RETURNS,Will,lacyjr,NO,1
+15828058,10/1/2016,D-II,Lane,Lincoln (Mo.),KICK RETURNS,Will,lacyjr,YDS,-14
+15828059,10/1/2016,D-II,Lane,Lincoln (Mo.),KICK RETURNS,Will,lacyjr,AVG,-14.0
+15828060,10/1/2016,D-II,Lane,Lincoln (Mo.),KICK RETURNS,Will,lacyjr,LONG,0
+15828061,10/1/2016,D-II,Lincoln (Mo.),Lane,RUSHING,Will,Randolph,ATT,16
+15828062,10/1/2016,D-II,Lincoln (Mo.),Lane,RUSHING,Will,Randolph,YDS,62
+15828063,10/1/2016,D-II,Lincoln (Mo.),Lane,RUSHING,Will,Randolph,TD,0
+15828064,10/1/2016,D-II,Lincoln (Mo.),Lane,RUSHING,Will,Randolph,LONG,32
+15828065,10/1/2016,D-II,Lincoln (Mo.),Lane,RUSHING,Dennis,Vinson,ATT,10
+15828066,10/1/2016,D-II,Lincoln (Mo.),Lane,RUSHING,Dennis,Vinson,YDS,6
+15828067,10/1/2016,D-II,Lincoln (Mo.),Lane,RUSHING,Dennis,Vinson,TD,0
+15828068,10/1/2016,D-II,Lincoln (Mo.),Lane,RUSHING,Dennis,Vinson,LONG,21
+15828069,10/1/2016,D-II,Lincoln (Mo.),Lane,RUSHING,D,Wilkerson,ATT,3
+15828070,10/1/2016,D-II,Lincoln (Mo.),Lane,RUSHING,D,Wilkerson,YDS,0
+15828071,10/1/2016,D-II,Lincoln (Mo.),Lane,RUSHING,D,Wilkerson,TD,0
+15828072,10/1/2016,D-II,Lincoln (Mo.),Lane,RUSHING,D,Wilkerson,LONG,0
+15828073,10/1/2016,D-II,Lincoln (Mo.),Lane,RUSHING,Miles,Drummond,ATT,1
+15828074,10/1/2016,D-II,Lincoln (Mo.),Lane,RUSHING,Miles,Drummond,YDS,-2
+15828075,10/1/2016,D-II,Lincoln (Mo.),Lane,RUSHING,Miles,Drummond,TD,0
+15828076,10/1/2016,D-II,Lincoln (Mo.),Lane,RUSHING,Miles,Drummond,LONG,0
+15828077,10/1/2016,D-II,Lincoln (Mo.),Lane,PASSING,Dennis,Vinson,CP-ATT-INT,12-31-2
+15828078,10/1/2016,D-II,Lincoln (Mo.),Lane,PASSING,Dennis,Vinson,YDS,178
+15828079,10/1/2016,D-II,Lincoln (Mo.),Lane,PASSING,Dennis,Vinson,TD,0
+15828080,10/1/2016,D-II,Lincoln (Mo.),Lane,PASSING,Dennis,Vinson,LONG,61
+15828081,10/1/2016,D-II,Lincoln (Mo.),Lane,PASSING,Alex,Templeton,CP-ATT-INT,0-1-0
+15828082,10/1/2016,D-II,Lincoln (Mo.),Lane,PASSING,Alex,Templeton,YDS,0
+15828083,10/1/2016,D-II,Lincoln (Mo.),Lane,PASSING,Alex,Templeton,TD,0
+15828084,10/1/2016,D-II,Lincoln (Mo.),Lane,PASSING,Alex,Templeton,LONG,0
+15828085,10/1/2016,D-II,Lincoln (Mo.),Lane,RECEIVING,Deonte,Latimer,REC,3
+15828086,10/1/2016,D-II,Lincoln (Mo.),Lane,RECEIVING,Deonte,Latimer,YDS,73
+15828087,10/1/2016,D-II,Lincoln (Mo.),Lane,RECEIVING,Deonte,Latimer,TD,0
+15828088,10/1/2016,D-II,Lincoln (Mo.),Lane,RECEIVING,Deonte,Latimer,LONG,61
+15828089,10/1/2016,D-II,Lincoln (Mo.),Lane,RECEIVING,A,Townsend,REC,3
+15828090,10/1/2016,D-II,Lincoln (Mo.),Lane,RECEIVING,A,Townsend,YDS,57
+15828091,10/1/2016,D-II,Lincoln (Mo.),Lane,RECEIVING,A,Townsend,TD,0
+15828092,10/1/2016,D-II,Lincoln (Mo.),Lane,RECEIVING,A,Townsend,LONG,32
+15828093,10/1/2016,D-II,Lincoln (Mo.),Lane,RECEIVING,Will,Randolph,REC,1
+15828094,10/1/2016,D-II,Lincoln (Mo.),Lane,RECEIVING,Will,Randolph,YDS,21
+15828095,10/1/2016,D-II,Lincoln (Mo.),Lane,RECEIVING,Will,Randolph,TD,0
+15828096,10/1/2016,D-II,Lincoln (Mo.),Lane,RECEIVING,Will,Randolph,LONG,21
+15828097,10/1/2016,D-II,Lincoln (Mo.),Lane,RECEIVING,Bryson,Winfrey,REC,2
+15828098,10/1/2016,D-II,Lincoln (Mo.),Lane,RECEIVING,Bryson,Winfrey,YDS,12
+15828099,10/1/2016,D-II,Lincoln (Mo.),Lane,RECEIVING,Bryson,Winfrey,TD,0
+15828100,10/1/2016,D-II,Lincoln (Mo.),Lane,RECEIVING,Bryson,Winfrey,LONG,6
+15828101,10/1/2016,D-II,Lincoln (Mo.),Lane,RECEIVING,Justin,Kelly,REC,1
+15828102,10/1/2016,D-II,Lincoln (Mo.),Lane,RECEIVING,Justin,Kelly,YDS,6
+15828103,10/1/2016,D-II,Lincoln (Mo.),Lane,RECEIVING,Justin,Kelly,TD,0
+15828104,10/1/2016,D-II,Lincoln (Mo.),Lane,RECEIVING,Justin,Kelly,LONG,6
+15828105,10/1/2016,D-II,Lincoln (Mo.),Lane,RECEIVING,Darius,Hicks,REC,1
+15828106,10/1/2016,D-II,Lincoln (Mo.),Lane,RECEIVING,Darius,Hicks,YDS,5
+15828107,10/1/2016,D-II,Lincoln (Mo.),Lane,RECEIVING,Darius,Hicks,TD,0
+15828108,10/1/2016,D-II,Lincoln (Mo.),Lane,RECEIVING,Darius,Hicks,LONG,5
+15828109,10/1/2016,D-II,Lincoln (Mo.),Lane,RECEIVING,Delvon,Rouser,REC,1
+15828110,10/1/2016,D-II,Lincoln (Mo.),Lane,RECEIVING,Delvon,Rouser,YDS,4
+15828111,10/1/2016,D-II,Lincoln (Mo.),Lane,RECEIVING,Delvon,Rouser,TD,0
+15828112,10/1/2016,D-II,Lincoln (Mo.),Lane,RECEIVING,Delvon,Rouser,LONG,4
+15828113,10/1/2016,D-II,Lincoln (Mo.),Lane,PUNTING,Alex,Templeton,NO,6
+15828114,10/1/2016,D-II,Lincoln (Mo.),Lane,PUNTING,Alex,Templeton,YDS,223
+15828115,10/1/2016,D-II,Lincoln (Mo.),Lane,PUNTING,Alex,Templeton,AVG,37.2
+15828116,10/1/2016,D-II,Lincoln (Mo.),Lane,PUNTING,Alex,Templeton,LONG,46
+15828117,10/1/2016,D-II,Lincoln (Mo.),Lane,PUNT RETURNS,Darius,Hicks,NO,3
+15828118,10/1/2016,D-II,Lincoln (Mo.),Lane,PUNT RETURNS,Darius,Hicks,YDS,11
+15828119,10/1/2016,D-II,Lincoln (Mo.),Lane,PUNT RETURNS,Darius,Hicks,AVG,3.7
+15828120,10/1/2016,D-II,Lincoln (Mo.),Lane,PUNT RETURNS,Darius,Hicks,LONG,8
+15828121,10/1/2016,D-II,Lincoln (Mo.),Lane,PUNT RETURNS,A,Townsend,NO,1
+15828122,10/1/2016,D-II,Lincoln (Mo.),Lane,PUNT RETURNS,A,Townsend,YDS,11
+15828123,10/1/2016,D-II,Lincoln (Mo.),Lane,PUNT RETURNS,A,Townsend,AVG,11.0
+15828124,10/1/2016,D-II,Lincoln (Mo.),Lane,PUNT RETURNS,A,Townsend,LONG,0
+15828125,10/1/2016,D-II,Lincoln (Mo.),Lane,KICK RETURNS,Will,Randolph,NO,1
+15828126,10/1/2016,D-II,Lincoln (Mo.),Lane,KICK RETURNS,Will,Randolph,YDS,20
+15828127,10/1/2016,D-II,Lincoln (Mo.),Lane,KICK RETURNS,Will,Randolph,AVG,20.0
+15828128,10/1/2016,D-II,Lincoln (Mo.),Lane,KICK RETURNS,Will,Randolph,LONG,20
+15828129,10/1/2016,D-II,Lincoln (Mo.),Lane,KICK RETURNS,John,Kimbro,NO,1
+15828130,10/1/2016,D-II,Lincoln (Mo.),Lane,KICK RETURNS,John,Kimbro,YDS,7
+15828131,10/1/2016,D-II,Lincoln (Mo.),Lane,KICK RETURNS,John,Kimbro,AVG,7.0
+15828132,10/1/2016,D-II,Lincoln (Mo.),Lane,KICK RETURNS,John,Kimbro,LONG,7

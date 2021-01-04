@@ -1,0 +1,97 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+22473001,10/17/2015,D-III,Elmhurst,North Park,RUSHING,,Team,ATT,14
+22473002,10/17/2015,D-III,Elmhurst,North Park,RUSHING,,Team,YDS,84
+22473003,10/17/2015,D-III,Elmhurst,North Park,RUSHING,,Team,TD,0
+22473004,10/17/2015,D-III,Elmhurst,North Park,RUSHING,,Team,LONG,51
+22473005,10/17/2015,D-III,Elmhurst,North Park,RUSHING,T,Smith,ATT,7
+22473006,10/17/2015,D-III,Elmhurst,North Park,RUSHING,T,Smith,YDS,12
+22473007,10/17/2015,D-III,Elmhurst,North Park,RUSHING,T,Smith,TD,0
+22473008,10/17/2015,D-III,Elmhurst,North Park,RUSHING,T,Smith,LONG,9
+22473009,10/17/2015,D-III,Elmhurst,North Park,RUSHING,O,Hernandez,ATT,1
+22473010,10/17/2015,D-III,Elmhurst,North Park,RUSHING,O,Hernandez,YDS,3
+22473011,10/17/2015,D-III,Elmhurst,North Park,RUSHING,O,Hernandez,TD,0
+22473012,10/17/2015,D-III,Elmhurst,North Park,RUSHING,O,Hernandez,LONG,3
+22473013,10/17/2015,D-III,Elmhurst,North Park,RUSHING,,Team,ATT,1
+22473014,10/17/2015,D-III,Elmhurst,North Park,RUSHING,,Team,YDS,-6
+22473015,10/17/2015,D-III,Elmhurst,North Park,RUSHING,,Team,TD,0
+22473016,10/17/2015,D-III,Elmhurst,North Park,RUSHING,,Team,LONG,0
+22473017,10/17/2015,D-III,Elmhurst,North Park,PASSING,,Team,CP-ATT-INT,18-39-0
+22473018,10/17/2015,D-III,Elmhurst,North Park,PASSING,,Team,YDS,171
+22473019,10/17/2015,D-III,Elmhurst,North Park,PASSING,,Team,TD,2
+22473020,10/17/2015,D-III,Elmhurst,North Park,PASSING,,Team,LONG,20
+22473021,10/17/2015,D-III,Elmhurst,North Park,RECEIVING,,Team,REC,7
+22473022,10/17/2015,D-III,Elmhurst,North Park,RECEIVING,,Team,YDS,80
+22473023,10/17/2015,D-III,Elmhurst,North Park,RECEIVING,,Team,TD,1
+22473024,10/17/2015,D-III,Elmhurst,North Park,RECEIVING,,Team,LONG,18
+22473025,10/17/2015,D-III,Elmhurst,North Park,PUNTING,,Team,NO,10
+22473026,10/17/2015,D-III,Elmhurst,North Park,PUNTING,,Team,YDS,398
+22473027,10/17/2015,D-III,Elmhurst,North Park,PUNTING,,Team,AVG,39.8
+22473028,10/17/2015,D-III,Elmhurst,North Park,PUNTING,,Team,LONG,54
+22473029,10/17/2015,D-III,Elmhurst,North Park,KICK RETURNS,T,Smith,NO,4
+22473030,10/17/2015,D-III,Elmhurst,North Park,KICK RETURNS,T,Smith,YDS,71
+22473031,10/17/2015,D-III,Elmhurst,North Park,KICK RETURNS,T,Smith,AVG,17.8
+22473032,10/17/2015,D-III,Elmhurst,North Park,KICK RETURNS,T,Smith,LONG,31
+22473033,10/17/2015,D-III,North Park,Elmhurst,RUSHING,K,Spearman,ATT,14
+22473034,10/17/2015,D-III,North Park,Elmhurst,RUSHING,K,Spearman,YDS,49
+22473035,10/17/2015,D-III,North Park,Elmhurst,RUSHING,K,Spearman,TD,0
+22473036,10/17/2015,D-III,North Park,Elmhurst,RUSHING,K,Spearman,LONG,11
+22473037,10/17/2015,D-III,North Park,Elmhurst,RUSHING,Filo,Langkilde,ATT,10
+22473038,10/17/2015,D-III,North Park,Elmhurst,RUSHING,Filo,Langkilde,YDS,42
+22473039,10/17/2015,D-III,North Park,Elmhurst,RUSHING,Filo,Langkilde,TD,0
+22473040,10/17/2015,D-III,North Park,Elmhurst,RUSHING,Filo,Langkilde,LONG,11
+22473041,10/17/2015,D-III,North Park,Elmhurst,RUSHING,John,Wilkinson,ATT,3
+22473042,10/17/2015,D-III,North Park,Elmhurst,RUSHING,John,Wilkinson,YDS,4
+22473043,10/17/2015,D-III,North Park,Elmhurst,RUSHING,John,Wilkinson,TD,1
+22473044,10/17/2015,D-III,North Park,Elmhurst,RUSHING,John,Wilkinson,LONG,2
+22473045,10/17/2015,D-III,North Park,Elmhurst,RUSHING,Matthew,Chapp,ATT,3
+22473046,10/17/2015,D-III,North Park,Elmhurst,RUSHING,Matthew,Chapp,YDS,1
+22473047,10/17/2015,D-III,North Park,Elmhurst,RUSHING,Matthew,Chapp,TD,0
+22473048,10/17/2015,D-III,North Park,Elmhurst,RUSHING,Matthew,Chapp,LONG,1
+22473049,10/17/2015,D-III,North Park,Elmhurst,RUSHING,Jarelle,Shipp,ATT,1
+22473050,10/17/2015,D-III,North Park,Elmhurst,RUSHING,Jarelle,Shipp,YDS,-4
+22473051,10/17/2015,D-III,North Park,Elmhurst,RUSHING,Jarelle,Shipp,TD,0
+22473052,10/17/2015,D-III,North Park,Elmhurst,RUSHING,Jarelle,Shipp,LONG,0
+22473053,10/17/2015,D-III,North Park,Elmhurst,RUSHING,Td,Conway,ATT,7
+22473054,10/17/2015,D-III,North Park,Elmhurst,RUSHING,Td,Conway,YDS,-25
+22473055,10/17/2015,D-III,North Park,Elmhurst,RUSHING,Td,Conway,TD,0
+22473056,10/17/2015,D-III,North Park,Elmhurst,RUSHING,Td,Conway,LONG,5
+22473057,10/17/2015,D-III,North Park,Elmhurst,PASSING,Td,Conway,CP-ATT-INT,17-32-0
+22473058,10/17/2015,D-III,North Park,Elmhurst,PASSING,Td,Conway,YDS,272
+22473059,10/17/2015,D-III,North Park,Elmhurst,PASSING,Td,Conway,TD,1
+22473060,10/17/2015,D-III,North Park,Elmhurst,PASSING,Td,Conway,LONG,70
+22473061,10/17/2015,D-III,North Park,Elmhurst,RECEIVING,D,Childress,REC,5
+22473062,10/17/2015,D-III,North Park,Elmhurst,RECEIVING,D,Childress,YDS,130
+22473063,10/17/2015,D-III,North Park,Elmhurst,RECEIVING,D,Childress,TD,1
+22473064,10/17/2015,D-III,North Park,Elmhurst,RECEIVING,D,Childress,LONG,50
+22473065,10/17/2015,D-III,North Park,Elmhurst,RECEIVING,Dakota,Conway,REC,5
+22473066,10/17/2015,D-III,North Park,Elmhurst,RECEIVING,Dakota,Conway,YDS,82
+22473067,10/17/2015,D-III,North Park,Elmhurst,RECEIVING,Dakota,Conway,TD,0
+22473068,10/17/2015,D-III,North Park,Elmhurst,RECEIVING,Dakota,Conway,LONG,70
+22473069,10/17/2015,D-III,North Park,Elmhurst,RECEIVING,Anthony,Burton,REC,3
+22473070,10/17/2015,D-III,North Park,Elmhurst,RECEIVING,Anthony,Burton,YDS,34
+22473071,10/17/2015,D-III,North Park,Elmhurst,RECEIVING,Anthony,Burton,TD,0
+22473072,10/17/2015,D-III,North Park,Elmhurst,RECEIVING,Anthony,Burton,LONG,16
+22473073,10/17/2015,D-III,North Park,Elmhurst,RECEIVING,Jordan,Turner,REC,2
+22473074,10/17/2015,D-III,North Park,Elmhurst,RECEIVING,Jordan,Turner,YDS,21
+22473075,10/17/2015,D-III,North Park,Elmhurst,RECEIVING,Jordan,Turner,TD,0
+22473076,10/17/2015,D-III,North Park,Elmhurst,RECEIVING,Jordan,Turner,LONG,12
+22473077,10/17/2015,D-III,North Park,Elmhurst,RECEIVING,Filo,Langkilde,REC,1
+22473078,10/17/2015,D-III,North Park,Elmhurst,RECEIVING,Filo,Langkilde,YDS,7
+22473079,10/17/2015,D-III,North Park,Elmhurst,RECEIVING,Filo,Langkilde,TD,0
+22473080,10/17/2015,D-III,North Park,Elmhurst,RECEIVING,Filo,Langkilde,LONG,7
+22473081,10/17/2015,D-III,North Park,Elmhurst,RECEIVING,K,Spearman,REC,1
+22473082,10/17/2015,D-III,North Park,Elmhurst,RECEIVING,K,Spearman,YDS,-2
+22473083,10/17/2015,D-III,North Park,Elmhurst,RECEIVING,K,Spearman,TD,0
+22473084,10/17/2015,D-III,North Park,Elmhurst,RECEIVING,K,Spearman,LONG,0
+22473085,10/17/2015,D-III,North Park,Elmhurst,PUNTING,John,Gieseking,NO,6
+22473086,10/17/2015,D-III,North Park,Elmhurst,PUNTING,John,Gieseking,YDS,256
+22473087,10/17/2015,D-III,North Park,Elmhurst,PUNTING,John,Gieseking,AVG,42.7
+22473088,10/17/2015,D-III,North Park,Elmhurst,PUNTING,John,Gieseking,LONG,53
+22473089,10/17/2015,D-III,North Park,Elmhurst,KICK RETURNS,Anthony,Burton,NO,1
+22473090,10/17/2015,D-III,North Park,Elmhurst,KICK RETURNS,Anthony,Burton,YDS,16
+22473091,10/17/2015,D-III,North Park,Elmhurst,KICK RETURNS,Anthony,Burton,AVG,16.0
+22473092,10/17/2015,D-III,North Park,Elmhurst,KICK RETURNS,Anthony,Burton,LONG,16
+22473093,10/17/2015,D-III,North Park,Elmhurst,KICK RETURNS,Matthew,Chapp,NO,1
+22473094,10/17/2015,D-III,North Park,Elmhurst,KICK RETURNS,Matthew,Chapp,YDS,21
+22473095,10/17/2015,D-III,North Park,Elmhurst,KICK RETURNS,Matthew,Chapp,AVG,21.0
+22473096,10/17/2015,D-III,North Park,Elmhurst,KICK RETURNS,Matthew,Chapp,LONG,21

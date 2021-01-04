@@ -1,0 +1,448 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+25901001,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RUSHING,Kayden,Clements,ATT,11
+25901002,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RUSHING,Kayden,Clements,YDS,45
+25901003,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RUSHING,Kayden,Clements,TD,0
+25901004,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RUSHING,Kayden,Clements,LONG,14
+25901005,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RUSHING,Eli,Peters,ATT,19
+25901006,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RUSHING,Eli,Peters,YDS,29
+25901007,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RUSHING,Eli,Peters,TD,0
+25901008,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RUSHING,Eli,Peters,LONG,19
+25901009,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RUSHING,Chris,Anderson,ATT,5
+25901010,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RUSHING,Chris,Anderson,YDS,17
+25901011,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RUSHING,Chris,Anderson,TD,0
+25901012,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RUSHING,Chris,Anderson,LONG,6
+25901013,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RUSHING,Jabar,Byrd,ATT,9
+25901014,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RUSHING,Jabar,Byrd,YDS,17
+25901015,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RUSHING,Jabar,Byrd,TD,1
+25901016,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RUSHING,Jabar,Byrd,LONG,9
+25901017,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RUSHING,Kanoa,Iwasaki,ATT,1
+25901018,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RUSHING,Kanoa,Iwasaki,YDS,7
+25901019,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RUSHING,Kanoa,Iwasaki,TD,0
+25901020,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RUSHING,Kanoa,Iwasaki,LONG,0
+25901021,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RUSHING,Ty,Riley,ATT,1
+25901022,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RUSHING,Ty,Riley,YDS,6
+25901023,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RUSHING,Ty,Riley,TD,0
+25901024,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RUSHING,Ty,Riley,LONG,6
+25901025,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RUSHING,Hayden,Smith,ATT,3
+25901026,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RUSHING,Hayden,Smith,YDS,-18
+25901027,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RUSHING,Hayden,Smith,TD,0
+25901028,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RUSHING,Hayden,Smith,LONG,0
+25901029,9/15/2018,D-III,Cal Lutheran,Pacific (OR),PASSING,Eli,Peters,CP-ATT-INT,12-19-0
+25901030,9/15/2018,D-III,Cal Lutheran,Pacific (OR),PASSING,Eli,Peters,YDS,119
+25901031,9/15/2018,D-III,Cal Lutheran,Pacific (OR),PASSING,Eli,Peters,TD,0
+25901032,9/15/2018,D-III,Cal Lutheran,Pacific (OR),PASSING,Eli,Peters,LONG,34
+25901033,9/15/2018,D-III,Cal Lutheran,Pacific (OR),PASSING,Hayden,Smith,CP-ATT-INT,5-10-0
+25901034,9/15/2018,D-III,Cal Lutheran,Pacific (OR),PASSING,Hayden,Smith,YDS,66
+25901035,9/15/2018,D-III,Cal Lutheran,Pacific (OR),PASSING,Hayden,Smith,TD,1
+25901036,9/15/2018,D-III,Cal Lutheran,Pacific (OR),PASSING,Hayden,Smith,LONG,35
+25901037,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RECEIVING,P,Mclurkin,REC,7
+25901038,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RECEIVING,P,Mclurkin,YDS,84
+25901039,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RECEIVING,P,Mclurkin,TD,0
+25901040,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RECEIVING,P,Mclurkin,LONG,34
+25901041,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RECEIVING,Ty,Riley,REC,5
+25901042,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RECEIVING,Ty,Riley,YDS,69
+25901043,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RECEIVING,Ty,Riley,TD,0
+25901044,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RECEIVING,Ty,Riley,LONG,35
+25901045,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RECEIVING,Jabar,Byrd,REC,2
+25901046,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RECEIVING,Jabar,Byrd,YDS,17
+25901047,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RECEIVING,Jabar,Byrd,TD,0
+25901048,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RECEIVING,Jabar,Byrd,LONG,10
+25901049,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RECEIVING,U,Blackshear,REC,1
+25901050,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RECEIVING,U,Blackshear,YDS,8
+25901051,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RECEIVING,U,Blackshear,TD,1
+25901052,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RECEIVING,U,Blackshear,LONG,8
+25901053,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RECEIVING,Kanoa,Iwasaki,REC,1
+25901054,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RECEIVING,Kanoa,Iwasaki,YDS,5
+25901055,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RECEIVING,Kanoa,Iwasaki,TD,0
+25901056,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RECEIVING,Kanoa,Iwasaki,LONG,5
+25901057,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RECEIVING,Chris,Anderson,REC,1
+25901058,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RECEIVING,Chris,Anderson,YDS,2
+25901059,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RECEIVING,Chris,Anderson,TD,0
+25901060,9/15/2018,D-III,Cal Lutheran,Pacific (OR),RECEIVING,Chris,Anderson,LONG,2
+25901061,9/15/2018,D-III,Cal Lutheran,Pacific (OR),PUNTING,Dominick,Grimm,NO,5
+25901062,9/15/2018,D-III,Cal Lutheran,Pacific (OR),PUNTING,Dominick,Grimm,YDS,169
+25901063,9/15/2018,D-III,Cal Lutheran,Pacific (OR),PUNTING,Dominick,Grimm,AVG,33.8
+25901064,9/15/2018,D-III,Cal Lutheran,Pacific (OR),PUNTING,Dominick,Grimm,LONG,41
+25901065,9/15/2018,D-III,Cal Lutheran,Pacific (OR),PUNTING,,Team,NO,1
+25901066,9/15/2018,D-III,Cal Lutheran,Pacific (OR),PUNTING,,Team,YDS,0
+25901067,9/15/2018,D-III,Cal Lutheran,Pacific (OR),PUNTING,,Team,AVG,0.0
+25901068,9/15/2018,D-III,Cal Lutheran,Pacific (OR),PUNTING,,Team,LONG,0
+25901069,9/15/2018,D-III,Cal Lutheran,Pacific (OR),PUNT RETURNS,Cameron,James,NO,4
+25901070,9/15/2018,D-III,Cal Lutheran,Pacific (OR),PUNT RETURNS,Cameron,James,YDS,105
+25901071,9/15/2018,D-III,Cal Lutheran,Pacific (OR),PUNT RETURNS,Cameron,James,AVG,26.2
+25901072,9/15/2018,D-III,Cal Lutheran,Pacific (OR),PUNT RETURNS,Cameron,James,LONG,51
+25901073,9/15/2018,D-III,Cal Lutheran,Pacific (OR),PUNT RETURNS,Tim,Lomicka,NO,1
+25901074,9/15/2018,D-III,Cal Lutheran,Pacific (OR),PUNT RETURNS,Tim,Lomicka,YDS,1
+25901075,9/15/2018,D-III,Cal Lutheran,Pacific (OR),PUNT RETURNS,Tim,Lomicka,AVG,1.0
+25901076,9/15/2018,D-III,Cal Lutheran,Pacific (OR),PUNT RETURNS,Tim,Lomicka,LONG,2
+25901077,9/15/2018,D-III,Cal Lutheran,Pacific (OR),PUNT RETURNS,Kayden,Clements,NO,1
+25901078,9/15/2018,D-III,Cal Lutheran,Pacific (OR),PUNT RETURNS,Kayden,Clements,YDS,15
+25901079,9/15/2018,D-III,Cal Lutheran,Pacific (OR),PUNT RETURNS,Kayden,Clements,AVG,15.0
+25901080,9/15/2018,D-III,Cal Lutheran,Pacific (OR),PUNT RETURNS,Kayden,Clements,LONG,0
+25901081,9/15/2018,D-III,Cal Lutheran,Pacific (OR),KICK RETURNS,Cameron,James,NO,1
+25901082,9/15/2018,D-III,Cal Lutheran,Pacific (OR),KICK RETURNS,Cameron,James,YDS,28
+25901083,9/15/2018,D-III,Cal Lutheran,Pacific (OR),KICK RETURNS,Cameron,James,AVG,28.0
+25901084,9/15/2018,D-III,Cal Lutheran,Pacific (OR),KICK RETURNS,Cameron,James,LONG,28
+25901085,9/15/2018,D-III,Cal Lutheran,Pacific (OR),KICK RETURNS,Chris,Anderson,NO,1
+25901086,9/15/2018,D-III,Cal Lutheran,Pacific (OR),KICK RETURNS,Chris,Anderson,YDS,8
+25901087,9/15/2018,D-III,Cal Lutheran,Pacific (OR),KICK RETURNS,Chris,Anderson,AVG,8.0
+25901088,9/15/2018,D-III,Cal Lutheran,Pacific (OR),KICK RETURNS,Chris,Anderson,LONG,8
+25901089,9/15/2018,D-III,Cal Lutheran,Pacific (OR),KICK RETURNS,Eli,Peters,NO,1
+25901090,9/15/2018,D-III,Cal Lutheran,Pacific (OR),KICK RETURNS,Eli,Peters,YDS,15
+25901091,9/15/2018,D-III,Cal Lutheran,Pacific (OR),KICK RETURNS,Eli,Peters,AVG,15.0
+25901092,9/15/2018,D-III,Cal Lutheran,Pacific (OR),KICK RETURNS,Eli,Peters,LONG,0
+25901093,9/15/2018,D-III,Cal Lutheran,Pacific (OR),KICK RETURNS,Tim,Lomicka,NO,2
+25901094,9/15/2018,D-III,Cal Lutheran,Pacific (OR),KICK RETURNS,Tim,Lomicka,YDS,51
+25901095,9/15/2018,D-III,Cal Lutheran,Pacific (OR),KICK RETURNS,Tim,Lomicka,AVG,25.5
+25901096,9/15/2018,D-III,Cal Lutheran,Pacific (OR),KICK RETURNS,Tim,Lomicka,LONG,34
+25901097,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Cameron,James,TOT,1
+25901098,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Cameron,James,SOLO,
+25901099,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Cameron,James,SACKS,1
+25901100,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Cameron,James,TFL,
+25901101,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Cameron,James,INT,
+25901102,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Cameron,James,FF,
+25901103,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Cameron,James,FR,
+25901104,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Zion,Brown,TOT,3
+25901105,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Zion,Brown,SOLO,
+25901106,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Zion,Brown,SACKS,3
+25901107,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Zion,Brown,TFL,
+25901108,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Zion,Brown,INT,
+25901109,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Zion,Brown,FF,
+25901110,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Zion,Brown,FR,1
+25901111,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Caleb,Casimere,TOT,3
+25901112,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Caleb,Casimere,SOLO,
+25901113,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Caleb,Casimere,SACKS,1
+25901114,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Caleb,Casimere,TFL,
+25901115,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Caleb,Casimere,INT,
+25901116,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Caleb,Casimere,FF,
+25901117,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Caleb,Casimere,FR,0
+25901118,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,A,Rios-carlsen,TOT,4
+25901119,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,A,Rios-carlsen,SOLO,
+25901120,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,A,Rios-carlsen,SACKS,2
+25901121,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,A,Rios-carlsen,TFL,
+25901122,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,A,Rios-carlsen,INT,
+25901123,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,A,Rios-carlsen,FF,
+25901124,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,A,Rios-carlsen,FR,1
+25901125,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Jd,Lang,TOT,1
+25901126,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Jd,Lang,SOLO,
+25901127,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Jd,Lang,SACKS,1
+25901128,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Jd,Lang,TFL,
+25901129,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Jd,Lang,INT,
+25901130,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Jd,Lang,FF,
+25901131,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Jd,Lang,FR,
+25901132,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Omari,Lyles,TOT,1
+25901133,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Omari,Lyles,SOLO,
+25901134,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Omari,Lyles,SACKS,1
+25901135,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Omari,Lyles,TFL,
+25901136,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Omari,Lyles,INT,
+25901137,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Omari,Lyles,FF,
+25901138,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Omari,Lyles,FR,
+25901139,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Ethan,Pulley,TOT,10
+25901140,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Ethan,Pulley,SOLO,
+25901141,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Ethan,Pulley,SACKS,9
+25901142,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Ethan,Pulley,TFL,
+25901143,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Ethan,Pulley,INT,1
+25901144,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Ethan,Pulley,FF,
+25901145,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Ethan,Pulley,FR,2
+25901146,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,V,Lightner,TOT,1
+25901147,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,V,Lightner,SOLO,
+25901148,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,V,Lightner,SACKS,1
+25901149,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,V,Lightner,TFL,
+25901150,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,V,Lightner,INT,
+25901151,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,V,Lightner,FF,
+25901152,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,V,Lightner,FR,
+25901153,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Ty,Lozano,TOT,7
+25901154,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Ty,Lozano,SOLO,
+25901155,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Ty,Lozano,SACKS,6
+25901156,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Ty,Lozano,TFL,
+25901157,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Ty,Lozano,INT,
+25901158,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Ty,Lozano,FF,
+25901159,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Ty,Lozano,FR,1
+25901160,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Obasi,Dees,TOT,1
+25901161,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Obasi,Dees,SOLO,
+25901162,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Obasi,Dees,SACKS,0
+25901163,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Obasi,Dees,TFL,
+25901164,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Obasi,Dees,INT,
+25901165,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Obasi,Dees,FF,
+25901166,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Obasi,Dees,FR,
+25901167,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Mason,Evans,TOT,6
+25901168,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Mason,Evans,SOLO,
+25901169,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Mason,Evans,SACKS,5
+25901170,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Mason,Evans,TFL,
+25901171,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Mason,Evans,INT,
+25901172,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Mason,Evans,FF,
+25901173,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Mason,Evans,FR,
+25901174,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,E,Amaugo,TOT,1
+25901175,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,E,Amaugo,SOLO,
+25901176,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,E,Amaugo,SACKS,0
+25901177,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,E,Amaugo,TFL,1
+25901178,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,E,Amaugo,INT,
+25901179,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,E,Amaugo,FF,
+25901180,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,E,Amaugo,FR,
+25901181,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Tecoy,Porter,TOT,8
+25901182,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Tecoy,Porter,SOLO,
+25901183,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Tecoy,Porter,SACKS,7
+25901184,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Tecoy,Porter,TFL,
+25901185,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Tecoy,Porter,INT,
+25901186,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Tecoy,Porter,FF,
+25901187,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Tecoy,Porter,FR,2
+25901188,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,T,Sagapolu,TOT,1
+25901189,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,T,Sagapolu,SOLO,
+25901190,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,T,Sagapolu,SACKS,1
+25901191,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,T,Sagapolu,TFL,
+25901192,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,T,Sagapolu,INT,
+25901193,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,T,Sagapolu,FF,
+25901194,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,T,Sagapolu,FR,
+25901195,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,T,Flanigan,TOT,1
+25901196,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,T,Flanigan,SOLO,
+25901197,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,T,Flanigan,SACKS,1
+25901198,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,T,Flanigan,TFL,
+25901199,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,T,Flanigan,INT,
+25901200,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,T,Flanigan,FF,
+25901201,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,T,Flanigan,FR,1
+25901202,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Jw,Windsor,TOT,3
+25901203,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Jw,Windsor,SOLO,
+25901204,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Jw,Windsor,SACKS,3
+25901205,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Jw,Windsor,TFL,
+25901206,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Jw,Windsor,INT,
+25901207,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Jw,Windsor,FF,
+25901208,9/15/2018,D-III,Cal Lutheran,Pacific (OR),DEFENSE,Jw,Windsor,FR,2
+25901209,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RUSHING,Josh,Harris,ATT,18
+25901210,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RUSHING,Josh,Harris,YDS,75
+25901211,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RUSHING,Josh,Harris,TD,1
+25901212,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RUSHING,Josh,Harris,LONG,25
+25901213,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RUSHING,Ben,Rosen,ATT,4
+25901214,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RUSHING,Ben,Rosen,YDS,10
+25901215,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RUSHING,Ben,Rosen,TD,0
+25901216,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RUSHING,Ben,Rosen,LONG,13
+25901217,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RUSHING,Ty,Hargis,ATT,1
+25901218,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RUSHING,Ty,Hargis,YDS,3
+25901219,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RUSHING,Ty,Hargis,TD,0
+25901220,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RUSHING,Ty,Hargis,LONG,3
+25901221,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RUSHING,Storm,Lotomau,ATT,1
+25901222,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RUSHING,Storm,Lotomau,YDS,3
+25901223,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RUSHING,Storm,Lotomau,TD,0
+25901224,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RUSHING,Storm,Lotomau,LONG,3
+25901225,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RUSHING,,Team,ATT,3
+25901226,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RUSHING,,Team,YDS,-7
+25901227,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RUSHING,,Team,TD,0
+25901228,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RUSHING,,Team,LONG,0
+25901229,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RUSHING,Jt,Greenough,ATT,5
+25901230,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RUSHING,Jt,Greenough,YDS,-14
+25901231,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RUSHING,Jt,Greenough,TD,0
+25901232,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RUSHING,Jt,Greenough,LONG,6
+25901233,9/15/2018,D-III,Pacific (OR),Cal Lutheran,PASSING,Jt,Greenough,CP-ATT-INT,9-19-0
+25901234,9/15/2018,D-III,Pacific (OR),Cal Lutheran,PASSING,Jt,Greenough,YDS,58
+25901235,9/15/2018,D-III,Pacific (OR),Cal Lutheran,PASSING,Jt,Greenough,TD,0
+25901236,9/15/2018,D-III,Pacific (OR),Cal Lutheran,PASSING,Jt,Greenough,LONG,14
+25901237,9/15/2018,D-III,Pacific (OR),Cal Lutheran,PASSING,Bret,Yapjr,CP-ATT-INT,3-3-0
+25901238,9/15/2018,D-III,Pacific (OR),Cal Lutheran,PASSING,Bret,Yapjr,YDS,46
+25901239,9/15/2018,D-III,Pacific (OR),Cal Lutheran,PASSING,Bret,Yapjr,TD,0
+25901240,9/15/2018,D-III,Pacific (OR),Cal Lutheran,PASSING,Bret,Yapjr,LONG,31
+25901241,9/15/2018,D-III,Pacific (OR),Cal Lutheran,PASSING,Josh,Harris,CP-ATT-INT,1-2-0
+25901242,9/15/2018,D-III,Pacific (OR),Cal Lutheran,PASSING,Josh,Harris,YDS,3
+25901243,9/15/2018,D-III,Pacific (OR),Cal Lutheran,PASSING,Josh,Harris,TD,1
+25901244,9/15/2018,D-III,Pacific (OR),Cal Lutheran,PASSING,Josh,Harris,LONG,3
+25901245,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RECEIVING,H,Vonalmen,REC,2
+25901246,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RECEIVING,H,Vonalmen,YDS,37
+25901247,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RECEIVING,H,Vonalmen,TD,0
+25901248,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RECEIVING,H,Vonalmen,LONG,31
+25901249,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RECEIVING,Ty,Hargis,REC,3
+25901250,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RECEIVING,Ty,Hargis,YDS,26
+25901251,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RECEIVING,Ty,Hargis,TD,0
+25901252,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RECEIVING,Ty,Hargis,LONG,12
+25901253,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RECEIVING,G,Hettinger,REC,3
+25901254,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RECEIVING,G,Hettinger,YDS,18
+25901255,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RECEIVING,G,Hettinger,TD,0
+25901256,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RECEIVING,G,Hettinger,LONG,9
+25901257,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RECEIVING,Ben,Rosen,REC,2
+25901258,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RECEIVING,Ben,Rosen,YDS,15
+25901259,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RECEIVING,Ben,Rosen,TD,0
+25901260,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RECEIVING,Ben,Rosen,LONG,14
+25901261,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RECEIVING,Josh,Harris,REC,1
+25901262,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RECEIVING,Josh,Harris,YDS,6
+25901263,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RECEIVING,Josh,Harris,TD,0
+25901264,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RECEIVING,Josh,Harris,LONG,6
+25901265,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RECEIVING,Jack,Lopez,REC,1
+25901266,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RECEIVING,Jack,Lopez,YDS,3
+25901267,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RECEIVING,Jack,Lopez,TD,1
+25901268,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RECEIVING,Jack,Lopez,LONG,3
+25901269,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RECEIVING,Storm,Lotomau,REC,1
+25901270,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RECEIVING,Storm,Lotomau,YDS,2
+25901271,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RECEIVING,Storm,Lotomau,TD,0
+25901272,9/15/2018,D-III,Pacific (OR),Cal Lutheran,RECEIVING,Storm,Lotomau,LONG,2
+25901273,9/15/2018,D-III,Pacific (OR),Cal Lutheran,PUNTING,Dillon,Savage,NO,8
+25901274,9/15/2018,D-III,Pacific (OR),Cal Lutheran,PUNTING,Dillon,Savage,YDS,314
+25901275,9/15/2018,D-III,Pacific (OR),Cal Lutheran,PUNTING,Dillon,Savage,AVG,39.3
+25901276,9/15/2018,D-III,Pacific (OR),Cal Lutheran,PUNTING,Dillon,Savage,LONG,47
+25901277,9/15/2018,D-III,Pacific (OR),Cal Lutheran,PUNTING,,Team,NO,1
+25901278,9/15/2018,D-III,Pacific (OR),Cal Lutheran,PUNTING,,Team,YDS,0
+25901279,9/15/2018,D-III,Pacific (OR),Cal Lutheran,PUNTING,,Team,AVG,0.0
+25901280,9/15/2018,D-III,Pacific (OR),Cal Lutheran,PUNTING,,Team,LONG,0
+25901281,9/15/2018,D-III,Pacific (OR),Cal Lutheran,PUNT RETURNS,K,Nikolaisen,NO,1
+25901282,9/15/2018,D-III,Pacific (OR),Cal Lutheran,PUNT RETURNS,K,Nikolaisen,YDS,0
+25901283,9/15/2018,D-III,Pacific (OR),Cal Lutheran,PUNT RETURNS,K,Nikolaisen,AVG,0.0
+25901284,9/15/2018,D-III,Pacific (OR),Cal Lutheran,PUNT RETURNS,K,Nikolaisen,LONG,0
+25901285,9/15/2018,D-III,Pacific (OR),Cal Lutheran,PUNT RETURNS,Chad,Aragon,NO,2
+25901286,9/15/2018,D-III,Pacific (OR),Cal Lutheran,PUNT RETURNS,Chad,Aragon,YDS,7
+25901287,9/15/2018,D-III,Pacific (OR),Cal Lutheran,PUNT RETURNS,Chad,Aragon,AVG,3.5
+25901288,9/15/2018,D-III,Pacific (OR),Cal Lutheran,PUNT RETURNS,Chad,Aragon,LONG,4
+25901289,9/15/2018,D-III,Pacific (OR),Cal Lutheran,PUNT RETURNS,,Team,NO,1
+25901290,9/15/2018,D-III,Pacific (OR),Cal Lutheran,PUNT RETURNS,,Team,YDS,8
+25901291,9/15/2018,D-III,Pacific (OR),Cal Lutheran,PUNT RETURNS,,Team,AVG,8.0
+25901292,9/15/2018,D-III,Pacific (OR),Cal Lutheran,PUNT RETURNS,,Team,LONG,8
+25901293,9/15/2018,D-III,Pacific (OR),Cal Lutheran,PUNT RETURNS,Chase,Hoffman,NO,0
+25901294,9/15/2018,D-III,Pacific (OR),Cal Lutheran,PUNT RETURNS,Chase,Hoffman,YDS,46
+25901295,9/15/2018,D-III,Pacific (OR),Cal Lutheran,PUNT RETURNS,Chase,Hoffman,AVG,-
+25901296,9/15/2018,D-III,Pacific (OR),Cal Lutheran,PUNT RETURNS,Chase,Hoffman,LONG,46
+25901297,9/15/2018,D-III,Pacific (OR),Cal Lutheran,KICK RETURNS,Ty,Hargis,NO,2
+25901298,9/15/2018,D-III,Pacific (OR),Cal Lutheran,KICK RETURNS,Ty,Hargis,YDS,25
+25901299,9/15/2018,D-III,Pacific (OR),Cal Lutheran,KICK RETURNS,Ty,Hargis,AVG,12.5
+25901300,9/15/2018,D-III,Pacific (OR),Cal Lutheran,KICK RETURNS,Ty,Hargis,LONG,25
+25901301,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Wyatt,Ma'a,TOT,4
+25901302,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Wyatt,Ma'a,SOLO,
+25901303,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Wyatt,Ma'a,SACKS,3
+25901304,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Wyatt,Ma'a,TFL,
+25901305,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Wyatt,Ma'a,INT,
+25901306,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Wyatt,Ma'a,FF,
+25901307,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Wyatt,Ma'a,FR,0
+25901308,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,K,Nikolaisen,TOT,6
+25901309,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,K,Nikolaisen,SOLO,
+25901310,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,K,Nikolaisen,SACKS,6
+25901311,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,K,Nikolaisen,TFL,
+25901312,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,K,Nikolaisen,INT,1
+25901313,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,K,Nikolaisen,FF,
+25901314,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,K,Nikolaisen,FR,
+25901315,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Tristan,Smith,TOT,8
+25901316,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Tristan,Smith,SOLO,
+25901317,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Tristan,Smith,SACKS,8
+25901318,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Tristan,Smith,TFL,
+25901319,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Tristan,Smith,INT,
+25901320,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Tristan,Smith,FF,
+25901321,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Tristan,Smith,FR,5
+25901322,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Malik,Smith,TOT,1
+25901323,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Malik,Smith,SOLO,
+25901324,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Malik,Smith,SACKS,1
+25901325,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Malik,Smith,TFL,
+25901326,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Malik,Smith,INT,
+25901327,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Malik,Smith,FF,
+25901328,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Malik,Smith,FR,
+25901329,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Cole,Thomas,TOT,8
+25901330,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Cole,Thomas,SOLO,
+25901331,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Cole,Thomas,SACKS,8
+25901332,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Cole,Thomas,TFL,1
+25901333,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Cole,Thomas,INT,
+25901334,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Cole,Thomas,FF,
+25901335,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Cole,Thomas,FR,
+25901336,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Declan,Brown,TOT,4
+25901337,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Declan,Brown,SOLO,
+25901338,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Declan,Brown,SACKS,3
+25901339,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Declan,Brown,TFL,
+25901340,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Declan,Brown,INT,1
+25901341,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Declan,Brown,FF,
+25901342,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Declan,Brown,FR,1
+25901343,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Alika,Sarono,TOT,6
+25901344,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Alika,Sarono,SOLO,
+25901345,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Alika,Sarono,SACKS,4
+25901346,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Alika,Sarono,TFL,
+25901347,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Alika,Sarono,INT,1
+25901348,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Alika,Sarono,FF,
+25901349,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Alika,Sarono,FR,0
+25901350,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Ryan,Sinkking,TOT,7
+25901351,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Ryan,Sinkking,SOLO,
+25901352,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Ryan,Sinkking,SACKS,5
+25901353,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Ryan,Sinkking,TFL,
+25901354,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Ryan,Sinkking,INT,
+25901355,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Ryan,Sinkking,FF,
+25901356,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Ryan,Sinkking,FR,2
+25901357,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Chad,Farias,TOT,6
+25901358,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Chad,Farias,SOLO,
+25901359,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Chad,Farias,SACKS,6
+25901360,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Chad,Farias,TFL,
+25901361,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Chad,Farias,INT,
+25901362,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Chad,Farias,FF,
+25901363,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Chad,Farias,FR,
+25901364,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Chase,Hoffman,TOT,4
+25901365,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Chase,Hoffman,SOLO,
+25901366,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Chase,Hoffman,SACKS,4
+25901367,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Chase,Hoffman,TFL,
+25901368,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Chase,Hoffman,INT,1
+25901369,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Chase,Hoffman,FF,
+25901370,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Chase,Hoffman,FR,
+25901371,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Jordan,Hall,TOT,4
+25901372,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Jordan,Hall,SOLO,
+25901373,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Jordan,Hall,SACKS,2
+25901374,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Jordan,Hall,TFL,
+25901375,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Jordan,Hall,INT,
+25901376,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Jordan,Hall,FF,
+25901377,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Jordan,Hall,FR,0
+25901378,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Cameron,Ginn,TOT,4
+25901379,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Cameron,Ginn,SOLO,
+25901380,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Cameron,Ginn,SACKS,4
+25901381,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Cameron,Ginn,TFL,
+25901382,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Cameron,Ginn,INT,
+25901383,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Cameron,Ginn,FF,
+25901384,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Cameron,Ginn,FR,2
+25901385,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Carlos,Vasquez,TOT,1
+25901386,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Carlos,Vasquez,SOLO,
+25901387,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Carlos,Vasquez,SACKS,1
+25901388,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Carlos,Vasquez,TFL,
+25901389,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Carlos,Vasquez,INT,
+25901390,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Carlos,Vasquez,FF,
+25901391,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Carlos,Vasquez,FR,
+25901392,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Ian,Morford,TOT,2
+25901393,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Ian,Morford,SOLO,
+25901394,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Ian,Morford,SACKS,1
+25901395,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Ian,Morford,TFL,
+25901396,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Ian,Morford,INT,
+25901397,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Ian,Morford,FF,
+25901398,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Ian,Morford,FR,
+25901399,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,G,Willmon,TOT,4
+25901400,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,G,Willmon,SOLO,
+25901401,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,G,Willmon,SACKS,2
+25901402,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,G,Willmon,TFL,
+25901403,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,G,Willmon,INT,
+25901404,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,G,Willmon,FF,
+25901405,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,G,Willmon,FR,0
+25901406,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Tui,Tuitele,TOT,4
+25901407,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Tui,Tuitele,SOLO,
+25901408,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Tui,Tuitele,SACKS,1
+25901409,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Tui,Tuitele,TFL,
+25901410,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Tui,Tuitele,INT,
+25901411,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Tui,Tuitele,FF,
+25901412,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Tui,Tuitele,FR,1
+25901413,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Dillon,Savage,TOT,1
+25901414,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Dillon,Savage,SOLO,
+25901415,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Dillon,Savage,SACKS,1
+25901416,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Dillon,Savage,TFL,
+25901417,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Dillon,Savage,INT,
+25901418,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Dillon,Savage,FF,
+25901419,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Dillon,Savage,FR,
+25901420,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Bobby,Ulrich,TOT,4
+25901421,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Bobby,Ulrich,SOLO,
+25901422,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Bobby,Ulrich,SACKS,4
+25901423,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Bobby,Ulrich,TFL,1
+25901424,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Bobby,Ulrich,INT,
+25901425,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Bobby,Ulrich,FF,
+25901426,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Bobby,Ulrich,FR,2
+25901427,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,B,Laughlin,TOT,
+25901428,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,B,Laughlin,SOLO,
+25901429,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,B,Laughlin,SACKS,
+25901430,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,B,Laughlin,TFL,1
+25901431,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,B,Laughlin,INT,
+25901432,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,B,Laughlin,FF,
+25901433,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,B,Laughlin,FR,
+25901434,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Wyatt,Rech,TOT,1
+25901435,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Wyatt,Rech,SOLO,
+25901436,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Wyatt,Rech,SACKS,1
+25901437,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Wyatt,Rech,TFL,
+25901438,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Wyatt,Rech,INT,
+25901439,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Wyatt,Rech,FF,
+25901440,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,Wyatt,Rech,FR,
+25901441,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,,Team,TOT,1
+25901442,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,,Team,SOLO,
+25901443,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,,Team,SACKS,1
+25901444,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,,Team,TFL,
+25901445,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,,Team,INT,1
+25901446,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,,Team,FF,
+25901447,9/15/2018,D-III,Pacific (OR),Cal Lutheran,DEFENSE,,Team,FR,

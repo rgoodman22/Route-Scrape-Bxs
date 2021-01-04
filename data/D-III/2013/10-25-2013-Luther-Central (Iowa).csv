@@ -1,0 +1,133 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+20073001,10/25/2013,D-III,Luther,Central (Iowa),RUSHING,Jj,Sirios,ATT,14
+20073002,10/25/2013,D-III,Luther,Central (Iowa),RUSHING,Jj,Sirios,YDS,79
+20073003,10/25/2013,D-III,Luther,Central (Iowa),RUSHING,Jj,Sirios,TD,1
+20073004,10/25/2013,D-III,Luther,Central (Iowa),RUSHING,Jj,Sirios,LONG,35
+20073005,10/25/2013,D-III,Luther,Central (Iowa),RUSHING,Nathan,Bloechl,ATT,7
+20073006,10/25/2013,D-III,Luther,Central (Iowa),RUSHING,Nathan,Bloechl,YDS,-1
+20073007,10/25/2013,D-III,Luther,Central (Iowa),RUSHING,Nathan,Bloechl,TD,0
+20073008,10/25/2013,D-III,Luther,Central (Iowa),RUSHING,Nathan,Bloechl,LONG,8
+20073009,10/25/2013,D-III,Luther,Central (Iowa),RUSHING,Tim,Ostby,ATT,9
+20073010,10/25/2013,D-III,Luther,Central (Iowa),RUSHING,Tim,Ostby,YDS,44
+20073011,10/25/2013,D-III,Luther,Central (Iowa),RUSHING,Tim,Ostby,TD,0
+20073012,10/25/2013,D-III,Luther,Central (Iowa),RUSHING,Tim,Ostby,LONG,16
+20073013,10/25/2013,D-III,Luther,Central (Iowa),RUSHING,Josh,Vos,ATT,14
+20073014,10/25/2013,D-III,Luther,Central (Iowa),RUSHING,Josh,Vos,YDS,62
+20073015,10/25/2013,D-III,Luther,Central (Iowa),RUSHING,Josh,Vos,TD,1
+20073016,10/25/2013,D-III,Luther,Central (Iowa),RUSHING,Josh,Vos,LONG,29
+20073017,10/25/2013,D-III,Luther,Central (Iowa),RUSHING,Alex,Hain,ATT,6
+20073018,10/25/2013,D-III,Luther,Central (Iowa),RUSHING,Alex,Hain,YDS,13
+20073019,10/25/2013,D-III,Luther,Central (Iowa),RUSHING,Alex,Hain,TD,0
+20073020,10/25/2013,D-III,Luther,Central (Iowa),RUSHING,Alex,Hain,LONG,15
+20073021,10/25/2013,D-III,Luther,Central (Iowa),RUSHING,Christian,Moore,ATT,3
+20073022,10/25/2013,D-III,Luther,Central (Iowa),RUSHING,Christian,Moore,YDS,6
+20073023,10/25/2013,D-III,Luther,Central (Iowa),RUSHING,Christian,Moore,TD,0
+20073024,10/25/2013,D-III,Luther,Central (Iowa),RUSHING,Christian,Moore,LONG,4
+20073025,10/25/2013,D-III,Luther,Central (Iowa),RUSHING,Adelmo,Ciucci,ATT,2
+20073026,10/25/2013,D-III,Luther,Central (Iowa),RUSHING,Adelmo,Ciucci,YDS,2
+20073027,10/25/2013,D-III,Luther,Central (Iowa),RUSHING,Adelmo,Ciucci,TD,0
+20073028,10/25/2013,D-III,Luther,Central (Iowa),RUSHING,Adelmo,Ciucci,LONG,3
+20073029,10/25/2013,D-III,Luther,Central (Iowa),RUSHING,,Team,ATT,1
+20073030,10/25/2013,D-III,Luther,Central (Iowa),RUSHING,,Team,YDS,-17
+20073031,10/25/2013,D-III,Luther,Central (Iowa),RUSHING,,Team,TD,0
+20073032,10/25/2013,D-III,Luther,Central (Iowa),RUSHING,,Team,LONG,0
+20073033,10/25/2013,D-III,Luther,Central (Iowa),PASSING,Jj,Sirios,CP-ATT-INT,1-1-0
+20073034,10/25/2013,D-III,Luther,Central (Iowa),PASSING,Jj,Sirios,YDS,7
+20073035,10/25/2013,D-III,Luther,Central (Iowa),PASSING,Jj,Sirios,TD,0
+20073036,10/25/2013,D-III,Luther,Central (Iowa),PASSING,Jj,Sirios,LONG,7
+20073037,10/25/2013,D-III,Luther,Central (Iowa),PASSING,Nathan,Bloechl,CP-ATT-INT,2-7-0
+20073038,10/25/2013,D-III,Luther,Central (Iowa),PASSING,Nathan,Bloechl,YDS,13
+20073039,10/25/2013,D-III,Luther,Central (Iowa),PASSING,Nathan,Bloechl,TD,0
+20073040,10/25/2013,D-III,Luther,Central (Iowa),PASSING,Nathan,Bloechl,LONG,8
+20073041,10/25/2013,D-III,Luther,Central (Iowa),RECEIVING,Matt,Jaronik,REC,3
+20073042,10/25/2013,D-III,Luther,Central (Iowa),RECEIVING,Matt,Jaronik,YDS,20
+20073043,10/25/2013,D-III,Luther,Central (Iowa),RECEIVING,Matt,Jaronik,TD,0
+20073044,10/25/2013,D-III,Luther,Central (Iowa),RECEIVING,Matt,Jaronik,LONG,8
+20073045,10/25/2013,D-III,Luther,Central (Iowa),PUNTING,Jon,Cochrane,NO,3
+20073046,10/25/2013,D-III,Luther,Central (Iowa),PUNTING,Jon,Cochrane,YDS,97
+20073047,10/25/2013,D-III,Luther,Central (Iowa),PUNTING,Jon,Cochrane,AVG,32.3
+20073048,10/25/2013,D-III,Luther,Central (Iowa),PUNTING,Jon,Cochrane,LONG,35
+20073049,10/25/2013,D-III,Luther,Central (Iowa),PUNTING,,Team,NO,2
+20073050,10/25/2013,D-III,Luther,Central (Iowa),PUNTING,,Team,YDS,2
+20073051,10/25/2013,D-III,Luther,Central (Iowa),PUNTING,,Team,AVG,1.0
+20073052,10/25/2013,D-III,Luther,Central (Iowa),PUNTING,,Team,LONG,2
+20073053,10/25/2013,D-III,Luther,Central (Iowa),PUNT RETURNS,Cody,Berger,NO,1
+20073054,10/25/2013,D-III,Luther,Central (Iowa),PUNT RETURNS,Cody,Berger,YDS,1
+20073055,10/25/2013,D-III,Luther,Central (Iowa),PUNT RETURNS,Cody,Berger,AVG,1.0
+20073056,10/25/2013,D-III,Luther,Central (Iowa),PUNT RETURNS,Cody,Berger,LONG,1
+20073057,10/25/2013,D-III,Luther,Central (Iowa),KICK RETURNS,Matt,Jaronik,NO,1
+20073058,10/25/2013,D-III,Luther,Central (Iowa),KICK RETURNS,Matt,Jaronik,YDS,19
+20073059,10/25/2013,D-III,Luther,Central (Iowa),KICK RETURNS,Matt,Jaronik,AVG,19.0
+20073060,10/25/2013,D-III,Luther,Central (Iowa),KICK RETURNS,Matt,Jaronik,LONG,19
+20073061,10/25/2013,D-III,Luther,Central (Iowa),KICK RETURNS,Cody,Berger,NO,1
+20073062,10/25/2013,D-III,Luther,Central (Iowa),KICK RETURNS,Cody,Berger,YDS,9
+20073063,10/25/2013,D-III,Luther,Central (Iowa),KICK RETURNS,Cody,Berger,AVG,9.0
+20073064,10/25/2013,D-III,Luther,Central (Iowa),KICK RETURNS,Cody,Berger,LONG,9
+20073065,10/25/2013,D-III,Luther,Central (Iowa),KICK RETURNS,Robby,Jewell,NO,2
+20073066,10/25/2013,D-III,Luther,Central (Iowa),KICK RETURNS,Robby,Jewell,YDS,22
+20073067,10/25/2013,D-III,Luther,Central (Iowa),KICK RETURNS,Robby,Jewell,AVG,11.0
+20073068,10/25/2013,D-III,Luther,Central (Iowa),KICK RETURNS,Robby,Jewell,LONG,20
+20073069,10/25/2013,D-III,Central (Iowa),Luther,RUSHING,De'andre,Currie,ATT,6
+20073070,10/25/2013,D-III,Central (Iowa),Luther,RUSHING,De'andre,Currie,YDS,11
+20073071,10/25/2013,D-III,Central (Iowa),Luther,RUSHING,De'andre,Currie,TD,0
+20073072,10/25/2013,D-III,Central (Iowa),Luther,RUSHING,De'andre,Currie,LONG,5
+20073073,10/25/2013,D-III,Central (Iowa),Luther,RUSHING,Aaron,Eiseler,ATT,9
+20073074,10/25/2013,D-III,Central (Iowa),Luther,RUSHING,Aaron,Eiseler,YDS,23
+20073075,10/25/2013,D-III,Central (Iowa),Luther,RUSHING,Aaron,Eiseler,TD,0
+20073076,10/25/2013,D-III,Central (Iowa),Luther,RUSHING,Aaron,Eiseler,LONG,12
+20073077,10/25/2013,D-III,Central (Iowa),Luther,RUSHING,Josh,Osborn,ATT,26
+20073078,10/25/2013,D-III,Central (Iowa),Luther,RUSHING,Josh,Osborn,YDS,106
+20073079,10/25/2013,D-III,Central (Iowa),Luther,RUSHING,Josh,Osborn,TD,1
+20073080,10/25/2013,D-III,Central (Iowa),Luther,RUSHING,Josh,Osborn,LONG,9
+20073081,10/25/2013,D-III,Central (Iowa),Luther,RUSHING,,Team,ATT,2
+20073082,10/25/2013,D-III,Central (Iowa),Luther,RUSHING,,Team,YDS,-2
+20073083,10/25/2013,D-III,Central (Iowa),Luther,RUSHING,,Team,TD,0
+20073084,10/25/2013,D-III,Central (Iowa),Luther,RUSHING,,Team,LONG,0
+20073085,10/25/2013,D-III,Central (Iowa),Luther,PASSING,Aaron,Eiseler,CP-ATT-INT,15-25-0
+20073086,10/25/2013,D-III,Central (Iowa),Luther,PASSING,Aaron,Eiseler,YDS,101
+20073087,10/25/2013,D-III,Central (Iowa),Luther,PASSING,Aaron,Eiseler,TD,0
+20073088,10/25/2013,D-III,Central (Iowa),Luther,PASSING,Aaron,Eiseler,LONG,16
+20073089,10/25/2013,D-III,Central (Iowa),Luther,RECEIVING,Grant,Mcardle,REC,4
+20073090,10/25/2013,D-III,Central (Iowa),Luther,RECEIVING,Grant,Mcardle,YDS,29
+20073091,10/25/2013,D-III,Central (Iowa),Luther,RECEIVING,Grant,Mcardle,TD,0
+20073092,10/25/2013,D-III,Central (Iowa),Luther,RECEIVING,Grant,Mcardle,LONG,16
+20073093,10/25/2013,D-III,Central (Iowa),Luther,RECEIVING,Jack,Norgaard,REC,2
+20073094,10/25/2013,D-III,Central (Iowa),Luther,RECEIVING,Jack,Norgaard,YDS,13
+20073095,10/25/2013,D-III,Central (Iowa),Luther,RECEIVING,Jack,Norgaard,TD,0
+20073096,10/25/2013,D-III,Central (Iowa),Luther,RECEIVING,Jack,Norgaard,LONG,8
+20073097,10/25/2013,D-III,Central (Iowa),Luther,RECEIVING,Brendon,Boerm,REC,3
+20073098,10/25/2013,D-III,Central (Iowa),Luther,RECEIVING,Brendon,Boerm,YDS,26
+20073099,10/25/2013,D-III,Central (Iowa),Luther,RECEIVING,Brendon,Boerm,TD,0
+20073100,10/25/2013,D-III,Central (Iowa),Luther,RECEIVING,Brendon,Boerm,LONG,10
+20073101,10/25/2013,D-III,Central (Iowa),Luther,RECEIVING,Taylor,Cox,REC,1
+20073102,10/25/2013,D-III,Central (Iowa),Luther,RECEIVING,Taylor,Cox,YDS,7
+20073103,10/25/2013,D-III,Central (Iowa),Luther,RECEIVING,Taylor,Cox,TD,0
+20073104,10/25/2013,D-III,Central (Iowa),Luther,RECEIVING,Taylor,Cox,LONG,7
+20073105,10/25/2013,D-III,Central (Iowa),Luther,RECEIVING,Blaine,Forsythe,REC,1
+20073106,10/25/2013,D-III,Central (Iowa),Luther,RECEIVING,Blaine,Forsythe,YDS,3
+20073107,10/25/2013,D-III,Central (Iowa),Luther,RECEIVING,Blaine,Forsythe,TD,0
+20073108,10/25/2013,D-III,Central (Iowa),Luther,RECEIVING,Blaine,Forsythe,LONG,3
+20073109,10/25/2013,D-III,Central (Iowa),Luther,RECEIVING,Josh,Osborn,REC,4
+20073110,10/25/2013,D-III,Central (Iowa),Luther,RECEIVING,Josh,Osborn,YDS,23
+20073111,10/25/2013,D-III,Central (Iowa),Luther,RECEIVING,Josh,Osborn,TD,0
+20073112,10/25/2013,D-III,Central (Iowa),Luther,RECEIVING,Josh,Osborn,LONG,9
+20073113,10/25/2013,D-III,Central (Iowa),Luther,PUNTING,Blaine,Forsythe,NO,5
+20073114,10/25/2013,D-III,Central (Iowa),Luther,PUNTING,Blaine,Forsythe,YDS,169
+20073115,10/25/2013,D-III,Central (Iowa),Luther,PUNTING,Blaine,Forsythe,AVG,33.8
+20073116,10/25/2013,D-III,Central (Iowa),Luther,PUNTING,Blaine,Forsythe,LONG,45
+20073117,10/25/2013,D-III,Central (Iowa),Luther,PUNT RETURNS,Taylor,Cox,NO,1
+20073118,10/25/2013,D-III,Central (Iowa),Luther,PUNT RETURNS,Taylor,Cox,YDS,13
+20073119,10/25/2013,D-III,Central (Iowa),Luther,PUNT RETURNS,Taylor,Cox,AVG,13.0
+20073120,10/25/2013,D-III,Central (Iowa),Luther,PUNT RETURNS,Taylor,Cox,LONG,13
+20073121,10/25/2013,D-III,Central (Iowa),Luther,PUNT RETURNS,Nick,Henry,NO,1
+20073122,10/25/2013,D-III,Central (Iowa),Luther,PUNT RETURNS,Nick,Henry,YDS,5
+20073123,10/25/2013,D-III,Central (Iowa),Luther,PUNT RETURNS,Nick,Henry,AVG,5.0
+20073124,10/25/2013,D-III,Central (Iowa),Luther,PUNT RETURNS,Nick,Henry,LONG,0
+20073125,10/25/2013,D-III,Central (Iowa),Luther,KICK RETURNS,Edwin,Etienne,NO,1
+20073126,10/25/2013,D-III,Central (Iowa),Luther,KICK RETURNS,Edwin,Etienne,YDS,12
+20073127,10/25/2013,D-III,Central (Iowa),Luther,KICK RETURNS,Edwin,Etienne,AVG,12.0
+20073128,10/25/2013,D-III,Central (Iowa),Luther,KICK RETURNS,Edwin,Etienne,LONG,12
+20073129,10/25/2013,D-III,Central (Iowa),Luther,KICK RETURNS,Brendon,Boerm,NO,3
+20073130,10/25/2013,D-III,Central (Iowa),Luther,KICK RETURNS,Brendon,Boerm,YDS,62
+20073131,10/25/2013,D-III,Central (Iowa),Luther,KICK RETURNS,Brendon,Boerm,AVG,20.7
+20073132,10/25/2013,D-III,Central (Iowa),Luther,KICK RETURNS,Brendon,Boerm,LONG,22

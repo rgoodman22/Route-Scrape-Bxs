@@ -1,0 +1,117 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+23464001,9/24/2016,D-III,Cornell (Iowa),Beloit,RUSHING,Daniel,Brown,ATT,16
+23464002,9/24/2016,D-III,Cornell (Iowa),Beloit,RUSHING,Daniel,Brown,YDS,101
+23464003,9/24/2016,D-III,Cornell (Iowa),Beloit,RUSHING,Daniel,Brown,TD,2
+23464004,9/24/2016,D-III,Cornell (Iowa),Beloit,RUSHING,Daniel,Brown,LONG,24
+23464005,9/24/2016,D-III,Cornell (Iowa),Beloit,RUSHING,Patrick,Brown,ATT,10
+23464006,9/24/2016,D-III,Cornell (Iowa),Beloit,RUSHING,Patrick,Brown,YDS,71
+23464007,9/24/2016,D-III,Cornell (Iowa),Beloit,RUSHING,Patrick,Brown,TD,1
+23464008,9/24/2016,D-III,Cornell (Iowa),Beloit,RUSHING,Patrick,Brown,LONG,22
+23464009,9/24/2016,D-III,Cornell (Iowa),Beloit,RUSHING,Devan,Clark,ATT,18
+23464010,9/24/2016,D-III,Cornell (Iowa),Beloit,RUSHING,Devan,Clark,YDS,61
+23464011,9/24/2016,D-III,Cornell (Iowa),Beloit,RUSHING,Devan,Clark,TD,1
+23464012,9/24/2016,D-III,Cornell (Iowa),Beloit,RUSHING,Devan,Clark,LONG,9
+23464013,9/24/2016,D-III,Cornell (Iowa),Beloit,RUSHING,Gabriel,Noyce,ATT,1
+23464014,9/24/2016,D-III,Cornell (Iowa),Beloit,RUSHING,Gabriel,Noyce,YDS,5
+23464015,9/24/2016,D-III,Cornell (Iowa),Beloit,RUSHING,Gabriel,Noyce,TD,0
+23464016,9/24/2016,D-III,Cornell (Iowa),Beloit,RUSHING,Gabriel,Noyce,LONG,5
+23464017,9/24/2016,D-III,Cornell (Iowa),Beloit,RUSHING,,Team,ATT,2
+23464018,9/24/2016,D-III,Cornell (Iowa),Beloit,RUSHING,,Team,YDS,-2
+23464019,9/24/2016,D-III,Cornell (Iowa),Beloit,RUSHING,,Team,TD,0
+23464020,9/24/2016,D-III,Cornell (Iowa),Beloit,RUSHING,,Team,LONG,0
+23464021,9/24/2016,D-III,Cornell (Iowa),Beloit,PASSING,Daniel,Brown,CP-ATT-INT,25-38-0
+23464022,9/24/2016,D-III,Cornell (Iowa),Beloit,PASSING,Daniel,Brown,YDS,437
+23464023,9/24/2016,D-III,Cornell (Iowa),Beloit,PASSING,Daniel,Brown,TD,3
+23464024,9/24/2016,D-III,Cornell (Iowa),Beloit,PASSING,Daniel,Brown,LONG,70
+23464025,9/24/2016,D-III,Cornell (Iowa),Beloit,RECEIVING,Riley,Bell,REC,11
+23464026,9/24/2016,D-III,Cornell (Iowa),Beloit,RECEIVING,Riley,Bell,YDS,201
+23464027,9/24/2016,D-III,Cornell (Iowa),Beloit,RECEIVING,Riley,Bell,TD,2
+23464028,9/24/2016,D-III,Cornell (Iowa),Beloit,RECEIVING,Riley,Bell,LONG,70
+23464029,9/24/2016,D-III,Cornell (Iowa),Beloit,RECEIVING,Gabriel,Noyce,REC,5
+23464030,9/24/2016,D-III,Cornell (Iowa),Beloit,RECEIVING,Gabriel,Noyce,YDS,109
+23464031,9/24/2016,D-III,Cornell (Iowa),Beloit,RECEIVING,Gabriel,Noyce,TD,1
+23464032,9/24/2016,D-III,Cornell (Iowa),Beloit,RECEIVING,Gabriel,Noyce,LONG,63
+23464033,9/24/2016,D-III,Cornell (Iowa),Beloit,RECEIVING,,Team,REC,5
+23464034,9/24/2016,D-III,Cornell (Iowa),Beloit,RECEIVING,,Team,YDS,93
+23464035,9/24/2016,D-III,Cornell (Iowa),Beloit,RECEIVING,,Team,TD,0
+23464036,9/24/2016,D-III,Cornell (Iowa),Beloit,RECEIVING,,Team,LONG,42
+23464037,9/24/2016,D-III,Cornell (Iowa),Beloit,RECEIVING,Devan,Clark,REC,2
+23464038,9/24/2016,D-III,Cornell (Iowa),Beloit,RECEIVING,Devan,Clark,YDS,25
+23464039,9/24/2016,D-III,Cornell (Iowa),Beloit,RECEIVING,Devan,Clark,TD,0
+23464040,9/24/2016,D-III,Cornell (Iowa),Beloit,RECEIVING,Devan,Clark,LONG,15
+23464041,9/24/2016,D-III,Cornell (Iowa),Beloit,RECEIVING,Patrick,Brown,REC,2
+23464042,9/24/2016,D-III,Cornell (Iowa),Beloit,RECEIVING,Patrick,Brown,YDS,9
+23464043,9/24/2016,D-III,Cornell (Iowa),Beloit,RECEIVING,Patrick,Brown,TD,0
+23464044,9/24/2016,D-III,Cornell (Iowa),Beloit,RECEIVING,Patrick,Brown,LONG,6
+23464045,9/24/2016,D-III,Cornell (Iowa),Beloit,PUNTING,Gabriel,Noyce,NO,3
+23464046,9/24/2016,D-III,Cornell (Iowa),Beloit,PUNTING,Gabriel,Noyce,YDS,118
+23464047,9/24/2016,D-III,Cornell (Iowa),Beloit,PUNTING,Gabriel,Noyce,AVG,39.3
+23464048,9/24/2016,D-III,Cornell (Iowa),Beloit,PUNTING,Gabriel,Noyce,LONG,47
+23464049,9/24/2016,D-III,Cornell (Iowa),Beloit,PUNT RETURNS,Riley,Bell,NO,2
+23464050,9/24/2016,D-III,Cornell (Iowa),Beloit,PUNT RETURNS,Riley,Bell,YDS,27
+23464051,9/24/2016,D-III,Cornell (Iowa),Beloit,PUNT RETURNS,Riley,Bell,AVG,13.5
+23464052,9/24/2016,D-III,Cornell (Iowa),Beloit,PUNT RETURNS,Riley,Bell,LONG,14
+23464053,9/24/2016,D-III,Cornell (Iowa),Beloit,KICK RETURNS,Malek,Folston,NO,3
+23464054,9/24/2016,D-III,Cornell (Iowa),Beloit,KICK RETURNS,Malek,Folston,YDS,77
+23464055,9/24/2016,D-III,Cornell (Iowa),Beloit,KICK RETURNS,Malek,Folston,AVG,25.7
+23464056,9/24/2016,D-III,Cornell (Iowa),Beloit,KICK RETURNS,Malek,Folston,LONG,49
+23464057,9/24/2016,D-III,Cornell (Iowa),Beloit,KICK RETURNS,Mickey,Hines,NO,2
+23464058,9/24/2016,D-III,Cornell (Iowa),Beloit,KICK RETURNS,Mickey,Hines,YDS,16
+23464059,9/24/2016,D-III,Cornell (Iowa),Beloit,KICK RETURNS,Mickey,Hines,AVG,8.0
+23464060,9/24/2016,D-III,Cornell (Iowa),Beloit,KICK RETURNS,Mickey,Hines,LONG,10
+23464061,9/24/2016,D-III,Beloit,Cornell (Iowa),RUSHING,Mason,Dixon,ATT,27
+23464062,9/24/2016,D-III,Beloit,Cornell (Iowa),RUSHING,Mason,Dixon,YDS,103
+23464063,9/24/2016,D-III,Beloit,Cornell (Iowa),RUSHING,Mason,Dixon,TD,3
+23464064,9/24/2016,D-III,Beloit,Cornell (Iowa),RUSHING,Mason,Dixon,LONG,19
+23464065,9/24/2016,D-III,Beloit,Cornell (Iowa),RUSHING,Danny,May,ATT,13
+23464066,9/24/2016,D-III,Beloit,Cornell (Iowa),RUSHING,Danny,May,YDS,94
+23464067,9/24/2016,D-III,Beloit,Cornell (Iowa),RUSHING,Danny,May,TD,0
+23464068,9/24/2016,D-III,Beloit,Cornell (Iowa),RUSHING,Danny,May,LONG,29
+23464069,9/24/2016,D-III,Beloit,Cornell (Iowa),RUSHING,Kam,Sallee,ATT,3
+23464070,9/24/2016,D-III,Beloit,Cornell (Iowa),RUSHING,Kam,Sallee,YDS,23
+23464071,9/24/2016,D-III,Beloit,Cornell (Iowa),RUSHING,Kam,Sallee,TD,0
+23464072,9/24/2016,D-III,Beloit,Cornell (Iowa),RUSHING,Kam,Sallee,LONG,13
+23464073,9/24/2016,D-III,Beloit,Cornell (Iowa),RUSHING,Joey,Werner,ATT,3
+23464074,9/24/2016,D-III,Beloit,Cornell (Iowa),RUSHING,Joey,Werner,YDS,3
+23464075,9/24/2016,D-III,Beloit,Cornell (Iowa),RUSHING,Joey,Werner,TD,0
+23464076,9/24/2016,D-III,Beloit,Cornell (Iowa),RUSHING,Joey,Werner,LONG,3
+23464077,9/24/2016,D-III,Beloit,Cornell (Iowa),PASSING,Danny,May,CP-ATT-INT,20-33-2
+23464078,9/24/2016,D-III,Beloit,Cornell (Iowa),PASSING,Danny,May,YDS,258
+23464079,9/24/2016,D-III,Beloit,Cornell (Iowa),PASSING,Danny,May,TD,3
+23464080,9/24/2016,D-III,Beloit,Cornell (Iowa),PASSING,Danny,May,LONG,33
+23464081,9/24/2016,D-III,Beloit,Cornell (Iowa),RECEIVING,Michael,Nolden,REC,9
+23464082,9/24/2016,D-III,Beloit,Cornell (Iowa),RECEIVING,Michael,Nolden,YDS,129
+23464083,9/24/2016,D-III,Beloit,Cornell (Iowa),RECEIVING,Michael,Nolden,TD,2
+23464084,9/24/2016,D-III,Beloit,Cornell (Iowa),RECEIVING,Michael,Nolden,LONG,33
+23464085,9/24/2016,D-III,Beloit,Cornell (Iowa),RECEIVING,Abraham,Quijas,REC,3
+23464086,9/24/2016,D-III,Beloit,Cornell (Iowa),RECEIVING,Abraham,Quijas,YDS,38
+23464087,9/24/2016,D-III,Beloit,Cornell (Iowa),RECEIVING,Abraham,Quijas,TD,0
+23464088,9/24/2016,D-III,Beloit,Cornell (Iowa),RECEIVING,Abraham,Quijas,LONG,31
+23464089,9/24/2016,D-III,Beloit,Cornell (Iowa),RECEIVING,Ethan,Conley,REC,3
+23464090,9/24/2016,D-III,Beloit,Cornell (Iowa),RECEIVING,Ethan,Conley,YDS,37
+23464091,9/24/2016,D-III,Beloit,Cornell (Iowa),RECEIVING,Ethan,Conley,TD,1
+23464092,9/24/2016,D-III,Beloit,Cornell (Iowa),RECEIVING,Ethan,Conley,LONG,21
+23464093,9/24/2016,D-III,Beloit,Cornell (Iowa),RECEIVING,Ryan,Sughroue,REC,2
+23464094,9/24/2016,D-III,Beloit,Cornell (Iowa),RECEIVING,Ryan,Sughroue,YDS,32
+23464095,9/24/2016,D-III,Beloit,Cornell (Iowa),RECEIVING,Ryan,Sughroue,TD,0
+23464096,9/24/2016,D-III,Beloit,Cornell (Iowa),RECEIVING,Ryan,Sughroue,LONG,28
+23464097,9/24/2016,D-III,Beloit,Cornell (Iowa),RECEIVING,Kam,Sallee,REC,3
+23464098,9/24/2016,D-III,Beloit,Cornell (Iowa),RECEIVING,Kam,Sallee,YDS,22
+23464099,9/24/2016,D-III,Beloit,Cornell (Iowa),RECEIVING,Kam,Sallee,TD,0
+23464100,9/24/2016,D-III,Beloit,Cornell (Iowa),RECEIVING,Kam,Sallee,LONG,19
+23464101,9/24/2016,D-III,Beloit,Cornell (Iowa),PUNTING,Kam,Sallee,NO,4
+23464102,9/24/2016,D-III,Beloit,Cornell (Iowa),PUNTING,Kam,Sallee,YDS,173
+23464103,9/24/2016,D-III,Beloit,Cornell (Iowa),PUNTING,Kam,Sallee,AVG,43.2
+23464104,9/24/2016,D-III,Beloit,Cornell (Iowa),PUNTING,Kam,Sallee,LONG,53
+23464105,9/24/2016,D-III,Beloit,Cornell (Iowa),PUNT RETURNS,Michael,Nolden,NO,1
+23464106,9/24/2016,D-III,Beloit,Cornell (Iowa),PUNT RETURNS,Michael,Nolden,YDS,4
+23464107,9/24/2016,D-III,Beloit,Cornell (Iowa),PUNT RETURNS,Michael,Nolden,AVG,4.0
+23464108,9/24/2016,D-III,Beloit,Cornell (Iowa),PUNT RETURNS,Michael,Nolden,LONG,4
+23464109,9/24/2016,D-III,Beloit,Cornell (Iowa),KICK RETURNS,Tyler,Korous,NO,3
+23464110,9/24/2016,D-III,Beloit,Cornell (Iowa),KICK RETURNS,Tyler,Korous,YDS,75
+23464111,9/24/2016,D-III,Beloit,Cornell (Iowa),KICK RETURNS,Tyler,Korous,AVG,25.0
+23464112,9/24/2016,D-III,Beloit,Cornell (Iowa),KICK RETURNS,Tyler,Korous,LONG,38
+23464113,9/24/2016,D-III,Beloit,Cornell (Iowa),KICK RETURNS,Broak,Sheffield,NO,2
+23464114,9/24/2016,D-III,Beloit,Cornell (Iowa),KICK RETURNS,Broak,Sheffield,YDS,43
+23464115,9/24/2016,D-III,Beloit,Cornell (Iowa),KICK RETURNS,Broak,Sheffield,AVG,21.5
+23464116,9/24/2016,D-III,Beloit,Cornell (Iowa),KICK RETURNS,Broak,Sheffield,LONG,22

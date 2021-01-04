@@ -1,0 +1,415 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+25820001,9/8/2018,D-III,Lawrence,Carleton,RUSHING,Wasonu,Allen,ATT,10
+25820002,9/8/2018,D-III,Lawrence,Carleton,RUSHING,Wasonu,Allen,YDS,81
+25820003,9/8/2018,D-III,Lawrence,Carleton,RUSHING,Wasonu,Allen,TD,0
+25820004,9/8/2018,D-III,Lawrence,Carleton,RUSHING,Wasonu,Allen,LONG,39
+25820005,9/8/2018,D-III,Lawrence,Carleton,RUSHING,D'andre,Weaver,ATT,16
+25820006,9/8/2018,D-III,Lawrence,Carleton,RUSHING,D'andre,Weaver,YDS,31
+25820007,9/8/2018,D-III,Lawrence,Carleton,RUSHING,D'andre,Weaver,TD,0
+25820008,9/8/2018,D-III,Lawrence,Carleton,RUSHING,D'andre,Weaver,LONG,16
+25820009,9/8/2018,D-III,Lawrence,Carleton,RUSHING,Ethan,Simmons,ATT,4
+25820010,9/8/2018,D-III,Lawrence,Carleton,RUSHING,Ethan,Simmons,YDS,24
+25820011,9/8/2018,D-III,Lawrence,Carleton,RUSHING,Ethan,Simmons,TD,0
+25820012,9/8/2018,D-III,Lawrence,Carleton,RUSHING,Ethan,Simmons,LONG,12
+25820013,9/8/2018,D-III,Lawrence,Carleton,RUSHING,Jacob,Sullivan,ATT,4
+25820014,9/8/2018,D-III,Lawrence,Carleton,RUSHING,Jacob,Sullivan,YDS,10
+25820015,9/8/2018,D-III,Lawrence,Carleton,RUSHING,Jacob,Sullivan,TD,0
+25820016,9/8/2018,D-III,Lawrence,Carleton,RUSHING,Jacob,Sullivan,LONG,11
+25820017,9/8/2018,D-III,Lawrence,Carleton,RUSHING,Prince,Mukuna,ATT,1
+25820018,9/8/2018,D-III,Lawrence,Carleton,RUSHING,Prince,Mukuna,YDS,5
+25820019,9/8/2018,D-III,Lawrence,Carleton,RUSHING,Prince,Mukuna,TD,0
+25820020,9/8/2018,D-III,Lawrence,Carleton,RUSHING,Prince,Mukuna,LONG,5
+25820021,9/8/2018,D-III,Lawrence,Carleton,PASSING,D'andre,Weaver,CP-ATT-INT,24-48-2
+25820022,9/8/2018,D-III,Lawrence,Carleton,PASSING,D'andre,Weaver,YDS,224
+25820023,9/8/2018,D-III,Lawrence,Carleton,PASSING,D'andre,Weaver,TD,3
+25820024,9/8/2018,D-III,Lawrence,Carleton,PASSING,D'andre,Weaver,LONG,27
+25820025,9/8/2018,D-III,Lawrence,Carleton,RECEIVING,Chris,Shaw,REC,5
+25820026,9/8/2018,D-III,Lawrence,Carleton,RECEIVING,Chris,Shaw,YDS,75
+25820027,9/8/2018,D-III,Lawrence,Carleton,RECEIVING,Chris,Shaw,TD,1
+25820028,9/8/2018,D-III,Lawrence,Carleton,RECEIVING,Chris,Shaw,LONG,26
+25820029,9/8/2018,D-III,Lawrence,Carleton,RECEIVING,Jacob,Sullivan,REC,8
+25820030,9/8/2018,D-III,Lawrence,Carleton,RECEIVING,Jacob,Sullivan,YDS,71
+25820031,9/8/2018,D-III,Lawrence,Carleton,RECEIVING,Jacob,Sullivan,TD,1
+25820032,9/8/2018,D-III,Lawrence,Carleton,RECEIVING,Jacob,Sullivan,LONG,27
+25820033,9/8/2018,D-III,Lawrence,Carleton,RECEIVING,Wasonu,Allen,REC,7
+25820034,9/8/2018,D-III,Lawrence,Carleton,RECEIVING,Wasonu,Allen,YDS,30
+25820035,9/8/2018,D-III,Lawrence,Carleton,RECEIVING,Wasonu,Allen,TD,0
+25820036,9/8/2018,D-III,Lawrence,Carleton,RECEIVING,Wasonu,Allen,LONG,8
+25820037,9/8/2018,D-III,Lawrence,Carleton,RECEIVING,Ethan,Simmons,REC,3
+25820038,9/8/2018,D-III,Lawrence,Carleton,RECEIVING,Ethan,Simmons,YDS,27
+25820039,9/8/2018,D-III,Lawrence,Carleton,RECEIVING,Ethan,Simmons,TD,0
+25820040,9/8/2018,D-III,Lawrence,Carleton,RECEIVING,Ethan,Simmons,LONG,10
+25820041,9/8/2018,D-III,Lawrence,Carleton,RECEIVING,Tanner,Morris,REC,1
+25820042,9/8/2018,D-III,Lawrence,Carleton,RECEIVING,Tanner,Morris,YDS,21
+25820043,9/8/2018,D-III,Lawrence,Carleton,RECEIVING,Tanner,Morris,TD,1
+25820044,9/8/2018,D-III,Lawrence,Carleton,RECEIVING,Tanner,Morris,LONG,21
+25820045,9/8/2018,D-III,Lawrence,Carleton,PUNTING,Jacob,Enos,NO,8
+25820046,9/8/2018,D-III,Lawrence,Carleton,PUNTING,Jacob,Enos,YDS,242
+25820047,9/8/2018,D-III,Lawrence,Carleton,PUNTING,Jacob,Enos,AVG,30.2
+25820048,9/8/2018,D-III,Lawrence,Carleton,PUNTING,Jacob,Enos,LONG,38
+25820049,9/8/2018,D-III,Lawrence,Carleton,PUNT RETURNS,Ethan,Simmons,NO,1
+25820050,9/8/2018,D-III,Lawrence,Carleton,PUNT RETURNS,Ethan,Simmons,YDS,-5
+25820051,9/8/2018,D-III,Lawrence,Carleton,PUNT RETURNS,Ethan,Simmons,AVG,-5.0
+25820052,9/8/2018,D-III,Lawrence,Carleton,PUNT RETURNS,Ethan,Simmons,LONG,0
+25820053,9/8/2018,D-III,Lawrence,Carleton,KICK RETURNS,Wasonu,Allen,NO,1
+25820054,9/8/2018,D-III,Lawrence,Carleton,KICK RETURNS,Wasonu,Allen,YDS,17
+25820055,9/8/2018,D-III,Lawrence,Carleton,KICK RETURNS,Wasonu,Allen,AVG,17.0
+25820056,9/8/2018,D-III,Lawrence,Carleton,KICK RETURNS,Wasonu,Allen,LONG,17
+25820057,9/8/2018,D-III,Lawrence,Carleton,KICK RETURNS,J,Rodriguez,NO,1
+25820058,9/8/2018,D-III,Lawrence,Carleton,KICK RETURNS,J,Rodriguez,YDS,10
+25820059,9/8/2018,D-III,Lawrence,Carleton,KICK RETURNS,J,Rodriguez,AVG,10.0
+25820060,9/8/2018,D-III,Lawrence,Carleton,KICK RETURNS,J,Rodriguez,LONG,10
+25820061,9/8/2018,D-III,Lawrence,Carleton,KICK RETURNS,Ethan,Simmons,NO,2
+25820062,9/8/2018,D-III,Lawrence,Carleton,KICK RETURNS,Ethan,Simmons,YDS,39
+25820063,9/8/2018,D-III,Lawrence,Carleton,KICK RETURNS,Ethan,Simmons,AVG,19.5
+25820064,9/8/2018,D-III,Lawrence,Carleton,KICK RETURNS,Ethan,Simmons,LONG,19
+25820065,9/8/2018,D-III,Lawrence,Carleton,KICK RETURNS,Tanner,Morris,NO,1
+25820066,9/8/2018,D-III,Lawrence,Carleton,KICK RETURNS,Tanner,Morris,YDS,0
+25820067,9/8/2018,D-III,Lawrence,Carleton,KICK RETURNS,Tanner,Morris,AVG,0.0
+25820068,9/8/2018,D-III,Lawrence,Carleton,KICK RETURNS,Tanner,Morris,LONG,0
+25820069,9/8/2018,D-III,Lawrence,Carleton,KICK RETURNS,Tyler,Kujawa,NO,1
+25820070,9/8/2018,D-III,Lawrence,Carleton,KICK RETURNS,Tyler,Kujawa,YDS,8
+25820071,9/8/2018,D-III,Lawrence,Carleton,KICK RETURNS,Tyler,Kujawa,AVG,8.0
+25820072,9/8/2018,D-III,Lawrence,Carleton,KICK RETURNS,Tyler,Kujawa,LONG,8
+25820073,9/8/2018,D-III,Lawrence,Carleton,KICK RETURNS,Nick,Pastrone,NO,1
+25820074,9/8/2018,D-III,Lawrence,Carleton,KICK RETURNS,Nick,Pastrone,YDS,13
+25820075,9/8/2018,D-III,Lawrence,Carleton,KICK RETURNS,Nick,Pastrone,AVG,13.0
+25820076,9/8/2018,D-III,Lawrence,Carleton,KICK RETURNS,Nick,Pastrone,LONG,13
+25820077,9/8/2018,D-III,Lawrence,Carleton,KICK RETURNS,Jordan,Jenkins,NO,1
+25820078,9/8/2018,D-III,Lawrence,Carleton,KICK RETURNS,Jordan,Jenkins,YDS,0
+25820079,9/8/2018,D-III,Lawrence,Carleton,KICK RETURNS,Jordan,Jenkins,AVG,0.0
+25820080,9/8/2018,D-III,Lawrence,Carleton,KICK RETURNS,Jordan,Jenkins,LONG,0
+25820081,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Sheldon,Garmon,TOT,10
+25820082,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Sheldon,Garmon,SOLO,
+25820083,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Sheldon,Garmon,SACKS,6
+25820084,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Sheldon,Garmon,TFL,
+25820085,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Sheldon,Garmon,INT,
+25820086,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Sheldon,Garmon,FF,
+25820087,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Sheldon,Garmon,FR,
+25820088,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,J,Rodriguez,TOT,3
+25820089,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,J,Rodriguez,SOLO,
+25820090,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,J,Rodriguez,SACKS,1
+25820091,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,J,Rodriguez,TFL,
+25820092,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,J,Rodriguez,INT,
+25820093,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,J,Rodriguez,FF,1
+25820094,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,J,Rodriguez,FR,
+25820095,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Tyler,Kujawa,TOT,4
+25820096,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Tyler,Kujawa,SOLO,
+25820097,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Tyler,Kujawa,SACKS,0
+25820098,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Tyler,Kujawa,TFL,
+25820099,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Tyler,Kujawa,INT,
+25820100,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Tyler,Kujawa,FF,
+25820101,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Tyler,Kujawa,FR,0
+25820102,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Aj,Wansley,TOT,6
+25820103,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Aj,Wansley,SOLO,
+25820104,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Aj,Wansley,SACKS,2
+25820105,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Aj,Wansley,TFL,
+25820106,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Aj,Wansley,INT,
+25820107,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Aj,Wansley,FF,
+25820108,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Aj,Wansley,FR,
+25820109,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Jacob,Enos,TOT,1
+25820110,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Jacob,Enos,SOLO,
+25820111,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Jacob,Enos,SACKS,1
+25820112,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Jacob,Enos,TFL,
+25820113,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Jacob,Enos,INT,
+25820114,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Jacob,Enos,FF,
+25820115,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Jacob,Enos,FR,
+25820116,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Cullen,Ellis,TOT,1
+25820117,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Cullen,Ellis,SOLO,
+25820118,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Cullen,Ellis,SACKS,1
+25820119,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Cullen,Ellis,TFL,
+25820120,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Cullen,Ellis,INT,
+25820121,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Cullen,Ellis,FF,
+25820122,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Cullen,Ellis,FR,1
+25820123,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Brian,Duong,TOT,6
+25820124,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Brian,Duong,SOLO,
+25820125,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Brian,Duong,SACKS,6
+25820126,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Brian,Duong,TFL,
+25820127,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Brian,Duong,INT,
+25820128,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Brian,Duong,FF,
+25820129,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Brian,Duong,FR,
+25820130,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Prince,Mukuna,TOT,1
+25820131,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Prince,Mukuna,SOLO,
+25820132,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Prince,Mukuna,SACKS,1
+25820133,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Prince,Mukuna,TFL,
+25820134,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Prince,Mukuna,INT,
+25820135,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Prince,Mukuna,FF,
+25820136,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Prince,Mukuna,FR,
+25820137,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Wyatt,Lee,TOT,17
+25820138,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Wyatt,Lee,SOLO,
+25820139,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Wyatt,Lee,SACKS,6
+25820140,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Wyatt,Lee,TFL,
+25820141,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Wyatt,Lee,INT,
+25820142,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Wyatt,Lee,FF,
+25820143,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Wyatt,Lee,FR,
+25820144,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Jasaad,Graves,TOT,3
+25820145,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Jasaad,Graves,SOLO,
+25820146,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Jasaad,Graves,SACKS,2
+25820147,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Jasaad,Graves,TFL,
+25820148,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Jasaad,Graves,INT,
+25820149,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Jasaad,Graves,FF,
+25820150,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Jasaad,Graves,FR,1
+25820151,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Jordan,Holmes,TOT,1
+25820152,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Jordan,Holmes,SOLO,
+25820153,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Jordan,Holmes,SACKS,0
+25820154,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Jordan,Holmes,TFL,
+25820155,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Jordan,Holmes,INT,
+25820156,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Jordan,Holmes,FF,
+25820157,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Jordan,Holmes,FR,
+25820158,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Justin,Sankey,TOT,3
+25820159,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Justin,Sankey,SOLO,
+25820160,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Justin,Sankey,SACKS,1
+25820161,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Justin,Sankey,TFL,
+25820162,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Justin,Sankey,INT,
+25820163,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Justin,Sankey,FF,
+25820164,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Justin,Sankey,FR,
+25820165,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Victor,Statz,TOT,4
+25820166,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Victor,Statz,SOLO,
+25820167,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Victor,Statz,SACKS,0
+25820168,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Victor,Statz,TFL,
+25820169,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Victor,Statz,INT,
+25820170,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Victor,Statz,FF,
+25820171,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Victor,Statz,FR,
+25820172,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Onni,Soininen,TOT,1
+25820173,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Onni,Soininen,SOLO,
+25820174,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Onni,Soininen,SACKS,1
+25820175,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Onni,Soininen,TFL,
+25820176,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Onni,Soininen,INT,
+25820177,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Onni,Soininen,FF,
+25820178,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Onni,Soininen,FR,
+25820179,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Zachary,Adams,TOT,4
+25820180,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Zachary,Adams,SOLO,
+25820181,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Zachary,Adams,SACKS,2
+25820182,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Zachary,Adams,TFL,
+25820183,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Zachary,Adams,INT,
+25820184,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Zachary,Adams,FF,
+25820185,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Zachary,Adams,FR,1
+25820186,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,K,Perteet-boens,TOT,2
+25820187,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,K,Perteet-boens,SOLO,
+25820188,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,K,Perteet-boens,SACKS,0
+25820189,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,K,Perteet-boens,TFL,
+25820190,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,K,Perteet-boens,INT,
+25820191,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,K,Perteet-boens,FF,
+25820192,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,K,Perteet-boens,FR,0
+25820193,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Juan,Rivera,TOT,2
+25820194,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Juan,Rivera,SOLO,
+25820195,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Juan,Rivera,SACKS,1
+25820196,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Juan,Rivera,TFL,
+25820197,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Juan,Rivera,INT,
+25820198,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Juan,Rivera,FF,
+25820199,9/8/2018,D-III,Lawrence,Carleton,DEFENSE,Juan,Rivera,FR,
+25820200,9/8/2018,D-III,Carleton,Lawrence,RUSHING,Sean,goodmanJr,ATT,10
+25820201,9/8/2018,D-III,Carleton,Lawrence,RUSHING,Sean,goodmanJr,YDS,45
+25820202,9/8/2018,D-III,Carleton,Lawrence,RUSHING,Sean,goodmanJr,TD,0
+25820203,9/8/2018,D-III,Carleton,Lawrence,RUSHING,Sean,goodmanJr,LONG,9
+25820204,9/8/2018,D-III,Carleton,Lawrence,RUSHING,Josh,Angevine,ATT,6
+25820205,9/8/2018,D-III,Carleton,Lawrence,RUSHING,Josh,Angevine,YDS,13
+25820206,9/8/2018,D-III,Carleton,Lawrence,RUSHING,Josh,Angevine,TD,0
+25820207,9/8/2018,D-III,Carleton,Lawrence,RUSHING,Josh,Angevine,LONG,9
+25820208,9/8/2018,D-III,Carleton,Lawrence,RUSHING,Zach,Trottier,ATT,2
+25820209,9/8/2018,D-III,Carleton,Lawrence,RUSHING,Zach,Trottier,YDS,8
+25820210,9/8/2018,D-III,Carleton,Lawrence,RUSHING,Zach,Trottier,TD,0
+25820211,9/8/2018,D-III,Carleton,Lawrence,RUSHING,Zach,Trottier,LONG,5
+25820212,9/8/2018,D-III,Carleton,Lawrence,RUSHING,Will,Irons,ATT,1
+25820213,9/8/2018,D-III,Carleton,Lawrence,RUSHING,Will,Irons,YDS,3
+25820214,9/8/2018,D-III,Carleton,Lawrence,RUSHING,Will,Irons,TD,0
+25820215,9/8/2018,D-III,Carleton,Lawrence,RUSHING,Will,Irons,LONG,3
+25820216,9/8/2018,D-III,Carleton,Lawrence,RUSHING,C,Zaytoun,ATT,2
+25820217,9/8/2018,D-III,Carleton,Lawrence,RUSHING,C,Zaytoun,YDS,-16
+25820218,9/8/2018,D-III,Carleton,Lawrence,RUSHING,C,Zaytoun,TD,0
+25820219,9/8/2018,D-III,Carleton,Lawrence,RUSHING,C,Zaytoun,LONG,0
+25820220,9/8/2018,D-III,Carleton,Lawrence,RUSHING,,Team,ATT,3
+25820221,9/8/2018,D-III,Carleton,Lawrence,RUSHING,,Team,YDS,-25
+25820222,9/8/2018,D-III,Carleton,Lawrence,RUSHING,,Team,TD,0
+25820223,9/8/2018,D-III,Carleton,Lawrence,RUSHING,,Team,LONG,0
+25820224,9/8/2018,D-III,Carleton,Lawrence,PASSING,C,Zaytoun,CP-ATT-INT,30-49-1
+25820225,9/8/2018,D-III,Carleton,Lawrence,PASSING,C,Zaytoun,YDS,305
+25820226,9/8/2018,D-III,Carleton,Lawrence,PASSING,C,Zaytoun,TD,5
+25820227,9/8/2018,D-III,Carleton,Lawrence,PASSING,C,Zaytoun,LONG,23
+25820228,9/8/2018,D-III,Carleton,Lawrence,PASSING,Will,Irons,CP-ATT-INT,1-3-0
+25820229,9/8/2018,D-III,Carleton,Lawrence,PASSING,Will,Irons,YDS,4
+25820230,9/8/2018,D-III,Carleton,Lawrence,PASSING,Will,Irons,TD,0
+25820231,9/8/2018,D-III,Carleton,Lawrence,PASSING,Will,Irons,LONG,4
+25820232,9/8/2018,D-III,Carleton,Lawrence,RECEIVING,Mack,Journell,REC,14
+25820233,9/8/2018,D-III,Carleton,Lawrence,RECEIVING,Mack,Journell,YDS,149
+25820234,9/8/2018,D-III,Carleton,Lawrence,RECEIVING,Mack,Journell,TD,3
+25820235,9/8/2018,D-III,Carleton,Lawrence,RECEIVING,Mack,Journell,LONG,22
+25820236,9/8/2018,D-III,Carleton,Lawrence,RECEIVING,Dylan,Rye,REC,6
+25820237,9/8/2018,D-III,Carleton,Lawrence,RECEIVING,Dylan,Rye,YDS,59
+25820238,9/8/2018,D-III,Carleton,Lawrence,RECEIVING,Dylan,Rye,TD,1
+25820239,9/8/2018,D-III,Carleton,Lawrence,RECEIVING,Dylan,Rye,LONG,18
+25820240,9/8/2018,D-III,Carleton,Lawrence,RECEIVING,E,Williams,REC,5
+25820241,9/8/2018,D-III,Carleton,Lawrence,RECEIVING,E,Williams,YDS,56
+25820242,9/8/2018,D-III,Carleton,Lawrence,RECEIVING,E,Williams,TD,1
+25820243,9/8/2018,D-III,Carleton,Lawrence,RECEIVING,E,Williams,LONG,23
+25820244,9/8/2018,D-III,Carleton,Lawrence,RECEIVING,Beau,Nelson,REC,3
+25820245,9/8/2018,D-III,Carleton,Lawrence,RECEIVING,Beau,Nelson,YDS,33
+25820246,9/8/2018,D-III,Carleton,Lawrence,RECEIVING,Beau,Nelson,TD,0
+25820247,9/8/2018,D-III,Carleton,Lawrence,RECEIVING,Beau,Nelson,LONG,15
+25820248,9/8/2018,D-III,Carleton,Lawrence,RECEIVING,Sean,goodmanJr,REC,2
+25820249,9/8/2018,D-III,Carleton,Lawrence,RECEIVING,Sean,goodmanJr,YDS,8
+25820250,9/8/2018,D-III,Carleton,Lawrence,RECEIVING,Sean,goodmanJr,TD,0
+25820251,9/8/2018,D-III,Carleton,Lawrence,RECEIVING,Sean,goodmanJr,LONG,8
+25820252,9/8/2018,D-III,Carleton,Lawrence,RECEIVING,Jay,Bowers,REC,1
+25820253,9/8/2018,D-III,Carleton,Lawrence,RECEIVING,Jay,Bowers,YDS,4
+25820254,9/8/2018,D-III,Carleton,Lawrence,RECEIVING,Jay,Bowers,TD,0
+25820255,9/8/2018,D-III,Carleton,Lawrence,RECEIVING,Jay,Bowers,LONG,4
+25820256,9/8/2018,D-III,Carleton,Lawrence,PUNTING,Andy,Tangen,NO,5
+25820257,9/8/2018,D-III,Carleton,Lawrence,PUNTING,Andy,Tangen,YDS,167
+25820258,9/8/2018,D-III,Carleton,Lawrence,PUNTING,Andy,Tangen,AVG,33.4
+25820259,9/8/2018,D-III,Carleton,Lawrence,PUNTING,Andy,Tangen,LONG,42
+25820260,9/8/2018,D-III,Carleton,Lawrence,PUNT RETURNS,Eric,Mcgregor,NO,1
+25820261,9/8/2018,D-III,Carleton,Lawrence,PUNT RETURNS,Eric,Mcgregor,YDS,16
+25820262,9/8/2018,D-III,Carleton,Lawrence,PUNT RETURNS,Eric,Mcgregor,AVG,16.0
+25820263,9/8/2018,D-III,Carleton,Lawrence,PUNT RETURNS,Eric,Mcgregor,LONG,16
+25820264,9/8/2018,D-III,Carleton,Lawrence,KICK RETURNS,E,Williams,NO,2
+25820265,9/8/2018,D-III,Carleton,Lawrence,KICK RETURNS,E,Williams,YDS,44
+25820266,9/8/2018,D-III,Carleton,Lawrence,KICK RETURNS,E,Williams,AVG,22.0
+25820267,9/8/2018,D-III,Carleton,Lawrence,KICK RETURNS,E,Williams,LONG,27
+25820268,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Patrick,Mullins,TOT,2
+25820269,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Patrick,Mullins,SOLO,
+25820270,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Patrick,Mullins,SACKS,0
+25820271,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Patrick,Mullins,TFL,
+25820272,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Patrick,Mullins,INT,
+25820273,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Patrick,Mullins,FF,
+25820274,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Patrick,Mullins,FR,
+25820275,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,John,Witte,TOT,2
+25820276,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,John,Witte,SOLO,
+25820277,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,John,Witte,SACKS,1
+25820278,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,John,Witte,TFL,
+25820279,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,John,Witte,INT,
+25820280,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,John,Witte,FF,
+25820281,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,John,Witte,FR,
+25820282,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Ryan,Flanagan,TOT,1
+25820283,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Ryan,Flanagan,SOLO,
+25820284,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Ryan,Flanagan,SACKS,0
+25820285,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Ryan,Flanagan,TFL,
+25820286,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Ryan,Flanagan,INT,
+25820287,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Ryan,Flanagan,FF,
+25820288,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Ryan,Flanagan,FR,
+25820289,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,S,Kessenich,TOT,1
+25820290,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,S,Kessenich,SOLO,
+25820291,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,S,Kessenich,SACKS,0
+25820292,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,S,Kessenich,TFL,
+25820293,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,S,Kessenich,INT,
+25820294,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,S,Kessenich,FF,
+25820295,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,S,Kessenich,FR,
+25820296,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Spencer,Francis,TOT,8
+25820297,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Spencer,Francis,SOLO,
+25820298,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Spencer,Francis,SACKS,8
+25820299,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Spencer,Francis,TFL,
+25820300,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Spencer,Francis,INT,
+25820301,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Spencer,Francis,FF,
+25820302,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Spencer,Francis,FR,
+25820303,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Peter,Hagstrom,TOT,4
+25820304,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Peter,Hagstrom,SOLO,
+25820305,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Peter,Hagstrom,SACKS,3
+25820306,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Peter,Hagstrom,TFL,1
+25820307,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Peter,Hagstrom,INT,
+25820308,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Peter,Hagstrom,FF,
+25820309,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Peter,Hagstrom,FR,1
+25820310,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Eric,Mcgregor,TOT,6
+25820311,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Eric,Mcgregor,SOLO,
+25820312,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Eric,Mcgregor,SACKS,4
+25820313,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Eric,Mcgregor,TFL,
+25820314,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Eric,Mcgregor,INT,
+25820315,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Eric,Mcgregor,FF,1
+25820316,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Eric,Mcgregor,FR,
+25820317,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Christian,Cavan,TOT,3
+25820318,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Christian,Cavan,SOLO,
+25820319,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Christian,Cavan,SACKS,2
+25820320,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Christian,Cavan,TFL,
+25820321,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Christian,Cavan,INT,
+25820322,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Christian,Cavan,FF,
+25820323,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Christian,Cavan,FR,
+25820324,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Ryan,Mcgregor,TOT,3
+25820325,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Ryan,Mcgregor,SOLO,
+25820326,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Ryan,Mcgregor,SACKS,1
+25820327,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Ryan,Mcgregor,TFL,
+25820328,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Ryan,Mcgregor,INT,
+25820329,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Ryan,Mcgregor,FF,1
+25820330,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Ryan,Mcgregor,FR,
+25820331,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Dan,Scapicchio,TOT,2
+25820332,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Dan,Scapicchio,SOLO,
+25820333,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Dan,Scapicchio,SACKS,2
+25820334,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Dan,Scapicchio,TFL,
+25820335,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Dan,Scapicchio,INT,
+25820336,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Dan,Scapicchio,FF,
+25820337,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Dan,Scapicchio,FR,
+25820338,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Aaron,Prentice,TOT,1
+25820339,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Aaron,Prentice,SOLO,
+25820340,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Aaron,Prentice,SACKS,1
+25820341,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Aaron,Prentice,TFL,
+25820342,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Aaron,Prentice,INT,
+25820343,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Aaron,Prentice,FF,
+25820344,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Aaron,Prentice,FR,
+25820345,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Travis,Brown,TOT,4
+25820346,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Travis,Brown,SOLO,
+25820347,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Travis,Brown,SACKS,2
+25820348,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Travis,Brown,TFL,
+25820349,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Travis,Brown,INT,
+25820350,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Travis,Brown,FF,
+25820351,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Travis,Brown,FR,
+25820352,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,C,luaPineda,TOT,9
+25820353,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,C,luaPineda,SOLO,
+25820354,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,C,luaPineda,SACKS,5
+25820355,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,C,luaPineda,TFL,
+25820356,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,C,luaPineda,INT,
+25820357,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,C,luaPineda,FF,
+25820358,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,C,luaPineda,FR,1
+25820359,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Brevin,Clark,TOT,5
+25820360,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Brevin,Clark,SOLO,
+25820361,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Brevin,Clark,SACKS,3
+25820362,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Brevin,Clark,TFL,
+25820363,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Brevin,Clark,INT,
+25820364,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Brevin,Clark,FF,
+25820365,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Brevin,Clark,FR,2
+25820366,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,F,Dominguez,TOT,2
+25820367,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,F,Dominguez,SOLO,
+25820368,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,F,Dominguez,SACKS,1
+25820369,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,F,Dominguez,TFL,
+25820370,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,F,Dominguez,INT,
+25820371,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,F,Dominguez,FF,
+25820372,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,F,Dominguez,FR,
+25820373,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Kwaku,Bodom,TOT,9
+25820374,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Kwaku,Bodom,SOLO,
+25820375,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Kwaku,Bodom,SACKS,5
+25820376,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Kwaku,Bodom,TFL,
+25820377,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Kwaku,Bodom,INT,
+25820378,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Kwaku,Bodom,FF,
+25820379,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Kwaku,Bodom,FR,
+25820380,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Matt,Ganter,TOT,3
+25820381,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Matt,Ganter,SOLO,
+25820382,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Matt,Ganter,SACKS,1
+25820383,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Matt,Ganter,TFL,
+25820384,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Matt,Ganter,INT,
+25820385,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Matt,Ganter,FF,
+25820386,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Matt,Ganter,FR,
+25820387,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Joe,Lewis,TOT,6
+25820388,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Joe,Lewis,SOLO,
+25820389,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Joe,Lewis,SACKS,2
+25820390,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Joe,Lewis,TFL,
+25820391,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Joe,Lewis,INT,1
+25820392,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Joe,Lewis,FF,
+25820393,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Joe,Lewis,FR,1
+25820394,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Adam,Binzak,TOT,2
+25820395,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Adam,Binzak,SOLO,
+25820396,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Adam,Binzak,SACKS,0
+25820397,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Adam,Binzak,TFL,
+25820398,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Adam,Binzak,INT,
+25820399,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Adam,Binzak,FF,
+25820400,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Adam,Binzak,FR,
+25820401,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Tom,Rubino,TOT,1
+25820402,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Tom,Rubino,SOLO,
+25820403,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Tom,Rubino,SACKS,1
+25820404,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Tom,Rubino,TFL,
+25820405,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Tom,Rubino,INT,
+25820406,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Tom,Rubino,FF,
+25820407,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Tom,Rubino,FR,1
+25820408,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Oliver,Jacobs,TOT,1
+25820409,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Oliver,Jacobs,SOLO,
+25820410,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Oliver,Jacobs,SACKS,1
+25820411,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Oliver,Jacobs,TFL,
+25820412,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Oliver,Jacobs,INT,
+25820413,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Oliver,Jacobs,FF,
+25820414,9/8/2018,D-III,Carleton,Lawrence,DEFENSE,Oliver,Jacobs,FR,

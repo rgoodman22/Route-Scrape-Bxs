@@ -1,0 +1,109 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+21420001,11/1/2014,D-III,Amherst,Trinity (Conn.),RUSHING,Nick,Kelly,ATT,21
+21420002,11/1/2014,D-III,Amherst,Trinity (Conn.),RUSHING,Nick,Kelly,YDS,51
+21420003,11/1/2014,D-III,Amherst,Trinity (Conn.),RUSHING,Nick,Kelly,TD,0
+21420004,11/1/2014,D-III,Amherst,Trinity (Conn.),RUSHING,Nick,Kelly,LONG,10
+21420005,11/1/2014,D-III,Amherst,Trinity (Conn.),RUSHING,Raheem,Jackson,ATT,6
+21420006,11/1/2014,D-III,Amherst,Trinity (Conn.),RUSHING,Raheem,Jackson,YDS,17
+21420007,11/1/2014,D-III,Amherst,Trinity (Conn.),RUSHING,Raheem,Jackson,TD,0
+21420008,11/1/2014,D-III,Amherst,Trinity (Conn.),RUSHING,Raheem,Jackson,LONG,6
+21420009,11/1/2014,D-III,Amherst,Trinity (Conn.),RUSHING,J,Mcgonagle,ATT,2
+21420010,11/1/2014,D-III,Amherst,Trinity (Conn.),RUSHING,J,Mcgonagle,YDS,1
+21420011,11/1/2014,D-III,Amherst,Trinity (Conn.),RUSHING,J,Mcgonagle,TD,0
+21420012,11/1/2014,D-III,Amherst,Trinity (Conn.),RUSHING,J,Mcgonagle,LONG,7
+21420013,11/1/2014,D-III,Amherst,Trinity (Conn.),RUSHING,,Team,ATT,2
+21420014,11/1/2014,D-III,Amherst,Trinity (Conn.),RUSHING,,Team,YDS,0
+21420015,11/1/2014,D-III,Amherst,Trinity (Conn.),RUSHING,,Team,TD,0
+21420016,11/1/2014,D-III,Amherst,Trinity (Conn.),RUSHING,,Team,LONG,0
+21420017,11/1/2014,D-III,Amherst,Trinity (Conn.),RUSHING,Gene,Garay,ATT,2
+21420018,11/1/2014,D-III,Amherst,Trinity (Conn.),RUSHING,Gene,Garay,YDS,-5
+21420019,11/1/2014,D-III,Amherst,Trinity (Conn.),RUSHING,Gene,Garay,TD,0
+21420020,11/1/2014,D-III,Amherst,Trinity (Conn.),RUSHING,Gene,Garay,LONG,4
+21420021,11/1/2014,D-III,Amherst,Trinity (Conn.),RUSHING,Max,Lippe,ATT,4
+21420022,11/1/2014,D-III,Amherst,Trinity (Conn.),RUSHING,Max,Lippe,YDS,-10
+21420023,11/1/2014,D-III,Amherst,Trinity (Conn.),RUSHING,Max,Lippe,TD,0
+21420024,11/1/2014,D-III,Amherst,Trinity (Conn.),RUSHING,Max,Lippe,LONG,9
+21420025,11/1/2014,D-III,Amherst,Trinity (Conn.),PASSING,Max,Lippe,CP-ATT-INT,9-25-1
+21420026,11/1/2014,D-III,Amherst,Trinity (Conn.),PASSING,Max,Lippe,YDS,102
+21420027,11/1/2014,D-III,Amherst,Trinity (Conn.),PASSING,Max,Lippe,TD,1
+21420028,11/1/2014,D-III,Amherst,Trinity (Conn.),PASSING,Max,Lippe,LONG,20
+21420029,11/1/2014,D-III,Amherst,Trinity (Conn.),RECEIVING,Gene,Garay,REC,7
+21420030,11/1/2014,D-III,Amherst,Trinity (Conn.),RECEIVING,Gene,Garay,YDS,74
+21420031,11/1/2014,D-III,Amherst,Trinity (Conn.),RECEIVING,Gene,Garay,TD,0
+21420032,11/1/2014,D-III,Amherst,Trinity (Conn.),RECEIVING,Gene,Garay,LONG,20
+21420033,11/1/2014,D-III,Amherst,Trinity (Conn.),RECEIVING,J,Mcgonagle,REC,1
+21420034,11/1/2014,D-III,Amherst,Trinity (Conn.),RECEIVING,J,Mcgonagle,YDS,20
+21420035,11/1/2014,D-III,Amherst,Trinity (Conn.),RECEIVING,J,Mcgonagle,TD,1
+21420036,11/1/2014,D-III,Amherst,Trinity (Conn.),RECEIVING,J,Mcgonagle,LONG,20
+21420037,11/1/2014,D-III,Amherst,Trinity (Conn.),RECEIVING,Adam,Wallace,REC,1
+21420038,11/1/2014,D-III,Amherst,Trinity (Conn.),RECEIVING,Adam,Wallace,YDS,8
+21420039,11/1/2014,D-III,Amherst,Trinity (Conn.),RECEIVING,Adam,Wallace,TD,0
+21420040,11/1/2014,D-III,Amherst,Trinity (Conn.),RECEIVING,Adam,Wallace,LONG,8
+21420041,11/1/2014,D-III,Amherst,Trinity (Conn.),PUNTING,J,Mcgonagle,NO,10
+21420042,11/1/2014,D-III,Amherst,Trinity (Conn.),PUNTING,J,Mcgonagle,YDS,379
+21420043,11/1/2014,D-III,Amherst,Trinity (Conn.),PUNTING,J,Mcgonagle,AVG,37.9
+21420044,11/1/2014,D-III,Amherst,Trinity (Conn.),PUNTING,J,Mcgonagle,LONG,48
+21420045,11/1/2014,D-III,Amherst,Trinity (Conn.),PUNT RETURNS,Gene,Garay,NO,2
+21420046,11/1/2014,D-III,Amherst,Trinity (Conn.),PUNT RETURNS,Gene,Garay,YDS,24
+21420047,11/1/2014,D-III,Amherst,Trinity (Conn.),PUNT RETURNS,Gene,Garay,AVG,12.0
+21420048,11/1/2014,D-III,Amherst,Trinity (Conn.),PUNT RETURNS,Gene,Garay,LONG,18
+21420049,11/1/2014,D-III,Amherst,Trinity (Conn.),PUNT RETURNS,Jaymie,Spears,NO,1
+21420050,11/1/2014,D-III,Amherst,Trinity (Conn.),PUNT RETURNS,Jaymie,Spears,YDS,5
+21420051,11/1/2014,D-III,Amherst,Trinity (Conn.),PUNT RETURNS,Jaymie,Spears,AVG,5.0
+21420052,11/1/2014,D-III,Amherst,Trinity (Conn.),PUNT RETURNS,Jaymie,Spears,LONG,5
+21420053,11/1/2014,D-III,Amherst,Trinity (Conn.),KICK RETURNS,Devin,Boehm,NO,1
+21420054,11/1/2014,D-III,Amherst,Trinity (Conn.),KICK RETURNS,Devin,Boehm,YDS,23
+21420055,11/1/2014,D-III,Amherst,Trinity (Conn.),KICK RETURNS,Devin,Boehm,AVG,23.0
+21420056,11/1/2014,D-III,Amherst,Trinity (Conn.),KICK RETURNS,Devin,Boehm,LONG,23
+21420057,11/1/2014,D-III,Trinity (Conn.),Amherst,RUSHING,Darrien,Myers,ATT,11
+21420058,11/1/2014,D-III,Trinity (Conn.),Amherst,RUSHING,Darrien,Myers,YDS,87
+21420059,11/1/2014,D-III,Trinity (Conn.),Amherst,RUSHING,Darrien,Myers,TD,0
+21420060,11/1/2014,D-III,Trinity (Conn.),Amherst,RUSHING,Darrien,Myers,LONG,23
+21420061,11/1/2014,D-III,Trinity (Conn.),Amherst,RUSHING,Chudi,Iregbulem,ATT,29
+21420062,11/1/2014,D-III,Trinity (Conn.),Amherst,RUSHING,Chudi,Iregbulem,YDS,64
+21420063,11/1/2014,D-III,Trinity (Conn.),Amherst,RUSHING,Chudi,Iregbulem,TD,0
+21420064,11/1/2014,D-III,Trinity (Conn.),Amherst,RUSHING,Chudi,Iregbulem,LONG,6
+21420065,11/1/2014,D-III,Trinity (Conn.),Amherst,RUSHING,Spencer,Aukamp,ATT,13
+21420066,11/1/2014,D-III,Trinity (Conn.),Amherst,RUSHING,Spencer,Aukamp,YDS,53
+21420067,11/1/2014,D-III,Trinity (Conn.),Amherst,RUSHING,Spencer,Aukamp,TD,1
+21420068,11/1/2014,D-III,Trinity (Conn.),Amherst,RUSHING,Spencer,Aukamp,LONG,15
+21420069,11/1/2014,D-III,Trinity (Conn.),Amherst,RUSHING,Chris,Ragone,ATT,3
+21420070,11/1/2014,D-III,Trinity (Conn.),Amherst,RUSHING,Chris,Ragone,YDS,15
+21420071,11/1/2014,D-III,Trinity (Conn.),Amherst,RUSHING,Chris,Ragone,TD,0
+21420072,11/1/2014,D-III,Trinity (Conn.),Amherst,RUSHING,Chris,Ragone,LONG,10
+21420073,11/1/2014,D-III,Trinity (Conn.),Amherst,RUSHING,Jacob,Rivers,ATT,1
+21420074,11/1/2014,D-III,Trinity (Conn.),Amherst,RUSHING,Jacob,Rivers,YDS,3
+21420075,11/1/2014,D-III,Trinity (Conn.),Amherst,RUSHING,Jacob,Rivers,TD,0
+21420076,11/1/2014,D-III,Trinity (Conn.),Amherst,RUSHING,Jacob,Rivers,LONG,3
+21420077,11/1/2014,D-III,Trinity (Conn.),Amherst,RUSHING,Hayden,Jardine,ATT,2
+21420078,11/1/2014,D-III,Trinity (Conn.),Amherst,RUSHING,Hayden,Jardine,YDS,1
+21420079,11/1/2014,D-III,Trinity (Conn.),Amherst,RUSHING,Hayden,Jardine,TD,0
+21420080,11/1/2014,D-III,Trinity (Conn.),Amherst,RUSHING,Hayden,Jardine,LONG,9
+21420081,11/1/2014,D-III,Trinity (Conn.),Amherst,PASSING,Hayden,Jardine,CP-ATT-INT,2-8-2
+21420082,11/1/2014,D-III,Trinity (Conn.),Amherst,PASSING,Hayden,Jardine,YDS,10
+21420083,11/1/2014,D-III,Trinity (Conn.),Amherst,PASSING,Hayden,Jardine,TD,0
+21420084,11/1/2014,D-III,Trinity (Conn.),Amherst,PASSING,Hayden,Jardine,LONG,5
+21420085,11/1/2014,D-III,Trinity (Conn.),Amherst,PASSING,Spencer,Aukamp,CP-ATT-INT,0-1-0
+21420086,11/1/2014,D-III,Trinity (Conn.),Amherst,PASSING,Spencer,Aukamp,YDS,0
+21420087,11/1/2014,D-III,Trinity (Conn.),Amherst,PASSING,Spencer,Aukamp,TD,0
+21420088,11/1/2014,D-III,Trinity (Conn.),Amherst,PASSING,Spencer,Aukamp,LONG,0
+21420089,11/1/2014,D-III,Trinity (Conn.),Amherst,RECEIVING,Darrien,Myers,REC,1
+21420090,11/1/2014,D-III,Trinity (Conn.),Amherst,RECEIVING,Darrien,Myers,YDS,5
+21420091,11/1/2014,D-III,Trinity (Conn.),Amherst,RECEIVING,Darrien,Myers,TD,0
+21420092,11/1/2014,D-III,Trinity (Conn.),Amherst,RECEIVING,Darrien,Myers,LONG,5
+21420093,11/1/2014,D-III,Trinity (Conn.),Amherst,RECEIVING,Chris,Ragone,REC,1
+21420094,11/1/2014,D-III,Trinity (Conn.),Amherst,RECEIVING,Chris,Ragone,YDS,5
+21420095,11/1/2014,D-III,Trinity (Conn.),Amherst,RECEIVING,Chris,Ragone,TD,0
+21420096,11/1/2014,D-III,Trinity (Conn.),Amherst,RECEIVING,Chris,Ragone,LONG,5
+21420097,11/1/2014,D-III,Trinity (Conn.),Amherst,PUNTING,Kyle,Pulek,NO,9
+21420098,11/1/2014,D-III,Trinity (Conn.),Amherst,PUNTING,Kyle,Pulek,YDS,366
+21420099,11/1/2014,D-III,Trinity (Conn.),Amherst,PUNTING,Kyle,Pulek,AVG,40.7
+21420100,11/1/2014,D-III,Trinity (Conn.),Amherst,PUNTING,Kyle,Pulek,LONG,55
+21420101,11/1/2014,D-III,Trinity (Conn.),Amherst,PUNT RETURNS,Darrien,Myers,NO,1
+21420102,11/1/2014,D-III,Trinity (Conn.),Amherst,PUNT RETURNS,Darrien,Myers,YDS,12
+21420103,11/1/2014,D-III,Trinity (Conn.),Amherst,PUNT RETURNS,Darrien,Myers,AVG,12.0
+21420104,11/1/2014,D-III,Trinity (Conn.),Amherst,PUNT RETURNS,Darrien,Myers,LONG,12
+21420105,11/1/2014,D-III,Trinity (Conn.),Amherst,KICK RETURNS,Darrien,Myers,NO,2
+21420106,11/1/2014,D-III,Trinity (Conn.),Amherst,KICK RETURNS,Darrien,Myers,YDS,45
+21420107,11/1/2014,D-III,Trinity (Conn.),Amherst,KICK RETURNS,Darrien,Myers,AVG,22.5
+21420108,11/1/2014,D-III,Trinity (Conn.),Amherst,KICK RETURNS,Darrien,Myers,LONG,23

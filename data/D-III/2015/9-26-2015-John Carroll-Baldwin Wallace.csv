@@ -1,0 +1,121 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+22173001,9/26/2015,D-III,John Carroll,Baldwin Wallace,RUSHING,Arin,Pruitt,ATT,19
+22173002,9/26/2015,D-III,John Carroll,Baldwin Wallace,RUSHING,Arin,Pruitt,YDS,114
+22173003,9/26/2015,D-III,John Carroll,Baldwin Wallace,RUSHING,Arin,Pruitt,TD,1
+22173004,9/26/2015,D-III,John Carroll,Baldwin Wallace,RUSHING,Arin,Pruitt,LONG,53
+22173005,9/26/2015,D-III,John Carroll,Baldwin Wallace,RUSHING,Ro,Golphin,ATT,7
+22173006,9/26/2015,D-III,John Carroll,Baldwin Wallace,RUSHING,Ro,Golphin,YDS,48
+22173007,9/26/2015,D-III,John Carroll,Baldwin Wallace,RUSHING,Ro,Golphin,TD,0
+22173008,9/26/2015,D-III,John Carroll,Baldwin Wallace,RUSHING,Ro,Golphin,LONG,12
+22173009,9/26/2015,D-III,John Carroll,Baldwin Wallace,RUSHING,Jake,Schaefer,ATT,1
+22173010,9/26/2015,D-III,John Carroll,Baldwin Wallace,RUSHING,Jake,Schaefer,YDS,7
+22173011,9/26/2015,D-III,John Carroll,Baldwin Wallace,RUSHING,Jake,Schaefer,TD,0
+22173012,9/26/2015,D-III,John Carroll,Baldwin Wallace,RUSHING,Jake,Schaefer,LONG,7
+22173013,9/26/2015,D-III,John Carroll,Baldwin Wallace,RUSHING,,Team,ATT,3
+22173014,9/26/2015,D-III,John Carroll,Baldwin Wallace,RUSHING,,Team,YDS,-8
+22173015,9/26/2015,D-III,John Carroll,Baldwin Wallace,RUSHING,,Team,TD,0
+22173016,9/26/2015,D-III,John Carroll,Baldwin Wallace,RUSHING,,Team,LONG,0
+22173017,9/26/2015,D-III,John Carroll,Baldwin Wallace,PASSING,Jake,Schaefer,CP-ATT-INT,19-34-1
+22173018,9/26/2015,D-III,John Carroll,Baldwin Wallace,PASSING,Jake,Schaefer,YDS,143
+22173019,9/26/2015,D-III,John Carroll,Baldwin Wallace,PASSING,Jake,Schaefer,TD,1
+22173020,9/26/2015,D-III,John Carroll,Baldwin Wallace,PASSING,Jake,Schaefer,LONG,20
+22173021,9/26/2015,D-III,John Carroll,Baldwin Wallace,RECEIVING,Nico,James,REC,4
+22173022,9/26/2015,D-III,John Carroll,Baldwin Wallace,RECEIVING,Nico,James,YDS,28
+22173023,9/26/2015,D-III,John Carroll,Baldwin Wallace,RECEIVING,Nico,James,TD,0
+22173024,9/26/2015,D-III,John Carroll,Baldwin Wallace,RECEIVING,Nico,James,LONG,12
+22173025,9/26/2015,D-III,John Carroll,Baldwin Wallace,RECEIVING,Jordan,D'orazio,REC,4
+22173026,9/26/2015,D-III,John Carroll,Baldwin Wallace,RECEIVING,Jordan,D'orazio,YDS,25
+22173027,9/26/2015,D-III,John Carroll,Baldwin Wallace,RECEIVING,Jordan,D'orazio,TD,1
+22173028,9/26/2015,D-III,John Carroll,Baldwin Wallace,RECEIVING,Jordan,D'orazio,LONG,15
+22173029,9/26/2015,D-III,John Carroll,Baldwin Wallace,RECEIVING,Marshall,Howell,REC,3
+22173030,9/26/2015,D-III,John Carroll,Baldwin Wallace,RECEIVING,Marshall,Howell,YDS,24
+22173031,9/26/2015,D-III,John Carroll,Baldwin Wallace,RECEIVING,Marshall,Howell,TD,0
+22173032,9/26/2015,D-III,John Carroll,Baldwin Wallace,RECEIVING,Marshall,Howell,LONG,10
+22173033,9/26/2015,D-III,John Carroll,Baldwin Wallace,RECEIVING,Michael,Hippler,REC,2
+22173034,9/26/2015,D-III,John Carroll,Baldwin Wallace,RECEIVING,Michael,Hippler,YDS,22
+22173035,9/26/2015,D-III,John Carroll,Baldwin Wallace,RECEIVING,Michael,Hippler,TD,0
+22173036,9/26/2015,D-III,John Carroll,Baldwin Wallace,RECEIVING,Michael,Hippler,LONG,13
+22173037,9/26/2015,D-III,John Carroll,Baldwin Wallace,RECEIVING,Ro,Golphin,REC,1
+22173038,9/26/2015,D-III,John Carroll,Baldwin Wallace,RECEIVING,Ro,Golphin,YDS,20
+22173039,9/26/2015,D-III,John Carroll,Baldwin Wallace,RECEIVING,Ro,Golphin,TD,0
+22173040,9/26/2015,D-III,John Carroll,Baldwin Wallace,RECEIVING,Ro,Golphin,LONG,20
+22173041,9/26/2015,D-III,John Carroll,Baldwin Wallace,RECEIVING,Arin,Pruitt,REC,2
+22173042,9/26/2015,D-III,John Carroll,Baldwin Wallace,RECEIVING,Arin,Pruitt,YDS,15
+22173043,9/26/2015,D-III,John Carroll,Baldwin Wallace,RECEIVING,Arin,Pruitt,TD,0
+22173044,9/26/2015,D-III,John Carroll,Baldwin Wallace,RECEIVING,Arin,Pruitt,LONG,9
+22173045,9/26/2015,D-III,John Carroll,Baldwin Wallace,RECEIVING,Stan,eladIi,REC,1
+22173046,9/26/2015,D-III,John Carroll,Baldwin Wallace,RECEIVING,Stan,eladIi,YDS,5
+22173047,9/26/2015,D-III,John Carroll,Baldwin Wallace,RECEIVING,Stan,eladIi,TD,0
+22173048,9/26/2015,D-III,John Carroll,Baldwin Wallace,RECEIVING,Stan,eladIi,LONG,5
+22173049,9/26/2015,D-III,John Carroll,Baldwin Wallace,RECEIVING,Mark,Baniewicz,REC,2
+22173050,9/26/2015,D-III,John Carroll,Baldwin Wallace,RECEIVING,Mark,Baniewicz,YDS,4
+22173051,9/26/2015,D-III,John Carroll,Baldwin Wallace,RECEIVING,Mark,Baniewicz,TD,0
+22173052,9/26/2015,D-III,John Carroll,Baldwin Wallace,RECEIVING,Mark,Baniewicz,LONG,3
+22173053,9/26/2015,D-III,John Carroll,Baldwin Wallace,PUNTING,Kyle,Rodriguez,NO,4
+22173054,9/26/2015,D-III,John Carroll,Baldwin Wallace,PUNTING,Kyle,Rodriguez,YDS,185
+22173055,9/26/2015,D-III,John Carroll,Baldwin Wallace,PUNTING,Kyle,Rodriguez,AVG,46.3
+22173056,9/26/2015,D-III,John Carroll,Baldwin Wallace,PUNTING,Kyle,Rodriguez,LONG,53
+22173057,9/26/2015,D-III,John Carroll,Baldwin Wallace,KICK RETURNS,Danny,Disbrow,NO,1
+22173058,9/26/2015,D-III,John Carroll,Baldwin Wallace,KICK RETURNS,Danny,Disbrow,YDS,3
+22173059,9/26/2015,D-III,John Carroll,Baldwin Wallace,KICK RETURNS,Danny,Disbrow,AVG,3.0
+22173060,9/26/2015,D-III,John Carroll,Baldwin Wallace,KICK RETURNS,Danny,Disbrow,LONG,3
+22173061,9/26/2015,D-III,Baldwin Wallace,John Carroll,RUSHING,Austin,Smith,ATT,12
+22173062,9/26/2015,D-III,Baldwin Wallace,John Carroll,RUSHING,Austin,Smith,YDS,55
+22173063,9/26/2015,D-III,Baldwin Wallace,John Carroll,RUSHING,Austin,Smith,TD,0
+22173064,9/26/2015,D-III,Baldwin Wallace,John Carroll,RUSHING,Austin,Smith,LONG,10
+22173065,9/26/2015,D-III,Baldwin Wallace,John Carroll,RUSHING,Adam,Blake,ATT,11
+22173066,9/26/2015,D-III,Baldwin Wallace,John Carroll,RUSHING,Adam,Blake,YDS,54
+22173067,9/26/2015,D-III,Baldwin Wallace,John Carroll,RUSHING,Adam,Blake,TD,0
+22173068,9/26/2015,D-III,Baldwin Wallace,John Carroll,RUSHING,Adam,Blake,LONG,8
+22173069,9/26/2015,D-III,Baldwin Wallace,John Carroll,RUSHING,Tyler,Moeglin,ATT,21
+22173070,9/26/2015,D-III,Baldwin Wallace,John Carroll,RUSHING,Tyler,Moeglin,YDS,51
+22173071,9/26/2015,D-III,Baldwin Wallace,John Carroll,RUSHING,Tyler,Moeglin,TD,2
+22173072,9/26/2015,D-III,Baldwin Wallace,John Carroll,RUSHING,Tyler,Moeglin,LONG,18
+22173073,9/26/2015,D-III,Baldwin Wallace,John Carroll,RUSHING,Issac,reedIii,ATT,5
+22173074,9/26/2015,D-III,Baldwin Wallace,John Carroll,RUSHING,Issac,reedIii,YDS,21
+22173075,9/26/2015,D-III,Baldwin Wallace,John Carroll,RUSHING,Issac,reedIii,TD,0
+22173076,9/26/2015,D-III,Baldwin Wallace,John Carroll,RUSHING,Issac,reedIii,LONG,8
+22173077,9/26/2015,D-III,Baldwin Wallace,John Carroll,RUSHING,Tyler,Wolf,ATT,2
+22173078,9/26/2015,D-III,Baldwin Wallace,John Carroll,RUSHING,Tyler,Wolf,YDS,19
+22173079,9/26/2015,D-III,Baldwin Wallace,John Carroll,RUSHING,Tyler,Wolf,TD,0
+22173080,9/26/2015,D-III,Baldwin Wallace,John Carroll,RUSHING,Tyler,Wolf,LONG,10
+22173081,9/26/2015,D-III,Baldwin Wallace,John Carroll,PASSING,Tyler,Moeglin,CP-ATT-INT,9-17-1
+22173082,9/26/2015,D-III,Baldwin Wallace,John Carroll,PASSING,Tyler,Moeglin,YDS,76
+22173083,9/26/2015,D-III,Baldwin Wallace,John Carroll,PASSING,Tyler,Moeglin,TD,0
+22173084,9/26/2015,D-III,Baldwin Wallace,John Carroll,PASSING,Tyler,Moeglin,LONG,16
+22173085,9/26/2015,D-III,Baldwin Wallace,John Carroll,RECEIVING,Bryon,Cook,REC,3
+22173086,9/26/2015,D-III,Baldwin Wallace,John Carroll,RECEIVING,Bryon,Cook,YDS,31
+22173087,9/26/2015,D-III,Baldwin Wallace,John Carroll,RECEIVING,Bryon,Cook,TD,0
+22173088,9/26/2015,D-III,Baldwin Wallace,John Carroll,RECEIVING,Bryon,Cook,LONG,16
+22173089,9/26/2015,D-III,Baldwin Wallace,John Carroll,RECEIVING,Trevor,George,REC,2
+22173090,9/26/2015,D-III,Baldwin Wallace,John Carroll,RECEIVING,Trevor,George,YDS,18
+22173091,9/26/2015,D-III,Baldwin Wallace,John Carroll,RECEIVING,Trevor,George,TD,0
+22173092,9/26/2015,D-III,Baldwin Wallace,John Carroll,RECEIVING,Trevor,George,LONG,11
+22173093,9/26/2015,D-III,Baldwin Wallace,John Carroll,RECEIVING,Dylan,Minick,REC,1
+22173094,9/26/2015,D-III,Baldwin Wallace,John Carroll,RECEIVING,Dylan,Minick,YDS,13
+22173095,9/26/2015,D-III,Baldwin Wallace,John Carroll,RECEIVING,Dylan,Minick,TD,0
+22173096,9/26/2015,D-III,Baldwin Wallace,John Carroll,RECEIVING,Dylan,Minick,LONG,13
+22173097,9/26/2015,D-III,Baldwin Wallace,John Carroll,RECEIVING,Austin,Smith,REC,2
+22173098,9/26/2015,D-III,Baldwin Wallace,John Carroll,RECEIVING,Austin,Smith,YDS,10
+22173099,9/26/2015,D-III,Baldwin Wallace,John Carroll,RECEIVING,Austin,Smith,TD,0
+22173100,9/26/2015,D-III,Baldwin Wallace,John Carroll,RECEIVING,Austin,Smith,LONG,10
+22173101,9/26/2015,D-III,Baldwin Wallace,John Carroll,RECEIVING,Tommy,Fuller,REC,1
+22173102,9/26/2015,D-III,Baldwin Wallace,John Carroll,RECEIVING,Tommy,Fuller,YDS,4
+22173103,9/26/2015,D-III,Baldwin Wallace,John Carroll,RECEIVING,Tommy,Fuller,TD,0
+22173104,9/26/2015,D-III,Baldwin Wallace,John Carroll,RECEIVING,Tommy,Fuller,LONG,4
+22173105,9/26/2015,D-III,Baldwin Wallace,John Carroll,PUNTING,Tyler,Moeglin,NO,1
+22173106,9/26/2015,D-III,Baldwin Wallace,John Carroll,PUNTING,Tyler,Moeglin,YDS,14
+22173107,9/26/2015,D-III,Baldwin Wallace,John Carroll,PUNTING,Tyler,Moeglin,AVG,14.0
+22173108,9/26/2015,D-III,Baldwin Wallace,John Carroll,PUNTING,Tyler,Moeglin,LONG,14
+22173109,9/26/2015,D-III,Baldwin Wallace,John Carroll,PUNTING,Austin,Smith,NO,5
+22173110,9/26/2015,D-III,Baldwin Wallace,John Carroll,PUNTING,Austin,Smith,YDS,186
+22173111,9/26/2015,D-III,Baldwin Wallace,John Carroll,PUNTING,Austin,Smith,AVG,37.2
+22173112,9/26/2015,D-III,Baldwin Wallace,John Carroll,PUNTING,Austin,Smith,LONG,40
+22173113,9/26/2015,D-III,Baldwin Wallace,John Carroll,PUNT RETURNS,Austin,Smith,NO,2
+22173114,9/26/2015,D-III,Baldwin Wallace,John Carroll,PUNT RETURNS,Austin,Smith,YDS,28
+22173115,9/26/2015,D-III,Baldwin Wallace,John Carroll,PUNT RETURNS,Austin,Smith,AVG,14.0
+22173116,9/26/2015,D-III,Baldwin Wallace,John Carroll,PUNT RETURNS,Austin,Smith,LONG,17
+22173117,9/26/2015,D-III,Baldwin Wallace,John Carroll,KICK RETURNS,T,Washington,NO,4
+22173118,9/26/2015,D-III,Baldwin Wallace,John Carroll,KICK RETURNS,T,Washington,YDS,59
+22173119,9/26/2015,D-III,Baldwin Wallace,John Carroll,KICK RETURNS,T,Washington,AVG,14.8
+22173120,9/26/2015,D-III,Baldwin Wallace,John Carroll,KICK RETURNS,T,Washington,LONG,33

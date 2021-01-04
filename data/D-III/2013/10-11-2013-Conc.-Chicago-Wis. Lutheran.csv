@@ -1,0 +1,93 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+19831001,10/11/2013,D-III,Conc.-Chicago,Wis. Lutheran,RUSHING,,Team,ATT,3
+19831002,10/11/2013,D-III,Conc.-Chicago,Wis. Lutheran,RUSHING,,Team,YDS,-46
+19831003,10/11/2013,D-III,Conc.-Chicago,Wis. Lutheran,RUSHING,,Team,TD,0
+19831004,10/11/2013,D-III,Conc.-Chicago,Wis. Lutheran,RUSHING,,Team,LONG,0
+19831005,10/11/2013,D-III,Conc.-Chicago,Wis. Lutheran,PASSING,,Team,CP-ATT-INT,15-35-1
+19831006,10/11/2013,D-III,Conc.-Chicago,Wis. Lutheran,PASSING,,Team,YDS,126
+19831007,10/11/2013,D-III,Conc.-Chicago,Wis. Lutheran,PASSING,,Team,TD,1
+19831008,10/11/2013,D-III,Conc.-Chicago,Wis. Lutheran,PASSING,,Team,LONG,32
+19831009,10/11/2013,D-III,Conc.-Chicago,Wis. Lutheran,RECEIVING,M,Williams,REC,1
+19831010,10/11/2013,D-III,Conc.-Chicago,Wis. Lutheran,RECEIVING,M,Williams,YDS,5
+19831011,10/11/2013,D-III,Conc.-Chicago,Wis. Lutheran,RECEIVING,M,Williams,TD,0
+19831012,10/11/2013,D-III,Conc.-Chicago,Wis. Lutheran,RECEIVING,M,Williams,LONG,5
+19831013,10/11/2013,D-III,Conc.-Chicago,Wis. Lutheran,RECEIVING,,Team,REC,1
+19831014,10/11/2013,D-III,Conc.-Chicago,Wis. Lutheran,RECEIVING,,Team,YDS,32
+19831015,10/11/2013,D-III,Conc.-Chicago,Wis. Lutheran,RECEIVING,,Team,TD,0
+19831016,10/11/2013,D-III,Conc.-Chicago,Wis. Lutheran,RECEIVING,,Team,LONG,32
+19831017,10/11/2013,D-III,Conc.-Chicago,Wis. Lutheran,PUNTING,,Team,NO,6
+19831018,10/11/2013,D-III,Conc.-Chicago,Wis. Lutheran,PUNTING,,Team,YDS,193
+19831019,10/11/2013,D-III,Conc.-Chicago,Wis. Lutheran,PUNTING,,Team,AVG,32.2
+19831020,10/11/2013,D-III,Conc.-Chicago,Wis. Lutheran,PUNTING,,Team,LONG,45
+19831021,10/11/2013,D-III,Conc.-Chicago,Wis. Lutheran,PUNT RETURNS,,Team,NO,1
+19831022,10/11/2013,D-III,Conc.-Chicago,Wis. Lutheran,PUNT RETURNS,,Team,YDS,0
+19831023,10/11/2013,D-III,Conc.-Chicago,Wis. Lutheran,PUNT RETURNS,,Team,AVG,0.0
+19831024,10/11/2013,D-III,Conc.-Chicago,Wis. Lutheran,PUNT RETURNS,,Team,LONG,0
+19831025,10/11/2013,D-III,Conc.-Chicago,Wis. Lutheran,KICK RETURNS,,Team,NO,3
+19831026,10/11/2013,D-III,Conc.-Chicago,Wis. Lutheran,KICK RETURNS,,Team,YDS,55
+19831027,10/11/2013,D-III,Conc.-Chicago,Wis. Lutheran,KICK RETURNS,,Team,AVG,18.3
+19831028,10/11/2013,D-III,Conc.-Chicago,Wis. Lutheran,KICK RETURNS,,Team,LONG,22
+19831029,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RUSHING,Drew,Dyrssen,ATT,1
+19831030,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RUSHING,Drew,Dyrssen,YDS,-8
+19831031,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RUSHING,Drew,Dyrssen,TD,0
+19831032,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RUSHING,Drew,Dyrssen,LONG,0
+19831033,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RUSHING,A,Rodriguez,ATT,15
+19831034,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RUSHING,A,Rodriguez,YDS,89
+19831035,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RUSHING,A,Rodriguez,TD,0
+19831036,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RUSHING,A,Rodriguez,LONG,18
+19831037,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RUSHING,Alex,Herman,ATT,1
+19831038,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RUSHING,Alex,Herman,YDS,-2
+19831039,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RUSHING,Alex,Herman,TD,0
+19831040,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RUSHING,Alex,Herman,LONG,0
+19831041,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RUSHING,Nick,Sherwood,ATT,1
+19831042,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RUSHING,Nick,Sherwood,YDS,6
+19831043,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RUSHING,Nick,Sherwood,TD,0
+19831044,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RUSHING,Nick,Sherwood,LONG,6
+19831045,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RUSHING,Donavin,Tucker,ATT,15
+19831046,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RUSHING,Donavin,Tucker,YDS,50
+19831047,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RUSHING,Donavin,Tucker,TD,2
+19831048,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RUSHING,Donavin,Tucker,LONG,26
+19831049,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RUSHING,Chris,Williams,ATT,4
+19831050,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RUSHING,Chris,Williams,YDS,14
+19831051,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RUSHING,Chris,Williams,TD,0
+19831052,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RUSHING,Chris,Williams,LONG,8
+19831053,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RUSHING,Mike,Reeves,ATT,21
+19831054,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RUSHING,Mike,Reeves,YDS,112
+19831055,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RUSHING,Mike,Reeves,TD,3
+19831056,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RUSHING,Mike,Reeves,LONG,33
+19831057,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,PASSING,Drew,Dyrssen,CP-ATT-INT,6-14-5
+19831058,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,PASSING,Drew,Dyrssen,YDS,72
+19831059,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,PASSING,Drew,Dyrssen,TD,0
+19831060,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,PASSING,Drew,Dyrssen,LONG,17
+19831061,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,PASSING,A,Rodriguez,CP-ATT-INT,2-4-0
+19831062,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,PASSING,A,Rodriguez,YDS,70
+19831063,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,PASSING,A,Rodriguez,TD,1
+19831064,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,PASSING,A,Rodriguez,LONG,68
+19831065,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,PASSING,Gino,Degeorge,CP-ATT-INT,1-1-0
+19831066,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,PASSING,Gino,Degeorge,YDS,25
+19831067,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,PASSING,Gino,Degeorge,TD,1
+19831068,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,PASSING,Gino,Degeorge,LONG,25
+19831069,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RECEIVING,Eli,Campbell,REC,4
+19831070,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RECEIVING,Eli,Campbell,YDS,42
+19831071,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RECEIVING,Eli,Campbell,TD,0
+19831072,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RECEIVING,Eli,Campbell,LONG,15
+19831073,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RECEIVING,Mitch,Skarban,REC,3
+19831074,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RECEIVING,Mitch,Skarban,YDS,98
+19831075,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RECEIVING,Mitch,Skarban,TD,1
+19831076,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RECEIVING,Mitch,Skarban,LONG,68
+19831077,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RECEIVING,Donavin,Tucker,REC,1
+19831078,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RECEIVING,Donavin,Tucker,YDS,2
+19831079,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RECEIVING,Donavin,Tucker,TD,0
+19831080,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RECEIVING,Donavin,Tucker,LONG,2
+19831081,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RECEIVING,Matt,Gordy,REC,1
+19831082,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RECEIVING,Matt,Gordy,YDS,25
+19831083,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RECEIVING,Matt,Gordy,TD,1
+19831084,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,RECEIVING,Matt,Gordy,LONG,25
+19831085,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,PUNTING,Matt,Grams,NO,6
+19831086,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,PUNTING,Matt,Grams,YDS,165
+19831087,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,PUNTING,Matt,Grams,AVG,27.5
+19831088,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,PUNTING,Matt,Grams,LONG,38
+19831089,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,PUNT RETURNS,Matt,Gordy,NO,3
+19831090,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,PUNT RETURNS,Matt,Gordy,YDS,12
+19831091,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,PUNT RETURNS,Matt,Gordy,AVG,4.0
+19831092,10/11/2013,D-III,Wis. Lutheran,Conc.-Chicago,PUNT RETURNS,Matt,Gordy,LONG,8

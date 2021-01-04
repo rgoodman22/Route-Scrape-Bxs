@@ -1,0 +1,462 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+18587001,9/28/2019,D-II,Livingstone,Lincoln (PA),RUSHING,Andrew,Faramio,ATT,8
+18587002,9/28/2019,D-II,Livingstone,Lincoln (PA),RUSHING,Andrew,Faramio,YDS,37
+18587003,9/28/2019,D-II,Livingstone,Lincoln (PA),RUSHING,Andrew,Faramio,TD,1
+18587004,9/28/2019,D-II,Livingstone,Lincoln (PA),RUSHING,Andrew,Faramio,LONG,15
+18587005,9/28/2019,D-II,Livingstone,Lincoln (PA),RUSHING,Darre,Buthune,ATT,8
+18587006,9/28/2019,D-II,Livingstone,Lincoln (PA),RUSHING,Darre,Buthune,YDS,25
+18587007,9/28/2019,D-II,Livingstone,Lincoln (PA),RUSHING,Darre,Buthune,TD,0
+18587008,9/28/2019,D-II,Livingstone,Lincoln (PA),RUSHING,Darre,Buthune,LONG,7
+18587009,9/28/2019,D-II,Livingstone,Lincoln (PA),RUSHING,Tyrell,Baldwin,ATT,6
+18587010,9/28/2019,D-II,Livingstone,Lincoln (PA),RUSHING,Tyrell,Baldwin,YDS,19
+18587011,9/28/2019,D-II,Livingstone,Lincoln (PA),RUSHING,Tyrell,Baldwin,TD,1
+18587012,9/28/2019,D-II,Livingstone,Lincoln (PA),RUSHING,Tyrell,Baldwin,LONG,9
+18587013,9/28/2019,D-II,Livingstone,Lincoln (PA),RUSHING,Jaylen,Askew,ATT,3
+18587014,9/28/2019,D-II,Livingstone,Lincoln (PA),RUSHING,Jaylen,Askew,YDS,9
+18587015,9/28/2019,D-II,Livingstone,Lincoln (PA),RUSHING,Jaylen,Askew,TD,0
+18587016,9/28/2019,D-II,Livingstone,Lincoln (PA),RUSHING,Jaylen,Askew,LONG,10
+18587017,9/28/2019,D-II,Livingstone,Lincoln (PA),RUSHING,Kendall,Green,ATT,1
+18587018,9/28/2019,D-II,Livingstone,Lincoln (PA),RUSHING,Kendall,Green,YDS,2
+18587019,9/28/2019,D-II,Livingstone,Lincoln (PA),RUSHING,Kendall,Green,TD,0
+18587020,9/28/2019,D-II,Livingstone,Lincoln (PA),RUSHING,Kendall,Green,LONG,2
+18587021,9/28/2019,D-II,Livingstone,Lincoln (PA),RUSHING,Miles,Hayes,ATT,9
+18587022,9/28/2019,D-II,Livingstone,Lincoln (PA),RUSHING,Miles,Hayes,YDS,1
+18587023,9/28/2019,D-II,Livingstone,Lincoln (PA),RUSHING,Miles,Hayes,TD,1
+18587024,9/28/2019,D-II,Livingstone,Lincoln (PA),RUSHING,Miles,Hayes,LONG,7
+18587025,9/28/2019,D-II,Livingstone,Lincoln (PA),RUSHING,,Team,ATT,2
+18587026,9/28/2019,D-II,Livingstone,Lincoln (PA),RUSHING,,Team,YDS,-6
+18587027,9/28/2019,D-II,Livingstone,Lincoln (PA),RUSHING,,Team,TD,0
+18587028,9/28/2019,D-II,Livingstone,Lincoln (PA),RUSHING,,Team,LONG,3
+18587029,9/28/2019,D-II,Livingstone,Lincoln (PA),PASSING,Miles,Hayes,CP-ATT-INT,10-18-0
+18587030,9/28/2019,D-II,Livingstone,Lincoln (PA),PASSING,Miles,Hayes,YDS,106
+18587031,9/28/2019,D-II,Livingstone,Lincoln (PA),PASSING,Miles,Hayes,TD,2
+18587032,9/28/2019,D-II,Livingstone,Lincoln (PA),PASSING,Miles,Hayes,LONG,18
+18587033,9/28/2019,D-II,Livingstone,Lincoln (PA),PASSING,,Team,CP-ATT-INT,5-7-0
+18587034,9/28/2019,D-II,Livingstone,Lincoln (PA),PASSING,,Team,YDS,65
+18587035,9/28/2019,D-II,Livingstone,Lincoln (PA),PASSING,,Team,TD,0
+18587036,9/28/2019,D-II,Livingstone,Lincoln (PA),PASSING,,Team,LONG,35
+18587037,9/28/2019,D-II,Livingstone,Lincoln (PA),PASSING,Darre,Buthune,CP-ATT-INT,1-1-0
+18587038,9/28/2019,D-II,Livingstone,Lincoln (PA),PASSING,Darre,Buthune,YDS,20
+18587039,9/28/2019,D-II,Livingstone,Lincoln (PA),PASSING,Darre,Buthune,TD,0
+18587040,9/28/2019,D-II,Livingstone,Lincoln (PA),PASSING,Darre,Buthune,LONG,20
+18587041,9/28/2019,D-II,Livingstone,Lincoln (PA),RECEIVING,Jor,Cartwright,REC,3
+18587042,9/28/2019,D-II,Livingstone,Lincoln (PA),RECEIVING,Jor,Cartwright,YDS,53
+18587043,9/28/2019,D-II,Livingstone,Lincoln (PA),RECEIVING,Jor,Cartwright,TD,1
+18587044,9/28/2019,D-II,Livingstone,Lincoln (PA),RECEIVING,Jor,Cartwright,LONG,18
+18587045,9/28/2019,D-II,Livingstone,Lincoln (PA),RECEIVING,Anthony,Brown,REC,2
+18587046,9/28/2019,D-II,Livingstone,Lincoln (PA),RECEIVING,Anthony,Brown,YDS,43
+18587047,9/28/2019,D-II,Livingstone,Lincoln (PA),RECEIVING,Anthony,Brown,TD,1
+18587048,9/28/2019,D-II,Livingstone,Lincoln (PA),RECEIVING,Anthony,Brown,LONG,35
+18587049,9/28/2019,D-II,Livingstone,Lincoln (PA),RECEIVING,Anthon,Faramio,REC,4
+18587050,9/28/2019,D-II,Livingstone,Lincoln (PA),RECEIVING,Anthon,Faramio,YDS,40
+18587051,9/28/2019,D-II,Livingstone,Lincoln (PA),RECEIVING,Anthon,Faramio,TD,0
+18587052,9/28/2019,D-II,Livingstone,Lincoln (PA),RECEIVING,Anthon,Faramio,LONG,20
+18587053,9/28/2019,D-II,Livingstone,Lincoln (PA),RECEIVING,Deandr,Vickers,REC,1
+18587054,9/28/2019,D-II,Livingstone,Lincoln (PA),RECEIVING,Deandr,Vickers,YDS,17
+18587055,9/28/2019,D-II,Livingstone,Lincoln (PA),RECEIVING,Deandr,Vickers,TD,0
+18587056,9/28/2019,D-II,Livingstone,Lincoln (PA),RECEIVING,Deandr,Vickers,LONG,17
+18587057,9/28/2019,D-II,Livingstone,Lincoln (PA),RECEIVING,Raymon,Mcguire,REC,1
+18587058,9/28/2019,D-II,Livingstone,Lincoln (PA),RECEIVING,Raymon,Mcguire,YDS,14
+18587059,9/28/2019,D-II,Livingstone,Lincoln (PA),RECEIVING,Raymon,Mcguire,TD,0
+18587060,9/28/2019,D-II,Livingstone,Lincoln (PA),RECEIVING,Raymon,Mcguire,LONG,14
+18587061,9/28/2019,D-II,Livingstone,Lincoln (PA),RECEIVING,Daveon,Howard,REC,1
+18587062,9/28/2019,D-II,Livingstone,Lincoln (PA),RECEIVING,Daveon,Howard,YDS,12
+18587063,9/28/2019,D-II,Livingstone,Lincoln (PA),RECEIVING,Daveon,Howard,TD,0
+18587064,9/28/2019,D-II,Livingstone,Lincoln (PA),RECEIVING,Daveon,Howard,LONG,12
+18587065,9/28/2019,D-II,Livingstone,Lincoln (PA),RECEIVING,Jaylen,Askew,REC,1
+18587066,9/28/2019,D-II,Livingstone,Lincoln (PA),RECEIVING,Jaylen,Askew,YDS,6
+18587067,9/28/2019,D-II,Livingstone,Lincoln (PA),RECEIVING,Jaylen,Askew,TD,0
+18587068,9/28/2019,D-II,Livingstone,Lincoln (PA),RECEIVING,Jaylen,Askew,LONG,6
+18587069,9/28/2019,D-II,Livingstone,Lincoln (PA),RECEIVING,Kendall,Green,REC,2
+18587070,9/28/2019,D-II,Livingstone,Lincoln (PA),RECEIVING,Kendall,Green,YDS,6
+18587071,9/28/2019,D-II,Livingstone,Lincoln (PA),RECEIVING,Kendall,Green,TD,0
+18587072,9/28/2019,D-II,Livingstone,Lincoln (PA),RECEIVING,Kendall,Green,LONG,6
+18587073,9/28/2019,D-II,Livingstone,Lincoln (PA),RECEIVING,Ryan,Williams,REC,1
+18587074,9/28/2019,D-II,Livingstone,Lincoln (PA),RECEIVING,Ryan,Williams,YDS,0
+18587075,9/28/2019,D-II,Livingstone,Lincoln (PA),RECEIVING,Ryan,Williams,TD,0
+18587076,9/28/2019,D-II,Livingstone,Lincoln (PA),RECEIVING,Ryan,Williams,LONG,0
+18587077,9/28/2019,D-II,Livingstone,Lincoln (PA),PUNTING,Antoine,Akundu,NO,5
+18587078,9/28/2019,D-II,Livingstone,Lincoln (PA),PUNTING,Antoine,Akundu,YDS,164
+18587079,9/28/2019,D-II,Livingstone,Lincoln (PA),PUNTING,Antoine,Akundu,AVG,32.8
+18587080,9/28/2019,D-II,Livingstone,Lincoln (PA),PUNTING,Antoine,Akundu,LONG,46
+18587081,9/28/2019,D-II,Livingstone,Lincoln (PA),PUNTING,,Team,NO,1
+18587082,9/28/2019,D-II,Livingstone,Lincoln (PA),PUNTING,,Team,YDS,0
+18587083,9/28/2019,D-II,Livingstone,Lincoln (PA),PUNTING,,Team,AVG,0.0
+18587084,9/28/2019,D-II,Livingstone,Lincoln (PA),PUNTING,,Team,LONG,0
+18587085,9/28/2019,D-II,Livingstone,Lincoln (PA),KICK RETURNS,Rahee,Coxfield,NO,1
+18587086,9/28/2019,D-II,Livingstone,Lincoln (PA),KICK RETURNS,Rahee,Coxfield,YDS,68
+18587087,9/28/2019,D-II,Livingstone,Lincoln (PA),KICK RETURNS,Rahee,Coxfield,AVG,68.0
+18587088,9/28/2019,D-II,Livingstone,Lincoln (PA),KICK RETURNS,Rahee,Coxfield,LONG,68
+18587089,9/28/2019,D-II,Livingstone,Lincoln (PA),KICK RETURNS,Monte,Seabrook,NO,2
+18587090,9/28/2019,D-II,Livingstone,Lincoln (PA),KICK RETURNS,Monte,Seabrook,YDS,32
+18587091,9/28/2019,D-II,Livingstone,Lincoln (PA),KICK RETURNS,Monte,Seabrook,AVG,16.0
+18587092,9/28/2019,D-II,Livingstone,Lincoln (PA),KICK RETURNS,Monte,Seabrook,LONG,18
+18587093,9/28/2019,D-II,Livingstone,Lincoln (PA),KICK RETURNS,Jamond,Handy,NO,1
+18587094,9/28/2019,D-II,Livingstone,Lincoln (PA),KICK RETURNS,Jamond,Handy,YDS,12
+18587095,9/28/2019,D-II,Livingstone,Lincoln (PA),KICK RETURNS,Jamond,Handy,AVG,12.0
+18587096,9/28/2019,D-II,Livingstone,Lincoln (PA),KICK RETURNS,Jamond,Handy,LONG,12
+18587097,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Walter,Watkins,TOT,3
+18587098,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Walter,Watkins,SOLO,
+18587099,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Walter,Watkins,SACKS,1
+18587100,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Walter,Watkins,TFL,
+18587101,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Walter,Watkins,INT,
+18587102,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Walter,Watkins,FF,
+18587103,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Walter,Watkins,FR,
+18587104,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Rahee,Coxfield,TOT,5
+18587105,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Rahee,Coxfield,SOLO,
+18587106,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Rahee,Coxfield,SACKS,3
+18587107,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Rahee,Coxfield,TFL,
+18587108,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Rahee,Coxfield,INT,
+18587109,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Rahee,Coxfield,FF,
+18587110,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Rahee,Coxfield,FR,0
+18587111,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Domi,Alexander,TOT,2
+18587112,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Domi,Alexander,SOLO,
+18587113,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Domi,Alexander,SACKS,2
+18587114,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Domi,Alexander,TFL,
+18587115,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Domi,Alexander,INT,
+18587116,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Domi,Alexander,FF,
+18587117,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Domi,Alexander,FR,
+18587118,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Cam,Cunningham,TOT,1
+18587119,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Cam,Cunningham,SOLO,
+18587120,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Cam,Cunningham,SACKS,0
+18587121,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Cam,Cunningham,TFL,
+18587122,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Cam,Cunningham,INT,
+18587123,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Cam,Cunningham,FF,
+18587124,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Cam,Cunningham,FR,
+18587125,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Raymon,Mcguire,TOT,3
+18587126,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Raymon,Mcguire,SOLO,
+18587127,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Raymon,Mcguire,SACKS,2
+18587128,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Raymon,Mcguire,TFL,
+18587129,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Raymon,Mcguire,INT,
+18587130,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Raymon,Mcguire,FF,
+18587131,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Raymon,Mcguire,FR,
+18587132,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Juw,Funderburk,TOT,2
+18587133,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Juw,Funderburk,SOLO,
+18587134,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Juw,Funderburk,SACKS,1
+18587135,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Juw,Funderburk,TFL,
+18587136,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Juw,Funderburk,INT,
+18587137,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Juw,Funderburk,FF,
+18587138,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Juw,Funderburk,FR,
+18587139,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Gibson,Ziah,TOT,6
+18587140,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Gibson,Ziah,SOLO,
+18587141,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Gibson,Ziah,SACKS,5
+18587142,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Gibson,Ziah,TFL,
+18587143,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Gibson,Ziah,INT,
+18587144,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Gibson,Ziah,FF,
+18587145,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Gibson,Ziah,FR,3
+18587146,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Ian,Tyler,TOT,5
+18587147,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Ian,Tyler,SOLO,
+18587148,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Ian,Tyler,SACKS,4
+18587149,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Ian,Tyler,TFL,
+18587150,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Ian,Tyler,INT,
+18587151,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Ian,Tyler,FF,
+18587152,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Ian,Tyler,FR,1
+18587153,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,James,Douglas,TOT,2
+18587154,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,James,Douglas,SOLO,
+18587155,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,James,Douglas,SACKS,2
+18587156,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,James,Douglas,TFL,
+18587157,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,James,Douglas,INT,
+18587158,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,James,Douglas,FF,
+18587159,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,James,Douglas,FR,
+18587160,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Jordan,Oates,TOT,4
+18587161,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Jordan,Oates,SOLO,
+18587162,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Jordan,Oates,SACKS,3
+18587163,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Jordan,Oates,TFL,
+18587164,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Jordan,Oates,INT,
+18587165,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Jordan,Oates,FF,
+18587166,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Jordan,Oates,FR,1
+18587167,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Rodney,Brooks,TOT,2
+18587168,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Rodney,Brooks,SOLO,
+18587169,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Rodney,Brooks,SACKS,2
+18587170,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Rodney,Brooks,TFL,
+18587171,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Rodney,Brooks,INT,
+18587172,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Rodney,Brooks,FF,
+18587173,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Rodney,Brooks,FR,
+18587174,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Monte,Seabrook,TOT,4
+18587175,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Monte,Seabrook,SOLO,
+18587176,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Monte,Seabrook,SACKS,4
+18587177,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Monte,Seabrook,TFL,
+18587178,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Monte,Seabrook,INT,
+18587179,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Monte,Seabrook,FF,
+18587180,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Monte,Seabrook,FR,
+18587181,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Teyan,Williams,TOT,4
+18587182,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Teyan,Williams,SOLO,
+18587183,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Teyan,Williams,SACKS,2
+18587184,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Teyan,Williams,TFL,
+18587185,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Teyan,Williams,INT,
+18587186,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Teyan,Williams,FF,1
+18587187,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Teyan,Williams,FR,
+18587188,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Anthony,Davis,TOT,1
+18587189,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Anthony,Davis,SOLO,
+18587190,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Anthony,Davis,SACKS,1
+18587191,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Anthony,Davis,TFL,
+18587192,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Anthony,Davis,INT,
+18587193,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Anthony,Davis,FF,
+18587194,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Anthony,Davis,FR,
+18587195,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Malcom,Mayes,TOT,2
+18587196,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Malcom,Mayes,SOLO,
+18587197,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Malcom,Mayes,SACKS,2
+18587198,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Malcom,Mayes,TFL,
+18587199,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Malcom,Mayes,INT,
+18587200,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Malcom,Mayes,FF,
+18587201,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Malcom,Mayes,FR,
+18587202,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Anthony,Mullis,TOT,1
+18587203,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Anthony,Mullis,SOLO,
+18587204,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Anthony,Mullis,SACKS,1
+18587205,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Anthony,Mullis,TFL,
+18587206,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Anthony,Mullis,INT,
+18587207,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Anthony,Mullis,FF,
+18587208,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Anthony,Mullis,FR,
+18587209,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Josue,Gomez,TOT,1
+18587210,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Josue,Gomez,SOLO,
+18587211,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Josue,Gomez,SACKS,1
+18587212,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Josue,Gomez,TFL,
+18587213,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Josue,Gomez,INT,
+18587214,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Josue,Gomez,FF,
+18587215,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Josue,Gomez,FR,
+18587216,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Williams,Moore,TOT,1
+18587217,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Williams,Moore,SOLO,
+18587218,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Williams,Moore,SACKS,1
+18587219,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Williams,Moore,TFL,
+18587220,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Williams,Moore,INT,
+18587221,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Williams,Moore,FF,
+18587222,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Williams,Moore,FR,
+18587223,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Collin,Vaughn,TOT,1
+18587224,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Collin,Vaughn,SOLO,
+18587225,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Collin,Vaughn,SACKS,0
+18587226,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Collin,Vaughn,TFL,
+18587227,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Collin,Vaughn,INT,
+18587228,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Collin,Vaughn,FF,
+18587229,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Collin,Vaughn,FR,
+18587230,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Deandre,Moore,TOT,4
+18587231,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Deandre,Moore,SOLO,
+18587232,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Deandre,Moore,SACKS,2
+18587233,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Deandre,Moore,TFL,
+18587234,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Deandre,Moore,INT,
+18587235,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Deandre,Moore,FF,
+18587236,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Deandre,Moore,FR,
+18587237,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Anthony,Conard,TOT,2
+18587238,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Anthony,Conard,SOLO,
+18587239,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Anthony,Conard,SACKS,1
+18587240,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Anthony,Conard,TFL,
+18587241,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Anthony,Conard,INT,
+18587242,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Anthony,Conard,FF,
+18587243,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Anthony,Conard,FR,
+18587244,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Khalil,Cooper,TOT,1
+18587245,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Khalil,Cooper,SOLO,
+18587246,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Khalil,Cooper,SACKS,1
+18587247,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Khalil,Cooper,TFL,
+18587248,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Khalil,Cooper,INT,
+18587249,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Khalil,Cooper,FF,
+18587250,9/28/2019,D-II,Livingstone,Lincoln (PA),DEFENSE,Khalil,Cooper,FR,
+18587251,9/28/2019,D-II,Lincoln (PA),Livingstone,RUSHING,Amir,Gerald,ATT,12
+18587252,9/28/2019,D-II,Lincoln (PA),Livingstone,RUSHING,Amir,Gerald,YDS,52
+18587253,9/28/2019,D-II,Lincoln (PA),Livingstone,RUSHING,Amir,Gerald,TD,0
+18587254,9/28/2019,D-II,Lincoln (PA),Livingstone,RUSHING,Amir,Gerald,LONG,16
+18587255,9/28/2019,D-II,Lincoln (PA),Livingstone,RUSHING,Khalid,Wilson,ATT,11
+18587256,9/28/2019,D-II,Lincoln (PA),Livingstone,RUSHING,Khalid,Wilson,YDS,40
+18587257,9/28/2019,D-II,Lincoln (PA),Livingstone,RUSHING,Khalid,Wilson,TD,0
+18587258,9/28/2019,D-II,Lincoln (PA),Livingstone,RUSHING,Khalid,Wilson,LONG,7
+18587259,9/28/2019,D-II,Lincoln (PA),Livingstone,RUSHING,Justin,Johnson,ATT,4
+18587260,9/28/2019,D-II,Lincoln (PA),Livingstone,RUSHING,Justin,Johnson,YDS,23
+18587261,9/28/2019,D-II,Lincoln (PA),Livingstone,RUSHING,Justin,Johnson,TD,0
+18587262,9/28/2019,D-II,Lincoln (PA),Livingstone,RUSHING,Justin,Johnson,LONG,20
+18587263,9/28/2019,D-II,Lincoln (PA),Livingstone,RUSHING,D,Brockington,ATT,1
+18587264,9/28/2019,D-II,Lincoln (PA),Livingstone,RUSHING,D,Brockington,YDS,8
+18587265,9/28/2019,D-II,Lincoln (PA),Livingstone,RUSHING,D,Brockington,TD,0
+18587266,9/28/2019,D-II,Lincoln (PA),Livingstone,RUSHING,D,Brockington,LONG,8
+18587267,9/28/2019,D-II,Lincoln (PA),Livingstone,RUSHING,Richie,Goslee,ATT,1
+18587268,9/28/2019,D-II,Lincoln (PA),Livingstone,RUSHING,Richie,Goslee,YDS,4
+18587269,9/28/2019,D-II,Lincoln (PA),Livingstone,RUSHING,Richie,Goslee,TD,0
+18587270,9/28/2019,D-II,Lincoln (PA),Livingstone,RUSHING,Richie,Goslee,LONG,4
+18587271,9/28/2019,D-II,Lincoln (PA),Livingstone,RUSHING,Emmitt,Hunt,ATT,1
+18587272,9/28/2019,D-II,Lincoln (PA),Livingstone,RUSHING,Emmitt,Hunt,YDS,-1
+18587273,9/28/2019,D-II,Lincoln (PA),Livingstone,RUSHING,Emmitt,Hunt,TD,0
+18587274,9/28/2019,D-II,Lincoln (PA),Livingstone,RUSHING,Emmitt,Hunt,LONG,0
+18587275,9/28/2019,D-II,Lincoln (PA),Livingstone,RUSHING,Eban,Jackson,ATT,6
+18587276,9/28/2019,D-II,Lincoln (PA),Livingstone,RUSHING,Eban,Jackson,YDS,-13
+18587277,9/28/2019,D-II,Lincoln (PA),Livingstone,RUSHING,Eban,Jackson,TD,2
+18587278,9/28/2019,D-II,Lincoln (PA),Livingstone,RUSHING,Eban,Jackson,LONG,2
+18587279,9/28/2019,D-II,Lincoln (PA),Livingstone,PASSING,Eban,Jackson,CP-ATT-INT,10-22-1
+18587280,9/28/2019,D-II,Lincoln (PA),Livingstone,PASSING,Eban,Jackson,YDS,166
+18587281,9/28/2019,D-II,Lincoln (PA),Livingstone,PASSING,Eban,Jackson,TD,0
+18587282,9/28/2019,D-II,Lincoln (PA),Livingstone,PASSING,Eban,Jackson,LONG,44
+18587283,9/28/2019,D-II,Lincoln (PA),Livingstone,PASSING,Emmitt,Hunt,CP-ATT-INT,0-0-0
+18587284,9/28/2019,D-II,Lincoln (PA),Livingstone,PASSING,Emmitt,Hunt,YDS,0
+18587285,9/28/2019,D-II,Lincoln (PA),Livingstone,PASSING,Emmitt,Hunt,TD,0
+18587286,9/28/2019,D-II,Lincoln (PA),Livingstone,PASSING,Emmitt,Hunt,LONG,0
+18587287,9/28/2019,D-II,Lincoln (PA),Livingstone,RECEIVING,Shoye,Sampson,REC,4
+18587288,9/28/2019,D-II,Lincoln (PA),Livingstone,RECEIVING,Shoye,Sampson,YDS,84
+18587289,9/28/2019,D-II,Lincoln (PA),Livingstone,RECEIVING,Shoye,Sampson,TD,0
+18587290,9/28/2019,D-II,Lincoln (PA),Livingstone,RECEIVING,Shoye,Sampson,LONG,44
+18587291,9/28/2019,D-II,Lincoln (PA),Livingstone,RECEIVING,Richie,Goslee,REC,3
+18587292,9/28/2019,D-II,Lincoln (PA),Livingstone,RECEIVING,Richie,Goslee,YDS,46
+18587293,9/28/2019,D-II,Lincoln (PA),Livingstone,RECEIVING,Richie,Goslee,TD,0
+18587294,9/28/2019,D-II,Lincoln (PA),Livingstone,RECEIVING,Richie,Goslee,LONG,28
+18587295,9/28/2019,D-II,Lincoln (PA),Livingstone,RECEIVING,Hunter,Terrell,REC,1
+18587296,9/28/2019,D-II,Lincoln (PA),Livingstone,RECEIVING,Hunter,Terrell,YDS,21
+18587297,9/28/2019,D-II,Lincoln (PA),Livingstone,RECEIVING,Hunter,Terrell,TD,0
+18587298,9/28/2019,D-II,Lincoln (PA),Livingstone,RECEIVING,Hunter,Terrell,LONG,21
+18587299,9/28/2019,D-II,Lincoln (PA),Livingstone,RECEIVING,D,Brockington,REC,1
+18587300,9/28/2019,D-II,Lincoln (PA),Livingstone,RECEIVING,D,Brockington,YDS,14
+18587301,9/28/2019,D-II,Lincoln (PA),Livingstone,RECEIVING,D,Brockington,TD,0
+18587302,9/28/2019,D-II,Lincoln (PA),Livingstone,RECEIVING,D,Brockington,LONG,14
+18587303,9/28/2019,D-II,Lincoln (PA),Livingstone,RECEIVING,Amir,Gerald,REC,1
+18587304,9/28/2019,D-II,Lincoln (PA),Livingstone,RECEIVING,Amir,Gerald,YDS,1
+18587305,9/28/2019,D-II,Lincoln (PA),Livingstone,RECEIVING,Amir,Gerald,TD,0
+18587306,9/28/2019,D-II,Lincoln (PA),Livingstone,RECEIVING,Amir,Gerald,LONG,1
+18587307,9/28/2019,D-II,Lincoln (PA),Livingstone,PUNTING,Cole,Klubek,NO,6
+18587308,9/28/2019,D-II,Lincoln (PA),Livingstone,PUNTING,Cole,Klubek,YDS,210
+18587309,9/28/2019,D-II,Lincoln (PA),Livingstone,PUNTING,Cole,Klubek,AVG,35.0
+18587310,9/28/2019,D-II,Lincoln (PA),Livingstone,PUNTING,Cole,Klubek,LONG,52
+18587311,9/28/2019,D-II,Lincoln (PA),Livingstone,PUNT RETURNS,D,Brockington,NO,1
+18587312,9/28/2019,D-II,Lincoln (PA),Livingstone,PUNT RETURNS,D,Brockington,YDS,8
+18587313,9/28/2019,D-II,Lincoln (PA),Livingstone,PUNT RETURNS,D,Brockington,AVG,8.0
+18587314,9/28/2019,D-II,Lincoln (PA),Livingstone,PUNT RETURNS,D,Brockington,LONG,8
+18587315,9/28/2019,D-II,Lincoln (PA),Livingstone,PUNT RETURNS,R,Jordan,NO,1
+18587316,9/28/2019,D-II,Lincoln (PA),Livingstone,PUNT RETURNS,R,Jordan,YDS,4
+18587317,9/28/2019,D-II,Lincoln (PA),Livingstone,PUNT RETURNS,R,Jordan,AVG,4.0
+18587318,9/28/2019,D-II,Lincoln (PA),Livingstone,PUNT RETURNS,R,Jordan,LONG,0
+18587319,9/28/2019,D-II,Lincoln (PA),Livingstone,PUNT RETURNS,Rahmel,Turner,NO,0
+18587320,9/28/2019,D-II,Lincoln (PA),Livingstone,PUNT RETURNS,Rahmel,Turner,YDS,0
+18587321,9/28/2019,D-II,Lincoln (PA),Livingstone,PUNT RETURNS,Rahmel,Turner,AVG,-
+18587322,9/28/2019,D-II,Lincoln (PA),Livingstone,PUNT RETURNS,Rahmel,Turner,LONG,0
+18587323,9/28/2019,D-II,Lincoln (PA),Livingstone,KICK RETURNS,I,Abdul-rabb,NO,1
+18587324,9/28/2019,D-II,Lincoln (PA),Livingstone,KICK RETURNS,I,Abdul-rabb,YDS,4
+18587325,9/28/2019,D-II,Lincoln (PA),Livingstone,KICK RETURNS,I,Abdul-rabb,AVG,4.0
+18587326,9/28/2019,D-II,Lincoln (PA),Livingstone,KICK RETURNS,I,Abdul-rabb,LONG,4
+18587327,9/28/2019,D-II,Lincoln (PA),Livingstone,KICK RETURNS,Richie,Goslee,NO,1
+18587328,9/28/2019,D-II,Lincoln (PA),Livingstone,KICK RETURNS,Richie,Goslee,YDS,14
+18587329,9/28/2019,D-II,Lincoln (PA),Livingstone,KICK RETURNS,Richie,Goslee,AVG,14.0
+18587330,9/28/2019,D-II,Lincoln (PA),Livingstone,KICK RETURNS,Richie,Goslee,LONG,14
+18587331,9/28/2019,D-II,Lincoln (PA),Livingstone,KICK RETURNS,Amir,Gerald,NO,1
+18587332,9/28/2019,D-II,Lincoln (PA),Livingstone,KICK RETURNS,Amir,Gerald,YDS,48
+18587333,9/28/2019,D-II,Lincoln (PA),Livingstone,KICK RETURNS,Amir,Gerald,AVG,48.0
+18587334,9/28/2019,D-II,Lincoln (PA),Livingstone,KICK RETURNS,Amir,Gerald,LONG,48
+18587335,9/28/2019,D-II,Lincoln (PA),Livingstone,KICK RETURNS,T,Mckenzie,NO,1
+18587336,9/28/2019,D-II,Lincoln (PA),Livingstone,KICK RETURNS,T,Mckenzie,YDS,16
+18587337,9/28/2019,D-II,Lincoln (PA),Livingstone,KICK RETURNS,T,Mckenzie,AVG,16.0
+18587338,9/28/2019,D-II,Lincoln (PA),Livingstone,KICK RETURNS,T,Mckenzie,LONG,16
+18587339,9/28/2019,D-II,Lincoln (PA),Livingstone,KICK RETURNS,R,Jordan,NO,1
+18587340,9/28/2019,D-II,Lincoln (PA),Livingstone,KICK RETURNS,R,Jordan,YDS,-1
+18587341,9/28/2019,D-II,Lincoln (PA),Livingstone,KICK RETURNS,R,Jordan,AVG,-1.0
+18587342,9/28/2019,D-II,Lincoln (PA),Livingstone,KICK RETURNS,R,Jordan,LONG,0
+18587343,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Solomon,Bassett,TOT,5
+18587344,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Solomon,Bassett,SOLO,
+18587345,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Solomon,Bassett,SACKS,2
+18587346,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Solomon,Bassett,TFL,
+18587347,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Solomon,Bassett,INT,
+18587348,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Solomon,Bassett,FF,
+18587349,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Solomon,Bassett,FR,2
+18587350,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,I,Abdul-rabb,TOT,6
+18587351,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,I,Abdul-rabb,SOLO,
+18587352,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,I,Abdul-rabb,SACKS,4
+18587353,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,I,Abdul-rabb,TFL,
+18587354,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,I,Abdul-rabb,INT,
+18587355,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,I,Abdul-rabb,FF,
+18587356,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,I,Abdul-rabb,FR,
+18587357,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Rob,Thomas,TOT,8
+18587358,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Rob,Thomas,SOLO,
+18587359,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Rob,Thomas,SACKS,6
+18587360,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Rob,Thomas,TFL,
+18587361,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Rob,Thomas,INT,
+18587362,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Rob,Thomas,FF,
+18587363,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Rob,Thomas,FR,0
+18587364,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,T,Mckenzie,TOT,3
+18587365,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,T,Mckenzie,SOLO,
+18587366,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,T,Mckenzie,SACKS,3
+18587367,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,T,Mckenzie,TFL,
+18587368,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,T,Mckenzie,INT,
+18587369,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,T,Mckenzie,FF,
+18587370,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,T,Mckenzie,FR,
+18587371,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,R,Jordan,TOT,1
+18587372,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,R,Jordan,SOLO,
+18587373,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,R,Jordan,SACKS,1
+18587374,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,R,Jordan,TFL,
+18587375,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,R,Jordan,INT,
+18587376,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,R,Jordan,FF,
+18587377,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,R,Jordan,FR,
+18587378,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Samuel,Jordan,TOT,4
+18587379,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Samuel,Jordan,SOLO,
+18587380,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Samuel,Jordan,SACKS,2
+18587381,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Samuel,Jordan,TFL,
+18587382,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Samuel,Jordan,INT,
+18587383,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Samuel,Jordan,FF,
+18587384,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Samuel,Jordan,FR,
+18587385,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Devon,Cathcart,TOT,7
+18587386,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Devon,Cathcart,SOLO,
+18587387,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Devon,Cathcart,SACKS,7
+18587388,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Devon,Cathcart,TFL,
+18587389,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Devon,Cathcart,INT,
+18587390,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Devon,Cathcart,FF,
+18587391,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Devon,Cathcart,FR,3
+18587392,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,A,Prioleau,TOT,3
+18587393,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,A,Prioleau,SOLO,
+18587394,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,A,Prioleau,SACKS,1
+18587395,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,A,Prioleau,TFL,
+18587396,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,A,Prioleau,INT,
+18587397,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,A,Prioleau,FF,
+18587398,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,A,Prioleau,FR,
+18587399,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Andre,Williams,TOT,2
+18587400,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Andre,Williams,SOLO,
+18587401,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Andre,Williams,SACKS,2
+18587402,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Andre,Williams,TFL,
+18587403,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Andre,Williams,INT,
+18587404,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Andre,Williams,FF,
+18587405,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Andre,Williams,FR,
+18587406,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Elijah,Bolden,TOT,1
+18587407,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Elijah,Bolden,SOLO,
+18587408,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Elijah,Bolden,SACKS,1
+18587409,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Elijah,Bolden,TFL,
+18587410,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Elijah,Bolden,INT,
+18587411,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Elijah,Bolden,FF,
+18587412,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Elijah,Bolden,FR,
+18587413,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Jaden,Davis,TOT,6
+18587414,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Jaden,Davis,SOLO,
+18587415,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Jaden,Davis,SACKS,5
+18587416,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Jaden,Davis,TFL,
+18587417,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Jaden,Davis,INT,
+18587418,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Jaden,Davis,FF,
+18587419,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Jaden,Davis,FR,
+18587420,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Tyson,Basham,TOT,1
+18587421,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Tyson,Basham,SOLO,
+18587422,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Tyson,Basham,SACKS,1
+18587423,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Tyson,Basham,TFL,
+18587424,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Tyson,Basham,INT,
+18587425,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Tyson,Basham,FF,
+18587426,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Tyson,Basham,FR,
+18587427,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,A,Adefemi,TOT,1
+18587428,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,A,Adefemi,SOLO,
+18587429,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,A,Adefemi,SACKS,1
+18587430,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,A,Adefemi,TFL,
+18587431,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,A,Adefemi,INT,
+18587432,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,A,Adefemi,FF,
+18587433,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,A,Adefemi,FR,
+18587434,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Charles,Trabi,TOT,1
+18587435,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Charles,Trabi,SOLO,
+18587436,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Charles,Trabi,SACKS,1
+18587437,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Charles,Trabi,TFL,
+18587438,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Charles,Trabi,INT,
+18587439,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Charles,Trabi,FF,
+18587440,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Charles,Trabi,FR,
+18587441,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Devon,Jones,TOT,2
+18587442,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Devon,Jones,SOLO,
+18587443,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Devon,Jones,SACKS,1
+18587444,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Devon,Jones,TFL,
+18587445,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Devon,Jones,INT,
+18587446,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Devon,Jones,FF,
+18587447,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Devon,Jones,FR,
+18587448,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Kyle,Wilkins,TOT,2
+18587449,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Kyle,Wilkins,SOLO,
+18587450,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Kyle,Wilkins,SACKS,2
+18587451,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Kyle,Wilkins,TFL,
+18587452,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Kyle,Wilkins,INT,
+18587453,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Kyle,Wilkins,FF,
+18587454,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,Kyle,Wilkins,FR,
+18587455,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,D'rico,Cook,TOT,3
+18587456,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,D'rico,Cook,SOLO,
+18587457,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,D'rico,Cook,SACKS,2
+18587458,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,D'rico,Cook,TFL,
+18587459,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,D'rico,Cook,INT,
+18587460,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,D'rico,Cook,FF,
+18587461,9/28/2019,D-II,Lincoln (PA),Livingstone,DEFENSE,D'rico,Cook,FR,0

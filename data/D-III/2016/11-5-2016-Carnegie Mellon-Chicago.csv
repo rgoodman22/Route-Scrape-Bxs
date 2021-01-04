@@ -1,0 +1,121 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+24171001,11/5/2016,D-III,Carnegie Mellon,Chicago,RUSHING,Sam,Benger,ATT,29
+24171002,11/5/2016,D-III,Carnegie Mellon,Chicago,RUSHING,Sam,Benger,YDS,197
+24171003,11/5/2016,D-III,Carnegie Mellon,Chicago,RUSHING,Sam,Benger,TD,4
+24171004,11/5/2016,D-III,Carnegie Mellon,Chicago,RUSHING,Sam,Benger,LONG,60
+24171005,11/5/2016,D-III,Carnegie Mellon,Chicago,RUSHING,Rory,Hubbard,ATT,6
+24171006,11/5/2016,D-III,Carnegie Mellon,Chicago,RUSHING,Rory,Hubbard,YDS,86
+24171007,11/5/2016,D-III,Carnegie Mellon,Chicago,RUSHING,Rory,Hubbard,TD,0
+24171008,11/5/2016,D-III,Carnegie Mellon,Chicago,RUSHING,Rory,Hubbard,LONG,61
+24171009,11/5/2016,D-III,Carnegie Mellon,Chicago,RUSHING,Alex,Cline,ATT,8
+24171010,11/5/2016,D-III,Carnegie Mellon,Chicago,RUSHING,Alex,Cline,YDS,3
+24171011,11/5/2016,D-III,Carnegie Mellon,Chicago,RUSHING,Alex,Cline,TD,0
+24171012,11/5/2016,D-III,Carnegie Mellon,Chicago,RUSHING,Alex,Cline,LONG,5
+24171013,11/5/2016,D-III,Carnegie Mellon,Chicago,RUSHING,,Team,ATT,1
+24171014,11/5/2016,D-III,Carnegie Mellon,Chicago,RUSHING,,Team,YDS,-2
+24171015,11/5/2016,D-III,Carnegie Mellon,Chicago,RUSHING,,Team,TD,0
+24171016,11/5/2016,D-III,Carnegie Mellon,Chicago,RUSHING,,Team,LONG,0
+24171017,11/5/2016,D-III,Carnegie Mellon,Chicago,PASSING,Alex,Cline,CP-ATT-INT,10-23-0
+24171018,11/5/2016,D-III,Carnegie Mellon,Chicago,PASSING,Alex,Cline,YDS,141
+24171019,11/5/2016,D-III,Carnegie Mellon,Chicago,PASSING,Alex,Cline,TD,0
+24171020,11/5/2016,D-III,Carnegie Mellon,Chicago,PASSING,Alex,Cline,LONG,26
+24171021,11/5/2016,D-III,Carnegie Mellon,Chicago,PASSING,,Team,CP-ATT-INT,0-1-0
+24171022,11/5/2016,D-III,Carnegie Mellon,Chicago,PASSING,,Team,YDS,0
+24171023,11/5/2016,D-III,Carnegie Mellon,Chicago,PASSING,,Team,TD,0
+24171024,11/5/2016,D-III,Carnegie Mellon,Chicago,PASSING,,Team,LONG,0
+24171025,11/5/2016,D-III,Carnegie Mellon,Chicago,RECEIVING,John,Prather,REC,5
+24171026,11/5/2016,D-III,Carnegie Mellon,Chicago,RECEIVING,John,Prather,YDS,72
+24171027,11/5/2016,D-III,Carnegie Mellon,Chicago,RECEIVING,John,Prather,TD,0
+24171028,11/5/2016,D-III,Carnegie Mellon,Chicago,RECEIVING,John,Prather,LONG,21
+24171029,11/5/2016,D-III,Carnegie Mellon,Chicago,RECEIVING,Tommy,Mansfield,REC,1
+24171030,11/5/2016,D-III,Carnegie Mellon,Chicago,RECEIVING,Tommy,Mansfield,YDS,26
+24171031,11/5/2016,D-III,Carnegie Mellon,Chicago,RECEIVING,Tommy,Mansfield,TD,0
+24171032,11/5/2016,D-III,Carnegie Mellon,Chicago,RECEIVING,Tommy,Mansfield,LONG,26
+24171033,11/5/2016,D-III,Carnegie Mellon,Chicago,RECEIVING,Garrett,Strobel,REC,2
+24171034,11/5/2016,D-III,Carnegie Mellon,Chicago,RECEIVING,Garrett,Strobel,YDS,23
+24171035,11/5/2016,D-III,Carnegie Mellon,Chicago,RECEIVING,Garrett,Strobel,TD,0
+24171036,11/5/2016,D-III,Carnegie Mellon,Chicago,RECEIVING,Garrett,Strobel,LONG,13
+24171037,11/5/2016,D-III,Carnegie Mellon,Chicago,RECEIVING,Zach,Cree,REC,1
+24171038,11/5/2016,D-III,Carnegie Mellon,Chicago,RECEIVING,Zach,Cree,YDS,13
+24171039,11/5/2016,D-III,Carnegie Mellon,Chicago,RECEIVING,Zach,Cree,TD,0
+24171040,11/5/2016,D-III,Carnegie Mellon,Chicago,RECEIVING,Zach,Cree,LONG,13
+24171041,11/5/2016,D-III,Carnegie Mellon,Chicago,RECEIVING,Alex,Miller,REC,1
+24171042,11/5/2016,D-III,Carnegie Mellon,Chicago,RECEIVING,Alex,Miller,YDS,7
+24171043,11/5/2016,D-III,Carnegie Mellon,Chicago,RECEIVING,Alex,Miller,TD,0
+24171044,11/5/2016,D-III,Carnegie Mellon,Chicago,RECEIVING,Alex,Miller,LONG,7
+24171045,11/5/2016,D-III,Carnegie Mellon,Chicago,PUNTING,Tyler,Kohman,NO,6
+24171046,11/5/2016,D-III,Carnegie Mellon,Chicago,PUNTING,Tyler,Kohman,YDS,287
+24171047,11/5/2016,D-III,Carnegie Mellon,Chicago,PUNTING,Tyler,Kohman,AVG,47.8
+24171048,11/5/2016,D-III,Carnegie Mellon,Chicago,PUNTING,Tyler,Kohman,LONG,54
+24171049,11/5/2016,D-III,Carnegie Mellon,Chicago,PUNT RETURNS,William,Richter,NO,2
+24171050,11/5/2016,D-III,Carnegie Mellon,Chicago,PUNT RETURNS,William,Richter,YDS,44
+24171051,11/5/2016,D-III,Carnegie Mellon,Chicago,PUNT RETURNS,William,Richter,AVG,22.0
+24171052,11/5/2016,D-III,Carnegie Mellon,Chicago,PUNT RETURNS,William,Richter,LONG,40
+24171053,11/5/2016,D-III,Carnegie Mellon,Chicago,KICK RETURNS,Rory,Hubbard,NO,1
+24171054,11/5/2016,D-III,Carnegie Mellon,Chicago,KICK RETURNS,Rory,Hubbard,YDS,16
+24171055,11/5/2016,D-III,Carnegie Mellon,Chicago,KICK RETURNS,Rory,Hubbard,AVG,16.0
+24171056,11/5/2016,D-III,Carnegie Mellon,Chicago,KICK RETURNS,Rory,Hubbard,LONG,16
+24171057,11/5/2016,D-III,Carnegie Mellon,Chicago,KICK RETURNS,William,Richter,NO,5
+24171058,11/5/2016,D-III,Carnegie Mellon,Chicago,KICK RETURNS,William,Richter,YDS,129
+24171059,11/5/2016,D-III,Carnegie Mellon,Chicago,KICK RETURNS,William,Richter,AVG,25.8
+24171060,11/5/2016,D-III,Carnegie Mellon,Chicago,KICK RETURNS,William,Richter,LONG,45
+24171061,11/5/2016,D-III,Chicago,Carnegie Mellon,RUSHING,C,Carroll,ATT,25
+24171062,11/5/2016,D-III,Chicago,Carnegie Mellon,RUSHING,C,Carroll,YDS,120
+24171063,11/5/2016,D-III,Chicago,Carnegie Mellon,RUSHING,C,Carroll,TD,1
+24171064,11/5/2016,D-III,Chicago,Carnegie Mellon,RUSHING,C,Carroll,LONG,17
+24171065,11/5/2016,D-III,Chicago,Carnegie Mellon,RUSHING,Burke,Moser,ATT,11
+24171066,11/5/2016,D-III,Chicago,Carnegie Mellon,RUSHING,Burke,Moser,YDS,-41
+24171067,11/5/2016,D-III,Chicago,Carnegie Mellon,RUSHING,Burke,Moser,TD,0
+24171068,11/5/2016,D-III,Chicago,Carnegie Mellon,RUSHING,Burke,Moser,LONG,14
+24171069,11/5/2016,D-III,Chicago,Carnegie Mellon,PASSING,Burke,Moser,CP-ATT-INT,36-63-1
+24171070,11/5/2016,D-III,Chicago,Carnegie Mellon,PASSING,Burke,Moser,YDS,450
+24171071,11/5/2016,D-III,Chicago,Carnegie Mellon,PASSING,Burke,Moser,TD,2
+24171072,11/5/2016,D-III,Chicago,Carnegie Mellon,PASSING,Burke,Moser,LONG,44
+24171073,11/5/2016,D-III,Chicago,Carnegie Mellon,RECEIVING,Dante,Nepa,REC,9
+24171074,11/5/2016,D-III,Chicago,Carnegie Mellon,RECEIVING,Dante,Nepa,YDS,149
+24171075,11/5/2016,D-III,Chicago,Carnegie Mellon,RECEIVING,Dante,Nepa,TD,0
+24171076,11/5/2016,D-III,Chicago,Carnegie Mellon,RECEIVING,Dante,Nepa,LONG,40
+24171077,11/5/2016,D-III,Chicago,Carnegie Mellon,RECEIVING,Syd,Reynolds,REC,6
+24171078,11/5/2016,D-III,Chicago,Carnegie Mellon,RECEIVING,Syd,Reynolds,YDS,144
+24171079,11/5/2016,D-III,Chicago,Carnegie Mellon,RECEIVING,Syd,Reynolds,TD,1
+24171080,11/5/2016,D-III,Chicago,Carnegie Mellon,RECEIVING,Syd,Reynolds,LONG,44
+24171081,11/5/2016,D-III,Chicago,Carnegie Mellon,RECEIVING,C,Carroll,REC,13
+24171082,11/5/2016,D-III,Chicago,Carnegie Mellon,RECEIVING,C,Carroll,YDS,77
+24171083,11/5/2016,D-III,Chicago,Carnegie Mellon,RECEIVING,C,Carroll,TD,0
+24171084,11/5/2016,D-III,Chicago,Carnegie Mellon,RECEIVING,C,Carroll,LONG,20
+24171085,11/5/2016,D-III,Chicago,Carnegie Mellon,RECEIVING,Trevor,Anderson,REC,4
+24171086,11/5/2016,D-III,Chicago,Carnegie Mellon,RECEIVING,Trevor,Anderson,YDS,43
+24171087,11/5/2016,D-III,Chicago,Carnegie Mellon,RECEIVING,Trevor,Anderson,TD,1
+24171088,11/5/2016,D-III,Chicago,Carnegie Mellon,RECEIVING,Trevor,Anderson,LONG,14
+24171089,11/5/2016,D-III,Chicago,Carnegie Mellon,RECEIVING,Andrew,Falk,REC,2
+24171090,11/5/2016,D-III,Chicago,Carnegie Mellon,RECEIVING,Andrew,Falk,YDS,24
+24171091,11/5/2016,D-III,Chicago,Carnegie Mellon,RECEIVING,Andrew,Falk,TD,0
+24171092,11/5/2016,D-III,Chicago,Carnegie Mellon,RECEIVING,Andrew,Falk,LONG,16
+24171093,11/5/2016,D-III,Chicago,Carnegie Mellon,RECEIVING,Jamie,Rieger,REC,2
+24171094,11/5/2016,D-III,Chicago,Carnegie Mellon,RECEIVING,Jamie,Rieger,YDS,13
+24171095,11/5/2016,D-III,Chicago,Carnegie Mellon,RECEIVING,Jamie,Rieger,TD,0
+24171096,11/5/2016,D-III,Chicago,Carnegie Mellon,RECEIVING,Jamie,Rieger,LONG,9
+24171097,11/5/2016,D-III,Chicago,Carnegie Mellon,PUNTING,M,Kurzydlowski,NO,7
+24171098,11/5/2016,D-III,Chicago,Carnegie Mellon,PUNTING,M,Kurzydlowski,YDS,253
+24171099,11/5/2016,D-III,Chicago,Carnegie Mellon,PUNTING,M,Kurzydlowski,AVG,36.1
+24171100,11/5/2016,D-III,Chicago,Carnegie Mellon,PUNTING,M,Kurzydlowski,LONG,52
+24171101,11/5/2016,D-III,Chicago,Carnegie Mellon,PUNT RETURNS,Jeremy,Vincent,NO,1
+24171102,11/5/2016,D-III,Chicago,Carnegie Mellon,PUNT RETURNS,Jeremy,Vincent,YDS,12
+24171103,11/5/2016,D-III,Chicago,Carnegie Mellon,PUNT RETURNS,Jeremy,Vincent,AVG,12.0
+24171104,11/5/2016,D-III,Chicago,Carnegie Mellon,PUNT RETURNS,Jeremy,Vincent,LONG,12
+24171105,11/5/2016,D-III,Chicago,Carnegie Mellon,PUNT RETURNS,Syd,Reynolds,NO,1
+24171106,11/5/2016,D-III,Chicago,Carnegie Mellon,PUNT RETURNS,Syd,Reynolds,YDS,-3
+24171107,11/5/2016,D-III,Chicago,Carnegie Mellon,PUNT RETURNS,Syd,Reynolds,AVG,-3.0
+24171108,11/5/2016,D-III,Chicago,Carnegie Mellon,PUNT RETURNS,Syd,Reynolds,LONG,0
+24171109,11/5/2016,D-III,Chicago,Carnegie Mellon,KICK RETURNS,Jeremy,Vincent,NO,2
+24171110,11/5/2016,D-III,Chicago,Carnegie Mellon,KICK RETURNS,Jeremy,Vincent,YDS,36
+24171111,11/5/2016,D-III,Chicago,Carnegie Mellon,KICK RETURNS,Jeremy,Vincent,AVG,18.0
+24171112,11/5/2016,D-III,Chicago,Carnegie Mellon,KICK RETURNS,Jeremy,Vincent,LONG,18
+24171113,11/5/2016,D-III,Chicago,Carnegie Mellon,KICK RETURNS,Syd,Reynolds,NO,1
+24171114,11/5/2016,D-III,Chicago,Carnegie Mellon,KICK RETURNS,Syd,Reynolds,YDS,15
+24171115,11/5/2016,D-III,Chicago,Carnegie Mellon,KICK RETURNS,Syd,Reynolds,AVG,15.0
+24171116,11/5/2016,D-III,Chicago,Carnegie Mellon,KICK RETURNS,Syd,Reynolds,LONG,15
+24171117,11/5/2016,D-III,Chicago,Carnegie Mellon,KICK RETURNS,Austin,Maltbia,NO,2
+24171118,11/5/2016,D-III,Chicago,Carnegie Mellon,KICK RETURNS,Austin,Maltbia,YDS,31
+24171119,11/5/2016,D-III,Chicago,Carnegie Mellon,KICK RETURNS,Austin,Maltbia,AVG,15.5
+24171120,11/5/2016,D-III,Chicago,Carnegie Mellon,KICK RETURNS,Austin,Maltbia,LONG,16

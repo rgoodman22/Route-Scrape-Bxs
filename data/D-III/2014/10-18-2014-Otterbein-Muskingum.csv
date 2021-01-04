@@ -1,0 +1,141 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+21234001,10/18/2014,D-III,Otterbein,Muskingum,RUSHING,R,Hutchison,ATT,10
+21234002,10/18/2014,D-III,Otterbein,Muskingum,RUSHING,R,Hutchison,YDS,111
+21234003,10/18/2014,D-III,Otterbein,Muskingum,RUSHING,R,Hutchison,TD,1
+21234004,10/18/2014,D-III,Otterbein,Muskingum,RUSHING,R,Hutchison,LONG,54
+21234005,10/18/2014,D-III,Otterbein,Muskingum,RUSHING,Drew,Ervin,ATT,15
+21234006,10/18/2014,D-III,Otterbein,Muskingum,RUSHING,Drew,Ervin,YDS,66
+21234007,10/18/2014,D-III,Otterbein,Muskingum,RUSHING,Drew,Ervin,TD,0
+21234008,10/18/2014,D-III,Otterbein,Muskingum,RUSHING,Drew,Ervin,LONG,32
+21234009,10/18/2014,D-III,Otterbein,Muskingum,RUSHING,Tyler,Hammond,ATT,8
+21234010,10/18/2014,D-III,Otterbein,Muskingum,RUSHING,Tyler,Hammond,YDS,60
+21234011,10/18/2014,D-III,Otterbein,Muskingum,RUSHING,Tyler,Hammond,TD,0
+21234012,10/18/2014,D-III,Otterbein,Muskingum,RUSHING,Tyler,Hammond,LONG,37
+21234013,10/18/2014,D-III,Otterbein,Muskingum,RUSHING,John,Pyles,ATT,6
+21234014,10/18/2014,D-III,Otterbein,Muskingum,RUSHING,John,Pyles,YDS,58
+21234015,10/18/2014,D-III,Otterbein,Muskingum,RUSHING,John,Pyles,TD,1
+21234016,10/18/2014,D-III,Otterbein,Muskingum,RUSHING,John,Pyles,LONG,36
+21234017,10/18/2014,D-III,Otterbein,Muskingum,RUSHING,Brick,Davis,ATT,1
+21234018,10/18/2014,D-III,Otterbein,Muskingum,RUSHING,Brick,Davis,YDS,2
+21234019,10/18/2014,D-III,Otterbein,Muskingum,RUSHING,Brick,Davis,TD,0
+21234020,10/18/2014,D-III,Otterbein,Muskingum,RUSHING,Brick,Davis,LONG,2
+21234021,10/18/2014,D-III,Otterbein,Muskingum,RUSHING,,Team,ATT,1
+21234022,10/18/2014,D-III,Otterbein,Muskingum,RUSHING,,Team,YDS,-1
+21234023,10/18/2014,D-III,Otterbein,Muskingum,RUSHING,,Team,TD,0
+21234024,10/18/2014,D-III,Otterbein,Muskingum,RUSHING,,Team,LONG,0
+21234025,10/18/2014,D-III,Otterbein,Muskingum,PASSING,Brick,Davis,CP-ATT-INT,18-29-1
+21234026,10/18/2014,D-III,Otterbein,Muskingum,PASSING,Brick,Davis,YDS,176
+21234027,10/18/2014,D-III,Otterbein,Muskingum,PASSING,Brick,Davis,TD,1
+21234028,10/18/2014,D-III,Otterbein,Muskingum,PASSING,Brick,Davis,LONG,67
+21234029,10/18/2014,D-III,Otterbein,Muskingum,RECEIVING,Ryan,Thombs,REC,4
+21234030,10/18/2014,D-III,Otterbein,Muskingum,RECEIVING,Ryan,Thombs,YDS,85
+21234031,10/18/2014,D-III,Otterbein,Muskingum,RECEIVING,Ryan,Thombs,TD,1
+21234032,10/18/2014,D-III,Otterbein,Muskingum,RECEIVING,Ryan,Thombs,LONG,67
+21234033,10/18/2014,D-III,Otterbein,Muskingum,RECEIVING,Logan,Stepp,REC,6
+21234034,10/18/2014,D-III,Otterbein,Muskingum,RECEIVING,Logan,Stepp,YDS,38
+21234035,10/18/2014,D-III,Otterbein,Muskingum,RECEIVING,Logan,Stepp,TD,0
+21234036,10/18/2014,D-III,Otterbein,Muskingum,RECEIVING,Logan,Stepp,LONG,11
+21234037,10/18/2014,D-III,Otterbein,Muskingum,RECEIVING,Travis,Laird,REC,2
+21234038,10/18/2014,D-III,Otterbein,Muskingum,RECEIVING,Travis,Laird,YDS,17
+21234039,10/18/2014,D-III,Otterbein,Muskingum,RECEIVING,Travis,Laird,TD,0
+21234040,10/18/2014,D-III,Otterbein,Muskingum,RECEIVING,Travis,Laird,LONG,9
+21234041,10/18/2014,D-III,Otterbein,Muskingum,RECEIVING,Cole,Benner,REC,1
+21234042,10/18/2014,D-III,Otterbein,Muskingum,RECEIVING,Cole,Benner,YDS,11
+21234043,10/18/2014,D-III,Otterbein,Muskingum,RECEIVING,Cole,Benner,TD,0
+21234044,10/18/2014,D-III,Otterbein,Muskingum,RECEIVING,Cole,Benner,LONG,11
+21234045,10/18/2014,D-III,Otterbein,Muskingum,RECEIVING,John,Pyles,REC,1
+21234046,10/18/2014,D-III,Otterbein,Muskingum,RECEIVING,John,Pyles,YDS,11
+21234047,10/18/2014,D-III,Otterbein,Muskingum,RECEIVING,John,Pyles,TD,0
+21234048,10/18/2014,D-III,Otterbein,Muskingum,RECEIVING,John,Pyles,LONG,11
+21234049,10/18/2014,D-III,Otterbein,Muskingum,RECEIVING,Christian,Brett,REC,1
+21234050,10/18/2014,D-III,Otterbein,Muskingum,RECEIVING,Christian,Brett,YDS,10
+21234051,10/18/2014,D-III,Otterbein,Muskingum,RECEIVING,Christian,Brett,TD,0
+21234052,10/18/2014,D-III,Otterbein,Muskingum,RECEIVING,Christian,Brett,LONG,10
+21234053,10/18/2014,D-III,Otterbein,Muskingum,RECEIVING,Drew,Ervin,REC,2
+21234054,10/18/2014,D-III,Otterbein,Muskingum,RECEIVING,Drew,Ervin,YDS,3
+21234055,10/18/2014,D-III,Otterbein,Muskingum,RECEIVING,Drew,Ervin,TD,0
+21234056,10/18/2014,D-III,Otterbein,Muskingum,RECEIVING,Drew,Ervin,LONG,4
+21234057,10/18/2014,D-III,Otterbein,Muskingum,RECEIVING,R,Hutchison,REC,1
+21234058,10/18/2014,D-III,Otterbein,Muskingum,RECEIVING,R,Hutchison,YDS,1
+21234059,10/18/2014,D-III,Otterbein,Muskingum,RECEIVING,R,Hutchison,TD,0
+21234060,10/18/2014,D-III,Otterbein,Muskingum,RECEIVING,R,Hutchison,LONG,1
+21234061,10/18/2014,D-III,Otterbein,Muskingum,PUNTING,Jordan,Keaton,NO,2
+21234062,10/18/2014,D-III,Otterbein,Muskingum,PUNTING,Jordan,Keaton,YDS,47
+21234063,10/18/2014,D-III,Otterbein,Muskingum,PUNTING,Jordan,Keaton,AVG,23.5
+21234064,10/18/2014,D-III,Otterbein,Muskingum,PUNTING,Jordan,Keaton,LONG,36
+21234065,10/18/2014,D-III,Otterbein,Muskingum,PUNT RETURNS,Cole,Benner,NO,2
+21234066,10/18/2014,D-III,Otterbein,Muskingum,PUNT RETURNS,Cole,Benner,YDS,18
+21234067,10/18/2014,D-III,Otterbein,Muskingum,PUNT RETURNS,Cole,Benner,AVG,9.0
+21234068,10/18/2014,D-III,Otterbein,Muskingum,PUNT RETURNS,Cole,Benner,LONG,18
+21234069,10/18/2014,D-III,Otterbein,Muskingum,KICK RETURNS,Tyler,Hammond,NO,2
+21234070,10/18/2014,D-III,Otterbein,Muskingum,KICK RETURNS,Tyler,Hammond,YDS,49
+21234071,10/18/2014,D-III,Otterbein,Muskingum,KICK RETURNS,Tyler,Hammond,AVG,24.5
+21234072,10/18/2014,D-III,Otterbein,Muskingum,KICK RETURNS,Tyler,Hammond,LONG,31
+21234073,10/18/2014,D-III,Muskingum,Otterbein,RUSHING,Dominic,Bell,ATT,6
+21234074,10/18/2014,D-III,Muskingum,Otterbein,RUSHING,Dominic,Bell,YDS,36
+21234075,10/18/2014,D-III,Muskingum,Otterbein,RUSHING,Dominic,Bell,TD,0
+21234076,10/18/2014,D-III,Muskingum,Otterbein,RUSHING,Dominic,Bell,LONG,12
+21234077,10/18/2014,D-III,Muskingum,Otterbein,RUSHING,Melvin,Smith,ATT,12
+21234078,10/18/2014,D-III,Muskingum,Otterbein,RUSHING,Melvin,Smith,YDS,34
+21234079,10/18/2014,D-III,Muskingum,Otterbein,RUSHING,Melvin,Smith,TD,0
+21234080,10/18/2014,D-III,Muskingum,Otterbein,RUSHING,Melvin,Smith,LONG,11
+21234081,10/18/2014,D-III,Muskingum,Otterbein,RUSHING,Cody,Williams,ATT,14
+21234082,10/18/2014,D-III,Muskingum,Otterbein,RUSHING,Cody,Williams,YDS,32
+21234083,10/18/2014,D-III,Muskingum,Otterbein,RUSHING,Cody,Williams,TD,2
+21234084,10/18/2014,D-III,Muskingum,Otterbein,RUSHING,Cody,Williams,LONG,17
+21234085,10/18/2014,D-III,Muskingum,Otterbein,RUSHING,Aron,Sutton,ATT,4
+21234086,10/18/2014,D-III,Muskingum,Otterbein,RUSHING,Aron,Sutton,YDS,28
+21234087,10/18/2014,D-III,Muskingum,Otterbein,RUSHING,Aron,Sutton,TD,0
+21234088,10/18/2014,D-III,Muskingum,Otterbein,RUSHING,Aron,Sutton,LONG,14
+21234089,10/18/2014,D-III,Muskingum,Otterbein,RUSHING,Marvin,Morris,ATT,4
+21234090,10/18/2014,D-III,Muskingum,Otterbein,RUSHING,Marvin,Morris,YDS,20
+21234091,10/18/2014,D-III,Muskingum,Otterbein,RUSHING,Marvin,Morris,TD,0
+21234092,10/18/2014,D-III,Muskingum,Otterbein,RUSHING,Marvin,Morris,LONG,14
+21234093,10/18/2014,D-III,Muskingum,Otterbein,RUSHING,Damon,Jones,ATT,3
+21234094,10/18/2014,D-III,Muskingum,Otterbein,RUSHING,Damon,Jones,YDS,19
+21234095,10/18/2014,D-III,Muskingum,Otterbein,RUSHING,Damon,Jones,TD,0
+21234096,10/18/2014,D-III,Muskingum,Otterbein,RUSHING,Damon,Jones,LONG,9
+21234097,10/18/2014,D-III,Muskingum,Otterbein,RUSHING,Desmond,Waden,ATT,5
+21234098,10/18/2014,D-III,Muskingum,Otterbein,RUSHING,Desmond,Waden,YDS,11
+21234099,10/18/2014,D-III,Muskingum,Otterbein,RUSHING,Desmond,Waden,TD,0
+21234100,10/18/2014,D-III,Muskingum,Otterbein,RUSHING,Desmond,Waden,LONG,10
+21234101,10/18/2014,D-III,Muskingum,Otterbein,PASSING,Cody,Williams,CP-ATT-INT,7-13-1
+21234102,10/18/2014,D-III,Muskingum,Otterbein,PASSING,Cody,Williams,YDS,93
+21234103,10/18/2014,D-III,Muskingum,Otterbein,PASSING,Cody,Williams,TD,1
+21234104,10/18/2014,D-III,Muskingum,Otterbein,PASSING,Cody,Williams,LONG,30
+21234105,10/18/2014,D-III,Muskingum,Otterbein,PASSING,Griffin,Degener,CP-ATT-INT,1-1-0
+21234106,10/18/2014,D-III,Muskingum,Otterbein,PASSING,Griffin,Degener,YDS,25
+21234107,10/18/2014,D-III,Muskingum,Otterbein,PASSING,Griffin,Degener,TD,0
+21234108,10/18/2014,D-III,Muskingum,Otterbein,PASSING,Griffin,Degener,LONG,25
+21234109,10/18/2014,D-III,Muskingum,Otterbein,RECEIVING,Marvin,Morris,REC,5
+21234110,10/18/2014,D-III,Muskingum,Otterbein,RECEIVING,Marvin,Morris,YDS,88
+21234111,10/18/2014,D-III,Muskingum,Otterbein,RECEIVING,Marvin,Morris,TD,1
+21234112,10/18/2014,D-III,Muskingum,Otterbein,RECEIVING,Marvin,Morris,LONG,30
+21234113,10/18/2014,D-III,Muskingum,Otterbein,RECEIVING,Melvin,Smith,REC,1
+21234114,10/18/2014,D-III,Muskingum,Otterbein,RECEIVING,Melvin,Smith,YDS,16
+21234115,10/18/2014,D-III,Muskingum,Otterbein,RECEIVING,Melvin,Smith,TD,0
+21234116,10/18/2014,D-III,Muskingum,Otterbein,RECEIVING,Melvin,Smith,LONG,16
+21234117,10/18/2014,D-III,Muskingum,Otterbein,RECEIVING,Nate,Poling,REC,1
+21234118,10/18/2014,D-III,Muskingum,Otterbein,RECEIVING,Nate,Poling,YDS,7
+21234119,10/18/2014,D-III,Muskingum,Otterbein,RECEIVING,Nate,Poling,TD,0
+21234120,10/18/2014,D-III,Muskingum,Otterbein,RECEIVING,Nate,Poling,LONG,7
+21234121,10/18/2014,D-III,Muskingum,Otterbein,RECEIVING,Damon,Jones,REC,1
+21234122,10/18/2014,D-III,Muskingum,Otterbein,RECEIVING,Damon,Jones,YDS,7
+21234123,10/18/2014,D-III,Muskingum,Otterbein,RECEIVING,Damon,Jones,TD,0
+21234124,10/18/2014,D-III,Muskingum,Otterbein,RECEIVING,Damon,Jones,LONG,7
+21234125,10/18/2014,D-III,Muskingum,Otterbein,PUNTING,Jake,Costin,NO,4
+21234126,10/18/2014,D-III,Muskingum,Otterbein,PUNTING,Jake,Costin,YDS,120
+21234127,10/18/2014,D-III,Muskingum,Otterbein,PUNTING,Jake,Costin,AVG,30.0
+21234128,10/18/2014,D-III,Muskingum,Otterbein,PUNTING,Jake,Costin,LONG,37
+21234129,10/18/2014,D-III,Muskingum,Otterbein,PUNT RETURNS,Dorian,Maynard,NO,1
+21234130,10/18/2014,D-III,Muskingum,Otterbein,PUNT RETURNS,Dorian,Maynard,YDS,-5
+21234131,10/18/2014,D-III,Muskingum,Otterbein,PUNT RETURNS,Dorian,Maynard,AVG,-5.0
+21234132,10/18/2014,D-III,Muskingum,Otterbein,PUNT RETURNS,Dorian,Maynard,LONG,0
+21234133,10/18/2014,D-III,Muskingum,Otterbein,KICK RETURNS,Marvin,Morris,NO,5
+21234134,10/18/2014,D-III,Muskingum,Otterbein,KICK RETURNS,Marvin,Morris,YDS,111
+21234135,10/18/2014,D-III,Muskingum,Otterbein,KICK RETURNS,Marvin,Morris,AVG,22.2
+21234136,10/18/2014,D-III,Muskingum,Otterbein,KICK RETURNS,Marvin,Morris,LONG,38
+21234137,10/18/2014,D-III,Muskingum,Otterbein,KICK RETURNS,Aron,Sutton,NO,1
+21234138,10/18/2014,D-III,Muskingum,Otterbein,KICK RETURNS,Aron,Sutton,YDS,23
+21234139,10/18/2014,D-III,Muskingum,Otterbein,KICK RETURNS,Aron,Sutton,AVG,23.0
+21234140,10/18/2014,D-III,Muskingum,Otterbein,KICK RETURNS,Aron,Sutton,LONG,23

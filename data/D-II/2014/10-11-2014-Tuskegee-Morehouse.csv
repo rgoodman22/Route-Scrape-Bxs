@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+13982001,10/11/2014,D-II,Tuskegee,Morehouse,RUSHING,Michael,jThor,ATT,8
+13982002,10/11/2014,D-II,Tuskegee,Morehouse,RUSHING,Michael,jThor,YDS,70
+13982003,10/11/2014,D-II,Tuskegee,Morehouse,RUSHING,Michael,jThor,TD,2
+13982004,10/11/2014,D-II,Tuskegee,Morehouse,RUSHING,Michael,jThor,LONG,23
+13982005,10/11/2014,D-II,Tuskegee,Morehouse,RUSHING,J,Robinson,ATT,4
+13982006,10/11/2014,D-II,Tuskegee,Morehouse,RUSHING,J,Robinson,YDS,51
+13982007,10/11/2014,D-II,Tuskegee,Morehouse,RUSHING,J,Robinson,TD,1
+13982008,10/11/2014,D-II,Tuskegee,Morehouse,RUSHING,J,Robinson,LONG,33
+13982009,10/11/2014,D-II,Tuskegee,Morehouse,RUSHING,,Team,ATT,7
+13982010,10/11/2014,D-II,Tuskegee,Morehouse,RUSHING,,Team,YDS,27
+13982011,10/11/2014,D-II,Tuskegee,Morehouse,RUSHING,,Team,TD,0
+13982012,10/11/2014,D-II,Tuskegee,Morehouse,RUSHING,,Team,LONG,14
+13982013,10/11/2014,D-II,Tuskegee,Morehouse,RUSHING,C,Taylor,ATT,2
+13982014,10/11/2014,D-II,Tuskegee,Morehouse,RUSHING,C,Taylor,YDS,-1
+13982015,10/11/2014,D-II,Tuskegee,Morehouse,RUSHING,C,Taylor,TD,0
+13982016,10/11/2014,D-II,Tuskegee,Morehouse,RUSHING,C,Taylor,LONG,2
+13982017,10/11/2014,D-II,Tuskegee,Morehouse,RUSHING,,Team,ATT,5
+13982018,10/11/2014,D-II,Tuskegee,Morehouse,RUSHING,,Team,YDS,-8
+13982019,10/11/2014,D-II,Tuskegee,Morehouse,RUSHING,,Team,TD,0
+13982020,10/11/2014,D-II,Tuskegee,Morehouse,RUSHING,,Team,LONG,4
+13982021,10/11/2014,D-II,Tuskegee,Morehouse,PASSING,,Team,CP-ATT-INT,5-7-0
+13982022,10/11/2014,D-II,Tuskegee,Morehouse,PASSING,,Team,YDS,102
+13982023,10/11/2014,D-II,Tuskegee,Morehouse,PASSING,,Team,TD,0
+13982024,10/11/2014,D-II,Tuskegee,Morehouse,PASSING,,Team,LONG,47
+13982025,10/11/2014,D-II,Tuskegee,Morehouse,RECEIVING,,Team,REC,5
+13982026,10/11/2014,D-II,Tuskegee,Morehouse,RECEIVING,,Team,YDS,131
+13982027,10/11/2014,D-II,Tuskegee,Morehouse,RECEIVING,,Team,TD,0
+13982028,10/11/2014,D-II,Tuskegee,Morehouse,RECEIVING,,Team,LONG,47
+13982029,10/11/2014,D-II,Tuskegee,Morehouse,RECEIVING,D,Reece,REC,1
+13982030,10/11/2014,D-II,Tuskegee,Morehouse,RECEIVING,D,Reece,YDS,65
+13982031,10/11/2014,D-II,Tuskegee,Morehouse,RECEIVING,D,Reece,TD,1
+13982032,10/11/2014,D-II,Tuskegee,Morehouse,RECEIVING,D,Reece,LONG,65
+13982033,10/11/2014,D-II,Tuskegee,Morehouse,RECEIVING,,Team,REC,3
+13982034,10/11/2014,D-II,Tuskegee,Morehouse,RECEIVING,,Team,YDS,57
+13982035,10/11/2014,D-II,Tuskegee,Morehouse,RECEIVING,,Team,TD,1
+13982036,10/11/2014,D-II,Tuskegee,Morehouse,RECEIVING,,Team,LONG,38
+13982037,10/11/2014,D-II,Tuskegee,Morehouse,PUNTING,,Team,NO,3
+13982038,10/11/2014,D-II,Tuskegee,Morehouse,PUNTING,,Team,YDS,86
+13982039,10/11/2014,D-II,Tuskegee,Morehouse,PUNTING,,Team,AVG,28.7
+13982040,10/11/2014,D-II,Tuskegee,Morehouse,PUNTING,,Team,LONG,31
+13982041,10/11/2014,D-II,Tuskegee,Morehouse,PUNT RETURNS,,Team,NO,2
+13982042,10/11/2014,D-II,Tuskegee,Morehouse,PUNT RETURNS,,Team,YDS,-3
+13982043,10/11/2014,D-II,Tuskegee,Morehouse,PUNT RETURNS,,Team,AVG,-1.5
+13982044,10/11/2014,D-II,Tuskegee,Morehouse,PUNT RETURNS,,Team,LONG,0
+13982045,10/11/2014,D-II,Tuskegee,Morehouse,KICK RETURNS,,Team,NO,1
+13982046,10/11/2014,D-II,Tuskegee,Morehouse,KICK RETURNS,,Team,YDS,92
+13982047,10/11/2014,D-II,Tuskegee,Morehouse,KICK RETURNS,,Team,AVG,92.0
+13982048,10/11/2014,D-II,Tuskegee,Morehouse,KICK RETURNS,,Team,LONG,92
+13982049,10/11/2014,D-II,Morehouse,Tuskegee,RUSHING,Shelton,Hamilto,ATT,12
+13982050,10/11/2014,D-II,Morehouse,Tuskegee,RUSHING,Shelton,Hamilto,YDS,23
+13982051,10/11/2014,D-II,Morehouse,Tuskegee,RUSHING,Shelton,Hamilto,TD,0
+13982052,10/11/2014,D-II,Morehouse,Tuskegee,RUSHING,Shelton,Hamilto,LONG,10
+13982053,10/11/2014,D-II,Morehouse,Tuskegee,RUSHING,Temitayo,Agoro,ATT,1
+13982054,10/11/2014,D-II,Morehouse,Tuskegee,RUSHING,Temitayo,Agoro,YDS,23
+13982055,10/11/2014,D-II,Morehouse,Tuskegee,RUSHING,Temitayo,Agoro,TD,0
+13982056,10/11/2014,D-II,Morehouse,Tuskegee,RUSHING,Temitayo,Agoro,LONG,23
+13982057,10/11/2014,D-II,Morehouse,Tuskegee,RUSHING,Malik,Johnson,ATT,3
+13982058,10/11/2014,D-II,Morehouse,Tuskegee,RUSHING,Malik,Johnson,YDS,15
+13982059,10/11/2014,D-II,Morehouse,Tuskegee,RUSHING,Malik,Johnson,TD,0
+13982060,10/11/2014,D-II,Morehouse,Tuskegee,RUSHING,Malik,Johnson,LONG,12
+13982061,10/11/2014,D-II,Morehouse,Tuskegee,RUSHING,Nikolys,Baker,ATT,2
+13982062,10/11/2014,D-II,Morehouse,Tuskegee,RUSHING,Nikolys,Baker,YDS,3
+13982063,10/11/2014,D-II,Morehouse,Tuskegee,RUSHING,Nikolys,Baker,TD,0
+13982064,10/11/2014,D-II,Morehouse,Tuskegee,RUSHING,Nikolys,Baker,LONG,2
+13982065,10/11/2014,D-II,Morehouse,Tuskegee,RUSHING,Cameron,Fields,ATT,2
+13982066,10/11/2014,D-II,Morehouse,Tuskegee,RUSHING,Cameron,Fields,YDS,-2
+13982067,10/11/2014,D-II,Morehouse,Tuskegee,RUSHING,Cameron,Fields,TD,0
+13982068,10/11/2014,D-II,Morehouse,Tuskegee,RUSHING,Cameron,Fields,LONG,3
+13982069,10/11/2014,D-II,Morehouse,Tuskegee,RUSHING,Joshua,Harris,ATT,1
+13982070,10/11/2014,D-II,Morehouse,Tuskegee,RUSHING,Joshua,Harris,YDS,-11
+13982071,10/11/2014,D-II,Morehouse,Tuskegee,RUSHING,Joshua,Harris,TD,0
+13982072,10/11/2014,D-II,Morehouse,Tuskegee,RUSHING,Joshua,Harris,LONG,0
+13982073,10/11/2014,D-II,Morehouse,Tuskegee,RUSHING,Jordan,Tarver,ATT,7
+13982074,10/11/2014,D-II,Morehouse,Tuskegee,RUSHING,Jordan,Tarver,YDS,-15
+13982075,10/11/2014,D-II,Morehouse,Tuskegee,RUSHING,Jordan,Tarver,TD,0
+13982076,10/11/2014,D-II,Morehouse,Tuskegee,RUSHING,Jordan,Tarver,LONG,10
+13982077,10/11/2014,D-II,Morehouse,Tuskegee,PASSING,Jordan,Tarver,CP-ATT-INT,21-35-1
+13982078,10/11/2014,D-II,Morehouse,Tuskegee,PASSING,Jordan,Tarver,YDS,208
+13982079,10/11/2014,D-II,Morehouse,Tuskegee,PASSING,Jordan,Tarver,TD,0
+13982080,10/11/2014,D-II,Morehouse,Tuskegee,PASSING,Jordan,Tarver,LONG,35
+13982081,10/11/2014,D-II,Morehouse,Tuskegee,PASSING,Joshua,Harris,CP-ATT-INT,0-1-0
+13982082,10/11/2014,D-II,Morehouse,Tuskegee,PASSING,Joshua,Harris,YDS,0
+13982083,10/11/2014,D-II,Morehouse,Tuskegee,PASSING,Joshua,Harris,TD,0
+13982084,10/11/2014,D-II,Morehouse,Tuskegee,PASSING,Joshua,Harris,LONG,0
+13982085,10/11/2014,D-II,Morehouse,Tuskegee,RECEIVING,Lance,Mcguffie,REC,5
+13982086,10/11/2014,D-II,Morehouse,Tuskegee,RECEIVING,Lance,Mcguffie,YDS,75
+13982087,10/11/2014,D-II,Morehouse,Tuskegee,RECEIVING,Lance,Mcguffie,TD,0
+13982088,10/11/2014,D-II,Morehouse,Tuskegee,RECEIVING,Lance,Mcguffie,LONG,35
+13982089,10/11/2014,D-II,Morehouse,Tuskegee,RECEIVING,Cameron,Fields,REC,2
+13982090,10/11/2014,D-II,Morehouse,Tuskegee,RECEIVING,Cameron,Fields,YDS,34
+13982091,10/11/2014,D-II,Morehouse,Tuskegee,RECEIVING,Cameron,Fields,TD,0
+13982092,10/11/2014,D-II,Morehouse,Tuskegee,RECEIVING,Cameron,Fields,LONG,29
+13982093,10/11/2014,D-II,Morehouse,Tuskegee,RECEIVING,Don,Cox,REC,3
+13982094,10/11/2014,D-II,Morehouse,Tuskegee,RECEIVING,Don,Cox,YDS,30
+13982095,10/11/2014,D-II,Morehouse,Tuskegee,RECEIVING,Don,Cox,TD,0
+13982096,10/11/2014,D-II,Morehouse,Tuskegee,RECEIVING,Don,Cox,LONG,14
+13982097,10/11/2014,D-II,Morehouse,Tuskegee,RECEIVING,Devon,Mann,REC,3
+13982098,10/11/2014,D-II,Morehouse,Tuskegee,RECEIVING,Devon,Mann,YDS,28
+13982099,10/11/2014,D-II,Morehouse,Tuskegee,RECEIVING,Devon,Mann,TD,0
+13982100,10/11/2014,D-II,Morehouse,Tuskegee,RECEIVING,Devon,Mann,LONG,11
+13982101,10/11/2014,D-II,Morehouse,Tuskegee,RECEIVING,Lake,Mcguffie,REC,3
+13982102,10/11/2014,D-II,Morehouse,Tuskegee,RECEIVING,Lake,Mcguffie,YDS,14
+13982103,10/11/2014,D-II,Morehouse,Tuskegee,RECEIVING,Lake,Mcguffie,TD,0
+13982104,10/11/2014,D-II,Morehouse,Tuskegee,RECEIVING,Lake,Mcguffie,LONG,6
+13982105,10/11/2014,D-II,Morehouse,Tuskegee,RECEIVING,Khamarr,Smith,REC,1
+13982106,10/11/2014,D-II,Morehouse,Tuskegee,RECEIVING,Khamarr,Smith,YDS,13
+13982107,10/11/2014,D-II,Morehouse,Tuskegee,RECEIVING,Khamarr,Smith,TD,0
+13982108,10/11/2014,D-II,Morehouse,Tuskegee,RECEIVING,Khamarr,Smith,LONG,13
+13982109,10/11/2014,D-II,Morehouse,Tuskegee,RECEIVING,Brandon,Sartin,REC,2
+13982110,10/11/2014,D-II,Morehouse,Tuskegee,RECEIVING,Brandon,Sartin,YDS,11
+13982111,10/11/2014,D-II,Morehouse,Tuskegee,RECEIVING,Brandon,Sartin,TD,0
+13982112,10/11/2014,D-II,Morehouse,Tuskegee,RECEIVING,Brandon,Sartin,LONG,10
+13982113,10/11/2014,D-II,Morehouse,Tuskegee,RECEIVING,Shelton,Hamilto,REC,1
+13982114,10/11/2014,D-II,Morehouse,Tuskegee,RECEIVING,Shelton,Hamilto,YDS,3
+13982115,10/11/2014,D-II,Morehouse,Tuskegee,RECEIVING,Shelton,Hamilto,TD,0
+13982116,10/11/2014,D-II,Morehouse,Tuskegee,RECEIVING,Shelton,Hamilto,LONG,3
+13982117,10/11/2014,D-II,Morehouse,Tuskegee,RECEIVING,Malik,Johnson,REC,1
+13982118,10/11/2014,D-II,Morehouse,Tuskegee,RECEIVING,Malik,Johnson,YDS,0
+13982119,10/11/2014,D-II,Morehouse,Tuskegee,RECEIVING,Malik,Johnson,TD,0
+13982120,10/11/2014,D-II,Morehouse,Tuskegee,RECEIVING,Malik,Johnson,LONG,0
+13982121,10/11/2014,D-II,Morehouse,Tuskegee,PUNTING,Temitayo,Agoro,NO,8
+13982122,10/11/2014,D-II,Morehouse,Tuskegee,PUNTING,Temitayo,Agoro,YDS,339
+13982123,10/11/2014,D-II,Morehouse,Tuskegee,PUNTING,Temitayo,Agoro,AVG,42.4
+13982124,10/11/2014,D-II,Morehouse,Tuskegee,PUNTING,Temitayo,Agoro,LONG,62
+13982125,10/11/2014,D-II,Morehouse,Tuskegee,KICK RETURNS,Joshua,Thurston,NO,2
+13982126,10/11/2014,D-II,Morehouse,Tuskegee,KICK RETURNS,Joshua,Thurston,YDS,21
+13982127,10/11/2014,D-II,Morehouse,Tuskegee,KICK RETURNS,Joshua,Thurston,AVG,10.5
+13982128,10/11/2014,D-II,Morehouse,Tuskegee,KICK RETURNS,Joshua,Thurston,LONG,21
+13982129,10/11/2014,D-II,Morehouse,Tuskegee,KICK RETURNS,Cameron,Fields,NO,2
+13982130,10/11/2014,D-II,Morehouse,Tuskegee,KICK RETURNS,Cameron,Fields,YDS,36
+13982131,10/11/2014,D-II,Morehouse,Tuskegee,KICK RETURNS,Cameron,Fields,AVG,18.0
+13982132,10/11/2014,D-II,Morehouse,Tuskegee,KICK RETURNS,Cameron,Fields,LONG,25
+13982133,10/11/2014,D-II,Morehouse,Tuskegee,KICK RETURNS,Kenneth,Hagins,NO,1
+13982134,10/11/2014,D-II,Morehouse,Tuskegee,KICK RETURNS,Kenneth,Hagins,YDS,13
+13982135,10/11/2014,D-II,Morehouse,Tuskegee,KICK RETURNS,Kenneth,Hagins,AVG,13.0
+13982136,10/11/2014,D-II,Morehouse,Tuskegee,KICK RETURNS,Kenneth,Hagins,LONG,13

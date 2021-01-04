@@ -1,0 +1,117 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+23558001,10/1/2016,D-III,Minnesota-Morris,MacMurray,RUSHING,J,Cummings,ATT,13
+23558002,10/1/2016,D-III,Minnesota-Morris,MacMurray,RUSHING,J,Cummings,YDS,83
+23558003,10/1/2016,D-III,Minnesota-Morris,MacMurray,RUSHING,J,Cummings,TD,0
+23558004,10/1/2016,D-III,Minnesota-Morris,MacMurray,RUSHING,J,Cummings,LONG,14
+23558005,10/1/2016,D-III,Minnesota-Morris,MacMurray,RUSHING,J,Masloski,ATT,26
+23558006,10/1/2016,D-III,Minnesota-Morris,MacMurray,RUSHING,J,Masloski,YDS,71
+23558007,10/1/2016,D-III,Minnesota-Morris,MacMurray,RUSHING,J,Masloski,TD,1
+23558008,10/1/2016,D-III,Minnesota-Morris,MacMurray,RUSHING,J,Masloski,LONG,35
+23558009,10/1/2016,D-III,Minnesota-Morris,MacMurray,RUSHING,M,Santana,ATT,4
+23558010,10/1/2016,D-III,Minnesota-Morris,MacMurray,RUSHING,M,Santana,YDS,26
+23558011,10/1/2016,D-III,Minnesota-Morris,MacMurray,RUSHING,M,Santana,TD,0
+23558012,10/1/2016,D-III,Minnesota-Morris,MacMurray,RUSHING,M,Santana,LONG,11
+23558013,10/1/2016,D-III,Minnesota-Morris,MacMurray,RUSHING,,Team,ATT,1
+23558014,10/1/2016,D-III,Minnesota-Morris,MacMurray,RUSHING,,Team,YDS,-1
+23558015,10/1/2016,D-III,Minnesota-Morris,MacMurray,RUSHING,,Team,TD,0
+23558016,10/1/2016,D-III,Minnesota-Morris,MacMurray,RUSHING,,Team,LONG,0
+23558017,10/1/2016,D-III,Minnesota-Morris,MacMurray,PASSING,J,Masloski,CP-ATT-INT,9-16-1
+23558018,10/1/2016,D-III,Minnesota-Morris,MacMurray,PASSING,J,Masloski,YDS,97
+23558019,10/1/2016,D-III,Minnesota-Morris,MacMurray,PASSING,J,Masloski,TD,0
+23558020,10/1/2016,D-III,Minnesota-Morris,MacMurray,PASSING,J,Masloski,LONG,26
+23558021,10/1/2016,D-III,Minnesota-Morris,MacMurray,RECEIVING,K,Petermeier,REC,4
+23558022,10/1/2016,D-III,Minnesota-Morris,MacMurray,RECEIVING,K,Petermeier,YDS,57
+23558023,10/1/2016,D-III,Minnesota-Morris,MacMurray,RECEIVING,K,Petermeier,TD,0
+23558024,10/1/2016,D-III,Minnesota-Morris,MacMurray,RECEIVING,K,Petermeier,LONG,26
+23558025,10/1/2016,D-III,Minnesota-Morris,MacMurray,RECEIVING,T,Holleman,REC,2
+23558026,10/1/2016,D-III,Minnesota-Morris,MacMurray,RECEIVING,T,Holleman,YDS,22
+23558027,10/1/2016,D-III,Minnesota-Morris,MacMurray,RECEIVING,T,Holleman,TD,0
+23558028,10/1/2016,D-III,Minnesota-Morris,MacMurray,RECEIVING,T,Holleman,LONG,16
+23558029,10/1/2016,D-III,Minnesota-Morris,MacMurray,RECEIVING,E,Guffey,REC,3
+23558030,10/1/2016,D-III,Minnesota-Morris,MacMurray,RECEIVING,E,Guffey,YDS,18
+23558031,10/1/2016,D-III,Minnesota-Morris,MacMurray,RECEIVING,E,Guffey,TD,0
+23558032,10/1/2016,D-III,Minnesota-Morris,MacMurray,RECEIVING,E,Guffey,LONG,7
+23558033,10/1/2016,D-III,Minnesota-Morris,MacMurray,PUNTING,D,Shipley,NO,5
+23558034,10/1/2016,D-III,Minnesota-Morris,MacMurray,PUNTING,D,Shipley,YDS,193
+23558035,10/1/2016,D-III,Minnesota-Morris,MacMurray,PUNTING,D,Shipley,AVG,38.6
+23558036,10/1/2016,D-III,Minnesota-Morris,MacMurray,PUNTING,D,Shipley,LONG,53
+23558037,10/1/2016,D-III,Minnesota-Morris,MacMurray,PUNT RETURNS,C,Erickson,NO,1
+23558038,10/1/2016,D-III,Minnesota-Morris,MacMurray,PUNT RETURNS,C,Erickson,YDS,5
+23558039,10/1/2016,D-III,Minnesota-Morris,MacMurray,PUNT RETURNS,C,Erickson,AVG,5.0
+23558040,10/1/2016,D-III,Minnesota-Morris,MacMurray,PUNT RETURNS,C,Erickson,LONG,5
+23558041,10/1/2016,D-III,Minnesota-Morris,MacMurray,KICK RETURNS,C,Erickson,NO,2
+23558042,10/1/2016,D-III,Minnesota-Morris,MacMurray,KICK RETURNS,C,Erickson,YDS,28
+23558043,10/1/2016,D-III,Minnesota-Morris,MacMurray,KICK RETURNS,C,Erickson,AVG,14.0
+23558044,10/1/2016,D-III,Minnesota-Morris,MacMurray,KICK RETURNS,C,Erickson,LONG,17
+23558045,10/1/2016,D-III,Minnesota-Morris,MacMurray,KICK RETURNS,E,Guffey,NO,4
+23558046,10/1/2016,D-III,Minnesota-Morris,MacMurray,KICK RETURNS,E,Guffey,YDS,58
+23558047,10/1/2016,D-III,Minnesota-Morris,MacMurray,KICK RETURNS,E,Guffey,AVG,14.5
+23558048,10/1/2016,D-III,Minnesota-Morris,MacMurray,KICK RETURNS,E,Guffey,LONG,23
+23558049,10/1/2016,D-III,MacMurray,Minnesota-Morris,RUSHING,C,Middlebrook,ATT,18
+23558050,10/1/2016,D-III,MacMurray,Minnesota-Morris,RUSHING,C,Middlebrook,YDS,91
+23558051,10/1/2016,D-III,MacMurray,Minnesota-Morris,RUSHING,C,Middlebrook,TD,2
+23558052,10/1/2016,D-III,MacMurray,Minnesota-Morris,RUSHING,C,Middlebrook,LONG,14
+23558053,10/1/2016,D-III,MacMurray,Minnesota-Morris,RUSHING,M,Ellison,ATT,10
+23558054,10/1/2016,D-III,MacMurray,Minnesota-Morris,RUSHING,M,Ellison,YDS,59
+23558055,10/1/2016,D-III,MacMurray,Minnesota-Morris,RUSHING,M,Ellison,TD,0
+23558056,10/1/2016,D-III,MacMurray,Minnesota-Morris,RUSHING,M,Ellison,LONG,22
+23558057,10/1/2016,D-III,MacMurray,Minnesota-Morris,RUSHING,Jacob,Smith,ATT,9
+23558058,10/1/2016,D-III,MacMurray,Minnesota-Morris,RUSHING,Jacob,Smith,YDS,38
+23558059,10/1/2016,D-III,MacMurray,Minnesota-Morris,RUSHING,Jacob,Smith,TD,0
+23558060,10/1/2016,D-III,MacMurray,Minnesota-Morris,RUSHING,Jacob,Smith,LONG,10
+23558061,10/1/2016,D-III,MacMurray,Minnesota-Morris,RUSHING,Coy,Dorothy,ATT,12
+23558062,10/1/2016,D-III,MacMurray,Minnesota-Morris,RUSHING,Coy,Dorothy,YDS,34
+23558063,10/1/2016,D-III,MacMurray,Minnesota-Morris,RUSHING,Coy,Dorothy,TD,1
+23558064,10/1/2016,D-III,MacMurray,Minnesota-Morris,RUSHING,Coy,Dorothy,LONG,23
+23558065,10/1/2016,D-III,MacMurray,Minnesota-Morris,RUSHING,,Team,ATT,1
+23558066,10/1/2016,D-III,MacMurray,Minnesota-Morris,RUSHING,,Team,YDS,-1
+23558067,10/1/2016,D-III,MacMurray,Minnesota-Morris,RUSHING,,Team,TD,0
+23558068,10/1/2016,D-III,MacMurray,Minnesota-Morris,RUSHING,,Team,LONG,0
+23558069,10/1/2016,D-III,MacMurray,Minnesota-Morris,PASSING,Coy,Dorothy,CP-ATT-INT,19-32-1
+23558070,10/1/2016,D-III,MacMurray,Minnesota-Morris,PASSING,Coy,Dorothy,YDS,218
+23558071,10/1/2016,D-III,MacMurray,Minnesota-Morris,PASSING,Coy,Dorothy,TD,1
+23558072,10/1/2016,D-III,MacMurray,Minnesota-Morris,PASSING,Coy,Dorothy,LONG,35
+23558073,10/1/2016,D-III,MacMurray,Minnesota-Morris,RECEIVING,D,Preston,REC,5
+23558074,10/1/2016,D-III,MacMurray,Minnesota-Morris,RECEIVING,D,Preston,YDS,69
+23558075,10/1/2016,D-III,MacMurray,Minnesota-Morris,RECEIVING,D,Preston,TD,0
+23558076,10/1/2016,D-III,MacMurray,Minnesota-Morris,RECEIVING,D,Preston,LONG,25
+23558077,10/1/2016,D-III,MacMurray,Minnesota-Morris,RECEIVING,Brandon,Staves,REC,4
+23558078,10/1/2016,D-III,MacMurray,Minnesota-Morris,RECEIVING,Brandon,Staves,YDS,61
+23558079,10/1/2016,D-III,MacMurray,Minnesota-Morris,RECEIVING,Brandon,Staves,TD,1
+23558080,10/1/2016,D-III,MacMurray,Minnesota-Morris,RECEIVING,Brandon,Staves,LONG,35
+23558081,10/1/2016,D-III,MacMurray,Minnesota-Morris,RECEIVING,Jamal,Birch,REC,2
+23558082,10/1/2016,D-III,MacMurray,Minnesota-Morris,RECEIVING,Jamal,Birch,YDS,34
+23558083,10/1/2016,D-III,MacMurray,Minnesota-Morris,RECEIVING,Jamal,Birch,TD,0
+23558084,10/1/2016,D-III,MacMurray,Minnesota-Morris,RECEIVING,Jamal,Birch,LONG,26
+23558085,10/1/2016,D-III,MacMurray,Minnesota-Morris,RECEIVING,L,Rhodes,REC,2
+23558086,10/1/2016,D-III,MacMurray,Minnesota-Morris,RECEIVING,L,Rhodes,YDS,15
+23558087,10/1/2016,D-III,MacMurray,Minnesota-Morris,RECEIVING,L,Rhodes,TD,0
+23558088,10/1/2016,D-III,MacMurray,Minnesota-Morris,RECEIVING,L,Rhodes,LONG,9
+23558089,10/1/2016,D-III,MacMurray,Minnesota-Morris,RECEIVING,Ian,Leib,REC,1
+23558090,10/1/2016,D-III,MacMurray,Minnesota-Morris,RECEIVING,Ian,Leib,YDS,15
+23558091,10/1/2016,D-III,MacMurray,Minnesota-Morris,RECEIVING,Ian,Leib,TD,0
+23558092,10/1/2016,D-III,MacMurray,Minnesota-Morris,RECEIVING,Ian,Leib,LONG,15
+23558093,10/1/2016,D-III,MacMurray,Minnesota-Morris,RECEIVING,Tommy,Cummins,REC,1
+23558094,10/1/2016,D-III,MacMurray,Minnesota-Morris,RECEIVING,Tommy,Cummins,YDS,10
+23558095,10/1/2016,D-III,MacMurray,Minnesota-Morris,RECEIVING,Tommy,Cummins,TD,0
+23558096,10/1/2016,D-III,MacMurray,Minnesota-Morris,RECEIVING,Tommy,Cummins,LONG,10
+23558097,10/1/2016,D-III,MacMurray,Minnesota-Morris,RECEIVING,Cory,Farneti,REC,1
+23558098,10/1/2016,D-III,MacMurray,Minnesota-Morris,RECEIVING,Cory,Farneti,YDS,10
+23558099,10/1/2016,D-III,MacMurray,Minnesota-Morris,RECEIVING,Cory,Farneti,TD,0
+23558100,10/1/2016,D-III,MacMurray,Minnesota-Morris,RECEIVING,Cory,Farneti,LONG,10
+23558101,10/1/2016,D-III,MacMurray,Minnesota-Morris,RECEIVING,C,Middlebrook,REC,3
+23558102,10/1/2016,D-III,MacMurray,Minnesota-Morris,RECEIVING,C,Middlebrook,YDS,4
+23558103,10/1/2016,D-III,MacMurray,Minnesota-Morris,RECEIVING,C,Middlebrook,TD,0
+23558104,10/1/2016,D-III,MacMurray,Minnesota-Morris,RECEIVING,C,Middlebrook,LONG,4
+23558105,10/1/2016,D-III,MacMurray,Minnesota-Morris,PUNTING,Ryan,Metsker,NO,4
+23558106,10/1/2016,D-III,MacMurray,Minnesota-Morris,PUNTING,Ryan,Metsker,YDS,150
+23558107,10/1/2016,D-III,MacMurray,Minnesota-Morris,PUNTING,Ryan,Metsker,AVG,37.5
+23558108,10/1/2016,D-III,MacMurray,Minnesota-Morris,PUNTING,Ryan,Metsker,LONG,50
+23558109,10/1/2016,D-III,MacMurray,Minnesota-Morris,KICK RETURNS,L,Rhodes,NO,1
+23558110,10/1/2016,D-III,MacMurray,Minnesota-Morris,KICK RETURNS,L,Rhodes,YDS,9
+23558111,10/1/2016,D-III,MacMurray,Minnesota-Morris,KICK RETURNS,L,Rhodes,AVG,9.0
+23558112,10/1/2016,D-III,MacMurray,Minnesota-Morris,KICK RETURNS,L,Rhodes,LONG,9
+23558113,10/1/2016,D-III,MacMurray,Minnesota-Morris,KICK RETURNS,D,Preston,NO,2
+23558114,10/1/2016,D-III,MacMurray,Minnesota-Morris,KICK RETURNS,D,Preston,YDS,29
+23558115,10/1/2016,D-III,MacMurray,Minnesota-Morris,KICK RETURNS,D,Preston,AVG,14.5
+23558116,10/1/2016,D-III,MacMurray,Minnesota-Morris,KICK RETURNS,D,Preston,LONG,19

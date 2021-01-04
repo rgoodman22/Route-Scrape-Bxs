@@ -1,0 +1,141 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+23939001,10/22/2016,D-III,Martin Luther,Greenville,RUSHING,Tj,Babinec,ATT,15
+23939002,10/22/2016,D-III,Martin Luther,Greenville,RUSHING,Tj,Babinec,YDS,122
+23939003,10/22/2016,D-III,Martin Luther,Greenville,RUSHING,Tj,Babinec,TD,0
+23939004,10/22/2016,D-III,Martin Luther,Greenville,RUSHING,Tj,Babinec,LONG,52
+23939005,10/22/2016,D-III,Martin Luther,Greenville,RUSHING,Ian,Paulsen,ATT,29
+23939006,10/22/2016,D-III,Martin Luther,Greenville,RUSHING,Ian,Paulsen,YDS,67
+23939007,10/22/2016,D-III,Martin Luther,Greenville,RUSHING,Ian,Paulsen,TD,1
+23939008,10/22/2016,D-III,Martin Luther,Greenville,RUSHING,Ian,Paulsen,LONG,13
+23939009,10/22/2016,D-III,Martin Luther,Greenville,RUSHING,Josh,Wong,ATT,9
+23939010,10/22/2016,D-III,Martin Luther,Greenville,RUSHING,Josh,Wong,YDS,26
+23939011,10/22/2016,D-III,Martin Luther,Greenville,RUSHING,Josh,Wong,TD,1
+23939012,10/22/2016,D-III,Martin Luther,Greenville,RUSHING,Josh,Wong,LONG,13
+23939013,10/22/2016,D-III,Martin Luther,Greenville,PASSING,Ian,Paulsen,CP-ATT-INT,1-6-0
+23939014,10/22/2016,D-III,Martin Luther,Greenville,PASSING,Ian,Paulsen,YDS,14
+23939015,10/22/2016,D-III,Martin Luther,Greenville,PASSING,Ian,Paulsen,TD,0
+23939016,10/22/2016,D-III,Martin Luther,Greenville,PASSING,Ian,Paulsen,LONG,14
+23939017,10/22/2016,D-III,Martin Luther,Greenville,PASSING,Tj,Babinec,CP-ATT-INT,1-3-0
+23939018,10/22/2016,D-III,Martin Luther,Greenville,PASSING,Tj,Babinec,YDS,5
+23939019,10/22/2016,D-III,Martin Luther,Greenville,PASSING,Tj,Babinec,TD,0
+23939020,10/22/2016,D-III,Martin Luther,Greenville,PASSING,Tj,Babinec,LONG,5
+23939021,10/22/2016,D-III,Martin Luther,Greenville,PASSING,Josh,Wong,CP-ATT-INT,1-1-0
+23939022,10/22/2016,D-III,Martin Luther,Greenville,PASSING,Josh,Wong,YDS,-4
+23939023,10/22/2016,D-III,Martin Luther,Greenville,PASSING,Josh,Wong,TD,0
+23939024,10/22/2016,D-III,Martin Luther,Greenville,PASSING,Josh,Wong,LONG,0
+23939025,10/22/2016,D-III,Martin Luther,Greenville,RECEIVING,Josh,Schroeder,REC,2
+23939026,10/22/2016,D-III,Martin Luther,Greenville,RECEIVING,Josh,Schroeder,YDS,10
+23939027,10/22/2016,D-III,Martin Luther,Greenville,RECEIVING,Josh,Schroeder,TD,0
+23939028,10/22/2016,D-III,Martin Luther,Greenville,RECEIVING,Josh,Schroeder,LONG,14
+23939029,10/22/2016,D-III,Martin Luther,Greenville,RECEIVING,Ian,Paulsen,REC,1
+23939030,10/22/2016,D-III,Martin Luther,Greenville,RECEIVING,Ian,Paulsen,YDS,5
+23939031,10/22/2016,D-III,Martin Luther,Greenville,RECEIVING,Ian,Paulsen,TD,0
+23939032,10/22/2016,D-III,Martin Luther,Greenville,RECEIVING,Ian,Paulsen,LONG,5
+23939033,10/22/2016,D-III,Martin Luther,Greenville,PUNTING,Josh,Vondeylen,NO,8
+23939034,10/22/2016,D-III,Martin Luther,Greenville,PUNTING,Josh,Vondeylen,YDS,314
+23939035,10/22/2016,D-III,Martin Luther,Greenville,PUNTING,Josh,Vondeylen,AVG,39.3
+23939036,10/22/2016,D-III,Martin Luther,Greenville,PUNTING,Josh,Vondeylen,LONG,45
+23939037,10/22/2016,D-III,Martin Luther,Greenville,PUNT RETURNS,Adam,Westra,NO,1
+23939038,10/22/2016,D-III,Martin Luther,Greenville,PUNT RETURNS,Adam,Westra,YDS,-9
+23939039,10/22/2016,D-III,Martin Luther,Greenville,PUNT RETURNS,Adam,Westra,AVG,-9.0
+23939040,10/22/2016,D-III,Martin Luther,Greenville,PUNT RETURNS,Adam,Westra,LONG,0
+23939041,10/22/2016,D-III,Martin Luther,Greenville,KICK RETURNS,Joe,Rodewald,NO,1
+23939042,10/22/2016,D-III,Martin Luther,Greenville,KICK RETURNS,Joe,Rodewald,YDS,12
+23939043,10/22/2016,D-III,Martin Luther,Greenville,KICK RETURNS,Joe,Rodewald,AVG,12.0
+23939044,10/22/2016,D-III,Martin Luther,Greenville,KICK RETURNS,Joe,Rodewald,LONG,12
+23939045,10/22/2016,D-III,Martin Luther,Greenville,KICK RETURNS,Josh,Wong,NO,2
+23939046,10/22/2016,D-III,Martin Luther,Greenville,KICK RETURNS,Josh,Wong,YDS,32
+23939047,10/22/2016,D-III,Martin Luther,Greenville,KICK RETURNS,Josh,Wong,AVG,16.0
+23939048,10/22/2016,D-III,Martin Luther,Greenville,KICK RETURNS,Josh,Wong,LONG,18
+23939049,10/22/2016,D-III,Martin Luther,Greenville,KICK RETURNS,Josh,Schroeder,NO,3
+23939050,10/22/2016,D-III,Martin Luther,Greenville,KICK RETURNS,Josh,Schroeder,YDS,41
+23939051,10/22/2016,D-III,Martin Luther,Greenville,KICK RETURNS,Josh,Schroeder,AVG,13.7
+23939052,10/22/2016,D-III,Martin Luther,Greenville,KICK RETURNS,Josh,Schroeder,LONG,19
+23939053,10/22/2016,D-III,Martin Luther,Greenville,KICK RETURNS,Adam,Westra,NO,2
+23939054,10/22/2016,D-III,Martin Luther,Greenville,KICK RETURNS,Adam,Westra,YDS,39
+23939055,10/22/2016,D-III,Martin Luther,Greenville,KICK RETURNS,Adam,Westra,AVG,19.5
+23939056,10/22/2016,D-III,Martin Luther,Greenville,KICK RETURNS,Adam,Westra,LONG,26
+23939057,10/22/2016,D-III,Greenville,Martin Luther,RUSHING,Hamid,Camara,ATT,17
+23939058,10/22/2016,D-III,Greenville,Martin Luther,RUSHING,Hamid,Camara,YDS,148
+23939059,10/22/2016,D-III,Greenville,Martin Luther,RUSHING,Hamid,Camara,TD,1
+23939060,10/22/2016,D-III,Greenville,Martin Luther,RUSHING,Hamid,Camara,LONG,55
+23939061,10/22/2016,D-III,Greenville,Martin Luther,RUSHING,Brennen,Johnson,ATT,8
+23939062,10/22/2016,D-III,Greenville,Martin Luther,RUSHING,Brennen,Johnson,YDS,76
+23939063,10/22/2016,D-III,Greenville,Martin Luther,RUSHING,Brennen,Johnson,TD,0
+23939064,10/22/2016,D-III,Greenville,Martin Luther,RUSHING,Brennen,Johnson,LONG,49
+23939065,10/22/2016,D-III,Greenville,Martin Luther,RUSHING,Jonny,Pruiett,ATT,6
+23939066,10/22/2016,D-III,Greenville,Martin Luther,RUSHING,Jonny,Pruiett,YDS,31
+23939067,10/22/2016,D-III,Greenville,Martin Luther,RUSHING,Jonny,Pruiett,TD,0
+23939068,10/22/2016,D-III,Greenville,Martin Luther,RUSHING,Jonny,Pruiett,LONG,10
+23939069,10/22/2016,D-III,Greenville,Martin Luther,RUSHING,David,Kerley,ATT,7
+23939070,10/22/2016,D-III,Greenville,Martin Luther,RUSHING,David,Kerley,YDS,23
+23939071,10/22/2016,D-III,Greenville,Martin Luther,RUSHING,David,Kerley,TD,2
+23939072,10/22/2016,D-III,Greenville,Martin Luther,RUSHING,David,Kerley,LONG,5
+23939073,10/22/2016,D-III,Greenville,Martin Luther,RUSHING,George,Harris,ATT,9
+23939074,10/22/2016,D-III,Greenville,Martin Luther,RUSHING,George,Harris,YDS,22
+23939075,10/22/2016,D-III,Greenville,Martin Luther,RUSHING,George,Harris,TD,1
+23939076,10/22/2016,D-III,Greenville,Martin Luther,RUSHING,George,Harris,LONG,6
+23939077,10/22/2016,D-III,Greenville,Martin Luther,RUSHING,Amari,Jones,ATT,3
+23939078,10/22/2016,D-III,Greenville,Martin Luther,RUSHING,Amari,Jones,YDS,9
+23939079,10/22/2016,D-III,Greenville,Martin Luther,RUSHING,Amari,Jones,TD,0
+23939080,10/22/2016,D-III,Greenville,Martin Luther,RUSHING,Amari,Jones,LONG,5
+23939081,10/22/2016,D-III,Greenville,Martin Luther,RUSHING,Derek,Greifzu,ATT,1
+23939082,10/22/2016,D-III,Greenville,Martin Luther,RUSHING,Derek,Greifzu,YDS,3
+23939083,10/22/2016,D-III,Greenville,Martin Luther,RUSHING,Derek,Greifzu,TD,0
+23939084,10/22/2016,D-III,Greenville,Martin Luther,RUSHING,Derek,Greifzu,LONG,3
+23939085,10/22/2016,D-III,Greenville,Martin Luther,RUSHING,Eric,Kranh,ATT,1
+23939086,10/22/2016,D-III,Greenville,Martin Luther,RUSHING,Eric,Kranh,YDS,0
+23939087,10/22/2016,D-III,Greenville,Martin Luther,RUSHING,Eric,Kranh,TD,0
+23939088,10/22/2016,D-III,Greenville,Martin Luther,RUSHING,Eric,Kranh,LONG,0
+23939089,10/22/2016,D-III,Greenville,Martin Luther,PASSING,George,Harris,CP-ATT-INT,19-28-0
+23939090,10/22/2016,D-III,Greenville,Martin Luther,PASSING,George,Harris,YDS,259
+23939091,10/22/2016,D-III,Greenville,Martin Luther,PASSING,George,Harris,TD,5
+23939092,10/22/2016,D-III,Greenville,Martin Luther,PASSING,George,Harris,LONG,43
+23939093,10/22/2016,D-III,Greenville,Martin Luther,PASSING,Brennen,Johnson,CP-ATT-INT,2-2-0
+23939094,10/22/2016,D-III,Greenville,Martin Luther,PASSING,Brennen,Johnson,YDS,12
+23939095,10/22/2016,D-III,Greenville,Martin Luther,PASSING,Brennen,Johnson,TD,0
+23939096,10/22/2016,D-III,Greenville,Martin Luther,PASSING,Brennen,Johnson,LONG,8
+23939097,10/22/2016,D-III,Greenville,Martin Luther,RECEIVING,John,Dudley,REC,7
+23939098,10/22/2016,D-III,Greenville,Martin Luther,RECEIVING,John,Dudley,YDS,105
+23939099,10/22/2016,D-III,Greenville,Martin Luther,RECEIVING,John,Dudley,TD,2
+23939100,10/22/2016,D-III,Greenville,Martin Luther,RECEIVING,John,Dudley,LONG,43
+23939101,10/22/2016,D-III,Greenville,Martin Luther,RECEIVING,Derek,Greifzu,REC,4
+23939102,10/22/2016,D-III,Greenville,Martin Luther,RECEIVING,Derek,Greifzu,YDS,68
+23939103,10/22/2016,D-III,Greenville,Martin Luther,RECEIVING,Derek,Greifzu,TD,1
+23939104,10/22/2016,D-III,Greenville,Martin Luther,RECEIVING,Derek,Greifzu,LONG,23
+23939105,10/22/2016,D-III,Greenville,Martin Luther,RECEIVING,Eric,Kranh,REC,3
+23939106,10/22/2016,D-III,Greenville,Martin Luther,RECEIVING,Eric,Kranh,YDS,37
+23939107,10/22/2016,D-III,Greenville,Martin Luther,RECEIVING,Eric,Kranh,TD,1
+23939108,10/22/2016,D-III,Greenville,Martin Luther,RECEIVING,Eric,Kranh,LONG,25
+23939109,10/22/2016,D-III,Greenville,Martin Luther,RECEIVING,Corbin,Quinonez,REC,3
+23939110,10/22/2016,D-III,Greenville,Martin Luther,RECEIVING,Corbin,Quinonez,YDS,31
+23939111,10/22/2016,D-III,Greenville,Martin Luther,RECEIVING,Corbin,Quinonez,TD,1
+23939112,10/22/2016,D-III,Greenville,Martin Luther,RECEIVING,Corbin,Quinonez,LONG,11
+23939113,10/22/2016,D-III,Greenville,Martin Luther,RECEIVING,Sean,Brooks,REC,1
+23939114,10/22/2016,D-III,Greenville,Martin Luther,RECEIVING,Sean,Brooks,YDS,10
+23939115,10/22/2016,D-III,Greenville,Martin Luther,RECEIVING,Sean,Brooks,TD,0
+23939116,10/22/2016,D-III,Greenville,Martin Luther,RECEIVING,Sean,Brooks,LONG,10
+23939117,10/22/2016,D-III,Greenville,Martin Luther,RECEIVING,Noah,Munsinger,REC,1
+23939118,10/22/2016,D-III,Greenville,Martin Luther,RECEIVING,Noah,Munsinger,YDS,8
+23939119,10/22/2016,D-III,Greenville,Martin Luther,RECEIVING,Noah,Munsinger,TD,0
+23939120,10/22/2016,D-III,Greenville,Martin Luther,RECEIVING,Noah,Munsinger,LONG,8
+23939121,10/22/2016,D-III,Greenville,Martin Luther,RECEIVING,R,Stegbauer,REC,1
+23939122,10/22/2016,D-III,Greenville,Martin Luther,RECEIVING,R,Stegbauer,YDS,8
+23939123,10/22/2016,D-III,Greenville,Martin Luther,RECEIVING,R,Stegbauer,TD,0
+23939124,10/22/2016,D-III,Greenville,Martin Luther,RECEIVING,R,Stegbauer,LONG,8
+23939125,10/22/2016,D-III,Greenville,Martin Luther,RECEIVING,David,Kerley,REC,1
+23939126,10/22/2016,D-III,Greenville,Martin Luther,RECEIVING,David,Kerley,YDS,4
+23939127,10/22/2016,D-III,Greenville,Martin Luther,RECEIVING,David,Kerley,TD,0
+23939128,10/22/2016,D-III,Greenville,Martin Luther,RECEIVING,David,Kerley,LONG,4
+23939129,10/22/2016,D-III,Greenville,Martin Luther,PUNTING,Michael,Carie,NO,5
+23939130,10/22/2016,D-III,Greenville,Martin Luther,PUNTING,Michael,Carie,YDS,201
+23939131,10/22/2016,D-III,Greenville,Martin Luther,PUNTING,Michael,Carie,AVG,40.2
+23939132,10/22/2016,D-III,Greenville,Martin Luther,PUNTING,Michael,Carie,LONG,58
+23939133,10/22/2016,D-III,Greenville,Martin Luther,PUNT RETURNS,Justin,Howard,NO,1
+23939134,10/22/2016,D-III,Greenville,Martin Luther,PUNT RETURNS,Justin,Howard,YDS,2
+23939135,10/22/2016,D-III,Greenville,Martin Luther,PUNT RETURNS,Justin,Howard,AVG,2.0
+23939136,10/22/2016,D-III,Greenville,Martin Luther,PUNT RETURNS,Justin,Howard,LONG,2
+23939137,10/22/2016,D-III,Greenville,Martin Luther,KICK RETURNS,Jonny,Pruiett,NO,2
+23939138,10/22/2016,D-III,Greenville,Martin Luther,KICK RETURNS,Jonny,Pruiett,YDS,40
+23939139,10/22/2016,D-III,Greenville,Martin Luther,KICK RETURNS,Jonny,Pruiett,AVG,20.0
+23939140,10/22/2016,D-III,Greenville,Martin Luther,KICK RETURNS,Jonny,Pruiett,LONG,23

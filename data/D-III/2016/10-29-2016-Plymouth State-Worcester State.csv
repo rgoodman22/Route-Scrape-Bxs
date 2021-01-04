@@ -1,0 +1,121 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+24040001,10/29/2016,D-III,Plymouth State,Worcester State,RUSHING,M,Banuskevich,ATT,15
+24040002,10/29/2016,D-III,Plymouth State,Worcester State,RUSHING,M,Banuskevich,YDS,98
+24040003,10/29/2016,D-III,Plymouth State,Worcester State,RUSHING,M,Banuskevich,TD,1
+24040004,10/29/2016,D-III,Plymouth State,Worcester State,RUSHING,M,Banuskevich,LONG,36
+24040005,10/29/2016,D-III,Plymouth State,Worcester State,RUSHING,D,Hamilton,ATT,18
+24040006,10/29/2016,D-III,Plymouth State,Worcester State,RUSHING,D,Hamilton,YDS,49
+24040007,10/29/2016,D-III,Plymouth State,Worcester State,RUSHING,D,Hamilton,TD,0
+24040008,10/29/2016,D-III,Plymouth State,Worcester State,RUSHING,D,Hamilton,LONG,7
+24040009,10/29/2016,D-III,Plymouth State,Worcester State,RUSHING,T,Mahoney,ATT,5
+24040010,10/29/2016,D-III,Plymouth State,Worcester State,RUSHING,T,Mahoney,YDS,12
+24040011,10/29/2016,D-III,Plymouth State,Worcester State,RUSHING,T,Mahoney,TD,0
+24040012,10/29/2016,D-III,Plymouth State,Worcester State,RUSHING,T,Mahoney,LONG,5
+24040013,10/29/2016,D-III,Plymouth State,Worcester State,RUSHING,B,Drumgole,ATT,1
+24040014,10/29/2016,D-III,Plymouth State,Worcester State,RUSHING,B,Drumgole,YDS,-5
+24040015,10/29/2016,D-III,Plymouth State,Worcester State,RUSHING,B,Drumgole,TD,0
+24040016,10/29/2016,D-III,Plymouth State,Worcester State,RUSHING,B,Drumgole,LONG,0
+24040017,10/29/2016,D-III,Plymouth State,Worcester State,RUSHING,Z,Edwards,ATT,4
+24040018,10/29/2016,D-III,Plymouth State,Worcester State,RUSHING,Z,Edwards,YDS,-12
+24040019,10/29/2016,D-III,Plymouth State,Worcester State,RUSHING,Z,Edwards,TD,0
+24040020,10/29/2016,D-III,Plymouth State,Worcester State,RUSHING,Z,Edwards,LONG,1
+24040021,10/29/2016,D-III,Plymouth State,Worcester State,PASSING,Z,Edwards,CP-ATT-INT,10-26-0
+24040022,10/29/2016,D-III,Plymouth State,Worcester State,PASSING,Z,Edwards,YDS,80
+24040023,10/29/2016,D-III,Plymouth State,Worcester State,PASSING,Z,Edwards,TD,0
+24040024,10/29/2016,D-III,Plymouth State,Worcester State,PASSING,Z,Edwards,LONG,16
+24040025,10/29/2016,D-III,Plymouth State,Worcester State,RECEIVING,J,Szulc,REC,6
+24040026,10/29/2016,D-III,Plymouth State,Worcester State,RECEIVING,J,Szulc,YDS,45
+24040027,10/29/2016,D-III,Plymouth State,Worcester State,RECEIVING,J,Szulc,TD,0
+24040028,10/29/2016,D-III,Plymouth State,Worcester State,RECEIVING,J,Szulc,LONG,13
+24040029,10/29/2016,D-III,Plymouth State,Worcester State,RECEIVING,B,Drumgole,REC,2
+24040030,10/29/2016,D-III,Plymouth State,Worcester State,RECEIVING,B,Drumgole,YDS,16
+24040031,10/29/2016,D-III,Plymouth State,Worcester State,RECEIVING,B,Drumgole,TD,0
+24040032,10/29/2016,D-III,Plymouth State,Worcester State,RECEIVING,B,Drumgole,LONG,14
+24040033,10/29/2016,D-III,Plymouth State,Worcester State,RECEIVING,M,Banuskevich,REC,1
+24040034,10/29/2016,D-III,Plymouth State,Worcester State,RECEIVING,M,Banuskevich,YDS,16
+24040035,10/29/2016,D-III,Plymouth State,Worcester State,RECEIVING,M,Banuskevich,TD,0
+24040036,10/29/2016,D-III,Plymouth State,Worcester State,RECEIVING,M,Banuskevich,LONG,16
+24040037,10/29/2016,D-III,Plymouth State,Worcester State,RECEIVING,C,Kelly,REC,1
+24040038,10/29/2016,D-III,Plymouth State,Worcester State,RECEIVING,C,Kelly,YDS,3
+24040039,10/29/2016,D-III,Plymouth State,Worcester State,RECEIVING,C,Kelly,TD,0
+24040040,10/29/2016,D-III,Plymouth State,Worcester State,RECEIVING,C,Kelly,LONG,3
+24040041,10/29/2016,D-III,Plymouth State,Worcester State,PUNTING,N,Dangora,NO,8
+24040042,10/29/2016,D-III,Plymouth State,Worcester State,PUNTING,N,Dangora,YDS,265
+24040043,10/29/2016,D-III,Plymouth State,Worcester State,PUNTING,N,Dangora,AVG,33.1
+24040044,10/29/2016,D-III,Plymouth State,Worcester State,PUNTING,N,Dangora,LONG,56
+24040045,10/29/2016,D-III,Plymouth State,Worcester State,PUNTING,,Team,NO,1
+24040046,10/29/2016,D-III,Plymouth State,Worcester State,PUNTING,,Team,YDS,0
+24040047,10/29/2016,D-III,Plymouth State,Worcester State,PUNTING,,Team,AVG,0.0
+24040048,10/29/2016,D-III,Plymouth State,Worcester State,PUNTING,,Team,LONG,0
+24040049,10/29/2016,D-III,Plymouth State,Worcester State,KICK RETURNS,M,Banuskevich,NO,3
+24040050,10/29/2016,D-III,Plymouth State,Worcester State,KICK RETURNS,M,Banuskevich,YDS,54
+24040051,10/29/2016,D-III,Plymouth State,Worcester State,KICK RETURNS,M,Banuskevich,AVG,18.0
+24040052,10/29/2016,D-III,Plymouth State,Worcester State,KICK RETURNS,M,Banuskevich,LONG,20
+24040053,10/29/2016,D-III,Worcester State,Plymouth State,RUSHING,Dexter,Andrews,ATT,8
+24040054,10/29/2016,D-III,Worcester State,Plymouth State,RUSHING,Dexter,Andrews,YDS,32
+24040055,10/29/2016,D-III,Worcester State,Plymouth State,RUSHING,Dexter,Andrews,TD,0
+24040056,10/29/2016,D-III,Worcester State,Plymouth State,RUSHING,Dexter,Andrews,LONG,8
+24040057,10/29/2016,D-III,Worcester State,Plymouth State,RUSHING,Matt,Lezama,ATT,14
+24040058,10/29/2016,D-III,Worcester State,Plymouth State,RUSHING,Matt,Lezama,YDS,20
+24040059,10/29/2016,D-III,Worcester State,Plymouth State,RUSHING,Matt,Lezama,TD,0
+24040060,10/29/2016,D-III,Worcester State,Plymouth State,RUSHING,Matt,Lezama,LONG,9
+24040061,10/29/2016,D-III,Worcester State,Plymouth State,RUSHING,Anthony,Brooks,ATT,1
+24040062,10/29/2016,D-III,Worcester State,Plymouth State,RUSHING,Anthony,Brooks,YDS,11
+24040063,10/29/2016,D-III,Worcester State,Plymouth State,RUSHING,Anthony,Brooks,TD,0
+24040064,10/29/2016,D-III,Worcester State,Plymouth State,RUSHING,Anthony,Brooks,LONG,11
+24040065,10/29/2016,D-III,Worcester State,Plymouth State,RUSHING,Mike,Kadlick,ATT,9
+24040066,10/29/2016,D-III,Worcester State,Plymouth State,RUSHING,Mike,Kadlick,YDS,-1
+24040067,10/29/2016,D-III,Worcester State,Plymouth State,RUSHING,Mike,Kadlick,TD,0
+24040068,10/29/2016,D-III,Worcester State,Plymouth State,RUSHING,Mike,Kadlick,LONG,13
+24040069,10/29/2016,D-III,Worcester State,Plymouth State,PASSING,Mike,Kadlick,CP-ATT-INT,24-37-3
+24040070,10/29/2016,D-III,Worcester State,Plymouth State,PASSING,Mike,Kadlick,YDS,241
+24040071,10/29/2016,D-III,Worcester State,Plymouth State,PASSING,Mike,Kadlick,TD,0
+24040072,10/29/2016,D-III,Worcester State,Plymouth State,PASSING,Mike,Kadlick,LONG,34
+24040073,10/29/2016,D-III,Worcester State,Plymouth State,RECEIVING,Arron,Witkus,REC,8
+24040074,10/29/2016,D-III,Worcester State,Plymouth State,RECEIVING,Arron,Witkus,YDS,83
+24040075,10/29/2016,D-III,Worcester State,Plymouth State,RECEIVING,Arron,Witkus,TD,0
+24040076,10/29/2016,D-III,Worcester State,Plymouth State,RECEIVING,Arron,Witkus,LONG,34
+24040077,10/29/2016,D-III,Worcester State,Plymouth State,RECEIVING,Tyler,Barrie,REC,3
+24040078,10/29/2016,D-III,Worcester State,Plymouth State,RECEIVING,Tyler,Barrie,YDS,56
+24040079,10/29/2016,D-III,Worcester State,Plymouth State,RECEIVING,Tyler,Barrie,TD,0
+24040080,10/29/2016,D-III,Worcester State,Plymouth State,RECEIVING,Tyler,Barrie,LONG,32
+24040081,10/29/2016,D-III,Worcester State,Plymouth State,RECEIVING,Dan,Orlando,REC,4
+24040082,10/29/2016,D-III,Worcester State,Plymouth State,RECEIVING,Dan,Orlando,YDS,43
+24040083,10/29/2016,D-III,Worcester State,Plymouth State,RECEIVING,Dan,Orlando,TD,0
+24040084,10/29/2016,D-III,Worcester State,Plymouth State,RECEIVING,Dan,Orlando,LONG,18
+24040085,10/29/2016,D-III,Worcester State,Plymouth State,RECEIVING,Connor,Amann,REC,3
+24040086,10/29/2016,D-III,Worcester State,Plymouth State,RECEIVING,Connor,Amann,YDS,30
+24040087,10/29/2016,D-III,Worcester State,Plymouth State,RECEIVING,Connor,Amann,TD,0
+24040088,10/29/2016,D-III,Worcester State,Plymouth State,RECEIVING,Connor,Amann,LONG,15
+24040089,10/29/2016,D-III,Worcester State,Plymouth State,RECEIVING,Derek,Moore,REC,2
+24040090,10/29/2016,D-III,Worcester State,Plymouth State,RECEIVING,Derek,Moore,YDS,16
+24040091,10/29/2016,D-III,Worcester State,Plymouth State,RECEIVING,Derek,Moore,TD,0
+24040092,10/29/2016,D-III,Worcester State,Plymouth State,RECEIVING,Derek,Moore,LONG,14
+24040093,10/29/2016,D-III,Worcester State,Plymouth State,RECEIVING,Dexter,Andrews,REC,3
+24040094,10/29/2016,D-III,Worcester State,Plymouth State,RECEIVING,Dexter,Andrews,YDS,13
+24040095,10/29/2016,D-III,Worcester State,Plymouth State,RECEIVING,Dexter,Andrews,TD,0
+24040096,10/29/2016,D-III,Worcester State,Plymouth State,RECEIVING,Dexter,Andrews,LONG,12
+24040097,10/29/2016,D-III,Worcester State,Plymouth State,RECEIVING,Matt,Lezama,REC,1
+24040098,10/29/2016,D-III,Worcester State,Plymouth State,RECEIVING,Matt,Lezama,YDS,0
+24040099,10/29/2016,D-III,Worcester State,Plymouth State,RECEIVING,Matt,Lezama,TD,0
+24040100,10/29/2016,D-III,Worcester State,Plymouth State,RECEIVING,Matt,Lezama,LONG,0
+24040101,10/29/2016,D-III,Worcester State,Plymouth State,PUNTING,Pat,Tuohy,NO,4
+24040102,10/29/2016,D-III,Worcester State,Plymouth State,PUNTING,Pat,Tuohy,YDS,127
+24040103,10/29/2016,D-III,Worcester State,Plymouth State,PUNTING,Pat,Tuohy,AVG,31.8
+24040104,10/29/2016,D-III,Worcester State,Plymouth State,PUNTING,Pat,Tuohy,LONG,37
+24040105,10/29/2016,D-III,Worcester State,Plymouth State,PUNT RETURNS,Theo,Bryant,NO,1
+24040106,10/29/2016,D-III,Worcester State,Plymouth State,PUNT RETURNS,Theo,Bryant,YDS,0
+24040107,10/29/2016,D-III,Worcester State,Plymouth State,PUNT RETURNS,Theo,Bryant,AVG,0.0
+24040108,10/29/2016,D-III,Worcester State,Plymouth State,PUNT RETURNS,Theo,Bryant,LONG,0
+24040109,10/29/2016,D-III,Worcester State,Plymouth State,PUNT RETURNS,Derek,Moore,NO,2
+24040110,10/29/2016,D-III,Worcester State,Plymouth State,PUNT RETURNS,Derek,Moore,YDS,20
+24040111,10/29/2016,D-III,Worcester State,Plymouth State,PUNT RETURNS,Derek,Moore,AVG,10.0
+24040112,10/29/2016,D-III,Worcester State,Plymouth State,PUNT RETURNS,Derek,Moore,LONG,15
+24040113,10/29/2016,D-III,Worcester State,Plymouth State,PUNT RETURNS,Mike,Reed,NO,0
+24040114,10/29/2016,D-III,Worcester State,Plymouth State,PUNT RETURNS,Mike,Reed,YDS,23
+24040115,10/29/2016,D-III,Worcester State,Plymouth State,PUNT RETURNS,Mike,Reed,AVG,-
+24040116,10/29/2016,D-III,Worcester State,Plymouth State,PUNT RETURNS,Mike,Reed,LONG,23
+24040117,10/29/2016,D-III,Worcester State,Plymouth State,KICK RETURNS,Tyler,Golden,NO,2
+24040118,10/29/2016,D-III,Worcester State,Plymouth State,KICK RETURNS,Tyler,Golden,YDS,30
+24040119,10/29/2016,D-III,Worcester State,Plymouth State,KICK RETURNS,Tyler,Golden,AVG,15.0
+24040120,10/29/2016,D-III,Worcester State,Plymouth State,KICK RETURNS,Tyler,Golden,LONG,13

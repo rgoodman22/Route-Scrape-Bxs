@@ -1,0 +1,129 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+23116001,9/3/2016,D-III,Beloit,Lake Forest,RUSHING,Danny,May,ATT,17
+23116002,9/3/2016,D-III,Beloit,Lake Forest,RUSHING,Danny,May,YDS,78
+23116003,9/3/2016,D-III,Beloit,Lake Forest,RUSHING,Danny,May,TD,1
+23116004,9/3/2016,D-III,Beloit,Lake Forest,RUSHING,Danny,May,LONG,12
+23116005,9/3/2016,D-III,Beloit,Lake Forest,RUSHING,Marcus,Hampton,ATT,3
+23116006,9/3/2016,D-III,Beloit,Lake Forest,RUSHING,Marcus,Hampton,YDS,45
+23116007,9/3/2016,D-III,Beloit,Lake Forest,RUSHING,Marcus,Hampton,TD,0
+23116008,9/3/2016,D-III,Beloit,Lake Forest,RUSHING,Marcus,Hampton,LONG,43
+23116009,9/3/2016,D-III,Beloit,Lake Forest,RUSHING,Joey,Werner,ATT,10
+23116010,9/3/2016,D-III,Beloit,Lake Forest,RUSHING,Joey,Werner,YDS,26
+23116011,9/3/2016,D-III,Beloit,Lake Forest,RUSHING,Joey,Werner,TD,0
+23116012,9/3/2016,D-III,Beloit,Lake Forest,RUSHING,Joey,Werner,LONG,12
+23116013,9/3/2016,D-III,Beloit,Lake Forest,RUSHING,,Team,ATT,1
+23116014,9/3/2016,D-III,Beloit,Lake Forest,RUSHING,,Team,YDS,-15
+23116015,9/3/2016,D-III,Beloit,Lake Forest,RUSHING,,Team,TD,0
+23116016,9/3/2016,D-III,Beloit,Lake Forest,RUSHING,,Team,LONG,0
+23116017,9/3/2016,D-III,Beloit,Lake Forest,PASSING,Danny,May,CP-ATT-INT,21-36-1
+23116018,9/3/2016,D-III,Beloit,Lake Forest,PASSING,Danny,May,YDS,233
+23116019,9/3/2016,D-III,Beloit,Lake Forest,PASSING,Danny,May,TD,1
+23116020,9/3/2016,D-III,Beloit,Lake Forest,PASSING,Danny,May,LONG,29
+23116021,9/3/2016,D-III,Beloit,Lake Forest,RECEIVING,Michael,Nolden,REC,5
+23116022,9/3/2016,D-III,Beloit,Lake Forest,RECEIVING,Michael,Nolden,YDS,57
+23116023,9/3/2016,D-III,Beloit,Lake Forest,RECEIVING,Michael,Nolden,TD,1
+23116024,9/3/2016,D-III,Beloit,Lake Forest,RECEIVING,Michael,Nolden,LONG,27
+23116025,9/3/2016,D-III,Beloit,Lake Forest,RECEIVING,Kam,Sallee,REC,7
+23116026,9/3/2016,D-III,Beloit,Lake Forest,RECEIVING,Kam,Sallee,YDS,57
+23116027,9/3/2016,D-III,Beloit,Lake Forest,RECEIVING,Kam,Sallee,TD,0
+23116028,9/3/2016,D-III,Beloit,Lake Forest,RECEIVING,Kam,Sallee,LONG,23
+23116029,9/3/2016,D-III,Beloit,Lake Forest,RECEIVING,Ethan,Conley,REC,2
+23116030,9/3/2016,D-III,Beloit,Lake Forest,RECEIVING,Ethan,Conley,YDS,57
+23116031,9/3/2016,D-III,Beloit,Lake Forest,RECEIVING,Ethan,Conley,TD,0
+23116032,9/3/2016,D-III,Beloit,Lake Forest,RECEIVING,Ethan,Conley,LONG,29
+23116033,9/3/2016,D-III,Beloit,Lake Forest,RECEIVING,Abraham,Quijas,REC,2
+23116034,9/3/2016,D-III,Beloit,Lake Forest,RECEIVING,Abraham,Quijas,YDS,35
+23116035,9/3/2016,D-III,Beloit,Lake Forest,RECEIVING,Abraham,Quijas,TD,0
+23116036,9/3/2016,D-III,Beloit,Lake Forest,RECEIVING,Abraham,Quijas,LONG,28
+23116037,9/3/2016,D-III,Beloit,Lake Forest,RECEIVING,Ryan,Sughroue,REC,4
+23116038,9/3/2016,D-III,Beloit,Lake Forest,RECEIVING,Ryan,Sughroue,YDS,22
+23116039,9/3/2016,D-III,Beloit,Lake Forest,RECEIVING,Ryan,Sughroue,TD,0
+23116040,9/3/2016,D-III,Beloit,Lake Forest,RECEIVING,Ryan,Sughroue,LONG,8
+23116041,9/3/2016,D-III,Beloit,Lake Forest,RECEIVING,Marcus,Hampton,REC,1
+23116042,9/3/2016,D-III,Beloit,Lake Forest,RECEIVING,Marcus,Hampton,YDS,5
+23116043,9/3/2016,D-III,Beloit,Lake Forest,RECEIVING,Marcus,Hampton,TD,0
+23116044,9/3/2016,D-III,Beloit,Lake Forest,RECEIVING,Marcus,Hampton,LONG,5
+23116045,9/3/2016,D-III,Beloit,Lake Forest,PUNTING,Kam,Sallee,NO,3
+23116046,9/3/2016,D-III,Beloit,Lake Forest,PUNTING,Kam,Sallee,YDS,101
+23116047,9/3/2016,D-III,Beloit,Lake Forest,PUNTING,Kam,Sallee,AVG,33.7
+23116048,9/3/2016,D-III,Beloit,Lake Forest,PUNTING,Kam,Sallee,LONG,40
+23116049,9/3/2016,D-III,Beloit,Lake Forest,PUNTING,,Team,NO,1
+23116050,9/3/2016,D-III,Beloit,Lake Forest,PUNTING,,Team,YDS,0
+23116051,9/3/2016,D-III,Beloit,Lake Forest,PUNTING,,Team,AVG,0.0
+23116052,9/3/2016,D-III,Beloit,Lake Forest,PUNTING,,Team,LONG,0
+23116053,9/3/2016,D-III,Beloit,Lake Forest,KICK RETURNS,Michael,Nolden,NO,2
+23116054,9/3/2016,D-III,Beloit,Lake Forest,KICK RETURNS,Michael,Nolden,YDS,25
+23116055,9/3/2016,D-III,Beloit,Lake Forest,KICK RETURNS,Michael,Nolden,AVG,12.5
+23116056,9/3/2016,D-III,Beloit,Lake Forest,KICK RETURNS,Michael,Nolden,LONG,13
+23116057,9/3/2016,D-III,Beloit,Lake Forest,KICK RETURNS,Marcus,Hampton,NO,1
+23116058,9/3/2016,D-III,Beloit,Lake Forest,KICK RETURNS,Marcus,Hampton,YDS,17
+23116059,9/3/2016,D-III,Beloit,Lake Forest,KICK RETURNS,Marcus,Hampton,AVG,17.0
+23116060,9/3/2016,D-III,Beloit,Lake Forest,KICK RETURNS,Marcus,Hampton,LONG,17
+23116061,9/3/2016,D-III,Beloit,Lake Forest,KICK RETURNS,Abraham,Quijas,NO,3
+23116062,9/3/2016,D-III,Beloit,Lake Forest,KICK RETURNS,Abraham,Quijas,YDS,41
+23116063,9/3/2016,D-III,Beloit,Lake Forest,KICK RETURNS,Abraham,Quijas,AVG,13.7
+23116064,9/3/2016,D-III,Beloit,Lake Forest,KICK RETURNS,Abraham,Quijas,LONG,33
+23116065,9/3/2016,D-III,Lake Forest,Beloit,RUSHING,Joey,Valdivia,ATT,23
+23116066,9/3/2016,D-III,Lake Forest,Beloit,RUSHING,Joey,Valdivia,YDS,224
+23116067,9/3/2016,D-III,Lake Forest,Beloit,RUSHING,Joey,Valdivia,TD,2
+23116068,9/3/2016,D-III,Lake Forest,Beloit,RUSHING,Joey,Valdivia,LONG,56
+23116069,9/3/2016,D-III,Lake Forest,Beloit,RUSHING,Charlie,Quinn,ATT,9
+23116070,9/3/2016,D-III,Lake Forest,Beloit,RUSHING,Charlie,Quinn,YDS,30
+23116071,9/3/2016,D-III,Lake Forest,Beloit,RUSHING,Charlie,Quinn,TD,0
+23116072,9/3/2016,D-III,Lake Forest,Beloit,RUSHING,Charlie,Quinn,LONG,10
+23116073,9/3/2016,D-III,Lake Forest,Beloit,RUSHING,Nikko,Italia,ATT,2
+23116074,9/3/2016,D-III,Lake Forest,Beloit,RUSHING,Nikko,Italia,YDS,6
+23116075,9/3/2016,D-III,Lake Forest,Beloit,RUSHING,Nikko,Italia,TD,0
+23116076,9/3/2016,D-III,Lake Forest,Beloit,RUSHING,Nikko,Italia,LONG,4
+23116077,9/3/2016,D-III,Lake Forest,Beloit,RUSHING,,Team,ATT,3
+23116078,9/3/2016,D-III,Lake Forest,Beloit,RUSHING,,Team,YDS,-5
+23116079,9/3/2016,D-III,Lake Forest,Beloit,RUSHING,,Team,TD,0
+23116080,9/3/2016,D-III,Lake Forest,Beloit,RUSHING,,Team,LONG,0
+23116081,9/3/2016,D-III,Lake Forest,Beloit,RUSHING,Jagan,Cleary,ATT,2
+23116082,9/3/2016,D-III,Lake Forest,Beloit,RUSHING,Jagan,Cleary,YDS,-15
+23116083,9/3/2016,D-III,Lake Forest,Beloit,RUSHING,Jagan,Cleary,TD,0
+23116084,9/3/2016,D-III,Lake Forest,Beloit,RUSHING,Jagan,Cleary,LONG,0
+23116085,9/3/2016,D-III,Lake Forest,Beloit,PASSING,Jagan,Cleary,CP-ATT-INT,18-29-0
+23116086,9/3/2016,D-III,Lake Forest,Beloit,PASSING,Jagan,Cleary,YDS,216
+23116087,9/3/2016,D-III,Lake Forest,Beloit,PASSING,Jagan,Cleary,TD,3
+23116088,9/3/2016,D-III,Lake Forest,Beloit,PASSING,Jagan,Cleary,LONG,41
+23116089,9/3/2016,D-III,Lake Forest,Beloit,RECEIVING,Willie,Mcintyre,REC,5
+23116090,9/3/2016,D-III,Lake Forest,Beloit,RECEIVING,Willie,Mcintyre,YDS,109
+23116091,9/3/2016,D-III,Lake Forest,Beloit,RECEIVING,Willie,Mcintyre,TD,2
+23116092,9/3/2016,D-III,Lake Forest,Beloit,RECEIVING,Willie,Mcintyre,LONG,41
+23116093,9/3/2016,D-III,Lake Forest,Beloit,RECEIVING,Charlie,Quinn,REC,5
+23116094,9/3/2016,D-III,Lake Forest,Beloit,RECEIVING,Charlie,Quinn,YDS,50
+23116095,9/3/2016,D-III,Lake Forest,Beloit,RECEIVING,Charlie,Quinn,TD,0
+23116096,9/3/2016,D-III,Lake Forest,Beloit,RECEIVING,Charlie,Quinn,LONG,26
+23116097,9/3/2016,D-III,Lake Forest,Beloit,RECEIVING,Alex,Pasiewicz,REC,4
+23116098,9/3/2016,D-III,Lake Forest,Beloit,RECEIVING,Alex,Pasiewicz,YDS,29
+23116099,9/3/2016,D-III,Lake Forest,Beloit,RECEIVING,Alex,Pasiewicz,TD,0
+23116100,9/3/2016,D-III,Lake Forest,Beloit,RECEIVING,Alex,Pasiewicz,LONG,10
+23116101,9/3/2016,D-III,Lake Forest,Beloit,RECEIVING,Joey,Valdivia,REC,3
+23116102,9/3/2016,D-III,Lake Forest,Beloit,RECEIVING,Joey,Valdivia,YDS,23
+23116103,9/3/2016,D-III,Lake Forest,Beloit,RECEIVING,Joey,Valdivia,TD,1
+23116104,9/3/2016,D-III,Lake Forest,Beloit,RECEIVING,Joey,Valdivia,LONG,16
+23116105,9/3/2016,D-III,Lake Forest,Beloit,RECEIVING,Chase,Creviston,REC,1
+23116106,9/3/2016,D-III,Lake Forest,Beloit,RECEIVING,Chase,Creviston,YDS,5
+23116107,9/3/2016,D-III,Lake Forest,Beloit,RECEIVING,Chase,Creviston,TD,0
+23116108,9/3/2016,D-III,Lake Forest,Beloit,RECEIVING,Chase,Creviston,LONG,5
+23116109,9/3/2016,D-III,Lake Forest,Beloit,PUNTING,C,Courtney,NO,4
+23116110,9/3/2016,D-III,Lake Forest,Beloit,PUNTING,C,Courtney,YDS,116
+23116111,9/3/2016,D-III,Lake Forest,Beloit,PUNTING,C,Courtney,AVG,29.0
+23116112,9/3/2016,D-III,Lake Forest,Beloit,PUNTING,C,Courtney,LONG,33
+23116113,9/3/2016,D-III,Lake Forest,Beloit,PUNT RETURNS,Alex,Pasiewicz,NO,1
+23116114,9/3/2016,D-III,Lake Forest,Beloit,PUNT RETURNS,Alex,Pasiewicz,YDS,18
+23116115,9/3/2016,D-III,Lake Forest,Beloit,PUNT RETURNS,Alex,Pasiewicz,AVG,18.0
+23116116,9/3/2016,D-III,Lake Forest,Beloit,PUNT RETURNS,Alex,Pasiewicz,LONG,18
+23116117,9/3/2016,D-III,Lake Forest,Beloit,PUNT RETURNS,Rj,Pompey,NO,1
+23116118,9/3/2016,D-III,Lake Forest,Beloit,PUNT RETURNS,Rj,Pompey,YDS,22
+23116119,9/3/2016,D-III,Lake Forest,Beloit,PUNT RETURNS,Rj,Pompey,AVG,22.0
+23116120,9/3/2016,D-III,Lake Forest,Beloit,PUNT RETURNS,Rj,Pompey,LONG,0
+23116121,9/3/2016,D-III,Lake Forest,Beloit,KICK RETURNS,Alex,Pasiewicz,NO,2
+23116122,9/3/2016,D-III,Lake Forest,Beloit,KICK RETURNS,Alex,Pasiewicz,YDS,16
+23116123,9/3/2016,D-III,Lake Forest,Beloit,KICK RETURNS,Alex,Pasiewicz,AVG,8.0
+23116124,9/3/2016,D-III,Lake Forest,Beloit,KICK RETURNS,Alex,Pasiewicz,LONG,9
+23116125,9/3/2016,D-III,Lake Forest,Beloit,KICK RETURNS,Max,Sorby,NO,2
+23116126,9/3/2016,D-III,Lake Forest,Beloit,KICK RETURNS,Max,Sorby,YDS,76
+23116127,9/3/2016,D-III,Lake Forest,Beloit,KICK RETURNS,Max,Sorby,AVG,38.0
+23116128,9/3/2016,D-III,Lake Forest,Beloit,KICK RETURNS,Max,Sorby,LONG,52

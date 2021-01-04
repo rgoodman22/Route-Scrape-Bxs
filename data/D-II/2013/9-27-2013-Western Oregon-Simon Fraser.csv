@@ -1,0 +1,61 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+12797001,9/27/2013,D-II,Western Oregon,Simon Fraser,RUSHING,,Team,ATT,2
+12797002,9/27/2013,D-II,Western Oregon,Simon Fraser,RUSHING,,Team,YDS,-1
+12797003,9/27/2013,D-II,Western Oregon,Simon Fraser,RUSHING,,Team,TD,0
+12797004,9/27/2013,D-II,Western Oregon,Simon Fraser,RUSHING,,Team,LONG,4
+12797005,9/27/2013,D-II,Western Oregon,Simon Fraser,PASSING,,Team,CP-ATT-INT,14-33-0
+12797006,9/27/2013,D-II,Western Oregon,Simon Fraser,PASSING,,Team,YDS,234
+12797007,9/27/2013,D-II,Western Oregon,Simon Fraser,PASSING,,Team,TD,1
+12797008,9/27/2013,D-II,Western Oregon,Simon Fraser,PASSING,,Team,LONG,44
+12797009,9/27/2013,D-II,Western Oregon,Simon Fraser,RECEIVING,,Team,REC,2
+12797010,9/27/2013,D-II,Western Oregon,Simon Fraser,RECEIVING,,Team,YDS,40
+12797011,9/27/2013,D-II,Western Oregon,Simon Fraser,RECEIVING,,Team,TD,0
+12797012,9/27/2013,D-II,Western Oregon,Simon Fraser,RECEIVING,,Team,LONG,20
+12797013,9/27/2013,D-II,Western Oregon,Simon Fraser,RECEIVING,T,Williams,REC,5
+12797014,9/27/2013,D-II,Western Oregon,Simon Fraser,RECEIVING,T,Williams,YDS,114
+12797015,9/27/2013,D-II,Western Oregon,Simon Fraser,RECEIVING,T,Williams,TD,0
+12797016,9/27/2013,D-II,Western Oregon,Simon Fraser,RECEIVING,T,Williams,LONG,44
+12797017,9/27/2013,D-II,Western Oregon,Simon Fraser,RECEIVING,D,Hurd,REC,1
+12797018,9/27/2013,D-II,Western Oregon,Simon Fraser,RECEIVING,D,Hurd,YDS,10
+12797019,9/27/2013,D-II,Western Oregon,Simon Fraser,RECEIVING,D,Hurd,TD,0
+12797020,9/27/2013,D-II,Western Oregon,Simon Fraser,RECEIVING,D,Hurd,LONG,10
+12797021,9/27/2013,D-II,Western Oregon,Simon Fraser,RECEIVING,,Team,REC,3
+12797022,9/27/2013,D-II,Western Oregon,Simon Fraser,RECEIVING,,Team,YDS,53
+12797023,9/27/2013,D-II,Western Oregon,Simon Fraser,RECEIVING,,Team,TD,0
+12797024,9/27/2013,D-II,Western Oregon,Simon Fraser,RECEIVING,,Team,LONG,42
+12797025,9/27/2013,D-II,Western Oregon,Simon Fraser,PUNTING,,Team,NO,6
+12797026,9/27/2013,D-II,Western Oregon,Simon Fraser,PUNTING,,Team,YDS,235
+12797027,9/27/2013,D-II,Western Oregon,Simon Fraser,PUNTING,,Team,AVG,39.2
+12797028,9/27/2013,D-II,Western Oregon,Simon Fraser,PUNTING,,Team,LONG,46
+12797029,9/27/2013,D-II,Western Oregon,Simon Fraser,PUNT RETURNS,A,Hull,NO,3
+12797030,9/27/2013,D-II,Western Oregon,Simon Fraser,PUNT RETURNS,A,Hull,YDS,10
+12797031,9/27/2013,D-II,Western Oregon,Simon Fraser,PUNT RETURNS,A,Hull,AVG,3.3
+12797032,9/27/2013,D-II,Western Oregon,Simon Fraser,PUNT RETURNS,A,Hull,LONG,6
+12797033,9/27/2013,D-II,Western Oregon,Simon Fraser,KICK RETURNS,,Team,NO,3
+12797034,9/27/2013,D-II,Western Oregon,Simon Fraser,KICK RETURNS,,Team,YDS,37
+12797035,9/27/2013,D-II,Western Oregon,Simon Fraser,KICK RETURNS,,Team,AVG,12.3
+12797036,9/27/2013,D-II,Western Oregon,Simon Fraser,KICK RETURNS,,Team,LONG,16
+12797037,9/27/2013,D-II,Simon Fraser,Western Oregon,RUSHING,,Team,ATT,24
+12797038,9/27/2013,D-II,Simon Fraser,Western Oregon,RUSHING,,Team,YDS,112
+12797039,9/27/2013,D-II,Simon Fraser,Western Oregon,RUSHING,,Team,TD,0
+12797040,9/27/2013,D-II,Simon Fraser,Western Oregon,RUSHING,,Team,LONG,21
+12797041,9/27/2013,D-II,Simon Fraser,Western Oregon,PASSING,,Team,CP-ATT-INT,11-17-2
+12797042,9/27/2013,D-II,Simon Fraser,Western Oregon,PASSING,,Team,YDS,148
+12797043,9/27/2013,D-II,Simon Fraser,Western Oregon,PASSING,,Team,TD,0
+12797044,9/27/2013,D-II,Simon Fraser,Western Oregon,PASSING,,Team,LONG,42
+12797045,9/27/2013,D-II,Simon Fraser,Western Oregon,RECEIVING,,Team,REC,1
+12797046,9/27/2013,D-II,Simon Fraser,Western Oregon,RECEIVING,,Team,YDS,2
+12797047,9/27/2013,D-II,Simon Fraser,Western Oregon,RECEIVING,,Team,TD,0
+12797048,9/27/2013,D-II,Simon Fraser,Western Oregon,RECEIVING,,Team,LONG,2
+12797049,9/27/2013,D-II,Simon Fraser,Western Oregon,PUNTING,,Team,NO,6
+12797050,9/27/2013,D-II,Simon Fraser,Western Oregon,PUNTING,,Team,YDS,237
+12797051,9/27/2013,D-II,Simon Fraser,Western Oregon,PUNTING,,Team,AVG,39.5
+12797052,9/27/2013,D-II,Simon Fraser,Western Oregon,PUNTING,,Team,LONG,46
+12797053,9/27/2013,D-II,Simon Fraser,Western Oregon,PUNT RETURNS,,Team,NO,1
+12797054,9/27/2013,D-II,Simon Fraser,Western Oregon,PUNT RETURNS,,Team,YDS,33
+12797055,9/27/2013,D-II,Simon Fraser,Western Oregon,PUNT RETURNS,,Team,AVG,33.0
+12797056,9/27/2013,D-II,Simon Fraser,Western Oregon,PUNT RETURNS,,Team,LONG,33
+12797057,9/27/2013,D-II,Simon Fraser,Western Oregon,KICK RETURNS,,Team,NO,4
+12797058,9/27/2013,D-II,Simon Fraser,Western Oregon,KICK RETURNS,,Team,YDS,68
+12797059,9/27/2013,D-II,Simon Fraser,Western Oregon,KICK RETURNS,,Team,AVG,17.0
+12797060,9/27/2013,D-II,Simon Fraser,Western Oregon,KICK RETURNS,,Team,LONG,27

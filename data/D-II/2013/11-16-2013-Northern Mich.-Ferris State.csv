@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+13353001,11/16/2013,D-II,Northern Mich.,Ferris State,RUSHING,C,Jessie,ATT,1
+13353002,11/16/2013,D-II,Northern Mich.,Ferris State,RUSHING,C,Jessie,YDS,1
+13353003,11/16/2013,D-II,Northern Mich.,Ferris State,RUSHING,C,Jessie,TD,0
+13353004,11/16/2013,D-II,Northern Mich.,Ferris State,RUSHING,C,Jessie,LONG,1
+13353005,11/16/2013,D-II,Northern Mich.,Ferris State,RUSHING,Keon,Collier,ATT,5
+13353006,11/16/2013,D-II,Northern Mich.,Ferris State,RUSHING,Keon,Collier,YDS,18
+13353007,11/16/2013,D-II,Northern Mich.,Ferris State,RUSHING,Keon,Collier,TD,1
+13353008,11/16/2013,D-II,Northern Mich.,Ferris State,RUSHING,Keon,Collier,LONG,7
+13353009,11/16/2013,D-II,Northern Mich.,Ferris State,RUSHING,Shaye,Brown,ATT,1
+13353010,11/16/2013,D-II,Northern Mich.,Ferris State,RUSHING,Shaye,Brown,YDS,-8
+13353011,11/16/2013,D-II,Northern Mich.,Ferris State,RUSHING,Shaye,Brown,TD,0
+13353012,11/16/2013,D-II,Northern Mich.,Ferris State,RUSHING,Shaye,Brown,LONG,0
+13353013,11/16/2013,D-II,Northern Mich.,Ferris State,RUSHING,Wyatt,Jurasin,ATT,13
+13353014,11/16/2013,D-II,Northern Mich.,Ferris State,RUSHING,Wyatt,Jurasin,YDS,38
+13353015,11/16/2013,D-II,Northern Mich.,Ferris State,RUSHING,Wyatt,Jurasin,TD,0
+13353016,11/16/2013,D-II,Northern Mich.,Ferris State,RUSHING,Wyatt,Jurasin,LONG,27
+13353017,11/16/2013,D-II,Northern Mich.,Ferris State,PASSING,Shaye,Brown,CP-ATT-INT,17-47-2
+13353018,11/16/2013,D-II,Northern Mich.,Ferris State,PASSING,Shaye,Brown,YDS,274
+13353019,11/16/2013,D-II,Northern Mich.,Ferris State,PASSING,Shaye,Brown,TD,0
+13353020,11/16/2013,D-II,Northern Mich.,Ferris State,PASSING,Shaye,Brown,LONG,41
+13353021,11/16/2013,D-II,Northern Mich.,Ferris State,RECEIVING,Marcus,Tucker,REC,4
+13353022,11/16/2013,D-II,Northern Mich.,Ferris State,RECEIVING,Marcus,Tucker,YDS,60
+13353023,11/16/2013,D-II,Northern Mich.,Ferris State,RECEIVING,Marcus,Tucker,TD,0
+13353024,11/16/2013,D-II,Northern Mich.,Ferris State,RECEIVING,Marcus,Tucker,LONG,26
+13353025,11/16/2013,D-II,Northern Mich.,Ferris State,RECEIVING,C,Jessie,REC,5
+13353026,11/16/2013,D-II,Northern Mich.,Ferris State,RECEIVING,C,Jessie,YDS,104
+13353027,11/16/2013,D-II,Northern Mich.,Ferris State,RECEIVING,C,Jessie,TD,0
+13353028,11/16/2013,D-II,Northern Mich.,Ferris State,RECEIVING,C,Jessie,LONG,41
+13353029,11/16/2013,D-II,Northern Mich.,Ferris State,RECEIVING,Kelvin,Smarwt,REC,5
+13353030,11/16/2013,D-II,Northern Mich.,Ferris State,RECEIVING,Kelvin,Smarwt,YDS,71
+13353031,11/16/2013,D-II,Northern Mich.,Ferris State,RECEIVING,Kelvin,Smarwt,TD,0
+13353032,11/16/2013,D-II,Northern Mich.,Ferris State,RECEIVING,Kelvin,Smarwt,LONG,31
+13353033,11/16/2013,D-II,Northern Mich.,Ferris State,RECEIVING,Austin,Young,REC,1
+13353034,11/16/2013,D-II,Northern Mich.,Ferris State,RECEIVING,Austin,Young,YDS,17
+13353035,11/16/2013,D-II,Northern Mich.,Ferris State,RECEIVING,Austin,Young,TD,0
+13353036,11/16/2013,D-II,Northern Mich.,Ferris State,RECEIVING,Austin,Young,LONG,17
+13353037,11/16/2013,D-II,Northern Mich.,Ferris State,RECEIVING,Wyatt,Jurasin,REC,1
+13353038,11/16/2013,D-II,Northern Mich.,Ferris State,RECEIVING,Wyatt,Jurasin,YDS,11
+13353039,11/16/2013,D-II,Northern Mich.,Ferris State,RECEIVING,Wyatt,Jurasin,TD,0
+13353040,11/16/2013,D-II,Northern Mich.,Ferris State,RECEIVING,Wyatt,Jurasin,LONG,2
+13353041,11/16/2013,D-II,Northern Mich.,Ferris State,RECEIVING,Demarco,Haynes,REC,1
+13353042,11/16/2013,D-II,Northern Mich.,Ferris State,RECEIVING,Demarco,Haynes,YDS,11
+13353043,11/16/2013,D-II,Northern Mich.,Ferris State,RECEIVING,Demarco,Haynes,TD,0
+13353044,11/16/2013,D-II,Northern Mich.,Ferris State,RECEIVING,Demarco,Haynes,LONG,11
+13353045,11/16/2013,D-II,Northern Mich.,Ferris State,PUNTING,Robert,Salani,NO,2
+13353046,11/16/2013,D-II,Northern Mich.,Ferris State,PUNTING,Robert,Salani,YDS,104
+13353047,11/16/2013,D-II,Northern Mich.,Ferris State,PUNTING,Robert,Salani,AVG,52.0
+13353048,11/16/2013,D-II,Northern Mich.,Ferris State,PUNTING,Robert,Salani,LONG,62
+13353049,11/16/2013,D-II,Northern Mich.,Ferris State,KICK RETURNS,C,Jessie,NO,4
+13353050,11/16/2013,D-II,Northern Mich.,Ferris State,KICK RETURNS,C,Jessie,YDS,128
+13353051,11/16/2013,D-II,Northern Mich.,Ferris State,KICK RETURNS,C,Jessie,AVG,32.0
+13353052,11/16/2013,D-II,Northern Mich.,Ferris State,KICK RETURNS,C,Jessie,LONG,100
+13353053,11/16/2013,D-II,Northern Mich.,Ferris State,KICK RETURNS,Kelvin,Smarwt,NO,1
+13353054,11/16/2013,D-II,Northern Mich.,Ferris State,KICK RETURNS,Kelvin,Smarwt,YDS,35
+13353055,11/16/2013,D-II,Northern Mich.,Ferris State,KICK RETURNS,Kelvin,Smarwt,AVG,35.0
+13353056,11/16/2013,D-II,Northern Mich.,Ferris State,KICK RETURNS,Kelvin,Smarwt,LONG,35
+13353057,11/16/2013,D-II,Northern Mich.,Ferris State,KICK RETURNS,Trever,Kruzel,NO,1
+13353058,11/16/2013,D-II,Northern Mich.,Ferris State,KICK RETURNS,Trever,Kruzel,YDS,9
+13353059,11/16/2013,D-II,Northern Mich.,Ferris State,KICK RETURNS,Trever,Kruzel,AVG,9.0
+13353060,11/16/2013,D-II,Northern Mich.,Ferris State,KICK RETURNS,Trever,Kruzel,LONG,9
+13353061,11/16/2013,D-II,Ferris State,Northern Mich.,RUSHING,Antonio,Agurs,ATT,6
+13353062,11/16/2013,D-II,Ferris State,Northern Mich.,RUSHING,Antonio,Agurs,YDS,24
+13353063,11/16/2013,D-II,Ferris State,Northern Mich.,RUSHING,Antonio,Agurs,TD,0
+13353064,11/16/2013,D-II,Ferris State,Northern Mich.,RUSHING,Antonio,Agurs,LONG,9
+13353065,11/16/2013,D-II,Ferris State,Northern Mich.,RUSHING,Damien,Ross,ATT,3
+13353066,11/16/2013,D-II,Ferris State,Northern Mich.,RUSHING,Damien,Ross,YDS,7
+13353067,11/16/2013,D-II,Ferris State,Northern Mich.,RUSHING,Damien,Ross,TD,0
+13353068,11/16/2013,D-II,Ferris State,Northern Mich.,RUSHING,Damien,Ross,LONG,9
+13353069,11/16/2013,D-II,Ferris State,Northern Mich.,RUSHING,Jake,Lampman,ATT,6
+13353070,11/16/2013,D-II,Ferris State,Northern Mich.,RUSHING,Jake,Lampman,YDS,38
+13353071,11/16/2013,D-II,Ferris State,Northern Mich.,RUSHING,Jake,Lampman,TD,1
+13353072,11/16/2013,D-II,Ferris State,Northern Mich.,RUSHING,Jake,Lampman,LONG,17
+13353073,11/16/2013,D-II,Ferris State,Northern Mich.,RUSHING,Kenya,Price,ATT,2
+13353074,11/16/2013,D-II,Ferris State,Northern Mich.,RUSHING,Kenya,Price,YDS,63
+13353075,11/16/2013,D-II,Ferris State,Northern Mich.,RUSHING,Kenya,Price,TD,0
+13353076,11/16/2013,D-II,Ferris State,Northern Mich.,RUSHING,Kenya,Price,LONG,47
+13353077,11/16/2013,D-II,Ferris State,Northern Mich.,RUSHING,J,vanderLaan,ATT,39
+13353078,11/16/2013,D-II,Ferris State,Northern Mich.,RUSHING,J,vanderLaan,YDS,211
+13353079,11/16/2013,D-II,Ferris State,Northern Mich.,RUSHING,J,vanderLaan,TD,3
+13353080,11/16/2013,D-II,Ferris State,Northern Mich.,RUSHING,J,vanderLaan,LONG,40
+13353081,11/16/2013,D-II,Ferris State,Northern Mich.,RUSHING,Jamel,Lockett,ATT,2
+13353082,11/16/2013,D-II,Ferris State,Northern Mich.,RUSHING,Jamel,Lockett,YDS,11
+13353083,11/16/2013,D-II,Ferris State,Northern Mich.,RUSHING,Jamel,Lockett,TD,0
+13353084,11/16/2013,D-II,Ferris State,Northern Mich.,RUSHING,Jamel,Lockett,LONG,6
+13353085,11/16/2013,D-II,Ferris State,Northern Mich.,RUSHING,Kitwana,Clark,ATT,5
+13353086,11/16/2013,D-II,Ferris State,Northern Mich.,RUSHING,Kitwana,Clark,YDS,26
+13353087,11/16/2013,D-II,Ferris State,Northern Mich.,RUSHING,Kitwana,Clark,TD,0
+13353088,11/16/2013,D-II,Ferris State,Northern Mich.,RUSHING,Kitwana,Clark,LONG,9
+13353089,11/16/2013,D-II,Ferris State,Northern Mich.,RUSHING,Jamaal,Jackson,ATT,6
+13353090,11/16/2013,D-II,Ferris State,Northern Mich.,RUSHING,Jamaal,Jackson,YDS,7
+13353091,11/16/2013,D-II,Ferris State,Northern Mich.,RUSHING,Jamaal,Jackson,TD,0
+13353092,11/16/2013,D-II,Ferris State,Northern Mich.,RUSHING,Jamaal,Jackson,LONG,5
+13353093,11/16/2013,D-II,Ferris State,Northern Mich.,RUSHING,,Team,ATT,2
+13353094,11/16/2013,D-II,Ferris State,Northern Mich.,RUSHING,,Team,YDS,-3
+13353095,11/16/2013,D-II,Ferris State,Northern Mich.,RUSHING,,Team,TD,0
+13353096,11/16/2013,D-II,Ferris State,Northern Mich.,RUSHING,,Team,LONG,0
+13353097,11/16/2013,D-II,Ferris State,Northern Mich.,PASSING,J,vanderLaan,CP-ATT-INT,14-25-0
+13353098,11/16/2013,D-II,Ferris State,Northern Mich.,PASSING,J,vanderLaan,YDS,152
+13353099,11/16/2013,D-II,Ferris State,Northern Mich.,PASSING,J,vanderLaan,TD,1
+13353100,11/16/2013,D-II,Ferris State,Northern Mich.,PASSING,J,vanderLaan,LONG,22
+13353101,11/16/2013,D-II,Ferris State,Northern Mich.,RECEIVING,Antonio,Agurs,REC,5
+13353102,11/16/2013,D-II,Ferris State,Northern Mich.,RECEIVING,Antonio,Agurs,YDS,46
+13353103,11/16/2013,D-II,Ferris State,Northern Mich.,RECEIVING,Antonio,Agurs,TD,0
+13353104,11/16/2013,D-II,Ferris State,Northern Mich.,RECEIVING,Antonio,Agurs,LONG,22
+13353105,11/16/2013,D-II,Ferris State,Northern Mich.,RECEIVING,Jake,Lampman,REC,8
+13353106,11/16/2013,D-II,Ferris State,Northern Mich.,RECEIVING,Jake,Lampman,YDS,94
+13353107,11/16/2013,D-II,Ferris State,Northern Mich.,RECEIVING,Jake,Lampman,TD,1
+13353108,11/16/2013,D-II,Ferris State,Northern Mich.,RECEIVING,Jake,Lampman,LONG,16
+13353109,11/16/2013,D-II,Ferris State,Northern Mich.,RECEIVING,Kitwana,Clark,REC,1
+13353110,11/16/2013,D-II,Ferris State,Northern Mich.,RECEIVING,Kitwana,Clark,YDS,12
+13353111,11/16/2013,D-II,Ferris State,Northern Mich.,RECEIVING,Kitwana,Clark,TD,0
+13353112,11/16/2013,D-II,Ferris State,Northern Mich.,RECEIVING,Kitwana,Clark,LONG,12
+13353113,11/16/2013,D-II,Ferris State,Northern Mich.,PUNTING,T,Masiewicz,NO,1
+13353114,11/16/2013,D-II,Ferris State,Northern Mich.,PUNTING,T,Masiewicz,YDS,38
+13353115,11/16/2013,D-II,Ferris State,Northern Mich.,PUNTING,T,Masiewicz,AVG,38.0
+13353116,11/16/2013,D-II,Ferris State,Northern Mich.,PUNTING,T,Masiewicz,LONG,38
+13353117,11/16/2013,D-II,Ferris State,Northern Mich.,PUNTING,T,Bermingham,NO,1
+13353118,11/16/2013,D-II,Ferris State,Northern Mich.,PUNTING,T,Bermingham,YDS,39
+13353119,11/16/2013,D-II,Ferris State,Northern Mich.,PUNTING,T,Bermingham,AVG,39.0
+13353120,11/16/2013,D-II,Ferris State,Northern Mich.,PUNTING,T,Bermingham,LONG,39
+13353121,11/16/2013,D-II,Ferris State,Northern Mich.,PUNTING,J,vanderLaan,NO,1
+13353122,11/16/2013,D-II,Ferris State,Northern Mich.,PUNTING,J,vanderLaan,YDS,39
+13353123,11/16/2013,D-II,Ferris State,Northern Mich.,PUNTING,J,vanderLaan,AVG,39.0
+13353124,11/16/2013,D-II,Ferris State,Northern Mich.,PUNTING,J,vanderLaan,LONG,39
+13353125,11/16/2013,D-II,Ferris State,Northern Mich.,PUNT RETURNS,Kenya,Price,NO,1
+13353126,11/16/2013,D-II,Ferris State,Northern Mich.,PUNT RETURNS,Kenya,Price,YDS,11
+13353127,11/16/2013,D-II,Ferris State,Northern Mich.,PUNT RETURNS,Kenya,Price,AVG,11.0
+13353128,11/16/2013,D-II,Ferris State,Northern Mich.,PUNT RETURNS,Kenya,Price,LONG,11
+13353129,11/16/2013,D-II,Ferris State,Northern Mich.,KICK RETURNS,Damien,Ross,NO,1
+13353130,11/16/2013,D-II,Ferris State,Northern Mich.,KICK RETURNS,Damien,Ross,YDS,9
+13353131,11/16/2013,D-II,Ferris State,Northern Mich.,KICK RETURNS,Damien,Ross,AVG,9.0
+13353132,11/16/2013,D-II,Ferris State,Northern Mich.,KICK RETURNS,Damien,Ross,LONG,9
+13353133,11/16/2013,D-II,Ferris State,Northern Mich.,KICK RETURNS,Kenya,Price,NO,2
+13353134,11/16/2013,D-II,Ferris State,Northern Mich.,KICK RETURNS,Kenya,Price,YDS,49
+13353135,11/16/2013,D-II,Ferris State,Northern Mich.,KICK RETURNS,Kenya,Price,AVG,24.5
+13353136,11/16/2013,D-II,Ferris State,Northern Mich.,KICK RETURNS,Kenya,Price,LONG,29

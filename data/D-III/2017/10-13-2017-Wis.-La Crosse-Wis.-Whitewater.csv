@@ -1,0 +1,157 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+25002001,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RUSHING,Jalen,Clark,ATT,13
+25002002,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RUSHING,Jalen,Clark,YDS,33
+25002003,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RUSHING,Jalen,Clark,TD,0
+25002004,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RUSHING,Jalen,Clark,LONG,18
+25002005,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RUSHING,Drew,David,ATT,13
+25002006,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RUSHING,Drew,David,YDS,15
+25002007,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RUSHING,Drew,David,TD,0
+25002008,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RUSHING,Drew,David,LONG,11
+25002009,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RUSHING,Cole,Spieker,ATT,2
+25002010,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RUSHING,Cole,Spieker,YDS,5
+25002011,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RUSHING,Cole,Spieker,TD,0
+25002012,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RUSHING,Cole,Spieker,LONG,3
+25002013,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RUSHING,D,Labellarte,ATT,1
+25002014,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RUSHING,D,Labellarte,YDS,2
+25002015,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RUSHING,D,Labellarte,TD,0
+25002016,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RUSHING,D,Labellarte,LONG,2
+25002017,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RUSHING,Devonte,Amos,ATT,2
+25002018,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RUSHING,Devonte,Amos,YDS,0
+25002019,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RUSHING,Devonte,Amos,TD,0
+25002020,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RUSHING,Devonte,Amos,LONG,3
+25002021,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RUSHING,Tarek,Yaeggi,ATT,9
+25002022,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RUSHING,Tarek,Yaeggi,YDS,-4
+25002023,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RUSHING,Tarek,Yaeggi,TD,0
+25002024,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RUSHING,Tarek,Yaeggi,LONG,9
+25002025,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,PASSING,Drew,David,CP-ATT-INT,15-38-0
+25002026,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,PASSING,Drew,David,YDS,134
+25002027,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,PASSING,Drew,David,TD,2
+25002028,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,PASSING,Drew,David,LONG,21
+25002029,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,PASSING,Tarek,Yaeggi,CP-ATT-INT,11-16-0
+25002030,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,PASSING,Tarek,Yaeggi,YDS,88
+25002031,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,PASSING,Tarek,Yaeggi,TD,0
+25002032,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,PASSING,Tarek,Yaeggi,LONG,17
+25002033,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RECEIVING,Nick,Holcomb,REC,11
+25002034,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RECEIVING,Nick,Holcomb,YDS,95
+25002035,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RECEIVING,Nick,Holcomb,TD,1
+25002036,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RECEIVING,Nick,Holcomb,LONG,18
+25002037,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RECEIVING,Cole,Spieker,REC,3
+25002038,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RECEIVING,Cole,Spieker,YDS,41
+25002039,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RECEIVING,Cole,Spieker,TD,0
+25002040,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RECEIVING,Cole,Spieker,LONG,21
+25002041,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RECEIVING,Devonte,Amos,REC,3
+25002042,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RECEIVING,Devonte,Amos,YDS,30
+25002043,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RECEIVING,Devonte,Amos,TD,0
+25002044,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RECEIVING,Devonte,Amos,LONG,16
+25002045,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RECEIVING,D,Labellarte,REC,2
+25002046,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RECEIVING,D,Labellarte,YDS,21
+25002047,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RECEIVING,D,Labellarte,TD,0
+25002048,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RECEIVING,D,Labellarte,LONG,17
+25002049,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RECEIVING,Cal,Mazur,REC,3
+25002050,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RECEIVING,Cal,Mazur,YDS,17
+25002051,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RECEIVING,Cal,Mazur,TD,1
+25002052,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RECEIVING,Cal,Mazur,LONG,7
+25002053,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RECEIVING,Tripp,Soma,REC,3
+25002054,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RECEIVING,Tripp,Soma,YDS,12
+25002055,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RECEIVING,Tripp,Soma,TD,0
+25002056,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RECEIVING,Tripp,Soma,LONG,5
+25002057,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RECEIVING,C,Machajewski,REC,1
+25002058,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RECEIVING,C,Machajewski,YDS,6
+25002059,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RECEIVING,C,Machajewski,TD,0
+25002060,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,RECEIVING,C,Machajewski,LONG,6
+25002061,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,PUNTING,Bryce,Wesling,NO,1
+25002062,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,PUNTING,Bryce,Wesling,YDS,13
+25002063,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,PUNTING,Bryce,Wesling,AVG,13.0
+25002064,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,PUNTING,Bryce,Wesling,LONG,13
+25002065,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,PUNTING,Sean,Parker,NO,10
+25002066,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,PUNTING,Sean,Parker,YDS,384
+25002067,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,PUNTING,Sean,Parker,AVG,38.4
+25002068,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,PUNTING,Sean,Parker,LONG,49
+25002069,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,PUNTING,Michael,Pakos,NO,1
+25002070,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,PUNTING,Michael,Pakos,YDS,62
+25002071,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,PUNTING,Michael,Pakos,AVG,62.0
+25002072,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,PUNTING,Michael,Pakos,LONG,62
+25002073,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,PUNT RETURNS,Michael,Garvey,NO,1
+25002074,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,PUNT RETURNS,Michael,Garvey,YDS,5
+25002075,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,PUNT RETURNS,Michael,Garvey,AVG,5.0
+25002076,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,PUNT RETURNS,Michael,Garvey,LONG,5
+25002077,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,PUNT RETURNS,Cal,Mazur,NO,9
+25002078,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,PUNT RETURNS,Cal,Mazur,YDS,41
+25002079,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,PUNT RETURNS,Cal,Mazur,AVG,4.6
+25002080,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,PUNT RETURNS,Cal,Mazur,LONG,12
+25002081,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,KICK RETURNS,Cal,Mazur,NO,4
+25002082,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,KICK RETURNS,Cal,Mazur,YDS,86
+25002083,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,KICK RETURNS,Cal,Mazur,AVG,21.5
+25002084,10/13/2017,D-III,Wis.-La Crosse,Wis.-Whitewater,KICK RETURNS,Cal,Mazur,LONG,31
+25002085,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RUSHING,Drew,Patterson,ATT,32
+25002086,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RUSHING,Drew,Patterson,YDS,221
+25002087,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RUSHING,Drew,Patterson,TD,3
+25002088,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RUSHING,Drew,Patterson,LONG,93
+25002089,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RUSHING,Jarrod,Ware,ATT,1
+25002090,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RUSHING,Jarrod,Ware,YDS,53
+25002091,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RUSHING,Jarrod,Ware,TD,0
+25002092,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RUSHING,Jarrod,Ware,LONG,53
+25002093,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RUSHING,Merrick,Gentile,ATT,2
+25002094,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RUSHING,Merrick,Gentile,YDS,11
+25002095,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RUSHING,Merrick,Gentile,TD,0
+25002096,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RUSHING,Merrick,Gentile,LONG,9
+25002097,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RUSHING,Josh,Ringelberg,ATT,3
+25002098,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RUSHING,Josh,Ringelberg,YDS,6
+25002099,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RUSHING,Josh,Ringelberg,TD,0
+25002100,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RUSHING,Josh,Ringelberg,LONG,7
+25002101,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RUSHING,,Team,ATT,2
+25002102,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RUSHING,,Team,YDS,-5
+25002103,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RUSHING,,Team,TD,0
+25002104,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RUSHING,,Team,LONG,0
+25002105,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RUSHING,Cole,Wilber,ATT,1
+25002106,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RUSHING,Cole,Wilber,YDS,-11
+25002107,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RUSHING,Cole,Wilber,TD,0
+25002108,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RUSHING,Cole,Wilber,LONG,0
+25002109,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,PASSING,Cole,Wilber,CP-ATT-INT,7-20-0
+25002110,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,PASSING,Cole,Wilber,YDS,61
+25002111,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,PASSING,Cole,Wilber,TD,0
+25002112,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,PASSING,Cole,Wilber,LONG,45
+25002113,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,PASSING,Merrick,Gentile,CP-ATT-INT,0-1-0
+25002114,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,PASSING,Merrick,Gentile,YDS,0
+25002115,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,PASSING,Merrick,Gentile,TD,0
+25002116,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,PASSING,Merrick,Gentile,LONG,0
+25002117,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RECEIVING,Marcus,Hudson,REC,2
+25002118,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RECEIVING,Marcus,Hudson,YDS,51
+25002119,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RECEIVING,Marcus,Hudson,TD,0
+25002120,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RECEIVING,Marcus,Hudson,LONG,45
+25002121,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RECEIVING,Adam,Korpela,REC,1
+25002122,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RECEIVING,Adam,Korpela,YDS,11
+25002123,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RECEIVING,Adam,Korpela,TD,0
+25002124,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RECEIVING,Adam,Korpela,LONG,11
+25002125,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RECEIVING,Canton,Larson,REC,1
+25002126,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RECEIVING,Canton,Larson,YDS,4
+25002127,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RECEIVING,Canton,Larson,TD,0
+25002128,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RECEIVING,Canton,Larson,LONG,4
+25002129,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RECEIVING,Jarrod,Ware,REC,2
+25002130,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RECEIVING,Jarrod,Ware,YDS,3
+25002131,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RECEIVING,Jarrod,Ware,TD,0
+25002132,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RECEIVING,Jarrod,Ware,LONG,5
+25002133,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RECEIVING,Drew,Patterson,REC,1
+25002134,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RECEIVING,Drew,Patterson,YDS,-8
+25002135,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RECEIVING,Drew,Patterson,TD,0
+25002136,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,RECEIVING,Drew,Patterson,LONG,0
+25002137,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,PUNTING,,Team,NO,12
+25002138,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,PUNTING,,Team,YDS,425
+25002139,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,PUNTING,,Team,AVG,35.4
+25002140,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,PUNTING,,Team,LONG,46
+25002141,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,PUNT RETURNS,Josh,Ringelberg,NO,6
+25002142,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,PUNT RETURNS,Josh,Ringelberg,YDS,48
+25002143,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,PUNT RETURNS,Josh,Ringelberg,AVG,8.0
+25002144,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,PUNT RETURNS,Josh,Ringelberg,LONG,20
+25002145,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,PUNT RETURNS,Mitchell,Dess,NO,1
+25002146,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,PUNT RETURNS,Mitchell,Dess,YDS,20
+25002147,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,PUNT RETURNS,Mitchell,Dess,AVG,20.0
+25002148,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,PUNT RETURNS,Mitchell,Dess,LONG,20
+25002149,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,KICK RETURNS,Canton,Larson,NO,1
+25002150,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,KICK RETURNS,Canton,Larson,YDS,4
+25002151,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,KICK RETURNS,Canton,Larson,AVG,4.0
+25002152,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,KICK RETURNS,Canton,Larson,LONG,4
+25002153,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,KICK RETURNS,Mitchell,Dess,NO,1
+25002154,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,KICK RETURNS,Mitchell,Dess,YDS,23
+25002155,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,KICK RETURNS,Mitchell,Dess,AVG,23.0
+25002156,10/13/2017,D-III,Wis.-Whitewater,Wis.-La Crosse,KICK RETURNS,Mitchell,Dess,LONG,23

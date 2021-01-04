@@ -1,0 +1,125 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+13918001,10/11/2014,D-II,American Int'l,Saint Anselm,RUSHING,T,Williams,ATT,18
+13918002,10/11/2014,D-II,American Int'l,Saint Anselm,RUSHING,T,Williams,YDS,73
+13918003,10/11/2014,D-II,American Int'l,Saint Anselm,RUSHING,T,Williams,TD,2
+13918004,10/11/2014,D-II,American Int'l,Saint Anselm,RUSHING,T,Williams,LONG,23
+13918005,10/11/2014,D-II,American Int'l,Saint Anselm,RUSHING,Kevin,Arduino,ATT,8
+13918006,10/11/2014,D-II,American Int'l,Saint Anselm,RUSHING,Kevin,Arduino,YDS,60
+13918007,10/11/2014,D-II,American Int'l,Saint Anselm,RUSHING,Kevin,Arduino,TD,0
+13918008,10/11/2014,D-II,American Int'l,Saint Anselm,RUSHING,Kevin,Arduino,LONG,18
+13918009,10/11/2014,D-II,American Int'l,Saint Anselm,RUSHING,M,Easterling,ATT,10
+13918010,10/11/2014,D-II,American Int'l,Saint Anselm,RUSHING,M,Easterling,YDS,53
+13918011,10/11/2014,D-II,American Int'l,Saint Anselm,RUSHING,M,Easterling,TD,0
+13918012,10/11/2014,D-II,American Int'l,Saint Anselm,RUSHING,M,Easterling,LONG,21
+13918013,10/11/2014,D-II,American Int'l,Saint Anselm,RUSHING,Evan,Graham,ATT,1
+13918014,10/11/2014,D-II,American Int'l,Saint Anselm,RUSHING,Evan,Graham,YDS,17
+13918015,10/11/2014,D-II,American Int'l,Saint Anselm,RUSHING,Evan,Graham,TD,0
+13918016,10/11/2014,D-II,American Int'l,Saint Anselm,RUSHING,Evan,Graham,LONG,17
+13918017,10/11/2014,D-II,American Int'l,Saint Anselm,RUSHING,Stephan,Davis,ATT,2
+13918018,10/11/2014,D-II,American Int'l,Saint Anselm,RUSHING,Stephan,Davis,YDS,16
+13918019,10/11/2014,D-II,American Int'l,Saint Anselm,RUSHING,Stephan,Davis,TD,0
+13918020,10/11/2014,D-II,American Int'l,Saint Anselm,RUSHING,Stephan,Davis,LONG,11
+13918021,10/11/2014,D-II,American Int'l,Saint Anselm,RUSHING,,Team,ATT,3
+13918022,10/11/2014,D-II,American Int'l,Saint Anselm,RUSHING,,Team,YDS,-3
+13918023,10/11/2014,D-II,American Int'l,Saint Anselm,RUSHING,,Team,TD,0
+13918024,10/11/2014,D-II,American Int'l,Saint Anselm,RUSHING,,Team,LONG,0
+13918025,10/11/2014,D-II,American Int'l,Saint Anselm,PASSING,Kevin,Arduino,CP-ATT-INT,21-32-1
+13918026,10/11/2014,D-II,American Int'l,Saint Anselm,PASSING,Kevin,Arduino,YDS,346
+13918027,10/11/2014,D-II,American Int'l,Saint Anselm,PASSING,Kevin,Arduino,TD,4
+13918028,10/11/2014,D-II,American Int'l,Saint Anselm,PASSING,Kevin,Arduino,LONG,54
+13918029,10/11/2014,D-II,American Int'l,Saint Anselm,RECEIVING,Evan,Graham,REC,6
+13918030,10/11/2014,D-II,American Int'l,Saint Anselm,RECEIVING,Evan,Graham,YDS,125
+13918031,10/11/2014,D-II,American Int'l,Saint Anselm,RECEIVING,Evan,Graham,TD,2
+13918032,10/11/2014,D-II,American Int'l,Saint Anselm,RECEIVING,Evan,Graham,LONG,54
+13918033,10/11/2014,D-II,American Int'l,Saint Anselm,RECEIVING,Stephan,Davis,REC,8
+13918034,10/11/2014,D-II,American Int'l,Saint Anselm,RECEIVING,Stephan,Davis,YDS,98
+13918035,10/11/2014,D-II,American Int'l,Saint Anselm,RECEIVING,Stephan,Davis,TD,1
+13918036,10/11/2014,D-II,American Int'l,Saint Anselm,RECEIVING,Stephan,Davis,LONG,46
+13918037,10/11/2014,D-II,American Int'l,Saint Anselm,RECEIVING,M,Easterling,REC,3
+13918038,10/11/2014,D-II,American Int'l,Saint Anselm,RECEIVING,M,Easterling,YDS,57
+13918039,10/11/2014,D-II,American Int'l,Saint Anselm,RECEIVING,M,Easterling,TD,0
+13918040,10/11/2014,D-II,American Int'l,Saint Anselm,RECEIVING,M,Easterling,LONG,26
+13918041,10/11/2014,D-II,American Int'l,Saint Anselm,RECEIVING,Gary,Farley,REC,2
+13918042,10/11/2014,D-II,American Int'l,Saint Anselm,RECEIVING,Gary,Farley,YDS,57
+13918043,10/11/2014,D-II,American Int'l,Saint Anselm,RECEIVING,Gary,Farley,TD,1
+13918044,10/11/2014,D-II,American Int'l,Saint Anselm,RECEIVING,Gary,Farley,LONG,44
+13918045,10/11/2014,D-II,American Int'l,Saint Anselm,RECEIVING,Manny,Mcclain,REC,1
+13918046,10/11/2014,D-II,American Int'l,Saint Anselm,RECEIVING,Manny,Mcclain,YDS,6
+13918047,10/11/2014,D-II,American Int'l,Saint Anselm,RECEIVING,Manny,Mcclain,TD,0
+13918048,10/11/2014,D-II,American Int'l,Saint Anselm,RECEIVING,Manny,Mcclain,LONG,6
+13918049,10/11/2014,D-II,American Int'l,Saint Anselm,RECEIVING,T,Williams,REC,1
+13918050,10/11/2014,D-II,American Int'l,Saint Anselm,RECEIVING,T,Williams,YDS,3
+13918051,10/11/2014,D-II,American Int'l,Saint Anselm,RECEIVING,T,Williams,TD,0
+13918052,10/11/2014,D-II,American Int'l,Saint Anselm,RECEIVING,T,Williams,LONG,3
+13918053,10/11/2014,D-II,American Int'l,Saint Anselm,PUNTING,Daniel,Backx,NO,3
+13918054,10/11/2014,D-II,American Int'l,Saint Anselm,PUNTING,Daniel,Backx,YDS,99
+13918055,10/11/2014,D-II,American Int'l,Saint Anselm,PUNTING,Daniel,Backx,AVG,33.0
+13918056,10/11/2014,D-II,American Int'l,Saint Anselm,PUNTING,Daniel,Backx,LONG,36
+13918057,10/11/2014,D-II,American Int'l,Saint Anselm,PUNT RETURNS,Evan,Graham,NO,2
+13918058,10/11/2014,D-II,American Int'l,Saint Anselm,PUNT RETURNS,Evan,Graham,YDS,8
+13918059,10/11/2014,D-II,American Int'l,Saint Anselm,PUNT RETURNS,Evan,Graham,AVG,4.0
+13918060,10/11/2014,D-II,American Int'l,Saint Anselm,PUNT RETURNS,Evan,Graham,LONG,6
+13918061,10/11/2014,D-II,American Int'l,Saint Anselm,KICK RETURNS,Devonte,Dillion,NO,1
+13918062,10/11/2014,D-II,American Int'l,Saint Anselm,KICK RETURNS,Devonte,Dillion,YDS,0
+13918063,10/11/2014,D-II,American Int'l,Saint Anselm,KICK RETURNS,Devonte,Dillion,AVG,0.0
+13918064,10/11/2014,D-II,American Int'l,Saint Anselm,KICK RETURNS,Devonte,Dillion,LONG,0
+13918065,10/11/2014,D-II,American Int'l,Saint Anselm,KICK RETURNS,Evan,Graham,NO,5
+13918066,10/11/2014,D-II,American Int'l,Saint Anselm,KICK RETURNS,Evan,Graham,YDS,113
+13918067,10/11/2014,D-II,American Int'l,Saint Anselm,KICK RETURNS,Evan,Graham,AVG,22.6
+13918068,10/11/2014,D-II,American Int'l,Saint Anselm,KICK RETURNS,Evan,Graham,LONG,39
+13918069,10/11/2014,D-II,Saint Anselm,American Int'l,RUSHING,Yianni,Gavalas,ATT,11
+13918070,10/11/2014,D-II,Saint Anselm,American Int'l,RUSHING,Yianni,Gavalas,YDS,32
+13918071,10/11/2014,D-II,Saint Anselm,American Int'l,RUSHING,Yianni,Gavalas,TD,2
+13918072,10/11/2014,D-II,Saint Anselm,American Int'l,RUSHING,Yianni,Gavalas,LONG,11
+13918073,10/11/2014,D-II,Saint Anselm,American Int'l,RUSHING,Elad,Covaliu,ATT,13
+13918074,10/11/2014,D-II,Saint Anselm,American Int'l,RUSHING,Elad,Covaliu,YDS,28
+13918075,10/11/2014,D-II,Saint Anselm,American Int'l,RUSHING,Elad,Covaliu,TD,0
+13918076,10/11/2014,D-II,Saint Anselm,American Int'l,RUSHING,Elad,Covaliu,LONG,6
+13918077,10/11/2014,D-II,Saint Anselm,American Int'l,RUSHING,Joe,Hayman,ATT,5
+13918078,10/11/2014,D-II,Saint Anselm,American Int'l,RUSHING,Joe,Hayman,YDS,1
+13918079,10/11/2014,D-II,Saint Anselm,American Int'l,RUSHING,Joe,Hayman,TD,0
+13918080,10/11/2014,D-II,Saint Anselm,American Int'l,RUSHING,Joe,Hayman,LONG,3
+13918081,10/11/2014,D-II,Saint Anselm,American Int'l,RUSHING,,Team,ATT,1
+13918082,10/11/2014,D-II,Saint Anselm,American Int'l,RUSHING,,Team,YDS,-6
+13918083,10/11/2014,D-II,Saint Anselm,American Int'l,RUSHING,,Team,TD,0
+13918084,10/11/2014,D-II,Saint Anselm,American Int'l,RUSHING,,Team,LONG,0
+13918085,10/11/2014,D-II,Saint Anselm,American Int'l,PASSING,Yianni,Gavalas,CP-ATT-INT,37-53-2
+13918086,10/11/2014,D-II,Saint Anselm,American Int'l,PASSING,Yianni,Gavalas,YDS,355
+13918087,10/11/2014,D-II,Saint Anselm,American Int'l,PASSING,Yianni,Gavalas,TD,1
+13918088,10/11/2014,D-II,Saint Anselm,American Int'l,PASSING,Yianni,Gavalas,LONG,34
+13918089,10/11/2014,D-II,Saint Anselm,American Int'l,RECEIVING,Justin,Bernard,REC,11
+13918090,10/11/2014,D-II,Saint Anselm,American Int'l,RECEIVING,Justin,Bernard,YDS,119
+13918091,10/11/2014,D-II,Saint Anselm,American Int'l,RECEIVING,Justin,Bernard,TD,0
+13918092,10/11/2014,D-II,Saint Anselm,American Int'l,RECEIVING,Justin,Bernard,LONG,34
+13918093,10/11/2014,D-II,Saint Anselm,American Int'l,RECEIVING,Nick,Marcella,REC,8
+13918094,10/11/2014,D-II,Saint Anselm,American Int'l,RECEIVING,Nick,Marcella,YDS,90
+13918095,10/11/2014,D-II,Saint Anselm,American Int'l,RECEIVING,Nick,Marcella,TD,1
+13918096,10/11/2014,D-II,Saint Anselm,American Int'l,RECEIVING,Nick,Marcella,LONG,28
+13918097,10/11/2014,D-II,Saint Anselm,American Int'l,RECEIVING,Ahkeen,Williams,REC,9
+13918098,10/11/2014,D-II,Saint Anselm,American Int'l,RECEIVING,Ahkeen,Williams,YDS,64
+13918099,10/11/2014,D-II,Saint Anselm,American Int'l,RECEIVING,Ahkeen,Williams,TD,0
+13918100,10/11/2014,D-II,Saint Anselm,American Int'l,RECEIVING,Ahkeen,Williams,LONG,15
+13918101,10/11/2014,D-II,Saint Anselm,American Int'l,RECEIVING,Brandon,Gomes,REC,4
+13918102,10/11/2014,D-II,Saint Anselm,American Int'l,RECEIVING,Brandon,Gomes,YDS,45
+13918103,10/11/2014,D-II,Saint Anselm,American Int'l,RECEIVING,Brandon,Gomes,TD,0
+13918104,10/11/2014,D-II,Saint Anselm,American Int'l,RECEIVING,Brandon,Gomes,LONG,18
+13918105,10/11/2014,D-II,Saint Anselm,American Int'l,RECEIVING,Elad,Covaliu,REC,3
+13918106,10/11/2014,D-II,Saint Anselm,American Int'l,RECEIVING,Elad,Covaliu,YDS,20
+13918107,10/11/2014,D-II,Saint Anselm,American Int'l,RECEIVING,Elad,Covaliu,TD,0
+13918108,10/11/2014,D-II,Saint Anselm,American Int'l,RECEIVING,Elad,Covaliu,LONG,10
+13918109,10/11/2014,D-II,Saint Anselm,American Int'l,RECEIVING,Joe,Hayman,REC,2
+13918110,10/11/2014,D-II,Saint Anselm,American Int'l,RECEIVING,Joe,Hayman,YDS,17
+13918111,10/11/2014,D-II,Saint Anselm,American Int'l,RECEIVING,Joe,Hayman,TD,0
+13918112,10/11/2014,D-II,Saint Anselm,American Int'l,RECEIVING,Joe,Hayman,LONG,11
+13918113,10/11/2014,D-II,Saint Anselm,American Int'l,PUNTING,Shane,Grayson,NO,4
+13918114,10/11/2014,D-II,Saint Anselm,American Int'l,PUNTING,Shane,Grayson,YDS,160
+13918115,10/11/2014,D-II,Saint Anselm,American Int'l,PUNTING,Shane,Grayson,AVG,40.0
+13918116,10/11/2014,D-II,Saint Anselm,American Int'l,PUNTING,Shane,Grayson,LONG,52
+13918117,10/11/2014,D-II,Saint Anselm,American Int'l,KICK RETURNS,Elad,Covaliu,NO,2
+13918118,10/11/2014,D-II,Saint Anselm,American Int'l,KICK RETURNS,Elad,Covaliu,YDS,46
+13918119,10/11/2014,D-II,Saint Anselm,American Int'l,KICK RETURNS,Elad,Covaliu,AVG,23.0
+13918120,10/11/2014,D-II,Saint Anselm,American Int'l,KICK RETURNS,Elad,Covaliu,LONG,24
+13918121,10/11/2014,D-II,Saint Anselm,American Int'l,KICK RETURNS,Ryan,Monette,NO,6
+13918122,10/11/2014,D-II,Saint Anselm,American Int'l,KICK RETURNS,Ryan,Monette,YDS,116
+13918123,10/11/2014,D-II,Saint Anselm,American Int'l,KICK RETURNS,Ryan,Monette,AVG,19.3
+13918124,10/11/2014,D-II,Saint Anselm,American Int'l,KICK RETURNS,Ryan,Monette,LONG,29

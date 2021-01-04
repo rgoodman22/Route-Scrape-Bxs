@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 from constants import constants
 from selenium.webdriver.common.keys import Keys
+from selenium.common.exceptions import NoSuchElementException
 
 
 #Constants
@@ -16,14 +17,18 @@ class menuSelect:
 
     #year menu logix
     def yearSelect(self, year):
-        yearDropDown = self.driver.find_element_by_id("game_sport_year_ctl_id_select_chosen")
-        yearDropDown.click()
-        selectNextYear = yearDropDown.find_element_by_tag_name("ul")
+        try:
+            yearDropDown = self.driver.find_element_by_id("game_sport_year_ctl_id_select_chosen")
+            yearDropDown.click()
+            selectNextYear = yearDropDown.find_element_by_tag_name("ul")
 
-        index = yearDict[year]
-        myXpath = "//li[@data-option-array-index='%i']" % index
-        selectNextYear = selectNextYear.find_element_by_xpath(myXpath)
-        selectNextYear.click()
+            index = yearDict[year]
+            myXpath = "//li[@data-option-array-index='%i']" % index
+            selectNextYear = selectNextYear.find_element_by_xpath(myXpath)
+            selectNextYear.click()
+        except NoSuchElementException:
+            print('help year select')
+            self.yearSelect(year)
 
     def changeDate(self, date):
         openDate = self.driver.find_element_by_id("game_date")

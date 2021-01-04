@@ -1,0 +1,65 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+23440001,9/24/2016,D-III,Elmhurst,Wheaton (Ill.),RUSHING,O,Hernandez,ATT,10
+23440002,9/24/2016,D-III,Elmhurst,Wheaton (Ill.),RUSHING,O,Hernandez,YDS,35
+23440003,9/24/2016,D-III,Elmhurst,Wheaton (Ill.),RUSHING,O,Hernandez,TD,0
+23440004,9/24/2016,D-III,Elmhurst,Wheaton (Ill.),RUSHING,O,Hernandez,LONG,16
+23440005,9/24/2016,D-III,Elmhurst,Wheaton (Ill.),RUSHING,,Team,ATT,15
+23440006,9/24/2016,D-III,Elmhurst,Wheaton (Ill.),RUSHING,,Team,YDS,23
+23440007,9/24/2016,D-III,Elmhurst,Wheaton (Ill.),RUSHING,,Team,TD,0
+23440008,9/24/2016,D-III,Elmhurst,Wheaton (Ill.),RUSHING,,Team,LONG,6
+23440009,9/24/2016,D-III,Elmhurst,Wheaton (Ill.),PASSING,O,Hernandez,CP-ATT-INT,8-23-1
+23440010,9/24/2016,D-III,Elmhurst,Wheaton (Ill.),PASSING,O,Hernandez,YDS,112
+23440011,9/24/2016,D-III,Elmhurst,Wheaton (Ill.),PASSING,O,Hernandez,TD,0
+23440012,9/24/2016,D-III,Elmhurst,Wheaton (Ill.),PASSING,O,Hernandez,LONG,26
+23440013,9/24/2016,D-III,Elmhurst,Wheaton (Ill.),RECEIVING,,Team,REC,2
+23440014,9/24/2016,D-III,Elmhurst,Wheaton (Ill.),RECEIVING,,Team,YDS,33
+23440015,9/24/2016,D-III,Elmhurst,Wheaton (Ill.),RECEIVING,,Team,TD,0
+23440016,9/24/2016,D-III,Elmhurst,Wheaton (Ill.),RECEIVING,,Team,LONG,26
+23440017,9/24/2016,D-III,Elmhurst,Wheaton (Ill.),PUNTING,,Team,NO,2
+23440018,9/24/2016,D-III,Elmhurst,Wheaton (Ill.),PUNTING,,Team,YDS,79
+23440019,9/24/2016,D-III,Elmhurst,Wheaton (Ill.),PUNTING,,Team,AVG,39.5
+23440020,9/24/2016,D-III,Elmhurst,Wheaton (Ill.),PUNTING,,Team,LONG,44
+23440021,9/24/2016,D-III,Elmhurst,Wheaton (Ill.),PUNT RETURNS,,Team,NO,3
+23440022,9/24/2016,D-III,Elmhurst,Wheaton (Ill.),PUNT RETURNS,,Team,YDS,26
+23440023,9/24/2016,D-III,Elmhurst,Wheaton (Ill.),PUNT RETURNS,,Team,AVG,8.7
+23440024,9/24/2016,D-III,Elmhurst,Wheaton (Ill.),PUNT RETURNS,,Team,LONG,18
+23440025,9/24/2016,D-III,Elmhurst,Wheaton (Ill.),KICK RETURNS,,Team,NO,1
+23440026,9/24/2016,D-III,Elmhurst,Wheaton (Ill.),KICK RETURNS,,Team,YDS,12
+23440027,9/24/2016,D-III,Elmhurst,Wheaton (Ill.),KICK RETURNS,,Team,AVG,12.0
+23440028,9/24/2016,D-III,Elmhurst,Wheaton (Ill.),KICK RETURNS,,Team,LONG,12
+23440029,9/24/2016,D-III,Wheaton (Ill.),Elmhurst,RUSHING,,Team,ATT,8
+23440030,9/24/2016,D-III,Wheaton (Ill.),Elmhurst,RUSHING,,Team,YDS,53
+23440031,9/24/2016,D-III,Wheaton (Ill.),Elmhurst,RUSHING,,Team,TD,0
+23440032,9/24/2016,D-III,Wheaton (Ill.),Elmhurst,RUSHING,,Team,LONG,17
+23440033,9/24/2016,D-III,Wheaton (Ill.),Elmhurst,PASSING,,Team,CP-ATT-INT,15-26-0
+23440034,9/24/2016,D-III,Wheaton (Ill.),Elmhurst,PASSING,,Team,YDS,128
+23440035,9/24/2016,D-III,Wheaton (Ill.),Elmhurst,PASSING,,Team,TD,1
+23440036,9/24/2016,D-III,Wheaton (Ill.),Elmhurst,PASSING,,Team,LONG,14
+23440037,9/24/2016,D-III,Wheaton (Ill.),Elmhurst,RECEIVING,Z,Lindquist,REC,6
+23440038,9/24/2016,D-III,Wheaton (Ill.),Elmhurst,RECEIVING,Z,Lindquist,YDS,38
+23440039,9/24/2016,D-III,Wheaton (Ill.),Elmhurst,RECEIVING,Z,Lindquist,TD,0
+23440040,9/24/2016,D-III,Wheaton (Ill.),Elmhurst,RECEIVING,Z,Lindquist,LONG,9
+23440041,9/24/2016,D-III,Wheaton (Ill.),Elmhurst,RECEIVING,,Team,REC,2
+23440042,9/24/2016,D-III,Wheaton (Ill.),Elmhurst,RECEIVING,,Team,YDS,23
+23440043,9/24/2016,D-III,Wheaton (Ill.),Elmhurst,RECEIVING,,Team,TD,1
+23440044,9/24/2016,D-III,Wheaton (Ill.),Elmhurst,RECEIVING,,Team,LONG,12
+23440045,9/24/2016,D-III,Wheaton (Ill.),Elmhurst,RECEIVING,Van,Dyke,REC,1
+23440046,9/24/2016,D-III,Wheaton (Ill.),Elmhurst,RECEIVING,Van,Dyke,YDS,6
+23440047,9/24/2016,D-III,Wheaton (Ill.),Elmhurst,RECEIVING,Van,Dyke,TD,0
+23440048,9/24/2016,D-III,Wheaton (Ill.),Elmhurst,RECEIVING,Van,Dyke,LONG,6
+23440049,9/24/2016,D-III,Wheaton (Ill.),Elmhurst,PUNTING,,Team,NO,7
+23440050,9/24/2016,D-III,Wheaton (Ill.),Elmhurst,PUNTING,,Team,YDS,255
+23440051,9/24/2016,D-III,Wheaton (Ill.),Elmhurst,PUNTING,,Team,AVG,36.4
+23440052,9/24/2016,D-III,Wheaton (Ill.),Elmhurst,PUNTING,,Team,LONG,48
+23440053,9/24/2016,D-III,Wheaton (Ill.),Elmhurst,PUNT RETURNS,T,Sigler,NO,2
+23440054,9/24/2016,D-III,Wheaton (Ill.),Elmhurst,PUNT RETURNS,T,Sigler,YDS,20
+23440055,9/24/2016,D-III,Wheaton (Ill.),Elmhurst,PUNT RETURNS,T,Sigler,AVG,10.0
+23440056,9/24/2016,D-III,Wheaton (Ill.),Elmhurst,PUNT RETURNS,T,Sigler,LONG,19
+23440057,9/24/2016,D-III,Wheaton (Ill.),Elmhurst,PUNT RETURNS,,Team,NO,3
+23440058,9/24/2016,D-III,Wheaton (Ill.),Elmhurst,PUNT RETURNS,,Team,YDS,3
+23440059,9/24/2016,D-III,Wheaton (Ill.),Elmhurst,PUNT RETURNS,,Team,AVG,1.0
+23440060,9/24/2016,D-III,Wheaton (Ill.),Elmhurst,PUNT RETURNS,,Team,LONG,2
+23440061,9/24/2016,D-III,Wheaton (Ill.),Elmhurst,KICK RETURNS,,Team,NO,1
+23440062,9/24/2016,D-III,Wheaton (Ill.),Elmhurst,KICK RETURNS,,Team,YDS,9
+23440063,9/24/2016,D-III,Wheaton (Ill.),Elmhurst,KICK RETURNS,,Team,AVG,9.0
+23440064,9/24/2016,D-III,Wheaton (Ill.),Elmhurst,KICK RETURNS,,Team,LONG,9

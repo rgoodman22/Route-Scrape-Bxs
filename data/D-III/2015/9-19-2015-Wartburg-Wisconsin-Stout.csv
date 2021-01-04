@@ -1,0 +1,145 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+22070001,9/19/2015,D-III,Wartburg,Wisconsin-Stout,RUSHING,Brandon,Domeyer,ATT,24
+22070002,9/19/2015,D-III,Wartburg,Wisconsin-Stout,RUSHING,Brandon,Domeyer,YDS,148
+22070003,9/19/2015,D-III,Wartburg,Wisconsin-Stout,RUSHING,Brandon,Domeyer,TD,2
+22070004,9/19/2015,D-III,Wartburg,Wisconsin-Stout,RUSHING,Brandon,Domeyer,LONG,23
+22070005,9/19/2015,D-III,Wartburg,Wisconsin-Stout,RUSHING,Jake,Haberman,ATT,9
+22070006,9/19/2015,D-III,Wartburg,Wisconsin-Stout,RUSHING,Jake,Haberman,YDS,72
+22070007,9/19/2015,D-III,Wartburg,Wisconsin-Stout,RUSHING,Jake,Haberman,TD,0
+22070008,9/19/2015,D-III,Wartburg,Wisconsin-Stout,RUSHING,Jake,Haberman,LONG,46
+22070009,9/19/2015,D-III,Wartburg,Wisconsin-Stout,RUSHING,Logan,Schrader,ATT,11
+22070010,9/19/2015,D-III,Wartburg,Wisconsin-Stout,RUSHING,Logan,Schrader,YDS,26
+22070011,9/19/2015,D-III,Wartburg,Wisconsin-Stout,RUSHING,Logan,Schrader,TD,2
+22070012,9/19/2015,D-III,Wartburg,Wisconsin-Stout,RUSHING,Logan,Schrader,LONG,14
+22070013,9/19/2015,D-III,Wartburg,Wisconsin-Stout,RUSHING,,Team,ATT,2
+22070014,9/19/2015,D-III,Wartburg,Wisconsin-Stout,RUSHING,,Team,YDS,-3
+22070015,9/19/2015,D-III,Wartburg,Wisconsin-Stout,RUSHING,,Team,TD,0
+22070016,9/19/2015,D-III,Wartburg,Wisconsin-Stout,RUSHING,,Team,LONG,0
+22070017,9/19/2015,D-III,Wartburg,Wisconsin-Stout,PASSING,Logan,Schrader,CP-ATT-INT,19-31-1
+22070018,9/19/2015,D-III,Wartburg,Wisconsin-Stout,PASSING,Logan,Schrader,YDS,300
+22070019,9/19/2015,D-III,Wartburg,Wisconsin-Stout,PASSING,Logan,Schrader,TD,2
+22070020,9/19/2015,D-III,Wartburg,Wisconsin-Stout,PASSING,Logan,Schrader,LONG,39
+22070021,9/19/2015,D-III,Wartburg,Wisconsin-Stout,RECEIVING,Robbie,Anstoett,REC,9
+22070022,9/19/2015,D-III,Wartburg,Wisconsin-Stout,RECEIVING,Robbie,Anstoett,YDS,197
+22070023,9/19/2015,D-III,Wartburg,Wisconsin-Stout,RECEIVING,Robbie,Anstoett,TD,1
+22070024,9/19/2015,D-III,Wartburg,Wisconsin-Stout,RECEIVING,Robbie,Anstoett,LONG,39
+22070025,9/19/2015,D-III,Wartburg,Wisconsin-Stout,RECEIVING,Mitch,Rahm,REC,5
+22070026,9/19/2015,D-III,Wartburg,Wisconsin-Stout,RECEIVING,Mitch,Rahm,YDS,35
+22070027,9/19/2015,D-III,Wartburg,Wisconsin-Stout,RECEIVING,Mitch,Rahm,TD,0
+22070028,9/19/2015,D-III,Wartburg,Wisconsin-Stout,RECEIVING,Mitch,Rahm,LONG,12
+22070029,9/19/2015,D-III,Wartburg,Wisconsin-Stout,RECEIVING,Riley,Brockway,REC,1
+22070030,9/19/2015,D-III,Wartburg,Wisconsin-Stout,RECEIVING,Riley,Brockway,YDS,31
+22070031,9/19/2015,D-III,Wartburg,Wisconsin-Stout,RECEIVING,Riley,Brockway,TD,0
+22070032,9/19/2015,D-III,Wartburg,Wisconsin-Stout,RECEIVING,Riley,Brockway,LONG,31
+22070033,9/19/2015,D-III,Wartburg,Wisconsin-Stout,RECEIVING,Mitch,Frerichs,REC,3
+22070034,9/19/2015,D-III,Wartburg,Wisconsin-Stout,RECEIVING,Mitch,Frerichs,YDS,26
+22070035,9/19/2015,D-III,Wartburg,Wisconsin-Stout,RECEIVING,Mitch,Frerichs,TD,0
+22070036,9/19/2015,D-III,Wartburg,Wisconsin-Stout,RECEIVING,Mitch,Frerichs,LONG,13
+22070037,9/19/2015,D-III,Wartburg,Wisconsin-Stout,RECEIVING,Jake,Haberman,REC,1
+22070038,9/19/2015,D-III,Wartburg,Wisconsin-Stout,RECEIVING,Jake,Haberman,YDS,11
+22070039,9/19/2015,D-III,Wartburg,Wisconsin-Stout,RECEIVING,Jake,Haberman,TD,1
+22070040,9/19/2015,D-III,Wartburg,Wisconsin-Stout,RECEIVING,Jake,Haberman,LONG,11
+22070041,9/19/2015,D-III,Wartburg,Wisconsin-Stout,PUNTING,Grant,Zimmerman,NO,1
+22070042,9/19/2015,D-III,Wartburg,Wisconsin-Stout,PUNTING,Grant,Zimmerman,YDS,52
+22070043,9/19/2015,D-III,Wartburg,Wisconsin-Stout,PUNTING,Grant,Zimmerman,AVG,52.0
+22070044,9/19/2015,D-III,Wartburg,Wisconsin-Stout,PUNTING,Grant,Zimmerman,LONG,52
+22070045,9/19/2015,D-III,Wartburg,Wisconsin-Stout,PUNTING,,Team,NO,1
+22070046,9/19/2015,D-III,Wartburg,Wisconsin-Stout,PUNTING,,Team,YDS,0
+22070047,9/19/2015,D-III,Wartburg,Wisconsin-Stout,PUNTING,,Team,AVG,0.0
+22070048,9/19/2015,D-III,Wartburg,Wisconsin-Stout,PUNTING,,Team,LONG,0
+22070049,9/19/2015,D-III,Wartburg,Wisconsin-Stout,KICK RETURNS,Jake,Haberman,NO,2
+22070050,9/19/2015,D-III,Wartburg,Wisconsin-Stout,KICK RETURNS,Jake,Haberman,YDS,40
+22070051,9/19/2015,D-III,Wartburg,Wisconsin-Stout,KICK RETURNS,Jake,Haberman,AVG,20.0
+22070052,9/19/2015,D-III,Wartburg,Wisconsin-Stout,KICK RETURNS,Jake,Haberman,LONG,21
+22070053,9/19/2015,D-III,Wartburg,Wisconsin-Stout,KICK RETURNS,Robbie,Anstoett,NO,1
+22070054,9/19/2015,D-III,Wartburg,Wisconsin-Stout,KICK RETURNS,Robbie,Anstoett,YDS,0
+22070055,9/19/2015,D-III,Wartburg,Wisconsin-Stout,KICK RETURNS,Robbie,Anstoett,AVG,0.0
+22070056,9/19/2015,D-III,Wartburg,Wisconsin-Stout,KICK RETURNS,Robbie,Anstoett,LONG,0
+22070057,9/19/2015,D-III,Wartburg,Wisconsin-Stout,KICK RETURNS,Riley,Brockway,NO,2
+22070058,9/19/2015,D-III,Wartburg,Wisconsin-Stout,KICK RETURNS,Riley,Brockway,YDS,42
+22070059,9/19/2015,D-III,Wartburg,Wisconsin-Stout,KICK RETURNS,Riley,Brockway,AVG,21.0
+22070060,9/19/2015,D-III,Wartburg,Wisconsin-Stout,KICK RETURNS,Riley,Brockway,LONG,22
+22070061,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RUSHING,Hank,Kujak,ATT,14
+22070062,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RUSHING,Hank,Kujak,YDS,97
+22070063,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RUSHING,Hank,Kujak,TD,0
+22070064,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RUSHING,Hank,Kujak,LONG,47
+22070065,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RUSHING,K,Carpenter,ATT,12
+22070066,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RUSHING,K,Carpenter,YDS,59
+22070067,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RUSHING,K,Carpenter,TD,0
+22070068,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RUSHING,K,Carpenter,LONG,19
+22070069,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RUSHING,Adolfo,Pacheco,ATT,12
+22070070,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RUSHING,Adolfo,Pacheco,YDS,44
+22070071,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RUSHING,Adolfo,Pacheco,TD,1
+22070072,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RUSHING,Adolfo,Pacheco,LONG,14
+22070073,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RUSHING,C,Pica-anderson,ATT,2
+22070074,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RUSHING,C,Pica-anderson,YDS,20
+22070075,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RUSHING,C,Pica-anderson,TD,0
+22070076,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RUSHING,C,Pica-anderson,LONG,14
+22070077,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RUSHING,Brian,Alvarez,ATT,2
+22070078,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RUSHING,Brian,Alvarez,YDS,7
+22070079,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RUSHING,Brian,Alvarez,TD,0
+22070080,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RUSHING,Brian,Alvarez,LONG,5
+22070081,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RUSHING,J,Guarnaccio,ATT,1
+22070082,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RUSHING,J,Guarnaccio,YDS,4
+22070083,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RUSHING,J,Guarnaccio,TD,0
+22070084,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RUSHING,J,Guarnaccio,LONG,4
+22070085,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RUSHING,,Team,ATT,1
+22070086,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RUSHING,,Team,YDS,-2
+22070087,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RUSHING,,Team,TD,0
+22070088,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RUSHING,,Team,LONG,0
+22070089,9/19/2015,D-III,Wisconsin-Stout,Wartburg,PASSING,Hank,Kujak,CP-ATT-INT,19-38-1
+22070090,9/19/2015,D-III,Wisconsin-Stout,Wartburg,PASSING,Hank,Kujak,YDS,212
+22070091,9/19/2015,D-III,Wisconsin-Stout,Wartburg,PASSING,Hank,Kujak,TD,3
+22070092,9/19/2015,D-III,Wisconsin-Stout,Wartburg,PASSING,Hank,Kujak,LONG,28
+22070093,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RECEIVING,C,Pica-anderson,REC,4
+22070094,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RECEIVING,C,Pica-anderson,YDS,76
+22070095,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RECEIVING,C,Pica-anderson,TD,0
+22070096,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RECEIVING,C,Pica-anderson,LONG,28
+22070097,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RECEIVING,K,Carpenter,REC,4
+22070098,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RECEIVING,K,Carpenter,YDS,37
+22070099,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RECEIVING,K,Carpenter,TD,0
+22070100,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RECEIVING,K,Carpenter,LONG,13
+22070101,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RECEIVING,Jordan,Dabney,REC,2
+22070102,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RECEIVING,Jordan,Dabney,YDS,24
+22070103,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RECEIVING,Jordan,Dabney,TD,0
+22070104,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RECEIVING,Jordan,Dabney,LONG,17
+22070105,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RECEIVING,Reggie,Kujak,REC,2
+22070106,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RECEIVING,Reggie,Kujak,YDS,22
+22070107,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RECEIVING,Reggie,Kujak,TD,1
+22070108,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RECEIVING,Reggie,Kujak,LONG,11
+22070109,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RECEIVING,Brian,Alvarez,REC,3
+22070110,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RECEIVING,Brian,Alvarez,YDS,20
+22070111,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RECEIVING,Brian,Alvarez,TD,2
+22070112,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RECEIVING,Brian,Alvarez,LONG,14
+22070113,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RECEIVING,J,Guarnaccio,REC,2
+22070114,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RECEIVING,J,Guarnaccio,YDS,16
+22070115,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RECEIVING,J,Guarnaccio,TD,0
+22070116,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RECEIVING,J,Guarnaccio,LONG,9
+22070117,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RECEIVING,Kevion,Mcdonald,REC,1
+22070118,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RECEIVING,Kevion,Mcdonald,YDS,12
+22070119,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RECEIVING,Kevion,Mcdonald,TD,0
+22070120,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RECEIVING,Kevion,Mcdonald,LONG,12
+22070121,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RECEIVING,Ben,Hall,REC,1
+22070122,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RECEIVING,Ben,Hall,YDS,5
+22070123,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RECEIVING,Ben,Hall,TD,0
+22070124,9/19/2015,D-III,Wisconsin-Stout,Wartburg,RECEIVING,Ben,Hall,LONG,5
+22070125,9/19/2015,D-III,Wisconsin-Stout,Wartburg,PUNTING,Clark,Riedel,NO,3
+22070126,9/19/2015,D-III,Wisconsin-Stout,Wartburg,PUNTING,Clark,Riedel,YDS,97
+22070127,9/19/2015,D-III,Wisconsin-Stout,Wartburg,PUNTING,Clark,Riedel,AVG,32.3
+22070128,9/19/2015,D-III,Wisconsin-Stout,Wartburg,PUNTING,Clark,Riedel,LONG,36
+22070129,9/19/2015,D-III,Wisconsin-Stout,Wartburg,PUNT RETURNS,Isaac,Tuttle,NO,0
+22070130,9/19/2015,D-III,Wisconsin-Stout,Wartburg,PUNT RETURNS,Isaac,Tuttle,YDS,6
+22070131,9/19/2015,D-III,Wisconsin-Stout,Wartburg,PUNT RETURNS,Isaac,Tuttle,AVG,-
+22070132,9/19/2015,D-III,Wisconsin-Stout,Wartburg,PUNT RETURNS,Isaac,Tuttle,LONG,6
+22070133,9/19/2015,D-III,Wisconsin-Stout,Wartburg,PUNT RETURNS,Iyen,Ogbomoh,NO,1
+22070134,9/19/2015,D-III,Wisconsin-Stout,Wartburg,PUNT RETURNS,Iyen,Ogbomoh,YDS,16
+22070135,9/19/2015,D-III,Wisconsin-Stout,Wartburg,PUNT RETURNS,Iyen,Ogbomoh,AVG,16.0
+22070136,9/19/2015,D-III,Wisconsin-Stout,Wartburg,PUNT RETURNS,Iyen,Ogbomoh,LONG,0
+22070137,9/19/2015,D-III,Wisconsin-Stout,Wartburg,KICK RETURNS,Brian,Alvarez,NO,3
+22070138,9/19/2015,D-III,Wisconsin-Stout,Wartburg,KICK RETURNS,Brian,Alvarez,YDS,52
+22070139,9/19/2015,D-III,Wisconsin-Stout,Wartburg,KICK RETURNS,Brian,Alvarez,AVG,17.3
+22070140,9/19/2015,D-III,Wisconsin-Stout,Wartburg,KICK RETURNS,Brian,Alvarez,LONG,19
+22070141,9/19/2015,D-III,Wisconsin-Stout,Wartburg,KICK RETURNS,Isaac,Tuttle,NO,3
+22070142,9/19/2015,D-III,Wisconsin-Stout,Wartburg,KICK RETURNS,Isaac,Tuttle,YDS,66
+22070143,9/19/2015,D-III,Wisconsin-Stout,Wartburg,KICK RETURNS,Isaac,Tuttle,AVG,22.0
+22070144,9/19/2015,D-III,Wisconsin-Stout,Wartburg,KICK RETURNS,Isaac,Tuttle,LONG,28

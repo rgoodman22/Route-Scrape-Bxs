@@ -1,0 +1,298 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+26447001,10/20/2018,D-III,Willamette,Pacific Lutheran,RUSHING,,Team,ATT,5
+26447002,10/20/2018,D-III,Willamette,Pacific Lutheran,RUSHING,,Team,YDS,18
+26447003,10/20/2018,D-III,Willamette,Pacific Lutheran,RUSHING,,Team,TD,0
+26447004,10/20/2018,D-III,Willamette,Pacific Lutheran,RUSHING,,Team,LONG,10
+26447005,10/20/2018,D-III,Willamette,Pacific Lutheran,PASSING,,Team,CP-ATT-INT,18-30-0
+26447006,10/20/2018,D-III,Willamette,Pacific Lutheran,PASSING,,Team,YDS,282
+26447007,10/20/2018,D-III,Willamette,Pacific Lutheran,PASSING,,Team,TD,3
+26447008,10/20/2018,D-III,Willamette,Pacific Lutheran,PASSING,,Team,LONG,80
+26447009,10/20/2018,D-III,Willamette,Pacific Lutheran,RECEIVING,,Team,REC,6
+26447010,10/20/2018,D-III,Willamette,Pacific Lutheran,RECEIVING,,Team,YDS,116
+26447011,10/20/2018,D-III,Willamette,Pacific Lutheran,RECEIVING,,Team,TD,1
+26447012,10/20/2018,D-III,Willamette,Pacific Lutheran,RECEIVING,,Team,LONG,80
+26447013,10/20/2018,D-III,Willamette,Pacific Lutheran,PUNTING,S,Adams,NO,7
+26447014,10/20/2018,D-III,Willamette,Pacific Lutheran,PUNTING,S,Adams,YDS,263
+26447015,10/20/2018,D-III,Willamette,Pacific Lutheran,PUNTING,S,Adams,AVG,37.6
+26447016,10/20/2018,D-III,Willamette,Pacific Lutheran,PUNTING,S,Adams,LONG,50
+26447017,10/20/2018,D-III,Willamette,Pacific Lutheran,PUNT RETURNS,,Team,NO,1
+26447018,10/20/2018,D-III,Willamette,Pacific Lutheran,PUNT RETURNS,,Team,YDS,2
+26447019,10/20/2018,D-III,Willamette,Pacific Lutheran,PUNT RETURNS,,Team,AVG,2.0
+26447020,10/20/2018,D-III,Willamette,Pacific Lutheran,PUNT RETURNS,,Team,LONG,2
+26447021,10/20/2018,D-III,Willamette,Pacific Lutheran,KICK RETURNS,,Team,NO,2
+26447022,10/20/2018,D-III,Willamette,Pacific Lutheran,KICK RETURNS,,Team,YDS,40
+26447023,10/20/2018,D-III,Willamette,Pacific Lutheran,KICK RETURNS,,Team,AVG,20.0
+26447024,10/20/2018,D-III,Willamette,Pacific Lutheran,KICK RETURNS,,Team,LONG,21
+26447025,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,,Team,TOT,4
+26447026,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,,Team,SOLO,
+26447027,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,,Team,SACKS,3
+26447028,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,,Team,TFL,
+26447029,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,,Team,INT,
+26447030,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,,Team,FF,
+26447031,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,,Team,FR,
+26447032,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,Kyle,Martz,TOT,1
+26447033,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,Kyle,Martz,SOLO,
+26447034,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,Kyle,Martz,SACKS,0
+26447035,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,Kyle,Martz,TFL,
+26447036,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,Kyle,Martz,INT,
+26447037,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,Kyle,Martz,FF,
+26447038,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,Kyle,Martz,FR,
+26447039,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,S,Adams,TOT,1
+26447040,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,S,Adams,SOLO,
+26447041,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,S,Adams,SACKS,1
+26447042,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,S,Adams,TFL,
+26447043,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,S,Adams,INT,
+26447044,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,S,Adams,FF,
+26447045,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,S,Adams,FR,
+26447046,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,,Team,TOT,3
+26447047,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,,Team,SOLO,
+26447048,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,,Team,SACKS,3
+26447049,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,,Team,TFL,
+26447050,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,,Team,INT,
+26447051,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,,Team,FF,
+26447052,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,,Team,FR,
+26447053,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,K,Adams,TOT,3
+26447054,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,K,Adams,SOLO,
+26447055,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,K,Adams,SACKS,0
+26447056,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,K,Adams,TFL,
+26447057,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,K,Adams,INT,
+26447058,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,K,Adams,FF,
+26447059,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,K,Adams,FR,0
+26447060,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,,Team,TOT,5
+26447061,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,,Team,SOLO,
+26447062,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,,Team,SACKS,1
+26447063,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,,Team,TFL,
+26447064,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,,Team,INT,
+26447065,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,,Team,FF,
+26447066,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,,Team,FR,
+26447067,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,B,Rose,TOT,1
+26447068,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,B,Rose,SOLO,
+26447069,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,B,Rose,SACKS,1
+26447070,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,B,Rose,TFL,
+26447071,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,B,Rose,INT,
+26447072,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,B,Rose,FF,
+26447073,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,B,Rose,FR,
+26447074,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,,Team,TOT,1
+26447075,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,,Team,SOLO,
+26447076,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,,Team,SACKS,1
+26447077,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,,Team,TFL,
+26447078,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,,Team,INT,
+26447079,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,,Team,FF,
+26447080,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,,Team,FR,
+26447081,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,T,Rose,TOT,9
+26447082,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,T,Rose,SOLO,
+26447083,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,T,Rose,SACKS,4
+26447084,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,T,Rose,TFL,
+26447085,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,T,Rose,INT,
+26447086,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,T,Rose,FF,
+26447087,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,T,Rose,FR,0
+26447088,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,,Team,TOT,5
+26447089,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,,Team,SOLO,
+26447090,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,,Team,SACKS,3
+26447091,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,,Team,TFL,
+26447092,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,,Team,INT,
+26447093,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,,Team,FF,
+26447094,10/20/2018,D-III,Willamette,Pacific Lutheran,DEFENSE,,Team,FR,0
+26447095,10/20/2018,D-III,Pacific Lutheran,Willamette,RUSHING,Ethan,Mcelderry,ATT,9
+26447096,10/20/2018,D-III,Pacific Lutheran,Willamette,RUSHING,Ethan,Mcelderry,YDS,33
+26447097,10/20/2018,D-III,Pacific Lutheran,Willamette,RUSHING,Ethan,Mcelderry,TD,1
+26447098,10/20/2018,D-III,Pacific Lutheran,Willamette,RUSHING,Ethan,Mcelderry,LONG,13
+26447099,10/20/2018,D-III,Pacific Lutheran,Willamette,RUSHING,Anthony,Louthan,ATT,15
+26447100,10/20/2018,D-III,Pacific Lutheran,Willamette,RUSHING,Anthony,Louthan,YDS,31
+26447101,10/20/2018,D-III,Pacific Lutheran,Willamette,RUSHING,Anthony,Louthan,TD,0
+26447102,10/20/2018,D-III,Pacific Lutheran,Willamette,RUSHING,Anthony,Louthan,LONG,7
+26447103,10/20/2018,D-III,Pacific Lutheran,Willamette,RUSHING,Colin,Mckay,ATT,1
+26447104,10/20/2018,D-III,Pacific Lutheran,Willamette,RUSHING,Colin,Mckay,YDS,2
+26447105,10/20/2018,D-III,Pacific Lutheran,Willamette,RUSHING,Colin,Mckay,TD,0
+26447106,10/20/2018,D-III,Pacific Lutheran,Willamette,RUSHING,Colin,Mckay,LONG,2
+26447107,10/20/2018,D-III,Pacific Lutheran,Willamette,RUSHING,Nolan,Hoover,ATT,7
+26447108,10/20/2018,D-III,Pacific Lutheran,Willamette,RUSHING,Nolan,Hoover,YDS,-1
+26447109,10/20/2018,D-III,Pacific Lutheran,Willamette,RUSHING,Nolan,Hoover,TD,0
+26447110,10/20/2018,D-III,Pacific Lutheran,Willamette,RUSHING,Nolan,Hoover,LONG,4
+26447111,10/20/2018,D-III,Pacific Lutheran,Willamette,RUSHING,,Team,ATT,1
+26447112,10/20/2018,D-III,Pacific Lutheran,Willamette,RUSHING,,Team,YDS,-4
+26447113,10/20/2018,D-III,Pacific Lutheran,Willamette,RUSHING,,Team,TD,0
+26447114,10/20/2018,D-III,Pacific Lutheran,Willamette,RUSHING,,Team,LONG,0
+26447115,10/20/2018,D-III,Pacific Lutheran,Willamette,RUSHING,Walker,Lavoy,ATT,5
+26447116,10/20/2018,D-III,Pacific Lutheran,Willamette,RUSHING,Walker,Lavoy,YDS,-15
+26447117,10/20/2018,D-III,Pacific Lutheran,Willamette,RUSHING,Walker,Lavoy,TD,0
+26447118,10/20/2018,D-III,Pacific Lutheran,Willamette,RUSHING,Walker,Lavoy,LONG,9
+26447119,10/20/2018,D-III,Pacific Lutheran,Willamette,PASSING,Walker,Lavoy,CP-ATT-INT,10-18-0
+26447120,10/20/2018,D-III,Pacific Lutheran,Willamette,PASSING,Walker,Lavoy,YDS,154
+26447121,10/20/2018,D-III,Pacific Lutheran,Willamette,PASSING,Walker,Lavoy,TD,2
+26447122,10/20/2018,D-III,Pacific Lutheran,Willamette,PASSING,Walker,Lavoy,LONG,61
+26447123,10/20/2018,D-III,Pacific Lutheran,Willamette,PASSING,Nolan,Hoover,CP-ATT-INT,9-16-0
+26447124,10/20/2018,D-III,Pacific Lutheran,Willamette,PASSING,Nolan,Hoover,YDS,122
+26447125,10/20/2018,D-III,Pacific Lutheran,Willamette,PASSING,Nolan,Hoover,TD,1
+26447126,10/20/2018,D-III,Pacific Lutheran,Willamette,PASSING,Nolan,Hoover,LONG,26
+26447127,10/20/2018,D-III,Pacific Lutheran,Willamette,RECEIVING,Brady,Winter,REC,6
+26447128,10/20/2018,D-III,Pacific Lutheran,Willamette,RECEIVING,Brady,Winter,YDS,136
+26447129,10/20/2018,D-III,Pacific Lutheran,Willamette,RECEIVING,Brady,Winter,TD,2
+26447130,10/20/2018,D-III,Pacific Lutheran,Willamette,RECEIVING,Brady,Winter,LONG,61
+26447131,10/20/2018,D-III,Pacific Lutheran,Willamette,RECEIVING,Wesley,Nixon,REC,5
+26447132,10/20/2018,D-III,Pacific Lutheran,Willamette,RECEIVING,Wesley,Nixon,YDS,73
+26447133,10/20/2018,D-III,Pacific Lutheran,Willamette,RECEIVING,Wesley,Nixon,TD,0
+26447134,10/20/2018,D-III,Pacific Lutheran,Willamette,RECEIVING,Wesley,Nixon,LONG,24
+26447135,10/20/2018,D-III,Pacific Lutheran,Willamette,RECEIVING,Alex,Rendon,REC,3
+26447136,10/20/2018,D-III,Pacific Lutheran,Willamette,RECEIVING,Alex,Rendon,YDS,29
+26447137,10/20/2018,D-III,Pacific Lutheran,Willamette,RECEIVING,Alex,Rendon,TD,0
+26447138,10/20/2018,D-III,Pacific Lutheran,Willamette,RECEIVING,Alex,Rendon,LONG,17
+26447139,10/20/2018,D-III,Pacific Lutheran,Willamette,RECEIVING,Ethan,Mcelderry,REC,2
+26447140,10/20/2018,D-III,Pacific Lutheran,Willamette,RECEIVING,Ethan,Mcelderry,YDS,16
+26447141,10/20/2018,D-III,Pacific Lutheran,Willamette,RECEIVING,Ethan,Mcelderry,TD,1
+26447142,10/20/2018,D-III,Pacific Lutheran,Willamette,RECEIVING,Ethan,Mcelderry,LONG,12
+26447143,10/20/2018,D-III,Pacific Lutheran,Willamette,RECEIVING,Marcus,Wiley,REC,2
+26447144,10/20/2018,D-III,Pacific Lutheran,Willamette,RECEIVING,Marcus,Wiley,YDS,16
+26447145,10/20/2018,D-III,Pacific Lutheran,Willamette,RECEIVING,Marcus,Wiley,TD,0
+26447146,10/20/2018,D-III,Pacific Lutheran,Willamette,RECEIVING,Marcus,Wiley,LONG,10
+26447147,10/20/2018,D-III,Pacific Lutheran,Willamette,RECEIVING,Anthony,Louthan,REC,1
+26447148,10/20/2018,D-III,Pacific Lutheran,Willamette,RECEIVING,Anthony,Louthan,YDS,6
+26447149,10/20/2018,D-III,Pacific Lutheran,Willamette,RECEIVING,Anthony,Louthan,TD,0
+26447150,10/20/2018,D-III,Pacific Lutheran,Willamette,RECEIVING,Anthony,Louthan,LONG,6
+26447151,10/20/2018,D-III,Pacific Lutheran,Willamette,PUNTING,Anthony,Louthan,NO,6
+26447152,10/20/2018,D-III,Pacific Lutheran,Willamette,PUNTING,Anthony,Louthan,YDS,226
+26447153,10/20/2018,D-III,Pacific Lutheran,Willamette,PUNTING,Anthony,Louthan,AVG,37.7
+26447154,10/20/2018,D-III,Pacific Lutheran,Willamette,PUNTING,Anthony,Louthan,LONG,46
+26447155,10/20/2018,D-III,Pacific Lutheran,Willamette,PUNT RETURNS,Ethan,Mcelderry,NO,2
+26447156,10/20/2018,D-III,Pacific Lutheran,Willamette,PUNT RETURNS,Ethan,Mcelderry,YDS,7
+26447157,10/20/2018,D-III,Pacific Lutheran,Willamette,PUNT RETURNS,Ethan,Mcelderry,AVG,3.5
+26447158,10/20/2018,D-III,Pacific Lutheran,Willamette,PUNT RETURNS,Ethan,Mcelderry,LONG,7
+26447159,10/20/2018,D-III,Pacific Lutheran,Willamette,PUNT RETURNS,Wesley,Nixon,NO,2
+26447160,10/20/2018,D-III,Pacific Lutheran,Willamette,PUNT RETURNS,Wesley,Nixon,YDS,28
+26447161,10/20/2018,D-III,Pacific Lutheran,Willamette,PUNT RETURNS,Wesley,Nixon,AVG,14.0
+26447162,10/20/2018,D-III,Pacific Lutheran,Willamette,PUNT RETURNS,Wesley,Nixon,LONG,19
+26447163,10/20/2018,D-III,Pacific Lutheran,Willamette,KICK RETURNS,Colin,Mckay,NO,1
+26447164,10/20/2018,D-III,Pacific Lutheran,Willamette,KICK RETURNS,Colin,Mckay,YDS,28
+26447165,10/20/2018,D-III,Pacific Lutheran,Willamette,KICK RETURNS,Colin,Mckay,AVG,28.0
+26447166,10/20/2018,D-III,Pacific Lutheran,Willamette,KICK RETURNS,Colin,Mckay,LONG,28
+26447167,10/20/2018,D-III,Pacific Lutheran,Willamette,KICK RETURNS,Ethan,Mcelderry,NO,1
+26447168,10/20/2018,D-III,Pacific Lutheran,Willamette,KICK RETURNS,Ethan,Mcelderry,YDS,27
+26447169,10/20/2018,D-III,Pacific Lutheran,Willamette,KICK RETURNS,Ethan,Mcelderry,AVG,27.0
+26447170,10/20/2018,D-III,Pacific Lutheran,Willamette,KICK RETURNS,Ethan,Mcelderry,LONG,27
+26447171,10/20/2018,D-III,Pacific Lutheran,Willamette,KICK RETURNS,Mikey,Langner,NO,1
+26447172,10/20/2018,D-III,Pacific Lutheran,Willamette,KICK RETURNS,Mikey,Langner,YDS,18
+26447173,10/20/2018,D-III,Pacific Lutheran,Willamette,KICK RETURNS,Mikey,Langner,AVG,18.0
+26447174,10/20/2018,D-III,Pacific Lutheran,Willamette,KICK RETURNS,Mikey,Langner,LONG,18
+26447175,10/20/2018,D-III,Pacific Lutheran,Willamette,KICK RETURNS,Anthony,Louthan,NO,1
+26447176,10/20/2018,D-III,Pacific Lutheran,Willamette,KICK RETURNS,Anthony,Louthan,YDS,39
+26447177,10/20/2018,D-III,Pacific Lutheran,Willamette,KICK RETURNS,Anthony,Louthan,AVG,39.0
+26447178,10/20/2018,D-III,Pacific Lutheran,Willamette,KICK RETURNS,Anthony,Louthan,LONG,39
+26447179,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Jake,Herzog,TOT,1
+26447180,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Jake,Herzog,SOLO,
+26447181,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Jake,Herzog,SACKS,1
+26447182,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Jake,Herzog,TFL,
+26447183,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Jake,Herzog,INT,
+26447184,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Jake,Herzog,FF,
+26447185,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Jake,Herzog,FR,
+26447186,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Tyler,Lee,TOT,4
+26447187,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Tyler,Lee,SOLO,
+26447188,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Tyler,Lee,SACKS,3
+26447189,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Tyler,Lee,TFL,
+26447190,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Tyler,Lee,INT,
+26447191,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Tyler,Lee,FF,
+26447192,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Tyler,Lee,FR,
+26447193,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Brady,Winter,TOT,1
+26447194,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Brady,Winter,SOLO,
+26447195,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Brady,Winter,SACKS,1
+26447196,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Brady,Winter,TFL,
+26447197,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Brady,Winter,INT,
+26447198,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Brady,Winter,FF,
+26447199,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Brady,Winter,FR,
+26447200,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Hajriz,Aliu,TOT,5
+26447201,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Hajriz,Aliu,SOLO,
+26447202,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Hajriz,Aliu,SACKS,3
+26447203,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Hajriz,Aliu,TFL,
+26447204,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Hajriz,Aliu,INT,
+26447205,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Hajriz,Aliu,FF,
+26447206,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Hajriz,Aliu,FR,1
+26447207,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Parker,Bowles,TOT,3
+26447208,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Parker,Bowles,SOLO,
+26447209,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Parker,Bowles,SACKS,1
+26447210,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Parker,Bowles,TFL,
+26447211,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Parker,Bowles,INT,
+26447212,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Parker,Bowles,FF,
+26447213,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Parker,Bowles,FR,
+26447214,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,A,Bautista,TOT,4
+26447215,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,A,Bautista,SOLO,
+26447216,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,A,Bautista,SACKS,1
+26447217,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,A,Bautista,TFL,
+26447218,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,A,Bautista,INT,
+26447219,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,A,Bautista,FF,
+26447220,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,A,Bautista,FR,
+26447221,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Z,Fulbright,TOT,3
+26447222,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Z,Fulbright,SOLO,
+26447223,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Z,Fulbright,SACKS,3
+26447224,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Z,Fulbright,TFL,
+26447225,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Z,Fulbright,INT,
+26447226,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Z,Fulbright,FF,
+26447227,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Z,Fulbright,FR,
+26447228,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Cody,Barnett,TOT,6
+26447229,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Cody,Barnett,SOLO,
+26447230,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Cody,Barnett,SACKS,5
+26447231,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Cody,Barnett,TFL,
+26447232,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Cody,Barnett,INT,
+26447233,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Cody,Barnett,FF,
+26447234,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Cody,Barnett,FR,
+26447235,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Matt,Anthony,TOT,10
+26447236,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Matt,Anthony,SOLO,
+26447237,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Matt,Anthony,SACKS,5
+26447238,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Matt,Anthony,TFL,
+26447239,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Matt,Anthony,INT,
+26447240,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Matt,Anthony,FF,1
+26447241,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Matt,Anthony,FR,2
+26447242,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Parker,Trewet,TOT,2
+26447243,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Parker,Trewet,SOLO,
+26447244,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Parker,Trewet,SACKS,1
+26447245,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Parker,Trewet,TFL,
+26447246,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Parker,Trewet,INT,
+26447247,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Parker,Trewet,FF,
+26447248,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Parker,Trewet,FR,
+26447249,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Hunter,Briggs,TOT,8
+26447250,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Hunter,Briggs,SOLO,
+26447251,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Hunter,Briggs,SACKS,6
+26447252,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Hunter,Briggs,TFL,
+26447253,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Hunter,Briggs,INT,
+26447254,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Hunter,Briggs,FF,
+26447255,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Hunter,Briggs,FR,2
+26447256,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,T,Zucktriegel,TOT,1
+26447257,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,T,Zucktriegel,SOLO,
+26447258,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,T,Zucktriegel,SACKS,0
+26447259,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,T,Zucktriegel,TFL,
+26447260,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,T,Zucktriegel,INT,
+26447261,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,T,Zucktriegel,FF,
+26447262,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,T,Zucktriegel,FR,
+26447263,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Nick,Bautista,TOT,4
+26447264,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Nick,Bautista,SOLO,
+26447265,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Nick,Bautista,SACKS,4
+26447266,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Nick,Bautista,TFL,
+26447267,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Nick,Bautista,INT,
+26447268,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Nick,Bautista,FF,
+26447269,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Nick,Bautista,FR,3
+26447270,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Colten,Whiting,TOT,3
+26447271,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Colten,Whiting,SOLO,
+26447272,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Colten,Whiting,SACKS,2
+26447273,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Colten,Whiting,TFL,
+26447274,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Colten,Whiting,INT,
+26447275,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Colten,Whiting,FF,
+26447276,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Colten,Whiting,FR,1
+26447277,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Will,Sanders,TOT,2
+26447278,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Will,Sanders,SOLO,
+26447279,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Will,Sanders,SACKS,0
+26447280,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Will,Sanders,TFL,
+26447281,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Will,Sanders,INT,
+26447282,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Will,Sanders,FF,
+26447283,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Will,Sanders,FR,
+26447284,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Curtis,Garner,TOT,1
+26447285,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Curtis,Garner,SOLO,
+26447286,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Curtis,Garner,SACKS,1
+26447287,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Curtis,Garner,TFL,
+26447288,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Curtis,Garner,INT,
+26447289,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Curtis,Garner,FF,
+26447290,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Curtis,Garner,FR,1
+26447291,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Taylor,Rupe,TOT,2
+26447292,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Taylor,Rupe,SOLO,
+26447293,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Taylor,Rupe,SACKS,1
+26447294,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Taylor,Rupe,TFL,
+26447295,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Taylor,Rupe,INT,
+26447296,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Taylor,Rupe,FF,
+26447297,10/20/2018,D-III,Pacific Lutheran,Willamette,DEFENSE,Taylor,Rupe,FR,

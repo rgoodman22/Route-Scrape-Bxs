@@ -1,0 +1,121 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+19628001,9/27/2013,D-III,Ithaca,Buffalo State,RUSHING,J,Oliver,ATT,1
+19628002,9/27/2013,D-III,Ithaca,Buffalo State,RUSHING,J,Oliver,YDS,1
+19628003,9/27/2013,D-III,Ithaca,Buffalo State,RUSHING,J,Oliver,TD,0
+19628004,9/27/2013,D-III,Ithaca,Buffalo State,RUSHING,J,Oliver,LONG,1
+19628005,9/27/2013,D-III,Ithaca,Buffalo State,RUSHING,P,Neumann,ATT,6
+19628006,9/27/2013,D-III,Ithaca,Buffalo State,RUSHING,P,Neumann,YDS,-29
+19628007,9/27/2013,D-III,Ithaca,Buffalo State,RUSHING,P,Neumann,TD,0
+19628008,9/27/2013,D-III,Ithaca,Buffalo State,RUSHING,P,Neumann,LONG,1
+19628009,9/27/2013,D-III,Ithaca,Buffalo State,RUSHING,T,Padula,ATT,10
+19628010,9/27/2013,D-III,Ithaca,Buffalo State,RUSHING,T,Padula,YDS,37
+19628011,9/27/2013,D-III,Ithaca,Buffalo State,RUSHING,T,Padula,TD,0
+19628012,9/27/2013,D-III,Ithaca,Buffalo State,RUSHING,T,Padula,LONG,9
+19628013,9/27/2013,D-III,Ithaca,Buffalo State,RUSHING,R,Jones,ATT,15
+19628014,9/27/2013,D-III,Ithaca,Buffalo State,RUSHING,R,Jones,YDS,36
+19628015,9/27/2013,D-III,Ithaca,Buffalo State,RUSHING,R,Jones,TD,0
+19628016,9/27/2013,D-III,Ithaca,Buffalo State,RUSHING,R,Jones,LONG,11
+19628017,9/27/2013,D-III,Ithaca,Buffalo State,RUSHING,,Team,ATT,1
+19628018,9/27/2013,D-III,Ithaca,Buffalo State,RUSHING,,Team,YDS,-1
+19628019,9/27/2013,D-III,Ithaca,Buffalo State,RUSHING,,Team,TD,0
+19628020,9/27/2013,D-III,Ithaca,Buffalo State,RUSHING,,Team,LONG,0
+19628021,9/27/2013,D-III,Ithaca,Buffalo State,PASSING,P,Neumann,CP-ATT-INT,16-24-1
+19628022,9/27/2013,D-III,Ithaca,Buffalo State,PASSING,P,Neumann,YDS,217
+19628023,9/27/2013,D-III,Ithaca,Buffalo State,PASSING,P,Neumann,TD,2
+19628024,9/27/2013,D-III,Ithaca,Buffalo State,PASSING,P,Neumann,LONG,63
+19628025,9/27/2013,D-III,Ithaca,Buffalo State,RECEIVING,J,Lynch,REC,5
+19628026,9/27/2013,D-III,Ithaca,Buffalo State,RECEIVING,J,Lynch,YDS,37
+19628027,9/27/2013,D-III,Ithaca,Buffalo State,RECEIVING,J,Lynch,TD,0
+19628028,9/27/2013,D-III,Ithaca,Buffalo State,RECEIVING,J,Lynch,LONG,12
+19628029,9/27/2013,D-III,Ithaca,Buffalo State,RECEIVING,V,Boffoli,REC,5
+19628030,9/27/2013,D-III,Ithaca,Buffalo State,RECEIVING,V,Boffoli,YDS,68
+19628031,9/27/2013,D-III,Ithaca,Buffalo State,RECEIVING,V,Boffoli,TD,1
+19628032,9/27/2013,D-III,Ithaca,Buffalo State,RECEIVING,V,Boffoli,LONG,30
+19628033,9/27/2013,D-III,Ithaca,Buffalo State,RECEIVING,C,Bauer,REC,1
+19628034,9/27/2013,D-III,Ithaca,Buffalo State,RECEIVING,C,Bauer,YDS,13
+19628035,9/27/2013,D-III,Ithaca,Buffalo State,RECEIVING,C,Bauer,TD,0
+19628036,9/27/2013,D-III,Ithaca,Buffalo State,RECEIVING,C,Bauer,LONG,13
+19628037,9/27/2013,D-III,Ithaca,Buffalo State,RECEIVING,J,Prugar,REC,1
+19628038,9/27/2013,D-III,Ithaca,Buffalo State,RECEIVING,J,Prugar,YDS,63
+19628039,9/27/2013,D-III,Ithaca,Buffalo State,RECEIVING,J,Prugar,TD,1
+19628040,9/27/2013,D-III,Ithaca,Buffalo State,RECEIVING,J,Prugar,LONG,63
+19628041,9/27/2013,D-III,Ithaca,Buffalo State,RECEIVING,R,Jones,REC,1
+19628042,9/27/2013,D-III,Ithaca,Buffalo State,RECEIVING,R,Jones,YDS,3
+19628043,9/27/2013,D-III,Ithaca,Buffalo State,RECEIVING,R,Jones,TD,0
+19628044,9/27/2013,D-III,Ithaca,Buffalo State,RECEIVING,R,Jones,LONG,3
+19628045,9/27/2013,D-III,Ithaca,Buffalo State,RECEIVING,S,Delmoro,REC,3
+19628046,9/27/2013,D-III,Ithaca,Buffalo State,RECEIVING,S,Delmoro,YDS,33
+19628047,9/27/2013,D-III,Ithaca,Buffalo State,RECEIVING,S,Delmoro,TD,0
+19628048,9/27/2013,D-III,Ithaca,Buffalo State,RECEIVING,S,Delmoro,LONG,17
+19628049,9/27/2013,D-III,Ithaca,Buffalo State,PUNTING,M,Lopez,NO,7
+19628050,9/27/2013,D-III,Ithaca,Buffalo State,PUNTING,M,Lopez,YDS,237
+19628051,9/27/2013,D-III,Ithaca,Buffalo State,PUNTING,M,Lopez,AVG,33.9
+19628052,9/27/2013,D-III,Ithaca,Buffalo State,PUNTING,M,Lopez,LONG,57
+19628053,9/27/2013,D-III,Ithaca,Buffalo State,PUNT RETURNS,J,Oliver,NO,2
+19628054,9/27/2013,D-III,Ithaca,Buffalo State,PUNT RETURNS,J,Oliver,YDS,96
+19628055,9/27/2013,D-III,Ithaca,Buffalo State,PUNT RETURNS,J,Oliver,AVG,48.0
+19628056,9/27/2013,D-III,Ithaca,Buffalo State,PUNT RETURNS,J,Oliver,LONG,63
+19628057,9/27/2013,D-III,Ithaca,Buffalo State,KICK RETURNS,J,Oliver,NO,3
+19628058,9/27/2013,D-III,Ithaca,Buffalo State,KICK RETURNS,J,Oliver,YDS,46
+19628059,9/27/2013,D-III,Ithaca,Buffalo State,KICK RETURNS,J,Oliver,AVG,15.3
+19628060,9/27/2013,D-III,Ithaca,Buffalo State,KICK RETURNS,J,Oliver,LONG,23
+19628061,9/27/2013,D-III,Ithaca,Buffalo State,KICK RETURNS,S,Carney,NO,1
+19628062,9/27/2013,D-III,Ithaca,Buffalo State,KICK RETURNS,S,Carney,YDS,18
+19628063,9/27/2013,D-III,Ithaca,Buffalo State,KICK RETURNS,S,Carney,AVG,18.0
+19628064,9/27/2013,D-III,Ithaca,Buffalo State,KICK RETURNS,S,Carney,LONG,18
+19628065,9/27/2013,D-III,Buffalo State,Ithaca,RUSHING,Rich,Pete,ATT,15
+19628066,9/27/2013,D-III,Buffalo State,Ithaca,RUSHING,Rich,Pete,YDS,91
+19628067,9/27/2013,D-III,Buffalo State,Ithaca,RUSHING,Rich,Pete,TD,1
+19628068,9/27/2013,D-III,Buffalo State,Ithaca,RUSHING,Rich,Pete,LONG,22
+19628069,9/27/2013,D-III,Buffalo State,Ithaca,RUSHING,Casey,Kacz,ATT,7
+19628070,9/27/2013,D-III,Buffalo State,Ithaca,RUSHING,Casey,Kacz,YDS,-2
+19628071,9/27/2013,D-III,Buffalo State,Ithaca,RUSHING,Casey,Kacz,TD,0
+19628072,9/27/2013,D-III,Buffalo State,Ithaca,RUSHING,Casey,Kacz,LONG,10
+19628073,9/27/2013,D-III,Buffalo State,Ithaca,RUSHING,Ismail,Brooks,ATT,6
+19628074,9/27/2013,D-III,Buffalo State,Ithaca,RUSHING,Ismail,Brooks,YDS,11
+19628075,9/27/2013,D-III,Buffalo State,Ithaca,RUSHING,Ismail,Brooks,TD,0
+19628076,9/27/2013,D-III,Buffalo State,Ithaca,RUSHING,Ismail,Brooks,LONG,5
+19628077,9/27/2013,D-III,Buffalo State,Ithaca,PASSING,Casey,Kacz,CP-ATT-INT,24-44-1
+19628078,9/27/2013,D-III,Buffalo State,Ithaca,PASSING,Casey,Kacz,YDS,262
+19628079,9/27/2013,D-III,Buffalo State,Ithaca,PASSING,Casey,Kacz,TD,2
+19628080,9/27/2013,D-III,Buffalo State,Ithaca,PASSING,Casey,Kacz,LONG,25
+19628081,9/27/2013,D-III,Buffalo State,Ithaca,RECEIVING,Sherman,Nelson,REC,2
+19628082,9/27/2013,D-III,Buffalo State,Ithaca,RECEIVING,Sherman,Nelson,YDS,32
+19628083,9/27/2013,D-III,Buffalo State,Ithaca,RECEIVING,Sherman,Nelson,TD,1
+19628084,9/27/2013,D-III,Buffalo State,Ithaca,RECEIVING,Sherman,Nelson,LONG,18
+19628085,9/27/2013,D-III,Buffalo State,Ithaca,RECEIVING,Rich,Pete,REC,5
+19628086,9/27/2013,D-III,Buffalo State,Ithaca,RECEIVING,Rich,Pete,YDS,52
+19628087,9/27/2013,D-III,Buffalo State,Ithaca,RECEIVING,Rich,Pete,TD,0
+19628088,9/27/2013,D-III,Buffalo State,Ithaca,RECEIVING,Rich,Pete,LONG,21
+19628089,9/27/2013,D-III,Buffalo State,Ithaca,RECEIVING,Mike,Doherty,REC,6
+19628090,9/27/2013,D-III,Buffalo State,Ithaca,RECEIVING,Mike,Doherty,YDS,79
+19628091,9/27/2013,D-III,Buffalo State,Ithaca,RECEIVING,Mike,Doherty,TD,0
+19628092,9/27/2013,D-III,Buffalo State,Ithaca,RECEIVING,Mike,Doherty,LONG,25
+19628093,9/27/2013,D-III,Buffalo State,Ithaca,RECEIVING,Ryan,Carney,REC,7
+19628094,9/27/2013,D-III,Buffalo State,Ithaca,RECEIVING,Ryan,Carney,YDS,67
+19628095,9/27/2013,D-III,Buffalo State,Ithaca,RECEIVING,Ryan,Carney,TD,0
+19628096,9/27/2013,D-III,Buffalo State,Ithaca,RECEIVING,Ryan,Carney,LONG,16
+19628097,9/27/2013,D-III,Buffalo State,Ithaca,RECEIVING,Devin,Stampley,REC,1
+19628098,9/27/2013,D-III,Buffalo State,Ithaca,RECEIVING,Devin,Stampley,YDS,10
+19628099,9/27/2013,D-III,Buffalo State,Ithaca,RECEIVING,Devin,Stampley,TD,0
+19628100,9/27/2013,D-III,Buffalo State,Ithaca,RECEIVING,Devin,Stampley,LONG,10
+19628101,9/27/2013,D-III,Buffalo State,Ithaca,RECEIVING,Isaiah,Clarke,REC,3
+19628102,9/27/2013,D-III,Buffalo State,Ithaca,RECEIVING,Isaiah,Clarke,YDS,22
+19628103,9/27/2013,D-III,Buffalo State,Ithaca,RECEIVING,Isaiah,Clarke,TD,1
+19628104,9/27/2013,D-III,Buffalo State,Ithaca,RECEIVING,Isaiah,Clarke,LONG,17
+19628105,9/27/2013,D-III,Buffalo State,Ithaca,PUNTING,Joe,Going,NO,7
+19628106,9/27/2013,D-III,Buffalo State,Ithaca,PUNTING,Joe,Going,YDS,251
+19628107,9/27/2013,D-III,Buffalo State,Ithaca,PUNTING,Joe,Going,AVG,35.9
+19628108,9/27/2013,D-III,Buffalo State,Ithaca,PUNTING,Joe,Going,LONG,51
+19628109,9/27/2013,D-III,Buffalo State,Ithaca,PUNT RETURNS,Sherman,Nelson,NO,3
+19628110,9/27/2013,D-III,Buffalo State,Ithaca,PUNT RETURNS,Sherman,Nelson,YDS,16
+19628111,9/27/2013,D-III,Buffalo State,Ithaca,PUNT RETURNS,Sherman,Nelson,AVG,5.3
+19628112,9/27/2013,D-III,Buffalo State,Ithaca,PUNT RETURNS,Sherman,Nelson,LONG,7
+19628113,9/27/2013,D-III,Buffalo State,Ithaca,KICK RETURNS,Mike,Doherty,NO,3
+19628114,9/27/2013,D-III,Buffalo State,Ithaca,KICK RETURNS,Mike,Doherty,YDS,44
+19628115,9/27/2013,D-III,Buffalo State,Ithaca,KICK RETURNS,Mike,Doherty,AVG,14.7
+19628116,9/27/2013,D-III,Buffalo State,Ithaca,KICK RETURNS,Mike,Doherty,LONG,19
+19628117,9/27/2013,D-III,Buffalo State,Ithaca,KICK RETURNS,Joe,Oca,NO,1
+19628118,9/27/2013,D-III,Buffalo State,Ithaca,KICK RETURNS,Joe,Oca,YDS,6
+19628119,9/27/2013,D-III,Buffalo State,Ithaca,KICK RETURNS,Joe,Oca,AVG,6.0
+19628120,9/27/2013,D-III,Buffalo State,Ithaca,KICK RETURNS,Joe,Oca,LONG,6

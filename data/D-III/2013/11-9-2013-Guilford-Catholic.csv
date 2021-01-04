@@ -1,0 +1,133 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+20271001,11/9/2013,D-III,Guilford,Catholic,RUSHING,Nick,Mearite,ATT,1
+20271002,11/9/2013,D-III,Guilford,Catholic,RUSHING,Nick,Mearite,YDS,1
+20271003,11/9/2013,D-III,Guilford,Catholic,RUSHING,Nick,Mearite,TD,0
+20271004,11/9/2013,D-III,Guilford,Catholic,RUSHING,Nick,Mearite,LONG,1
+20271005,11/9/2013,D-III,Guilford,Catholic,RUSHING,Matt,Pawlowski,ATT,9
+20271006,11/9/2013,D-III,Guilford,Catholic,RUSHING,Matt,Pawlowski,YDS,-2
+20271007,11/9/2013,D-III,Guilford,Catholic,RUSHING,Matt,Pawlowski,TD,1
+20271008,11/9/2013,D-III,Guilford,Catholic,RUSHING,Matt,Pawlowski,LONG,12
+20271009,11/9/2013,D-III,Guilford,Catholic,RUSHING,Adam,Smith,ATT,1
+20271010,11/9/2013,D-III,Guilford,Catholic,RUSHING,Adam,Smith,YDS,2
+20271011,11/9/2013,D-III,Guilford,Catholic,RUSHING,Adam,Smith,TD,0
+20271012,11/9/2013,D-III,Guilford,Catholic,RUSHING,Adam,Smith,LONG,2
+20271013,11/9/2013,D-III,Guilford,Catholic,RUSHING,Alex,Smith,ATT,1
+20271014,11/9/2013,D-III,Guilford,Catholic,RUSHING,Alex,Smith,YDS,8
+20271015,11/9/2013,D-III,Guilford,Catholic,RUSHING,Alex,Smith,TD,0
+20271016,11/9/2013,D-III,Guilford,Catholic,RUSHING,Alex,Smith,LONG,8
+20271017,11/9/2013,D-III,Guilford,Catholic,RUSHING,Josh,Schow,ATT,20
+20271018,11/9/2013,D-III,Guilford,Catholic,RUSHING,Josh,Schow,YDS,90
+20271019,11/9/2013,D-III,Guilford,Catholic,RUSHING,Josh,Schow,TD,1
+20271020,11/9/2013,D-III,Guilford,Catholic,RUSHING,Josh,Schow,LONG,23
+20271021,11/9/2013,D-III,Guilford,Catholic,PASSING,Matt,Pawlowski,CP-ATT-INT,13-24-0
+20271022,11/9/2013,D-III,Guilford,Catholic,PASSING,Matt,Pawlowski,YDS,207
+20271023,11/9/2013,D-III,Guilford,Catholic,PASSING,Matt,Pawlowski,TD,2
+20271024,11/9/2013,D-III,Guilford,Catholic,PASSING,Matt,Pawlowski,LONG,61
+20271025,11/9/2013,D-III,Guilford,Catholic,RECEIVING,Nick,Mearite,REC,3
+20271026,11/9/2013,D-III,Guilford,Catholic,RECEIVING,Nick,Mearite,YDS,42
+20271027,11/9/2013,D-III,Guilford,Catholic,RECEIVING,Nick,Mearite,TD,1
+20271028,11/9/2013,D-III,Guilford,Catholic,RECEIVING,Nick,Mearite,LONG,16
+20271029,11/9/2013,D-III,Guilford,Catholic,RECEIVING,Adam,Smith,REC,3
+20271030,11/9/2013,D-III,Guilford,Catholic,RECEIVING,Adam,Smith,YDS,43
+20271031,11/9/2013,D-III,Guilford,Catholic,RECEIVING,Adam,Smith,TD,0
+20271032,11/9/2013,D-III,Guilford,Catholic,RECEIVING,Adam,Smith,LONG,39
+20271033,11/9/2013,D-III,Guilford,Catholic,RECEIVING,D,Alexander,REC,4
+20271034,11/9/2013,D-III,Guilford,Catholic,RECEIVING,D,Alexander,YDS,39
+20271035,11/9/2013,D-III,Guilford,Catholic,RECEIVING,D,Alexander,TD,1
+20271036,11/9/2013,D-III,Guilford,Catholic,RECEIVING,D,Alexander,LONG,21
+20271037,11/9/2013,D-III,Guilford,Catholic,RECEIVING,Josh,Schow,REC,1
+20271038,11/9/2013,D-III,Guilford,Catholic,RECEIVING,Josh,Schow,YDS,7
+20271039,11/9/2013,D-III,Guilford,Catholic,RECEIVING,Josh,Schow,TD,0
+20271040,11/9/2013,D-III,Guilford,Catholic,RECEIVING,Josh,Schow,LONG,7
+20271041,11/9/2013,D-III,Guilford,Catholic,RECEIVING,Hayden,Read,REC,2
+20271042,11/9/2013,D-III,Guilford,Catholic,RECEIVING,Hayden,Read,YDS,76
+20271043,11/9/2013,D-III,Guilford,Catholic,RECEIVING,Hayden,Read,TD,0
+20271044,11/9/2013,D-III,Guilford,Catholic,RECEIVING,Hayden,Read,LONG,61
+20271045,11/9/2013,D-III,Guilford,Catholic,PUNTING,Tyler,Hunt,NO,5
+20271046,11/9/2013,D-III,Guilford,Catholic,PUNTING,Tyler,Hunt,YDS,196
+20271047,11/9/2013,D-III,Guilford,Catholic,PUNTING,Tyler,Hunt,AVG,39.2
+20271048,11/9/2013,D-III,Guilford,Catholic,PUNTING,Tyler,Hunt,LONG,62
+20271049,11/9/2013,D-III,Guilford,Catholic,PUNT RETURNS,S,Stevenson,NO,2
+20271050,11/9/2013,D-III,Guilford,Catholic,PUNT RETURNS,S,Stevenson,YDS,39
+20271051,11/9/2013,D-III,Guilford,Catholic,PUNT RETURNS,S,Stevenson,AVG,19.5
+20271052,11/9/2013,D-III,Guilford,Catholic,PUNT RETURNS,S,Stevenson,LONG,25
+20271053,11/9/2013,D-III,Guilford,Catholic,KICK RETURNS,Joe,Able,NO,2
+20271054,11/9/2013,D-III,Guilford,Catholic,KICK RETURNS,Joe,Able,YDS,49
+20271055,11/9/2013,D-III,Guilford,Catholic,KICK RETURNS,Joe,Able,AVG,24.5
+20271056,11/9/2013,D-III,Guilford,Catholic,KICK RETURNS,Joe,Able,LONG,29
+20271057,11/9/2013,D-III,Guilford,Catholic,KICK RETURNS,D,Alexander,NO,4
+20271058,11/9/2013,D-III,Guilford,Catholic,KICK RETURNS,D,Alexander,YDS,38
+20271059,11/9/2013,D-III,Guilford,Catholic,KICK RETURNS,D,Alexander,AVG,9.5
+20271060,11/9/2013,D-III,Guilford,Catholic,KICK RETURNS,D,Alexander,LONG,15
+20271061,11/9/2013,D-III,Catholic,Guilford,RUSHING,Ej,Montgomery,ATT,18
+20271062,11/9/2013,D-III,Catholic,Guilford,RUSHING,Ej,Montgomery,YDS,129
+20271063,11/9/2013,D-III,Catholic,Guilford,RUSHING,Ej,Montgomery,TD,1
+20271064,11/9/2013,D-III,Catholic,Guilford,RUSHING,Ej,Montgomery,LONG,21
+20271065,11/9/2013,D-III,Catholic,Guilford,RUSHING,Matt,Mcmahon,ATT,1
+20271066,11/9/2013,D-III,Catholic,Guilford,RUSHING,Matt,Mcmahon,YDS,2
+20271067,11/9/2013,D-III,Catholic,Guilford,RUSHING,Matt,Mcmahon,TD,0
+20271068,11/9/2013,D-III,Catholic,Guilford,RUSHING,Matt,Mcmahon,LONG,2
+20271069,11/9/2013,D-III,Catholic,Guilford,RUSHING,M,Pitsenberger,ATT,24
+20271070,11/9/2013,D-III,Catholic,Guilford,RUSHING,M,Pitsenberger,YDS,144
+20271071,11/9/2013,D-III,Catholic,Guilford,RUSHING,M,Pitsenberger,TD,1
+20271072,11/9/2013,D-III,Catholic,Guilford,RUSHING,M,Pitsenberger,LONG,25
+20271073,11/9/2013,D-III,Catholic,Guilford,RUSHING,Nick,Cortese,ATT,20
+20271074,11/9/2013,D-III,Catholic,Guilford,RUSHING,Nick,Cortese,YDS,60
+20271075,11/9/2013,D-III,Catholic,Guilford,RUSHING,Nick,Cortese,TD,0
+20271076,11/9/2013,D-III,Catholic,Guilford,RUSHING,Nick,Cortese,LONG,10
+20271077,11/9/2013,D-III,Catholic,Guilford,RUSHING,,Team,ATT,3
+20271078,11/9/2013,D-III,Catholic,Guilford,RUSHING,,Team,YDS,-11
+20271079,11/9/2013,D-III,Catholic,Guilford,RUSHING,,Team,TD,0
+20271080,11/9/2013,D-III,Catholic,Guilford,RUSHING,,Team,LONG,0
+20271081,11/9/2013,D-III,Catholic,Guilford,PASSING,Ej,Montgomery,CP-ATT-INT,21-31-0
+20271082,11/9/2013,D-III,Catholic,Guilford,PASSING,Ej,Montgomery,YDS,180
+20271083,11/9/2013,D-III,Catholic,Guilford,PASSING,Ej,Montgomery,TD,4
+20271084,11/9/2013,D-III,Catholic,Guilford,PASSING,Ej,Montgomery,LONG,37
+20271085,11/9/2013,D-III,Catholic,Guilford,PASSING,Matt,Mcmahon,CP-ATT-INT,1-2-0
+20271086,11/9/2013,D-III,Catholic,Guilford,PASSING,Matt,Mcmahon,YDS,14
+20271087,11/9/2013,D-III,Catholic,Guilford,PASSING,Matt,Mcmahon,TD,0
+20271088,11/9/2013,D-III,Catholic,Guilford,PASSING,Matt,Mcmahon,LONG,14
+20271089,11/9/2013,D-III,Catholic,Guilford,RECEIVING,Tanner,Keefe,REC,1
+20271090,11/9/2013,D-III,Catholic,Guilford,RECEIVING,Tanner,Keefe,YDS,12
+20271091,11/9/2013,D-III,Catholic,Guilford,RECEIVING,Tanner,Keefe,TD,0
+20271092,11/9/2013,D-III,Catholic,Guilford,RECEIVING,Tanner,Keefe,LONG,12
+20271093,11/9/2013,D-III,Catholic,Guilford,RECEIVING,A,Oullette,REC,12
+20271094,11/9/2013,D-III,Catholic,Guilford,RECEIVING,A,Oullette,YDS,117
+20271095,11/9/2013,D-III,Catholic,Guilford,RECEIVING,A,Oullette,TD,1
+20271096,11/9/2013,D-III,Catholic,Guilford,RECEIVING,A,Oullette,LONG,37
+20271097,11/9/2013,D-III,Catholic,Guilford,RECEIVING,Tucker,Hubbell,REC,3
+20271098,11/9/2013,D-III,Catholic,Guilford,RECEIVING,Tucker,Hubbell,YDS,22
+20271099,11/9/2013,D-III,Catholic,Guilford,RECEIVING,Tucker,Hubbell,TD,0
+20271100,11/9/2013,D-III,Catholic,Guilford,RECEIVING,Tucker,Hubbell,LONG,9
+20271101,11/9/2013,D-III,Catholic,Guilford,RECEIVING,M,Pitsenberger,REC,2
+20271102,11/9/2013,D-III,Catholic,Guilford,RECEIVING,M,Pitsenberger,YDS,17
+20271103,11/9/2013,D-III,Catholic,Guilford,RECEIVING,M,Pitsenberger,TD,1
+20271104,11/9/2013,D-III,Catholic,Guilford,RECEIVING,M,Pitsenberger,LONG,14
+20271105,11/9/2013,D-III,Catholic,Guilford,RECEIVING,Nick,Cortese,REC,1
+20271106,11/9/2013,D-III,Catholic,Guilford,RECEIVING,Nick,Cortese,YDS,7
+20271107,11/9/2013,D-III,Catholic,Guilford,RECEIVING,Nick,Cortese,TD,1
+20271108,11/9/2013,D-III,Catholic,Guilford,RECEIVING,Nick,Cortese,LONG,7
+20271109,11/9/2013,D-III,Catholic,Guilford,RECEIVING,Alex,Evans,REC,3
+20271110,11/9/2013,D-III,Catholic,Guilford,RECEIVING,Alex,Evans,YDS,19
+20271111,11/9/2013,D-III,Catholic,Guilford,RECEIVING,Alex,Evans,TD,1
+20271112,11/9/2013,D-III,Catholic,Guilford,RECEIVING,Alex,Evans,LONG,8
+20271113,11/9/2013,D-III,Catholic,Guilford,PUNTING,Conor,Creagan,NO,2
+20271114,11/9/2013,D-III,Catholic,Guilford,PUNTING,Conor,Creagan,YDS,73
+20271115,11/9/2013,D-III,Catholic,Guilford,PUNTING,Conor,Creagan,AVG,36.5
+20271116,11/9/2013,D-III,Catholic,Guilford,PUNTING,Conor,Creagan,LONG,38
+20271117,11/9/2013,D-III,Catholic,Guilford,PUNT RETURNS,Richard,Roach,NO,1
+20271118,11/9/2013,D-III,Catholic,Guilford,PUNT RETURNS,Richard,Roach,YDS,9
+20271119,11/9/2013,D-III,Catholic,Guilford,PUNT RETURNS,Richard,Roach,AVG,9.0
+20271120,11/9/2013,D-III,Catholic,Guilford,PUNT RETURNS,Richard,Roach,LONG,9
+20271121,11/9/2013,D-III,Catholic,Guilford,PUNT RETURNS,A,Oullette,NO,1
+20271122,11/9/2013,D-III,Catholic,Guilford,PUNT RETURNS,A,Oullette,YDS,-7
+20271123,11/9/2013,D-III,Catholic,Guilford,PUNT RETURNS,A,Oullette,AVG,-7.0
+20271124,11/9/2013,D-III,Catholic,Guilford,PUNT RETURNS,A,Oullette,LONG,2
+20271125,11/9/2013,D-III,Catholic,Guilford,PUNT RETURNS,Mark,Dimatteo,NO,1
+20271126,11/9/2013,D-III,Catholic,Guilford,PUNT RETURNS,Mark,Dimatteo,YDS,0
+20271127,11/9/2013,D-III,Catholic,Guilford,PUNT RETURNS,Mark,Dimatteo,AVG,0.0
+20271128,11/9/2013,D-III,Catholic,Guilford,PUNT RETURNS,Mark,Dimatteo,LONG,0
+20271129,11/9/2013,D-III,Catholic,Guilford,KICK RETURNS,A,Oullette,NO,3
+20271130,11/9/2013,D-III,Catholic,Guilford,KICK RETURNS,A,Oullette,YDS,54
+20271131,11/9/2013,D-III,Catholic,Guilford,KICK RETURNS,A,Oullette,AVG,18.0
+20271132,11/9/2013,D-III,Catholic,Guilford,KICK RETURNS,A,Oullette,LONG,29

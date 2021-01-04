@@ -1,0 +1,97 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+19964001,10/18/2013,D-III,Macalester,Chicago,RUSHING,,Team,ATT,10
+19964002,10/18/2013,D-III,Macalester,Chicago,RUSHING,,Team,YDS,122
+19964003,10/18/2013,D-III,Macalester,Chicago,RUSHING,,Team,TD,1
+19964004,10/18/2013,D-III,Macalester,Chicago,RUSHING,,Team,LONG,62
+19964005,10/18/2013,D-III,Macalester,Chicago,PASSING,,Team,CP-ATT-INT,15-28-2
+19964006,10/18/2013,D-III,Macalester,Chicago,PASSING,,Team,YDS,108
+19964007,10/18/2013,D-III,Macalester,Chicago,PASSING,,Team,TD,0
+19964008,10/18/2013,D-III,Macalester,Chicago,PASSING,,Team,LONG,19
+19964009,10/18/2013,D-III,Macalester,Chicago,RECEIVING,,Team,REC,1
+19964010,10/18/2013,D-III,Macalester,Chicago,RECEIVING,,Team,YDS,6
+19964011,10/18/2013,D-III,Macalester,Chicago,RECEIVING,,Team,TD,0
+19964012,10/18/2013,D-III,Macalester,Chicago,RECEIVING,,Team,LONG,6
+19964013,10/18/2013,D-III,Macalester,Chicago,RECEIVING,J,Johnson,REC,3
+19964014,10/18/2013,D-III,Macalester,Chicago,RECEIVING,J,Johnson,YDS,34
+19964015,10/18/2013,D-III,Macalester,Chicago,RECEIVING,J,Johnson,TD,0
+19964016,10/18/2013,D-III,Macalester,Chicago,RECEIVING,J,Johnson,LONG,19
+19964017,10/18/2013,D-III,Macalester,Chicago,RECEIVING,,Team,REC,3
+19964018,10/18/2013,D-III,Macalester,Chicago,RECEIVING,,Team,YDS,27
+19964019,10/18/2013,D-III,Macalester,Chicago,RECEIVING,,Team,TD,0
+19964020,10/18/2013,D-III,Macalester,Chicago,RECEIVING,,Team,LONG,16
+19964021,10/18/2013,D-III,Macalester,Chicago,PUNTING,,Team,NO,6
+19964022,10/18/2013,D-III,Macalester,Chicago,PUNTING,,Team,YDS,223
+19964023,10/18/2013,D-III,Macalester,Chicago,PUNTING,,Team,AVG,37.2
+19964024,10/18/2013,D-III,Macalester,Chicago,PUNTING,,Team,LONG,44
+19964025,10/18/2013,D-III,Macalester,Chicago,PUNT RETURNS,,Team,NO,2
+19964026,10/18/2013,D-III,Macalester,Chicago,PUNT RETURNS,,Team,YDS,10
+19964027,10/18/2013,D-III,Macalester,Chicago,PUNT RETURNS,,Team,AVG,5.0
+19964028,10/18/2013,D-III,Macalester,Chicago,PUNT RETURNS,,Team,LONG,7
+19964029,10/18/2013,D-III,Macalester,Chicago,KICK RETURNS,,Team,NO,3
+19964030,10/18/2013,D-III,Macalester,Chicago,KICK RETURNS,,Team,YDS,53
+19964031,10/18/2013,D-III,Macalester,Chicago,KICK RETURNS,,Team,AVG,17.7
+19964032,10/18/2013,D-III,Macalester,Chicago,KICK RETURNS,,Team,LONG,24
+19964033,10/18/2013,D-III,Macalester,Chicago,KICK RETURNS,K,Fleming,NO,3
+19964034,10/18/2013,D-III,Macalester,Chicago,KICK RETURNS,K,Fleming,YDS,45
+19964035,10/18/2013,D-III,Macalester,Chicago,KICK RETURNS,K,Fleming,AVG,15.0
+19964036,10/18/2013,D-III,Macalester,Chicago,KICK RETURNS,K,Fleming,LONG,16
+19964037,10/18/2013,D-III,Chicago,Macalester,RUSHING,Ian,Gaines,ATT,20
+19964038,10/18/2013,D-III,Chicago,Macalester,RUSHING,Ian,Gaines,YDS,75
+19964039,10/18/2013,D-III,Chicago,Macalester,RUSHING,Ian,Gaines,TD,0
+19964040,10/18/2013,D-III,Chicago,Macalester,RUSHING,Ian,Gaines,LONG,12
+19964041,10/18/2013,D-III,Chicago,Macalester,RUSHING,Vincent,Cortina,ATT,3
+19964042,10/18/2013,D-III,Chicago,Macalester,RUSHING,Vincent,Cortina,YDS,-3
+19964043,10/18/2013,D-III,Chicago,Macalester,RUSHING,Vincent,Cortina,TD,0
+19964044,10/18/2013,D-III,Chicago,Macalester,RUSHING,Vincent,Cortina,LONG,1
+19964045,10/18/2013,D-III,Chicago,Macalester,RUSHING,Syd,Reynolds,ATT,1
+19964046,10/18/2013,D-III,Chicago,Macalester,RUSHING,Syd,Reynolds,YDS,6
+19964047,10/18/2013,D-III,Chicago,Macalester,RUSHING,Syd,Reynolds,TD,0
+19964048,10/18/2013,D-III,Chicago,Macalester,RUSHING,Syd,Reynolds,LONG,6
+19964049,10/18/2013,D-III,Chicago,Macalester,RUSHING,Tom,Brutofsky,ATT,3
+19964050,10/18/2013,D-III,Chicago,Macalester,RUSHING,Tom,Brutofsky,YDS,9
+19964051,10/18/2013,D-III,Chicago,Macalester,RUSHING,Tom,Brutofsky,TD,0
+19964052,10/18/2013,D-III,Chicago,Macalester,RUSHING,Tom,Brutofsky,LONG,4
+19964053,10/18/2013,D-III,Chicago,Macalester,RUSHING,Zak,Ross-nash,ATT,21
+19964054,10/18/2013,D-III,Chicago,Macalester,RUSHING,Zak,Ross-nash,YDS,49
+19964055,10/18/2013,D-III,Chicago,Macalester,RUSHING,Zak,Ross-nash,TD,0
+19964056,10/18/2013,D-III,Chicago,Macalester,RUSHING,Zak,Ross-nash,LONG,13
+19964057,10/18/2013,D-III,Chicago,Macalester,PASSING,Vincent,Cortina,CP-ATT-INT,12-23-0
+19964058,10/18/2013,D-III,Chicago,Macalester,PASSING,Vincent,Cortina,YDS,150
+19964059,10/18/2013,D-III,Chicago,Macalester,PASSING,Vincent,Cortina,TD,3
+19964060,10/18/2013,D-III,Chicago,Macalester,PASSING,Vincent,Cortina,LONG,41
+19964061,10/18/2013,D-III,Chicago,Macalester,RECEIVING,Sam,Coleman,REC,2
+19964062,10/18/2013,D-III,Chicago,Macalester,RECEIVING,Sam,Coleman,YDS,50
+19964063,10/18/2013,D-III,Chicago,Macalester,RECEIVING,Sam,Coleman,TD,0
+19964064,10/18/2013,D-III,Chicago,Macalester,RECEIVING,Sam,Coleman,LONG,41
+19964065,10/18/2013,D-III,Chicago,Macalester,RECEIVING,Colin,Macri,REC,2
+19964066,10/18/2013,D-III,Chicago,Macalester,RECEIVING,Colin,Macri,YDS,43
+19964067,10/18/2013,D-III,Chicago,Macalester,RECEIVING,Colin,Macri,TD,0
+19964068,10/18/2013,D-III,Chicago,Macalester,RECEIVING,Colin,Macri,LONG,36
+19964069,10/18/2013,D-III,Chicago,Macalester,RECEIVING,Tom,Bemenderfer,REC,1
+19964070,10/18/2013,D-III,Chicago,Macalester,RECEIVING,Tom,Bemenderfer,YDS,11
+19964071,10/18/2013,D-III,Chicago,Macalester,RECEIVING,Tom,Bemenderfer,TD,0
+19964072,10/18/2013,D-III,Chicago,Macalester,RECEIVING,Tom,Bemenderfer,LONG,11
+19964073,10/18/2013,D-III,Chicago,Macalester,RECEIVING,Cole,Thoms,REC,6
+19964074,10/18/2013,D-III,Chicago,Macalester,RECEIVING,Cole,Thoms,YDS,42
+19964075,10/18/2013,D-III,Chicago,Macalester,RECEIVING,Cole,Thoms,TD,2
+19964076,10/18/2013,D-III,Chicago,Macalester,RECEIVING,Cole,Thoms,LONG,11
+19964077,10/18/2013,D-III,Chicago,Macalester,RECEIVING,Bryan,Tisdale,REC,1
+19964078,10/18/2013,D-III,Chicago,Macalester,RECEIVING,Bryan,Tisdale,YDS,4
+19964079,10/18/2013,D-III,Chicago,Macalester,RECEIVING,Bryan,Tisdale,TD,1
+19964080,10/18/2013,D-III,Chicago,Macalester,RECEIVING,Bryan,Tisdale,LONG,4
+19964081,10/18/2013,D-III,Chicago,Macalester,PUNTING,Vincent,Cortina,NO,2
+19964082,10/18/2013,D-III,Chicago,Macalester,PUNTING,Vincent,Cortina,YDS,90
+19964083,10/18/2013,D-III,Chicago,Macalester,PUNTING,Vincent,Cortina,AVG,45.0
+19964084,10/18/2013,D-III,Chicago,Macalester,PUNTING,Vincent,Cortina,LONG,53
+19964085,10/18/2013,D-III,Chicago,Macalester,PUNTING,Ben,Cheaney,NO,4
+19964086,10/18/2013,D-III,Chicago,Macalester,PUNTING,Ben,Cheaney,YDS,132
+19964087,10/18/2013,D-III,Chicago,Macalester,PUNTING,Ben,Cheaney,AVG,33.0
+19964088,10/18/2013,D-III,Chicago,Macalester,PUNTING,Ben,Cheaney,LONG,40
+19964089,10/18/2013,D-III,Chicago,Macalester,PUNT RETURNS,V,Beltrano,NO,1
+19964090,10/18/2013,D-III,Chicago,Macalester,PUNT RETURNS,V,Beltrano,YDS,5
+19964091,10/18/2013,D-III,Chicago,Macalester,PUNT RETURNS,V,Beltrano,AVG,5.0
+19964092,10/18/2013,D-III,Chicago,Macalester,PUNT RETURNS,V,Beltrano,LONG,5
+19964093,10/18/2013,D-III,Chicago,Macalester,KICK RETURNS,V,Beltrano,NO,2
+19964094,10/18/2013,D-III,Chicago,Macalester,KICK RETURNS,V,Beltrano,YDS,41
+19964095,10/18/2013,D-III,Chicago,Macalester,KICK RETURNS,V,Beltrano,AVG,20.5
+19964096,10/18/2013,D-III,Chicago,Macalester,KICK RETURNS,V,Beltrano,LONG,22

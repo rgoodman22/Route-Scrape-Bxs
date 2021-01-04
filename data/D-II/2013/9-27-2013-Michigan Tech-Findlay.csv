@@ -1,0 +1,117 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+12765001,9/27/2013,D-II,Michigan Tech,Findlay,RUSHING,J,Mcconnell,ATT,1
+12765002,9/27/2013,D-II,Michigan Tech,Findlay,RUSHING,J,Mcconnell,YDS,3
+12765003,9/27/2013,D-II,Michigan Tech,Findlay,RUSHING,J,Mcconnell,TD,0
+12765004,9/27/2013,D-II,Michigan Tech,Findlay,RUSHING,J,Mcconnell,LONG,3
+12765005,9/27/2013,D-II,Michigan Tech,Findlay,RUSHING,Tyler,Scarlett,ATT,7
+12765006,9/27/2013,D-II,Michigan Tech,Findlay,RUSHING,Tyler,Scarlett,YDS,-11
+12765007,9/27/2013,D-II,Michigan Tech,Findlay,RUSHING,Tyler,Scarlett,TD,0
+12765008,9/27/2013,D-II,Michigan Tech,Findlay,RUSHING,Tyler,Scarlett,LONG,8
+12765009,9/27/2013,D-II,Michigan Tech,Findlay,RUSHING,C,Leffingwell,ATT,19
+12765010,9/27/2013,D-II,Michigan Tech,Findlay,RUSHING,C,Leffingwell,YDS,81
+12765011,9/27/2013,D-II,Michigan Tech,Findlay,RUSHING,C,Leffingwell,TD,0
+12765012,9/27/2013,D-II,Michigan Tech,Findlay,RUSHING,C,Leffingwell,LONG,22
+12765013,9/27/2013,D-II,Michigan Tech,Findlay,RUSHING,,Team,ATT,1
+12765014,9/27/2013,D-II,Michigan Tech,Findlay,RUSHING,,Team,YDS,-11
+12765015,9/27/2013,D-II,Michigan Tech,Findlay,RUSHING,,Team,TD,0
+12765016,9/27/2013,D-II,Michigan Tech,Findlay,RUSHING,,Team,LONG,0
+12765017,9/27/2013,D-II,Michigan Tech,Findlay,PASSING,Tyler,Scarlett,CP-ATT-INT,27-52-1
+12765018,9/27/2013,D-II,Michigan Tech,Findlay,PASSING,Tyler,Scarlett,YDS,367
+12765019,9/27/2013,D-II,Michigan Tech,Findlay,PASSING,Tyler,Scarlett,TD,2
+12765020,9/27/2013,D-II,Michigan Tech,Findlay,PASSING,Tyler,Scarlett,LONG,34
+12765021,9/27/2013,D-II,Michigan Tech,Findlay,RECEIVING,J,Mcconnell,REC,2
+12765022,9/27/2013,D-II,Michigan Tech,Findlay,RECEIVING,J,Mcconnell,YDS,33
+12765023,9/27/2013,D-II,Michigan Tech,Findlay,RECEIVING,J,Mcconnell,TD,0
+12765024,9/27/2013,D-II,Michigan Tech,Findlay,RECEIVING,J,Mcconnell,LONG,23
+12765025,9/27/2013,D-II,Michigan Tech,Findlay,RECEIVING,Brandon,Cowie,REC,11
+12765026,9/27/2013,D-II,Michigan Tech,Findlay,RECEIVING,Brandon,Cowie,YDS,142
+12765027,9/27/2013,D-II,Michigan Tech,Findlay,RECEIVING,Brandon,Cowie,TD,0
+12765028,9/27/2013,D-II,Michigan Tech,Findlay,RECEIVING,Brandon,Cowie,LONG,33
+12765029,9/27/2013,D-II,Michigan Tech,Findlay,RECEIVING,C,Leffingwell,REC,4
+12765030,9/27/2013,D-II,Michigan Tech,Findlay,RECEIVING,C,Leffingwell,YDS,19
+12765031,9/27/2013,D-II,Michigan Tech,Findlay,RECEIVING,C,Leffingwell,TD,0
+12765032,9/27/2013,D-II,Michigan Tech,Findlay,RECEIVING,C,Leffingwell,LONG,9
+12765033,9/27/2013,D-II,Michigan Tech,Findlay,RECEIVING,Anthony,Root,REC,4
+12765034,9/27/2013,D-II,Michigan Tech,Findlay,RECEIVING,Anthony,Root,YDS,85
+12765035,9/27/2013,D-II,Michigan Tech,Findlay,RECEIVING,Anthony,Root,TD,1
+12765036,9/27/2013,D-II,Michigan Tech,Findlay,RECEIVING,Anthony,Root,LONG,34
+12765037,9/27/2013,D-II,Michigan Tech,Findlay,RECEIVING,Andrew,Clark,REC,5
+12765038,9/27/2013,D-II,Michigan Tech,Findlay,RECEIVING,Andrew,Clark,YDS,65
+12765039,9/27/2013,D-II,Michigan Tech,Findlay,RECEIVING,Andrew,Clark,TD,0
+12765040,9/27/2013,D-II,Michigan Tech,Findlay,RECEIVING,Andrew,Clark,LONG,20
+12765041,9/27/2013,D-II,Michigan Tech,Findlay,RECEIVING,Ian,Wienke,REC,1
+12765042,9/27/2013,D-II,Michigan Tech,Findlay,RECEIVING,Ian,Wienke,YDS,23
+12765043,9/27/2013,D-II,Michigan Tech,Findlay,RECEIVING,Ian,Wienke,TD,1
+12765044,9/27/2013,D-II,Michigan Tech,Findlay,RECEIVING,Ian,Wienke,LONG,23
+12765045,9/27/2013,D-II,Michigan Tech,Findlay,PUNTING,Jordan,Ledvina,NO,2
+12765046,9/27/2013,D-II,Michigan Tech,Findlay,PUNTING,Jordan,Ledvina,YDS,84
+12765047,9/27/2013,D-II,Michigan Tech,Findlay,PUNTING,Jordan,Ledvina,AVG,42.0
+12765048,9/27/2013,D-II,Michigan Tech,Findlay,PUNTING,Jordan,Ledvina,LONG,47
+12765049,9/27/2013,D-II,Michigan Tech,Findlay,PUNT RETURNS,Brett,Gervais,NO,1
+12765050,9/27/2013,D-II,Michigan Tech,Findlay,PUNT RETURNS,Brett,Gervais,YDS,10
+12765051,9/27/2013,D-II,Michigan Tech,Findlay,PUNT RETURNS,Brett,Gervais,AVG,10.0
+12765052,9/27/2013,D-II,Michigan Tech,Findlay,PUNT RETURNS,Brett,Gervais,LONG,10
+12765053,9/27/2013,D-II,Michigan Tech,Findlay,KICK RETURNS,Anthony,Root,NO,3
+12765054,9/27/2013,D-II,Michigan Tech,Findlay,KICK RETURNS,Anthony,Root,YDS,19
+12765055,9/27/2013,D-II,Michigan Tech,Findlay,KICK RETURNS,Anthony,Root,AVG,6.3
+12765056,9/27/2013,D-II,Michigan Tech,Findlay,KICK RETURNS,Anthony,Root,LONG,19
+12765057,9/27/2013,D-II,Michigan Tech,Findlay,KICK RETURNS,Jacob,Mineau,NO,2
+12765058,9/27/2013,D-II,Michigan Tech,Findlay,KICK RETURNS,Jacob,Mineau,YDS,60
+12765059,9/27/2013,D-II,Michigan Tech,Findlay,KICK RETURNS,Jacob,Mineau,AVG,30.0
+12765060,9/27/2013,D-II,Michigan Tech,Findlay,KICK RETURNS,Jacob,Mineau,LONG,31
+12765061,9/27/2013,D-II,Findlay,Michigan Tech,RUSHING,Verlon,Reed,ATT,13
+12765062,9/27/2013,D-II,Findlay,Michigan Tech,RUSHING,Verlon,Reed,YDS,156
+12765063,9/27/2013,D-II,Findlay,Michigan Tech,RUSHING,Verlon,Reed,TD,2
+12765064,9/27/2013,D-II,Findlay,Michigan Tech,RUSHING,Verlon,Reed,LONG,79
+12765065,9/27/2013,D-II,Findlay,Michigan Tech,RUSHING,Daiquone,Ford,ATT,27
+12765066,9/27/2013,D-II,Findlay,Michigan Tech,RUSHING,Daiquone,Ford,YDS,145
+12765067,9/27/2013,D-II,Findlay,Michigan Tech,RUSHING,Daiquone,Ford,TD,1
+12765068,9/27/2013,D-II,Findlay,Michigan Tech,RUSHING,Daiquone,Ford,LONG,25
+12765069,9/27/2013,D-II,Findlay,Michigan Tech,RUSHING,Ross,Franklin,ATT,2
+12765070,9/27/2013,D-II,Findlay,Michigan Tech,RUSHING,Ross,Franklin,YDS,5
+12765071,9/27/2013,D-II,Findlay,Michigan Tech,RUSHING,Ross,Franklin,TD,0
+12765072,9/27/2013,D-II,Findlay,Michigan Tech,RUSHING,Ross,Franklin,LONG,4
+12765073,9/27/2013,D-II,Findlay,Michigan Tech,RUSHING,Anthony,Linnear,ATT,3
+12765074,9/27/2013,D-II,Findlay,Michigan Tech,RUSHING,Anthony,Linnear,YDS,18
+12765075,9/27/2013,D-II,Findlay,Michigan Tech,RUSHING,Anthony,Linnear,TD,0
+12765076,9/27/2013,D-II,Findlay,Michigan Tech,RUSHING,Anthony,Linnear,LONG,11
+12765077,9/27/2013,D-II,Findlay,Michigan Tech,RUSHING,,Team,ATT,1
+12765078,9/27/2013,D-II,Findlay,Michigan Tech,RUSHING,,Team,YDS,-5
+12765079,9/27/2013,D-II,Findlay,Michigan Tech,RUSHING,,Team,TD,0
+12765080,9/27/2013,D-II,Findlay,Michigan Tech,RUSHING,,Team,LONG,0
+12765081,9/27/2013,D-II,Findlay,Michigan Tech,PASSING,Verlon,Reed,CP-ATT-INT,13-19-0
+12765082,9/27/2013,D-II,Findlay,Michigan Tech,PASSING,Verlon,Reed,YDS,166
+12765083,9/27/2013,D-II,Findlay,Michigan Tech,PASSING,Verlon,Reed,TD,2
+12765084,9/27/2013,D-II,Findlay,Michigan Tech,PASSING,Verlon,Reed,LONG,35
+12765085,9/27/2013,D-II,Findlay,Michigan Tech,RECEIVING,Daiquone,Ford,REC,2
+12765086,9/27/2013,D-II,Findlay,Michigan Tech,RECEIVING,Daiquone,Ford,YDS,7
+12765087,9/27/2013,D-II,Findlay,Michigan Tech,RECEIVING,Daiquone,Ford,TD,0
+12765088,9/27/2013,D-II,Findlay,Michigan Tech,RECEIVING,Daiquone,Ford,LONG,8
+12765089,9/27/2013,D-II,Findlay,Michigan Tech,RECEIVING,Seth,White,REC,4
+12765090,9/27/2013,D-II,Findlay,Michigan Tech,RECEIVING,Seth,White,YDS,100
+12765091,9/27/2013,D-II,Findlay,Michigan Tech,RECEIVING,Seth,White,TD,1
+12765092,9/27/2013,D-II,Findlay,Michigan Tech,RECEIVING,Seth,White,LONG,35
+12765093,9/27/2013,D-II,Findlay,Michigan Tech,RECEIVING,Lloyd,Henry,REC,3
+12765094,9/27/2013,D-II,Findlay,Michigan Tech,RECEIVING,Lloyd,Henry,YDS,24
+12765095,9/27/2013,D-II,Findlay,Michigan Tech,RECEIVING,Lloyd,Henry,TD,1
+12765096,9/27/2013,D-II,Findlay,Michigan Tech,RECEIVING,Lloyd,Henry,LONG,12
+12765097,9/27/2013,D-II,Findlay,Michigan Tech,RECEIVING,Jaryd,Brown,REC,4
+12765098,9/27/2013,D-II,Findlay,Michigan Tech,RECEIVING,Jaryd,Brown,YDS,35
+12765099,9/27/2013,D-II,Findlay,Michigan Tech,RECEIVING,Jaryd,Brown,TD,0
+12765100,9/27/2013,D-II,Findlay,Michigan Tech,RECEIVING,Jaryd,Brown,LONG,13
+12765101,9/27/2013,D-II,Findlay,Michigan Tech,PUNTING,Seth,White,NO,5
+12765102,9/27/2013,D-II,Findlay,Michigan Tech,PUNTING,Seth,White,YDS,197
+12765103,9/27/2013,D-II,Findlay,Michigan Tech,PUNTING,Seth,White,AVG,39.4
+12765104,9/27/2013,D-II,Findlay,Michigan Tech,PUNTING,Seth,White,LONG,43
+12765105,9/27/2013,D-II,Findlay,Michigan Tech,PUNT RETURNS,D,Trapps,NO,2
+12765106,9/27/2013,D-II,Findlay,Michigan Tech,PUNT RETURNS,D,Trapps,YDS,15
+12765107,9/27/2013,D-II,Findlay,Michigan Tech,PUNT RETURNS,D,Trapps,AVG,7.5
+12765108,9/27/2013,D-II,Findlay,Michigan Tech,PUNT RETURNS,D,Trapps,LONG,13
+12765109,9/27/2013,D-II,Findlay,Michigan Tech,KICK RETURNS,D,Trapps,NO,3
+12765110,9/27/2013,D-II,Findlay,Michigan Tech,KICK RETURNS,D,Trapps,YDS,64
+12765111,9/27/2013,D-II,Findlay,Michigan Tech,KICK RETURNS,D,Trapps,AVG,21.3
+12765112,9/27/2013,D-II,Findlay,Michigan Tech,KICK RETURNS,D,Trapps,LONG,25
+12765113,9/27/2013,D-II,Findlay,Michigan Tech,KICK RETURNS,Tory,Clark,NO,2
+12765114,9/27/2013,D-II,Findlay,Michigan Tech,KICK RETURNS,Tory,Clark,YDS,50
+12765115,9/27/2013,D-II,Findlay,Michigan Tech,KICK RETURNS,Tory,Clark,AVG,25.0
+12765116,9/27/2013,D-II,Findlay,Michigan Tech,KICK RETURNS,Tory,Clark,LONG,26

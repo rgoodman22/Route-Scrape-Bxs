@@ -1,0 +1,105 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+20123001,10/25/2013,D-III,Husson,Gallaudet,RUSHING,Ryan,Dorso,ATT,5
+20123002,10/25/2013,D-III,Husson,Gallaudet,RUSHING,Ryan,Dorso,YDS,12
+20123003,10/25/2013,D-III,Husson,Gallaudet,RUSHING,Ryan,Dorso,TD,0
+20123004,10/25/2013,D-III,Husson,Gallaudet,RUSHING,Ryan,Dorso,LONG,9
+20123005,10/25/2013,D-III,Husson,Gallaudet,RUSHING,S,Mcintosh,ATT,3
+20123006,10/25/2013,D-III,Husson,Gallaudet,RUSHING,S,Mcintosh,YDS,30
+20123007,10/25/2013,D-III,Husson,Gallaudet,RUSHING,S,Mcintosh,TD,1
+20123008,10/25/2013,D-III,Husson,Gallaudet,RUSHING,S,Mcintosh,LONG,22
+20123009,10/25/2013,D-III,Husson,Gallaudet,RUSHING,Joe,Seccareccia,ATT,13
+20123010,10/25/2013,D-III,Husson,Gallaudet,RUSHING,Joe,Seccareccia,YDS,-8
+20123011,10/25/2013,D-III,Husson,Gallaudet,RUSHING,Joe,Seccareccia,TD,0
+20123012,10/25/2013,D-III,Husson,Gallaudet,RUSHING,Joe,Seccareccia,LONG,10
+20123013,10/25/2013,D-III,Husson,Gallaudet,RUSHING,Byron,Jackson,ATT,16
+20123014,10/25/2013,D-III,Husson,Gallaudet,RUSHING,Byron,Jackson,YDS,111
+20123015,10/25/2013,D-III,Husson,Gallaudet,RUSHING,Byron,Jackson,TD,1
+20123016,10/25/2013,D-III,Husson,Gallaudet,RUSHING,Byron,Jackson,LONG,64
+20123017,10/25/2013,D-III,Husson,Gallaudet,RUSHING,Kyle,Mckinnon,ATT,5
+20123018,10/25/2013,D-III,Husson,Gallaudet,RUSHING,Kyle,Mckinnon,YDS,12
+20123019,10/25/2013,D-III,Husson,Gallaudet,RUSHING,Kyle,Mckinnon,TD,0
+20123020,10/25/2013,D-III,Husson,Gallaudet,RUSHING,Kyle,Mckinnon,LONG,7
+20123021,10/25/2013,D-III,Husson,Gallaudet,PASSING,Ryan,Stroud,CP-ATT-INT,0-1-0
+20123022,10/25/2013,D-III,Husson,Gallaudet,PASSING,Ryan,Stroud,YDS,0
+20123023,10/25/2013,D-III,Husson,Gallaudet,PASSING,Ryan,Stroud,TD,0
+20123024,10/25/2013,D-III,Husson,Gallaudet,PASSING,Ryan,Stroud,LONG,0
+20123025,10/25/2013,D-III,Husson,Gallaudet,PASSING,Joe,Seccareccia,CP-ATT-INT,2-13-3
+20123026,10/25/2013,D-III,Husson,Gallaudet,PASSING,Joe,Seccareccia,YDS,19
+20123027,10/25/2013,D-III,Husson,Gallaudet,PASSING,Joe,Seccareccia,TD,0
+20123028,10/25/2013,D-III,Husson,Gallaudet,PASSING,Joe,Seccareccia,LONG,12
+20123029,10/25/2013,D-III,Husson,Gallaudet,RECEIVING,Josiah,Hartley,REC,2
+20123030,10/25/2013,D-III,Husson,Gallaudet,RECEIVING,Josiah,Hartley,YDS,19
+20123031,10/25/2013,D-III,Husson,Gallaudet,RECEIVING,Josiah,Hartley,TD,0
+20123032,10/25/2013,D-III,Husson,Gallaudet,RECEIVING,Josiah,Hartley,LONG,12
+20123033,10/25/2013,D-III,Husson,Gallaudet,PUNTING,Devin,Sherman,NO,1
+20123034,10/25/2013,D-III,Husson,Gallaudet,PUNTING,Devin,Sherman,YDS,36
+20123035,10/25/2013,D-III,Husson,Gallaudet,PUNTING,Devin,Sherman,AVG,36.0
+20123036,10/25/2013,D-III,Husson,Gallaudet,PUNTING,Devin,Sherman,LONG,36
+20123037,10/25/2013,D-III,Husson,Gallaudet,PUNTING,Reece,Attard,NO,5
+20123038,10/25/2013,D-III,Husson,Gallaudet,PUNTING,Reece,Attard,YDS,250
+20123039,10/25/2013,D-III,Husson,Gallaudet,PUNTING,Reece,Attard,AVG,50.0
+20123040,10/25/2013,D-III,Husson,Gallaudet,PUNTING,Reece,Attard,LONG,67
+20123041,10/25/2013,D-III,Husson,Gallaudet,KICK RETURNS,Ryan,Dorso,NO,1
+20123042,10/25/2013,D-III,Husson,Gallaudet,KICK RETURNS,Ryan,Dorso,YDS,21
+20123043,10/25/2013,D-III,Husson,Gallaudet,KICK RETURNS,Ryan,Dorso,AVG,21.0
+20123044,10/25/2013,D-III,Husson,Gallaudet,KICK RETURNS,Ryan,Dorso,LONG,21
+20123045,10/25/2013,D-III,Gallaudet,Husson,RUSHING,Q,Williams,ATT,8
+20123046,10/25/2013,D-III,Gallaudet,Husson,RUSHING,Q,Williams,YDS,7
+20123047,10/25/2013,D-III,Gallaudet,Husson,RUSHING,Q,Williams,TD,0
+20123048,10/25/2013,D-III,Gallaudet,Husson,RUSHING,Q,Williams,LONG,6
+20123049,10/25/2013,D-III,Gallaudet,Husson,RUSHING,John,Anderson,ATT,1
+20123050,10/25/2013,D-III,Gallaudet,Husson,RUSHING,John,Anderson,YDS,1
+20123051,10/25/2013,D-III,Gallaudet,Husson,RUSHING,John,Anderson,TD,0
+20123052,10/25/2013,D-III,Gallaudet,Husson,RUSHING,John,Anderson,LONG,1
+20123053,10/25/2013,D-III,Gallaudet,Husson,RUSHING,Ryan,Bonheyo,ATT,8
+20123054,10/25/2013,D-III,Gallaudet,Husson,RUSHING,Ryan,Bonheyo,YDS,46
+20123055,10/25/2013,D-III,Gallaudet,Husson,RUSHING,Ryan,Bonheyo,TD,0
+20123056,10/25/2013,D-III,Gallaudet,Husson,RUSHING,Ryan,Bonheyo,LONG,26
+20123057,10/25/2013,D-III,Gallaudet,Husson,RUSHING,Todd,Bonheyo,ATT,16
+20123058,10/25/2013,D-III,Gallaudet,Husson,RUSHING,Todd,Bonheyo,YDS,28
+20123059,10/25/2013,D-III,Gallaudet,Husson,RUSHING,Todd,Bonheyo,TD,0
+20123060,10/25/2013,D-III,Gallaudet,Husson,RUSHING,Todd,Bonheyo,LONG,17
+20123061,10/25/2013,D-III,Gallaudet,Husson,RUSHING,Chris,Papacek,ATT,1
+20123062,10/25/2013,D-III,Gallaudet,Husson,RUSHING,Chris,Papacek,YDS,18
+20123063,10/25/2013,D-III,Gallaudet,Husson,RUSHING,Chris,Papacek,TD,0
+20123064,10/25/2013,D-III,Gallaudet,Husson,RUSHING,Chris,Papacek,LONG,18
+20123065,10/25/2013,D-III,Gallaudet,Husson,RUSHING,Braxton,Baker,ATT,2
+20123066,10/25/2013,D-III,Gallaudet,Husson,RUSHING,Braxton,Baker,YDS,3
+20123067,10/25/2013,D-III,Gallaudet,Husson,RUSHING,Braxton,Baker,TD,1
+20123068,10/25/2013,D-III,Gallaudet,Husson,RUSHING,Braxton,Baker,LONG,2
+20123069,10/25/2013,D-III,Gallaudet,Husson,RUSHING,Bj,Flores,ATT,19
+20123070,10/25/2013,D-III,Gallaudet,Husson,RUSHING,Bj,Flores,YDS,63
+20123071,10/25/2013,D-III,Gallaudet,Husson,RUSHING,Bj,Flores,TD,0
+20123072,10/25/2013,D-III,Gallaudet,Husson,RUSHING,Bj,Flores,LONG,10
+20123073,10/25/2013,D-III,Gallaudet,Husson,RUSHING,Justin,Ewing,ATT,1
+20123074,10/25/2013,D-III,Gallaudet,Husson,RUSHING,Justin,Ewing,YDS,5
+20123075,10/25/2013,D-III,Gallaudet,Husson,RUSHING,Justin,Ewing,TD,0
+20123076,10/25/2013,D-III,Gallaudet,Husson,RUSHING,Justin,Ewing,LONG,5
+20123077,10/25/2013,D-III,Gallaudet,Husson,RUSHING,,Team,ATT,3
+20123078,10/25/2013,D-III,Gallaudet,Husson,RUSHING,,Team,YDS,-5
+20123079,10/25/2013,D-III,Gallaudet,Husson,RUSHING,,Team,TD,0
+20123080,10/25/2013,D-III,Gallaudet,Husson,RUSHING,,Team,LONG,0
+20123081,10/25/2013,D-III,Gallaudet,Husson,PASSING,Todd,Bonheyo,CP-ATT-INT,3-7-0
+20123082,10/25/2013,D-III,Gallaudet,Husson,PASSING,Todd,Bonheyo,YDS,94
+20123083,10/25/2013,D-III,Gallaudet,Husson,PASSING,Todd,Bonheyo,TD,1
+20123084,10/25/2013,D-III,Gallaudet,Husson,PASSING,Todd,Bonheyo,LONG,42
+20123085,10/25/2013,D-III,Gallaudet,Husson,RECEIVING,Ryan,Bonheyo,REC,1
+20123086,10/25/2013,D-III,Gallaudet,Husson,RECEIVING,Ryan,Bonheyo,YDS,42
+20123087,10/25/2013,D-III,Gallaudet,Husson,RECEIVING,Ryan,Bonheyo,TD,1
+20123088,10/25/2013,D-III,Gallaudet,Husson,RECEIVING,Ryan,Bonheyo,LONG,42
+20123089,10/25/2013,D-III,Gallaudet,Husson,RECEIVING,Braxton,Baker,REC,2
+20123090,10/25/2013,D-III,Gallaudet,Husson,RECEIVING,Braxton,Baker,YDS,52
+20123091,10/25/2013,D-III,Gallaudet,Husson,RECEIVING,Braxton,Baker,TD,0
+20123092,10/25/2013,D-III,Gallaudet,Husson,RECEIVING,Braxton,Baker,LONG,37
+20123093,10/25/2013,D-III,Gallaudet,Husson,PUNTING,Chase,Magsig,NO,6
+20123094,10/25/2013,D-III,Gallaudet,Husson,PUNTING,Chase,Magsig,YDS,249
+20123095,10/25/2013,D-III,Gallaudet,Husson,PUNTING,Chase,Magsig,AVG,41.5
+20123096,10/25/2013,D-III,Gallaudet,Husson,PUNTING,Chase,Magsig,LONG,66
+20123097,10/25/2013,D-III,Gallaudet,Husson,PUNT RETURNS,Ryan,Bonheyo,NO,3
+20123098,10/25/2013,D-III,Gallaudet,Husson,PUNT RETURNS,Ryan,Bonheyo,YDS,15
+20123099,10/25/2013,D-III,Gallaudet,Husson,PUNT RETURNS,Ryan,Bonheyo,AVG,5.0
+20123100,10/25/2013,D-III,Gallaudet,Husson,PUNT RETURNS,Ryan,Bonheyo,LONG,7
+20123101,10/25/2013,D-III,Gallaudet,Husson,KICK RETURNS,Nicholas,Elstad,NO,1
+20123102,10/25/2013,D-III,Gallaudet,Husson,KICK RETURNS,Nicholas,Elstad,YDS,22
+20123103,10/25/2013,D-III,Gallaudet,Husson,KICK RETURNS,Nicholas,Elstad,AVG,22.0
+20123104,10/25/2013,D-III,Gallaudet,Husson,KICK RETURNS,Nicholas,Elstad,LONG,22

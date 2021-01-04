@@ -1,0 +1,125 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+17134001,10/28/2017,D-II,Benedict,Albany State,RUSHING,P,Brown,ATT,10
+17134002,10/28/2017,D-II,Benedict,Albany State,RUSHING,P,Brown,YDS,40
+17134003,10/28/2017,D-II,Benedict,Albany State,RUSHING,P,Brown,TD,1
+17134004,10/28/2017,D-II,Benedict,Albany State,RUSHING,P,Brown,LONG,14
+17134005,10/28/2017,D-II,Benedict,Albany State,RUSHING,T,Charlton,ATT,15
+17134006,10/28/2017,D-II,Benedict,Albany State,RUSHING,T,Charlton,YDS,39
+17134007,10/28/2017,D-II,Benedict,Albany State,RUSHING,T,Charlton,TD,0
+17134008,10/28/2017,D-II,Benedict,Albany State,RUSHING,T,Charlton,LONG,12
+17134009,10/28/2017,D-II,Benedict,Albany State,RUSHING,B,Jordan,ATT,9
+17134010,10/28/2017,D-II,Benedict,Albany State,RUSHING,B,Jordan,YDS,27
+17134011,10/28/2017,D-II,Benedict,Albany State,RUSHING,B,Jordan,TD,1
+17134012,10/28/2017,D-II,Benedict,Albany State,RUSHING,B,Jordan,LONG,10
+17134013,10/28/2017,D-II,Benedict,Albany State,RUSHING,J,Johnson,ATT,5
+17134014,10/28/2017,D-II,Benedict,Albany State,RUSHING,J,Johnson,YDS,23
+17134015,10/28/2017,D-II,Benedict,Albany State,RUSHING,J,Johnson,TD,0
+17134016,10/28/2017,D-II,Benedict,Albany State,RUSHING,J,Johnson,LONG,8
+17134017,10/28/2017,D-II,Benedict,Albany State,RUSHING,D,Mcclendon,ATT,4
+17134018,10/28/2017,D-II,Benedict,Albany State,RUSHING,D,Mcclendon,YDS,14
+17134019,10/28/2017,D-II,Benedict,Albany State,RUSHING,D,Mcclendon,TD,0
+17134020,10/28/2017,D-II,Benedict,Albany State,RUSHING,D,Mcclendon,LONG,8
+17134021,10/28/2017,D-II,Benedict,Albany State,RUSHING,T,Steele,ATT,1
+17134022,10/28/2017,D-II,Benedict,Albany State,RUSHING,T,Steele,YDS,11
+17134023,10/28/2017,D-II,Benedict,Albany State,RUSHING,T,Steele,TD,0
+17134024,10/28/2017,D-II,Benedict,Albany State,RUSHING,T,Steele,LONG,11
+17134025,10/28/2017,D-II,Benedict,Albany State,RUSHING,,Team,ATT,2
+17134026,10/28/2017,D-II,Benedict,Albany State,RUSHING,,Team,YDS,-3
+17134027,10/28/2017,D-II,Benedict,Albany State,RUSHING,,Team,TD,0
+17134028,10/28/2017,D-II,Benedict,Albany State,RUSHING,,Team,LONG,0
+17134029,10/28/2017,D-II,Benedict,Albany State,RUSHING,D,Nelson,ATT,1
+17134030,10/28/2017,D-II,Benedict,Albany State,RUSHING,D,Nelson,YDS,-32
+17134031,10/28/2017,D-II,Benedict,Albany State,RUSHING,D,Nelson,TD,0
+17134032,10/28/2017,D-II,Benedict,Albany State,RUSHING,D,Nelson,LONG,0
+17134033,10/28/2017,D-II,Benedict,Albany State,PASSING,P,Brown,CP-ATT-INT,10-19-1
+17134034,10/28/2017,D-II,Benedict,Albany State,PASSING,P,Brown,YDS,117
+17134035,10/28/2017,D-II,Benedict,Albany State,PASSING,P,Brown,TD,0
+17134036,10/28/2017,D-II,Benedict,Albany State,PASSING,P,Brown,LONG,41
+17134037,10/28/2017,D-II,Benedict,Albany State,RECEIVING,J,Willis,REC,7
+17134038,10/28/2017,D-II,Benedict,Albany State,RECEIVING,J,Willis,YDS,69
+17134039,10/28/2017,D-II,Benedict,Albany State,RECEIVING,J,Willis,TD,0
+17134040,10/28/2017,D-II,Benedict,Albany State,RECEIVING,J,Willis,LONG,41
+17134041,10/28/2017,D-II,Benedict,Albany State,RECEIVING,O,Ntiasagwe,REC,1
+17134042,10/28/2017,D-II,Benedict,Albany State,RECEIVING,O,Ntiasagwe,YDS,38
+17134043,10/28/2017,D-II,Benedict,Albany State,RECEIVING,O,Ntiasagwe,TD,0
+17134044,10/28/2017,D-II,Benedict,Albany State,RECEIVING,O,Ntiasagwe,LONG,38
+17134045,10/28/2017,D-II,Benedict,Albany State,RECEIVING,D,Washington,REC,1
+17134046,10/28/2017,D-II,Benedict,Albany State,RECEIVING,D,Washington,YDS,7
+17134047,10/28/2017,D-II,Benedict,Albany State,RECEIVING,D,Washington,TD,0
+17134048,10/28/2017,D-II,Benedict,Albany State,RECEIVING,D,Washington,LONG,7
+17134049,10/28/2017,D-II,Benedict,Albany State,RECEIVING,T,Charlton,REC,1
+17134050,10/28/2017,D-II,Benedict,Albany State,RECEIVING,T,Charlton,YDS,3
+17134051,10/28/2017,D-II,Benedict,Albany State,RECEIVING,T,Charlton,TD,0
+17134052,10/28/2017,D-II,Benedict,Albany State,RECEIVING,T,Charlton,LONG,3
+17134053,10/28/2017,D-II,Benedict,Albany State,PUNTING,T,Mimbs,NO,4
+17134054,10/28/2017,D-II,Benedict,Albany State,PUNTING,T,Mimbs,YDS,164
+17134055,10/28/2017,D-II,Benedict,Albany State,PUNTING,T,Mimbs,AVG,41.0
+17134056,10/28/2017,D-II,Benedict,Albany State,PUNTING,T,Mimbs,LONG,44
+17134057,10/28/2017,D-II,Benedict,Albany State,KICK RETURNS,J,Willis,NO,2
+17134058,10/28/2017,D-II,Benedict,Albany State,KICK RETURNS,J,Willis,YDS,46
+17134059,10/28/2017,D-II,Benedict,Albany State,KICK RETURNS,J,Willis,AVG,23.0
+17134060,10/28/2017,D-II,Benedict,Albany State,KICK RETURNS,J,Willis,LONG,39
+17134061,10/28/2017,D-II,Albany State,Benedict,RUSHING,Chancel,Johnson,ATT,8
+17134062,10/28/2017,D-II,Albany State,Benedict,RUSHING,Chancel,Johnson,YDS,27
+17134063,10/28/2017,D-II,Albany State,Benedict,RUSHING,Chancel,Johnson,TD,0
+17134064,10/28/2017,D-II,Albany State,Benedict,RUSHING,Chancel,Johnson,LONG,31
+17134065,10/28/2017,D-II,Albany State,Benedict,RUSHING,Kelan,Fraise,ATT,5
+17134066,10/28/2017,D-II,Albany State,Benedict,RUSHING,Kelan,Fraise,YDS,23
+17134067,10/28/2017,D-II,Albany State,Benedict,RUSHING,Kelan,Fraise,TD,0
+17134068,10/28/2017,D-II,Albany State,Benedict,RUSHING,Kelan,Fraise,LONG,8
+17134069,10/28/2017,D-II,Albany State,Benedict,RUSHING,Kelias,Williams,ATT,5
+17134070,10/28/2017,D-II,Albany State,Benedict,RUSHING,Kelias,Williams,YDS,9
+17134071,10/28/2017,D-II,Albany State,Benedict,RUSHING,Kelias,Williams,TD,0
+17134072,10/28/2017,D-II,Albany State,Benedict,RUSHING,Kelias,Williams,LONG,9
+17134073,10/28/2017,D-II,Albany State,Benedict,RUSHING,Mckin,Habersham,ATT,4
+17134074,10/28/2017,D-II,Albany State,Benedict,RUSHING,Mckin,Habersham,YDS,1
+17134075,10/28/2017,D-II,Albany State,Benedict,RUSHING,Mckin,Habersham,TD,0
+17134076,10/28/2017,D-II,Albany State,Benedict,RUSHING,Mckin,Habersham,LONG,4
+17134077,10/28/2017,D-II,Albany State,Benedict,PASSING,Chancel,Johnson,CP-ATT-INT,8-17-0
+17134078,10/28/2017,D-II,Albany State,Benedict,PASSING,Chancel,Johnson,YDS,93
+17134079,10/28/2017,D-II,Albany State,Benedict,PASSING,Chancel,Johnson,TD,1
+17134080,10/28/2017,D-II,Albany State,Benedict,PASSING,Chancel,Johnson,LONG,21
+17134081,10/28/2017,D-II,Albany State,Benedict,PASSING,Kelias,Williams,CP-ATT-INT,4-9-0
+17134082,10/28/2017,D-II,Albany State,Benedict,PASSING,Kelias,Williams,YDS,52
+17134083,10/28/2017,D-II,Albany State,Benedict,PASSING,Kelias,Williams,TD,1
+17134084,10/28/2017,D-II,Albany State,Benedict,PASSING,Kelias,Williams,LONG,21
+17134085,10/28/2017,D-II,Albany State,Benedict,PASSING,Billy,Cobb,CP-ATT-INT,1-5-1
+17134086,10/28/2017,D-II,Albany State,Benedict,PASSING,Billy,Cobb,YDS,21
+17134087,10/28/2017,D-II,Albany State,Benedict,PASSING,Billy,Cobb,TD,0
+17134088,10/28/2017,D-II,Albany State,Benedict,PASSING,Billy,Cobb,LONG,21
+17134089,10/28/2017,D-II,Albany State,Benedict,RECEIVING,Mike,Green,REC,7
+17134090,10/28/2017,D-II,Albany State,Benedict,RECEIVING,Mike,Green,YDS,118
+17134091,10/28/2017,D-II,Albany State,Benedict,RECEIVING,Mike,Green,TD,2
+17134092,10/28/2017,D-II,Albany State,Benedict,RECEIVING,Mike,Green,LONG,21
+17134093,10/28/2017,D-II,Albany State,Benedict,RECEIVING,Rodel,Shorter,REC,2
+17134094,10/28/2017,D-II,Albany State,Benedict,RECEIVING,Rodel,Shorter,YDS,17
+17134095,10/28/2017,D-II,Albany State,Benedict,RECEIVING,Rodel,Shorter,TD,0
+17134096,10/28/2017,D-II,Albany State,Benedict,RECEIVING,Rodel,Shorter,LONG,13
+17134097,10/28/2017,D-II,Albany State,Benedict,RECEIVING,Quadrey,Simmons,REC,2
+17134098,10/28/2017,D-II,Albany State,Benedict,RECEIVING,Quadrey,Simmons,YDS,12
+17134099,10/28/2017,D-II,Albany State,Benedict,RECEIVING,Quadrey,Simmons,TD,0
+17134100,10/28/2017,D-II,Albany State,Benedict,RECEIVING,Quadrey,Simmons,LONG,8
+17134101,10/28/2017,D-II,Albany State,Benedict,RECEIVING,Mckin,Habersham,REC,1
+17134102,10/28/2017,D-II,Albany State,Benedict,RECEIVING,Mckin,Habersham,YDS,11
+17134103,10/28/2017,D-II,Albany State,Benedict,RECEIVING,Mckin,Habersham,TD,0
+17134104,10/28/2017,D-II,Albany State,Benedict,RECEIVING,Mckin,Habersham,LONG,11
+17134105,10/28/2017,D-II,Albany State,Benedict,RECEIVING,Chris,Sparks,REC,1
+17134106,10/28/2017,D-II,Albany State,Benedict,RECEIVING,Chris,Sparks,YDS,8
+17134107,10/28/2017,D-II,Albany State,Benedict,RECEIVING,Chris,Sparks,TD,0
+17134108,10/28/2017,D-II,Albany State,Benedict,RECEIVING,Chris,Sparks,LONG,8
+17134109,10/28/2017,D-II,Albany State,Benedict,PUNTING,Gabrie,Ballinas,NO,6
+17134110,10/28/2017,D-II,Albany State,Benedict,PUNTING,Gabrie,Ballinas,YDS,222
+17134111,10/28/2017,D-II,Albany State,Benedict,PUNTING,Gabrie,Ballinas,AVG,37.0
+17134112,10/28/2017,D-II,Albany State,Benedict,PUNTING,Gabrie,Ballinas,LONG,59
+17134113,10/28/2017,D-II,Albany State,Benedict,PUNT RETURNS,Kelan,Fraise,NO,1
+17134114,10/28/2017,D-II,Albany State,Benedict,PUNT RETURNS,Kelan,Fraise,YDS,7
+17134115,10/28/2017,D-II,Albany State,Benedict,PUNT RETURNS,Kelan,Fraise,AVG,7.0
+17134116,10/28/2017,D-II,Albany State,Benedict,PUNT RETURNS,Kelan,Fraise,LONG,7
+17134117,10/28/2017,D-II,Albany State,Benedict,KICK RETURNS,Kelan,Fraise,NO,3
+17134118,10/28/2017,D-II,Albany State,Benedict,KICK RETURNS,Kelan,Fraise,YDS,40
+17134119,10/28/2017,D-II,Albany State,Benedict,KICK RETURNS,Kelan,Fraise,AVG,13.3
+17134120,10/28/2017,D-II,Albany State,Benedict,KICK RETURNS,Kelan,Fraise,LONG,22
+17134121,10/28/2017,D-II,Albany State,Benedict,KICK RETURNS,D'angelo,Smith,NO,1
+17134122,10/28/2017,D-II,Albany State,Benedict,KICK RETURNS,D'angelo,Smith,YDS,1
+17134123,10/28/2017,D-II,Albany State,Benedict,KICK RETURNS,D'angelo,Smith,AVG,1.0
+17134124,10/28/2017,D-II,Albany State,Benedict,KICK RETURNS,D'angelo,Smith,LONG,0

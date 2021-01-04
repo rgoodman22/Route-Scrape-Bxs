@@ -1,0 +1,121 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+20107001,10/25/2013,D-III,Wartburg,Dubuque,RUSHING,Logan,Schrader,ATT,1
+20107002,10/25/2013,D-III,Wartburg,Dubuque,RUSHING,Logan,Schrader,YDS,5
+20107003,10/25/2013,D-III,Wartburg,Dubuque,RUSHING,Logan,Schrader,TD,0
+20107004,10/25/2013,D-III,Wartburg,Dubuque,RUSHING,Logan,Schrader,LONG,5
+20107005,10/25/2013,D-III,Wartburg,Dubuque,RUSHING,Taylor,Jacobsme,ATT,20
+20107006,10/25/2013,D-III,Wartburg,Dubuque,RUSHING,Taylor,Jacobsme,YDS,87
+20107007,10/25/2013,D-III,Wartburg,Dubuque,RUSHING,Taylor,Jacobsme,TD,1
+20107008,10/25/2013,D-III,Wartburg,Dubuque,RUSHING,Taylor,Jacobsme,LONG,30
+20107009,10/25/2013,D-III,Wartburg,Dubuque,RUSHING,Brandon,Domeyer,ATT,9
+20107010,10/25/2013,D-III,Wartburg,Dubuque,RUSHING,Brandon,Domeyer,YDS,24
+20107011,10/25/2013,D-III,Wartburg,Dubuque,RUSHING,Brandon,Domeyer,TD,0
+20107012,10/25/2013,D-III,Wartburg,Dubuque,RUSHING,Brandon,Domeyer,LONG,8
+20107013,10/25/2013,D-III,Wartburg,Dubuque,RUSHING,,Team,ATT,1
+20107014,10/25/2013,D-III,Wartburg,Dubuque,RUSHING,,Team,YDS,-1
+20107015,10/25/2013,D-III,Wartburg,Dubuque,RUSHING,,Team,TD,0
+20107016,10/25/2013,D-III,Wartburg,Dubuque,RUSHING,,Team,LONG,0
+20107017,10/25/2013,D-III,Wartburg,Dubuque,PASSING,Logan,Schrader,CP-ATT-INT,3-3-0
+20107018,10/25/2013,D-III,Wartburg,Dubuque,PASSING,Logan,Schrader,YDS,25
+20107019,10/25/2013,D-III,Wartburg,Dubuque,PASSING,Logan,Schrader,TD,0
+20107020,10/25/2013,D-III,Wartburg,Dubuque,PASSING,Logan,Schrader,LONG,16
+20107021,10/25/2013,D-III,Wartburg,Dubuque,PASSING,Taylor,Jacobsme,CP-ATT-INT,6-14-2
+20107022,10/25/2013,D-III,Wartburg,Dubuque,PASSING,Taylor,Jacobsme,YDS,70
+20107023,10/25/2013,D-III,Wartburg,Dubuque,PASSING,Taylor,Jacobsme,TD,2
+20107024,10/25/2013,D-III,Wartburg,Dubuque,PASSING,Taylor,Jacobsme,LONG,23
+20107025,10/25/2013,D-III,Wartburg,Dubuque,RECEIVING,Will,Ebert,REC,1
+20107026,10/25/2013,D-III,Wartburg,Dubuque,RECEIVING,Will,Ebert,YDS,6
+20107027,10/25/2013,D-III,Wartburg,Dubuque,RECEIVING,Will,Ebert,TD,0
+20107028,10/25/2013,D-III,Wartburg,Dubuque,RECEIVING,Will,Ebert,LONG,6
+20107029,10/25/2013,D-III,Wartburg,Dubuque,RECEIVING,Taylor,Jacobsme,REC,3
+20107030,10/25/2013,D-III,Wartburg,Dubuque,RECEIVING,Taylor,Jacobsme,YDS,25
+20107031,10/25/2013,D-III,Wartburg,Dubuque,RECEIVING,Taylor,Jacobsme,TD,0
+20107032,10/25/2013,D-III,Wartburg,Dubuque,RECEIVING,Taylor,Jacobsme,LONG,16
+20107033,10/25/2013,D-III,Wartburg,Dubuque,RECEIVING,Logan,Ruffridge,REC,1
+20107034,10/25/2013,D-III,Wartburg,Dubuque,RECEIVING,Logan,Ruffridge,YDS,2
+20107035,10/25/2013,D-III,Wartburg,Dubuque,RECEIVING,Logan,Ruffridge,TD,0
+20107036,10/25/2013,D-III,Wartburg,Dubuque,RECEIVING,Logan,Ruffridge,LONG,2
+20107037,10/25/2013,D-III,Wartburg,Dubuque,RECEIVING,Jake,Holsteen,REC,4
+20107038,10/25/2013,D-III,Wartburg,Dubuque,RECEIVING,Jake,Holsteen,YDS,62
+20107039,10/25/2013,D-III,Wartburg,Dubuque,RECEIVING,Jake,Holsteen,TD,2
+20107040,10/25/2013,D-III,Wartburg,Dubuque,RECEIVING,Jake,Holsteen,LONG,23
+20107041,10/25/2013,D-III,Wartburg,Dubuque,PUNTING,Grant,Zimmerman,NO,5
+20107042,10/25/2013,D-III,Wartburg,Dubuque,PUNTING,Grant,Zimmerman,YDS,171
+20107043,10/25/2013,D-III,Wartburg,Dubuque,PUNTING,Grant,Zimmerman,AVG,34.2
+20107044,10/25/2013,D-III,Wartburg,Dubuque,PUNTING,Grant,Zimmerman,LONG,45
+20107045,10/25/2013,D-III,Wartburg,Dubuque,PUNTING,,Team,NO,1
+20107046,10/25/2013,D-III,Wartburg,Dubuque,PUNTING,,Team,YDS,0
+20107047,10/25/2013,D-III,Wartburg,Dubuque,PUNTING,,Team,AVG,0.0
+20107048,10/25/2013,D-III,Wartburg,Dubuque,PUNTING,,Team,LONG,0
+20107049,10/25/2013,D-III,Wartburg,Dubuque,PUNT RETURNS,Spencer,Capitan,NO,2
+20107050,10/25/2013,D-III,Wartburg,Dubuque,PUNT RETURNS,Spencer,Capitan,YDS,6
+20107051,10/25/2013,D-III,Wartburg,Dubuque,PUNT RETURNS,Spencer,Capitan,AVG,3.0
+20107052,10/25/2013,D-III,Wartburg,Dubuque,PUNT RETURNS,Spencer,Capitan,LONG,6
+20107053,10/25/2013,D-III,Wartburg,Dubuque,PUNT RETURNS,Brandon,Steggal,NO,1
+20107054,10/25/2013,D-III,Wartburg,Dubuque,PUNT RETURNS,Brandon,Steggal,YDS,6
+20107055,10/25/2013,D-III,Wartburg,Dubuque,PUNT RETURNS,Brandon,Steggal,AVG,6.0
+20107056,10/25/2013,D-III,Wartburg,Dubuque,PUNT RETURNS,Brandon,Steggal,LONG,0
+20107057,10/25/2013,D-III,Wartburg,Dubuque,KICK RETURNS,Donald,Miller,NO,1
+20107058,10/25/2013,D-III,Wartburg,Dubuque,KICK RETURNS,Donald,Miller,YDS,27
+20107059,10/25/2013,D-III,Wartburg,Dubuque,KICK RETURNS,Donald,Miller,AVG,27.0
+20107060,10/25/2013,D-III,Wartburg,Dubuque,KICK RETURNS,Donald,Miller,LONG,27
+20107061,10/25/2013,D-III,Wartburg,Dubuque,KICK RETURNS,Spencer,Capitan,NO,1
+20107062,10/25/2013,D-III,Wartburg,Dubuque,KICK RETURNS,Spencer,Capitan,YDS,13
+20107063,10/25/2013,D-III,Wartburg,Dubuque,KICK RETURNS,Spencer,Capitan,AVG,13.0
+20107064,10/25/2013,D-III,Wartburg,Dubuque,KICK RETURNS,Spencer,Capitan,LONG,13
+20107065,10/25/2013,D-III,Dubuque,Wartburg,RUSHING,Bryan,Bradshaw,ATT,11
+20107066,10/25/2013,D-III,Dubuque,Wartburg,RUSHING,Bryan,Bradshaw,YDS,1
+20107067,10/25/2013,D-III,Dubuque,Wartburg,RUSHING,Bryan,Bradshaw,TD,1
+20107068,10/25/2013,D-III,Dubuque,Wartburg,RUSHING,Bryan,Bradshaw,LONG,28
+20107069,10/25/2013,D-III,Dubuque,Wartburg,RUSHING,Kyle,Acker,ATT,24
+20107070,10/25/2013,D-III,Dubuque,Wartburg,RUSHING,Kyle,Acker,YDS,66
+20107071,10/25/2013,D-III,Dubuque,Wartburg,RUSHING,Kyle,Acker,TD,0
+20107072,10/25/2013,D-III,Dubuque,Wartburg,RUSHING,Kyle,Acker,LONG,19
+20107073,10/25/2013,D-III,Dubuque,Wartburg,PASSING,Bryan,Bradshaw,CP-ATT-INT,27-43-2
+20107074,10/25/2013,D-III,Dubuque,Wartburg,PASSING,Bryan,Bradshaw,YDS,266
+20107075,10/25/2013,D-III,Dubuque,Wartburg,PASSING,Bryan,Bradshaw,TD,1
+20107076,10/25/2013,D-III,Dubuque,Wartburg,PASSING,Bryan,Bradshaw,LONG,23
+20107077,10/25/2013,D-III,Dubuque,Wartburg,RECEIVING,Tyler,Rutenbeck,REC,9
+20107078,10/25/2013,D-III,Dubuque,Wartburg,RECEIVING,Tyler,Rutenbeck,YDS,78
+20107079,10/25/2013,D-III,Dubuque,Wartburg,RECEIVING,Tyler,Rutenbeck,TD,0
+20107080,10/25/2013,D-III,Dubuque,Wartburg,RECEIVING,Tyler,Rutenbeck,LONG,19
+20107081,10/25/2013,D-III,Dubuque,Wartburg,RECEIVING,Chris,Bagley,REC,8
+20107082,10/25/2013,D-III,Dubuque,Wartburg,RECEIVING,Chris,Bagley,YDS,73
+20107083,10/25/2013,D-III,Dubuque,Wartburg,RECEIVING,Chris,Bagley,TD,1
+20107084,10/25/2013,D-III,Dubuque,Wartburg,RECEIVING,Chris,Bagley,LONG,16
+20107085,10/25/2013,D-III,Dubuque,Wartburg,RECEIVING,Sean,Anderson,REC,5
+20107086,10/25/2013,D-III,Dubuque,Wartburg,RECEIVING,Sean,Anderson,YDS,56
+20107087,10/25/2013,D-III,Dubuque,Wartburg,RECEIVING,Sean,Anderson,TD,0
+20107088,10/25/2013,D-III,Dubuque,Wartburg,RECEIVING,Sean,Anderson,LONG,23
+20107089,10/25/2013,D-III,Dubuque,Wartburg,RECEIVING,Kyle,Acker,REC,1
+20107090,10/25/2013,D-III,Dubuque,Wartburg,RECEIVING,Kyle,Acker,YDS,15
+20107091,10/25/2013,D-III,Dubuque,Wartburg,RECEIVING,Kyle,Acker,TD,0
+20107092,10/25/2013,D-III,Dubuque,Wartburg,RECEIVING,Kyle,Acker,LONG,15
+20107093,10/25/2013,D-III,Dubuque,Wartburg,RECEIVING,Lee,Jones,REC,4
+20107094,10/25/2013,D-III,Dubuque,Wartburg,RECEIVING,Lee,Jones,YDS,44
+20107095,10/25/2013,D-III,Dubuque,Wartburg,RECEIVING,Lee,Jones,TD,0
+20107096,10/25/2013,D-III,Dubuque,Wartburg,RECEIVING,Lee,Jones,LONG,22
+20107097,10/25/2013,D-III,Dubuque,Wartburg,PUNTING,D,Lillibridge,NO,5
+20107098,10/25/2013,D-III,Dubuque,Wartburg,PUNTING,D,Lillibridge,YDS,152
+20107099,10/25/2013,D-III,Dubuque,Wartburg,PUNTING,D,Lillibridge,AVG,30.4
+20107100,10/25/2013,D-III,Dubuque,Wartburg,PUNTING,D,Lillibridge,LONG,41
+20107101,10/25/2013,D-III,Dubuque,Wartburg,PUNTING,,Team,NO,1
+20107102,10/25/2013,D-III,Dubuque,Wartburg,PUNTING,,Team,YDS,0
+20107103,10/25/2013,D-III,Dubuque,Wartburg,PUNTING,,Team,AVG,0.0
+20107104,10/25/2013,D-III,Dubuque,Wartburg,PUNTING,,Team,LONG,0
+20107105,10/25/2013,D-III,Dubuque,Wartburg,PUNT RETURNS,Darren,Myles,NO,1
+20107106,10/25/2013,D-III,Dubuque,Wartburg,PUNT RETURNS,Darren,Myles,YDS,10
+20107107,10/25/2013,D-III,Dubuque,Wartburg,PUNT RETURNS,Darren,Myles,AVG,10.0
+20107108,10/25/2013,D-III,Dubuque,Wartburg,PUNT RETURNS,Darren,Myles,LONG,0
+20107109,10/25/2013,D-III,Dubuque,Wartburg,KICK RETURNS,Shaun,Grewal,NO,1
+20107110,10/25/2013,D-III,Dubuque,Wartburg,KICK RETURNS,Shaun,Grewal,YDS,19
+20107111,10/25/2013,D-III,Dubuque,Wartburg,KICK RETURNS,Shaun,Grewal,AVG,19.0
+20107112,10/25/2013,D-III,Dubuque,Wartburg,KICK RETURNS,Shaun,Grewal,LONG,19
+20107113,10/25/2013,D-III,Dubuque,Wartburg,KICK RETURNS,Tyler,Rutenbeck,NO,3
+20107114,10/25/2013,D-III,Dubuque,Wartburg,KICK RETURNS,Tyler,Rutenbeck,YDS,39
+20107115,10/25/2013,D-III,Dubuque,Wartburg,KICK RETURNS,Tyler,Rutenbeck,AVG,13.0
+20107116,10/25/2013,D-III,Dubuque,Wartburg,KICK RETURNS,Tyler,Rutenbeck,LONG,16
+20107117,10/25/2013,D-III,Dubuque,Wartburg,KICK RETURNS,Sean,Anderson,NO,1
+20107118,10/25/2013,D-III,Dubuque,Wartburg,KICK RETURNS,Sean,Anderson,YDS,10
+20107119,10/25/2013,D-III,Dubuque,Wartburg,KICK RETURNS,Sean,Anderson,AVG,10.0
+20107120,10/25/2013,D-III,Dubuque,Wartburg,KICK RETURNS,Sean,Anderson,LONG,10

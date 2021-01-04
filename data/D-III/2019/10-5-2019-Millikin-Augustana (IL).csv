@@ -1,0 +1,134 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+27405001,10/5/2019,D-III,Millikin,Augustana (IL),RUSHING,,Team,ATT,14
+27405002,10/5/2019,D-III,Millikin,Augustana (IL),RUSHING,,Team,YDS,54
+27405003,10/5/2019,D-III,Millikin,Augustana (IL),RUSHING,,Team,TD,1
+27405004,10/5/2019,D-III,Millikin,Augustana (IL),RUSHING,,Team,LONG,10
+27405005,10/5/2019,D-III,Millikin,Augustana (IL),PASSING,,Team,CP-ATT-INT,24-39-1
+27405006,10/5/2019,D-III,Millikin,Augustana (IL),PASSING,,Team,YDS,286
+27405007,10/5/2019,D-III,Millikin,Augustana (IL),PASSING,,Team,TD,1
+27405008,10/5/2019,D-III,Millikin,Augustana (IL),PASSING,,Team,LONG,37
+27405009,10/5/2019,D-III,Millikin,Augustana (IL),RECEIVING,J,Smith,REC,7
+27405010,10/5/2019,D-III,Millikin,Augustana (IL),RECEIVING,J,Smith,YDS,132
+27405011,10/5/2019,D-III,Millikin,Augustana (IL),RECEIVING,J,Smith,TD,1
+27405012,10/5/2019,D-III,Millikin,Augustana (IL),RECEIVING,J,Smith,LONG,37
+27405013,10/5/2019,D-III,Millikin,Augustana (IL),RECEIVING,,Team,REC,11
+27405014,10/5/2019,D-III,Millikin,Augustana (IL),RECEIVING,,Team,YDS,112
+27405015,10/5/2019,D-III,Millikin,Augustana (IL),RECEIVING,,Team,TD,0
+27405016,10/5/2019,D-III,Millikin,Augustana (IL),RECEIVING,,Team,LONG,18
+27405017,10/5/2019,D-III,Millikin,Augustana (IL),RECEIVING,P,Cooper,REC,7
+27405018,10/5/2019,D-III,Millikin,Augustana (IL),RECEIVING,P,Cooper,YDS,62
+27405019,10/5/2019,D-III,Millikin,Augustana (IL),RECEIVING,P,Cooper,TD,0
+27405020,10/5/2019,D-III,Millikin,Augustana (IL),RECEIVING,P,Cooper,LONG,21
+27405021,10/5/2019,D-III,Millikin,Augustana (IL),RECEIVING,,Team,REC,2
+27405022,10/5/2019,D-III,Millikin,Augustana (IL),RECEIVING,,Team,YDS,15
+27405023,10/5/2019,D-III,Millikin,Augustana (IL),RECEIVING,,Team,TD,0
+27405024,10/5/2019,D-III,Millikin,Augustana (IL),RECEIVING,,Team,LONG,11
+27405025,10/5/2019,D-III,Millikin,Augustana (IL),PUNTING,,Team,NO,2
+27405026,10/5/2019,D-III,Millikin,Augustana (IL),PUNTING,,Team,YDS,81
+27405027,10/5/2019,D-III,Millikin,Augustana (IL),PUNTING,,Team,AVG,40.5
+27405028,10/5/2019,D-III,Millikin,Augustana (IL),PUNTING,,Team,LONG,45
+27405029,10/5/2019,D-III,Millikin,Augustana (IL),PUNT RETURNS,,Team,NO,1
+27405030,10/5/2019,D-III,Millikin,Augustana (IL),PUNT RETURNS,,Team,YDS,5
+27405031,10/5/2019,D-III,Millikin,Augustana (IL),PUNT RETURNS,,Team,AVG,5.0
+27405032,10/5/2019,D-III,Millikin,Augustana (IL),PUNT RETURNS,,Team,LONG,5
+27405033,10/5/2019,D-III,Millikin,Augustana (IL),KICK RETURNS,,Team,NO,4
+27405034,10/5/2019,D-III,Millikin,Augustana (IL),KICK RETURNS,,Team,YDS,53
+27405035,10/5/2019,D-III,Millikin,Augustana (IL),KICK RETURNS,,Team,AVG,13.2
+27405036,10/5/2019,D-III,Millikin,Augustana (IL),KICK RETURNS,,Team,LONG,21
+27405037,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,D,Jones,TOT,2
+27405038,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,D,Jones,SOLO,
+27405039,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,D,Jones,SACKS,2
+27405040,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,D,Jones,TFL,
+27405041,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,D,Jones,INT,
+27405042,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,D,Jones,FF,
+27405043,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,D,Jones,FR,
+27405044,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,,Team,TOT,1
+27405045,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,,Team,SOLO,
+27405046,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,,Team,SACKS,1
+27405047,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,,Team,TFL,
+27405048,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,,Team,INT,
+27405049,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,,Team,FF,
+27405050,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,,Team,FR,
+27405051,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,E,Williams,TOT,3
+27405052,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,E,Williams,SOLO,
+27405053,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,E,Williams,SACKS,3
+27405054,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,E,Williams,TFL,
+27405055,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,E,Williams,INT,
+27405056,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,E,Williams,FF,
+27405057,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,E,Williams,FR,
+27405058,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,,Team,TOT,5
+27405059,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,,Team,SOLO,
+27405060,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,,Team,SACKS,3
+27405061,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,,Team,TFL,
+27405062,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,,Team,INT,
+27405063,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,,Team,FF,
+27405064,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,,Team,FR,
+27405065,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,A,Hayes,TOT,1
+27405066,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,A,Hayes,SOLO,
+27405067,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,A,Hayes,SACKS,1
+27405068,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,A,Hayes,TFL,
+27405069,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,A,Hayes,INT,
+27405070,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,A,Hayes,FF,
+27405071,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,A,Hayes,FR,
+27405072,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,,Team,TOT,1
+27405073,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,,Team,SOLO,
+27405074,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,,Team,SACKS,1
+27405075,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,,Team,TFL,
+27405076,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,,Team,INT,
+27405077,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,,Team,FF,
+27405078,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,,Team,FR,
+27405079,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,C,Vogt,TOT,3
+27405080,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,C,Vogt,SOLO,
+27405081,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,C,Vogt,SACKS,1
+27405082,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,C,Vogt,TFL,
+27405083,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,C,Vogt,INT,
+27405084,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,C,Vogt,FF,
+27405085,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,C,Vogt,FR,0
+27405086,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,,Team,TOT,4
+27405087,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,,Team,SOLO,
+27405088,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,,Team,SACKS,2
+27405089,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,,Team,TFL,
+27405090,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,,Team,INT,
+27405091,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,,Team,FF,
+27405092,10/5/2019,D-III,Millikin,Augustana (IL),DEFENSE,,Team,FR,
+27405093,10/5/2019,D-III,Augustana (IL),Millikin,RUSHING,,Team,ATT,24
+27405094,10/5/2019,D-III,Augustana (IL),Millikin,RUSHING,,Team,YDS,143
+27405095,10/5/2019,D-III,Augustana (IL),Millikin,RUSHING,,Team,TD,1
+27405096,10/5/2019,D-III,Augustana (IL),Millikin,RUSHING,,Team,LONG,28
+27405097,10/5/2019,D-III,Augustana (IL),Millikin,PASSING,,Team,CP-ATT-INT,14-26-0
+27405098,10/5/2019,D-III,Augustana (IL),Millikin,PASSING,,Team,YDS,165
+27405099,10/5/2019,D-III,Augustana (IL),Millikin,PASSING,,Team,TD,1
+27405100,10/5/2019,D-III,Augustana (IL),Millikin,PASSING,,Team,LONG,33
+27405101,10/5/2019,D-III,Augustana (IL),Millikin,RECEIVING,,Team,REC,6
+27405102,10/5/2019,D-III,Augustana (IL),Millikin,RECEIVING,,Team,YDS,86
+27405103,10/5/2019,D-III,Augustana (IL),Millikin,RECEIVING,,Team,TD,1
+27405104,10/5/2019,D-III,Augustana (IL),Millikin,RECEIVING,,Team,LONG,33
+27405105,10/5/2019,D-III,Augustana (IL),Millikin,PUNTING,Ju,Wehr,NO,4
+27405106,10/5/2019,D-III,Augustana (IL),Millikin,PUNTING,Ju,Wehr,YDS,115
+27405107,10/5/2019,D-III,Augustana (IL),Millikin,PUNTING,Ju,Wehr,AVG,28.8
+27405108,10/5/2019,D-III,Augustana (IL),Millikin,PUNTING,Ju,Wehr,LONG,42
+27405109,10/5/2019,D-III,Augustana (IL),Millikin,KICK RETURNS,,Team,NO,2
+27405110,10/5/2019,D-III,Augustana (IL),Millikin,KICK RETURNS,,Team,YDS,15
+27405111,10/5/2019,D-III,Augustana (IL),Millikin,KICK RETURNS,,Team,AVG,7.5
+27405112,10/5/2019,D-III,Augustana (IL),Millikin,KICK RETURNS,,Team,LONG,15
+27405113,10/5/2019,D-III,Augustana (IL),Millikin,DEFENSE,,Team,TOT,10
+27405114,10/5/2019,D-III,Augustana (IL),Millikin,DEFENSE,,Team,SOLO,
+27405115,10/5/2019,D-III,Augustana (IL),Millikin,DEFENSE,,Team,SACKS,8
+27405116,10/5/2019,D-III,Augustana (IL),Millikin,DEFENSE,,Team,TFL,
+27405117,10/5/2019,D-III,Augustana (IL),Millikin,DEFENSE,,Team,INT,
+27405118,10/5/2019,D-III,Augustana (IL),Millikin,DEFENSE,,Team,FF,
+27405119,10/5/2019,D-III,Augustana (IL),Millikin,DEFENSE,,Team,FR,7
+27405120,10/5/2019,D-III,Augustana (IL),Millikin,DEFENSE,Da,Lane,TOT,3
+27405121,10/5/2019,D-III,Augustana (IL),Millikin,DEFENSE,Da,Lane,SOLO,
+27405122,10/5/2019,D-III,Augustana (IL),Millikin,DEFENSE,Da,Lane,SACKS,2
+27405123,10/5/2019,D-III,Augustana (IL),Millikin,DEFENSE,Da,Lane,TFL,
+27405124,10/5/2019,D-III,Augustana (IL),Millikin,DEFENSE,Da,Lane,INT,
+27405125,10/5/2019,D-III,Augustana (IL),Millikin,DEFENSE,Da,Lane,FF,
+27405126,10/5/2019,D-III,Augustana (IL),Millikin,DEFENSE,Da,Lane,FR,
+27405127,10/5/2019,D-III,Augustana (IL),Millikin,DEFENSE,,Team,TOT,1
+27405128,10/5/2019,D-III,Augustana (IL),Millikin,DEFENSE,,Team,SOLO,
+27405129,10/5/2019,D-III,Augustana (IL),Millikin,DEFENSE,,Team,SACKS,0
+27405130,10/5/2019,D-III,Augustana (IL),Millikin,DEFENSE,,Team,TFL,
+27405131,10/5/2019,D-III,Augustana (IL),Millikin,DEFENSE,,Team,INT,
+27405132,10/5/2019,D-III,Augustana (IL),Millikin,DEFENSE,,Team,FF,
+27405133,10/5/2019,D-III,Augustana (IL),Millikin,DEFENSE,,Team,FR,

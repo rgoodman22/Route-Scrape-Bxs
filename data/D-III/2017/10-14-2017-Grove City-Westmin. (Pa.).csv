@@ -1,0 +1,117 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+25009001,10/14/2017,D-III,Grove City,Westmin. (Pa.),RUSHING,Wesley,Schools,ATT,26
+25009002,10/14/2017,D-III,Grove City,Westmin. (Pa.),RUSHING,Wesley,Schools,YDS,106
+25009003,10/14/2017,D-III,Grove City,Westmin. (Pa.),RUSHING,Wesley,Schools,TD,1
+25009004,10/14/2017,D-III,Grove City,Westmin. (Pa.),RUSHING,Wesley,Schools,LONG,41
+25009005,10/14/2017,D-III,Grove City,Westmin. (Pa.),RUSHING,Gabe,Greco,ATT,1
+25009006,10/14/2017,D-III,Grove City,Westmin. (Pa.),RUSHING,Gabe,Greco,YDS,1
+25009007,10/14/2017,D-III,Grove City,Westmin. (Pa.),RUSHING,Gabe,Greco,TD,0
+25009008,10/14/2017,D-III,Grove City,Westmin. (Pa.),RUSHING,Gabe,Greco,LONG,1
+25009009,10/14/2017,D-III,Grove City,Westmin. (Pa.),RUSHING,Randall,Labrie,ATT,19
+25009010,10/14/2017,D-III,Grove City,Westmin. (Pa.),RUSHING,Randall,Labrie,YDS,-13
+25009011,10/14/2017,D-III,Grove City,Westmin. (Pa.),RUSHING,Randall,Labrie,TD,0
+25009012,10/14/2017,D-III,Grove City,Westmin. (Pa.),RUSHING,Randall,Labrie,LONG,16
+25009013,10/14/2017,D-III,Grove City,Westmin. (Pa.),PASSING,Randall,Labrie,CP-ATT-INT,20-33-1
+25009014,10/14/2017,D-III,Grove City,Westmin. (Pa.),PASSING,Randall,Labrie,YDS,282
+25009015,10/14/2017,D-III,Grove City,Westmin. (Pa.),PASSING,Randall,Labrie,TD,2
+25009016,10/14/2017,D-III,Grove City,Westmin. (Pa.),PASSING,Randall,Labrie,LONG,34
+25009017,10/14/2017,D-III,Grove City,Westmin. (Pa.),RECEIVING,Cody,Gustafson,REC,9
+25009018,10/14/2017,D-III,Grove City,Westmin. (Pa.),RECEIVING,Cody,Gustafson,YDS,118
+25009019,10/14/2017,D-III,Grove City,Westmin. (Pa.),RECEIVING,Cody,Gustafson,TD,1
+25009020,10/14/2017,D-III,Grove City,Westmin. (Pa.),RECEIVING,Cody,Gustafson,LONG,24
+25009021,10/14/2017,D-III,Grove City,Westmin. (Pa.),RECEIVING,M,Pennypacker,REC,6
+25009022,10/14/2017,D-III,Grove City,Westmin. (Pa.),RECEIVING,M,Pennypacker,YDS,108
+25009023,10/14/2017,D-III,Grove City,Westmin. (Pa.),RECEIVING,M,Pennypacker,TD,1
+25009024,10/14/2017,D-III,Grove City,Westmin. (Pa.),RECEIVING,M,Pennypacker,LONG,34
+25009025,10/14/2017,D-III,Grove City,Westmin. (Pa.),RECEIVING,Cameron,Drake,REC,3
+25009026,10/14/2017,D-III,Grove City,Westmin. (Pa.),RECEIVING,Cameron,Drake,YDS,28
+25009027,10/14/2017,D-III,Grove City,Westmin. (Pa.),RECEIVING,Cameron,Drake,TD,0
+25009028,10/14/2017,D-III,Grove City,Westmin. (Pa.),RECEIVING,Cameron,Drake,LONG,14
+25009029,10/14/2017,D-III,Grove City,Westmin. (Pa.),RECEIVING,Gabe,Greco,REC,2
+25009030,10/14/2017,D-III,Grove City,Westmin. (Pa.),RECEIVING,Gabe,Greco,YDS,28
+25009031,10/14/2017,D-III,Grove City,Westmin. (Pa.),RECEIVING,Gabe,Greco,TD,0
+25009032,10/14/2017,D-III,Grove City,Westmin. (Pa.),RECEIVING,Gabe,Greco,LONG,19
+25009033,10/14/2017,D-III,Grove City,Westmin. (Pa.),PUNTING,Caleb,Brake,NO,5
+25009034,10/14/2017,D-III,Grove City,Westmin. (Pa.),PUNTING,Caleb,Brake,YDS,179
+25009035,10/14/2017,D-III,Grove City,Westmin. (Pa.),PUNTING,Caleb,Brake,AVG,
+25009036,10/14/2017,D-III,Grove City,Westmin. (Pa.),PUNTING,Caleb,Brake,LONG,47
+25009037,10/14/2017,D-III,Grove City,Westmin. (Pa.),KICK RETURNS,Jacob,Ross,NO,3
+25009038,10/14/2017,D-III,Grove City,Westmin. (Pa.),KICK RETURNS,Jacob,Ross,YDS,59
+25009039,10/14/2017,D-III,Grove City,Westmin. (Pa.),KICK RETURNS,Jacob,Ross,AVG,19.7
+25009040,10/14/2017,D-III,Grove City,Westmin. (Pa.),KICK RETURNS,Jacob,Ross,LONG,28
+25009041,10/14/2017,D-III,Grove City,Westmin. (Pa.),KICK RETURNS,Andrew,Schauer,NO,1
+25009042,10/14/2017,D-III,Grove City,Westmin. (Pa.),KICK RETURNS,Andrew,Schauer,YDS,6
+25009043,10/14/2017,D-III,Grove City,Westmin. (Pa.),KICK RETURNS,Andrew,Schauer,AVG,6.0
+25009044,10/14/2017,D-III,Grove City,Westmin. (Pa.),KICK RETURNS,Andrew,Schauer,LONG,6
+25009045,10/14/2017,D-III,Westmin. (Pa.),Grove City,RUSHING,Paul,Columbo,ATT,8
+25009046,10/14/2017,D-III,Westmin. (Pa.),Grove City,RUSHING,Paul,Columbo,YDS,94
+25009047,10/14/2017,D-III,Westmin. (Pa.),Grove City,RUSHING,Paul,Columbo,TD,1
+25009048,10/14/2017,D-III,Westmin. (Pa.),Grove City,RUSHING,Paul,Columbo,LONG,89
+25009049,10/14/2017,D-III,Westmin. (Pa.),Grove City,RUSHING,J,Bentley,ATT,5
+25009050,10/14/2017,D-III,Westmin. (Pa.),Grove City,RUSHING,J,Bentley,YDS,53
+25009051,10/14/2017,D-III,Westmin. (Pa.),Grove City,RUSHING,J,Bentley,TD,1
+25009052,10/14/2017,D-III,Westmin. (Pa.),Grove City,RUSHING,J,Bentley,LONG,20
+25009053,10/14/2017,D-III,Westmin. (Pa.),Grove City,RUSHING,D,Mckinley,ATT,14
+25009054,10/14/2017,D-III,Westmin. (Pa.),Grove City,RUSHING,D,Mckinley,YDS,35
+25009055,10/14/2017,D-III,Westmin. (Pa.),Grove City,RUSHING,D,Mckinley,TD,0
+25009056,10/14/2017,D-III,Westmin. (Pa.),Grove City,RUSHING,D,Mckinley,LONG,9
+25009057,10/14/2017,D-III,Westmin. (Pa.),Grove City,RUSHING,Kimu,Kim,ATT,2
+25009058,10/14/2017,D-III,Westmin. (Pa.),Grove City,RUSHING,Kimu,Kim,YDS,33
+25009059,10/14/2017,D-III,Westmin. (Pa.),Grove City,RUSHING,Kimu,Kim,TD,0
+25009060,10/14/2017,D-III,Westmin. (Pa.),Grove City,RUSHING,Kimu,Kim,LONG,25
+25009061,10/14/2017,D-III,Westmin. (Pa.),Grove City,PASSING,Paul,Columbo,CP-ATT-INT,11-19-0
+25009062,10/14/2017,D-III,Westmin. (Pa.),Grove City,PASSING,Paul,Columbo,YDS,231
+25009063,10/14/2017,D-III,Westmin. (Pa.),Grove City,PASSING,Paul,Columbo,TD,4
+25009064,10/14/2017,D-III,Westmin. (Pa.),Grove City,PASSING,Paul,Columbo,LONG,66
+25009065,10/14/2017,D-III,Westmin. (Pa.),Grove City,RECEIVING,Connor,Cox,REC,3
+25009066,10/14/2017,D-III,Westmin. (Pa.),Grove City,RECEIVING,Connor,Cox,YDS,118
+25009067,10/14/2017,D-III,Westmin. (Pa.),Grove City,RECEIVING,Connor,Cox,TD,2
+25009068,10/14/2017,D-III,Westmin. (Pa.),Grove City,RECEIVING,Connor,Cox,LONG,66
+25009069,10/14/2017,D-III,Westmin. (Pa.),Grove City,RECEIVING,J,Bentley,REC,2
+25009070,10/14/2017,D-III,Westmin. (Pa.),Grove City,RECEIVING,J,Bentley,YDS,39
+25009071,10/14/2017,D-III,Westmin. (Pa.),Grove City,RECEIVING,J,Bentley,TD,0
+25009072,10/14/2017,D-III,Westmin. (Pa.),Grove City,RECEIVING,J,Bentley,LONG,36
+25009073,10/14/2017,D-III,Westmin. (Pa.),Grove City,RECEIVING,Chris,Caldwell,REC,2
+25009074,10/14/2017,D-III,Westmin. (Pa.),Grove City,RECEIVING,Chris,Caldwell,YDS,30
+25009075,10/14/2017,D-III,Westmin. (Pa.),Grove City,RECEIVING,Chris,Caldwell,TD,0
+25009076,10/14/2017,D-III,Westmin. (Pa.),Grove City,RECEIVING,Chris,Caldwell,LONG,15
+25009077,10/14/2017,D-III,Westmin. (Pa.),Grove City,RECEIVING,B,Paulinellie,REC,1
+25009078,10/14/2017,D-III,Westmin. (Pa.),Grove City,RECEIVING,B,Paulinellie,YDS,23
+25009079,10/14/2017,D-III,Westmin. (Pa.),Grove City,RECEIVING,B,Paulinellie,TD,1
+25009080,10/14/2017,D-III,Westmin. (Pa.),Grove City,RECEIVING,B,Paulinellie,LONG,23
+25009081,10/14/2017,D-III,Westmin. (Pa.),Grove City,RECEIVING,Dylan,Goff,REC,2
+25009082,10/14/2017,D-III,Westmin. (Pa.),Grove City,RECEIVING,Dylan,Goff,YDS,12
+25009083,10/14/2017,D-III,Westmin. (Pa.),Grove City,RECEIVING,Dylan,Goff,TD,0
+25009084,10/14/2017,D-III,Westmin. (Pa.),Grove City,RECEIVING,Dylan,Goff,LONG,7
+25009085,10/14/2017,D-III,Westmin. (Pa.),Grove City,RECEIVING,Zaire,Williams,REC,1
+25009086,10/14/2017,D-III,Westmin. (Pa.),Grove City,RECEIVING,Zaire,Williams,YDS,9
+25009087,10/14/2017,D-III,Westmin. (Pa.),Grove City,RECEIVING,Zaire,Williams,TD,1
+25009088,10/14/2017,D-III,Westmin. (Pa.),Grove City,RECEIVING,Zaire,Williams,LONG,9
+25009089,10/14/2017,D-III,Westmin. (Pa.),Grove City,PUNTING,Joseph,Salmen,NO,5
+25009090,10/14/2017,D-III,Westmin. (Pa.),Grove City,PUNTING,Joseph,Salmen,YDS,183
+25009091,10/14/2017,D-III,Westmin. (Pa.),Grove City,PUNTING,Joseph,Salmen,AVG,
+25009092,10/14/2017,D-III,Westmin. (Pa.),Grove City,PUNTING,Joseph,Salmen,LONG,54
+25009093,10/14/2017,D-III,Westmin. (Pa.),Grove City,PUNT RETURNS,Chris,Caldwell,NO,1
+25009094,10/14/2017,D-III,Westmin. (Pa.),Grove City,PUNT RETURNS,Chris,Caldwell,YDS,44
+25009095,10/14/2017,D-III,Westmin. (Pa.),Grove City,PUNT RETURNS,Chris,Caldwell,AVG,44.0
+25009096,10/14/2017,D-III,Westmin. (Pa.),Grove City,PUNT RETURNS,Chris,Caldwell,LONG,44
+25009097,10/14/2017,D-III,Westmin. (Pa.),Grove City,PUNT RETURNS,B,Paulinellie,NO,1
+25009098,10/14/2017,D-III,Westmin. (Pa.),Grove City,PUNT RETURNS,B,Paulinellie,YDS,3
+25009099,10/14/2017,D-III,Westmin. (Pa.),Grove City,PUNT RETURNS,B,Paulinellie,AVG,3.0
+25009100,10/14/2017,D-III,Westmin. (Pa.),Grove City,PUNT RETURNS,B,Paulinellie,LONG,3
+25009101,10/14/2017,D-III,Westmin. (Pa.),Grove City,KICK RETURNS,J,Bentley,NO,2
+25009102,10/14/2017,D-III,Westmin. (Pa.),Grove City,KICK RETURNS,J,Bentley,YDS,50
+25009103,10/14/2017,D-III,Westmin. (Pa.),Grove City,KICK RETURNS,J,Bentley,AVG,25.0
+25009104,10/14/2017,D-III,Westmin. (Pa.),Grove City,KICK RETURNS,J,Bentley,LONG,30
+25009105,10/14/2017,D-III,Westmin. (Pa.),Grove City,KICK RETURNS,B,Paulinellie,NO,1
+25009106,10/14/2017,D-III,Westmin. (Pa.),Grove City,KICK RETURNS,B,Paulinellie,YDS,-3
+25009107,10/14/2017,D-III,Westmin. (Pa.),Grove City,KICK RETURNS,B,Paulinellie,AVG,-3.0
+25009108,10/14/2017,D-III,Westmin. (Pa.),Grove City,KICK RETURNS,B,Paulinellie,LONG,0
+25009109,10/14/2017,D-III,Westmin. (Pa.),Grove City,KICK RETURNS,Miguel,Luis,NO,1
+25009110,10/14/2017,D-III,Westmin. (Pa.),Grove City,KICK RETURNS,Miguel,Luis,YDS,1
+25009111,10/14/2017,D-III,Westmin. (Pa.),Grove City,KICK RETURNS,Miguel,Luis,AVG,1.0
+25009112,10/14/2017,D-III,Westmin. (Pa.),Grove City,KICK RETURNS,Miguel,Luis,LONG,1
+25009113,10/14/2017,D-III,Westmin. (Pa.),Grove City,KICK RETURNS,Bryce,Hill,NO,1
+25009114,10/14/2017,D-III,Westmin. (Pa.),Grove City,KICK RETURNS,Bryce,Hill,YDS,35
+25009115,10/14/2017,D-III,Westmin. (Pa.),Grove City,KICK RETURNS,Bryce,Hill,AVG,35.0
+25009116,10/14/2017,D-III,Westmin. (Pa.),Grove City,KICK RETURNS,Bryce,Hill,LONG,35

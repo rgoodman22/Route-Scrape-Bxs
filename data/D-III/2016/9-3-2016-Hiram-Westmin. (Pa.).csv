@@ -1,0 +1,153 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+23164001,9/3/2016,D-III,Hiram,Westmin. (Pa.),RUSHING,D,Robinson,ATT,20
+23164002,9/3/2016,D-III,Hiram,Westmin. (Pa.),RUSHING,D,Robinson,YDS,46
+23164003,9/3/2016,D-III,Hiram,Westmin. (Pa.),RUSHING,D,Robinson,TD,0
+23164004,9/3/2016,D-III,Hiram,Westmin. (Pa.),RUSHING,D,Robinson,LONG,8
+23164005,9/3/2016,D-III,Hiram,Westmin. (Pa.),RUSHING,I,Jones,ATT,3
+23164006,9/3/2016,D-III,Hiram,Westmin. (Pa.),RUSHING,I,Jones,YDS,5
+23164007,9/3/2016,D-III,Hiram,Westmin. (Pa.),RUSHING,I,Jones,TD,0
+23164008,9/3/2016,D-III,Hiram,Westmin. (Pa.),RUSHING,I,Jones,LONG,3
+23164009,9/3/2016,D-III,Hiram,Westmin. (Pa.),RUSHING,C,Maner,ATT,1
+23164010,9/3/2016,D-III,Hiram,Westmin. (Pa.),RUSHING,C,Maner,YDS,4
+23164011,9/3/2016,D-III,Hiram,Westmin. (Pa.),RUSHING,C,Maner,TD,0
+23164012,9/3/2016,D-III,Hiram,Westmin. (Pa.),RUSHING,C,Maner,LONG,4
+23164013,9/3/2016,D-III,Hiram,Westmin. (Pa.),RUSHING,D,Paolo,ATT,3
+23164014,9/3/2016,D-III,Hiram,Westmin. (Pa.),RUSHING,D,Paolo,YDS,-2
+23164015,9/3/2016,D-III,Hiram,Westmin. (Pa.),RUSHING,D,Paolo,TD,0
+23164016,9/3/2016,D-III,Hiram,Westmin. (Pa.),RUSHING,D,Paolo,LONG,2
+23164017,9/3/2016,D-III,Hiram,Westmin. (Pa.),RUSHING,,Team,ATT,1
+23164018,9/3/2016,D-III,Hiram,Westmin. (Pa.),RUSHING,,Team,YDS,-5
+23164019,9/3/2016,D-III,Hiram,Westmin. (Pa.),RUSHING,,Team,TD,0
+23164020,9/3/2016,D-III,Hiram,Westmin. (Pa.),RUSHING,,Team,LONG,0
+23164021,9/3/2016,D-III,Hiram,Westmin. (Pa.),PASSING,D,Paolo,CP-ATT-INT,17-33-2
+23164022,9/3/2016,D-III,Hiram,Westmin. (Pa.),PASSING,D,Paolo,YDS,126
+23164023,9/3/2016,D-III,Hiram,Westmin. (Pa.),PASSING,D,Paolo,TD,0
+23164024,9/3/2016,D-III,Hiram,Westmin. (Pa.),PASSING,D,Paolo,LONG,26
+23164025,9/3/2016,D-III,Hiram,Westmin. (Pa.),PASSING,R,Tucker,CP-ATT-INT,0-1-0
+23164026,9/3/2016,D-III,Hiram,Westmin. (Pa.),PASSING,R,Tucker,YDS,0
+23164027,9/3/2016,D-III,Hiram,Westmin. (Pa.),PASSING,R,Tucker,TD,0
+23164028,9/3/2016,D-III,Hiram,Westmin. (Pa.),PASSING,R,Tucker,LONG,0
+23164029,9/3/2016,D-III,Hiram,Westmin. (Pa.),RECEIVING,A,Tate,REC,4
+23164030,9/3/2016,D-III,Hiram,Westmin. (Pa.),RECEIVING,A,Tate,YDS,38
+23164031,9/3/2016,D-III,Hiram,Westmin. (Pa.),RECEIVING,A,Tate,TD,0
+23164032,9/3/2016,D-III,Hiram,Westmin. (Pa.),RECEIVING,A,Tate,LONG,18
+23164033,9/3/2016,D-III,Hiram,Westmin. (Pa.),RECEIVING,D,Perkin,REC,4
+23164034,9/3/2016,D-III,Hiram,Westmin. (Pa.),RECEIVING,D,Perkin,YDS,36
+23164035,9/3/2016,D-III,Hiram,Westmin. (Pa.),RECEIVING,D,Perkin,TD,0
+23164036,9/3/2016,D-III,Hiram,Westmin. (Pa.),RECEIVING,D,Perkin,LONG,26
+23164037,9/3/2016,D-III,Hiram,Westmin. (Pa.),RECEIVING,J,Luc,REC,5
+23164038,9/3/2016,D-III,Hiram,Westmin. (Pa.),RECEIVING,J,Luc,YDS,30
+23164039,9/3/2016,D-III,Hiram,Westmin. (Pa.),RECEIVING,J,Luc,TD,0
+23164040,9/3/2016,D-III,Hiram,Westmin. (Pa.),RECEIVING,J,Luc,LONG,8
+23164041,9/3/2016,D-III,Hiram,Westmin. (Pa.),RECEIVING,J,Philander,REC,2
+23164042,9/3/2016,D-III,Hiram,Westmin. (Pa.),RECEIVING,J,Philander,YDS,14
+23164043,9/3/2016,D-III,Hiram,Westmin. (Pa.),RECEIVING,J,Philander,TD,0
+23164044,9/3/2016,D-III,Hiram,Westmin. (Pa.),RECEIVING,J,Philander,LONG,10
+23164045,9/3/2016,D-III,Hiram,Westmin. (Pa.),RECEIVING,D,Robinson,REC,2
+23164046,9/3/2016,D-III,Hiram,Westmin. (Pa.),RECEIVING,D,Robinson,YDS,8
+23164047,9/3/2016,D-III,Hiram,Westmin. (Pa.),RECEIVING,D,Robinson,TD,0
+23164048,9/3/2016,D-III,Hiram,Westmin. (Pa.),RECEIVING,D,Robinson,LONG,6
+23164049,9/3/2016,D-III,Hiram,Westmin. (Pa.),PUNTING,D,Navar,NO,9
+23164050,9/3/2016,D-III,Hiram,Westmin. (Pa.),PUNTING,D,Navar,YDS,300
+23164051,9/3/2016,D-III,Hiram,Westmin. (Pa.),PUNTING,D,Navar,AVG,33.3
+23164052,9/3/2016,D-III,Hiram,Westmin. (Pa.),PUNTING,D,Navar,LONG,43
+23164053,9/3/2016,D-III,Hiram,Westmin. (Pa.),PUNT RETURNS,J,Philander,NO,1
+23164054,9/3/2016,D-III,Hiram,Westmin. (Pa.),PUNT RETURNS,J,Philander,YDS,2
+23164055,9/3/2016,D-III,Hiram,Westmin. (Pa.),PUNT RETURNS,J,Philander,AVG,2.0
+23164056,9/3/2016,D-III,Hiram,Westmin. (Pa.),PUNT RETURNS,J,Philander,LONG,2
+23164057,9/3/2016,D-III,Hiram,Westmin. (Pa.),PUNT RETURNS,M,Hernandez,NO,1
+23164058,9/3/2016,D-III,Hiram,Westmin. (Pa.),PUNT RETURNS,M,Hernandez,YDS,4
+23164059,9/3/2016,D-III,Hiram,Westmin. (Pa.),PUNT RETURNS,M,Hernandez,AVG,4.0
+23164060,9/3/2016,D-III,Hiram,Westmin. (Pa.),PUNT RETURNS,M,Hernandez,LONG,4
+23164061,9/3/2016,D-III,Hiram,Westmin. (Pa.),KICK RETURNS,H,Johnson,NO,1
+23164062,9/3/2016,D-III,Hiram,Westmin. (Pa.),KICK RETURNS,H,Johnson,YDS,8
+23164063,9/3/2016,D-III,Hiram,Westmin. (Pa.),KICK RETURNS,H,Johnson,AVG,8.0
+23164064,9/3/2016,D-III,Hiram,Westmin. (Pa.),KICK RETURNS,H,Johnson,LONG,8
+23164065,9/3/2016,D-III,Hiram,Westmin. (Pa.),KICK RETURNS,A,Kania,NO,5
+23164066,9/3/2016,D-III,Hiram,Westmin. (Pa.),KICK RETURNS,A,Kania,YDS,86
+23164067,9/3/2016,D-III,Hiram,Westmin. (Pa.),KICK RETURNS,A,Kania,AVG,17.2
+23164068,9/3/2016,D-III,Hiram,Westmin. (Pa.),KICK RETURNS,A,Kania,LONG,21
+23164069,9/3/2016,D-III,Hiram,Westmin. (Pa.),KICK RETURNS,M,Hernandez,NO,1
+23164070,9/3/2016,D-III,Hiram,Westmin. (Pa.),KICK RETURNS,M,Hernandez,YDS,14
+23164071,9/3/2016,D-III,Hiram,Westmin. (Pa.),KICK RETURNS,M,Hernandez,AVG,14.0
+23164072,9/3/2016,D-III,Hiram,Westmin. (Pa.),KICK RETURNS,M,Hernandez,LONG,14
+23164073,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,D,Mckinley,ATT,19
+23164074,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,D,Mckinley,YDS,81
+23164075,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,D,Mckinley,TD,0
+23164076,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,D,Mckinley,LONG,15
+23164077,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,Paul,Columbo,ATT,11
+23164078,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,Paul,Columbo,YDS,47
+23164079,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,Paul,Columbo,TD,0
+23164080,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,Paul,Columbo,LONG,32
+23164081,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,Keano,Grice,ATT,2
+23164082,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,Keano,Grice,YDS,32
+23164083,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,Keano,Grice,TD,1
+23164084,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,Keano,Grice,LONG,28
+23164085,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,Bryce,Hill,ATT,6
+23164086,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,Bryce,Hill,YDS,32
+23164087,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,Bryce,Hill,TD,1
+23164088,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,Bryce,Hill,LONG,18
+23164089,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,Hunter,Burns,ATT,3
+23164090,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,Hunter,Burns,YDS,19
+23164091,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,Hunter,Burns,TD,0
+23164092,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,Hunter,Burns,LONG,10
+23164093,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,Joseph,Salmen,ATT,1
+23164094,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,Joseph,Salmen,YDS,18
+23164095,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,Joseph,Salmen,TD,0
+23164096,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,Joseph,Salmen,LONG,18
+23164097,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,Tyler,Greene,ATT,4
+23164098,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,Tyler,Greene,YDS,18
+23164099,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,Tyler,Greene,TD,0
+23164100,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,Tyler,Greene,LONG,7
+23164101,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,J,Bentley,ATT,2
+23164102,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,J,Bentley,YDS,13
+23164103,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,J,Bentley,TD,0
+23164104,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,J,Bentley,LONG,8
+23164105,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,James,Leon,ATT,1
+23164106,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,James,Leon,YDS,4
+23164107,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,James,Leon,TD,0
+23164108,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,James,Leon,LONG,4
+23164109,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,Bill,Madeja,ATT,1
+23164110,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,Bill,Madeja,YDS,1
+23164111,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,Bill,Madeja,TD,1
+23164112,9/3/2016,D-III,Westmin. (Pa.),Hiram,RUSHING,Bill,Madeja,LONG,1
+23164113,9/3/2016,D-III,Westmin. (Pa.),Hiram,PASSING,Paul,Columbo,CP-ATT-INT,11-16-1
+23164114,9/3/2016,D-III,Westmin. (Pa.),Hiram,PASSING,Paul,Columbo,YDS,184
+23164115,9/3/2016,D-III,Westmin. (Pa.),Hiram,PASSING,Paul,Columbo,TD,2
+23164116,9/3/2016,D-III,Westmin. (Pa.),Hiram,PASSING,Paul,Columbo,LONG,39
+23164117,9/3/2016,D-III,Westmin. (Pa.),Hiram,RECEIVING,Lareese,Jackson,REC,3
+23164118,9/3/2016,D-III,Westmin. (Pa.),Hiram,RECEIVING,Lareese,Jackson,YDS,62
+23164119,9/3/2016,D-III,Westmin. (Pa.),Hiram,RECEIVING,Lareese,Jackson,TD,1
+23164120,9/3/2016,D-III,Westmin. (Pa.),Hiram,RECEIVING,Lareese,Jackson,LONG,29
+23164121,9/3/2016,D-III,Westmin. (Pa.),Hiram,RECEIVING,J,Bentley,REC,4
+23164122,9/3/2016,D-III,Westmin. (Pa.),Hiram,RECEIVING,J,Bentley,YDS,49
+23164123,9/3/2016,D-III,Westmin. (Pa.),Hiram,RECEIVING,J,Bentley,TD,1
+23164124,9/3/2016,D-III,Westmin. (Pa.),Hiram,RECEIVING,J,Bentley,LONG,29
+23164125,9/3/2016,D-III,Westmin. (Pa.),Hiram,RECEIVING,B,Paulinellie,REC,1
+23164126,9/3/2016,D-III,Westmin. (Pa.),Hiram,RECEIVING,B,Paulinellie,YDS,39
+23164127,9/3/2016,D-III,Westmin. (Pa.),Hiram,RECEIVING,B,Paulinellie,TD,0
+23164128,9/3/2016,D-III,Westmin. (Pa.),Hiram,RECEIVING,B,Paulinellie,LONG,39
+23164129,9/3/2016,D-III,Westmin. (Pa.),Hiram,RECEIVING,Dylan,Goff,REC,1
+23164130,9/3/2016,D-III,Westmin. (Pa.),Hiram,RECEIVING,Dylan,Goff,YDS,33
+23164131,9/3/2016,D-III,Westmin. (Pa.),Hiram,RECEIVING,Dylan,Goff,TD,0
+23164132,9/3/2016,D-III,Westmin. (Pa.),Hiram,RECEIVING,Dylan,Goff,LONG,33
+23164133,9/3/2016,D-III,Westmin. (Pa.),Hiram,RECEIVING,Anthony,Livoti,REC,1
+23164134,9/3/2016,D-III,Westmin. (Pa.),Hiram,RECEIVING,Anthony,Livoti,YDS,7
+23164135,9/3/2016,D-III,Westmin. (Pa.),Hiram,RECEIVING,Anthony,Livoti,TD,0
+23164136,9/3/2016,D-III,Westmin. (Pa.),Hiram,RECEIVING,Anthony,Livoti,LONG,7
+23164137,9/3/2016,D-III,Westmin. (Pa.),Hiram,RECEIVING,Bryce,Hill,REC,1
+23164138,9/3/2016,D-III,Westmin. (Pa.),Hiram,RECEIVING,Bryce,Hill,YDS,-6
+23164139,9/3/2016,D-III,Westmin. (Pa.),Hiram,RECEIVING,Bryce,Hill,TD,0
+23164140,9/3/2016,D-III,Westmin. (Pa.),Hiram,RECEIVING,Bryce,Hill,LONG,0
+23164141,9/3/2016,D-III,Westmin. (Pa.),Hiram,PUNTING,Joseph,Salmen,NO,4
+23164142,9/3/2016,D-III,Westmin. (Pa.),Hiram,PUNTING,Joseph,Salmen,YDS,156
+23164143,9/3/2016,D-III,Westmin. (Pa.),Hiram,PUNTING,Joseph,Salmen,AVG,39.0
+23164144,9/3/2016,D-III,Westmin. (Pa.),Hiram,PUNTING,Joseph,Salmen,LONG,41
+23164145,9/3/2016,D-III,Westmin. (Pa.),Hiram,PUNT RETURNS,B,Paulinellie,NO,1
+23164146,9/3/2016,D-III,Westmin. (Pa.),Hiram,PUNT RETURNS,B,Paulinellie,YDS,0
+23164147,9/3/2016,D-III,Westmin. (Pa.),Hiram,PUNT RETURNS,B,Paulinellie,AVG,0.0
+23164148,9/3/2016,D-III,Westmin. (Pa.),Hiram,PUNT RETURNS,B,Paulinellie,LONG,0
+23164149,9/3/2016,D-III,Westmin. (Pa.),Hiram,KICK RETURNS,J,Bentley,NO,1
+23164150,9/3/2016,D-III,Westmin. (Pa.),Hiram,KICK RETURNS,J,Bentley,YDS,93
+23164151,9/3/2016,D-III,Westmin. (Pa.),Hiram,KICK RETURNS,J,Bentley,AVG,93.0
+23164152,9/3/2016,D-III,Westmin. (Pa.),Hiram,KICK RETURNS,J,Bentley,LONG,93

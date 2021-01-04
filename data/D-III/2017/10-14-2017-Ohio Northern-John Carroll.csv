@@ -1,0 +1,121 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+25099001,10/14/2017,D-III,Ohio Northern,John Carroll,RUSHING,Chrstn,Williams,ATT,31
+25099002,10/14/2017,D-III,Ohio Northern,John Carroll,RUSHING,Chrstn,Williams,YDS,212
+25099003,10/14/2017,D-III,Ohio Northern,John Carroll,RUSHING,Chrstn,Williams,TD,0
+25099004,10/14/2017,D-III,Ohio Northern,John Carroll,RUSHING,Chrstn,Williams,LONG,21
+25099005,10/14/2017,D-III,Ohio Northern,John Carroll,RUSHING,Rodney,Holmes,ATT,6
+25099006,10/14/2017,D-III,Ohio Northern,John Carroll,RUSHING,Rodney,Holmes,YDS,9
+25099007,10/14/2017,D-III,Ohio Northern,John Carroll,RUSHING,Rodney,Holmes,TD,0
+25099008,10/14/2017,D-III,Ohio Northern,John Carroll,RUSHING,Rodney,Holmes,LONG,4
+25099009,10/14/2017,D-III,Ohio Northern,John Carroll,RUSHING,,Team,ATT,2
+25099010,10/14/2017,D-III,Ohio Northern,John Carroll,RUSHING,,Team,YDS,3
+25099011,10/14/2017,D-III,Ohio Northern,John Carroll,RUSHING,,Team,TD,0
+25099012,10/14/2017,D-III,Ohio Northern,John Carroll,RUSHING,,Team,LONG,2
+25099013,10/14/2017,D-III,Ohio Northern,John Carroll,RUSHING,Will,Freed,ATT,4
+25099014,10/14/2017,D-III,Ohio Northern,John Carroll,RUSHING,Will,Freed,YDS,-21
+25099015,10/14/2017,D-III,Ohio Northern,John Carroll,RUSHING,Will,Freed,TD,0
+25099016,10/14/2017,D-III,Ohio Northern,John Carroll,RUSHING,Will,Freed,LONG,1
+25099017,10/14/2017,D-III,Ohio Northern,John Carroll,PASSING,Will,Freed,CP-ATT-INT,20-39-1
+25099018,10/14/2017,D-III,Ohio Northern,John Carroll,PASSING,Will,Freed,YDS,328
+25099019,10/14/2017,D-III,Ohio Northern,John Carroll,PASSING,Will,Freed,TD,3
+25099020,10/14/2017,D-III,Ohio Northern,John Carroll,PASSING,Will,Freed,LONG,41
+25099021,10/14/2017,D-III,Ohio Northern,John Carroll,RECEIVING,Chad,Rex,REC,7
+25099022,10/14/2017,D-III,Ohio Northern,John Carroll,RECEIVING,Chad,Rex,YDS,111
+25099023,10/14/2017,D-III,Ohio Northern,John Carroll,RECEIVING,Chad,Rex,TD,0
+25099024,10/14/2017,D-III,Ohio Northern,John Carroll,RECEIVING,Chad,Rex,LONG,41
+25099025,10/14/2017,D-III,Ohio Northern,John Carroll,RECEIVING,Chrstn,Williams,REC,4
+25099026,10/14/2017,D-III,Ohio Northern,John Carroll,RECEIVING,Chrstn,Williams,YDS,82
+25099027,10/14/2017,D-III,Ohio Northern,John Carroll,RECEIVING,Chrstn,Williams,TD,0
+25099028,10/14/2017,D-III,Ohio Northern,John Carroll,RECEIVING,Chrstn,Williams,LONG,41
+25099029,10/14/2017,D-III,Ohio Northern,John Carroll,RECEIVING,Caleb,Saalfeld,REC,3
+25099030,10/14/2017,D-III,Ohio Northern,John Carroll,RECEIVING,Caleb,Saalfeld,YDS,64
+25099031,10/14/2017,D-III,Ohio Northern,John Carroll,RECEIVING,Caleb,Saalfeld,TD,1
+25099032,10/14/2017,D-III,Ohio Northern,John Carroll,RECEIVING,Caleb,Saalfeld,LONG,33
+25099033,10/14/2017,D-III,Ohio Northern,John Carroll,RECEIVING,,Team,REC,3
+25099034,10/14/2017,D-III,Ohio Northern,John Carroll,RECEIVING,,Team,YDS,31
+25099035,10/14/2017,D-III,Ohio Northern,John Carroll,RECEIVING,,Team,TD,0
+25099036,10/14/2017,D-III,Ohio Northern,John Carroll,RECEIVING,,Team,LONG,18
+25099037,10/14/2017,D-III,Ohio Northern,John Carroll,RECEIVING,Rodney,Holmes,REC,2
+25099038,10/14/2017,D-III,Ohio Northern,John Carroll,RECEIVING,Rodney,Holmes,YDS,22
+25099039,10/14/2017,D-III,Ohio Northern,John Carroll,RECEIVING,Rodney,Holmes,TD,1
+25099040,10/14/2017,D-III,Ohio Northern,John Carroll,RECEIVING,Rodney,Holmes,LONG,12
+25099041,10/14/2017,D-III,Ohio Northern,John Carroll,RECEIVING,Ryan,Rockwell,REC,1
+25099042,10/14/2017,D-III,Ohio Northern,John Carroll,RECEIVING,Ryan,Rockwell,YDS,18
+25099043,10/14/2017,D-III,Ohio Northern,John Carroll,RECEIVING,Ryan,Rockwell,TD,1
+25099044,10/14/2017,D-III,Ohio Northern,John Carroll,RECEIVING,Ryan,Rockwell,LONG,18
+25099045,10/14/2017,D-III,Ohio Northern,John Carroll,PUNTING,Shawn,Scribner,NO,4
+25099046,10/14/2017,D-III,Ohio Northern,John Carroll,PUNTING,Shawn,Scribner,YDS,142
+25099047,10/14/2017,D-III,Ohio Northern,John Carroll,PUNTING,Shawn,Scribner,AVG,35.5
+25099048,10/14/2017,D-III,Ohio Northern,John Carroll,PUNTING,Shawn,Scribner,LONG,40
+25099049,10/14/2017,D-III,Ohio Northern,John Carroll,PUNT RETURNS,Caleb,Saalfeld,NO,2
+25099050,10/14/2017,D-III,Ohio Northern,John Carroll,PUNT RETURNS,Caleb,Saalfeld,YDS,-6
+25099051,10/14/2017,D-III,Ohio Northern,John Carroll,PUNT RETURNS,Caleb,Saalfeld,AVG,-3.0
+25099052,10/14/2017,D-III,Ohio Northern,John Carroll,PUNT RETURNS,Caleb,Saalfeld,LONG,0
+25099053,10/14/2017,D-III,Ohio Northern,John Carroll,KICK RETURNS,Caleb,Saalfeld,NO,3
+25099054,10/14/2017,D-III,Ohio Northern,John Carroll,KICK RETURNS,Caleb,Saalfeld,YDS,45
+25099055,10/14/2017,D-III,Ohio Northern,John Carroll,KICK RETURNS,Caleb,Saalfeld,AVG,15.0
+25099056,10/14/2017,D-III,Ohio Northern,John Carroll,KICK RETURNS,Caleb,Saalfeld,LONG,22
+25099057,10/14/2017,D-III,John Carroll,Ohio Northern,RUSHING,Ro,Golphin,ATT,15
+25099058,10/14/2017,D-III,John Carroll,Ohio Northern,RUSHING,Ro,Golphin,YDS,130
+25099059,10/14/2017,D-III,John Carroll,Ohio Northern,RUSHING,Ro,Golphin,TD,1
+25099060,10/14/2017,D-III,John Carroll,Ohio Northern,RUSHING,Ro,Golphin,LONG,48
+25099061,10/14/2017,D-III,John Carroll,Ohio Northern,RUSHING,Sam,Kukura,ATT,12
+25099062,10/14/2017,D-III,John Carroll,Ohio Northern,RUSHING,Sam,Kukura,YDS,53
+25099063,10/14/2017,D-III,John Carroll,Ohio Northern,RUSHING,Sam,Kukura,TD,0
+25099064,10/14/2017,D-III,John Carroll,Ohio Northern,RUSHING,Sam,Kukura,LONG,13
+25099065,10/14/2017,D-III,John Carroll,Ohio Northern,RUSHING,Evan,Nugent,ATT,1
+25099066,10/14/2017,D-III,John Carroll,Ohio Northern,RUSHING,Evan,Nugent,YDS,16
+25099067,10/14/2017,D-III,John Carroll,Ohio Northern,RUSHING,Evan,Nugent,TD,0
+25099068,10/14/2017,D-III,John Carroll,Ohio Northern,RUSHING,Evan,Nugent,LONG,16
+25099069,10/14/2017,D-III,John Carroll,Ohio Northern,RUSHING,Josh,Delozier,ATT,1
+25099070,10/14/2017,D-III,John Carroll,Ohio Northern,RUSHING,Josh,Delozier,YDS,3
+25099071,10/14/2017,D-III,John Carroll,Ohio Northern,RUSHING,Josh,Delozier,TD,0
+25099072,10/14/2017,D-III,John Carroll,Ohio Northern,RUSHING,Josh,Delozier,LONG,3
+25099073,10/14/2017,D-III,John Carroll,Ohio Northern,RUSHING,Kody,Kidd,ATT,1
+25099074,10/14/2017,D-III,John Carroll,Ohio Northern,RUSHING,Kody,Kidd,YDS,-1
+25099075,10/14/2017,D-III,John Carroll,Ohio Northern,RUSHING,Kody,Kidd,TD,0
+25099076,10/14/2017,D-III,John Carroll,Ohio Northern,RUSHING,Kody,Kidd,LONG,0
+25099077,10/14/2017,D-III,John Carroll,Ohio Northern,RUSHING,Anthony,Moeglin,ATT,5
+25099078,10/14/2017,D-III,John Carroll,Ohio Northern,RUSHING,Anthony,Moeglin,YDS,-27
+25099079,10/14/2017,D-III,John Carroll,Ohio Northern,RUSHING,Anthony,Moeglin,TD,0
+25099080,10/14/2017,D-III,John Carroll,Ohio Northern,RUSHING,Anthony,Moeglin,LONG,0
+25099081,10/14/2017,D-III,John Carroll,Ohio Northern,PASSING,Anthony,Moeglin,CP-ATT-INT,13-28-0
+25099082,10/14/2017,D-III,John Carroll,Ohio Northern,PASSING,Anthony,Moeglin,YDS,118
+25099083,10/14/2017,D-III,John Carroll,Ohio Northern,PASSING,Anthony,Moeglin,TD,1
+25099084,10/14/2017,D-III,John Carroll,Ohio Northern,PASSING,Anthony,Moeglin,LONG,21
+25099085,10/14/2017,D-III,John Carroll,Ohio Northern,RECEIVING,Brian,Kornowski,REC,7
+25099086,10/14/2017,D-III,John Carroll,Ohio Northern,RECEIVING,Brian,Kornowski,YDS,60
+25099087,10/14/2017,D-III,John Carroll,Ohio Northern,RECEIVING,Brian,Kornowski,TD,1
+25099088,10/14/2017,D-III,John Carroll,Ohio Northern,RECEIVING,Brian,Kornowski,LONG,21
+25099089,10/14/2017,D-III,John Carroll,Ohio Northern,RECEIVING,E,Williamson,REC,2
+25099090,10/14/2017,D-III,John Carroll,Ohio Northern,RECEIVING,E,Williamson,YDS,36
+25099091,10/14/2017,D-III,John Carroll,Ohio Northern,RECEIVING,E,Williamson,TD,0
+25099092,10/14/2017,D-III,John Carroll,Ohio Northern,RECEIVING,E,Williamson,LONG,20
+25099093,10/14/2017,D-III,John Carroll,Ohio Northern,RECEIVING,Danny,Disbrow,REC,1
+25099094,10/14/2017,D-III,John Carroll,Ohio Northern,RECEIVING,Danny,Disbrow,YDS,12
+25099095,10/14/2017,D-III,John Carroll,Ohio Northern,RECEIVING,Danny,Disbrow,TD,0
+25099096,10/14/2017,D-III,John Carroll,Ohio Northern,RECEIVING,Danny,Disbrow,LONG,12
+25099097,10/14/2017,D-III,John Carroll,Ohio Northern,RECEIVING,Stan,eladIi,REC,1
+25099098,10/14/2017,D-III,John Carroll,Ohio Northern,RECEIVING,Stan,eladIi,YDS,9
+25099099,10/14/2017,D-III,John Carroll,Ohio Northern,RECEIVING,Stan,eladIi,TD,0
+25099100,10/14/2017,D-III,John Carroll,Ohio Northern,RECEIVING,Stan,eladIi,LONG,9
+25099101,10/14/2017,D-III,John Carroll,Ohio Northern,RECEIVING,Arin,Pruitt,REC,1
+25099102,10/14/2017,D-III,John Carroll,Ohio Northern,RECEIVING,Arin,Pruitt,YDS,2
+25099103,10/14/2017,D-III,John Carroll,Ohio Northern,RECEIVING,Arin,Pruitt,TD,0
+25099104,10/14/2017,D-III,John Carroll,Ohio Northern,RECEIVING,Arin,Pruitt,LONG,2
+25099105,10/14/2017,D-III,John Carroll,Ohio Northern,RECEIVING,Josh,Delozier,REC,1
+25099106,10/14/2017,D-III,John Carroll,Ohio Northern,RECEIVING,Josh,Delozier,YDS,-1
+25099107,10/14/2017,D-III,John Carroll,Ohio Northern,RECEIVING,Josh,Delozier,TD,0
+25099108,10/14/2017,D-III,John Carroll,Ohio Northern,RECEIVING,Josh,Delozier,LONG,0
+25099109,10/14/2017,D-III,John Carroll,Ohio Northern,PUNTING,Chad,Stalnaker,NO,7
+25099110,10/14/2017,D-III,John Carroll,Ohio Northern,PUNTING,Chad,Stalnaker,YDS,278
+25099111,10/14/2017,D-III,John Carroll,Ohio Northern,PUNTING,Chad,Stalnaker,AVG,39.7
+25099112,10/14/2017,D-III,John Carroll,Ohio Northern,PUNTING,Chad,Stalnaker,LONG,47
+25099113,10/14/2017,D-III,John Carroll,Ohio Northern,KICK RETURNS,E,Williamson,NO,2
+25099114,10/14/2017,D-III,John Carroll,Ohio Northern,KICK RETURNS,E,Williamson,YDS,50
+25099115,10/14/2017,D-III,John Carroll,Ohio Northern,KICK RETURNS,E,Williamson,AVG,25.0
+25099116,10/14/2017,D-III,John Carroll,Ohio Northern,KICK RETURNS,E,Williamson,LONG,32
+25099117,10/14/2017,D-III,John Carroll,Ohio Northern,KICK RETURNS,Evan,Nugent,NO,2
+25099118,10/14/2017,D-III,John Carroll,Ohio Northern,KICK RETURNS,Evan,Nugent,YDS,54
+25099119,10/14/2017,D-III,John Carroll,Ohio Northern,KICK RETURNS,Evan,Nugent,AVG,27.0
+25099120,10/14/2017,D-III,John Carroll,Ohio Northern,KICK RETURNS,Evan,Nugent,LONG,34

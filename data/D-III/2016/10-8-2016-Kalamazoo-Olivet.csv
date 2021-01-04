@@ -1,0 +1,185 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+23623001,10/8/2016,D-III,Kalamazoo,Olivet,RUSHING,Lorenzo,Redmond,ATT,6
+23623002,10/8/2016,D-III,Kalamazoo,Olivet,RUSHING,Lorenzo,Redmond,YDS,10
+23623003,10/8/2016,D-III,Kalamazoo,Olivet,RUSHING,Lorenzo,Redmond,TD,0
+23623004,10/8/2016,D-III,Kalamazoo,Olivet,RUSHING,Lorenzo,Redmond,LONG,9
+23623005,10/8/2016,D-III,Kalamazoo,Olivet,RUSHING,Jared,Pittman,ATT,4
+23623006,10/8/2016,D-III,Kalamazoo,Olivet,RUSHING,Jared,Pittman,YDS,3
+23623007,10/8/2016,D-III,Kalamazoo,Olivet,RUSHING,Jared,Pittman,TD,0
+23623008,10/8/2016,D-III,Kalamazoo,Olivet,RUSHING,Jared,Pittman,LONG,4
+23623009,10/8/2016,D-III,Kalamazoo,Olivet,RUSHING,Z,Vanfaussien,ATT,3
+23623010,10/8/2016,D-III,Kalamazoo,Olivet,RUSHING,Z,Vanfaussien,YDS,-6
+23623011,10/8/2016,D-III,Kalamazoo,Olivet,RUSHING,Z,Vanfaussien,TD,0
+23623012,10/8/2016,D-III,Kalamazoo,Olivet,RUSHING,Z,Vanfaussien,LONG,0
+23623013,10/8/2016,D-III,Kalamazoo,Olivet,RUSHING,Alex,White,ATT,11
+23623014,10/8/2016,D-III,Kalamazoo,Olivet,RUSHING,Alex,White,YDS,-12
+23623015,10/8/2016,D-III,Kalamazoo,Olivet,RUSHING,Alex,White,TD,1
+23623016,10/8/2016,D-III,Kalamazoo,Olivet,RUSHING,Alex,White,LONG,7
+23623017,10/8/2016,D-III,Kalamazoo,Olivet,PASSING,Alex,White,CP-ATT-INT,17-44-1
+23623018,10/8/2016,D-III,Kalamazoo,Olivet,PASSING,Alex,White,YDS,218
+23623019,10/8/2016,D-III,Kalamazoo,Olivet,PASSING,Alex,White,TD,0
+23623020,10/8/2016,D-III,Kalamazoo,Olivet,PASSING,Alex,White,LONG,41
+23623021,10/8/2016,D-III,Kalamazoo,Olivet,PASSING,Z,Vanfaussien,CP-ATT-INT,1-2-0
+23623022,10/8/2016,D-III,Kalamazoo,Olivet,PASSING,Z,Vanfaussien,YDS,15
+23623023,10/8/2016,D-III,Kalamazoo,Olivet,PASSING,Z,Vanfaussien,TD,0
+23623024,10/8/2016,D-III,Kalamazoo,Olivet,PASSING,Z,Vanfaussien,LONG,15
+23623025,10/8/2016,D-III,Kalamazoo,Olivet,PASSING,George,Fishback,CP-ATT-INT,1-1-0
+23623026,10/8/2016,D-III,Kalamazoo,Olivet,PASSING,George,Fishback,YDS,14
+23623027,10/8/2016,D-III,Kalamazoo,Olivet,PASSING,George,Fishback,TD,0
+23623028,10/8/2016,D-III,Kalamazoo,Olivet,PASSING,George,Fishback,LONG,14
+23623029,10/8/2016,D-III,Kalamazoo,Olivet,RECEIVING,Zak,Zagon,REC,4
+23623030,10/8/2016,D-III,Kalamazoo,Olivet,RECEIVING,Zak,Zagon,YDS,68
+23623031,10/8/2016,D-III,Kalamazoo,Olivet,RECEIVING,Zak,Zagon,TD,0
+23623032,10/8/2016,D-III,Kalamazoo,Olivet,RECEIVING,Zak,Zagon,LONG,25
+23623033,10/8/2016,D-III,Kalamazoo,Olivet,RECEIVING,Seth,Dexter,REC,4
+23623034,10/8/2016,D-III,Kalamazoo,Olivet,RECEIVING,Seth,Dexter,YDS,64
+23623035,10/8/2016,D-III,Kalamazoo,Olivet,RECEIVING,Seth,Dexter,TD,0
+23623036,10/8/2016,D-III,Kalamazoo,Olivet,RECEIVING,Seth,Dexter,LONG,41
+23623037,10/8/2016,D-III,Kalamazoo,Olivet,RECEIVING,Collin,Feilla,REC,3
+23623038,10/8/2016,D-III,Kalamazoo,Olivet,RECEIVING,Collin,Feilla,YDS,43
+23623039,10/8/2016,D-III,Kalamazoo,Olivet,RECEIVING,Collin,Feilla,TD,0
+23623040,10/8/2016,D-III,Kalamazoo,Olivet,RECEIVING,Collin,Feilla,LONG,28
+23623041,10/8/2016,D-III,Kalamazoo,Olivet,RECEIVING,Ethan,Kubik,REC,1
+23623042,10/8/2016,D-III,Kalamazoo,Olivet,RECEIVING,Ethan,Kubik,YDS,15
+23623043,10/8/2016,D-III,Kalamazoo,Olivet,RECEIVING,Ethan,Kubik,TD,0
+23623044,10/8/2016,D-III,Kalamazoo,Olivet,RECEIVING,Ethan,Kubik,LONG,15
+23623045,10/8/2016,D-III,Kalamazoo,Olivet,RECEIVING,Clay,Wilkey,REC,1
+23623046,10/8/2016,D-III,Kalamazoo,Olivet,RECEIVING,Clay,Wilkey,YDS,14
+23623047,10/8/2016,D-III,Kalamazoo,Olivet,RECEIVING,Clay,Wilkey,TD,0
+23623048,10/8/2016,D-III,Kalamazoo,Olivet,RECEIVING,Clay,Wilkey,LONG,14
+23623049,10/8/2016,D-III,Kalamazoo,Olivet,RECEIVING,Lorenzo,Redmond,REC,3
+23623050,10/8/2016,D-III,Kalamazoo,Olivet,RECEIVING,Lorenzo,Redmond,YDS,13
+23623051,10/8/2016,D-III,Kalamazoo,Olivet,RECEIVING,Lorenzo,Redmond,TD,0
+23623052,10/8/2016,D-III,Kalamazoo,Olivet,RECEIVING,Lorenzo,Redmond,LONG,5
+23623053,10/8/2016,D-III,Kalamazoo,Olivet,RECEIVING,Jared,Pittman,REC,1
+23623054,10/8/2016,D-III,Kalamazoo,Olivet,RECEIVING,Jared,Pittman,YDS,13
+23623055,10/8/2016,D-III,Kalamazoo,Olivet,RECEIVING,Jared,Pittman,TD,0
+23623056,10/8/2016,D-III,Kalamazoo,Olivet,RECEIVING,Jared,Pittman,LONG,13
+23623057,10/8/2016,D-III,Kalamazoo,Olivet,RECEIVING,A,Giovanni,REC,1
+23623058,10/8/2016,D-III,Kalamazoo,Olivet,RECEIVING,A,Giovanni,YDS,12
+23623059,10/8/2016,D-III,Kalamazoo,Olivet,RECEIVING,A,Giovanni,TD,0
+23623060,10/8/2016,D-III,Kalamazoo,Olivet,RECEIVING,A,Giovanni,LONG,12
+23623061,10/8/2016,D-III,Kalamazoo,Olivet,RECEIVING,Mason,Sarosi,REC,1
+23623062,10/8/2016,D-III,Kalamazoo,Olivet,RECEIVING,Mason,Sarosi,YDS,5
+23623063,10/8/2016,D-III,Kalamazoo,Olivet,RECEIVING,Mason,Sarosi,TD,0
+23623064,10/8/2016,D-III,Kalamazoo,Olivet,RECEIVING,Mason,Sarosi,LONG,5
+23623065,10/8/2016,D-III,Kalamazoo,Olivet,PUNTING,George,Fishback,NO,10
+23623066,10/8/2016,D-III,Kalamazoo,Olivet,PUNTING,George,Fishback,YDS,383
+23623067,10/8/2016,D-III,Kalamazoo,Olivet,PUNTING,George,Fishback,AVG,38.3
+23623068,10/8/2016,D-III,Kalamazoo,Olivet,PUNTING,George,Fishback,LONG,51
+23623069,10/8/2016,D-III,Kalamazoo,Olivet,PUNTING,,Team,NO,1
+23623070,10/8/2016,D-III,Kalamazoo,Olivet,PUNTING,,Team,YDS,0
+23623071,10/8/2016,D-III,Kalamazoo,Olivet,PUNTING,,Team,AVG,0.0
+23623072,10/8/2016,D-III,Kalamazoo,Olivet,PUNTING,,Team,LONG,0
+23623073,10/8/2016,D-III,Kalamazoo,Olivet,PUNT RETURNS,Seth,Dexter,NO,1
+23623074,10/8/2016,D-III,Kalamazoo,Olivet,PUNT RETURNS,Seth,Dexter,YDS,13
+23623075,10/8/2016,D-III,Kalamazoo,Olivet,PUNT RETURNS,Seth,Dexter,AVG,13.0
+23623076,10/8/2016,D-III,Kalamazoo,Olivet,PUNT RETURNS,Seth,Dexter,LONG,13
+23623077,10/8/2016,D-III,Kalamazoo,Olivet,KICK RETURNS,A,Giovanni,NO,3
+23623078,10/8/2016,D-III,Kalamazoo,Olivet,KICK RETURNS,A,Giovanni,YDS,47
+23623079,10/8/2016,D-III,Kalamazoo,Olivet,KICK RETURNS,A,Giovanni,AVG,15.7
+23623080,10/8/2016,D-III,Kalamazoo,Olivet,KICK RETURNS,A,Giovanni,LONG,25
+23623081,10/8/2016,D-III,Kalamazoo,Olivet,KICK RETURNS,Jared,Pittman,NO,2
+23623082,10/8/2016,D-III,Kalamazoo,Olivet,KICK RETURNS,Jared,Pittman,YDS,57
+23623083,10/8/2016,D-III,Kalamazoo,Olivet,KICK RETURNS,Jared,Pittman,AVG,28.5
+23623084,10/8/2016,D-III,Kalamazoo,Olivet,KICK RETURNS,Jared,Pittman,LONG,45
+23623085,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,Damorria,Lilly,ATT,14
+23623086,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,Damorria,Lilly,YDS,58
+23623087,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,Damorria,Lilly,TD,1
+23623088,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,Damorria,Lilly,LONG,9
+23623089,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,Tyler,Mojet,ATT,7
+23623090,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,Tyler,Mojet,YDS,24
+23623091,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,Tyler,Mojet,TD,0
+23623092,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,Tyler,Mojet,LONG,9
+23623093,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,Braden,Black,ATT,9
+23623094,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,Braden,Black,YDS,20
+23623095,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,Braden,Black,TD,0
+23623096,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,Braden,Black,LONG,8
+23623097,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,J,Washington,ATT,3
+23623098,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,J,Washington,YDS,7
+23623099,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,J,Washington,TD,0
+23623100,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,J,Washington,LONG,4
+23623101,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,C,Jones,ATT,3
+23623102,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,C,Jones,YDS,5
+23623103,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,C,Jones,TD,1
+23623104,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,C,Jones,LONG,3
+23623105,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,Lane,Porter,ATT,2
+23623106,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,Lane,Porter,YDS,3
+23623107,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,Lane,Porter,TD,0
+23623108,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,Lane,Porter,LONG,4
+23623109,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,Andre,Houston,ATT,4
+23623110,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,Andre,Houston,YDS,3
+23623111,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,Andre,Houston,TD,0
+23623112,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,Andre,Houston,LONG,4
+23623113,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,Anthony,Adkins,ATT,1
+23623114,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,Anthony,Adkins,YDS,2
+23623115,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,Anthony,Adkins,TD,0
+23623116,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,Anthony,Adkins,LONG,2
+23623117,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,Brandon,Benac,ATT,1
+23623118,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,Brandon,Benac,YDS,2
+23623119,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,Brandon,Benac,TD,0
+23623120,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,Brandon,Benac,LONG,2
+23623121,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,Matthew,Sims,ATT,1
+23623122,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,Matthew,Sims,YDS,-8
+23623123,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,Matthew,Sims,TD,0
+23623124,10/8/2016,D-III,Olivet,Kalamazoo,RUSHING,Matthew,Sims,LONG,0
+23623125,10/8/2016,D-III,Olivet,Kalamazoo,PASSING,Braden,Black,CP-ATT-INT,25-35-0
+23623126,10/8/2016,D-III,Olivet,Kalamazoo,PASSING,Braden,Black,YDS,260
+23623127,10/8/2016,D-III,Olivet,Kalamazoo,PASSING,Braden,Black,TD,3
+23623128,10/8/2016,D-III,Olivet,Kalamazoo,PASSING,Braden,Black,LONG,30
+23623129,10/8/2016,D-III,Olivet,Kalamazoo,RECEIVING,Mitchell,Bailey,REC,8
+23623130,10/8/2016,D-III,Olivet,Kalamazoo,RECEIVING,Mitchell,Bailey,YDS,97
+23623131,10/8/2016,D-III,Olivet,Kalamazoo,RECEIVING,Mitchell,Bailey,TD,1
+23623132,10/8/2016,D-III,Olivet,Kalamazoo,RECEIVING,Mitchell,Bailey,LONG,23
+23623133,10/8/2016,D-III,Olivet,Kalamazoo,RECEIVING,K,Saxton,REC,8
+23623134,10/8/2016,D-III,Olivet,Kalamazoo,RECEIVING,K,Saxton,YDS,76
+23623135,10/8/2016,D-III,Olivet,Kalamazoo,RECEIVING,K,Saxton,TD,1
+23623136,10/8/2016,D-III,Olivet,Kalamazoo,RECEIVING,K,Saxton,LONG,30
+23623137,10/8/2016,D-III,Olivet,Kalamazoo,RECEIVING,Travis,Lankerd,REC,3
+23623138,10/8/2016,D-III,Olivet,Kalamazoo,RECEIVING,Travis,Lankerd,YDS,26
+23623139,10/8/2016,D-III,Olivet,Kalamazoo,RECEIVING,Travis,Lankerd,TD,0
+23623140,10/8/2016,D-III,Olivet,Kalamazoo,RECEIVING,Travis,Lankerd,LONG,10
+23623141,10/8/2016,D-III,Olivet,Kalamazoo,RECEIVING,Jacob,Jodway,REC,1
+23623142,10/8/2016,D-III,Olivet,Kalamazoo,RECEIVING,Jacob,Jodway,YDS,23
+23623143,10/8/2016,D-III,Olivet,Kalamazoo,RECEIVING,Jacob,Jodway,TD,1
+23623144,10/8/2016,D-III,Olivet,Kalamazoo,RECEIVING,Jacob,Jodway,LONG,23
+23623145,10/8/2016,D-III,Olivet,Kalamazoo,RECEIVING,Ryan,Anderson,REC,2
+23623146,10/8/2016,D-III,Olivet,Kalamazoo,RECEIVING,Ryan,Anderson,YDS,18
+23623147,10/8/2016,D-III,Olivet,Kalamazoo,RECEIVING,Ryan,Anderson,TD,0
+23623148,10/8/2016,D-III,Olivet,Kalamazoo,RECEIVING,Ryan,Anderson,LONG,14
+23623149,10/8/2016,D-III,Olivet,Kalamazoo,RECEIVING,Damorria,Lilly,REC,1
+23623150,10/8/2016,D-III,Olivet,Kalamazoo,RECEIVING,Damorria,Lilly,YDS,7
+23623151,10/8/2016,D-III,Olivet,Kalamazoo,RECEIVING,Damorria,Lilly,TD,0
+23623152,10/8/2016,D-III,Olivet,Kalamazoo,RECEIVING,Damorria,Lilly,LONG,7
+23623153,10/8/2016,D-III,Olivet,Kalamazoo,RECEIVING,Thomas,White,REC,1
+23623154,10/8/2016,D-III,Olivet,Kalamazoo,RECEIVING,Thomas,White,YDS,7
+23623155,10/8/2016,D-III,Olivet,Kalamazoo,RECEIVING,Thomas,White,TD,0
+23623156,10/8/2016,D-III,Olivet,Kalamazoo,RECEIVING,Thomas,White,LONG,7
+23623157,10/8/2016,D-III,Olivet,Kalamazoo,RECEIVING,Andre,Houston,REC,1
+23623158,10/8/2016,D-III,Olivet,Kalamazoo,RECEIVING,Andre,Houston,YDS,6
+23623159,10/8/2016,D-III,Olivet,Kalamazoo,RECEIVING,Andre,Houston,TD,0
+23623160,10/8/2016,D-III,Olivet,Kalamazoo,RECEIVING,Andre,Houston,LONG,6
+23623161,10/8/2016,D-III,Olivet,Kalamazoo,PUNTING,Braden,Black,NO,1
+23623162,10/8/2016,D-III,Olivet,Kalamazoo,PUNTING,Braden,Black,YDS,39
+23623163,10/8/2016,D-III,Olivet,Kalamazoo,PUNTING,Braden,Black,AVG,39.0
+23623164,10/8/2016,D-III,Olivet,Kalamazoo,PUNTING,Braden,Black,LONG,39
+23623165,10/8/2016,D-III,Olivet,Kalamazoo,PUNTING,Ryan,Anderson,NO,6
+23623166,10/8/2016,D-III,Olivet,Kalamazoo,PUNTING,Ryan,Anderson,YDS,288
+23623167,10/8/2016,D-III,Olivet,Kalamazoo,PUNTING,Ryan,Anderson,AVG,48.0
+23623168,10/8/2016,D-III,Olivet,Kalamazoo,PUNTING,Ryan,Anderson,LONG,56
+23623169,10/8/2016,D-III,Olivet,Kalamazoo,PUNT RETURNS,Mitchell,Bailey,NO,3
+23623170,10/8/2016,D-III,Olivet,Kalamazoo,PUNT RETURNS,Mitchell,Bailey,YDS,9
+23623171,10/8/2016,D-III,Olivet,Kalamazoo,PUNT RETURNS,Mitchell,Bailey,AVG,3.0
+23623172,10/8/2016,D-III,Olivet,Kalamazoo,PUNT RETURNS,Mitchell,Bailey,LONG,5
+23623173,10/8/2016,D-III,Olivet,Kalamazoo,PUNT RETURNS,Kyle,Neering,NO,1
+23623174,10/8/2016,D-III,Olivet,Kalamazoo,PUNT RETURNS,Kyle,Neering,YDS,9
+23623175,10/8/2016,D-III,Olivet,Kalamazoo,PUNT RETURNS,Kyle,Neering,AVG,9.0
+23623176,10/8/2016,D-III,Olivet,Kalamazoo,PUNT RETURNS,Kyle,Neering,LONG,0
+23623177,10/8/2016,D-III,Olivet,Kalamazoo,KICK RETURNS,Mitchell,Bailey,NO,1
+23623178,10/8/2016,D-III,Olivet,Kalamazoo,KICK RETURNS,Mitchell,Bailey,YDS,6
+23623179,10/8/2016,D-III,Olivet,Kalamazoo,KICK RETURNS,Mitchell,Bailey,AVG,6.0
+23623180,10/8/2016,D-III,Olivet,Kalamazoo,KICK RETURNS,Mitchell,Bailey,LONG,6
+23623181,10/8/2016,D-III,Olivet,Kalamazoo,KICK RETURNS,Brandon,Benac,NO,1
+23623182,10/8/2016,D-III,Olivet,Kalamazoo,KICK RETURNS,Brandon,Benac,YDS,15
+23623183,10/8/2016,D-III,Olivet,Kalamazoo,KICK RETURNS,Brandon,Benac,AVG,15.0
+23623184,10/8/2016,D-III,Olivet,Kalamazoo,KICK RETURNS,Brandon,Benac,LONG,15

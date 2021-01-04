@@ -1,0 +1,121 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+19786001,10/4/2013,D-III,MacMurray,St. Scholastica,RUSHING,Caleb,Horvath,ATT,7
+19786002,10/4/2013,D-III,MacMurray,St. Scholastica,RUSHING,Caleb,Horvath,YDS,-24
+19786003,10/4/2013,D-III,MacMurray,St. Scholastica,RUSHING,Caleb,Horvath,TD,0
+19786004,10/4/2013,D-III,MacMurray,St. Scholastica,RUSHING,Caleb,Horvath,LONG,6
+19786005,10/4/2013,D-III,MacMurray,St. Scholastica,RUSHING,Phil,Lockhart,ATT,19
+19786006,10/4/2013,D-III,MacMurray,St. Scholastica,RUSHING,Phil,Lockhart,YDS,84
+19786007,10/4/2013,D-III,MacMurray,St. Scholastica,RUSHING,Phil,Lockhart,TD,1
+19786008,10/4/2013,D-III,MacMurray,St. Scholastica,RUSHING,Phil,Lockhart,LONG,10
+19786009,10/4/2013,D-III,MacMurray,St. Scholastica,RUSHING,Patrick,Hall,ATT,30
+19786010,10/4/2013,D-III,MacMurray,St. Scholastica,RUSHING,Patrick,Hall,YDS,126
+19786011,10/4/2013,D-III,MacMurray,St. Scholastica,RUSHING,Patrick,Hall,TD,0
+19786012,10/4/2013,D-III,MacMurray,St. Scholastica,RUSHING,Patrick,Hall,LONG,15
+19786013,10/4/2013,D-III,MacMurray,St. Scholastica,PASSING,Caleb,Horvath,CP-ATT-INT,3-14-1
+19786014,10/4/2013,D-III,MacMurray,St. Scholastica,PASSING,Caleb,Horvath,YDS,24
+19786015,10/4/2013,D-III,MacMurray,St. Scholastica,PASSING,Caleb,Horvath,TD,0
+19786016,10/4/2013,D-III,MacMurray,St. Scholastica,PASSING,Caleb,Horvath,LONG,14
+19786017,10/4/2013,D-III,MacMurray,St. Scholastica,PASSING,Cody,Britt,CP-ATT-INT,0-1-0
+19786018,10/4/2013,D-III,MacMurray,St. Scholastica,PASSING,Cody,Britt,YDS,0
+19786019,10/4/2013,D-III,MacMurray,St. Scholastica,PASSING,Cody,Britt,TD,0
+19786020,10/4/2013,D-III,MacMurray,St. Scholastica,PASSING,Cody,Britt,LONG,0
+19786021,10/4/2013,D-III,MacMurray,St. Scholastica,RECEIVING,Zach,Mudd,REC,2
+19786022,10/4/2013,D-III,MacMurray,St. Scholastica,RECEIVING,Zach,Mudd,YDS,20
+19786023,10/4/2013,D-III,MacMurray,St. Scholastica,RECEIVING,Zach,Mudd,TD,0
+19786024,10/4/2013,D-III,MacMurray,St. Scholastica,RECEIVING,Zach,Mudd,LONG,14
+19786025,10/4/2013,D-III,MacMurray,St. Scholastica,RECEIVING,James,Bledsoe,REC,1
+19786026,10/4/2013,D-III,MacMurray,St. Scholastica,RECEIVING,James,Bledsoe,YDS,4
+19786027,10/4/2013,D-III,MacMurray,St. Scholastica,RECEIVING,James,Bledsoe,TD,0
+19786028,10/4/2013,D-III,MacMurray,St. Scholastica,RECEIVING,James,Bledsoe,LONG,4
+19786029,10/4/2013,D-III,MacMurray,St. Scholastica,PUNTING,Caleb,Horvath,NO,1
+19786030,10/4/2013,D-III,MacMurray,St. Scholastica,PUNTING,Caleb,Horvath,YDS,35
+19786031,10/4/2013,D-III,MacMurray,St. Scholastica,PUNTING,Caleb,Horvath,AVG,35.0
+19786032,10/4/2013,D-III,MacMurray,St. Scholastica,PUNTING,Caleb,Horvath,LONG,35
+19786033,10/4/2013,D-III,MacMurray,St. Scholastica,PUNTING,John,Brockhouse,NO,7
+19786034,10/4/2013,D-III,MacMurray,St. Scholastica,PUNTING,John,Brockhouse,YDS,216
+19786035,10/4/2013,D-III,MacMurray,St. Scholastica,PUNTING,John,Brockhouse,AVG,30.9
+19786036,10/4/2013,D-III,MacMurray,St. Scholastica,PUNTING,John,Brockhouse,LONG,45
+19786037,10/4/2013,D-III,MacMurray,St. Scholastica,KICK RETURNS,Jamaal,Birch,NO,1
+19786038,10/4/2013,D-III,MacMurray,St. Scholastica,KICK RETURNS,Jamaal,Birch,YDS,10
+19786039,10/4/2013,D-III,MacMurray,St. Scholastica,KICK RETURNS,Jamaal,Birch,AVG,10.0
+19786040,10/4/2013,D-III,MacMurray,St. Scholastica,KICK RETURNS,Jamaal,Birch,LONG,10
+19786041,10/4/2013,D-III,MacMurray,St. Scholastica,KICK RETURNS,Seth,Stanton,NO,3
+19786042,10/4/2013,D-III,MacMurray,St. Scholastica,KICK RETURNS,Seth,Stanton,YDS,68
+19786043,10/4/2013,D-III,MacMurray,St. Scholastica,KICK RETURNS,Seth,Stanton,AVG,22.7
+19786044,10/4/2013,D-III,MacMurray,St. Scholastica,KICK RETURNS,Seth,Stanton,LONG,26
+19786045,10/4/2013,D-III,MacMurray,St. Scholastica,KICK RETURNS,Ryan,Metsker,NO,1
+19786046,10/4/2013,D-III,MacMurray,St. Scholastica,KICK RETURNS,Ryan,Metsker,YDS,0
+19786047,10/4/2013,D-III,MacMurray,St. Scholastica,KICK RETURNS,Ryan,Metsker,AVG,0.0
+19786048,10/4/2013,D-III,MacMurray,St. Scholastica,KICK RETURNS,Ryan,Metsker,LONG,0
+19786049,10/4/2013,D-III,MacMurray,St. Scholastica,KICK RETURNS,Marshall,Simmon,NO,1
+19786050,10/4/2013,D-III,MacMurray,St. Scholastica,KICK RETURNS,Marshall,Simmon,YDS,10
+19786051,10/4/2013,D-III,MacMurray,St. Scholastica,KICK RETURNS,Marshall,Simmon,AVG,10.0
+19786052,10/4/2013,D-III,MacMurray,St. Scholastica,KICK RETURNS,Marshall,Simmon,LONG,10
+19786053,10/4/2013,D-III,MacMurray,St. Scholastica,KICK RETURNS,Charles,Miller,NO,1
+19786054,10/4/2013,D-III,MacMurray,St. Scholastica,KICK RETURNS,Charles,Miller,YDS,5
+19786055,10/4/2013,D-III,MacMurray,St. Scholastica,KICK RETURNS,Charles,Miller,AVG,5.0
+19786056,10/4/2013,D-III,MacMurray,St. Scholastica,KICK RETURNS,Charles,Miller,LONG,5
+19786057,10/4/2013,D-III,St. Scholastica,MacMurray,RUSHING,Tyler,Harper,ATT,2
+19786058,10/4/2013,D-III,St. Scholastica,MacMurray,RUSHING,Tyler,Harper,YDS,2
+19786059,10/4/2013,D-III,St. Scholastica,MacMurray,RUSHING,Tyler,Harper,TD,0
+19786060,10/4/2013,D-III,St. Scholastica,MacMurray,RUSHING,Tyler,Harper,LONG,7
+19786061,10/4/2013,D-III,St. Scholastica,MacMurray,RUSHING,Josh,Simmons,ATT,1
+19786062,10/4/2013,D-III,St. Scholastica,MacMurray,RUSHING,Josh,Simmons,YDS,5
+19786063,10/4/2013,D-III,St. Scholastica,MacMurray,RUSHING,Josh,Simmons,TD,0
+19786064,10/4/2013,D-III,St. Scholastica,MacMurray,RUSHING,Josh,Simmons,LONG,5
+19786065,10/4/2013,D-III,St. Scholastica,MacMurray,RUSHING,Jake,Jensen,ATT,16
+19786066,10/4/2013,D-III,St. Scholastica,MacMurray,RUSHING,Jake,Jensen,YDS,146
+19786067,10/4/2013,D-III,St. Scholastica,MacMurray,RUSHING,Jake,Jensen,TD,2
+19786068,10/4/2013,D-III,St. Scholastica,MacMurray,RUSHING,Jake,Jensen,LONG,59
+19786069,10/4/2013,D-III,St. Scholastica,MacMurray,RUSHING,Chris,Gassert,ATT,18
+19786070,10/4/2013,D-III,St. Scholastica,MacMurray,RUSHING,Chris,Gassert,YDS,211
+19786071,10/4/2013,D-III,St. Scholastica,MacMurray,RUSHING,Chris,Gassert,TD,1
+19786072,10/4/2013,D-III,St. Scholastica,MacMurray,RUSHING,Chris,Gassert,LONG,50
+19786073,10/4/2013,D-III,St. Scholastica,MacMurray,RUSHING,Matt,Pint,ATT,6
+19786074,10/4/2013,D-III,St. Scholastica,MacMurray,RUSHING,Matt,Pint,YDS,20
+19786075,10/4/2013,D-III,St. Scholastica,MacMurray,RUSHING,Matt,Pint,TD,1
+19786076,10/4/2013,D-III,St. Scholastica,MacMurray,RUSHING,Matt,Pint,LONG,5
+19786077,10/4/2013,D-III,St. Scholastica,MacMurray,RUSHING,,Team,ATT,2
+19786078,10/4/2013,D-III,St. Scholastica,MacMurray,RUSHING,,Team,YDS,-1
+19786079,10/4/2013,D-III,St. Scholastica,MacMurray,RUSHING,,Team,TD,0
+19786080,10/4/2013,D-III,St. Scholastica,MacMurray,RUSHING,,Team,LONG,0
+19786081,10/4/2013,D-III,St. Scholastica,MacMurray,PASSING,Tyler,Harper,CP-ATT-INT,6-14-0
+19786082,10/4/2013,D-III,St. Scholastica,MacMurray,PASSING,Tyler,Harper,YDS,42
+19786083,10/4/2013,D-III,St. Scholastica,MacMurray,PASSING,Tyler,Harper,TD,1
+19786084,10/4/2013,D-III,St. Scholastica,MacMurray,PASSING,Tyler,Harper,LONG,10
+19786085,10/4/2013,D-III,St. Scholastica,MacMurray,RECEIVING,Nick,Murphy,REC,1
+19786086,10/4/2013,D-III,St. Scholastica,MacMurray,RECEIVING,Nick,Murphy,YDS,9
+19786087,10/4/2013,D-III,St. Scholastica,MacMurray,RECEIVING,Nick,Murphy,TD,0
+19786088,10/4/2013,D-III,St. Scholastica,MacMurray,RECEIVING,Nick,Murphy,LONG,9
+19786089,10/4/2013,D-III,St. Scholastica,MacMurray,RECEIVING,Shannon,James,REC,1
+19786090,10/4/2013,D-III,St. Scholastica,MacMurray,RECEIVING,Shannon,James,YDS,4
+19786091,10/4/2013,D-III,St. Scholastica,MacMurray,RECEIVING,Shannon,James,TD,0
+19786092,10/4/2013,D-III,St. Scholastica,MacMurray,RECEIVING,Shannon,James,LONG,4
+19786093,10/4/2013,D-III,St. Scholastica,MacMurray,RECEIVING,Mitch,O'neil,REC,1
+19786094,10/4/2013,D-III,St. Scholastica,MacMurray,RECEIVING,Mitch,O'neil,YDS,3
+19786095,10/4/2013,D-III,St. Scholastica,MacMurray,RECEIVING,Mitch,O'neil,TD,1
+19786096,10/4/2013,D-III,St. Scholastica,MacMurray,RECEIVING,Mitch,O'neil,LONG,3
+19786097,10/4/2013,D-III,St. Scholastica,MacMurray,RECEIVING,Spencer,Specht,REC,1
+19786098,10/4/2013,D-III,St. Scholastica,MacMurray,RECEIVING,Spencer,Specht,YDS,8
+19786099,10/4/2013,D-III,St. Scholastica,MacMurray,RECEIVING,Spencer,Specht,TD,0
+19786100,10/4/2013,D-III,St. Scholastica,MacMurray,RECEIVING,Spencer,Specht,LONG,8
+19786101,10/4/2013,D-III,St. Scholastica,MacMurray,RECEIVING,Cory,Gebhard,REC,2
+19786102,10/4/2013,D-III,St. Scholastica,MacMurray,RECEIVING,Cory,Gebhard,YDS,18
+19786103,10/4/2013,D-III,St. Scholastica,MacMurray,RECEIVING,Cory,Gebhard,TD,0
+19786104,10/4/2013,D-III,St. Scholastica,MacMurray,RECEIVING,Cory,Gebhard,LONG,10
+19786105,10/4/2013,D-III,St. Scholastica,MacMurray,PUNTING,Justin,Bosman,NO,3
+19786106,10/4/2013,D-III,St. Scholastica,MacMurray,PUNTING,Justin,Bosman,YDS,108
+19786107,10/4/2013,D-III,St. Scholastica,MacMurray,PUNTING,Justin,Bosman,AVG,36.0
+19786108,10/4/2013,D-III,St. Scholastica,MacMurray,PUNTING,Justin,Bosman,LONG,38
+19786109,10/4/2013,D-III,St. Scholastica,MacMurray,PUNT RETURNS,Josh,Simmons,NO,1
+19786110,10/4/2013,D-III,St. Scholastica,MacMurray,PUNT RETURNS,Josh,Simmons,YDS,14
+19786111,10/4/2013,D-III,St. Scholastica,MacMurray,PUNT RETURNS,Josh,Simmons,AVG,14.0
+19786112,10/4/2013,D-III,St. Scholastica,MacMurray,PUNT RETURNS,Josh,Simmons,LONG,14
+19786113,10/4/2013,D-III,St. Scholastica,MacMurray,PUNT RETURNS,Cory,Gebhard,NO,3
+19786114,10/4/2013,D-III,St. Scholastica,MacMurray,PUNT RETURNS,Cory,Gebhard,YDS,23
+19786115,10/4/2013,D-III,St. Scholastica,MacMurray,PUNT RETURNS,Cory,Gebhard,AVG,7.7
+19786116,10/4/2013,D-III,St. Scholastica,MacMurray,PUNT RETURNS,Cory,Gebhard,LONG,17
+19786117,10/4/2013,D-III,St. Scholastica,MacMurray,KICK RETURNS,Cory,Gebhard,NO,1
+19786118,10/4/2013,D-III,St. Scholastica,MacMurray,KICK RETURNS,Cory,Gebhard,YDS,20
+19786119,10/4/2013,D-III,St. Scholastica,MacMurray,KICK RETURNS,Cory,Gebhard,AVG,20.0
+19786120,10/4/2013,D-III,St. Scholastica,MacMurray,KICK RETURNS,Cory,Gebhard,LONG,20

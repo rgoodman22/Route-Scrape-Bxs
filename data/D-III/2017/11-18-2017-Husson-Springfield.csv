@@ -1,0 +1,93 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+25592001,11/18/2017,D-III,Husson,Springfield,RUSHING,John,Smith,ATT,43
+25592002,11/18/2017,D-III,Husson,Springfield,RUSHING,John,Smith,YDS,164
+25592003,11/18/2017,D-III,Husson,Springfield,RUSHING,John,Smith,TD,2
+25592004,11/18/2017,D-III,Husson,Springfield,RUSHING,John,Smith,LONG,20
+25592005,11/18/2017,D-III,Husson,Springfield,RUSHING,Chuck,Browne,ATT,2
+25592006,11/18/2017,D-III,Husson,Springfield,RUSHING,Chuck,Browne,YDS,4
+25592007,11/18/2017,D-III,Husson,Springfield,RUSHING,Chuck,Browne,TD,0
+25592008,11/18/2017,D-III,Husson,Springfield,RUSHING,Chuck,Browne,LONG,3
+25592009,11/18/2017,D-III,Husson,Springfield,RUSHING,R.,Saintard,ATT,2
+25592010,11/18/2017,D-III,Husson,Springfield,RUSHING,R.,Saintard,YDS,3
+25592011,11/18/2017,D-III,Husson,Springfield,RUSHING,R.,Saintard,TD,0
+25592012,11/18/2017,D-III,Husson,Springfield,RUSHING,R.,Saintard,LONG,4
+25592013,11/18/2017,D-III,Husson,Springfield,RUSHING,,Team,ATT,2
+25592014,11/18/2017,D-III,Husson,Springfield,RUSHING,,Team,YDS,-2
+25592015,11/18/2017,D-III,Husson,Springfield,RUSHING,,Team,TD,0
+25592016,11/18/2017,D-III,Husson,Springfield,RUSHING,,Team,LONG,0
+25592017,11/18/2017,D-III,Husson,Springfield,RUSHING,Cory,Brandon,ATT,1
+25592018,11/18/2017,D-III,Husson,Springfield,RUSHING,Cory,Brandon,YDS,-9
+25592019,11/18/2017,D-III,Husson,Springfield,RUSHING,Cory,Brandon,TD,0
+25592020,11/18/2017,D-III,Husson,Springfield,RUSHING,Cory,Brandon,LONG,0
+25592021,11/18/2017,D-III,Husson,Springfield,PASSING,Cory,Brandon,CP-ATT-INT,20-30-2
+25592022,11/18/2017,D-III,Husson,Springfield,PASSING,Cory,Brandon,YDS,209
+25592023,11/18/2017,D-III,Husson,Springfield,PASSING,Cory,Brandon,TD,1
+25592024,11/18/2017,D-III,Husson,Springfield,PASSING,Cory,Brandon,LONG,36
+25592025,11/18/2017,D-III,Husson,Springfield,RECEIVING,Kyree,Calli,REC,7
+25592026,11/18/2017,D-III,Husson,Springfield,RECEIVING,Kyree,Calli,YDS,64
+25592027,11/18/2017,D-III,Husson,Springfield,RECEIVING,Kyree,Calli,TD,0
+25592028,11/18/2017,D-III,Husson,Springfield,RECEIVING,Kyree,Calli,LONG,18
+25592029,11/18/2017,D-III,Husson,Springfield,RECEIVING,Kyle,Gaudet,REC,4
+25592030,11/18/2017,D-III,Husson,Springfield,RECEIVING,Kyle,Gaudet,YDS,60
+25592031,11/18/2017,D-III,Husson,Springfield,RECEIVING,Kyle,Gaudet,TD,1
+25592032,11/18/2017,D-III,Husson,Springfield,RECEIVING,Kyle,Gaudet,LONG,36
+25592033,11/18/2017,D-III,Husson,Springfield,RECEIVING,R.,Saintard,REC,4
+25592034,11/18/2017,D-III,Husson,Springfield,RECEIVING,R.,Saintard,YDS,52
+25592035,11/18/2017,D-III,Husson,Springfield,RECEIVING,R.,Saintard,TD,0
+25592036,11/18/2017,D-III,Husson,Springfield,RECEIVING,R.,Saintard,LONG,19
+25592037,11/18/2017,D-III,Husson,Springfield,RECEIVING,DJ,Allen,REC,4
+25592038,11/18/2017,D-III,Husson,Springfield,RECEIVING,DJ,Allen,YDS,30
+25592039,11/18/2017,D-III,Husson,Springfield,RECEIVING,DJ,Allen,TD,0
+25592040,11/18/2017,D-III,Husson,Springfield,RECEIVING,DJ,Allen,LONG,11
+25592041,11/18/2017,D-III,Husson,Springfield,RECEIVING,Q.,Brown,REC,1
+25592042,11/18/2017,D-III,Husson,Springfield,RECEIVING,Q.,Brown,YDS,3
+25592043,11/18/2017,D-III,Husson,Springfield,RECEIVING,Q.,Brown,TD,0
+25592044,11/18/2017,D-III,Husson,Springfield,RECEIVING,Q.,Brown,LONG,3
+25592045,11/18/2017,D-III,Husson,Springfield,PUNTING,M.,Popolizio,NO,1
+25592046,11/18/2017,D-III,Husson,Springfield,PUNTING,M.,Popolizio,YDS,25
+25592047,11/18/2017,D-III,Husson,Springfield,PUNTING,M.,Popolizio,AVG,25.0
+25592048,11/18/2017,D-III,Husson,Springfield,PUNTING,M.,Popolizio,LONG,25
+25592049,11/18/2017,D-III,Husson,Springfield,PUNT RETURNS,Quan,Soyini,NO,3
+25592050,11/18/2017,D-III,Husson,Springfield,PUNT RETURNS,Quan,Soyini,YDS,49
+25592051,11/18/2017,D-III,Husson,Springfield,PUNT RETURNS,Quan,Soyini,AVG,16.3
+25592052,11/18/2017,D-III,Husson,Springfield,PUNT RETURNS,Quan,Soyini,LONG,43
+25592053,11/18/2017,D-III,Husson,Springfield,KICK RETURNS,Ty,Bassett,NO,1
+25592054,11/18/2017,D-III,Husson,Springfield,KICK RETURNS,Ty,Bassett,YDS,20
+25592055,11/18/2017,D-III,Husson,Springfield,KICK RETURNS,Ty,Bassett,AVG,20.0
+25592056,11/18/2017,D-III,Husson,Springfield,KICK RETURNS,Ty,Bassett,LONG,20
+25592057,11/18/2017,D-III,Husson,Springfield,KICK RETURNS,Q.,Brown,NO,3
+25592058,11/18/2017,D-III,Husson,Springfield,KICK RETURNS,Q.,Brown,YDS,84
+25592059,11/18/2017,D-III,Husson,Springfield,KICK RETURNS,Q.,Brown,AVG,28.0
+25592060,11/18/2017,D-III,Husson,Springfield,KICK RETURNS,Q.,Brown,LONG,34
+25592061,11/18/2017,D-III,Springfield,Husson,RUSHING,Hunter,Belzo,ATT,9
+25592062,11/18/2017,D-III,Springfield,Husson,RUSHING,Hunter,Belzo,YDS,113
+25592063,11/18/2017,D-III,Springfield,Husson,RUSHING,Hunter,Belzo,TD,1
+25592064,11/18/2017,D-III,Springfield,Husson,RUSHING,Hunter,Belzo,LONG,52
+25592065,11/18/2017,D-III,Springfield,Husson,RUSHING,Jordan,Wilcox,ATT,22
+25592066,11/18/2017,D-III,Springfield,Husson,RUSHING,Jordan,Wilcox,YDS,111
+25592067,11/18/2017,D-III,Springfield,Husson,RUSHING,Jordan,Wilcox,TD,2
+25592068,11/18/2017,D-III,Springfield,Husson,RUSHING,Jordan,Wilcox,LONG,15
+25592069,11/18/2017,D-III,Springfield,Husson,RUSHING,Tyler,Hyde,ATT,7
+25592070,11/18/2017,D-III,Springfield,Husson,RUSHING,Tyler,Hyde,YDS,24
+25592071,11/18/2017,D-III,Springfield,Husson,RUSHING,Tyler,Hyde,TD,0
+25592072,11/18/2017,D-III,Springfield,Husson,RUSHING,Tyler,Hyde,LONG,13
+25592073,11/18/2017,D-III,Springfield,Husson,RUSHING,Jake,Eglintine,ATT,6
+25592074,11/18/2017,D-III,Springfield,Husson,RUSHING,Jake,Eglintine,YDS,16
+25592075,11/18/2017,D-III,Springfield,Husson,RUSHING,Jake,Eglintine,TD,0
+25592076,11/18/2017,D-III,Springfield,Husson,RUSHING,Jake,Eglintine,LONG,8
+25592077,11/18/2017,D-III,Springfield,Husson,PASSING,Jake,Eglintine,CP-ATT-INT,0-3-1
+25592078,11/18/2017,D-III,Springfield,Husson,PASSING,Jake,Eglintine,YDS,0
+25592079,11/18/2017,D-III,Springfield,Husson,PASSING,Jake,Eglintine,TD,0
+25592080,11/18/2017,D-III,Springfield,Husson,PASSING,Jake,Eglintine,LONG,0
+25592081,11/18/2017,D-III,Springfield,Husson,PUNTING,Whit,DeVaux,NO,4
+25592082,11/18/2017,D-III,Springfield,Husson,PUNTING,Whit,DeVaux,YDS,149
+25592083,11/18/2017,D-III,Springfield,Husson,PUNTING,Whit,DeVaux,AVG,37.2
+25592084,11/18/2017,D-III,Springfield,Husson,PUNTING,Whit,DeVaux,LONG,44
+25592085,11/18/2017,D-III,Springfield,Husson,KICK RETURNS,Andrew,Papirio,NO,1
+25592086,11/18/2017,D-III,Springfield,Husson,KICK RETURNS,Andrew,Papirio,YDS,14
+25592087,11/18/2017,D-III,Springfield,Husson,KICK RETURNS,Andrew,Papirio,AVG,14.0
+25592088,11/18/2017,D-III,Springfield,Husson,KICK RETURNS,Andrew,Papirio,LONG,14
+25592089,11/18/2017,D-III,Springfield,Husson,KICK RETURNS,Ryan,McCarthy,NO,4
+25592090,11/18/2017,D-III,Springfield,Husson,KICK RETURNS,Ryan,McCarthy,YDS,69
+25592091,11/18/2017,D-III,Springfield,Husson,KICK RETURNS,Ryan,McCarthy,AVG,17.2
+25592092,11/18/2017,D-III,Springfield,Husson,KICK RETURNS,Ryan,McCarthy,LONG,24

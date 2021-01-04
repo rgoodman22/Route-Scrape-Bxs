@@ -1,0 +1,117 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+22242001,10/3/2015,D-III,Luther,Dubuque,RUSHING,Christian,Moore,ATT,23
+22242002,10/3/2015,D-III,Luther,Dubuque,RUSHING,Christian,Moore,YDS,101
+22242003,10/3/2015,D-III,Luther,Dubuque,RUSHING,Christian,Moore,TD,0
+22242004,10/3/2015,D-III,Luther,Dubuque,RUSHING,Christian,Moore,LONG,10
+22242005,10/3/2015,D-III,Luther,Dubuque,RUSHING,Cooper,Nelson,ATT,6
+22242006,10/3/2015,D-III,Luther,Dubuque,RUSHING,Cooper,Nelson,YDS,46
+22242007,10/3/2015,D-III,Luther,Dubuque,RUSHING,Cooper,Nelson,TD,0
+22242008,10/3/2015,D-III,Luther,Dubuque,RUSHING,Cooper,Nelson,LONG,16
+22242009,10/3/2015,D-III,Luther,Dubuque,RUSHING,Brady,Letney,ATT,18
+22242010,10/3/2015,D-III,Luther,Dubuque,RUSHING,Brady,Letney,YDS,43
+22242011,10/3/2015,D-III,Luther,Dubuque,RUSHING,Brady,Letney,TD,1
+22242012,10/3/2015,D-III,Luther,Dubuque,RUSHING,Brady,Letney,LONG,7
+22242013,10/3/2015,D-III,Luther,Dubuque,RUSHING,Jeremy,Redmond,ATT,8
+22242014,10/3/2015,D-III,Luther,Dubuque,RUSHING,Jeremy,Redmond,YDS,15
+22242015,10/3/2015,D-III,Luther,Dubuque,RUSHING,Jeremy,Redmond,TD,0
+22242016,10/3/2015,D-III,Luther,Dubuque,RUSHING,Jeremy,Redmond,LONG,8
+22242017,10/3/2015,D-III,Luther,Dubuque,RUSHING,Damon,Stroup,ATT,5
+22242018,10/3/2015,D-III,Luther,Dubuque,RUSHING,Damon,Stroup,YDS,13
+22242019,10/3/2015,D-III,Luther,Dubuque,RUSHING,Damon,Stroup,TD,1
+22242020,10/3/2015,D-III,Luther,Dubuque,RUSHING,Damon,Stroup,LONG,6
+22242021,10/3/2015,D-III,Luther,Dubuque,RUSHING,Andrew,Whalen,ATT,4
+22242022,10/3/2015,D-III,Luther,Dubuque,RUSHING,Andrew,Whalen,YDS,13
+22242023,10/3/2015,D-III,Luther,Dubuque,RUSHING,Andrew,Whalen,TD,0
+22242024,10/3/2015,D-III,Luther,Dubuque,RUSHING,Andrew,Whalen,LONG,4
+22242025,10/3/2015,D-III,Luther,Dubuque,PASSING,Damon,Stroup,CP-ATT-INT,1-3-0
+22242026,10/3/2015,D-III,Luther,Dubuque,PASSING,Damon,Stroup,YDS,13
+22242027,10/3/2015,D-III,Luther,Dubuque,PASSING,Damon,Stroup,TD,0
+22242028,10/3/2015,D-III,Luther,Dubuque,PASSING,Damon,Stroup,LONG,13
+22242029,10/3/2015,D-III,Luther,Dubuque,PASSING,Brady,Letney,CP-ATT-INT,1-3-0
+22242030,10/3/2015,D-III,Luther,Dubuque,PASSING,Brady,Letney,YDS,12
+22242031,10/3/2015,D-III,Luther,Dubuque,PASSING,Brady,Letney,TD,0
+22242032,10/3/2015,D-III,Luther,Dubuque,PASSING,Brady,Letney,LONG,12
+22242033,10/3/2015,D-III,Luther,Dubuque,RECEIVING,Jon,Cochrane,REC,1
+22242034,10/3/2015,D-III,Luther,Dubuque,RECEIVING,Jon,Cochrane,YDS,13
+22242035,10/3/2015,D-III,Luther,Dubuque,RECEIVING,Jon,Cochrane,TD,0
+22242036,10/3/2015,D-III,Luther,Dubuque,RECEIVING,Jon,Cochrane,LONG,13
+22242037,10/3/2015,D-III,Luther,Dubuque,RECEIVING,Jeremy,Redmond,REC,1
+22242038,10/3/2015,D-III,Luther,Dubuque,RECEIVING,Jeremy,Redmond,YDS,12
+22242039,10/3/2015,D-III,Luther,Dubuque,RECEIVING,Jeremy,Redmond,TD,0
+22242040,10/3/2015,D-III,Luther,Dubuque,RECEIVING,Jeremy,Redmond,LONG,12
+22242041,10/3/2015,D-III,Luther,Dubuque,PUNTING,Jon,Cochrane,NO,5
+22242042,10/3/2015,D-III,Luther,Dubuque,PUNTING,Jon,Cochrane,YDS,220
+22242043,10/3/2015,D-III,Luther,Dubuque,PUNTING,Jon,Cochrane,AVG,44.0
+22242044,10/3/2015,D-III,Luther,Dubuque,PUNTING,Jon,Cochrane,LONG,69
+22242045,10/3/2015,D-III,Luther,Dubuque,PUNT RETURNS,Jeremy,Greer,NO,1
+22242046,10/3/2015,D-III,Luther,Dubuque,PUNT RETURNS,Jeremy,Greer,YDS,0
+22242047,10/3/2015,D-III,Luther,Dubuque,PUNT RETURNS,Jeremy,Greer,AVG,0.0
+22242048,10/3/2015,D-III,Luther,Dubuque,PUNT RETURNS,Jeremy,Greer,LONG,0
+22242049,10/3/2015,D-III,Luther,Dubuque,KICK RETURNS,Cody,Berger,NO,2
+22242050,10/3/2015,D-III,Luther,Dubuque,KICK RETURNS,Cody,Berger,YDS,42
+22242051,10/3/2015,D-III,Luther,Dubuque,KICK RETURNS,Cody,Berger,AVG,21.0
+22242052,10/3/2015,D-III,Luther,Dubuque,KICK RETURNS,Cody,Berger,LONG,26
+22242053,10/3/2015,D-III,Dubuque,Luther,RUSHING,D,Vance-jenkins,ATT,11
+22242054,10/3/2015,D-III,Dubuque,Luther,RUSHING,D,Vance-jenkins,YDS,29
+22242055,10/3/2015,D-III,Dubuque,Luther,RUSHING,D,Vance-jenkins,TD,0
+22242056,10/3/2015,D-III,Dubuque,Luther,RUSHING,D,Vance-jenkins,LONG,9
+22242057,10/3/2015,D-III,Dubuque,Luther,RUSHING,Tarshma,Jackson,ATT,8
+22242058,10/3/2015,D-III,Dubuque,Luther,RUSHING,Tarshma,Jackson,YDS,29
+22242059,10/3/2015,D-III,Dubuque,Luther,RUSHING,Tarshma,Jackson,TD,0
+22242060,10/3/2015,D-III,Dubuque,Luther,RUSHING,Tarshma,Jackson,LONG,11
+22242061,10/3/2015,D-III,Dubuque,Luther,RUSHING,Rio,Johnson,ATT,1
+22242062,10/3/2015,D-III,Dubuque,Luther,RUSHING,Rio,Johnson,YDS,5
+22242063,10/3/2015,D-III,Dubuque,Luther,RUSHING,Rio,Johnson,TD,0
+22242064,10/3/2015,D-III,Dubuque,Luther,RUSHING,Rio,Johnson,LONG,5
+22242065,10/3/2015,D-III,Dubuque,Luther,RUSHING,Dylan,Schultz,ATT,1
+22242066,10/3/2015,D-III,Dubuque,Luther,RUSHING,Dylan,Schultz,YDS,3
+22242067,10/3/2015,D-III,Dubuque,Luther,RUSHING,Dylan,Schultz,TD,0
+22242068,10/3/2015,D-III,Dubuque,Luther,RUSHING,Dylan,Schultz,LONG,3
+22242069,10/3/2015,D-III,Dubuque,Luther,RUSHING,,Team,ATT,3
+22242070,10/3/2015,D-III,Dubuque,Luther,RUSHING,,Team,YDS,-5
+22242071,10/3/2015,D-III,Dubuque,Luther,RUSHING,,Team,TD,0
+22242072,10/3/2015,D-III,Dubuque,Luther,RUSHING,,Team,LONG,0
+22242073,10/3/2015,D-III,Dubuque,Luther,RUSHING,Conner,O'malley,ATT,1
+22242074,10/3/2015,D-III,Dubuque,Luther,RUSHING,Conner,O'malley,YDS,-9
+22242075,10/3/2015,D-III,Dubuque,Luther,RUSHING,Conner,O'malley,TD,0
+22242076,10/3/2015,D-III,Dubuque,Luther,RUSHING,Conner,O'malley,LONG,0
+22242077,10/3/2015,D-III,Dubuque,Luther,PASSING,Rio,Johnson,CP-ATT-INT,16-28-0
+22242078,10/3/2015,D-III,Dubuque,Luther,PASSING,Rio,Johnson,YDS,227
+22242079,10/3/2015,D-III,Dubuque,Luther,PASSING,Rio,Johnson,TD,2
+22242080,10/3/2015,D-III,Dubuque,Luther,PASSING,Rio,Johnson,LONG,42
+22242081,10/3/2015,D-III,Dubuque,Luther,RECEIVING,Jonathan,Duarte,REC,3
+22242082,10/3/2015,D-III,Dubuque,Luther,RECEIVING,Jonathan,Duarte,YDS,69
+22242083,10/3/2015,D-III,Dubuque,Luther,RECEIVING,Jonathan,Duarte,TD,1
+22242084,10/3/2015,D-III,Dubuque,Luther,RECEIVING,Jonathan,Duarte,LONG,42
+22242085,10/3/2015,D-III,Dubuque,Luther,RECEIVING,T,Grana-curry,REC,3
+22242086,10/3/2015,D-III,Dubuque,Luther,RECEIVING,T,Grana-curry,YDS,60
+22242087,10/3/2015,D-III,Dubuque,Luther,RECEIVING,T,Grana-curry,TD,1
+22242088,10/3/2015,D-III,Dubuque,Luther,RECEIVING,T,Grana-curry,LONG,33
+22242089,10/3/2015,D-III,Dubuque,Luther,RECEIVING,Chris,Bagley,REC,3
+22242090,10/3/2015,D-III,Dubuque,Luther,RECEIVING,Chris,Bagley,YDS,35
+22242091,10/3/2015,D-III,Dubuque,Luther,RECEIVING,Chris,Bagley,TD,0
+22242092,10/3/2015,D-III,Dubuque,Luther,RECEIVING,Chris,Bagley,LONG,13
+22242093,10/3/2015,D-III,Dubuque,Luther,RECEIVING,Najee,Toomer,REC,3
+22242094,10/3/2015,D-III,Dubuque,Luther,RECEIVING,Najee,Toomer,YDS,27
+22242095,10/3/2015,D-III,Dubuque,Luther,RECEIVING,Najee,Toomer,TD,0
+22242096,10/3/2015,D-III,Dubuque,Luther,RECEIVING,Najee,Toomer,LONG,11
+22242097,10/3/2015,D-III,Dubuque,Luther,RECEIVING,D,Vance-jenkins,REC,2
+22242098,10/3/2015,D-III,Dubuque,Luther,RECEIVING,D,Vance-jenkins,YDS,16
+22242099,10/3/2015,D-III,Dubuque,Luther,RECEIVING,D,Vance-jenkins,TD,0
+22242100,10/3/2015,D-III,Dubuque,Luther,RECEIVING,D,Vance-jenkins,LONG,13
+22242101,10/3/2015,D-III,Dubuque,Luther,RECEIVING,Tyler,Santeler,REC,1
+22242102,10/3/2015,D-III,Dubuque,Luther,RECEIVING,Tyler,Santeler,YDS,14
+22242103,10/3/2015,D-III,Dubuque,Luther,RECEIVING,Tyler,Santeler,TD,0
+22242104,10/3/2015,D-III,Dubuque,Luther,RECEIVING,Tyler,Santeler,LONG,14
+22242105,10/3/2015,D-III,Dubuque,Luther,RECEIVING,Dylan,Schultz,REC,1
+22242106,10/3/2015,D-III,Dubuque,Luther,RECEIVING,Dylan,Schultz,YDS,6
+22242107,10/3/2015,D-III,Dubuque,Luther,RECEIVING,Dylan,Schultz,TD,0
+22242108,10/3/2015,D-III,Dubuque,Luther,RECEIVING,Dylan,Schultz,LONG,6
+22242109,10/3/2015,D-III,Dubuque,Luther,PUNTING,Conner,O'malley,NO,4
+22242110,10/3/2015,D-III,Dubuque,Luther,PUNTING,Conner,O'malley,YDS,137
+22242111,10/3/2015,D-III,Dubuque,Luther,PUNTING,Conner,O'malley,AVG,34.2
+22242112,10/3/2015,D-III,Dubuque,Luther,PUNTING,Conner,O'malley,LONG,56
+22242113,10/3/2015,D-III,Dubuque,Luther,KICK RETURNS,Dylan,Schultz,NO,2
+22242114,10/3/2015,D-III,Dubuque,Luther,KICK RETURNS,Dylan,Schultz,YDS,44
+22242115,10/3/2015,D-III,Dubuque,Luther,KICK RETURNS,Dylan,Schultz,AVG,22.0
+22242116,10/3/2015,D-III,Dubuque,Luther,KICK RETURNS,Dylan,Schultz,LONG,22

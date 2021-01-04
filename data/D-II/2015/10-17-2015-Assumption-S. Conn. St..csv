@@ -1,0 +1,141 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+15000001,10/17/2015,D-II,Assumption,S. Conn. St.,RUSHING,James,Ward,ATT,14
+15000002,10/17/2015,D-II,Assumption,S. Conn. St.,RUSHING,James,Ward,YDS,184
+15000003,10/17/2015,D-II,Assumption,S. Conn. St.,RUSHING,James,Ward,TD,1
+15000004,10/17/2015,D-II,Assumption,S. Conn. St.,RUSHING,James,Ward,LONG,79
+15000005,10/17/2015,D-II,Assumption,S. Conn. St.,RUSHING,Alex,Shain,ATT,14
+15000006,10/17/2015,D-II,Assumption,S. Conn. St.,RUSHING,Alex,Shain,YDS,124
+15000007,10/17/2015,D-II,Assumption,S. Conn. St.,RUSHING,Alex,Shain,TD,3
+15000008,10/17/2015,D-II,Assumption,S. Conn. St.,RUSHING,Alex,Shain,LONG,24
+15000009,10/17/2015,D-II,Assumption,S. Conn. St.,RUSHING,Brendan,Tobey,ATT,3
+15000010,10/17/2015,D-II,Assumption,S. Conn. St.,RUSHING,Brendan,Tobey,YDS,18
+15000011,10/17/2015,D-II,Assumption,S. Conn. St.,RUSHING,Brendan,Tobey,TD,1
+15000012,10/17/2015,D-II,Assumption,S. Conn. St.,RUSHING,Brendan,Tobey,LONG,8
+15000013,10/17/2015,D-II,Assumption,S. Conn. St.,RUSHING,,Team,ATT,2
+15000014,10/17/2015,D-II,Assumption,S. Conn. St.,RUSHING,,Team,YDS,1
+15000015,10/17/2015,D-II,Assumption,S. Conn. St.,RUSHING,,Team,TD,0
+15000016,10/17/2015,D-II,Assumption,S. Conn. St.,RUSHING,,Team,LONG,1
+15000017,10/17/2015,D-II,Assumption,S. Conn. St.,RUSHING,Deonte,Harris,ATT,1
+15000018,10/17/2015,D-II,Assumption,S. Conn. St.,RUSHING,Deonte,Harris,YDS,-1
+15000019,10/17/2015,D-II,Assumption,S. Conn. St.,RUSHING,Deonte,Harris,TD,0
+15000020,10/17/2015,D-II,Assumption,S. Conn. St.,RUSHING,Deonte,Harris,LONG,0
+15000021,10/17/2015,D-II,Assumption,S. Conn. St.,PASSING,Brendan,Tobey,CP-ATT-INT,11-22-2
+15000022,10/17/2015,D-II,Assumption,S. Conn. St.,PASSING,Brendan,Tobey,YDS,185
+15000023,10/17/2015,D-II,Assumption,S. Conn. St.,PASSING,Brendan,Tobey,TD,3
+15000024,10/17/2015,D-II,Assumption,S. Conn. St.,PASSING,Brendan,Tobey,LONG,51
+15000025,10/17/2015,D-II,Assumption,S. Conn. St.,RECEIVING,Deonte,Harris,REC,7
+15000026,10/17/2015,D-II,Assumption,S. Conn. St.,RECEIVING,Deonte,Harris,YDS,111
+15000027,10/17/2015,D-II,Assumption,S. Conn. St.,RECEIVING,Deonte,Harris,TD,2
+15000028,10/17/2015,D-II,Assumption,S. Conn. St.,RECEIVING,Deonte,Harris,LONG,51
+15000029,10/17/2015,D-II,Assumption,S. Conn. St.,RECEIVING,Ashton,Grant,REC,2
+15000030,10/17/2015,D-II,Assumption,S. Conn. St.,RECEIVING,Ashton,Grant,YDS,59
+15000031,10/17/2015,D-II,Assumption,S. Conn. St.,RECEIVING,Ashton,Grant,TD,1
+15000032,10/17/2015,D-II,Assumption,S. Conn. St.,RECEIVING,Ashton,Grant,LONG,30
+15000033,10/17/2015,D-II,Assumption,S. Conn. St.,RECEIVING,Aj,Efstratios,REC,1
+15000034,10/17/2015,D-II,Assumption,S. Conn. St.,RECEIVING,Aj,Efstratios,YDS,8
+15000035,10/17/2015,D-II,Assumption,S. Conn. St.,RECEIVING,Aj,Efstratios,TD,0
+15000036,10/17/2015,D-II,Assumption,S. Conn. St.,RECEIVING,Aj,Efstratios,LONG,8
+15000037,10/17/2015,D-II,Assumption,S. Conn. St.,RECEIVING,Dave,Call,REC,1
+15000038,10/17/2015,D-II,Assumption,S. Conn. St.,RECEIVING,Dave,Call,YDS,7
+15000039,10/17/2015,D-II,Assumption,S. Conn. St.,RECEIVING,Dave,Call,TD,0
+15000040,10/17/2015,D-II,Assumption,S. Conn. St.,RECEIVING,Dave,Call,LONG,7
+15000041,10/17/2015,D-II,Assumption,S. Conn. St.,PUNTING,Patrick,Tyler,NO,3
+15000042,10/17/2015,D-II,Assumption,S. Conn. St.,PUNTING,Patrick,Tyler,YDS,111
+15000043,10/17/2015,D-II,Assumption,S. Conn. St.,PUNTING,Patrick,Tyler,AVG,37.0
+15000044,10/17/2015,D-II,Assumption,S. Conn. St.,PUNTING,Patrick,Tyler,LONG,39
+15000045,10/17/2015,D-II,Assumption,S. Conn. St.,PUNT RETURNS,Ashton,Grant,NO,1
+15000046,10/17/2015,D-II,Assumption,S. Conn. St.,PUNT RETURNS,Ashton,Grant,YDS,13
+15000047,10/17/2015,D-II,Assumption,S. Conn. St.,PUNT RETURNS,Ashton,Grant,AVG,13.0
+15000048,10/17/2015,D-II,Assumption,S. Conn. St.,PUNT RETURNS,Ashton,Grant,LONG,13
+15000049,10/17/2015,D-II,Assumption,S. Conn. St.,KICK RETURNS,James,Ward,NO,1
+15000050,10/17/2015,D-II,Assumption,S. Conn. St.,KICK RETURNS,James,Ward,YDS,63
+15000051,10/17/2015,D-II,Assumption,S. Conn. St.,KICK RETURNS,James,Ward,AVG,63.0
+15000052,10/17/2015,D-II,Assumption,S. Conn. St.,KICK RETURNS,James,Ward,LONG,63
+15000053,10/17/2015,D-II,Assumption,S. Conn. St.,KICK RETURNS,Charles,Reid,NO,1
+15000054,10/17/2015,D-II,Assumption,S. Conn. St.,KICK RETURNS,Charles,Reid,YDS,18
+15000055,10/17/2015,D-II,Assumption,S. Conn. St.,KICK RETURNS,Charles,Reid,AVG,18.0
+15000056,10/17/2015,D-II,Assumption,S. Conn. St.,KICK RETURNS,Charles,Reid,LONG,18
+15000057,10/17/2015,D-II,Assumption,S. Conn. St.,KICK RETURNS,Deonte,Harris,NO,2
+15000058,10/17/2015,D-II,Assumption,S. Conn. St.,KICK RETURNS,Deonte,Harris,YDS,48
+15000059,10/17/2015,D-II,Assumption,S. Conn. St.,KICK RETURNS,Deonte,Harris,AVG,24.0
+15000060,10/17/2015,D-II,Assumption,S. Conn. St.,KICK RETURNS,Deonte,Harris,LONG,32
+15000061,10/17/2015,D-II,Assumption,S. Conn. St.,KICK RETURNS,Dylan,Oxsen,NO,2
+15000062,10/17/2015,D-II,Assumption,S. Conn. St.,KICK RETURNS,Dylan,Oxsen,YDS,37
+15000063,10/17/2015,D-II,Assumption,S. Conn. St.,KICK RETURNS,Dylan,Oxsen,AVG,18.5
+15000064,10/17/2015,D-II,Assumption,S. Conn. St.,KICK RETURNS,Dylan,Oxsen,LONG,37
+15000065,10/17/2015,D-II,Assumption,S. Conn. St.,KICK RETURNS,Mario,Garcia,NO,1
+15000066,10/17/2015,D-II,Assumption,S. Conn. St.,KICK RETURNS,Mario,Garcia,YDS,13
+15000067,10/17/2015,D-II,Assumption,S. Conn. St.,KICK RETURNS,Mario,Garcia,AVG,13.0
+15000068,10/17/2015,D-II,Assumption,S. Conn. St.,KICK RETURNS,Mario,Garcia,LONG,13
+15000069,10/17/2015,D-II,S. Conn. St.,Assumption,RUSHING,Robert,Thomas,ATT,21
+15000070,10/17/2015,D-II,S. Conn. St.,Assumption,RUSHING,Robert,Thomas,YDS,108
+15000071,10/17/2015,D-II,S. Conn. St.,Assumption,RUSHING,Robert,Thomas,TD,0
+15000072,10/17/2015,D-II,S. Conn. St.,Assumption,RUSHING,Robert,Thomas,LONG,20
+15000073,10/17/2015,D-II,S. Conn. St.,Assumption,RUSHING,Robert,Nittolo,ATT,16
+15000074,10/17/2015,D-II,S. Conn. St.,Assumption,RUSHING,Robert,Nittolo,YDS,85
+15000075,10/17/2015,D-II,S. Conn. St.,Assumption,RUSHING,Robert,Nittolo,TD,3
+15000076,10/17/2015,D-II,S. Conn. St.,Assumption,RUSHING,Robert,Nittolo,LONG,12
+15000077,10/17/2015,D-II,S. Conn. St.,Assumption,RUSHING,John,Moscatel,ATT,11
+15000078,10/17/2015,D-II,S. Conn. St.,Assumption,RUSHING,John,Moscatel,YDS,69
+15000079,10/17/2015,D-II,S. Conn. St.,Assumption,RUSHING,John,Moscatel,TD,1
+15000080,10/17/2015,D-II,S. Conn. St.,Assumption,RUSHING,John,Moscatel,LONG,37
+15000081,10/17/2015,D-II,S. Conn. St.,Assumption,RUSHING,Mohamed,Beretey,ATT,1
+15000082,10/17/2015,D-II,S. Conn. St.,Assumption,RUSHING,Mohamed,Beretey,YDS,4
+15000083,10/17/2015,D-II,S. Conn. St.,Assumption,RUSHING,Mohamed,Beretey,TD,0
+15000084,10/17/2015,D-II,S. Conn. St.,Assumption,RUSHING,Mohamed,Beretey,LONG,4
+15000085,10/17/2015,D-II,S. Conn. St.,Assumption,RUSHING,Austin,Jones,ATT,1
+15000086,10/17/2015,D-II,S. Conn. St.,Assumption,RUSHING,Austin,Jones,YDS,0
+15000087,10/17/2015,D-II,S. Conn. St.,Assumption,RUSHING,Austin,Jones,TD,0
+15000088,10/17/2015,D-II,S. Conn. St.,Assumption,RUSHING,Austin,Jones,LONG,0
+15000089,10/17/2015,D-II,S. Conn. St.,Assumption,PASSING,Robert,Nittolo,CP-ATT-INT,28-49-3
+15000090,10/17/2015,D-II,S. Conn. St.,Assumption,PASSING,Robert,Nittolo,YDS,357
+15000091,10/17/2015,D-II,S. Conn. St.,Assumption,PASSING,Robert,Nittolo,TD,3
+15000092,10/17/2015,D-II,S. Conn. St.,Assumption,PASSING,Robert,Nittolo,LONG,50
+15000093,10/17/2015,D-II,S. Conn. St.,Assumption,RECEIVING,Seimou,Smith,REC,10
+15000094,10/17/2015,D-II,S. Conn. St.,Assumption,RECEIVING,Seimou,Smith,YDS,138
+15000095,10/17/2015,D-II,S. Conn. St.,Assumption,RECEIVING,Seimou,Smith,TD,2
+15000096,10/17/2015,D-II,S. Conn. St.,Assumption,RECEIVING,Seimou,Smith,LONG,50
+15000097,10/17/2015,D-II,S. Conn. St.,Assumption,RECEIVING,Devante,Jenkins,REC,5
+15000098,10/17/2015,D-II,S. Conn. St.,Assumption,RECEIVING,Devante,Jenkins,YDS,91
+15000099,10/17/2015,D-II,S. Conn. St.,Assumption,RECEIVING,Devante,Jenkins,TD,0
+15000100,10/17/2015,D-II,S. Conn. St.,Assumption,RECEIVING,Devante,Jenkins,LONG,26
+15000101,10/17/2015,D-II,S. Conn. St.,Assumption,RECEIVING,Austin,Jones,REC,7
+15000102,10/17/2015,D-II,S. Conn. St.,Assumption,RECEIVING,Austin,Jones,YDS,71
+15000103,10/17/2015,D-II,S. Conn. St.,Assumption,RECEIVING,Austin,Jones,TD,1
+15000104,10/17/2015,D-II,S. Conn. St.,Assumption,RECEIVING,Austin,Jones,LONG,20
+15000105,10/17/2015,D-II,S. Conn. St.,Assumption,RECEIVING,Mohamed,Beretey,REC,2
+15000106,10/17/2015,D-II,S. Conn. St.,Assumption,RECEIVING,Mohamed,Beretey,YDS,27
+15000107,10/17/2015,D-II,S. Conn. St.,Assumption,RECEIVING,Mohamed,Beretey,TD,0
+15000108,10/17/2015,D-II,S. Conn. St.,Assumption,RECEIVING,Mohamed,Beretey,LONG,19
+15000109,10/17/2015,D-II,S. Conn. St.,Assumption,RECEIVING,R,Griesenauer,REC,2
+15000110,10/17/2015,D-II,S. Conn. St.,Assumption,RECEIVING,R,Griesenauer,YDS,16
+15000111,10/17/2015,D-II,S. Conn. St.,Assumption,RECEIVING,R,Griesenauer,TD,0
+15000112,10/17/2015,D-II,S. Conn. St.,Assumption,RECEIVING,R,Griesenauer,LONG,9
+15000113,10/17/2015,D-II,S. Conn. St.,Assumption,RECEIVING,Robert,Thomas,REC,2
+15000114,10/17/2015,D-II,S. Conn. St.,Assumption,RECEIVING,Robert,Thomas,YDS,14
+15000115,10/17/2015,D-II,S. Conn. St.,Assumption,RECEIVING,Robert,Thomas,TD,0
+15000116,10/17/2015,D-II,S. Conn. St.,Assumption,RECEIVING,Robert,Thomas,LONG,14
+15000117,10/17/2015,D-II,S. Conn. St.,Assumption,PUNTING,Mike,Mcnally,NO,4
+15000118,10/17/2015,D-II,S. Conn. St.,Assumption,PUNTING,Mike,Mcnally,YDS,136
+15000119,10/17/2015,D-II,S. Conn. St.,Assumption,PUNTING,Mike,Mcnally,AVG,34.0
+15000120,10/17/2015,D-II,S. Conn. St.,Assumption,PUNTING,Mike,Mcnally,LONG,41
+15000121,10/17/2015,D-II,S. Conn. St.,Assumption,PUNT RETURNS,John,Moscatel,NO,1
+15000122,10/17/2015,D-II,S. Conn. St.,Assumption,PUNT RETURNS,John,Moscatel,YDS,10
+15000123,10/17/2015,D-II,S. Conn. St.,Assumption,PUNT RETURNS,John,Moscatel,AVG,10.0
+15000124,10/17/2015,D-II,S. Conn. St.,Assumption,PUNT RETURNS,John,Moscatel,LONG,10
+15000125,10/17/2015,D-II,S. Conn. St.,Assumption,KICK RETURNS,Vochan,Fowler,NO,1
+15000126,10/17/2015,D-II,S. Conn. St.,Assumption,KICK RETURNS,Vochan,Fowler,YDS,23
+15000127,10/17/2015,D-II,S. Conn. St.,Assumption,KICK RETURNS,Vochan,Fowler,AVG,23.0
+15000128,10/17/2015,D-II,S. Conn. St.,Assumption,KICK RETURNS,Vochan,Fowler,LONG,23
+15000129,10/17/2015,D-II,S. Conn. St.,Assumption,KICK RETURNS,Shaquan,Hall,NO,2
+15000130,10/17/2015,D-II,S. Conn. St.,Assumption,KICK RETURNS,Shaquan,Hall,YDS,11
+15000131,10/17/2015,D-II,S. Conn. St.,Assumption,KICK RETURNS,Shaquan,Hall,AVG,5.5
+15000132,10/17/2015,D-II,S. Conn. St.,Assumption,KICK RETURNS,Shaquan,Hall,LONG,19
+15000133,10/17/2015,D-II,S. Conn. St.,Assumption,KICK RETURNS,John,Moscatel,NO,5
+15000134,10/17/2015,D-II,S. Conn. St.,Assumption,KICK RETURNS,John,Moscatel,YDS,82
+15000135,10/17/2015,D-II,S. Conn. St.,Assumption,KICK RETURNS,John,Moscatel,AVG,16.4
+15000136,10/17/2015,D-II,S. Conn. St.,Assumption,KICK RETURNS,John,Moscatel,LONG,22
+15000137,10/17/2015,D-II,S. Conn. St.,Assumption,KICK RETURNS,R,Griesenauer,NO,1
+15000138,10/17/2015,D-II,S. Conn. St.,Assumption,KICK RETURNS,R,Griesenauer,YDS,4
+15000139,10/17/2015,D-II,S. Conn. St.,Assumption,KICK RETURNS,R,Griesenauer,AVG,4.0
+15000140,10/17/2015,D-II,S. Conn. St.,Assumption,KICK RETURNS,R,Griesenauer,LONG,4

@@ -1,0 +1,81 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+15838001,10/1/2016,D-II,Humboldt State,Chadron State,RUSHING,,Team,ATT,23
+15838002,10/1/2016,D-II,Humboldt State,Chadron State,RUSHING,,Team,YDS,93
+15838003,10/1/2016,D-II,Humboldt State,Chadron State,RUSHING,,Team,TD,2
+15838004,10/1/2016,D-II,Humboldt State,Chadron State,RUSHING,,Team,LONG,11
+15838005,10/1/2016,D-II,Humboldt State,Chadron State,PASSING,,Team,CP-ATT-INT,32-42-0
+15838006,10/1/2016,D-II,Humboldt State,Chadron State,PASSING,,Team,YDS,262
+15838007,10/1/2016,D-II,Humboldt State,Chadron State,PASSING,,Team,TD,2
+15838008,10/1/2016,D-II,Humboldt State,Chadron State,PASSING,,Team,LONG,57
+15838009,10/1/2016,D-II,Humboldt State,Chadron State,RECEIVING,,Team,REC,6
+15838010,10/1/2016,D-II,Humboldt State,Chadron State,RECEIVING,,Team,YDS,76
+15838011,10/1/2016,D-II,Humboldt State,Chadron State,RECEIVING,,Team,TD,0
+15838012,10/1/2016,D-II,Humboldt State,Chadron State,RECEIVING,,Team,LONG,57
+15838013,10/1/2016,D-II,Humboldt State,Chadron State,PUNTING,,Team,NO,6
+15838014,10/1/2016,D-II,Humboldt State,Chadron State,PUNTING,,Team,YDS,292
+15838015,10/1/2016,D-II,Humboldt State,Chadron State,PUNTING,,Team,AVG,48.7
+15838016,10/1/2016,D-II,Humboldt State,Chadron State,PUNTING,,Team,LONG,60
+15838017,10/1/2016,D-II,Humboldt State,Chadron State,KICK RETURNS,,Team,NO,2
+15838018,10/1/2016,D-II,Humboldt State,Chadron State,KICK RETURNS,,Team,YDS,35
+15838019,10/1/2016,D-II,Humboldt State,Chadron State,KICK RETURNS,,Team,AVG,17.5
+15838020,10/1/2016,D-II,Humboldt State,Chadron State,KICK RETURNS,,Team,LONG,18
+15838021,10/1/2016,D-II,Chadron State,Humboldt State,RUSHING,Cody,Paul,ATT,5
+15838022,10/1/2016,D-II,Chadron State,Humboldt State,RUSHING,Cody,Paul,YDS,104
+15838023,10/1/2016,D-II,Chadron State,Humboldt State,RUSHING,Cody,Paul,TD,1
+15838024,10/1/2016,D-II,Chadron State,Humboldt State,RUSHING,Cody,Paul,LONG,75
+15838025,10/1/2016,D-II,Chadron State,Humboldt State,RUSHING,Derek,Jackson,ATT,13
+15838026,10/1/2016,D-II,Chadron State,Humboldt State,RUSHING,Derek,Jackson,YDS,61
+15838027,10/1/2016,D-II,Chadron State,Humboldt State,RUSHING,Derek,Jackson,TD,0
+15838028,10/1/2016,D-II,Chadron State,Humboldt State,RUSHING,Derek,Jackson,LONG,12
+15838029,10/1/2016,D-II,Chadron State,Humboldt State,RUSHING,Kevin,Coy,ATT,8
+15838030,10/1/2016,D-II,Chadron State,Humboldt State,RUSHING,Kevin,Coy,YDS,34
+15838031,10/1/2016,D-II,Chadron State,Humboldt State,RUSHING,Kevin,Coy,TD,0
+15838032,10/1/2016,D-II,Chadron State,Humboldt State,RUSHING,Kevin,Coy,LONG,11
+15838033,10/1/2016,D-II,Chadron State,Humboldt State,PASSING,Matt,Vinson,CP-ATT-INT,22-43-1
+15838034,10/1/2016,D-II,Chadron State,Humboldt State,PASSING,Matt,Vinson,YDS,197
+15838035,10/1/2016,D-II,Chadron State,Humboldt State,PASSING,Matt,Vinson,TD,2
+15838036,10/1/2016,D-II,Chadron State,Humboldt State,PASSING,Matt,Vinson,LONG,27
+15838037,10/1/2016,D-II,Chadron State,Humboldt State,RECEIVING,Matt,Reader,REC,2
+15838038,10/1/2016,D-II,Chadron State,Humboldt State,RECEIVING,Matt,Reader,YDS,54
+15838039,10/1/2016,D-II,Chadron State,Humboldt State,RECEIVING,Matt,Reader,TD,1
+15838040,10/1/2016,D-II,Chadron State,Humboldt State,RECEIVING,Matt,Reader,LONG,27
+15838041,10/1/2016,D-II,Chadron State,Humboldt State,RECEIVING,Marcus,Brown,REC,4
+15838042,10/1/2016,D-II,Chadron State,Humboldt State,RECEIVING,Marcus,Brown,YDS,44
+15838043,10/1/2016,D-II,Chadron State,Humboldt State,RECEIVING,Marcus,Brown,TD,1
+15838044,10/1/2016,D-II,Chadron State,Humboldt State,RECEIVING,Marcus,Brown,LONG,12
+15838045,10/1/2016,D-II,Chadron State,Humboldt State,RECEIVING,Max,Gray,REC,6
+15838046,10/1/2016,D-II,Chadron State,Humboldt State,RECEIVING,Max,Gray,YDS,25
+15838047,10/1/2016,D-II,Chadron State,Humboldt State,RECEIVING,Max,Gray,TD,0
+15838048,10/1/2016,D-II,Chadron State,Humboldt State,RECEIVING,Max,Gray,LONG,9
+15838049,10/1/2016,D-II,Chadron State,Humboldt State,RECEIVING,Cody,Paul,REC,4
+15838050,10/1/2016,D-II,Chadron State,Humboldt State,RECEIVING,Cody,Paul,YDS,22
+15838051,10/1/2016,D-II,Chadron State,Humboldt State,RECEIVING,Cody,Paul,TD,0
+15838052,10/1/2016,D-II,Chadron State,Humboldt State,RECEIVING,Cody,Paul,LONG,8
+15838053,10/1/2016,D-II,Chadron State,Humboldt State,RECEIVING,Kevin,Coy,REC,1
+15838054,10/1/2016,D-II,Chadron State,Humboldt State,RECEIVING,Kevin,Coy,YDS,16
+15838055,10/1/2016,D-II,Chadron State,Humboldt State,RECEIVING,Kevin,Coy,TD,0
+15838056,10/1/2016,D-II,Chadron State,Humboldt State,RECEIVING,Kevin,Coy,LONG,16
+15838057,10/1/2016,D-II,Chadron State,Humboldt State,RECEIVING,Jack,Dobyns,REC,1
+15838058,10/1/2016,D-II,Chadron State,Humboldt State,RECEIVING,Jack,Dobyns,YDS,16
+15838059,10/1/2016,D-II,Chadron State,Humboldt State,RECEIVING,Jack,Dobyns,TD,0
+15838060,10/1/2016,D-II,Chadron State,Humboldt State,RECEIVING,Jack,Dobyns,LONG,16
+15838061,10/1/2016,D-II,Chadron State,Humboldt State,RECEIVING,Derek,Jackson,REC,3
+15838062,10/1/2016,D-II,Chadron State,Humboldt State,RECEIVING,Derek,Jackson,YDS,15
+15838063,10/1/2016,D-II,Chadron State,Humboldt State,RECEIVING,Derek,Jackson,TD,0
+15838064,10/1/2016,D-II,Chadron State,Humboldt State,RECEIVING,Derek,Jackson,LONG,9
+15838065,10/1/2016,D-II,Chadron State,Humboldt State,RECEIVING,Kyle,Hooper,REC,1
+15838066,10/1/2016,D-II,Chadron State,Humboldt State,RECEIVING,Kyle,Hooper,YDS,5
+15838067,10/1/2016,D-II,Chadron State,Humboldt State,RECEIVING,Kyle,Hooper,TD,0
+15838068,10/1/2016,D-II,Chadron State,Humboldt State,RECEIVING,Kyle,Hooper,LONG,5
+15838069,10/1/2016,D-II,Chadron State,Humboldt State,PUNTING,Zach,Smith,NO,5
+15838070,10/1/2016,D-II,Chadron State,Humboldt State,PUNTING,Zach,Smith,YDS,228
+15838071,10/1/2016,D-II,Chadron State,Humboldt State,PUNTING,Zach,Smith,AVG,45.6
+15838072,10/1/2016,D-II,Chadron State,Humboldt State,PUNTING,Zach,Smith,LONG,59
+15838073,10/1/2016,D-II,Chadron State,Humboldt State,PUNT RETURNS,Cody,Paul,NO,4
+15838074,10/1/2016,D-II,Chadron State,Humboldt State,PUNT RETURNS,Cody,Paul,YDS,84
+15838075,10/1/2016,D-II,Chadron State,Humboldt State,PUNT RETURNS,Cody,Paul,AVG,21.0
+15838076,10/1/2016,D-II,Chadron State,Humboldt State,PUNT RETURNS,Cody,Paul,LONG,74
+15838077,10/1/2016,D-II,Chadron State,Humboldt State,KICK RETURNS,Cody,Paul,NO,3
+15838078,10/1/2016,D-II,Chadron State,Humboldt State,KICK RETURNS,Cody,Paul,YDS,83
+15838079,10/1/2016,D-II,Chadron State,Humboldt State,KICK RETURNS,Cody,Paul,AVG,27.7
+15838080,10/1/2016,D-II,Chadron State,Humboldt State,KICK RETURNS,Cody,Paul,LONG,35

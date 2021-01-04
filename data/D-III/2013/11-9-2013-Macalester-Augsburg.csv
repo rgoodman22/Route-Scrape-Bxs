@@ -1,0 +1,77 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+20340001,11/9/2013,D-III,Macalester,Augsburg,RUSHING,,Team,ATT,29
+20340002,11/9/2013,D-III,Macalester,Augsburg,RUSHING,,Team,YDS,117
+20340003,11/9/2013,D-III,Macalester,Augsburg,RUSHING,,Team,TD,1
+20340004,11/9/2013,D-III,Macalester,Augsburg,RUSHING,,Team,LONG,40
+20340005,11/9/2013,D-III,Macalester,Augsburg,PASSING,,Team,CP-ATT-INT,16-38-0
+20340006,11/9/2013,D-III,Macalester,Augsburg,PASSING,,Team,YDS,148
+20340007,11/9/2013,D-III,Macalester,Augsburg,PASSING,,Team,TD,0
+20340008,11/9/2013,D-III,Macalester,Augsburg,PASSING,,Team,LONG,20
+20340009,11/9/2013,D-III,Macalester,Augsburg,RECEIVING,J,Johnson,REC,5
+20340010,11/9/2013,D-III,Macalester,Augsburg,RECEIVING,J,Johnson,YDS,49
+20340011,11/9/2013,D-III,Macalester,Augsburg,RECEIVING,J,Johnson,TD,0
+20340012,11/9/2013,D-III,Macalester,Augsburg,RECEIVING,J,Johnson,LONG,20
+20340013,11/9/2013,D-III,Macalester,Augsburg,RECEIVING,,Team,REC,5
+20340014,11/9/2013,D-III,Macalester,Augsburg,RECEIVING,,Team,YDS,59
+20340015,11/9/2013,D-III,Macalester,Augsburg,RECEIVING,,Team,TD,1
+20340016,11/9/2013,D-III,Macalester,Augsburg,RECEIVING,,Team,LONG,35
+20340017,11/9/2013,D-III,Macalester,Augsburg,PUNTING,,Team,NO,6
+20340018,11/9/2013,D-III,Macalester,Augsburg,PUNTING,,Team,YDS,215
+20340019,11/9/2013,D-III,Macalester,Augsburg,PUNTING,,Team,AVG,35.8
+20340020,11/9/2013,D-III,Macalester,Augsburg,PUNTING,,Team,LONG,50
+20340021,11/9/2013,D-III,Macalester,Augsburg,KICK RETURNS,,Team,NO,1
+20340022,11/9/2013,D-III,Macalester,Augsburg,KICK RETURNS,,Team,YDS,29
+20340023,11/9/2013,D-III,Macalester,Augsburg,KICK RETURNS,,Team,AVG,29.0
+20340024,11/9/2013,D-III,Macalester,Augsburg,KICK RETURNS,,Team,LONG,29
+20340025,11/9/2013,D-III,Macalester,Augsburg,KICK RETURNS,K,Fleming,NO,2
+20340026,11/9/2013,D-III,Macalester,Augsburg,KICK RETURNS,K,Fleming,YDS,54
+20340027,11/9/2013,D-III,Macalester,Augsburg,KICK RETURNS,K,Fleming,AVG,27.0
+20340028,11/9/2013,D-III,Macalester,Augsburg,KICK RETURNS,K,Fleming,LONG,42
+20340029,11/9/2013,D-III,Augsburg,Macalester,RUSHING,Ayrton,Scott,ATT,11
+20340030,11/9/2013,D-III,Augsburg,Macalester,RUSHING,Ayrton,Scott,YDS,27
+20340031,11/9/2013,D-III,Augsburg,Macalester,RUSHING,Ayrton,Scott,TD,1
+20340032,11/9/2013,D-III,Augsburg,Macalester,RUSHING,Ayrton,Scott,LONG,16
+20340033,11/9/2013,D-III,Augsburg,Macalester,RUSHING,J,Washington,ATT,8
+20340034,11/9/2013,D-III,Augsburg,Macalester,RUSHING,J,Washington,YDS,83
+20340035,11/9/2013,D-III,Augsburg,Macalester,RUSHING,J,Washington,TD,1
+20340036,11/9/2013,D-III,Augsburg,Macalester,RUSHING,J,Washington,LONG,35
+20340037,11/9/2013,D-III,Augsburg,Macalester,RUSHING,Phil,Putratz,ATT,24
+20340038,11/9/2013,D-III,Augsburg,Macalester,RUSHING,Phil,Putratz,YDS,141
+20340039,11/9/2013,D-III,Augsburg,Macalester,RUSHING,Phil,Putratz,TD,1
+20340040,11/9/2013,D-III,Augsburg,Macalester,RUSHING,Phil,Putratz,LONG,19
+20340041,11/9/2013,D-III,Augsburg,Macalester,RUSHING,Adam,Carl,ATT,1
+20340042,11/9/2013,D-III,Augsburg,Macalester,RUSHING,Adam,Carl,YDS,21
+20340043,11/9/2013,D-III,Augsburg,Macalester,RUSHING,Adam,Carl,TD,0
+20340044,11/9/2013,D-III,Augsburg,Macalester,RUSHING,Adam,Carl,LONG,21
+20340045,11/9/2013,D-III,Augsburg,Macalester,PASSING,Ayrton,Scott,CP-ATT-INT,19-33-1
+20340046,11/9/2013,D-III,Augsburg,Macalester,PASSING,Ayrton,Scott,YDS,313
+20340047,11/9/2013,D-III,Augsburg,Macalester,PASSING,Ayrton,Scott,TD,2
+20340048,11/9/2013,D-III,Augsburg,Macalester,PASSING,Ayrton,Scott,LONG,35
+20340049,11/9/2013,D-III,Augsburg,Macalester,RECEIVING,Joey,Sonnenfeld,REC,10
+20340050,11/9/2013,D-III,Augsburg,Macalester,RECEIVING,Joey,Sonnenfeld,YDS,162
+20340051,11/9/2013,D-III,Augsburg,Macalester,RECEIVING,Joey,Sonnenfeld,TD,2
+20340052,11/9/2013,D-III,Augsburg,Macalester,RECEIVING,Joey,Sonnenfeld,LONG,35
+20340053,11/9/2013,D-III,Augsburg,Macalester,RECEIVING,J,Washington,REC,5
+20340054,11/9/2013,D-III,Augsburg,Macalester,RECEIVING,J,Washington,YDS,63
+20340055,11/9/2013,D-III,Augsburg,Macalester,RECEIVING,J,Washington,TD,0
+20340056,11/9/2013,D-III,Augsburg,Macalester,RECEIVING,J,Washington,LONG,23
+20340057,11/9/2013,D-III,Augsburg,Macalester,RECEIVING,Phil,Putratz,REC,1
+20340058,11/9/2013,D-III,Augsburg,Macalester,RECEIVING,Phil,Putratz,YDS,9
+20340059,11/9/2013,D-III,Augsburg,Macalester,RECEIVING,Phil,Putratz,TD,0
+20340060,11/9/2013,D-III,Augsburg,Macalester,RECEIVING,Phil,Putratz,LONG,9
+20340061,11/9/2013,D-III,Augsburg,Macalester,RECEIVING,Adam,Carl,REC,3
+20340062,11/9/2013,D-III,Augsburg,Macalester,RECEIVING,Adam,Carl,YDS,79
+20340063,11/9/2013,D-III,Augsburg,Macalester,RECEIVING,Adam,Carl,TD,0
+20340064,11/9/2013,D-III,Augsburg,Macalester,RECEIVING,Adam,Carl,LONG,35
+20340065,11/9/2013,D-III,Augsburg,Macalester,PUNTING,Connor,Helgeson,NO,3
+20340066,11/9/2013,D-III,Augsburg,Macalester,PUNTING,Connor,Helgeson,YDS,78
+20340067,11/9/2013,D-III,Augsburg,Macalester,PUNTING,Connor,Helgeson,AVG,26.0
+20340068,11/9/2013,D-III,Augsburg,Macalester,PUNTING,Connor,Helgeson,LONG,30
+20340069,11/9/2013,D-III,Augsburg,Macalester,PUNT RETURNS,,Team,NO,1
+20340070,11/9/2013,D-III,Augsburg,Macalester,PUNT RETURNS,,Team,YDS,0
+20340071,11/9/2013,D-III,Augsburg,Macalester,PUNT RETURNS,,Team,AVG,0.0
+20340072,11/9/2013,D-III,Augsburg,Macalester,PUNT RETURNS,,Team,LONG,0
+20340073,11/9/2013,D-III,Augsburg,Macalester,KICK RETURNS,,Team,NO,1
+20340074,11/9/2013,D-III,Augsburg,Macalester,KICK RETURNS,,Team,YDS,9
+20340075,11/9/2013,D-III,Augsburg,Macalester,KICK RETURNS,,Team,AVG,9.0
+20340076,11/9/2013,D-III,Augsburg,Macalester,KICK RETURNS,,Team,LONG,9

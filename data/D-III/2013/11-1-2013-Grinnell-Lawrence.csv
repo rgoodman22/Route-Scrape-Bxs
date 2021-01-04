@@ -1,0 +1,125 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+20177001,11/1/2013,D-III,Grinnell,Lawrence,RUSHING,Jacob,Bernholtz,ATT,7
+20177002,11/1/2013,D-III,Grinnell,Lawrence,RUSHING,Jacob,Bernholtz,YDS,3
+20177003,11/1/2013,D-III,Grinnell,Lawrence,RUSHING,Jacob,Bernholtz,TD,1
+20177004,11/1/2013,D-III,Grinnell,Lawrence,RUSHING,Jacob,Bernholtz,LONG,1
+20177005,11/1/2013,D-III,Grinnell,Lawrence,RUSHING,Sam,Poulos,ATT,7
+20177006,11/1/2013,D-III,Grinnell,Lawrence,RUSHING,Sam,Poulos,YDS,14
+20177007,11/1/2013,D-III,Grinnell,Lawrence,RUSHING,Sam,Poulos,TD,0
+20177008,11/1/2013,D-III,Grinnell,Lawrence,RUSHING,Sam,Poulos,LONG,12
+20177009,11/1/2013,D-III,Grinnell,Lawrence,RUSHING,Ba,Morrissette,ATT,2
+20177010,11/1/2013,D-III,Grinnell,Lawrence,RUSHING,Ba,Morrissette,YDS,1
+20177011,11/1/2013,D-III,Grinnell,Lawrence,RUSHING,Ba,Morrissette,TD,0
+20177012,11/1/2013,D-III,Grinnell,Lawrence,RUSHING,Ba,Morrissette,LONG,2
+20177013,11/1/2013,D-III,Grinnell,Lawrence,RUSHING,,Team,ATT,3
+20177014,11/1/2013,D-III,Grinnell,Lawrence,RUSHING,,Team,YDS,-4
+20177015,11/1/2013,D-III,Grinnell,Lawrence,RUSHING,,Team,TD,0
+20177016,11/1/2013,D-III,Grinnell,Lawrence,RUSHING,,Team,LONG,0
+20177017,11/1/2013,D-III,Grinnell,Lawrence,PASSING,Sam,Poulos,CP-ATT-INT,20-40-0
+20177018,11/1/2013,D-III,Grinnell,Lawrence,PASSING,Sam,Poulos,YDS,363
+20177019,11/1/2013,D-III,Grinnell,Lawrence,PASSING,Sam,Poulos,TD,2
+20177020,11/1/2013,D-III,Grinnell,Lawrence,PASSING,Sam,Poulos,LONG,75
+20177021,11/1/2013,D-III,Grinnell,Lawrence,RECEIVING,Harnak,Mann,REC,1
+20177022,11/1/2013,D-III,Grinnell,Lawrence,RECEIVING,Harnak,Mann,YDS,5
+20177023,11/1/2013,D-III,Grinnell,Lawrence,RECEIVING,Harnak,Mann,TD,0
+20177024,11/1/2013,D-III,Grinnell,Lawrence,RECEIVING,Harnak,Mann,LONG,5
+20177025,11/1/2013,D-III,Grinnell,Lawrence,RECEIVING,Jacob,Bernholtz,REC,1
+20177026,11/1/2013,D-III,Grinnell,Lawrence,RECEIVING,Jacob,Bernholtz,YDS,0
+20177027,11/1/2013,D-III,Grinnell,Lawrence,RECEIVING,Jacob,Bernholtz,TD,0
+20177028,11/1/2013,D-III,Grinnell,Lawrence,RECEIVING,Jacob,Bernholtz,LONG,0
+20177029,11/1/2013,D-III,Grinnell,Lawrence,RECEIVING,Emmi,Sandoval,REC,7
+20177030,11/1/2013,D-III,Grinnell,Lawrence,RECEIVING,Emmi,Sandoval,YDS,93
+20177031,11/1/2013,D-III,Grinnell,Lawrence,RECEIVING,Emmi,Sandoval,TD,0
+20177032,11/1/2013,D-III,Grinnell,Lawrence,RECEIVING,Emmi,Sandoval,LONG,33
+20177033,11/1/2013,D-III,Grinnell,Lawrence,RECEIVING,Jacob,Meixler,REC,10
+20177034,11/1/2013,D-III,Grinnell,Lawrence,RECEIVING,Jacob,Meixler,YDS,203
+20177035,11/1/2013,D-III,Grinnell,Lawrence,RECEIVING,Jacob,Meixler,TD,1
+20177036,11/1/2013,D-III,Grinnell,Lawrence,RECEIVING,Jacob,Meixler,LONG,75
+20177037,11/1/2013,D-III,Grinnell,Lawrence,RECEIVING,Jake,O'polka,REC,1
+20177038,11/1/2013,D-III,Grinnell,Lawrence,RECEIVING,Jake,O'polka,YDS,62
+20177039,11/1/2013,D-III,Grinnell,Lawrence,RECEIVING,Jake,O'polka,TD,1
+20177040,11/1/2013,D-III,Grinnell,Lawrence,RECEIVING,Jake,O'polka,LONG,62
+20177041,11/1/2013,D-III,Grinnell,Lawrence,PUNTING,Sam,Poulos,NO,1
+20177042,11/1/2013,D-III,Grinnell,Lawrence,PUNTING,Sam,Poulos,YDS,34
+20177043,11/1/2013,D-III,Grinnell,Lawrence,PUNTING,Sam,Poulos,AVG,34.0
+20177044,11/1/2013,D-III,Grinnell,Lawrence,PUNTING,Sam,Poulos,LONG,34
+20177045,11/1/2013,D-III,Grinnell,Lawrence,PUNTING,Graham,Fisher,NO,6
+20177046,11/1/2013,D-III,Grinnell,Lawrence,PUNTING,Graham,Fisher,YDS,193
+20177047,11/1/2013,D-III,Grinnell,Lawrence,PUNTING,Graham,Fisher,AVG,32.2
+20177048,11/1/2013,D-III,Grinnell,Lawrence,PUNTING,Graham,Fisher,LONG,35
+20177049,11/1/2013,D-III,Grinnell,Lawrence,PUNT RETURNS,Kevin,Hwang,NO,2
+20177050,11/1/2013,D-III,Grinnell,Lawrence,PUNT RETURNS,Kevin,Hwang,YDS,13
+20177051,11/1/2013,D-III,Grinnell,Lawrence,PUNT RETURNS,Kevin,Hwang,AVG,6.5
+20177052,11/1/2013,D-III,Grinnell,Lawrence,PUNT RETURNS,Kevin,Hwang,LONG,7
+20177053,11/1/2013,D-III,Grinnell,Lawrence,KICK RETURNS,Jacob,Bernholtz,NO,1
+20177054,11/1/2013,D-III,Grinnell,Lawrence,KICK RETURNS,Jacob,Bernholtz,YDS,17
+20177055,11/1/2013,D-III,Grinnell,Lawrence,KICK RETURNS,Jacob,Bernholtz,AVG,17.0
+20177056,11/1/2013,D-III,Grinnell,Lawrence,KICK RETURNS,Jacob,Bernholtz,LONG,17
+20177057,11/1/2013,D-III,Grinnell,Lawrence,KICK RETURNS,Andrew,Clark,NO,1
+20177058,11/1/2013,D-III,Grinnell,Lawrence,KICK RETURNS,Andrew,Clark,YDS,31
+20177059,11/1/2013,D-III,Grinnell,Lawrence,KICK RETURNS,Andrew,Clark,AVG,31.0
+20177060,11/1/2013,D-III,Grinnell,Lawrence,KICK RETURNS,Andrew,Clark,LONG,31
+20177061,11/1/2013,D-III,Lawrence,Grinnell,RUSHING,Isa,Barthelmess,ATT,9
+20177062,11/1/2013,D-III,Lawrence,Grinnell,RUSHING,Isa,Barthelmess,YDS,15
+20177063,11/1/2013,D-III,Lawrence,Grinnell,RUSHING,Isa,Barthelmess,TD,0
+20177064,11/1/2013,D-III,Lawrence,Grinnell,RUSHING,Isa,Barthelmess,LONG,7
+20177065,11/1/2013,D-III,Lawrence,Grinnell,RUSHING,Tyler,Lueck,ATT,1
+20177066,11/1/2013,D-III,Lawrence,Grinnell,RUSHING,Tyler,Lueck,YDS,0
+20177067,11/1/2013,D-III,Lawrence,Grinnell,RUSHING,Tyler,Lueck,TD,0
+20177068,11/1/2013,D-III,Lawrence,Grinnell,RUSHING,Tyler,Lueck,LONG,0
+20177069,11/1/2013,D-III,Lawrence,Grinnell,RUSHING,,Team,ATT,17
+20177070,11/1/2013,D-III,Lawrence,Grinnell,RUSHING,,Team,YDS,131
+20177071,11/1/2013,D-III,Lawrence,Grinnell,RUSHING,,Team,TD,0
+20177072,11/1/2013,D-III,Lawrence,Grinnell,RUSHING,,Team,LONG,42
+20177073,11/1/2013,D-III,Lawrence,Grinnell,PASSING,,Team,CP-ATT-INT,32-50-2
+20177074,11/1/2013,D-III,Lawrence,Grinnell,PASSING,,Team,YDS,337
+20177075,11/1/2013,D-III,Lawrence,Grinnell,PASSING,,Team,TD,3
+20177076,11/1/2013,D-III,Lawrence,Grinnell,PASSING,,Team,LONG,42
+20177077,11/1/2013,D-III,Lawrence,Grinnell,RECEIVING,Isa,Barthelmess,REC,5
+20177078,11/1/2013,D-III,Lawrence,Grinnell,RECEIVING,Isa,Barthelmess,YDS,25
+20177079,11/1/2013,D-III,Lawrence,Grinnell,RECEIVING,Isa,Barthelmess,TD,1
+20177080,11/1/2013,D-III,Lawrence,Grinnell,RECEIVING,Isa,Barthelmess,LONG,10
+20177081,11/1/2013,D-III,Lawrence,Grinnell,RECEIVING,Tyler,Lueck,REC,8
+20177082,11/1/2013,D-III,Lawrence,Grinnell,RECEIVING,Tyler,Lueck,YDS,61
+20177083,11/1/2013,D-III,Lawrence,Grinnell,RECEIVING,Tyler,Lueck,TD,1
+20177084,11/1/2013,D-III,Lawrence,Grinnell,RECEIVING,Tyler,Lueck,LONG,27
+20177085,11/1/2013,D-III,Lawrence,Grinnell,RECEIVING,Wes,Hetcher,REC,1
+20177086,11/1/2013,D-III,Lawrence,Grinnell,RECEIVING,Wes,Hetcher,YDS,5
+20177087,11/1/2013,D-III,Lawrence,Grinnell,RECEIVING,Wes,Hetcher,TD,0
+20177088,11/1/2013,D-III,Lawrence,Grinnell,RECEIVING,Wes,Hetcher,LONG,5
+20177089,11/1/2013,D-III,Lawrence,Grinnell,RECEIVING,Sam,Wagner,REC,6
+20177090,11/1/2013,D-III,Lawrence,Grinnell,RECEIVING,Sam,Wagner,YDS,106
+20177091,11/1/2013,D-III,Lawrence,Grinnell,RECEIVING,Sam,Wagner,TD,0
+20177092,11/1/2013,D-III,Lawrence,Grinnell,RECEIVING,Sam,Wagner,LONG,42
+20177093,11/1/2013,D-III,Lawrence,Grinnell,RECEIVING,,Team,REC,1
+20177094,11/1/2013,D-III,Lawrence,Grinnell,RECEIVING,,Team,YDS,11
+20177095,11/1/2013,D-III,Lawrence,Grinnell,RECEIVING,,Team,TD,0
+20177096,11/1/2013,D-III,Lawrence,Grinnell,RECEIVING,,Team,LONG,11
+20177097,11/1/2013,D-III,Lawrence,Grinnell,RECEIVING,Zack,Schubert,REC,5
+20177098,11/1/2013,D-III,Lawrence,Grinnell,RECEIVING,Zack,Schubert,YDS,40
+20177099,11/1/2013,D-III,Lawrence,Grinnell,RECEIVING,Zack,Schubert,TD,0
+20177100,11/1/2013,D-III,Lawrence,Grinnell,RECEIVING,Zack,Schubert,LONG,11
+20177101,11/1/2013,D-III,Lawrence,Grinnell,RECEIVING,Dan,Dubnicka,REC,6
+20177102,11/1/2013,D-III,Lawrence,Grinnell,RECEIVING,Dan,Dubnicka,YDS,89
+20177103,11/1/2013,D-III,Lawrence,Grinnell,RECEIVING,Dan,Dubnicka,TD,1
+20177104,11/1/2013,D-III,Lawrence,Grinnell,RECEIVING,Dan,Dubnicka,LONG,27
+20177105,11/1/2013,D-III,Lawrence,Grinnell,PUNTING,,Team,NO,2
+20177106,11/1/2013,D-III,Lawrence,Grinnell,PUNTING,,Team,YDS,77
+20177107,11/1/2013,D-III,Lawrence,Grinnell,PUNTING,,Team,AVG,38.5
+20177108,11/1/2013,D-III,Lawrence,Grinnell,PUNTING,,Team,LONG,39
+20177109,11/1/2013,D-III,Lawrence,Grinnell,PUNT RETURNS,Dan,Taylor,NO,2
+20177110,11/1/2013,D-III,Lawrence,Grinnell,PUNT RETURNS,Dan,Taylor,YDS,8
+20177111,11/1/2013,D-III,Lawrence,Grinnell,PUNT RETURNS,Dan,Taylor,AVG,4.0
+20177112,11/1/2013,D-III,Lawrence,Grinnell,PUNT RETURNS,Dan,Taylor,LONG,7
+20177113,11/1/2013,D-III,Lawrence,Grinnell,KICK RETURNS,Isa,Barthelmess,NO,2
+20177114,11/1/2013,D-III,Lawrence,Grinnell,KICK RETURNS,Isa,Barthelmess,YDS,41
+20177115,11/1/2013,D-III,Lawrence,Grinnell,KICK RETURNS,Isa,Barthelmess,AVG,20.5
+20177116,11/1/2013,D-III,Lawrence,Grinnell,KICK RETURNS,Isa,Barthelmess,LONG,30
+20177117,11/1/2013,D-III,Lawrence,Grinnell,KICK RETURNS,Sam,Wagner,NO,1
+20177118,11/1/2013,D-III,Lawrence,Grinnell,KICK RETURNS,Sam,Wagner,YDS,34
+20177119,11/1/2013,D-III,Lawrence,Grinnell,KICK RETURNS,Sam,Wagner,AVG,34.0
+20177120,11/1/2013,D-III,Lawrence,Grinnell,KICK RETURNS,Sam,Wagner,LONG,34
+20177121,11/1/2013,D-III,Lawrence,Grinnell,KICK RETURNS,Brandon,Taylor,NO,1
+20177122,11/1/2013,D-III,Lawrence,Grinnell,KICK RETURNS,Brandon,Taylor,YDS,10
+20177123,11/1/2013,D-III,Lawrence,Grinnell,KICK RETURNS,Brandon,Taylor,AVG,10.0
+20177124,11/1/2013,D-III,Lawrence,Grinnell,KICK RETURNS,Brandon,Taylor,LONG,10

@@ -1,0 +1,73 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+13257001,11/9/2013,D-II,Central Wash.,Western Oregon,RUSHING,J,Nelson,ATT,9
+13257002,11/9/2013,D-II,Central Wash.,Western Oregon,RUSHING,J,Nelson,YDS,14
+13257003,11/9/2013,D-II,Central Wash.,Western Oregon,RUSHING,J,Nelson,TD,0
+13257004,11/9/2013,D-II,Central Wash.,Western Oregon,RUSHING,J,Nelson,LONG,10
+13257005,11/9/2013,D-II,Central Wash.,Western Oregon,RUSHING,,Team,ATT,18
+13257006,11/9/2013,D-II,Central Wash.,Western Oregon,RUSHING,,Team,YDS,53
+13257007,11/9/2013,D-II,Central Wash.,Western Oregon,RUSHING,,Team,TD,1
+13257008,11/9/2013,D-II,Central Wash.,Western Oregon,RUSHING,,Team,LONG,24
+13257009,11/9/2013,D-II,Central Wash.,Western Oregon,PASSING,J,Nelson,CP-ATT-INT,23-36-3
+13257010,11/9/2013,D-II,Central Wash.,Western Oregon,PASSING,J,Nelson,YDS,244
+13257011,11/9/2013,D-II,Central Wash.,Western Oregon,PASSING,J,Nelson,TD,2
+13257012,11/9/2013,D-II,Central Wash.,Western Oregon,PASSING,J,Nelson,LONG,52
+13257013,11/9/2013,D-II,Central Wash.,Western Oregon,RECEIVING,,Team,REC,7
+13257014,11/9/2013,D-II,Central Wash.,Western Oregon,RECEIVING,,Team,YDS,44
+13257015,11/9/2013,D-II,Central Wash.,Western Oregon,RECEIVING,,Team,TD,0
+13257016,11/9/2013,D-II,Central Wash.,Western Oregon,RECEIVING,,Team,LONG,11
+13257017,11/9/2013,D-II,Central Wash.,Western Oregon,PUNTING,,Team,NO,6
+13257018,11/9/2013,D-II,Central Wash.,Western Oregon,PUNTING,,Team,YDS,257
+13257019,11/9/2013,D-II,Central Wash.,Western Oregon,PUNTING,,Team,AVG,42.8
+13257020,11/9/2013,D-II,Central Wash.,Western Oregon,PUNTING,,Team,LONG,49
+13257021,11/9/2013,D-II,Central Wash.,Western Oregon,PUNT RETURNS,I,Davis,NO,1
+13257022,11/9/2013,D-II,Central Wash.,Western Oregon,PUNT RETURNS,I,Davis,YDS,5
+13257023,11/9/2013,D-II,Central Wash.,Western Oregon,PUNT RETURNS,I,Davis,AVG,5.0
+13257024,11/9/2013,D-II,Central Wash.,Western Oregon,PUNT RETURNS,I,Davis,LONG,5
+13257025,11/9/2013,D-II,Central Wash.,Western Oregon,KICK RETURNS,I,Davis,NO,2
+13257026,11/9/2013,D-II,Central Wash.,Western Oregon,KICK RETURNS,I,Davis,YDS,39
+13257027,11/9/2013,D-II,Central Wash.,Western Oregon,KICK RETURNS,I,Davis,AVG,19.5
+13257028,11/9/2013,D-II,Central Wash.,Western Oregon,KICK RETURNS,I,Davis,LONG,26
+13257029,11/9/2013,D-II,Central Wash.,Western Oregon,KICK RETURNS,,Team,NO,1
+13257030,11/9/2013,D-II,Central Wash.,Western Oregon,KICK RETURNS,,Team,YDS,0
+13257031,11/9/2013,D-II,Central Wash.,Western Oregon,KICK RETURNS,,Team,AVG,0.0
+13257032,11/9/2013,D-II,Central Wash.,Western Oregon,KICK RETURNS,,Team,LONG,0
+13257033,11/9/2013,D-II,Western Oregon,Central Wash.,RUSHING,,Team,ATT,6
+13257034,11/9/2013,D-II,Western Oregon,Central Wash.,RUSHING,,Team,YDS,-8
+13257035,11/9/2013,D-II,Western Oregon,Central Wash.,RUSHING,,Team,TD,0
+13257036,11/9/2013,D-II,Western Oregon,Central Wash.,RUSHING,,Team,LONG,15
+13257037,11/9/2013,D-II,Western Oregon,Central Wash.,PASSING,,Team,CP-ATT-INT,21-39-1
+13257038,11/9/2013,D-II,Western Oregon,Central Wash.,PASSING,,Team,YDS,405
+13257039,11/9/2013,D-II,Western Oregon,Central Wash.,PASSING,,Team,TD,4
+13257040,11/9/2013,D-II,Western Oregon,Central Wash.,PASSING,,Team,LONG,78
+13257041,11/9/2013,D-II,Western Oregon,Central Wash.,RECEIVING,,Team,REC,1
+13257042,11/9/2013,D-II,Western Oregon,Central Wash.,RECEIVING,,Team,YDS,3
+13257043,11/9/2013,D-II,Western Oregon,Central Wash.,RECEIVING,,Team,TD,0
+13257044,11/9/2013,D-II,Western Oregon,Central Wash.,RECEIVING,,Team,LONG,3
+13257045,11/9/2013,D-II,Western Oregon,Central Wash.,RECEIVING,T,Williams,REC,2
+13257046,11/9/2013,D-II,Western Oregon,Central Wash.,RECEIVING,T,Williams,YDS,57
+13257047,11/9/2013,D-II,Western Oregon,Central Wash.,RECEIVING,T,Williams,TD,1
+13257048,11/9/2013,D-II,Western Oregon,Central Wash.,RECEIVING,T,Williams,LONG,43
+13257049,11/9/2013,D-II,Western Oregon,Central Wash.,RECEIVING,D,Hurd,REC,5
+13257050,11/9/2013,D-II,Western Oregon,Central Wash.,RECEIVING,D,Hurd,YDS,124
+13257051,11/9/2013,D-II,Western Oregon,Central Wash.,RECEIVING,D,Hurd,TD,1
+13257052,11/9/2013,D-II,Western Oregon,Central Wash.,RECEIVING,D,Hurd,LONG,78
+13257053,11/9/2013,D-II,Western Oregon,Central Wash.,RECEIVING,,Team,REC,6
+13257054,11/9/2013,D-II,Western Oregon,Central Wash.,RECEIVING,,Team,YDS,124
+13257055,11/9/2013,D-II,Western Oregon,Central Wash.,RECEIVING,,Team,TD,1
+13257056,11/9/2013,D-II,Western Oregon,Central Wash.,RECEIVING,,Team,LONG,61
+13257057,11/9/2013,D-II,Western Oregon,Central Wash.,PUNTING,,Team,NO,5
+13257058,11/9/2013,D-II,Western Oregon,Central Wash.,PUNTING,,Team,YDS,200
+13257059,11/9/2013,D-II,Western Oregon,Central Wash.,PUNTING,,Team,AVG,40.0
+13257060,11/9/2013,D-II,Western Oregon,Central Wash.,PUNTING,,Team,LONG,52
+13257061,11/9/2013,D-II,Western Oregon,Central Wash.,PUNT RETURNS,,Team,NO,3
+13257062,11/9/2013,D-II,Western Oregon,Central Wash.,PUNT RETURNS,,Team,YDS,-4
+13257063,11/9/2013,D-II,Western Oregon,Central Wash.,PUNT RETURNS,,Team,AVG,-1.3
+13257064,11/9/2013,D-II,Western Oregon,Central Wash.,PUNT RETURNS,,Team,LONG,7
+13257065,11/9/2013,D-II,Western Oregon,Central Wash.,PUNT RETURNS,A,Hull,NO,1
+13257066,11/9/2013,D-II,Western Oregon,Central Wash.,PUNT RETURNS,A,Hull,YDS,4
+13257067,11/9/2013,D-II,Western Oregon,Central Wash.,PUNT RETURNS,A,Hull,AVG,4.0
+13257068,11/9/2013,D-II,Western Oregon,Central Wash.,PUNT RETURNS,A,Hull,LONG,4
+13257069,11/9/2013,D-II,Western Oregon,Central Wash.,KICK RETURNS,,Team,NO,2
+13257070,11/9/2013,D-II,Western Oregon,Central Wash.,KICK RETURNS,,Team,YDS,16
+13257071,11/9/2013,D-II,Western Oregon,Central Wash.,KICK RETURNS,,Team,AVG,8.0
+13257072,11/9/2013,D-II,Western Oregon,Central Wash.,KICK RETURNS,,Team,LONG,9

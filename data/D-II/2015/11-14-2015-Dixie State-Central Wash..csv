@@ -1,0 +1,57 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+15345001,11/14/2015,D-II,Dixie State,Central Wash.,RUSHING,,Team,ATT,12
+15345002,11/14/2015,D-II,Dixie State,Central Wash.,RUSHING,,Team,YDS,117
+15345003,11/14/2015,D-II,Dixie State,Central Wash.,RUSHING,,Team,TD,3
+15345004,11/14/2015,D-II,Dixie State,Central Wash.,RUSHING,,Team,LONG,66
+15345005,11/14/2015,D-II,Dixie State,Central Wash.,RUSHING,B,Barney,ATT,16
+15345006,11/14/2015,D-II,Dixie State,Central Wash.,RUSHING,B,Barney,YDS,51
+15345007,11/14/2015,D-II,Dixie State,Central Wash.,RUSHING,B,Barney,TD,0
+15345008,11/14/2015,D-II,Dixie State,Central Wash.,RUSHING,B,Barney,LONG,17
+15345009,11/14/2015,D-II,Dixie State,Central Wash.,RUSHING,,Team,ATT,6
+15345010,11/14/2015,D-II,Dixie State,Central Wash.,RUSHING,,Team,YDS,48
+15345011,11/14/2015,D-II,Dixie State,Central Wash.,RUSHING,,Team,TD,1
+15345012,11/14/2015,D-II,Dixie State,Central Wash.,RUSHING,,Team,LONG,20
+15345013,11/14/2015,D-II,Dixie State,Central Wash.,PASSING,B,Barney,CP-ATT-INT,6-21-1
+15345014,11/14/2015,D-II,Dixie State,Central Wash.,PASSING,B,Barney,YDS,104
+15345015,11/14/2015,D-II,Dixie State,Central Wash.,PASSING,B,Barney,TD,0
+15345016,11/14/2015,D-II,Dixie State,Central Wash.,PASSING,B,Barney,LONG,33
+15345017,11/14/2015,D-II,Dixie State,Central Wash.,RECEIVING,,Team,REC,2
+15345018,11/14/2015,D-II,Dixie State,Central Wash.,RECEIVING,,Team,YDS,49
+15345019,11/14/2015,D-II,Dixie State,Central Wash.,RECEIVING,,Team,TD,0
+15345020,11/14/2015,D-II,Dixie State,Central Wash.,RECEIVING,,Team,LONG,26
+15345021,11/14/2015,D-II,Dixie State,Central Wash.,PUNTING,,Team,NO,7
+15345022,11/14/2015,D-II,Dixie State,Central Wash.,PUNTING,,Team,YDS,280
+15345023,11/14/2015,D-II,Dixie State,Central Wash.,PUNTING,,Team,AVG,40.0
+15345024,11/14/2015,D-II,Dixie State,Central Wash.,PUNTING,,Team,LONG,46
+15345025,11/14/2015,D-II,Dixie State,Central Wash.,KICK RETURNS,,Team,NO,1
+15345026,11/14/2015,D-II,Dixie State,Central Wash.,KICK RETURNS,,Team,YDS,11
+15345027,11/14/2015,D-II,Dixie State,Central Wash.,KICK RETURNS,,Team,AVG,11.0
+15345028,11/14/2015,D-II,Dixie State,Central Wash.,KICK RETURNS,,Team,LONG,11
+15345029,11/14/2015,D-II,Central Wash.,Dixie State,RUSHING,Q,Carter,ATT,22
+15345030,11/14/2015,D-II,Central Wash.,Dixie State,RUSHING,Q,Carter,YDS,105
+15345031,11/14/2015,D-II,Central Wash.,Dixie State,RUSHING,Q,Carter,TD,1
+15345032,11/14/2015,D-II,Central Wash.,Dixie State,RUSHING,Q,Carter,LONG,19
+15345033,11/14/2015,D-II,Central Wash.,Dixie State,RUSHING,,Team,ATT,20
+15345034,11/14/2015,D-II,Central Wash.,Dixie State,RUSHING,,Team,YDS,92
+15345035,11/14/2015,D-II,Central Wash.,Dixie State,RUSHING,,Team,TD,1
+15345036,11/14/2015,D-II,Central Wash.,Dixie State,RUSHING,,Team,LONG,14
+15345037,11/14/2015,D-II,Central Wash.,Dixie State,PASSING,,Team,CP-ATT-INT,16-26-4
+15345038,11/14/2015,D-II,Central Wash.,Dixie State,PASSING,,Team,YDS,239
+15345039,11/14/2015,D-II,Central Wash.,Dixie State,PASSING,,Team,TD,1
+15345040,11/14/2015,D-II,Central Wash.,Dixie State,PASSING,,Team,LONG,43
+15345041,11/14/2015,D-II,Central Wash.,Dixie State,RECEIVING,,Team,REC,5
+15345042,11/14/2015,D-II,Central Wash.,Dixie State,RECEIVING,,Team,YDS,78
+15345043,11/14/2015,D-II,Central Wash.,Dixie State,RECEIVING,,Team,TD,0
+15345044,11/14/2015,D-II,Central Wash.,Dixie State,RECEIVING,,Team,LONG,24
+15345045,11/14/2015,D-II,Central Wash.,Dixie State,PUNTING,,Team,NO,2
+15345046,11/14/2015,D-II,Central Wash.,Dixie State,PUNTING,,Team,YDS,80
+15345047,11/14/2015,D-II,Central Wash.,Dixie State,PUNTING,,Team,AVG,40.0
+15345048,11/14/2015,D-II,Central Wash.,Dixie State,PUNTING,,Team,LONG,44
+15345049,11/14/2015,D-II,Central Wash.,Dixie State,PUNT RETURNS,,Team,NO,1
+15345050,11/14/2015,D-II,Central Wash.,Dixie State,PUNT RETURNS,,Team,YDS,-3
+15345051,11/14/2015,D-II,Central Wash.,Dixie State,PUNT RETURNS,,Team,AVG,-3.0
+15345052,11/14/2015,D-II,Central Wash.,Dixie State,PUNT RETURNS,,Team,LONG,0
+15345053,11/14/2015,D-II,Central Wash.,Dixie State,KICK RETURNS,,Team,NO,3
+15345054,11/14/2015,D-II,Central Wash.,Dixie State,KICK RETURNS,,Team,YDS,95
+15345055,11/14/2015,D-II,Central Wash.,Dixie State,KICK RETURNS,,Team,AVG,31.7
+15345056,11/14/2015,D-II,Central Wash.,Dixie State,KICK RETURNS,,Team,LONG,39

@@ -1,0 +1,117 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+16213001,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RUSHING,Bradley,Jones,ATT,8
+16213002,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RUSHING,Bradley,Jones,YDS,88
+16213003,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RUSHING,Bradley,Jones,TD,1
+16213004,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RUSHING,Bradley,Jones,LONG,29
+16213005,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RUSHING,Nelson,Brown,ATT,18
+16213006,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RUSHING,Nelson,Brown,YDS,87
+16213007,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RUSHING,Nelson,Brown,TD,1
+16213008,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RUSHING,Nelson,Brown,LONG,10
+16213009,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RUSHING,,Team,ATT,1
+16213010,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RUSHING,,Team,YDS,-2
+16213011,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RUSHING,,Team,TD,0
+16213012,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RUSHING,,Team,LONG,0
+16213013,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RUSHING,Jarrod,Kellar,ATT,2
+16213014,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RUSHING,Jarrod,Kellar,YDS,-7
+16213015,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RUSHING,Jarrod,Kellar,TD,0
+16213016,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RUSHING,Jarrod,Kellar,LONG,0
+16213017,11/5/2016,D-II,Lenoir-Rhyne,Brevard,PASSING,Jarrod,Kellar,CP-ATT-INT,13-22-1
+16213018,11/5/2016,D-II,Lenoir-Rhyne,Brevard,PASSING,Jarrod,Kellar,YDS,164
+16213019,11/5/2016,D-II,Lenoir-Rhyne,Brevard,PASSING,Jarrod,Kellar,TD,1
+16213020,11/5/2016,D-II,Lenoir-Rhyne,Brevard,PASSING,Jarrod,Kellar,LONG,26
+16213021,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RECEIVING,P,Rendleman,REC,3
+16213022,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RECEIVING,P,Rendleman,YDS,46
+16213023,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RECEIVING,P,Rendleman,TD,1
+16213024,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RECEIVING,P,Rendleman,LONG,26
+16213025,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RECEIVING,Jaquay,Mitchell,REC,3
+16213026,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RECEIVING,Jaquay,Mitchell,YDS,38
+16213027,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RECEIVING,Jaquay,Mitchell,TD,0
+16213028,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RECEIVING,Jaquay,Mitchell,LONG,23
+16213029,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RECEIVING,Sam,Camargo,REC,2
+16213030,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RECEIVING,Sam,Camargo,YDS,26
+16213031,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RECEIVING,Sam,Camargo,TD,0
+16213032,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RECEIVING,Sam,Camargo,LONG,17
+16213033,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RECEIVING,Ray,Beam,REC,2
+16213034,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RECEIVING,Ray,Beam,YDS,24
+16213035,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RECEIVING,Ray,Beam,TD,0
+16213036,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RECEIVING,Ray,Beam,LONG,16
+16213037,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RECEIVING,Alec,Philpott,REC,2
+16213038,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RECEIVING,Alec,Philpott,YDS,24
+16213039,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RECEIVING,Alec,Philpott,TD,0
+16213040,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RECEIVING,Alec,Philpott,LONG,12
+16213041,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RECEIVING,Nelson,Brown,REC,1
+16213042,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RECEIVING,Nelson,Brown,YDS,6
+16213043,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RECEIVING,Nelson,Brown,TD,0
+16213044,11/5/2016,D-II,Lenoir-Rhyne,Brevard,RECEIVING,Nelson,Brown,LONG,6
+16213045,11/5/2016,D-II,Lenoir-Rhyne,Brevard,PUNTING,M,Destephens,NO,3
+16213046,11/5/2016,D-II,Lenoir-Rhyne,Brevard,PUNTING,M,Destephens,YDS,133
+16213047,11/5/2016,D-II,Lenoir-Rhyne,Brevard,PUNTING,M,Destephens,AVG,44.3
+16213048,11/5/2016,D-II,Lenoir-Rhyne,Brevard,PUNTING,M,Destephens,LONG,53
+16213049,11/5/2016,D-II,Lenoir-Rhyne,Brevard,PUNT RETURNS,P,Rendleman,NO,2
+16213050,11/5/2016,D-II,Lenoir-Rhyne,Brevard,PUNT RETURNS,P,Rendleman,YDS,43
+16213051,11/5/2016,D-II,Lenoir-Rhyne,Brevard,PUNT RETURNS,P,Rendleman,AVG,21.5
+16213052,11/5/2016,D-II,Lenoir-Rhyne,Brevard,PUNT RETURNS,P,Rendleman,LONG,31
+16213053,11/5/2016,D-II,Lenoir-Rhyne,Brevard,KICK RETURNS,Jaquay,Mitchell,NO,1
+16213054,11/5/2016,D-II,Lenoir-Rhyne,Brevard,KICK RETURNS,Jaquay,Mitchell,YDS,30
+16213055,11/5/2016,D-II,Lenoir-Rhyne,Brevard,KICK RETURNS,Jaquay,Mitchell,AVG,30.0
+16213056,11/5/2016,D-II,Lenoir-Rhyne,Brevard,KICK RETURNS,Jaquay,Mitchell,LONG,30
+16213057,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RUSHING,J,Hopkins,ATT,16
+16213058,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RUSHING,J,Hopkins,YDS,83
+16213059,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RUSHING,J,Hopkins,TD,1
+16213060,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RUSHING,J,Hopkins,LONG,19
+16213061,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RUSHING,B,Craven,ATT,18
+16213062,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RUSHING,B,Craven,YDS,63
+16213063,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RUSHING,B,Craven,TD,1
+16213064,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RUSHING,B,Craven,LONG,8
+16213065,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RUSHING,K,Johnson,ATT,7
+16213066,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RUSHING,K,Johnson,YDS,17
+16213067,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RUSHING,K,Johnson,TD,0
+16213068,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RUSHING,K,Johnson,LONG,5
+16213069,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RUSHING,C,Holbrooks,ATT,1
+16213070,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RUSHING,C,Holbrooks,YDS,7
+16213071,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RUSHING,C,Holbrooks,TD,0
+16213072,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RUSHING,C,Holbrooks,LONG,7
+16213073,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RUSHING,I,German,ATT,5
+16213074,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RUSHING,I,German,YDS,6
+16213075,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RUSHING,I,German,TD,0
+16213076,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RUSHING,I,German,LONG,3
+16213077,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RUSHING,B,Clerisier,ATT,1
+16213078,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RUSHING,B,Clerisier,YDS,4
+16213079,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RUSHING,B,Clerisier,TD,0
+16213080,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RUSHING,B,Clerisier,LONG,4
+16213081,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RUSHING,X,Brown,ATT,1
+16213082,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RUSHING,X,Brown,YDS,4
+16213083,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RUSHING,X,Brown,TD,0
+16213084,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RUSHING,X,Brown,LONG,4
+16213085,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RUSHING,T,Gregory,ATT,1
+16213086,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RUSHING,T,Gregory,YDS,-8
+16213087,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RUSHING,T,Gregory,TD,0
+16213088,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RUSHING,T,Gregory,LONG,0
+16213089,11/5/2016,D-II,Brevard,Lenoir-Rhyne,PASSING,B,Craven,CP-ATT-INT,3-6-0
+16213090,11/5/2016,D-II,Brevard,Lenoir-Rhyne,PASSING,B,Craven,YDS,59
+16213091,11/5/2016,D-II,Brevard,Lenoir-Rhyne,PASSING,B,Craven,TD,0
+16213092,11/5/2016,D-II,Brevard,Lenoir-Rhyne,PASSING,B,Craven,LONG,41
+16213093,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RECEIVING,T,Lett,REC,1
+16213094,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RECEIVING,T,Lett,YDS,41
+16213095,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RECEIVING,T,Lett,TD,0
+16213096,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RECEIVING,T,Lett,LONG,41
+16213097,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RECEIVING,A,Drasser,REC,1
+16213098,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RECEIVING,A,Drasser,YDS,13
+16213099,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RECEIVING,A,Drasser,TD,0
+16213100,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RECEIVING,A,Drasser,LONG,13
+16213101,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RECEIVING,M,Henley,REC,1
+16213102,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RECEIVING,M,Henley,YDS,5
+16213103,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RECEIVING,M,Henley,TD,0
+16213104,11/5/2016,D-II,Brevard,Lenoir-Rhyne,RECEIVING,M,Henley,LONG,5
+16213105,11/5/2016,D-II,Brevard,Lenoir-Rhyne,PUNTING,K,Weber,NO,4
+16213106,11/5/2016,D-II,Brevard,Lenoir-Rhyne,PUNTING,K,Weber,YDS,159
+16213107,11/5/2016,D-II,Brevard,Lenoir-Rhyne,PUNTING,K,Weber,AVG,39.8
+16213108,11/5/2016,D-II,Brevard,Lenoir-Rhyne,PUNTING,K,Weber,LONG,44
+16213109,11/5/2016,D-II,Brevard,Lenoir-Rhyne,PUNT RETURNS,C,Shubert,NO,2
+16213110,11/5/2016,D-II,Brevard,Lenoir-Rhyne,PUNT RETURNS,C,Shubert,YDS,3
+16213111,11/5/2016,D-II,Brevard,Lenoir-Rhyne,PUNT RETURNS,C,Shubert,AVG,1.5
+16213112,11/5/2016,D-II,Brevard,Lenoir-Rhyne,PUNT RETURNS,C,Shubert,LONG,3
+16213113,11/5/2016,D-II,Brevard,Lenoir-Rhyne,KICK RETURNS,X,Brown,NO,2
+16213114,11/5/2016,D-II,Brevard,Lenoir-Rhyne,KICK RETURNS,X,Brown,YDS,27
+16213115,11/5/2016,D-II,Brevard,Lenoir-Rhyne,KICK RETURNS,X,Brown,AVG,13.5
+16213116,11/5/2016,D-II,Brevard,Lenoir-Rhyne,KICK RETURNS,X,Brown,LONG,14

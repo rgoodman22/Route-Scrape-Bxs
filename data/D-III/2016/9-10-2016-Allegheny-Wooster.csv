@@ -1,0 +1,125 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+23278001,9/10/2016,D-III,Allegheny,Wooster,RUSHING,Logan,Lee,ATT,20
+23278002,9/10/2016,D-III,Allegheny,Wooster,RUSHING,Logan,Lee,YDS,97
+23278003,9/10/2016,D-III,Allegheny,Wooster,RUSHING,Logan,Lee,TD,0
+23278004,9/10/2016,D-III,Allegheny,Wooster,RUSHING,Logan,Lee,LONG,53
+23278005,9/10/2016,D-III,Allegheny,Wooster,RUSHING,Tyler,Balla,ATT,18
+23278006,9/10/2016,D-III,Allegheny,Wooster,RUSHING,Tyler,Balla,YDS,60
+23278007,9/10/2016,D-III,Allegheny,Wooster,RUSHING,Tyler,Balla,TD,0
+23278008,9/10/2016,D-III,Allegheny,Wooster,RUSHING,Tyler,Balla,LONG,13
+23278009,9/10/2016,D-III,Allegheny,Wooster,RUSHING,Alex,Victor,ATT,8
+23278010,9/10/2016,D-III,Allegheny,Wooster,RUSHING,Alex,Victor,YDS,50
+23278011,9/10/2016,D-III,Allegheny,Wooster,RUSHING,Alex,Victor,TD,1
+23278012,9/10/2016,D-III,Allegheny,Wooster,RUSHING,Alex,Victor,LONG,12
+23278013,9/10/2016,D-III,Allegheny,Wooster,RUSHING,Brandon,Sellers,ATT,1
+23278014,9/10/2016,D-III,Allegheny,Wooster,RUSHING,Brandon,Sellers,YDS,-1
+23278015,9/10/2016,D-III,Allegheny,Wooster,RUSHING,Brandon,Sellers,TD,0
+23278016,9/10/2016,D-III,Allegheny,Wooster,RUSHING,Brandon,Sellers,LONG,0
+23278017,9/10/2016,D-III,Allegheny,Wooster,PASSING,Logan,Lee,CP-ATT-INT,18-37-1
+23278018,9/10/2016,D-III,Allegheny,Wooster,PASSING,Logan,Lee,YDS,252
+23278019,9/10/2016,D-III,Allegheny,Wooster,PASSING,Logan,Lee,TD,4
+23278020,9/10/2016,D-III,Allegheny,Wooster,PASSING,Logan,Lee,LONG,91
+23278021,9/10/2016,D-III,Allegheny,Wooster,RECEIVING,Alec,Hutchin,REC,3
+23278022,9/10/2016,D-III,Allegheny,Wooster,RECEIVING,Alec,Hutchin,YDS,113
+23278023,9/10/2016,D-III,Allegheny,Wooster,RECEIVING,Alec,Hutchin,TD,1
+23278024,9/10/2016,D-III,Allegheny,Wooster,RECEIVING,Alec,Hutchin,LONG,91
+23278025,9/10/2016,D-III,Allegheny,Wooster,RECEIVING,Alex,Victor,REC,8
+23278026,9/10/2016,D-III,Allegheny,Wooster,RECEIVING,Alex,Victor,YDS,83
+23278027,9/10/2016,D-III,Allegheny,Wooster,RECEIVING,Alex,Victor,TD,3
+23278028,9/10/2016,D-III,Allegheny,Wooster,RECEIVING,Alex,Victor,LONG,23
+23278029,9/10/2016,D-III,Allegheny,Wooster,RECEIVING,John,Mcfarland,REC,4
+23278030,9/10/2016,D-III,Allegheny,Wooster,RECEIVING,John,Mcfarland,YDS,33
+23278031,9/10/2016,D-III,Allegheny,Wooster,RECEIVING,John,Mcfarland,TD,0
+23278032,9/10/2016,D-III,Allegheny,Wooster,RECEIVING,John,Mcfarland,LONG,10
+23278033,9/10/2016,D-III,Allegheny,Wooster,RECEIVING,Ben,Bachik,REC,1
+23278034,9/10/2016,D-III,Allegheny,Wooster,RECEIVING,Ben,Bachik,YDS,15
+23278035,9/10/2016,D-III,Allegheny,Wooster,RECEIVING,Ben,Bachik,TD,0
+23278036,9/10/2016,D-III,Allegheny,Wooster,RECEIVING,Ben,Bachik,LONG,15
+23278037,9/10/2016,D-III,Allegheny,Wooster,RECEIVING,Tyler,Balla,REC,2
+23278038,9/10/2016,D-III,Allegheny,Wooster,RECEIVING,Tyler,Balla,YDS,8
+23278039,9/10/2016,D-III,Allegheny,Wooster,RECEIVING,Tyler,Balla,TD,0
+23278040,9/10/2016,D-III,Allegheny,Wooster,RECEIVING,Tyler,Balla,LONG,4
+23278041,9/10/2016,D-III,Allegheny,Wooster,PUNTING,,Team,NO,5
+23278042,9/10/2016,D-III,Allegheny,Wooster,PUNTING,,Team,YDS,194
+23278043,9/10/2016,D-III,Allegheny,Wooster,PUNTING,,Team,AVG,38.8
+23278044,9/10/2016,D-III,Allegheny,Wooster,PUNTING,,Team,LONG,45
+23278045,9/10/2016,D-III,Allegheny,Wooster,PUNT RETURNS,Alex,Victor,NO,1
+23278046,9/10/2016,D-III,Allegheny,Wooster,PUNT RETURNS,Alex,Victor,YDS,39
+23278047,9/10/2016,D-III,Allegheny,Wooster,PUNT RETURNS,Alex,Victor,AVG,39.0
+23278048,9/10/2016,D-III,Allegheny,Wooster,PUNT RETURNS,Alex,Victor,LONG,39
+23278049,9/10/2016,D-III,Allegheny,Wooster,KICK RETURNS,Jake,Wilson,NO,8
+23278050,9/10/2016,D-III,Allegheny,Wooster,KICK RETURNS,Jake,Wilson,YDS,209
+23278051,9/10/2016,D-III,Allegheny,Wooster,KICK RETURNS,Jake,Wilson,AVG,26.1
+23278052,9/10/2016,D-III,Allegheny,Wooster,KICK RETURNS,Jake,Wilson,LONG,43
+23278053,9/10/2016,D-III,Wooster,Allegheny,RUSHING,Antonio,Bailey,ATT,12
+23278054,9/10/2016,D-III,Wooster,Allegheny,RUSHING,Antonio,Bailey,YDS,57
+23278055,9/10/2016,D-III,Wooster,Allegheny,RUSHING,Antonio,Bailey,TD,2
+23278056,9/10/2016,D-III,Wooster,Allegheny,RUSHING,Antonio,Bailey,LONG,31
+23278057,9/10/2016,D-III,Wooster,Allegheny,RUSHING,Gary,Muntean,ATT,7
+23278058,9/10/2016,D-III,Wooster,Allegheny,RUSHING,Gary,Muntean,YDS,42
+23278059,9/10/2016,D-III,Wooster,Allegheny,RUSHING,Gary,Muntean,TD,1
+23278060,9/10/2016,D-III,Wooster,Allegheny,RUSHING,Gary,Muntean,LONG,19
+23278061,9/10/2016,D-III,Wooster,Allegheny,RUSHING,Brandon,Adams,ATT,12
+23278062,9/10/2016,D-III,Wooster,Allegheny,RUSHING,Brandon,Adams,YDS,41
+23278063,9/10/2016,D-III,Wooster,Allegheny,RUSHING,Brandon,Adams,TD,3
+23278064,9/10/2016,D-III,Wooster,Allegheny,RUSHING,Brandon,Adams,LONG,24
+23278065,9/10/2016,D-III,Wooster,Allegheny,RUSHING,,Team,ATT,1
+23278066,9/10/2016,D-III,Wooster,Allegheny,RUSHING,,Team,YDS,-1
+23278067,9/10/2016,D-III,Wooster,Allegheny,RUSHING,,Team,TD,0
+23278068,9/10/2016,D-III,Wooster,Allegheny,RUSHING,,Team,LONG,0
+23278069,9/10/2016,D-III,Wooster,Allegheny,RUSHING,Russell,Boston,ATT,1
+23278070,9/10/2016,D-III,Wooster,Allegheny,RUSHING,Russell,Boston,YDS,-7
+23278071,9/10/2016,D-III,Wooster,Allegheny,RUSHING,Russell,Boston,TD,0
+23278072,9/10/2016,D-III,Wooster,Allegheny,RUSHING,Russell,Boston,LONG,0
+23278073,9/10/2016,D-III,Wooster,Allegheny,PASSING,Gary,Muntean,CP-ATT-INT,29-40-0
+23278074,9/10/2016,D-III,Wooster,Allegheny,PASSING,Gary,Muntean,YDS,419
+23278075,9/10/2016,D-III,Wooster,Allegheny,PASSING,Gary,Muntean,TD,1
+23278076,9/10/2016,D-III,Wooster,Allegheny,PASSING,Gary,Muntean,LONG,39
+23278077,9/10/2016,D-III,Wooster,Allegheny,RECEIVING,Nick,Cummings,REC,4
+23278078,9/10/2016,D-III,Wooster,Allegheny,RECEIVING,Nick,Cummings,YDS,96
+23278079,9/10/2016,D-III,Wooster,Allegheny,RECEIVING,Nick,Cummings,TD,1
+23278080,9/10/2016,D-III,Wooster,Allegheny,RECEIVING,Nick,Cummings,LONG,36
+23278081,9/10/2016,D-III,Wooster,Allegheny,RECEIVING,Antonio,Bailey,REC,5
+23278082,9/10/2016,D-III,Wooster,Allegheny,RECEIVING,Antonio,Bailey,YDS,78
+23278083,9/10/2016,D-III,Wooster,Allegheny,RECEIVING,Antonio,Bailey,TD,0
+23278084,9/10/2016,D-III,Wooster,Allegheny,RECEIVING,Antonio,Bailey,LONG,39
+23278085,9/10/2016,D-III,Wooster,Allegheny,RECEIVING,C,Pinnock,REC,4
+23278086,9/10/2016,D-III,Wooster,Allegheny,RECEIVING,C,Pinnock,YDS,53
+23278087,9/10/2016,D-III,Wooster,Allegheny,RECEIVING,C,Pinnock,TD,0
+23278088,9/10/2016,D-III,Wooster,Allegheny,RECEIVING,C,Pinnock,LONG,21
+23278089,9/10/2016,D-III,Wooster,Allegheny,RECEIVING,Nate,Huwar,REC,7
+23278090,9/10/2016,D-III,Wooster,Allegheny,RECEIVING,Nate,Huwar,YDS,52
+23278091,9/10/2016,D-III,Wooster,Allegheny,RECEIVING,Nate,Huwar,TD,0
+23278092,9/10/2016,D-III,Wooster,Allegheny,RECEIVING,Nate,Huwar,LONG,17
+23278093,9/10/2016,D-III,Wooster,Allegheny,RECEIVING,C,Santos,REC,2
+23278094,9/10/2016,D-III,Wooster,Allegheny,RECEIVING,C,Santos,YDS,48
+23278095,9/10/2016,D-III,Wooster,Allegheny,RECEIVING,C,Santos,TD,0
+23278096,9/10/2016,D-III,Wooster,Allegheny,RECEIVING,C,Santos,LONG,26
+23278097,9/10/2016,D-III,Wooster,Allegheny,RECEIVING,Alex,Woods,REC,4
+23278098,9/10/2016,D-III,Wooster,Allegheny,RECEIVING,Alex,Woods,YDS,39
+23278099,9/10/2016,D-III,Wooster,Allegheny,RECEIVING,Alex,Woods,TD,0
+23278100,9/10/2016,D-III,Wooster,Allegheny,RECEIVING,Alex,Woods,LONG,12
+23278101,9/10/2016,D-III,Wooster,Allegheny,RECEIVING,Russell,Boston,REC,1
+23278102,9/10/2016,D-III,Wooster,Allegheny,RECEIVING,Russell,Boston,YDS,29
+23278103,9/10/2016,D-III,Wooster,Allegheny,RECEIVING,Russell,Boston,TD,0
+23278104,9/10/2016,D-III,Wooster,Allegheny,RECEIVING,Russell,Boston,LONG,29
+23278105,9/10/2016,D-III,Wooster,Allegheny,RECEIVING,Brandon,Adams,REC,2
+23278106,9/10/2016,D-III,Wooster,Allegheny,RECEIVING,Brandon,Adams,YDS,24
+23278107,9/10/2016,D-III,Wooster,Allegheny,RECEIVING,Brandon,Adams,TD,0
+23278108,9/10/2016,D-III,Wooster,Allegheny,RECEIVING,Brandon,Adams,LONG,23
+23278109,9/10/2016,D-III,Wooster,Allegheny,PUNTING,Lane,Dailey,NO,6
+23278110,9/10/2016,D-III,Wooster,Allegheny,PUNTING,Lane,Dailey,YDS,192
+23278111,9/10/2016,D-III,Wooster,Allegheny,PUNTING,Lane,Dailey,AVG,32.0
+23278112,9/10/2016,D-III,Wooster,Allegheny,PUNTING,Lane,Dailey,LONG,41
+23278113,9/10/2016,D-III,Wooster,Allegheny,PUNT RETURNS,Alex,Woods,NO,1
+23278114,9/10/2016,D-III,Wooster,Allegheny,PUNT RETURNS,Alex,Woods,YDS,17
+23278115,9/10/2016,D-III,Wooster,Allegheny,PUNT RETURNS,Alex,Woods,AVG,17.0
+23278116,9/10/2016,D-III,Wooster,Allegheny,PUNT RETURNS,Alex,Woods,LONG,17
+23278117,9/10/2016,D-III,Wooster,Allegheny,KICK RETURNS,Alex,Woods,NO,6
+23278118,9/10/2016,D-III,Wooster,Allegheny,KICK RETURNS,Alex,Woods,YDS,120
+23278119,9/10/2016,D-III,Wooster,Allegheny,KICK RETURNS,Alex,Woods,AVG,20.0
+23278120,9/10/2016,D-III,Wooster,Allegheny,KICK RETURNS,Alex,Woods,LONG,22
+23278121,9/10/2016,D-III,Wooster,Allegheny,KICK RETURNS,Kc,Okoronkwo,NO,1
+23278122,9/10/2016,D-III,Wooster,Allegheny,KICK RETURNS,Kc,Okoronkwo,YDS,11
+23278123,9/10/2016,D-III,Wooster,Allegheny,KICK RETURNS,Kc,Okoronkwo,AVG,11.0
+23278124,9/10/2016,D-III,Wooster,Allegheny,KICK RETURNS,Kc,Okoronkwo,LONG,11

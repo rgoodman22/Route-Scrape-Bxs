@@ -1,0 +1,109 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+25323001,10/28/2017,D-III,Dubuque,Wartburg,RUSHING,Maurece,Herrion,ATT,32
+25323002,10/28/2017,D-III,Dubuque,Wartburg,RUSHING,Maurece,Herrion,YDS,73
+25323003,10/28/2017,D-III,Dubuque,Wartburg,RUSHING,Maurece,Herrion,TD,0
+25323004,10/28/2017,D-III,Dubuque,Wartburg,RUSHING,Maurece,Herrion,LONG,11
+25323005,10/28/2017,D-III,Dubuque,Wartburg,RUSHING,Tyson,Russell,ATT,5
+25323006,10/28/2017,D-III,Dubuque,Wartburg,RUSHING,Tyson,Russell,YDS,15
+25323007,10/28/2017,D-III,Dubuque,Wartburg,RUSHING,Tyson,Russell,TD,0
+25323008,10/28/2017,D-III,Dubuque,Wartburg,RUSHING,Tyson,Russell,LONG,6
+25323009,10/28/2017,D-III,Dubuque,Wartburg,RUSHING,Conor,Feckley,ATT,1
+25323010,10/28/2017,D-III,Dubuque,Wartburg,RUSHING,Conor,Feckley,YDS,0
+25323011,10/28/2017,D-III,Dubuque,Wartburg,RUSHING,Conor,Feckley,TD,0
+25323012,10/28/2017,D-III,Dubuque,Wartburg,RUSHING,Conor,Feckley,LONG,0
+25323013,10/28/2017,D-III,Dubuque,Wartburg,PASSING,Conor,Feckley,CP-ATT-INT,7-14-0
+25323014,10/28/2017,D-III,Dubuque,Wartburg,PASSING,Conor,Feckley,YDS,53
+25323015,10/28/2017,D-III,Dubuque,Wartburg,PASSING,Conor,Feckley,TD,0
+25323016,10/28/2017,D-III,Dubuque,Wartburg,PASSING,Conor,Feckley,LONG,18
+25323017,10/28/2017,D-III,Dubuque,Wartburg,PASSING,Michael,Briscoe,CP-ATT-INT,3-11-0
+25323018,10/28/2017,D-III,Dubuque,Wartburg,PASSING,Michael,Briscoe,YDS,49
+25323019,10/28/2017,D-III,Dubuque,Wartburg,PASSING,Michael,Briscoe,TD,0
+25323020,10/28/2017,D-III,Dubuque,Wartburg,PASSING,Michael,Briscoe,LONG,32
+25323021,10/28/2017,D-III,Dubuque,Wartburg,RECEIVING,Emanuel,Jenkins,REC,3
+25323022,10/28/2017,D-III,Dubuque,Wartburg,RECEIVING,Emanuel,Jenkins,YDS,45
+25323023,10/28/2017,D-III,Dubuque,Wartburg,RECEIVING,Emanuel,Jenkins,TD,0
+25323024,10/28/2017,D-III,Dubuque,Wartburg,RECEIVING,Emanuel,Jenkins,LONG,32
+25323025,10/28/2017,D-III,Dubuque,Wartburg,RECEIVING,Dylan,Schultz,REC,4
+25323026,10/28/2017,D-III,Dubuque,Wartburg,RECEIVING,Dylan,Schultz,YDS,32
+25323027,10/28/2017,D-III,Dubuque,Wartburg,RECEIVING,Dylan,Schultz,TD,0
+25323028,10/28/2017,D-III,Dubuque,Wartburg,RECEIVING,Dylan,Schultz,LONG,18
+25323029,10/28/2017,D-III,Dubuque,Wartburg,RECEIVING,Sam,Morton,REC,2
+25323030,10/28/2017,D-III,Dubuque,Wartburg,RECEIVING,Sam,Morton,YDS,17
+25323031,10/28/2017,D-III,Dubuque,Wartburg,RECEIVING,Sam,Morton,TD,0
+25323032,10/28/2017,D-III,Dubuque,Wartburg,RECEIVING,Sam,Morton,LONG,12
+25323033,10/28/2017,D-III,Dubuque,Wartburg,RECEIVING,Michael,Briscoe,REC,1
+25323034,10/28/2017,D-III,Dubuque,Wartburg,RECEIVING,Michael,Briscoe,YDS,8
+25323035,10/28/2017,D-III,Dubuque,Wartburg,RECEIVING,Michael,Briscoe,TD,0
+25323036,10/28/2017,D-III,Dubuque,Wartburg,RECEIVING,Michael,Briscoe,LONG,8
+25323037,10/28/2017,D-III,Dubuque,Wartburg,PUNTING,Jackson,Lage,NO,8
+25323038,10/28/2017,D-III,Dubuque,Wartburg,PUNTING,Jackson,Lage,YDS,201
+25323039,10/28/2017,D-III,Dubuque,Wartburg,PUNTING,Jackson,Lage,AVG,25.1
+25323040,10/28/2017,D-III,Dubuque,Wartburg,PUNTING,Jackson,Lage,LONG,39
+25323041,10/28/2017,D-III,Dubuque,Wartburg,KICK RETURNS,Dylan,Schultz,NO,1
+25323042,10/28/2017,D-III,Dubuque,Wartburg,KICK RETURNS,Dylan,Schultz,YDS,5
+25323043,10/28/2017,D-III,Dubuque,Wartburg,KICK RETURNS,Dylan,Schultz,AVG,5.0
+25323044,10/28/2017,D-III,Dubuque,Wartburg,KICK RETURNS,Dylan,Schultz,LONG,5
+25323045,10/28/2017,D-III,Dubuque,Wartburg,KICK RETURNS,Kody,Riemer,NO,4
+25323046,10/28/2017,D-III,Dubuque,Wartburg,KICK RETURNS,Kody,Riemer,YDS,62
+25323047,10/28/2017,D-III,Dubuque,Wartburg,KICK RETURNS,Kody,Riemer,AVG,15.5
+25323048,10/28/2017,D-III,Dubuque,Wartburg,KICK RETURNS,Kody,Riemer,LONG,21
+25323049,10/28/2017,D-III,Wartburg,Dubuque,RUSHING,Dylan,Binion,ATT,25
+25323050,10/28/2017,D-III,Wartburg,Dubuque,RUSHING,Dylan,Binion,YDS,187
+25323051,10/28/2017,D-III,Wartburg,Dubuque,RUSHING,Dylan,Binion,TD,1
+25323052,10/28/2017,D-III,Wartburg,Dubuque,RUSHING,Dylan,Binion,LONG,31
+25323053,10/28/2017,D-III,Wartburg,Dubuque,RUSHING,Connor,Schrader,ATT,7
+25323054,10/28/2017,D-III,Wartburg,Dubuque,RUSHING,Connor,Schrader,YDS,25
+25323055,10/28/2017,D-III,Wartburg,Dubuque,RUSHING,Connor,Schrader,TD,0
+25323056,10/28/2017,D-III,Wartburg,Dubuque,RUSHING,Connor,Schrader,LONG,5
+25323057,10/28/2017,D-III,Wartburg,Dubuque,RUSHING,Matt,Sacia,ATT,7
+25323058,10/28/2017,D-III,Wartburg,Dubuque,RUSHING,Matt,Sacia,YDS,10
+25323059,10/28/2017,D-III,Wartburg,Dubuque,RUSHING,Matt,Sacia,TD,0
+25323060,10/28/2017,D-III,Wartburg,Dubuque,RUSHING,Matt,Sacia,LONG,6
+25323061,10/28/2017,D-III,Wartburg,Dubuque,RUSHING,,Team,ATT,1
+25323062,10/28/2017,D-III,Wartburg,Dubuque,RUSHING,,Team,YDS,-1
+25323063,10/28/2017,D-III,Wartburg,Dubuque,RUSHING,,Team,TD,0
+25323064,10/28/2017,D-III,Wartburg,Dubuque,RUSHING,,Team,LONG,0
+25323065,10/28/2017,D-III,Wartburg,Dubuque,PASSING,Matt,Sacia,CP-ATT-INT,12-26-1
+25323066,10/28/2017,D-III,Wartburg,Dubuque,PASSING,Matt,Sacia,YDS,157
+25323067,10/28/2017,D-III,Wartburg,Dubuque,PASSING,Matt,Sacia,TD,1
+25323068,10/28/2017,D-III,Wartburg,Dubuque,PASSING,Matt,Sacia,LONG,34
+25323069,10/28/2017,D-III,Wartburg,Dubuque,RECEIVING,Riley,Brockway,REC,5
+25323070,10/28/2017,D-III,Wartburg,Dubuque,RECEIVING,Riley,Brockway,YDS,50
+25323071,10/28/2017,D-III,Wartburg,Dubuque,RECEIVING,Riley,Brockway,TD,0
+25323072,10/28/2017,D-III,Wartburg,Dubuque,RECEIVING,Riley,Brockway,LONG,18
+25323073,10/28/2017,D-III,Wartburg,Dubuque,RECEIVING,G,Brennecke,REC,1
+25323074,10/28/2017,D-III,Wartburg,Dubuque,RECEIVING,G,Brennecke,YDS,34
+25323075,10/28/2017,D-III,Wartburg,Dubuque,RECEIVING,G,Brennecke,TD,0
+25323076,10/28/2017,D-III,Wartburg,Dubuque,RECEIVING,G,Brennecke,LONG,34
+25323077,10/28/2017,D-III,Wartburg,Dubuque,RECEIVING,D,Harrington,REC,2
+25323078,10/28/2017,D-III,Wartburg,Dubuque,RECEIVING,D,Harrington,YDS,26
+25323079,10/28/2017,D-III,Wartburg,Dubuque,RECEIVING,D,Harrington,TD,0
+25323080,10/28/2017,D-III,Wartburg,Dubuque,RECEIVING,D,Harrington,LONG,16
+25323081,10/28/2017,D-III,Wartburg,Dubuque,RECEIVING,Matt,Mulford,REC,1
+25323082,10/28/2017,D-III,Wartburg,Dubuque,RECEIVING,Matt,Mulford,YDS,19
+25323083,10/28/2017,D-III,Wartburg,Dubuque,RECEIVING,Matt,Mulford,TD,1
+25323084,10/28/2017,D-III,Wartburg,Dubuque,RECEIVING,Matt,Mulford,LONG,19
+25323085,10/28/2017,D-III,Wartburg,Dubuque,RECEIVING,Dylan,Binion,REC,1
+25323086,10/28/2017,D-III,Wartburg,Dubuque,RECEIVING,Dylan,Binion,YDS,17
+25323087,10/28/2017,D-III,Wartburg,Dubuque,RECEIVING,Dylan,Binion,TD,0
+25323088,10/28/2017,D-III,Wartburg,Dubuque,RECEIVING,Dylan,Binion,LONG,17
+25323089,10/28/2017,D-III,Wartburg,Dubuque,RECEIVING,S,Hofmeiester,REC,1
+25323090,10/28/2017,D-III,Wartburg,Dubuque,RECEIVING,S,Hofmeiester,YDS,9
+25323091,10/28/2017,D-III,Wartburg,Dubuque,RECEIVING,S,Hofmeiester,TD,0
+25323092,10/28/2017,D-III,Wartburg,Dubuque,RECEIVING,S,Hofmeiester,LONG,9
+25323093,10/28/2017,D-III,Wartburg,Dubuque,RECEIVING,Clayton,Weltha,REC,1
+25323094,10/28/2017,D-III,Wartburg,Dubuque,RECEIVING,Clayton,Weltha,YDS,2
+25323095,10/28/2017,D-III,Wartburg,Dubuque,RECEIVING,Clayton,Weltha,TD,0
+25323096,10/28/2017,D-III,Wartburg,Dubuque,RECEIVING,Clayton,Weltha,LONG,2
+25323097,10/28/2017,D-III,Wartburg,Dubuque,PUNTING,Jake,Pisarik,NO,4
+25323098,10/28/2017,D-III,Wartburg,Dubuque,PUNTING,Jake,Pisarik,YDS,127
+25323099,10/28/2017,D-III,Wartburg,Dubuque,PUNTING,Jake,Pisarik,AVG,31.8
+25323100,10/28/2017,D-III,Wartburg,Dubuque,PUNTING,Jake,Pisarik,LONG,36
+25323101,10/28/2017,D-III,Wartburg,Dubuque,PUNT RETURNS,Riley,Brockway,NO,1
+25323102,10/28/2017,D-III,Wartburg,Dubuque,PUNT RETURNS,Riley,Brockway,YDS,4
+25323103,10/28/2017,D-III,Wartburg,Dubuque,PUNT RETURNS,Riley,Brockway,AVG,4.0
+25323104,10/28/2017,D-III,Wartburg,Dubuque,PUNT RETURNS,Riley,Brockway,LONG,4
+25323105,10/28/2017,D-III,Wartburg,Dubuque,KICK RETURNS,Jojo,Mcnair,NO,1
+25323106,10/28/2017,D-III,Wartburg,Dubuque,KICK RETURNS,Jojo,Mcnair,YDS,23
+25323107,10/28/2017,D-III,Wartburg,Dubuque,KICK RETURNS,Jojo,Mcnair,AVG,23.0
+25323108,10/28/2017,D-III,Wartburg,Dubuque,KICK RETURNS,Jojo,Mcnair,LONG,23

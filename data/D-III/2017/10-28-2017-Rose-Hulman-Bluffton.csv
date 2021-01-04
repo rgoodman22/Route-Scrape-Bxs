@@ -1,0 +1,141 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+25262001,10/28/2017,D-III,Rose-Hulman,Bluffton,RUSHING,Garrett,Wight,ATT,33
+25262002,10/28/2017,D-III,Rose-Hulman,Bluffton,RUSHING,Garrett,Wight,YDS,156
+25262003,10/28/2017,D-III,Rose-Hulman,Bluffton,RUSHING,Garrett,Wight,TD,2
+25262004,10/28/2017,D-III,Rose-Hulman,Bluffton,RUSHING,Garrett,Wight,LONG,58
+25262005,10/28/2017,D-III,Rose-Hulman,Bluffton,RUSHING,Andrew,Dion,ATT,9
+25262006,10/28/2017,D-III,Rose-Hulman,Bluffton,RUSHING,Andrew,Dion,YDS,8
+25262007,10/28/2017,D-III,Rose-Hulman,Bluffton,RUSHING,Andrew,Dion,TD,1
+25262008,10/28/2017,D-III,Rose-Hulman,Bluffton,RUSHING,Andrew,Dion,LONG,6
+25262009,10/28/2017,D-III,Rose-Hulman,Bluffton,RUSHING,K,Dufauchard,ATT,2
+25262010,10/28/2017,D-III,Rose-Hulman,Bluffton,RUSHING,K,Dufauchard,YDS,8
+25262011,10/28/2017,D-III,Rose-Hulman,Bluffton,RUSHING,K,Dufauchard,TD,0
+25262012,10/28/2017,D-III,Rose-Hulman,Bluffton,RUSHING,K,Dufauchard,LONG,4
+25262013,10/28/2017,D-III,Rose-Hulman,Bluffton,RUSHING,Seth,Knoll,ATT,2
+25262014,10/28/2017,D-III,Rose-Hulman,Bluffton,RUSHING,Seth,Knoll,YDS,5
+25262015,10/28/2017,D-III,Rose-Hulman,Bluffton,RUSHING,Seth,Knoll,TD,0
+25262016,10/28/2017,D-III,Rose-Hulman,Bluffton,RUSHING,Seth,Knoll,LONG,3
+25262017,10/28/2017,D-III,Rose-Hulman,Bluffton,RUSHING,Noah,Thomas,ATT,1
+25262018,10/28/2017,D-III,Rose-Hulman,Bluffton,RUSHING,Noah,Thomas,YDS,3
+25262019,10/28/2017,D-III,Rose-Hulman,Bluffton,RUSHING,Noah,Thomas,TD,0
+25262020,10/28/2017,D-III,Rose-Hulman,Bluffton,RUSHING,Noah,Thomas,LONG,3
+25262021,10/28/2017,D-III,Rose-Hulman,Bluffton,RUSHING,,Team,ATT,2
+25262022,10/28/2017,D-III,Rose-Hulman,Bluffton,RUSHING,,Team,YDS,-3
+25262023,10/28/2017,D-III,Rose-Hulman,Bluffton,RUSHING,,Team,TD,0
+25262024,10/28/2017,D-III,Rose-Hulman,Bluffton,RUSHING,,Team,LONG,0
+25262025,10/28/2017,D-III,Rose-Hulman,Bluffton,PASSING,Andrew,Dion,CP-ATT-INT,15-31-2
+25262026,10/28/2017,D-III,Rose-Hulman,Bluffton,PASSING,Andrew,Dion,YDS,224
+25262027,10/28/2017,D-III,Rose-Hulman,Bluffton,PASSING,Andrew,Dion,TD,1
+25262028,10/28/2017,D-III,Rose-Hulman,Bluffton,PASSING,Andrew,Dion,LONG,48
+25262029,10/28/2017,D-III,Rose-Hulman,Bluffton,RECEIVING,R,Burtnick,REC,4
+25262030,10/28/2017,D-III,Rose-Hulman,Bluffton,RECEIVING,R,Burtnick,YDS,63
+25262031,10/28/2017,D-III,Rose-Hulman,Bluffton,RECEIVING,R,Burtnick,TD,0
+25262032,10/28/2017,D-III,Rose-Hulman,Bluffton,RECEIVING,R,Burtnick,LONG,36
+25262033,10/28/2017,D-III,Rose-Hulman,Bluffton,RECEIVING,Garrett,Wight,REC,2
+25262034,10/28/2017,D-III,Rose-Hulman,Bluffton,RECEIVING,Garrett,Wight,YDS,61
+25262035,10/28/2017,D-III,Rose-Hulman,Bluffton,RECEIVING,Garrett,Wight,TD,0
+25262036,10/28/2017,D-III,Rose-Hulman,Bluffton,RECEIVING,Garrett,Wight,LONG,48
+25262037,10/28/2017,D-III,Rose-Hulman,Bluffton,RECEIVING,Zack,Murphy,REC,5
+25262038,10/28/2017,D-III,Rose-Hulman,Bluffton,RECEIVING,Zack,Murphy,YDS,56
+25262039,10/28/2017,D-III,Rose-Hulman,Bluffton,RECEIVING,Zack,Murphy,TD,1
+25262040,10/28/2017,D-III,Rose-Hulman,Bluffton,RECEIVING,Zack,Murphy,LONG,29
+25262041,10/28/2017,D-III,Rose-Hulman,Bluffton,RECEIVING,K,Dufauchard,REC,4
+25262042,10/28/2017,D-III,Rose-Hulman,Bluffton,RECEIVING,K,Dufauchard,YDS,44
+25262043,10/28/2017,D-III,Rose-Hulman,Bluffton,RECEIVING,K,Dufauchard,TD,0
+25262044,10/28/2017,D-III,Rose-Hulman,Bluffton,RECEIVING,K,Dufauchard,LONG,26
+25262045,10/28/2017,D-III,Rose-Hulman,Bluffton,PUNTING,Matt,Murray,NO,3
+25262046,10/28/2017,D-III,Rose-Hulman,Bluffton,PUNTING,Matt,Murray,YDS,115
+25262047,10/28/2017,D-III,Rose-Hulman,Bluffton,PUNTING,Matt,Murray,AVG,38.3
+25262048,10/28/2017,D-III,Rose-Hulman,Bluffton,PUNTING,Matt,Murray,LONG,48
+25262049,10/28/2017,D-III,Rose-Hulman,Bluffton,PUNT RETURNS,Alec,Thompson,NO,0
+25262050,10/28/2017,D-III,Rose-Hulman,Bluffton,PUNT RETURNS,Alec,Thompson,YDS,10
+25262051,10/28/2017,D-III,Rose-Hulman,Bluffton,PUNT RETURNS,Alec,Thompson,AVG,-
+25262052,10/28/2017,D-III,Rose-Hulman,Bluffton,PUNT RETURNS,Alec,Thompson,LONG,10
+25262053,10/28/2017,D-III,Rose-Hulman,Bluffton,PUNT RETURNS,Tyler,Brutofsky,NO,1
+25262054,10/28/2017,D-III,Rose-Hulman,Bluffton,PUNT RETURNS,Tyler,Brutofsky,YDS,0
+25262055,10/28/2017,D-III,Rose-Hulman,Bluffton,PUNT RETURNS,Tyler,Brutofsky,AVG,0.0
+25262056,10/28/2017,D-III,Rose-Hulman,Bluffton,PUNT RETURNS,Tyler,Brutofsky,LONG,0
+25262057,10/28/2017,D-III,Rose-Hulman,Bluffton,PUNT RETURNS,Cam,Hart,NO,1
+25262058,10/28/2017,D-III,Rose-Hulman,Bluffton,PUNT RETURNS,Cam,Hart,YDS,11
+25262059,10/28/2017,D-III,Rose-Hulman,Bluffton,PUNT RETURNS,Cam,Hart,AVG,11.0
+25262060,10/28/2017,D-III,Rose-Hulman,Bluffton,PUNT RETURNS,Cam,Hart,LONG,0
+25262061,10/28/2017,D-III,Rose-Hulman,Bluffton,PUNT RETURNS,Kaelen,Garner,NO,1
+25262062,10/28/2017,D-III,Rose-Hulman,Bluffton,PUNT RETURNS,Kaelen,Garner,YDS,20
+25262063,10/28/2017,D-III,Rose-Hulman,Bluffton,PUNT RETURNS,Kaelen,Garner,AVG,20.0
+25262064,10/28/2017,D-III,Rose-Hulman,Bluffton,PUNT RETURNS,Kaelen,Garner,LONG,0
+25262065,10/28/2017,D-III,Rose-Hulman,Bluffton,KICK RETURNS,Alec,Thompson,NO,1
+25262066,10/28/2017,D-III,Rose-Hulman,Bluffton,KICK RETURNS,Alec,Thompson,YDS,23
+25262067,10/28/2017,D-III,Rose-Hulman,Bluffton,KICK RETURNS,Alec,Thompson,AVG,23.0
+25262068,10/28/2017,D-III,Rose-Hulman,Bluffton,KICK RETURNS,Alec,Thompson,LONG,23
+25262069,10/28/2017,D-III,Rose-Hulman,Bluffton,KICK RETURNS,Seth,Knoll,NO,1
+25262070,10/28/2017,D-III,Rose-Hulman,Bluffton,KICK RETURNS,Seth,Knoll,YDS,0
+25262071,10/28/2017,D-III,Rose-Hulman,Bluffton,KICK RETURNS,Seth,Knoll,AVG,0.0
+25262072,10/28/2017,D-III,Rose-Hulman,Bluffton,KICK RETURNS,Seth,Knoll,LONG,0
+25262073,10/28/2017,D-III,Rose-Hulman,Bluffton,KICK RETURNS,Devin,Williams,NO,1
+25262074,10/28/2017,D-III,Rose-Hulman,Bluffton,KICK RETURNS,Devin,Williams,YDS,0
+25262075,10/28/2017,D-III,Rose-Hulman,Bluffton,KICK RETURNS,Devin,Williams,AVG,0.0
+25262076,10/28/2017,D-III,Rose-Hulman,Bluffton,KICK RETURNS,Devin,Williams,LONG,0
+25262077,10/28/2017,D-III,Bluffton,Rose-Hulman,RUSHING,Darian,Greeley,ATT,28
+25262078,10/28/2017,D-III,Bluffton,Rose-Hulman,RUSHING,Darian,Greeley,YDS,121
+25262079,10/28/2017,D-III,Bluffton,Rose-Hulman,RUSHING,Darian,Greeley,TD,2
+25262080,10/28/2017,D-III,Bluffton,Rose-Hulman,RUSHING,Darian,Greeley,LONG,18
+25262081,10/28/2017,D-III,Bluffton,Rose-Hulman,RUSHING,Brandon,Koch,ATT,1
+25262082,10/28/2017,D-III,Bluffton,Rose-Hulman,RUSHING,Brandon,Koch,YDS,8
+25262083,10/28/2017,D-III,Bluffton,Rose-Hulman,RUSHING,Brandon,Koch,TD,0
+25262084,10/28/2017,D-III,Bluffton,Rose-Hulman,RUSHING,Brandon,Koch,LONG,8
+25262085,10/28/2017,D-III,Bluffton,Rose-Hulman,RUSHING,Plummie,Gardner,ATT,4
+25262086,10/28/2017,D-III,Bluffton,Rose-Hulman,RUSHING,Plummie,Gardner,YDS,1
+25262087,10/28/2017,D-III,Bluffton,Rose-Hulman,RUSHING,Plummie,Gardner,TD,0
+25262088,10/28/2017,D-III,Bluffton,Rose-Hulman,RUSHING,Plummie,Gardner,LONG,11
+25262089,10/28/2017,D-III,Bluffton,Rose-Hulman,RUSHING,,Team,ATT,1
+25262090,10/28/2017,D-III,Bluffton,Rose-Hulman,RUSHING,,Team,YDS,-1
+25262091,10/28/2017,D-III,Bluffton,Rose-Hulman,RUSHING,,Team,TD,0
+25262092,10/28/2017,D-III,Bluffton,Rose-Hulman,RUSHING,,Team,LONG,0
+25262093,10/28/2017,D-III,Bluffton,Rose-Hulman,PASSING,Brandon,Koch,CP-ATT-INT,17-44-0
+25262094,10/28/2017,D-III,Bluffton,Rose-Hulman,PASSING,Brandon,Koch,YDS,197
+25262095,10/28/2017,D-III,Bluffton,Rose-Hulman,PASSING,Brandon,Koch,TD,1
+25262096,10/28/2017,D-III,Bluffton,Rose-Hulman,PASSING,Brandon,Koch,LONG,23
+25262097,10/28/2017,D-III,Bluffton,Rose-Hulman,PASSING,Plummie,Gardner,CP-ATT-INT,0-0-0
+25262098,10/28/2017,D-III,Bluffton,Rose-Hulman,PASSING,Plummie,Gardner,YDS,0
+25262099,10/28/2017,D-III,Bluffton,Rose-Hulman,PASSING,Plummie,Gardner,TD,0
+25262100,10/28/2017,D-III,Bluffton,Rose-Hulman,PASSING,Plummie,Gardner,LONG,0
+25262101,10/28/2017,D-III,Bluffton,Rose-Hulman,RECEIVING,Micah,Roberson,REC,4
+25262102,10/28/2017,D-III,Bluffton,Rose-Hulman,RECEIVING,Micah,Roberson,YDS,63
+25262103,10/28/2017,D-III,Bluffton,Rose-Hulman,RECEIVING,Micah,Roberson,TD,1
+25262104,10/28/2017,D-III,Bluffton,Rose-Hulman,RECEIVING,Micah,Roberson,LONG,23
+25262105,10/28/2017,D-III,Bluffton,Rose-Hulman,RECEIVING,Darian,Greeley,REC,3
+25262106,10/28/2017,D-III,Bluffton,Rose-Hulman,RECEIVING,Darian,Greeley,YDS,39
+25262107,10/28/2017,D-III,Bluffton,Rose-Hulman,RECEIVING,Darian,Greeley,TD,0
+25262108,10/28/2017,D-III,Bluffton,Rose-Hulman,RECEIVING,Darian,Greeley,LONG,20
+25262109,10/28/2017,D-III,Bluffton,Rose-Hulman,RECEIVING,Keyon,Camden,REC,4
+25262110,10/28/2017,D-III,Bluffton,Rose-Hulman,RECEIVING,Keyon,Camden,YDS,34
+25262111,10/28/2017,D-III,Bluffton,Rose-Hulman,RECEIVING,Keyon,Camden,TD,0
+25262112,10/28/2017,D-III,Bluffton,Rose-Hulman,RECEIVING,Keyon,Camden,LONG,12
+25262113,10/28/2017,D-III,Bluffton,Rose-Hulman,RECEIVING,Thad,Phillips,REC,3
+25262114,10/28/2017,D-III,Bluffton,Rose-Hulman,RECEIVING,Thad,Phillips,YDS,33
+25262115,10/28/2017,D-III,Bluffton,Rose-Hulman,RECEIVING,Thad,Phillips,TD,0
+25262116,10/28/2017,D-III,Bluffton,Rose-Hulman,RECEIVING,Thad,Phillips,LONG,14
+25262117,10/28/2017,D-III,Bluffton,Rose-Hulman,RECEIVING,Adam,Duncan,REC,2
+25262118,10/28/2017,D-III,Bluffton,Rose-Hulman,RECEIVING,Adam,Duncan,YDS,16
+25262119,10/28/2017,D-III,Bluffton,Rose-Hulman,RECEIVING,Adam,Duncan,TD,0
+25262120,10/28/2017,D-III,Bluffton,Rose-Hulman,RECEIVING,Adam,Duncan,LONG,15
+25262121,10/28/2017,D-III,Bluffton,Rose-Hulman,RECEIVING,Hunter,Morrison,REC,1
+25262122,10/28/2017,D-III,Bluffton,Rose-Hulman,RECEIVING,Hunter,Morrison,YDS,12
+25262123,10/28/2017,D-III,Bluffton,Rose-Hulman,RECEIVING,Hunter,Morrison,TD,0
+25262124,10/28/2017,D-III,Bluffton,Rose-Hulman,RECEIVING,Hunter,Morrison,LONG,12
+25262125,10/28/2017,D-III,Bluffton,Rose-Hulman,PUNTING,Jordan,Watkins,NO,5
+25262126,10/28/2017,D-III,Bluffton,Rose-Hulman,PUNTING,Jordan,Watkins,YDS,169
+25262127,10/28/2017,D-III,Bluffton,Rose-Hulman,PUNTING,Jordan,Watkins,AVG,33.8
+25262128,10/28/2017,D-III,Bluffton,Rose-Hulman,PUNTING,Jordan,Watkins,LONG,39
+25262129,10/28/2017,D-III,Bluffton,Rose-Hulman,PUNTING,,Team,NO,2
+25262130,10/28/2017,D-III,Bluffton,Rose-Hulman,PUNTING,,Team,YDS,0
+25262131,10/28/2017,D-III,Bluffton,Rose-Hulman,PUNTING,,Team,AVG,0.0
+25262132,10/28/2017,D-III,Bluffton,Rose-Hulman,PUNTING,,Team,LONG,0
+25262133,10/28/2017,D-III,Bluffton,Rose-Hulman,KICK RETURNS,Drake,Campbell,NO,2
+25262134,10/28/2017,D-III,Bluffton,Rose-Hulman,KICK RETURNS,Drake,Campbell,YDS,31
+25262135,10/28/2017,D-III,Bluffton,Rose-Hulman,KICK RETURNS,Drake,Campbell,AVG,15.5
+25262136,10/28/2017,D-III,Bluffton,Rose-Hulman,KICK RETURNS,Drake,Campbell,LONG,19
+25262137,10/28/2017,D-III,Bluffton,Rose-Hulman,KICK RETURNS,Tony,sykesJr,NO,3
+25262138,10/28/2017,D-III,Bluffton,Rose-Hulman,KICK RETURNS,Tony,sykesJr,YDS,41
+25262139,10/28/2017,D-III,Bluffton,Rose-Hulman,KICK RETURNS,Tony,sykesJr,AVG,13.7
+25262140,10/28/2017,D-III,Bluffton,Rose-Hulman,KICK RETURNS,Tony,sykesJr,LONG,21

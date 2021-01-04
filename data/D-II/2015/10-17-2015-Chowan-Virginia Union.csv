@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+15010001,10/17/2015,D-II,Chowan,Virginia Union,RUSHING,T,Lee,ATT,20
+15010002,10/17/2015,D-II,Chowan,Virginia Union,RUSHING,T,Lee,YDS,87
+15010003,10/17/2015,D-II,Chowan,Virginia Union,RUSHING,T,Lee,TD,1
+15010004,10/17/2015,D-II,Chowan,Virginia Union,RUSHING,T,Lee,LONG,35
+15010005,10/17/2015,D-II,Chowan,Virginia Union,RUSHING,M,Hampton,ATT,1
+15010006,10/17/2015,D-II,Chowan,Virginia Union,RUSHING,M,Hampton,YDS,2
+15010007,10/17/2015,D-II,Chowan,Virginia Union,RUSHING,M,Hampton,TD,0
+15010008,10/17/2015,D-II,Chowan,Virginia Union,RUSHING,M,Hampton,LONG,2
+15010009,10/17/2015,D-II,Chowan,Virginia Union,RUSHING,A,Prince,ATT,1
+15010010,10/17/2015,D-II,Chowan,Virginia Union,RUSHING,A,Prince,YDS,1
+15010011,10/17/2015,D-II,Chowan,Virginia Union,RUSHING,A,Prince,TD,0
+15010012,10/17/2015,D-II,Chowan,Virginia Union,RUSHING,A,Prince,LONG,1
+15010013,10/17/2015,D-II,Chowan,Virginia Union,RUSHING,A,Elliott,ATT,2
+15010014,10/17/2015,D-II,Chowan,Virginia Union,RUSHING,A,Elliott,YDS,-5
+15010015,10/17/2015,D-II,Chowan,Virginia Union,RUSHING,A,Elliott,TD,0
+15010016,10/17/2015,D-II,Chowan,Virginia Union,RUSHING,A,Elliott,LONG,0
+15010017,10/17/2015,D-II,Chowan,Virginia Union,RUSHING,R,Dixon,ATT,9
+15010018,10/17/2015,D-II,Chowan,Virginia Union,RUSHING,R,Dixon,YDS,-90
+15010019,10/17/2015,D-II,Chowan,Virginia Union,RUSHING,R,Dixon,TD,0
+15010020,10/17/2015,D-II,Chowan,Virginia Union,RUSHING,R,Dixon,LONG,1
+15010021,10/17/2015,D-II,Chowan,Virginia Union,PASSING,R,Dixon,CP-ATT-INT,16-33-0
+15010022,10/17/2015,D-II,Chowan,Virginia Union,PASSING,R,Dixon,YDS,191
+15010023,10/17/2015,D-II,Chowan,Virginia Union,PASSING,R,Dixon,TD,1
+15010024,10/17/2015,D-II,Chowan,Virginia Union,PASSING,R,Dixon,LONG,25
+15010025,10/17/2015,D-II,Chowan,Virginia Union,RECEIVING,K,Lombard,REC,9
+15010026,10/17/2015,D-II,Chowan,Virginia Union,RECEIVING,K,Lombard,YDS,135
+15010027,10/17/2015,D-II,Chowan,Virginia Union,RECEIVING,K,Lombard,TD,1
+15010028,10/17/2015,D-II,Chowan,Virginia Union,RECEIVING,K,Lombard,LONG,25
+15010029,10/17/2015,D-II,Chowan,Virginia Union,RECEIVING,A,Prince,REC,3
+15010030,10/17/2015,D-II,Chowan,Virginia Union,RECEIVING,A,Prince,YDS,32
+15010031,10/17/2015,D-II,Chowan,Virginia Union,RECEIVING,A,Prince,TD,0
+15010032,10/17/2015,D-II,Chowan,Virginia Union,RECEIVING,A,Prince,LONG,22
+15010033,10/17/2015,D-II,Chowan,Virginia Union,RECEIVING,M,Hampton,REC,1
+15010034,10/17/2015,D-II,Chowan,Virginia Union,RECEIVING,M,Hampton,YDS,18
+15010035,10/17/2015,D-II,Chowan,Virginia Union,RECEIVING,M,Hampton,TD,0
+15010036,10/17/2015,D-II,Chowan,Virginia Union,RECEIVING,M,Hampton,LONG,18
+15010037,10/17/2015,D-II,Chowan,Virginia Union,RECEIVING,T,Saffold,REC,1
+15010038,10/17/2015,D-II,Chowan,Virginia Union,RECEIVING,T,Saffold,YDS,11
+15010039,10/17/2015,D-II,Chowan,Virginia Union,RECEIVING,T,Saffold,TD,0
+15010040,10/17/2015,D-II,Chowan,Virginia Union,RECEIVING,T,Saffold,LONG,11
+15010041,10/17/2015,D-II,Chowan,Virginia Union,RECEIVING,T,Lee,REC,2
+15010042,10/17/2015,D-II,Chowan,Virginia Union,RECEIVING,T,Lee,YDS,-5
+15010043,10/17/2015,D-II,Chowan,Virginia Union,RECEIVING,T,Lee,TD,0
+15010044,10/17/2015,D-II,Chowan,Virginia Union,RECEIVING,T,Lee,LONG,0
+15010045,10/17/2015,D-II,Chowan,Virginia Union,PUNTING,N,Hahula,NO,8
+15010046,10/17/2015,D-II,Chowan,Virginia Union,PUNTING,N,Hahula,YDS,233
+15010047,10/17/2015,D-II,Chowan,Virginia Union,PUNTING,N,Hahula,AVG,29.1
+15010048,10/17/2015,D-II,Chowan,Virginia Union,PUNTING,N,Hahula,LONG,35
+15010049,10/17/2015,D-II,Chowan,Virginia Union,PUNTING,,Team,NO,1
+15010050,10/17/2015,D-II,Chowan,Virginia Union,PUNTING,,Team,YDS,0
+15010051,10/17/2015,D-II,Chowan,Virginia Union,PUNTING,,Team,AVG,0.0
+15010052,10/17/2015,D-II,Chowan,Virginia Union,PUNTING,,Team,LONG,0
+15010053,10/17/2015,D-II,Chowan,Virginia Union,PUNT RETURNS,C,Finney,NO,1
+15010054,10/17/2015,D-II,Chowan,Virginia Union,PUNT RETURNS,C,Finney,YDS,-6
+15010055,10/17/2015,D-II,Chowan,Virginia Union,PUNT RETURNS,C,Finney,AVG,-6.0
+15010056,10/17/2015,D-II,Chowan,Virginia Union,PUNT RETURNS,C,Finney,LONG,0
+15010057,10/17/2015,D-II,Chowan,Virginia Union,KICK RETURNS,A,Elliott,NO,4
+15010058,10/17/2015,D-II,Chowan,Virginia Union,KICK RETURNS,A,Elliott,YDS,53
+15010059,10/17/2015,D-II,Chowan,Virginia Union,KICK RETURNS,A,Elliott,AVG,13.2
+15010060,10/17/2015,D-II,Chowan,Virginia Union,KICK RETURNS,A,Elliott,LONG,25
+15010061,10/17/2015,D-II,Virginia Union,Chowan,RUSHING,Hakeem,Holland,ATT,16
+15010062,10/17/2015,D-II,Virginia Union,Chowan,RUSHING,Hakeem,Holland,YDS,164
+15010063,10/17/2015,D-II,Virginia Union,Chowan,RUSHING,Hakeem,Holland,TD,2
+15010064,10/17/2015,D-II,Virginia Union,Chowan,RUSHING,Hakeem,Holland,LONG,79
+15010065,10/17/2015,D-II,Virginia Union,Chowan,RUSHING,Shawheem,Dowdy,ATT,8
+15010066,10/17/2015,D-II,Virginia Union,Chowan,RUSHING,Shawheem,Dowdy,YDS,35
+15010067,10/17/2015,D-II,Virginia Union,Chowan,RUSHING,Shawheem,Dowdy,TD,0
+15010068,10/17/2015,D-II,Virginia Union,Chowan,RUSHING,Shawheem,Dowdy,LONG,16
+15010069,10/17/2015,D-II,Virginia Union,Chowan,RUSHING,Olu,Izegwire,ATT,4
+15010070,10/17/2015,D-II,Virginia Union,Chowan,RUSHING,Olu,Izegwire,YDS,33
+15010071,10/17/2015,D-II,Virginia Union,Chowan,RUSHING,Olu,Izegwire,TD,1
+15010072,10/17/2015,D-II,Virginia Union,Chowan,RUSHING,Olu,Izegwire,LONG,39
+15010073,10/17/2015,D-II,Virginia Union,Chowan,RUSHING,Lamar,Webster,ATT,12
+15010074,10/17/2015,D-II,Virginia Union,Chowan,RUSHING,Lamar,Webster,YDS,30
+15010075,10/17/2015,D-II,Virginia Union,Chowan,RUSHING,Lamar,Webster,TD,1
+15010076,10/17/2015,D-II,Virginia Union,Chowan,RUSHING,Lamar,Webster,LONG,6
+15010077,10/17/2015,D-II,Virginia Union,Chowan,RUSHING,Morris,Jackson,ATT,4
+15010078,10/17/2015,D-II,Virginia Union,Chowan,RUSHING,Morris,Jackson,YDS,10
+15010079,10/17/2015,D-II,Virginia Union,Chowan,RUSHING,Morris,Jackson,TD,0
+15010080,10/17/2015,D-II,Virginia Union,Chowan,RUSHING,Morris,Jackson,LONG,7
+15010081,10/17/2015,D-II,Virginia Union,Chowan,RUSHING,Jerome,Robinson,ATT,3
+15010082,10/17/2015,D-II,Virginia Union,Chowan,RUSHING,Jerome,Robinson,YDS,-1
+15010083,10/17/2015,D-II,Virginia Union,Chowan,RUSHING,Jerome,Robinson,TD,0
+15010084,10/17/2015,D-II,Virginia Union,Chowan,RUSHING,Jerome,Robinson,LONG,2
+15010085,10/17/2015,D-II,Virginia Union,Chowan,PASSING,Shawheem,Dowdy,CP-ATT-INT,11-21-2
+15010086,10/17/2015,D-II,Virginia Union,Chowan,PASSING,Shawheem,Dowdy,YDS,151
+15010087,10/17/2015,D-II,Virginia Union,Chowan,PASSING,Shawheem,Dowdy,TD,0
+15010088,10/17/2015,D-II,Virginia Union,Chowan,PASSING,Shawheem,Dowdy,LONG,47
+15010089,10/17/2015,D-II,Virginia Union,Chowan,RECEIVING,Chazto,Mckenzie,REC,2
+15010090,10/17/2015,D-II,Virginia Union,Chowan,RECEIVING,Chazto,Mckenzie,YDS,55
+15010091,10/17/2015,D-II,Virginia Union,Chowan,RECEIVING,Chazto,Mckenzie,TD,0
+15010092,10/17/2015,D-II,Virginia Union,Chowan,RECEIVING,Chazto,Mckenzie,LONG,47
+15010093,10/17/2015,D-II,Virginia Union,Chowan,RECEIVING,Olu,Izegwire,REC,6
+15010094,10/17/2015,D-II,Virginia Union,Chowan,RECEIVING,Olu,Izegwire,YDS,49
+15010095,10/17/2015,D-II,Virginia Union,Chowan,RECEIVING,Olu,Izegwire,TD,0
+15010096,10/17/2015,D-II,Virginia Union,Chowan,RECEIVING,Olu,Izegwire,LONG,16
+15010097,10/17/2015,D-II,Virginia Union,Chowan,RECEIVING,Shaquil,Mitchem,REC,1
+15010098,10/17/2015,D-II,Virginia Union,Chowan,RECEIVING,Shaquil,Mitchem,YDS,31
+15010099,10/17/2015,D-II,Virginia Union,Chowan,RECEIVING,Shaquil,Mitchem,TD,0
+15010100,10/17/2015,D-II,Virginia Union,Chowan,RECEIVING,Shaquil,Mitchem,LONG,31
+15010101,10/17/2015,D-II,Virginia Union,Chowan,RECEIVING,Devin,Anderson,REC,1
+15010102,10/17/2015,D-II,Virginia Union,Chowan,RECEIVING,Devin,Anderson,YDS,12
+15010103,10/17/2015,D-II,Virginia Union,Chowan,RECEIVING,Devin,Anderson,TD,0
+15010104,10/17/2015,D-II,Virginia Union,Chowan,RECEIVING,Devin,Anderson,LONG,12
+15010105,10/17/2015,D-II,Virginia Union,Chowan,RECEIVING,Hakeem,Holland,REC,1
+15010106,10/17/2015,D-II,Virginia Union,Chowan,RECEIVING,Hakeem,Holland,YDS,4
+15010107,10/17/2015,D-II,Virginia Union,Chowan,RECEIVING,Hakeem,Holland,TD,0
+15010108,10/17/2015,D-II,Virginia Union,Chowan,RECEIVING,Hakeem,Holland,LONG,4
+15010109,10/17/2015,D-II,Virginia Union,Chowan,PUNTING,Russel,Ballance,NO,6
+15010110,10/17/2015,D-II,Virginia Union,Chowan,PUNTING,Russel,Ballance,YDS,216
+15010111,10/17/2015,D-II,Virginia Union,Chowan,PUNTING,Russel,Ballance,AVG,36.0
+15010112,10/17/2015,D-II,Virginia Union,Chowan,PUNTING,Russel,Ballance,LONG,42
+15010113,10/17/2015,D-II,Virginia Union,Chowan,PUNT RETURNS,Anthony,Cooper,NO,1
+15010114,10/17/2015,D-II,Virginia Union,Chowan,PUNT RETURNS,Anthony,Cooper,YDS,15
+15010115,10/17/2015,D-II,Virginia Union,Chowan,PUNT RETURNS,Anthony,Cooper,AVG,15.0
+15010116,10/17/2015,D-II,Virginia Union,Chowan,PUNT RETURNS,Anthony,Cooper,LONG,15
+15010117,10/17/2015,D-II,Virginia Union,Chowan,PUNT RETURNS,Stepha,Robinson,NO,1
+15010118,10/17/2015,D-II,Virginia Union,Chowan,PUNT RETURNS,Stepha,Robinson,YDS,6
+15010119,10/17/2015,D-II,Virginia Union,Chowan,PUNT RETURNS,Stepha,Robinson,AVG,6.0
+15010120,10/17/2015,D-II,Virginia Union,Chowan,PUNT RETURNS,Stepha,Robinson,LONG,6
+15010121,10/17/2015,D-II,Virginia Union,Chowan,PUNT RETURNS,Max,Beaulieu,NO,1
+15010122,10/17/2015,D-II,Virginia Union,Chowan,PUNT RETURNS,Max,Beaulieu,YDS,17
+15010123,10/17/2015,D-II,Virginia Union,Chowan,PUNT RETURNS,Max,Beaulieu,AVG,17.0
+15010124,10/17/2015,D-II,Virginia Union,Chowan,PUNT RETURNS,Max,Beaulieu,LONG,0
+15010125,10/17/2015,D-II,Virginia Union,Chowan,KICK RETURNS,Hakeem,Holland,NO,1
+15010126,10/17/2015,D-II,Virginia Union,Chowan,KICK RETURNS,Hakeem,Holland,YDS,22
+15010127,10/17/2015,D-II,Virginia Union,Chowan,KICK RETURNS,Hakeem,Holland,AVG,22.0
+15010128,10/17/2015,D-II,Virginia Union,Chowan,KICK RETURNS,Hakeem,Holland,LONG,22
+15010129,10/17/2015,D-II,Virginia Union,Chowan,KICK RETURNS,Shaquil,Mitchem,NO,1
+15010130,10/17/2015,D-II,Virginia Union,Chowan,KICK RETURNS,Shaquil,Mitchem,YDS,14
+15010131,10/17/2015,D-II,Virginia Union,Chowan,KICK RETURNS,Shaquil,Mitchem,AVG,14.0
+15010132,10/17/2015,D-II,Virginia Union,Chowan,KICK RETURNS,Shaquil,Mitchem,LONG,14
+15010133,10/17/2015,D-II,Virginia Union,Chowan,KICK RETURNS,Chazto,Mckenzie,NO,2
+15010134,10/17/2015,D-II,Virginia Union,Chowan,KICK RETURNS,Chazto,Mckenzie,YDS,45
+15010135,10/17/2015,D-II,Virginia Union,Chowan,KICK RETURNS,Chazto,Mckenzie,AVG,22.5
+15010136,10/17/2015,D-II,Virginia Union,Chowan,KICK RETURNS,Chazto,Mckenzie,LONG,24

@@ -1,0 +1,217 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+23607001,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RUSHING,Niquille,Bell,ATT,17
+23607002,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RUSHING,Niquille,Bell,YDS,53
+23607003,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RUSHING,Niquille,Bell,TD,0
+23607004,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RUSHING,Niquille,Bell,LONG,16
+23607005,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RUSHING,T,Anderson,ATT,4
+23607006,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RUSHING,T,Anderson,YDS,14
+23607007,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RUSHING,T,Anderson,TD,0
+23607008,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RUSHING,T,Anderson,LONG,17
+23607009,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RUSHING,,Team,ATT,4
+23607010,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RUSHING,,Team,YDS,1
+23607011,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RUSHING,,Team,TD,0
+23607012,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RUSHING,,Team,LONG,3
+23607013,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RUSHING,Chase,Fisher,ATT,1
+23607014,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RUSHING,Chase,Fisher,YDS,0
+23607015,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RUSHING,Chase,Fisher,TD,0
+23607016,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RUSHING,Chase,Fisher,LONG,0
+23607017,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RUSHING,,Team,ATT,1
+23607018,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RUSHING,,Team,YDS,-10
+23607019,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RUSHING,,Team,TD,0
+23607020,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RUSHING,,Team,LONG,0
+23607021,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,PASSING,T,Anderson,CP-ATT-INT,18-38-5
+23607022,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,PASSING,T,Anderson,YDS,254
+23607023,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,PASSING,T,Anderson,TD,0
+23607024,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,PASSING,T,Anderson,LONG,41
+23607025,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,PASSING,,Team,CP-ATT-INT,4-10-1
+23607026,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,PASSING,,Team,YDS,78
+23607027,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,PASSING,,Team,TD,0
+23607028,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,PASSING,,Team,LONG,35
+23607029,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,PASSING,Chase,Fisher,CP-ATT-INT,1-1-0
+23607030,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,PASSING,Chase,Fisher,YDS,11
+23607031,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,PASSING,Chase,Fisher,TD,0
+23607032,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,PASSING,Chase,Fisher,LONG,11
+23607033,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,PASSING,Travis,Williams,CP-ATT-INT,1-2-0
+23607034,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,PASSING,Travis,Williams,YDS,3
+23607035,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,PASSING,Travis,Williams,TD,1
+23607036,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,PASSING,Travis,Williams,LONG,3
+23607037,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RECEIVING,Jarrett,Dickey,REC,8
+23607038,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RECEIVING,Jarrett,Dickey,YDS,135
+23607039,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RECEIVING,Jarrett,Dickey,TD,1
+23607040,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RECEIVING,Jarrett,Dickey,LONG,41
+23607041,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RECEIVING,Kreed,Switzer,REC,3
+23607042,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RECEIVING,Kreed,Switzer,YDS,90
+23607043,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RECEIVING,Kreed,Switzer,TD,0
+23607044,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RECEIVING,Kreed,Switzer,LONG,39
+23607045,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RECEIVING,Joe,Everett,REC,1
+23607046,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RECEIVING,Joe,Everett,YDS,41
+23607047,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RECEIVING,Joe,Everett,TD,0
+23607048,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RECEIVING,Joe,Everett,LONG,41
+23607049,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RECEIVING,Niquille,Bell,REC,5
+23607050,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RECEIVING,Niquille,Bell,YDS,21
+23607051,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RECEIVING,Niquille,Bell,TD,0
+23607052,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RECEIVING,Niquille,Bell,LONG,18
+23607053,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RECEIVING,Charles,Keith,REC,1
+23607054,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RECEIVING,Charles,Keith,YDS,21
+23607055,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RECEIVING,Charles,Keith,TD,0
+23607056,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RECEIVING,Charles,Keith,LONG,21
+23607057,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RECEIVING,Jack,Stanton,REC,1
+23607058,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RECEIVING,Jack,Stanton,YDS,15
+23607059,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RECEIVING,Jack,Stanton,TD,0
+23607060,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RECEIVING,Jack,Stanton,LONG,15
+23607061,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RECEIVING,Travis,Williams,REC,4
+23607062,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RECEIVING,Travis,Williams,YDS,12
+23607063,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RECEIVING,Travis,Williams,TD,0
+23607064,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RECEIVING,Travis,Williams,LONG,10
+23607065,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RECEIVING,Alex,Dickey,REC,1
+23607066,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RECEIVING,Alex,Dickey,YDS,11
+23607067,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RECEIVING,Alex,Dickey,TD,0
+23607068,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,RECEIVING,Alex,Dickey,LONG,11
+23607069,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,PUNTING,Chase,Fisher,NO,6
+23607070,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,PUNTING,Chase,Fisher,YDS,177
+23607071,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,PUNTING,Chase,Fisher,AVG,29.5
+23607072,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,PUNTING,Chase,Fisher,LONG,36
+23607073,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,PUNT RETURNS,Austin,Purkey,NO,1
+23607074,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,PUNT RETURNS,Austin,Purkey,YDS,5
+23607075,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,PUNT RETURNS,Austin,Purkey,AVG,5.0
+23607076,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,PUNT RETURNS,Austin,Purkey,LONG,5
+23607077,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,PUNT RETURNS,Tre,Johnson,NO,1
+23607078,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,PUNT RETURNS,Tre,Johnson,YDS,3
+23607079,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,PUNT RETURNS,Tre,Johnson,AVG,3.0
+23607080,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,PUNT RETURNS,Tre,Johnson,LONG,3
+23607081,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,PUNT RETURNS,Shahid,Hunt,NO,1
+23607082,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,PUNT RETURNS,Shahid,Hunt,YDS,7
+23607083,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,PUNT RETURNS,Shahid,Hunt,AVG,7.0
+23607084,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,PUNT RETURNS,Shahid,Hunt,LONG,7
+23607085,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,KICK RETURNS,Niquille,Bell,NO,1
+23607086,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,KICK RETURNS,Niquille,Bell,YDS,26
+23607087,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,KICK RETURNS,Niquille,Bell,AVG,26.0
+23607088,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,KICK RETURNS,Niquille,Bell,LONG,26
+23607089,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,KICK RETURNS,Austin,Williams,NO,3
+23607090,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,KICK RETURNS,Austin,Williams,YDS,32
+23607091,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,KICK RETURNS,Austin,Williams,AVG,10.7
+23607092,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,KICK RETURNS,Austin,Williams,LONG,20
+23607093,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,KICK RETURNS,Shahid,Hunt,NO,1
+23607094,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,KICK RETURNS,Shahid,Hunt,YDS,16
+23607095,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,KICK RETURNS,Shahid,Hunt,AVG,16.0
+23607096,10/1/2016,D-III,Anderson (Ind.),Rose-Hulman,KICK RETURNS,Shahid,Hunt,LONG,16
+23607097,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,K,Dufauchard,ATT,19
+23607098,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,K,Dufauchard,YDS,57
+23607099,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,K,Dufauchard,TD,2
+23607100,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,K,Dufauchard,LONG,7
+23607101,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Stanley,Hogan,ATT,11
+23607102,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Stanley,Hogan,YDS,30
+23607103,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Stanley,Hogan,TD,0
+23607104,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Stanley,Hogan,LONG,9
+23607105,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Alex,Anderson,ATT,5
+23607106,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Alex,Anderson,YDS,13
+23607107,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Alex,Anderson,TD,0
+23607108,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Alex,Anderson,LONG,4
+23607109,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Daniel,Ferguson,ATT,4
+23607110,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Daniel,Ferguson,YDS,11
+23607111,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Daniel,Ferguson,TD,0
+23607112,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Daniel,Ferguson,LONG,6
+23607113,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Michael,Iacono,ATT,3
+23607114,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Michael,Iacono,YDS,10
+23607115,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Michael,Iacono,TD,0
+23607116,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Michael,Iacono,LONG,9
+23607117,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,N,Stewart,ATT,2
+23607118,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,N,Stewart,YDS,8
+23607119,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,N,Stewart,TD,0
+23607120,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,N,Stewart,LONG,7
+23607121,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Seth,Knoll,ATT,2
+23607122,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Seth,Knoll,YDS,6
+23607123,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Seth,Knoll,TD,0
+23607124,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Seth,Knoll,LONG,3
+23607125,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Austin,Swenson,ATT,2
+23607126,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Austin,Swenson,YDS,5
+23607127,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Austin,Swenson,TD,0
+23607128,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Austin,Swenson,LONG,3
+23607129,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Eric,Morris,ATT,2
+23607130,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Eric,Morris,YDS,3
+23607131,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Eric,Morris,TD,0
+23607132,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Eric,Morris,LONG,3
+23607133,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Garrett,Wight,ATT,1
+23607134,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Garrett,Wight,YDS,2
+23607135,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Garrett,Wight,TD,0
+23607136,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Garrett,Wight,LONG,2
+23607137,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Titus,Schammel,ATT,3
+23607138,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Titus,Schammel,YDS,2
+23607139,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Titus,Schammel,TD,0
+23607140,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Titus,Schammel,LONG,2
+23607141,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Aidan,Keller,ATT,1
+23607142,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Aidan,Keller,YDS,2
+23607143,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Aidan,Keller,TD,0
+23607144,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RUSHING,Aidan,Keller,LONG,2
+23607145,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),PASSING,Austin,Swenson,CP-ATT-INT,21-37-2
+23607146,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),PASSING,Austin,Swenson,YDS,262
+23607147,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),PASSING,Austin,Swenson,TD,3
+23607148,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),PASSING,Austin,Swenson,LONG,34
+23607149,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),PASSING,Sam,Grant,CP-ATT-INT,2-4-0
+23607150,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),PASSING,Sam,Grant,YDS,26
+23607151,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),PASSING,Sam,Grant,TD,0
+23607152,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),PASSING,Sam,Grant,LONG,15
+23607153,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),PASSING,C,Johannigman,CP-ATT-INT,1-1-0
+23607154,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),PASSING,C,Johannigman,YDS,14
+23607155,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),PASSING,C,Johannigman,TD,0
+23607156,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),PASSING,C,Johannigman,LONG,14
+23607157,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),PASSING,Eric,Morris,CP-ATT-INT,0-1-0
+23607158,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),PASSING,Eric,Morris,YDS,0
+23607159,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),PASSING,Eric,Morris,TD,0
+23607160,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),PASSING,Eric,Morris,LONG,0
+23607161,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,Michael,Iacono,REC,8
+23607162,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,Michael,Iacono,YDS,90
+23607163,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,Michael,Iacono,TD,2
+23607164,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,Michael,Iacono,LONG,29
+23607165,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,R,Burtnick,REC,3
+23607166,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,R,Burtnick,YDS,53
+23607167,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,R,Burtnick,TD,0
+23607168,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,R,Burtnick,LONG,34
+23607169,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,Zack,Murphy,REC,3
+23607170,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,Zack,Murphy,YDS,32
+23607171,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,Zack,Murphy,TD,0
+23607172,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,Zack,Murphy,LONG,16
+23607173,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,Garrett,Wight,REC,1
+23607174,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,Garrett,Wight,YDS,29
+23607175,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,Garrett,Wight,TD,0
+23607176,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,Garrett,Wight,LONG,29
+23607177,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,Joseph,Wildt,REC,2
+23607178,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,Joseph,Wildt,YDS,25
+23607179,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,Joseph,Wildt,TD,0
+23607180,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,Joseph,Wildt,LONG,14
+23607181,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,Stanley,Hogan,REC,3
+23607182,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,Stanley,Hogan,YDS,21
+23607183,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,Stanley,Hogan,TD,0
+23607184,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,Stanley,Hogan,LONG,12
+23607185,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,N,Stewart,REC,1
+23607186,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,N,Stewart,YDS,19
+23607187,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,N,Stewart,TD,0
+23607188,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,N,Stewart,LONG,19
+23607189,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,Sawyer,Young,REC,1
+23607190,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,Sawyer,Young,YDS,15
+23607191,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,Sawyer,Young,TD,0
+23607192,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,Sawyer,Young,LONG,15
+23607193,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,Joe,Moehrle,REC,1
+23607194,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,Joe,Moehrle,YDS,10
+23607195,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,Joe,Moehrle,TD,0
+23607196,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,Joe,Moehrle,LONG,10
+23607197,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,Luke,Kopecky,REC,1
+23607198,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,Luke,Kopecky,YDS,8
+23607199,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,Luke,Kopecky,TD,1
+23607200,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),RECEIVING,Luke,Kopecky,LONG,8
+23607201,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),PUNTING,Andrew,Peck,NO,1
+23607202,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),PUNTING,Andrew,Peck,YDS,31
+23607203,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),PUNTING,Andrew,Peck,AVG,31.0
+23607204,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),PUNTING,Andrew,Peck,LONG,31
+23607205,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),PUNTING,Matt,Murray,NO,5
+23607206,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),PUNTING,Matt,Murray,YDS,204
+23607207,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),PUNTING,Matt,Murray,AVG,40.8
+23607208,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),PUNTING,Matt,Murray,LONG,48
+23607209,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),PUNT RETURNS,Tyler,Brutofsky,NO,1
+23607210,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),PUNT RETURNS,Tyler,Brutofsky,YDS,3
+23607211,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),PUNT RETURNS,Tyler,Brutofsky,AVG,3.0
+23607212,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),PUNT RETURNS,Tyler,Brutofsky,LONG,3
+23607213,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),KICK RETURNS,Garrett,Wight,NO,2
+23607214,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),KICK RETURNS,Garrett,Wight,YDS,48
+23607215,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),KICK RETURNS,Garrett,Wight,AVG,24.0
+23607216,10/1/2016,D-III,Rose-Hulman,Anderson (Ind.),KICK RETURNS,Garrett,Wight,LONG,25

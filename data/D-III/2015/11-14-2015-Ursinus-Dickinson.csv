@@ -1,0 +1,113 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+22958001,11/14/2015,D-III,Ursinus,Dickinson,RUSHING,Asa,Manley,ATT,25
+22958002,11/14/2015,D-III,Ursinus,Dickinson,RUSHING,Asa,Manley,YDS,103
+22958003,11/14/2015,D-III,Ursinus,Dickinson,RUSHING,Asa,Manley,TD,1
+22958004,11/14/2015,D-III,Ursinus,Dickinson,RUSHING,Asa,Manley,LONG,25
+22958005,11/14/2015,D-III,Ursinus,Dickinson,RUSHING,,Team,ATT,2
+22958006,11/14/2015,D-III,Ursinus,Dickinson,RUSHING,,Team,YDS,-3
+22958007,11/14/2015,D-III,Ursinus,Dickinson,RUSHING,,Team,TD,0
+22958008,11/14/2015,D-III,Ursinus,Dickinson,RUSHING,,Team,LONG,0
+22958009,11/14/2015,D-III,Ursinus,Dickinson,RUSHING,James,Emmett,ATT,4
+22958010,11/14/2015,D-III,Ursinus,Dickinson,RUSHING,James,Emmett,YDS,-25
+22958011,11/14/2015,D-III,Ursinus,Dickinson,RUSHING,James,Emmett,TD,1
+22958012,11/14/2015,D-III,Ursinus,Dickinson,RUSHING,James,Emmett,LONG,1
+22958013,11/14/2015,D-III,Ursinus,Dickinson,PASSING,James,Emmett,CP-ATT-INT,15-24-2
+22958014,11/14/2015,D-III,Ursinus,Dickinson,PASSING,James,Emmett,YDS,209
+22958015,11/14/2015,D-III,Ursinus,Dickinson,PASSING,James,Emmett,TD,2
+22958016,11/14/2015,D-III,Ursinus,Dickinson,PASSING,James,Emmett,LONG,54
+22958017,11/14/2015,D-III,Ursinus,Dickinson,RECEIVING,Asa,Manley,REC,2
+22958018,11/14/2015,D-III,Ursinus,Dickinson,RECEIVING,Asa,Manley,YDS,69
+22958019,11/14/2015,D-III,Ursinus,Dickinson,RECEIVING,Asa,Manley,TD,1
+22958020,11/14/2015,D-III,Ursinus,Dickinson,RECEIVING,Asa,Manley,LONG,54
+22958021,11/14/2015,D-III,Ursinus,Dickinson,RECEIVING,N,Lundholm,REC,6
+22958022,11/14/2015,D-III,Ursinus,Dickinson,RECEIVING,N,Lundholm,YDS,54
+22958023,11/14/2015,D-III,Ursinus,Dickinson,RECEIVING,N,Lundholm,TD,1
+22958024,11/14/2015,D-III,Ursinus,Dickinson,RECEIVING,N,Lundholm,LONG,18
+22958025,11/14/2015,D-III,Ursinus,Dickinson,RECEIVING,Matthew,Raymond,REC,3
+22958026,11/14/2015,D-III,Ursinus,Dickinson,RECEIVING,Matthew,Raymond,YDS,50
+22958027,11/14/2015,D-III,Ursinus,Dickinson,RECEIVING,Matthew,Raymond,TD,0
+22958028,11/14/2015,D-III,Ursinus,Dickinson,RECEIVING,Matthew,Raymond,LONG,23
+22958029,11/14/2015,D-III,Ursinus,Dickinson,RECEIVING,N,Pustizzi,REC,2
+22958030,11/14/2015,D-III,Ursinus,Dickinson,RECEIVING,N,Pustizzi,YDS,14
+22958031,11/14/2015,D-III,Ursinus,Dickinson,RECEIVING,N,Pustizzi,TD,0
+22958032,11/14/2015,D-III,Ursinus,Dickinson,RECEIVING,N,Pustizzi,LONG,12
+22958033,11/14/2015,D-III,Ursinus,Dickinson,RECEIVING,Jequan,Mitchell,REC,1
+22958034,11/14/2015,D-III,Ursinus,Dickinson,RECEIVING,Jequan,Mitchell,YDS,11
+22958035,11/14/2015,D-III,Ursinus,Dickinson,RECEIVING,Jequan,Mitchell,TD,0
+22958036,11/14/2015,D-III,Ursinus,Dickinson,RECEIVING,Jequan,Mitchell,LONG,11
+22958037,11/14/2015,D-III,Ursinus,Dickinson,RECEIVING,Carmen,Fortino,REC,1
+22958038,11/14/2015,D-III,Ursinus,Dickinson,RECEIVING,Carmen,Fortino,YDS,11
+22958039,11/14/2015,D-III,Ursinus,Dickinson,RECEIVING,Carmen,Fortino,TD,0
+22958040,11/14/2015,D-III,Ursinus,Dickinson,RECEIVING,Carmen,Fortino,LONG,11
+22958041,11/14/2015,D-III,Ursinus,Dickinson,PUNTING,Eric,Boyer,NO,4
+22958042,11/14/2015,D-III,Ursinus,Dickinson,PUNTING,Eric,Boyer,YDS,140
+22958043,11/14/2015,D-III,Ursinus,Dickinson,PUNTING,Eric,Boyer,AVG,35.0
+22958044,11/14/2015,D-III,Ursinus,Dickinson,PUNTING,Eric,Boyer,LONG,48
+22958045,11/14/2015,D-III,Ursinus,Dickinson,PUNT RETURNS,Rockne,O'leary,NO,3
+22958046,11/14/2015,D-III,Ursinus,Dickinson,PUNT RETURNS,Rockne,O'leary,YDS,14
+22958047,11/14/2015,D-III,Ursinus,Dickinson,PUNT RETURNS,Rockne,O'leary,AVG,4.7
+22958048,11/14/2015,D-III,Ursinus,Dickinson,PUNT RETURNS,Rockne,O'leary,LONG,9
+22958049,11/14/2015,D-III,Ursinus,Dickinson,KICK RETURNS,J,Roccograndi,NO,3
+22958050,11/14/2015,D-III,Ursinus,Dickinson,KICK RETURNS,J,Roccograndi,YDS,48
+22958051,11/14/2015,D-III,Ursinus,Dickinson,KICK RETURNS,J,Roccograndi,AVG,16.0
+22958052,11/14/2015,D-III,Ursinus,Dickinson,KICK RETURNS,J,Roccograndi,LONG,23
+22958053,11/14/2015,D-III,Dickinson,Ursinus,RUSHING,Cedric,Madden,ATT,22
+22958054,11/14/2015,D-III,Dickinson,Ursinus,RUSHING,Cedric,Madden,YDS,97
+22958055,11/14/2015,D-III,Dickinson,Ursinus,RUSHING,Cedric,Madden,TD,1
+22958056,11/14/2015,D-III,Dickinson,Ursinus,RUSHING,Cedric,Madden,LONG,13
+22958057,11/14/2015,D-III,Dickinson,Ursinus,RUSHING,Chris,Soulas,ATT,2
+22958058,11/14/2015,D-III,Dickinson,Ursinus,RUSHING,Chris,Soulas,YDS,21
+22958059,11/14/2015,D-III,Dickinson,Ursinus,RUSHING,Chris,Soulas,TD,0
+22958060,11/14/2015,D-III,Dickinson,Ursinus,RUSHING,Chris,Soulas,LONG,19
+22958061,11/14/2015,D-III,Dickinson,Ursinus,RUSHING,Malcolm,Davis,ATT,2
+22958062,11/14/2015,D-III,Dickinson,Ursinus,RUSHING,Malcolm,Davis,YDS,0
+22958063,11/14/2015,D-III,Dickinson,Ursinus,RUSHING,Malcolm,Davis,TD,0
+22958064,11/14/2015,D-III,Dickinson,Ursinus,RUSHING,Malcolm,Davis,LONG,1
+22958065,11/14/2015,D-III,Dickinson,Ursinus,RUSHING,Anders,Overhaug,ATT,3
+22958066,11/14/2015,D-III,Dickinson,Ursinus,RUSHING,Anders,Overhaug,YDS,-5
+22958067,11/14/2015,D-III,Dickinson,Ursinus,RUSHING,Anders,Overhaug,TD,0
+22958068,11/14/2015,D-III,Dickinson,Ursinus,RUSHING,Anders,Overhaug,LONG,0
+22958069,11/14/2015,D-III,Dickinson,Ursinus,RUSHING,Billy,Burger,ATT,18
+22958070,11/14/2015,D-III,Dickinson,Ursinus,RUSHING,Billy,Burger,YDS,-14
+22958071,11/14/2015,D-III,Dickinson,Ursinus,RUSHING,Billy,Burger,TD,0
+22958072,11/14/2015,D-III,Dickinson,Ursinus,RUSHING,Billy,Burger,LONG,4
+22958073,11/14/2015,D-III,Dickinson,Ursinus,PASSING,Billy,Burger,CP-ATT-INT,14-26-0
+22958074,11/14/2015,D-III,Dickinson,Ursinus,PASSING,Billy,Burger,YDS,189
+22958075,11/14/2015,D-III,Dickinson,Ursinus,PASSING,Billy,Burger,TD,1
+22958076,11/14/2015,D-III,Dickinson,Ursinus,PASSING,Billy,Burger,LONG,37
+22958077,11/14/2015,D-III,Dickinson,Ursinus,RECEIVING,Anders,Overhaug,REC,10
+22958078,11/14/2015,D-III,Dickinson,Ursinus,RECEIVING,Anders,Overhaug,YDS,165
+22958079,11/14/2015,D-III,Dickinson,Ursinus,RECEIVING,Anders,Overhaug,TD,1
+22958080,11/14/2015,D-III,Dickinson,Ursinus,RECEIVING,Anders,Overhaug,LONG,37
+22958081,11/14/2015,D-III,Dickinson,Ursinus,RECEIVING,James,Ward,REC,2
+22958082,11/14/2015,D-III,Dickinson,Ursinus,RECEIVING,James,Ward,YDS,13
+22958083,11/14/2015,D-III,Dickinson,Ursinus,RECEIVING,James,Ward,TD,0
+22958084,11/14/2015,D-III,Dickinson,Ursinus,RECEIVING,James,Ward,LONG,7
+22958085,11/14/2015,D-III,Dickinson,Ursinus,RECEIVING,Chris,Soulas,REC,1
+22958086,11/14/2015,D-III,Dickinson,Ursinus,RECEIVING,Chris,Soulas,YDS,7
+22958087,11/14/2015,D-III,Dickinson,Ursinus,RECEIVING,Chris,Soulas,TD,0
+22958088,11/14/2015,D-III,Dickinson,Ursinus,RECEIVING,Chris,Soulas,LONG,7
+22958089,11/14/2015,D-III,Dickinson,Ursinus,RECEIVING,Malcolm,Davis,REC,1
+22958090,11/14/2015,D-III,Dickinson,Ursinus,RECEIVING,Malcolm,Davis,YDS,4
+22958091,11/14/2015,D-III,Dickinson,Ursinus,RECEIVING,Malcolm,Davis,TD,0
+22958092,11/14/2015,D-III,Dickinson,Ursinus,RECEIVING,Malcolm,Davis,LONG,4
+22958093,11/14/2015,D-III,Dickinson,Ursinus,PUNTING,Austin,High,NO,4
+22958094,11/14/2015,D-III,Dickinson,Ursinus,PUNTING,Austin,High,YDS,170
+22958095,11/14/2015,D-III,Dickinson,Ursinus,PUNTING,Austin,High,AVG,42.5
+22958096,11/14/2015,D-III,Dickinson,Ursinus,PUNTING,Austin,High,LONG,47
+22958097,11/14/2015,D-III,Dickinson,Ursinus,PUNT RETURNS,James,Ward,NO,2
+22958098,11/14/2015,D-III,Dickinson,Ursinus,PUNT RETURNS,James,Ward,YDS,11
+22958099,11/14/2015,D-III,Dickinson,Ursinus,PUNT RETURNS,James,Ward,AVG,5.5
+22958100,11/14/2015,D-III,Dickinson,Ursinus,PUNT RETURNS,James,Ward,LONG,8
+22958101,11/14/2015,D-III,Dickinson,Ursinus,KICK RETURNS,Jake,Meluskey,NO,1
+22958102,11/14/2015,D-III,Dickinson,Ursinus,KICK RETURNS,Jake,Meluskey,YDS,17
+22958103,11/14/2015,D-III,Dickinson,Ursinus,KICK RETURNS,Jake,Meluskey,AVG,17.0
+22958104,11/14/2015,D-III,Dickinson,Ursinus,KICK RETURNS,Jake,Meluskey,LONG,17
+22958105,11/14/2015,D-III,Dickinson,Ursinus,KICK RETURNS,James,Ward,NO,1
+22958106,11/14/2015,D-III,Dickinson,Ursinus,KICK RETURNS,James,Ward,YDS,12
+22958107,11/14/2015,D-III,Dickinson,Ursinus,KICK RETURNS,James,Ward,AVG,12.0
+22958108,11/14/2015,D-III,Dickinson,Ursinus,KICK RETURNS,James,Ward,LONG,12
+22958109,11/14/2015,D-III,Dickinson,Ursinus,KICK RETURNS,Anders,Overhaug,NO,1
+22958110,11/14/2015,D-III,Dickinson,Ursinus,KICK RETURNS,Anders,Overhaug,YDS,17
+22958111,11/14/2015,D-III,Dickinson,Ursinus,KICK RETURNS,Anders,Overhaug,AVG,17.0
+22958112,11/14/2015,D-III,Dickinson,Ursinus,KICK RETURNS,Anders,Overhaug,LONG,17

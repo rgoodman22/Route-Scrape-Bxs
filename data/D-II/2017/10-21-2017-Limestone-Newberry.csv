@@ -1,0 +1,129 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+17030001,10/21/2017,D-II,Limestone,Newberry,RUSHING,J,Patton,ATT,17
+17030002,10/21/2017,D-II,Limestone,Newberry,RUSHING,J,Patton,YDS,40
+17030003,10/21/2017,D-II,Limestone,Newberry,RUSHING,J,Patton,TD,0
+17030004,10/21/2017,D-II,Limestone,Newberry,RUSHING,J,Patton,LONG,15
+17030005,10/21/2017,D-II,Limestone,Newberry,RUSHING,S,Bain,ATT,1
+17030006,10/21/2017,D-II,Limestone,Newberry,RUSHING,S,Bain,YDS,1
+17030007,10/21/2017,D-II,Limestone,Newberry,RUSHING,S,Bain,TD,0
+17030008,10/21/2017,D-II,Limestone,Newberry,RUSHING,S,Bain,LONG,1
+17030009,10/21/2017,D-II,Limestone,Newberry,RUSHING,D,Phillips,ATT,9
+17030010,10/21/2017,D-II,Limestone,Newberry,RUSHING,D,Phillips,YDS,-10
+17030011,10/21/2017,D-II,Limestone,Newberry,RUSHING,D,Phillips,TD,0
+17030012,10/21/2017,D-II,Limestone,Newberry,RUSHING,D,Phillips,LONG,8
+17030013,10/21/2017,D-II,Limestone,Newberry,PASSING,D,Phillips,CP-ATT-INT,19-37-1
+17030014,10/21/2017,D-II,Limestone,Newberry,PASSING,D,Phillips,YDS,400
+17030015,10/21/2017,D-II,Limestone,Newberry,PASSING,D,Phillips,TD,2
+17030016,10/21/2017,D-II,Limestone,Newberry,PASSING,D,Phillips,LONG,80
+17030017,10/21/2017,D-II,Limestone,Newberry,PASSING,,Team,CP-ATT-INT,0-1-0
+17030018,10/21/2017,D-II,Limestone,Newberry,PASSING,,Team,YDS,0
+17030019,10/21/2017,D-II,Limestone,Newberry,PASSING,,Team,TD,0
+17030020,10/21/2017,D-II,Limestone,Newberry,PASSING,,Team,LONG,0
+17030021,10/21/2017,D-II,Limestone,Newberry,RECEIVING,V,Smith,REC,8
+17030022,10/21/2017,D-II,Limestone,Newberry,RECEIVING,V,Smith,YDS,187
+17030023,10/21/2017,D-II,Limestone,Newberry,RECEIVING,V,Smith,TD,1
+17030024,10/21/2017,D-II,Limestone,Newberry,RECEIVING,V,Smith,LONG,55
+17030025,10/21/2017,D-II,Limestone,Newberry,RECEIVING,D,Fleming,REC,6
+17030026,10/21/2017,D-II,Limestone,Newberry,RECEIVING,D,Fleming,YDS,173
+17030027,10/21/2017,D-II,Limestone,Newberry,RECEIVING,D,Fleming,TD,1
+17030028,10/21/2017,D-II,Limestone,Newberry,RECEIVING,D,Fleming,LONG,80
+17030029,10/21/2017,D-II,Limestone,Newberry,RECEIVING,J,Hornsby,REC,1
+17030030,10/21/2017,D-II,Limestone,Newberry,RECEIVING,J,Hornsby,YDS,36
+17030031,10/21/2017,D-II,Limestone,Newberry,RECEIVING,J,Hornsby,TD,0
+17030032,10/21/2017,D-II,Limestone,Newberry,RECEIVING,J,Hornsby,LONG,36
+17030033,10/21/2017,D-II,Limestone,Newberry,RECEIVING,D,Baskett,REC,3
+17030034,10/21/2017,D-II,Limestone,Newberry,RECEIVING,D,Baskett,YDS,10
+17030035,10/21/2017,D-II,Limestone,Newberry,RECEIVING,D,Baskett,TD,0
+17030036,10/21/2017,D-II,Limestone,Newberry,RECEIVING,D,Baskett,LONG,11
+17030037,10/21/2017,D-II,Limestone,Newberry,RECEIVING,J,Patton,REC,1
+17030038,10/21/2017,D-II,Limestone,Newberry,RECEIVING,J,Patton,YDS,-6
+17030039,10/21/2017,D-II,Limestone,Newberry,RECEIVING,J,Patton,TD,0
+17030040,10/21/2017,D-II,Limestone,Newberry,RECEIVING,J,Patton,LONG,0
+17030041,10/21/2017,D-II,Limestone,Newberry,PUNTING,A,Haynes,NO,4
+17030042,10/21/2017,D-II,Limestone,Newberry,PUNTING,A,Haynes,YDS,156
+17030043,10/21/2017,D-II,Limestone,Newberry,PUNTING,A,Haynes,AVG,39.0
+17030044,10/21/2017,D-II,Limestone,Newberry,PUNTING,A,Haynes,LONG,48
+17030045,10/21/2017,D-II,Limestone,Newberry,PUNTING,N,Smith,NO,1
+17030046,10/21/2017,D-II,Limestone,Newberry,PUNTING,N,Smith,YDS,39
+17030047,10/21/2017,D-II,Limestone,Newberry,PUNTING,N,Smith,AVG,39.0
+17030048,10/21/2017,D-II,Limestone,Newberry,PUNTING,N,Smith,LONG,39
+17030049,10/21/2017,D-II,Limestone,Newberry,PUNT RETURNS,C,Rau,NO,2
+17030050,10/21/2017,D-II,Limestone,Newberry,PUNT RETURNS,C,Rau,YDS,11
+17030051,10/21/2017,D-II,Limestone,Newberry,PUNT RETURNS,C,Rau,AVG,5.5
+17030052,10/21/2017,D-II,Limestone,Newberry,PUNT RETURNS,C,Rau,LONG,8
+17030053,10/21/2017,D-II,Limestone,Newberry,KICK RETURNS,J,Callahan,NO,1
+17030054,10/21/2017,D-II,Limestone,Newberry,KICK RETURNS,J,Callahan,YDS,14
+17030055,10/21/2017,D-II,Limestone,Newberry,KICK RETURNS,J,Callahan,AVG,14.0
+17030056,10/21/2017,D-II,Limestone,Newberry,KICK RETURNS,J,Callahan,LONG,14
+17030057,10/21/2017,D-II,Newberry,Limestone,RUSHING,Greg,Ruff,ATT,17
+17030058,10/21/2017,D-II,Newberry,Limestone,RUSHING,Greg,Ruff,YDS,73
+17030059,10/21/2017,D-II,Newberry,Limestone,RUSHING,Greg,Ruff,TD,1
+17030060,10/21/2017,D-II,Newberry,Limestone,RUSHING,Greg,Ruff,LONG,55
+17030061,10/21/2017,D-II,Newberry,Limestone,RUSHING,Austin,Barnes,ATT,17
+17030062,10/21/2017,D-II,Newberry,Limestone,RUSHING,Austin,Barnes,YDS,54
+17030063,10/21/2017,D-II,Newberry,Limestone,RUSHING,Austin,Barnes,TD,0
+17030064,10/21/2017,D-II,Newberry,Limestone,RUSHING,Austin,Barnes,LONG,6
+17030065,10/21/2017,D-II,Newberry,Limestone,RUSHING,Darius,Clark,ATT,10
+17030066,10/21/2017,D-II,Newberry,Limestone,RUSHING,Darius,Clark,YDS,41
+17030067,10/21/2017,D-II,Newberry,Limestone,RUSHING,Darius,Clark,TD,0
+17030068,10/21/2017,D-II,Newberry,Limestone,RUSHING,Darius,Clark,LONG,20
+17030069,10/21/2017,D-II,Newberry,Limestone,RUSHING,Nick,Jones,ATT,4
+17030070,10/21/2017,D-II,Newberry,Limestone,RUSHING,Nick,Jones,YDS,16
+17030071,10/21/2017,D-II,Newberry,Limestone,RUSHING,Nick,Jones,TD,0
+17030072,10/21/2017,D-II,Newberry,Limestone,RUSHING,Nick,Jones,LONG,9
+17030073,10/21/2017,D-II,Newberry,Limestone,PASSING,Greg,Ruff,CP-ATT-INT,2-13-0
+17030074,10/21/2017,D-II,Newberry,Limestone,PASSING,Greg,Ruff,YDS,87
+17030075,10/21/2017,D-II,Newberry,Limestone,PASSING,Greg,Ruff,TD,1
+17030076,10/21/2017,D-II,Newberry,Limestone,PASSING,Greg,Ruff,LONG,66
+17030077,10/21/2017,D-II,Newberry,Limestone,PASSING,Nick,Jones,CP-ATT-INT,4-6-0
+17030078,10/21/2017,D-II,Newberry,Limestone,PASSING,Nick,Jones,YDS,62
+17030079,10/21/2017,D-II,Newberry,Limestone,PASSING,Nick,Jones,TD,1
+17030080,10/21/2017,D-II,Newberry,Limestone,PASSING,Nick,Jones,LONG,58
+17030081,10/21/2017,D-II,Newberry,Limestone,PASSING,Sumner,Cooler,CP-ATT-INT,0-1-1
+17030082,10/21/2017,D-II,Newberry,Limestone,PASSING,Sumner,Cooler,YDS,0
+17030083,10/21/2017,D-II,Newberry,Limestone,PASSING,Sumner,Cooler,TD,0
+17030084,10/21/2017,D-II,Newberry,Limestone,PASSING,Sumner,Cooler,LONG,0
+17030085,10/21/2017,D-II,Newberry,Limestone,RECEIVING,Keinan,Lewis,REC,1
+17030086,10/21/2017,D-II,Newberry,Limestone,RECEIVING,Keinan,Lewis,YDS,66
+17030087,10/21/2017,D-II,Newberry,Limestone,RECEIVING,Keinan,Lewis,TD,1
+17030088,10/21/2017,D-II,Newberry,Limestone,RECEIVING,Keinan,Lewis,LONG,66
+17030089,10/21/2017,D-II,Newberry,Limestone,RECEIVING,Markell,Castle,REC,2
+17030090,10/21/2017,D-II,Newberry,Limestone,RECEIVING,Markell,Castle,YDS,50
+17030091,10/21/2017,D-II,Newberry,Limestone,RECEIVING,Markell,Castle,TD,1
+17030092,10/21/2017,D-II,Newberry,Limestone,RECEIVING,Markell,Castle,LONG,58
+17030093,10/21/2017,D-II,Newberry,Limestone,RECEIVING,Bobby,Irby,REC,1
+17030094,10/21/2017,D-II,Newberry,Limestone,RECEIVING,Bobby,Irby,YDS,21
+17030095,10/21/2017,D-II,Newberry,Limestone,RECEIVING,Bobby,Irby,TD,0
+17030096,10/21/2017,D-II,Newberry,Limestone,RECEIVING,Bobby,Irby,LONG,21
+17030097,10/21/2017,D-II,Newberry,Limestone,RECEIVING,Wesley,Jordan,REC,1
+17030098,10/21/2017,D-II,Newberry,Limestone,RECEIVING,Wesley,Jordan,YDS,7
+17030099,10/21/2017,D-II,Newberry,Limestone,RECEIVING,Wesley,Jordan,TD,0
+17030100,10/21/2017,D-II,Newberry,Limestone,RECEIVING,Wesley,Jordan,LONG,7
+17030101,10/21/2017,D-II,Newberry,Limestone,RECEIVING,B,Staggers,REC,1
+17030102,10/21/2017,D-II,Newberry,Limestone,RECEIVING,B,Staggers,YDS,5
+17030103,10/21/2017,D-II,Newberry,Limestone,RECEIVING,B,Staggers,TD,0
+17030104,10/21/2017,D-II,Newberry,Limestone,RECEIVING,B,Staggers,LONG,5
+17030105,10/21/2017,D-II,Newberry,Limestone,PUNTING,Shea,Rodgers,NO,6
+17030106,10/21/2017,D-II,Newberry,Limestone,PUNTING,Shea,Rodgers,YDS,254
+17030107,10/21/2017,D-II,Newberry,Limestone,PUNTING,Shea,Rodgers,AVG,42.3
+17030108,10/21/2017,D-II,Newberry,Limestone,PUNTING,Shea,Rodgers,LONG,69
+17030109,10/21/2017,D-II,Newberry,Limestone,PUNT RETURNS,Brentley,Allen,NO,3
+17030110,10/21/2017,D-II,Newberry,Limestone,PUNT RETURNS,Brentley,Allen,YDS,14
+17030111,10/21/2017,D-II,Newberry,Limestone,PUNT RETURNS,Brentley,Allen,AVG,4.7
+17030112,10/21/2017,D-II,Newberry,Limestone,PUNT RETURNS,Brentley,Allen,LONG,7
+17030113,10/21/2017,D-II,Newberry,Limestone,KICK RETURNS,David,Vereen,NO,2
+17030114,10/21/2017,D-II,Newberry,Limestone,KICK RETURNS,David,Vereen,YDS,37
+17030115,10/21/2017,D-II,Newberry,Limestone,KICK RETURNS,David,Vereen,AVG,18.5
+17030116,10/21/2017,D-II,Newberry,Limestone,KICK RETURNS,David,Vereen,LONG,23
+17030117,10/21/2017,D-II,Newberry,Limestone,KICK RETURNS,Chance,Walker,NO,1
+17030118,10/21/2017,D-II,Newberry,Limestone,KICK RETURNS,Chance,Walker,YDS,20
+17030119,10/21/2017,D-II,Newberry,Limestone,KICK RETURNS,Chance,Walker,AVG,20.0
+17030120,10/21/2017,D-II,Newberry,Limestone,KICK RETURNS,Chance,Walker,LONG,20
+17030121,10/21/2017,D-II,Newberry,Limestone,KICK RETURNS,R,Truesdale,NO,1
+17030122,10/21/2017,D-II,Newberry,Limestone,KICK RETURNS,R,Truesdale,YDS,20
+17030123,10/21/2017,D-II,Newberry,Limestone,KICK RETURNS,R,Truesdale,AVG,20.0
+17030124,10/21/2017,D-II,Newberry,Limestone,KICK RETURNS,R,Truesdale,LONG,20
+17030125,10/21/2017,D-II,Newberry,Limestone,KICK RETURNS,Austin,Gordon,NO,1
+17030126,10/21/2017,D-II,Newberry,Limestone,KICK RETURNS,Austin,Gordon,YDS,13
+17030127,10/21/2017,D-II,Newberry,Limestone,KICK RETURNS,Austin,Gordon,AVG,13.0
+17030128,10/21/2017,D-II,Newberry,Limestone,KICK RETURNS,Austin,Gordon,LONG,13

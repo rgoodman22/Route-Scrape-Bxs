@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+22679001,10/31/2015,D-III,Guilford,Catholic,RUSHING,De'eric,Bell,ATT,16
+22679002,10/31/2015,D-III,Guilford,Catholic,RUSHING,De'eric,Bell,YDS,74
+22679003,10/31/2015,D-III,Guilford,Catholic,RUSHING,De'eric,Bell,TD,0
+22679004,10/31/2015,D-III,Guilford,Catholic,RUSHING,De'eric,Bell,LONG,30
+22679005,10/31/2015,D-III,Guilford,Catholic,RUSHING,Matt,Pawlowski,ATT,7
+22679006,10/31/2015,D-III,Guilford,Catholic,RUSHING,Matt,Pawlowski,YDS,37
+22679007,10/31/2015,D-III,Guilford,Catholic,RUSHING,Matt,Pawlowski,TD,0
+22679008,10/31/2015,D-III,Guilford,Catholic,RUSHING,Matt,Pawlowski,LONG,16
+22679009,10/31/2015,D-III,Guilford,Catholic,RUSHING,Hunter,Causey,ATT,3
+22679010,10/31/2015,D-III,Guilford,Catholic,RUSHING,Hunter,Causey,YDS,6
+22679011,10/31/2015,D-III,Guilford,Catholic,RUSHING,Hunter,Causey,TD,0
+22679012,10/31/2015,D-III,Guilford,Catholic,RUSHING,Hunter,Causey,LONG,4
+22679013,10/31/2015,D-III,Guilford,Catholic,RUSHING,,Team,ATT,3
+22679014,10/31/2015,D-III,Guilford,Catholic,RUSHING,,Team,YDS,-3
+22679015,10/31/2015,D-III,Guilford,Catholic,RUSHING,,Team,TD,0
+22679016,10/31/2015,D-III,Guilford,Catholic,RUSHING,,Team,LONG,0
+22679017,10/31/2015,D-III,Guilford,Catholic,PASSING,Matt,Pawlowski,CP-ATT-INT,37-63-1
+22679018,10/31/2015,D-III,Guilford,Catholic,PASSING,Matt,Pawlowski,YDS,611
+22679019,10/31/2015,D-III,Guilford,Catholic,PASSING,Matt,Pawlowski,TD,7
+22679020,10/31/2015,D-III,Guilford,Catholic,PASSING,Matt,Pawlowski,LONG,72
+22679021,10/31/2015,D-III,Guilford,Catholic,PASSING,,Team,CP-ATT-INT,0-2-0
+22679022,10/31/2015,D-III,Guilford,Catholic,PASSING,,Team,YDS,0
+22679023,10/31/2015,D-III,Guilford,Catholic,PASSING,,Team,TD,0
+22679024,10/31/2015,D-III,Guilford,Catholic,PASSING,,Team,LONG,0
+22679025,10/31/2015,D-III,Guilford,Catholic,RECEIVING,C,Christopher,REC,8
+22679026,10/31/2015,D-III,Guilford,Catholic,RECEIVING,C,Christopher,YDS,147
+22679027,10/31/2015,D-III,Guilford,Catholic,RECEIVING,C,Christopher,TD,2
+22679028,10/31/2015,D-III,Guilford,Catholic,RECEIVING,C,Christopher,LONG,33
+22679029,10/31/2015,D-III,Guilford,Catholic,RECEIVING,Adam,Smith,REC,12
+22679030,10/31/2015,D-III,Guilford,Catholic,RECEIVING,Adam,Smith,YDS,142
+22679031,10/31/2015,D-III,Guilford,Catholic,RECEIVING,Adam,Smith,TD,3
+22679032,10/31/2015,D-III,Guilford,Catholic,RECEIVING,Adam,Smith,LONG,22
+22679033,10/31/2015,D-III,Guilford,Catholic,RECEIVING,Austen,Thompson,REC,6
+22679034,10/31/2015,D-III,Guilford,Catholic,RECEIVING,Austen,Thompson,YDS,118
+22679035,10/31/2015,D-III,Guilford,Catholic,RECEIVING,Austen,Thompson,TD,1
+22679036,10/31/2015,D-III,Guilford,Catholic,RECEIVING,Austen,Thompson,LONG,66
+22679037,10/31/2015,D-III,Guilford,Catholic,RECEIVING,Daniel,Woodruff,REC,4
+22679038,10/31/2015,D-III,Guilford,Catholic,RECEIVING,Daniel,Woodruff,YDS,87
+22679039,10/31/2015,D-III,Guilford,Catholic,RECEIVING,Daniel,Woodruff,TD,1
+22679040,10/31/2015,D-III,Guilford,Catholic,RECEIVING,Daniel,Woodruff,LONG,41
+22679041,10/31/2015,D-III,Guilford,Catholic,RECEIVING,De'eric,Bell,REC,3
+22679042,10/31/2015,D-III,Guilford,Catholic,RECEIVING,De'eric,Bell,YDS,76
+22679043,10/31/2015,D-III,Guilford,Catholic,RECEIVING,De'eric,Bell,TD,0
+22679044,10/31/2015,D-III,Guilford,Catholic,RECEIVING,De'eric,Bell,LONG,72
+22679045,10/31/2015,D-III,Guilford,Catholic,RECEIVING,R,Miller,REC,2
+22679046,10/31/2015,D-III,Guilford,Catholic,RECEIVING,R,Miller,YDS,28
+22679047,10/31/2015,D-III,Guilford,Catholic,RECEIVING,R,Miller,TD,0
+22679048,10/31/2015,D-III,Guilford,Catholic,RECEIVING,R,Miller,LONG,22
+22679049,10/31/2015,D-III,Guilford,Catholic,RECEIVING,Hayden,Read,REC,2
+22679050,10/31/2015,D-III,Guilford,Catholic,RECEIVING,Hayden,Read,YDS,13
+22679051,10/31/2015,D-III,Guilford,Catholic,RECEIVING,Hayden,Read,TD,0
+22679052,10/31/2015,D-III,Guilford,Catholic,RECEIVING,Hayden,Read,LONG,7
+22679053,10/31/2015,D-III,Guilford,Catholic,PUNTING,Tyler,Hunt,NO,1
+22679054,10/31/2015,D-III,Guilford,Catholic,PUNTING,Tyler,Hunt,YDS,44
+22679055,10/31/2015,D-III,Guilford,Catholic,PUNTING,Tyler,Hunt,AVG,44.0
+22679056,10/31/2015,D-III,Guilford,Catholic,PUNTING,Tyler,Hunt,LONG,44
+22679057,10/31/2015,D-III,Guilford,Catholic,PUNT RETURNS,De'eric,Bell,NO,1
+22679058,10/31/2015,D-III,Guilford,Catholic,PUNT RETURNS,De'eric,Bell,YDS,2
+22679059,10/31/2015,D-III,Guilford,Catholic,PUNT RETURNS,De'eric,Bell,AVG,2.0
+22679060,10/31/2015,D-III,Guilford,Catholic,PUNT RETURNS,De'eric,Bell,LONG,2
+22679061,10/31/2015,D-III,Guilford,Catholic,KICK RETURNS,De'eric,Bell,NO,4
+22679062,10/31/2015,D-III,Guilford,Catholic,KICK RETURNS,De'eric,Bell,YDS,88
+22679063,10/31/2015,D-III,Guilford,Catholic,KICK RETURNS,De'eric,Bell,AVG,22.0
+22679064,10/31/2015,D-III,Guilford,Catholic,KICK RETURNS,De'eric,Bell,LONG,30
+22679065,10/31/2015,D-III,Guilford,Catholic,KICK RETURNS,C,Christopher,NO,2
+22679066,10/31/2015,D-III,Guilford,Catholic,KICK RETURNS,C,Christopher,YDS,21
+22679067,10/31/2015,D-III,Guilford,Catholic,KICK RETURNS,C,Christopher,AVG,10.5
+22679068,10/31/2015,D-III,Guilford,Catholic,KICK RETURNS,C,Christopher,LONG,21
+22679069,10/31/2015,D-III,Catholic,Guilford,RUSHING,Tj,Tutone,ATT,14
+22679070,10/31/2015,D-III,Catholic,Guilford,RUSHING,Tj,Tutone,YDS,59
+22679071,10/31/2015,D-III,Catholic,Guilford,RUSHING,Tj,Tutone,TD,1
+22679072,10/31/2015,D-III,Catholic,Guilford,RUSHING,Tj,Tutone,LONG,23
+22679073,10/31/2015,D-III,Catholic,Guilford,RUSHING,Nick,Esposito,ATT,5
+22679074,10/31/2015,D-III,Catholic,Guilford,RUSHING,Nick,Esposito,YDS,37
+22679075,10/31/2015,D-III,Catholic,Guilford,RUSHING,Nick,Esposito,TD,1
+22679076,10/31/2015,D-III,Catholic,Guilford,RUSHING,Nick,Esposito,LONG,22
+22679077,10/31/2015,D-III,Catholic,Guilford,RUSHING,Matt,Perno,ATT,6
+22679078,10/31/2015,D-III,Catholic,Guilford,RUSHING,Matt,Perno,YDS,23
+22679079,10/31/2015,D-III,Catholic,Guilford,RUSHING,Matt,Perno,TD,0
+22679080,10/31/2015,D-III,Catholic,Guilford,RUSHING,Matt,Perno,LONG,13
+22679081,10/31/2015,D-III,Catholic,Guilford,PASSING,Tj,Tutone,CP-ATT-INT,39-56-0
+22679082,10/31/2015,D-III,Catholic,Guilford,PASSING,Tj,Tutone,YDS,394
+22679083,10/31/2015,D-III,Catholic,Guilford,PASSING,Tj,Tutone,TD,5
+22679084,10/31/2015,D-III,Catholic,Guilford,PASSING,Tj,Tutone,LONG,33
+22679085,10/31/2015,D-III,Catholic,Guilford,RECEIVING,Lucas,Morley,REC,11
+22679086,10/31/2015,D-III,Catholic,Guilford,RECEIVING,Lucas,Morley,YDS,98
+22679087,10/31/2015,D-III,Catholic,Guilford,RECEIVING,Lucas,Morley,TD,2
+22679088,10/31/2015,D-III,Catholic,Guilford,RECEIVING,Lucas,Morley,LONG,20
+22679089,10/31/2015,D-III,Catholic,Guilford,RECEIVING,Billy,Smith,REC,4
+22679090,10/31/2015,D-III,Catholic,Guilford,RECEIVING,Billy,Smith,YDS,76
+22679091,10/31/2015,D-III,Catholic,Guilford,RECEIVING,Billy,Smith,TD,3
+22679092,10/31/2015,D-III,Catholic,Guilford,RECEIVING,Billy,Smith,LONG,33
+22679093,10/31/2015,D-III,Catholic,Guilford,RECEIVING,Nick,Esposito,REC,5
+22679094,10/31/2015,D-III,Catholic,Guilford,RECEIVING,Nick,Esposito,YDS,72
+22679095,10/31/2015,D-III,Catholic,Guilford,RECEIVING,Nick,Esposito,TD,0
+22679096,10/31/2015,D-III,Catholic,Guilford,RECEIVING,Nick,Esposito,LONG,19
+22679097,10/31/2015,D-III,Catholic,Guilford,RECEIVING,Billy,Conroy,REC,7
+22679098,10/31/2015,D-III,Catholic,Guilford,RECEIVING,Billy,Conroy,YDS,51
+22679099,10/31/2015,D-III,Catholic,Guilford,RECEIVING,Billy,Conroy,TD,0
+22679100,10/31/2015,D-III,Catholic,Guilford,RECEIVING,Billy,Conroy,LONG,22
+22679101,10/31/2015,D-III,Catholic,Guilford,RECEIVING,Jamie,Young,REC,3
+22679102,10/31/2015,D-III,Catholic,Guilford,RECEIVING,Jamie,Young,YDS,38
+22679103,10/31/2015,D-III,Catholic,Guilford,RECEIVING,Jamie,Young,TD,0
+22679104,10/31/2015,D-III,Catholic,Guilford,RECEIVING,Jamie,Young,LONG,16
+22679105,10/31/2015,D-III,Catholic,Guilford,RECEIVING,Matt,Perno,REC,4
+22679106,10/31/2015,D-III,Catholic,Guilford,RECEIVING,Matt,Perno,YDS,20
+22679107,10/31/2015,D-III,Catholic,Guilford,RECEIVING,Matt,Perno,TD,0
+22679108,10/31/2015,D-III,Catholic,Guilford,RECEIVING,Matt,Perno,LONG,9
+22679109,10/31/2015,D-III,Catholic,Guilford,RECEIVING,Joe,taylorIii,REC,2
+22679110,10/31/2015,D-III,Catholic,Guilford,RECEIVING,Joe,taylorIii,YDS,19
+22679111,10/31/2015,D-III,Catholic,Guilford,RECEIVING,Joe,taylorIii,TD,0
+22679112,10/31/2015,D-III,Catholic,Guilford,RECEIVING,Joe,taylorIii,LONG,12
+22679113,10/31/2015,D-III,Catholic,Guilford,RECEIVING,Tim,Murphy,REC,1
+22679114,10/31/2015,D-III,Catholic,Guilford,RECEIVING,Tim,Murphy,YDS,9
+22679115,10/31/2015,D-III,Catholic,Guilford,RECEIVING,Tim,Murphy,TD,0
+22679116,10/31/2015,D-III,Catholic,Guilford,RECEIVING,Tim,Murphy,LONG,9
+22679117,10/31/2015,D-III,Catholic,Guilford,RECEIVING,V,Fernandez,REC,1
+22679118,10/31/2015,D-III,Catholic,Guilford,RECEIVING,V,Fernandez,YDS,9
+22679119,10/31/2015,D-III,Catholic,Guilford,RECEIVING,V,Fernandez,TD,0
+22679120,10/31/2015,D-III,Catholic,Guilford,RECEIVING,V,Fernandez,LONG,9
+22679121,10/31/2015,D-III,Catholic,Guilford,RECEIVING,Jeremy,Mcgriff,REC,1
+22679122,10/31/2015,D-III,Catholic,Guilford,RECEIVING,Jeremy,Mcgriff,YDS,2
+22679123,10/31/2015,D-III,Catholic,Guilford,RECEIVING,Jeremy,Mcgriff,TD,0
+22679124,10/31/2015,D-III,Catholic,Guilford,RECEIVING,Jeremy,Mcgriff,LONG,2
+22679125,10/31/2015,D-III,Catholic,Guilford,PUNTING,Matt,Longfellow,NO,5
+22679126,10/31/2015,D-III,Catholic,Guilford,PUNTING,Matt,Longfellow,YDS,190
+22679127,10/31/2015,D-III,Catholic,Guilford,PUNTING,Matt,Longfellow,AVG,38.0
+22679128,10/31/2015,D-III,Catholic,Guilford,PUNTING,Matt,Longfellow,LONG,51
+22679129,10/31/2015,D-III,Catholic,Guilford,KICK RETURNS,Billy,Conroy,NO,5
+22679130,10/31/2015,D-III,Catholic,Guilford,KICK RETURNS,Billy,Conroy,YDS,119
+22679131,10/31/2015,D-III,Catholic,Guilford,KICK RETURNS,Billy,Conroy,AVG,23.8
+22679132,10/31/2015,D-III,Catholic,Guilford,KICK RETURNS,Billy,Conroy,LONG,37
+22679133,10/31/2015,D-III,Catholic,Guilford,KICK RETURNS,Brayden,Massie,NO,3
+22679134,10/31/2015,D-III,Catholic,Guilford,KICK RETURNS,Brayden,Massie,YDS,23
+22679135,10/31/2015,D-III,Catholic,Guilford,KICK RETURNS,Brayden,Massie,AVG,7.7
+22679136,10/31/2015,D-III,Catholic,Guilford,KICK RETURNS,Brayden,Massie,LONG,20

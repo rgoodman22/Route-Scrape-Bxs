@@ -1,0 +1,141 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+21789001,9/3/2015,D-III,Anna Maria,Coast Guard,RUSHING,Chris,Bettano,ATT,22
+21789002,9/3/2015,D-III,Anna Maria,Coast Guard,RUSHING,Chris,Bettano,YDS,76
+21789003,9/3/2015,D-III,Anna Maria,Coast Guard,RUSHING,Chris,Bettano,TD,0
+21789004,9/3/2015,D-III,Anna Maria,Coast Guard,RUSHING,Chris,Bettano,LONG,15
+21789005,9/3/2015,D-III,Anna Maria,Coast Guard,RUSHING,St,clairRyan,ATT,10
+21789006,9/3/2015,D-III,Anna Maria,Coast Guard,RUSHING,St,clairRyan,YDS,43
+21789007,9/3/2015,D-III,Anna Maria,Coast Guard,RUSHING,St,clairRyan,TD,0
+21789008,9/3/2015,D-III,Anna Maria,Coast Guard,RUSHING,St,clairRyan,LONG,6
+21789009,9/3/2015,D-III,Anna Maria,Coast Guard,RUSHING,Daniel,Faison,ATT,6
+21789010,9/3/2015,D-III,Anna Maria,Coast Guard,RUSHING,Daniel,Faison,YDS,29
+21789011,9/3/2015,D-III,Anna Maria,Coast Guard,RUSHING,Daniel,Faison,TD,0
+21789012,9/3/2015,D-III,Anna Maria,Coast Guard,RUSHING,Daniel,Faison,LONG,17
+21789013,9/3/2015,D-III,Anna Maria,Coast Guard,RUSHING,Jacoby,Brown,ATT,5
+21789014,9/3/2015,D-III,Anna Maria,Coast Guard,RUSHING,Jacoby,Brown,YDS,29
+21789015,9/3/2015,D-III,Anna Maria,Coast Guard,RUSHING,Jacoby,Brown,TD,0
+21789016,9/3/2015,D-III,Anna Maria,Coast Guard,RUSHING,Jacoby,Brown,LONG,19
+21789017,9/3/2015,D-III,Anna Maria,Coast Guard,RUSHING,Austin,Paygai,ATT,1
+21789018,9/3/2015,D-III,Anna Maria,Coast Guard,RUSHING,Austin,Paygai,YDS,1
+21789019,9/3/2015,D-III,Anna Maria,Coast Guard,RUSHING,Austin,Paygai,TD,0
+21789020,9/3/2015,D-III,Anna Maria,Coast Guard,RUSHING,Austin,Paygai,LONG,1
+21789021,9/3/2015,D-III,Anna Maria,Coast Guard,RUSHING,,Team,ATT,1
+21789022,9/3/2015,D-III,Anna Maria,Coast Guard,RUSHING,,Team,YDS,-2
+21789023,9/3/2015,D-III,Anna Maria,Coast Guard,RUSHING,,Team,TD,0
+21789024,9/3/2015,D-III,Anna Maria,Coast Guard,RUSHING,,Team,LONG,0
+21789025,9/3/2015,D-III,Anna Maria,Coast Guard,PASSING,Daniel,Faison,CP-ATT-INT,5-13-1
+21789026,9/3/2015,D-III,Anna Maria,Coast Guard,PASSING,Daniel,Faison,YDS,130
+21789027,9/3/2015,D-III,Anna Maria,Coast Guard,PASSING,Daniel,Faison,TD,0
+21789028,9/3/2015,D-III,Anna Maria,Coast Guard,PASSING,Daniel,Faison,LONG,46
+21789029,9/3/2015,D-III,Anna Maria,Coast Guard,RECEIVING,Trai,Weaver,REC,3
+21789030,9/3/2015,D-III,Anna Maria,Coast Guard,RECEIVING,Trai,Weaver,YDS,103
+21789031,9/3/2015,D-III,Anna Maria,Coast Guard,RECEIVING,Trai,Weaver,TD,0
+21789032,9/3/2015,D-III,Anna Maria,Coast Guard,RECEIVING,Trai,Weaver,LONG,46
+21789033,9/3/2015,D-III,Anna Maria,Coast Guard,RECEIVING,Manuel,Suarez,REC,1
+21789034,9/3/2015,D-III,Anna Maria,Coast Guard,RECEIVING,Manuel,Suarez,YDS,20
+21789035,9/3/2015,D-III,Anna Maria,Coast Guard,RECEIVING,Manuel,Suarez,TD,0
+21789036,9/3/2015,D-III,Anna Maria,Coast Guard,RECEIVING,Manuel,Suarez,LONG,20
+21789037,9/3/2015,D-III,Anna Maria,Coast Guard,RECEIVING,William,Ricard,REC,1
+21789038,9/3/2015,D-III,Anna Maria,Coast Guard,RECEIVING,William,Ricard,YDS,7
+21789039,9/3/2015,D-III,Anna Maria,Coast Guard,RECEIVING,William,Ricard,TD,0
+21789040,9/3/2015,D-III,Anna Maria,Coast Guard,RECEIVING,William,Ricard,LONG,7
+21789041,9/3/2015,D-III,Anna Maria,Coast Guard,PUNTING,S,Marziale,NO,6
+21789042,9/3/2015,D-III,Anna Maria,Coast Guard,PUNTING,S,Marziale,YDS,215
+21789043,9/3/2015,D-III,Anna Maria,Coast Guard,PUNTING,S,Marziale,AVG,35.8
+21789044,9/3/2015,D-III,Anna Maria,Coast Guard,PUNTING,S,Marziale,LONG,40
+21789045,9/3/2015,D-III,Anna Maria,Coast Guard,PUNT RETURNS,Joe,D'onofrio,NO,1
+21789046,9/3/2015,D-III,Anna Maria,Coast Guard,PUNT RETURNS,Joe,D'onofrio,YDS,13
+21789047,9/3/2015,D-III,Anna Maria,Coast Guard,PUNT RETURNS,Joe,D'onofrio,AVG,13.0
+21789048,9/3/2015,D-III,Anna Maria,Coast Guard,PUNT RETURNS,Joe,D'onofrio,LONG,13
+21789049,9/3/2015,D-III,Anna Maria,Coast Guard,PUNT RETURNS,Trai,Weaver,NO,2
+21789050,9/3/2015,D-III,Anna Maria,Coast Guard,PUNT RETURNS,Trai,Weaver,YDS,26
+21789051,9/3/2015,D-III,Anna Maria,Coast Guard,PUNT RETURNS,Trai,Weaver,AVG,13.0
+21789052,9/3/2015,D-III,Anna Maria,Coast Guard,PUNT RETURNS,Trai,Weaver,LONG,18
+21789053,9/3/2015,D-III,Anna Maria,Coast Guard,KICK RETURNS,Joe,D'onofrio,NO,2
+21789054,9/3/2015,D-III,Anna Maria,Coast Guard,KICK RETURNS,Joe,D'onofrio,YDS,47
+21789055,9/3/2015,D-III,Anna Maria,Coast Guard,KICK RETURNS,Joe,D'onofrio,AVG,23.5
+21789056,9/3/2015,D-III,Anna Maria,Coast Guard,KICK RETURNS,Joe,D'onofrio,LONG,28
+21789057,9/3/2015,D-III,Anna Maria,Coast Guard,KICK RETURNS,Austin,Paygai,NO,2
+21789058,9/3/2015,D-III,Anna Maria,Coast Guard,KICK RETURNS,Austin,Paygai,YDS,22
+21789059,9/3/2015,D-III,Anna Maria,Coast Guard,KICK RETURNS,Austin,Paygai,AVG,11.0
+21789060,9/3/2015,D-III,Anna Maria,Coast Guard,KICK RETURNS,Austin,Paygai,LONG,15
+21789061,9/3/2015,D-III,Coast Guard,Anna Maria,RUSHING,Mike,Clancy,ATT,14
+21789062,9/3/2015,D-III,Coast Guard,Anna Maria,RUSHING,Mike,Clancy,YDS,106
+21789063,9/3/2015,D-III,Coast Guard,Anna Maria,RUSHING,Mike,Clancy,TD,2
+21789064,9/3/2015,D-III,Coast Guard,Anna Maria,RUSHING,Mike,Clancy,LONG,37
+21789065,9/3/2015,D-III,Coast Guard,Anna Maria,RUSHING,Derek,Victory,ATT,4
+21789066,9/3/2015,D-III,Coast Guard,Anna Maria,RUSHING,Derek,Victory,YDS,18
+21789067,9/3/2015,D-III,Coast Guard,Anna Maria,RUSHING,Derek,Victory,TD,0
+21789068,9/3/2015,D-III,Coast Guard,Anna Maria,RUSHING,Derek,Victory,LONG,15
+21789069,9/3/2015,D-III,Coast Guard,Anna Maria,RUSHING,Jordan,Groff,ATT,1
+21789070,9/3/2015,D-III,Coast Guard,Anna Maria,RUSHING,Jordan,Groff,YDS,15
+21789071,9/3/2015,D-III,Coast Guard,Anna Maria,RUSHING,Jordan,Groff,TD,0
+21789072,9/3/2015,D-III,Coast Guard,Anna Maria,RUSHING,Jordan,Groff,LONG,15
+21789073,9/3/2015,D-III,Coast Guard,Anna Maria,RUSHING,Camden,Cecchini,ATT,8
+21789074,9/3/2015,D-III,Coast Guard,Anna Maria,RUSHING,Camden,Cecchini,YDS,10
+21789075,9/3/2015,D-III,Coast Guard,Anna Maria,RUSHING,Camden,Cecchini,TD,2
+21789076,9/3/2015,D-III,Coast Guard,Anna Maria,RUSHING,Camden,Cecchini,LONG,5
+21789077,9/3/2015,D-III,Coast Guard,Anna Maria,RUSHING,Jeff,Porter,ATT,2
+21789078,9/3/2015,D-III,Coast Guard,Anna Maria,RUSHING,Jeff,Porter,YDS,6
+21789079,9/3/2015,D-III,Coast Guard,Anna Maria,RUSHING,Jeff,Porter,TD,0
+21789080,9/3/2015,D-III,Coast Guard,Anna Maria,RUSHING,Jeff,Porter,LONG,3
+21789081,9/3/2015,D-III,Coast Guard,Anna Maria,RUSHING,,Team,ATT,1
+21789082,9/3/2015,D-III,Coast Guard,Anna Maria,RUSHING,,Team,YDS,-1
+21789083,9/3/2015,D-III,Coast Guard,Anna Maria,RUSHING,,Team,TD,0
+21789084,9/3/2015,D-III,Coast Guard,Anna Maria,RUSHING,,Team,LONG,0
+21789085,9/3/2015,D-III,Coast Guard,Anna Maria,PASSING,Derek,Victory,CP-ATT-INT,13-20-0
+21789086,9/3/2015,D-III,Coast Guard,Anna Maria,PASSING,Derek,Victory,YDS,148
+21789087,9/3/2015,D-III,Coast Guard,Anna Maria,PASSING,Derek,Victory,TD,1
+21789088,9/3/2015,D-III,Coast Guard,Anna Maria,PASSING,Derek,Victory,LONG,39
+21789089,9/3/2015,D-III,Coast Guard,Anna Maria,PASSING,Adam,David,CP-ATT-INT,1-2-0
+21789090,9/3/2015,D-III,Coast Guard,Anna Maria,PASSING,Adam,David,YDS,0
+21789091,9/3/2015,D-III,Coast Guard,Anna Maria,PASSING,Adam,David,TD,0
+21789092,9/3/2015,D-III,Coast Guard,Anna Maria,PASSING,Adam,David,LONG,0
+21789093,9/3/2015,D-III,Coast Guard,Anna Maria,RECEIVING,Carter,Provost,REC,3
+21789094,9/3/2015,D-III,Coast Guard,Anna Maria,RECEIVING,Carter,Provost,YDS,81
+21789095,9/3/2015,D-III,Coast Guard,Anna Maria,RECEIVING,Carter,Provost,TD,0
+21789096,9/3/2015,D-III,Coast Guard,Anna Maria,RECEIVING,Carter,Provost,LONG,39
+21789097,9/3/2015,D-III,Coast Guard,Anna Maria,RECEIVING,Kyle,Jackson,REC,2
+21789098,9/3/2015,D-III,Coast Guard,Anna Maria,RECEIVING,Kyle,Jackson,YDS,33
+21789099,9/3/2015,D-III,Coast Guard,Anna Maria,RECEIVING,Kyle,Jackson,TD,1
+21789100,9/3/2015,D-III,Coast Guard,Anna Maria,RECEIVING,Kyle,Jackson,LONG,30
+21789101,9/3/2015,D-III,Coast Guard,Anna Maria,RECEIVING,Mike,Clancy,REC,2
+21789102,9/3/2015,D-III,Coast Guard,Anna Maria,RECEIVING,Mike,Clancy,YDS,15
+21789103,9/3/2015,D-III,Coast Guard,Anna Maria,RECEIVING,Mike,Clancy,TD,0
+21789104,9/3/2015,D-III,Coast Guard,Anna Maria,RECEIVING,Mike,Clancy,LONG,9
+21789105,9/3/2015,D-III,Coast Guard,Anna Maria,RECEIVING,Jordan,Groff,REC,2
+21789106,9/3/2015,D-III,Coast Guard,Anna Maria,RECEIVING,Jordan,Groff,YDS,11
+21789107,9/3/2015,D-III,Coast Guard,Anna Maria,RECEIVING,Jordan,Groff,TD,0
+21789108,9/3/2015,D-III,Coast Guard,Anna Maria,RECEIVING,Jordan,Groff,LONG,6
+21789109,9/3/2015,D-III,Coast Guard,Anna Maria,RECEIVING,Mitch,Holloway,REC,2
+21789110,9/3/2015,D-III,Coast Guard,Anna Maria,RECEIVING,Mitch,Holloway,YDS,6
+21789111,9/3/2015,D-III,Coast Guard,Anna Maria,RECEIVING,Mitch,Holloway,TD,0
+21789112,9/3/2015,D-III,Coast Guard,Anna Maria,RECEIVING,Mitch,Holloway,LONG,3
+21789113,9/3/2015,D-III,Coast Guard,Anna Maria,RECEIVING,Camden,Cecchini,REC,2
+21789114,9/3/2015,D-III,Coast Guard,Anna Maria,RECEIVING,Camden,Cecchini,YDS,2
+21789115,9/3/2015,D-III,Coast Guard,Anna Maria,RECEIVING,Camden,Cecchini,TD,0
+21789116,9/3/2015,D-III,Coast Guard,Anna Maria,RECEIVING,Camden,Cecchini,LONG,8
+21789117,9/3/2015,D-III,Coast Guard,Anna Maria,RECEIVING,Colin,Cashin,REC,1
+21789118,9/3/2015,D-III,Coast Guard,Anna Maria,RECEIVING,Colin,Cashin,YDS,0
+21789119,9/3/2015,D-III,Coast Guard,Anna Maria,RECEIVING,Colin,Cashin,TD,0
+21789120,9/3/2015,D-III,Coast Guard,Anna Maria,RECEIVING,Colin,Cashin,LONG,0
+21789121,9/3/2015,D-III,Coast Guard,Anna Maria,PUNTING,Tyler,Henning,NO,5
+21789122,9/3/2015,D-III,Coast Guard,Anna Maria,PUNTING,Tyler,Henning,YDS,225
+21789123,9/3/2015,D-III,Coast Guard,Anna Maria,PUNTING,Tyler,Henning,AVG,45.0
+21789124,9/3/2015,D-III,Coast Guard,Anna Maria,PUNTING,Tyler,Henning,LONG,53
+21789125,9/3/2015,D-III,Coast Guard,Anna Maria,PUNT RETURNS,Mark,Behne,NO,2
+21789126,9/3/2015,D-III,Coast Guard,Anna Maria,PUNT RETURNS,Mark,Behne,YDS,21
+21789127,9/3/2015,D-III,Coast Guard,Anna Maria,PUNT RETURNS,Mark,Behne,AVG,10.5
+21789128,9/3/2015,D-III,Coast Guard,Anna Maria,PUNT RETURNS,Mark,Behne,LONG,13
+21789129,9/3/2015,D-III,Coast Guard,Anna Maria,PUNT RETURNS,Kyle,Jackson,NO,1
+21789130,9/3/2015,D-III,Coast Guard,Anna Maria,PUNT RETURNS,Kyle,Jackson,YDS,25
+21789131,9/3/2015,D-III,Coast Guard,Anna Maria,PUNT RETURNS,Kyle,Jackson,AVG,25.0
+21789132,9/3/2015,D-III,Coast Guard,Anna Maria,PUNT RETURNS,Kyle,Jackson,LONG,25
+21789133,9/3/2015,D-III,Coast Guard,Anna Maria,KICK RETURNS,Jacob,Pawlina,NO,2
+21789134,9/3/2015,D-III,Coast Guard,Anna Maria,KICK RETURNS,Jacob,Pawlina,YDS,39
+21789135,9/3/2015,D-III,Coast Guard,Anna Maria,KICK RETURNS,Jacob,Pawlina,AVG,19.5
+21789136,9/3/2015,D-III,Coast Guard,Anna Maria,KICK RETURNS,Jacob,Pawlina,LONG,20
+21789137,9/3/2015,D-III,Coast Guard,Anna Maria,KICK RETURNS,Will,Daniels,NO,1
+21789138,9/3/2015,D-III,Coast Guard,Anna Maria,KICK RETURNS,Will,Daniels,YDS,53
+21789139,9/3/2015,D-III,Coast Guard,Anna Maria,KICK RETURNS,Will,Daniels,AVG,53.0
+21789140,9/3/2015,D-III,Coast Guard,Anna Maria,KICK RETURNS,Will,Daniels,LONG,53

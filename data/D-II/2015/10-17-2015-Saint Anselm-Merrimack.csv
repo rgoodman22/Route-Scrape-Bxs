@@ -1,0 +1,113 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+15051001,10/17/2015,D-II,Saint Anselm,Merrimack,RUSHING,Elad,Covaliu,ATT,21
+15051002,10/17/2015,D-II,Saint Anselm,Merrimack,RUSHING,Elad,Covaliu,YDS,146
+15051003,10/17/2015,D-II,Saint Anselm,Merrimack,RUSHING,Elad,Covaliu,TD,0
+15051004,10/17/2015,D-II,Saint Anselm,Merrimack,RUSHING,Elad,Covaliu,LONG,46
+15051005,10/17/2015,D-II,Saint Anselm,Merrimack,RUSHING,E,Fairweather,ATT,14
+15051006,10/17/2015,D-II,Saint Anselm,Merrimack,RUSHING,E,Fairweather,YDS,81
+15051007,10/17/2015,D-II,Saint Anselm,Merrimack,RUSHING,E,Fairweather,TD,1
+15051008,10/17/2015,D-II,Saint Anselm,Merrimack,RUSHING,E,Fairweather,LONG,61
+15051009,10/17/2015,D-II,Saint Anselm,Merrimack,RUSHING,Correy,King,ATT,3
+15051010,10/17/2015,D-II,Saint Anselm,Merrimack,RUSHING,Correy,King,YDS,13
+15051011,10/17/2015,D-II,Saint Anselm,Merrimack,RUSHING,Correy,King,TD,0
+15051012,10/17/2015,D-II,Saint Anselm,Merrimack,RUSHING,Correy,King,LONG,12
+15051013,10/17/2015,D-II,Saint Anselm,Merrimack,RUSHING,,Team,ATT,1
+15051014,10/17/2015,D-II,Saint Anselm,Merrimack,RUSHING,,Team,YDS,-5
+15051015,10/17/2015,D-II,Saint Anselm,Merrimack,RUSHING,,Team,TD,0
+15051016,10/17/2015,D-II,Saint Anselm,Merrimack,RUSHING,,Team,LONG,0
+15051017,10/17/2015,D-II,Saint Anselm,Merrimack,RUSHING,Joe,Hayman,ATT,6
+15051018,10/17/2015,D-II,Saint Anselm,Merrimack,RUSHING,Joe,Hayman,YDS,-6
+15051019,10/17/2015,D-II,Saint Anselm,Merrimack,RUSHING,Joe,Hayman,TD,0
+15051020,10/17/2015,D-II,Saint Anselm,Merrimack,RUSHING,Joe,Hayman,LONG,8
+15051021,10/17/2015,D-II,Saint Anselm,Merrimack,PASSING,E,Fairweather,CP-ATT-INT,8-15-1
+15051022,10/17/2015,D-II,Saint Anselm,Merrimack,PASSING,E,Fairweather,YDS,42
+15051023,10/17/2015,D-II,Saint Anselm,Merrimack,PASSING,E,Fairweather,TD,1
+15051024,10/17/2015,D-II,Saint Anselm,Merrimack,PASSING,E,Fairweather,LONG,9
+15051025,10/17/2015,D-II,Saint Anselm,Merrimack,RECEIVING,Zach,Bartak,REC,2
+15051026,10/17/2015,D-II,Saint Anselm,Merrimack,RECEIVING,Zach,Bartak,YDS,16
+15051027,10/17/2015,D-II,Saint Anselm,Merrimack,RECEIVING,Zach,Bartak,TD,1
+15051028,10/17/2015,D-II,Saint Anselm,Merrimack,RECEIVING,Zach,Bartak,LONG,9
+15051029,10/17/2015,D-II,Saint Anselm,Merrimack,RECEIVING,Kyle,Hill,REC,2
+15051030,10/17/2015,D-II,Saint Anselm,Merrimack,RECEIVING,Kyle,Hill,YDS,15
+15051031,10/17/2015,D-II,Saint Anselm,Merrimack,RECEIVING,Kyle,Hill,TD,0
+15051032,10/17/2015,D-II,Saint Anselm,Merrimack,RECEIVING,Kyle,Hill,LONG,8
+15051033,10/17/2015,D-II,Saint Anselm,Merrimack,RECEIVING,Brandon,Sharp,REC,1
+15051034,10/17/2015,D-II,Saint Anselm,Merrimack,RECEIVING,Brandon,Sharp,YDS,5
+15051035,10/17/2015,D-II,Saint Anselm,Merrimack,RECEIVING,Brandon,Sharp,TD,0
+15051036,10/17/2015,D-II,Saint Anselm,Merrimack,RECEIVING,Brandon,Sharp,LONG,5
+15051037,10/17/2015,D-II,Saint Anselm,Merrimack,RECEIVING,Ryan,Monette,REC,2
+15051038,10/17/2015,D-II,Saint Anselm,Merrimack,RECEIVING,Ryan,Monette,YDS,3
+15051039,10/17/2015,D-II,Saint Anselm,Merrimack,RECEIVING,Ryan,Monette,TD,0
+15051040,10/17/2015,D-II,Saint Anselm,Merrimack,RECEIVING,Ryan,Monette,LONG,6
+15051041,10/17/2015,D-II,Saint Anselm,Merrimack,RECEIVING,Mike,Lombard,REC,1
+15051042,10/17/2015,D-II,Saint Anselm,Merrimack,RECEIVING,Mike,Lombard,YDS,3
+15051043,10/17/2015,D-II,Saint Anselm,Merrimack,RECEIVING,Mike,Lombard,TD,0
+15051044,10/17/2015,D-II,Saint Anselm,Merrimack,RECEIVING,Mike,Lombard,LONG,3
+15051045,10/17/2015,D-II,Saint Anselm,Merrimack,PUNTING,Shane,Grayson,NO,5
+15051046,10/17/2015,D-II,Saint Anselm,Merrimack,PUNTING,Shane,Grayson,YDS,181
+15051047,10/17/2015,D-II,Saint Anselm,Merrimack,PUNTING,Shane,Grayson,AVG,36.2
+15051048,10/17/2015,D-II,Saint Anselm,Merrimack,PUNTING,Shane,Grayson,LONG,61
+15051049,10/17/2015,D-II,Saint Anselm,Merrimack,PUNT RETURNS,Ryan,Monette,NO,1
+15051050,10/17/2015,D-II,Saint Anselm,Merrimack,PUNT RETURNS,Ryan,Monette,YDS,6
+15051051,10/17/2015,D-II,Saint Anselm,Merrimack,PUNT RETURNS,Ryan,Monette,AVG,6.0
+15051052,10/17/2015,D-II,Saint Anselm,Merrimack,PUNT RETURNS,Ryan,Monette,LONG,6
+15051053,10/17/2015,D-II,Saint Anselm,Merrimack,KICK RETURNS,Elad,Covaliu,NO,3
+15051054,10/17/2015,D-II,Saint Anselm,Merrimack,KICK RETURNS,Elad,Covaliu,YDS,42
+15051055,10/17/2015,D-II,Saint Anselm,Merrimack,KICK RETURNS,Elad,Covaliu,AVG,14.0
+15051056,10/17/2015,D-II,Saint Anselm,Merrimack,KICK RETURNS,Elad,Covaliu,LONG,17
+15051057,10/17/2015,D-II,Saint Anselm,Merrimack,KICK RETURNS,Ryan,Monette,NO,2
+15051058,10/17/2015,D-II,Saint Anselm,Merrimack,KICK RETURNS,Ryan,Monette,YDS,35
+15051059,10/17/2015,D-II,Saint Anselm,Merrimack,KICK RETURNS,Ryan,Monette,AVG,17.5
+15051060,10/17/2015,D-II,Saint Anselm,Merrimack,KICK RETURNS,Ryan,Monette,LONG,22
+15051061,10/17/2015,D-II,Merrimack,Saint Anselm,RUSHING,Adriell,Mayes,ATT,16
+15051062,10/17/2015,D-II,Merrimack,Saint Anselm,RUSHING,Adriell,Mayes,YDS,70
+15051063,10/17/2015,D-II,Merrimack,Saint Anselm,RUSHING,Adriell,Mayes,TD,3
+15051064,10/17/2015,D-II,Merrimack,Saint Anselm,RUSHING,Adriell,Mayes,LONG,12
+15051065,10/17/2015,D-II,Merrimack,Saint Anselm,RUSHING,Derrick,Villard,ATT,14
+15051066,10/17/2015,D-II,Merrimack,Saint Anselm,RUSHING,Derrick,Villard,YDS,39
+15051067,10/17/2015,D-II,Merrimack,Saint Anselm,RUSHING,Derrick,Villard,TD,0
+15051068,10/17/2015,D-II,Merrimack,Saint Anselm,RUSHING,Derrick,Villard,LONG,5
+15051069,10/17/2015,D-II,Merrimack,Saint Anselm,RUSHING,Nick,Davis,ATT,8
+15051070,10/17/2015,D-II,Merrimack,Saint Anselm,RUSHING,Nick,Davis,YDS,19
+15051071,10/17/2015,D-II,Merrimack,Saint Anselm,RUSHING,Nick,Davis,TD,0
+15051072,10/17/2015,D-II,Merrimack,Saint Anselm,RUSHING,Nick,Davis,LONG,13
+15051073,10/17/2015,D-II,Merrimack,Saint Anselm,PASSING,Nick,Davis,CP-ATT-INT,23-45-0
+15051074,10/17/2015,D-II,Merrimack,Saint Anselm,PASSING,Nick,Davis,YDS,253
+15051075,10/17/2015,D-II,Merrimack,Saint Anselm,PASSING,Nick,Davis,TD,2
+15051076,10/17/2015,D-II,Merrimack,Saint Anselm,PASSING,Nick,Davis,LONG,47
+15051077,10/17/2015,D-II,Merrimack,Saint Anselm,RECEIVING,Jere,Brown,REC,10
+15051078,10/17/2015,D-II,Merrimack,Saint Anselm,RECEIVING,Jere,Brown,YDS,156
+15051079,10/17/2015,D-II,Merrimack,Saint Anselm,RECEIVING,Jere,Brown,TD,1
+15051080,10/17/2015,D-II,Merrimack,Saint Anselm,RECEIVING,Jere,Brown,LONG,47
+15051081,10/17/2015,D-II,Merrimack,Saint Anselm,RECEIVING,Cody,Demers,REC,7
+15051082,10/17/2015,D-II,Merrimack,Saint Anselm,RECEIVING,Cody,Demers,YDS,60
+15051083,10/17/2015,D-II,Merrimack,Saint Anselm,RECEIVING,Cody,Demers,TD,1
+15051084,10/17/2015,D-II,Merrimack,Saint Anselm,RECEIVING,Cody,Demers,LONG,15
+15051085,10/17/2015,D-II,Merrimack,Saint Anselm,RECEIVING,Nick,Laspada,REC,2
+15051086,10/17/2015,D-II,Merrimack,Saint Anselm,RECEIVING,Nick,Laspada,YDS,18
+15051087,10/17/2015,D-II,Merrimack,Saint Anselm,RECEIVING,Nick,Laspada,TD,0
+15051088,10/17/2015,D-II,Merrimack,Saint Anselm,RECEIVING,Nick,Laspada,LONG,16
+15051089,10/17/2015,D-II,Merrimack,Saint Anselm,RECEIVING,Adriell,Mayes,REC,1
+15051090,10/17/2015,D-II,Merrimack,Saint Anselm,RECEIVING,Adriell,Mayes,YDS,11
+15051091,10/17/2015,D-II,Merrimack,Saint Anselm,RECEIVING,Adriell,Mayes,TD,0
+15051092,10/17/2015,D-II,Merrimack,Saint Anselm,RECEIVING,Adriell,Mayes,LONG,11
+15051093,10/17/2015,D-II,Merrimack,Saint Anselm,RECEIVING,Derrick,Villard,REC,2
+15051094,10/17/2015,D-II,Merrimack,Saint Anselm,RECEIVING,Derrick,Villard,YDS,6
+15051095,10/17/2015,D-II,Merrimack,Saint Anselm,RECEIVING,Derrick,Villard,TD,0
+15051096,10/17/2015,D-II,Merrimack,Saint Anselm,RECEIVING,Derrick,Villard,LONG,5
+15051097,10/17/2015,D-II,Merrimack,Saint Anselm,RECEIVING,Marquis,Spence,REC,1
+15051098,10/17/2015,D-II,Merrimack,Saint Anselm,RECEIVING,Marquis,Spence,YDS,2
+15051099,10/17/2015,D-II,Merrimack,Saint Anselm,RECEIVING,Marquis,Spence,TD,0
+15051100,10/17/2015,D-II,Merrimack,Saint Anselm,RECEIVING,Marquis,Spence,LONG,2
+15051101,10/17/2015,D-II,Merrimack,Saint Anselm,PUNTING,Jay,White,NO,4
+15051102,10/17/2015,D-II,Merrimack,Saint Anselm,PUNTING,Jay,White,YDS,164
+15051103,10/17/2015,D-II,Merrimack,Saint Anselm,PUNTING,Jay,White,AVG,41.0
+15051104,10/17/2015,D-II,Merrimack,Saint Anselm,PUNTING,Jay,White,LONG,48
+15051105,10/17/2015,D-II,Merrimack,Saint Anselm,KICK RETURNS,Juwan,Hall,NO,1
+15051106,10/17/2015,D-II,Merrimack,Saint Anselm,KICK RETURNS,Juwan,Hall,YDS,15
+15051107,10/17/2015,D-II,Merrimack,Saint Anselm,KICK RETURNS,Juwan,Hall,AVG,15.0
+15051108,10/17/2015,D-II,Merrimack,Saint Anselm,KICK RETURNS,Juwan,Hall,LONG,15
+15051109,10/17/2015,D-II,Merrimack,Saint Anselm,KICK RETURNS,Matt,Clifford,NO,3
+15051110,10/17/2015,D-II,Merrimack,Saint Anselm,KICK RETURNS,Matt,Clifford,YDS,32
+15051111,10/17/2015,D-II,Merrimack,Saint Anselm,KICK RETURNS,Matt,Clifford,AVG,10.7
+15051112,10/17/2015,D-II,Merrimack,Saint Anselm,KICK RETURNS,Matt,Clifford,LONG,14

@@ -1,0 +1,145 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+22570001,10/24/2015,D-III,Buffalo State,Utica,RUSHING,Tre,Jones,ATT,17
+22570002,10/24/2015,D-III,Buffalo State,Utica,RUSHING,Tre,Jones,YDS,111
+22570003,10/24/2015,D-III,Buffalo State,Utica,RUSHING,Tre,Jones,TD,1
+22570004,10/24/2015,D-III,Buffalo State,Utica,RUSHING,Tre,Jones,LONG,29
+22570005,10/24/2015,D-III,Buffalo State,Utica,RUSHING,Dale,Stewart,ATT,18
+22570006,10/24/2015,D-III,Buffalo State,Utica,RUSHING,Dale,Stewart,YDS,104
+22570007,10/24/2015,D-III,Buffalo State,Utica,RUSHING,Dale,Stewart,TD,1
+22570008,10/24/2015,D-III,Buffalo State,Utica,RUSHING,Dale,Stewart,LONG,61
+22570009,10/24/2015,D-III,Buffalo State,Utica,RUSHING,Aaron,Ertel,ATT,6
+22570010,10/24/2015,D-III,Buffalo State,Utica,RUSHING,Aaron,Ertel,YDS,-1
+22570011,10/24/2015,D-III,Buffalo State,Utica,RUSHING,Aaron,Ertel,TD,0
+22570012,10/24/2015,D-III,Buffalo State,Utica,RUSHING,Aaron,Ertel,LONG,12
+22570013,10/24/2015,D-III,Buffalo State,Utica,RUSHING,,Team,ATT,2
+22570014,10/24/2015,D-III,Buffalo State,Utica,RUSHING,,Team,YDS,-3
+22570015,10/24/2015,D-III,Buffalo State,Utica,RUSHING,,Team,TD,0
+22570016,10/24/2015,D-III,Buffalo State,Utica,RUSHING,,Team,LONG,0
+22570017,10/24/2015,D-III,Buffalo State,Utica,RUSHING,Ryan,Mutterer,ATT,1
+22570018,10/24/2015,D-III,Buffalo State,Utica,RUSHING,Ryan,Mutterer,YDS,-12
+22570019,10/24/2015,D-III,Buffalo State,Utica,RUSHING,Ryan,Mutterer,TD,0
+22570020,10/24/2015,D-III,Buffalo State,Utica,RUSHING,Ryan,Mutterer,LONG,0
+22570021,10/24/2015,D-III,Buffalo State,Utica,PASSING,Aaron,Ertel,CP-ATT-INT,8-24-0
+22570022,10/24/2015,D-III,Buffalo State,Utica,PASSING,Aaron,Ertel,YDS,49
+22570023,10/24/2015,D-III,Buffalo State,Utica,PASSING,Aaron,Ertel,TD,1
+22570024,10/24/2015,D-III,Buffalo State,Utica,PASSING,Aaron,Ertel,LONG,15
+22570025,10/24/2015,D-III,Buffalo State,Utica,RECEIVING,Justin,Medley,REC,2
+22570026,10/24/2015,D-III,Buffalo State,Utica,RECEIVING,Justin,Medley,YDS,20
+22570027,10/24/2015,D-III,Buffalo State,Utica,RECEIVING,Justin,Medley,TD,0
+22570028,10/24/2015,D-III,Buffalo State,Utica,RECEIVING,Justin,Medley,LONG,15
+22570029,10/24/2015,D-III,Buffalo State,Utica,RECEIVING,Mad,Wesolowski,REC,2
+22570030,10/24/2015,D-III,Buffalo State,Utica,RECEIVING,Mad,Wesolowski,YDS,17
+22570031,10/24/2015,D-III,Buffalo State,Utica,RECEIVING,Mad,Wesolowski,TD,1
+22570032,10/24/2015,D-III,Buffalo State,Utica,RECEIVING,Mad,Wesolowski,LONG,11
+22570033,10/24/2015,D-III,Buffalo State,Utica,RECEIVING,Joe,Oca,REC,2
+22570034,10/24/2015,D-III,Buffalo State,Utica,RECEIVING,Joe,Oca,YDS,7
+22570035,10/24/2015,D-III,Buffalo State,Utica,RECEIVING,Joe,Oca,TD,0
+22570036,10/24/2015,D-III,Buffalo State,Utica,RECEIVING,Joe,Oca,LONG,5
+22570037,10/24/2015,D-III,Buffalo State,Utica,RECEIVING,Stephen,Johnson,REC,1
+22570038,10/24/2015,D-III,Buffalo State,Utica,RECEIVING,Stephen,Johnson,YDS,6
+22570039,10/24/2015,D-III,Buffalo State,Utica,RECEIVING,Stephen,Johnson,TD,0
+22570040,10/24/2015,D-III,Buffalo State,Utica,RECEIVING,Stephen,Johnson,LONG,6
+22570041,10/24/2015,D-III,Buffalo State,Utica,RECEIVING,Billy,Joiner,REC,1
+22570042,10/24/2015,D-III,Buffalo State,Utica,RECEIVING,Billy,Joiner,YDS,-1
+22570043,10/24/2015,D-III,Buffalo State,Utica,RECEIVING,Billy,Joiner,TD,0
+22570044,10/24/2015,D-III,Buffalo State,Utica,RECEIVING,Billy,Joiner,LONG,0
+22570045,10/24/2015,D-III,Buffalo State,Utica,PUNTING,Ryan,Mutterer,NO,8
+22570046,10/24/2015,D-III,Buffalo State,Utica,PUNTING,Ryan,Mutterer,YDS,273
+22570047,10/24/2015,D-III,Buffalo State,Utica,PUNTING,Ryan,Mutterer,AVG,34.1
+22570048,10/24/2015,D-III,Buffalo State,Utica,PUNTING,Ryan,Mutterer,LONG,55
+22570049,10/24/2015,D-III,Buffalo State,Utica,PUNT RETURNS,Jordan,Evert,NO,1
+22570050,10/24/2015,D-III,Buffalo State,Utica,PUNT RETURNS,Jordan,Evert,YDS,3
+22570051,10/24/2015,D-III,Buffalo State,Utica,PUNT RETURNS,Jordan,Evert,AVG,3.0
+22570052,10/24/2015,D-III,Buffalo State,Utica,PUNT RETURNS,Jordan,Evert,LONG,3
+22570053,10/24/2015,D-III,Buffalo State,Utica,KICK RETURNS,Stephen,Johnson,NO,2
+22570054,10/24/2015,D-III,Buffalo State,Utica,KICK RETURNS,Stephen,Johnson,YDS,23
+22570055,10/24/2015,D-III,Buffalo State,Utica,KICK RETURNS,Stephen,Johnson,AVG,11.5
+22570056,10/24/2015,D-III,Buffalo State,Utica,KICK RETURNS,Stephen,Johnson,LONG,23
+22570057,10/24/2015,D-III,Buffalo State,Utica,KICK RETURNS,Dale,Stewart,NO,1
+22570058,10/24/2015,D-III,Buffalo State,Utica,KICK RETURNS,Dale,Stewart,YDS,100
+22570059,10/24/2015,D-III,Buffalo State,Utica,KICK RETURNS,Dale,Stewart,AVG,100.0
+22570060,10/24/2015,D-III,Buffalo State,Utica,KICK RETURNS,Dale,Stewart,LONG,100
+22570061,10/24/2015,D-III,Buffalo State,Utica,KICK RETURNS,Joe,Oca,NO,1
+22570062,10/24/2015,D-III,Buffalo State,Utica,KICK RETURNS,Joe,Oca,YDS,9
+22570063,10/24/2015,D-III,Buffalo State,Utica,KICK RETURNS,Joe,Oca,AVG,9.0
+22570064,10/24/2015,D-III,Buffalo State,Utica,KICK RETURNS,Joe,Oca,LONG,9
+22570065,10/24/2015,D-III,Buffalo State,Utica,KICK RETURNS,Jordan,Evert,NO,1
+22570066,10/24/2015,D-III,Buffalo State,Utica,KICK RETURNS,Jordan,Evert,YDS,14
+22570067,10/24/2015,D-III,Buffalo State,Utica,KICK RETURNS,Jordan,Evert,AVG,14.0
+22570068,10/24/2015,D-III,Buffalo State,Utica,KICK RETURNS,Jordan,Evert,LONG,14
+22570069,10/24/2015,D-III,Utica,Buffalo State,RUSHING,Mike,Cottle,ATT,16
+22570070,10/24/2015,D-III,Utica,Buffalo State,RUSHING,Mike,Cottle,YDS,43
+22570071,10/24/2015,D-III,Utica,Buffalo State,RUSHING,Mike,Cottle,TD,0
+22570072,10/24/2015,D-III,Utica,Buffalo State,RUSHING,Mike,Cottle,LONG,10
+22570073,10/24/2015,D-III,Utica,Buffalo State,RUSHING,Jerred,Beniquez,ATT,6
+22570074,10/24/2015,D-III,Utica,Buffalo State,RUSHING,Jerred,Beniquez,YDS,15
+22570075,10/24/2015,D-III,Utica,Buffalo State,RUSHING,Jerred,Beniquez,TD,0
+22570076,10/24/2015,D-III,Utica,Buffalo State,RUSHING,Jerred,Beniquez,LONG,8
+22570077,10/24/2015,D-III,Utica,Buffalo State,RUSHING,N,Gambill,ATT,1
+22570078,10/24/2015,D-III,Utica,Buffalo State,RUSHING,N,Gambill,YDS,3
+22570079,10/24/2015,D-III,Utica,Buffalo State,RUSHING,N,Gambill,TD,0
+22570080,10/24/2015,D-III,Utica,Buffalo State,RUSHING,N,Gambill,LONG,3
+22570081,10/24/2015,D-III,Utica,Buffalo State,RUSHING,Ryan,Burnett,ATT,3
+22570082,10/24/2015,D-III,Utica,Buffalo State,RUSHING,Ryan,Burnett,YDS,0
+22570083,10/24/2015,D-III,Utica,Buffalo State,RUSHING,Ryan,Burnett,TD,0
+22570084,10/24/2015,D-III,Utica,Buffalo State,RUSHING,Ryan,Burnett,LONG,0
+22570085,10/24/2015,D-III,Utica,Buffalo State,RUSHING,Malcolm,Stowe,ATT,2
+22570086,10/24/2015,D-III,Utica,Buffalo State,RUSHING,Malcolm,Stowe,YDS,0
+22570087,10/24/2015,D-III,Utica,Buffalo State,RUSHING,Malcolm,Stowe,TD,0
+22570088,10/24/2015,D-III,Utica,Buffalo State,RUSHING,Malcolm,Stowe,LONG,1
+22570089,10/24/2015,D-III,Utica,Buffalo State,RUSHING,Teddy,Vangalen,ATT,6
+22570090,10/24/2015,D-III,Utica,Buffalo State,RUSHING,Teddy,Vangalen,YDS,-6
+22570091,10/24/2015,D-III,Utica,Buffalo State,RUSHING,Teddy,Vangalen,TD,0
+22570092,10/24/2015,D-III,Utica,Buffalo State,RUSHING,Teddy,Vangalen,LONG,7
+22570093,10/24/2015,D-III,Utica,Buffalo State,RUSHING,Alex,Derusso,ATT,1
+22570094,10/24/2015,D-III,Utica,Buffalo State,RUSHING,Alex,Derusso,YDS,-10
+22570095,10/24/2015,D-III,Utica,Buffalo State,RUSHING,Alex,Derusso,TD,0
+22570096,10/24/2015,D-III,Utica,Buffalo State,RUSHING,Alex,Derusso,LONG,0
+22570097,10/24/2015,D-III,Utica,Buffalo State,RUSHING,Matt,Rogers,ATT,3
+22570098,10/24/2015,D-III,Utica,Buffalo State,RUSHING,Matt,Rogers,YDS,-10
+22570099,10/24/2015,D-III,Utica,Buffalo State,RUSHING,Matt,Rogers,TD,0
+22570100,10/24/2015,D-III,Utica,Buffalo State,RUSHING,Matt,Rogers,LONG,0
+22570101,10/24/2015,D-III,Utica,Buffalo State,PASSING,Teddy,Vangalen,CP-ATT-INT,14-28-0
+22570102,10/24/2015,D-III,Utica,Buffalo State,PASSING,Teddy,Vangalen,YDS,104
+22570103,10/24/2015,D-III,Utica,Buffalo State,PASSING,Teddy,Vangalen,TD,0
+22570104,10/24/2015,D-III,Utica,Buffalo State,PASSING,Teddy,Vangalen,LONG,33
+22570105,10/24/2015,D-III,Utica,Buffalo State,PASSING,Matt,Rogers,CP-ATT-INT,3-7-2
+22570106,10/24/2015,D-III,Utica,Buffalo State,PASSING,Matt,Rogers,YDS,100
+22570107,10/24/2015,D-III,Utica,Buffalo State,PASSING,Matt,Rogers,TD,0
+22570108,10/24/2015,D-III,Utica,Buffalo State,PASSING,Matt,Rogers,LONG,39
+22570109,10/24/2015,D-III,Utica,Buffalo State,RECEIVING,Alex,Derusso,REC,7
+22570110,10/24/2015,D-III,Utica,Buffalo State,RECEIVING,Alex,Derusso,YDS,153
+22570111,10/24/2015,D-III,Utica,Buffalo State,RECEIVING,Alex,Derusso,TD,0
+22570112,10/24/2015,D-III,Utica,Buffalo State,RECEIVING,Alex,Derusso,LONG,39
+22570113,10/24/2015,D-III,Utica,Buffalo State,RECEIVING,Jerred,Beniquez,REC,6
+22570114,10/24/2015,D-III,Utica,Buffalo State,RECEIVING,Jerred,Beniquez,YDS,32
+22570115,10/24/2015,D-III,Utica,Buffalo State,RECEIVING,Jerred,Beniquez,TD,0
+22570116,10/24/2015,D-III,Utica,Buffalo State,RECEIVING,Jerred,Beniquez,LONG,17
+22570117,10/24/2015,D-III,Utica,Buffalo State,RECEIVING,Peter,Mueller,REC,1
+22570118,10/24/2015,D-III,Utica,Buffalo State,RECEIVING,Peter,Mueller,YDS,8
+22570119,10/24/2015,D-III,Utica,Buffalo State,RECEIVING,Peter,Mueller,TD,0
+22570120,10/24/2015,D-III,Utica,Buffalo State,RECEIVING,Peter,Mueller,LONG,8
+22570121,10/24/2015,D-III,Utica,Buffalo State,RECEIVING,Josh,Connor,REC,2
+22570122,10/24/2015,D-III,Utica,Buffalo State,RECEIVING,Josh,Connor,YDS,6
+22570123,10/24/2015,D-III,Utica,Buffalo State,RECEIVING,Josh,Connor,TD,0
+22570124,10/24/2015,D-III,Utica,Buffalo State,RECEIVING,Josh,Connor,LONG,4
+22570125,10/24/2015,D-III,Utica,Buffalo State,RECEIVING,Ryan,Burnett,REC,1
+22570126,10/24/2015,D-III,Utica,Buffalo State,RECEIVING,Ryan,Burnett,YDS,5
+22570127,10/24/2015,D-III,Utica,Buffalo State,RECEIVING,Ryan,Burnett,TD,0
+22570128,10/24/2015,D-III,Utica,Buffalo State,RECEIVING,Ryan,Burnett,LONG,5
+22570129,10/24/2015,D-III,Utica,Buffalo State,PUNTING,Thomas,Woodburn,NO,8
+22570130,10/24/2015,D-III,Utica,Buffalo State,PUNTING,Thomas,Woodburn,YDS,286
+22570131,10/24/2015,D-III,Utica,Buffalo State,PUNTING,Thomas,Woodburn,AVG,35.8
+22570132,10/24/2015,D-III,Utica,Buffalo State,PUNTING,Thomas,Woodburn,LONG,42
+22570133,10/24/2015,D-III,Utica,Buffalo State,PUNT RETURNS,Jerred,Beniquez,NO,2
+22570134,10/24/2015,D-III,Utica,Buffalo State,PUNT RETURNS,Jerred,Beniquez,YDS,10
+22570135,10/24/2015,D-III,Utica,Buffalo State,PUNT RETURNS,Jerred,Beniquez,AVG,5.0
+22570136,10/24/2015,D-III,Utica,Buffalo State,PUNT RETURNS,Jerred,Beniquez,LONG,11
+22570137,10/24/2015,D-III,Utica,Buffalo State,PUNT RETURNS,Chance,Harris,NO,1
+22570138,10/24/2015,D-III,Utica,Buffalo State,PUNT RETURNS,Chance,Harris,YDS,0
+22570139,10/24/2015,D-III,Utica,Buffalo State,PUNT RETURNS,Chance,Harris,AVG,0.0
+22570140,10/24/2015,D-III,Utica,Buffalo State,PUNT RETURNS,Chance,Harris,LONG,0
+22570141,10/24/2015,D-III,Utica,Buffalo State,KICK RETURNS,Jerred,Beniquez,NO,4
+22570142,10/24/2015,D-III,Utica,Buffalo State,KICK RETURNS,Jerred,Beniquez,YDS,57
+22570143,10/24/2015,D-III,Utica,Buffalo State,KICK RETURNS,Jerred,Beniquez,AVG,14.2
+22570144,10/24/2015,D-III,Utica,Buffalo State,KICK RETURNS,Jerred,Beniquez,LONG,17

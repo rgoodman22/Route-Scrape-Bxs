@@ -1,0 +1,57 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+15195001,10/31/2015,D-II,Dixie State,South Dakota Mines,RUSHING,B,Barney,ATT,27
+15195002,10/31/2015,D-II,Dixie State,South Dakota Mines,RUSHING,B,Barney,YDS,291
+15195003,10/31/2015,D-II,Dixie State,South Dakota Mines,RUSHING,B,Barney,TD,3
+15195004,10/31/2015,D-II,Dixie State,South Dakota Mines,RUSHING,B,Barney,LONG,70
+15195005,10/31/2015,D-II,Dixie State,South Dakota Mines,RUSHING,,Team,ATT,16
+15195006,10/31/2015,D-II,Dixie State,South Dakota Mines,RUSHING,,Team,YDS,144
+15195007,10/31/2015,D-II,Dixie State,South Dakota Mines,RUSHING,,Team,TD,1
+15195008,10/31/2015,D-II,Dixie State,South Dakota Mines,RUSHING,,Team,LONG,37
+15195009,10/31/2015,D-II,Dixie State,South Dakota Mines,PASSING,B,Barney,CP-ATT-INT,5-12-1
+15195010,10/31/2015,D-II,Dixie State,South Dakota Mines,PASSING,B,Barney,YDS,93
+15195011,10/31/2015,D-II,Dixie State,South Dakota Mines,PASSING,B,Barney,TD,1
+15195012,10/31/2015,D-II,Dixie State,South Dakota Mines,PASSING,B,Barney,LONG,60
+15195013,10/31/2015,D-II,Dixie State,South Dakota Mines,PASSING,,Team,CP-ATT-INT,0-1-0
+15195014,10/31/2015,D-II,Dixie State,South Dakota Mines,PASSING,,Team,YDS,0
+15195015,10/31/2015,D-II,Dixie State,South Dakota Mines,PASSING,,Team,TD,0
+15195016,10/31/2015,D-II,Dixie State,South Dakota Mines,PASSING,,Team,LONG,0
+15195017,10/31/2015,D-II,Dixie State,South Dakota Mines,RECEIVING,,Team,REC,1
+15195018,10/31/2015,D-II,Dixie State,South Dakota Mines,RECEIVING,,Team,YDS,60
+15195019,10/31/2015,D-II,Dixie State,South Dakota Mines,RECEIVING,,Team,TD,1
+15195020,10/31/2015,D-II,Dixie State,South Dakota Mines,RECEIVING,,Team,LONG,60
+15195021,10/31/2015,D-II,Dixie State,South Dakota Mines,PUNTING,,Team,NO,1
+15195022,10/31/2015,D-II,Dixie State,South Dakota Mines,PUNTING,,Team,YDS,46
+15195023,10/31/2015,D-II,Dixie State,South Dakota Mines,PUNTING,,Team,AVG,46.0
+15195024,10/31/2015,D-II,Dixie State,South Dakota Mines,PUNTING,,Team,LONG,46
+15195025,10/31/2015,D-II,Dixie State,South Dakota Mines,KICK RETURNS,,Team,NO,1
+15195026,10/31/2015,D-II,Dixie State,South Dakota Mines,KICK RETURNS,,Team,YDS,5
+15195027,10/31/2015,D-II,Dixie State,South Dakota Mines,KICK RETURNS,,Team,AVG,5.0
+15195028,10/31/2015,D-II,Dixie State,South Dakota Mines,KICK RETURNS,,Team,LONG,5
+15195029,10/31/2015,D-II,South Dakota Mines,Dixie State,RUSHING,,Team,ATT,27
+15195030,10/31/2015,D-II,South Dakota Mines,Dixie State,RUSHING,,Team,YDS,135
+15195031,10/31/2015,D-II,South Dakota Mines,Dixie State,RUSHING,,Team,TD,2
+15195032,10/31/2015,D-II,South Dakota Mines,Dixie State,RUSHING,,Team,LONG,43
+15195033,10/31/2015,D-II,South Dakota Mines,Dixie State,PASSING,,Team,CP-ATT-INT,17-25-0
+15195034,10/31/2015,D-II,South Dakota Mines,Dixie State,PASSING,,Team,YDS,229
+15195035,10/31/2015,D-II,South Dakota Mines,Dixie State,PASSING,,Team,TD,1
+15195036,10/31/2015,D-II,South Dakota Mines,Dixie State,PASSING,,Team,LONG,49
+15195037,10/31/2015,D-II,South Dakota Mines,Dixie State,RECEIVING,,Team,REC,8
+15195038,10/31/2015,D-II,South Dakota Mines,Dixie State,RECEIVING,,Team,YDS,94
+15195039,10/31/2015,D-II,South Dakota Mines,Dixie State,RECEIVING,,Team,TD,0
+15195040,10/31/2015,D-II,South Dakota Mines,Dixie State,RECEIVING,,Team,LONG,25
+15195041,10/31/2015,D-II,South Dakota Mines,Dixie State,RECEIVING,X,Matthews,REC,1
+15195042,10/31/2015,D-II,South Dakota Mines,Dixie State,RECEIVING,X,Matthews,YDS,14
+15195043,10/31/2015,D-II,South Dakota Mines,Dixie State,RECEIVING,X,Matthews,TD,0
+15195044,10/31/2015,D-II,South Dakota Mines,Dixie State,RECEIVING,X,Matthews,LONG,14
+15195045,10/31/2015,D-II,South Dakota Mines,Dixie State,RECEIVING,,Team,REC,1
+15195046,10/31/2015,D-II,South Dakota Mines,Dixie State,RECEIVING,,Team,YDS,2
+15195047,10/31/2015,D-II,South Dakota Mines,Dixie State,RECEIVING,,Team,TD,0
+15195048,10/31/2015,D-II,South Dakota Mines,Dixie State,RECEIVING,,Team,LONG,2
+15195049,10/31/2015,D-II,South Dakota Mines,Dixie State,PUNTING,,Team,NO,1
+15195050,10/31/2015,D-II,South Dakota Mines,Dixie State,PUNTING,,Team,YDS,37
+15195051,10/31/2015,D-II,South Dakota Mines,Dixie State,PUNTING,,Team,AVG,37.0
+15195052,10/31/2015,D-II,South Dakota Mines,Dixie State,PUNTING,,Team,LONG,37
+15195053,10/31/2015,D-II,South Dakota Mines,Dixie State,KICK RETURNS,,Team,NO,3
+15195054,10/31/2015,D-II,South Dakota Mines,Dixie State,KICK RETURNS,,Team,YDS,87
+15195055,10/31/2015,D-II,South Dakota Mines,Dixie State,KICK RETURNS,,Team,AVG,29.0
+15195056,10/31/2015,D-II,South Dakota Mines,Dixie State,KICK RETURNS,,Team,LONG,36

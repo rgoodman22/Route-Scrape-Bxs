@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+23199001,9/10/2016,D-III,Lake Forest,Carleton,RUSHING,Joey,Valdivia,ATT,24
+23199002,9/10/2016,D-III,Lake Forest,Carleton,RUSHING,Joey,Valdivia,YDS,146
+23199003,9/10/2016,D-III,Lake Forest,Carleton,RUSHING,Joey,Valdivia,TD,3
+23199004,9/10/2016,D-III,Lake Forest,Carleton,RUSHING,Joey,Valdivia,LONG,26
+23199005,9/10/2016,D-III,Lake Forest,Carleton,RUSHING,Jagan,Cleary,ATT,2
+23199006,9/10/2016,D-III,Lake Forest,Carleton,RUSHING,Jagan,Cleary,YDS,9
+23199007,9/10/2016,D-III,Lake Forest,Carleton,RUSHING,Jagan,Cleary,TD,0
+23199008,9/10/2016,D-III,Lake Forest,Carleton,RUSHING,Jagan,Cleary,LONG,7
+23199009,9/10/2016,D-III,Lake Forest,Carleton,RUSHING,Charlie,Quinn,ATT,4
+23199010,9/10/2016,D-III,Lake Forest,Carleton,RUSHING,Charlie,Quinn,YDS,5
+23199011,9/10/2016,D-III,Lake Forest,Carleton,RUSHING,Charlie,Quinn,TD,1
+23199012,9/10/2016,D-III,Lake Forest,Carleton,RUSHING,Charlie,Quinn,LONG,6
+23199013,9/10/2016,D-III,Lake Forest,Carleton,RUSHING,Nikko,Italia,ATT,1
+23199014,9/10/2016,D-III,Lake Forest,Carleton,RUSHING,Nikko,Italia,YDS,4
+23199015,9/10/2016,D-III,Lake Forest,Carleton,RUSHING,Nikko,Italia,TD,0
+23199016,9/10/2016,D-III,Lake Forest,Carleton,RUSHING,Nikko,Italia,LONG,4
+23199017,9/10/2016,D-III,Lake Forest,Carleton,RUSHING,,Team,ATT,1
+23199018,9/10/2016,D-III,Lake Forest,Carleton,RUSHING,,Team,YDS,-1
+23199019,9/10/2016,D-III,Lake Forest,Carleton,RUSHING,,Team,TD,0
+23199020,9/10/2016,D-III,Lake Forest,Carleton,RUSHING,,Team,LONG,0
+23199021,9/10/2016,D-III,Lake Forest,Carleton,PASSING,Jagan,Cleary,CP-ATT-INT,26-35-0
+23199022,9/10/2016,D-III,Lake Forest,Carleton,PASSING,Jagan,Cleary,YDS,387
+23199023,9/10/2016,D-III,Lake Forest,Carleton,PASSING,Jagan,Cleary,TD,2
+23199024,9/10/2016,D-III,Lake Forest,Carleton,PASSING,Jagan,Cleary,LONG,63
+23199025,9/10/2016,D-III,Lake Forest,Carleton,RECEIVING,Charlie,Quinn,REC,9
+23199026,9/10/2016,D-III,Lake Forest,Carleton,RECEIVING,Charlie,Quinn,YDS,108
+23199027,9/10/2016,D-III,Lake Forest,Carleton,RECEIVING,Charlie,Quinn,TD,1
+23199028,9/10/2016,D-III,Lake Forest,Carleton,RECEIVING,Charlie,Quinn,LONG,61
+23199029,9/10/2016,D-III,Lake Forest,Carleton,RECEIVING,Alex,Pasiewicz,REC,4
+23199030,9/10/2016,D-III,Lake Forest,Carleton,RECEIVING,Alex,Pasiewicz,YDS,102
+23199031,9/10/2016,D-III,Lake Forest,Carleton,RECEIVING,Alex,Pasiewicz,TD,1
+23199032,9/10/2016,D-III,Lake Forest,Carleton,RECEIVING,Alex,Pasiewicz,LONG,63
+23199033,9/10/2016,D-III,Lake Forest,Carleton,RECEIVING,Willie,Mcintyre,REC,9
+23199034,9/10/2016,D-III,Lake Forest,Carleton,RECEIVING,Willie,Mcintyre,YDS,95
+23199035,9/10/2016,D-III,Lake Forest,Carleton,RECEIVING,Willie,Mcintyre,TD,0
+23199036,9/10/2016,D-III,Lake Forest,Carleton,RECEIVING,Willie,Mcintyre,LONG,17
+23199037,9/10/2016,D-III,Lake Forest,Carleton,RECEIVING,Joey,Valdivia,REC,2
+23199038,9/10/2016,D-III,Lake Forest,Carleton,RECEIVING,Joey,Valdivia,YDS,72
+23199039,9/10/2016,D-III,Lake Forest,Carleton,RECEIVING,Joey,Valdivia,TD,0
+23199040,9/10/2016,D-III,Lake Forest,Carleton,RECEIVING,Joey,Valdivia,LONG,53
+23199041,9/10/2016,D-III,Lake Forest,Carleton,RECEIVING,Max,Sorby,REC,1
+23199042,9/10/2016,D-III,Lake Forest,Carleton,RECEIVING,Max,Sorby,YDS,11
+23199043,9/10/2016,D-III,Lake Forest,Carleton,RECEIVING,Max,Sorby,TD,0
+23199044,9/10/2016,D-III,Lake Forest,Carleton,RECEIVING,Max,Sorby,LONG,11
+23199045,9/10/2016,D-III,Lake Forest,Carleton,RECEIVING,I,Barthelmess,REC,1
+23199046,9/10/2016,D-III,Lake Forest,Carleton,RECEIVING,I,Barthelmess,YDS,-1
+23199047,9/10/2016,D-III,Lake Forest,Carleton,RECEIVING,I,Barthelmess,TD,0
+23199048,9/10/2016,D-III,Lake Forest,Carleton,RECEIVING,I,Barthelmess,LONG,0
+23199049,9/10/2016,D-III,Lake Forest,Carleton,PUNTING,C,Courtney,NO,3
+23199050,9/10/2016,D-III,Lake Forest,Carleton,PUNTING,C,Courtney,YDS,96
+23199051,9/10/2016,D-III,Lake Forest,Carleton,PUNTING,C,Courtney,AVG,32.0
+23199052,9/10/2016,D-III,Lake Forest,Carleton,PUNTING,C,Courtney,LONG,33
+23199053,9/10/2016,D-III,Lake Forest,Carleton,PUNT RETURNS,Alex,Pasiewicz,NO,3
+23199054,9/10/2016,D-III,Lake Forest,Carleton,PUNT RETURNS,Alex,Pasiewicz,YDS,38
+23199055,9/10/2016,D-III,Lake Forest,Carleton,PUNT RETURNS,Alex,Pasiewicz,AVG,12.7
+23199056,9/10/2016,D-III,Lake Forest,Carleton,PUNT RETURNS,Alex,Pasiewicz,LONG,18
+23199057,9/10/2016,D-III,Lake Forest,Carleton,PUNT RETURNS,Jenri,Viola,NO,1
+23199058,9/10/2016,D-III,Lake Forest,Carleton,PUNT RETURNS,Jenri,Viola,YDS,0
+23199059,9/10/2016,D-III,Lake Forest,Carleton,PUNT RETURNS,Jenri,Viola,AVG,0.0
+23199060,9/10/2016,D-III,Lake Forest,Carleton,PUNT RETURNS,Jenri,Viola,LONG,0
+23199061,9/10/2016,D-III,Lake Forest,Carleton,KICK RETURNS,Alex,Pasiewicz,NO,2
+23199062,9/10/2016,D-III,Lake Forest,Carleton,KICK RETURNS,Alex,Pasiewicz,YDS,47
+23199063,9/10/2016,D-III,Lake Forest,Carleton,KICK RETURNS,Alex,Pasiewicz,AVG,23.5
+23199064,9/10/2016,D-III,Lake Forest,Carleton,KICK RETURNS,Alex,Pasiewicz,LONG,30
+23199065,9/10/2016,D-III,Carleton,Lake Forest,RUSHING,Zach,Creighton,ATT,19
+23199066,9/10/2016,D-III,Carleton,Lake Forest,RUSHING,Zach,Creighton,YDS,135
+23199067,9/10/2016,D-III,Carleton,Lake Forest,RUSHING,Zach,Creighton,TD,3
+23199068,9/10/2016,D-III,Carleton,Lake Forest,RUSHING,Zach,Creighton,LONG,84
+23199069,9/10/2016,D-III,Carleton,Lake Forest,RUSHING,E,Williams,ATT,11
+23199070,9/10/2016,D-III,Carleton,Lake Forest,RUSHING,E,Williams,YDS,16
+23199071,9/10/2016,D-III,Carleton,Lake Forest,RUSHING,E,Williams,TD,0
+23199072,9/10/2016,D-III,Carleton,Lake Forest,RUSHING,E,Williams,LONG,8
+23199073,9/10/2016,D-III,Carleton,Lake Forest,RUSHING,Logan,Emholtz,ATT,8
+23199074,9/10/2016,D-III,Carleton,Lake Forest,RUSHING,Logan,Emholtz,YDS,11
+23199075,9/10/2016,D-III,Carleton,Lake Forest,RUSHING,Logan,Emholtz,TD,0
+23199076,9/10/2016,D-III,Carleton,Lake Forest,RUSHING,Logan,Emholtz,LONG,6
+23199077,9/10/2016,D-III,Carleton,Lake Forest,RUSHING,Chris,Madden,ATT,1
+23199078,9/10/2016,D-III,Carleton,Lake Forest,RUSHING,Chris,Madden,YDS,3
+23199079,9/10/2016,D-III,Carleton,Lake Forest,RUSHING,Chris,Madden,TD,0
+23199080,9/10/2016,D-III,Carleton,Lake Forest,RUSHING,Chris,Madden,LONG,3
+23199081,9/10/2016,D-III,Carleton,Lake Forest,PASSING,Zach,Creighton,CP-ATT-INT,14-36-1
+23199082,9/10/2016,D-III,Carleton,Lake Forest,PASSING,Zach,Creighton,YDS,132
+23199083,9/10/2016,D-III,Carleton,Lake Forest,PASSING,Zach,Creighton,TD,0
+23199084,9/10/2016,D-III,Carleton,Lake Forest,PASSING,Zach,Creighton,LONG,26
+23199085,9/10/2016,D-III,Carleton,Lake Forest,PASSING,Ethan,Trujillo,CP-ATT-INT,2-7-0
+23199086,9/10/2016,D-III,Carleton,Lake Forest,PASSING,Ethan,Trujillo,YDS,23
+23199087,9/10/2016,D-III,Carleton,Lake Forest,PASSING,Ethan,Trujillo,TD,0
+23199088,9/10/2016,D-III,Carleton,Lake Forest,PASSING,Ethan,Trujillo,LONG,16
+23199089,9/10/2016,D-III,Carleton,Lake Forest,RECEIVING,Chris,Madden,REC,5
+23199090,9/10/2016,D-III,Carleton,Lake Forest,RECEIVING,Chris,Madden,YDS,64
+23199091,9/10/2016,D-III,Carleton,Lake Forest,RECEIVING,Chris,Madden,TD,0
+23199092,9/10/2016,D-III,Carleton,Lake Forest,RECEIVING,Chris,Madden,LONG,26
+23199093,9/10/2016,D-III,Carleton,Lake Forest,RECEIVING,Logan,Emholtz,REC,4
+23199094,9/10/2016,D-III,Carleton,Lake Forest,RECEIVING,Logan,Emholtz,YDS,34
+23199095,9/10/2016,D-III,Carleton,Lake Forest,RECEIVING,Logan,Emholtz,TD,0
+23199096,9/10/2016,D-III,Carleton,Lake Forest,RECEIVING,Logan,Emholtz,LONG,21
+23199097,9/10/2016,D-III,Carleton,Lake Forest,RECEIVING,Robert,Deng,REC,2
+23199098,9/10/2016,D-III,Carleton,Lake Forest,RECEIVING,Robert,Deng,YDS,28
+23199099,9/10/2016,D-III,Carleton,Lake Forest,RECEIVING,Robert,Deng,TD,0
+23199100,9/10/2016,D-III,Carleton,Lake Forest,RECEIVING,Robert,Deng,LONG,16
+23199101,9/10/2016,D-III,Carleton,Lake Forest,RECEIVING,Dane,Birkeland,REC,2
+23199102,9/10/2016,D-III,Carleton,Lake Forest,RECEIVING,Dane,Birkeland,YDS,18
+23199103,9/10/2016,D-III,Carleton,Lake Forest,RECEIVING,Dane,Birkeland,TD,0
+23199104,9/10/2016,D-III,Carleton,Lake Forest,RECEIVING,Dane,Birkeland,LONG,11
+23199105,9/10/2016,D-III,Carleton,Lake Forest,RECEIVING,Peter,Dehkes,REC,1
+23199106,9/10/2016,D-III,Carleton,Lake Forest,RECEIVING,Peter,Dehkes,YDS,7
+23199107,9/10/2016,D-III,Carleton,Lake Forest,RECEIVING,Peter,Dehkes,TD,0
+23199108,9/10/2016,D-III,Carleton,Lake Forest,RECEIVING,Peter,Dehkes,LONG,7
+23199109,9/10/2016,D-III,Carleton,Lake Forest,RECEIVING,Michael,Frett,REC,1
+23199110,9/10/2016,D-III,Carleton,Lake Forest,RECEIVING,Michael,Frett,YDS,5
+23199111,9/10/2016,D-III,Carleton,Lake Forest,RECEIVING,Michael,Frett,TD,0
+23199112,9/10/2016,D-III,Carleton,Lake Forest,RECEIVING,Michael,Frett,LONG,5
+23199113,9/10/2016,D-III,Carleton,Lake Forest,RECEIVING,E,Williams,REC,1
+23199114,9/10/2016,D-III,Carleton,Lake Forest,RECEIVING,E,Williams,YDS,-1
+23199115,9/10/2016,D-III,Carleton,Lake Forest,RECEIVING,E,Williams,TD,0
+23199116,9/10/2016,D-III,Carleton,Lake Forest,RECEIVING,E,Williams,LONG,0
+23199117,9/10/2016,D-III,Carleton,Lake Forest,PUNTING,Adam,Pearson,NO,6
+23199118,9/10/2016,D-III,Carleton,Lake Forest,PUNTING,Adam,Pearson,YDS,245
+23199119,9/10/2016,D-III,Carleton,Lake Forest,PUNTING,Adam,Pearson,AVG,40.8
+23199120,9/10/2016,D-III,Carleton,Lake Forest,PUNTING,Adam,Pearson,LONG,61
+23199121,9/10/2016,D-III,Carleton,Lake Forest,PUNT RETURNS,Dylan,Saline,NO,1
+23199122,9/10/2016,D-III,Carleton,Lake Forest,PUNT RETURNS,Dylan,Saline,YDS,6
+23199123,9/10/2016,D-III,Carleton,Lake Forest,PUNT RETURNS,Dylan,Saline,AVG,6.0
+23199124,9/10/2016,D-III,Carleton,Lake Forest,PUNT RETURNS,Dylan,Saline,LONG,6
+23199125,9/10/2016,D-III,Carleton,Lake Forest,KICK RETURNS,Chris,Madden,NO,2
+23199126,9/10/2016,D-III,Carleton,Lake Forest,KICK RETURNS,Chris,Madden,YDS,37
+23199127,9/10/2016,D-III,Carleton,Lake Forest,KICK RETURNS,Chris,Madden,AVG,18.5
+23199128,9/10/2016,D-III,Carleton,Lake Forest,KICK RETURNS,Chris,Madden,LONG,23
+23199129,9/10/2016,D-III,Carleton,Lake Forest,KICK RETURNS,Dylan,Saline,NO,4
+23199130,9/10/2016,D-III,Carleton,Lake Forest,KICK RETURNS,Dylan,Saline,YDS,94
+23199131,9/10/2016,D-III,Carleton,Lake Forest,KICK RETURNS,Dylan,Saline,AVG,23.5
+23199132,9/10/2016,D-III,Carleton,Lake Forest,KICK RETURNS,Dylan,Saline,LONG,32
+23199133,9/10/2016,D-III,Carleton,Lake Forest,KICK RETURNS,Logan,Emholtz,NO,1
+23199134,9/10/2016,D-III,Carleton,Lake Forest,KICK RETURNS,Logan,Emholtz,YDS,21
+23199135,9/10/2016,D-III,Carleton,Lake Forest,KICK RETURNS,Logan,Emholtz,AVG,21.0
+23199136,9/10/2016,D-III,Carleton,Lake Forest,KICK RETURNS,Logan,Emholtz,LONG,21

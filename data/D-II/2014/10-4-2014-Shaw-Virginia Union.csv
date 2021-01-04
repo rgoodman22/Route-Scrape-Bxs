@@ -1,0 +1,141 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+13888001,10/4/2014,D-II,Shaw,Virginia Union,RUSHING,Marqui,Grizzle,ATT,23
+13888002,10/4/2014,D-II,Shaw,Virginia Union,RUSHING,Marqui,Grizzle,YDS,56
+13888003,10/4/2014,D-II,Shaw,Virginia Union,RUSHING,Marqui,Grizzle,TD,0
+13888004,10/4/2014,D-II,Shaw,Virginia Union,RUSHING,Marqui,Grizzle,LONG,9
+13888005,10/4/2014,D-II,Shaw,Virginia Union,RUSHING,Donald,Jones,ATT,2
+13888006,10/4/2014,D-II,Shaw,Virginia Union,RUSHING,Donald,Jones,YDS,4
+13888007,10/4/2014,D-II,Shaw,Virginia Union,RUSHING,Donald,Jones,TD,0
+13888008,10/4/2014,D-II,Shaw,Virginia Union,RUSHING,Donald,Jones,LONG,5
+13888009,10/4/2014,D-II,Shaw,Virginia Union,RUSHING,Kelvin,Wagner,ATT,1
+13888010,10/4/2014,D-II,Shaw,Virginia Union,RUSHING,Kelvin,Wagner,YDS,2
+13888011,10/4/2014,D-II,Shaw,Virginia Union,RUSHING,Kelvin,Wagner,TD,0
+13888012,10/4/2014,D-II,Shaw,Virginia Union,RUSHING,Kelvin,Wagner,LONG,2
+13888013,10/4/2014,D-II,Shaw,Virginia Union,RUSHING,Vinc,Jefferies,ATT,2
+13888014,10/4/2014,D-II,Shaw,Virginia Union,RUSHING,Vinc,Jefferies,YDS,-3
+13888015,10/4/2014,D-II,Shaw,Virginia Union,RUSHING,Vinc,Jefferies,TD,0
+13888016,10/4/2014,D-II,Shaw,Virginia Union,RUSHING,Vinc,Jefferies,LONG,0
+13888017,10/4/2014,D-II,Shaw,Virginia Union,RUSHING,Trey,Folston,ATT,6
+13888018,10/4/2014,D-II,Shaw,Virginia Union,RUSHING,Trey,Folston,YDS,-7
+13888019,10/4/2014,D-II,Shaw,Virginia Union,RUSHING,Trey,Folston,TD,0
+13888020,10/4/2014,D-II,Shaw,Virginia Union,RUSHING,Trey,Folston,LONG,9
+13888021,10/4/2014,D-II,Shaw,Virginia Union,PASSING,Trey,Folston,CP-ATT-INT,17-37-1
+13888022,10/4/2014,D-II,Shaw,Virginia Union,PASSING,Trey,Folston,YDS,232
+13888023,10/4/2014,D-II,Shaw,Virginia Union,PASSING,Trey,Folston,TD,1
+13888024,10/4/2014,D-II,Shaw,Virginia Union,PASSING,Trey,Folston,LONG,58
+13888025,10/4/2014,D-II,Shaw,Virginia Union,PASSING,Vinc,Jefferies,CP-ATT-INT,4-6-1
+13888026,10/4/2014,D-II,Shaw,Virginia Union,PASSING,Vinc,Jefferies,YDS,26
+13888027,10/4/2014,D-II,Shaw,Virginia Union,PASSING,Vinc,Jefferies,TD,0
+13888028,10/4/2014,D-II,Shaw,Virginia Union,PASSING,Vinc,Jefferies,LONG,13
+13888029,10/4/2014,D-II,Shaw,Virginia Union,PASSING,Marqui,Grizzle,CP-ATT-INT,0-1-1
+13888030,10/4/2014,D-II,Shaw,Virginia Union,PASSING,Marqui,Grizzle,YDS,0
+13888031,10/4/2014,D-II,Shaw,Virginia Union,PASSING,Marqui,Grizzle,TD,0
+13888032,10/4/2014,D-II,Shaw,Virginia Union,PASSING,Marqui,Grizzle,LONG,0
+13888033,10/4/2014,D-II,Shaw,Virginia Union,RECEIVING,Kelvin,Wagner,REC,4
+13888034,10/4/2014,D-II,Shaw,Virginia Union,RECEIVING,Kelvin,Wagner,YDS,76
+13888035,10/4/2014,D-II,Shaw,Virginia Union,RECEIVING,Kelvin,Wagner,TD,0
+13888036,10/4/2014,D-II,Shaw,Virginia Union,RECEIVING,Kelvin,Wagner,LONG,58
+13888037,10/4/2014,D-II,Shaw,Virginia Union,RECEIVING,Marqui,Grizzle,REC,4
+13888038,10/4/2014,D-II,Shaw,Virginia Union,RECEIVING,Marqui,Grizzle,YDS,49
+13888039,10/4/2014,D-II,Shaw,Virginia Union,RECEIVING,Marqui,Grizzle,TD,1
+13888040,10/4/2014,D-II,Shaw,Virginia Union,RECEIVING,Marqui,Grizzle,LONG,37
+13888041,10/4/2014,D-II,Shaw,Virginia Union,RECEIVING,Andre,Polite,REC,5
+13888042,10/4/2014,D-II,Shaw,Virginia Union,RECEIVING,Andre,Polite,YDS,49
+13888043,10/4/2014,D-II,Shaw,Virginia Union,RECEIVING,Andre,Polite,TD,0
+13888044,10/4/2014,D-II,Shaw,Virginia Union,RECEIVING,Andre,Polite,LONG,18
+13888045,10/4/2014,D-II,Shaw,Virginia Union,RECEIVING,Dushon,David,REC,4
+13888046,10/4/2014,D-II,Shaw,Virginia Union,RECEIVING,Dushon,David,YDS,43
+13888047,10/4/2014,D-II,Shaw,Virginia Union,RECEIVING,Dushon,David,TD,0
+13888048,10/4/2014,D-II,Shaw,Virginia Union,RECEIVING,Dushon,David,LONG,18
+13888049,10/4/2014,D-II,Shaw,Virginia Union,RECEIVING,Atravius,James,REC,3
+13888050,10/4/2014,D-II,Shaw,Virginia Union,RECEIVING,Atravius,James,YDS,26
+13888051,10/4/2014,D-II,Shaw,Virginia Union,RECEIVING,Atravius,James,TD,0
+13888052,10/4/2014,D-II,Shaw,Virginia Union,RECEIVING,Atravius,James,LONG,10
+13888053,10/4/2014,D-II,Shaw,Virginia Union,RECEIVING,N'gal,Tillman,REC,1
+13888054,10/4/2014,D-II,Shaw,Virginia Union,RECEIVING,N'gal,Tillman,YDS,15
+13888055,10/4/2014,D-II,Shaw,Virginia Union,RECEIVING,N'gal,Tillman,TD,0
+13888056,10/4/2014,D-II,Shaw,Virginia Union,RECEIVING,N'gal,Tillman,LONG,15
+13888057,10/4/2014,D-II,Shaw,Virginia Union,PUNTING,Kelvin,Wagner,NO,7
+13888058,10/4/2014,D-II,Shaw,Virginia Union,PUNTING,Kelvin,Wagner,YDS,238
+13888059,10/4/2014,D-II,Shaw,Virginia Union,PUNTING,Kelvin,Wagner,AVG,34.0
+13888060,10/4/2014,D-II,Shaw,Virginia Union,PUNTING,Kelvin,Wagner,LONG,49
+13888061,10/4/2014,D-II,Shaw,Virginia Union,PUNT RETURNS,N'gal,Tillman,NO,2
+13888062,10/4/2014,D-II,Shaw,Virginia Union,PUNT RETURNS,N'gal,Tillman,YDS,25
+13888063,10/4/2014,D-II,Shaw,Virginia Union,PUNT RETURNS,N'gal,Tillman,AVG,12.5
+13888064,10/4/2014,D-II,Shaw,Virginia Union,PUNT RETURNS,N'gal,Tillman,LONG,18
+13888065,10/4/2014,D-II,Shaw,Virginia Union,KICK RETURNS,N'gal,Tillman,NO,3
+13888066,10/4/2014,D-II,Shaw,Virginia Union,KICK RETURNS,N'gal,Tillman,YDS,38
+13888067,10/4/2014,D-II,Shaw,Virginia Union,KICK RETURNS,N'gal,Tillman,AVG,12.7
+13888068,10/4/2014,D-II,Shaw,Virginia Union,KICK RETURNS,N'gal,Tillman,LONG,22
+13888069,10/4/2014,D-II,Shaw,Virginia Union,KICK RETURNS,Donald,Jones,NO,1
+13888070,10/4/2014,D-II,Shaw,Virginia Union,KICK RETURNS,Donald,Jones,YDS,18
+13888071,10/4/2014,D-II,Shaw,Virginia Union,KICK RETURNS,Donald,Jones,AVG,18.0
+13888072,10/4/2014,D-II,Shaw,Virginia Union,KICK RETURNS,Donald,Jones,LONG,18
+13888073,10/4/2014,D-II,Virginia Union,Shaw,RUSHING,Jerome,Robinson,ATT,6
+13888074,10/4/2014,D-II,Virginia Union,Shaw,RUSHING,Jerome,Robinson,YDS,13
+13888075,10/4/2014,D-II,Virginia Union,Shaw,RUSHING,Jerome,Robinson,TD,0
+13888076,10/4/2014,D-II,Virginia Union,Shaw,RUSHING,Jerome,Robinson,LONG,8
+13888077,10/4/2014,D-II,Virginia Union,Shaw,RUSHING,Jussie,York,ATT,1
+13888078,10/4/2014,D-II,Virginia Union,Shaw,RUSHING,Jussie,York,YDS,12
+13888079,10/4/2014,D-II,Virginia Union,Shaw,RUSHING,Jussie,York,TD,0
+13888080,10/4/2014,D-II,Virginia Union,Shaw,RUSHING,Jussie,York,LONG,12
+13888081,10/4/2014,D-II,Virginia Union,Shaw,RUSHING,Cassi,Mcdowell,ATT,5
+13888082,10/4/2014,D-II,Virginia Union,Shaw,RUSHING,Cassi,Mcdowell,YDS,3
+13888083,10/4/2014,D-II,Virginia Union,Shaw,RUSHING,Cassi,Mcdowell,TD,0
+13888084,10/4/2014,D-II,Virginia Union,Shaw,RUSHING,Cassi,Mcdowell,LONG,4
+13888085,10/4/2014,D-II,Virginia Union,Shaw,RUSHING,Isiah,Carter,ATT,4
+13888086,10/4/2014,D-II,Virginia Union,Shaw,RUSHING,Isiah,Carter,YDS,-1
+13888087,10/4/2014,D-II,Virginia Union,Shaw,RUSHING,Isiah,Carter,TD,0
+13888088,10/4/2014,D-II,Virginia Union,Shaw,RUSHING,Isiah,Carter,LONG,2
+13888089,10/4/2014,D-II,Virginia Union,Shaw,RUSHING,Shawheem,Dowdy,ATT,4
+13888090,10/4/2014,D-II,Virginia Union,Shaw,RUSHING,Shawheem,Dowdy,YDS,-4
+13888091,10/4/2014,D-II,Virginia Union,Shaw,RUSHING,Shawheem,Dowdy,TD,1
+13888092,10/4/2014,D-II,Virginia Union,Shaw,RUSHING,Shawheem,Dowdy,LONG,1
+13888093,10/4/2014,D-II,Virginia Union,Shaw,RUSHING,Donte,Gross,ATT,1
+13888094,10/4/2014,D-II,Virginia Union,Shaw,RUSHING,Donte,Gross,YDS,-9
+13888095,10/4/2014,D-II,Virginia Union,Shaw,RUSHING,Donte,Gross,TD,0
+13888096,10/4/2014,D-II,Virginia Union,Shaw,RUSHING,Donte,Gross,LONG,0
+13888097,10/4/2014,D-II,Virginia Union,Shaw,RUSHING,Kenneth,Graham,ATT,6
+13888098,10/4/2014,D-II,Virginia Union,Shaw,RUSHING,Kenneth,Graham,YDS,-11
+13888099,10/4/2014,D-II,Virginia Union,Shaw,RUSHING,Kenneth,Graham,TD,0
+13888100,10/4/2014,D-II,Virginia Union,Shaw,RUSHING,Kenneth,Graham,LONG,9
+13888101,10/4/2014,D-II,Virginia Union,Shaw,PASSING,Kenneth,Graham,CP-ATT-INT,16-28-1
+13888102,10/4/2014,D-II,Virginia Union,Shaw,PASSING,Kenneth,Graham,YDS,292
+13888103,10/4/2014,D-II,Virginia Union,Shaw,PASSING,Kenneth,Graham,TD,2
+13888104,10/4/2014,D-II,Virginia Union,Shaw,PASSING,Kenneth,Graham,LONG,74
+13888105,10/4/2014,D-II,Virginia Union,Shaw,PASSING,Jussie,York,CP-ATT-INT,1-1-0
+13888106,10/4/2014,D-II,Virginia Union,Shaw,PASSING,Jussie,York,YDS,30
+13888107,10/4/2014,D-II,Virginia Union,Shaw,PASSING,Jussie,York,TD,1
+13888108,10/4/2014,D-II,Virginia Union,Shaw,PASSING,Jussie,York,LONG,30
+13888109,10/4/2014,D-II,Virginia Union,Shaw,PASSING,Shawheem,Dowdy,CP-ATT-INT,1-3-0
+13888110,10/4/2014,D-II,Virginia Union,Shaw,PASSING,Shawheem,Dowdy,YDS,19
+13888111,10/4/2014,D-II,Virginia Union,Shaw,PASSING,Shawheem,Dowdy,TD,0
+13888112,10/4/2014,D-II,Virginia Union,Shaw,PASSING,Shawheem,Dowdy,LONG,19
+13888113,10/4/2014,D-II,Virginia Union,Shaw,RECEIVING,Donte,Gross,REC,4
+13888114,10/4/2014,D-II,Virginia Union,Shaw,RECEIVING,Donte,Gross,YDS,168
+13888115,10/4/2014,D-II,Virginia Union,Shaw,RECEIVING,Donte,Gross,TD,2
+13888116,10/4/2014,D-II,Virginia Union,Shaw,RECEIVING,Donte,Gross,LONG,74
+13888117,10/4/2014,D-II,Virginia Union,Shaw,RECEIVING,Jussie,York,REC,8
+13888118,10/4/2014,D-II,Virginia Union,Shaw,RECEIVING,Jussie,York,YDS,82
+13888119,10/4/2014,D-II,Virginia Union,Shaw,RECEIVING,Jussie,York,TD,0
+13888120,10/4/2014,D-II,Virginia Union,Shaw,RECEIVING,Jussie,York,LONG,19
+13888121,10/4/2014,D-II,Virginia Union,Shaw,RECEIVING,Jamaal,Wright,REC,2
+13888122,10/4/2014,D-II,Virginia Union,Shaw,RECEIVING,Jamaal,Wright,YDS,41
+13888123,10/4/2014,D-II,Virginia Union,Shaw,RECEIVING,Jamaal,Wright,TD,0
+13888124,10/4/2014,D-II,Virginia Union,Shaw,RECEIVING,Jamaal,Wright,LONG,33
+13888125,10/4/2014,D-II,Virginia Union,Shaw,RECEIVING,Devante,Miller,REC,3
+13888126,10/4/2014,D-II,Virginia Union,Shaw,RECEIVING,Devante,Miller,YDS,37
+13888127,10/4/2014,D-II,Virginia Union,Shaw,RECEIVING,Devante,Miller,TD,1
+13888128,10/4/2014,D-II,Virginia Union,Shaw,RECEIVING,Devante,Miller,LONG,30
+13888129,10/4/2014,D-II,Virginia Union,Shaw,RECEIVING,Mantez,Holmes,REC,1
+13888130,10/4/2014,D-II,Virginia Union,Shaw,RECEIVING,Mantez,Holmes,YDS,13
+13888131,10/4/2014,D-II,Virginia Union,Shaw,RECEIVING,Mantez,Holmes,TD,0
+13888132,10/4/2014,D-II,Virginia Union,Shaw,RECEIVING,Mantez,Holmes,LONG,13
+13888133,10/4/2014,D-II,Virginia Union,Shaw,PUNTING,Troy,Krepich,NO,6
+13888134,10/4/2014,D-II,Virginia Union,Shaw,PUNTING,Troy,Krepich,YDS,260
+13888135,10/4/2014,D-II,Virginia Union,Shaw,PUNTING,Troy,Krepich,AVG,43.3
+13888136,10/4/2014,D-II,Virginia Union,Shaw,PUNTING,Troy,Krepich,LONG,58
+13888137,10/4/2014,D-II,Virginia Union,Shaw,KICK RETURNS,Jussie,York,NO,1
+13888138,10/4/2014,D-II,Virginia Union,Shaw,KICK RETURNS,Jussie,York,YDS,11
+13888139,10/4/2014,D-II,Virginia Union,Shaw,KICK RETURNS,Jussie,York,AVG,11.0
+13888140,10/4/2014,D-II,Virginia Union,Shaw,KICK RETURNS,Jussie,York,LONG,11

@@ -1,0 +1,109 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+21700001,11/15/2014,D-III,Dubuque,Central (Iowa),RUSHING,A,Arvanitakis,ATT,11
+21700002,11/15/2014,D-III,Dubuque,Central (Iowa),RUSHING,A,Arvanitakis,YDS,74
+21700003,11/15/2014,D-III,Dubuque,Central (Iowa),RUSHING,A,Arvanitakis,TD,0
+21700004,11/15/2014,D-III,Dubuque,Central (Iowa),RUSHING,A,Arvanitakis,LONG,23
+21700005,11/15/2014,D-III,Dubuque,Central (Iowa),RUSHING,D,Vance-jenkins,ATT,11
+21700006,11/15/2014,D-III,Dubuque,Central (Iowa),RUSHING,D,Vance-jenkins,YDS,33
+21700007,11/15/2014,D-III,Dubuque,Central (Iowa),RUSHING,D,Vance-jenkins,TD,0
+21700008,11/15/2014,D-III,Dubuque,Central (Iowa),RUSHING,D,Vance-jenkins,LONG,14
+21700009,11/15/2014,D-III,Dubuque,Central (Iowa),RUSHING,Chris,Bagley,ATT,1
+21700010,11/15/2014,D-III,Dubuque,Central (Iowa),RUSHING,Chris,Bagley,YDS,-3
+21700011,11/15/2014,D-III,Dubuque,Central (Iowa),RUSHING,Chris,Bagley,TD,0
+21700012,11/15/2014,D-III,Dubuque,Central (Iowa),RUSHING,Chris,Bagley,LONG,0
+21700013,11/15/2014,D-III,Dubuque,Central (Iowa),RUSHING,Zach,Fry,ATT,1
+21700014,11/15/2014,D-III,Dubuque,Central (Iowa),RUSHING,Zach,Fry,YDS,-7
+21700015,11/15/2014,D-III,Dubuque,Central (Iowa),RUSHING,Zach,Fry,TD,0
+21700016,11/15/2014,D-III,Dubuque,Central (Iowa),RUSHING,Zach,Fry,LONG,0
+21700017,11/15/2014,D-III,Dubuque,Central (Iowa),PASSING,Zach,Fry,CP-ATT-INT,11-30-2
+21700018,11/15/2014,D-III,Dubuque,Central (Iowa),PASSING,Zach,Fry,YDS,167
+21700019,11/15/2014,D-III,Dubuque,Central (Iowa),PASSING,Zach,Fry,TD,1
+21700020,11/15/2014,D-III,Dubuque,Central (Iowa),PASSING,Zach,Fry,LONG,41
+21700021,11/15/2014,D-III,Dubuque,Central (Iowa),RECEIVING,Tyler,Rutenbeck,REC,3
+21700022,11/15/2014,D-III,Dubuque,Central (Iowa),RECEIVING,Tyler,Rutenbeck,YDS,60
+21700023,11/15/2014,D-III,Dubuque,Central (Iowa),RECEIVING,Tyler,Rutenbeck,TD,1
+21700024,11/15/2014,D-III,Dubuque,Central (Iowa),RECEIVING,Tyler,Rutenbeck,LONG,41
+21700025,11/15/2014,D-III,Dubuque,Central (Iowa),RECEIVING,Chris,Bagley,REC,2
+21700026,11/15/2014,D-III,Dubuque,Central (Iowa),RECEIVING,Chris,Bagley,YDS,30
+21700027,11/15/2014,D-III,Dubuque,Central (Iowa),RECEIVING,Chris,Bagley,TD,0
+21700028,11/15/2014,D-III,Dubuque,Central (Iowa),RECEIVING,Chris,Bagley,LONG,19
+21700029,11/15/2014,D-III,Dubuque,Central (Iowa),RECEIVING,Lee,Jones,REC,1
+21700030,11/15/2014,D-III,Dubuque,Central (Iowa),RECEIVING,Lee,Jones,YDS,27
+21700031,11/15/2014,D-III,Dubuque,Central (Iowa),RECEIVING,Lee,Jones,TD,0
+21700032,11/15/2014,D-III,Dubuque,Central (Iowa),RECEIVING,Lee,Jones,LONG,27
+21700033,11/15/2014,D-III,Dubuque,Central (Iowa),RECEIVING,Shaun,Grewal,REC,2
+21700034,11/15/2014,D-III,Dubuque,Central (Iowa),RECEIVING,Shaun,Grewal,YDS,24
+21700035,11/15/2014,D-III,Dubuque,Central (Iowa),RECEIVING,Shaun,Grewal,TD,0
+21700036,11/15/2014,D-III,Dubuque,Central (Iowa),RECEIVING,Shaun,Grewal,LONG,15
+21700037,11/15/2014,D-III,Dubuque,Central (Iowa),RECEIVING,Dylan,Schultz,REC,2
+21700038,11/15/2014,D-III,Dubuque,Central (Iowa),RECEIVING,Dylan,Schultz,YDS,17
+21700039,11/15/2014,D-III,Dubuque,Central (Iowa),RECEIVING,Dylan,Schultz,TD,0
+21700040,11/15/2014,D-III,Dubuque,Central (Iowa),RECEIVING,Dylan,Schultz,LONG,11
+21700041,11/15/2014,D-III,Dubuque,Central (Iowa),RECEIVING,Tyler,Dobratz,REC,1
+21700042,11/15/2014,D-III,Dubuque,Central (Iowa),RECEIVING,Tyler,Dobratz,YDS,9
+21700043,11/15/2014,D-III,Dubuque,Central (Iowa),RECEIVING,Tyler,Dobratz,TD,0
+21700044,11/15/2014,D-III,Dubuque,Central (Iowa),RECEIVING,Tyler,Dobratz,LONG,9
+21700045,11/15/2014,D-III,Dubuque,Central (Iowa),PUNTING,M,Michaelis,NO,6
+21700046,11/15/2014,D-III,Dubuque,Central (Iowa),PUNTING,M,Michaelis,YDS,189
+21700047,11/15/2014,D-III,Dubuque,Central (Iowa),PUNTING,M,Michaelis,AVG,31.5
+21700048,11/15/2014,D-III,Dubuque,Central (Iowa),PUNTING,M,Michaelis,LONG,40
+21700049,11/15/2014,D-III,Dubuque,Central (Iowa),PUNT RETURNS,Tyler,Rutenbeck,NO,1
+21700050,11/15/2014,D-III,Dubuque,Central (Iowa),PUNT RETURNS,Tyler,Rutenbeck,YDS,2
+21700051,11/15/2014,D-III,Dubuque,Central (Iowa),PUNT RETURNS,Tyler,Rutenbeck,AVG,2.0
+21700052,11/15/2014,D-III,Dubuque,Central (Iowa),PUNT RETURNS,Tyler,Rutenbeck,LONG,2
+21700053,11/15/2014,D-III,Dubuque,Central (Iowa),KICK RETURNS,Dylan,Schultz,NO,3
+21700054,11/15/2014,D-III,Dubuque,Central (Iowa),KICK RETURNS,Dylan,Schultz,YDS,89
+21700055,11/15/2014,D-III,Dubuque,Central (Iowa),KICK RETURNS,Dylan,Schultz,AVG,29.7
+21700056,11/15/2014,D-III,Dubuque,Central (Iowa),KICK RETURNS,Dylan,Schultz,LONG,40
+21700057,11/15/2014,D-III,Dubuque,Central (Iowa),KICK RETURNS,Shaun,Grewal,NO,2
+21700058,11/15/2014,D-III,Dubuque,Central (Iowa),KICK RETURNS,Shaun,Grewal,YDS,38
+21700059,11/15/2014,D-III,Dubuque,Central (Iowa),KICK RETURNS,Shaun,Grewal,AVG,19.0
+21700060,11/15/2014,D-III,Dubuque,Central (Iowa),KICK RETURNS,Shaun,Grewal,LONG,21
+21700061,11/15/2014,D-III,Central (Iowa),Dubuque,RUSHING,Josh,Osborn,ATT,45
+21700062,11/15/2014,D-III,Central (Iowa),Dubuque,RUSHING,Josh,Osborn,YDS,254
+21700063,11/15/2014,D-III,Central (Iowa),Dubuque,RUSHING,Josh,Osborn,TD,3
+21700064,11/15/2014,D-III,Central (Iowa),Dubuque,RUSHING,Josh,Osborn,LONG,36
+21700065,11/15/2014,D-III,Central (Iowa),Dubuque,RUSHING,Brendon,Boerm,ATT,10
+21700066,11/15/2014,D-III,Central (Iowa),Dubuque,RUSHING,Brendon,Boerm,YDS,108
+21700067,11/15/2014,D-III,Central (Iowa),Dubuque,RUSHING,Brendon,Boerm,TD,1
+21700068,11/15/2014,D-III,Central (Iowa),Dubuque,RUSHING,Brendon,Boerm,LONG,41
+21700069,11/15/2014,D-III,Central (Iowa),Dubuque,RUSHING,Riley,Gray,ATT,5
+21700070,11/15/2014,D-III,Central (Iowa),Dubuque,RUSHING,Riley,Gray,YDS,18
+21700071,11/15/2014,D-III,Central (Iowa),Dubuque,RUSHING,Riley,Gray,TD,0
+21700072,11/15/2014,D-III,Central (Iowa),Dubuque,RUSHING,Riley,Gray,LONG,8
+21700073,11/15/2014,D-III,Central (Iowa),Dubuque,RUSHING,Taylor,Cox,ATT,2
+21700074,11/15/2014,D-III,Central (Iowa),Dubuque,RUSHING,Taylor,Cox,YDS,14
+21700075,11/15/2014,D-III,Central (Iowa),Dubuque,RUSHING,Taylor,Cox,TD,0
+21700076,11/15/2014,D-III,Central (Iowa),Dubuque,RUSHING,Taylor,Cox,LONG,8
+21700077,11/15/2014,D-III,Central (Iowa),Dubuque,RUSHING,Aaron,Eiseler,ATT,1
+21700078,11/15/2014,D-III,Central (Iowa),Dubuque,RUSHING,Aaron,Eiseler,YDS,7
+21700079,11/15/2014,D-III,Central (Iowa),Dubuque,RUSHING,Aaron,Eiseler,TD,1
+21700080,11/15/2014,D-III,Central (Iowa),Dubuque,RUSHING,Aaron,Eiseler,LONG,7
+21700081,11/15/2014,D-III,Central (Iowa),Dubuque,PASSING,Aaron,Eiseler,CP-ATT-INT,7-18-1
+21700082,11/15/2014,D-III,Central (Iowa),Dubuque,PASSING,Aaron,Eiseler,YDS,78
+21700083,11/15/2014,D-III,Central (Iowa),Dubuque,PASSING,Aaron,Eiseler,TD,0
+21700084,11/15/2014,D-III,Central (Iowa),Dubuque,PASSING,Aaron,Eiseler,LONG,30
+21700085,11/15/2014,D-III,Central (Iowa),Dubuque,RECEIVING,Sam,Markham,REC,4
+21700086,11/15/2014,D-III,Central (Iowa),Dubuque,RECEIVING,Sam,Markham,YDS,45
+21700087,11/15/2014,D-III,Central (Iowa),Dubuque,RECEIVING,Sam,Markham,TD,0
+21700088,11/15/2014,D-III,Central (Iowa),Dubuque,RECEIVING,Sam,Markham,LONG,30
+21700089,11/15/2014,D-III,Central (Iowa),Dubuque,RECEIVING,Brendon,Boerm,REC,3
+21700090,11/15/2014,D-III,Central (Iowa),Dubuque,RECEIVING,Brendon,Boerm,YDS,33
+21700091,11/15/2014,D-III,Central (Iowa),Dubuque,RECEIVING,Brendon,Boerm,TD,0
+21700092,11/15/2014,D-III,Central (Iowa),Dubuque,RECEIVING,Brendon,Boerm,LONG,12
+21700093,11/15/2014,D-III,Central (Iowa),Dubuque,PUNTING,Jacob,Edleman,NO,5
+21700094,11/15/2014,D-III,Central (Iowa),Dubuque,PUNTING,Jacob,Edleman,YDS,181
+21700095,11/15/2014,D-III,Central (Iowa),Dubuque,PUNTING,Jacob,Edleman,AVG,36.2
+21700096,11/15/2014,D-III,Central (Iowa),Dubuque,PUNTING,Jacob,Edleman,LONG,38
+21700097,11/15/2014,D-III,Central (Iowa),Dubuque,PUNT RETURNS,Bryan,Mejia,NO,1
+21700098,11/15/2014,D-III,Central (Iowa),Dubuque,PUNT RETURNS,Bryan,Mejia,YDS,-3
+21700099,11/15/2014,D-III,Central (Iowa),Dubuque,PUNT RETURNS,Bryan,Mejia,AVG,-3.0
+21700100,11/15/2014,D-III,Central (Iowa),Dubuque,PUNT RETURNS,Bryan,Mejia,LONG,0
+21700101,11/15/2014,D-III,Central (Iowa),Dubuque,PUNT RETURNS,Taylor,Cox,NO,4
+21700102,11/15/2014,D-III,Central (Iowa),Dubuque,PUNT RETURNS,Taylor,Cox,YDS,19
+21700103,11/15/2014,D-III,Central (Iowa),Dubuque,PUNT RETURNS,Taylor,Cox,AVG,4.8
+21700104,11/15/2014,D-III,Central (Iowa),Dubuque,PUNT RETURNS,Taylor,Cox,LONG,14
+21700105,11/15/2014,D-III,Central (Iowa),Dubuque,KICK RETURNS,Zach,Martinelli,NO,1
+21700106,11/15/2014,D-III,Central (Iowa),Dubuque,KICK RETURNS,Zach,Martinelli,YDS,13
+21700107,11/15/2014,D-III,Central (Iowa),Dubuque,KICK RETURNS,Zach,Martinelli,AVG,13.0
+21700108,11/15/2014,D-III,Central (Iowa),Dubuque,KICK RETURNS,Zach,Martinelli,LONG,13

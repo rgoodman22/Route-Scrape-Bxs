@@ -1,0 +1,81 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+20597001,9/6/2014,D-III,Aurora,Illinois Col.,RUSHING,J,Apple,ATT,15
+20597002,9/6/2014,D-III,Aurora,Illinois Col.,RUSHING,J,Apple,YDS,61
+20597003,9/6/2014,D-III,Aurora,Illinois Col.,RUSHING,J,Apple,TD,0
+20597004,9/6/2014,D-III,Aurora,Illinois Col.,RUSHING,J,Apple,LONG,18
+20597005,9/6/2014,D-III,Aurora,Illinois Col.,RUSHING,B,Evans,ATT,8
+20597006,9/6/2014,D-III,Aurora,Illinois Col.,RUSHING,B,Evans,YDS,33
+20597007,9/6/2014,D-III,Aurora,Illinois Col.,RUSHING,B,Evans,TD,1
+20597008,9/6/2014,D-III,Aurora,Illinois Col.,RUSHING,B,Evans,LONG,9
+20597009,9/6/2014,D-III,Aurora,Illinois Col.,RUSHING,R,Ebarle,ATT,3
+20597010,9/6/2014,D-III,Aurora,Illinois Col.,RUSHING,R,Ebarle,YDS,10
+20597011,9/6/2014,D-III,Aurora,Illinois Col.,RUSHING,R,Ebarle,TD,0
+20597012,9/6/2014,D-III,Aurora,Illinois Col.,RUSHING,R,Ebarle,LONG,6
+20597013,9/6/2014,D-III,Aurora,Illinois Col.,RUSHING,E,Carrera,ATT,2
+20597014,9/6/2014,D-III,Aurora,Illinois Col.,RUSHING,E,Carrera,YDS,6
+20597015,9/6/2014,D-III,Aurora,Illinois Col.,RUSHING,E,Carrera,TD,0
+20597016,9/6/2014,D-III,Aurora,Illinois Col.,RUSHING,E,Carrera,LONG,5
+20597017,9/6/2014,D-III,Aurora,Illinois Col.,RUSHING,C,Townsend,ATT,1
+20597018,9/6/2014,D-III,Aurora,Illinois Col.,RUSHING,C,Townsend,YDS,-10
+20597019,9/6/2014,D-III,Aurora,Illinois Col.,RUSHING,C,Townsend,TD,0
+20597020,9/6/2014,D-III,Aurora,Illinois Col.,RUSHING,C,Townsend,LONG,0
+20597021,9/6/2014,D-III,Aurora,Illinois Col.,RUSHING,D,Cole,ATT,3
+20597022,9/6/2014,D-III,Aurora,Illinois Col.,RUSHING,D,Cole,YDS,-25
+20597023,9/6/2014,D-III,Aurora,Illinois Col.,RUSHING,D,Cole,TD,0
+20597024,9/6/2014,D-III,Aurora,Illinois Col.,RUSHING,D,Cole,LONG,0
+20597025,9/6/2014,D-III,Aurora,Illinois Col.,PASSING,D,Cole,CP-ATT-INT,3-10-1
+20597026,9/6/2014,D-III,Aurora,Illinois Col.,PASSING,D,Cole,YDS,8
+20597027,9/6/2014,D-III,Aurora,Illinois Col.,PASSING,D,Cole,TD,0
+20597028,9/6/2014,D-III,Aurora,Illinois Col.,PASSING,D,Cole,LONG,5
+20597029,9/6/2014,D-III,Aurora,Illinois Col.,PASSING,C,Townsend,CP-ATT-INT,1-4-0
+20597030,9/6/2014,D-III,Aurora,Illinois Col.,PASSING,C,Townsend,YDS,6
+20597031,9/6/2014,D-III,Aurora,Illinois Col.,PASSING,C,Townsend,TD,0
+20597032,9/6/2014,D-III,Aurora,Illinois Col.,PASSING,C,Townsend,LONG,6
+20597033,9/6/2014,D-III,Aurora,Illinois Col.,RECEIVING,J,Apple,REC,3
+20597034,9/6/2014,D-III,Aurora,Illinois Col.,RECEIVING,J,Apple,YDS,8
+20597035,9/6/2014,D-III,Aurora,Illinois Col.,RECEIVING,J,Apple,TD,0
+20597036,9/6/2014,D-III,Aurora,Illinois Col.,RECEIVING,J,Apple,LONG,5
+20597037,9/6/2014,D-III,Aurora,Illinois Col.,RECEIVING,R,Ebarle,REC,1
+20597038,9/6/2014,D-III,Aurora,Illinois Col.,RECEIVING,R,Ebarle,YDS,6
+20597039,9/6/2014,D-III,Aurora,Illinois Col.,RECEIVING,R,Ebarle,TD,0
+20597040,9/6/2014,D-III,Aurora,Illinois Col.,RECEIVING,R,Ebarle,LONG,6
+20597041,9/6/2014,D-III,Aurora,Illinois Col.,PUNTING,K,Chudoba,NO,7
+20597042,9/6/2014,D-III,Aurora,Illinois Col.,PUNTING,K,Chudoba,YDS,267
+20597043,9/6/2014,D-III,Aurora,Illinois Col.,PUNTING,K,Chudoba,AVG,38.1
+20597044,9/6/2014,D-III,Aurora,Illinois Col.,PUNTING,K,Chudoba,LONG,47
+20597045,9/6/2014,D-III,Aurora,Illinois Col.,KICK RETURNS,J,Apple,NO,1
+20597046,9/6/2014,D-III,Aurora,Illinois Col.,KICK RETURNS,J,Apple,YDS,23
+20597047,9/6/2014,D-III,Aurora,Illinois Col.,KICK RETURNS,J,Apple,AVG,23.0
+20597048,9/6/2014,D-III,Aurora,Illinois Col.,KICK RETURNS,J,Apple,LONG,21
+20597049,9/6/2014,D-III,Aurora,Illinois Col.,KICK RETURNS,P,Devires,NO,1
+20597050,9/6/2014,D-III,Aurora,Illinois Col.,KICK RETURNS,P,Devires,YDS,5
+20597051,9/6/2014,D-III,Aurora,Illinois Col.,KICK RETURNS,P,Devires,AVG,5.0
+20597052,9/6/2014,D-III,Aurora,Illinois Col.,KICK RETURNS,P,Devires,LONG,5
+20597053,9/6/2014,D-III,Aurora,Illinois Col.,KICK RETURNS,C,Guyton,NO,3
+20597054,9/6/2014,D-III,Aurora,Illinois Col.,KICK RETURNS,C,Guyton,YDS,28
+20597055,9/6/2014,D-III,Aurora,Illinois Col.,KICK RETURNS,C,Guyton,AVG,9.3
+20597056,9/6/2014,D-III,Aurora,Illinois Col.,KICK RETURNS,C,Guyton,LONG,26
+20597057,9/6/2014,D-III,Aurora,Illinois Col.,KICK RETURNS,D,Logiurato,NO,1
+20597058,9/6/2014,D-III,Aurora,Illinois Col.,KICK RETURNS,D,Logiurato,YDS,27
+20597059,9/6/2014,D-III,Aurora,Illinois Col.,KICK RETURNS,D,Logiurato,AVG,27.0
+20597060,9/6/2014,D-III,Aurora,Illinois Col.,KICK RETURNS,D,Logiurato,LONG,27
+20597061,9/6/2014,D-III,Aurora,Illinois Col.,KICK RETURNS,D,Pearson,NO,1
+20597062,9/6/2014,D-III,Aurora,Illinois Col.,KICK RETURNS,D,Pearson,YDS,25
+20597063,9/6/2014,D-III,Aurora,Illinois Col.,KICK RETURNS,D,Pearson,AVG,25.0
+20597064,9/6/2014,D-III,Aurora,Illinois Col.,KICK RETURNS,D,Pearson,LONG,25
+20597065,9/6/2014,D-III,Illinois Col.,Aurora,RUSHING,,Team,ATT,18
+20597066,9/6/2014,D-III,Illinois Col.,Aurora,RUSHING,,Team,YDS,90
+20597067,9/6/2014,D-III,Illinois Col.,Aurora,RUSHING,,Team,TD,2
+20597068,9/6/2014,D-III,Illinois Col.,Aurora,RUSHING,,Team,LONG,11
+20597069,9/6/2014,D-III,Illinois Col.,Aurora,PASSING,,Team,CP-ATT-INT,24-35-0
+20597070,9/6/2014,D-III,Illinois Col.,Aurora,PASSING,,Team,YDS,266
+20597071,9/6/2014,D-III,Illinois Col.,Aurora,PASSING,,Team,TD,3
+20597072,9/6/2014,D-III,Illinois Col.,Aurora,PASSING,,Team,LONG,37
+20597073,9/6/2014,D-III,Illinois Col.,Aurora,RECEIVING,,Team,REC,9
+20597074,9/6/2014,D-III,Illinois Col.,Aurora,RECEIVING,,Team,YDS,163
+20597075,9/6/2014,D-III,Illinois Col.,Aurora,RECEIVING,,Team,TD,2
+20597076,9/6/2014,D-III,Illinois Col.,Aurora,RECEIVING,,Team,LONG,37
+20597077,9/6/2014,D-III,Illinois Col.,Aurora,KICK RETURNS,,Team,NO,2
+20597078,9/6/2014,D-III,Illinois Col.,Aurora,KICK RETURNS,,Team,YDS,34
+20597079,9/6/2014,D-III,Illinois Col.,Aurora,KICK RETURNS,,Team,AVG,17.0
+20597080,9/6/2014,D-III,Illinois Col.,Aurora,KICK RETURNS,,Team,LONG,24

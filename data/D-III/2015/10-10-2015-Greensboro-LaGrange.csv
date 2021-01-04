@@ -1,0 +1,161 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+22401001,10/10/2015,D-III,Greensboro,LaGrange,RUSHING,Kenneth,Purvis,ATT,15
+22401002,10/10/2015,D-III,Greensboro,LaGrange,RUSHING,Kenneth,Purvis,YDS,87
+22401003,10/10/2015,D-III,Greensboro,LaGrange,RUSHING,Kenneth,Purvis,TD,2
+22401004,10/10/2015,D-III,Greensboro,LaGrange,RUSHING,Kenneth,Purvis,LONG,26
+22401005,10/10/2015,D-III,Greensboro,LaGrange,RUSHING,Cortez,Vernon,ATT,16
+22401006,10/10/2015,D-III,Greensboro,LaGrange,RUSHING,Cortez,Vernon,YDS,85
+22401007,10/10/2015,D-III,Greensboro,LaGrange,RUSHING,Cortez,Vernon,TD,0
+22401008,10/10/2015,D-III,Greensboro,LaGrange,RUSHING,Cortez,Vernon,LONG,18
+22401009,10/10/2015,D-III,Greensboro,LaGrange,RUSHING,Meleck,Thornton,ATT,5
+22401010,10/10/2015,D-III,Greensboro,LaGrange,RUSHING,Meleck,Thornton,YDS,9
+22401011,10/10/2015,D-III,Greensboro,LaGrange,RUSHING,Meleck,Thornton,TD,0
+22401012,10/10/2015,D-III,Greensboro,LaGrange,RUSHING,Meleck,Thornton,LONG,7
+22401013,10/10/2015,D-III,Greensboro,LaGrange,RUSHING,Raymond,Bridges,ATT,2
+22401014,10/10/2015,D-III,Greensboro,LaGrange,RUSHING,Raymond,Bridges,YDS,-2
+22401015,10/10/2015,D-III,Greensboro,LaGrange,RUSHING,Raymond,Bridges,TD,0
+22401016,10/10/2015,D-III,Greensboro,LaGrange,RUSHING,Raymond,Bridges,LONG,6
+22401017,10/10/2015,D-III,Greensboro,LaGrange,RUSHING,Mac,Graham,ATT,10
+22401018,10/10/2015,D-III,Greensboro,LaGrange,RUSHING,Mac,Graham,YDS,-23
+22401019,10/10/2015,D-III,Greensboro,LaGrange,RUSHING,Mac,Graham,TD,1
+22401020,10/10/2015,D-III,Greensboro,LaGrange,RUSHING,Mac,Graham,LONG,10
+22401021,10/10/2015,D-III,Greensboro,LaGrange,PASSING,Mac,Graham,CP-ATT-INT,18-37-2
+22401022,10/10/2015,D-III,Greensboro,LaGrange,PASSING,Mac,Graham,YDS,236
+22401023,10/10/2015,D-III,Greensboro,LaGrange,PASSING,Mac,Graham,TD,1
+22401024,10/10/2015,D-III,Greensboro,LaGrange,PASSING,Mac,Graham,LONG,30
+22401025,10/10/2015,D-III,Greensboro,LaGrange,RECEIVING,Raymond,Bridges,REC,9
+22401026,10/10/2015,D-III,Greensboro,LaGrange,RECEIVING,Raymond,Bridges,YDS,118
+22401027,10/10/2015,D-III,Greensboro,LaGrange,RECEIVING,Raymond,Bridges,TD,0
+22401028,10/10/2015,D-III,Greensboro,LaGrange,RECEIVING,Raymond,Bridges,LONG,30
+22401029,10/10/2015,D-III,Greensboro,LaGrange,RECEIVING,Armani,Williams,REC,6
+22401030,10/10/2015,D-III,Greensboro,LaGrange,RECEIVING,Armani,Williams,YDS,100
+22401031,10/10/2015,D-III,Greensboro,LaGrange,RECEIVING,Armani,Williams,TD,1
+22401032,10/10/2015,D-III,Greensboro,LaGrange,RECEIVING,Armani,Williams,LONG,23
+22401033,10/10/2015,D-III,Greensboro,LaGrange,RECEIVING,Troy,Hill,REC,2
+22401034,10/10/2015,D-III,Greensboro,LaGrange,RECEIVING,Troy,Hill,YDS,19
+22401035,10/10/2015,D-III,Greensboro,LaGrange,RECEIVING,Troy,Hill,TD,0
+22401036,10/10/2015,D-III,Greensboro,LaGrange,RECEIVING,Troy,Hill,LONG,10
+22401037,10/10/2015,D-III,Greensboro,LaGrange,RECEIVING,Cortez,Vernon,REC,1
+22401038,10/10/2015,D-III,Greensboro,LaGrange,RECEIVING,Cortez,Vernon,YDS,-1
+22401039,10/10/2015,D-III,Greensboro,LaGrange,RECEIVING,Cortez,Vernon,TD,0
+22401040,10/10/2015,D-III,Greensboro,LaGrange,RECEIVING,Cortez,Vernon,LONG,0
+22401041,10/10/2015,D-III,Greensboro,LaGrange,PUNTING,Ryan,Campbell,NO,6
+22401042,10/10/2015,D-III,Greensboro,LaGrange,PUNTING,Ryan,Campbell,YDS,167
+22401043,10/10/2015,D-III,Greensboro,LaGrange,PUNTING,Ryan,Campbell,AVG,27.8
+22401044,10/10/2015,D-III,Greensboro,LaGrange,PUNTING,Ryan,Campbell,LONG,51
+22401045,10/10/2015,D-III,Greensboro,LaGrange,PUNT RETURNS,Cortez,Vernon,NO,2
+22401046,10/10/2015,D-III,Greensboro,LaGrange,PUNT RETURNS,Cortez,Vernon,YDS,4
+22401047,10/10/2015,D-III,Greensboro,LaGrange,PUNT RETURNS,Cortez,Vernon,AVG,2.0
+22401048,10/10/2015,D-III,Greensboro,LaGrange,PUNT RETURNS,Cortez,Vernon,LONG,5
+22401049,10/10/2015,D-III,Greensboro,LaGrange,KICK RETURNS,Chris,Holmes,NO,3
+22401050,10/10/2015,D-III,Greensboro,LaGrange,KICK RETURNS,Chris,Holmes,YDS,53
+22401051,10/10/2015,D-III,Greensboro,LaGrange,KICK RETURNS,Chris,Holmes,AVG,17.7
+22401052,10/10/2015,D-III,Greensboro,LaGrange,KICK RETURNS,Chris,Holmes,LONG,20
+22401053,10/10/2015,D-III,LaGrange,Greensboro,RUSHING,Jamarkis,Holmes,ATT,8
+22401054,10/10/2015,D-III,LaGrange,Greensboro,RUSHING,Jamarkis,Holmes,YDS,41
+22401055,10/10/2015,D-III,LaGrange,Greensboro,RUSHING,Jamarkis,Holmes,TD,1
+22401056,10/10/2015,D-III,LaGrange,Greensboro,RUSHING,Jamarkis,Holmes,LONG,20
+22401057,10/10/2015,D-III,LaGrange,Greensboro,RUSHING,Drew,Lewiski,ATT,3
+22401058,10/10/2015,D-III,LaGrange,Greensboro,RUSHING,Drew,Lewiski,YDS,39
+22401059,10/10/2015,D-III,LaGrange,Greensboro,RUSHING,Drew,Lewiski,TD,0
+22401060,10/10/2015,D-III,LaGrange,Greensboro,RUSHING,Drew,Lewiski,LONG,36
+22401061,10/10/2015,D-III,LaGrange,Greensboro,RUSHING,Seqouh,Humes,ATT,3
+22401062,10/10/2015,D-III,LaGrange,Greensboro,RUSHING,Seqouh,Humes,YDS,11
+22401063,10/10/2015,D-III,LaGrange,Greensboro,RUSHING,Seqouh,Humes,TD,0
+22401064,10/10/2015,D-III,LaGrange,Greensboro,RUSHING,Seqouh,Humes,LONG,5
+22401065,10/10/2015,D-III,LaGrange,Greensboro,RUSHING,Nick,Searcy,ATT,4
+22401066,10/10/2015,D-III,LaGrange,Greensboro,RUSHING,Nick,Searcy,YDS,9
+22401067,10/10/2015,D-III,LaGrange,Greensboro,RUSHING,Nick,Searcy,TD,0
+22401068,10/10/2015,D-III,LaGrange,Greensboro,RUSHING,Nick,Searcy,LONG,5
+22401069,10/10/2015,D-III,LaGrange,Greensboro,RUSHING,Jacquan,Burns,ATT,1
+22401070,10/10/2015,D-III,LaGrange,Greensboro,RUSHING,Jacquan,Burns,YDS,2
+22401071,10/10/2015,D-III,LaGrange,Greensboro,RUSHING,Jacquan,Burns,TD,0
+22401072,10/10/2015,D-III,LaGrange,Greensboro,RUSHING,Jacquan,Burns,LONG,2
+22401073,10/10/2015,D-III,LaGrange,Greensboro,RUSHING,Connor,Blair,ATT,4
+22401074,10/10/2015,D-III,LaGrange,Greensboro,RUSHING,Connor,Blair,YDS,0
+22401075,10/10/2015,D-III,LaGrange,Greensboro,RUSHING,Connor,Blair,TD,0
+22401076,10/10/2015,D-III,LaGrange,Greensboro,RUSHING,Connor,Blair,LONG,8
+22401077,10/10/2015,D-III,LaGrange,Greensboro,RUSHING,,Team,ATT,3
+22401078,10/10/2015,D-III,LaGrange,Greensboro,RUSHING,,Team,YDS,-31
+22401079,10/10/2015,D-III,LaGrange,Greensboro,RUSHING,,Team,TD,0
+22401080,10/10/2015,D-III,LaGrange,Greensboro,RUSHING,,Team,LONG,0
+22401081,10/10/2015,D-III,LaGrange,Greensboro,PASSING,Connor,Blair,CP-ATT-INT,28-45-0
+22401082,10/10/2015,D-III,LaGrange,Greensboro,PASSING,Connor,Blair,YDS,297
+22401083,10/10/2015,D-III,LaGrange,Greensboro,PASSING,Connor,Blair,TD,2
+22401084,10/10/2015,D-III,LaGrange,Greensboro,PASSING,Connor,Blair,LONG,39
+22401085,10/10/2015,D-III,LaGrange,Greensboro,PASSING,,Team,CP-ATT-INT,0-1-0
+22401086,10/10/2015,D-III,LaGrange,Greensboro,PASSING,,Team,YDS,0
+22401087,10/10/2015,D-III,LaGrange,Greensboro,PASSING,,Team,TD,0
+22401088,10/10/2015,D-III,LaGrange,Greensboro,PASSING,,Team,LONG,0
+22401089,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,M,Jackson,REC,6
+22401090,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,M,Jackson,YDS,109
+22401091,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,M,Jackson,TD,2
+22401092,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,M,Jackson,LONG,39
+22401093,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,Lavell,Meeks,REC,4
+22401094,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,Lavell,Meeks,YDS,46
+22401095,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,Lavell,Meeks,TD,0
+22401096,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,Lavell,Meeks,LONG,25
+22401097,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,Josh,Hardrick,REC,5
+22401098,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,Josh,Hardrick,YDS,42
+22401099,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,Josh,Hardrick,TD,0
+22401100,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,Josh,Hardrick,LONG,29
+22401101,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,Patrick,Goodin,REC,1
+22401102,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,Patrick,Goodin,YDS,23
+22401103,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,Patrick,Goodin,TD,0
+22401104,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,Patrick,Goodin,LONG,23
+22401105,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,Marcus,Campbell,REC,1
+22401106,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,Marcus,Campbell,YDS,21
+22401107,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,Marcus,Campbell,TD,0
+22401108,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,Marcus,Campbell,LONG,21
+22401109,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,Untorrey,Thomas,REC,3
+22401110,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,Untorrey,Thomas,YDS,17
+22401111,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,Untorrey,Thomas,TD,0
+22401112,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,Untorrey,Thomas,LONG,7
+22401113,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,Seqouh,Humes,REC,3
+22401114,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,Seqouh,Humes,YDS,13
+22401115,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,Seqouh,Humes,TD,0
+22401116,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,Seqouh,Humes,LONG,11
+22401117,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,Joshua,King,REC,1
+22401118,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,Joshua,King,YDS,11
+22401119,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,Joshua,King,TD,0
+22401120,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,Joshua,King,LONG,11
+22401121,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,K,Mitchell,REC,1
+22401122,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,K,Mitchell,YDS,7
+22401123,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,K,Mitchell,TD,0
+22401124,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,K,Mitchell,LONG,7
+22401125,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,Wesley,Hughes,REC,1
+22401126,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,Wesley,Hughes,YDS,5
+22401127,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,Wesley,Hughes,TD,0
+22401128,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,Wesley,Hughes,LONG,5
+22401129,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,Jamarkis,Holmes,REC,2
+22401130,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,Jamarkis,Holmes,YDS,3
+22401131,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,Jamarkis,Holmes,TD,0
+22401132,10/10/2015,D-III,LaGrange,Greensboro,RECEIVING,Jamarkis,Holmes,LONG,6
+22401133,10/10/2015,D-III,LaGrange,Greensboro,PUNTING,Connor,Blair,NO,2
+22401134,10/10/2015,D-III,LaGrange,Greensboro,PUNTING,Connor,Blair,YDS,54
+22401135,10/10/2015,D-III,LaGrange,Greensboro,PUNTING,Connor,Blair,AVG,27.0
+22401136,10/10/2015,D-III,LaGrange,Greensboro,PUNTING,Connor,Blair,LONG,36
+22401137,10/10/2015,D-III,LaGrange,Greensboro,PUNTING,Patrick,Goodin,NO,4
+22401138,10/10/2015,D-III,LaGrange,Greensboro,PUNTING,Patrick,Goodin,YDS,168
+22401139,10/10/2015,D-III,LaGrange,Greensboro,PUNTING,Patrick,Goodin,AVG,42.0
+22401140,10/10/2015,D-III,LaGrange,Greensboro,PUNTING,Patrick,Goodin,LONG,58
+22401141,10/10/2015,D-III,LaGrange,Greensboro,PUNT RETURNS,Kenneth,Bell,NO,2
+22401142,10/10/2015,D-III,LaGrange,Greensboro,PUNT RETURNS,Kenneth,Bell,YDS,-4
+22401143,10/10/2015,D-III,LaGrange,Greensboro,PUNT RETURNS,Kenneth,Bell,AVG,-2.0
+22401144,10/10/2015,D-III,LaGrange,Greensboro,PUNT RETURNS,Kenneth,Bell,LONG,0
+22401145,10/10/2015,D-III,LaGrange,Greensboro,KICK RETURNS,Seqouh,Humes,NO,1
+22401146,10/10/2015,D-III,LaGrange,Greensboro,KICK RETURNS,Seqouh,Humes,YDS,23
+22401147,10/10/2015,D-III,LaGrange,Greensboro,KICK RETURNS,Seqouh,Humes,AVG,23.0
+22401148,10/10/2015,D-III,LaGrange,Greensboro,KICK RETURNS,Seqouh,Humes,LONG,23
+22401149,10/10/2015,D-III,LaGrange,Greensboro,KICK RETURNS,Drew,Lewiski,NO,2
+22401150,10/10/2015,D-III,LaGrange,Greensboro,KICK RETURNS,Drew,Lewiski,YDS,20
+22401151,10/10/2015,D-III,LaGrange,Greensboro,KICK RETURNS,Drew,Lewiski,AVG,10.0
+22401152,10/10/2015,D-III,LaGrange,Greensboro,KICK RETURNS,Drew,Lewiski,LONG,13
+22401153,10/10/2015,D-III,LaGrange,Greensboro,KICK RETURNS,Patrick,Goodin,NO,1
+22401154,10/10/2015,D-III,LaGrange,Greensboro,KICK RETURNS,Patrick,Goodin,YDS,0
+22401155,10/10/2015,D-III,LaGrange,Greensboro,KICK RETURNS,Patrick,Goodin,AVG,0.0
+22401156,10/10/2015,D-III,LaGrange,Greensboro,KICK RETURNS,Patrick,Goodin,LONG,0
+22401157,10/10/2015,D-III,LaGrange,Greensboro,KICK RETURNS,Cody,Howes,NO,1
+22401158,10/10/2015,D-III,LaGrange,Greensboro,KICK RETURNS,Cody,Howes,YDS,15
+22401159,10/10/2015,D-III,LaGrange,Greensboro,KICK RETURNS,Cody,Howes,AVG,15.0
+22401160,10/10/2015,D-III,LaGrange,Greensboro,KICK RETURNS,Cody,Howes,LONG,15

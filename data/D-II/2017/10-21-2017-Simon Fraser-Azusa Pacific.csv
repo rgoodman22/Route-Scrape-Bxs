@@ -1,0 +1,61 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+17040001,10/21/2017,D-II,Simon Fraser,Azusa Pacific,RUSHING,,Team,ATT,2
+17040002,10/21/2017,D-II,Simon Fraser,Azusa Pacific,RUSHING,,Team,YDS,3
+17040003,10/21/2017,D-II,Simon Fraser,Azusa Pacific,RUSHING,,Team,TD,0
+17040004,10/21/2017,D-II,Simon Fraser,Azusa Pacific,RUSHING,,Team,LONG,5
+17040005,10/21/2017,D-II,Simon Fraser,Azusa Pacific,PASSING,,Team,CP-ATT-INT,22-36-1
+17040006,10/21/2017,D-II,Simon Fraser,Azusa Pacific,PASSING,,Team,YDS,176
+17040007,10/21/2017,D-II,Simon Fraser,Azusa Pacific,PASSING,,Team,TD,0
+17040008,10/21/2017,D-II,Simon Fraser,Azusa Pacific,PASSING,,Team,LONG,19
+17040009,10/21/2017,D-II,Simon Fraser,Azusa Pacific,RECEIVING,,Team,REC,10
+17040010,10/21/2017,D-II,Simon Fraser,Azusa Pacific,RECEIVING,,Team,YDS,89
+17040011,10/21/2017,D-II,Simon Fraser,Azusa Pacific,RECEIVING,,Team,TD,0
+17040012,10/21/2017,D-II,Simon Fraser,Azusa Pacific,RECEIVING,,Team,LONG,17
+17040013,10/21/2017,D-II,Simon Fraser,Azusa Pacific,PUNTING,,Team,NO,9
+17040014,10/21/2017,D-II,Simon Fraser,Azusa Pacific,PUNTING,,Team,YDS,248
+17040015,10/21/2017,D-II,Simon Fraser,Azusa Pacific,PUNTING,,Team,AVG,27.6
+17040016,10/21/2017,D-II,Simon Fraser,Azusa Pacific,PUNTING,,Team,LONG,50
+17040017,10/21/2017,D-II,Simon Fraser,Azusa Pacific,KICK RETURNS,,Team,NO,5
+17040018,10/21/2017,D-II,Simon Fraser,Azusa Pacific,KICK RETURNS,,Team,YDS,84
+17040019,10/21/2017,D-II,Simon Fraser,Azusa Pacific,KICK RETURNS,,Team,AVG,16.8
+17040020,10/21/2017,D-II,Simon Fraser,Azusa Pacific,KICK RETURNS,,Team,LONG,21
+17040021,10/21/2017,D-II,Azusa Pacific,Simon Fraser,RUSHING,,Team,ATT,8
+17040022,10/21/2017,D-II,Azusa Pacific,Simon Fraser,RUSHING,,Team,YDS,92
+17040023,10/21/2017,D-II,Azusa Pacific,Simon Fraser,RUSHING,,Team,TD,1
+17040024,10/21/2017,D-II,Azusa Pacific,Simon Fraser,RUSHING,,Team,LONG,26
+17040025,10/21/2017,D-II,Azusa Pacific,Simon Fraser,RUSHING,T,Williams,ATT,3
+17040026,10/21/2017,D-II,Azusa Pacific,Simon Fraser,RUSHING,T,Williams,YDS,20
+17040027,10/21/2017,D-II,Azusa Pacific,Simon Fraser,RUSHING,T,Williams,TD,0
+17040028,10/21/2017,D-II,Azusa Pacific,Simon Fraser,RUSHING,T,Williams,LONG,10
+17040029,10/21/2017,D-II,Azusa Pacific,Simon Fraser,RUSHING,P,Campbell,ATT,2
+17040030,10/21/2017,D-II,Azusa Pacific,Simon Fraser,RUSHING,P,Campbell,YDS,4
+17040031,10/21/2017,D-II,Azusa Pacific,Simon Fraser,RUSHING,P,Campbell,TD,1
+17040032,10/21/2017,D-II,Azusa Pacific,Simon Fraser,RUSHING,P,Campbell,LONG,2
+17040033,10/21/2017,D-II,Azusa Pacific,Simon Fraser,RUSHING,,Team,ATT,1
+17040034,10/21/2017,D-II,Azusa Pacific,Simon Fraser,RUSHING,,Team,YDS,-2
+17040035,10/21/2017,D-II,Azusa Pacific,Simon Fraser,RUSHING,,Team,TD,0
+17040036,10/21/2017,D-II,Azusa Pacific,Simon Fraser,RUSHING,,Team,LONG,0
+17040037,10/21/2017,D-II,Azusa Pacific,Simon Fraser,PASSING,,Team,CP-ATT-INT,15-23-0
+17040038,10/21/2017,D-II,Azusa Pacific,Simon Fraser,PASSING,,Team,YDS,247
+17040039,10/21/2017,D-II,Azusa Pacific,Simon Fraser,PASSING,,Team,TD,4
+17040040,10/21/2017,D-II,Azusa Pacific,Simon Fraser,PASSING,,Team,LONG,31
+17040041,10/21/2017,D-II,Azusa Pacific,Simon Fraser,PASSING,T,Williams,CP-ATT-INT,2-6-0
+17040042,10/21/2017,D-II,Azusa Pacific,Simon Fraser,PASSING,T,Williams,YDS,4
+17040043,10/21/2017,D-II,Azusa Pacific,Simon Fraser,PASSING,T,Williams,TD,0
+17040044,10/21/2017,D-II,Azusa Pacific,Simon Fraser,PASSING,T,Williams,LONG,6
+17040045,10/21/2017,D-II,Azusa Pacific,Simon Fraser,RECEIVING,,Team,REC,10
+17040046,10/21/2017,D-II,Azusa Pacific,Simon Fraser,RECEIVING,,Team,YDS,178
+17040047,10/21/2017,D-II,Azusa Pacific,Simon Fraser,RECEIVING,,Team,TD,2
+17040048,10/21/2017,D-II,Azusa Pacific,Simon Fraser,RECEIVING,,Team,LONG,31
+17040049,10/21/2017,D-II,Azusa Pacific,Simon Fraser,PUNTING,,Team,NO,2
+17040050,10/21/2017,D-II,Azusa Pacific,Simon Fraser,PUNTING,,Team,YDS,79
+17040051,10/21/2017,D-II,Azusa Pacific,Simon Fraser,PUNTING,,Team,AVG,39.5
+17040052,10/21/2017,D-II,Azusa Pacific,Simon Fraser,PUNTING,,Team,LONG,47
+17040053,10/21/2017,D-II,Azusa Pacific,Simon Fraser,PUNT RETURNS,,Team,NO,3
+17040054,10/21/2017,D-II,Azusa Pacific,Simon Fraser,PUNT RETURNS,,Team,YDS,32
+17040055,10/21/2017,D-II,Azusa Pacific,Simon Fraser,PUNT RETURNS,,Team,AVG,10.7
+17040056,10/21/2017,D-II,Azusa Pacific,Simon Fraser,PUNT RETURNS,,Team,LONG,17
+17040057,10/21/2017,D-II,Azusa Pacific,Simon Fraser,KICK RETURNS,,Team,NO,1
+17040058,10/21/2017,D-II,Azusa Pacific,Simon Fraser,KICK RETURNS,,Team,YDS,18
+17040059,10/21/2017,D-II,Azusa Pacific,Simon Fraser,KICK RETURNS,,Team,AVG,18.0
+17040060,10/21/2017,D-II,Azusa Pacific,Simon Fraser,KICK RETURNS,,Team,LONG,18

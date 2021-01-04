@@ -1,0 +1,141 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+23057001,11/28/2015,D-III,Wesley,Johns Hopkins,RUSHING,Jamar,Baynard,ATT,25
+23057002,11/28/2015,D-III,Wesley,Johns Hopkins,RUSHING,Jamar,Baynard,YDS,123
+23057003,11/28/2015,D-III,Wesley,Johns Hopkins,RUSHING,Jamar,Baynard,TD,1
+23057004,11/28/2015,D-III,Wesley,Johns Hopkins,RUSHING,Jamar,Baynard,LONG,18
+23057005,11/28/2015,D-III,Wesley,Johns Hopkins,RUSHING,Joe,Callahan,ATT,15
+23057006,11/28/2015,D-III,Wesley,Johns Hopkins,RUSHING,Joe,Callahan,YDS,66
+23057007,11/28/2015,D-III,Wesley,Johns Hopkins,RUSHING,Joe,Callahan,TD,1
+23057008,11/28/2015,D-III,Wesley,Johns Hopkins,RUSHING,Joe,Callahan,LONG,13
+23057009,11/28/2015,D-III,Wesley,Johns Hopkins,RUSHING,Bryce,Shade,ATT,5
+23057010,11/28/2015,D-III,Wesley,Johns Hopkins,RUSHING,Bryce,Shade,YDS,32
+23057011,11/28/2015,D-III,Wesley,Johns Hopkins,RUSHING,Bryce,Shade,TD,0
+23057012,11/28/2015,D-III,Wesley,Johns Hopkins,RUSHING,Bryce,Shade,LONG,15
+23057013,11/28/2015,D-III,Wesley,Johns Hopkins,RUSHING,Alex,Kemp,ATT,1
+23057014,11/28/2015,D-III,Wesley,Johns Hopkins,RUSHING,Alex,Kemp,YDS,11
+23057015,11/28/2015,D-III,Wesley,Johns Hopkins,RUSHING,Alex,Kemp,TD,0
+23057016,11/28/2015,D-III,Wesley,Johns Hopkins,RUSHING,Alex,Kemp,LONG,11
+23057017,11/28/2015,D-III,Wesley,Johns Hopkins,RUSHING,,Team,ATT,3
+23057018,11/28/2015,D-III,Wesley,Johns Hopkins,RUSHING,,Team,YDS,-10
+23057019,11/28/2015,D-III,Wesley,Johns Hopkins,RUSHING,,Team,TD,0
+23057020,11/28/2015,D-III,Wesley,Johns Hopkins,RUSHING,,Team,LONG,0
+23057021,11/28/2015,D-III,Wesley,Johns Hopkins,PASSING,Joe,Callahan,CP-ATT-INT,34-47-3
+23057022,11/28/2015,D-III,Wesley,Johns Hopkins,PASSING,Joe,Callahan,YDS,469
+23057023,11/28/2015,D-III,Wesley,Johns Hopkins,PASSING,Joe,Callahan,TD,4
+23057024,11/28/2015,D-III,Wesley,Johns Hopkins,PASSING,Joe,Callahan,LONG,60
+23057025,11/28/2015,D-III,Wesley,Johns Hopkins,RECEIVING,James,Okike,REC,9
+23057026,11/28/2015,D-III,Wesley,Johns Hopkins,RECEIVING,James,Okike,YDS,249
+23057027,11/28/2015,D-III,Wesley,Johns Hopkins,RECEIVING,James,Okike,TD,2
+23057028,11/28/2015,D-III,Wesley,Johns Hopkins,RECEIVING,James,Okike,LONG,60
+23057029,11/28/2015,D-III,Wesley,Johns Hopkins,RECEIVING,Alex,Kemp,REC,6
+23057030,11/28/2015,D-III,Wesley,Johns Hopkins,RECEIVING,Alex,Kemp,YDS,68
+23057031,11/28/2015,D-III,Wesley,Johns Hopkins,RECEIVING,Alex,Kemp,TD,1
+23057032,11/28/2015,D-III,Wesley,Johns Hopkins,RECEIVING,Alex,Kemp,LONG,40
+23057033,11/28/2015,D-III,Wesley,Johns Hopkins,RECEIVING,Jamar,Baynard,REC,9
+23057034,11/28/2015,D-III,Wesley,Johns Hopkins,RECEIVING,Jamar,Baynard,YDS,60
+23057035,11/28/2015,D-III,Wesley,Johns Hopkins,RECEIVING,Jamar,Baynard,TD,0
+23057036,11/28/2015,D-III,Wesley,Johns Hopkins,RECEIVING,Jamar,Baynard,LONG,14
+23057037,11/28/2015,D-III,Wesley,Johns Hopkins,RECEIVING,Kyle,George,REC,3
+23057038,11/28/2015,D-III,Wesley,Johns Hopkins,RECEIVING,Kyle,George,YDS,45
+23057039,11/28/2015,D-III,Wesley,Johns Hopkins,RECEIVING,Kyle,George,TD,1
+23057040,11/28/2015,D-III,Wesley,Johns Hopkins,RECEIVING,Kyle,George,LONG,23
+23057041,11/28/2015,D-III,Wesley,Johns Hopkins,RECEIVING,Bryce,Shade,REC,6
+23057042,11/28/2015,D-III,Wesley,Johns Hopkins,RECEIVING,Bryce,Shade,YDS,28
+23057043,11/28/2015,D-III,Wesley,Johns Hopkins,RECEIVING,Bryce,Shade,TD,0
+23057044,11/28/2015,D-III,Wesley,Johns Hopkins,RECEIVING,Bryce,Shade,LONG,8
+23057045,11/28/2015,D-III,Wesley,Johns Hopkins,RECEIVING,Tory,Robinson,REC,1
+23057046,11/28/2015,D-III,Wesley,Johns Hopkins,RECEIVING,Tory,Robinson,YDS,19
+23057047,11/28/2015,D-III,Wesley,Johns Hopkins,RECEIVING,Tory,Robinson,TD,0
+23057048,11/28/2015,D-III,Wesley,Johns Hopkins,RECEIVING,Tory,Robinson,LONG,19
+23057049,11/28/2015,D-III,Wesley,Johns Hopkins,PUNTING,Alex,Kemp,NO,2
+23057050,11/28/2015,D-III,Wesley,Johns Hopkins,PUNTING,Alex,Kemp,YDS,92
+23057051,11/28/2015,D-III,Wesley,Johns Hopkins,PUNTING,Alex,Kemp,AVG,46.0
+23057052,11/28/2015,D-III,Wesley,Johns Hopkins,PUNTING,Alex,Kemp,LONG,56
+23057053,11/28/2015,D-III,Wesley,Johns Hopkins,PUNT RETURNS,Bryce,Shade,NO,1
+23057054,11/28/2015,D-III,Wesley,Johns Hopkins,PUNT RETURNS,Bryce,Shade,YDS,8
+23057055,11/28/2015,D-III,Wesley,Johns Hopkins,PUNT RETURNS,Bryce,Shade,AVG,8.0
+23057056,11/28/2015,D-III,Wesley,Johns Hopkins,PUNT RETURNS,Bryce,Shade,LONG,8
+23057057,11/28/2015,D-III,Wesley,Johns Hopkins,KICK RETURNS,Alex,Kemp,NO,1
+23057058,11/28/2015,D-III,Wesley,Johns Hopkins,KICK RETURNS,Alex,Kemp,YDS,3
+23057059,11/28/2015,D-III,Wesley,Johns Hopkins,KICK RETURNS,Alex,Kemp,AVG,3.0
+23057060,11/28/2015,D-III,Wesley,Johns Hopkins,KICK RETURNS,Alex,Kemp,LONG,3
+23057061,11/28/2015,D-III,Wesley,Johns Hopkins,KICK RETURNS,Marvell,Watts,NO,3
+23057062,11/28/2015,D-III,Wesley,Johns Hopkins,KICK RETURNS,Marvell,Watts,YDS,47
+23057063,11/28/2015,D-III,Wesley,Johns Hopkins,KICK RETURNS,Marvell,Watts,AVG,15.7
+23057064,11/28/2015,D-III,Wesley,Johns Hopkins,KICK RETURNS,Marvell,Watts,LONG,17
+23057065,11/28/2015,D-III,Wesley,Johns Hopkins,KICK RETURNS,C,Miller,NO,2
+23057066,11/28/2015,D-III,Wesley,Johns Hopkins,KICK RETURNS,C,Miller,YDS,46
+23057067,11/28/2015,D-III,Wesley,Johns Hopkins,KICK RETURNS,C,Miller,AVG,23.0
+23057068,11/28/2015,D-III,Wesley,Johns Hopkins,KICK RETURNS,C,Miller,LONG,30
+23057069,11/28/2015,D-III,Johns Hopkins,Wesley,RUSHING,Stuart,Walters,ATT,15
+23057070,11/28/2015,D-III,Johns Hopkins,Wesley,RUSHING,Stuart,Walters,YDS,108
+23057071,11/28/2015,D-III,Johns Hopkins,Wesley,RUSHING,Stuart,Walters,TD,0
+23057072,11/28/2015,D-III,Johns Hopkins,Wesley,RUSHING,Stuart,Walters,LONG,22
+23057073,11/28/2015,D-III,Johns Hopkins,Wesley,RUSHING,Brandon,Cherry,ATT,7
+23057074,11/28/2015,D-III,Johns Hopkins,Wesley,RUSHING,Brandon,Cherry,YDS,57
+23057075,11/28/2015,D-III,Johns Hopkins,Wesley,RUSHING,Brandon,Cherry,TD,1
+23057076,11/28/2015,D-III,Johns Hopkins,Wesley,RUSHING,Brandon,Cherry,LONG,38
+23057077,11/28/2015,D-III,Johns Hopkins,Wesley,RUSHING,Jon,Germano,ATT,12
+23057078,11/28/2015,D-III,Johns Hopkins,Wesley,RUSHING,Jon,Germano,YDS,1
+23057079,11/28/2015,D-III,Johns Hopkins,Wesley,RUSHING,Jon,Germano,TD,0
+23057080,11/28/2015,D-III,Johns Hopkins,Wesley,RUSHING,Jon,Germano,LONG,8
+23057081,11/28/2015,D-III,Johns Hopkins,Wesley,RUSHING,Bradley,Munday,ATT,1
+23057082,11/28/2015,D-III,Johns Hopkins,Wesley,RUSHING,Bradley,Munday,YDS,0
+23057083,11/28/2015,D-III,Johns Hopkins,Wesley,RUSHING,Bradley,Munday,TD,0
+23057084,11/28/2015,D-III,Johns Hopkins,Wesley,RUSHING,Bradley,Munday,LONG,0
+23057085,11/28/2015,D-III,Johns Hopkins,Wesley,PASSING,Jon,Germano,CP-ATT-INT,27-42-0
+23057086,11/28/2015,D-III,Johns Hopkins,Wesley,PASSING,Jon,Germano,YDS,306
+23057087,11/28/2015,D-III,Johns Hopkins,Wesley,PASSING,Jon,Germano,TD,4
+23057088,11/28/2015,D-III,Johns Hopkins,Wesley,PASSING,Jon,Germano,LONG,33
+23057089,11/28/2015,D-III,Johns Hopkins,Wesley,PASSING,Will,Nunn,CP-ATT-INT,0-1-0
+23057090,11/28/2015,D-III,Johns Hopkins,Wesley,PASSING,Will,Nunn,YDS,0
+23057091,11/28/2015,D-III,Johns Hopkins,Wesley,PASSING,Will,Nunn,TD,0
+23057092,11/28/2015,D-III,Johns Hopkins,Wesley,PASSING,Will,Nunn,LONG,0
+23057093,11/28/2015,D-III,Johns Hopkins,Wesley,RECEIVING,Bradley,Munday,REC,11
+23057094,11/28/2015,D-III,Johns Hopkins,Wesley,RECEIVING,Bradley,Munday,YDS,99
+23057095,11/28/2015,D-III,Johns Hopkins,Wesley,RECEIVING,Bradley,Munday,TD,1
+23057096,11/28/2015,D-III,Johns Hopkins,Wesley,RECEIVING,Bradley,Munday,LONG,23
+23057097,11/28/2015,D-III,Johns Hopkins,Wesley,RECEIVING,Brett,Caggiano,REC,5
+23057098,11/28/2015,D-III,Johns Hopkins,Wesley,RECEIVING,Brett,Caggiano,YDS,78
+23057099,11/28/2015,D-III,Johns Hopkins,Wesley,RECEIVING,Brett,Caggiano,TD,1
+23057100,11/28/2015,D-III,Johns Hopkins,Wesley,RECEIVING,Brett,Caggiano,LONG,33
+23057101,11/28/2015,D-III,Johns Hopkins,Wesley,RECEIVING,Quinn,Donaldson,REC,4
+23057102,11/28/2015,D-III,Johns Hopkins,Wesley,RECEIVING,Quinn,Donaldson,YDS,53
+23057103,11/28/2015,D-III,Johns Hopkins,Wesley,RECEIVING,Quinn,Donaldson,TD,1
+23057104,11/28/2015,D-III,Johns Hopkins,Wesley,RECEIVING,Quinn,Donaldson,LONG,19
+23057105,11/28/2015,D-III,Johns Hopkins,Wesley,RECEIVING,Evan,Adamo,REC,3
+23057106,11/28/2015,D-III,Johns Hopkins,Wesley,RECEIVING,Evan,Adamo,YDS,49
+23057107,11/28/2015,D-III,Johns Hopkins,Wesley,RECEIVING,Evan,Adamo,TD,1
+23057108,11/28/2015,D-III,Johns Hopkins,Wesley,RECEIVING,Evan,Adamo,LONG,22
+23057109,11/28/2015,D-III,Johns Hopkins,Wesley,RECEIVING,Luke,Mcfadden,REC,2
+23057110,11/28/2015,D-III,Johns Hopkins,Wesley,RECEIVING,Luke,Mcfadden,YDS,17
+23057111,11/28/2015,D-III,Johns Hopkins,Wesley,RECEIVING,Luke,Mcfadden,TD,0
+23057112,11/28/2015,D-III,Johns Hopkins,Wesley,RECEIVING,Luke,Mcfadden,LONG,8
+23057113,11/28/2015,D-III,Johns Hopkins,Wesley,RECEIVING,Stuart,Walters,REC,1
+23057114,11/28/2015,D-III,Johns Hopkins,Wesley,RECEIVING,Stuart,Walters,YDS,10
+23057115,11/28/2015,D-III,Johns Hopkins,Wesley,RECEIVING,Stuart,Walters,TD,0
+23057116,11/28/2015,D-III,Johns Hopkins,Wesley,RECEIVING,Stuart,Walters,LONG,10
+23057117,11/28/2015,D-III,Johns Hopkins,Wesley,RECEIVING,Brandon,Cherry,REC,1
+23057118,11/28/2015,D-III,Johns Hopkins,Wesley,RECEIVING,Brandon,Cherry,YDS,0
+23057119,11/28/2015,D-III,Johns Hopkins,Wesley,RECEIVING,Brandon,Cherry,TD,0
+23057120,11/28/2015,D-III,Johns Hopkins,Wesley,RECEIVING,Brandon,Cherry,LONG,0
+23057121,11/28/2015,D-III,Johns Hopkins,Wesley,PUNTING,Brandon,Hong,NO,5
+23057122,11/28/2015,D-III,Johns Hopkins,Wesley,PUNTING,Brandon,Hong,YDS,176
+23057123,11/28/2015,D-III,Johns Hopkins,Wesley,PUNTING,Brandon,Hong,AVG,35.2
+23057124,11/28/2015,D-III,Johns Hopkins,Wesley,PUNTING,Brandon,Hong,LONG,41
+23057125,11/28/2015,D-III,Johns Hopkins,Wesley,PUNT RETURNS,Bradley,Munday,NO,1
+23057126,11/28/2015,D-III,Johns Hopkins,Wesley,PUNT RETURNS,Bradley,Munday,YDS,9
+23057127,11/28/2015,D-III,Johns Hopkins,Wesley,PUNT RETURNS,Bradley,Munday,AVG,9.0
+23057128,11/28/2015,D-III,Johns Hopkins,Wesley,PUNT RETURNS,Bradley,Munday,LONG,9
+23057129,11/28/2015,D-III,Johns Hopkins,Wesley,KICK RETURNS,Bradley,Munday,NO,1
+23057130,11/28/2015,D-III,Johns Hopkins,Wesley,KICK RETURNS,Bradley,Munday,YDS,24
+23057131,11/28/2015,D-III,Johns Hopkins,Wesley,KICK RETURNS,Bradley,Munday,AVG,24.0
+23057132,11/28/2015,D-III,Johns Hopkins,Wesley,KICK RETURNS,Bradley,Munday,LONG,24
+23057133,11/28/2015,D-III,Johns Hopkins,Wesley,KICK RETURNS,Stuart,Walters,NO,3
+23057134,11/28/2015,D-III,Johns Hopkins,Wesley,KICK RETURNS,Stuart,Walters,YDS,52
+23057135,11/28/2015,D-III,Johns Hopkins,Wesley,KICK RETURNS,Stuart,Walters,AVG,17.3
+23057136,11/28/2015,D-III,Johns Hopkins,Wesley,KICK RETURNS,Stuart,Walters,LONG,34
+23057137,11/28/2015,D-III,Johns Hopkins,Wesley,KICK RETURNS,Zack,Baker,NO,1
+23057138,11/28/2015,D-III,Johns Hopkins,Wesley,KICK RETURNS,Zack,Baker,YDS,8
+23057139,11/28/2015,D-III,Johns Hopkins,Wesley,KICK RETURNS,Zack,Baker,AVG,8.0
+23057140,11/28/2015,D-III,Johns Hopkins,Wesley,KICK RETURNS,Zack,Baker,LONG,8

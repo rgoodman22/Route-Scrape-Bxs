@@ -1,0 +1,129 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+23079001,9/2/2016,D-III,Muhlenberg,Wilkes,RUSHING,Nick,Savant,ATT,14
+23079002,9/2/2016,D-III,Muhlenberg,Wilkes,RUSHING,Nick,Savant,YDS,73
+23079003,9/2/2016,D-III,Muhlenberg,Wilkes,RUSHING,Nick,Savant,TD,1
+23079004,9/2/2016,D-III,Muhlenberg,Wilkes,RUSHING,Nick,Savant,LONG,14
+23079005,9/2/2016,D-III,Muhlenberg,Wilkes,RUSHING,Nick,Palladino,ATT,9
+23079006,9/2/2016,D-III,Muhlenberg,Wilkes,RUSHING,Nick,Palladino,YDS,52
+23079007,9/2/2016,D-III,Muhlenberg,Wilkes,RUSHING,Nick,Palladino,TD,0
+23079008,9/2/2016,D-III,Muhlenberg,Wilkes,RUSHING,Nick,Palladino,LONG,12
+23079009,9/2/2016,D-III,Muhlenberg,Wilkes,RUSHING,Nick,Lamb,ATT,1
+23079010,9/2/2016,D-III,Muhlenberg,Wilkes,RUSHING,Nick,Lamb,YDS,6
+23079011,9/2/2016,D-III,Muhlenberg,Wilkes,RUSHING,Nick,Lamb,TD,0
+23079012,9/2/2016,D-III,Muhlenberg,Wilkes,RUSHING,Nick,Lamb,LONG,6
+23079013,9/2/2016,D-III,Muhlenberg,Wilkes,RUSHING,Matt,Stickney,ATT,2
+23079014,9/2/2016,D-III,Muhlenberg,Wilkes,RUSHING,Matt,Stickney,YDS,4
+23079015,9/2/2016,D-III,Muhlenberg,Wilkes,RUSHING,Matt,Stickney,TD,0
+23079016,9/2/2016,D-III,Muhlenberg,Wilkes,RUSHING,Matt,Stickney,LONG,2
+23079017,9/2/2016,D-III,Muhlenberg,Wilkes,RUSHING,,Team,ATT,3
+23079018,9/2/2016,D-III,Muhlenberg,Wilkes,RUSHING,,Team,YDS,-3
+23079019,9/2/2016,D-III,Muhlenberg,Wilkes,RUSHING,,Team,TD,0
+23079020,9/2/2016,D-III,Muhlenberg,Wilkes,RUSHING,,Team,LONG,0
+23079021,9/2/2016,D-III,Muhlenberg,Wilkes,PASSING,Nick,Palladino,CP-ATT-INT,26-36-1
+23079022,9/2/2016,D-III,Muhlenberg,Wilkes,PASSING,Nick,Palladino,YDS,284
+23079023,9/2/2016,D-III,Muhlenberg,Wilkes,PASSING,Nick,Palladino,TD,3
+23079024,9/2/2016,D-III,Muhlenberg,Wilkes,PASSING,Nick,Palladino,LONG,50
+23079025,9/2/2016,D-III,Muhlenberg,Wilkes,RECEIVING,Nick,Lamb,REC,7
+23079026,9/2/2016,D-III,Muhlenberg,Wilkes,RECEIVING,Nick,Lamb,YDS,125
+23079027,9/2/2016,D-III,Muhlenberg,Wilkes,RECEIVING,Nick,Lamb,TD,0
+23079028,9/2/2016,D-III,Muhlenberg,Wilkes,RECEIVING,Nick,Lamb,LONG,50
+23079029,9/2/2016,D-III,Muhlenberg,Wilkes,RECEIVING,Ryan,Delaney,REC,11
+23079030,9/2/2016,D-III,Muhlenberg,Wilkes,RECEIVING,Ryan,Delaney,YDS,89
+23079031,9/2/2016,D-III,Muhlenberg,Wilkes,RECEIVING,Ryan,Delaney,TD,2
+23079032,9/2/2016,D-III,Muhlenberg,Wilkes,RECEIVING,Ryan,Delaney,LONG,28
+23079033,9/2/2016,D-III,Muhlenberg,Wilkes,RECEIVING,Matt,Stickney,REC,7
+23079034,9/2/2016,D-III,Muhlenberg,Wilkes,RECEIVING,Matt,Stickney,YDS,62
+23079035,9/2/2016,D-III,Muhlenberg,Wilkes,RECEIVING,Matt,Stickney,TD,1
+23079036,9/2/2016,D-III,Muhlenberg,Wilkes,RECEIVING,Matt,Stickney,LONG,15
+23079037,9/2/2016,D-III,Muhlenberg,Wilkes,RECEIVING,Josiah,Wright,REC,1
+23079038,9/2/2016,D-III,Muhlenberg,Wilkes,RECEIVING,Josiah,Wright,YDS,8
+23079039,9/2/2016,D-III,Muhlenberg,Wilkes,RECEIVING,Josiah,Wright,TD,0
+23079040,9/2/2016,D-III,Muhlenberg,Wilkes,RECEIVING,Josiah,Wright,LONG,8
+23079041,9/2/2016,D-III,Muhlenberg,Wilkes,PUNTING,Anthony,Natale,NO,3
+23079042,9/2/2016,D-III,Muhlenberg,Wilkes,PUNTING,Anthony,Natale,YDS,117
+23079043,9/2/2016,D-III,Muhlenberg,Wilkes,PUNTING,Anthony,Natale,AVG,39.0
+23079044,9/2/2016,D-III,Muhlenberg,Wilkes,PUNTING,Anthony,Natale,LONG,43
+23079045,9/2/2016,D-III,Muhlenberg,Wilkes,PUNT RETURNS,Ryan,Delaney,NO,1
+23079046,9/2/2016,D-III,Muhlenberg,Wilkes,PUNT RETURNS,Ryan,Delaney,YDS,5
+23079047,9/2/2016,D-III,Muhlenberg,Wilkes,PUNT RETURNS,Ryan,Delaney,AVG,5.0
+23079048,9/2/2016,D-III,Muhlenberg,Wilkes,PUNT RETURNS,Ryan,Delaney,LONG,5
+23079049,9/2/2016,D-III,Muhlenberg,Wilkes,KICK RETURNS,Matt,Stickney,NO,1
+23079050,9/2/2016,D-III,Muhlenberg,Wilkes,KICK RETURNS,Matt,Stickney,YDS,10
+23079051,9/2/2016,D-III,Muhlenberg,Wilkes,KICK RETURNS,Matt,Stickney,AVG,10.0
+23079052,9/2/2016,D-III,Muhlenberg,Wilkes,KICK RETURNS,Matt,Stickney,LONG,10
+23079053,9/2/2016,D-III,Muhlenberg,Wilkes,KICK RETURNS,Ryan,Delaney,NO,2
+23079054,9/2/2016,D-III,Muhlenberg,Wilkes,KICK RETURNS,Ryan,Delaney,YDS,38
+23079055,9/2/2016,D-III,Muhlenberg,Wilkes,KICK RETURNS,Ryan,Delaney,AVG,19.0
+23079056,9/2/2016,D-III,Muhlenberg,Wilkes,KICK RETURNS,Ryan,Delaney,LONG,22
+23079057,9/2/2016,D-III,Muhlenberg,Wilkes,KICK RETURNS,Nick,Lamb,NO,1
+23079058,9/2/2016,D-III,Muhlenberg,Wilkes,KICK RETURNS,Nick,Lamb,YDS,29
+23079059,9/2/2016,D-III,Muhlenberg,Wilkes,KICK RETURNS,Nick,Lamb,AVG,29.0
+23079060,9/2/2016,D-III,Muhlenberg,Wilkes,KICK RETURNS,Nick,Lamb,LONG,29
+23079061,9/2/2016,D-III,Wilkes,Muhlenberg,RUSHING,D,Fink,ATT,6
+23079062,9/2/2016,D-III,Wilkes,Muhlenberg,RUSHING,D,Fink,YDS,31
+23079063,9/2/2016,D-III,Wilkes,Muhlenberg,RUSHING,D,Fink,TD,0
+23079064,9/2/2016,D-III,Wilkes,Muhlenberg,RUSHING,D,Fink,LONG,14
+23079065,9/2/2016,D-III,Wilkes,Muhlenberg,RUSHING,J,Brook,ATT,9
+23079066,9/2/2016,D-III,Wilkes,Muhlenberg,RUSHING,J,Brook,YDS,30
+23079067,9/2/2016,D-III,Wilkes,Muhlenberg,RUSHING,J,Brook,TD,1
+23079068,9/2/2016,D-III,Wilkes,Muhlenberg,RUSHING,J,Brook,LONG,11
+23079069,9/2/2016,D-III,Wilkes,Muhlenberg,RUSHING,P,Martin,ATT,3
+23079070,9/2/2016,D-III,Wilkes,Muhlenberg,RUSHING,P,Martin,YDS,22
+23079071,9/2/2016,D-III,Wilkes,Muhlenberg,RUSHING,P,Martin,TD,0
+23079072,9/2/2016,D-III,Wilkes,Muhlenberg,RUSHING,P,Martin,LONG,16
+23079073,9/2/2016,D-III,Wilkes,Muhlenberg,RUSHING,R,Dailey,ATT,10
+23079074,9/2/2016,D-III,Wilkes,Muhlenberg,RUSHING,R,Dailey,YDS,11
+23079075,9/2/2016,D-III,Wilkes,Muhlenberg,RUSHING,R,Dailey,TD,0
+23079076,9/2/2016,D-III,Wilkes,Muhlenberg,RUSHING,R,Dailey,LONG,9
+23079077,9/2/2016,D-III,Wilkes,Muhlenberg,PASSING,R,Dailey,CP-ATT-INT,27-42-1
+23079078,9/2/2016,D-III,Wilkes,Muhlenberg,PASSING,R,Dailey,YDS,306
+23079079,9/2/2016,D-III,Wilkes,Muhlenberg,PASSING,R,Dailey,TD,2
+23079080,9/2/2016,D-III,Wilkes,Muhlenberg,PASSING,R,Dailey,LONG,39
+23079081,9/2/2016,D-III,Wilkes,Muhlenberg,RECEIVING,W,Deemer,REC,7
+23079082,9/2/2016,D-III,Wilkes,Muhlenberg,RECEIVING,W,Deemer,YDS,66
+23079083,9/2/2016,D-III,Wilkes,Muhlenberg,RECEIVING,W,Deemer,TD,1
+23079084,9/2/2016,D-III,Wilkes,Muhlenberg,RECEIVING,W,Deemer,LONG,30
+23079085,9/2/2016,D-III,Wilkes,Muhlenberg,RECEIVING,A,Coyne,REC,4
+23079086,9/2/2016,D-III,Wilkes,Muhlenberg,RECEIVING,A,Coyne,YDS,65
+23079087,9/2/2016,D-III,Wilkes,Muhlenberg,RECEIVING,A,Coyne,TD,1
+23079088,9/2/2016,D-III,Wilkes,Muhlenberg,RECEIVING,A,Coyne,LONG,34
+23079089,9/2/2016,D-III,Wilkes,Muhlenberg,RECEIVING,Z,Bogoly,REC,3
+23079090,9/2/2016,D-III,Wilkes,Muhlenberg,RECEIVING,Z,Bogoly,YDS,58
+23079091,9/2/2016,D-III,Wilkes,Muhlenberg,RECEIVING,Z,Bogoly,TD,0
+23079092,9/2/2016,D-III,Wilkes,Muhlenberg,RECEIVING,Z,Bogoly,LONG,39
+23079093,9/2/2016,D-III,Wilkes,Muhlenberg,RECEIVING,K,Gattuso,REC,2
+23079094,9/2/2016,D-III,Wilkes,Muhlenberg,RECEIVING,K,Gattuso,YDS,39
+23079095,9/2/2016,D-III,Wilkes,Muhlenberg,RECEIVING,K,Gattuso,TD,0
+23079096,9/2/2016,D-III,Wilkes,Muhlenberg,RECEIVING,K,Gattuso,LONG,22
+23079097,9/2/2016,D-III,Wilkes,Muhlenberg,RECEIVING,R,Richards,REC,4
+23079098,9/2/2016,D-III,Wilkes,Muhlenberg,RECEIVING,R,Richards,YDS,32
+23079099,9/2/2016,D-III,Wilkes,Muhlenberg,RECEIVING,R,Richards,TD,0
+23079100,9/2/2016,D-III,Wilkes,Muhlenberg,RECEIVING,R,Richards,LONG,12
+23079101,9/2/2016,D-III,Wilkes,Muhlenberg,RECEIVING,D,Fink,REC,3
+23079102,9/2/2016,D-III,Wilkes,Muhlenberg,RECEIVING,D,Fink,YDS,30
+23079103,9/2/2016,D-III,Wilkes,Muhlenberg,RECEIVING,D,Fink,TD,0
+23079104,9/2/2016,D-III,Wilkes,Muhlenberg,RECEIVING,D,Fink,LONG,13
+23079105,9/2/2016,D-III,Wilkes,Muhlenberg,RECEIVING,P,Martin,REC,1
+23079106,9/2/2016,D-III,Wilkes,Muhlenberg,RECEIVING,P,Martin,YDS,7
+23079107,9/2/2016,D-III,Wilkes,Muhlenberg,RECEIVING,P,Martin,TD,0
+23079108,9/2/2016,D-III,Wilkes,Muhlenberg,RECEIVING,P,Martin,LONG,7
+23079109,9/2/2016,D-III,Wilkes,Muhlenberg,RECEIVING,J,Brook,REC,2
+23079110,9/2/2016,D-III,Wilkes,Muhlenberg,RECEIVING,J,Brook,YDS,5
+23079111,9/2/2016,D-III,Wilkes,Muhlenberg,RECEIVING,J,Brook,TD,0
+23079112,9/2/2016,D-III,Wilkes,Muhlenberg,RECEIVING,J,Brook,LONG,4
+23079113,9/2/2016,D-III,Wilkes,Muhlenberg,RECEIVING,G,Armstrong,REC,1
+23079114,9/2/2016,D-III,Wilkes,Muhlenberg,RECEIVING,G,Armstrong,YDS,4
+23079115,9/2/2016,D-III,Wilkes,Muhlenberg,RECEIVING,G,Armstrong,TD,0
+23079116,9/2/2016,D-III,Wilkes,Muhlenberg,RECEIVING,G,Armstrong,LONG,4
+23079117,9/2/2016,D-III,Wilkes,Muhlenberg,PUNTING,B,Nye,NO,3
+23079118,9/2/2016,D-III,Wilkes,Muhlenberg,PUNTING,B,Nye,YDS,99
+23079119,9/2/2016,D-III,Wilkes,Muhlenberg,PUNTING,B,Nye,AVG,33.0
+23079120,9/2/2016,D-III,Wilkes,Muhlenberg,PUNTING,B,Nye,LONG,36
+23079121,9/2/2016,D-III,Wilkes,Muhlenberg,KICK RETURNS,M,Hayes,NO,3
+23079122,9/2/2016,D-III,Wilkes,Muhlenberg,KICK RETURNS,M,Hayes,YDS,57
+23079123,9/2/2016,D-III,Wilkes,Muhlenberg,KICK RETURNS,M,Hayes,AVG,19.0
+23079124,9/2/2016,D-III,Wilkes,Muhlenberg,KICK RETURNS,M,Hayes,LONG,36
+23079125,9/2/2016,D-III,Wilkes,Muhlenberg,KICK RETURNS,G,Albertson,NO,2
+23079126,9/2/2016,D-III,Wilkes,Muhlenberg,KICK RETURNS,G,Albertson,YDS,34
+23079127,9/2/2016,D-III,Wilkes,Muhlenberg,KICK RETURNS,G,Albertson,AVG,17.0
+23079128,9/2/2016,D-III,Wilkes,Muhlenberg,KICK RETURNS,G,Albertson,LONG,20

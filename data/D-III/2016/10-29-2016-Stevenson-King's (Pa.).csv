@@ -1,0 +1,133 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+23971001,10/29/2016,D-III,Stevenson,King's (Pa.),RUSHING,Dev,Williams,ATT,28
+23971002,10/29/2016,D-III,Stevenson,King's (Pa.),RUSHING,Dev,Williams,YDS,203
+23971003,10/29/2016,D-III,Stevenson,King's (Pa.),RUSHING,Dev,Williams,TD,2
+23971004,10/29/2016,D-III,Stevenson,King's (Pa.),RUSHING,Dev,Williams,LONG,32
+23971005,10/29/2016,D-III,Stevenson,King's (Pa.),RUSHING,Dontea,Ayres,ATT,12
+23971006,10/29/2016,D-III,Stevenson,King's (Pa.),RUSHING,Dontea,Ayres,YDS,56
+23971007,10/29/2016,D-III,Stevenson,King's (Pa.),RUSHING,Dontea,Ayres,TD,3
+23971008,10/29/2016,D-III,Stevenson,King's (Pa.),RUSHING,Dontea,Ayres,LONG,20
+23971009,10/29/2016,D-III,Stevenson,King's (Pa.),RUSHING,Daniel,Williams,ATT,2
+23971010,10/29/2016,D-III,Stevenson,King's (Pa.),RUSHING,Daniel,Williams,YDS,6
+23971011,10/29/2016,D-III,Stevenson,King's (Pa.),RUSHING,Daniel,Williams,TD,0
+23971012,10/29/2016,D-III,Stevenson,King's (Pa.),RUSHING,Daniel,Williams,LONG,3
+23971013,10/29/2016,D-III,Stevenson,King's (Pa.),RUSHING,Devin,Salisbury,ATT,1
+23971014,10/29/2016,D-III,Stevenson,King's (Pa.),RUSHING,Devin,Salisbury,YDS,5
+23971015,10/29/2016,D-III,Stevenson,King's (Pa.),RUSHING,Devin,Salisbury,TD,0
+23971016,10/29/2016,D-III,Stevenson,King's (Pa.),RUSHING,Devin,Salisbury,LONG,5
+23971017,10/29/2016,D-III,Stevenson,King's (Pa.),PASSING,Daniel,Williams,CP-ATT-INT,19-28-0
+23971018,10/29/2016,D-III,Stevenson,King's (Pa.),PASSING,Daniel,Williams,YDS,142
+23971019,10/29/2016,D-III,Stevenson,King's (Pa.),PASSING,Daniel,Williams,TD,0
+23971020,10/29/2016,D-III,Stevenson,King's (Pa.),PASSING,Daniel,Williams,LONG,34
+23971021,10/29/2016,D-III,Stevenson,King's (Pa.),RECEIVING,Preston,Addo,REC,5
+23971022,10/29/2016,D-III,Stevenson,King's (Pa.),RECEIVING,Preston,Addo,YDS,66
+23971023,10/29/2016,D-III,Stevenson,King's (Pa.),RECEIVING,Preston,Addo,TD,0
+23971024,10/29/2016,D-III,Stevenson,King's (Pa.),RECEIVING,Preston,Addo,LONG,34
+23971025,10/29/2016,D-III,Stevenson,King's (Pa.),RECEIVING,Devin,Salisbury,REC,8
+23971026,10/29/2016,D-III,Stevenson,King's (Pa.),RECEIVING,Devin,Salisbury,YDS,60
+23971027,10/29/2016,D-III,Stevenson,King's (Pa.),RECEIVING,Devin,Salisbury,TD,0
+23971028,10/29/2016,D-III,Stevenson,King's (Pa.),RECEIVING,Devin,Salisbury,LONG,21
+23971029,10/29/2016,D-III,Stevenson,King's (Pa.),RECEIVING,Tyler,Cherigo,REC,2
+23971030,10/29/2016,D-III,Stevenson,King's (Pa.),RECEIVING,Tyler,Cherigo,YDS,11
+23971031,10/29/2016,D-III,Stevenson,King's (Pa.),RECEIVING,Tyler,Cherigo,TD,0
+23971032,10/29/2016,D-III,Stevenson,King's (Pa.),RECEIVING,Tyler,Cherigo,LONG,6
+23971033,10/29/2016,D-III,Stevenson,King's (Pa.),RECEIVING,D,Bolling,REC,2
+23971034,10/29/2016,D-III,Stevenson,King's (Pa.),RECEIVING,D,Bolling,YDS,9
+23971035,10/29/2016,D-III,Stevenson,King's (Pa.),RECEIVING,D,Bolling,TD,0
+23971036,10/29/2016,D-III,Stevenson,King's (Pa.),RECEIVING,D,Bolling,LONG,7
+23971037,10/29/2016,D-III,Stevenson,King's (Pa.),RECEIVING,Dev,Williams,REC,2
+23971038,10/29/2016,D-III,Stevenson,King's (Pa.),RECEIVING,Dev,Williams,YDS,-4
+23971039,10/29/2016,D-III,Stevenson,King's (Pa.),RECEIVING,Dev,Williams,TD,0
+23971040,10/29/2016,D-III,Stevenson,King's (Pa.),RECEIVING,Dev,Williams,LONG,0
+23971041,10/29/2016,D-III,Stevenson,King's (Pa.),PUNTING,Tim,Sternfeld,NO,3
+23971042,10/29/2016,D-III,Stevenson,King's (Pa.),PUNTING,Tim,Sternfeld,YDS,93
+23971043,10/29/2016,D-III,Stevenson,King's (Pa.),PUNTING,Tim,Sternfeld,AVG,31.0
+23971044,10/29/2016,D-III,Stevenson,King's (Pa.),PUNTING,Tim,Sternfeld,LONG,41
+23971045,10/29/2016,D-III,Stevenson,King's (Pa.),PUNT RETURNS,Preston,Addo,NO,1
+23971046,10/29/2016,D-III,Stevenson,King's (Pa.),PUNT RETURNS,Preston,Addo,YDS,17
+23971047,10/29/2016,D-III,Stevenson,King's (Pa.),PUNT RETURNS,Preston,Addo,AVG,17.0
+23971048,10/29/2016,D-III,Stevenson,King's (Pa.),PUNT RETURNS,Preston,Addo,LONG,17
+23971049,10/29/2016,D-III,Stevenson,King's (Pa.),PUNT RETURNS,Dev,Williams,NO,1
+23971050,10/29/2016,D-III,Stevenson,King's (Pa.),PUNT RETURNS,Dev,Williams,YDS,19
+23971051,10/29/2016,D-III,Stevenson,King's (Pa.),PUNT RETURNS,Dev,Williams,AVG,19.0
+23971052,10/29/2016,D-III,Stevenson,King's (Pa.),PUNT RETURNS,Dev,Williams,LONG,0
+23971053,10/29/2016,D-III,Stevenson,King's (Pa.),KICK RETURNS,Devin,Salisbury,NO,2
+23971054,10/29/2016,D-III,Stevenson,King's (Pa.),KICK RETURNS,Devin,Salisbury,YDS,40
+23971055,10/29/2016,D-III,Stevenson,King's (Pa.),KICK RETURNS,Devin,Salisbury,AVG,20.0
+23971056,10/29/2016,D-III,Stevenson,King's (Pa.),KICK RETURNS,Devin,Salisbury,LONG,31
+23971057,10/29/2016,D-III,King's (Pa.),Stevenson,RUSHING,Zach,Whitehead,ATT,8
+23971058,10/29/2016,D-III,King's (Pa.),Stevenson,RUSHING,Zach,Whitehead,YDS,23
+23971059,10/29/2016,D-III,King's (Pa.),Stevenson,RUSHING,Zach,Whitehead,TD,0
+23971060,10/29/2016,D-III,King's (Pa.),Stevenson,RUSHING,Zach,Whitehead,LONG,10
+23971061,10/29/2016,D-III,King's (Pa.),Stevenson,RUSHING,A,Thompson,ATT,6
+23971062,10/29/2016,D-III,King's (Pa.),Stevenson,RUSHING,A,Thompson,YDS,16
+23971063,10/29/2016,D-III,King's (Pa.),Stevenson,RUSHING,A,Thompson,TD,0
+23971064,10/29/2016,D-III,King's (Pa.),Stevenson,RUSHING,A,Thompson,LONG,11
+23971065,10/29/2016,D-III,King's (Pa.),Stevenson,RUSHING,Corey,Flynn,ATT,2
+23971066,10/29/2016,D-III,King's (Pa.),Stevenson,RUSHING,Corey,Flynn,YDS,10
+23971067,10/29/2016,D-III,King's (Pa.),Stevenson,RUSHING,Corey,Flynn,TD,0
+23971068,10/29/2016,D-III,King's (Pa.),Stevenson,RUSHING,Corey,Flynn,LONG,8
+23971069,10/29/2016,D-III,King's (Pa.),Stevenson,RUSHING,Avery,Simmons,ATT,3
+23971070,10/29/2016,D-III,King's (Pa.),Stevenson,RUSHING,Avery,Simmons,YDS,7
+23971071,10/29/2016,D-III,King's (Pa.),Stevenson,RUSHING,Avery,Simmons,TD,0
+23971072,10/29/2016,D-III,King's (Pa.),Stevenson,RUSHING,Avery,Simmons,LONG,3
+23971073,10/29/2016,D-III,King's (Pa.),Stevenson,RUSHING,Mike,Palmer,ATT,1
+23971074,10/29/2016,D-III,King's (Pa.),Stevenson,RUSHING,Mike,Palmer,YDS,4
+23971075,10/29/2016,D-III,King's (Pa.),Stevenson,RUSHING,Mike,Palmer,TD,0
+23971076,10/29/2016,D-III,King's (Pa.),Stevenson,RUSHING,Mike,Palmer,LONG,4
+23971077,10/29/2016,D-III,King's (Pa.),Stevenson,RUSHING,Zack,Funk,ATT,3
+23971078,10/29/2016,D-III,King's (Pa.),Stevenson,RUSHING,Zack,Funk,YDS,2
+23971079,10/29/2016,D-III,King's (Pa.),Stevenson,RUSHING,Zack,Funk,TD,0
+23971080,10/29/2016,D-III,King's (Pa.),Stevenson,RUSHING,Zack,Funk,LONG,2
+23971081,10/29/2016,D-III,King's (Pa.),Stevenson,RUSHING,Devon,Weidman,ATT,1
+23971082,10/29/2016,D-III,King's (Pa.),Stevenson,RUSHING,Devon,Weidman,YDS,-5
+23971083,10/29/2016,D-III,King's (Pa.),Stevenson,RUSHING,Devon,Weidman,TD,0
+23971084,10/29/2016,D-III,King's (Pa.),Stevenson,RUSHING,Devon,Weidman,LONG,0
+23971085,10/29/2016,D-III,King's (Pa.),Stevenson,PASSING,Zach,Whitehead,CP-ATT-INT,29-45-1
+23971086,10/29/2016,D-III,King's (Pa.),Stevenson,PASSING,Zach,Whitehead,YDS,329
+23971087,10/29/2016,D-III,King's (Pa.),Stevenson,PASSING,Zach,Whitehead,TD,3
+23971088,10/29/2016,D-III,King's (Pa.),Stevenson,PASSING,Zach,Whitehead,LONG,41
+23971089,10/29/2016,D-III,King's (Pa.),Stevenson,RECEIVING,Tyler,Marroni,REC,5
+23971090,10/29/2016,D-III,King's (Pa.),Stevenson,RECEIVING,Tyler,Marroni,YDS,96
+23971091,10/29/2016,D-III,King's (Pa.),Stevenson,RECEIVING,Tyler,Marroni,TD,1
+23971092,10/29/2016,D-III,King's (Pa.),Stevenson,RECEIVING,Tyler,Marroni,LONG,36
+23971093,10/29/2016,D-III,King's (Pa.),Stevenson,RECEIVING,Marquis,Miller,REC,4
+23971094,10/29/2016,D-III,King's (Pa.),Stevenson,RECEIVING,Marquis,Miller,YDS,79
+23971095,10/29/2016,D-III,King's (Pa.),Stevenson,RECEIVING,Marquis,Miller,TD,1
+23971096,10/29/2016,D-III,King's (Pa.),Stevenson,RECEIVING,Marquis,Miller,LONG,41
+23971097,10/29/2016,D-III,King's (Pa.),Stevenson,RECEIVING,Austin,White,REC,4
+23971098,10/29/2016,D-III,King's (Pa.),Stevenson,RECEIVING,Austin,White,YDS,55
+23971099,10/29/2016,D-III,King's (Pa.),Stevenson,RECEIVING,Austin,White,TD,0
+23971100,10/29/2016,D-III,King's (Pa.),Stevenson,RECEIVING,Austin,White,LONG,19
+23971101,10/29/2016,D-III,King's (Pa.),Stevenson,RECEIVING,Corey,Flynn,REC,4
+23971102,10/29/2016,D-III,King's (Pa.),Stevenson,RECEIVING,Corey,Flynn,YDS,45
+23971103,10/29/2016,D-III,King's (Pa.),Stevenson,RECEIVING,Corey,Flynn,TD,0
+23971104,10/29/2016,D-III,King's (Pa.),Stevenson,RECEIVING,Corey,Flynn,LONG,17
+23971105,10/29/2016,D-III,King's (Pa.),Stevenson,RECEIVING,Mike,Palmer,REC,7
+23971106,10/29/2016,D-III,King's (Pa.),Stevenson,RECEIVING,Mike,Palmer,YDS,31
+23971107,10/29/2016,D-III,King's (Pa.),Stevenson,RECEIVING,Mike,Palmer,TD,1
+23971108,10/29/2016,D-III,King's (Pa.),Stevenson,RECEIVING,Mike,Palmer,LONG,12
+23971109,10/29/2016,D-III,King's (Pa.),Stevenson,RECEIVING,A,Thompson,REC,4
+23971110,10/29/2016,D-III,King's (Pa.),Stevenson,RECEIVING,A,Thompson,YDS,19
+23971111,10/29/2016,D-III,King's (Pa.),Stevenson,RECEIVING,A,Thompson,TD,0
+23971112,10/29/2016,D-III,King's (Pa.),Stevenson,RECEIVING,A,Thompson,LONG,7
+23971113,10/29/2016,D-III,King's (Pa.),Stevenson,RECEIVING,Trey,Campbell,REC,1
+23971114,10/29/2016,D-III,King's (Pa.),Stevenson,RECEIVING,Trey,Campbell,YDS,4
+23971115,10/29/2016,D-III,King's (Pa.),Stevenson,RECEIVING,Trey,Campbell,TD,0
+23971116,10/29/2016,D-III,King's (Pa.),Stevenson,RECEIVING,Trey,Campbell,LONG,4
+23971117,10/29/2016,D-III,King's (Pa.),Stevenson,PUNTING,Eric,Haenggi,NO,3
+23971118,10/29/2016,D-III,King's (Pa.),Stevenson,PUNTING,Eric,Haenggi,YDS,123
+23971119,10/29/2016,D-III,King's (Pa.),Stevenson,PUNTING,Eric,Haenggi,AVG,41.0
+23971120,10/29/2016,D-III,King's (Pa.),Stevenson,PUNTING,Eric,Haenggi,LONG,54
+23971121,10/29/2016,D-III,King's (Pa.),Stevenson,PUNTING,,Team,NO,1
+23971122,10/29/2016,D-III,King's (Pa.),Stevenson,PUNTING,,Team,YDS,0
+23971123,10/29/2016,D-III,King's (Pa.),Stevenson,PUNTING,,Team,AVG,0.0
+23971124,10/29/2016,D-III,King's (Pa.),Stevenson,PUNTING,,Team,LONG,0
+23971125,10/29/2016,D-III,King's (Pa.),Stevenson,KICK RETURNS,Mike,Palmer,NO,3
+23971126,10/29/2016,D-III,King's (Pa.),Stevenson,KICK RETURNS,Mike,Palmer,YDS,60
+23971127,10/29/2016,D-III,King's (Pa.),Stevenson,KICK RETURNS,Mike,Palmer,AVG,20.0
+23971128,10/29/2016,D-III,King's (Pa.),Stevenson,KICK RETURNS,Mike,Palmer,LONG,27
+23971129,10/29/2016,D-III,King's (Pa.),Stevenson,KICK RETURNS,Devon,Weidman,NO,5
+23971130,10/29/2016,D-III,King's (Pa.),Stevenson,KICK RETURNS,Devon,Weidman,YDS,69
+23971131,10/29/2016,D-III,King's (Pa.),Stevenson,KICK RETURNS,Devon,Weidman,AVG,13.8
+23971132,10/29/2016,D-III,King's (Pa.),Stevenson,KICK RETURNS,Devon,Weidman,LONG,21

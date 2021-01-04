@@ -1,0 +1,141 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+22930001,11/14/2015,D-III,Norwich,Castleton,RUSHING,Quincy,Williams,ATT,24
+22930002,11/14/2015,D-III,Norwich,Castleton,RUSHING,Quincy,Williams,YDS,101
+22930003,11/14/2015,D-III,Norwich,Castleton,RUSHING,Quincy,Williams,TD,1
+22930004,11/14/2015,D-III,Norwich,Castleton,RUSHING,Quincy,Williams,LONG,18
+22930005,11/14/2015,D-III,Norwich,Castleton,RUSHING,P,Bazinet,ATT,17
+22930006,11/14/2015,D-III,Norwich,Castleton,RUSHING,P,Bazinet,YDS,54
+22930007,11/14/2015,D-III,Norwich,Castleton,RUSHING,P,Bazinet,TD,0
+22930008,11/14/2015,D-III,Norwich,Castleton,RUSHING,P,Bazinet,LONG,37
+22930009,11/14/2015,D-III,Norwich,Castleton,RUSHING,Sam,Chaves,ATT,7
+22930010,11/14/2015,D-III,Norwich,Castleton,RUSHING,Sam,Chaves,YDS,15
+22930011,11/14/2015,D-III,Norwich,Castleton,RUSHING,Sam,Chaves,TD,0
+22930012,11/14/2015,D-III,Norwich,Castleton,RUSHING,Sam,Chaves,LONG,7
+22930013,11/14/2015,D-III,Norwich,Castleton,PASSING,P,Bazinet,CP-ATT-INT,17-36-3
+22930014,11/14/2015,D-III,Norwich,Castleton,PASSING,P,Bazinet,YDS,142
+22930015,11/14/2015,D-III,Norwich,Castleton,PASSING,P,Bazinet,TD,0
+22930016,11/14/2015,D-III,Norwich,Castleton,PASSING,P,Bazinet,LONG,19
+22930017,11/14/2015,D-III,Norwich,Castleton,PASSING,Nolan,Aurelia,CP-ATT-INT,0-1-0
+22930018,11/14/2015,D-III,Norwich,Castleton,PASSING,Nolan,Aurelia,YDS,0
+22930019,11/14/2015,D-III,Norwich,Castleton,PASSING,Nolan,Aurelia,TD,0
+22930020,11/14/2015,D-III,Norwich,Castleton,PASSING,Nolan,Aurelia,LONG,0
+22930021,11/14/2015,D-III,Norwich,Castleton,RECEIVING,Pierre,Noel,REC,6
+22930022,11/14/2015,D-III,Norwich,Castleton,RECEIVING,Pierre,Noel,YDS,68
+22930023,11/14/2015,D-III,Norwich,Castleton,RECEIVING,Pierre,Noel,TD,0
+22930024,11/14/2015,D-III,Norwich,Castleton,RECEIVING,Pierre,Noel,LONG,19
+22930025,11/14/2015,D-III,Norwich,Castleton,RECEIVING,Matt,Mulcahy,REC,5
+22930026,11/14/2015,D-III,Norwich,Castleton,RECEIVING,Matt,Mulcahy,YDS,33
+22930027,11/14/2015,D-III,Norwich,Castleton,RECEIVING,Matt,Mulcahy,TD,0
+22930028,11/14/2015,D-III,Norwich,Castleton,RECEIVING,Matt,Mulcahy,LONG,11
+22930029,11/14/2015,D-III,Norwich,Castleton,RECEIVING,Trystan,Colaire,REC,3
+22930030,11/14/2015,D-III,Norwich,Castleton,RECEIVING,Trystan,Colaire,YDS,28
+22930031,11/14/2015,D-III,Norwich,Castleton,RECEIVING,Trystan,Colaire,TD,0
+22930032,11/14/2015,D-III,Norwich,Castleton,RECEIVING,Trystan,Colaire,LONG,15
+22930033,11/14/2015,D-III,Norwich,Castleton,RECEIVING,Quincy,Williams,REC,1
+22930034,11/14/2015,D-III,Norwich,Castleton,RECEIVING,Quincy,Williams,YDS,9
+22930035,11/14/2015,D-III,Norwich,Castleton,RECEIVING,Quincy,Williams,TD,0
+22930036,11/14/2015,D-III,Norwich,Castleton,RECEIVING,Quincy,Williams,LONG,9
+22930037,11/14/2015,D-III,Norwich,Castleton,RECEIVING,Sam,Chaves,REC,1
+22930038,11/14/2015,D-III,Norwich,Castleton,RECEIVING,Sam,Chaves,YDS,2
+22930039,11/14/2015,D-III,Norwich,Castleton,RECEIVING,Sam,Chaves,TD,0
+22930040,11/14/2015,D-III,Norwich,Castleton,RECEIVING,Sam,Chaves,LONG,2
+22930041,11/14/2015,D-III,Norwich,Castleton,RECEIVING,P,Bazinet,REC,1
+22930042,11/14/2015,D-III,Norwich,Castleton,RECEIVING,P,Bazinet,YDS,2
+22930043,11/14/2015,D-III,Norwich,Castleton,RECEIVING,P,Bazinet,TD,0
+22930044,11/14/2015,D-III,Norwich,Castleton,RECEIVING,P,Bazinet,LONG,2
+22930045,11/14/2015,D-III,Norwich,Castleton,PUNTING,Wesley,Medeiros,NO,6
+22930046,11/14/2015,D-III,Norwich,Castleton,PUNTING,Wesley,Medeiros,YDS,212
+22930047,11/14/2015,D-III,Norwich,Castleton,PUNTING,Wesley,Medeiros,AVG,35.3
+22930048,11/14/2015,D-III,Norwich,Castleton,PUNTING,Wesley,Medeiros,LONG,42
+22930049,11/14/2015,D-III,Norwich,Castleton,PUNTING,,Team,NO,1
+22930050,11/14/2015,D-III,Norwich,Castleton,PUNTING,,Team,YDS,0
+22930051,11/14/2015,D-III,Norwich,Castleton,PUNTING,,Team,AVG,0.0
+22930052,11/14/2015,D-III,Norwich,Castleton,PUNTING,,Team,LONG,0
+22930053,11/14/2015,D-III,Norwich,Castleton,PUNT RETURNS,M,O'neill,NO,4
+22930054,11/14/2015,D-III,Norwich,Castleton,PUNT RETURNS,M,O'neill,YDS,5
+22930055,11/14/2015,D-III,Norwich,Castleton,PUNT RETURNS,M,O'neill,AVG,1.2
+22930056,11/14/2015,D-III,Norwich,Castleton,PUNT RETURNS,M,O'neill,LONG,5
+22930057,11/14/2015,D-III,Norwich,Castleton,KICK RETURNS,Sam,Chaves,NO,3
+22930058,11/14/2015,D-III,Norwich,Castleton,KICK RETURNS,Sam,Chaves,YDS,61
+22930059,11/14/2015,D-III,Norwich,Castleton,KICK RETURNS,Sam,Chaves,AVG,20.3
+22930060,11/14/2015,D-III,Norwich,Castleton,KICK RETURNS,Sam,Chaves,LONG,25
+22930061,11/14/2015,D-III,Norwich,Castleton,KICK RETURNS,Nicholas,Benoit,NO,1
+22930062,11/14/2015,D-III,Norwich,Castleton,KICK RETURNS,Nicholas,Benoit,YDS,12
+22930063,11/14/2015,D-III,Norwich,Castleton,KICK RETURNS,Nicholas,Benoit,AVG,12.0
+22930064,11/14/2015,D-III,Norwich,Castleton,KICK RETURNS,Nicholas,Benoit,LONG,12
+22930065,11/14/2015,D-III,Norwich,Castleton,KICK RETURNS,Josh,Graves,NO,1
+22930066,11/14/2015,D-III,Norwich,Castleton,KICK RETURNS,Josh,Graves,YDS,1
+22930067,11/14/2015,D-III,Norwich,Castleton,KICK RETURNS,Josh,Graves,AVG,1.0
+22930068,11/14/2015,D-III,Norwich,Castleton,KICK RETURNS,Josh,Graves,LONG,1
+22930069,11/14/2015,D-III,Norwich,Castleton,KICK RETURNS,Tyler,Jones,NO,1
+22930070,11/14/2015,D-III,Norwich,Castleton,KICK RETURNS,Tyler,Jones,YDS,12
+22930071,11/14/2015,D-III,Norwich,Castleton,KICK RETURNS,Tyler,Jones,AVG,12.0
+22930072,11/14/2015,D-III,Norwich,Castleton,KICK RETURNS,Tyler,Jones,LONG,12
+22930073,11/14/2015,D-III,Castleton,Norwich,RUSHING,Moe,Harris,ATT,29
+22930074,11/14/2015,D-III,Castleton,Norwich,RUSHING,Moe,Harris,YDS,135
+22930075,11/14/2015,D-III,Castleton,Norwich,RUSHING,Moe,Harris,TD,1
+22930076,11/14/2015,D-III,Castleton,Norwich,RUSHING,Moe,Harris,LONG,33
+22930077,11/14/2015,D-III,Castleton,Norwich,RUSHING,Corey,Brimmer,ATT,8
+22930078,11/14/2015,D-III,Castleton,Norwich,RUSHING,Corey,Brimmer,YDS,24
+22930079,11/14/2015,D-III,Castleton,Norwich,RUSHING,Corey,Brimmer,TD,0
+22930080,11/14/2015,D-III,Castleton,Norwich,RUSHING,Corey,Brimmer,LONG,7
+22930081,11/14/2015,D-III,Castleton,Norwich,RUSHING,,Team,ATT,2
+22930082,11/14/2015,D-III,Castleton,Norwich,RUSHING,,Team,YDS,3
+22930083,11/14/2015,D-III,Castleton,Norwich,RUSHING,,Team,TD,0
+22930084,11/14/2015,D-III,Castleton,Norwich,RUSHING,,Team,LONG,5
+22930085,11/14/2015,D-III,Castleton,Norwich,RUSHING,George,Busharis,ATT,2
+22930086,11/14/2015,D-III,Castleton,Norwich,RUSHING,George,Busharis,YDS,1
+22930087,11/14/2015,D-III,Castleton,Norwich,RUSHING,George,Busharis,TD,0
+22930088,11/14/2015,D-III,Castleton,Norwich,RUSHING,George,Busharis,LONG,1
+22930089,11/14/2015,D-III,Castleton,Norwich,RUSHING,Je'von,Harris,ATT,1
+22930090,11/14/2015,D-III,Castleton,Norwich,RUSHING,Je'von,Harris,YDS,1
+22930091,11/14/2015,D-III,Castleton,Norwich,RUSHING,Je'von,Harris,TD,0
+22930092,11/14/2015,D-III,Castleton,Norwich,RUSHING,Je'von,Harris,LONG,1
+22930093,11/14/2015,D-III,Castleton,Norwich,PASSING,George,Busharis,CP-ATT-INT,14-22-0
+22930094,11/14/2015,D-III,Castleton,Norwich,PASSING,George,Busharis,YDS,207
+22930095,11/14/2015,D-III,Castleton,Norwich,PASSING,George,Busharis,TD,2
+22930096,11/14/2015,D-III,Castleton,Norwich,PASSING,George,Busharis,LONG,53
+22930097,11/14/2015,D-III,Castleton,Norwich,RECEIVING,S,Pelz-walsh,REC,6
+22930098,11/14/2015,D-III,Castleton,Norwich,RECEIVING,S,Pelz-walsh,YDS,94
+22930099,11/14/2015,D-III,Castleton,Norwich,RECEIVING,S,Pelz-walsh,TD,0
+22930100,11/14/2015,D-III,Castleton,Norwich,RECEIVING,S,Pelz-walsh,LONG,36
+22930101,11/14/2015,D-III,Castleton,Norwich,RECEIVING,Cyle,Machia,REC,4
+22930102,11/14/2015,D-III,Castleton,Norwich,RECEIVING,Cyle,Machia,YDS,72
+22930103,11/14/2015,D-III,Castleton,Norwich,RECEIVING,Cyle,Machia,TD,2
+22930104,11/14/2015,D-III,Castleton,Norwich,RECEIVING,Cyle,Machia,LONG,53
+22930105,11/14/2015,D-III,Castleton,Norwich,RECEIVING,Makai,Hawkins,REC,3
+22930106,11/14/2015,D-III,Castleton,Norwich,RECEIVING,Makai,Hawkins,YDS,35
+22930107,11/14/2015,D-III,Castleton,Norwich,RECEIVING,Makai,Hawkins,TD,0
+22930108,11/14/2015,D-III,Castleton,Norwich,RECEIVING,Makai,Hawkins,LONG,20
+22930109,11/14/2015,D-III,Castleton,Norwich,RECEIVING,Jordan,Goodrich,REC,1
+22930110,11/14/2015,D-III,Castleton,Norwich,RECEIVING,Jordan,Goodrich,YDS,6
+22930111,11/14/2015,D-III,Castleton,Norwich,RECEIVING,Jordan,Goodrich,TD,0
+22930112,11/14/2015,D-III,Castleton,Norwich,RECEIVING,Jordan,Goodrich,LONG,6
+22930113,11/14/2015,D-III,Castleton,Norwich,PUNTING,B,Lineberger,NO,7
+22930114,11/14/2015,D-III,Castleton,Norwich,PUNTING,B,Lineberger,YDS,224
+22930115,11/14/2015,D-III,Castleton,Norwich,PUNTING,B,Lineberger,AVG,32.0
+22930116,11/14/2015,D-III,Castleton,Norwich,PUNTING,B,Lineberger,LONG,36
+22930117,11/14/2015,D-III,Castleton,Norwich,PUNT RETURNS,J,Dealesandro,NO,2
+22930118,11/14/2015,D-III,Castleton,Norwich,PUNT RETURNS,J,Dealesandro,YDS,16
+22930119,11/14/2015,D-III,Castleton,Norwich,PUNT RETURNS,J,Dealesandro,AVG,8.0
+22930120,11/14/2015,D-III,Castleton,Norwich,PUNT RETURNS,J,Dealesandro,LONG,10
+22930121,11/14/2015,D-III,Castleton,Norwich,PUNT RETURNS,Vince,Sorce,NO,0
+22930122,11/14/2015,D-III,Castleton,Norwich,PUNT RETURNS,Vince,Sorce,YDS,9
+22930123,11/14/2015,D-III,Castleton,Norwich,PUNT RETURNS,Vince,Sorce,AVG,-
+22930124,11/14/2015,D-III,Castleton,Norwich,PUNT RETURNS,Vince,Sorce,LONG,9
+22930125,11/14/2015,D-III,Castleton,Norwich,PUNT RETURNS,Adnane,Adossama,NO,1
+22930126,11/14/2015,D-III,Castleton,Norwich,PUNT RETURNS,Adnane,Adossama,YDS,17
+22930127,11/14/2015,D-III,Castleton,Norwich,PUNT RETURNS,Adnane,Adossama,AVG,17.0
+22930128,11/14/2015,D-III,Castleton,Norwich,PUNT RETURNS,Adnane,Adossama,LONG,0
+22930129,11/14/2015,D-III,Castleton,Norwich,KICK RETURNS,J,Dealesandro,NO,1
+22930130,11/14/2015,D-III,Castleton,Norwich,KICK RETURNS,J,Dealesandro,YDS,12
+22930131,11/14/2015,D-III,Castleton,Norwich,KICK RETURNS,J,Dealesandro,AVG,12.0
+22930132,11/14/2015,D-III,Castleton,Norwich,KICK RETURNS,J,Dealesandro,LONG,12
+22930133,11/14/2015,D-III,Castleton,Norwich,KICK RETURNS,Ed,Doton,NO,2
+22930134,11/14/2015,D-III,Castleton,Norwich,KICK RETURNS,Ed,Doton,YDS,43
+22930135,11/14/2015,D-III,Castleton,Norwich,KICK RETURNS,Ed,Doton,AVG,21.5
+22930136,11/14/2015,D-III,Castleton,Norwich,KICK RETURNS,Ed,Doton,LONG,23
+22930137,11/14/2015,D-III,Castleton,Norwich,KICK RETURNS,Moe,Harris,NO,1
+22930138,11/14/2015,D-III,Castleton,Norwich,KICK RETURNS,Moe,Harris,YDS,15
+22930139,11/14/2015,D-III,Castleton,Norwich,KICK RETURNS,Moe,Harris,AVG,15.0
+22930140,11/14/2015,D-III,Castleton,Norwich,KICK RETURNS,Moe,Harris,LONG,15

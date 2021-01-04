@@ -1,0 +1,145 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+17012001,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RUSHING,Josh,Stevens,ATT,20
+17012002,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RUSHING,Josh,Stevens,YDS,58
+17012003,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RUSHING,Josh,Stevens,TD,0
+17012004,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RUSHING,Josh,Stevens,LONG,12
+17012005,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RUSHING,Tyrese,Nathan,ATT,6
+17012006,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RUSHING,Tyrese,Nathan,YDS,19
+17012007,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RUSHING,Tyrese,Nathan,TD,0
+17012008,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RUSHING,Tyrese,Nathan,LONG,8
+17012009,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RUSHING,C,Rotherham,ATT,9
+17012010,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RUSHING,C,Rotherham,YDS,11
+17012011,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RUSHING,C,Rotherham,TD,1
+17012012,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RUSHING,C,Rotherham,LONG,4
+17012013,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RUSHING,,Team,ATT,1
+17012014,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RUSHING,,Team,YDS,-3
+17012015,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RUSHING,,Team,TD,0
+17012016,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RUSHING,,Team,LONG,0
+17012017,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,PASSING,C,Rotherham,CP-ATT-INT,27-50-1
+17012018,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,PASSING,C,Rotherham,YDS,294
+17012019,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,PASSING,C,Rotherham,TD,1
+17012020,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,PASSING,C,Rotherham,LONG,31
+17012021,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,D,Thompson,REC,13
+17012022,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,D,Thompson,YDS,170
+17012023,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,D,Thompson,TD,0
+17012024,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,D,Thompson,LONG,31
+17012025,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,Tate,Kennedy,REC,1
+17012026,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,Tate,Kennedy,YDS,26
+17012027,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,Tate,Kennedy,TD,0
+17012028,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,Tate,Kennedy,LONG,26
+17012029,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,Wesley,Lewis,REC,1
+17012030,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,Wesley,Lewis,YDS,23
+17012031,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,Wesley,Lewis,TD,1
+17012032,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,Wesley,Lewis,LONG,23
+17012033,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,Tashani,Bibbs,REC,4
+17012034,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,Tashani,Bibbs,YDS,18
+17012035,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,Tashani,Bibbs,TD,0
+17012036,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,Tashani,Bibbs,LONG,11
+17012037,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,Lawson,Ayo,REC,1
+17012038,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,Lawson,Ayo,YDS,16
+17012039,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,Lawson,Ayo,TD,0
+17012040,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,Lawson,Ayo,LONG,16
+17012041,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,Jalyn,Judkins,REC,1
+17012042,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,Jalyn,Judkins,YDS,16
+17012043,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,Jalyn,Judkins,TD,0
+17012044,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,Jalyn,Judkins,LONG,16
+17012045,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,Keke,Chism,REC,2
+17012046,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,Keke,Chism,YDS,12
+17012047,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,Keke,Chism,TD,0
+17012048,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,Keke,Chism,LONG,12
+17012049,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,Tyrese,Nathan,REC,1
+17012050,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,Tyrese,Nathan,YDS,6
+17012051,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,Tyrese,Nathan,TD,0
+17012052,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,Tyrese,Nathan,LONG,6
+17012053,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,Josh,Stevens,REC,2
+17012054,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,Josh,Stevens,YDS,4
+17012055,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,Josh,Stevens,TD,0
+17012056,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,Josh,Stevens,LONG,2
+17012057,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,Larry,Johnson,REC,1
+17012058,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,Larry,Johnson,YDS,3
+17012059,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,Larry,Johnson,TD,0
+17012060,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,RECEIVING,Larry,Johnson,LONG,3
+17012061,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,PUNTING,Tyler,Engelbart,NO,8
+17012062,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,PUNTING,Tyler,Engelbart,YDS,267
+17012063,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,PUNTING,Tyler,Engelbart,AVG,33.4
+17012064,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,PUNTING,Tyler,Engelbart,LONG,48
+17012065,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,PUNT RETURNS,Tashani,Bibbs,NO,2
+17012066,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,PUNT RETURNS,Tashani,Bibbs,YDS,12
+17012067,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,PUNT RETURNS,Tashani,Bibbs,AVG,6.0
+17012068,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,PUNT RETURNS,Tashani,Bibbs,LONG,6
+17012069,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,KICK RETURNS,Eric,Jones,NO,1
+17012070,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,KICK RETURNS,Eric,Jones,YDS,-7
+17012071,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,KICK RETURNS,Eric,Jones,AVG,-7.0
+17012072,10/21/2017,D-II,Angelo State,Texas A&M-Comm.,KICK RETURNS,Eric,Jones,LONG,0
+17012073,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RUSHING,Carandal,Hale,ATT,21
+17012074,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RUSHING,Carandal,Hale,YDS,104
+17012075,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RUSHING,Carandal,Hale,TD,0
+17012076,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RUSHING,Carandal,Hale,LONG,25
+17012077,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RUSHING,Ej,Thompson,ATT,7
+17012078,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RUSHING,Ej,Thompson,YDS,22
+17012079,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RUSHING,Ej,Thompson,TD,0
+17012080,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RUSHING,Ej,Thompson,LONG,10
+17012081,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RUSHING,K,Martinez,ATT,0
+17012082,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RUSHING,K,Martinez,YDS,8
+17012083,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RUSHING,K,Martinez,TD,0
+17012084,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RUSHING,K,Martinez,LONG,0
+17012085,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RUSHING,G,Rodriguez,ATT,2
+17012086,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RUSHING,G,Rodriguez,YDS,3
+17012087,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RUSHING,G,Rodriguez,TD,0
+17012088,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RUSHING,G,Rodriguez,LONG,3
+17012089,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RUSHING,Shawn,Hooks,ATT,2
+17012090,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RUSHING,Shawn,Hooks,YDS,2
+17012091,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RUSHING,Shawn,Hooks,TD,0
+17012092,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RUSHING,Shawn,Hooks,LONG,5
+17012093,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RUSHING,Luis,Perez,ATT,2
+17012094,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RUSHING,Luis,Perez,YDS,-9
+17012095,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RUSHING,Luis,Perez,TD,0
+17012096,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RUSHING,Luis,Perez,LONG,5
+17012097,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RUSHING,,Team,ATT,2
+17012098,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RUSHING,,Team,YDS,-11
+17012099,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RUSHING,,Team,TD,0
+17012100,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RUSHING,,Team,LONG,0
+17012101,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,PASSING,Luis,Perez,CP-ATT-INT,34-46-0
+17012102,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,PASSING,Luis,Perez,YDS,373
+17012103,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,PASSING,Luis,Perez,TD,4
+17012104,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,PASSING,Luis,Perez,LONG,51
+17012105,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RECEIVING,M,Wimberly,REC,8
+17012106,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RECEIVING,M,Wimberly,YDS,113
+17012107,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RECEIVING,M,Wimberly,TD,2
+17012108,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RECEIVING,M,Wimberly,LONG,51
+17012109,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RECEIVING,Darrion,Landry,REC,6
+17012110,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RECEIVING,Darrion,Landry,YDS,105
+17012111,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RECEIVING,Darrion,Landry,TD,2
+17012112,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RECEIVING,Darrion,Landry,LONG,49
+17012113,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RECEIVING,D'arthur,Cowan,REC,5
+17012114,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RECEIVING,D'arthur,Cowan,YDS,73
+17012115,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RECEIVING,D'arthur,Cowan,TD,0
+17012116,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RECEIVING,D'arthur,Cowan,LONG,23
+17012117,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RECEIVING,Buck,Wilson,REC,5
+17012118,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RECEIVING,Buck,Wilson,YDS,44
+17012119,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RECEIVING,Buck,Wilson,TD,0
+17012120,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RECEIVING,Buck,Wilson,LONG,22
+17012121,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RECEIVING,Shawn,Hooks,REC,3
+17012122,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RECEIVING,Shawn,Hooks,YDS,26
+17012123,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RECEIVING,Shawn,Hooks,TD,0
+17012124,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RECEIVING,Shawn,Hooks,LONG,15
+17012125,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RECEIVING,Vincent,Hobbs,REC,4
+17012126,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RECEIVING,Vincent,Hobbs,YDS,10
+17012127,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RECEIVING,Vincent,Hobbs,TD,0
+17012128,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RECEIVING,Vincent,Hobbs,LONG,10
+17012129,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RECEIVING,Carandal,Hale,REC,3
+17012130,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RECEIVING,Carandal,Hale,YDS,2
+17012131,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RECEIVING,Carandal,Hale,TD,0
+17012132,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,RECEIVING,Carandal,Hale,LONG,9
+17012133,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,PUNTING,Tristan,Perry,NO,7
+17012134,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,PUNTING,Tristan,Perry,YDS,313
+17012135,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,PUNTING,Tristan,Perry,AVG,44.7
+17012136,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,PUNTING,Tristan,Perry,LONG,53
+17012137,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,PUNT RETURNS,Shawn,Hooks,NO,2
+17012138,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,PUNT RETURNS,Shawn,Hooks,YDS,38
+17012139,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,PUNT RETURNS,Shawn,Hooks,AVG,19.0
+17012140,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,PUNT RETURNS,Shawn,Hooks,LONG,24
+17012141,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,KICK RETURNS,Buck,Wilson,NO,2
+17012142,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,KICK RETURNS,Buck,Wilson,YDS,44
+17012143,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,KICK RETURNS,Buck,Wilson,AVG,22.0
+17012144,10/21/2017,D-II,Texas A&M-Comm.,Angelo State,KICK RETURNS,Buck,Wilson,LONG,25

@@ -7,6 +7,10 @@ Code to scrape all divisions of NCAA football box scores from www.ncaa.com, begi
 1. scrape box score data on new website for current season: https://www.ncaa.com/scoreboard/football/d3
    1. select desired customizability for scoreboard scraping for future runs... make running code very easily readable
 2. clean data to ROUTE SQL standards
+   1. this includes ID checks for all csv files
+   2. error links check
+   3. other data cleaning?
+   4. potential compilation files?
 
 ## Functionality
 

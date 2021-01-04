@@ -1,0 +1,89 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+20200001,11/1/2013,D-III,Occidental,Pomona-Pitzer,RUSHING,Samuel,Crizer,ATT,5
+20200002,11/1/2013,D-III,Occidental,Pomona-Pitzer,RUSHING,Samuel,Crizer,YDS,20
+20200003,11/1/2013,D-III,Occidental,Pomona-Pitzer,RUSHING,Samuel,Crizer,TD,1
+20200004,11/1/2013,D-III,Occidental,Pomona-Pitzer,RUSHING,Samuel,Crizer,LONG,9
+20200005,11/1/2013,D-III,Occidental,Pomona-Pitzer,RUSHING,Kwame,Do,ATT,29
+20200006,11/1/2013,D-III,Occidental,Pomona-Pitzer,RUSHING,Kwame,Do,YDS,155
+20200007,11/1/2013,D-III,Occidental,Pomona-Pitzer,RUSHING,Kwame,Do,TD,0
+20200008,11/1/2013,D-III,Occidental,Pomona-Pitzer,RUSHING,Kwame,Do,LONG,15
+20200009,11/1/2013,D-III,Occidental,Pomona-Pitzer,RUSHING,Tom,Stivers,ATT,1
+20200010,11/1/2013,D-III,Occidental,Pomona-Pitzer,RUSHING,Tom,Stivers,YDS,-8
+20200011,11/1/2013,D-III,Occidental,Pomona-Pitzer,RUSHING,Tom,Stivers,TD,0
+20200012,11/1/2013,D-III,Occidental,Pomona-Pitzer,RUSHING,Tom,Stivers,LONG,0
+20200013,11/1/2013,D-III,Occidental,Pomona-Pitzer,RUSHING,Bryan,Scott,ATT,6
+20200014,11/1/2013,D-III,Occidental,Pomona-Pitzer,RUSHING,Bryan,Scott,YDS,-8
+20200015,11/1/2013,D-III,Occidental,Pomona-Pitzer,RUSHING,Bryan,Scott,TD,0
+20200016,11/1/2013,D-III,Occidental,Pomona-Pitzer,RUSHING,Bryan,Scott,LONG,5
+20200017,11/1/2013,D-III,Occidental,Pomona-Pitzer,RUSHING,Cordell,Harris,ATT,1
+20200018,11/1/2013,D-III,Occidental,Pomona-Pitzer,RUSHING,Cordell,Harris,YDS,-5
+20200019,11/1/2013,D-III,Occidental,Pomona-Pitzer,RUSHING,Cordell,Harris,TD,0
+20200020,11/1/2013,D-III,Occidental,Pomona-Pitzer,RUSHING,Cordell,Harris,LONG,0
+20200021,11/1/2013,D-III,Occidental,Pomona-Pitzer,RUSHING,Austin,Cheadle,ATT,1
+20200022,11/1/2013,D-III,Occidental,Pomona-Pitzer,RUSHING,Austin,Cheadle,YDS,6
+20200023,11/1/2013,D-III,Occidental,Pomona-Pitzer,RUSHING,Austin,Cheadle,TD,0
+20200024,11/1/2013,D-III,Occidental,Pomona-Pitzer,RUSHING,Austin,Cheadle,LONG,6
+20200025,11/1/2013,D-III,Occidental,Pomona-Pitzer,RUSHING,,Team,ATT,3
+20200026,11/1/2013,D-III,Occidental,Pomona-Pitzer,RUSHING,,Team,YDS,-6
+20200027,11/1/2013,D-III,Occidental,Pomona-Pitzer,RUSHING,,Team,TD,0
+20200028,11/1/2013,D-III,Occidental,Pomona-Pitzer,RUSHING,,Team,LONG,0
+20200029,11/1/2013,D-III,Occidental,Pomona-Pitzer,PASSING,Tom,Stivers,CP-ATT-INT,2-2-0
+20200030,11/1/2013,D-III,Occidental,Pomona-Pitzer,PASSING,Tom,Stivers,YDS,26
+20200031,11/1/2013,D-III,Occidental,Pomona-Pitzer,PASSING,Tom,Stivers,TD,0
+20200032,11/1/2013,D-III,Occidental,Pomona-Pitzer,PASSING,Tom,Stivers,LONG,20
+20200033,11/1/2013,D-III,Occidental,Pomona-Pitzer,PASSING,Bryan,Scott,CP-ATT-INT,8-17-1
+20200034,11/1/2013,D-III,Occidental,Pomona-Pitzer,PASSING,Bryan,Scott,YDS,122
+20200035,11/1/2013,D-III,Occidental,Pomona-Pitzer,PASSING,Bryan,Scott,TD,0
+20200036,11/1/2013,D-III,Occidental,Pomona-Pitzer,PASSING,Bryan,Scott,LONG,25
+20200037,11/1/2013,D-III,Occidental,Pomona-Pitzer,RECEIVING,Samuel,Crizer,REC,2
+20200038,11/1/2013,D-III,Occidental,Pomona-Pitzer,RECEIVING,Samuel,Crizer,YDS,18
+20200039,11/1/2013,D-III,Occidental,Pomona-Pitzer,RECEIVING,Samuel,Crizer,TD,0
+20200040,11/1/2013,D-III,Occidental,Pomona-Pitzer,RECEIVING,Samuel,Crizer,LONG,10
+20200041,11/1/2013,D-III,Occidental,Pomona-Pitzer,RECEIVING,Kaleb,Mitchell,REC,1
+20200042,11/1/2013,D-III,Occidental,Pomona-Pitzer,RECEIVING,Kaleb,Mitchell,YDS,16
+20200043,11/1/2013,D-III,Occidental,Pomona-Pitzer,RECEIVING,Kaleb,Mitchell,TD,0
+20200044,11/1/2013,D-III,Occidental,Pomona-Pitzer,RECEIVING,Kaleb,Mitchell,LONG,16
+20200045,11/1/2013,D-III,Occidental,Pomona-Pitzer,RECEIVING,Samuel,Stekol,REC,1
+20200046,11/1/2013,D-III,Occidental,Pomona-Pitzer,RECEIVING,Samuel,Stekol,YDS,6
+20200047,11/1/2013,D-III,Occidental,Pomona-Pitzer,RECEIVING,Samuel,Stekol,TD,0
+20200048,11/1/2013,D-III,Occidental,Pomona-Pitzer,RECEIVING,Samuel,Stekol,LONG,6
+20200049,11/1/2013,D-III,Occidental,Pomona-Pitzer,RECEIVING,Cordell,Harris,REC,1
+20200050,11/1/2013,D-III,Occidental,Pomona-Pitzer,RECEIVING,Cordell,Harris,YDS,25
+20200051,11/1/2013,D-III,Occidental,Pomona-Pitzer,RECEIVING,Cordell,Harris,TD,0
+20200052,11/1/2013,D-III,Occidental,Pomona-Pitzer,RECEIVING,Cordell,Harris,LONG,25
+20200053,11/1/2013,D-III,Occidental,Pomona-Pitzer,RECEIVING,Devin,Bullock,REC,5
+20200054,11/1/2013,D-III,Occidental,Pomona-Pitzer,RECEIVING,Devin,Bullock,YDS,83
+20200055,11/1/2013,D-III,Occidental,Pomona-Pitzer,RECEIVING,Devin,Bullock,TD,0
+20200056,11/1/2013,D-III,Occidental,Pomona-Pitzer,RECEIVING,Devin,Bullock,LONG,24
+20200057,11/1/2013,D-III,Occidental,Pomona-Pitzer,PUNTING,Marc,Kuzbari,NO,5
+20200058,11/1/2013,D-III,Occidental,Pomona-Pitzer,PUNTING,Marc,Kuzbari,YDS,203
+20200059,11/1/2013,D-III,Occidental,Pomona-Pitzer,PUNTING,Marc,Kuzbari,AVG,40.6
+20200060,11/1/2013,D-III,Occidental,Pomona-Pitzer,PUNTING,Marc,Kuzbari,LONG,45
+20200061,11/1/2013,D-III,Occidental,Pomona-Pitzer,PUNT RETURNS,Cordell,Harris,NO,1
+20200062,11/1/2013,D-III,Occidental,Pomona-Pitzer,PUNT RETURNS,Cordell,Harris,YDS,3
+20200063,11/1/2013,D-III,Occidental,Pomona-Pitzer,PUNT RETURNS,Cordell,Harris,AVG,3.0
+20200064,11/1/2013,D-III,Occidental,Pomona-Pitzer,PUNT RETURNS,Cordell,Harris,LONG,0
+20200065,11/1/2013,D-III,Occidental,Pomona-Pitzer,KICK RETURNS,Cordell,Harris,NO,2
+20200066,11/1/2013,D-III,Occidental,Pomona-Pitzer,KICK RETURNS,Cordell,Harris,YDS,48
+20200067,11/1/2013,D-III,Occidental,Pomona-Pitzer,KICK RETURNS,Cordell,Harris,AVG,24.0
+20200068,11/1/2013,D-III,Occidental,Pomona-Pitzer,KICK RETURNS,Cordell,Harris,LONG,35
+20200069,11/1/2013,D-III,Pomona-Pitzer,Occidental,RUSHING,,Team,ATT,15
+20200070,11/1/2013,D-III,Pomona-Pitzer,Occidental,RUSHING,,Team,YDS,53
+20200071,11/1/2013,D-III,Pomona-Pitzer,Occidental,RUSHING,,Team,TD,0
+20200072,11/1/2013,D-III,Pomona-Pitzer,Occidental,RUSHING,,Team,LONG,9
+20200073,11/1/2013,D-III,Pomona-Pitzer,Occidental,PASSING,,Team,CP-ATT-INT,20-39-0
+20200074,11/1/2013,D-III,Pomona-Pitzer,Occidental,PASSING,,Team,YDS,219
+20200075,11/1/2013,D-III,Pomona-Pitzer,Occidental,PASSING,,Team,TD,1
+20200076,11/1/2013,D-III,Pomona-Pitzer,Occidental,PASSING,,Team,LONG,27
+20200077,11/1/2013,D-III,Pomona-Pitzer,Occidental,RECEIVING,,Team,REC,3
+20200078,11/1/2013,D-III,Pomona-Pitzer,Occidental,RECEIVING,,Team,YDS,44
+20200079,11/1/2013,D-III,Pomona-Pitzer,Occidental,RECEIVING,,Team,TD,0
+20200080,11/1/2013,D-III,Pomona-Pitzer,Occidental,RECEIVING,,Team,LONG,27
+20200081,11/1/2013,D-III,Pomona-Pitzer,Occidental,PUNTING,,Team,NO,8
+20200082,11/1/2013,D-III,Pomona-Pitzer,Occidental,PUNTING,,Team,YDS,271
+20200083,11/1/2013,D-III,Pomona-Pitzer,Occidental,PUNTING,,Team,AVG,33.9
+20200084,11/1/2013,D-III,Pomona-Pitzer,Occidental,PUNTING,,Team,LONG,45
+20200085,11/1/2013,D-III,Pomona-Pitzer,Occidental,KICK RETURNS,,Team,NO,1
+20200086,11/1/2013,D-III,Pomona-Pitzer,Occidental,KICK RETURNS,,Team,YDS,23
+20200087,11/1/2013,D-III,Pomona-Pitzer,Occidental,KICK RETURNS,,Team,AVG,23.0
+20200088,11/1/2013,D-III,Pomona-Pitzer,Occidental,KICK RETURNS,,Team,LONG,23

@@ -1,0 +1,153 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+23513001,10/1/2016,D-III,Plymouth State,Westfield State,RUSHING,D,Hamilton,ATT,13
+23513002,10/1/2016,D-III,Plymouth State,Westfield State,RUSHING,D,Hamilton,YDS,37
+23513003,10/1/2016,D-III,Plymouth State,Westfield State,RUSHING,D,Hamilton,TD,0
+23513004,10/1/2016,D-III,Plymouth State,Westfield State,RUSHING,D,Hamilton,LONG,6
+23513005,10/1/2016,D-III,Plymouth State,Westfield State,RUSHING,M,Banuskevich,ATT,13
+23513006,10/1/2016,D-III,Plymouth State,Westfield State,RUSHING,M,Banuskevich,YDS,28
+23513007,10/1/2016,D-III,Plymouth State,Westfield State,RUSHING,M,Banuskevich,TD,1
+23513008,10/1/2016,D-III,Plymouth State,Westfield State,RUSHING,M,Banuskevich,LONG,8
+23513009,10/1/2016,D-III,Plymouth State,Westfield State,RUSHING,A,Reardon,ATT,4
+23513010,10/1/2016,D-III,Plymouth State,Westfield State,RUSHING,A,Reardon,YDS,23
+23513011,10/1/2016,D-III,Plymouth State,Westfield State,RUSHING,A,Reardon,TD,0
+23513012,10/1/2016,D-III,Plymouth State,Westfield State,RUSHING,A,Reardon,LONG,14
+23513013,10/1/2016,D-III,Plymouth State,Westfield State,RUSHING,,Team,ATT,1
+23513014,10/1/2016,D-III,Plymouth State,Westfield State,RUSHING,,Team,YDS,0
+23513015,10/1/2016,D-III,Plymouth State,Westfield State,RUSHING,,Team,TD,0
+23513016,10/1/2016,D-III,Plymouth State,Westfield State,RUSHING,,Team,LONG,0
+23513017,10/1/2016,D-III,Plymouth State,Westfield State,RUSHING,T,Mahoney,ATT,5
+23513018,10/1/2016,D-III,Plymouth State,Westfield State,RUSHING,T,Mahoney,YDS,-1
+23513019,10/1/2016,D-III,Plymouth State,Westfield State,RUSHING,T,Mahoney,TD,0
+23513020,10/1/2016,D-III,Plymouth State,Westfield State,RUSHING,T,Mahoney,LONG,3
+23513021,10/1/2016,D-III,Plymouth State,Westfield State,RUSHING,Z,Edwards,ATT,2
+23513022,10/1/2016,D-III,Plymouth State,Westfield State,RUSHING,Z,Edwards,YDS,-21
+23513023,10/1/2016,D-III,Plymouth State,Westfield State,RUSHING,Z,Edwards,TD,0
+23513024,10/1/2016,D-III,Plymouth State,Westfield State,RUSHING,Z,Edwards,LONG,0
+23513025,10/1/2016,D-III,Plymouth State,Westfield State,PASSING,Z,Edwards,CP-ATT-INT,11-19-1
+23513026,10/1/2016,D-III,Plymouth State,Westfield State,PASSING,Z,Edwards,YDS,138
+23513027,10/1/2016,D-III,Plymouth State,Westfield State,PASSING,Z,Edwards,TD,0
+23513028,10/1/2016,D-III,Plymouth State,Westfield State,PASSING,Z,Edwards,LONG,61
+23513029,10/1/2016,D-III,Plymouth State,Westfield State,RECEIVING,M,Banuskevich,REC,2
+23513030,10/1/2016,D-III,Plymouth State,Westfield State,RECEIVING,M,Banuskevich,YDS,60
+23513031,10/1/2016,D-III,Plymouth State,Westfield State,RECEIVING,M,Banuskevich,TD,0
+23513032,10/1/2016,D-III,Plymouth State,Westfield State,RECEIVING,M,Banuskevich,LONG,61
+23513033,10/1/2016,D-III,Plymouth State,Westfield State,RECEIVING,C,Kelly,REC,3
+23513034,10/1/2016,D-III,Plymouth State,Westfield State,RECEIVING,C,Kelly,YDS,32
+23513035,10/1/2016,D-III,Plymouth State,Westfield State,RECEIVING,C,Kelly,TD,0
+23513036,10/1/2016,D-III,Plymouth State,Westfield State,RECEIVING,C,Kelly,LONG,14
+23513037,10/1/2016,D-III,Plymouth State,Westfield State,RECEIVING,J,Szulc,REC,3
+23513038,10/1/2016,D-III,Plymouth State,Westfield State,RECEIVING,J,Szulc,YDS,24
+23513039,10/1/2016,D-III,Plymouth State,Westfield State,RECEIVING,J,Szulc,TD,0
+23513040,10/1/2016,D-III,Plymouth State,Westfield State,RECEIVING,J,Szulc,LONG,11
+23513041,10/1/2016,D-III,Plymouth State,Westfield State,RECEIVING,B,Drumgole,REC,2
+23513042,10/1/2016,D-III,Plymouth State,Westfield State,RECEIVING,B,Drumgole,YDS,16
+23513043,10/1/2016,D-III,Plymouth State,Westfield State,RECEIVING,B,Drumgole,TD,0
+23513044,10/1/2016,D-III,Plymouth State,Westfield State,RECEIVING,B,Drumgole,LONG,11
+23513045,10/1/2016,D-III,Plymouth State,Westfield State,RECEIVING,T,Mahoney,REC,1
+23513046,10/1/2016,D-III,Plymouth State,Westfield State,RECEIVING,T,Mahoney,YDS,6
+23513047,10/1/2016,D-III,Plymouth State,Westfield State,RECEIVING,T,Mahoney,TD,0
+23513048,10/1/2016,D-III,Plymouth State,Westfield State,RECEIVING,T,Mahoney,LONG,6
+23513049,10/1/2016,D-III,Plymouth State,Westfield State,PUNTING,R,Waldecker,NO,8
+23513050,10/1/2016,D-III,Plymouth State,Westfield State,PUNTING,R,Waldecker,YDS,269
+23513051,10/1/2016,D-III,Plymouth State,Westfield State,PUNTING,R,Waldecker,AVG,33.6
+23513052,10/1/2016,D-III,Plymouth State,Westfield State,PUNTING,R,Waldecker,LONG,46
+23513053,10/1/2016,D-III,Plymouth State,Westfield State,PUNT RETURNS,P,Gbaley,NO,0
+23513054,10/1/2016,D-III,Plymouth State,Westfield State,PUNT RETURNS,P,Gbaley,YDS,0
+23513055,10/1/2016,D-III,Plymouth State,Westfield State,PUNT RETURNS,P,Gbaley,AVG,-
+23513056,10/1/2016,D-III,Plymouth State,Westfield State,PUNT RETURNS,P,Gbaley,LONG,0
+23513057,10/1/2016,D-III,Plymouth State,Westfield State,PUNT RETURNS,J,Szulc,NO,3
+23513058,10/1/2016,D-III,Plymouth State,Westfield State,PUNT RETURNS,J,Szulc,YDS,22
+23513059,10/1/2016,D-III,Plymouth State,Westfield State,PUNT RETURNS,J,Szulc,AVG,7.3
+23513060,10/1/2016,D-III,Plymouth State,Westfield State,PUNT RETURNS,J,Szulc,LONG,8
+23513061,10/1/2016,D-III,Plymouth State,Westfield State,PUNT RETURNS,Z,Ziemba,NO,1
+23513062,10/1/2016,D-III,Plymouth State,Westfield State,PUNT RETURNS,Z,Ziemba,YDS,28
+23513063,10/1/2016,D-III,Plymouth State,Westfield State,PUNT RETURNS,Z,Ziemba,AVG,28.0
+23513064,10/1/2016,D-III,Plymouth State,Westfield State,PUNT RETURNS,Z,Ziemba,LONG,0
+23513065,10/1/2016,D-III,Plymouth State,Westfield State,KICK RETURNS,B,Zentek,NO,1
+23513066,10/1/2016,D-III,Plymouth State,Westfield State,KICK RETURNS,B,Zentek,YDS,18
+23513067,10/1/2016,D-III,Plymouth State,Westfield State,KICK RETURNS,B,Zentek,AVG,18.0
+23513068,10/1/2016,D-III,Plymouth State,Westfield State,KICK RETURNS,B,Zentek,LONG,18
+23513069,10/1/2016,D-III,Plymouth State,Westfield State,KICK RETURNS,B,Lafrance,NO,1
+23513070,10/1/2016,D-III,Plymouth State,Westfield State,KICK RETURNS,B,Lafrance,YDS,12
+23513071,10/1/2016,D-III,Plymouth State,Westfield State,KICK RETURNS,B,Lafrance,AVG,12.0
+23513072,10/1/2016,D-III,Plymouth State,Westfield State,KICK RETURNS,B,Lafrance,LONG,12
+23513073,10/1/2016,D-III,Westfield State,Plymouth State,RUSHING,Travon,Holder,ATT,18
+23513074,10/1/2016,D-III,Westfield State,Plymouth State,RUSHING,Travon,Holder,YDS,41
+23513075,10/1/2016,D-III,Westfield State,Plymouth State,RUSHING,Travon,Holder,TD,0
+23513076,10/1/2016,D-III,Westfield State,Plymouth State,RUSHING,Travon,Holder,LONG,15
+23513077,10/1/2016,D-III,Westfield State,Plymouth State,RUSHING,Rufus,Rushins,ATT,8
+23513078,10/1/2016,D-III,Westfield State,Plymouth State,RUSHING,Rufus,Rushins,YDS,23
+23513079,10/1/2016,D-III,Westfield State,Plymouth State,RUSHING,Rufus,Rushins,TD,0
+23513080,10/1/2016,D-III,Westfield State,Plymouth State,RUSHING,Rufus,Rushins,LONG,9
+23513081,10/1/2016,D-III,Westfield State,Plymouth State,RUSHING,Phil,Cohen,ATT,7
+23513082,10/1/2016,D-III,Westfield State,Plymouth State,RUSHING,Phil,Cohen,YDS,12
+23513083,10/1/2016,D-III,Westfield State,Plymouth State,RUSHING,Phil,Cohen,TD,1
+23513084,10/1/2016,D-III,Westfield State,Plymouth State,RUSHING,Phil,Cohen,LONG,3
+23513085,10/1/2016,D-III,Westfield State,Plymouth State,RUSHING,Ryan,Wilder,ATT,3
+23513086,10/1/2016,D-III,Westfield State,Plymouth State,RUSHING,Ryan,Wilder,YDS,6
+23513087,10/1/2016,D-III,Westfield State,Plymouth State,RUSHING,Ryan,Wilder,TD,0
+23513088,10/1/2016,D-III,Westfield State,Plymouth State,RUSHING,Ryan,Wilder,LONG,4
+23513089,10/1/2016,D-III,Westfield State,Plymouth State,RUSHING,Duane,Roberts,ATT,1
+23513090,10/1/2016,D-III,Westfield State,Plymouth State,RUSHING,Duane,Roberts,YDS,-3
+23513091,10/1/2016,D-III,Westfield State,Plymouth State,RUSHING,Duane,Roberts,TD,0
+23513092,10/1/2016,D-III,Westfield State,Plymouth State,RUSHING,Duane,Roberts,LONG,0
+23513093,10/1/2016,D-III,Westfield State,Plymouth State,RUSHING,Justin,Beck,ATT,5
+23513094,10/1/2016,D-III,Westfield State,Plymouth State,RUSHING,Justin,Beck,YDS,-4
+23513095,10/1/2016,D-III,Westfield State,Plymouth State,RUSHING,Justin,Beck,TD,0
+23513096,10/1/2016,D-III,Westfield State,Plymouth State,RUSHING,Justin,Beck,LONG,3
+23513097,10/1/2016,D-III,Westfield State,Plymouth State,RUSHING,S,Brathwaite,ATT,1
+23513098,10/1/2016,D-III,Westfield State,Plymouth State,RUSHING,S,Brathwaite,YDS,-5
+23513099,10/1/2016,D-III,Westfield State,Plymouth State,RUSHING,S,Brathwaite,TD,0
+23513100,10/1/2016,D-III,Westfield State,Plymouth State,RUSHING,S,Brathwaite,LONG,0
+23513101,10/1/2016,D-III,Westfield State,Plymouth State,PASSING,Phil,Cohen,CP-ATT-INT,8-12-0
+23513102,10/1/2016,D-III,Westfield State,Plymouth State,PASSING,Phil,Cohen,YDS,92
+23513103,10/1/2016,D-III,Westfield State,Plymouth State,PASSING,Phil,Cohen,TD,1
+23513104,10/1/2016,D-III,Westfield State,Plymouth State,PASSING,Phil,Cohen,LONG,52
+23513105,10/1/2016,D-III,Westfield State,Plymouth State,PASSING,Justin,Beck,CP-ATT-INT,5-7-1
+23513106,10/1/2016,D-III,Westfield State,Plymouth State,PASSING,Justin,Beck,YDS,48
+23513107,10/1/2016,D-III,Westfield State,Plymouth State,PASSING,Justin,Beck,TD,0
+23513108,10/1/2016,D-III,Westfield State,Plymouth State,PASSING,Justin,Beck,LONG,17
+23513109,10/1/2016,D-III,Westfield State,Plymouth State,PASSING,S,Brathwaite,CP-ATT-INT,1-2-0
+23513110,10/1/2016,D-III,Westfield State,Plymouth State,PASSING,S,Brathwaite,YDS,5
+23513111,10/1/2016,D-III,Westfield State,Plymouth State,PASSING,S,Brathwaite,TD,0
+23513112,10/1/2016,D-III,Westfield State,Plymouth State,PASSING,S,Brathwaite,LONG,5
+23513113,10/1/2016,D-III,Westfield State,Plymouth State,RECEIVING,Evan,Garvey,REC,7
+23513114,10/1/2016,D-III,Westfield State,Plymouth State,RECEIVING,Evan,Garvey,YDS,102
+23513115,10/1/2016,D-III,Westfield State,Plymouth State,RECEIVING,Evan,Garvey,TD,1
+23513116,10/1/2016,D-III,Westfield State,Plymouth State,RECEIVING,Evan,Garvey,LONG,52
+23513117,10/1/2016,D-III,Westfield State,Plymouth State,RECEIVING,Tyler,Bevan,REC,4
+23513118,10/1/2016,D-III,Westfield State,Plymouth State,RECEIVING,Tyler,Bevan,YDS,33
+23513119,10/1/2016,D-III,Westfield State,Plymouth State,RECEIVING,Tyler,Bevan,TD,0
+23513120,10/1/2016,D-III,Westfield State,Plymouth State,RECEIVING,Tyler,Bevan,LONG,10
+23513121,10/1/2016,D-III,Westfield State,Plymouth State,RECEIVING,Travon,Holder,REC,2
+23513122,10/1/2016,D-III,Westfield State,Plymouth State,RECEIVING,Travon,Holder,YDS,11
+23513123,10/1/2016,D-III,Westfield State,Plymouth State,RECEIVING,Travon,Holder,TD,0
+23513124,10/1/2016,D-III,Westfield State,Plymouth State,RECEIVING,Travon,Holder,LONG,10
+23513125,10/1/2016,D-III,Westfield State,Plymouth State,RECEIVING,Ryan,Wilder,REC,1
+23513126,10/1/2016,D-III,Westfield State,Plymouth State,RECEIVING,Ryan,Wilder,YDS,-1
+23513127,10/1/2016,D-III,Westfield State,Plymouth State,RECEIVING,Ryan,Wilder,TD,0
+23513128,10/1/2016,D-III,Westfield State,Plymouth State,RECEIVING,Ryan,Wilder,LONG,0
+23513129,10/1/2016,D-III,Westfield State,Plymouth State,PUNTING,John,Ollari,NO,7
+23513130,10/1/2016,D-III,Westfield State,Plymouth State,PUNTING,John,Ollari,YDS,258
+23513131,10/1/2016,D-III,Westfield State,Plymouth State,PUNTING,John,Ollari,AVG,36.9
+23513132,10/1/2016,D-III,Westfield State,Plymouth State,PUNTING,John,Ollari,LONG,48
+23513133,10/1/2016,D-III,Westfield State,Plymouth State,PUNTING,,Team,NO,1
+23513134,10/1/2016,D-III,Westfield State,Plymouth State,PUNTING,,Team,YDS,0
+23513135,10/1/2016,D-III,Westfield State,Plymouth State,PUNTING,,Team,AVG,0.0
+23513136,10/1/2016,D-III,Westfield State,Plymouth State,PUNTING,,Team,LONG,0
+23513137,10/1/2016,D-III,Westfield State,Plymouth State,PUNT RETURNS,Ryan,Wilder,NO,2
+23513138,10/1/2016,D-III,Westfield State,Plymouth State,PUNT RETURNS,Ryan,Wilder,YDS,-4
+23513139,10/1/2016,D-III,Westfield State,Plymouth State,PUNT RETURNS,Ryan,Wilder,AVG,-2.0
+23513140,10/1/2016,D-III,Westfield State,Plymouth State,PUNT RETURNS,Ryan,Wilder,LONG,0
+23513141,10/1/2016,D-III,Westfield State,Plymouth State,PUNT RETURNS,Duane,Roberts,NO,2
+23513142,10/1/2016,D-III,Westfield State,Plymouth State,PUNT RETURNS,Duane,Roberts,YDS,6
+23513143,10/1/2016,D-III,Westfield State,Plymouth State,PUNT RETURNS,Duane,Roberts,AVG,3.0
+23513144,10/1/2016,D-III,Westfield State,Plymouth State,PUNT RETURNS,Duane,Roberts,LONG,2
+23513145,10/1/2016,D-III,Westfield State,Plymouth State,KICK RETURNS,Evan,Garvey,NO,1
+23513146,10/1/2016,D-III,Westfield State,Plymouth State,KICK RETURNS,Evan,Garvey,YDS,13
+23513147,10/1/2016,D-III,Westfield State,Plymouth State,KICK RETURNS,Evan,Garvey,AVG,13.0
+23513148,10/1/2016,D-III,Westfield State,Plymouth State,KICK RETURNS,Evan,Garvey,LONG,13
+23513149,10/1/2016,D-III,Westfield State,Plymouth State,KICK RETURNS,Duane,Roberts,NO,1
+23513150,10/1/2016,D-III,Westfield State,Plymouth State,KICK RETURNS,Duane,Roberts,YDS,32
+23513151,10/1/2016,D-III,Westfield State,Plymouth State,KICK RETURNS,Duane,Roberts,AVG,32.0
+23513152,10/1/2016,D-III,Westfield State,Plymouth State,KICK RETURNS,Duane,Roberts,LONG,32

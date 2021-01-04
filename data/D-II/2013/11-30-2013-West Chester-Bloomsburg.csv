@@ -1,0 +1,161 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+13423001,11/30/2013,D-II,West Chester,Bloomsburg,RUSHING,J,Bonacquisti,ATT,1
+13423002,11/30/2013,D-II,West Chester,Bloomsburg,RUSHING,J,Bonacquisti,YDS,1
+13423003,11/30/2013,D-II,West Chester,Bloomsburg,RUSHING,J,Bonacquisti,TD,0
+13423004,11/30/2013,D-II,West Chester,Bloomsburg,RUSHING,J,Bonacquisti,LONG,1
+13423005,11/30/2013,D-II,West Chester,Bloomsburg,RUSHING,,Team,ATT,1
+13423006,11/30/2013,D-II,West Chester,Bloomsburg,RUSHING,,Team,YDS,-2
+13423007,11/30/2013,D-II,West Chester,Bloomsburg,RUSHING,,Team,TD,0
+13423008,11/30/2013,D-II,West Chester,Bloomsburg,RUSHING,,Team,LONG,0
+13423009,11/30/2013,D-II,West Chester,Bloomsburg,RUSHING,Brandon,Monk,ATT,2
+13423010,11/30/2013,D-II,West Chester,Bloomsburg,RUSHING,Brandon,Monk,YDS,8
+13423011,11/30/2013,D-II,West Chester,Bloomsburg,RUSHING,Brandon,Monk,TD,0
+13423012,11/30/2013,D-II,West Chester,Bloomsburg,RUSHING,Brandon,Monk,LONG,5
+13423013,11/30/2013,D-II,West Chester,Bloomsburg,RUSHING,Sean,Mccartney,ATT,5
+13423014,11/30/2013,D-II,West Chester,Bloomsburg,RUSHING,Sean,Mccartney,YDS,-3
+13423015,11/30/2013,D-II,West Chester,Bloomsburg,RUSHING,Sean,Mccartney,TD,1
+13423016,11/30/2013,D-II,West Chester,Bloomsburg,RUSHING,Sean,Mccartney,LONG,5
+13423017,11/30/2013,D-II,West Chester,Bloomsburg,RUSHING,Rondell,White,ATT,27
+13423018,11/30/2013,D-II,West Chester,Bloomsburg,RUSHING,Rondell,White,YDS,113
+13423019,11/30/2013,D-II,West Chester,Bloomsburg,RUSHING,Rondell,White,TD,0
+13423020,11/30/2013,D-II,West Chester,Bloomsburg,RUSHING,Rondell,White,LONG,17
+13423021,11/30/2013,D-II,West Chester,Bloomsburg,PASSING,Tim,Keyser,CP-ATT-INT,0-1-1
+13423022,11/30/2013,D-II,West Chester,Bloomsburg,PASSING,Tim,Keyser,YDS,0
+13423023,11/30/2013,D-II,West Chester,Bloomsburg,PASSING,Tim,Keyser,TD,0
+13423024,11/30/2013,D-II,West Chester,Bloomsburg,PASSING,Tim,Keyser,LONG,0
+13423025,11/30/2013,D-II,West Chester,Bloomsburg,PASSING,Sean,Mccartney,CP-ATT-INT,24-39-2
+13423026,11/30/2013,D-II,West Chester,Bloomsburg,PASSING,Sean,Mccartney,YDS,348
+13423027,11/30/2013,D-II,West Chester,Bloomsburg,PASSING,Sean,Mccartney,TD,3
+13423028,11/30/2013,D-II,West Chester,Bloomsburg,PASSING,Sean,Mccartney,LONG,39
+13423029,11/30/2013,D-II,West Chester,Bloomsburg,RECEIVING,Eddie,Elliott,REC,4
+13423030,11/30/2013,D-II,West Chester,Bloomsburg,RECEIVING,Eddie,Elliott,YDS,42
+13423031,11/30/2013,D-II,West Chester,Bloomsburg,RECEIVING,Eddie,Elliott,TD,0
+13423032,11/30/2013,D-II,West Chester,Bloomsburg,RECEIVING,Eddie,Elliott,LONG,15
+13423033,11/30/2013,D-II,West Chester,Bloomsburg,RECEIVING,Laronn,Lee,REC,2
+13423034,11/30/2013,D-II,West Chester,Bloomsburg,RECEIVING,Laronn,Lee,YDS,42
+13423035,11/30/2013,D-II,West Chester,Bloomsburg,RECEIVING,Laronn,Lee,TD,1
+13423036,11/30/2013,D-II,West Chester,Bloomsburg,RECEIVING,Laronn,Lee,LONG,25
+13423037,11/30/2013,D-II,West Chester,Bloomsburg,RECEIVING,Adam,Dempsey,REC,3
+13423038,11/30/2013,D-II,West Chester,Bloomsburg,RECEIVING,Adam,Dempsey,YDS,39
+13423039,11/30/2013,D-II,West Chester,Bloomsburg,RECEIVING,Adam,Dempsey,TD,0
+13423040,11/30/2013,D-II,West Chester,Bloomsburg,RECEIVING,Adam,Dempsey,LONG,19
+13423041,11/30/2013,D-II,West Chester,Bloomsburg,RECEIVING,Rondell,White,REC,5
+13423042,11/30/2013,D-II,West Chester,Bloomsburg,RECEIVING,Rondell,White,YDS,43
+13423043,11/30/2013,D-II,West Chester,Bloomsburg,RECEIVING,Rondell,White,TD,0
+13423044,11/30/2013,D-II,West Chester,Bloomsburg,RECEIVING,Rondell,White,LONG,11
+13423045,11/30/2013,D-II,West Chester,Bloomsburg,RECEIVING,Tim,Keyser,REC,2
+13423046,11/30/2013,D-II,West Chester,Bloomsburg,RECEIVING,Tim,Keyser,YDS,27
+13423047,11/30/2013,D-II,West Chester,Bloomsburg,RECEIVING,Tim,Keyser,TD,0
+13423048,11/30/2013,D-II,West Chester,Bloomsburg,RECEIVING,Tim,Keyser,LONG,16
+13423049,11/30/2013,D-II,West Chester,Bloomsburg,RECEIVING,Brandon,Monk,REC,1
+13423050,11/30/2013,D-II,West Chester,Bloomsburg,RECEIVING,Brandon,Monk,YDS,4
+13423051,11/30/2013,D-II,West Chester,Bloomsburg,RECEIVING,Brandon,Monk,TD,0
+13423052,11/30/2013,D-II,West Chester,Bloomsburg,RECEIVING,Brandon,Monk,LONG,4
+13423053,11/30/2013,D-II,West Chester,Bloomsburg,RECEIVING,Jim,Hurley,REC,1
+13423054,11/30/2013,D-II,West Chester,Bloomsburg,RECEIVING,Jim,Hurley,YDS,35
+13423055,11/30/2013,D-II,West Chester,Bloomsburg,RECEIVING,Jim,Hurley,TD,0
+13423056,11/30/2013,D-II,West Chester,Bloomsburg,RECEIVING,Jim,Hurley,LONG,35
+13423057,11/30/2013,D-II,West Chester,Bloomsburg,RECEIVING,Erick,Brundidge,REC,1
+13423058,11/30/2013,D-II,West Chester,Bloomsburg,RECEIVING,Erick,Brundidge,YDS,4
+13423059,11/30/2013,D-II,West Chester,Bloomsburg,RECEIVING,Erick,Brundidge,TD,0
+13423060,11/30/2013,D-II,West Chester,Bloomsburg,RECEIVING,Erick,Brundidge,LONG,4
+13423061,11/30/2013,D-II,West Chester,Bloomsburg,RECEIVING,Tim,Brown,REC,5
+13423062,11/30/2013,D-II,West Chester,Bloomsburg,RECEIVING,Tim,Brown,YDS,112
+13423063,11/30/2013,D-II,West Chester,Bloomsburg,RECEIVING,Tim,Brown,TD,2
+13423064,11/30/2013,D-II,West Chester,Bloomsburg,RECEIVING,Tim,Brown,LONG,39
+13423065,11/30/2013,D-II,West Chester,Bloomsburg,PUNTING,Rich,Bruno,NO,2
+13423066,11/30/2013,D-II,West Chester,Bloomsburg,PUNTING,Rich,Bruno,YDS,95
+13423067,11/30/2013,D-II,West Chester,Bloomsburg,PUNTING,Rich,Bruno,AVG,47.5
+13423068,11/30/2013,D-II,West Chester,Bloomsburg,PUNTING,Rich,Bruno,LONG,56
+13423069,11/30/2013,D-II,West Chester,Bloomsburg,PUNT RETURNS,Brandon,Monk,NO,2
+13423070,11/30/2013,D-II,West Chester,Bloomsburg,PUNT RETURNS,Brandon,Monk,YDS,41
+13423071,11/30/2013,D-II,West Chester,Bloomsburg,PUNT RETURNS,Brandon,Monk,AVG,20.5
+13423072,11/30/2013,D-II,West Chester,Bloomsburg,PUNT RETURNS,Brandon,Monk,LONG,22
+13423073,11/30/2013,D-II,West Chester,Bloomsburg,KICK RETURNS,Rondell,White,NO,1
+13423074,11/30/2013,D-II,West Chester,Bloomsburg,KICK RETURNS,Rondell,White,YDS,18
+13423075,11/30/2013,D-II,West Chester,Bloomsburg,KICK RETURNS,Rondell,White,AVG,18.0
+13423076,11/30/2013,D-II,West Chester,Bloomsburg,KICK RETURNS,Rondell,White,LONG,18
+13423077,11/30/2013,D-II,West Chester,Bloomsburg,KICK RETURNS,Brandon,Monk,NO,3
+13423078,11/30/2013,D-II,West Chester,Bloomsburg,KICK RETURNS,Brandon,Monk,YDS,88
+13423079,11/30/2013,D-II,West Chester,Bloomsburg,KICK RETURNS,Brandon,Monk,AVG,29.3
+13423080,11/30/2013,D-II,West Chester,Bloomsburg,KICK RETURNS,Brandon,Monk,LONG,45
+13423081,11/30/2013,D-II,West Chester,Bloomsburg,KICK RETURNS,Shawn,Driggins,NO,1
+13423082,11/30/2013,D-II,West Chester,Bloomsburg,KICK RETURNS,Shawn,Driggins,YDS,0
+13423083,11/30/2013,D-II,West Chester,Bloomsburg,KICK RETURNS,Shawn,Driggins,AVG,0.0
+13423084,11/30/2013,D-II,West Chester,Bloomsburg,KICK RETURNS,Shawn,Driggins,LONG,0
+13423085,11/30/2013,D-II,Bloomsburg,West Chester,RUSHING,Dai'shon,Munger,ATT,1
+13423086,11/30/2013,D-II,Bloomsburg,West Chester,RUSHING,Dai'shon,Munger,YDS,-5
+13423087,11/30/2013,D-II,Bloomsburg,West Chester,RUSHING,Dai'shon,Munger,TD,0
+13423088,11/30/2013,D-II,Bloomsburg,West Chester,RUSHING,Dai'shon,Munger,LONG,0
+13423089,11/30/2013,D-II,Bloomsburg,West Chester,RUSHING,L,elliottjr,ATT,1
+13423090,11/30/2013,D-II,Bloomsburg,West Chester,RUSHING,L,elliottjr,YDS,8
+13423091,11/30/2013,D-II,Bloomsburg,West Chester,RUSHING,L,elliottjr,TD,0
+13423092,11/30/2013,D-II,Bloomsburg,West Chester,RUSHING,L,elliottjr,LONG,6
+13423093,11/30/2013,D-II,Bloomsburg,West Chester,RUSHING,Matt,Wenrich,ATT,1
+13423094,11/30/2013,D-II,Bloomsburg,West Chester,RUSHING,Matt,Wenrich,YDS,3
+13423095,11/30/2013,D-II,Bloomsburg,West Chester,RUSHING,Matt,Wenrich,TD,0
+13423096,11/30/2013,D-II,Bloomsburg,West Chester,RUSHING,Matt,Wenrich,LONG,3
+13423097,11/30/2013,D-II,Bloomsburg,West Chester,RUSHING,,Team,ATT,1
+13423098,11/30/2013,D-II,Bloomsburg,West Chester,RUSHING,,Team,YDS,-1
+13423099,11/30/2013,D-II,Bloomsburg,West Chester,RUSHING,,Team,TD,0
+13423100,11/30/2013,D-II,Bloomsburg,West Chester,RUSHING,,Team,LONG,0
+13423101,11/30/2013,D-II,Bloomsburg,West Chester,RUSHING,Tim,Kelly,ATT,4
+13423102,11/30/2013,D-II,Bloomsburg,West Chester,RUSHING,Tim,Kelly,YDS,13
+13423103,11/30/2013,D-II,Bloomsburg,West Chester,RUSHING,Tim,Kelly,TD,0
+13423104,11/30/2013,D-II,Bloomsburg,West Chester,RUSHING,Tim,Kelly,LONG,8
+13423105,11/30/2013,D-II,Bloomsburg,West Chester,RUSHING,Joe,Parsnik,ATT,7
+13423106,11/30/2013,D-II,Bloomsburg,West Chester,RUSHING,Joe,Parsnik,YDS,42
+13423107,11/30/2013,D-II,Bloomsburg,West Chester,RUSHING,Joe,Parsnik,TD,0
+13423108,11/30/2013,D-II,Bloomsburg,West Chester,RUSHING,Joe,Parsnik,LONG,12
+13423109,11/30/2013,D-II,Bloomsburg,West Chester,RUSHING,Franklyn,Quiteh,ATT,26
+13423110,11/30/2013,D-II,Bloomsburg,West Chester,RUSHING,Franklyn,Quiteh,YDS,208
+13423111,11/30/2013,D-II,Bloomsburg,West Chester,RUSHING,Franklyn,Quiteh,TD,2
+13423112,11/30/2013,D-II,Bloomsburg,West Chester,RUSHING,Franklyn,Quiteh,LONG,51
+13423113,11/30/2013,D-II,Bloomsburg,West Chester,PASSING,,Team,CP-ATT-INT,0-1-0
+13423114,11/30/2013,D-II,Bloomsburg,West Chester,PASSING,,Team,YDS,0
+13423115,11/30/2013,D-II,Bloomsburg,West Chester,PASSING,,Team,TD,0
+13423116,11/30/2013,D-II,Bloomsburg,West Chester,PASSING,,Team,LONG,0
+13423117,11/30/2013,D-II,Bloomsburg,West Chester,PASSING,Tim,Kelly,CP-ATT-INT,19-31-1
+13423118,11/30/2013,D-II,Bloomsburg,West Chester,PASSING,Tim,Kelly,YDS,265
+13423119,11/30/2013,D-II,Bloomsburg,West Chester,PASSING,Tim,Kelly,TD,3
+13423120,11/30/2013,D-II,Bloomsburg,West Chester,PASSING,Tim,Kelly,LONG,72
+13423121,11/30/2013,D-II,Bloomsburg,West Chester,RECEIVING,Glenn,huttonJr,REC,4
+13423122,11/30/2013,D-II,Bloomsburg,West Chester,RECEIVING,Glenn,huttonJr,YDS,83
+13423123,11/30/2013,D-II,Bloomsburg,West Chester,RECEIVING,Glenn,huttonJr,TD,0
+13423124,11/30/2013,D-II,Bloomsburg,West Chester,RECEIVING,Glenn,huttonJr,LONG,27
+13423125,11/30/2013,D-II,Bloomsburg,West Chester,RECEIVING,Connor,Gades,REC,3
+13423126,11/30/2013,D-II,Bloomsburg,West Chester,RECEIVING,Connor,Gades,YDS,88
+13423127,11/30/2013,D-II,Bloomsburg,West Chester,RECEIVING,Connor,Gades,TD,1
+13423128,11/30/2013,D-II,Bloomsburg,West Chester,RECEIVING,Connor,Gades,LONG,72
+13423129,11/30/2013,D-II,Bloomsburg,West Chester,RECEIVING,Tony,Peregrin,REC,6
+13423130,11/30/2013,D-II,Bloomsburg,West Chester,RECEIVING,Tony,Peregrin,YDS,57
+13423131,11/30/2013,D-II,Bloomsburg,West Chester,RECEIVING,Tony,Peregrin,TD,1
+13423132,11/30/2013,D-II,Bloomsburg,West Chester,RECEIVING,Tony,Peregrin,LONG,21
+13423133,11/30/2013,D-II,Bloomsburg,West Chester,RECEIVING,Franklyn,Quiteh,REC,2
+13423134,11/30/2013,D-II,Bloomsburg,West Chester,RECEIVING,Franklyn,Quiteh,YDS,15
+13423135,11/30/2013,D-II,Bloomsburg,West Chester,RECEIVING,Franklyn,Quiteh,TD,0
+13423136,11/30/2013,D-II,Bloomsburg,West Chester,RECEIVING,Franklyn,Quiteh,LONG,11
+13423137,11/30/2013,D-II,Bloomsburg,West Chester,RECEIVING,Matt,Wenrich,REC,1
+13423138,11/30/2013,D-II,Bloomsburg,West Chester,RECEIVING,Matt,Wenrich,YDS,-2
+13423139,11/30/2013,D-II,Bloomsburg,West Chester,RECEIVING,Matt,Wenrich,TD,0
+13423140,11/30/2013,D-II,Bloomsburg,West Chester,RECEIVING,Matt,Wenrich,LONG,0
+13423141,11/30/2013,D-II,Bloomsburg,West Chester,RECEIVING,Aaron,Allison,REC,3
+13423142,11/30/2013,D-II,Bloomsburg,West Chester,RECEIVING,Aaron,Allison,YDS,24
+13423143,11/30/2013,D-II,Bloomsburg,West Chester,RECEIVING,Aaron,Allison,TD,1
+13423144,11/30/2013,D-II,Bloomsburg,West Chester,RECEIVING,Aaron,Allison,LONG,16
+13423145,11/30/2013,D-II,Bloomsburg,West Chester,PUNTING,Will,Wagner,NO,3
+13423146,11/30/2013,D-II,Bloomsburg,West Chester,PUNTING,Will,Wagner,YDS,134
+13423147,11/30/2013,D-II,Bloomsburg,West Chester,PUNTING,Will,Wagner,AVG,44.7
+13423148,11/30/2013,D-II,Bloomsburg,West Chester,PUNTING,Will,Wagner,LONG,57
+13423149,11/30/2013,D-II,Bloomsburg,West Chester,PUNT RETURNS,L,elliottjr,NO,2
+13423150,11/30/2013,D-II,Bloomsburg,West Chester,PUNT RETURNS,L,elliottjr,YDS,0
+13423151,11/30/2013,D-II,Bloomsburg,West Chester,PUNT RETURNS,L,elliottjr,AVG,0.0
+13423152,11/30/2013,D-II,Bloomsburg,West Chester,PUNT RETURNS,L,elliottjr,LONG,0
+13423153,11/30/2013,D-II,Bloomsburg,West Chester,KICK RETURNS,Damin,Finley,NO,4
+13423154,11/30/2013,D-II,Bloomsburg,West Chester,KICK RETURNS,Damin,Finley,YDS,57
+13423155,11/30/2013,D-II,Bloomsburg,West Chester,KICK RETURNS,Damin,Finley,AVG,14.2
+13423156,11/30/2013,D-II,Bloomsburg,West Chester,KICK RETURNS,Damin,Finley,LONG,16
+13423157,11/30/2013,D-II,Bloomsburg,West Chester,KICK RETURNS,L,elliottjr,NO,4
+13423158,11/30/2013,D-II,Bloomsburg,West Chester,KICK RETURNS,L,elliottjr,YDS,40
+13423159,11/30/2013,D-II,Bloomsburg,West Chester,KICK RETURNS,L,elliottjr,AVG,10.0
+13423160,11/30/2013,D-II,Bloomsburg,West Chester,KICK RETURNS,L,elliottjr,LONG,16

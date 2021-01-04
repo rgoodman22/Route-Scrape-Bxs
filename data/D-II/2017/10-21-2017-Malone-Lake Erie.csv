@@ -1,0 +1,113 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+17059001,10/21/2017,D-II,Malone,Lake Erie,RUSHING,Ashton,Dulin,ATT,4
+17059002,10/21/2017,D-II,Malone,Lake Erie,RUSHING,Ashton,Dulin,YDS,77
+17059003,10/21/2017,D-II,Malone,Lake Erie,RUSHING,Ashton,Dulin,TD,1
+17059004,10/21/2017,D-II,Malone,Lake Erie,RUSHING,Ashton,Dulin,LONG,70
+17059005,10/21/2017,D-II,Malone,Lake Erie,RUSHING,Xavier,Garland,ATT,20
+17059006,10/21/2017,D-II,Malone,Lake Erie,RUSHING,Xavier,Garland,YDS,70
+17059007,10/21/2017,D-II,Malone,Lake Erie,RUSHING,Xavier,Garland,TD,0
+17059008,10/21/2017,D-II,Malone,Lake Erie,RUSHING,Xavier,Garland,LONG,11
+17059009,10/21/2017,D-II,Malone,Lake Erie,RUSHING,Cam,Ingram,ATT,5
+17059010,10/21/2017,D-II,Malone,Lake Erie,RUSHING,Cam,Ingram,YDS,9
+17059011,10/21/2017,D-II,Malone,Lake Erie,RUSHING,Cam,Ingram,TD,0
+17059012,10/21/2017,D-II,Malone,Lake Erie,RUSHING,Cam,Ingram,LONG,3
+17059013,10/21/2017,D-II,Malone,Lake Erie,RUSHING,Tyler,Howell,ATT,2
+17059014,10/21/2017,D-II,Malone,Lake Erie,RUSHING,Tyler,Howell,YDS,9
+17059015,10/21/2017,D-II,Malone,Lake Erie,RUSHING,Tyler,Howell,TD,0
+17059016,10/21/2017,D-II,Malone,Lake Erie,RUSHING,Tyler,Howell,LONG,4
+17059017,10/21/2017,D-II,Malone,Lake Erie,RUSHING,Zane,Bunnell,ATT,12
+17059018,10/21/2017,D-II,Malone,Lake Erie,RUSHING,Zane,Bunnell,YDS,-21
+17059019,10/21/2017,D-II,Malone,Lake Erie,RUSHING,Zane,Bunnell,TD,0
+17059020,10/21/2017,D-II,Malone,Lake Erie,RUSHING,Zane,Bunnell,LONG,8
+17059021,10/21/2017,D-II,Malone,Lake Erie,PASSING,Zane,Bunnell,CP-ATT-INT,2-8-0
+17059022,10/21/2017,D-II,Malone,Lake Erie,PASSING,Zane,Bunnell,YDS,86
+17059023,10/21/2017,D-II,Malone,Lake Erie,PASSING,Zane,Bunnell,TD,1
+17059024,10/21/2017,D-II,Malone,Lake Erie,PASSING,Zane,Bunnell,LONG,75
+17059025,10/21/2017,D-II,Malone,Lake Erie,RECEIVING,Ashton,Dulin,REC,2
+17059026,10/21/2017,D-II,Malone,Lake Erie,RECEIVING,Ashton,Dulin,YDS,86
+17059027,10/21/2017,D-II,Malone,Lake Erie,RECEIVING,Ashton,Dulin,TD,1
+17059028,10/21/2017,D-II,Malone,Lake Erie,RECEIVING,Ashton,Dulin,LONG,75
+17059029,10/21/2017,D-II,Malone,Lake Erie,PUNTING,Marcus,Moeller,NO,5
+17059030,10/21/2017,D-II,Malone,Lake Erie,PUNTING,Marcus,Moeller,YDS,202
+17059031,10/21/2017,D-II,Malone,Lake Erie,PUNTING,Marcus,Moeller,AVG,40.4
+17059032,10/21/2017,D-II,Malone,Lake Erie,PUNTING,Marcus,Moeller,LONG,55
+17059033,10/21/2017,D-II,Malone,Lake Erie,PUNT RETURNS,Jordan,Johnson,NO,2
+17059034,10/21/2017,D-II,Malone,Lake Erie,PUNT RETURNS,Jordan,Johnson,YDS,99
+17059035,10/21/2017,D-II,Malone,Lake Erie,PUNT RETURNS,Jordan,Johnson,AVG,49.5
+17059036,10/21/2017,D-II,Malone,Lake Erie,PUNT RETURNS,Jordan,Johnson,LONG,88
+17059037,10/21/2017,D-II,Malone,Lake Erie,KICK RETURNS,Jordan,Johnson,NO,2
+17059038,10/21/2017,D-II,Malone,Lake Erie,KICK RETURNS,Jordan,Johnson,YDS,60
+17059039,10/21/2017,D-II,Malone,Lake Erie,KICK RETURNS,Jordan,Johnson,AVG,30.0
+17059040,10/21/2017,D-II,Malone,Lake Erie,KICK RETURNS,Jordan,Johnson,LONG,54
+17059041,10/21/2017,D-II,Lake Erie,Malone,RUSHING,Desmon,Turner,ATT,14
+17059042,10/21/2017,D-II,Lake Erie,Malone,RUSHING,Desmon,Turner,YDS,78
+17059043,10/21/2017,D-II,Lake Erie,Malone,RUSHING,Desmon,Turner,TD,0
+17059044,10/21/2017,D-II,Lake Erie,Malone,RUSHING,Desmon,Turner,LONG,16
+17059045,10/21/2017,D-II,Lake Erie,Malone,RUSHING,Antwan,Harris,ATT,10
+17059046,10/21/2017,D-II,Lake Erie,Malone,RUSHING,Antwan,Harris,YDS,44
+17059047,10/21/2017,D-II,Lake Erie,Malone,RUSHING,Antwan,Harris,TD,1
+17059048,10/21/2017,D-II,Lake Erie,Malone,RUSHING,Antwan,Harris,LONG,20
+17059049,10/21/2017,D-II,Lake Erie,Malone,RUSHING,Javarian,Smith,ATT,3
+17059050,10/21/2017,D-II,Lake Erie,Malone,RUSHING,Javarian,Smith,YDS,14
+17059051,10/21/2017,D-II,Lake Erie,Malone,RUSHING,Javarian,Smith,TD,0
+17059052,10/21/2017,D-II,Lake Erie,Malone,RUSHING,Javarian,Smith,LONG,6
+17059053,10/21/2017,D-II,Lake Erie,Malone,RUSHING,Michael,Goolsby,ATT,1
+17059054,10/21/2017,D-II,Lake Erie,Malone,RUSHING,Michael,Goolsby,YDS,8
+17059055,10/21/2017,D-II,Lake Erie,Malone,RUSHING,Michael,Goolsby,TD,0
+17059056,10/21/2017,D-II,Lake Erie,Malone,RUSHING,Michael,Goolsby,LONG,8
+17059057,10/21/2017,D-II,Lake Erie,Malone,RUSHING,Cam,Searight,ATT,8
+17059058,10/21/2017,D-II,Lake Erie,Malone,RUSHING,Cam,Searight,YDS,4
+17059059,10/21/2017,D-II,Lake Erie,Malone,RUSHING,Cam,Searight,TD,0
+17059060,10/21/2017,D-II,Lake Erie,Malone,RUSHING,Cam,Searight,LONG,6
+17059061,10/21/2017,D-II,Lake Erie,Malone,PASSING,Cam,Searight,CP-ATT-INT,14-27-1
+17059062,10/21/2017,D-II,Lake Erie,Malone,PASSING,Cam,Searight,YDS,82
+17059063,10/21/2017,D-II,Lake Erie,Malone,PASSING,Cam,Searight,TD,0
+17059064,10/21/2017,D-II,Lake Erie,Malone,PASSING,Cam,Searight,LONG,15
+17059065,10/21/2017,D-II,Lake Erie,Malone,RECEIVING,Justin,Collins,REC,3
+17059066,10/21/2017,D-II,Lake Erie,Malone,RECEIVING,Justin,Collins,YDS,31
+17059067,10/21/2017,D-II,Lake Erie,Malone,RECEIVING,Justin,Collins,TD,0
+17059068,10/21/2017,D-II,Lake Erie,Malone,RECEIVING,Justin,Collins,LONG,15
+17059069,10/21/2017,D-II,Lake Erie,Malone,RECEIVING,Javarian,Smith,REC,3
+17059070,10/21/2017,D-II,Lake Erie,Malone,RECEIVING,Javarian,Smith,YDS,16
+17059071,10/21/2017,D-II,Lake Erie,Malone,RECEIVING,Javarian,Smith,TD,0
+17059072,10/21/2017,D-II,Lake Erie,Malone,RECEIVING,Javarian,Smith,LONG,10
+17059073,10/21/2017,D-II,Lake Erie,Malone,RECEIVING,Mitch,Tilley,REC,1
+17059074,10/21/2017,D-II,Lake Erie,Malone,RECEIVING,Mitch,Tilley,YDS,12
+17059075,10/21/2017,D-II,Lake Erie,Malone,RECEIVING,Mitch,Tilley,TD,0
+17059076,10/21/2017,D-II,Lake Erie,Malone,RECEIVING,Mitch,Tilley,LONG,12
+17059077,10/21/2017,D-II,Lake Erie,Malone,RECEIVING,Antwan,Harris,REC,2
+17059078,10/21/2017,D-II,Lake Erie,Malone,RECEIVING,Antwan,Harris,YDS,10
+17059079,10/21/2017,D-II,Lake Erie,Malone,RECEIVING,Antwan,Harris,TD,0
+17059080,10/21/2017,D-II,Lake Erie,Malone,RECEIVING,Antwan,Harris,LONG,8
+17059081,10/21/2017,D-II,Lake Erie,Malone,RECEIVING,Josh,Hufstetler,REC,2
+17059082,10/21/2017,D-II,Lake Erie,Malone,RECEIVING,Josh,Hufstetler,YDS,6
+17059083,10/21/2017,D-II,Lake Erie,Malone,RECEIVING,Josh,Hufstetler,TD,0
+17059084,10/21/2017,D-II,Lake Erie,Malone,RECEIVING,Josh,Hufstetler,LONG,6
+17059085,10/21/2017,D-II,Lake Erie,Malone,RECEIVING,Isaiah,Eaglin,REC,1
+17059086,10/21/2017,D-II,Lake Erie,Malone,RECEIVING,Isaiah,Eaglin,YDS,4
+17059087,10/21/2017,D-II,Lake Erie,Malone,RECEIVING,Isaiah,Eaglin,TD,0
+17059088,10/21/2017,D-II,Lake Erie,Malone,RECEIVING,Isaiah,Eaglin,LONG,4
+17059089,10/21/2017,D-II,Lake Erie,Malone,RECEIVING,Michael,Goolsby,REC,1
+17059090,10/21/2017,D-II,Lake Erie,Malone,RECEIVING,Michael,Goolsby,YDS,2
+17059091,10/21/2017,D-II,Lake Erie,Malone,RECEIVING,Michael,Goolsby,TD,0
+17059092,10/21/2017,D-II,Lake Erie,Malone,RECEIVING,Michael,Goolsby,LONG,2
+17059093,10/21/2017,D-II,Lake Erie,Malone,RECEIVING,Tyler,Berry,REC,1
+17059094,10/21/2017,D-II,Lake Erie,Malone,RECEIVING,Tyler,Berry,YDS,1
+17059095,10/21/2017,D-II,Lake Erie,Malone,RECEIVING,Tyler,Berry,TD,0
+17059096,10/21/2017,D-II,Lake Erie,Malone,RECEIVING,Tyler,Berry,LONG,1
+17059097,10/21/2017,D-II,Lake Erie,Malone,PUNTING,Mike,Muzic,NO,7
+17059098,10/21/2017,D-II,Lake Erie,Malone,PUNTING,Mike,Muzic,YDS,288
+17059099,10/21/2017,D-II,Lake Erie,Malone,PUNTING,Mike,Muzic,AVG,41.1
+17059100,10/21/2017,D-II,Lake Erie,Malone,PUNTING,Mike,Muzic,LONG,49
+17059101,10/21/2017,D-II,Lake Erie,Malone,PUNT RETURNS,Michael,Goolsby,NO,2
+17059102,10/21/2017,D-II,Lake Erie,Malone,PUNT RETURNS,Michael,Goolsby,YDS,24
+17059103,10/21/2017,D-II,Lake Erie,Malone,PUNT RETURNS,Michael,Goolsby,AVG,12.0
+17059104,10/21/2017,D-II,Lake Erie,Malone,PUNT RETURNS,Michael,Goolsby,LONG,13
+17059105,10/21/2017,D-II,Lake Erie,Malone,PUNT RETURNS,Mitch,Tilley,NO,1
+17059106,10/21/2017,D-II,Lake Erie,Malone,PUNT RETURNS,Mitch,Tilley,YDS,8
+17059107,10/21/2017,D-II,Lake Erie,Malone,PUNT RETURNS,Mitch,Tilley,AVG,8.0
+17059108,10/21/2017,D-II,Lake Erie,Malone,PUNT RETURNS,Mitch,Tilley,LONG,8
+17059109,10/21/2017,D-II,Lake Erie,Malone,KICK RETURNS,Michael,Goolsby,NO,4
+17059110,10/21/2017,D-II,Lake Erie,Malone,KICK RETURNS,Michael,Goolsby,YDS,119
+17059111,10/21/2017,D-II,Lake Erie,Malone,KICK RETURNS,Michael,Goolsby,AVG,29.8
+17059112,10/21/2017,D-II,Lake Erie,Malone,KICK RETURNS,Michael,Goolsby,LONG,55

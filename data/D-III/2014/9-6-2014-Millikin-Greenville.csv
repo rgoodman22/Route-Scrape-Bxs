@@ -1,0 +1,93 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+20563001,9/6/2014,D-III,Millikin,Greenville,RUSHING,,Team,ATT,4
+20563002,9/6/2014,D-III,Millikin,Greenville,RUSHING,,Team,YDS,77
+20563003,9/6/2014,D-III,Millikin,Greenville,RUSHING,,Team,TD,0
+20563004,9/6/2014,D-III,Millikin,Greenville,RUSHING,,Team,LONG,60
+20563005,9/6/2014,D-III,Millikin,Greenville,PASSING,,Team,CP-ATT-INT,18-28-0
+20563006,9/6/2014,D-III,Millikin,Greenville,PASSING,,Team,YDS,247
+20563007,9/6/2014,D-III,Millikin,Greenville,PASSING,,Team,TD,3
+20563008,9/6/2014,D-III,Millikin,Greenville,PASSING,,Team,LONG,63
+20563009,9/6/2014,D-III,Millikin,Greenville,RECEIVING,,Team,REC,6
+20563010,9/6/2014,D-III,Millikin,Greenville,RECEIVING,,Team,YDS,103
+20563011,9/6/2014,D-III,Millikin,Greenville,RECEIVING,,Team,TD,2
+20563012,9/6/2014,D-III,Millikin,Greenville,RECEIVING,,Team,LONG,33
+20563013,9/6/2014,D-III,Millikin,Greenville,PUNTING,,Team,NO,2
+20563014,9/6/2014,D-III,Millikin,Greenville,PUNTING,,Team,YDS,70
+20563015,9/6/2014,D-III,Millikin,Greenville,PUNTING,,Team,AVG,35.0
+20563016,9/6/2014,D-III,Millikin,Greenville,PUNTING,,Team,LONG,42
+20563017,9/6/2014,D-III,Millikin,Greenville,PUNT RETURNS,,Team,NO,4
+20563018,9/6/2014,D-III,Millikin,Greenville,PUNT RETURNS,,Team,YDS,77
+20563019,9/6/2014,D-III,Millikin,Greenville,PUNT RETURNS,,Team,AVG,19.2
+20563020,9/6/2014,D-III,Millikin,Greenville,PUNT RETURNS,,Team,LONG,75
+20563021,9/6/2014,D-III,Millikin,Greenville,KICK RETURNS,,Team,NO,2
+20563022,9/6/2014,D-III,Millikin,Greenville,KICK RETURNS,,Team,YDS,31
+20563023,9/6/2014,D-III,Millikin,Greenville,KICK RETURNS,,Team,AVG,15.5
+20563024,9/6/2014,D-III,Millikin,Greenville,KICK RETURNS,,Team,LONG,16
+20563025,9/6/2014,D-III,Greenville,Millikin,RUSHING,Nathan,Callaway,ATT,21
+20563026,9/6/2014,D-III,Greenville,Millikin,RUSHING,Nathan,Callaway,YDS,110
+20563027,9/6/2014,D-III,Greenville,Millikin,RUSHING,Nathan,Callaway,TD,1
+20563028,9/6/2014,D-III,Greenville,Millikin,RUSHING,Nathan,Callaway,LONG,13
+20563029,9/6/2014,D-III,Greenville,Millikin,RUSHING,Eric,Northey,ATT,13
+20563030,9/6/2014,D-III,Greenville,Millikin,RUSHING,Eric,Northey,YDS,97
+20563031,9/6/2014,D-III,Greenville,Millikin,RUSHING,Eric,Northey,TD,0
+20563032,9/6/2014,D-III,Greenville,Millikin,RUSHING,Eric,Northey,LONG,65
+20563033,9/6/2014,D-III,Greenville,Millikin,RUSHING,Samuel,Northey,ATT,8
+20563034,9/6/2014,D-III,Greenville,Millikin,RUSHING,Samuel,Northey,YDS,87
+20563035,9/6/2014,D-III,Greenville,Millikin,RUSHING,Samuel,Northey,TD,1
+20563036,9/6/2014,D-III,Greenville,Millikin,RUSHING,Samuel,Northey,LONG,55
+20563037,9/6/2014,D-III,Greenville,Millikin,RUSHING,Jacob,Battaglia,ATT,8
+20563038,9/6/2014,D-III,Greenville,Millikin,RUSHING,Jacob,Battaglia,YDS,28
+20563039,9/6/2014,D-III,Greenville,Millikin,RUSHING,Jacob,Battaglia,TD,1
+20563040,9/6/2014,D-III,Greenville,Millikin,RUSHING,Jacob,Battaglia,LONG,13
+20563041,9/6/2014,D-III,Greenville,Millikin,RUSHING,Jordan,Mixon,ATT,9
+20563042,9/6/2014,D-III,Greenville,Millikin,RUSHING,Jordan,Mixon,YDS,24
+20563043,9/6/2014,D-III,Greenville,Millikin,RUSHING,Jordan,Mixon,TD,0
+20563044,9/6/2014,D-III,Greenville,Millikin,RUSHING,Jordan,Mixon,LONG,8
+20563045,9/6/2014,D-III,Greenville,Millikin,PASSING,Jacob,Battaglia,CP-ATT-INT,6-10-0
+20563046,9/6/2014,D-III,Greenville,Millikin,PASSING,Jacob,Battaglia,YDS,68
+20563047,9/6/2014,D-III,Greenville,Millikin,PASSING,Jacob,Battaglia,TD,0
+20563048,9/6/2014,D-III,Greenville,Millikin,PASSING,Jacob,Battaglia,LONG,30
+20563049,9/6/2014,D-III,Greenville,Millikin,PASSING,Eric,Northey,CP-ATT-INT,2-6-0
+20563050,9/6/2014,D-III,Greenville,Millikin,PASSING,Eric,Northey,YDS,28
+20563051,9/6/2014,D-III,Greenville,Millikin,PASSING,Eric,Northey,TD,0
+20563052,9/6/2014,D-III,Greenville,Millikin,PASSING,Eric,Northey,LONG,16
+20563053,9/6/2014,D-III,Greenville,Millikin,PASSING,Samuel,Northey,CP-ATT-INT,0-1-0
+20563054,9/6/2014,D-III,Greenville,Millikin,PASSING,Samuel,Northey,YDS,0
+20563055,9/6/2014,D-III,Greenville,Millikin,PASSING,Samuel,Northey,TD,0
+20563056,9/6/2014,D-III,Greenville,Millikin,PASSING,Samuel,Northey,LONG,0
+20563057,9/6/2014,D-III,Greenville,Millikin,RECEIVING,Samuel,Northey,REC,4
+20563058,9/6/2014,D-III,Greenville,Millikin,RECEIVING,Samuel,Northey,YDS,73
+20563059,9/6/2014,D-III,Greenville,Millikin,RECEIVING,Samuel,Northey,TD,0
+20563060,9/6/2014,D-III,Greenville,Millikin,RECEIVING,Samuel,Northey,LONG,30
+20563061,9/6/2014,D-III,Greenville,Millikin,RECEIVING,Nicholas,Newton,REC,3
+20563062,9/6/2014,D-III,Greenville,Millikin,RECEIVING,Nicholas,Newton,YDS,18
+20563063,9/6/2014,D-III,Greenville,Millikin,RECEIVING,Nicholas,Newton,TD,0
+20563064,9/6/2014,D-III,Greenville,Millikin,RECEIVING,Nicholas,Newton,LONG,11
+20563065,9/6/2014,D-III,Greenville,Millikin,RECEIVING,Nathan,Butler,REC,1
+20563066,9/6/2014,D-III,Greenville,Millikin,RECEIVING,Nathan,Butler,YDS,5
+20563067,9/6/2014,D-III,Greenville,Millikin,RECEIVING,Nathan,Butler,TD,0
+20563068,9/6/2014,D-III,Greenville,Millikin,RECEIVING,Nathan,Butler,LONG,5
+20563069,9/6/2014,D-III,Greenville,Millikin,PUNTING,Matt,Edler,NO,7
+20563070,9/6/2014,D-III,Greenville,Millikin,PUNTING,Matt,Edler,YDS,294
+20563071,9/6/2014,D-III,Greenville,Millikin,PUNTING,Matt,Edler,AVG,42.0
+20563072,9/6/2014,D-III,Greenville,Millikin,PUNTING,Matt,Edler,LONG,55
+20563073,9/6/2014,D-III,Greenville,Millikin,PUNT RETURNS,Samuel,Northey,NO,1
+20563074,9/6/2014,D-III,Greenville,Millikin,PUNT RETURNS,Samuel,Northey,YDS,0
+20563075,9/6/2014,D-III,Greenville,Millikin,PUNT RETURNS,Samuel,Northey,AVG,0.0
+20563076,9/6/2014,D-III,Greenville,Millikin,PUNT RETURNS,Samuel,Northey,LONG,0
+20563077,9/6/2014,D-III,Greenville,Millikin,KICK RETURNS,Jordan,Mixon,NO,3
+20563078,9/6/2014,D-III,Greenville,Millikin,KICK RETURNS,Jordan,Mixon,YDS,46
+20563079,9/6/2014,D-III,Greenville,Millikin,KICK RETURNS,Jordan,Mixon,AVG,15.3
+20563080,9/6/2014,D-III,Greenville,Millikin,KICK RETURNS,Jordan,Mixon,LONG,17
+20563081,9/6/2014,D-III,Greenville,Millikin,KICK RETURNS,Cory,Moore,NO,2
+20563082,9/6/2014,D-III,Greenville,Millikin,KICK RETURNS,Cory,Moore,YDS,36
+20563083,9/6/2014,D-III,Greenville,Millikin,KICK RETURNS,Cory,Moore,AVG,18.0
+20563084,9/6/2014,D-III,Greenville,Millikin,KICK RETURNS,Cory,Moore,LONG,19
+20563085,9/6/2014,D-III,Greenville,Millikin,KICK RETURNS,James,Isaac,NO,1
+20563086,9/6/2014,D-III,Greenville,Millikin,KICK RETURNS,James,Isaac,YDS,17
+20563087,9/6/2014,D-III,Greenville,Millikin,KICK RETURNS,James,Isaac,AVG,17.0
+20563088,9/6/2014,D-III,Greenville,Millikin,KICK RETURNS,James,Isaac,LONG,17
+20563089,9/6/2014,D-III,Greenville,Millikin,KICK RETURNS,Jarrid,Williams,NO,2
+20563090,9/6/2014,D-III,Greenville,Millikin,KICK RETURNS,Jarrid,Williams,YDS,5
+20563091,9/6/2014,D-III,Greenville,Millikin,KICK RETURNS,Jarrid,Williams,AVG,2.5
+20563092,9/6/2014,D-III,Greenville,Millikin,KICK RETURNS,Jarrid,Williams,LONG,11

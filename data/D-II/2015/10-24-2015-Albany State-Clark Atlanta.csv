@@ -1,0 +1,117 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+15086001,10/24/2015,D-II,Albany State,Clark Atlanta,RUSHING,Jarvis,Small,ATT,22
+15086002,10/24/2015,D-II,Albany State,Clark Atlanta,RUSHING,Jarvis,Small,YDS,100
+15086003,10/24/2015,D-II,Albany State,Clark Atlanta,RUSHING,Jarvis,Small,TD,2
+15086004,10/24/2015,D-II,Albany State,Clark Atlanta,RUSHING,Jarvis,Small,LONG,21
+15086005,10/24/2015,D-II,Albany State,Clark Atlanta,RUSHING,Dalviness,Green,ATT,4
+15086006,10/24/2015,D-II,Albany State,Clark Atlanta,RUSHING,Dalviness,Green,YDS,4
+15086007,10/24/2015,D-II,Albany State,Clark Atlanta,RUSHING,Dalviness,Green,TD,0
+15086008,10/24/2015,D-II,Albany State,Clark Atlanta,RUSHING,Dalviness,Green,LONG,5
+15086009,10/24/2015,D-II,Albany State,Clark Atlanta,RUSHING,Caleb,Edmonds,ATT,9
+15086010,10/24/2015,D-II,Albany State,Clark Atlanta,RUSHING,Caleb,Edmonds,YDS,1
+15086011,10/24/2015,D-II,Albany State,Clark Atlanta,RUSHING,Caleb,Edmonds,TD,0
+15086012,10/24/2015,D-II,Albany State,Clark Atlanta,RUSHING,Caleb,Edmonds,LONG,6
+15086013,10/24/2015,D-II,Albany State,Clark Atlanta,RUSHING,,Team,ATT,2
+15086014,10/24/2015,D-II,Albany State,Clark Atlanta,RUSHING,,Team,YDS,0
+15086015,10/24/2015,D-II,Albany State,Clark Atlanta,RUSHING,,Team,TD,0
+15086016,10/24/2015,D-II,Albany State,Clark Atlanta,RUSHING,,Team,LONG,0
+15086017,10/24/2015,D-II,Albany State,Clark Atlanta,PASSING,Caleb,Edmonds,CP-ATT-INT,8-18-0
+15086018,10/24/2015,D-II,Albany State,Clark Atlanta,PASSING,Caleb,Edmonds,YDS,150
+15086019,10/24/2015,D-II,Albany State,Clark Atlanta,PASSING,Caleb,Edmonds,TD,1
+15086020,10/24/2015,D-II,Albany State,Clark Atlanta,PASSING,Caleb,Edmonds,LONG,63
+15086021,10/24/2015,D-II,Albany State,Clark Atlanta,RECEIVING,Jessie,Atkins,REC,3
+15086022,10/24/2015,D-II,Albany State,Clark Atlanta,RECEIVING,Jessie,Atkins,YDS,92
+15086023,10/24/2015,D-II,Albany State,Clark Atlanta,RECEIVING,Jessie,Atkins,TD,1
+15086024,10/24/2015,D-II,Albany State,Clark Atlanta,RECEIVING,Jessie,Atkins,LONG,63
+15086025,10/24/2015,D-II,Albany State,Clark Atlanta,RECEIVING,Thomas,Smith,REC,2
+15086026,10/24/2015,D-II,Albany State,Clark Atlanta,RECEIVING,Thomas,Smith,YDS,33
+15086027,10/24/2015,D-II,Albany State,Clark Atlanta,RECEIVING,Thomas,Smith,TD,0
+15086028,10/24/2015,D-II,Albany State,Clark Atlanta,RECEIVING,Thomas,Smith,LONG,26
+15086029,10/24/2015,D-II,Albany State,Clark Atlanta,RECEIVING,Devonta,Osborne,REC,3
+15086030,10/24/2015,D-II,Albany State,Clark Atlanta,RECEIVING,Devonta,Osborne,YDS,25
+15086031,10/24/2015,D-II,Albany State,Clark Atlanta,RECEIVING,Devonta,Osborne,TD,0
+15086032,10/24/2015,D-II,Albany State,Clark Atlanta,RECEIVING,Devonta,Osborne,LONG,10
+15086033,10/24/2015,D-II,Albany State,Clark Atlanta,PUNTING,Terry,Wiley,NO,4
+15086034,10/24/2015,D-II,Albany State,Clark Atlanta,PUNTING,Terry,Wiley,YDS,146
+15086035,10/24/2015,D-II,Albany State,Clark Atlanta,PUNTING,Terry,Wiley,AVG,36.5
+15086036,10/24/2015,D-II,Albany State,Clark Atlanta,PUNTING,Terry,Wiley,LONG,55
+15086037,10/24/2015,D-II,Albany State,Clark Atlanta,PUNT RETURNS,Nick,Scott,NO,1
+15086038,10/24/2015,D-II,Albany State,Clark Atlanta,PUNT RETURNS,Nick,Scott,YDS,7
+15086039,10/24/2015,D-II,Albany State,Clark Atlanta,PUNT RETURNS,Nick,Scott,AVG,7.0
+15086040,10/24/2015,D-II,Albany State,Clark Atlanta,PUNT RETURNS,Nick,Scott,LONG,0
+15086041,10/24/2015,D-II,Albany State,Clark Atlanta,PUNT RETURNS,Dimario,Jones,NO,2
+15086042,10/24/2015,D-II,Albany State,Clark Atlanta,PUNT RETURNS,Dimario,Jones,YDS,-19
+15086043,10/24/2015,D-II,Albany State,Clark Atlanta,PUNT RETURNS,Dimario,Jones,AVG,-9.5
+15086044,10/24/2015,D-II,Albany State,Clark Atlanta,PUNT RETURNS,Dimario,Jones,LONG,0
+15086045,10/24/2015,D-II,Albany State,Clark Atlanta,KICK RETURNS,Quadrey,Simmons,NO,1
+15086046,10/24/2015,D-II,Albany State,Clark Atlanta,KICK RETURNS,Quadrey,Simmons,YDS,16
+15086047,10/24/2015,D-II,Albany State,Clark Atlanta,KICK RETURNS,Quadrey,Simmons,AVG,16.0
+15086048,10/24/2015,D-II,Albany State,Clark Atlanta,KICK RETURNS,Quadrey,Simmons,LONG,16
+15086049,10/24/2015,D-II,Albany State,Clark Atlanta,KICK RETURNS,Mack,Green,NO,1
+15086050,10/24/2015,D-II,Albany State,Clark Atlanta,KICK RETURNS,Mack,Green,YDS,21
+15086051,10/24/2015,D-II,Albany State,Clark Atlanta,KICK RETURNS,Mack,Green,AVG,21.0
+15086052,10/24/2015,D-II,Albany State,Clark Atlanta,KICK RETURNS,Mack,Green,LONG,21
+15086053,10/24/2015,D-II,Clark Atlanta,Albany State,RUSHING,J,Mccray,ATT,15
+15086054,10/24/2015,D-II,Clark Atlanta,Albany State,RUSHING,J,Mccray,YDS,59
+15086055,10/24/2015,D-II,Clark Atlanta,Albany State,RUSHING,J,Mccray,TD,1
+15086056,10/24/2015,D-II,Clark Atlanta,Albany State,RUSHING,J,Mccray,LONG,18
+15086057,10/24/2015,D-II,Clark Atlanta,Albany State,RUSHING,T,Blair,ATT,4
+15086058,10/24/2015,D-II,Clark Atlanta,Albany State,RUSHING,T,Blair,YDS,24
+15086059,10/24/2015,D-II,Clark Atlanta,Albany State,RUSHING,T,Blair,TD,0
+15086060,10/24/2015,D-II,Clark Atlanta,Albany State,RUSHING,T,Blair,LONG,15
+15086061,10/24/2015,D-II,Clark Atlanta,Albany State,RUSHING,M,Vincent,ATT,11
+15086062,10/24/2015,D-II,Clark Atlanta,Albany State,RUSHING,M,Vincent,YDS,5
+15086063,10/24/2015,D-II,Clark Atlanta,Albany State,RUSHING,M,Vincent,TD,0
+15086064,10/24/2015,D-II,Clark Atlanta,Albany State,RUSHING,M,Vincent,LONG,10
+15086065,10/24/2015,D-II,Clark Atlanta,Albany State,PASSING,M,Vincent,CP-ATT-INT,25-35-1
+15086066,10/24/2015,D-II,Clark Atlanta,Albany State,PASSING,M,Vincent,YDS,278
+15086067,10/24/2015,D-II,Clark Atlanta,Albany State,PASSING,M,Vincent,TD,1
+15086068,10/24/2015,D-II,Clark Atlanta,Albany State,PASSING,M,Vincent,LONG,58
+15086069,10/24/2015,D-II,Clark Atlanta,Albany State,RECEIVING,B,Martin,REC,6
+15086070,10/24/2015,D-II,Clark Atlanta,Albany State,RECEIVING,B,Martin,YDS,78
+15086071,10/24/2015,D-II,Clark Atlanta,Albany State,RECEIVING,B,Martin,TD,1
+15086072,10/24/2015,D-II,Clark Atlanta,Albany State,RECEIVING,B,Martin,LONG,58
+15086073,10/24/2015,D-II,Clark Atlanta,Albany State,RECEIVING,D,Minor,REC,5
+15086074,10/24/2015,D-II,Clark Atlanta,Albany State,RECEIVING,D,Minor,YDS,68
+15086075,10/24/2015,D-II,Clark Atlanta,Albany State,RECEIVING,D,Minor,TD,0
+15086076,10/24/2015,D-II,Clark Atlanta,Albany State,RECEIVING,D,Minor,LONG,26
+15086077,10/24/2015,D-II,Clark Atlanta,Albany State,RECEIVING,J,Mccray,REC,7
+15086078,10/24/2015,D-II,Clark Atlanta,Albany State,RECEIVING,J,Mccray,YDS,47
+15086079,10/24/2015,D-II,Clark Atlanta,Albany State,RECEIVING,J,Mccray,TD,0
+15086080,10/24/2015,D-II,Clark Atlanta,Albany State,RECEIVING,J,Mccray,LONG,29
+15086081,10/24/2015,D-II,Clark Atlanta,Albany State,RECEIVING,D,Webster,REC,3
+15086082,10/24/2015,D-II,Clark Atlanta,Albany State,RECEIVING,D,Webster,YDS,47
+15086083,10/24/2015,D-II,Clark Atlanta,Albany State,RECEIVING,D,Webster,TD,0
+15086084,10/24/2015,D-II,Clark Atlanta,Albany State,RECEIVING,D,Webster,LONG,17
+15086085,10/24/2015,D-II,Clark Atlanta,Albany State,RECEIVING,D,Jackson,REC,2
+15086086,10/24/2015,D-II,Clark Atlanta,Albany State,RECEIVING,D,Jackson,YDS,17
+15086087,10/24/2015,D-II,Clark Atlanta,Albany State,RECEIVING,D,Jackson,TD,0
+15086088,10/24/2015,D-II,Clark Atlanta,Albany State,RECEIVING,D,Jackson,LONG,8
+15086089,10/24/2015,D-II,Clark Atlanta,Albany State,RECEIVING,C,Neal,REC,1
+15086090,10/24/2015,D-II,Clark Atlanta,Albany State,RECEIVING,C,Neal,YDS,14
+15086091,10/24/2015,D-II,Clark Atlanta,Albany State,RECEIVING,C,Neal,TD,0
+15086092,10/24/2015,D-II,Clark Atlanta,Albany State,RECEIVING,C,Neal,LONG,14
+15086093,10/24/2015,D-II,Clark Atlanta,Albany State,RECEIVING,T,Blair,REC,1
+15086094,10/24/2015,D-II,Clark Atlanta,Albany State,RECEIVING,T,Blair,YDS,7
+15086095,10/24/2015,D-II,Clark Atlanta,Albany State,RECEIVING,T,Blair,TD,0
+15086096,10/24/2015,D-II,Clark Atlanta,Albany State,RECEIVING,T,Blair,LONG,7
+15086097,10/24/2015,D-II,Clark Atlanta,Albany State,PUNTING,T,Blair,NO,3
+15086098,10/24/2015,D-II,Clark Atlanta,Albany State,PUNTING,T,Blair,YDS,28
+15086099,10/24/2015,D-II,Clark Atlanta,Albany State,PUNTING,T,Blair,AVG,9.3
+15086100,10/24/2015,D-II,Clark Atlanta,Albany State,PUNTING,T,Blair,LONG,24
+15086101,10/24/2015,D-II,Clark Atlanta,Albany State,PUNTING,P,Louissaint,NO,0
+15086102,10/24/2015,D-II,Clark Atlanta,Albany State,PUNTING,P,Louissaint,YDS,0
+15086103,10/24/2015,D-II,Clark Atlanta,Albany State,PUNTING,P,Louissaint,AVG,0.0
+15086104,10/24/2015,D-II,Clark Atlanta,Albany State,PUNTING,P,Louissaint,LONG,0
+15086105,10/24/2015,D-II,Clark Atlanta,Albany State,PUNTING,,Team,NO,1
+15086106,10/24/2015,D-II,Clark Atlanta,Albany State,PUNTING,,Team,YDS,0
+15086107,10/24/2015,D-II,Clark Atlanta,Albany State,PUNTING,,Team,AVG,0.0
+15086108,10/24/2015,D-II,Clark Atlanta,Albany State,PUNTING,,Team,LONG,0
+15086109,10/24/2015,D-II,Clark Atlanta,Albany State,KICK RETURNS,D,Jackson,NO,2
+15086110,10/24/2015,D-II,Clark Atlanta,Albany State,KICK RETURNS,D,Jackson,YDS,24
+15086111,10/24/2015,D-II,Clark Atlanta,Albany State,KICK RETURNS,D,Jackson,AVG,12.0
+15086112,10/24/2015,D-II,Clark Atlanta,Albany State,KICK RETURNS,D,Jackson,LONG,16
+15086113,10/24/2015,D-II,Clark Atlanta,Albany State,KICK RETURNS,J,Mccray,NO,1
+15086114,10/24/2015,D-II,Clark Atlanta,Albany State,KICK RETURNS,J,Mccray,YDS,11
+15086115,10/24/2015,D-II,Clark Atlanta,Albany State,KICK RETURNS,J,Mccray,AVG,11.0
+15086116,10/24/2015,D-II,Clark Atlanta,Albany State,KICK RETURNS,J,Mccray,LONG,11

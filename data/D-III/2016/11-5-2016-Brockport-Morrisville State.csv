@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+24111001,11/5/2016,D-III,Brockport,Morrisville State,RUSHING,Joe,Germinerio,ATT,11
+24111002,11/5/2016,D-III,Brockport,Morrisville State,RUSHING,Joe,Germinerio,YDS,92
+24111003,11/5/2016,D-III,Brockport,Morrisville State,RUSHING,Joe,Germinerio,TD,1
+24111004,11/5/2016,D-III,Brockport,Morrisville State,RUSHING,Joe,Germinerio,LONG,70
+24111005,11/5/2016,D-III,Brockport,Morrisville State,RUSHING,Dan,Andrews,ATT,12
+24111006,11/5/2016,D-III,Brockport,Morrisville State,RUSHING,Dan,Andrews,YDS,38
+24111007,11/5/2016,D-III,Brockport,Morrisville State,RUSHING,Dan,Andrews,TD,0
+24111008,11/5/2016,D-III,Brockport,Morrisville State,RUSHING,Dan,Andrews,LONG,18
+24111009,11/5/2016,D-III,Brockport,Morrisville State,RUSHING,,Team,ATT,1
+24111010,11/5/2016,D-III,Brockport,Morrisville State,RUSHING,,Team,YDS,-1
+24111011,11/5/2016,D-III,Brockport,Morrisville State,RUSHING,,Team,TD,0
+24111012,11/5/2016,D-III,Brockport,Morrisville State,RUSHING,,Team,LONG,0
+24111013,11/5/2016,D-III,Brockport,Morrisville State,RUSHING,Brian,Mckean,ATT,2
+24111014,11/5/2016,D-III,Brockport,Morrisville State,RUSHING,Brian,Mckean,YDS,-19
+24111015,11/5/2016,D-III,Brockport,Morrisville State,RUSHING,Brian,Mckean,TD,0
+24111016,11/5/2016,D-III,Brockport,Morrisville State,RUSHING,Brian,Mckean,LONG,0
+24111017,11/5/2016,D-III,Brockport,Morrisville State,PASSING,Joe,Germinerio,CP-ATT-INT,17-21-0
+24111018,11/5/2016,D-III,Brockport,Morrisville State,PASSING,Joe,Germinerio,YDS,205
+24111019,11/5/2016,D-III,Brockport,Morrisville State,PASSING,Joe,Germinerio,TD,3
+24111020,11/5/2016,D-III,Brockport,Morrisville State,PASSING,Joe,Germinerio,LONG,50
+24111021,11/5/2016,D-III,Brockport,Morrisville State,PASSING,Brian,Mckean,CP-ATT-INT,1-1-0
+24111022,11/5/2016,D-III,Brockport,Morrisville State,PASSING,Brian,Mckean,YDS,8
+24111023,11/5/2016,D-III,Brockport,Morrisville State,PASSING,Brian,Mckean,TD,0
+24111024,11/5/2016,D-III,Brockport,Morrisville State,PASSING,Brian,Mckean,LONG,8
+24111025,11/5/2016,D-III,Brockport,Morrisville State,RECEIVING,Joseph,Ortiz,REC,5
+24111026,11/5/2016,D-III,Brockport,Morrisville State,RECEIVING,Joseph,Ortiz,YDS,89
+24111027,11/5/2016,D-III,Brockport,Morrisville State,RECEIVING,Joseph,Ortiz,TD,2
+24111028,11/5/2016,D-III,Brockport,Morrisville State,RECEIVING,Joseph,Ortiz,LONG,50
+24111029,11/5/2016,D-III,Brockport,Morrisville State,RECEIVING,Ian,Gilhousen,REC,3
+24111030,11/5/2016,D-III,Brockport,Morrisville State,RECEIVING,Ian,Gilhousen,YDS,56
+24111031,11/5/2016,D-III,Brockport,Morrisville State,RECEIVING,Ian,Gilhousen,TD,1
+24111032,11/5/2016,D-III,Brockport,Morrisville State,RECEIVING,Ian,Gilhousen,LONG,33
+24111033,11/5/2016,D-III,Brockport,Morrisville State,RECEIVING,Nick,Prince,REC,2
+24111034,11/5/2016,D-III,Brockport,Morrisville State,RECEIVING,Nick,Prince,YDS,25
+24111035,11/5/2016,D-III,Brockport,Morrisville State,RECEIVING,Nick,Prince,TD,0
+24111036,11/5/2016,D-III,Brockport,Morrisville State,RECEIVING,Nick,Prince,LONG,13
+24111037,11/5/2016,D-III,Brockport,Morrisville State,RECEIVING,Dan,Andrews,REC,3
+24111038,11/5/2016,D-III,Brockport,Morrisville State,RECEIVING,Dan,Andrews,YDS,24
+24111039,11/5/2016,D-III,Brockport,Morrisville State,RECEIVING,Dan,Andrews,TD,0
+24111040,11/5/2016,D-III,Brockport,Morrisville State,RECEIVING,Dan,Andrews,LONG,17
+24111041,11/5/2016,D-III,Brockport,Morrisville State,RECEIVING,Kory,Wyatt,REC,4
+24111042,11/5/2016,D-III,Brockport,Morrisville State,RECEIVING,Kory,Wyatt,YDS,14
+24111043,11/5/2016,D-III,Brockport,Morrisville State,RECEIVING,Kory,Wyatt,TD,0
+24111044,11/5/2016,D-III,Brockport,Morrisville State,RECEIVING,Kory,Wyatt,LONG,9
+24111045,11/5/2016,D-III,Brockport,Morrisville State,RECEIVING,Nate,Wilkinson,REC,1
+24111046,11/5/2016,D-III,Brockport,Morrisville State,RECEIVING,Nate,Wilkinson,YDS,5
+24111047,11/5/2016,D-III,Brockport,Morrisville State,RECEIVING,Nate,Wilkinson,TD,0
+24111048,11/5/2016,D-III,Brockport,Morrisville State,RECEIVING,Nate,Wilkinson,LONG,5
+24111049,11/5/2016,D-III,Brockport,Morrisville State,PUNTING,Eric,Yaeger,NO,5
+24111050,11/5/2016,D-III,Brockport,Morrisville State,PUNTING,Eric,Yaeger,YDS,241
+24111051,11/5/2016,D-III,Brockport,Morrisville State,PUNTING,Eric,Yaeger,AVG,48.2
+24111052,11/5/2016,D-III,Brockport,Morrisville State,PUNTING,Eric,Yaeger,LONG,55
+24111053,11/5/2016,D-III,Brockport,Morrisville State,PUNT RETURNS,Joseph,Ortiz,NO,1
+24111054,11/5/2016,D-III,Brockport,Morrisville State,PUNT RETURNS,Joseph,Ortiz,YDS,9
+24111055,11/5/2016,D-III,Brockport,Morrisville State,PUNT RETURNS,Joseph,Ortiz,AVG,9.0
+24111056,11/5/2016,D-III,Brockport,Morrisville State,PUNT RETURNS,Joseph,Ortiz,LONG,9
+24111057,11/5/2016,D-III,Brockport,Morrisville State,KICK RETURNS,Joseph,Ortiz,NO,1
+24111058,11/5/2016,D-III,Brockport,Morrisville State,KICK RETURNS,Joseph,Ortiz,YDS,29
+24111059,11/5/2016,D-III,Brockport,Morrisville State,KICK RETURNS,Joseph,Ortiz,AVG,29.0
+24111060,11/5/2016,D-III,Brockport,Morrisville State,KICK RETURNS,Joseph,Ortiz,LONG,29
+24111061,11/5/2016,D-III,Brockport,Morrisville State,KICK RETURNS,James,Rupp,NO,1
+24111062,11/5/2016,D-III,Brockport,Morrisville State,KICK RETURNS,James,Rupp,YDS,22
+24111063,11/5/2016,D-III,Brockport,Morrisville State,KICK RETURNS,James,Rupp,AVG,22.0
+24111064,11/5/2016,D-III,Brockport,Morrisville State,KICK RETURNS,James,Rupp,LONG,22
+24111065,11/5/2016,D-III,Morrisville State,Brockport,RUSHING,Nick,Edmond,ATT,19
+24111066,11/5/2016,D-III,Morrisville State,Brockport,RUSHING,Nick,Edmond,YDS,71
+24111067,11/5/2016,D-III,Morrisville State,Brockport,RUSHING,Nick,Edmond,TD,0
+24111068,11/5/2016,D-III,Morrisville State,Brockport,RUSHING,Nick,Edmond,LONG,13
+24111069,11/5/2016,D-III,Morrisville State,Brockport,RUSHING,Cory,Benedetto,ATT,14
+24111070,11/5/2016,D-III,Morrisville State,Brockport,RUSHING,Cory,Benedetto,YDS,45
+24111071,11/5/2016,D-III,Morrisville State,Brockport,RUSHING,Cory,Benedetto,TD,2
+24111072,11/5/2016,D-III,Morrisville State,Brockport,RUSHING,Cory,Benedetto,LONG,16
+24111073,11/5/2016,D-III,Morrisville State,Brockport,RUSHING,Brandon,Gwinner,ATT,9
+24111074,11/5/2016,D-III,Morrisville State,Brockport,RUSHING,Brandon,Gwinner,YDS,14
+24111075,11/5/2016,D-III,Morrisville State,Brockport,RUSHING,Brandon,Gwinner,TD,0
+24111076,11/5/2016,D-III,Morrisville State,Brockport,RUSHING,Brandon,Gwinner,LONG,9
+24111077,11/5/2016,D-III,Morrisville State,Brockport,RUSHING,,Team,ATT,2
+24111078,11/5/2016,D-III,Morrisville State,Brockport,RUSHING,,Team,YDS,12
+24111079,11/5/2016,D-III,Morrisville State,Brockport,RUSHING,,Team,TD,0
+24111080,11/5/2016,D-III,Morrisville State,Brockport,RUSHING,,Team,LONG,6
+24111081,11/5/2016,D-III,Morrisville State,Brockport,RUSHING,Darrell,West,ATT,1
+24111082,11/5/2016,D-III,Morrisville State,Brockport,RUSHING,Darrell,West,YDS,1
+24111083,11/5/2016,D-III,Morrisville State,Brockport,RUSHING,Darrell,West,TD,0
+24111084,11/5/2016,D-III,Morrisville State,Brockport,RUSHING,Darrell,West,LONG,1
+24111085,11/5/2016,D-III,Morrisville State,Brockport,RUSHING,Kyle,Flash,ATT,1
+24111086,11/5/2016,D-III,Morrisville State,Brockport,RUSHING,Kyle,Flash,YDS,-6
+24111087,11/5/2016,D-III,Morrisville State,Brockport,RUSHING,Kyle,Flash,TD,0
+24111088,11/5/2016,D-III,Morrisville State,Brockport,RUSHING,Kyle,Flash,LONG,0
+24111089,11/5/2016,D-III,Morrisville State,Brockport,PASSING,Cory,Benedetto,CP-ATT-INT,19-36-1
+24111090,11/5/2016,D-III,Morrisville State,Brockport,PASSING,Cory,Benedetto,YDS,174
+24111091,11/5/2016,D-III,Morrisville State,Brockport,PASSING,Cory,Benedetto,TD,0
+24111092,11/5/2016,D-III,Morrisville State,Brockport,PASSING,Cory,Benedetto,LONG,26
+24111093,11/5/2016,D-III,Morrisville State,Brockport,PASSING,Brandon,Gwinner,CP-ATT-INT,5-10-0
+24111094,11/5/2016,D-III,Morrisville State,Brockport,PASSING,Brandon,Gwinner,YDS,116
+24111095,11/5/2016,D-III,Morrisville State,Brockport,PASSING,Brandon,Gwinner,TD,1
+24111096,11/5/2016,D-III,Morrisville State,Brockport,PASSING,Brandon,Gwinner,LONG,50
+24111097,11/5/2016,D-III,Morrisville State,Brockport,PASSING,Joseph,Faniel,CP-ATT-INT,0-1-0
+24111098,11/5/2016,D-III,Morrisville State,Brockport,PASSING,Joseph,Faniel,YDS,0
+24111099,11/5/2016,D-III,Morrisville State,Brockport,PASSING,Joseph,Faniel,TD,0
+24111100,11/5/2016,D-III,Morrisville State,Brockport,PASSING,Joseph,Faniel,LONG,0
+24111101,11/5/2016,D-III,Morrisville State,Brockport,RECEIVING,Timothy,Remilla,REC,3
+24111102,11/5/2016,D-III,Morrisville State,Brockport,RECEIVING,Timothy,Remilla,YDS,86
+24111103,11/5/2016,D-III,Morrisville State,Brockport,RECEIVING,Timothy,Remilla,TD,0
+24111104,11/5/2016,D-III,Morrisville State,Brockport,RECEIVING,Timothy,Remilla,LONG,50
+24111105,11/5/2016,D-III,Morrisville State,Brockport,RECEIVING,Joseph,Faniel,REC,9
+24111106,11/5/2016,D-III,Morrisville State,Brockport,RECEIVING,Joseph,Faniel,YDS,83
+24111107,11/5/2016,D-III,Morrisville State,Brockport,RECEIVING,Joseph,Faniel,TD,0
+24111108,11/5/2016,D-III,Morrisville State,Brockport,RECEIVING,Joseph,Faniel,LONG,26
+24111109,11/5/2016,D-III,Morrisville State,Brockport,RECEIVING,Kyle,Flash,REC,3
+24111110,11/5/2016,D-III,Morrisville State,Brockport,RECEIVING,Kyle,Flash,YDS,47
+24111111,11/5/2016,D-III,Morrisville State,Brockport,RECEIVING,Kyle,Flash,TD,0
+24111112,11/5/2016,D-III,Morrisville State,Brockport,RECEIVING,Kyle,Flash,LONG,23
+24111113,11/5/2016,D-III,Morrisville State,Brockport,RECEIVING,,Team,REC,4
+24111114,11/5/2016,D-III,Morrisville State,Brockport,RECEIVING,,Team,YDS,37
+24111115,11/5/2016,D-III,Morrisville State,Brockport,RECEIVING,,Team,TD,0
+24111116,11/5/2016,D-III,Morrisville State,Brockport,RECEIVING,,Team,LONG,14
+24111117,11/5/2016,D-III,Morrisville State,Brockport,RECEIVING,Raffaele,Bradsh,REC,5
+24111118,11/5/2016,D-III,Morrisville State,Brockport,RECEIVING,Raffaele,Bradsh,YDS,37
+24111119,11/5/2016,D-III,Morrisville State,Brockport,RECEIVING,Raffaele,Bradsh,TD,1
+24111120,11/5/2016,D-III,Morrisville State,Brockport,RECEIVING,Raffaele,Bradsh,LONG,13
+24111121,11/5/2016,D-III,Morrisville State,Brockport,PUNTING,Jeff,Groth,NO,4
+24111122,11/5/2016,D-III,Morrisville State,Brockport,PUNTING,Jeff,Groth,YDS,144
+24111123,11/5/2016,D-III,Morrisville State,Brockport,PUNTING,Jeff,Groth,AVG,36.0
+24111124,11/5/2016,D-III,Morrisville State,Brockport,PUNTING,Jeff,Groth,LONG,56
+24111125,11/5/2016,D-III,Morrisville State,Brockport,PUNT RETURNS,,Team,NO,4
+24111126,11/5/2016,D-III,Morrisville State,Brockport,PUNT RETURNS,,Team,YDS,23
+24111127,11/5/2016,D-III,Morrisville State,Brockport,PUNT RETURNS,,Team,AVG,5.8
+24111128,11/5/2016,D-III,Morrisville State,Brockport,PUNT RETURNS,,Team,LONG,8
+24111129,11/5/2016,D-III,Morrisville State,Brockport,KICK RETURNS,Joseph,Faniel,NO,5
+24111130,11/5/2016,D-III,Morrisville State,Brockport,KICK RETURNS,Joseph,Faniel,YDS,83
+24111131,11/5/2016,D-III,Morrisville State,Brockport,KICK RETURNS,Joseph,Faniel,AVG,16.6
+24111132,11/5/2016,D-III,Morrisville State,Brockport,KICK RETURNS,Joseph,Faniel,LONG,25
+24111133,11/5/2016,D-III,Morrisville State,Brockport,KICK RETURNS,Petrit,Boga,NO,2
+24111134,11/5/2016,D-III,Morrisville State,Brockport,KICK RETURNS,Petrit,Boga,YDS,40
+24111135,11/5/2016,D-III,Morrisville State,Brockport,KICK RETURNS,Petrit,Boga,AVG,20.0
+24111136,11/5/2016,D-III,Morrisville State,Brockport,KICK RETURNS,Petrit,Boga,LONG,22

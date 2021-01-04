@@ -1,0 +1,117 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+22436001,10/17/2015,D-III,John Carroll,Marietta,RUSHING,Ro,Golphin,ATT,33
+22436002,10/17/2015,D-III,John Carroll,Marietta,RUSHING,Ro,Golphin,YDS,203
+22436003,10/17/2015,D-III,John Carroll,Marietta,RUSHING,Ro,Golphin,TD,2
+22436004,10/17/2015,D-III,John Carroll,Marietta,RUSHING,Ro,Golphin,LONG,21
+22436005,10/17/2015,D-III,John Carroll,Marietta,RUSHING,Jonathan,Brick,ATT,4
+22436006,10/17/2015,D-III,John Carroll,Marietta,RUSHING,Jonathan,Brick,YDS,11
+22436007,10/17/2015,D-III,John Carroll,Marietta,RUSHING,Jonathan,Brick,TD,0
+22436008,10/17/2015,D-III,John Carroll,Marietta,RUSHING,Jonathan,Brick,LONG,5
+22436009,10/17/2015,D-III,John Carroll,Marietta,RUSHING,,Team,ATT,2
+22436010,10/17/2015,D-III,John Carroll,Marietta,RUSHING,,Team,YDS,-5
+22436011,10/17/2015,D-III,John Carroll,Marietta,RUSHING,,Team,TD,0
+22436012,10/17/2015,D-III,John Carroll,Marietta,RUSHING,,Team,LONG,0
+22436013,10/17/2015,D-III,John Carroll,Marietta,PASSING,Jake,Schaefer,CP-ATT-INT,21-37-1
+22436014,10/17/2015,D-III,John Carroll,Marietta,PASSING,Jake,Schaefer,YDS,225
+22436015,10/17/2015,D-III,John Carroll,Marietta,PASSING,Jake,Schaefer,TD,3
+22436016,10/17/2015,D-III,John Carroll,Marietta,PASSING,Jake,Schaefer,LONG,44
+22436017,10/17/2015,D-III,John Carroll,Marietta,RECEIVING,Marshall,Howell,REC,5
+22436018,10/17/2015,D-III,John Carroll,Marietta,RECEIVING,Marshall,Howell,YDS,91
+22436019,10/17/2015,D-III,John Carroll,Marietta,RECEIVING,Marshall,Howell,TD,2
+22436020,10/17/2015,D-III,John Carroll,Marietta,RECEIVING,Marshall,Howell,LONG,44
+22436021,10/17/2015,D-III,John Carroll,Marietta,RECEIVING,Jordan,D'orazio,REC,10
+22436022,10/17/2015,D-III,John Carroll,Marietta,RECEIVING,Jordan,D'orazio,YDS,81
+22436023,10/17/2015,D-III,John Carroll,Marietta,RECEIVING,Jordan,D'orazio,TD,0
+22436024,10/17/2015,D-III,John Carroll,Marietta,RECEIVING,Jordan,D'orazio,LONG,17
+22436025,10/17/2015,D-III,John Carroll,Marietta,RECEIVING,Nico,James,REC,1
+22436026,10/17/2015,D-III,John Carroll,Marietta,RECEIVING,Nico,James,YDS,21
+22436027,10/17/2015,D-III,John Carroll,Marietta,RECEIVING,Nico,James,TD,1
+22436028,10/17/2015,D-III,John Carroll,Marietta,RECEIVING,Nico,James,LONG,21
+22436029,10/17/2015,D-III,John Carroll,Marietta,RECEIVING,Ro,Golphin,REC,4
+22436030,10/17/2015,D-III,John Carroll,Marietta,RECEIVING,Ro,Golphin,YDS,18
+22436031,10/17/2015,D-III,John Carroll,Marietta,RECEIVING,Ro,Golphin,TD,0
+22436032,10/17/2015,D-III,John Carroll,Marietta,RECEIVING,Ro,Golphin,LONG,8
+22436033,10/17/2015,D-III,John Carroll,Marietta,RECEIVING,Michael,Hippler,REC,1
+22436034,10/17/2015,D-III,John Carroll,Marietta,RECEIVING,Michael,Hippler,YDS,14
+22436035,10/17/2015,D-III,John Carroll,Marietta,RECEIVING,Michael,Hippler,TD,0
+22436036,10/17/2015,D-III,John Carroll,Marietta,RECEIVING,Michael,Hippler,LONG,14
+22436037,10/17/2015,D-III,John Carroll,Marietta,PUNTING,Kyle,Rodriguez,NO,4
+22436038,10/17/2015,D-III,John Carroll,Marietta,PUNTING,Kyle,Rodriguez,YDS,188
+22436039,10/17/2015,D-III,John Carroll,Marietta,PUNTING,Kyle,Rodriguez,AVG,47.0
+22436040,10/17/2015,D-III,John Carroll,Marietta,PUNTING,Kyle,Rodriguez,LONG,79
+22436041,10/17/2015,D-III,John Carroll,Marietta,PUNT RETURNS,Jordan,D'orazio,NO,4
+22436042,10/17/2015,D-III,John Carroll,Marietta,PUNT RETURNS,Jordan,D'orazio,YDS,5
+22436043,10/17/2015,D-III,John Carroll,Marietta,PUNT RETURNS,Jordan,D'orazio,AVG,1.2
+22436044,10/17/2015,D-III,John Carroll,Marietta,PUNT RETURNS,Jordan,D'orazio,LONG,5
+22436045,10/17/2015,D-III,John Carroll,Marietta,KICK RETURNS,Jordan,D'orazio,NO,1
+22436046,10/17/2015,D-III,John Carroll,Marietta,KICK RETURNS,Jordan,D'orazio,YDS,7
+22436047,10/17/2015,D-III,John Carroll,Marietta,KICK RETURNS,Jordan,D'orazio,AVG,7.0
+22436048,10/17/2015,D-III,John Carroll,Marietta,KICK RETURNS,Jordan,D'orazio,LONG,7
+22436049,10/17/2015,D-III,John Carroll,Marietta,KICK RETURNS,Danny,Disbrow,NO,1
+22436050,10/17/2015,D-III,John Carroll,Marietta,KICK RETURNS,Danny,Disbrow,YDS,13
+22436051,10/17/2015,D-III,John Carroll,Marietta,KICK RETURNS,Danny,Disbrow,AVG,13.0
+22436052,10/17/2015,D-III,John Carroll,Marietta,KICK RETURNS,Danny,Disbrow,LONG,13
+22436053,10/17/2015,D-III,John Carroll,Marietta,KICK RETURNS,Joe,Nawalaniec,NO,1
+22436054,10/17/2015,D-III,John Carroll,Marietta,KICK RETURNS,Joe,Nawalaniec,YDS,14
+22436055,10/17/2015,D-III,John Carroll,Marietta,KICK RETURNS,Joe,Nawalaniec,AVG,14.0
+22436056,10/17/2015,D-III,John Carroll,Marietta,KICK RETURNS,Joe,Nawalaniec,LONG,14
+22436057,10/17/2015,D-III,Marietta,John Carroll,RUSHING,Lucas,Havens,ATT,20
+22436058,10/17/2015,D-III,Marietta,John Carroll,RUSHING,Lucas,Havens,YDS,78
+22436059,10/17/2015,D-III,Marietta,John Carroll,RUSHING,Lucas,Havens,TD,0
+22436060,10/17/2015,D-III,Marietta,John Carroll,RUSHING,Lucas,Havens,LONG,29
+22436061,10/17/2015,D-III,Marietta,John Carroll,RUSHING,Roger,Bush,ATT,12
+22436062,10/17/2015,D-III,Marietta,John Carroll,RUSHING,Roger,Bush,YDS,37
+22436063,10/17/2015,D-III,Marietta,John Carroll,RUSHING,Roger,Bush,TD,0
+22436064,10/17/2015,D-III,Marietta,John Carroll,RUSHING,Roger,Bush,LONG,12
+22436065,10/17/2015,D-III,Marietta,John Carroll,RUSHING,Nick,O'neal,ATT,9
+22436066,10/17/2015,D-III,Marietta,John Carroll,RUSHING,Nick,O'neal,YDS,31
+22436067,10/17/2015,D-III,Marietta,John Carroll,RUSHING,Nick,O'neal,TD,0
+22436068,10/17/2015,D-III,Marietta,John Carroll,RUSHING,Nick,O'neal,LONG,7
+22436069,10/17/2015,D-III,Marietta,John Carroll,RUSHING,Clay,Moorefield,ATT,1
+22436070,10/17/2015,D-III,Marietta,John Carroll,RUSHING,Clay,Moorefield,YDS,-1
+22436071,10/17/2015,D-III,Marietta,John Carroll,RUSHING,Clay,Moorefield,TD,0
+22436072,10/17/2015,D-III,Marietta,John Carroll,RUSHING,Clay,Moorefield,LONG,0
+22436073,10/17/2015,D-III,Marietta,John Carroll,PASSING,Lucas,Havens,CP-ATT-INT,9-23-0
+22436074,10/17/2015,D-III,Marietta,John Carroll,PASSING,Lucas,Havens,YDS,78
+22436075,10/17/2015,D-III,Marietta,John Carroll,PASSING,Lucas,Havens,TD,0
+22436076,10/17/2015,D-III,Marietta,John Carroll,PASSING,Lucas,Havens,LONG,21
+22436077,10/17/2015,D-III,Marietta,John Carroll,PASSING,Nick,Hineman,CP-ATT-INT,1-1-0
+22436078,10/17/2015,D-III,Marietta,John Carroll,PASSING,Nick,Hineman,YDS,30
+22436079,10/17/2015,D-III,Marietta,John Carroll,PASSING,Nick,Hineman,TD,1
+22436080,10/17/2015,D-III,Marietta,John Carroll,PASSING,Nick,Hineman,LONG,30
+22436081,10/17/2015,D-III,Marietta,John Carroll,RECEIVING,Nick,Hineman,REC,3
+22436082,10/17/2015,D-III,Marietta,John Carroll,RECEIVING,Nick,Hineman,YDS,43
+22436083,10/17/2015,D-III,Marietta,John Carroll,RECEIVING,Nick,Hineman,TD,0
+22436084,10/17/2015,D-III,Marietta,John Carroll,RECEIVING,Nick,Hineman,LONG,18
+22436085,10/17/2015,D-III,Marietta,John Carroll,RECEIVING,Clay,Moorefield,REC,5
+22436086,10/17/2015,D-III,Marietta,John Carroll,RECEIVING,Clay,Moorefield,YDS,33
+22436087,10/17/2015,D-III,Marietta,John Carroll,RECEIVING,Clay,Moorefield,TD,0
+22436088,10/17/2015,D-III,Marietta,John Carroll,RECEIVING,Clay,Moorefield,LONG,21
+22436089,10/17/2015,D-III,Marietta,John Carroll,RECEIVING,Roger,Bush,REC,1
+22436090,10/17/2015,D-III,Marietta,John Carroll,RECEIVING,Roger,Bush,YDS,30
+22436091,10/17/2015,D-III,Marietta,John Carroll,RECEIVING,Roger,Bush,TD,1
+22436092,10/17/2015,D-III,Marietta,John Carroll,RECEIVING,Roger,Bush,LONG,30
+22436093,10/17/2015,D-III,Marietta,John Carroll,RECEIVING,Darnell,Clemm,REC,1
+22436094,10/17/2015,D-III,Marietta,John Carroll,RECEIVING,Darnell,Clemm,YDS,2
+22436095,10/17/2015,D-III,Marietta,John Carroll,RECEIVING,Darnell,Clemm,TD,0
+22436096,10/17/2015,D-III,Marietta,John Carroll,RECEIVING,Darnell,Clemm,LONG,2
+22436097,10/17/2015,D-III,Marietta,John Carroll,PUNTING,Zach,Camper,NO,9
+22436098,10/17/2015,D-III,Marietta,John Carroll,PUNTING,Zach,Camper,YDS,293
+22436099,10/17/2015,D-III,Marietta,John Carroll,PUNTING,Zach,Camper,AVG,32.6
+22436100,10/17/2015,D-III,Marietta,John Carroll,PUNTING,Zach,Camper,LONG,44
+22436101,10/17/2015,D-III,Marietta,John Carroll,PUNT RETURNS,Ben,Hawkins,NO,3
+22436102,10/17/2015,D-III,Marietta,John Carroll,PUNT RETURNS,Ben,Hawkins,YDS,10
+22436103,10/17/2015,D-III,Marietta,John Carroll,PUNT RETURNS,Ben,Hawkins,AVG,3.3
+22436104,10/17/2015,D-III,Marietta,John Carroll,PUNT RETURNS,Ben,Hawkins,LONG,4
+22436105,10/17/2015,D-III,Marietta,John Carroll,KICK RETURNS,Masai,Mcdaniel,NO,2
+22436106,10/17/2015,D-III,Marietta,John Carroll,KICK RETURNS,Masai,Mcdaniel,YDS,10
+22436107,10/17/2015,D-III,Marietta,John Carroll,KICK RETURNS,Masai,Mcdaniel,AVG,5.0
+22436108,10/17/2015,D-III,Marietta,John Carroll,KICK RETURNS,Masai,Mcdaniel,LONG,7
+22436109,10/17/2015,D-III,Marietta,John Carroll,KICK RETURNS,Heavon,Price,NO,1
+22436110,10/17/2015,D-III,Marietta,John Carroll,KICK RETURNS,Heavon,Price,YDS,12
+22436111,10/17/2015,D-III,Marietta,John Carroll,KICK RETURNS,Heavon,Price,AVG,12.0
+22436112,10/17/2015,D-III,Marietta,John Carroll,KICK RETURNS,Heavon,Price,LONG,12
+22436113,10/17/2015,D-III,Marietta,John Carroll,KICK RETURNS,Ben,Hawkins,NO,2
+22436114,10/17/2015,D-III,Marietta,John Carroll,KICK RETURNS,Ben,Hawkins,YDS,47
+22436115,10/17/2015,D-III,Marietta,John Carroll,KICK RETURNS,Ben,Hawkins,AVG,23.5
+22436116,10/17/2015,D-III,Marietta,John Carroll,KICK RETURNS,Ben,Hawkins,LONG,34

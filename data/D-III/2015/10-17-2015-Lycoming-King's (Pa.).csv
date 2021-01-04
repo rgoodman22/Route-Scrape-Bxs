@@ -1,0 +1,117 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+22474001,10/17/2015,D-III,Lycoming,King's (Pa.),RUSHING,Blake,Bowman,ATT,22
+22474002,10/17/2015,D-III,Lycoming,King's (Pa.),RUSHING,Blake,Bowman,YDS,142
+22474003,10/17/2015,D-III,Lycoming,King's (Pa.),RUSHING,Blake,Bowman,TD,3
+22474004,10/17/2015,D-III,Lycoming,King's (Pa.),RUSHING,Blake,Bowman,LONG,27
+22474005,10/17/2015,D-III,Lycoming,King's (Pa.),RUSHING,Chase,Whiteman,ATT,7
+22474006,10/17/2015,D-III,Lycoming,King's (Pa.),RUSHING,Chase,Whiteman,YDS,22
+22474007,10/17/2015,D-III,Lycoming,King's (Pa.),RUSHING,Chase,Whiteman,TD,0
+22474008,10/17/2015,D-III,Lycoming,King's (Pa.),RUSHING,Chase,Whiteman,LONG,11
+22474009,10/17/2015,D-III,Lycoming,King's (Pa.),RUSHING,Scott,Palmer,ATT,5
+22474010,10/17/2015,D-III,Lycoming,King's (Pa.),RUSHING,Scott,Palmer,YDS,11
+22474011,10/17/2015,D-III,Lycoming,King's (Pa.),RUSHING,Scott,Palmer,TD,0
+22474012,10/17/2015,D-III,Lycoming,King's (Pa.),RUSHING,Scott,Palmer,LONG,4
+22474013,10/17/2015,D-III,Lycoming,King's (Pa.),PASSING,Chase,Whiteman,CP-ATT-INT,12-18-1
+22474014,10/17/2015,D-III,Lycoming,King's (Pa.),PASSING,Chase,Whiteman,YDS,168
+22474015,10/17/2015,D-III,Lycoming,King's (Pa.),PASSING,Chase,Whiteman,TD,1
+22474016,10/17/2015,D-III,Lycoming,King's (Pa.),PASSING,Chase,Whiteman,LONG,24
+22474017,10/17/2015,D-III,Lycoming,King's (Pa.),RECEIVING,Ryan,Umpleby,REC,6
+22474018,10/17/2015,D-III,Lycoming,King's (Pa.),RECEIVING,Ryan,Umpleby,YDS,93
+22474019,10/17/2015,D-III,Lycoming,King's (Pa.),RECEIVING,Ryan,Umpleby,TD,0
+22474020,10/17/2015,D-III,Lycoming,King's (Pa.),RECEIVING,Ryan,Umpleby,LONG,24
+22474021,10/17/2015,D-III,Lycoming,King's (Pa.),RECEIVING,Nick,Costello,REC,3
+22474022,10/17/2015,D-III,Lycoming,King's (Pa.),RECEIVING,Nick,Costello,YDS,32
+22474023,10/17/2015,D-III,Lycoming,King's (Pa.),RECEIVING,Nick,Costello,TD,0
+22474024,10/17/2015,D-III,Lycoming,King's (Pa.),RECEIVING,Nick,Costello,LONG,19
+22474025,10/17/2015,D-III,Lycoming,King's (Pa.),RECEIVING,Blake,Bowman,REC,2
+22474026,10/17/2015,D-III,Lycoming,King's (Pa.),RECEIVING,Blake,Bowman,YDS,27
+22474027,10/17/2015,D-III,Lycoming,King's (Pa.),RECEIVING,Blake,Bowman,TD,1
+22474028,10/17/2015,D-III,Lycoming,King's (Pa.),RECEIVING,Blake,Bowman,LONG,23
+22474029,10/17/2015,D-III,Lycoming,King's (Pa.),RECEIVING,Pat,Whalen,REC,1
+22474030,10/17/2015,D-III,Lycoming,King's (Pa.),RECEIVING,Pat,Whalen,YDS,16
+22474031,10/17/2015,D-III,Lycoming,King's (Pa.),RECEIVING,Pat,Whalen,TD,0
+22474032,10/17/2015,D-III,Lycoming,King's (Pa.),RECEIVING,Pat,Whalen,LONG,16
+22474033,10/17/2015,D-III,Lycoming,King's (Pa.),PUNTING,Connor,Bell,NO,3
+22474034,10/17/2015,D-III,Lycoming,King's (Pa.),PUNTING,Connor,Bell,YDS,124
+22474035,10/17/2015,D-III,Lycoming,King's (Pa.),PUNTING,Connor,Bell,AVG,41.3
+22474036,10/17/2015,D-III,Lycoming,King's (Pa.),PUNTING,Connor,Bell,LONG,51
+22474037,10/17/2015,D-III,Lycoming,King's (Pa.),PUNT RETURNS,John,Kim,NO,3
+22474038,10/17/2015,D-III,Lycoming,King's (Pa.),PUNT RETURNS,John,Kim,YDS,18
+22474039,10/17/2015,D-III,Lycoming,King's (Pa.),PUNT RETURNS,John,Kim,AVG,6.0
+22474040,10/17/2015,D-III,Lycoming,King's (Pa.),PUNT RETURNS,John,Kim,LONG,13
+22474041,10/17/2015,D-III,Lycoming,King's (Pa.),KICK RETURNS,Ryan,Umpleby,NO,5
+22474042,10/17/2015,D-III,Lycoming,King's (Pa.),KICK RETURNS,Ryan,Umpleby,YDS,98
+22474043,10/17/2015,D-III,Lycoming,King's (Pa.),KICK RETURNS,Ryan,Umpleby,AVG,19.6
+22474044,10/17/2015,D-III,Lycoming,King's (Pa.),KICK RETURNS,Ryan,Umpleby,LONG,27
+22474045,10/17/2015,D-III,Lycoming,King's (Pa.),KICK RETURNS,John,Kim,NO,1
+22474046,10/17/2015,D-III,Lycoming,King's (Pa.),KICK RETURNS,John,Kim,YDS,15
+22474047,10/17/2015,D-III,Lycoming,King's (Pa.),KICK RETURNS,John,Kim,AVG,15.0
+22474048,10/17/2015,D-III,Lycoming,King's (Pa.),KICK RETURNS,John,Kim,LONG,15
+22474049,10/17/2015,D-III,King's (Pa.),Lycoming,RUSHING,Gabe,Brown,ATT,17
+22474050,10/17/2015,D-III,King's (Pa.),Lycoming,RUSHING,Gabe,Brown,YDS,71
+22474051,10/17/2015,D-III,King's (Pa.),Lycoming,RUSHING,Gabe,Brown,TD,1
+22474052,10/17/2015,D-III,King's (Pa.),Lycoming,RUSHING,Gabe,Brown,LONG,33
+22474053,10/17/2015,D-III,King's (Pa.),Lycoming,RUSHING,Tom,Hehre,ATT,9
+22474054,10/17/2015,D-III,King's (Pa.),Lycoming,RUSHING,Tom,Hehre,YDS,37
+22474055,10/17/2015,D-III,King's (Pa.),Lycoming,RUSHING,Tom,Hehre,TD,1
+22474056,10/17/2015,D-III,King's (Pa.),Lycoming,RUSHING,Tom,Hehre,LONG,13
+22474057,10/17/2015,D-III,King's (Pa.),Lycoming,RUSHING,Jordan,Downes,ATT,1
+22474058,10/17/2015,D-III,King's (Pa.),Lycoming,RUSHING,Jordan,Downes,YDS,3
+22474059,10/17/2015,D-III,King's (Pa.),Lycoming,RUSHING,Jordan,Downes,TD,0
+22474060,10/17/2015,D-III,King's (Pa.),Lycoming,RUSHING,Jordan,Downes,LONG,3
+22474061,10/17/2015,D-III,King's (Pa.),Lycoming,RUSHING,Zack,Funk,ATT,2
+22474062,10/17/2015,D-III,King's (Pa.),Lycoming,RUSHING,Zack,Funk,YDS,2
+22474063,10/17/2015,D-III,King's (Pa.),Lycoming,RUSHING,Zack,Funk,TD,0
+22474064,10/17/2015,D-III,King's (Pa.),Lycoming,RUSHING,Zack,Funk,LONG,2
+22474065,10/17/2015,D-III,King's (Pa.),Lycoming,RUSHING,,Team,ATT,2
+22474066,10/17/2015,D-III,King's (Pa.),Lycoming,RUSHING,,Team,YDS,-2
+22474067,10/17/2015,D-III,King's (Pa.),Lycoming,RUSHING,,Team,TD,0
+22474068,10/17/2015,D-III,King's (Pa.),Lycoming,RUSHING,,Team,LONG,0
+22474069,10/17/2015,D-III,King's (Pa.),Lycoming,PASSING,Tom,Hehre,CP-ATT-INT,24-38-0
+22474070,10/17/2015,D-III,King's (Pa.),Lycoming,PASSING,Tom,Hehre,YDS,231
+22474071,10/17/2015,D-III,King's (Pa.),Lycoming,PASSING,Tom,Hehre,TD,2
+22474072,10/17/2015,D-III,King's (Pa.),Lycoming,PASSING,Tom,Hehre,LONG,30
+22474073,10/17/2015,D-III,King's (Pa.),Lycoming,RECEIVING,Mike,Palmer,REC,7
+22474074,10/17/2015,D-III,King's (Pa.),Lycoming,RECEIVING,Mike,Palmer,YDS,89
+22474075,10/17/2015,D-III,King's (Pa.),Lycoming,RECEIVING,Mike,Palmer,TD,1
+22474076,10/17/2015,D-III,King's (Pa.),Lycoming,RECEIVING,Mike,Palmer,LONG,30
+22474077,10/17/2015,D-III,King's (Pa.),Lycoming,RECEIVING,Marquis,Miller,REC,6
+22474078,10/17/2015,D-III,King's (Pa.),Lycoming,RECEIVING,Marquis,Miller,YDS,50
+22474079,10/17/2015,D-III,King's (Pa.),Lycoming,RECEIVING,Marquis,Miller,TD,1
+22474080,10/17/2015,D-III,King's (Pa.),Lycoming,RECEIVING,Marquis,Miller,LONG,14
+22474081,10/17/2015,D-III,King's (Pa.),Lycoming,RECEIVING,Matt,Demarco,REC,5
+22474082,10/17/2015,D-III,King's (Pa.),Lycoming,RECEIVING,Matt,Demarco,YDS,43
+22474083,10/17/2015,D-III,King's (Pa.),Lycoming,RECEIVING,Matt,Demarco,TD,0
+22474084,10/17/2015,D-III,King's (Pa.),Lycoming,RECEIVING,Matt,Demarco,LONG,13
+22474085,10/17/2015,D-III,King's (Pa.),Lycoming,RECEIVING,Dylan,Flayhart,REC,2
+22474086,10/17/2015,D-III,King's (Pa.),Lycoming,RECEIVING,Dylan,Flayhart,YDS,18
+22474087,10/17/2015,D-III,King's (Pa.),Lycoming,RECEIVING,Dylan,Flayhart,TD,0
+22474088,10/17/2015,D-III,King's (Pa.),Lycoming,RECEIVING,Dylan,Flayhart,LONG,16
+22474089,10/17/2015,D-III,King's (Pa.),Lycoming,RECEIVING,Jordan,Downes,REC,2
+22474090,10/17/2015,D-III,King's (Pa.),Lycoming,RECEIVING,Jordan,Downes,YDS,18
+22474091,10/17/2015,D-III,King's (Pa.),Lycoming,RECEIVING,Jordan,Downes,TD,0
+22474092,10/17/2015,D-III,King's (Pa.),Lycoming,RECEIVING,Jordan,Downes,LONG,15
+22474093,10/17/2015,D-III,King's (Pa.),Lycoming,RECEIVING,Tyler,Marroni,REC,1
+22474094,10/17/2015,D-III,King's (Pa.),Lycoming,RECEIVING,Tyler,Marroni,YDS,8
+22474095,10/17/2015,D-III,King's (Pa.),Lycoming,RECEIVING,Tyler,Marroni,TD,0
+22474096,10/17/2015,D-III,King's (Pa.),Lycoming,RECEIVING,Tyler,Marroni,LONG,8
+22474097,10/17/2015,D-III,King's (Pa.),Lycoming,RECEIVING,Gabe,Brown,REC,1
+22474098,10/17/2015,D-III,King's (Pa.),Lycoming,RECEIVING,Gabe,Brown,YDS,5
+22474099,10/17/2015,D-III,King's (Pa.),Lycoming,RECEIVING,Gabe,Brown,TD,0
+22474100,10/17/2015,D-III,King's (Pa.),Lycoming,RECEIVING,Gabe,Brown,LONG,5
+22474101,10/17/2015,D-III,King's (Pa.),Lycoming,PUNTING,Eric,Haenggi,NO,4
+22474102,10/17/2015,D-III,King's (Pa.),Lycoming,PUNTING,Eric,Haenggi,YDS,134
+22474103,10/17/2015,D-III,King's (Pa.),Lycoming,PUNTING,Eric,Haenggi,AVG,33.5
+22474104,10/17/2015,D-III,King's (Pa.),Lycoming,PUNTING,Eric,Haenggi,LONG,40
+22474105,10/17/2015,D-III,King's (Pa.),Lycoming,PUNTING,,Team,NO,1
+22474106,10/17/2015,D-III,King's (Pa.),Lycoming,PUNTING,,Team,YDS,9
+22474107,10/17/2015,D-III,King's (Pa.),Lycoming,PUNTING,,Team,AVG,9.0
+22474108,10/17/2015,D-III,King's (Pa.),Lycoming,PUNTING,,Team,LONG,9
+22474109,10/17/2015,D-III,King's (Pa.),Lycoming,KICK RETURNS,Matt,Demarco,NO,1
+22474110,10/17/2015,D-III,King's (Pa.),Lycoming,KICK RETURNS,Matt,Demarco,YDS,8
+22474111,10/17/2015,D-III,King's (Pa.),Lycoming,KICK RETURNS,Matt,Demarco,AVG,8.0
+22474112,10/17/2015,D-III,King's (Pa.),Lycoming,KICK RETURNS,Matt,Demarco,LONG,8
+22474113,10/17/2015,D-III,King's (Pa.),Lycoming,KICK RETURNS,Justin,Burke,NO,3
+22474114,10/17/2015,D-III,King's (Pa.),Lycoming,KICK RETURNS,Justin,Burke,YDS,41
+22474115,10/17/2015,D-III,King's (Pa.),Lycoming,KICK RETURNS,Justin,Burke,AVG,13.7
+22474116,10/17/2015,D-III,King's (Pa.),Lycoming,KICK RETURNS,Justin,Burke,LONG,17

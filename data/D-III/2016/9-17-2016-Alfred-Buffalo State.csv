@@ -1,0 +1,113 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+23341001,9/17/2016,D-III,Alfred,Buffalo State,RUSHING,T,Johnson,ATT,19
+23341002,9/17/2016,D-III,Alfred,Buffalo State,RUSHING,T,Johnson,YDS,92
+23341003,9/17/2016,D-III,Alfred,Buffalo State,RUSHING,T,Johnson,TD,4
+23341004,9/17/2016,D-III,Alfred,Buffalo State,RUSHING,T,Johnson,LONG,22
+23341005,9/17/2016,D-III,Alfred,Buffalo State,RUSHING,M,Fuentes,ATT,12
+23341006,9/17/2016,D-III,Alfred,Buffalo State,RUSHING,M,Fuentes,YDS,88
+23341007,9/17/2016,D-III,Alfred,Buffalo State,RUSHING,M,Fuentes,TD,1
+23341008,9/17/2016,D-III,Alfred,Buffalo State,RUSHING,M,Fuentes,LONG,20
+23341009,9/17/2016,D-III,Alfred,Buffalo State,RUSHING,C,Bright,ATT,25
+23341010,9/17/2016,D-III,Alfred,Buffalo State,RUSHING,C,Bright,YDS,77
+23341011,9/17/2016,D-III,Alfred,Buffalo State,RUSHING,C,Bright,TD,0
+23341012,9/17/2016,D-III,Alfred,Buffalo State,RUSHING,C,Bright,LONG,14
+23341013,9/17/2016,D-III,Alfred,Buffalo State,RUSHING,,Team,ATT,1
+23341014,9/17/2016,D-III,Alfred,Buffalo State,RUSHING,,Team,YDS,0
+23341015,9/17/2016,D-III,Alfred,Buffalo State,RUSHING,,Team,TD,0
+23341016,9/17/2016,D-III,Alfred,Buffalo State,RUSHING,,Team,LONG,0
+23341017,9/17/2016,D-III,Alfred,Buffalo State,RUSHING,J,Gavidia,ATT,1
+23341018,9/17/2016,D-III,Alfred,Buffalo State,RUSHING,J,Gavidia,YDS,-2
+23341019,9/17/2016,D-III,Alfred,Buffalo State,RUSHING,J,Gavidia,TD,0
+23341020,9/17/2016,D-III,Alfred,Buffalo State,RUSHING,J,Gavidia,LONG,0
+23341021,9/17/2016,D-III,Alfred,Buffalo State,RUSHING,S,Davis,ATT,3
+23341022,9/17/2016,D-III,Alfred,Buffalo State,RUSHING,S,Davis,YDS,-3
+23341023,9/17/2016,D-III,Alfred,Buffalo State,RUSHING,S,Davis,TD,0
+23341024,9/17/2016,D-III,Alfred,Buffalo State,RUSHING,S,Davis,LONG,1
+23341025,9/17/2016,D-III,Alfred,Buffalo State,PASSING,T,Johnson,CP-ATT-INT,11-18-0
+23341026,9/17/2016,D-III,Alfred,Buffalo State,PASSING,T,Johnson,YDS,160
+23341027,9/17/2016,D-III,Alfred,Buffalo State,PASSING,T,Johnson,TD,0
+23341028,9/17/2016,D-III,Alfred,Buffalo State,PASSING,T,Johnson,LONG,25
+23341029,9/17/2016,D-III,Alfred,Buffalo State,RECEIVING,R,Pagliei,REC,4
+23341030,9/17/2016,D-III,Alfred,Buffalo State,RECEIVING,R,Pagliei,YDS,66
+23341031,9/17/2016,D-III,Alfred,Buffalo State,RECEIVING,R,Pagliei,TD,0
+23341032,9/17/2016,D-III,Alfred,Buffalo State,RECEIVING,R,Pagliei,LONG,19
+23341033,9/17/2016,D-III,Alfred,Buffalo State,RECEIVING,R,Etienne,REC,3
+23341034,9/17/2016,D-III,Alfred,Buffalo State,RECEIVING,R,Etienne,YDS,55
+23341035,9/17/2016,D-III,Alfred,Buffalo State,RECEIVING,R,Etienne,TD,0
+23341036,9/17/2016,D-III,Alfred,Buffalo State,RECEIVING,R,Etienne,LONG,25
+23341037,9/17/2016,D-III,Alfred,Buffalo State,RECEIVING,C,Bright,REC,2
+23341038,9/17/2016,D-III,Alfred,Buffalo State,RECEIVING,C,Bright,YDS,20
+23341039,9/17/2016,D-III,Alfred,Buffalo State,RECEIVING,C,Bright,TD,0
+23341040,9/17/2016,D-III,Alfred,Buffalo State,RECEIVING,C,Bright,LONG,11
+23341041,9/17/2016,D-III,Alfred,Buffalo State,RECEIVING,J,Gavidia,REC,1
+23341042,9/17/2016,D-III,Alfred,Buffalo State,RECEIVING,J,Gavidia,YDS,13
+23341043,9/17/2016,D-III,Alfred,Buffalo State,RECEIVING,J,Gavidia,TD,0
+23341044,9/17/2016,D-III,Alfred,Buffalo State,RECEIVING,J,Gavidia,LONG,13
+23341045,9/17/2016,D-III,Alfred,Buffalo State,RECEIVING,B,Buisch,REC,1
+23341046,9/17/2016,D-III,Alfred,Buffalo State,RECEIVING,B,Buisch,YDS,6
+23341047,9/17/2016,D-III,Alfred,Buffalo State,RECEIVING,B,Buisch,TD,0
+23341048,9/17/2016,D-III,Alfred,Buffalo State,RECEIVING,B,Buisch,LONG,6
+23341049,9/17/2016,D-III,Alfred,Buffalo State,PUNTING,T,Monk,NO,1
+23341050,9/17/2016,D-III,Alfred,Buffalo State,PUNTING,T,Monk,YDS,23
+23341051,9/17/2016,D-III,Alfred,Buffalo State,PUNTING,T,Monk,AVG,23.0
+23341052,9/17/2016,D-III,Alfred,Buffalo State,PUNTING,T,Monk,LONG,23
+23341053,9/17/2016,D-III,Alfred,Buffalo State,PUNT RETURNS,D,Gallagher,NO,1
+23341054,9/17/2016,D-III,Alfred,Buffalo State,PUNT RETURNS,D,Gallagher,YDS,4
+23341055,9/17/2016,D-III,Alfred,Buffalo State,PUNT RETURNS,D,Gallagher,AVG,4.0
+23341056,9/17/2016,D-III,Alfred,Buffalo State,PUNT RETURNS,D,Gallagher,LONG,4
+23341057,9/17/2016,D-III,Alfred,Buffalo State,PUNT RETURNS,J,Gavidia,NO,1
+23341058,9/17/2016,D-III,Alfred,Buffalo State,PUNT RETURNS,J,Gavidia,YDS,16
+23341059,9/17/2016,D-III,Alfred,Buffalo State,PUNT RETURNS,J,Gavidia,AVG,16.0
+23341060,9/17/2016,D-III,Alfred,Buffalo State,PUNT RETURNS,J,Gavidia,LONG,16
+23341061,9/17/2016,D-III,Alfred,Buffalo State,KICK RETURNS,M,Fuentes,NO,2
+23341062,9/17/2016,D-III,Alfred,Buffalo State,KICK RETURNS,M,Fuentes,YDS,51
+23341063,9/17/2016,D-III,Alfred,Buffalo State,KICK RETURNS,M,Fuentes,AVG,25.5
+23341064,9/17/2016,D-III,Alfred,Buffalo State,KICK RETURNS,M,Fuentes,LONG,36
+23341065,9/17/2016,D-III,Alfred,Buffalo State,KICK RETURNS,C,Bright,NO,1
+23341066,9/17/2016,D-III,Alfred,Buffalo State,KICK RETURNS,C,Bright,YDS,9
+23341067,9/17/2016,D-III,Alfred,Buffalo State,KICK RETURNS,C,Bright,AVG,9.0
+23341068,9/17/2016,D-III,Alfred,Buffalo State,KICK RETURNS,C,Bright,LONG,9
+23341069,9/17/2016,D-III,Buffalo State,Alfred,RUSHING,Dale,Stewart,ATT,17
+23341070,9/17/2016,D-III,Buffalo State,Alfred,RUSHING,Dale,Stewart,YDS,154
+23341071,9/17/2016,D-III,Buffalo State,Alfred,RUSHING,Dale,Stewart,TD,1
+23341072,9/17/2016,D-III,Buffalo State,Alfred,RUSHING,Dale,Stewart,LONG,55
+23341073,9/17/2016,D-III,Buffalo State,Alfred,RUSHING,Tre,Jones,ATT,7
+23341074,9/17/2016,D-III,Buffalo State,Alfred,RUSHING,Tre,Jones,YDS,15
+23341075,9/17/2016,D-III,Buffalo State,Alfred,RUSHING,Tre,Jones,TD,0
+23341076,9/17/2016,D-III,Buffalo State,Alfred,RUSHING,Tre,Jones,LONG,9
+23341077,9/17/2016,D-III,Buffalo State,Alfred,RUSHING,Aaron,Ertel,ATT,2
+23341078,9/17/2016,D-III,Buffalo State,Alfred,RUSHING,Aaron,Ertel,YDS,-5
+23341079,9/17/2016,D-III,Buffalo State,Alfred,RUSHING,Aaron,Ertel,TD,0
+23341080,9/17/2016,D-III,Buffalo State,Alfred,RUSHING,Aaron,Ertel,LONG,1
+23341081,9/17/2016,D-III,Buffalo State,Alfred,PASSING,Aaron,Ertel,CP-ATT-INT,3-8-0
+23341082,9/17/2016,D-III,Buffalo State,Alfred,PASSING,Aaron,Ertel,YDS,32
+23341083,9/17/2016,D-III,Buffalo State,Alfred,PASSING,Aaron,Ertel,TD,0
+23341084,9/17/2016,D-III,Buffalo State,Alfred,PASSING,Aaron,Ertel,LONG,16
+23341085,9/17/2016,D-III,Buffalo State,Alfred,RECEIVING,Stephen,Johnson,REC,1
+23341086,9/17/2016,D-III,Buffalo State,Alfred,RECEIVING,Stephen,Johnson,YDS,16
+23341087,9/17/2016,D-III,Buffalo State,Alfred,RECEIVING,Stephen,Johnson,TD,0
+23341088,9/17/2016,D-III,Buffalo State,Alfred,RECEIVING,Stephen,Johnson,LONG,16
+23341089,9/17/2016,D-III,Buffalo State,Alfred,RECEIVING,M,Wesolowski,REC,1
+23341090,9/17/2016,D-III,Buffalo State,Alfred,RECEIVING,M,Wesolowski,YDS,11
+23341091,9/17/2016,D-III,Buffalo State,Alfred,RECEIVING,M,Wesolowski,TD,0
+23341092,9/17/2016,D-III,Buffalo State,Alfred,RECEIVING,M,Wesolowski,LONG,11
+23341093,9/17/2016,D-III,Buffalo State,Alfred,RECEIVING,Jordan,Evert,REC,1
+23341094,9/17/2016,D-III,Buffalo State,Alfred,RECEIVING,Jordan,Evert,YDS,5
+23341095,9/17/2016,D-III,Buffalo State,Alfred,RECEIVING,Jordan,Evert,TD,0
+23341096,9/17/2016,D-III,Buffalo State,Alfred,RECEIVING,Jordan,Evert,LONG,5
+23341097,9/17/2016,D-III,Buffalo State,Alfred,PUNTING,Ryan,Mutterer,NO,2
+23341098,9/17/2016,D-III,Buffalo State,Alfred,PUNTING,Ryan,Mutterer,YDS,87
+23341099,9/17/2016,D-III,Buffalo State,Alfred,PUNTING,Ryan,Mutterer,AVG,43.5
+23341100,9/17/2016,D-III,Buffalo State,Alfred,PUNTING,Ryan,Mutterer,LONG,50
+23341101,9/17/2016,D-III,Buffalo State,Alfred,KICK RETURNS,Stephen,Johnson,NO,1
+23341102,9/17/2016,D-III,Buffalo State,Alfred,KICK RETURNS,Stephen,Johnson,YDS,21
+23341103,9/17/2016,D-III,Buffalo State,Alfred,KICK RETURNS,Stephen,Johnson,AVG,21.0
+23341104,9/17/2016,D-III,Buffalo State,Alfred,KICK RETURNS,Stephen,Johnson,LONG,21
+23341105,9/17/2016,D-III,Buffalo State,Alfred,KICK RETURNS,Byron,Jackson,NO,1
+23341106,9/17/2016,D-III,Buffalo State,Alfred,KICK RETURNS,Byron,Jackson,YDS,19
+23341107,9/17/2016,D-III,Buffalo State,Alfred,KICK RETURNS,Byron,Jackson,AVG,19.0
+23341108,9/17/2016,D-III,Buffalo State,Alfred,KICK RETURNS,Byron,Jackson,LONG,19
+23341109,9/17/2016,D-III,Buffalo State,Alfred,KICK RETURNS,A,Principale,NO,1
+23341110,9/17/2016,D-III,Buffalo State,Alfred,KICK RETURNS,A,Principale,YDS,4
+23341111,9/17/2016,D-III,Buffalo State,Alfred,KICK RETURNS,A,Principale,AVG,4.0
+23341112,9/17/2016,D-III,Buffalo State,Alfred,KICK RETURNS,A,Principale,LONG,4

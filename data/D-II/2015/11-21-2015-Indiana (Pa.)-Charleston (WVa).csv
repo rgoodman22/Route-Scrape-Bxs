@@ -1,0 +1,125 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+15384001,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RUSHING,Lenny,Williams,ATT,27
+15384002,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RUSHING,Lenny,Williams,YDS,151
+15384003,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RUSHING,Lenny,Williams,TD,4
+15384004,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RUSHING,Lenny,Williams,LONG,21
+15384005,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RUSHING,Chris,Temple,ATT,28
+15384006,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RUSHING,Chris,Temple,YDS,116
+15384007,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RUSHING,Chris,Temple,TD,1
+15384008,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RUSHING,Chris,Temple,LONG,20
+15384009,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RUSHING,L,Lista-brinza,ATT,6
+15384010,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RUSHING,L,Lista-brinza,YDS,49
+15384011,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RUSHING,L,Lista-brinza,TD,0
+15384012,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RUSHING,L,Lista-brinza,LONG,26
+15384013,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RUSHING,Shannon,Jackson,ATT,3
+15384014,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RUSHING,Shannon,Jackson,YDS,34
+15384015,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RUSHING,Shannon,Jackson,TD,0
+15384016,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RUSHING,Shannon,Jackson,LONG,19
+15384017,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RUSHING,Walt,Pegues,ATT,1
+15384018,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RUSHING,Walt,Pegues,YDS,-1
+15384019,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RUSHING,Walt,Pegues,TD,0
+15384020,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RUSHING,Walt,Pegues,LONG,0
+15384021,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RUSHING,,Team,ATT,1
+15384022,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RUSHING,,Team,YDS,-2
+15384023,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RUSHING,,Team,TD,0
+15384024,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RUSHING,,Team,LONG,0
+15384025,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),PASSING,Lenny,Williams,CP-ATT-INT,10-15-1
+15384026,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),PASSING,Lenny,Williams,YDS,101
+15384027,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),PASSING,Lenny,Williams,TD,1
+15384028,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),PASSING,Lenny,Williams,LONG,34
+15384029,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RECEIVING,Sean,Mcvay,REC,2
+15384030,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RECEIVING,Sean,Mcvay,YDS,42
+15384031,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RECEIVING,Sean,Mcvay,TD,1
+15384032,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RECEIVING,Sean,Mcvay,LONG,34
+15384033,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RECEIVING,Walt,Pegues,REC,3
+15384034,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RECEIVING,Walt,Pegues,YDS,30
+15384035,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RECEIVING,Walt,Pegues,TD,0
+15384036,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RECEIVING,Walt,Pegues,LONG,13
+15384037,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RECEIVING,Swahneek,Brown,REC,3
+15384038,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RECEIVING,Swahneek,Brown,YDS,24
+15384039,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RECEIVING,Swahneek,Brown,TD,0
+15384040,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RECEIVING,Swahneek,Brown,LONG,10
+15384041,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RECEIVING,Isiah,Mims,REC,1
+15384042,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RECEIVING,Isiah,Mims,YDS,8
+15384043,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RECEIVING,Isiah,Mims,TD,0
+15384044,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RECEIVING,Isiah,Mims,LONG,8
+15384045,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RECEIVING,L,Lista-brinza,REC,1
+15384046,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RECEIVING,L,Lista-brinza,YDS,-3
+15384047,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RECEIVING,L,Lista-brinza,TD,0
+15384048,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),RECEIVING,L,Lista-brinza,LONG,0
+15384049,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),PUNTING,Jordan,Spangler,NO,3
+15384050,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),PUNTING,Jordan,Spangler,YDS,138
+15384051,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),PUNTING,Jordan,Spangler,AVG,46.0
+15384052,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),PUNTING,Jordan,Spangler,LONG,58
+15384053,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),PUNT RETURNS,Walt,Pegues,NO,1
+15384054,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),PUNT RETURNS,Walt,Pegues,YDS,4
+15384055,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),PUNT RETURNS,Walt,Pegues,AVG,4.0
+15384056,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),PUNT RETURNS,Walt,Pegues,LONG,4
+15384057,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),PUNT RETURNS,Diamond,Jones,NO,1
+15384058,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),PUNT RETURNS,Diamond,Jones,YDS,16
+15384059,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),PUNT RETURNS,Diamond,Jones,AVG,16.0
+15384060,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),PUNT RETURNS,Diamond,Jones,LONG,0
+15384061,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),KICK RETURNS,Swahneek,Brown,NO,1
+15384062,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),KICK RETURNS,Swahneek,Brown,YDS,13
+15384063,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),KICK RETURNS,Swahneek,Brown,AVG,13.0
+15384064,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),KICK RETURNS,Swahneek,Brown,LONG,13
+15384065,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),KICK RETURNS,Walt,Pegues,NO,1
+15384066,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),KICK RETURNS,Walt,Pegues,YDS,34
+15384067,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),KICK RETURNS,Walt,Pegues,AVG,34.0
+15384068,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),KICK RETURNS,Walt,Pegues,LONG,34
+15384069,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),KICK RETURNS,Rex,Pearce,NO,1
+15384070,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),KICK RETURNS,Rex,Pearce,YDS,7
+15384071,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),KICK RETURNS,Rex,Pearce,AVG,7.0
+15384072,11/21/2015,D-II,Indiana (Pa.),Charleston (WVa),KICK RETURNS,Rex,Pearce,LONG,7
+15384073,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),RUSHING,Marvin,Elam,ATT,20
+15384074,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),RUSHING,Marvin,Elam,YDS,154
+15384075,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),RUSHING,Marvin,Elam,TD,1
+15384076,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),RUSHING,Marvin,Elam,LONG,25
+15384077,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),RUSHING,Tevion,Cappe,ATT,6
+15384078,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),RUSHING,Tevion,Cappe,YDS,45
+15384079,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),RUSHING,Tevion,Cappe,TD,0
+15384080,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),RUSHING,Tevion,Cappe,LONG,20
+15384081,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),RUSHING,Jermaine,Kelly,ATT,3
+15384082,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),RUSHING,Jermaine,Kelly,YDS,12
+15384083,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),RUSHING,Jermaine,Kelly,TD,1
+15384084,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),RUSHING,Jermaine,Kelly,LONG,9
+15384085,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),RUSHING,Jeremy,Johnson,ATT,10
+15384086,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),RUSHING,Jeremy,Johnson,YDS,7
+15384087,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),RUSHING,Jeremy,Johnson,TD,0
+15384088,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),RUSHING,Jeremy,Johnson,LONG,11
+15384089,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),PASSING,Jeremy,Johnson,CP-ATT-INT,11-22-1
+15384090,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),PASSING,Jeremy,Johnson,YDS,172
+15384091,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),PASSING,Jeremy,Johnson,TD,1
+15384092,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),PASSING,Jeremy,Johnson,LONG,51
+15384093,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),RECEIVING,Rash,Dickerson,REC,6
+15384094,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),RECEIVING,Rash,Dickerson,YDS,111
+15384095,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),RECEIVING,Rash,Dickerson,TD,1
+15384096,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),RECEIVING,Rash,Dickerson,LONG,51
+15384097,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),RECEIVING,Joey,Augustin,REC,4
+15384098,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),RECEIVING,Joey,Augustin,YDS,51
+15384099,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),RECEIVING,Joey,Augustin,TD,0
+15384100,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),RECEIVING,Joey,Augustin,LONG,19
+15384101,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),RECEIVING,D'andre,Brooks,REC,1
+15384102,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),RECEIVING,D'andre,Brooks,YDS,10
+15384103,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),RECEIVING,D'andre,Brooks,TD,0
+15384104,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),RECEIVING,D'andre,Brooks,LONG,10
+15384105,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),PUNTING,Brett,Benes,NO,4
+15384106,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),PUNTING,Brett,Benes,YDS,184
+15384107,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),PUNTING,Brett,Benes,AVG,46.0
+15384108,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),PUNTING,Brett,Benes,LONG,69
+15384109,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),PUNTING,,Team,NO,1
+15384110,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),PUNTING,,Team,YDS,0
+15384111,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),PUNTING,,Team,AVG,0.0
+15384112,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),PUNTING,,Team,LONG,0
+15384113,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),KICK RETURNS,Josef,Hinnant,NO,1
+15384114,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),KICK RETURNS,Josef,Hinnant,YDS,18
+15384115,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),KICK RETURNS,Josef,Hinnant,AVG,18.0
+15384116,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),KICK RETURNS,Josef,Hinnant,LONG,18
+15384117,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),KICK RETURNS,Torie,Wagner,NO,4
+15384118,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),KICK RETURNS,Torie,Wagner,YDS,95
+15384119,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),KICK RETURNS,Torie,Wagner,AVG,23.8
+15384120,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),KICK RETURNS,Torie,Wagner,LONG,35
+15384121,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),KICK RETURNS,Greg,Bender,NO,1
+15384122,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),KICK RETURNS,Greg,Bender,YDS,7
+15384123,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),KICK RETURNS,Greg,Bender,AVG,7.0
+15384124,11/21/2015,D-II,Charleston (WVa),Indiana (Pa.),KICK RETURNS,Greg,Bender,LONG,7

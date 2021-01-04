@@ -1,0 +1,61 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+13315001,11/9/2013,D-II,Humboldt State,Simon Fraser,RUSHING,Ka,Johnson,ATT,20
+13315002,11/9/2013,D-II,Humboldt State,Simon Fraser,RUSHING,Ka,Johnson,YDS,60
+13315003,11/9/2013,D-II,Humboldt State,Simon Fraser,RUSHING,Ka,Johnson,TD,1
+13315004,11/9/2013,D-II,Humboldt State,Simon Fraser,RUSHING,Ka,Johnson,LONG,15
+13315005,11/9/2013,D-II,Humboldt State,Simon Fraser,RUSHING,,Team,ATT,1
+13315006,11/9/2013,D-II,Humboldt State,Simon Fraser,RUSHING,,Team,YDS,14
+13315007,11/9/2013,D-II,Humboldt State,Simon Fraser,RUSHING,,Team,TD,0
+13315008,11/9/2013,D-II,Humboldt State,Simon Fraser,RUSHING,,Team,LONG,14
+13315009,11/9/2013,D-II,Humboldt State,Simon Fraser,PASSING,,Team,CP-ATT-INT,21-45-1
+13315010,11/9/2013,D-II,Humboldt State,Simon Fraser,PASSING,,Team,YDS,340
+13315011,11/9/2013,D-II,Humboldt State,Simon Fraser,PASSING,,Team,TD,1
+13315012,11/9/2013,D-II,Humboldt State,Simon Fraser,PASSING,,Team,LONG,50
+13315013,11/9/2013,D-II,Humboldt State,Simon Fraser,RECEIVING,,Team,REC,12
+13315014,11/9/2013,D-II,Humboldt State,Simon Fraser,RECEIVING,,Team,YDS,179
+13315015,11/9/2013,D-II,Humboldt State,Simon Fraser,RECEIVING,,Team,TD,1
+13315016,11/9/2013,D-II,Humboldt State,Simon Fraser,RECEIVING,,Team,LONG,50
+13315017,11/9/2013,D-II,Humboldt State,Simon Fraser,RECEIVING,Ka,Johnson,REC,1
+13315018,11/9/2013,D-II,Humboldt State,Simon Fraser,RECEIVING,Ka,Johnson,YDS,25
+13315019,11/9/2013,D-II,Humboldt State,Simon Fraser,RECEIVING,Ka,Johnson,TD,0
+13315020,11/9/2013,D-II,Humboldt State,Simon Fraser,RECEIVING,Ka,Johnson,LONG,25
+13315021,11/9/2013,D-II,Humboldt State,Simon Fraser,RECEIVING,,Team,REC,1
+13315022,11/9/2013,D-II,Humboldt State,Simon Fraser,RECEIVING,,Team,YDS,21
+13315023,11/9/2013,D-II,Humboldt State,Simon Fraser,RECEIVING,,Team,TD,0
+13315024,11/9/2013,D-II,Humboldt State,Simon Fraser,RECEIVING,,Team,LONG,21
+13315025,11/9/2013,D-II,Humboldt State,Simon Fraser,PUNTING,,Team,NO,4
+13315026,11/9/2013,D-II,Humboldt State,Simon Fraser,PUNTING,,Team,YDS,162
+13315027,11/9/2013,D-II,Humboldt State,Simon Fraser,PUNTING,,Team,AVG,40.5
+13315028,11/9/2013,D-II,Humboldt State,Simon Fraser,PUNTING,,Team,LONG,43
+13315029,11/9/2013,D-II,Humboldt State,Simon Fraser,PUNT RETURNS,,Team,NO,4
+13315030,11/9/2013,D-II,Humboldt State,Simon Fraser,PUNT RETURNS,,Team,YDS,25
+13315031,11/9/2013,D-II,Humboldt State,Simon Fraser,PUNT RETURNS,,Team,AVG,6.2
+13315032,11/9/2013,D-II,Humboldt State,Simon Fraser,PUNT RETURNS,,Team,LONG,16
+13315033,11/9/2013,D-II,Humboldt State,Simon Fraser,KICK RETURNS,,Team,NO,5
+13315034,11/9/2013,D-II,Humboldt State,Simon Fraser,KICK RETURNS,,Team,YDS,113
+13315035,11/9/2013,D-II,Humboldt State,Simon Fraser,KICK RETURNS,,Team,AVG,22.6
+13315036,11/9/2013,D-II,Humboldt State,Simon Fraser,KICK RETURNS,,Team,LONG,35
+13315037,11/9/2013,D-II,Simon Fraser,Humboldt State,RUSHING,,Team,ATT,35
+13315038,11/9/2013,D-II,Simon Fraser,Humboldt State,RUSHING,,Team,YDS,153
+13315039,11/9/2013,D-II,Simon Fraser,Humboldt State,RUSHING,,Team,TD,2
+13315040,11/9/2013,D-II,Simon Fraser,Humboldt State,RUSHING,,Team,LONG,16
+13315041,11/9/2013,D-II,Simon Fraser,Humboldt State,PASSING,,Team,CP-ATT-INT,14-23-0
+13315042,11/9/2013,D-II,Simon Fraser,Humboldt State,PASSING,,Team,YDS,220
+13315043,11/9/2013,D-II,Simon Fraser,Humboldt State,PASSING,,Team,TD,2
+13315044,11/9/2013,D-II,Simon Fraser,Humboldt State,PASSING,,Team,LONG,52
+13315045,11/9/2013,D-II,Simon Fraser,Humboldt State,RECEIVING,,Team,REC,4
+13315046,11/9/2013,D-II,Simon Fraser,Humboldt State,RECEIVING,,Team,YDS,109
+13315047,11/9/2013,D-II,Simon Fraser,Humboldt State,RECEIVING,,Team,TD,1
+13315048,11/9/2013,D-II,Simon Fraser,Humboldt State,RECEIVING,,Team,LONG,52
+13315049,11/9/2013,D-II,Simon Fraser,Humboldt State,PUNTING,,Team,NO,7
+13315050,11/9/2013,D-II,Simon Fraser,Humboldt State,PUNTING,,Team,YDS,283
+13315051,11/9/2013,D-II,Simon Fraser,Humboldt State,PUNTING,,Team,AVG,40.4
+13315052,11/9/2013,D-II,Simon Fraser,Humboldt State,PUNTING,,Team,LONG,48
+13315053,11/9/2013,D-II,Simon Fraser,Humboldt State,PUNT RETURNS,,Team,NO,1
+13315054,11/9/2013,D-II,Simon Fraser,Humboldt State,PUNT RETURNS,,Team,YDS,26
+13315055,11/9/2013,D-II,Simon Fraser,Humboldt State,PUNT RETURNS,,Team,AVG,26.0
+13315056,11/9/2013,D-II,Simon Fraser,Humboldt State,PUNT RETURNS,,Team,LONG,26
+13315057,11/9/2013,D-II,Simon Fraser,Humboldt State,KICK RETURNS,,Team,NO,1
+13315058,11/9/2013,D-II,Simon Fraser,Humboldt State,KICK RETURNS,,Team,YDS,99
+13315059,11/9/2013,D-II,Simon Fraser,Humboldt State,KICK RETURNS,,Team,AVG,99.0
+13315060,11/9/2013,D-II,Simon Fraser,Humboldt State,KICK RETURNS,,Team,LONG,99

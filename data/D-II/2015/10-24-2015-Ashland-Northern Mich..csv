@@ -1,0 +1,101 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+15080001,10/24/2015,D-II,Ashland,Northern Mich.,RUSHING,,Team,ATT,23
+15080002,10/24/2015,D-II,Ashland,Northern Mich.,RUSHING,,Team,YDS,162
+15080003,10/24/2015,D-II,Ashland,Northern Mich.,RUSHING,,Team,TD,2
+15080004,10/24/2015,D-II,Ashland,Northern Mich.,RUSHING,,Team,LONG,20
+15080005,10/24/2015,D-II,Ashland,Northern Mich.,PASSING,,Team,CP-ATT-INT,25-41-3
+15080006,10/24/2015,D-II,Ashland,Northern Mich.,PASSING,,Team,YDS,327
+15080007,10/24/2015,D-II,Ashland,Northern Mich.,PASSING,,Team,TD,2
+15080008,10/24/2015,D-II,Ashland,Northern Mich.,PASSING,,Team,LONG,53
+15080009,10/24/2015,D-II,Ashland,Northern Mich.,RECEIVING,,Team,REC,11
+15080010,10/24/2015,D-II,Ashland,Northern Mich.,RECEIVING,,Team,YDS,125
+15080011,10/24/2015,D-II,Ashland,Northern Mich.,RECEIVING,,Team,TD,1
+15080012,10/24/2015,D-II,Ashland,Northern Mich.,RECEIVING,,Team,LONG,39
+15080013,10/24/2015,D-II,Ashland,Northern Mich.,RECEIVING,S,Turner,REC,2
+15080014,10/24/2015,D-II,Ashland,Northern Mich.,RECEIVING,S,Turner,YDS,33
+15080015,10/24/2015,D-II,Ashland,Northern Mich.,RECEIVING,S,Turner,TD,0
+15080016,10/24/2015,D-II,Ashland,Northern Mich.,RECEIVING,S,Turner,LONG,21
+15080017,10/24/2015,D-II,Ashland,Northern Mich.,RECEIVING,,Team,REC,5
+15080018,10/24/2015,D-II,Ashland,Northern Mich.,RECEIVING,,Team,YDS,32
+15080019,10/24/2015,D-II,Ashland,Northern Mich.,RECEIVING,,Team,TD,0
+15080020,10/24/2015,D-II,Ashland,Northern Mich.,RECEIVING,,Team,LONG,13
+15080021,10/24/2015,D-II,Ashland,Northern Mich.,PUNTING,,Team,NO,3
+15080022,10/24/2015,D-II,Ashland,Northern Mich.,PUNTING,,Team,YDS,109
+15080023,10/24/2015,D-II,Ashland,Northern Mich.,PUNTING,,Team,AVG,36.3
+15080024,10/24/2015,D-II,Ashland,Northern Mich.,PUNTING,,Team,LONG,41
+15080025,10/24/2015,D-II,Ashland,Northern Mich.,PUNT RETURNS,,Team,NO,2
+15080026,10/24/2015,D-II,Ashland,Northern Mich.,PUNT RETURNS,,Team,YDS,14
+15080027,10/24/2015,D-II,Ashland,Northern Mich.,PUNT RETURNS,,Team,AVG,7.0
+15080028,10/24/2015,D-II,Ashland,Northern Mich.,PUNT RETURNS,,Team,LONG,9
+15080029,10/24/2015,D-II,Ashland,Northern Mich.,KICK RETURNS,,Team,NO,3
+15080030,10/24/2015,D-II,Ashland,Northern Mich.,KICK RETURNS,,Team,YDS,78
+15080031,10/24/2015,D-II,Ashland,Northern Mich.,KICK RETURNS,,Team,AVG,26.0
+15080032,10/24/2015,D-II,Ashland,Northern Mich.,KICK RETURNS,,Team,LONG,44
+15080033,10/24/2015,D-II,Northern Mich.,Ashland,RUSHING,Terrance,Dye,ATT,17
+15080034,10/24/2015,D-II,Northern Mich.,Ashland,RUSHING,Terrance,Dye,YDS,104
+15080035,10/24/2015,D-II,Northern Mich.,Ashland,RUSHING,Terrance,Dye,TD,1
+15080036,10/24/2015,D-II,Northern Mich.,Ashland,RUSHING,Terrance,Dye,LONG,22
+15080037,10/24/2015,D-II,Northern Mich.,Ashland,RUSHING,Jake,Mayon,ATT,4
+15080038,10/24/2015,D-II,Northern Mich.,Ashland,RUSHING,Jake,Mayon,YDS,27
+15080039,10/24/2015,D-II,Northern Mich.,Ashland,RUSHING,Jake,Mayon,TD,1
+15080040,10/24/2015,D-II,Northern Mich.,Ashland,RUSHING,Jake,Mayon,LONG,16
+15080041,10/24/2015,D-II,Northern Mich.,Ashland,RUSHING,Austin,Young,ATT,1
+15080042,10/24/2015,D-II,Northern Mich.,Ashland,RUSHING,Austin,Young,YDS,3
+15080043,10/24/2015,D-II,Northern Mich.,Ashland,RUSHING,Austin,Young,TD,0
+15080044,10/24/2015,D-II,Northern Mich.,Ashland,RUSHING,Austin,Young,LONG,3
+15080045,10/24/2015,D-II,Northern Mich.,Ashland,RUSHING,Aaron,Harris,ATT,1
+15080046,10/24/2015,D-II,Northern Mich.,Ashland,RUSHING,Aaron,Harris,YDS,-3
+15080047,10/24/2015,D-II,Northern Mich.,Ashland,RUSHING,Aaron,Harris,TD,0
+15080048,10/24/2015,D-II,Northern Mich.,Ashland,RUSHING,Aaron,Harris,LONG,0
+15080049,10/24/2015,D-II,Northern Mich.,Ashland,RUSHING,Shaye,Brown,ATT,1
+15080050,10/24/2015,D-II,Northern Mich.,Ashland,RUSHING,Shaye,Brown,YDS,-6
+15080051,10/24/2015,D-II,Northern Mich.,Ashland,RUSHING,Shaye,Brown,TD,0
+15080052,10/24/2015,D-II,Northern Mich.,Ashland,RUSHING,Shaye,Brown,LONG,0
+15080053,10/24/2015,D-II,Northern Mich.,Ashland,PASSING,Shaye,Brown,CP-ATT-INT,30-49-0
+15080054,10/24/2015,D-II,Northern Mich.,Ashland,PASSING,Shaye,Brown,YDS,371
+15080055,10/24/2015,D-II,Northern Mich.,Ashland,PASSING,Shaye,Brown,TD,3
+15080056,10/24/2015,D-II,Northern Mich.,Ashland,PASSING,Shaye,Brown,LONG,46
+15080057,10/24/2015,D-II,Northern Mich.,Ashland,RECEIVING,Paris,Woods,REC,4
+15080058,10/24/2015,D-II,Northern Mich.,Ashland,RECEIVING,Paris,Woods,YDS,125
+15080059,10/24/2015,D-II,Northern Mich.,Ashland,RECEIVING,Paris,Woods,TD,0
+15080060,10/24/2015,D-II,Northern Mich.,Ashland,RECEIVING,Paris,Woods,LONG,46
+15080061,10/24/2015,D-II,Northern Mich.,Ashland,RECEIVING,Keyondre,Craig,REC,8
+15080062,10/24/2015,D-II,Northern Mich.,Ashland,RECEIVING,Keyondre,Craig,YDS,92
+15080063,10/24/2015,D-II,Northern Mich.,Ashland,RECEIVING,Keyondre,Craig,TD,1
+15080064,10/24/2015,D-II,Northern Mich.,Ashland,RECEIVING,Keyondre,Craig,LONG,17
+15080065,10/24/2015,D-II,Northern Mich.,Ashland,RECEIVING,Trey,Hipke,REC,3
+15080066,10/24/2015,D-II,Northern Mich.,Ashland,RECEIVING,Trey,Hipke,YDS,60
+15080067,10/24/2015,D-II,Northern Mich.,Ashland,RECEIVING,Trey,Hipke,TD,0
+15080068,10/24/2015,D-II,Northern Mich.,Ashland,RECEIVING,Trey,Hipke,LONG,30
+15080069,10/24/2015,D-II,Northern Mich.,Ashland,RECEIVING,Austin,Young,REC,2
+15080070,10/24/2015,D-II,Northern Mich.,Ashland,RECEIVING,Austin,Young,YDS,42
+15080071,10/24/2015,D-II,Northern Mich.,Ashland,RECEIVING,Austin,Young,TD,1
+15080072,10/24/2015,D-II,Northern Mich.,Ashland,RECEIVING,Austin,Young,LONG,35
+15080073,10/24/2015,D-II,Northern Mich.,Ashland,RECEIVING,Marcus,Tucker,REC,9
+15080074,10/24/2015,D-II,Northern Mich.,Ashland,RECEIVING,Marcus,Tucker,YDS,40
+15080075,10/24/2015,D-II,Northern Mich.,Ashland,RECEIVING,Marcus,Tucker,TD,0
+15080076,10/24/2015,D-II,Northern Mich.,Ashland,RECEIVING,Marcus,Tucker,LONG,13
+15080077,10/24/2015,D-II,Northern Mich.,Ashland,RECEIVING,Edward,Christia,REC,2
+15080078,10/24/2015,D-II,Northern Mich.,Ashland,RECEIVING,Edward,Christia,YDS,8
+15080079,10/24/2015,D-II,Northern Mich.,Ashland,RECEIVING,Edward,Christia,TD,1
+15080080,10/24/2015,D-II,Northern Mich.,Ashland,RECEIVING,Edward,Christia,LONG,4
+15080081,10/24/2015,D-II,Northern Mich.,Ashland,RECEIVING,Jake,Mayon,REC,1
+15080082,10/24/2015,D-II,Northern Mich.,Ashland,RECEIVING,Jake,Mayon,YDS,6
+15080083,10/24/2015,D-II,Northern Mich.,Ashland,RECEIVING,Jake,Mayon,TD,0
+15080084,10/24/2015,D-II,Northern Mich.,Ashland,RECEIVING,Jake,Mayon,LONG,6
+15080085,10/24/2015,D-II,Northern Mich.,Ashland,RECEIVING,Terrance,Dye,REC,1
+15080086,10/24/2015,D-II,Northern Mich.,Ashland,RECEIVING,Terrance,Dye,YDS,-2
+15080087,10/24/2015,D-II,Northern Mich.,Ashland,RECEIVING,Terrance,Dye,TD,0
+15080088,10/24/2015,D-II,Northern Mich.,Ashland,RECEIVING,Terrance,Dye,LONG,0
+15080089,10/24/2015,D-II,Northern Mich.,Ashland,PUNTING,Robert,Salani,NO,4
+15080090,10/24/2015,D-II,Northern Mich.,Ashland,PUNTING,Robert,Salani,YDS,185
+15080091,10/24/2015,D-II,Northern Mich.,Ashland,PUNTING,Robert,Salani,AVG,46.2
+15080092,10/24/2015,D-II,Northern Mich.,Ashland,PUNTING,Robert,Salani,LONG,56
+15080093,10/24/2015,D-II,Northern Mich.,Ashland,PUNT RETURNS,Austin,Young,NO,1
+15080094,10/24/2015,D-II,Northern Mich.,Ashland,PUNT RETURNS,Austin,Young,YDS,27
+15080095,10/24/2015,D-II,Northern Mich.,Ashland,PUNT RETURNS,Austin,Young,AVG,27.0
+15080096,10/24/2015,D-II,Northern Mich.,Ashland,PUNT RETURNS,Austin,Young,LONG,27
+15080097,10/24/2015,D-II,Northern Mich.,Ashland,KICK RETURNS,Marcus,Tucker,NO,7
+15080098,10/24/2015,D-II,Northern Mich.,Ashland,KICK RETURNS,Marcus,Tucker,YDS,178
+15080099,10/24/2015,D-II,Northern Mich.,Ashland,KICK RETURNS,Marcus,Tucker,AVG,25.4
+15080100,10/24/2015,D-II,Northern Mich.,Ashland,KICK RETURNS,Marcus,Tucker,LONG,40

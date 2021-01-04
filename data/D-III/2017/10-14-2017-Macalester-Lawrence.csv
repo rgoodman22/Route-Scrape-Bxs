@@ -1,0 +1,145 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+25110001,10/14/2017,D-III,Macalester,Lawrence,RUSHING,Jeremy,Stephan,ATT,17
+25110002,10/14/2017,D-III,Macalester,Lawrence,RUSHING,Jeremy,Stephan,YDS,75
+25110003,10/14/2017,D-III,Macalester,Lawrence,RUSHING,Jeremy,Stephan,TD,0
+25110004,10/14/2017,D-III,Macalester,Lawrence,RUSHING,Jeremy,Stephan,LONG,23
+25110005,10/14/2017,D-III,Macalester,Lawrence,RUSHING,Jacob,Jones,ATT,11
+25110006,10/14/2017,D-III,Macalester,Lawrence,RUSHING,Jacob,Jones,YDS,49
+25110007,10/14/2017,D-III,Macalester,Lawrence,RUSHING,Jacob,Jones,TD,0
+25110008,10/14/2017,D-III,Macalester,Lawrence,RUSHING,Jacob,Jones,LONG,14
+25110009,10/14/2017,D-III,Macalester,Lawrence,RUSHING,Christian,Adams,ATT,3
+25110010,10/14/2017,D-III,Macalester,Lawrence,RUSHING,Christian,Adams,YDS,0
+25110011,10/14/2017,D-III,Macalester,Lawrence,RUSHING,Christian,Adams,TD,1
+25110012,10/14/2017,D-III,Macalester,Lawrence,RUSHING,Christian,Adams,LONG,7
+25110013,10/14/2017,D-III,Macalester,Lawrence,RUSHING,,Team,ATT,3
+25110014,10/14/2017,D-III,Macalester,Lawrence,RUSHING,,Team,YDS,-5
+25110015,10/14/2017,D-III,Macalester,Lawrence,RUSHING,,Team,TD,0
+25110016,10/14/2017,D-III,Macalester,Lawrence,RUSHING,,Team,LONG,0
+25110017,10/14/2017,D-III,Macalester,Lawrence,RUSHING,Johnny,Bice,ATT,1
+25110018,10/14/2017,D-III,Macalester,Lawrence,RUSHING,Johnny,Bice,YDS,-11
+25110019,10/14/2017,D-III,Macalester,Lawrence,RUSHING,Johnny,Bice,TD,0
+25110020,10/14/2017,D-III,Macalester,Lawrence,RUSHING,Johnny,Bice,LONG,0
+25110021,10/14/2017,D-III,Macalester,Lawrence,PASSING,Christian,Adams,CP-ATT-INT,18-31-1
+25110022,10/14/2017,D-III,Macalester,Lawrence,PASSING,Christian,Adams,YDS,292
+25110023,10/14/2017,D-III,Macalester,Lawrence,PASSING,Christian,Adams,TD,2
+25110024,10/14/2017,D-III,Macalester,Lawrence,PASSING,Christian,Adams,LONG,41
+25110025,10/14/2017,D-III,Macalester,Lawrence,PASSING,Johnny,Bice,CP-ATT-INT,0-0-0
+25110026,10/14/2017,D-III,Macalester,Lawrence,PASSING,Johnny,Bice,YDS,0
+25110027,10/14/2017,D-III,Macalester,Lawrence,PASSING,Johnny,Bice,TD,0
+25110028,10/14/2017,D-III,Macalester,Lawrence,PASSING,Johnny,Bice,LONG,0
+25110029,10/14/2017,D-III,Macalester,Lawrence,RECEIVING,Alec,Beatty,REC,10
+25110030,10/14/2017,D-III,Macalester,Lawrence,RECEIVING,Alec,Beatty,YDS,192
+25110031,10/14/2017,D-III,Macalester,Lawrence,RECEIVING,Alec,Beatty,TD,2
+25110032,10/14/2017,D-III,Macalester,Lawrence,RECEIVING,Alec,Beatty,LONG,41
+25110033,10/14/2017,D-III,Macalester,Lawrence,RECEIVING,Jonathan,Knee,REC,5
+25110034,10/14/2017,D-III,Macalester,Lawrence,RECEIVING,Jonathan,Knee,YDS,68
+25110035,10/14/2017,D-III,Macalester,Lawrence,RECEIVING,Jonathan,Knee,TD,0
+25110036,10/14/2017,D-III,Macalester,Lawrence,RECEIVING,Jonathan,Knee,LONG,34
+25110037,10/14/2017,D-III,Macalester,Lawrence,RECEIVING,Jack,Streibich,REC,1
+25110038,10/14/2017,D-III,Macalester,Lawrence,RECEIVING,Jack,Streibich,YDS,20
+25110039,10/14/2017,D-III,Macalester,Lawrence,RECEIVING,Jack,Streibich,TD,0
+25110040,10/14/2017,D-III,Macalester,Lawrence,RECEIVING,Jack,Streibich,LONG,20
+25110041,10/14/2017,D-III,Macalester,Lawrence,RECEIVING,Jacob,Jones,REC,1
+25110042,10/14/2017,D-III,Macalester,Lawrence,RECEIVING,Jacob,Jones,YDS,13
+25110043,10/14/2017,D-III,Macalester,Lawrence,RECEIVING,Jacob,Jones,TD,0
+25110044,10/14/2017,D-III,Macalester,Lawrence,RECEIVING,Jacob,Jones,LONG,13
+25110045,10/14/2017,D-III,Macalester,Lawrence,RECEIVING,Jeremy,Stephan,REC,1
+25110046,10/14/2017,D-III,Macalester,Lawrence,RECEIVING,Jeremy,Stephan,YDS,-1
+25110047,10/14/2017,D-III,Macalester,Lawrence,RECEIVING,Jeremy,Stephan,TD,0
+25110048,10/14/2017,D-III,Macalester,Lawrence,RECEIVING,Jeremy,Stephan,LONG,0
+25110049,10/14/2017,D-III,Macalester,Lawrence,PUNTING,Matt,Glasenapp,NO,3
+25110050,10/14/2017,D-III,Macalester,Lawrence,PUNTING,Matt,Glasenapp,YDS,127
+25110051,10/14/2017,D-III,Macalester,Lawrence,PUNTING,Matt,Glasenapp,AVG,42.3
+25110052,10/14/2017,D-III,Macalester,Lawrence,PUNTING,Matt,Glasenapp,LONG,47
+25110053,10/14/2017,D-III,Macalester,Lawrence,PUNT RETURNS,Phil,Wettersten,NO,1
+25110054,10/14/2017,D-III,Macalester,Lawrence,PUNT RETURNS,Phil,Wettersten,YDS,0
+25110055,10/14/2017,D-III,Macalester,Lawrence,PUNT RETURNS,Phil,Wettersten,AVG,0.0
+25110056,10/14/2017,D-III,Macalester,Lawrence,PUNT RETURNS,Phil,Wettersten,LONG,0
+25110057,10/14/2017,D-III,Macalester,Lawrence,KICK RETURNS,Jacob,Jones,NO,1
+25110058,10/14/2017,D-III,Macalester,Lawrence,KICK RETURNS,Jacob,Jones,YDS,12
+25110059,10/14/2017,D-III,Macalester,Lawrence,KICK RETURNS,Jacob,Jones,AVG,12.0
+25110060,10/14/2017,D-III,Macalester,Lawrence,KICK RETURNS,Jacob,Jones,LONG,12
+25110061,10/14/2017,D-III,Macalester,Lawrence,KICK RETURNS,Jonathan,Knee,NO,2
+25110062,10/14/2017,D-III,Macalester,Lawrence,KICK RETURNS,Jonathan,Knee,YDS,66
+25110063,10/14/2017,D-III,Macalester,Lawrence,KICK RETURNS,Jonathan,Knee,AVG,33.0
+25110064,10/14/2017,D-III,Macalester,Lawrence,KICK RETURNS,Jonathan,Knee,LONG,27
+25110065,10/14/2017,D-III,Lawrence,Macalester,RUSHING,Ethan,Simmons,ATT,10
+25110066,10/14/2017,D-III,Lawrence,Macalester,RUSHING,Ethan,Simmons,YDS,91
+25110067,10/14/2017,D-III,Lawrence,Macalester,RUSHING,Ethan,Simmons,TD,1
+25110068,10/14/2017,D-III,Lawrence,Macalester,RUSHING,Ethan,Simmons,LONG,21
+25110069,10/14/2017,D-III,Lawrence,Macalester,RUSHING,Wasonu,Allen,ATT,9
+25110070,10/14/2017,D-III,Lawrence,Macalester,RUSHING,Wasonu,Allen,YDS,62
+25110071,10/14/2017,D-III,Lawrence,Macalester,RUSHING,Wasonu,Allen,TD,0
+25110072,10/14/2017,D-III,Lawrence,Macalester,RUSHING,Wasonu,Allen,LONG,26
+25110073,10/14/2017,D-III,Lawrence,Macalester,RUSHING,D'andre,Weaver,ATT,7
+25110074,10/14/2017,D-III,Lawrence,Macalester,RUSHING,D'andre,Weaver,YDS,36
+25110075,10/14/2017,D-III,Lawrence,Macalester,RUSHING,D'andre,Weaver,TD,0
+25110076,10/14/2017,D-III,Lawrence,Macalester,RUSHING,D'andre,Weaver,LONG,12
+25110077,10/14/2017,D-III,Lawrence,Macalester,RUSHING,Caleb,Catt,ATT,4
+25110078,10/14/2017,D-III,Lawrence,Macalester,RUSHING,Caleb,Catt,YDS,10
+25110079,10/14/2017,D-III,Lawrence,Macalester,RUSHING,Caleb,Catt,TD,0
+25110080,10/14/2017,D-III,Lawrence,Macalester,RUSHING,Caleb,Catt,LONG,6
+25110081,10/14/2017,D-III,Lawrence,Macalester,RUSHING,Michael,Thomas,ATT,4
+25110082,10/14/2017,D-III,Lawrence,Macalester,RUSHING,Michael,Thomas,YDS,4
+25110083,10/14/2017,D-III,Lawrence,Macalester,RUSHING,Michael,Thomas,TD,0
+25110084,10/14/2017,D-III,Lawrence,Macalester,RUSHING,Michael,Thomas,LONG,3
+25110085,10/14/2017,D-III,Lawrence,Macalester,RUSHING,Peter,Bukszar,ATT,1
+25110086,10/14/2017,D-III,Lawrence,Macalester,RUSHING,Peter,Bukszar,YDS,3
+25110087,10/14/2017,D-III,Lawrence,Macalester,RUSHING,Peter,Bukszar,TD,0
+25110088,10/14/2017,D-III,Lawrence,Macalester,RUSHING,Peter,Bukszar,LONG,3
+25110089,10/14/2017,D-III,Lawrence,Macalester,RUSHING,Trevor,Spina,ATT,1
+25110090,10/14/2017,D-III,Lawrence,Macalester,RUSHING,Trevor,Spina,YDS,-1
+25110091,10/14/2017,D-III,Lawrence,Macalester,RUSHING,Trevor,Spina,TD,0
+25110092,10/14/2017,D-III,Lawrence,Macalester,RUSHING,Trevor,Spina,LONG,0
+25110093,10/14/2017,D-III,Lawrence,Macalester,RUSHING,Billy,Wallisch,ATT,1
+25110094,10/14/2017,D-III,Lawrence,Macalester,RUSHING,Billy,Wallisch,YDS,-4
+25110095,10/14/2017,D-III,Lawrence,Macalester,RUSHING,Billy,Wallisch,TD,0
+25110096,10/14/2017,D-III,Lawrence,Macalester,RUSHING,Billy,Wallisch,LONG,0
+25110097,10/14/2017,D-III,Lawrence,Macalester,RUSHING,Jack,Marinich,ATT,2
+25110098,10/14/2017,D-III,Lawrence,Macalester,RUSHING,Jack,Marinich,YDS,-10
+25110099,10/14/2017,D-III,Lawrence,Macalester,RUSHING,Jack,Marinich,TD,0
+25110100,10/14/2017,D-III,Lawrence,Macalester,RUSHING,Jack,Marinich,LONG,1
+25110101,10/14/2017,D-III,Lawrence,Macalester,PASSING,D'andre,Weaver,CP-ATT-INT,11-26-0
+25110102,10/14/2017,D-III,Lawrence,Macalester,PASSING,D'andre,Weaver,YDS,181
+25110103,10/14/2017,D-III,Lawrence,Macalester,PASSING,D'andre,Weaver,TD,1
+25110104,10/14/2017,D-III,Lawrence,Macalester,PASSING,D'andre,Weaver,LONG,91
+25110105,10/14/2017,D-III,Lawrence,Macalester,RECEIVING,William,Nichols,REC,1
+25110106,10/14/2017,D-III,Lawrence,Macalester,RECEIVING,William,Nichols,YDS,91
+25110107,10/14/2017,D-III,Lawrence,Macalester,RECEIVING,William,Nichols,TD,1
+25110108,10/14/2017,D-III,Lawrence,Macalester,RECEIVING,William,Nichols,LONG,91
+25110109,10/14/2017,D-III,Lawrence,Macalester,RECEIVING,Nick,Pastrone,REC,6
+25110110,10/14/2017,D-III,Lawrence,Macalester,RECEIVING,Nick,Pastrone,YDS,61
+25110111,10/14/2017,D-III,Lawrence,Macalester,RECEIVING,Nick,Pastrone,TD,0
+25110112,10/14/2017,D-III,Lawrence,Macalester,RECEIVING,Nick,Pastrone,LONG,16
+25110113,10/14/2017,D-III,Lawrence,Macalester,RECEIVING,Trevor,Spina,REC,1
+25110114,10/14/2017,D-III,Lawrence,Macalester,RECEIVING,Trevor,Spina,YDS,15
+25110115,10/14/2017,D-III,Lawrence,Macalester,RECEIVING,Trevor,Spina,TD,0
+25110116,10/14/2017,D-III,Lawrence,Macalester,RECEIVING,Trevor,Spina,LONG,15
+25110117,10/14/2017,D-III,Lawrence,Macalester,RECEIVING,Cole,Erickson,REC,2
+25110118,10/14/2017,D-III,Lawrence,Macalester,RECEIVING,Cole,Erickson,YDS,9
+25110119,10/14/2017,D-III,Lawrence,Macalester,RECEIVING,Cole,Erickson,TD,0
+25110120,10/14/2017,D-III,Lawrence,Macalester,RECEIVING,Cole,Erickson,LONG,5
+25110121,10/14/2017,D-III,Lawrence,Macalester,RECEIVING,Wasonu,Allen,REC,1
+25110122,10/14/2017,D-III,Lawrence,Macalester,RECEIVING,Wasonu,Allen,YDS,5
+25110123,10/14/2017,D-III,Lawrence,Macalester,RECEIVING,Wasonu,Allen,TD,0
+25110124,10/14/2017,D-III,Lawrence,Macalester,RECEIVING,Wasonu,Allen,LONG,5
+25110125,10/14/2017,D-III,Lawrence,Macalester,PUNTING,Dan,Rothbauer,NO,7
+25110126,10/14/2017,D-III,Lawrence,Macalester,PUNTING,Dan,Rothbauer,YDS,209
+25110127,10/14/2017,D-III,Lawrence,Macalester,PUNTING,Dan,Rothbauer,AVG,29.9
+25110128,10/14/2017,D-III,Lawrence,Macalester,PUNTING,Dan,Rothbauer,LONG,57
+25110129,10/14/2017,D-III,Lawrence,Macalester,PUNT RETURNS,Terrell,Myers,NO,1
+25110130,10/14/2017,D-III,Lawrence,Macalester,PUNT RETURNS,Terrell,Myers,YDS,-6
+25110131,10/14/2017,D-III,Lawrence,Macalester,PUNT RETURNS,Terrell,Myers,AVG,-6.0
+25110132,10/14/2017,D-III,Lawrence,Macalester,PUNT RETURNS,Terrell,Myers,LONG,0
+25110133,10/14/2017,D-III,Lawrence,Macalester,KICK RETURNS,Wasonu,Allen,NO,1
+25110134,10/14/2017,D-III,Lawrence,Macalester,KICK RETURNS,Wasonu,Allen,YDS,16
+25110135,10/14/2017,D-III,Lawrence,Macalester,KICK RETURNS,Wasonu,Allen,AVG,16.0
+25110136,10/14/2017,D-III,Lawrence,Macalester,KICK RETURNS,Wasonu,Allen,LONG,16
+25110137,10/14/2017,D-III,Lawrence,Macalester,KICK RETURNS,Terrell,Myers,NO,1
+25110138,10/14/2017,D-III,Lawrence,Macalester,KICK RETURNS,Terrell,Myers,YDS,12
+25110139,10/14/2017,D-III,Lawrence,Macalester,KICK RETURNS,Terrell,Myers,AVG,12.0
+25110140,10/14/2017,D-III,Lawrence,Macalester,KICK RETURNS,Terrell,Myers,LONG,12
+25110141,10/14/2017,D-III,Lawrence,Macalester,KICK RETURNS,Nick,Pastrone,NO,1
+25110142,10/14/2017,D-III,Lawrence,Macalester,KICK RETURNS,Nick,Pastrone,YDS,15
+25110143,10/14/2017,D-III,Lawrence,Macalester,KICK RETURNS,Nick,Pastrone,AVG,15.0
+25110144,10/14/2017,D-III,Lawrence,Macalester,KICK RETURNS,Nick,Pastrone,LONG,15

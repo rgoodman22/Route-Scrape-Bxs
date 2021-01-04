@@ -1,0 +1,93 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+20758001,9/20/2014,D-III,Alfred,Buffalo State,RUSHING,T,Johnson,ATT,25
+20758002,9/20/2014,D-III,Alfred,Buffalo State,RUSHING,T,Johnson,YDS,111
+20758003,9/20/2014,D-III,Alfred,Buffalo State,RUSHING,T,Johnson,TD,1
+20758004,9/20/2014,D-III,Alfred,Buffalo State,RUSHING,T,Johnson,LONG,41
+20758005,9/20/2014,D-III,Alfred,Buffalo State,RUSHING,W,Mcfadden,ATT,14
+20758006,9/20/2014,D-III,Alfred,Buffalo State,RUSHING,W,Mcfadden,YDS,36
+20758007,9/20/2014,D-III,Alfred,Buffalo State,RUSHING,W,Mcfadden,TD,0
+20758008,9/20/2014,D-III,Alfred,Buffalo State,RUSHING,W,Mcfadden,LONG,8
+20758009,9/20/2014,D-III,Alfred,Buffalo State,RUSHING,R,Etienne,ATT,1
+20758010,9/20/2014,D-III,Alfred,Buffalo State,RUSHING,R,Etienne,YDS,2
+20758011,9/20/2014,D-III,Alfred,Buffalo State,RUSHING,R,Etienne,TD,0
+20758012,9/20/2014,D-III,Alfred,Buffalo State,RUSHING,R,Etienne,LONG,2
+20758013,9/20/2014,D-III,Alfred,Buffalo State,RUSHING,,Team,ATT,1
+20758014,9/20/2014,D-III,Alfred,Buffalo State,RUSHING,,Team,YDS,-1
+20758015,9/20/2014,D-III,Alfred,Buffalo State,RUSHING,,Team,TD,0
+20758016,9/20/2014,D-III,Alfred,Buffalo State,RUSHING,,Team,LONG,0
+20758017,9/20/2014,D-III,Alfred,Buffalo State,RUSHING,C,Bright,ATT,3
+20758018,9/20/2014,D-III,Alfred,Buffalo State,RUSHING,C,Bright,YDS,-15
+20758019,9/20/2014,D-III,Alfred,Buffalo State,RUSHING,C,Bright,TD,0
+20758020,9/20/2014,D-III,Alfred,Buffalo State,RUSHING,C,Bright,LONG,2
+20758021,9/20/2014,D-III,Alfred,Buffalo State,PASSING,T,Johnson,CP-ATT-INT,17-27-2
+20758022,9/20/2014,D-III,Alfred,Buffalo State,PASSING,T,Johnson,YDS,163
+20758023,9/20/2014,D-III,Alfred,Buffalo State,PASSING,T,Johnson,TD,2
+20758024,9/20/2014,D-III,Alfred,Buffalo State,PASSING,T,Johnson,LONG,25
+20758025,9/20/2014,D-III,Alfred,Buffalo State,RECEIVING,I,Young,REC,7
+20758026,9/20/2014,D-III,Alfred,Buffalo State,RECEIVING,I,Young,YDS,65
+20758027,9/20/2014,D-III,Alfred,Buffalo State,RECEIVING,I,Young,TD,0
+20758028,9/20/2014,D-III,Alfred,Buffalo State,RECEIVING,I,Young,LONG,25
+20758029,9/20/2014,D-III,Alfred,Buffalo State,RECEIVING,B,Buisch,REC,4
+20758030,9/20/2014,D-III,Alfred,Buffalo State,RECEIVING,B,Buisch,YDS,43
+20758031,9/20/2014,D-III,Alfred,Buffalo State,RECEIVING,B,Buisch,TD,2
+20758032,9/20/2014,D-III,Alfred,Buffalo State,RECEIVING,B,Buisch,LONG,13
+20758033,9/20/2014,D-III,Alfred,Buffalo State,RECEIVING,R,Etienne,REC,3
+20758034,9/20/2014,D-III,Alfred,Buffalo State,RECEIVING,R,Etienne,YDS,35
+20758035,9/20/2014,D-III,Alfred,Buffalo State,RECEIVING,R,Etienne,TD,0
+20758036,9/20/2014,D-III,Alfred,Buffalo State,RECEIVING,R,Etienne,LONG,15
+20758037,9/20/2014,D-III,Alfred,Buffalo State,RECEIVING,C,Bright,REC,3
+20758038,9/20/2014,D-III,Alfred,Buffalo State,RECEIVING,C,Bright,YDS,20
+20758039,9/20/2014,D-III,Alfred,Buffalo State,RECEIVING,C,Bright,TD,0
+20758040,9/20/2014,D-III,Alfred,Buffalo State,RECEIVING,C,Bright,LONG,17
+20758041,9/20/2014,D-III,Alfred,Buffalo State,PUNTING,Joe,Mcmahon,NO,3
+20758042,9/20/2014,D-III,Alfred,Buffalo State,PUNTING,Joe,Mcmahon,YDS,90
+20758043,9/20/2014,D-III,Alfred,Buffalo State,PUNTING,Joe,Mcmahon,AVG,30.0
+20758044,9/20/2014,D-III,Alfred,Buffalo State,PUNTING,Joe,Mcmahon,LONG,57
+20758045,9/20/2014,D-III,Alfred,Buffalo State,PUNTING,R,Mcdonnell,NO,1
+20758046,9/20/2014,D-III,Alfred,Buffalo State,PUNTING,R,Mcdonnell,YDS,16
+20758047,9/20/2014,D-III,Alfred,Buffalo State,PUNTING,R,Mcdonnell,AVG,16.0
+20758048,9/20/2014,D-III,Alfred,Buffalo State,PUNTING,R,Mcdonnell,LONG,16
+20758049,9/20/2014,D-III,Buffalo State,Alfred,RUSHING,Rich,Pete,ATT,22
+20758050,9/20/2014,D-III,Buffalo State,Alfred,RUSHING,Rich,Pete,YDS,116
+20758051,9/20/2014,D-III,Buffalo State,Alfred,RUSHING,Rich,Pete,TD,0
+20758052,9/20/2014,D-III,Buffalo State,Alfred,RUSHING,Rich,Pete,LONG,33
+20758053,9/20/2014,D-III,Buffalo State,Alfred,RUSHING,Kyle,Hoppy,ATT,6
+20758054,9/20/2014,D-III,Buffalo State,Alfred,RUSHING,Kyle,Hoppy,YDS,34
+20758055,9/20/2014,D-III,Buffalo State,Alfred,RUSHING,Kyle,Hoppy,TD,2
+20758056,9/20/2014,D-III,Buffalo State,Alfred,RUSHING,Kyle,Hoppy,LONG,37
+20758057,9/20/2014,D-III,Buffalo State,Alfred,PASSING,Kyle,Hoppy,CP-ATT-INT,8-27-2
+20758058,9/20/2014,D-III,Buffalo State,Alfred,PASSING,Kyle,Hoppy,YDS,138
+20758059,9/20/2014,D-III,Buffalo State,Alfred,PASSING,Kyle,Hoppy,TD,1
+20758060,9/20/2014,D-III,Buffalo State,Alfred,PASSING,Kyle,Hoppy,LONG,34
+20758061,9/20/2014,D-III,Buffalo State,Alfred,RECEIVING,Mike,Doherty,REC,4
+20758062,9/20/2014,D-III,Buffalo State,Alfred,RECEIVING,Mike,Doherty,YDS,64
+20758063,9/20/2014,D-III,Buffalo State,Alfred,RECEIVING,Mike,Doherty,TD,0
+20758064,9/20/2014,D-III,Buffalo State,Alfred,RECEIVING,Mike,Doherty,LONG,28
+20758065,9/20/2014,D-III,Buffalo State,Alfred,RECEIVING,Ryan,Carney,REC,2
+20758066,9/20/2014,D-III,Buffalo State,Alfred,RECEIVING,Ryan,Carney,YDS,30
+20758067,9/20/2014,D-III,Buffalo State,Alfred,RECEIVING,Ryan,Carney,TD,1
+20758068,9/20/2014,D-III,Buffalo State,Alfred,RECEIVING,Ryan,Carney,LONG,34
+20758069,9/20/2014,D-III,Buffalo State,Alfred,RECEIVING,Billy,Joiner,REC,1
+20758070,9/20/2014,D-III,Buffalo State,Alfred,RECEIVING,Billy,Joiner,YDS,28
+20758071,9/20/2014,D-III,Buffalo State,Alfred,RECEIVING,Billy,Joiner,TD,0
+20758072,9/20/2014,D-III,Buffalo State,Alfred,RECEIVING,Billy,Joiner,LONG,28
+20758073,9/20/2014,D-III,Buffalo State,Alfred,RECEIVING,Rich,Pete,REC,1
+20758074,9/20/2014,D-III,Buffalo State,Alfred,RECEIVING,Rich,Pete,YDS,16
+20758075,9/20/2014,D-III,Buffalo State,Alfred,RECEIVING,Rich,Pete,TD,0
+20758076,9/20/2014,D-III,Buffalo State,Alfred,RECEIVING,Rich,Pete,LONG,16
+20758077,9/20/2014,D-III,Buffalo State,Alfred,PUNTING,Joe,Going,NO,2
+20758078,9/20/2014,D-III,Buffalo State,Alfred,PUNTING,Joe,Going,YDS,69
+20758079,9/20/2014,D-III,Buffalo State,Alfred,PUNTING,Joe,Going,AVG,34.5
+20758080,9/20/2014,D-III,Buffalo State,Alfred,PUNTING,Joe,Going,LONG,39
+20758081,9/20/2014,D-III,Buffalo State,Alfred,PUNTING,,Team,NO,1
+20758082,9/20/2014,D-III,Buffalo State,Alfred,PUNTING,,Team,YDS,14
+20758083,9/20/2014,D-III,Buffalo State,Alfred,PUNTING,,Team,AVG,14.0
+20758084,9/20/2014,D-III,Buffalo State,Alfred,PUNTING,,Team,LONG,14
+20758085,9/20/2014,D-III,Buffalo State,Alfred,KICK RETURNS,Mike,Doherty,NO,1
+20758086,9/20/2014,D-III,Buffalo State,Alfred,KICK RETURNS,Mike,Doherty,YDS,15
+20758087,9/20/2014,D-III,Buffalo State,Alfred,KICK RETURNS,Mike,Doherty,AVG,15.0
+20758088,9/20/2014,D-III,Buffalo State,Alfred,KICK RETURNS,Mike,Doherty,LONG,15
+20758089,9/20/2014,D-III,Buffalo State,Alfred,KICK RETURNS,Scott,Koen,NO,1
+20758090,9/20/2014,D-III,Buffalo State,Alfred,KICK RETURNS,Scott,Koen,YDS,1
+20758091,9/20/2014,D-III,Buffalo State,Alfred,KICK RETURNS,Scott,Koen,AVG,1.0
+20758092,9/20/2014,D-III,Buffalo State,Alfred,KICK RETURNS,Scott,Koen,LONG,1

@@ -1,0 +1,161 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+24696001,9/23/2017,D-III,Lake Forest,Lawrence,RUSHING,Joey,Valdivia,ATT,30
+24696002,9/23/2017,D-III,Lake Forest,Lawrence,RUSHING,Joey,Valdivia,YDS,268
+24696003,9/23/2017,D-III,Lake Forest,Lawrence,RUSHING,Joey,Valdivia,TD,5
+24696004,9/23/2017,D-III,Lake Forest,Lawrence,RUSHING,Joey,Valdivia,LONG,61
+24696005,9/23/2017,D-III,Lake Forest,Lawrence,RUSHING,Jagan,Cleary,ATT,4
+24696006,9/23/2017,D-III,Lake Forest,Lawrence,RUSHING,Jagan,Cleary,YDS,29
+24696007,9/23/2017,D-III,Lake Forest,Lawrence,RUSHING,Jagan,Cleary,TD,0
+24696008,9/23/2017,D-III,Lake Forest,Lawrence,RUSHING,Jagan,Cleary,LONG,12
+24696009,9/23/2017,D-III,Lake Forest,Lawrence,RUSHING,Alex,Adams,ATT,6
+24696010,9/23/2017,D-III,Lake Forest,Lawrence,RUSHING,Alex,Adams,YDS,23
+24696011,9/23/2017,D-III,Lake Forest,Lawrence,RUSHING,Alex,Adams,TD,0
+24696012,9/23/2017,D-III,Lake Forest,Lawrence,RUSHING,Alex,Adams,LONG,8
+24696013,9/23/2017,D-III,Lake Forest,Lawrence,RUSHING,,Team,ATT,1
+24696014,9/23/2017,D-III,Lake Forest,Lawrence,RUSHING,,Team,YDS,0
+24696015,9/23/2017,D-III,Lake Forest,Lawrence,RUSHING,,Team,TD,0
+24696016,9/23/2017,D-III,Lake Forest,Lawrence,RUSHING,,Team,LONG,0
+24696017,9/23/2017,D-III,Lake Forest,Lawrence,PASSING,Jagan,Cleary,CP-ATT-INT,23-26-0
+24696018,9/23/2017,D-III,Lake Forest,Lawrence,PASSING,Jagan,Cleary,YDS,303
+24696019,9/23/2017,D-III,Lake Forest,Lawrence,PASSING,Jagan,Cleary,TD,1
+24696020,9/23/2017,D-III,Lake Forest,Lawrence,PASSING,Jagan,Cleary,LONG,62
+24696021,9/23/2017,D-III,Lake Forest,Lawrence,PASSING,Joey,Valdivia,CP-ATT-INT,0-1-0
+24696022,9/23/2017,D-III,Lake Forest,Lawrence,PASSING,Joey,Valdivia,YDS,0
+24696023,9/23/2017,D-III,Lake Forest,Lawrence,PASSING,Joey,Valdivia,TD,0
+24696024,9/23/2017,D-III,Lake Forest,Lawrence,PASSING,Joey,Valdivia,LONG,0
+24696025,9/23/2017,D-III,Lake Forest,Lawrence,RECEIVING,Chris,Edomwande,REC,8
+24696026,9/23/2017,D-III,Lake Forest,Lawrence,RECEIVING,Chris,Edomwande,YDS,163
+24696027,9/23/2017,D-III,Lake Forest,Lawrence,RECEIVING,Chris,Edomwande,TD,1
+24696028,9/23/2017,D-III,Lake Forest,Lawrence,RECEIVING,Chris,Edomwande,LONG,62
+24696029,9/23/2017,D-III,Lake Forest,Lawrence,RECEIVING,I,Barthelmess,REC,8
+24696030,9/23/2017,D-III,Lake Forest,Lawrence,RECEIVING,I,Barthelmess,YDS,105
+24696031,9/23/2017,D-III,Lake Forest,Lawrence,RECEIVING,I,Barthelmess,TD,0
+24696032,9/23/2017,D-III,Lake Forest,Lawrence,RECEIVING,I,Barthelmess,LONG,37
+24696033,9/23/2017,D-III,Lake Forest,Lawrence,RECEIVING,Stanford,Ellis,REC,1
+24696034,9/23/2017,D-III,Lake Forest,Lawrence,RECEIVING,Stanford,Ellis,YDS,15
+24696035,9/23/2017,D-III,Lake Forest,Lawrence,RECEIVING,Stanford,Ellis,TD,0
+24696036,9/23/2017,D-III,Lake Forest,Lawrence,RECEIVING,Stanford,Ellis,LONG,15
+24696037,9/23/2017,D-III,Lake Forest,Lawrence,RECEIVING,Chase,Allen,REC,2
+24696038,9/23/2017,D-III,Lake Forest,Lawrence,RECEIVING,Chase,Allen,YDS,12
+24696039,9/23/2017,D-III,Lake Forest,Lawrence,RECEIVING,Chase,Allen,TD,0
+24696040,9/23/2017,D-III,Lake Forest,Lawrence,RECEIVING,Chase,Allen,LONG,10
+24696041,9/23/2017,D-III,Lake Forest,Lawrence,RECEIVING,Andrew,Shweky,REC,1
+24696042,9/23/2017,D-III,Lake Forest,Lawrence,RECEIVING,Andrew,Shweky,YDS,9
+24696043,9/23/2017,D-III,Lake Forest,Lawrence,RECEIVING,Andrew,Shweky,TD,0
+24696044,9/23/2017,D-III,Lake Forest,Lawrence,RECEIVING,Andrew,Shweky,LONG,9
+24696045,9/23/2017,D-III,Lake Forest,Lawrence,RECEIVING,Noah,Recker,REC,1
+24696046,9/23/2017,D-III,Lake Forest,Lawrence,RECEIVING,Noah,Recker,YDS,3
+24696047,9/23/2017,D-III,Lake Forest,Lawrence,RECEIVING,Noah,Recker,TD,0
+24696048,9/23/2017,D-III,Lake Forest,Lawrence,RECEIVING,Noah,Recker,LONG,3
+24696049,9/23/2017,D-III,Lake Forest,Lawrence,RECEIVING,Joey,Valdivia,REC,2
+24696050,9/23/2017,D-III,Lake Forest,Lawrence,RECEIVING,Joey,Valdivia,YDS,-4
+24696051,9/23/2017,D-III,Lake Forest,Lawrence,RECEIVING,Joey,Valdivia,TD,0
+24696052,9/23/2017,D-III,Lake Forest,Lawrence,RECEIVING,Joey,Valdivia,LONG,1
+24696053,9/23/2017,D-III,Lake Forest,Lawrence,PUNTING,Michael,Bounds,NO,1
+24696054,9/23/2017,D-III,Lake Forest,Lawrence,PUNTING,Michael,Bounds,YDS,38
+24696055,9/23/2017,D-III,Lake Forest,Lawrence,PUNTING,Michael,Bounds,AVG,38.0
+24696056,9/23/2017,D-III,Lake Forest,Lawrence,PUNTING,Michael,Bounds,LONG,38
+24696057,9/23/2017,D-III,Lake Forest,Lawrence,PUNT RETURNS,Trevor,Bain,NO,1
+24696058,9/23/2017,D-III,Lake Forest,Lawrence,PUNT RETURNS,Trevor,Bain,YDS,14
+24696059,9/23/2017,D-III,Lake Forest,Lawrence,PUNT RETURNS,Trevor,Bain,AVG,14.0
+24696060,9/23/2017,D-III,Lake Forest,Lawrence,PUNT RETURNS,Trevor,Bain,LONG,14
+24696061,9/23/2017,D-III,Lake Forest,Lawrence,KICK RETURNS,Ryan,Barry,NO,3
+24696062,9/23/2017,D-III,Lake Forest,Lawrence,KICK RETURNS,Ryan,Barry,YDS,77
+24696063,9/23/2017,D-III,Lake Forest,Lawrence,KICK RETURNS,Ryan,Barry,AVG,25.7
+24696064,9/23/2017,D-III,Lake Forest,Lawrence,KICK RETURNS,Ryan,Barry,LONG,31
+24696065,9/23/2017,D-III,Lake Forest,Lawrence,KICK RETURNS,Chase,Allen,NO,2
+24696066,9/23/2017,D-III,Lake Forest,Lawrence,KICK RETURNS,Chase,Allen,YDS,13
+24696067,9/23/2017,D-III,Lake Forest,Lawrence,KICK RETURNS,Chase,Allen,AVG,6.5
+24696068,9/23/2017,D-III,Lake Forest,Lawrence,KICK RETURNS,Chase,Allen,LONG,10
+24696069,9/23/2017,D-III,Lawrence,Lake Forest,RUSHING,Wasonu,Allen,ATT,20
+24696070,9/23/2017,D-III,Lawrence,Lake Forest,RUSHING,Wasonu,Allen,YDS,161
+24696071,9/23/2017,D-III,Lawrence,Lake Forest,RUSHING,Wasonu,Allen,TD,2
+24696072,9/23/2017,D-III,Lawrence,Lake Forest,RUSHING,Wasonu,Allen,LONG,32
+24696073,9/23/2017,D-III,Lawrence,Lake Forest,RUSHING,Philip,Santiago,ATT,12
+24696074,9/23/2017,D-III,Lawrence,Lake Forest,RUSHING,Philip,Santiago,YDS,60
+24696075,9/23/2017,D-III,Lawrence,Lake Forest,RUSHING,Philip,Santiago,TD,0
+24696076,9/23/2017,D-III,Lawrence,Lake Forest,RUSHING,Philip,Santiago,LONG,19
+24696077,9/23/2017,D-III,Lawrence,Lake Forest,RUSHING,Michael,Thomas,ATT,6
+24696078,9/23/2017,D-III,Lawrence,Lake Forest,RUSHING,Michael,Thomas,YDS,33
+24696079,9/23/2017,D-III,Lawrence,Lake Forest,RUSHING,Michael,Thomas,TD,0
+24696080,9/23/2017,D-III,Lawrence,Lake Forest,RUSHING,Michael,Thomas,LONG,16
+24696081,9/23/2017,D-III,Lawrence,Lake Forest,RUSHING,Ethan,Simmons,ATT,3
+24696082,9/23/2017,D-III,Lawrence,Lake Forest,RUSHING,Ethan,Simmons,YDS,13
+24696083,9/23/2017,D-III,Lawrence,Lake Forest,RUSHING,Ethan,Simmons,TD,0
+24696084,9/23/2017,D-III,Lawrence,Lake Forest,RUSHING,Ethan,Simmons,LONG,7
+24696085,9/23/2017,D-III,Lawrence,Lake Forest,RUSHING,Trevor,Spina,ATT,2
+24696086,9/23/2017,D-III,Lawrence,Lake Forest,RUSHING,Trevor,Spina,YDS,4
+24696087,9/23/2017,D-III,Lawrence,Lake Forest,RUSHING,Trevor,Spina,TD,0
+24696088,9/23/2017,D-III,Lawrence,Lake Forest,RUSHING,Trevor,Spina,LONG,4
+24696089,9/23/2017,D-III,Lawrence,Lake Forest,RUSHING,Caleb,Catt,ATT,3
+24696090,9/23/2017,D-III,Lawrence,Lake Forest,RUSHING,Caleb,Catt,YDS,-1
+24696091,9/23/2017,D-III,Lawrence,Lake Forest,RUSHING,Caleb,Catt,TD,1
+24696092,9/23/2017,D-III,Lawrence,Lake Forest,RUSHING,Caleb,Catt,LONG,2
+24696093,9/23/2017,D-III,Lawrence,Lake Forest,RUSHING,,Team,ATT,1
+24696094,9/23/2017,D-III,Lawrence,Lake Forest,RUSHING,,Team,YDS,-25
+24696095,9/23/2017,D-III,Lawrence,Lake Forest,RUSHING,,Team,TD,0
+24696096,9/23/2017,D-III,Lawrence,Lake Forest,RUSHING,,Team,LONG,0
+24696097,9/23/2017,D-III,Lawrence,Lake Forest,PASSING,Philip,Santiago,CP-ATT-INT,6-22-1
+24696098,9/23/2017,D-III,Lawrence,Lake Forest,PASSING,Philip,Santiago,YDS,64
+24696099,9/23/2017,D-III,Lawrence,Lake Forest,PASSING,Philip,Santiago,TD,1
+24696100,9/23/2017,D-III,Lawrence,Lake Forest,PASSING,Philip,Santiago,LONG,19
+24696101,9/23/2017,D-III,Lawrence,Lake Forest,PASSING,Dan,Rothbauer,CP-ATT-INT,1-1-0
+24696102,9/23/2017,D-III,Lawrence,Lake Forest,PASSING,Dan,Rothbauer,YDS,26
+24696103,9/23/2017,D-III,Lawrence,Lake Forest,PASSING,Dan,Rothbauer,TD,0
+24696104,9/23/2017,D-III,Lawrence,Lake Forest,PASSING,Dan,Rothbauer,LONG,26
+24696105,9/23/2017,D-III,Lawrence,Lake Forest,PASSING,,Team,CP-ATT-INT,0-1-0
+24696106,9/23/2017,D-III,Lawrence,Lake Forest,PASSING,,Team,YDS,0
+24696107,9/23/2017,D-III,Lawrence,Lake Forest,PASSING,,Team,TD,0
+24696108,9/23/2017,D-III,Lawrence,Lake Forest,PASSING,,Team,LONG,0
+24696109,9/23/2017,D-III,Lawrence,Lake Forest,RECEIVING,Jake,Gostisha,REC,1
+24696110,9/23/2017,D-III,Lawrence,Lake Forest,RECEIVING,Jake,Gostisha,YDS,26
+24696111,9/23/2017,D-III,Lawrence,Lake Forest,RECEIVING,Jake,Gostisha,TD,0
+24696112,9/23/2017,D-III,Lawrence,Lake Forest,RECEIVING,Jake,Gostisha,LONG,26
+24696113,9/23/2017,D-III,Lawrence,Lake Forest,RECEIVING,Nick,Pastrone,REC,1
+24696114,9/23/2017,D-III,Lawrence,Lake Forest,RECEIVING,Nick,Pastrone,YDS,19
+24696115,9/23/2017,D-III,Lawrence,Lake Forest,RECEIVING,Nick,Pastrone,TD,0
+24696116,9/23/2017,D-III,Lawrence,Lake Forest,RECEIVING,Nick,Pastrone,LONG,19
+24696117,9/23/2017,D-III,Lawrence,Lake Forest,RECEIVING,Cole,Erickson,REC,1
+24696118,9/23/2017,D-III,Lawrence,Lake Forest,RECEIVING,Cole,Erickson,YDS,17
+24696119,9/23/2017,D-III,Lawrence,Lake Forest,RECEIVING,Cole,Erickson,TD,1
+24696120,9/23/2017,D-III,Lawrence,Lake Forest,RECEIVING,Cole,Erickson,LONG,17
+24696121,9/23/2017,D-III,Lawrence,Lake Forest,RECEIVING,Chris,Shaw,REC,1
+24696122,9/23/2017,D-III,Lawrence,Lake Forest,RECEIVING,Chris,Shaw,YDS,13
+24696123,9/23/2017,D-III,Lawrence,Lake Forest,RECEIVING,Chris,Shaw,TD,0
+24696124,9/23/2017,D-III,Lawrence,Lake Forest,RECEIVING,Chris,Shaw,LONG,13
+24696125,9/23/2017,D-III,Lawrence,Lake Forest,RECEIVING,Wasonu,Allen,REC,2
+24696126,9/23/2017,D-III,Lawrence,Lake Forest,RECEIVING,Wasonu,Allen,YDS,8
+24696127,9/23/2017,D-III,Lawrence,Lake Forest,RECEIVING,Wasonu,Allen,TD,0
+24696128,9/23/2017,D-III,Lawrence,Lake Forest,RECEIVING,Wasonu,Allen,LONG,8
+24696129,9/23/2017,D-III,Lawrence,Lake Forest,RECEIVING,Trevor,Spina,REC,1
+24696130,9/23/2017,D-III,Lawrence,Lake Forest,RECEIVING,Trevor,Spina,YDS,7
+24696131,9/23/2017,D-III,Lawrence,Lake Forest,RECEIVING,Trevor,Spina,TD,0
+24696132,9/23/2017,D-III,Lawrence,Lake Forest,RECEIVING,Trevor,Spina,LONG,7
+24696133,9/23/2017,D-III,Lawrence,Lake Forest,PUNTING,Philip,Santiago,NO,1
+24696134,9/23/2017,D-III,Lawrence,Lake Forest,PUNTING,Philip,Santiago,YDS,26
+24696135,9/23/2017,D-III,Lawrence,Lake Forest,PUNTING,Philip,Santiago,AVG,26.0
+24696136,9/23/2017,D-III,Lawrence,Lake Forest,PUNTING,Philip,Santiago,LONG,26
+24696137,9/23/2017,D-III,Lawrence,Lake Forest,PUNTING,Dan,Rothbauer,NO,3
+24696138,9/23/2017,D-III,Lawrence,Lake Forest,PUNTING,Dan,Rothbauer,YDS,121
+24696139,9/23/2017,D-III,Lawrence,Lake Forest,PUNTING,Dan,Rothbauer,AVG,40.3
+24696140,9/23/2017,D-III,Lawrence,Lake Forest,PUNTING,Dan,Rothbauer,LONG,44
+24696141,9/23/2017,D-III,Lawrence,Lake Forest,PUNT RETURNS,Terrell,Myers,NO,1
+24696142,9/23/2017,D-III,Lawrence,Lake Forest,PUNT RETURNS,Terrell,Myers,YDS,4
+24696143,9/23/2017,D-III,Lawrence,Lake Forest,PUNT RETURNS,Terrell,Myers,AVG,4.0
+24696144,9/23/2017,D-III,Lawrence,Lake Forest,PUNT RETURNS,Terrell,Myers,LONG,4
+24696145,9/23/2017,D-III,Lawrence,Lake Forest,KICK RETURNS,Wasonu,Allen,NO,2
+24696146,9/23/2017,D-III,Lawrence,Lake Forest,KICK RETURNS,Wasonu,Allen,YDS,106
+24696147,9/23/2017,D-III,Lawrence,Lake Forest,KICK RETURNS,Wasonu,Allen,AVG,53.0
+24696148,9/23/2017,D-III,Lawrence,Lake Forest,KICK RETURNS,Wasonu,Allen,LONG,82
+24696149,9/23/2017,D-III,Lawrence,Lake Forest,KICK RETURNS,Terrell,Myers,NO,2
+24696150,9/23/2017,D-III,Lawrence,Lake Forest,KICK RETURNS,Terrell,Myers,YDS,86
+24696151,9/23/2017,D-III,Lawrence,Lake Forest,KICK RETURNS,Terrell,Myers,AVG,43.0
+24696152,9/23/2017,D-III,Lawrence,Lake Forest,KICK RETURNS,Terrell,Myers,LONG,64
+24696153,9/23/2017,D-III,Lawrence,Lake Forest,KICK RETURNS,Nick,Pastrone,NO,1
+24696154,9/23/2017,D-III,Lawrence,Lake Forest,KICK RETURNS,Nick,Pastrone,YDS,22
+24696155,9/23/2017,D-III,Lawrence,Lake Forest,KICK RETURNS,Nick,Pastrone,AVG,22.0
+24696156,9/23/2017,D-III,Lawrence,Lake Forest,KICK RETURNS,Nick,Pastrone,LONG,22
+24696157,9/23/2017,D-III,Lawrence,Lake Forest,KICK RETURNS,Cole,Erickson,NO,1
+24696158,9/23/2017,D-III,Lawrence,Lake Forest,KICK RETURNS,Cole,Erickson,YDS,12
+24696159,9/23/2017,D-III,Lawrence,Lake Forest,KICK RETURNS,Cole,Erickson,AVG,12.0
+24696160,9/23/2017,D-III,Lawrence,Lake Forest,KICK RETURNS,Cole,Erickson,LONG,12

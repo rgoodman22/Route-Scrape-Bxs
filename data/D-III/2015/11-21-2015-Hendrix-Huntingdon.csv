@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+23035001,11/21/2015,D-III,Hendrix,Huntingdon,RUSHING,Dayton,Winn,ATT,22
+23035002,11/21/2015,D-III,Hendrix,Huntingdon,RUSHING,Dayton,Winn,YDS,121
+23035003,11/21/2015,D-III,Hendrix,Huntingdon,RUSHING,Dayton,Winn,TD,0
+23035004,11/21/2015,D-III,Hendrix,Huntingdon,RUSHING,Dayton,Winn,LONG,30
+23035005,11/21/2015,D-III,Hendrix,Huntingdon,RUSHING,Seth,Peters,ATT,11
+23035006,11/21/2015,D-III,Hendrix,Huntingdon,RUSHING,Seth,Peters,YDS,43
+23035007,11/21/2015,D-III,Hendrix,Huntingdon,RUSHING,Seth,Peters,TD,1
+23035008,11/21/2015,D-III,Hendrix,Huntingdon,RUSHING,Seth,Peters,LONG,22
+23035009,11/21/2015,D-III,Hendrix,Huntingdon,RUSHING,Ben,Luedtke,ATT,1
+23035010,11/21/2015,D-III,Hendrix,Huntingdon,RUSHING,Ben,Luedtke,YDS,-6
+23035011,11/21/2015,D-III,Hendrix,Huntingdon,RUSHING,Ben,Luedtke,TD,0
+23035012,11/21/2015,D-III,Hendrix,Huntingdon,RUSHING,Ben,Luedtke,LONG,0
+23035013,11/21/2015,D-III,Hendrix,Huntingdon,RUSHING,,Team,ATT,1
+23035014,11/21/2015,D-III,Hendrix,Huntingdon,RUSHING,,Team,YDS,-6
+23035015,11/21/2015,D-III,Hendrix,Huntingdon,RUSHING,,Team,TD,0
+23035016,11/21/2015,D-III,Hendrix,Huntingdon,RUSHING,,Team,LONG,0
+23035017,11/21/2015,D-III,Hendrix,Huntingdon,PASSING,Seth,Peters,CP-ATT-INT,14-28-1
+23035018,11/21/2015,D-III,Hendrix,Huntingdon,PASSING,Seth,Peters,YDS,264
+23035019,11/21/2015,D-III,Hendrix,Huntingdon,PASSING,Seth,Peters,TD,2
+23035020,11/21/2015,D-III,Hendrix,Huntingdon,PASSING,Seth,Peters,LONG,75
+23035021,11/21/2015,D-III,Hendrix,Huntingdon,RECEIVING,Ben,Luedtke,REC,7
+23035022,11/21/2015,D-III,Hendrix,Huntingdon,RECEIVING,Ben,Luedtke,YDS,139
+23035023,11/21/2015,D-III,Hendrix,Huntingdon,RECEIVING,Ben,Luedtke,TD,2
+23035024,11/21/2015,D-III,Hendrix,Huntingdon,RECEIVING,Ben,Luedtke,LONG,75
+23035025,11/21/2015,D-III,Hendrix,Huntingdon,RECEIVING,Dayton,Winn,REC,2
+23035026,11/21/2015,D-III,Hendrix,Huntingdon,RECEIVING,Dayton,Winn,YDS,55
+23035027,11/21/2015,D-III,Hendrix,Huntingdon,RECEIVING,Dayton,Winn,TD,0
+23035028,11/21/2015,D-III,Hendrix,Huntingdon,RECEIVING,Dayton,Winn,LONG,38
+23035029,11/21/2015,D-III,Hendrix,Huntingdon,RECEIVING,Ethan,Hoppe,REC,3
+23035030,11/21/2015,D-III,Hendrix,Huntingdon,RECEIVING,Ethan,Hoppe,YDS,50
+23035031,11/21/2015,D-III,Hendrix,Huntingdon,RECEIVING,Ethan,Hoppe,TD,0
+23035032,11/21/2015,D-III,Hendrix,Huntingdon,RECEIVING,Ethan,Hoppe,LONG,33
+23035033,11/21/2015,D-III,Hendrix,Huntingdon,RECEIVING,Taylor,Tibbits,REC,1
+23035034,11/21/2015,D-III,Hendrix,Huntingdon,RECEIVING,Taylor,Tibbits,YDS,11
+23035035,11/21/2015,D-III,Hendrix,Huntingdon,RECEIVING,Taylor,Tibbits,TD,0
+23035036,11/21/2015,D-III,Hendrix,Huntingdon,RECEIVING,Taylor,Tibbits,LONG,11
+23035037,11/21/2015,D-III,Hendrix,Huntingdon,RECEIVING,Mason,Millsap,REC,1
+23035038,11/21/2015,D-III,Hendrix,Huntingdon,RECEIVING,Mason,Millsap,YDS,9
+23035039,11/21/2015,D-III,Hendrix,Huntingdon,RECEIVING,Mason,Millsap,TD,0
+23035040,11/21/2015,D-III,Hendrix,Huntingdon,RECEIVING,Mason,Millsap,LONG,9
+23035041,11/21/2015,D-III,Hendrix,Huntingdon,PUNTING,Seth,Peters,NO,1
+23035042,11/21/2015,D-III,Hendrix,Huntingdon,PUNTING,Seth,Peters,YDS,58
+23035043,11/21/2015,D-III,Hendrix,Huntingdon,PUNTING,Seth,Peters,AVG,58.0
+23035044,11/21/2015,D-III,Hendrix,Huntingdon,PUNTING,Seth,Peters,LONG,58
+23035045,11/21/2015,D-III,Hendrix,Huntingdon,PUNTING,Spencer,Smith,NO,2
+23035046,11/21/2015,D-III,Hendrix,Huntingdon,PUNTING,Spencer,Smith,YDS,73
+23035047,11/21/2015,D-III,Hendrix,Huntingdon,PUNTING,Spencer,Smith,AVG,36.5
+23035048,11/21/2015,D-III,Hendrix,Huntingdon,PUNTING,Spencer,Smith,LONG,43
+23035049,11/21/2015,D-III,Hendrix,Huntingdon,KICK RETURNS,Ben,Luedtke,NO,4
+23035050,11/21/2015,D-III,Hendrix,Huntingdon,KICK RETURNS,Ben,Luedtke,YDS,73
+23035051,11/21/2015,D-III,Hendrix,Huntingdon,KICK RETURNS,Ben,Luedtke,AVG,18.2
+23035052,11/21/2015,D-III,Hendrix,Huntingdon,KICK RETURNS,Ben,Luedtke,LONG,25
+23035053,11/21/2015,D-III,Hendrix,Huntingdon,KICK RETURNS,Dayton,Winn,NO,2
+23035054,11/21/2015,D-III,Hendrix,Huntingdon,KICK RETURNS,Dayton,Winn,YDS,29
+23035055,11/21/2015,D-III,Hendrix,Huntingdon,KICK RETURNS,Dayton,Winn,AVG,14.5
+23035056,11/21/2015,D-III,Hendrix,Huntingdon,KICK RETURNS,Dayton,Winn,LONG,20
+23035057,11/21/2015,D-III,Huntingdon,Hendrix,RUSHING,John,Iwaniec,ATT,17
+23035058,11/21/2015,D-III,Huntingdon,Hendrix,RUSHING,John,Iwaniec,YDS,122
+23035059,11/21/2015,D-III,Huntingdon,Hendrix,RUSHING,John,Iwaniec,TD,3
+23035060,11/21/2015,D-III,Huntingdon,Hendrix,RUSHING,John,Iwaniec,LONG,21
+23035061,11/21/2015,D-III,Huntingdon,Hendrix,RUSHING,Luke,Bailey,ATT,10
+23035062,11/21/2015,D-III,Huntingdon,Hendrix,RUSHING,Luke,Bailey,YDS,74
+23035063,11/21/2015,D-III,Huntingdon,Hendrix,RUSHING,Luke,Bailey,TD,1
+23035064,11/21/2015,D-III,Huntingdon,Hendrix,RUSHING,Luke,Bailey,LONG,14
+23035065,11/21/2015,D-III,Huntingdon,Hendrix,RUSHING,Vic,Jerald,ATT,10
+23035066,11/21/2015,D-III,Huntingdon,Hendrix,RUSHING,Vic,Jerald,YDS,38
+23035067,11/21/2015,D-III,Huntingdon,Hendrix,RUSHING,Vic,Jerald,TD,0
+23035068,11/21/2015,D-III,Huntingdon,Hendrix,RUSHING,Vic,Jerald,LONG,13
+23035069,11/21/2015,D-III,Huntingdon,Hendrix,RUSHING,Lorenzo,James,ATT,3
+23035070,11/21/2015,D-III,Huntingdon,Hendrix,RUSHING,Lorenzo,James,YDS,10
+23035071,11/21/2015,D-III,Huntingdon,Hendrix,RUSHING,Lorenzo,James,TD,0
+23035072,11/21/2015,D-III,Huntingdon,Hendrix,RUSHING,Lorenzo,James,LONG,6
+23035073,11/21/2015,D-III,Huntingdon,Hendrix,RUSHING,Willie,Coleman,ATT,1
+23035074,11/21/2015,D-III,Huntingdon,Hendrix,RUSHING,Willie,Coleman,YDS,4
+23035075,11/21/2015,D-III,Huntingdon,Hendrix,RUSHING,Willie,Coleman,TD,0
+23035076,11/21/2015,D-III,Huntingdon,Hendrix,RUSHING,Willie,Coleman,LONG,4
+23035077,11/21/2015,D-III,Huntingdon,Hendrix,RUSHING,,Team,ATT,3
+23035078,11/21/2015,D-III,Huntingdon,Hendrix,RUSHING,,Team,YDS,-9
+23035079,11/21/2015,D-III,Huntingdon,Hendrix,RUSHING,,Team,TD,0
+23035080,11/21/2015,D-III,Huntingdon,Hendrix,RUSHING,,Team,LONG,0
+23035081,11/21/2015,D-III,Huntingdon,Hendrix,PASSING,Luke,Bailey,CP-ATT-INT,21-27-1
+23035082,11/21/2015,D-III,Huntingdon,Hendrix,PASSING,Luke,Bailey,YDS,230
+23035083,11/21/2015,D-III,Huntingdon,Hendrix,PASSING,Luke,Bailey,TD,1
+23035084,11/21/2015,D-III,Huntingdon,Hendrix,PASSING,Luke,Bailey,LONG,29
+23035085,11/21/2015,D-III,Huntingdon,Hendrix,RECEIVING,Zach,Camp,REC,4
+23035086,11/21/2015,D-III,Huntingdon,Hendrix,RECEIVING,Zach,Camp,YDS,80
+23035087,11/21/2015,D-III,Huntingdon,Hendrix,RECEIVING,Zach,Camp,TD,0
+23035088,11/21/2015,D-III,Huntingdon,Hendrix,RECEIVING,Zach,Camp,LONG,29
+23035089,11/21/2015,D-III,Huntingdon,Hendrix,RECEIVING,Nick,Haas,REC,6
+23035090,11/21/2015,D-III,Huntingdon,Hendrix,RECEIVING,Nick,Haas,YDS,37
+23035091,11/21/2015,D-III,Huntingdon,Hendrix,RECEIVING,Nick,Haas,TD,0
+23035092,11/21/2015,D-III,Huntingdon,Hendrix,RECEIVING,Nick,Haas,LONG,13
+23035093,11/21/2015,D-III,Huntingdon,Hendrix,RECEIVING,Diggan,Andre,REC,2
+23035094,11/21/2015,D-III,Huntingdon,Hendrix,RECEIVING,Diggan,Andre,YDS,34
+23035095,11/21/2015,D-III,Huntingdon,Hendrix,RECEIVING,Diggan,Andre,TD,1
+23035096,11/21/2015,D-III,Huntingdon,Hendrix,RECEIVING,Diggan,Andre,LONG,23
+23035097,11/21/2015,D-III,Huntingdon,Hendrix,RECEIVING,Darius,Dawsey,REC,2
+23035098,11/21/2015,D-III,Huntingdon,Hendrix,RECEIVING,Darius,Dawsey,YDS,27
+23035099,11/21/2015,D-III,Huntingdon,Hendrix,RECEIVING,Darius,Dawsey,TD,0
+23035100,11/21/2015,D-III,Huntingdon,Hendrix,RECEIVING,Darius,Dawsey,LONG,18
+23035101,11/21/2015,D-III,Huntingdon,Hendrix,RECEIVING,Jamichael,Bibb,REC,3
+23035102,11/21/2015,D-III,Huntingdon,Hendrix,RECEIVING,Jamichael,Bibb,YDS,25
+23035103,11/21/2015,D-III,Huntingdon,Hendrix,RECEIVING,Jamichael,Bibb,TD,0
+23035104,11/21/2015,D-III,Huntingdon,Hendrix,RECEIVING,Jamichael,Bibb,LONG,14
+23035105,11/21/2015,D-III,Huntingdon,Hendrix,RECEIVING,Willie,Coleman,REC,1
+23035106,11/21/2015,D-III,Huntingdon,Hendrix,RECEIVING,Willie,Coleman,YDS,12
+23035107,11/21/2015,D-III,Huntingdon,Hendrix,RECEIVING,Willie,Coleman,TD,0
+23035108,11/21/2015,D-III,Huntingdon,Hendrix,RECEIVING,Willie,Coleman,LONG,12
+23035109,11/21/2015,D-III,Huntingdon,Hendrix,RECEIVING,Mark,White,REC,1
+23035110,11/21/2015,D-III,Huntingdon,Hendrix,RECEIVING,Mark,White,YDS,7
+23035111,11/21/2015,D-III,Huntingdon,Hendrix,RECEIVING,Mark,White,TD,0
+23035112,11/21/2015,D-III,Huntingdon,Hendrix,RECEIVING,Mark,White,LONG,7
+23035113,11/21/2015,D-III,Huntingdon,Hendrix,RECEIVING,J,Steele,REC,1
+23035114,11/21/2015,D-III,Huntingdon,Hendrix,RECEIVING,J,Steele,YDS,6
+23035115,11/21/2015,D-III,Huntingdon,Hendrix,RECEIVING,J,Steele,TD,0
+23035116,11/21/2015,D-III,Huntingdon,Hendrix,RECEIVING,J,Steele,LONG,6
+23035117,11/21/2015,D-III,Huntingdon,Hendrix,RECEIVING,Blake,Malter,REC,1
+23035118,11/21/2015,D-III,Huntingdon,Hendrix,RECEIVING,Blake,Malter,YDS,2
+23035119,11/21/2015,D-III,Huntingdon,Hendrix,RECEIVING,Blake,Malter,TD,0
+23035120,11/21/2015,D-III,Huntingdon,Hendrix,RECEIVING,Blake,Malter,LONG,2
+23035121,11/21/2015,D-III,Huntingdon,Hendrix,PUNTING,Parker,Allen,NO,1
+23035122,11/21/2015,D-III,Huntingdon,Hendrix,PUNTING,Parker,Allen,YDS,69
+23035123,11/21/2015,D-III,Huntingdon,Hendrix,PUNTING,Parker,Allen,AVG,69.0
+23035124,11/21/2015,D-III,Huntingdon,Hendrix,PUNTING,Parker,Allen,LONG,69
+23035125,11/21/2015,D-III,Huntingdon,Hendrix,KICK RETURNS,Willie,Coleman,NO,4
+23035126,11/21/2015,D-III,Huntingdon,Hendrix,KICK RETURNS,Willie,Coleman,YDS,114
+23035127,11/21/2015,D-III,Huntingdon,Hendrix,KICK RETURNS,Willie,Coleman,AVG,28.5
+23035128,11/21/2015,D-III,Huntingdon,Hendrix,KICK RETURNS,Willie,Coleman,LONG,45
+23035129,11/21/2015,D-III,Huntingdon,Hendrix,KICK RETURNS,Mark,White,NO,1
+23035130,11/21/2015,D-III,Huntingdon,Hendrix,KICK RETURNS,Mark,White,YDS,-5
+23035131,11/21/2015,D-III,Huntingdon,Hendrix,KICK RETURNS,Mark,White,AVG,-5.0
+23035132,11/21/2015,D-III,Huntingdon,Hendrix,KICK RETURNS,Mark,White,LONG,7
+23035133,11/21/2015,D-III,Huntingdon,Hendrix,KICK RETURNS,J,Steele,NO,1
+23035134,11/21/2015,D-III,Huntingdon,Hendrix,KICK RETURNS,J,Steele,YDS,19
+23035135,11/21/2015,D-III,Huntingdon,Hendrix,KICK RETURNS,J,Steele,AVG,19.0
+23035136,11/21/2015,D-III,Huntingdon,Hendrix,KICK RETURNS,J,Steele,LONG,19

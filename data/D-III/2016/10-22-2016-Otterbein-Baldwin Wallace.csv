@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+23925001,10/22/2016,D-III,Otterbein,Baldwin Wallace,RUSHING,Logan,Stepp,ATT,14
+23925002,10/22/2016,D-III,Otterbein,Baldwin Wallace,RUSHING,Logan,Stepp,YDS,117
+23925003,10/22/2016,D-III,Otterbein,Baldwin Wallace,RUSHING,Logan,Stepp,TD,0
+23925004,10/22/2016,D-III,Otterbein,Baldwin Wallace,RUSHING,Logan,Stepp,LONG,66
+23925005,10/22/2016,D-III,Otterbein,Baldwin Wallace,RUSHING,C,Johnson,ATT,11
+23925006,10/22/2016,D-III,Otterbein,Baldwin Wallace,RUSHING,C,Johnson,YDS,37
+23925007,10/22/2016,D-III,Otterbein,Baldwin Wallace,RUSHING,C,Johnson,TD,0
+23925008,10/22/2016,D-III,Otterbein,Baldwin Wallace,RUSHING,C,Johnson,LONG,9
+23925009,10/22/2016,D-III,Otterbein,Baldwin Wallace,RUSHING,Isaiah,Richmond,ATT,7
+23925010,10/22/2016,D-III,Otterbein,Baldwin Wallace,RUSHING,Isaiah,Richmond,YDS,27
+23925011,10/22/2016,D-III,Otterbein,Baldwin Wallace,RUSHING,Isaiah,Richmond,TD,2
+23925012,10/22/2016,D-III,Otterbein,Baldwin Wallace,RUSHING,Isaiah,Richmond,LONG,6
+23925013,10/22/2016,D-III,Otterbein,Baldwin Wallace,RUSHING,,Team,ATT,2
+23925014,10/22/2016,D-III,Otterbein,Baldwin Wallace,RUSHING,,Team,YDS,-2
+23925015,10/22/2016,D-III,Otterbein,Baldwin Wallace,RUSHING,,Team,TD,0
+23925016,10/22/2016,D-III,Otterbein,Baldwin Wallace,RUSHING,,Team,LONG,0
+23925017,10/22/2016,D-III,Otterbein,Baldwin Wallace,PASSING,Logan,Stepp,CP-ATT-INT,13-22-0
+23925018,10/22/2016,D-III,Otterbein,Baldwin Wallace,PASSING,Logan,Stepp,YDS,229
+23925019,10/22/2016,D-III,Otterbein,Baldwin Wallace,PASSING,Logan,Stepp,TD,2
+23925020,10/22/2016,D-III,Otterbein,Baldwin Wallace,PASSING,Logan,Stepp,LONG,71
+23925021,10/22/2016,D-III,Otterbein,Baldwin Wallace,RECEIVING,P,Vanderkooi,REC,3
+23925022,10/22/2016,D-III,Otterbein,Baldwin Wallace,RECEIVING,P,Vanderkooi,YDS,96
+23925023,10/22/2016,D-III,Otterbein,Baldwin Wallace,RECEIVING,P,Vanderkooi,TD,1
+23925024,10/22/2016,D-III,Otterbein,Baldwin Wallace,RECEIVING,P,Vanderkooi,LONG,71
+23925025,10/22/2016,D-III,Otterbein,Baldwin Wallace,RECEIVING,Julian,Lowe,REC,7
+23925026,10/22/2016,D-III,Otterbein,Baldwin Wallace,RECEIVING,Julian,Lowe,YDS,92
+23925027,10/22/2016,D-III,Otterbein,Baldwin Wallace,RECEIVING,Julian,Lowe,TD,1
+23925028,10/22/2016,D-III,Otterbein,Baldwin Wallace,RECEIVING,Julian,Lowe,LONG,21
+23925029,10/22/2016,D-III,Otterbein,Baldwin Wallace,RECEIVING,Tyler,Sorg,REC,1
+23925030,10/22/2016,D-III,Otterbein,Baldwin Wallace,RECEIVING,Tyler,Sorg,YDS,22
+23925031,10/22/2016,D-III,Otterbein,Baldwin Wallace,RECEIVING,Tyler,Sorg,TD,0
+23925032,10/22/2016,D-III,Otterbein,Baldwin Wallace,RECEIVING,Tyler,Sorg,LONG,22
+23925033,10/22/2016,D-III,Otterbein,Baldwin Wallace,RECEIVING,Hunter,Joseph,REC,2
+23925034,10/22/2016,D-III,Otterbein,Baldwin Wallace,RECEIVING,Hunter,Joseph,YDS,19
+23925035,10/22/2016,D-III,Otterbein,Baldwin Wallace,RECEIVING,Hunter,Joseph,TD,0
+23925036,10/22/2016,D-III,Otterbein,Baldwin Wallace,RECEIVING,Hunter,Joseph,LONG,11
+23925037,10/22/2016,D-III,Otterbein,Baldwin Wallace,PUNTING,Logan,Stepp,NO,1
+23925038,10/22/2016,D-III,Otterbein,Baldwin Wallace,PUNTING,Logan,Stepp,YDS,15
+23925039,10/22/2016,D-III,Otterbein,Baldwin Wallace,PUNTING,Logan,Stepp,AVG,15.0
+23925040,10/22/2016,D-III,Otterbein,Baldwin Wallace,PUNTING,Logan,Stepp,LONG,15
+23925041,10/22/2016,D-III,Otterbein,Baldwin Wallace,PUNTING,Joe,Sanfillipo,NO,3
+23925042,10/22/2016,D-III,Otterbein,Baldwin Wallace,PUNTING,Joe,Sanfillipo,YDS,115
+23925043,10/22/2016,D-III,Otterbein,Baldwin Wallace,PUNTING,Joe,Sanfillipo,AVG,38.3
+23925044,10/22/2016,D-III,Otterbein,Baldwin Wallace,PUNTING,Joe,Sanfillipo,LONG,49
+23925045,10/22/2016,D-III,Otterbein,Baldwin Wallace,PUNT RETURNS,Julian,Lowe,NO,2
+23925046,10/22/2016,D-III,Otterbein,Baldwin Wallace,PUNT RETURNS,Julian,Lowe,YDS,6
+23925047,10/22/2016,D-III,Otterbein,Baldwin Wallace,PUNT RETURNS,Julian,Lowe,AVG,3.0
+23925048,10/22/2016,D-III,Otterbein,Baldwin Wallace,PUNT RETURNS,Julian,Lowe,LONG,4
+23925049,10/22/2016,D-III,Otterbein,Baldwin Wallace,KICK RETURNS,Hunter,Joseph,NO,1
+23925050,10/22/2016,D-III,Otterbein,Baldwin Wallace,KICK RETURNS,Hunter,Joseph,YDS,13
+23925051,10/22/2016,D-III,Otterbein,Baldwin Wallace,KICK RETURNS,Hunter,Joseph,AVG,13.0
+23925052,10/22/2016,D-III,Otterbein,Baldwin Wallace,KICK RETURNS,Hunter,Joseph,LONG,13
+23925053,10/22/2016,D-III,Otterbein,Baldwin Wallace,KICK RETURNS,Andre,Douglas,NO,1
+23925054,10/22/2016,D-III,Otterbein,Baldwin Wallace,KICK RETURNS,Andre,Douglas,YDS,7
+23925055,10/22/2016,D-III,Otterbein,Baldwin Wallace,KICK RETURNS,Andre,Douglas,AVG,7.0
+23925056,10/22/2016,D-III,Otterbein,Baldwin Wallace,KICK RETURNS,Andre,Douglas,LONG,7
+23925057,10/22/2016,D-III,Otterbein,Baldwin Wallace,KICK RETURNS,Julian,Lowe,NO,3
+23925058,10/22/2016,D-III,Otterbein,Baldwin Wallace,KICK RETURNS,Julian,Lowe,YDS,42
+23925059,10/22/2016,D-III,Otterbein,Baldwin Wallace,KICK RETURNS,Julian,Lowe,AVG,14.0
+23925060,10/22/2016,D-III,Otterbein,Baldwin Wallace,KICK RETURNS,Julian,Lowe,LONG,18
+23925061,10/22/2016,D-III,Otterbein,Baldwin Wallace,KICK RETURNS,Ryan,Tuchow,NO,1
+23925062,10/22/2016,D-III,Otterbein,Baldwin Wallace,KICK RETURNS,Ryan,Tuchow,YDS,11
+23925063,10/22/2016,D-III,Otterbein,Baldwin Wallace,KICK RETURNS,Ryan,Tuchow,AVG,11.0
+23925064,10/22/2016,D-III,Otterbein,Baldwin Wallace,KICK RETURNS,Ryan,Tuchow,LONG,11
+23925065,10/22/2016,D-III,Baldwin Wallace,Otterbein,RUSHING,Austin,Smith,ATT,24
+23925066,10/22/2016,D-III,Baldwin Wallace,Otterbein,RUSHING,Austin,Smith,YDS,107
+23925067,10/22/2016,D-III,Baldwin Wallace,Otterbein,RUSHING,Austin,Smith,TD,3
+23925068,10/22/2016,D-III,Baldwin Wallace,Otterbein,RUSHING,Austin,Smith,LONG,15
+23925069,10/22/2016,D-III,Baldwin Wallace,Otterbein,RUSHING,Jake,Hudson,ATT,11
+23925070,10/22/2016,D-III,Baldwin Wallace,Otterbein,RUSHING,Jake,Hudson,YDS,60
+23925071,10/22/2016,D-III,Baldwin Wallace,Otterbein,RUSHING,Jake,Hudson,TD,0
+23925072,10/22/2016,D-III,Baldwin Wallace,Otterbein,RUSHING,Jake,Hudson,LONG,20
+23925073,10/22/2016,D-III,Baldwin Wallace,Otterbein,RUSHING,N,Henderson,ATT,2
+23925074,10/22/2016,D-III,Baldwin Wallace,Otterbein,RUSHING,N,Henderson,YDS,7
+23925075,10/22/2016,D-III,Baldwin Wallace,Otterbein,RUSHING,N,Henderson,TD,0
+23925076,10/22/2016,D-III,Baldwin Wallace,Otterbein,RUSHING,N,Henderson,LONG,4
+23925077,10/22/2016,D-III,Baldwin Wallace,Otterbein,RUSHING,Tyler,Wolf,ATT,1
+23925078,10/22/2016,D-III,Baldwin Wallace,Otterbein,RUSHING,Tyler,Wolf,YDS,0
+23925079,10/22/2016,D-III,Baldwin Wallace,Otterbein,RUSHING,Tyler,Wolf,TD,0
+23925080,10/22/2016,D-III,Baldwin Wallace,Otterbein,RUSHING,Tyler,Wolf,LONG,0
+23925081,10/22/2016,D-III,Baldwin Wallace,Otterbein,PASSING,Jake,Hudson,CP-ATT-INT,23-39-1
+23925082,10/22/2016,D-III,Baldwin Wallace,Otterbein,PASSING,Jake,Hudson,YDS,224
+23925083,10/22/2016,D-III,Baldwin Wallace,Otterbein,PASSING,Jake,Hudson,TD,1
+23925084,10/22/2016,D-III,Baldwin Wallace,Otterbein,PASSING,Jake,Hudson,LONG,43
+23925085,10/22/2016,D-III,Baldwin Wallace,Otterbein,RECEIVING,Mike,Waggoner,REC,4
+23925086,10/22/2016,D-III,Baldwin Wallace,Otterbein,RECEIVING,Mike,Waggoner,YDS,65
+23925087,10/22/2016,D-III,Baldwin Wallace,Otterbein,RECEIVING,Mike,Waggoner,TD,0
+23925088,10/22/2016,D-III,Baldwin Wallace,Otterbein,RECEIVING,Mike,Waggoner,LONG,43
+23925089,10/22/2016,D-III,Baldwin Wallace,Otterbein,RECEIVING,Tommy,Fuller,REC,4
+23925090,10/22/2016,D-III,Baldwin Wallace,Otterbein,RECEIVING,Tommy,Fuller,YDS,53
+23925091,10/22/2016,D-III,Baldwin Wallace,Otterbein,RECEIVING,Tommy,Fuller,TD,0
+23925092,10/22/2016,D-III,Baldwin Wallace,Otterbein,RECEIVING,Tommy,Fuller,LONG,26
+23925093,10/22/2016,D-III,Baldwin Wallace,Otterbein,RECEIVING,Tyler,Wolf,REC,2
+23925094,10/22/2016,D-III,Baldwin Wallace,Otterbein,RECEIVING,Tyler,Wolf,YDS,33
+23925095,10/22/2016,D-III,Baldwin Wallace,Otterbein,RECEIVING,Tyler,Wolf,TD,0
+23925096,10/22/2016,D-III,Baldwin Wallace,Otterbein,RECEIVING,Tyler,Wolf,LONG,20
+23925097,10/22/2016,D-III,Baldwin Wallace,Otterbein,RECEIVING,Da'juan,Glover,REC,7
+23925098,10/22/2016,D-III,Baldwin Wallace,Otterbein,RECEIVING,Da'juan,Glover,YDS,31
+23925099,10/22/2016,D-III,Baldwin Wallace,Otterbein,RECEIVING,Da'juan,Glover,TD,0
+23925100,10/22/2016,D-III,Baldwin Wallace,Otterbein,RECEIVING,Da'juan,Glover,LONG,14
+23925101,10/22/2016,D-III,Baldwin Wallace,Otterbein,RECEIVING,Brett,Zupancic,REC,2
+23925102,10/22/2016,D-III,Baldwin Wallace,Otterbein,RECEIVING,Brett,Zupancic,YDS,14
+23925103,10/22/2016,D-III,Baldwin Wallace,Otterbein,RECEIVING,Brett,Zupancic,TD,0
+23925104,10/22/2016,D-III,Baldwin Wallace,Otterbein,RECEIVING,Brett,Zupancic,LONG,9
+23925105,10/22/2016,D-III,Baldwin Wallace,Otterbein,RECEIVING,Bryon,Cook,REC,2
+23925106,10/22/2016,D-III,Baldwin Wallace,Otterbein,RECEIVING,Bryon,Cook,YDS,12
+23925107,10/22/2016,D-III,Baldwin Wallace,Otterbein,RECEIVING,Bryon,Cook,TD,1
+23925108,10/22/2016,D-III,Baldwin Wallace,Otterbein,RECEIVING,Bryon,Cook,LONG,8
+23925109,10/22/2016,D-III,Baldwin Wallace,Otterbein,RECEIVING,Chad,Steinwachs,REC,1
+23925110,10/22/2016,D-III,Baldwin Wallace,Otterbein,RECEIVING,Chad,Steinwachs,YDS,10
+23925111,10/22/2016,D-III,Baldwin Wallace,Otterbein,RECEIVING,Chad,Steinwachs,TD,0
+23925112,10/22/2016,D-III,Baldwin Wallace,Otterbein,RECEIVING,Chad,Steinwachs,LONG,10
+23925113,10/22/2016,D-III,Baldwin Wallace,Otterbein,RECEIVING,Austin,Smith,REC,1
+23925114,10/22/2016,D-III,Baldwin Wallace,Otterbein,RECEIVING,Austin,Smith,YDS,6
+23925115,10/22/2016,D-III,Baldwin Wallace,Otterbein,RECEIVING,Austin,Smith,TD,0
+23925116,10/22/2016,D-III,Baldwin Wallace,Otterbein,RECEIVING,Austin,Smith,LONG,6
+23925117,10/22/2016,D-III,Baldwin Wallace,Otterbein,PUNTING,Austin,Smith,NO,4
+23925118,10/22/2016,D-III,Baldwin Wallace,Otterbein,PUNTING,Austin,Smith,YDS,155
+23925119,10/22/2016,D-III,Baldwin Wallace,Otterbein,PUNTING,Austin,Smith,AVG,38.8
+23925120,10/22/2016,D-III,Baldwin Wallace,Otterbein,PUNTING,Austin,Smith,LONG,40
+23925121,10/22/2016,D-III,Baldwin Wallace,Otterbein,PUNT RETURNS,T,Washington,NO,1
+23925122,10/22/2016,D-III,Baldwin Wallace,Otterbein,PUNT RETURNS,T,Washington,YDS,-6
+23925123,10/22/2016,D-III,Baldwin Wallace,Otterbein,PUNT RETURNS,T,Washington,AVG,-6.0
+23925124,10/22/2016,D-III,Baldwin Wallace,Otterbein,PUNT RETURNS,T,Washington,LONG,0
+23925125,10/22/2016,D-III,Baldwin Wallace,Otterbein,KICK RETURNS,Darion,Greer,NO,4
+23925126,10/22/2016,D-III,Baldwin Wallace,Otterbein,KICK RETURNS,Darion,Greer,YDS,87
+23925127,10/22/2016,D-III,Baldwin Wallace,Otterbein,KICK RETURNS,Darion,Greer,AVG,21.8
+23925128,10/22/2016,D-III,Baldwin Wallace,Otterbein,KICK RETURNS,Darion,Greer,LONG,35
+23925129,10/22/2016,D-III,Baldwin Wallace,Otterbein,KICK RETURNS,Brock,Hull,NO,1
+23925130,10/22/2016,D-III,Baldwin Wallace,Otterbein,KICK RETURNS,Brock,Hull,YDS,7
+23925131,10/22/2016,D-III,Baldwin Wallace,Otterbein,KICK RETURNS,Brock,Hull,AVG,7.0
+23925132,10/22/2016,D-III,Baldwin Wallace,Otterbein,KICK RETURNS,Brock,Hull,LONG,7
+23925133,10/22/2016,D-III,Baldwin Wallace,Otterbein,KICK RETURNS,T,Washington,NO,2
+23925134,10/22/2016,D-III,Baldwin Wallace,Otterbein,KICK RETURNS,T,Washington,YDS,50
+23925135,10/22/2016,D-III,Baldwin Wallace,Otterbein,KICK RETURNS,T,Washington,AVG,25.0
+23925136,10/22/2016,D-III,Baldwin Wallace,Otterbein,KICK RETURNS,T,Washington,LONG,29

@@ -1,0 +1,141 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+19509001,9/20/2013,D-III,Ferrum,Bridgewater,RUSHING,Tim,Reynolds,ATT,12
+19509002,9/20/2013,D-III,Ferrum,Bridgewater,RUSHING,Tim,Reynolds,YDS,52
+19509003,9/20/2013,D-III,Ferrum,Bridgewater,RUSHING,Tim,Reynolds,TD,2
+19509004,9/20/2013,D-III,Ferrum,Bridgewater,RUSHING,Tim,Reynolds,LONG,30
+19509005,9/20/2013,D-III,Ferrum,Bridgewater,RUSHING,Marty,Haley,ATT,2
+19509006,9/20/2013,D-III,Ferrum,Bridgewater,RUSHING,Marty,Haley,YDS,-1
+19509007,9/20/2013,D-III,Ferrum,Bridgewater,RUSHING,Marty,Haley,TD,0
+19509008,9/20/2013,D-III,Ferrum,Bridgewater,RUSHING,Marty,Haley,LONG,1
+19509009,9/20/2013,D-III,Ferrum,Bridgewater,RUSHING,Tae,Gilgert,ATT,17
+19509010,9/20/2013,D-III,Ferrum,Bridgewater,RUSHING,Tae,Gilgert,YDS,92
+19509011,9/20/2013,D-III,Ferrum,Bridgewater,RUSHING,Tae,Gilgert,TD,1
+19509012,9/20/2013,D-III,Ferrum,Bridgewater,RUSHING,Tae,Gilgert,LONG,22
+19509013,9/20/2013,D-III,Ferrum,Bridgewater,PASSING,Tim,Reynolds,CP-ATT-INT,11-24-2
+19509014,9/20/2013,D-III,Ferrum,Bridgewater,PASSING,Tim,Reynolds,YDS,166
+19509015,9/20/2013,D-III,Ferrum,Bridgewater,PASSING,Tim,Reynolds,TD,1
+19509016,9/20/2013,D-III,Ferrum,Bridgewater,PASSING,Tim,Reynolds,LONG,27
+19509017,9/20/2013,D-III,Ferrum,Bridgewater,RECEIVING,Marty,Haley,REC,3
+19509018,9/20/2013,D-III,Ferrum,Bridgewater,RECEIVING,Marty,Haley,YDS,45
+19509019,9/20/2013,D-III,Ferrum,Bridgewater,RECEIVING,Marty,Haley,TD,0
+19509020,9/20/2013,D-III,Ferrum,Bridgewater,RECEIVING,Marty,Haley,LONG,27
+19509021,9/20/2013,D-III,Ferrum,Bridgewater,RECEIVING,Tae,Gilgert,REC,1
+19509022,9/20/2013,D-III,Ferrum,Bridgewater,RECEIVING,Tae,Gilgert,YDS,4
+19509023,9/20/2013,D-III,Ferrum,Bridgewater,RECEIVING,Tae,Gilgert,TD,0
+19509024,9/20/2013,D-III,Ferrum,Bridgewater,RECEIVING,Tae,Gilgert,LONG,4
+19509025,9/20/2013,D-III,Ferrum,Bridgewater,RECEIVING,Malcolm,Mccoy,REC,3
+19509026,9/20/2013,D-III,Ferrum,Bridgewater,RECEIVING,Malcolm,Mccoy,YDS,64
+19509027,9/20/2013,D-III,Ferrum,Bridgewater,RECEIVING,Malcolm,Mccoy,TD,0
+19509028,9/20/2013,D-III,Ferrum,Bridgewater,RECEIVING,Malcolm,Mccoy,LONG,27
+19509029,9/20/2013,D-III,Ferrum,Bridgewater,RECEIVING,Troy,Helton,REC,1
+19509030,9/20/2013,D-III,Ferrum,Bridgewater,RECEIVING,Troy,Helton,YDS,16
+19509031,9/20/2013,D-III,Ferrum,Bridgewater,RECEIVING,Troy,Helton,TD,0
+19509032,9/20/2013,D-III,Ferrum,Bridgewater,RECEIVING,Troy,Helton,LONG,12
+19509033,9/20/2013,D-III,Ferrum,Bridgewater,RECEIVING,Matthew,Kennell,REC,3
+19509034,9/20/2013,D-III,Ferrum,Bridgewater,RECEIVING,Matthew,Kennell,YDS,37
+19509035,9/20/2013,D-III,Ferrum,Bridgewater,RECEIVING,Matthew,Kennell,TD,1
+19509036,9/20/2013,D-III,Ferrum,Bridgewater,RECEIVING,Matthew,Kennell,LONG,20
+19509037,9/20/2013,D-III,Ferrum,Bridgewater,PUNTING,Wesley,Franklin,NO,5
+19509038,9/20/2013,D-III,Ferrum,Bridgewater,PUNTING,Wesley,Franklin,YDS,213
+19509039,9/20/2013,D-III,Ferrum,Bridgewater,PUNTING,Wesley,Franklin,AVG,42.6
+19509040,9/20/2013,D-III,Ferrum,Bridgewater,PUNTING,Wesley,Franklin,LONG,50
+19509041,9/20/2013,D-III,Ferrum,Bridgewater,KICK RETURNS,Tae,Gilgert,NO,2
+19509042,9/20/2013,D-III,Ferrum,Bridgewater,KICK RETURNS,Tae,Gilgert,YDS,45
+19509043,9/20/2013,D-III,Ferrum,Bridgewater,KICK RETURNS,Tae,Gilgert,AVG,22.5
+19509044,9/20/2013,D-III,Ferrum,Bridgewater,KICK RETURNS,Tae,Gilgert,LONG,33
+19509045,9/20/2013,D-III,Ferrum,Bridgewater,KICK RETURNS,Troy,Helton,NO,5
+19509046,9/20/2013,D-III,Ferrum,Bridgewater,KICK RETURNS,Troy,Helton,YDS,71
+19509047,9/20/2013,D-III,Ferrum,Bridgewater,KICK RETURNS,Troy,Helton,AVG,14.2
+19509048,9/20/2013,D-III,Ferrum,Bridgewater,KICK RETURNS,Troy,Helton,LONG,27
+19509049,9/20/2013,D-III,Ferrum,Bridgewater,KICK RETURNS,Joseph,Barton,NO,1
+19509050,9/20/2013,D-III,Ferrum,Bridgewater,KICK RETURNS,Joseph,Barton,YDS,11
+19509051,9/20/2013,D-III,Ferrum,Bridgewater,KICK RETURNS,Joseph,Barton,AVG,11.0
+19509052,9/20/2013,D-III,Ferrum,Bridgewater,KICK RETURNS,Joseph,Barton,LONG,11
+19509053,9/20/2013,D-III,Ferrum,Bridgewater,KICK RETURNS,Jay,Horton,NO,1
+19509054,9/20/2013,D-III,Ferrum,Bridgewater,KICK RETURNS,Jay,Horton,YDS,25
+19509055,9/20/2013,D-III,Ferrum,Bridgewater,KICK RETURNS,Jay,Horton,AVG,25.0
+19509056,9/20/2013,D-III,Ferrum,Bridgewater,KICK RETURNS,Jay,Horton,LONG,25
+19509057,9/20/2013,D-III,Bridgewater,Ferrum,RUSHING,Nick,Ollie,ATT,1
+19509058,9/20/2013,D-III,Bridgewater,Ferrum,RUSHING,Nick,Ollie,YDS,3
+19509059,9/20/2013,D-III,Bridgewater,Ferrum,RUSHING,Nick,Ollie,TD,0
+19509060,9/20/2013,D-III,Bridgewater,Ferrum,RUSHING,Nick,Ollie,LONG,3
+19509061,9/20/2013,D-III,Bridgewater,Ferrum,RUSHING,Willie,Logan,ATT,10
+19509062,9/20/2013,D-III,Bridgewater,Ferrum,RUSHING,Willie,Logan,YDS,22
+19509063,9/20/2013,D-III,Bridgewater,Ferrum,RUSHING,Willie,Logan,TD,0
+19509064,9/20/2013,D-III,Bridgewater,Ferrum,RUSHING,Willie,Logan,LONG,20
+19509065,9/20/2013,D-III,Bridgewater,Ferrum,RUSHING,Jacob,Wright,ATT,21
+19509066,9/20/2013,D-III,Bridgewater,Ferrum,RUSHING,Jacob,Wright,YDS,97
+19509067,9/20/2013,D-III,Bridgewater,Ferrum,RUSHING,Jacob,Wright,TD,3
+19509068,9/20/2013,D-III,Bridgewater,Ferrum,RUSHING,Jacob,Wright,LONG,28
+19509069,9/20/2013,D-III,Bridgewater,Ferrum,RUSHING,Jordan,Hartman,ATT,7
+19509070,9/20/2013,D-III,Bridgewater,Ferrum,RUSHING,Jordan,Hartman,YDS,31
+19509071,9/20/2013,D-III,Bridgewater,Ferrum,RUSHING,Jordan,Hartman,TD,0
+19509072,9/20/2013,D-III,Bridgewater,Ferrum,RUSHING,Jordan,Hartman,LONG,20
+19509073,9/20/2013,D-III,Bridgewater,Ferrum,RUSHING,Nick,Wimer,ATT,3
+19509074,9/20/2013,D-III,Bridgewater,Ferrum,RUSHING,Nick,Wimer,YDS,42
+19509075,9/20/2013,D-III,Bridgewater,Ferrum,RUSHING,Nick,Wimer,TD,1
+19509076,9/20/2013,D-III,Bridgewater,Ferrum,RUSHING,Nick,Wimer,LONG,30
+19509077,9/20/2013,D-III,Bridgewater,Ferrum,RUSHING,Ling,Zheng,ATT,1
+19509078,9/20/2013,D-III,Bridgewater,Ferrum,RUSHING,Ling,Zheng,YDS,-3
+19509079,9/20/2013,D-III,Bridgewater,Ferrum,RUSHING,Ling,Zheng,TD,0
+19509080,9/20/2013,D-III,Bridgewater,Ferrum,RUSHING,Ling,Zheng,LONG,0
+19509081,9/20/2013,D-III,Bridgewater,Ferrum,RUSHING,Jeff,Matthews,ATT,1
+19509082,9/20/2013,D-III,Bridgewater,Ferrum,RUSHING,Jeff,Matthews,YDS,-2
+19509083,9/20/2013,D-III,Bridgewater,Ferrum,RUSHING,Jeff,Matthews,TD,0
+19509084,9/20/2013,D-III,Bridgewater,Ferrum,RUSHING,Jeff,Matthews,LONG,0
+19509085,9/20/2013,D-III,Bridgewater,Ferrum,RUSHING,,Team,ATT,1
+19509086,9/20/2013,D-III,Bridgewater,Ferrum,RUSHING,,Team,YDS,-2
+19509087,9/20/2013,D-III,Bridgewater,Ferrum,RUSHING,,Team,TD,0
+19509088,9/20/2013,D-III,Bridgewater,Ferrum,RUSHING,,Team,LONG,0
+19509089,9/20/2013,D-III,Bridgewater,Ferrum,PASSING,Willie,Logan,CP-ATT-INT,22-36-1
+19509090,9/20/2013,D-III,Bridgewater,Ferrum,PASSING,Willie,Logan,YDS,350
+19509091,9/20/2013,D-III,Bridgewater,Ferrum,PASSING,Willie,Logan,TD,2
+19509092,9/20/2013,D-III,Bridgewater,Ferrum,PASSING,Willie,Logan,LONG,51
+19509093,9/20/2013,D-III,Bridgewater,Ferrum,RECEIVING,Jayme,Perry,REC,2
+19509094,9/20/2013,D-III,Bridgewater,Ferrum,RECEIVING,Jayme,Perry,YDS,30
+19509095,9/20/2013,D-III,Bridgewater,Ferrum,RECEIVING,Jayme,Perry,TD,0
+19509096,9/20/2013,D-III,Bridgewater,Ferrum,RECEIVING,Jayme,Perry,LONG,18
+19509097,9/20/2013,D-III,Bridgewater,Ferrum,RECEIVING,Shawn,Lee,REC,2
+19509098,9/20/2013,D-III,Bridgewater,Ferrum,RECEIVING,Shawn,Lee,YDS,35
+19509099,9/20/2013,D-III,Bridgewater,Ferrum,RECEIVING,Shawn,Lee,TD,1
+19509100,9/20/2013,D-III,Bridgewater,Ferrum,RECEIVING,Shawn,Lee,LONG,23
+19509101,9/20/2013,D-III,Bridgewater,Ferrum,RECEIVING,Cassidy,Burns,REC,11
+19509102,9/20/2013,D-III,Bridgewater,Ferrum,RECEIVING,Cassidy,Burns,YDS,193
+19509103,9/20/2013,D-III,Bridgewater,Ferrum,RECEIVING,Cassidy,Burns,TD,1
+19509104,9/20/2013,D-III,Bridgewater,Ferrum,RECEIVING,Cassidy,Burns,LONG,51
+19509105,9/20/2013,D-III,Bridgewater,Ferrum,RECEIVING,Michael,Colee,REC,2
+19509106,9/20/2013,D-III,Bridgewater,Ferrum,RECEIVING,Michael,Colee,YDS,19
+19509107,9/20/2013,D-III,Bridgewater,Ferrum,RECEIVING,Michael,Colee,TD,0
+19509108,9/20/2013,D-III,Bridgewater,Ferrum,RECEIVING,Michael,Colee,LONG,12
+19509109,9/20/2013,D-III,Bridgewater,Ferrum,RECEIVING,Jacob,Wright,REC,2
+19509110,9/20/2013,D-III,Bridgewater,Ferrum,RECEIVING,Jacob,Wright,YDS,40
+19509111,9/20/2013,D-III,Bridgewater,Ferrum,RECEIVING,Jacob,Wright,TD,0
+19509112,9/20/2013,D-III,Bridgewater,Ferrum,RECEIVING,Jacob,Wright,LONG,22
+19509113,9/20/2013,D-III,Bridgewater,Ferrum,RECEIVING,Jeffrey,Moore,REC,2
+19509114,9/20/2013,D-III,Bridgewater,Ferrum,RECEIVING,Jeffrey,Moore,YDS,25
+19509115,9/20/2013,D-III,Bridgewater,Ferrum,RECEIVING,Jeffrey,Moore,TD,0
+19509116,9/20/2013,D-III,Bridgewater,Ferrum,RECEIVING,Jeffrey,Moore,LONG,17
+19509117,9/20/2013,D-III,Bridgewater,Ferrum,RECEIVING,Anthony,Church,REC,1
+19509118,9/20/2013,D-III,Bridgewater,Ferrum,RECEIVING,Anthony,Church,YDS,8
+19509119,9/20/2013,D-III,Bridgewater,Ferrum,RECEIVING,Anthony,Church,TD,0
+19509120,9/20/2013,D-III,Bridgewater,Ferrum,RECEIVING,Anthony,Church,LONG,8
+19509121,9/20/2013,D-III,Bridgewater,Ferrum,PUNTING,Michael,Cook,NO,2
+19509122,9/20/2013,D-III,Bridgewater,Ferrum,PUNTING,Michael,Cook,YDS,67
+19509123,9/20/2013,D-III,Bridgewater,Ferrum,PUNTING,Michael,Cook,AVG,33.5
+19509124,9/20/2013,D-III,Bridgewater,Ferrum,PUNTING,Michael,Cook,LONG,34
+19509125,9/20/2013,D-III,Bridgewater,Ferrum,PUNT RETURNS,Jordan,Hartman,NO,2
+19509126,9/20/2013,D-III,Bridgewater,Ferrum,PUNT RETURNS,Jordan,Hartman,YDS,47
+19509127,9/20/2013,D-III,Bridgewater,Ferrum,PUNT RETURNS,Jordan,Hartman,AVG,23.5
+19509128,9/20/2013,D-III,Bridgewater,Ferrum,PUNT RETURNS,Jordan,Hartman,LONG,30
+19509129,9/20/2013,D-III,Bridgewater,Ferrum,PUNT RETURNS,Jeffrey,Moore,NO,1
+19509130,9/20/2013,D-III,Bridgewater,Ferrum,PUNT RETURNS,Jeffrey,Moore,YDS,-5
+19509131,9/20/2013,D-III,Bridgewater,Ferrum,PUNT RETURNS,Jeffrey,Moore,AVG,-5.0
+19509132,9/20/2013,D-III,Bridgewater,Ferrum,PUNT RETURNS,Jeffrey,Moore,LONG,0
+19509133,9/20/2013,D-III,Bridgewater,Ferrum,KICK RETURNS,Jordan,Hartman,NO,3
+19509134,9/20/2013,D-III,Bridgewater,Ferrum,KICK RETURNS,Jordan,Hartman,YDS,76
+19509135,9/20/2013,D-III,Bridgewater,Ferrum,KICK RETURNS,Jordan,Hartman,AVG,25.3
+19509136,9/20/2013,D-III,Bridgewater,Ferrum,KICK RETURNS,Jordan,Hartman,LONG,31
+19509137,9/20/2013,D-III,Bridgewater,Ferrum,KICK RETURNS,Jeff,Matthews,NO,2
+19509138,9/20/2013,D-III,Bridgewater,Ferrum,KICK RETURNS,Jeff,Matthews,YDS,37
+19509139,9/20/2013,D-III,Bridgewater,Ferrum,KICK RETURNS,Jeff,Matthews,AVG,18.5
+19509140,9/20/2013,D-III,Bridgewater,Ferrum,KICK RETURNS,Jeff,Matthews,LONG,22

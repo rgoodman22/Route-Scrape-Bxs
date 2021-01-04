@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+25230001,10/28/2017,D-III,Hamilton,Williams,RUSHING,Marcus,Gutierre,ATT,13
+25230002,10/28/2017,D-III,Hamilton,Williams,RUSHING,Marcus,Gutierre,YDS,77
+25230003,10/28/2017,D-III,Hamilton,Williams,RUSHING,Marcus,Gutierre,TD,0
+25230004,10/28/2017,D-III,Hamilton,Williams,RUSHING,Marcus,Gutierre,LONG,15
+25230005,10/28/2017,D-III,Hamilton,Williams,RUSHING,Mitch,Bierman,ATT,9
+25230006,10/28/2017,D-III,Hamilton,Williams,RUSHING,Mitch,Bierman,YDS,15
+25230007,10/28/2017,D-III,Hamilton,Williams,RUSHING,Mitch,Bierman,TD,0
+25230008,10/28/2017,D-III,Hamilton,Williams,RUSHING,Mitch,Bierman,LONG,5
+25230009,10/28/2017,D-III,Hamilton,Williams,RUSHING,Kenny,Gray,ATT,9
+25230010,10/28/2017,D-III,Hamilton,Williams,RUSHING,Kenny,Gray,YDS,-12
+25230011,10/28/2017,D-III,Hamilton,Williams,RUSHING,Kenny,Gray,TD,0
+25230012,10/28/2017,D-III,Hamilton,Williams,RUSHING,Kenny,Gray,LONG,14
+25230013,10/28/2017,D-III,Hamilton,Williams,PASSING,Kenny,Gray,CP-ATT-INT,21-48-2
+25230014,10/28/2017,D-III,Hamilton,Williams,PASSING,Kenny,Gray,YDS,237
+25230015,10/28/2017,D-III,Hamilton,Williams,PASSING,Kenny,Gray,TD,1
+25230016,10/28/2017,D-III,Hamilton,Williams,PASSING,Kenny,Gray,LONG,27
+25230017,10/28/2017,D-III,Hamilton,Williams,RECEIVING,Joe,Schmidt,REC,6
+25230018,10/28/2017,D-III,Hamilton,Williams,RECEIVING,Joe,Schmidt,YDS,97
+25230019,10/28/2017,D-III,Hamilton,Williams,RECEIVING,Joe,Schmidt,TD,1
+25230020,10/28/2017,D-III,Hamilton,Williams,RECEIVING,Joe,Schmidt,LONG,27
+25230021,10/28/2017,D-III,Hamilton,Williams,RECEIVING,Alec,Waugh,REC,5
+25230022,10/28/2017,D-III,Hamilton,Williams,RECEIVING,Alec,Waugh,YDS,63
+25230023,10/28/2017,D-III,Hamilton,Williams,RECEIVING,Alec,Waugh,TD,0
+25230024,10/28/2017,D-III,Hamilton,Williams,RECEIVING,Alec,Waugh,LONG,19
+25230025,10/28/2017,D-III,Hamilton,Williams,RECEIVING,Christian,Donah,REC,2
+25230026,10/28/2017,D-III,Hamilton,Williams,RECEIVING,Christian,Donah,YDS,30
+25230027,10/28/2017,D-III,Hamilton,Williams,RECEIVING,Christian,Donah,TD,0
+25230028,10/28/2017,D-III,Hamilton,Williams,RECEIVING,Christian,Donah,LONG,17
+25230029,10/28/2017,D-III,Hamilton,Williams,RECEIVING,Sam,Robinson,REC,5
+25230030,10/28/2017,D-III,Hamilton,Williams,RECEIVING,Sam,Robinson,YDS,25
+25230031,10/28/2017,D-III,Hamilton,Williams,RECEIVING,Sam,Robinson,TD,0
+25230032,10/28/2017,D-III,Hamilton,Williams,RECEIVING,Sam,Robinson,LONG,11
+25230033,10/28/2017,D-III,Hamilton,Williams,RECEIVING,Eli,Saucier,REC,2
+25230034,10/28/2017,D-III,Hamilton,Williams,RECEIVING,Eli,Saucier,YDS,18
+25230035,10/28/2017,D-III,Hamilton,Williams,RECEIVING,Eli,Saucier,TD,0
+25230036,10/28/2017,D-III,Hamilton,Williams,RECEIVING,Eli,Saucier,LONG,13
+25230037,10/28/2017,D-III,Hamilton,Williams,RECEIVING,Michael,Nole,REC,1
+25230038,10/28/2017,D-III,Hamilton,Williams,RECEIVING,Michael,Nole,YDS,4
+25230039,10/28/2017,D-III,Hamilton,Williams,RECEIVING,Michael,Nole,TD,0
+25230040,10/28/2017,D-III,Hamilton,Williams,RECEIVING,Michael,Nole,LONG,4
+25230041,10/28/2017,D-III,Hamilton,Williams,PUNTING,Billy,Wagner,NO,8
+25230042,10/28/2017,D-III,Hamilton,Williams,PUNTING,Billy,Wagner,YDS,330
+25230043,10/28/2017,D-III,Hamilton,Williams,PUNTING,Billy,Wagner,AVG,41.3
+25230044,10/28/2017,D-III,Hamilton,Williams,PUNTING,Billy,Wagner,LONG,56
+25230045,10/28/2017,D-III,Hamilton,Williams,PUNT RETURNS,Sam,Robinson,NO,2
+25230046,10/28/2017,D-III,Hamilton,Williams,PUNT RETURNS,Sam,Robinson,YDS,8
+25230047,10/28/2017,D-III,Hamilton,Williams,PUNT RETURNS,Sam,Robinson,AVG,4.0
+25230048,10/28/2017,D-III,Hamilton,Williams,PUNT RETURNS,Sam,Robinson,LONG,10
+25230049,10/28/2017,D-III,Hamilton,Williams,KICK RETURNS,Sam,Robinson,NO,1
+25230050,10/28/2017,D-III,Hamilton,Williams,KICK RETURNS,Sam,Robinson,YDS,1
+25230051,10/28/2017,D-III,Hamilton,Williams,KICK RETURNS,Sam,Robinson,AVG,1.0
+25230052,10/28/2017,D-III,Hamilton,Williams,KICK RETURNS,Sam,Robinson,LONG,1
+25230053,10/28/2017,D-III,Hamilton,Williams,KICK RETURNS,Kevin,Iobbi,NO,3
+25230054,10/28/2017,D-III,Hamilton,Williams,KICK RETURNS,Kevin,Iobbi,YDS,58
+25230055,10/28/2017,D-III,Hamilton,Williams,KICK RETURNS,Kevin,Iobbi,AVG,19.3
+25230056,10/28/2017,D-III,Hamilton,Williams,KICK RETURNS,Kevin,Iobbi,LONG,21
+25230057,10/28/2017,D-III,Williams,Hamilton,RUSHING,Tj,Dozier,ATT,22
+25230058,10/28/2017,D-III,Williams,Hamilton,RUSHING,Tj,Dozier,YDS,112
+25230059,10/28/2017,D-III,Williams,Hamilton,RUSHING,Tj,Dozier,TD,0
+25230060,10/28/2017,D-III,Williams,Hamilton,RUSHING,Tj,Dozier,LONG,17
+25230061,10/28/2017,D-III,Williams,Hamilton,RUSHING,Bobby,Maimaron,ATT,15
+25230062,10/28/2017,D-III,Williams,Hamilton,RUSHING,Bobby,Maimaron,YDS,65
+25230063,10/28/2017,D-III,Williams,Hamilton,RUSHING,Bobby,Maimaron,TD,1
+25230064,10/28/2017,D-III,Williams,Hamilton,RUSHING,Bobby,Maimaron,LONG,22
+25230065,10/28/2017,D-III,Williams,Hamilton,RUSHING,Rashad,Morrison,ATT,4
+25230066,10/28/2017,D-III,Williams,Hamilton,RUSHING,Rashad,Morrison,YDS,21
+25230067,10/28/2017,D-III,Williams,Hamilton,RUSHING,Rashad,Morrison,TD,0
+25230068,10/28/2017,D-III,Williams,Hamilton,RUSHING,Rashad,Morrison,LONG,11
+25230069,10/28/2017,D-III,Williams,Hamilton,RUSHING,Justin,Burke,ATT,1
+25230070,10/28/2017,D-III,Williams,Hamilton,RUSHING,Justin,Burke,YDS,12
+25230071,10/28/2017,D-III,Williams,Hamilton,RUSHING,Justin,Burke,TD,0
+25230072,10/28/2017,D-III,Williams,Hamilton,RUSHING,Justin,Burke,LONG,12
+25230073,10/28/2017,D-III,Williams,Hamilton,RUSHING,Steve,Bohling,ATT,1
+25230074,10/28/2017,D-III,Williams,Hamilton,RUSHING,Steve,Bohling,YDS,1
+25230075,10/28/2017,D-III,Williams,Hamilton,RUSHING,Steve,Bohling,TD,0
+25230076,10/28/2017,D-III,Williams,Hamilton,RUSHING,Steve,Bohling,LONG,1
+25230077,10/28/2017,D-III,Williams,Hamilton,RUSHING,,Team,ATT,2
+25230078,10/28/2017,D-III,Williams,Hamilton,RUSHING,,Team,YDS,0
+25230079,10/28/2017,D-III,Williams,Hamilton,RUSHING,,Team,TD,0
+25230080,10/28/2017,D-III,Williams,Hamilton,RUSHING,,Team,LONG,0
+25230081,10/28/2017,D-III,Williams,Hamilton,RUSHING,Ryan,Pruss,ATT,1
+25230082,10/28/2017,D-III,Williams,Hamilton,RUSHING,Ryan,Pruss,YDS,-3
+25230083,10/28/2017,D-III,Williams,Hamilton,RUSHING,Ryan,Pruss,TD,0
+25230084,10/28/2017,D-III,Williams,Hamilton,RUSHING,Ryan,Pruss,LONG,0
+25230085,10/28/2017,D-III,Williams,Hamilton,PASSING,Bobby,Maimaron,CP-ATT-INT,22-33-2
+25230086,10/28/2017,D-III,Williams,Hamilton,PASSING,Bobby,Maimaron,YDS,268
+25230087,10/28/2017,D-III,Williams,Hamilton,PASSING,Bobby,Maimaron,TD,2
+25230088,10/28/2017,D-III,Williams,Hamilton,PASSING,Bobby,Maimaron,LONG,76
+25230089,10/28/2017,D-III,Williams,Hamilton,PASSING,James,Dunn,CP-ATT-INT,0-1-0
+25230090,10/28/2017,D-III,Williams,Hamilton,PASSING,James,Dunn,YDS,0
+25230091,10/28/2017,D-III,Williams,Hamilton,PASSING,James,Dunn,TD,0
+25230092,10/28/2017,D-III,Williams,Hamilton,PASSING,James,Dunn,LONG,0
+25230093,10/28/2017,D-III,Williams,Hamilton,PASSING,Min,kyuPark,CP-ATT-INT,0-1-0
+25230094,10/28/2017,D-III,Williams,Hamilton,PASSING,Min,kyuPark,YDS,0
+25230095,10/28/2017,D-III,Williams,Hamilton,PASSING,Min,kyuPark,TD,0
+25230096,10/28/2017,D-III,Williams,Hamilton,PASSING,Min,kyuPark,LONG,0
+25230097,10/28/2017,D-III,Williams,Hamilton,RECEIVING,Justin,Nelson,REC,6
+25230098,10/28/2017,D-III,Williams,Hamilton,RECEIVING,Justin,Nelson,YDS,125
+25230099,10/28/2017,D-III,Williams,Hamilton,RECEIVING,Justin,Nelson,TD,1
+25230100,10/28/2017,D-III,Williams,Hamilton,RECEIVING,Justin,Nelson,LONG,76
+25230101,10/28/2017,D-III,Williams,Hamilton,RECEIVING,Frank,Stola,REC,4
+25230102,10/28/2017,D-III,Williams,Hamilton,RECEIVING,Frank,Stola,YDS,51
+25230103,10/28/2017,D-III,Williams,Hamilton,RECEIVING,Frank,Stola,TD,1
+25230104,10/28/2017,D-III,Williams,Hamilton,RECEIVING,Frank,Stola,LONG,31
+25230105,10/28/2017,D-III,Williams,Hamilton,RECEIVING,Adam,Regensburg,REC,4
+25230106,10/28/2017,D-III,Williams,Hamilton,RECEIVING,Adam,Regensburg,YDS,37
+25230107,10/28/2017,D-III,Williams,Hamilton,RECEIVING,Adam,Regensburg,TD,0
+25230108,10/28/2017,D-III,Williams,Hamilton,RECEIVING,Adam,Regensburg,LONG,18
+25230109,10/28/2017,D-III,Williams,Hamilton,RECEIVING,Tj,Dozier,REC,5
+25230110,10/28/2017,D-III,Williams,Hamilton,RECEIVING,Tj,Dozier,YDS,33
+25230111,10/28/2017,D-III,Williams,Hamilton,RECEIVING,Tj,Dozier,TD,0
+25230112,10/28/2017,D-III,Williams,Hamilton,RECEIVING,Tj,Dozier,LONG,14
+25230113,10/28/2017,D-III,Williams,Hamilton,RECEIVING,Justin,Burke,REC,1
+25230114,10/28/2017,D-III,Williams,Hamilton,RECEIVING,Justin,Burke,YDS,12
+25230115,10/28/2017,D-III,Williams,Hamilton,RECEIVING,Justin,Burke,TD,0
+25230116,10/28/2017,D-III,Williams,Hamilton,RECEIVING,Justin,Burke,LONG,12
+25230117,10/28/2017,D-III,Williams,Hamilton,RECEIVING,Steve,Bohling,REC,1
+25230118,10/28/2017,D-III,Williams,Hamilton,RECEIVING,Steve,Bohling,YDS,6
+25230119,10/28/2017,D-III,Williams,Hamilton,RECEIVING,Steve,Bohling,TD,0
+25230120,10/28/2017,D-III,Williams,Hamilton,RECEIVING,Steve,Bohling,LONG,6
+25230121,10/28/2017,D-III,Williams,Hamilton,RECEIVING,Rashad,Morrison,REC,1
+25230122,10/28/2017,D-III,Williams,Hamilton,RECEIVING,Rashad,Morrison,YDS,4
+25230123,10/28/2017,D-III,Williams,Hamilton,RECEIVING,Rashad,Morrison,TD,0
+25230124,10/28/2017,D-III,Williams,Hamilton,RECEIVING,Rashad,Morrison,LONG,4
+25230125,10/28/2017,D-III,Williams,Hamilton,PUNTING,Adam,Regensburg,NO,4
+25230126,10/28/2017,D-III,Williams,Hamilton,PUNTING,Adam,Regensburg,YDS,175
+25230127,10/28/2017,D-III,Williams,Hamilton,PUNTING,Adam,Regensburg,AVG,43.8
+25230128,10/28/2017,D-III,Williams,Hamilton,PUNTING,Adam,Regensburg,LONG,50
+25230129,10/28/2017,D-III,Williams,Hamilton,PUNT RETURNS,Frank,Stola,NO,1
+25230130,10/28/2017,D-III,Williams,Hamilton,PUNT RETURNS,Frank,Stola,YDS,32
+25230131,10/28/2017,D-III,Williams,Hamilton,PUNT RETURNS,Frank,Stola,AVG,32.0
+25230132,10/28/2017,D-III,Williams,Hamilton,PUNT RETURNS,Frank,Stola,LONG,32
+25230133,10/28/2017,D-III,Williams,Hamilton,KICK RETURNS,Frank,Stola,NO,1
+25230134,10/28/2017,D-III,Williams,Hamilton,KICK RETURNS,Frank,Stola,YDS,26
+25230135,10/28/2017,D-III,Williams,Hamilton,KICK RETURNS,Frank,Stola,AVG,26.0
+25230136,10/28/2017,D-III,Williams,Hamilton,KICK RETURNS,Frank,Stola,LONG,26

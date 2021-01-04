@@ -1,0 +1,153 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+20190001,11/1/2013,D-III,Lycoming,King's (Pa.),RUSHING,Tyler,Jenny,ATT,6
+20190002,11/1/2013,D-III,Lycoming,King's (Pa.),RUSHING,Tyler,Jenny,YDS,17
+20190003,11/1/2013,D-III,Lycoming,King's (Pa.),RUSHING,Tyler,Jenny,TD,0
+20190004,11/1/2013,D-III,Lycoming,King's (Pa.),RUSHING,Tyler,Jenny,LONG,17
+20190005,11/1/2013,D-III,Lycoming,King's (Pa.),RUSHING,C,Needhammer,ATT,24
+20190006,11/1/2013,D-III,Lycoming,King's (Pa.),RUSHING,C,Needhammer,YDS,63
+20190007,11/1/2013,D-III,Lycoming,King's (Pa.),RUSHING,C,Needhammer,TD,1
+20190008,11/1/2013,D-III,Lycoming,King's (Pa.),RUSHING,C,Needhammer,LONG,8
+20190009,11/1/2013,D-III,Lycoming,King's (Pa.),RUSHING,Blake,Bowman,ATT,2
+20190010,11/1/2013,D-III,Lycoming,King's (Pa.),RUSHING,Blake,Bowman,YDS,2
+20190011,11/1/2013,D-III,Lycoming,King's (Pa.),RUSHING,Blake,Bowman,TD,0
+20190012,11/1/2013,D-III,Lycoming,King's (Pa.),RUSHING,Blake,Bowman,LONG,2
+20190013,11/1/2013,D-III,Lycoming,King's (Pa.),PASSING,Tyler,Jenny,CP-ATT-INT,21-34-0
+20190014,11/1/2013,D-III,Lycoming,King's (Pa.),PASSING,Tyler,Jenny,YDS,249
+20190015,11/1/2013,D-III,Lycoming,King's (Pa.),PASSING,Tyler,Jenny,TD,2
+20190016,11/1/2013,D-III,Lycoming,King's (Pa.),PASSING,Tyler,Jenny,LONG,36
+20190017,11/1/2013,D-III,Lycoming,King's (Pa.),RECEIVING,Matt,Atkinson,REC,8
+20190018,11/1/2013,D-III,Lycoming,King's (Pa.),RECEIVING,Matt,Atkinson,YDS,84
+20190019,11/1/2013,D-III,Lycoming,King's (Pa.),RECEIVING,Matt,Atkinson,TD,0
+20190020,11/1/2013,D-III,Lycoming,King's (Pa.),RECEIVING,Matt,Atkinson,LONG,25
+20190021,11/1/2013,D-III,Lycoming,King's (Pa.),RECEIVING,Ryan,Umpleby,REC,1
+20190022,11/1/2013,D-III,Lycoming,King's (Pa.),RECEIVING,Ryan,Umpleby,YDS,8
+20190023,11/1/2013,D-III,Lycoming,King's (Pa.),RECEIVING,Ryan,Umpleby,TD,0
+20190024,11/1/2013,D-III,Lycoming,King's (Pa.),RECEIVING,Ryan,Umpleby,LONG,8
+20190025,11/1/2013,D-III,Lycoming,King's (Pa.),RECEIVING,John,Sibel,REC,7
+20190026,11/1/2013,D-III,Lycoming,King's (Pa.),RECEIVING,John,Sibel,YDS,53
+20190027,11/1/2013,D-III,Lycoming,King's (Pa.),RECEIVING,John,Sibel,TD,0
+20190028,11/1/2013,D-III,Lycoming,King's (Pa.),RECEIVING,John,Sibel,LONG,12
+20190029,11/1/2013,D-III,Lycoming,King's (Pa.),RECEIVING,Corey,Talerico,REC,2
+20190030,11/1/2013,D-III,Lycoming,King's (Pa.),RECEIVING,Corey,Talerico,YDS,69
+20190031,11/1/2013,D-III,Lycoming,King's (Pa.),RECEIVING,Corey,Talerico,TD,1
+20190032,11/1/2013,D-III,Lycoming,King's (Pa.),RECEIVING,Corey,Talerico,LONG,36
+20190033,11/1/2013,D-III,Lycoming,King's (Pa.),RECEIVING,C,Needhammer,REC,3
+20190034,11/1/2013,D-III,Lycoming,King's (Pa.),RECEIVING,C,Needhammer,YDS,35
+20190035,11/1/2013,D-III,Lycoming,King's (Pa.),RECEIVING,C,Needhammer,TD,1
+20190036,11/1/2013,D-III,Lycoming,King's (Pa.),RECEIVING,C,Needhammer,LONG,18
+20190037,11/1/2013,D-III,Lycoming,King's (Pa.),PUNTING,Zack,Czap,NO,3
+20190038,11/1/2013,D-III,Lycoming,King's (Pa.),PUNTING,Zack,Czap,YDS,111
+20190039,11/1/2013,D-III,Lycoming,King's (Pa.),PUNTING,Zack,Czap,AVG,37.0
+20190040,11/1/2013,D-III,Lycoming,King's (Pa.),PUNTING,Zack,Czap,LONG,40
+20190041,11/1/2013,D-III,Lycoming,King's (Pa.),PUNTING,,Team,NO,1
+20190042,11/1/2013,D-III,Lycoming,King's (Pa.),PUNTING,,Team,YDS,0
+20190043,11/1/2013,D-III,Lycoming,King's (Pa.),PUNTING,,Team,AVG,0.0
+20190044,11/1/2013,D-III,Lycoming,King's (Pa.),PUNTING,,Team,LONG,0
+20190045,11/1/2013,D-III,Lycoming,King's (Pa.),KICK RETURNS,Alex,Martin,NO,1
+20190046,11/1/2013,D-III,Lycoming,King's (Pa.),KICK RETURNS,Alex,Martin,YDS,0
+20190047,11/1/2013,D-III,Lycoming,King's (Pa.),KICK RETURNS,Alex,Martin,AVG,0.0
+20190048,11/1/2013,D-III,Lycoming,King's (Pa.),KICK RETURNS,Alex,Martin,LONG,0
+20190049,11/1/2013,D-III,Lycoming,King's (Pa.),KICK RETURNS,Matt,Atkinson,NO,0
+20190050,11/1/2013,D-III,Lycoming,King's (Pa.),KICK RETURNS,Matt,Atkinson,YDS,1
+20190051,11/1/2013,D-III,Lycoming,King's (Pa.),KICK RETURNS,Matt,Atkinson,AVG,-
+20190052,11/1/2013,D-III,Lycoming,King's (Pa.),KICK RETURNS,Matt,Atkinson,LONG,1
+20190053,11/1/2013,D-III,Lycoming,King's (Pa.),KICK RETURNS,Ryan,Umpleby,NO,2
+20190054,11/1/2013,D-III,Lycoming,King's (Pa.),KICK RETURNS,Ryan,Umpleby,YDS,41
+20190055,11/1/2013,D-III,Lycoming,King's (Pa.),KICK RETURNS,Ryan,Umpleby,AVG,20.5
+20190056,11/1/2013,D-III,Lycoming,King's (Pa.),KICK RETURNS,Ryan,Umpleby,LONG,26
+20190057,11/1/2013,D-III,Lycoming,King's (Pa.),KICK RETURNS,Mike,Gentile,NO,0
+20190058,11/1/2013,D-III,Lycoming,King's (Pa.),KICK RETURNS,Mike,Gentile,YDS,5
+20190059,11/1/2013,D-III,Lycoming,King's (Pa.),KICK RETURNS,Mike,Gentile,AVG,-
+20190060,11/1/2013,D-III,Lycoming,King's (Pa.),KICK RETURNS,Mike,Gentile,LONG,5
+20190061,11/1/2013,D-III,Lycoming,King's (Pa.),KICK RETURNS,Corey,Talerico,NO,0
+20190062,11/1/2013,D-III,Lycoming,King's (Pa.),KICK RETURNS,Corey,Talerico,YDS,-3
+20190063,11/1/2013,D-III,Lycoming,King's (Pa.),KICK RETURNS,Corey,Talerico,AVG,-
+20190064,11/1/2013,D-III,Lycoming,King's (Pa.),KICK RETURNS,Corey,Talerico,LONG,0
+20190065,11/1/2013,D-III,Lycoming,King's (Pa.),KICK RETURNS,C,Needhammer,NO,1
+20190066,11/1/2013,D-III,Lycoming,King's (Pa.),KICK RETURNS,C,Needhammer,YDS,46
+20190067,11/1/2013,D-III,Lycoming,King's (Pa.),KICK RETURNS,C,Needhammer,AVG,46.0
+20190068,11/1/2013,D-III,Lycoming,King's (Pa.),KICK RETURNS,C,Needhammer,LONG,30
+20190069,11/1/2013,D-III,Lycoming,King's (Pa.),KICK RETURNS,Ryan,Mihoci,NO,0
+20190070,11/1/2013,D-III,Lycoming,King's (Pa.),KICK RETURNS,Ryan,Mihoci,YDS,-1
+20190071,11/1/2013,D-III,Lycoming,King's (Pa.),KICK RETURNS,Ryan,Mihoci,AVG,-
+20190072,11/1/2013,D-III,Lycoming,King's (Pa.),KICK RETURNS,Ryan,Mihoci,LONG,0
+20190073,11/1/2013,D-III,King's (Pa.),Lycoming,RUSHING,Tyler,Hartranft,ATT,3
+20190074,11/1/2013,D-III,King's (Pa.),Lycoming,RUSHING,Tyler,Hartranft,YDS,-14
+20190075,11/1/2013,D-III,King's (Pa.),Lycoming,RUSHING,Tyler,Hartranft,TD,0
+20190076,11/1/2013,D-III,King's (Pa.),Lycoming,RUSHING,Tyler,Hartranft,LONG,2
+20190077,11/1/2013,D-III,King's (Pa.),Lycoming,RUSHING,Tom,Hehre,ATT,6
+20190078,11/1/2013,D-III,King's (Pa.),Lycoming,RUSHING,Tom,Hehre,YDS,10
+20190079,11/1/2013,D-III,King's (Pa.),Lycoming,RUSHING,Tom,Hehre,TD,0
+20190080,11/1/2013,D-III,King's (Pa.),Lycoming,RUSHING,Tom,Hehre,LONG,11
+20190081,11/1/2013,D-III,King's (Pa.),Lycoming,RUSHING,Kyle,Mcgrath,ATT,14
+20190082,11/1/2013,D-III,King's (Pa.),Lycoming,RUSHING,Kyle,Mcgrath,YDS,47
+20190083,11/1/2013,D-III,King's (Pa.),Lycoming,RUSHING,Kyle,Mcgrath,TD,1
+20190084,11/1/2013,D-III,King's (Pa.),Lycoming,RUSHING,Kyle,Mcgrath,LONG,15
+20190085,11/1/2013,D-III,King's (Pa.),Lycoming,RUSHING,,Team,ATT,1
+20190086,11/1/2013,D-III,King's (Pa.),Lycoming,RUSHING,,Team,YDS,1
+20190087,11/1/2013,D-III,King's (Pa.),Lycoming,RUSHING,,Team,TD,0
+20190088,11/1/2013,D-III,King's (Pa.),Lycoming,RUSHING,,Team,LONG,1
+20190089,11/1/2013,D-III,King's (Pa.),Lycoming,PASSING,Tyler,Hartranft,CP-ATT-INT,19-27-0
+20190090,11/1/2013,D-III,King's (Pa.),Lycoming,PASSING,Tyler,Hartranft,YDS,295
+20190091,11/1/2013,D-III,King's (Pa.),Lycoming,PASSING,Tyler,Hartranft,TD,3
+20190092,11/1/2013,D-III,King's (Pa.),Lycoming,PASSING,Tyler,Hartranft,LONG,51
+20190093,11/1/2013,D-III,King's (Pa.),Lycoming,PASSING,Tom,Hehre,CP-ATT-INT,1-1-0
+20190094,11/1/2013,D-III,King's (Pa.),Lycoming,PASSING,Tom,Hehre,YDS,20
+20190095,11/1/2013,D-III,King's (Pa.),Lycoming,PASSING,Tom,Hehre,TD,0
+20190096,11/1/2013,D-III,King's (Pa.),Lycoming,PASSING,Tom,Hehre,LONG,20
+20190097,11/1/2013,D-III,King's (Pa.),Lycoming,RECEIVING,Darren,Mitchell,REC,1
+20190098,11/1/2013,D-III,King's (Pa.),Lycoming,RECEIVING,Darren,Mitchell,YDS,23
+20190099,11/1/2013,D-III,King's (Pa.),Lycoming,RECEIVING,Darren,Mitchell,TD,0
+20190100,11/1/2013,D-III,King's (Pa.),Lycoming,RECEIVING,Darren,Mitchell,LONG,23
+20190101,11/1/2013,D-III,King's (Pa.),Lycoming,RECEIVING,Vince,Albano,REC,1
+20190102,11/1/2013,D-III,King's (Pa.),Lycoming,RECEIVING,Vince,Albano,YDS,4
+20190103,11/1/2013,D-III,King's (Pa.),Lycoming,RECEIVING,Vince,Albano,TD,0
+20190104,11/1/2013,D-III,King's (Pa.),Lycoming,RECEIVING,Vince,Albano,LONG,4
+20190105,11/1/2013,D-III,King's (Pa.),Lycoming,RECEIVING,Dan,Kempa,REC,5
+20190106,11/1/2013,D-III,King's (Pa.),Lycoming,RECEIVING,Dan,Kempa,YDS,115
+20190107,11/1/2013,D-III,King's (Pa.),Lycoming,RECEIVING,Dan,Kempa,TD,1
+20190108,11/1/2013,D-III,King's (Pa.),Lycoming,RECEIVING,Dan,Kempa,LONG,51
+20190109,11/1/2013,D-III,King's (Pa.),Lycoming,RECEIVING,Justin,Burke,REC,3
+20190110,11/1/2013,D-III,King's (Pa.),Lycoming,RECEIVING,Justin,Burke,YDS,82
+20190111,11/1/2013,D-III,King's (Pa.),Lycoming,RECEIVING,Justin,Burke,TD,1
+20190112,11/1/2013,D-III,King's (Pa.),Lycoming,RECEIVING,Justin,Burke,LONG,39
+20190113,11/1/2013,D-III,King's (Pa.),Lycoming,RECEIVING,Kyle,Mcgrath,REC,6
+20190114,11/1/2013,D-III,King's (Pa.),Lycoming,RECEIVING,Kyle,Mcgrath,YDS,42
+20190115,11/1/2013,D-III,King's (Pa.),Lycoming,RECEIVING,Kyle,Mcgrath,TD,0
+20190116,11/1/2013,D-III,King's (Pa.),Lycoming,RECEIVING,Kyle,Mcgrath,LONG,13
+20190117,11/1/2013,D-III,King's (Pa.),Lycoming,RECEIVING,Slade,Eigenmann,REC,1
+20190118,11/1/2013,D-III,King's (Pa.),Lycoming,RECEIVING,Slade,Eigenmann,YDS,7
+20190119,11/1/2013,D-III,King's (Pa.),Lycoming,RECEIVING,Slade,Eigenmann,TD,0
+20190120,11/1/2013,D-III,King's (Pa.),Lycoming,RECEIVING,Slade,Eigenmann,LONG,7
+20190121,11/1/2013,D-III,King's (Pa.),Lycoming,RECEIVING,,Team,REC,2
+20190122,11/1/2013,D-III,King's (Pa.),Lycoming,RECEIVING,,Team,YDS,39
+20190123,11/1/2013,D-III,King's (Pa.),Lycoming,RECEIVING,,Team,TD,0
+20190124,11/1/2013,D-III,King's (Pa.),Lycoming,RECEIVING,,Team,LONG,20
+20190125,11/1/2013,D-III,King's (Pa.),Lycoming,RECEIVING,Jay,Thomas,REC,1
+20190126,11/1/2013,D-III,King's (Pa.),Lycoming,RECEIVING,Jay,Thomas,YDS,3
+20190127,11/1/2013,D-III,King's (Pa.),Lycoming,RECEIVING,Jay,Thomas,TD,1
+20190128,11/1/2013,D-III,King's (Pa.),Lycoming,RECEIVING,Jay,Thomas,LONG,3
+20190129,11/1/2013,D-III,King's (Pa.),Lycoming,PUNTING,Eric,Haenggi,NO,5
+20190130,11/1/2013,D-III,King's (Pa.),Lycoming,PUNTING,Eric,Haenggi,YDS,165
+20190131,11/1/2013,D-III,King's (Pa.),Lycoming,PUNTING,Eric,Haenggi,AVG,33.0
+20190132,11/1/2013,D-III,King's (Pa.),Lycoming,PUNTING,Eric,Haenggi,LONG,38
+20190133,11/1/2013,D-III,King's (Pa.),Lycoming,PUNT RETURNS,Dan,Kempa,NO,1
+20190134,11/1/2013,D-III,King's (Pa.),Lycoming,PUNT RETURNS,Dan,Kempa,YDS,19
+20190135,11/1/2013,D-III,King's (Pa.),Lycoming,PUNT RETURNS,Dan,Kempa,AVG,19.0
+20190136,11/1/2013,D-III,King's (Pa.),Lycoming,PUNT RETURNS,Dan,Kempa,LONG,19
+20190137,11/1/2013,D-III,King's (Pa.),Lycoming,PUNT RETURNS,,Team,NO,1
+20190138,11/1/2013,D-III,King's (Pa.),Lycoming,PUNT RETURNS,,Team,YDS,11
+20190139,11/1/2013,D-III,King's (Pa.),Lycoming,PUNT RETURNS,,Team,AVG,11.0
+20190140,11/1/2013,D-III,King's (Pa.),Lycoming,PUNT RETURNS,,Team,LONG,0
+20190141,11/1/2013,D-III,King's (Pa.),Lycoming,KICK RETURNS,Dan,Kempa,NO,4
+20190142,11/1/2013,D-III,King's (Pa.),Lycoming,KICK RETURNS,Dan,Kempa,YDS,43
+20190143,11/1/2013,D-III,King's (Pa.),Lycoming,KICK RETURNS,Dan,Kempa,AVG,10.8
+20190144,11/1/2013,D-III,King's (Pa.),Lycoming,KICK RETURNS,Dan,Kempa,LONG,17
+20190145,11/1/2013,D-III,King's (Pa.),Lycoming,KICK RETURNS,Justin,Burke,NO,0
+20190146,11/1/2013,D-III,King's (Pa.),Lycoming,KICK RETURNS,Justin,Burke,YDS,11
+20190147,11/1/2013,D-III,King's (Pa.),Lycoming,KICK RETURNS,Justin,Burke,AVG,-
+20190148,11/1/2013,D-III,King's (Pa.),Lycoming,KICK RETURNS,Justin,Burke,LONG,11
+20190149,11/1/2013,D-III,King's (Pa.),Lycoming,KICK RETURNS,,Team,NO,1
+20190150,11/1/2013,D-III,King's (Pa.),Lycoming,KICK RETURNS,,Team,YDS,4
+20190151,11/1/2013,D-III,King's (Pa.),Lycoming,KICK RETURNS,,Team,AVG,4.0
+20190152,11/1/2013,D-III,King's (Pa.),Lycoming,KICK RETURNS,,Team,LONG,4

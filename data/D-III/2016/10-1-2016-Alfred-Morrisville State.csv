@@ -1,0 +1,121 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+23531001,10/1/2016,D-III,Alfred,Morrisville State,RUSHING,C,Bright,ATT,21
+23531002,10/1/2016,D-III,Alfred,Morrisville State,RUSHING,C,Bright,YDS,221
+23531003,10/1/2016,D-III,Alfred,Morrisville State,RUSHING,C,Bright,TD,2
+23531004,10/1/2016,D-III,Alfred,Morrisville State,RUSHING,C,Bright,LONG,45
+23531005,10/1/2016,D-III,Alfred,Morrisville State,RUSHING,M,Fuentes,ATT,14
+23531006,10/1/2016,D-III,Alfred,Morrisville State,RUSHING,M,Fuentes,YDS,106
+23531007,10/1/2016,D-III,Alfred,Morrisville State,RUSHING,M,Fuentes,TD,0
+23531008,10/1/2016,D-III,Alfred,Morrisville State,RUSHING,M,Fuentes,LONG,17
+23531009,10/1/2016,D-III,Alfred,Morrisville State,RUSHING,S,Davis,ATT,4
+23531010,10/1/2016,D-III,Alfred,Morrisville State,RUSHING,S,Davis,YDS,25
+23531011,10/1/2016,D-III,Alfred,Morrisville State,RUSHING,S,Davis,TD,0
+23531012,10/1/2016,D-III,Alfred,Morrisville State,RUSHING,S,Davis,LONG,11
+23531013,10/1/2016,D-III,Alfred,Morrisville State,RUSHING,T,Johnson,ATT,5
+23531014,10/1/2016,D-III,Alfred,Morrisville State,RUSHING,T,Johnson,YDS,17
+23531015,10/1/2016,D-III,Alfred,Morrisville State,RUSHING,T,Johnson,TD,1
+23531016,10/1/2016,D-III,Alfred,Morrisville State,RUSHING,T,Johnson,LONG,8
+23531017,10/1/2016,D-III,Alfred,Morrisville State,RUSHING,A,Griffin,ATT,2
+23531018,10/1/2016,D-III,Alfred,Morrisville State,RUSHING,A,Griffin,YDS,5
+23531019,10/1/2016,D-III,Alfred,Morrisville State,RUSHING,A,Griffin,TD,0
+23531020,10/1/2016,D-III,Alfred,Morrisville State,RUSHING,A,Griffin,LONG,3
+23531021,10/1/2016,D-III,Alfred,Morrisville State,RUSHING,,Team,ATT,1
+23531022,10/1/2016,D-III,Alfred,Morrisville State,RUSHING,,Team,YDS,-1
+23531023,10/1/2016,D-III,Alfred,Morrisville State,RUSHING,,Team,TD,0
+23531024,10/1/2016,D-III,Alfred,Morrisville State,RUSHING,,Team,LONG,0
+23531025,10/1/2016,D-III,Alfred,Morrisville State,PASSING,T,Johnson,CP-ATT-INT,17-18-0
+23531026,10/1/2016,D-III,Alfred,Morrisville State,PASSING,T,Johnson,YDS,252
+23531027,10/1/2016,D-III,Alfred,Morrisville State,PASSING,T,Johnson,TD,4
+23531028,10/1/2016,D-III,Alfred,Morrisville State,PASSING,T,Johnson,LONG,39
+23531029,10/1/2016,D-III,Alfred,Morrisville State,RECEIVING,B,Buisch,REC,8
+23531030,10/1/2016,D-III,Alfred,Morrisville State,RECEIVING,B,Buisch,YDS,145
+23531031,10/1/2016,D-III,Alfred,Morrisville State,RECEIVING,B,Buisch,TD,4
+23531032,10/1/2016,D-III,Alfred,Morrisville State,RECEIVING,B,Buisch,LONG,39
+23531033,10/1/2016,D-III,Alfred,Morrisville State,RECEIVING,C,Bright,REC,4
+23531034,10/1/2016,D-III,Alfred,Morrisville State,RECEIVING,C,Bright,YDS,68
+23531035,10/1/2016,D-III,Alfred,Morrisville State,RECEIVING,C,Bright,TD,0
+23531036,10/1/2016,D-III,Alfred,Morrisville State,RECEIVING,C,Bright,LONG,27
+23531037,10/1/2016,D-III,Alfred,Morrisville State,RECEIVING,R,Etienne,REC,2
+23531038,10/1/2016,D-III,Alfred,Morrisville State,RECEIVING,R,Etienne,YDS,20
+23531039,10/1/2016,D-III,Alfred,Morrisville State,RECEIVING,R,Etienne,TD,0
+23531040,10/1/2016,D-III,Alfred,Morrisville State,RECEIVING,R,Etienne,LONG,14
+23531041,10/1/2016,D-III,Alfred,Morrisville State,RECEIVING,J,Gavidia,REC,1
+23531042,10/1/2016,D-III,Alfred,Morrisville State,RECEIVING,J,Gavidia,YDS,11
+23531043,10/1/2016,D-III,Alfred,Morrisville State,RECEIVING,J,Gavidia,TD,0
+23531044,10/1/2016,D-III,Alfred,Morrisville State,RECEIVING,J,Gavidia,LONG,11
+23531045,10/1/2016,D-III,Alfred,Morrisville State,RECEIVING,E,Frigon,REC,2
+23531046,10/1/2016,D-III,Alfred,Morrisville State,RECEIVING,E,Frigon,YDS,8
+23531047,10/1/2016,D-III,Alfred,Morrisville State,RECEIVING,E,Frigon,TD,0
+23531048,10/1/2016,D-III,Alfred,Morrisville State,RECEIVING,E,Frigon,LONG,6
+23531049,10/1/2016,D-III,Alfred,Morrisville State,PUNT RETURNS,D,Gallagher,NO,2
+23531050,10/1/2016,D-III,Alfred,Morrisville State,PUNT RETURNS,D,Gallagher,YDS,8
+23531051,10/1/2016,D-III,Alfred,Morrisville State,PUNT RETURNS,D,Gallagher,AVG,4.0
+23531052,10/1/2016,D-III,Alfred,Morrisville State,PUNT RETURNS,D,Gallagher,LONG,5
+23531053,10/1/2016,D-III,Alfred,Morrisville State,PUNT RETURNS,M,Fuentes,NO,0
+23531054,10/1/2016,D-III,Alfred,Morrisville State,PUNT RETURNS,M,Fuentes,YDS,0
+23531055,10/1/2016,D-III,Alfred,Morrisville State,PUNT RETURNS,M,Fuentes,AVG,-
+23531056,10/1/2016,D-III,Alfred,Morrisville State,PUNT RETURNS,M,Fuentes,LONG,0
+23531057,10/1/2016,D-III,Alfred,Morrisville State,KICK RETURNS,M,Fuentes,NO,2
+23531058,10/1/2016,D-III,Alfred,Morrisville State,KICK RETURNS,M,Fuentes,YDS,26
+23531059,10/1/2016,D-III,Alfred,Morrisville State,KICK RETURNS,M,Fuentes,AVG,13.0
+23531060,10/1/2016,D-III,Alfred,Morrisville State,KICK RETURNS,M,Fuentes,LONG,15
+23531061,10/1/2016,D-III,Alfred,Morrisville State,KICK RETURNS,C,Bright,NO,1
+23531062,10/1/2016,D-III,Alfred,Morrisville State,KICK RETURNS,C,Bright,YDS,5
+23531063,10/1/2016,D-III,Alfred,Morrisville State,KICK RETURNS,C,Bright,AVG,5.0
+23531064,10/1/2016,D-III,Alfred,Morrisville State,KICK RETURNS,C,Bright,LONG,5
+23531065,10/1/2016,D-III,Morrisville State,Alfred,RUSHING,Nick,Edmond,ATT,18
+23531066,10/1/2016,D-III,Morrisville State,Alfred,RUSHING,Nick,Edmond,YDS,85
+23531067,10/1/2016,D-III,Morrisville State,Alfred,RUSHING,Nick,Edmond,TD,0
+23531068,10/1/2016,D-III,Morrisville State,Alfred,RUSHING,Nick,Edmond,LONG,19
+23531069,10/1/2016,D-III,Morrisville State,Alfred,RUSHING,Brandon,Gwinner,ATT,15
+23531070,10/1/2016,D-III,Morrisville State,Alfred,RUSHING,Brandon,Gwinner,YDS,35
+23531071,10/1/2016,D-III,Morrisville State,Alfred,RUSHING,Brandon,Gwinner,TD,1
+23531072,10/1/2016,D-III,Morrisville State,Alfred,RUSHING,Brandon,Gwinner,LONG,14
+23531073,10/1/2016,D-III,Morrisville State,Alfred,RUSHING,Darrell,West,ATT,4
+23531074,10/1/2016,D-III,Morrisville State,Alfred,RUSHING,Darrell,West,YDS,17
+23531075,10/1/2016,D-III,Morrisville State,Alfred,RUSHING,Darrell,West,TD,0
+23531076,10/1/2016,D-III,Morrisville State,Alfred,RUSHING,Darrell,West,LONG,6
+23531077,10/1/2016,D-III,Morrisville State,Alfred,PASSING,Brandon,Gwinner,CP-ATT-INT,23-37-1
+23531078,10/1/2016,D-III,Morrisville State,Alfred,PASSING,Brandon,Gwinner,YDS,271
+23531079,10/1/2016,D-III,Morrisville State,Alfred,PASSING,Brandon,Gwinner,TD,2
+23531080,10/1/2016,D-III,Morrisville State,Alfred,PASSING,Brandon,Gwinner,LONG,55
+23531081,10/1/2016,D-III,Morrisville State,Alfred,RECEIVING,Kyle,Flash,REC,4
+23531082,10/1/2016,D-III,Morrisville State,Alfred,RECEIVING,Kyle,Flash,YDS,97
+23531083,10/1/2016,D-III,Morrisville State,Alfred,RECEIVING,Kyle,Flash,TD,1
+23531084,10/1/2016,D-III,Morrisville State,Alfred,RECEIVING,Kyle,Flash,LONG,55
+23531085,10/1/2016,D-III,Morrisville State,Alfred,RECEIVING,Raffaele,Bradsh,REC,7
+23531086,10/1/2016,D-III,Morrisville State,Alfred,RECEIVING,Raffaele,Bradsh,YDS,61
+23531087,10/1/2016,D-III,Morrisville State,Alfred,RECEIVING,Raffaele,Bradsh,TD,0
+23531088,10/1/2016,D-III,Morrisville State,Alfred,RECEIVING,Raffaele,Bradsh,LONG,17
+23531089,10/1/2016,D-III,Morrisville State,Alfred,RECEIVING,Tony,Deese,REC,3
+23531090,10/1/2016,D-III,Morrisville State,Alfred,RECEIVING,Tony,Deese,YDS,32
+23531091,10/1/2016,D-III,Morrisville State,Alfred,RECEIVING,Tony,Deese,TD,1
+23531092,10/1/2016,D-III,Morrisville State,Alfred,RECEIVING,Tony,Deese,LONG,19
+23531093,10/1/2016,D-III,Morrisville State,Alfred,RECEIVING,Timothy,Remilla,REC,2
+23531094,10/1/2016,D-III,Morrisville State,Alfred,RECEIVING,Timothy,Remilla,YDS,31
+23531095,10/1/2016,D-III,Morrisville State,Alfred,RECEIVING,Timothy,Remilla,TD,0
+23531096,10/1/2016,D-III,Morrisville State,Alfred,RECEIVING,Timothy,Remilla,LONG,29
+23531097,10/1/2016,D-III,Morrisville State,Alfred,RECEIVING,Joseph,Faniel,REC,3
+23531098,10/1/2016,D-III,Morrisville State,Alfred,RECEIVING,Joseph,Faniel,YDS,21
+23531099,10/1/2016,D-III,Morrisville State,Alfred,RECEIVING,Joseph,Faniel,TD,0
+23531100,10/1/2016,D-III,Morrisville State,Alfred,RECEIVING,Joseph,Faniel,LONG,8
+23531101,10/1/2016,D-III,Morrisville State,Alfred,RECEIVING,Jermaine,Cooper,REC,2
+23531102,10/1/2016,D-III,Morrisville State,Alfred,RECEIVING,Jermaine,Cooper,YDS,18
+23531103,10/1/2016,D-III,Morrisville State,Alfred,RECEIVING,Jermaine,Cooper,TD,0
+23531104,10/1/2016,D-III,Morrisville State,Alfred,RECEIVING,Jermaine,Cooper,LONG,13
+23531105,10/1/2016,D-III,Morrisville State,Alfred,RECEIVING,Nick,Edmond,REC,2
+23531106,10/1/2016,D-III,Morrisville State,Alfred,RECEIVING,Nick,Edmond,YDS,11
+23531107,10/1/2016,D-III,Morrisville State,Alfred,RECEIVING,Nick,Edmond,TD,0
+23531108,10/1/2016,D-III,Morrisville State,Alfred,RECEIVING,Nick,Edmond,LONG,7
+23531109,10/1/2016,D-III,Morrisville State,Alfred,PUNTING,Jeff,Groth,NO,3
+23531110,10/1/2016,D-III,Morrisville State,Alfred,PUNTING,Jeff,Groth,YDS,111
+23531111,10/1/2016,D-III,Morrisville State,Alfred,PUNTING,Jeff,Groth,AVG,37.0
+23531112,10/1/2016,D-III,Morrisville State,Alfred,PUNTING,Jeff,Groth,LONG,43
+23531113,10/1/2016,D-III,Morrisville State,Alfred,KICK RETURNS,Kraig,Gilbert,NO,1
+23531114,10/1/2016,D-III,Morrisville State,Alfred,KICK RETURNS,Kraig,Gilbert,YDS,0
+23531115,10/1/2016,D-III,Morrisville State,Alfred,KICK RETURNS,Kraig,Gilbert,AVG,0.0
+23531116,10/1/2016,D-III,Morrisville State,Alfred,KICK RETURNS,Kraig,Gilbert,LONG,0
+23531117,10/1/2016,D-III,Morrisville State,Alfred,KICK RETURNS,Ryan,Zophy,NO,2
+23531118,10/1/2016,D-III,Morrisville State,Alfred,KICK RETURNS,Ryan,Zophy,YDS,39
+23531119,10/1/2016,D-III,Morrisville State,Alfred,KICK RETURNS,Ryan,Zophy,AVG,19.5
+23531120,10/1/2016,D-III,Morrisville State,Alfred,KICK RETURNS,Ryan,Zophy,LONG,22

@@ -1,0 +1,93 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+23169001,9/3/2016,D-III,Oberlin,Kalamazoo,RUSHING,,Team,ATT,28
+23169002,9/3/2016,D-III,Oberlin,Kalamazoo,RUSHING,,Team,YDS,64
+23169003,9/3/2016,D-III,Oberlin,Kalamazoo,RUSHING,,Team,TD,0
+23169004,9/3/2016,D-III,Oberlin,Kalamazoo,RUSHING,,Team,LONG,30
+23169005,9/3/2016,D-III,Oberlin,Kalamazoo,PASSING,,Team,CP-ATT-INT,15-27-1
+23169006,9/3/2016,D-III,Oberlin,Kalamazoo,PASSING,,Team,YDS,306
+23169007,9/3/2016,D-III,Oberlin,Kalamazoo,PASSING,,Team,TD,4
+23169008,9/3/2016,D-III,Oberlin,Kalamazoo,PASSING,,Team,LONG,70
+23169009,9/3/2016,D-III,Oberlin,Kalamazoo,RECEIVING,,Team,REC,9
+23169010,9/3/2016,D-III,Oberlin,Kalamazoo,RECEIVING,,Team,YDS,170
+23169011,9/3/2016,D-III,Oberlin,Kalamazoo,RECEIVING,,Team,TD,2
+23169012,9/3/2016,D-III,Oberlin,Kalamazoo,RECEIVING,,Team,LONG,70
+23169013,9/3/2016,D-III,Oberlin,Kalamazoo,PUNTING,,Team,NO,7
+23169014,9/3/2016,D-III,Oberlin,Kalamazoo,PUNTING,,Team,YDS,235
+23169015,9/3/2016,D-III,Oberlin,Kalamazoo,PUNTING,,Team,AVG,33.6
+23169016,9/3/2016,D-III,Oberlin,Kalamazoo,PUNTING,,Team,LONG,44
+23169017,9/3/2016,D-III,Oberlin,Kalamazoo,PUNT RETURNS,,Team,NO,3
+23169018,9/3/2016,D-III,Oberlin,Kalamazoo,PUNT RETURNS,,Team,YDS,14
+23169019,9/3/2016,D-III,Oberlin,Kalamazoo,PUNT RETURNS,,Team,AVG,4.7
+23169020,9/3/2016,D-III,Oberlin,Kalamazoo,PUNT RETURNS,,Team,LONG,7
+23169021,9/3/2016,D-III,Oberlin,Kalamazoo,KICK RETURNS,,Team,NO,4
+23169022,9/3/2016,D-III,Oberlin,Kalamazoo,KICK RETURNS,,Team,YDS,95
+23169023,9/3/2016,D-III,Oberlin,Kalamazoo,KICK RETURNS,,Team,AVG,23.8
+23169024,9/3/2016,D-III,Oberlin,Kalamazoo,KICK RETURNS,,Team,LONG,39
+23169025,9/3/2016,D-III,Kalamazoo,Oberlin,RUSHING,Lorenzo,Redmond,ATT,19
+23169026,9/3/2016,D-III,Kalamazoo,Oberlin,RUSHING,Lorenzo,Redmond,YDS,86
+23169027,9/3/2016,D-III,Kalamazoo,Oberlin,RUSHING,Lorenzo,Redmond,TD,0
+23169028,9/3/2016,D-III,Kalamazoo,Oberlin,RUSHING,Lorenzo,Redmond,LONG,25
+23169029,9/3/2016,D-III,Kalamazoo,Oberlin,RUSHING,Alex,White,ATT,17
+23169030,9/3/2016,D-III,Kalamazoo,Oberlin,RUSHING,Alex,White,YDS,74
+23169031,9/3/2016,D-III,Kalamazoo,Oberlin,RUSHING,Alex,White,TD,0
+23169032,9/3/2016,D-III,Kalamazoo,Oberlin,RUSHING,Alex,White,LONG,19
+23169033,9/3/2016,D-III,Kalamazoo,Oberlin,RUSHING,Clay,Wilkey,ATT,5
+23169034,9/3/2016,D-III,Kalamazoo,Oberlin,RUSHING,Clay,Wilkey,YDS,23
+23169035,9/3/2016,D-III,Kalamazoo,Oberlin,RUSHING,Clay,Wilkey,TD,1
+23169036,9/3/2016,D-III,Kalamazoo,Oberlin,RUSHING,Clay,Wilkey,LONG,12
+23169037,9/3/2016,D-III,Kalamazoo,Oberlin,RUSHING,A,Giovanni,ATT,1
+23169038,9/3/2016,D-III,Kalamazoo,Oberlin,RUSHING,A,Giovanni,YDS,3
+23169039,9/3/2016,D-III,Kalamazoo,Oberlin,RUSHING,A,Giovanni,TD,0
+23169040,9/3/2016,D-III,Kalamazoo,Oberlin,RUSHING,A,Giovanni,LONG,3
+23169041,9/3/2016,D-III,Kalamazoo,Oberlin,PASSING,Alex,White,CP-ATT-INT,29-53-1
+23169042,9/3/2016,D-III,Kalamazoo,Oberlin,PASSING,Alex,White,YDS,409
+23169043,9/3/2016,D-III,Kalamazoo,Oberlin,PASSING,Alex,White,TD,3
+23169044,9/3/2016,D-III,Kalamazoo,Oberlin,PASSING,Alex,White,LONG,54
+23169045,9/3/2016,D-III,Kalamazoo,Oberlin,RECEIVING,Collin,Feilla,REC,10
+23169046,9/3/2016,D-III,Kalamazoo,Oberlin,RECEIVING,Collin,Feilla,YDS,216
+23169047,9/3/2016,D-III,Kalamazoo,Oberlin,RECEIVING,Collin,Feilla,TD,1
+23169048,9/3/2016,D-III,Kalamazoo,Oberlin,RECEIVING,Collin,Feilla,LONG,54
+23169049,9/3/2016,D-III,Kalamazoo,Oberlin,RECEIVING,Zak,Zagon,REC,4
+23169050,9/3/2016,D-III,Kalamazoo,Oberlin,RECEIVING,Zak,Zagon,YDS,57
+23169051,9/3/2016,D-III,Kalamazoo,Oberlin,RECEIVING,Zak,Zagon,TD,1
+23169052,9/3/2016,D-III,Kalamazoo,Oberlin,RECEIVING,Zak,Zagon,LONG,26
+23169053,9/3/2016,D-III,Kalamazoo,Oberlin,RECEIVING,Seth,Dexter,REC,5
+23169054,9/3/2016,D-III,Kalamazoo,Oberlin,RECEIVING,Seth,Dexter,YDS,55
+23169055,9/3/2016,D-III,Kalamazoo,Oberlin,RECEIVING,Seth,Dexter,TD,1
+23169056,9/3/2016,D-III,Kalamazoo,Oberlin,RECEIVING,Seth,Dexter,LONG,24
+23169057,9/3/2016,D-III,Kalamazoo,Oberlin,RECEIVING,Andre',Grayson,REC,1
+23169058,9/3/2016,D-III,Kalamazoo,Oberlin,RECEIVING,Andre',Grayson,YDS,32
+23169059,9/3/2016,D-III,Kalamazoo,Oberlin,RECEIVING,Andre',Grayson,TD,0
+23169060,9/3/2016,D-III,Kalamazoo,Oberlin,RECEIVING,Andre',Grayson,LONG,32
+23169061,9/3/2016,D-III,Kalamazoo,Oberlin,RECEIVING,Clay,Wilkey,REC,3
+23169062,9/3/2016,D-III,Kalamazoo,Oberlin,RECEIVING,Clay,Wilkey,YDS,15
+23169063,9/3/2016,D-III,Kalamazoo,Oberlin,RECEIVING,Clay,Wilkey,TD,0
+23169064,9/3/2016,D-III,Kalamazoo,Oberlin,RECEIVING,Clay,Wilkey,LONG,9
+23169065,9/3/2016,D-III,Kalamazoo,Oberlin,RECEIVING,Aj,Convertino,REC,2
+23169066,9/3/2016,D-III,Kalamazoo,Oberlin,RECEIVING,Aj,Convertino,YDS,13
+23169067,9/3/2016,D-III,Kalamazoo,Oberlin,RECEIVING,Aj,Convertino,TD,0
+23169068,9/3/2016,D-III,Kalamazoo,Oberlin,RECEIVING,Aj,Convertino,LONG,10
+23169069,9/3/2016,D-III,Kalamazoo,Oberlin,RECEIVING,Lorenzo,Redmond,REC,3
+23169070,9/3/2016,D-III,Kalamazoo,Oberlin,RECEIVING,Lorenzo,Redmond,YDS,13
+23169071,9/3/2016,D-III,Kalamazoo,Oberlin,RECEIVING,Lorenzo,Redmond,TD,0
+23169072,9/3/2016,D-III,Kalamazoo,Oberlin,RECEIVING,Lorenzo,Redmond,LONG,7
+23169073,9/3/2016,D-III,Kalamazoo,Oberlin,RECEIVING,Mason,Sarosi,REC,1
+23169074,9/3/2016,D-III,Kalamazoo,Oberlin,RECEIVING,Mason,Sarosi,YDS,8
+23169075,9/3/2016,D-III,Kalamazoo,Oberlin,RECEIVING,Mason,Sarosi,TD,0
+23169076,9/3/2016,D-III,Kalamazoo,Oberlin,RECEIVING,Mason,Sarosi,LONG,8
+23169077,9/3/2016,D-III,Kalamazoo,Oberlin,PUNTING,George,Fishback,NO,4
+23169078,9/3/2016,D-III,Kalamazoo,Oberlin,PUNTING,George,Fishback,YDS,155
+23169079,9/3/2016,D-III,Kalamazoo,Oberlin,PUNTING,George,Fishback,AVG,38.8
+23169080,9/3/2016,D-III,Kalamazoo,Oberlin,PUNTING,George,Fishback,LONG,46
+23169081,9/3/2016,D-III,Kalamazoo,Oberlin,PUNT RETURNS,Seth,Dexter,NO,2
+23169082,9/3/2016,D-III,Kalamazoo,Oberlin,PUNT RETURNS,Seth,Dexter,YDS,14
+23169083,9/3/2016,D-III,Kalamazoo,Oberlin,PUNT RETURNS,Seth,Dexter,AVG,7.0
+23169084,9/3/2016,D-III,Kalamazoo,Oberlin,PUNT RETURNS,Seth,Dexter,LONG,9
+23169085,9/3/2016,D-III,Kalamazoo,Oberlin,KICK RETURNS,Zak,Zagon,NO,4
+23169086,9/3/2016,D-III,Kalamazoo,Oberlin,KICK RETURNS,Zak,Zagon,YDS,81
+23169087,9/3/2016,D-III,Kalamazoo,Oberlin,KICK RETURNS,Zak,Zagon,AVG,20.2
+23169088,9/3/2016,D-III,Kalamazoo,Oberlin,KICK RETURNS,Zak,Zagon,LONG,26
+23169089,9/3/2016,D-III,Kalamazoo,Oberlin,KICK RETURNS,Jared,Pittman,NO,2
+23169090,9/3/2016,D-III,Kalamazoo,Oberlin,KICK RETURNS,Jared,Pittman,YDS,47
+23169091,9/3/2016,D-III,Kalamazoo,Oberlin,KICK RETURNS,Jared,Pittman,AVG,23.5
+23169092,9/3/2016,D-III,Kalamazoo,Oberlin,KICK RETURNS,Jared,Pittman,LONG,26

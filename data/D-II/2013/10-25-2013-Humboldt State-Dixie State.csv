@@ -1,0 +1,61 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+13101001,10/25/2013,D-II,Humboldt State,Dixie State,RUSHING,Ka,Johnson,ATT,16
+13101002,10/25/2013,D-II,Humboldt State,Dixie State,RUSHING,Ka,Johnson,YDS,72
+13101003,10/25/2013,D-II,Humboldt State,Dixie State,RUSHING,Ka,Johnson,TD,1
+13101004,10/25/2013,D-II,Humboldt State,Dixie State,RUSHING,Ka,Johnson,LONG,14
+13101005,10/25/2013,D-II,Humboldt State,Dixie State,RUSHING,,Team,ATT,16
+13101006,10/25/2013,D-II,Humboldt State,Dixie State,RUSHING,,Team,YDS,31
+13101007,10/25/2013,D-II,Humboldt State,Dixie State,RUSHING,,Team,TD,1
+13101008,10/25/2013,D-II,Humboldt State,Dixie State,RUSHING,,Team,LONG,9
+13101009,10/25/2013,D-II,Humboldt State,Dixie State,PASSING,,Team,CP-ATT-INT,19-34-1
+13101010,10/25/2013,D-II,Humboldt State,Dixie State,PASSING,,Team,YDS,254
+13101011,10/25/2013,D-II,Humboldt State,Dixie State,PASSING,,Team,TD,0
+13101012,10/25/2013,D-II,Humboldt State,Dixie State,PASSING,,Team,LONG,44
+13101013,10/25/2013,D-II,Humboldt State,Dixie State,RECEIVING,,Team,REC,5
+13101014,10/25/2013,D-II,Humboldt State,Dixie State,RECEIVING,,Team,YDS,28
+13101015,10/25/2013,D-II,Humboldt State,Dixie State,RECEIVING,,Team,TD,0
+13101016,10/25/2013,D-II,Humboldt State,Dixie State,RECEIVING,,Team,LONG,16
+13101017,10/25/2013,D-II,Humboldt State,Dixie State,RECEIVING,Ka,Johnson,REC,3
+13101018,10/25/2013,D-II,Humboldt State,Dixie State,RECEIVING,Ka,Johnson,YDS,7
+13101019,10/25/2013,D-II,Humboldt State,Dixie State,RECEIVING,Ka,Johnson,TD,0
+13101020,10/25/2013,D-II,Humboldt State,Dixie State,RECEIVING,Ka,Johnson,LONG,6
+13101021,10/25/2013,D-II,Humboldt State,Dixie State,RECEIVING,,Team,REC,6
+13101022,10/25/2013,D-II,Humboldt State,Dixie State,RECEIVING,,Team,YDS,108
+13101023,10/25/2013,D-II,Humboldt State,Dixie State,RECEIVING,,Team,TD,0
+13101024,10/25/2013,D-II,Humboldt State,Dixie State,RECEIVING,,Team,LONG,44
+13101025,10/25/2013,D-II,Humboldt State,Dixie State,PUNTING,,Team,NO,4
+13101026,10/25/2013,D-II,Humboldt State,Dixie State,PUNTING,,Team,YDS,177
+13101027,10/25/2013,D-II,Humboldt State,Dixie State,PUNTING,,Team,AVG,44.2
+13101028,10/25/2013,D-II,Humboldt State,Dixie State,PUNTING,,Team,LONG,50
+13101029,10/25/2013,D-II,Humboldt State,Dixie State,PUNT RETURNS,,Team,NO,4
+13101030,10/25/2013,D-II,Humboldt State,Dixie State,PUNT RETURNS,,Team,YDS,10
+13101031,10/25/2013,D-II,Humboldt State,Dixie State,PUNT RETURNS,,Team,AVG,2.5
+13101032,10/25/2013,D-II,Humboldt State,Dixie State,PUNT RETURNS,,Team,LONG,7
+13101033,10/25/2013,D-II,Humboldt State,Dixie State,KICK RETURNS,,Team,NO,3
+13101034,10/25/2013,D-II,Humboldt State,Dixie State,KICK RETURNS,,Team,YDS,63
+13101035,10/25/2013,D-II,Humboldt State,Dixie State,KICK RETURNS,,Team,AVG,21.0
+13101036,10/25/2013,D-II,Humboldt State,Dixie State,KICK RETURNS,,Team,LONG,29
+13101037,10/25/2013,D-II,Dixie State,Humboldt State,RUSHING,,Team,ATT,12
+13101038,10/25/2013,D-II,Dixie State,Humboldt State,RUSHING,,Team,YDS,64
+13101039,10/25/2013,D-II,Dixie State,Humboldt State,RUSHING,,Team,TD,0
+13101040,10/25/2013,D-II,Dixie State,Humboldt State,RUSHING,,Team,LONG,19
+13101041,10/25/2013,D-II,Dixie State,Humboldt State,PASSING,,Team,CP-ATT-INT,15-28-0
+13101042,10/25/2013,D-II,Dixie State,Humboldt State,PASSING,,Team,YDS,267
+13101043,10/25/2013,D-II,Dixie State,Humboldt State,PASSING,,Team,TD,1
+13101044,10/25/2013,D-II,Dixie State,Humboldt State,PASSING,,Team,LONG,62
+13101045,10/25/2013,D-II,Dixie State,Humboldt State,RECEIVING,Jd,Duncan,REC,4
+13101046,10/25/2013,D-II,Dixie State,Humboldt State,RECEIVING,Jd,Duncan,YDS,121
+13101047,10/25/2013,D-II,Dixie State,Humboldt State,RECEIVING,Jd,Duncan,TD,0
+13101048,10/25/2013,D-II,Dixie State,Humboldt State,RECEIVING,Jd,Duncan,LONG,62
+13101049,10/25/2013,D-II,Dixie State,Humboldt State,RECEIVING,,Team,REC,4
+13101050,10/25/2013,D-II,Dixie State,Humboldt State,RECEIVING,,Team,YDS,56
+13101051,10/25/2013,D-II,Dixie State,Humboldt State,RECEIVING,,Team,TD,1
+13101052,10/25/2013,D-II,Dixie State,Humboldt State,RECEIVING,,Team,LONG,28
+13101053,10/25/2013,D-II,Dixie State,Humboldt State,PUNTING,,Team,NO,6
+13101054,10/25/2013,D-II,Dixie State,Humboldt State,PUNTING,,Team,YDS,224
+13101055,10/25/2013,D-II,Dixie State,Humboldt State,PUNTING,,Team,AVG,37.3
+13101056,10/25/2013,D-II,Dixie State,Humboldt State,PUNTING,,Team,LONG,48
+13101057,10/25/2013,D-II,Dixie State,Humboldt State,KICK RETURNS,J,Smith,NO,4
+13101058,10/25/2013,D-II,Dixie State,Humboldt State,KICK RETURNS,J,Smith,YDS,81
+13101059,10/25/2013,D-II,Dixie State,Humboldt State,KICK RETURNS,J,Smith,AVG,20.2
+13101060,10/25/2013,D-II,Dixie State,Humboldt State,KICK RETURNS,J,Smith,LONG,24

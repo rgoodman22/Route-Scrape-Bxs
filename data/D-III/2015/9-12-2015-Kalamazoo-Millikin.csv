@@ -1,0 +1,105 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+21946001,9/12/2015,D-III,Kalamazoo,Millikin,RUSHING,Shon,Powell,ATT,21
+21946002,9/12/2015,D-III,Kalamazoo,Millikin,RUSHING,Shon,Powell,YDS,75
+21946003,9/12/2015,D-III,Kalamazoo,Millikin,RUSHING,Shon,Powell,TD,0
+21946004,9/12/2015,D-III,Kalamazoo,Millikin,RUSHING,Shon,Powell,LONG,15
+21946005,9/12/2015,D-III,Kalamazoo,Millikin,RUSHING,Alex,White,ATT,13
+21946006,9/12/2015,D-III,Kalamazoo,Millikin,RUSHING,Alex,White,YDS,15
+21946007,9/12/2015,D-III,Kalamazoo,Millikin,RUSHING,Alex,White,TD,0
+21946008,9/12/2015,D-III,Kalamazoo,Millikin,RUSHING,Alex,White,LONG,6
+21946009,9/12/2015,D-III,Kalamazoo,Millikin,RUSHING,E,Hamilton-wray,ATT,2
+21946010,9/12/2015,D-III,Kalamazoo,Millikin,RUSHING,E,Hamilton-wray,YDS,1
+21946011,9/12/2015,D-III,Kalamazoo,Millikin,RUSHING,E,Hamilton-wray,TD,0
+21946012,9/12/2015,D-III,Kalamazoo,Millikin,RUSHING,E,Hamilton-wray,LONG,3
+21946013,9/12/2015,D-III,Kalamazoo,Millikin,RUSHING,,Team,ATT,1
+21946014,9/12/2015,D-III,Kalamazoo,Millikin,RUSHING,,Team,YDS,-1
+21946015,9/12/2015,D-III,Kalamazoo,Millikin,RUSHING,,Team,TD,0
+21946016,9/12/2015,D-III,Kalamazoo,Millikin,RUSHING,,Team,LONG,0
+21946017,9/12/2015,D-III,Kalamazoo,Millikin,RUSHING,Kj,Schultz,ATT,1
+21946018,9/12/2015,D-III,Kalamazoo,Millikin,RUSHING,Kj,Schultz,YDS,-2
+21946019,9/12/2015,D-III,Kalamazoo,Millikin,RUSHING,Kj,Schultz,TD,0
+21946020,9/12/2015,D-III,Kalamazoo,Millikin,RUSHING,Kj,Schultz,LONG,0
+21946021,9/12/2015,D-III,Kalamazoo,Millikin,PASSING,Alex,White,CP-ATT-INT,36-57-2
+21946022,9/12/2015,D-III,Kalamazoo,Millikin,PASSING,Alex,White,YDS,304
+21946023,9/12/2015,D-III,Kalamazoo,Millikin,PASSING,Alex,White,TD,1
+21946024,9/12/2015,D-III,Kalamazoo,Millikin,PASSING,Alex,White,LONG,28
+21946025,9/12/2015,D-III,Kalamazoo,Millikin,RECEIVING,Kj,Schultz,REC,12
+21946026,9/12/2015,D-III,Kalamazoo,Millikin,RECEIVING,Kj,Schultz,YDS,133
+21946027,9/12/2015,D-III,Kalamazoo,Millikin,RECEIVING,Kj,Schultz,TD,1
+21946028,9/12/2015,D-III,Kalamazoo,Millikin,RECEIVING,Kj,Schultz,LONG,28
+21946029,9/12/2015,D-III,Kalamazoo,Millikin,RECEIVING,Shon,Powell,REC,12
+21946030,9/12/2015,D-III,Kalamazoo,Millikin,RECEIVING,Shon,Powell,YDS,82
+21946031,9/12/2015,D-III,Kalamazoo,Millikin,RECEIVING,Shon,Powell,TD,0
+21946032,9/12/2015,D-III,Kalamazoo,Millikin,RECEIVING,Shon,Powell,LONG,17
+21946033,9/12/2015,D-III,Kalamazoo,Millikin,RECEIVING,Mason,Sarosi,REC,3
+21946034,9/12/2015,D-III,Kalamazoo,Millikin,RECEIVING,Mason,Sarosi,YDS,27
+21946035,9/12/2015,D-III,Kalamazoo,Millikin,RECEIVING,Mason,Sarosi,TD,0
+21946036,9/12/2015,D-III,Kalamazoo,Millikin,RECEIVING,Mason,Sarosi,LONG,12
+21946037,9/12/2015,D-III,Kalamazoo,Millikin,RECEIVING,Justin,Rabidoux,REC,2
+21946038,9/12/2015,D-III,Kalamazoo,Millikin,RECEIVING,Justin,Rabidoux,YDS,18
+21946039,9/12/2015,D-III,Kalamazoo,Millikin,RECEIVING,Justin,Rabidoux,TD,0
+21946040,9/12/2015,D-III,Kalamazoo,Millikin,RECEIVING,Justin,Rabidoux,LONG,9
+21946041,9/12/2015,D-III,Kalamazoo,Millikin,RECEIVING,E,Hamilton-wray,REC,2
+21946042,9/12/2015,D-III,Kalamazoo,Millikin,RECEIVING,E,Hamilton-wray,YDS,17
+21946043,9/12/2015,D-III,Kalamazoo,Millikin,RECEIVING,E,Hamilton-wray,TD,0
+21946044,9/12/2015,D-III,Kalamazoo,Millikin,RECEIVING,E,Hamilton-wray,LONG,14
+21946045,9/12/2015,D-III,Kalamazoo,Millikin,RECEIVING,Clay,Wilkey,REC,3
+21946046,9/12/2015,D-III,Kalamazoo,Millikin,RECEIVING,Clay,Wilkey,YDS,15
+21946047,9/12/2015,D-III,Kalamazoo,Millikin,RECEIVING,Clay,Wilkey,TD,0
+21946048,9/12/2015,D-III,Kalamazoo,Millikin,RECEIVING,Clay,Wilkey,LONG,9
+21946049,9/12/2015,D-III,Kalamazoo,Millikin,RECEIVING,Billy,Roberts,REC,1
+21946050,9/12/2015,D-III,Kalamazoo,Millikin,RECEIVING,Billy,Roberts,YDS,7
+21946051,9/12/2015,D-III,Kalamazoo,Millikin,RECEIVING,Billy,Roberts,TD,0
+21946052,9/12/2015,D-III,Kalamazoo,Millikin,RECEIVING,Billy,Roberts,LONG,7
+21946053,9/12/2015,D-III,Kalamazoo,Millikin,RECEIVING,Keigan,Ryckman,REC,1
+21946054,9/12/2015,D-III,Kalamazoo,Millikin,RECEIVING,Keigan,Ryckman,YDS,5
+21946055,9/12/2015,D-III,Kalamazoo,Millikin,RECEIVING,Keigan,Ryckman,TD,0
+21946056,9/12/2015,D-III,Kalamazoo,Millikin,RECEIVING,Keigan,Ryckman,LONG,5
+21946057,9/12/2015,D-III,Kalamazoo,Millikin,PUNTING,Alex,White,NO,1
+21946058,9/12/2015,D-III,Kalamazoo,Millikin,PUNTING,Alex,White,YDS,30
+21946059,9/12/2015,D-III,Kalamazoo,Millikin,PUNTING,Alex,White,AVG,30.0
+21946060,9/12/2015,D-III,Kalamazoo,Millikin,PUNTING,Alex,White,LONG,30
+21946061,9/12/2015,D-III,Kalamazoo,Millikin,PUNTING,George,Fishback,NO,4
+21946062,9/12/2015,D-III,Kalamazoo,Millikin,PUNTING,George,Fishback,YDS,166
+21946063,9/12/2015,D-III,Kalamazoo,Millikin,PUNTING,George,Fishback,AVG,41.5
+21946064,9/12/2015,D-III,Kalamazoo,Millikin,PUNTING,George,Fishback,LONG,73
+21946065,9/12/2015,D-III,Kalamazoo,Millikin,PUNTING,,Team,NO,1
+21946066,9/12/2015,D-III,Kalamazoo,Millikin,PUNTING,,Team,YDS,0
+21946067,9/12/2015,D-III,Kalamazoo,Millikin,PUNTING,,Team,AVG,0.0
+21946068,9/12/2015,D-III,Kalamazoo,Millikin,PUNTING,,Team,LONG,0
+21946069,9/12/2015,D-III,Kalamazoo,Millikin,PUNT RETURNS,O,Sanders,NO,1
+21946070,9/12/2015,D-III,Kalamazoo,Millikin,PUNT RETURNS,O,Sanders,YDS,19
+21946071,9/12/2015,D-III,Kalamazoo,Millikin,PUNT RETURNS,O,Sanders,AVG,19.0
+21946072,9/12/2015,D-III,Kalamazoo,Millikin,PUNT RETURNS,O,Sanders,LONG,19
+21946073,9/12/2015,D-III,Kalamazoo,Millikin,KICK RETURNS,E,Hamilton-wray,NO,2
+21946074,9/12/2015,D-III,Kalamazoo,Millikin,KICK RETURNS,E,Hamilton-wray,YDS,22
+21946075,9/12/2015,D-III,Kalamazoo,Millikin,KICK RETURNS,E,Hamilton-wray,AVG,11.0
+21946076,9/12/2015,D-III,Kalamazoo,Millikin,KICK RETURNS,E,Hamilton-wray,LONG,19
+21946077,9/12/2015,D-III,Millikin,Kalamazoo,RUSHING,,Team,ATT,10
+21946078,9/12/2015,D-III,Millikin,Kalamazoo,RUSHING,,Team,YDS,29
+21946079,9/12/2015,D-III,Millikin,Kalamazoo,RUSHING,,Team,TD,0
+21946080,9/12/2015,D-III,Millikin,Kalamazoo,RUSHING,,Team,LONG,9
+21946081,9/12/2015,D-III,Millikin,Kalamazoo,PASSING,,Team,CP-ATT-INT,7-14-3
+21946082,9/12/2015,D-III,Millikin,Kalamazoo,PASSING,,Team,YDS,111
+21946083,9/12/2015,D-III,Millikin,Kalamazoo,PASSING,,Team,TD,0
+21946084,9/12/2015,D-III,Millikin,Kalamazoo,PASSING,,Team,LONG,57
+21946085,9/12/2015,D-III,Millikin,Kalamazoo,RECEIVING,,Team,REC,4
+21946086,9/12/2015,D-III,Millikin,Kalamazoo,RECEIVING,,Team,YDS,78
+21946087,9/12/2015,D-III,Millikin,Kalamazoo,RECEIVING,,Team,TD,0
+21946088,9/12/2015,D-III,Millikin,Kalamazoo,RECEIVING,,Team,LONG,57
+21946089,9/12/2015,D-III,Millikin,Kalamazoo,PUNTING,,Team,NO,8
+21946090,9/12/2015,D-III,Millikin,Kalamazoo,PUNTING,,Team,YDS,245
+21946091,9/12/2015,D-III,Millikin,Kalamazoo,PUNTING,,Team,AVG,30.6
+21946092,9/12/2015,D-III,Millikin,Kalamazoo,PUNTING,,Team,LONG,41
+21946093,9/12/2015,D-III,Millikin,Kalamazoo,PUNT RETURNS,,Team,NO,1
+21946094,9/12/2015,D-III,Millikin,Kalamazoo,PUNT RETURNS,,Team,YDS,37
+21946095,9/12/2015,D-III,Millikin,Kalamazoo,PUNT RETURNS,,Team,AVG,37.0
+21946096,9/12/2015,D-III,Millikin,Kalamazoo,PUNT RETURNS,,Team,LONG,29
+21946097,9/12/2015,D-III,Millikin,Kalamazoo,KICK RETURNS,,Team,NO,1
+21946098,9/12/2015,D-III,Millikin,Kalamazoo,KICK RETURNS,,Team,YDS,30
+21946099,9/12/2015,D-III,Millikin,Kalamazoo,KICK RETURNS,,Team,AVG,30.0
+21946100,9/12/2015,D-III,Millikin,Kalamazoo,KICK RETURNS,,Team,LONG,30
+21946101,9/12/2015,D-III,Millikin,Kalamazoo,KICK RETURNS,M,Mcconnell,NO,2
+21946102,9/12/2015,D-III,Millikin,Kalamazoo,KICK RETURNS,M,Mcconnell,YDS,41
+21946103,9/12/2015,D-III,Millikin,Kalamazoo,KICK RETURNS,M,Mcconnell,AVG,20.5
+21946104,9/12/2015,D-III,Millikin,Kalamazoo,KICK RETURNS,M,Mcconnell,LONG,23

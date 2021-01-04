@@ -1,0 +1,61 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+21387001,10/25/2014,D-III,Willamette,Pacific Lutheran,RUSHING,D,Jones,ATT,18
+21387002,10/25/2014,D-III,Willamette,Pacific Lutheran,RUSHING,D,Jones,YDS,129
+21387003,10/25/2014,D-III,Willamette,Pacific Lutheran,RUSHING,D,Jones,TD,1
+21387004,10/25/2014,D-III,Willamette,Pacific Lutheran,RUSHING,D,Jones,LONG,57
+21387005,10/25/2014,D-III,Willamette,Pacific Lutheran,RUSHING,,Team,ATT,1
+21387006,10/25/2014,D-III,Willamette,Pacific Lutheran,RUSHING,,Team,YDS,5
+21387007,10/25/2014,D-III,Willamette,Pacific Lutheran,RUSHING,,Team,TD,0
+21387008,10/25/2014,D-III,Willamette,Pacific Lutheran,RUSHING,,Team,LONG,5
+21387009,10/25/2014,D-III,Willamette,Pacific Lutheran,PASSING,,Team,CP-ATT-INT,10-20-0
+21387010,10/25/2014,D-III,Willamette,Pacific Lutheran,PASSING,,Team,YDS,151
+21387011,10/25/2014,D-III,Willamette,Pacific Lutheran,PASSING,,Team,TD,0
+21387012,10/25/2014,D-III,Willamette,Pacific Lutheran,PASSING,,Team,LONG,30
+21387013,10/25/2014,D-III,Willamette,Pacific Lutheran,RECEIVING,,Team,REC,6
+21387014,10/25/2014,D-III,Willamette,Pacific Lutheran,RECEIVING,,Team,YDS,80
+21387015,10/25/2014,D-III,Willamette,Pacific Lutheran,RECEIVING,,Team,TD,0
+21387016,10/25/2014,D-III,Willamette,Pacific Lutheran,RECEIVING,,Team,LONG,25
+21387017,10/25/2014,D-III,Willamette,Pacific Lutheran,RECEIVING,B,Smith,REC,1
+21387018,10/25/2014,D-III,Willamette,Pacific Lutheran,RECEIVING,B,Smith,YDS,30
+21387019,10/25/2014,D-III,Willamette,Pacific Lutheran,RECEIVING,B,Smith,TD,0
+21387020,10/25/2014,D-III,Willamette,Pacific Lutheran,RECEIVING,B,Smith,LONG,30
+21387021,10/25/2014,D-III,Willamette,Pacific Lutheran,RECEIVING,A,Jones,REC,1
+21387022,10/25/2014,D-III,Willamette,Pacific Lutheran,RECEIVING,A,Jones,YDS,18
+21387023,10/25/2014,D-III,Willamette,Pacific Lutheran,RECEIVING,A,Jones,TD,0
+21387024,10/25/2014,D-III,Willamette,Pacific Lutheran,RECEIVING,A,Jones,LONG,18
+21387025,10/25/2014,D-III,Willamette,Pacific Lutheran,RECEIVING,D,Jones,REC,1
+21387026,10/25/2014,D-III,Willamette,Pacific Lutheran,RECEIVING,D,Jones,YDS,12
+21387027,10/25/2014,D-III,Willamette,Pacific Lutheran,RECEIVING,D,Jones,TD,0
+21387028,10/25/2014,D-III,Willamette,Pacific Lutheran,RECEIVING,D,Jones,LONG,12
+21387029,10/25/2014,D-III,Willamette,Pacific Lutheran,RECEIVING,,Team,REC,1
+21387030,10/25/2014,D-III,Willamette,Pacific Lutheran,RECEIVING,,Team,YDS,11
+21387031,10/25/2014,D-III,Willamette,Pacific Lutheran,RECEIVING,,Team,TD,0
+21387032,10/25/2014,D-III,Willamette,Pacific Lutheran,RECEIVING,,Team,LONG,11
+21387033,10/25/2014,D-III,Willamette,Pacific Lutheran,PUNTING,,Team,NO,6
+21387034,10/25/2014,D-III,Willamette,Pacific Lutheran,PUNTING,,Team,YDS,200
+21387035,10/25/2014,D-III,Willamette,Pacific Lutheran,PUNTING,,Team,AVG,33.3
+21387036,10/25/2014,D-III,Willamette,Pacific Lutheran,PUNTING,,Team,LONG,40
+21387037,10/25/2014,D-III,Willamette,Pacific Lutheran,KICK RETURNS,,Team,NO,4
+21387038,10/25/2014,D-III,Willamette,Pacific Lutheran,KICK RETURNS,,Team,YDS,64
+21387039,10/25/2014,D-III,Willamette,Pacific Lutheran,KICK RETURNS,,Team,AVG,16.0
+21387040,10/25/2014,D-III,Willamette,Pacific Lutheran,KICK RETURNS,,Team,LONG,23
+21387041,10/25/2014,D-III,Pacific Lutheran,Willamette,RUSHING,,Team,ATT,16
+21387042,10/25/2014,D-III,Pacific Lutheran,Willamette,RUSHING,,Team,YDS,136
+21387043,10/25/2014,D-III,Pacific Lutheran,Willamette,RUSHING,,Team,TD,1
+21387044,10/25/2014,D-III,Pacific Lutheran,Willamette,RUSHING,,Team,LONG,64
+21387045,10/25/2014,D-III,Pacific Lutheran,Willamette,PASSING,,Team,CP-ATT-INT,15-22-0
+21387046,10/25/2014,D-III,Pacific Lutheran,Willamette,PASSING,,Team,YDS,302
+21387047,10/25/2014,D-III,Pacific Lutheran,Willamette,PASSING,,Team,TD,5
+21387048,10/25/2014,D-III,Pacific Lutheran,Willamette,PASSING,,Team,LONG,64
+21387049,10/25/2014,D-III,Pacific Lutheran,Willamette,RECEIVING,,Team,REC,2
+21387050,10/25/2014,D-III,Pacific Lutheran,Willamette,RECEIVING,,Team,YDS,111
+21387051,10/25/2014,D-III,Pacific Lutheran,Willamette,RECEIVING,,Team,TD,1
+21387052,10/25/2014,D-III,Pacific Lutheran,Willamette,RECEIVING,,Team,LONG,64
+21387053,10/25/2014,D-III,Pacific Lutheran,Willamette,PUNT RETURNS,,Team,NO,3
+21387054,10/25/2014,D-III,Pacific Lutheran,Willamette,PUNT RETURNS,,Team,YDS,9
+21387055,10/25/2014,D-III,Pacific Lutheran,Willamette,PUNT RETURNS,,Team,AVG,3.0
+21387056,10/25/2014,D-III,Pacific Lutheran,Willamette,PUNT RETURNS,,Team,LONG,9
+21387057,10/25/2014,D-III,Pacific Lutheran,Willamette,KICK RETURNS,,Team,NO,1
+21387058,10/25/2014,D-III,Pacific Lutheran,Willamette,KICK RETURNS,,Team,YDS,10
+21387059,10/25/2014,D-III,Pacific Lutheran,Willamette,KICK RETURNS,,Team,AVG,10.0
+21387060,10/25/2014,D-III,Pacific Lutheran,Willamette,KICK RETURNS,,Team,LONG,10

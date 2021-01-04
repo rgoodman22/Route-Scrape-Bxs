@@ -1,0 +1,121 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+21865001,9/5/2015,D-III,Ithaca,Union (N.Y.),RUSHING,Tristan,Brown,ATT,8
+21865002,9/5/2015,D-III,Ithaca,Union (N.Y.),RUSHING,Tristan,Brown,YDS,36
+21865003,9/5/2015,D-III,Ithaca,Union (N.Y.),RUSHING,Tristan,Brown,TD,0
+21865004,9/5/2015,D-III,Ithaca,Union (N.Y.),RUSHING,Tristan,Brown,LONG,13
+21865005,9/5/2015,D-III,Ithaca,Union (N.Y.),RUSHING,Dan,Porter,ATT,13
+21865006,9/5/2015,D-III,Ithaca,Union (N.Y.),RUSHING,Dan,Porter,YDS,28
+21865007,9/5/2015,D-III,Ithaca,Union (N.Y.),RUSHING,Dan,Porter,TD,0
+21865008,9/5/2015,D-III,Ithaca,Union (N.Y.),RUSHING,Dan,Porter,LONG,9
+21865009,9/5/2015,D-III,Ithaca,Union (N.Y.),RUSHING,Evan,Skea,ATT,7
+21865010,9/5/2015,D-III,Ithaca,Union (N.Y.),RUSHING,Evan,Skea,YDS,25
+21865011,9/5/2015,D-III,Ithaca,Union (N.Y.),RUSHING,Evan,Skea,TD,1
+21865012,9/5/2015,D-III,Ithaca,Union (N.Y.),RUSHING,Evan,Skea,LONG,8
+21865013,9/5/2015,D-III,Ithaca,Union (N.Y.),RUSHING,Wolfgang,Shafer,ATT,6
+21865014,9/5/2015,D-III,Ithaca,Union (N.Y.),RUSHING,Wolfgang,Shafer,YDS,-5
+21865015,9/5/2015,D-III,Ithaca,Union (N.Y.),RUSHING,Wolfgang,Shafer,TD,0
+21865016,9/5/2015,D-III,Ithaca,Union (N.Y.),RUSHING,Wolfgang,Shafer,LONG,7
+21865017,9/5/2015,D-III,Ithaca,Union (N.Y.),PASSING,Wolfgang,Shafer,CP-ATT-INT,25-33-0
+21865018,9/5/2015,D-III,Ithaca,Union (N.Y.),PASSING,Wolfgang,Shafer,YDS,265
+21865019,9/5/2015,D-III,Ithaca,Union (N.Y.),PASSING,Wolfgang,Shafer,TD,2
+21865020,9/5/2015,D-III,Ithaca,Union (N.Y.),PASSING,Wolfgang,Shafer,LONG,33
+21865021,9/5/2015,D-III,Ithaca,Union (N.Y.),PASSING,Josh,Oliver,CP-ATT-INT,1-1-0
+21865022,9/5/2015,D-III,Ithaca,Union (N.Y.),PASSING,Josh,Oliver,YDS,32
+21865023,9/5/2015,D-III,Ithaca,Union (N.Y.),PASSING,Josh,Oliver,TD,1
+21865024,9/5/2015,D-III,Ithaca,Union (N.Y.),PASSING,Josh,Oliver,LONG,32
+21865025,9/5/2015,D-III,Ithaca,Union (N.Y.),RECEIVING,Josh,Oliver,REC,8
+21865026,9/5/2015,D-III,Ithaca,Union (N.Y.),RECEIVING,Josh,Oliver,YDS,80
+21865027,9/5/2015,D-III,Ithaca,Union (N.Y.),RECEIVING,Josh,Oliver,TD,0
+21865028,9/5/2015,D-III,Ithaca,Union (N.Y.),RECEIVING,Josh,Oliver,LONG,16
+21865029,9/5/2015,D-III,Ithaca,Union (N.Y.),RECEIVING,Kyle,Hastings,REC,5
+21865030,9/5/2015,D-III,Ithaca,Union (N.Y.),RECEIVING,Kyle,Hastings,YDS,69
+21865031,9/5/2015,D-III,Ithaca,Union (N.Y.),RECEIVING,Kyle,Hastings,TD,1
+21865032,9/5/2015,D-III,Ithaca,Union (N.Y.),RECEIVING,Kyle,Hastings,LONG,18
+21865033,9/5/2015,D-III,Ithaca,Union (N.Y.),RECEIVING,Brian,Balsamo,REC,5
+21865034,9/5/2015,D-III,Ithaca,Union (N.Y.),RECEIVING,Brian,Balsamo,YDS,65
+21865035,9/5/2015,D-III,Ithaca,Union (N.Y.),RECEIVING,Brian,Balsamo,TD,1
+21865036,9/5/2015,D-III,Ithaca,Union (N.Y.),RECEIVING,Brian,Balsamo,LONG,32
+21865037,9/5/2015,D-III,Ithaca,Union (N.Y.),RECEIVING,Evan,Skea,REC,1
+21865038,9/5/2015,D-III,Ithaca,Union (N.Y.),RECEIVING,Evan,Skea,YDS,33
+21865039,9/5/2015,D-III,Ithaca,Union (N.Y.),RECEIVING,Evan,Skea,TD,0
+21865040,9/5/2015,D-III,Ithaca,Union (N.Y.),RECEIVING,Evan,Skea,LONG,33
+21865041,9/5/2015,D-III,Ithaca,Union (N.Y.),RECEIVING,Nick,Vallo,REC,3
+21865042,9/5/2015,D-III,Ithaca,Union (N.Y.),RECEIVING,Nick,Vallo,YDS,19
+21865043,9/5/2015,D-III,Ithaca,Union (N.Y.),RECEIVING,Nick,Vallo,TD,0
+21865044,9/5/2015,D-III,Ithaca,Union (N.Y.),RECEIVING,Nick,Vallo,LONG,9
+21865045,9/5/2015,D-III,Ithaca,Union (N.Y.),RECEIVING,Jack,Yule,REC,2
+21865046,9/5/2015,D-III,Ithaca,Union (N.Y.),RECEIVING,Jack,Yule,YDS,16
+21865047,9/5/2015,D-III,Ithaca,Union (N.Y.),RECEIVING,Jack,Yule,TD,1
+21865048,9/5/2015,D-III,Ithaca,Union (N.Y.),RECEIVING,Jack,Yule,LONG,8
+21865049,9/5/2015,D-III,Ithaca,Union (N.Y.),RECEIVING,Ricky,Cocilova,REC,2
+21865050,9/5/2015,D-III,Ithaca,Union (N.Y.),RECEIVING,Ricky,Cocilova,YDS,15
+21865051,9/5/2015,D-III,Ithaca,Union (N.Y.),RECEIVING,Ricky,Cocilova,TD,0
+21865052,9/5/2015,D-III,Ithaca,Union (N.Y.),RECEIVING,Ricky,Cocilova,LONG,10
+21865053,9/5/2015,D-III,Ithaca,Union (N.Y.),PUNTING,Brandon,Steff,NO,2
+21865054,9/5/2015,D-III,Ithaca,Union (N.Y.),PUNTING,Brandon,Steff,YDS,82
+21865055,9/5/2015,D-III,Ithaca,Union (N.Y.),PUNTING,Brandon,Steff,AVG,41.0
+21865056,9/5/2015,D-III,Ithaca,Union (N.Y.),PUNTING,Brandon,Steff,LONG,47
+21865057,9/5/2015,D-III,Ithaca,Union (N.Y.),PUNT RETURNS,Jordan,Schemm,NO,1
+21865058,9/5/2015,D-III,Ithaca,Union (N.Y.),PUNT RETURNS,Jordan,Schemm,YDS,4
+21865059,9/5/2015,D-III,Ithaca,Union (N.Y.),PUNT RETURNS,Jordan,Schemm,AVG,4.0
+21865060,9/5/2015,D-III,Ithaca,Union (N.Y.),PUNT RETURNS,Jordan,Schemm,LONG,4
+21865061,9/5/2015,D-III,Ithaca,Union (N.Y.),PUNT RETURNS,Josh,Oliver,NO,3
+21865062,9/5/2015,D-III,Ithaca,Union (N.Y.),PUNT RETURNS,Josh,Oliver,YDS,82
+21865063,9/5/2015,D-III,Ithaca,Union (N.Y.),PUNT RETURNS,Josh,Oliver,AVG,27.3
+21865064,9/5/2015,D-III,Ithaca,Union (N.Y.),PUNT RETURNS,Josh,Oliver,LONG,39
+21865065,9/5/2015,D-III,Ithaca,Union (N.Y.),KICK RETURNS,Jordan,Schemm,NO,3
+21865066,9/5/2015,D-III,Ithaca,Union (N.Y.),KICK RETURNS,Jordan,Schemm,YDS,107
+21865067,9/5/2015,D-III,Ithaca,Union (N.Y.),KICK RETURNS,Jordan,Schemm,AVG,35.7
+21865068,9/5/2015,D-III,Ithaca,Union (N.Y.),KICK RETURNS,Jordan,Schemm,LONG,46
+21865069,9/5/2015,D-III,Union (N.Y.),Ithaca,RUSHING,C,Kinzelmann,ATT,14
+21865070,9/5/2015,D-III,Union (N.Y.),Ithaca,RUSHING,C,Kinzelmann,YDS,42
+21865071,9/5/2015,D-III,Union (N.Y.),Ithaca,RUSHING,C,Kinzelmann,TD,1
+21865072,9/5/2015,D-III,Union (N.Y.),Ithaca,RUSHING,C,Kinzelmann,LONG,16
+21865073,9/5/2015,D-III,Union (N.Y.),Ithaca,RUSHING,Jermaine,Carn,ATT,5
+21865074,9/5/2015,D-III,Union (N.Y.),Ithaca,RUSHING,Jermaine,Carn,YDS,25
+21865075,9/5/2015,D-III,Union (N.Y.),Ithaca,RUSHING,Jermaine,Carn,TD,1
+21865076,9/5/2015,D-III,Union (N.Y.),Ithaca,RUSHING,Jermaine,Carn,LONG,8
+21865077,9/5/2015,D-III,Union (N.Y.),Ithaca,RUSHING,Dante,Cioffi,ATT,1
+21865078,9/5/2015,D-III,Union (N.Y.),Ithaca,RUSHING,Dante,Cioffi,YDS,-5
+21865079,9/5/2015,D-III,Union (N.Y.),Ithaca,RUSHING,Dante,Cioffi,TD,0
+21865080,9/5/2015,D-III,Union (N.Y.),Ithaca,RUSHING,Dante,Cioffi,LONG,0
+21865081,9/5/2015,D-III,Union (N.Y.),Ithaca,PASSING,Dante,Cioffi,CP-ATT-INT,25-55-1
+21865082,9/5/2015,D-III,Union (N.Y.),Ithaca,PASSING,Dante,Cioffi,YDS,224
+21865083,9/5/2015,D-III,Union (N.Y.),Ithaca,PASSING,Dante,Cioffi,TD,1
+21865084,9/5/2015,D-III,Union (N.Y.),Ithaca,PASSING,Dante,Cioffi,LONG,29
+21865085,9/5/2015,D-III,Union (N.Y.),Ithaca,RECEIVING,Aj,Baker,REC,8
+21865086,9/5/2015,D-III,Union (N.Y.),Ithaca,RECEIVING,Aj,Baker,YDS,81
+21865087,9/5/2015,D-III,Union (N.Y.),Ithaca,RECEIVING,Aj,Baker,TD,0
+21865088,9/5/2015,D-III,Union (N.Y.),Ithaca,RECEIVING,Aj,Baker,LONG,15
+21865089,9/5/2015,D-III,Union (N.Y.),Ithaca,RECEIVING,Joe,Vito,REC,4
+21865090,9/5/2015,D-III,Union (N.Y.),Ithaca,RECEIVING,Joe,Vito,YDS,61
+21865091,9/5/2015,D-III,Union (N.Y.),Ithaca,RECEIVING,Joe,Vito,TD,1
+21865092,9/5/2015,D-III,Union (N.Y.),Ithaca,RECEIVING,Joe,Vito,LONG,29
+21865093,9/5/2015,D-III,Union (N.Y.),Ithaca,RECEIVING,Kyle,Reynolds,REC,6
+21865094,9/5/2015,D-III,Union (N.Y.),Ithaca,RECEIVING,Kyle,Reynolds,YDS,50
+21865095,9/5/2015,D-III,Union (N.Y.),Ithaca,RECEIVING,Kyle,Reynolds,TD,0
+21865096,9/5/2015,D-III,Union (N.Y.),Ithaca,RECEIVING,Kyle,Reynolds,LONG,16
+21865097,9/5/2015,D-III,Union (N.Y.),Ithaca,RECEIVING,Ryan,Hanney,REC,3
+21865098,9/5/2015,D-III,Union (N.Y.),Ithaca,RECEIVING,Ryan,Hanney,YDS,14
+21865099,9/5/2015,D-III,Union (N.Y.),Ithaca,RECEIVING,Ryan,Hanney,TD,0
+21865100,9/5/2015,D-III,Union (N.Y.),Ithaca,RECEIVING,Ryan,Hanney,LONG,7
+21865101,9/5/2015,D-III,Union (N.Y.),Ithaca,RECEIVING,Jermaine,Carn,REC,2
+21865102,9/5/2015,D-III,Union (N.Y.),Ithaca,RECEIVING,Jermaine,Carn,YDS,10
+21865103,9/5/2015,D-III,Union (N.Y.),Ithaca,RECEIVING,Jermaine,Carn,TD,0
+21865104,9/5/2015,D-III,Union (N.Y.),Ithaca,RECEIVING,Jermaine,Carn,LONG,11
+21865105,9/5/2015,D-III,Union (N.Y.),Ithaca,RECEIVING,C,Kinzelmann,REC,2
+21865106,9/5/2015,D-III,Union (N.Y.),Ithaca,RECEIVING,C,Kinzelmann,YDS,8
+21865107,9/5/2015,D-III,Union (N.Y.),Ithaca,RECEIVING,C,Kinzelmann,TD,0
+21865108,9/5/2015,D-III,Union (N.Y.),Ithaca,RECEIVING,C,Kinzelmann,LONG,5
+21865109,9/5/2015,D-III,Union (N.Y.),Ithaca,PUNTING,Tyler,Barnes,NO,5
+21865110,9/5/2015,D-III,Union (N.Y.),Ithaca,PUNTING,Tyler,Barnes,YDS,211
+21865111,9/5/2015,D-III,Union (N.Y.),Ithaca,PUNTING,Tyler,Barnes,AVG,42.2
+21865112,9/5/2015,D-III,Union (N.Y.),Ithaca,PUNTING,Tyler,Barnes,LONG,57
+21865113,9/5/2015,D-III,Union (N.Y.),Ithaca,KICK RETURNS,Ricco,Pierre,NO,1
+21865114,9/5/2015,D-III,Union (N.Y.),Ithaca,KICK RETURNS,Ricco,Pierre,YDS,29
+21865115,9/5/2015,D-III,Union (N.Y.),Ithaca,KICK RETURNS,Ricco,Pierre,AVG,29.0
+21865116,9/5/2015,D-III,Union (N.Y.),Ithaca,KICK RETURNS,Ricco,Pierre,LONG,29
+21865117,9/5/2015,D-III,Union (N.Y.),Ithaca,KICK RETURNS,Jermaine,Carn,NO,3
+21865118,9/5/2015,D-III,Union (N.Y.),Ithaca,KICK RETURNS,Jermaine,Carn,YDS,64
+21865119,9/5/2015,D-III,Union (N.Y.),Ithaca,KICK RETURNS,Jermaine,Carn,AVG,21.3
+21865120,9/5/2015,D-III,Union (N.Y.),Ithaca,KICK RETURNS,Jermaine,Carn,LONG,23

@@ -1,0 +1,121 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+21208001,10/18/2014,D-III,Macalester,Beloit,RUSHING,Zandy,Stowell,ATT,29
+21208002,10/18/2014,D-III,Macalester,Beloit,RUSHING,Zandy,Stowell,YDS,219
+21208003,10/18/2014,D-III,Macalester,Beloit,RUSHING,Zandy,Stowell,TD,1
+21208004,10/18/2014,D-III,Macalester,Beloit,RUSHING,Zandy,Stowell,LONG,40
+21208005,10/18/2014,D-III,Macalester,Beloit,RUSHING,Smsn,Bialostok,ATT,7
+21208006,10/18/2014,D-III,Macalester,Beloit,RUSHING,Smsn,Bialostok,YDS,43
+21208007,10/18/2014,D-III,Macalester,Beloit,RUSHING,Smsn,Bialostok,TD,0
+21208008,10/18/2014,D-III,Macalester,Beloit,RUSHING,Smsn,Bialostok,LONG,16
+21208009,10/18/2014,D-III,Macalester,Beloit,RUSHING,Ethan,Carpenter,ATT,8
+21208010,10/18/2014,D-III,Macalester,Beloit,RUSHING,Ethan,Carpenter,YDS,19
+21208011,10/18/2014,D-III,Macalester,Beloit,RUSHING,Ethan,Carpenter,TD,0
+21208012,10/18/2014,D-III,Macalester,Beloit,RUSHING,Ethan,Carpenter,LONG,7
+21208013,10/18/2014,D-III,Macalester,Beloit,RUSHING,Sam,Bordo,ATT,1
+21208014,10/18/2014,D-III,Macalester,Beloit,RUSHING,Sam,Bordo,YDS,2
+21208015,10/18/2014,D-III,Macalester,Beloit,RUSHING,Sam,Bordo,TD,0
+21208016,10/18/2014,D-III,Macalester,Beloit,RUSHING,Sam,Bordo,LONG,2
+21208017,10/18/2014,D-III,Macalester,Beloit,RUSHING,Cash,Mcgregor,ATT,1
+21208018,10/18/2014,D-III,Macalester,Beloit,RUSHING,Cash,Mcgregor,YDS,1
+21208019,10/18/2014,D-III,Macalester,Beloit,RUSHING,Cash,Mcgregor,TD,0
+21208020,10/18/2014,D-III,Macalester,Beloit,RUSHING,Cash,Mcgregor,LONG,1
+21208021,10/18/2014,D-III,Macalester,Beloit,RUSHING,,Team,ATT,3
+21208022,10/18/2014,D-III,Macalester,Beloit,RUSHING,,Team,YDS,-16
+21208023,10/18/2014,D-III,Macalester,Beloit,RUSHING,,Team,TD,0
+21208024,10/18/2014,D-III,Macalester,Beloit,RUSHING,,Team,LONG,0
+21208025,10/18/2014,D-III,Macalester,Beloit,PASSING,Smsn,Bialostok,CP-ATT-INT,14-26-0
+21208026,10/18/2014,D-III,Macalester,Beloit,PASSING,Smsn,Bialostok,YDS,249
+21208027,10/18/2014,D-III,Macalester,Beloit,PASSING,Smsn,Bialostok,TD,2
+21208028,10/18/2014,D-III,Macalester,Beloit,PASSING,Smsn,Bialostok,LONG,33
+21208029,10/18/2014,D-III,Macalester,Beloit,PASSING,,Team,CP-ATT-INT,0-2-0
+21208030,10/18/2014,D-III,Macalester,Beloit,PASSING,,Team,YDS,0
+21208031,10/18/2014,D-III,Macalester,Beloit,PASSING,,Team,TD,0
+21208032,10/18/2014,D-III,Macalester,Beloit,PASSING,,Team,LONG,0
+21208033,10/18/2014,D-III,Macalester,Beloit,RECEIVING,Ben,Hillmann,REC,7
+21208034,10/18/2014,D-III,Macalester,Beloit,RECEIVING,Ben,Hillmann,YDS,104
+21208035,10/18/2014,D-III,Macalester,Beloit,RECEIVING,Ben,Hillmann,TD,0
+21208036,10/18/2014,D-III,Macalester,Beloit,RECEIVING,Ben,Hillmann,LONG,32
+21208037,10/18/2014,D-III,Macalester,Beloit,RECEIVING,Tre,Nowaczynski,REC,4
+21208038,10/18/2014,D-III,Macalester,Beloit,RECEIVING,Tre,Nowaczynski,YDS,77
+21208039,10/18/2014,D-III,Macalester,Beloit,RECEIVING,Tre,Nowaczynski,TD,1
+21208040,10/18/2014,D-III,Macalester,Beloit,RECEIVING,Tre,Nowaczynski,LONG,26
+21208041,10/18/2014,D-III,Macalester,Beloit,RECEIVING,Victor,Bordo,REC,2
+21208042,10/18/2014,D-III,Macalester,Beloit,RECEIVING,Victor,Bordo,YDS,35
+21208043,10/18/2014,D-III,Macalester,Beloit,RECEIVING,Victor,Bordo,TD,1
+21208044,10/18/2014,D-III,Macalester,Beloit,RECEIVING,Victor,Bordo,LONG,26
+21208045,10/18/2014,D-III,Macalester,Beloit,RECEIVING,Sam,Bordo,REC,1
+21208046,10/18/2014,D-III,Macalester,Beloit,RECEIVING,Sam,Bordo,YDS,33
+21208047,10/18/2014,D-III,Macalester,Beloit,RECEIVING,Sam,Bordo,TD,0
+21208048,10/18/2014,D-III,Macalester,Beloit,RECEIVING,Sam,Bordo,LONG,33
+21208049,10/18/2014,D-III,Macalester,Beloit,PUNTING,Matt,Glasenapp,NO,2
+21208050,10/18/2014,D-III,Macalester,Beloit,PUNTING,Matt,Glasenapp,YDS,65
+21208051,10/18/2014,D-III,Macalester,Beloit,PUNTING,Matt,Glasenapp,AVG,32.5
+21208052,10/18/2014,D-III,Macalester,Beloit,PUNTING,Matt,Glasenapp,LONG,35
+21208053,10/18/2014,D-III,Macalester,Beloit,PUNT RETURNS,Victor,Bordo,NO,1
+21208054,10/18/2014,D-III,Macalester,Beloit,PUNT RETURNS,Victor,Bordo,YDS,30
+21208055,10/18/2014,D-III,Macalester,Beloit,PUNT RETURNS,Victor,Bordo,AVG,30.0
+21208056,10/18/2014,D-III,Macalester,Beloit,PUNT RETURNS,Victor,Bordo,LONG,30
+21208057,10/18/2014,D-III,Macalester,Beloit,PUNT RETURNS,Konnor,Fleming,NO,1
+21208058,10/18/2014,D-III,Macalester,Beloit,PUNT RETURNS,Konnor,Fleming,YDS,14
+21208059,10/18/2014,D-III,Macalester,Beloit,PUNT RETURNS,Konnor,Fleming,AVG,14.0
+21208060,10/18/2014,D-III,Macalester,Beloit,PUNT RETURNS,Konnor,Fleming,LONG,14
+21208061,10/18/2014,D-III,Macalester,Beloit,KICK RETURNS,Victor,Bordo,NO,2
+21208062,10/18/2014,D-III,Macalester,Beloit,KICK RETURNS,Victor,Bordo,YDS,45
+21208063,10/18/2014,D-III,Macalester,Beloit,KICK RETURNS,Victor,Bordo,AVG,22.5
+21208064,10/18/2014,D-III,Macalester,Beloit,KICK RETURNS,Victor,Bordo,LONG,25
+21208065,10/18/2014,D-III,Macalester,Beloit,KICK RETURNS,Konnor,Fleming,NO,1
+21208066,10/18/2014,D-III,Macalester,Beloit,KICK RETURNS,Konnor,Fleming,YDS,22
+21208067,10/18/2014,D-III,Macalester,Beloit,KICK RETURNS,Konnor,Fleming,AVG,22.0
+21208068,10/18/2014,D-III,Macalester,Beloit,KICK RETURNS,Konnor,Fleming,LONG,22
+21208069,10/18/2014,D-III,Beloit,Macalester,RUSHING,Mason,Dixon,ATT,26
+21208070,10/18/2014,D-III,Beloit,Macalester,RUSHING,Mason,Dixon,YDS,98
+21208071,10/18/2014,D-III,Beloit,Macalester,RUSHING,Mason,Dixon,TD,2
+21208072,10/18/2014,D-III,Beloit,Macalester,RUSHING,Mason,Dixon,LONG,23
+21208073,10/18/2014,D-III,Beloit,Macalester,RUSHING,Evan,Phillips,ATT,8
+21208074,10/18/2014,D-III,Beloit,Macalester,RUSHING,Evan,Phillips,YDS,21
+21208075,10/18/2014,D-III,Beloit,Macalester,RUSHING,Evan,Phillips,TD,0
+21208076,10/18/2014,D-III,Beloit,Macalester,RUSHING,Evan,Phillips,LONG,7
+21208077,10/18/2014,D-III,Beloit,Macalester,RUSHING,,Team,ATT,1
+21208078,10/18/2014,D-III,Beloit,Macalester,RUSHING,,Team,YDS,3
+21208079,10/18/2014,D-III,Beloit,Macalester,RUSHING,,Team,TD,0
+21208080,10/18/2014,D-III,Beloit,Macalester,RUSHING,,Team,LONG,3
+21208081,10/18/2014,D-III,Beloit,Macalester,RUSHING,Kam,Sallee,ATT,1
+21208082,10/18/2014,D-III,Beloit,Macalester,RUSHING,Kam,Sallee,YDS,-1
+21208083,10/18/2014,D-III,Beloit,Macalester,RUSHING,Kam,Sallee,TD,0
+21208084,10/18/2014,D-III,Beloit,Macalester,RUSHING,Kam,Sallee,LONG,0
+21208085,10/18/2014,D-III,Beloit,Macalester,PASSING,Evan,Phillips,CP-ATT-INT,15-21-1
+21208086,10/18/2014,D-III,Beloit,Macalester,PASSING,Evan,Phillips,YDS,125
+21208087,10/18/2014,D-III,Beloit,Macalester,PASSING,Evan,Phillips,TD,1
+21208088,10/18/2014,D-III,Beloit,Macalester,PASSING,Evan,Phillips,LONG,16
+21208089,10/18/2014,D-III,Beloit,Macalester,RECEIVING,Michael,Nolden,REC,6
+21208090,10/18/2014,D-III,Beloit,Macalester,RECEIVING,Michael,Nolden,YDS,52
+21208091,10/18/2014,D-III,Beloit,Macalester,RECEIVING,Michael,Nolden,TD,0
+21208092,10/18/2014,D-III,Beloit,Macalester,RECEIVING,Michael,Nolden,LONG,16
+21208093,10/18/2014,D-III,Beloit,Macalester,RECEIVING,Kam,Sallee,REC,5
+21208094,10/18/2014,D-III,Beloit,Macalester,RECEIVING,Kam,Sallee,YDS,40
+21208095,10/18/2014,D-III,Beloit,Macalester,RECEIVING,Kam,Sallee,TD,0
+21208096,10/18/2014,D-III,Beloit,Macalester,RECEIVING,Kam,Sallee,LONG,11
+21208097,10/18/2014,D-III,Beloit,Macalester,RECEIVING,Ryan,Sughroue,REC,2
+21208098,10/18/2014,D-III,Beloit,Macalester,RECEIVING,Ryan,Sughroue,YDS,26
+21208099,10/18/2014,D-III,Beloit,Macalester,RECEIVING,Ryan,Sughroue,TD,1
+21208100,10/18/2014,D-III,Beloit,Macalester,RECEIVING,Ryan,Sughroue,LONG,14
+21208101,10/18/2014,D-III,Beloit,Macalester,RECEIVING,Mason,Dixon,REC,1
+21208102,10/18/2014,D-III,Beloit,Macalester,RECEIVING,Mason,Dixon,YDS,4
+21208103,10/18/2014,D-III,Beloit,Macalester,RECEIVING,Mason,Dixon,TD,0
+21208104,10/18/2014,D-III,Beloit,Macalester,RECEIVING,Mason,Dixon,LONG,4
+21208105,10/18/2014,D-III,Beloit,Macalester,RECEIVING,Sawyer,Lindland,REC,1
+21208106,10/18/2014,D-III,Beloit,Macalester,RECEIVING,Sawyer,Lindland,YDS,3
+21208107,10/18/2014,D-III,Beloit,Macalester,RECEIVING,Sawyer,Lindland,TD,0
+21208108,10/18/2014,D-III,Beloit,Macalester,RECEIVING,Sawyer,Lindland,LONG,3
+21208109,10/18/2014,D-III,Beloit,Macalester,PUNTING,Kam,Sallee,NO,6
+21208110,10/18/2014,D-III,Beloit,Macalester,PUNTING,Kam,Sallee,YDS,225
+21208111,10/18/2014,D-III,Beloit,Macalester,PUNTING,Kam,Sallee,AVG,37.5
+21208112,10/18/2014,D-III,Beloit,Macalester,PUNTING,Kam,Sallee,LONG,50
+21208113,10/18/2014,D-III,Beloit,Macalester,KICK RETURNS,Michael,Nolden,NO,3
+21208114,10/18/2014,D-III,Beloit,Macalester,KICK RETURNS,Michael,Nolden,YDS,64
+21208115,10/18/2014,D-III,Beloit,Macalester,KICK RETURNS,Michael,Nolden,AVG,21.3
+21208116,10/18/2014,D-III,Beloit,Macalester,KICK RETURNS,Michael,Nolden,LONG,22
+21208117,10/18/2014,D-III,Beloit,Macalester,KICK RETURNS,Antonio,Jones,NO,2
+21208118,10/18/2014,D-III,Beloit,Macalester,KICK RETURNS,Antonio,Jones,YDS,44
+21208119,10/18/2014,D-III,Beloit,Macalester,KICK RETURNS,Antonio,Jones,AVG,22.0
+21208120,10/18/2014,D-III,Beloit,Macalester,KICK RETURNS,Antonio,Jones,LONG,23

@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+22902001,11/7/2015,D-III,Albright,Stevenson,RUSHING,C,Dawson,ATT,15
+22902002,11/7/2015,D-III,Albright,Stevenson,RUSHING,C,Dawson,YDS,94
+22902003,11/7/2015,D-III,Albright,Stevenson,RUSHING,C,Dawson,TD,2
+22902004,11/7/2015,D-III,Albright,Stevenson,RUSHING,C,Dawson,LONG,22
+22902005,11/7/2015,D-III,Albright,Stevenson,RUSHING,M,Knight,ATT,22
+22902006,11/7/2015,D-III,Albright,Stevenson,RUSHING,M,Knight,YDS,38
+22902007,11/7/2015,D-III,Albright,Stevenson,RUSHING,M,Knight,TD,0
+22902008,11/7/2015,D-III,Albright,Stevenson,RUSHING,M,Knight,LONG,25
+22902009,11/7/2015,D-III,Albright,Stevenson,RUSHING,S,Barroso,ATT,1
+22902010,11/7/2015,D-III,Albright,Stevenson,RUSHING,S,Barroso,YDS,30
+22902011,11/7/2015,D-III,Albright,Stevenson,RUSHING,S,Barroso,TD,0
+22902012,11/7/2015,D-III,Albright,Stevenson,RUSHING,S,Barroso,LONG,30
+22902013,11/7/2015,D-III,Albright,Stevenson,RUSHING,R,Monroe,ATT,3
+22902014,11/7/2015,D-III,Albright,Stevenson,RUSHING,R,Monroe,YDS,11
+22902015,11/7/2015,D-III,Albright,Stevenson,RUSHING,R,Monroe,TD,0
+22902016,11/7/2015,D-III,Albright,Stevenson,RUSHING,R,Monroe,LONG,6
+22902017,11/7/2015,D-III,Albright,Stevenson,PASSING,M,Knight,CP-ATT-INT,5-11-1
+22902018,11/7/2015,D-III,Albright,Stevenson,PASSING,M,Knight,YDS,58
+22902019,11/7/2015,D-III,Albright,Stevenson,PASSING,M,Knight,TD,1
+22902020,11/7/2015,D-III,Albright,Stevenson,PASSING,M,Knight,LONG,24
+22902021,11/7/2015,D-III,Albright,Stevenson,RECEIVING,V,Williams,REC,3
+22902022,11/7/2015,D-III,Albright,Stevenson,RECEIVING,V,Williams,YDS,33
+22902023,11/7/2015,D-III,Albright,Stevenson,RECEIVING,V,Williams,TD,0
+22902024,11/7/2015,D-III,Albright,Stevenson,RECEIVING,V,Williams,LONG,17
+22902025,11/7/2015,D-III,Albright,Stevenson,RECEIVING,G,Gainer,REC,1
+22902026,11/7/2015,D-III,Albright,Stevenson,RECEIVING,G,Gainer,YDS,24
+22902027,11/7/2015,D-III,Albright,Stevenson,RECEIVING,G,Gainer,TD,0
+22902028,11/7/2015,D-III,Albright,Stevenson,RECEIVING,G,Gainer,LONG,24
+22902029,11/7/2015,D-III,Albright,Stevenson,RECEIVING,J,Macleod,REC,1
+22902030,11/7/2015,D-III,Albright,Stevenson,RECEIVING,J,Macleod,YDS,1
+22902031,11/7/2015,D-III,Albright,Stevenson,RECEIVING,J,Macleod,TD,1
+22902032,11/7/2015,D-III,Albright,Stevenson,RECEIVING,J,Macleod,LONG,1
+22902033,11/7/2015,D-III,Albright,Stevenson,PUNTING,K,Goetz,NO,2
+22902034,11/7/2015,D-III,Albright,Stevenson,PUNTING,K,Goetz,YDS,76
+22902035,11/7/2015,D-III,Albright,Stevenson,PUNTING,K,Goetz,AVG,38.0
+22902036,11/7/2015,D-III,Albright,Stevenson,PUNTING,K,Goetz,LONG,42
+22902037,11/7/2015,D-III,Albright,Stevenson,PUNTING,M,Knight,NO,1
+22902038,11/7/2015,D-III,Albright,Stevenson,PUNTING,M,Knight,YDS,32
+22902039,11/7/2015,D-III,Albright,Stevenson,PUNTING,M,Knight,AVG,32.0
+22902040,11/7/2015,D-III,Albright,Stevenson,PUNTING,M,Knight,LONG,32
+22902041,11/7/2015,D-III,Albright,Stevenson,PUNTING,,Team,NO,1
+22902042,11/7/2015,D-III,Albright,Stevenson,PUNTING,,Team,YDS,-16
+22902043,11/7/2015,D-III,Albright,Stevenson,PUNTING,,Team,AVG,-16.0
+22902044,11/7/2015,D-III,Albright,Stevenson,PUNTING,,Team,LONG,0
+22902045,11/7/2015,D-III,Albright,Stevenson,PUNT RETURNS,V,Williams,NO,1
+22902046,11/7/2015,D-III,Albright,Stevenson,PUNT RETURNS,V,Williams,YDS,-7
+22902047,11/7/2015,D-III,Albright,Stevenson,PUNT RETURNS,V,Williams,AVG,-7.0
+22902048,11/7/2015,D-III,Albright,Stevenson,PUNT RETURNS,V,Williams,LONG,0
+22902049,11/7/2015,D-III,Albright,Stevenson,KICK RETURNS,K,Boyce,NO,3
+22902050,11/7/2015,D-III,Albright,Stevenson,KICK RETURNS,K,Boyce,YDS,46
+22902051,11/7/2015,D-III,Albright,Stevenson,KICK RETURNS,K,Boyce,AVG,15.3
+22902052,11/7/2015,D-III,Albright,Stevenson,KICK RETURNS,K,Boyce,LONG,20
+22902053,11/7/2015,D-III,Albright,Stevenson,KICK RETURNS,G,Gainer,NO,1
+22902054,11/7/2015,D-III,Albright,Stevenson,KICK RETURNS,G,Gainer,YDS,50
+22902055,11/7/2015,D-III,Albright,Stevenson,KICK RETURNS,G,Gainer,AVG,50.0
+22902056,11/7/2015,D-III,Albright,Stevenson,KICK RETURNS,G,Gainer,LONG,50
+22902057,11/7/2015,D-III,Stevenson,Albright,RUSHING,Kiandre,Burrell,ATT,22
+22902058,11/7/2015,D-III,Stevenson,Albright,RUSHING,Kiandre,Burrell,YDS,72
+22902059,11/7/2015,D-III,Stevenson,Albright,RUSHING,Kiandre,Burrell,TD,1
+22902060,11/7/2015,D-III,Stevenson,Albright,RUSHING,Kiandre,Burrell,LONG,14
+22902061,11/7/2015,D-III,Stevenson,Albright,RUSHING,Paki,Brown,ATT,12
+22902062,11/7/2015,D-III,Stevenson,Albright,RUSHING,Paki,Brown,YDS,39
+22902063,11/7/2015,D-III,Stevenson,Albright,RUSHING,Paki,Brown,TD,0
+22902064,11/7/2015,D-III,Stevenson,Albright,RUSHING,Paki,Brown,LONG,13
+22902065,11/7/2015,D-III,Stevenson,Albright,RUSHING,Brad,Harmon,ATT,4
+22902066,11/7/2015,D-III,Stevenson,Albright,RUSHING,Brad,Harmon,YDS,6
+22902067,11/7/2015,D-III,Stevenson,Albright,RUSHING,Brad,Harmon,TD,0
+22902068,11/7/2015,D-III,Stevenson,Albright,RUSHING,Brad,Harmon,LONG,8
+22902069,11/7/2015,D-III,Stevenson,Albright,PASSING,Brad,Harmon,CP-ATT-INT,22-35-2
+22902070,11/7/2015,D-III,Stevenson,Albright,PASSING,Brad,Harmon,YDS,301
+22902071,11/7/2015,D-III,Stevenson,Albright,PASSING,Brad,Harmon,TD,2
+22902072,11/7/2015,D-III,Stevenson,Albright,PASSING,Brad,Harmon,LONG,59
+22902073,11/7/2015,D-III,Stevenson,Albright,PASSING,Paki,Brown,CP-ATT-INT,0-1-1
+22902074,11/7/2015,D-III,Stevenson,Albright,PASSING,Paki,Brown,YDS,0
+22902075,11/7/2015,D-III,Stevenson,Albright,PASSING,Paki,Brown,TD,0
+22902076,11/7/2015,D-III,Stevenson,Albright,PASSING,Paki,Brown,LONG,0
+22902077,11/7/2015,D-III,Stevenson,Albright,RECEIVING,Cortez,Taylor,REC,8
+22902078,11/7/2015,D-III,Stevenson,Albright,RECEIVING,Cortez,Taylor,YDS,104
+22902079,11/7/2015,D-III,Stevenson,Albright,RECEIVING,Cortez,Taylor,TD,0
+22902080,11/7/2015,D-III,Stevenson,Albright,RECEIVING,Cortez,Taylor,LONG,29
+22902081,11/7/2015,D-III,Stevenson,Albright,RECEIVING,Preston,Addo,REC,3
+22902082,11/7/2015,D-III,Stevenson,Albright,RECEIVING,Preston,Addo,YDS,79
+22902083,11/7/2015,D-III,Stevenson,Albright,RECEIVING,Preston,Addo,TD,1
+22902084,11/7/2015,D-III,Stevenson,Albright,RECEIVING,Preston,Addo,LONG,59
+22902085,11/7/2015,D-III,Stevenson,Albright,RECEIVING,Seth,Jordan,REC,6
+22902086,11/7/2015,D-III,Stevenson,Albright,RECEIVING,Seth,Jordan,YDS,55
+22902087,11/7/2015,D-III,Stevenson,Albright,RECEIVING,Seth,Jordan,TD,1
+22902088,11/7/2015,D-III,Stevenson,Albright,RECEIVING,Seth,Jordan,LONG,18
+22902089,11/7/2015,D-III,Stevenson,Albright,RECEIVING,Devin,Salisbury,REC,2
+22902090,11/7/2015,D-III,Stevenson,Albright,RECEIVING,Devin,Salisbury,YDS,38
+22902091,11/7/2015,D-III,Stevenson,Albright,RECEIVING,Devin,Salisbury,TD,0
+22902092,11/7/2015,D-III,Stevenson,Albright,RECEIVING,Devin,Salisbury,LONG,22
+22902093,11/7/2015,D-III,Stevenson,Albright,RECEIVING,Kiandre,Burrell,REC,2
+22902094,11/7/2015,D-III,Stevenson,Albright,RECEIVING,Kiandre,Burrell,YDS,25
+22902095,11/7/2015,D-III,Stevenson,Albright,RECEIVING,Kiandre,Burrell,TD,0
+22902096,11/7/2015,D-III,Stevenson,Albright,RECEIVING,Kiandre,Burrell,LONG,16
+22902097,11/7/2015,D-III,Stevenson,Albright,RECEIVING,Paki,Brown,REC,1
+22902098,11/7/2015,D-III,Stevenson,Albright,RECEIVING,Paki,Brown,YDS,0
+22902099,11/7/2015,D-III,Stevenson,Albright,RECEIVING,Paki,Brown,TD,0
+22902100,11/7/2015,D-III,Stevenson,Albright,RECEIVING,Paki,Brown,LONG,0
+22902101,11/7/2015,D-III,Stevenson,Albright,PUNTING,Tim,Sternfeld,NO,3
+22902102,11/7/2015,D-III,Stevenson,Albright,PUNTING,Tim,Sternfeld,YDS,100
+22902103,11/7/2015,D-III,Stevenson,Albright,PUNTING,Tim,Sternfeld,AVG,33.3
+22902104,11/7/2015,D-III,Stevenson,Albright,PUNTING,Tim,Sternfeld,LONG,47
+22902105,11/7/2015,D-III,Stevenson,Albright,KICK RETURNS,K,Scott-kelow,NO,0
+22902106,11/7/2015,D-III,Stevenson,Albright,KICK RETURNS,K,Scott-kelow,YDS,-13
+22902107,11/7/2015,D-III,Stevenson,Albright,KICK RETURNS,K,Scott-kelow,AVG,-
+22902108,11/7/2015,D-III,Stevenson,Albright,KICK RETURNS,K,Scott-kelow,LONG,0
+22902109,11/7/2015,D-III,Stevenson,Albright,KICK RETURNS,Austin,Tennesse,NO,1
+22902110,11/7/2015,D-III,Stevenson,Albright,KICK RETURNS,Austin,Tennesse,YDS,-6
+22902111,11/7/2015,D-III,Stevenson,Albright,KICK RETURNS,Austin,Tennesse,AVG,-6.0
+22902112,11/7/2015,D-III,Stevenson,Albright,KICK RETURNS,Austin,Tennesse,LONG,0
+22902113,11/7/2015,D-III,Stevenson,Albright,KICK RETURNS,Billy,Lewis,NO,0
+22902114,11/7/2015,D-III,Stevenson,Albright,KICK RETURNS,Billy,Lewis,YDS,-3
+22902115,11/7/2015,D-III,Stevenson,Albright,KICK RETURNS,Billy,Lewis,AVG,-
+22902116,11/7/2015,D-III,Stevenson,Albright,KICK RETURNS,Billy,Lewis,LONG,0
+22902117,11/7/2015,D-III,Stevenson,Albright,KICK RETURNS,Preston,Addo,NO,0
+22902118,11/7/2015,D-III,Stevenson,Albright,KICK RETURNS,Preston,Addo,YDS,-6
+22902119,11/7/2015,D-III,Stevenson,Albright,KICK RETURNS,Preston,Addo,AVG,-
+22902120,11/7/2015,D-III,Stevenson,Albright,KICK RETURNS,Preston,Addo,LONG,0
+22902121,11/7/2015,D-III,Stevenson,Albright,KICK RETURNS,Devin,Salisbury,NO,3
+22902122,11/7/2015,D-III,Stevenson,Albright,KICK RETURNS,Devin,Salisbury,YDS,43
+22902123,11/7/2015,D-III,Stevenson,Albright,KICK RETURNS,Devin,Salisbury,AVG,14.3
+22902124,11/7/2015,D-III,Stevenson,Albright,KICK RETURNS,Devin,Salisbury,LONG,23
+22902125,11/7/2015,D-III,Stevenson,Albright,KICK RETURNS,D,Williams,NO,2
+22902126,11/7/2015,D-III,Stevenson,Albright,KICK RETURNS,D,Williams,YDS,34
+22902127,11/7/2015,D-III,Stevenson,Albright,KICK RETURNS,D,Williams,AVG,17.0
+22902128,11/7/2015,D-III,Stevenson,Albright,KICK RETURNS,D,Williams,LONG,18
+22902129,11/7/2015,D-III,Stevenson,Albright,KICK RETURNS,Jacob,Hall,NO,0
+22902130,11/7/2015,D-III,Stevenson,Albright,KICK RETURNS,Jacob,Hall,YDS,2
+22902131,11/7/2015,D-III,Stevenson,Albright,KICK RETURNS,Jacob,Hall,AVG,-
+22902132,11/7/2015,D-III,Stevenson,Albright,KICK RETURNS,Jacob,Hall,LONG,2
+22902133,11/7/2015,D-III,Stevenson,Albright,KICK RETURNS,Jimmy,Lauer,NO,0
+22902134,11/7/2015,D-III,Stevenson,Albright,KICK RETURNS,Jimmy,Lauer,YDS,4
+22902135,11/7/2015,D-III,Stevenson,Albright,KICK RETURNS,Jimmy,Lauer,AVG,-
+22902136,11/7/2015,D-III,Stevenson,Albright,KICK RETURNS,Jimmy,Lauer,LONG,4

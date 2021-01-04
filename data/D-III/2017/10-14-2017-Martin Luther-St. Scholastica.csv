@@ -1,0 +1,133 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+25050001,10/14/2017,D-III,Martin Luther,St. Scholastica,RUSHING,Elliott,Butler,ATT,10
+25050002,10/14/2017,D-III,Martin Luther,St. Scholastica,RUSHING,Elliott,Butler,YDS,87
+25050003,10/14/2017,D-III,Martin Luther,St. Scholastica,RUSHING,Elliott,Butler,TD,1
+25050004,10/14/2017,D-III,Martin Luther,St. Scholastica,RUSHING,Elliott,Butler,LONG,42
+25050005,10/14/2017,D-III,Martin Luther,St. Scholastica,RUSHING,Ian,Paulsen,ATT,13
+25050006,10/14/2017,D-III,Martin Luther,St. Scholastica,RUSHING,Ian,Paulsen,YDS,48
+25050007,10/14/2017,D-III,Martin Luther,St. Scholastica,RUSHING,Ian,Paulsen,TD,0
+25050008,10/14/2017,D-III,Martin Luther,St. Scholastica,RUSHING,Ian,Paulsen,LONG,44
+25050009,10/14/2017,D-III,Martin Luther,St. Scholastica,RUSHING,Joshua,Wordell,ATT,6
+25050010,10/14/2017,D-III,Martin Luther,St. Scholastica,RUSHING,Joshua,Wordell,YDS,20
+25050011,10/14/2017,D-III,Martin Luther,St. Scholastica,RUSHING,Joshua,Wordell,TD,0
+25050012,10/14/2017,D-III,Martin Luther,St. Scholastica,RUSHING,Joshua,Wordell,LONG,5
+25050013,10/14/2017,D-III,Martin Luther,St. Scholastica,RUSHING,Nate,Stein,ATT,3
+25050014,10/14/2017,D-III,Martin Luther,St. Scholastica,RUSHING,Nate,Stein,YDS,11
+25050015,10/14/2017,D-III,Martin Luther,St. Scholastica,RUSHING,Nate,Stein,TD,0
+25050016,10/14/2017,D-III,Martin Luther,St. Scholastica,RUSHING,Nate,Stein,LONG,4
+25050017,10/14/2017,D-III,Martin Luther,St. Scholastica,RUSHING,Aidan,Gregorius,ATT,5
+25050018,10/14/2017,D-III,Martin Luther,St. Scholastica,RUSHING,Aidan,Gregorius,YDS,9
+25050019,10/14/2017,D-III,Martin Luther,St. Scholastica,RUSHING,Aidan,Gregorius,TD,0
+25050020,10/14/2017,D-III,Martin Luther,St. Scholastica,RUSHING,Aidan,Gregorius,LONG,3
+25050021,10/14/2017,D-III,Martin Luther,St. Scholastica,RUSHING,Michael,Radue,ATT,2
+25050022,10/14/2017,D-III,Martin Luther,St. Scholastica,RUSHING,Michael,Radue,YDS,9
+25050023,10/14/2017,D-III,Martin Luther,St. Scholastica,RUSHING,Michael,Radue,TD,0
+25050024,10/14/2017,D-III,Martin Luther,St. Scholastica,RUSHING,Michael,Radue,LONG,8
+25050025,10/14/2017,D-III,Martin Luther,St. Scholastica,RUSHING,Josh,Wong,ATT,4
+25050026,10/14/2017,D-III,Martin Luther,St. Scholastica,RUSHING,Josh,Wong,YDS,7
+25050027,10/14/2017,D-III,Martin Luther,St. Scholastica,RUSHING,Josh,Wong,TD,0
+25050028,10/14/2017,D-III,Martin Luther,St. Scholastica,RUSHING,Josh,Wong,LONG,5
+25050029,10/14/2017,D-III,Martin Luther,St. Scholastica,PASSING,Ian,Paulsen,CP-ATT-INT,8-15-2
+25050030,10/14/2017,D-III,Martin Luther,St. Scholastica,PASSING,Ian,Paulsen,YDS,146
+25050031,10/14/2017,D-III,Martin Luther,St. Scholastica,PASSING,Ian,Paulsen,TD,2
+25050032,10/14/2017,D-III,Martin Luther,St. Scholastica,PASSING,Ian,Paulsen,LONG,60
+25050033,10/14/2017,D-III,Martin Luther,St. Scholastica,PASSING,Joshua,Wordell,CP-ATT-INT,1-1-0
+25050034,10/14/2017,D-III,Martin Luther,St. Scholastica,PASSING,Joshua,Wordell,YDS,5
+25050035,10/14/2017,D-III,Martin Luther,St. Scholastica,PASSING,Joshua,Wordell,TD,0
+25050036,10/14/2017,D-III,Martin Luther,St. Scholastica,PASSING,Joshua,Wordell,LONG,5
+25050037,10/14/2017,D-III,Martin Luther,St. Scholastica,RECEIVING,Josh,Arndt,REC,2
+25050038,10/14/2017,D-III,Martin Luther,St. Scholastica,RECEIVING,Josh,Arndt,YDS,85
+25050039,10/14/2017,D-III,Martin Luther,St. Scholastica,RECEIVING,Josh,Arndt,TD,1
+25050040,10/14/2017,D-III,Martin Luther,St. Scholastica,RECEIVING,Josh,Arndt,LONG,60
+25050041,10/14/2017,D-III,Martin Luther,St. Scholastica,RECEIVING,Josh,Schroeder,REC,3
+25050042,10/14/2017,D-III,Martin Luther,St. Scholastica,RECEIVING,Josh,Schroeder,YDS,33
+25050043,10/14/2017,D-III,Martin Luther,St. Scholastica,RECEIVING,Josh,Schroeder,TD,0
+25050044,10/14/2017,D-III,Martin Luther,St. Scholastica,RECEIVING,Josh,Schroeder,LONG,14
+25050045,10/14/2017,D-III,Martin Luther,St. Scholastica,RECEIVING,Michael,Radue,REC,4
+25050046,10/14/2017,D-III,Martin Luther,St. Scholastica,RECEIVING,Michael,Radue,YDS,33
+25050047,10/14/2017,D-III,Martin Luther,St. Scholastica,RECEIVING,Michael,Radue,TD,1
+25050048,10/14/2017,D-III,Martin Luther,St. Scholastica,RECEIVING,Michael,Radue,LONG,13
+25050049,10/14/2017,D-III,Martin Luther,St. Scholastica,PUNTING,Michael,Radue,NO,6
+25050050,10/14/2017,D-III,Martin Luther,St. Scholastica,PUNTING,Michael,Radue,YDS,191
+25050051,10/14/2017,D-III,Martin Luther,St. Scholastica,PUNTING,Michael,Radue,AVG,31.8
+25050052,10/14/2017,D-III,Martin Luther,St. Scholastica,PUNTING,Michael,Radue,LONG,42
+25050053,10/14/2017,D-III,Martin Luther,St. Scholastica,KICK RETURNS,Elliott,Butler,NO,5
+25050054,10/14/2017,D-III,Martin Luther,St. Scholastica,KICK RETURNS,Elliott,Butler,YDS,67
+25050055,10/14/2017,D-III,Martin Luther,St. Scholastica,KICK RETURNS,Elliott,Butler,AVG,13.4
+25050056,10/14/2017,D-III,Martin Luther,St. Scholastica,KICK RETURNS,Elliott,Butler,LONG,19
+25050057,10/14/2017,D-III,Martin Luther,St. Scholastica,KICK RETURNS,Joseph,Herrewig,NO,2
+25050058,10/14/2017,D-III,Martin Luther,St. Scholastica,KICK RETURNS,Joseph,Herrewig,YDS,33
+25050059,10/14/2017,D-III,Martin Luther,St. Scholastica,KICK RETURNS,Joseph,Herrewig,AVG,16.5
+25050060,10/14/2017,D-III,Martin Luther,St. Scholastica,KICK RETURNS,Joseph,Herrewig,LONG,17
+25050061,10/14/2017,D-III,Martin Luther,St. Scholastica,KICK RETURNS,Josh,Arndt,NO,2
+25050062,10/14/2017,D-III,Martin Luther,St. Scholastica,KICK RETURNS,Josh,Arndt,YDS,41
+25050063,10/14/2017,D-III,Martin Luther,St. Scholastica,KICK RETURNS,Josh,Arndt,AVG,20.5
+25050064,10/14/2017,D-III,Martin Luther,St. Scholastica,KICK RETURNS,Josh,Arndt,LONG,21
+25050065,10/14/2017,D-III,St. Scholastica,Martin Luther,RUSHING,Ben,Buthe,ATT,13
+25050066,10/14/2017,D-III,St. Scholastica,Martin Luther,RUSHING,Ben,Buthe,YDS,57
+25050067,10/14/2017,D-III,St. Scholastica,Martin Luther,RUSHING,Ben,Buthe,TD,2
+25050068,10/14/2017,D-III,St. Scholastica,Martin Luther,RUSHING,Ben,Buthe,LONG,8
+25050069,10/14/2017,D-III,St. Scholastica,Martin Luther,RUSHING,Jack,Peru,ATT,15
+25050070,10/14/2017,D-III,St. Scholastica,Martin Luther,RUSHING,Jack,Peru,YDS,56
+25050071,10/14/2017,D-III,St. Scholastica,Martin Luther,RUSHING,Jack,Peru,TD,0
+25050072,10/14/2017,D-III,St. Scholastica,Martin Luther,RUSHING,Jack,Peru,LONG,20
+25050073,10/14/2017,D-III,St. Scholastica,Martin Luther,RUSHING,Corey,Jobe,ATT,6
+25050074,10/14/2017,D-III,St. Scholastica,Martin Luther,RUSHING,Corey,Jobe,YDS,38
+25050075,10/14/2017,D-III,St. Scholastica,Martin Luther,RUSHING,Corey,Jobe,TD,1
+25050076,10/14/2017,D-III,St. Scholastica,Martin Luther,RUSHING,Corey,Jobe,LONG,12
+25050077,10/14/2017,D-III,St. Scholastica,Martin Luther,RUSHING,Reese,Jansen,ATT,3
+25050078,10/14/2017,D-III,St. Scholastica,Martin Luther,RUSHING,Reese,Jansen,YDS,33
+25050079,10/14/2017,D-III,St. Scholastica,Martin Luther,RUSHING,Reese,Jansen,TD,0
+25050080,10/14/2017,D-III,St. Scholastica,Martin Luther,RUSHING,Reese,Jansen,LONG,27
+25050081,10/14/2017,D-III,St. Scholastica,Martin Luther,RUSHING,Zach,Edwards,ATT,9
+25050082,10/14/2017,D-III,St. Scholastica,Martin Luther,RUSHING,Zach,Edwards,YDS,26
+25050083,10/14/2017,D-III,St. Scholastica,Martin Luther,RUSHING,Zach,Edwards,TD,0
+25050084,10/14/2017,D-III,St. Scholastica,Martin Luther,RUSHING,Zach,Edwards,LONG,11
+25050085,10/14/2017,D-III,St. Scholastica,Martin Luther,RUSHING,Jeff,Lemay,ATT,4
+25050086,10/14/2017,D-III,St. Scholastica,Martin Luther,RUSHING,Jeff,Lemay,YDS,13
+25050087,10/14/2017,D-III,St. Scholastica,Martin Luther,RUSHING,Jeff,Lemay,TD,1
+25050088,10/14/2017,D-III,St. Scholastica,Martin Luther,RUSHING,Jeff,Lemay,LONG,7
+25050089,10/14/2017,D-III,St. Scholastica,Martin Luther,RUSHING,,Team,ATT,1
+25050090,10/14/2017,D-III,St. Scholastica,Martin Luther,RUSHING,,Team,YDS,-5
+25050091,10/14/2017,D-III,St. Scholastica,Martin Luther,RUSHING,,Team,TD,0
+25050092,10/14/2017,D-III,St. Scholastica,Martin Luther,RUSHING,,Team,LONG,0
+25050093,10/14/2017,D-III,St. Scholastica,Martin Luther,PASSING,Zach,Edwards,CP-ATT-INT,12-26-2
+25050094,10/14/2017,D-III,St. Scholastica,Martin Luther,PASSING,Zach,Edwards,YDS,242
+25050095,10/14/2017,D-III,St. Scholastica,Martin Luther,PASSING,Zach,Edwards,TD,3
+25050096,10/14/2017,D-III,St. Scholastica,Martin Luther,PASSING,Zach,Edwards,LONG,53
+25050097,10/14/2017,D-III,St. Scholastica,Martin Luther,RECEIVING,Hunter,Thompson,REC,4
+25050098,10/14/2017,D-III,St. Scholastica,Martin Luther,RECEIVING,Hunter,Thompson,YDS,107
+25050099,10/14/2017,D-III,St. Scholastica,Martin Luther,RECEIVING,Hunter,Thompson,TD,2
+25050100,10/14/2017,D-III,St. Scholastica,Martin Luther,RECEIVING,Hunter,Thompson,LONG,37
+25050101,10/14/2017,D-III,St. Scholastica,Martin Luther,RECEIVING,Reese,Jansen,REC,3
+25050102,10/14/2017,D-III,St. Scholastica,Martin Luther,RECEIVING,Reese,Jansen,YDS,80
+25050103,10/14/2017,D-III,St. Scholastica,Martin Luther,RECEIVING,Reese,Jansen,TD,1
+25050104,10/14/2017,D-III,St. Scholastica,Martin Luther,RECEIVING,Reese,Jansen,LONG,53
+25050105,10/14/2017,D-III,St. Scholastica,Martin Luther,RECEIVING,Ben,Buthe,REC,2
+25050106,10/14/2017,D-III,St. Scholastica,Martin Luther,RECEIVING,Ben,Buthe,YDS,20
+25050107,10/14/2017,D-III,St. Scholastica,Martin Luther,RECEIVING,Ben,Buthe,TD,0
+25050108,10/14/2017,D-III,St. Scholastica,Martin Luther,RECEIVING,Ben,Buthe,LONG,14
+25050109,10/14/2017,D-III,St. Scholastica,Martin Luther,RECEIVING,Eddie,Lee,REC,1
+25050110,10/14/2017,D-III,St. Scholastica,Martin Luther,RECEIVING,Eddie,Lee,YDS,19
+25050111,10/14/2017,D-III,St. Scholastica,Martin Luther,RECEIVING,Eddie,Lee,TD,0
+25050112,10/14/2017,D-III,St. Scholastica,Martin Luther,RECEIVING,Eddie,Lee,LONG,19
+25050113,10/14/2017,D-III,St. Scholastica,Martin Luther,RECEIVING,Jack,Peru,REC,2
+25050114,10/14/2017,D-III,St. Scholastica,Martin Luther,RECEIVING,Jack,Peru,YDS,16
+25050115,10/14/2017,D-III,St. Scholastica,Martin Luther,RECEIVING,Jack,Peru,TD,0
+25050116,10/14/2017,D-III,St. Scholastica,Martin Luther,RECEIVING,Jack,Peru,LONG,10
+25050117,10/14/2017,D-III,St. Scholastica,Martin Luther,PUNTING,Donovan,Blatz,NO,3
+25050118,10/14/2017,D-III,St. Scholastica,Martin Luther,PUNTING,Donovan,Blatz,YDS,81
+25050119,10/14/2017,D-III,St. Scholastica,Martin Luther,PUNTING,Donovan,Blatz,AVG,27.0
+25050120,10/14/2017,D-III,St. Scholastica,Martin Luther,PUNTING,Donovan,Blatz,LONG,38
+25050121,10/14/2017,D-III,St. Scholastica,Martin Luther,PUNT RETURNS,Will,Halloran,NO,2
+25050122,10/14/2017,D-III,St. Scholastica,Martin Luther,PUNT RETURNS,Will,Halloran,YDS,37
+25050123,10/14/2017,D-III,St. Scholastica,Martin Luther,PUNT RETURNS,Will,Halloran,AVG,18.5
+25050124,10/14/2017,D-III,St. Scholastica,Martin Luther,PUNT RETURNS,Will,Halloran,LONG,22
+25050125,10/14/2017,D-III,St. Scholastica,Martin Luther,KICK RETURNS,Michael,Petron,NO,1
+25050126,10/14/2017,D-III,St. Scholastica,Martin Luther,KICK RETURNS,Michael,Petron,YDS,15
+25050127,10/14/2017,D-III,St. Scholastica,Martin Luther,KICK RETURNS,Michael,Petron,AVG,15.0
+25050128,10/14/2017,D-III,St. Scholastica,Martin Luther,KICK RETURNS,Michael,Petron,LONG,15
+25050129,10/14/2017,D-III,St. Scholastica,Martin Luther,KICK RETURNS,Jack,Peru,NO,3
+25050130,10/14/2017,D-III,St. Scholastica,Martin Luther,KICK RETURNS,Jack,Peru,YDS,113
+25050131,10/14/2017,D-III,St. Scholastica,Martin Luther,KICK RETURNS,Jack,Peru,AVG,37.7
+25050132,10/14/2017,D-III,St. Scholastica,Martin Luther,KICK RETURNS,Jack,Peru,LONG,77

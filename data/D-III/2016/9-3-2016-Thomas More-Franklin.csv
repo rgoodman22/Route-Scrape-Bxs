@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+23101001,9/3/2016,D-III,Thomas More,Franklin,RUSHING,Ct,Tarrant,ATT,28
+23101002,9/3/2016,D-III,Thomas More,Franklin,RUSHING,Ct,Tarrant,YDS,205
+23101003,9/3/2016,D-III,Thomas More,Franklin,RUSHING,Ct,Tarrant,TD,2
+23101004,9/3/2016,D-III,Thomas More,Franklin,RUSHING,Ct,Tarrant,LONG,62
+23101005,9/3/2016,D-III,Thomas More,Franklin,RUSHING,Hjavier,Pitts,ATT,6
+23101006,9/3/2016,D-III,Thomas More,Franklin,RUSHING,Hjavier,Pitts,YDS,44
+23101007,9/3/2016,D-III,Thomas More,Franklin,RUSHING,Hjavier,Pitts,TD,0
+23101008,9/3/2016,D-III,Thomas More,Franklin,RUSHING,Hjavier,Pitts,LONG,29
+23101009,9/3/2016,D-III,Thomas More,Franklin,RUSHING,Brenan,Kuntz,ATT,8
+23101010,9/3/2016,D-III,Thomas More,Franklin,RUSHING,Brenan,Kuntz,YDS,28
+23101011,9/3/2016,D-III,Thomas More,Franklin,RUSHING,Brenan,Kuntz,TD,0
+23101012,9/3/2016,D-III,Thomas More,Franklin,RUSHING,Brenan,Kuntz,LONG,20
+23101013,9/3/2016,D-III,Thomas More,Franklin,RUSHING,Daylin,Garland,ATT,1
+23101014,9/3/2016,D-III,Thomas More,Franklin,RUSHING,Daylin,Garland,YDS,4
+23101015,9/3/2016,D-III,Thomas More,Franklin,RUSHING,Daylin,Garland,TD,0
+23101016,9/3/2016,D-III,Thomas More,Franklin,RUSHING,Daylin,Garland,LONG,4
+23101017,9/3/2016,D-III,Thomas More,Franklin,RUSHING,,Team,ATT,1
+23101018,9/3/2016,D-III,Thomas More,Franklin,RUSHING,,Team,YDS,-2
+23101019,9/3/2016,D-III,Thomas More,Franklin,RUSHING,,Team,TD,0
+23101020,9/3/2016,D-III,Thomas More,Franklin,RUSHING,,Team,LONG,0
+23101021,9/3/2016,D-III,Thomas More,Franklin,PASSING,Brenan,Kuntz,CP-ATT-INT,14-28-0
+23101022,9/3/2016,D-III,Thomas More,Franklin,PASSING,Brenan,Kuntz,YDS,201
+23101023,9/3/2016,D-III,Thomas More,Franklin,PASSING,Brenan,Kuntz,TD,3
+23101024,9/3/2016,D-III,Thomas More,Franklin,PASSING,Brenan,Kuntz,LONG,43
+23101025,9/3/2016,D-III,Thomas More,Franklin,RECEIVING,Matt,Betustak,REC,6
+23101026,9/3/2016,D-III,Thomas More,Franklin,RECEIVING,Matt,Betustak,YDS,73
+23101027,9/3/2016,D-III,Thomas More,Franklin,RECEIVING,Matt,Betustak,TD,1
+23101028,9/3/2016,D-III,Thomas More,Franklin,RECEIVING,Matt,Betustak,LONG,27
+23101029,9/3/2016,D-III,Thomas More,Franklin,RECEIVING,Daylin,Garland,REC,4
+23101030,9/3/2016,D-III,Thomas More,Franklin,RECEIVING,Daylin,Garland,YDS,56
+23101031,9/3/2016,D-III,Thomas More,Franklin,RECEIVING,Daylin,Garland,TD,1
+23101032,9/3/2016,D-III,Thomas More,Franklin,RECEIVING,Daylin,Garland,LONG,27
+23101033,9/3/2016,D-III,Thomas More,Franklin,RECEIVING,Logan,Winkler,REC,2
+23101034,9/3/2016,D-III,Thomas More,Franklin,RECEIVING,Logan,Winkler,YDS,52
+23101035,9/3/2016,D-III,Thomas More,Franklin,RECEIVING,Logan,Winkler,TD,1
+23101036,9/3/2016,D-III,Thomas More,Franklin,RECEIVING,Logan,Winkler,LONG,43
+23101037,9/3/2016,D-III,Thomas More,Franklin,RECEIVING,Dalton,Conway,REC,2
+23101038,9/3/2016,D-III,Thomas More,Franklin,RECEIVING,Dalton,Conway,YDS,20
+23101039,9/3/2016,D-III,Thomas More,Franklin,RECEIVING,Dalton,Conway,TD,0
+23101040,9/3/2016,D-III,Thomas More,Franklin,RECEIVING,Dalton,Conway,LONG,12
+23101041,9/3/2016,D-III,Thomas More,Franklin,PUNTING,Cole,Mathias,NO,1
+23101042,9/3/2016,D-III,Thomas More,Franklin,PUNTING,Cole,Mathias,YDS,46
+23101043,9/3/2016,D-III,Thomas More,Franklin,PUNTING,Cole,Mathias,AVG,46.0
+23101044,9/3/2016,D-III,Thomas More,Franklin,PUNTING,Cole,Mathias,LONG,46
+23101045,9/3/2016,D-III,Thomas More,Franklin,PUNTING,Chase,Whitaker,NO,2
+23101046,9/3/2016,D-III,Thomas More,Franklin,PUNTING,Chase,Whitaker,YDS,79
+23101047,9/3/2016,D-III,Thomas More,Franklin,PUNTING,Chase,Whitaker,AVG,39.5
+23101048,9/3/2016,D-III,Thomas More,Franklin,PUNTING,Chase,Whitaker,LONG,47
+23101049,9/3/2016,D-III,Thomas More,Franklin,PUNT RETURNS,Daylin,Garland,NO,1
+23101050,9/3/2016,D-III,Thomas More,Franklin,PUNT RETURNS,Daylin,Garland,YDS,-1
+23101051,9/3/2016,D-III,Thomas More,Franklin,PUNT RETURNS,Daylin,Garland,AVG,-1.0
+23101052,9/3/2016,D-III,Thomas More,Franklin,PUNT RETURNS,Daylin,Garland,LONG,0
+23101053,9/3/2016,D-III,Thomas More,Franklin,KICK RETURNS,Logan,Winkler,NO,1
+23101054,9/3/2016,D-III,Thomas More,Franklin,KICK RETURNS,Logan,Winkler,YDS,10
+23101055,9/3/2016,D-III,Thomas More,Franklin,KICK RETURNS,Logan,Winkler,AVG,10.0
+23101056,9/3/2016,D-III,Thomas More,Franklin,KICK RETURNS,Logan,Winkler,LONG,10
+23101057,9/3/2016,D-III,Thomas More,Franklin,KICK RETURNS,Markus,James,NO,1
+23101058,9/3/2016,D-III,Thomas More,Franklin,KICK RETURNS,Markus,James,YDS,39
+23101059,9/3/2016,D-III,Thomas More,Franklin,KICK RETURNS,Markus,James,AVG,39.0
+23101060,9/3/2016,D-III,Thomas More,Franklin,KICK RETURNS,Markus,James,LONG,39
+23101061,9/3/2016,D-III,Thomas More,Franklin,KICK RETURNS,Brandon,Neal,NO,2
+23101062,9/3/2016,D-III,Thomas More,Franklin,KICK RETURNS,Brandon,Neal,YDS,70
+23101063,9/3/2016,D-III,Thomas More,Franklin,KICK RETURNS,Brandon,Neal,AVG,35.0
+23101064,9/3/2016,D-III,Thomas More,Franklin,KICK RETURNS,Brandon,Neal,LONG,50
+23101065,9/3/2016,D-III,Thomas More,Franklin,KICK RETURNS,Luke,Zajac,NO,1
+23101066,9/3/2016,D-III,Thomas More,Franklin,KICK RETURNS,Luke,Zajac,YDS,7
+23101067,9/3/2016,D-III,Thomas More,Franklin,KICK RETURNS,Luke,Zajac,AVG,7.0
+23101068,9/3/2016,D-III,Thomas More,Franklin,KICK RETURNS,Luke,Zajac,LONG,7
+23101069,9/3/2016,D-III,Thomas More,Franklin,KICK RETURNS,Lemuel,Weyer,NO,1
+23101070,9/3/2016,D-III,Thomas More,Franklin,KICK RETURNS,Lemuel,Weyer,YDS,0
+23101071,9/3/2016,D-III,Thomas More,Franklin,KICK RETURNS,Lemuel,Weyer,AVG,0.0
+23101072,9/3/2016,D-III,Thomas More,Franklin,KICK RETURNS,Lemuel,Weyer,LONG,0
+23101073,9/3/2016,D-III,Thomas More,Franklin,KICK RETURNS,Logan,Galarno,NO,1
+23101074,9/3/2016,D-III,Thomas More,Franklin,KICK RETURNS,Logan,Galarno,YDS,0
+23101075,9/3/2016,D-III,Thomas More,Franklin,KICK RETURNS,Logan,Galarno,AVG,0.0
+23101076,9/3/2016,D-III,Thomas More,Franklin,KICK RETURNS,Logan,Galarno,LONG,0
+23101077,9/3/2016,D-III,Franklin,Thomas More,RUSHING,Ty'ronte,Files,ATT,23
+23101078,9/3/2016,D-III,Franklin,Thomas More,RUSHING,Ty'ronte,Files,YDS,55
+23101079,9/3/2016,D-III,Franklin,Thomas More,RUSHING,Ty'ronte,Files,TD,1
+23101080,9/3/2016,D-III,Franklin,Thomas More,RUSHING,Ty'ronte,Files,LONG,7
+23101081,9/3/2016,D-III,Franklin,Thomas More,RUSHING,Chase,Burton,ATT,6
+23101082,9/3/2016,D-III,Franklin,Thomas More,RUSHING,Chase,Burton,YDS,8
+23101083,9/3/2016,D-III,Franklin,Thomas More,RUSHING,Chase,Burton,TD,0
+23101084,9/3/2016,D-III,Franklin,Thomas More,RUSHING,Chase,Burton,LONG,12
+23101085,9/3/2016,D-III,Franklin,Thomas More,RUSHING,Jordan,Brown,ATT,3
+23101086,9/3/2016,D-III,Franklin,Thomas More,RUSHING,Jordan,Brown,YDS,3
+23101087,9/3/2016,D-III,Franklin,Thomas More,RUSHING,Jordan,Brown,TD,0
+23101088,9/3/2016,D-III,Franklin,Thomas More,RUSHING,Jordan,Brown,LONG,2
+23101089,9/3/2016,D-III,Franklin,Thomas More,PASSING,Chase,Burton,CP-ATT-INT,51-67-3
+23101090,9/3/2016,D-III,Franklin,Thomas More,PASSING,Chase,Burton,YDS,514
+23101091,9/3/2016,D-III,Franklin,Thomas More,PASSING,Chase,Burton,TD,5
+23101092,9/3/2016,D-III,Franklin,Thomas More,PASSING,Chase,Burton,LONG,56
+23101093,9/3/2016,D-III,Franklin,Thomas More,RECEIVING,D,Alexander,REC,12
+23101094,9/3/2016,D-III,Franklin,Thomas More,RECEIVING,D,Alexander,YDS,164
+23101095,9/3/2016,D-III,Franklin,Thomas More,RECEIVING,D,Alexander,TD,1
+23101096,9/3/2016,D-III,Franklin,Thomas More,RECEIVING,D,Alexander,LONG,56
+23101097,9/3/2016,D-III,Franklin,Thomas More,RECEIVING,D,Crenshaw,REC,13
+23101098,9/3/2016,D-III,Franklin,Thomas More,RECEIVING,D,Crenshaw,YDS,104
+23101099,9/3/2016,D-III,Franklin,Thomas More,RECEIVING,D,Crenshaw,TD,1
+23101100,9/3/2016,D-III,Franklin,Thomas More,RECEIVING,D,Crenshaw,LONG,26
+23101101,9/3/2016,D-III,Franklin,Thomas More,RECEIVING,T,Wroblewski,REC,7
+23101102,9/3/2016,D-III,Franklin,Thomas More,RECEIVING,T,Wroblewski,YDS,82
+23101103,9/3/2016,D-III,Franklin,Thomas More,RECEIVING,T,Wroblewski,TD,1
+23101104,9/3/2016,D-III,Franklin,Thomas More,RECEIVING,T,Wroblewski,LONG,28
+23101105,9/3/2016,D-III,Franklin,Thomas More,RECEIVING,L,Wroblewski,REC,8
+23101106,9/3/2016,D-III,Franklin,Thomas More,RECEIVING,L,Wroblewski,YDS,73
+23101107,9/3/2016,D-III,Franklin,Thomas More,RECEIVING,L,Wroblewski,TD,1
+23101108,9/3/2016,D-III,Franklin,Thomas More,RECEIVING,L,Wroblewski,LONG,17
+23101109,9/3/2016,D-III,Franklin,Thomas More,RECEIVING,Ty'ronte,Files,REC,6
+23101110,9/3/2016,D-III,Franklin,Thomas More,RECEIVING,Ty'ronte,Files,YDS,61
+23101111,9/3/2016,D-III,Franklin,Thomas More,RECEIVING,Ty'ronte,Files,TD,1
+23101112,9/3/2016,D-III,Franklin,Thomas More,RECEIVING,Ty'ronte,Files,LONG,25
+23101113,9/3/2016,D-III,Franklin,Thomas More,RECEIVING,Tanner,Kameda,REC,4
+23101114,9/3/2016,D-III,Franklin,Thomas More,RECEIVING,Tanner,Kameda,YDS,22
+23101115,9/3/2016,D-III,Franklin,Thomas More,RECEIVING,Tanner,Kameda,TD,0
+23101116,9/3/2016,D-III,Franklin,Thomas More,RECEIVING,Tanner,Kameda,LONG,9
+23101117,9/3/2016,D-III,Franklin,Thomas More,RECEIVING,Brady,Helms,REC,1
+23101118,9/3/2016,D-III,Franklin,Thomas More,RECEIVING,Brady,Helms,YDS,8
+23101119,9/3/2016,D-III,Franklin,Thomas More,RECEIVING,Brady,Helms,TD,0
+23101120,9/3/2016,D-III,Franklin,Thomas More,RECEIVING,Brady,Helms,LONG,8
+23101121,9/3/2016,D-III,Franklin,Thomas More,PUNTING,S,Colligan,NO,2
+23101122,9/3/2016,D-III,Franklin,Thomas More,PUNTING,S,Colligan,YDS,75
+23101123,9/3/2016,D-III,Franklin,Thomas More,PUNTING,S,Colligan,AVG,37.5
+23101124,9/3/2016,D-III,Franklin,Thomas More,PUNTING,S,Colligan,LONG,40
+23101125,9/3/2016,D-III,Franklin,Thomas More,PUNT RETURNS,Brad,Bonomini,NO,2
+23101126,9/3/2016,D-III,Franklin,Thomas More,PUNT RETURNS,Brad,Bonomini,YDS,10
+23101127,9/3/2016,D-III,Franklin,Thomas More,PUNT RETURNS,Brad,Bonomini,AVG,5.0
+23101128,9/3/2016,D-III,Franklin,Thomas More,PUNT RETURNS,Brad,Bonomini,LONG,5
+23101129,9/3/2016,D-III,Franklin,Thomas More,KICK RETURNS,Brad,Bonomini,NO,6
+23101130,9/3/2016,D-III,Franklin,Thomas More,KICK RETURNS,Brad,Bonomini,YDS,124
+23101131,9/3/2016,D-III,Franklin,Thomas More,KICK RETURNS,Brad,Bonomini,AVG,20.7
+23101132,9/3/2016,D-III,Franklin,Thomas More,KICK RETURNS,Brad,Bonomini,LONG,28
+23101133,9/3/2016,D-III,Franklin,Thomas More,KICK RETURNS,T,Christensen,NO,1
+23101134,9/3/2016,D-III,Franklin,Thomas More,KICK RETURNS,T,Christensen,YDS,25
+23101135,9/3/2016,D-III,Franklin,Thomas More,KICK RETURNS,T,Christensen,AVG,25.0
+23101136,9/3/2016,D-III,Franklin,Thomas More,KICK RETURNS,T,Christensen,LONG,25

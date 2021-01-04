@@ -1,0 +1,137 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+13042001,10/18/2013,D-II,West Chester,Lock Haven,RUSHING,Rondell,White,ATT,33
+13042002,10/18/2013,D-II,West Chester,Lock Haven,RUSHING,Rondell,White,YDS,196
+13042003,10/18/2013,D-II,West Chester,Lock Haven,RUSHING,Rondell,White,TD,2
+13042004,10/18/2013,D-II,West Chester,Lock Haven,RUSHING,Rondell,White,LONG,18
+13042005,10/18/2013,D-II,West Chester,Lock Haven,RUSHING,,Team,ATT,1
+13042006,10/18/2013,D-II,West Chester,Lock Haven,RUSHING,,Team,YDS,-2
+13042007,10/18/2013,D-II,West Chester,Lock Haven,RUSHING,,Team,TD,0
+13042008,10/18/2013,D-II,West Chester,Lock Haven,RUSHING,,Team,LONG,0
+13042009,10/18/2013,D-II,West Chester,Lock Haven,RUSHING,James,Rusenko,ATT,1
+13042010,10/18/2013,D-II,West Chester,Lock Haven,RUSHING,James,Rusenko,YDS,5
+13042011,10/18/2013,D-II,West Chester,Lock Haven,RUSHING,James,Rusenko,TD,0
+13042012,10/18/2013,D-II,West Chester,Lock Haven,RUSHING,James,Rusenko,LONG,5
+13042013,10/18/2013,D-II,West Chester,Lock Haven,RUSHING,Brandon,Monk,ATT,4
+13042014,10/18/2013,D-II,West Chester,Lock Haven,RUSHING,Brandon,Monk,YDS,33
+13042015,10/18/2013,D-II,West Chester,Lock Haven,RUSHING,Brandon,Monk,TD,1
+13042016,10/18/2013,D-II,West Chester,Lock Haven,RUSHING,Brandon,Monk,LONG,20
+13042017,10/18/2013,D-II,West Chester,Lock Haven,PASSING,Sean,Mccartney,CP-ATT-INT,15-20-2
+13042018,10/18/2013,D-II,West Chester,Lock Haven,PASSING,Sean,Mccartney,YDS,251
+13042019,10/18/2013,D-II,West Chester,Lock Haven,PASSING,Sean,Mccartney,TD,1
+13042020,10/18/2013,D-II,West Chester,Lock Haven,PASSING,Sean,Mccartney,LONG,39
+13042021,10/18/2013,D-II,West Chester,Lock Haven,RECEIVING,Rondell,White,REC,4
+13042022,10/18/2013,D-II,West Chester,Lock Haven,RECEIVING,Rondell,White,YDS,85
+13042023,10/18/2013,D-II,West Chester,Lock Haven,RECEIVING,Rondell,White,TD,0
+13042024,10/18/2013,D-II,West Chester,Lock Haven,RECEIVING,Rondell,White,LONG,33
+13042025,10/18/2013,D-II,West Chester,Lock Haven,RECEIVING,Tim,Keyser,REC,4
+13042026,10/18/2013,D-II,West Chester,Lock Haven,RECEIVING,Tim,Keyser,YDS,53
+13042027,10/18/2013,D-II,West Chester,Lock Haven,RECEIVING,Tim,Keyser,TD,0
+13042028,10/18/2013,D-II,West Chester,Lock Haven,RECEIVING,Tim,Keyser,LONG,19
+13042029,10/18/2013,D-II,West Chester,Lock Haven,RECEIVING,Erick,Brundidge,REC,3
+13042030,10/18/2013,D-II,West Chester,Lock Haven,RECEIVING,Erick,Brundidge,YDS,49
+13042031,10/18/2013,D-II,West Chester,Lock Haven,RECEIVING,Erick,Brundidge,TD,1
+13042032,10/18/2013,D-II,West Chester,Lock Haven,RECEIVING,Erick,Brundidge,LONG,39
+13042033,10/18/2013,D-II,West Chester,Lock Haven,RECEIVING,Eddie,Elliott,REC,2
+13042034,10/18/2013,D-II,West Chester,Lock Haven,RECEIVING,Eddie,Elliott,YDS,18
+13042035,10/18/2013,D-II,West Chester,Lock Haven,RECEIVING,Eddie,Elliott,TD,0
+13042036,10/18/2013,D-II,West Chester,Lock Haven,RECEIVING,Eddie,Elliott,LONG,12
+13042037,10/18/2013,D-II,West Chester,Lock Haven,RECEIVING,Adam,Dempsey,REC,1
+13042038,10/18/2013,D-II,West Chester,Lock Haven,RECEIVING,Adam,Dempsey,YDS,23
+13042039,10/18/2013,D-II,West Chester,Lock Haven,RECEIVING,Adam,Dempsey,TD,0
+13042040,10/18/2013,D-II,West Chester,Lock Haven,RECEIVING,Adam,Dempsey,LONG,23
+13042041,10/18/2013,D-II,West Chester,Lock Haven,RECEIVING,Shannon,Mayer,REC,1
+13042042,10/18/2013,D-II,West Chester,Lock Haven,RECEIVING,Shannon,Mayer,YDS,23
+13042043,10/18/2013,D-II,West Chester,Lock Haven,RECEIVING,Shannon,Mayer,TD,0
+13042044,10/18/2013,D-II,West Chester,Lock Haven,RECEIVING,Shannon,Mayer,LONG,23
+13042045,10/18/2013,D-II,West Chester,Lock Haven,PUNTING,Rich,Bruno,NO,1
+13042046,10/18/2013,D-II,West Chester,Lock Haven,PUNTING,Rich,Bruno,YDS,48
+13042047,10/18/2013,D-II,West Chester,Lock Haven,PUNTING,Rich,Bruno,AVG,48.0
+13042048,10/18/2013,D-II,West Chester,Lock Haven,PUNTING,Rich,Bruno,LONG,48
+13042049,10/18/2013,D-II,West Chester,Lock Haven,PUNT RETURNS,Brandon,Monk,NO,1
+13042050,10/18/2013,D-II,West Chester,Lock Haven,PUNT RETURNS,Brandon,Monk,YDS,2
+13042051,10/18/2013,D-II,West Chester,Lock Haven,PUNT RETURNS,Brandon,Monk,AVG,2.0
+13042052,10/18/2013,D-II,West Chester,Lock Haven,PUNT RETURNS,Brandon,Monk,LONG,2
+13042053,10/18/2013,D-II,West Chester,Lock Haven,KICK RETURNS,Rondell,White,NO,1
+13042054,10/18/2013,D-II,West Chester,Lock Haven,KICK RETURNS,Rondell,White,YDS,26
+13042055,10/18/2013,D-II,West Chester,Lock Haven,KICK RETURNS,Rondell,White,AVG,26.0
+13042056,10/18/2013,D-II,West Chester,Lock Haven,KICK RETURNS,Rondell,White,LONG,26
+13042057,10/18/2013,D-II,West Chester,Lock Haven,KICK RETURNS,Brandon,Monk,NO,3
+13042058,10/18/2013,D-II,West Chester,Lock Haven,KICK RETURNS,Brandon,Monk,YDS,44
+13042059,10/18/2013,D-II,West Chester,Lock Haven,KICK RETURNS,Brandon,Monk,AVG,14.7
+13042060,10/18/2013,D-II,West Chester,Lock Haven,KICK RETURNS,Brandon,Monk,LONG,20
+13042061,10/18/2013,D-II,Lock Haven,West Chester,RUSHING,Matthew,Gibson,ATT,6
+13042062,10/18/2013,D-II,Lock Haven,West Chester,RUSHING,Matthew,Gibson,YDS,12
+13042063,10/18/2013,D-II,Lock Haven,West Chester,RUSHING,Matthew,Gibson,TD,1
+13042064,10/18/2013,D-II,Lock Haven,West Chester,RUSHING,Matthew,Gibson,LONG,6
+13042065,10/18/2013,D-II,Lock Haven,West Chester,RUSHING,Lloyd,Jackson,ATT,2
+13042066,10/18/2013,D-II,Lock Haven,West Chester,RUSHING,Lloyd,Jackson,YDS,2
+13042067,10/18/2013,D-II,Lock Haven,West Chester,RUSHING,Lloyd,Jackson,TD,0
+13042068,10/18/2013,D-II,Lock Haven,West Chester,RUSHING,Lloyd,Jackson,LONG,1
+13042069,10/18/2013,D-II,Lock Haven,West Chester,RUSHING,Beau,Swales,ATT,2
+13042070,10/18/2013,D-II,Lock Haven,West Chester,RUSHING,Beau,Swales,YDS,8
+13042071,10/18/2013,D-II,Lock Haven,West Chester,RUSHING,Beau,Swales,TD,0
+13042072,10/18/2013,D-II,Lock Haven,West Chester,RUSHING,Beau,Swales,LONG,5
+13042073,10/18/2013,D-II,Lock Haven,West Chester,RUSHING,Caleb,Walton,ATT,9
+13042074,10/18/2013,D-II,Lock Haven,West Chester,RUSHING,Caleb,Walton,YDS,11
+13042075,10/18/2013,D-II,Lock Haven,West Chester,RUSHING,Caleb,Walton,TD,0
+13042076,10/18/2013,D-II,Lock Haven,West Chester,RUSHING,Caleb,Walton,LONG,12
+13042077,10/18/2013,D-II,Lock Haven,West Chester,RUSHING,Brandon,Brader,ATT,19
+13042078,10/18/2013,D-II,Lock Haven,West Chester,RUSHING,Brandon,Brader,YDS,77
+13042079,10/18/2013,D-II,Lock Haven,West Chester,RUSHING,Brandon,Brader,TD,0
+13042080,10/18/2013,D-II,Lock Haven,West Chester,RUSHING,Brandon,Brader,LONG,22
+13042081,10/18/2013,D-II,Lock Haven,West Chester,PASSING,Caleb,Walton,CP-ATT-INT,14-23-1
+13042082,10/18/2013,D-II,Lock Haven,West Chester,PASSING,Caleb,Walton,YDS,186
+13042083,10/18/2013,D-II,Lock Haven,West Chester,PASSING,Caleb,Walton,TD,0
+13042084,10/18/2013,D-II,Lock Haven,West Chester,PASSING,Caleb,Walton,LONG,42
+13042085,10/18/2013,D-II,Lock Haven,West Chester,PASSING,Bryce,Stambaugh,CP-ATT-INT,0-1-0
+13042086,10/18/2013,D-II,Lock Haven,West Chester,PASSING,Bryce,Stambaugh,YDS,0
+13042087,10/18/2013,D-II,Lock Haven,West Chester,PASSING,Bryce,Stambaugh,TD,0
+13042088,10/18/2013,D-II,Lock Haven,West Chester,PASSING,Bryce,Stambaugh,LONG,0
+13042089,10/18/2013,D-II,Lock Haven,West Chester,PASSING,,Team,CP-ATT-INT,0-1-0
+13042090,10/18/2013,D-II,Lock Haven,West Chester,PASSING,,Team,YDS,0
+13042091,10/18/2013,D-II,Lock Haven,West Chester,PASSING,,Team,TD,0
+13042092,10/18/2013,D-II,Lock Haven,West Chester,PASSING,,Team,LONG,0
+13042093,10/18/2013,D-II,Lock Haven,West Chester,RECEIVING,James,Wilbern,REC,7
+13042094,10/18/2013,D-II,Lock Haven,West Chester,RECEIVING,James,Wilbern,YDS,118
+13042095,10/18/2013,D-II,Lock Haven,West Chester,RECEIVING,James,Wilbern,TD,0
+13042096,10/18/2013,D-II,Lock Haven,West Chester,RECEIVING,James,Wilbern,LONG,42
+13042097,10/18/2013,D-II,Lock Haven,West Chester,RECEIVING,Jesse,Hoover,REC,4
+13042098,10/18/2013,D-II,Lock Haven,West Chester,RECEIVING,Jesse,Hoover,YDS,37
+13042099,10/18/2013,D-II,Lock Haven,West Chester,RECEIVING,Jesse,Hoover,TD,0
+13042100,10/18/2013,D-II,Lock Haven,West Chester,RECEIVING,Jesse,Hoover,LONG,18
+13042101,10/18/2013,D-II,Lock Haven,West Chester,RECEIVING,Matthew,Gibson,REC,1
+13042102,10/18/2013,D-II,Lock Haven,West Chester,RECEIVING,Matthew,Gibson,YDS,13
+13042103,10/18/2013,D-II,Lock Haven,West Chester,RECEIVING,Matthew,Gibson,TD,0
+13042104,10/18/2013,D-II,Lock Haven,West Chester,RECEIVING,Matthew,Gibson,LONG,13
+13042105,10/18/2013,D-II,Lock Haven,West Chester,RECEIVING,David,Cook,REC,1
+13042106,10/18/2013,D-II,Lock Haven,West Chester,RECEIVING,David,Cook,YDS,9
+13042107,10/18/2013,D-II,Lock Haven,West Chester,RECEIVING,David,Cook,TD,0
+13042108,10/18/2013,D-II,Lock Haven,West Chester,RECEIVING,David,Cook,LONG,9
+13042109,10/18/2013,D-II,Lock Haven,West Chester,RECEIVING,Eddie,Celkos,REC,1
+13042110,10/18/2013,D-II,Lock Haven,West Chester,RECEIVING,Eddie,Celkos,YDS,9
+13042111,10/18/2013,D-II,Lock Haven,West Chester,RECEIVING,Eddie,Celkos,TD,0
+13042112,10/18/2013,D-II,Lock Haven,West Chester,RECEIVING,Eddie,Celkos,LONG,9
+13042113,10/18/2013,D-II,Lock Haven,West Chester,PUNTING,Caleb,Walton,NO,1
+13042114,10/18/2013,D-II,Lock Haven,West Chester,PUNTING,Caleb,Walton,YDS,29
+13042115,10/18/2013,D-II,Lock Haven,West Chester,PUNTING,Caleb,Walton,AVG,29.0
+13042116,10/18/2013,D-II,Lock Haven,West Chester,PUNTING,Caleb,Walton,LONG,29
+13042117,10/18/2013,D-II,Lock Haven,West Chester,PUNTING,Bryce,Stambaugh,NO,2
+13042118,10/18/2013,D-II,Lock Haven,West Chester,PUNTING,Bryce,Stambaugh,YDS,92
+13042119,10/18/2013,D-II,Lock Haven,West Chester,PUNTING,Bryce,Stambaugh,AVG,46.0
+13042120,10/18/2013,D-II,Lock Haven,West Chester,PUNTING,Bryce,Stambaugh,LONG,51
+13042121,10/18/2013,D-II,Lock Haven,West Chester,PUNT RETURNS,Mike,Williams,NO,1
+13042122,10/18/2013,D-II,Lock Haven,West Chester,PUNT RETURNS,Mike,Williams,YDS,17
+13042123,10/18/2013,D-II,Lock Haven,West Chester,PUNT RETURNS,Mike,Williams,AVG,17.0
+13042124,10/18/2013,D-II,Lock Haven,West Chester,PUNT RETURNS,Mike,Williams,LONG,17
+13042125,10/18/2013,D-II,Lock Haven,West Chester,KICK RETURNS,Matthew,Gibson,NO,3
+13042126,10/18/2013,D-II,Lock Haven,West Chester,KICK RETURNS,Matthew,Gibson,YDS,70
+13042127,10/18/2013,D-II,Lock Haven,West Chester,KICK RETURNS,Matthew,Gibson,AVG,23.3
+13042128,10/18/2013,D-II,Lock Haven,West Chester,KICK RETURNS,Matthew,Gibson,LONG,32
+13042129,10/18/2013,D-II,Lock Haven,West Chester,KICK RETURNS,Beau,Swales,NO,2
+13042130,10/18/2013,D-II,Lock Haven,West Chester,KICK RETURNS,Beau,Swales,YDS,48
+13042131,10/18/2013,D-II,Lock Haven,West Chester,KICK RETURNS,Beau,Swales,AVG,24.0
+13042132,10/18/2013,D-II,Lock Haven,West Chester,KICK RETURNS,Beau,Swales,LONG,29
+13042133,10/18/2013,D-II,Lock Haven,West Chester,KICK RETURNS,Bernard,Smack,NO,1
+13042134,10/18/2013,D-II,Lock Haven,West Chester,KICK RETURNS,Bernard,Smack,YDS,16
+13042135,10/18/2013,D-II,Lock Haven,West Chester,KICK RETURNS,Bernard,Smack,AVG,16.0
+13042136,10/18/2013,D-II,Lock Haven,West Chester,KICK RETURNS,Bernard,Smack,LONG,16

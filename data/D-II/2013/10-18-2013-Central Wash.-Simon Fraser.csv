@@ -1,0 +1,73 @@
+ID,date,division,team,opponent,statCategory,firstName,lastName,statistic,value
+13045001,10/18/2013,D-II,Central Wash.,Simon Fraser,RUSHING,J,Nelson,ATT,7
+13045002,10/18/2013,D-II,Central Wash.,Simon Fraser,RUSHING,J,Nelson,YDS,50
+13045003,10/18/2013,D-II,Central Wash.,Simon Fraser,RUSHING,J,Nelson,TD,0
+13045004,10/18/2013,D-II,Central Wash.,Simon Fraser,RUSHING,J,Nelson,LONG,36
+13045005,10/18/2013,D-II,Central Wash.,Simon Fraser,RUSHING,,Team,ATT,22
+13045006,10/18/2013,D-II,Central Wash.,Simon Fraser,RUSHING,,Team,YDS,168
+13045007,10/18/2013,D-II,Central Wash.,Simon Fraser,RUSHING,,Team,TD,2
+13045008,10/18/2013,D-II,Central Wash.,Simon Fraser,RUSHING,,Team,LONG,42
+13045009,10/18/2013,D-II,Central Wash.,Simon Fraser,RUSHING,B,Davis,ATT,10
+13045010,10/18/2013,D-II,Central Wash.,Simon Fraser,RUSHING,B,Davis,YDS,29
+13045011,10/18/2013,D-II,Central Wash.,Simon Fraser,RUSHING,B,Davis,TD,0
+13045012,10/18/2013,D-II,Central Wash.,Simon Fraser,RUSHING,B,Davis,LONG,8
+13045013,10/18/2013,D-II,Central Wash.,Simon Fraser,RUSHING,,Team,ATT,12
+13045014,10/18/2013,D-II,Central Wash.,Simon Fraser,RUSHING,,Team,YDS,58
+13045015,10/18/2013,D-II,Central Wash.,Simon Fraser,RUSHING,,Team,TD,0
+13045016,10/18/2013,D-II,Central Wash.,Simon Fraser,RUSHING,,Team,LONG,19
+13045017,10/18/2013,D-II,Central Wash.,Simon Fraser,PASSING,J,Nelson,CP-ATT-INT,10-13-1
+13045018,10/18/2013,D-II,Central Wash.,Simon Fraser,PASSING,J,Nelson,YDS,74
+13045019,10/18/2013,D-II,Central Wash.,Simon Fraser,PASSING,J,Nelson,TD,1
+13045020,10/18/2013,D-II,Central Wash.,Simon Fraser,PASSING,J,Nelson,LONG,21
+13045021,10/18/2013,D-II,Central Wash.,Simon Fraser,PASSING,,Team,CP-ATT-INT,1-1-0
+13045022,10/18/2013,D-II,Central Wash.,Simon Fraser,PASSING,,Team,YDS,54
+13045023,10/18/2013,D-II,Central Wash.,Simon Fraser,PASSING,,Team,TD,1
+13045024,10/18/2013,D-II,Central Wash.,Simon Fraser,PASSING,,Team,LONG,54
+13045025,10/18/2013,D-II,Central Wash.,Simon Fraser,RECEIVING,,Team,REC,2
+13045026,10/18/2013,D-II,Central Wash.,Simon Fraser,RECEIVING,,Team,YDS,34
+13045027,10/18/2013,D-II,Central Wash.,Simon Fraser,RECEIVING,,Team,TD,1
+13045028,10/18/2013,D-II,Central Wash.,Simon Fraser,RECEIVING,,Team,LONG,21
+13045029,10/18/2013,D-II,Central Wash.,Simon Fraser,PUNTING,,Team,NO,3
+13045030,10/18/2013,D-II,Central Wash.,Simon Fraser,PUNTING,,Team,YDS,130
+13045031,10/18/2013,D-II,Central Wash.,Simon Fraser,PUNTING,,Team,AVG,43.3
+13045032,10/18/2013,D-II,Central Wash.,Simon Fraser,PUNTING,,Team,LONG,49
+13045033,10/18/2013,D-II,Central Wash.,Simon Fraser,PUNT RETURNS,I,Davis,NO,3
+13045034,10/18/2013,D-II,Central Wash.,Simon Fraser,PUNT RETURNS,I,Davis,YDS,79
+13045035,10/18/2013,D-II,Central Wash.,Simon Fraser,PUNT RETURNS,I,Davis,AVG,26.3
+13045036,10/18/2013,D-II,Central Wash.,Simon Fraser,PUNT RETURNS,I,Davis,LONG,59
+13045037,10/18/2013,D-II,Central Wash.,Simon Fraser,PUNT RETURNS,,Team,NO,1
+13045038,10/18/2013,D-II,Central Wash.,Simon Fraser,PUNT RETURNS,,Team,YDS,1
+13045039,10/18/2013,D-II,Central Wash.,Simon Fraser,PUNT RETURNS,,Team,AVG,1.0
+13045040,10/18/2013,D-II,Central Wash.,Simon Fraser,PUNT RETURNS,,Team,LONG,1
+13045041,10/18/2013,D-II,Central Wash.,Simon Fraser,KICK RETURNS,,Team,NO,1
+13045042,10/18/2013,D-II,Central Wash.,Simon Fraser,KICK RETURNS,,Team,YDS,24
+13045043,10/18/2013,D-II,Central Wash.,Simon Fraser,KICK RETURNS,,Team,AVG,24.0
+13045044,10/18/2013,D-II,Central Wash.,Simon Fraser,KICK RETURNS,,Team,LONG,24
+13045045,10/18/2013,D-II,Central Wash.,Simon Fraser,KICK RETURNS,D,Johnson,NO,1
+13045046,10/18/2013,D-II,Central Wash.,Simon Fraser,KICK RETURNS,D,Johnson,YDS,16
+13045047,10/18/2013,D-II,Central Wash.,Simon Fraser,KICK RETURNS,D,Johnson,AVG,16.0
+13045048,10/18/2013,D-II,Central Wash.,Simon Fraser,KICK RETURNS,D,Johnson,LONG,16
+13045049,10/18/2013,D-II,Central Wash.,Simon Fraser,KICK RETURNS,,Team,NO,1
+13045050,10/18/2013,D-II,Central Wash.,Simon Fraser,KICK RETURNS,,Team,YDS,75
+13045051,10/18/2013,D-II,Central Wash.,Simon Fraser,KICK RETURNS,,Team,AVG,75.0
+13045052,10/18/2013,D-II,Central Wash.,Simon Fraser,KICK RETURNS,,Team,LONG,75
+13045053,10/18/2013,D-II,Simon Fraser,Central Wash.,RUSHING,,Team,ATT,7
+13045054,10/18/2013,D-II,Simon Fraser,Central Wash.,RUSHING,,Team,YDS,70
+13045055,10/18/2013,D-II,Simon Fraser,Central Wash.,RUSHING,,Team,TD,0
+13045056,10/18/2013,D-II,Simon Fraser,Central Wash.,RUSHING,,Team,LONG,42
+13045057,10/18/2013,D-II,Simon Fraser,Central Wash.,PASSING,,Team,CP-ATT-INT,19-27-3
+13045058,10/18/2013,D-II,Simon Fraser,Central Wash.,PASSING,,Team,YDS,158
+13045059,10/18/2013,D-II,Simon Fraser,Central Wash.,PASSING,,Team,TD,2
+13045060,10/18/2013,D-II,Simon Fraser,Central Wash.,PASSING,,Team,LONG,44
+13045061,10/18/2013,D-II,Simon Fraser,Central Wash.,RECEIVING,,Team,REC,3
+13045062,10/18/2013,D-II,Simon Fraser,Central Wash.,RECEIVING,,Team,YDS,3
+13045063,10/18/2013,D-II,Simon Fraser,Central Wash.,RECEIVING,,Team,TD,0
+13045064,10/18/2013,D-II,Simon Fraser,Central Wash.,RECEIVING,,Team,LONG,3
+13045065,10/18/2013,D-II,Simon Fraser,Central Wash.,PUNTING,,Team,NO,6
+13045066,10/18/2013,D-II,Simon Fraser,Central Wash.,PUNTING,,Team,YDS,221
+13045067,10/18/2013,D-II,Simon Fraser,Central Wash.,PUNTING,,Team,AVG,36.8
+13045068,10/18/2013,D-II,Simon Fraser,Central Wash.,PUNTING,,Team,LONG,48
+13045069,10/18/2013,D-II,Simon Fraser,Central Wash.,KICK RETURNS,,Team,NO,4
+13045070,10/18/2013,D-II,Simon Fraser,Central Wash.,KICK RETURNS,,Team,YDS,90
+13045071,10/18/2013,D-II,Simon Fraser,Central Wash.,KICK RETURNS,,Team,AVG,22.5
+13045072,10/18/2013,D-II,Simon Fraser,Central Wash.,KICK RETURNS,,Team,LONG,24
